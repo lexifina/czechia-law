@@ -1,0 +1,23 @@
+30 Cdo 474/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Olgy Puškinové a soudců JUDr. Karla Podolky a JUDr. Pavla Pavlíka v právní věci žalobce Z. Š., proti žalované: M. u. s., a. s., právní nástupce, o nejasné podání, vedené u Okresního soudu v Mostě pod sp. zn. 11 C 729/2003, o dovolání žalobce proti usnesení Krajského soudu v Ústí nad Labem ze dne 11. srpna 2004, č. j. 11 Co 493/2004 - 73, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Mostě usnesením ze dne 25. 5. 2004, č. j. 11 C 729/2003 - 66, odmítl podle § 43 odst. 2 o. s. ř. „žalobu na odstoupení od kupní smlouvy, podanou u Krajského soudu v Ústí nad Labem dne 4. 10. 1999“, neboť žalobce ani přes výzvu a poučení soudu neodstranil vady tohoto podání, jímž se řízení zahajuje, a pro tento nedostatek nelze v řízení pokračovat; současně rozhodl o náhradě nákladů řízení
+K odvolání žalobce Krajský soud v Ústí nad Labem usnesením ze dne 11. 8. 2004, č. j. 11 Co 493/2004 -73, usnesení soudu prvního stupně potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Proti tomuto usnesení odvolacího soudu podal žalobce dne 22. 11. 2004 dovolání, v němž vyjádřil nesouhlas s rozhodnutími soudů obou stupňů.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) po zjištění, že dovolání, které bylo proti pravomocnému usnesení odvolacího soudu podáno oprávněnou osobou (účastníkem řízení) ve lhůtě uvedené v ustanovení § 240 odst. 1 o. s. ř., dospěl k závěru, že v dané věci brání rozhodnutí o dovolání nedostatek podmínky dovolacího řízení.
+Podle ustanovení § 240 odst. 1 věty první o. s. ř. účastník může podat dovolání
+do dvou měsíců od doručení rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni.
+Podle ustanovení § 241 odst. 1 věty první o. s. ř. není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Podle ustanovení § 241 odst. 2 o. s. ř. odstavec 1 neplatí,
+a) je-li dovolatelem fyzická osoba, která má právnické vzdělání,
+b) b) je-li dovolatelem právnická osoba, stát, obec nebo vyšší územně samosprávný celek, jedná-li za ně osoba uvedená v § 21, 21a, anebo v § 21b, která má právnické vzdělání. Podle odst. 4 dovolání musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem, notářem nebo osobou uvedenou v § 21, 21a, 21b, anebo v § 26a odst. 3, která má právnické vzdělání.
+Pro podání dovolání, které je mimořádným opravným prostředkem, zákon stanoví požadavek, aby účastník řízení, který podává dovolání, měl buď sám právnické vzdělání, nebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc. Ustanovení § 241 o. s. ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejího splnění nelze o dovolání rozhodnout.
+V dané věci podal žalobce dovolání proti usnesení odvolacího soudu, aniž byl při tomto úkonu zastoupen advokátem, a nebylo ani tvrzeno, že by měl právnické vzdělání. Usnesením soudu prvního stupně ze dne 6. 1. 2005, č. j. 11 C 729/2003 - 79, byl žalobce vyzván, aby si pro podání dovolání zvolil zástupcem advokáta (notáře) a aby jeho prostřednictvím podal řádné dovolání proti usnesení odvolacího soudu, sepsané advokátem či notářem (který může dovolatele zastupovat pouze v rozsahu svého oprávnění stanoveného zvláštními předpisy), a současně byl poučen o tom, že nebude-li ve lhůtě 15 dnů ode dne doručení tohoto usnesení předloženo řádné dovolání, dovolací soud řízení zastaví. Usnesení bylo žalobci doručeno dne 14. 1. 2004, avšak dosud nedostatek povinného zastoupení neodstranil; podáním ze dne 31. 1. 2005 požádal o prodloužení lhůty k odstranění uvedeného nedostatku a v dalším podání ze dne 21. 2. 2005 uvedl, „že své konečné stanovisko, zda dovolání či řízení odvolá, sdělí po vyjádření právního zástupce v dohledné době“.
+Vzhledem k tomu, že dovolatel podal dovolání proti rozhodnutí odvolacího soudu, aniž by při tomto úkonu byl zastoupen advokátem a aniž by doložil, že má právnické vzdělání, nebyl nedostatek podmínky dovolacího řízení podle ustanovení § 241 odst. 1 věty první o. s. ř. ani přes poučení odstraněn; Nejvyšší soud proto dovolací řízení podle § 243c odst. 1 a § 104 odst. 2 věty třetí o. s. ř. zastavil.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, § 224 odst. 1 a § 146 odst. 1 písm. c) o. s. ř., neboť žalované v tomto řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 9. března 2005
+JUDr. Olga Puškinová, v.r.
+předsedkyně senátu
