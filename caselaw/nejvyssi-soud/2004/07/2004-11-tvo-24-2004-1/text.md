@@ -1,0 +1,16 @@
+11 Tvo 24/2004
+U S N E S E N Í
+Nejvyšší soud projednal v neveřejném zasedání konaném dne 12. 7. 2004 stížnost obviněného L. K., proti usnesení Vrchního soudu v Olomouci ze dne 31. 5. 2004, sp. zn. 5 To 39/2004, a rozhodl t a k t o :
+Podle § 148 odst. 1 písm. c) tr. řádu s e stížnost obviněného L. K. z a m í t á .
+O d ů v o d n ě n í :
+Rozsudkem Krajského soudu v Ostravě ze dne 2. 3. 2004, sp. zn. 31 T 1/2003, byl obviněný L. K. uznán vinným trestným činem zpronevěry podle § 248 odst. 1, 2 tr. zák., trestným činem podvodu podle § 250 odst. 1, 3 písm. b) tr. zák. dílem dokonaným a dílem nedokonaným ve stadiu pokusu podle § 8 odst. 1 tr. zák. k § 250 odst. 1, 3 písm. b) tr. zák. a trestným činem maření výkonu úředního rozhodnutí podle § 171 odst. 2 písm. b) tr. zák. a odsouzen k nepodmíněnému trestu odnětí svobody v trvání pěti let, pro jehož výkon byl zařazen do věznice s ostrahou, k trestu zákazu činnosti a povinnosti nahradit poškozeným škodu.
+Proti tomuto rozsudku podal obviněný L. K. a poškozený DS L. a. s., B., odvolání a trestní věc se v době rozhodování o vazbě obviněného nacházela ve stadiu odvolacího řízení před Vrchním soudem v Olomouci.
+Vrchní soud v Olomouci usnesením ze dne 31. 5. 2004, sp. zn. 5 To 39/2004, podle § 71 odst. 4, 6, 7 tr. řádu ponechal obviněného L. K. z důvodu podle § 67 písm. a) tr. řádu i nadále ve vazbě.
+Proti tomuto usnesení podal obviněný v zákonné lhůtě stížnost, neboť s ponecháním ve vazbě nesouhlasí a navrhl, aby Nejvyšší soud napadené usnesení zrušil, a aby byl z vazby propuštěn na svobodu.
+Nejvyšší soud z podnětu podané stížnosti přezkoumal podle § 147 odst. 1 tr. řádu správnost napadeného rozhodnutí i řízení, které mu předcházelo, a dospěl k tomuto závěru.
+Obviněný L. K. byl vzat do vazby usnesením Krajského soudu v Ostravě ze dne 6. 1. 2004, sp. zn. 31 T 1/2003, z důvodů § 67 písm. a) tr. řádu. O důvodnosti vazby obviněného bylo v průběhu dosavadního řízení opakovaně rozhodováno, naposledy usnesením Vrchního soudu v Olomouci ze dne 31. 5. 2004, kterým byl ponechán ve vazbě, neboť u něj byl i nadále shledán důvod vazby útěkové. Rozsudkem soudu prvního stupně byl obviněný uznán vinným závažným trestným činem a v případě pravomocného prokázání viny mu stále hrozí uložení vysokého trestu odnětí svobody v rozmezí od dvou do deseti let. Zanedbatelné rovněž není, že se obviněný, který byl v téže trestní věci již vazebně stíhán v době od 18. 3. 2002 do 27. 6. 2003, v průběhu trestního řízení hlavnímu líčení opakovaně vyhýbal, dokonce i pobytem v cizině, který soudu neoznámil. Za tohoto stavu je obava z vyhýbání se trestnímu řízení tím, že by obviněný mohl uprchnout, i nadále reálná. V tomto směru lze odkázat na zdůvodnění všech předchozích rozhodnutí, včetně výroku i odůvodnění napadeného usnesení vrchního soudu. Protože se Nejvyšší soud s tímto rozhodnutím plně ztotožňuje, nemohla se stížnost obviněného L. K. setkat s úspěchem a nezbylo, než rozhodnout, jak je ve výroku tohoto usnesení uvedeno.
+V současné době jsou ovšem úvahy o důvodnosti vazby obviněného L. K. zbytečné, protože rozsudkem Vrchního soudu v Olomouci ze dne 23. 6. 2004 byla trestní věc obviněného pravomocně skončena a on byl převeden z vazby do výkonu trestu odnětí svobody.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 12. července 2004
+Předseda senátu:
+JUDr. Pavel Kučera
