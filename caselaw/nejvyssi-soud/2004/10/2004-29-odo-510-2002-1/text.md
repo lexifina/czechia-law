@@ -1,0 +1,20 @@
+29 Odo 510/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Krčmáře a soudců JUDr. Petra Gemmela a JUDr. Ivany Štenglové ve věci konkursu dlužnice D., a. s. „v likvidaci“, zastoupené, advokátem, o návrhu věřitelky Ch. H., a. s., na prohlášení konkursu na majetek dlužnice, vedené u Krajského soudu v Hradci Králové pod sp. zn. 38 K 8/2001, o dovolání dlužnice proti usnesení Vrchního soudu v Praze ze dne 10. září 2001, č. j. 1 Ko 320/2001-303, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Vrchní soud v Praze usnesením ze dne 10. září 2001, č. j. 1 Ko 320/2001-303, potvrdil usnesení ze dne 9. května 2001, č. j. 38 K 8/2001-91, jímž Krajský soud v Hradci Králové prohlásil konkurs na majetek dlužnice. Odvolací soud přisvědčil závěru soudu prvního stupně, že byl osvědčen úpadek dlužnice, když v řízení bylo prokázáno, že dlužnice dlouhodobě neplní své splatné závazky vůči více věřitelům.
+Dlužnice podala proti usnesení odvolacího soudu včas dovolání, jež má za přípustné dle ustanovení § 238a odst. 1 písm. a/ občanského soudního řádu (dále též jen „o. s. ř.“), s tím, že je dán dovolací důvod uvedený v ustanovení § 241a odst. 2 písm. b/ o. s. ř., tedy že rozhodnutí spočívá na nesprávném právním posouzení věci. Konkrétně polemizuje se závěrem odvolacího soudu, že byl osvědčen její úpadek, a v dovolání snáší argumenty pro závěr, že tomu tak není. Proto dovolatelka požaduje, aby Nejvyšší soud napadené usnesení zrušil a věc vrátil odvolacímu soudu k dalšímu řízení.
+Dovolání v této věci není přípustné.
+Přípustnost dovolání proti usnesení odvolacího soudu upravují ustanovení § 237 až § 239 o. s. ř.
+Ustanovení § 238, § 238a odst. 1 písm. b/ až g/ a § 239 o. s. ř. nezakládají přípustnost dovolání proto, že napadené rozhodnutí nelze podřadit žádnému z tam vyjmenovaných případů.
+Oproti očekávání dovolatelky nelze závěr o nepřípustnosti dovolání zvrátit ani poukazem na úpravu obsaženou v ustanovení § 238a odst. 1 písm. a/ o. s. ř., podle kterého je dovolání přípustné i proti usnesení odvolacího soudu, jímž bylo potvrzeno nebo změněno usnesení soudu prvního stupně, kterým bylo rozhodnuto ve věci konkursu a vyrovnání. Dovolatelka totiž přehlédla, že dle ustanovení § 238a odst. 2 o. s. ř. platí v takovém případě obdobně ustanovení § 237 odst. 1 a 3 o. s. ř.
+S přihlédnutím k uvedenému platí, že podle ustanovení § 238a odst. 1 písm. a/ o. s. ř. je možné přípustnost dovolání založit jen ve spojení s ustanovením § 237 odst. 1 písm. c/ o. s. ř. Jinak řečeno, dovolání může být přípustné jen za předpokladu, že dovolací soud dospěje k závěru, že napadené potvrzující rozhodnutí má ve věci samé po právní stránce zásadní význam. Podmínka, aby šlo o rozhodnutí „ve věci samé“, je v tomto případě splněna (srov. též usnesení Nejvyššího soudu uveřejněné pod číslem 51/2003 Sbírky soudních rozhodnutí a stanovisek).
+Ustanovení § 237 odst. 3 o. s. ř. pak určuje, že rozhodnutí odvolacího soudu má po právní stránce zásadní význam [odstavec 1 písm. c)] zejména tehdy, řeší-li právní otázku, která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo která je odvolacími soudy nebo dovolacím soudem rozhodována rozdílně, nebo řeší-li právní otázku v rozporu s hmotným právem.
+Nejvyšší soud pak ani po zvážení všech kritérií, jejichž prostřednictvím lze usuzovat na zásadní významnost rozhodnutí, napadené rozhodnutí za zásadně významné po právní stránce nepokládá. V rovině argumentů, jimiž dovolatelka brojí proti napadenému rozhodnutí, postrádá rozhodnutí potřebný judikatorní přesah.
+Tento závěr s sebou nese konečné posouzení podaného dovolání jako nepřípustného; Nejvyšší soud je proto, aniž nařizoval jednání (§ 243a odst. 1 věta první o. s. ř.), odmítl (§ 243b odst. 5, § 218 písm. c/ o. s. ř.).
+Skutečnost, že odvolací soud účastnici poučil, že dovolání je přípustné bez dalšího vedla toliko k tomu, že lhůta k podání dovolání dlužnici doběhla (v intencích ustanovení § 240 odst. 3 věty druhé o. s. ř.) až uplynutím čtyř měsíců od doručení napadeného usnesení
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 27. října 2004
+JUDr. Zdeněk Krčmář, v.r.
+předseda senátu
