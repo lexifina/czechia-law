@@ -1,0 +1,17 @@
+28 Cdo 1925/2002
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy JUDr. Milana Pokorného, CSc. a soudců JUDr. Josefa Rakovského a JUDr. Ludvíka Davida, CSc., o dovolání V. V., proti rozsudku Krajského soudu v Praze ze dne 16. dubna 2002, sp. zn. 28 Co 106/2002, vydanému v právní věci vedené u Okresního soudu v Berouně pod sp. zn. 5 C 236/99 (žalobce V. V., zastoupeného advokátkou, proti žalované M. Z., zastoupené advokátem, o vyklizení bytu), takto:
+I. Řízení o dovolání se zastavuje.
+II. Žádný z účastníků řízení nemá právo na náhradu nákladů řízení o dovolání.
+O d ů v o d n ě n í :
+Krajský soud v Praze jako soud odvolací rozhodl rozsudkem ze dne 16. 4. 2002, sp. zn. 28 Co 106/2002, o změně rozsudku Okresního soudu v Berouně z 28. 8. 2001, č. j. 5 C 236/99-59, ve výroku o bytové náhradě tak, že žalovaná je povinna vyklidit byt ve třetím podlaží domu ve Z. (o kuchyně a 3 pokojích s příslušenstvím), do 15 dnů po zajištění přiměřeného náhradního bytu; v dalším rozsudek soudu prvního stupně potvrdil. Ve výroku o nákladech řízení byl rozsudek soudu prvního stupně změněn tak, že žádný z účastníků nemá právo na náhradu nákladů řízení. Žádnému z účastníků nebylo přiznáno právo na náhradu nákladů odvolacího řízení.
+Proti tomuto rozsudku podal žalobce dne 3. 7. 2002 (tj. v zákonné lhůtě dvou měsíců od doručení rozsudku) dovolání. Toto dovolání napsal sám a není zastoupen advokátem.
+Podle ustanovení § 241 odst. 1, 2 občanského soudního řádu musí být dovolatel zastoupen advokátem nebo notářem; to neplatí, má-li sám právnické vzdělání nebo jedná-li za něj osoba s tímto vzděláním za předpokladů v zákoně blíže vymezených. Sepsal-li dovolatel dovolání sám, je nezbytné, aby jeho zmocněnec dovolání vlastním podáním nahradil, doplnil nebo se s ním ztotožnil. Zákon stanoví požadavek povinného zastoupení proto, aby dovolání splňovalo všechny zákonné podmínky a aby z něho mohl dovolací soud posoudit zejména rozsah přezkoumání napadeného rozhodnutí a dovolací důvody.
+Soud prvního stupně (v rámci procesních úkonů podle ustanovení § 241b odst. 1 a § 209 občanského soudního řádu) usnesením ze dne 15. 7. 2002 vyzval žalobce, aby si zvolil zástupcem advokáta, s následným doplněním dovolání, a upozornil též žalobce, že v případě nesplnění výzvy bude spis předložen dovolacímu soudu a dovolací řízení bude zastaveno.
+Usnesení soudu prvního stupně bylo žalobci doručeno do vlastních rukou dne 31. 7. 2002. Žalobce však, v soudcovské lhůtě třiceti dnů či později, na výzvu soudu nijak nereagoval a zástupce si nezvolil ani nepožádal o jeho ustanovení.
+Dovolací soud po předložení věci soudem prvního stupně postupoval podle ustanovení § 241b odst. 2 občanského soudního řádu. Třebaže je žalobce osobou oprávněnou k podání dovolání a dovolání proti rozhodnutí odvolacího soudu je přípustné, nedostatek podmínky řízení, spočívající v absenci povinného zastoupení, se nepodařilo odstranit. Proto dovolací soud, aniž by posoudil dovolání po věcné stránce, dovolací řízení zastavil (§ 243c odst. 1 a § 104 odst. 2 občanského soudního řádu).
+O nákladech dovolacího řízení rozhodl dovolací soud podle ustanovení § 146 odst. 2, věty první, občanského soudního řádu. Žalobce sice z procesního hlediska zavinil, že řízení muselo být zastaveno, žalované však žádné náklady dovolacího řízení nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 29. října 2002
+JUDr. Milan P o k o r n ý, CSc., v. r.
+předseda senátu
