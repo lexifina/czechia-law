@@ -18,6 +18,15 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 1999-01-13 | 100/0 | Návrh zákona |  |
+| 1999-02-11 | 100/1 | Stanovisko vlády k návrhu poslanců Milana Zuny a dalších na vydání zákona, kterým se mění zákon České národní rady č. 565/1990 Sb., o místních poplatcích, ve znění pozdějších předpisů | [t010001.md](t010001.md) |
+
+## Files
+
+Text as published by psp.cz, extracted from the official file and checked against a second extraction of the same file.
+
+| File | Print | Document | Official file | Extracted / checked |
+| --- | --- | --- | --- | --- |
+| [t010001.md](t010001.md) | 100/1 | Stanovisko vlády k návrhu poslanců Milana Zuny a dalších na vydání zákona, kterým se mění zákon České národní rady č. 565/1990 Sb., o místních poplatcích, ve znění pozdějších předpisů | [t010001.htm](https://www.psp.cz/sqw/text/orig2.sqw?idd=113254) | html / htmlparser 1.0000 |
 
 ## Not held as text
 
