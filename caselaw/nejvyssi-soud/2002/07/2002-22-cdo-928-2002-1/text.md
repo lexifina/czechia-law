@@ -1,0 +1,20 @@
+22 Cdo 928/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marie Rezkové a soudců JUDr. Františka Baláka a JUDr. Jiřího Spáčila, CSc., ve věci žalobců: A) F. S., zastoupeného advokátem, a B) V. S., zastoupené advokátem, proti žalované C. G. a. s., zastoupeného advokátem, o ochranu vlastnického práva a o zaplacení 50.000,- Kč s přísl., vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 9 C 163/2001, o dovolání žalobců proti usnesení Městského soudu v Praze ze dne 17. prosince 2001, č. j. 11 Co 429/2001-28, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Žalobou ze dne 20. 6. 2001 se žalobci domáhají z titulu ochrany vlastnického práva k nemovitosti - rodinnému domu postavenému na pozemku parc. č. 1889/1 v katastrálním území H., obec P., aby žalované bylo uloženo zdržet se uveřejnění vyobrazení této nemovitosti a šíření všech propagačních materiálů, ve kterých je vyobrazení předmětné nemovitosti a aby žalovaná zaplatila žalobcům z titulu bezdůvodného obohacení, které jí vzniklo pořízením fotografií domu žalobců pro veřejnou inzerci, 50.000,- Kč s příslušenstvím.
+Usnesením ze dne 10. září 2001, č. j. 9 C 163/2001-14, Obvodního soudu pro Prahu 4 (dále jen „soud prvního stupně“) jako předběžným opatřením vydaným podle § 102 odst. 1 OSŘ bylo žalované uloženo, aby se zdržela: 1) šíření svých reklamních publikací „Katalogu bydlení-C. G.“, inzertní brožury „Rodinné domy, parcely, celková nabídka podzim-zima 2000/2001“, inzertní brožury „Rodinné doby, parcely jaro-léto 2001“ s vyobrazením rodinného domu ve vlastnictví žalobců, vystavěným na pozemku parc. č. 1889/1, v katastrálním území H., obec P., formou rozesílání a roznášení předem neurčeným osobám, nebo osobám, které si reklamní publikace nevyžádaly, 2) šíření vyobrazení rodinného domu žalobců a reklamní publikace „Katalogu bydlení-C. G.“ s vyobrazením rodinného domu žalobců na internetu, 3) při zadávání výroby propagačních materiálů, inzerce či jiné obrazové propagace, užití vyobrazení rodinného domu, který vlastní žalobci, vystavěný na pozemku parc. č. 1889/1, v katastrálním území H., obec P. Dále rozhodl o nákladech řízení.
+Krajský soud v Praze jako soud odvolací usnesením ze dne 17. prosince 2001, č. j. 11 Co 429/2001-28, změnil usnesení soudu prvního stupně tak, že návrh žalobců o vydání předběžného opatření zamítl a rozhodl o nákladech řízení.
+Proti usnesení odvolacího soudu podali žalobci dovolání. Namítají, že napadené usnesení bylo vydáno na základě nesprávného právního posouzení věci. Navrhli, aby bylo usnesení odvolacího soudu zrušeno a věc byla vrácena tomuto soudu k dalšímu řízení.
+Žalovaný se k dovolání nevyjádřil.
+Dovolací soud po zjištění, že dovolání bylo podáno proti usnesení odvolacího soudu oprávněnou osobou a včas, se jím zabýval nejprve z hlediska jeho přípustnosti.
+Podle § 236 odst. 1 OSŘ dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Dovolání proti usnesení odvolacího soudu, jímž bylo změněno rozhodnutí soudu prvního stupně, je přípustné za naplnění předpokladů uvedených v § 237 odst. 1 písm. a) - vyjma věcí uvedených v § 237 odst. 2, § 238 odst. 1, § 238a odst. 1 a § 239 odst. 2 písm. b) OSŘ.
+V dané věci bylo zamítnuto usnesení o vydání předběžného opatření, to znamená, že soud nerozhodl ve věci samé. Přípustnost dovolání nevyplývá proto z § 237 odst. 1 písm. a) OSŘ, kterými je stanovena jen pro usnesení, jimiž bylo rozhodnuto ve věci samé.
+Přípustnost dovolání nelze vyvodit ani z § 238 odst. 1, § 238a odst. 1 a § 239 odst. 2 písm. b) OSŘ, neboť mezi taxativně vyjmenovanými usneseními není usnesení, jímž bylo rozhodnuto podle § 102 odst. 1 OSŘ o vydání předběžného opatření (srovnej rozhodnutí C 867/svazek 12, Soboru rozhodnutí, vydávaného nakladatelstvím C. H. Beck).
+Nejvyšší soud proto dovolání jako nepřípustné odmítl [§ 243b odst. 5, § 218 odst. 1 písm. c) OSŘ].
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 11. července 2002
+JUDr. Marie Rezková, v. r.
+předsedkyně senátu
