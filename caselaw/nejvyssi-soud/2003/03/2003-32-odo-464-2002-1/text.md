@@ -1,0 +1,23 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+32 Odo 464/2002-121
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce P. H., podnikatele, proti žalovanému S. f. N., spol. s r. o. „v likvidaci“, o 100.902,40 Kč s přísl., vedené u Krajského soudu v Ostravě pod sp. zn. 3 Cm 1139/95, o dovolání žalobce proti rozsudku Vrchního soudu v Olomouci ze dne 7. 2. 2002, čj. 7 Cmo 622/99-100, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Výše označeným rozsudkem Vrchní soud v Olomouci jako odvolací soud rozhodl v předmětné věci, že rozsudek Krajského obchodního soudu v Ostravě ze dne 26. března 1999, čj. 3 Cm 1139/95-79, se v napadené části, to je v odst. I. výroku a souvisejícím odst. II. výroku, potvrzuje. Dále rozhodl, že žalobce je povinen zaplatit žalovanému na náhradě nákladů odvolacího řízení částku 3.350,- Kč do tří dnů od právní moci tohoto rozsudku na účet zástupce žalovaného.
+Proti rozsudku odvolacího soudu podal žalobce (právně zastoupen), dovolání ze dne 15. 5. 2002, v němž žádá, aby dovolací soud ve smyslu § 237 odst. 1 písm. c) občanského soudního řádu, (zákon č. 99/1963 Sb., dovolatelem uvažován zřejmě ve znění účinném po 1. 1. 2001) dovodil, že napadené rozhodnutí ve věci samé má po právní stránce zásadní význam. Dovolatel nastoluje otázku právních důsledků zápisu o předání díla podle ust. § 554 odst. 1 obchodního zákoníku a má za to, že napadené rozhodnutí spočívá na nesprávném právním posouzení věci.
+Navrhuje, aby dovolací soud napadený rozsudek odvolacího soudu zrušil.
+Podle bodu 17., hlavy I., části dvanácté zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů, se projednají a rozhodnou podle dosavadních právních předpisů (tj. podle občanského soudního řádu ve znění účinném před 1. 1. 2001, ve zkratce „o. s. ř.“).
+Odvolací soud v předmětném případě výslovně postupoval podle ustanovení § 206, § 212 odst. 1 a 2 o. s. ř. ve znění účinném do 31. 12. 2000 ve smyslu čl. 15, hlava I., část dvanáctá zákona č. 30/2000 Sb. a v souladu se shora cit. přechodným ustanovením rovněž dovolací soud postupoval podle občanského soudního řádu ve znění účinném do 31. 12. 2000.
+Projednáním dovolání a rozhodnutí o něm podle dosavadních předpisů ve smyslu výše cit. přechodných ustanovení se rozumí nejen např. posuzování podmínek řízení, jakož i vymezení náležitostí písemného vyhotovení rozhodnutí (včetně toho, že v záhlaví usnesení se neuvádí složení senátu); podle dosavadních právních předpisů soud zkoumá, jako součást procesu projednání dovolání a rozhodnutí o něm, též včasnost dovolání včetně vymezení běhu lhůty k jeho podání (shodný závěr formuloval Nejvyšší soud např. v usnesení uveřejněném pod č. 70/2001 Sbírky soudních rozhodnutí a stanovisek a Ústavní soud v usneseních ze dne 2. ledna 2002, sp. zn. I. ÚS 660/2001, ze dne 24. ledna 2002, sp. zn. IV. ÚS 560/2001, jakož i ze dne 29. dubna 2002, sp. zn. I. ÚS 88/2002).
+Podle ust. § 240 odst. 1 o. s. ř. účastník může podat dovolání do jednoho měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Zmeškání lhůty k podání dovolání nelze prominout, lhůta je však zachována, bude-li dovolání podáno ve lhůtě u odvolacího nebo dovolacího soudu (§ 240 odst. 2 o. s. ř.).
+V posuzovaném případě rozsudek odvolacího soudu byl doručen zástupci žalobce dne 15. 3. 2002, v kterýžto den současně nabyl právní moci (ve spise čl. 100).
+V souladu s ust. § 57 odst. 2 o. s. ř. byl posledním dnem jednoměsíční lhůty k podání dovolání den 15. 4. 2002 (pondělí). Ze spisu nevyplývá, že by dovolání bylo doručeno soudu dříve, než podáním na poštu dne 16. 5. 2002 a je proto opožděné (po uplynutí lhůty k podání dovolání bylo ostatně – dne 15. 5. 2002 – i vyhotoveno).
+Nejvyšší soud proto podle ust. § 243b odst. 4 ve vazbě na ust. § 218 odst. 1 písm. a) o. s. ř. opožděné dovolání odmítl.
+Dovolatel z procesního hlediska zavinil, že dovolání bylo odmítnuto, žalovanému však podle obsahu spisu žádné náklady v dovolacím řízení nevznikly. Tomu odpovídá ve smyslu ust. § 146 odst. 2 věty první (per analogiam) v návaznosti na § 224 odst. 1 a § 243b odst. 4 o. s. ř. výrok, že na náhradu nákladů dovolacího řízení nemá právo žádný z účastníků.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 20. března 2003
+JUDr. František Faldyna, CSc., v.r.
+předseda senátu
