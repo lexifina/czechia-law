@@ -1,0 +1,14 @@
+25 Nd 179/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marty Škárové a soudců JUDr. Olgy Puškinové a JUDr. Petra Vojtka v právní věci žalobce M. K., proti žalovanému Z. S., t. č. neznámého pobytu, o 35.000,- Kč, vedené u Okresního soudu v Náchodě pod sp. zn. 6 C 263/2001, o určení místní příslušnosti podle § 11 odst. 3 o. s. ř., takto:
+Věc vedenou u Okresního soudu v Náchodě pod sp. zn. 6 C 263/2001 projedná a rozhodne Okresní soud v Náchodě.
+O d ů v o d n ě n í :
+Žalobce se žalobou ze dne 27. 12. 2001 domáhá zaplacení částky 35.000,- Kč s odůvodněním, že tuto částku půjčil žalovanému na základě smlouvy o půjčce ze dne 27. 5. 1992, a přestože se žalovaný zavázal vrátit ji do 26. 5. 1992, doposud tak neučinil.
+Okresní soud v Náchodě usnesením ze dne 10. 6. 2002, č. j. 6 C 263/2001-43, vyslovil svoji místní nepříslušnost a věc po právní moci tohoto usnesení předložil Nejvyššímu soudu České republiky k rozhodnutí podle ust. § 11 odst. 3 o. s. ř., který soud věc projedná a rozhodne. V odůvodnění svého rozhodnutí okresní soud uvedl, že žalobce označil bydliště žalovaného v N., zde však žalovaný v době zahájení řízení nebydlel a ani nyní zde nebydlí. Žalovaný je trvale hlášen k pobytu v D., ale ani v tomto místě se v době zahájení řízení nezdržoval a nezdržuje. Místně příslušný soud žalovaného se nepodařilo zjistit, stejně jako místo, kde má v současné době žalovaný majetek, a protože soud nemohl uzavřít, že žalovaný v době zahájení řízení vůbec neměl obecný soud, nemohl bez dalšího postupovat podle § 86 o. s. ř. V době zahájení řízení však Okresní soud v Náchodě nebyl soudem místně příslušným.
+Podle ustanovení § 11 odst. 1 o. s. ř. se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení.
+Podle ustanovení § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+V daném případě věc patří do pravomoci soudů České republiky, neboť jde o občanskoprávní vztah bez mezinárodního prvku (§ 7 odst. 1 o. s. ř.). Vzhledem k tomu, že není možné zjistit obecný soud žalovaného v době zahájení řízení, a tedy podmínky místní příslušnosti nelze z ust. § 84 až § 89a dovodit, jsou zákonné předpoklady pro určení místně příslušného soudu podle § 11 odst. 3 o. s. ř. naplněny. Přihlížeje k zásadě hospodárnosti řízení vyjádřené v § 6 o. s. ř. Nejvyšší soud ČR rozhodl, že věc projedná a rozhodne Okresní soud v Náchodě, u něhož bylo řízení zahájeno.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 19. září 2002
+JUDr. Marta Škárová,v.r.
+předsedkyně senátu
