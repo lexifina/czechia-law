@@ -1,0 +1,13 @@
+7 Tz 11/2002-1
+U S N E S E N Í
+Předseda senátu Nejvyššího soudu České republiky v řízení o stížnosti pro porušení zákona podané ministrem spravedlnosti ve prospěch obviněného R. Z., a spol., proti trestním příkazům Okresního soudu v Uherském Hradišti ze dne 22. 5. 1998, č. j. 2 T 127/98-57, 58, 59, rozhodl dne 25. dubna 2002 o návrhu obhájce JUDr. P. N., advokáta, t a k t o :
+Podle § 151 odst. 3 tr. ř., ve znění účinném od 1. 1. 2002, se JUDr. P. N., advokátovi, přiznává odměna za obhajování obviněného R. Z. v řízení o stížnosti pro porušení zákona a náhrada hotových výdajů v celkové výši 2.925,- Kč, slovy: dvatisícedevětsetdvacetpětkorunčeských.
+O d ů v o d n ě n í :
+Opatřením předsedy Nejvyššího soudu České republiky ze dne 20. 3. 2002 byl podle § 38 odst. 1 tr. ř., z důvodu § 36a odst. 2 písm. a) tr. ř., obviněnému R. Z. ustanoven obhájce JUDr. P. N., a to v řízení o stížnosti pro porušení zákona. Opatřením ze dne 12. 4. 2002 předseda senátu toto ustanovení obhájce zrušil, když pominul důvod nutné obhajoby (obviněný byl podmíněně propuštěn z výkonu trestu odnětí svobody).
+Obhájce obviněného návrhem ze dne 23. 4. 2002 navrhl, aby mu za obhajobu obviněného byla přiznána odměna za tři úkony právní služby, jejíž vyúčtování předložil a paušální náhrada hotových výdajů. Protože předmětem řízení o stížnosti pro porušení zákona bylo projednání trestného činu porušování povinností strážní služby podle § 285 odst. 1, 2 tr. zák. (1 rok až 5 let odnětí svobody), účtoval za jeden úkon právní služby v hodnotě 1.000,- Kč, snížené podle § 15a vyhl. č. 177/1996 Sb. (advokátní tarif v platném znění) o 10 %, částku 900,- Kč. Za převzetí obhajoby podle § 11 odst. 1 písm. b), prostudování spisu podle § 11 odst. 1 písm. f) a za písemné vyjádření ke stížnosti pro porušení zákona podle § 11 odst. 1 písm. l) cit. vyhlášky, tj. za tři úkony právní služby, tak účtoval celkem odměnu ve výši 2.700,- Kč. Náhradu hotových výdajů pak účtoval ve výši 225,- Kč (3 x 75,- Kč podle § 13 odst. 3 cit. vyhlášky). Celkem tak navrhl přiznání odměny a náhradu hotových výdajů ve výši 2.925,- Kč.
+Předseda senátu po přezkoumání oprávněnosti nároku obhájce shledal, že návrh je v souladu s výše uvedenými ustanoveními vyhl. č. 177/1996 Sb. a plně odpovídá také ustanovením § 7 a 10 odst. 3 písm. b) cit. vyhlášky. Rozhodl proto podle § 151 odst. 3 tr. ř. o přiznání celkové odměny a náhradě hotových výdajů ustanovenému obhájci tak, jak je uvedeno ve výroku tohoto usnesení.
+Přiznanou odměnu a náhradu hotových výdajů zašle účtárna Nejvyššího soudu České republiky na účet.
+Poučení: Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 25. dubna 2002
+Předseda senátu:
+JUDr. Michal Mikláš
