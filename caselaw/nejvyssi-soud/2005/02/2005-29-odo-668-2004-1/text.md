@@ -1,0 +1,17 @@
+29 Odo 668/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudců JUDr. Pavla Severina a JUDr. Ivany Štenglové v právní věci žalobce Ing. Z. J., CSc., zastoupeného , advokátem, proti žalovaným 1) P. b. a. s., 2) úpadkyni I. b., a. s., 3) Č. o. b., a. s., 4) úpadkyni C. P. a. s. v likvidaci, a 5) Č. k. a., o určení platnosti úvěrové smlouvy, vedené u Obvodního soudu pro Prahu 7 pod sp. zn. 5 C 245/2003, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 30. ledna 2004, č.j. 39 Co 34/2004-18, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Praze usnesením ze dne 30. ledna 2004, č.j. 39 Co 34/2004-18, potvrdil usnesení ze dne 9. prosince 2003, č.j. 5 C 245/2003-13, kterým Obvodní soud pro Prahu 7 - odkazuje na ustanovení § 43 odst. 1 a 2 a § 79 odst. 1 občanského soudního řádu (dále jen „o. s. ř.“) - odmítl žalobu ze dne 22. srpna 2003 ve spojení s podáním žalobce ze dne 23. října 2003 (první výrok) a žádnému z účastníků nepřiznal právo na náhradu nákladů odvolacího řízení (druhý výrok).
+Odvolací soud se ztotožnil se soudem prvního stupně v jeho závěru, že žalobce přes výzvu a poučení podle ustanovení § 43 odst. 1 a 2 o. s. ř. neodstranil vady žaloby, pro které nelze v řízení pokračovat.
+Proti tomuto usnesení podal žalobce dovolání, namítaje, že spočívá na nesprávném právním posouzení věci. Dovolatel akcentuje, že smlouva o úvěru podle ustanovení § 497 obchodního zákoníku musí obsahovat podstatné části, jimiž jsou určení věřitele a dlužníka, určení částky úvěru, závazek věřitele poskytnout peněžní prostředky a závazek dlužníka k vrácení částky úvěru a zaplacení úroku, s tím, že „předmětem jsou peněžní prostředky ve stanovené měně“ a smlouva je uzavřena dohodou o poskytnutí peněžních prostředků a nikoli faktickým poskytnutím těchto prostředků. Dále dovolatel snáší argumenty, na jejichž základě shledává smlouvu o úvěru č. 226 neplatnou, včetně jejich dodatků, a současně uzavírá, že úvěrová smlouva „řádně nevznikla“.
+Dovolání žalobce je přípustné podle ustanovení § 239 odst. 3 o. s. ř.; je však zjevně bezdůvodné.
+Dovolatel uplatněnými dovolacími důvody, jimiž je dovolací soud ve smyslu ustanovení § 242 odst. 3 věty první o. s. ř. vázán, nezpochybňuje správnost právního posouzení odvolacím soudem (a soudem prvního stupně) co do výkladu ustanovení § 43 odst. 1 a 2 o. s. ř., ve spojení s ustanovením § 79 odst. 1 o. s. ř., nýbrž (navzdory požadavku na určení platnosti úvěrové smlouvy) v dovolání odůvodňuje, proč je úvěrová smlouva neplatná, respektive z jakých důvodů řádně nevznikla.
+Jelikož dovolatel prostřednictvím uplatněného dovolacího důvodu a jeho obsahového vymezení nezpochybňuje správnost právního posouzení věci, na němž rozhodnutí odvolacího soudu spočívá, Nejvyšší soud - vzhledem k neexistenci vad, k nimž přihlíží z úřední povinnosti (§ 242 odst. 3 věta druhá o. s. ř.) - dovolání jako zjevně bezdůvodné podle ustanovení § 243b odst. 1 o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalobce bylo odmítnuto a žalovaným podle obsahu spisu žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 23. února 2005
+JUDr. Petr Gemmel, v.r.
+předseda senátu
