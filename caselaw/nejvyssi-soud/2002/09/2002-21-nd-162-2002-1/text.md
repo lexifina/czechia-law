@@ -1,0 +1,14 @@
+21 Nd 162/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Ljubomíra Drápala a soudců JUDr. Zdeňka Novotného a JUDr. Mojmíra Putny v právní věci žalobkyně nezletilé K. R., zastoupené Okresním úřadem v S. jako opatrovníkem, proti žalovanému V. V. V., o určení otcovství a úpravu výchovy a výživy, vedené u Okresního soudu v Sokolově pod sp. zn. 7 C 109/2001, o určení místní příslušnosti soudu, takto:
+Věc, vedenou u Okresního soudu v Sokolově pod sp. zn. 7 C 109/2001, projedná a rozhodne Okresní soud v Sokolově.
+O d ů v o d n ě n í :
+U Okresního soudu v Sokolově podala žalobkyně, zastoupená opatrovníkem, žalobu o určení otcovství žalovaného a o úpravu její výchovy a výživy.
+Okresní soud v Sokolově usnesením ze dne 23.4.2002 č.j. 7 C 109/2001-7 vyslovil svou místní nepříslušnost a rozhodl, že po právní moci tohoto usnesení bude věc předložena Nejvyššímu soudu ČR k určení soudu, který ji má projednat a rozhodnout. V odůvodnění uvedl, že v posuzovaném případě jde o věc, která patří do pravomoci soudů České republiky, a že chybějí podmínky pro určení místní příslušnosti soudu, neboť žalovaný nemá na území České republiky bydliště a ani se zde nezdržuje.
+V občanském soudním řízení projednávají a rozhodují soudy spory a jiné právní věci, které vyplývají z občanskoprávních, pracovních, rodinných a obchodních vztahů, pokud je podle zákona neprojednávají a nerozhodují o nich jiné orgány (§ 7 odst. 1 o.s.ř.). Podle ustanovení § 2 zákona č. 97/1963 Sb., o mezinárodním právu soukromém a procesním, ve znění pozdějších předpisů, se ustanovení tohoto zákona použije, jen pokud nestanoví něco jiného mezinárodní smlouva, kterou je Česká republika vázána.
+Dvoustrannou mezinárodní smlouvou, která Českou republiku váže ve vztahu k Ukrajině, je Smlouva mezi Československou socialistickou republikou a Svazem sovětských socialistických republik o právní pomoci a právních vztazích ve věcech občanských, rodinných a trestních ze dne 12.8.1982, vyhlášená pod č. 95/1983 Sb. Podle ustanovení čl. 29 odst. 3 a čl. 30 odst.3 této smlouvy je ve věcech určení a popření otcovství a úpravy vztahů mezi rodiči a dětmi dána pravomoc soudů státu, na jehož území má dítě bydliště, popřípadě na jehož území dítě trvale žije. Vzhledem k tomu, že nezletilá žalobkyně se svou matkou trvale bydlí (žije) na území České republiky, je v posuzované věci dána pravomoc soudů České republiky pro řízení.
+Nejvyšší soud České republiky za této situace přihlížeje k zásadě hospodárnosti řízení podle ustanovení § 11 odst.3 o.s.ř. určil, že věc projedná a rozhodne Okresní soud v Sokolově, v jehož obvodu má nezletilá žalobkyně spolu se svou matkou bydliště.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 10. září 2002
+JUDr. Ljubomír Drápal,v.r.
+předseda senátu
