@@ -1,0 +1,16 @@
+29 Odo 864/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedkyně JUDr. Ivany Štenglové a soudců JUDr. Františka Faldyny, CSc. a JUDr. Petra Gemmela v právní věci žalobkyně Č. I. A., s.r.o., zastoupené, advokátkou, proti žalovanému P. S., zastoupenému, advokátem, o zaplacení 1,555.000,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 11 C 63/2004 (dříve vedené u Městského soudu v Praze pod sp. zn. 1 Cm 10/2003), o dovolání žalovaného proti usnesení Vrchního soudu v Praze ze dne 9. ledna 2004, č.j. 12 Cmo 329/2003-88, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Rozsudkem ze dne 23. září 2003, č.j. 1 Cm 10/2003-59, zamítl Městský soud v Praze žalobu na zaplacení 1,555.000,- Kč s příslušenstvím.
+Odvolací soud v záhlaví označeným usnesením tento rozsudek zrušil a věc postoupil Obvodnímu soudu pro Prahu 4. Své rozhodnutí odůvodnil tím, že v daném případě se nejedná o žádný ze sporů, u nichž je věcná příslušnost krajských soudů, jako soudů prvního stupně, stanovena v § 9 odst. 3 občanského soudního řádu (dále jen „o. s. ř.“). Nejde ani o případ uvedený v ustanovení § 9 odst. 3 písm. h) o. s. ř., neboť žalovaný v době podání žaloby již nevykonával funkci jednatele žalobce. Proto je v této věci dána věcná příslušnost okresních soudů.
+Proti usnesení odvolacího soudu podal žalovaný včasné dovolání. Přípustnost dovozuje z ustanovení § 239 odst. 1 písm. a) o. s. ř. Pokud jde o důvodnost dovolání, opírá ji o ustanovení § 241a odst. 2 písm. b) o. s. ř., když namítá nesprávné právní posouzení otázky věcné příslušnosti odvolacím soudem. Konkrétně uvádí, že pro posouzení věcné příslušnosti soudu v této věci je podstatný fakt, že žalovaný vykonával funkci jednatele žalobce ve sporném období, ke kterému žalobce vztahuje údajné porušení povinností při výkonu funkce a následně požadovanou náhradu škody. Žalovaný má za to, že nelze v tomto případě argumentovat tím, že v době zahájení řízení již žalovaný funkci jednatele žalobce nevykonával. Proto dovolatel navrhuje, aby Nejvyšší soud usnesení odvolacího soudu zrušil a věc vrátil tomuto soudu k dalšímu řízení.
+Dovolání není přípustné.
+Podle § 236 odst. 1 o. s. ř. dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání v této věci ustanovení § 239 odst. 1 písm. a) o. s. ř. nezakládá. Je tomu tak proto, že toto ustanovení upravuje přípustnost dovolání proti rozhodnutí, kterým odvolací soud rozhodnutí soudu prvního stupně zrušil a zastavil, případně též věc postoupil orgánu, do jehož pravomoci náleží. Tak tomu však v této věci nebylo, neboť odvolací soud totiž řízení nezastavil. Přípustnost dovolání o ustanovení § 239 odst. 1 písm. a) o.s.ř. tedy opřít nelze.
+Vzhledem k tomu, že rozhodnutí odvolacího soudu nelze podřadit ani pod žádné další ustanovení upravující přípustnost dovolání, nezbývá než uzavřít, že dovolání v této věci přípustné není. Nejvyšší soud proto, aniž ve věci nařizoval jednání (§ 243a odst. 1 věta první o. s. ř.), dovolání v souladu s ustanovením § 243b odst. 5 a § 218 písm. c) o. s. ř. odmítl.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 22. února 2005
+JUDr. Ivana Štenglová, v.r.
+předsedkyně senátu
