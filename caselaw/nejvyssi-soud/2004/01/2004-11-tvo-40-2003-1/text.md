@@ -1,0 +1,17 @@
+11 Tvo 40/2003
+U S N E S E N Í
+Nejvyšší soud projednal v neveřejném zasedání konaném dne 29. 1. 2004 stížnost obhájce JUDr. K. H., proti usnesení Vrchního soudu v Olomouci ze dne 19. 8. 2003, sp. zn. 5 To 222/2002, a rozhodl t a k t o :
+Podle § 148 odst. 1 písm. c) tr. řádu s e stížnost obhájce JUDr. K. H. z a m í t á .
+O d ů v o d n ě n í :
+Rozsudkem Krajského soudu v Ostravě, pobočka Olomouc, ze dne 20. 9. 2002, sp. zn. 29 T 20/97, byl obviněný Ing. P. V. uznán vinným pokusem trestného činu zkrácení daně, poplatku a podobné povinné platby podle § 8 odst. 1 tr. zák. k § 148 odst. 1, 2, 4 tr. zák. a odsouzen k nepodmíněnému trestu odnětí svobody v trvání šesti let, pro jehož výkon byl zařazen do věznice s ostrahou, a k trestu zákazu činnosti v trvání pěti let. Stejným rozsudkem bylo rozhodnuto o vině a trestu obviněných L. Z. a J. B.
+K projednání odvolání všech obviněných a krajského státního zástupce byla trestní věc předložena Vrchnímu soudu v Olomouci.
+Vrchní soud v Olomouci usnesením ze dne 19. 8. 2003, sp. zn. 5 To 222/2002, podle § 66 odst. 1, 3 tr. řádu rozhodl o předání obhájce JUDr. K. H. příslušnému orgánu ke kárnému postihu s odůvodněním, že tento bez dostatečné omluvy neuposlechl příkazu dostavit se k nařízenému veřejnému zasedání, či jiným způsobem upraveným zákonem o advokacii nezajistil obhajobu obviněného Ing. P. V., u něhož jsou dány důvody nutné obhajoby ve smyslu ustanovení § 36 odst. 3 tr. řádu v řízení před odvolacím soudem, i když mu byl tento příkaz vydán v souladu s trestním řádem, a zmařil tak konání veřejného zasedání ve skupinové trestní věci, čím způsobil nutnost odročení jednání a zapříčinil tímto svým jednáním průtahy v řízení.
+Proti tomuto usnesení podal obhájce JUDr. K. H. v zákonné lhůtě stížnost, neboť nesouhlasí s názorem vrchního soudu, že nezajistil obhajobu obviněného Ing. P. V. a bez dostatečné omluvy neuposlechl příkazu předsedy senátu, kdy současně postup předsedy senátu vůči své osobě neshledává jako zákonný a standardní. Navrhl proto, aby Nejvyšší soud napadené usnesení Vrchního soudu v Olomouci zrušil.
+Nejvyšší soud podle § 147 odst. 1 tr. řádu z podnětu podané stížnosti přezkoumal správnost napadeného výroku i řízení, které mu předcházelo, a dospěl k tomuto závěru.
+Ustanovení § 66 odst. 3 tr. řádu upravuje postup soudu při kárném provinění obhájce. Pokud se obhájce dopustí jednání uvedeného v § 66 odst. 1 tr. řádu, není mu ukládána pořádková pokuta, ale věc je předána příslušnému orgánu, v tomto případě České advokátní komoře, ke kárnému postihu. Soud tedy přímo o kárném provinění obhájce nerozhoduje, ale v případě, že se obhájce dopustí jednání uvedeného v ustanovení § 66 odst. 1 tr. řádu, věc předá kárnému orgánu k tomuto rozhodnutí příslušnému. Protože Vrchní soud v Olomouci správně zhodnotil jednání obhájce JUDr. K. H. popsané v napadeném usnesení jako provinění podle § 66 odst. 1 tr. řádu, postupoval v souladu se zákonem, když věc podle § 66 odst. 3 tr. řádu postoupil.
+Postupu Vrchního soudu v Olomouci, který je zcela v souladu s ustanovením § 66 odst. 1, 3 tr. řádu, proto nelze nic vytknout, a tak se stížnost obhájce JUDr. K. H. proti rozhodnutí Vrchního soudu v Olomouci nemohla shledat s úspěchem.
+Ze všech těchto důvodů bylo rozhodnuto, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 29. ledna 2004
+Předseda senátu:
+JUDr. Pavel Kučera
