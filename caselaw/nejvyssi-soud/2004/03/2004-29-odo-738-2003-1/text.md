@@ -1,0 +1,22 @@
+29 Odo 738/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedkyně JUDr. Ivany Štenglové a soudců JUDr. Františka Faldyny, CSc. a JUDr. Petra Gemmela v právní věci žalobkyně V. – v. s., spol. s r.o., zastoupené, advokátkou, proti žalované S., a.s., zastoupené, advokátem, o zaplacení 54.180,- Kč s příslušenstvím, vedené u Okresního soudu v Jindřichově Hradci pod sp. zn. 4 C 883/2002, o dovolání žalobkyně proti rozsudku Krajského soudu v Českých Budějovicích ze dne 22. dubna 2003, čj. 22 Co 819/2003-75, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Napadeným rozsudkem změnil odvolací soud rozsudek soudu prvního stupně ze dne 25.2.2003, čj. 4 C 883/2002-53, ve výroku, kterým tento soud uložil žalované zaplatit žalobkyni 10.644,- Kč s 12 % úrokem z prodlení z částky 3.900,- Kč od 29.10.1999 do 31.12.1999 a s 9 % úrokem z prodlení z částky 3.900,- Kč od 1.1.2001 do zaplacení, tak, že žalobu v této části zamítl a potvrdil jej ve výroku, kterým tento soud zamítl žalobu na zaplacení částky 40.944,- Kč s 9 % úrokem z prodlení od 1.1.2001 do zaplacení.
+Proti měnícímu i potvrzujícímu výroku rozsudku odvolacího soudu podala žalobkyně dovolání. Co do jeho přípustnosti odkázala na ustanovení § 237 odst. 1 písm. a) a § 237 odst. 1 písm. c) občanského soudního řádu (dále jen „o. s. ř.“), co do jeho důvodů na § 241a odst. 2 písm. b) o. s. ř.
+Dovolatelka vytýká odvolacímu soudu nesprávné právní posouzení věci spočívající především v tom, že nevzal v úvahu, že žalovaná nikdy nezpochybnila platnost smlouvy, ze které se žalobkyně domáhá zaplacení a dále v tom, že nepostupoval podle ustanovení § 323 odst. 2 obchodního zákoníku ve spojení s ustanovením § 407 odst. 3 občanského zákoníku Žalovaná svůj dluh částečně splnila úhradou částky 78.000,- Kč „a tímto jejím jednáním nastala fikce uznání celého dluhu ve výši 122.844,- Kč, tedy i zbylé nezaplacené části dluhu ve výši 54.180,- Kč, a to se všemi právním důsledky upravenými v ustanovení § 323 odst. 2 obchodního zákoníku“ Dovolatelka navrhuje, aby dovolací soud rozsudek odvolacího soudu zrušil a věc mu vrátil k dalšímu řízení.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Podle § 237 odst. 1 o. s. ř. dovolání je přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího soudu,
+a) jimiž bylo změněno rozhodnutí soudu prvního stupně ve věci samé,
+b) jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci jinak než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil,
+c) jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není přípustné podle písmena b) a dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam.
+Podle ustanovení § 237 odst. 2 písm. a) o. s. ř. není dovolání podle odstavce 1 přípustné ve věcech, v nichž dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 20.000,- Kč a v obchodních věcech 50.000,- Kč; k příslušenství pohledávky se přitom nepřihlíží.
+Jak vyplývá z obsahu dovolání, napadá jím žalobkyně jak měnící, tak i potvrzující výrok rozsudku odvolacího soudu. Pro účely dovolání je třeba posuzovat přípustnost dovolání proti každému z výroků odvolacího soudu samostatně. Vzhledem k tomu, že měnícím výrokem rozsudku odvolacího soudu bylo rozhodnuto o peněžitém nároku ve výši 10.644,- Kč s příslušenstvím, je přípustnost dovolání do tohoto výroku vyloučena výše citovaným ustanovením § 237 odst. 2 písm. a ) o. s. ř. Ani dovolání do potvrzujícího výroku rozsudku odvolacího soudu není přípustné. Tímto výrokem odvolací soud rozhodoval o peněžitém nároku ve výši 40.944,- Kč s příslušenstvím, a tak ani v tomto případě nebyla překročena hranice, kterou zákon stanoví pro přípustnost dovolání v obchodních věcech podle ustanovení § 237 o. s. ř. ve věcech obchodních.
+Nejvyšší soud proto dovolání, aniž ve věci nařizoval jednání (§ 243a odst. 1 věta první o. s. ř.), jako nepřípustné podle ustanovení § 243b odst. 5 a § 218 písm. c) o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., neboť žalované v souvislosti s tímto řízením náklady nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 18. března 2004
+JUDr. Ivana Štenglová, v.r.
+předsedkyně senátu
