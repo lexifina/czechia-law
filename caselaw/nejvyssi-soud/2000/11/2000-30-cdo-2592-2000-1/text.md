@@ -1,0 +1,16 @@
+30 Cdo 2592/2000
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci péče o nezletilou B. P., zastoupenou Městskou částí P., dceru matky H. P., a otce P. K., o zvýšení výživného, vedené u Obvodního soudu pro Prahu 10 pod sp. zn. 20 P 454/91, o dovolání otce proti rozsudku Městského soudu v Praze ze dne 15.5.2000, č.j. 53 Co 162/2000-85, takto:
+Řízení o dovolání se zastavuje.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 10 rozsudkem ze dne 13.1.2000, č.j. 20 P 454/91-74, zvýšil výživné placené otcem k rukám matky pro nezletilou B. P., nar. 4.3.1984, s účinností od 1.9.1999 z částky 1.300,- Kč na 2.000,- Kč. Nedoplatek, vzniklý za dobu od 1.9.1999 do 31.12.1999 ve výši 2.800,- Kč, uložil otci zaplatit ve splátkách 200,- Kč měsíčně spolu s běžným výživným, počínaje právní mocí rozsudku, pod ztrátou výhody splátek.
+K odvolání otce Městský soud v Praze rozsudkem ze dne 15.5.2000, č.j. 53 Co 162/2000-85, změnil uvedený rozsudek soudu prvního stupně tak, že vyživovací povinnost otce k nezletilé B. P., nar. 4.3.1984 s účinností od 1.9.1999 zvýšil z částky 1.300,- Kč na částku 1.700,- Kč měsíčně. Nedoplatek vzniklý zvýšením výživného za dobu od 1.9.1999 do 30.4.2000 vyčíslil ve výši 3.200,- Kč.
+Rozsudek odvolacího soudu, který nabyl právní moci dne 28.8.2000, napadl otec nezletilé P. K. (dále jen dovolatel) dovoláním, které si sepsal sám a které nesplňovalo náležitosti stanovené v § 241 odst. 1, 2 občanského soudního řádu (dále jen o.s.ř.). Z toho důvodu byl vyzván usnesením Obvodního soudu pro Prahu 10 ze dne 25.9.2000, č.j. 20 P 454/91-89, k doplnění dovolání tak, aby splňovalo náležitosti stanovené v ustanovení § 241 o.s.ř., včetně povinného zastoupení advokátem s poučením, že pokud své dovolání předepsaným způsobem nedoplní ve lhůtě pěti dnů od jeho doručení, bude dovolací řízení zastaveno. Usnesení bylo otci doručeno dne 12.10.2000, ten však vady svého podání ve stanovené lhůtě neodstranil.
+Podle ustanovení § 243c o.s.ř. ve spojení s ustanovením § 103 a § 104 odst. 2 o.s.ř. soud musí kdykoli za řízení přihlížet k tomu, zda jsou splněny podmínky, za nichž může ve věci jednat, t.j. zda jsou splněny podmínky řízení. K základním procesním podmínkám dovolacího řízení patří, že dovolání splňuje náležitosti, které pro tento mimořádný opravný prostředek vyžaduje ustanovení § 241 odst. 1 a 2 o.s.ř.
+Dovolatel musí být zastoupen advokátem, pokud nemá sám právnické vzdělání, v dovolání musí být uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu a z jakých důvodů je napadá, popř. které důkazy by měly být provedeny a čeho se dovolatel domáhá. Jedná se o podmínky řízení, jejichž nedostatek lze odstranit. Není-li tento nedostatek podmínek řízení odstraněn, soud řízení zastaví.
+V předmětné věci se soud prvního stupně pokusil uvedený nedostatek podmínek řízení odstranit tím, že dovolatele vyzval k doplnění dovolání tak, aby splňovalo požadavky zákona, včetně povinného zastoupení advokátem. Dovolatel však zůstal nečinný. Přes výzvu soudu se tedy nepodařilo zmíněný nedostatek podmínek řízení odstranit, proto dovolací soud řízení zastavil v souladu s ustanovením § 104 odst. 2 o.s.ř. ve spojení s ustanovením § 243c o.s.ř.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 29. listopadu 2000
+JUDr. František D u c h o ň , v. r.
+předseda senátu
+Za správnost vyhotovení: Marie Plhalová
