@@ -1,0 +1,17 @@
+11 Tvo 14/2002
+U S N E S E N Í
+Nejvyšší soud České republiky projednal v neveřejném zasedání konaném dne 4. března 2002 stížnost obviněných V. Y., a I. Y., proti usnesení Vrchního soudu v Praze ze dne 11. 1. 2002, sp. zn. 7 To 156/01, a rozhodl t a k t o :
+Podle § 148 odst. 1 písm. c) tr. řádu se stížnost obviněných z a m í t á .
+O d ů v o d n ě n í :
+Rozsudkem Městského soudu v Praze ze dne 12. 10. 2001, sp. zn. 3 T 2/2001, byli obvinění V. Y. a I. Y. uznáni vinným trestným činem vraždy podle § 219 odst. 1, odst. 2 písm. a), h) tr. zák., trestným činem padělání a pozměňování veřejné listiny podle § 176 odst. 1 tr. zák. a obviněný Y. dále trestným činem loupeže podle § 234 odst. 1 tr. zák. a za to byli odsouzeni k nepodmíněným trestům odnětí svobody v trvání patnácti roků pro jehož výkon byli zařazeni do věznice se zvýšenou ostrahou. Dále jim byl podle § 57 odst. 1, odst. 2 tr. zák. uložen trest vyhoštění na dobu neurčitou a obviněnému Y. podle § 55 odst. 1 písm. a) tr. zák., také trest propadnutí věci.
+Proti tomuto rozsudku podali obvinění v zákonné lhůtě odvolání a v současné době se věc nachází ve stadiu řízení před odvolacím soudem.
+Obvinění byli vzati do vazby usnesením Obvodního soudu pro Prahu 5 ze dne 16. 10. 1999, sp. zn. Nt 379/99, z důvodů uvedených v § 67 odst. 1 písm. a), b) tr. řádu. Nyní jsou ve vazbě už jen podle § 67 písm. a) tr. řádu účinného od 1. 1. 2002. Vazba u nich započala dne 14. 10. 1999. O vazbě obou obviněných bylo v průběhu trestního řízení už několikrát rozhodováno, naposledy usnesením Městského soudu v Praze ze dne 12. 10. 2001, sp. zn. 3 T 2/2001, ve spojení s usnesením Vrchního soudu v Praze ze dne 11. 1. 2002, sp. zn. 7 To 157/01.
+Vzhledem ke změně trestního řádu zákonem č. 256/2001 Sb., účinné od 1. 1. 2002, bylo třeba, aby se Vrchní soud v Praze ve smyslu ustanovení § 71 odst. 1 tr. řádu znovu zabýval otázkou, zda jsou i nadále u obou obviněných dány důvody vazby. Za tohoto stavu Vrchní soud v Praze usnesením ze dne 11. 1. 2002, sp. zn. 7 To 156/01, z důvodů uvedených v § 71 odst. 4, odst. 6 tr. řádu ponechal obviněného V. Y. a I. Y. a podle § 71 odst. 7 tr. řádu i nadále ve vazbě.
+Proti tomuto usnesení podali oba obvinění v zákonné lhůtě stížnost, ve které v podstatě shodně poukazují na neexistující důvody vazby. Navrhují, aby napadené rozhodnutí bylo zrušeno a oni byli propuštěni z vazby na svobodu.
+Nejvyšší soud z podnětu podaných stížností přezkoumal podle § 147 odst. 1 tr. řádu správnost výroku napadeného usnesení, jakož i řízení, které mu předcházelo, a shledal, že stížnost žádného z obviněných není důvodná.
+Proti obviněným je vedeno trestní stíhání pro závažnou trestnou činnost. Toto stíhání se v současné době nachází ve stádiu řízení před odvolacím soudem. Charakter trestné činnosti a dosavadní způsob života obviněných i nadále opodstatňují důvodnost vazby ve smyslu § 67 písm. a) tr. řádu. V tomto směru se Nejvyšší soud zcela shoduje s důvody, které v napadeném usnesení podrobně rozvedl vrchní soud. Totéž platí i o zdůvodnění, proč se řízení nepodařilo skončit dříve. Lze konstatovat, že průběh trestního řízení žádnými průtahy netrpí, délka řízení je zcela přiměřená a odpovídá náročnosti projednání věci.
+Za tohoto stavu se Nejvyšší soud ztotožnil s výrokem napadeného usnesení stížnost obou obviněných jako nedůvodnou podle § 148 odst. 1 písm. c) tr. řádu zamítl.
+Poučení: Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 4. března 2002
+Předseda senátu:
+JUDr. Pavel Kučera
