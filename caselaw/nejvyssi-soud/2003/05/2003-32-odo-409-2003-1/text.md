@@ -1,0 +1,22 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+32 Odo 409/2003-71
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Petra Gemmela a JUDr. Františka Faldyny, CSc. v právní věci žalobkyně A. P. spol. s r.o., zastoupené JUDr. J. Z., advokátem, proti žalované JUDr. J. H., advokátce, správkyni konkursní podstaty úpadkyně V. I. S. s. r. o., zastoupené JUDr. D. Č., advokátem, o zaplacení částky 11.296,90 Kč s příslušenstvím, vedené u Okresního soudu v Příbrami pod sp. zn. 15 C 27/2002, o dovolání žalované proti usnesení Krajského soudu v Praze ze dne 8. ledna 2003, č.j. 29 Co 693/2002-56, takto:
+I. Dovolání se odmítá.
+II. Žalovaná je povinna zaplatit žalobkyni na náhradě nákladů dovolacího řízení částku 450,- Kč, do tří dnů od právní tohoto usnesení, k rukám zástupce žalobkyně JUDr. J. Z.
+O d ů v o d n ě n í :
+Krajský soud v Praze v záhlaví označeným usnesením potvrdil usnesení Okresního soudu v Příbrami ze dne 4. listopadu 2002, č.j. 15 C 27/2002-48, kterým soud prvního stupně odmítl odvolání žalované proti svému rozsudku ze dne 8. července 2002, č.j. 15 C 27/2002-34, jako opožděné. Odvolací soud přisvědčil závěru soudu prvního stupně, že posledním dnem lhůty k podání odvolání bylo 19. září 2002, přičemž odvolání bylo faxovým podáním učiněno až 24. září 2002 (doplněno písemným podáním shodného znění 25. září 2002).
+Proti usnesení odvolacího soudu podala žalovaná dovolání, jehož přípustnost opírala o ustanovení § 239 odst. 3 občanského soudního řádu (dále též jen „o. s. ř.“). Namítala, že rozhodnutí spočívá na nesprávném právním posouzení věci, když odvolací soud (stejně tak i soud prvního stupně) nesprávně aplikoval ustanovení § 46 odst. 4 o. s. ř., aniž se zabýval tvrzením žalované, že se v místě doručování nezdržovala. Proto požadovala, aby dovolací soud napadené usnesení odvolacího soudu i soudu prvního stupně zrušil a věc vrátil soudu prvního stupně k dalšímu řízení.
+Žalobkyně ve svém vyjádření navrhovala, aby dovolání bylo jako nepřípustné odmítnuto.
+V souladu s body 1., 15. a 17., hlavy I., části dvanácté, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, se pro dovolací řízení uplatní občanský soudní řád ve znění účinném od 1. ledna 2001.
+Dovolání není přípustné.
+Podle § 236 odst. 1 o. s. ř. dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon (v ustanoveních § 237 až § 239 o. s. ř. ) připouští.
+Přípustnost dovolání podle § 237 o. s. ř. není dána již proto, že usnesením odvolacího soudu nebylo potvrzeno usnesení soudu prvního stupně, kterým by bylo rozhodnuto ve věci samé. Dovolání není přípustné ani podle ustanovení § 238, § 238a a § 239 odst. 1 a 2 o. s. ř., protože usnesením soudu prvního stupně nebylo rozhodnuto ve věcech, v uvedených ustanoveních taxativně vyjmenovaných. Přípustnost dovolání neplyne ani z ustanovení § 239 odst. 3 o. s. ř. , neboť podle tohoto ustanovení lze podat dovolání jen tehdy, bylo-li potvrzeno usnesení soudu prvního stupně, jímž bylo postupem podle ustanovení § 43 o. s. ř. odmítnuta žaloba, popřípadě, jímž byl podle tohoto ustanovení odmítnut jiný návrh na zahájení řízení, a nikoli odmítl-li soud prvního stupně podle § 208 odst. 1 o. s. ř. odvolání pro opožděnost (srov. např. usnesení Nejvyššího soudu ze dne 20. listopadu 2001, sp. zn. 21 Cdo 1124/2001, uveřejněné pod číslem 41/2003 Sbírky soudních rozhodnutí a stanovisek).
+Z uvedeného vyplývá, že dovolání žalované směřuje proti rozhodnutí odvolacího soudu, proti němuž není přípustné; Nejvyšší soud je proto podle § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalované bylo odmítnuto a žalované vznikla povinnost hradit žalobkyni její náklady řízení. Náklady dovolacího řízení vzniklé žalobkyni sestávají ze sazby odměny za zastupování advokátem v částce 375,- Kč, podle § 14 odst. 3, § 15 a § 18 odst. 1 vyhlášky č. 484/2000 Sb. a z paušální náhrady 75,- Kč za jeden úkon právní služby (vyjádření k dovolání) podle § 13 odst. 3 vyhlášky č. 177/1996 Sb., a celkem činí 450,- Kč.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+Nesplní-li povinná, co jí ukládá vykonatelné rozhodnutí, může se oprávněná domáhat výkonu rozhodnutí.
+V Brně 28. května 2003
+JUDr. Miroslav Gallus, v.r.
+předseda senátu
