@@ -1,0 +1,20 @@
+25 Cdo 1572/2000
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce J. K. proti žalovanému J. K., o 25.000,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 5 pod sp. zn. 25 C 175/98, o dovolání žalovaného proti usnesení Městského soudu v Praze ze dne 19. října 1999 č.j. 54 Co 474/99-47, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 5 rozsudkem ze dne 24. 6. 1999 č.j. 25 C 175/98-35 uložil žalovanému povinnost zaplatit žalobci 25.000,- Kč s 16 % úrokem od 1. 1. 1998 do zaplacení, a rozhodl o náhradě nákladů řízení.
+Odvolání žalovaného proti tomuto rozsudku bylo usnesením Městského soudu v Praze ze dne 19. 10. 1999 č.j. 54 Co 474/99-47 odmítnuto podle § 218 odst. 1 písm. a/ o.s.ř., neboť bylo podáno opožděně. Zároveň bylo rozhodnuto o náhradě nákladů odvolacího řízení.
+Proti tomuto usnesení podal žalovaný dovolání, jež bylo podáno na poštu dne 26. 12. 1999, ve kterém namítá, že toto rozhodnutí odvolacího soudu vychází z nedostatečného skutkového zjištění, když nebyly zjišťovány okolnosti rozhodné pro objektivní posouzení otázky řádného doručení rozsudku soudu prvního stupně. Navrhl zrušení napadeného usnesení.
+Podle ustanovení § 240 odst. 1 věty první o.s.ř. účastník může podat dovolání do jednoho měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Bylo-li odvolacím soudem vydáno opravné usnesení, běží tato lhůta od doručení opravného usnesení. Podle ustanovení § 240 odst. 2 o.s.ř. zmeškání lhůty uvedené v odstavci 1 nelze prominout; lhůta je však zachována, bude-li dovolání podáno ve lhůtě u dovolacího nebo odvolacího soudu.
+Podle ustanovení § 46 odst. 1 o.s.ř. lze adresátu doručit písemnost v bytě, v sídle (místě podnikání), na pracovišti nebo kdekoli bude zastižen. Podle odst. 2 tohoto ustanovení nebyl-li adresát zastižen, ačkoliv se v místě doručení zdržuje, doručí se jiné dospělé osobě bydlící v témže bytě nebo v témže domě anebo zaměstnané na témže pracovišti, je-li ochotna obstarat odevzdání písemnosti. Není-li možno ani takto doručit, uloží se písemnost na poště nebo u orgánu obce a adresát se vhodným způsobem vyzve, aby si písemnost vyzvedl. Písemnost se považuje za doručenou dnem, kdy byla uložena, i když se adresát o uložení nedozvěděl.
+Jak vyplývá z obsahu spisu, usnesení odvolacího soudu bylo právnímu zástupci žalobce doručeno dne 23. 11. 1999, a žalovanému dne 22. 11. 1999, kdy bylo v souladu s ust. § 46 odst. 2 o.s.ř. uloženo na poště; toto usnesení tedy nabylo právní moci dne 23. 11. 1999 (§ 159 odst. 1 o.s.ř. ).
+Podle ustanovení § 57 odst. 2 o.s.ř. lhůty určené podle týdnů, měsíců nebo let se končí uplynutím toho dne, který se svým označením shoduje se dnem, kdy došlo ke skutečnosti určující počátek lhůty, a není-li ho v měsíci, posledním dnem měsíce. Připadne-li konec lhůty na sobotu, neděli nebo svátek, je posledním dnem lhůty nejblíže následující pracovní den. Podle ustanovení § 57 odst. 3 o.s.ř. lhůta je zachována, je-li posledního dne lhůty učiněn úkon u soudu nebo podání odevzdáno orgánu, který má povinnost je doručit.
+V dané věci běžela lhůta k podání dovolání ode dne právní moci usnesení odvolacího soudu, tj. od 23.11.1999, a skončila dne 23. 12. 1999 (čtvrtek). Je tedy zřejmé, že jednoměsíční lhůta dodržena nebyla, neboť dovolání žalovaného bylo podáno na poště dne 26.12.1999, tedy až po marném uplynutí zákonné lhůty k dovolání. Proto bylo podle ustanovení § 243b odst. 4, věty první, a § 218 odst. 1 písm. a/ o.s.ř. dovolání odmítnuto, aniž by bylo třeba zabývat se otázkou jeho náležitostí a jeho přípustností.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 4, věty první, § 224 odst. 1 a § 151 odst. 1, věty první, o.s.ř., neboť žalovaný s ohledem na výsledek dovolacího řízení nemá na náhradu nákladů řízení právo ( § 142 odst. 1 o.s.ř.) a žalobci náklady v dovolacím řízení nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 15. srpna 2000
+JUDr. Marta Š k á r o v á, v. r.
+předsedkyně senátu
+Za správnost vyhotovení: Romana Říčková
