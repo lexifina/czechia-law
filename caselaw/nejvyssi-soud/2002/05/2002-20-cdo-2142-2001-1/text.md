@@ -1,0 +1,15 @@
+20 Cdo 2142/2001
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci výkonu rozhodnutí oprávněného B. A S. D. O., proti povinnému M. W., za účasti manželky povinného L. W., pro 240.330,50- Kč s příslušenstvím, zřízením soudcovského zástavního práva na nemovitostech, vedené u Okresního soudu v Olomouci pod sp. zn. 42 E 1186/98, o dovolání povinného a o dovolání manželky povinného proti usnesení Krajského soudu v Ostravě ze dne 30. července 1999, č.j. 12 Co 281/99-30, takto:
+I. Nejvyšší soud vyzývá dovolatele (povinného), aby ve lhůtě patnácti dnů od doručení usnesení odstranil nedostatek povinného zastoupení, a to tak, že předloží Nejvyššímu soudu procesní plnou moc prokazující, že je v dovolacím řízení zastoupen advokátem, případně doklad potvrzující, že má sám právnické vzdělání.
+II. V případě, že si dovolatel (povinný) zvolí advokáta, je nutné, aby tento advokát již podané dovolání ve lhůtě uvedené v odstavci I. výroku také podepsal, vlastnoručně podepsaným podáním se s ním ztotožnil, nebo je nahradil podáním vlastním.
+O d ů v o d n ě n í:
+Povinný podal dne 28. ledna 2000 dovolání (datované dnem 18. 1. 2000) proti usnesení Krajského soudu v Ostravě - pobočky v Olomouci ze dne 30. července 1999, č.j. 12 Co 281/99-30, přičemž toto dovolání nebylo sepsáno advokátem, ačkoli povinného zastupoval v dovolacím řízení na základě plné moci ze dne 9. dubna 1998 advokát. Přípisem datovaným dne 18. února 2002 oznámil JUDr. L. L., že dne 12. prosince 2001 vůči povinnému i jeho manželce od smlouvy o poskytování právních služeb odstoupil a zároveň i vypověděl plnou moc.
+Podle ustanovení § 241 odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění před novelou provedenou zákonem č. 30/2000 Sb. (dále jen „o.s.ř.“), musí být dovolatel zastoupen advokátem, jestliže nemá právnické vzdělání buď sám nebo jeho zaměstnanec (člen), který za něj jedná. Nemá-li dovolatel právnické vzdělání, musí být dovolání sepsáno advokátem nebo zaměstnancem (členem) dovolatele s právnickým vzděláním, který za něj jedná (§ 241 odst. 2 věta druhá o.s.ř.).
+Povinné zastoupení podle § 241 odst. 1 o.s.ř. je zvláštní podmínkou dovolacího řízení, týkající se účastníka řízení (dovolatele), jejíž nedostatek lze odstranit, bez jejíhož splnění však nelze vydat rozhodnutí, kterým se řízení končí. Zvolí-li si dovolatel advokáta až poté, co sám podal dovolání, je ke splnění požadavku povinného zastoupení nezbytné, aby zmocněnec dovolatele již učiněné podání nahradil nebo doplnil vlastním podáním, popřípadě aby sdělil soudu, že se s podáním, které učinil dovolatel sám, ztotožňuje.
+Vzhledem k tomu, že povinný v dovolacím řízení zastoupen není a jeho dovolání nebylo advokátem sepsáno, Nejvyšší soud jej k odstranění tohoto nedostatku v určené patnáctidenní lhůtě vyzval.
+Nebude-li v poskytnuté lhůtě zhojen nedostatek povinného zastoupení, Nejvyšší soud dovolací řízení zastaví.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 5. března 2002
+JUDr. Pavel K r b e k , v.r.
+předseda senátu
