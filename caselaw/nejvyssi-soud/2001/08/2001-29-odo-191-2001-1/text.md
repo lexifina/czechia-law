@@ -1,0 +1,21 @@
+29 Odo 191/2001
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce K.b.P., s. p. ú., proti žalované P.Č.R., a. s. o zaplacení částky 5.227.698,- Kč s příslušenstvím, vedené u Krajského soudu v Českých Budějovicích pod sp. zn. 13 Cm 457/99, o dovolání žalované proti rozsudku Vrchního soudu v Praze ze dne 10. ledna 2001, č.j. 5 Cmo 261/2000 - 94, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Vrchní soud v Praze rozsudkem ze dne 10. ledna 2001, č.j. 5 Cmo 261/2000 - 94, potvrdil rozsudek ze dne 7. února 2000, č.j. 13 Cm 457/99 - 67, jímž Krajský soud v Českých Budějovicích uložil žalované zaplatit žalobci částku 5.227.698.54 Kč spolu se čtrnácti a půl procentním úrokem z prodlení z částky 5.061.101,76 Kč od 1. června 1999 do zaplacení. Odvolací soud měl - shodně se soudem prvního stupně - za platnou smlouvu o narovnání ze dne 7. dubna 1995 a odtud uzavřel, že žalobkyně má za žalovanou pohledávky z hospodářských smluv o úvěru na trvale se obracející zásoby v žalované výši.
+Proti rozsudku odvolacího soudu podala žalovaná (zastoupena advokátkou) včas dovolání, namítajíc existenci dovolacího důvodu dle ustanovení § 241 odst. 3 písm. d/ občanského soudního řádu (dále též jen „o. s. ř.\") a podrobně vysvětlujíc, v čem podle ní spočívá nesprávné právní posouzení věci odvolacím soudem. Proto dovolatelka požadovala, aby Nejvyšší soud napadené rozhodnutí zrušil a věc vrátil odvolacímu soudu k dalšímu řízení.
+Žalobce ve vyjádření navrhl dovolání zamítnout.
+Podle bodu 17., hlavy první, části dvanácté, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (to jest podle občanského soudního řádu ve znění účinném před 1. lednem 2001). O takový případ jde i v této věci, jelikož odvolací soud věc - ve shodě s bodem 15., hlavy první, části dvanácté zákona č. 30/2000 Sb. - rovněž projednal podle dosavadního znění občanského soudního řádu.
+Dovolání není v dané věci přípustné.
+Dle ustanovení § 236 odst. 1 o. s. ř., dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti rozsudku upravují ustanovení § 237, § 238 a § 239 o. s. ř. Podle § 238 odst. 1 písm. a/ o. s. ř. dovolání přípustné není, neboť rozsudek odvolacího soudu nebyl rozsudkem měnícím, nýbrž potvrzujícím a nejde ani o situaci předjímanou ustanovením § 238 odst. 1 písm. b/ o. s. ř. (rozsudek ze dne 7. února 2000 je prvním rozsudkem krajského soudu ve věci). Podmínky stanovené v § 239 o. s. ř. daná věc rovněž nesplňuje, neboť odvolací soud výrokem svého rozhodnutí přípustnost dovolání nevyslovil (srov. § 239 odst. 1 o. s. ř.) a žalovaná návrh na vyslovení přípustnosti dovolání nepodala (srov. § 239 odst. 2 o. s. ř.).
+Zbývá posoudit podmínky přípustnosti určené v ustanovení § 237 o. s. ř.
+Vady řízení ve smyslu ustanovení § 237 odst. 1 o. s. ř., k nimž je dovolací soud povinen přihlédnout z úřední povinnosti (§ 242 odst. 3 o. s. ř.) a jejichž existence činí zmatečným (s výjimkami zakotvenými v odstavci druhém) každé rozhodnutí odvolacího soudu, dovoláním namítány nejsou a z obsahu spisu se rovněž nepodávají.
+Tento závěr s sebou nese konečné posouzení podaného dovolání jako nepřípustného. Nejvyšší soud je proto, aniž nařizoval jednání (§ 243a odst. 1, věta první, o. s. ř.), podle § 243b odst. 4 a § 218 odst. 1 písm. c/ o. s. ř. usnesením odmítl.
+Dovolatelka z procesního hlediska zavinila, že dovolání bylo odmítnuto, u žalobce však žádné prokazatelné náklady dovolacího řízení zjištěny nebyly. Této procesní situaci odpovídá ve smyslu ustanovení § 146 odst. 2, věty první (per analogiam), § 224 odst. 1 a § 243b odst. 4 o. s. ř. výrok o tom, že na náhradu nákladů dovolacího řízení nemá právo žádný z účastníků.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 21. srpna 2001
+JUDr. Zdeněk K r č m á ř , v. r.
+předseda senátu
