@@ -1,0 +1,22 @@
+29 Odo 507/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivany Štenglové a soudců JUDr. Petra Gemmela a JUDr. Františka Faldyny, CSc. v právní věci žalobkyně Š. s.r.o, zastoupené, advokátem, proti žalovaným 1) L. M., 2) Z. L., oběma zastoupeným, advokátem, a 3) Ing. J. Š., zastoupenému, advokátem, o zaplacení částky 914.794,- Kč s příslušenstvím ze směnky, vedené u Městského soudu v Praze pod sp. zn. 50 Cm 447/2002, o dovolání prvního a druhého žalovaného proti usnesení Vrchního soudu v Praze ze dne 18. února 2004, č.j. 5 Cmo 566/2003-85, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Praze usnesením ze dne 18. listopadu 2003, č.j. 50 Cm 447/2002-71, zastavil řízení o odvolání žalovaných proti rozsudku ze dne 28. července 2003, č.j. 50 Cm 447/2002-44, z důvodu nezaplacení soudního poplatku za odvolání, ve smyslu ustanovení § 9 odst. 1 zákona č. 549/1991 Sb., o soudních poplatcích, ve znění pozdějších předpisů (dále jen „zákon“) a rozhodl o nákladech odvolacího řízení.
+K odvolání žalovaných Vrchní soud v Praze usnesením ze dne 18. února 2004, č.j. 5 Cmo 566/2003-85, usnesení soudu prvního stupně ve vztahu ke třetímu žalovanému změnil tak, že se řízení o jeho odvolání nezastavuje a že není povinen zaplatit žalobkyni náhradu nákladů řízení (první výrok), ve vztahu k prvnímu a druhému žalovanému toto usnesení potvrdil (druhý výrok) a rozhodl o náhradě nákladů odvolacího řízení ve vztahu mezi žalobkyní a prvním a druhým žalovaným (třetí výrok).
+Odvolací soud se ztotožnil s právním závěrem soudu prvního stupně, že žalovaní, kteří jsou samostatnými společníky ve smyslu ustanovení § 91 odst. 1 občanského soudního řádu (dále jen „o. s. ř.“), nesplnili povinnost k úhradě soudního poplatku za odvolání ve smyslu ustanovení § 4 odst. 1 písm. b) a § 9 odst. 1 zákona, v důsledku čehož soud prvního stupně odvolací řízení v souladu s ustanovením § 9 odst. 1 a 3 zákona zastavil.
+Proti usnesení odvolacího soudu podali první a druhý žalovaný dovolání, odkazujíce co do jeho přípustnosti na ustanovení § 239 odst. 2 písm. a) o. s. ř. a namítajíce, že v případě solidárního závazku „musí být soudní poplatek zaplacen pouze jednou, a to bez ohledu na to, kolik účastníků na straně aktivně, popř. pasivně legitimované vystupuje“. Podle názoru dovolatelů měl soud postupovat podle ustanovení § 2 odst. 8 zákona, a pokud tak neučinil, je jeho právní posouzení věci nesprávné.
+Proto dovolatelé požadují, aby Nejvyšší soud usnesení odvolacího soudu zrušil a věc vrátil tomuto soudu k dalšímu řízení.
+Dovolání není přípustné.
+Přípustnost dovolání proti usnesení odvolacího soudu upravují ustanovení § 237 až § 239 o. s. ř.
+Podle ustanovení § 237 o. s. ř. není dovolání přípustné, když usnesení odvolacího soudu, jímž byl potvrzeno usnesení soudu prvního stupně o zastavení odvolacího řízení pro nezaplacení soudního poplatku za odvolání, není rozhodnutím ve věci samé.
+Přípustnost dovolání nezakládají ani ustanovení § 238, § 238a odst. 1 a § 239 o. s. ř., když napadené rozhodnutí nelze podřadit žádnému z tam vyjmenovaných případů.
+Oproti očekávání dovolatelů tak není dovolání přípustné ani podle ustanovení § 239 odst. 2 písm. a) o. s. ř., když podle tohoto ustanovení lze podat dovolání je tehdy, bylo-li odvolacím soudem potvrzeno usnesení soudu prvního stupně o zastavení řízení podle ustanovení § 104 odst. 1 o. s. ř., a nikoli zastavil-li soud prvního stupně odvolací řízení pro nezaplacení soudního poplatku za odvolání podle ustanovení § 9 odst. 1 zákona č. 549/1991 Sb., o soudních poplatcích (shodně srov. např. usnesení Nejvyššího soudu ze dne 28. března 2002, sp. zn. 29 Odo 205/2002, uveřejněné v časopise Soudní judikatura č. 6, ročník 2002, pod číslem 102 a usnesení Nejvyššího soudu ze dne 11. prosince 2003, sp. zn. 21 Cdo 1203/2003).
+Nejvyšší soud proto, aniž ve věci nařizoval jednání (§ 243a odst. 1 věta první o. s. ř.), dovolání jako nepřípustné odmítl [§ 243b odst. 5 a § 218 písm. c) o. s. ř.].
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání prvního a druhého žalovaných bylo odmítnuto a žalobkyni podle obsahu spisu v dovolacím řízení náklady nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 14. prosince 2004
+JUDr. Ivana Štenglová, v.r.
+předsedkyně senátu
