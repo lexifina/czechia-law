@@ -1,0 +1,28 @@
+7 Tdo 173/2003
+U S N E S E N Í
+Nejvyšší soud rozhodl v neveřejném zasedání dne 25. 2. 2003 o dovolání obviněného
+S. M., proti usnesení Krajského soudu v Brně ze dne 24. 7. 2002, sp. zn.
+3 To 175/2002, v trestní věci vedené u Okresního soudu ve Zlíně pod sp. zn.
+4 T 126/2001 t a k t o :
+Podle § 265i odst. 1 písm. b) tr. ř. se dovolání obviněného S. M. o d m í t á .
+O d ů v o d n ě n í :
+Obviněný S. M. podal prostřednictvím obhájce v zákonné lhůtě dovolání proti usnesení Krajského soudu v Brně ze dne 24. 7. 2002, sp. zn. 3 To 175/2002, jímž bylo podle § 256 tr. ř. zamítnuto jeho odvolání proti rozsudku Okresního soudu ve Zlíně ze dne 19. 2. 2002, sp. zn. 4 T 126/2001. Dovolání podal v rozsahu odpovídajícím výroku o vině i trestu. Odkázal na dovolací důvod stanovený v § 265b odst. 1 písm. g) tr. ř. Navrhl, aby Nejvyšší soud zrušil rozhodnutí obou soudů a aby přikázal Okresnímu soudu ve Zlíně nové projednání a rozhodnutí věci.
+Nejvyšší soud shledal, že obviněný podal dovolání z jiného důvodu, než je uveden
+v § 265b tr. ř.
+Podle § 265b odst. 1 písm. g) tr. ř. dovolání lze podat, jestliže rozhodnutí spočívá na nesprávném právním posouzení skutku nebo jiném nesprávném hmotně právním posouzení.
+V rámci tohoto dovolacího důvodu je možné namítat, že skutkový stav, který byl zjištěn soudem, nenaplňuje znaky trestného činu, jímž byl obviněný uznán vinným. Právní posouzení skutku je formou hmotně právního posouzení. Tím se rozumí činnost soudu spočívající v tom, že soud svá skutková zjištění subsumuje pod ustanovení hmotného práva, typicky pod ustanovení trestního zákona. Uvedený dovolací důvod není naplněn námitkami směřujícími proti skutkovým zjištěním soudu, proti hodnocení důkazů, proti postupu soudu při provádění důkazů apod.
+Obviněný založil dovolání na námitkách proti správnosti skutkových zjištění Okresního soudu ve Zlíně a proti tomu, že Krajský soud v Brně se s těmito zjištěními ztotožnil. Obviněný výslovně vytkl oběma soudům porušení ustanovení § 2 odst. 5
+tr. ř. a v podrobnostech rozvedl, v čem nesprávnost jednotlivých skutkových zjištění spatřuje. Takové námitky však s dovolacím důvodem podle § 265b odst. 1 písm. g)
+tr. ř. nekorespondují. Zjišťování skutkového stavu a hodnocení důkazů (§ 2 odst. 5, 6 tr. ř.) je procesním postupem soudu, a nikoli hmotně právním posouzením. Předmětem hmotně právního posouzení je teprve výsledek uvedeného procesního postupu, tj. zjištěný skutek. Dovolání obviněného tedy primárně směřuje ke změně skutkových zjištění soudů a jiné hmotně právní posouzení skutku vztahuje k této změně. V rámci dovolacího důvodu nejsou ani námitky poukazující na to, že rozsudek Okresního soudu ve Zlíně nesplňuje požadavky ustanovení § 125 tr. ř. I v tomto ohledu je namítáno porušení procesního ustanovení a nikoli nesprávné hmotně právní posouzení.
+Obviněný namítl, že soudy pominuly jeho argument, že „žalované jednání nelze hodnotit jako pokračující trestný čin“.
+Obviněný byl uznán vinným trestným činem neodvedení daně, pojistného na sociální zabezpečení, na zdravotní pojištění a příspěvku na státní politiku zaměstnanosti podle § 147 odst. 1 tr. zák. na podkladě zjištění, že jako jednatel obchodní společnosti v době od srpna 1999 do září 2000 za zaměstnance společnosti neodvedl zálohu na daň z příjmu fyzických osob ve výši 366.768,- Kč, ač jim byla z jejich mezd sražena, a v době od ledna 1998 do září 2000 za zaměstnance společnosti neodvedl pojistné na sociální zabezpečení ve výši 602.128,- Kč, ač jim bylo z jejich mezd sraženo.
+Námitka, že nejde o pokračující trestný čin, není uplatněna jako dovolací důvod podle § 265b odst. 1 písm. g) tr. ř. proto, že z ní není patrno, který ze zákonných znaků pokračování v trestném činu ve smyslu § 89 odst. 3 tr. zák. by měl chybět. Naznačená námitka by logicky měla směřovat k tomu, že v jednání obviněného nejde
+o jeden skutek, ale o více skutků, takže je namístě uvažovat o opakování trestného činu a o tom, že každý ze samostatných skutků musí být samostatně posouzen
+i z hlediska právní kvalifikace. Tak ovšem zmíněná námitka obviněného nevyznívá.
+Obviněný tuto námitku konkretizoval tak, že „v případě, kdy byly na účtu společnosti finanční prostředky, které nebylo nezbytné použít na zachování provozu společnosti, prováděl jednotlivé platby“. Obviněný se tedy v podstatě domáhal toho, aby zjištěný rozsah neodvedených záloh na daň z příjmů fyzických osob a pojistného na sociální zabezpečení byl snížen. To ovšem nemá žádný vztah k otázce pokračování v trestném činu podle § 89 odst. 3 tr. zák. Navíc se Krajský soud v Brně touto obhajobou obviněného zabýval a na podkladě důkazů, které sám provedl, zjistil, že tyto namítané platby rozsah neodvedených částek za kritické období neovlivnily, protože šlo o platby, jimiž byly uhrazovány jiné dluhy. Navazující námitky obviněného pak již byly polemikou s tímto zjištěním.
+Obviněný vznesl námitky také ohledně subjektivní stránky trestného činu, tj. úmyslného zavinění, avšak pojal je rovněž jako nesouhlas se skutkovými zjištěními soudů, s rozsahem provedených důkazů a zejména s tím, že soudy nevyhověly jeho návrhu na provedení důkazu znaleckým posudkem z oboru ekonomiky. Ani tyto námitky proto neodpovídaly dovolacímu důvodu podle § 265b odst. 1 písm. g) tr. ř.
+Je tedy namístě závěr, že obviněný sice formálně deklaroval zákonný dovolací důvod, avšak neuplatnil žádné námitky, které by ho obsahově naplňovaly. Nejvyšší soud proto dovolání obviněného odmítl bez toho, že by na jeho podkladě přezkoumal napadené usnesení a předcházející řízení z hledisek uvedených v § 265i odst. 3 tr. ř.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 25. února 2003
+Předseda senátu:
+JUDr. Petr Hrachovec
