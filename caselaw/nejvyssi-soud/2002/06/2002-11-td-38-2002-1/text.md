@@ -1,0 +1,15 @@
+11 Td 38/2002
+U S N E S E N Í
+Nejvyšší soud v trestní věci obviněného V. S. vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 2 T 57/2002 rozhodl v neveřejném zasedání konaném dne 28. 6. 2002 o příslušnosti soudu t a k t o:
+Podle § 24 odst. 1, 2 tr. řádu j e k projednání trestní věci obviněného V. S. p ř í s l u š n ý Obvodní soud pro Prahu 1.
+O d ů v o d n ě n í :
+Obvodní státní zástupce podal dne 11. 4. 2002 u Obvodního soudu pro Prahu 1 obžalobu na obviněného V. S. pro trestný čin útoku na státní orgán podle § 154 odst. 2 tr. zák., který měl spáchat tím, že dne 20. 9. 2000 ve svém bydlišti v obci P. napsal dopis adresovaný státní zástupkyni JUDr. M. M., který obsahoval hrubé urážky v souvislosti s jejím výkonem funkce státní zástupkyně a tento zaslal na její pracoviště na Obvodní státní zastupitelství pro Prahu 2, a pro další trestný čin útoku na státní orgán podle § 154 odst. 2 tr. zák., který měl spáchat tím, že dne 15. 3. 2001 ve svém bydlišti v obci P. napsal dopis adresovaný státní zástupkyni Mgr. M. T., který obsahoval hrubé urážky v souvislosti s jejím výkonem funkce státní zástupkyně a tento zaslal na její pracoviště na Městské státní zastupitelství v Praze.
+Usnesením Obvodního soudu pro Prahu 1 ze dne 15. 4. 2002, sp. zn. 2 T 57/2002, byla trestní věc obviněného V. S. podle § 314c odst. 1 písm. a) tr. řádu ve spojení s § 188 odst. 1 písm. a) tr. řádu předložena Nejvyššímu soudu k rozhodnutí o příslušnosti s odůvodněním, že věcně i místně příslušným soudem k projednání trestní věci obviněného je Okresní soud v Olomouci, neboť k odeslání obou dopisů, tedy k jednání pachatele naplňující objektivní stránku trestného činu útoku na státní orgán, došlo v jeho obvodu. Současně z důvodu nestrannosti rozhodování státního zástupce, je soud toho názoru, že i v řízení před soudem by nebylo vhodné, aby obžalobu zastupoval státní zástupce Obvodního soudu pro Prahu 2.
+Nejvyšší soud zhodnotil důkazy použitelné k řešení tohoto sporu a dospěl k následujícímu závěru.
+V projednávané věci z hlediska stanovení místní příslušnosti podle § 18 tr. řádu přichází v úvahu jako místo spáchání činu jednak obec P., kde obviněný oba urážlivé dopisy napsal, jednak Praha 2, kam je na Obvodní státní zastupitelství pro Prahu 2 a Městské státní zastupitelství, adresoval. Přípravné řízení bylo provedeno policejními orgány pro Prahu 2, obžalobu z důvodu vhodnosti však již vypracoval Obvodní státní zástupce pro Prahu 1.
+Důvod vhodnosti v projednávané věci je třeba zvažovat i v řízení před soudem. Poškozenou je státní zástupkyně JUDr. M. M., která působí v obvodu Obvodního soudu pro Prahu 2, a proto se nejeví vhodné, aby tento soud, byť je místně příslušný, trestní věc obviněného projednával. Pochybnosti o případné podjatosti soudu, u něhož často působí, lze rozptýlit tím, že věc projedná jiný soud téhož druhu a stupně, a takovým soudem může být Obvodní soud pro Prahu 1, kam obžaloba napadla.
+Ze všech těchto důvodů bylo rozhodnuto, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í: Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 28. června 2002
+Předseda senátu:
+JUDr. Pavel Kučera
