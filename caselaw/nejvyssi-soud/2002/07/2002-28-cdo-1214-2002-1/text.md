@@ -1,0 +1,22 @@
+28 Cdo 1214/2002
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy JUDr. Milana Pokorného, CSc., a soudců JUDr. Josefa Rakovského a JUDr. Oldřicha Jehličky, CSc., o dovolání V. Š., společnosti s ručením omezeným, proti usnesení Vrchního soudu v Olomouci z 28.2.2002, sp.zn. 1 Co 103/2001, vydaném v právní věci vedené u Krajského soudu v Ostravě pod sp.zn. 23 C 46/2001 (žalobkyně F. P., zastoupené advokátem, proti žalovaným: 1. I. K. a 2. V. Š., společnosti s ručením omezeným, o ochranu osobnosti), takto:
+I. Řízení o dovolání se zastavuje.
+II. Žádný z účastníků řízení nemá právo na náhradu nákladů řízení o dovolání.
+III. Věc se vrací Krajskému soudu v Ostravě k dalšímu řízení o žalobě žalobkyně.
+O d ů v o d n ě n í :
+Žalobou, podanou u soudu 7.6.2001, se žalobkyně domáhala, aby žalované I. K. bylo uloženo zaplatit jí 100.000,- Kč na náhradu nemajetkové újmy, která jí vznikla z uveřejnění nepravdivého údaje o ní a o další osobě – S. N. v dopise žalované, zaslaném redakci deníku Š., který jej dne 19.7.1999 otiskl s podtitulkem „Nad dopisy čtenářů – Nemocného důchodce chce připravit o domek“.
+K návrhu žalobkyně Krajský soud v Ostravě usnesením z 25.10.2001, čj. 23 C 46/2001-19, připustil, aby do řízení přistoupil další účastník řízení – V. Š., společnost s ručením omezeným), a to straně žalované. Uvedený soud k odůvodnění svého rozhodnutí poukazoval na ustanovení § 92 odst. 1 občanského soudního řádu.
+O odvolání proti tomuto usnesení soudu prvního stupně, které podalo V. Š., společnost s ručením omezeným, rozhodl Vrchní soud v Olomouci z 28.3.2002, sp.zn. 1 Co 153/2001. Uvedené usnesení soudu prvního stupně bylo usnesením odvolacího soudu potvrzeno. Odvolací soud poukazoval na to, že podle ustanovení § 92 odst. 1 občanského soudního řádu může soud na návrh žalobce připustit, aby do řízení přistoupil další účastník; souhlasu toho, kdo má takto do řízení vstoupit, je třeba, jestliže má vystupovat na straně žalobce, což v daném případě nebylo.
+Usnesení odvolacího soudu bylo doručeno V. Š., s.r.o., dne 15.4.2002 a dovolání ze strany tohoto dovolatele bylo podáno 6.5.2002, tedy ve lhůtě uvedené v ustanovení § 240 odst. 1 občanského soudního řádu.
+Ve svém dovolání dovolatel navrhoval, aby dovolací soud „vydal usnesení, jímž se zamítá usnesení Vrchního soudu v Olomouci i usnesení Krajského soudu v Ostravě“ a aby tak nebyla připuštěna žaloba proti žalovanému V. Š.
+Krajský soud v Ostravě usnesením z 10.5.2002, čj. 23 C 46/2001-30, vyzval dovolatele, aby si zvolil ve lhůtě 20 dnů zastupování advokátem a aby jeho prostřednictvím podal řádné dovolání proti usnesení Vrchního soudu v Olomouci z 28.3.2002, sp.zn. 1 Co 153/2001. Tato výzva byla V. Š. doručena 24.5.2000. Požadované doplnění dovolání nebylo v uvedené lhůtě provedeno a soudem prvního stupně byl dne 27.6.2002 spis předložen k rozhodnutí o dovolání.
+Podle ustanovení § 241 odst. 1 občanského soudního řádu musí být dovolatel zastoupen advokátem nebo notářem; to neplatí, má-li dovolatel právnické vzdělání, popřípadě jedná-li za něj osoba uvedená v § 21 nebo v § 21a anebo v § 21b občanského soudního řádu, která má právnické vzdělání. Nemá-li dovolatel právnické vzdělání, musí být dovolání sepsáno advokátem, notářem nebo osobou uvedenou v § 21 nebo v § 21a anebo v § 21b občanského soudního řádu, která má právnické vzdělání.
+Podle ustanovení § 243c odst. 1 občanského soudního řádu platí pro řízení u dovolacího soudu přiměřeně ustanovení o řízení před soudem prvního stupně. Podle ustanovení § 241b odst. 2 občanského soudního řádu není-li splněna podmínka uvedená v § 241 občanského soudního řádu, postupuje se obdobně podle ustanovení § 104 odst. 2 občanského soudního řádu.
+Podle ustanovení § 104 odst. 2 občanského soudního řádu, jde-li o nedostatek podmínky řízení, který lze odstranit, učiní soud k tomu vhodné opatření. Nezdaří-li se nedostatek podmínky řízení odstranit, soud řízení zastaví.
+Podle těchto ustanovení postupoval dovolací soud i v daném případě a přikročil k zastavení řízení o dovolání žalovaného V. Š., s.r.o., z 30.4.2002. Věc se vrací k dalšímu řízení Krajskému soudu v Ostravě o žalobě žalobkyně ze 7.6.2001 (s rozšířením této žaloby podáním z 18.10.2001).
+Dovolatel nebyl v řízení o dovolání úspěšný a ostatním účastníkům řízení náklady v dovolacím řízení nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 9. července 2002
+JUDr. Milan P o k o r n ý , CSc., v.r.
+předseda senátu
