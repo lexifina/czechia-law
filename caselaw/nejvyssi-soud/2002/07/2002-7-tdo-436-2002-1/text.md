@@ -1,0 +1,15 @@
+7 Tdo 436/2002
+U S N E S E N Í
+Nejvyšší soud rozhodl v neveřejném zasedání dne 30. 7. 2002 o dovolání obviněného L. P., proti rozsudku Krajského soudu v Hradci Králové ze dne 14. 12. 2001, sp. zn. 12 To 146/2001, v trestní věci vedené u Okresního soudu v Pardubicích pod sp. zn. 1 T 52/99 t a k t o :
+Podle § 265i odst. 1 písm. a) tr. ř. se dovolání obviněného L. P. o d m í t á .
+O d ů v o d n ě n í :
+Obviněný L. P. podal dovolání proti rozsudku Krajského soudu v Hradci Králové ze dne 14. 12. 2001, sp. zn. 12 To 146/2001, jímž bylo rozhodnuto o odvoláních okresního státního zástupce v Pardubicích a obviněného L. P. proti rozsudku Okresního soudu v Pardubicích ze dne 7. 12. 2000, sp. zn. 1 T 52/99.
+Nejvyšší soud shledal, že jde o dovolání, které není přípustné.
+Dovolání je mimořádný opravný prostředek zavedený s účinností od 1. 1. 2002 zákonem č. 265/2001 Sb. Časová působnost trestního řádu a jeho novel je založena na zásadě, že řízení se koná podle zákona účinného v době řízení. V dané věci trestní stíhání probíhalo a pravomocně skončilo před účinností zákona č. 265/2002 Sb., tj. před 1. 1. 2002. Pravomocné rozhodnutí v té době tudíž nebylo vystaveno tomu, že by proti němu mohl být podán jiný mimořádný opravný prostředek než stížnost pro porušení zákona nebo návrh na povolení obnovy řízení. To, že dovolání bylo jako další mimořádný opravný prostředek zavedeno s účinností od 1. 1. 2002, znamená, že všechny zákonné podmínky pro jeho podání musí nastat za účinnosti zákona č. 265/2001 Sb., tedy v době od 1. 1. 2002. Mimo jiné to znamená, že ho lze podat jen proti rozhodnutí, které nabylo právní moci v době od 1. 1. 2002.
+Podle § 265a odst. 1 tr. ř. dovoláním lze napadnout pravomocné rozhodnutí soudu ve věci samé, jestliže soud rozhodl ve druhém stupni a zákon to připouští. Dikce „a zákon to připouští“ ve vztahu k datu 1. 1. 2002 jako počátku účinnosti zákona č. 265/2001 Sb. znamená nejen to, že dovolání je možné podat až od 1. 1. 2002, ale i to, že je možné ho podat jen proti takovému rozhodnutí, které se stalo pravomocným v době od 1. 1. 2002. Pokud by tomu mělo být jinak, muselo by některé z přechodných ustanovení zákona č. 265/2001 Sb. výslovně zakládat přípustnost dovolání i proti rozhodnutím, která nabyla právní moci před účinností citovaného zákona. Pouze takové ustanovení by mohlo být průlomem do zásady, že řízení se koná podle zákona účinného v době řízení. Zákon č. 265/2001 Sb. však žádné takové ustanovení neobsahuje.
+Pro posuzovaný případ z toho vyplývá, že pokud byl napadený rozsudek Krajského soudu v Hradci Králové vyhlášen a nabyl právní moci dne 14. 12. 2001, není přípustné podat proti němu dovolání jako mimořádný opravný prostředek zavedený s účinností od 1. 1. 2002.
+Nejvyšší soud proto odmítl dovolání obviněného jako nepřípustné, aniž z jeho podnětu přezkoumal napadený rozsudek a předcházející řízení podle § 265i odst. 3, 4 tr. ř.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 30. července 2002
+Předseda senátu:
+JUDr. Petr Hrachovec
