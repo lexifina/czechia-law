@@ -1,0 +1,13 @@
+26 Cdo 1737/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce města H. proti žalovaným 1. N. K. a 2. M. K., o přivolení k výpovědi z nájmu bytu, vedené u Okresního soudu v Karviné – pobočky v Havířově pod sp. zn. 108 C 207/99, o dovolání žalovaných proti usnesení Krajského soudu v Ostravě ze dne 29. listopadu 2000, č.j. 13 Co 1226/2000-51, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Proti usnesení Krajského soudu v Ostravě ze dne 29. 11. 2000, č.j. 13 Co 1226/2000-51, jímž bylo zastaveno řízení o odvolání 2. žalovaného (v záhlaví odvolacího usnesení bylo nesprávně uvedeno „1. žalovaného“) proti rozsudku Okresního soudu v Karviné – pobočky v Havířově ze dne 26. 11. 1999, č.j. 108 C 207/99-21, podali oba žalovaní – nezastoupeni advokátem – dne 28. 2. 2001 dovolání, jež postrádalo náležitosti uvedené v § 241 odst. 2 o. s. ř. Poté, kdy jim soud prvního stupně usnesením ze dne 7. 9. 2001, č.j. 108 C 207/99-71, přiznal osvobození od soudních poplatků a ustanovil jim pro dovolací řízení advokátku, vzali žalovaní své dovolání zpět (podáním učiněným ústně do protokolu dne 7. 2. 2002 – viz č. l. 84, a následně písemným podáním sepsaným advokátkou a došlým soudu prvního stupně dne 8. 2. 2002 – viz č.l. 85 až 86). Spis byl dne 12. 9. 2002 předložen Nejvyššímu soudu České republiky.
+Podle části dvanácté, hlavy první, bodu 17. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu, vydaným přede dnem nabytí účinnosti tohoto zákona (tj. před 1. 1. 2001) nebo vydaným po řízení provedeném podle dosavadních právních předpisů, se projednají a rozhodnou podle dosavadních právních předpisů. Napadené rozhodnutí odvolacího soudu bylo vydáno dne 29. 11. 2000, Nejvyšší soud proto dovolání žalovaných projednal a rozhodl o něm podle občanského soudního řádu ve znění před novelou provedenou zákonem č. 30/2000 Sb. (dále opět jen „o. s. ř.”) a dovolací řízení v důsledku zpětvzetí podaného dovolání zastavil podle § 243b odst. 4 věty druhé o. s. ř.
+Výrok o nákladech řízení se opírá o ustanovení § 243b odst. 4, § 224 odst. 1, § 146 odst. 2 věty prvé o. s. ř. a o skutečnost, že žalobci nevzešly v dovolacím řízení žádné výlohy, k jejichž náhradě by byli jinak povinni dovolatelé, nesoucí procesní zavinění na tom, že řízení o jejich dovolání bylo zastaveno.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 3. října 2002
+JUDr. Hana Müllerová, v.r.
+předsedkyně senátu
