@@ -1,0 +1,16 @@
+7 Nd 88/2001
+U S N E S E N Í
+Nejvyšší soud v senátě složeném z předsedy JUDr. Petra Hrachovce a soudců JUDr. Zdeňka Sováka a JUDr. Jana Engelmanna ve věci řízení o dědictví po A. V., vedené u Obvodního soudu pro Prahu 5 pod sp. zn. 18 D 235/2001 za účasti A. G., M. R., S. V., J. B., a J. V., rozhodl o návrhu A. G. na přikázání věci Okresnímu soudu v Uherském Hradišti z důvodu vhodnosti, učiněném i v zastoupení ostatních účastníků řízení, t a k t o :
+Návrh na přikázání věci Okresnímu soudu v Uherském Hradišti se z a m í t á .
+O d ů v o d n ě n í :
+U Obvodního soudu pro Prahu 5 jako soudu věcně a místně příslušného je vedeno řízení o dědictví po zemřelé A. V. Účastníky řízení jako dědicové, kteří přicházejí v úvahu, jsou A. G., M. R., S. V., J. B. a J. V. A. G. zmocnili ostatní účastníci řízení k tomu, aby je v řízení zastupovala. A. G., a to i v zastoupení ostatních účastníků řízení, navrhla, aby věc byla z důvodu vhodnosti přikázána Okresnímu soudu v Uherském Hradišti.
+Nejvyšší soud shledal, že v posuzovaném případě nejsou dány zákonné předpoklady k tomu, aby věc byla přikázána jinému než příslušnému soudu.
+Podle § 12 odst. 2 o. s. ř. věc může být jinému soudu téhož stupně přikázána z důvodu vhodnosti.
+Ze samotného návrhu ani z obsahu spisu nevyplývá nic, čím by bylo možné přesvědčivě odůvodnit závěr, že je vhodné, aby místo Obvodního soudu pro Prahu 5 jako soudu příslušného věc projednal a rozhodl Okresní soud v Uherském Hradišti. Návrh nebyl zdůvodněn žádnými konkrétními skutečnostmi. Pokud by návrh případně souvisel s tím, že tři z účastníků řízení mají bydliště v obvodu působnosti Okresního soudu v Uherském Hradišti, není z toho ještě zřejmé, že projednání věci tímto soudem je vhodnější než její projednání příslušným soudem, zvláště když z žádné konkrétně zjištěné okolnosti nevyplývá, že by se tito účastníci v případě potřeby nemohli dostavit k příslušnému soudu. Bez významu v tomto ohledu není ani to, že v obvodu působnosti příslušného soudu má bydliště ta účastnice řízení, která zároveň byla zmocněna k tomu, aby v řízení zastupovala ostatní účastníky, a že další účastník řízení bydlí v Nymburce, takže příslušný soud je pro něho v případě potřeby rovněž snáze dostupný. Ani skutečnost, že předmětem dědění jsou nemovitosti, které se nacházejí v obvodu působnosti Okresního soudu v Uherském Hradišti, není důvodem k úsudku, že projednání a rozhodnutí věci tímto soudem je vhodnější než její projednání příslušným soudem.
+Návrh na přikázání věci je součástí protokolu sepsaného dne 20. 3. 2001 notářem jako soudním komisařem, není samotnou A. G. nijak zdůvodněn a působí spíše dojmem, že byl pouze její reakcí na podnět notáře jako soudního komisaře.
+Postup podle § 12 odst. 2 o. s. ř. představuje výjimku ze zásady, že řízení koná soud, jehož příslušnost vyplývá ze zákona. Tato zásada je i ústavně garantována v čl. 38 odst. 1 Listiny základních práv a svobod. Proto se přikázání věci jinému než příslušnému soudu musí opírat o takové okolnosti, které jsou svou povahou, rozsahem či významem skutečně výjimečné. Žádná taková okolnost však není dána v posuzovaném případě.
+Nejvyšší soud proto návrh na přikázání věci zamítl.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 4. dubna 2001
+Předseda senátu:
+JUDr. Petr Hrachovec
