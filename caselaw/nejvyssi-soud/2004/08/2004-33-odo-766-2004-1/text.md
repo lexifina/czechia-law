@@ -1,0 +1,15 @@
+33 Odo 766/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy Víta Jakšiče a soudců JUDr. Blanky Moudré a JUDr. Ivany Zlatohlávkové ve věci žalobců A) Ing. V. S., a B) L. S., proti žalované F., s. r. o., zastoupené, advokátem, o zaplacení částky 6.500,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 21 C 242/99, o dovolání žalobce A) proti usnesení Obvodního soudu pro Prahu 1 ze dne 1. února 2002, č. j. 21 C 242/99-113, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 1 jako soud prvního stupně usnesením ze dne 1. února 2002, č. j. 21 C 242/99-113, rozhodl, že „změna žalobního petitu ve znění z 1. 8. 2000 se nepřipouští“. Současně poučil účastníky, že proti tomuto usnesení není odvolání přípustné.
+Právě s poukazem na poučení o nepřípustnosti odvolání podal žalobce A) proti tomuto usnesení dovolání a navrhl, aby bylo zrušeno.
+Podle § 103 občanského soudního řádu (dále jen „OSŘ“) přihlíží soud kdykoli za řízení k tomu, zda jsou splněny podmínky, za nichž může rozhodnout ve věci samé (podmínky řízení). Podle § 104 odst. 1 OSŘ jde-li o takový nedostatek podmínky řízení, který nelze odstranit, soud řízení zastaví. Podle § 243c odst. 1 OSŘ platí tato ustanovení i pro řízení u dovolacího soudu.
+Občanský soudní řád v žádném ze svých ustanovení neobsahuje výčet všech podmínek řízení. Teorie procesního práva a shodně s ní i praxe soudů tradičně řadí mezi podmínky řízení existenci návrhu na zahájení řízení, příp. rozhodnutí soudu o zahájení řízení bez návrhu podle § 81 OSŘ, podmínky týkající se soudu (pravomoc, věcná, místní a funkční příslušnost, podmínka, aby soudnímu řízení nemuselo předcházet řízení před jiným orgánem – tzv. dělená pravomoc, a podmínka, aby projednání věci před soudem nebránila rozhodčí smlouva), podmínky na straně účastníků řízení, příp. jejich zástupců (způsobilost být účastníkem řízení, procesní způsobilost, způsobilost být zástupcem a oprávnění k zastupování) a tzv. negativní procesní podmínky (tedy aby rozhodnutí ve věci samé nebránila překážka věci zahájené či věci rozsouzené).
+Podle § 236 odst. 1 OSŘ lze dovoláním napadnout – pokud to zákon připouští – pravomocná rozhodnutí odvolacího soudu. Opravným prostředkem proti rozhodnutí soudu prvního stupně je podle § 201 OSŘ odvolání. Proto občanský soudní řád neupravuje funkční příslušnost soudu pro projednání dovolání proti takovémuto rozhodnutí. Nedostatek funkční příslušnosti je ovšem neodstranitelným nedostatkem podmínky řízení, a tak jestliže žalobce A) napadá svým dovoláním rozhodnutí soudu prvního stupně, nezbylo, než řízení o tomto dovolání podle § 104 odst. 1 a § 243c OSŘ zastavit. V podrobnostech lze odkázat na usnesení Nejvyššího soudu ČR ze dne 31. srpna 1999, sp. zn. 20 Cdo 1574/99, uveřejněné v časopise Soudní judikatura č. 4/2000 pod č. 45.
+O nákladech dovolacího řízení Nejvyšší soud ČR nerozhodoval, jelikož jeho rozhodnutím řízení nekončí (§ 243c odst. 1, § 151 odst. 1 OSŘ).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 10. srpna 2004
+Vít Jakšič, v.r.
+předseda senátu
