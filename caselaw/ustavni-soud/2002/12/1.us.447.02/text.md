@@ -1,0 +1,107 @@
+I.ÚS 447/02 ze dne 30. 12. 2002
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Česká republika
+
+
+
+
+
+
+
+
+
+
+USNESENÍ
+
+
+
+
+
+
+
+
+
+
+Ústavního soudu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+I. ÚS 447/02
+ 
+	Ústavní soud rozhodl ve věci J. M., takto:
+Návrh se odmítá.
+Odůvodnění:
+	Podání navrhovatele  bylo Ústavnímu soudu doručeno dne 16. 7.  2002.  
+	Po přezkoumání  návrhu  Ústavní soud zjistil, že návrh nemá všechny náležitosti ústavní stížnosti, které zákon č. 182/1993 Sb., o Ústavním soudu, ve znění pozdějších předpisů, stanoví. Především v návrhu nebyly označeny důkazy, kterých se navrhovatel dovolává (§ 34 odst. 1 cit. zák.), nebylo v něm uvedeno, která základní práva či svobody byly porušeny, návrh nebyl zaslán v dostatečném počtu vyhotovení (§ 34 odst. 2 cit. zák.), nebyla k němu připojena kopie rozhodnutí o posledním opravném prostředku a navrhovatel nebyl zastoupen advokátem (§ 30 cit. zák.). Součástí návrhu sice byla plná moc udělená JUDr. Z. S., nebyla však zvláštní plnou mocí pro zastupování před Ústavním soudem, ani nebyla podepsána zmocněným advokátem. Rovněž tak samotný návrh nebyl advokátem sepsán.
+	Na základě shora uvedených skutečností byl navrhovatel přípisem ze dne 19. 8.  2002 vyzván Ústavním soudem, aby výše uvedené nedostatky podání odstranil a současně mu byla stanovena lhůta k odstranění vytýkaných nedostatků, která činila 20 dnů ode dne doručení výzvy navrhovateli. Zásilka se však Ústavnímu soudu vrátila, neboť adresát si ji v úložní době nevyzvedl (uložena dne 22. 8. 2002). Proto Ústavní soud učinil další pokus o doručení, opět se stejným  výsledkem (zásilka uložena dne 2. 10. 2002). 
+	Vzhledem k tomu, že jsou splněny podmínky ustanovení § 46 odst. 4  o. s. ř., dle něhož nevyzvedne-li si adresát zásilku do 10 dnů od uložení, považuje se poslední den této lhůty za den doručení, i když se adresát o uložení nedozvěděl, považuje Ústavní soud výzvu k odstranění vad návrhu za doručenou. 
+	Protože však stěžovatel ve stanovené lhůtě vytýkané nedostatky návrhu neodstranil, dospěl Ústavní soud k závěru, že jsou splněny podmínky ustanovení § 43 odst. 1 písm. a) zákona č. 182/1993 Sb., o Ústavním soudu, ve znění pozdějších předpisů, a proto mimo ústní jednání usnesením návrh odmítl.
+Poučení:  Proti rozhodnutí Ústavního soudu není odvolání přípustné.
+V Brně 30. prosince 2002
+                                                          Prof. JUDr. Vladimír Klokočka, DrSc.
+	                                                                  soudce Ústavního soudu
