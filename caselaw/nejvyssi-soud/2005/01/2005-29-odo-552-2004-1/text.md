@@ -1,0 +1,19 @@
+29 Odo 552/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudců JUDr. Zdeňka Krčmáře a JUDr. Ivany Štenglové v právní věci žalobce L. G. A., d., zastoupeného, advokátem, proti žalované Ing. H. K., jako správkyni konkursní podstaty úpadkyně L., a. s., zastoupené, advokátem, o vyklizení nemovitostí, vedené u Krajského soudu v Ostravě pod sp. zn. 9 Cm 159/2003, o dovolání žalované proti usnesení Vrchního soudu v Olomouci ze dne 15. ledna 2004, č.j. 6 Cmo 149/2003-41, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Krajský soud v Ostravě usnesením ze dne 6. října 2003, č.j. 9 Cm 159/2003-15, nařídil předběžné opatření, jímž žalované uložil zdržet se veškerého jednání, kterým by žalobci bránila v provozování hotelu, restaurace a kanceláří v budovách č.p. 69 a 68 ve S. M., zapsaných v katastru nemovitostí u Katastrálního úřadu v Š., na listu vlastnictví 520, pro obec S. M. pod K. S., katastrální území S. M. p. S., okres Š., ve vlastnictví A. C., s. r. o., se sídlem v O., N., U R. 118/21, a umožnit žalobci vstup do těchto budov (výrok I.). Dále soud prvního stupně odmítl návrh, aby předběžným opatřením žalované uložil povinnost zdržet se nakládání s věcmi žalobce umístěnými ve shora označených budovách.
+K odvolání žalované Vrchní soud v Olomouci usnesením ze dne 15. ledna 2004, č.j. 6 Cmo 149/2003-41, usnesení soudu prvního stupně potvrdil, když dospěl k závěru, že v daném případě byly splněny podmínky pro nařízení předběžného opatření vyžadované ustanovením § 102 občanského soudního řádu (dále jen „o. s. ř.“).
+Proti usnesení odvolacího soudu podala žalovaná dovolání, odkazujíc co do jeho přípustnosti na ustanovení § 238a odst. 1 písm. a) o. s. ř. a namítajíc nesprávné právní posouzení věci co do splnění podmínek vyžadovaných ustanovením § 102 o. s. ř. pro nařízení předběžného opatření, tj. uplatňujíc dovolací důvod podle ustanovení § 241a odst. 2 písm. b) o. s. ř. Dovolatelka snáší argumenty na podporu uplatněného dovolacího důvodu a požaduje, aby Nejvyšší soud rozhodnutí soudů obou stupňů zrušil.
+Dovolání není přípustné.
+Přípustnost dovolání proti usnesení odvolacího soudu upravují ustanovení § 237 až § 239 o. s. ř.
+Ustanovení § 238, § 238a odst. 1 písm. b) až g) a § 239 o. s. ř. nezakládají přípustnost dovolání proto, že napadené rozhodnutí nelze podřadit žádnému z tam vyjmenovaných případů.
+Dovolání není přípustné ani podle ustanovení § 237 odst. 1 o. s. ř., když všem případům přípustnosti dovolání v tomto ustanovení vypočteným je společné, že musí jít o usnesení ve věci samé, jímž usnesení odvolacího soudu, kterým bylo potvrzeno usnesení soudu prvního stupně o předběžném opatření, není.
+Oproti očekávání dovolatelky není dovolání přípustné ani podle ustanovení § 238a odst. 1 písm. a) o. s. ř. Jak je zřejmé z obsahu spisu, předmětem řízení je požadavek žalobce vůči žalované na vyklizení nemovitostí, tj. nejde o věc konkursu a vyrovnání, nehledě k tomu, že ve smyslu ustanovení § 238a odst. 1 písm. a) o. s. ř. je dovolání přípustné pouze proti usnesení odvolacího soudu, jímž bylo potvrzeno nebo změněno usnesení soudu prvního stupně ve věci samé (shodně srov. např. rozhodnutí uveřejněné pod číslem 51/2003 Sbírky soudních rozhodnutí a stanovisek).
+Nejvyšší soud proto, aniž ve věci nařizoval jednání (§ 243a odst. 1 věta první o. s. ř.), dovolání žalované jako nepřípustné podle ustanovení § 243b odst. 5 a § 218 písm. c) o. s. ř. odmítl.
+Skutečnost, že pokud trvají účinky soupisu majetku, jehož se předběžné opatření týká, jsou rozhodnutí soudů nižších stupňů ve zjevném rozporu s judikaturou Nejvyššího soudu (srov. rozsudek Nejvyššího soudu uveřejněný pod číslem 27/2003 Sbírky soudních rozhodnutí a stanovisek), na závěr o nepřípustnosti dovolání žádný vliv nemá.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 26. ledna 2005
+JUDr. Petr G e m m e l , v. r.
+předseda senátu
