@@ -1,0 +1,107 @@
+IV.ÚS 21/94 ze dne 10. 3. 1994
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Česká republika
+
+
+
+
+
+
+
+
+
+
+USNESENÍ
+
+
+
+
+
+
+
+
+
+
+Ústavního soudu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+IV. ÚS 21/94
+ČESKÁ REPUBLIKA
+USNESENÍ
+   Ústavního soudu České republiky
+     Ústavní soud ČR rozhodl ve věci navrhovatele N. H.,
+t a k t o :
+                             Návrh se odmítá.
+O d ů v o d n ě n í :
+     Navrhovatel se svým podáním ze dne 31. 1. 1994 obrátil na Ústavní soud ČR se žádostí o posouzení tvrdosti uplatnění zákona o civilní službě č. 18/1992 Sb. v souvislosti s odmítnutím jeho žádosti o zkrácení civilní služby O.Ú.
+     Vzhledem k tomu, že toto podání navrhovatele nemělo náležitosti návrhu na zahájení řízení před Ústavním soudem ČR předepsané zákonem č. 182/1993 Sb., byl navrhovatel vyzván k odstranění vad podání ve lhůtě 20ti dnů, kterou mu Ústavní soud k tomu určil. Výzva k odstranění vad podání byla navrhovateli doručena 14. 2. 1994. Do dnešního dne vady návrhu nebyly navrhovatelem odstraněny. Navrhovatel tedy ve lhůtě mu určené vady návrhu neodstranil, a proto Ústavní soud ČR jeho návrh podle § 43 odstavce 1 písmena a) zákona č. 182/1993 Sb., odmítl.
+Poučení: Proti tomuto usnesení není odvolání přípustné.
+V Brně dne 10. 3. 1994
+JUDr. Eva  Zarembová
+soudce zpravodaj
