@@ -1,0 +1,16 @@
+29 Odo 87/2001
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci návrhu společnosti H., s.r.o., na prohlášení rozhodnutí valné hromady společnosti B.h. , a.s., za neplatné, za účasti vedlejšího účastníka L. I. B.V., na straně B.h. , a.s., vedené u Krajského obchodního soudu v Praze pod sp. zn. 54 Cm 160/99, o dovolání navrhovatelky proti usnesení Vrchního soudu v Praze ze dne 27. června 2000, čj. 7 Cmo 533/2000-131, takto:
+Dovolání se odmítá.
+Odůvodnění:
+Napadeným usnesením potvrdil odvolací soud usnesení Krajského obchodního soudu v Praze ze dne 28.4.2000, čj. 54 Cm 160/99-121, kterým soud prvního stupně připustil vstup obchodní společnosti L.I. B.V. do řízení jako vedlejšího účastníka na straně B.h. , a.s. Dále odvolací soud nevyhověl návrhu společnosti H., s.r.o. na připuštění dovolání.
+Navrhovatelka (zastoupena advokátem) podala proti výše uvedenému usnesení odvolacího soudu včas dovolání. Jeho důvodnost spatřuje v tom, že napadené rozhodnutí spočívá na nesprávném právním posouzení věci, a je tedy dán dovolací důvod dle § 241 odst. 3 písm. d) o. s. ř. Pokud jde o přípustnost dovolání odkazuje dovolatelka na ustanovení § 239 odst. 2 o. s. ř. Zásadní právní význam spatřuje dovolatelka v posouzení otázky, zda skutečnosti, které nastaly po konání valné hromady, mohou ovlivnit soudní řízení o vyslovení její neplatnosti. Dovolatelka se domnívá, že vstup vedlejšího účastníka na straně B.h. , a.s. do již probíhajícího soudního řízení by probíhající řízení ovlivnil či ovlivnit mohl. Vzhledem k výše uvedenému dovolatelka navrhuje, aby Nejvyšší soud zrušil jak napadené usnesení odvolacího soudu, tak i rozhodnutí soudu prvního stupně a věc vrátil soudu prvního stupně k dalšímu řízení.
+Podle části dvanácté hlavy první bodu 17. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (to jest podle občanského soudního řádu ve znění účinném před 1. lednem 2001 - dále též jen „o. s. ř.\").
+Dovolání není přípustné.
+Podle § 239 odst. 2 o. s. ř. nevyhoví-li odvolací soud návrhu účastníka na vyslovení přípustnosti dovolání, který byl učiněn nejpozději před vyhlášením potvrzujícího rozsudku nebo před vyhlášením (vydáním) usnesení, kterým bylo rozhodnuto ve věci samé, je dovolání podané tímto účastníkem přípustné, jestliže dovolací soud dospěje k závěru, že napadené rozhodnutí odvolacího soudu má po právní stránce zásadní význam.
+Vzhledem k tomu, že rozhodnutí o přípustnosti vstupu vedlejšího účastníka do řízení není rozhodnutím ve věci samé, není v tomto případě přípustnost dovolání podle ustanovení § 239 o. s. ř. dána.
+Protože Nejvyšší soud nezjistil ani jiný důvod přípustnosti dovolání, aniž by nařizoval jednání (§ 243a odst. 1 věta první o. s. ř.), dovolání podle § 243b odst. 4 a § 218 odst. 1 písm. c) o. s. ř. usnesením odmítl.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 22. května 2001
+JUDr. Ivana Š t e n g l o v á , v. r.
+předsedkyně senátu
