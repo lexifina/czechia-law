@@ -1,0 +1,25 @@
+25 Cdo 1410/2000
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce I., s.r.o., proti žalované J. Z., o 6.517,- Kč s příslušenstvím, vedené u Okresního soudu v České Lípě pod sp. zn. 15 C 1251/99, o dovolání žalované proti rozsudku Krajského soudu v Ústí nad Labem - pobočka v Liberci ze dne 25. února 2000 č. j. 29 Co 855/99 - 43, takto:
+I. Dovolání žalované se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Rozsudek Okresního soudu v České Lípě ze dne 5. 10. 1999 č. j. 15 C 1215/99 - 21, jímž byl zamítnut návrh na zaplacení 6.517,- Kč s příslušenstvím a jímž bylo rozhodnuto o náhradě nákladů řízení, byl změněn rozsudkem Krajského soudu v Ústí nad Labem - pobočka v Liberci ze dne 25. 2. 2000 č. j. 29 Co 855/99 - 43 tak, že žalovaná je povinna zaplatit žalobci 6.517,- Kč s 26 % úrokem z prodlení od 21. 6. 1997 do zaplacení, a dále bylo rozhodnuto o náhradě nákladů řízení před soudy obou stupňů. Odvolací soud dospěl na rozdíl od soudu prvního stupně k závěru, že požadavek žalobce na zaplacení kupní ceny podle kupní smlouvy uzavřené mezi účastníky dne 8. 6. 1996 je důvodný.
+Proti tomuto rozsudku podala žalovaná dovolání, jehož přípustnost dovozuje z ust. § 239 odst. 1 o.s.ř. a uplatňuje dovolací důvody podle § 241 odst. 3 písm. b/ a d/ o.s.ř. Navrhla, aby rozsudek odvolacího soudu byl zrušen a aby věc byla vrácena tomuto soudu k dalšímu řízení.
+Nejvyšší soud jako soud dovolací ( § 10a o.s.ř. ) po přezkoumání věci dospěl k závěru, že v dané věci dovolání směřuje proti rozhodnutí, proti němuž není přípustné.
+Podle § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Dovolání je přípustné proti rozhodnutí odvolacího soudu, jestliže trpí vadami uvedenými v ust. § 237 odst. 1 o.s.ř.
+Dovolání je dále přípustné proti rozsudku odvolacího soudu, jímž byl změněn rozsudek soudu prvního stupně ve věci samé ( § 238 odst. 1 písm. a/ o.s.ř. ), nebo jímž byl potvrzen rozsudek soudu prvního stupně, kterým soud prvního stupně rozhodl jinak než v dřívějším rozsudku proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil ( § 238 odst. 1 písm. b/ o.s.ř. ).
+Podle § 238 odst. 2 písm. a/ o.s.ř. není dovolání podle odstavce 1 tohoto ustanovení přípustné ve věcech, v nichž dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 20.000,- Kč a v obchodních věcech 50.000,- Kč.
+Podle § 239 odst. 1 o.s.ř. je dovolání přípustné proti rozsudku nebo usnesení odvolacího soudu ve věci samé, jímž bylo rozhodnutí soudu prvního stupně potvrzeno, jestliže odvolací soud ve výroku rozhodnutí vyslovil, že dovolání je přípustné, protože jde o rozhodnutí po právní stránce zásadního významu. Přípustnost dovolání může odvolací soud vyslovit i bez návrhu. Ve smyslu odst. 2 tohoto ustanovení, jestliže odvolací soud nevyhoví návrhu účastníka na vyslovení přípustnosti dovolání, je dovolání podané tímto účastníkem přípustné, jestliže dovolací soud dospěje k závěru, že napadené rozhodnutí odvolacího soudu má po právní stránce zásadní význam. Podle § 239 odst. 3 o.s.ř. platí ust. § 237 odst. 2, § 238 odst. 2 a § 238a odst. 2 o.s.ř. obdobně.
+V dané věci žalovaná napadá dovoláním rozsudek odvolacího soudu, kterým byl změněn rozsudek soudu prvního stupně, přičemž dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění ve výši 6.517,- Kč, tedy o plnění nepřevyšujícím 20.000,- Kč.
+Vzhledem k ust. § 238 odst. 2 písm. a/ o.s.ř. není tedy dovolání v dané věci přípustné. Uvedl-li odvolací soud v poučení svého rozsudku, že „proti němu lze podat dovolání do jednoho měsíce od právní moci rozsudku prostřednictvím okresního soudu v České Lípě k Nejvyššímu soudu ČR v Brně", šlo jen o obecné upozornění na možnost podání mimořádného opravného prostředku, které však přípustnost dovolání nemůže založit.
+Zbývalo proto posoudit otázku přípustnosti dovolání z hlediska ust. § 237 o.s.ř. Podle tohoto ustanovení je dovolání přípustné proti rozhodnutí odvolacího soudu, jestliže v řízení došlo k vadám uvedeným v ust. § 237 odst. 1 o.s.ř., přičemž omezení uvedené v ust. § 238 odst. 2 písm. a/ o.s.ř. zde neplatí. Dovolatelka netvrdí a ani z obsahu spisu nevyplývá, že by rozsudek odvolacího soudu trpěl některou z vad uvedených v ust. § 237 odst. 1 o.s.ř.
+Z uvedeného vyplývá, že dovolání směřuje proti rozhodnutí, proti němuž není přípustné.
+Nejvyšší soud proto dovolání žalované, aniž se mohl zabývat věcí z hlediska uplatněných dovolacích důvodů podle § 241 odst. 3 písm. b/ a d/ o.s.ř., odmítl podle § 243b odst. 4 věty první a § 218 odst. 1 písm. c/ o.s.ř.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 4, § 224 odst. 1, § 151 odst. 1 a § 142 odst. 1 o.s.ř., neboť žalovaná s ohledem na výsledek dovolacího řízení nemá právo na náhradu nákladů řízení a žalobci v tomto řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 29. června 2000
+JUDr. Olga P u š k i n o v á, v. r.
+předsedkyně senátu
+Za správnost vyhotovení: Romana Říčková
