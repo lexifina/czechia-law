@@ -1,0 +1,21 @@
+30 Cdo 1927/2000
+U S N E S E N Í
+Nejvyšší soud rozhodl ve věci péče o nezletilé M. a T. N., zastoupených kolizním opatrovníkem Okresním úřadem B., dcery matky M. N. a otce J. N., o úpravu výchovy, výživy a styku, vedené u Okresního soudu Brno-venkov pod spisovou značkou 9 Nc 146/99, o dovolání otce proti rozsudku Krajského soudu v Brně ze dne 26. dubna 2000, č.j. 21 Co 69/2000, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Okresní soud Brno-venkov rozsudkem ze dne 22.11.1999, č.j. 9 Nc 146/99-44, svěřil obě nezletilé děti do péče matky, otci určil výživné pro M. ve výši 1.700,- Kč a T. ve výši 1.500,- Kč měsíčně, vyčíslil dlužné výživné a rozhodl o jeho splatnosti. Dále upravil rozsah styku otce s oběma nezletilými dcerami.
+K odvolání otce Krajský soud v Brně rozsudkem ze dne 26. dubna 2000, č.j. 21 Co 69/2000 potvrdil rozsudek soudu prvního stupně ve výroku o výchově a v úpravě styku, změnil jej, pokud jde o výši výživného placeného otcem a výši nedoplatku na výživném.
+Pravomocný rozsudek odvolacího soudu napadl otec (dále jen dovolatel) dovoláním, ve kterém vytkl oběma soudům, že omezily jeho rodičovskou odpovědnost jako otce ve srovnání se stavem před zahájením řízení, protože byly omezeny jeho možnosti s dětmi se stýkat a výchovně na ně působit. Řízení dále vytýká vady dle ustanovení § 241 odst. 3 písm. b/ o.s.ř., protože soudy obou stupňů se neřídily zájmy nezletilých dětí. Dovolatel navrhl zrušení rozsudků soudů obou stupňů.
+Vyjádření k dovolání nebylo podáno.
+Po zjištění, že dovolání je v přezkoumávané věci podané oprávněnou osobou, t.j. účastníkem řízení, řádně zastoupeným advokátem, jak to vyžaduje ustanovení § 241 odst. 1 o.s.ř., že je podané ve lhůtě určené ustanovením § 240 odst. 1 o.s.ř., a v podstatě splňuje formální i obsahové náležitosti dle ustanovení § 241 odst. 2 o.s.ř., se dovolací soud nejprve zabýval přípustností dovolání, protože podle ustanovení § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Dovolání není přípustné.
+Přípustnost dovolání proti rozsudku upravují ustanovení § 237, § 238 a § 239 o.s.ř.
+V dané věci se jedná o rozsudek odvolacího soudu, vydaný ve věci péče o nezletilé děti, t.j. ve věci upravené zákonem o rodině, kde ustanovení § 238 odst. 2 písm. b/ přípustnost dovolání výslovně vylučuje. Rozhodnutí, kterým je vymezen rozsah styku rodiče s nezletilými dětmi, není rozhodnutím o omezení či zbavení rodičovské zodpovědnosti, či o pozastavení jejího výkonu ve smyslu ustanovení § 238 odst. 2 písm. b/ o.s.ř.
+Pokud jde o dovolatelem vytýkané vady, které podřaďuje pod ustanovení § 24l odst. 3 písm. b/ o.s.ř. (t.j. jiné vady, které mohly mít za následek nesprávné rozhodnutí ve věci), k těmto vadám přihlíží dovolací soud pouze za podmínky, je-li dovolání přípustné (§ 242 odst. 3 o.s.ř.). Tato podmínka v dané věci splněna není.
+Z obsahu spisu nevyplývá (ani dovolatel to netvrdí), že by řízení bylo postiženo některou z vad uvedených v ustanovení § 237 odst. 1 o.s.ř., ke kterým dovolací soud přihlíží z úřední povinnosti dle ustanovení § 242 odst. 3 o.s.ř. Toto ustanovení spojuje přípustnost dovolání proti každému rozhodnutí odvolacího soudu (s výjimkami zakotvenými v odstavci druhém) s takovými hrubými vadami řízení a rozhodnutí, které činí rozhodnutí odvolacího soudu zmatečným. Dovolatel se žádné konkrétní vady dle uvedeného ustanovení nedovolává a dovolací soud existenci takové vady z obsahu spisu nezjistil. Daná věc náleží do pravomoci soudu, ten, kdo vystupoval v řízení jako účastník, měl způsobilost být účastníkem řízení i procesní způsobilost, v téže věci nebylo již dříve pravomocně rozhodnuto ani již zahájeno řízení, návrh na zahájení byl podán, účastníku řízení nebyla v průběhu řízení odňata možnost jednat před soudem a soud byl správně obsazen (§ 237 odst. 1 písm. a/ až g/ o.s.ř.).
+Na základě shora uvedených skutečností dovolací soud dovolání odmítl dle ustanovení § 243b odst. 4 s přihlédnutím k ustanovení § 218 odst. 1 písm. c/ o.s.ř., protože směřuje proti rozhodnutí, proti kterému není dovolání přípustné.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 8. listopadu 2000
+JUDr. František D u c h o ň , v. r.
+předseda senátu
+Za správnost vyhotovení: Marie Plhalová
