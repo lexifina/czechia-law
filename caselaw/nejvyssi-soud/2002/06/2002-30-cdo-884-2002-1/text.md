@@ -1,0 +1,20 @@
+30 Cdo 884/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce F. B., proti žalované A. M., o stanovení povinnosti uzavřít smlouvu, vedené u Okresního soudu ve Vsetíně pod sp. zn. 6 C 128/98, o dovolání žalobce proti usnesení Krajského soudu v Ostravě ze dne 29. června 2001, č. j. 10 Co 986/2000-182, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud ve Vsetíně rozsudkem ze dne 28. dubna 2000, č. j. 6 C 128/98-137, zamítl žalobu, aby žalovaná byla povinna uzavřít se žalobcem darovací a odkupní smlouvu podle dohody o převodu části pozemku z p. č. 1416/23, která je v příloze žaloby ze dne 13. října 1997 a podle zaměření v roce 1967, č. zakázky 210-920-67/67, byla označena jako p. č. 1416/40,41 (dnes pozemek podle výkazu dosavadního a nového stavu údajů Katastru nemovitostí a geometrického plánu č. 1226-FO/2000), odsouhlaseného dne 12. dubna 2000 Katastrálním úřadem ve V. ve zjednodušené evidenci PK p. č. 1416/56 pro katastrální území V. K., a to do jednoho měsíce od právní moci rozsudku. Rozhodl též o náhradě nákladů řízení.
+Proti uvedenému rozsudku podal odvolání žalobce. Krajský soud v Ostravě však poté v důsledku zpětvzetí tohoto odvolání žalobcem, usnesením ze 29. června 2001, č. j. 10 Co 986/2000-182, odvolací řízení podle ustanovení § 207 odst. 2 o. s. ř. zastavil a rozhodl o náhradě nákladů odvolacího řízení.
+Toto usnesení odvolacího soudu nabylo právní moci dne 22. srpna 2000.
+Uvedené rozhodnutí odvolacího soudu napadl žalobce dne 20. září 2001 dovoláním. Vyjádření k tomuto dovolání podáno nebylo.
+Okresní soud ve Vsetíně usnesením ze dne 22. února 2002, č. j. 6 C 128/98–201, žalobce poučil mimo jiné o tom, že dovolatel musí být v dovolacím řízení zastoupen advokátem, nemá-li právnické vzdělání. Dovolatele vyzval, aby ve lhůtě 15 dnů se nechal zastoupit advokátem, nemá-li sám právnické vzdělání. Poučil jej, že nebude-li této výzvě vyhověno, bude postupováno podle ustanovení § 104 odst. 2 o. s. ř. (tj. dovolací řízení bude zastaveno). Dovolatel byl současně soudem vyzván, aby v téže lhůtě odstranil vady tohoto dovolání. Uvedená výzva byla žalobci doručena dne 8. března 2002.
+S přihlédnutím k části dvanácté, hlavě první, bodu 17. zákona č. 30/2000 Sb., kterým byl novelizován mimo jiné též občanský soudní řád, Nejvyšší soud České republiky jako soud dovolací věc projednal a rozhodl podle znění o. s. ř. účinného do 31. prosince 2000.
+Podle ustanovení § 241 odst. 1 a 2 věta druhá o. s. ř. musí být dovolatel především zastoupen advokátem, jestliže nemá právnické vzdělání buď sám, nebo jeho zaměstnanec (člen), který za něj jedná, přičemž v takovém případě musí být dovolání sepsáno advokátem nebo zaměstnancem (členem) dovolatele s právnickým vzděláním, který za něj jedná.
+Uvedené ustanovení upravuje tzv. povinné zastoupení dovolatele v dovolacím řízení, jestliže dovolatel nemá právnické vzdělání, nebo u něhož tohoto vzdělání nedosáhl zaměstnanec (člen), který za něj jedná. Povinné zastoupení je zvláštní podmínkou dovolacího řízení týkající se dovolatele, jejíž nedostatek lze odstranit. V případě, že však výzvě soudu k odstranění tohoto nedostatku podle ustanovení § 241 odst. 4, § 210 odst. 2 a § 104 odst. 2 věta první o. s. ř. není vyhověno, dovolací soud dovolací řízení zastaví.
+Z obsahu spisu nevyplývá, že by dovolatel uvedené výzvě soudu vyhověl, a že by tak byl odstraněn nedostatek naplnění této podmínky dovolacího řízení, aniž by bylo zřejmé, že by sám dovolatel měl právnické vzdělání. Za tohoto stavu proto dovolací soud dovolací řízení podle ustanovení § 243c a § 104 odst. 2, věty třetí o. s. ř. zastavil.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 4 věta prvá o. s. ř., ve spojení s § 224 odst. 1, § 146 odst. 2 věta prvá a § 151 odst. 1 o. s. ř., když žalobce sice zavinil, že dovolací řízení muselo být zastaveno, avšak žalované v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 5. června 2002
+JUDr. Pavel Pavlík, v. r.
+předseda senátu
