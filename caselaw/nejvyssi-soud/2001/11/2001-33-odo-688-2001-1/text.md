@@ -1,0 +1,21 @@
+33 Odo 688/2001-80
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci žalobce M.C., proti žalované U., a. s., o zaplacení částky 48.320,-Kč s příslušenstvím, vedené u Městského soudu v Brně pod sp. zn. 44 C 262/95, o dovolání žalované proti rozsudku Krajského soudu v Brně ze dne 24. května 2001 č. j. 16 Co 750/97 - 71 takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Brně rozsudkem ze dne 17. června 1997 č. j. 44 C 262/95 - 45 zamítl žalobu na zaplacení 48.320,- Kč s příslušenstvím a rozhodl o náhradě nákladů řízení.
+K odvolání žalobce Krajský soud v Brně rozsudkem ze dne 24. května 2001 č. j. 16 Co 750/97 - 71 změnil rozsudek soudu prvního stupně tak, že uložil žalované zaplatit žalobci 48.320,- Kč s 16 % úrokem z prodlení od 1. 6. 1994 do zaplacení a rozhodl o náhradě nákladů řízení před soudy obou stupňů.
+Proti rozsudku odvolacího soudu podala žalovaná dovolání, v němž namítala, že odvolací soud věc nesprávně právně posoudil a nesprávně hodnotil důkazy. Z tohoto důvodu navrhla, aby dovolací soud zrušil rozsudek odvolacího soudu a věc mu vrátil k dalšímu řízení.
+Podle ustanovení části dvanácté hlavy I bodu 17. zákona č. 30/200 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, se dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona (1.1.2001) nebo vydaným po řízení provedeném podle dosavadních právních předpisů projednají a rozhodnou podle dosavadních předpisů (tedy podle občanského soudního řádu ve znění platném do 31.12.2000 - dále jen „o.s.ř.“). Tak je tomu i v daném případě, kdy byl rozsudek odvolacího soudu vydán po řízení provedeném podle dosavadních právních předpisů, tedy podle o.s.ř. ve znění platném do 31.12.2000.
+Podle části dvanácté hlavy I bodu 15. zákona č. 30/2000 Sb. se totiž odvolání proti rozhodnutím soudu prvního stupně vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů projednají a rozhodnou podle dosavadních právních předpisů. V posuzované věci byl rozsudek soudu prvního stupně vydán dne 17. června 1997.
+Skutečnost, že dovolání se projedná a rozhodne podle dosavadních právních předpisů mj. znamená, že se podle těchto předpisů posoudí i otázka včasnosti dovolání.
+Podle § 240 odst. 1 věty prvé o.s.ř. účastník může podat dovolání do jednoho měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni.
+Podle § 211 a § 159 odst. 1 o.s.ř. doručený rozsudek, který již nelze napadnout odvoláním, je v právní moci. Vzhledem k tomu, že rozsudek odvolacího soudu nelze napadnout odvoláním, nabývá právní moci dne, kdy byl doručen všem účastníkům řízení. V daném případě byl tento rozsudek doručen zástupci žalobce, JUDr. P.A., dne 4. července 2001 a zástupci žalované, JUDr. R.D. dne 3. července 2001. Právní moci tedy nabyl dne 4. července 2001.
+Lhůty určené podle týdnů, měsíců nebo let se končí uplynutím toho dne, který se svým označením shoduje se dnem, kdy došlo ke skutečnosti určující počátek lhůty, a není-li ho v měsíci, posledním dnem měsíce. Připadne-li konec lhůty na sobotu, neděli nebo svátek, je posledním dnem lhůty nejblíže následující pracovní den (§ 57 odst. 2 věta první a druhá o.s.ř.). Ve smyslu tohoto ustanovení tedy lhůta k podání dovolání skončila dnem 6. srpna 2001 (pondělí). Dovolání žalované proti rozsudku odvolacího soudu však bylo podáno osobně soudu prvního stupně dne 30. srpna 2001.
+Protože dovolání bylo podáno po marném uplynutí zákonem stanovené lhůty k podání dovolání, jejíž zmeškání nelze prominout (§ 240 odst. 2, věta první o.s.ř.), bylo v souladu s § 243b odst. 4, věty první a § 218 odst. 1 písm. a) o.s.ř. - aniž byl dovolací soud oprávněn se jím blíže zabývat - odmítnuto.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. o.s.ř. ve spojení s § 224 odst. 1, § 151 odst. 1a § 142 odst. 1 o.s.ř., když žalovaná nebyla v dovolacím řízení úspěšná a žalobci žádné náklady dovolacího řízení nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 22. listopadu 2001
+JUDr. Kateřina Hornochová,v. r.
+předsedkyně senátu
