@@ -1,0 +1,16 @@
+30 Cdo 1683/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Pavlíka a soudců JUDr. Karla Podolky a JUDr. Romana Fialy v právní věci žalobce Ing. J. Ch. proti žalovanému Okresnímu stavebnímu bytovému družstvu Č., o ochranu osobnosti, vedené u Krajského soudu v Ústí nad Labem - pobočka v Liberci pod sp. zn. 29 C 20/97, o dovolání žalobce proti usnesení Vrchního soudu v Praze ze dne 10. února 2003, č. j. 1 Co 2/2003-55, t a k t o:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Vrchní soud v Praze usnesením ze dne 10. února 2003, č. j. 1 Co 2/2003-55, potvrdil usnesení Krajského soudu v Ústí nad Labem - pobočka v Liberci ze dne 21. listopadu 2002, č. j. 29 C 20/97-47, kterým soud prvního stupně řízení ve věci zastavil, a kterým rozhodl o náhradě nákladů řízení. Soud druhého stupně též rozhodl o náhradě nákladů odvolacího řízení. Toto usnesení odvolacího soudu nabylo právní moci dne 17. března 2003, když dovolateli bylo doručeno téhož dne.
+Uvedené usnesení odvolacího soudu napadl žalobce podáním datovaným dne 22. března 2003 a podaným u soudu dne 24. března 2003.
+Soud prvního stupně následně usnesením ze dne 19. června 2003, č. j. 29 C 20/97-63, které bylo žalobci doručeno dne 30. června 2003, žalobce poučil, že podle ustanovení § 241 odst. 1 občanského soudního řádu (dále jen \"o. s. ř.\") musí být dovolatel zastoupen advokátem nebo notářem, nemá-li sám právnické vzdělání, přičemž k odstranění tohoto nedostatku stanovil lhůtu patnácti dnů. Současně byl též poučen o procesních následcích, pokud této výzvě nebude vyhověno. Z obsahu spisu však nevyplývá, že by se dovolatel skutečně nechal v daném řízení zastoupit advokátem.
+Podle ustanovení § 241 odst. 1 o. s. ř. musí být dovolatel zastoupen advokátem nebo notářem, jestliže sám nemá právnické vzdělání. Takto je stanoveno tzv. povinné zastoupení dovolatele v dovolacím řízení, které je chápáno jako zvláštní podmínka dovolacího řízení týkající se dovolatele, jejíž nedostatek lze sice odstranit, bez jejíhož splnění však nelze vydat rozhodnutí ve věci samé. Nedostatek v zastoupení dovolatele musí být proto řešen postupem podle ustanovení § 241b odst. 2 ve spojení s § 104 odst. 2 o. s. ř.
+O takový případ jde v posuzované věci, neboť - jak vyplývá z obsahu spisu - dovolatel, ač nebylo doloženo, že by sám měl právnické vzdělání, resp., že za něj jedná podle zákona kvalifikovaná osoba, nedoložil soudu ve stanovené lhůtě (ač o tom byl soudem poučen), že v jeho případě byla splněna podmínka povinného zastoupení dovolatele v dovolacím řízení. Protože tak nebyla splněna tato zvláštní podmínka dovolacího řízení, dovolacímu soudu nezbylo, než podle již zmíněných ustanovení o. s. ř. dovolací řízení zastavit.
+Výrok o náhradě nákladů řízení je odůvodněn ustanovením § 243b odst. 5 ve spojení s § 224 odst. 1, § 146 odst. 2 věta první a § 151 o. s. ř. za situace, kdy dovolatel sice procesně zavinil, že dovolací řízení muselo být zastaveno, avšak žalovanému v tomto řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. září 2003
+JUDr. Pavel Pavlík, v. r.
+předseda senátu
