@@ -1,0 +1,25 @@
+20 Cdo 2429/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci žalobkyně K. k. p. n. S., proti žalované obci H., o určení vlastnictví k nemovitostem, vedené u Okresního soudu Praha-západ pod sp. zn. 7 C 1543/94, o dovolání žalované proti usnesení Krajského soudu v Praze ze dne 25.6.2002, č.j. 24 Co 284/2001-119, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Odvolací soud potvrdil rozsudek, jímž soud prvního stupně určil, že žalobkyně je vlastníkem označených nemovitostí.
+Žalovaná (zastoupena advokátem) podala proti rozsudku odvolacího soudu dovolání (jež má za přípustné ve smyslu „§ 237 odst. 1 písm. c/, odst. 3 o.s.ř.“), z jehož obsahu se podává, že namítá, že napadené rozhodnutí spočívá na nesprávném právním posouzení věci.
+Dovolání bylo podáno opožděně.
+Podle části dvanácté, hlavy první, bodu 17. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (to jest podle občanského soudního řádu ve znění účinném do 1.1.2001 - dále jen „o.s.ř.“).
+Podle bodu 15. téhož ustanovení odvolání proti rozhodnutím soudu prvního stupně vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedením podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů.
+Podle dosavadních předpisů tudíž právem rozhodoval (byť až 25.6.2002) odvolací soud o odvolání proti rozhodnutí soudu prvního stupně, jestliže bylo vydáno 7.11.2000, a v důsledku toho i o dovolání platí, že se projedná a rozhodne podle občanského soudního řádu ve znění účinném do 1.1.2001 (směřuje totiž proti rozhodnutí, jež bylo „vydáno po řízení provedeném podle dosavadních předpisů”, jak výslovně odvolací soud v odůvodnění svého rozsudku uvedl).
+Projednání a rozhodnutí dovolání podle dosavadních právních předpisů ve smyslu citovaného bodu 17. části dvanácté, hlavy první, zákona č. 30/2000 Sb. zahrnuje nejen (kupříkladu) posuzování podmínek řízení, přípustnosti dovolání, náležitostí písemného vyhotovení rozhodnutí, nýbrž i posouzení, zda dovolání bylo podáno včas, včetně určení počátku lhůty k jeho podání (shodný názor vyjádřil Nejvyšší soud v usnesení ze dne 19.4.2001, sp. zn. 29 Odo 196/2001, uveřejněném pod č. 70/2001 Sbírky soudní rozhodnutí a stanovisek, jakož i v mnoha rozhodnutích dalších).
+Podle § 240 odst. 1 o.s.ř. účastník může podat dovolání do jednoho měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Zmeškání lhůty k podání dovolání nelze prominout, lhůta je však zachována, bude-li dovolání podáno ve lhůtě u odvolacího nebo dovolacího soudu (§ 240 odst. 2 o.s.ř.).
+Dovolání tudíž mohlo být podáno pouze ve lhůtě (jednoho měsíce od právní moci rozhodnutí) stanovené v § 240 odst. 1 o.s.ř., a naopak se neuplatní lhůta dvou měsíců (od doručení) stanovená v § 240 odst. 1 o.s.ř., ve znění účinném od 1.1.2001, jak se zřejmě (nesprávně) domnívala dovolatelka.
+Ze spisu se podává, že rozsudek odvolacího soudu byl žalobkyni doručen dne 17.9.2002, žalované pak 18.9.2002, a téhož dne nabyl i právní moci.
+Posledním dnem jednoměsíční lhůty k podání dovolání (ve smyslu ustanovení § 57 odst. 2 o.s.ř.) byl pátek 18.10.2002. Dovolání podané u soudu prvního stupně až 12.11.2002 je tedy zjevně opožděné.
+Nejvyšší soud proto nemohl než dovolání žalované podle § 243b odst. 4 a § 218 odst. 1 písm. a/ o.s.ř. odmítnout.
+Důsledky toho, že dovolatelka vycházela z nesprávného určení rozhodného procesního předpisu, nemohou být oslabeny ani případným poukazem na poučení o dovolání, jež se jí dostalo rozhodnutím odvolacího soudu. Odvolací soud nejenže nebyl o dovolání povinen poučit (srov. odůvodnění nálezu Ústavního soudu ČR ze dne 31. 5. 1994, sp. zn. III. ÚS 65/93, uveřejněný ve Sbírce nálezů a usnesení Ústavního soudu ČR, svazku 1, pod číslem 27), nýbrž přistoupil-li již nad to k němu, učinil tak věcně správně, jestliže uvedl, že dovolání není přípustné (pročež logicky odpadá poučení o lhůtě k dovolání).
+Opačné „přesvědčení“ dovolatelky vychází opět z nesprávné představy, že se dovolací řízení spravuje zákonem č. 99/1963 Sb., občanským soudním řádem, ve znění zákona č. 30/2000 Sb. Podle občanského soudního řádu ve znění do 1.1.2001 dovolání vskutku přípustné není (srov. § 237, § 238 a § 239 o.s.ř.); kdyby nebylo opožděné, muselo by být - jako nepřípustné - odmítnuto rovněž (§ 243b odst. 4 o.s.ř.).
+O nákladech dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 4, § 224 odst. 1 a § 146 odst. 2, věty první, (per analogiam) o.s.ř.; úspěšné žalobkyni, jež by měla na jejich náhradu nárok, však v tomto stadiu řízení žádné prokazatelné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 29. ledna 2004
+JUDr. Vladimír Kurka, v.r.
+předseda senátu
