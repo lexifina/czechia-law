@@ -1,0 +1,19 @@
+7 Tdo 607/2003
+U S N E S E N Í
+Nejvyšší soud rozhodl v neveřejném zasedání dne 29. 5. 2003 o dovolání obviněného A. K., proti usnesení Krajského soudu v Praze ze dne 4. 6. 2001, sp. zn. 9 To 135/2001, v trestní věci vedené u Okresního soudu v Benešově pod sp. zn. 3 T 411/99 t a k t o :
+Podle § 265i odst. 1 písm. a) tr. ř. se dovolání obviněného A. K. o d m í t á .
+O d ů v o d n ě n í :
+Obviněný A. K. podal dne 14. 3. 2002 prostřednictvím svého obhájce dovolání proti usnesení Krajského soudu v Praze ze dne 4. 6. 2001, sp. zn. 9 To 135/2001, jímž bylo podle § 256 tr. ř. zamítnuto jeho odvolání proti rozsudku Okresního soudu v Benešově ze dne 6. 2. 2001, sp. zn. 3 T 411/99. Tímto rozsudkem byl uznán vinným trestným činem přijímání úplatku podle § 160 odst. 2, 3 tr. zák. a odsouzen podle § 160 odst. 3 tr. zák. k trestu odnětí svobody na tři léta a šest měsíců, pro jehož výkon byl podle §39a odst. 3 tr. zák. zařazen do věznice s dozorem.
+Obviněný podal dovolání v rozsahu odpovídajícím výroku o vině i výroku o trestu a odkázal v něm na dovolací důvod uvedený v § 265b odst. 1 písm. g) tr. ř. Domáhal se zrušení rozhodnutí obou soudů a nového projednání věci.
+Nejvyšší soud shledal, že dovolání není přípustné.
+Dovolání je mimořádný opravný prostředek, který byl do trestního řádu nově zaveden zákonem č. 265/2001 Sb., který nabyl účinnosti dnem 1. 1. 2002. Časová působnost trestního řádu jakožto trestně procesního předpisu (včetně jeho novel) se řídí zásadou, že procesní úkony se v průběhu trestního řízení provádějí podle zákona účinného v době, kdy je úkon prováděn. Z uvedené zásady mohou být stanoveny výjimky ve prospěch aplikace dřívějšího trestního řádu, je-li zapotřebí v rámci zajištění kontinuity probíhajícího řízení upřednostnit dřívější procesní předpis před pozdějším. Takové výjimky pak trestní řád a jeho novely upravují ve svých přechodných a závěrečných ustanoveních.
+Jestliže trestní stíhání probíhalo a pravomocně skončilo před účinností zákona č. 265/2001 Sb., tj. před 1. 1. 2002, nemohly být v této době v trestním řízení uplatněny jiné mimořádné opravné prostředky než stížnost pro porušení zákona (§ 266 a násl. tr. ř.) nebo obnova řízení (§ 277 a násl. tr. ř.). Ze závěrečných a přechodných ustanovení čl. II. zákona č. 265/2001 Sb. přitom vyplývá, že zákon neobsahuje žádnou výjimku, podle níž by bylo možno dovolání jako nově zavedený mimořádný opravný prostředek podat i proti těm rozhodnutím, jež mají povahu rozhodnutí uvedených v § 265a odst. 1, 2 tr. ř., nabyla-li právní moci za účinnosti dřívějšího trestního řádu (tj. do 1. 1. 2002).
+Podle § 265a odst. 1 tr. ř. lze dovoláním napadnout pravomocné rozhodnutí soudu ve věci samé, jestliže soud rozhodl ve druhém stupni a zákon to připouští. Té části citovaného ustanovení, podle níž je možno dovolání podat jen v případě, kdy to „zákon připouští“, je nutno rozumět tak, že dovolání je přípustné proti rozhodnutím soudu druhého stupně, která nabyla právní moci za účinnosti právní úpravy dovolání, tedy od 1. 1. 2002. Dovolání proti rozhodnutím z doby před tímto datem jsou nepřípustná (k tomu viz nález Ústavního soudu ze dne 18. 6. 2002, sp. zn. III. ÚS 298/2002, a rozhodnutí publikované pod č. 31/2002 Sb. rozh. tr.).
+V posuzovaném případě bylo napadené usnesení vyhlášeno a nabylo právní moci dne 4. 6. 2001, a proto proti němu není možné podat dovolání jako mimořádný opravný prostředek zavedený s účinností od 1. 1. 2002.
+Protože dovolání obviněného není přípustné, Nejvyšší soud je podle § 265i odst. 1 písm. a) tr. ř. odmítl, aniž by na jeho podkladě podle § 265i odst. 3 tr. ř. přezkoumal napadené usnesení a řízení, jež mu předcházelo.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 29. května 2003
+Předseda senátu:
+JUDr. Petr Hrachovec
+Vypracovala:
+JUDr. Věra Kůrková
