@@ -1,0 +1,17 @@
+20 Cdo 39/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudců JUDr. Vladimíra Mikuška a JUDr. Vladimíra Kurky ve věci výkonu rozhodnutí oprávněné zdravotní pojišťovny České republiky – Okresní pojišťovny v J., proti povinnému Ing. P. V., zastoupenému opatrovníkem obcí S., pro 8.291,- Kč srážkami z důchodu, vedené u Okresního soudu v Jihlavě pod sp. zn. E 1460/2001, o dovolání povinného proti usnesení Krajského soudu v Brně ze dne 29. 1. 2002, č.j. 16 Co 441/2001-17, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Povinný napadl dovoláním v záhlaví označené rozhodnutí, jímž krajský soud potvrdil usnesení ze dne 11. 6. 2001, č.j. E 1460/2001-6, kterým Okresní soud v Jihlavě nařídil podle platebních výměrů oprávněné ze dne 25. 9. 1998, č.j. 2140509569 a 4440509579, výkon rozhodnutí k uspokojení pohledávky ve výši 8.291,- Kč srážkami z důchodu, na který má povinný nárok vůči České správě sociálního zabezpečení, se sídlem v Praze 5, Křížová 25.
+Podle ustanovení § 241 odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů (dále jen „o.s.ř.“), musí být dovolatel zastoupen advokátem nebo notářem; to neplatí, má-li dovolatel právnické vzdělání, popřípadě jedná-li za něj osoba uvedená v § 21 nebo v § 21a anebo v § 21b, která má právnické vzdělání. Notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními předpisy. Podle ustanovení § 241 odst. 2 o.s.ř., nemá-li dovolatel právnické vzdělání, musí být dovolání sepsáno advokátem, notářem nebo osobou uvedenou v § 21 nebo v § 21a anebo v § 21b, která má právnické vzdělání.
+Při podání dovolání nebyl povinný zákonem stanoveným způsobem zastoupen (a z obsahu jeho podání ani nevyplývalo, že by měl právnické vzdělání).
+Usnesením ze dne 27. 5. 2002, č.j. E 1460/2001-25, soud prvního stupně proto vyzval povinného, resp. opatrovníka, který mu byl jako osobě rozsudkem Okresního soudu v Prachaticích ze dne 26. 4. 2002, sp. zn. 5 Nc 451/2001, zbavené způsobilosti k právním úkonům ustanoven usnesením téhož soudu ze dne 31. 5. 2002, sp. zn. P 86/2002, aby do dvou měsíců od doručení výzvy nedostatek zastoupení odstranil (tím, že předloží osvědčení o udělení plné moci k zastupování v dovolacím řízení); současně ho poučil, že dovolací řízení bude zastaveno, nevyhoví-li výzvě.
+Na výzvu, která byla obci S. doručena dne 30. 9. 2002, opatrovník nereagoval.
+Jelikož povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – vyjma usnesení, jímž se dovolací řízení právě pro jeho neodstranění zastavuje – vydání rozhodnutí, kterým se řízení končí (§ 241 o.s.ř.), a protože ke zhojení uvedeného nedostatku přes opatření soudu nedošlo, Nejvyšší soud dovolací řízení zastavil (§ 104 odst. 2, § 243c odst. 1 o.s.ř.).
+Dovolatel z procesního hlediska zavinil, že dovolací řízení bylo zastaveno, oprávněné však v tomto stadiu řízení (podle obsahu spisu) žádné náklady nevznikly; tomu odpovídá ve smyslu ustanovení § 146 odst. 2, věty první, § 224 odst. 1 a § 243b odst. 5, věty první, o.s.ř. výrok, že na náhradu nákladů dovolacího řízení nemá právo žádný z účastníků.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 28. dubna 2003
+JUDr. Pavel Krbek, v. r.
+předseda senátu
