@@ -1,0 +1,21 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+32 Od 32/2003-134
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Františka Faldyny, CSc. a soudců JUDr. Miroslava Galluse a JUDr. Petra Gemmela v konkursní věci navrhovatele M. H., zast. JUDr. T. P., advokátem, proti dlužníku P. B., zast. JUDr. M. M., advokátem, vedené u Krajského soudu v Plzni pod sp. zn. 26 K 41/2002, o námitce podjatosti soudců Vrchního soudu v Praze, takto:
+Soudci Vrchního soudu v Praze JUDr. I. K., JUDr. M. T., JUDr. P. F. a JUDr. M. G., nejsou vyloučeni z projednávání a rozhodování věci vedené u Krajského soudu v Plzni pod sp. zn. 26 K 41/2002.
+O d ů v o d n ě n í :
+Ve shora uvedené věci vznesl dlužník námitku podjatosti vůči soudcům Vrchního soudu v Praze jako soudu odvolacího, rozhodujícího o odvolání v této konkursní věci.
+Dlužník v podání ze dne 28. 3. 2003 uvedl, že má obavy, aby shora uvedená věc byla řádně projednána a prošetřena, jelikož je schopen doložit spojení mezi právním zástupcem p. H., který podal návrh na konkurs a soudcem KS Plzeň, a proto i v řízení na Vrchním soudě Praha podává námitku podjatosti soudce. Dne 31. 3. 2003 dlužník upřesnil, že námitka se týká soudce Vrchního soudu sp. zn. 2 Ko 199/2002.
+Na výzvu, aby sdělil, kterých konkrétních soudců se námitka týká a v čem spatřuje jejich podjatost, dlužník nereagoval.
+Věc byla v souladu s rozvrhem práce Vrchního soudu v Praze přidělena senátu 2 K ve složení předsedů JUDr. I. K. a JUDr. M. T. a soudců JUDr. P. F. a JUDr. M. G.
+Nejvyšší soud České republiky jako nadřízený soud (§ 16 odst. 1 o.s.ř.) dospěl k závěru, že námitka podjatosti není důvodná.
+Podle § 14 odst. 1 o. s. ř. jsou soudci vyloučeni z projednávání a rozhodnutí věci, jestliže se zřetelem na jejich poměr k věci, k účastníkům nebo k jejich zástupcům je tu důvod pochybovat o jejich nepodjatosti. Podle § 14 odst. 4 o. s. ř. důvodem k vyloučení soudce nejsou okolnosti, které spočívají v postupu soudce v řízení o projednávané věci nebo v jeho rozhodování v jiných věcech. O tom, zda je soudce (přísedící) vyloučen, rozhodne nadřízený soud (§ 16 odst. 1 věta první o. s. ř.). Tímto soudem je v posuzovaném případě Nejvyšší soud.
+Poměr k věci může vyplývat především z přímého právního zájmu soudce na projednávané věci. Tak je tomu v případě, kdy soudce sám by byl účastníkem řízení, ať na straně žalobce či na straně žalovaného, nebo v případě, že by mohl být rozhodnutím soudu přímo dotčen ve svých právech (např. kdyby jinak mohl být vedlejším účastníkem). Vyloučen je také soudce, který získal o věci poznatky jiným způsobem, než z dokazování při jednání (např. jako svědek vnímal skutečnosti, které jsou předmětem dokazování). Soudcův poměr k účastníkům nebo k jejich zástupcům pak může být založen především příbuzenským nebo jemu obdobným vztahem (srov. § 116 obč. zák.), jemuž na roveň může v konkrétním případě stát vztah přátelský či naopak nepřátelský.
+O žádný z případů uvedeného charakteru však v souzené věci nejde.
+Jak vyplývá z vyjádření soudců Vrchního soudu v Praze, tj. příslušného senátu 2 K - JUDr. I. K., JUDr. M. T., JUDr. P. F. a JUDr. M. G., nikdo z nich nemá žádný poměr k věci, účastníky řízení nezná, nemá k nim ani k jejich zástupcům žádný vztah. Dlužník přitom neuvádí žádné konkrétní skutečnosti (srov. § 15a odst. 3 o. s. ř.), které by svědčily o tom, že by zde byl dán důvod k pochybnostem o nepodjatosti jmenovaných soudců. Jeho obecný (ničím nedoložený) poukaz na spojení mezi soudci rozhodující předmětnou konkursní věc sama o sobě o podjatosti těchto soudců nic nevypovídá. Za tohoto stavu nelze učinit závěr, že by zde byly skutečnosti, jež by nasvědčovaly tomu, že by jmenovaní soudci byly nějakým způsobem ovlivněni vztahem k projednávané věci, případně k účastníkům řízení (jejich zástupcům).
+Vzhledem k uvedenému Nejvyšší soud rozhodl podle § 16 odst. 1 o. s. ř. tak, že soudci Vrchního soudu v Praze JUDr. I. K., JUDr. M. T., JUDr. P. F. a JUDr. M. G. nejsou vyloučeni z projednávání a rozhodování odvolání ve věci vedené u Krajského soudu v Plzni pod sp. zn. 26 K 41/2002.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 4. června 2003
+JUDr. František Faldyna, CSc., v.r.
+předseda senátu
