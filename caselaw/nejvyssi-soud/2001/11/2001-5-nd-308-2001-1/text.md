@@ -1,0 +1,16 @@
+5 Nd 308/2001
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Jindřicha Urbánka a soudců JUDr. Jiřího Horáka a JUDr. Františka Púryho ve věci žalobce F. N., zastoupeného Ing. V. V., proti žalované D. N., zastoupené Ing. D. S., úpravu poměrů nezletilých dětí F. N., a D. N., pro dobu po rozvodu, o určení místní příslušnosti podle § 11 odst. 3 o. s. ř. t a k t o :
+Určuje se, že věc projedná a rozhodne Obvodní soud pro Prahu 5.
+O d ů v o d n ě n í :
+Žalobce F. N. podal dne 6. 11. 2001 u Nejvyššího soudu České republiky návrh na určení místní příslušnosti podle § 11 odst. 3 o. s. ř. v řízení o úpravě poměrů nezletilých dětí pro dobu po rozvodu. Návrh odůvodnil tím, že je dána pravomoc českých soudů, neboť obě děti jsou občany České republiky, která není vázána mezinárodní smlouvou se Spolkovou republikou Německo, a podmínky místní příslušnosti chybějí. Současně předložil návrh na úpravu poměrů k nezletilým dětem pro dobu po rozvodu, rodné listy obou nezletilých dětí a jejich osvědčení o státním občanství České republiky.
+Z návrhu vyplývá, že nezletilé děti F. N., a D. N., jsou občany České republiky, což vyplývá z kopií rodných listů obou dětí a z osvědčení o státním občanství České republiky.
+Podle § 88 písm. a) o. s. ř. namísto obecného soudu, popřípadě namísto soudu uvedeného v § 85a, je k řízení příslušný soud, v jehož obvodu má nezletilý na základě dohody rodičů nebo rozhodnutí soudu, popřípadě jiných rozhodujících skutečností své bydliště, jde-li o věc péče o nezletilé, o určení, zda je třeba souhlasu rodičů dítěte k jeho osvojení, o osvojení nebo povolení uzavřít manželství nezletilému.
+Podle § 24 odst. 1 věta prvá zák. č. 97/1963 Sb., o mezinárodním právu soukromém a procesním, ve znění pozdějších předpisů, vztahy mezi rodiči a dětmi, včetně výchovy a výživy, řídí se právem státu, jehož příslušníkem je dítě. Podle § 39 odst. 1 věta prvá cit. zákona ve věcech výchovy a výživy nezletilých a v jiných věcech jich se týkajících, jsou-li českými občany, je dána pravomoc českých soudů i tehdy, žijí-li v cizině.
+Podle § 25 zák. č. 94/1963 Sb., o rodině, ve znění pozdějších předpisů, manželství nelze rozvést, dokud nenabude právní moci rozhodnutí o úpravě poměrů nezletilých dětí pro dobu po rozvodu, které vydá soud v řízení podle § 176 občanského soudního řádu.
+Podle § 11 odst. 3 o. s. ř. platí, že jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nevyšší soud, který soud věc projedná a rozhodne.
+Nejvyšší soud České republiky zjistil, že je dána pravomoc českých soudů, když obě nezletilé děti jsou občany České republiky. Protože bydlí ve Spolkové republice Německo, chybějí podmínky místní příslušnosti. Nejvyšší soud České republiky proto rozhodl podle § 11 odst. 3 o. s. ř. tak, že příslušným soudem ve věci péče o nezletilé – o úpravě poměrů nezletilých dětí pro dobu po rozvodu – je Obvodní soud pro Prahu 5, když v obvodu tohoto soudu se nezletilé děti údajně zdržují při pobytu v České republice.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 22. listopadu 2001
+Předseda senátu:
+JUDr. Jindřich Urbánek
