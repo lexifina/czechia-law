@@ -1,0 +1,19 @@
+25 Cdo 1700/2000
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce V. H. proti žalované obci V., o 1.920.000,- Kč s příslušenstvím, vedené u Okresního soudu v Kladně pod sp. zn. 7 C 314/95, o dovolání žalobce proti rozsudku Krajského soudu v Praze ze dne 4. listopadu 1999 č. j. 24 Co 482/99-137, takto:
+I. Dovolání žalobce se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Kladně rozsudkem ze dne 21. 4. 1999 č. j. 7 C 314/95-87 zamítl žalobu, jíž se žalobce domáhal, aby mu žalovaná na náhradě za znehodnocení rybníka na pozemku č. 484 v k. ú. V. zaplatila částku 950.000,- Kč za naplnění rybníka kontaminovanými kaly a částku 700.000,- Kč za odcizení zdroje vody; řízení ohledně nároku na náhradu škody ve výši 270.000,- Kč za zničení přístupové cesty k nemovitosti a tím znehodnocení mlýna s veškerým příslušenstvím a pozemky soud zastavil a rozhodl o náhradě nákladů řízení.
+K odvolání žalobce Krajský soud v Praze rozsudkem ze dne 4. 11. 1999 č. j. 24 Co 482/99-137 rozsudek soudu prvního stupně ve výroku, kterým byla žaloba zamítnuta, a ve výroku o nákladech řízení potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Proti tomuto rozsudku podal žalobce dovolání, v němž namítá „předpojaté jednání\" soudkyně soudu prvního stupně, která nepřihlédla k jeho oprávněným a prokazatelným argumentům, a žalobu zamítla poté, co přistoupila na lživou argumentaci žalovaného. Dovolatel podrobně popisuje skutkové okolnosti uplatněného nároku a dovozuje, že okresní i krajský soud nesprávně zhodnotily provedené důkazy; navrhuje proto, aby dovolací soud obě rozhodnutí přezkoumal a rozhodl o povinnosti žalovaného k náhradě škody.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) po přezkoumání věci dospěl k závěru, že dovolání bylo podáno opožděně.
+Podle ustanovení § 240 odst. 1 věty první o.s.ř. účastník může podat dovolání do jednoho měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Podle ustanovení § 240 odst. 2 věty druhé o.s.ř. je lhůta zachována, bude-li dovolání podáno ve lhůtě u odvolacího nebo dovolacího soudu.
+Podle § 57 odst. 1 o.s.ř. do běhu lhůty se nezapočítává den, kdy došlo ke skutečnosti určující počátek lhůty; to neplatí, jde-li o lhůtu určenou podle hodin. Podle § 57 odst. 2 věty první a druhé o.s.ř. lhůty určené podle týdnů, měsíců nebo let se končí uplynutím toho dne, který se svým označením shoduje se dnem, kdy došlo ke skutečnosti určující počátek lhůty, a není-li ho v měsíci, posledním dnem měsíce. Připadne-li konec lhůty na sobotu, neděli nebo svátek, je posledním dnem lhůty nejblíže následující pracovní den.
+V posuzovaném případě soud prvního stupně doručil stejnopisy rozsudku odvolacího soudu žalobci a zástupci žalované dne 1. 2. 2000. Tímto dnem také napadený rozsudek nabyl právní moci a dovolání proti němu bylo možno podat ve lhůtě jednoho měsíce, to znamená nejpozději ve středu dne 1. 3. 2000. Dovolatel však dovolání sepsané dne 5. 3. 2000 podal k poštovní přepravě až dne 6. 3. 2000, tedy již po uplynutí zákonem stanovené lhůty, jejíž zmeškání nelze prominout (§ 240 odst. 2 věta prvá o.s.ř.), a proto bylo podle ustanovení § 243b odst. 4 věty první a § 218 odst. 1 písm. a/ o.s.ř. jeho dovolání odmítnuto jako opožděné, aniž se dovolací soud mohl zabývat náležitostmi dovolání a jeho přípustností.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 4 věty první, § 224 odst. 1, § 151 odst. 1 věty první a § 142 odst. 1 o.s.ř., neboť žalobce s ohledem na výsledek řízení na náhradu svých nákladů nemá právo a žalované v dovolacím řízení náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 19. září 2000
+JUDr. Marta Š k á r o v á , v. r.
+předsedkyně senátu
+Za správnost vyhotovení: Dana Rozmahelová
