@@ -1,0 +1,16 @@
+21 Cdo 1159/2001
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce S., a.s., proti žalované M. M., o určení neplatnosti okamžitého zrušení pracovního poměru, vedené u Okresního soudu Praha – západ pod sp. zn. 6 C 1409/97, o dovolání žalobce proti rozsudku Krajského soudu v Praze ze dne 20. prosince 2000, č.j. 26 Co 736/99 - 77, takto :
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalobce se domáhal, aby bylo určeno, že okamžité zrušení pracovního poměru učiněné žalovanou dne 10.4.1997 je neplatné. Žalobu zdůvodnil zejména tím, že žalovaná pracovní poměr okamžitě zrušila až po uplynutí prekluzívní lhůty uvedené v ustanovení § 54 odst. 2 zák. práce, když jednoměsíční lhůta, v níž žalovaná měla možnost okamžitě zrušit pracovní poměr, uplynula v případě nevyplacení 14. platu dnem 25.1.1997 a v případě nevyplacené odměny dnem 25.2.1997.
+Okresní soud Praha-západ rozsudkem ze dne 28.9.1999, č.j. 6 C 1409/97-50, žalobu zamítl a rozhodl, že žalobkyně je povinna zaplatit žalované na náhradě nákladů řízení 5.875,- Kč „na účet právního zástupce žalované“. Dospěl k závěru, že posuzované okamžité zrušení pracovního poměru je platným právním úkonem, neboť splňuje náležitosti uvedené v ustanovení § 55 zák. práce, že byl naplněn i jeho důvod ve smyslu ustanovení § 54 odst. 1 písm. b) zák. práce, neboť žalobce žalované nevyplatil odměnu podle kolektivní smlouvy a smlouvy o platu splatnou dne 10.1.1997 a 14. plat splatný dne 10.12.1996, ačkoli uplynulo 15 dní od jejich splatnosti, a že žalovaná okamžitě zrušila pracovní poměr ke dni 11.4.1997 ve lhůtě uvedené v ustanovení § 54 odst. 2 zák. práce.
+K odvolání žalobce Krajský soud v Praze rozsudkem ze dne 20.12.2000, č.j. 26 Co 736/99-77, rozsudek soudu prvního stupně potvrdil a rozhodl, že žalobce je povinen nahradit žalované náklady odvolacího řízení 3.225,- Kč k rukám jejího zástupce. Odvolací soud se ve věci samé ztotožnil se skutkovými i právními závěry soudu prvního stupně. O návrhu žalobce na vyslovení přípustnosti dovolání odvolací soud ve výroku rozsudku nerozhodl a v odůvodnění rozsudku uvedl, že dovolání nepřipustil, protože se nejedná o rozhodnutí po právní stránce zásadního významu.
+Proti tomuto rozsudku odvolacího soudu podal žalobce dovolání, které podáním ze dne 23.5.2001 (doručeným soudu prvního stupně dne 31.5.2001) vzal zpět.
+Protože dovolání bylo vzato zcela zpět, Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) dovolací řízení podle ustanovení § 243b odst. 4 věty druhé o.s.ř. (ve znění účinném do 31.12.2000 - srov. bod 17. Části dvanácté, Hlavy I zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) dovolací řízení zastavil.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 4 věty první, § 224 odst. 1 a § 151 odst. 1 o.s.ř. (ve znění účinném do 31.12.2000), neboť žalobce s ohledem na výsledek řízení nemá na náhradu svých nákladů právo a žalované v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 12. dubna 2002
+JUDr. Mojmír Putna
+předseda senátu
