@@ -1,0 +1,16 @@
+6 Tdo 503/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v neveřejném zasedání konaném dne 27. května 2004 v řízení o dovolání obviněného J. R., t. č. ve výkonu trestu odnětí svobody ve Věznici P., které podal proti usnesení Krajského soudu v Ostravě ze dne 29. 1. 2004, sp. zn. 5 To 924/2003, jako soudu odvolacího v trestní věci vedené u Okresního soudu v Karviné pod sp. zn. 9 T 121/2003, t a k t o :
+Podle § 265l odst. 4 tr. ř. se obviněný J. R. nebere do vazby.
+O d ů v o d n ě n í :
+Obviněný J. R. byl rozsudkem Okresního soudu v Karviné ze dne 11. 9. 2003, sp. zn. 9 T 121/2003, uznán vinným trestným činem krádeže podle § 247 odst. 1 písm. e) tr. zák. a byl odsouzen podle § 221 odst. 2 tr. zák. za použití § 35 odst. 2 tr. zák. k souhrnnému trestu odnětí svobody v trvání tří let. Podle § 39a odst. 2 písm. c) tr. zák. byl pro výkon trestu zařazen do věznice s ostrahou. Současně byl zrušen výrok o trestu z rozsudku Okresního soudu v Karviné ze dne 19. 2. 2003, sp. zn. 10 T 106/2002, ve spojení s usnesením Krajského soudu v Ostravě ze dne 25. 7. 2003, sp. zn. 5 To 407/2003, jakož i všechna další rozhodnutí na tento výrok obsahově navazující, pokud vzhledem ke změně, k níž došlo zrušením, pozbyla podkladu. Proti tomuto rozsudku podal obviněný odvolání, které bylo usnesením Krajského soudu v Ostravě ze dne 29. 1. 2004, sp. zn. 5 To 924/2003, podle § 256 tr. ř. jako nedůvodné zamítnuto.
+O následném dovolání obviněného rozhodl Nejvyšší soud usnesením ze dne 27. 5. 2004, sp. zn. 6 Tdo 503/2004, přičemž podle § 265k odst. 1, 2 tr. ř. zrušil v celém rozsahu usnesení Krajského soudu v Ostravě ze dne 29. 1. 2004, sp. zn. 5 To 924/2003, a rozsudek Okresního soudu v Karviné ze dne 11. 9. 2003, sp. zn. 9 T 121/2003. Současně podle § 265k odst. 2 tr. ř. zrušil všechna další rozhodnutí na zrušená rozhodnutí obsahově navazující, pokud vzhledem ke změně, k níž došlo zrušením, pozbyla podkladu. Podle § 265l odst. 1 tr. ř. Okresnímu soudu v Karviné přikázal, aby věc v potřebném rozsahu znovu projednal a rozhodl.
+Protože usnesením Nejvyššího soudu byl zrušen i výrok o trestu odnětí svobody v trvání tří roků, který obviněný J. R. v době rozhodování o dovolání vykonával, bylo nutno v rámci dovolacího řízení současně rozhodnout ve smyslu ustanovení § 265l odst. 4 tr. ř. o vazbě.
+I když Nejvyšší soud zrušil celý výrok o trestu a u obviněného J. R. vzhledem k jeho vícenásobné speciální recidivě přicházelo v úvahu jeho vzetí do vazby z důvodu § 67 písm. c) tr. ř., tak tímto způsobem nerozhodl. Obviněný bude pokračovat ve výkonu původně uloženého trestu odnětí svobody z rozsudku Okresního soudu v Karviné ze dne 19. 2. 2003, sp. zn. 10 T 106/2002, ve spojení s usnesením Krajského soudu v Ostravě ze dne 25. 7. 2003, sp. zn. 5 To 407/2003, v trvání dvou let a šesti měsíců se zařazením k jeho výkonu podle § 39a odst. 2 písm. c) tr. zák. do věznice s ostrahou. Proto na jeho osobu nebyla vazba uvalena.
+Z popsaných důvodů Nejvyšší soud rozhodl, že se obviněný J. R. nebere do vazby, neboť výkon výše uvedeného trestu splní její účel.
+P o u č e n í : Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 27. května 2004
+Předseda senátu:
+JUDr. Jiří Horák
+Vypracoval:
+JUDr. Jiří Šoukal
