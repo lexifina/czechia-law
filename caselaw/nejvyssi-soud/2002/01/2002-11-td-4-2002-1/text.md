@@ -1,0 +1,16 @@
+11 Td 4/2002
+U S N E S E N Í
+Nejvyšší soud České republiky projednal v neveřejném zasedání konaném dne 30. 1. 2002 v trestní věci obviněného V. P., vedené u Městského soudu v Brně pod sp. zn. 1 T 232/2001, spor o příslušnost mezi Městským soudem v Brně a Obvodním soudem pro Prahu 6 a rozhodl t a k t o :
+Podle § 24 tr. řádu je k projednání a rozhodnutí věci příslušný Městský soud v Brně.
+O d ů v o d n ě n í :
+Městskému soudu v Brně napadla dne 10. 10. 2001 obžaloba proti obviněnému V. P. pro trestný čin podvodu podle § 250 odst. 1, odst. 2 tr. zák., kterého se měl dopustit tím, že dne 17. 6. 1997 v P. převzal od P. R. 142.000,-Kč v hotovosti a následně prostřednictvím pošty 8.000,- Kč, jako zálohu na zprostředkování úvěru ve výši 525.184.480,- Kč a dne 26. 3. 1998 v B. převzal od téže osoby dalších 50.000,- Kč v hotovosti jako stejnou zálohu, ačkoli věděl, že tento úvěr není schopen zajistit a peníze užil pro svoji potřebu, čímž způsobil MUDr. P. a I. B., M. B., JUDr. M. B., V. Č., Z. H., J. N., M. P. a P. R. celkovou škodu ve výši 200.000,- Kč.
+Městský soud v Brně usnesením ze dne 30. 10. 2001, sp. zn. 1 T 232/2001, podle § 188 odst. 1 písm. a) tr. řádu tuto věc postoupil Obvodnímu soudu pro Prahu 6 s odůvodněním, že místem spáchání trestného činu je P., neboť ke spáchání trestného činu došlo několika akty obviněného, kdy jeden akt byl uskutečněn v P., a kde došlo k uskutečnění ostatních jednání obviněného, není zřejmé. Současně poukázal na skutečnost, že všichni svědkové a poškození bydlí v P.
+Obvodní soud pro Prahu 6 usnesením ze dne 15. 1. 2002, sp. zn. 3 T 6/2002, podle § 314c odst. 1 písm. a) tr. řádu per analogiam rozhodl, že není příslušný k projednání této věci, a to proto, že pochybnost o přesném místním vymezení skutku musí Městský soud v Brně odstranit dokazováním a nelze tedy volit procesní postup s odkazem na místo předání určité částky, které se jeví soudu průkazné z hlediska místního určení dílčího útoku.
+Nejvyšší soud, jako soud příslušný k projednání tohoto sporu o příslušnost, zhodnotil důkazy použitelné k řešení tohoto sporu a dospěl k tomuto závěru.
+Obviněný V. P. se měl pokračujícím jednáním dopustit testného činu podvodu podle § 250 odst. 1, odst. 2 tr. zák. Podle zjištění učiněného v přípravném řízení je jeden z útoků pokračujícího jednání obviněného situován do P. a druhý do B. Vyšetřování této věci provedla brněnská složka Policie ČR a obžalobu k Městskému soudu v Brně podalo Městské státní zastupitelství Brno. V průběhu přípravného řízení nevznikly pochybnosti, zda útok situovaný do B. skutečně v obvodu Městského soudu v Brně byl spáchán. Lze sice připustit, že určení místa tohoto útoku ve srovnání s určením místa útoku situovaného do P. je velmi nepřesné, ale tento fakt se sám o sobě nejeví natolik závažný, aby byl důvodem ke změně místní příslušnosti soudu prvotně založené tím, že u něj byla podána obžaloba.
+Ani skutečnost, že většina svědků bydlí, nebo se zdržuje v P., není natolik významná, aby byla důvodem k postoupení věci. Obviněný V. P. se zdržuje v obvodu Městského soudu v Brně a tak i tato skutečnost ve sporu svědčí ve prospěch místní příslušnosti Městského soudu v Brně.
+Za tohoto stavu nezbylo než rozhodnout, jak je ve výroku uvedeno.
+Poučení: Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 30. ledna 2002
+Předseda senátu:
+JUDr. Pavel Kučera
