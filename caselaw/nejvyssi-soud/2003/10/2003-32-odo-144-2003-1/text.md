@@ -1,0 +1,18 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+32 Odo 144/2003-81
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce P. – o. z. d. – v likvidaci, proti žalovanému P. K., podnikateli, o zaplacení 210.000,- Kč s příslušenstvím, vedené u Okresního soudu v Uherském Hradišti pod sp. zn. 5 C 268/94, o dovolání žalovaného proti rozsudku Krajského soudu v Brně ze dne 8. března 2000, č.j. 28 Co 54/98-63, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Brně rozsudkem z 8. března 2000, č.j. 28 Co 54/98-63, potvrdil rozsudek Okresního soudu v Uherském Hradišti ze dne 27. října 1997, č.j. 5 C 268/94-35, ve znění opravného usnesení ze dne 30. března 1999, č.j. 5 C 268/94-45, ve výrocích, kterými bylo žalovanému uloženo zaplatit žalobci částku 210.000,- Kč a zaplatit soudní poplatek ve výši 8.400,- Kč na účet soudu prvního stupně (výrok I.). Odvolací soud dále rozsudek soudu prvního stupně zrušil ve výroku ukládajícím žalovanému zaplatit žalobci 15% úrok z částky 210.000,- Kč od 1. března 1993 do zaplacení, jakož i ve výroku o náhradě nákladů řízení a věc mu v tomto rozsahu vrátil k dalšímu řízení (výrok II.).
+Proti rozsudku odvolacího soudu, a to pouze proti jeho výroku I., brojil žalovaný podáním označeným jako „odvolání“, jež však podle svého obsahu nemůže než být dovoláním. Jelikož při podání dovolání nebyl zastoupen advokátem a ani nedoložil, že má sám právnické vzdělání, soud prvního stupně jej usnesením ze dne 17. prosince 2002, č.j. 5 C 268/94-76, doručeným dne 19. prosince 2002 (srov. doručenku na č.l. 75 verte), vyzval k odstranění nedostatku povinného zastoupení a prostřednictvím takto zvoleného zástupce k podání řádného dovolání, a to ve lhůtě patnácti dnů od doručení usnesení.
+Podle bodu 17., hlavy I., části dvanácté, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (to jest podle občanského soudního řádu ve znění účinném před 1. lednem 2001 - dále též jen „o. s. ř.“).
+Dle ustanovení § 241 odst. 1 o. s. ř. dovolatel musí být zastoupen advokátem, jestliže nemá právnické vzdělání buď sám, nebo jeho zaměstnanec (člen), který za něj jedná. Z dovolání zastoupení dovolatele nevyplývá a jiné listiny, toto zastoupení nebo právnické vzdělání dovolatele prokazující, nebyly předloženy. Dovolatel pak nedostatek povinného zastoupení neodstranil, ač byl o procesních následcích nesplnění této podmínky poučen.
+Protože povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, bez jejíhož splnění nelze vydat - s výjimkou usnesení, jímž se dovolací řízení pro tento nedostatek zastavuje - rozhodnutí, kterým se řízení končí, a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu prvního stupně do dnešního dne nedošlo, Nejvyšší soud dovolací řízení podle § 104 odst. 2 a § 243c o. s. ř. zastavil.
+Dovolatel z procesního hlediska zavinil, že dovolací řízení bylo zastaveno, účastníkům však ve stádiu dovolacího řízení náklady nevznikly. Této procesní situaci odpovídá ve smyslu ustanovení § 146 odst. 2 věty první, § 224 odst. 1 a § 243b odst. 4 o. s. ř. výrok o tom, že na náhradu nákladů dovolacího řízení nemá žádný z nich právo.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 21. října 2003
+JUDr. Miroslav Gallus, v.r.
+předseda senátu
