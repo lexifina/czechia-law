@@ -1,0 +1,20 @@
+28 Cdo 1365/2001
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl o dovolání P. M., zast. matkou Z. M., zast. advokátem, které bylo podáno proti rozsudku Městského soudu v Praze ze dne 20. února 2001, sp. zn. 35 Co 10/2001 (v právní věci žalobce Městské části P., zast. advokátem, proti žalovanému P. M., zast. matkou Z. M., zast. advokátem, o vyklizení bytu a určení nájmu bytu, vedené u Obvodního soudu pro Prahu 8 pod sp.zn. 13 C 57/2000) takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků řízení nemá právo na náhradu nákladů řízení o dovolání.
+O d ů v o d n ě n í :
+Městský soud v Praze jako soud odvolací svým rozsudkem ze dne 20.2. 2001, pod č.j. 35 Co 10/2001-61 potvrdil rozsudek Obvodního soudu pro Prahu 8 ze dne 10.10. 2000, pod č.j. 13 C 57/2000–29, kterým byl zamítnut návrh žalovaného na určení, že je výlučným nájemcem sporného bytu, a žalovaný byl dalším výrokem tohoto rozhodnutí uznán povinným předmětný byt vyklidit a odevzdat žalobci, a to do 15 dnů od právní moci rozhodnutí.
+Proti rozsudku odvolacího soudu podal žalovaný dovolání, ve kterém se domáhá zrušení rozsudku městského i obvodního soudu a vrácení věci k dalšímu řízení. Přípustnost dovolání opírá o ustanovení § 237 odst. 1 písm. c/ občanského soudního řádu (dále jen o.s.ř.) a dovolací důvody jsou spatřovány ve smyslu § 241a odst. 2 písm. b/ o.s.ř.
+K tomuto dovolání nebylo podáno vyjádření.
+Nejvyšší soud jako soud dovolací vycházel při posuzování dovolání z ustanovení části dvanácté, hlavy 1, bodu 17 zákona č. 30/2000 Sb., podle něhož dovolání proti rozhodnutím odvolacího soudu, vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních předpisů, se projednají a rozhodne se o nich podle dosavadních předpisů. O takový případ jde v posuzované věci, neboť – jak městský soud výslovně uvedl na straně 3 svého rozsudku - napadené rozhodnutí odvolacího soudu bylo projednáno po řízení provedeném podle o.s.ř. ve znění účinném do 31.12.2000. Proto se dále uvádějí ustanovení občanského soudního řádu ve znění před novelou provedenou zákonem č. 30/2000 Sb.
+Dovolací soud dospěl k závěru, že dovolání nelze věcně projednat.
+Podle ustanovení § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Přípustnost dovolání je upravena v ustanoveních § 237 odst. 1 až § 239 odst. 2 o.s.ř.
+Projednáním a rozhodnutím dovolání podle dosavadních právních předpisů ve smyslu bodu 17., hlavy I části dvanácté zákona č. 30/2000 Sb., se rozumí též posuzování včasnosti dovolání včetně vymezení běhu lhůty k jeho podání (shodně srov. též usnesení Nejvyššího soudu uveřejněné pod číslem 70/2001 Sbírky soudních rozhodnutí a stanovisek, a dále usnesení Ústavního soudu ČR ze dne 23.7.2002, sp. zn. II. ÚS 154/02). Podle § 240 odst. 1 o.s.ř. ve znění účinném před 1. lednem 2001 může účastník podat dovolání do jednoho měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Podle odstavce druhého § 240 o.s.ř. zmeškání lhůty k podání dovolání nelze prominout.
+Dovolací soud tedy sice nepochyboval o tom, čeho se žalovaný v dovolacím řízení domáhá (§ 79 odst. 1 o.s.ř.), avšak nemohl pominout základní zjištění, že dovolání bylo podáno opožděně. Rozsudek odvolacího soudu nabyl právní moci dne 9. 4. 2001, lhůta k podání daného mimořádného opravného prostředku tedy - v souladu s ustanovením § 57 o.s.ř. - skončila 9. 5. 2001. Dovolání žalobce však bylo u Obvodnímu soudu pro Prahu 8 podáno až dne 4. 6. 2001.
+Nejvyššímu soudu proto vzhledem k výše uvedenému nezbylo, než dovolání podle § 243b odst. 4 a § 218 odst. 1 písm. a/ o. s. ř. jako opožděné odmítnout.
+Žalovaný procesně zavinil (tím, že podal opožděné dovolání), že dovolání bylo odmítnuto. Žalobci v souvislosti s dovolacím řízením žádné náklady nevznikly. Této procesní situaci odpovídá výrok o nákladech dovolacího řízení odůvodněný ust. § 142 odst. 1, § 151, § 224 odst. 1 a § 243 b odst. 4 o.s.ř.
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 30. října 2003
+JUDr. Oldřich Jehlička, CSc., v. r.
+předseda senátu
