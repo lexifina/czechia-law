@@ -1,0 +1,17 @@
+20 Cdo 10/2000
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobců A) J. A., a B) R., v.o.s., proti žalované J., spol. s r.o., o vydání věci, vedené u Krajského soudu v Ústí nad Labem pod sp. zn. 33 Cm 676/98, o dovolání žalované proti usnesení Vrchního soudu v Praze ze dne 31. srpna 1999, č.j. 10 Cmo 234/99-23, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalovaná podala dovolání proti usnesení odvolacího soudu označenému v záhlaví, jímž bylo podle § 218 odst. 1 písm. b/ občanského soudního řádu (dále též jen „o. s. ř.\") odmítnuto její odvolání proti rozsudku (pro zmeškání) Krajského soudu v Ústí nad Labem ze dne 13. ledna 1999, č.j. 33 Cm 676/98-9.
+Jelikož na majetek žalované byl usnesením Krajského soudu v Ústí nad Labem ze dne 20. října 1999, č.j. 18 K 24/99-26, prohlášen konkurs, bylo od uvedeného dne dovolací řízení přerušeno (srov. § 14 odst. 1 písm. c/ zákona č. 328/1991 Sb., o konkursu a vyrovnání, ve znění pozdějších předpisů - dále též jen „ZKV\"), účinky konkursu však pominuly v důsledku usnesení ze dne 28. února 2001, č.j. 18 K 24/99-48, jímž Krajský soud v Ústí nad Labem konkurs z důvodu uvedeného v § 44 odst. 1 písm. d/ ZKV zrušil, a které nabylo právní moci dne 24. dubna 2001 (srov. též ustanovení § 44 odst. 5 a § 45 odst. 1 ZKV).
+Jelikož při podání dovolání nebyla dovolatelka zastoupena advokátem, Nejvyšší soud ji usnesením ze dne 12. září 2000, č.j. 31 Cdo 10/2000-33, doručeným 24. května 2001 (srov. doručenku u č.l. 33), vyzval, aby nedostatek povinného zastoupení do jednoho týdne od doručení usnesení odstranila.
+Podle bodu 17., hlavy první, části dvanácté, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (to jest podle občanského soudního řádu ve znění účinném před 1. lednem 2001).
+Dle ustanovení § 241 odst. 1 o. s. ř., dovolatel musí být zastoupen advokátem, jestliže nemá právnické vzdělání buď sám, nebo jeho zaměstnanec (člen), který za něj jedná. Z dovolání zastoupení dovolatelky nevyplývá a jiné listiny toto zastoupení prokazující nebyly předloženy. Dovolatelka pak nedostatek povinného zastoupení neodstranila, ač byla o procesních následcích nesplnění této podmínky poučena.
+Protože povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení (dovolatele), jejíž nedostatek lze odstranit, bez jejíhož splnění však nelze vydat - s výjimkou usnesení, jímž bude dovolací řízení pro neodstranění nedostatku povinného zastoupení zastaveno - rozhodnutí, kterým se řízení končí, a protože ke zhojení tohoto nedostatku přes řádnou výzvu dovolacího soudu dosud nedošlo, Nejvyšší soud dovolací řízení podle § 104 odst. 2 a § 243c o. s. ř. zastavil.
+Dovolatelka z procesního hlediska zavinila, že dovolací řízení bylo zastaveno, účastníkům však ve stadiu dovolacího řízení náklady nevznikly. Této procesní situaci odpovídá ve smyslu ustanovení § 146 odst. 2, věty prvé, § 224 odst. 1 a § 243b odst. 4 o. s. ř. výrok o tom, že na náhradu nákladů dovolacího řízení nemá žádný z nich právo.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 31. července 2001
+JUDr. Zdeněk K r č m á ř , v. r.
+předseda senátu
