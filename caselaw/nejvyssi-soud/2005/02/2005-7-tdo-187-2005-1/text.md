@@ -1,0 +1,27 @@
+7 Tdo 187/2005
+U S N E S E N Í
+Nejvyšší soud rozhodl v neveřejném zasedání konaném dne 17. 2. 2005 o dovolání obviněného V. F., proti usnesení Krajského soudu v Brně ze dne 28. 7. 2004, sp. zn. 3 To 281/2004, v trestní věci vedené u Okresního soudu v Třebíči pod sp. zn. 3 T 11/2004 t a k t o :
+Podle § 265i odst. 1 písm. b) tr. ř. se dovolání obviněného V. F. o d m í t á .
+O d ů v o d n ě n í :
+I.
+Rozsudkem Okresního soudu v Třebíči ze dne 30. 3. 2004, sp. zn. 3 T 11/2004, byl obviněný V. F. uznán vinným trestným činem krádeže podle § 247 odst. 1 písm. a), d), e) tr. zák.
+Podle skutkových zjištění okresního soudu se jej dopustil tím, že dne 18. 12. 2003 kolem 24:00 hod. v T.-B., cestou z K. TJ B. směrem na ulici F. v podnapilém stavu odcizil P. L., z kapsy bundy mobilní telefon zn. Siemens v hodnotě 3.900,- Kč a finanční hotovost 1.200,- Kč, čímž P. L. způsobil celkovou škodu ve výši 5.100,? Kč, a to přesto, že byl rozsudkem Okresního soudu v Třebíči ze dne 14. 11. 2001, sp. zn. 2 T 148/2001, pravomocně odsouzen pro trestný čin loupeže podle § 234 odst. 1 tr. zák. k trestu odnětí svobody v trvání dvou roků, jehož výkon byl podmíněně odložen na zkušební dobu do 4. 12. 2005.
+Obviněnému V. F. byl uložen trest odnětí svobody v trvání pěti měsíců, pro jehož výkon byl zařazen do věznice s dozorem.
+Odvolání obviněného Krajský soud v Brně usnesením ze dne 28. 7. 2004, sp. zn. 3 To 281/2004, zamítl podle § 256 tr. ř. jako nedůvodné.
+II.
+Proti usnesení Krajského soudu v Brně podal obviněný prostřednictvím svého obhájce Mgr. M. Š. dovolání. Toto rozhodnutí napadl v celém rozsahu z důvodu uvedeného v § 265b odst. 1 pím. g) tr. ř., neboť má za to, že spočívá na nesprávném právním posouzení skutku nebo jiném nesprávném hmotně právním posouzení.
+V odůvodnění dovolání obviněný uvádí, že dovolání podává ze stejných důvodů, pro které podával odvolání proti rozsudku okresního soudu. Soudům vytýká nepřesné zjištění okolností spáchání trestného činu, zejména v tom směru, kde a jakým způsobem došlo k přechodu peněz a mobilního telefonu z dispozice poškozeného do dispozice obviněného. Obviněný dále reprodukuje výpověď svou i poškozeného. Výpověď poškozeného přitom hodnotí jako nevěrohodnou a zdůrazňuje, že poškozený byl v době činu podnapilý. Naproti tomu svou výpověď považuje obviněný za přesvědčivou a podpořenou dalšími důkazy. Pokud pak za této důkazní situace soudy své skutkové závěry založily na výpovědi poškozeného, nerespektovaly podle přesvědčení obviněného při hodnocení důkazů zásadu \"in dubio pro reo\" (v pochybnostech ve prospěch obviněného). Vzhledem k tomu, že podle názoru obviněného je výrok o jeho vině nepřesvědčivý, neměl mu být ukládán ani trest, který z tohoto důvodu dovoláním rovněž napadá.
+Závěrem svého dovolání navrhl, aby Nejvyšší soud usnesení krajského soudu i rozsudek okresního soudu zrušil a věc přikázal okresnímu soudu k novému projednání a rozhodnutí.
+Nejvyšší státní zástupkyně se k podanému dovolání vyjádřila písemně v souladu s § 265h odst. 2 tr. ř. Ve svém vyjádření poukázala na to, že dovolání obviněného je sice podáno s odkazem na důvody uvedené v ustanovení § 265b odst. 1 písm. g) tr. ř., podle jejího názoru však namítá toliko vadné hodnocení provedených důkazů, čímž fakticky napadá soudem učiněná skutková zjištění. Navrhla proto, aby Nejvyšší soud dovolání odmítl podle § 265i odst. 1 písm. b) tr. ř. jako podané z jiného důvodu, než je uveden v ustanovení § 265b tr. ř.
+III.
+Nejvyšší soud jako soud dovolací nejdříve ověřil, že dovolání je přípustné, bylo podáno oprávněnou osobou, v zákonné lhůtě a na předepsaném místě.
+Poté se zaměřil na to, zda obviněným uplatněné námitky lze skutečně považovat za některý z důvodů dovolání podle § 265b odst. 1 tr. ř., neboť uplatnění námitek, které obsahově naplňují dovolací důvod, je nezbytnou podmínkou přezkumu napadeného rozhodnutí dovolacím soudem podle § 265i odst. 3 tr. ř.
+Nejvyšší soud v této souvislosti zdůrazňuje, že v případě dovolacího důvodu podle § 265b odst. 1 písm. g) tr. ř. lze v jeho rámci namítat, že zjištěný skutek byl nesprávně kvalifikován jako určitý trestný čin, přestože znaky tohoto trestného činu, resp. žádného trestného činu neměl. Myslí se tím přitom skutek, tak jak byl soudem zjištěn. Tento dovolací důvod neumožňuje namítat nesprávnost skutkových zjištění, nesprávnost hodnocení provedených důkazů ani neúplnost provedeného dokazování.
+Obviněný V. F. však ve svém dovolání žádné námitky proti právnímu posouzení skutku, tak jak byl soudy zjištěn, neuvedl. Jím uplatněné námitky oponovaly výhradně tomu, jak okresní a krajský soud provedené důkazy hodnotily a jaké skutkové závěry na jejich podkladě postupem podle § 2 odst. 6 tr. ř. vyvodily.
+Obviněný tedy sice formálně deklaroval dovolací důvod napadající právní posouzení zjištěného skutku, ale svými konkrétními námitkami se domáhal přehodnocení provedených důkazů, které by vedlo k podpoře té verze skutkového děje, kterou prezentoval v rámci své obhajoby. Takovými námitkami však obviněný podle závěru Nejvyššího soudu deklarovaný, ani jiný dovolací důvod nenaplnil.
+IV.
+Nejvyšší soud proto dovolání obviněného V. F. odmítl podle § 265i odst. 1 písm. b) tr. ř. jako podané z jiného důvodu, než je uveden v § 265b tr. ř. Učinil tak v souladu s ustanovením § 265r odst. 1 písm. a) tr. ř. v neveřejném zasedání.
+P o u č e n í : Proti tomuto rozhodnutí není opravný prostředek přípustný.
+V Brně dne 17. února 2005
+Předseda senátu:
+JUDr. Robert Fremr
