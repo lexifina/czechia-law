@@ -1,0 +1,17 @@
+26 Cdo 2017/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Feráka a soudců JUDr. Blanky Moudré a Doc. JUDr. Věry Korecké, CSc. v právní věci žalobce Z. P., zastoupeného advokátem, proti žalovaným 1) A. P., a 2) Š. P., o zaplacení částky 81.329,90,- Kč s příslušenstvím, vedené u Okresního soudu v Karlových Varech pod sp. zn. 19 C 44/2001, o dovolání žalobce proti usnesení Okresního soudu v Karlových Varech ze dne 17. července 2002, č. j. 19 C 44/2001-107, takto:
+I. Řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Karlových Varech (jako soud prvního stupně) usnesením ze dne 17. července 2002, č. j. 19 C 44/2001-107, schválil účastníky uzavřený smír, podle něhož se první žalovaná zavázala uhradit žalobci částku 15.726,- Kč s 10 % úrokem z prodlení od 10. 4. 2000 do úplného zaplacení ve splátkách po 750,- Kč měsíčně, splatných vždy nejpozději do každého 25-tého dne v měsíci, pod ztrátou výhody splátek, počínaje červencem 2002, a druhá žalovaná se zavázala zaplatit žalobci částku 37.520,50,- Kč s 10 % úrokem z prodlení od 10. 4. 2000 do úplného zaplacení, ve splátkách po 1.000,- Kč, splatných vždy do každého 25-tého dne v měsíci, pod ztrátou výhody splátek, počínaje červencem 2002, s tím, že žalobce a první i druhá žalovaná se dohodli, že si každý ponese náklady řízení sám.
+Žalobce osobně podal u soudu prvního stupně dne 12. 9. 2002 podání, které označil jako „dovolání“, adresoval je Nejvyššímu soudu České republiky a napadl jím výše uvedené usnesení soudu prvního stupně, jež navrhl zrušit a vrátit věc k novému projednání.
+Podle § 236 odst. 1 zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů (dále jen „o. s. ř.“) lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Opravným prostředkem, kterým může účastník napadnout rozhodnutí soudu prvního stupně, pokud to zákon nevylučuje, je odvolání (§ 201 o. s. ř.). Podle § 202 odst. 1 písm. h/ o. s. ř. odvolání proti usnesení, jímž byl schválen smír (tak jako tomu bylo v tomto případě), není odvolání přípustné. Usnesení o schválení smíru však může soud zrušit rozsudkem (je-li smír podle hmotného práva neplatný) na základě žaloby, kterou lze podat do tří let od právní moci usnesení o schválení smíru (§ 99 odst. 3 o. s. ř.).
+Z citovaných ustanovení vyplývá, že rozhodnutí soudu prvního stupně dovoláním napadnout nelze. Proto také není občanským soudním řádem upravena funkční příslušnost soudu pro projednání dovolání podanému proti rozhodnutí soudu prvního stupně.
+Funkční příslušnost Nejvyššího soudu je upravena ustanovením § 10a o. s. ř., podle něhož Nejvyšší soud rozhoduje o dovoláních proti rozhodnutím krajských nebo vrchních soudů jako soudů odvolacích.
+Protože žalobce svým „dovoláním“ napadl rozhodnutí soudu prvního stupně, založil tak nedostatek funkční příslušnosti jakožto podmínky dovolacího řízení, který nelze odstranit (§ 103 o. s. ř.). Nejvyššímu soudu proto nezbylo, než řízení, které touto vadou trpí, zastavit (§ 104 odst. 1 věta prvá, § 243c odst. 1 o. s. ř.).
+Výrok o nákladech řízení odpovídá situaci, kdy žalovaným podle obsahu spisu v této fázi řízení nevznikly žádné náklady, k jejichž úhradě by jinak byl povinen žalobce, který procesně zavinil zastavení dovolacího řízení.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 31. října 2002
+JUDr. Miroslav F e r á k , v.r.
+předseda senátu
