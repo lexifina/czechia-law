@@ -1,0 +1,25 @@
+30 Cdo 1144/2000
+U S N E S E N Í
+Nejvyšší soud rozhodl v právní věci navrhovatele L. O., proti odpůrkyni České správě sociálního zabezpečení, Praha 5, Křížová 25, o částečný invalidní důchod, vedené u Městského soudu v Praze pod sp. zn. 30 Ca 179/97, o dovolání navrhovatele proti rozsudku Vrchního soudu v Praze ze dne 15. října 1999, č.j. 3 Cao 89/99-42, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Vrchní soud v Praze napadeným rozsudkem změnil rozsudek Městského soudu v Praze ze dne 19. března 1998, č. j. 30 Ca 179/97-23 (jímž bylo potvrzeno rozhodnutí České správy sociálního zabezpečení ze dne 27.7.1994, kterým byl navrhovateli dnem 10. 9. 1994 odňat částeční invalidní důchod) tak, že rozhodnutí České správy sociálního zabezpečení ze dne 27.7.1994 pro dobu ode dne splátky důchodu následující po dni 7.5. 1997 potvrdil a zrušil po dobu předcházející uvedenému dni splátky, a v tomto rozsahu věc vrátil odpůrkyni k dalšímu řízení.
+Proti tomuto rozsudku podal navrhovatel dovolání dne 9.2.2000, které nemělo zákonné náležitosti.
+Nejvyšší soud po přezkoumání věci dospěl k závěru, že v posuzovaném případě brání meritornímu rozhodnutí o dovolání nedostatek podmínky dovolacího řízení.
+Podle ustanovení § 240 odst. 1 o.s.ř. účastník může podat dovolání do jednoho měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni.
+Podle ustanovení § 241 odst. 1 o. s. ř. dovolatel musí být zastoupen advokátem nebo komerčním právníkem, jestliže nemá právnické vzdělání buď sám nebo jeho zaměstnanec (člen), který za něj jedná. Podle odst. 2 cit. zák. ust. (věty druhé), o.s.ř., nemá-li dovolatel právnické vzdělání, musí být jeho dovolání sepsáno advokátem nebo komerčním právníkem anebo zaměstnancem (členem) dovolatele s právnickým vzděláním, který za něj jedná.
+Dovolání je mimořádný opravný prostředek, kterým lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Mimořádnost tohoto prostředku opravňuje požadavek, aby účastník, který se rozhodl uplatnit dovolání, měl právnické vzdělání nebo aby byl zastoupen osobou, která je povolána podle zákona mu poskytnout právní pomoc.
+V rozhodnutí uveřejněném pod č. 13/1993 Sbírky soudních rozhodnutí a stanovisek, vydávané Nejvyšším soudem, bylo vyloženo, že ustanovení § 241 odst. 1 o.s.ř. o tom, že dovolatel musí být zastoupen advokátem nebo komerčním právníkem, pokud nemá sám právnické vzdělání, je ustanovením donucující povahy, jež nepřipouští výjimky. Nedostatek tohoto zastoupení, je nedostatkem bránícím v pokračování dovolacího řízení. Jestliže dovolatel přes výzvu a poučení ze strany soudu uvedený nedostatek ve stanovené lhůtě neodstraní, bude dovolací řízení usnesením zastaveno ve smyslu ustanovení § 243c, § 43 odst. 2 a § 104 odst. 1 o.s.ř.
+V daném případě navrhovatel podal dovolání, které nemělo zákonné náležitosti. Soud prvního stupně ho proto usnesením ze dne 11.2.2000, č. j. 30 Ca 179/97-53, vyzval, aby své dovolání doplnil o náležitosti uvedené v ustanovení § 205 o.s.ř. (tedy uvedl, v jakém rozsahu předmětné rozhodnutí napadá, v čem spatřuje jeho nesprávnost a čeho se dovoláním domáhá) písemným podáním ve dvou vyhotoveních ve lhůtě 15 dnů, bez poučení, že nebude-li výzvě ve stanovené lhůtě vyhověno, bude dovolací řízení zastaveno.
+Nejvyšší soud proto dopisem ze dne 22. března 2000, sp.zn. 30 Cdo 617/2000, spis vrátil soudu bez rozhodnutí s pokynem, aby bylo postupováno podle ustanovení § 241 odst. 4 a §§ 209 a 210 o.s.ř., t.j., usnesením doručeným do vlastních rukou navrhovatele, poučit o následcích nevyhovění výzvě ve stanovené lhůtě.
+Soud dovolatele vyzval usnesením ze dne 3. dubna 2000, č.j. 30 Ca 179/97-60, aby své dovolání doplnil o náležitosti uvedené v ustanovení § 241 o.s.ř., t.j., aby si zvolil advokáta a podal dovolání jeho prostřednictvím s poučením, že nebude-li dovolání takto doplněno, bude věc postoupena Nejvyššímu soudu, který dovolací řízení zastaví, k čemuž navrhovateli poskytl lhůtu 15 dnů.
+Uvedené usnesení navrhovatel převzal dne 11.4.2000.
+Ve lhůtě stanovené soudem a ani do současné doby navrhovatel na výzvu o doplnění dovolání nereagoval a nedostatky dovolání neodstranil.
+Vzhledem k tomu, že nedostatek podmínky dovolacího řízení podle ustanovení § 241 odst.1 věty první a § 241 odst.2 věty druhé o.s.ř., nebyl přes výzvu soudu odstraněn a lhůta k jeho odstranění již uplynula (dovolatel výzvě soudu ani dosud nevyhověl), nezbylo dovolacímu soudu než řízení o dovolání podle ustanovení § 243c, § 43 odst. 2 a § 104 odst. 1 o.s.ř. zastavit.
+Výrok o nákladech řízení je odůvodněn ustanovením § 243b odst. 4 ve spojení s ustanovením § 224 odst. l, § 146 odst. 1 písm.c/ a § 151 odst. 1 věty první o.s.ř., protože navrhovatel svým dovoláním neměl úspěch a odpůrkyni žádné náklady v tomto řízení nevznikly.
+Proti tomuto usnesení n e n í přípustný opravný prostředek.
+V Brně dne 29. června 2000
+JUDr. Julie M u r á n s k á , v. r.
+předsedkyně senátu
+Za správnost vyhotovení: Marie Plhalová
