@@ -1,0 +1,18 @@
+21 Cul 1/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a JUDr. Zdeňka Novotného o návrhu T. P., podaném proti Vrchnímu soudu v Praze na určení lhůty k provedení procesního úkonu ve věci vedené pod sp. zn. 1 Co 44/2004, takto:
+I. Návrh se zamítá.
+II. Navrhovatel nemá právo na náhradu nákladů řízení..
+O d ů v o d n ě n í :
+Městský soud v Praze usnesením ze dne 28. 11. 2003, č.j. 37 C 59/2003-27, ve věci žalobce T. P. proti žalovaným 1) Občanskému sdružení B. l. a 2) M. M., zastavil řízení o žalobě navrhovatele na zrušení usnesení o schválení smíru, když dospěl k závěru, že navrhovatel není „aktivně legitimován“ k podání této žaloby, neboť „nebyl účastníkem smíru“, jehož zrušení se domáhá.
+Proti tomuto usnesení podal navrhovatel odvolání, které má projednat a rozhodnout o něm Vrchní soud v Praze ve věci vedené pod sp. zn. 1 Co 44/2004.
+Návrhem ze dne 4. 7. 2004, doručeným Vrchnímu soudu v Praze dne 8. 7. 2004, se navrhovatel domáhá, aby bylo Vrchnímu soudu v Praze uloženo rozhodnout o odvolání žalobce proti usnesení Městského soudu v Praze ze dne 28. 11. 2003, č.j. 37 C 59/2003-27, do deseti dnů od doručení usnesení Nejvyššího soudu ČR. Návrh odůvodnil zejména tím, že jeho stížnost na průtahy v tomto řízení ze dne 24. 5. 2004 shledal předseda Vrchního soudu v Praze ve sdělení ze dne 14. 6. 2004 č.j. 62/2004 nedůvodnou „vzhledem k množství věcí projednávaných příslušným senátem“. Navrhovatel je přesvědčen, že rozhodnutí o nedostatku jeho aktivní legitimace „není složitým rozhodnutím, které by si vyžádalo více než čtyři měsíce“; je –li u soudu „fronta nevyřízených věcí“, jde o špatnou organizaci práce u tohoto soudu, případně o nedostatečné technické nebo personální zabezpečení.
+Podle ustanovení § 174a odst. 1 zákona č. 6/2002 Sb., o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích), ve znění pozdějších předpisů (dále jen „zákon o soudech a soudcích“), má-li účastník nebo ten, kdo je stranou řízení, za to, že jeho stížnost na průtahy v řízení, kterou podal u příslušného orgánu státní správy soudů, jím nebyla řádně vyřízena, může podat návrh soudu, aby určil lhůtu pro provedení procesního úkonu, u kterého podle jeho názoru dochází k průtahům v řízení (dále jen „návrh na určení lhůty“).
+Podle ustanovení § 174a odst. 6 zákona o soudech a soudcích pokud soud, vůči němuž návrh na určení lhůty směřuje, již procesní úkon, u kterého jsou v návrhu namítány průtahy v řízení, učinil, příslušný soud návrh zamítne; stejně tak postupuje, dospěje-li k závěru, že k průtahům v řízení nedochází.
+V průběhu řízení Nejvyšší soud ČR zjistil, že Vrchní soud v Praze usnesením ze dne 29. 6. 2004, č.j. 1 Co 44/2004-34, zrušil usnesení Městského soudu v Praze ze dne 28. 11. 2003, č.j. 37 C 59/2003-27, a věc vrátil Městskému soudu v Praze k dalšímu řízení.
+Vzhledem k tomu, že procesní úkon, u kterého jsou v návrhu namítány průtahy v řízení, již soud, vůči němuž návrh na určení lhůty směřuje, učinil, Nejvyšší soud ČR návrh navrhovatele podle ustanovení § 174a odst. 6 části věty před středníkem zákona o soudech a soudcích zamítl.
+O náhradě nákladů řízení bylo rozhodnuto podle ustanovení § 174a odst. 4 věty druhé zákona o soudech a soudcích a § 151 odst. 1 o.s.ř. neboť navrhovatel nemá ve smyslu ustanovení § 174a odst. 7 věty druhé zákona o soudech a soudcích právo, aby mu stát nahradil náklady, které mu v tomto řízení vznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 10. srpna 2004
+JUDr. Mojmír Putna,v.r.
+předseda senátu
