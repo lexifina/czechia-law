@@ -1,0 +1,27 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+29 Odo 948/2002-232
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce P. S., proti žalovaným 1) Ing. C. B., a 2) E, f. s. spol. s r.o. v likvidaci, o zaplacení 203.378,- Kč s příslušenstvím, vedené u Krajského soudu v Hradci Králové pod sp. zn. 33 Cm 145/99, o dovolání žalovaného 1) proti rozsudku Vrchního soudu v Praze ze dne 18. června 2002, čj. 3 Cmo 412/2000-214, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Krajský soud v Hradci Králové svým rozsudkem ze dne 13.4.2000, čj. 33 Cm 145/99-178, uložil žalovanému 1) zaplatit žalobci částku 203.378,- Kč s 3% úrokem z prodlení od 1.3.1992 do 14.7.1994 a 14% úrokem z prodlení od 15.7.1994 do zaplacení a také náhradu nákladů řízení (výrok I.). Dále soud prvního stupně zamítl žaloby ve vztahu k žalované 2) (výrok II.), uložil žalobci zaplatit žalované 2) náhradu nákladů řízení (výrok III.) a konečně uložil žalovanému 1) povinnost uhradit náklady řízení státu (výrok IV.)
+K odvolání žalovaného 1) Vrchní soud v Praze dovoláním napadeným rozsudkem potvrdil rozsudek soudu prvního stupně ve výrocích II. až IV. Ve výroku I. pak rozsudek krajského soudu zamítl v části týkající se úroku z prodlení za období od 1.3.1992 do 6.12.1994, jinak jej také potvrdil.
+Žalovaný 1) zastoupený advokátem podal proti rozsudku odvolacího soudu dovolání, kterým tento rozsudek napadl v celém rozsahu. Pokud jde o přípustnost dovolání, odkazuje na ustanovení § 237 odst. 1 písm. c) občanského soudního řádu (dále též jen „o.s.ř.“). Jeho důvodnost pak opírá o ustanovení § 241a odst. 2 písm. b) o.s.ř. Konkrétně namítá, že soud nesprávně posoudil otázku pasivní legitimace žalovaného 1). Dle názoru dovolatele je v tomto sporu pasivně legitimována pouze žalovaná 2), pro kterou žalovaný 1) pracoval. Proto dovolatel navrhuje, aby Nejvyšší soud napadené rozhodnutí odvolacího soudu zrušil a věc mu vrátil k dalšímu řízení.
+Jak je zřejmé, odkazuje dovolatel na ustanovení občanského soudního řádu ve znění účinném od 1.1.2001.
+Podle části dvanácté, hlavy první, bodu 17. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů (jak tomu bylo v i v této věci vzhledem k ustanovení části dvanácté, hlavy první, bodu 15. zákona č. 30/2000 Sb.), se projednají a rozhodnou podle dosavadních právních předpisů (to jest podle občanského soudního řádu ve znění účinném před 1.1.2001).
+Dovolání není přípustné.
+Dle § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+V části, v níž byl rozsudek soudu prvního stupně potvrzen, lze obecně přípustnost dovolání opřít o ustanovení § 237, 238 odst. 1 písm. b) nebo o ustanovení § 239 o.s.ř.
+O případ podřaditelný ustanovení § 238 odst. 1 písm. b) o.s.ř. nejde, neboť napadeným rozsudkem odvolacího soudu nebyl potvrzen rozsudek soudu prvního stupně, kterým soud rozhodl jinak než v dřívějším rozsudku proto, že byl vázán právním názorem odvolacího soudu.
+Podle § 239 odst. 1 o.s.ř. je dovolání přípustné proti rozsudku nebo usnesení odvolacího soudu ve věci samé, jímž bylo rozhodnutí soudu prvního stupně potvrzeno, jestliže odvolací soud ve výroku rozhodnutí vyslovil, že dovolání je přípustné, protože jde o rozhodnutí po právní stránce zásadního významu. Přípustnost dovolání může odvolací soud vyslovit i bez návrhu. V tomto případě však odvolací soud přípustnost dovolání nevyslovil.
+Podle § 239 odst. 2 o.s.ř. nevyhoví-li odvolací soud návrhu účastníka na vyslovení přípustnosti dovolání, který byl učiněn nejpozději před vyhlášením potvrzujícího rozsudku nebo před vyhlášením (vydáním) usnesení, kterým bylo rozhodnuto ve věci samé, je dovolání podané tímto účastníkem přípustné, jestliže dovolací soud dospěje k závěru, že napadené rozhodnutí odvolacího soudu má po právní stránce zásadní význam. V tomto případě však dovolatel návrh, který je podmínkou pro uplatnění přípustnosti dle § 239 odst. 2 o.s.ř., nepodal.
+Zbývá tedy posoudit podmínky přípustnosti určené v ustanovení § 237 o.s.ř. Vady řízení ve smyslu tohoto ustanovení, k nimž je povinen dovolací soud přihlížet z úřední povinnosti (§ 242 odst. 3 o.s.ř.) a jejichž existence činí zmatečným (s výjimkami zakotvenými v § 237 odst. 2 o.s.ř.) každé rozhodnutí odvolacího soudu, dovoláním namítány nejsou a z obsahu spisu rovněž nevyplývají.
+Pokud jde o zamítavý výrok odvolacího soudu, není v této části dovolatel ve smyslu ustanovení § 243b odst. 4 a § 218 odst. 1 písm. b) o.s.ř. subjektivně oprávněn podat dovolání.
+Nejvyšší soud proto, aniž by nařizoval jednání (§ 243a odst. 1 věta první o.s.ř.), dovolání podle § 243b odst. 4 a § 218 odst. 1 písm. b) a c) o.s.ř. usnesením odmítl.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 4, 224 odst. 1 a § 146 odst. 2 věty první o.s.ř. (per analogiam), neboť žalovaný 1), který z procesního hlediska zavinil, že soud dovolání odmítl, nemá na náhradu těchto nákladů právo a žalobci v souvislosti s dovolacím řízením náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 21. srpna 2003
+JUDr. Ivana Štenglová, v.r.
+předsedkyně senátu
