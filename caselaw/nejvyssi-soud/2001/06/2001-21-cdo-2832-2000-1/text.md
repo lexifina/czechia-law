@@ -1,0 +1,17 @@
+21 Cdo 2832/2000
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci dědictví po V. Š., vedené u Obvodního soudu pro Prahu 7 pod sp. zn. D 602/95, o dovolání R. H., proti usnesení Městského soudu v Praze ze dne 30. prosince 1999 č.j. 24 Co 350/99-77, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+U Obvodního soudu pro Prahu 7 bylo usnesením ze dne 19.9.1995 č.j. D 602/95-1 zahájeno řízení o dědictví po V. Š., zemřelé dne 17.8.1995. Provedením úkonů v řízení o dědictví byla pověřena notářka JUDr. J. D.
+Obvodní soud pro Prahu 7 usnesením ze dne 27.3.1997 č.j. D 602/95-23 určil, že obecná cena majetku zůstavitelky činí 16.234,20 Kč, že výše jejích dluhů činí 3.274,- Kč a že čistá hodnota dědictví činí 9.960,20 Kč, schválil dohodu dědiců R. H. a P. H. a rozhodl o odměně notářky JUDr. J. D. za provedené úkony v tomto řízení a o náhradě jejích hotových výdajů.
+K odvolání R. H. Městský soud v Praze usnesením ze dne 30.12.1999 č.j. 24 Co 350/99-77 usnesení soudu prvního stupně potvrdil.
+Proti usnesení odvolacího soudu (s výjimkou výroku, kterým bylo potvrzeno usnesení soudu prvního stupně o určení odměny notářky JUDr. J. D. a náhrady jejích hotových výdajů) podala R. H. dovolání.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) věc projednal podle Občanského soudního řádu ve znění účinném do 31.12.2000 - dále jen \"o.s.ř.\" (srov. Část dvanáctou, Hlavu I, bod 17. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) a po přezkoumání věci dospěl k závěru, že dovolání bylo podáno opožděně.
+Podle ustanovení § 240 odst. 1 věty první o.s.ř. účastník může podat dovolání do 1 měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Podle ustanovení § 240 odst. 2 o.s.ř. zmeškání lhůty uvedené v odstavci 1 nelze prominout; lhůta je však zachována, bude-li dovolání podáno ve lhůtě u odvolacího nebo dovolacího soudu.
+V posuzovaném případě bylo zjištěno, že usnesení odvolacího soudu bylo doručeno do vlastních rukou dědicům R. H. a P. H. dne 4.2.2000 a notářce JUDr. J. D. dne 9.2.2000 a že dovolání R. H. sepsané dne 8.3.2000 bylo podáno u soudu prvního stupně dne 9.3.2000.
+Z uvedeného vyplývá, že usnesení odvolacího soudu nabylo právní moci v části, v níž bylo potvrzeno usnesení soudu prvního stupně o určení obecné ceny majetku zůstavitelky, výše dluhů a čisté hodnoty dědictví a o vypořádání dědictví, dnem 4.2.2000, a v části, v níž bylo potvrzeno usnesení soudu prvního stupně o odměně notářky JUDr. J. D. a o náhradě jejích hotových výdajů, dnem 9.2.2000. Lhůta k podání dovolání proti usnesení odvolacího soudu v části, v níž bylo potvrzeno usnesení soudu prvního stupně o určení obecné ceny majetku zůstavitelky, výše dluhů a čisté hodnoty dědictví a o vypořádání dědictví (v této části dovolatelka napadá usnesení odvolacího soudu), uplynula podle ustanovení § 243c a § 57 odst.1 a 2 o.s.ř. dnem 6.3.2000. Protože dovolání bylo podáno u soudu prvního stupně až dne 9.3.2000, je opožděné. Vzhledem k tomu, že zmeškání dovolací lhůty nelze prominout (§ 240 odst.2 věta první o.s.ř.), Nejvyšší soud České republiky dovolání R. H. podle ustanovení § 243b odst. 4 věty první a § 218 odst. 1 písm. a) o.s.ř. - aniž by se mohl zabývat dalšími okolnostmi - odmítl.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 26. června 2001
+JUDr. Ljubomír D r á p a l , v. r.
+předseda senátu
