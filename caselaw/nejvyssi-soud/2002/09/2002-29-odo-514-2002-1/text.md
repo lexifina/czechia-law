@@ -1,0 +1,14 @@
+29 Odo 514/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedkyně JUDr. Ivany Štenglové a soudců JUDr. Miroslava Galluse a JUDr. Pavla Vosečka v právní věci žalobkyně Č. k. a., proti žalovaným 1) L. J., 2) B. K., o zaplacení částky 3,875.000,- Kč s příslušenstvím, vedené u Krajského soudu v Plzni pod sp. zn. 22 Cm 1817/95, o dovolání prvního žalovaného proti usnesení Vrchního soudu v Praze ze dne 26. února 2002, č.j. 9 Cmo 604/2001-158, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í:
+Vrchní soud v Praze shora označeným usnesením k odvolání prvního žalovaného potvrdil usnesení Krajského soudu v Plzni ze dne 22. listopadu 2001, č.j. 22 Cm 1817/95-151, v bodu 1. výroku, kterým soud prvního stupně určil, že v postavení žalobkyně bude nadále vystupovat Č. k. a. (jako právní nástupce K. b., s.p.ú.) a odmítl odvolání proti bodu II. jeho výroku, kterým soud prvního stupně připustil změnu žaloby. Následně soud prvního stupně vydal opravné usnesení ze dne 3. května 2002, č.j. 22 Cm 1817/95-166.
+Proti usnesení odvolacího soudu podal první žalovaný včas dovolání. Jelikož při podání dovolání nebyl zastoupen advokátem, soud prvního stupně jej usnesením ze dne 4. května 2002, č.j. 22 Cm 1817/95-167, doručeným dne 9. května 2002 (srov. doručenku u č.l. 167) vyzval k odstranění nedostatku povinného zastoupení ve lhůtě čtrnácti dnů od doručení usnesení.
+Se zřetelem k době vydání usnesení soudů obou stupňů se uplatní pro dovolací řízení – v souladu s body 1., 15. a 17., hlavy první, části dvanácté, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony – občanský soudní řád ve znění účinném od 1. ledna 2001 (dále též jen „o. s. ř.“).
+Podle ustanovení § 241 odst. 1 o. s. ř. dovolatel musí být zastoupen advokátem nebo notářem, jestliže nemá právnické vzdělání buď sám, nebo osoba uvedená v § 21 nebo v § 21a anebo v § 21b o. s. ř., která za něj jedná, přičemž notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními předpisy. Z dovolání zastoupení dovolatele nevyplývá a jiné listiny toto zastoupení nebo právnické vzdělání dovolatele prokazující, předloženy nebyly. Dovolatel pak nedostatek povinného zastoupení neodstranil, ač byl o procesních následcích nesplnění této podmínky poučen.
+Protože povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, bez jejíhož splnění nelze vydat - s výjimkou usnesení, jímž se dovolací řízení pro tento nedostatek zastavuje - rozhodnutí, kterým se řízení končí, a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu prvního stupně do dnešního dne nedošlo, Nejvyšší soud dovolací řízení podle § 104 odst. 2 a § 243c odst. 1 o. s. ř. zastavil.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 25. září 2002
+JUDr. Ivana Štenglová,v.r.
+předsedkyně senátu
