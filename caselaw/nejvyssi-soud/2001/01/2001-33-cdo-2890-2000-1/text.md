@@ -1,0 +1,24 @@
+33 Cdo 2890/2000
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce D.p. h. m. P. , a. s., proti žalovanému J. Š., o 208 Kč, vedené u Obvodního soudu pro Prahu 5 pod sp. zn. 6 C 356/2000, o dovolání žalovaného proti usnesení Městského soudu v Praze ze dne 31. srpna 2000 č. j. 39 Co 398/2000 - 6, takto :
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Praze usnesením ze dne 31. srpna 2000 č. j. 39 Co 398/2000-6 změnil platební rozkaz Obvodního soudu pro Prahu 5 ze dne 7. dubna 2000 č. j. 6 C 356/2000-1 v napadeném výroku o nákladech řízení tak, že jejich výše činí 1 150 Kč, jinak tento výrok potvrdil.
+Proti rozhodnutí soudu druhého stupně podal žalovaný včas dovolání. Namítá, že v označené věci byl naplněn předpoklad dovolání podle § 237 odst. 1 písm. f) o. s. ř. neboť mu byla postupem soudu odňata možnost před ním jednat. Uvedl, že tím, že odvolací soud rozhodl o jeho odvolání bez nařízení jednání, objektivně mu znemožnil vyjádřit se ke všem prováděným důkazům. Dále namítá nesprávné právní posouzení věci ve smyslu § 241 odst. 3 písm. d) o. s. ř. Navrhl zrušení rozhodnutí odvolacího soudu i platebního rozkazu soudu prvního stupně v části týkající se nákladů řízení.
+Podle ustanovení části dvanácté hlavy I bodu 17 zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, se dovolání proti rozhodnutím odvolacího soud vydaným přede dnem nabytí účinnosti tohoto zákona (1.1.2001) nebo vydaným po řízení provedeném podle dosavadních právních předpisů projednají a rozhodnou podle dosavadních právních předpisů (tedy podle občanského soudního řádu ve znění platném do 31.12 2000).
+Dovolání není přípustné.
+Podle § 236 odst. 1 lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Občanský soudní řád připouští dovolání proti usnesení odvolacího soudu za podmínek stanovených v ust. § 237 odst. 1, § 238a a § 239 o. s. ř.
+V daném případě žalovaný konkrétně poukazuje na důvod přípustnosti uvedený v ust. § 237 odst. 1 písm. f) o. s. ř. Jiné vady, které by bylo možno podřadit pod ust. § 237 odst. 1 o. s. ř., dovolatelem vytýkány nejsou a z obsahu spisu ani nevyplývají.
+Odnětím možnosti jednat před soudem ve smyslu ust. § 237 odst. 1 o. s. ř. se rozumí takový postup soudu, který účastníkovi odňal možnost realizovat procesní práva, jež mu občanský soudní řád dává. Z toho vyplývá, že má-li jít o naplnění předpokladu přípustnosti dovolání podle ustanovení § 237 odst. 1 písm. f) o. s. ř., musí jít ze strany soudu o porušení konkrétního procesního ustanovení, jehož bezprostředním následkem je odnětí možnosti účastníka jednat před soudem. Pokud však procesní předpis výslovně určitou povinnost neukládá (jako např. ustanovení § 214 odst. 2 o. s. ř. vymezuje okruh případů, kdy není potřeba nařizovat k projednání odvolání jednání, tj. kdy není dána povinnost soudu takové jednání nařídit), nemůže tomu odpovídající postup soudu naplnit předpoklady přípustnosti dovolání podle ust. § 237 odst. 1 písm. f) o. s. ř.
+V označené věci bylo odvolání podáno pouze do výroku o náhradě nákladů řízení. Soud druhého stupně podle ustanovení § 214 odst. 2 písm. f) o. s. ř. k jeho projednání nemusel nařídit jednání. Proto tedy o tomto odvolání rozhodl bez jednání a nezkrátil žalovaného na jeho procesních právech vyplývajících z občanského soudního řádu.
+Přípustnost dovolání podle ust. § 238a o. s. ř. nepřichází v projednávané věci v úvahu, protože podle ust. § 238 a odst. 1 písm. a) o. s. ř. je dovolání přípustné proti usnesení odvolacího soud, jímž bylo změněno usnesení soudu prvního stupně, to však neplatí, jde-li o usnesení o nákladech řízení.
+Ve prospěch založení přípustnosti dovolání nelze pak argumentovat ani ust. § 239 odst. 1 a 2 o. s. ř., neboť tato ustanovení předpokládají usnesení odvolacího soudu ve věci samé, jímž rozhodnutí o nákladech řízení není a navíc se v posuzovaném případě jedná o výrok měnící.
+Protože tady nebyl splněn předpoklad přípustnosti dovolání podle ust. § 237 odst. 1 písm. f) o. s. ř., přičemž nejde ani o žádný z případů přípustnosti dovolání podle ust. § 238a, § 239 o. s. ř. Nejvyšší soud ČR dovolání žalovaného jako nepřípustné odmítl podle § 243b odst. 4 a § 218 odst. 1 o. s. ř., niž se mohl zabývat dalšími námitkami dovolatele.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 4, věty první, § 224 odst. 1 a § 151 odst. 1, věty první a § 142 odst. 1 o. s. ř., neboť dovolatel s ohledem na výsledek řízení na náhradu svých nákladů nemá právo a žalobci v dovolacím řízení náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 31. ledna 2001
+JUDr. Kateřina H o r n o c h o v á , v.r.
+předsedkyně senátu
+Za správnost vyhotovení: Naděžda Solařová
