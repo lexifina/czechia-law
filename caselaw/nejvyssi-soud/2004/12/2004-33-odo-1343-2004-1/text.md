@@ -1,0 +1,16 @@
+33 Odo 1343/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy Víta Jakšiče a soudců JUDr. Blanky Moudré a JUDr. Ivany Zlatohlávkové ve věci žalobce Ing. Z. K., zastoupeného, advokátem, proti žalované České republice – Úřadu pro zastupování státu ve věcech majetkových se sídlem v Praze 10, Kodaňská 1441/46, IČ: 69797111, o zaplacení částky 5.150,- Kč s příslušenstvím, vedené u Okresního soudu v Písku pod sp. zn. 5 C 744/2002, o dovolání žalované proti rozsudku Krajského soudu v Českých Budějovicích ze dne 22. června 2004, č. j. 6 Co 1102/2004-68, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Písku (dále jen „soud prvního stupně“) rozsudkem ze dne 24. března 2004, č. j. 5 C 744/2002-54, uložil žalované povinnost zaplatit žalobci částku 5.150,- Kč s 10% úrokem z prodlení od 18. 9. 2002 do zaplacení do tří dnů od právní moci rozsudku a rozhodl o nákladech řízení.
+K odvolání žalované Krajský soud v Českých Budějovicích jako soud odvolací rozsudkem ze dne 22. června 2004, č. j. 6 Co 1102/2004-68, potvrdil rozsudek soudu prvního stupně ve výrocích o povinnosti žalované zaplatit žalobci částku 5.150,- Kč a o nákladech řízení, ve výroku o úroku z prodlení jej blíže specifikovaným způsobem změnil a rozhodl o nákladech odvolacího řízení.
+Proti tomuto rozsudku podala žalovaná dovolání, jehož přípustnost dovozovala jednak z poučení, kterého se účastníkům v rozsudku odvolacího soudu dostalo, jednak ze zásadního právního významu tohoto rozsudku. Toto dovolání však není přípustné.
+Podle § 236 odst. 1 občanského soudního řádu (dále jen „OSŘ“) lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Přípustnost dovolání proti rozsudku odvolacího soudu je upravena v § 237 odst. 1 písm. a) až c) OSŘ, přičemž pro všechny tyto případy platí odst. 2 téhož ustanovení, podle kterého není dovolání podle odst. 1 přípustné ve věcech, v nichž dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 20.000,- Kč a v obchodních věcech 50.000,- Kč; k příslušenství pohledávky se přitom nepřihlíží. V této věci je dovoláním napaden rozsudek, jímž bylo rozhodnuto o peněžitém plnění nepřevyšujícím 20.000,- Kč, a tak přípustnost dovolání nemůže být dána. Dovolatelce sice lze přisvědčit, že odvolací soud v napadeném rozsudku poučil účastníky tak, že proti tomuto rozsudku lze dovolání podat, ale toto nesprávné poučení není způsobilé přípustnost dovolání založit, neboť – jak už bylo uvedeno – přípustným může být jen takové dovolání, které z tohoto hlediska splňuje zákonem předpokládané podmínky, a tak tomu v daném případě není.
+Za této situace Nejvyššímu soudu ČR nezbylo, než podle § 243b odst. 5 věty prvé a § 218 písm. c) OSŘ dovolání žalované odmítnout, jelikož směřuje proti rozhodnutí, proti němuž zákon dovolání nepřipouští.
+O nákladech dovolacího řízení bylo rozhodnuto s přihlédnutím k tomu, že žalobci, který by podle § 243b odst. 5 věty prvé, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 OSŘ měl právo na jejich náhradu, v tomto řízení žádné náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 15. prosince 2004
+Vít Jakšič, v.r.
+předseda senátu
