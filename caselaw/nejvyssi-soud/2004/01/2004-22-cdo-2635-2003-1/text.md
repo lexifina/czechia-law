@@ -1,0 +1,19 @@
+22 Cdo 2635/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jiřího Spáčila, CSc., a soudců Víta Jakšiče a JUDr. Marie Rezkové ve věci žalobců: A) A. B., B) D. S., C) J. B. a D) A. B., všech zastoupených advokátem, proti žalovanému Ing. O. O., zastoupenému advokátem, o určení vlastnictví, vedené u Okresního soudu ve Žďáře nad Sázavou pod sp. Zn. 1 C 215/96, o dovolání žalobců proti rozsudku Krajského soudu v Brně ze dne 8. srpna 2003, č. j. 37 Co 437/99-68, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků řízení nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Krajský soud v Brně jako soud odvolací rozsudkem ze dne 8. srpna 2003, č. j. 37 Co 437/99-68, změnil rozsudek Okresního soudu ve Žďáře nad Sázavou (dále jen „soud prvního stupně“) ze dne 14. května 1999, č. j. 1 C 215/96-32, tak, že zamítl „návrh, aby bylo určeno, že pozemek p. č. st. 6/3 – jiná st. zastavěná plocha o výměře 32 m2 v k. ú. H., obec H., dle geometrického plánku č. 97-83/96 ze dne 10. 6. 1996, který je nedílnou součástí tohoto rozsudku, byl ke dni úmrtí paní A. B. dne 20. 10. 1999 ve společném jmění manželů A. a A. B.“, a rozhodl o nákladech řízení.
+Proti rozsudku odvolacího soudu podávají žalobci dovolání, v němž vyjadřují souhlas se skutkovými zjištěními soudu prvního stupně i soudu odvolacího, ale neztotožňují se s jejich právním posouzením odvolacím soudem. Ten podle jejich názoru nesprávně zhodnotil otázku dobré víry jako podmínky vydržení vlastnického práva ke spornému pozemku. Navrhují, aby dovolací soud zrušil rozsudek odvolacího soudu a věc mu vrátil k dalšímu řízení.
+Žalovaný se k dovolání nevyjádřil.
+Nejvyšší soud jako soud dovolací zjistil, že řádně zastoupení účastníci řízení podali dovolání opožděně.
+Odvolací soud v odůvodnění svého rozsudku výslovně uvedl, že podle bodu 15, hlavy I., části dvanácté zákona č. 30/2000 Sb., kterým byl novelizován občanský soudní řád, se odvolání proti rozhodnutí soudu prvního stupně, vydanému přede dnem nabytí účinnosti tohoto zákona nebo vydanému po řízení provedeném podle dosavadních právních předpisů, projedná a rozhodne podle dosavadních právních předpisů. Uvedený zákon nabyl účinnosti dnem 1. 1. 2001, v předmětné věci soud prvního stupně rozhodl 14. 5. 1999 a odvolací soud proto v odvolacím řízení postupoval a rozhodoval podle občanského soudního řádu ve znění platném do 31. 12. 2000.
+Podle bodu 17, hlavy I., části dvanácté zákona č. 30/2000 Sb., dovolání proti rozhodnutí odvolacího soudu, vydanému přede dnem nabytí účinnosti tohoto zákona nebo vydanému po řízení provedeném podle dosavadních právních předpisů, se projedná a rozhodne podle dosavadních právních předpisů. V dané věci odvolací soud, jak shora uvedeno, svoje rozhodnutí vydal po řízení provedeném podle dosavadních právních předpisů a Nejvyšší soud proto o dovolání rozhoduje podle občanského soudního řádu účinného před novelou provedenou citovaným zákonem (dále jen „OSŘ“).
+Podle § 240 odst. 1 OSŘ může účastník řízení podat dovolání do jednoho měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Rozsudek odvolacího soudu v dané věci nabyl právní moci 3. 10. 2003. Ve smyslu § 57 odst. 2 OSŘ bylo posledním dnem jednoměsíční lhůty k podání dovolání pondělí 3. 11. 2003. Pokud tedy žalobci předložili dovolání k přepravě poštou až 19. 11. 2003, podali je opožděně.
+Lhůta k podání dovolání je zákonnou lhůtou a není možné ji prodloužit. Nejvyšší soud proto podle § 243b odst. 4, § 218 odst. 1 písm. a) OSŘ opožděné dovolání odmítl.
+Výrok o náhradě nákladů dovolacího řízení vychází z neúspěšnosti žalobců v dovolacím řízení, kteří nemají právo na jejich náhradu, přičemž žalovanému žádné prokazatelné náklady dovolacího řízení nevznikly.
+Proti tomuto rozhodnutí není opravný prostředek přípustný.
+V Brně dne 21. ledna 2004
+JUDr. Jiří Spáčil, CSc.,v. r.
+předseda senátu
