@@ -1,0 +1,42 @@
+30 Cdo 1832/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy
+JUDr. Pavla Pavlíka a soudců JUDr. Romana Fialy a JUDr. Karla Podolky v právní věci žalobce R. K., zastoupeného advokátem, proti žalovanému J. K., zastoupenému advokátkou, o ochranu osobnosti, vedené u Krajského soudu v Hradci Králové pod sp. zn. 16 C 92/2001, o dovolání žalobce proti rozsudku Vrchního soudu v Praze ze dne
+27. listopadu 2003, č.j. 1 Co 276/2003-80, t a k t o :
+I. Dovolání žalobce se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Hradci Králové rozsudkem ze dne 2. května 2003, č.j. 16 C 92/2001-55 zamítl žalobu, podle níž měl být žalovaný uznán povinným zaplatit žalobci částku 500.000,- Kč z titulu náhrady nemajetkové újmy v penězích (§ 13 odst. 2 občanského zákoníku - dále jen \"o.z.\") a rozhodl o náhradě nákladů řízení.
+Vrchní soud v Praze rozsudkem ze dne 27. listopadu 2003 pod č.j. 1 Co 276/2003-80 rozsudek soudu prvního stupně potvrdil. Rozhodl o náhradě nákladů odvolacího řízení.
+Odvolací soud vycházel ze zjištění, že žalobce tvrdí, že žalovaný se měl vůči němu dopustit poškození jeho práv tím, že jeho jménem podepsal přihlášku k odběru elektrické energie, takže měl zneužít jeho osobních údajů (rodného čísla, atd.) a potvrzením revizního technika, že rozvod elektřiny do bytu žalobce je v souladu se zákonem. To žalovaný měl učinit v době, kdy žalobce byl v nemocnici. Jednáním žalovaného měla být snížena důstojnost jak žalobce, tak jeho rodiny. Odvolací soud pak sám, když přejal skutková zjištění učiněná soudem prvního stupně, vycházel z toho, že žalovaný vyplnil jen tu část přihlášky k odběru elektřiny, která se vztahovala k revizi měřícího zařízení (elektroměry), jak byl o to požádán ústní objednávkou ředitele školy. Důvodem bylo to, že žalobce přestal vykonávat školnické práce. Tak zanikl nárok na bezplatný odběr elektřiny smluvený v dohodě ze dne 20. března 1990.
+Žalovaný se vůči žalobci nedopustil žádného podvodu. V řízení nebylo prokázáno, že by žalobce podepsal přihlášku k odběru elektrické energie, ani, že by zneužil jeho osobní údaje (když ani nevysvětlil, jakým způsobem se tak mělo stát). Je pak všeobecně známo, že přihláška k odběru elektřiny, která je základem smluvního vztahu, je záležitostí subjektu, který energii dodává a toho, kdo ji odebírá – nikoliv záležitostí vztahu mezi revizním technikem a odběratelem. Žalovaný se tak nedopustil žádného neoprávněného zásahu do chráněných osobnostních práv ve smyslu § 11 násl. o.z. Jestliže nebyl prokázán neoprávněný zásah do osobnostních práv žalobce, nelze dovodit ani odpovědnost žalovaného podle ustanovení § 13 o.z. Odvolací soud proto rozsudek soudu prvního stupně podle ustanovení § 219 občanského soudního řádu (dále jen \"o.s.ř.\") potvrdil jako správný.
+Rozsudek odvolacího soudu nabyl právní moci dne 16. ledna 2004, přičemž dovolateli (jeho zástupci) byl doručen téhož dne.
+Proti uvedenému rozsudku odvolacího soudu podal žalobce dne 8. března 2004 včasné dovolání, doplněné podáním jeho zástupce ze dne 4. června 2004. Má zato, že
+v tomto případě jsou naplněny předpoklady přípustnosti dovolání podle § 237 odst. 1 písm. c) o.s.ř. Nesouhlasí s napadeným rozsudkem a namítá dovolací důvody ve smyslu ustanovení § 241a odst. 2 písm. a), b) a odst. 3 o.s.ř. Dovolatel proto navrhl, aby napadené rozhodnutí odvolacího soudu bylo zrušeno, a aby věc byla vrácena k dalšímu řízení.
+K uvedenému dovolání se žalovaný nevyjádřil.
+Dovolání žalobce není přípustné.
+Podle ustanovení § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Dovolání je podle ustanovení § 237 odst. 1 o.s.ř. přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího soudu
+- jimiž bylo změněno rozhodnutí soudu prvního stupně ve věci samé
+(§ 237 odst. 1 písm. a/ o.s.ř.),
+- jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak, než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil (§ 237 odst. 1 písm. b/ o.s.ř.),
+- jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není přípustné podle poslední z již uvedených možností, a dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé
+po právní stránce zásadní význam (§ 237 odst. 1 písm. c/ o.s.ř.).
+S ohledem na zjištění obsahu spisu je třeba dovodit, že v této věci není přípustnost dovolání založena ustanovením § 237 odst. 1 písm. a) a b) o.s.ř., neboť napadeným rozsudkem nebyl změněn rozsudek soudu prvního stupně, resp. rozsudku soudu prvního stupně nepředcházel jiný, a odvolacím soudem později zrušený rozsudek téhož soudu.
+Z uvedeného tedy vyplývá, že přípustnost dovolání v označené věci by při splnění zákonných předpokladů mohla být založena jedině v případě, pokud by dovolací soud dospěl k závěru, že dovoláním napadené rozhodnutí ve věci samé má po právní stránce zásadní význam (§ 237 odst. 1 písm. c/ o.s.ř.). Tak tomu však v posuzované věci ve skutečností není.
+Již zmíněným ustanovením § 237 odst. 1 písm. c) o.s.ř. procesní předpis umožňuje dovolacímu soudu uvážit, zda význam rozhodnutí vyžaduje v konkrétní věci jeho přezkoumání v dovolacím řízení. Přezkoumání rozhodnutí odvolacího soudu tímto způsobem má přesto v zásadě povahu výjimečného opatření, a je vyhrazeno jen pro řešení závažných právních otázek, přičemž je nezbytné, aby šlo o takové otázky, které se staly vlastním právním podkladem rozhodnutí odvolacího soudu.
+Pokud se týče samotného dovolacího důvodu zmíněného v předchozím odstavci, pak je třeba zkoumat, zda rozhodnutí skutečně spočívá na nesprávném právním posouzení věci. Tím se především míní, že soudem byl aplikován nesprávný právní předpis, případně, že sice soud užil odpovídající předpis, avšak nepřiléhavě jej na daný případ vyložil. Jak vyplývá z obsahu spisu, o žádnou z takových eventualit se v souzené věci nejedná.
+Rozhodnutí odvolacího soudu má po právní stránce zásadní význam zejména tehdy, řeší-li právní otázku, která v rozhodování dovolacího soudu nebyla dosud vyřešena nebo která je odvolacími soudy nebo dovolacím soudem rozhodována rozdílně, nebo řeší-li právní otázku v rozporu s hmotným právem (§ 237 odst. 3 o.s.ř.). Tyto předpoklady však v souzeném případě naplněny nejsou. Je třeba uvážit, že soudy obou stupňů na základě zjištěného skutkového stavu zjistily, že v daném případě činností žalovaného jako revizního technika v popsaném případě nedošlo k zásahu
+do osobnostních práv žalobce. Tyto úvahy odvolacího soudu o tom, že žalobci se nepodařilo unést důkazní břemeno, že by žalovaný neoprávněně zasáhl do jeho osobnostních práv, se jeví jako zcela přiléhavé. Ostatně samotné dovolání žalobce (jímž je dovolací soud vázán - § 242 odst. 1 až 3 o.s.ř.) neuvádí nic, co by tento závěr soudů obou stupňů zásadněji zpochybňovalo, neboť argumentace je spojována pouze s tím že žalobce byl v době vyplnění (příslušné části) přihlášky žalovaným v nemocnici (což však nic nemění na přiléhavosti úvah odvolacího soudu o neprokázání zásahu
+do osobnostních práv žalobce v popisovaném případě). Aplikace ustanovení § 11 násl. o.z. odvolacím soudem je pak zcela konformní s ustálenou judikaturou vážící se
+k tomuto ustanovení.
+Z uvedených důvodů tedy není možno považovat napadené rozhodnutí
+za rozhodnutí po právní stránce zásadního významu, jak to má na mysli ustanovení
+§ 237 odst. 1 písm. c) a odst. 3 o.s.ř.
+Dovolací soud proto uvážil, že přípustnost dovolání žalobce v této věci tedy není založena na základě ustanovení § 237 o.s.ř., resp. ani na podkladě ustanovení § 238,
+§ 238a a § 239 o.s.ř., když nejsou naplněny předpoklady obsažené v těchto ustanoveních. Protože tak není dán žádný z případů přípustnosti dovolání, Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) proto toto dovolání jako nepřípustné odmítl (§ 243b odst. 5 o.s.ř. ve spojení s § 218 písm. c/ téhož zákona). Rozhodoval, aniž nařídil jednání (§ 243a odst. l věta první o.s.ř.).
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 5 věta prvá o.s.ř. ve spojení s § 224 odst. 1, § 151 a § 146 odst. 3 o.s.ř., když dovolání v této věci bylo odmítnuto, avšak žalovanému v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 21. prosince 2004
+JUDr. Pavel Pavlík, v. r.
+předseda senátu
