@@ -1,0 +1,34 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+32 Odo 708/2003-104
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobkyně V., t. z. a.s. proti žalovaným 1) J. H., zastoupenému Mgr. P. O., advokátem a 2) P., státnímu podniku v likvidaci, zastoupenému JUDr. P. Š., advokátem, o zaplacení částky 1,877.873,- Kč, vedené u Okresního soudu v Pardubicích pod sp. zn. 7 C 5/96, o dovolání prvního žalovaného proti usnesení Krajského soudu v Hradci Králové ze dne 26. dubna 2001, č.j. 22 Co 183/2001, 22 Co 184/2001 – 77, takto:
+I. Dovolání 1) žalovaného, v části směřující proti výroku II. usnesení odvolacího soudu, se odmítá.
+II. Ve zbývající části se dovolání zamítá.
+III. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Hradci Králové v záhlaví označeným usnesením odmítl pro opožděnost odvolání prvního žalovaného proti rozsudku Okresního soudu v Pardubicích ze dne 23. června 2000, č.j. 7 C 5/96-32, a žádnému z účastníků nepřiznal právo na náhradu nákladů odvolacího řízení (první výrok), a potvrdil usnesení téhož soudu ze dne 8. března 2001, č.j. 7 C 5/96-69, jímž soud prvního stupně nepřiznal prvnímu žalovanému osvobození od soudních poplatků (druhý výrok).
+Usnesení odvolacího soudu, a to v celém jeho rozsahu, napadl první žalovaný včasným dovoláním. Namítal, že rozhodnutí odvolacího soudu vychází z nesprávného názoru „na běh lhůt“ a navíc se nezabývá právní podstatou důvodu odvolání, tj. protiprávností tzv. „určení výše závazků podle § 15 zák. č. 92/1991 Sb.“ Ve vztahu k „nepřiznání osvobození od soudních poplatků“ zdůrazňoval, že vlastní pouze majetek uvedený v „prohlášení“ a není schopen vyměřený soudní poplatek z odvolání zaplatit.
+Požadoval, aby dovolací soud usnesení odvolacího soudu zrušil a věc mu vrátil k dalšímu řízení.
+Podle bodu 17., hlavy I., části dvanácté, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů, tj. podle občanského soudního řádu ve znění účinném do 31. prosince 2000. O takový případ jde i v této věci, když odvolací soud o odvolání prvního žalovaného rozhodl v souladu s bodem 15., hlavy I., části dvanácté, zákona č. 30/2000 Sb. podle občanského soudního řádu ve znění účinném do 31. prosince 2000, jak výslovně zmínil v důvodech usnesení.
+První žalovaný svým dovoláním v prvé řadě napadl výrok usnesení odvolacího soudu, jímž bylo potvrzeno usnesení soudu prvního stupně o nepřiznání osvobození od soudních poplatků.
+V této části není dovolání přípustné.
+Podle ustanovení § 236 odst. 1 o. s. ř. dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti usnesení upravují ustanovení § 237, § 238a a § 239 o. s. ř.
+Podle ustanovení § 238a odst. 1 písm. a) o. s. ř. není dovolání přípustné proto, že usnesení odvolacího soudu není usnesením měnícím, přičemž napadené rozhodnutí nelze podřadit ani případům vyjmenovaným v ustanovení v § 238a odst. 1 písm. b) až f) o. s. ř.
+Podmínky určené v ustanovení § 239 o. s. ř. daná věc rovněž nesplňuje, neboť usnesení odvolacího soudu není usnesením ve věci samé.
+Zbývá posoudit přípustnost dovolání podle ustanovení § 237 odst. 1 o. s. ř. Toto ustanovení spojuje přípustnost dovolání proti každému rozhodnutí odvolacího soudu (s výjimkami zakotvenými v odstavci 2) s takovými hrubými vadami řízení a rozhodnutí, které činí rozhodnutí odvolacího soudu zmatečným. Přípustnost dovolání však není založena již tím, že dovolatel příslušnou vadu řízení tvrdí, ale zjištěním, že řízení takovou vadou skutečně trpí.
+V daném případě pak dovolatel existenci žádné ze zmatečnostích vad předvídaných ustanovením § 237 odst. 1 o. s. ř. netvrdí, přičemž tyto vady nevyplývají ani z obsahu spisu.
+Jelikož dovolání v předmětné části není přípustné, Nejvyšší soud je v intencích ustanovení § 243b odst. 4 a § 218 odst. 1 písm. c) o. s. ř. odmítl.
+Ve zbývající části, tj. v rozsahu výroku, jímž bylo odvolání prvního žalovaného pro opožděnost odmítnuto, je dovolání přípustné podle ustanovení § 238a odst. 1 písm. e) o. s. ř.; není však důvodné.
+Dovolací námitku žalovaného, podle které rozhodnutí odvolacího soudu vychází z nesprávného názoru na „běh lhůt“, lze podřadit pod dovolací důvod podle ustanovení § 241 odst. 3 písm. d) o. s. ř., jehož prostřednictvím lze namítat, že rozhodnutí spočívá na nesprávném právním posouzení věci.
+Právní posouzení věci je obecně nesprávné, jestliže odvolací soud posoudil věc podle právní normy, jež na zjištěný skutkový stav nedopadá, nebo právní normu, sice správně určenou, nesprávně vyložil, případně ji na daný skutkový stav nesprávně aplikoval.
+Podle ustanovení § 204 odst. 1 o. s. ř. odvolání se podává do patnácti dnů od doručení rozhodnutí u soudu, proti jehož rozhodnutí směřuje. Bylo-li vydáno opravné usnesení, běží tato lhůta znovu od doručení opravného usnesení.
+V souzené věci z obsahu spisu vyplývá - a dovolatel tuto skutečnost nezpochybňuje - že rozsudek soudu prvního stupně, který obsahuje správné a úplné poučení o opravném prostředku ve smyslu ustanovení § 204 odst. 1 věty první o. s. ř. (viz. poučení na č.l. 35 spisu), byl zástupci prvního žalovaného doručen do vlastních rukou 28. července 2000 (srov. doklad o doručení u č.l. 35). Poslední den patnáctidenní lhůty k podání odvolání pak v intencích ustanovení § 57 odst. 2 o. s. ř. připadl na 14. srpna 2000 (pondělí). Dovolání podané osobně u soudu prvního stupně 15. srpna 2000 je tudíž opožděné a odvolací soud postupoval správně, pokud takové odvolání podle ustanovení § 218 odst. 1 písm. a) o. s. ř. odmítl.
+Důvodnost dovolání pak není způsobilá založit ani námitka dovolatele, že se odvolací soud „nezabýval právní podstatou důvodu odvolání“, když povaha rozhodnutí odvolacího soudu, jímž se řízení končí, vylučovala možnost věcného přezkumu rozhodnutí soudu prvního stupně (srov. mutatis mutandis usnesení Nejvyššího soudu uveřejněné pod číslem 47/2000 Sbírky soudních rozhodnutí a stanovisek).
+Jelikož se dovolateli prostřednictvím uplatněných dovolacích důvodu správnost rozhodnutí odvolacího soudu zpochybnit nepodařilo, dovolací soud je - v části, v níž bylo shledáno přípustným - podle ustanovení § 243b odst. 1 věty před středníkem, odst. 5 o. s. ř. zamítl.
+Výrok o nákladech dovolacího řízení se opírá o ustanovení § 243b odst. 4, § 224 odst. 1, § 146 odst. 2 věty první (per analogiam) a § 142 odst. 1 o. s. ř. , když dovolání prvního žalovaného bylo zčásti odmítnuto a zčásti zamítnuto a z obsahu spisu se nepodává, že by žalobkyni v dovolacím řízení nějaké náklady vznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 16. září 2003
+JUDr. Miroslav Gallus, v.r.
+předseda senátu
