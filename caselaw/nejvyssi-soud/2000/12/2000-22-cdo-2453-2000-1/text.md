@@ -1,0 +1,22 @@
+22 Cdo 2453/2000
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci žalobců: A) J. a B) M. P., proti žalovanému Českému státu - Okresnímu úřadu P., o zrušení kolaudačního rozhodnutí vydaného Městským úřadem M., rozhodnutí městského úřadu N. vydaná k legalizování černé stavby, a o odstranění staveb kůlny pro zemědělské stroje postavené manžely P., vedené u Okresního soudu v Prachaticích pod sp. zn. 6 C 578/98, o dovolání žalobců proti usnesení Krajského soudu v Českých Budějovicích ze dne 18. února 2000, čj. 7 Co 3530/99-51, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Prachaticích usnesením ze dne 27. října 1999, čj. 6 C 578/98-41, v této věci podle § 43 odst. 2 o. s. ř. zastavil řízení, neboť se mu nepodařilo dosáhnout toho, aby žalobci navrhli přesný a určitý petit a rozhodl o nákladech řízení.
+Krajský soud v Českých Budějovicích jako soud odvolací shora označeným usnesením odmítl odvolání žalobců proti usnesení soudu prvního stupně jako opožděné a rozhodl o nákladech odvolacího řízení.
+Žalobci podali proti usnesení odvolacího soudu dovolání, které řádně neodůvodnili a nezvolili si advokáta svým zástupcem.
+Protože toto dovolání nemělo stanovené náležitosti, byli žalobci usnesením soudu prvního stupně ze dne 1. srpna 2000, čj, 6 C 578/98-68, vyzváni, aby do 30 dnů od doručení usnesení, žalobce A) předložil soudu k prokázání právnického vzdělání ověřenou kopii vysokoškolského diplomu, nebo aby si v téže lhůtě zvolil zástupcem pro dovolací řízení - advokáta a tuto skutečnost doložil soudu předložením plné moci s tím, že ve stejné lhůtě předloží i advokátem sepsané dovolání, kde budou uvedeny důvody, pro které dovolání podává.
+Soud prvního stupně dále vyzval žalobkyni B), aby si ve stejné lhůtě zvolila zástupce pro dovolací řízení a toto doložila soudu předložením plné moci s tím, že ve stejné lhůtě musí být předloženo advokátem sepsané dovolání. Žalobci byli dále poučeni, že nebude-li přes tuto výzvu podání opraveno nebo doplněno a nebude-li doložena plná moc advokáta, či doklad o právnickém vzdělání, soud řízení zastaví. Toto usnesení bylo žalobcům řádně doručeno a k odstranění uvedených nedostatků nedošlo.
+Podle § 241 odst. 1 věty prvé o. s. ř. musí být dovolatel zastoupen advokátem, pokud nemá právnické vzdělání buď sám nebo jeho zaměstnanec (člen), který za něj jedná. Z dovolání zastoupení dovolatele advokátem nevyplývá a ověřená kopie vysokoškolského diplomu prokazujících právnické vzdělání dovolatele, nebyla předložena.
+Podle § 241 odst. 2 věty první o. s. ř. musí být v dovolání vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu a z jakých důvodů se toto rozhodnutí napadá, popř. které důkazy by měly být provedeny k prokázání důvodů dovolání, a čeho se dovolatelé domáhají. Podle odst. 3 téhož ustanovení pak lze dovolání podat jen z toho důvodu, že v řízení došlo k vadám uvedeným v § 237 o. s. ř. (písm. a/), řízení je postiženo jinou vadou, která mohla mít za následek nesprávné rozhodnutí ve věci (písm. b/), rozhodnutí vychází ze skutkového zjištění, které nemá v podstatné části oporu v provedeném dokazování (písm. c/) nebo že rozhodnutí spočívá na nesprávném právním posouzením věci (písm. d/).
+Podle § 43 odst. 2 o. s. ř. není-li přes výzvu předsedy senátu podání opraveno nebo doplněno a v řízení nelze pro tento nedostatek pokračovat, soud řízení zastaví. O těchto následcích musí být účastník poučen.
+Dovolatelé ve stanovené lhůtě neodstranili ani nedostatek povinného zastoupení advokátem, ani vady dovolání, ač byli o procesních následcích řádně poučeni. Protože rozhodnutí odvolacího soudu lze zásadně přezkoumat jen z důvodů uplatněných v dovolání (§ 243 odst. 2 věta první o. s. ř.) a za splnění podmínky zastoupení advokátem (§ 241 odst. 1 o. s. ř.), přičemž dovolání důvody postrádá a zastoupení advokátem není doloženo, nelze v dovolacím řízení pro tyto nedostatky pokračovat.
+Dovolací soud proto podle § 243b odst. 4 věta druhá o. s. ř. dovolací řízení zastavil.
+Výrok o nákladech dovolacího řízení je odůvodněn tím, že žalobci nebyli v řízení úspěšní a žalovanému náklady nevznikly (§ 243b odst. 4, § 224 odst. 1, § 151 odst. 1 a § 142 odst. 1 o. s. ř.).
+Proti tomuto usnesení není opravný prostředek.
+V Brně dne 20. prosince 2000
+JUDr. Marie R e z k o v á , v.r.
+předsedkyně senátu
+Za správnost vyhotovení: Marcela Jelínková
