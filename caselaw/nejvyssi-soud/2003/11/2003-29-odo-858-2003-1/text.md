@@ -1,0 +1,17 @@
+29 Odo 858/2003
+U S N E S E N Í
+Rozhodnutí bylo úspěšně uloženo. Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Krčmáře a soudců JUDr. Františka Kučery a JUDr. Ivany Štenglové v právní věci žalobce P. o. s., proti žalované S., spol. s r. o., zastoupené, advokátem, o 661.734,50 Kč s příslušenstvím, vedené u Krajského soudu v Brně pod sp. zn. 41 Cm 181/99, o dovolání subjektu označeného jako „H. M., P. o. s., V. o. s., V…, … S., IČO: …“ proti usnesení Vrchního soudu v Olomouci ze dne 30. října 2002, č. j. 8 Cmo 84/2002?120, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Podáním datovaným 8. března 2003, založeným na č. l. 127, napadl usnesení Vrchního soudu v Olomouci ze dne 30. října 2002, č. j. 8 Cmo 84/2002 – 120, subjekt označený jako „H. M., P. o. s., V. o. s., V…, … S., IČO: …“.
+Podle ustanovení § 241 odst. 1 občanského soudního řádu (dále též jen „o. s. ř.“), dovolatel musí být zastoupen advokátem nebo notářem; to neplatí, má-li dovolatel právnické vzdělání, popřípadě jedná-li za něj osoba uvedená v § 21 nebo v § 21a anebo v § 21b, která má právnické vzdělání. Notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními předpisy.
+Z dovolání zastoupení dovolatele advokátem zapsaným v seznamu advokátů vedeném Českou advokátní komorou nevyplývá, stejně jako z něj nevyplývá, že dovolatel sám má odpovídající právnické vzdělání, nebo že odpovídající právnické vzdělání má osoba uvedená v § 21 o. s. ř., která za něj jedná. Proto Nejvyšší soud usnesením ze dne 3. listopadu 2003, č. j. 29 Odo 858/2003-144, dovolatele vyzval, aby ve lhůtě jednoho týdne nedostatek povinného zastoupení odstranil. Současně mu uložil, aby v téže lhůtě doplnil dovolání tím, že se řádně identifikuje jako dovolatel (aby bylo seznatelné, zda dovolatelem je právnická či fyzická osoba) a uvede, pro který z dovolacích důvodů dovolání podává.
+Na toto usnesení, jež mu bylo doručeno 12. listopadu 2003, reagoval M. H. podáním došlým soudu 21. listopadu 2003, v němž sdělil, že pokládá za zbytečné na výzvu reagovat, jelikož jedno podání mu již Nejvyšší soud zamítl, a že řešení své záležitosti očekává od mezinárodního soudu ve Štrasburgu.
+Protože povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, bez jejíhož splnění nelze dovolání meritorně projednat, a protože ke zhojení tohoto nedostatku podatelem přes výzvu Nejvyššího soudu (jež obsahovala i poučení o následcích nečinnosti v uvedeném směru) do dnešního dne nedošlo, Nejvyšší soud dovolací řízení podle § 104 odst. 2 a § 243c odst. 1 o. s. ř. zastavil.
+Pro úplnost se dodává, že kdyby nedošlo k zastavení dovolacího řízení, muselo by dovolání být odmítnuto postupem podle § 43 odst. 2 a § 243c odst. 1 o. s. ř., neboť podatel přes příslušné poučení obsažené v označené výzvě ani nevyjasnil, kým je vlastně dovolání podáno (zda jde o fyzickou osobou nebo o právnickou osobu a o jakou).
+Dovolatel z procesního hlediska zavinil, že dovolací řízení muselo být zastaveno, u žalované však žádné prokazatelné náklady tohoto řízení zjištěny nebyly. Této procesní situaci odpovídá ve smyslu ustanovení § 146 odst. 2 věty první o. s. ř. výrok o tom, že na náhradu nákladů dovolacího řízení nemá právo žádný z účastníků.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 27. listopadu 2003
+JUDr. Zdeněk Krčmář, v.r.
+předseda senátu
