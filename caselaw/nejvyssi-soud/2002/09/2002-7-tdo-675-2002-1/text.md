@@ -1,0 +1,15 @@
+7 Tdo 675/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v neveřejném zasedání konaném dne 24. září 2002 v Brně o dovolání obviněného por. Ing. M. P., které podal proti usnesení Krajského soudu v Ostravě – pobočky v Olomouci ze dne 29. 4. 2002, sp. zn. 2 To 11/2002, v trestní věci vedené u Okresního soudu v Olomouci pod sp. zn. 2 T 138/2001, t a k t o :
+Podle § 265i odst. 1 písm. b) tr. ř. se dovolání o d m í t á .
+O d ů v o d n ě n í :
+Usnesením Krajského soudu v Ostravě – pobočky v Olomouci ze dne 29. 4. 2002, sp. zn. 2 To 11/2002, bylo jako nedůvodné podle § 256 tr. ř. zamítnuto odvolání obviněného, které podal proti rozsudku Okresního soudu v Olomouci ze dne 20. 11. 2001, sp. zn. 2 T 138/2001, jímž byl uznán vinným trestným činem zneužívání pravomoci veřejného činitele podle § 158 odst. 1 písm. a) tr. zák. a odsouzen podle § 158 odst. 1 tr. zák. k trestu odnětí svobody na 6 měsíců, jehož výkon byl podle § 58 odst. 1 písm. a) a § 59 odst. 1 tr. zák. podmíněně odložen na zkušební dobu v trvání 1 roku.
+Proti usnesení odvolacího soudu podal obviněný včas prostřednictvím obhájce dovolání z důvodu § 265b odst. 1 písm. g) tr. ř. V jeho odůvodnění namítá, že mu vina nebyla nepochybně prokázána a o skutkovém ději vznikly tak výrazné pochybnosti, že měl odvolací soud vycházet ze zásady in dubio pro reo. Navrhl proto, aby dovolací soud napadený rozsudek zrušil a přikázal soudu I. stupně věc znovu projednat a rozhodnout nebo aby dovolací soud rozhodl sám a podle § 226 písm. a) tr. ř. jej zprostil obžaloby.
+Státní zástupkyně Nejvyššího státního zastupitelství ve vyjádření k dovolání uvedla, že formálně uplatněný dovolací důvod není v souladu s obsahem odůvodnění, které neodpovídá ani žádnému jinému zákonnému důvodu dovolání. Navrhla proto, aby bylo dovolání obviněného podle § 265i odst. 1 písm. b) tr. ř. odmítnuto v neveřejném zasedání.
+Nejvyšší soud zjistil, že dovolání bylo podáno z jiného důvodu, než je uveden v § 265b tr. ř.
+Dovolací důvod podle § 265b odst. 1 písm. g) tr. ř. je dán v případech, kdy rozhodnutí spočívá na nesprávném právním posouzení skutku nebo jiném nesprávném hmotněprávním posouzení. Podle tohoto ustanovení lze tedy namítat, že daný skutek byl chybně posouzen jako trestný čin, ačkoliv o trestný čin nejde, anebo jde o jiný trestný čin. Ze znění tohoto ustanovení tedy vyplývá, že prostřednictvím tohoto dovolacího důvodu (ani žádného jiného) nelze namítat nedostatečně zjištěný skutkový stav, který je v dovolacím řízení nezpochybnitelný a pro dovolací soud závazný. Z obsahu dovolání je však zřejmé, že dovolatel své námitky směřuje výlučně proti skutkovým zjištěním a nikoli proti právnímu posouzení skutku.
+Dovolání obviněného bylo proto odmítnuto podle § 265i odst. 1 písm. b) tr. ř., aniž dovolací soud mohl z jeho podnětu napadené rozhodnutí přezkoumat. Za podmínek § 265r odst. 1 písm. a) tr. ř. bylo o dovolání rozhodnuto v neveřejném zasedání.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 24. září 2002
+Předseda senátu:
+JUDr. Michal Mikláš
