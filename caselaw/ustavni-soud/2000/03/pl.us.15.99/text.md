@@ -1,0 +1,450 @@
+Pl.ÚS 15/99 ze dne 15. 3. 2000
+
+
+
+
+
+
+
+
+80/2000 Sb.
+N 38/17 SbNU 263
+
+
+
+
+
+
+
+
+Přednostní převod zemědělské půdy z vlastnictví státu na fyzické osoby
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Česká republika
+
+
+
+
+
+
+
+
+
+
+NÁLEZ
+
+
+
+
+
+
+
+
+
+
+Ústavního soudu
+
+
+
+
+
+
+
+
+
+
+Jménem republiky
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Plénum Ústavního soudu
+, rozhodlo  dnešního dne ve věci návrhu
+skupiny poslanců  Poslanecké sněmovny Parlamentu  České republiky,
+zastoupených  JUDr.  Z.  K.,  Ph.D.,  a  Ing.  L.  S.,  na zrušení
+ustanovení  §  4  odst.  2  věta  za  středníkem  ve slovech "tato
+právnická  osoba  může  nabýt  pouze  zemědělský  pozemek  uvedený
+v § 5 odst. 4", ustanovení § 7  odst. 1 písm. d) ve slovech "písm.
+a)" a ustanovení § 8 odst. 1 ve slovech "písm. a), b) a d)" zákona
+č.  95/1999  Sb.,  o  podmínkách  převodu  zemědělských  a lesních
+pozemků  z vlastnictví státu  na jiné  osoby a  o změně  zákona č.
+569/1991  Sb.,  o  Pozemkovém  fondu  České  republiky,  ve  znění
+pozdějších  předpisů, a  zákona č.  357/1992 Sb.,  o dani dědické,
+dani darovací  a dani z převodu  nemovitostí, ve znění  pozdějších
+předpisů, takto:
+
+
+
+
+
+
+Návrh se zamítá.
+
+
+
+
+
+
+Odůvodnění
+                               I.
+     Dne  14.  6.  1999  podala  skupina  54  poslanců  Poslanecké
+sněmovny  Parlamentu  České  republiky,  zastoupená  v řízení před
+Ústavním  soudem  JUDr.  Z.  K.  a  ing.  L.  S., návrh na zrušení
+ustanovení  §  4  odst.  2  věta  za  středníkem  ve slovech "tato
+právnická  osoba  může  nabýt  pouze  zemědělský  pozemek  uvedený
+v § 5 odst. 4", ustanovení § 7  odst. 1 písm. d) ve slovech "písm.
+a)" a ustanovení § 8 odst. 1 ve slovech "písm. a), b) a d)" zákona
+č.  95/1999  Sb.,  o  podmínkách  převodu  zemědělských  a lesních
+pozemků  z vlastnictví státu  na jiné  osoby a  o změně  zákona č.
+569/1991  Sb.,  o  Pozemkovém  fondu  České  republiky,  ve  znění
+pozdějších  předpisů, a  zákona č.  357/1992 Sb.,  o dani dědické,
+dani darovací  a dani z převodu  nemovitostí, ve znění  pozdějších
+předpisů. Uvedený  zákon byl publikován  ve Sbírce zákonů  dne 25.
+5. 1999. Skupina poslanců ve  svém návrhu tvrdí, že citovaný zákon
+porušuje ústavně zaručenou rovnost vlastnických forem nepřípustnou
+a ústavně   neodůvodněnou    preferencí   zemědělského   podnikání
+samostatně   hospodařících   rolníků   a   diskriminuje  podnikání
+právnických osob, zaručené čl. 11 a čl. 26 Listiny základních práv
+a svobod (dále jen "Listina"). Navrhovatelé konkrétně poukazují na
+skutečnost, že  uvedený zákon zakotvuje  podmínku, že státní  půda
+může  být prodána  jen fyzické  osobě nebo  obci s velmi  omezenou
+výjimkou  prodeje zastavěných  pozemků též  právnickým osobám. Dle
+§ 7  odst.   1  napadeného  zákona  Pozemkový   fond  může  prodat
+zemědělské  pozemky oprávněným  osobám (dle  zákona o  půdě), dále
+samostatně  hospodařícím  rolníkům,  kteří  prokazatelně provozují
+zemědělskou  výrobu  minimálně  dva  roky  na  pozemcích o rozloze
+nejméně  10  hektarů  v katastrálním  nebo  přilehlém  území obce,
+k níž  patří i  pozemky  určené  k prodeji, členům  družstev resp.
+společníkům  obchodních společností,  které provozují  zemědělskou
+výrobu nejméně dva roky na pozemcích v katastrálním nebo přilehlém
+území obce  a konečně fyzickým  osobám české státní  příslušnosti,
+které  vlastní  nejméně  10  hektarů  zemědělské  půdy na uvedeném
+území. Dle důvodové zprávy k zákonu jedná  se o prodej cca 500 000
+ha  zemědělské  půdy  v rámci  privatizace  státního  zemědělského
+majetku.
+     Podle  názoru navrhovatelů  je samozřejmě  ve volné dispozici
+vlastníka prodat  svůj majetek komukoliv  v rámci soukromoprávních
+vztahů, v tomto případě upravených občanským zákoníkem. Je zřejmé,
+že  stejnou smluvní  volnost má  i stát,  který v soukromoprávních
+vztazích   vystupuje  jako   právnická  osoba   (§  21  občanského
+zákoníku).  Jiná situace  však  nastává,  pokud stát  chce upravit
+prodej svého  majetku zvláštním zákonem,  který jako veřejnoprávní
+předpis   vstupuje  do   smluvní  svobody   garantované  občanským
+zákoníkem. Tato jiná situace podle navrhovatelů nastane, když stát
+cestou zákona direktivně reguluje podmínky kupní smlouvy na straně
+kupujícího,  který není  veřejnoprávní korporace.  Stát samozřejmě
+může omezit nabývání vlastnictví,  ale jen při prokázání veřejného
+zájmu.  Jinak  nepřípustně   používá  veřejnoprávní  typ  regulace
+v klasicky  soukromoprávní oblasti.  Zde odkazují  navrhovatelé na
+nálezy  Ústavního  soudu,  které  obdobně  vyslovily nepřípustnost
+zásahů obcí  formou obecně závazných  vyhlášek do soukromoprávních
+vztahů (nálezy 
+sp. zn. Pl. ÚS 14/93
+ a
+ Pl. ÚS 29/93
+).
+     V daném případě  stát omezil právo ucházet  se o koupi státní
+zemědělské  půdy   a  vyloučil  z přístupu   ke  státnímu  majetku
+právnické osoby.  Uvedený postup státu však  je v rozporu s čl. 11
+Listiny,  který   připouští  výlučnost  vlastnictví   pro  tuzemce
+a omezuje  některé  vlastnictví  jen  na  určené  osoby. Podmínkou
+takového omezení  je však ochrana veřejného  zájmu státem. Stát má
+sice volnost v rámci soukromoprávních  vztahů vybrat si dobrovolně
+druhou  stranu  pro  uzavření  kupní  smlouvy  na  prodej půdy dle
+občanského  zákoníku.  Přistoupí-li  však  stát k zákonné regulaci
+a selekci osob,  kterým je umožněno  ucházet se o  převod státního
+majetku,  nemůže  tak  činit  libovolně,  ale  jen  v odůvodněných
+případech,  přičemž důvody  musí mít  trvalý charakter  a vázat se
+i na   třetí  osoby,   které  mohou   v budoucnu  dotčený  předmět
+vlastnictví nabýt či nenabýt.
+     Ustanovení  §  4  předmětného   zákona,  který  v odstavci  1
+připouští  k   nabytí  vlastnictví  všechny   státní  občany,  ale
+v odstavci 2 se fakticky vylučují právnické osoby s velmi omezenou
+výjimkou,   je  podle   názoru  navrhovatelů   porušením  rovnosti
+vlastnických  forem.  K nabytí  vlastnictví  se  připouštějí pouze
+právnické  osoby,  jež  jsou   vlastníky  těch  budov  na  zákonem
+dotčených pozemcích, jež patří k původní zemědělské usedlosti nebo
+slouží zemědělské výrobě a s ní souvisejícímu vodnímu hospodářství
+- a  to   právě  jen  pro   nabytí  těchto  zastavěných   pozemků.
+Nepřevede-li Pozemkový  fond postupem dle  § 6 a  7 zákona všechny
+pozemky  podle cenového  předpisu,  může  zbylé pozemky  prodat ve
+veřejné obchodní  soutěži na základě  volné tvorby cen  osobám dle
+§ 4 odst. 1 písm. a), b) a d), tj. nikoli právnickým osobám. Zcela
+ústavní by podle nich bylo připuštění těch právnických osob, které
+mají  sídlo  na  území  České  republiky  nebo  jejichž  členy  či
+společníky nejsou  cizinci či bezdomovci,  tak, aby byla  zaručena
+rovnost mezi  fyzickými osobami a  osobami právnickými. V důvodové
+zprávě  zákona  není  diskriminační  postoj  ani  dobře zdůvodněn.
+V obecné části důvodové zprávy k návrhu zákona se tomuto zásadnímu
+prvku  v zákoně téměř  nevěnuje,  v části  zvláštní se  pak k této
+problematice vyjadřuje nedůsledně.
+     V závěru  svého  návrhu  navrhovatelé  uvádějí,  že nesměřují
+k úplné volnosti  prodeje státní půdy všem  právnickým osobám, ale
+jen  těm, které  již dnes  vlastní zemědělské  usedlosti a  stavby
+sloužící   k zemědělské   výrobě    nebo   souvisejícímu   vodnímu
+hospodářství, přičemž vlastnictví nemovitostí  u nás je s výjimkou
+dědění omezeno  na tuzemské osoby.  Nerovnost formální je  spojena
+i s nerovností  materiální, když  prodej půdy  podle tohoto zákona
+bude prováděn ve velkém měřítku a za výhodných podmínek.
+                               II.
+     Po zjištění,  že neexistují důvody  ani pro odmítnutí  návrhu
+podle  § 43  zákona č. 182/1993  Sb., o  Ústavním soudu,  ve znění
+pozdějších  předpisů, ani  pro zastavení  řízení podle  § 67 téhož
+zákona, byl  návrh v souladu s ustanovením §  69 citovaného zákona
+zaslán  Poslanecké sněmovně  a Senátu  Parlamentu České  republiky
+s výzvou k písemnému vyjádření k jeho obsahu.
+     Poslanecká     sněmovna     Parlamentu     České    republiky
+prostřednictvím  svého předsedy  ve svém  vyjádření ze  dne 19. 7.
+1999 uvedla, že v důvodové zprávě  k zákonu se uvádí, že základním
+cílem zákona není finanční efekt z prodeje státní zemědělské půdy,
+ale  privatizace   těchto  pozemků  ve   prospěch  fyzických  osob
+podnikajících   v zemědělské  výrobě   a  rovněž   převod  pozemků
+prostřednictvím obcí  na veřejně prospěšné účely  a bydlení. Pouze
+v případě  prodeje   zastavěných  pozemků  vlastníkům   staveb  se
+umožňuje  prodej  i  právnickým   osobám.  Důvodem  je  sjednocení
+vlastnictví   pozemků  a   staveb.  Cílem   napadených  ustanovení
+v těchto případech  pak bylo pro  právnické osoby omezit  nabývání
+státní  půdy  a  preferovat  fyzické  osoby,  které  již provozují
+zemědělskou  výrobu  buď  osobně  nebo prostřednictvím právnických
+osob,  jichž jsou  členy  nebo  společníky. K tomu  zákon stanovil
+i další  podmínky  odůvodněné   potřebou  efektivního  hospodaření
+v zemědělství.  V tomto   případě  je  možno   se  také  ztotožnit
+s chápáním   ústavního   principu   rovnosti,   jak   je  vyjádřen
+v rozhodnutí  č. 11/1992  Sbírky rozhodnutí  Ústavního soudu České
+a Slovenské  Federativní  Republiky:  "Je  jistě  věcí  státu, aby
+v zájmu zajištění svých funkcí rozhodl, že určité skupině poskytne
+méně  výhod  než  jiné.  Ani   zde  však  nesmí  postupovat  zcela
+libovolně.  Pokud   zákonodárce  určuje  prospěch   jedné  skupiny
+a zároveň tím  stanoví neúměrné povinnosti jiné,  může se tak stát
+pouze s odvoláním  na veřejné hodnoty." S ohledem  na výše uvedené
+se   lze  oprávněně   domnívat,  že   zákonem  stanovené   omezení
+v nabývání  vlastnického práva  není v rozporu  s ustanoveními čl.
+11 a čl. 26 Listiny.
+     Za tohoto  stavu věci nelze podle  názoru Poslanecké sněmovny
+Parlamentu České republiky než vyjádřit stanovisko, že zákonodárný
+sbor   jednal  v přesvědčení,   že  přijatý   zákon  je  v souladu
+s Ústavou,  ústavním  pořádkem  České  republiky  a  naším právním
+řádem. Jak  dále vyplývá z vyjádření  účastníka řízení, zákon  byl
+schválen   potřebnou   většinou   poslanců   Poslanecké   sněmovny
+Parlamentu České republiky dne 1. dubna  1999 a dne 28. dubna 1999
+byl schválen  potřebnou většinou senátorů  Senátu Parlamentu České
+republiky, byl podepsán příslušnými ústavními činiteli a byl řádně
+vyhlášen.
+     Senát Parlamentu  České republiky se  k obsahu návrhu skupiny
+poslanců  vyjádřil  prostřednictvím  své  předsedkyně  dne  27. 8.
+1999. Uvedl, že vyloučení tuzemských právnických osob zabývajících
+se zemědělskou výrobou z možnosti  nabývat státní zemědělskou půdu
+bylo  předmětem obsáhlých  diskusí při  projednávání návrhu zákona
+v Senátu. V průběhu projednávání předlohy  návrhu zákona byly této
+předloze vytýkány  nedostatky právního a  legislativně technického
+charakteru,   zejména   neprovázanost   a   nesoulad  jednotlivých
+ustanovení  návrhu  zákona  i  neprovázanost  s ostatními právními
+předpisy, zákon byl posléze nicméně Senátem schválen.
+     Dle  názoru Senátu  vyloučením  právnických  osob (až  na dvě
+výjimky) z možnosti nabývat  státní zemědělské pozemky bezúplatným
+převodem a  vyloučením právnických osob  z možnosti koupě státních
+zemědělských   pozemků    (pokud   nejde   o    vlastníky,   resp.
+spoluvlastníky  budov  nebo  obytných,  hospodářských  nebo jiných
+staveb patřících  k původní zemědělské usedlosti,  nebo sloužících
+zemědělské  výrobě nebo  s ní souvisejícímu  vodnímu hospodářství)
+a s tím související preferencí fyzických osob, které již provozují
+zemědělskou  výrobu nebo  jsou členy  nebo společníky  právnických
+osob  provozujících zemědělskou  výrobu nebo  již vlastní  určitou
+výměru zemědělské půdy, zákonodárce  určil svůj strategický zájem,
+komu  přednostně a  ze své  svrchované vůle  bude stát vlastnictví
+k předmětným pozemkům převádět.
+     Senát Parlamentu České republiky návrh zákona schválil na své
+4. schůzi, a to v hlasování,  při kterém ze 67 přítomných senátorů
+se  vyslovilo  40  pro  návrh  zákona.  Nelze  tedy  než  vyjádřit
+stanovisko,  že druhá  komora Parlamentu  České republiky  jednala
+v přesvědčení, že  přijatý zákon je v souladu  jak s Ústavou České
+republiky,  tak  i  s ústavním  pořádkem  České  republiky a naším
+právním řádem.
+
+
+
+
+III.
+     Po přezkoumání návrhu dospěl Ústavní soud k závěru, že nejsou
+dány důvody  pro zrušení napadených  ustanovení zákona č.  95/1999
+Sb.,   o  podmínkách   převodu  zemědělských   a  lesních  pozemků
+z vlastnictví  státu na  jiné osoby  a o  změně zákona č. 569/1991
+Sb.,  o  Pozemkovém  fondu  České  republiky,  ve znění pozdějších
+předpisů, a zákona č. 357/1992 Sb.,  o dani dědické, dani darovací
+a dani z převodu nemovitostí, ve znění pozdějších předpisů, jak je
+v petitu návrhu uvedeno.
+     Navrhovatelé   argumentují  rozporem   s ustanovením  čl.  11
+Listiny  a  tuto  argumentaci  specifikují  poukazem  na zaručenou
+rovnost vlastnických  forem, která však  podle jejich názoru  byla
+porušena tím, že z možnosti nabývání státní půdy jsou fakticky, až
+na  malé  výjimky,  vyloučeny  právnické  osoby. Uvedeným omezením
+podle názoru navrhovatelů  jsou neústavně diskriminovány právnické
+osoby v podnikání v zemědělství.
+     Tento  obecný odkaz  na čl.  11 Listiny  vystihuje však smysl
+ústavní úpravy vlastnického práva pouze částečně. V odstavci prvém
+čl. 11  Listiny je obsažena  generelní klauzule, zaručující  právo
+nabývat majetek,  jakož i ochranu vlastnických  práv již nabytých.
+Ve druhém, třetím a čtvrtém  odstavci téhož článku pak je vyjádřen
+obsah,  způsob a  rozsah omezení  vlastnického práva  tam, kde  to
+veřejný  zájem,   resp.  obecný  zájem,  opodstatňuje   a  v  této
+souvislosti též  vyjádřena i možnost  zákonem stanovit, že  určité
+věci mohou  být pouze ve vlastnictví  občanů nebo právnických osob
+se sídlem na území státu.
+     Zvolený  postup  zákonodárce,  tj.  rozhodnutí,  že stát jako
+vlastník  bude  zemědělské  a  lesní  pozemky  převádět na zákonem
+vymezené  subjekty,  není  v rozporu  s ústavními  principy čl. 11
+odst. 1 Listiny. Článkem 11 odst. 1 Listiny je chráněno vlastnické
+právo  jako takové  toliko tehdy,  jde-li o  vlastnické právo  již
+existující a nikoli pouze o tvrzený  nárok na ně, ať již byl tento
+nárok opřen o jakýkoli právní  důvod. Z uvedeného tedy vyplývá, že
+pouhý spor  o vlastnictví, v němž vznik  vlastnického práva má být
+teprve   umožněn,   nebo   takové   právo   samo   má  být  teprve
+konstituováno,  ústavně chráněn  není. Zákon  o podmínkách převodu
+zemědělských a  lesních pozemků z vlastnictví státu  na jiné osoby
+žádné  subjekty včetně  právnických osob  z možnosti vlastnit tyto
+pozemky  jednou  provždy  nevylučuje  a  právnickým  osobám takové
+pozemky  vlastnit generelně  nezakazuje. Jde  pouze o  vůli státu,
+jako  svrchovaného  vlastníka  této   půdy,  rozhodnout,  na  koho
+přednostně své vlastnictví bezúplatně převede, či komu půdu prodá.
+     V další  argumentaci navrhovatelé  sice připouštějí,  že stát
+jako  každý  vlastník  má  právo  nakládat  volně se svým majetkem
+a dokonce  připouštějí, že  má plnou  volnost upravit  postup před
+uzavřením kupní  smlouvy ze své  strany. Podle jejich  názoru však
+nesmí  takové podmínky  stanovit zákonem,  ale pouze  normou nižší
+právní  síly  v rámci  platné  zákonné  úpravy. V této souvislosti
+navrhovatelé odkazují  na nálezy Ústavního  soudu, sp. zn.  Pl. ÚS
+14/93  a
+ Pl.  ÚS 23/93
+,  v nichž Ústavní  soud vyslovil  názor, že
+obecně   závaznými   vyhláškami   nemohou   obce  stanovením  práv
+a povinností  nad  rámec   zákona  zasahovat  do  soukromoprávních
+vztahů.   Nastíněná   analogie   těchto   nálezů  Ústavního  soudu
+s projednávanou věcí je však nepřiléhavá. Uvedené nálezy se týkaly
+obecně závazných  vyhlášek obcí, o  nichž Ústavní soud  rozhodoval
+podle čl. 87 odst. 1 písm. b) Ústavy ČR, a již vzhledem k tomu, že
+jimi byla řešena  zcela odlišná situace, nelze je  při řešení dané
+problematiky analogicky použít, jak  se o to navrhovatelé pokouší.
+V daném  případě se  zdaleka nejedná  pouze o  úpravu postupu před
+uzavřením  kupní  smlouvy,  ale  celkově  o  převod vlastnictví se
+zřetelem na  podmínky stanovené Listinou. Podle  odstavce 2 čl. 11
+Listiny  zákon může  stanovit, že  určité věci  mohou být pouze ve
+vlastnictví  občanů  nebo  právnických   osob  se  sídlem  v České
+republice.  Stát jistě  může  nižší  právní normou  v rámci zákona
+upravit to, co navrhovatelé nazývají postupem před uzavřením kupní
+smlouvy.  To  však  není  v rozporu  s tím,  že  je  to  právě jen
+zákonodárce, který  může cestou zákona  obecným způsobem zasahovat
+do  úpravy vlastnických  vztahů při  respektování veřejného  zájmu
+stanoveného  článkem 11  odst. 2,   3, 4  Listiny, což  se v daném
+případě  stalo. Ve  stejném smyslu  se vyjadřuje  i odst.  2 čl. 1
+Dodatkového   protokolu   k Úmluvě   o   ochraně   lidských   práv
+a základních  svobod,   podle  něhož  mají   členské  státy  právo
+".přijímat  zákony,  které  považují  za  nezbytné,  aby  upravily
+užívání majetku v souladu s obecným zájmem."
+     Stát  má tedy  nepochybně právo  při převodu  resp. odprodeji
+svého  majetku ve  velkém rozsahu  se řídit  nikoli pouze obecnými
+principy  občanského zákoníku  v jednotlivých případech,  ale také
+zákonem upravit obecné specifické podmínky převodu vlastnictví pro
+všechny  případy,   a  to  se   zřetelem  na  obecné   zájmy  celé
+společnosti, jejichž  respektování čl. 11  odst. 2, 3  a 4 Listiny
+vyžaduje. Z důvodové zprávy k zákonu  i ze stenografického záznamu
+z jednání Poslanecké sněmovny  Parlamentu České republiky vyplývá,
+že návrh  zákona byl odůvodněn  tím, že prodej  státní půdy má  se
+zřetelem na obecný zájem za cíl "nalezení odpovědnějšího vlastníka
+v naději, že bude dobrým  hospodářem". Návrh vycházel z představy,
+že  je v obecném  zájmu, aby  se půda  dostala přednostně do rukou
+těch, kteří na ní pracují a  kteří mají osobní zájem na vybudování
+vlastní  hospodářské  existence  a  dosažení  vlastní  prosperity.
+Naproti  tomu  volný  prodej  jakýmkoli  právnickým osobám otevírá
+přednostně prostor spekulativním  nákupům finančně silných skupin.
+Proto  zákon stanoví,  že  Pozemkový  fond může  prodat zemědělské
+pozemky  oprávněným  osobám  dle  zákona  o  půdě, dále samostatně
+hospodařícím   rolníkům  a   členům  družstev,   resp.  obchodních
+společností,  kteří  splňují  zákonem  stanovené  podmínky,  jakož
+i osobám,  které   v dané  oblasti  vlastní   nejméně  10  hektarů
+zemědělské  půdy a  jimž  náležejí  stavby na  pozemcích, určených
+k prodeji.
+     Přednostní   převod   zemědělské   půdy   na  fyzické  osoby,
+samostatně  hospodařící  rolníky,   odůvodňuje  tedy  stát  snahou
+zabezpečit  řádné  obdělávání  půdy  a  omezit  možnosti spekulací
+s pozemky.  Tento  cíl  je  ústavně  konformní  i když prostředek,
+zvolený  k jeho naplnění,  nemůže jistě  eventuelním spekulativním
+převodům v budoucnosti zabránit zcela. Zákon nevylučuje koneckonců
+ani další prodej půdy do  vlastnictví jiných subjektů než v zákoně
+vymezených, tedy i do vlastnictví právnických osob.
+     Argumenty navrhovatelů, které se  dotýkají práva na podnikání
+(čl. 26  odst. 1 Listiny) a  údajné diskriminace právnických osob,
+podnikajících  v zemědělství, je  nutno rovněž  odmítnout. Čl.  26
+odst.  1 Listiny  zaručuje  každému  "právo podnikat  a provozovat
+jinou hospodářskou činnost". Ze znění napadených ustanovení zákona
+však  nelze žádným  výkladem  zákona  dospět k závěru,  že některé
+subjekty  jsou  v tomto  právu  nějakým  způsobem  omezeny.  Právo
+podnikat   neobsahuje  v sobě   nárok  na   poskytnutí  prostředků
+a materiálního vybavení, nezbytného pro zvolený druh podnikání.
+     Článek 11 Listiny stejně jako  článek 26 odst. 2 Listiny jsou
+výrazem celkového pojetí právního  státu v České republice. I když
+se   výslovně   v žádném   ústavním   dokumentu   Česká  republika
+neprohlašuje  za "sociální  právní stát",  ve skutečnosti,  stejně
+jako  v řadě západoevropských  zemí,  celý  její ústavní  a právní
+systém vychází  z principu, že vlastnictví  zavazuje a je  omezeno
+zákonem  chráněnými  obecnými  zájmy  (čl.  11  odst.  3  Listiny)
+a z možnosti  státního  zásahu  do  úpravy  vlastnických  práv  ve
+veřejném,  resp.  obecném  zájmu.   Jestliže  k takové  úpravě  ve
+veřejném  zájmu  dojde,  nejedná  se  v žádném  případě o zásah do
+"rovnosti  vlastnických  forem",  jak  tvrdí navrhovatelé. Ústavní
+systém  a právní  řád České  republiky odmítá  odlišnou hodnotovou
+klasifikaci  a  odlišný  stupeň   právní  ochrany  toho,  co  bylo
+v totalitním   režimu   označováno   za   "různé   typy   a  formy
+vlastnictví".  Již z tohoto  důvodu neshledává  Ústavní soud snahu
+navrhovatelů  po  "rovnosti   vlastnických  forem"  za  přiměřenou
+současnému ústavnímu pořádku.  Ten vychází z jednoho univerzálního
+pojmu vlastnictví, jehož úprava  podléhá zákonem chráněným obecným
+zájmům.
+     Ústavní  soud tedy  neshledal, že  by napadenými ustanoveními
+zákona byly  porušeny základní práva a  svobody obsažené v Listině
+či v mezinárodních  smlouvách podle čl.  10 Ústavy. Proto  Ústavní
+soud návrh na zrušení některých  ustanovení zákona č. 95/1999 Sb.,
+o podmínkách převodu zemědělských  a lesních pozemků z vlastnictví
+státu  na  jiné   osoby,  a  o  změně  zákona   č.  569/1991  Sb.,
+o Pozemkovém fondu České republiky,  ve znění pozdějších předpisů,
+a zákona  č. 357/1992  Sb., o  dani dědické,  dani darovací a dani
+z převodu nemovitostí, ve znění  pozdějších předpisů, zamítl (§ 82
+odst. 1 zákona č. 82/1993 Sb.).
+Poučení: Proti rozhodnutí Ústavního soudu se nelze odvolat.
+V Brně 15. března 2000
