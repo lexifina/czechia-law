@@ -1,0 +1,16 @@
+11 Zp 27/2001
+U S N E S E N Í
+Nejvyšší soud České republiky v senátě složeném z předsedy JUDr. Antonína Draštíka a soudců JUDr. Karla Hasche a JUDr. Stanislava Rizmana rozhodl o opravném prostředku Mgr. A. K., ve věci kárného řízení zahájeného na návrh krajského státního zástupce v Brně, proti rozhodnutí kárného senátu státního zastupitelství při Nejvyšším státním zastupitelství ze dne 21. 2. 2001, sp. zn. K 107/2000, t a k t o :
+Opravný prostředek, který podala Mgr. A. K., proti rozhodnutí kárného senátu státního zastupitelství při Nejvyšším státním zastupitelství ze dne 21. 2. 2001, sp. zn. K 107/2000, se podle § 250p o. s. ř. o d m í t á .
+Žádný z účastníků řízení nemá právo na náhradu nákladů řízení.
+O d ů v o d n ě n í :
+Podáním ze dne 19. 3. 2001, které bylo doručeno Nejvyššímu státnímu zastupitelství České republiky dne 20. 3. 2001, podala Mgr. A. K., opravný prostředek proti rozhodnutí kárného senátu státního zastupitelství při Nejvyšším státním zastupitelství ze dne 21. 2. 2001, sp. zn. K 107/2000. Tento opravný prostředek nebyl odůvodněn.
+Předseda kárného senátu při Nejvyšším státním zastupitelství předložil dne 4. 4. 2001 tento opravný prostředek Nejvyššímu soudu České republiky.
+Podáním opravného prostředku bylo zahájeno řízení před Nejvyšším soudem České republiky ve smyslu ustanovení § 250m o. s. ř. Opravný prostředek je však ve smyslu uvedeného ustanovení návrhem na zahájení řízení před Nejvyšším soudem a jako takový musí splňovat náležitosti takového návrhu, a to vzhledem k ustanovení § 250l odst. 2 o. s. ř. jsou to náležitosti, které jsou uvedeny v ustanovení § 249 odst. 2 o. s. ř. Těmi jsou kromě obecných náležitostí podání i označení rozhodnutí správního orgánu, které návrh napadá, vyjádření v jakém rozsahu se toto rozhodnutí napadá, uvedení důvodů, v čem navrhovatel spatřuje nezákonnost rozhodnutí správního orgánu, a jaký konečný návrh činí.
+Předseda senátu Nejvyššího soudu vyzval proto, v souladu s ustanovením § 250p o. s. ř., Mgr. A. K., aby do deseti dnů od doručení výzvy doplnila podaný opravný prostředek o chybějící vyjádření v jakém rozsahu uvedené rozhodnutí napadá, uvedení důvodů v čem spatřuje jeho nezákonnost a jaký konečný návrh činí, a odstranila tak vady návrhu na zahájení řízení, které brání jeho věcnému vyřízení. Zároveň upozornil na to, že neučiní-li tak, Nejvyšší soud opravný prostředek odmítne. Výzva byla Mgr. A. K. doručena do vlastních rukou dne 18. 4. 2001.
+Ve stanovené lhůtě však nebylo této výzvě vyhověno, Nejvyšší soud dosud doplnění podaného opravného prostředku neobdržel. Mgr. A. K. tedy neodstranila vady návrhu, jejichž odstranění soud nařídil a jež brání věcnému projednání návrhu. Proto Nejvyšší soud rozhodl tak, že uvedený opravný prostředek Mgr. A. K. podle § 250p o. s. ř. bez jednání (§ 250q odst. 1 o. s. ř.) odmítl.
+Navrhovatelka neodstraněním vad návrhu z procesního hlediska způsobila, že opravný prostředek byl odmítnut. Ostatním účastníkům řízení ovšem v souvislosti s řízením o tomto opravném prostředku žádné náklady nevznikly. Této procesní situaci odpovídá výrok o nákladech řízení, opírající se o analogické použití ustanovení § 146 odst. 3 o. s. ř., tj. že žádný z účastníků nemá právo na náhradu nákladů řízení.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 18. května 2001
+Předseda senátu:
+JUDr. Antonín Draštík
