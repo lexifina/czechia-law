@@ -1,0 +1,19 @@
+33 Odo 664/2001-58
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci žalobce S. s. r. o., proti žalovanému Ing. V.K., o 14.000 Kč, vedené u Obvodního soudu pro Prahu 8 pod sp. zn. 26 C 180/2000, o dovolání žalovaného proti usnesení Městského soudu v Praze ze dne 26. dubna 2001 č. j. 35 Co 142/2001 - 37, takto :
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 8 usnesením ze dne 20. února 2001 č. j. 26 C 180/2000-29, po zpětvzetí žaloby žalobcem dne 2. února 2001, řízení zastavil a současně rozhodl o vrácení soudního poplatku a náhradě nákladů řízení.
+Proti usnesení soudu prvního stupně podal žalovaný odvolání do výroku o povinnosti žalovaného zaplatit žalobci náhradu nákladů řízení před soudem prvního stupně. Městský soud v Praze usnesením ze dne 26. dubna 2001 č. j. 35 Co 142/2001-37 usnesení soudu prvního stupně ve výroku o nákladech řízení potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Proti usnesení odvolacího soudu podal žalovaný dovolání. Namítá, že rozhodnutí odvolacího soudu i rozhodnutí soudu prvního stupně ve výroku o náhradě nákladů řízení spočívají na nesprávném právním posouzení věci. Dovolatel se domnívá, že v posuzovaném případě žalovaný nezavinil, že řízení bylo zastaveno. Odvolací soud měl změnit výrok soudu prvního stupně o nákladech řízení tak, že žalobci neměl ve smyslu § 150 o. s. ř. přiznat právo na náhradu nákladů řízení. Rozhodnutí odvolacího soudu má po stránce právní zásadní význam, neboť řeší právní otázku, která je odvolacím soudem rozhodována rozdílně (usnesení Městského soudu v Praze čj. 29 Co 143/2001-25 ze dne 30. května 2001) a v rozporu s hmotným právem. Dovolatel se domnívá, že jsou tak splněny podmínky pro podání dovolání ve smyslu § 237 odst. 1 písm. c) a odst. 3 a § 241a odst. 2 písm. b) o. s. ř. Navrhl, aby dovolací soud zrušil napadené usnesení odvolacího soudu, případně i usnesení soudu prvního stupně, a vrátil mu věc k dalšímu řízení.
+Dovolání v této věci není přípustné.
+Ve smyslu ustanovení části dvanácté hlavy I bodu 7 zákona č. 30/2000 Sb. se pouze při rozhodování o zpětvzetí návrhu na zahájení řízení učiněném přede dnem nabytí účinnosti tohoto zákona (před 1. 1. 2001) použijí dosavadní předpisy. V daném případě bylo zpětvzetí učiněno v únoru 2001, proto se při rozhodování o zpětvzetí návrhu na zahájení řízení postupuje podle občanského soudního řádu ve znění účinném po 1. 1. 2001(dále jen o. s. ř.).
+Ve smyslu ustanovení části dvanácté hlavy i bodu 17 zákona č. 30/2000 Sb. se pak i dovolání proti usnesení odvolacího soudu projedná a rozhodne podle občanského soudního řádu ve znění účinném po 1. 1. 2001, neboť rozhodnutí odvolacího soudu bylo vydáno dne 26. dubna 2001 po řízení před soudem prvního stupně, které se řídilo občanským soudním řádem platným od 1. 1. 2001.
+Přípustnost dovolání proti rozhodnutí odvolacího soudu je upravena v § 237 až 239 o. s. ř. Ze žádného tohoto ustanovení nevyplývá přípustnost dovolání proti potvrzujícímu usnesení odvolacího soudu o nákladech řízení. Přípustnost dovolání nezakládá § 237 odst. 1 písm. c) a odst. 3 o. s. ř., neboť výrok usnesení, jímž soud rozhodl o nákladech řízení není usnesením ve věci samé.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) proto dovolání žalovaného podle § 243b odst. 4 ve spojení s § 218 odst. 1 písm. c) o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. o. s. ř. ve spojení s § 224 odst. 1, § 151 odst. 1a § 142 odst. 1 o. s. ř., když žalovaný nebyl v dovolacím řízení úspěšný a žalobci žádné náklady dovolacího řízení nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 16. října 2001
+JUDr. Kateřina H o r n o c h o v á , v. r.
+předsedkyně senátu
