@@ -1,0 +1,18 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+32 Od 51/2003-22
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Františka Faldyny, CSc. a soudců JUDr. Miroslava Galluse a JUDr. Petra Gemmela v právní věci žalobce O. s. M. č., zastoupeného JUDr. Bc. M. K., Ph.D., advokátem, proti žalované M., a.s., zastoupené JUDr. H. K., advokátkou, o zaplacení přiměřeného zadostiučinění 1,000.000,- Kč, vedené u Městského soudu v Praze pod sp. zn. 15 Cm 16/2003, o návrhu žalobce na přikázání věci z důvodu vhodnosti jinému soudu, takto:
+Věc vedená u Městského soudu v Praze pod sp. zn. 15 Cm 16/2003 se přikazuje Krajskému soudu v Brně.
+O d ů v o d n ě n í :
+U Městského soudu v Praze bylo dne 11. 2. 2003 zahájeno řízení o zaplacení přiměřeného zadostiučinění 1,000.000,- Kč současně s návrhem na přikázání věci z důvodu vhodnosti podle ust. § 12 odst. 2 zák. č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů (dále též jen „o. s. ř.“) Krajskému soudu v Brně, s odůvodněním, že všichni navržení svědci i představitelé žalobce žijí v B. či jeho nejbližším okolí, věc se týká města B. a brněnské veřejnosti a také mnohé články, o nichž žalobce tvrdí, že jej poškozují na dobré pověsti, vydala brněnská redakce „M. D.“.
+Žalovaná se k návrhu ve stanovené lhůtě vyjádřila s tím, že proti delegování věci Krajskému soudu v Brně nemá námitek.
+Nejvyšší soud České republiky jako soud nejblíže společně nadřízený příslušnému soudu (Městskému soudu v Praze) a Krajskému soudu v Brně, jemuž má být věc přikázána (§ 12 odst. 3 věta první o. s. ř.), návrh žalobce na přikázání věci jinému soudu projednal a dospěl k závěru, že v posuzovaném případě jsou splněny zákonné podmínky k tomu, aby věc byla přikázána jinému soudu z důvodu vhodnosti podle ustanovení § 12 odst. 2 o. s. ř.
+Podle ustanovení § 12 odst. 2 o. s. ř. věc může být přikázána jinému soudu téhož stupně z důvodu vhodnosti. Podle ustanovení § 12 odst. 3 věty druhé o. s. ř. účastníci mají právo se vyjádřit k tomu, kterému soudu má být věc přikázána, a v případě odstavce 2 též k důvodu, pro který by věc měla být přikázána.
+Důvody vhodnosti podle tohoto ustanovení mohou být různé v závislosti na předmětu řízení, postavení účastníků i jiných okolnostech. Jde zejména o skutečnosti, z nichž lze dovodit, že jiným než příslušným soudem bude věc projednána rychleji a hospodárněji. K přikázání věci jinému než příslušnému soudu by však mělo docházet pouze výjimečně, a to ze závažných důvodů, neboť je uplatňováno jako výjimka z ústavně zaručené zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon (čl. 38 odst. 1 Listiny základních práv a svobod, publikované pod č. 2/1993 Sb., ve znění ústavního zákona č. 162/1998 Sb.). Důvody pro odnětí věci příslušnému soudu a její přikázání soudu jinému tedy musí být natolik významné, aby dostatečně odůvodňovaly průlom do výše citovaného ústavního principu. Zákon přitom výslovně zakotvuje právo účastníků vyjádřit se k důvodu delegace i k soudu, k němuž má být věc delegována, aby vhodnost takového postupu mohla být zvážena i z pohledu jejich poměrů; delegací totiž nesmí být navozen stav, který by se v poměrech některého z účastníků projevil zásadně nepříznivě.
+Okolnosti případu uváděné žalobcem v žalobě odůvodňují předpoklad rychlejšího a hospodárnějšího projednání věci u Krajského soudu v Brně, přičemž bylo přihlédnuto i ke kladnému stanovisku žalované..
+Nejvyšší soud České republiky proto návrhu žalobce vyhověl a věc podle ustanovení § 12 odst. 2 o. s. ř. přikázal Krajskému soudu v Brně.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 28. srpna 2003
+JUDr. František Faldyna, CSc., v.r.
+předseda senátu
