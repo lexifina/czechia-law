@@ -1,0 +1,17 @@
+26 Cdo 914/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně Doc. JUDr. Věry Korecké, CSc., a soudců JUDr. Miroslava Feráka a JUDr. Roberta Waltra ve věci žalobce J. Š., proti žalovaným 1) P. S., a 2) M. S., zastoupeným advokátkou, o obnovu řízení, vedené u Obvodního soudu pro Prahu 5 pod sp.zn. 11 C 125/2002, o dovolání žalovaných proti usnesení Městského soudu v Praze ze dne 7. listopadu 2003, č.j. 12 Co 467/2003-130, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Městský soud v Praze (soud odvolací) usnesením ze dne 7. 11. 2003, č.j. 12 Co 467/2003-130, potvrdil usnesení ze dne 10. 7. 2003, č.j. 11 C 125/2002-89, kterým Obvodní soud pro Prahu 5 (soud prvního stupně) nepřiznal žalovaným osvobození od soudních poplatků. Odvolací soud se ztotožnil se závěrem soudu prvního stupně, že v dané věci nejsou dány předpoklady pro to, aby žádosti žalovaných bylo vyhověno (§ 138 odst. 1 o.s.ř.).
+Proti usnesení odvolacího soudu podali žalovaní dovolání „podle § 238 odst. 1 písm. a) o.s.ř.“, v němž odvolacímu soudu vytýkají, že nesprávně posoudil jejich majetkové poměry, a dospěl k nesprávnému (předčasnému) závěru, že jde o zřejmě bezúspěšné uplatňování práva.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) po zjištění, že dovolání bylo podáno včas osobami k tomu oprávněnými – účastníky řízení (§ 240 odst. 1 o.s.ř.), za splnění podmínky advokátního zastoupení dovolatelů (§ 241a odst. 1, odst. 4 o.s.ř.), se nejprve zabýval posouzením přípustnosti tohoto mimořádného opravného prostředku, neboť toliko z podnětu přípustného dovolání lze přezkoumat správnost napadeného rozhodnutí z hlediska uplatněného dovolacího důvodu.
+V posuzované věci žalovaní dovoláním napadají usnesení odvolacího soudu, kterým bylo potvrzeno usnesení soudu prvního stupně o nepřiznání osvobození od soudních poplatků.
+Přípustnost dovolání proti usnesení odvolacího soudu je upravena v ustanoveních § 237, § 238, § 238a a v § 239 o.s ř.
+Přípustnost dovolání podle § 237 o. s. ř. není dána, neboť napadeným usnesením odvolacího soudu nebylo změněno (§ 237 odst. 1 písm. a/ o.s.ř.) či potvrzeno (§ 237 odst. 1 písm. b/ a c/ o.s.ř.) rozhodnutí soudu prvního stupně, kterým bylo rozhodnuto ve věci samé. Dovolání není přípustné ani podle § 238, § 238a a § 239 o.s.ř., protože nejde o žádný z případů v citovaných ustanoveních uvedených. Dovolatelé se mýlí, pokud opírají přípustnost dovolání o ustanovení § 238 odst. 1 písm. a) o.s.ř. Podle uvedeného ustanovení je (ve spojení § 238 odst. 2 o.s.ř.) dovolání přípustné proti usnesení odvolacího soudu, jímž bylo potvrzeno nebo změněno usnesení soudu prvního stupně, kterým bylo rozhodnuto o žalobě na obnovu řízení. O takový případ se však v souzené věci nejedná, neboť usnesením soudu prvního stupně potvrzeným napadeným usnesením odvolacího soudu nebylo rozhodnuto o žalobě na obnovu řízení, ale o žádosti o osvobození od soudních poplatků; okolnost, že o takovéto žádosti bylo rozhodováno v průběhu řízení o obnovu původního řízení, není z hlediska přípustnosti dovolání relevantní.
+Nejvyšší soud proto dovolání podle § 243b odst. 5 věty první a § 218 písm. c) o.s.ř. odmítl.
+Vzhledem k tomu, že řízení ve věci nebylo dosud pravomocně skončeno, nerozhodoval dovolací soud o náhradě nákladů dovolacího řízení.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 17. června 2004
+Doc. JUDr. Věra Korecká, CSc., v.r.
+předsedkyně senátu
