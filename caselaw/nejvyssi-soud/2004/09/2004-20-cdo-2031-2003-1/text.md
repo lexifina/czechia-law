@@ -1,0 +1,19 @@
+20 Cdo 2031/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci výkonu rozhodnutí oprávněné České republiky - Okresního soudu v Olomouci proti povinnému S. M., pro 590,- Kč srážkami ze mzdy, vedené u Okresního soudu v Šumperku pod sp. zn. E 1372/98, o dovolání povinného proti usnesení Krajského soudu v Ostravě - pobočky v Olomouci ze dne 10. 10. 2001, č.j. 40 Co 427/2001-54, takto :
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+V záhlaví uvedeným rozhodnutím krajský soud potvrdil (s upřesněním v označení exekučního titulu) usnesení ze dne 2. 6. 1998, č.j. E 1372/98-4, kterým Okresní soud v Šumperku nařídil k vydobytí pohledávky ve výši 590,- Kč výkon rozhodnutí srážkami z důchodu, na který má povinný nárok u České správy sociálního zabezpečení v P. Odvolací soud se ztotožnil se soudem prvního stupně v tom, že předpoklady pro nařízení výkonu rozhodnutí byly splněny; výtky proti věcné správnosti podkladového rozhodnutí shledal bezvýznamnými.
+Rozhodnutí odvolacího soudu napadl povinný (zastoupen ustanovenou advokátkou) dovoláním, jímž zpochybňuje správnost exekučního titulu a namítá, že srážky z důchodu byly prováděny v rozporu se zákonem.
+Podle části dvanácté, hlavy I, bodu 17. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, se dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů projednají a rozhodnou podle dosavadních právních předpisů (tj. podle občanského soudního řádu ve znění účinném do 31. 12. 2000, dále též jen „o.s.ř.“). O takový případ v souzené věci jde, jelikož odvolací soud – ač rozhodoval po 1. 1. 2001 – odvolání proti usnesení soudu prvního stupně vydanému 2. 6. 1998 projednal a rozhodl o něm podle dosavadních právních předpisů (srov. část dvanáctou, hlavu I, bod 15. zákona č. 30/2000 Sb.).
+Dovolání není přípustné.
+Podle ustanovení § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti usnesení upravuje především ustanovení § 238a o.s.ř.; o žádný z případů zde uvedených však v projednávané věci nejde. Použitelnost ustanovení § 238a odst. 1 písm. a/ o.s.ř. není dána proto, že usnesení odvolacího soudu není měnící, nýbrž potvrzující, a napadené rozhodnutí přitom nelze podřadit ani odstavci 1 písmenům b/ až f/ citovaného ustanovení (a tedy ani písmenu d/, jelikož sice jde o usnesení potvrzující, nikoli však takové, jímž by bylo potvrzeno usnesení o zastavení řízení pro nedostatek pravomoci soudu).
+Dovolání není přípustné ani podle ustanovení § 239 o.s.ř., protože odvolací soud výrokem svého rozhodnutí přípustnost dovolání nevyslovil (odstavec 1/) a povinný návrh na vyslovení přípustnosti dovolání neučinil (odstavec 2/).
+Protože vady řízení (tzv. zmatečnosti), s nimiž ustanovení § 237 odst. 1 o.s.ř. spojuje přípustnost dovolání proti každému rozhodnutí odvolacího soudu (s výjimkami zakotvenými v odstavci druhém) a k nimž je dovolací soud povinen přihlédnout z úřední povinnosti (§ 242 odst. 3, věta druhá, o.s.ř.), v dovolání namítány nejsou a ze spisu se nepodávají, lze uzavřít, že dovolání podle žádného v úvahu připadajícího ustanovení občanského soudního řádu přípustné není; Nejvyšší soud je proto bez jednání (§ 243a odst. 1, věta první, o.s.ř.) odmítl (§ 243b odst. 4, věta první, § 218 odst. 1 písm. c/ o.s.ř.).
+O nákladech dovolacího řízení rozhodl dovolací soud podle ustanovení § 243b odst. 4, § 224 odst. 1 a § 146 odst. 2, věty první (per analogiam), o.s.ř.; oprávněné, jíž by příslušela jejich náhrada, v tomto stadiu řízení náklady nevznikly).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 23. září 2004
+JUDr. Pavel K r b e k , v.r.
+předseda senátu
