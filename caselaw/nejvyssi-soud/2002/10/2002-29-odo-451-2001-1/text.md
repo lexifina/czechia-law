@@ -1,0 +1,33 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+29 Odo 451/2001-89
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce Ing. J. S., zast. Mgr. V. V., advokátem , proti žalované Z. C., zast. JUDr. L. S., advokátem , o zaplacení 39.000,- Kč s příslušenstvím a 133,- Kč ze směnky, vedené u Městského soudu v Praze pod sp. zn. 50 Cm 218/99, o dovolání žalované proti rozsudku Vrchního soudu v Praze ze dne 19. února 2001, č. j. 9 Cmo 7/2001-70, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Vrchní soud v Praze rozsudkem ze dne 19. února 2001, č. j. 9 Cmo 7/2001-70 změnil rozsudek Krajského obchodního soudu v Praze ze dne 6. října 2000, č. j. 50 Cm 218/99-49 tak, že směnečný platební rozkaz vydaný Krajským obchodním soudem v Praze dne 31. května 1999, č. j. Sm 132/99-8 se ponechává v platnosti. Odvolací soud dále rozhodl o nákladech řízení.
+Z odůvodnění rozhodnutí odvolacího soudu vyplývá, že žalobce se návrhem na vydání směnečného platebního rozkazu domáhal na žalované zaplacení částky 39.000,- Kč s příslušenstvím ze směnky vlastní vystavené žalovanou. Odvolací soud dospěl k závěru, že žalovaná mohla v daném případě vznášet majiteli směnky (žalobci) námitky nedostatku kauzálního vztahu zajišťovaného předmětnou směnkou.
+Podle soudu druhého stupně směnka v daném případě sloužila jako nástroj k zaplacení ceny školení poskytnutého žalobcem žalované podle dohody o poskytnutí školení v oboru podvojného účetnictví a finančního vyrovnání. Je nesporné, že žalobce splnil svůj závazek z této dohody; o tom svědčí i příslušné osvědčení o úspěšně absolvovaném školení. Žalovaná nedostatek kauzy v tomto ohledu nenamítala.
+Kromě dohody o poskytnutí školení uzavřely strany mezi sebou smlouvu o zprostředkování pracovního místa. Dle této smlouvy vzniká za sjednaných podmínek právo žalované na tzv. bonus představující bezplatné poskytnutí školení a vrácení směnky. Zda tyto podmínky byly splněny, nemůže mít podle odvolacího soudu vliv na postavení žalované jako směnečného dlužníka a její povinnosti hradit směnečnou sumu ve výši sjednané ceny školení.
+Jelikož se žalovaná svými námitkami povinnosti stanovené jí směnečným platebním rozkazem neubránila, odvolací soud změnil rozsudek soudu prvního stupně tak, že směnečný platební rozkaz ponechal v platnosti.
+Včas podaným dovoláním napadla žalovaná rozsudek odvolacího soudu v celém rozsahu.
+Žalovaná předně namítla nepřezkoumatelnost všech tří výroků o nákladech řízení, neboť z odůvodnění není patrné, které částky žalobce konkrétně účtuje na nákladech řízení, z jakých tarifních hodnot byly tyto částky počítány a jak vysoké částky vynaložil žalobce, resp. jeho právní zástupce, za cestovné.
+K věci samé žalovaná zejména uvedla, že Vrchní soud v Praze v dané věci zaujal nesprávný právní názor. Výkon práv žalobce byl v daném případě v rozporu s dobrými mravy. Strany mezi sebou uzavřely smlouvu o zprostředkování pracovního místa a dohodu o poskytnutí školení. Obě smlouvy tvoří jeden celek a kauza směnky zahrnuje proto oba smluvní vztahy.
+Žalobce nesplnil svou povinnost, k níž se zavázal v čl. VI, odst. 1, písm. b) smlouvy o zprostředkování pracovního místa, tj. nenabídnul ve lhůtě jednoho měsíce po úspěšném absolvování školení žalované pět pracovních příležitostí s minimálním nástupním platem 15.000,- Kč v oblasti Praha. Pokud žalobce nesplnil své povinnosti stanovené smlouvou o zprostředkování pracovního místa, nemohl vzniknout žalované ani dluh ze směnky.
+Dovolatelka proto navrhuje, aby dovolací soud rozhodnutí odvolacího soudu zrušil a vrátil mu věc k dalšímu řízení.
+Žalobce se k dovolání žalované – jak vyplývá ze spisu – nevyjádřil.
+Podle bodu 17., hlavy I, části dvanácté, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (tj. podle občanského soudního řádu ve znění účinném před 1. lednem 2001 – dále též jen „o. s. ř.“). Dovolání žalované se proto projedná a rozhodne podle dosavadních právních předpisů, tj. podle občanského soudního řádu ve znění účinném do 31. 12. 2000.
+Nejvyšší soud posoudil dovolání žalované podle ust. § 240 odst. 1 a § 241 odst. 1, 2 o. s. ř. a konstatoval, že dovolání bylo podáno včas, oprávněnou osobou, obsahuje zákonem stanovené náležitosti, dovolatelka je řádně zastoupena advokátem a jím bylo odvolání též sepsáno.
+Dovolání proti rozsudku soudu druhého stupně je přípustné podle § 238 odst. 1 písm. a) o. s. ř. tehdy, byl-li jím změněn rozsudek soudu prvního stupně ve věci samé.
+Dovolání však není v uvedeném případě přípustné ve věcech, v nichž dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 20.000,- Kč a v obchodních věcech 50.000,- Kč.
+V posuzovaném případě odvolací soud změnil rozsudek soudu prvního stupně tak, že směnečný platební rozkaz vydaný Krajským obchodním soudem v Praze dne 31.5.1999, č.j. Sm 132/98-8 ponechal v platnosti. Předmětným směnečným platebním rozkazem bylo žalované uloženo zaplatiti žalobci částku 39.900,- Kč s 6% úrokem ode dne 20.11.1996 do zaplacení, odměnu ve výši 133,- Kč a na náhradu nákladů řízení 5.594,- Kč.
+Dovolací soud s ohledem na uvedené dospěl k závěru, že rozhodnutí odvolacího soudu, jímž se ponechal směnečný platební rozkaz v platnosti, je svým obsahem rozhodnutím ve věci samé a dovoláním dotčeným výrokem tak bylo v konečném důsledku rozhodnuto o peněžitém plnění.
+Bylo-li tedy rozhodnuto o zaplacení 39.900,- Kč a 133,- Kč bylo rozhodováno v obchodní věci, dovolání, jak bylo uvedeno výše, není v tomto případě podle § 238 odst. 2 písm. a) o. s. ř. přípustné.
+Protože nebylo zjištěno (a ani žalovanou tvrzeno), že by rozsudek odvolacího soudu byl postižen vadou uvedenou v ust. § 237 odst. 1 o. s. ř., nezbylo než konstatovat, že dovolání není přípustné a je nutné ho odmítnout, aniž by bylo možné rozsudek odvolacího soudu přezkoumávat z hlediska dovolatelkou uplatňovaných námitek.
+Nejvyšší soud proto podle § 238 odst. 2 písm. a) a § 243b odst. 4 o. s. ř. v návaznosti na ustanovení § 218 odst. 1 písm. c) rozhodl tak, že dovolání odmítl pro jeho nepřípustnost.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 4, § 224 odst. 1 a § 142 odst. 1 o. s. ř. tak, že na jejich náhradu nemá právo žádný z účastníků, neboť úspěšnému žalobci žádné náklady podle spisu nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 22. října 2002
+JUDr. Ing. Jan Hušek, v.r.
+předseda senátu
