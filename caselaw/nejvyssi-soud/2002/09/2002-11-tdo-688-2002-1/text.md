@@ -1,0 +1,16 @@
+11 Tdo 688/2002
+U S N E S E N Í
+Nejvyšší soud České republiky projednal v neveřejném zasedání konaném dne 19. září 2002 dovolání podané obviněným Ing. J. T., proti usnesení Vrchního soudu v Praze ze dne 18. 6. 2002, sp. zn. 12 To 82/02, v trestní věci vedené u Krajského soudu v Hradci Králové pod sp. zn. 8 T 55/2001, a rozhodl t a k t o :
+Podle § 265i odst. 1 písm. a) tr. ř. se dovolání o d m í t á .
+O d ů v o d n ě n í
+V trestní věci vedené u Krajského soudu v Hradci Králové pod sp. zn. 8 T 55/2001 podal obviněný Ing. J. T. prostřednictvím svého obhájce JUDr. V. J. v zákonné lhůtě proti usnesení Vrchního soudu v Praze ze dne 18. 6. 2002, sp.zn. 12 To 82/02, dovolání, a to z důvodů uvedených v § 265b odst. 1 písm. g) tr. ř.
+Nejvyšší soud České republiky (dále jen Nejvyšší soud) jako soud dovolací (§ 265c tr. ř.) nejprve zkoumal, zda jsou splněny podmínky přípustnosti dovolání podle
+§ 265a tr. ř. a shledal, že v posuzované věci dovolání přípustné není.
+Podle § 265a odst. 1 tr. ř. lze dovoláním napadnout pravomocné rozhodnutí soudu ve věci samé, jestliže soud rozhodl ve druhém stupni a zákon to připouští. Taxativní výčet rozhodnutí, která lze považovat za rozhodnutí ve věci samé, proti nimž je přípustné dovolání, je pak obsažen v ustanovení § 265a odst.2 písm. a) až h) tr. ř.
+Dovoláním napadeným usnesením Vrchního soudu v Praze ze dne 18. 6. 2002, sp. zn. 12 To 82/02, jako soudu nadřízeného ve smyslu ustanovení § 146 odst. 2 písm. c) tr. ř., bylo postupem podle § 149 odst. 1 písm. b) tr. ř. ke stížnosti krajského státního zástupce zrušeno usnesení Krajského soudu v Hradci Králové ze dne 9. 4. 2002, sp. zn. 8 T 55/2001, jímž bylo z důvodů uvedených v ustanovení § 172 odst. 1 písm. b) tr. ř. zastaveno trestní stíhání dovolatele (a dalších tří spoluobviněných). Krajskému soudu bylo uloženo, aby o věci znovu jednal a rozhodl.
+Toto zrušovací rozhodnutí stížnostního soudu ovšem nelze podřadit pod žádné z rozhodnutí vyjmenovaných v § 265a odst. 2 písm. a) až h) tr. ř. Jedná se tedy o rozhodnutí, proti kterému zákon dovolání nepřipouští. Jestliže v § 265a odst. 2 písm. c) tr. ř. je jako rozhodnutí ve věci samé vyjmenováno usnesení o zastavení trestního stíhání, tak tím se samozřejmě rozumí usnesení soudu o zastavení trestního stíhání, jež nabylo právní moci, a to rozhodnutím soudu ve druhém stupni. Napadené usnesení takovým rozhodnutím není. Naopak, tímto rozhodnutím bylo zrušeno usnesení soudu prvního stupně o zastavení trestního stíhání, a v důsledku toho žádné rozhodnutí, jímž by bylo zastaveno trestní stíhání ani právně neexistuje. V posuzované věci bylo uloženo znovu jednat a rozhodovat o podané obžalobě. Neexistuje tedy ani žádné pravomocné rozhodnutí ve věci samé.
+Proto Nejvyšší soud dovolání obviněného Ing. J. T. shledal nepřípustným, neboť směřuje proti rozhodnutí, proti němuž zákon dovolání nepřipouští. Nejvyšší soud podle § 265i odst. 1 písm. a) tr. ř. toto dovolání odmítl a učinil tak v souladu s ustanovením § 265r odst. 1 písm. a) tr. ř. v neveřejném zasedání.
+P o u č e n í : Proti tomuto usnesení o dovolání není s výjimkou obnovy řízení opravný prostředek přípustný (§ 265n tr. ř.).
+V Brně dne 19. září 2002
+Předseda senátu:
+JUDr. Antonín Draštík
