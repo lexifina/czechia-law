@@ -18,6 +18,15 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 1998-07-22 | 1/0 | Návrh zákona |  |
+| 1998-08-14 | 1/1 | Stanovisko vlády k návrhu poslanců Vojtěcha Filipa a dalších na vydání ústavního zákona, kterým se mění a doplňuje zákon České národní rady č. 1/1993 Sb., Ústava České republiky | [t000101.md](t000101.md) |
+
+## Files
+
+Text as published by psp.cz, extracted from the official file and checked against a second extraction of the same file.
+
+| File | Print | Document | Official file | Extracted / checked |
+| --- | --- | --- | --- | --- |
+| [t000101.md](t000101.md) | 1/1 | Stanovisko vlády k návrhu poslanců Vojtěcha Filipa a dalších na vydání ústavního zákona, kterým se mění a doplňuje zákon České národní rady č. 1/1993 Sb., Ústava České republiky | [t000101.htm](https://www.psp.cz/sqw/text/orig2.sqw?idd=113145) | html / htmlparser 1.0000 |
 
 ## Not held as text
 
