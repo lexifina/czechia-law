@@ -1,0 +1,17 @@
+ČESKÁ REPUBLIKA
+R O Z S U D E K
+J M É N E M R E P U B L I K Y
+Nejvyšší soud České republiky v senátě složeném z předsedy senátu JUDr. Karla Hasche a soudců JUDr. Antonína Draštíka a JUDr. Stanislava Rizmana ve veřejném zasedání konaném dne 26. ledna 2001 projednal návrh Ministerstva spravedlnosti České republiky na uznání rozsudku soudu Španělska a rozhodl t a k t o:
+Podle § 384a tr. ř., v trestní věci odsouzeného R. Z., státního občana České republiky, s e u z n á v á na území České republiky rozsudek Provinčního soudu v Gironě, Španělsko, ze dne 19. ledna 2000, složka číslo 47/99, číslo souboru 2/99, rozsudek číslo 10/2000.
+O d ů v o d n ě n í :
+Rozsudkem Provinčního soudu v Gironě, Španělsko, ze dne 19. ledna 2000, složka číslo 47/99, číslo souboru 2/99, rozsudek číslo 10/2000, byl R. Z. uznán vinným trestným činem proti veřejnému zdraví prostřednictvím látek, které způsobily těžké ublížení na zdraví se zhoršující se tendencí závažného charakteru podle článků 368 a 369,3. stupně Trestního zákona Španělska. Za tento trestný čin mu byl uložen nepodmíněný trest odnětí svobody v trvání jedenácti let a pokuta ve výši 187 500 000 peset s náhradním trestem odnětí svobody na dva měsíce. Stalo se tak na základě zjištění, že dne 12. června 1998 překročil francouzsko-španělské hranice v osobním automobilu tov. zn. Toyota Corola 1.3 XLI a v okamžiku, kdy se nacházel v blízkosti odpočívadla, byl vyzván hlídkou Civilní stráže ke kontrole. Hlídka pomocí policejních psů prohledala vůz a zajistila podezřelé místo pod přední sedačkou. Po převedení obviněného na okrsek a prozkoumání vozu bylo v kovovém předmětu ukrytém pod sedadlem nalezeno 24 balíčků po cca 12,5 gramech heroinu s 59,6% čistotou. Odsouzený tuto látku převážel za účelem předání třetí osobě k dalšímu prodeji.
+V současné době odsouzený R. Z. vykonává trest odnětí svobody ve Věznici C., Španělsko, s tím, že podle vyjádření dotčených orgánů má být výkon trestu ukončen dne 12. prosince 2009.
+Odsouzený projevil žádostí adresovanou Velvyslanectví České republiky ve Španělsku ze dne 5. února 2000 zájem o předání k výkonu trestu do České republiky. Stejnou žádost podal i příslušným orgánům Španělska.
+Ministerstvo spravedlnosti České republiky předložilo proto dne 8. ledna 2001 tuto věc Nejvyššímu soudu České republiky s návrhem, aby podle § 384a tr. ř. rozsudek Provinčního soudu v Gironě, Španělsko, ze dne 19. ledna 2000, složka číslo 47/99, číslo souboru 2/99, rozsudek číslo 10/2000, uznal na území České republiky.
+Nejvyšší soud České republiky přezkoumal předloženou trestní věc a shledal, že podmínky pro uznání rozsudku soudu Španělska jsou v této věci splněny tak, jak jsou stanoveny v Úmluvě o předávání odsouzených osob, uveřejněné pod č. 553/1992 Sb., kterou je Česká republika vázána a jejímž signatářem je i Španělsko.
+R. Z. je podle potvrzení Místního úřadu v P. ze dne 10. dubna 2000 občanem České republiky, který vyjádřil dopisem Ministerstvu spravedlnosti Španělska ze dne 14. února 2000 souhlas s předáním, přičemž je odsouzen za trestný čin, který je trestný i podle právního řádu České republiky (trestný čin nedovolené výroby a držení omamných a psychotropních látek a jedů podle § 187 tr. zák.) a zbytek trestu odnětí svobody, který je třeba ještě vykonat, převyšuje dobu šesti měsíců.
+Ze shora uvedených důvodů bylo rozhodnuto tak, že se návrhu na uznání cizozemského rozsudku vyhovuje.
+P o u č e n í : Proti tomuto rozsudku není žádný opravný prostředek přípustný.
+V Brně dne 26. ledna 2001
+Předseda senátu:
+JUDr. Karel Hasch
