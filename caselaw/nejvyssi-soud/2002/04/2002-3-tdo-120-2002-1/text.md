@@ -1,0 +1,14 @@
+3 Tdo 120/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v neveřejném zasedání konaném dne 29. dubna 2002 o dovolání obviněné A. V. proti usnesení Krajského soudu v Praze ze dne 12. září 2001, sp. zn. 9 To 373/2001, jako soudu odvolacího v trestní věci vedené u Okresního soudu v Nymburce pod sp. zn. 2 T 44/2001, t a k t o :
+Podle § 265i odst. 1 písm. a) tr. řádu se dovolání o d m í t á .
+O d ů v o d n ě n í :
+Obviněná A. V. podala prostřednictvím své obhájkyně dne 4. 3. 2002 dovolání proti usnesení Krajského soudu v Praze ze dne 12. 9. 2001, sp. zn. 9 To 373/2001, jímž nebylo zcela vyhověno odvolání obviněné proti odsuzujícímu rozsudku Okresního soudu v Nymburce ze dne 9. 7. 2001, sp. zn. 2 T 44/2001.
+Nejvyšší soud shledal, že v posuzované věci není dovolání přípustné, aniž by se dále zabýval jeho obsahem.
+Podle § 265a odst. 1 tr. řádu lze dovoláním napadnout pravomocné rozhodnutí ve věci samé, jestliže soud rozhodl ve druhém stupni a zákon to připouští. V odst. 2 tohoto zákonného ustanovení je pak uvedeno, proti jakým rozhodnutím soudu rozhodujícího ve druhém stupni se dovolání připouští. Protože však toto ustanovení z časového hlediska působí do budoucna a nikoliv zpětně, může takto označovat pouze ta rozhodnutí, která jsou učiněna a budou právně závazná až v době jeho účinnosti, tj. od 1. 1. 2002. Výklad pojmu „zákon to připouští“ je nutno pojímat v souvislosti s okamžikem nabytí právní moci rozhodnutí, a to s ohledem na zásadu provádění a posuzování právního úkonu podle v té době účinného právního předpisu. Z toho vyplývá, že dovoláním lze tedy napadnout pouze ta rozhodnutí, která nabyla právní moci v době od 1. 1. 2002. Pro tento závěr svědčí i okolnost, že přechodná ustanovení zákona č. 265/2001 Sb. neupravují možnost podat dovolání, jako nový mimořádný opravný prostředek, proti rozhodnutím, která nabyla právní moci před jeho účinností. Tento výklad zachovává též právní jistotu stran trestního řízení, kdy pokud měl např. obviněný u meritorního rozhodnutí soudu druhého stupně, jež nabylo právní moci přede dnem 1. 1. 2002 jistotu, že konečnost rozhodnutí může být zvrácena pouze v ten okamžik účinnými procesními postupy, neměla by být tato jistota podle názoru Nejvyššího soudu dodatečně narušena v souvislosti s účinností nového právního předpisu.
+Z těchto skutečností pak vyplývá, že pokud napadené usnesení nabylo právní moci dne 12. 9. 2001, nelze jej napadnout dovoláním, resp. proti tomuto rozhodnutí podané dovolání musí být podle § 265i odst. 1 písm. a) tr. řádu jako nepřípustné odmítnuto.
+Nejvyšší soud proto dovolání obviněné odmítl jako nepřípustné, aniž by z jeho podnětu přezkoumával napadené usnesení a předcházející mu řízení ve smyslu ustanovení § 265i odst. 3, odst. 4 tr. řádu.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 29. dubna 2002
+Předseda senátu:
+Mgr. Josef Hendrych
