@@ -1,0 +1,24 @@
+29 Odo 26/2001
+U S N E S E N Í
+Nejvyšší soud České republiky jako soud dovolací rozhodl v senátě složeném z předsedy JUDr. Ing. Jana Huška a soudců JUDr. Františka Faldyny, CSc. a JUDr. Zdeňka Krčmáře v právní věci žalobce T. Č. r. , spol. s r. o., proti žalovanému J. Ch., o zaplacení 5. 231,- Kč s přísl., k dovolání žalovaného proti usnesení Krajského soudu v Praze ze dne 13. 7. 2000, čj. 29 Co 251/2000 - 33, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Praze usnesením ze dne 13. 7. 2000, čj. 29 Co 251/2000 - 33 potvrdil usnesení Okresního soudu v Kladně ze dne 21. 2. 2000, čj. 18 C 204/99 - 19, jímž tento soud zastavil řízení podle § 96 odst. 1 a 3 o. s. ř. a rozhodl o povinnosti žalovaného zaplatit žalobci na nákladech řízení částku 2.400,- Kč.
+Odvolací soud v odůvodnění usnesení zejména uvedl, že žalobce se domáhal zaplacení kupní ceny a před prvním jednáním ve věci samé vzal žalobce žalobu v celém rozsahu zpět, neboť mu žalovaný vrátil zpět zboží, jehož zaplacení se žalobce domáhal. Proto soud prvního stupně řízení podle § 96 odst. 1 a 3 o. s. ř., ve znění platném do 31. 12. 2000 (dále jen "o. s. ř.") zastavil a rozhodl o povinnosti žalovaného zaplatit žalobci náklady řízení podle § 146 odst. 2, 2. věta o. s. ř., neboť žaloba, která byla podána důvodně, byla vzata zpět pro chování žalovaného. S tímto závěrem se odvolací soud ztotožnil a proto rozhodl tak, jak bylo uvedeno výše.
+Dovoláním ze dne 15. 8. 2000 napadl žalovaný usnesení odvolacího soudu z důvodu dle § 241 odst. 3 písm. c) o. s. ř. a požadoval, aby dovolací soud rozhodl tak, že řízení se zastavuje a žádný z účastníků nemá právo na náhradu nákladů řízení.
+V odůvodnění dovolání žalovaný zejména uvedl, že z důvodu neznámého nového sídla žalobce, dále z důvodu ukončení činnosti zástupce žalobce p. H., s nimž bylo vrácení zboží dohodnuto již před podáním žaloby a z důvodu, že sídlo žalobce se mu podařilo zjistit až dne 16. 11. 1999 (zboží vráceno 17. 11. 1999, tedy následující den) se žalovaný domnívá, že nedošlo z jeho strany k zavinění prodlení, jež mělo za následek podání žaloby a následné soudní řízení. Žalovaný se proto domnívá, že není důvodu, proč by po něm měla být požadována náhrada nákladů řízení, když toto řízení nezavinil.
+Nejvyšší soud posoudil dovolání žalovaného podle ust. § 240 odst. 1 o. s. ř.
+Dovolací soud ze spisu zjistil, že dovolání bylo žalovaným podáno na poště dne 8. 9. 2000 a adresováno Vrchnímu soudu v Praze, jemuž došlo dne 11. 9. 2000. Tento soud dovolání odeslal dne 22. 9. 2000 Okresnímu soudu v Kladně, jemuž došlo 25. 9. 2000.
+Usnesení odvolacího soudu bylo žalobci doručeno dne 9. 8 . 2000; pokud jde o žalovaného bylo zjištěno, že usnesení bylo zasláno jako tzv. obyčejná zásilka (tzv. s hnědým pruhem) a vzhledem k tomu, že adresát nebyl zastižen, byla zásilka uložena dne 9. 8. 2000, žalovaný si ji vyzvedl dne 14. 8. 2000. Usnesení odvolacího soudu tak s ohledem na ust. § 46 odst. 2 o. s. ř. nabylo právní moci dne 9. 8. 2000.
+Podle § 240 odst. 1 o. s. ř. může účastník podat dovolání do 1 měsíce od právní moci rozhodnutí odvolacího soudu. Lhůta pro podání dovolání je podle § 240 odst. 2, 2. věta o. s. ř. zachována, bude-li dovolání podáno ve lhůtě u odvolacího nebo dovolacího soudu.
+Z výše uvedeného vyplývá, že dovolání bylo podáno u Vrchního soudu v Praze, který v dané věci není soudem odvolacím ani soudem dovolacím.
+Proto dle § 240 odst. 2, 2 věta o. s. ř. nebyla lhůta pro podání dovolání zachována tím, že žalovaný dovolání podal na poště k doručení ještě včas, ale dovolání adresoval soudu, u něhož podání dovolání není spojeno se zachováním dovolací lhůty. Dovolání nebylo též tímto soudem v dovolací lhůtě odesláno příslušnému soudu, jak to vyplývá z výše uvedeného, aby bylo možné pokládat dovolací lhůtu za zachovanou.
+Dále je vhodné uvést, že v daném případě není mj. dovolání přípustné podle § 238a odst. 1 písm. a), věta za středníkem o. s. ř., neboť žalovaný v dovolání fakticky napadá rozhodnutí odvolacího soudu, jímž tento soud potvrdil rozhodnutí soudu prvního stupně o nákladech řízení.
+Nejvyšší soud proto podle § 240 odst. 1, 2. věta o. s. ř., § 243b odst. 4 o. s. ř. v návaznosti na ust. § 218 odst. 1 písm. a) o. s. ř. rozhodl tak, že dovolání pro jeho opožděné podání odmítl.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 4 o. s. ř. v návaznosti na ust. § 224 ost. 1 a § 142 odst. 1 o. s. ř. tak, že žádný z účastníků nemá právo na jejich náhradu, neboť žalovaný neměl v dovolacím řízení úspěch a žalobci podle spisu žádné náklady v tomto řízení nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 21. února 2001
+JUDr. Ing. Jan H u š e k, v.r.
+předseda senátu
+Za správnost vyhotovení: Naděžda Solařová
