@@ -1,0 +1,22 @@
+32 Odo 1279/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Kateřiny Hornochové a JUDr. Jiřího Macka v právní věci žalobkyně D. s.r.o., zastoupené, advokátkou, proti žalovaným 1) R. N., 2) Ing. Z. N., oběma zastoupeným, advokátem, o zaplacení 361.792,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 11 C 126/98, o dovolání žalovaných proti rozsudku Městského soudu v Praze ze dne 4. září 2003, č.j. 22 Co 235/2003-228, takto:
+I. Dovolání žalovaných se odmítá.
+II. Žalovaní jsou povinni zaplatit žalobkyni na náhradě nákladů dovolacího řízení částku 7.575,- Kč do tří dnů od právní moci tohoto usnesení.
+O d ů v o d n ě n í :
+Městský soud v Praze rozsudkem ze dne 4. září 2003, č.j. 22 Co 235/2003-228, potvrdil v pořadí druhý rozsudek Obvodního soudu pro Prahu 2 ze dne 4. prosince 2002, č.j. 11 C 126/98-178, ve spojení s usnesením ze dne 4. července 2003, č.j. 11 C 126/98-210, ve výrocích o věci samé, jimiž bylo žalovaným uloženo zaplatit žalobkyni částku 168.726,60 Kč s příslušenstvím a zamítnuta žaloba co do částky 193.065,40 Kč s příslušenstvím, jakož i ve výroku o nákladech řízení státu. Dále ho změnil ve výroku o nákladech řízení mezi účastníky navzájem tak, že tyto náklady činí 42.098,- Kč a jsou splatné k rukám advokáta JUDr. J. S., jinak ho v tomto výroku potvrdil a rozhodl o nepřiznání náhrady nákladů odvolacího řízení žádnému z účastníků.
+Rozsudek odvolacího soudu napadli žalovaní společným dovoláním datovaným dne 12. ledna 2004, které učinili faxem dne 19. ledna 2004 (srov. č.l. 239 spisu) a jeho originál předali dne 20. ledna 2004 k poštovní přepravě. Dovolatelé, vytýkajíce odvolacímu soudu nesprávné právní posouzení věci, snesli argumenty na podporu tohoto jimi uplatněného dovolacího důvodu a navrhli, aby Nejvyšší soud napadený rozsudek odvolacího soudu zrušil a věc mu vrátil k dalšímu řízení.
+Ve vyjádření k dovolání se žalobkyně, poukazujíc na jeho formální nedostatky, s právním posouzením věci soudy obou stupňů ztotožnila. Proto navrhla odmítnutí, případně zamítnutí dovolání s tím, že jí bude přiznána náhrada nákladů dovolacího řízení.
+Dovolání bylo podáno opožděně.
+Se zřetelem k době vydání rozsudků soudů obou stupňů se uplatní pro dovolací řízení – v souladu s body 1., 15. a 17., hlavy I., části dvanácté, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony – občanský soudní řád ve znění účinném od 1. ledna 2001 (dále též jen „o. s. ř.).
+Podle § 240 odst. 1 věty první o. s. ř. může účastník podat dovolání do dvou měsíců od doručení rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Zmeškání této lhůty nelze prominout (§ 240 odst. 2 věta první o. s. ř.).
+Rozsudek odvolacího soudu byl doručen, jak vyplývá z doručenky založené ve spisu na č.l. 230 verte, žalovaným (jejich právnímu zástupci) dne 12. listopadu 2003.
+Podle ustanovení § 57 odst. 2 věty první o. s. ř. končí lhůty určené podle týdnů, měsíců nebo let uplynutím toho dne, který se svým označením shoduje se dnem, kdy došlo ke skutečnosti určující počátek lhůty, a není-li ho v měsíci, posledním dnem měsíce.
+Ve smyslu tohoto ustanovení byl posledním dnem dvouměsíční lhůty k podání dovolání den 12. leden 2004 (pondělí). Dovolání zaslané žalovanými faxem až dne 19. ledna 2004 je tedy zjevně opožděné.
+Nejvyšší soud proto, aniž nařizoval jednání (§ 243a odst. 1 věta první o. s. ř.), opožděné dovolání odmítl (§ 243b odst. 5 věta první, § 218a o. s. ř.).
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanoveními § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 3 o. s. ř. Jelikož dovolatelé z procesního hlediska (podáním opožděného dovolání) zavinili, že dovolací soud dovolání odmítl, vzniklo žalobkyni vůči nim právo na náhradu účelně vynaložených nákladů dovolacího řízení. Náklady žalobkyně sestávají ze sazby odměny za zastupování advokátem v částce 7.500,- Kč podle § 3 odst. 1, § 10 odst. 3, § 14 odst. 1, § 15, § 17 odst. 1 písm. a) a § 18 odst. 1 vyhlášky č. 484/2000 Sb. a z paušální částky 75,- Kč za jeden úkon právní služby (vyjádření k dovolání) podle § 13 odst. 3 vyhlášky č. 177/1996 Sb. ve znění pozdějších předpisů.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+Nesplní-li povinní, co jim ukládá vykonatelné rozhodnutí, může se oprávněná domáhat výkonu rozhodnutí.
+V Brně 22. března 2005
+JUDr. Miroslav Gallus, v.r.
+předseda senátu
