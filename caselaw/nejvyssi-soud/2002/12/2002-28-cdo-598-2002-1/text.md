@@ -1,0 +1,22 @@
+28 Cdo 598/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Oldřicha Jehličky, CSc., a soudců JUDr. Josefa Rakovského a JUDr. Milana Pokorného, CSc., o dovolání žalovaného Ing. arch. K. K., zast. advokátem, které bylo podáno proti rozsudku Městského soudu v Praze ze dne 20. února 1998, sp. zn. 51 Co 254/97 (v právní věci žalobce Stavebního bytového družstva V., zast. advokátem, proti žalovanému Ing. arch. K. K., zast. advokátem, o vzájemné žalobě žalovaného o vyklizení místnosti, vedené u Obvodního soudu pro Prahu 4 pod sp.zn. 11 C 213/89) takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků řízení nemá právo na náhradu nákladů řízení o dovolání.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 4 rozsudkem ze dne 2. května 1996 pod č.j. 11 C 213/89-77, tak rozhodl o vzájemné žalobě, že uznal žalobce povinným vyklidit a vyklizenou žalovanému odevzdat místnost specifikovanou ve výroku tohoto rozhodnutí, a to do 15 dnů od právní moci tohoto rozsudku. Žádnému z účastníků nebylo přiznáno právo na náhradu nákladů řízení.
+Toto rozhodnutí soudu prvního stupně Městský soud v Praze jako soud odvolací svým rozsudkem ze dne 20. února 1998 pod č.j. 51 Co 254/97-104 tak změnil, že žalobu o vyklizení předmětné místnosti zamítl. Žalobci nebyla přiznána náhrada nákladů řízení před soudy obou stupňů.
+Proti rozsudku odvolacího soudu podal žalovaný dovolání, které bylo později doplněno o dovolání vypracovaným jeho právním zástupcem.
+Přípisem na č.l. 139 Nejvyšší soud ČR zavázal soud prvního stupně, aby mj. vyzval žalovaného k doložení jeho tvrzeného dovolání ze dne 27.7.1998. Obvodní soud postupoval v souladu s instrukcemi dovolacího soudu, žalovaný však požadované neposkytnul.
+V dovolání, které je obsahem spisu, tedy v podání ze dne 3.10.1998 (č.l. 109), doplněného přípisem označeným jako „dovolání“, který byl Obvodnímu soudu pro Prahu 4 doručen dne 26.4.1999 (č.l. 111) a v dovolání sepsaném advokátem žalovaného (č.l. 120) je napadáno právní posouzení věci provedené odvolacím soudem. Žalovaný navrhuje zrušení rozsudku městského soudu a vrácení věci tomuto soudu k dalšímu řízení.
+Nejvyšší soud jako soud dovolací vycházel při posuzování dovolání z ustanovení části dvanácté, hlavy 1, bodu 17 zákona č. 30/2000 Sb., podle něhož dovolání proti rozhodnutím odvolacího soudu, vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních předpisů, se projednají a rozhodne se o nich podle dosavadních předpisů. Proto se dále uvádějí ustanovení občanského soudního řádu ve znění před novelou provedenou zákonem č. 30/2000 Sb. (dále jen o.s.ř.).
+Dovolací soud dospěl k závěru, že dovolání nelze věcně projednat.
+Podle ustanovení § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Přípustnost dovolání je upravena v ustanoveních § 237 odst. 1 až § 239 odst. 2 o.s.ř.
+Projednáním a rozhodnutím dovolání podle dosavadních právních předpisů ve smyslu bodu 17., hlavy I části dvanácté zákona č. 30/2000 Sb., se rozumí též posuzování včasnosti dovolání včetně vymezení běhu lhůty k jeho podání (shodně srov. též usnesení Nejvyššího soudu uveřejněné pod číslem 70/2001 Sbírky soudních rozhodnutí a stanovisek). Podle § 240 odst 1 o.s.ř. ve znění účinném před 1. lednem 2001 může účastník podat dovolání do jednoho měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Podle odstavce druhého § 240 o.s.ř. zmeškání lhůty k podání dovolání nelze prominout.
+Dovolací soud tedy sice nepochyboval o tom, čeho se žalovaný v dovolacím řízení domáhá (§ 79 odst. 1 o.s.ř.), avšak nemohl pominout základní zjištění, že dovolání bylo podáno opožděně. Rozsudek odvolacího soudu nabyl právní moci dne 26.6.1998, lhůta k podání daného mimořádného opravného prostředku tedy skončila 26.7.1998. První podání žalovaného, které by podle obsahu bylo možné posoudit jako dovolání však bylo u obvodního soudu podáno až dne 8.10.1998.
+Nejvyššímu soudu proto vzhledem k výše uvedenému nezbylo, než dovolání podle § 243b odst. 4 a § 218 odst. 1 písm. a) o. s. ř. jako opožděné odmítnout.
+O nákladech dovolacího řízení bylo rozhodnuto podle ust. § 151, § 224 odst. 1 a § 243 b odst. 4 o.s.ř., protože žalovaný neměl v dovolacím řízení úspěch a žalobci náklady řízení nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 27. prosince 2002
+JUDr. Oldřich J e h l i č k a , CSc., v.r.
+předseda senátu
