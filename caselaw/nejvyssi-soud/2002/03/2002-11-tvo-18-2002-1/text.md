@@ -1,0 +1,14 @@
+11 Tvo 18/2002
+U S N E S E N Í
+Nejvyšší soud České republiky projednal v neveřejném zasedání konaném dne 21. 3. 2002 v trestní věci obviněného S. B. stížnost obhájce JUDr. J. P., advokáta, proti usnesení Vrchního soudu v Praze ze dne 14. 11. 2001, sp. zn. 9 To 118/01, a rozhodl t a k t o :
+Podle § 149 odst. 1 písm. b) tr. řádu s e usnesení Vrchního soudu v Praze vedené pod sp. zn. 9 To 118/01 z r u š u j e a věc s e v r a c í soudu prvního stupně, aby ji v potřebném rozsahu znovu projednal a rozhodl.
+O d ů v o d n ě n í :
+Usnesením Vrchního soudu v Praze ze dne 14. 11. 2001, sp. zn. 9 To 118/01, byl podle § 66 odst. 3 tr. řádu JUDr. J. P. předán ke kárnému postihu příslušnému orgánu České advokátní komory s odůvodněním, že jako právní zástupce obviněného se bez omluvení nezúčastnil veřejného zasedání a zmařil tak jednání před odvolacím soudem.
+Proti tomuto usnesení podal obhájce v zákonné lhůtě stížnost, ve které poukazuje na skutečnost, že od 14. 11. 2001 již nebyl právním zástupcem obviněného S. B., neboť mu byl rozhodnutím ČAK v Praze na dobu jednoho roku pozastaven výkon advokacie, což v červenci 2001 soudu písemně oznámil. Proto navrhl, aby napadené usnesení bylo zrušeno.
+Nejvyšší soud z podnětu podané stížnosti přezkoumal podle § 147 odst. 1 tr. řádu správnost výroku napadeného usnesení i řízení, které mu předcházelo, a dospěl k následujícímu závěru.
+Pořádkové opatření podle § 66 odst. 3 tr. řádu bylo uloženo předsedou senátu bez jednání, a tak obhajobu JUDr. J. P. bylo možno prověřit až před soudem druhého stupně. V daném případě ovšem námitka uplatněná ve stížnosti JUDr. J. P. nemá ve spisu Krajského soudu v Ústí nad Labem - pobočka Liberec, sp. zn. 28 T 65/2000, oporu. Ze spisového materiálu není patrno, že by JUDr. J. P. byl už dne 14. 11. 2001 pozastaven výkon advokacie, a že by o tomto soud informoval. Ze stejného materiálu se naopak podává, že se Vrchní soud v Praze, jako soud odvolací, o postavení výkonu advokacie JUDr. J. P. dozvěděl až po zmaření veřejného zasedání, takže příslušné kroky k odstranění tohoto nedostatku učinil až po tomto zjištění. Na druhé straně však existuje možnost, že JUDr. J. P. má k dispozici důkaz, že soud o svém pozastavení výkonu advokacie informoval řádně a včas. Tuto skutečnost je nutno ověřit vyžádáním tohoto důkazu, případně výslechem JUDr. J. P. Protože v tomto směru je zatím dokazování neúplné a soud druhého stupně v této zásadní okolnosti nechce nahrazovat činnost soudu prvního stupně, bylo rozhodnuto tak, jak je ve výroku uvedeno, přičemž je na soudu prvního stupně, aby postupoval ve shora naznačeném směru.
+Za tohoto stavu bylo rozhodnuto, jak je ve výroku usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 21. března 2002
+Předseda senátu:
+JUDr. Pavel K u č e r a
