@@ -1,0 +1,25 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+29 Odo 701/2001-187
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobkyně H. P. proti žalovanému Ing. P. H., o vypořádání sdružení, vedené u Okresního soudu v Karlových Varech pod sp. zn. 10 C 343/93, o dovolání žalovaného proti usnesení Krajského soudu v Plzni ze dne 31. května 2001, čj. 13 Co 1090/2000 – 168 takto:
+I. Dovolání se odmítá.
+II. Žalovaný je povinen uhradit žalobkyni náklady dovolacího řízení ve výši
+450,- Kč, do 3 dnů od právní moci tohoto rozhodnutí do rukou advokáta žalobce.
+O d ů v o d n ě n í :
+Usnesením ze dne 31. května 2001 čj. 13 Co 1090/2000 – 168 Krajský soud v Plzni potvrdil v napadené části, tj. ve výroku o nákladech řízení usnesení Okresního soudu v Karlových Varech ze dne 5. října 2000 čj. 10 C 343/93-157.
+Proti usnesení odvolacího soudu podal žalovaný (podáním datovaným 15. 8. 2001) dovolání, které podal osobně u Okresního soudu v Karlových Varech dne 31. 8. 2001. V dovolání navrhuje zrušit usnesení odvolacího soudu a soudu prvního stupně a vrátit věc soudu prvního stupně k dalšímu řízení. Přípustnost dovolání spatřuje v ust. § 237 odst. 1 písm. c) zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů (dále též jen „o. s. ř.“), neboť napadené rozhodnutí má ve věci samé po právní stránce zásadní význam, rozhodnutí dále spočívá na nesprávném právním posouzení věci podle ust. § 241a odst. 2 písm. b) o. s. ř. a řízení je postiženo vadou, která mohla mít za následek nesprávné rozhodnutí ve věci podle ust. § 241a odst. 2 písm. a) o. s. ř.
+Žalobkyně se prostřednictvím svého právního zástupce k dovolání žalovaného vyjádřila s tím, že není možné odkazovat na ust. § 237 odst. 3 o. s. ř., neboť napadeným usnesením není řešena právní otázka, která je odvolacími soudy nebo dovolacím soudem rozhodována rozdílně a rozhodnutí odvolacího soudu není v rozporu s hmotným právem. Navrhuje dovolání usnesením zamítnout.
+Podle bodu 17., hlavy první, části dvanácté, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů, se projednají a rozhodnou podle dosavadních právních předpisů (to jest podle občanského soudního řádu ve znění účinném před 1. lednem 2001).
+Projednáním dovolání a rozhodnutím o něm podle dosavadních právních předpisů ve smyslu části dvanácté, hlavy I, bodu 17 zákona č. 30/2000 Sb. se rozumí nejen např. posuzování podmínek řízení, jakož i vymezení náležitostí písemného vyhotovení rozhodnutí (včetně toho, že v záhlaví usnesení se neuvádí složení senátu); podle dosavadních právních předpisů soud zkoumá (jako součást procesu projednání a rozhodnutí o dovolání) též včasnost dovolání, včetně vymezení běhu lhůty k jeho podání (shodný závěr formuloval Nejvyšší soud např. v usnesení uveřejněné pod číslem 70/2001 Sbírky soudních rozhodnutí a stanovisek a Ústavní soud v usneseních ze dne 2. ledna 2002, sp. zn. I ÚS 660/01 a ze dne 24. ledna 2002, sp. zn. IV. ÚS 560/01).
+Přestože napadené rozhodnutí bylo vydáno 31. května 2001, Nejvyšší soud je (ve shodě s výše uvedeným) povinen projednat i dovolání v této věci a rozhodnout o něm podle občanského soudního řádu, ve znění účinném před novelizací provedenou zákonem č. 30/2000 Sb., tj. účinném do dne 31. prosince 2000.
+Podle § 240 odst. 1 o. s. ř. účastník může podat dovolání do jednoho měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Zmeškání lhůty k podání dovolání nelze prominout, lhůta je však zachována, bude-li dovolání podáno ve lhůtě u odvolacího nebo dovolacího soudu (§ 240 odst. 2 o. s. ř.).
+Usnesení odvolacího soudu bylo doručeno zástupci žalovaného (§ 49 odst. 1 věta první o. s. ř.) dne 18. 7. 2001 (č. l. 169); téhož dne rozhodnutí nabylo právní moci.
+Ve smyslu ustanovení § 57 odst. 2 o. s. ř. byl posledním dnem jednoměsíční lhůty k podání dovolání den 20. 8. 2001 (pondělí). Dovolání podané žalovaným osobně soudu až dne 31. 8. 2001 (č. l. 173) je tedy opožděné.
+Nejvyšší soud proto podle § 243b odst. 4 a § 218 odst. 1 písm. a/ o. s. ř. opožděné dovolání odmítl.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením ust. § 146 odst. 2 věta první v návaznosti na § 224 odst. 1 a § 243b odst. 4 o. s. ř. Žalovaný procesně zavinil, že dovolání muselo být odmítnuto a je povinen nahradit žalobkyni náklady právního zastoupení. Náklady žalobkyně sestávají z odměny advokáta za zastupování před soudem v jednom stupni (vyjádření k dovolání) ve výši 375,- Kč (výše odměny je určena podle ustanovení § 14 odst. 3, § 15 a § 18 odst. 1 vyhlášky č. 484/2000 Sb.) a jedné náhrady paušálních výdajů po 75,- Kč (dle vyhlášky č. 177/1996 Sb.), celkem tedy 450,- Kč.
+Nesplní-li povinný dobrovolně, co mu ukládá toto vykonatelné rozhodnutí, může se oprávněný domáhat soudního výkonu rozhodnutí.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 26. února 2002
+JUDr. František Faldyna, CSc., v.r.
+předseda senátu
