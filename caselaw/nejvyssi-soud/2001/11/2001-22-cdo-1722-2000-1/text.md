@@ -1,0 +1,16 @@
+22 Cdo 1722/2000
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Baláka a soudců JUDr. Marie Rezkové a JUDr. Jiřího Spáčila, CSc., ve věci žalobkyně L. J., zastoupené advokátem, proti žalovanému J. K., zastoupeném advokátem, o zrušení a vypořádání podílového spoluvlastnictví, vedené u Okresního soudu v Příbrami pod sp. zn. 12 C 159/93, o dovolání žalovaného proti rozsudku Krajského soudu v Praze ze dne 14. března 2000, č. j. 23 Co 695/99-218, takto:
+I. Dovolací řízení se zastavuje.
+II. Žalovaný je povinen zaplatit žalobkyni na náhradě nákladů dovolacího řízení částku 575,- Kč do tří dnů od právní moci tohoto usnesení k rukám JUDr. J. K..
+O d ů v o d n ě n í :
+Krajský soud v Praze jako soud odvolací k odvolání žalovaného rozsudkem ze dne 14. března 2000, č. j. 23 Co 695/99-218, potvrdil rozsudek Okresního soudu v Příbrami ze dne 16. března 1999, č. j. 12 C 159/93-188, jímž soud zrušil podílové spoluvlastnictví účastníků k pozemkové parcele č. 1116/7 o výměře 474 m2 s kolnou, zapsané u Katastrálního úřadu v P. na LV č. 231 pro obec a kat. úz. D., provedl jeho vypořádání reálným rozdělením pozemku a kolny podle podílů účastníků podle geometrického plánu O. B. ze dne 5. října 1998, č. 1014-2/95, a rozhodl o náhradě nákladů řízení. Proti rozsudku dovolání nepřipustil a rozhodl o náhradě nákladů odvolacího řízení.
+Proti rozsudku odvolacího soudu podal žalovaný včas dovolání, jímž se domáhal zrušení rozsudku odvolacího soudu a vrácení věci tomuto soudu k dalšímu řízení.
+Žalobkyně navrhla zamítnutí dovolání s tím, že rozsudek odvolacího soudu je správný a že po právní moci rozsudku odvolacího soudu jí přikázanou část sporného pozemku rozsudkem soudu prvního stupně darovala své dceři.
+Podáním ze dne 6. listopadu 2001 vzal žalovaný dovolání zpět.
+Nejvyšší soud jako soud dovolací podle bodu 17. hlavy první části dvanácté zákona č. 30/2000 Sb. projednal a rozhodl o dovolání podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění před novelou provedenou zákonem č. 30/2000 Sb. (dále jen „OSŘ“). V důsledku vzetí dovolání zpět jako dispozitivního úkonu dovolatele dovolací soud řízení podle § 243b odst. 4 věty druhé OSŘ zastavil.
+Výrok o náhradě nákladů dovolacího řízení vychází ze skutečnosti, že žalovaný svým procesním postupem zavinil, že řízení muselo být zastaveno, a že žalobkyni vznikly náklady řízení (§ 243b odst. 4, § 224 odst. 1 a § 146 odst. 2 věta první OSŘ). Podle části dvanácté hlavy první bodu 10. zákona č. 30/2000 Sb. odměna za zastupování advokátem nebo notářem v řízeních v jednom stupni, která byla zahájena přede dnem nabytí účinnosti tohoto zákona, se stanoví podle dosavadních předpisů. Náklady řízení představovaly odměnu advokáta za jeden úkon právní služby – vyjádření k dovolání ve výši 500,- Kč podle § 7, § 8 odst. 1 a § 11 odst. 1 písm. k) vyhlášky č. 177/1996 Sb. – advokátní tarif a paušální náhradu hotových výdajů 75,- podle § 13 odst. 3 téže vyhlášky, když hodnota sporu nebyla ve vyjádření k dovolání uvedena a je tak zjistitelná jen s nepoměrnými obtížemi.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 26. listopadu 2001
+JUDr. František Balák, v.r.
+předseda senátu
