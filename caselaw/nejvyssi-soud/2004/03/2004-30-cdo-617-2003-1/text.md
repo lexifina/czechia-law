@@ -1,0 +1,46 @@
+30 Cdo 617/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy
+JUDr. Pavla Pavlíka a soudců JUDr. Romana Fialy a JUDr. Karla Podolky v právní věci žalobce T. K., zastoupeného advokátem, proti žalovaným 1/ D. – I., a.s., 2/ D. H. a 3/ M. H., všech zastoupených advokátkou, o neplatnost stavebního povolení a oddělení pozemku, vedené u Okresního soudu Praha - západ pod
+sp. zn. 9 C 1525/99, o dovolání žalobce proti usnesení Krajského soudu v Praze ze dne 15. května 2002, č.j. 25 Co 169/2002-88, takto:
+Usnesení Krajského soudu v Praze ze dne 15. května 2002, č.j. 25 Co 169/2002-88 a rozsudek Okresního soudu Praha - západ ze dne 22. listopadu 2001,
+č.j. 9 C 1525/99-70 se zrušují a věc se vrací soudu prvního stupně k dalšímu řízení.
+O d ů v o d n ě n í :
+Okresní soud Praha - západ rozsudkem ze dne 22. listopadu 2001,
+č.j. 9 C 1525/99-70 zamítl žalobu, aby bylo určeno, že stavební povolení čj. 387/98 vydané Stavebním úřadem v D. dne 20. října 1998 a oddělení pozemku
+č. parc. 50/2 v katastrálním území D. je neplatné. Rozhodl též o náhradě nákladů řízení.
+O odvolání žalobce Krajský soud v Praze usnesením ze dne 15. května 2002 pod č.j. 25 Co 169/2002-88 rozsudek soudu prvního stupně zrušil a řízení zastavil s tím, že po právní moci tohoto usnesení věc bude postoupena stavebnímu úřadu
+v D. Rozhodl též o náhradě nákladů řízení před soudy obou stupňů.
+Odvolací soud vycházel ze zjištění, že v tomto řízení bylo podstatou žaloby domoci se odklizení rozhodnutí vydaného ve správním řízení. Žalobce především namítá, že stavební řízení trpí podstatnou vadou, neboť mu v něm byla odebrána možnost být jeho účastníkem. Dále poukazuje na skutečnost, že oddělení pozemku
+č. 50/2 v katastrálním území D. bylo zcela účelové. Navrhl proto vyslovení neplatnosti i tohoto oddělení. Žalobce se tak domáhá, aby soud svým výrokem zasáhl proti rozhodnutím vydaným ve správním řízení.
+Odvolací soud v tomto případě zejména odkázal na ustanovení § 7 odst. 1 občanského soudního řádu (dále jen \"o.s.ř.\") ve znění do účinnosti zákona
+č. 30/2000 Sb. a připomněl, že v občanském soudním řízení se zásadně neprojednávají věci, které jsou předmětem práva správního. Rozhodnutí vydané ve správním řízení může soud přezkoumat jen podle části páté o.s.ř., a to za podmínek stanovených v jeho § 244 násl. Kromě těchto případů není dána pravomoc soudu k projednávání a rozhodování věcí správního práva. Dovolací soud dále konstatoval, že dostatek pravomoci soudu k projednání a rozhodnutí věci je podmínkou řízení, k jejímuž splnění je podle § 103 o.s.ř. soud povinen přihlížet kdykoli za řízení, přičemž nelze-li takový nedostatek odstranit, soud řízení zastaví. Nespadá-li věc do pravomoci soudů, soud
+v takovém případě věc postoupí po právní moci usnesení o zastavení řízení příslušnému orgánu (§ 104 odst. 1 o.s.ř.). Odvolací soud konečně připomněl, že ač žalobce
+v posuzované věci namítá nesprávnost rozhodnutí vydaného ve správním řízení
+s poukazem na vady takového řízení, vyloučil, že by šlo o žalobu podle části páté o.s.ř. Svou povahou proto jde o podání ve správním řízení. Není proto dána pravomoc věc projednat a rozhodnout.
+Toto rozhodnutí Krajského soudu v Praze nabylo právní moci dne 30. května 2002, přičemž zástupci žalobce bylo doručeno téhož roku.
+Proti uvedenému rozsudku odvolacího soudu podal žalobce dne 30. července 2002 včasné dovolání, v němž s tímto rozhodnutím vyslovuje nesouhlas a žádá, aby toto rozhodnutí bylo zrušeno (stejně tak i rozsudek soudu prvního stupně), a aby věc byla vrácena soudu prvního stupně k dalšímu řízení.
+Dovolatel poukazuje na skutečnost, že podle článku 36 Listiny základních práv a svobod se může každý stanoveným postupem domáhat svého práva u nezávislého a nestranného soudu a každý, kdo tvrdí, že byl na svých právech zkrácen rozhodnutím orgánu veřejné správy, se může obrátit na soud, aby přezkoumal zákonnost takového rozhodnutí. Podle dovolatele vydání předmětného stavebního povolení na podkladě účelového (neplatného) oddělení pozemku parc. č. 50/2 znamenalo podstatný zásah do vlastnického práva žalobce. Žalobce neměl přes zaručené právo na soudní ochranu, žádnou možnost uplatnit své námitky týkající se nedodržení minimálních odstupů staveb daných vyhláškou, znehodnocení jeho pozemku vinou značného zastínění a tedy ztíženou možnost jeho případného prodeje, znemožnění plánované výstavby, možné znehodnocení zdrojů pitné vody, nadměrné zatěžování okolí výfukovými plyny a exhalacemi, zvýšené hladiny hluku, prachu a vibrací, neblahého vlivu plánované výstavby na estetickou kvalitu území a jeho rekreační využití. Dovolatel vyslovuje přesvědčení, že jeho vlastnické právo bylo popsanými skutečnostmi porušeno, takže soudy měly povinnost poskytnout jeho právům ochranu tak, jak jim to ukládá článek 90 Ústavy České republiky.
+K uvedenému dovolání žalobce nebylo podáno vyjádření.
+Dovolání žalobce je důvodné, byť z jiných, než v dovoláním uvedených důvodů.
+Dovolací soud uvážil, že dovolání žalobce bylo podáno oprávněnou osobou, řádně zastoupenou advokátem podle ustanovení § 241 odst. 1 o.s.ř., stalo se tak ve lhůtě stanovené ustanovením § 240 odst. 1 o.s.ř., je charakterizováno obsahovými
+i formálními znaky požadovanými ustanovením § 241a odst. 1 o.s.ř. Dovolání vychází
+z dovolacích důvodů podle ustanovení § 241a odst. 2 písm. b) o.s.ř. Dovolává se pak přípustnosti dovolání podle § 239 odst. 1 písm. a) o.s.ř.
+Dovolací soud poté přezkoumal napadené usnesení Krajského soudu v Praze
+v souladu s ustanovením § 242 odst. 1 až 3 o.s.ř. a dospěl k závěru, že dovoláním napadené rozhodnutí odvolacího soudu nelze považovat za správné (§ 243b odst. 2 o.s.ř.).
+Z ustanovení § 242 o.s.ř. vyplývá, že právní úprava institutu dovolání obecně vychází ze zásady vázanosti dovolacího soudu rozsahem dovolacího návrhu. Dovolací soud je přitom vázán nejen rozsahem dovolacího návrhu, ale i uplatněným dovolacím důvodem. Současně však, je-li dovolání přípustné, dovolací soud přihlédne též k vadám uvedeným v § 229 odst. 1, § 229 odst. 2 písm. a) a b) a § 229 odst. 3 o.s.ř., jakož
+i k jiným vadám řízení, které mohly mít za následek nesprávné rozhodnutí ve věci,
+i když nebyly v dovolání uplatněny.
+Z obsahu spisu nevyplývá, že by dané řízení bývalo bylo poznamenáno vadami ve smyslu ustanovení § 229 odst. 1, § 229 odst. 2 písm. a) a b) a § 229 odst. 3 o.s.ř. Jiná je však situace v případě tzv. jiných vad řízení.
+Je nepochybné, že řízení bylo zahájeno ve smyslu ustanovení § 79 odst. 1 o.s.ř. na návrh žalobce. Podle tohoto ustanovení tak bylo na žalobci, aby v této žalobě zcela jednoznačně uvedl, čeho se a na základě jakých skutečností domáhá. Je pak nepochybné, že petit žaloby, ale zčásti i odůvodnění této žaloby může vést
+k pochybnostem, zda jde skutečně o návrh projednatelný v občanském soudním řízení, které u soudu druhého stupně nalezly odraz v obsahu napadeného usnesení. Přesto však úvahy odvolacího soudu je třeba mít zatím za předčasné. Dovolací soud poukazuje především na skutečnost, že vlastní návrh podaný žalobcem v této věci nesvědčí o tom, že má žalobce zcela jasno v otázce, jakým způsobem mají být jeho práva, o nichž se domnívá, že byla dotčena, v soudním řízení hájena. Je nepochybné, a odvolacímu soudu je nutno dát za pravdu, že formulace žaloby může vést k závěru, že se formou této žaloby žalobce míní domoci odstranění účinků konkrétních správních rozhodnutí (aniž by však byl sám eventuálně postupoval podle části páté o.s.ř. o správním soudnictví). Současně ovšem žalobce hovoří (mimo jiné např. i v odvolacím řízení) o tom, že
+v daném případě bylo porušeno jeho vlastnické právo a v té souvislosti požaduje, aby mu byla poskytnuta ochrana, jak to ukládá článek 90 Ústavy České republiky. Nelze proto vyloučit ani možnost, že návrhem na zahájení tohoto řízení tak žalobce svým způsobem mínil vlastnickou žalobu ve smyslu ustanovení § 126 odst. 1 občanského zákoníku.
+Protože tedy zatím není zcela jasné, čeho se svojí žalobou podanou u soudu žalobce domáhá, nebylo dosud možno dospět ke spolehlivému závěru, zda jsou v této věci splněny podmínky řízení (§ 103, § 104 odst. 1 o.s.ř.). Bylo proto naopak třeba vést žalobce ve smyslu ustanovení § 43 o.s.ř. k doplnění, resp. opravě žaloby tak, aby z ní zcela jasně vyplynulo, čeho se domáhá a bylo tak současně možno spolehlivě posoudit, zda jde o věc patřící do pravomoci soudů či nikoliv.
+Je tedy třeba uzavřít, že dovoláním napadené rozhodnutí Krajského soudu
+v Praze nelze z uvedených důvodů pokládat za správné (§ 243b odst. 2 o.s.ř.), přičemž tuto výtku je z uvedených důvodů třeba vztáhnout i na rozsudek soudu prvního stupně. Nejvyšší soud České republiky proto obě tato rozhodnutí zrušil (aniž by se tak dále zabýval důvody, na nichž bylo dovolání žalobce zbudováno) a vrátil věc Okresnímu soudu Praha - západ k dalšímu řízení (§ 243b odst. 2 a 3 o.s.ř.). K projednání věci nebylo nařízeno jednání (§ 243a odst. 1 o.s.ř.).
+Odvolací soud (soud prvního stupně) je vázán právním názorem dovolacího soudu (§ 243d odst. 1 věta první o.s.ř. ve spojení s § 226 odst. 1 téhož zákona).
+O náhradě nákladů řízení včetně nákladů dovolacího řízení soud rozhodne v novém rozhodnutí o věci (§ 243d odst. 1 věta druhá o.s.ř.)
+Proti tomuto rozsudku není opravný prostředek přípustný.
+V Brně dne 25. března 2004
+JUDr. Pavel Pavlík, v. r.
+předseda senátu
