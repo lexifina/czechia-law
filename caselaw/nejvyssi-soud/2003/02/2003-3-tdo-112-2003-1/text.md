@@ -1,0 +1,21 @@
+3 Tdo 112/2003
+U S N E S E N Í
+Nejvyšší soud České republiky projednal v neveřejném zasedání konaném dne 11. února 2003 dovolání podané obviněným R. K., proti usnesení Krajského soudu v Brně ze dne 19. 6. 2002, sp. zn. 3 To 369/2001, který rozhodoval jako soud odvolací v trestní věci vedené u Okresního soudu ve Zlíně pod sp. zn. 3 T 192/2000, a rozhodl
+t a k t o :
+Podle § 265i odst. 1 písm. c) tr. ř. se dovolání o d m í t á .
+O d ů v o d n ě n í :
+Rozsudkem Okresního soudu ve Zlíně ze dne 3. 5. 2001, sp. zn. 3 T 192/2000, byl obviněný R. K. uznán vinným trestným činem zpronevěry podle § 248 odst. 1, 2 tr. zák., za který mu byl podle § 248 odst. 2 tr. zák. uložen trest odnětí svobody v trvání sedmi měsíců, jehož výkon byl podle § 58 odst. 1 písm. a) tr. zák. a § 59 odst. 1 tr. zák. podmíněně odložen na zkušební dobu v trvání osmnácti měsíců. Dále bylo podle § 228 odst. 1 tr. ř. a § 229 odst. 3 tr. ř. rozhodnuto o náhradě škody a podle § 226 písm. a) tr. ř. bylo rozhodnuto o zproštění obviněného části obžaloby.
+Proti tomuto rozsudku podal obviněný odvolání, které bylo usnesením Krajského soudu v Brně ze dne 19. 6. 2002, sp. zn. 3 To 369/2001, podle § 256 tr. ř. zamítnuto.
+Shora citované usnesení Krajského soudu v Brně napadl obviněný R. K. prostřednictvím své obhájkyně dovoláním. Tento svůj mimořádný opravný prostředek opřel o důvod uvedený v ustanovení § 265b odst. 1 písm. g) tr. ř.
+Obviněný je podle § 265d odst. 1 písm. b) osobou oprávněnou podat dovolání pro nesprávnost výroku rozhodnutí soudu, který se ho bezprostředně dotýká.
+Nejvyšší soud jako soud dovolací nejprve zkoumal, zda v předmětné věci jsou splněny podmínky přípustnosti dovolání podle § 265a tr. ř. a shledal, že dovolání je přípustné podle § 265a odst. 1, odst. 2 písm. h) tr. ř., protože bylo rozhodnuto ve druhém stupni, dovolání napadá pravomocné rozhodnutí soudu ve věci samé a směřuje proti usnesení, jímž byl zamítnut řádný opravný prostředek proti rozhodnutí uvedenému v § 265a odst. 2 písm. a) tr. ř.
+Nejvyšší soud dále posuzoval otázku zda bylo dovolání podáno v zákonné lhůtě. Podle § 265e odst. 1 tr. ř. se dovolání podává u soudu, který rozhodl ve věci v prvním stupni, do dvou měsíců od doručení rozhodnutí, proti kterému dovolání směřuje. Podle odst. 2 cit. ustanovení jestliže se rozhodnutí doručuje jak obviněnému, tak i jeho obhájci a zákonnému zástupci, běží lhůta od toho doručení, které bylo provedeno nejpozději. Podle odst. 3 tohoto ustanovení je lhůta k podání dovolání zachována také tehdy, je-li dovolání podáno ve lhůtě u Nejvyššího soudu nebo u soudu, který rozhodl ve věci ve druhém stupni, anebo je-li podání, jehož obsahem je dovolání, dáno ve lhůtě na poštu a adresováno soudu, u něhož má být podáno nebo který má ve věci rozhodnout. Podle § 265e odst. 4 tr. ř. navrácení lhůty k podání dovolání není přípustné.
+Podle § 60 odst. 2 věty první tr. ř. lhůta stanovená podle týdnů, měsíců nebo let končí uplynutím toho dne, který svým jménem nebo číselným označením odpovídá dni, kdy se stala událost určující počátek lhůty. Podle § 60 odst. 3 tr. ř. připadne-li konec lhůty na den pracovního klidu nebo na den pracovního volna, pokládá se za poslední den lhůty nejbližší příští pracovní den.
+V posuzovaném případě z obsahu trestního spisu Nejvyšší soud zjistil, že usnesení odvolacího soudu, proti němuž bylo dovolání podáno, bylo obviněnému i jeho obhájkyni doručeno dne 29. 8. 2002, jak vyplývá z dodejek založených na čl. 254 p.v. Stanovená dvouměsíční zákonná lhůta k podání dovolání ve smyslu shora citovaných zákonných ustanovení proto obviněnému uplynula v úterý dne 29. 10. 2002. Dovolání bylo podáno jako doporučená poštovní zásilka adresovaná Okresnímu soudu ve Zlíně až dne 30. 10. 2002 a to na poště v U. B., tedy již po uplynutí zákonné lhůty k jeho podání.
+Vzhledem k uvedeným skutečnostem dospěl Nejvyšší soud k závěru, že dovolání obviněného bylo podáno opožděně a podle § 265i odst. 1 písm. c) tr. ř. je proto odmítl, aniž by je mohl přezkoumat podle § 265i odst. 3 tr. ř. Toto rozhodnutí bylo učiněno v souladu s ustanovením § 265r odst. 1 písm. a) tr. ř. v neveřejném zasedání.
+Poučení: Proti rozhodnutí o dovolání není s výjimkou obnovy řízení opravný prostředek přípustný (§ 265n tr. ř.).
+V Brně dne 11. února 2003
+Předseda senátu:
+Mgr. Josef Hendrych
+Vypracovala:
+JUDr. Blanka Roušalová
