@@ -1,0 +1,21 @@
+20 Cdo 1128/2001
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci výkonu rozhodnutí oprávněného Z. M., proti povinné J. P., pro 168.859,- Kč prodejem nemovitosti, vedené u Okresního soudu v Karviné - pobočky v Havířově pod sp. zn. 125 E 1028/99, o dovolání povinné proti usnesení Krajského soudu v Ostravě ze dne 21. prosince 1999, č. j. 13 Co 1355/99-37, ve znění opravného usnesení ze dne 30. června 2000, č. j. 13 Co 1355/99-62, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Odvolací soud shora označeným rozhodnutím potvrdil usnesení, jímž soud prvního stupně nařídil - podle rozsudku Okresního soudu v Karviné - pobočky v Havířově ze dne 20. 10. 1993, č. j. 12 T 79/93-192 - k uspokojení pohledávky oprávněného v částce 168.859,- Kč a nákladů vykonávacího řízení v částce 11.367,50 Kč výkon rozhodnutí prodejem nemovitosti povinné, a to jejího spoluvlastnického podílu na nemovitostech specifikovaných ve výroku tohoto usnesení.
+Proti usnesení odvolacího soudu podala povinná (zastoupena advokátem) včasné dovolání, jehož přípustnost opřela o ustanovení § 239 odst. 1 o. s. ř., a v němž uplatněné dovolací důvody podřadila ustanovení § 241 odst. 3 písm. b), c) a d) o. s. ř. Odvolacímu soudu vytýká, že se nezabýval jejími odvolacími námitkami (konkrétně tím, že oprávněnému nesvědčí exekuční titul, a že nevyzval povinnou k úhradě solidárního závazku podle § 511 obč. zák.); současně namítá, že nařízený způsob výkonu rozhodnutí je zřejmě nevhodný. Navrhla, aby napadené rozhodnutí bylo zrušeno a věc byla vrácena odvolacímu soudu k dalšímu řízení.
+Vyjádření k dovolání nebylo podáno.
+Podle části dvanácté, hlavy první, bodu 17. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (to jest podle občanského soudního řádu ve znění účinném do 1. 1. 2001 - dále též jen „o. s. ř.\").
+Dovolání není přípustné.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Přípustnost dovolání proti usnesení odvolacího soudu upravují ustanovení § 237, § 238a a § 239 o. s. ř.
+O žádný z důvodů přípustnosti dovolání vyjmenovaných v ustanovení § 238a odst. 1 o. s. ř. v dané věci nejde, neboť napadené usnesení není usnesením měnícím, ale potvrzujícím (§ 238a odst. 1 písm. a) o. s. ř.), a nelze je podřadit ani pod ustanovení § 238a odst. 1 písm. b) až písm. f) o. s. ř.
+Přípustnost dovolání nelze opřít ani o ustanovení § 239 odst. 1 o. s. ř. (jak se mylně domnívá dovolatelka), neboť odvolací soud ve výroku svého potvrzujícího usnesení přípustnost dovolání nevyslovil; obecné poučení o možnosti podání tohoto mimořádného opravného prostředku, připojené na závěr napadeného usnesení, přípustnost dovolání nezakládá. Neexistence návrhu povinné na vyslovení přípustnosti dovolání vylučuje i možnost aplikace ustanovení § 239 odst. 2 o. s. ř.
+Zbývá proto posoudit přípustnost dovolání podle ustanovení § 237 o. s. ř. Ustanovení § 237 odst. 1 o. s. ř. spojuje přípustnost dovolání proti (každému) rozhodnutí odvolacího soudu s takovými závažnými vadami řízení, které činí rozhodnutí odvolacího soudu zmatečným. Vady řízení podřaditelné pod § 237 odst. 1 o. s. ř., k nimž dovolací soud přihlíží z úřední povinnosti (§ 242 odst. 3 věta druhá o. s. ř.), však dovolatelka nenamítá a ze spisu se jejich existence nepodává.
+Protože dovolání povinné není přípustné podle žádného z výše uvedených ustanovení, Nejvyšší soud je podle § 243b odst. 4 a § 218 odst. 1 písm. c) o. s. ř. odmítl.
+O nákladech dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 4, § 224 odst. 1 a § 146 odst. 2 věty první (per analogiam) o. s. ř.; povinné, která z procesního hlediska zavinila, že její dovolání bylo odmítnuto, náhrada nákladů dovolacího řízení nepřísluší a oprávněnému (dle obsahu spisu) žádné prokazatelné náklady v tomto řízení nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 23. srpna 2001
+JUDr. Věra K o r e c k á, v. r.
+předsedkyně senátu
