@@ -1,0 +1,15 @@
+20 Nd 166/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Vladimíra Kůrky a soudců JUDr. Miroslavy Jirmanové a JUDr. Pavla Krbka v právní věci žalobce J. Š. proti žalované České republice – České správě sociálního zabezpečení, se sídlem v Praze 5, Křížová 25, o ochranu osobnosti, vedené u Městského soudu v Praze pod sp. zn. 32 C 36/2003, o námitce podjatosti, takto:
+Soudkyně Vrchního soudu v Praze JUDr. Ludmila Říhová, JUDr. Zdenka Ferešová a JUDr. Naděžda Žáková nejsou vyloučeny z projednávání a rozhodnutí odvolání proti usnesení Městského soudu v Praze ze dne 27.2.2004, č.j. 32 C 36/2003-79.
+O d ů v o d n ě n í :
+Ve shora uvedené věci vznesl žalobce námitku podjatosti proti soudkyním Vrchního soudu v Praze, které rozhodují o odvolání proti výše označenému usnesení soudu prvního stupně.
+Žalobce uvedl, že příslušný senát Vrchního soudu je „jako podjatý – soudně neregulérní, který svým výrokem ve smyslu § 29 o.s.ř., ustan. opatrovníka – nerespektuje mou občanskou osobu žalobce a nedůvodně jí upírá reálnou občanskou identitu – osoby – žalobce – navrhovatele“, a dále požádal, aby uvedený senát se „k odvolání ze dne 29.10.2003/32 C 36/2003-63 – již nevyjadřoval“.
+Podle § 14 odst. 1 o.s.ř. jsou soudci vyloučeni z projednávání a rozhodnutí věci, jestliže se zřetelem na jejich poměr k věci, k účastníkům nebo k jejich zástupcům je tu důvod pochybovat o jejich nepodjatosti. Podle § 14 odst. 4 o.s.ř. důvodem k vyloučení soudce nejsou okolnosti, které spočívají v postupu soudce v řízení o projednávané věci nebo v jeho rozhodování v jiných věcech. O tom, zda je soudce nebo přísedící vyloučen, rozhodne nadřízený soud v senátě (§ 16 odst. 1 věta první o.s.ř.).
+Poměr k věci může vyplývat především z přímého právního zájmu soudce na projednávané věci. Tak je tomu v případě, kdy soudce sám by byl účastníkem řízení, ať na straně žalobce či na straně žalovaného, nebo v případě, že by mohl být rozhodnutím soudu přímo dotčen ve svých právech (např. kdyby jinak mohl být vedlejším účastníkem). Vyloučen je také soudce, který získal o věci poznatky jiným způsobem, než z dokazování při jednání (např. jako svědek vnímal skutečnosti, které jsou předmětem dokazování). Soudcův poměr k účastníkům nebo k jejich zástupcům pak může být založen především příbuzenským nebo jemu obdobným vztahem (srov. § 116 obč. zák.), jemuž na roveň může v konkrétním případě stát vztah přátelský či naopak nepřátelský.
+O žádný z případů uvedeného charakteru však v souzené věci nejde.
+Jak vyplývá z vyjádření soudkyň senátu 1 Co Vrchního soudu v Praze, příslušného podle rozvrhu práce, JUDr. Ludmily Říhové, JUDr. Zdenky Ferešové a JUDr. Naděždy Žákové, nikdo z nich nemá žádný poměr k věci, účastníky řízení nezná, nemá k nim ani k jejich zástupcům žádný vztah a nemá na věci osobní zájem.
+Námitka podjatosti tudíž není důvodná, a vyloučení jmenovaných soudkyň z projednávání a rozhodnutí věci založit nemůže.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 30. listopadu 2004
+JUDr. Vladimír K ů r k a , v.r. předseda senátu
