@@ -1,0 +1,13 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+21 Cdo 354/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Novotného a soudců JUDr. Ljubomíra Drápala a JUDr. Mojmíra Putny v právní věci žalobce J. L., zastoupeného advokátem, proti žalovanému D., s. p., zastoupenému advokátkou, o odškodnění pracovního úrazu, vedené u Okresního soudu v České Lípě pod sp. zn. 8 C 794/86, o dovolání žalobce proti rozsudku Krajského soudu v Ústí nad Labem, pobočce v Liberci, ze dne 30. května 2002 č.j. 29 Co 369/2001-280, takto:
+I. Dovolání žalobce se odmítá.
+II. Žalobce je povinen zaplatit žalovanému na náhradě nákladů dovolacího řízení 7.575,- Kč do tří dnů od právní moci tohoto usnesení k rukám advokátce.
+Dovolání žalobce proti části rozsudku Krajského soudu v Ústí nad Labem, pobočky v Liberci, ze dne 30.5.2002 č.j. 29 Co 369/2001-280, v níž byl potvrzen rozsudek Okresního soudu v České Lípě ze dne 23.7.2001 č.j. 8 C 794/86-251 (ve znění doplňujícího rozsudku ze dne 27.2.2002 č.j. 8 C 794/86-268) ve věci samé, není přípustné podle ustanovení § 237 odst. 1 písm. b) o.s.ř. (předcházející kasační usnesení odvolacího soudu nezavazovalo soud prvního stupně právním názorem ve věci samé, nýbrž mu ukládalo pouze odstranění procesních nedostatků v řízení) a nebylo shledáno přípustným ani podle ustanovení § 237 odst. 1 písm. c) o.s.ř., neboť napadený rozsudek odvolacího soudu nemá po právní stránce - s ohledem na to, že v dovolání byl uplatněn, jak vyplývá z jeho obsahu, dovolací důvod podle ustanovení § 241a odst. 3 o.s.ř. (žalobce nesouhlasí s hodnocením důkazů a se skutkovými zjištěními, z nichž odvolací soud vychází) - zásadní význam (§ 237 odst. 3 o.s.ř.). Usnesení o odmítnutí tohoto dovolání proto není odůvodněno (§ 243c odst. 2 o.s.ř.).
+V dovolacím řízení vznikly žalovanému náklady, které v rozsahu, v jakém byly potřebné k účelnému bránění jeho práva, spočívají v odměně za zastupování advokátkou ve výši 7.500,- Kč (srov. § 3 odst.1 bod 5, § 10 odst. 3, § 14 odst. 1, § 15 a § 18 odst.1 vyhlášky č. 484/2000 Sb. ve znění vyhlášky č. 49/2001 Sb.) a v paušální částce náhrady výdajů ve výši 75,- Kč (srov. § 13 odst. 3 vyhlášky č. 177/1996 Sb. ve znění vyhlášek č. 235/1997 Sb. a č. 484/2000 Sb.), tedy celkem 7.575,- Kč. Protože dovolání žalobce bylo odmítnuto, soud mu ve smyslu ustanovení § 243b odst. 5, věty první, § 224 odst. 1 a § 146 odst. 3 o.s.ř. uložil, aby tyto náklady žalovanému nahradil; ve smyslu ustanovení § 149 odst. 1 o.s.ř. je žalobce povinen náhradu nákladů řízení zaplatit k rukám advokátky, která žalovaného v tomto řízení zastupovala.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 2. července 2003
+JUDr. Zdeněk Novotný, v. r.
+předseda senátu
