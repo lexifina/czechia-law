@@ -1,0 +1,19 @@
+32 Odo 516/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Kateřiny Hornochové a JUDr. Jiřího Macka v právní věci žalobkyně M., s.r.o., zastoupené, advokátem, proti žalovanému Ing. J. T., zastoupenému, advokátem, o nařízení předběžného opatření, vedené u Krajského soudu v Plzni pod sp. zn. 23 Cm 109/99, o dovolání žalobkyně proti usnesení Vrchního soudu v Praze ze dne 30. ledna 2004, č.j. 11 Cmo 346/2003-227, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Krajský soud v Plzni usnesením ze dne 3. září 2003, č.j. 23 Cm 109/99-189, zamítl návrh na nařízení předběžného opatření.
+Vrchní soud v Praze usnesením ze dne 30. ledna 2004, č.j. 11 Cmo 346/2003-227, potvrdil usnesení soudu prvního stupně ve znění, že se zamítá návrh na nařízení předběžného opatření, jímž bude uloženo nájemcům nebytových prostor nacházejících se ve výroku specifikované nemovitosti, aby skládali peněžité částky určené k úhradě nájemného do úschovy soudu na blíže specifikovaný účet.
+Usnesení odvolacího soudu napadla žalobkyně dovoláním. Dovolatelka, pokládajíc napadené rozhodnutí fakticky za měnící, opřela jeho přípustnost o ustanovení § 237 odst. 1 písm. a) občanského soudního řádu (dále též jen „o. s. ř.“), jakož i o jeho zásadní právní význam ve věci samé a důvodnost o ustanovení § 241a odst. 2 písm. a) a. b) o. s. ř. Jejich prostřednictvím odvolacímu soudu vytkla, že řízení bylo postiženo vadami majícími za následek nesprávné rozhodnutí ve věci a že napadené usnesení spočívá na nesprávném právním posouzení věci. Dovolatelka snesla podrobné argumenty na podporu jí uplatněných dovolacích důvodů a navrhla, aby Nejvyšší soud usnesení odvolacího soudu zrušil a věc mu vrátil k dalšímu řízení.
+Se zřetelem k době vydání usnesení soudů obou stupňů se uplatní pro dovolací řízení – v souladu s body 1., 15. a 17., hlavy I., části dvanácté, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony – občanský soudní řád ve znění účinném od 1. ledna 2001.
+Dovolání v dané věci není přípustné.
+Podle ustanovení § 236 odst. 1 o. s. ř. dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Přípustnost dovolání proti usnesení odvolacího soudu upravují ustanovení § 237 až 239 o. s. ř.
+V souzené věci je usnesení odvolacího soudu potvrzujícím rozhodnutím, nikoli měnícím, jak se domnívá dovolatelka. Tato skutečnost však není z hlediska přípustnosti dovolání v předmětné věci právně významná.
+Usnesení odvolacího soudu, jímž bylo potvrzeno (případně změněno) usnesení soudu prvního stupně, kterým bylo rozhodnuto o návrhu na nařízení předběžného opatření, nelze podřadit žádnému z usnesení, proti nimž zákon připouští dovolání v ustanoveních § 238, § 238a a § 239 o. s. ř.
+Dovolání není přípustné ani podle § 237 o. s. ř., upravujícího přípustnost dovolání rovněž proti usnesení odvolacího soudu, ovšem pouze za podmínky, že jde o usnesení ve věci samé. Protože usnesení o nařízení předběžného opatření, které zpravidla meritornímu rozhodnutí soudu předchází, nemůže mít (již s ohledem na svůj účel) povahu rozhodnutí ve věci samé, není dovolání přípustné ani podle § 237 o. s. ř., a to bez ohledu na to, zda odvolací soud usnesení, jímž soud prvního stupně rozhodl o návrhu na předběžné opatření, změnil či potvrdil (srov. shodně usnesení Nejvyššího soudu zveřejněné pod číslem 62/2002 Sbírky soudních rozhodnutí a stanovisek).
+Tento závěr s sebou nese konečné posouzení podaného dovolání jako nepřípustného. Nejvyšší soud je proto, aniž ve věci nařizoval jednání (§ 243a odst. 1 věta první o. s. ř.), usnesením odmítl [§ 243b odst. 5 věta první, § 218 písm. c) o. s. ř.], aniž se mohl zabývat věcí z hlediska námitek v něm uplatněných.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 25. listopadu 2004
+JUDr. Miroslav Gallus,v.r.
+předseda senátu
