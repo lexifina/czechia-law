@@ -1,0 +1,20 @@
+33 Cdo 2600/2000
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce J.R. , proti žalovanému J.S., o 443.400,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 10 pod sp. zn. 23 C 163/97, o dovolání žalovaného proti rozsudku Městského soudu v Praze ze dne 23. 4. 1999 c.j. 25 Co 652/98-63, takto:
+I. Řízení o dovolání žalovaného se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladu dovolacího řízení.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 10 rozsudkem ze dne 10. 2. 1998 c.j. 23 C 163/97-28 uložil žalovanému povinnost zaplatit žalobci 443.400,- Kč s 21 % úrokem od 1. 7. 1996 do zaplacení a rozhodl o náhradě nákladu řízení.
+K odvolání žalovaného Městský soud v Praze rozsudkem ze dne 23. 4. 1999 č.j. 25 Co 652/98-63 potvrdil rozsudek soudu prvního stupně ve výroku o zaplacení částky 443.400,- Kč a změnil jej ve výroku o příslušenství tak, že uložil žalovanému povinnost zaplatit žalobci 21 % úrok z 435.600,- Kč od 1. 1. 1997 do zaplacení. Současně bylo rozhodnuto o náhradě nákladů řízení před soudy obou stupňů.
+V podání ze dne 14. 7. 1999 žalovaný uvedl, že "podává dovolání proti rozsudku ve věci 25 Co 652/98-63".
+Usnesením ze dne 7. 12. 1999 c.j. 23 C 163/97-71 Obvodní soud pro Prahu 10 žalovaného vyzval, aby své dovolání doplnil o náležitosti uvedené v ust. § 42 odst. 4 o.s.ř. a § 241 odst. 2 o.s.ř., poučil ho, že v dovolání sepsaném advokátem je třeba uvést, kterému soudu je dovolání určeno, proti kterému rozhodnutí směřuje a v jakém rozsahu se rozhodnutí napadá, popř. které důkazy by měly být provedeny k prokázání důvodu dovolání a čeho se žalovaný domáhá. Dále mu uložil, aby do 10 dnu od doručení tohoto usnesení sdělil soudu advokáta, který jej v dovolacím řízení zastupuje, včetně písemně udělené plné moci, s tím, že pokud nebude dovolání podle pokynu doplněno, soud řízení zastaví. Toto usnesení bylo žalovanému doručeno dne 22. 2. 2000. Žalovaný podáním ze dne 3. 3. 2000 požádal soud o prodloužení lhůty pro doplnění náležitostí a ustanovení právního zástupce, neboť je dlouhodobě nemocen a t. č. je hospitalizován v nemocnici. Usnesením ze dne 22. 3. 2000 c.j. 23 C 163/97-74, které bylo žalovanému doručeno dne 5. 4. 2000, soud prvního stupně žalovaného znovu vyzval k doplnění náležitostí podaného dovolání a ke sdělení advokáta, který jej v dovolacím řízení zastupuje, opět ve lhůtě 10 dnu. Žalovaný na tuto výzvu nijak nereagoval.
+Opravným prostředkem proti pravomocnému rozhodnutí odvolacího soudu je dovolání. Podle ust. § 240 odst. 1 věty první o.s.ř. účastník může podat dovolání do jednoho měsíce po právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Podle ust. § 241 odst. l o.s.ř. dovolatel musí být zastoupen advokátem, jestliže sám nemá právnické vzdělání. Podle § 241 odst. 2 o.s.ř. nemá-li dovolatel právnické vzdělání, musí být dovolání sepsáno advokátem.
+Pro podání dovolání, které je mimořádným opravným prostředkem, zákon stanoví požadavek, aby účastník řízení, který podává dovolání, měl buď sám právnické vzdělání nebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc. Ustanovení § 241 o.s.ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejího splnění nelze o dovolání rozhodnout.
+Přestože byl žalovaný o povinném právním zastoupení v dovolacím řízení poučen, právního zástupce si ani dodatečně nezvolil.
+Vzhledem k tomu, že nedostatek podmínky dovolacího řízení podle ust. § 241 odst.1 věty druhé o.s.ř. nebyl ani přes poučení odstraněn, Nejvyšší soud řízení o dovolání žalovaného zastavil, aniž bylo třeba se zabývat otázkou dalších náležitostí podaného dovolání a otázkou jeho přípustnosti.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 4, § 224 odst. l a § 146 odst. 1 písm. c/ o.s.ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 13. prosince 2000
+JUDr. Marta Š k á r o v á, v. r.
+předsedkyně senátu
+Za správnost vyhotovení: Lucie Žouželová
