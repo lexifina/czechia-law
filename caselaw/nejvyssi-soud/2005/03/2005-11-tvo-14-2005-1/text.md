@@ -1,0 +1,16 @@
+11 Tvo 14/2005
+U S N E S E N Í
+Nejvyšší soud v trestní věci obviněného E. S., projednal v neveřejném zasedání konaném dne 31. března 2005 stížnost státní zástupkyně Vrchního státního zastupitelství v Olomouci proti usnesení Vrchního soudu v Olomouci ze dne 9. 3. 2005, sp. zn. 1 To 15/2005, a rozhodl t a k t o :
+Podle § 148 odst. 1 písm. c) tr. řádu s e stížnost státní zástupkyně Vrchního státního zastupitelství v Olomouci z a m í t á .
+O d ů v o d n ě n í :
+Rozsudkem Krajského soudu v Ostravě ze dne 26. 11. 2004, sp. zn. 50 T 2/2004, byl obviněný E. S. uznán vinným trestným činem loupeže podle § 234 odst. 1 tr. zák. a odsouzen k nepodmíněnému trestu odnětí svobody v trvání dvou roků, pro jehož výkon byl zařazen do věznice s dozorem. Stejným rozsudkem bylo rozhodnuto o vině a trestu dalších pěti obviněných.
+Proti rozsudku Krajského soudu v Ostravě podal obviněný E. S. spolu s dalšími spoluobviněnými odvolání a trestní věc se v současné době nachází ve stadiu odvolacího řízení před Vrchním soudem v Olomouci.
+Vrchní soud v Olomouci usnesením ze dne 9. 3. 2005, sp. zn. 1 To 15/2005, podle § 72 odst. 2 písm. a) tr. řádu propustil obviněného E. S. z vazby na svobodu.
+Proti tomuto usnesení podala v zákonné lhůtě stížnost státní zástupkyně Vrchního státního zastupitelství v Olomouci, ve které namítá, že u obviněného E. S. je i nadále dán důvod útěkové vazby, neboť obviněný je cizím státním příslušníkem, který nemá na území České republiky vytvořeno žádné sociální zázemí, a naposledy se zdržoval v přijímacím středisku S. u. z. M. v. ČR V. L., a právě při pobytu v tomto středisku se měl dopustit žalovaného jednání. Navrhla proto, aby Nejvyšší soud napadené usnesení vrchního soudu zrušil a rozhodl, že u obviněného E. S. i nadále trvá důvod vazby podle § 67 písm. a) tr. řádu.
+Nejvyšší soud z podnětu podané stížnosti přezkoumal podle § 147 odst. 1 tr. řádu správnost napadeného rozhodnutí i řízení, které mu předcházelo, a dospěl k tomuto závěru.
+Obviněný E. S. byl vzat do vazby usnesením Okresního soudu v Ostravě ze dne 17. 1. 2004, sp. zn. Nt 3118/2004, z důvodů § 67 písm. a), b), c) tr. řádu. V průběhu dalšího řízení u obviněného koluzní vazební důvod podle § 67 písm. b) tr. řádu odpadl a nadále byl ve vazbě již jen z důvodů uvedených v § 67 písm. a), c) tr. řádu. O vazbě obviněného bylo naposledy rozhodováno usnesením Vrchního soudu v Olomouci ze dne 22. 2. 2005 a jím byl propuštěn z vazby na svobodu. S ohledem na rozhodnutí soudu prvního stupně o vině a trestu a odvolání, které podal pouze obviněný E. S., je v dalším řízení ohrožen maximálně trestem dva roky odnětí svobody, z něhož mu po započtení vazby nezbývá ani celý rok. Za tohoto stavu není nebezpečí, že by se před takto mírným trestem obviněný na svobodě skrýval nebo uprchl, když navíc lze řešit nevykonaný zbytek trestu podmíněným propuštěním. Pokud tedy vrchní soud neshledal další důvody pro ponechání obviněného ve vazbě, lze s jeho rozhodnutím plně souhlasit a v dalších podrobnostech odkázat na odůvodnění napadeného rozhodnutí.
+Za tohoto stavu se stížnost státní zástupkyně Vrchního státního zastupitelství v Olomouci nemohla setkat s úspěchem a nezbylo, než rozhodnout, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 31. března 2005
+Předseda senátu:
+JUDr. Pavel Kučera
