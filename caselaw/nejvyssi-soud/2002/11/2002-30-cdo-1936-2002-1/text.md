@@ -1,0 +1,23 @@
+30 Cdo 1936/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Pavlíka a soudců JUDr. Karla Podolky a JUDr. Romana Fialy v právní věci žalobce C. M. E. B. V., zastoupeného advokátem, proti žalovanému T. M., a. s., zastoupenému advokátkou, o nařízení předběžného opatření, vedené u Okresního soudu v Břeclavi pod sp. zn. 11 C 182/2001, o dovolání žalovaného proti usnesení Krajského soudu v Brně ze dne 12. června 2001 č. j. 20 Co 187/2001-337, t a k t o :
+Dovolání žalovaného se odmítá.
+O d ů v o d n ě n í :
+V označené věci Krajský soud v Brně usnesením ze dne 12. června 2001, č. j. 20 Co 187/2001-337, změnil usnesení Okresního soudu v Břeclavi ze dne 2. března 2001, č. j. 11 C 182/2001-318 tak, že předběžným opatřením ve smyslu ustanovení § 102 občanského soudního řádu (dále jen \"o. s. ř.\") uložil žalovanému zdržet se zcizení nebo zatížení věcí a hodnot, a to
+a) 644 akcií společnosti T., a. s., o jmenovité hodnotě 100.000,- Kč,
+b) 364 akcií společnosti S., a. s., o jmenovité hodnotě 100.000,- Kč a
+c) 64 akcií společnosti P., a. s., o jmenovité hodnotě 100.000,- Kč.
+Toto usnesení odvolacího soudu nabylo právní moci dne 6. srpna 2001.
+Proti uvedenému usnesení Krajského soudu v Brně podal žalovaný dne 26. září 2001 včasné dovolání. Přípustnost tohoto dovolání dovozuje z ustanovení § 237 odst. 1 písm. a) o. s. ř.\" a konstatuje, že je podává z důvodů, že řízení bylo postiženo vadou, která mohla mít za následek nesprávné rozhodnutí ve věci a rozhodnutí spočívá na nesprávném právním posouzení věci (§ 241a odst. 2 písm. a/ a b/ o. s. ř.). V podrobně zdůvodněném dovolání se pak zabývá otázkami věcné příslušnosti, pasivní legitimace, vykonatelnosti exekučního titulu, majitele akcií postižených předběžným opatřením a předjímáním rozhodnutí ve věci samé. Dovolatel závěrem žádá, aby napadené rozhodnutí bylo zrušeno, a aby věc byla vrácena odvolacímu soudu k dalšímu řízení.
+K podanému dovolání se vyjádřil žalobce podáním na čl. 628, v němž se jednak s rozhodnutím odvolacího soudu ztotožnil, avšak především poukázal na to, že dovolání ve věci není přípustné.
+Dovolací soud shledal, že dovolání žalovaného bylo podáno oprávněnou osobou - účastníkem řízení řádně zastoupeným advokátem podle ustanovení § 241 odst. 1 o. s. ř., stalo se tak ve lhůtě stanovené ustanovením § 240 odst. 1 o. s. ř., je charakterizováno obsahovými i formálními znaky požadovanými ustanovením § 241a odst. 1 o. s. ř. Poté se dovolací soud zabýval otázkou přípustností dovolání v této věci se závěrem, že dovolání žalovaného není přípustné.
+Podle § 236 odst. l o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Dovolání je přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího soudu
+- jimiž bylo změněno rozhodnutí soudu prvního stupně ve věci samé (§ 237 odst. 1 písm. a/ o. s. ř.),
+- jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak, než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil (§ 237 odst. 1 písm. b/ o. s. ř.),
+- jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není přípustné podle poslední z již uvedených možností, a dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam (§ 237 odst. 1 písm. c/ o. s. ř.)
+S ohledem na zjištění obsahu spisu, resp. na charakter rozhodnutí odvolacího soudu, kterým bylo v rámci změny usnesení soudu prvního stupně vydáno ve věci předběžné opatření, je třeba dovodit, že v této věci není přípustnost dovolání založena žádným z ustanovení obsažených v § 237 odst. 1 o. s. ř., neboť ta dopadají vesměs na rozhodnutí (ať rozsudek či usnesení), jimiž bylo rozhodnuto ve věci samé. Rozhodnutí o nařízení předběžného opatření však není rozhodnutím této kategorie, neboť jím není rozhodováno ve věci samé. Proto, ač odvolací soud změnil v tomto případě usnesení soudu prvního stupně, nelze dovozovat, že by tím došlo k naplnění předpokladu ustanovení § 237 odst. 1 písm. a) o. s. ř.
+Protože pak ve věci nedochází ani k naplnění předpokladů přípustnosti dovolání podle ustanovení §§ 238, 238a a 239 o. s. ř., dovolací soud z těchto důvodů podané dovolání žalovaného odmítl jako nepřípustné podle § 243b odst. 5 věta prvá o. s. ř. ve spojení s § 218 písm. c) o. s. ř., takže se nemohl zabývat věcnou správností napadeného rozhodnutí. Rozhodoval přitom, aniž nařídil jednání (§ 243a odst. l věta první o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. listopadu 2002 JUDr. Pavel Pavlík, v. r.
+předseda senátu
