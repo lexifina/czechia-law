@@ -1,0 +1,22 @@
+33 Odo 359/2001
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci žalobkyně Č.o.b., a. s., S. a r. p. j. M. proti žalovanému Ing. B.S., o zaplacení částky 550 000 Kč s příslušenstvím, vedené u Okresního soudu v Prostějově pod sp. zn. 6 C 99/98, o dovolání žalovaného proti rozsudku Krajského soudu v Brně ze dne 17. ledna 2001 č. j. 19 Co 648/99-187, takto :
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Prostějově rozsudkem ze dne 1. září 1999 č. j. 6 C 99/98-172 zamítl žalobu na zaplacení částky 550 000 Kč s 16% úrokem z prodlení od 1. 9. 1994 do zaplacení a rozhodl o náhradě nákladů řízení.
+K odvolání žalobkyně Krajský soud v Brně rozsudkem ze dne 17. ledna 2001 č. j. 19 Co 648/99-187 rozsudek soudu prvního stupně změnil tak, že žalovaný je povinen zaplatit žalobkyni částku 450 384 Kč s 16% úrokem z prodlení od 1. 9. 1994 do zaplacení, potvrdil rozsudek soudu prvního stupně, pokud jím byla zamítnuta žaloba, aby žalovaný zaplatil žalobkyni částku 99 616 Kč s 16% úrokem z prodlení od 1. 9. 1994 do zaplacení, a rozhodl o náhradě nákladů řízení včetně nákladů odvolacího řízení.
+Proti výroku rozsudku odvolacího soudu, jímž byla změněna část rozsudku soudu prvního stupně tak, že žalovaný je povinen zaplatit žalobci částku 450 384 Kč s 16 % úrokem z prodlení od 1. 9. 1994 do zaplacení a bylo rozhodnuto o náhradě nákladů řízení před soudem prvního stupně, podal žalovaný dovolání.
+Podáním ze dne 7. 6. 2001 žalobce sdělil ve smyslu § 47 odst. 1 o. s. ř. ve znění účinném po 1. 1. 2001 adresu pro doručování : Č.o.b., a. s., S. a r. p. j. M., a současně uvedl, že považuje rozsudek odvolacího soudu za správný.
+Podle ustanovení části dvanácté hlavy I bodu 17 zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, se dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona (1. 1. 2001) nebo vydaným po řízení provedeném podle dosavadních právních předpisů projednají a rozhodnou podle dosavadních právních předpisů (tedy podle občanského soudního řádu ve znění platném do 31. 12. 2000 – dále též „o. s. ř.\"). Tak je tomu i v daném případě, kdy byl rozsudek odvolacího soudu vydán po řízení provedeném podle dosavadních právních předpisů, tedy podle o. s. ř. ve znění platném do 31. 12. 2000.
+Podle části dvanácté hlavy I bodu 15 zákona č. 30/2000 Sb. se totiž odvolání proti rozhodnutím soudu prvního stupně vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů projednají a rozhodnou podle dosavadních právních předpisů. V posuzované věci byl rozsudek soudu prvního stupně vydán dne 1. září 1999.
+Skutečnost, že dovolání se projedná a rozhodne podle dosavadních právních předpisů mj. znamená, že se podle těchto předpisů posoudí i otázka včasnosti podání dovolání.
+Podle § 240 odst. 1 věty prvé o. s. ř. účastník může podat dovolání do jednoho měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvém stupni.
+Podle § 211 a § 159 odst. 1 o. s. ř. doručený rozsudek, který již nelze napadnout odvoláním, je v právní moci. Vzhledem k tomu, že rozsudek odvolacího soudu nelze odvoláním napadnout, nabývá tento rozsudek právní moci dnem, kdy byl doručen všem účastníkům řízení. V daném případě byl tento rozsudek doručen žalobkyni i zástupkyni žalovaného dne 8. března 2001. Právní moci tedy nabyl dne 8. 3. 2001.
+Lhůty určené podle týdnů, měsíců nebo let se končí uplynutím toho dne, který se svým označením shoduje se dnem, kdy došlo ke skutečnosti určující počátek lhůty, a není-li ho v měsíci, posledním dnem měsíce. Připadne-li konec lhůty na soboru, neděli nebo svátek, je posledním dnem lhůty nejblíže následující pracovní den (§ 57 odst. 2 věta první a druhá o. s. ř.). Ve smyslu tohoto ustanovení tedy lhůta k podání dovolání skončila dnem 9. 4. 2001 (pondělí). Žalovaný však podal dovolání dne 27. 4. 2001.
+Nejvyšší soud ČR jako soud dovolací (§ 10a o. s. ř.) proto podle § 243b odst. 4 a 218 odst. 1 písm. a) o. s. ř. opožděné dovolání odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 4 o. s. ř. ve spojení s § 224 odst. 1, § 151 odst. 1 a § 142 odst. 1 o. s. ř., když žalovaný nebyl v dovolacím řízení úspěšný a žalobkyni zřejmě žádné náklady dovolacího řízení nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 27.června 2001
+JUDr. Zdeněk D e s , v. r.
+předseda senátu
