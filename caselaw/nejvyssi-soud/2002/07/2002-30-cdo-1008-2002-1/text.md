@@ -1,0 +1,19 @@
+30 Cdo 1008/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Karla Podolky a soudců JUDr. Ing. Jana Huška a JUDr. Pavla Pavlíka ve věci navrhovatelky J. V., zastoupené advokátem, proti České správě sociálního zabezpečení, Praha 5, Křížová 25 (dále jen ČSSZ), o poskytnutí jednorázové peněžní částky podle zákona č. 261/2001 Sb., vedené u Vrchního soudu v Praze pod sp. zn. 1 A 506/2002, o dovolání navrhovatelky proti rozsudku Vrchního soudu v Praze ze dne 18. března 2002, č. j. 1 A 506/2002-18, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Vrchní soud v Praze rozsudkem v záhlaví označeným k opravnému prostředku navrhovatelky potvrdil rozhodnutí ČSSZ ze dne 19. prosince 2001, č. 176 009 016, jímž byla zamítnuta její žádost o poskytnutí jednorázové peněžní částky podle zákona č. 261/2001 Sb. s odůvodněním, že navrhovatelce, která svoji žádost podala z důvodu manželovy účasti v národním boji za osvobození v době od 18. 8. 1943 do 5. 10. 1944 jako účastníka domácího hnutí, nárok nevznikl, protože za uvedenou dobu účasti jejího manžela v národním boji za osvobození již byla rozhodnutím ČSSZ ze dne 13. 4. 1995 navrhovatelce přiznána jednorázová peněžní částka podle zákona č. 217/1994 Sb.
+Proti tomuto rozsudku podala navrhovatelka dovolání, jímž se domáhá zrušení napadeného rozsudku s tím, že věc se vrací k novému projednání a rozhodnutí ČSSZ.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) po přezkoumání věci bez jednání (§ 243a odst. 1 věta první o. s. ř.) dospěl k závěru, že v posuzovaném případě brání meritornímu rozhodnutí o dovolání navrhovatelky nedostatek podmínky dovolacího řízení.
+Podle § 236 odst. 1 o. s. ř. lze napadnout dovoláním pravomocné rozhodnutí odvolacího soudu, pokud to zákon připouští.
+V této věci ovšem nerozhodoval Vrchní soud v Praze jako odvolací soud, nýbrž jako soud věcně příslušný k přezkoumání rozhodnutí označeného správního orgánu podle § 246 odst. 2 a § 250l a násl. o. s. ř. Pro toto rozhodování o opravných prostředcích proti rozhodnutím správních orgánů platí § 250s o. s. ř., podle něhož proti rozhodnutí soudu (jenž rozhodoval o opravném prostředku proti rozhodnutí správního orgánu) nejsou s výjimkou věcí důchodového pojištění a důchodového zabezpečení přípustné opravné prostředky.
+V daném případě navrhovatelka uplatnila u Nejvyššího soudu ČR podání, které označila jako dovolání, jež směřuje proti rozhodnutí Vrchního soudu v Praze, přičemž jde o rozhodnutí, proti němuž podle § 250s o. s. ř. není vůbec přípustný opravný prostředek, tedy ani dovolání, neboť nejde o věc důchodového pojištění ani důchodového zabezpečení, nýbrž o nárok na poskytnutí jednorázové peněžní částky podle zákona č. 261/2001 Sb.
+Protože podle § 103 o. s. ř., použitelného podle § 243c odst. 1 o. s. ř. i pro řízení u dovolacího soudu, soud přihlíží kdykoli za řízení k tomu, zda jsou splněny podmínky, za nichž může rozhodnout ve věci samé (podmínky řízení), nebylo možné, aby Nejvyšší soud přistoupil k projednávání dovolání podaného navrhovatelkou proti rozhodnutí, u něhož občanský soudní řád výslovně nepřipouští podání jakéhokoli opravného prostředku (§ 250s o. s. ř.).
+Pro tento nedostatek podmínky řízení, který nelze odstranit, Nejvyššímu soudu ČR nezbylo, než řízení o navrhovatelčině dovolání zastavit (§ 246c a § 104 odst. 1 věta první o. s. ř.).
+Dovolatelka z procesního hlediska zavinila, že dovolací řízení bylo zastaveno, ČSSZ však ve stadiu dovolacího řízení náklady nevznikly. Této procesní situaci odpovídá ve smyslu § 146 odst. 2 věta prvá, § 224 odst. 1 a § 243b odst. 5 o. s. ř. výrok o tom, že na náhradu nákladů dovolacího řízení nemá žádný z účastníků právo.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 1. července 2002
+JUDr. Karel Podolka,v. r.
+předseda senátu
