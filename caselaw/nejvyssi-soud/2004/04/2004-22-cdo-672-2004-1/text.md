@@ -1,0 +1,16 @@
+22 Cdo 672/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy Víta Jakšiče a soudců JUDr. Marie Rezkové a JUDr. Františka Baláka ve věci žalobkyně L. M., proti žalovanému Z. B., zastoupenému advokátem, o vypořádání bezpodílového spoluvlastnictví manželů, vedené u Okresního soudu v Uherském Hradišti pod sp. zn. 5 C 38/99, o dovolání žalovaného proti usnesení Krajského soudu v Brně ze dne 22. srpna 2003, č. j. 21 Co 132/2002-140, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Uherském Hradišti (dále jen „soud prvního stupně“) rozsudkem ze dne 28. prosince 2001, č. j. 5 C 38/99-101, vypořádal zaniklé společné jmění účastníků (správně bezpodílové spoluvlastnictví manželů) způsobem, který je náležitě specifikován ve výroku tohoto rozsudku, a rozhodl o soudním poplatku a o nákladech řízení.
+V průběhu řízení o odvoláních, která proti tomuto rozsudku podali oba účastníci, vzala žalobkyně se souhlasem žalovaného žalobu zpět. Krajský soud v Brně jako soud odvolací proto usnesením ze dne 22. srpna 2003, č. j. 21 Co 132/2002-140, rozsudek soudu prvního stupně zrušil (výrok označený I.), řízení zastavil (výrok II.), rozhodl o nákladech řízení (výroky III. a VI.) a o vrácení soudního poplatku z odvolání (výrok V.) a žalovanému uložil, aby zaplatil „na soudním poplatku Českému státu na účet Okresního soudu v Uherském Hradišti 41.067,- Kč do patnácti dnů od právní moci rozhodnutí“.
+Proti tomuto usnesení, a to pouze proti výroku, jímž mu byla uložena povinnost zaplatit soudní poplatek, podal žalovaný dovolání s odůvodněním, že „proti vydanému usnesení připustil krajský soud dovolání“ a že napadený výrok spočívá na nesprávném právním posouzení věci. Navrhl, aby byl uvedený výrok zrušen a věc v tomto rozsahu vrácena odvolacímu soudu k novému rozhodnutí.
+Podle § 236 odst. 1 OSŘ lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Proto se dovolací soud po zjištění, že dovolání bylo podáno včas k tomu oprávněnou osobou, zabýval nejprve tím, zda jde o dovolání přípustné.
+Žalovaný napadá usnesení odvolacího soudu, které není usnesením ve věci samé, a tak by jeho dovolání mohlo být přípustné jen podle některého z ustanovení § 238, § 238a a § 239 občanského soudního řádu (dále jen „OSŘ“). Žádné z těchto ustanovení ovšem nezakládá přípustnost dovolání proti výroku, jímž byla účastníku uložena povinnost k zaplacení soudního poplatku. Odvolací soud sice správně poučil účastníky o přípustnosti dovolání, ovšem ta je dána [ustanovením § 239 odst. 1 písm. a) OSŘ] pouze ve vztahu k výroku, jímž bylo rozhodnutí soudu prvního stupně zrušeno a řízení zastaveno. Tento výrok ovšem žalovaný dovoláním nenapadl. Za této situace dovolacímu soudu nezbylo, než podle § 243b odst. 5 ve spojení s § 218 písm. c) OSŘ jeho dovolání jako nepřípustné odmítnout.
+O nákladech dovolacího řízení bylo rozhodnuto s přihlédnutím k tomu, že žalobkyni, která by podle § 243b odst. 5, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 OSŘ měla právo na jejich náhradu, v tomto řízení žádné náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 13. dubna 2004
+Vít Jakšič, v. r.
+předseda senátu
