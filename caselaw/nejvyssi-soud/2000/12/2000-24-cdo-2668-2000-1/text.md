@@ -1,0 +1,15 @@
+24 Cdo 2668/2000
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci navrhovatele Obce K. proti odpůrci Okresnímu úřadu - pozemkovému úřadu v P., za účasti 1/ A. M., 2/ J. K., 3/ S. K., 4/ Zemědělského družstva K., 5/ Správy a údržby silnic P., 6/ Okresního úřadu P., referátu regionálního rozvoje, a 7/ P. f. ČR, územního pracoviště P., o dovolání S. K. proti rozsudku Krajského soudu v Českých Budějovicích ze dne 6.9.2000, čj. 10Ca 244/99 – 30, takto:
+I. Řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů řízení.
+O d ů v o d n ě n í
+Shora uvedeným rozsudkem Krajský soud v Českých Budějovicích rozhodl o opravném prostředku proti rozhodnutí Okresního pozemkového úřadu v P. ze dne 3.8.1999, čj. PÚ /17/91-S,Bn. V části, v níž okresní úřad rozhodl o vydání majetku a o nevydání věcí oprávněným osobám, jeho rozhodnutí potvrdil. Pokud jde o další část tohoto rozhodnutí, kterou byl návrh zamítnut, řízení o opravném prostředku zastavil. Rozhodl rovněž o náhradě nákladů řízení.
+Proti rozsudku Krajského soudu v Českých Budějovicích podal S. K. opravný prostředek označený jako dovolání, a adresoval jej Nejvyššímu soudu ČR. V něm vyjádřil nesouhlas s postupem i rozsudkem krajského soudu ohledně částečného vydání a částečného nevydání specifikovaného zemědělského majetku třem žadatelům, i ohledně náhrady nákladů řízení ve výši 208 Kč. Považuje za osobu oprávněnou uplatňovat nárok na restituci pouze sebe, jako jediného dědice po zemřelé A. K., která byla spolu s F. K. původní vlastnicí předmětného majetku. Žádá zrušení napadeného rozsudku krajského soudu.
+Nejvyšší soud rozhoduje v občanském soudním řízení o mimořádném opravném prostředku – dovolání – proti pravomocným rozhodnutím odvolacího soudu ( srov. § 236 odst. 1 o.s.ř.) v řízení podle části třetí a čtvrté občanského soudního řádu (o.s.ř.). Správní soudnictví podle části páté o.s.ř. je (s výjimkami uvedenými v § 250s odst. 2 o.s.ř., kde rozhoduje v prvním stupni krajský soud), řízením jednostupňovým. Soud, který rozhoduje ve věcech správního soudnictví, není ani soudem prvního stupně, ani soudem odvolacím. Rozhodnutí krajského soudu v dané věci není tedy rozhodnutím odvolacího soudu; již proto je jeho přezkum Nejvyšším soudem vyloučen. Občanský soudní řád neupravuje funkční příslušnost soudu pro projednávání opravného prostředku podaného proti takovému rozhodnutí. Nedostatek funkční příslušnosti je neodstranitelným nedostatkem podmínky řízení; Nejvyšší soud proto řízení, které touto vadou trpí, zastavil ( § 104 odst. 1 o.s.ř.).
+S. K. z procesního hlediska zavinil, že řízení muselo být zastaveno, u ostatních účastníků však žádné prokazatelné náklady tohoto řízení zjištěny nebyly. Této procesní situaci odpovídá ve smyslu ustanovení § 243b odst. 4, § 224 odst. 1 a § 146 odst. 2, věty prvé o.s.ř., výrok o tom, že na náhradu nákladů řízení nemá žádný z účastníků právo.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 7. prosince 2000
+JUDr. Ema B a r e š o v á, v.r.
+předsedkyně senátu
+Za správnost vyhotovení: Ivana Svobodová
