@@ -1,0 +1,11 @@
+33 Odo 524/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivany Zlatohlávkové a soudců JUDr. Miroslava Galluse a JUDr. Vladimíra Velenského ve věci žalobkyně JUDr. T. V., proti žalované K. Č., zastoupené, advokátem, o určení vlastnického práva, vedené u Obvodního soudu pro Prahu 6 pod sp. zn. 14 C 173/95, o dovolání žalobkyně proti rozsudku Městského soudu v Praze ze dne 31. ledna 2003, č.j. 18 Co 368/2002-454, takto:
+I. Dovolání se odmítá.
+II. Žalobkyně je povinna zaplatit žalované na náhradě nákladů dovolacího řízení 2 575 Kč do 3 dnů od právní moci tohoto usnesení k rukám jejího zástupce, advokáta.
+Protože dovolání žalobkyně směřující proti rozsudku Městského soudu v Praze ze dne 31. ledna 2003, č.j. 18 Co 368/2002-454, jímž byl potvrzen (v pořadí sice třetí, leč výsledkem vždy shodný, tj. žalobu zamítající) rozsudek Obvodního soudu pro Prahu 6 ze dne 14. března 2002 č.j. 14 C 173/95-383, nebylo shledáno přípustným podle § 237 odst. 1 písm. c/ zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů (dále jen „o. s. ř.“), není ve smyslu ustanovení § 243c odst. 2 o. s. ř. třeba toto usnesení odůvodňovat.
+V dovolacím řízení vznikly žalované v souvislosti se zastoupením advokátem účelně vynaložené náklady spočívající v odměně za vyjádření k dovolání ve výši 2 500 Kč (srov. část dvanáctá hlava první zákona č. 30/2000 Sb., § 5 písm. b/, § 10 odst. 3, § 15 v návaznosti na § 14 odst. 1, a § 18 odst. 1 vyhlášky č. 484/2000 Sb., kterou se stanoví paušální sazby výše odměny za zastupování účastníka advokátem nebo notářem při rozhodování o náhradě nákladů v občanském soudním řízení), s připočtením paušální částky 75 Kč (§ 13 odst. 3 vyhlášky č. 177/1996 Sb., o odměnách advokátů a náhradách advokátů za poskytování právních služeb – advokátní tarif). Protože dovolání žalobkyně bylo odmítnuto, soud jí ve smyslu ustanovení § 243b odst. 4, věty první, § 224 odst. 1 a § 146 odst. 2, věty první (per analogiam) o. s. ř. uložil, aby tyto náklady žalované nahradila; ve smyslu ustanovení § 149 odst. 1 o. s. ř. je žalobkyně povinna náhradu nákladů řízení zaplatit k rukám advokáta, který žalovanou v tomto řízení zastupoval.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 28. ledna 2004
+JUDr. Ivana Zlatohlávková, v.r.
+předsedkyně senátu
