@@ -1,0 +1,20 @@
+25 Cdo 1544/2001
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce JUDr. B. G. proti žalované České republice - Ministerstvu spravedlnosti ČR, se sídlem v Praze 2, Vyšehradská 16, o zaplacení 1.000.000,- Kč, vedené u Okresního soudu v Domažlicích pod sp. zn. 3 C 51/2000, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 10. listopadu 1999, č. j. 55 Co 588/99-9, takto:
+I. Dovolání se zamítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 2 usnesením ze dne 10. 8. 1999, č. j. 16 C 98/99-4 (předtím, než usnesením ze dne 26. 11. 1999, č. j. 16 C 98/99-11, které bylo potvrzeno usnesením Městského soudu v Praze ze dne 25. 2. 2000, č. j. 55 Co 31/2000-16, vyslovil svou místní nepříslušnost a postoupil věc Okresnímu soudu v Domažlicích), uložil žalobci, aby ve lhůtě 14 dnů doručil soudu návrh, který bude obsahovat všechny podstatné náležitosti podání ve smyslu ustanovení § 42 odst. 4 ve spojení s ustanovením § 79 odst. 1 o.s.ř. V poučení uvedl, že proti tomuto usnesení není odvolání přípustné.
+Městský soud v Praze usnesením ze dne 10. 11. 1999, č. j. 55 Co 588/99-9, odvolání žalobce odmítl s odůvodněním, že ustanovení § 202 odst. 2 písm. d) o.s.ř. přípustnost odvolání vylučuje, jak o tom byl ostatně žalobce správně poučen soudem prvního stupně.
+Proti usnesení odvolacího soudu podal žalobce dovolání. Namítá, že podle usnesení Nejvyššího soudu ze dne 20. 10. 1998, sp. zn. 21 Cdo 60/98, výzva k odstranění vad podání musí obsahovat údaje o tom, v čem je podání nesprávné nebo neúplné a poučení, jak je třeba opravu nebo doplnění provést. Podle dovolatele usnesení obvodního soudu tyto zákonné předpoklady nesplňuje. Dovolatel navrhuje zrušit napadené usnesení odvolacího soudu spolu s usnesením soudu prvního stupně.
+Vzhledem k ustanovení části dvanácté, hlavy první, bodu 17. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) dovolání projednal a rozhodl o něm podle dosavadních právních předpisů, (tj. podle občanského soudního řádu ve znění účinném před 1. 1. 2001 - dále jen „o.s.ř.„). Po zjištění, že dovolání, které je přípustné podle § 238a odst. 1 písm. e) o.s.ř., bylo podáno včas, osobou oprávněnou - účastníkem řízení (§ 240 odst. 1 o.s.ř.), a po přezkoumání věci podle § 242 o.s.ř. dospěl k závěru, že dovolání není opodstatněné.
+Podle § 218 odst. 1 písm. c) o.s.ř. odvolací soud odmítne odvolání, které směřuje proti rozhodnutí, proti němuž není přípustné.
+Podle § 202 odst. 2 písm. d) o.s.ř. odvolání není přípustné proti usnesení, jímž bylo vráceno podání k opravě.
+Jak vyplývá z obsahu spisu, byl žalobce usnesením soudu prvního stupně vyzván, aby doplnil své podání - návrh na zahájení řízení. Jednalo se o výzvu soudu k doplnění či opravě podání ve smyslu ustanovení § 43 o.s.ř., která obsahovala i správné poučení o nepřípustnosti odvolání proti usnesení soudu prvního stupně. Žalobce se přesto proti tomuto usnesení odvolal. Protože odvolání proti takovému usnesení není podle § 202 odst. 2 písm. d) o.s.ř. přípustné, bylo odvolacím soudem správně jako nepřípustné odmítnuto.
+Vady řízení vyjmenované v ustanovení § 237 odst. 1 o.s.ř., k nimž dovolací soud přihlíží z úřední povinnosti (§ 242 odst. 3 o.s.ř.), nebyly dovolatelem tvrzeny a ani z obsahu spisu se nepodávají.
+Z uvedeného vyplývá, že napadené usnesení odvolacího soudu je správné. Nejvyšší soud proto dovolání žalobce podle § 243b odst. 1 část věty před středníkem a odst. 5 o.s.ř. usnesením zamítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 4 věty první, § 224 odst. 1, § 151 odst. 1 věty první a § 142 odst.1 o.s.ř., neboť žalobce s ohledem na výsledek řízení na náhradu svých nákladů nemá právo a žalované v dovolacím řízení náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 20. září 2001
+JUDr. Petr V o j t e k, v.r.
+předseda senátu
