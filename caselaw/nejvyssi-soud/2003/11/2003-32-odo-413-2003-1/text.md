@@ -1,0 +1,18 @@
+32 Odo 413/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Petra Gemmela a JUDr. Františka Faldyny, CSc. v právní věci žalobkyně K. b., a.s., proti žalovaným 1) A. spol. s r.o., 2) A.-R.-č. p. a o. spol. s r.o., zastoupené, advokátem, o zaplacení 18,219.077,82 Kč a 4.340,18 Kč s příslušenstvím, vedené u Městského soudu v Praze pod sp. zn. 33 Cm 61/98, o dovolání druhé žalované proti usnesení Vrchního soudu v Praze ze dne 24. září 2002, č.j. 6 Cmo 55/2002-51, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Vrchní soud v Praze shora označeným usnesením potvrdil usnesení Městského soudu v Praze ze dne 19. září 2001, č.j. 33 Cm 61/98-26, v bodu II. výroku, kterým nebyla druhé žalované přiznána náhrada nákladů řízení (výrok I.). Odvolací soud dále rozhodl, že žalobkyně a druhá žalovaná nemají právo na náhradu nákladů odvolacího řízení (výrok II.). V bodech I. a III. výroku zůstalo usnesení soudu prvního stupně nedotčeno, neboť nebylo v tomto rozsahu odvoláním druhé žalované napadeno.
+Proti usnesení odvolacího soudu podala druhá žalovaná z důvodu nesprávného právního posouzení věci dovolání, z jehož obsahu dovolací soud dovodil, že toto podání dovolatelky směřuje proti jeho výroku I. Namítla, že odvolací soud svým rozhodnutím, kterým potvrdil rozhodnutí soudu prvního stupně v bodu II. výroku, kterým jí nebyla přiznána náhrada nákladů řízení, pochybil, neboť její právní zastoupení bylo v dané věci opodstatněné, a proto jí přísluší náhrada nákladů řízení podle advokátního tarifu. Dovolatelka stejně jako v odvolání namítla, že žalobu ve věci obdržela a že její vyjádření k žalobě, které doručila soudu před přijetím usnesení o zastavení řízení, je třeba považovat za procesní úkon vůči soudu, který má povahu nezbytného úkonu k bránění jejího práva vůči žalobkyni. Navrhla, aby dovolací soud napadené usnesení odvolacího soudu zrušil a věc mu vrátil k dalšímu řízení.
+Se zřetelem k době vydání usnesení soudů obou stupňů se uplatní pro dovolací řízení – v souladu s body 1., 15. a 17., hlavy I., části dvanácté, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony – občanský soudní řád ve znění účinném od 1. ledna 2001.
+Dovolání v této věci není přípustné.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+V případě dovolání směřujícího do potvrzujícího usnesení odvolacího soudu, které nebylo vydáno ve věci samé, lze obecně přípustnost dovolání opřít o ustanovení § 238, § 238a a § 239 odst. 2 a 3 o. s. ř. Protože však dovoláním napadené usnesení nelze podřadit žádnému z usnesení v těchto ustanoveních taxativně uvedených, není dovolání podle žádného z uvedených ustanovení přípustné (shodně srov. rozhodnutí uveřejněné pod č. 4/2003 Sbírky soudních rozhodnutí a stanovisek).
+Tento závěr s sebou nese konečné posouzení podaného dovolání jako nepřípustného. Nejvyšší soud je proto, aniž ve věci nařizoval jednání (§ 243a odst. 1, věta první, o. s. ř.), usnesením odmítl [§ 243b odst. 5, § 218 písm. c) o. s. ř.].
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanoveními § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., neboť druhá žalovaná, jejíž dovolání bylo odmítnuto, nemá na náhradu těchto nákladů právo a žalobkyni v souvislosti s dovolacím řízením náklady nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 11. listopadu 2003
+JUDr. Miroslav Gallus, v. r.
+předseda senátu
