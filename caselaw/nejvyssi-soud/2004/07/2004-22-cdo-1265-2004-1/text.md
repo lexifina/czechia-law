@@ -1,0 +1,18 @@
+22 Cdo 1265/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jiřího Spáčila, CSc., a soudců Víta Jakšiče a JUDr. Marie Rezkové ve věci žalobce S. V., zastoupeného advokátem, proti žalované obci N. H., o ochranu vlastnického práva, vedené u Okresního soudu ve Vsetíně pod sp. zn. 8 C 244/99, o dovolání žalobce proti rozsudku Krajského soudu v Ostravě ze dne 6. ledna 2003, č. j. 8 Co 903/2002-131, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Okresní soud ve Vsetíně (dále jen „soud prvního stupně“) rozsudkem ze dne 21. prosince 2001, č. j. 8 C 244/99-86, zamítl žalobu, „aby žalovaná byla povinna odstranit z parcely č. 10432 zapsané na LV č. 1098 pro obec a k. ú. N. H. 1 ks veřejného osvětlení a zároveň zakázal žalované vstup na tento pozemek“, a dále rozhodl o nákladech řízení.
+Krajský soud v Ostravě jako soud odvolací rozsudkem ze dne 6. ledna 2003, č. j. 8 Co 903/2002-131, potvrdil rozsudek soudu prvního stupně „v napadené části, t. j. v odstavci I. výroku ohledně požadavku na odstranění z parcely č. 10432, zapsané na LV č. 1098 pro obec a k. ú. N. H. 1 ks veřejného osvětlení a ohledně požadavku vyslovit zákaz vstupu žalované strany na tento pozemek od doby odstranění 1 ks veřejného osvětlení a v další napadené části, t. j. v odstavci II. výroku“. Současně rozhodl o nákladech odvolacího řízení.
+Proti rozsudku odvolacího soudu podává žalobce dovolání. Rozsudek, jak uvedl, „napadá v plném rozsahu“ s tím, že „dovolání je přípustné s ohledem na ustanovení § 238 odst. 1 písm. c) OSŘ a je podáno z důvodu § 241a odst. 2 písm. a)“, neboť „odvolací soud nepřizval k jednání před odvolacím soudem navrhovatele, ač v předvolání advokátovi sdělil v části upozornění, že zastupovaný účastník řízení je k jednání předvolán samostatným předvoláním. Zastupovaný účastník však předvolání neobdržel, řízení se nezúčastnil a celé řízení je tímto postiženo vadou, která mohla mít za následek nesprávné rozhodnutí odvolacího soudu ve věci“. Navrhuje, aby dovolací soud rozhodnutí odvolacího soudu zrušil a věc mu vrátil k dalšímu řízení.
+Žalovaná se k dovolání nevyjádřila.
+Podle § 236 odst. 1 OSŘ lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu jen pokud to zákon připouští. Proto Nejvyšší soud jako soud dovolací po zjištění, že dovolání bylo podáno včas a řádně zastoupeným účastníkem řízení (§ 240, § 241 občanského soudního řádu – dále jen „OSŘ“), zkoumal, zda jde o dovolání přípustné. Dovolání žalobce v dané věci přípustné není.
+Přípustnost dovolání proti rozsudku odvolacího soudu upravuje § 237 OSŘ. Žádné ze zákonných ustanovení však nepřipouští dovolání z důvodu postupu vytýkanému dovolatelem odvolacímu soudu. Tvrzená vada by byla vadou řízení, ke které by bylo možno přihlédnout jen v případě, že dovolání by bylo přípustné, sama však přípustnost dovolání založit nemůže. Dovolatelem uvedené výhrady by mohly za splnění zákonných podmínek zakládat podmínky pro žalobu pro zmatečnost ve smyslu § 229 odst. 3 OSŘ, podle něhož takovou žalobou může účastník napadnout pravomocný rozsudek odvolacího soudu nebo jeho pravomocné usnesení, kterým bylo rozhodnuto ve věci samé, jestliže mu byla v průběhu řízení nesprávným postupem soudu odňata možnost jednat před soudem.
+Dovolací soud proto o dovolání v dané věci rozhodl tak, že je jako nepřípustné podle § 243b odst. 5 a § 218 písm. c) OSŘ odmítl.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 OSŘ, neboť žalované v souvislosti s dovoláním náklady nevznikly.
+Proti tomuto rozhodnutí není opravný prostředek přípustný.
+V Brně dne 22. července 2004
+JUDr. Jiří Spáčil, CSc., v. r.
+předseda senátu
