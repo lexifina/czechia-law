@@ -1,0 +1,15 @@
+28 Cdo 81/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Ludvíka Davida, CSc. a soudců JUDr. Josefa Rakovského a JUDr. Oldřicha Jehličky, CSc. v právní věci navrhovatelů A/ JUDr. S. K., B/ Č. h. ú., zastoupeného advokátkou, za účasti 1/ Okresního úřadu v P., okresního pozemkového úřadu, 2/ A. M., 3/ ing. J. K., 4/ obce K., 5/ Okresního úřadu v P., finančního referátu, 6/ P. f. ČR, o opravných prostředcích navrhovatelů proti rozhodnutí Okresního úřadu v P., okresního pozemkového úřadu, ze dne 17. 10. 2000, č. j. PÚ/17/20-SBn, o dovolání prvního navrhovatele proti rozsudku Městského soudu v Praze ze dne 18. 11. 2002, č. j. 28 Ca 380/2000-105, takto:
+I. Řízení o dovolání se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů řízení o dovolání.
+O d ů v o d n ě n í :
+Rozsudkem Městského soudu v Praze výše označeným bylo v řízení, v němž se podle ustanovení § 250l a následujících občanského soudního řádu (dále „o. s. ř.“), platných v době řízení, rozhodovalo o opravném prostředku proti rozhodnutí správního orgánu, potvrzeno rozhodnutí Okresního úřadu v P. ze dne 17. 10. 2000, č. j. shora uvedené. Žádnému z účastníků nebylo přiznáno právo na náhradu nákladů řízení.
+Proti rozsudku Městského soudu v Praze podal první navrhovatel JUDr. S. K. dne 13. 3. 2003 dovolání.
+Dovolatel však nevzal v úvahu, že řízení o opravném prostředku proti rozhodnutí správního orgánu bylo v rozhodné době jednoinstanční (zde u krajského soudu) s tím, že proti rozhodnutí soudu nebyly – s výjimkou důchodových věcí - přípustné jakékoli opravné prostředky (§ 250s odst. 1, 2 o. s. ř.).
+Nepřípustnost opravných prostředků se týkala i dovolání a proto Nejvyššímu soudu nezbylo, než pro svou funkční nepříslušnost řízení, vzhledem k neodstranitelnému nedostatku podmínky řízení, zastavit (§ 243c odst. 1, § 104 odst. 1 o. s. ř.); ostatním účastníků přitom nebylo důvodu přiznat náklady řízení.
+V rámci úvahy o eventualitě postoupení věci Nejvyššímu správnímu soudu, motivované nabytím účinnosti soudního řádu správního (zákona č. 150/2002 Sb., dále „s. ř. s.“) od 1. 1. 2003, vycházel dovolací soud z části páté s. ř. s. – Ustanovení přechodných a zmocňovacích. Relevantní § 129 s. ř. s. však nepřipustil v žádném ze svých odstavců 1 až 4 možnost, že by podání (učiněné po 1. 1. 2003), brojící proti rozhodnutí krajského soudu vydanému před datem 1. 1. 2003 v jednoinstančním řízení, mohl projednat Nejvyšší správní soud. Nově zakotvený opravný prostředek k posledně uvedené instanci, totiž kasační stížnost, bylo přípustné podat až proti rozhodnutím krajských soudů vydaným po dni účinnosti s. ř. s., tedy po 1. 1. 2003 (§ 131 s. ř. s.). Nutno tu současně poznamenat, že Městský soud v Praze vydal ve věci ještě dne 27. 12. 2002 opravné usnesení, i toto rozhodnutí však bylo vydáno před hraničním datem a navíc šlo jen o opravu odůvodnění rozsudku.
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 29. června 2004
+JUDr. Ludvík David, CSc., v. r.
+předseda senátu
