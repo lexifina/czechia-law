@@ -1,0 +1,14 @@
+4 Tz 126/2004-I
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve veřejném zasedání dne 11. srpna 2004 v trestní věci obviněného S. B., t a k t o :
+Podle § 275 odst. 3 tr. ř. se obviněný S. B. b e r e d o v a z b y z důvodu § 67 písm. c) tr. ř.
+O d ů v o d n ě n í :
+Nejvyšší soud projednal stížnost pro porušení zákona, kterou podal ministr spravedlnosti České republiky proti usnesení Krajského soudu v Hradci Králové ze dne 5. 3. 2004, sp. zn. 10 To 47/2004, ve prospěch obviněného S. B.
+Tento obviněný byl rozsudkem Okresního soudu v Trutnově ze dne 14. 1. 2004, sp. zn. 17 T 9/2003, uznán vinným trestným činem nedovolené výroby a držení omamných a psychotropních látek a jedů podle § 187 odst. 1, odst. 2 písm. a) tr. zák. a za to byl odsouzen k trestu odnětí svobody v trvání dvou roků a šesti měsíců, pro jehož výkon byl podle § 399 odst. 2 písm. c) tr. zák. zařazen do věznice s ostrahou.
+Nejvyšší soud dne 11. 8. 2004 rozhodl rozsudkem pod sp. zn. 4 Tz 126/2004, podle § 268 odst. 2 tr. ř. tak, že vyslovil porušení zákona, k němuž došlo usnesením Krajského soudu v Hradci Králové ze dne 5. 3. 2004, sp. zn. 10 To 47/2004, pokud jím bylo odvolání obviněného proti výše citovanému rozsudku Okresního soudu v Trutnově zamítnuto dle § 256 tr. ř. jako nedůvodné. Po zrušení obou napadených rozhodnutí byla věc dle § 270 odst. 1 tr. ř. přikázána Okresnímu soudu v Trutnově, aby o ní znovu jednal a rozhodl.
+Vzhledem k tomu, že obviněný již vykonával uložený trest odnětí svobody a zrušením obou rozhodnutí, jakož i obsahově navazujících rozhodnutí zanikl zákonný důvod pro další výkon trestu, rozhodoval Nejvyšší soud obligatorně dle § 275 odst. 3 tr. ř. zda u obviněného jsou dány důvody pro vzetí do vazby či nikoliv.
+Obviněný S. B. je obviněn ze zvlášť závažného úmyslného trestného činu nedovolené výroby a držení omamných a psychotropních látek a jedů podle § 187 odst. 1, odst. 2 písm. a) tr. zák. V minulosti již byl opakovaně postaven před soud a odsouzen pro úmyslnou trestnou činnost majetkové povahy, přičemž nyní posuzované trestné činnosti se měl dopustit jednak v době, kdy na něj bylo působeno výchovným trestem odnětí svobody, jehož výkon byl podmíněně odložen (rozsudek Okresního soudu v Semilech ze dne 19. 12. 2002, sp. zn. 4 T 200/2002, jehož zkušební doba končila dne 3. 1. 2004) a jednak v době, kdy mu byl trestním příkazem Okresního soudu v Trutnově dne 26. 6. 2003, sp. zn. 3 T 155/2003, který nabyl právní moci 15. 7. 2003, uložen trest obecně prospěšných prací ve výměře 150 hodin, z něhož nic nevykonal. Obava, že obviněný ponechán na svobodě, bude v trestné činnosti pokračovat, je tak nanejvýš důvodná, a Nejvyšší soud shledal zákonné podmínky pro aplikaci ustanovení § 67 písm. c) tr. zák.
+Poučení: Proti tomuto rozhodnutí není opravný prostředek přípustný.
+V Brně dne 11. srpna 2004
+Předsedkyně senátu:
+JUDr. Danuše Novotná
