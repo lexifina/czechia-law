@@ -1,0 +1,21 @@
+20 Cdo 378/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci výkonu rozhodnutí oprávněné Městské části P., proti povinné A. Š., zastoupené advokátem, vyklizením bytu, vedené u Obvodního soudu pro Prahu 4 po sp.zn.13 E 1307/2000, o dovolání povinné proti usnesení Městského soudu v Praze ze dne 25.dubna 2001, č.j. 55 Co 111/2001-23, takto:
+I. Odvolání se odmítá
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Shora označeným rozhodnutím krajský soud potvrdil usnesení z 13. července 2000, č.j. 13 E 1307/2000-9, jímž obvodní soud nařídil výkon rozhodnutí vyklizením bytu.
+Pravomocné usnesení odvolacího soudu napadla povinná (zastoupená advokátem) včasným dovoláním, v němž namítá, že řízení je postiženo vadou, která mohla mít za následek nesprávné rozhodnutí ve věci, již spatřuje v okolnosti, že jí nebylo umožněno podat řádné odvolání proti usnesení obvodního soudu a že se odvolací soud nezabýval všemi odvolacími důvody (č.l.70).
+Při zkoumání přípustnosti dovolání musel Nejvyšší soud věc posoudit nejdříve z intertemporálního hlediska. Soud prvního stupně výkon rozhodnutí nařídil l3.července 2000, tedy podle občanského soudního řádu ve znění účinném do 31.prosince 2000. Odvolací soud pak rozhodl v souladu s ustanovením bodu l5.in fine hlavy I, části dvanácté zákona č 30/2000 Sb., tedy (byť 25.dubna 2001, tudíž po l.lednu 2001) správně podle občanského soudního řádu ve znění před novelizací zákonem č. 30/2000Sb. Je-li ovšem namístě usnesení odvolacího soudu posuzovat jako rozhodnutí vydané po řízení provedeném podle dosavadních předpisů, je nutno občanský soudní řád ve znění účinném do 31.prosince 2000 (dále též jen „ o.s.ř.“) použít i pro účely posouzení přípustnosti dovolání (viz bod l7., hlavy I, části dvanácté zákona č. 30/2000 Sb.).
+V tomto ohledu dospěl Nejvyšší soud k závěru, že dovolání není přípustné.
+Podle ustanovení § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Přípustnost dovolání proti usnesení odvolacího soudu upravují ustanovení § 237, § 238a a § 239 o. s. ř. O žádný z případů v těchto ustanoveních zmíněných však ve věci nejde.
+Ustanovení § 237 odst. 1 o. s. ř. spojuje přípustnost dovolání proti každému rozhodnutí odvolacího soudu (s výjimkami zakotvenými v odstavci druhém) s takovými hrubými vadami řízení a rozhodnutí, které činí rozhodnutí odvolacího soudu zmatečným; tyto vady - k nimž je dovolací soud (bylo-li dovolání podáno včas a k tomu legitimovaným subjektem) povinen podle ustanovení § 242 odst. 3 o. s. ř. přihlédnout z úřední povinnosti - v dovolání namítány nebyly a z obsahu spisu nevyplývají.
+Dovolání není přípustné ani podle § 238a odst. 1 písm. a) o. s. ř., jelikož napadené rozhodnutí není usnesením měnícím, nýbrž potvrzujícím, a nelze je podřadit ani případům vyjmenovaným v odstavci 1 pod písmeny b) - f) tohoto ustanovení (a tedy ani pod jeho písmenem d/, jelikož sice jde o usnesení potvrzující, nikoli však takové, jímž by bylo potvrzeno usnesení o zastavení řízení pro nedostatek pravomoci soudu).
+Přípustnost dovolání není dána ani ustanovením § 239 o. s. ř.; podle jeho prvého odstavce proto, že ji ve výroku svého rozhodnutí odvolací soud výslovně nezaložil, a podle odstavce druhého z toho důvodu, že jím předpokládaný návrh na vyslovení přípustnosti dovolání povinný nevznesl.
+Protože dovolání není v dané věci přípustné podle žádného z uvedených ustanovení, Nejvyšší soud je - aniž se mohl zabývat zkoumáním jeho důvodnosti - bez jednání (§ 243a odst. 1 věta první o. s. ř.) podle ustanovení § 243b odst. 4, odst. 5, věty za středníkem a
+§ 218 odst. 1 písm. c) o. s. ř. usnesením odmítl.
+Povinná z procesního hlediska zavinil, že dovolání bylo odmítnuto, oprávněné, jež by měla právo na náhradu nákladů dovolacího řízení, prokazatelné náklady tohoto řízení (podle obsahu spisu) nevznikly. Této procesní situaci odpovídá ve smyslu ustanovení § 146 odst. 2 věty první (per analogiam), § 224 odst. 1 a § 243b odst. 4 o. s. ř. výrok o tom, že na náhradu nákladů tohoto řízení nemá právo žádný z účastníků.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 17.června 2004
+JUDr. Vladimír M i k u š e k, v.r.
+předseda senátu
