@@ -1,0 +1,17 @@
+28 Cdo 1753/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Ludvíka Davida, CSc. a soudců JUDr. Josefa Rakovského a JUDr. Oldřicha Jehličky, CSc. v právní věci žalobců a/ V. M. a b/ Ing. L. M., obou zastoupených advokátem, proti žalovanému Bytovému družstvu P., o uzavření smlouvy o převodu bytu do vlastnictví, vedené u Městského soudu v Praze pod sp. zn. 33 Cm 169/99, o dovolání žalobců proti rozsudku Vrchního soudu v Praze ze dne 4. 2. 2004, č. j. 11 Cmo 176/2003-276, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů řízení o dovolání.
+O d ů v o d n ě n í :
+Rozsudkem výše označeným Vrchní soud v Praze k odvolání žalobců změnil rozsudek Městského soudu v Praze ze dnů 20. 2. a 15. 4. 2003, č. j. 33 Cm 169/99-157, 179 (opravné usnesení), kterým byla ve výrokové části nahrazena vůle žalovaného k uzavření smlouvy o převodu bytu v domě č.p. 512, or. 58, na P. ul. v P., do vlastnictví žalobců; rozsudek se opíral o ustanovení zákona č. 72/1994 Sb. o vlastnictví bytů. Jak patrno z výroku rozsudku a jak ostatně vysvětlil již odvolací soud, rozsudek soudu prvního stupně byl shledán ve své podstatě správným a výrok ve prospěch žalobců, obsahující text smlouvy, byl obsahově potvrzen. Došlo pouze k opravám několika formálních nepřesností ve znění smlouvy, jak je iniciovali v odvolání žalobci. V dalších výrocích odvolacího soudu byl v relaci k dalším procesním požadavkům žalobců rozsudek soudu prvního stupně dílem potvrzen, dílem byl návrh žalobců zamítnut; žádnému z účastníků nebylo přiznáno právo na náhradu nákladů řízení před soudy obou stupňů.
+Proti rozsudku odvolacího soudu podali žalobci ve lhůtě dovolání. Tvrdili v něm, že odvolací soud nesprávně věc posoudil po stránce skutkové i právní. V dovolacím návrhu žádali pod body I., II. textové opravy nižšími soudy vyřčeného obsahu smlouvy; v bodě III. pak žádali o změnu nákladového výroku odvolacího soudu.
+Žalovaný se k dovolání nevyjádřil.
+Odvolací soud reagoval v mezidobí na současně s dovoláním podaný (a téhož obsahu) návrh žalobců na opravu svého rozsudečného výroku usnesením ze dne 30. 6. 2004, č. j. 11 Cmo 176/2003-303, tak, že většině konkrétních návrhů žalobců vyhověl a rozsudek v jejich intencích opravil. Pokud ve dvou případech k opravě nedošlo, odvolací soud zcela jednoznačně vysvětlil, proč zde návrhu žalobců nevyhověl.
+Po takto provedené opravě je tím spíše dovolání žalobců subjektivně nepřípustné, neboť je podáno proti rozhodnutí, kterým jim na jejich právech nebyla způsobena žádná újma a které vyznělo v jejich prospěch (srov. účel dovolání a interpretaci zejména § 240 odst. 1 o. s. ř.). Nejvyšší soud, jak by měla strana žalující prostřednictvím svého zástupce vědět, není soudem provádějícím textové opravy rozhodnutí nižších instancí, ale jeho limitovaným úkolem je napravovat zákonnými důvody vymezená pochybení soudů nižších stupňů; jde převážně o nesprávné právní posouzení věci, zčásti též o procesní vady řízení. Již raději vůbec dovolací soud blíže nekomentuje procesní „diligenci“ zástupce žalobců, jenž se ani po opravě provedené odvolacím soudem neobtěžoval, třeba jen zčásti, vzít dovolání zpět.
+Dovolací soud dovolání odmítl podle § 243b odst. 5 a § 218 písm. b/ o. s. ř. .
+Protistraně nevznikly v dovolacím řízení žádné náklady.
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 24. února 2005
+JUDr. Ludvík David, CSc., v. r.
+předseda senátu
