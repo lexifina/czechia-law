@@ -1,0 +1,33 @@
+11 Tcu 4/2002
+ČESKÁ REPUBLIKA
+R O Z S U D E K
+J M É N E M R E P U B L I K Y
+Nejvyšší soud České republiky v senátě složeném z předsedy senátu JUDr. Karla Hasche a soudců JUDr. Antonína Draštíka a JUDr. Stanislava Rizmana ve veřejném zasedání konaném dne 19. února 2002 projednal návrh Ministerstva spravedlnosti České republiky na uznání rozsudků soudů Slovenské republiky a rozhodl t a k t o :
+Podle § 384a tr. ř., v trestní věci odsouzeného J. Š., s e u z n á v á na území České republiky rozsudek Okresního soudu v Senici, Slovenská republika, ze dne 14. 7. 1998, sp. zn. 1 T 75/97, ve spojení s rozsudkem Krajského soudu v Trnavě, Slovenská republika, ze dne 8. 12. 1998, sp. zn. 3 To 234/98.
+O d ů v o d n ě n í :
+Rozsudkem Okresního soudu v Senici, Slovenská republika, ze dne 14. 7. 1998, sp. zn. 1 T 75/97, ve spojení s rozsudkem Krajského soudu v Trnavě, Slovenská republika, ze dne 8. 12. 1998, sp. zn. 3 To 234/98, byl J. Š. uznán vinným (podle níže uvedených ustanovení trestního zákona Slovenské republiky):
+1, 2) dvojnásobným trestným činem loupeže podle § 234 odst. 1,
+3) pokusem trestného činu loupeže podle § 8 odst. 1, § 234 odst. 1,
+4) pokusem trestného činu neoprávněného používání cizího motorového vozidla podle § 8 odst. 1, § 249a odst. 1,
+5) pokusem trestného činu neoprávněného používání cizího motorového vozidla podle § 8 odst. 1, § 249a odst. 2,
+6) trestným činem neoprávněného používání cizího motorového vozidla podle § 249a odst. 2.
+Za tyto trestné činy a pokusy trestných činů mu byl uložen úhrnný trest odnětí svobody v trvání dvou a půl roku a trest propadnutí věci - zavíracího nože. Stalo se tak na základě zjištění, že odsouzený (řazeno podle výše uvedených bodů):
+1) dne 5. 3. 1996 okolo 20.45 hod. v K., v ulici K., vnikl do dvora rodinného domu Š. P., v úmyslu zmocnit se jeho peněz, přičemž měl přes tvář přetaženou punčochu a v rukou nepravou výbušninu, jejiž použitím vyhrožoval, když však Š. P. začal křičet, dostal strach a z místa činu utekl.
+2) dne 7. 3. 1996 okolo 06.00 hod. v K., v ulici R., zazvonil v domě č. 684 I. M., v úmyslu zmocnit se jejích peněz, přičemž měl přes tvář přetaženou punčochu a v ruce držel nůž, když však poškozená začala ze strachu křičet, z místa činu utekl.
+3) dne 7. 3. 1996 okolo 16.30 hod. v K., v ulici B., vnikl do neoploceného dvora rodinného domu č. 253 M. K. v úmyslu zmocnit se jejích peněz, přičemž měl přes tvář přetaženou punčochu a v ruce držel nůž, uchopil kliku dveří od domu v úmyslu je otevřít, vchodové dveře však byly zamčené, do domu se mu proto vniknout nepodařilo, dostal strach a z místa činu utekl.
+4) dne 16. 4. 1996 okolo 01.00 hod. v K., v ulici K., vnikl do neuzamčeného osobního motorového vozidla zn. Škoda 120, v hodnotě 40 000 Sk, vozidlo nastartoval avšak jízdu nevykonal, neboť byl uzamčený volant, čímž způsobil vytrhnutím kabelů a poškozením startéru poškozené Josefíně Guttové škodu ve výši 2 500 Sk.
+5) dne 16. 4. 1996 v nočních hodinách v K., v ulici R., v garáži rodinného domu č. 976 vnikl do neuzamčeného osobního motorového vozidla zn. Škoda 130, v hodnotě 65 000 Sk, které se mu nepodařilo nastartovat, čímž způsobil poškozením kabelů poškozenému B. M. škodu ve výši 500 Sk.
+6) dne 16. 4. 1996 okolo 02.30 hod. v K., v ulici Š., ze dvora rodinného domu č. 343 odcizil osobní motorové vozidlo zn. VAZ 2103, v hodnotě 70 000 Sk, se kterým jezdil v okrese S. a následně havaroval, čímž způsobil poškozenému R. V. škodu ve výši 8 313 Sk.
+Oba citované rozsudky slovenských soudů nabyly právní moci dne 8. 12. 1998.
+Odsouzený J. Š. dosud k výkonu trestu odnětí svobody uloženého mu ve výroku uvedenými rozhodnutími Slovenských soudů nenastoupil, v současné době se nachází na území České republiky.
+Ministerstvo spravedlnosti Slovenské republiky požádalo podle čl. 31 odst. 2 Smlouvy mezi Slovenskou republikou a Českou republikou o právní pomoci poskytované justičními orgány a o úpravě některých právních vztahů v občanských a trestních věcech ze dne 29. října 1992 (uveřejněna pod č. 209/1993 Sb.) s odvoláním se na Úmluvu o předávání odsouzených osob ze dne 21. března 1983 (uveřejněna pod č. 553/1992 Sb.) o převzetí výkonu trestu odnětí svobody v této trestní věci.
+Odsouzený vyjádřil, podle protokolu sepsaného Okresním soudem v Olomouci dne 19. 12. 2001, souhlas s předáním k výkonu trestu, uloženého mu v předmětné věci, do České republiky. Před udělením souhlasu byl poučen ve smyslu čl. 7 odst. 1 Úmluvy o předávání odsouzených osob, jakož i o tom, že jako občan České republiky nemůže být vydán k výkonu trestu do ciziny.
+Ministerstvo spravedlnosti České republiky předložilo proto dne 11. ledna 2002 tuto věc Nejvyššímu soudu České republiky s návrhem, aby podle § 384a tr. ř. výše citovaná rozhodnutí soudů Slovenské republiky uznal na území České republiky.
+Nejvyšší soud České republiky přezkoumal předloženou trestní věc a shledal, že zákonné podmínky pro uznání rozsudků slovenských soudů jsou v této věci splněny tak, jak jsou stanoveny v uvedených mezinárodních smlouvách.
+J. Š. je podle Listiny o udělení státního občanství, vydané Ministerstvem vnitra České republiky dne 19. 8. 1999, občanem České republiky, který vyjádřil v protokolu sepsaném Okresním soudem v Olomouci dne 19. 12. 2001, souhlas s předáním, přičemž je odsouzen za trestné činy a pokusy trestných činů, které jsou trestné i podle právního řádu České republiky (trestné činy loupeže podle § 234 tr. zák. a neoprávněného užívání cizí věci podle § 249 tr. zák., pokusy těchto trestných činů a trestný čin poškozování cizí věci podle § 257 tr. zák.). Z uloženého dvou a půl letého trestu odnětí svobody odsouzený dosud nic nevykonal, tedy trest odnětí svobody, který je třeba ještě vykonat, přesahuje dobu šesti měsíců.
+Ze shora uvedených důvodů bylo rozhodnuto tak, že se návrhu na uznání cizozemského rozsudku vyhovuje.
+Pouze pro úplnost Nejvyšší soud dodává, že Ministerstvem spravedlnosti České republiky byl již dne 28. září 2001 předložen návrh na uznání shodných rozhodnutí slovenských soudů jako v tomto případě, a to pro účely postupu směřujícího k předání k výkonu trestu téhož odsouzeného. Nejvyšší soud předchozí návrh usnesením ze dne 22. 10. 2001 zamítl, s odůvodněním, že z předložených materiálů nebylo zřejmé, zda k udělení souhlasu odsouzeného s předáním k výkonu trestu do České republiky (vyjádřeného v protokolu sepsaného Okresním soudem v Olomouci dne 30. 8. 2000) došlo se skutečně plnou znalostí právních důsledků souvisejících s předáním. Citované usnesení však nebránilo podání opětovnému podání návrhu, v jehož rámci již byl uvedený nedostatek odstraněn.
+P o u č e n í : Proti tomuto rozsudku není žádný opravný prostředek přípustný.
+V Brně dne 19. února 2002
+Předseda senátu:
+JUDr. Karel Hasch
