@@ -1,0 +1,103 @@
+IV.ÚS 123/01 ze dne 16. 5. 2001
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Česká republika
+
+
+
+
+
+
+
+
+
+
+USNESENÍ
+
+
+
+
+
+
+
+
+
+
+Ústavního soudu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+IV. ÚS 123/01
+ČESKÁ REPUBLIKA
+   USNESENÍ
+    Ústavního soudu
+Ústavní soud rozhodl o návrhu J.B., takto:
+     Návrh se odmítá.             Odůvodnění :
+      Ústavní soud obdržel dne 26. února 2001podání navrhovatelky, které však nemělo náležitosti požadované zákonem č. 182/1993 Sb., pro návrh na zahájení řízení před Ústavním soudem. Vzhledem k tomu byla navrhovatelka vyzvána k odstranění vad podání ve lhůtě 20 dnů, kterou jí Ústavní soud k tomu určil. Výzva k odstranění vad podání byla navrhovatelce doručena dne 23. 4. 2001. Do dnešního dne vady návrhu nebyly navrhovatelkou odstraněny. Navrhovatelka tedy ve lhůtě jí určené vady návrhu neodstranila, a proto Ústavní soud její návrh podle § 43 odst. 1 písm. a) zákona č. 182/1993 Sb., ve znění pozdějších předpisů, odmítl.
+ Poučení: Proti usnesení ústavního soudu není odvolání přípustné. 
+ V Brně dne 16. května 2001                               JUDr. Eva Zarembová
+                                                                               soudce zpravodaj
