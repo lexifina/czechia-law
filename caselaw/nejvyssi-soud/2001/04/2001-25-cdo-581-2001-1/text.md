@@ -1,0 +1,20 @@
+25 Cdo 581/2001
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce Ing. M. J. proti žalované Č. p., a. s., o 16.312,87 Kč s příslušenstvím, vedené u Okresního soudu ve Zlíně pod sp. zn. 12 C 81/95, o dovolání žalobce proti usnesení Krajského soudu v Brně ze dne 25. února 2000 č. j. 13 Co 848/99-103, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud ve Zlíně rozsudkem ze dne 27. 1. 1997 č. j. 12 C 81/95-63 zamítl žalobu na zaplacení částky 16.312,87 Kč s 3% úrokem a rozhodl o náhradě nákladů řízení.
+K odvolání žalobce Krajský soud v Brně rozsudkem ze dne 10. 3. 1999 č. j. 13 Co 326/97-90 rozsudek soudu prvního stupně potvrdil ve výroku ohledně částky 16.312,87 Kč, zatímco v části týkající se příslušenství a náhrady nákladů řízení jej zrušil a vrátil v tomto rozsahu věc soudu prvního stupně k dalšímu řízení.
+Okresní soud ve Zlíně usnesením ze dne 5. 8. 1999 č. j. 12 C 81/95-96 zastavil řízení „ohledně příslušenství pohledávky ve výši 3% úroku z částky 16.312,87 Kč\" a rozhodl o náhradě nákladů řízení před soudy obou stupňů.
+K odvolání žalobce Krajský soud v Brně usnesením ze dne 25. 2. 2000 č. j. 13 Co 848/99-103 usnesení soudu prvního stupně potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Proti posledně citovanému usnesení odvolacího soudu podal žalobce dovolání, v němž s poukazem na svůj závažný zdravotní stav žádá o poskytnutí dodatečné lhůty šesti měsíců, aby si mohl zajistit zastoupení advokátem k podání řádného dovolání se všemi náležitostmi.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) vzhledem k ustanovení bodu 17. Hlavy I části dvanácté zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, postupoval podle občanského soudního řádu ve znění účinném do 31. 12. 2000 (dále jen o.s.ř.) a dospěl k závěru, že dovolání bylo podáno opožděně.
+Podle ustanovení § 240 odst. 1 věty první o.s.ř. účastník může podat dovolání do jednoho měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Podle ustanovení § 240 odst. 2 o.s.ř. zmeškání lhůty uvedené v odstavci 1 nelze prominout. Lhůta je zachována, bude-li dovolání podáno ve lhůtě u odvolacího nebo dovolacího soudu.
+Podle § 57 odst. 1 o.s.ř. do běhu lhůty se nezapočítává den, kdy došlo ke skutečnosti určující počátek lhůty; to neplatí, jde-li o lhůtu určenou podle hodin. Podle § 57 odst. 2 věty první a druhé o.s.ř. lhůty určené podle týdnů, měsíců nebo let se končí uplynutím toho dne, který se svým označením shoduje se dnem, kdy došlo ke skutečnosti určující počátek lhůty, a není-li ho v měsíci, posledním dnem měsíce. Připadne-li konec lhůty na sobotu, neděli nebo svátek, je posledním dnem lhůty nejblíže následující pracovní den.
+V posuzovaném případě soud prvního stupně doručil stejnopisy usnesení odvolacího soudu žalobci dne 19. 4. 2000 a žalované o den dříve. Dnem 19. 4. 2000 tedy napadené usnesení nabylo právní moci a dovolání proti němu bylo možno podat ve lhůtě jednoho měsíce, to znamená nejpozději v pátek dne 19. 5. 2000. Dovolatel však dovolání adresované přímo Nejvyššímu soudu ČR podal k poštovní přepravě až dne 14. 6. 2000, tedy již po uplynutí zákonem stanovené lhůty, jejíž zmeškání nelze prominout (§ 240 odst. 2 věta prvá o.s.ř.), a proto bylo podle ustanovení § 243b odst. 4 věty první a § 218 odst. 1 písm. a) o.s.ř. jeho dovolání odmítnuto jako opožděné, aniž se dovolací soud mohl zabývat náležitostmi dovolání a jeho přípustností.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 4 věty první, § 224 odst. 1, § 151 odst. 1 věty první a § 142 odst. 1 o.s.ř., neboť žalobce s ohledem na výsledek řízení na náhradu svých nákladů nemá právo a žalované v dovolacím řízení náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 26. dubna 2001
+JUDr. Pavel P a v l í k, v. r.
+předseda senátu
