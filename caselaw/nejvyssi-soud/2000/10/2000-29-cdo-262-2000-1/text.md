@@ -1,0 +1,20 @@
+29 Cdo 262/2000
+U S N E S E N Í
+Nejvyšší soud jako soud dovolací rozhodl v právní věci žalobce S.-B., spol. s.r.o., zast. advokátem, proti žalovanému 1) S. B. a 2) V. B., o zaplacení 11.441,- Kč, vedené u Okresního soudu v Benešově pod sp. zn. 6 C 988/98, o dovolání žalovaného 2) proti usnesení Krajského soudu v Praze ze dne 2. prosince 1999, čj. 29 Co 743/99 - 110 takto:
+Usnesení Krajského soudu v Praze ze dne 2. prosince 1999 čj. 29 Co 734/99 - 110, se zrušuje a věc se vrací tomuto soudu k dalšímu řízení.
+O d ů v o d n ě n í :
+Krajský soud v Praze jako soud odvolací, v předmětné věci výše uvedeným usnesením odmítl odvolání žalovaného 2) pro opožděnost.
+Z odůvodnění usnesení odvolacího soudu vyplývá, že žalovaným 1) a 2) podané odvolání do výroku rozsudku Okresního soudu v Benešově ze dne 30.srpna 1999 č.j. 6 C 988/98-95, kterým byla žalovaným uložena povinnost zaplatit žalobci společně a nerozdílně 11.356,40,-Kč s 12% úrokem z prodlení od 15.4. 1997, bylo podáno po uplynutí patnáctidenní lhůty.
+Odvolací soud z obsahu spisu zjistil, že usnesení soudu prvního stupně bylo žalovaným doručeno dne 9.10.1999 a neboť žalovaný 2) nepožádal o prominutí zmeškání lhůty pro odvolání a odvolání podal osobně až 25.října 1999, dovodil odvolací soud, že odvolání bylo podáno opožděně.
+Proti tomuto usnesení podal žalovaný 2) včas dovolání, jehož přípustnost dovozuje z ustanovení § 238a odst. 1. písm. e/ a § 237 odst. 1 písm. f/ zákona č. 99/1963 Sb. občanského soudního řádu (dále jen „o. s. ř.\")
+Dovolatel poukazuje na to, že rozsudek Okresního soudu v Benešově ze dne 30.srpna 1999 č.j. 6 C 988/98-95 převzal dne 9.10.1999 a posledním dnem k podání odvolání byl den 25.10.1999. Takto stanovenou lhůtu k podání odvolání podle ustanovení občanského soudního řádu o doručování písemností dovolatel splnil, když podal odvolání osobně k soudu dne 25.10.1999. Dále upozorňuje na pochybení soudu který připustil přistoupení žalovaného 2) jako obecného zmocněnce žalované 1) do řízení. Dovolatel navrhuje zrušení usnesení Krajského soudu v Praze č.j. 29 Co 743/99 - 110 ze dne 2. prosince 1999 a odložení vykonatelnosti rozsudku Okresního soudu v Benešově ze dne 30.srpna 1999 č.j. 6 C 988/98-95.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) po zjištění, že dovolání bylo podáno včas a osobou k tomu oprávněnou (§ 240 odst. 1 o. s. ř.), je přípustné podle § 238a odst. 1 písm. e/ o. s. ř. a opírá se i o způsobilý dovolací důvod podle § 241 odst. 3 písm. a/ o. s. ř., rozhodnutí přezkoumal (§ 242 odst. 1 o. s. ř.) a dospěl k závěru, že dovolání je důvodné.
+Dovolací soud ze spisu zjistil, že rozsudek Okresního soudu v Benešově ze dne 30.srpna 1999 č.j. 6 C 988/98-95 převzal žalovaný 2) dne 9.10.1999. Podle ust. § 57 odst. 1 věta první o. s. ř. se do lhůty nezapočítává den, kdy došlo ke skutečnosti určující počátek lhůty. Dnem, od kterého začala běžet patnáctidenní lhůta k odvolání, byl den 10.10.1999. Posledním, tedy patnáctým dnem k podání odvolání, byl den 24.10.1999, což byla podle kalendáře neděle. Z razítka na č.l. 104, dovolací soud zjistil, že odvolání bylo podáno osobně dne 25.10.1999. Podle ust. § 57 odst. 2 věta druhá o. s. ř. připadne-li konec lhůty na sobotu, neděli nebo svátek, je posledním dnem lhůty nejblíže následující pracovní den. Odvolání bylo podáno v pondělí 25.10.1999, tedy včas.
+Řízení je tudíž postiženo jinou vadou, která mohla mít za následek nesprávné rozhodnutí ve věci (§ 241 odst. 3 písm. b) o. s. ř.), k níž musel dovolací soud přihlédnout z úřední povinnosti (ust. § 242 odst. 3 věta druhá o. s. ř.).
+Proto Nejvyššímu soudu nezbylo než podle ust. § 243b odst. 1 věta za středníkem o. s. ř. napadené rozhodnutí zrušit a věc vrátit odvolacímu soudu k dalšímu řízení.
+Pro odložení vykonatelnosti podle § 243 o. s. ř. neshledal dovolací soud bezprostřední důvod.
+Proti tomuto rozhodnutí není opravný prostředek přípustný.
+V Brně 31. října 2000
+JUDr. František F a l d y n a , CSc., v.r.
+předseda senátu
+Za správnost vyhotovení: Ivana Navrátilová
