@@ -1,0 +1,28 @@
+6 Tdo 725/2004
+U S N E S E N Í
+Nejvyšší soud České republiky projednal v neveřejném zasedání konaném dne 30. června 2004 dovolání S. Š., které podala proti usnesení Krajského soudu v Hradci Králové – pobočka v Pardubicích ze dne 30. 9. 2003, sp. zn. 13 To 355/2003, a rozhodl t a k t o :
+Podle § 265i odst. 1 písm. a) tr. ř. se dovolání S. Š. o d m í t á .
+O d ů v o d n ě n í :
+Usnesením Okresního soudu v Pardubicích ze dne 25. 7. 2003, sp. zn. 22 T 29/2003, byla S. Š. uložena podle § 66 odst. 1 tr. ř. pořádková pokuta ve výši 5.000,- Kč. Soud prvého stupně v odůvodnění svého rozhodnutí v podrobnostech uvedl, že jmenovaná se jako svědkyně bez řádné omluvy opakovaně nedostavila k hlavnímu líčení ve věci obviněného JUDr. B. Š., ačkoliv byla vždy včas a řádně předvolána.
+S. Š. podala proti zmíněnému rozhodnutí okresního soudu stížnost, která byla usnesením Krajského soudu v Hradci Králové – pobočka v Pardubicích ze dne 30. 9. 2003, sp. zn. 13 To 355/2003, podle § 148 odst. 1 písm. c) tr. ř. zamítnuta.
+Proti konstatovanému rozhodnutí stížnostního soudu podala S. Š. prostřednictvím JUDr. B. Š. dne 15. 12. 2003 na poštu podání označené jako dovolání, které bylo adresováno a doručeno Okresnímu soudu v Pardubicích dne 17. 12. 2003.
+Mimořádný opravný prostředek S. Š. zaměřila proti citovanému usnesení soudu druhého stupně a opřela ho o dovolací důvod uvedený v ustanovení § 265b odst. 1 písm. g) tr. ř. Podle jejího přesvědčení rozhodnutí spočívá na nesprávném právním posouzení skutku a na nesprávném hmotně právním posouzení a bylo rozhodnuto o zamítnutí usnesení, aniž byly splněny procesní podmínky stanovené zákonem pro takové usnesení.
+V odůvodnění svého podání dovolatelka konstatovala, že se jako svědkyně řádně, písemně a dostatečně omluvila a uvedla důvodné překážky svého nedostavení se ke svědecké výpovědi. Rovněž upozornila, že neporušila žádný příkaz ani výzvu podle ustanovení o pořádkové pokutě. Dále namítla, že pořádkovou pokutu neuložil předseda senátu, který jako jediný je ze zákona oprávněn v daném případě předmětné rozhodnutí vydat. Zdůraznila, že došlo i k porušení ustanovení o řízení, které usnesení předcházelo. Proto navrhla, aby Nejvyšší soud zrušil citovaná usnesení Krajského soudu v Hradci Králové – pobočka v Pardubicích a Okresního soudu v Pardubicích.
+Nejvyšší soud jako soud dovolací (§ 265c tr. ř.) při posuzování podaného dovolání nejprve zkoumal, zda jsou splněny podmínky jeho přípustnosti.
+Podle § 265a odst. 1 tr. ř. dovoláním lze napadnout pravomocné rozhodnutí soudu ve věci samé, jestliže soud rozhodl ve druhém stupni a zákon to připouští. Podle § 265a odst. 2 písm. a) až h) platí, že rozhodnutím ve věci samé se rozumí:
+a) rozsudek, jímž byl obviněný uznán vinným a byl mu uložen trest, popřípadě ochranné opatření nebo bylo upuštěno od potrestání,
+b) rozsudek, jímž byl obviněný obžaloby zproštěn,
+c) usnesení o zastavení trestního stíhání,
+d) usnesení o postoupení věci jinému orgánu,
+e) usnesení, jímž bylo uloženo ochranné opatření,
+f) usnesení o podmíněném zastavení trestního stíhání,
+g) usnesení o schválení narovnání, nebo
+h) rozhodnutí, jímž byl zamítnut nebo odmítnut řádný opravný prostředek proti rozsudku nebo usnesení uvedenému pod písmeny a) až g).
+Z citovaného ustanovení § 265a odst. 1 tr. ř. vyplývá, že dovolání nelze podat proti každému pravomocnému rozhodnutí v trestních věcech, neboť není univerzálním ale mimořádným opravným prostředkem. Rozhodnutí, které lze napadnout dovoláním, musí splňovat kumulativně stanovené podmínky - jde o rozhodnutí soudu, které je pravomocné, tj. stalo se konečným, závazným a řádnými opravnými prostředky nezměnitelným, přičemž právní moci nabylo v řízení před soudem druhého stupně a současně zákon dovolání připouští. Zároveň se musí jednat o rozhodnutí ve věci samé, jež zákonodárce taxativně vymezil v § 265a odst. 2 písm. a) až písm. h) tr. ř.
+Z provedeného výkladu je zcela zřejmé, že usnesení Krajského soudu v Hradci Králové –pobočka v Pardubicích ze dne 30. 9. 2003, sp. zn. 13 To 355/2003, kterým byla stížnost S. Š. podle § 148 odst. 1 písm. c) tr. ř. zamítnuta, nelze podřadit pod rozhodnutí ve věci samé, proti kterým zákon podání mimořádného opravného prostředku –dovolání připouští.
+Za tohoto stavu věci Nejvyšší soud podle § 265i odst. 1 písm. a) tr. ř. dovolání S. Š. jako nepřípustné odmítl. Proto nebyl oprávněn postupovat podle § 265i odst. 3 tr. ř. (přezkoumat výrok napadeného rozhodnutí a řízení, které mu předcházelo), přičemž toto rozhodnutí učinil v souladu s ustanovením § 265r odst. 1 písm. a) tr. ř. v neveřejném zasedání.
+Nejvyšší soud navíc dodává, že podle ustanovení § 265d odst. 1 tr. ř. mohou dovolání podat jen nejvyšší státní zástupce a obviněný, přičemž obviněný tak může učinit v souladu s § 265d odst. 2 věta první tr. ř. pouze prostřednictvím obhájce. Osobou neoprávněnou k podání dovolání je každá jiná osoba než nejvyšší státní zástupce a obviněný. Pouze je-li obviněný zbaven způsobilosti k právním úkonům nebo je-li jeho způsobilost k právním úkonům omezena, může i proti vůli obviněného za něho v jeho prospěch dovolání podat též jeho zákonný zástupce a jeho obhájce (§ 265d odst. 2 věta poslední tr. ř.). S. Š., která v trestní věci vystupuje v postavení svědkyně, není osobou oprávněnou k podání dovolání, a proto i v případě, že by dovolání splňovalo podmínky přípustnosti ve smyslu § 265a odst. 1, 2 tr. ř., bylo by nutno je odmítnout podle § 265i odst. 1 písm. c) tr. ř.
+P o u č e n í : Proti rozhodnutí o dovolání není s výjimkou obnovy řízení opravný prostředek přípustný (§ 265n tr. řádu).
+V Brně dne 30. června 2004
+Předseda senátu:
+JUDr. Jiří Horák
