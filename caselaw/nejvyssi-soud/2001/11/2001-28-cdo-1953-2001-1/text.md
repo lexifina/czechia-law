@@ -1,0 +1,17 @@
+28 Cdo 1953/2001
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce Města B., zastoupeného advokátem, proti žalovanému ing. J. S., zastoupenému advokátem, o vyklizení bytu, vedené u Městského soudu v Brně pod sp. zn. 53 C 123/2000, o dovolání žalovaného proti usnesení Krajského soudu v Brně ze dne 15. 6. 2001, č.j. 19 Co 247/2001-50, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalobou podanou dne 17. 5. 2000 u Městského soudu v Brně domáhal se žalobce uložení povinnosti žalovanému vyklidit byt blíže uvedený v petitu žaloby. Městský soud v Brně jako soud prvního stupně usnesením ze dne 17. 4. 2001, č.j. 53 C 123/2000-45, připustil, aby do řízení na straně žalovaného přistoupila R. S. K odvolání žalovaného Krajský soud v Brně jako soud odvolací výše uvedeným usnesením potvrdil usnesení soudu I. stupně. Usnesení odvolacího soudu nabylo právní moci dne 9. 7. 2001.
+Proti usnesení odvolacího soudu podal žalovaný prostřednictvím svého právního zástupce dne 22., 8. 2001 dovolání, jehož přípustnost dovozoval z ustanovení § 239 odst. 2 písm. b) o.s.ř., když jde o dovolání proti usnesení odvolacího soudu, jímž bylo potvrzeno usnesení soudu prvního stupně, kterým bylo rozhodnuto o přistoupení dalšího účastníka. Tvrdil existenci dovolacího důvodu podle § 241a odst. 2 písm. b) o.s.ř., když rozhodnutí odvolacího soudu, kterým bylo potvrzeno rozhodnutí prvoinstančního soudu, spočívá na nesprávném právním posouzení věci. Navrhl zrušení usnesení odvolacího soudu a vrácení věci soudu prvního stupně k dalšímu řízení.
+Vyjádření k dovolání nebylo podáno.
+Nejvyšší soud České republiky jako soud dovolací při posuzování tohoto dovolání vycházel z ustanovení části dvanácté, hlavy 1, bodu 17 zákona č. 30/2000 Sb., podle něhož dovolání proti rozhodnutím odvolacího soudu, vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních předpisů, se projednají a rozhodne se o nich podle dosavadních předpisů. O takový případ jde v posuzované věci, v níž řízení bylo zahájeno dne 17. 5. 2000. Proto je třeba aplikovat ustanovení občanského soudního řádu ve znění před novelou provedenou zákonem č. 30/2000 Sb. (dále jen „o.s.ř.“), jak jsou rovněž uváděna dále v tomto rozhodnutí.
+Podle § 236 odst. 1 o.s.ř. lze dovoláním napadnou pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Podle § 240 odst. 1 věty první o.s.ř. může účastník podat dovolání do jednoho měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Zmeškání lhůty uvedené v odstavci 1 nelze prominout (§ 240 odst. 2 věta první o.s.ř.).
+V této věci bylo dovolání podáno po uplynutí shora uvedené zákonné lhůty jednoho měsíce od právní moci usnesení odvolacího soudu. Dovolací soud proto podle § 243 odst. 4 o.s.ř. za použití ustanovení § 218 odst. 1 písm. a) o.s.ř. musel opožděně podané dovolání odmítnout, aniž mohl přistoupit k meritornímu přezkoumání důvodů v dovolání uplatněných.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 4 o.s.ř. za použití § 224 odst.1 o.s.ř., § 151 odst. 1 o.s.ř. a § 142 odst. 2 o.s.ř. 50 o.s.ř. Žalovaný neměl v dovolacím řízení úspěch a žalobci v souvislosti s dovolacím řízením zřejmě žádné náklady řízení nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 29. listopadu 2001
+JUDr. Josef R a k o v s k ý , v.r.
+předseda senátu
