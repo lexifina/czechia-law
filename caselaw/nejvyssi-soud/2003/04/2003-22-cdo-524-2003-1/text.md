@@ -1,0 +1,16 @@
+22 Cdo 524/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jiřího Spáčila, CSc., a soudců Víta Jakšiče a JUDr. Marie Rezkové ve věci žalobců: A) V. L. a B) J. L. proti žalovanému J. S., zastoupenému advokátem, o určení neplatnosti smlouvy, o určení vlastnictví, o vyklizení nemovitostí a o zaplacení částky 1 372 397,- Kč, vedené u Okresního soudu v Písku pod sp. zn. 4 C 777/2000, o dovolání žalobců proti usnesení Krajského soudu v Českých Budějovicích ze dne 28. listopadu 2002, č. j. 5 Co 2815/2002-364, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í :
+Krajský soud v Českých Budějovicích jako soud odvolací usnesením z 28. 11. 2002, č. j. 5 Co 2815/2002-364, potvrdil usnesení Okresního soudu v Písku (dále „soud prvního stupně) z 9. 8. 2002, č. j. 4 C 777/2000-336a, kterým soud prvního stupně uložil oběma žalobcům, aby společně a nerozdílně zaplatili České republice – Okresnímu soudu v Písku do tří dnů od právní moci tohoto usnesení „doplatek soudního poplatku, který činí podle položky 1b Sazebníku soudních poplatků 54.800,- Kč“.
+Proti usnesení odvolacího soudu podali žalobci 19. 12. 2002 u soudu prvního stupně dovolání s návrhem, aby dovolací soud zrušil usnesení odvolacího soudu a věc mu vrátil k dalšímu řízení.
+Žalovaný se k dovolání nevyjádřil.
+Soud prvního stupně usnesením z 9. 1. 2003, č. j. 4 C 777/2000-374 dovolatele vyzval, aby si pro dovolací řízení zvolili svým zástupcem advokáta a aby dovolání podali jeho prostřednictvím. Pro splnění uvedené výzvy jim stanovil lhůtu třiceti dnů a poučil je o tom, že nepředloží-li mu v dané lhůtě plnou moc zvoleného advokáta a jím sepsané dovolání, Nejvyšší soud dovolací řízení zastaví. Toto usnesení, na které dovolatelé ve smyslu poučení nereagovali, jim bylo doručeno 3. 2. 2003.
+Podle § 241 odst. 1, 2 občanského soudního řádu (dále jen „OSŘ“) musí být dovolatelé v dovolacím řízení zastoupeni advokátem, jestliže sami nemají právnické vzdělání. Z podaného dovolání zastoupení advokátem nevyplývá a jiné listiny, toto zastoupení nebo právnické vzdělání dovolatelů prokazující, nebyly předloženy. Dovolatelé nedostatek povinného zastoupení neodstranili, ačkoliv o procesních následcích nesplnění této povinnosti byli poučeni.
+Protože povinné zastoupení dovolatelů v dovolacím řízení je podmínkou týkající se účastníků řízení, jejíž nedostatek brání vydání rozhodnutí ve věci samé (§ 241 odst. 1 OSŘ) a protože k odstranění tohoto nedostatku přes výzvu soudu prvního stupně do dnešního dne nedošlo, Nejvyšší soud dovolací řízení podle § 241b odst. 2 a § 104 odst. 2 OSŘ zastavil.
+Podle § 151 odst. 1 OSŘ, věta před středníkem, o povinnosti k náhradě nákladů řízení rozhodne soud bez návrhu v rozhodnutí, jímž se řízení u něho končí. Rozhodnutím, ve kterém je dovolací soud povinen rozhodnout o nákladech dovolacího řízení, se rozumí jen takové rozhodnutí, kterým se končí řízení ve věci; pokud po provedení dovolacího řízení pokračuje nalézací řízení (t. j. řízení před soudem prvního stupně nebo před soudem odvolacím), bude o nákladech dovolacího řízení, pokud vznikly, rozhodnuto až v rozhodnutí, kterým bude ukončeno nalézací řízení.
+Proti tomuto rozhodnutí není opravný prostředek přípustný.
+V Brně dne 14. dubna 2003
+JUDr. Jiří Spáčil, CSc., v. r.
+předseda senátu
