@@ -1,0 +1,16 @@
+11 Td 20/2002
+U S N E S E N Í
+Nejvyšší soud České republiky v trestní věci obviněných J. R., a Ing. B. P., vedené u Krajského soudu v Brně pod sp. zn. 11 T 8/2001 projednal v neveřejném zasedání konaném dne 26. 3. 2002 spor o příslušnost mezi Krajským soudem v Brně a Městským soudem v Praze a rozhodl t a k t o :
+Podle § 24 odst. 1 tr. řádu j e k projednání trestní věci obviněných J. R. a Ing. B. P. p ř í s l u š n ý Krajský soud v Brně.
+O d ů v o d n ě n í :
+Krajský státní zástupce podal u Krajského soudu v Brně obžalobu proti obviněným J. R. a Ing. B. P. pro trestný čin podvodu podle § 250 odst. 1, odst. 4 tr. zák., kterého se měli dopustit tak, že obviněný J. R. jako fyzická osoba podnikající pod obchodním jménem J. R. s místem podnikání Z., a obviněný Ing. B. P. jako jeho zaměstnanec po společné domluvě, kdy se dohodli na způsobu provedení činu, se záměrem vylákat na firmě P. se sídlem M., spolumajitele A. S. B. finanční prostředky pod záminkou dodání zboží, přičemž měli v úmyslu po získání kupní ceny zboží nedodat, obviněný Ing. B. P. dne 12. 10. 1999 v P. při jednání s A. S. B. podepsal za firmu J. R. se jmenovaným dohodu o dodávce zboží, nazvanou „Protokol o záměrech“, kterou se firma J. R. Z. zavázala dodat firmě P. v M. pánské boty značky Senátor v množství 5004 párů v ceně 14 USD za pár, a to do 10 dnů po zaplacení celkové kupní ceny ve výši 70 056 USD, přičemž poté, co byla uvedená platba dne 15. 10. 1999 poukázána na účet firmy vedený u ČS, a. s., zboží ve stanovené lhůtě ani později nedodali, čímž se firma J. R., Z. obohatila o částku 70 056 USD, v přepočtu dle kursovního lístku ČNB platného od 12. 10. 1999 o částku 2 413 709,40 Kč ke škodě firmy P., M.
+Obžaloba napadla Krajskému soudu v Brně dne 20. 3. 2001.
+Usnesením Krajského soudu v Brně ze dne 4. 3. 2002, sp. zn. 11 T 8/2001, byla trestní věc obviněných R. a P. podle § 188 odst. 1 písm. a) tr. řádu předložena Nejvyššímu soudu ČR k rozhodnutí o příslušnosti s odůvodněním, že jednání obou obviněných, které naplňuje objektivní stránku trestného činu, i místo, kde byl spáchán, bylo v Praze, a protože to zpochybňuje místní příslušnost Krajského soudu v Brně, měl by věc projednat Městský soud v Praze.
+Nejvyšší soud podle § 24 odst. 1 tr. řádu zhodnotil důkazy použitelné k řešení tohoto sporu a dospěl k následujícímu závěru.
+Podle obžaloby podvodné jednání obou obviněných spočívá v tom, že se pod záminkou dodání zboží dohodli uzavřít smlouvy s firmou P., a to výlučně se záměrem vylákat na této firmě finanční prostředky. Z tohoto pohledu není podstatné, kdy smlouvy byly sepsány a kde došlo k zaplacení kupní ceny, ale kde obvinění s podvodným jednáním započali. Tímto místem bylo sídlo podnikání obviněného R. ve Z., tedy v obvodu Krajského soudu v Brně. V obvodu tohoto soudu bylo také provedeno celé vyšetřování a k tomuto soudu byla podána obžaloba.
+Nad rámec shora uvedeného závěru je třeba ještě zdůraznit, že je naprosto nepřijatelné rozhodovat podle § 188 odst. 1 písm. a) tr. řádu rok po té, co napadla obžaloba.
+Za tohoto stavu ve sporu o příslušnost podle § 24 odst. 1 tr. řádu rozhodl Nejvyšší soud tak, jak je ve výroku uvedeno.
+Poučení: Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 26. března 2002
+Předseda senátu:
+JUDr. Pavel Kučera
