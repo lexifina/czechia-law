@@ -1,0 +1,20 @@
+30 Cdo 667/2002
+U S N E S E N Í
+Nejvyšší soud České republiky ve věci navrhovatele M. Š., proti odpůrkyni České správě sociálního zabezpečení, Praha 5, Křížová 25, o starobní důchod, vedené u Městského soudu v Praze pod sp. zn. 47 Ca 67/98, o dovolání navrhovatele proti usnesení Vrchního soudu v Praze ze dne 17. května 2000, č.j. 2 Cao 125/2000-72, takto:
+Dovolání se zamítá.
+O d ů v o d n ě n í :
+Městský soud v Praze usnesením ze dne 21. března 2000, č.j. 47 Ca 67/98-59, vyzval navrhovatele, aby svoji žádost o ustanovení zástupce v řízení doplnil o doklady, jimiž prokáže své majetkové a sociální poměry, k tomu mu zaslal formulář – vzor č. 6 o.s.ř. – potvrzení o osobních, majetkových a výdělkových poměrech, poučil jej o způsobu jeho vyplnění a stanovil mu lhůtu patnácti dnů od doručení výzvy k předložení potvrzení o svých poměrech.
+Vrchní soud v Praze navrhovatelovo odvolání proti tomuto usnesení odmítl, neboť jde o usnesení, kterým se upravuje vedení řízení a odvolání tudíž proti němu není přípustné (§ 250s odst. 2, § 218 odst. 1 písm. c/ o.s.ř.).
+V podaném dovolání navrhovatel namítá, že v řízení je součinnost soudu (soudů) nulová, na jeho podání se nereaguje, soud nezajímají práva manželky atd. Normy české ani mezinárodní nejsou soudci respektovány. Správní soudnictví je pak ještě na periferii zájmu.
+Při posuzování dovolání vycházel dovolací soud z ustanovení části dvanácté, hlavy první, bodu 17 zákona č. 30/2000 Sb., jímž byl změněn a doplněn občanský soudní řád (zákon č. 99/1963 Sb.), podle něhož dovolání proti rozhodnutím odvolacího soudu, vydaným přede dnem účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů, se projednají a rozhodne se o nich podle dosavadních právních předpisů, t.j. podle občanského soudního řádu ve znění před novelizací zákonem č. 30/2000 Sb.
+Dovolání bylo podáno včas, osobou oprávněnou – účastníkem řízení (§ 240 odst. 1 o.s.ř.) – řádně zastoupeným advokátem.
+Dovolání je přípustné podle ustanovení § 238a odst. 1 písm. e) o.s.ř.
+Nejvyšší soud České republiky, který jako soud dovolací (§ 10a o.s.ř.) věc projednal bez jednání (§ 243a odst. 1 věta první o.s.ř.), dospěl k závěru, že dovolání není důvodné.
+Podle ustanovení § 202 odst. 2 písm. a) o.s.ř. odvolání není přípustné proti usnesení, jímž se upravuje vedení řízení. Takové usnesení zůstává bez vlivu na rozhodnutí ve věci samé a týká se zpravidla otázek, jež v zájmu hospodárného vedení řízení vyžadují rychlého řešení, aniž by ovšem odepření možnosti opravného prostředku mohlo být na újmu práv účastníků řízení. Soud není tímto usnesením ani sám vázán a může je změnit, aniž by osoba k tomu oprávněná podala odvolání (§ 170 odst. 2 o.s.ř.).
+O takový případ jde i v projednávané věci, kde navrhovateli soudem prvního stupně adresovaná výzva směřovala k opatření podkladů pro rozhodnutí o jeho žádosti o ustanovení zástupce podle § 30 o.s.ř. (ten mu byl posléze usnesením Městského soudu ze dne 27. února 2001, č.j. 47 Ca 67/98-88, ustanoven v konkrétní osobě advokáta). Usnesení soudu prvního stupně je tedy svou povahou usnesením, jímž se upravuje vedení řízení. Závěr odvolacího soudu o tom, že z tohoto důvodu proti němu není odvolání přípustné, je proto správný a jeho usnesení o odmítnutí odvolání podle § 250s odst. 2 a § 218 odst. 1 písm. c) o.s.ř. je tudíž namístě.
+Za tohoto stavu nelze dospět k závěru, že řízení je postiženo jinou vadou, která by mohla mít za následek nesprávné rozhodnutí ve věci, že rozhodnutí vychází ze skutkového zjištění, které nemá v podstatné části oporu v provedeném dokazování, ani že rozhodnutí spočívá na nesprávném posouzení věci (§ 241 odst. 3 písm. b/, c/, d/ o.s.ř.).
+Protože nebylo zjištěno (ani namítáno), že by usnesení odvolacího soudu bylo postiženo některou z vad, uvedených v § 237 odst. 1 o.s.ř. (§ 241 odt. 3 písm. a/ o.s.ř.), Nejvyšší soud České republiky dovolání navrhovatele podle ustanovení § 243b odst. 1 části věty před středníkem o.s.ř. zamítl.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 22. května 2002
+JUDr. Karel Podolka, v. r.
+předseda senátu
