@@ -1,0 +1,16 @@
+33 Odo 210/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy Víta Jakšiče a soudců JUDr. Blanky Moudré a JUDr. Ivany Zlatohlávkové ve věci žalobkyně B. s. r. o., zastoupené, advokátem, proti žalovanému K. k., zastoupenému, advokátem, o zaplacení částky 1,094.588,40 Kč s příslušenstvím, vedené u Okresního soudu v Rychnově nad Kněžnou pod sp. zn. 4 C 110/2004, o dovolání žalovaného proti usnesení Krajského soudu v Hradci Králové ze dne 16. srpna 2004, č. j. 24 Co 396/2004-65, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Hradci Králové jako soud odvolací usnesením ze dne 16. srpna 2004, č. j. 24 Co 396/2004-65, potvrdil usnesení Okresního soudu v Rychnově nad Kněžnou (dále jen „soud prvního stupně“) ze dne 27. května 2004, č. j. 4 C 110/2004-55, ve výroku, jímž byla Oblastní nemocnici R. uložena povinnost nahradit žalobkyni náklady řízení před soudem prvního stupně, a rozhodl o nákladech odvolacího řízení.
+Proti tomuto usnesení podala Oblastní nemocnice v R. dne 6. září 2004 dovolání, opírající se, pokud jde o přípustnost, o § 237 odst. 1 písm. c) občanského soudního řádu (dále jen „OSŘ“). Vzhledem k tomu, že tato nemocnice byla Zastupitelstvem K. kraje s účinností ke dni 30. září 2004 zrušena, rozhodl Nejvyšší soud ČR usnesením ze dne 9. března 2005, č. j. 33 Odo 210/2005-84, že v dovolacím řízení bude dále jako se žalovaným pokračováno s K. krajem, který vstoupil do jejích práv a povinností.
+Dovolání však není přípustné.
+Podle § 236 odst. 1 OSŘ lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Přípustnost dovolání je upravena v ustanoveních § 237 až § 239 OSŘ, ovšem ze žádného z nich neplyne, že by dovolání bylo přípustné proti výroku, kterým odvolací soud potvrdil rozhodnutí soudu prvního stupně, jímž bylo rozhodnuto jen o nákladech řízení. S ohledem na obsah dovolání je třeba pouze připomenout, že v § 237 OSŘ je upravena přípustnost dovolání proti rozhodnutím odvolacího soudu ve věci samé, jímž rozhodnutí o nákladech řízení není (blíže srov. usnesení Nejvyššího soudu ČR ze dne 31. ledna 2002, sp. zn. 29 Odo 874/2001, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod č. 4/2003).
+Dovolacímu soudu tedy nezbylo, než podle § 243b odst. 5 věty prvé a § 218 písm. c) OSŘ dovolání odmítnout, neboť směřuje proti rozhodnutí, proti němuž zákon tento mimořádný opravný prostředek nepřipouští.
+O nákladech dovolacího řízení bylo rozhodnuto s přihlédnutím k tomu, že žalobkyni, která by podle § 243b odst. 5, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 OSŘ měla právo na jejich náhradu, v tomto řízení žádné účelně vynaložené náklady nevznikly. Náklady spojené s vyjádřením k dovolání, jež bylo sepsáno advokátem, nelze za účelné ve smyslu § 142 odst. 1 OSŘ považovat, jelikož toto vyjádření sice obsahuje polemiku s přípustností dovolání, ovšem výlučně na bázi výkladu § 237 odst. 2 písm. a) OSŘ a úvah o zásadním právním významu napadeného rozhodnutí ve smyslu § 237 odst. 1 písm. c) OSŘ, na nichž rozhodnutí dovolacího soudu není založeno.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 29. března 2005
+Vít Jakšič,v.r.
+předseda senátu
