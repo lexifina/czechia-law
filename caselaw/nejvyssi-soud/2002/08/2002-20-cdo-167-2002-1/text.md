@@ -1,0 +1,20 @@
+20 Cdo 167/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci výkonu rozhodnutí oprávněné obce T. proti povinným 1) J. Č. a 2) D. Č., vyklizením bytu, vedené u Okresního soudu v Domažlicích pod sp. zn. E 1769/2000, o dovolání povinných proti usnesení Krajského soudu v Plzni ze dne 30. 11. 2001, č.j. 12 Co 883/2001-50, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v záhlaví označeným rozhodnutím potvrdil usnesení ze dne 11. 10. 2001, č.j. E 1769/2000-44, jímž Okresní soud v Domažlicích zamítl návrh povinných na odklad provedení výkonu rozhodnutí (nařízeného usnesením Okresního soudu v Domažlicích ze dne 8. 1. 2001, č.j. E 1769/2000-8, ve spojení s usnesením Krajského soudu v Plzni ze dne 26. 7. 2001, č.j. 14 Co 554/2001-40) vyklizením bytu, a povinné zavázal k náhradě nákladů řízení oprávněné; o nákladech odvolacího řízení rozhodl tak, že žádný z účastníků nemá na jejich náhradu právo. Odvolací soud se ztotožnil se soudem prvního stupně v tom, že předpoklady pro odklad provedení výkonu nejsou dány.
+Rozhodnutí odvolacího soudu napadli povinní (zastoupeni advokátem) včasným dovoláním, jímž se domáhali jeho zrušení a vrácení věci k dalšímu řízení. Své dovolání podávají povinní výslovně z důvodu uvedeného § 241a odst. 2 písm. b/ zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném od 1. 1. 2001 (nesprávné právní posouzení věci), namítajíce, že skutečnosti, z nichž soudy obou stupňů vycházely, postačují ke kladnému rozhodnutí o jejich návrhu.
+Podle části dvanácté, hlavy I, bodu 17. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (to jest podle občanského soudního řádu ve znění účinném do 31. 12. 2000). V daném případě odvolací soud – jak vyplývá z odůvodnění napadeného usnesení – odvolání projednal a rozhodl o něm podle občanského soudního řádu ve znění účinném do 31. 12. 2000; Nejvyšší soud proto také dovolací řízení podřídil úpravě účinné před novelizací zákonem č. 30/2000 Sb.
+Dovolání není přípustné.
+Podle ustanovení § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti usnesení upravuje v prvé řadě ustanovení § 238a o.s.ř. O žádný z případů v tomto ustanovení zmíněných však v dané věci nejde. Použitelnost ustanovení § 238a odst. 1 písm. a/ o.s.ř. není dána proto, že usnesení odvolacího soudu není usnesením měnícím, nýbrž potvrzujícím, a napadené rozhodnutí nelze podřadit ani odstavci 1 písm. b/ až f/ citovaného ustanovení.
+Vady řízení (tzv. zmatečnosti), s nimiž § 237 odst. 1 o.s.ř. spojuje přípustnost dovolání proti každému rozhodnutí odvolacího soudu (s výjimkami zakotvenými v odstavci druhém) a k nimž je dovolací soud povinen přihlédnout z úřední povinnosti (§ 242 odst. 3 věta druhá o.s.ř.), v dovolání rovněž namítány nejsou a ze spisu se nepodávají.
+Přípustnost dovolání nelze opřít ani o ustanovení § 239 o.s.ř.; odvolací soud výrokem svého rozhodnutí přípustnost dovolání nevyslovil (odstavec 1/) a povinní návrh na vyslovení přípustnosti dovolání nepodali (odstavec 2/).
+Nejvyšší soud proto, aniž se mohl zabývat správností napadeného usnesení z hlediska uplatněného důvodu, dovolání bez jednání (§ 243a odst. 1 věta první o.s.ř.) odmítl (§ 243b odst. 4 věta první, § 218 odst. 1 písm. c/ o.s.ř.).
+O nákladech dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 4, § 224 odst. 1 a § 146 odst. 2 věty první (per analogiam) o.s.ř.; oprávněné náklady (podle obsahu spisu) nevznikly a povinní na jejich náhradu nemají právo.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 29. srpna 2002
+JUDr. Pavel K r b e k , v.r.
+předseda senátu
