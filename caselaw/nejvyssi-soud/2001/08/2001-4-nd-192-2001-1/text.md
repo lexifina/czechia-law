@@ -1,0 +1,16 @@
+4 Nd 192/2001
+U S N E S E N Í
+Nejvyšší soud České republiky jako soud nejblíže společně nadřízený rozhodl v senátě složeném z předsedy senátu JUDr. Františka Hrabce a soudců JUDr. Jiřího Pácala a JUDr. Jindřicha Urbánka, ve věci žalobců F. M., J. K., J. M., J. B., proti žalovaným Z. H. a J. H., o zaplacení částky 516 600,- Kč s příslušenstvím, vedené u Okresního soudu v Hodoníně pod sp. zn. 6 C 1006/96, o návrhu na přikázání věci z důvodu vhodnosti t a k t o :
+Návrh na přikázání věci Městskému soudu v Praze se z a m í t á .
+O d ů v o d n ě n í :
+Okresní soud v Hodoníně předložil dne 2. 7. 2001 v souladu s ustanovením § 12 odst. 3 o. s. ř. Nejvyššímu soudu návrh jednoho z žalobců F. M., aby věc, vedená u tohoto soudu pod sp. zn. 6 C 1006/96 byla z důvodu vhodnosti přikázána Městskému soudu v Praze.
+Tento návrh žalobce odůvodnil v podstatě nespokojeností s tím, jak řízení probíhá u Okresního soudu v Hodoníně, kde dochází k průtahům. Domnívá se proto, že u Městského soudu v Praze by bylo rozhodnuto rychleji, přičemž zároveň poukázal na své současné bydliště, které je rovněž v Praze.
+K učiněnému návrhu na delegaci vhodnou se vyjádřil další z žalobců, a to J. M., který s ním bez bližšího odůvodnění vyslovil nesouhlas a taktéž žalovaný Z. H. s delegací věci do Prahy nesouhlasí, když odmítl, že by Okresní soud v Hodoníně věc neřešil a měl průtahy v jednání.
+Nejvyšší soud přezkoumal podaný návrh a shledal, že v posuzovaném případě nejsou splněny zákonné podmínky na přikázání věci jinému soudu.
+Podle § 12 odst. 2 o. s. ř. věc může být jinému soudu téhož stupně přikázána z důvodu vhodnosti.
+Tyto důvody vhodnosti musí být takové povahy, aby z nich jednoznačně plynulo, že jiným než příslušným soudem bude věc projednána rychleji a hospodárněji. Při posuzování podmínek delegace věci a podmínek vhodnosti má pak zásadní význam též stanovisko účastníků řízení. Nelze rovněž nezdůraznit, že postup podle § 12 odst. 2 o. s. ř. je výjimkou ze zásady, že řízení koná soud, jehož příslušnost je určena zákonem. Z tohoto důvodu se musí skutečnosti, které jsou podkladem pro delegaci, vyznačovat určitou mimořádností. Ovšem okolnost, že navrhovatel má subjektivní pocit, že příslušný soud nevede řízení podle jeho představ, nemůže být důvodem k delegování věci z důvodu vhodnosti ve smyslu výše uvedeného ustanovení o. s. ř. Požadavek na hospodárnější řízení, pokud by bylo konáno u navrhovaného soudu, by v daném případě taktéž nemohl být splněn, když žalobce tímto hlediskem ani neargumentoval a nijak jej nedoložil. V úvahu bylo nutné též vzít i zásadně nesouhlasné stanovisko dalšího žalobce i jednoho z žalovaných. V neposlední řadě je třeba poukázat na okolnost, že předmětnou věc nelze k Městskému soudu v Praze delegovat již z důvodu jeho věcné nepříslušnosti, neboť jde z hlediska soudní hierarchie o soud krajský, jehož věcná příslušnost je výslovně upravena v ustanovení § 9 odst. 2, 3 o. s. ř. a k jejímu projednání a rozhodnutí je příslušný soud okresní (§ 9 odst. 1 o. s. ř.).
+S ohledem na uvedené Nejvyšší soud návrh na přikázání věci Městskému soudu v Praze zamítl, neboť podmínky pro tzv. delegaci vhodnou podle § 12 odst. 2 o. s. ř. nejsou splněny.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 1. srpna 2001
+Předseda senátu:
+JUDr. František Hrabec
