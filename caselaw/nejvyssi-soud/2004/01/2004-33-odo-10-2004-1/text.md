@@ -1,0 +1,11 @@
+33 Odo 10/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivany Zlatohlávkové a soudců JUDr. Miroslava Galluse a JUDr.Vladimíra Velenského ve věci žalobce J. B., zastoupeného, advokátem, proti žalovaným a) J. N., a b) V. N., obou zastoupených, advokátem, o zaplacení 1 277 500 Kč s příslušenstvím, vedené u Okresního soudu v Příbrami pod sp. zn. 14 C 149/2001, o dovolání žalobce proti rozsudku Krajského soudu v Praze ze dne 25. června 2003 č.j. 25 Co 157/2003-116, takto:
+I. Dovolání se odmítá.
+II. Žalobce je povinen zaplatit žalovaným náklady dovolacího řízení ve výši 7 575 Kč do tří dnů od právní moci usnesení k rukám, advokáta.
+Protože dovolání směřující proti rozsudku Krajského soudu v Praze ze dne 25. června 2003, č.j. 25 Co 157/2003-116, jímž byl potvrzen rozsudek Okresního soudu v Příbrami ze dne 28. listopadu 2002, č.j. 14 C 149/2001-68, nebylo dovolacím soudem shledáno přípustným podle § 237 odst. 1 písm. c/ zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů (dále jen „o. s. ř.“), není třeba rozhodnutí o odmítnutí dovolání odůvodňovat (srov. § 243c odst. 2 o. s. ř.).
+V dovolacím řízení vznikly žalovaným v souvislosti se zastoupením advokátem účelně vynaložené náklady, které spočívají v odměně za vyjádření k dovolání ve výši 7 500 Kč (srov. § 3 odst. 1, § 10 odst. 3, § 14 odst. 1, § 16 odst. 2 a § 18 odst. 1 vyhlášky č. 484/2000 Sb., kterou se stanoví paušální sazby výše odměny za zastupování účastníka advokátem nebo notářem při rozhodování o náhradě nákladů v občanském soudním řízení), s připočtením paušální částky 75 Kč (§ 13 odst. 3 vyhlášky č. 177/1996 Sb., o odměnách advokátů a náhradách advokátů za poskytování právních služeb – advokátní tarif). Protože dovolání žalobce bylo odmítnuto, soud mu ve smyslu ustanovení § 243b odst. 5, věty první, § 224 odst. 1 a § 146 odst. 2, věty první (per analogiam) o. s. ř. uložil, aby tyto náklady žalovaným nahradil; ve smyslu ustanovení § 149 odst. 1 o. s. ř. je žalobce povinen náhradu nákladů řízení zaplatit k rukám advokáta, který žalované v tomto řízení zastupoval.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 22. ledna 2004
+JUDr. Ivana Zlatohlávková, v.r.
+předsedkyně senátu
