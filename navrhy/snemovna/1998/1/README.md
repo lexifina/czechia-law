@@ -19,6 +19,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 1998-07-22 | 1/0 | Návrh zákona |  |
 | 1998-08-14 | 1/1 | Stanovisko vlády k návrhu poslanců Vojtěcha Filipa a dalších na vydání ústavního zákona, kterým se mění a doplňuje zákon České národní rady č. 1/1993 Sb., Ústava České republiky | [t000101.md](t000101.md) |
+| 1998-11-12 | 1/2 | Usnesení ústavně právního výboru č. 11 ze dne 4. listopadu 1998 k návrhu poslanců Vojtěcha Filipa a dalších na vydání ústavního zákona, kterým se mění a doplňuje zákon České národní rady č. 1/1993 Sb., Ústava České republiky |  |
 
 ## Files
 
@@ -33,5 +34,6 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | Print | Document | Official file | Why |
 | --- | --- | --- | --- |
 | 1/0 | Návrh zákona | [t000100.doc](https://www.psp.cz/sqw/text/orig2.sqw?idd=27724) | text extraction not verified |
+| 1/2 | Usnesení ústavně právního výboru č. 11 ze dne 4. listopadu 1998 k návrhu poslanců Vojtěcha Filipa a dalších na vydání ústavního zákona, kterým se mění a doplňuje zákon České národní rady č. 1/1993 Sb., Ústava České republiky | [t000102.doc](https://www.psp.cz/sqw/text/orig2.sqw?idd=55653) | text extraction not verified |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
