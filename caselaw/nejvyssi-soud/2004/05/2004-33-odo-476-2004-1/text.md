@@ -1,0 +1,18 @@
+33 Odo 476/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivany Zlatohlávkové a soudců JUDr. Blanky Moudré a JUDr. Miroslava Galluse ve věci žalobkyně E. Š., proti žalovanému Ing. I. P., zastoupeného, advokátem, o zaplacení 332.000,- Kč s příslušenstvím, vedené u Okresního soudu v Liberci pod sp. zn. 16 C 194/2001, o dovolání žalobkyně proti rozsudku Krajského soudu v Ústí nad Labem – pobočky v Liberci ze dne 23. dubna 2003, č. j. 35 Co 80/2003-76, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Ústí nad Labem rozsudkem ze dne 23. dubna 2003, č.j. 35 Co 80/2003-76, potvrdil rozsudek Okresního soudu v Liberci ze dne 28. listopadu 2002, č.j. 16 C 194/2001-59, v odvoláním napadené části, tj. ve výroku, jímž byla žaloba do částky 165.183,20 Kč s příslušenstvím zamítnuta, a rozhodl o nákladech řízení.
+Proti usnesení odvolacího soudu podala žalobkyně dovolání, v němž vyjadřuje své pochybnosti o nestrannosti soudu, neboť je přesvědčena, že „není možné, aby soud na základě lživé výpovědi, bez doložení patřičných dokladů mohl takto rozhodnout“. Uvádějíc vlastní verzi skutku žalobkyně navrhuje, aby Nejvyšší soud České republiky celou záležitost „přešetřil a uvedl spravedlnost na správnou míru“.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) shledal, že dovolání bylo podáno včas osobou k tomu oprávněnou – účastnicí řízení (§ 240 odst. 1 o. s. ř.), avšak nejsou dány podmínky pro jeho věcné projednání.
+Je-li dovolatelem – jako v projednávané věci – fyzická osoba, musí být (nemá-li právnické vzdělání) zastoupena advokátem nebo notářem, jimiž musí být dovolání i sepsáno (srov. § 241 odst. 1, 2 písm. a/, odst. 4 o. s. ř.).
+Povinné zastoupení je tak zvláštní podmínkou dovolacího řízení týkající se dovolatele, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění není možno vydat rozhodnutí, jímž se řízení končí. Podle § 104 odst. 2 o. s. ř. jde-li o nedostatek podmínky řízení, který lze odstranit, učiní k tomu soud vhodná opatření. Nezdaří-li se nedostatek podmínky řízení odstranit, řízení zastaví.
+Protože dovolatelka nebyla zastoupena advokátem (advokát JUDr. P. R. soudu dne 22. 12. 2003 sdělil, že žalobkyni již v dovolacím řízení nezastupuje) a z obsahu spisu nevyplývalo, že by sama měla právnické vzdělání, byla usnesením soudu prvního stupně ze dne 22. 1. 2004, č. j. 16 C 194/2001 - 85, vyzvána, aby ve lhůtě 1 měsíce od doručení usnesení si pro podání dovolání v této věci zvolila zástupcem advokáta a aby jeho prostřednictvím podala řádné dovolání proti rozsudku odvolacího soudu. Současně byla poučena, že dovolací řízení bude zastaveno, nepředloží-li v poskytnuté lhůtě plnou moc zvoleného advokáta a jím sepsané dovolání. Usnesení s výzvou bylo dovolatelce doručeno dne 30. 1. 2004, na výzvu nikterak nereagovala.
+Z výše uvedeného vyplývá, že zákonem stanovená podmínka dovolacího řízení podle § 241 odst. 1 části věty první před středníkem o. s. ř. ve spojení s § 241 odst. 2 o. s. ř. nebyla přes provedené opatření soudem prvního stupně do dnešního dne splněna. Nejvyšší soud proto dovolací řízení pro nedostatek uvedené podmínky řízení podle § 243c odst. 1 a § 104 odst. 2 o. s. ř. zastavil.
+Výrok o nákladech dovolacího řízení odpovídá situaci, kdy žalovanému v dovolacím řízení nevznikly žádné náklady, na jejichž úhradu by měl jinak právo proti žalobkyni, která procesně zavinila zastavení dovolacího řízení ( § 243b odst. 5, § 224 odst. 1, § 146 odst. 2 věta první a § 151 odst. 1 o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 26. května 2004
+JUDr. Ivana Zlatohlávková, v. r.
+předsedkyně senátu
