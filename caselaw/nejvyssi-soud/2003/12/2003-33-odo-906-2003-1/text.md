@@ -1,0 +1,21 @@
+33 Odo 906/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci žalobkyně P. n. s., a.s., proti žalovanému R. N., zastoupenému, advokátem, o zaplacení 763 383,20 Kč s příslušenstvím, vedené u Krajského soudu v Hradci Králové pod sp. zn. 20 Cm 328/93, o dovolání žalovaného proti rozsudku Vrchního soudu v Praze ze dne 25. dubna 2001 č. j. 3 Cmo 401/99-283 takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Hradci Králové rozsudkem ze dne 1. dubna 1999 č. j. 20 Cm 328/93-250 uložil žalovanému, aby zaplatil žalobkyni částku 227 127,10 Kč s 0,05% poplatkem z prodlení a úrokem z prodlení od 21. 9. 1992 do zaplacení, zamítl žalobu o zaplacení částky 536 256,10 Kč s 0,05% poplatkem z prodlení a úrokem z prodlení od 21. 9. 1992 do zaplacení a rozhodl o náhradě nákladů řízení.
+K odvolání žalovaného Vrchní soud v Praze rozsudkem ze dne 25. dubna 2001 č. j. 3 Cmo 401/99-283 rozsudek soudu prvního stupně v části týkající se povinnosti žalovaného zaplatit žalobkyni částku 227 127, 10 Kč s úrokem z prodlení ve výši 16% p. a. od 21. 9. 1992 do zaplacení potvrdil a ve zbytku požadovaného úroku změnil výrok rozsudku soudu prvního stupně tak, že se žaloba v tomto rozsahu zamítá, potvrdil výrok o náhradě nákladů řízení a rozhodl o náhradě nákladů odvolacího řízení.
+Proti rozsudku odvolacího soudu podal žalovaný dovolání, které předal podatelně soudu prvního stupně dne 27. července 2001.
+Podle části dvanácté hlavy I bodu 17 zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů a některé další zákony, se dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona (1. 1. 2001) nebo vydaným po řízení provedeném podle dosavadních právních předpisů projednají a rozhodnou podle dosavadních právních předpisů (tj. podle občanského soudního řádu ve znění účinném do 31.12. 2000 - dále jen „o. s. ř.“). Tak je tomu i v daném případě, kdy byl rozsudek odvolacího soudu vydán po řízení provedeném podle dosavadních právních předpisů, tedy podle občanského soudního řádu ve znění účinném do 31. 12. 2000.
+Podle části dvanácté hlavy I bodu 15 zákona č. 30/2000 Sb. se totiž odvolání proti rozhodnutím soudu prvního stupně vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů projednají a rozhodnou podle dosavadních právních předpisů. Rozsudek soudu prvního stupně č. j. 20 Cm 328/93-250 byl vydán dne 1. dubna 1999.
+Skutečnost, že dovolání se projedná a rozhodne podle dosavadních právních předpisů mj. znamená, že se podle těchto předpisů posoudí i otázka včasnosti dovolání.
+Podle § 240 odst. 1 o. s. ř. může účastník řízení podat dovolání do jednoho měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni.
+Podle § 211 a § 159 odst. 1 o. s. ř. je doručený rozsudek, který již nelze napadnout odvoláním, v právní moci. Vzhledem k tomu, že rozsudek odvolacího soudu nelze odvoláním napadnout, nabývá právní moci dnem doručení. V daném případě byl rozsudek odvolacího soudu doručen žalobkyni i žalovanému 28. května 2001, právní moci tedy nabyl tentýž den.
+Podle ustanovení § 57 odst. 2 o. s. ř. končí lhůty určené podle měsíců uplynutím toho dne, který se svým označením shoduje se dnem, kdy došlo ke skutečnosti určující počátek lhůty. Připadne-li konec lhůty takto stanovený na sobotu, neděli nebo svátek, je posledním dnem lhůty nejblíže následující pracovní den. Posledním dnem k podání dovolání byl tedy 28. červen 2001 (čtvrtek). Dovolání ze dne 27. července 2001 předané žalovaným podatelně soudu prvního stupně téhož dne bylo tudíž opožděné.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) proto podle § 243b odst. 4 a 218 odst. 1 písm. a) o. s. ř. opožděné dovolání odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 4, § 224 odst. 1, § 151 odst. 1 a § 142 odst. 1 o. s. ř., když žalovaný neměl v dovolacím řízení úspěch a žalobkyni žádné náklady dovolacího řízení nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 16. prosince 2003
+JUDr. Kateřina Hornochová, v.r.
+předsedkyně senátu
