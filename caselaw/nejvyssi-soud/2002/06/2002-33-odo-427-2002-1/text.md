@@ -1,0 +1,20 @@
+33 Odo 427/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivany Zlatohlávkové a soudců JUDr. Kateřiny Hornochové a JUDr. Zdeňka Dese ve věci žalobce O. A., zastoupeného, advokátem, proti žalovanému S. b. d. Č. B., o zaplacení 17 085 Kč, vedené u Okresního soudu v Českých Budějovicích pod sp. zn. 10 C 346/2000, o dovolání žalobce proti rozsudku Krajského soudu v Českých Budějovicích ze dne 19. března 2002, č.j. 19 Co 137/2002-87, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalobce požadoval na žalovaném zaplacení 41 292 Kč z důvodu bezdůvodného obohacení. To mělo žalovanému vzniknout tím, že na pozemku žalobce stojí stavba ve vlastnictví žalovaného, který tak užívá pozemek žalobce bez právního důvodu a neplatí úhradu za jeho užívání.
+Okresní soud v Českých Budějovicích rozsudkem ze dne 2.11.2001, č.j. 10 C 346/2002-71, uložil žalovanému povinnost zaplatit žalobci 20 100 Kč a co do částky 21 192 Kč žalobu zamítl; zároveň rozhodl o nákladech řízení.
+K odvolání žalovaného Krajský soud v Českých Budějovicích rozsudkem ze dne 19.3.2002, č.j. 19 Co 137/2002-87, změnil rozsudkem okresního soudu v napadeném vyhovujícím výroku tak, že žalobu co do částky 17 085 Kč zamítl; ve zbytku, tj. ohledně částky 3 015 Kč, rozsudek ve vyhovujícím výroku potvrdil. Současně rozhodl o nákladech řízení před soudy obou stupňů.
+Proti rozsudku odvolacího soudu podal žalobce dovolání, jehož přípustnost dovozuje výslovně z ustanovení § 237 odst. 1 písm. a/ o. s. ř. V důvodnosti dovolání odkazuje na ustanovení § 241a odst. 2 písm. b/ o. s. ř., přičemž v dovolání uplatněný dovolací důvod blíže specifikuje.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů – dále rovněž jen „o. s. ř.“) po zjištění, že dovolání proti pravomocnému usnesení odvolacího soudu bylo podáno ve lhůtě uvedené v ustanovení § 240 odst. 1 o. s. ř. a k tomu oprávněným subjektem (žalobcem) řádně zastoupeným advokátem (§ 241 odst. 1 o. s. ř.), dospěl k závěru, že dovolání v dané věci směřuje proti usnesení odvolacího soudu, proti němuž není tento mimořádný opravný prostředek přípustný.
+Dovolání je mimořádným opravným prostředkem; dovolací soud se proto vždy musí v prvé řadě zabývat jeho přípustností. Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Jde-li o rozsudek, jímž byl odvolacím soudem ve věci samé změněn rozsudek soudu prvního stupně (jak tomu bylo u v posuzovaném případě), je dovolání proti němu přípustné (srov. § 237 odst. 1 písm. a/ o. s. ř.) pouze za předpokladu, že dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění převyšujícím 20 000 Kč a v obchodních věcech 50 000 Kč; k příslušenství pohledávky se nepřihlíží (§ 237 odst. 2 písm. a/ o. s. ř.).
+Z obsahu žalobcova dovolání se podává, že směřuje proti výroku rozsudku odvolacího soudu, kterým byl změněn odvoláním napadený výrok rozsudku okresního soudu tak, že žaloba se co do částky 17 085 Kč zamítá. Protože dovolání směřuje proti výroku, který nepřevyšuje 20 000 Kč není dovolání v souladu s ustanovením § 237 odst. 1 pím. b/ o. s. ř. přípustné.
+Za dané procesní situace, kdy nejsou splněny předpoklady přípustnosti dovolání upravené v § 237 a z hlediska jiného ustanovení přípustnost dovolání v posuzované věci zvažovat nelze, Nejvyšší soud České republiky podle § 243b odst. 5 věty prvé o. s . ř. ve spojení s § 218 odst. 1 písm. c/ o. s. ř. dovolání žalobce jako nepřípustné bez jednání odmítl, aniž se jím mohl věcně zabývat.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, § 224 odst. 1, § 151 odst. 1 a § 142 odst. 1 o. s. ř. za situace, kdy žalobce nemá právo na náhradu nákladů a žalovanému v souvislosti s tímto řízením náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 27. června 2002
+JUDr. Ivana Zlatohlávková, v.r.
+předsedkyně senátu
