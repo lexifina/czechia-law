@@ -1,0 +1,18 @@
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Zdeňka Dese a JUDr. Kateřiny Hornochové v právní věci žalobce I. S., zastoupeného, advokátem, proti žalované S., spol. s r.o., o zaplacení 78.500,- Kč s příslušenstvím, vedené u Okresního soudu v Příbrami pod sp. zn. 15 C 102/2002, o dovolání žalované proti usnesení Krajského soudu v Praze ze dne 8. září 2003, č.j. 29 Co 476/2003-120, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Praze shora označeným usnesením potvrdil usnesení ze dne 15. května 2003, č.j. 15 C 102/2002-109, kterým Okresní soud v Příbrami odmítl pro opožděnost odvolání žalované proti svému rozsudku ze dne 11. listopadu 2002, č.j. 15 C 102/2002-78, a nepřiznal žádnému z účastníků právo na náhradu nákladů řízení (první odstavec výroku). Dále rozhodl o náhradě nákladů odvolacího řízení (druhý odstavec výroku).
+Usnesení odvolacího soudu napadla žalovaná blanketním dovoláním.
+Jelikož usnesení soudů obou stupňů byla vydána po 1. lednu 2001, uplatní se pro dovolací řízení – v souladu s body 1., 15. a 17., hlavy I., části dvanácté, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony – občanský soudní řád ve znění účinném od 1. ledna 2001 (dále též jen o. s. ř.“).
+Dovolání v dané věci není přípustné.
+Podle § 236 odst. 1 o. s. ř. dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon [v ustanoveních § 237 až § 239 o. s. ř.] připouští.
+Přípustnost dovolání podle § 237 o. s. ř. není dána již proto, že usnesením odvolacího soudu nebylo potvrzeno usnesení soudu prvního stupně, kterým by bylo rozhodnuto ve věci samé. Dovolání není přípustné ani podle ustanovení § 238, § 238a a § 239 odst. 1 a 2 o. s. ř., protože usnesením soudu prvního stupně nebylo rozhodnuto ve věcech, v uvedených ustanoveních taxativně vyjmenovaných. Přípustnost dovolání neplyne ani z ustanovení § 239 odst. 3 o. s. ř., neboť podle tohoto ustanovení lze podat dovolání jen tehdy, bylo-li potvrzeno usnesení soudu prvního stupně, jímž byla postupem podle ustanovení § 43 o. s. ř. odmítnuta žaloba, popřípadě jímž byl podle tohoto ustanovení odmítnut jiný návrh na zahájení řízení, a nikoliv odmítl-li soud prvního stupně podle § 208 odst. 1 o. s. ř. odvolání pro opožděnost (srov. shodně usnesení Nejvyššího soudu zveřejněné pod číslem 41/2003 Sbírky soudních rozhodnutí a stanovisek).
+Z uvedeného vyplývá, že dovolání žalované směřuje proti rozhodnutí odvolacího soudu, proti němuž není tento mimořádný opravný prostředek přípustný. Nejvyšší soud proto podané dovolání, aniž ve věci nařizoval jednání (§ 243a odst. 1 věta první o. s. ř.), usnesením odmítl [§ 243b odst. 5 věta první a § 218 písm. c) o. s. ř.].
+S ohledem na nepřípustnost podaného dovolání nebylo v dané věci uplatněno ustanovení § 241 o. s. ř. o povinném zastoupení dovolatele advokátem pro dovolací řízení (srov. § 241b odst. 2 část věty za středníkem o. s. ř.) a nebylo rozhodováno o žádosti dovolatelky ze dne 3. března 2003 (doručené soudu prvního stupně dne 4. března 2003) o poskytnutí třicetidenní lhůty pro doplnění dovolání.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 3 o. s . ř., neboť žalovaná nemá s ohledem na výsledek dovolacího řízení na náhradu nákladů právo a žalobci v dovolacím řízení náklady nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 21. září 2004
+JUDr. Miroslav Gallus,v.r.
+předseda senátu
