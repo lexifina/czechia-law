@@ -1,0 +1,11 @@
+4 Tz 41/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve veřejném zasedání konaném dne 31. března 2004 v trestní věci obviněného V. S., v řízení o stížnosti pro porušení zákona, kterou podal ministr spravedlnosti České republiky proti usnesení Městského soudu v Praze ze dne 20. března 2002, čj. 6 To 99/2002-103, podle § 275 odst. 3 tr. ř. t a k t o :
+Obviněný V. S. s e n e b e r e d o v a z b y .
+O d ů v o d n ě n í :
+Rozsudkem Nejvyššího soudu ze dne 31. března 2004, sp. zn. 4 Tz 41/2004, bylo podle § 268 odst. 2 tr. ř. vysloveno, že usnesením Městského soudu v Praze ze dne 20. března 2002, čj. 6 To 99/2002-103, byl porušen zákon v ustanoveních § 256 a § 263 odst. 4 tr. ř. v neprospěch obviněného V. S. Podle § 269 odst. 2 tr. ř. bylo napadené usnesení v části týkající se obviněného V. S. zrušeno, včetně všech dalších rozhodnutí, na zrušené usnesení obsahově navazující, pokud vzhledem ke změně, k níž došlo zrušením, pozbyla podkladu. Podle § 270 odst. 1 tr. ř. bylo Městskému soudu v Praze přikázáno, aby věc v potřebném rozsahu znovu projednal a rozhodl.
+Obviněný V. S. vykonával trest odnětí svobody v trvání 30 měsíců, který mu byl uložen rozsudkem Obvodního soudu pro Prahu 4 ze dne 29. srpna 2000, sp. zn. 46 T 42/2000, ve spojení s nyní zrušeným usnesením Městského soudu v Praze ze dne 20. března 2002, čj. 6 To 99/2002-103. V důsledku uvedeného zrušení není citovaný rozsudek obvodního soudu pravomocný a obviněný nemůže trest odnětí svobody uložený tímto rozsudkem ještě vykonávat. Dřívější podklad pro nařízení výkonu trestu totiž zanikl. Nejvyšší soud byl proto povinen podle § 275 odst. 3 tr. ř. rozhodnout o vazbě obviněného V. S. Podle sdělení obviněného, které bylo telefonicky ověřeno (Mgr. S.) Městský soud v Brně dnešního dne nepravomocně rozhodl o podmíněném propuštění obviněného z výkonu tohoto trestu, z něhož mu zbývá vykonat 9 měsíců. Nejvyšší soud, který neměl k disposici žádné konkrétní důkazy o dalším páchání trestné činnosti obviněným, jen vědomost o probíhajících dalších trestních řízeních, nemohl dospět k závěru o existenci důvodů (§ 67 tr. ř.), které by opodstatňovaly vzetí obviněného do vazby. Proto rozhodl tak, jak je uvedeno ve výrokové části tohoto usnesení.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 31. března 2004
+Předseda senátu:
+JUDr. Juraj M a l i k
