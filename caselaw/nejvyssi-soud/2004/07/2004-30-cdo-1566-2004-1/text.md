@@ -1,0 +1,35 @@
+30 Cdo 1566/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy
+JUDr. Romana Fialy a soudců JUDr. Pavla Pavlíka a JUDr. Karla Podolky ve věci dědictví po E. J., za účasti 1) L. J., 2) I. D., 3) J. V., 4) Z. P., zastoupené J. V., vedené u Okresního soudu v Hradci Králové pod sp. zn. D 83/2003-66, o dovolání Lubomíra Jirčíka proti usnesení Krajského soudu v Hradci Králové ze dne 31. března 2004, č. j. 17 Co 100/2004-73, takto:
+I. Dovolání L. J. se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Usnesením ze dne 9.1.2004, č.j. D 83/2003-66, Okresní soud v Hradci Králové odmítl odvolání L. J. proti usnesení Okresního soudu v Hradci Králové
+ze dne 24.11.2003, č.j. D 83/2003-62, a rozhodl, že žádný z účastníků nemá právo
+na náhradu nákladů řízení. Vycházel ze závěru, že odvolání bylo podáno opožděně.
+Usnesením ze dne 31.3.2004, č.j. 17 Co 100/2004-73, Krajský soud v Hradci Králové usnesení Okresního soudu v Hradci Králové ze dne 9.1.2004, č.j. D 83/2003-66, potvrdil a rozhodl, že žádný z účastníků nemá právo na náhradu nákladů odvolacího řízení.
+Proti tomuto usnesení odvolacího soudu podal L. J. dovolání. Souhlasí s tím, že odvolání proti usnesení Okresního soudu v Hradci Králové ze dne 24.11.2003, č.j. D 83/2003-62, podal opožděně a uvádí námitky proti správnosti tohoto usnesení.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) po zjištění, že dovolání proti pravomocnému usnesení odvolacího soudu bylo podáno oprávněnou osobou (účastníkem řízení) ve lhůtě uvedené v ustanovení § 240 odst. 1 o.s.ř., přezkoumal napadené usnesení bez nařízení jednání (§ 243a odst. 1, věta první o.s.ř.)
+a dospěl k závěru, že dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný.
+Dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští (§ 236 odst. 1 o. s. ř.).
+Dovolání je přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího soudu, jimiž bylo změněno rozhodnutí soudu prvního stupně ve věci samé [§ 237 odst. 1 písm. a) o. s. ř.], jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil [§ 237 odst. 1 písm. b) o. s. ř.], nebo jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není přípustné podle ustanovení § 237 odst. 1 písm. b) o. s. ř. a jestliže dovolací soud dospěje k závěru, že napadené rozhodnutí má
+ve věci samé po právní stránce zásadní význam [§ 237 odst. 1 písm. c) o. s. ř.].
+Dovolání je také přípustné proti usnesení odvolacího soudu, jímž bylo změněno usnesení soudu prvního stupně nebo jímž bylo potvrzeno usnesení soudu prvního stupně, kterým soud prvního stupně rozhodl jinak než v dřívějším usnesení proto, že byl vázán právním názorem odvolacího soudu, který dřívější usnesení zrušil, anebo jímž bylo potvrzeno usnesení soudu prvního stupně, jestliže dovolání není jinak přípustné
+a dovolací soud dospěje k závěru, že napadené usnesení má po právní stránce zásadní význam, a to v případech, kdy usnesením odvolacího soudu bylo potvrzeno nebo změněno usnesení soudu prvního stupně, kterým bylo rozhodnuto o žalobě na obnovu řízení, o zamítnutí návrhu na změnu rozhodnutí podle ustanovení § 235h odst.1 věty druhé o. s. ř., ve věci konkursu a vyrovnání, o žalobě pro zmatečnost, o návrhu
+na nařízení výkonu rozhodnutí, ve věci zastavení výkonu rozhodnutí, ve věci udělení příklepu ve výkonu rozhodnutí, o rozvrhu rozdělované podstaty ve výkonu rozhodnutí nebo o povinnostech vydražitele uvedeného v ustanoveních § 336m odst. 2 (§ 336n)
+a v § 338za o. s. ř. (§ 238 a § 238a o. s. ř.).
+Dovolání je rovněž přípustné proti usnesení odvolacího soudu, jímž bylo rozhodnutí soudu prvního stupně zrušeno a řízení zastaveno, popřípadě věc byla postoupena orgánu, do jehož pravomoci náleží [§ 239 odst. 1 písm. a) o. s. ř.], jímž bylo v průběhu odvolacího řízení rozhodnuto o tom, kdo je procesním nástupcem účastníka, o zastavení řízení podle ustanovení § 107 odst. 5 o. s. ř., o vstupu do řízení namísto dosavadního účastníka podle ustanovení § 107a o. s. ř., o přistoupení dalšího účastníka podle ustanovení § 92 odst. 1 o. s. ř. a o záměně účastníka podle ustanovení § 92 odst. 2 o. s. ř. [§ 239 odst. 1 písm. b) o. s. ř.], jímž bylo potvrzeno usnesení soudu prvního stupně o zastavení řízení podle ustanovení § 104 odst. 1 o. s. ř. [§ 239 odst. 2 písm. a)
+o. s. ř.], jímž bylo potvrzeno nebo změněno usnesení soudu prvního stupně, kterým bylo rozhodnuto o tom, kdo je procesním nástupcem účastníka, o zastavení řízení podle ustanovení § 107 odst. 5 o. s. ř., o vstupu do řízení na místo dosavadního účastníka podle ustanovení § 107a o. s. ř., o přistoupení dalšího účastníka podle ustanovení § 92 odst. 1 o. s. ř. a o záměně účastníka podle ustanovení § 92 odst. 2 o. s. ř. [§ 239 odst. 2 písm. b) o. s. ř.], nebo jímž bylo potvrzeno usnesení soudu prvního stupně o odmítnutí návrhu (žaloby), ledaže by byl odmítnut návrh na předběžné opatření podle ustanovení
+§ 75a o. s. ř. [§ 239 odst. 3 o. s. ř.].
+V posuzovaném případě L. J. dovoláním napadá usnesení odvolacího soudu, kterým bylo potvrzeno usnesení soudu prvního stupně o odmítnutí odvolání
+pro opožděnost.
+Přípustnost dovolání podle ustanovení § 237 o. s. ř. není dána, a to již proto, že usnesením odvolacího soudu nebylo potvrzeno usnesení soudu prvního stupně, kterým by bylo rozhodnuto ve věci samé. Dovolání není přípustné podle ustanovení § 238
+a § 238a o. s. ř., protože usnesením soudu prvního stupně nebylo rozhodnuto ve věcech, v uvedených ustanoveních taxativně vyjmenovaných. Přípustnost dovolání nevyplývá rovněž z ustanovení § 239 odst. 1 a 2 o. s. ř., neboť nejde o případy v těchto ustanoveních uvedené. Přípustnost dovolání nelze důvodně dovozovat ani z ustanovení § 239 odst. 3 o. s. ř., neboť podle tohoto ustanovení lze podat dovolání jen tehdy, bylo-li potvrzeno usnesení soudu prvního stupně, jímž byla postupem podle ustanovení § 43
+o. s. ř. odmítnuta žaloba, popřípadě jímž byl podle tohoto ustanovení odmítnut jiný návrh na zahájení řízení, a nikoliv odmítl-li soud prvního stupně podle ustanovení § 208 odst. 1 o. s. ř. odvolání pro opožděnost (srov. např. usnesení Nejvyššího soudu České republiky ze dne 20. 11. 2001, sp. zn. 21 Cdo 1124/2001, uveřejněné v časopise Soudní judikatura, ročník 2002, sešit č. 1, pod pořadovým č. 8).
+Z uvedeného vyplývá, že dovolání L. J. směřuje proti rozhodnutí odvolacího soudu, proti němuž není tento mimořádný opravný prostředek přípustný. Nejvyšší soud ČR proto dovolání L. J. podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl. O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1
+a § 144 o. s. ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 15. července 2004
+JUDr. Roman Fiala, v. r.
+předseda senátu
