@@ -1,0 +1,14 @@
+20 Nd 176/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Vladimíra Mikuška a soudců JUDr. Pavla Krbka a JUDr. Vladimíra Kurky ve věci žalobkyně V. M. proti žalovanému Ing. I. M., o rozvod manželství, vedené u Okresního soudu v Českém Krumlově pod sp. zn. 5 C 407/2001, o návrhu na přikázání věci z důvodu vhodnosti, takto:
+Věc vedená u Okresního soudu v Českém Krumlově pod sp. zn. 5 C 407/2001 se nepřikazuje Městskému soudu v Brně.
+O d ů v o d n ě n í :
+Žalobkyně podala návrh na přikázání věci z důvodu vhodnosti Městskému soudu v Brně, jejž odůvodňuje svým zhoršeným zdravotním stavem, nízkým invalidním důchodem a změnou trvalého bydliště.
+Žalovaný ve svém vyjádření s navrhovanou delegací nesouhlasí s odůvodněním, že je pracovně zaneprázdněn a že jednání v Brně by mu nevyhovovalo pro značnou vzdálenost a časovou náročnost. Naopak se domnívá, že žalobkyně (v plném invalidním důchodu) tolik časově vytížena není.
+Podle § 12 odst. 2 občanského soudního řádu v platném znění (dále též jen „o.s.ř.“) může být věc jinému soudu téhož stupně přikázána také z důvodu vhodnosti.
+Důvody vhodnosti podle tohoto ustanovení mohou být různé v závislosti na předmětu řízení, postavení účastníků i jiných okolnostech. Jde zejména o skutečnosti, z nichž lze dovodit, že jiným než příslušným soudem bude věc projednána rychleji a hospodárněji. K přikázání věci jinému než příslušnému soudu by však mělo docházet pouze výjimečně, a to ze závažných důvodů, neboť je uplatňováno jako výjimka z ústavně zaručené zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon (čl. 38 odst. 1 Listiny základních práv a svobod, publikované pod č. 2/1993 Sb., ve znění ústavního zákona č. 162/1998 Sb.). Důvody pro odnětí věci příslušnému soudu a její přikázání soudu jinému tedy musí být natolik významné, aby dostatečně odůvodňovaly průlom do výše citovaného ústavního principu. Zákon přitom výslovně zakotvuje právo účastníků vyjádřit se k důvodu delegace i k soudu, k němuž má být věc delegována, aby vhodnost takového postupu mohla být zvážena i z pohledu jejich poměrů; delegací totiž nesmí být navozen stav, který by se v poměrech některého z účastníků projevil zásadně nepříznivě.
+V daném případě sice jsou na straně žalobkyně okolnosti způsobilé odůvodnit přikázání věci, na druhé straně však existují také, a to nikoli nevýznamné, důvody, pro něž by řízení naopak mělo proběhnout před dosavadním procesním soudem. Za tohoto stavu – a při respektování výše uvedeného ústavního principu – dospěl Nejvyšší soud, přihlížeje též k možnostem, jež skýtá ustanovení § 39 o. s. ř. upravující institut tzv. dožádání, k závěru uvedenému ve výroku tohoto usnesení.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 28. srpna 2002
+JUDr. Vladimír M i k u š e k , v.r.
+předseda senátu
