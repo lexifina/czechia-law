@@ -1,0 +1,21 @@
+20 Cdo 1048/2000
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce S. b. d. Š., družstva, proti žalované A. Č., o přivolení k výpovědi z nájmu bytu, vedené u Okresního soudu Plzeň - město pod sp. zn. 15 C 86/97, o dovolání žalované proti usnesení Krajského soudu v Plzni ze dne 27. prosince 1999, č.j. 12 Co 64/98-64, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Okresní soud Plzeň - město rozsudkem ze dne 12. května 1997, č.j. 15 C 86/97-14, přivolil k výpovědi z nájmu ve výroku označeného bytu, dané žalobcem žalované, určil, že nájemní poměr skončí uplynutím tříměsíční výpovědní lhůty počítané od prvního dne kalendářního měsíce následujícího po právní moci rozsudku a uložil žalované byt vyklidit a vyklizený předat žalobci do patnácti dnů po zajištění přístřeší.
+Usnesením ze dne 27. prosince 1999, č.j. 12 Co 64/98-64, pak Krajský soudu v Plzni připustil zpětvzetí žaloby, rozsudek soudu prvního stupně zrušil a řízení zastavil.
+Toto usnesení napadla žalovaná včasným dovoláním (č.l. 70) a domáhá se jeho zrušení.
+Soud prvního stupně pak žalovanou dne 13. března 2000 vyzval, aby ve lhůtě čtrnácti dnů odstranila nedostatek povinného zastoupení v dovolacím řízení; ve smyslu ustanovení § 30 občanského soudního řádu (dále též jen „o. s. ř.") ji rovněž poučil o možnosti žádat o ustanovení zástupce z řad advokátů, s tím, že případnou žádost v uvedeném směru má rovněž uplatnit do čtrnácti dnů (srov. č.l. 77 a doručenku na č.l. 77 p.v., podle níž žalovaná výzvu převzala 15. března 2000).
+Žalovaná (která již v dovolání uvedla, že Nejvyšší soud má v rámci rozhodnutí o jejím dovolání vyloučit aplikaci § 241 odst. 1 a 2 o. s. ř., neboť tyto dva odstavce vylučují i článek 10 Ústavy a články 1 a 37 Listiny základních práv a svobod) poté podáním ze dne 16. března 2000 (č.l. 78) soudu mimo jiné sdělila, že ustanovení § 241 odst. 1 a 2 o. s. ř. je podle jejího přesvědčení v rozporu s článkem 10 a 96 Ústavy a článkem 37 Listiny základních práv a svobod, s tím, že pohrůžku zastavením dovolacího řízení (nepředloží-li v určené lhůtě plnou moc udělenou advokátu) odmítá s poukazem na znění článku 36 odst. 2 Listiny základních práv a svobod, když její práva nezmizí proto, že za ní nestojí advokát a nekončí ani zastavením řízení o dovolání.
+O námitce podjatosti, kterou dovolatelka uplatnila (podáním z č.l. 71) i ve vztahu k těm soudcům, kteří rozhodovali o jejím dovolání ve věci vedené u Nejvyššího soudu pod sp. zn. 20 Cdo 1271/98, bylo rozhodnuto usnesením Nejvyššího soudu ze dne 12. června 2000, sp. zn. 3 Nd 174/2000, tak, že soudci Nejvyššího soudu JUDr. Zdeněk Krčmář, JUDr. Vladimír Kurka a JUDr. Vladimír Mikušek nejsou vyloučeni z projednávání a rozhodování věci vedené u Nejvyššího soudu pod sp. zn. 20 Cdo 1048/2000.
+Podle ustanovení § 241 odst. 1 o. s. ř., dovolatel musí být zastoupen advokátem, jestliže nemá právnické vzdělání buď sám, nebo jeho zaměstnanec (člen), který za něj jedná.
+Z dovolání zastoupení dovolatelky nevyplývá a jiné listiny, toto zastoupení nebo právnické vzdělání dovolatelky prokazující, nebyly předloženy. Dovolatelka pak nedostatek povinného zastoupení neodstranila, ač byla o procesních následcích nesplnění této podmínky poučena.
+Protože povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání vydání rozhodnutí ve věci samé (§ 241 odst. 1 o. s. ř.) a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu prvního stupně nedošlo, Nejvyšší soud dovolací řízení podle § 104 odst. 2 a § 243c o. s. ř. zastavil, když na rozdíl od dovolatelky má za to, že ustanovení § 241 odst. 1 a 2 o. s. ř. v rozporu s ústavním pořádkem České republiky není.
+Dovolatelka z procesního hlediska zavinila, že dovolací řízení bylo zastaveno, žalobci však ve stadiu dovolacího řízení náklady nevznikly. Této procesní situaci odpovídá ve smyslu ustanovení § 146 odst. 2, věty první, § 224 odst. 1 a § 243b odst. 4 o. s. ř. výrok o tom, že na náhradu nákladů dovolacího řízení nemá žádný z účastníků právo.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 29. června 2000
+JUDr. Zdeněk K r č m á ř, v. r.
+předseda senátu
+Za správnost vyhotovení: Romana Říčková
