@@ -1,0 +1,18 @@
+28 Cdo 1496/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Oldřicha Jehličky, CSc., a soudců JUDr. Josefa Rakovského a JUDr. Ludvíka Davida, CSc., o dovolání V. K., zast. advokátkou, které bylo podáno proti rozsudku Vrchního soudu v Praze ze dne 12. března 2003, sp. zn. 11 Cmo 35/2002 (v právní věci žalobkyně V. K., zast. advokátkou, proti žalovanému L. b. d. P., zast. advokátkou, o uzavření smlouvy o převodu bytu do vlastnictví, vedené u Městského soudu v Praze pod sp.zn. 20 Cm 22/2002) takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků řízení nemá právo na náhradu nákladů řízení o dovolání.
+O d ů v o d n ě n í :
+Vrchní soud v Praze jako soud odvolací svým rozsudkem ze dne 12.3. 2003, pod č.j. 11 Cmo 350/2002-63 potvrdil v napadeném výroku I. ve věci samé rozsudek Městského soudu v Praze ze dne 19.9. 2002, pod č.j. 20 Cm 22/2002–52, kterým byl zamítnut návrh, aby žalovanému bylo uloženo uzavřít se žalobkyní smlouvu o převodu vlastnictví k jednotce specifikované v enunciátu druhoinstančního rozhodnutí. Právo na náhradu nákladů řízení nebylo účastníkům přiznáno soudy obou instancí.
+Proti rozsudku odvolacího soudu podala žalobkyně dovolání, které slíbila doplnit poté, co její nová právní zástupkyně nastuduje spis.
+Nejvyšší soud České republiky jako soud dovolací při posuzování podaného dovolání vycházel v souladu s body 1., 15., 17., hlavy první, části dvanácté, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, z občanského soudní řádu ve znění účinném od 1. ledna 2001. Proto jsou v tomto usnesení uváděna ustanovení občanského soudního řádu ve znění po novele provedené zákonem č. 30/2000 Sb. (dále jen o.s.ř.).
+Dovolací soud dospěl k závěru, že dovolání nelze věcně projednat, neboť bylo podáno opožděně.
+Podle § 240 odst. 1 o.s.ř. může účastník podat dovolání do dvou měsíců od doručení rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Podle odstavce druhého § 240 o.s.ř. zmeškání lhůty k podání dovolání nelze prominout.
+Dovolací soud tedy sice nepochyboval o tom, čeho se žalobkyně v dovolacím řízení domáhá (§ 79 odst. 1 o.s.ř.), avšak nemohl pominout základní zjištění, že dovolání bylo podáno opožděně. Rozsudek odvolacího soudu nabyl vůči žalobkyni právní moci doručením do rukou její tehdejší právní zástupkyně dne 30. 4. 2003.
+Vzhledem k tomu, že podle § 57 odst. 2 o.s.ř. lhůty určené podle měsíců se končí uplynutím toho dne, který se svým označením shoduje se dnem, kdy došlo ke skutečnosti, určující počátek lhůty, tedy v daném případě dnem 30. 6. 2003, což byl pracovní den – pondělí – nezbylo než dovolání žalobkyně považovat za opožděné, když bylo svěřeno poště k přepravě až 1. 7. 2003 a Městskému soudu v Praze doručeno až 2. 6. 2003. Sluší se však poznamenat, že dovolání by bylo třeba odmítnout nejen podle ustanovení § 243b odst. 5 a § 218a o.s.ř., ale také jako nepřípustné podle § 237 odst. 1 o.s.ř., protože bylo podáno proti rozsudku, jímž bylo potvrzeno rozhodnutí soudu prvního stupně (arg. § 237 odst. 1 písm. a/ o.s.ř.), když současně nebyl dán žádný podklad pro posouzení přípustnosti dovolání podle výjimek upravených v ustanovení § 237 odst. 1 o.s.ř.
+Žalovanému v souvislosti s dovolacím řízením žádné náklady nevznikly. Této procesní situaci odpovídá výrok o nákladech dovolacího řízení odůvodněný ust. § 142 odst. 1, § 151, § 224 odst. 1 a § 243 b odst. 5 o.s.ř.
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 30. června 2004
+JUDr. Oldřich Jehlička, CSc., v. r.
+předseda senátu
