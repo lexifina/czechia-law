@@ -1,0 +1,18 @@
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce S. b. d. J., proti žalovanému S. b. p.J. podniku v likvidaci, o zaplacení 74.330,- Kč, vedené u Krajského soudu v Ostravě pod sp. zn. 9 Cm 917/92, o dovolání žalobce proti rozsudku Vrchního soudu v Olomouci ze dne 4. září 2001, č.j. 3 Cmo 189/99-92, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Vrchní soud v Olomouci shora označeným rozsudkem změnil rozsudek Krajského obchodního soudu v Ostravě ze dne 6. října 1998, č.j. 19 Cm 917/92-71, v jeho výrocích II. a III., kterými bylo uloženo žalovanému zaplatit žalobci částku Kč 59.383,95 a náklady řízení, tak, že žalobu ohledně částky 59.383,95 Kč zamítl a žalobci uložil povinnost zaplatit žalovanému náklady řízení. Odvolací soud rovněž rozhodl o nákladech odvolacího řízení.
+Žalobce podal proti rozsudku odvolacího soudu dovolání datované dnem 23. listopadu 2001, které předal (jak vyplývá z podacího razítka pošty) téhož dne k poštovní přepravě.
+Podle bodu 17., hlavy I., části dvanácté zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád,ve znění pozdějších předpisů a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (tj. podle občanského soudního řádu ve znění účinném před 1. lednem 2001 – dále též jen „o. s. ř.“). O takový případ jde i v této věci, jelikož odvolací soud věc ve shodě s bodem 15., hlavy I. části dvanácté zákona č. 30/2000 Sb. rovněž projednal podle dosavadního znění občanského soudního řádu, jak sám výslovně zmínil v důvodech rozsudku.
+Podle dosavadních právních předpisů soud zkoumá (jako součást procesu projednání a rozhodnutí dovolání) též včasnost dovolání, včetně vymezení běhu lhůty k jeho podání (shodný závěr formuloval Nejvyšší soud např. v usnesení uveřejněném pod číslem 70/2001 Sbírky soudních rozhodnutí a stanovisek a Ústavní soud v usnesení ze dne 2. ledna 2002, sp. zn. I ÚS 660/01 a ze dne 24. ledna 2002, sp. zn. IV.ÚS 560/01).
+Dovolání v této věci tudíž mohlo být podáno pouze ve lhůtě jednoho měsíce od právní moci rozhodnutí odvolacího soudu, jak to určuje ustanovení § 240 odst. 1 o. s. ř. ve znění účinném před 1. lednem 2001. Podle odstavce 2 věty první citovaného ustanovení zmeškání lhůty uvedené v odstavci 1 nelze prominout.
+Rozsudek odvolacího soudu byl, jak vyplývá z doručenky založené ve spisu na č.l. 97, žalobci doručen dne 19. října 2001. Téhož dne toto rozhodnutí nabylo právní moci.
+Ve smyslu ustanovení § 57 odst. 2 o. s. ř. byl posledním dnem jednoměsíční lhůty k podání dovolání 19. listopad 2001 (pondělí). Dovolání podané žalobcem k poštovní přepravě až dne 23. listopadu 2001 je tedy zjevně opožděné. Po uplynutí zákonem stanovené lhůty bylo ostatně i vyhotoveno.
+Nejvyšší soud České republiky proto podané dovolání, aniž nařizoval jednání (§ 243a odst. 1 věta první o. s. ř.), podle § 243b odst. 4 a § 218 odst. 1 písm. a) o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 4, § 224 odst. 1 a § 146 odst. 2, věty první (per analogiam) o. s. ř., neboť žalobce, který z procesního hlediska zavinil, že dovolání bylo odmítnuto, nemá právo na náhradu těchto nákladů a žalovanému v souvislosti s dovolacím řízením náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 28. srpna 2002
+JUDr. František Faldyna, CSc. , v. r.
+předseda senátu
