@@ -1,0 +1,25 @@
+11 Zp 17/2000
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci navrhovatele Ing. D. N., o návrhu na vydání rozhodnutí o neplatnosti I. a II. kola voleb do třetiny Senátu Parlamentu České republiky konaných dne 12. 11. a 19. 11. 2000 t a k t o :
+Řízení se zastavuje.
+Žádný z účastníků nemá právo na náhradu nákladů řízení.
+O d ů v o d n ě n í :
+Podáním doručeným Nejvyššímu soudu dne 27. 11. 2000 se navrhovatel domáhal vydání rozhodnutí o neplatnosti voleb do Senátu Parlamentu ČR konaných ve dnech 12. a 19. 11. 2000. Poukázal zejména na tu skutečnost, že mu k těmto volbám nebyly doručeny volební lístky. Dále pak namítal nesprávný postup různých úředních míst, funkcionářů města Prostějova a také některých ústavních činitelů, a to zejména vůči své osobě.
+Nejvyšší soud ČR, jehož příslušnost k řízení je založena ustanovením § 88 odst. 2 zák. č. 247/1995 Sb., o volbách do Parlamentu České republiky a o změně a doplnění některých dalších zákonů, ve znění pozdějších předpisů (dále jen zákon), dospěl k těmto závěrům:
+Podle čl. 18 odst. 2 Ústavy České republiky má právo volit každý občan České republiky, který dosáhl věku 18 let. Právo občana podílet se na správě veřejných věcí svobodnou volbou svých zástupců vyplývá také z čl. 21 odst. 1 Listiny základních práv a svobod.
+Ve shodě s čl. 20 Ústavy stanoví další podmínky výkonu volebního práva, organizace voleb a rozsah soudního přezkumu zákon. Tímto zákonem je výše již citovaný zákon č. 247/1995 Sb., ve znění pozdějších předpisů.
+Podle § 1 odst. 5 zákona je voličem státní občan České republiky, který v den voleb dosáhl věku nejméně 18 let.
+Podle § 2 písm. b) zákona je ovšem překážkou ve výkonu volebního práva zbavení způsobilosti k právním úkonům ( § 10 a § 855 občanského zákoníku).
+Pokud jde o volby do Senátu Parlamentu České republiky, pak podle § 87 odst. 2 zákona platí, že podáním návrhu na neplatnost hlasování, neplatnost voleb nebo neplatnost volby kandidáta se může domáhat ochrany u soudu podle zvláštního předpisu (tímto "zvláštním předpisem" je ustanovení § 200n o. s. ř.) mimo jiné každý občan zapsaný do stálého seznamu ve volebním okrsku, kde byl senátor volen. Návrh je třeba podat nejpozději deset dnů po vyhlášení výsledků voleb Státní volební komisí.
+Ve smyslu ustanovení § 200n odst. 4 o. s. ř. Nejvyšší soud rozhodne o návrhu do dvaceti dnů bez jednání usnesením, proti němuž nejsou přípustné opravné prostředky a jež nabývá právní moci dnem vyvěšení na úřední desce soudu.
+Protože návrhem na neplatnost voleb se může domáhat ochrany u soudu pouze občan zapsaný do stálého seznamu voličů ve volebním okrsku, kde byl senátor volen, vyžádal si soud zprávu Okresního úřadu v Prostějově. Ze sdělení tohoto úřadu ze dne 28. 11. 2000, č. j. VV/2000/Kou zjistil, že navrhovatel je sice veden ve stálém seznamu voličů města Prostějova, ovšem s poznámkou "NES" (nesvéprávný), protože byl zbaven způsobilosti k právním úkonům. Tuto skutečnost si Nejvyšší soud ověřil na základě opisu rozsudku Okresního soudu v Prostějově ze dne 26. 5. 1986 sp. zn. P 54/72, který nabyl právní moci dnem 12. 6. 1986.
+Jak již bylo výše uvedeno je překážkou ve výkonu volebního práva občana jeho zbavení způsobilosti k právním úkonům. Osoba zbavená způsobilosti k právním úkonům není tedy nositelem práv a povinností vyplývajících z volebního zákona. Jestliže na straně občana je dána zákonná překážka bránící mu ve výkonu volebního práva, pak to znamená, že takový občan nemá ani v řízení ve věci voleb způsobilost být účastníkem tohoto řízení.
+Podle § 19, část věty před středníkem, o. s. ř. totiž platí, že způsobilost být účastníkem řízení má ten, kdo má způsobilost mít práva povinnosti.
+Nedostatek způsobilosti být účastníkem řízení představuje takový nedostatek podmínky řízení, který nelze odstranit. V takovém případě soud nemůže rozhodnout jinak, než řízení zastavit (§ 104 odst. 1 o. s. ř.).
+Ve věci voleb do Parlamentu České republiky nemá způsobilost být účastníkem řízení občan, který je zbaven způsobilosti k právním úkonům (§ 10 a § 855 obč. zák.). S ohledem na čistě osobní charakter výkonu aktivního volebního práva nemůže občan, na jehož straně je zákonná překážka ve výkonu volebního práva (§ 2 zákona), toto právo vykonat ani prostřednictvím svého zákonného zástupce. Prostřednictvím zákonného zástupce se pak ani nemůže domáhat soudní ochrany v řízení ve věci voleb.
+V posuzované věci Nejvyšší soud zjistil, že navrhovatel není způsobilý být účastníkem řízení. Jedná se tedy o neodstranitelný nedostatek podmínky řízení a proto nebylo možné učinit jiné rozhodnutí než podle § 104 odst. 1 o. s. ř. řízení zastavit.
+Řízení o návrhu na neplatnost voleb je zvláštním druhem řízení i ve vztahu k rozhodování o jeho nákladech. Nejvyšší soud má za to, že s přihlédnutím k povaze a předmětu řízení je nutno rozhodnout o nákladech řízení ve smyslu ustanovení § 146 odst. 1 písm. a) o. s. ř., per analogiam. Platí tedy, že žádný z účastníků nemá právo na náhradu nákladů řízení.
+Poučení: Proti tomuto rozhodnutí není žádný opravný prostředek přípustný.
+V Brně dne 8. prosince 2000
+Předseda senátu:
+JUDr. Antonín Draštík
