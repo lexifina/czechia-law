@@ -1,0 +1,22 @@
+20 Cdo 379/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce B. a. sv. M. a sv. V. v P. – B., proti žalovanému h. m. P. o určení vlastnictví, vedené u Obvodního soudu pro Prahu 6 pod sp. zn. 8 C 6/94, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 11.6.2002, č.j. 16 Co 112/2002-216, takto:
+I. Dovolání se odmítá.
+II. Na náhradě nákladů dovolacího řízení je žalobce povinen zaplatit žalované 2.575,- Kč, k rukám advokáta, a to do tří dnů od právní moci usnesení.
+O d ů v o d n ě n í :
+Odvolací soud potvrdil rozsudek, jímž soud prvního stupně zamítl žalobu na určení, že žalobce je vlastníkem nemovitostí v ní označených. Odkázal na závazný právní názor, který vyjádřil Nejvyšší soud v rozsudku, jímž byl jeho předchozí rozsudek zrušen, a v souladu s ním uzavřel, že žaloba není důvodná.
+Žalobce (zastoupen advokátem) ve včasném dovolání, jež pokládá za přípustné dle ustanovení § 238 odst. 1 písm. b/ o.s.ř., obšírně dovozoval, že napadené rozhodnutí spočívá - co do hodnocení speciality zákona č. 298/1990 Sb. (ve vztahu k obecné úpravě ochrany vlastnického práva) - na nesprávném právním posouzení věci.
+Žalovaný k dovolání uvedl, že uplatněný právní názor je v souladu s konstantní judikaturou.
+Podle bodu 17., hlavy první, části dvanácté zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (to jest podle občanského soudního řádu ve znění účinném do 1.1.2001, dále jen „o.s.ř“).
+Posouzení důvodnosti dovolání předchází otázka, zda dovolání je přípustné, a tím zda věcný přezkum je vůbec možný.
+Podle § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocný rozsudek odvolacího soudu, pokud to zákon - v § 237, § 238 a § 239 o.s.ř. - připouští.
+Vady řízení vyjmenované v § 237 odst. 1, jejichž existence zakládá přípustnost dovolání, dovolatelem nebyly tvrzeny, a z obsahu spisu nevyplývají, v důsledku čehož z tohoto ustanovení přípustnost dovolání dovodit nelze.
+Přípustnost dovolání z ustanovení § 238 odst. 1 písm. a/ též nevyplývá, neboť rozsudek není rozsudkem měnícím nýbrž potvrzujícím, a ustanovení § 238 odst. 1 písm. b/ není použitelné (oproti představě dovolatele) rovněž, jelikož není splněna podmínka, aby potvrzujícímu rozsudku předcházel rozsudek, kterým by soud prvního stupně rozhodl jinak než v rozsudku dřívějším, vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil (odvolací soud potvrdil v pořadí první rozhodnutí soudu prvního stupně).
+Dovolání není přípustné ani podle ustanovení § 239 odst. 1, 2 o.s.ř., jež dopadá na situace potvrzujících rozhodnutí, neboť odvolací soud přípustnost výrokem potvrzujícího rozsudku nevyslovil (odstavec 1) a žalobce návrh na vyslovení přípustnosti dovolání před vyhlášením potvrzujícího rozsudku neučinil (odstavec 2).
+Jelikož možnost dovodit přípustnost dovolání z jiných ustanovení byla vyloučena již dříve, Nejvyšší soud dovolání ve smyslu § 243b odst. 4, § 218 odst. 1 písm. c/ o.s.ř. odmítl.
+O nákladech dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 4, § 224 odst. 1 a § 146 odst. 2, věty první (per analogiam), o.s.ř.; vzhledem k tomu, že dovolací řízení bylo zahájeno po 1.1.2001, přísluší žalovanému náhrada nákladů právní služby podle vyhlášky č. 484/2000 Sb., kterou se stanoví paušální sazby výše odměny za zastupování účastníka advokátem nebo notářem při rozhodování o náhradě nákladů v občanském soudním řízení a kterou se mění vyhláška Ministerstva spravedlnosti č. 177/1996 Sb., o odměnách advokátů a náhradách advokátů za poskytování právních služeb (advokátní tarif), ve znění pozdějších předpisů (dále jen „vyhláška“), účinné dnem 1. ledna 2001 (ustanovení § 21 vyhlášky). Náklady dovolacího řízení spočívají v odměně zástupce (advokáta) v částce 2.500,- Kč (§ 1 odst. 1, § 2 odst. 1, § 5 písm. b/, § 14 odst. 1, § 15 a § 18 odst. 1 vyhlášky) a v částce 75,- Kč paušální náhrady ve smyslu ustanovení § 13 odst. 3 vyhlášky č. 117/1996 Sb. o odměnách advokátů a náhradách advokátů za poskytování právních služeb.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+Nebude-li plněno dobrovolně, co ukládá vykonatelné rozhodnutí, lze se plnění domoci v rámci jeho soudního výkonu.
+V Brně dne 26. září 2003
+JUDr. Vladimír Kurka, v. r.
+předseda senátu
