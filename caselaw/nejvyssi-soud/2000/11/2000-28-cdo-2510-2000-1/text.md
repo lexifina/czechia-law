@@ -1,0 +1,19 @@
+28 Cdo 2510/2000
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce J. K., zastoupeného advokátem, proti žalovaným 1) Městu P. a 2) Správě budov města P., o vydání věci, vedené u Okresního soudu Plzeň-město pod sp. zn. 11 C 328/95, o dovolání S. P., spol. s r.o., zastoupené jednatelem Ing. arch. J. S., právně zastoupeným advokátem, proti rozsudku Okresního soudu Plzeň-město ze dne 22. 7. 1999, č.j. 11 C 328/95-99, takto:
+Dovolací řízení se zastavuje.
+Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Shora uvedeným rozsudkem Okresního soudu Plzeň-město jako soudu prvního stupně bylo uloženo druhému žalovanému vydat žalobci dům čp. 286 se stavební parcelou č. 164 a č. 163 v katastrálním území a obci P. ve lhůtě do 14 dnů od právní moci tohoto rozsudku. Návrh žalobce na vydání domu čp. 13 v katastrálním území P. byl zamítnut, stejně jako návrh žalobce vůči prvému žalovanému. Soud prvního stupně současně rozhodl o nákladech řízení mezi účastníky. Tento rozsudek nabyl právní moci dne 2. 11. 1999.
+Podáním předaným k poštovní přepravě dne 22. 9. 2000 podal S. spol. s .r.o., zastoupen advokátem, dovolání do výše uvedeného rozsudku současně s návrhem na připuštění přípustnosti vedlejšího účastenství tohoto subjektu. Tvrdil, že v průběhu řízení projednávaného pod shora uvedenou sp. značkou u soudu prvního stupně nebyl vedlejším účastníkem řízení, ač je v současné době zapsán jako jediný v katastru nemovitostí jako vlastník na příslušném listu vlastnictví. Vlastnictví získal koupí ve velké privatizaci od původního právního předchůdce společnosti U. s.r.o., který nemovitost předtím koupil od F. n. m. Tím je odůvodněn oprávněný zájem tohoto subjektu na tom, aby bylo připuštěno jeho postavení vedlejšího účastníka v tomto řízení. Přípustnost dovolání blíže nezdůvodnil, uváděl skutečnosti svědčící pro závěr, že mínil uplatnit dovolací důvod podle § 241 odst. 3 písm. d) o.s..ř. spočívající v nesprávném právním posouzení věci soudem prvního stupně. Výslovně navrhl, aby dovolací soud připustil jeho vstup do řízení na straně žalovaného, a to jako vedlejšího účastníka.
+Vyjádření k dovolání nebylo podáno.
+Podle § 236 odst. 1 o.s.ř. lze dovoláním napadnou pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Nato navazuje ustanovení § 240 odst. 1 o.s.ř., podle něhož účastník může podat dovolání do jednoho měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni.
+Z uvedeného je zřejmé, že k jedné ze základních podmínek zahájení dovolacího řízení patří splnění podmínky, aby dovolání směřovalo proti pravomocnému rozhodnutí odvolacího soudu. V projednávané věci ovšem bylo řízení pravomocně skončeno rozsudkem soudu prvního stupně. Řádným opravným prostředkem proti tomuto rozhodnutí je pouze odvolání ve smyslu ustanovení § 201 a násl. o.s.ř. Z platné právní úpravy nevyplývá tedy možnost podání mimořádného opravného prostředku, jímž je dovolání proti pravomocnému rozsudku soudu prvního stupně.
+Podle § 103 o.s.ř. kdykoliv za řízení přihlíží soud k tomu, zda jsou dány podmínky, za nichž může jednat ve věci (podmínky řízení). Jde-li o takový nedostatek podmínky řízení, který nelze odstranit, soud řízení zastaví (§ 104 odst. 1 věta první o.s.ř.). Uvedené ustanovení platí rovněž pro dovolací řízení vzhledem k ustanovení § 243c o.s.ř.
+Nejvyšší soud České republiky proto za použití výše uvedených ustanovení přistoupil k zastavení dovolacího řízení pro nedostatek neodstranitelné překážky podmínek dovolacího řízení.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 4 o.s.ř. za použití § 224 odst. 1 o.s.ř., § 151 odst. 1 o.s.ř. a § 146 odst. 1 písm. c) o.s.ř.
+Proti tomuto usnesení není přípustný řádný opravný prostředek.
+V Brně dne 30. listopadu 2000
+JUDr. Josef R a k o v s k ý, v.r.
+předseda senátu
+Za správnost vyhotovení: Marcela Jelínková
