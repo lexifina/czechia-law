@@ -1,0 +1,19 @@
+29 Cdo 1711/2000
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobkyně A., a. s., proti žalovaným 1) U., s. r. o. a 2) P. b., a. s., o zaplacení 1.114,275.017,70 Kč s příslušenstvím, vedené u Krajského soudu v Hradci Králové pod sp. zn. 39 Cm 221/97, o návrhu na přistoupení K. I., s. r. o., jako vedlejšího účastníka na straně žalobkyně, o dovolání K. I., s. r. o. proti usnesení Vrchního soudu v Praze ze dne 5. dubna 2000, čj. 5 Cmo 136/2000-455, takto:
+I. Dovolání se odmítá.
+II. K. I., s. r. o. je povinna zaplatit žalobkyni a 2. žalované na náhradě nákladů dovolacího řízení každé částku 1.150,- Kč, do tří dnů od právní moci tohoto usnesení k rukám jejich právních zástupců. První žalovaná nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Vrchní soud v Praze svým usnesením potvrdil usnesení Krajského soudu v Hradci Králové ze dne 6. prosince 1999, čj. 39 Cm 221/97-424, kterým soud prvního stupně zamítl návrh na přistoupení K. I., s. r. o. jako vedlejšího účastníka na straně žalobkyně do řízení.
+K. I., s. r. o., zastoupená advokátem, podala proti rozhodnutí odvolacího soudu včasné dovolání s tím, že soudy obou stupňů ignorovaly základní hmotněprávní a odpovídající procesněprávní vztah podílníka a investiční společnosti, a tak došlo k poškození práv dovolatelky ve smyslu ustanovení článku 36 odst. 2 Listiny základních práv a svobod, která má přednost před aplikací „implicitně nevyjádřených předpokladů a požadavků\" dle občanského soudního řádu. Dovolatelka tedy podává dovolání z důvodu nesprávného právního posouzení věci dle § 241 odst. 3 písm. d) o. s. ř. Proto navrhuje, aby Nejvyšší soud výše uvedená rozhodnutí obou soudů zrušil.
+Žalobkyně a druhá žalovaná ve svých vyjádřeních k dovolání navrhují, aby Nejvyšší soud dovolání jako neodůvodněné zamítl.
+Dovolání není přípustné.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Pokud jde o dovolání proti usnesení je třeba posuzovat přípustnost dovolání podle ustanovení § 237, 238a a § 239 o. s. ř.
+Podle ustanovení § 238a odst. 1 písm. a) o. s. ř. není dovolání přípustné, protože odvolací soud rozhodnutí soudu prvního stupně nezměnil, ale potvrdil. Napadené rozhodnutí nelze podřadit ani případům vyjmenovaným v § 238a odst. 1 písm. b) až f) o. s. ř. Podmínky stanovené v § 239 o. s. ř. daná věc také nesplňuje, neboť rozhodnutí o připuštění vedlejšího účastenství není rozhodnutím ve věci samé. Zbývá tedy posoudit podmínky přípustnosti určené v ustanovení § 237 o. s. ř. Vady řízení ve smyslu tohoto ustanovení, k nímž je povinen dovolací soud přihlížet z úřední povinnosti (§ 242 odst. 3 o. s. ř.) a jejichž existence činí zmatečným (s výjimkami zakotvenými v § 237 odst. 2 o. s. ř.) každé rozhodnutí odvolacího soudu, dovoláním namítány nejsou a z obsahu spisu rovněž nevyplývají.
+Nejvyšší soud proto, aniž by nařizoval jednání (§ 243a odst. 1 věta první o. s. ř.), dovolání podle § 243b odst. 4 a § 218 odst. 1 písm. c) o. s. ř. usnesením odmítl.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 4, 224 odst.1 a § 146 odst. 2 věty první o. s. ř. (per analogiam). Jelikož dovolatelka z procesního hlediska zavinila, že dovolání bylo odmítnuto, vzniklo žalobkyni a 2. žalované právo na náhradu účelně vynaložených nákladů dovolacího řízení. Jejich náklady sestávají z odměny advokáta za dva úkony právní služby (vyjádření k dovolání) ve výši 500,- Kč a dvou náhrad paušálních výdajů po 75,- Kč, celkem tedy 1.150,- Kč (vše dle vyhlášky č. 177/1996 Sb.). U první žalované žádné prokazatelné náklady řízení zjištěny nebyly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 7. listopadu 2000
+JUDr. Ivana Š t e n g l o v á, v. r.
+předsedkyně senátu
+Za správnost vyhotovení: Lucie Žouželová
