@@ -1,0 +1,18 @@
+33 Odo 838/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Kateřiny Hornochové a soudců JUDr. Zdeňka Dese a JUDr. Vladimíra Velenského ve věci žalobkyně K. p. a f. p., a. s., zastoupené, advokátkou, proti žalovanému Z. S., o zaplacení částky 5 821,02 Kč s příslušenstvím, vedené u Okresního soudu v Bruntále pod sp. zn. 8 C 143/2000, o dovolání žalobkyně proti usnesení Krajského soudu v Ostravě ze dne 29. dubna 2003 č. j. 15 Co 228/2003 - 86, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Bruntále rozsudkem ze dne 10. ledna 2002 č. j. 8 C 143/2000 - 39 zamítl žalobu, kterou se žalobce domáhal po žalovaném zaplacení částky 5 821,02 Kč spolu s 18% úrokem z prodlení od 9. 11. 1999 do zaplacení. Současně rozhodl o náhradě nákladů řízení.
+K odvolání žalobkyně Krajský soud v Ostravě usnesením ze dne 29. dubna 2003 č. j. 15 Co 228/2003 - 86 odvolací řízení ohledně částky 5 821,02 Kč a částky 1 178,98 Kč jako kapitalizovaného 18% úroku z prodlení z částky 5 821,02 Kč za dobu od 9.11.1999 do zaplacení zastavil a zrušil výrok soudu prvního stupně týkající se částky 258,42 Kč a řízení v tomto rozsahu zastavil. Současně změnil rozhodnutí soudu prvního stupně tak, že žalovaný je povinen zaplatit žalobci náklady řízení před soudem prvního stupně ve výši 3 725 Kč, a rozhodl, že žalovaný je povinen zaplatit žalobci náklady odvolacího řízení ve výši 450 Kč.
+Proti usnesení odvolacího soudu podala žalobkyně dovolání, v němž požadovala zrušit usnesení odvolacího soudu ve výrocích, týkajících se náhrady nákladů řízení, neboť v tomto rozsahu. napadené usnesení spočívá na nesprávném právním posouzení.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a zák. č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů - dále jen „o. s. ř.“) po zjištění, že dovolání proti pravomocnému usnesení odvolacího soudu bylo podáno ve lhůtě uvedené v § 240 odst. 1 o. s. ř., dospěl k závěru, že dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti výrokům usnesení odvolacího soudu o nákladech řízení upravují ustanovení § 237, § 238, 238a a § 239. Ustanovením § 237 o. s. ř. nemůže být přípustnost v daném případě založena již proto, že toto ustanovení připouští dovolání výlučně proti usnesením, kterými bylo rozhodnuto ve věci samé (pojem „věc sama“ je právní teorií i soudní praxí vykládán tak, že jde o předmět, ohledně něhož se řízení vede - tedy žalobou uplatněný nárok, o kterém má být v řízení rozhodnuto). Ustanovení § 238, § 238a a § 239 o. s. ř. zakládají přípustnost dovolání proti usnesení odvolacího soudu pouze v případech, které výslovně zmiňují. Žádné z těchto ustanovení však nezakládá přípustnost dovolání proti usnesení odvolacího soudu, jímž bylo rozhodnuto o nákladech řízení. Lze tedy uzavřít, že dovolání žalobkyně směřující proti rozhodnutí odvolacího soudu o nákladech řízení, není přípustné.
+Nejvyšší soud České republiky proto dovolání žalobkyně podle § 243b odst. 5 a § 218 písm. c) o. s. ř. jako nepřípustné bez jednání odmítl, aniž se jím mohl dále zabývat.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 o. s. ř., § 224 odst. 1, § 151 odst. 1 a § 142 odst. 1 o. s. ř., kdy žalobkyně nemá právo na náhradu nákladů dovolacího řízení a žalovanému v souvislosti s tímto řízením náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 23. října 2003
+JUDr. Kateřina Hornochová, v.r.
+předsedkyně senátu
