@@ -1,0 +1,28 @@
+3 Tdo 502/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v neveřejném zasedání konaném dne 22. května 2003 o dovolání, které podal S. M., proti usnesení Krajského soudu v Ostravě, pobočky v Olomouci ze dne 16. 1. 2003, sp. zn. 2 To 34/2003, jako soudu druhého stupně v trestní věci vedené u Okresního soudu v Šumperku pod sp. zn. Nt 1159/2002, takto:
+Podle § 265i odst. 1 písm. a) tr. ř. se dovolání o d m í t á.
+O d ů v o d n ě n í
+Usnesením Okresního soudu v Šumperku ze dne 8. 11. 2002, sp. zn. Nt 1159/2002, bylo podle § 31 odst. 1 tr. ř. za použití § 30 odst. 1, 2 tr. ř. rozhodnuto tak, že „senát Okresního soudu v Šumperku ve složení předseda senátu L. K. a přísedící J. V. a O. V. není vyloučen z vykonávání úkonů trestního řízení ve věci Okresního soudu Šumperk sp. zn. Nt 1159/2002.“
+O stížnosti, kterou proti tomuto usnesení podal S. M., rozhodl ve druhém stupni Krajský soud v Ostravě, pobočka v Olomouci, usnesením ze dne 16. 1. 2003, sp. zn. 2 To 34/2003, tak, že ji podle § 148 odst. 1 písm. c) tr. ř. jako nedůvodnou zamítl. Rozhodnutí soudu prvního stupně tak nabylo právní moci dne 16. 1. 2003 /§ 140 odst. 1 písm. b) cc) tr. ř./.
+Citované rozhodnutí Krajského soudu v Ostravě, pobočky v Olomouci, následně napadl S. M. dovoláním podaným prostřednictvím svého obhájce, který toto dovolání neodůvodnil. Součástí tohoto dovolání je obsáhlé podání S. M., v němž jsou uváděny důvody dovolání uvedené v ustanovení § 265b odst. 1 písm. a), b), c), d), e), g), j) a k) tr. ř. Argumentaci předmětného podání však není zapotřebí s ohledem na způsob rozhodnutí Nejvyššího soudu podrobně rozvádět.
+K dovolání se v souladu s ustanovením § 265h odst. 2 tr. ř. vyjádřila státní zástupkyně Nejvyššího státního zastupitelství (dále jen „státní zástupkyně“). Poznamenala, že dovolání je sice formálně pokryto hlavičkou advokátní kanceláře Mgr. M. H., přesto však je jako celek nelze považovat za dovolání podané prostřednictvím obhájce ve smyslu § 265d odst. 2 tr. ř., pro což svědčí odůvodnění takto podaného dovolání koncipované výhradně S. M. bez jakékoliv odborné ingerence jím zmocněného advokáta a v kvalitě tomu odpovídající. Nemůže proto být předmětné podání podle znění věty druhé ustanovení § 265d odst. 2 tr. ř. považováno za dovolání. Nelze rovněž přehlédnout, že dovolatel napadá rozhodnutí, které nepatří mezi rozhodnutí ve věci samé, taxativně vyjmenovaná v § 265a odst. 2 písm. a) – h) tr. ř. Z těchto důvodů státní zástupkyně navrhla, aby Nejvyšší soud České republiky (dále jen „Nejvyšší soud“) podání S. M. postoupil Ministru spravedlnosti ČR jako podnět ke stížnosti pro porušení zákona. Pro případ odchylného posouzení povahy tohoto podání podala návrh na odmítnutí dovolání podle § 265i odst. 1 písm. a) tr. ř. v neveřejném zasedání podle § 265r odst. 1 písm. a) tr. ř.
+Nejvyšší soud jako soud dovolací (§ 265c tr. ř.) nejprve zkoumal, zda v posuzované věci jsou splněny podmínky přípustnosti dovolání podle ustanovení § 265a tr. ř.
+Podle § 265a odst. 1 tr. ř. lze dovoláním napadnout pravomocné rozhodnutí soudu ve věci samé, jestliže soud rozhodl ve druhém stupni a zákon to připouští. V odst. 2 ustanovení § 265a tr. ř. pak zákonodárce vymezil, co se rozumí rozhodnutím ve věci samé. Tímto rozhodnutím je:
+a)rozsudek, jímž byl obviněný uznán vinným a uložen mu trest, popřípadě ochranné opatření nebo bylo upuštěno od potrestání,
+b)rozsudek, jímž byl obviněný obžaloby zproštěn,
+c)usnesení o zastavení trestního stíhání,
+d)usnesení o postoupení věci jinému orgánu,
+e)usnesení, jímž bylo uloženo ochranné opatření,
+f)usnesení o podmíněném zastavení trestního stíhání,
+g)usnesení o schválení narovnání, nebo
+h)rozhodnutí, jímž byl zamítnut nebo odmítnut řádný opravný prostředek proti rozsudku nebo usnesení uvedenému pod písmeny a) až g).
+Jelikož jde o taxativní výčet rozhodnutí, která je možné považovat za rozhodnutí ve věci samé, proti nimž je přípustné dovolání, nelze považovat za rozhodnutí ve věci samé pro účely dovolání žádné jiné (další) rozhodnutí, které do uvedeného okruhu nepatří. Proto za rozhodnutí ve věci samé nelze považovat ani usnesení soudu druhého stupně, kterým v dané věci byla zamítnuta stížnost S. M. směřující proti usnesení soudu prvního stupně, jímž bylo podle § 31 odst. 1 tr.ř. za použití § 30 odst. 1, 2 tr. ř. rozhodnuto tak, že senát tohoto soudu ve složení předseda senátu L. K. a přísedící J. V. a O. V. není vyloučen z vykonávání úkonů trestního řízení ve věci téhož soudu sp. zn. Nt 1159/2002.
+Dovolání jako další mimořádný opravný prostředek bylo zavedeno do českého trestního řádu novelou provedenou zákonem č. 265/2001 Sb. s účinností od 1. ledna 2002. Jelikož bylo koncipováno jako specifický mimořádný opravný prostředek, který umožňuje průlom do právní moci rozhodnutí, byla současně striktně omezena přípustnost jeho podání pouze a jen na ta rozhodnutí ve věci samé, která byla citována shora. Usnesení, jímž bylo soudy obou stupňů rozhodnuto ve věci S. M. výše popsaným způsobem, mezi nimi není uvedeno.
+Za tohoto stavu Nejvyšší soud neshledal, že by v projednávané věci S. M. byly splněny podmínky, jež by zakládaly přípustnost podaného dovolání podle ustanovení § 265a odst. 1, 2 tr. ř. Proto v neveřejném zasedání (§ 265r odst. 1 písm. a/ tr. ř.) rozhodl, že se toto dovolání podle § 265i odst. 1 písm. a) tr. ř. odmítá, neboť není přípustné, aniž by se zabýval tím, zda dovolání splňuje obsahové náležitosti podle § 265f odst. 1 tr. ř., nebo přezkoumáním věci po meritorní stránce.
+P o u č e n í : Proti rozhodnutí o dovolání není s výjimkou obnovy řízení opravný prostředek přípustný (§ 265n tr. ř.).
+V Brně dne 22. května 2003
+Předseda senátu:
+JUDr. Eduard Teschler
+Vypracoval :
+JUDr. Vladimír Veselý
