@@ -1,0 +1,17 @@
+20 Cdo 2767/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudců JUDr. Miroslavy Jirmanové a JUDr. Vladimíra Kůrky ve věci výkonu rozhodnutí oprávněného A., a.s., proti povinné A. L. s.r.o., pro 14.966,50 Kč , prodejem movitých věcí, vedené u Obvodního soudu pro Prahu 4 pod sp.zn. 45 E 3618/99, o dovolání povinné proti usnesení Městského soudu v Praze ze dne 31.března 2003, č.j. 11 Co 103/2003-23, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Povinná napadla dovoláním (označeným nesprávně jako „odvolání“) v záhlaví uvedené rozhodnutí, kterým městský soud potvrdil usnesení ze dne 4.ledna 2000, č.j. 45 E 3618/88-7, jímž Obvodní soud pro Prahu 4 nařídil podle svého rozhodnutí ze dne 23.11.1998, sp. zn. 40 C 50/98, k vymožení pohledávky 14.966,50 Kč, nákladů nalézacího řízení a nákladů řízení vykonávacího výkon rozhodnutí prodejem movitých věcí.
+Je-li dovolatelem – jako v projednávaném případě – právnická osoba, musí být (nejedná-li za ni právnickým vzděláním vybavená osoba uvedena v § 21 zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů, dále jen „o.s.ř.“) zastoupena advokátem nebo notářem, jimiž musí být dovolání i sepsáno (srov. § 241 odst. l, 2 písm.b/, odst. 4 o.s.ř.).
+Usnesením ze dne 4.května 2004, č.j. 45 E 3618/99-40, soud prvního stupně proto dovolatelku vyzval, aby si ve lhůtě dvou měsíců od doručení rozhodnutí pro dovolací řízení zvolila zmocněncem advokáta a aby jeho prostřednictvím podala řádné dovolání; zároveň ji poučil o následcích, nevyhoví-li výzvě.
+Podle § 47 odst. l o.s.ř. ve znění platném do 31.12.2004 právnickým osobám se písemnost doručuje na adresu jejich sídla. Jestliže právnická osoba o to požádá, doručuje se jí písemnost na adresu, kterou sdělila soudu. Podle odstavce 3 téhož ustanovení nebyl-li na adrese uvedené v odstavci l zastižen nikdo, kdo by byl oprávněn písemnost převzít, ačkoliv se právnická osoba v místě doručování zdržuje, písemnost se uloží a právnická osoba se vhodným způsobem vyzve, aby si písemnost vyzvedla. Nevyzvedne-li si zásilku ten, kdo je oprávněn písemnost převzít, do tří dnů nebo jde-li o písemnost, která má být doručena do vlastních rukou, do deseti dnů od uložení, považuje se poslední den lhůty za den doručení, i když se adresát o uložení nedozvěděl.
+Dovolatelka na výzvu soudu, která jí byla doručena ve smyslu shora citovaného ustanovení občanského soudního řádu dne 17.května 2004, nereagovala.
+Jelikož povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání - vyjma usnesení, jímž se dovolací řízení právě pro jeho neodstranění zastavuje - vydání rozhodnutí, kterým se řízení končí (§ 241 o.s.ř.), a protože ke zhojení uvedeného nedostatku přes opatření soudu nedošlo, Nejvyšší soud dovolací řízení zastavil (§ 104 odst. 2, § 243c odst. l o.s.ř.).
+Dovolatelka z procesního hlediska zavinila, že dovolací řízení bylo zastaveno, oprávněnému však v tomto stadiu řízení náklady nevznikly; tomu odpovídá výrok, že na náhradu nákladů dovolacího řízení nemá žádný z nich právo (§ 243b odst. 5, věta první, § 224 odst. l, § 146 odst. 2, věta první, o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. ledna 2005
+JUDr. Pavel K r b e k, v.r.
+předseda senátu
