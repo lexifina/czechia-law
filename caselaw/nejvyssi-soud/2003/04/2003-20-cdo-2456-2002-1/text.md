@@ -1,0 +1,30 @@
+20 Cdo 2456/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Vladimíra Kurky a soudců JUDr. Jany Hráchové a JUDr. Vladimíra Mikuška ve věci výkonu rozhodnutí oprávněné J., spotřební družstvo, proti povinnému M. M., srážkami ze mzdy, pro 18.712.-Kč s příslušenstvím, vedené u Okresního soudu Brno – venkov pod sp. zn. 15 E 536/2002, o dovolání oprávněné proti usnesení Krajského soudu v Brně ze dne 22. 8. 2002,č.j. 20 Co 427/2002-12, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Odvolací soud potvrdil usnesení soudu prvního stupně, jímž byl zamítnut návrh na nařízení výkonu rozhodnutí srážkami z důchodu povinného pro částku 18.712.- Kč s příslušenstvím. Oba soudy dospěly k závěru, že v případě, že je podle exekučního titulu povinný zavázán k věcnému plnění, se způsob výkonu rozhodnutí řídí povahou uložené povinnosti a oprávněný nemá – na rozdíl od vymáhání plnění peněžitého - možnost vybrat si způsob, jakým bude výkon nařízen a proveden.
+Proti usnesení odvolacího soudu podala oprávněná (za niž jedná podle § 21 odst. 1 písm. b/ o.s.ř osoba mající právnické vzdělání) včasné dovolání, jehož přípustnost dovozovala z ustanovení § 238a odst. 1 písm. c/ o.s.ř., a jímž uplatnila dovolací důvod podle § 241a odst. 1 písm. b/ o.s.ř. Namítala, že „správně“ měla věc být posouzena po právní stránce podle ustanovení § 347 odst. 1 a 2 o.s.ř., podle kterého lze-li si věc, jež má být povinným dodána, opatřit jinak, vyzve soud oprávněného, aby si ji na náklad a nebezpečí povinného opatřil, a povinnému lze uložit, aby potřebný náklad zaplatil oprávněnému předem. Výkon tohoto rozhodnutí se pak provede některým ze způsobů uvedených v § 258 odst. 1 o.s.ř, tedy jako výkon rozhodnutí ukládajícího zaplacení peněžité částky.
+Nejvyšší soud jako soud dovolací (§ 10a o.s.ř) věc projednal podle zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů (dále jen „o.s.ř.“).
+Dovolání není přípustné.
+Dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští (§ 236 odst. 1 o.s.ř.).
+Podle § 238a odst. 1 písm. c/ o.s.ř. je dovolání přípustné proti usnesení odvolacího soudu, jímž bylo potvrzeno nebo změněno usnesení soudu prvního stupně, kterým bylo rozhodnuto o návrhu na nařízení výkonu rozhodnutí; odstavec 2 téhož ustanovení stanoví, že § 237 odst. 1 a 3 o.s.ř. zde platí obdobně.
+Z toho plyne, že dovolání proti těmto usnesením je přípustné za předpokladu, že jsou splněny podmínky (jedna z nich), vyslovené v § 237 odst. 1 pod písm. a/ až c/ o.s.ř.
+Ve smyslu § 237 odst. 1 o.s.ř je dovolání přípustné v případě měnícího rozhodnutí (písm. a/), nebo v případě, že bylo potvrzeno rozhodnutí soudu prvního stupně, jímž soud prvního stupně rozhodl jinak než v dřívějším rozhodnutí, protože byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil (písm. b/), anebo tehdy, bylo-li potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolací soud dospěje k závěru, že jde o rozhodnutí, které má (ve věci samé) po právní stránce zásadní význam (písm. c/).
+Z ustanovení § 237 odst. 1 písm. a/ o.s.ř. přípustnost dovolání neplyne, neboť napadené usnesení není měnícím, nýbrž potvrzujícím.
+Rovněž ji nezakládá ustanovení § 237 odst. 1 písm. b/ o.s.ř, jelikož v dané věci bylo potvrzeno první rozhodnutí, které soud prvního stupně v řízení o návrhu povinného vydal.
+Aby mohlo být dovolání přípustné podle § 237 odst. 1 písm. c/ o.s.ř, muselo by být napadené rozhodnutí ve věci samé po právní stránce zásadního významu.
+Dovolací přezkum je z pohledu tohoto ustanovení předpokládán zásadně pro posouzení otázek právních; způsobilým dovolacím důvodem je pak ten, jímž lze namítat, že rozhodnutí spočívá na nesprávném právním posouzení věci ( § 241a odst. 2 písm. b/ o.s.ř.).
+Podle ustanovení § 237 odst. 3 o.s.ř. má rozhodnutí odvolacího soudu po právní stránce zásadní význam zejména tehdy, řeší-li právní otázku, která v rozhodování dovolacího soudu nebyla vyřešena, nebo která je odvolacími soudy nebo dovolacím soudem rozhodována rozdílně, anebo řeší-li tuto otázku v rozporu s hmotným právem.
+Dovolatelka otázku přípustnosti dovolání zcela pominula; argumenty ve prospěch závěru, že podmínky stanovené v § 237 odst. 1 písm. c/, odst. 3 o.s.ř. jsou splněny, nepředložila, a hodnocením námitek obsažených v dovolání k závěru o jejich splnění dospět nelze.
+O existenci dovoláním otevřené právní otázky, jejíž posouzení by mohlo být relevantní i pro posouzení jiných, obdobných právních poměrů, a jež může mít vliv na obecnou rozhodovací činnost soudů (což ustanovení § 237 odst. 3 o.s.ř. předpokládá), v daném případě nejde ani ve vztahu k té (jediné) právní otázce, k níž směřuje dovolání. Odvolací soud ji posoudil správně a zcela konformně s ustálenou soudní praxí.
+Postup podle § 347 odst. 2 o.s.ř. je totiž možný jen tehdy, jestliže se nepodaří – v rámci nařízeného výkonu rozhodnutí odebráním věci – věc odebrat, a lze-li si ji opatřit jinak. Předpokladem tedy je, aby byl nařízen výkon rozhodnutí odebráním věci (§ 345 a násl. o.s.ř.); teprve pak lze uvažovat o rozhodnutí ukládajícím povinnost k peněžitému plnění, jež lze vykonat způsoby vyjmenovanými v ustanovení § 258 odst. 1 o.s.ř.
+O rozpor s hmotným právem (§ 237 odst. 3 o.s.ř.) jít nemůže, neboť námitky dovolatelky vycházejí z práva procesního.
+Nelze-li dospět k závěru, že dovoláním napadené rozhodnutí je zásadního významu po právní stránce, není dovolání přípustné ani z hlediska § 237 odst. l písm. c/, odst. 3 o.s.ř.
+Nepřípustné dovolání Nejvyšší soud podle § 243b odst. 5, věty první, § 218 písm. c/ o.s.ř. odmítl.
+Výrok o nákladech dovolacího řízení vychází ze situace, kdy povinnému, který by jinak měl právo na náhradu nákladů dovolacího řízení, prokazatelné náklady nevznikly (§ 146 odst. 3, § 224 odst. 1 a § 243b odst. 5, věta první, o.s.ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 30. dubna 2003
+JUDr. Vladimír K u r k a , v.r.
+předseda senátu
