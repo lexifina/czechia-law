@@ -1,0 +1,18 @@
+U S N E S E N Í
+Nejvyšší soud České republiky projednal dne 21. února 2005 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na zápis odsouzení cizozemským soudem do evidence Rejstříku trestů a rozhodl t a k t o :
+Podle § 4 odst. 2 zák. č. 269/1994 Sb. se do evidence Rejstříku trestů zaznamenají údaje o odsouzení občana České republiky V. L., rozsudkem Zemského soudu Krems, Rakousko, ze dne 12. 7. 2004, sp. zn. 22 E Hv 52/04a, a to pro trestný čin převaděčství podle § 104 odst. 1 a 3, 1. a 2. případ rakouského cizineckého zákona, k trestu odnětí svobody v trvání dvanácti měsíců.
+O d ů v o d n ě n í :
+Výše označeným rozsudkem Zemského soudu Krems, Rakousko, jenž nabyl právní moci dne 12. 7. 2004, byl V. L. uznán vinným trestným činem převaděčství podle § 104 odst. 1 a 3, 1. a 2. případ rakouského cizineckého zákona, a to v podstatě na základě zjištění, že jako člen zločinecké organizace za účelem získání majetkového prospěchu v pohraniční oblasti Č.r. v regionu města T. a v R. v regionu obce H.,
+1. dne 23. 3. 2004 převedl pěšky do R. (vyhnul se hraniční kontrole) tři osoby zřejmě arabského původu, a tyto osoby předal jemu neznámým osobám, které je převážely dále,
+2. dne 25. 3. 2004 doprovodil na stejném místě do R. pět tureckých státních příslušníků/K., aby tito byli opět předáni dalším osobám za účelem dalšího transportu.
+Za tuto trestnou činnost byl odsouzen k trestu odnětí svobody v trvání dvanácti měsíců.
+Ministerstvo spravedlnosti České republiky podalo podle § 4 odst. 2 zák. č. 269/1994 Sb., o Rejstříku trestů (dále jen „zákon“), Nejvyššímu soudu České republiky (dále též jen „Nejvyšší soud“), návrh na zapsání výše uvedeného odsouzení rakouského soudu do evidence Rejstříku trestů České republiky.
+Nejvyšší soud České republiky věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro zápis odsouzení cizozemským soudem do evidence Rejstříku trestů.
+Především je třeba uvést, že podle § 4 odst. 2 zákona může Nejvyšší soud na návrh Ministerstva spravedlnosti rozhodnout, že se do evidence Rejstříku trestů zaznamenají údaje o odsouzení občana České republiky cizozemským soudem, jestliže se týká činu, který je trestným i podle právního řádu České republiky, a zápis do evidence je odůvodněn závažností činu a druhem trestu, který za něj byl uložen. Dále je nutno připomenout, že pokud Nejvyšší soud rozhodne o zaznamenání údajů o odsouzení do evidence Rejstříku trestů, hledí se na takové odsouzení cizozemským soudem jako na odsouzení soudem České republiky (§ 4 odst. 3 zákona).
+Z podaného návrhu a z obsahu připojeného spisového materiálu vyplývá, že V. L. je občanem České republiky, který byl odsouzen cizozemským soudem, přičemž odsouzení se týká skutku, který vykazuje znaky trestného činu i podle právního řádu České republiky (trestný čin nedovoleného překročení státní hranice podle § 171a tr. zák.). Tím jsou splněny formální podmínky ustanovení § 4 odst. 2 zákona.
+V posuzované věci jsou dány ovšem i podmínky materiální povahy. V. L. se opakovaně podílel pro finanční prospěch na organizovaném ilegálním převádění cizinců na území cizího státu. Jedná se přitom o společensky nebezpečnou a v posledních letech také velmi rozšířenou trestnou činnost, která současně poškozuje i zájmy České republiky. Pokud jde o druh trestu, byl mu uložen již nikoliv zanedbatelný trest odnětí svobody. Lze tedy dovodit, že podmínky ustanovení § 4 odst. 2 zákona týkající se závažnosti činu a druhu uloženého trestu jsou splněny.
+Z uvedených důvodů proto Nejvyšší soud České republiky návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 21. února 2005
+Předseda senátu:
+JUDr. Antonín Draštík
