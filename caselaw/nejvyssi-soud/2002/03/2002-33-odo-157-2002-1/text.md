@@ -1,0 +1,21 @@
+33 Odo 157/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci žalobců A) F. V., a B) B. H., proti žalovanému D. p. .m. P., akciové společnosti, o úhradu za užívání pozemků, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 13 C 22/93, o dovolání žalobce A) proti usnesení Městského soudu v Praze ze dne 30. srpna 2001 č. j. 22 Co 276/2001-270, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Obvodní soud pro Prahu 2 rozsudkem ze dne 29. prosince 2000 č. j. 13 C 22/93-250 uložil žalované zaplatit každému z žalobců částku 149 150,60 Kč s 3% úrokem z částky 91 528 Kč od 15. 2. 1993 do 24. 5. 1994 a s 3% úrokem z částky 149 150,60 Kč od 25. 5. 1994 do zaplacení, rozhodl o náhradě nákladů řízení a nepřipustil změnu žaloby žalobce A) v podání ze dne 24. 11. 1998 pod písmeny A-H a změnu žaloby žalobce A) ze dne 21. 12. 2000, kterou žádal o přiznání nájemného za pozemky v rozsahu 10% z kupní ceny.
+Odvolání žalobce A) proti výrokům pod body I. a IV. rozsudku soudu prvního stupně Městský soud v Praze usnesením ze dne 30. srpna 2001 č. j. 22 Co 276/2001-270 odmítl, neboť zčásti je podal někdo, kdo k tomu není oprávněn, a zčásti směřovalo proti rozhodnutí, proti němuž není odvolání přípustné, a rozhodl o náhradě nákladů odvolacího řízení.
+Proti usnesení odvolacího soudu podal žalobce A) dovolání, které bylo osobně předáno na podatelnu soudu prvního stupně dne 17. 12. 2001.
+Podle ustanovení části dvanácté hlavy I bodu 17 zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, se dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona (1. 1. 2001) nebo vydaným po řízení provedeném podle dosavadních právních předpisů projednají a rozhodnou podle dosavadních právních předpisů (tedy podle občanského soudního řádu ve znění platném do 31. 12. 2000 – dále též „o. s. ř.“). Tak je tomu i v daném případě, kdy byl rozsudek odvolacího soudu vydán po řízení provedeném podle dosavadních právních předpisů, tedy podle o. s. ř. ve znění platném do 31. 12. 2000.
+Podle části dvanácté hlavy I bodu 15 zákona č. 30/2000 Sb. se totiž odvolání proti rozhodnutím soudu prvního stupně vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů projednají a rozhodnou podle dosavadních právních předpisů. V posuzované věci byl rozsudek soudu prvního stupně vydán dne 29. prosince 2000.
+Skutečnost, že dovolání se projedná a rozhodne podle dosavadních právních předpisů mj. znamená, že se podle těchto předpisů posoudí i otázka včasnosti dovolání.
+Podle § 240 odst. 1 o. s. ř. může účastník řízení podat dovolání do jednoho měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni.
+Podle § 211, § 151 a § 159 odst. 1 o. s. ř. doručený rozsudek, který již nelze napadnout odvoláním, je v právní moci. Vzhledem k tomu, že rozsudek odvolacího soudu nelze odvoláním napadnout, nabývá právní moci dnem, kdy byl doručen všem účastníkům řízení. V daném případě bylo tento rozsudek doručen zástupcům žalobců i zástupci žalovaného dne 17. října 2001, tento den tedy rozsudek odvolacího soudu nabyl právní moci.
+Podle ustanovení § 57 odst. 2 o. s. ř. končí lhůty určené podle měsíců uplynutím toho dne, který se svým označením shoduje se dnem, kdy došlo ke skutečnosti určující počátek lhůty. Připadne-li konec lhůty takto stanovený na sobotu, neděli nebo svátek, je posledním dnem lhůty nejblíže následující pracovní den. Posledním dnem k podání dovolání byl tedy 19. listopad 2001. Dovolání ze dne 13. 12. 2001 podané žalobcem A) na podatelnu soudu prvního stupně dne 17. prosince 2001 bylo tudíž opožděné.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) proto podle § 243b odst. 4 a 218 odst. 1 písm. a) o. s. ř. opožděné dovolání odmítl.
+O náhradě nákladů bylo rozhodnuto podle § 243b odst. 4, § 224 odst. 1, § 151 odst. 1 a § 142 odst. 1 o. s. ř., když úspěšnému žalovanému žádné náklady dovolacího řízení nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 28. března 2002
+JUDr. Zdeněk Des, v.r.
+předseda senátu
