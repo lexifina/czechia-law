@@ -1,0 +1,22 @@
+20 Cdo 2038/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Vladimíra Mikuška a soudců JUDr. Pavla Krbka a JUDr. Vladimíra Kurky ve věci výkonu rozhodnutí oprávněného JUDr. J. V., jako správce konkursní podstaty P., a. s., zastoupené advokátem, proti povinné K. P., a. s., pro částku 588.041,90 Kč s příslušenstvím prodejem movitých věcí, vedené u Okresního soudu v Ústí nad Orlicí pod sp. zn. 11 E 2325/2000, o dovolání K. P., s.r.o., zastoupené advokátem, proti usnesení Krajského soudu v Hradci Králové ze dne 20. března 2003, č. j. 19 Co 110/2003-106, takto:
+I. Dovolání se odmítá.
+II. Dovolatelka je povinna zaplatit oprávněnému na náhradě nákladů dovolacího řízení částku 5.120,- Kč do tří dnů od právní moci tohoto usnesení.
+O d ů v o d n ě n í :
+Obchodní společnost K. P., s.r.o. (dále jen „navrhovatelka“), podala u soudu návrh „aby předseda senátu v rámci kontroly postupu vykonavatele dle ust. § 265 odst. 2 vyloučil z výkonu rozhodnutí sepsané movité věci, jak jsou uvedeny v protokolu o soupisu movitých věcí č. j. 11 E 2325/2000-12, ze dne 2. 3. 2001“ s odůvodněním, že „v době provádění soupisu movitých věcí si vykonavatel zjednal přístup do prostorů navrhovatele, ač na to neměl právo“, a že tedy „věci byly sepsány způsobem, který je v rozporu s občanským soudním řádem a vyhláškou č. 37/19992 Sb.“
+Okresní soud usnesením ze dne 2. 12. 2002, č. j. 11 E 2325/2000-76, návrh zamítl a navrhovatelku zavázal k náhradě nákladů řízení oprávněné, a odvolací soud jeho rozhodnutí usnesením označeným v záhlaví tohoto rozhodnutí potvrdil a zavázal ji k náhradě nákladů odvolacího řízení.
+Proti rozhodnutí odvolacího soudu podala navrhovatelka dovolání, jehož přípustnost dovozuje z ustanovení § 237 odst. 1 písm. c/ občanského soudního řádu (dále též jen „o.s.ř.“); za právně zásadně významnou považuje otázku, zda „je vykonavatel při provádění výkonu rozhodnutí oprávněn zjednat si přístup do jiného bytu…než je byt povinného, tedy do bytu…třetí nezúčastněné osoby bez jejího vědomí či proti její vůli“, a pokud tak učiní a provede na tomto místě soupis, „jaké jsou důsledky tohoto kroku pro řízení o výkon rozhodnutí.“
+Oprávněný navrhl odmítnutí dovolání.
+Nejvyšší soud se předně zabýval otázkou přípustnosti dovolání a v tomto ohledu dospěl k závěru, že dovolání přípustné není.
+Podle § 236 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti usnesení upravují ustanovení § 237 až § 239 o.s.ř.
+Ustanovení § 238, § 238a a § 239 o.s.ř. přípustnost dovolání nezakládají proto, že rozhodnutí o návrhu, o němž rozhodly soudy obou stupňů v souzené věci, v jejich taxativních výčtech uvedeno není.
+Podle ustanovení § 237 o.s.ř. (jehož se dovolává navrhovatelka) není dovolání přípustné již proto, že usnesení, jímž soud prvního stupně rozhodl o návrhu (nemajícím ostatně oporu v žádném ustanovení občanského soudního řádu), aby „předseda senátu v rámci kontroly postupu vykonavatele dle § 265 odst. 2 o.s.ř. vyloučil z výkonu rozhodnutí movité věci sepsané v protokolu o jejich soupisu“, není (na rozdíl od rozsudku o vylučovací žalobě podle § 267 o.s.ř., o který v daném případě nešlo) rozhodnutím ve věci samé.
+Nejvyšší soud proto, aniž ve věci nařídil jednání (§ 243a odst. 1, věta první, o. s. ř.), dovolání podle ustanovení § 243b odst. 5 a § 218 písm. c/ o. s. ř. odmítl.
+Protože dovolání bylo odmítnuto, vzniklo oprávněnému podle ustanovení § 146 odst. 3, § 224 odst. 1 a § 243b odst. 5 věty první o.s.ř. právo na náhradu účelně vynaložených nákladů dovolacího řízení.
+Tyto náklady spočívají v částce 5045,- Kč představující sazbu odměny advokáta (§ 1 odst. 1, § 2 odst. 1, § 3 odst. 1, bod 6., § 12 odst. 1, písm. a/, bod 1., § 14 odst. 3, § 15 vyhlášky č. 484/2000 Sb., kterou se stanoví paušální sazby výše odměny za zastupování účastníka advokátem nebo notářem při rozhodování o náhradě nákladů v občanském soudním řízení a kterou se mění vyhláška Ministerstva spravedlnosti (advokátní tarif), ve znění pozdějších předpisů (dále jen „vyhláška“) – sníženou o 50% podle § 18 odst. 1 vyhlášky a v částce 75,- Kč paušální náhrady ve smyslu ustanovení § 13 odst. 3 vyhlášky č. 177/1996 Sb. o odměnách advokátů a náhradách advokátů za poskytování právních služeb.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. listopadu 2003
+JUDr. Vladimír Mikušek, v.r.
+předseda senátu
