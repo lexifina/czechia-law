@@ -1,0 +1,16 @@
+20 Cdo 1670/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci výkonu rozhodnutí oprávněné městské části P., proti povinným 1/ M. S., 2/ J. S., prodejem movitých věcí pro částku 51.035,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 6 pod sp. zn. E 407/99, o dovolání povinného 1/ proti usnesení Městského soudu v Praze ze dne 29. března 2002, č. j. 19 Co 90/2002-15, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Proti shora označenému rozhodnutí, jímž městský soud ve vztahu k prvnímu povinnému (dovolateli) potvrdil usnesení z 16. 3. 1999, č. j. E 407/99-5 (kterým obvodní soud nařídil výkon rozhodnutí), a odvolání druhé povinné odmítl, podal první povinný dovolání.
+Podle části dvanácté (Přechodná a závěrečná ustanovení), hlavy I (Přechodná ustanovení k části první), bodu 17. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů. Právě o posléze uvedený případ v dané věci jde, proto Nejvyšší soud dovolání projednal a rozhodl o něm podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném před novelizací provedenou zákonem č. 30/2000 Sb., tj. účinném do 31. prosince 2000 (dále jen „o. s. ř.“).
+Protože z obsahu spisu nevyplývalo, že by povinný byl v dovolacím řízení zákonem stanoveným způsobem zastoupen, případně že by byl právnicky vzdělán, obvodní soud jej usnesením z 27. února 2003 (č. l. 33), doručeným mu 26. května 2003, vyzval, aby si ve lhůtě 20-ti dnů od doručení zvolil právního zástupce, který by za něj sepsal řádné dovolání, a poučil jej, že jinak Nejvyšší soud dovolací řízení zastaví. Dovolatel však vytčený nedostatek neodstranil.
+Podle ustanovení § 241 odst. 1 věty první o. s. ř. musí být dovolatel zastoupen advokátem, jestliže nemá právnické vzdělání buď sám nebo jeho zaměstnanec (člen), který za něj jedná. Podle ustanovení § 241 odst. 2 věty druhé o. s. ř. nemá-li dovolatel právnické vzdělání, musí být dovolání sepsáno advokátem anebo zaměstnancem (členem) dovolatele s právnickým vzděláním, který za něj jedná.
+Protože povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání - kromě usnesení, kterým se dovolací řízení právě pro neodstranění tohoto nedostatku zastavuje - vydání rozhodnutí, jímž se řízení končí (§ 241 odst. 1 o. s. ř.), a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu nedošlo, ač byl dovolatel o následcích poučen, Nejvyšší soud řízení o dovolání podle § 104 odst. 2 a § 243c o. s. ř. zastavil.
+Povinný z procesního hlediska zavinil, že dovolací řízení bylo zastaveno, oprávněné prokazatelné náklady tohoto řízení (podle obsahu spisu) nevznikly. Této procesní situaci odpovídá ve smyslu ustanovení § 146 odst. 2 věty první, § 224 odst. 1 a § 243b odst. 4 o. s. ř. výrok o tom, že na náhradu nákladů tohoto řízení nemá právo žádný z účastníků.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. března 2004
+JUDr. Vladimír Mikušek, v.r.
+předseda senátu
