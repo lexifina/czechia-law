@@ -1,0 +1,24 @@
+30 Cdo 2355/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Olgy Puškinové a soudců JUDr. Karla Podolky a JUDr. Romana Fialy v právní věci žalobců
+a) M. S., b) V. S., a c) M. D., všech zastoupených advokátem, proti žalovaným 1) J. Š., a 2) K. Š., o určení vlastnictví k nemovitostem, vedené
+u Okresního soudu v Novém Jičíně pod sp. zn. 13 C 77/2003, o dovolání žalovaných proti rozsudku Krajského soudu v Ostravě ze dne 17. února 2004, č. j. 57 Co 506/2003 -51, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Novém Jičíně rozsudkem ze dne 1.10.2003, č. j. 13 C 77/2003-28, určil, že do společného jmění žalobců ad a) a ad b) patří spoluvlastnický podíl ve výši ideální jedné poloviny na nemovitostech - pozemku p. č. 1572/5 o výměře 347 m2 ostatní plocha, pozemku p. č. st. 1572/7 o výměře 143 m2 zastavěná plocha a budově - objektu bydlení čp. 731 na pozemku p. č. st. 1572/7 v katastrálním území K., žalobu, aby bylo určeno, že žalobkyně ad c) je vlastníkem spoluvlastnického podílu ve výši ideální jedné poloviny
+na nemovitostech - pozemku p. č. 1572/5 o výměře 347 m2 ostatní plocha, pozemku p. č. st. 1572/7 o výměře 143 m2 zastavěná plocha a budově - objektu bydlení čp. 731 na pozemku
+p. č. st. 1572/7 v katastrálním území K., zamítl a rozhodl o náhradě nákladů řízení.
+K odvolání žalobců Krajský soud v Ostravě rozsudkem ze dne 17.2.2004, č. j. 57 Co 506/2003-51, rozsudek soudu prvního stupně v napadeném vyhovujícím výroku o věci samé potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Proti tomuto rozsudku odvolacího soudu podali žalovaní dne 24.5.2004 dovolání, v němž vyjádřil nesouhlas s rozsudky soudů obou stupňů.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) po zjištění, že dovolání, které bylo proti pravomocnému rozsudku odvolacího soudu podáno oprávněnými osobami (účastníky řízení) ve lhůtě uvedené v ustanovení § 240 odst. 1 o.s.ř., dospěl k závěru, že v dané věci brání rozhodnutí o dovolání nedostatek podmínky dovolacího řízení.
+Podle ustanovení § 240 odst. 1 věty první o.s.ř. účastník může podat dovolání do dvou měsíců od doručení rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni.
+Podle ustanovení § 241 odst. 1 věty první o.s.ř. není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Podle ustanovení § 241 odst. 2 o.s.ř. odstavec 1 neplatí, a) je-li dovolatelem fyzická osoba, která má právnické vzdělání, b) je-li dovolatelem právnická osoba, stát, obec nebo vyšší územně samosprávný celek, jedná-li za ně osoba uvedená v § 21, 21a, anebo v § 21b, která má právnické vzdělání. Podle odst. 4 dovolání musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem, notářem nebo osobou uvedenou v § 21, 21a, 21b, anebo v § 26a odst. 3, která má právnické vzdělání.
+Pro podání dovolání, které je mimořádným opravným prostředkem, zákon stanoví požadavek, aby účastník řízení, který podává dovolání, měl buď sám právnické vzdělání, nebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc. Ustanovení § 241 o. s. ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejího splnění nelze o dovolání rozhodnout. Skutečnost, že je splněn požadavek nuceného zastoupení dovolatele nebo že je dána výjimka z tohoto pravidla, musí být v dovolacím řízení prokázána.
+V dané věci podali žalovaní dovolání proti rozsudku odvolacího soudu, které bylo sepsáno advokátem, aniž byla předložena plná moc k zastupování žalovaných v dovolacím řízení. Přípisem soudu prvního stupně ze dne 28.5.2004 byl jmenovaný advokát vyzván k doložení plné moci pro dovolací řízení v této věci a vzhledem k tomu, že na výzvu nereagoval, byli žalovaní usnesením Okresního soudu v Novém Jičíně ze dne 9.8.2004, č. j. 13 C 77/2003-61, vyzváni, aby ve lhůtě 3 dnů od doručení tohoto usnesení předložili plnou moc „pro zástupce“ a současně byli poučeni o tom, že nebude-li ve stanovené lhůtě plná moc předložena, soud dovolací řízení zastaví. Usnesení bylo žalovaným doručeno dne 16.8.2004 a 17.8.2004, avšak dosud nebylo výzvě vyhověno.
+Vzhledem k tomu, že dovolatelé podali dovolání, aniž předložením plné moci prokázali, že byl splněn požadavek povinného zastoupení, a ani nedoložili, že mají právnické vzdělání, nebyl nedostatek podmínky dovolacího řízení podle ustanovení § 241 odst. 1 věty první o.s.ř. odstraněn; Nejvyšší soud proto dovolací řízení podle § 243c odst. 1 a § 104 odst. 2 věty třetí o.s.ř. zastavil.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, § 224 odst. 1 a § 146 odst. 1 písm. c) o.s.ř., neboť žalobcům v tomto řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 11. ledna 2005
+JUDr. Olga Puškinová, v. r.
+předsedkyně senátu
