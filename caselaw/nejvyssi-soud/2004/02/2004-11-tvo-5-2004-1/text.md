@@ -1,0 +1,16 @@
+11 Tvo 5/2004
+U S N E S E N Í
+Nejvyšší soud projednal v neveřejném zasedání konaném dne 27. února 2004 stížnost obviněného T. M., proti usnesení Vrchního soudu v Praze ze dne 9. 12. 2003, sp. zn. 1 To 56/03, a rozhodl t a k t o :
+Podle § 148 odst. 1 písm. c) tr. řádu s e stížnost obviněného T. M. z a m í t á.
+O d ů v o d n ě n í :
+Rozsudkem Krajského soudu v Hradci Králové ze dne 31. 10. 2003, sp. zn. 1 T 9/2003, byl obviněný T. M. uznán vinným trestnými činy znásilnění podle § 241 odst. 1 tr. zák., podle § 241 odst. 1, 2 písm. b) tr. zák. a podle § 241 odst. 1, 3 písm. b) tr. zák. ukončeném ve stadiu pokusu podle § 8 odst. 1 tr. zák., trestnými činy podávání alkoholických nápojů mládeži podle § 218 tr. zák. a trestnými činy pohlavního zneužívání podle § 241 odst. 1 tr. zák. a odsouzen k nepodmíněnému trestu odnětí svobody v trvání sedmi roků, pro jehož výkon byl zařazen do věznice s dozorem a k trestu zákazu činnosti na dobu deseti let.
+Proti tomuto rozsudku podal obviněný T. M. a jeho rodiče odvolání a trestní věc se v době rozhodování o vazbě obviněného nacházela ve stadiu odvolacího řízení před Vrchním soudem v Praze.
+Vrchní soud v Praze usnesením ze dne 9. 12. 2003, sp. zn. 1 To 56/03, podle § 148 odst. 1 písm. c) tr. řádu zamítl stížnost obviněného T. M. proti usnesení Krajského soudu v Hradci Králové ze dne 29. 10. 2003, kterým byla zamítnuta žádost obviněného o propuštění z vazby, a podle § 71 odst. 4, 6 tr. řádu ponechal obviněného i nadále ve vazbě.
+Proti výroku o ponechání ve vazbě podal obviněný T. M. stížnost s odůvodněním, že důvody vazby podle § 67 písm. c) tr. řádu u něj neexistují, a proto navrhuje, aby byl z vazby propuštěn.
+Nejvyšší soud z podnětu podané stížnosti přezkoumal podle § 147 odst. 1 tr. řádu správnost napadeného výroku i řízení, které mu předcházelo, a dospěl k tomuto závěru.
+Obviněný T. M. je stíhán pro závažnou a rozsáhlou trestnou činnost. O důvodnosti jeho vazby bylo v průběhu řízení několikrát rozhodováno, naposledy usnesením Vrchního soudu v Praze ze dne 9. 12. 2003, kterým byla podle § 148 odst. 1 písm. c) tr. řádu zamítnuta jeho stížnost a podle § 71 odst. 4, 6 tr. řádu byl obviněný ponechán i nadále ve vazbě. Rozsudkem soudu prvního stupně byl obviněný T. M. uznán vinným žalovanými trestnými činy a protože jde o rozhodnutí nepravomocné, je stále ohrožen vysokou trestní sazbou. Hrozba trestu, spolu s dosavadním způsobem života obviněného a charakterem žalované trestné činnosti, činí obavu, že by na svobodě trestnou činnost, pro níž je stíhán, opakoval, zcela reálnou. Za tohoto stavu je možno se ztotožnit s rozhodnutím vrchního soudu a na jeho odůvodnění lze v podrobnostech plně odkázat. Trestní řízení proti obviněnému trvá zatím dobu, která je přiměřená náročnosti projednávané věci, žádné nepřiměřené průtahy během tohoto řízení nebyly zjištěny.
+V současné době jsou ovšem úvahy o důvodnosti vazby obviněného T. M. zbytečné, protože usnesením Vrchního soudu v Praze ze dne 9. 1. 2004 byla trestní věc obviněného pravomocně skončena a obviněný byl převeden z vazby do výkonu trestu odnětí svobody.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 27. února 2004
+Předseda senátu:
+JUDr. Pavel Kučera
