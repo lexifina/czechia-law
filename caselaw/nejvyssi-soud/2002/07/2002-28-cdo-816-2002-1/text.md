@@ -1,0 +1,26 @@
+28 Cdo 816/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Josefa Rakovského a soudců JUDr. Oldřicha Jehličky, CSc. a JUDr. Blanky Moudré v právní věci žalobce Města R., proti žalovaným 1) H. R., a 2) J. R., oběma zastoupeným advokátem, o vyklizení bytu, vedené u Okresního soudu v Rokycanech pod sp. zn. 5 C 130/2000, o dovolání žalovaných proti rozsudku Krajského soudu v Plzni ze dne 11.12.2001, č.j. 11 Co 139/2001-32, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalobě na vyklizení bytu podané dne 14.8.2000 vyhověl Okresní soud v Rokycanech jako soud prvního stupně rozsudkem ze dne 23.1.2001, č.j. 5 C 130/2000-21. K odvolání žalovaných Krajský soud v Plzni jako soud odvolací rozsudek soudu prvního stupně potvrdil.
+Proti uvedenému rozsudku odvolacího soudu podali žalovaní dne 6.3.2002 dovolání, jehož přípustnost blíže nezdůvodnili. Tvrdili, že soudy obou stupňů nesprávně posoudily skutkový stav a odvodily nesprávné právní závěry. Dovolatelé namítali rozpor s dobrými mravy ve smyslu § 3 o.z. Navrhli proto zrušení rozhodnutí soudů obou stupňů a vrácení věci soudu prvního stupně k dalšímu řízení.
+Vyjádření k dovolání nebylo podáno.
+Dovolání není přípustné.
+Nejvyšší soud České republiky jako soud dovolací při posuzování tohoto dovolání vycházel v souladu s body 1., 15., 17., hlavy první, části dvanácté, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, z občanského soudní řádu ve znění účinném od 1. ledna 2001. Proto v tomto usnesení jsou uváděna ustanovení občanského soudního řádu ve znění po novele provedené zákonem č. 30/2000 Sb. (dále jen „o.s.ř.“).
+Podle § 236 odst. 1 o. s. ř. dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Podle ustanovení § 237 odst. 1 o. s. ř. je dovolání přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího soudu,
+a) jimiž bylo změněno rozhodnutí soudu prvního stupně ve věci samé,
+b) jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil,
+c) jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není přípustné podle písmena b) a dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam.
+Podle § 237 odst. 3 o.s.ř. má rozhodnutí odvolacího soudu po právní stránce zásadní význam zejména tehdy, řeší-li právní otázku, která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo která je odvolacími soudy nebo dovolacím soudem rozhodována rozdílně, nebo řeší-li právní otázku v rozporu s hmotným právem.
+Ustanovení § 237 odst. 1 písm. a) o.s.ř. v posuzovaném případě přípustnost dovolání nezakládá, neboť rozsudek odvolacího soudu nebyl ve výroku o věci samé rozsudkem měnícím, nýbrž potvrzujícím. Přípustnost dovolání nelze dovodit ani z ustanovení § 237 odst. 1 písm. b) o.s.ř., neboť dovoláním napadený rozsudek potvrdil rozsudek soudu prvního, aniž tomu předcházelo obsahově jiné rozhodnutí soudu prvního stupně, které by bylo zrušeno odvolacím soudem s účinky vázanosti tohoto soudu právním závěrem odvolacího soudu.
+Zbývá posoudit, zda potvrzující rozhodnutí odvolacího soudu má ve věci samé po právní stránce zásadní význam s důsledky založení přípustnosti dovolání podle § 237 odst. 1 písm. c) o.s.ř. ve vztahu k § 237 odst. 3 téhož zákona. O takový případ v dané věci nejde.
+Jak je patrno z obsahu odůvodnění odvolacího soudu, posouzení důvodnosti žaloby na vyklizení v této věci bylo závislé na zjištění, zda žalovaným přísluší právní titul k užívání předmětného bytu. Z nesporných skutkových zjištění učiněných již soudem prvního stupně, z nichž odvolací soud vycházel, vyplývá přitom dostatečně srozumitelný právní závěr odvolacího soudu, podle něhož žalovaným nevzniklo užívací právo k předmětnému bytu. Lze přisvědčit odvolacímu soudu pokud dospěl k závěru, že nebyly splněny podmínky přechodu užívacího práva k předmětnému bytu podle § 179 a § 181 o.z., tehdy platného znění. Pak ovšem posouzení věci odvolacím soudem se opírá o dnes již ustálené závěry soudní praxe. Uvedené právní závěry nelze podřadit pod pojem právních otázek, jejichž řešení by činilo uvedené rozhodnutí odvolacího rozhodnutím, které by mělo po právní stránce zásadní význam.
+Z uvedeného vyplývá závěr, že přípustnost dovolání v této věci nelze dovodit z žádného ustanovení o.s.ř. ve znění účinném od 1. 1. 2001. Dovolací soud proto podle § 243b odst. 5 o.s.ř. za použití ustanovení § 218 písm. c) o.s.ř. dovolání odmítl, aniž mohl přikročit k meritornímu hodnocení dovolacích námitek v něm uplatněných.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 o.s.ř. za použití § 224 odst.1 o.s.ř., § 151 odst. 1 o.s.ř. a § 142 odst. 1 o.s.ř. Dovolatelé nebyli v dovolacím řízení úspěšní a žalobci v souvislosti s podaným dovoláním zřejmě žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. července 2002
+JUDr. Josef Rakovský, v.r.
+předseda senátu
