@@ -1,0 +1,19 @@
+20 Cdo 2121/2000
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci dědictví po M. Š., zemřelé 18. března 1996, o návrhu J. Š., na obnovu řízení, vedené u Obvodního soudu pro Prahu 3 pod sp. zn. 13 D 1156/96, o dovolání J. Š. proti usnesení Městského soudu v Praze ze dne 28. dubna 2000, č.j. 24 Co 87/2000-88, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í:
+Městský soud v Praze usnesením ze dne 28. dubna 2000, č.j. 24 Co 87/2000-88, potvrdil usnesení ze dne 14. ledna 2000, č.j. 13 D 1156/96-76, jímž Obvodní soud pro Prahu 3 zamítl návrh J. Š. (syna zemřelé) na obnovu řízení ve věci vedené u téhož soudu pod sp. zn. 13 D 1156/96. Odvolací soud přisvědčil závěru soudu prvního stupně, že navrhovatelem uváděné skutečnosti nezakládají důvod obnovy řízení dle § 228 odst. 1 občanského soudního řádu (dále též jen „o. s. ř.\"). Odvolací soud nevyhověl ani návrhu na vyslovení přípustnosti dovolání s tím, že rozhodnutí nemá zásadní význam po právní stránce.
+J. Š. (zastoupen advokátem) podal proti usnesení odvolacího soudu včas dovolání, jehož přípustnost opírá o ustanovení § 239 odst. 2 o. s. ř., namítaje, že věc nebyla správně posouzena po stránce právní (tedy že je dán dovolací důvod dle § 241 odst. 3 písm. d/ o. s. ř.). Na podporu tohoto závěru snáší dovolatel v dovolání podrobné argumenty a požaduje, aby Nejvyšší soud usnesení soudů obou stupňů zrušil a obnovu řízení v dané věci povolil.
+Dovolání v této věci není přípustné.
+Podle § 236 odst. 1 o. s. ř. dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti usnesení upravují ustanovení § 237, § 238a a § 239 o. s. ř.
+Vady řízení ve smyslu ustanovení § 237 odst. 1 o. s. ř., k nimž je dovolací soud povinen přihlížet z úřední povinnosti (§ 242 odst. 3 o. s. ř.) a jejichž existence činí zmatečným (s výjimkami zakotvenými v odstavci druhém) každé rozhodnutí odvolacího soudu, dovoláním namítány nejsou a z obsahu spisu se rovněž nepodávají.
+Podle ustanovení § 238a odst. 1 písm. a/ o. s. ř. není dovolání přípustné proto, že usnesení odvolacího soudu nebylo usnesením měnícím, nýbrž potvrzujícím, a napadané rozhodnutí nelze podřadit ani případům vyjmenovaným v § 238a odst. 1 písm. b/ až f/ o. s. ř.
+Podmínky přípustnosti stanovené v § 239 o. s. ř. daná věc (oproti očekávání dovolatele) rovněž nesplňuje, neboť podle tohoto ustanovení může být dovolání přípustné jen, jde-li o potvrzující usnesení odvolacího soudu ve věci samé; rozhodnutí (usnesení) o povolení obnovy řízení (§ 234 odst. 1 o. s. ř.) je však rozhodnutím výlučně procesní povahy, protože je způsobilé založit účastníku jen právo procesní, totiž nové projednání věci (nyní již ve smyslu věci samé) podle ustanovení § 235 odst. 1 o. s. ř. Rozhodnutí o povolení obnovy tedy neřeší věc samu, ale pouze jedinou - a to procesní - otázku, totiž zda věc sama bude v případném obnoveném řízení projednána znovu. Teprve v případě kladného zodpovězení této otázky, tedy nabude-li rozhodnutí o povolení obnovy právní moci, projedná soud v obnoveném řízení věc samu znovu, bez zřetele k tomu, že již bylo o ní pravomocně rozhodnuto (§ 159 odst. 3 o. s. ř.). Odtud lze uzavřít, že napadené usnesení rozhodnutím ve věci samé ve smyslu ustanovení § 239 o. s. ř. není (shodně srov. rozhodnutí Nejvyššího soudu uveřejněné pod číslem 61/1998 Sbírky soudních rozhodnutí a stanovisek, na jehož argumentaci Nejvyšší soud dále v podrobnostech odkazuje).
+Tento závěr s sebou nese konečné posouzení podaného dovolání jako nepřípustného. Nejvyšší soud je proto, aniž nařizoval jednání (§ 243a odst. 1, část věty před středníkem, o. s. ř.), podle § 243b odst. 4 a § 218 odst. 1 písm. c/ o. s. ř. usnesením odmítl.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 27. září 2000
+JUDr. Zdeněk K r č m á ř, v. r.
+předseda senátu
+Za správnost vyhotovení: Romana Říčková
