@@ -1,0 +1,14 @@
+11 Td 20/2004
+U S N E S E N Í
+Nejvyšší soud v trestní věci obviněného JUDr. J. H., vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 2 T 103/2003 rozhodl v neveřejném zasedání konaném dne 31. března 2004 o příslušnosti soudu t a k t o :
+Podle § 24 odst. 1 tr. řádu j e k projednání trestní věci obviněného JUDr. J. H. p ř í s l u š n ý Městský soud v Brně.
+O d ů v o d n ě n í :
+Státní zástupce Obvodního státního zastupitelství pro Prahu 1 podal dne 1. 10. 2003 Obvodnímu soudu pro Prahu 1 obžalobu na obviněného JUDr. J. H. pro trestný čin porušování povinnosti při správě cizího majetku podle § 255 odst. 1, 2 písm. b) tr. zák., který měl spáchat tím, že jako člen představenstva společnosti B., a. s., se sídlem P., O. 1284/37, IČO: 25060…, uzavřel dne 27. 11. 2000 s obchodním ředitelem společnosti T., a. s., se sídlem B., O. 4 smlouvu o obchodním zastoupení s účinností od 1. 1. 2001, kdy předmětem byl předprodej mezinárodních jízdenek s desetiprocentní provizí za prodej jízdenek, kdy prodej jízdenek byl obchodní zástupce, tedy společnost B., a. s., povinen dle uzavřené smlouvy vždy do čtvrtého dne následujícího měsíce vyúčtovat a proplatit vystavené faktury společnosti T., a. s., a v případě faktur z 15. 2. 2001, 15. 3. 2001, 4. 4. 2001, 14. 6. 2001 a 15. 7. 2001, kdy poslední splatnost byla 15. 7. 2001 a částka celkem činila 826.983,- Kč, obviněný záměrně uvedené faktury nenechal proplatit.
+Usnesením Obvodního soudu pro Prahu 1 ze dne 3. 10. 2003, sp. zn. 2 T 103/2003, byla podle § 314c odst. 1 písm. a) tr. řádu ve spojení s § 188 odst. 1 písm. a) tr. řádu trestní věc obviněného JUDr. J. H. předložena Nejvyššímu soudu k rozhodnutí o příslušnosti soudu s odůvodněním, že ve smyslu ustanovení § 18 odst. 1 tr. řádu je ve věci místně příslušný Městský soud v Brně, neboť k jednání obviněného, tedy k uzavření a podpisu předmětné smlouvy o obchodním zastoupení, ze které se odvíjí veškeré vzniklé závazky, mělo dojít v B., kde měl i nastat v sídle poškozené společnosti T., a. s. škodlivý následek.
+Nejvyšší soud zhodnotil důkazy použitelné k rozhodnutí podle § 24 tr. řádu a dospěl k tomuto závěru.
+Podle ustanovení § 18 odst. 1 tr. řádu koná řízení soud, v jehož obvodu byl trestný čin spáchán. Vzhledem k tomu, že v posuzované věci mělo k žalovanému jednání obviněného JUDr. J. H., tedy k uzavření smlouvy o obchodním zastoupení, dojít v sídle společnosti T., a. s. v B., a na stejném místě měl nastat i škodlivý následek jednání obviněného, je místně příslušným soudem k projednání věci Městský soud v Brně, v jehož obvodu se nachází sídlo poškozené společnosti.
+Za tohoto stavu je názor vyslovený v usnesení Obvodního soudu pro Prahu 1 správný, a proto bylo rozhodnuto, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 31. března 2004
+Předseda senátu :
+JUDr. Pavel Kučera
