@@ -1,0 +1,20 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+20 Cdo 526/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci výkonu rozhodnutí oprávněného VÚS, s. r. o, proti povinnému Ing. J. F., vyklizením, vedené u Okresního soudu v Šumperku pod sp. zn. E 345/99, o dovolání oprávněného proti usnesení Krajského soudu v Ostravě - pobočky v Olomouci ze dne 31. 5. 2001, č.j. 40 Co 1286/2000-41, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+V záhlaví uvedeným rozhodnutím krajský soud v odvoláním napadeném rozsahu změnil usnesení ze dne 22. 12. 1999, č.j. E 345/99-31, kterým Okresní soud v Šumperku (současně s nařízením výkonu svého rozsudku ze dne 18. 3. 1998, sp. zn. 15 C 41/97) nařídil provedení vyklizení (přestěhování povinného a všech, kdo s ním bydlí na základě jeho práva z vyklizovaného bytu do označeného náhradního bytu), tak, že o provedení výkonu bude rozhodnuto dodatečně.
+Rozhodnutí odvolacího soudu napadl oprávněný (zastoupen advokátem) dovoláním, jímž zpochybnil závěr, že zajištěný byt neodpovídá té náhradě (přiměřenému náhradnímu bytu), na kterou má povinný na základě exekučního titulu právo.
+Podle části dvanácté, hlavy I, bodu 17. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, se dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů projednají a rozhodnou podle dosavadních právních předpisů (tj. podle občanského soudního řádu ve znění účinném do 31. 12. 2000, dále též jen „o.s.ř.“). O takový případ v souzené věci jde, jelikož odvolací soud – ač rozhodoval po 1. 1. 2001 – odvolání proti usnesení soudu prvního stupně vydanému dne 22. 12. 1999 projednal a rozhodl o něm podle dosavadních právních předpisů (srov. část dvanáctou, hlavu I, bod 15. zákona č. 30/2000 S.).
+Dovolání je opožděné.
+V usnesení ze dne 19. 4. 2001, sp. zn. 29 Odo 196/2001, uveřejněném ve Sbírce soudních rozhodnutí a stanovisek 10/2001 pod č. 70, Nejvyšší soud vysvětlil, že projednáním a rozhodnutím dovolání podle dosavadních právních předpisů ve smyslu bodu 17. hlavy I části dvanácté zákona č. 30/2000 Sb. se rozumí nejen posuzování podmínek řízení, procesního nástupnictví formou singulární sukcese, zkoumání přípustnosti dovolání nebo vymezení náležitostí písemného vyhotovení rozhodnutí, nýbrž i posuzování včasnosti dovolání, včetně určení běhu lhůty k jeho podání.
+Účastník může podat dovolání do jednoho měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni, popřípadě u odvolacího nebo dovolacího soudu (§ 240 odst. 1, věta první, odst. 2, věta druhá, o.s.ř.). Dovolací lhůta jednoho měsíce je lhůtou procesní a zákonnou, jejíž zmeškání nelze prominout (§ 240 odst. 2, věta první, o.s.ř.).
+V projednávané věci byl stejnopis písemného vyhotovení usnesení odvolacího soudu, který poučení o mimořádném opravném prostředku (dovolání) neobsahoval (§ 169 odst. 1 o.s.ř.), prostřednictvím pošty doručen zmocněnci oprávněného a povinnému dne 23. 11. 2001 a tentýž den nabylo usnesení právní moci (§ 159 odst. 1, § 167 odst. 2, § 211 o.s.ř.). Z toho vyplývá, že posledním dnem jednoměsíční lhůty k podání dovolání byl čtvrtek 27. 12. 2001 (srov. § 57 odst. 2, 3 o.s.ř.).
+Bylo-li dovolání proti rozhodnutí odvolacího soudu podáno osobně u soudu prvního stupně až 25. 1. 2002, stalo se tak zjevně po uplynutí zákonné lhůty (po uplynutí této lhůty bylo ostatně též vyhotoveno /je datováno 24. 1. 2002/). Nejvyšší soud proto dovolání – bez jednání (§ 243a odst. 1 o.s.ř.) – podle ustanovení § 243b odst. 4, věty první, a § 218 odst. 1 písm. a/ o.s.ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 4, větu první, § 224 odst. 1 a § 146 odst. 2, větu první (per analogiam) o.s.ř. (povinnému v tomto stadiu řízení náklady nevznikly a oprávněný, jehož dovolání bylo odmítnuto, na jejich náhradu nemá právo).
+V Brně dne 28. ledna 2004
+JUDr. Pavel Krbek, v.r.
+předseda senátu
