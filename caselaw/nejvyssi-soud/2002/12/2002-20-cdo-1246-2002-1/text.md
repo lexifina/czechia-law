@@ -1,0 +1,21 @@
+20 Cdo 1246/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Vladimíra Mikuška a soudců JUDr. Pavla Krbka a JUDr. Vladimíra Kurky ve věci výkonu rozhodnutí oprávněného P. S., zastoupeného advokátem, proti povinné J. J., pro 320,30 Kč, přikázáním pohledávky z účtu u peněžního ústavu, vedené u Okresního soudu v Chrudimi pod sp. zn. E 422/2001, o dovolání oprávněného proti usnesení Krajského soudu v Hradci Králové ze dne 11. prosince 2001, č. j. 24 Co 335/2001-25, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Shora označeným rozhodnutím krajský soud změnil usnesení z 23. dubna 2001, č. j. E 422/2001-9, (jímž okresní soud nařídil exekuci svého platebního rozkazu ze 4. června 1996, č. j. Ro 381/96-5 přikázáním pohledávky z účtu u peněžního ústavu k vydobytí pohledávky oprávněného ve výši 320,30 Kč, nákladů nařízeného výkonu rozhodnutí ve výši 1.400,- Kč a nákladů předcházejícího /nalézacího/ řízení ve výši 500,- Kč) tak, že návrh na nařízení výkonu rozhodnutí pro náklady exekuce ve výši 1.400,- Kč (poté, co výkon rozhodnutí pro samotnou pohledávku byl v mezidobí pravomocně zastaven) zamítl s odůvodněním, že oprávněný neprokázal způsobem předepsaným v ustanovení § 256 odst. 2 o.s.ř., že na něj přešlo uplatněné právo. O nákladech řízení před soudy obou stupňů rozhodl tak, že žádný z účastníků nemá právo na jejich náhradu.
+Pravomocné usnesení odvolacího soudu napadl oprávněný, zastoupen advokátem, včasným dovoláním, jímž namítá dovolací důvody podle ustanovení § 241a odst. 2 písm. a) a odst. 3 občanského soudního řádu v platném znění (dále též jen „o.s.ř.“). Tzv. jinou vadu řízení, která mohla mít za následek nesprávné rozhodnutí ve věci, spatřuje v tom, že krajský soud – přestože jej okresní soud o procesní povinnosti předložit listinu způsobilou prokázat přechod práva podle § 256 odst. 2 o.s.ř. nepoučil – návrh na nařízení výkonu rozhodnutí právě pro nedostatek takového průkazu zamítl.
+Jelikož rozhodnutí soudů obou stupňů byla vydána po 1. lednu 2001, uplatní se pro dovolací řízení - v souladu s body 1., 15. a 17., hlavy první, části dvanácté, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony - občanský soudní řád ve znění účinném od 1. ledna 2001.
+Dovolání není přípustné (na čemž nic nemůže změnit nesprávné poučení připojené v závěru napadeného usnesení).
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Dovolání proti výroku usnesení odvolacího soudu o nákladech řízení není podle právní úpravy přípustnosti dovolání v občanském soudním řádu účinné od 1. ledna 2001 přípustné, a to bez zřetele k povaze takového výroku – tedy bez ohledu na to, zda jde o měnící nebo potvrzující rozhodnutí o nákladech řízení (před soudem prvního stupně) či o rozhodnutí o nákladech řízení odvolacího (jež není rozhodnutím měnícím ani potvrzujícím) - viz. k tomu usnesení Nejvyššího soudu ze dne 31. ledna 2002, č.j. 29 Odo 874/2001, uveřejněné v časopise Soudní judikatura č. 5, pod poř. č. 88, ročník 2002.
+Přípustnost dovolání proti usnesení upravují ustanovení § 237 až § 239 o. s. ř.
+Ustanovení § 238, § 238a a § 239 o. s. ř. nezakládají přípustnost dovolání proto, že rozhodnutí o nákladech řízení v jejich taxativních výčtech uvedeno není.
+Dovolání není přípustné ani podle § 237 odst. 1 o. s. ř., neboť usnesení o nákladech řízení (byť se nařízení exekuce vztahuje podle § 270 odst. 1 o. s. ř. i na ně) není rozhodnutím ve věci samé.
+Nejvyšší soud proto, aniž ve věci nařizoval jednání (§ 243a odst. 1, věta první, o. s. ř.), dovolání odmítl (§ 243b odst. 5, § 218 odst. 1 písm. c/ o. s. ř.).
+Oprávněný z procesního hlediska zavinil, že dovolání bylo odmítnuto, povinné prokazatelné náklady tohoto řízení (podle obsahu spisu) nevznikly; této procesní situaci odpovídá ve smyslu ustanovení § 146 odst. 3, § 224 odst. 1 a § 243b odst. 5 o. s. ř. výrok o tom, že na náhradu nákladů tohoto řízení nemá právo žádný z účastníků.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 3. prosince 2002
+JUDr. Vladimír Mikušek, v.r.
+předseda senátu
