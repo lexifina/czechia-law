@@ -1,0 +1,16 @@
+22 Cdo 2016/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy Víta Jakšiče a soudců JUDr. Marie Rezkové a JUDr. Františka Baláka ve věci žalobce R.-E. B., s. r. o., zastoupeného advokátem, proti žalovanému J. B., zastoupenému advokátem, o vydání věci a náhradu škody, vedené u Okresního soudu v Blansku pod sp. zn. 7 C 905/98, o dovolání žalobce proti rozsudku Krajského soudu v Brně ze dne 18. listopadu 2002, č. j. 44 Co 541/99-46, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soudu v Blansku (dále jen „soud prvního stupně“) rozsudkem ze dne 31. května 1999, č. j. 7 C 905/98-26, uložil žalovanému povinnost „vydat žalobci vysokozdvižný vozík DVHM 3222 TM včetně příslušenství, červené barvy, výrobní číslo 1003, do 3 dnů od právní moci tohoto rozsudku“ (výrok II.), zamítl žalobu „na stanovení povinnosti žalovanému zaplatit žalobci náhradu škody ve výši 140.172,50 Kč společně s 20% úrokem z prodlení z částky 97.042,50 Kč za dobu od 24. 11. 1988 do zaplacení“ (výrok III.) a rozhodl o nákladech řízení (výrok IV.). Výrokem označeným I. nepřipustil změnu žaloby v podobě jejího rozšíření o částku 21.565,- Kč.
+K odvolání obou účastníků Krajský soud v Brně jako soud odvolací rozsudkem ze dne 18. listopadu 2002, č. j. 44 Co 541/99-46, potvrdil rozsudek soudu prvního stupně ve výroku III., ve výroku II. jej změnil tak, že se žaloba na vydání sporného vozíku zamítá, a rozhodl o nákladech řízení před soudy obou stupňů.
+Proti tomuto rozsudku podal žalobce dovolání, které je však opožděné.
+Rozsudek soudu prvního stupně byl vydán 31. 5. 1999, a tak odvolací soud (i když to v jeho rozsudku není výslovně uvedeno) v souladu s částí dvanáctou, hlavou I, bodem 15. zákona č. 30/2000 Sb. projednal odvolání účastníků a rozhodl o nich podle občanského soudního řádu ve znění před 1. 1. 2001, tedy před novelou provedenou zmíněným zákonem. Proto i dovolací soud podle bodu 17. téhož ustanovení v řízení o dovolání žalobce postupoval podle občanského soudního řádu ve znění do 31. 12. 2000 (dále jen „OSŘ“).
+Podle § 240 odst. 1 OSŘ může účastník podat dovolání do jednoho měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. V daném případě nabyl napadený rozsudek odvolacího soudu právní moci dne 7. února 2003, ovšem dovolání žalobce bylo podáno osobně v podatelně soudu prvního stupně až dne 1. dubna 2003. Z toho je zcela zřejmé, že jednoměsíční lhůta pro podání dovolání nebyla dodržena. Za této situace nezbylo dovolacímu soudu, než podle § 243b odst. 4 a § 218 odst. 1 písm. a) OSŘ dovolání žalobce jako opožděné odmítnout.
+O nákladech dovolacího řízení bylo rozhodnuto s přihlédnutím k tomu, že žalovanému, který by podle § 243b odst. 4, § 224 odst. 1, § 151 odst. 1 a § 142 odst. 1 OSŘ měl právo na jejich náhradu, v tomto řízení žádné účelně vynaložené náklady nevznikly. Náklady související s vyjádřením advokáta k podanému dovolání totiž nelze za účelné považovat, když vyjádření polemizuje s věcnými argumenty dovolatele a nezabývá se otázkou jeho včasnosti, která byla pro rozhodnutí dovolacího soudu zásadní.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 4. února 2004
+Vít Jakšič,v.r.
+předseda senátu
