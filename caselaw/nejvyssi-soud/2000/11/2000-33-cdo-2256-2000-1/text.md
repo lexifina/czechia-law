@@ -1,0 +1,22 @@
+33 Cdo 2256/2000
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce B. G., proti žalovanému V. D., o 5.150 Kč s příslušenstvím, vedené u Okresního soudu Plzeň - sever pod sp. zn. Ro 314/2000, o dovolání žalobce proti usnesení Krajského soudu v Plzni ze dne 24. května 2000 č. j. 13 Co 469/2000 - 5, takto:
+I. Dovolání se zamítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud Plzeň - sever usnesením ze dne 28. 3. 2000 č. j. Ro 314/2000 - 2 vyzval žalobce, aby podaný návrh na zahájení řízení doplnil ve lhůtě 14 dnů od doručení vylíčením rozhodných skutečností, které doloží důkazy, a upřesní žalobní petit. Současně byl žalobce poučen, že nebude-li jeho podání v uvedené lhůtě doplněno a nelze-li pro tento nedostatek pokračovat v řízení, soud řízení podle § 43 odst. 2 o. s. ř. zastaví. Zároveň byl žalobce poučen o nepřípustnosti odvolání proti tomuto usnesení.
+Odvolání žalobce proti tomuto usnesení bylo usnesením Krajského soudu v Plzni ze dne 26. 5. 2000 č. j. 13 Co 469/2000 - 5 odmítnuto, neboť není podle ustanovení § 202 odst. 2 písm. d) o. s. ř. přípustné.
+Proti usnesení podal žalobce dovolání z důvodu podle § 237 odst. 1 písm. f) a § 241 odst. 3 písm. a) o. s. ř., ve kterém namítá, že jeho návrh na zahájení řízení má všechny náležitosti podle § 42 odst. 4 a § 79 odst. 1 o. s. ř., a že mu tímto nesprávným postupem soudu je odnímána možnost jednat před soudem. Navrhuje zrušení usnesení soudů obou stupňů.
+Nejvyšší soud jako soud dovolací (§ 10a o. s. ř.) po zjištění, že dovolání bylo podáno včas a že je podle § 238a odst. 1 písm. e) o. s. ř. přípustné, přezkoumal napadené rozhodnutí a dospěl k závěru, že dovolání není opodstatněné.
+Podle § 218 odst. 1 písm. c) o. s. ř. odvolací soud odmítne odvolání, které směřuje proti rozhodnutí, proti němuž není přípustné.
+Podle § 202 odst. 2 písm. d) o. s. ř. odvolání není přípustné proti usnesení, jímž bylo vráceno podání k opravě.
+Jak vyplývá z obsahu spisu, byl žalobce usnesením soudu prvního stupně vyzván, aby doplnil své podání - návrh na zahájení řízení. Jednalo se o výzvu soudu k doplnění či opravě podání ve smyslu ustanovení § 43 o. s. ř., která obsahovala i správné poučení o nepřípustnosti odvolání proti usnesení soudu prvního stupně. Žalobce se přesto proti tomuto usnesení odvolal. Protože odvolání proti takovému usnesení není podle § 202 odst. 2 písm. d) o. s. ř. přípustné, postupoval odvolací soud zcela správně, když odvolání jako nepřípustné podle ust. § 218 odst. 1 písm. c) o. s. ř. odmítl.
+Dovolatel namítá, že v důsledku tohoto postupu je řízení postiženo vadou uvedenou v ustanovení § 237 odst. 1 písm. f) o. s. ř. Citované ustanovení spojuje zmatečnost řízení se skutečností, že účastníku řízení byla v průběhu řízení nesprávným postupem soudu odňata možnost jednat před soudem. O takovou situaci se jedná, jestliže soud postupoval v řízení tak, že znemožnil účastníku řízení realizaci těch procesních práv, která mu občanský soudní řád dává. Existence uvedené vady předpokládá, že byla způsobena nesprávným postupem soudu. Jak bylo shora uvedeno, tento předpoklad splněn nebyl, neboť odvolací soud neužil ust. § 218 odst. 1 o. s. ř. chybně. V rozhodnutí odvolacího soudu o odmítnutí odvolání tedy nelze spatřovat odnětí možnosti jednat před soudem (§ 237 odst. 1 písm. f/ o. s. ř.), a tím že soud prvního stupně vyzval žalobce podle § 43 o. s. ř. k doplnění návrhu na zahájení řízení, mu žádná újma na jeho procesních právech nebyla způsobena.
+Dovolací důvod podle § 237pdst. 1 písm. f) o. s. ř. tedy není dán. Jiné vady řízení vyjmenované v ustanovení § 237 odst. 1 o. s. ř., k nimž dovolací soud přihlíží z úřední povinnosti (§ 242 odst. 3 o. s. ř.), nebyly dovolatelem tvrzeny a ani z obsahu spisu nevyplývají.
+Z uvedeného vyplývá, že dovolání proti usnesení odvolacího soudu není důvodné. Nejvyšší soud proto dovolání žalobce podle § 243b odst. 1 část věty před středníkem a odst. 5 o. s. ř. usnesením zamítl.
+O náhradě nákladů odvolacího řízení bylo rozhodnuto podle § 243b odst. 4 věty první, § 224 odst. 1 a § 151 odst. 1 věty první o. s. ř., neboť žalobce s ohledem na výsledek dovolacího řízení nemá na náhradu nákladů řízení právo a žalovanému v dovolacím řízení žádné náklady nevznikly (§ 142 odst. 1 o. s. ř.).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 30. listopadu 2000
+JUDr. Kateřina H o r n o c h o v á , v.r.
+předsedkyně senátu
+Za správnost vyhotovení: Ivana Navrátilová
