@@ -1,0 +1,15 @@
+28 Cdo 912/2001
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci navrhovatele S. K., proti odpůrci Okresnímu úřadu – pozemkovému úřadu v M. B., za účasti 1. P. f. ČR, v řízení o opravném prostředku navrhovatele proti rozhodnutí odpůrce ze dne 8.1.2001, čj. 7036-RPÚ 755/92/Bš 2001, o dovolání navrhovatele proti rozsudku Krajského soudu v Praze ze dne 13.3.2001, čj. 44 Ca 5/2001-15, takto:
+I. Řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Rozsudkem ze dne 13.3.2001, čj. 44 Ca 5/92001-15, rozhodl Krajský soud v Praze o opravném prostředku navrhovatele proti rozhodnutí Okresního úřadu, pozemkového úřadu v M. B. ze dne 8.1.2001, čj. 7036-RPÚ 755/92/Bš 2001, a to v řízení podle ustanovení § 9 zákona č. 229/1991 Sb., o úpravě vlastnických vztahů k půdě a jinému zemědělskému majetku, ve znění pozdějších předpisů.
+Rozsudek Krajského soudu v Praze napadl navrhovatel podáním ze dne 25.4.2001, označeným jako opravný prostředek proti rozsudku Krajského soudu v Praze 5, adresovaným Nejvyššímu soudu České republiky. V něm navrhovatel žádá „povolit výjimku a uznat platnost mojí žádosti po restituční lhůtě a nařídit převedení náhradního pozemku č.p. 715 z vložky č. 455 Obecního úřadu ve V. na vložku č. 53 panu S. K., obec V. v katastrálním území V.„. Dalším podáním ze dne 15.5.2001, adresovaným Krajskému soudu v Praze, navrhovatel upřesnil, že proti shora uvedenému rozsudku podává dovolání, a žádá o jeho předložení, včetně příloh, k Nejvyššímu soudu České republiky.
+Dovolací soud však neshledal možnost opravný prostředek navrhovatele projednat. Nejvyšší soud rozhoduje v občanském soudním řízení o mimořádném opravném prostředku – dovolání - proti pravomocným rozhodnutím odvolacího soudu ( srov. § 236 odst. 1 o.s.ř.), v řízení podle části třetí a čtvrté občanského soudního řádu (o.s.ř.). Správní soudnictví podle části páté o.s.ř. je ( s výjimkami uvedenými v § 250s odst.- 2. o.s.ř., kde rozhoduje v prvním stupni krajský soud, ) řízením jednostupňovým. Soud, který rozhoduje ve věcech správního soudnictví, není ani soudem prvního stupně, ani soudem odvolacím.
+Rozhodnutí Krajského soudu v Praze v dané věci není tedy rozhodnutím odvolacího soudu; již proto je jeho přezkum Nejvyšším soudem vyloučen. Občanský soudní řád neupravuje funkční příslušnost soudu pro projednání opravného prostředku podaného proti takovému rozhodnutí. Nedostatek funkční příslušnosti je neodstranitelným nedostatkem podmínky řízení. Nejvyšší soud proto řízení, které touto vadou trpí, zastavil (§ 104 odst. 1 o.s.ř.)
+Navrhovatel z procesního hlediska zavinil, že řízení muselo být zastaveno, ostatním účastníkům však prokazatelné náklady tohoto řízení nevznikly. Této procesní situaci odpovídá výrok o tom, že na náhradu nákladů řízení nemá žádný účastníků právo ( § 146 odst. 2 o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 11. července 2001
+JUDr. Ema B a r e š o v á , v.r.
+předsedkyně senátu
