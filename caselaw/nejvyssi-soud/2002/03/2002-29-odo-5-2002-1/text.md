@@ -1,0 +1,23 @@
+29 Odo 5/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobkyně J.- s. d. N. Z., proti žalovanému R. B., o zaplacení 67.763,50 Sk, vedené u Městského soudu v Praze pod sp. zn. 46 Cm 147/96, o dovolání žalobce proti rozsudku Vrchního soudu v Praze ze dne 7. června 2001, čj. 8 Cmo 402/2000 – 70, takto:
+I. Dovolání se odmítá.
+II. Žalobce je povinen uhradit žalovanému náklady dovolacího řízení ve výši 3.120,- Kč, do 3 dnů od právní moci tohoto rozhodnutí do rukou advokáta žalovaného.
+O d ů v o d n ě n í :
+Rozsudkem ze dne 7. června 2001 čj. 8 Cmo 402/2000 – 70, Vrchní soud v Praze potvrdil rozsudek Krajského obchodního soudu Praze, ze dne 15. května 2000, čj. 46 Cm 147/96-50.
+Proti rozsudku odvolacího soudu podal žalobce (podáním datovaným 13. 9. 2001) dovolání, které podal k poštovní přepravě dne 14. 9. 2001. V dovolání navrhuje zrušit rozsudek odvolacího soudu a vrátit věc k dalšímu řízení. Rozhodnutí podle jeho názoru spočívá na nesprávném právním posouzení věci podle ust. § 241a odst. 2 písm. b) zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů (dále též jen „o. s. ř.“). Dále navrhuje odložení vykonatelnosti napadeného rozhodnutí.
+Žalovaný se prostřednictvím svého právního zástupce vyjádřil k dovolání s tím, že je navrhuje odmítnout.
+Podle bodu 17., hlavy první, části dvanácté, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů, se projednají a rozhodnou podle dosavadních právních předpisů (to jest podle občanského soudního řádu ve znění účinném před 1. lednem 2001).
+Projednáním dovolání a rozhodnutím o něm podle dosavadních právních předpisů ve smyslu části dvanácté, hlavy I, bodu 17. zákona č. 30/2000 Sb. se rozumí nejen např. posuzování podmínek řízení, jakož i vymezení náležitostí písemného vyhotovení rozhodnutí (včetně toho, že v záhlaví usnesení se neuvádí složení senátu); podle dosavadních právních předpisů soud zkoumá (jako součást procesu projednání a rozhodnutí o dovolání) též včasnost dovolání, včetně vymezení běhu lhůty k jeho podání (shodný závěr formuloval Nejvyšší soud např. v usnesení uveřejněné pod číslem 70/2001 Sbírky soudních rozhodnutí a stanovisek a Ústavní soud České republiky v usneseních ze dne 2. ledna 2002, sp. zn. I. ÚS 660/01 a ze dne 24. ledna 2002, sp. zn. IV. ÚS 560/01).
+Přestože napadené rozhodnutí bylo vydáno 7. června 2001, Nejvyšší soud je (ve shodě s výše uvedeným) povinen projednat i dovolání v této věci a rozhodnout o něm podle občanského soudního řádu, ve znění účinném před novelizací provedenou zákonem č. 30/2000 Sb., tj. ve znění účinném do dne 31. prosince 2000.
+Podle § 240 odst. 1 o. s. ř. účastník může podat dovolání do jednoho měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Zmeškání lhůty k podání dovolání nelze prominout, lhůta je však zachována, bude-li dovolání podáno ve lhůtě u odvolacího nebo dovolacího soudu (§ 240 odst. 2 o. s. ř.).
+Rozsudek odvolacího soudu byl doručen zástupci žalobce (§ 48 odst. 1 věta první o. s. ř.) dne 18. 7. 2001 (č. l. 72); rozhodnutí nabylo právní moci dne 19.7.2001.
+Ve smyslu ustanovení § 57 odst. 2 o. s. ř. byl posledním dnem jednoměsíční lhůty k podání dovolání den 20. 8. 2001 (pondělí). Dovolání podané žalobcem na poštu až dne 14. 9. 2001 (č. l. 78) je tedy opožděné.
+Nejvyšší soud proto podle § 243b odst. 4 a § 218 odst. 1 písm. a/ o. s. ř. opožděné dovolání odmítl.
+Pro odložení vykonatelnosti podle ust. § 243 o. s. ř. nebyl shledán důvod.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením ust. § 146 odst. 2 věta první v návaznosti na § 224 odst. 1 a § 243b odst. 4 o. s. ř. Žalobce procesně zavinil, že dovolání muselo být odmítnuto a je povinen nahradit žalovanému náklady právního zastoupení. Náklady žalovaného sestávají z odměny advokáta za zastupování před soudem v jednom stupni (vyjádření k dovolání) ve výši 3.045,- Kč (výše odměny je určena podle ustanovení § 3 odst. 1 bod. 5, § 3 odst. 6, § 14 odst. 1, § 15 a § 18 odst. 1 vyhlášky č. 484/2000 Sb.) a jedné náhrady paušálních výdajů po 75,- Kč (dle vyhlášky č. 177/1996 Sb.), celkem tedy 3.120,- Kč.
+Proti tomuto usnesení není přípustný opravný prostředek.
+Nesplní-li povinný svou povinnost podle tohoto usnesení, může se oprávněný domáhat soudního výkonu rozhodnutí.
+V Brně 28. března 2002
+JUDr. František F a l d y n a, CSc., v.r.
+předseda senátu
