@@ -1,0 +1,23 @@
+33 Odo 718/2001-32
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci žalobců A) JUDr. F. V. a B) N.V., proti žalovanému V. – o.d.Z., o zaplacení částky 77 068, 29 Kč s příslušenstvím, vedené u Okresního soudu v Benešově pod sp. zn. 6 C 203/2000, o dovolání žalobce A) proti usnesení Krajského soudu v Praze ze dne 30. června 2000 č. j. 25 Co 313/2000-19, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Benešově usnesením ze dne 10. dubna 2000 č. j. 6 C 203/2000-11 podle § 9 odst. 2 zákona č. 549/1991 Sb., o soudních poplatcích, pro nezaplacení soudního poplatku zastavil řízení, ve kterém se žalobci domáhali na žalovaném, aby jim zaplatil sdruženou restituční pohledávku – majetkový podíl v družstvu ve výši 77 068, 29 Kč s úroky z prodlení od 25. 9. 1999 do zaplacení, a rozhodl o náhradě nákladů řízení.
+K odvolání žalobců Krajský soud v Praze usnesením ze dne 30. června 2000 č. j. 25 Co 313/2000-19 usnesení soudu prvního stupně potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Proti usnesení odvolacího soudu podal žalobce A) dovolání, jehož přípustnost spatřuje v naplnění podmínek ustanovení § 237 odst. 1 písm. f) o. s. ř., neboť mu byla v průběhu řízení nesprávným postupem soudu odňata možnost jednat před soudem. Dovolatel namítá, že odvolací soud i soud prvního stupně nesprávně dovodili, že žalobci jsou povinni platit soudní poplatek z návrhu na zahájení řízení. Podle názoru žalobce A) je však daná věc ze zákona od placení soudního poplatku osvobozena. Žalobce A) navrhl, aby dovolací soud zrušil usnesení odvolacího soudu a nařídil soudu prvního stupně, aby pokračoval v řízení.
+Podle ustanovení části dvanácté hlavy I bodu 17 zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, se dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona (1. 1. 2001) nebo vydaným po řízení provedeném podle dosavadních právních předpisů projednají a rozhodnou podle dosavadních právních předpisů (tedy podle občanského soudního řádu ve znění platném do 31. 12. 2000 – dále jen „o. s. ř.“).
+Dovolání v dané věci není přípustné.
+Podle § 236 odst. l o. s. ř. je dovolání přípustné proti každému rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Podle § 237 odst. l o. s. ř. je dovolání přípustné proti každému rozhodnutí (s výjimkou rozhodnutí uvedených v odstavci 2), pokud v řízení došlo k vadám v tomto ustanovení vyjmenovaným.
+Dovolatel namítá vadu podle § 237 odst. l písm. f) o. s. ř., která je dána, jestliže nesprávným postupem soudu v průběhu řízení byla účastníkovi odňata možnost jednat před soudem. Odnětím možnosti jednat před soudem se rozumí postup soudu, jímž znemožnil účastníku v řízení realizaci procesních práv, která mu občanský soudní řád dává. O vadu, která je z hlediska § 237 odst. l písm. f) o. s. ř. významná, se přitom jedná jen tehdy, jestliže šlo o postup nesprávný a jestliže se postup soudu projevil v průběhu řízení a nikoli také při rozhodování. Rozhodne-li soud nesprávně, případné vady při samotném rozhodování mohou být v dovolacím řízení přezkoumány jen tehdy, je-li dovolání proti usnesení přípustné podle § 238a nebo § 239 o. s. ř.
+Pokud tedy žalovaný vytýká odvolacímu soudu nesprávnou aplikaci právního předpisu – zákona o soudních poplatcích a v důsledku toho nesprávné rozhodnutí o zastavení řízení, nejde o nesprávný postup soudu ve smyslu § 237 odst. l písm. f) o. s. ř., ale žalovaný namítá nesprávnost rozhodnutí, přičemž uplatňuje dovolací důvod podle § 241 odst. 3 písm. d) o. s. ř., tj. nesprávné právní posouzení věci.
+V řízení tak nedošlo k vadě podle § 237 odst. l písm. f) o. s. ř., ani k jiné z vad uvedeným v § 237 odst. l o. s. ř.
+Přípustnost dovolání proti potvrzujícímu usnesení odvolacího soudu o zastavení řízení pro nezaplacení soudního poplatku nevyplývá ani z § 238a o. s. ř. (mezi taxativně vyjmenovanými usneseními není uvedeno) a § 239 odst. l, 2 o. s. ř. (už jen proto, že nejde o usnesení ve věci samé).
+Dovolání bylo proto jako nepřípustné odmítnuto [§ 243b odst. 4, § 218 odst. l písm. c) o. s. ř.], aniž se dovolací soud věcí mohl zabývat z hlediska dovolacího důvodu podle § 241 odst. 3 písm. d) o. s. ř.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 4, § 224 odst. 1, § 151 odst. 1 a § 142 odst. 1 o. s. ř., když úspěšnému žalovanému žádné náklady dovolacího řízení nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 30. října 2001
+JUDr. Zdeněk D e s. v. r.
+předseda senátu
