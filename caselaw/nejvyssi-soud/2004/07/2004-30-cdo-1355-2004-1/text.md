@@ -1,0 +1,43 @@
+30 Cdo 1355/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci S. M., zastoupeného advokátem, o vyslovení přípustnosti převzetí do ústavu – Psychiatrické léčebny ve Š., o dovolání umístěného proti usnesení Krajského soudu v Ostravě – pobočky v Olomouci ze dne 29. února 2000, č.j. 12 Co 79/2000-58, takto:
+Dovolání umístěného se odmítá.
+O d ů v o d n ě n í :
+Krajský soud v Ostravě – pobočka v Olomouci usnesením v záhlaví označeným k odvolání umístěného potvrdil usnesení Okresního soudu v Olomouci ze dne 13. října 1999, č.j. L 255/99-28, kterým bylo určeno znalečné znalce MUDr. J. R., částkou 1.250,- Kč.
+Umístěný v podaném dovolání, jež opírá o § 237 odst. 1 písm. c) a f), § 238
+odst. 1 písm. c), § 239 odst. 2 a § 241 odst. 3 písm. a), b), c), d) o.s.ř., namítá, že neobdržel usnesení Okresního soudu v Olomouci č.j. L 255/93-3 a L 255/99-4,
+a usnesení téhož soudu č.j. 255/99-7, 9 ze dne 30.7.1999 obdržel až 10.12.1999.
+Při jednání okresního soudu dne 13.10.1999 nebyly požadovány žádné doklady
+o totožnosti účastníků, nebyla přítomna opatrovnice R. S. ani soudní znalec či lékař léčebny ze Š. Od počátku mu bylo odpíráno právo na advokáta
+a ustanovená opatrovnice s ním nevešla do styku. Všechna rozhodnutí soudů
+se uskutečnila v neveřejném řízení bez přítomnosti žalobce, takže se k nim nemohl vyjádřit. Odvolací soud se nezabýval opakovaným držením žalobce v Psychiatrické léčebně ve Š. od 14.6.2000 do 15.3.2002 a ve svých rozhodnutích nereagoval na řadu jeho dalších poukazů a připomínek. Navrhuje zrušení napadeného rozhodnutí odvolacího soudu pro uvedené vady řízení.
+Při posuzování tohoto dovolání vycházel dovolací soud z ustanovení části dvanácté, hlavy první, bodu 17 zákona č. 30/2000 Sb., jímž byl změněn a doplněn občanský soudní řád (zákon č. 99/1963 Sb.), podle něhož dovolání proti rozhodnutím odvolacího soudu, vydaným přede dnem účinnosti tohoto zákona nebo vydaným
+po řízení provedeném podle dosavadních právních předpisů, se projednají a rozhodne se o nich podle dosavadních právních předpisů, tj. podle občanského soudního řádu
+ve znění před novelizací zákonem č. 30/2000 Sb.
+Dovolání bylo podáno včas, osobou oprávněnou – účastníkem řízení (§ 240 odst. 1 o.s.ř.) – řádně zastoupeným advokátem proti pravomocnému usnesení odvolacího soudu.
+Nejvyšší soud České republiky, který jako soud dovolací (§ 10a o. s. ř.) věc projednal bez jednání (§ 243a odst. 1, věta první, o. s. ř.) dospěl k závěru, že dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný.
+Dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští (§ 236 odst. 1 o. s. ř.). V případech dovolání proti usnesení odvolacího soudu upravuje občanský soudní řád jeho přípustnost v ustanoveních § 237, § 238a
+a § 239 o.s.ř.
+Přípustnost dovolání proti potvrzujícímu usnesení odvolacího soudu je upraveno pouze v ustanovení § 238a odst. 1 písm. d) o.s.ř., a to tak, že dovolání je přípustné proti usnesení odvolacího soudu, jímž bylo odvolacím soudem potvrzeno usnesení soudu prvního stupně, jímž bylo řízení zastaveno pro nedostatek pravomoci soudu. O takový případ se však v projednávané věci nejedná. Ostatní případy přípustnosti dovolání stanovené v § 238a odst. 1 písm. a) až c) a e) a f) o.s.ř. nepřicházejí v úvahu, neboť jsou spojeny s jinými formami rozhodnutí odvolacího soudu, než je potvrzení usnesení soudu prvního stupně. Rovněž nepřichází v úvahu přípustnost dovolání podle ustanovení § 239 o.s.ř. již proto, že dovoláním napadené usnesení odvolacího soudu není usnesením
+ve věci samé.
+Přípustnost dovolání by tak mohla být založena pouze v případě, kdyby byla zjištěna některá z vad uvedených v ustanovení § 237 odst. 1 o.s.ř., a to ať již na straně soudu [písm. a), g)], na straně účastníků [písmeno b), c)], nebo se týkala předmětu řízení [písm. d)], návrhu na zahájení řízení [písm. e)], nebo kdyby byla účastníkovi v průběhu řízení nesprávným postupem soudu odňata možnost jednat před soudem [písm. f)], jímž by rozhodnutí odvolacího soudu bylo postiženo. Přípustnost dovolání (bez zřetele k tomu, zda účastník v dovolání tyto vady vytýká) je tu však založena teprve zjištěním, že řízení takovou vadou skutečně trpí.
+Protože jiné vady řízení podle § 237 odst. 1 o.s.ř. tvrzeny nebyly a ani z obsahu spisu nevyplývají, je pro závěr o přípustnosti (a současné důvodnosti) dovolání rozhodující, zda řízení trpí vadami, na něž poukazuje dovolatel.
+Podle § 237 odst. 1 písm. c) o.s.ř. dovolání je přípustné proti rozhodnutí odvolacího soudu, jestliže účastník řízení neměl procesní způsobilost a nebyl řádně zastoupen.
+Procesní způsobilostí se rozumí způsobilost vykonávat v řízení práva
+a povinnosti účastníka řízení samostatně nebo prostřednictvím zvoleného zástupce. Procesní způsobilost fyzické osoby, nejde-li o pracovněprávní vztahy, vzniká v plném rozsahu zletilostí, tj. dovršením 18 roku věku, a před dosažením tohoto věku uzavřením manželství. Procení způsobilost nemají osoby zbavené způsobilosti k právním úkonům (§ 20 o.s.ř., § 10 odst. 1 obč. zák.).
+Podle § 191b odst. 2 o.s.ř. nemá-li ten, kdo byl ústavem převzat, jiného zástupce, ustanoví mu soud pro toto řízení opatrovníka.
+O takový případ jde i v projednávané věci, kde byla usnesením Okresního soudu v Olomouci ze dne 29. července 1999, č.j. L 255/99-4, ustanovena opatrovnicí v řízení
+o vyslovení přípustnosti umístění do ústavu a držení v ústavu umístěnému R. S., vyšší soudní úřednice Okresního soudu v Olomouci. Nejde tedy o případ, kdy by účastník řízení neměl procesní způsobilost a nebyl řádně zastoupen [§ 237 odst. 1 písm. c) o.s.ř.].
+Podle ustanovení § 237 odst. 1 písm. f) o.s.ř. je dovolání přípustné, jestliže účastníku řízení byla v průběhu řízení nesprávným postupem soudu odňata možnost jednat před soudem. Odnětí možnosti jednat před soudem je takový postup soudu, jímž znemožnil účastníku řízení realizaci těch procesních práv, která mu zákon přiznává.
+Pro přípustnost dovolání není rozhodné, zda byla účastníku řízení odňata možnost jednat před soudem v odvolacím řízení nebo v řízení před soudem prvního stupně.
+O vadu ve smyslu cit. ustanovení jde přitom jen tehdy, jestliže šlo o postup nesprávný (uvažováno z hlediska zachování postupu soudu určeného zákonem nebo dalšími obecně závaznými právními předpisy) a jestliže se postup soudu projevil v průběhu řízení a nikoli také při rozhodování. O takový případ jde především tehdy, jestliže soud rozhodl bez nařízení jednání, přestože mělo být ve věci jednáno, nebo jestliže soud věc projednal v rozporu s § 101 odst. 2 o.s.ř. v nepřítomnosti účastníka.
+V posuzované věci se o takovýto případ nejedná. Podle § 214 odst. 2 písm. c) o.s.ř. jednání (před odvolacím soudem) není třeba nařizovat, jestliže odvolání směřuje proti usnesení. Tak je tomu i v této věci, takže postup odvolacího soudu, pokud jednání nenařídil, není nesprávný, nýbrž je v souladu s cit. ustanovením.
+Obdobně je tomu i ohledně postupu soudu prvního stupně. Podle § 115 odst. 1 o.s.ř. nestanoví-li zákon jinak, nařídí předseda senátu k projednání věci samé jednání, k němuž předvolá účastníky a všechny, jejichž přítomnosti je třeba. Rozhodnutí
+o odměně znalce však není jednáním ve věci samé a není proto třeba je k tomuto účelu nařizovat.
+Zcela nepřípadně dovolatel vytýká rovněž odvolacímu soudu, že nepřihlédl k jeho opakovaným držením v psychiatrické léčebně v době od 14.6.2000 do 15.3.2002, přehlížeje, že dovoláním napadené rozhodnutí odvolacího soudu těmto datům předchází.
+Protože usnesení odvolacího soudu není vadami uvedenými v § 237 odst. 1 o.s.ř. postiženo, a protože z hlediska § 238a a § 239 o.s.ř. proti němu není dovolání přípustné, je zřejmé, že dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný. Nejvyšší soud České republiky proto dovolání umístěného – aniž by se mohl věcí dále zabývat – podle § 243b odst. 4 věty první a
+§ 218 odst. 1 písm. c) o.s.ř. odmítl.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 15. července 2004
+JUDr. Karel Podolka, v. r.
+předseda senátu
