@@ -1,0 +1,16 @@
+11 Tvo 37/2002
+U S N E S E N Í
+Nejvyšší soud projednal v neveřejném zasedání konaném dne 16. 5. 2002 stížnost obviněného T. H., proti usnesení Vrchního soudu v Praze ze dne 24. 4. 2002, sp. zn. 9 To 61/02, a rozhodl t a k t o :
+Podle § 148 odst. 1 písm. c) tr. řádu s e stížnost obviněného T. H. z a m í t á .
+O d ů v o d n ě n í :
+Rozsudkem Krajského soudu v Hradci Králové ze dne 26. 2. 2002, sp. zn. 4 T 1/2002, byl obviněný T. H. uznán vinným trestným činem krádeže podle § 247 odst. 1 písm. b), odst. 2 tr. zák., trestným činem poškozování cizí věci podle § 257 odst. 1 tr. zák., trestným činem porušování domovní svobody podle § 238 odst. 1, 2 tr. zák., trestným činem nedovoleného ozbrojování podle § 185 odst. 1 tr. zák. a trestným činem útoku na veřejného činitele podle § 155 odst. 1 písm. a), b), odst. 2 písm. a) tr. zák. a odsouzen k nepodmíněnému trestu odnětí svobody v trvání čtyř roků a šesti měsíců, pro jehož výkon byl zařazen do věznice s ostrahou. Podle § 229 odst. 1 tr. řádu byla Česká pojišťovna, a. s., odkázána se svým nárokem na náhradu škody na řízení ve věcech občanskoprávních.
+Proti tomuto rozsudku podal odvolání obviněný a v jeho neprospěch i krajský státní zástupce a trestní věc obviněného se v současné době nachází u Vrchního soudu v Praze, jako soudu odvolacího.
+Usnesením Vrchního soudu v Praze ze dne 24. 4. 2002, sp. zn. 9 To 61/02, bylo podle § 71 odst. 4, odst. 6, odst. 7 tr. řádu rozhodnuto o ponechání obviněného ve vazbě z důvodů uvedených v § 67 písm. a), c) tr. řádu.
+Proti tomuto usnesení podal obviněný stížnost, v níž poukazuje na neexistující důvody vazby podle § 67 písm. a), c) tr. řádu. Navrhl, aby byl z vazby propuštěn na svobodu.
+Nejvyšší soud z podnětu podané stížnosti přezkoumal podle § 147 odst. 1 tr. řádu správnost napadeného výroku i řízení, které mu předcházelo, a dospěl k tomuto závěru.
+Obviněný je ve vazbě od zahájení trestního stíhání a o důvodnosti jeho vazby bylo podle § 71 odst. 4, 5 tr. řádu naposledy rozhodnuto usnesením Krajského soudu v Hradci Králové ze dne 24. 1. 2002, sp. zn. 4 T 1/2002. Za tohoto stavu postup Vrchního soudu v Praze, jako soudu odvolacího, při posuzování dalšího trvání vazby obviněného je v souladu s ustanovením § 71 odst. 5, odst. 7 tr. řádu a nelze mu nic vytknout. Stejně tak nelze nic vytknout obsahu tohoto rozhodnutí. Obviněný je stíhán pro rozsáhlou majetkovou trestnou činnost. Charakter trestné činnosti a dosavadní život obviněného i nadále opodstatňují důvodnost vazby. V tomto směru se lze plně ztotožnit se zdůvodněním napadeného usnesení a v podrobnostech je na ně možno odkázat. Nelze rovněž pominout, že obsahem odvolacího řízení je i odvolání státního zástupce v neprospěch obviněného. Jinak až dosud řízení probíhá bez zbytečných průtahů a jeho délka odpovídá náročnosti projednávané věci.
+Z těchto důvodů je nutno považovat postup Vrchního soudu v Praze a jeho rozhodnutí o ponechání obviněného ve vazbě za odpovídající ustanovením § 71 odst. 4, 6, 7 tr. řádu i § 67 písm. a), c) tr. řádu. Proto se také stížnost obviněného nemohla setkat s úspěchem a nezbylo, než o ní rozhodnout tak, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 16. května 2002
+Předseda senátu :
+JUDr. Pavel Kučera
