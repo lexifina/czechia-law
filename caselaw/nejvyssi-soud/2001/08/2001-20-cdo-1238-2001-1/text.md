@@ -1,0 +1,21 @@
+20 Cdo 1238/2001
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci výkonu rozhodnutí oprávněného Č. d., státní organizace, proti povinnému Ž. H., a. s., pro 6.662,- Kč s příslušenstvím prodejem movitých věcí, vedené u Okresního soudu v Rokycanech pod sp. zn. E 513/2000, o dovolání povinného proti usnesení Krajského soudu v Plzni ze dne 24. ledna 2001, č. j. 13 Co 720/2000-15, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Okresní soud v Rokycanech usnesením ze dne 23. 5. 2000, č. j. E 513/2000-6, nařídil - podle vykonatelného platebního rozkazu Krajského soudu v Plzni ze dne 13. 10. 1999, č. j. Ro 3806/99-9, k uspokojení pohledávky oprávněného ve výši 6.662,- Kč s příslušenstvím, jakož i nákladů nalézacího řízení ve výši 550,- Kč a nákladů nařízení výkonu rozhodnutí ve výši 350,- Kč - výkon rozhodnutí prodejem movitých věcí povinného.
+Krajský soud v Plzni usnesením ze dne 24. 1. 2001, č. j. 13 Co 720/2000-15, usnesení soudu prvního stupně změnil ve výroku o náhradě nákladů výkonu rozhodnutí tak, že náklady tohoto řízení činí 300,- Kč; ve zbývajících výrocích usnesení okresního soudu potvrdil a rozhodl o nákladech odvolacího řízení.
+Pravomocné usnesení odvolacího soudu napadl povinný dovoláním, jehož přípustnost opřel o ustanovení „§ 238a odst. 1 písm. c) zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů\", a které odůvodnil tím, že řízení před odvolacím soudem je postiženo vadou, která má za následek nesprávné rozhodnutí ve věci. Současně navrhl, aby dovolací soud odložil vykonatelnost napadeného rozhodnutí.
+Vyjádření k dovolání nebylo podáno.
+Podle části dvanácté, hlavy první, bodu 17. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů, to jest podle občanského soudního řádu ve znění účinném před 1. 1. 2001. Jelikož napadené rozhodnutí bylo vydáno (byť po uvedeném datu) po řízení provedeném podle dosavadních právních předpisů, Nejvyšší soud dovolání projednal a rozhodl o něm podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném před novelizací provedenou zákonem č. 30/2000 Sb., tj. účinném do 31. 12. 2000 (dále též jen „o. s. ř.\").
+Dovolání bylo podáno opožděně.
+Projednáním a rozhodnutím dovolání podle dosavadních právních předpisů ve smyslu části dvanácté, hlavy I, bodu 17. zákona č. 30/2000 Sb., se rozumí např. posuzování podmínek řízení, zkoumání přípustnosti dovolání, jakož i včasnosti dovolání, včetně vymezení běhu lhůty k jeho podání.
+Dovolání v této věci tudíž mohlo být podáno pouze ve lhůtě jednoho měsíce od právní moci rozhodnutí odvolacího soudu (srov. § 240 odst. 1 o. s. ř. ve znění účinném před 1. lednem 2001), nikoli ve lhůtě dvou měsíců od doručení rozhodnutí odvolacího soudu (srov. § 240 odst. 1 o. s. ř. ve znění účinném od 1. ledna 2001).
+Jak se podává z obsahu spisu (doručenek na č. l. 17 versa), nabylo usnesení odvolacího soudu právní moci dne 26. února 2001, když uvedeného dne bylo doručeno oprávněnému, a když povinnému bylo doručeno již 23. února 2001. Z uvedeného vyplývá, že posledním dnem jednoměsíční lhůty k podání dovolání bylo pondělí 26. března 2001 (srov. ustanovení § 57 odst. 2 o. s. ř.). Bylo-li dovolání podáno osobně u soudu prvního stupně (viz podací razítko na č. l. 21 spisu) až 17. dubna 2001, stalo se tak zjevně po marném uplynutí zákonné lhůty.
+Vycházeje z uvedených závěrů Nejvyšší soud dovolání povinného podle ustanovení § 243b odst. 4 a § 218 odst. 1 písm. a) o. s. ř. jako opožděné odmítl.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 4, § 224 odst. 1 a § 146 odst. 2 věty první (per analogiam) o. s. ř., neboť povinný, který podáním opožděného dovolání zavinil jeho odmítnutí, na náhradu těchto nákladů nemá právo, a oprávněnému náklady dovolacího řízení (podle obsahu spisu) nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 22. srpna 2001
+JUDr. Věra K o r e c k á, v. r.
+předsedkyně senátu
