@@ -1,0 +1,19 @@
+20 Cdo 461/2000
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci výkonu rozhodnutí oprávněné O., a.s., proti povinným 1) A. Č., 2) M. K. a 3) M. K., vyklizením bytu, vedené u Okresního soudu v Ostravě pod sp. zn. 90 E 1203/98, o dovolání druhé povinné proti usnesení Okresního soudu v Ostravě ze dne 31.8.1998, č.j. 90 E 1203/98 - 2, a usnesení Krajského soudu v Ostravě ze dne 7.12.1998, č.j. 8 Co 1909/98 - 14, takto:
+I. Řízení o dovolání proti usnesení Okresního soudu v Ostravě ze dne 31.8.1998, č.j. 90 E 1203/98 - 2, a proti usnesení Krajského soudu v Ostravě ze dne 7.12.1998, č.j. 8 Co 1909/98 - 14, se zastavují.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Odvolací soud potvrdil usnesení, jímž soud prvního stupně nařídil výkon rozhodnutí vyklizením ve výroku označeného bytu s tím, že o provedení výkonu bude rozhodnuto dodatečně, a povinným uložil uhradit náklady řízení.
+Druhá povinná podala proti rozhodnutí soudů obou stupňů dovolání. Soud prvního stupně ji usnesením, doručeným dne 10.3.1999, poučil, že v dovolacím řízení musí být zastoupena advokátem, a upozornil, že nebude-li tato podmínka splněna, dovolací soud řízení zastaví. Dovolatelka pak požádala o osvobození od soudních poplatků; soud prvního stupně jí nevyhověl, a odvolání proti tomuto usnesení odvolací soud odmítl jako opožděné (§ 218 odst. 1 písm. a/ o.s.ř.).
+Podle části dvanácté, hlavy první, bodu 17, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu, vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů, se projednají a rozhodnou podle občanského soudního řádu ve znění účinném do 1.1.2001 (dále jen „o.s.ř.“).
+Podle § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Odtud plyne, že dovoláním nelze napadnout - oproti tomu - rozhodnutí soudu prvního stupně. Opravným prostředkem pro přezkoumání rozhodnutí soudu prvního stupně je totiž odvolání, pokud to zákon nevylučuje (§ 201 o. s. ř.); občanský soudní řád proto - k projednání „dovolání“ (proti takovému rozhodnutí) - neupravuje ani funkční příslušnost určitého soudu. Tím, že je druhá povinná přesto podala, uvedenou podmínku řízení pominula; nedostatek funkční příslušnosti je však neodstranitelným nedostatkem podmínky řízení, a Nejvyšší soud proto řízení, které touto vadou trpí, nemůže než podle ustanovení § 104 odst. 1 (§ 243c) o.s.ř. zastavit.
+Ohledně dovolání proti usnesení odvolacího soudu podle § 241 odst. 1, 2 o.s.ř. platí, že dovolatel (fyzická osoba) musí být zastoupen advokátem, jestliže nemá sám právnické vzdělání, a jím musí být dovolání i sepsáno. Zvolí-li si advokáta až poté, co sám podal dovolání, je ke splnění podmínky dovolatelova zastoupení nezbytné, aby zmocněnec (advokát) jím dříve učiněné podání nahradil nebo doplnil vlastním, popř. sdělil soudu, že se s již učiněným podáním ztotožňuje.
+Nedostatek nuceného zastoupení ve smyslu citovaného ustanovení je nedostatkem podmínky řízení, jenž se týká účastníka řízení, a který je svou povahou odstranitelný. Podle § 243c, § 104 odst. 2 o.s.ř. učiní soud k jeho odstranění vhodná opatření; nezdaří-li se jej odstranit, řízení zastaví.
+Jelikož splnění podmínky řízení podle § 241 odst. 1, 2 o.s.ř. dovolatelka - navzdory takovému opatření - ani dodatečně nedoložila, Nejvyšší soud i toto (dovolací) řízení zastavil.
+O jeho nákladech bylo rozhodnuto podle § 234b odst. 4, § 224 odst. 1 a § 146 odst. 2, věty první, o.s.ř.; oprávněné, jež by měla na jejich náhradu nárok, však v tomto stadiu řízení prokazatelné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 28. listopadu 2001
+JUDr. Vladimír Kurka
+předseda senátu
