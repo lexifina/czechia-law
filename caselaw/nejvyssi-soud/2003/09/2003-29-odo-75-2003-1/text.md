@@ -1,0 +1,20 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+29 Odo 75/2003-65
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Krčmáře a soudců JUDr. Ivany Štenglové a JUDr. Františka Kučery v právní věci žalobců A) J. Š. a B) M. Š., obou zastoupených JUDr. E. R., advokátkou, proti žalovanému Mgr. Z. H., advokátu, jako správci konkursní podstaty úpadkyně P. t. i. a. s., o vyloučení věcí z konkursní podstaty, vedené u Krajského soudu v Brně pod sp. zn. 55 Cm 127/2001, o dovolání žalobců proti usnesení Vrchního soudu v Olomouci ze dne 12. září 2002, č. j. 6 Cmo 41/2002 – 41, takto:
+I . Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů řízení.
+O d ů v o d n ě n í :
+Usnesením ze dne 23. ledna 2002, č. j. 55 Cm 127/2001 – 33, Krajský soud v Brně – odkazuje na ustanovení § 208 odst. 1 občanského soudního řádu (dále též jen „o. s. ř.“) -odmítl jako opožděné odvolání žalobců proti usnesení ze dne 15. října 2001, č. j. 55 Cm 127/2001 – 26, jímž zastavil řízení pro nezaplacení soudního poplatku (bod I. výroku) a vrátil žalobcům soudní poplatek ve výši 9.000,- Kč (bod II. výroku).
+K odvolání žalobců Vrchní soud v Olomouci usnesením ze dne 12. září 2002, č. j. 6 Cmo 41/2002 – 41, usnesení soud prvního stupně potvrdil (první výrok) a žádnému z účastníků řízení nepřiznal právo na náhradu nákladů odvolacího řízení (druhý výrok), uzavíraje, že závěr o opožděnosti odvolání je správný.
+Proti usnesení odvolacího soudu podali žalobci včas dovolání, jehož přípustnost opírají o ustanovení § 237 odst. 1 písm. c/, § 238a odst. 1 písm. a/ a § 239 odst. 2 písm. a/ o. s. ř., namítajíce, že řízení je postiženo vadou, která mohla mít za následek nesprávné rozhodnutí ve věci (§ 241a odst. 2 písm. a/ o. s. ř.), a že napadené usnesení spočívá na nesprávném právním posouzení věci (§ 241a odst. 2 písm. b/ o. s. ř.). V dovolání snášejí argumenty na podporu závěru o existenci uplatněných dovolacích důvodů a požadují, aby Nejvyšší soud zrušil usnesení soudů obou stupňů a věc vrátil soudu prvního stupně k dalšímu řízení.
+Podle § 236 odst. 1 o. s. ř. dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon – zde v ustanoveních § 237 až § 239 o. s. ř. - připouští.
+Ustanovení § 238, § 238a odst. 1 písm. b/ až g/ a § 239 odst. 1, odst. 2 písm. b/ a odst. 3 o. s. ř. nezakládají přípustnost dovolání proto, že ve věci nejde o žádný z tam vyjmenovaných případů. Přípustnost dovolání podle § 237 o. s. ř. pak není dána již proto, že usnesením odvolacího soudu nebylo potvrzeno usnesení soudu prvního stupně, kterým by bylo rozhodnuto „ve věci samé“.
+Oproti očekávání dovolatelů není dovolání přípustné ani dle ustanovení § 238a odst. 1 písm. a/ a § 239 odst. 2 písm. a/ o. s. ř. První z cit. ustanovení totiž vymezuje přípustnost dovolání ve věci konkursu a vyrovnání, kterou spor o vyloučení majetku z konkursní podstaty není (jde o spor vyvolaný konkursem); nadto i zde – vzhledem k dikci § 238a odst. 2 o. s. ř. -chybí podmínka, aby šlo o rozhodnutí „ve věci samé“ (srov. též usnesení Nejvyššího soudu uveřejněné pod číslem 58/2002 Sbírky soudních rozhodnutí a stanovisek). Uplatnění druhého z označených ustanovení je vyloučeno proto, že usnesení odvolacího soudu není usnesením, jímž bylo potvrzeno usnesení soudu prvního stupně o zastavení řízení podle § 104 odst. 1 o. s. ř.
+Proti usnesení odvolacího soudu, kterým bylo potvrzeno usnesení soudu prvního stupně o odmítnutí odvolání pro opožděnost, tedy není dovolání přípustné (shodně srov. usnesení Nejvyššího soudu uveřejněném pod číslem 41/2003 Sbírky soudních rozhodnutí a stanovisek); Nejvyšší soud je proto podle § 243b odst. 5 věty první a § 218 písm. c/ o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, věty první, § 224 odst. 1 a § 146 odst. 3 o. s . ř., neboť žalobci nemají s ohledem na výsledek dovolacího řízení na jejich náhradu právo a žalovanému v dovolacím řízení náklady nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 4. září 2003
+JUDr. Zdeněk Krčmář, v.r.
+předseda senátu
