@@ -1,0 +1,28 @@
+7 Tdo 1479/2004
+U S N E S E N Í
+Nejvyšší soud rozhodl v neveřejném zasedání konaném dne 29. 12. 2004 o dovolání obviněného D. G. , proti rozsudku Městského soudu v Praze ze dne 24. 8. 2004, sp. zn. 61 To 313/2004, v trestní věci vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 33 T 158/2003 t a k t o :
+Podle § 265i odst. 1 písm. b) tr. ř. se dovolání obviněného D. G. o d m í t á .
+O d ů v o d n ě n í :
+I.
+Rozsudkem Obvodního soudu pro Prahu 4 ze dne 27. 4. 2004, sp. zn. 33 T 158/2003, byl obviněný D. G. uznán vinným jednak trestným činem výtržnictví podle § 202 odst. 1 tr. zák., jednak trestným činem poškozování a ohrožování provozu obecně prospěšného zařízení podle § 182 odst. 1 písm. a) tr. zák.
+Uvedených trestných činů se podle zjištění obvodního soudu dopustil obviněný tím, že dne 8. 11. 2003 v době kolem 00:10 hod. v v autobuse MHD linky fyzicky napadl řidiče autobusu, poškozeného F. M., nar. 7. 11. 1951, udeřil jej opakovaně pěstí do obličeje a když se řidič snažil přivolat pomoc přes nouzové volání digitálního komunikačního terminálu, obžalovaný terminál úmyslně rozbil, čímž poškozené organizaci autobusy, způsobil škodu ve výši nejméně 4.520,- Kč.
+Obviněnému byl uložen úhrnný trest vyhoštění z území České republiky na dobu sedmi let a dále mu byla uložena povinnost zaplatit náhradu škody poškozené organizaci ve výši 4.520,- Kč. Poškozená organizace byla se zbytky nároku na náhradu škody odkázána na řízení ve věcech občanskoprávních.
+K odvolání obviněného Městský soud v Praze rozsudkem ze dne 24. 8. 2004, sp. zn. 61 To 313/2004, zrušil podle § 258 odst. 1 písm. e), odst. 2 tr. ř. napadený rozsudek pouze ve výroku o uloženém trestu vyhoštění. Tímto rozsudkem za podmínek § 259 odst. 3 tr. ř. znovu rozhodl tak, že obviněnému při nezměněném výroku o vině trestnými činy výtržnictví podle § 202 odst. 1 tr. zák. a poškozování a ohrožování provozu obecně prospěšného zařízení podle § 182 odst. 1 písm. a) tr. zák uložil úhrnný trest vyhoštění z území České republiky na dobu tří let.
+II.
+Proti rozsudku Městského soudu v Praze podal obviněný prostřednictvím svého obhájce Mgr. J. K. dovolání, a to v celém rozsahu. Toto rozhodnutí napadl z důvodu uvedeného v § 265b odst. 1 písm. g) tr. ř., neboť má zato, že rozhodnutí spočívá na nesprávném právním posouzení skutku nebo jiném nesprávném hmotně právním posouzení.
+V úvodu dovolání obviněný poukazuje na okolnosti, za nichž došlo ke spáchání skutku. V další části pak opakuje svou obhajobu, podle které existují rozpory ve výpovědích poškozeného F. M. a svědka P. K. Podle obviněného výpověď poškozeného není věrohodná, a proto se nemůže ztotožnit s jejím hodnocením soudem prvního stupně. Dovolatel je přesvědčen, že soudy nedostatečně hodnotily listinné důkazy, z nichž je patrno, že utrpěl těžkou frakturu nosu a četná pohmoždění v oblasti obličeje a celé hlavy. Obviněný nesouhlasí s tím, že by skutek, tak jak je popsán v rozsudku soudu prvního stupně, skutečně spáchal.
+Obviněný dále opakuje, že byl po incidentu přepraven do nemocnice k lékařskému ošetření a poukazuje na výpověď svědka M. K., který si u hlavního líčení nevzpomněl na žádnou agresi obviněného vůči řidiči. Dovolatel zdůrazňuje, že přistoupil k poškozenému jen proto, aby mu ukázal jím způsobená zranění, ten ho však podle jeho tvrzení napadl slovně i fyzicky, takže byl nucen se jeho útoku bránit. Obviněný dále zdůrazňuje, že soud prvního stupně neprovedl některé důkazy, jež navrhoval.
+Závěrem svého dovolání obviněný navrhuje, aby Nejvyšší soud napadený rozsudek Městského soudu v Praze zrušil v celém rozsahu a přikázal mu, aby věc v potřebném rozsahu znovu projednal a rozhodl.
+Nejvyšší státní zástupkyně se k podanému dovolání do data neveřejného zasedání Nejvyššího soudu podle § 265h odst. 2 tr. ř. nevyjádřila.
+III.
+Nejvyšší soud jako soud dovolací nejdříve ověřil, že dovolání je přípustné, bylo podáno oprávněnou osobou, v zákonné lhůtě a na předepsaném místě.
+Poté se zaměřil na to, zda obviněným uplatňované námitky lze skutečně považovat za některý z důvodů dovolání podle § 265b odst. 1 tr. ř., neboť uplatnění námitek, které obsahově naplňují dovolací důvod, je nezbytnou podmínkou přezkumu napadeného rozhodnutí dovolacím soudem podle § 265i odst. 3 tr. ř.
+Nejvyšší soud v této souvislosti zdůrazňuje, že v případě dovolacího důvodu podle § 265b odst. 1 písm. g) tr. ř. lze v jeho rámci namítat, že zjištěný skutek byl nesprávně kvalifikován jako určitý trestný čin, přestože znaky tohoto trestného činu, resp. znaky žádného trestného činu neměl. Myslí se tím přitom skutek, tak jak byl soudem zjištěn. Tento dovolací důvod neumožňuje namítat nesprávnost skutkových zjištění, nesprávnost hodnocení provedených důvodů ani neúplnost provedeného dokazování.
+Obviněný D. G. však ve svém dovolání žádné námitky proti právnímu posouzení skutku, tak jak byl soudy zjištěn, neuvedl. Jím uplatňované námitky oponovaly výhradně tomu, jak soudy provedené důkazy hodnotily a jaké skutkové závěry na jejich podkladě postupem podle § 2 odst. 6 tr. ř. vyvodily.
+Obviněný tak sice formálně deklaroval dovolací důvod napadající právní posouzení zjištěného skutku, ale svými konkrétními námitkami se domáhal změny skutkových zjištění. Takovými námitkami obviněný deklarovaný dovolací důvod nenaplnil a Nejvyšší soud proto dovolání posoudil jako podané z jiného důvodu, než jaký je uveden v § 265b tr. ř.
+IV.
+Nejvyšší soud proto dovolání obviněného D. G. odmítl podle § 265i odst. 1 písm. b) tr. ř. jako podané z jiného důvodu, než je uveden v § 265b tr. ř. Učinil tak v souladu s ustanovením § 265r odst. 1 písm. a) tr. ř. v neveřejném zasedání.
+P o u č e n í : Proti tomuto rozhodnutí není opravný prostředek přípustný.
+V Brně dne 29. prosince 2004
+Předseda senátu:
+JUDr. Robert Fremr
