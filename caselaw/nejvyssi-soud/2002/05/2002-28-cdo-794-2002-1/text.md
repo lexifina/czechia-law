@@ -1,0 +1,21 @@
+28 Cdo 794/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobců A) V. H.,
+, B) V. H., C) J. H., D) J. L., všech zastoupených advokátkou, proti žalované M. N., zastoupené advokátem, o vyklizení bytu, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 11 C 1/96, o dovolání žalované proti rozsudku Městského soudu v Praze ze dne 1.8.2001, č.j. 13 Co 127/2001-178, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalobou podanou u Obvodního soudu pro Prahu 1 dne 2.1.1996 se domáhali žalobci uložení povinnosti žalované vyklidit a vyklizený odevzdat byt blíže popsaný v žalobě.
+Obvodní soud pro Prahu 1 jako soud prvního stupně v pořadí třetím rozsudkem ze dne 27.12.2000, č.j. 11 C 1/96-153 žalobě vyhověl. Dovodil, že žalobkyně nevedla se zemřelým nájemcem bytu společnou domácnost a v době smrti nájemce bytu měla vlastní byt. Dospěl k závěru, že žalovaná nesplnila zákonné předpoklady pro přechod práva nájmu bytu podle § 706 o.z. Věc posoudil podle § 126 o.z.
+K odvolání žalované Městský soud v Praze jako soud odvolací výše uvedeným rozsudkem potvrdil rozsudek soudu prvního stupně. Rozsudek odvolacího soudu nabyl právní moci dne 9.11.2001.
+Proti rozsudku odvolacího soudu podala žalovaná dne 9.1.2002 dovolání, jehož přípustnost blíže nezdůvodnila. Nesouhlasila s právním názorem odvolacího soudu. Podle dovolatelky má rozhodnutí po právní stránce zásadní význam. Navrhla proto zrušení rozsudku odvolacího soudu a vrácení věci tomuto soudu k dalšímu řízení.
+Vyjádření k dovolání nebylo podáno.
+Řízení v této věci bylo zahájeno podáním žaloby dne 2.1.1996, tedy za účinnosti občanského soudního řádu č. 99/1963 Sb., ve znění účinném do novely provedené zákonem č. 30/2000 Sb. (to je do dne 31. 12. 2000). Rozhodnutí soudu prvního stupně ze dne 27.12.2000 tak bylo vydáno po řízení provedeném podle dosavadních právních předpisů. Vzhledem k ustanovení bodu 15. hlavy I. - přechodná ustanovení k části první - zákona č. 30/2000 Sb., proto i pro projednání věci a jejímu rozhodnutí odvolacím soudem přicházelo do úvahy rozhodování podle dosavadních právních předpisů. Rovněž z hlediska dovolacího řízení je nutno vycházet z ustanovení bodu 17. těchže přechodných ustanovení. Podle nich dovolání proti rozhodnutím odvolacího soudu vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodne se o nich podle dosavadních právních předpisů.
+Projednáním a rozhodnutím dovolání podle dosavadních právních předpisů ve smyslu části dvanácté, hlavy první, bodu 17. zákona č. 30/2000 Sb. se rozumí zejména posuzování podmínek řízení, procesního nástupnictví formou singulární sukcese, zkoumání přípustnosti dovolání nebo vymezení náležitostí písemného vyhotovení rozhodnutí, jakož i posuzování včasnosti dovolání, včetně vymezení běhu lhůty k jeho podání. Uvedený důsledek vychází z povahy ustanovení bodu 15. a 17. zmíněných přechodných ustanovení, neboť jde o předpis kogentní povahy, od nichž se soud nemůže odchýlit. Proto v tomto rozsudku jsou uváděna ustanovení občanského soudního řádu ve znění před novelou provedenou zákonem č. 30/2000 Sb. (dále jen „o.s.ř.“).
+Podle § 236 odst. 1 o.s.ř. lze dovoláním napadnou pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Podle § 240 odst. 1 věty první o.s.ř. může účastník podat dovolání do jednoho měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Zmeškání lhůty uvedené v odstavci 1 nelze prominout (§ 240 odst. 2 věta první o.s.ř.).
+V této věci bylo dovolání podáno po uplynutí shora uvedené zákonné lhůty jednoho měsíce od právní moci rozsudku odvolacího soudu. Dovolací soud proto podle § 243 odst. 4 o.s.ř. za použití ustanovení § 218 odst. 1 písm. a) o.s.ř. musel opožděně podané dovolání odmítnout, aniž mohl přistoupit k meritornímu přezkoumání důvodů v dovolání uplatněných.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 4 o.s.ř. za použití § 224 odst.1 o.s.ř., § 151 odst. 1 o.s.ř. a § 142 odst. 1 o.s..ř. Žalovaná nebyla v dovolacím řízení úspěšná a žalobcům v souvislosti s podaným dovoláním žádné náklady řízení zřejmě nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 22. května 2002
+JUDr. Josef R a k o v s k ý , v.r.
+předseda senátu
