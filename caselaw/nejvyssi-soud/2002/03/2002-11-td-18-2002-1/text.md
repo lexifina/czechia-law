@@ -1,0 +1,15 @@
+11 Td 18/2002
+U S N E S E N Í
+Nejvyšší soud České republiky projednal v neveřejném zasedání konaném dne 27. 3. 2002 v trestní věci obviněného F. N., vedené u Okresního soudu v Pardubicích pod sp. zn. 1 T 22/2001 spor o příslušnost mezi Okresním soudem v Pardubicích a Krajským soudem v Brně a rozhodl t a k t o :
+Podle § 24 tr. řádu j e k projednání a rozhodnutí věci p ř í s l u š n ý Okresní soud v Pardubicích.
+O d ů v o d n ě n í :
+Okresní státní zástupkyně v Pardubicích podala u Okresního soudu v Pardubicích obžalobu proti obviněnému F. N. pro dvojnásobný trestný čin podvodu podle § 250 odst. 1, odst. 3 písm. b) tr. zák. Obžaloba napadla Okresnímu soudu v Pardubicích dne 10. 9. 2001.
+Okresní soud v Pardubicích usnesením ze dne 6. 11. 2001, sp. zn. 1 T 22/2001, podle § 188 odst. 1 písm. a) tr. řádu trestní věc obviněného F. N. postoupil Krajskému soudu v Brně s odůvodněním, že jiná trestní věc obviněného N. byla podle § 188 odst. 1 písm. a) tr. řádu již pravomocným usnesením Krajského soudu v Hradci Králové ze dne 18. 6. 2001, sp. zn. 8 T 42/2001, Krajskému soudu v Brně postoupena, takže je na místě, aby ve smyslu § 20 odst. 1 tr. řádu a § 21 odst. 1 tr. řádu proběhlo o všech trestných činech obviněných společné řízení před Krajským soudem v Brně.
+Usnesením Krajského soudu v Brně ze dne 26. 2. 2002, sp.zn. 43 T 1/2002, byla podle § 188 odst. 1 tr. řádu trestní věc obviněného N. předložena k rozhodnutí o příslušnosti Nejvyššímu soudu s tím, že Krajský soud v Brně neuznává svou příslušnost, protože pro ni nejsou splněny věcné ani místní zákonné podmínky.
+Nejvyšší soud, jako soud příslušný k projednání tohoto sporu o příslušnost, zhodnotil důkazy použitelné k řešení tohoto sporu a dospěl k tomuto závěru.
+Ustanovení § 20 odst. 1 tr. řádu sice stanoví podmínky pro společné projednávání několika trestních věcí jednoho obviněného, současně je beze sporu nutno respektovat podmínky pro spojení dvou samostatně napadlých trestních věcí podle § 23 odst. 3 tr. řádu. Vedle obecné podmínky hospodárnosti řízení, je třeba brát na zřetel především podmínky rychlosti řízení. Postup Okresního soudu v Pardubicích se v tomto směru jeví jako protismyslný. Zatím, co by bylo možno před okresním soudem napadlou věc obviněného N. projednat poměrně rychle a bez zbytečných průtahů, po případném spojení se skutkově složitou trestní věcí dalších deseti obviněných v řízení před krajským soudem, jako soudem prvního stupně, tento efekt s největší pravděpodobností nelze čekat. Z těchto důvodů ke spojení obou trestních věcí nedošlo už v přípravném řízení. Obě věci nebyly žalovány jednou obžalobou a nejeví se účelné, aby k jejich spojení došlo ani ve stadiu řízení před soudem. Ustanovení § 20 odst. 1 tr. řádu, resp. § 21 odst. 1 tr. řádu, v tomto směru nelze aplikovat samoúčelně, ale i při jejich případné aplikaci je prioritně třeba respektovat základní zásady trestního řízení.
+Ze všech těchto důvodů se jeví na místě, aby samostatně napadlou trestní věc obviněného F. N., projednal a rozhodl Okresní soud v Pardubicích.
+Poučení: Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 27. března 2002
+Předseda senátu:
+JUDr. Pavel Kučera
