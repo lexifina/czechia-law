@@ -1,0 +1,23 @@
+22 Cdo 2882/2000
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci žalobců: A/ D. N. a B/ P. N. proti žalované S. H., o určení neplatnosti darovací smlouvy, vedené u Obvodního soudu pro Prahu 6 pod sp. zn. 9 C 152/92, o dovolání žalobců proti rozsudku Městského soudu v Praze ze dne 19. dubna 2000, čj. 58 Co 105/2000-123, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů řízení.
+O d ů v o d n ě n í :
+Městský soud v Praze jako soud odvolací shora označeným rozsudkem potvrdil rozsudek Obvodního soudu pro Prahu 6 ze dne 18. května 1999, čj. 9 C 152/92-103, kterým byla zamítnuta žaloba na určení, že „darovací smlouva ze dne 22. 8. 1989 registrovaná Státním notářstvím pro Prahu 6 dne 22. 8. 1989 pod reg. 6RI 283/89, podle níž M. K. darovala S. H. ideální 1/3 domu čp. 1369 v P. a ideální 1/3 pozemku parc. č. 2878, parc. č. 2879/2 - stavební, které byly tehdy zapsány na LV č. 369 v evidenci nemovitostí u Střediska geodézie P. a katastrální území B., je neplatná\", a rozhodnuto o nákladech řízení. Dále odvolací soud rozhodl o náhradě nákladů odvolacího řízení.
+Proti tomuto potvrzujícímu rozsudku odvolacího soudu podali žalobci dovolání, jehož přípustnost opírají o „ustanovení § 236 o. s. ř. a následující\" a uplatňují dovolací důvody podle § 241 odst. 3 písm. b), c) a d) o. s. ř. Navrhli, aby dovolací soud rozsudek odvolacího soudu zrušil a vrátil mu věc k dalšímu řízení.
+Žalovaná se k dovolání nevyjádřila.
+Dovolání v této věci není přípustné.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Dovolání proti rozhodnutí odvolacího soudu je vždy přípustné, jestliže řízení trpí vadami taxativně vypočtenými v § 237 odst. 1 o. s. ř. (s výjimkou rozsudků uvedených v odst. 2), které způsobují tzv. zmatečnost rozhodnutí (řízení). K takovým vadám přihlíží dovolací soud z úřední povinnosti, tedy i když nebyly v dovolání uplatněny. V posuzovaném případě dovolatelé takovéto vady nenamítali a ani z obsahu spisu se jejich existence nepodává.
+Je-li dovoláním napaden potvrzující rozsudek odvolacího soudu, zbývá posoudit jeho přípustnost z pohledu ustanovení § 238 a § 239 o. s. ř.
+Dovolání proti potvrzujícímu rozsudku odvolacího soudu je přípustné podle § 238 odst. 1 písm. b) o. s. ř. pouze za podmínky, že byl potvrzen rozsudek soudu prvního stupně, kterým soud prvního stupně rozhodl jinak než v dřívějším rozsudku proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil (s výjimkou rozsudků uvedených v odst. 2 tohoto ustanovení). O takovýto případ v dané věci nejde. Dřívější rozsudek soudu prvního stupně ze dne 10. února 1997, čj. 9 C 152/92-71, byl sice zrušen usnesením odvolacího soudu ze dne 9. listopadu 1998, čj. 19 Co 443/98-85, ale toliko z důvodu jeho nepřezkoumatelnosti, aniž odvolací soud vyslovil ve věci závazný právní názor. Soud prvního stupně navíc novým rozsudkem ze dne 18. května 1999, čj. 9 C 152/92-103, nerozhodl jinak než v dřívějším rozsudku, ale opět žalobu zamítl.
+Dovolání je dále přípustné proti rozsudku odvolacího soudu ve věci samé, jímž bylo rozhodnutí soudu prvního stupně potvrzeno, jestliže odvolací soud (na návrh nebo i bez návrhu stran) ve výroku rozsudku vyslovil, že dovolání je přípustné, protože jde o rozhodnutí po právní stránce zásadního významu (§ 239 odst. 1 o. s. ř.). Takový výrok však rozsudek odvolacího soudu neobsahuje.
+Ani podle § 239 odst. 2 o. s. ř. přípustnost dovolání nepřichází v úvahu. Podle tohoto ustanovení, nevyhoví-li odvolací soud návrhu účastníka na vyslovení přípustnosti dovolání, který byl učiněn nejpozději před vyhlášením potvrzujícího rozsudku, je dovolání podané tímto účastníkem přípustné, jestliže dovolací soud dospěje k závěru, že napadané rozhodnutí odvolacího soudu má po právní stránce zásadní význam. Žalobci totiž nenavrhli, aby odvolací soud přípustnost dovolání vyslovil.
+Za této procesní situace, kdy nelze dovodit přípustnost dovolání podle žádného v úvahu přicházejícího ustanovení občanského soudního řádu, dovolacímu soudu nezbylo, než dovolání žalobců jako nepřípustné odmítnout /§ 243b odst. 4, § 218 odst. 1 písm. c) o. s. ř./, aniž se mohl věcně zabývat jejich dovolacími námitkami tak, jak byly v dovolání uplatněny.
+Výrok o nákladech dovolacího řízení vyplývá z toho, že žalovaná byla úspěšná a příslušela by jí proto podle § 243b odst. 4, § 224 odst. 1, § 151 odst. 1 a § 142 odst. 1 o. s. ř. náhrada těchto nákladů. Žádné náklady jí však nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 12. prosince 2000
+JUDr. Marie R e z k o v á , v.r.
+předsedkyně senátu
+Za správnost vyhotovení: Marcela Jelínková
