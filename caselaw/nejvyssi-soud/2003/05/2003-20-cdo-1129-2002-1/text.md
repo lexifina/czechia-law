@@ -1,0 +1,23 @@
+20 Cdo 1129/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobkyně Č. o. s. proti žalovaným 1) Tělovýchovné jednotě S. R. a 2) Českému svazu tělesné výchovy se sídlem v Praze 6, Mezi stadiony 40, o navrácení majetkových práv, vedené u Okresního soudu v Přerově pod sp. zn. 6 C 222/92, o dovolání první žalované proti rozsudku Krajského soudu v Ostravě ze dne 20.12.2001, č.j. 40 Co 797/2000-235, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Odvolací soud potvrdil rozsudek, jímž soud prvního stupně rozhodl o žalobě vycházející z restitučních zákonů č. 173/1990 Sb. a č. 232/1991 Sb. tak, že první žalované uložil povinnost uzavřít se žalobkyní dohodu o navrácení majetkových práv k označeným nemovitostem a proti druhému žalovanému žalobu zamítl.
+Ve včasném dovolání, jehož přípustnost dovozuje z ustanovení § 238 odst. 1 písm. b/ o.s.ř., ve znění účinném do 1.1.2001, první žalovaná (zastoupena advokátem) namítla, že řízení bylo postiženo jinou vadou, která mohla mít za následek nesprávné rozhodnutí ve věci (§ 241 odst. 3 písm. b/ o.s.ř.), a že rozsudek odvolacího soudu spočívá na nesprávném právním posouzení věci (§ 241 odst. 3 písm. d/ o.s.ř). Vadu řízení spatřuje dovolatelka v tom, že odvolací soud nepřihlédl k argumentaci, kterou v řízení uplatnila, pročež jí bylo odepřeno právo na spravedlivý proces podle čl. 36 odst. 1 Listiny základních práv a svobod; navrácení majetkových práv je podle jejího názoru výrazem nesprávného právního posouzení tím, že je v rozporu s dobrými mravy, neboť k rozhodnému dni 31.3.1948 žalobkyně nebyla jejich vlastníkem.
+Žalobkyně se k dovolání nevyjádřila.
+Podle části dvanácté, hlavy první, bodu 17. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (dále jen „o.s.ř.“).
+Dovolání není přípustné.
+Podle § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu jen za předpokladu, že to zákon - jde-li o rozsudek, v ustanoveních § 237, § 238 a § 239 o.s.ř. - připouští.
+Z ustanovení § 238 odst. 1 písm. a/ o.s.ř. přípustnost dovolání nevyplývá, neboť napadený rozsudek není rozsudkem měnícím nýbrž potvrzujícím.
+Dovolání není - oproti představě dovolatelky - přípustné ani z hlediska ustanovení § 238 odst. 1 písm. b/ o.s.ř.; soud prvního stupně sice v dané věci rozhodoval dvakrát, není však splněna podmínka, aby v pořadí druhým rozsudkem rozhodl jinak než původně.
+Ustanovení § 239 odst.1, 2 o.s.ř. k založení přípustnosti dovolání není rovněž použitelné, jelikož odvolací soud přípustnost dovolání zvláštním výrokem nevyslovil, resp. nebyl podán návrh, aby dovolání bylo připuštěno, jemuž by nevyhověl.
+Zbývá posoudit přípustnost dovolání z hlediska ustanovení § 237 odst. 1 o.s.ř.; existenci zde vyjmenovaných vad však dovolatelka netvrdí, a z obsahu spisu se nepodávají. Dovolatelčiny námitky nejsou podřaditelné ani ustanovení § 237 odst. 1 písm. f/ o.s.ř., neboť o odnětí možnosti jednat před soudem nejde, jestliže soud uplatnil v řízení jiný právní názor, vzhledem k němuž se staly nevýznamnými důkazní návrhy, které účastník předložil (srov. rozhodnutí uveřejněné pod č. 27/1998 a 49/1998 Sbírky soudních rozhodnutí a stanovisek, a mnohá další). Na základě spisu není žádného důvodu k závěru, že procesní práva činit podání (§ 41 odst. 1 o.s.ř.), navrhovat důkazy a vyjádřit se k důkazům již provedeným (§ 123 o.s.ř.), resp. vyjádřit se k dokazování a k právní stránce věci (§ 118 odst. 3 o.s.ř.), byla dovolatelce upřena.
+Dovolání tedy podle § 237 o.s.ř. přípustné není; jelikož možnost dovodit přípustnost dovolání z jiných ustanovení byla vyloučena již dříve, nezbylo Nejvyššímu soudu než je jako nepřípustné odmítnout ( § 243b odst. 4, § 218 odst. 1 písm. c/ o.s.ř.).
+Dalšími námitkami, které dovolatelka proti napadenému rozsudku uplatnila, lze sice dovolání odůvodnit (§ 241 odst. 2 o.s.ř.), účinně však jen za logického předpokladu, že dovolání je přípustné. Samy o sobě přípustnost dovolání nezakládají, a pro posouzení této otázky jsou nerozhodné.
+O nákladech řízení bylo rozhodnuto podle § 243b odst. 4, § 224 odst. 1 a § 146 odst. 2, věty první (per analogiam), o.s.ř.; žalobkyni, jež by ve smyslu těchto ustanovení měla na jejich náhradu právo, však ve stadiu dovolacího řízení prokazatelné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 29. května 2003
+JUDr. Vladimír Kurka, v.r.
+předseda senátu
