@@ -1,0 +1,15 @@
+32 Odo 634/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Kateřiny Hornochové a soudců JUDr. Zdeňka Dese a JUDr. Miroslava Galluse ve věci žalobkyně M. N., zastoupené, advokátem, proti žalované Z. K., zastoupené, advokátkou, o zaplacení 250 000 Kč s příslušenstvím, vedené u Okresního soudu ve Strakonicích pod sp. zn. 6 C 32/2002, o dovolání žalované proti rozsudku Krajského soudu v Českých Budějovicích ze dne 18. února 2003 č. j. 8 Co 2616/2002 – 69, takto:
+I. Dovolání se odmítá.
+II. České republice se právo na náhradu nákladů dovolacího řízení nepřiznává.
+III. Zástupci žalobkyně K. H., advokátu se sídlem ve S., U M. č. 87 se přiznává na náhradě nákladů dovolacího řízení 7 575 Kč .
+IV. Žalobkyně nemá vůči žalované právo na náhradu nákladů dovolacího řízení.
+Protože dovolání směřující proti rozsudku Krajského soudu v Českých Budějovicích ze dne 18. února 2003 č. j. 8 Co 216/2002 - 69, jímž byl potvrzen ve věci samé v pořadí první rozsudek Okresního soudu ve Strakonicích ze dne 18. února 2003 č. j. 8 Co 2616/2002 – 69 ve znění usnesení ze dne 5. prosince 2002 č. j. 6 C 32/2002 – 52, nebylo shledáno přípustným podle § 237 odst. 1 písm. c) zákona č. 99/1963 Sb. občanského soudního řádu, ve znění pozdějších předpisů (dále jen „o. s. ř.“), není třeba rozhodnutí o odmítnutí dovolání odůvodňovat (viz § 243c odst. 2 o. s. ř.).
+O náhradě nákladů dovolacího řízení státu bylo rozhodnuto podle § 140 odst. 2 o. s. ř, který stanoví, že stát, jenž má povinnost platit hotové výdaje ustanoveného advokáta, má následně podle § 148 odst. 1 o. s. ř. právo na náhradu nákladů řízení, které platil, podle výsledku řízení proti účastníkům řízení, ovšem pouze tehdy, pokud u nich nejsou předpoklady pro osvobození od soudních poplatků. To znamená, že jsou-li zde předpoklady pro osvobození od soudních poplatků, a žalovaná osvobozena byla, pak stát právo na náhradu nákladů řízení proti takovému účastníku nemá.
+O náhradě nákladů dovolacího řízení ve vztahu mezi účastnicemi bylo rozhodnuto tak, že na ně nemá úspěšná žalobkyně právo, neboť jí žádné náklady řízení nevznikly (§ 243b odst. 5,§ 224 odst. 1 a § 142 odst. 1 o. s. ř.).
+Dovolací soud dále rozhodl o přiznání odměny a hotových výdajů ustanovenému advokátovi žalobkyně K. H. ve výši 7 575 Kč, které sestávají z odměny advokáta (účelně vynaloženým nákladem byl shledán sepis vyjádření k dovolání při předmětu řízení 250 000 Kč) ve výši 7 500 Kč /část dvanáctá hlava první bod 10 zákona č. 30/2000 Sb., § 3 odst. 1, 8 písm. a), § 10 odst. 3, § 16, § 15 v návaznosti na § 14 odst. 1 a § 18 odst. 1 vyhlášky č. 484/2000 Sb., kterou se stanoví paušální odměny za zastoupení účastníka advokátem nebo notářem při rozhodování o náhradě nákladů v občanském soudním řízení (advokátní tarif) a z paušální částky náhrady hotových výdajů advokáta ve výši 75 Kč (§ 13 odst. 3 vyhl. č. 177/1996 Sb.)/.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 19. února 2004
+JUDr. Kateřina Hornochová, v.r.
+předsedkyně senátu
