@@ -1,0 +1,16 @@
+28 Nd 95/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Josefa Rakovského a soudců JUDr. Ludvíka Davida, CSc. a JUDr. Oldřicha Jehličky, CSc. v právní věci žalobkyně H. H., zastoupené advokátem, proti žalovanému Ing. T. Š., zastoupenému advokátem, o určení neplatnosti darovací smlouvy, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 43 C 259/2001, o návrhu soudu na přikázání věci Okresnímu soudu v Uherském Hradišti z důvodu vhodnosti, takto:
+Věc vedená u Obvodního soudu pro Prahu 4 pod sp. zn. 43 C 259/2001 se přikazuje k projednání Okresnímu soudu v Uherském Hradišti.
+O d ů v o d n ě n í :
+V posuzované věci byla podána žaloba na určení neplatnosti darovací smlouvy, uzavřené dne 11. 2. 2001 mezi matkou žalobkyně (dárkyní) a bratrem žalobkyně (nyní žalovaným). Návrh na zápis vlastnického práva nabyvatele do katastru nemovitostí byl podán dne 20. 4. 2001, předmětnými nemovitostmi jsou pozemky v k. ú. M., obec P. Dárkyně dne 26. 4. 2001 zemřela a dědické řízení probíhá u Okresního soudu v Uherském Hradišti pod sp. zn. D 782/2001.
+V žalobě označený (zřejmě z důvodu polohy nemovitosti) Obvodní soud pro Prahu 4 předal věc Nejvyššímu soudu podle § 12 odst. 3 o. s. ř. s iniciativou, aby z důvodu vhodnosti projednal a rozhodl věc jako soud prvního stupně Okresní soud v Uherském Hradišti. Dodal, že oba účastníci mají bydliště v Uherském Hradišti, tamtéž je i bydliště navrhovaných svědků a týž soud projednává i dědictví po zemřelé dárkyni. Proto by bylo nehospodárné vést řízení u dosud označeného soudu.
+Žalobkyně ve svém vyjádření ponechala rozhodnutí o návrhu soudu na úvaze Nejvyššího soudu.
+Žalovaný se vyjádřil tak, že by věc Okresnímu soudu v Uherském Hradišti neměla být přikázána.
+Nejvyšší soud zvážil předkládané skutečnosti a dospěl k závěru, že důvod přikázání věci je ve smyslu § 12 odst. 2 o. s. ř. dán. Předmětem řízení je posouzení závazkového vztahu; jeden z jeho účastníků má bydliště v sídle Okresního soudu v Uherském Hradišti. Dá se očekávat, že i případní svědkové, kteří budou soudem prvního stupně vyslechnuti, budou mít bydliště převážně v obvodu tohoto soudu. Dán je i další důvod z hlediska hospodárnosti řízení, neboť o dědění po dárkyni (skutečnosti v dědickém řízení zjištěné mohou mít případně význam při z hlediska dokazování) rozhoduje opět Okresní soud v Uherském Hradišti.
+Lze jen dodat, že rozhodnutím o přikázání věci z důvodu vhodnosti je v jiné procesní rovině řešena otázka místní příslušnosti soudu (§ 11, § 105 o. s. ř.). Posuzována má být platnost či neplatnost závazkového vztahu. Darované nemovitosti se sice nacházejí v obvodu pražské městské části, výklad ustanovení o výlučné místní příslušnosti podle polohy nemovitosti (§ 88 písm. g/ o. s. ř.) je však restriktivní - musí jít o právo primárně se vážící k nemovitosti, jako vlastnické, užívací, eventuálně nájemní – a nasvědčuje místní příslušnosti obecného soudu podle bydliště žalovaného. V zájmu ochrany procesních práv účastníků přitom je, aby nikdo nebyl odňat svému zákonnému soudci.
+Nejvyšší soud proto rozhodl o přikázání věci Okresnímu soudu v Uherském Hradišti.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 17. července 2003
+JUDr. Josef Rakovský, v. r.
+předseda senátu
