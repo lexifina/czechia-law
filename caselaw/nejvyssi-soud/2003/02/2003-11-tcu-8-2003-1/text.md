@@ -1,0 +1,27 @@
+11 Tcu 8/2003
+ČESKÁ REPUBLIKA
+R O Z S U D E K
+J M É N E M R E P U B L I K Y
+Nejvyšší soud České republiky v senátě složeném z předsedy senátu JUDr. Karla Hasche a soudců JUDr. Antonína Draštíka a JUDr. Stanislava Rizmana ve veřejném zasedání konaném dne 12. února 2003 projednal návrh Ministerstva spravedlnosti České republiky na uznání rozsudků soudů Slovenské republiky a rozhodl t a k t o :
+Podle § 384a odst. 1 tr. ř., v trestní věci odsouzeného J. L., státního občana České republiky, s e u z n á v á na území České republiky rozsudek Okresního soudu ve Skalici, Slovenská republika, ze dne 18. 3. 2002, sp. zn. 1 T 93/01, ve spojení s usnesením Krajského soudu v Trnavě, Slovenská republika, ze dne
+27. 6. 2002, sp. zn. 3 To 84/02.
+O d ů v o d n ě n í :
+Rozsudkem Okresního soudu ve Skalici, Slovenská republika, ze dne 18. 3. 2002,
+sp. zn. 1 T 93/01, ve spojení s usnesením Krajského soudu v Trnavě, Slovenská republika, ze dne 27. 6. 2002, sp. zn. 3 To 84/02, byl J. L. uznán vinným trestnými činy nedovolené výroby a držby omamné látky, psychotropní látky, jedu a prekursoru a obchodování s nimi podle § 9 odst. 2, § 187 odst. 1 písm. a), c), d) trestního zákona, nedovolené výroby a držby jaderných materiálů a vysokorizikových chemických látek podle § 188 odst. 1 trestního zákona a ublížení na zdraví podle § 224 odst. 1, 2 trestního zákona.
+Za tyto trestné činy mu byl uložen úhrnný trest odnětí svobody v trvání šesti let, trest zákazu činnosti – řízení motorových vozidel na dobu pěti let a ochranné ambulantní protitoxikomanické léčení. Stalo se tak na základě zjištění, že
+odsouzený L.
+1. v přesně nezjištěném období měsíce září 2001 přivezl do S., část K. h., do vinohradnické chatky bez čísla popisného, destilační zařízení na výrobu omamné látky, na kterém společně s obviněným R. T. a R. B. do 5. 10. 2001 vyráběli ze Solutanu metamfetamin a tento zprostředkovávali jiným osobám.
+2. dne 27. září 2001 v 11:55 hod. na cestě II/426 v úseku S.–H. řídil osobní motorové vozidlo zn. Audi 100 a v km 28,5 začal předjíždět před ním jedoucí motorové vozidlo tak, že se svým vozidlem přejel do levého jízdního pruhu přesto, že v protisměru přijíždělo protijedoucí motorové vozidlo zn. Škoda 100, do kterého čelně narazil a následně vozidlo VW Golf, které jelo za vozidlem Škoda 100, pravou přední částí narazilo do zadní části vozidla Škoda 100, přičemž řidička tohoto vozidla
+J. D. utrpěla při dopravní nehodě četná poranění hlavy, krku, trupu a končetin, což vedlo k selhání životně důležitých funkcí a bezprostředně k její smrti, spolujezdkyně A. F. utrpěla tříštivé zlomeniny stehenní kosti vpravo a vlevo, otevřenou zlomeninu pravé holenní kosti s posunem, pohmoždění mozku, zlomeninu pravého ramene čelisti, zlomeninu jařmovo-čelistního komplexu, zlomeniny 4. a
+7. žebra vlevo, 2. a 6. žebra vpravo, zlomeninu dolního konce vřetenní kosti a odlomení výběžku loketní kosti vpravo a tržné rány tváře, pravé horní končetiny a obou dolních končetin s dobou léčení a práceneschopnosti od 27. 9. 2001 až do rozhodnutí soudu prvního stupně a spolujezdkyně S. D. utrpěla zlomeninu stehenní kosti vlevo, trhlinu a pohmoždění pravého laloku jater, pohmoždění pravé ledviny, otřes mozku, centrální poškození lícního nervu vlevo, zlomeninu nosních kostí a pohmoždění plic vpravo s dobou léčení od 27. 9. 2001 do 20. 12. 2001.
+Oba citované rozsudky slovenských soudů nabyly právní moci dne 27. 6. 2002.
+V současné době odsouzený J. L. vykonává trest odnětí svobody v Ústavu na výkon trestu odnětí svobody v T. s tím, že podle vyjádření dotčených orgánů má být výkon trestu ukončen dne 9. 10. 2007.
+Odsouzený projevil nejprve v podání adresovaném Ministerstvu spravedlnosti České republiky zájem o předání k výkonu trestu do České republiky a následně v prohlášení učiněném v místě výkonu trestu dne 26. 7. 2002 uvedl, že po poučení o právních důsledcích předání k výkonu trestu odnětí svobody do České republiky s tímto souhlasí.
+Ministerstvo spravedlnosti České republiky předložilo proto dne 27. 1. 2003 tuto věc Nejvyššímu soudu České republiky s návrhem, aby podle § 384a tr. ř. výše citované rozsudky slovenských soudů uznal na území České republiky.
+Nejvyšší soud České republiky přezkoumal předloženou trestní věc a shledal, že právní podmínky pro uznání předmětných rozsudků jsou v této věci splněny tak, jak jsou stanoveny v příslušných ustanoveních Smlouvy mezi Slovenskou republikou a Českou republikou o právní pomoci poskytované justičními orgány a o úpravě některých právních vztahů v občanských a trestních věcech uveřejněné pod č. 209/1993 Sb. a Úmluvy o předávání odsouzených osob uveřejněnou pod č. 553/1992 Sb.
+Odsouzený J. L. je podle vyjádření Okresního úřadu v H. ze dne 5. 9. 2002 občanem České republiky, který vyjádřil v prohlášení ze dne 26. 7. 2002 souhlas s předáním k výkonu trestu na území České republiky, přičemž skutky, pro které byl odsouzen, vykazují znaky trestných činů i podle právního řádu České republiky (trestné činy nedovolené výroby a držení omamných a psychotropních látek a jedů podle § 187 odst. 1, § 188 odst. 1 tr. zák. a ublížení na zdraví podle § 224 odst. 1, 2 tr. zák.) a zbytek trestu odnětí svobody, který je třeba ještě vykonat, převyšuje dobu šesti měsíců.
+Ze shora uvedených důvodů bylo rozhodnuto tak, že se návrhu na uznání cizozemského rozsudku vyhovuje.
+P o u č e n í : Proti tomuto rozsudku není žádný opravný prostředek přípustný.
+V Brně dne 12. února 2003
+Předseda senátu:
+JUDr. Karel Hasch
