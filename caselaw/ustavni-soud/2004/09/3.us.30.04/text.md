@@ -1,0 +1,158 @@
+III.ÚS 30/04 ze dne 22. 9. 2004
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Česká republika
+
+
+
+
+
+
+
+
+
+
+USNESENÍ
+
+
+
+
+
+
+
+
+
+
+Ústavního soudu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+III. ÚS 30/04
+       Ústavní soud rozhodl dne 22. září 2004 mimo ústní jednání a bez přítomnosti účastníků v senátě složeném z předsedy JUDr. Jana Musila, soudců JUDr. Pavla Holländera a JUDr. Jiřího Muchy, ve věci navrhovatele RSDr. O. K., , zastoupeného Prof. JUDr. A. G., CSc., advokátem, o ústavní stížnosti proti rozsudku Nejvyššího správního soudu ze dne 22. října 2003 č. j. 6 A 21/2001-59 a o návrhu na zrušení "ustanovení § 165 odst. 7 zák. č. 221/1999 Sb., o vojácích z povolání, ve znění pozdějších předpisů, včetně poznámky pod čarou č. 48", t a k t o :
+I.   Ústavní stížnost se odmítá.
+II. Návrh na zrušení "ustanovení § 165 odst. 7 zák. č. 221/1999 Sb., o vojácích z povolání, ve znění pozdějších předpisů, včetně poznámky pod čarou č. 48" se odmítá.
+O d ů v o d n ě n í 
+I.
+       Včas podanou, jakož i z pohledu ostatních zákonných náležitostí formálně bezvadnou ústavní stížností stěžovatel napadl v záhlaví uvedené rozhodnutí Nejvyššího správního soudu s tvrzením, že jím došlo k porušení ústavních kautel zakotvených v čl. 1, čl. 3 odst. 1 a čl. 36 odst. 1 Listiny základních práv a svobod, čl. 1 Ústavy ČR, čl. 6 odst. 1 a čl. 14 Úmluvy o ochraně lidských práv a základních svobod ve spojení s čl. 1 Protokolu č. 1 k této Úmluvě a rovněž čl. 2 odst. 1 a čl. 26 Mezinárodního paktu o občanských a politických právech.
+       Označeným rozhodnutím Nejvyšší správní soud zamítl žalobu stěžovatele směřující proti  rozhodnutí Ministerstva obrany (finanční sekce) ze dne 4. ledna 2001 č. j. 45/3-3136/2000-8201, jímž bylo potvrzeno rozhodnutí Vojenského úřadu sociálního zabezpečení ze dne 24. listopadu 2000 zamítající jeho návrh na zpětné přiznání výsluhového příspěvku.
+       Ke skutkovému stavu předmětné věci stěžovatel uvedl, že byl ke dni 31. prosince 1994 propuštěn ze služebního poměru vojáka z povolání a dle § 33 zák. č. 76/1959 Sb., v tehdy platném znění, mu byl přiznán výluhový příspěvek na období od 1. ledna 1995 do 27. července 2016. Na základě zák. č. 34/1995 Sb. a v jeho intencích mu byla výplata výluhového příspěvku ke dni 31. prosince 1996 následně zastavena [§ 33 odst. 1 písm. b) zák. č. 76/1959 Sb., ve znění zák. č. 34/1995 Sb.].
+       V souvislosti s nabytím účinnosti zák. č. 221/1999 Sb., o vojácích z povolání, stěžovatel podal dne 21. listopadu 2000 k Vojenskému úřadu sociálního zabezpečení žádost o zpětné přiznání výluhového příspěvku, neboť se domníval, že má na jeho výplatu nárok, když ve smyslu § 165 odst. 8 zák. č. 221/1999 Sb. u vyjmenovaných skupin vojáků, mezi něž se zahrnuje, se nemělo k dobám vyloučeným ze započtení do doby rozhodné pro určení nároku na výsluhový příspěvek zák. č. 34/1995 Sb. nadále přihlížet. Ve věci rozhodující orgány veřejné moci se naproti tomu shodly na závěru, že stěžovatel nebyl "na základě dobrovolnosti reatestován", a tudíž nesplňuje nezbytnou podmínku pro obnovení výplaty výsluhového příspěvku, přičemž toto jejich stanovisko našlo svého výrazu ve výrocích shora citovaných rozhodnutí. 
+       Stěžovatel svou ústavněprávní argumentaci směřuje do rozhodnutí Nejvyššího správního soudu. 
+       Klíčovou otázkou, o jejíž řešení se výrok napadeného rozhodnutí opírá, bylo vymezení dosahu pojmu "reatestován" uvedeného v § 165 odst. 8 zák. č. 221/1999 Sb. V daném ohledu vycházel Nejvyšší správní soud z poznámky pod čarou k tomuto ustanovení a výraz "reatestován" vztáhl k rozkazu ministra obrany č. 015/90. Následně při podřazení pod citované ustanovení zákona vyšel z nesporné skutečnosti, že stěžovatel v jeho smyslu reatestován nebyl. V této souvislosti na podporu své argumentace stěžovatel uvádí, že v době reatestací nevykonával žádnou funkci ve vojenském obranném zpravodajství a nemohl se proto reatestací zúčastnit. Uvedený restriktivní výklad pojmu reatestován považuje za protiústavní, neboť vede k diskriminačním důsledkům projevujícím se v jeho právní sféře. Stěžovatel nicméně absolvoval jiné formy hodnocení. Zdůrazňuje, že zák. č. 34/1995 Sb. vyloučil započitatelné doby služby pro nárok na výsluhový příspěvek všem osobám, jež sloužily jednak ve vojenské kontrarozvědce, jednak v dalších funkcích. Ve smyslu výkladu uvedeného v odůvodnění rozsudku Nejvyššího správního soudu ovšem zák. č. 221/1999 Sb. umožnil jeho opětovné vyplácení pouze některým osobám z okruhu subjektů, na něž se vztahoval zák. č. 34/1995 Sb. Zákon tedy dle tohoto výkladu vázal vznik práva na obnovení výplaty výsluhového příspěvku na právní skutečnost, kterou stěžovatel nemohl ex post ovlivnit a nadto se tato podmínka týkala okruhu vojáků, mezi něž nemohl patřit. Pro zákonodárcem zvolené rozlišovací kritérium nespatřuje žádné rozumné vysvětlení. Neztotožňuje se ani s názorem vysloveným v odůvodnění rozhodnutí Ministerstva obrany, konstatujícím, že důvodem pro zpětné přiznání výsluhového příspěvku "reatestovaným" vojákům bylo zabezpečování zvláštních úkolů ve válce v Perském zálivu.
+       Ústavně konformní výklad předmětného ustanovení stěžovatel shledává v tom, že výraz reatestován je třeba vykládat jako pojem zahrnující jakékoliv prověrky, pohovory a  hodnocení,  jež  probíhaly  v  rámci  armády po  listopadu  1989  a  dopadly pro posuzované osoby příznivě. On sám se podrobil, jak dále uvádí, hodnocení podle rozkazu č. 11/90 ("Atestační řízení v Čs. lidové armádě") a č. 23/1993 ("Mimořádné hodnocení vojáků z povolání Armády České republiky"), přičemž prošel s výsledkem, že je schopen sloužit v armádě a zastávat svou funkci. 
+       Stěžovatel v návaznosti na vytýkanou diskriminaci poukázal rovněž na rozsudek Evropského soudu pro lidská práva ve věci Bucheň proti České republice (č. 36541/97), v níž Evropský soud dovodil, že i právo na výsluhový příspěvek je chráněno podle čl. 1 Protokolu č. 1 k Úmluvě o ochraně lidských práv a základních svobod.
+       S ohledem na tato tvrzení, tj. akcentováním porušení principu akcesorické i neakcesorické rovnosti, stěžovatel proto navrhl, aby Ústavní soud v záhlaví označené rozhodnutí pro zásah do vpředu vyjmenovaných ústavně zaručených základních práv nálezem zrušil.
+       Stěžovatel dále, s ohledem na své výhrady o nedůvodné diskriminaci a nerovném zacházení s různými skupinami bývalých vojáků z povolání, využil rovněž možnosti dané mu ustanovením § 74, resp. § 64 odst. 1 písm. e) zák. č. 182/1993 Sb., ve znění pozdějších předpisů, a domáhal se zrušení předmětného ustanovení, jež je ve znění aktuálně účinného zák. č. 229/1999 Sb. formulováno v § 165 odst. 7. V této souvislosti znovu poznamenal, že nikdo jiný než subjekt spadající do okruhu osob vyjmenovaných v rozkaze ministra obrany ČSFR č. 015/90 ze dne 26. listopadu 1990 se reatestací nemohl zúčastnit a došlo tak k vyloučení z reatestací všech vojáků, kteří nikdy nesloužili ve vojenském obranném zpravodajství a předtím ve vojenské kontrarozvědce. Zdůraznil, že v důsledku aplikace zák. č. 34/1995 Sb. byla zastavena výplata výsluhových příspěvků, resp. došlo alespoň k jejich snížení všem vojákům z povolání, kteří sloužili ve funkcích uvedených v § 33 odst. 9 zák. č. 76/1959 Sb. Přitom na základě zák. č. 221/1999 Sb. se vytvořila skupina privilegovaných vojáků, kteří byly podle citovaného rozkazu reatestováni a jako jediní mají opět nárok na výsluhový příspěvek, neboť doby vyloučené ze započítání do dob rozhodných pro přiznání výsluhového příspěvku zák. č. 34/1995 Sb. jim bylo možno znovu započítat. Ostatní vojáci z povolání, kterým byla výplata výsluhového příspěvku zastavena, nikdy neměli a ani nemají možnost zákonné podmínky splnit, když jde o vojáky, kteří působili v rámci Československé lidové armády, aniž by vykonávali jakoukoliv kontrarozvědnou činnost.
+       Takto založenou nerovnost mezi kategoriemi bývalých vojáků z povolání nepovažuje stěžovatel za nerovnost akceptovatelnou, tj. opřenou o rozumná a objektivní kritéria, která by zvolené řešení ospravedlňovala, neboť pro obnovení výplaty výsluhového příspěvku je nutno splnění právní skutečnosti nastalé v minulosti. 
+II.
+       Ústavní stížnost byla, sluší se poznamenat rovněž i ve shodě s dosavadní judikaturou dopadající na obdobnou skutkovou i právní situaci (
+sp. zn. IV. ÚS 508/03
+ ze dne 21. dubna 2004, 
+sp. zn. III. ÚS 481/03
+ ze dne 2. června 2004), posouzena jako zjevně neopodstatněná.
+       K otázce nastolené stěžovatelem ohledně protiústavnosti § 165 odst. 8 zák. č. 221/1999 Sb. Nejvyšší správní soud konstatoval, že tuto námitku nepovažuje za důvodnou. 
+       Poté, co se zabýval předmětným ustanovením z pohledu jeho ústavní konformity, se zaměřil na interpretaci pojmu "reatestace". Vyšel z logického výkladu vylučujícího, aby toto cizí slovo (mimo zák. č. 221/1999 Sb. jej zná toliko vyhláška Ministerstva zdravotnictví a Ministerstva zemědělství č. 473/2000 Sb., jež s ním operuje v jiných souvislostech) vyložil ve smyslu obecného, běžného významu. V návaznosti na jím zastávaný názor o nutnosti podrobit analýze zvláštní význam předmětného pojmu dodal, že neobvyklost a výrazná ohraničenost užití tohoto cizího slova jej z pohledu gramatického výkladu nutí vnímat tuto zákonnou podmínku v souvislosti s poskytnutím dobrodinní zákona jako vážící se toliko k určité ohraničené skupině vojáků z povolání. Konstatoval, že není namístě vykládat tuto výjimku extenzivním způsobem. Zaujal stanovisko, že je třeba tento pojem vykládat v mezích odkazu pod čarou č. 48, byť odkaz pod čarou není součástí právního předpisu a jedná se nejvýše o informaci k výkladu e ratione legis. Zvláštnost užití výrazu "reatestace" jej potom vedla k tomu, že je možné právě za pomoci použití výkladu e ratione legis vztáhnout ustanovení § 165 odst. 8 zák. č. 221/1999 Sb. pouze ke skupině osob vymezených Rozkazem ministra obrany č. 015/90. Uzavřel, že jakkoliv mohly být prováděny prověrky obdobné povahy před vydáním tohoto rozkazu či po něm, přiznání výsluhového příspěvku se zpětně váže jen na reatestace, které byly uskutečněny na jeho základě, když případná obsahová podobnost s dříve či posléze prováděnými prověrkami či hodnoceními tak není rozhodující.  
+       Tuto interpretaci předmětného ustanovení provedenou Nejvyšším správním soudem Ústavní soud nepovažuje za vybočující z rámce ústavnosti, když na okraj k akceptaci pro ni určujícího teleologického výkladu připomíná, že v rámci výkladových metod směřujících k nalezení významu a smyslu zákona lze mimo jiné jako relevantní konstatovat i jeden z v dané věci použitých a rozhodujících interpretačních přístupů, totiž to, že "k porozumění zákonu je třeba porozumět ,chorobě společnosti´, kterou má zákon léčit" (Fuller Lon L.: Morálka práva, OIKOYMENH, Praha, 1998, str. 81). Popsanou interpretací, resp. jejím výsledkem se tak Nejvyšší správní soud nedostal do rozporu s obsahem obvyklých výkladových metod směřujících ke zjištění dosahu interpretovaného ustanovení a nevykročil tudíž z mezí ustanovení hlavy páté Listiny základních práv a svobod.
+       Z vlastní úřední činnosti je Ústavnímu soudu rovněž známo, že znění § 165 odst. 8 bylo do zákona č. 221/1999 Sb., o vojácích z povolání, zapracováno na základě pozměňujícího poslaneckého návrhu, který souvisel s ochranou rodin vojáků, kteří byli nasazeni v akci "Pouštní bouře" v Perském zálivu v roce 1991. Jednalo se tedy o zcela výjimečnou záležitost.
+       Pokud jde o stěžovatelův poukaz na rozhodnutí Evropského soudu pro lidská práva ve věci Bucheň proti České republice (č. 36541/97), toto rozhodnutí se týkalo skutkově jiné situace, neboť zákon č. 304/1993 Sb., o který v dané věci šlo, přímo stanovil, že pokud soudce vojenského soudu udělí souhlas s přidělením k určitému (obecnému) soudu, nepřísluší mu po dobu funkce soudce nárok na výplatu výsluhového příspěvku. V tomto případě řešil Evropský soud pro lidská práva nestejné postavení propuštěných vojáků (vojáků, kteří udělili souhlas s přidělením k obecnému soudu a vojáků, kteří tento souhlas neudělili). Ten však na stěžovatele aplikovat nelze.
+III.
+       Stěžovatel dále, pro případ akceptace tohoto výkladu § 165 odst. 8 (nyní § 165 odst. 7, viz zák. č. 254/2002 Sb.) zák. č. 221/1999 Sb., navrhl, aby jej Ústavní soud z důvodu tvrzené protiústavnosti, jež má vyplývat z diskriminačního zvýhodnění jedné skupiny privilegovaných osob, zrušil.
+       Aktivní legitimace stěžovatele k podání akcesorického návrhu na kontrolu norem může být založena při současném splnění dalších zákonných podmínek pouze v souvislosti s řešením a pravomocným rozhodnutím konkrétní právní věci týkající se individuálně určeného subjektu (stěžovatele) před orgánem veřejné moci, event. v souvislosti s jiným individuálním zásahem tohoto orgánu do jeho ústavně zaručených základních práv [§ 64 odst. 1 písm. e), § 74 zák. č. 182/1993 Sb.], když nutným, byť nikoliv dostatečným, předpokladem pro její přiznání je to, že uplatněním napadeného ustanovení nastala skutečnost, která je předmětem ústavní stížnosti, tj. jeho konkrétní aplikací měla dle tvrzení stěžovatele nastat skutečnost předvídaná ustanovením § 72 odst. 1 písm. a) zák. č. 182/1993 Sb., ve znění pozdějších předpisů. Z rekapitulace věci vyplývá a je nesporné, že Nejvyšší správní soud při svém rozhodování aplikoval ustanovení § 165 odst. 8 (nyní 7) zák. č. 221/1999 Sb. a stěžovatel je tak k návrhu na jeho zrušení aktivně legitimován. 
+       Proto Ústavní soud přistoupil k posouzení předmětného návrhu, přičemž k argumentaci ve vztahu k jeho ústavní souladnosti uvádí ve stručnosti, vycházeje přitom z právního názoru vyjádřeného v nálezu 
+sp. zn. III. ÚS 288/04
+, následující:
+       Výsluhový příspěvek byl kategoriím osob vojáků z povolání odebrán na základě § 33 odst. 9 zák. č. 76/1959 Sb., ve znění zák. č. 34/1995 Sb. Ústavností zákona naposled citovaného se Ústavní soud meritorně zabýval a rozhodl o tehdejším návrhu nálezem ve věci 
+sp. zn. Pl. ÚS 9/95
+. V jeho odůvodnění konstatoval, že pokud se zákonodárný sbor rozhodl zastavit či krátit výplatu výsluhového příspěvku právě těm, kteří svojí morálně politickou spolehlivostí přispívali k potlačování lidských práv a demokratického systému, jde o osoby, stran jejichž působení se jedná o náplň činnosti, která je dostatečně zřetelná a jednoznačná, když bezpochyby ukazuje ve všech směrech rysy činnosti, která je po právu odsouzena demokratickou společností jako činnost výrazně podporující předchozí nedemokratický režim. Zvolený postup se nedotýká ochrany nabytých práv jako takové, ale určitého privilegia skupin osob, které jsou, resp. byly zvýhodněny vůči jiným občanům, a to paradoxně za činnost, která zhusta proti těmto občanům směřovala. Ústavní soud připomněl, že výsluhový příspěvek se přiznává a vyplácí z rozpočtových prostředků, tedy z peněz daňových poplatníků. Bylo by proto nemorální, aby z veřejných prostředků, na které přispívají všichni občané (i v minulosti persekuovaní), byly honorovány bývalé opory komunistického režimu. Zvýšená ocenění za mimořádně ztížené pracovní podmínky a různá osobní omezení nemohou být poskytována těm, jejichž činnost nesloužila veřejnému zájmu a veřejnému blahu, nýbrž potlačování lidských práv a demokratického systému. Přitom ustanovení zák. č. 34/1995 Sb. se nevztahují na všechny příslušníky SNB, SNV či vojáky ČSLA, ale pouze na některé funkce, a to na ty, jejichž činnost je neslučitelná s principy demokratického státu.
+       Ve světle těchto východisek je třeba chápat i nepřímou novelizaci tohoto zákona, resp. § 33 odst. 9 zák. č. 76/1959 Sb., ve znění zák. č. 34/1995 Sb., vyjádřenou v (nynějším) ustanovení § 165 odst. 7 zák. č. 221/1999 Sb. Jeho obsah představuje ve vztahu k § 33 odst. 9 zák. č. 76/1959 Sb., ve znění zák. č. 34/1995 Sb., odstranění tvrdosti u těch bývalých vojáků z povolání, jímž byl výsluhový příspěvek tímto ustanovením odebrán, i když se bezprostředně po svržení totalitního systému dobrovolně podrobili reatestaci, jejímž výsledkem byl negativní závěr o spjetí jejich působení s porušováním lidských práv komunistickým režimem.
+       Směřuje-li tedy návrh stěžovatele ke zrušení § 165 odst. 7 zák. č. 221/1999 Sb. na základě tvrzeného porušení principu rovnosti, tj. argumentu, dle kterého možnost reatestace nebyla umožněna všem osobám spadajícím do okruhu osob dle § 33 odst. 9 zák. č. 76/1959 Sb., ve znění zák. č. 34/1995 Sb., domáhá se de facto pozitivního zásahu zákonodárce, čili aktu, jenž v kompetenci Ústavního soudu není. Samotné zrušení tohoto ustanovení by se totiž jakkoliv nemohlo pozitivně projevit v právní sféře stěžovatele. Stěžovatel tak v podstatě brojí přímo proti ustanovení § 33 odst. 9 zák. č. 76/1959 Sb., ve znění zák. č. 34/1995 Sb. Ústavností obsahu tohoto ustanovení se plénum Ústavního soudu zabývalo ve výše zmíněném nálezu 
+sp. zn. Pl. ÚS 9/95
+. Ve smyslu čl. 89 odst. 2 Ústavy ČR jsou jeho vykonatelná rozhodnutí závazná pro všechny orgány a osoby. III. senát Ústavního soudu je přirozeně tímto nálezem pléna vázán. Nadto neshledává důvody se od názorů v něm vyložených odchylovat, a tudíž postupovat ve smyslu § 23 zák. č. 182/1993 Sb.
+       Co do normativních důsledků představuje dikce ustanovení § 165 odst. 7 zák. č. 221/1999 Sb. zmírnění tvrdosti ex post, nezakládá žádné řízení o reatestaci pro dotčené osoby pro budoucnost a je tudíž normou (opatřením), na níž rovněž dopadá právní názor vyslovený v usnesení Ústavního soudu ve věci 
+sp. zn. Pl. ÚS 5/98
+. Předmětná právní norma je totiž konstruována tím způsobem, že z hlediska obsahu došlo k jejímu naplnění, tj. k nastoupení dispozice v jednom časovém okamžiku, čehož reflexí je ten důsledek, že tímto momentem založila své právní následky, které se poté již z povahy věci samé následným naplněním hypotetického předvětí nemohou uplatnit. Tato platná a účinná norma sice existuje i nadále, její způsobilost vyvolávat nově (konstitutivní) právní následky je však již vyčerpána. Posuzování případů takovýchto právních norem, jež je svojí povahou posuzováním retroaktivním, přesahuje pravomoc Ústavního soudu a plně náleží, s vědomím ústavních omezení, do pravomoci demokratického zákonodárce. 
+       Navzdory tomuto dílčímu závěru je nicméně nutno konstatovat, že napadené ustanovení nevykazuje rysy protiústavnosti. 
+       Při chápání ústavního principu rovnosti se Ústavní soud ztotožnil (a to zejména v nálezech ve věcech vedených pod 
+sp. zn. Pl. ÚS 16/93
+,
+ Pl. ÚS 36/93
+,
+  Pl. ÚS 5/95
+,
+ Pl. ÚS 9/95
+)   s  chápáním  ústavního  principu  rovnosti, jak  byl vyjádřen Ústavním  soudem ČSFR (R 11, 1992): "Je věcí státu, aby v zájmu zabezpečení svých funkcí rozhodl, že určité skupině poskytne méně výhod než jiné. Ani zde však nesmí postupovat  libovolně. ... Pokud  zákon určuje  prospěch jedné skupiny a zároveň tím stanoví neúměrné povinnosti jiné, může se tak stát pouze s odvoláním na veřejné hodnoty."
+       Stran reatestací zákonodárce přiznal více výhod skupině osob, která byla zařazena ve speciální složce armády, a to příslušníkům bývalé vojenské kontrarozvědky, později Vojenského obranného zpravodajství. Tento postup, jak výše již naznačeno, byl odůvodněn jejich rolí při zajišťování bezpečnosti státu v době válečného konfliktu v Perském zálivu. Zákonodárcem sledovaný cíl, totiž preferovat určitou speciální složku armády za účelem zohlednění výjimečné psychické a fyzické náročnosti takové vojenské služby považuje Ústavní soud za legitimní a k jeho dosažení směřující zvolený nástroj co do vztahu mezi použitými prostředky a sledovaným účelem za přiměřený, když nesporně byl ve veřejném zájmu a pro veřejné blaho. Nelze tedy v předmětné úpravě spatřovat znaky diskriminace a nerovnosti, jelikož příslušné rozlišení, jakož i z něho plynoucí vymezení kategorie subjektů je založeno na objektivních kritériích. 
+       Zákonodárce v případě ustanovení § 165 odst. 7 zák. č. 221/1999 Sb., ve znění pozdějších předpisů, při vymezení subjektů vycházel z rozumných a objektivních důvodů ospravedlňujících jeho postup, jenž je oproštěn od libovůle. Především však má Ústavní soud zato, že na výtku stěžovatele v tomto ohledu plně dopadá právní názor vyjádřený v nálezu ve věci 
+sp. zn. Pl. ÚS 4/95
+ (publikovaný ve Sbírce zákonů pod č. 168/1995 Sb.), dle něhož "nerovnost v sociálních vztazích, má-li se dotknout základních lidských práv, musí dosáhnout intenzity, zpochybňující, alespoň v určitém směru, již samu podstatu rovnosti". Ústavní soud zastává stanovisko, dle něhož rovnost je kategorie relativní, jež vyžaduje odstranění neodůvodněných rozdílů. Zásadě rovnosti v právech je třeba rozumět tak, že právní rozlišování v přístupu k určitým právům nesmí být projevem libovůle, neplyne z ní však závěr, že by každému muselo být přiznáno jakékoli právo, přičemž určitá zákonná úprava, jež zvýhodňuje jednu skupinu či kategorii osob oproti jiným, nemůže být sama o sobě bez dalšího označena za porušení principu rovnosti. Zákonodárce má určitý prostor k úvaze, zda takové preferenční zacházení zakotví. Musí přitom dbát na to, aby zvýhodňující přístup byl založen na objektivních a rozumných důvodech (legitimní cíl zákonodárce) a aby mezi tímto cílem a prostředky k jeho dosažení (právní výhody) existoval vztah přiměřenosti (srov. nález ve věci 
+sp. zn. Pl. ÚS 15/02
+, publikovaný ve Sbírce zákonů pod č. 40/2003 Sb.).
+       S ohledem na řečené, a to jak s přihlédnutím k principu akcesorické, tak i neakcesorické rovnosti, ve věci rozhodující III. senát v § 165 odst. 7 zák. č. 221/1999 Sb., ve znění pozdějších předpisů, stěžovatelem namítaný rozpor s ústavními kautelami plynoucími z čl. 1 a čl. 3 odst. 1 Listiny základních práv a svobod, čl. 1 Ústavy ČR, čl. 14 Úmluvy o ochraně lidských práv a základních svobod ve spojení s čl. 1 Protokolu č. 1 k této Úmluvě a čl. 2 odst. 1 a čl. 26 Mezinárodního paktu o občanských a politických právech, neshledal.
+IV.
+       Pro takto vyložené důvody byly ústavní stížnost a s ní spojený návrh na zrušení shora označeného zákonného ustanovení podle § 43 odst. 2 písm. a), b) zák. č. 182/1993 Sb., ve znění pozdějších předpisů, odmítnuty. 
+Poučení:  Proti tomuto usnesení není odvolání přípustné.
+V Brně dne 22. září 2004
