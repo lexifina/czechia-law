@@ -1,0 +1,18 @@
+20 Cdo 907/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudců JUDr. Vladimíra Mikuška a JUDr. Vladimíra Kurky ve věci výkonu rozhodnutí oprávněného J. H., proti povinnému J. J., za účasti manželky povinného J. J., pro 232 738 Kč s příslušenstvím, prodejem nemovitostí, vedené u Okresního soudu v Hradci Králové pod sp. zn. 18 E 604/2001, o dovolání povinného proti usnesení Krajského soudu v Hradci Králové ze dne 26. 11. 2001, č.j. 25 Co 385/2001-37, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Hradci Králové v záhlaví uvedeným rozhodnutím potvrdil usnesení ze dne 24. 4. 2001, č.j. 18 E 604/2001-19, kterým Okresní soud v Hradci Králové nařídil (podle rozsudku téhož soudu ze dne 26. 1. 2000, sp. zn. 14 C 205/96, ve spojení s rozsudkem Krajského soudu v Hradci Králové ze dne 27. 9. 2000, sp. zn. 25 Co 389/2000) k vydobytí pohledávky ve výši 232 738 Kč se 17 % úrokem od 14. 3. 1997 do zaplacení a nákladů předcházejícího řízení ve výši 11 232 Kč výkon rozhodnutí prodejem označených nemovitostí povinného a rozhodl o nákladech řízení; ve výroku o poplatkové povinnosti povinného usnesení soudu prvního stupně změnil a rozhodl o nákladech odvolacího řízení.
+Rozhodnutí odvolacího soudu napadl povinný dovoláním, jímž požadoval zrušení rozhodnutí soudů obou stupňů a vrácení věci soudu prvního stupně k dalšímu řízení.
+Dovolání je opožděné.
+Účastník může podat dovolání do dvou měsíců od doručení rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni, popřípadě u odvolacího nebo dovolacího soudu (§ 240 odst. 1 věta první, odst. 2 věta druhá zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů /dále jen „o.s.ř.“/). Lhůta k podání dovolání je lhůtou procesní a zákonnou, jejíž zmeškání nelze prominout (§ 240 odst. 2 věta první o.s.ř.). Ve smyslu ustanovení § 57 odst. 2 věty první a druhé o.s.ř. končí běh lhůty k podání dovolání uplynutím toho dne, který se svým označením shoduje se dnem, kdy došlo ke skutečnosti určující počátek lhůty, a není-li ho v měsíci, posledním dnem měsíce; připadne-li konec lhůty na sobotu, neděli nebo svátek, je posledním dnem lhůty nejblíže následující pracovní den. Lhůta je zachována, je-li posledního dne lhůty učiněn úkon u soudu nebo podání odevzdáno orgánu, který má povinnost je doručit (§ 57 odst. 3 o.s.ř.).
+V projednávané věci byl stejnopis písemného vyhotovení usnesení odvolacího soudu, obsahující správné poučení o tom, že dovolání není přípustné, ledaže Nejvyšší soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam (pak je lze podat do dvou měsíců od doručení usnesení odvolacího soudu u Okresního soudu v Hradci Králové), doručen povinnému (stejně jako jeho manželce) dne 19. 12. 2001. Dovolání – datované dnem 18. 2. 2002 – odevzdal povinný k doručení Nejvyššímu soudu České republiky poště v N. B. dne 28. 2. 2002 (zásilka R 027760).
+Posledním dnem lhůty, v níž mohl povinný dovolání učinit u soudu, popřípadě podat k přepravě orgánu, který má povinnost je doručit, byl 19. 2. 2002 (úterý); dovolání povinného však bylo podáno po uplynutí lhůty stanovené v § 240 odst. 1 větě první o.s.ř.
+Nejvyšší soud proto dovolání jako opožděné odmítl (§ 243b odst. 5 věta první, § 218 písm. a/ o.s.ř.).
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 4, § 224 odst. 1, § 151 odst. 1 a 146 odst. 3 o.s.ř. (oprávněnému žádné náklady v dovolacím řízení nevznikly a povinný na jejich náhradu právo nemá).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 19. prosince 2002
+JUDr. Pavel Krbek, v.r.
+předseda senátu
