@@ -1,0 +1,27 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+33 Odo 823/2001-174
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobkyně K. B., a. s., proti žalované D. P., o zaplacení částky 26.482,70 Kč s příslušenstvím, vedené u Okresního soudu v Přerově pod sp. zn. 8 C 143/95, o dovolání žalované proti rozsudku Krajského soudu v Ostravě - pobočka v Olomouci ze dne 19. dubna 2001 č. j. 40 Co 980/97 - 155, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Přerově rozsudkem ze dne 27. května 1997 č. j. 8 C 143/95 - 122 uložil žalované zaplatit žalobkyni částku 23.298,- Kč s 3% úrokem z prodlení z částky 9.670,- Kč od 7. 6. 1994 do 14. 7. 1994, s 16% úrokem z částky 9.670,- Kč od 15. 7. 1994 do zaplacení, s 16% úrokem z částky 5.692,- Kč od 2. 8. 1994 do zaplacení, s 16 % úrokem z částky 3.775,- Kč od 7. 9. 1994 do zaplacení a s 16% úrokem z částky 4.161,- Kč od 6. 12. 1995 do zaplacení. Ve zbývajícím rozsahu žalobu na zaplacení částky 3.184,70 Kč s 16% úrokem z prodlení od 16. 3. 1994, 16 % úroku z částky 9.670,- Kč od 16. 3. 1994 do 6. 6. 1994, 16% úroku z částky 5.692,- Kč od 16. 3. 1994 do 1. 6. 1994, 16% úroku z částky 3. 775,- Kč od 16. 3. 1994 do 6. 9. 1994 a 16% úroku z částky 4.161 od 16. 4. 1994 do 5. 12. 1995 zamítl. Současně rozhodl o náhradě nákladů řízení.
+K odvolání žalované proti výroku, kterým byl potvrzen rozsudek soudu prvního stupně Krajský soud v Ostravě - pobočka v Olomouci rozsudkem ze dne 19. dubna 2001 č. j. 40 Co 980/97 - 155 rozsudek okresního soudu v napadené části potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Proti rozsudku odvolacího soudu podala žalovaná dovolání, jehož přípustnost spatřuje v naplnění podmínek ustanovení § 239 odst. 1 o. s. ř. a důvodnost v naplnění podmínek § 241 odst. 3 písm.d) o. s. ř., neboť vytýká soudu nesprávné právní posouzení věci. Dovolatelka navrhuje zrušení rozsudku odvolacího soudu i rozsudku soudu prvního stupně a vrácení věci k dalšímu řízení.
+Podle ustanovení části dvanácté hlavy I bodu 17 zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, se dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona (1. 1. 2001) nebo vydaným po řízení provedeném podle dosavadních právních předpisů projednají a rozhodnou podle dosavadních právních předpisů (tedy podle občanského soudního řádu ve znění platném do 31. 12. 2000 – dále jen „o. s. ř.“).
+Dovolání v této věci není přípustné.
+Dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští (§ 236 odst. 1 o.s.ř.).
+Proti každému rozhodnutí odvolacího soudu (mimo rozhodnutí uvedených v § 237 odst. 2 o.s.ř., které však v dané souvislosti nepřicházejí v úvahu) je dovolání přípustné při splnění podmínek uvedených v § 237 odst. 1 o.s.ř. Tyto vady se ze spisu nepodávají a konečně dovolatelka ani netvrdí, že by řízení těmito vadami trpělo.
+Proti potvrzujícímu rozsudku odvolacího soudu je dovolání dále přípustné za podmínek uvedených v § 238 odst. 1 písm. b) o.s.ř. a v § 239 o.s.ř.
+Podle § 238 odst. 1 písm. b) o.s.ř. je dovolání přípustné proti rozsudku odvolacího soudu, jímž byl potvrzen rozsudek soudu prvního stupně, kterým soud prvního stupně rozhodl jinak než v dřívějším rozsudku proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil.Takový případ však v dané věci nenastal.
+Podle § 239 odst. 1 o.s.ř. je dovolání přípustné proti rozsudku nebo usnesení odvolacího soudu ve věci samé, jímž bylo rozhodnutí soudu prvního stupně potvrzeno, jestliže odvolací soud ve výroku rozhodnutí vyslovil, že dovolání je přípustné, protože jde o rozhodnutí po právní stránce zásadního významu. V daném případě odvolací soud proti svému rozsudku dovolání nepřipustil, i když žalovaná je nesprávně přesvědčena o opaku.
+Občanský soudní řád v ustanovení § 239 odst. 1 o.s.ř. svěřuje výlučně úvaze odvolacího soudu, zda přípustnost dovolání vysloví či nikoliv. Z výslovné dikce citovaného ustanovení plyne, že připuštění dovolání právně relevantním způsobem se může stát pouze ve výroku rozsudku odvolacího soudu. Přípustnost dovolání nemůže být založena poučením, které odvolací soud připojil na závěr písemného vyhotovení svého rozsudku. Tím odvolací soud učinil pouze to, že upozornil účastníky na to, že dovolání proti jeho rozhodnutí je přípustné za splnění zákonných předpokladů, tedy předpokladů, jež byly výše vyloženy.
+Nevyhoví-li odvolací soud návrhu účastníka na vyslovení přípustnosti dovolání, který byl učiněn nejpozději před vyhlášením rozsudku, je dovolání podané tímto účastníkem přípustné, jestliže dovolací soud dospěje k závěru, že napadené rozhodnutí odvolacího soudu má po právní stránce zásadní význam (§ 239 odst. 2 o. s. ř.). V projednávané věci však žalovaná návrh na vyslovení přípustnosti dovolání neučinila.
+Z uvedeného vyplývá, že dovolání směřuje proti rozhodnutí, proti němuž není přípustné.
+Nejvyšší soud ČR proto dovolání žalované odmítl podle § 243b odst. 4 věty první a § 218 odst. 1 písm. c) o. s. ř., aniž se mohl zabývat věcí z hlediska námitek uplatněných v dovolání.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 4, § 224 odst. 1 a § 142 odst. 1 o. s. ř., neboť žalovaná neměla v dovolacím řízení úspěch a žalobkyni náklady v dovolacím řízení nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 4. února 2002
+JUDr. Kateřina Hornochová, v. r.
+předsedkyně senátu
