@@ -1,0 +1,29 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+20 Cdo 763/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Vladimíra Kurky a soudců JUDr. Jany Hráchové a JUDr. Pavla Krbka ve věci výkonu rozhodnutí oprávněného Bytového družstva N., zastoupeného advokátem, proti povinné A. M., zastoupené advokátem, vyklizením bytu, vedené u Obvodního soudu pro Prahu 6 pod sp. zn. 34 E 20/2002, o dovolání povinné proti usnesení Městského soudu v Praze ze dne 30. září 2002, č.j. 58 Co 343/2002-7, takto:
+I. Dovolání se odmítá .
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Odvolací soud potvrdil usnesení, jímž soud prvního stupně nařídil výkon rozhodnutí vyklizením bytu povinné bez zajištění náhrady.
+Proti pravomocnému usnesení odvolacího soudu podala povinná dovolání, jímž vyslovila nesouhlas se stanoviskem odvolacího soudu (dovolací důvod - nesprávné právním posouzení věci - podle § 241a odst. 2 písm.b/ o.s.ř); byt vyklidit nemůže, neboť jinou možnost bydlení nemá a navíc se v bytě nacházejí věci i jejího bývalého manžela, také uživatele bytu, vůči němuž soudní řízení nesměřovalo.
+Nejvyšší soud jako soud dovolací (§ 10a o.s.ř.) po zjištění, že včasné dovolání podala osoba oprávněná zastoupena advokátem (§240 odst. 1, § 241 o.s.ř.), projednal dovolání podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů (dále jen „o.s.ř.“).
+Dovolání není přípustné.
+Podle ustanovení § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Podle § 238a odst. 1 písm.c/ o.s.ř. je dovolání přípustné proti usnesení odvolacího soudu, jímž bylo potvrzeno nebo změněno usnesení soudu prvního stupně, kterým bylo rozhodnuto o návrhu na nařízení výkonu rozhodnutí. Ustanovení § 237 odst. 1 a 3 zde platí obdobně (odstavec 2).
+Z toho plyne závěr, že dovolání proti těmto usnesením je přípustné za předpokladu, že jsou splněny podmínky (jedna z nich), vyslovené v § 237 odst. 1 písm. a/ až c/ o.s.ř.
+Ve smyslu § 237 odst. 1 o.s.ř.je dovolání přípustné v případě měnícího rozhodnutí (písm. a/), nebo v případě, že bylo potvrzeno rozhodnutí soudu prvního stupně, jímž tento soud rozhodl jinak než v dřívějším rozhodnutí, protože byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil (písm. b/), anebo tehdy, bylo-li potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolací soud dospěje k závěru, že jde o rozhodnutí, které má (ve věci samé) po právní stránce zásadní význam (písm.c/).
+Z ustanovení § 237 odst. 1 písm. a/ a b/ o.s.ř přípustnost dovolání neplyne, neboť napadené usnesení není měnící, nýbrž potvrzující, jemuž nepředcházelo dřívější rozhodnutí, které by bylo zrušeno odvolacím soudem.
+Aby mohlo být dovolání přípustné podle § 237 odst. 1 písm. c/ o.s.ř., muselo by být napadené rozhodnutí ve věci samé po právní stránce zásadního významu. Dovolací přezkum tímto ustanovením předvídaný, je předpokládán zásadně pro posouzení otázek právních, pročež způsobilým dovolacím důvodem je ten, jímž lze namítat, že rozhodnutí spočívá na nesprávném právním posouzení věci (§ 241a odst. 2 písm. b/ o.s.ř.).
+Podle § 237 odst. 3 o.s.ř. má rozhodnutí odvolacího soudu po právní stránce zásadní význam zejména tehdy, řeší-li právní otázku, která v rozhodování dovolacího soudu dosud nebyla vyřešena, nebo která je odvolacími soudu nebo dovolacím soudem rozhodována rozdílně, anebo řeší-li tuto otázku v rozporu s hmotným právem.
+Dovolatelka otázku přípustnosti dovolání zjevně dovozovala z (neúplně formulovaného) poučení odvolacího soudu obsaženého v dovoláním dotčeném usnesení; argumenty ve prospěch názoru, že podmínky stanovené v § 237 odst. 1 písm. c/, odst. 3 o.s.ř. jsou v daném případě splněny, dovolacímu soudu nepředložila.
+Hodnocením námitek, jež dovolatelka v dovolání vznesla, k závěru o jejich splnění dospět nelze již proto, že jsou zjevně nesprávné. O rozpor s hmotným právem jít nemůže z toho důvodu, že napadené rozhodnutí vychází z práva procesního(§ 251 a násl. o.s.ř.).
+Základním předpokladem nařízení soudního výkonu rozhodnutí vyklizením bytu, u nějž není třeba zajistit přiměřenou bytovou náhradu, je pouze existence vykonatelného rozhodnutí, které ukládá povinnost k vyklizení. Okolnost, že povinná nemá jinou možnost bydlení, je v tomto stadiu řízení nerozhodná. Výkon rozhodnutí vyklizením se vztahuje nejen na odstranění věcí patřící povinnému a příslušníkům jeho domácnosti, ale i na věci patřící jinému, které jsou se souhlasem povinného umístěny ve vyklizovaném objektu (§ 341 odst. 1 písm. a/ o.s.ř.); proto námitka dovolatelky o nemožnosti disponovat i s věcmi bývalého manžela neobstojí. Rovněž v tomto stadiu řízení nemá místo ani úvaha o právu bývalého manžela jako (dalšího) uživatele bytu. Ochrana všech, kdo mají k bytu vlastní, od povinného neodvozené právo, se totiž může prosadit pouze v rámci excindační žaloby podle § 267, případně ve fázi řízení o návrhu na zastavení exekuce podle § 268 odst. 1 písm. h/ o.s.ř.; existenci společného práva s bývalým manželem, pro něž by titul nebyl materiálně vykonatelným, dovolatelka netvrdila.
+Nelze-li dospět k závěru, že dovoláním napadené rozhodnutí je zásadního významu po právní stránce, není dovolání přípustné ani z hlediska ustanovení § 237 odst. 1 písm. c/, odst. 3 o.s.ř.
+Protože ostatní možnosti založit přípustnost dovolání byly vyloučeny již dříve, Nejvyšší soud dovolání povinné podle § 243b odst. 5, § 218 písm. c/ o.s.ř. odmítl.
+Výrok o nákladech dovolacího řízení vychází z ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 3 o.s.ř.; oprávněnému, jenž by měl jinak právo na náhradu nákladů dovolacího řízení, však v tomto stadiu řízení prokazatelné náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 26. června 2003
+JUDr. Vladimír K u r k a , v.r.
+předseda senátu
