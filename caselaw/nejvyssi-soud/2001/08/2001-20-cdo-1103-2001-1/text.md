@@ -1,0 +1,18 @@
+20 Cdo 1103/2001
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci výkonu rozhodnutí oprávněné Správy domovního fondu města O. proti povinným 1) V. K. a 2) M. K., vyklizením bytu, vedené u Okresního soudu v Olomouci pod sp. zn. 43 E 304/98, o dovolání povinného 1) proti usnesení Krajského soudu v Ostravě - pobočky v Olomouci ze dne 28. dubna 2000, č.j. 12 Co 684/99-82, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Krajský soud v Ostravě - pobočka v Olomouci usnesením ze dne 28. 4. 2000, č. j. 12 Co 684/99-82, odmítl jako opožděné odvolání prvého povinného proti usnesení Okresního soudu v Olomouci ze dne 26. 3. 1998, č. j. 43 E 304/98-5, kterým soud prvního stupně nařídil - podle vykonatelného rozsudku Okresního soudu v Olomouci ze dne 20. 2. 1996, č. j. 16 C 255/95-22 - výkon rozhodnutí vyklizením bytu s tím, že o provedení výkonu bude rozhodnuto dodatečně. Odvolací soud vycházel ze zjištění, že usnesení soudu prvního stupně, proti němuž odvolání směřovalo, bylo prvému povinnému doručeno dne 14. dubna 1998 postupem podle § 47 odst. 2 o. s. ř.; posledním dnem patnáctidenní lhůty k podání odvolání byla tedy středa 29. dubna 1998. Bylo-li odvolání podáno dne 30. října 1998, stalo se tak po uplynutí odvolací lhůty, tedy opožděně.
+Podáními, doručenými soudu prvního stupně dne 12. 10. 1998, která - posuzováno podle obsahu (§ 41 odst. 2 o. s. ř.) - jsou dovoláním, prvý povinný (nezastoupen advokátem) napadl usnesení odvolacího soudu a domáhal se jeho zrušení.
+Vyjádření k dovolání nebylo podáno
+Podle části dvanácté, hlavy první, bodu 17. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (to jest podle občanského soudního řádu ve znění účinném před 1. 1. 2001 - dále též jen \"o. s. ř.\").
+Podle ustanovení § 241 odst. 1 věty první o. s .ř., dovolatel musí být zastoupen advokátem, pokud sám nemá právnické vzdělání. Toto ustanovení zakotvuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění nelze o dovolání rozhodnout.
+Usnesením ze dne 19. 3. 2001, č. j. 43 E304/98-110, uložil okresní soud prvému povinnému, aby si ve lhůtě deseti dnů zvolil advokáta, a odstranil vady dovolání; současně jej poučil o povinném právním zastoupení dovolatele, o náležitostech dovolání, jakož i o tom, že nebudou-li ve stanovené lhůtě uvedené nedostatky odstraněny, bude řízení zastaveno. Přestože toto usnesení bylo prvému povinnému doručeno (postupem podle § 46 odst. 4 občanského soudního řádu ve znění účinném po 1. 1. 2001) dne 14. května 2001, dosud této výzvě nevyhověl.
+Jak vyplývá z výše uvedeného, nebyl nedostatek podmínky dovolacího řízení podle ustanovení § 241 odst. 1 věty první o. s. ř. přes výzvu odstraněn. Nejvyšší soud proto podle § 243c a § 104 odst. 2 o. s. ř. řízení o dovolání prvého povinného zastavil.
+O nákladech dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 4, § 224 odst. 1 a § 146 odst. 2 věty prvé o. s. ř. s přihlédnutím ke skutečnosti, že oprávněné v tomto stadiu řízení nevznikly náklady, na jejichž náhradu by jinak měla právo proti dovolateli, nesoucímu procesní zavinění na tom, že řízení muselo být zastaveno.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 23. srpna 2001
+JUDr. Věra K o r e c k á, v. r.
+předsedkyně senátu
