@@ -1,0 +1,31 @@
+5 Tdo 311/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v neveřejném zasedání dne 26. března 2003
+o dovolání obviněného P. M., proti rozsudku Krajského soudu v Hradci Králové ze dne 12. 11. 2002, sp. zn. 10 To 257/2002, který rozhodoval jako soud odvolací v trestní věci vedené u Okresního soudu v Trutnově pod sp. zn. 3 T 432/2000, t a k t o :
+Podle § 265i odst. 1 písm. b) tr. řádu se dovolání o d m í t á .
+O d ů v o d n ě n í :
+Rozsudkem Okresního soudu v Trutnově ze dne 26. 2. 2002, sp. zn. 3 T 432/2000, byl obviněný P. M. uznán vinným trestnými činy pojistného podvodu podle § 250a odst. 1, 3, 4 písm. a) tr. zák., trestným činem padělání a pozměňování veřejné listiny podle § 176 odst. 1 tr. zák. a trestným činem nedovolené výroby a držení státní pečeti a úředního razítka podle § 176a tr. zák. a za tyto trestné činy a trestné činy krádeže podle § 247 odst. 1 písm. b), odst. 2 tr. zák. a neoprávněného užívání cizí věci podle § 249 odst. 1 tr. zák., jimiž byl uznán vinným rozsudkem Okresního soudu
+v Trutnově ze dne 19. 4. 2000, sp. zn. 1 T 112/98, byl odsouzen podle § 250a odst. 4 tr. zák. za použití § 35 odst. 2 tr. zák. k souhrnnému trestu odnětí svobody
+v trvání dvou roků a šesti měsíců. Současně byl zrušen výrok o trestu z rozsudku Okresního soudu v Trutnově ze dne 19. 4. 2000, sp. zn. 1 T 112/98, jakož i všechna další rozhodnutí, na tento výrok obsahově navazující, pokud vzhledem ke změně, k níž došlo zrušením, pozbyla podkladu. Podle § 39a odst. 2 písm. c) tr. zák. byl zařazen pro výkon trestu do věznice s ostrahou. Podle § 226 písm. c) tr. řádu byl obviněný P. M. tímto rozsudkem zproštěn obžaloby pro skutek, jímž měl spáchat trestný čin krádeže podle § 247 odst. 1 písm. b), odst. 2 tr. zák,. dílem dokonaný a dílem nedokonaný ve stadiu pokusu v § 8 odst. 1 tr. zák. Proti tomuto rozsudku podal obviněný P. M. odvolání proti výroku o vině i proti výroku o trestu.
+Rozsudkem Krajského soudu v Hradci Králové ze dne 12. 11. 2002, sp. zn.
+10 To 250/2002, kterým bylo rozhodnuto o odvoláních obviněného P. M. a dále obviněných P. K. a J. K., bylo odvolání obviněného P. M. podle § 256 tr. řádu zamítnuto.
+Proti tomuto rozsudku podal obviněný P. M. prostřednictvím svého obhájce JUDr. L. K. dovolání z důvodu uvedeného v § 265b odst. 1 písm. g) tr. řádu. V dovolání uvedl, že oba soudy dospěly k nesprávnému právnímu posouzení skutku, k němuž došlo v červenci 1999 v souvislosti s dopravní nehodou, spočívající ve vytlačení osobního automobilu Mitsubishi Eclipce řízeného K. T., jiným osobním automobilem Peugeot, který řídil obviněný, a následným uplatněním nároku na plnění z pojistné události u Č. p.,
+a. s., V. obviněným P. K. Obviněný se domnívá, že jde o zásadní nesprávné právní posouzení skutku jako pojistného podvodu, tím spíše v kvalifikované skutkové podstatě, kterou soudy shledaly v organizovanosti skupiny. Obviněný dále uvedl, že
+v průběhu dosavadního řízení nebyl proveden jediný použitelný, lépe řečeno účinný důkaz, který by prokazoval jeho vinu, pokud jde o trestný čin pojistného podvodu.
+Obviněný proto navrhl, aby Nejvyšší soud České republiky zrušil rozsudek Okresního soudu v Hradci Králové ze dne 12. 11. 2002, č. j. 10 To 257/2002-1522, ve výroku ad II., jímž bylo jeho odvolání proti rozsudku Okresního soudu v Trutnově ze dne
+26. 2. 2002, č. j. 3 T 432/2000-1719, jako nedůvodné zamítnuto podle § 256 tr. řádu a aby přikázal Krajskému soudu v Hradci Králové, aby věc v potřebném rozsahu znovu projednal a rozhodl.
+Nejvyšší státní zástupkyně se k dovolání obviněného P. M. do dne vyhlášení tohoto rozhodnutí nevyjádřila.
+Nejvyšší soud České republiky (dále jen „Nejvyšší soud“) jako soud dovolací zjistil, že dovolání je přípustné podle § 265a odst. 1, 2 písm. h) tr. řádu, protože ve věci bylo rozhodnuto ve druhém stupni, dovolání napadá pravomocné rozhodnutí ve věci samé, bylo podáno oprávněnou osobou (§ 265d odst. 1 písm. b) tr. řádu), lhůta
+k podání dovolání byla zachována a dovolání bylo podáno u příslušného soudu prvního stupně (§ 265e odst. 1, 2 tr. řádu) a dovolání směřuje proti rozhodnutí uvedenému
+v § 265a odst. 2 písm. a) tr. řádu. Dovolání obviněného splňuje náležitosti obsahu dovolání podle § 265f odst. 1 tr. řádu.
+Poněvadž dovolání lze podat jen z důvodů uvedených v ustanovení § 265b tr. řádu, bylo dále zapotřebí posoudit otázku, zda uplatněný dovolací důvod, označený jako důvod dovolání podle § 265b odst. 1 písm. g) tr. řádu, lze považovat za důvod uvedený v citovaném ustanovení zákona, jehož existence je zároveň podmínkou pro provedení přezkumu dovolacím soudem.
+Důvod dovolání podle § 265b odst. 1 písm. g) tr. řádu je dán v případech, kdy rozhodnutí spočívá na nesprávném právním posouzení skutku nebo jiném nesprávném hmotně právním posouzení. Uvedenou formulací zákon vyjadřuje, že dovolání je určeno k nápravě právních vad rozhodnutí ve věci samé, pokud tyto vady spočívají v právním posouzení skutku nebo jiných skutečností podle norem hmotného práva. To znamená, že s poukazem na uvedený dovolací důvod není možné se domáhat přezkoumání skutkových zjištění, na nichž je napadené rozhodnutí založeno. Skutkový stav je v případě rozhodování o dovolání hodnocen pouze z toho hlediska, zda skutek nebo jiná okolnost skutkové povahy byly správně právně posouzeny, tj. zda jsou právně kvalifikovány
+v souladu s příslušnými ustanoveními hmotného práva.
+S přihlédnutím k těmto skutečnostem dospěl Nejvyšší soud k závěru, že dovolání obviněného bylo podáno z jiných důvodů, než jsou uvedeny v ustanovení § 265b
+odst. 1 tr. řádu. Dovolací důvod podle § 265b odst. 1 písm. g) tr. řádu je totiž podle námitek uvedených v dovolání spatřován v nesprávném hodnocení důkazů, a tedy ve skutkových vadách, jejichž důsledkem mělo být následné vadné hmotně právní posouzení věci.
+Nejvyšší soud proto dovolání obviněného P. M. podané proti rozsudku Krajského soudu v Hradci Králové ze dne ze dne 12. 11. 2002, sp. zn. 10 To 257/2002, podle § 265i odst. 1 písm. b) tr. řádu odmítl, neboť bylo podáno z jiného důvodu, než je uveden
+v § 265b tr. řádu. V souladu s ustanovením § 265r odst. 1 písm. a) tr. řádu Nejvyšší soud rozhodl o dovolání v neveřejném zasedání.
+P o u č e n í : Proti rozhodnutí o dovolání není s výjimkou obnovy řízení opravný prostředek přípustný.
+V Brně dne 26. března 2003
+Předseda senátu:
+JUDr. Jindřich Urbánek
