@@ -1,0 +1,18 @@
+30 Cdo 1535/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Pavlíka a soudců JUDr. Karla Podolky a JUDr. Romana Fialy v právní věci žalobce J. F. proti žalovanému JUDr. M. H., o ochranu osobnosti, vedené u Krajského soudu v Praze pod sp. zn. 21 C 71/94, o dovolání žalobce proti rozsudku Vrchního soudu v Praze ze dne 4. prosince 2001, č. j. 1 Co 188/2001-146, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Praze rozsudkem ze dne 28. března 2001, č. j. 21 C 71/94-127, zamítl žalobu, že žalovaný je povinen písemně odvolat u Okresního soudu v Jičíně, u Okresního soudu v Pardubicích, u Okresního soudu v Hradci Králové, u Obvodního soudu pro Prahu 2 a u Městského soudu v Praze, dále u Okresního a Krajského státního zastupitelství v Hradci Králové a Úřadu vlády České republiky svá tvrzení, že se u žalobce prohlubuje duševní choroba a ve stejném smyslu se žalobci omluvit doporučeným dopisem. Dále zamítl žalobu, že žalovaný je povinen zaplatit žalobci na náhradu nemajetkové újmy 1.000.000,- Kč. Rozhodl též o náhradě nákladů řízení.
+K odvolání žalobce Vrchní soud v Praze rozsudkem ze dne 4. prosince 2001, č. j. 1 Co 188/2001-146, změnil rozsudek soudu prvního stupně ve věci samé tak, že žalovaný je povinen se žalobci omluvit doporučeným dopisem za své tvrzení, že se u žalobce prohlubuje duševní choroba; jinak tento rozsudek potvrdil. Současně rozhodl o náhradě nákladů řízení před soudy obou stupňů.
+Rozsudek Vrchního soudu v Praze nabyl právní moci dne 18. února 2002, když žalobci byl doručen téhož dne.
+Uvedený rozsudek odvolacího soudu napadl žalobce dne 14. března 2002 včasným dovoláním.
+Soud prvního stupně poté usnesením ze dne 13. června 2003, č. j. 21 C 71/1994-204, které bylo doručeno žalobci dne 23. června 2003, dovolatele vyzval, aby si ve lhůtě patnácti dnů od doručení tohoto usnesení zvolil pro řízení o dovolání zástupce z řad advokátů, a tuto skutečnost doložil soudu předložením plné moci, nebo aby osvědčil případné vlastní právnické vzdělání. Dovolatel byl současně poučen o procesních následcích nesplnění výzvy.
+Podle ustanovení § 241 odst. 1 věta první „o. s. ř.“ musí být dovolatel zastoupen advokátem nebo notářem, jestliže sám nemá právnické vzdělání. Takto je stanoveno tzv. povinné zastoupení dovolatele v dovolacím řízení, které je chápáno jako zvláštní podmínka dovolacího řízení týkající se dovolatele, jejíž nedostatek lze sice odstranit, bez jejíhož splnění však nelze vydat rozhodnutí ve věci samé. Nedostatek v zastoupení dovolatele musí být proto řešen postupem podle ustanovení § 241b odst. 2 ve spojení s § 104 odst. 2 o. s. ř.
+O takový případ jde v posuzované věci, neboť – jak vyplývá z obsahu spisu – dovolatel, ač nebylo doloženo, že by sám měl právnické vzdělání, resp. že za něj jedná podle zákona kvalifikovaná osoba, nedoložil soudu ve stanovené lhůtě (ač o tom byl soudem poučen), že v jeho případě byla splněna podmínka povinného zastoupení dovolatele v dovolacím řízení. Protože tak nebyla splněna zvláštní podmínka dovolacího řízení, dovolacímu soudu nezbylo, než podle již zmíněných ustanovení o. s. ř. dovolací řízení zastavit.
+Výrok o náhradě nákladů řízení je odůvodněn ustanovením § 243b odst. 5 ve spojení s § 224 odst. 1, § 146 odst. 2 věta první a § 151 o. s. ř. za situace, kdy dovolatel sice procesně zavinil, že dovolací řízení muselo být zastaveno, avšak žalovanému v tomto řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. září 2003
+JUDr. Pavel Pavlík, v. r.
+předseda senátu
