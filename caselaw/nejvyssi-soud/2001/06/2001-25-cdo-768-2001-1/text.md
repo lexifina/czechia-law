@@ -1,0 +1,20 @@
+25 Cdo 768/2001
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce J. L., proti žalované J. G., o zaplacení 600,- Kč s příslušenstvím, vedené u Okresního soudu v Karviné pod sp. zn. 29 C 136/98, o dovolání žalobce proti rozsudku Krajského soudu v Ostravě ze dne 3. března 2000 č. j. 13 Co 1565/99 - 71, takto:
+I. Řízení o dovolání žalobce se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Karviné rozsudkem ze dne 24. 5. 1999 č.j. 29 C 136/98 - 32 uložil žalované povinnost zaplatit žalobci částku 140,- Kč s 15% úrokem z prodlení od 1. 5. 1998 do zaplacení, žalobu o zaplacení 460,- Kč, 19 % úroku z prodlení z částky 600,- Kč od 26. 9. 1995 do 30. 4. 1998, 19 % úroku z prodlení z částky 460,- Kč od 1. 5. 1998 do zaplacení a 4 % úroku z prodlení z částky 140,- Kč od 1. 5. 1998 do zaplacení, zamítl a rozhodl o náhradě nákladů řízení.
+K odvolání obou účastníků Krajský soud v Ostravě rozsudkem ze dne 3. 3. 2000 č.j. 13 Co 1565/99 - 71 řízení o odvolání žalované zastavil, rozsudek soudu prvního stupně v napadeném zamítavém výroku potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Proti tomuto rozhodnutí odvolacího soudu podal dne 21. 6. 2000 žalobce dovolání, aniž byl při tomto úkonu zastoupen advokátem.
+Podle ustanovení části dvanácté hlavy I bodu 17 zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, se dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona (1. 1. 2001) nebo vydaným po řízení provedeném podle dosavadních právních předpisů projednají a rozhodnou podle dosavadních právních předpisů (tj. podle občanského soudního řádu ve znění účinném do 31. 12. 2000).
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) po přezkoumání věci dospěl k závěru, že v dané věci brání rozhodnutí o dovolání nedostatek podmínky dovolacího řízení.
+Podle ustanovení § 240 odst. l věty první o.s.ř. účastník může podat dovolání do jednoho měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Podle § 241 odst. l věty první o.s.ř. dovolatel musí být zastoupen advokátem, pokud sám nemá právnické vzdělání. Podle odst. 2 věty druhé tohoto ustanovení nemá-li dovolatel právnické vzdělání, musí být dovolání sepsáno advokátem.
+Dovolání je mimořádný opravný prostředek, kterým lze napadnout pravomocné rozhodnutí odvolacího soudu, pokud to zákon připouští (§ 236 odst. 1 o.s.ř.). Mimořádnost tohoto opravného prostředku odůvodňuje požadavek, aby účastník řízení, který podává dovolání, měl buď sám právnické vzdělání, nebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc. Ustanovení § 24l odst. l o.s.ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejího splnění nelze o dovolání rozhodnout.
+V dané věci podal žalobce dovolání proti rozhodnutí odvolacího soudu, aniž byl při tomto úkonu zastoupen advokátem, a nebylo ani tvrzeno, že by měl právnické vzdělání. Usnesením soudu prvního stupně ze dne 2. 3. 2001 č. j. 29 C 136/98 - 83 byl žalobce vyzván, aby si ve lhůtě 15-ti dnů zvolil advokáta pro dovolací řízení, a současně byl poučen o tom, že nebude-li výzva splněna, bude dovolací řízení zastaveno. Přestože cit. usnesení soudu prvního stupně bylo žalobci doručeno do vlastních rukou dne 8. 3. 2001 (§ 46 odst. 1 o.s.ř.), dosud výzvě okresního soudu nevyhověl.
+Vzhledem k tomu, že nedostatek podmínky dovolacího řízení podle ustanovení § 24l odst. l o.s.ř. nebyl ani dodatečně přes výzvu soudu odstraněn, Nejvyšší soud řízení o dovolání podle § 243c a § 104 odst. 2 věta třetí o.s.ř. zastavil, aniž se zabýval otázkou dalších náležitostí dovolání a otázkou jeho přípustnosti.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 4, § 224 odst. l a § 146 odst. 1 písm. c/ o.s.ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 13. června 2001
+JUDr. Olga P u š k i n o v á, v. r.
+předsedkyně senátu
