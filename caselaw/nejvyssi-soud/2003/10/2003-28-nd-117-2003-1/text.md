@@ -1,0 +1,14 @@
+28 Nd 117/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Oldřicha Jehličky, CSc., a soudců JUDr. Josefa Rakovského a JUDr. Ludvíka Davida, CSc., v právní věci žalobce Ing. P. R., zast. advokátem, proti žalované Ing. M. R., zast. advokátem, o vyklizení bytu o návrhu žalované na přikázání věci, dosud vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 11 C 93/2003 z důvodů vhodnosti Městskému soudu v Brně, takto:
+Věc, vedená u Obvodního soudu pro Prahu 4 pod sp. zn. 11 C 93/2003, se nepřikazuje Městskému soudu v Brně.
+O d ů v o d n ě n í :
+Ve věci žaloby na vyklizení bytu podala žalovaná svým podáním, které došlo Obvodnímu soudu pro Prahu 4 dne 17.4.2003, návrh na přikázání právní věci k projednání Městskému soudu v Brně z toho důvodu, že t.č. je zaměstnána v B., toto zaměstnání je velmi časově náročné a v důsledku toho omezuje možnosti žalované v průběhu dne zajistit účast při jednání u dosavadního procesního soudu. Žalovaná rovněž poukázala na to, že v souzené věci je dána i místní příslušnost soudu podle § 87 písm. a) o.s.ř.
+Žalobce s přikázáním věci nesouhlasí. Namítá zejména, že byt se nachází v obvodu dosavadního procesního soudu, že důvody přikázání nejsou dány, protože jak žalovaná, tak i žalobce pracují a žalobce je v tomto směru vázán na P., stejně tak, jako jeho zmocněnec. Kromě toho, pokud by bylo potřebné vyslýchat svědky, nelze pominout, že mají pobyt v Praze 4, tedy v obvodu dosavadního procesního soudu.
+Nejvyšší soud, který rozhodoval o přikázání věci podle § 12 odst. 3 o.s.ř. dospěl k závěru, že podmínky pro přikázání věci jinému soudu podle § 12 odst. 2 o.s.ř. z důvodů vhodnosti nejsou dány.
+Dosavadní místně příslušný procesní soud má splněny všechny předpoklady k tomu, aby včas, řádně a hlavně též hospodárně provedl všechny důkazy, potřebné k objasnění věci. Důkazní prostředky se nacházejí v obvodu dosavadního příslušného soudu a případné přikázání věci jinému soudu by dokazování značně ztížilo. Námitka žalované v tom, že ve věci by byl ze zákona příslušným i soud podle § 87 písm. a) o.s.ř., tj. soud, v jehož obvodu má žalovaný své stálé pracoviště nemůže mít zásadní význam pro přikázání věci, když vlastně jde o možnost, kterou dal zákon žalobci, aby se svým výběrem rozhodl buď pro obecnou, anebo pro zvláštní příslušnost soudu. Žalobce tuto volbu podle zákona vykonal, když se rozhodl, že bude žalovat u obecného soudu žalované podle § 84 o.s.ř. v souvislosti s ustanovením § 85 odst. 1 o.s.ř., tedy u okresního (obvodního) soudu, v němž má účastník proti němuž návrh směřuje, své bydliště.
+Nejvyšší soud proto nevyhověl návrhu žalované a nepřikázal věc Městskému soudu v Brně.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 9. října 2003
+JUDr. Oldřich Jehlička, CSc., v. r.
+předseda senátu
