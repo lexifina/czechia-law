@@ -1,0 +1,13 @@
+21 Cdo 573/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Novotného a soudců JUDr. Ljubomíra Drápala a JUDr. Mojmíra Putny v právní věci žalobce J. M., zastoupeného advokátkou, proti žalovanému D., státnímu podniku, zastoupenému advokátkou, za účasti K., p., a.s., jako vedlejšího účastníka na straně žalovaného, o odškodnění nemoci z povolání, vedené u Okresního soudu v Tachově pod sp. zn. 4 C 228/97, o dovolání žalobce proti rozsudku Krajského soudu v Plzni ze dne 3. dubna 2003 č.j. 10 Co 80/2003-257, takto:
+I. Dovolání žalobce se odmítá.
+II. Žalobce je povinen zaplatit žalovanému na náhradě nákladů dovolacího řízení 7.575,- Kč do tří dnů od právní moci tohoto usnesení k rukám advokátce.
+O d ů v o d n ě n í
+Dovolání žalobce proti rozsudku Krajského soudu v Plzni ze dne 3.4.2003 č.j. 10 Co 80/2003-257, kterým byl potvrzen rozsudek Okresního soudu v Tachově ze dne 22.10.2002 č.j. 4 C 228/97-236 ve věci samé, není přípustné podle ustanovení § 237 odst. 1 písm. b) o.s.ř. a nebylo shledáno přípustným ani podle ustanovení § 237 odst. 1 písm. c) o.s.ř., neboť napadený rozsudek odvolacího soudu nemá po právní stránce – s ohledem na to, že byl v dovolání uplatněn, jak vyplývá z jeho obsahu, dovolací důvod podle ustanovení § 241a odst. 3 o.s.ř [dovolatel nesouhlasí s hodnocením důkazů a se skutkovými zjištěními (především se skutkovým závěrem o tom, že žalobce netrpí nemocí z povolání), z nichž odvolací soud vychází] - zásadní význam (§ 237 odst. 3 o.s.ř.).
+Protože dovolání žalobce směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný, Nejvyšší soud České republiky dovolání žalobce – aniž by se mohl věcí dále zabývat - podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl.
+V dovolacím řízení vznikly žalovanému v souvislosti se zastoupením advokátkou náklady, které spočívají v paušální odměně ve výši 7.500,- Kč (srov. § 3 odst. 1 bod 6, § 10 odst. 3, § 14 odst. 1, § 15 a § 18 odst. 1 vyhlášky č. 484/2000 Sb., ve znění vyhlášky č. 49/2001 Sb.) a v paušální částce náhrady výdajů za jeden úkon právní služby ve výši 75,- Kč (srov. § 13 odst. 3 vyhlášky č. 177/1996 Sb., ve znění vyhlášek č. 235/1997 Sb. a č. 484/2000 Sb.), celkem ve výši 7.575,- Kč. Protože dovolání žalobce bylo odmítnuto, dovolací soud mu podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 3 o.s.ř. uložil, aby žalovanému tyto náklady nahradil. Žalobce je povinen přiznanou náhradu nákladů řízení zaplatit k rukám advokátky, která žalovaného v tomto řízení zastupovala (§ 149 odst. 1 o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 8. července 2004
+JUDr. Zdeněk N o v o t n ý, v. r.
+předseda senátu
