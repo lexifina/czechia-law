@@ -1,0 +1,93 @@
+---
+citace: "Nařízení statutárního města Brno č. 8/1991"
+nazev: "kterou se určuje chráněný přírodní výtvor Červený kopec"
+druh: "Nařízení"
+cislo: "8/1991"
+vydavatel: "Statutární město Brno"
+ico: "44992785"
+kraj: "Jihomoravský kraj"
+zmocneni: ["ústavní zákon č. 1/1993 Sb., Ústava České republiky - čl. 79 odst. 3"]
+oblast: ["jiná"]
+vydano: "1991-09-12"
+vyveseno: "1991-09-16"
+zverejneno_ve_sbirce: "2024-12-17"
+ucinnost: "1991-10-01"
+zpusob_zverejneni: "dle přechodného ustanovení (zákon č. 35/2021 Sb., § 9)"
+sppsu_id: "SPPSBIG6EDHFXUIE"
+verze: "1"
+url: "https://sbirkapp.gov.cz/detail/SPPSBIG6EDHFXUIE"
+text_url: "https://sbirkapp.gov.cz/detail/SPPSBIG6EDHFXUIE/text"
+soubor: "vyhlaska-smb-c-08-1991.pdf"
+soubor_sha256: "f4361bcb9ae290902b7efcadfb8bb7359cde6f68e1a5e944bddd77bd0ffe2036"
+ziskani_textu: "pdf-text"
+---
+
+# kterou se určuje chráněný přírodní výtvor Červený kopec
+
+Město Brno -------------------
+
+V Y H L Á Š K A č. 8/1991
+
+kterou se určuje chráněný přírodní výtvor Červený kopec
+
+Zastupitelstvo  města Brna  se usneslo   dne 12.  9. 1991  vydat na základě § 16 odst. 1 zákona č. 367/1990  Sb., ze dne 4. 9. 1990 pro svůj územní obvod tuto obecně závaznou vyhlášku.
+
+Čl. 1
+
+Vymezení chráněného přírodního výtvoru a jeho poslání
+
+1. Chráněný přírodní výtvor se určuje k ochraně kvarterního profilu spraší  a  pohřbených  půd,  představujícího  nejúspěšnější sled spraší a fosilních půd ve střední Evropě.
+
+2. Chráněný  přírodní  výtvor  se  rozkládá  v  okrese  Brno-město, v k.ú. Štýřice  na parcelách č.  1836/1 část -  ost. pl. a  1965 část - ost. pl. o celkové výměře 0,5477 ha.
+
+Čl. 2
+
+Na  území chráněného  přírodního  výtvoru,  kde je  třeba dodržovat podmínky  ochrany  stanovené  zákonem  č.  40/1956  Sb.,  je  možné provádět pouze tyto činnosti ve stanoveném rozsahu:
+
+a) veřejnosti  není vstup  povolen vzhledem  k tomu,  že přes území nevede žádná  veřejná ani jiná cesta  a vstupem do území  by byl ohrožen  následkem  sešlapování  a  vznikajícími  sesuvy  zeminy vzácný  geologický  výtvor  profilu   spraší  a  pohřbených  půd a rovněž by mohlo dojít k ohrožení zdraví náhodných návštěvníků,
+
+b) orgány  bezpečnostní,  požární  ochrany,  zdravotnické,  členové patronátní  ZO  Českého  svazu  ochránců  přírody, orgány státní
+
+ochrany přírody  a jimi pověření odborníci  a vědečtí pracovníci Geografického  ústavu ČSAV  a Přírodovědecké  fakulty MU  v Brně a jimi přizvaní hosté mohou do území vstupovat,
+
+c) vjíždět do území jakýmkoliv motorovým vozidlům není povoleno,
+
+d) jakékoliv  terénní  úpravy,  stavební  činnost  a těžební práce, kromě činností směřujících k  ochraně a zachování stability stěn
+
+opuštěných  po  těžbě  spraší,  v  nichž  se  nacházejí chráněné profily, nejsou povoleny.
+
+Čl. 3
+
+Vlastníci  a  uživatelé  pozemků,  na  nichž  byl  zřízen  chráněný přírodní výtvor,  jsou povinni strpět  omezení stanovená podmínkami ochrany.
+
+Čl. 4
+
+Ochranářské plány pro výkon ochrany  v území připravuje Český ústav ochrany  přírody  Praha,  středisko  Brno,  ve  spolupráci s Českým ústavem ochrany přírody  v Praze a předkládá je  k realizaci odboru životního prostředí Úřadu města Brna.
+
+Čl. 5
+
+Výzkum  a průzkum  území provádí  a organizuje  Český ústav ochrany přírody v Praze a Český ústav ochrany přírody Praha středisko Brno.
+
+Závěrečná ustanovení
+
+Čl. 6
+
+1. Vyhláška o zřízení chráněného  přírodního výtvoru včetně odborné dokumentace  a mapových  podkladů je  uložena u  ministerstva ŽP ČSFR a  Českého ústavu ochrany  přírody v Praze,  Českého ústavu
+
+ochrany přírody v Brně a Úřadu města Brna.
+
+2. Odbor  životního  prostředí  Úřadu  města  Brna zajistí označení chráněného  přírodního   výtvoru  tabulemi  se   státním  znakem a vyznačí jeho hranice v terénu.
+
+Čl. 7
+
+Výjimky  z   ochranných  podmínek  chráněného   přírodního  výtvoru povoluje podle § 11 odst. 2 zákona  č. 40/1956 Sb. o státní ochraně přírody, ministerstvo životního prostředí ČSFR.
+
+Čl. 8
+
+Porušení povinností stanovených touto vyhláškou lze postihnout jako přestupek podle zákona ČNR č. 65/1986 Sb., kterým se doplňuje zákon č. 40/1956  Sb., o státní ochraně  přírody, ve znění zákona  ČNR č. 96/1977  Sb.  o  hospodaření  v  lesích  a  státní  správě  lesního hospodářství, nejde-li o čin přísněji trestný.
+
+Čl. 9
+
+Tato vyhláška nabývá účinnosti dnem 1.10.1991.
+
+Ing. Jiří Horák                         Ing.arch. Václav Mencl 1. náměstek primátora                      primátor města Brna
