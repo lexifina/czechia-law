@@ -1,0 +1,23 @@
+29 Odo 38/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobkyně P., a.s., proti žalovaným 1) Č.s. p., a.s., a 2) A. H., s.r.o., o zaplacení částky USD 241.707,30 s příslušenstvím vedené u Městského soudu v Praze pod sp. zn. 35 Cm 386/94 o dovolání žalobkyně proti rozsudku Vrchního soudu v Praze ze dne 1. února 2001, č.j. 12 Cmo 62/2000-106, takto:
+I. Dovolání se odmítá.
+II. Žalobkyně je povinna zaplatit žalované 2) na náhradě nákladů dovolacího řízení částku 7.575,- Kč do 3 dnů od právní moci tohoto usnesení k rukám jejího zástupce.
+III. Žalobkyně a žalovaná 1) nemají proti sobě právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Vrchní soud v Praze shora označeným rozsudkem potvrdil rozsudek Krajského obchodního soudu v Praze ze dne 19. července 1999, č.j. 35 Cm 386/94-70 ve výrocích pod body I., III., IV. a V., kterými soud prvního stupně zamítl žalobu proti oběma žalovaným (bod I. výroku) a rozhodl o náhradě nákladů řízení (body III., IV. a V. výroku). Současně odvolací soud vyslovil, že odvoláním nenapadený výrok pod bodem II. rozsudku soudu prvního stupně zůstává nedotčen a rozhodl o náhradě nákladů odvolacího řízení.
+Proti rozsudku odvolacího soudu v rozsahu, ve kterém byl potvrzen rozsudek soudu prvního stupně, podala žalobkyně dovolání z důvodů uvedených v § 241 odst. 3 písm. b), c) a d) občanského soudního řádu (dále jen „o. s. ř.“), jehož přípustnost opírala o zásadní právní význam napadeného rozsudku. Podrobně vymezila své námitky k jednotlivým uplatněným dovolacím důvodům a navrhla, aby dovolací soud rozsudky soudů obou stupňů zrušil a vrátil věc soudu prvního stupně k dalšímu řízení.
+Žalované ve svých vyjádřeních snesly argumenty proti námitkám dovolatelky a shodně požadovaly, aby dovolací soud oba rozsudky potvrdil.
+Podle části dvanácté, hlavy I, bodu 17. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (tj. podle občanského soudního řádu ve znění účinném před 1. lednem 2001). Tak tomu bylo i v tomto případě, neboť odvolací soud věc v souladu s bodem 15., hlavou I, částí dvanáctou zákona č. 30/2000 Sb., rovněž projednal podle občanského soudního řádu ve znění účinném před 1. lednem 2001, jak sám výslovně zmínil v důvodech svého rozsudku.
+Dovolání není přípustné.
+Podle § 236 odst. 1 o. s. ř. dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. V případě dovolání směřujícího proti potvrzujícímu rozsudku odvolacího soudu lze obecně přípustnost dovolání opřít o ustanovení § 237, 238 odst. 1 písm. b) o. s. ř. nebo o ustanovení § 239 o. s. ř.
+O případ podřaditelný ustanovení § 238 odst. 1 písm. b) o. s. ř. nejde, neboť potvrzený rozsudek soudu prvního stupně je prvním rozsudkem tohoto soudu ve věci.
+Podle § 239 o. s. ř. dovolání rovněž přípustné není, neboť odvolací soud přípustnost dovolání výrokem svého rozsudku nevyslovil a žalobkyně návrh na vyslovení přípustnosti dovolání nepodala.
+Zbývalo posoudit podmínky přípustnosti dovolání určené v ustanovení § 237 o. s. ř. Vady řízení ve smyslu tohoto ustanovení, k nimž je dovolací soud povinen přihlížet z úřední povinnosti (§ 242 odst. 3 o. s. ř.) a jejichž existence činí zmatečným (s vyjímkami zakotvenými v § 237 odst. 2 o. s. ř.) každé rozhodnutí odvolacího soudu, v dovolání namítány nejsou a z obsahu spisu rovněž nevyplývají.
+Nejvyšší soud proto, aniž nařizoval jednání (§ 243a odst. 1 věta první o. s. ř.), dovolání podle § 243b odst. 4 a § 218 odst. 1 písm. c) o. s. ř. usnesením odmítl.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 4, § 224 odst. 1 a § 146 odst. 2 věty první, o. s. ř. (per analogiam), neboť žalobkyně, která z procesního hlediska zavinila, že dovolání bylo odmítnuto, nemá na náhradu těchto nákladů právo. První žalované v souvislosti s dovolacím řízením náklady nevznikly, náklady řízení vzniklé druhé žalované sestávají ze sazby odměny za zastupování advokátem v částce 7.500,- Kč podle § 3 odst. 1, § 10 odst. 3, § 14 odst. 1, § 15 a § 18 odst. 1 vyhl. č. 484/2000 Sb. a z paušální částky Kč 75,- za jeden úkon právní služby (vyjádření k dovolání) podle § 13 odst. 3 vyhl. č. 177/1996 Sb.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+Nesplní-li povinná, co jí ukládá toto vykonatelné rozhodnutí, může se oprávněná domáhat soudního výkonu rozhodnutí.
+V Brně 14. května 2002
+JUDr.Ing. Jan Hušek, v.r.
+předseda senátu
