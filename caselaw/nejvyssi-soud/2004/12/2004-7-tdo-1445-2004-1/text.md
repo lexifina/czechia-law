@@ -1,0 +1,28 @@
+7 Tdo 1445/2004
+U S N E S E N Í
+Nejvyšší soud rozhodl v neveřejném zasedání konaném dne 28. 12. 2004 o dovolání obviněného J. B., proti usnesení Krajského soudu v Plzni ze dne 1. 7. 2004, sp. zn. 9 To 337/2004, v trestní věci vedené u Okresního soudu v Sokolově pod sp. zn. 2 T 110/2003 t a k t o :
+Podle § 265i odst. 1 písm. b) tr. ř. se dovolání obviněného J. B. o d m í t á .
+O d ů v o d n ě n í :
+I.
+Rozsudkem Okresního soudu v Sokolově ze dne 10. 2. 2004, sp. zn. 2 T 110/2003, byl obviněný J. B. uznán vinným trestným činem krádeže podle § 247 odst. 1 písm. b), e) tr. zák. a trestným činem porušování domovní svobody podle § 238 odst. 1, 3 tr. zák.
+Těchto trestných činů se podle zjištění okresního soudu dopustil obviněný tím, že spolu s dalšími obviněnými D. M., M. K. H., M. S. a R. S. dne 3. 2. 2003 v době kolem 05:00 hodin v H., po předchozí domluvě vytrhali dřevěné plaňky oplocení u rodinného domu, poté vnikli na pozemek rodinného domu, kde za pomoci přineseného krumpáče udělali otvor do bočních dveří garáže, ze které odcizili kanystr s obsahem 22 litrů benzinu a 9 kg balení pracího prášku zn. TENZA, poté pomocí krumpáče vypáčili plastové dveře vedoucí z terasy do kuchyně, kde odcizili ozdobné naběračky a soupravu šesti kusů kuchyňských nožů, při vyhledávání dalších věcí k odcizení byli vyrušeni majitelem domu V. M., z místa utekli, uvedené věci vzali sebou, čímž majitelům V. a V. M. způsobili odcizením věcí škodu ve výši nejméně 1.438,- Kč a poškozením oplocení a zařízení domu způsobili další škodu ve výši 2.800,- Kč, přičemž tohoto jednání se obviněný J. B. dopustil přesto, že byl rozsudkem Okresního soudu v Sokolově ze dne 26. 2. 2002, sp. zn. 19 T 6/2002, odsouzen pro trestný čin krádeže podle § 247 odst. 1 písm. e), odst. 2 tr. zák. k trestu odnětí svobody v trvání patnácti měsíců, jehož výkon nastoupil dne 18. 10. 2003.
+Obviněnému byl uložen úhrnný trest odnětí svobody v trvání osmnácti měsíců se zařazením do věznice s ostrahou.
+Odvolání obviněného Krajský soud v Brně usnesením ze dne 1. 7. 2004, sp. zn. 9 To 337/2004, zamítl podle § 256 tr. ř. jako nedůvodné.
+II.
+Proti usnesení Krajského soudu v Brně podal obviněný prostřednictvím svého obhájce JUDr. J. K. dovolání, a to v rozsahu výroku o vině. Toto rozhodnutí napadl z důvodu uvedeného v § 265b odst. 1 písm. g) tr. ř., neboť má zato, že spočívá na nesprávném právním posouzením skutku nebo na jiném nesprávném hmotně právním posouzení.
+V odůvodnění dovolání obviněný opakuje námitky uplatňované již v odvolání proti rozsudku okresního soudu. Tvrdí, že v rodinném domě, do kterého podle zjištění soudu spolu s dalšími obviněnými vnikl, nikdy nebyl a neví ani, kde se tento dům nachází. Dále namítá, že ho někteří spoluobvinění nepravdivě označili za spolupachatele v důsledku sporu, který s nimi měl ohledně prodeje auta. Podle obviněného měly soudy vyjít z výpovědí spoluobviněných D. M. a M. K. H., kteří jej za spolupachatele neoznačili.
+Závěrem dovolání navrhoval, aby Nejvyšší soud usnesení krajského soudu zrušil a krajskému soudu přikázal, aby věc v potřebné rozsahu znovu projednal a rozhodl.
+Nejvyšší státní zástupkyně se k podanému dovolání podle § 265h odst. 2 tr. ř. písemně vyjádřila. Ve svém vyjádření poukazuje na to, že dovolání obviněného sice bylo podáno s odkazem na důvody uvedené v ustanovení § 265b odst. 1 písm. g) tr. ř., ve skutečnosti však obviněný jeho prostřednictvím napadá vadné hodnocení provedených důkazů a z něho vycházející skutková zjištění. Takové námitky však podle jejího názoru nenaplňují žádný z dovolacích důvodů podle § 265b odst. 1 tr. ř.
+Proto navrhovala, aby bylo dovolání odmítnuto podle § 265i odst. 1 písm. b) tr. ř. jako podané z jiného důvodu, než je uveden v ustanovení § 265b tr. ř.
+III.
+Nejvyšší soud jako soud dovolací nejdříve ověřil, zda dovolání je přípustné, bylo podáno oprávněnou osobou, v zákonné lhůtě a na předepsaném místě.
+Poté se zaměřil na to, zda obviněným uplatňované námitky lze skutečně považovat za některý z důvodů dovolání podle § 265b odst. 1 tr. ř., neboť uplatnění námitek, které obsahově naplňují dovolací důvod, je nezbytnou podmínkou přezkumu napadeného rozhodnutí dovolacím soudem podle § 265i odst. 3 tr. ř.
+Nejvyšší soud v této souvislosti zdůrazňuje, že v případě dovolacího důvodu podle § 265b odst. 1 písm. g) tr. ř. lze v jeho rámci namítat, že zjištěný skutek byl nesprávně kvalifikován jako určitý trestný čin, přestože znaky tohoto trestného činu, resp. znaky žádného trestného činu neměl. Myslí se tím přitom skutek, tak jak byl soudem zjištěn. Tento dovolací důvod neumožňuje namítat nesprávnost skutkových zjištění, nesprávnost hodnocení provedených důkazů ani neúplnost provedeného dokazování.
+Obviněný J. B. však ve svém dovolání žádné námitky proti právnímu posouzení skutku, tak jak byl soudy zjištěn, neuvedl. Jím uplatňované námitky oponovaly výhradně tomu, jak soudy provedené důkazy hodnotily a jaké skutkové závěry na jejich podkladě vyvodily. Zpochybňoval jejich závěr, že byl v inkriminovanou dobu na místě činu a dopustil se spolu s dalšími obviněnými zjištěného skutku.
+Obviněný tedy sice formálně deklaroval dovolací důvod napadající právní posouzení zjištěného skutku, ale svými konkrétními námitkami se domáhal změny skutkových zjištění. Takovými námitkami obviněný deklarovaný ani jiný dovolací důvod nenaplnil a Nejvyšší soud proto dovolání posoudil jako podané z jiného důvodu, než je uveden v § 265b tr. ř.
+IV.
+Z těchto důvodů Nejvyšší soud dovolání obviněného J. B. odmítl podle § 265i odst. 1 písm. b) tr. ř. Učinil tak v souladu s ustanovením § 265r odst. 1 písm. a) tr. ř. v neveřejném zasedání.
+P o u č e n í : Proti tomuto rozhodnutí není opravný prostředek přípustný.
+V Brně dne 28. prosince 2004
+Předseda senátu:
+JUDr. Robert Fremr
