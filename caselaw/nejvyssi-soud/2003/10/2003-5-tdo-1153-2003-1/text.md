@@ -1,0 +1,17 @@
+5 Tdo 1153/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v neveřejném zasedání konaném dne 15. října 2003 o dovolání, které podal obviněný V. S. K., proti usnesení Městského soudu v Praze ze dne 17. 12. 2002, sp. zn. 61 To 488/2002, který rozhodoval jako soud odvolací ve věci vedené u Obvodního soudu pro Prahu 4, sp. zn. 33 T 109/2002, t a k t o :
+Podle § 265i odst. 1 písm. c) tr. ř. se dovolání o d m í t á .
+O d ů v o d n ě n í :
+Rozsudkem Obvodního soudu pro Prahu 4 ze dne 11. 9. 2002, sp. zn. 33 T 109/2002, byl obviněný V. S. K. uznán vinným trestným činem útoku na veřejného činitele podle § 155 odst. 1 písm. b) tr. zák. Za tento trestný čin byl odsouzen podle § 155 odst. 1 tr. zák. k trestu odnětí svobody v trvání dvou měsíců. Pro výkon trestu byl podle § 39a odst. 3 tr. zák. zařazen do věznice s dozorem. Proti rozsudku podal obviněný odvolání. O odvolání rozhodl Městský soud v Praze usnesením ze dne 17. 12. 2002, sp. zn. 61 To 488/2002, tak, že odvolání zamítl podle § 256 tr. ř. jako nedůvodné.
+Usnesení Městského soudu v Praze napadl obviněný V. S. K. dovoláním podaným prostřednictvím svého obhájce z důvodů § 265b odst. 1 písm. g), l) tr. ř. Obviněný je přesvědčen, že orgány trestního řízení objasňovaly pouze skutečnosti svědčící v jeho neprospěch a že vzniklý konflikt mezi ním a dozorci nebyl bezpečně a objektivně prokázán. Navrhl, aby Nejvyšší soud podle § 265k odst. 1 tr. ř. rozsudek Obvodního soudu pro Prahu 4 ze dne 11. 9. 2002, sp. zn. 33 T 109/2002, i usnesení Městského soudu v Praze ze dne 17. 12. 2002, sp. zn. 61 To 488/2002, zrušil a podle § 265l odst. 1 tr. ř. věc přikázal Obvodnímu soudu pro Prahu 4, aby věc v potřebném rozsahu znovu projednal a rozhodl.
+Nejvyšší státní zástupkyně ve svém vyjádření k dovolání obviněného uvedla, že jeho námitky jsou zaměřeny pouze vůči skutkovým zjištěním, neboť namítá neúplnost provedeného dokazování. Proto navrhla, aby Nejvyšší soud odmítl dovolání obviněného podle § 265i odst. 1 písm. b) tr. ř. a současně navrhla, aby rozhodnutí bylo učiněno v souladu s § 265r odst. 1 písm. c) tr. ř. v neveřejném zasedání.
+Nejvyšší soud jako soud dovolací (§ 265c tr. ř.) především zkoumal, zda má podané dovolání všechny obsahové a formální náležitosti. Dovolání obviněného sice bylo podáno obviněným, který je oprávněnou osobou, u příslušného soudu a bylo podáno prostřednictvím obhájce, ale Nejvyšší soud zjistil, že dovolání bylo podáno opožděně.
+Podle § 265e odst. 1 tr. ř. musí být dovolání podáno do dvou měsíců od doručení rozhodnutí, proti kterému směřuje. Usnesení Městského soudu v Praze ze dne 17. 12. 2002, sp. zn. 61 To 488/2002, proti kterému dovolání obviněného směřovalo, obdržel obviněný i jeho obhájce dne 13. 3. 2003, jak vyplývá s dodejek, které jsou založené na č. l. 164. Lhůta dvou měsíců k podání dovolání uplynula dne 13. 5. 2003 (§ 60 odst. 2 tr. ř.). Dovolání bylo obhájcem podáno na poštu dne 11. 6. 2003, jak vyplývá z poštovního razítka založeného na čl. 193.
+Z výše uvedeného je zřejmé, že dovolání bylo podáno po plynutí lhůty dvou měsíců stanovené zákonem v § 265e odst. 1 tr. ř. Nejvyšší soud dovolání obviněného odmítl podle § 265i dost. 1 písm. c) tr. ř., protože bylo podáno opožděně, přičemž své rozhodnutí učinil v souladu s § 265r odst. 1 písm. a) tr. ř. v neveřejném zasedání.
+P o u č e n í : Proti rozhodnutí o dovolání není s výjimkou obnovy řízení opravný prostředek přípustný.
+V Brně dne 15. října 2003
+Předsedkyně senátu:
+JUDr. Blanka Roušalová
+Vypracoval:
+JUDr. Jiří Šoukal
