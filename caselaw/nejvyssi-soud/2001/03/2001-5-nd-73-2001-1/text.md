@@ -1,0 +1,18 @@
+5 Nd 73/2001
+U S N E S E N Í
+Nejvyšší soud České republiky jako soud nadřízený rozhodl ve věci žalobců J. S. a F. V., proti žalovanému OSSZ se sídlem v K., o vyloučení věcí z výkonu rozhodnutí, o návrhu žalobců na vyloučení soudců Vrchního soudu v Praze t a k t o :
+Soudkyně Vrchního soudu v Praze JUDr. N. Ž., JUDr. Z. F. a JUDr. L. Ř. nejsou vyloučeny z projednávání a rozhodování věci vedené u téhož soudu pod sp. zn. Nco 52/2001.
+O d ů v o d n ě n í :
+Žalobci se svým podáním ze dne 4. 10. 2000 domáhali vyloučení věcí z výkonu rozhodnutí, který je veden proti povinnému P. S. Zároveň podali návrh na vyloučení soudců Okresního soudu v Kladně, Krajského soudu v Praze a Vrchního soudu v Praze (jmenovitě JUDr. P. B.) s tím, že jsou podezřelí, že společně s orgány činnými v trestním řízení organizují trestnou činnost proti povinnému a žalobcům.
+Usnesením Okresního soudu v Kladně ze dne 4. 12. 2000, č. j. 15 C 181/2000-7, bylo ve věci rozhodnuto, že se řízení zastavuje a žádný z účastníků nemá právo na náhradu nákladů řízení.
+Protože proti tomuto usnesení podali žalobci odvolání, byl spisový materiál s opravným prostředkem předložen dne 29. 1. 2001 Krajskému soudu v Praze.
+Krajský soud v Praze předložil dne 13. 2. 2001 spis Vrchnímu soudu v Praze k rozhodnutí o námitce žalobců na podjatost soudců Krajského soudu v Praze.
+Vrchní soud v Praze předložil dne 12. 3. 2001 spis Nejvyššímu soudu k rozhodnutí o námitce žalobců na podjatost soudců Vrchního soudu v Praze.
+K námitce podjatosti se písemně vyjádřili soudkyně Vrchního soudu v Praze JUDr. N. Ž., JUDr. Z. F. a JUDr. L. Ř., které podle rozvrhu práce mají rozhodovat ve věci vedené u téhož soudu pod sp. zn. Nco 52/2001, ve které jsou účastníky řízení žalobci. Jmenované soudkyně shodně uvedly, že k účastníkům řízení ani k projednávané věci nemají žádný vztah. Nejsou jim známy žádné okolnosti, které by je vylučovaly z projednávání a rozhodování této věci.
+Podle § 14 odst. 1 o. s. ř. (ve znění účinném do 31. 12. 2000) jsou soudci vyloučeni z projednávání a rozhodování věci, jestliže se zřetelem na jejich poměr k věci, k účastníkům nebo k jejich zástupcům lze mít pochybnost o jejich nepodjatosti.
+V projednávané věci však žádný z těchto důvodů podjatosti zjištěn nebyl. Rozhodnutí o vyloučení soudce z důvodů uvedených v § 14 odst. 1 o. s. ř. (ve znění účinném do 31. 12. 2000) představuje výjimku z ústavní zásady, podle níž nikdo nesmí být odňat svému zákonnému soudci s tím, že příslušnost soudu i soudce stanoví zákon (čl. 38 odst. 1 Listiny základních práv a svobod). Vzhledem k tomu lze vyloučit soudce z projednávání a rozhodování přidělené věci jen výjimečně a ze skutečně závažných důvodů, které mu relativně brání rozhodnout v souladu se zákonem nezaujatě a spravedlivě. Ze spisového materiálu nevyplývá, že by se soudkyně Vrchního soudu v Praze, které mají podle rozvrhu práce věc žalobců projednat a rozhodnout, měly dopustit jednání uvedeného žalobci v podaném návrhu na vyloučení soudců. Jmenované soudkyně ve svých písemných vyjádřeních naopak potvrdily, že k věci a ani k účastníkům nemají žádný osobní vztah. O případné podjatosti soudkyň nesvědčí ani jiná skutečnost obsažená ve spise. Pro úsudek o podjatosti soudce a o nemožnosti rozhodnout v důsledku toho nestranně a nezávisle není dostačující toliko obecné nebo subjektivní přesvědčení žalobců. Proto Nejvyšší soud rozhodl o námitce podjatosti tak, jak je uvedeno ve výroku tohoto usnesení.
+Protože návrh na vyloučení soudců byl podán přede dnem nabytí účinnosti zák. č. 30/2000 Sb., tak Nejvyšší soud o něm rozhodoval podle ustanovení občanského soudního řádu účinných do 31. 12. 2000.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 15. března 2001
+Předseda senátu:
+JUDr. Jiří H o r á k
