@@ -1,0 +1,28 @@
+20 Cdo 2675/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Ištvánka a soudců JUDr. Vladimíra Kůrky a JUDr. Pavla Krbka ve věci výkonu rozhodnutí oprávněného M. K., zastoupeného advokátem, proti povinné J. K., zastoupené advokátem, pro 29.850.- Kč s příslušenstvím, srážkami ze mzdy, vedené u Okresního soudu v Klatovech pod sp. zn. E 458/2003, o dovolání povinné proti usnesení Krajského soudu v Plzni ze dne 25.června 2003, č.j. 56 Co 313/2003, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Odvolací soud potvrdil usnesení, jímž soud prvního stupně nařídil výkon rozhodnutí, maje za to, že obrana povinné je při nařízení výkonu nerozhodná.
+Povinná ve včasném dovolání namítla, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci (§ 241a odst. 2 písm. b/ o.s.ř.), které spatřuje v tom, že odvolací soud vycházel pouze z tvrzení oprávněného a nezabýval se tím, že vymáhaná povinnost již byla splněna, k tomu mohl soud dle jejího názoru učinit dotaz účastníkům.
+Oprávněný ve vyjádření k dovolání navrhl, aby bylo rozhodnuto k jeho návrhu na zastavení výkonu rozhodnutí, čímž by odpadl důvod rozhodování dovolacího soudu.
+Dovolání přípustné není.
+Podle § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Podle § 238a odst. 1, písm. c/ o.s.ř. je dovolání přípustné proti usnesení odvolacího soudu, jímž bylo potvrzeno nebo změněno usnesení soudu prvního stupně, kterým bylo rozhodnuto o návrhu na nařízení výkonu rozhodnutí; ustanovení § 237 odst. 1 a 3 zde platí obdobně (odstavec 2).
+Z toho plyne, že dovolání proti těmto usnesením je přípustné za předpokladu, že jsou splněny podmínky (jedna z nich), vyslovené v § 237 odst. 1 písm. a/ až c/ o.s.ř.
+Jelikož napadené usnesení není měnícím (§ 237 odst. 1 písm. a/ o.s.ř.), ani potvrzujícím poté, co předchozí (jiné) rozhodnutí soudu prvního stupně bylo odvolacím soudem zrušeno (§ 237 odst. 1 písm. b/ o.s.ř.), přichází v úvahu – k založení přípustnosti dovolání - toliko ustanovení § 237 odst. 1 písm. c/ o.s.ř.
+Aby mohlo být dovolání přípustné podle § 237 odst. 1 písm. c/ o.s.ř., musel by dovolací soud dospět k závěru, že napadené rozhodnutí je ve věci samé po právní stránce zásadního významu.
+Podle ustanovení § 237 odst. 3 o.s.ř. má rozhodnutí odvolacího soudu po právní stránce zásadní význam zejména tehdy, řeší-li právní otázku, která v rozhodování dovolacího soudu dosud nebyla vyřešena, nebo která je odvolacími soudy nebo dovolacím soudem rozhodována rozdílně, anebo řeší-li tuto otázku v rozporu s hmotným právem.
+Dovolací přezkum, předjímaný tímto ustanovením, je tím předpokládán zásadně pro posouzení otázek právních. Způsobilý dovolací důvod představuje tedy ten, jímž lze namítat, že rozhodnutí spočívá na nesprávném právním posouzení věci (§ 241a odst. 2 písm. b/ o.s.ř.); vzhledem k tomu, že uplatněným důvodem je dovolací soud vázán (§ 242 odst. 3, věta první, o.s.ř.), lze to, zda rozhodnutí je zásadního právního významu, posuzovat jen z hlediska těch námitek obsažených v dovolání, jež jsou tomuto dovolacímu důvodu podřaditelné.
+Právní posouzení věci je nesprávné, jestliže odvolací soud posoudil věc podle právní normy, jež na zjištěný skutkový stav nedopadá, nebo právní normu, sice správně určenou, nesprávně vyložil, případně ji na daný skutkový stav nesprávně aplikoval.
+Dovolatelka se mýlí v hodnocení důsledků toho, že odvolací soud při přezkumu správnosti usnesení, kterým nařízen výkon rozhodnutí, nepřihlížel k jejímu argumentu, že vymáhaná povinnost již byla splněna. Obrana povinného založená na tvrzení zániku vykonávané povinnosti splněním nařizování výkonu rozhodnutí nepřísluší, soud totiž při něm vychází zásadně z tvrzení oprávněného o tom, že taková povinnost splněna nebyla. Tvrzení o zániku pohledávky naplňuje důvod zastavení výkonu rozhodnutí dle § 268 odst. 1, písm. g/ o.s.ř., taková věc však nebyla předmětem odvolacího přezkumu. Dovolatelka obsahem svého dovolání ve skutečnosti žádnou otázku zásadního právního významu nestaví.
+V souzené věci nejde ani o existenci (dovoláním otevřené) právní otázky, jejíž posouzení by mohlo být relevantní i pro posouzení jiných, obdobných právních poměrů, a jež v konečném účinku může mít vliv na obecnou rozhodovací činnost soudů (což rozhodnutí zásadního právního významu ve smyslu § 237 odst. 3 o.s.ř. předpokládá), rozpor s hmotným právem (§ 237 odst. 3 o.s.ř.) nemůže být dán tam, kde námitky dovolatelky vycházejí z práva procesního.
+Platí tedy jednak, že odvolací soud uplatnil v dané věci právní názory v soudní praxi ustálené a nepochybné, jednak že dovolatelka rozhodnutí odvolacího soudu vystavila kritice, již v daném dovolacím řízení zohlednit nelze.
+Nelze-li dospět k závěru, že dovoláním napadené rozhodnutí je zásadního významu po právní stránce, není dovolání přípustné ani podle § 237 odst. 1 písm c/, odst. 3 o.s.ř.
+Protože ostatní možnosti založit přípustnost dovolání byly vyloučeny již dříve, Nejvyšší soud dovolání povinné podle § 243b odst. 5, § 218 písm. c/ o.s.ř. odmítl.
+Povinná s dovoláním úspěšná nebyla, oprávněnému, který by jinak měl právo na náhradu nákladů dovolacího řízení, žádné takové náklady (podle obsahu spisu), které by vedly k úspěšnému uplatňování nebo bránění práva, nevznikly. Této procesní situaci odpovídá ve smyslu ust. § 142 odst. 1, 224 odst. 1 a § 243b odst. 5 o.s.ř. výrok o tom, že na náhradu nákladů dovolacího řízení nemá právo žádný z účastníků.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 22. března 2005
+JUDr. František I š t v á n e k , v.r.
+předseda senátu
