@@ -1,0 +1,14 @@
+11 Td 54/2002
+U S N E S E N Í
+Nejvyšší soud v trestní věci obviněného J. Č., vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 6 T 113/2002 rozhodl v neveřejném zasedání konaném dne 30. 10. 2002 o příslušnosti soudu t a k t o :
+Podle § 24 odst. 1 tr. řádu j e k projednání trestní věci obviněného J. Č. p ř í s l u š n ý Obvodní soud pro Prahu 4.
+O d ů v o d n ě n í :
+Obvodní státní zástupce podal dne 18. 7. 2002 Obvodnímu soudu pro Prahu 4 obžalobu na obviněného J. Č. pro trestný čin obcházení branné povinnosti podle § 268 odst. 2 písm. a) tr. zák., který měl spáchat tím, že dne 21. 2. 2000 osobně doručil na Ú. V. s. ve Z. potvrzení o studiu na Institutu vzdělanosti UK v P. 2, ul. L. 68 a požádal o odklad nástupu základní vojenské služby, přičemž bylo zjištěno, že studentem na uvedené univerzitě není a nikdy nebyl a doklad o studiu zfalšoval.
+Usnesením Obvodního soudu pro Prahu 4 ze dne 31. 7. 2002, sp. zn. 6 T 113/2002, byla trestní věc obviněného J. Č. podle § 314c odst. 1 písm. a) tr. řádu za použití § 188 odst. 1 písm. a) tr. řádu předložena Nejvyššímu soudu k rozhodnutí o příslušnosti s odůvodněním, že není místně příslušným soudem k projednání trestní věci obviněného, neboť k předložení zfalšovaného potvrzení o studiu, tedy jednání, které směřuje k vyhnutí se branné povinnosti, došlo v obvodu Okresního soudu ve Zlíně.
+Nejvyšší soud zhodnotil důkazy použitelné k řešení tohoto sporu a dospěl k následujícímu závěru.
+Objasňování trestní věci obviněného v rámci přípravného řízení provedly policejní orgány v obvodu Obvodního soudu pro Prahu 4 a k tomuto soudu podal Obvodní státní zástupce pro Prahu 4 také obžalobu. Z důkazů shromážděných v přípravném řízení je zřejmé, že obviněný v úmyslu vyhnout se branné povinnosti doručil na Ú. V. s. ve Z. nepravdivé potvrzení. Z hlediska určení místní příslušnosti k projednání věci ve smyslu § 18 odst. 1 tr. řádu je stejně tak významné, kde mělo dojít k inkriminovanému jednání, jako, kde mohlo dojít k jeho následku. V trestní věci obviněného je nutno za protiprávní jednání považovat nejen doručení nepravdivého potvrzení, ale i jeho vyhotovení, resp. obstarání. Zatímco místem doručení je nesporně obvod Okresního soudu ve Zlíně, místem, kde obviněný s protiprávním jednáním začal, tedy kde vyhotovil nebo kde získal nepravdivé potvrzení, je s největší pravděpodobností jeho bydliště, tedy místo v obvodu Obvodního soudu pro Prahu 4. Není tedy v rozporu s ustanovením § 18 odst. 1 tr. řádu, aby tento soud ve věci jednal a rozhodl. Pro místní příslušnost tohoto soudu svědčí i důvody § 25 tr. řádu, neboť i z hlediska hospodárnosti řízení se jeví vhodné, aby věc byla projednána v místě, kde se obviněný trvale zdržuje, když ostatní důkazy vedoucí k objasnění věci, jsou jen důkazy listinné.
+Z těchto důvodů bylo rozhodnuto, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 30. října 2002
+Předseda senátu:
+JUDr. Pavel Kučera
