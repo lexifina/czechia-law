@@ -1,0 +1,50 @@
+30 Cdo 450/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Pavlíka a soudců JUDr. Romana Fialy a JUDr. Karla Podolky v právní věci žalobce Bc. M. Š., zastoupeného advokátkou, proti žalované České republice - Ministerstvu vnitra ČR, se sídlem v Praze 7, Nad štolou č. 3, o splnění povinnosti podle zákona č. 256/1992 Sb., vedené u Okresního soudu v Benešově pod sp.zn.
+10 C 939/2004, o dovolání žalobce proti usnesení Krajského soudu v Praze ze dne
+29. října 2004, č.j. 28 Co 427/2004-17, takto:
+I. Dovolání žalobce se zamítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Praze usnesením ze dne 29. října 2004, č.j. 28 Co 427/2004-17, potvrdil usnesení Okresního soudu v Benešově ze dne 19. července 2004, č.j.
+10 C 939/2004-2, kterým bylo řízení v označené věci zastaveno s tím, že po právní moci tohoto usnesení bude věc postoupena Úřadu pro ochranu osobních údajů, se sídlem
+v P. a současně žádnému z účastníků nebylo přiznáno právo na náhradu nákladů řízení. Odvolací soud dále rozhodl o náhradě nákladů odvolacího řízení.
+Odvolací soud vycházel ze skutečnosti, že žalobce podal žalobu o splnění povinností vyplývajících ze zákona č. 256/1992 Sb. Krajský soud se v tomto případě ztotožnil s názorem soudu prvního stupně v otázce pravomoci soudů k rozhodování
+o nárocích, které jsou uplatňovány žalobcem, kdy je dána pravomoc Úřadu pro ochranu osobních údajů v P. (§ 21 odst. 1 a 2 zákona č. 101/2000 Sb., o ochraně osobních údajů). Proto rozhodnutí soudu prvního stupně potvrdil podle § 219 občanského soudního řádu (dále jen \"o.s.ř.\").
+Uvedené rozhodnutí odvolacího soudu bylo zástupkyni žalobce doručeno dne
+25. listopadu 2004 a téhož dne nabylo právní moci.
+Proti tomuto usnesení Krajského soudu v Praze podal žalobce dne 6. ledna 2005 včasné dovolání. Jako dovolací důvod především uvádí, že řízení je postiženo vadou, která mohla mít za následek nesprávné rozhodnutí ve věci (§ 241a odst. 2 písm. a/ o.s.ř.) a současně, že rozhodnutí spočívá na nesprávném právním posouzení věci (§ 241a
+odst. 2 písm. b/ o.s.ř.). Dovolatel v dovolání zejména odvolacímu soudu vytýká, že
+při svém rozhodování nevzal v úvahu novelu zákona č. 101/2000 Sb., provedenou
+s účinností od 26. července 2004 zákonem č. 439/2004 Sb.. Podle změněného ustanovení § 21 cit. zákona je stanoveno, že pokud vznikla v důsledku zpracování osobních údajů jiná, než majetková újma, je třeba při uplatňování jejího nároku postupovat podle zvláštního zákona, kterým je v daném případě § 13 občanského zákoníku.
+Dovolatel dále poukazuje na tvrzené nedostatky odvolacím soudem zmíněného usnesení ze dne 6. února 2004, č.j. Konf 15/2003 vydané Zvláštním senátem zřízeným podle zákona č. 131/2002 Sb., o rozhodování některých kompetenčních sporů. Zdůrazňuje též, že článek 96 odst. 1 Ústavy České republiky zakotvuje jako jednu
+z klíčových zásad fungování a realizace soudní moci v České republice procesní zásadu rovnosti práv účastníků soudního řízení. Z této zásady je třeba dovodit, že pro určitý typ řízení musí být dána jediná příslušnost soudu, chápaná v rozměru věcném a funkčním, přičemž taková úprava musí být provedena zákonem.
+Dovolatel pak navrhl, aby napadené rozhodnutí odvolacího soudu (stejně tak jako usnesení soudu prvního stupně) bylo zrušeno, a aby věc byla vrácena soudu prvního stupně k dalšímu řízení.
+K podanému dovolání se žalovaná písemně vyjádřila. Navrhla tak zamítnutí tohoto dovolání, když se ztotožňuje se závěrem, že v této věci není dána pravomoc soudu k řešení sporů vyplývajících z uplatnění práv a povinností podle zákona o ochraně osobních údajů.
+Po zjištění, že dovolání bylo v posuzované věci podáno včas, oprávněným účastníkem řízení (§ 240 odst. 1, § 241 odst. 1 o.s.ř.), se dovolací soud zabýval dále především otázkou možné přípustnosti tohoto dovolání s pozitivním závěrem (§ 239 odst. 2 písm. a/ o.s.ř.). Dále pak uvážil, že dovolání je charakterizováno obsahovými
+i formálními znaky požadovanými ustanovením § 241a odst. 1 o.s.ř., přičemž vychází
+z dovolacích důvodů podle ustanovení § 241a odst. 2 písm. a) a b) o.s.ř. Dovolací soud pak přezkoumal napadené usnesení Krajského soudu v Praze v souladu s ustanovením
+§ 242 odst. 1 až 3 o.s.ř. a dospěl k závěru, že dovoláním napadené rozhodnutí odvolacího soudu je třeba považovat za správné (§ 243b odst. 2 o.s.ř.).
+Z ustanovení § 242 o.s.ř. vyplývá, že právní úprava institutu dovolání obecně vychází ze zásady vázanosti dovolacího soudu rozsahem dovolacího návrhu. Dovolací soud je přitom vázán nejen rozsahem dovolacího návrhu, ale i uplatněným dovolacím důvodem. Současně je však v případech, je-li dovolání přípustné, povinen přihlédnout
+i k vadám uvedeným v ustanovení § 229 odst. 1, § 229 odst. 2 písm. a) a b) a § 229
+odst. 3 o.s.ř., jakož i k jiným vadám řízení, které mohly mít za následek nesprávné rozhodnutí ve věci, a to i tehdy, když nebyly uplatněny v dovolání. Tyto vady se však
+z obsahu spisu nepodávají.
+Jak vyplývá z obsahu spisu, návrh na zahájení tohoto řízení požadoval (mimo jiné) splnění povinností podle zákona č. 256/1992 Sb. Jestliže žalobce svůj nárok v této části vyvozoval z úpravy provedené zmíněným zákonem, pak tento předpis v ustanovení § 23 stanovil pravomoc soudů řešit spory vyplývající z uplatňování práv a povinností podle tohoto zákona.
+Dne 1. června 2000 nabyl účinnosti zákon č. 101/2000 Sb., o ochraně osobních údajů a o změně některých zákonů, který svým § 48 zákon č. 256/1992 Sb. zrušil. Tento nový předpis nepřevzal dosavadní úpravu pravomoci soudů ve zmíněných věcech, jak ji obsahoval zrušený starší zákon ve svém § 23 (současně však ani např. ve svých přechodných ustanoveních tehdy případně neuvedl, že by i dosud probíhající spory bylo třeba dokončit podle dosavadních předpisů). Z uvedeného se dovozuje, že účinností zákona č. 101/2000 Sb. pozbyly soudy pravomoc rozhodovat v dotčených věcech a tato pravomoc přešla na Úřad pro ochranu osobních údajů se sídlem v P. (§ 21 zákona
+o ochraně osobních údajů), přičemž Úřadu byly svěřeny kompetence ústředního správního úřadu pro oblast ochrany osobních údajů v rozsahu stanoveném tímto zákonem. Jde přitom podle § 28 odst. 1 a 2 cit. zákona o nezávislý orgán, který ve své činnosti postupuje nezávisle a řídí se pouze zákony a jinými právními předpisy, přičemž do činnosti Úřadu lze zasahovat jen na základě zákona. Takto ostatně opakovaně judikoval i Zvláštní senát zřízený podle zákona č. 131/2002 Sb., o rozhodování některých kompetenčních sporů (vedle odvolacím soudem zmíněného usnesení tohoto senátu ze dne 6. února 2004, č.j. Konf. 15/2003-24 lze dále srovnat např. i usnesení téhož senátu ze dne 29. března 2004, č.j. Konf 17/2003-15, apod.).
+Přes tuto odlišnost (resp. odlišnosti další) se však úprava obsažená v zákoně č. 256/1992 Sb. a v zákoně č. 101/2000 Sb. (v tehdejším znění) shodovala v tom, že obsahovala v obou případech zvláštní úpravu nároku fyzické osoby (resp. subjektu údajů) \"na zaplacení přiměřené peněžní úhrady\" (§ 20 písm. d/ zákona č. 256/1992 Sb.), resp. \"na zaplacení peněžité náhrady\" (§ 21 odst. 2 zákona č. 101/2000 Sb.) v případě dotčení vymezeného okruhu osobnostních práv dotčeného subjektu.
+Dovolatelem zmiňovaná novela zákona č. 101/2000 Sb., o ochraně osobních údajů, provedená s účinností od 26. července 2004 zákonem č. 439/2004 Sb. mimo jiné nově koncipuje ustanovení § 21 zákona. To již např. nevymezuje zvláštní nárok
+(na zaplacení peněžité náhrady), jak byl upraven v tomto ustanovení až do zmíněné novely, ale v jeho pátém odstavci se nově stanoví, že pokud vznikla v důsledku zpracování osobních údajů subjektu údajů jiná než majetková újma, je třeba
+při uplatňování nároku postupovat podle zvláštního zákona - v daném případě podle
+§ 13 občanského zákoníku upravujícího satisfakční nároky v rámci ochrany osobnosti fyzických osob.
+Je pak zřejmé, že právní základ žalobcem uplatněného nároku (byť v návrhu
+s odkazem na zákon č. 256/1992 Sb., který však poté pozbyl účinnosti) odpovídal úpravě nároku podle § 21 odst. 2 písm. d/ zákona č. 101/2000 Sb.v tehdejším znění
+(byť s rozdílným určením orgánu, který byl oproti předchozí právní úpravě povolán
+o takto uplatněném nároku rozhodovat). V žádném případě však nešlo o nárok uplatněný ve smyslu ustanovení § 13 občanského zákoníku (jak by předpokládalo
+v takových případech zmíněné novelizované znění ustanovení § 21 odst. 5 zákona č. 101/2000 Sb.). Proto je třeba konstatovat, že úvahy odvolacího soudu o tom, že posouzení této konkrétní věci bylo a je v pravomoci Úřadu pro ochranu osobních údajů v Praze (a nikoliv tedy soudů), jsou opodstatněné, když podle čl. II. bodu 3 přechodných ustanovení zmiňované novely zákona č. 101/2000Sb. řízení zahájená a neskončená přede dnem nabytí účinnosti tohoto zákona se dokončí podle dosavadních právních předpisů (v případě posuzované věci tedy podle § 21 odst. 2 písm. d/ zákona č. 101/2000 Sb. ve znění do uvedené novely, a to se všemi s tím spojenými důsledky).
+Je tedy zřejmé, že dovoláním napadené rozhodnutí Krajského soudu v Praze je třeba z uvedených důvodů pokládat za správné (§ 243b odst. 2 o.s.ř.). Dovolacímu soudu tak nezbylo, než toto dovolání podle uvedeného ustanovení zamítnout. Dovolací soud rozhodoval, aniž nařídil jednání (§ 243a odst. 1 o.s.ř.).
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 5 věta prvá o.s.ř. ve spojení s § 224 odst. 1, § 151 a § 142 odst. 1 o.s.ř., když dovolání žalobce bylo zamítnuto, avšak žalované v tomto řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 31. března 2005
+JUDr. Pavel Pavlík, v. r.
+předseda senátu
