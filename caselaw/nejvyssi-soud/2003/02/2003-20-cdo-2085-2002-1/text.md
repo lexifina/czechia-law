@@ -1,0 +1,19 @@
+20 Cdo 2085/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci výkonu rozhodnutí oprávněné T., s. r. o., proti povinné P., s. r. o., pro částku 854.343,- Kč s příslušenstvím, prodejem nemovitostí, vedené u Okresního soudu v Ústí nad Orlicí pod sp. zn. 5 E 25/2000, o dovolání povinné proti usnesení Krajského soudu v Hradci Králové ze dne 23. 6. 2000, č.j. 19 Co 141/2000-38, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Povinná napadla dovoláním v záhlaví uvedené rozhodnutí, kterým krajský soud potvrdil usnesení ze dne 8. 2. 2000, č.j. 5 E 25/2000-11, jímž Okresní soud v Ústí nad Orlicí nařídil (podle směnečného platebního rozkazu Krajského soudu v Hradci Králové ze dne 16. 7. 1999, sp. zn. Sm 264/99) k vydobytí pohledávky ve výši 854.343,- Kč s 6 % úrokem od 11. 8. 1999 do zaplacení, odměny ze směnečného peníze ve výši 2.847,80 Kč, nákladů nalézacího řízení (50.712,- Kč) a nákladů exekučních (24.578,- Kč) výkon rozhodnutí prodejem označených nemovitostí, povinné uložil, aby sdělila údaje týkající se případného předkupního práva na nemovitostech váznoucího, a zakázal jí nemovitosti převést nebo zatížit; o nákladech odvolacího řízení rozhodl odvolací soud tak, že na jejich náhradu nemá právo žádný z účastníků.
+Nejvyšší soud věc projednal podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2000 [dále též jen „o.s.ř.“ (srov. část dvanáctou, hlavu I, bod 17. zákona č. 30/2000 Sb.)].
+Po podání dovolání byl usnesením Krajského soudu v Brně ze dne 25. 4. 2002, sp. zn. 45 K 10/2001, na majetek povinné prohlášen konkurs. Ve smyslu ustanovení § 14 odst. 1 písm. c/ zákona č. 328/1991 Sb., o konkursu a vyrovnání, ve znění pozdějších předpisů (dále jen „zákon č. 328/1991 Sb.“), se řízení o výkon rozhodnutí nepřerušuje (úpadce zůstává účastníkem dovolacího řízení – povinnou); výkon postihující majetek patřící do konkursní podstaty úpadce však nelze provést a k tomuto majetku nelze ani nabýt právo na oddělené uspokojení (srov. písmeno e/ téhož ustanovení).
+Podle ustanovení § 241 odst. 1 věty první o.s.ř. musí být dovolatel zastoupen advokátem, jestliže nemá právnické vzdělání buď sám, nebo jeho zaměstnanec (člen), který za něj jedná; v takovém případě je nezbytné, aby dovolání bylo advokátem i sepsáno (srov. § 241 odst. 2 věta druhá o.s.ř.).
+Při podání dovolání nebyla povinná zákonným způsobem zastoupena a z obsahu jejího podání nevyplývalo, že by J. K. (jednatel společnosti) disponoval právnickým vzděláním.
+Usnesením ze dne 25. 7. 2002, č.j. 5 E 25/2000-132, doručeným J. K. 23. 9. 2002, vyzval okresní soud povinnou, aby si zvolila pro dovolací řízení advokáta a aby plnou moc (s podáním, kterým se advokát ztotožní s dovoláním účastníka, popřípadě je doplní podáním vlastním) předložila do patnácti dnů od doručení usnesení.
+Dovolatelka na výzvu nereagovala.
+Jelikož povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – vyjma usnesení, jímž se dovolací řízení právě pro jeho neodstranění zastavuje – vydání rozhodnutí, kterým se řízení končí (§ 241 odst. 1 o.s.ř.), a protože ke zhojení uvedeného nedostatku přes opatření soudu nedošlo, Nejvyšší soud dovolací řízení zastavil (§ 104 odst. 2, § 243c o.s.ř.).
+Dovolatelka z procesního hlediska zavinila, že dovolací řízení bylo zastaveno, oprávněné však v tomto stadiu řízení (podle obsahu spisu) žádné náklady nevznikly; tomu odpovídá ve smyslu ustanovení § 146 odst. 2 věty první, § 224 odst. 1 a § 243b odst. 4 věty první o.s.ř. výrok o tom, že na náhradu nákladů dovolacího řízení nemá právo žádný z účastníků.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 13. února 2003
+JUDr. Pavel Krbek, v. r.
+předseda senátu
