@@ -1,0 +1,26 @@
+11 Tcu 178/2003
+U S N E S E N Í
+Nejvyšší soud České republiky projednal dne 25. srpna 2003 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na zápis odsouzení cizozemským soudem do evidence Rejstříku trestů a rozhodl t a k t o :
+Podle § 4 odst. 2 zák. č. 269/1994 Sb. se do evidence Rejstříku trestů zaznamenají údaje o odsouzení občana České republiky P. K., rozsudkem Okresního soudu ve Zwickau, Spolková republika Německo, ze dne 25. 1. 2001, sp. zn. 6 Ls 633 Js 19635/00, a to pro trestný čin výdělečného organizovaného převádění cizinců v sedmi případech a ve dvou pokusech podle § 92 odst. 1 č. 1, 2, 6, § 92a odst. 1, § 92b odst. 1, 3 cizineckého zákona, § 22, § 23, § 53 trestního zákoníku Spolkové republiky Německo, k celkovému trestu odnětí svobody v trvání dvou let a šesti měsíců.
+O d ů v o d n ě n í :
+Rozsudkem Okresního soudu ve Zwickau, Spolková republika Německo, ze dne 25. 1. 2001, sp. zn. 6 Ls 633 Js 19635/00, jenž nabyl právní moci dne 2. 2. 2001, byl P. K. uznán vinným trestným činem výdělečného organizovaného převádění cizinců v sedmi případech a ve dvou pokusech podle § 92 odst. 1 č. 1, 2, 6, § 92a odst. 1, § 92b odst. 1, 3 cizineckého zákona, § 22, § 23, § 53 trestního zákoníku Spolkové republiky Německo, za který byl odsouzen k celkovému trestu odnětí svobody v trvání dvou let a šesti měsíců.
+Uvedené trestné činnosti se podle zjištění soudu dopustil tím, že po předchozí dohodě s osobami organizujícími ilegální převádění cizinců, přepravoval pro tyto účely najatými dodávkovými automobily cizince, převedené předtím pěšími převaděči přes „zelenou hranici“ z České republiky na území Spolkové republiky Německo, z bezprostřední blízkosti státní hranice do německého vnitrozemí. Jednal přitom s vědomím, že převáděné osoby nedisponují doklady potřebnými pro vstup a pobyt na území Spolkové republiky Německo. Konkrétně tak
+- dne 21. 6. 2000 mezi 9:00 a 10:00 hod. přepravil 12 cizinců z obce M. do E., za což obdržel odměnu 8.000,- Kč;
+- dne 26. 6. 2000 mezi 9:00 a 10:00 hod. přepravil 10 cizinců z obce M. do B., za což obdržel odměnu 6.000,- Kč;
+- dne 30. 6. 2000 mezi 9:00 a 10:00 hod. přepravil 12-14 cizinců z obce M. do B., za což obdržel odměnu 7.500,- Kč;
+- dne 11. 7. 2000 přepravil 15 cizinců z obce R. do G., za což obdržel odměnu 10.000,- Kč;
+- dne 16. 7. 2000 přepravil 8 cizinců z obce R. do G., za což obdržel odměnu 6.000,- Kč;
+- dne 19. 7. 2000 přepravil 9 cizinců z obce R. do E., za což obdržel odměnu 9.000,- Kč;
+- dne 24. 7. 2000 přepravil 8 cizinců z obce R. do B., za což obdržel odměnu 7.000,- Kč;
+- dne 14. 7. 2000 přijel do obce R., aby tam převzal 16 cizinců, k čemuž však nedošlo, jelikož dostal příkaz, aby se vrátil zpět do České republiky. Za tento převoz osob měl obdržet odměnu ve výši 12.000,- Kč;
+- dne 28. 7. 2000 přijel do obce R., aby tam převzal 16 cizinců a přepravil je do F. n. M., k čemuž však nedošlo, neboť byl v prostoru obce R. kontrolován a zadržen. Za tento převoz osob měl obdržet odměnu ve výši 12.000,- Kč.
+Dne 11. 8. 2003 pod sp. zn. 2475/2002-MO-M podalo Ministerstvo spravedlnosti České republiky podle § 4 odst. 2 zák. č. 269/1994 Sb., o Rejstříku trestů (dále jen zákon), Nejvyššímu soudu České republiky návrh na zapsání výše uvedeného odsouzení německého soudu do evidence Rejstříku trestů České republiky.
+Nejvyšší soud České republiky věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro zápis odsouzení cizozemským soudem do evidence Rejstříku trestů.
+Podle § 4 odst. 1 zákona se do evidence Rejstříku trestů zaznamenávají údaje o odsouzení cizozemským soudem, jestliže o uznání rozsudku takového soudu rozhodl podle § 384a odst. 1 tr. ř. Nejvyšší soud ČR. Podle § 4 odst. 2 zákona může však Nejvyšší soud ČR na návrh Ministerstva spravedlnosti ČR rozhodnout, že se do evidence Rejstříku trestů zaznamenají též údaje o jiném odsouzení občana České republiky cizozemským soudem, jestliže se týká činu, který je trestným i podle právního řádu České republiky, a zápis do evidence je odůvodněn závažností činu a druhem trestu, který za něj byl uložen.
+Z podaného návrhu a z obsahu připojeného spisového materiálu vyplývá, že odsouzený je občanem České republiky, který byl odsouzen cizozemským soudem, přičemž odsouzení se týká skutku, který vykazuje znaky trestného činu i podle právního řádu České republiky (trestný čin nedovoleného překročení státní hranice podle § 171a tr. zák.). Tím jsou splněny formální podmínky ustanovení § 4 odst. 2 zákona.
+V posuzované věci jsou dány ovšem i podmínky materiální povahy. P. K. se pro finanční prospěch opakovaně podílel na organizované ilegální přepravě velkého počtu cizinců přes státní hranici na území jiného státu. Jedná se o nebezpečnou a v současnosti také velmi rozšířenou trestnou činnost, která zároveň poškozuje i zájmy České republiky. Pokud jde o druh testu, byl mu uložen citelný nepodmíněný trest odnětí svobody. Lze tedy dovodit, že podmínky ustanovení § 4 odst. 2 zákona týkající se závažnosti činu a druhu uloženého trestu jsou splněny.
+Z uvedených důvodů proto Nejvyšší soud České republiky návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 25. srpna 2003
+Předseda senátu:
+JUDr. Karel Hasch
