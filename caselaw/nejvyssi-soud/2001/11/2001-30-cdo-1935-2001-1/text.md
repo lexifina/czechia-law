@@ -1,0 +1,18 @@
+30 Cdo 1935/2001
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci navrhovatelky Z. P., zastoupené advokátem, proti odpůrkyni České správě sociálního zabezpečení, Praha 5, Křížová 25, o plný invalidní důchod, vedené u Krajského soudu v Ostravě pod sp. zn. 43 Ca 20/98, o dovolání navrhovatelky proti rozsudku Vrchního soudu v Olomouci ze dne 24. dubna 2001, č.j. 2 Cao 196/2000-89, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Vrchní soud v Olomouci rozsudkem v záhlaví označeným k odvolání navrhovatelky potvrdil rozsudek Krajského soudu v Ostravě ze dne 19. dubna 2000, č.j. 43 Ca 20/98-69, jímž bylo k opravnému prostředku navrhovatelky potvrzeno rozhodnutí České správy sociálního zabezpečení ze dne 13. 1. 1998, č. 535 403 095, kterým byl navrhovatelce od 10. 3. 1997 odňat plný invalidní důchod podle § 56 odst. 1 zákona č. 155/1995 Sb. s odůvodněním, že podle posudku lékaře Okresní správy sociálního zabezpečení v Bruntále ze dne 31. 1. 1997 není ani částečně invalidní.
+V podaném dovolání navrhovatelka vytýká odvolacímu soudu, že jeho rozsudek vychází ze skutkového zjištění, které nemá v podstatné části oporu v provedeném dokazování a zjevně v něm nesprávně posoudil předložené důkazy, jež blíže označuje, a navrhuje, aby dovolací soud rozsudek odvolacího soudu zrušil a vrátil mu věc k dalšímu řízení.
+Při posuzování dovolání vycházel dovolací soud z ustanovení části dvanácté, hlavy první, bodu 17 zákona č. 30/2000 Sb., jímž byl změněn a doplněn občanský soudní řád (zákon č. 99/1963 Sb.), podle něhož dovolání proti rozhodnutím odvolacího soudu, vydaným přede dnem účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů, se projednají a rozhodne se o nich podle dosavadních právních předpisů, t.j. podle občanského soudního řádu ve znění před novelizací zákonem č. 30/2000 Sb.
+Nejvyšší soud České republiky, který jako soud dovolací (§ 10a o.s.ř.) věc projednal bez jednání (§ 243a odst. 1 věta první o.s.ř.) dospěl k závěru, že dovolání bylo podáno opožděně.
+Podle ustanovení § 240 odst. 1 věta první o.s.ř. účastník může podat dovolání do jednoho měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Podle ustanovení § 240 odst. 2 věty druhé o.s.ř. je lhůta zachována, bude-li dovolání podáno ve lhůtě u odvolacího nebo dovolacího soudu.
+V posuzovaném případě bylo zjištěno, že rozsudek odvolacího soudu obsahující řádné poučení o dovolání byl navrhovatelce doručen do vlastních rukou dne 5. června 2001, jak spolehlivě plyne z doručenky rozsudku, založené ve spise; téhož dne byl doručen též odpůrkyni. Navrhovatelka podala dovolání osobně u Nejvyššího soudu ČR v Brně dne 10. července 2001.
+Z uvedeného vyplývá, že rozsudek odvolacího soudu nabyl právní moci dne 5. června 2001 (§ 159 odst. 1 o.s.ř.) a že lhůta k dovolání uplynula podle ustanovení § 243c a § 57 odst. 1, 2 o.s.ř. dnem 9. července 2001 (pondělí). Dovolání navrhovatelky bylo tedy podáno po uplynutí zákonem stanovené lhůty, a proto bylo podle ustanovení § 243b odst. 4 věty první a § 218 odst. 1 písm. a/ o.s.ř. - aniž bylo možno se zabývat dalšími okolnostmi - odmítnuto.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 4, věty první, § 224 odst. 1 a § 151 odst. 1, věty první, o.s.ř., neboť navrhovatelka s ohledem na výsledek řízení na náhradu svých nákladů nemá právo a České správě sociálního zabezpečení v dovolacím řízení žádné náklady nevznikly (bod 10 části dvanácté hlavy 1 zák. č. 30/2000 Sb.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 13. listopadu 2001
+JUDr. Karel Podolka, v.r.
+předseda senátu
