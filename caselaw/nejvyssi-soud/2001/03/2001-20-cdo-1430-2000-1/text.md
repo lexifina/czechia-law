@@ -1,0 +1,20 @@
+20 Cdo 1430/2000
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci výkonu rozhodnutí oprávněného V. S. proti povinným 1) M. T. a 2) J. F., vyklizením bytu, vedené u Okresního soudu v Příbrami pod sp. zn. 1 E 1583/99, o dovolání povinných proti usnesení Krajského soudu v Praze ze dne 5. ledna 2000, č.j. 23 Co 606/99-19, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+V záhlaví označeným usnesením Krajský soud v Praze potvrdil usnesení ze dne 30. srpna 1999, č.j. 1 E 1583/99-12, jímž Okresní soud v Příbrami nařídil podle usnesení téhož soudu ze dne 15. prosince 1994, sp. zn. 9 C 203/94, výkon rozhodnutí vyklizením povinných ze specifikovaných místností do zajištěného náhradního bytu.
+Usnesení odvolacího soudu napadli povinní - zastoupeni JUDr. P. M., „advokátem" - dovoláním.
+Nejvyšší soud věc projednal podle občanského soudního řádu ve znění účinném do 31. prosince 2000 - dále jen „o.s.ř." (srov. Část dvanáctou, Hlavu I, bod 17. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony).
+Protože dovolateli zvolený zástupce, jehož písemné plné moci ze dne 1. února 2000 předložili, byl ze seznamu advokátů vedeném Českou advokátní komorou ke dni 8. června 1999 vyškrtnut (srov. zprávu na č.l. 35), vyzval je soud prvního stupně usnesením ze dne 17. dubna 2000, č.j. 1 E 1583/99-39, doručeným dne 21. dubna 2000 (srov. doručenky na č.l. 39 p.v.), aby si pro dovolací řízení zvolili zástupce z řad advokátů a zastoupení doložili předložením písemných plných mocí; současně byli - pod sankcí zastavení dovolacího řízení - poučeni, že dovolání musí být podáním advokáta nahrazeno nebo doplněno.
+Podle ustanovení § 241 odst. 1 věty první o.s.ř. musí být dovolatel zastoupen advokátem, jestliže nemá právnické vzdělání buď sám, nebo jeho zaměstnanec (člen), který za něj jedná; v takovém případě musí být dovolání advokátem i sepsáno (srov. § 241 odst. 2 větu druhou o.s.ř.).
+Zvolil-li si dovolatel zástupce z řad advokátů až poté, co sám (popř. prostřednictvím zmocněnce, který není advokátem) podal dovolání, je ke splnění požadavku povinného zastoupení nezbytné, aby zvolený advokát nahradil nebo doplnil již učiněné podání vlastním podáním, popřípadě aby sdělil soudu, že se s již učiněným podáním ztotožňuje (srov. usnesení Nejvyššího soudu ze dne 27. 5. 1999, sp. zn. 26 Cdo 1121/99, uveřejněné v časopise Soudní judikatura 6/2000 pod poř. č. 64).
+Dovolatelé předložili - po podání dovolání - dne 9. května 2000 soudu prvního stupně písemnou plnou moc udělenou dne 30. dubna 2000 JUDr. V. H., advokátu (srov. č.l. 40); zmocněný advokát však neučinil žádný úkon, jímž by se s dovoláním povinných ztotožnil, popřípadě toto dovolání doplnil či nahradil vlastním podáním.
+Jelikož sepsání dovolání advokátem nebo zaměstnancem (členem) dovolatele s právnickým vzděláním, který za něj jedná, nemá-li dovolatel právnické vzdělání sám, je podmínkou týkající se účastníka řízení, jejíž nedostatek brání - vyjma usnesení, jímž se dovolací řízení zastavuje pro neodstranění tohoto nedostatku - vydání rozhodnutí, kterým se řízení končí (§ 241 odst. 1 o.s.ř.), a protože ke zhojení tohoto nedostatku přes opatření soudu prvního stupně nedošlo (dovolatelé - přestože byli o následcích nečinnosti seznámeni - na výzvu reagovali pouhým předložením plné moci, aniž by se současně jimi zvolený advokát s dovoláním ztotožnil, doplnil je či nahradil vlastním podáním), Nejvyšší soud dovolací řízení podle § 104 odst. 2 ve spojení s § 243c o.s.ř. zastavil.
+Dovolatelé z procesního hlediska zavinili, že dovolací řízení bylo zastaveno, účastníkům však ve stadiu dovolacího řízení náklady nevznikly. Této procesní situaci odpovídá ve smyslu ustanovení § 146 odst. 2 věty první, § 224 odst. 1 a § 243b odst. 4 o.s.ř. výrok o tom, že na náhradu nákladů dovolacího řízení nemá žádný z nich právo.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 29. března 2001
+JUDr. Pavel K r b e k , v. r.
+předseda senátu
+Za správnost vyhotovení: Dana Rozmahelová
