@@ -1,0 +1,21 @@
+33 Odo 614/2001- 174
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci žalobkyně J.L., proti žalované Ing. A.A., o zaplacení částky 37 852 Kč s příslušenstvím, vedené u Okresního soudu v Ostravě pod sp. zn. 34 C 501/95, o dovolání žalované proti rozsudku Krajského soudu v Ostravě ze dne 12. února 2001 č. j. 8 Co 79/2001-152, takto :
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Ostravě rozsudkem ze dne 27. října 2000 č. j. 34 C 501/95-138 (poté co jeho předchozí dva rozsudky ze dne 18. listopadu 1998 č. j. 34 C 501/95-70 a ze dne 1. prosince 1999 č. j. 34 C 501/95-96 byly zrušeny usneseními Krajského soudu v Ostravě ze dne 8. dubna 1999 č. j. 8 Co 227/99-87a ze dne 6. března 2000 č. j. 8 Co 141/2000-115) uložil žalované, aby zaplatila žalobkyni částku 36 760 Kč s 18% úrokem z prodlení za dobu od 26. 8. 1999 do zaplacení, zamítl žalobu co do částky 1 092 Kč a rozhodl o náhradě nákladů řízení.
+K odvolání žalované Krajský soud v Ostravě rozsudkem ze dne 12. února 2001 č. j. 8 Co 79/201-152 rozsudek soudu prvního stupně v napadené části (mimo zamítavý výrok rozsudku soudu prvního stupně, který nebyl odvoláním dotčen) potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Proti rozsudku odvolacího soudu podala žalovaná dovolání, v němž navrhla, aby dovolací soud zrušil rozsudek odvolacího soudu i rozsudek soudu prvního stupně a věc vrátil soudu prvního stupně k dalšímu řízení.
+Podle ustanovení části dvanácté hlavy I bodu 17 zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, se dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona (1. 1. 2001) nebo vydaným po řízení provedeném podle dosavadních právních předpisů projednají a rozhodnou podle dosavadních právních předpisů (tedy podle občanského soudního řádu ve znění platném do 31. 12. 2000 – dále též „o. s. ř.“). Tak je tomu i v daném případě, kdy byl rozsudek odvolacího soudu vydán po řízení provedeném podle dosavadních právních předpisů, tedy podle o. s. ř. ve znění platném do 31. 12. 2000.
+Podle části dvanácté hlavy I bodu 15 zákona č. 30/2000 Sb. se totiž odvolání proti rozhodnutím soudu prvního stupně vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů projednají a rozhodnou podle dosavadních právních předpisů. V posuzované věci byl rozsudek soudu prvního stupně vydán dne 27. října 2000 .
+Skutečnost, že dovolání se projedná a rozhodne podle dosavadních právních předpisů mj. znamená, že se podle těchto předpisů posoudí i otázka včasnosti dovolání.
+Podle § 240 odst. 1 věty prvé o. s. ř. účastník může podat dovolání do jednoho měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni.
+Podle § 211 a § 159 odst. 1 o. s. ř. doručený rozsudek, který již nelze napadnout odvoláním, je v právní moci. Vzhledem k tomu, že rozsudek odvolacího soudu nelze odvoláním napadnout, nabývá tento rozsudek právní moci dnem, kdy byl doručen všem účastníkům řízení. V daném případě byl tento rozsudek doručen zástupcům účastníků dne 13. března 2001. Právní moci tedy nabyl uvedeného dne.
+Lhůty určené podle týdnů, měsíců nebo let se končí uplynutím toho dne, který se svým označením shoduje se dnem, kdy došlo ke skutečnosti určující počátek lhůty, a není-li ho v měsíci, posledním dnem měsíce. Připadne-li konec lhůty na sobotu, neděli nebo svátek, je posledním dnem lhůty nejblíže následující pracovní den (§ 57 odst. 2 věta první a druhá o. s. ř.). Ve smyslu tohoto ustanovení tedy lhůta k podání dovolání skončila dnem 13. dubna 2001. Žalovaná však předala dovolání poště až dne 11. května 2001.
+Nejvyšší soud ČR jako soud dovolací (§ 10a o. s. ř.) proto podle § 243b odst. 4 a 218 odst. 1 písm. a) o. s. ř. opožděné dovolání odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 4 o. s. ř. ve spojení s § 224 odst. 1, § 151 odst. 1 a § 142 odst. 1 o. s. ř., když žalovaná nebyla v dovolacím řízení úspěšná a žalobkyni žádné náklady dovolacího řízení nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. září 2001
+JUDr. Zdeněk D e s, v. r.
+předseda senátu
