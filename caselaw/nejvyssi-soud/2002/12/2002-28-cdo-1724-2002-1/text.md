@@ -1,0 +1,19 @@
+28 Cdo 1724/2002
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy JUDr. Milana Pokorného, CSc., a soudců JUDr. Josefa Rakovského a JUDr. Oldřicha Jehličky, CSc., o dovolání: 1/ P. Č. a 2/ D. S., proti usnesení Vrchního soudu v Praze z 18. 10. 2001, sp. zn. 1 Co 220/2001, vydanému v právní věci vedené u Městského soudu v praze pod sp. zn. 32 C 91/2000 (žalobců P. Č. a D. S. proti žalované České republice – Ministerstvu zdravotnictví ČR, 120 00 Praha 2, Palackého nám. č. 4, o ochranu osobnosti), takto:
+I. Dovolání dovolatelů se odmítají.
+II. Žádný z účastníků řízení nemá právo na náhradu nákladů řízení o dovolání.
+O d ů v o d n ě n í :
+V řízení o žalobě žalobců, podané u soudu 14. 7. 2000, Městský soud v Praze usnesením z 29. 6. 2001, č. j. 32 C 91/2000-32, rozhodl, že se zamítá návrh žalobce P. Č. na ustanovení zástupce jemu z řad advokátů, a dále, že se řízení o žalobě žalobců zastavuje pro nezaplacení soudních poplatků; bylo také rozhodnuto, že žádný z účastníků řízení nemá právo na náhradu nákladů řízení.
+O odvolání žalobců proti tomuto usnesení rozhodl Vrchní soud v Praze usnesením z 18. 10. 2001, sp. zn. 1 Co 220/2001. Usnesení soudu prvního stupně bylo potvrzeno a bylo rozhodnuto, že žádný z účastníků řízení nemá právo na náhradu nákladů řízení odvolacího.
+Rozhodnutí odvolacího soudu bylo doručeno žalobcům 9.11. 2001 a dovolání bylo podáno u Městského soudu v Praze dne 22. 11. 2001, tedy ve lhůtě stanovené v § 240 odst. 1 občanského soudního řádu. Dovolatelé navrhovali, aby usnesení uvedených soudů obou stupňů byla zrušena a aby věc byla vrácena k dalšímu řízení.
+Dovoláním lze podle ustanovení § 236 odst. 1 občanského soudního řádu (viz jeho znění se změnami a doplňky vyhlášené pod č. 69/2001 Sb.) napadnout rozhodnutí odvolacího soudu, pokud to zákon připouští.
+V daném případě směřovalo dovolání dovolatelů proti usnesení odvolacího soudu, jímž bylo potvrzeno usnesení soudu prvního stupně o nevyhovění návrhu na ustanovení zástupce účastníku řízení z řad advokátů a o zastavení řízení pro nezaplacení soudního poplatku.
+Bylo třeba posoudit přípustnost dovolání proti takovému usnesení podle těch ustanovení občanského soudního řádu, jež se týkají zákonem upravené možnosti napadnout dovoláním usnesení odvolacího soudu. Taková úprava je obsažena v ustanoveních § 237 odst. 1, § 238 odst. 1, § 238a odst. 1 a § 239 občanského soudního řádu. Z obsahu a slovního znění těchto ustanovení nelze dovodit přípustnost dovolání dovolatelů v daném případě. Nešlo tu o usnesení ve věci samé, nešlo tu o rozhodnutí, jímž by bylo změněno rozhodnutí soudu prvního stupně, nešlo o usnesení o obnově řízení, nešlo o usnesení o žalobě pro zmatečnost, o usnesení týkající se soudního výkonu rozhodnutí nebo o konkurzu a o vyrovnání, nešlo o usnesení odvolacího soudu, jímž by bylo potvrzeno usnesení soudu prvního stupně o zastavení řízení pro nedostatek podmínek řízení a ani o usnesení, jímž bylo potvrzeno rozhodnutí soudu prvního stupně, o němž by dovolací soud mohl dospět k závěru, že tu šlo o dovoláním napadené usnesení, které má po právní stránce zásadní význam.
+Nešlo tu také o žádný z případů, v nichž by bylo možné nezastavit řízení ve smyslu ustanovení § 9 odst. 4 zákona č. 549/1991 Sb., o soudních poplatcích.
+Za těchto uvedených okolností nemohl dovolací soud posoudit dovolání dovolatelů jako dovolání přípustné. Nezbylo proto než přikročit k odmítnutí dovolání dovolatelů podle ustanovení § 243b odst. 1 a § 243c odst. 1 občanského soudního řádu jako dovolání nepřípustného.
+Nebyly shledány zákonné předpoklady pro uložení povinnosti k úhradě nákladů řízení mezi účastníky řízení navzájem.
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 3. prosince 2002
+JUDr. Milan Pokorný, CSc., v. r.
+předseda senátu
