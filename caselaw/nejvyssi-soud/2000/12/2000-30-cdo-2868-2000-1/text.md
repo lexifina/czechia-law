@@ -1,0 +1,14 @@
+30 Cdo 2868/2000
+U S N E S E N Í
+Nejvyšší soud rozhodl ve věci péče o nezletilé děti S., narozenou 22.3.1991, a S., narozenou 17.2.1993 H., zastoupené opatrovníkem Okresním úřadem v K., dcery matky R. H. a otce L. H., o návrhu otce na snížení výživného, vedené u Okresního soudu v Karviné pod sp. zn. 41P 4/1999, o dovolání otce proti rozsudku Krajského soudu v Ostravě ze dne 3. dubna 2000, č.j. 13 Co 101/2000-122, takto:
+Řízení o dovolání se zastavuje.
+O d ů v o d n ě n í :
+Krajský soud v Ostravě rozsudkem ze dne 3. dubna 2000, č.j. 13 Co 101/2000-122, potvrdil rozsudek Okresního soudu v Karviné ze dne 4.11.1999 č.j. 41 P 4/99-86, kterým byl zamítnut otcův návrh na snížení výživného pro obě nezletilé děti.
+Rozsudek odvolacího soudu, který nabyl právní moci dne 8.8.2000, napadl otec (dále jen dovolatel) dovoláním, které si sepsal sám a které nesplňovalo náležitosti stanovené v § 241 odst. 1, 2 občanského soudního řádu (dále jen o.s.ř.). Z toho důvodu byl vyzván usnesením Okresního soudu v Karviné ze dne 5.9. 2000, č. j. 41 P 4/99-127, k doplnění dovolání tak, aby splňovalo náležitosti stanovené v ustanovení § 241 o.s.ř. včetně povinného zastoupení advokátem s poučením, že pokud své dovolání předepsaným způsobem nedoplní ve lhůtě patnácti dnů od jeho doručení, bude dovolací řízení zastaveno. Usnesení bylo dovolateli doručeno dne 5.10.2000, ten však vady svého podání ve stanovené lhůtě neodstranil.
+Podle ustanovení § 243c o.s.ř. ve spojení s ustanovením § 103 a § 104 odst. 2 o.s.ř. soud musí kdykoli za řízení přihlížet k tomu, zda jsou splněny podmínky, za nichž může ve věci jednat, t.j. zda jsou splněny podmínky řízení. K základním procesním podmínkám dovolacího řízení patří, že dovolání splňuje náležitosti, které pro tento mimořádný opravný prostředek vyžaduje ustanovení § 241 odst. 1 a 2 o.s.ř. Dovolatel musí být zastoupen advokátem, pokud nemá sám právnické vzdělání, v dovolání musí být uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu a z jakých důvodů je napadá, popř. které důkazy by měly být provedeny a čeho se dovolatel domáhá. Jedná se o podmínky řízení, jejichž nedostatek lze odstranit. Není-li tento nedostatek podmínek řízení odstraněn, soud řízení zastaví.
+V předmětné věci se soud prvního stupně pokusil uvedený nedostatek podmínek řízení odstranit tím, že dovolatele vyzval k doplnění dovolání tak, aby splňovalo požadavky zákona, včetně povinného zastoupení advokátem. Dovolatel však zůstal nečinný. Přes výzvu soudu se tedy nepodařilo zmíněný nedostatek podmínek řízení odstranit, proto dovolací soud řízení zastavil v souladu s ustanovením § 104 odst. 2 o.s.ř. ve spojení s ustanovením § 243c o.s.ř.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 13. prosince 2000
+JUDr. František D u c h o ň , v.r.
+předseda senátu
+Za správnost vyhotovení: Marie Plhalová
