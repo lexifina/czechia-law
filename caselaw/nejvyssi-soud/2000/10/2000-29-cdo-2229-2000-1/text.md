@@ -1,0 +1,27 @@
+29 Cdo 2229/2000
+U S N E S E N Í
+Nejvyšší soud České republiky jako soud dovolací rozhodl v právní věci žalobce Z. A., správce konkursní podstaty úpadce obchodního podniku O., v likvidaci proti žalovanému O. p. s. P. - z., s. p., v likvidaci, zast. advokátem, o zaplacení 5.044,- Kč a 454,- Kč k dovolání žalovaného proti rozsudku Vrchního soudu v Praze ze dne 16. 5. 2000, čj. 2 Cmo 271/99 - 49, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Vrchní soud v Praze rozsudkem ze dne 16. 5. 2000, čj. 2 Cmo 271/99 - 49 připustil zpětvzetí návrhu na zahájení řízení pokud jde o zaplacení částky 454,- Kč a v této části zrušil rozsudek Krajského obchodního soudu v Praze ze dne 10. 2. 1999, čj. 24 Cm 107/98 - 29 a řízení zastavil.
+Ve zbývající části, tj. o zaplacení částky 5.044,- Kč, změnil výše uvedený rozsudek soudu prvního stupně tak, že žalovanému uložil povinnost zaplatit tuto částku žalobci.
+Odvolací soud dále rozhodl o snášení nákladů řízení před soudy obou stupňů.
+V odůvodnění svého rozsudku odvolací soud zejména uvedl, že žalobce vzal v průběhu odvolacího řízení zpět žalobu ohledně částky 454,- Kč představující poplatek z prodlení, a proto v této části rozhodl podle § 208 o. s. ř. tak, jak je uvedeno výše. Pokud jde o úhradu částky 5.044,- Kč, představující nárok na zaplacení ceny, vycházel odvolací soud z toho, že písemnostmi ze dne 11. 11. 1992 a 19. 11. 1991 došlo k uznání závazku dle ust. § 132 hospodářského zákoníku žalovaným a žalovaným nebyla vyvrácena právní domněnka o trvání uznaného závazku; proto odvolací soud v této části rozsudek soudu prvního stupně změnil tak, jak je uvedeno výše.
+Dovoláním ze dne 26. 7. 2000 napadl žalovaný výše uvedený rozsudek odvolacího soudu v části, v níž byl změněn rozsudek soudu prvního stupně, tj. ohledně povinnosti zaplatit žalobci částku 5.044,- Kč.
+V odůvodnění dovolání žalovaný zejména uvedl, že dovolání je přípustné podle § 238 odst. 1 písm. a) o. s. ř. a podává ho z důvodů uvedených v § 241 odst. 3 písm. c) a d) o. s. ř. V podrobnostech žalovaný dále uvedl, že se odvolací soud nezabýval listinnými důkazy - dodacím listem a fakturou, předloženými žalobcem k prokázání žalovaného nároku a vycházel z toho, že existence závazku je dána uznáním závazku žalovaným a s tím dovolatel nesouhlasí. Nesprávné právní posouzení žalovaný spatřuje v tom, že odvolací soud vyložil nesprávně ust. § 132 hosp. zákoníku. Uznání závazku má podle dovolatele význam pro posouzení toho, zda závazek v době uznání trval a předpokladem uznání závazku musí být „jeho vznik a existence v době uznání. Uznání závazku sice zakládá vyvratitelnou právní domněnku, že závazek v době uznání trvá, ale znamená to, že je tomu tak jen za splnění shora uvedeného předpokladu\". Důkazní břemeno je přesunuto na dlužníka, ale jen v tom, aby „prokázal zánik závazku, ale nikoliv aby měl povinnost prokazovat, že závazek nevznikl\".
+Žalovaný proto navrhuje, aby dovolací soud zrušil dovoláním napadený rozsudek odvolacího soudu v napadené části a věc vrátil tomuto soudu k dalšímu řízení.
+K dovolání žalovaného, jak vyplývá ze spisu, se žalobce nevyjádřil.
+Nejvyšší soud posoudil dovolání žalovaného z 26. 7. 2000 podle ust. § 240 odst. 1 a § 241 odst. 1 a 2 o. s. ř. a konstatoval, že dovolání bylo podáno včas, oprávněnou osobou, obsahuje stanovené náležitosti, dovolatel je zastoupen advokátem a jím bylo dovolání též sepsáno.
+Dovolací soud se nejprve zabýval tím, zda je dovolání přípustné z důvodu uvedeného žalovaným v dovolání, a to podle ust. § 238 odst. 1 písm. a) o. s. ř.
+Podle tohoto ustanovení je dovolání přípustné proti rozsudku odvolacího soudu, jímž byl změněn rozsudek soudu prvního stupně ve věci samé. Dovolání však v uvedeném případě není podle § 238 odst. 2 písm. a) o. s. ř. přípustné ve věcech, v nichž dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 20.000,- Kč a v obchodních věcech 50.000,- Kč.
+V posuzovaném případě je dovoláním dotčen výrok odvolacího soudu, v němž bylo rozhodováno o peněžitém plnění ve výši 5.044,- Kč a v daném případě se jedná o obchodní věc.
+S ohledem na uvedené proto dovolacímu soudu nezbylo než konstatovat, že dovolání není z důvodu uváděného žalovaným v dovolání přípustné. Dovolací soud dále s ohledem na ust. § 242 odst. 3 o. s. ř. neshledal, že by dovolání bylo přípustné podle ust. § 237 odst. 1 o. s. ř., i když tyto důvody nebyly v dovolání žalovaným uváděny.
+Protože nebylo dovolání shledáno přípustným, nemohl se dovolací soud zabývat věcnými námitkami uvedenými žalovaným v dovolání a z jejich hlediska přezkoumávat rozsudek odvolacího soudu v dovoláním napadené části.
+Nejvyšší soud proto podle § 237 odst. 1, § 238 odst. 1 písm. a), § 238 odst. 2 písm. a), § 240 odst. 1, § 241 odst. 1 a 2, § 242 odst. 3 a § 243b odst. 4 o. s. ř. v návaznosti na ust. § 218 odst. 1 písm. c) o. s. ř. rozhodl tak, že dovolání pro jeho nepřípustnost odmítl.
+O nákladech dovolacího řízení bylo rozhodnuto podle ust. § 243b odst. 4 o. s. ř. v návaznosti na ust. § 224 odst. 1 a § 142 odst. 1 o. s. ř. tak, že žalovaný nemá právo na náhradu nákladů dovolacího řízení, neboť v tomto řízení neměl úspěch a žalobci se taktéž nepřiznává náhrada těchto nákladů, neboť mu podle spisu žádné náklady v tomto řízení nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 25. října 2000
+JUDr. Ing. Jan H u š e k , v.r.
+předseda senátu
+Za správnost vyhotovení: Ivana Navrátilová
