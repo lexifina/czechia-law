@@ -1,0 +1,16 @@
+28 Cdo 987/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Ludvíka Davida, CSc. a soudců JUDr. Oldřicha Jehličky, CSc. a JUDr. Josefa Rakovského v právní věci žalobce D. M., proti žalovanému J., spotřební družstvo, o vydání nemovitostí, vedené u Okresního soudu v Přerově pod sp. zn. 11 C 137/95, o dovolání žalobce proti usnesení Krajského soudu v Ostravě – pobočky v Olomouci ze dne 30. 7. 2003, č.j. 12 Co 557/2003-131, takto:
+I. Řízení o dovolání se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů řízení o dovolání.
+O d ů v o d n ě n í :
+Usnesením Krajského soudu v Ostravě – pobočky v Olomouci ze dne 30. 7. 2003, č.j. 12 Co 557/2003-131, bylo potvrzeno usnesení Okresního soudu v Přerově ze dne 5. 6. 2003, č.j. 11 C 137/95-125, kterým byla žaloba o vydání nemovitostí odmítnuta (pro neodstraněné vady žalobních tvrzení) a žádnému z účastníků nebylo přiznáno právo na náhradu nákladů řízení. O nákladech odvolacího řízení rozhodl odvolací soud obdobně, jako soud prvního stupně.
+Proti usnesení odvolacího soudu podal žalobce v zákonné lhůtě dovolání, datované dne 3. 11. 2003. Toto dovolání popisuje skutečnosti nastalé v minulosti, jež vedly žalobce k uplatnění restitučního nároku; z hlediska formálních náležitostí stanovených v § 241a občanského soudního řádu (dále „o.s.ř.“) postrádá dovolání takřka všechny náležitosti tam vypočtené.
+Poněvadž žalobce nebyl podle § 241 odst. 1 o.s.ř. zastoupen advokátem, vyzval ho soud prvního stupně usnesením ze dne 5. 12. 2003, aby si zástupce zvolil, s upozorněním na následek nesplnění výzvy spočívající v zastavení dovolacího řízení. Žalobce poté požádal o ustanovení advokáta soudem a osvobození od soudních poplatků. Okresní soud v Přerově však usnesením ze dne 15. 1. 2004 žalobci osvobozeni od soudních poplatků nepřiznal a zástupce z řad advokátů neustanovil. Toto usnesení nabylo právní moc dne 12. 2. 2004.
+Poněvadž žalobce nezmocnil svým zastoupením advokáta ani v mezidobí, nezbývá nyní dovolacímu soudu, než řízení o dovolání žalobce podle § 243c odst. 1 a § 104 odst. 2 o.s.ř. pro neodstraněný nedostatek podmínky řízení zastavit.
+Dovolací soud současně podotýká, že dovolání bylo podáno proti rozhodnutí o odmítnutí žaloby. Tím méně pak byl dovolací soud oprávněn, též vzhledem k zákonem limitovanému dovolacímu přezkumu, zabývat se jinými rozhodnutími nižších soudů; zejména to platí o již zmíněném a pravomocném usnesení soudu prvního stupně, kterým nebyl žalobci ustanoven advokát podle § 30 o.s.ř. a žalobci nebylo přiznáno osvobození od soudních poplatků. Nad rámec dovolacího přezkumu lze též poznamenat, že je pozoruhodné, že zatímco soud prvního stupně se již dříve opakovaně zabýval žalobou meritorně (poprvé s negativním výsledkem, podruhé postoupil věc Pozemkovému úřadu v P.), odvolací soud vždy rozhodnutí soudu prvního stupně zrušil a věc mu vrátil z formálních důvodů. Nyní však rozhodoval či rozhoduje o nároku žalobce Pozemkový úřad P. jako složka Ministerstva zemědělství ČR, takže žalobcem tvrzený restituční nárok je předmětem rozhodování orgánů státu.
+V řízení o dovolání nevznikly protistraně žádné náklady.
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 26. listopadu 2004
+JUDr. Ludvík David, CSc., v. r.
+předseda senátu
