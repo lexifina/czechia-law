@@ -1,0 +1,13 @@
+11 Tcu 64/2001
+U S N E S E N Í
+Nejvyšší soud České republiky projednal žádost Ministerstva spravedlnosti Slovenské republiky o povolení průvozu D. O., a rozhodl v neveřejném zasedání dne 24. října 2001 podle § 383c tr. ř., čl. 30 Smlouvy mezi Českou republikou a Slovenskou republikou o právní pomoci poskytované justičními orgány a o úpravě některých právních vztahů v občanských a trestních věcech (uveřejněna pod č. 209/1993 Sb.) a čl. 21 Evropské úmluvy o vydávání (uveř. pod č. 549/1992 Sb.) t a k t o:
+Povoluje se p r ů v o z vydávané osoby D. O. územím České republiky pro účely trestního stíhání ve Slovenské republice, pro trestný čin krádeže podle § 247 odst. 1, 6 trestního zákona Slovenské republiky, kterého se měl dopustit tím, že dne 26. 3. 2001 v době okolo 6.00 hod. v K., v rekreační oblasti B., v hotelu H., odcizil z hotelového pokoje, do kterého měl být pozván tam ubytovaným občanem Švýcarské konfederace R. R., v jeho nepřítomnosti z jeho zavazadel finanční hotovost ve výši 3 900 000 CHF, což v přepočtu podle aktuálního kursu představuje 108 030 000 Sk, které měl R. R. předtím odcizit ve společnosti P. S.A. Z., čímž jí měl způsobit škodu v uvedené výši.
+Po dobu průvozu bude vydávaná osoba držena ve vazbě.
+O d ů v o d n ě n í :
+Ministerstvo spravedlnosti Slovenské republiky požádalo na základě čl. 21 Evropské úmluvy o vydávání o povolení průvozu státního občana Slovenské republiky D. O. územím České republiky. Průvoz se má uskutečnit v rámci vydání obviněného D. O. z Řecké republiky k trestnímu stíhání pro trestný čin uvedený ve výroku tohoto rozhodnutí. Na obviněného D. O. byl vydán Okresním soudem Košice I dne 18. 6. 2001 pod sp. zn. 5 Ntv 84/01 zatýkací rozkaz
+Nejvyšší soud České republiky projednal žádost Ministerstva spravedlnosti Slovenské republiky z hlediska splnění právních podmínek citovaných mezinárodních smluv. Zjistil, že v posuzovaném případě jde o vydání k trestnímu stíhání pro trestný čin, který z hlediska právních řádů Slovenské republiky i České republiky splňuje podmínky pro povolení průvozu ve smyslu čl. 21 Evropské úmluvy o vydávání, ve znění výhrady České republiky. Trestní stíhání není promlčeno podle právního řádu Slovenské republiky ani podle právního řádu České republiky. Osoba, o jejíž vydání jde, není občanem České republiky.
+Jelikož nebyly zjištěny žádné právní překážky, které by bránily povolení průvozu obviněného D. O. za účelem trestního stíhání ve Slovenské republice, Nejvyšší soud České republiky žádosti Ministerstva spravedlnosti Slovenské republiky vyhověl. Zároveň rozhodl o nutném opatření omezujícím osobní svobodu vydávané osoby v době průvozu.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 24. října 2001
+Předseda senátu:
+JUDr. Antonín Draštík
