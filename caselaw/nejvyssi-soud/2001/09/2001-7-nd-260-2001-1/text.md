@@ -1,0 +1,14 @@
+7 Nd 260/2001
+U S N E S E N Í
+Nejvyšší soud v senátě složeném z předsedy JUDr. Jana Engelmanna a soudců JUDr. Petra Hrachovce a JUDr. Zdeňka Sováka v právní věci žalobce N. H., a. s., zastoupeného JUDr. F. K., proti žalovaným 1) K., K., a. s., 2) ČOVS, a. s., zastoupené JUDr. J. O., vedoucím právního oddělení a 3) Ž., V., a. s., zastoupené JUDr. J. O., vedoucím právního oddělení, o zaplacení 1 020 930,30 DM, vedené u Krajského soudu v Ostravě pod sp. zn. 30 Cm 136/2001, rozhodl o návrhu žalovaných na přikázání věci Městskému soudu v Praze z důvodu vhodnosti t a k t o :
+Návrh na přikázání věci Městskému soudu v Praze se z a m í t á .
+O d ů v o d n ě n í :
+U Krajského soudu v Ostravě je pod sp. zn. 30 Cm 136/2001, vedeno řízení o návrhu žalobce N. H., a. s. (dále jen žalobce), proti žalovaným o zaplacení 1 020 930,30 DM. Toto řízení je ve stadiu, kdy krajský soud 27. 6. 2001 nařídil jednání na 22. 8. 2001, které však odvolal vzhledem k tomu, že žalovaní podali návrh na přikázání věci Městskému soudu v Praze.
+Žalovaní, ČOVS, a. s., a Ž. V., a. s., shodně ve svém návrhu na přikázání věci Městskému soudu v Praze uvedli, že v jejich případě došlo ke změně sídla společnosti, a proto by bylo vhodné, aby ve věci rozhodoval Městský soud v Praze. K., K., a. s., se k návrhu z důvodu shora uvedeného připojila.
+Žalobce k návrhu žalovaných na přikázání věci Městskému soudu v Praze vyslovil zásadní nesouhlas. Poukázal na to, že sice u druhého a třetího žalovaného došlo ke změně sídla společnosti, avšak pracoviště mají v předchozím sídle společnosti a obě společnosti zastupuje jeden právní zástupce, který má kanceláře v předchozím sídle obou společností. Vzhledem k tomu, že podle názoru žalobce nejsou dány ani podmínky hospodárnosti, jako jedno z kritérií pro možný postup podle § 12 odst. 2 o. s. ř., navrhl, aby návrh na přikázání věci Městskému soudu v Praze byl zamítnut.
+Podle § 12 odst. 2 o. s. ř. může být věc přikázána jinému soudu téhož stupně z důvodu vhodnosti. Jedná se však o výjimku z ústavně garantované zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu i soudce stanoví zákon (čl. 38 odst. 1 Listiny základních práv a svobod). Z výše uvedeného ustanovení je patrno, že skutečnosti, které odůvodňují přikázání věci jinému než příslušnému soudu, musí být výjimečné, závažné a objektivní povahy. Pouhá změna sídla nemůže být tímto důvodem. Nelze rovněž přehlédnout ani skutečnosti, na které poukazuje žalobce ve svém vyjádření k návrhu žalovaných na přikázání věci Městskému soudu v Praze, které byly shora uvedeny. Nejvyšší soud při svém rozhodování musel brát v úvahu také zásadní nesouhlas žalobce s přikázáním věci.
+Po zvážení všech shora uvedených skutečností dospěl Nejvyšší soud k závěru, že není důvod k přikázání věci jinému soudu a návrh na přikázání věci zamítl.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 26. září 2001
+Předseda senátu:
+JUDr. Jan Engelmann
