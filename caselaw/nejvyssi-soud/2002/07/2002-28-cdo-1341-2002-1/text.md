@@ -1,0 +1,18 @@
+28 Cdo 1341/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Josefa Rakovského a soudců JUDr. Oldřicha Jehličky, CSc. a JUDr. Blanky Moudré, v právní věci žalobkyně H. H., zastoupené advokátkou, proti žalovanému P. H., zastoupenému advokátem, o určení nájemního práva,vedené u Obvodního soudu pro Prahu 5 pod sp. zn. 7 C 186/2001, o dovolání žalobkyně proti rozsudku Městského soudu v Praze ze dne 4. 4. 2002, č.j. 64 Co 6/2002-73, takto:
+Dovolání se odmítá.
+Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Praze jako soud odvolací výše uvedeným rozsudkem změnil rozsudek Obvodního soudu pro Prahu 5 ze dne 27. 11. 2001, č.j. 7 C 186/2001-53, tak, že zamítl žalobu s návrhem na určení, že žalobkyně je výlučným nájemcem bytu blíže specifikovaného ve výroku, s nájemním právem na dobu neurčitou. Uložil dále žalobkyni zaplatit žalovanému na náhradě nákladů řízení před soudy obou stupňů částku 21.375 Kč do tří dnů od právní moci rozsudku k rukám JUDr. I. T. Rozsudek odvolacího soudu nabyl právní moci dne 13. 5. 2002.
+Proti tomuto rozsudku podala žalobkyně dne 24. 5. 2002 dovolání, a to do výroku, kterými jí byla uložena povinnost nahradit žalovanému náklady řízení ve výši 21.375 Kč. Namítala nesprávnost aplikace vyhlášky č. 484/2000 Sb. a z toho plynoucí nesprávnost výpočtu nákladů řízení. Podle dovolatelky vzhledem k předmětu sporu měly být tyto stanoveny nikoliv podle ustanovení § 5 písm. b) citované vyhlášky, neboť nešlo spor o určení právního vztahu nebo práva k nemovitosti. správně mělo být postupováno podle písmene c) téhož ustanovení – „ostatní případy“, neboť byt nebyl ani bytovou jednotkou ve smyslu zákona č. 72/1994 Sb. Rozhodnutí odvolacího soudu má podle dovolatelky zásadní právní význam a bylo jím změněno rozhodnutí soudu prvního stupně ve věci samé. Navrhla, aby dovolací soud změnil napadené rozhodnutí ve výroku II. tak, že žalobkyně bude zavázán k úhradě částky 13.775 Kč.
+Vyjádření k dovolání nebylo podáno.
+S přihlédnutím k datu vydání prvostupňového rozsudku aplikoval odvolací soud přiléhavě v této věci ustanovení občanského soudního řádu ve znění účinném od 1. 1. 2001 po novele provedené zákonem č. 30/2001 Sb. Nejvyšší soud České republiky jako soud dovolací důsledně proto rovněž postupoval v této věci podle ustanovení občanského soudního řádu v uvedeném znění (dále jen „o.s.ř.).
+Podle § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Podle § 237 odst. 1 písm. a) o.s.ř. dovolání je přípustné proti rozsudku odvolacího soudu, jimž bylo změněno rozhodnutí soudu prvního stupně ve věci samé.
+Dovolání je podle uvedeného ustanovení přípustné jen proti výrokům rozsahu odvolacího soudu o věci samé. Rozsudek odvolacího soudu jen ve vedlejších výrocích (o náhradě nákladů řízení, o předběžné vykonatelnosti apod.), není možné dovoláním napadnout. Pouze v případě, kdy na základě dovolání byl zrušen výrok rozsudku odvolacího soudu o věci samé, zruší dovolací soud také vedlejší výroky tohoto rozsudku (srov. § 242 odst. 2 písm. b) o.s.ř.). O takový případ ovšem v posuzované věci nejde.
+Dovolací soud proto podle § 243b odst. 1 o.s.ř. podané dovolání odmítl.
+O nákladech dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 4 o.s.ř. za použití § 224 odst. 1 o.s.ř., § 151 odst. 1 o.s.ř. a § 142 odst. 1 o.s.ř. Žalobkyně nebyla v dovolacím řízení úspěšná a žalovanému v souvislosti s podaným dovoláním žádné náklady řízení zřejmě nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 30. července 2002
+JUDr. Josef Rakovský, v.r.
+předseda senátu
