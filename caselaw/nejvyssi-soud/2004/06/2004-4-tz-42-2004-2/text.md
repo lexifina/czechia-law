@@ -1,0 +1,11 @@
+4 Tz 42/2004-I
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve veřejném zasedání konaném dne 15. června 2004 v trestní věci obviněných J. T. a L. T., v řízení o stížnosti pro porušení zákona, kterou podal ministr spravedlnosti České republiky proti usnesení Vrchního soudu v Olomouci ze dne 14. 11. 2000, sp. zn. 4 To 107/2000, podle § 275 odst. 3 tr. ř. t a k t o :
+Obvinění J. T. a L. T. s e n e b e r o u d o v a z b y .
+O d ů v o d n ě n í :
+V řízení o stížnosti pro porušení zákona, kterou podal ministr spravedlnosti ve prospěch obviněných, bylo rozsudkem Nejvyššího soudu ze dne 15. 6. 2004, sp. zn. 4 Tz 42/2004, podle § 268 odst. 2 tr. ř. vysloveno, že usnesením Vrchního soudu v Olomouci ze dne 14. 11. 2000, sp. zn. 4 To 107/2000, a v řízení, které mu předcházelo, byl porušen zákon v ustanoveních § 2 odst. 5, 6, § 163a odst. 1 a § 254 odst. 1 tr. ř., ve znění účinném do 31. 12. 2001, v neprospěch obviněných J. a L. T. Podle § 269 odst. 2 tr. ř. bylo napadené usnesení zrušeno, zrušen byl též rozsudek Krajského soudu v Brně ze dne 6. 4. 2000, sp. zn. 10 T 12/98, a to včetně všech dalších rozhodnutí na zrušená rozhodnutí obsahově navazující, pokud vzhledem ke změně, k níž došlo zrušením, pozbyla podkladu. Podle § 270 odst. 1 tr. ř. bylo krajskému státnímu zástupci v Brně přikázáno, aby věc v potřebném rozsahu znovu projednal a rozhodl.
+Obvinění J. T. a L. T. t. č. vykonávají tresty odnětí svobody v trvání 5 let, které jim byly uloženy za trestný čin zpronevěry podle § 248 odst. 1, 4 tr. zák. výše citovanými, nyní již zrušenými rozhodnutími Krajského soudu v Brně a Vrchního soudu v Olomouci. V důsledku tohoto zrušení je nepřípustné, aby oba obvinění nadále výše uvedené tresty odnětí svobody vykonávali. V takovéto procesní situaci je však Nejvyšší soud povinen podle § 275 odst. 3 tr. ř. rozhodnout o tom, zda obvinění budou vzati do vazby. Při zkoumání existence vazebních důvodů uvedených v ustanovení § 67 písm. a) až c) tr. ř. Nejvyšší soud dospěl k závěru, že žádný z nich v současnosti u obviněných není dán a proto rozhodl tak, jak je uvedeno ve výrokové části tohoto usnesení.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 15. června 2004
+Předseda senátu:
+JUDr. František H r a b e c
