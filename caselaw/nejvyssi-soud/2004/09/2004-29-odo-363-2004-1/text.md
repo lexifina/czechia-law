@@ -1,0 +1,21 @@
+29 Odo 363/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Krčmáře a soudců JUDr. Ivany Štenglové a JUDr. Petra Gemmela v právní věci žalobců A) Ing. J. D., B) M. D., C) M. C., a D) W. G., všech zastoupených, advokátem, proti žalované M. spol. s r. o., zastoupené, advokátkou, o popření pravosti pohledávky žalované, vedené u Městského soudu v Praze pod sp. zn. 35 Cm 73/2002, o dovolání žalobců proti usnesení Vrchního soudu v Praze ze dne 31. října 2003, č. j. 13 Cmo 457/2003 – 26, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í:
+Vrchní soud v Praze k odvolání žalobců usnesením ze dne 31. října 2003, č. j. 13 Cmo 457/2003 – 26, potvrdil usnesení ze dne 20. srpna 2003, č. j. 35 Cm 73/2002 - 20, jímž Městský soud v Praze vrátil žalobcům soudní poplatek ve výši 1.000,- Kč.
+Proti usnesení odvolacího soudu podali žalobci včasné dovolání, jehož přípustnost opírají o ustanovení § 238a odst. 1 písm. a/ a 237 odst. 1 písm. c/ občanského soudního řádu (dále též jen „o. s. ř.), namítajíce, že rozhodnutí soudů obou stupňů spočívá na nesprávném právním posouzení věci (tedy, že je dán dovolací důvod dle § 241a odst. 2 písm. b/ o. s. ř.). V dovolání snášejí argumenty na podporu uplatněného dovolacího důvodu a požadují, aby Nejvyšší soud napadené usnesení zrušil.
+Dovolání proti usnesení, jímž odvolací soud potvrdil usnesení soudu prvního stupně o vrácení soudního poplatku, není podle občanského soudního řádu ve znění účinném od 1. ledna 2001 přípustné.
+Přípustnost dovolání proti usnesení odvolacího soudu upravují ustanovení § 237 až § 239 o. s. ř.
+Dle ustanovení § 237 odst. 1 o. s. ř. je dovolání přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího soudu,
+a/ jimiž bylo změněno rozhodnutí soudu prvního stupně ve věci samé,
+b/ jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil,
+c/ jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není přípustné podle písmena b/ a dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam.
+Všem třem případům přípustnosti dovolání v tomto ustanovení vypočteným je společné, že musí jít o rozhodnutí ve věci samé. Usnesení o vrácení soudního poplatku však usnesením „ve věci samé“ není; není ostatně ani usnesením, jímž se řízení končí.
+Ustanovení § 238, § 238a odst. 1 a § 239 o. s. ř. nezakládají přípustnost dovolání proto, že napadené rozhodnutí nelze podřadit žádnému z tam vyjmenovaných případů. Oproti očekávání dovolatelů nezakládá přípustnost dovolání ani ustanovení § 238a odst. 1 písm. a/ o. s. ř.; již proto ne, že nejde o věc konkursu a vyrovnání (o konkursní nebo vyrovnací řízení), nýbrž o spor vyvolaný konkursem (tzv. incidenční spor). Dovolatelé nadto přehlédli odkaz obsažený v § 238a odst. 2 o. s. ř. (o tom, že ustanovení § 237 odst. 1 a 3 o. s. ř. platí obdobně), z nějž plyne, že i v případě uvedeném v § 238a odst. 1 písm. a/ o. s. ř. by muselo jít o usnesení, jímž odvolací soud potvrdil nebo změnil usnesení soudu prvního stupně „ve věci samé“.
+Nejvyšší soud proto, aniž ve věci nařizoval jednání (§ 243a odst. 1 věta první o. s. ř.), dovolání odmítl (§ 243b odst. 5, § 218 písm. c/ o. s. ř.).
+O nákladech dovolacího řízení Nejvyšší soud nerozhodoval, neboť vztah upravený zkoumaným rozhodnutím (otázka, zda a v jakém rozsahu se vrací soudní poplatek) je vztahem mezi poplatníky (dovolateli) na straně jedné a státem na straně druhé; není zde nikoho, kdo by náhradu těchto nákladů mohl vůči žalobcům – v intencích § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř. - nárokovat. Právní sféra žalované – jejíž účast v řízení o žalobě těchto dovolatelů skončila právní mocí usnesení o zastavení řízení o této žalobě – není tímto rozhodnutím nikterak dotčena a žalovaná není účastnicí řízení o opravném prostředku proti rozhodnutí soudu o vrácení soudního poplatku žalobcům (tedy ani účastnicí tohoto dovolacího řízení, byť se v jeho rámci k dovolání vyjádřila).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 29. září 2004
+JUDr. Zdeněk Krčmář,v.r.
+předseda senátu
