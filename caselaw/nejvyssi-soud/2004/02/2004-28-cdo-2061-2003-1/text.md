@@ -1,0 +1,27 @@
+28 Cdo 2061/2003
+ČESKÁ REPUBLIKA
+ROZSUDEK
+JMÉNEM REPUBLIKY
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Josefa Rakovského a soudců JUDr. Ludvíka Davida, CSc. a JUDr. Oldřicha Jehličky, CSc. v právní věci žalobkyň A) R. W., roz. B. a B) L. B., obou zastoupených advokátem, proti žalovanému Městu K., zastoupenému advokátkou, o uzavření dohody o vydání pozemku podle zákona č. 87/1991 Sb., vedené u Okresního soudu v České Lípě pod sp. zn. 9 C 1120/95, o dovolání žalobkyň proti rozsudku Krajského soudu v Ústí nad Labem – pobočky v Liberci ze dne 6. 11. 2002, č. j. 35 Co 223/2002-125, takto:
+I. Dovolání se zamítá.
+II. Žalobkyně jsou společně a nerozdílně povinny zaplatit žalovanému na nákladech řízení o dovolání částku 3.175,- Kč do tří dnů od právní moci tohoto rozsudku k rukám jeho zástupkyně.
+O d ů v o d n ě n í :
+Rozsudkem Krajského soudu v Ústí nad Labem – pobočky v Liberci výše označeným byl potvrzen rozsudek Okresního soudu v České Lípě ze dne 21. 2. 2002, č. j. 9 C 1120/95-100, kterým byla zamítnuta žaloba, aby žalovaný byl povinen uzavřít s oběma žalobkyněmi dohodu o vydání vždy 1/6 spoluvlastnického podílu k pozemku parc. č. 628 v k. ú. a obci K. Žalobkyně byly zavázány k náhradě nákladů řízení protistrany u soudů obou stupňů.
+Odvolací soud korigoval právní závěry první instance jen zčásti; nevyloučil možnost, že právní předchůdkyně žalobkyň, paní M. B. (zemřela v SRN dne 25. 12. 1999) mohla prodat jednu třetinu spoluvlastnického podílu k pozemku smlouvou ze dne 8. 5. 1986 státu v tísni, dané vystěhováním do Německa za synem. Žalobkyně však neprokázaly existenci dalšího předpokladu restitučního důvodu podle § 6 odst. 1 písm. g/ zákona č. 87/1991 Sb. o mimosoudních rehabilitacích, totiž nápadně nevýhodných podmínek prodeje. Ze znaleckých posudků vyžádaných soudem prvního stupně vyplynulo, že kupní cena pozemku (i domu na něm stojícího, který byl též prodán) měla být vyšší jen minimálně, o přibližně 4%. Nedošlo tedy ke znevýhodnění prodávající ve smyslu citovaného restitučního ustanovení.
+Proti rozsudku odvolacího soudu podaly žalobkyně dovolání, v němž nesouhlasily s právním posouzením věci odvolacím soudem. Zákonné předpoklady tísně i nápadně nevýhodných podmínek byly podle nich naplněny okolnostmi vystěhování M. B., když toto bylo povoleno až po podpisu kupní smlouvy. Nešlo tedy o její svobodnou vůli při prodeji; předtím se o dům starala, investovala do něj a je třeba připomenout, že tehdy byly nemovitosti fakticky prodávány nikoli za odhadní, ale za vyšší cenu (bližší skutečnosti k tomuto tvrzení nejsou uvedeny). Dovolatelky navrhly, aby dovolací soud zrušil rozsudky soudů obou instancí a věc vrátil soudu prvního stupně k dalšímu řízení.
+Žalovaný navrhl ve vyjádření k dovolání jeho zamítnutí.
+Nejvyšší soud shledal, že dovolání bylo podáno žalobkyněmi včas a že tyto jsou zastoupeny advokátem (§ 240 odst. 1, § 241 odst. 1 občanského soudního řádu – dále jen „o. s. ř.“). Dovolání bylo přípustné podle § 237 odst. 1 písm. b/ o. s. ř., neboť soud prvního stupně rozhodl jinak než v předchozím rozsudku poté, co mu odvolací soud (usnesením ze dne 8. 12. 1999) věc vrátil se závazným právním názorem. Námitky dovolatelek vymezují dovolací důvod podle § 241a odst. 2 písm. b/ o. s. ř.
+Dovolání však není opodstatněné.
+Výklad restitučního důvodu podle § 6 odst. 1 písm. g/ zákona č. 87/1991 Sb. se již delší dobu ustálil, pokud jde o věcný obsah pojmů tísně a nápadně nevýhodných podmínek; obojí musí být, při převodu věcí na stát v rozhodném období, splněno současně.
+Tísní se rozumí
+- hospodářský nebo sociální stav, který doléhá na jednajícího takovým způsobem a s takovou závažností, že za této situace učiní právní úkon, který by jinak neučinil (Stanovisko občanskoprávního kolegia NS Cpjn 50/93, publikované pod č. 34/1993 Sbírky soudních rozhodnutí a stanovisek, str. 253/119/).
+Nápadně nevýhodné podmínky se interpretují jako
+- především porušení ekvivalentnosti smluvených vzájemných plnění; může jít též o pro kupní smlouvou dotčenou osobu značně nevýhodné smluvní podmínky (v textu smlouvy) či o podobně nevýhodná vedlejší ujednání ve smlouvě, související s předmětem plnění (rozhodnutí publikované ve Sbírce soudních rozhodnutí a stanovisek pod č. 36/1993).
+Z výše řečeného je zřejmé, že na straně právní předchůdkyně žalobkyň došlo v době uzavření kupní smlouvy ze dne 8. 5. 1986 ke splnění předpokladu její tísně; nikoli však nápadně nevýhodných podmínek, jak patrno ze znaleckých posudků o výši kupní ceny. Dovolací důvod tedy ve vztahu k relevantnímu ustanovení, jak bylo formulováno zákonodárcem, nebyl naplněn.
+Dovolací soud také nezjistil, že by jinak před soudy obou stupňů došlo k procesním pochybením neuplatněným v dovolání, vedoucím ke zmatečnému či nesprávnému rozhodnutí ve věci (§ 242 odst. 3 o. s. ř.).
+Dovolání žalobkyň bylo proto podle ustanovení § 243b odst. 2 o. s. ř. zamítnuto.
+Úspěšnému žalovanému byla podle § 243b odst. 5, § 224 odst. 1 a § 142 odst. 1 o. s. ř. přiznána náhrada nákladů dovolacího řízení. Ty spočívaly v odměně zástupkyně za jeden úkon právní služby snížené o 50%, tj. v částce 3.100,- Kč plus 75,- Kč paušálu, v součtu 3.175,- Kč ( § 7 písm. e/, § 18 odst. 1 vyhl. č. 484/2000 Sb., § 13 odst. 3 vyhl. č. 177/1996 Sb.).
+Proti tomuto rozsudku není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 19. února 2004
+JUDr. Josef Rakovský, v.r.
+předseda senátu
