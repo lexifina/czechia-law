@@ -1,0 +1,17 @@
+29 Od 80/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Faldyny, CSc. a soudců JUDr. Ivany Štenglové a JUDr. Petra Gemmela v právní věci žalobkyně D. p. m. P., a. s., zastoupené, advokátem, proti žalovanému L. B., t.č. neznámého pobytu, zastoupenému opatrovnicí JUDr. V. D., advokátkou, o zaplacení částky 808,- Kč s příslušenstvím, vedené u Okresního soudu v Sokolově pod sp. zn. 12 C 122/2004, o návrhu soudu na určení místní příslušnosti, takto:
+Nejvyšší soud neurčuje, který soud projedná věc vedenou u Okresního soudu v Sokolově pod sp. zn. 12 C 122/2004.
+Odůvodnění:
+Okresní soud v Sokolově ve věci označené v záhlaví tohoto usnesení vydal dne 10.2.2003 pod č.j. 30 Ro 384/2003-2 platební rozkaz, kterým stanovil žalovanému povinnost zaplatit žalobkyni částku 808,- Kč a nahradit náklady řízení v částce 3 750,- Kč do 15 dnů od doručení platebního rozkazu.
+Usnesením ze dne 15.3.2004, č.j. 30 C 384/2004-13 zrušil soud tento platební rozkaz s odůvodněním, že jej nebylo možno žalovanému doručit.
+Dalším usnesením ze dne 11.5.2004, č.j. 12 C 122/2004-16 ustanovil žalovanému opatrovnici JUDr. V. D., advokátku v S.
+Usnesením ze dne 21.7.2004, č.j. 12 C 122/2004-17 spojil s touto věcí další věci vedené u soudu proti témuž žalovanému pod sp. zn. 12 C 145/2004 až 12 C 147/2004, 12 C 235/2004, 12 C 236/2004 a 12 C 272/2004 ke společnému řízení. Současně vyslovil svou místní nepříslušnost a rozhodl, že po právní moci usnesení bude věc předložena Nejvyššímu soudu k určení, který soud věc projedná a rozhodne. Označené věci spojil ke společnému projednání proto, že se jedná o typově stejné věci, jejichž předmětem je skutečnost, že žalovaný se při použití hromadné dopravy v P. neprokázal platným jízdním dokladem. Poukázal na to, že množství žalob podaných proti žalovanému v letech 2000 až 2003 v souvislosti s používáním pražské hromadné dopravy, svědčí o tom, že se od roku 2000 alespoň do roku 2003 zdržoval v P. na různých místech. Protože nelze určit, kde se žalovaný zdržoval v době podání kterékoliv žaloby, nelze zjistit podmínky místní příslušnosti.
+Podle ustanovení § 11 odst. l o. s. ř. se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení.
+Podle ustanovení § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+V daném případě je nepochybné, že věc patří do pravomoci soudů České republiky (§ 7 odst. 1 o. s. ř. ). Podle ustanovení § 85 odst. 1 o. s. ř. je obecným soudem žalovaného soud, v jehož obvodu má své bydliště, a nemá-li bydliště, soud, v jehož obvodu se zdržuje. Podle ustanovení § 86 odst. 1 o. s. ř. jestliže žalovaný, který je občanem České republiky, nemá obecný soud, je příslušný soud, v jehož obvodu měl v České republice poslední známé bydliště. Jak vyplývá z výpisu centrální evidence obyvatel ze dne 10.5.2004, měl žalovaný trvalé bydliště na adrese Ch., O. m. 675, a to od 5.4.1982
+Nejvyšší soud tak nemohl určit místně příslušný soud (§ 11 odst. 3 o. s. ř.), neboť není splněn zákonný předpoklad pro takové rozhodnutí, když podmínky místní příslušnosti nechybějí a lze je zjistit.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 11. listopadu 2004
+JUDr. František Faldyna, CSc.,v.r.
+předseda senátu
