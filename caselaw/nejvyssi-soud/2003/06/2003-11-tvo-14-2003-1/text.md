@@ -1,0 +1,17 @@
+11 Tvo 14/2003
+U S N E S E N Í
+Nejvyšší soud projednal v neveřejném zasedání konaném dne 25. června 2003 stížnost obviněného S. V., proti usnesení Vrchního soudu v Praze ze dne 20. 5. 2003, sp. zn. 11 To 34/03, a rozhodl t a k t o :
+Podle § 148 odst. 1 písm. c) tr. řádu s e stížnost obviněného S. V. z a m í t á .
+O d ů v o d n ě n í :
+Rozsudkem Krajského soudu v Českých Budějovicích ze dne 31. 3. 2003, sp. zn. 20 T 29/2002, byl obviněný S. V. uznán vinným trestným činem podvodu podle § 250 odst. 1, 3 písm. b) tr. zák. a odsouzen k nepodmíněnému trestu odnětí svobody v trvání tří roků a šesti měsíců, pro jehož výkon byl zařazen do věznice s dozorem, a k trestu zákazu činnosti na dobu pěti let.
+Proti tomuto rozsudku podal obviněný S. V. odvolání a trestní věc obviněného se v současné době nachází ve stadiu odvolacího řízení před Vrchním soudem v Praze.
+Podáním ze dne 7. 5. 2003 požádal obviněný S. V. o propuštění z vazby na svobodu, případně s využitím institutu peněžité záruky podle § 73a tr. řádu.
+Vrchní soud v Praze usnesením ze dne 20. 5. 2003, sp. zn. 11 To 34/03, podle § 72 odst. 3 tr. řádu žádost obviněného o propuštění z vazby zamítl a podle § 73a odst. 2 písm. b) tr. řádu nepřijal ani jeho nabídku peněžité záruky. Současně konstatoval, že u obviněného nadále trvají vazební důvody podle § 67 písm. a) tr. řádu.
+Proti tomuto usnesení podal obviněný S. V. stížnost, neboť nesouhlasí se závěrem soudu ohledně existence vazebního důvodu podle § 67 písm. a) tr. řádu a proto navrhl, aby bylo napadené rozhodnutí zrušeno a on byl propuštěn z vazby na svobodu.
+Nejvyšší soud z podnětu podané stížnosti přezkoumal podle § 147 odst. 1 tr. řádu správnost napadeného rozhodnutí i řízení, které mu předcházelo, a dospěl k tomuto závěru.
+Obviněný S. V. byl vzat do vazby usnesením Krajského soudu v Českých Budějovicích ze dne 9. 12. 2002, č. j. 1 T 52/99, ve spojení s usnesením Vrchního soudu v Praze ze dne 8. 1. 2003, sp. zn. 9 To 194/02, z důvodu uvedeného v § 67 písm. a) tr. řádu. V návaznosti na tato rozhodnutí byl obviněný po propuštění z výkonu trestu vzat okamžitě do vazby. O důvodnosti jeho vazby bylo v průběhu dalšího řízení opakovaně rozhodováno, naposledy usnesením Vrchního soudu v Praze ze dne 20. 5. 2003, kterým byla podle § 72 odst. 3 tr. řádu zamítnuta jeho žádost o propuštění z vazby a podle § 73a odst. 2 písm. b) tr. řádu nebyla přijata ani jeho nabídka peněžité záruky. Obviněný je stíhán pro závažnou majetkovou trestnou činnost, pro kterou byl již v rámci řízení proti uprchlému, dříve než došlo postupem podle § 306a odst. 2 tr. řádu ke zrušení pravomocných rozhodnutí, odsouzen, jedná se o cizího státního příslušníka bez trvalých vazeb k území České republiky, kdy s ohledem na skutečnost, že omezení osobní svobody obviněného předcházelo jeho zadržení na území Bulharské republiky a v rámci vydávacího řízení jeho deportace do naší republiky, je obava, že by se na svobodě dalšímu trestnímu řízení vyhýbal, zcela reálná. V tomto směru lze odkázat na výstižná zdůvodnění všech předchozích rozhodnutí, se kterými se Nejvyšší soud ztotožňuje. Trestní řízení proti obviněným je vedeno bez zbytečných průtahů a délka řízení je přiměřená náročnosti prováděného dokazování.
+Za tohoto stavu se nemohla stížnost obviněného S. V. shledat s úspěchem a nezbylo, než o ní rozhodnout, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 25. června 2003
+Předseda senátu :
+JUDr. Pavel Kučera
