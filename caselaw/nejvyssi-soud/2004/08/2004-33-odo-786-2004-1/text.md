@@ -1,0 +1,22 @@
+33 Odo 786/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Blanky Moudré a soudců JUDr. Ivany Zlatohlávkové a Víta Jakšiče ve věci žalobce m. V., proti žalovanému M. K., zastoupenému, advokátem, o zaplacení částky 360.000,- Kč s příslušenstvím, vedené u Okresního soudu ve Vsetíně pod sp. zn. 8 C 86/2000, o dovolání žalovaného proti usnesení Krajského soudu v Ostravě ze dne 20. února 2004, č. j. 15 Co 123/2004-168, takto :
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud ve Vsetíně rozsudkem ze dne 6. září 2002, č. j. 8 C 86/2000-157, uložil žalovanému povinnost zaplatit žalobci částku 360.000,- Kč s 26 % úrokem z prodlení od 1. 2. 1998 do zaplacení a rozhodl o nákladech řízení.
+Odvolání proti tomuto rozsudku Krajský soud v Ostravě usnesením ze dne 20. února 2004, č. j. 15 Co 123/2004-168, odmítl podle § 211 a § 43 odst. 2 zákona č. 99/1963 Sb., občanský soudní řád, v platném znění (dále jen „o. s. ř.“), s odůvodněním, že podané odvolání trpí vadami, jež brání pokračovat v řízení (žalovaný přes výzvu a poučení soudu prvního stupně vytčené vady odvolání neodstranil). Současně rozhodl o nákladech odvolacího řízení.
+Proti usnesení odvolacího soudu podal žalovaný dovolání, které na výzvu soudu doplnil prostřednictvím svého právního zástupce podáním ze dne 18. května 2004. V dovolání, jehož přípustnost odvozoval od § 237 odst. 1 písm. c/ o. s. ř., napadl správnost závěru odvolacího soudu, že odvolání proti rozsudku soudu prvního stupně nesplňovalo formální náležitosti odvolání požadované občanským soudním řádem. Uvedl, že z odvolání ze dne 17. 12. 2002 a jeho doplnění ze dne 25. 8. 2003 jednoznačně vyplývá, čeho se jím žalovaný domáhá, v jakém rozsahu a které odvolací důvody uplatňuje. Tím, že odvolací soud odvolání odmítl, zkrátil žalovaného na jeho právech, znemožnil mu k věci se vyjádřit. Z uvedených důvodů navrhl usnesení odvolacího soudu zrušit a věc mu vrátit k dalšímu řízení.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) poté, co shledal, že dovolání bylo podáno včas, subjektem k tomu oprávněným - účastníkem řízení (§ 240 odst. 1 o. s. ř.), při splnění zákonné podmínky advokátního zastoupení dovolatele (§ 241 odst. 1 a 4 o. s. ř.), se zabýval otázkou přípustnosti dovolání, neboť toliko z podnětu přípustného dovolání lze přezkoumat správnost napadeného rozhodnutí z pohledu (způsobilých) dovolacích důvodů.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti usnesení odvolacího soudu je upravena v § 237, § 238, § 238a a také v § 239 o. s. ř.
+Přípustnost dovolání podle § 237 o. s. ř. nemůže být založena již z toho důvodu, že usnesením odvolacího soudu nebylo změněno či potvrzeno usnesení soudu prvního stupně, kterým by bylo rozhodnuto ve věci samé.
+Dovolání není přípustné ani podle § 238 a § 238a o. s. ř., protože tato ustanovení přípustnost dovolání proti takovému usnesení neupravují.
+Rovněž z § 239 odst. 1 a 2 o. s. ř. přípustnost dovolání nevyplývá, neboť nejde o případ v tomto ustanovení uvedený.
+Přípustnost dovolání nelze dovodit ani z § 239 odst. 3 o. s. ř., jelikož podle tohoto ustanovení je dovolání přípustné proti usnesení odvolacího soudu, kterým bylo potvrzeno usnesení soudu prvního stupně, jímž byla postupem podle § 43 o. s. ř. odmítnuta žaloba, popřípadě jímž byl podle tohoto ustanovení odmítnut jiný návrh na zahájení řízení. Napadá-li dovolatel v posuzovaném případě usnesení odvolacího soudu, jímž bylo odmítnuto odvolání proti rozsudku soudu prvního stupně, je zřejmé, že nejde o případ přípustnosti dovolání v citovaném ustanovení upravený. Ke shodnému závěru dospěl Nejvyšší soud České republiky již v usnesení ze dne 1. června 2004, sp. zn. 30 Cdo 2110/2003.
+Z výše uvedeného vyplývá, že přípustnost dovolání nelze opřít o žádné v úvahu přicházející ustanovení, a proto Nejvyšší soud dovolání podle § 243b odst. 5 věty první a § 218 písm. c/ o. s. ř. pro nepřípustnost odmítl, aniž se jím mohl věcně zabývat.
+Výrok o náhradě nákladů dovolacího řízení vychází z § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř. a odpovídá situaci, kdy žalobci v této fázi řízení nevznikly žádné náklady, na jejichž náhradu by jinak měl proti žalovanému právo.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 11. srpna 2004
+JUDr. Blanka Moudrá,v.r.
+předsedkyně senátu
