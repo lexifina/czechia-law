@@ -1,0 +1,121 @@
+II.ÚS 487/02 ze dne 8. 10. 2002
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Česká republika
+
+
+
+
+
+
+
+
+
+
+USNESENÍ
+
+
+
+
+
+
+
+
+
+
+Ústavního soudu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ústavní soud rozhodl v senátu složeném z předsedy JUDr. Vojtěcha Cepla a soudců JUDr. Jiřího Malenovského a JUDr. Antonína Procházky v právní věci navrhovatelky : D.p. hl. m. Prahy, akciová společnost,  zastoupené advokátem JUDr. J. B., o ústavní stížnosti proti rozsudku Okresního soudu v Karviné ze dne 19. 6. 2002, čj. 17 C 96/2002-27,  takto:
+Ústavní stížnost se  odmítá.
+Odůvodnění:
+ 
+       Návrhem doručeným Ústavnímu soudu dne 15. 7. 2002 se stěžovatelka domáhala, aby Ústavní soud nálezem zrušil rozsudek Okresního soudu v Karviné ze dne 19. 6. 2002, čj. 17 C 96/2002-27, kterým bylo vyhověno její žalobě o zaplacení částky 208,- Kč. Současně bylo podle § 142 odst. 1 o. s. ř. rozhodnuto o nákladech řízení tak, že soud přiznal stěžovatelce náhradu nákladů řízení ve výši 1.150,- Kč, jež tvoří zaplacený soudní poplatek ve výši 500,- Kč a náklady právního zastoupení ve výši celkem 650,- Kč (2 hlavní úkony po 250,- Kč za přípravu a převzetí zastoupení a za sepis žaloby a dále úhrada 2 režijních paušálů po 75,- Kč). Soud přitom postupoval podle vyhl. č. 177/1996 Sb. s odůvodněním, že soudní řízení bylo zahájeno před účinností novely o. s. ř. č. 30/2000 Sb., a tak ve smyslu bodu 10 části dvanácté, hlavy I. přechodných ustanovení cit. předpisu je postup podle vyhlášky č. 484/2000 Sb. vyloučen.
+ 
+	Stěžovatelka v odůvodnění ústavní stížnosti především vyjádřila svůj názor k otázce její přípustnosti z hlediska vyčerpání všech procesních prostředků, které jí zákon k ochraně jejího práva poskytuje (§ 75 odst. 1 zákona č. 182/1993 Sb., o Ústavním soudu, ve znění pozdějších předpisů). V dané věci předmětem sporu bylo peněžité plnění nepřevyšující částku 2.000,- Kč, uvedenou v ust. §  202 odst. 2 o.s.ř. jako kritérium pro posuzování tzv. bagatelních věcí, u nichž je odvolání nepřípustné. Uvedenou hranici však převyšují náklady řízení. Stěžovatelka poukázala na rozdílnou praxi obecných soudů při aplikaci ust. § 202 odst. 2 o.s.ř. Např. Městský soud v Praze dle jejích poznatků považuje za určující částku, o kterou je veden meritorní spor (a z toho důvodu patrně také nepodala proti ústavní stížností napadenému rozsudku odvolání);  obecné soudy v jiných krajích však obdobnou věc údajně posuzují odlišně; zvlášť posuzují hodnotu peněžitého plnění v meritu věci a samostatně výši nákladů řízení. Z uvedeného stěžovatelka dovodila, že její ústavní stížnost je z hlediska vyčerpání všech procesních prostředků přípustná.
+	Zbývající část ústavní stížnosti je polemikou stěžovatelky (fakticky se ovšem zřejmě jedná o polemiku právního zástupce, který ji v řízení před okresním soudem zastupoval a který ji zastupuje i v řízení o ústavní stížnosti) s výše uvedenými právními názory okresního soudu ohledně určení nákladů řízení, obsaženými v odůvodnění napadeného rozsudku. Stěžovatelka tvrdí, že okresním soudem určená výše odměny za zastupování advokátem je nižší, než jak určuje zákon a tudíž je v této části napadený rozsudek nezákonný. Tím podle jejího názoru došlo současně i k zásahu do ústavně zaručených základních práv, a to především do práva vlastnit majetek, zakotveného v čl. 11 Listiny základních práv a svobod ("Listina"). Žádnou další ústavněprávní argumentaci (pokud se vůbec samotné tvrzení o porušení ústavně zaručeného základního práva za takovou argumentaci dá považovat)  ústavní stížnost neobsahuje. Stěžovatelka pouze poukázala na rozhodnutí Ústavního soudu ve věci 
+sp. zn. IV. ÚS 188/94
+ (
+I. ÚS 12/95
+), kde Ústavní soud připustil, že v některých případech může být interpretace právních předpisů obecnými soudy, jevící se na první pohled jako interpretace zákonná, natolik extrémní, že vybočí z mezí ústavnosti, čímž dojde k zásahu do ústavního práva zakotveného v čl. 4 odst. 4 Listiny, který ukládá orgánům aplikujícím právo šetřit podstatu a smysl základních práv. Přesně k tomu, dle přesvědčení stěžovatelky, v její věci došlo. Stěžovatelka má za to, že soud měl rozhodovat o nákladech řízení podle § 151 odst. 1 a 2 o.s.ř., tedy, že výši odměny za zastupování advokátem měl určit podle sazeb stanovených zvláštním právním předpise. Tímto předpisem je vyhl. č. 484/2000 Sb., kterou se mj. stanoví paušální sazby výše odměny za zastupování účastníka advokátem nebo notářem při rozhodování o náhradě nákladů v občanském soudním řízení. Podle ust. § 3 odst. 1 bod 2. cit. vyhlášky, je-li předmětem řízení zaplacení peněžité částky přes 500,- do 1.000,-  Kč (jak tomu bylo ve věci stěžovatelky), činí paušální sazba odměny za zastupování 3.000,- Kč. V rozporu s tím však jí byla přiznána částka nižší, což pro ni má z dlouhodobějšího hlediska závažný majetkový dopad. Vytváří se tím absurdní situace, kdy k majetkové újmě dochází nikoliv na straně delikventa, ale subjektu, který byl jeho chováním donucen se bránit s využitím právních služeb. Redukcí zákonné odměny soud zmenšuje majetek stěžovatelky, která při uzavírání smlouvy s advokátem počítala s tím, že většinu anebo celou částku, kterou mu zaplatí, získá od neúspěšného účastníka. Přitom soud tuto redukci provedl použitím naprosto nepřezkoumatelného, nepředvídatelného a neurčitého kritéria, tj. složitosti věci.
+ 
+       Ústavní soud se nejdříve zabýval opodstatněností ústavní stížnosti, aby zjistil, zda jsou dány předpoklady jejího meritorního projednání ve smyslu § 42 odst. 1 zákona o Ústavním soudu. Opodstatněností ústavní stížnosti se přitom v řízení před Ústavním soudem rozumí, že rozhodnutí, které je stížností napadeno, je způsobilé porušit základní práva a svobody stěžovatele. Po přezkoumání skutkové a právní stránky věci dospěl Ústavní soud k závěru, že ústavní stížnost je v tomto směru zjevně neopodstatněná, neboť se stěžovatelce nepodařilo prokázat možnost porušení svých ústavně zaručených základních práv a svobod. 
+       Především z ústavní stížnosti není patrné, z jakého důvodu je aplikace právních předpisů týkajících se náhrady nákladů řízení nesprávná, resp. argumentace stěžovatelky se týká jiných případů, kdy obecné soudy neaplikovaly vyhlášku č. 484/2000 Sb. s odůvodněním, že pro to existují důvody ve smyslu § 151 odst. 2 věta první, část za středníkem o. s. ř., což je patrně způsobeno tím, že stěžovatelka podala řadu (v podstatě formulářových) ústavních stížností ve zmíněných věcech, přičemž opomenula rozdílnost daného případu. 
+ 
+       Kromě toho, pokud jde o ústavněprávní dimenzi stížnosti, Ústavní soud již ve věci stěžovatelky, vedené pod 
+sp. zn. IV. ÚS 303/02
+, dovodil, že otázka náhrady nákladů řízení, resp. její výše, jakkoliv se nepochybně může některého účastníka řízení citelně dotknout, nelze z hlediska kriterií spravedlivého (fair) procesu klást na stejnou úroveň, jako proces vedoucí k rozhodnutí ve věci samé. Jakkoli může být předmětné rozhodnutí z hlediska zákonnosti sporné, Ústavní soud v souladu se svojí obecně dostupnou judikaturou (viz např. nález ze dne 29. 5. 1997, 
+sp. zn. III. ÚS 31/97
+, uveřejněný pod č. 66 ve svazku 8 Sbírky nálezů a usnesení Ústavního soudu ČR), konstatuje, že rozdílný názor na interpretaci obyčejného práva (bez ohledu na to, zdali pouze namítaný nebo Ústavním soudem autoritativně zjištěný) sám o sobě nemůže založit porušení práva na soudní ochranu či spravedlivý proces ve smyslu čl. 36 odst. 1 Listiny. Pokud stěžovatelka argumentovala tím, že postupem soudu bylo zasaženo do jejího práva vlastnického jehož stejný obsah a ochranu pro všechny vlastníky zaručuje čl. 11 odst. 1 Listiny, v citované věci poukázal Ústavní soud na to, že ve svých rozhodnutích opakovaně vyložil (např. svazek 1, nález č. 5 Sbírky nálezů a usnesení ÚS ČR), že chápe toto ustanovení především jako příkaz ústavního zákonodárce adresovaný zákonodárci obyčejnému, aby nikoho ve své rozhodovací činnosti z práva na vlastnictví nevylučoval. Nemůže tedy jít o ochranu vlastnického práva tam, kde toto právo nevzniklo, ale nejprve (např. rozhodnutím soudu) vzniknout má. Nemůže-li proto být předmětem ochrany Ústavního soudu vlastnické právo jako právo věcné, pouze tvrzené, tím spíše se nelze této ochrany dovolávat u sporné pohledávky, která teprve může, je-li přiznána a uhrazena, vlastnictví rozhojnit. Přitom z podání není navíc zcela zřejmé, čí majetek by takto přiznaná a uhrazená pohledávka vůbec rozhojnila. 
+ 
+       Na doplnění je třeba uvést, že i kdyby Ústavní soud posoudil daný případ z pohledu své konstantní judikatury, dle které interpretace předpisů obyčejného práva může mít za následek porušení základních práv a svobod toliko tehdy, pokud by tato interpretace byla v extrémním rozporu s principy spravedlnosti (např. přepjatý formalismus), nemohl by dospět k jinému závěru, než že v dané věci takovouto interpretaci soudu vytknout nelze. 
+	Vzhledem k výše uvedeným důvodů Ústavnímu soudu nezbývá než návrh podle ust. § 43 odst. 2 písm. a) zákona č. 182/1993 Sb., o Ústavním soudu, ve znění pozdějších předpisů, jako zjevně neopodstatněný odmítnout, a to mimo ústní jednání bez přítomnosti účastníků.
+Poučení: Proti tomuto usnesení není odvolání přípustné.
+V Brně dne 8. října  2002
+        JUDr. Vojtěch Cepl
+          předseda senátu
