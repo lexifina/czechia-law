@@ -1,0 +1,19 @@
+11 Tcu 19/2001
+U S N E S E N Í
+Nejvyšší soud České republiky projednal žádost Ministerstva spravedlnosti Italské republiky učiněnou prostřednictvím Velvyslanectví Italské republiky v Praze o povolení průvozu R. M., a rozhodl v neveřejném zasedání podle § 383c tr. ř. a čl. 21 Evropské úmluvy o vydávání (uveř. pod č. 549/1992 Sb.) t a k t o:
+Povoluje se p r ů v o z vydávané osoby R. M., územím České republiky pro účely předání k výkonu trestu do Italské republiky, a to trestu uloženého mu rozsudkem Odvolacího soudu v Bologni ze dne 17. 3. 1999, sp. zn. N. 240/98 R. N. R., který nabyl právní moci dne 1. 3. 2000, jimž byl odsouzený uznán vinným
+a) trestnými činy podle článku 110 trestního zákoníku Italské republiky a článku 73 Dekretu prezidenta Italské republiky č. 309 ze dne 9. 10. 1999, když se spoluodsouzeným R. M.
+1) v R. dne 26. 2. 1998 nezákonně vlastnili 199.243 g práškového kokainu (hmotnost účinné látky 43.241 g), který doručili dalšímu spoluodsouzenému F., který pak drogu distribuoval;
+2) v R. dne 26. 2. 1998 měli neoprávněně v držení 42.589 g práškového kokainu (hmotnost účinné látky 8.081 g), přičemž drogu měl u sebe R. M..;
+3) v C. dne 26. 2. 1998 si protiprávně obstarali a měli v držení 258.503 g práškového kokainu (hmotnost účinné látky 69.964 g), který se nacházel v bytě R. M.
+b) z trestného činu podle článku 81, § 2 a článku 110 trestního zákoníku Italské republiky, článku 73 Dekretu prezidenta Italské republiky č. 309 ze dne 9. 10. 1999, když v C. se spoluodsouzeným R. M. při opakovaných příležitostech v rámci téhož zločinného plánu předtím, než byli dne 27. a 28. 2. 1998 zadrženi, opatřili a měli v držení za účelem předání třetím stranám celkem 731.888 g heroinu v prášku (hmotnost účinné látky 101.941 g) a 374.210 g práškového kokainu (hmotnost účinné látky 75.518 g).
+Za tyto trestné činy byl odsouzenému uložen trest odnětí svobody v trvání osmi let, peněžitá pokuta ve výši 90 000 000 italských lir, trvalé zbavení způsobilosti k výkonu veřejné služby a zbavení právní způsobilosti v průběhu trestu.
+Po dobu průvozu bude vydávaná osoba držena ve vazbě.
+O d ů v o d n ě n í :
+Ministerstvo spravedlnosti Italské republiky požádalo prostřednictvím Velvyslanectví Italské republiky v Praze na základě čl. 21 Evropské úmluvy o vydávání o povolení průvozu státního občana Italské republiky R. M. územím České republiky. Průvoz se má uskutečnit v rámci předání odsouzeného ze Slovenské republiky do Italské republiky k výkonu trestu odnětí svobody a k zaplacení peněžité pokuty ve výši 90 000 000 italských lir. R. M. byl odsouzen již výše zmíněným rozsudkem Odvolacího soudu v Bologni ze dne 17. 3. 1999, sp. zn. N. 240/98 R. N. R. který nabyl právní moci dne 1. 3. 2000.
+Nejvyšší soud České republiky projednal žádost Velvyslanectví Italské republiky z hlediska splnění právních podmínek citované mezinárodní úmluvy. Zjistil, že v posuzovaném případě jde o vydání k výkonu trestu pro trestný čin, který z hlediska právních řádů Italské republiky i České republiky splňuje podmínky pro povolení průvozu ve smyslu čl. 21 Evropské úmluvy o vydávání, ve znění výhrady České republiky. Výkon trestu není promlčen podle právního řádu Italské republiky ani podle právního řádu České republiky. Osoba, o jejíž vydání jde, není občanem České republiky, a čin, za který byla odsouzena, je trestným činem i podle právního řádu České republiky
+Jelikož nebyly zjištěny žádné právní překážky, které by bránily povolení průvozu odsouzeného R. M. za účelem jeho předání k výkonu trestu v Italské republice, Nejvyšší soud České republiky žádosti Velvyslanectví Italské republiky vyhověl. Zároveň rozhodl o nutném opatření omezujícím osobní svobodu vydávané osoby v době průvozu.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 10. dubna 2001
+Předseda senátu:
+JUDr. Karel Hasch
