@@ -1,0 +1,17 @@
+29 Odo 643/2001-143
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce V. K., proti žalovanému A. V., o zaplacení částky 150.000,- Kč, vedené u Okresního soudu v Jihlavě pod sp. zn. 7 C 649/93, o dovolání žalovaného proti rozsudku Krajského soudu v Brně ze dne 2. dubna 2001, č.j. 27 (28) Co 414/98 – 127, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Rozsudek ze dne 30. června 1998, č.j. 7 C 649/93 – 107, jímž Okresní soud v Jihlavě zamítl žalobu na zaplacení částky 150.000,- Kč a přiznal žalovanému náhradu nákladů řízení, změnil Krajský soud v Brně shora označeným rozsudkem tak, že zavázal žalovaného zaplatit žalobci částku 150.000,- Kč a na nákladech řízení částku 37.853,- Kč. Odvolací soud současně rozhodl o náhradě nákladů odvolacího řízení.
+Proti rozsudku odvolacího soudu podal žalovaný dovolání datované 14. května 2001, které předal poště Brno 2 k poštovní přepravě dne 5. června 2001 pod podacím číslem 35009, jak vyplývá z podání žalovaného ze dne 18. září 2001, doloženého fotokopií části hromadného poštovního podacího archu advokáta na č.l. 140.
+Podle bodu 17., hlavy I, části dvanácté zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (tj. podle občanského soudního řádu ve znění účinném před 1. lednem 2001 – dále též jen „o. s. ř.“). O takový případ jde i v této věci, přičemž odvolací soud věc ve shodě s bodem 15., hlavy I, části dvanácté zákona č. 30/2000 Sb. rovněž projednal podle dosavadního znění občanského soudního řádu.
+Projednáním a rozhodnutím dovolání podle dosavadních právních předpisů ve smyslu bodu 17., hlavy I části dvanácté zákona č. 30/2000 Sb., se rozumí též posuzování včasnosti dovolání včetně vymezení běhu lhůty k jeho podání (shodně srov. též usnesení Nejvyššího soudu uveřejněné pod číslem 70/2001 Sbírky soudních rozhodnutí a stanovisek). Podle § 240 odst 1 o. s. ř. ve znění účinném před 1. lednem 2001 může účastník podat dovolání do jednoho měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni.
+Rozsudek odvolacího soudu byl, jak vyplývá z doručenek založených ve spise na č.l. 127, žalobci (jeho zástupci) doručen 30. dubna 2001 a žalovanému (jeho zástupci) 3. května 2001, přičemž tímto dnem nabyl právní moci. Ve smyslu ust. § 57 odst. 2 o. s. ř. připadl konec jednoměsíční lhůty k podání dovolání na neděli 3. června 2001, a proto posledním dnem lhůty byl nejblíže následující pracovní den, tedy pondělí 4. června 2001. Dovolání podané žalovaným až dne 5. června 2001 je proto opožděné.
+Nejvyšší soud proto podle § 243b odst. 4 a § 218 odst. 1 písm. a) o. s. ř. dovolání jako opožděné odmítl.
+Žalovaný procesně zavinil (tím, že podal opožděné dovolání), že dovolání bylo odmítnuto, žalobci však v souvislosti s dovolacím řízením náklady nevznikly. Této procesní situaci odpovídá výrok o nákladech dovolacího řízení odůvodněný ust. § 146 odst. 2 větou prvou (per analogiam), § 224 odst. 1 a § 243 b odst. 4 o. s. ř.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 30. ledna 2002
+JUDr.Ing. Jan Hušek , v. r.
+předseda senátu
