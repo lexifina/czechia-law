@@ -1,0 +1,20 @@
+11 Tcu 59/2004
+ČESKÁ REPUBLIKA
+R O Z S U D E K
+J M É N E M R E P U B L I K Y
+Nejvyšší soud České republiky v senátě složeném z předsedy senátu JUDr. Karla Hasche a soudců JUDr. Stanislava Rizmana a JUDr. Antonína Draštíka ve veřejném zasedání konaném dne 21. dubna 2004 projednal návrh Ministerstva spravedlnosti České republiky na uznání rozsudků soudů Italské republiky a rozhodl t a k t o :
+Podle § 384a odst. 1 tr. ř., v trestní věci odsouzeného D. H., státního občana České republiky, s e u z n á v á na území České republiky rozsudek Soudu v Tarantu, Italská republika, ze dne 17. 7. 2000, č. 5792/2000, sp. zn. 2922/99, ve spojení s rozsudkem Odvolacího soudu v Lecce, pobočky v Tarantu, ze dne 26. 6. 2001, č. 631/2001.
+O d ů v o d n ě n í :
+Rozsudkem Soudu v Tarantu, Italská republika, ze dne 17. 7. 2000, č. 5792/2000, sp. zn. 2922/99, ve spojení s rozsudkem Odvolacího soudu v Lecce, pobočky v Tarantu, ze dne 26. 6. 2001, č. 631/2001, jenž nabyl právní moci dne 16. 10. 2001, byl D. H. uznán vinným trestnými činy přechovávání a prodeje omamných látek podle čl. 73, čl. 80 odst. 2 Výnosu prezidenta Italské republiky č. 309/90, nezákonného držení a nošení zbraně na veřejném místě podle § 10, § 12 a § 14 zák. č. 497/74 a padělání listin podle § 81, § 477 a § 488 trestního zákoníku Italské republiky. Za tyto trestné činy mu byl uložen trest odnětí svobody v trvání patnácti let, peněžitý trest ve výši 202.000.000 ITL a tresty trvalého zbavení občanských práv a zbavení zákonných práv po dobu výkonu trestu odnětí svobody.
+Stalo se tak na základě zjištění, že odsouzený dne 7. 7. 1999 jakožto kurýr pro organizaci působící ve více evropských státech přepravoval z O. v České republice přes Rakousko do T. v Italské republice k dalšímu předání celkem 12,478 kg heroinu, s hmotnostním poměrem aktivní složky 62,3 %, ve 24 baleních, a koženkové pouzdro obsahující dva prázdné zásobníky do poloautomatické zbraně, to vše ukryto v kovové konstrukci upevněné ve spodním prostoru přístrojové desky automobilu zn. Škoda Octavia modré barvy, jímž cestoval. Cestoval přitom vědomě s cestovním pasem a řidičským průkazem vystavenými na jméno M. V., do nichž byla vložena jeho fotografie.
+Uvedeného dne v 9.20 hod. byl hlídkou karabiníků v prostoru čerpací stanice A. na 7 km dálnice A. poblíž M. zadržen a látka zajištěna. Za kurýrní jízdu mu byla přislíbena odměna ve výši 200.000 Kč.
+V současné době odsouzený D. H. vykonává trest odnětí svobody ve věznici v T. s tím, že podle vyjádření dotčených orgánů má být výkon trestu ukončen dne 10. 10. 2013.
+Podle protokolu vyhotoveného u Generální prokuratury v L., pobočky v T., dne 23. 7. 2003, odsouzený souhlasí s předáním k výkonu trestu do České republiky.
+Ministerstvo spravedlnosti České republiky předložilo proto dne 10. 3. 2004 tuto věc Nejvyššímu soudu České republiky s návrhem, aby podle § 384a odst. 1 tr. ř. rozsudky citované ve výroku tohoto rozhodnutí uznal na území České republiky.
+Nejvyšší soud České republiky přezkoumal předloženou trestní věc a shledal, že podmínky pro uznání rozsudků italských soudů jsou v této věci splněny tak, jak jsou stanoveny v Úmluvě o předávání odsouzených osob, uveřejněné pod č. 553/1992 Sb., kterou je Česká republika vázána a jejímž signatářem je i Italská republika, a to i s ohledem na prohlášení Italské republiky podle čl. 3 odst. 3 Úmluvy vylučující aplikaci postupu podle čl. 9 odst. 1 písm. b) Úmluvy.
+D. H. je podle Osvědčení o státním občanství, vydaného Magistrátem města O. dne 14. 1. 2004, občanem České republiky, který vyjádřil souhlas s předáním, přičemž je odsouzen za trestný čin, který je trestný i podle právního řádu České republiky (trestné činy nedovolené výroby a držení omamných a psychotropních látek a jedů podle § 187 tr. zák. a padělání a pozměňování veřejné listiny podle § 176 tr. zák.) a zbytek trestu odnětí svobody, který je třeba ještě vykonat, převyšuje dobu šesti měsíců.
+Ze shora uvedených důvodů bylo rozhodnuto tak, že se návrhu na uznání cizozemského rozsudku vyhovuje.
+P o u č e n í :Proti tomuto rozsudku není žádný opravný prostředek přípustný.
+V Brně dne 21. dubna 2004
+Předseda senátu:
+JUDr. Karel Hasch
