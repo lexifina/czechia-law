@@ -1,0 +1,15 @@
+11 Td 49/2002
+U S N E S E N Í
+Nejvyšší soud v trestní věci obviněného J. P., projednal v neveřejném zasedání konaném dne 27. 9. 2002 návrh na odnětí a přikázání věci podle § 25 tr. řádu a rozhodl t a k t o :
+Návrh na odnětí věci vedené u Okresního soudu Praha - východ pod sp. zn. 1 T 276/98 a její přikázání Městskému soudu v Brně podle § 25 tr. řádu se zamítá.
+O d ů v o d n ě n í :
+Okresní státní zástupce pro Prahu - východ podal dne 7. 10. 1998 Okresnímu soudu Praha - východ obžalobu na obviněného J. P. pro trestný čin pohlavního zneužívání podle § 242 odst. 1, 2 tr. zák., který měl spáchat tím, že v přesně nezjištěné době od 10. 5. 1996 do 4. 6. 1996 vykonal soulož s nezletilou I. P., která byla svěřena jeho dozoru jako dcera jeho družky E. P. a žila s ním ve společné domácnosti, takže nezletilá dne 13. 2. 1997 ve 13,03 hod. porodila novorozence ženského pohlaví - dceru S. P.
+Podáním ze dne 2. 9. 2002, sp. zn. 1 T 276/98, navrhla předsedkyně senátu Okresního soudu Praha - východ, aby trestní věc obviněného J. P. byla podle § 25 tr. řádu odňata Okresnímu soudu Praha - východ a přikázána Městskému soudu v Brně. Tento návrh odůvodnila tím, že obviněný, který se trvale zdržuje v obvodu Městského soudu v Brně, a který se opakovaně nedostavuje k veřejnému zasedání, není vzhledem ke svým zdravotním problémům schopen účasti na hlavním líčení u Okresního soudu Praha - východ. Stejně tak obviněný opakovaně žádal o projednání věci soudem v místě jeho trvalého bydliště.
+Nejvyšší soud podle § 25 tr. řádu zhodnotil předložený návrh a dospěl k následujícímu závěru.
+Podle § 25 tr. řádu může být věc z důležitých důvodů odňata příslušnému soudu a přikázána jinému soudu téhož druhu a stupně. Pojem „důležité důvody“ sice není v zákoně blíže definován, ale je nepochybné, že se musí jednat o skutečnosti, jež budou svoji povahou výjimečné, neboť ustanovení § 25 tr. řádu, dle něhož lze v určitých případech věc delegovat k jinému soudu, je zákonným průlomem do zásady, že nikdo nesmí být odňat svému zákonnému soudci, vyjádřené v čl. 38 odst. 1 Listiny základních práv a svobod. Důvody pro odnětí věci příslušnému soudu a její přikázání jinému soudu musí být natolik významné, aby dostatečně odůvodňovaly průlom do výše citovaného ústavního principu.
+Skutečnost, že se obviněný několikrát z důvodu pracovní neschopnosti nedostavil k hlavnímu líčení, není tak vážným důvodem ke změně místní příslušnosti, jaký předpokládá § 25 tr. řádu. Žádným hodnověrným důkazem nebylo prokázáno, že by obviněný ze zdravotních důvodů nebyl v současné době, ani v budoucnu schopen osobní účasti u procesního soudu. Fakt, že je pro obviněného pohodlnější účastnit se soudního jednání v místě bydliště, je sám o sobě jako důvod vhodný k delegaci nedostačující.
+Protože Nejvyšší soud neshledal důležité důvody ke změně místní příslušnosti podle § 25 tr. řádu, nemohl se návrh na delegaci dané věci shledat s úspěchem, a nezbylo, než jej zamítnout.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 27. září 2002
+Předseda senátu:
+JUDr. Pavel Kučera
