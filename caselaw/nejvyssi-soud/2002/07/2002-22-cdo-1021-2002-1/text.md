@@ -1,0 +1,24 @@
+22 Cdo 1021/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Baláka a soudců JUDr. Marie Rezkové a JUDr. Jiřího Spáčila, CSc., ve věci žalobce A. N., zastoupeného advokátem, proti žalovaným: 1) J. T. a 2) D. T., oběma zastoupeným advokátem, o ochranu vlastnického práva a o zdržení se zásahů do vlastnického práva, vedené u Okresního soudu v Trutnově pod sp. zn. 5 C 261/98, o dovolání žalobce proti rozsudku Krajského soudu v Hradci Králové ze dne 4. ledna 2001, č. j. 26 Co 495/2000-96, ve znění usnesení ze dne 6. května 2000, č. j. 26 Co 495/2000-132, takto:
+I. Dovolání se odmítá.
+II. Žalobce je povinen zaplatit žalovaným na náhradě nákladů dovolacího řízení částku 3.870,- Kč do tří dnů od právní moci tohoto usnesení k rukám JUDr. L. Č.
+O d ů v o d n ě n í :
+Krajský soud v Hradci Králové jako soud odvolací k odvolání žalobce rozsudkem ze dne 4. ledna 2001, č. j. 26 Co 495/2000-96, ve znění usnesení ze dne 6. května 2000, č. j. 26 Co 495/2000-132, potvrdil rozsudek Okresního soudu v Trutnově ze dne 19. května 2000, č. j. 5 C 261/98-76, v napadené části, pokud jím byla zamítnuta žaloba, aby se žalovaní zdrželi obtěžování žalobce nadměrným hlukem způsobeným ubytovanými osobami. Dále rozhodl o náhradě nákladů řízení.
+Proti rozsudku odvolacího soudu podal žalobce dovolání z důvodu nesprávného právního posouzení věci. Navrhl, aby dovolací soud zrušil rozsudky soudů obou stupňů a věc vrátil soudu prvního stupně k dalšímu řízení.
+Žalovaní navrhli, aby dovolání bylo odmítnuto jako nepřípustné s tím, že v daném případě nejsou splněny předpoklady přípustnosti dovolání podle občanského soudního řádu ve znění před novelou provedenou zákonem č. 30/2000 Sb.
+Nejvyšší soud jako soud dovolací podle bodu 17. hlavy první části dvanácté zákona č. 30/2000 Sb. projednal a rozhodl o dovolání podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění před novelou provedenou zákonem č. 30/2000 Sb. (dále jen „OSŘ“).
+Po zjištění, že dovolání bylo podáno oprávněnou osobou včas, Nejvyšší soud nejprve zkoumal, zda jde o dovolání přípustné.
+Podle § 236 odst. 1 OSŘ lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Proti rozsudku odvolacího soudu, jímž byl potvrzen rozsudek soudu prvního stupně, je dovolání přípustné za naplnění předpokladů uvedených v § 238 odst. 1 písm. b) OSŘ anebo v § 239 odst. 1 a 2 OSŘ.
+Podle § 238 odst. 1 písm. b) OSŘ je dovolání přípustné proti rozsudku odvolacího soudu, jímž byl potvrzen rozsudek soudu prvního stupně, kterým soud prvního stupně rozhodl jinak než v dřívějším rozsudku proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil. O takový případ v této věci nejde, neboť odvolací soud potvrdil rozsudek soudu prvního stupně, aniž by tomuto rozhodnutí předcházelo zrušující usnesení odvolacího soudu.
+Podle § 239 odst. 1 OSŘ je dovolání přípustné proti rozsudku nebo usnesení odvolacího soudu ve věci samé, jímž bylo rozhodnutí soudu prvního stupně potvrzeno, jestliže odvolací soud ve výroku rozhodnutí vyslovil, že dovolání je přípustné, protože jde o rozhodnutí po právní stránce zásadního významu. To se v dané věci nestalo.
+Podle § 239 odst. 2 OSŘ je dovolání přípustné tehdy, nevyhoví-li odvolací soud návrhu účastníka na vyslovení přípustnosti dovolání, který byl učiněn nejpozději před vyhlášením potvrzujícího rozsudku nebo před vyhlášením (vydáním) usnesení, kterým bylo rozhodnuto ve věci samé, jestliže dovolací soud dospěje k závěru, že napadené rozhodnutí odvolacího soudu má po právní stránce zásadní význam. Ani tato situace v řízení nenastala, neboť návrh na připuštění dovolání nebyl učiněn.
+Proti rozhodnutí odvolacího soudu je dovolání přípustné též tehdy, trpí-li řízení některou z vad taxativně vyjmenovaných v § 237 odst. 1 OSŘ. V dovolání se žalobce takových vad výslovně nedovolává a ani z obsahu spisu nevyplývá, že by k některé z vad uvedených v § 237 odst. 1 OSŘ došlo.
+Nejvyšší soud proto podle § 243b odst. 4 a § 218 odst. 1 písm. c) OSŘ dovolání žalobce jako nepřípustné odmítl.
+Výrok o náhradě nákladů dovolacího řízení vychází z toho, že žalobce nebyl úspěšný a úspěšným žalovaným vznikly náklady řízení (§ 243b odst. 5, § 224 odst. 1, § 151 odst. 1 a § 142 odst. 1 OSŘ). Náklady vzniklé žalovaným představují odměnu za jeden úkon právní služby – vyjádření zástupce k dovolání podle § 11 odst. 1 písm. k) vyhlášky č. 177/1996 Sb., advokátní tarif, která činí podle § 8 písm. b), § 10 odst. 3, § 14 odst. 1, § 15 a § 17 odst. 2 vyhlášky č. 484/2000 Sb. 3 720,- Kč a dále paušální náhradu hotových výdajů 150,- Kč podle § 13 odst. 3 advokátního tarifu.
+Proti tomuto usnesení není opravný prostředek přípustný.
+Nesplní-li žalobce dobrovolně, co mu ukládá toto rozhodnutí, mohou žalovaní podat návrh na soudní výkon rozhodnutí.
+V Brně dne 11. července 2002
+JUDr. František Balák, v. r.
+předseda senátu
