@@ -1,0 +1,18 @@
+11 Tvo 43/2004
+U S N E S E N Í
+Nejvyšší soud projednal v neveřejném zasedání konaném dne 30. 9. 2004 stížnost obviněného M. Š., proti usnesení Vrchního soudu v Olomouci ze dne 24. 3. 2004, sp. zn. 3 To 10/2004, a rozhodl t a k t o :
+Podle § 148 odst. 1 písm. c) tr. řádu s e stížnost obviněného M. Š. z a m í t á .
+O d ů v o d n ě n í :
+Rozsudkem Krajského soudu v Ostravě ze dne 3. 10. 2003, sp. zn. 30 T 4/2003, byl obviněný M. Š. uznán vinným trestným činem vraždy podle § 219 odst. 1, 2 písm. h) tr. zák. a odsouzen k nepodmíněnému trestu odnětí svobody v trvání třinácti let a šesti měsíců, pro jehož výkon byl zařazen do věznice se zvýšenou ostrahou, a k povinnosti nahradit škodu.
+Proti tomuto rozsudku podal obviněný odvolání a trestní věc byla předložena Vrchnímu soudu v Olomouci.
+Poté, co nebylo opakovaně možné zajistit přítomnost obviněného u veřejného zasedání, neboť tento se s odkazem na svůj zdravotní stav z účasti omlouval a žádal o odročení veřejného zasedání, byl z obavy o zmaření veřejného zasedání Policií ČR k Vrchnímu soudu v Olomouci předveden. V průběhu veřejného zasedání konaného dne 24. 3. 2004 namítl obviněný M. Š. podjatost senátu Vrchního soudu v Olomouci, ve složení předseda senátu JUDr. V. R. a soudci JUDr. M. K. a JUDr. L. L. s tím, že postupem soudu byl zkrácen na svých osobnostních právech, když on se trestnímu řízení, tím, že se navštěvoval lékaře a podroboval se nutným lékařským kontrolám, nevyhýbal, neboť oznamoval, kde je a hlásil se na policii.
+Usnesením Vrchního soudu v Olomouci ze dne 24. 3. 2004, sp. zn. 3 To 10/2004, bylo podle § 30 a § 31 odst. 1 tr. řádu &#224; contrario rozhodnuto, že senát Vrchního soudu v Olomouci, složený z předsedy senátu JUDr. V. R. a soudců JUDr. M. K. a JUDr. L. L. není vyloučen z vykonávání úkonů trestního řízení v trestní věci obviněného M. Š., vedené pod sp. zn. 3 To 10/2004.
+Proti tomuto usnesení podal obviněný M. Š. ihned po jeho vyhlášení do protokolu o veřejném zasedání stížnost, kterou dosud blíže nezdůvodnil.
+Nejvyšší soud podle § 147 odst. 1 tr. řádu z podnětu podané stížnosti přezkoumal správnost napadeného rozhodnutí i řízení, které mu předcházelo, a dospěl k tomuto závěru.
+Podle § 30 odst. 1 tr. řádu je z vykonávání úkonu trestního řízení vyloučen soudce, u něhož lze mít pochybnosti, že pro poměr k projednávané věci nebo k osobám, jichž se úkon přímo dotýká, k jejich obhájcům, zákonným zástupcům a zmocněncům, nebo pro poměr k jinému orgánu činnému v trestním řízení, nemůže nestranně rozhodovat.
+V projednávané věci nebylo zjištěno nic, z čehož by věrohodným způsobem vyplynuly sebemenší pochybnosti o podjatosti senátu Vrchního soudu v Olomouci složeného z předsedy senátu JUDr. V. R. a soudců JUDr. M. K. a JUDr. L. L. Skutečnost, že tento senát poté, co si ověřil zdravotní stav obviněného, z obavy o zmaření veřejného zasedání požádal Obvodní oddělení Policie ČR O. o předvedení obviněného M. Š. k veřejnému zasedání, rozhodně nelze považovat za okolnost, jež by mohla vést k úvaze o jeho podjatosti a tedy k vyloučení tohoto senátu z vykonávání úkonů trestního řízení podle § 30 odst. 1 tr. řádu. I kdyby bylo možno předvedení obviněného považovat za opatření ne zcela přiměřené vzniklé situaci, v žádném případě nejde o stav, který by bylo možno hodnotit jako podjatost napadeného senátu vůči obviněnému. V tomto směru se Nejvyšší soud s rozhodnutím vrchního soudu a jeho odůvodněním plně ztotožňuje a může na ně v podrobnostech odkázat.
+Za tohoto stavu se stížnost obviněného M. Š. nemohla setkat s úspěchem a nezbylo, než o ní rozhodnout, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 30. září 2004
+Předseda senátu:
+JUDr. Pavel Kučera
