@@ -1,0 +1,16 @@
+11 Tvo 74/2002
+U S N E S E N Í
+Nejvyšší soud projednal v neveřejném zasedání konaném dne 25. 11. 2002 stížnost obviněného D. S., proti usnesení Vrchního soudu v Praze ze dne 21. 10. 2002, sp. zn. 6 To 79/02, a rozhodl t a k t o:
+Podle § 148 odst. 1 písm. c) tr. řádu s e stížnost obviněného D. S. z a m í t á.
+O d ů v o d n ě n í :
+Rozsudkem Městského soudu v Praze ze dne 15. 3. 2002, sp. zn. 48 T 29/2001, byl obviněný D. S. uznán vinným trestným činem krádeže podle § 247 odst. 1 písm. b), odst. 2, 3 písm. a) tr. zák., pokusem trestného činu krádeže podle § 8 odst. 1 tr. zák. k § 247 odst. 1 písm. b), odst. 2 tr. zák., trestným činem porušování domovní svobody podle § 238 odst. 1, 2 tr. zák., trestným činem poškozování cizí věci podle § 257 odst. 1 tr. zák., trestným činem poškozování a ohrožování provozu obecně prospěšného zařízení podle § 182 odst. 1 písm. a), odst. 2 písm. a) tr. zák. a trestným činem padělání a pozměňování veřejné listiny podle § 176 odst. 1 tr. zák. a odsouzen k nepodmíněnému trestu odnětí svobody v trvání tří roků, pro jehož výkon byl zařazen do věznice s ostrahou, a k trestu vyhoštění na dobu neurčitou. Současně mu byl podle § 53 odst. 1 tr. zák. uložen peněžitý trest ve výši 100.000,- Kč, kdy pro případ, že by ve stanovené lhůtě nebyl vykonán, byl obviněnému stanoven náhradní trest odnětí svobody v trvání šesti měsíců. Stejným rozsudkem bylo rozhodnuto o vině a trestu obviněných S. M., J. D., Z. N., S. P., R. R. a I. O .
+Proti tomuto rozsudku podal odvolání obviněný D. S., stejně jako obvinění S. M., J. D., Z. N., R. R. a I. O., a trestní věc se v současné době nachází ve stadiu odvolacího řízení před Vrchním soudem v Praze.
+Vrchní soud v Praze usnesením ze dne 21. 10. 2002, sp. zn. 6 To 79/02, podle § 71 odst. 6 tr. řádu ponechal obviněného i nadále ve vazbě.
+Proti tomuto usnesení podal obviněný stížnost, kterou zdůvodnil tím, že důvody vazby uvedené v ustanovení § 67 písm. a), c) tr. řádu u něj neexistují, a proto navrhl zrušení napadeného rozhodnutí a propuštění z vazby.
+Nejvyšší soud z podnětu podané stížnosti přezkoumal podle § 147 odst. 1 tr. řádu správnost napadeného rozhodnutí i řízení, které mu předcházelo, a dospěl k tomuto závěru.
+Obviněný D. S. je ve vazbě od zahájení trestního řízení z důvodů uvedených v § 67 písm. a), c) tr. řádu a o důvodnosti jeho vazby bylo v průběhu dosavadního řízení opakovaně rozhodováno. Obviněný je stíhán pro rozsáhlou trestnou činnost, jedná se o cizího státního příslušníka bez trvalých vazeb k území České republiky, a je s ohledem na závažnost žalované trestné činnosti ohrožen poměrně vysokou trestní sazbou. Za tohoto stavu je obava, že by na svobodě trestnou činnost opakoval a dalšímu trestnímu řízení se vyhýbal, zcela reálná. V tomto směru se lze ztotožnit s výrokem napadeného usnesení a v podrobnostech je možno odkázat na jeho výstižné zdůvodnění. Trestní řízení proti obviněnému trvá zatím dobu, která je přiměřená náročnosti projednávané věci, žádné nepřiměřené průtahy během tohoto řízení nebyly zjištěny.
+Ze všech těchto důvodů bylo rozhodnuto, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 25. listopadu 2002
+Předseda senátu :
+JUDr. Pavel Kučera
