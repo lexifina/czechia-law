@@ -1,0 +1,14 @@
+4 Tvo 86/2001
+U S N E S E N Í
+Nejvyšší soud České republiky projednal dne 10. července 2001 v neveřejném zasedání stížnost obviněného M. C., proti usnesení Vrchního soudu v Olomouci ze dne 19. 6. 2001, sp. zn. 3 Ntv 7/2001, a žádost tohoto obviněného o navrácení lhůty k podání zmíněné stížnosti a rozhodl t a k t o :
+I. Podle § 61 odst. 1 tr. ř. a contr. se návrh na navrácení lhůty k podání opravného prostředku zamítá.
+II. Podle § 148 odst. 1 písm. b) tr. ř. se stížnost zamítá.
+O d ů v o d n ě n í :
+Dne 21. 6. 2001 převzal obviněný M. C. i jeho obhájkyně JUDr. P. K. usnesení Vrchního soudu v Olomouci ze dne 19. 6. 2001, sp. zn. 3 Ntv 7/2001, kterým byla podle § 71 odst. 3 tr. ř. prodloužena vazba obviněného M. C. do 31. 10. 2001.
+Proti tomuto usnesení podal dne 26. 6. 2001 ve Vazební věznici Ostrava (podle razítka této věznice na obálce, v níž byla stížnost poslána) obviněný M. C. stížnost spolu se žádostí o navrácení lhůty k podání opravného prostředku. V žádosti uvedl, že 22. 6. 2001 (pátek) napsal obhájkyni, aby za ním do věznice 25. 6. 2001 (pondělí) přijela, že spolu prodiskutují případnou stížnost. Obhájkyně však za ním do věznice tohoto dne nepřijela, a proto zmeškal třídenní lhůtu k podání stížnosti.
+Podle § 61 odst. 1 tr. ř. zmešká-li obviněný nebo jeho obhájci z důležitých důvodů lhůtu k podání opravného prostředku, povolí mu orgán, jemuž přísluší o opravném prostředku rozhodovat, navrácení lhůty. Důležitými důvody jsou např. onemocnění, náhlé úmrtí nebo jiná nečekaná vážná událost v rodině obviněného nebo obhájce, živelná událost bránící včas podat opravný prostředek. Takovým důležitým důvodem nemůže však být nedostavení se obhájce za obviněným do věznice v den, kdy obdrží výzvu obviněného. Obviněnému totiž nic nebránilo podat stížnost ve třídenní zákonné lhůtě a po následné poradě s obhájkyní ji případně odůvodnit či vzít zpět, pokud by dospěli k závěru stížnost nepodávat. Nejvyššímu soudu tedy nezbylo, než podle § 61 odst. 1 tr. ř. a contr. žádost o navrácení lhůty k podání opravného prostředku jako nedůvodnou zamítnout.
+Následně pak Nejvyšší soud podle § 148 odst. 1 písm. b) tr. ř. stížnost obviněného M. C. jako opožděně podanou zamítl. Podle § 143 odst. 1 tr. ř. je třeba stížnost podat do 3 dnů od jeho oznámení. Podle § 60 odst. 3 tr. ř. připadne-li konec lhůty na den pracovního klidu nebo volna, pokládá se za poslední den lhůty nejbližší příští pracovní den. V daném případě obviněný i jeho obhájkyně předmětné usnesení obdrželi 21. 6. 2001, třetí den lhůty pro podání stížnosti byl 24. 6. 2001, což byl den pracovního klidu, takže za poslední den lhůty se pokládá 25. 6. 2001. Stížnost však byla podána až 26. 6. 2001, tedy opožděně.
+Poučení: Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 10. července 2001
+Předseda senátu:
+JUDr. Jiří P á c a l
