@@ -1,0 +1,17 @@
+11 Zp 52/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Karla Hasche a soudců JUDr. Antonína Draštíka a JUDr. Stanislava Rizmana v právní věci navrhovatele Ing. L. L., proti odpůrcům 1. M. m. B. a 2. Prof. RNDr. J. Z., o návrhu na vydání rozhodnutí o neplatnosti hlasování a neplatnosti volby kandidáta ve druhém kole voleb do Senátu Parlamentu České republiky konaném ve dnech 1. a 2. listopadu 2002 ve volebním obvodu č. 60, t a k t o:
+Návrh se zamítá, neboť byl podán opožděně.
+Navrhovatel nemá právo na náhradu nákladů řízení.
+O d ů v o d n ě n í :
+Faxovým podáním přijatým Nejvyšším soudem České republiky dne 15. 11. 2000 v 22.34 hod. a doplněným podáním doručeným Nejvyššímu soudu České republiky dne 18. 11. 2002 se navrhovatel domáhá rozhodnutí o neplatnosti hlasování a neplatnosti volby kandidáta ve druhém kole voleb do Senátu Parlamentu České republiky konaném ve dnech 1. a 2. listopadu 2002 ve volebním obvodu č. 60.
+Podle § 87 odst. 2 zák. č. 247/1995 Sb., o volbách do Parlamentu České republiky a o změně a doplnění některých dalších zákonů, ve znění dalších zákonů (dále jen „zákon“), platí, že se návrhem na neplatnost voleb může mimo jiné každý občan zapsaný do stálého seznamu ve volebním okrsku, kde byl senátor volen, domáhat nejpozději do deseti dnů po vyhlášení výsledků voleb Státní volební komisí rozhodnutí soudu podle zvláštního právního předpisu (tímto “zvláštním právním předpisem“ je ustanovení § 200n občanského soudního řádu - dále jen o. s. ř.). Podle § 88 odst. 2 zákona je k řízení příslušný Nejvyšší soud, který o návrhu na vydání rozhodnutí o neplatnosti voleb do Senátu Parlamentu České republiky rozhodne bez jednání usnesením, a to do dvaceti dnů (§ 200n odst. 4 o. s. ř.). Podle § 97a zákona platí, že lhůta určená podle dnů je zachována, je-li v poslední den lhůty učiněn úkon u příslušného orgánu tj. podán u Nejvyššího soudu podán příslušný návrh, a to nejpozději do 16. 00 hod.
+Státní volební komise vyhlásila výsledky druhého kola voleb do Senátu konaného ve dnech 1. a 2. listopadu 2002 dne 5. listopadu 2002. Vzhledem k uvedenému datu vyhlášení voleb uplynula lhůta deseti dnů stanovená v § 87 odst. 2 zákona dnem 15. 11. 2002.
+Na základě shora uvedených skutečností Nejvyšší soud shledal, že návrh byl podán opožděně.
+K tomu je nutno uvést, že ze zákonné dikce, podle které se navrhovatel může „domáhat nejpozději do deseti dnů po uveřejnění výsledků voleb Státní volební komisí rozhodnutí soudu“, vyplývá, že v této lhůtě musí být návrh na vydání rozhodnutí o neplatnosti voleb učiněn u příslušného soudu, resp. musí být příslušnému soudu v této lhůtě doručen. Tato lhůta má hmotněprávní povahu a jako taková je podle ustanovení § 97a odst. 3 zákona zachována, je-li poslední den lhůty učiněn úkon u příslušného orgánu, a to nejpozději do 16.00 hodin. Podle odst. 4 uvedeného ustanovení tuto lhůtu nelze prodloužit ani prominout její zmeškání.
+Proto Nejvyšší soud návrh z důvodu jeho podání po uplynutí zákonem stanovené lhůty zamítl jako opožděný, aniž z jeho podnětu meritorně přezkoumával jeho důvodnost.
+Dále Nejvyšší soud rozhodl o tom, že neúspěšnému navrhovateli nepřísluší náhrada nákladů řízení (§ 146 odst. 2, věta první, o. s. ř., per analogiam).
+P o u č e n í : Proti tomuto rozhodnutí není žádný opravný prostředek přípustný (§ 200n odst. 3 o. s. ř.).
+V Brně dne 26. listopadu 2002
+Předseda senátu:
+JUDr. Karel Hasch
