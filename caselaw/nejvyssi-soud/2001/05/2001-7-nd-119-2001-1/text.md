@@ -1,0 +1,13 @@
+7 Nd 119/2001
+U S N E S E N Í
+Nejvyšší soud v senátě složeném z předsedy JUDr. Petra Hrachovce a soudců JUDr. Zdeňka Sováka a JUDr. Jana Engelmanna v právní věci žalobce B. V., proti žalovanému státu - Ministerstvu spravedlnosti České republiky o náhradu škody z nesprávného úředního postupu, vedené u Okresního soudu Praha-východ pod sp. zn. 12 C 7/99, rozhodl o vyloučení soudců Vrchního soudu v Praze t a k t o :
+Soudci Vrchního soudu v Praze JUDr. Z. K., JUDr. H. Z. a JUDr. E. H. n e j s o u vyloučeni z projednávání a rozhodování věci vedené u tohoto soudu pod sp. zn. Nco 17/2001.
+O d ů v o d n ě n í :
+Ve věci vedené u Okresního soudu Praha-východ pod sp. zn. 12 C 7/99 se žalobce v podané žalobě proti státu - Ministerstvu spravedlnosti ČR domáhá náhrady škody z nesprávného úředního postupu. Žalobce namítl podjatost soudkyně Okresního soudu Praha-východ, které připadlo ve věci rozhodnout. Zároveň žalobce namítl podjatost soudců Krajského soudu v Praze, který je příslušný k tomu, aby rozhodl o námitce podjatosti týkající se soudkyně Okresního soudu Praha-východ. K rozhodnutí o námitce podjatosti soudců Krajského soudu v Praze je příslušný Vrchní soud v Praze. Žalobce však namítl také podjatost soudců Vrchního soudu v Praze. Řízení, v kterém má Vrchní soud v Praze rozhodnout o námitce podjatosti soudců Krajského soudu v Praze, je u Vrchního soudu v Praze vedeno pod sp. zn. Nco 17/2001.
+Žalobce označil soudce Vrchního soudu v Praze za osoby pro něho neznámé, ale odkázal na to, že Vrchní soud v Praze se v minulosti podílel na represi proti jeho osobě rozhodnutím učiněným pod sp. zn. Ntd 21/99.
+Nejvyšší soud z vyjádření Vrchního soudu v Praze zjistil, že rozhodnutí ve věci vedené pod sp. zn. Nco 17/2001 připadlo podle rozvrhu práce Vrchního soudu v Praze senátu složenému ze soudců JUDr. Z. K., JUDr. H. Z. a JUDr. E. H. Dále Nejvyšší soud z vyjádření těchto soudců zjistil, že k účastníkům řízení ani k projednávané věci nemají žádný osobní vztah. Tomu nakonec odpovídá i to, že sám žalobce označil tyto soudce za osoby, které jsou pro něho neznámé. V posuzované věci tedy není dán žádný skutečný důvod k pochybnostem o jejich nepodjatosti. Tyto pochybnosti nemohou být opírány o pouhou okolnost, že Vrchní soud v Praze rozhodl v jiné věci tak, že žalobce se s tímto rozhodnutím neztotožňuje.
+Proto Nejvyšší soud rozhodl, že soudci Vrchního soudu v Praze, kterým připadlo rozhodnout o námitce podjatosti soudců Krajského soudu v Praze, nejsou vyloučeni.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 3. května 2001
+Předseda senátu:
+JUDr. Petr Hrachovec
