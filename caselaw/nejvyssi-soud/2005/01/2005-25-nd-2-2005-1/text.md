@@ -1,0 +1,15 @@
+25 Nd 2/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marty Škárové a soudců JUDr. Ing. Jana Huška a JUDr. Petra Vojtka v právní věci žalobců a) JUDr. M. M., advokátky, jako správkyně konkursní podstaty úpadce O. P., a.s., zastoupené advokátem, a b) J. V., proti žalovanému G.E.N., a.s., zastoupenému advokátem, o určení vlastnického práva, vedené u Nejvyššího soudu ČR pod sp. zn. 22 Cdo 1305/2004, o námitce podjatosti, takto:
+Soudkyně Nejvyššího soudu ČR JUDr. M. R. není vyloučena z projednávání a rozhodování věci vedené u Nejvyššího soudu ČR pod sp. zn. 22 Cdo 1305/2004.
+O d ů v o d n ě n í :
+Senátu 25 Nejvyššího soudu ČR byl předložen spis Obvodního soudu pro Prahu 1, sp. zn. 11 C 143/98, k rozhodnutí o námitce podjatosti předsedkyně senátu Nejvyššího soudu ČR JUDr. M. R., která podle rozvrhu práce Nejvyššího soudu ČR má rozhodnout ve věci vedené u tohoto soudu pod sp. zn. 22 Cdo 1305/2004 o podaném dovolání proti rozsudku Městského soudu v Praze ze dne 24. 2. 2004, č. j. 55 Co 40/2000-59.
+V podání ze dne 5. 9. 2004 adresovaném Nejvyššímu soudu požádal původní žalobce /úpadce/, aby o věci nerozhodoval senát v čele s JUDr. R., neboť vzhledem k tomu, že spis předložený s dovoláním Nejvyššímu soudu byl opakovaně vrácen soudu prvního stupně s „irelevantním přípisem“, který nemá „zákonnou oporu“, jsou zde pochybnosti, zda senát vedený jeho předsedkyní JUDr. R. je dostatečně kompetentní a nezaujatý, aby byl schopen o předmětném dovolání objektivně rozhodnout.
+JUDr. M. R. se k námitce vyjádřila tak, že nemá k věci, účastníkům ani jejich zástupcům žádný vztah.
+Podle ustanovení § 14 odst. 1 o. s. ř. soudci a přísedící jsou vyloučeni z projednávání a rozhodnutí věci, jestliže se zřetelem na jejich poměr k věci, k účastníkům nebo k jejich zástupcům je tu důvod pochybovat o jejich nepodjatosti. Podle ustanovení § 14 odst. 4 o. s. ř. důvodem k vyloučení soudce (přísedícího) nejsou okolnosti, které spočívají v postupu soudce (přísedícího) v řízení o projednávané věci nebo v jeho rozhodování v jiných věcech.
+Jak vyplývá z návrhu na vyloučení soudkyně JUDr. M. R. z projednávání a rozhodnutí věci, důvodem pochybnosti o její nepodjatosti má být otázka správnosti jejího dosavadního postupu v řízení o podaném dovolání. Z vyjádření JUDr. M. R. ani z obsahu spisu nebyly zjištěny žádné okolnosti, z nichž by bylo možné dovodit, že je tu důvod pochybovat o její nepodjatosti. Vzhledem k tomu, že soudce lze vyloučit z projednávání a rozhodnutí přidělené věci jen ze zákonných důvodů, které mu brání věc projednat a rozhodnout věc v souladu se zákonem nezaujatě a spravedlivě, nelze za tento důvod považovat nesouhlas s postupem soudce v řízení o podaném opravném prostředku, jak ostatně zákon výslovně stanoví (§ 14 odst. 4 o. s. ř.).
+Protože zákonné důvody k vyloučení jmenované soudkyně z projednávání a rozhodování věci ve smyslu ust. § 14 odst. 1 o. s. ř. nebyly zjištěny, bylo rozhodnuto, jak je uvedeno ve výroku tohoto usnesení.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. ledna 2005
+JUDr. Marta Škárová,v.r.
+předsedkyně senátu
