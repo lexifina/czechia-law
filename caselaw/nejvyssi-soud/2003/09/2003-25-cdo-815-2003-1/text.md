@@ -1,0 +1,11 @@
+25 Cdo 815/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Olgy Puškinové a soudců JUDr. Marty Škárové a JUDr. Petra Vojtka v právní věci žalobce V. Š., zastoupeného advokátkou, proti žalované Fakultní nemocnici s poliklinikou, za účasti vedlejšího účastníka na straně žalované Č. p., a. s., zastoupené advokátem, o 280.000,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 25 C 268/98, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 19. června 2002, č. j. 19 Co 102/2002 - 130, takto:
+I. Dovolání se odmítá.
+II. Žalobce je povinen zaplatit žalované na nákladech dovolacího řízení částku 8.995,- Kč do 3 dnů od právní moci tohoto rozhodnutí na účet advokáta.
+Vzhledem k tomu, že Nejvyšší soud neshledal dovolání podle § 237 odst. 1 písm. c) o. s. ř. přípustným, neobsahuje toto rozhodnutí odůvodnění (§ 243c odst. 2 věta první o. s. ř.).
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 146 odst. 3 o.s.ř. a § 151 odst. 2 věty první před středníkem o.s.ř. ve znění účinném od 1. 1. 2001 (ustanovení části dvanácté, Hlavy I, bodu 10. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony); s ohledem na výsledek dovolacího řízení má žalovaná právo na náhradu účelně vynaložených nákladů řízení, které sestávají z odměny za zastoupení advokátem. Výše odměny byla vypočtena z peněžité částky, jež byla předmětem dovolacího řízení (280.000,- Kč), podle § 3 odst. 1 a § 10 odst. 3 vyhlášky č. 484/2000 Sb. ve znění vyhlášky č. 49/2001 Sb., sazba byla snížena o 50% podle § 14 odst. 1 a § 15 citované vyhlášky (dovolání bylo odmítnuto) a o dalších 50% podle § 18 odst. 1 věty první citované vyhlášky (byl učiněn pouze 1 úkon - vyjádření k dovolání) na výsledných 8.920,- Kč; žalovanému kromě toho náleží paušální částka náhrady hotových výdajů ve výši 75,- Kč podle § l3 odst. 3 vyhlášky č. 177/1996 Sb. (srov. usnesení Nejvyššího soudu ČR ze dne 19. 4. 2001, sp. zn. 29 Odo 196/2001, publikované pod č. 70 ve Sbírce soudních rozhodnutí a stanovisek, ročník 2000).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 30. září 2003
+JUDr. Olga Puškinová, v. r.
+předsedkyně senátu
