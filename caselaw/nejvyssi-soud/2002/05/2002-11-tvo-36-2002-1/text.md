@@ -1,0 +1,18 @@
+11 Tvo 36/2002
+U S N E S E N Í
+Nejvyšší soud projednal v neveřejném zasedání konaném dne 15. 5. 2002 stížnost obviněného J. V., proti usnesení Vrchního soudu v Praze ze dne 10. 4. 2002, sp. zn. 9 To 39/02, a rozhodl t a k t o :
+Podle § 148 odst. 1 písm. c) tr. řádu s e stížnost obviněného J. V. z a m í t á .
+O d ů v o d n ě n í :
+Rozsudkem Krajského soudu v Ústí nad Labem - pobočka Liberec ze dne 16. 11. 2000, sp. zn. 28 T 45/2000, ve spojení s usnesením Vrchního soudu v Praze ze dne 7. 3. 2001, sp. zn. 9 To 12/01, byl obviněný J. V. uznán vinným trestným činem pojistného podvodu podle § 250a odst. 1, 5 tr. zák. a odsouzen k nepodmíněnému trestu odnětí svobody v trvání pěti let s výkonem trestu ve věznici s dozorem.
+Usnesením Krajského soud v Ústí nad Labem - pobočka Liberec ze dne 10. 12. 2001, sp. zn. 28 Nt 2/2001, byl zamítnut podle § 283 písm. d) tr. řádu ve shora uvedené věci návrh obviněného na povolení obnovy řízení.
+Proti tomuto usnesení podal obviněný v zákonné lhůtě stížnost, ve které pro případ, že by o ní měl rozhodovat předseda senátu Vrchního soudu v Praze JUDr. M. P., navrhl podle § 30 odst. 1 tr. řádu vyloučení tohoto soudce.
+Vrchní soud v Praze usnesením ze dne 10. 4. 2002, sp. zn. 9 To 39/02, rozhodl podle § 30 odst. 1 tr. řádu tak, že předseda senátu JUDr. M. P. není z vykonávání úkonů v trestní věci obviněného vyloučen.
+Proti tomuto usnesení podal obviněný v zákonné lhůtě stížnost, ve které opakuje svůj názor, že se JUDr. M. P. nenalézá v postavení soudce, který je ve věci schopen nestranně rozhodnout, což dokázal tím, že v původním řízení odmítl provedení důkazů pouhou úvahou o nadbytečnosti a to přesto, že vyšetřovací experiment provedený obhajobou nezbytnost takového důkazu potvrdil. Proto znovu navrhl, aby byl JUDr. M. P. z projednání věci vyloučen.
+Nejvyšší soud z podnětu podané stížnosti přezkoumal podle § 147 odst. 1 tr. řádu správnost výroku napadaného rozhodnutí i řízení, které mu předcházelo, a dospěl k tomuto závěru.
+Podle § 30 odst. 1 tr. řádu je z vykonávání úkonu trestního řízení vyloučen soudce, u něhož lze mít pochybnosti, že pro poměr k projednávané věci nebo k osobám, jichž se úkon přímo dotýká, k jejich obhájcům, zákonným zástupcům a zmocněncům, nebo pro poměr k jinému orgánu činnému v trestním řízení, nemůže nestranně rozhodovat.
+Dosavadní postup předsedy senátu Vrchního soudu v Praze JUDr. M. P. v trestní věci obviněného J. V. pochybnosti o jeho nestrannosti nebo dokonce neobjektivitě žádným hodnověrným způsobem nevyvolává. JUDr. M. P. v trestní věci obviněného rozhodoval jako předseda senátu odvolacího soudu a tento soud postupem podle § 254 tr. řádu potvrdil zákonnost o odůvodněnost postupu nalézacího soudu. Postup odvolacího soudu, včetně předsedy senátu JUDr. M. P., nebyl žádným zákonným či jiným prokazatelným způsobem zpochybněn. V trestní věci obviněného nebyla podána stížnost pro porušení zákona a pokud nyní v řízení o obnově zpochybňuje obviněný objektivitu předsedy odvolacího senátu, jde o jeho subjektivní, ničím nepodložený názor, pramenící s největší pravděpodobností z nespokojenosti s rozhodnutím odvolacího senátu, kterému JUDr. M. P. předsedal. Pokud by i v řízení o obnově měl JUDr. M. P. podle rozvrhu práce rozhodovat o opravném prostředku obviněného, není ve smyslu § 30 odst. 1 tr. řádu z tohoto rozhodování vyloučen.
+Protože Nejvyšší soud námitku podjatosti obviněného vůči předsedovi senátu Vrchního soudu v Praze neshledal důvodnou, nemohla se jeho stížnost shledat s úspěchem a tak nezbylo, než jí jako nedůvodnou zamítnout.
+P o u č e n í : Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 15. května 2002
+Předseda senátu:
+JUDr. Pavel Kučera
