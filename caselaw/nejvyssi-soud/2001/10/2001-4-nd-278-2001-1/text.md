@@ -1,0 +1,17 @@
+4 Nd 278/2001
+U S N E S E N Í
+Nejvyšší soud České republiky jako soud nejblíže společně nadřízený rozhodl v senátě složeném z předsedy senátu JUDr. Františka Hrabce a soudců JUDr. Danuše Novotné a JUDr. Jiřího Pácala, ve věci žalobců Ing. M. D. a J. D., proti žalovanému L. M., o vydání věci, vedené u Okresního soudu v Jeseníku pod sp. zn. 5 C 52/2000, o návrhu na přikázání věci z důvodu vhodnosti t a k t o :
+Návrh na přikázání věci Obvodnímu soudu pro Prahu 6 se z a m í t á.
+O d ů v o d n ě n í :
+Okresní soud v Jeseníku předložil dne 8. 10. 2001 v souladu s ustanovením § 12 odst. 3 o. s. ř. Nejvyššímu soudu návrh žalobců, aby věc – řízení o vydání věci (osobního automobilu), která je u tohoto soudu vedena pod sp. zn. 5 C 52/2000, byla z důvodu vhodnosti (§ 12 odst. 2 o. s. ř.) přikázána Obvodnímu soudu pro Prahu 6.
+Tento návrh žalobci odůvodnili v podstatě tím, že žalovaný se k jednání, které soudem bylo nařízeno na 25. 5. 2000, nedostavil, a žalobkyně tak vynaložila finanční prostředky na cestu marně. Zároveň dovozují, že další jednání bude zřejmě nařízeno v zimních měsících a cesta do sídla příslušného soudu by pro žalobce mohla být značnou komplikací. Navrhují proto, aby věc byla delegována k soudu v jehož obvodu mají oba bydliště.
+Žalovaný L. M. ve svém vyjádření k podanému návrhu na delegaci věci vyslovil nesouhlas s tímto postupem, když zároveň poukázal na svoji marnou cestu do Prahy v dubnu 2000, k níž byl vyzván údajným právním zástupcem žalobkyně, v rámci snahy o mimosoudní vyřešení vzniklého sporu.
+Nejvyšší soud přezkoumal podaný návrh a shledal, že v posuzovaném případě nejsou splněny zákonné podmínky na přikázání věci.
+Podle § 12 odst. 2 o. s. ř. věc může být jinému soudu téhož stupně přikázána z důvodu vhodnosti.
+Tyto důvody vhodnosti musí být takové povahy, aby z nich jednoznačně plynulo, že jiným než příslušným soudem bude věc projednána rychleji a hospodárněji. Při posuzování podmínek delegace věci a podmínek vhodnosti má pak zásadní význam i stanovisko účastníků řízení. Nelze rovněž nezdůraznit, že postup podle § 12 odst. 2 o. s. ř. je výjimkou ze zásady, že řízení koná soud, jehož příslušnost je určena zákonem. Z tohoto důvodu se musí skutečnosti, které jsou podkladem pro delegaci, vyznačovat určitou mimořádností. Okolnost, že žalobci bydlí mimo obvod příslušného soudu a žalobkyně vykonala marnou cestu k nařízenému jednání, k němuž se nedostavil žalovaný, se požadovanou mimořádností nevyznačuje, naopak jde o situaci běžnou. Taktéž požadavek na hospodárnější řízení, pokud by bylo konáno u navrhovaného soudu, by v daném případě nebyl splněn, když žalobci tímto hlediskem argumentovali vágně a nijak jej nedoložili. V úvahu bylo nutné vzít i zásadně nesouhlasné stanovisko žalovaného i skutečnost, že Okresní soud v Jeseníku je s problematikou celé věci již obeznámen z průběhu dosavadního řízení.
+Vzhledem k výše uvedeným skutečnostem Nejvyšší soud neshledal splnění podmínek pro tzv. delegaci vhodnou podle § 12 odst. 2 o. s. ř. a návrh na přikázání věci Obvodnímu soudu pro Prahu 6 zamítl.
+Nejvyšší soud věc posoudil podle občanského soudního řádu ve znění účinném do 31. 12. 2000 (srov. část 12, hlava I, bod 4 zák. č. 30/2000 Sb., kterým se mění zák. č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů a některé další zákony).
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 16. října 2001
+Předseda senátu:
+JUDr. František Hrabec
