@@ -1,0 +1,33 @@
+30 Cdo 2703/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Olgy Puškinové a soudců JUDr. Romana Fialy a JUDr. Pavla Pavlíka v právní věci žalobkyně R. S., zastoupené advokátem, proti žalované České republice - Magistrátu města O., o nejasné podání, vedené u Okresního soudu v Olomouci pod sp. zn. 7 Nc 310/2000, o dovolání žalobkyně proti usnesení Krajského soudu v Ostravě - pobočka v Olomouci ze dne 21. 2. 2003, č. j.
+40 Co 95/2003 - 63, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Olomouci usnesením ze dne 30. 7. 2002, č. j. 7 Nc 310/2000 - 57, odmítl podle § 43 odst. 2 o. s. ř. podání žalobkyně ze dne 20. 9. 2000, doplněné podáním ze dne 15. 7. 2002, jimiž se domáhala „peněžitého plnění - příspěvků
+na bydlení, a rozhodl o náhradě nákladů řízení, neboť ani po té, kdy usnesením soudu
+ze dne 18. 6. 2002, č. j. 7 Nc 310/2000 - 45, byla vyzvána k odstranění vad podání
+a byla poučena o tom, jak má opravu a doplnění provést, a rovněž i o následcích neodstranění vad podání, nesplňovalo podání žalobkyně náležitosti žaloby podle § 42
+a § 79 o. s. ř., a pro tento nedostatek nebylo možno v řízení pokračovat.
+K odvolání žalobkyně Krajský soud v Ostravě - pobočka v Olomouci usnesením
+ze dne 21. 2. 2003, č. j. 40 Co 95/2003 - 63, usnesení soudu prvního stupně potvrdil
+a rozhodl o náhradě nákladů odvolacího řízení. Odvolací soud se ztotožnil se závěrem soudu prvního stupně, že podání žalobkyně nesplňuje náležitosti žaloby, neboť „rozhodující skutečnosti jsou vylíčeny velmi kuse a rozporně tak, že nelze seznat, zda je vůbec dána pravomoc soudu“, z podání není patrno „jaké skutky mají být předmětem řízení“ a čeho se žalobkyně domáhá, neboť v něm není uvedena peněžitá částka, kterou žalobkyně požaduje zaplatit, a chybí i návrh rozsudečného výroku. Protože žalobkyně ani přes výzvu soudu nedostatky žalobního návrhu neodstranila, postupoval soud prvního stupně správně podle § 43 odst. 2 o. s. ř.
+Proti tomuto usnesení podala žalobkyně dne 11. 7. 2003 dovolání, aniž při tomto úkonu byla zastoupena advokátem. Poté, co žalobkyně byla soudem prvního stupně poučena o nuceném zastoupení dovolatele v dovolacím řízení a byla vyzvána, aby
+ve lhůtě 8 dnů zaslala soudu plnou moc udělenou advokátovi, podala dne 12. 8. 2003 žádost o ustanovení zástupce pro dovolací řízení a o osvobození od soudních poplatků; této její žádosti bylo vyhověno usnesením soudu prvního stupně ze dne 16. 1. 2004, č. j. 7 Nc 310/2000 - 83, jímž žalobkyni bylo přiznáno osvobození od soudních poplatků
+a k ochraně jejích zájmů jí byl ustanoven zástupcem v této věci JUDr. P. L., advokát. Odvolání žalobkyně podané proti tomuto usnesení bylo odmítnuto usnesením Krajského soudu v Ostravě - pobočka v Olomouci ze dne 20. 5. 2004, č. j. 12 Co 355/2004 - 100. Vlastnoručně sepsané dovolání žalobkyně však nebylo advokátem doplněno, ani stvrzeno (podepsáno).
+Nejvyšší soud jako soud dovolací (§ 10a o. s. ř.) po zjištění, že dovolání, které bylo proti pravomocnému usnesení odvolacího soudu podáno oprávněnou osobou, účastníkem řízení, ve lhůtě uvedené v ust. § 240 odst. 1 o. s. ř., dospěl k závěru, že v dané věci brání rozhodnutí o dovolání nedostatek podmínky dovolacího řízení.
+Podle ustanovení § 240 odst. 1 věty první o. s. ř. účastník může podat dovolání
+do dvou měsíců od doručení rozhodnutí odvolacího soudu u soudu, který rozhodoval
+v prvním stupni.
+Podle ustanovení § 241 odst. 1 věty první o. s. ř. není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Podle ustanovení § 241 odst. 2 o. s. ř. odstavec 1 neplatí, a) je-li dovolatelem fyzická osoba, která má právnické vzdělání,
+b) je-li dovolatelem právnická osoba, stát, obec nebo vyšší územně samosprávný celek, jedná-li za ně osoba uvedená v § 21, 21a, anebo v § 21b, která má právnické vzdělání. Podle odst. 4 dovolání musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem, notářem nebo osobou uvedenou v § 21, 21a, 21b, anebo v § 26a odst. 3, která má právnické vzdělání.
+Pro podání dovolání, které je mimořádným opravným prostředkem, zákon stanoví požadavek, aby účastník řízení, který podává dovolání, měl buď sám právnické vzdělání, nebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc. Ustanovení § 241 o. s. ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejího splnění nelze o dovolání rozhodnout. Byl-li dovolateli ustanoven zástupce pro dovolací řízení až poté, co sám podal dovolání, je nezbytné ke splnění požadavku nuceného zastoupení vyplývajícího z ust. § 241 odst. 4 o. s. ř., aby zástupce již učiněné podání nahradil nebo doplnil vlastním podáním nebo aby alespoň písemně nebo ústně do protokolu sdělil soudu, že se s dovolatelem učiněným podáním ztotožňuje; nestane-li se tak, nebylo požadavku povinného zastoupení vyhověno.
+V dané věci podala žalobkyně vlastnoručně sepsané dovolání proti usnesení odvolacího soudu a nebylo prokázáno (ani tvrzeno), že by sama měla právnické vzdělání. Usnesením Okresního soudu v Olomouci ze dne 17. 9. 2004, č. j. 7 Nc 310/2000 -108, byla dovolatelka vyzvána, aby ve lhůtě 15 dnů od doručení tohoto usnesení odstranila vady a provedla doplnění dovolání, které bylo doručeno soudu dne 11. 7. 2003, tak, že uvede spisovou značku a den vyhlášení rozhodnutí, označí výrok, jenž napadá, dovolací důvod a dovolací návrh, s poučením, že pokud tak neučiní, dovolací soud dovolání odmítne; současně byla poučena o tom, že nebude-li ve lhůtě podání opraveno nebo doplněno, a v řízení nebude možno pro tento nedostatek pokračovat, dovolací soud usnesením podání, kterým se zahajuje dovolací řízení, odmítne. Usnesení bylo zástupci žalobkyně doručeno dne 11. 10. 2004, avšak dosud nebylo výzvě vyhověno a nedostatek povinného zastoupení dovolatelky nebyl odstraněn, neboť zástupce žalobkyně až doposud neučinil úkon, jímž by se s dovoláním podaným samotnou účastnicí ztotožnil, nebo toto dovolání doplnil či nahradil vlastním podáním.
+Vzhledem k tomu, že nedostatek podmínky dovolacího řízení podle ust. § 241 odst. 1 věty první, odst 4 o. s. ř. nebyl ani přes poučení odstraněn, Nejvyšší soud dovolací řízení podle § 243c odst. 1 a § 104 odst. 2 věty třetí o. s. ř. zastavil.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5,
+§ 224 odst. 1 a § 146 odst. 1 písm. c) o. s. ř., když žalované v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 19. ledna 2005
+JUDr. Olga Puškinová, v. r.
+předsedkyně senátu
