@@ -1,0 +1,55 @@
+30 Cdo 866/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci žalobce J. C., zastoupeného advokátem proti žalované obchodní společnosti B., akciová společnost, zastoupené advokátkou, o určení vlastnictví, vedené
+u Okresního soudu pro Prahu-východ pod sp. zn. 4 C 211/97, o dovolání žalované proti rozsudku Krajského soudu v Praze ze dne 23. května 2001, č.j. 25 Co 630/2000-139, takto:
+I. Dovolání žalované se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud pro Prahu-východ rozsudkem ze dne 6. března 2000 pod č.j.
+4 C 211/97-70 určil, že žalobce je vlastníkem stavebních pozemků ČST 1/1 s domem č.p.1, 1/2 s domem č.p. 3, 3/1 se stodolou a 4/1 se zemědělskou hospodářskou budovou, dále pozemkových parcel č. 18, 23/1, 27, 34, 80/1 a 100/14, a dále pozemků
+ve zjednodušené evidenci - parcel původního pozemkového katastru č. 33/1, 97/1, 116 a 100/15, vše v katastrálním území B. (výrok I.). Dále výrokem II. zamítl žalobu
+o určení vlastnictví žalobce k parcele č. 33/36 v katastrálním území B. Současně rozhodl o náhradě nákladů řízení.
+Krajský soud v Praze rozhodl o odvolání obou účastníků proti uvedenému rozsudku soudu prvního stupně rozsudkem ze dne 23. května 2001, č.j. 25 Co 630/2000-139, tak, že rozsudek soudu prvého stupně potvrdil s upřesněním, že nemovitosti jsou zapsány na listu vlastnictví č. 2038 pro obec Zdiby a katastrální území B.
+u Katastrálního úřadu P. Dále zastavil odvolací řízení týkající se zamítavé části výroku rozsudku soudu prvního stupně. Rozhodl též o náhradě nákladů odvolacího řízení. Zamítl též návrh na připuštění dovolání v této věci.
+Odvolací soud své rozhodnutí odůvodnil tím, že žalobce prokázal, že má naléhavý právní zájem na určovací žalobě ve smyslu ustanovení § 80 písm. c) občanského soudního řádu (dále jen \"o.s.ř.) ve znění před novelizací provedenou zákonem č. 30/2000 Sb. Žalobce pak prokázal, že platně písemně dopisem ze dne
+25. září 1995 odstoupil od kupní smlouvy ze dne 15. prosince 1993. Stal se tak
+ze zákona znovu vlastníkem předmětných nemovitostí, přičemž jeho vlastnické právo se nemohlo promlčet.
+Rozsudek odvolacího soudu nabyl právní moci dne 24. srpna 2001.
+Proti uvedenému rozsudku Krajského soudu v Praze podala žalovaná dne
+24. září 2001 včasné dovolání, které později doplnila podáním ze dne 3. října 2001.
+Ve vlastním dovolání jeho přípustnost odůvodnila odkazem na ustanovení § 239
+odst. 2 o.s.ř. v uvedeném znění a jako dovolací důvod uvedla odkaz na ustanovení
+§ 241 odst. 3 písm. d) o.s.ř. Podle dovolatelky rozsah přezkumu je dán v otázce
+po právní stránce zásadního právního významu, kterou je naléhavý právní zájem
+na určení vlastnictví a v otázce pravosti vůle učiněného odstoupení od smlouvy.
+V doplnění dovolání pak dovolatelka dále vytýká, že odvolací soud při svém rozhodování vycházel ze skutkového zjištění, které nemá oporu v provedeném dokazování. (Současně poukazuje na výtku nesprávného právního posouzení věci).
+Dovolatelka především dovozuje, že v dané věci nebyl na straně žalobce naléhavý právní zájem na určení vlastnictví k předmětným nemovitostem ve smyslu ustanovení § 80 písm. c) o.s.ř. Tento názor pak odůvodňuje konkrétními skutkovými okolnostmi. Dovolatelka dále poukazuje na důkazy, jež jsou (podle jejího názoru)
+v rozporu s tvrzením odstoupení od smlouvy žalobcem. Dovolatelka má zato, že z jí předložených důkazů plyne, že žalobce od uzavřené kupní smlouvy neodstoupil. Nemohlo tak dojít k restituci jeho vlastnického práva k předmětným nemovitostem. Dovolatelka proto žádá, aby napadený rozsudek Krajského soudu v Praze byl zrušen
+a aby věc byla vrácena tomuto soudu k dalšímu řízení.
+K dovolání žalované nebylo podáno žalobcem vyjádření.
+Dovolání žalované není přípustné.
+S přihlédnutím k části dvanácté, hlavě první, bodu 17. zákona č. 30/2000 Sb., kterým byl novelizován mimo jiné též občanský soudní řád, Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) věc projednal a rozhodl podle znění občanského soudního řádu účinného do 31. prosince 2000. Důvodem byla skutečnost, že odvolací soud, který rozhodoval o odvolání proti rozsudku soudu prvního stupně vydaného ještě před uvedeným datem, postupoval podle dosavadních předpisů.
+Nejde-li o případ vad řízení uvedených v ustanovení § 237 o.s.ř. (o čemž bude učiněna zmínka posléze), je třeba v případě, že je dovoláním napaden rozsudek odvolacího soudu, zkoumat otázku přípustnosti dovolání proti takovému rozhodnutí podle ustanovení § 238 odst.1 o.s.ř. a § 239 odst. 1 a 2 téhož zákona.
+V posuzované věci odvolací soud potvrdil rozsudek soudu prvního stupně. Odvolacím soudem potvrzenému rozsudku soudu prvního stupně nepředcházel případný jiný (a následně zrušený) rozsudek téhož soudu (§ 238 odst. 1 o.s.ř.). Soud druhého stupně též ve výroku nevyslovil, že je proti jeho rozsudku dovolání přípustné (§ 239 odst. 1 o.s.ř.), resp. žalobcem v tomto směru podaný návrh dokonce výslovně zamítl
+(§ 239 odst. 2 o.s.ř.).
+Podle ustanovení § 239 odst. 2 o.s.ř. nevyhoví-li odvolací soud návrhu účastníka na vyslovení přípustnosti dovolání, který byl učiněn nejpozději před vyhlášením potvrzujícího rozsudku, je dovolání podané tímto účastníkem přípustné, jestliže dovolací soud dospěje k závěru, že napadené rozhodnutí odvolacího soudu má po právní stránce zásadní význam. Zde je nutno poukázat na skutečnost, že zákon ve svém ustanovení § 239 svěřuje odvolacímu, ale i dovolacímu soudu oprávnění založit, resp.
+v případě § 239 odst. 2 o.s.ř. posoudit přípustnost dovolání proti rozhodnutí odvolacího soudu, proti němuž by jinak dovolání nebylo přípustné. Zde je poukazováno na to, že zákonodárce zvolil takové řešení, které umožňuje v každé konkrétní věci posoudit, zda význam rozhodnutí vyžaduje jeho přezkoumání v dovolacím řízení. Je nepochybné, že připuštění přezkoumání rozhodnutí odvolacího soudu tímto způsobem má povahu výjimečného opatření, a že je vyhrazeno jen pro řešení závažných právních otázek, přičemž je nezbytné, aby šlo o takové otázky, které se staly vlastním právním podkladem rozhodnutí odvolacího soudu. Musí se současně jednat o takové právní otázky, jejichž právní význam se vztahuje ne toliko úzce k vlastní projednávané věci, ale jejich právní dopad je třeba posuzovat obecně. K naplnění tohoto předpokladu proto dochází především tehdy, jde - li o řešení právních otázek v právní teorii a praxi dosud sporných a judikaturou neřešených.
+Jestliže zákon uděluje toto oprávnění jen jako výjimečné a za výslovného předpokladu, že jde o rozhodnutí po právní stránce zásadního významu, pak se dovozuje, že dovolání v těchto případech může být připuštěno jen pro řešení právních otázek. Z této zákonné zásady je proto třeba dovodit, že dovolatel je oprávněn napadnout rozhodnutí odvolacího soudu za podmínek ustanovení § 239 odst. 1 a 2 o.s.ř., jen z důvodu uvedeného v § 241 odst. 3 písm. d) o.s.ř., t.j. pouze proto, že rozhodnutí spočívá na nesprávném právním posouzení věci. Za nesprávné právní posouzení je pak třeba považovat omyl soudu při aplikaci práva na zjištěný skutkový stav. O takový případ jde tehdy, jestliže soud buď použil při právním posouzení věci jiný právní předpis, než který měl správně použít, nebo jestliže sice správně aplikoval správný právní předpis, ale nesprávně jej vyložil.
+V posuzovaném případě však z napadeného rozhodnutí nevyplývá (a dovolatel to ani sám případně netvrdí), že by odvolací soud ve věci aplikoval nesprávný právní předpis, resp. nesprávné právní ustanovení. Na základě hodnocení skutkových zjištění, které vyplynuly z průběhu dokazování, dospěl odvolací soud ke správnému závěru, že účastníci uzavřeli platnou kupní smlouvu, od které také v souladu s ustanovením § 517 odst. 1 o.z. a § 48 odst. 2 téhož zákona žalobce platně odstoupil. Dovolací soud má pak zato, že z napadeného rozhodnutí nevyplývá, že by se soud druhého stupně v této souvislosti dostal do interpretačních obtíží při aplikaci příslušných ustanovení občanského zákona. zákona. Jak vyplývá z obsahu dovoláním napadeného rozsudku, odvolací soud při právním posouzení věci exponoval právně standardním způsobem
+na věc dopadající ustanovení zmíněného předpisu. S přihlédnutím k obsahu dovolání je třeba zdůraznit skutečnost, že skutečně dovoláním napadené rozhodnutí není možno posuzovat jako rozhodnutí, které by řešilo otázku zásadního právního významu. Nadto ani sám dovolatel nenaznačuje jakoukoliv zásadnější právní otázku, která by
+při rozhodování soudů z takovéhoto pohledu činila obtíže. Nelze tudíž dovodit, že by dovoláním napadený rozsudek Krajského soudu v Praze naplňoval zákonný předpoklad obsažený v ustanovení § 239 odst. 1 a 2 o.s.ř., totiž, že by se (z obecného pohledu) jednalo o rozhodnutí po právní stránce zásadního významu, t.j. rozhodnutí řešící především doposud spornou zásadní právní otázku.
+To pak odůvodňuje související závěr, že v tomto smyslu soud druhého stupně též nejen že nepochybil, pokud proti tomuto svému rozhodnutí nepřipustil dovolání, ale nejsou zde dány ani předpoklady k tomu, aby možnost dovolání v označené věci založil podle ustanovení § 239 odst. 2 o.s.ř. sám dovolací soud.
+Povinností dovolacího soudu je však dále s ohledem na ustanovení § 237 odst. 1 o.s.ř. zabývat se otázkou, zda dovoláním napadené rozhodnutí nebylo poznamenáno některou z vad v označeném ustanovení uvedených. Dovolací soud zde konstatuje, že
+z obsahu spisu a ani z napadeného rozhodnutí odvolacího soudu se nepodává případná vada podřaditelná pod předpoklady obsažené v ustanovení § 237 odst. 1 o.s.ř. Přípustnost dovolání proti napadenému rozsudku proto není založena ani z tohoto důvodu.
+Konečně na závěr je nutno zmínit, že podle ustanovení § 242 odst. 3 věta druhá o.s.ř. k vadám řízení, které mohly mít za následek nesprávné rozhodnutí ve věci, dovolací soud přihlédne (a to i když by např. nebyly uplatněny v dovolání), avšak jen
+za předpokladu, pokud je ve věci přípustné dovolání. Tento poslední předpoklad však
+v posuzované věci - jak již bylo výše uvedeno - též naplněn není.
+Při uvážení vyloženého je proto nutno konstatovat, že je zřejmé, že
+v posuzovaném případě nebyly naplněny předpoklady přípustnosti dovolání ve smyslu ustanovení § 238 odst. 1 o.s.ř. ani podle ustanovení § 239 odst. 1 a 2 téhož zákona.
+Ze spisu nebyl zjištěn žádný z případů přípustnosti dovolání podle ustanovení § 237 o.s.ř.
+Protože tedy v případě dovolání žalované nebyly dány předpoklady jeho přípustnosti, dovolací soud z těchto důvodů podané dovolání odmítl jako nepřípustné podle § 243b odst. 4 věta prvá o.s.ř. ve spojení s § 218 odst. 1 písm. c) o.s.ř., aniž se tak mohl zabývat věcnou správností napadeného rozhodnutí. Rozhodoval přitom, aniž nařídil jednání (§ 243a odst. 1 věta první o.s.ř.).
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 4 věta prvá o.s.ř. ve spojení s § 224 odst. 1, § 142 odst. 1 věta prvá a § 151 odst. 1 o.s.ř., když žalovaná neměla se svým dovoláním úspěch a žalobci v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 29. dubna 2004
+JUDr. Pavel Pavlík, v. r.
+předseda senátu
