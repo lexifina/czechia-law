@@ -1,0 +1,21 @@
+33 Odo 573/2001-67
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci žalobkyně F.V., proti žalovanému R.B., o zaplacení částky 350 000 Kč s příslušenstvím, vedené u Okresního soudu v Hodoníně pod sp. zn. 4 C 1364/96, o dovolání žalobkyně proti rozsudku Krajského soudu v Brně ze dne 4. dubna 2001 č.j. 15 Co 567/98-49, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Hodoníně rozsudkem ze dne 15. července 1998 č. j. 4 C 1364/96-35 zamítl žalobu, jíž se žalobkyně domáhala, aby byla žalovanému uložena povinnost zaplatit žalobkyni částku 350 000 Kč s 19% úrokem z prodlení od 28. 3. 1995 do zaplacení, a rozhodl o náhradě nákladů řízení.
+K odvolání žalobkyně Krajský soud v Brně rozsudkem ze dne 4. dubna 2001 č. j. 15 Co 567/98-49 rozsudek soudu prvního stupně potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Proti rozsudku odvolacího soudu, podala žalobkyně dovolání, neboť podle jejího názoru spočívá rozhodnutí odvolacího soudu na nesprávném právním posouzení věci. Žalobkyně navrhla, aby dovolací soud zrušil rozsudek odvolacího soudu a věc mu vrátil k dalšímu řízení.
+Podle ustanovení části dvanácté hlavy I bodu 17 zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, se dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona (1. 1. 2001) nebo vydaným po řízení provedeném podle dosavadních právních předpisů projednají a rozhodnou podle dosavadních právních předpisů (tedy podle občanského soudního řádu ve znění platném do 31. 12. 2000 – dále jen „o. s. ř.“). Tak je tomu i v daném případě, kdy byl rozsudek odvolacího soudu vydán po řízení provedeném podle dosavadních právních předpisů, tedy podle o. s. ř. ve znění platném do 31. 12. 2000.Podle části dvanácté hlavy I bodu 15 zákona č. 30/2000 Sb. se totiž odvolání proti rozhodnutím soudu prvního stupně vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů projednají a rozhodnou podle dosavadních právních předpisů. V posuzované věci byl rozsudek soudu prvního stupně vydán dne 15. července 1998 .
+Dovolání v této věci není přípustné.
+Podle ustanovení § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Proti každému rozhodnutí odvolacího soudu (s výjimkou rozhodnutí uvedených v § 237 odst. 2 o. s. ř.) je podle § 237 odst. 1 o. s. ř. dovolání přípustné, trpí-li řízení vadami uvedenými v tomto ustanovení. V daném případě však dovolatelka netvrdí, že by řízení těmito vadami trpělo a takové vady se nepodávají ani ze spisu.
+Proti potvrzujícímu rozsudku odvolacího soudu je dovolání přípustné, jestliže odvolací soud ve výroku svého rozhodnutí vyslovil, že dovolání je přípustné, protože jde o rozhodnutí po právní stránce zásadního významu (§ 239 odst. 1 o. s. ř.). To se však v dané věci nestalo. Nevyhoví-li odvolací soud návrhu účastníka na vyslovení přípustnosti dovolání, který byl učiněn nejpozději před vyhlášením potvrzujícího rozsudku, je dovolání podané tímto účastníkem přípustné, jestliže dovolací soud dospěje k závěru, že napadené rozhodnutí odvolacího soudu má po právní stránce zásadní význam (§ 239 odst. 2 o. s. ř.). V posuzované věci však žalobkyně vyslovení přípustnosti dovolání nenavrhla.
+Konečně je podle § 238 odst. 1 písm. b) o. s. ř. dovolání přípustné proti rozsudku odvolacího soudu, jímž byl potvrzen rozsudek soudu prvního stupně, kterým soud prvního stupně rozhodl jinak než v dřívějším rozsudku proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil. Podmínky tohoto ustanovení v dané věci však rovněž splněny nejsou, neboť odvolacím soudem byl potvrzen v pořadí prvý rozsudek soudu prvního stupně..
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř. ) proto podle § 243b odst. 4 a § 218 odst. 1 písm. c) o. s. ř. dovolání odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 4, § 224 odst. 1, § 151 odst. 1 a § 142 odst. 1 o. s. ř., když úspěšnému žalovanému žádné náklady dovolacího řízení nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. září 2001
+JUDr. Zdeněk D e s, v. r.
+předseda senátu
