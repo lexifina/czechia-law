@@ -1,0 +1,17 @@
+11 Tvo 12/2003
+U S N E S E N Í
+Nejvyšší soud projednal v neveřejném zasedání konaném dne 30. 5. 2003 stížnost obviněných N. N. H. a T. H. N., proti usnesení Vrchního soudu v Praze ze dne 22. 4. 2003, č. j. 3 To 40/2003-818, a rozhodl t a k t o :
+Podle § 148 odst. 1 písm. c) tr. řádu s e stížnost obviněných N. N. H. a T. H. N. z a m í t á .
+O d ů v o d n ě n í :
+Rozsudkem Krajského soudu v Hradci Králové ze dne 22. 1. 2003, sp. zn. 8 T 55/2002, byli obvinění N. N. H. a T. H. N. uznáni vinnými v jednočinném souběhu pokračujícími trestnými činy udávání padělaných a pozměněných peněz podle § 141 tr. zák. a podvodu podle § 250 odst. 1 tr. zák. spáchaných ve spolupachatelství podle § 9 odst. 2 tr. zák. dílem dokonaných, dílem nedokonaných ve stadiu pokusu podle § 8 odst. 1 tr. zák. a odsouzeni k nepodmíněným trestům odnětí svobody v trvání jednoho roku a šesti měsíců, pro jejichž výkon byli zařazeni do věznice s dozorem. Současně bylo rozhodnuto o povinnosti nahradit škodu.
+K odvolání státního zástupce Krajského státního zastupitelství v Hradci Králové a obviněných N. N. H. a T. H. N. byl usnesením Vrchního soudu v Praze ze dne 22. 4. 2003, č. j. 3 To 40/2003-822, podle § 258 odst. 1 písm. b), c) tr. řádu rozsudek Krajského soudu v Hradci Králové ze dne 22. 1. 2003 v celém rozsahu zrušen a podle § 259 odst. 1 tr. řádu byla věc vrácena soudu prvního stupně.
+Vrchní soud v Praze usnesením ze dne 22. 4. 2003, č. j. 3 To 40/2003, podle § 71 odst. 4, 6 tr. řádu ponechal obviněné N. N. H. a T. H. N. z důvodů uvedených v § 67 písm. a), c) tr. řádu i nadále ve vazbě.
+Proti tomuto usnesení podali oba obvinění hned po vyhlášení do protokolu stížnost, kterou dosud blíže nezdůvodnili.
+Nejvyšší soud z podnětu podaných stížností přezkoumal podle § 147 odst. 1 tr. řádu správnost napadeného rozhodnutí i řízení, které mu předcházelo, a dospěl k tomuto závěru.
+Oba obvinění jsou ve vazbě od zahájení trestního řízení a o důvodnosti jejich vazby bylo v průběhu dosavadního řízení opakovaně rozhodováno, naposledy usnesením Vrchního soudu v Praze ze dne 22. 4. 2003, kterým byli i nadále z důvodů uvedených v § 67 písm. a), c) tr. řádu ponecháni ve vazbě. Obvinění jsou stíháni pro závažnou trestnou činnost, které se měli dopouštět celou řadou útoků na různých místech. Obvinění jsou cizími státními příslušníky, kteří nemají na území České republiky povolen pobyt a nemají na našem území ani trvalé bydliště. S ohledem na právní posouzení žalované trestné činnosti jsou oba obvinění k odvolání krajského státního zástupce stále ohroženi poměrně vysokou trestní sazbou. Za tohoto stavu je obava, že by na svobodě trestnou činnost opakovali a dalšímu trestnímu řízení se vyhýbali, zcela reálná. V tomto směru lze odkázat na zdůvodnění všech předchozích rozhodnutí, včetně výroku i odůvodnění napadeného usnesení vrchního soudu. Protože se Nejvyšší soud s tímto rozhodnutím plně ztotožňuje, nemohly se stížnosti obviněných N. N. H. a T. H. N. setkat s úspěchem a nezbylo než rozhodnout, jak je ve výroku tohoto usnesení uvedeno.
+Trestní řízení proti obviněným trvá zatím dobu, která je přiměřená náročnosti projednávané věci, žádné nepřiměřené průtahy během tohoto řízení zjištěny nebyly.
+Ze všech těchto důvodů bylo rozhodnuto, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 30. května 2003
+Předseda senátu:
+JUDr. Pavel Kučera
