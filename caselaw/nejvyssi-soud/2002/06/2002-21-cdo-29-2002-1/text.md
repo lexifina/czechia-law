@@ -1,0 +1,17 @@
+21 Cdo 29/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a JUDr. Zdeňka Novotného v právní věci žalobce K. H., proti žalovaným „1) Federálnímu ministerstvu vnitra a 2) Důstojnické a praporčické škole SNB a vojsk Ministerstva vnitra Holešov“, o „neplatnost propuštění ze služebního poměru, náhradu způsobených škod a o obnovení výkonu služby v ozbrojených silách“, vedené u Okresního soudu v Kroměříži pod sp. zn. 6 C 135/97, o dovolání žalobce proti usnesení Vrchního soudu v Olomouci ze dne 26. září 2001 č.j. 1 Co 106/2001-58 takto:
+I. Řízení o dovolání žalobce se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Usnesením ze dne 26. 9. 2001, č.j. 1 Co 106/2001-58, Vrchní soud v Olomouci odmítl „podání žalobce“ označené „mimořádný opravný prostředek – odpor, k usn. KS Brno 15 Co 52/2000 ze dne 15. 3. 2001“. Učinil tak proto, že z podání žalobce vyplývalo pouze to, že jím mínil zahájit řízení o mimořádném opravném prostředku, přičemž nebylo jasné, o který mimořádný opravný prostředek se mělo jednat, a šlo o takovou vadu podání, pro kterou nebylo možno v řízení pokračovat. Žalobce byl za této situace vyzván usnesením Okresního soudu v Kroměříži ze dne 12. 7. 2001, č.j. 6 C 135/97-55, aby tuto vadu podání odstranil. K tomu mu byla určena lhůta 20ti dnů od doručení usnesení a byl poučen, že pokud vady podání v této lhůtě neodstraní, bude jeho podání odmítnuto. Žalobce zůstal nečinný.
+Podáním označeným jako dovolání se žalobce domáhá, aby „Nejvyšší soud variantně rozhodl takto: 1. žalobní návrh oprávněného žalobce z r. 1992 podáním k OS Kroměříž není řádně projednatelný v systému současné justice České republiky z politických důvodů, 2. na základě odůvodnění seznaného zcela opodstatněným se přikazuje příslušnému soudu v této věci řádně konat neprodleně“.
+Nejvyšší soud České republiky po přezkoumání věci dospěl k závěru, že dovolací řízení musí být pro neodstranitelný nedostatek podmínek řízení zastaveno.
+Dovolání je mimořádný opravný prostředek, kterým lze napadnout pravomocná rozhodnutí odvolacího soudu (§ 236 odst. 1 o.o.s.ř.).
+V posuzovaném případě Vrchní soud v Olomouci rozhodl o podání žalobce tak, že podání podle ustanovení § 43 odst. 2 o.s.ř. odmítl. Přitom nepřezkoumával žádné rozhodnutí jiného soudu jako soud odvolací. Rozhodnutí Vrchního soudu, jímž je podání odmítnuto proto, že přes poučení soudem nebyly vady podání odstraněny tak, aby bylo podání projednatelné, není rozhodnutím odvolacího soudu. Již z tohoto důvodu je dovolání proti takovému rozhodnutí vyloučeno; občanský soudní řád proto ani neupravuje funkční příslušnost pro jeho projednání.
+Nedostatek funkční příslušnosti je neodstranitelným nedostatkem podmínek řízení. Nejvyšší soud České republiky proto řízení o dovolání žalobce podle ustanovení § 243c odst. 1 a § 104 odst. 1 věty první o.s.ř. zastavil (srov. též usnesení Nejvyššího soudu ČR ze dne 30. 11. 1997, sp. zn. 2 Cdon 1391/96, uveřejněné pod č. 21 Sbírky soudních rozhodnutí a stanovisek, ročník 1998).
+O náhradě nákladů řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první o.s.ř., § 224 odst. 1 a § 151 odst. 1 věty první o.s.ř., neboť žalobce s ohledem na výsledek řízení na náhradu svých nákladů nemá právo a žalovaným žádné náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 13. června 2002
+JUDr. Mojmír Putna, v. r.
+předseda senátu
