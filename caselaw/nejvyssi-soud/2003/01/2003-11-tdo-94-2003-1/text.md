@@ -1,0 +1,18 @@
+11 Tdo 94/2003
+U S N E S E N Í
+Nejvyšší soud rozhodl v neveřejném zasedání dne 30. ledna 2003 o dovolání obviněného R. P., proti rozsudku Krajského soudu v Českých Budějovicích ze dne 30. 9. 2002, sp. zn. 3 To 438/2002, v trestní věci vedené u Okresního soudu v Českých Budějovicích pod sp. zn. 3 T 63/2001, t a k t o:
+Podle § 265i odst. 1 písm. b) tr. ř. s e dovolání obviněného R. P.
+o d m í t á .
+O d ů v o d n ě n í :
+Obviněný R. P. podal prostřednictvím obhájce v zákonné lhůtě dovolání proti rozsudku Krajského soudu v Českých Budějovicích ze dne 30. 9. 2002, sp. zn. 3 To 438/2002, jímž byl k jeho odvolání změněn ve výroku o trestu rozsudek Okresního soudu v Českých Budějovicích ze dne 9. 4. 2002 č. j. 3 T 63/2001 – 449. Dovoláním obviněný napadl výrok o vině, trestu i náhradě škody a opřel je o dovolací důvod stanovený v § 265b odst. 1 písm. g) tr. ř. Navrhl, aby Nejvyšší soud zrušil napadené rozhodnutí a aby vrátil věc soudu k novému projednání a rozhodnutí.
+Nejvyšší soud shledal, že jde o dovolání podané ve skutečnosti z jiného důvodu, než je uveden v § 265b tr. ř.
+Podle § 265b odst. 1 písm. g) tr. ř. dovolání lze podat, jestliže rozhodnutí spočívá na nesprávném právním posouzení skutku nebo jiném nesprávném hmotně právním posouzení.
+Takto stanovený dovolací důvod znamená, že v dovolání je možné namítat nesprávnou právní kvalifikaci skutku, který byl zjištěn soudem. Je tedy možné namítat, že skutek zjištěný soudem byl v rozporu se zákonem kvalifikován jako trestný čin, ačkoli vůbec nešlo o trestný čin nebo šlo o jiný trestný čin, než jakým byl obviněný uznán vinným. To znamená, že v dovolání lze uplatňovat pouze p r á v n í námitky vázané ke skutkovému stavu, jak byl zjištěn soudem, avšak nelze uplatňovat s k u t k o v é námitky, tj. námitky proti skutkovým zjištěním soudu, proti hodnocení důkazů apod.
+V posuzovaném případě obviněný opřel své dovolání v zásadě jen o námitky směřující proti skutkovým zjištěním, které se staly podkladem výroku o vině. Obviněný totiž namítl, že byly nesprávně zjištěny a zhodnoceny skutkové okolnosti, na základě kterých soudy učinily závěr o tom, že obviněný naplnil všechny zákonné znaky skutkové podstaty trestného činu podvodu podle § 250 odst. 1, 3 písm. b) tr. zákona, včetně zákonem vyžadované úmyslné formy zavinění. Obviněný v tomto směru vytýká, že v případě spoluobviněného M. J. soudy po zhodnocení provedených důkazů dospěly k tomu, že jej zprostily obžaloby, zatímco v jeho případě tyto důkazy vyhodnotily tak, že dovolatele uznaly vinným. Poukázal též na to, že dle svědeckých výpovědí to byl právě spoluobviněný J., který přebíral peníze za dodané zboží a že obsah těchto svědectví nebyl náležitě vyhodnocen. Obviněný se tak v dovolání ve skutečnosti domáhá změny skutkových závěrů učiněných soudy obou stupňů v tom, že teprve po uzavření jednotlivých smluv nastaly u něj překážky bránící mu v plnění přijatých závazků.
+Obviněný však v dovolání ve skutečnosti neuplatnil žádnou námitku, která by se jakkoli týkala právního posouzení skutku zjištěného soudem. Jeho dovolání bylo zaměřeno jen na to, aby dosáhl změny skutkových zjištění, z nichž soudy vycházely. Tím se dovolání obviněného ocitlo zcela mimo rámec zákonného dovolacího důvodu.
+Obviněný v dovolání sice formálně deklaroval dovolací důvod podle § 265b odst. 1 písm. g) tr. ř., avšak dovolání založil na námitkách, které obsahově tento dovolací důvod nenaplňují.
+Proto Nejvyšší soud dovolání obviněného podle § 265i odst. 1 písm. b) tr. ř. odmítl, aniž z jeho podnětu přezkoumal napadené usnesení a předcházející řízení podle § 265i odst. 3 tr. ř.
+P o u č e n í : Proti rozhodnutí o dovolání není s výjimkou obnovy řízení opravný prostředek přípustný.
+V Brně dne 30. ledna 2003
+Předseda senátu:
+JUDr. Antonín Draštík
