@@ -1,0 +1,25 @@
+29 Odo 303/2001
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobkyně L. B., proti žalované L. V., o zaplacení 512.000,- s přísl., vedené u Okresního soudu v Příbrami pod sp. zn. 11 C 133/94, o dovolání žalované proti rozsudku Krajského soudu v Praze ze dne 7. prosince 2000, č. j. 29 Co 188/2000-183, takto:
+I. Dovolání se odmítá.
+II. Žalovaná je povinna zaplatit žalobkyni na náhradě nákladů dovolacího řízení 7.575,- Kč do 3 dnů od právní moci tohoto usnesení k rukám jejího právního zástupce.
+O d ů v o d n ě n í:
+Krajský soud v Praze rozsudkem ze dne 7. prosince 2000, č. j. 29 Co 188/2000-183 potvrdil rozsudek soudu Okresního soudu v Příbrami ve výroku, kterým tento soud uložil žalované povinnost zaplatit žalobkyni částku 348 800,- Kč.
+Proti rozsudku odvolacího soudu podala žalovaná (podáním datovaným 14. března 2001 a podaným na podatelně soudu prvního stupně dne 16. března 2001), dovolání, v němž namítá, že napadené rozhodnutí vychází ze skutkového zjištění, která nemá v podstatné části oporu v provedeném dokazování a rozhodnutí spočívá na nesprávném právním posouzení věci a požaduje, aby Nejvyšší soud napadený rozsudek, stejně jako rozsudek soudu prvního stupně, zrušil a věc vrátil soudu prvního stupně k dalšímu řízení.
+K dovolání žalované se v podání ze dne 2.5.2001 vyjádřila žalobkyně a zejména uvedla, aby dovolací soud dovolání jako opožděně podané odmítl.
+Dovolání bylo podáno opožděně.
+Podle bodu 17., hlavy první, části dvanácté, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (tj. podle občanského soudního řádu ve znění účinném před 1. lednem 2001 - dále též jen „o. s. ř.“).
+Dovolání žalované se proto projedná a rozhodne podle dosavadních předpisů, tj. občanského soudního řádu ve znění platném do 31. 12. 2000, neboť rozhodnutí odvolacího soudu bylo vydáno před 1.1.2001.
+Podle dosavadních právních předpisů proto soud posoudí mj. včasnost dovolání, včetně vymezení běhu lhůty k jeho podání (shodně srov. např. usnesení Nejvyššího soudu ze dne 19. dubna 2001, sp. zn. 29 Odo 196/2001, uveřejněné pod číslem 70/2001 Sbírky soudních rozhodnutí a stanovisek).
+Dovolání v této věci tudíž mohlo být podáno pouze ve lhůtě jednoho měsíce od právní moci rozhodnutí odvolacího soudu (srov. § 240 odst. 1 o. s. ř., ve znění účinném před 1. lednem 2001).
+Rozsudek odvolacího soudu byl doručen zástupci žalované 17. ledna 2001 a téhož dne i právnímu zástupci žalobkyně, právní moci tedy nabyl dne 17. ledna 2001. Ve smyslu ustanovení § 57 odst. 2 o. s. ř. byl tedy posledním dnem jednoměsíční lhůty k podání dovolání 19. únor 2001. Dovolání podané u Okresního soudu v Příbrami dne 16. března 2001 je tudíž zjevně opožděné.
+Dovolací soud pro úplnost uvádí, že pro závěr o opožděnosti podaného dovolání není v daném případě významná okolnost, že žalovaná uvedenou plnou moc odvolala.
+Z obsahu spisu vyplývá, že žalovaná byla v řízení před odvolacím soudem zastoupena advokátem na základě plné moci ze dne 19. 5. 1994 (č.l. 15 spisu). Rozsudek odvolacího soudu v této věci byl právnímu zástupci žalované doručen dne 17. 1. 2001, a tentýž den bylo rozhodnutí doručeno i právnímu zástupci žalobkyně (viz doručenky ve spise, č.l. 187). Dne 18. 1. 2001 došlo soudu prvního stupně podání žalované označené datem 12. 1. 2001, v němž uvádí, že odvolala plnou moc udělenou dosavadnímu právnímu zástupci, a žádá, aby bylo dále doručováno nové právní zástupkyni .
+Účinky spojené s úkonem žalované, tj. s odvoláním plné moci, mohly nastat vůči soudu až po té, kdy mu byla tato skutečnost oznámena (srov. § 28 odst. 3 o. s. ř.); do té doby byla právně významná plná moc udělená žalobci S., založená ve spise. Soud prvního stupně postupoval správně, pokud rozsudek odvolacího soudu doručil tomuto zástupci. O odvolání plné moci se totiž soud dozvěděl až dne 18. ledna 2001, tedy po té, kdy již byl rozsudek odvolacího soudu řádně doručen ve smyslu ust. § 49 odst. 1 o. s. ř.
+S ohledem na shora uvedené Nejvyšší soud podle § 243b odst. 4 a § 218 odst. 1 písm. a) o. s. ř. dovolání pro opožděnost odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 4 o. s. ř. v návaznosti na ust. § 224 odst. 1 a § 146 odst. 2, věty první o. s. ř. (per analogiam), s ohledem na to, že žalovaná z procesního hlediska zavinila, že dovolání bylo odmítnuto, tak, že žalovaná je povinna uhradit žalobkyni na náhradu nákladů dovolacího řízení 7.575,- Kč (§ 3 odst. 1, § 10 odst. 3, § 14 odst. 1, § 15 a § 18 odst. 1 vyhl. č. 484/2000 Sb. a § 13 odst. 3 vyhl. č. 177/1996 Sb.).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+Nesplníli-li povinná dobrovolně, co jí ukládá toto vykonatelné rozhodnutí, může se oprávněná domáhat soudního výkonu rozhodnutí.
+V Brně 27. června 2002
+JUDr. Ing. Jan Hušek, v.r.
+předseda senátu
