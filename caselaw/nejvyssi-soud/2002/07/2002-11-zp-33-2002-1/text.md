@@ -1,0 +1,22 @@
+11 Zp 33/2002
+U S N E S E N Í
+Nejvyšší soud České republiky v senátě složeném z předsedy JUDr. Karla Hasche a soudců JUDr. Antonína Draštíka a JUDr. Stanislava Rizmana rozhodl v právní věci navrhovatele politické strany P. B., právně zastoupeného Mgr. J. B., proti odpůrcům 1. J. S., 2. Státní volební komisi se sídlem v Praze 1, U Obecního domu č. 3, o návrhu na vydání rozhodnutí o neplatnosti volby kandidáta do Poslanecké sněmovny Parlamentu České republiky t a k t o:
+Návrh s e z a m í t á.
+Žádný z účastníků nemá právo na náhradu nákladů řízení.
+O d ů v o d n ě n í :
+Navrhovatel podal dne 28. června 2002 v 16.23 hod. telefaxem u Nejvyššího soudu návrh na vydání rozhodnutí o neplatnosti volby kandidáta J. S., kandidujícího za Č. s. s. d. ve Z. kraji ve volbách do Poslanecké sněmovny Parlamentu České republiky v roce 2002. Z jejího obsahu vyplývá, že navrhovatel namítá porušení § 16 odst. 4 zákona č. 247/1995 Sb., o volbách do Parlamentu Poslanecké sněmovny České republiky, ve znění pozdějších předpisů. Dovozuje, že Česká televize a Český rozhlas poskytly v rozporu s uvedením ustanovení podstatně více vysílacího času parlamentním stranám (ČSSD, ODS, KSČM, Koalice KDU-ČSL US-DEU), než stranám tzv. neparlamentním.
+Nejvyšší soud přezkoumal uvedený návrh a dospěl k těmto závěrům:
+Podle § 87 odst. 1 zákona. č. 247/1995 Sb., o volbách do Parlamentu České republiky a o změně a doplnění některých dalších zákonů, ve znění pozdějších právních předpisů (dále jen „zákon“), se podáním návrhu na neplatnost volby kandidáta může domáhat ochrany u soudu podle zvláštního právního předpisu (tj. § 200n o. s. ř.) každý občan zapsaný do stálého seznamu ve volebním okrsku, kde byl poslanec volen, a každá politická strana, politické hnutí nebo koalice, jejíž kandidátní listina ve volebním kraji byla pro volby do Poslanecké sněmovny zaregistrována, přičemž návrh je třeba podat nejpozději deset dnů po vyhlášení výsledků voleb Státní volební komisí.
+Podle § 87 odst. 5 zákona návrh na neplatnost volby kandidáta může navrhovatel podat, má-li zato, že byla porušena ustanovení tohoto zákona způsobem, který mohl ovlivnit výsledek volby tohoto kandidáta.
+Podle § 88 odst. 2 zákona je k řízení o návrhu na neplatnost volby kandidáta příslušný Nejvyšší soud.
+Podle § 97a zákona je lhůta určená podle lhůt zachována, je-li v poslední den lhůty učiněn úkon u příslušného orgánu (tj. podán u Nejvyššího soudu), a to nejpozději do 16.00 hod. Lhůty nelze prodloužit ani prominout jejich zmeškání.
+Řízení se koná podle ustanovení § 200n o. s. ř., kdy účastníkem tohoto řízení je navrhovatel, Státní volební komise a ten, jehož volba poslancem byla napadena (§ 200n odst. 3 o. s. ř.).
+Soud o návrhu rozhodne bez jednání usnesením, a to do dvaceti dnů; usnesení soudu nabývá právní moci dnem vyvěšení na úřední desce soudu (§ 200n odst. 4 o. s. ř.).
+Z ustanovení § 87 odst. 1 a § 97a zákona vyplývá, že soudní přezkoumání voleb je mimo jiné přesně vymezeno dobou, do které se lze přezkumu domáhat.
+Návrh byl podán opožděně, tj. po uplynutí zákonné desetidenní lhůty. Ústřední volební komise vyhlásila výsledky voleb dne 18. 6. 2002. Zákonná lhůta k podání návrhu tak skončila dnem 28. 6. 2002 v 16.00 hod. Nejvyššímu soudu však návrh politické strany P. B. došel dne 28. 6. 2002 v 16.23 hod., tedy až po uplynutí uvedené lhůty. Navrhovatel podal v tuto dobu podání telefaxem adresovaným Nejvyššímu soudu, jak vyplývá z jeho označení. K tomu je třeba dodat, že pracovníci Nejvyššího soudu v 16.00 hod. dne 28. 6. 2002 kontrolovali všechny telefaxové přístroje v budově Nejvyššího soudu a zjistili, že v rozmezí 15.00 a 16.00 hod. nedošlo do budovy Nejvyššího soudu žádné telefaxové podání ve volebních věcech.
+Nejvyššímu soudu s ohledem na shora citovaná ustanovení zákona nezbylo, než návrh z důvodu jeho opožděného podání zamítnout, aniž by mohl meritorně přezkoumávat jeho důvodnost.
+Řízení o návrhu na vydání rozhodnutí o neplatnosti volby kandidáta do Poslanecké sněmovny Parlamentu České republiky je zvláštním druhem řízení ve vztahu k rozhodování o jeho nákladech. Nejvyšší soud má zato, že v posuzovaném případě je nutno s přihlédnutím k předmětu řízení rozhodnout o nákladech řízení podle ustanovení § 146 odst. 1 písm. a) per. analogiam o. s. ř. Proto bylo rozhodnuto, že žádný z účastníků nemá právo na náhradu nákladů řízení.
+Poučení: Proti tomuto rozhodnutí není žádný opravný prostředek přípustný (§ 200n odst. 5 o. s. ř.)
+V Brně dne 2. července 2002
+Předseda senátu:
+JUDr. Karel Hasch
