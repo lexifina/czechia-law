@@ -1,0 +1,13 @@
+11 Tcu 58/2002
+U S N E S E N Í
+Nejvyšší soud České republiky projednal žádost Ministerstva spravedlnosti Slovenské republiky o povolení průvozu J. M., a rozhodl v neveřejném zasedání podle § 383c tr. ř., čl. 30 Smlouvy mezi Českou republikou a Slovenskou republikou o právní pomoci poskytované justičními orgány a o úpravě některých právních vztahů v občanských a trestních věcech (uveřejněna pod č. 209/1993 Sb.) a čl. 21 Evropské úmluvy o vydávání (uveřejněné pod č. 549/1992 Sb.) t a k t o :
+Povoluje se p r ů v o z vydávané osoby J. M., územím České republiky, pro účely trestního stíhání ve Slovenské republice, pro trestný čin krádeže podle § 9 odst. 2, § 247 odst. 1 písm. b) trestního zákona Slovenské republiky, jehož se měl dopustit tím, že dne 4. 6. 1996 okolo 10.00 hod v chatové osadě T. v T. L., po vzájemné dohodě s další osobou, se společně vloupali do chatky tak, že páčením a tlačením vylomili balkónové dveře v přízemí chatky, vnikli dovnitř, odkud odcizili předměty v celkové hodnotě nejméně 22 846 Sk a poškozením zařízení chatky způsobili společnosti P. T. s. r. o. P. škodu ve výši 4848,10 Sk.
+Po dobu průvozu bude vydávaná osoba držena ve vazbě.
+O d ů v o d n ě n í :
+Ministerstvo spravedlnosti Slovenské republiky požádalo na základě čl. 21 Evropské úmluvy o vydávání o povolení průvozu státního občana Slovenské republiky J. M. územím České republiky. Průvoz se má uskutečnit v rámci vydání jmenovaného z Holandského království k trestnímu stíhání ve Slovenské republice pro trestný čin uvedený ve výroku tohoto rozhodnutí. Na obžalovaného J. M. byl vydán Okresním soudem v Popradě dne 8. 6. 1998 pod sp. zn. 5 T 270/96 zatýkací rozkaz.
+Nejvyšší soud České republiky projednal žádost Ministerstva spravedlnosti Slovenské republiky z hlediska splnění právních podmínek výše uvedených mezinárodních smluv. Zjistil, že v posuzovaném případě jde o vydání pro trestný čin, který z hlediska právních řádů Slovenské republiky i České republiky splňuje podmínky pro povolení průvozu ve smyslu čl. 21 Evropské úmluvy o vydávání, ve znění výhrady České republiky. Trestní stíhání není promlčeno podle právního řádu Slovenské republiky ani podle právního řádu České republiky. Osoba, o jejíž vydání jde, není občanem České republiky.
+Jelikož nebyly zjištěny žádné právní překážky, které by bránily povolení průvozu obžalovaného J. M. za účelem trestního stíhání ve Slovenské republice, Nejvyšší soud České republiky žádosti Ministerstva spravedlnosti Slovenské republiky vyhověl. Zároveň rozhodl o nutném opatření omezujícím osobní svobodu vydávané osoby v době průvozu.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 22. března 2002
+Předseda senátu:
+JUDr. Antonín Draštík
