@@ -1,0 +1,21 @@
+11 Tcu 81/2003
+U S N E S E N Í
+Nejvyšší soud České republiky projednal dne 22. května 2003 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na zápis odsouzení cizozemským soudem do evidence Rejstříku trestů a rozhodl t a k t o :
+Podle § 4 odst. 2 zák. č. 269/1994 Sb. se do evidence Rejstříku trestů zaznamenají údaje o odsouzení občana České republiky J. T., rozsudkem Zemského soudu v Korneuburgu, Rakousko, ze dne 11. 7. 2001, sp. zn. 50c E Vr 1105/01, Hv 59/01, a to pro trestné činy výdělečného převádění cizinců a falšování cizích veřejných dokladů podle § 104 odst. 1 a 3, § 223 odst. 2, § 224 a § 28 trestního zákona Rakouska, k trestu odnětí svobody v trvání jednoho roku.
+O d ů v o d n ě n í :
+Rozsudkem Zemského soudu v Korneuburgu, Rakousko, ze dne 11. 7. 2001, sp. zn. 50c E Vr 1105/01, Hv 59/01, jenž nabyl právní moci dne 11. 7. 2001, byl J. T. uznán vinným trestnými činy výdělečného převádění cizinců a falšování cizích veřejných dokladů podle § 104 odst. 1 a 3, § 223 odst. 2, § 224 a § 28 trestního zákona Rakouska. Uvedených trestných činů se dopustil tím, že:
+1. dne 8. 5. 2001 v L. vědomě, společně s další osobou napomohl nezákonnému přicestování šesti cizinců do Rakouska za majetkový prospěch,
+2. na začátku měsíce dubna 2001 tamtéž napomohl sám třem moldavským státním příslušníkům nezákonně přicestovat do Rakouska za majetkový prospěch,
+3. zfalšoval cizí veřejné doklady, totiž české cestovní pasy, v nichž provedl výměnu fotografií a tyto pak použil při příjezdu na spolkové území jako právní doklad a důkaz k prokázání totožnosti majitelů pasů, když je předložil rakouským pohraničním kontrolním orgánům, a to dne 8. 5. 2001, na jména A. G., J. F., I. K. a
+4. na začátku dubna roku 2001 předložil takto zfalšované tři cestovní pasy znějící na již nezjištěná jména.
+Za tyto trestné činy byl odsouzen k trestu odnětí svobody v trvání jednoho roku.
+Ministerstvo spravedlnosti České republiky podalo podle § 4 odst. 2 zák. č. 269/1994 Sb., o Rejstříku trestů (dále jen zákon), Nejvyššímu soudu České republiky návrh na zapsání výše uvedeného odsouzení rakouského soudu do evidence Rejstříku trestů České republiky.
+Nejvyšší soud České republiky věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro zápis odsouzení cizozemským soudem do evidence Rejstříku trestů.
+Podle § 4 odst. 1 zákona se do evidence Rejstříku trestů zaznamenávají údaje o odsouzení cizozemským soudem, jestliže o uznání rozsudku takového soudu rozhodl podle § 384a odst. 1 tr. ř. Nejvyšší soud České republiky. Podle § 4 odst. 2 zákona může však Nejvyšší soud České republiky na návrh Ministerstva spravedlnosti České republiky rozhodnout, že se do evidence Rejstříku trestů zaznamenají též údaje o jiném odsouzení občana České republiky cizozemským soudem, jestliže se týká činu, který je trestným i podle právního řádu České republiky, a zápis do evidence je odůvodněn závažností činu a druhem trestu, který za něj byl uložen.
+Z podaného návrhu a z obsahu připojeného spisového materiálu vyplývá, že odsouzený je občanem České republiky, který byl odsouzen cizozemským soudem, přičemž odsouzení se týká skutků, které vykazují znaky trestných činů i podle právního řádu České republiky (trestný čin nedovoleného překročení státní hranice podle § 171a tr. zák. a trestný čin padělání a pozměňování veřejné listiny podle § 176 tr. zák. ). Tím jsou splněny formální podmínky ustanovení § 4 odst. 2 zákona.
+V posuzované věci jsou dány ovšem i podmínky materiální povahy. J. T. se pro finanční prospěch opakovaně podílel na ilegální přepravě většího počtu cizinců přes státní hranici na území jiného státu. Nebezpečnost jeho jednání je zvyšována okolnostmi, za kterých k tomu došlo vzhledem k vytvoření a použití padělaných dokladů prokazujících totožnost převáděných osob. Pokud jde o druh trestu, byl mu uložen nepodmíněný trest odnětí svobody již v nikoliv zanedbatelné délce. Lze tedy dovodit, že podmínky ustanovení § 4 odst. 2 zákona týkající se závažnosti činu a druhu uloženého trestu jsou splněny.
+Z uvedených důvodů proto Nejvyšší soud České republiky návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 22. května 2003
+Předseda senátu:
+JUDr. Antonín Draštík
