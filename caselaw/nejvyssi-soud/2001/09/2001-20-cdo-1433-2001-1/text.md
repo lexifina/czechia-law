@@ -1,0 +1,19 @@
+20 Cdo 1433/2001
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci výkonu rozhodnutí oprávněné Č. s., a. s., proti povinnému F. F., pro 24. 113.- Kč s příslušenstvím, srážkami z důchodu povinného, vedené u Okresního soudu v Mělníku pod sp. zn. E 1720/2000, o dovolání povinného proti usnesení Krajského soudu v Praze ze dne 25. října 2000, č. j. 26 Co 550/2000-9, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í.
+Shora označeným usnesením krajský soud potvrdil usnesení ze dne 1. 8. 2000, č. j. E 1720/2000-4, jímž Okresní soud v Mělníku nařídil výkon rozhodnutí srážkami z důchodu povinného k vymožení pohledávky oprávněné ve výši 24. 113.- Kč s příslušenstvím a nákladů výkonu rozhodnutí ve výši 514.- Kč.
+Pravomocné usnesení odvolacího soudu napadl povinný dovoláním, v němž namítl nesprávnost právního posouzení věci odvolacím soudem, který se nevypořádal s námitkou promlčení vymáhané pohledávky oprávněné, vznesené povinným před tím, než napadené usnesení nabylo právní moci. Navrhl, aby rozhodnutí odvolacího soudu bylo zrušeno a věc mu byla vrácena k dalšímu řízení; současně navrhl odložení vykonatelnosti napadeného usnesení.
+Podle části dvanácté, hlavy první, bodu 17. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů. To se týká i určení lhůty, ve které lze dovolání podat.
+Jelikož napadené usnesení bylo vydáno po řízení provedeném podle dosavadních právních předpisů, je Nejvyšší soud (ve shodě s posledně citovaným ustanovením) povinen projednat a rozhodnout i dovolání v této věci podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném před novelizací provedenou zákonem č. 30/2000 Sb., tj. účinném do dne 31. prosince 2000 (dále též jen „o. s. ř.“).
+Dovolání bylo podáno opožděně.
+Podle ustanovení § 240 odst. 1 o. s. ř. může účastník podat dovolání do jednoho měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Bylo-li vydáno opravné usnesení, běží tato lhůta od doručení opravného usnesení. Podle ustanovení § 240 odst. 2 o. s. ř. zmeškání lhůty uvedené v odstavci 1 nelze prominout. Lhůta je však zachována, bude-li dovolání podáno ve lhůtě u odvolacího nebo dovolacího soudu.
+Jak se podává z obsahu spisu (doručenek na č.l. 14 verte spisu), bylo usnesení odvolacího soudu doručeno (v souladu s ustanovením § 49 odst. 1 o. s. ř.) do vlastních rukou právnímu zástupci povinného dne 8. března 2001; protože oprávněné bylo doručeno již 30. listopadu 2000, nabylo právní moci dne 8. března 2001. Z uvedeného vyplývá, že posledním dnem jednoměsíční lhůty k podání dovolání bylo pondělí 9. dubna téhož roku (ustanovení § 57 odst. 2 o. s. ř.). Bylo-li dovolání podáno osobně u soudu prvního stupně až dne 4. května 2001 (viz podací razítko na č. l. 15 spisu), stalo se tak zjevně po marném uplynutí zákonné lhůty.
+Vycházeje z uvedených závěrů, Nejvyšší soud dovolání povinného podle ustanovení § 243b odst. 4 a § 218 odst. 1 písm. a) o. s. ř. jako opožděné odmítl.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 4, § 224 odst. 1 a § 146 odst. 2 věty první (per analogiam) o. s. ř., neboť povinný, který podáním opožděného dovolání zavinil jeho odmítnutí, na náhradu těchto nákladů nemá právo a oprávněné náklady dovolacího řízení (podle obsahu spisu) nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. září 2001
+Doc. JUDr. Věra K o r e c k á, CSc., v.r.
+předsedkyně senátu
