@@ -1,0 +1,16 @@
+7 Nd 43/2001
+U S N E S E N Í
+Nejvyšší soud v senátě složeném z předsedy JUDr. Jana Engelmanna a soudců JUDr. Jindřicha Urbánka a JUDr. Zdeňka Sováka ve věci péče o nezletilého J. F., zastoupeného Okresním úřadem v T., syna matky E. F., a otce J. K., vedené u Okresního soudu v Trutnově pod sp. zn. P 135/92, rozhodl o návrhu otce nezletilého na přikázání věci Krajskému soudu v Ostravě z důvodu vhodnosti t a k t o :
+Návrh otce na přikázání věci Krajskému soudu v Ostravě se z a m í t á .
+O d ů v o d n ě n í :
+U Okresního soudu v Trutnově jako soudu věcně a místně příslušného je pod sp. zn. P 135/92 vedeno řízení o návrhu matky nezl. J. F. na zvýšení výživného, které je povinen platit otec nezletilého. Toto řízení je ve stadiu, kdy Okresní soud v Trutnově rozhodl o zvýšení výživného rozsudkem ze dne 6. 4. 2000 a spis byl dne 12. 7. 2000 předložen Krajskému soudu v Hradci Králové k projednání odvolání, které podal otec nezletilého.
+Podáním ze dne 2. 11. 2000 otec nezl. navrhl, aby věc byla z důvodu vhodnosti přikázána Krajskému soudu v Ostravě. Svůj návrh odůvodnil tím, že by se chtěl sice zúčastnit jednání před Krajským soudem v Hradci Králové, ale jeho špatný zdravotní stav mu znemožňuje cestování na větší vzdálenosti, a proto žádá, aby věc projednal Krajský soud v Ostravě, který je blíže jeho bydlišti.
+Matka nezl. J. vyjádřila zásadní nesouhlas s přikázáním věci jinému než příslušnému soudu. Ta naopak poukázala na to, že pečuje o malé dítě a cesta ke Krajskému soudu v Ostravě by pro ni byla spojena nejen s organizačními, ale také finančními problémy.
+Opatrovník nezl. J. souhlasil s návrhem otce nezletilého.
+Nejvyššímu soudu jako soudu nejblíže společně nadřízenému podle § 12 odst. 3 o. s. ř. byla věc předložena dne 5. 2. 2001 k rozhodnutí o návrhu otce nezletilého.
+Podle § 12 odst. 2 o. s. ř. může být věc přikázána jinému soudu téhož stupně z důvodu vhodnosti. Jedná se však o výjimku z ústavně garantované zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu i soudce stanoví zákon (čl. 38 odst. 1 Listiny základních práv a svobod). Z výše uvedeného ustanovení je zřejmé, že skutečnosti, které odůvodňují přikázání věci jinému než příslušnému soudu, musí být výjimečné, závažné a objektivní povahy. V daném případě však okolnost uváděná otcem nezl. Jaroslava takové povahy není. Pouze skutečnost a odkaz na špatný zdravotní stav nemůže být důvodem k tomu, aby věc byla přikázána jinému soudu. Argumentací, kterou použil otec nezl. nelze přesvědčivě odůvodnit, že je vhodné, aby věc byla projednána jiným soudem než soudem, jehož příslušnost vyplývá ze zákona. Nejvyšší soud při svém rozhodování musel brát v úvahu také zásadní nesouhlas matky nezletilého a v této souvislosti nemohl na její straně přehlédnout nejen ev. finanční náročnost spojenou s cestou ke Krajskému soudu v Ostravě, ale také objektivní skutečnost, a to péči o malé dítě, což by v případě cesty ke Krajskému soudu v Ostravě s sebou neslo nepochybně i jisté organizační potíže.
+Při zvážení všech shora uvedených skutečností dospěl Nejvyšší soud k závěru, že není důvod k přikázání věci jinému soudu a návrh na přikázání věci zamítl.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 8. února 2001
+Předseda senátu:
+JUDr. Jan Engelamnn
