@@ -1,0 +1,18 @@
+11 Tvo 55/2002
+U S N E S E N Í
+Nejvyšší soud projednal v neveřejném zasedání konaném dne 27. 9. 2002 stížnost obviněného K. T., proti usnesení Vrchního soudu v Praze ze dne 22. 8. 2002, sp. zn. 5 To 107/02, a rozhodl t a k t o :
+Podle § 148 odst. 1 písm. a) tr. řádu s e stížnost obviněného K. T. z a m í t á .
+O d ů v o d n ě n í :
+Obviněný K. T. je stíhán pro trestný čin podvodu podle § 250 odst. 1, 4 tr. zák.
+Usnesením Obvodního soudu pro Prahu 1 ze dne 10. 5. 2002, sp. zn. 43 Nt 139/2002, byl obviněný vzat do vazby z důvodů uvedených v § 67 písm. a) tr. řádu s tím, že vazba u něj začala dne 9. 5. 2002.
+Usnesením státního zástupce Vrchního státního zastupitelství v Praze ze dne 2. 8. 2002, sp. zn. 2 VZv 7/2002, byl obviněný K. T. podle § 71 odst. 3 tr. řádu i nadále ponechán ve vazbě.
+Proti tomuto usnesení podal obviněný stížnost se zdůvodněním, že u něj důvody vazby podle § 67 písm. a) tr. řádu nejsou, a pro případ, že by byl soud jiného názoru, požádal, aby byla vazba nahrazena písemným slibem s dohledem probačního úředníka, případně peněžitou zárukou.
+Vrchní soud v Praze usnesením ze dne 22. 8. 2002, sp. zn. 5 To 107/02, podle § 148 odst. 1 písm. c) tr. řádu stížnost obviněného zamítl, podle § 73 odst. 1 písm. b), c) tr. řádu a § 73a odst. 2 písm. b) tr. řádu nepřijal písemný slib, dohled probačního úředníka ani nabídku peněžité záruky a obviněného poučil, že proti výrokům podle § 71 odst. 1 písm. b), c) tr. řádu a § 73a odst. 2 písm. b) tr. řádu si může podat stížnost k Nejvyššímu soudu v Brně.
+Na základě tohoto poučení podal obviněný proti výrokům o nepřijetí písemného slibu, dohledu probačního úředníka a nabídky peněžité záruky stížnost, kterou zdůvodnil názorem, že jím nabízené instituty dostatečně nahrazují vazební důvod uvedený v § 67 písm. a) tr. řádu a navrhl, aby napadené výroky usnesení byly zrušeny, a aby byl, za současného přijetí některého institutu nahrazujícího vazbu, z vazby propuštěn.
+Nejvyšší soud z podnětu podané stížnosti přezkoumal podle § 147 odst. 1 tr. řádu napadené usnesení, jakož i řízení, které mu předcházelo, a dospěl k tomuto závěru.
+Obviněný se řídil nesprávným poučením. Vrchní soud rozhodoval jako věcně i místně příslušný orgán k přezkoumání usnesení státního zástupce Vrchního státního zastupitelství v Praze, kterým byl obviněný podle § 67 písm. a) tr. řádu ponechán i nadále ve vazbě v druhém stupni. Jako orgán druhého stupně přitom postupem podle § 147 odst. 1 tr. řádu nepřezkoumává z podnětu podaného opravného prostředku napadené usnesení pouze z hlediska důvodnosti další vazby obviněného, ale i z hlediska institutů, kterými by bylo možno vazbu nahradit. Pokud tak vrchní soud, byť z podnětu stížnosti obviněného, učinil, nejednal tak jako soud prvního stupně, ale jako soud, který ve druhém stupni rozhoduje o důvodnosti další vazby obviněného a vylučuje přitom současně jakoukoliv možnost jejího nahrazení jiným zajišťovacím opatřením. Protože vrchní soud, jako soud druhého stupně, možnost nahrazení vazby písemným slibem obviněného, dohledem probačního úředníka a peněžitou zárukou vyloučil, splnil tím povinnost zabývat se ve stížnostním řízení všemi hledisky důvodnosti vazby, včetně možnosti jejího nahrazení jinými prostředky. Vrchní soud toto rozhodnutí učinil jako orgán oprávněný projednat stížnost obviněného, tedy orgán druhého stupně, a proto proti tomuto rozhodnutí není přípustný další řádný opravný prostředek.
+Pokud si obviněný proti usnesení Vrchního soudu v Praze stížnost podal, řídil se nesprávným poučením. Protože taková stížnost není přípustná, nezbylo, než ji zamítnout, jak je ve výroku uvedeno.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 27. září 2002
+Předseda senátu:
+JUDr. Pavel Kučera
