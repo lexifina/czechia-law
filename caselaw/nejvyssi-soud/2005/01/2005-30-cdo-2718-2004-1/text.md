@@ -1,0 +1,21 @@
+30 Cdo 2718/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy
+JUDr. Pavla Pavlíka a soudců JUDr. Romana Fialy a JUDr. Karla Podolky ve věci žalobce Ing. A. P. proti žalované S. ž. d. c., státní organizaci, o ochranu osobnosti, vedené u Městského soudu v Praze pod sp.zn. 32 C 43/2002, o dovolání žalobce proti rozsudku Vrchního soudu v Praze
+ze dne 15. června 2004, č.j. 1 Co 13/2004-71, t a k t o:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Vrchní soud v Praze rozsudkem ze dne 15. června 2004, č.j. 1 Co 13/2002-71 potvrdil rozsudek Městského soudu v Praze ze dne 30. června 2003, č.j. 32 C 43/2002-42, kterým byla zamítnuta žaloba, podle které je žalovaný povinen zdržet se tvrzení, že České dráhy, státní organizace, s žalobcem zrušily pracovní poměr pro zvlášť hrubé porušení pracovní kázně, podle § 53 odst. 1 písm. b) zákoníku práce (výrok I.), zamítl žalobu, podle které je žalovaný povinen odvolat své tvrzení, že Č. d., s.o. se žalobcem okamžitě zrušily pracovní poměr pro zvlášť hrubé porušení pracovní kázně podle § 53 odst. 1 písm. b) zákoníku práce a omluvit se žalobci, obojí dopisem doručeným žalobci do třiceti dnů od právní moci tohoto rozsudku (výrok II.) a dále zamítl žalobu, podle které je žalovaný povinen zaplatit žalobci 25.000,- Kč do třiceti dnů od právní moci tohoto rozsudku. Současně rozhodl o náhradě nákladů odvolacího řízení.
+Tento rozsudek odvolacího soudu byl žalobci doručen dne 30. července 2004 a téhož dne nabyl právní moci.
+Uvedené rozhodnutí odvolacího soudu napadl žalobce podáním datovaným dne 16. srpna 2004 a podaným u soudu prvního stupně dne 31. srpna 2004. V něm mimo jiné uvedl, že soud prvního stupně neúplně zjistil skutkový stav věci, neboť neprovedl navržené důkazy k prokázání rozhodných skutečností a navrhl, aby odvolací soud napadený rozsudek soudu prvního stupně zrušil. Současně požádal
+o ustanovení zástupce pro řízení.
+Soud prvního stupně následně usnesením ze dne 9. září 2004, č.j. 32 C 43/2002-76, které bylo dovolateli doručeno dne 17. září 2004, žalobce mimo jiné vyzval, aby upřesnil, zda tímto podáním mínil dovolání k Nejvyššímu soudu ČR. Pro případ, že by se žalobce skutečně domáhal dovolání proti rozsudku odvolacího soudu, pak je nutné, aby jeho podání bylo sepsáno advokátem, tedy aby doložil plnou moc ve smyslu § 241 odst. 1 o.s.ř., neboť dovolatel vždy musí být zastoupen advokátem, pokud nemá sám právnické vzdělání. Současně zamítl návrh žalobce
+na ustanovení zástupce. Na závěr byl poučen o tom, že nebude-li této výzvě ve lhůtě sedmi dnů vyhověno, bude dovolací řízení zastaveno.
+Podle ustanovení § 241 odst. 1 o.s.ř. musí být dovolatel zastoupen advokátem nebo notářem, jestliže sám nemá právnické vzdělání. Takto je stanoveno tzv. povinné zastoupení dovolatele v dovolacím řízení, které je chápáno jako zvláštní podmínka dovolacího řízení týkající se dovolatele, jejíž nedostatek lze sice odstranit, bez jejího splnění však nelze vydat rozhodnutí ve věci samé. Nedostatek v zastoupení dovolatele musí být proto řešen postupem podle ustanovení § 241b odst. 2 ve spojení s § 104 odst. 2 o.s.ř.
+O takový případ jde v posuzované věci, neboť - jak vyplývá z obsahu spisu - dovolatel, ač nebylo doloženo, že by sám měl právnické vzdělání, resp., že za něj jedná podle zákona kvalifikovaná osoba, nedoložil soudu ve stanovené lhůtě (resp. ani později), že v jeho případě byla splněna podmínka povinného zastoupení dovolatele v dovolacím řízení. (Upřesnil pouze na výzvu soudu, že podáním ze dne 16. srpna 2004 míní dovolání). Protože tak nebyla naplněna tato zvláštní podmínka dovolacího řízení, dovolacímu soudu nezbylo, než podle již zmíněných ustanovení o.s.ř. dovolací řízení zastavit.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 5 věta prvá o.s.ř. ve spojení s § 224 odst. 1, § 151 a § 146 odst. 2 věta první o.s.ř., když dovolatel sice procesně zavinil, že dovolací řízení muselo být zastaveno, avšak v dovolacím řízení žalované jinak žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 31. ledna 2005
+JUDr. Pavel Pavlík, v.r.
+předseda senátu
