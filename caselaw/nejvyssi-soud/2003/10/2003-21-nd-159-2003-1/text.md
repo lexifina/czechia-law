@@ -1,0 +1,15 @@
+21 Nd 159/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Novotného a soudců JUDr. Ljubomíra Drápala a JUDr. Mojmíra Putny v právní věci žalobkyně H. B., zastoupené advokátem, proti žalovanému L. M., zastoupeného advokátem, o 100.000,- Kč s příslušenstvím, vedené u Okresního soudu v Opavě pod sp. zn. 16 C 62/2002, o návrhu žalobkyně na přikázání věci z důvodu vhodnosti jinému soudu, takto:
+Návrh žalobkyně, aby věc vedená u Okresního soudu v Opavě pod sp. zn. 16 C 62/2002 byla podle § 12 odst. 2 o.s.ř. přikázána Okresnímu soudu v Mostě, se zamítá.
+O d ů v o d n ě n í :
+Žalobkyně se domáhala u Okresního soudu v Opavě, jako místně příslušného obecného soudu žalovaného, v jehož obvodu má žalovaný bydliště, aby jí žalovaný zaplatil 100.000,- Kč „s 2,5% úrokem měsíčně z dlužné částky od 1.5.2002 do zaplacení a s 7,5% úrokem z prodlení ročně z dlužné částky od 11.11.2002 do zaplacení“.
+Žalobkyně v podání ze dne 25.8.2003 navrhla, aby věc byla přikázána vzhledem k jejímu zdravotnímu stavu Okresnímu soudu v Mostě, neboť „není schopna účastnit se úředního jednání“ a „písemný sešit o provedených účetních operacích může věrohodně vysvětlit pouze ona“.
+Žalovaný nesouhlasil s návrhem na delegaci věci Okresnímu soudu v Mostě Vyjádřil pochybnost, zda „ošetřujícího lékař žalobkyně je vůbec kompetentní takovou zprávu sepsat“, a uvedl, že, je-li žalobkyně neschopna účastnit se úředního jednání (ve zprávě lékaře se neuvádí, v čem tvrzená neschopnost žalobkyně konkrétně spočívá), týká se to nejen Okresního soudu v Opavě, ale i Okresního soudu v Mostě; ze zprávy přitom neplyne, že by žalobkyně nebyla schopná cestovat.
+Podle ustanovení § 12 odst. 2 o.s.ř. může být přikázána věc jinému soudu téhož stupně z důvodu vhodnosti.
+Důvod vhodnosti pro přikázání věci jinému soudu téhož stupně ve smyslu ustanovení § 12 odst. 2 o.s.ř. představují takové okolnosti, které umožňují hospodárnější, rychlejší nebo zejména po skutkové stránce spolehlivější a důkladnější projednání věci jiným než příslušným soudem.
+V předmětné věci z obsahu spisu vyplývá, že žalobkyně, která byla původně hlášena k trvalému pobytu v Č. B., je nyní přihlášena v N. V. v obvodu Okresního soudu v Mostě. Z obsahu spisu vyplývá, že všechny skutečnosti související s uplatněnou částkou, které by mohly být pro projednání věci významné, nastaly v obvodu Okresního soudu v Opavě, a v obvodu tohoto soudu se nacházejí rovněž osoby, které by mohly být v případě potřeby k věci slyšeny. Není ničím potvrzeno, že by projednání věci nikoliv před příslušným Okresním soudem v Opavě, nýbrž před Okresním soudem v Mostě (v jehož obvodu se žalobkyně nyní zdržuje) bylo v zájmu důkladnějšího, po skutkové stránce spolehlivějšího a zejména hospodárnějšího a rychlejšího projednání věci.
+Nejvyšší soud České republiky proto návrh žalované, aby věc byla podle ustanovení § 12 odst. 2 o.s.ř. přikázána Obvodnímu soudu pro Prahu 3, zamítl.
+Proti tomuto usnesení není přípustná opravný prostředek.
+V Brně dne 9. října 2003
+JUDr. Zdeněk Novotný, v. r. předseda senátu
