@@ -1,0 +1,15 @@
+11 Td 16/2004
+U S N E S E N Í
+Nejvyšší soud v trestní věci obviněného M. M., vedené u Okresního soudu v Benešově pod sp. zn. 3 T 443/2003 rozhodl v neveřejném zasedání konaném dne 31. března 2004 o příslušnosti soudu t a k t o :
+Podle § 22 tr. řádu j e k projednání trestní věci obviněného M. M. p ř í s l u š n ý Okresní soud v Benešově.
+O d ů v o d n ě n í :
+Státní zástupkyně Okresního státního zastupitelství v Benešově podala dne 19. 12. 2003 Okresnímu soudu v Benešově obžalobu na obviněného M. M. pro trestný čin zpronevěry podle § 248 odst. 1, 2 tr. zák., který měl spáchat tím, že jako zaměstnanec společnosti M. I. s. r. o., H. 76a, B. s pověřením společnosti přebírat tržby od zákazníků pro společnost M. ČR s. r. o., N. 2397/23, P., v měsíci září a říjnu 2003 postupně krátil utržené peněžní prostředky, které měl na základě své pracovní činnosti odevzdávat ve firmě M. ČR a tyto pak použil pro svoji potřebu a nakonec pro zakrytí manka zinscenoval fingované loupežné přepadení své vlastní osoby na okrese B., čímž způsobil společnosti M. ČR s. r. o. škodu ve výši 105.603,- Kč.
+Usnesením Okresního soudu v Benešově ze dne 30. 12. 2003, sp. zn. 3 T 443/2003, byla podle § 314c odst. 1 písm. a) tr. řádu ve vztahu k ustanovení § 188 odst. 1 písm. a) tr. řádu trestní věc obviněného M. M. předložena Vrchnímu soudu v Praze k rozhodnutí o příslušnosti soudu s odůvodněním, že není ve věci místně příslušný, neboť v jeho obvodu došlo pouze k zinscenování loupežného přepadení, za které však stíhán není, jinak obviněný bydlí v B., předmětnou trestnou činnost měl spáchat jako zaměstnanec společnosti sídlící v B. a to ke škodě společnosti sídlící v P., tedy příslušným soudem je s ohledem na následek trestného činu zpronevěry Obvodní soud pro Prahu 9.
+Vrchní soud v Praze usnesením ze dne 19. 2. 2004, sp. zn. 12 Ntd 3/2004, podle § 24 odst. 1 tr. řádu trestní věc obviněného M. M. předložil k rozhodnutí o příslušnosti Nejvyššímu soudu s tím, že v dané věci přichází v úvahu tři soudy a to Okresní soud v Benešově, kde byla podána obžaloba, a kde se měl obviněný dopustit pokusu o zakrytí vlastní trestné činnosti, Obvodní soud pro Prahu 9, kde sídlí firma, jíž měla být jednáním obviněného způsobena škoda a Městský soud v Brně, kde má obviněný bydliště, a kde sídlí společnost, v jejíchž službách se měl obviněný trestného činu zpronevěry dopustit.
+Nejvyšší soud zhodnotil důkazy použitelné k rozhodnutí podle § 24 tr. řádu a dospěl k tomuto závěru.
+V projednávané věci je ve smyslu ustanovení § 18 odst. 1 tr. řádu s ohledem na jednání obviněného dána příslušnost více soudů, kdy jedním z těchto soudů je i Okresní soud v Benešově, kde měl obviněný M. M. zinscenovat loupežné přepadení. Pokud k tomuto soudu byla podána obžaloba, je v souladu s ustanovením § 22 tr. řádu, aby tento ve věci i nadále jednal a rozhodl.
+Z těchto důvodů bylo rozhodnuto, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 31. března 2004
+Předseda senátu :
+JUDr. Pavel Kučera
