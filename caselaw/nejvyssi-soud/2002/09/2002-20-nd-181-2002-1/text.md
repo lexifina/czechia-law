@@ -1,0 +1,16 @@
+20 Nd 181/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudců JUDr. Vladimíra Kurky a JUDr. Vladimíra Mikuška ve věci žalobkyně T., společnosti s ručením omezeným, zastoupené advokátem, proti žalované Z. p. m. v. Č. r., zastoupené advokátem, o 1 886 060 Kč s příslušenstvím, vedené u Okresního soudu v Přerově pod sp. zn. 12 C 296/2001, o návrzích na přikázání věci z důvodu vhodnosti, takto :
+Věc vedená u Okresního soudu v Přerově pod sp. zn. 12 C 296/2001 se nepřikazuje ani Okresnímu soudu v Hradci Králové, ani Obvodnímu soudu pro Prahu 10.
+O d ů v o d n ě n í :
+Žalobkyně podala návrh na přikázání věci z důvodu vhodnosti Okresnímu soudu v Hradci Králové, který odůvodnila tím, že „veškeré uplatněné nároky v tomto sporu se týkají nemovitosti, která se nachází v sídle Okresního soudu v Hradci Králové,“ a že „bude vhodné, aby případné znalecké posudky byly prováděny znalcem z Hradce Králové.“
+Žalovaná podala návrh na přikázání věci z důvodu vhodnosti Obvodnímu soudu pro Prahu 10 s tím, že „ve věci je třeba provést rozsáhlé dokazování, včetně výslechu svědků, z nichž většina bydlí v P.“ Připomněla dále, že její právní předchůdkyně – G. – Ž. z. p. – sice měla sídlo v P., ovšem současné sídlo žalované podporuje její požadavek i „z hlediska respektování základního principu, na němž je založeno určování místní příslušnosti.“
+Podle ustanovení § 12 odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů (dále též jen „o.s.ř.“), může být věc jinému soudu téhož stupně přikázána také z důvodu vhodnosti.
+Důvody vhodnosti pro přikázání věci jinému soudu mohou být různé v závislosti na předmětu řízení, postavení účastníků i jiných okolnostech; zejména jde o skutečnosti, z nichž lze dovodit, že jiný než příslušný soud projedná věc hospodárněji, rychleji nebo po skutkové stránce – se zřetelem na navržené důkazy – spolehlivěji a důkladněji (zpravidla se vhodnou delegací předchází nutnosti dožádání). K přikázání věci jinému než příslušnému soudu by však mělo docházet pouze výjimečně, a to ze závažných důvodů, neboť je uplatňováno jako výjimka z ústavně zaručené zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon (čl. 38 odst. 1 Listiny základních práv a svobod, vydané ústavním zákonem č. 23/1991 Sb. a usnesením předsednictva ČNR č. 2/1993 Sb. vyhlášené jako součást ústavního pořádku České republiky, ve znění ústavního zákona č. 162/1998 Sb.).
+Důvody, pro něž obě účastnice navrhují přikázání věci jimi označenému soudu, neobstojí.
+Podle skutkových tvrzení v žalobě má požadované plnění podklad v obligačních vztazích, které bezprostředně nesouvisejí s nemovitostmi, a jako důkazní prostředky k prokázání tvrzení označily žalobkyně (v žalobě) a žalovaná (v odporu proti platebnímu rozkazu) toliko listiny (§ 129 o.s.ř.), takže úvahy o znaleckém posudku, popřípadě svědcích, kteří by měli být vyslechnuti, jsou pro posouzení vhodnosti postupu podle ustanovení § 12 odst. 2 o.s.ř. bezpředmětné.
+Nejvyšší soud proto rozhodl, jak je uvedeno výroku tohoto usnesení (§ 12 odst. 3 věta první o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 16. září 2002
+JUDr. Pavel K r b e k , v.r.
+předseda senátu
