@@ -1,0 +1,13 @@
+11 Tcu 173/2003
+U S N E S E N Í
+Nejvyšší soud České republiky projednal žádost Ministerstva spravedlnosti Slovenské republiky o povolení průvozu M. M. a rozhodl v neveřejném zasedání dne 19. srpna 2003 podle § 383c tr. ř., čl. 30 Smlouvy mezi Českou republikou a Slovenskou republikou o právní pomoci poskytované justičními orgány a o úpravě některých právních vztahů v občanských a trestních věcech (uveřejněna pod č. 209/1993 Sb.) a čl. 21 Evropské úmluvy o vydávání (uveřejněné pod č. 549/1992 Sb.) t a k t o :
+Povoluje se p r ů v o z vydávané osoby M. M. územím České republiky, pro účely výkonu trestu ve Slovenské republice, a to nepodmíněného trestu odnětí svobody v trvání šesti měsíců, uloženého mu za trestný čin krádeže podle § 9 odst. 2, § 247 odst. 2 písm. a), odst. 3 písm. a), b) trestního zákona Slovenské republiky rozsudkem Okresního soudu v Rimavské Sobotě ze dne 22. 2. 2001, sp. zn. 2 T 174/00, ve spojení s rozsudkem Krajského soudu v Banské Bystrici ze dne 26. 6. 2001, sp. zn. 9 To 364/01.
+Po dobu průvozu bude vydávaná osoba držena ve vazbě.
+O d ů v o d n ě n í :
+Ministerstvo spravedlnosti Slovenské republiky požádalo na základě čl. 21 Evropské úmluvy o vydávání o povolení průvozu M. M. územím České republiky. Průvoz se má uskutečnit v rámci vydání jmenovaného z Itálie k výkonu trestu odnětí svobody, který mu byl uložen soudem Slovenské republiky za trestné činy uvedené ve výroku tohoto rozhodnutí. Na obviněného M. M. byl vydán Okresním soudem v Rimavské Sobotě dne 11. 7. 2002, pod sp. zn. 2 T 174/00 zatýkací rozkaz.
+Nejvyšší soud České republiky projednal žádost Ministerstva spravedlnosti Slovenské republiky z hlediska splnění právních podmínek v záhlaví tohoto rozhodnutí uvedených mezinárodních smluv. Zjistil, že v posuzovaném případě jde o vydání k výkonu trestu pro trestné činy, které z hlediska právních řádů Slovenské republiky i České republiky splňují podmínky pro povolení průvozu ve smyslu čl. 21 Evropské úmluvy o vydávání, ve znění výhrady České republiky. Výkon trestu není promlčen podle právního řádu Slovenské republiky, ani podle právního řádu České republiky. Osoba, o jejíž vydání jde, není občanem České republiky.
+Jelikož nebyly zjištěny žádné právní překážky, které by bránily povolení průvozu obviněného M. M. za účelem výkonu trestu ve Slovenské republice, Nejvyšší soud České republiky žádosti Ministerstva spravedlnosti Slovenské republiky vyhověl. Zároveň rozhodl o nutném opatření omezujícím osobní svobodu vydávané osoby v době průvozu.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 19. srpna 2003
+Předseda senátu:
+JUDr. Antonín Draštík
