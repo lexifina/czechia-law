@@ -1,0 +1,15 @@
+20 Nd 142/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudců JUDr. Vladimíra Kurky a JUDr. Vladimíra Mikuška ve věci dědictví po zůstaviteli J. M., za účasti N. M., pozůstalé manželky, a R. M., pozůstalého syna, vedené u Okresního soudu v Hodoníně pod sp. zn. D 1688/2002, o návrhu na přikázání věci z důvodu vhodnosti, takto :
+Věc, vedená u Okresního soudu v Hodoníně pod sp. zn. D 1688/2002, se nepřikazuje Okresnímu soudu ve Strakonicích.
+O d ů v o d n ě n í :
+Podáním ze dne 5. 3. 2003 navrhla Naděžda Marečková přikázání věci z důvodu vhodnosti Okresnímu soudu ve Strakonicích se zdůvodněním, že „předmětem dědického řízení je majetek v nepatrné hodnotě,“ že bydlí v Č., kam se přestěhovali krátce před manželovou smrtí, a že není „zcela zdráva.“
+R. M. vyjádřil nesouhlas s přikázáním věci a trval – i se zřetelem k jeho bydlišti – na tom, aby dědická věc byla projednána u Okresního soudu v Hodoníně.
+Podle ustanovení § 12 odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů (dále jen „o.s.ř.“), může být věc jinému soudu téhož stupně přikázána také z důvodu vhodnosti.
+Důvody vhodnosti podle uvedeného ustanovení mohou být různé v závislosti na předmětu řízení, postavení účastníků i jiných okolnostech; zejména jde o skutečnosti, z nichž lze dovodit, že jiný než příslušný soud projedná věc hospodárněji, rychleji nebo po skutkové stránce – se zřetelem na navržené důkazy – spolehlivěji a důkladněji (zpravidla se vhodnou delegací předchází nutnosti dožádání). K přikázáni věci jinému než příslušnému soudu by však mělo docházet pouze výjimečně, a to ze závažných důvodů, neboť je uplatňováno jako výjimka z ústavně zaručené zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon (čl. 38 odst. 1 Listiny základních práv a svobod, vydané ústavním zákonem č. 23/1991 Sb. a usnesením předsednictva ČNR č. 2/1993 Sb. vyhlášené jako součást ústavního pořádku České republiky, ve znění ústavního zákona č. 162/1998 Sb.). Důvody pro odnětí věci příslušnému soudu a její přikázání soudu jinému tedy musí být natolik významné, aby dostatečně odůvodňovaly průlom do výše citovaného ústavního principu. Ustanovení § 12 odst. 3, věta druhá, o.s.ř. přitom výslovně zakotvuje právo účastníků vyjádřit se k důvodům delegace i k soudu, jemuž má být věc přikázána, aby vhodnost takového postupu mohla být zvážena také z pohledu jejich poměrů; delegací totiž nesmí být navozen stav, který by se v poměrech některého z účastníků projevil zásadně nepříznivě.
+V daném případě okolnosti, které manželka zůstavitele tvrdila, způsobilé odůvodnit přikázání věci nejsou; jediné, co by mohl soud v daných souvislostech zvažovat – její nepříznivý zdravotní stav – , dosáhlo toliko obecného vyjádření a v konturách z pohledu § 12 odst. 2 o.s.ř. relevantních se nenabízí.
+Nejvyšší soud proto rozhodl, jak je uvedeno ve výroku tohoto usnesení (§ 12 odst. 3, věta první, o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. září 2003
+JUDr. Pavel Krbek, v.r.
+předseda senátu
