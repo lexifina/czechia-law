@@ -1,0 +1,13 @@
+20 Nd 180/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Vladimíra Kůrky a soudců JUDr. Františka Ištvánka a JUDr. Vladimíra Mikuška ve věci péče o nezletilou A. K., zastoupenou městem P. jako opatrovníkem, dceru otce MUDr. V. K., zastoupeného advokátkou a matky Mgr. S. K., zastoupené advokátem, vedené u Okresního soudu Plzeň - město pod sp.zn. 99 P 384/2003, o návrhu na úpravu styku otce s nezletilou, k návrhu na delegaci věci, takto:
+Věc, vedená pod sp. zn. 99 P 384/2003 Okresního soudu Plzeň – město o návrhu otce na úpravu jeho styku s nezletilou (seznam věcí 31 P a Nc 259/2004), se přikazuje Okresnímu soudu Plzeň – sever..
+O d ů v o d n ě n í :
+Nejvyšší soud ČR, kterému předložil předseda Okresního soudu Plzeň - město podle § 15 odst. 2 o.s.ř. shora uváděnou věc, rozhoduje o přikázání věci dle ust. § 12 odst. 3 o.s.ř., neboť otec navrhuje delegaci věci Okresnímu soudu ve Strakonicích, popřípadě Okresnímu soudu v Hodoníně. Nejvyšší soud je tak ve smyslu otcova návrhu nejblíže společným nadřízeným soudem soudu příslušnému a soudu, jemuž má být věc podle návrhu přikázána.
+Otec svůj návrh na delegaci odůvodňuje tím, že matka je soudkyní příslušného soudu; přikázání věci Okresnímu soudu ve Strakonicích má za hospodárné proto, že v obvodu takového soudu má sídlo jeho právní zástupkyně, důvody návrhu na přikázání věci Okresnímu soudu v Hodoníně nevysvětluje.
+Matka vyjadřuje souhlas s přikázáním věci jinému soudu než soudu příslušnému, pokud by jeho soudci byli vyloučení z projednávání věci; s přikázáním věci mimo obvod Krajského soudu v Plzni však nesouhlasí právě pro důvody hospodárnosti a poukazuje na to, že již řízení o úpravu práv a povinností rodičů k nezletilé jakož i rozvodovou věc rodičů projednával a rozhodoval bez otcových výhrad Okresní soud Plzeň – sever.
+Nejvyšší soud shledává důvody pro přikázání věci Okresnímu soudu Plzeň - sever z důvodů uvedených v ust. § 12 odst. 1 o.s.ř. Soudci příslušného soudu určení pro vyřízení věci rozvrhem práce oznamují důvody svého vyloučení z projednání a rozhodnutí věci. Při svém rozhodování o určení soudu, jemuž je vhodné věc přikázat, vzal Nejvyšší soud do úvahy okolnost, že v předcházející souvisící věci již Okresní soud Plzeň – sever rozhodoval, splňuje přitom – zejména pro ohled na bydliště nezletilé, rodičů i osobu opatrovníka - nezbytné předpoklady hospodárného a rychlého projednání věci. Takovým požadavkům otcem navrhované soudy, a to ani za přihlédnutí k poloze sídla kanceláře jeho zástupkyně, rozhodně nevyhovují.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 15. prosince 2004
+JUDr. Vladimír Kůrka, v.r.
+předseda senátu
