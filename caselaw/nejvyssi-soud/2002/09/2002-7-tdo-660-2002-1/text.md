@@ -1,0 +1,14 @@
+7 Tdo 660/2002
+U S N E S E N Í
+Nejvyšší soud rozhodl v neveřejném zasedání dne 24. 9. 2002 o dovoláních obviněných J. M., a Č. Ř., proti rozsudku Městského soudu v Praze ze dne 22. 2. 2002, sp. zn. 44 To 1557/2001, v trestní věci vedené u Obvodního soudu pro Prahu 7 pod sp. zn. 1 T 64/2000 t a k t o :
+Podle § 265i odst. 1 písm. b) tr. ř. se dovolání obviněných J. M. a Č. Ř. o d m í t a j í .
+O d ů v o d n ě n í :
+Obvinění J. M. a Č. Ř. podali prostřednictvím obhájce v zákonné lhůtě dovolání proti rozsudku Městského soudu v Praze ze dne 22. 2. 2002, sp. zn. 44 To 1557/2001, jímž bylo rozhodnuto o jejich odvoláních a dále o odvolání poškozeného proti rozsudku Obvodního soudu pro Prahu 7 ze dne 14. 11. 2001, sp. zn. 1 T 64/2000. Obvinění podali dovolání s odkazem na dovolací důvod stanovený v § 265b odst. 1 písm. g) tr. ř. a s návrhem, aby Nejvyšší soud zrušil rozsudek Městského soudu v Praze a aby přikázal tomuto soudu nové projednání a rozhodnutí věci.
+Nejvyšší soud shledal, že oba obvinění podali dovolání ve skutečnosti z jiného důvodu, než je uveden v § 265b tr. ř.
+Podle § 265b odst. 1 písm. g) tr. ř. dovolání lze podat, jestliže rozhodnutí spočívá na nesprávném právním posouzení skutku nebo jiném nesprávném hmotněprávním posouzení. V rámci takto vymezeného dovolacího důvodu je možné namítat, že soudem zjištěný skutek byl nesprávně kvalifikován jako trestný čin, ačkoli nešlo o žádný trestný čin nebo šlo o jiný trestný čin, než kterým byl obviněný uznán vinným. Není však možné namítat, že skutek, o jehož právní posouzení jde, byl zjištěn nesprávně, že důkazy byly hodnoceny vadně, že dokazování bylo neúplné apod. Jinak řečeno, dovoláním lze napadat právní kvalifikaci soudem zjištěného skutku, nikoli však samotná skutková zjištění.
+V posuzovaném případě byly námitky obou obviněných, uvedené v jejich dovoláních, založeny na tom, že soudy nezjistily správně skutkový stav věci, že neprovedly důkazy, které byly navrženy obhajobou a které byly důležité pro posouzení subjektivní stránky činu, a že neměly pro svá skutková zjištění objektivní a řádně doložené důkazy. Dovolání obou obviněných obsahují v celém rozsahu pouze námitky, které jsou jen polemikou s tím, jak soudy hodnotily důkazy a jaká zjištění z nich vyvodily. Takové námitky ovšem nekorespondují s dovolacím důvodem podle § 265b odst. 1 písm. g) tr. ř.
+Lze uzavřít, že obvinění sice formálně deklarovali dovolací důvod podle § 265b odst. 1 písm. g) tr. ř., avšak uplatnili takové námitky, které obsahově tento ani jiný dovolací důvod nenaplňují. Proto Nejvyšší soud dovolání obviněných podle § 265i odst. 1 písm. b) tr. ř. odmítl, aniž z jejich podnětu přezkoumal napadený rozsudek a předcházející řízení podle § 265i odst. 3, 4 tr. ř.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 24. září 2002
+Předseda senátu:
+JUDr. Petr Hrachovec
