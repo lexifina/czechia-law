@@ -1,0 +1,18 @@
+29 Odo 184/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce S. o. u. z., O. u. a U. K. U., proti žalovanému Z. – o. d. M., o 44.169,90 Kč s příslušenstvím, vedené u Okresního soudu v Uherském Hradišti pod sp. zn. 9 C 130/93, o dovolání žalovaného proti rozsudku Krajského soudu v Brně ze dne 29. 5. 2001, čj. 20 Co 20/2000-229, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Brně jako soud odvolací výše uvedeným rozsudkem napadený rozsudek Okresního soudu v Uherském Hradišti ze dne 3. 11. 1999 čj. 9 C 130/93 – 214, ve výroku, kterým bylo uloženo žalovanému zaplatit žalobci částku 44.169,90 Kč, potvrdil, a ve výroku, kterým bylo žalovanému uloženo zaplatit žalobci příslušenství z částky 44.169,90 Kč od 1. 2. 1993 do zaplacení, ve výroku o náhradě nákladů účastníků a ve výroku o náhradě nákladů řízení státu, rozsudek soudu prvního stupně zrušil a věc mu v tomto rozsahu vrátil k dalšímu řízení.
+Proti potvrzující části výroku rozhodnutí podal žalovaný včas dovolání, jehož přípustnost spatřuje v tom, že se jedná o věc po právní stránce zásadního významu a připuštění dovolání bylo žalovaným navrženo před vynesením potvrzujícího rozsudku odvolacího soudu. Jako dovolací důvod namítá dovolatel nesprávné právní posouzení věci. V dovolání napadené rozhodnutí dovolatel podrobně rozebírá a navrhuje, aby Nejvyšší soud České republiky rozhodnutí odvolacího soudu zrušil a věc mu vrátil k dalšímu řízení.
+Podle bodu 17., hlavy I., části dvanácté zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů, se projednají a rozhodnou podle dosavadních právních předpisů (to jest podle občanského soudního řádu ve znění účinném před 1. lednem 2001 - dále též jen „o. s. ř.“).
+Podle ust. § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Dovolatel se obsahově dovolává přípustnosti podle ust. § 239 odst. 2 o. s. ř. Podle tohoto ustanovení je dovolání přípustné pouze za předpokladu, že dotčeným výrokem bylo rozhodnuto o peněžitém plnění převyšujícím 20.000,- Kč a v obchodních věcech 50.000,- Kč (srov. § 239 odst. 3 v návaznosti na § 238 odst. 2 o. s. ř. ).
+V posuzovaném případě žalovaný napadá dovoláním rozsudek odvolacího soudu (v hospodářské resp. obchodní věci), jímž bylo potvrzujícím výrokem rozhodnuto o částce 44.169,90 Kč. Dovoláním napadeným potvrzujícím výrokem rozsudku bylo tedy rozhodnuto o peněžitém plnění nepřevyšujícím částku 50.000,- Kč, takže přípustnost dovolání ve věci není podle ust. § 239 odst. 3 o. s. ř. dána. Jiný důvod přípustnosti dovolání Nejvyšší soud neshledal.
+Dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný. Nejvyšší soud České republiky proto dovolání žalované - aniž by se mohl věcí dále zabývat - podle ustanovení § 243 odst. 4, věty první, a § 218 odst. 1 písm. c) o. s. ř. odmítl.
+Dovolatel z procesního hlediska zavinil, že dovolání bylo odmítnuto, u žalobce však žádné prokazatelné náklady dovolacího řízení zjištěny nebyly. Této procesní situaci odpovídá ve smyslu ustanovení § 146 odst. 2, věty první (per analogiam), § 224 odst. 1 a § 243b odst. 4 o. s. ř. výrok o tom, že na náhradu nákladů dovolacího řízení nemá právo žádný z účastníků.
+Proti tomuto rozhodnutí není opravný prostředek přípustný.
+V Brně 30. července 2002
+JUDr. František F a l d y n a, CSc., v. r.
+předseda senátu
