@@ -1,0 +1,110 @@
+II.ÚS 79/93 ze dne 11. 1. 1994
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Česká republika
+
+
+
+
+
+
+
+
+
+
+USNESENÍ
+
+
+
+
+
+
+
+
+
+
+Ústavního soudu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spis.zn.
+ II. ÚS 79/93
+	    ČESKÁ REPUBLIKA
+	    USNESENÍ
+                    Ústavního soudu České republiky
+Ústavní soud ČR rozhodl mimo ústní jednání soudcem zpravodajem dne 11. 1. 1994 ve věci ústavní stížnosti pana O. V.,
+t a k t o :
+Ú s t a v n í  s o u d  n á v r h  o d m í t á . 
+                O d ů v o d n ě n í :
+Soudce zpravodaj podle ustanovení § 43 odst. 1 písm. a) zák.č. 182/93 Sb. návrh odmítl, neboť navrhovatel neodstranil vady návrhu podání ve lhůtě jemu k tomu určené.
+Doporučeným dopisem, který navrhovatel obdržel dne 1. 10. 1993, byl ústavním soudcem poučen o náležitostech ústavní stížnosti a současně byl vyzván, aby odstranil vady podání stížnosti ve lhůtě 15 dnů ode dne doručení.
+Přestože i po dalším prodloužení lhůty ze dne 17. 11. 1993, kterou jste obdržel dne 23. 11.1993, vady podání dosud nebyly odstraněny, bylo proto nutno návrh odmítnout.
+Toto odmítnutí nevylučuje, aby byla podána nová kvalifikovaná žádost, která bude obsahovat podmínky zák. č. 182/93 Sb. 
+Poučení: Proti tomuto usnesení není odvolání přípustné.
+V Brně dne 11. 1. 1994		                        JUDr. Antonín Procházka 
+                                                                              soudce zpravodaj
+1
