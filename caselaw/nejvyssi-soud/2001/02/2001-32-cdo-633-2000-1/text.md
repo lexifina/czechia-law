@@ -1,0 +1,33 @@
+29 Cdo 633/2000
+ČESKÁ REPUBLIKA
+ROZSUDEK
+JMÉNEM REPUBLIKY
+Nejvyšší soud České republiky jako soud dovolací rozhodl v senátě složeném z předsedy JUDr. Ing. Jana Huška a soudců JUDr. Františka Faldyny, CSc. a JUDr. Zdeňka Krčmáře v právní věci žalobce E., a. s., nyní B. - E. , a. s., zast. advokátem, proti žalovanému J. K. , o zaplacení částky 418.558,80 Kč s přísl., k dovolání žalobce proti rozsudku Vrchního soudu v Praze ze dne 11. 10. 1999, čj 8 Cmo 432/98 - 134, takto:
+Rozsudek Vrchního soudu v Praze ze dne 11. 10. 1999, čj. 8 Cmo 432/98 - 134 se zrušuje a věc se vrací tomuto soudu k dalšímu řízení.
+O d ů v o d n ě n í :
+Vrchní soud v Praze rozsudkem ze dne 11. 10. 1999, č.j. 8 Cmo 432/98 - 134 změnil rozsudek Krajského soudu v Hradci Králové ze dne 7. 4. 1998, č. j. 24 -cm 863/93 - 110 ve výrocích I., II. a III. tak, že žalobu o zaplacení 418.558,80 Kč s přísl., které soud prvního stupně vyhověl, zamítl a dále změnil rozhodnutí soudu prvního stupně o náhradě nákladů řízení před tímto soudem.
+Odvolací soud v odůvodnění rozsudku zejména uvedl, že žalobce se domáhal zaplacení žalované částky za dodávku stropních svítidel. Soud se předně zabýval "Dohodou o uhrazení dlužné částky", kterou uzavřel žalobce (zastoupený společností P., s. r. o.) se žalovaným a interpretoval ji jako uznání závazku podle § 323 obch. zák.; tím byla podle něj založena vyvratitelná právní domněnka existence závazku.
+Ze skutkového zjištění soudu prvního stupně se kterým se odvolací soud ztotožnil, pak dovodil, že mezi stranami byla uzavřena kupní smlouva podle § 409 a násl. obch. zák.
+Žalobce však podle odvolacího soudu v průběhu řízení netvrdil a neprokazoval, kdy a jak umožnil žalovanému se zbožím nakládat (např. výzvou k odvozu zboží). Podle § 450 odst. 1 obch. zák. nevyplývá-li ze smlouvy něco jiného, je kupující povinen zaplatit kupní cenu, když prodávající v souladu se smlouvou a obchodním zákoníkem umožní kupujícímu nakládat se zbožím nebo s doklady umožňujícími kupujícímu nakládat se zbožím.
+Odvolací soud proto dospěl k závěru, že "žalovanému se podařilo vyvrátit právní domněnku o existenci závazku v době jeho uznání, protože žalobce neprokázal, že by žalovanému poskytl plnění, jehož zaplacení se domáhá" a žalobu zamítl v celém rozsahu.
+Dovoláním podaným dne 22. 12. 1999 napadl žalobce uvedený rozsudek odvolacího soudu v celém rozsahu z důvodů podle ust. § 241 odst. 3 písm. b), c) a d) o. s. ř.
+V dovolání žalobce zejména uvedl, že rozhodnutí odvolacího soudu vychází ze skutkového zjištění, které nemá oporu v provedeném dokazování. Odvolací soud zcela pominul výpověď svědka ing. V. A., z níž vyplývá, že na zakázce, pro kterou byla dodávaná svítidla určena, byla svítidla dodaná žalobcem namontována. Odvolací soud rovněž pominul skutečnost, že teprve po vydání prvního rozsudku soudu prvního stupně začal žalovaný účelově tvrdit, že zboží nepřevzal.
+Žalobce je dále názoru, že odvolací soud věc vadně zhodnotil z právního hlediska, neboť bylo nesprávně aplikováno ust. § 323 obch. zák. Odůvodnění rozsudku obsahuje zásadní rozpor, neboť na jedné straně odvolací soud konstatuje, že nastala právní domněnka existence závazku a na straně druhé poukazuje na to, že žalobce neunesl důkazní břemeno. Bylo však na žalovaném, aby domněnku o existenci závazku vyvrátil a k tomu podle dovolatele v odvolacím řízení nedošlo.
+Dovolatel proto navrhuje, aby Nejvyšší soud České republiky napadené rozhodnutí zrušil a vrátil věc odvolacímu soudu k dalšímu řízení.
+Žalovaný se k dovolání nevyjádřil.
+Nejvyšší soud České republiky jako soud dovolací nejprve posoudil dovolání žalobce podle ustanovení § 240 odst. 1, § 241 odst. 1, 2 o. s. ř., ve znění platném do 31. 12. 2000 (dále jen "o. s. ř."), neboť podle části dvanácté, hlavy I., bodu 17 Zák. č. 30/2000 Sb. se projednání a rozhodnutí tohoto dovolání řídí dosavadními předpisy a konstatoval, že dovolání bylo podáno včas, oprávněnou osobou, a obsahuje stanovené náležitosti, dovolatel je zastoupen advokátem a jím bylo dovolání též sepsáno.
+Dovolací soud s ohledem na usnesení Krajského obchodního soudu v Brně čj. F 17547/99, B 811/15/1 ze dne 22. 11. 1999 označil žalobce jeho novým obchodním jménem.
+Dovolání je v posuzovaném případě přípustné podle ust. § 238 odst. 1 písm. a) o. s. ř., neboť odvolací soud změnil rozsudek soudu prvního stupně ve věci samé.
+Nejvyšší soud vycházeje ze skutkových zjištění soudů učiněných v předchozím řízení zjistil, že žalobce se domáhal zaplacení částky 418.558,80 Kč s přísl. jako ceny za zboží, které bylo podle jeho tvrzení žalovanému dodáno a žalovaným bylo převzato. V Dohodě o uhrazení dlužné částky (čl. 24) uzavřené mezi žalobcem, který byl zastoupen společností P., s. r. o., žalovaný svůj závazek zaplatit dlužnou částku uznal.
+Podle § 323 obch. zák. platí, že uzná-li někdo písemně svůj určitý závazek, má se zato, že v uznaném rozsahu tento závazek trvá v době uznání. Uznáním dluhu se zakládá vyvratitelná právní domněnka, že dluh existoval v době, kdy k uznání došlo. Důsledkem uznání závazku je tedy přesun důkazní povinnosti z věřitele na dlužníka.
+Podle § 133 o. s. ř. skutečnost pro kterou je v zákoně stanovena domněnka, jež připouští důkaz opaku, má soud za prokázanou, pokud v řízení nevyšel najevo opak.
+Jestliže odvolací soud opřel své rozhodnutí o to, že se věřiteli (žalobci) nepodařilo prokázat kdy a jak umožnil žalovanému se zbožím nakládat a kdy žalovaný zboží převzal, tedy existenci závazku, spočívá toto rozhodnutí na nesprávném posouzení důkazního břemene, neboť za tohoto stavu bylo naopak na dlužníku (žalovaném), aby neexistenci uznaného závazku tvrdil a dokázal (srov. § 79 a § 101 odst. 1 o. s. ř.). Povinností žalovaného bylo, aby prokázal, že zboží nepřevzal.
+Dovolacímu soudu proto nezbylo než konstatovat, že dovolání je důvodné, neboť spočívá na nesprávném posouzení důkazního břemene v situaci, kdy žalobce disponuje uznáním závazku žalovaným podle § 323 obch. zák.
+Nejvyšší soud proto podle § 323 obch. zák., § 238 odst. 1 písm. a), § 241 odst. 3 písm. c) a § 243b odst. 1, 2 o. s. ř. rozhodl tak, že rozsudek odvolacího soudu zrušil a věc vrátil tomuto soudu k dalšímu řízení.
+Vzhledem k tom u dovolací soud dospěl k závěru, že jeden dovolací důvod dle ust. § 241 odst. 3 písm. c) o. s. ř., neboť tento důvod je dán i tehdy, neodpovídá-li výsledek hodnocení důkazů tomu, co mělo být zjištěno způsobem vyplývajícím z ust. § 133 o. s. ř.
+O nákladech dovolacího řízení bude podle § 243d odst. 1, posl. věta o. s. ř. rozhodnuto v novém rozhodnutí o věci.
+Proti tomuto rozsudku není opravný prostředek přípustný.
+V Brně 21. února 2001
+JUDr. Ing. Jan H u š e k, v.r.
+předseda senátu
+Za správnost vyhotovení: Naděžda Solařová
