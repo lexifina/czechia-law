@@ -1,0 +1,16 @@
+11 Tvo 62/2002
+U S N E S E N Í
+Nejvyšší soud projednal v neveřejném zasedání konaném dne 24. října 2002 stížnost obviněného R. T., proti usnesení Vrchního soudu v Olomouci ze dne 18. 9. 2002, sp. zn. 2 To 166/2002, a rozhodl t a k t o:
+Podle § 148 odst. 1 písm. c) tr. řádu s e stížnost obviněného R. T. z a m í t á.
+O d ů v o d n ě n í :
+Rozsudkem Krajského soudu v Brně ze dne 29. 3. 2002, sp. zn. 11 T 20/98, ve znění opravy v usnesení tohoto soudu ze dne 8. 7. 2002, sp. zn. 11 T 20/98, byl obviněný R. T. uznán vinným trestným činem podvodu podle § 250 odst. 1, 3 písm. b) tr. zák. a trestným činem padělání a pozměňování veřejné listiny podle § 176 odst. 1 tr. zák. a podle § 250 odst. 3 tr. zák. za použití § 35 odst. 2 tr. zák. odsouzen k souhrnnému trestu odnětí svobody v trvání šesti let, pro jehož výkon byl zařazen do věznice s ostrahou, za současného zrušení výroku o trestu rozsudku Krajského soudu v Brně ze dne 20. 5. 1999, sp. zn. 7 To 118/99. Podle § 228 odst. 1 tr. řádu bylo rozhodnuto o povinnosti obviněného nahradit poškozeným způsobenou škodu. Stejným rozsudkem bylo rozhodnuto o vině a trestu obviněných D. C., J. H., V. M. a I. M.
+Proti tomuto rozsudku podal obviněný R. T., stejně jako obvinění V. M. a I. M., odvolání a trestní věc se v současné době nachází ve stadiu odvolacího řízení před Vrchním soudem v Olomouci.
+Vrchní soud v Olomouci usnesením ze dne 18. 9. 2002, sp. zn. 2 To 166/2002, podle § 71 odst. 4, 6, 7 tr. řádu ponechal obviněného R. T. i nadále ve vazbě.
+Proti tomuto usnesení podal obviněný stížnost, kterou zdůvodnil tvrzením, že vazební důvody uvedené v ustanovení § 67 písm. a), c) tr. řádu u něj neexistují a proto navrhl, aby byl z vazby propuštěn na svobodu.
+Nejvyšší soud z podnětu podané stížnosti přezkoumal podle § 147 odst. 1 tr. řádu správnost napadeného rozhodnutí i řízení, které mu předcházelo, a dospěl k tomuto závěru.
+Obviněný byl vzat do vazby usnesením Krajského soudu v Brně ze dne 18. 6. 2001, sp. zn. 11 T 13/2001, z důvodů uvedených v § 67 odst. 1 písm. a), b), c) tr. řádu. V současné době je obviněný R. T. ve vazbě už jen z důvodů uvedených v § 67 písm. a), c) tr. řádu. O důvodnosti vazby obviněného bylo v průběhu dosavadního řízení opakovaně rozhodováno. Rozsudkem soudu prvního stupně byl obviněný uznán vinným závažným majetkovým trestným činem, a protože nejde o rozhodnutí pravomocné, je stále ohrožen vysokou trestní sazbou. Na důvodnosti vazby obviněného se v průběhu celého řízení nic nezměnilo, a tak lze, jak pokud jde o obavu z možného opakování trestné činnosti, tak z vyhýbání se trestnímu řízení, odkázat na výstižná zdůvodnění všech předchozích rozhodnutí. Totéž v plné míře platí o výroku i odůvodnění napadeného usnesení vrchního soudu. Protože se Nejvyšší soud s tímto rozhodnutím ztotožňuje, může v plném rozsahu odkázat i na jeho výstižné odůvodnění. Trestní řízení proti obviněnému trvá zatím dobu, která je přiměřená náročnosti projednávané věci, žádné nepřiměřené průtahy během tohoto řízení zjištěny nebyly. Za tohoto stavu se proto stížnost obviněného R. T. nemohla setkat s úspěchem.
+Ze všech těchto důvodů bylo rozhodnuto, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 24. října 2002
+Předseda senátu :
+JUDr. Pavel Kučera
