@@ -1,0 +1,16 @@
+11 Tvo 33/2003
+U S N E S E N Í
+Nejvyšší soud projednal v neveřejném zasedání konaném dne 28. listopadu 2003 stížnost obviněného M. N., proti usnesení Vrchního soudu v Praze ze dne 20. 8. 2003, sp. zn. 2 To 117/03, a rozhodl t a k t o :
+Podle § 148 odst. 1 písm. c) tr. řádu s e stížnost obviněného M. N. z a m í t á .
+O d ů v o d n ě n í :
+Rozsudkem Městského soudu v Praze ze dne 29. 5. 2003, sp. zn. 43 T 15/2002, byl obviněný M. N. uznán vinným pokračujícím trestným činem nedovolené výroby omamných a psychotropních látek a jedů podle § 187 odst. 1, 2 písm. a) tr. zák. a odsouzen k nepodmíněnému trestu odnětí svobody v trvání sedmi roků, pro jehož výkon byl zařazen do věznice s ostrahou, a k trestu propadnutí věci. Stejným rozsudkem bylo rozhodnuto o vině a trestu obviněného S. P.
+Proti tomuto rozsudku podal obviněný M. N. a v jeho neprospěch i městská státní zástupkyně odvolání a trestní věc se v době rozhodování o vazbě nacházela ve stadiu odvolacího řízení před Vrchním soudem v Praze.
+Vrchní soud v Praze usnesením ze dne 20. 8. 2003, sp. zn. 2 To 117/03, podle § 71 odst. 4, 7 tr. řádu ponechal obviněného M. N. i nadále ve vazbě.
+Proti tomuto usnesení podal obviněný v zákonné lhůtě stížnost, neboť s ponecháním ve vazbě nesouhlasí a proto navrhuje, aby byl z vazby propuštěn. Současně nabídl písemný slib, že v případě propuštění z vazby na svobodu povede řádný život, zejména, že se nedopustí žádné trestné činnosti a vždy se bude řádně dostavovat na předvolání orgánů činných v trestním řízení.
+Nejvyšší soud z podnětu podané stížnosti přezkoumal podle § 147 odst. 1 tr. řádu správnost napadeného rozhodnutí i řízení, které mu předcházelo, a dospěl k tomuto závěru.
+O důvodnosti vazby obviněného M. N. bylo v průběhu dosavadního řízení opakovaně rozhodováno, naposledy usnesením Vrchního soudu v Praze ze dne 20. 8. 2003, kterým byl ponechán ve vazbě, neboť u obviněného byly i nadále shledány důvody vazby útěkové a předstižné. Rozsudkem soudu prvního stupně byl obviněný uznán vinným žalovaným trestným činem, jedná se o cizího státního příslušníka a s ohledem na odvolání městské státní zástupkyně v jeho neprospěch mu stále hrozí přísný trest. Za tohoto stavu je obava z vyhýbání se trestnímu řízení, ať již tím, že by mohl uprchnout, nebo tím, že by se mohl skrývat, stejně jako obava z opakování trestné činnosti, i nadále reálná. Obava z toho, že se obviněný při pobytu na svobodě bude chovat způsobem předvídaným ustanovením § 67 písm. a), c) tr. řádu, je natolik silná, že ji nelze rozptýlit ani nabízeným písemným slibem obviněného. V tomto směru lze odkázat na zdůvodnění všech předchozích rozhodnutí, včetně výroku i odůvodnění napadeného usnesení vrchního soudu. Protože se Nejvyšší soud s tímto rozhodnutím plně ztotožňuje, nemohla se stížnost obviněného M. N. setkat s úspěchem a nezbylo, než rozhodnout, jak je ve výroku tohoto usnesení uvedeno.
+V současné době jsou ovšem úvahy o důvodnosti vazby obviněného M. N. zbytečné, protože rozsudkem Vrchního soudu v Praze ze dne 4. září 2003 byla trestní věc obviněného pravomocně skončena a obviněný byl převeden z vazby do výkonu trestu odnětí svobody.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 28. listopadu 2003
+Předseda senátu :
+JUDr. Pavel Kučera
