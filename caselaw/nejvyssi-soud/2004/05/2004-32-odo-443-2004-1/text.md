@@ -1,0 +1,16 @@
+32 Odo 443/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Kateřiny Hornochové a soudců JUDr. Zdeňka Dese a JUDr. Miroslava Galluse ve věci žalobce RNDr. P. P., zastoupeného, advokátem, proti žalovanému J. E., zastoupenému, advokátem, o vypořádání sdružení, vedené u Okresního soudu v Šumperku pod sp. zn. 9 C 115/99, o dovolání žalovaného proti usnesení Krajského soudu v Ostravě - pobočka v Olomouci ze dne 30. října 2003 č. j. Nc 77/2003 - 151, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Krajský soud v Ostravě - pobočka v Olomouci usnesením ze dne 30. října 2003 č. j. Nc 77/2003 - 151 zamítl návrh žalovaného na opravu odůvodnění rozsudku Okresního soudu v Šumperku ze dne 24. dubna 2003 č. j. 9 C 115/99 - 133. Předmětný návrh předložil Okresní soud v Šumperku ve smyslu § 165 odst. 2 o. s. ř., neboť sám usnesením ze dne 8. října 2003 č. j. 9 C 115/99 - 148 návrhu nevyhověl.
+Proti usnesení odvolacího soudu podal žalovaný dovolání, v němž požadoval zrušit rozhodnutí odvolacího soudu. Dovolatel namítá, že rozhodnutí spočívá na nesprávném právním posouzení věci.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř. ) po zjištění, že dovolání proti pravomocnému usnesení odvolacího soudu bylo podáno ve lhůtě uvedené v § 240 odst. 1 o. s. ř. a k tomu oprávněným subjektem (žalovaným), dospěl k závěru, že dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Za podmínek stanovených ustanovením § 237 o. s. ř. je dovolání přípustné proti rozhodnutí ve věci samé. Rozhodnutím ve věci samé je rozhodnutí o předmětu řízení, pro nějž se řízení vede. Jde-li o spor mezi účastníky, kteří proti sobě stojí v postavení žalobce a žalovaného, je „věcí samou“ nárok uplatněný v žalobě. V posuzovaném případě by rozhodnutím ve věci samé bylo rozhodnutí o žalobcem uplatněném nároku o vypořádání sdružení. Dovoláním napadeným usnesením však odvolací soud nerozhodoval o žalobcem uplatněném nároku, nýbrž zamítl návrh žalovaného na opravu odůvodnění rozsudku soudu prvního stupně. Přípustnost dovolání proto nelze posoudit podle ustanovení § 237 o. s. ř.
+Protože napadené usnesení odvolacího soudu je svou povahou rozhodnutím nemeritorním, bylo namístě posoudit přípustnost dovolání podle ustanovení § 239 o. s. ř. Toto ustanovení sice přiznává účastníku možnost podat dovolání proti nemeritornímu rozhodnutí odvolacího soudu, ovšem v případech, které jsou zde ve výčtu výslovně uvedeny. Usnesení, jímž byl zamítnut návrh žalovaného na opravu odůvodnění rozsudku soudu prvního stupně, ve výčtu uvedeno není; nelze proto přípustnost dovolání v dané věci podle ustanovení § 239 o. s. ř. dovodit.
+Lze uzavřít, že dovolání žalovaného není přípustné podle § 237 o. s. ř. ani podle § 239 o. s. ř. či ostatních ustanovení o. s. ř. Nejvyšší soud České republiky proto dovolání žalovaného podle § 243b odst. 5 a § 218 písm. c) o. s. ř. jako nepřípustné bez jednání odmítl.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 27. května 2004
+JUDr. Kateřina Hornochová,v.r.
+předsedkyně senátu
