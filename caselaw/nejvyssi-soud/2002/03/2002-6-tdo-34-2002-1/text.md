@@ -1,0 +1,18 @@
+6 Tdo 34/2002
+U S N E S E N Í
+Nejvyšší soud České republiky projednal v neveřejném zasedání dne 26. března 2002 dovolání obviněného M. Ch. H., podané proti rozsudku Vrchního soudu v Olomouci ze 14. 12. 2001, sp. zn. 5 To 23/2001, v trestní věci vedené u Krajského soudu v Ostravě, pobočka v Olomouci, pod sp. zn. 53 T 3/2001, a rozhodl t a k t o :
+Podle § 265i odst. 1 písm. a) tr. řádu se dovolání obviněného M. Ch. H. o d m í t á .
+O d ů v o d n ě n í :
+Rozsudkem Krajského soudu v Ostravě, pobočka v Olomouci, ze dne 1. 8. 2001, sp. zn. 53 T 3/2001, byl obviněný M. Ch. H. odsouzen za trestný čin vraždy podle § 219 odst. 1 tr. zák. a pokus trestného činu vraždy podle § 8 odst. 1, § 219 odst. 1 tr. zák. k úhrnnému trestu odnětí svobody v trvání deseti let a šesti měsíců, pro jehož výkon byl zařazen do věznice se zvýšenou ostrahou. Dále byl obviněnému uložen trest propadnutí věci – útočného nože a bylo rozhodnuto o náhradě škody.
+K odvolání obviněného M. Ch. H. a k odvolání státního zástupce, podaným proti tomuto rozsudku krajského soudu, Vrchní soud v Olomouci rozsudkem ze 14. 12. 2001, sp. zn. 5 To 23/2001, zrušil rozhodnutí soudu prvního stupně v celém výroku o trestu v části výroku o náhradě škody a podle § 259 odst. 3 tr. řádu sám nově ve věci rozhodl. Při nezměněném výroku o vině odvolací soud uložil obviněnému M. Ch. H. úhrnný trest odnětí svobody v trvání dvanácti let s výkonem ve věznici se zvýšenou ostrahou a podle § 57 odst. 1, odst. 2 tr. zák. trest vyhoštění z území republiky na dobu neurčitou. Ohledně útočného nože nebyl obviněnému uložen trest propadnutí věci, ale soud rozhodl podle § 73 odst. 1 písm. c) tr. zák. o jeho zabrání. A nově rozhodl odvolací soud v příslušném rozsahu též o náhradě škody.
+Podle doručenek a záznamů o doručení zásilky, založených v trestním spisu, byl rozsudek odvolacího soudu doručen Krajskému státnímu zastupitelství v Ostravě, pobočka Olomouc, dne 15. 1. 2002, obviněnému M. Ch. H. dne 21. 1. 2002 a jeho obhájci Mgr. I. Š. dne 16. 1. 2002.
+Dne 21. 3. 2002 bylo Nejvyššímu soudu České republiky doručeno dovolání obviněného M. Ch. H. proti rozsudku Vrchního soudu v Olomouci ze 14. 12. 2001, sp. zn. 5 To 23/2001, doručené krajskému soudu podle prezentačního razítka dne 14. 3. 2002.
+Nejvyšší soud České republiky shledal, že v posuzované trestní věci obviněného M. Ch. H. není dovolání přípustné.
+Dovolání jako nový mimořádný opravný prostředek v trestním řízení se stalo součástí právního řádu České republiky na základě novely trestního řádu, realizované s účinností od 1. ledna 2002 zákonem č. 265/2001 Sb.
+Časová působnost trestního řádu vychází kromě jiného ze zásady, že trestní řízení se koná podle zákona platného a účinného v době, kdy toto řízení probíhá. Dovolání v trestním řízení bylo zavedeno s účinností od 1. ledna 2002, z čehož je nutno podle názoru Nejvyššího soudu dovodit, že všechny zákonné podmínky pro jeho podání musí nastat až po tomto datu, to znamená za účinnosti shora citovaného zákona č. 265/2001 Sb.
+Pokud tudíž byl dovoláním napadený rozsudek Vrchního soudu v Olomouci pravomocně vydán dne 14. 12. 2001, již tato skutečnost sama o sobě založila procesní stav, kdy nebylo dovolání proti tomuto rozhodnutí odvolacího soudu přípustné.
+Nejvyšší soud České republiky proto dovolání obviněného M. Ch. H. jako nepřípustné podle § 265i odst. 1 písm. a) tr. řádu odmítl, aniž byl oprávněn postupovat podle ustanovení § 265i odst. 3, odst. 4 tr. řádu a své rozhodnutí Nejvyšší soud učinil v souladu s ustanovením § 265r odst. 1 písm. a) tr. řádu v neveřejném zasedání.
+Poučení: Proti tomuto usnesení o dovolání není s výjimkou obnovy řízení opravný prostředek přípustný (§ 265n tr. řádu).
+V Brně dne 26. března 2002
+Předseda senátu:
+JUDr. Zdeněk S o v á k
