@@ -1,0 +1,15 @@
+7 Tdo 65/2002
+U S N E S E N Í
+Nejvyšší soud rozhodl v neveřejném zasedání dne 10. 4. 2002 o dovolání obviněného M. K., proti rozsudku Krajského soudu v Ostravě ze dne 18. 12. 2001, sp. zn. 5 To 388/2001, v trestní věci vedené u Okresního soudu v Karviné – pobočka v Havířově pod sp. zn. 102 T 239/2000 t a k t o :
+Podle § 265i odst. 1 písm. a) tr. ř. se dovolání obviněného M. K. o d m í t á .
+O d ů v o d n ě n í :
+V trestní věci vedené u Okresního soudu v Karviné – pobočka v Havířově pod sp. zn. 102 T 239/2000 podal obviněný M. K. dne 21. 3. 2002 dovolání proti rozsudku Krajského soudu v Ostravě ze dne 18. 12. 2001, sp. zn. 5 To 388/2001.
+Nejvyšší soud shledal, že dovolání není v této věci přípustné.
+Dovolání je mimořádný opravný prostředek zavedený do trestního řádu nově s účinností od 1. 1. 2002 zákonem č. 265/2001 Sb. Časová působnost trestního řádu a jeho novel je založena na zásadě, že trestní řízení se koná podle zákona účinného v době řízení. Trestní stíhání obviněného M. K. v dané věci probíhalo a pravomocně skončilo před účinností zákona č. 265/2001 Sb., tj. před 1. 1. 2002. Nebylo tedy v té době vystaveno tomu, že by pravomocné rozhodnutí mohlo být napadeno jinak než stížností pro porušení zákona podle § 266 odst. 1 a násl. tr. ř. nebo návrhem na povolení obnovy řízení podle § 277 odst. 1 a násl. tr. ř. Jestliže dovolání bylo jako další mimořádný opravný prostředek zavedeno s účinností od 1. 1. 2002, vyplývá z toho, že může být podáno pouze tehdy, když v š e c h n y podmínky pro jeho podání nastanou v době od 1. 1. 2002, to znamená za účinnosti zákona č. 265/2001 Sb.
+Podle § 265a odst. 1 tr. ř. dovoláním lze napadnout pravomocné rozhodnutí soudu ve věci samé, jestliže soud rozhodl ve druhém stupni a zákon to připouští. Ta část citovaného ustanovení, která je vyjádřena slovy „a zákon to připouští“, má ve vztahu k 1. 1. 2002 jako počátku účinnosti zákona č. 265/2001 Sb. nejen ten význam, že dovolání je možné podat až od 1. 1. 2002, ale znamená i to, že dovolání je možné podat jen proti takovému rozhodnutí soudu druhého stupně, které nabylo právní moci, tj. bylo vyhlášeno, v době od 1. 1. 2002. Rozhodnutím, ve vztahu k němuž je splněna zákonná podmínka pro dovolání, která odpovídá zákonné dikci „a zákon to připouští“, je jen rozhodnutí, které soud druhého stupně vyhlásil v době od 1. 1. 2002.
+Navíc žádné z přechodných ustanovení zákona č. 265/2001 Sb. (viz čl. II tohoto zákona) nepřipouští podat dovolání proti rozhodnutí, jímž trestní stíhání pravomocně skončilo před účinností uvedeného zákona. Pouze takové výslovné ustanovení by totiž mohlo znamenat průlom do zásady, že trestní řízení se koná podle zákona účinného v době řízení.
+Z toho vyplývá závěr, že v posuzované věci jde o případ, kdy dovolání bylo podáno proti rozhodnutí, proti kterému to není přípustné. Nejvyšší soud proto dovolání obviněného odmítl, aniž z jeho podnětu přezkoumal napadený rozsudek a předcházející řízení.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 10. dubna 2002
+Předseda senátu:
+JUDr. Petr Hrachovec
