@@ -1,0 +1,16 @@
+7 Nd 121/2001
+U S N E S E N Í
+Nejvyšší soud v senátě složeném z předsedy JUDr. Jana Engelmanna a soudců JUDr. Petra Hrachovce a JUDr. Zdeňka Sováka v právní věci žalobce MUDr. V. V., zastoupeného JUDr. V. P., advokátem, proti žalovanému L. N., o zaplacení částky 145.500,-- Kč s příslušenstvím, vedené u Okresního soudu ve Zlíně pod sp. zn. 20 C 22/2001, rozhodl o návrhu žalobce na přikázání věci Obvodnímu soudu pro Prahu 1 z důvodu vhodnosti t a k t o :
+Návrh žalobce na přikázání věci Obvodnímu soudu pro Prahu 1 se z a m í t á.
+O d ů v o d n ě n í :
+U Okresního soudu ve Zlíně jako soudu věcně a místně příslušného je vedeno pod sp. zn. 20 C 22/2001 řízení o žalobě, v níž se žalobce domáhá proti žalovanému zaplacení částky ve výši 145.500,-- Kč s příslušenstvím. Žaloba byla podána u Okresního soudu ve Zlíně dne 9. 2. 2001. Současně s podanou žalobou podal žalobce také návrh na přikázání věci Obvodnímu soudu pro Prahu 1, který odůvodnil tím, že jak žalobce, tak i žalovaný mají v Praze trvalé bydliště či se zde alespoň zdržují.
+Okresní soud ve Zlíně sice zaslal žalovanému písemnosti na adresu uvedenou žalobcem, ale tyto se vrátily s tím, že se žalovaný odstěhoval bez udání adresy. Vyjádření žalovaného k navrhované delegaci věci nebylo opatřeno.
+Nejvyšší soud shledal, že v daném případě nejsou dány zákonné podmínky k tomu, aby věc byla přikázána jinému než příslušnému soudu.
+Podle § 12 odst. 2 o. s. ř. může být věc přikázána jinému soudu téhož stupně z důvodu vhodnosti.
+V předmětné věci z obsahu spisu nevyplývá žádná skutečnost, ze které by bylo možno přesvědčivě dovodit a odůvodnit, že je vhodné, aby místo věcně a místně příslušného Okresního soudu ve Zlíně věc projednal a rozhodl Obvodní soud pro Prahu 1. Tvrzení uváděná žalobcem v návrhu na přikázání věci nebyla prokázána. Ze zpráv, které jsou založeny ve spise je zřejmé, že žalovaný se sice v Praze, na adrese žalobcem uvedené, zdržoval, ale odtud se odstěhoval a novou adresu neuvedl. Z dalších opatřených zpráv Okresním soudem ve Zlíně je patrno, že žalovaný má i nadále trvalé bydliště v obvodu Okresního soudu ve Zlíně, byť se na této adrese nezdržuje a žádná jiná adresa žalovaného není známa.
+Postup podle § 12 odst. 2 o. s. ř. představuje výjimku ze zásady, že řízení koná soud, jehož příslušnost je dána zákonem. Tato zásada je upravena v čl. 38 odst. 1 Listiny základních práv a svobod. Přikázání věci jinému než příslušnému soudu se musí opírat o takové okolnosti, které jsou svojí povahou a významem skutečně výjimečné. Na žádnou výjimečnou skutečnost nebylo v návrhu na přikázání věci poukázáno a shora uvedená okolnost, že také žalovaný se zdržuje v Praze nebyla potvrzena. Avšak ani okolnost, že by žalovaný se zdržoval v Praze, jak uváděl v návrhu na přikázání věci žalobce, nemusí být tou výjimečnou skutečností, která by odůvodňovala přikázání věci jinému než příslušnému soudu, když zejména je možno poukázat také na možný nesouhlas žalovaného s navrhovanou delegací věci.
+Vzhledem ke skutečnostem shora uvedeným Nejvyšší soud návrh na přikázání věci Obvodnímu soudu pro Prahu 1 zamítl.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 16. května 2001
+Předseda senátu:
+JUDr. Jan Engelmann
