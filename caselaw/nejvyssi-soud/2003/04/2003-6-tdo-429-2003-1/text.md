@@ -1,0 +1,18 @@
+6 Tdo 429/2003
+U S N E S E N Í
+Nejvyšší soud České republiky projednal v neveřejném zasedání konaném dne 16. dubna 2003 dovolání obviněného I. S., podané proti usnesení Krajského soudu v Brně ze dne 3. 12. 2001, sp. zn. 8 To 494/2001, jako soudu odvolacího v trestní věci vedené u Městského soudu v Brně pod sp. zn. 1 T 93/2001, a rozhodl t a k t o :
+Podle § 265i odst. 1 písm. a) tr. řádu se dovolání obviněného I. S. o d m í t á .
+O d ů v o d n ě n í :
+Rozsudkem Městského soudu v Brně ze dne 11. 9. 2001, sp. zn. 1 T 93/2001, byl obviněný I. S. uznán vinným trestným činem porušování autorského práva podle § 152 odst. 1 tr. zák. a odsouzen podle § 152 odst. 1, § 53 odst. 1, odst. 2 písm. a), b), odst. 3, § 54 odst. 1 tr. zák. k peněžitému trestu ve výši 15.000,- Kč, přičemž pro případ, že by ve stanovené době nebyl peněžitý trest vykonán, byl podle § 54 odst. 3 tr. zák. stanoven náhradní trest odnětí svobody v trvání pěti měsíců. Podle § 228 odst. 1 tr. řádu byla obviněnému současně uložena povinnost uhradit poškozenému Ochrannému svazu autorskému pro práva k dílům hudebním se sídlem v P., škodu ve výši 85.260,- Kč.
+Odvolání obviněného I. S., podané proti shora citovanému rozsudku Městského soudu v Brně, Krajský soud v Brně usnesením ze dne 3. 12. 2001, sp. zn. 8 To 494/2001, podle § 256 tr. řádu zamítl.
+Podle tzv. dodejek a doručenky, založených v trestním spisu, bylo usnesení odvolacího soudu doručeno Městskému státnímu zastupitelství v Brně dne 2. 1. 2002, obviněnému I. S. dne 3. 1. 2002 a jeho obhájci, advokátovi Mgr. M. B., rovněž dne 3. 1. 2002.
+Dne 10. 4. 2003 (!) bylo Nejvyššímu soudu České republiky doručeno dovolání obviněného I. S. proti usnesení Krajského soudu v Brně ze dne 10. 12. 2001, sp. zn. 7 To 380/2001, doručené Městskému soudu v Brně podle prezentačního razítka dne 4. 2. 2002 (viz číslo listu 86 trestního spisu).
+Státní zástupkyně Nejvyššího státního zastupitelství ve svém vyjádření ze dne 9. 4. 2002, sp. zn. 1 NZo 42/2002, označila podané dovolání jako nepřípustné. Navrhla proto, aby bylo podle § 265i odst. 1 písm. a) tr. řádu odmítnuto a aby Nejvyšší soud takto v souladu s ustanovením § 265r odst. 1 písm. a) tr. řádu rozhodl v neveřejném zasedání.
+Nejvyšší soud České republiky shledal, že v posuzované trestní věci obviněného I. S. není dovolání přípustné.
+Dovolání jako nový mimořádný opravný prostředek v trestním řízení se stalo součástí právního řádu České republiky na základě novely trestního řádu, realizované s účinností od 1. ledna 2002 zákonem č. 265/2001 Sb.
+Časová působnost trestního řádu vychází kromě jiného ze zásady, že trestní řízení se koná podle zákona platného a účinného v době, kdy toto řízení probíhá. Dovolání v trestním řízení bylo zavedeno s účinností od 1. ledna 2002, z čehož je nutno podle názoru Nejvyššího soudu dovodit, že všechny zákonné podmínky pro jeho podání musí nastat až po tomto datu, to znamená za účinnosti shora citovaného zákona č. 265/2001 Sb.
+Pokud tudíž bylo dovoláním napadené usnesení Krajského soudu v Brně pravomocně vydáno dne 3. 12. 2001, již tato skutečnost sama o sobě založila procesní stav, kdy nebylo dovolání proti tomuto rozhodnutí odvolacího soudu přípustné.
+Nejvyšší soud České republiky proto dovolání obviněného I. S. jako nepřípustné podle § 265i odst. 1 písm. a) tr. řádu odmítl, aniž byl oprávněn postupovat podle ustanovení § 265i odst. 3, odst. 4 tr. řádu. Své rozhodnutí přitom Nejvyšší soud učinil v souladu s ustanovením § 265r odst. 1 písm. a) tr. řádu v neveřejném zasedání.
+P o u č e n í : Proti tomuto usnesení o dovolání není s výjimkou obnovy řízení opravný prostředek přípustný (§ 265n tr. řádu).
+V Brně dne 16. dubna 2003
+Předseda senátu: JUDr. Zdeněk S o v á k
