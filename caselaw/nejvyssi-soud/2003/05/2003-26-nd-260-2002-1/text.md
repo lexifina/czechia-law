@@ -1,0 +1,16 @@
+26 Nd 260/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně Doc. JUDr. Věry Korecké, CSc. a soudkyň JUDr. Hany Müllerové a JUDr. Blanky Moudré ve věci péče o nezletilé děti D. R. a M. R., obou zastoupených Úřadem pro mezinárodně právní ochranu dětí, Brno, Benešova 22, obou narozených z rodičů matky H. R., zastoupené advokátkou, a otce S. R., o výkon rozhodnutí o úpravu styku s nezletilými dětmi, vedené u Okresního soudu v Novém Jičíně pod sp. zn. 9 Nc 41/2000, o určení místní příslušnosti, takto:
+Nejvyšší soud České republiky neurčuje, který soud projedná a rozhodne věc vedenou u Okresního soudu v Novém Jičíně pod sp. zn. 9 Nc 41/2000.
+O d ů v o d n ě n í :
+Otec nezletilých dětí podal u Okresního soudu v Novém Jičíně návrh na zahájení řízení o výkon rozhodnutí o úpravě styku otce s nezletilými dětmi D. a M. R., které žijí se svojí matkou v Rakouské republice.
+Okresní soud v Novém Jičíně vyslovil usnesením ze dne 13. 12. 2001, č. j. 9 Nc 41/2000-50, podle § 105 odst. 2 o. s. ř. svou místní nepříslušnost a zároveň rozhodl, že po právní moci usnesení bude věc předložena Nejvyššímu soudu k rozhodnutí dle § 11 odst. 3 o.s.ř. Jak uvedl v odůvodnění svého rozhodnutí, dovodil, že ve věci je dána pravomoc soudů České republiky, avšak chybějí podmínky místní příslušnosti.
+Podle § 11 odst. 1 o. s. ř. se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení. Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Podle § 88 písm. c) o. s. ř. je k řízení ve věci péče o nezletilé příslušný soud, v jehož obvodu má nezletilý na základě dohody rodičů nebo rozhodnutí soudu, popřípadě jiných rozhodujících skutečností své bydliště (jde o tzv. příslušnost výlučnou).
+V dané věci byla místní příslušnost Okresního soudu v Novém Jičíně (§ 88 písm. c/ o.s.ř.) založena v řízení o úpravě práv a povinností rodičů k nezletilým dětem R. na dobu po rozvodu. Změna takto založené místní příslušnosti přichází v úvahu jen přenesením příslušnosti podle § 177 odst. 2 o. s. ř. (srov. Bureš, J., Drápal, L., Krčmář, Z., Mazanec, M.: Občanský soudní řád, Komentář, I. díl., 6. vydání, Praha: C. H. Beck, 2003, str. 288, bod 4).
+Rozhodnutí podle § 177 odst. 2 o. s. ř. nelze vydat, není-li soud, na který by měla být místní příslušnost přenesena, českým soudem (nezletilé děti R. žijí s matkou v Rakouské republice). Nemožnost postupu podle § 177 odst. 2 o. s. ř. ovšem nic nemění na tom, že trvá místní příslušnost dosud (původně) příslušného soudu a není tedy důvod pro postup podle § 105 odst. 2 a § 11 odst. 3 o. s. ř.
+Nejvyšší soud proto rozhodl tak, že neurčuje, který místně příslušný soud projedná a rozhodne věc vedenou u Okresního soudu v Novém Jičíně pod sp. zn. 9 Nc 41/2000. Závěr, že trvá místní příslušnost Okresního soudu v Novém Jičíně je přitom závazný i pro tento soud, který – vycházeje z opačného právního názoru – věc Nejvyššímu soudu k rozhodnutí o určení místní příslušnosti předložil.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 29. května 2003
+Doc. JUDr. Věra Korecká, CSc., v.r.
+předsedkyně senátu
