@@ -1,0 +1,21 @@
+33 Odo 313/2001
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci žalobce S.p.b.h. M.O. a P., v likvidaci, proti žalovanému M.P., o zaplacení 89.192,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 10 pod sp. zn. 26 C 124/99, o dovolání žalovaného proti usnesení Městského soudu v Praze ze dne 30. listopadu 2000 č. j. 53 Co 527/2000-54, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Praze usnesením ze dne 30. listopadu 2000 č.j. 53 Co 527/2000-54 odmítl odvolání žalovaného proti rozsudku pro zmeškání Obvodního soudu pro Prahu 10 ze dne 1. února 2000 č. j. 26 C 124/99-35, jímž bylo bylo řízení v rozsahu nároku na zaplacení poplatku z prodlení 2,5 promile z dlužné částky 89.192,- Kč za každý den prodlení od 15.7.1994 do zaplacení zastaveno a žalovanému byla uložena povinnost zaplatit žalobci 89.192,- Kč s 3 % úrokem z prodlení od 1.11.1993 do 14.7.1994 a s 16 % úrokem z prodlení od 15.7.1994 do zaplacení a dále povinnost zaplatit žalobci náklady řízení. Současně rozhodl odvolací soud o náhradě nákladů řízení před soudy obou stupňů.
+Proti usnesení odvolacího soudu podal žalovaný dovolání.
+Podle ustanovení Části dvanácté hlavy I bodu 17 zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, se dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona (1. 1. 2001) nebo vydaným po řízení provedeném podle dosavadních právních předpisů projednají a rozhodnou podle dosavadních právních předpisů (tedy podle občanského soudního řádu ve znění platném do 31. 12. 2000 – dále jen „o. s. ř.\").
+Protože žalovaný nebyl v době podání dovolání zastoupen advokátem a z obsahu spisu nevyplývá, že on sám má právnické vzdělání (§ 241 odst. 1 o. s. ř.), byl usnesením soudu prvního stupně ze dne 2. března 2001 č.j. 26 C 124/99-58, jež bylo žalovanému doručeno dnem 15. března 2001, vyzván, aby si pro podání dovolání v této věci zvolil zástupcem advokáta. Současně soud dovolatele podle § 210 a § 43 odst. 1 o. s. ř. vyzval, aby zvolený advokát dovolání dodatečně podepsal, či se s ním ztotožnil.
+Soud prvního stupně stanovil dovolateli lhůtu patnácti dnů od doručení usnesení k odstranění nedostatku uvedené podmínky dovolacího řízení a k odstranění vad dovolání. Upozornil jej, že nebude-li uvedený nedostatek podmínky dovolacího řízení a vady dovolání ve stanovené lhůtě odstraněny, bude dovolací řízení zastaveno.
+Dovolání je mimořádným opravným prostředkem, kterým lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Povaha dovolání jako mimořádného opravného prostředku, jakož i náročnost na formální náležitosti takového podání, odůvodňují požadavek stanovený v § 241 odst. 1 o. s. ř., aby dovolatel byl zastoupen osobou, která je podle zákona povolána poskytovat právní službu (advokátem), jestliže sám nemá právnické vzdělání. Výjimky z tzv. povinného (nuceného) zastoupení dovolatele v dovolacím řízení ustanovení § 241 odst. 1 o. s. ř. nepřipouští.
+Povinné (nucené) zastoupení je zvláštní podmínkou dovolacího řízení týkající se účastníka řízení (dovolatele). Její nedostatek lze sice odstranit, avšak bez jejího splnění nelze vydat rozhodnutí, kterým se řízení končí.
+Podle § 103 o. s. ř. (§ 243c o. s. ř.) soud kdykoliv za řízení přihlíží k tomu, zda jsou splněny podmínky za nichž může jednat ve věci - podmínky řízení.
+Podle § 104 odst. 2 o. s. ř. jde-li o nedostatek podmínky řízení, který lze odstranit, učiní soud k tomu vhodná opatření. Nezdaří-li se nedostatek podmínky řízení odstranit, soud řízení zastaví.
+Protože v dané věci dovolatel ani na výzvu soudu neodstranil nedostatek povinného zastoupení a sám nemá právnické vzdělání, Nejvyšší soud České republiky podle § 243c a § 104 odst. 2 o. s. ř. dovolací řízení zastavil.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 4, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 2 o. s. ř., žalovaný z procesního hlediska zavinil, že řízení bylo zastaveno a žalobci žádné náklady v souvislosti s dovolacím řízením nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. června 2001
+JUDr. Kateřina H o r n o c h o v á , v. r.
+předsedkyně senátu
