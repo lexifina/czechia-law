@@ -1,0 +1,18 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY 33 Odo 219/2003-95
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci žalobce JUDr. R. S., proti žalovanému Z. H., o zaplacení 40 000 Kč, vedené u Okresního soudu ve Žďáře nad Sázavou pod sp. zn. 8 C 2/99, o dovolání žalovaného proti rozsudku Krajského soudu v Brně ze dne 6. srpna 2002 č. j. 15 Co 276/2000-79, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Brně rozsudkem ze dne 6. srpna 2002 č. j. 15 Co 276/2000-79 potvrdil rozsudek Okresního soudu ve Žďáře nad Sázavou ze dne 2. března 2000 č. j. 8 C 2/99-59, jímž byl žalovaný zavázán do 15 dnů od právní moci rozsudku zaplatit žalobci částku 40 000 Kč.
+Proti rozsudku odvolacího soudu podal žalovaný včas dovolání. Jelikož při podání dovolání nebyl zastoupen advokátem a z dovolání současně nebylo zřejmé, které věci se týká a co dovolatel požaduje, soud prvního stupně jej usnesením ze dne 29. října 2002 č.j. 8 C 2/99-84 doručeným 4. 11. 2002 vyzval, aby ve lhůtě 15 dnů od doručení usnesení odstranil nedostatek povinného zastoupení a vady dovolání.
+Podle ustanovení části dvanácté hlavy I bodu 17 zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, se dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona (1. 1. 2001) nebo vydaným po řízení provedeném podle dosavadních právních předpisů projednají a rozhodnou podle dosavadních právních předpisů (to jest podle občanského soudního řádu ve znění účinném před 1. lednem 2001 - dále jen „o. s. ř.“).
+Podle ustanovení § 241 odst. 1 o. s. ř. musí být dovolatel zastoupen advokátem, jestliže nemá právnické vzdělání buď sám, nebo jeho zaměstnanec (člen), který za něj jedná. Z dovolání zastoupení dovolatele nevyplývá a jiné listiny toto zastoupení nebo právnické vzdělání dovolatele prokazující, nebyly předloženy. Dovolatel pak nedostatek povinného zastoupení ve stanovené lhůtě neodstranil, ač byl o následcích nesplnění této podmínky poučen a přestože žádosti dovolatele o ustanovení zástupce z řad advokátů nebylo usnesením soudu prvního stupně z 23. 1. 2003 č.j. 8 C 2/99-92, které nabylo právní moci 13. 2. 2003, vyhověno.
+Podle § 43 odst. 1 o. s. ř., jež je v dovolacím řízení použitelné ve shodě s § 243c o. s. ř., předseda senát vyzve účastníky, aby nesprávné nebo neúplné podání bylo opraveno nebo doplněno. Poučuje účastníky také, jak je třeba opravu nebo doplnění provést. Podle odstavce 2, není-li přes výzvu předsedy senátu podání opraveno nebo doplněno a v řízení nelze pro tento nedostatek pokračovat, soud řízení zastaví. Také o těchto následcích musí být účastník poučen.
+Protože povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, bez jejíhož splnění nelze vydat – s výjimkou usnesení, jímž se dovolací řízení pro tento nedostatek zastavuje – rozhodnutí, kterým se řízení končí, a protože ke zhojení tohoto nedostatku a dále odstranění vad dovolání přes řádnou výzvu soudu prvního stupně do dnešního dne nedošlo, Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) proto podle § 104 odst. 2 poslední věty, § 43 odst. 2 a § 243c o. s. ř. dovolací řízení zastavil.
+Dovolatel z procesního hlediska zavinil, že dovolací řízení bylo zastaveno, účastníkům však ve stádiu dovolacího řízení náklady nevznikly. Této procesní situaci odpovídá ve smyslu ustanovení § 146 odst. 2, věty první, § 224 odst. 1 a § 243b odst. 4 o. s. ř. výrok o tom, že na náhradu nákladů dovolacího řízení nemá žádný z nich právo.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 29. dubna 2003
+JUDr. Zdeněk Des, v.r.
+předseda senátu
