@@ -1,0 +1,15 @@
+3 Tdo 204/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v neveřejném zasedání konaném dne 10. března 2004 o dovolání podaném J. S.,, proti rozsudku Krajského soudu v Hradci Králové sp. zn. 11 To 249/2003 ze dne 3. 11. 2003, jako soudu odvolacího v trestní věci vedené u Okresního soudu v Náchodě pod sp. zn. 11 T 220/2002, t a k t o :
+Podle § 265i odst. 1 písm. c) trestního řádu se dovolání o d m í t á .
+O d ů v o d n ě n í :
+Rozsudkem Okresního soudu v Náchodě sp. zn. 11 T 220/2002 byl dovolatel uznán vinným trestným činem vydírání podle § 235 odst. 1, 2 písm. c) trestního zákona a byl odsouzen k trestu odnětí svobody s podmíněným odkladem. To pro skutek, který byl ve výrokové části citovaného rozsudku podrobně popsán.
+Proti uvedenému rozsudku podal J. S. odvolání a odvolání podal v jeho neprospěch i okresní státní zástupce v N. O takto podaných odvoláních rozhodl Krajský soud v Hradci Králové rozsudkem sp. zn. 11 To 249/2003 a to tak, že z podnětu odvolání státního zástupce napadený rozsudek zrušil v celém výroku o uloženém trestu a při nezměněném výroku o vině uložil dovolateli nepodmíněný trest odnětí svobody, přičemž odvolání J. S. zamítl.
+Proti uvedenému rozsudku podal J. S. dovolání, které podal na poštu dne 10. 2. 2004. Bez ohledu na to, že takto podané dovolání neobsahuje všechny zákonem vyžadované náležitosti (§ 265f trestního řádu) a nebylo podáno prostřednictvím obhájce (§ 265d trestního řádu), dospěl dovolací soud k závěru, že bylo podáno opožděně. Ze spisu Okresního soudu v Náchodě totiž jednoznačně vyplývá, že předmětný rozsudek Krajského soudu v Hradci Králové nabyl právní moci dne 3. 11. 2003. Stejně tak je zřejmé, že dovolateli byl jeho opis doručen dne 27. 11. 2003 a jeho tehdejšímu obhájci JUDr. J. L., AK N. dne 20. 11. 2003, příslušnému státnímu zástupci pak téhož dne. Podle § 265e odst. 1 trestního řádu se dovolání podává u soudu, který rozhodl ve věci v prvním stupni, do dvou měsíců od doručení rozhodnutí, proti kterému dovolání směřuje. V předmětné věci takto zákonem vymezená lhůta uplynula jejím posledním dnem, kterým byl den 27. 1. 2004. S ohledem na již vyslovené tak uvedené dovolání bylo podáno na poštu dne 10. 2. 2004, tedy po zákonné lhůtě předepsané pro podání dovolání. V těchto souvislostech je bez významu přípis JUDr. F. K., advokáta, AK N. M. n. M., který podal dne 17. 2. 2004 na poště přípis, označený jako blanketní dovolání se žádostí o poskytnutí lhůty pro jeho odůvodnění, bez toho, že by v rámci uvedeného přípisu byla obsažena i příslušná plná moc.
+S poukazem na uvedené skutečnosti pak Nejvyššímu soudu nezbylo než podané dovolání podle § 265i odst. 1 písm. c) trestního řádu odmítnout, protože bylo podáno opožděně, přičemž uvedené rozhodnutí přijal za splnění podmínek stanovených v § 265r odst. 1 písm. a) trestního řádu v neveřejném zasedání.
+Poučení:Proti rozhodnutí o dovolání není s výjimkou obnovy řízení opravný prostředek přípustný (§ 265n trestního řádu).
+V Brně dne 10. března 2004
+Předseda senátu:
+Mgr. Josef Hendrych
+Vypracoval:
+JUDr. Vladimír Jurka
