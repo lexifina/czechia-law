@@ -1,0 +1,46 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+29 Odo 47/2003-77
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce JUDr. J. V., advokáta, jako správce konkursní podstaty úpadkyně H. z. z. p. v likvidaci, proti žalované A. M. spol. s r. o., o zaplacení směnečné pohledávky 492.509,- Kč s příslušenstvím, vedené u Krajského soudu v Ostravě pod sp. zn. 30 Cm 32/2000, o dovolání žalované proti rozsudku Vrchního soudu v Olomouci ze dne 1. října 2002, čj. 7 Cmo 725/2000-65, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Vrchní soud v Olomouci napadeným rozsudkem potvrdil rozsudek Krajského obchodního soudu v Ostravě ze dne 23.6.2000, čj. 30 Cm 32/2000-40, kterým soud prvního stupně ponechal v platnosti svůj směnečný platební rozkaz ze dne 17.12.1999, čj. 3 Sm 354/99-16.
+Žalovaná podala proti rozsudku odvolacího soudu dovolání. Jeho důvodnost spatřuje v tom, že rozhodnutí nemá oporu v provedeném dokazování a že řízení je postiženo vadou, která měla za následek nesprávné rozhodnutí ve věci. Konkrétně namítá, že se soud prvního stupně nezabýval otázkou aktivní legitimace správce konkursní podstaty k podání žaloby a dále, že se soud dostatečně nevypořádal s otázkou platnosti směnky. Proto navrhuje, aby Nejvyšší soud napadený rozsudek odvolacího soudu zrušil a věc mu vrátil k dalšímu řízení.
+Podle části dvanácté, hlavy první, bodu 17. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů (jak tomu bylo i v této věci vzhledem k ustanovení části dvanácté, hlavy první, bodu 15. zákona č. 30/2000 Sb.) se projednají a rozhodnou podle dosavadních právních předpisů (to jest podle občanského soudního řádu ve znění účinném před 1.1.2001 - dále též jen „o.s.ř.“).
+Dovolání není přípustné.
+Dle § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. V případě dovolání směřujícího proti potvrzujícímu rozsudku odvolacího soudu lze obecně přípustnost dovolání opřít o ustanovení § 237, 238 odst. 1 písm. b) o.s.ř. nebo o ustanovení § 239 o.s.ř.
+O případ podřaditelný ustanovení § 238 odst. 1 písm. b) o.s.ř. nejde, neboť potvrzený rozsudek soudu prvního stupně je prvním rozsudkem tohoto soudu ve věci.
+Podle § 239 odst. 1 o.s.ř. je dovolání přípustné proti rozsudku nebo usnesení odvolacího soudu ve věci samé, jímž bylo rozhodnutí soudu prvního stupně potvrzeno, jestliže odvolací soud ve výroku rozhodnutí vyslovil, že dovolání je přípustné, protože jde o rozhodnutí po právní stránce zásadního významu. Přípustnost dovolání může odvolací soud vyslovit i bez návrhu. V tomto případě však odvolací soud přípustnost dovolání nevyslovil. Přípustnost dovolání tak nelze opřít o ustanovení § 239 odst. 1 o.s.ř. a zbývá posoudit, zda ji lze dovodit z ustanovení § 239 odst. 2 o.s.ř.
+Podle § 239 odst. 2 o.s.ř. nevyhoví-li odvolací soud návrhu účastníka na vyslovení přípustnosti dovolání, který byl učiněn nejpozději před vyhlášením potvrzujícího rozsudku nebo před vyhlášením (vydáním) usnesení, kterým bylo rozhodnuto ve věci samé, je dovolání podané tímto účastníkem přípustné, jestliže dovolací soud dospěje k závěru, že napadené rozhodnutí odvolacího soudu má po právní stránce zásadní význam. V tomto případě však účastníci návrh, který je podmínkou pro uplatnění přípustnosti dle § 239 odst. 2 o.s.ř., nepodali.
+Zbývá tedy posoudit podmínky přípustnosti určené v ustanovení § 237 o.s.ř. Vady řízení ve smyslu tohoto ustanovení, k nímž je povinen dovolací soud přihlížet z úřední povinnosti (§ 242 odst. 3 o.s.ř.) a jejichž existence činí zmatečným (s výjimkami upravenými v § 237 odst. 2 o.s.ř.) každé rozhodnutí odvolacího soudu, dovoláním namítány nejsou a z obsahu spisu rovněž nevyplývají.
+Nejvyšší soud proto, aniž by nařizoval jednání (§ 243a odst. 1 věta první o.s.ř.), dovolání podle § 243b odst. 4 a § 218 odst. 1 písm. c) o.s.ř. usnesením odmítl.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 4, 224 odst.1 a § 146 odst. 2 věty první o.s.ř. (per analogiam), neboť žalovaná, která z procesního hlediska zavinila, že Nejvyšší soud dovolání odmítl, nemá na náhradu těchto nákladů právo a žalobci v souvislosti s dovolacím řízením náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 29. července 2003
+JUDr. Ivana Štenglová, v.r.
+předsedkyně senátu
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+29 Odo 47/2003-77
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce JUDr. J. V., advokáta, jako správce konkursní podstaty úpadkyně H. z. z. p. v likvidaci, proti žalované A. M. spol. s r. o., o zaplacení směnečné pohledávky 492.509,- Kč s příslušenstvím, vedené u Krajského soudu v Ostravě pod sp. zn. 30 Cm 32/2000, o dovolání žalované proti rozsudku Vrchního soudu v Olomouci ze dne 1. října 2002, čj. 7 Cmo 725/2000-65, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Vrchní soud v Olomouci napadeným rozsudkem potvrdil rozsudek Krajského obchodního soudu v Ostravě ze dne 23.6.2000, čj. 30 Cm 32/2000-40, kterým soud prvního stupně ponechal v platnosti svůj směnečný platební rozkaz ze dne 17.12.1999, čj. 3 Sm 354/99-16.
+Žalovaná podala proti rozsudku odvolacího soudu dovolání. Jeho důvodnost spatřuje v tom, že rozhodnutí nemá oporu v provedeném dokazování a že řízení je postiženo vadou, která měla za následek nesprávné rozhodnutí ve věci. Konkrétně namítá, že se soud prvního stupně nezabýval otázkou aktivní legitimace správce konkursní podstaty k podání žaloby a dále, že se soud dostatečně nevypořádal s otázkou platnosti směnky. Proto navrhuje, aby Nejvyšší soud napadený rozsudek odvolacího soudu zrušil a věc mu vrátil k dalšímu řízení.
+Podle části dvanácté, hlavy první, bodu 17. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů (jak tomu bylo i v této věci vzhledem k ustanovení části dvanácté, hlavy první, bodu 15. zákona č. 30/2000 Sb.) se projednají a rozhodnou podle dosavadních právních předpisů (to jest podle občanského soudního řádu ve znění účinném před 1.1.2001 - dále též jen „o.s.ř.“).
+Dovolání není přípustné.
+Dle § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. V případě dovolání směřujícího proti potvrzujícímu rozsudku odvolacího soudu lze obecně přípustnost dovolání opřít o ustanovení § 237, 238 odst. 1 písm. b) o.s.ř. nebo o ustanovení § 239 o.s.ř.
+O případ podřaditelný ustanovení § 238 odst. 1 písm. b) o.s.ř. nejde, neboť potvrzený rozsudek soudu prvního stupně je prvním rozsudkem tohoto soudu ve věci.
+Podle § 239 odst. 1 o.s.ř. je dovolání přípustné proti rozsudku nebo usnesení odvolacího soudu ve věci samé, jímž bylo rozhodnutí soudu prvního stupně potvrzeno, jestliže odvolací soud ve výroku rozhodnutí vyslovil, že dovolání je přípustné, protože jde o rozhodnutí po právní stránce zásadního významu. Přípustnost dovolání může odvolací soud vyslovit i bez návrhu. V tomto případě však odvolací soud přípustnost dovolání nevyslovil. Přípustnost dovolání tak nelze opřít o ustanovení § 239 odst. 1 o.s.ř. a zbývá posoudit, zda ji lze dovodit z ustanovení § 239 odst. 2 o.s.ř.
+Podle § 239 odst. 2 o.s.ř. nevyhoví-li odvolací soud návrhu účastníka na vyslovení přípustnosti dovolání, který byl učiněn nejpozději před vyhlášením potvrzujícího rozsudku nebo před vyhlášením (vydáním) usnesení, kterým bylo rozhodnuto ve věci samé, je dovolání podané tímto účastníkem přípustné, jestliže dovolací soud dospěje k závěru, že napadené rozhodnutí odvolacího soudu má po právní stránce zásadní význam. V tomto případě však účastníci návrh, který je podmínkou pro uplatnění přípustnosti dle § 239 odst. 2 o.s.ř., nepodali.
+Zbývá tedy posoudit podmínky přípustnosti určené v ustanovení § 237 o.s.ř. Vady řízení ve smyslu tohoto ustanovení, k nímž je povinen dovolací soud přihlížet z úřední povinnosti (§ 242 odst. 3 o.s.ř.) a jejichž existence činí zmatečným (s výjimkami upravenými v § 237 odst. 2 o.s.ř.) každé rozhodnutí odvolacího soudu, dovoláním namítány nejsou a z obsahu spisu rovněž nevyplývají.
+Nejvyšší soud proto, aniž by nařizoval jednání (§ 243a odst. 1 věta první o.s.ř.), dovolání podle § 243b odst. 4 a § 218 odst. 1 písm. c) o.s.ř. usnesením odmítl.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 4, 224 odst.1 a § 146 odst. 2 věty první o.s.ř. (per analogiam), neboť žalovaná, která z procesního hlediska zavinila, že Nejvyšší soud dovolání odmítl, nemá na náhradu těchto nákladů právo a žalobci v souvislosti s dovolacím řízením náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 29. července 2003
+JUDr. Ivana Štenglová, v.r.
+předsedkyně senátu
