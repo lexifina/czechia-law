@@ -1,0 +1,20 @@
+29 Odo 875/2001
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobkyně Z. S. n. p., a.s. , proti žalované 1) L. z. a.s. K., a žalované 2) L. z. D., a.s. K., o zaplacení 38.436,- Kč, vedené u Městského soudu v Praze pod sp. zn. 16 Cm 404/98, o dovolání žalobkyně proti usnesení Vrchního soudu v Praze ze dne 25. července 2001, č.j. 8 Cmo 538/2000-77, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Vrchní soud v Praze shora označeným usnesením připustil zpětvzetí žaloby, zrušil rozsudek Krajského obchodního soudu v Praze ze dne 5. června 2000, č.j. 16 Cm 404/98-63 a řízení zastavil. Současně zavázal žalobkyni zaplatit žalovaným na náhradě nákladů řízení před soudem prvního stupně částky 4.640,- Kč a 16.297, - Kč a rozhodl, že žalované nemají právo na náhradu nákladů odvolacího řízení.
+Proti usnesení odvolacího soudu podala žalobkyně dovolání, v němž podrobně popsala průběh řízení před soudy obou stupňů a namítla, že se druhá žalovaná nikdy nestala účastníkem řízení, neboť dovolatelka žalobu podanou pouze proti první žalované nikdy na druhou žalovanou „nerozšířila“ a neučinil tak ani příslušným usnesením soud. Proto navrhla, aby dovolací soud řízení zastavil a rozhodl, že žádný z účastníků nemá právo na náhradu nákladů řízení.
+Podle bodu 17., hlavy I, části dvanácté, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (tj. podle občanského soudního řádu ve znění účinném před 1. lednem 2001). O takový případ jede i v této věci, jelikož odvolací soud ve shodě s bodem 15., hlavy I., části dvanácté, zákona č. 30/2000 Sb., věc rovněž projednal podle dosavadního znění občanského soudního řádu, což výslovně zmínil v důvodech usnesení.
+Podle § 236 odst. 1 o. s. ř. dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Dovolání proti usnesení odvolacího soudu, jímž bylo rozhodnuto tak, že se zpětvzetí návrhu připouští, rozhodnutí soudu prvního stupně zrušuje a řízení zastavuje (a které není rozhodnutím o věci samé), je obecně přípustné pouze za podmínek taxativně stanovených v § 237 odst. 1 a § 238a odst. 1 písm. b) o. s. ř.
+Vady řízení uvedené v § 237 odst. 1 o. s. ř. (které činí zmatečným každé rozhodnutí odvolacího soudu s výjimkami zakotvenými v odstavci 1) z obsahu spisu nevyplývají a dovolatelka jejich existenci ani netvrdila.
+Podle § 238a odst. 1 písm. b) o. s. ř. je přípustné dovolání též proti usnesení odvolacího soudu, jímž bylo rozhodnuto tak, že se zpětvzetí návrhu připouští, rozhodnutí soudu prvního stupně zrušuje a řízení zastavuje (§ 208); to neplatí o věcech, v nichž bylo rozhodnuto o peněžitém plnění nepřevyšujícím 20.000,- Kč a v obchodních věcech 50.000,- Kč. Protože v této obchodní věci nepřevyšuje peněžité plnění (38.436,- Kč), o kterém bylo odvolacím soudem rozhodnuto, částku 50.000,- Kč, není dovolání přípustné ani podle § 238 a odst. 1 písm. b) o. s. ř.
+Dovolání proti výrokům usnesení odvolacího soudu o náhradě nákladů řízení před soudy obou stupňů rovněž přípustné není, neboť je nelze podřadit žádnému z usnesení, proti nimž zákon v § 238a odst. 1 dovolání připouští, přičemž vady zmatečnosti Nejvyšší soud již dříve vyloučil.
+Tento závěr s sebou nese konečné posouzení podaného dovolání jako nepřípustného, a proto je Nejvyšší soud podle § 243b odst. 4 a § 218 odst. 1 písm. c) o. s. ř. odmítl.
+Žalobkyně zavinila (tím, že podala nepřípustné dovolání), že dovolání bylo odmítnuto, žalovaným v souvislosti s dovolacím řízením náklady nevznikly. Této procesní situaci odpovídá výrok o nákladech dovolacího řízení odůvodněný ustanoveními § 146 odst. 2 věty prvé (per analogiam), § 224 odst. 1 a § 243b odst. 4 o. s. ř.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 5. listopadu 2002
+JUDr. Ivana Štenglová, v.r .
+předsedkyně senátu
