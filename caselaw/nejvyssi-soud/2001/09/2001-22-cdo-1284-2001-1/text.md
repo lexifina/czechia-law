@@ -1,0 +1,21 @@
+22 Cdo 1284/2001
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Baláka a soudců JUDr. Marie Rezkové a JUDr. Jiřího Spáčila, CSc., ve věci žalobce G. L. – spol. s r. o., proti žalovanému N., spol. s r. o., zastoupenému advokátkou, o vydání předběžného opatření, vedené u Okresního soudu v Karlových Varech pod sp. zn. 9 Nc 212/2000, o dovolání žalovaného proti usnesení Krajského soudu v Plzni ze dne 28. února 2001, č. j. 11 Co 507/2000-38, ve znění opravného usnesení téhož soudu ze dne 27. května 2001, č. j. 11 Co 507/2000-51, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Karlových Varech (dále „soud prvního stupně\") usnesením ze dne 28. července 2000, č. j. 9 Nc 212/2000-16, zamítl návrh na vydání předběžného opatření, kterým se žalobce domáhal, aby žalovanému bylo uloženo, aby žalobci nebránil ve vstupu do nemovitostí na parcele č. 400 a parcele č. 1/1, zapsaných u Katastrálního úřadu v K. na LV č. 391 pro kat. úz. D., sestávajících ze zastavěné plochy o výměře 871 m2, garáže a dílny a ostatní plochy o výměře 1861 m2, a dále, aby soud zakázal žalovanému disponovat s blíže označeným movitým majetkem žalobce umístěným v těchto prostorách.
+Krajský soud v Plzni jako soud odvolací k odvolání žalobce usnesením ze dne 28. února 2001, č. j. 11 Co 507/2000-38, ve znění usnesení ze dne 27. května 2001, č. j. 11 Co 507/2000-51, usnesení soudu prvního stupně změnil tak, že žalovanému uložil, aby strpěl vstup žalobce do výše označených nemovitostí a zdržel se dispozice s blíže označeným movitým majetkem žalobce umístěným v těchto prostorách, zejména jakkoliv tímto majetkem nakládat, užívat jej, pronajímat, zcizovat, spotřebovávat nebo jej přemisťovat. Žalobci uložil, aby do jednoho měsíce od doručení tohoto usnesení podal u soudu návrh na ochranu svého práva.
+Proti rozhodnutí odvolacího soudu podal žalovaný dovolání podle § 237 odst. 1 písm. a) OSŘ ve znění po novele provedené zákonem č. 30/2000 Sb. z důvodů, že řízení je postiženo vadou, která mohla mít za následek nesprávné rozhodnutí ve věci, a že rozhodnutí spočívá na nesprávném právním posouzení věci [§ 241a odst. 2 písm. a) a b) OSŘ ve znění po novele č. 30/2000 Sb.]. Navrhl, aby dovolací soud usnesení odvolacího soudu zrušil a věc byla vrácena tomuto soudu k dalšímu řízení.
+Žalobce se k dovolání nevyjádřil.
+Nejvyšší soud jako soud dovolací podle bodu 17. hlavy první části dvanácté zákona č. 30/2000 Sb. projednal a rozhodl o dovolání podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění před novelou provedenou zákonem č. 30/2000 Sb. (dále jen „OSŘ\").
+Podle § 240 odst. 1 OSŘ účastník může podat dovolání do jednoho měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Zmeškání lhůty k podání dovolání nelze prominout, lhůta je však zachována, bude-li dovolání podáno ve lhůtě u odvolacího nebo dovolacího soudu (§ 240 odst. 2 OSŘ).
+Podle § 57 odst. 2 OSŘ lhůty určené podle týdnů, měsíců nebo let se končí uplynutím toho dne, který se svým označením shoduje se dnem, kdy došlo ke skutečnosti určující počátek lhůty, a není-li ho v měsíci, posledním dnem měsíce. Připadne-li konec lhůty na sobotu, neděli nebo svátek, je posledním dnem lhůty nejblíže následující pracovní den.
+Podle § 57 odst. 3 OSŘ lhůta je zachována, je-li poslední den lhůty učiněn úkon u soudu nebo podání odevzdáno orgánu, který má povinnost je doručit.
+Usnesení odvolacího soudu nabylo právní moci dne 24. dubna 2001. Posledním dnem jednoměsíční lhůty k podání dovolání byl 24. květen 2001. Vydáním opravného usnesení není právní moc ani vykonatelnost opravovaného rozhodnutí dotčena. Dovolání podané žalovaným osobně u soudu prvního stupně dne 8. června 2001 je tedy zjevně opožděné.
+Nejvyšší soud proto podle § 243b odst. 4 a § 218 odst. 1 písm. a) OSŘ dovolání jako opožděně podané odmítl.
+Výrok o náhradě nákladů řízení vychází z § 243b odst. 4, § 224 odst. 1 a § 142 odst. 1 OSŘ, když žalovaný nebyl v tomto řízení úspěšný a žalobci žádné náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 27. září 2001
+JUDr. František B a l á k
+předseda senátu
