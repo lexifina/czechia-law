@@ -1,0 +1,17 @@
+11 Tvo 16/2003
+U S N E S E N Í
+Nejvyšší soud projednal v neveřejném zasedání konaném dne 25. června 2003 stížnost obviněné D. S., roz. D., proti usnesení Vrchního soudu v Praze ze dne 26. 5. 2003, sp. zn. 7 To 10/03, a rozhodl t a k t o :
+Podle § 148 odst. 1 písm. c) tr. řádu s e stížnost obviněné D. S., roz. D., z a m í t á .
+O d ů v o d n ě n í :
+Rozsudkem Krajského soudu v Praze ze dne 31. 10. 2002, sp. zn. 1 T 20/2002, byla obviněná D. S., roz. D., uznána vinnou trestným činem vraždy podle § 219 odst. 1, 2 písm. h) tr. zák. jako účastník ve formě organizátora podle § 10 odst. 1 písm. a) tr. zák. a odsouzena k nepodmíněnému trestu odnětí svobody v trvání patnácti roků, pro jehož výkon byla zařazena do věznice se zvýšenou ostrahou. Stejným rozsudkem bylo rozhodnuto o vině a trestu obviněných J. R. a D. D.
+Proti tomuto rozsudku podala obviněná D. S., stejně jako obviněný D. D., odvolání a trestní věc se v současné době nachází ve stadiu odvolacího řízení před Vrchním soudem v Praze.
+V rámci veřejného zasedání před Vrchním soudem v Praze požádala dne 20. 5. 2003 obviněná D. S. o propuštění z vazby na svobodu.
+Vrchní soud v Praze usnesením ze dne 26. 5. 2003, sp. zn. 7 To 10/03, podle § 72 odst. 3 tr. řádu žádost obviněné D. S. o propuštění z vazby zamítl. Současně bylo rozhodnuto o ponechání obviněného D. D. ve vazbě.
+Proti výroku, kterým byla zamítnuta žádost o propuštění z vazby, podala obviněná D. S. stížnost s odůvodněním, že od posledního rozhodnutí o vazbě došlo u ní k výrazným změnám zaneseným v nově zpracovaném znaleckém posudku, které v současné době již existenci důvodů vazby uvedených v § 67 písm. a) tr. řádu vylučují. Navrhla proto, aby bylo napadené usnesení zrušeno a ona byla propuštěna z vazby na svobodu.
+Nejvyšší soud z podnětu podané stížnosti přezkoumal podle § 147 odst. 1 tr. řádu správnost napadeného výroku i řízení, které mu předcházelo, a dospěl k tomuto závěru.
+Obviněná D. S. byla vzata do vazby usnesením Okresního soudu Praha-východ ze dne 29. 11. 2001, sp. zn. Nt 644/2001, z důvodu uvedeného v § 67 písm. a), b) tr. řádu s tím, že vazba se počítá od 28. 11. 2001. Koluzní vazební důvod časem pominul a v současné době je obviněná ve vazbě již jen z důvodu písm. a). O důvodnosti vazby obviněné bylo v průběhu dosavadního řízení opakovaně rozhodováno, naposledy usnesením Vrchního soudu v Praze ze dne 26. 5. 2003, kterým byla zamítnuta její žádost o propuštění z vazby na svobodu. Rozsudkem soudu prvního stupně byla obviněná uznána vinnou mimořádně závažným trestným činem, a protože jde o rozhodnutí nepravomocné, je stále ohrožena přísným trestem. Na důvodnosti vazby obviněné se v průběhu celého řízení nic nezměnilo, a tak lze, pokud jde o obavu z vyhýbání se trestnímu řízení, ať již tím, že by mohla uprchnout nebo tím, že by se mohla skrývat, odkázat na zdůvodnění všech předchozích rozhodnutí, včetně napadeného výroku i odůvodnění usnesení vrchního soudu. Protože se Nejvyšší soud s tímto rozhodnutím plně ztotožňuje, nemohla se stížnost obviněné D. S. setkat s úspěchem a nezbylo, než rozhodnout, jak je ve výroku tohoto usnesení uvedeno.
+Trestní řízení proti obviněné trvá zatím dobu, která je přiměřená náročnosti projednávané věci, žádné nepřiměřené průtahy během tohoto řízení zjištěny nebyly.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 25. června 2003
+Předseda senátu:
+JUDr. Pavel Kučera
