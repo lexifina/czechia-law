@@ -1,0 +1,23 @@
+33 Odo 207/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivany Zlatohlávkové a soudců JUDr. Blanky Moudré a JUDr. Vladimíra Velenského ve věci žalobce J. C., zastoupeného, proti žalované D. H. B., a. s., zastoupené, advokátem, o zaplacení částky 14 300 Kč, vedené u Krajského soudu v Plzni pod sp. zn. 47 Cm 25/2000, o dovolání žalované proti rozsudku Vrchního soudu v Praze ze dne 24. listopadu 2003, č.j. 7 Cmo 224/2002-52, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Vrchní soud v Praze jako soud odvolací rozsudkem ze dne 24. listopadu 2003, č.j. 7 Cmo 224/2002-52, potvrdil rozsudek Krajského soudu v Plzni ze dne 14. května 2002, č.j. 47 Cm 25/2000-35, jímž byla žalované stanovena povinnost do 3 dnů od právní moci rozsudku zaplatit žalobci částku 14 300 Kč se 17% úroky od 21. 12. 1998 do zaplacení, a na náhradě nákladů řízení 572 Kč, a v rozsahu 3% úroku jdoucího z částky 14 300 Kč od 21. 12. 1998 do zaplacení byla žaloba zamítnuta. Současně odvolací soud rozhodl o nákladech odvolacího řízení.
+Proti rozsudku odvolacího soudu podala žalovaná dovolání, v němž navrhla, aby dovolací soud rozsudek odvolacího soudu zrušil a věc vrátil tomuto soudu k dalšímu řízení. V dovolání namítá, že odvolací soud „nesprávně právně hodnotil provedené důkazy, přičemž tato nesprávnost je takového charakteru, že jde o rozhodnutí ve věci samé, které má po právní stránce zásadní význam“. Nesprávným pak shledává především posouzení „skutečnosti, zda a za jakých okolností může zaniknout ručitelský závazek“. S odkazem na odbornou literaturu prosazuje žalovaná názor, že odvolací soud nesprávně hodnotil zánik ručitelského závazku promlčením, aniž vzal v úvahu, že hlavní závazek, za nějž bylo ručeno, v době započtení trval a že z tohoto důvodu započtení pohledávky 14 300 Kč bylo po právu a nedošlo k bezdůvodnému obohacení.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) po zjištění, že dovolání proti pravomocnému rozsudku odvolacího soudu bylo podáno ve lhůtě uvedené v ustanovení § 240 odst. 1 o. s. ř. a k tomu oprávněným subjektem (žalovanou), dospěl k závěru, že dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Podle § 237 odst. 1 o. s. ř. dovolání je přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího soudu,
+a) jimiž bylo změněno rozhodnutí soudu prvního stupně ve věci samé,
+b) jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci jinak než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil,
+c) jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není přípustné podle písmena b) a dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam.
+Podle ustanovení § 237 odst. 2 písm. a) o. s. ř. není dovolání podle odstavce 1 tohoto ustanovení přípustné ve věcech, v nichž dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 20 000 Kč a v obchodních věcech 50 000 Kč; k příslušenství pohledávky se přitom nepřihlíží.
+V dané věci žalovaná napadla dovoláním rozsudek odvolacího soudu ve výroku o věci samé, kterým byl potvrzen rozsudek soudu prvního stupně přiznávající žalobci nárok na zaplacení částky 14 300 Kč. Protože dovoláním dotčeným rozsudkem odvolacího soudu bylo rozhodnuto o peněžitém plnění nepřevyšujícím 20 000 Kč, resp. 50 000 Kč, je přípustnost dovolání směřujícího proti rozhodnutí odvolacího soudu ve věci samé vyloučena ustanovením § 237 odst. 2 písm. a) o. s. ř.
+Přípustnost dovolání proti rozsudečnému výroku, jímž odvolací soud rozhodl o nákladech odvolacího řízení, nelze dovodit ze žádného ustanovení občanského soudního řádu.
+S odkazem na shora uvedené lze uzavřít, že dovolání žalované směřuje proti rozsudku odvolacího soudu, proti němuž není tento mimořádný opravný prostředek přípustný; dovolací soud proto takové dovolání – aniž se mohl věcí dále zabývat – jako nepřípustné odmítl (§ 243a odst. 1 věta první, § 243b odst. 5 o. s. ř.).
+O nákladech dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5, věty první, § 224 odst. 1, 151 odst. 1 a § 142 odst. 1 o. s. ř. za situace, kdy žalovaná nebyla v dovolacím řízení úspěšná a žalobci v souvislosti s tímto řízením náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 30. března 2004
+JUDr. Ivana Zlatohlávková, v.r.
+předsedkyně senátu
