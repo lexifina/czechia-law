@@ -1,0 +1,20 @@
+29 Odo 12/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce F. P., proti žalovanému M. G., o zaplacení 95.035,60 Kč s přísl., vedené u Městského soudu v Brně pod sp. zn. 47 C 292/93, o dovolání žalobce proti usnesení Krajského soudu v Brně ze dne 28. června 2001, čj. 28 Co 358/97 – 91 takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Usnesením ze dne 28. června 2001 čj. 28 Co 358/97 – 91 Krajský soud v Brně v napadeném výroku zrušil rozsudek Městského soudu v Brně ze dne 16. dubna 1997, čj. 47 C 292/93 – 66 ve znění opravného usnesení ze dne 20. května 1997, č.j. 47 C 292/93-69 a vrátil věc soudu prvního stupně k dalšímu řízení.
+Proti usnesení odvolacího soudu podal žalobce (podáním datovaným 26. 9. 2001) dovolání, které podal k poštovní přepravě dne 27. 10. 2001. V dovolání navrhuje zrušit rozsudek odvolacího soudu a vrátit věc k dalšímu řízení.
+Podle bodu 17., hlavy I., části dvanácté, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů, se projednají a rozhodnou podle dosavadních právních předpisů (to jest podle občanského soudního řádu ve znění účinném před 1. lednem 2001). O takový případ jde i v této věci, jelikož odvolací soud odvolání ve shodě s bodem 15., hlavy první, části dvanácté zákona č. 30/2000 Sb. – rovněž projednal a rozhodl podle dosavadních předpisů.
+Projednáním dovolání a rozhodnutím o něm podle dosavadních právních předpisů ve smyslu části dvanácté, hlavy I, bodu 17. zákona č. 30/2000 Sb. se rozumí nejen např. posuzování podmínek řízení, jakož i vymezení náležitostí písemného vyhotovení rozhodnutí (včetně toho, že v záhlaví usnesení se neuvádí složení senátu); podle dosavadních právních předpisů soud zkoumá (jako součást procesu projednání a rozhodnutí o dovolání) též včasnost dovolání, včetně vymezení běhu lhůty k jeho podání (shodný závěr formuloval Nejvyšší soud např. v usnesení uveřejněné pod číslem 70/2001 Sbírky soudních rozhodnutí a stanovisek a Ústavní soud v usneseních ze dne 2. ledna 2002, sp. zn. I ÚS 660/01 a ze dne 24. ledna 2002, sp. zn. IV. ÚS 560/01).
+Přestože napadené rozhodnutí bylo vydáno 28. června 2001, Nejvyšší soud je (ve shodě s výše uvedeným) povinen projednat i dovolání v této věci a rozhodnout o něm podle občanského soudního řádu, ve znění účinném před novelizací provedenou zákonem č. 30/2000 Sb., tj. ve znění účinném do dne 31. prosince 2000.
+Podle § 240 odst. 1 o. s. ř. účastník může podat dovolání do jednoho měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Zmeškání lhůty k podání dovolání nelze prominout, lhůta je však zachována, bude-li dovolání podáno ve lhůtě u odvolacího nebo dovolacího soudu (§ 240 odst. 2 o. s. ř.).
+Usnesení odvolacího soudu bylo doručeno zástupci žalobce (§ 49 odst. 1 věta první o. s. ř.) dne 27. 8. 2001 (č. l. 94); téhož dne rozhodnutí nabylo právní moci.
+Ve smyslu ustanovení § 57 odst. 2 o. s. ř. byl posledním dnem jednoměsíční lhůty k podání dovolání den 27. 9. 2001 (čtvrtek). Poněvadž ze spisu nevyplývá, že by bylo dovolání doručeno soudu dříve než odevzdáním k poštovní přepravě dne 27. 10. 2001 (č. l. 100) a dovolatel sám tvrdí, že faxem podané dovolání bylo Městskému soudu doručeno dne 26. 10. 2001 (č. l. 97), je tedy opožděné.
+Nejvyšší soud proto podle § 243b odst. 4 a § 218 odst. 1 písm. a/ o. s. ř. opožděné dovolání odmítl.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 4, 224 odst.1 a § 146 odst. 2 věty první o. s. ř. (per analogiam), neboť žalobce, který z procesního hlediska zavinil, že dovolání bylo odmítnuto, nemá na náhradu těchto nákladů právo a žalovanému v souvislosti s dovolacím řízením náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 28. března 2002
+JUDr. František F a l d y n a, CSc., v.r.
+předseda senátu
