@@ -1,0 +1,20 @@
+29 Odo 79/2001-89
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobkyně S., s. r. o., proti žalované F.T. a. s., o zaplacení částky 564.340,- Kč s příslušenstvím, vedené u Městského soudu v Praze pod sp. zn. 22 Cm 405/94, o dovolání žalované proti rozsudku Vrchního soudu v Praze ze dne 25. února 2000, č. j. 1 Cmo 252/98-72, ve znění opravného usnesení téhož soudu ze dne 2. června 2000, č. j. 1 Cmo 252/98-82, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský obchodní soud v Praze rozsudkem ze dne 9. června 1998, č. j. 22 Cm 405/94&#64979;50, jednak zamítl žalobu o zaplacení částky 40.000,- Kč s příslušenstvím (bod I. výroku), jednak uložil žalované zaplatit žalobkyni částku 524.340,- s příslušenstvím (bod II. výroku).
+K odvolání žalované Vrchní soud v Praze rozsudkem ze dne 25. února 2000, č. j. 1 Cmo 252/98-72, ve znění opravného usnesení téhož soudu ze dne 2. června 2000, č. j. 1 Cmo 252/98-82, rozsudek soudu prvního stupně v napadeném vyhovujícím výroku ve věci samé potvrdil.
+Žalovaná podala proti rozsudku odvolacího soudu včas dovolání, jehož přípustnost opírá o ustanovení § 239 odst. 1 občanského soudního řádu (dále též jen „o. s. ř.”), namítajíc, že jsou dány dovolací důvody uvedené v ustanovení § 241 odst. 3 písm. c/ a d/ o. s. ř., tedy že rozhodnutí vychází ze skutkového zjištění, které nemá v podstatné části oporu v provedeném dokazování (písmeno c/), a že spočívá na nesprávném právním posouzení věci (písmeno d/). V dovolání pak snáší argumenty na podporu existence těchto důvodů a požaduje, aby Nejvyšší soud napadené rozhodnutí zrušil a věc vrátil odvolacímu soudu k dalšímu řízení.
+Podle bodu 17., hlavy první, části dvanácté, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (to jest podle občanského soudního řádu ve znění účinném před 1. lednem 2001).
+Dovolání není v dané věci přípustné.
+Dle § 236 odst. 1 o. s. ř. dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti rozsudku upravují ustanovení § 237, § 238 a § 239 o. s. ř.
+Zmatečnostní vady ve smyslu § 237 odst. 1 o. s. ř., jež dovolací soud posuzuje z úřední povinnosti, nebyly v dovolání namítány a z obsahu spisu se nepodávají. Podle § 238 odst. 1 písm. a/ o. s. ř. dovolání přípustné není, neboť rozsudek odvolacího soudu nebyl rozsudkem měnícím, nýbrž potvrzujícím a nejde ani o situaci předjímanou ustanovením § 238 odst. 1 písm. b/ o. s. ř. (rozsudek ze dne 9. června 1998 je prvním rozsudkem krajského obchodního soudu ve věci). Podmínky stanovené v § 239 o. s. ř. daná věc rovněž nesplňuje, neboť odvolací soud výrokem svého rozhodnutí přípustnost dovolání nevyslovil (odstavec 1) a žalovaná návrh na vyslovení přípustnosti dovolání nepodala (odstavec 2).
+Nejvyšší soud proto, aniž ve věci nařizoval jednání (§ 243a odst. 1, věta první, o. s. ř.), dovolání odmítl (§ 243b odst. 4, § 218 odst. 1 písm. c/ o. s. ř.).
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 4, § 224 odst. 1 a § 146 odst. 2, věty první, o. s. ř. (per analogiam), neboť žalovaná, která podáním nepřípustného dovolání zavinila jeho odmítnutí, nemá na náhradu těchto nákladů právo a žalobci v souvislosti s dovolacím řízením náklady nevznikly. Za součást dovolacích nákladů dovolatelky přitom Nejvyšší soud nepokládal část zaplaceného soudního poplatku z dovolání. Dovoláním je napaden výrok týkající se částky 524.340,- s příslušenstvím, z níž soudní poplatek činí 20.976,-Kč, přičemž dovolatelka na soudním poplatku z dovolání uhradila (srov. č.l. 85) 22.976,-Kč. Přeplatek na soudním poplatku ve výši 1.600,-Kč.bude muset být dovolatelce vrácen.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 6. prosince 2001
+JUDr. Zdeněk Krčmář, v. r.
+předseda senátu
