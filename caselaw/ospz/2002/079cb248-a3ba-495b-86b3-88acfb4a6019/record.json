@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2002:10.C.140.2024.1",
+  "docket": "10 C 140/2024-19",
+  "date": "2002-08-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2024-09-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/079cb248-a3ba-495b-86b3-88acfb4a6019",
+  "source_sha256": "fd238c87ef56fa95dae9dc6dfe6ec9292e0c4b42871504e620606b8cf95d51bd",
+  "source_id": "079cb248-a3ba-495b-86b3-88acfb4a6019",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 140/2024-19",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "Mgr. Martina Zahradníková",
+    "ecli": "ECLI:CZ:OSPZ:2002:10.C.140.2024.1",
+    "predmetRizeni": "O zaplacení 16 799,34 Kč s příslušenstvím",
+    "datumVydani": "2002-08-24",
+    "datumZverejneni": "2024-09-11",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 576 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/079cb248-a3ba-495b-86b3-88acfb4a6019"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
