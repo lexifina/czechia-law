@@ -1,0 +1,13 @@
+11 Tcu 155/2002
+U S N E S E N Í
+Nejvyšší soud České republiky projednal žádost Ministerstva spravedlnosti Slovenské republiky o povolení průvozu S. K., občana Slovenské republiky, a rozhodl v neveřejném zasedání dne 2. září 2002 podle § 383c tr. ř., čl. 30 Smlouvy mezi Českou republikou a Slovenskou republikou o právní pomoci poskytované justičními orgány a o úpravě některých právních vztahů v občanských a trestních věcech (uveřejněna pod č. 209/1993 Sb.) a čl. 21 Evropské úmluvy o vydávání (uveřejněné pod č. 549/1992 Sb.) t a k t o :
+Povoluje se p r ů v o z vydávané osoby S. K. územím České republiky, pro účely výkonu trestu ve Slovenské republice, uloženého mu za trestný čin ublížení na zdraví podle § 222 odst. 1 trestního zákona Slovenské republiky v souběhu s trestným činem výtržnictví podle § 202 odst. 1 trestního zákona Slovenské republiky, rozsudkem Okresního soudu ve Zvoleni ze dne 25. 3. 1997 sp. zn. 4 T 9/97 ve spojení s usnesením Krajského soudu v Banské Bystrici ze dne 17. 3. 1998 sp. zn. 9 To 205/98.
+Po dobu průvozu bude vydávaná osoba držena ve vazbě.
+O d ů v o d n ě n í :
+Ministerstvo spravedlnosti Slovenské republiky požádalo na základě čl. 21 Evropské úmluvy o vydávání o povolení průvozu S. K. územím České republiky. Průvoz se má uskutečnit v rámci vydání jmenovaného ze Španělska k výkonu trestu, který mu byl uložen soudem Slovenské republiky za trestné činy uvedené ve výroku tohoto rozhodnutí. Na obviněného S. K. byl vydán Okresním soudem ve Zvoleni dne 9. 4. 1998 pod sp. zn. 4 T 9/97 zatýkací rozkaz.
+Nejvyšší soud České republiky projednal žádost Ministerstva spravedlnosti Slovenské republiky z hlediska splnění právních podmínek v záhlaví tohoto rozhodnutí uvedených mezinárodních smluv. Zjistil, že v posuzovaném případě jde o vydání k výkonu trestu pro trestný čin, který z hlediska právních řádů Slovenské republiky i České republiky splňuje podmínky pro povolení průvozu ve smyslu čl. 21 Evropské úmluvy o vydávání, ve znění výhrady České republiky. Výkon trestu není promlčen podle právního řádu Slovenské republiky ani podle právního řádu České republiky. Osoba, o jejíž vydání jde, není občanem České republiky.
+Jelikož nebyly zjištěny žádné právní překážky, které by bránily povolení průvozu obviněného S. K. za účelem výkonu trestu ve Slovenské republice, Nejvyšší soud České republiky žádosti Ministerstva spravedlnosti Slovenské republiky vyhověl. Zároveň rozhodl o nutném opatření omezujícím osobní svobodu vydávané osoby v době průvozu.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 2. září 2002
+Předseda senátu:
+JUDr. Antonín Draštík
