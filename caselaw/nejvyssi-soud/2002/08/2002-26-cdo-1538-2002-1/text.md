@@ -1,0 +1,18 @@
+26 Cdo 1538/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Hany Müllerové a soudců JUDr. Miroslava Feráka a Doc. JUDr. Věry Korecké, CSc. v právní věci žalobce V. H., proti žalovanému M. T., o zaplacení částky 18.132,- Kč s příslušenstvím, vedené u Okresního soudu v Lounech pod sp. zn. 12 C 548/2000, o dovolání žalovaného proti usnesení Krajského soudu v Ústí nad Labem ze dne 9. ledna 2001, č.j. 34 Nc 186/2000 – 22, takto:
+Řízení se zastavuje.
+Žádný z účastníků nemá právo na náhradu nákladů řízení.
+O d ů v o d n ě n í :
+Krajský soud v Ústí nad Labem usnesením ze dne 9. ledna 2001, č.j. 34 Nc 186/2000 – 22, rozhodl k námitce podjatosti, kterou vznesl žalovaný dne 19. 12. 2000, že soudkyně JUDr. V. V., Ph.D. není vyloučena z projednávání a rozhodování věci sp. zn. 12 C 548/2000 Okresního soudu v Lounech. Vzhledem k tomu, že návrh na vyloučení soudkyně byl podán přede dnem 1. 1. 2001, řídil se krajský soud v souladu s ustanovením části dvanácté, hlavy první, bodu 5. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dosavadními právními předpisy, tj. občanským soudním řádem ve znění účinném před 1. 1. 2001 (dále jen „o. s. ř. před novelou“).
+Žalovaný učinil dne 3. 12. 2001 prostřednictvím soudu prvního stupně písemné podání, které označil jako „dovolání“, adresoval je Vrchnímu soudu v Praze, náměstí Hrdinů 1300, Praha 4, a napadl jím – kromě čtyř rozhodnutí soudu prvního stupně – také výše citované usnesení krajského soudu.
+Podle ustanovení § 16 odst. 1 věty první o. s. ř. před novelou, o tom, zda je soudce vyloučen, rozhodne nadřízený soud v senátě.
+Dovolání je mimořádným opravným prostředkem proti (pravomocnému) rozhodnutí odvolacího soudu (§ 236 zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů – dále jen „občanský soudní řád“ nebo „o. s. ř.“).
+Pojem „nadřízený soud”, je-li použit občanským soudním řádem k určení věcné příslušnosti soudu, vychází z organizačních vztahů uvnitř soustavy soudů, nikoli ze vztahů instančních a nelze ho tudíž zaměňovat s pojmem „odvolací soud” (srov. stanovisko pléna Nejvyššího soudu ze dne 27. 6. 1996, Plsn 1/96, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek č. 8, ročník 1996, pod číslem 48). Rozhoduje-li tedy krajský soud o vyloučení soudce okresního soudu, není toto rozhodnutí rozhodnutím odvolacího soudu; vydání takového rozhodnutí ostatně žádné rozhodnutí soudu prvního stupně, jež by bylo lze napadnout odvoláním, nepředchází (srov. též usnesení Nejvyššího soudu ze dne 31. 7. 1997, sp. zn. 2 Cdon 30/97, uveřejněné v časopise Soudní judikatura č. 14, ročník 1997, pod pořadovým číslem 112).
+Funkční příslušnost soudu pro projednání dovolání proti takovému rozhodnutí občanský soudní řád neupravuje (příslušným soudem tedy není ani Vrchní soud v Praze, kterému žalovaný své podání adresoval, ani Nejvyšší soud České republiky, jemuž ustanovení § 10a o. s. ř. svěřuje příslušnost jednat a rozhodovat o dovoláních proti pravomocným rozhodnutím odvolacích soudů).
+Nedostatek funkční příslušnosti je neodstranitelným nedostatkem podmínky řízení (§ 103 o. s. ř.); Nejvyšší soud proto řízení, které touto vadou trpí, zastavil (§ 104 odst. 1 věta prvá, § 243c odst. 1 o. s. ř.).
+Výrok o nákladech řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 1 věty prvé o. s. ř. a o skutečnost, že žalobci nevzešly v tomto stádiu řízení prokazatelné výlohy, k jejichž úhradě by jinak byl povinen žalovaný, nesoucí procesní zavinění na tom, že řízení muselo být zastaveno.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 28. srpna 2002
+JUDr. Hana M ü l l e r o v á , v.r.
+předsedkyně senátu
