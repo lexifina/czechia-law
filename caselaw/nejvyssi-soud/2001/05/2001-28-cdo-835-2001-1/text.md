@@ -1,0 +1,18 @@
+28 Cdo 835/2001
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce J. B. proti žalovanému Krajskému soudu v Plzni, o přezkoumání zákonnosti rozhodnutí žalovaného o odvolání žalobce z funkce znalce, vedené u Krajského soudu v Českých Budějovicích pod sp.zn. 10 Ca 274/2000, o „dovolání„ žalobce proti rozsudku Krajského soudu v Českých Budějovicích ze dne 15. listopadu 2000, č.j. 10 Ca 274/2000 – 47, takto:
+I. Řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů řízení.
+O d ů v o d n ě n í :
+Dovolatel napadl podáním, označeným jako dovolání, rozsudek Krajského soudu v Českých Budějovicích ze dne 15. listopadu 2000, č.j. 10 Ca 274/2000 – 47, kterým soud podle § 250j odst. 1 občanského soudního řádu ( dále jen o.s.ř.) zamítl žalobu na přezkoumání zákonnosti rozhodnutí Krajského soudu v Plzni ze dne 23. října 1998, sp.zn. Spr 604/95, kterým odvolal žalobce s okamžitou účinností z funkce znalce Krajského soudu v Plzni v oboru ekonomika, odvětví ceny a odhady se specializací na oceňování nemovitostí a zároveň nařídil vyznačit ukončení jeho znalecké činnosti v seznamu znalců, neboť shledal, že napadené rozhodnutí je v souladu se zákonem.
+Krajský soud v Českých Budějovicích rozhodl v řízení o žalobách proti rozhodnutím správních orgánů podle hlavy druhé, části páté zákona č. 99/1963 Sb. o.s.ř. ve znění platném do 31.12.2000, s odůvodněním, že rozhodnutí Krajského soudu v Plzni ze dne 23. října 1998, sp.zn. Spr 604/95, o odvolání žalobce z funkce znalce bylo vydáno na úseku znalecké činnosti předsedou soudu, který je v tomto směru orgánem veřejné správy.
+Podle bodu 17. přechodných a závěrečných ustanovení, hlavy první, části dvanácté, zákona č. 30/2000 Sb. dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona, tj. přede dnem 1.1.2001, nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů ( tedy podle občanského soudního řádu ve znění platném do 31.12.2000).
+Správní soudnictví podle části páté občanského soudního řádu je zásadně řízením jednostupňovým. Soud, který rozhoduje o věcech správního soudnictví, není ani soudem prvního stupně ani soudem odvolacím ( shodně srov. například rozhodnutí uveřejněné pod číslem 38/1994 Sbírky soudních rozhodnutí a stanovisek).
+Podle § 250j odst. 4 o.s.ř. platí, že proti rozhodnutí soudu v řízení podle hlavy druhé, části páté o.s.ř. není přípustný opravný prostředek. Rozhodnutí Krajského soudu v Českých Budějovicích v této věci tedy není rozhodnutím odvolacího soudu a proto je jeho přezkum Nejvyšším soudem vyloučen a v důsledku toho zákon ani neupravuje k projednání opravného prostředku, byl-li přesto podán, funkční příslušnost soudu ( viz rozhodnutí Nejvyššího soudu uveřejněné pod číslem 21/1998 Sbírky soudních rozhodnutí a stanovisek).
+Nedostatek funkční příslušnosti představuje neodstranitelný nedostatek podmínky řízení, pro který soud řízení, jež jím trpí, zastaví (§ 104 odst. 1 o.s.ř.). Proto soud rozhodl, tak jak je ve výroku uvedeno.
+Pokud jde o žádost o ustanovení právního zástupce a osvobození od soudních poplatků nebylo se zřetelem k zastavení řízení pro nedostatek funkční příslušnosti Nejvyššího soudu o nich třeba rozhodovat; tato rozhodnutí by na výsledku řízení nemohla nic změnit.
+O nákladech řízení soud rozhodl podle § 146 odst. 2, věty první o.s.ř., neboť žalobce z procesního hlediska zavinil, že řízení bylo zastaveno. Žalovanému však v řízení před Nejvyšším soudem prokazatelné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 30. května 2001
+JUDr. Iva B r o ž o v á , v.r.
+předsedkyně senátu
