@@ -1,0 +1,19 @@
+29 Odo 575/2001
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobkyně S. a.s., proti žalované V. S., o zaplacení 18.111,40 Kč s příslušenstvím, vedené u Okresního soudu v Jihlavě pod sp. zn. 4 C 120/98, o dovolání žalované proti usnesení Krajského soudu v Brně ze dne 12. května 2000, čj. 28 Co 100/99-53, takto:
+I. Dovolání se zamítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Odvolací soud odmítl výše uvedeným usnesením jako opožděné odvolání žalované proti rozsudku Okresního soudu v Jihlavě ze dne 13.11.1998, čj. 4 C 120/98-42, kterým soud prvního stupně uložil žalované povinnost zaplatit žalobkyni částku 18.111,40 Kč s 18% úrokem od 20.12.1995 do zaplacení a náhradu nákladů řízení ve výši 16.808,- Kč, vše do tří dnů od právní moci rozsudku.
+Proti usnesení odvolacího soudu podala žalovaná včas dovolání s tím, že odvolání podala opožděně (o jeden den) z toho důvodu, že po celou dobu běhu lhůty k podání odvolání byla v pracovní neschopnosti, což dokládá potvrzením ošetřujícího lékaře, a odvolání podala následující den po ukončení této pracovní neschopnosti. Zároveň s dovoláním požádala žalovaná soud prvního stupně o prominutí zmeškání lhůty k podání odvolání. Vzhledem k výše uvedenému dovolatelka navrhuje, aby Nejvyšší soud rozhodnutí odvolacího soudu zrušil a věc mu vrátil k dalšímu řízení.
+Podle části dvanácté, hlavy první, bodu 17., zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (to jest podle občanského soudního řádu ve znění účinném před 1.1.2001, dále jen o. s. ř.).
+Dovolání je přípustné podle ustanovení § 238a odst. 1 písm. e) o. s. ř., avšak není důvodné.
+Přestože to dovolatelka výslovně neuvádí, je z obsahu jejího dovolání zřejmé, že napadá právní posouzení věci odvolacím soudem, tedy uplatňuje dovolací důvod dle ustanovení § 241 odst. 3 písm. d) o. s. ř.
+Jak je patrno z doručenky založené ve spisu na čl. 43, byl rozsudek soudu prvního stupně žalované doručen dne 21.12.1998. Následující den jí pak začala běžet patnáctidenní lhůta k podání odvolání, jejíž běh skončil 5.1.1999. Bylo-li tedy odvolání žalované podáno na poštu (jak vyplývá z podacího razítka na obálce založené ve spisu na čl. 45), až 6.1.1999, je opožděné.
+Pokud jde o námitku žalované týkající se toho, že odvolání bylo podáno opožděně z důvodu její pracovní neschopnosti, nemůže tato námitka obstát, pokud žalovaná o prominutí zmeškání lhůty k podání odvolání včas nepožádala. Dle ustanovení § 58 o. s. ř. promine soud zmeškání lhůty z omluvitelného důvodu, pokud je návrh a zároveň s ním i zmeškaný úkon učiněn do patnácti dnů po odpadnutí překážky. V tomto případě překážka odpadla dne 5.1.1999, kdy skončila pracovní neschopnost žalované. Návrh na prominutí zmeškání lhůty však ve výše uvedené lhůtě učiněn nebyl. K návrhu učiněnému později, jak je tomu v tomto případě (návrh byl učiněn až dne 25.6.2001 při doplnění dovolání), nelze přihlížet.
+Vzhledem k tomu, že závěr odvolacího soudu o opožděnosti odvolání je zcela správný, Nejvyšší soud, aniž nařizoval jednání (§ 243a odst. 1 věta první o. s. ř.), dovolání žalované podle ustanovení § 243b odst. 1 o. s. ř. zamítl.
+O nákladech dovolacího řízení rozhodl dovolací soud podle ustanovení § 243b odst. 4, § 224 odst. 1 a § 142 odst. 1 o. s. ř., neboť dovolatelka neměla ve věci úspěch a ze spisu se nepodává, že by žalobkyni vzniky náklady dovolacího řízení, o jejichž úhradě by musel soud rozhodnout.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 17. dubna 2002
+JUDr. Ivana Štenglová, v.r.
+předsedkyně senátu
