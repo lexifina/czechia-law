@@ -1,0 +1,30 @@
+20 Cdo 1889/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Vladimíra Kůrky a soudců JUDr. Vladimíra Mikuška a JUDr. Miroslavy Jirmanové ve věci oprávněné P., a.s., zastoupené advokátem, proti povinnému K. V., zastoupeného advokátem, o nařízení exekuce, pro 77.167,- Kč s příslušenstvím, vedené u Okresního soudu v Karviné - pobočky v Havířově pod sp. zn. 126 Nc 1105/2002, o dovolání povinného proti usnesení Krajského soudu v Ostravě ze dne 27.5.2002, č.j. 56 Co 205/2002-26, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Odvolací soud, odkazuje na ustanovení § 44 odst. 10 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád), a o změně dalších zákonů, ve znění pozdějších předpisů (dále „exekučního řádu“), odmítl odvolání povinného proti usnesení, jímž soud prvního stupně nařídil k vydobytí pohledávky oprávněného podle vykonatelného směnečného platebního rozkazu exekuci, a jejím provedením pověřil navrženého soudního exekutora.
+Povinný (posléze zastoupen advokátem) ve včasném dovolání, jež pokládá za „analogicky“ přípustné dle ustanovení § 238a odst. 1 písm. c/ o.s.ř., namítl, že řízení bylo postiženo vadou, která mohla mít za následek nesprávné rozhodnutí ve věci a rozhodnutí spočívá na nesprávném právním posouzení věci. Již v odvolání uváděl „zásadní skutečnosti vztahující se k nařízení exekuce“, pročež - podle jeho názoru - postup podle § 44 odst. 10 exekučního řádu možný nebyl. Nařízení exekuce nadto odporuje „dobrým mravům“, neboť dobrovolně neplnil proto, že se „u soudů“ nemůže rychle a efektivně domoci svých práv vůči vlastním dlužníkům.
+Podle § 130 exekučního řádu platí, že tam, kde se ve zvláštních právních předpisech hovoří o soudním výkonu rozhodnutí nebo výkonu rozhodnutí, rozumí se tím také nařízení a provádění exekuce podle tohoto zákona.
+Dovolání není přípustné.
+Podle § 236 odst. 1 o.s.ř. lze napadnout dovoláním pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Podle § 238a odst. 1 písm. c/ o.s.ř. je dovolání přípustné proti usnesení odvolacího soudu, jímž bylo potvrzeno nebo změněno usnesení soudu prvního stupně o návrhu na nařízení výkonu rozhodnutí; odstavec 2 téhož ustanovení stanoví, že § 237 odst. 1 a 3 o.s.ř. zde platí obdobně.
+Z toho plyne, že dovolání proti těmto usnesením je přípustné za předpokladu, že jsou splněny podmínky (jedna z nich), vyslovené v § 237 odst. 1 pod písm. a/ až c/ o.s.ř.
+Podle ustanovení § 237 odst. 1 je dovolání přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího soudu, jimiž bylo změněno rozhodnutí soudu prvního stupně ve věci samé (písm. a/), jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil (písm. b/ o.s.ř.), nebo jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není přípustné podle písmena b/ a dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam.
+Usnesení odvolacího soudu, jímž bylo odvolání proti usnesení o nařízení exekuce odmítnuto, však žádnou z uvedených podmínek nesplňuje; z hlediska formálně procesního není ani rozhodnutím ve věci samé, ani jím nebylo rozhodnutí soudu prvního stupně potvrzeno nebo změněno.
+Podle § 44 odst. 10 exekučního řádu proti usnesení o nařízení exekuce je přípustné odvolání, v němž nelze namítat jiné skutečnosti než ty, jež jsou rozhodné pro nařízení exekuce; k ostatním soud nepřihlédne a nařízení exekuce potvrdí. Neobsahuje-li odvolání skutečnosti rozhodné pro nařízení exekuce nebo neobsahuje-li žádné skutečnosti, soud usnesením odvolání odmítne.
+Ani kdyby usnesení o odmítnutí odvolání podle citovaného ustanovení bylo nazíráno z hlediska materiálního jako usnesení obsahově potvrzující, nemohl by výsledek posouzení, zda dovolání je přípustné, být jiný.
+Aby mohlo být dovolání přípustné podle § 237 odst. 1 písm. c/ o.s.ř., musel by dovolací soud dospět k závěru, že napadené rozhodnutí je ve věci samé po právní stránce zásadního významu.
+Dovolací přezkum je zde předpokládán zásadně pro posouzení otázek právních, pročež způsobilým dovolacím důvodem je ten, jímž lze namítat, že rozhodnutí spočívá na nesprávném právním posouzení věci ( § 241a odst. 2 písm. b/ o.s.ř.). Jen z pohledu tohoto důvodu, jehož obsahovým vymezením je dovolací soud vázán (§ 242 odst. 3, věta první, o.s.ř.), lze posuzovat, zda dovoláním napadené rozhodnutí je zásadně významné.
+Podle ustanovení § 237 odst. 3 o.s.ř. má rozhodnutí odvolacího soudu po právní stránce zásadní význam zejména tehdy, řeší-li právní otázku, která v rozhodování dovolacího soudu dosud nebyla vyřešena, nebo která je odvolacími soudy nebo dovolacím soudem rozhodována rozdílně, anebo řeší-li tuto otázku v rozporu s hmotným právem.
+Dovolatel názor, že rozhodnutí odvolacího soudu je zásadního právního významu nezdůvodnil; ze samotného hodnocení námitek, obsažených v dovolání, k takovému závěru dospět nelze.
+Námitka, že bylo (částečně) plněno, stejně jako kritika správnosti podkladového titulu, jsou vskutku, jak dovodil odvolací soud v napadeném usnesení, při nařízení exekuce bez významu. Že totéž platí o námitce, že výkon rozhodnutí odporuje „dobrým mravům“, Nejvyšší soud vysvětlil již v usnesení ze dne 28.11.2002, sp. zn. 20 Cdo 535/2002, uveřejněném pod č. 67/2003 v časopise Soudní judikatura.
+O rozhodnutí zásadního právního významu tudíž jít nemůže.
+Ani v tomto případě by dovolání nemohlo být přípustné.
+Jiná ustanovení (§ 238 až § 239 o.s.ř.) nejsou k založení přípustnosti dovolání použitelná již zcela zjevně.
+Nepřípustné dovolání Nejvyšší soud podle § 243b odst. 5, věty první, § 218 písm. c/ o.s.ř. odmítl.
+I o náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu podle § 87 a násl. exekučního řádu.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 16. prosince 2004
+JUDr. Vladimír Kůrka, v. r.
+předseda senátu
