@@ -1,0 +1,21 @@
+28 Cdo 1416/2001
+U S N E S E N Í
+Nejvyšší soud rozhodl o dovolání L. P., t. č. ve výkonu trestu odnětí svobody Věznice H., podaném proti rozsudku Krajského soudu v Ostravě ze dne 13. prosince 2000, sp.zn. 13 Co 1496/2000 (v právní věci žalobce O., a.s., s místem doručení O., a.s., Správa majetku, o.z., se sídlem O. , G. 3 proti žalovanému L. P., o vyklizení bytu, vedené u Okresního soudu v Karviné pod sp.zn. 15 C 97/2000), takto:
+I. Řízení o dovolání se zastavuje.
+II. Žádný z účastníků řízení nemá právo na náhradu nákladů řízení o dovolání.
+O d ů v o d n ě n í :
+Rozsudkem Okresního soudu v Karviné ze dne 14. srpna 2000, č.j. 15 C 97/2000-12 soud uložil žalovanému vyklidit byt č. 1 sestávající z kuchyně a dvou pokojů s příslušenstvím I. Kategorie v K. na ulici U. č.p. 1299 do 15 dnů od právní moci rozsudku. Současně uznal žalovaného povinným, aby žalobci zaplatil na náhradě nákladů řízení 1.030,- Kč do tří dnů od právní moci rozsudku.
+Krajský soud v Ostravě, který se věcí zabýval na odvolání žalovaného, rozsudkem ze dne 13. prosince 2000, č.j. 13 Co 1496/2000-38, rozsudek soudu prvního stupně potvrdil a současně rozhodl, že žádný z účastníků nemá právo na náhradu nákladů řízení o odvolání.
+Proti tomuto rozsudku podal dovolání žalovaný.
+Okresní soud v Karviné usneseními ze dne 14.2.2001 pod č.j. 15 C 97/2000-47 a 15 C 97/2000-48 vyzval dovolatele, aby ve lhůtě deseti dnů od doručení usnesení odstranil vady dovolání s přesným návodem, v jakém směru má tak učinit a aby dále ve lhůtě patnácti dnů od doručení usnesení zvolil si advokáta k zastupování, protože dovolatel nemá právnické vzdělání a dovolatel musí být proto advokátem zastoupen.
+Povinnostem, uloženými citovanými usneseními okresního soudu dovolatel neučinil zadost. Opakoval sice dalším osobním podáním důvody, pro které nemůže souhlasit s rozsudkem krajského soudu a do určité míry rozvedl i skutečnosti, pro které tak činí, avšak nezmocnil advokáta k zastupování, ačkoliv je mimo pochybnost, že sám právnické vzdělání nemá.
+Dovolací soud při posuzování tohoto dovolání vycházel z ustanovení dvanácté části, hlavy první, bodu 17 zákona č. 30/2000 Sb., podle něhož dovolání proti rozhodnutím odvolacího soudu, vydaným přede dnem účinnosti tohoto zákona nebo po řízení provedeném podle dosavadních předpisů, se projednají a rozhodne se o nich podle dosavadních předpisů (tj. podle ustanovení občanského soudního řádu /zákona č. 88/1963 Sb. ve znění pozdějších předpisů/).
+Podle ustanovení § 241 odst. 1 o.s.ř. (v cit. znění) musí být dovolatel zastoupen advokátem, jestliže nemá právnické vzdělání; podle ustanovení § 241 odst. 2 téhož právního předpisu musí být dovolání sepsáno advokátem.
+V předmětné věci, i když by snad z doplněného podání žalovaného, které vyhotovil sám osobně, bylo možné vyvodit, že některé nedostatky původně podaného dovolání byly na základě výzvy, obsažené v usnesení Okresního soudu v Karviné ze dne 14. února 2001 pod č.j. 15 C 97/2000-47 odstraněny, zůstává nadále překážkou řízení o dovolání, že si dovolatel nezmocnil advokáta k zastupování podle § 245 odst. 1 o.s.ř.
+V rozhodnutí uveřejněném pod č. 13/1993 Sbírky soudních rozhodnutí a stanovisek, vydávané Nejvyšším soudem, bylo vyloženo, že ustanovení § 241 odst. 1 o.s.ř. o tom, že dovolatel musí být zastoupen advokátem, pokud sám nemá právnické vzdělání, je ustanovením donucující povahy, jež nepřipouští výjimky; nedostatek tohoto zastoupení je nedostatkem bránícím v pokračování řízení o dovolání; jestliže dovolatel přes výzvu a poučení uvedený nedostatek ve stanovené lhůtě neodstraní, bude dovolací řízení dovolacím soudem zastaveno ve smyslu ustanovení § 243c o.s.ř. a ustanovení § 43 odst. 2 a § 104 odst. 1 téhož právního předpisu.
+Z tohoto právního závěru vycházel dovolací soud i v souzeném případě. Musel tedy přikročit k zastavení řízení o dovolání, když nedošlo k odstranění vad dovolání.
+Dovolatel nebyl v řízení o dovolání úspěšný a žalobci náklady v řízení o dovolání nevznikly. Bylo proto tak rozhodnuto, že žádný z účastníků řízení nemá právo na náhradu nákladů řízení o dovolání.
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 27. září 2001
+JUDr. Oldřich J e h l i č k a , CSc., v.r.
+předseda senátu
