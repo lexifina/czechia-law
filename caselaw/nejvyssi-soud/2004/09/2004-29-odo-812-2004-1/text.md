@@ -1,0 +1,18 @@
+29 Odo 812/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v konkursní věci dlužnice Z. S., zastoupené, advokátem, o návrhu věřitelky … banky, a. s., na prohlášení konkursu na majetek dlužnice, vedené u Krajského soudu v Ostravě pod sp. zn. 24 K 98/99, o dovolání dlužnice proti usnesení Vrchního soudu v Olomouci ze dne 27. listopadu 2003, č. j. 1 Ko 148/2003 479, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Usnesením ze dne 27. listopadu 2003, č. j. 1 Ko 148/2003 479 (původně šlo o č. l. 470), potvrdil Vrchní soud v Olomouci jako soud odvolací usnesení ze dne 17. února 2000, č. j. 24 K 98/99-27, jímž Krajský soud v Ostravě prohlásil konkurs na majetek dlužnice.
+Proti usnesení odvolacího soudu podala dlužnice dovolání, a to podáním datovaným 16. dubna 2004 (č. l. 548-551), předaným k poštovní přepravě (jak vyplývá z razítka pošty na obálce, kterou byla zásilka přepravována – srov. č. l. 555) dne 19. dubna 2004 a doplněným (poté, co byl dlužnici ustanoven zástupce z řad advokátů) podáním došlým soudu 14. července 2004 (č. l. 574), domáhajíc se zrušení napadeného usnesení.
+Podle části dvanácté, hlavy první, bodu 17., zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (to jest podle občanského soudního řádu ve znění účinném před 1. lednem 2001 - dále též jen „o. s. ř.“). O takový případ jde i v této věci, jelikož odvolací soud odvolání – ve shodě s bodem 15., hlavy první, části dvanácté zákona č. 30/2000 Sb. – rovněž projednal a rozhodl o něm (jak se výslovně podává z odůvodnění jeho usnesení – srov. č. l. 479b) podle občanského soudního řádu ve znění účinném před 1. lednem 2001.
+Podle dosavadních právních předpisů soud zkoumá (coby součást procesu projednání a rozhodnutí dovolání) též včasnost dovolání, včetně vymezení běhu lhůty k jeho podání (shodně uzavřel Nejvyšší soud např. v usnesení uveřejněném pod číslem 70/2001 Sbírky soudních rozhodnutí a stanovisek a Ústavní soud v usneseních ze dne 2. ledna 2002, sp. zn. I. ÚS 660/01, ze dne 24. 1. 2002, sp. zn. IV. ÚS 560/01, ze dne 11. června 2002, sp. zn. I. ÚS 274/02 a v nálezu ze dne 20. února 2002, sp. zn. II. ÚS 618/01).
+Dovolání v této věci tak mohlo být podáno pouze ve lhůtě jednoho měsíce od právní moci rozhodnutí odvolacího soudu, přičemž zmeškání této lhůty nelze prominout (srov. § 240 odst. 1 a 2 o. s. ř., ve znění účinném před 1. lednem 2001).
+Usnesení odvolacího soudu bylo, jak vyplývá z doručenek založených ve spisu (č. l. 508 p. v.), doručeno dlužnici i navrhující věřitelce dne 3. března 2004. Téhož dne tedy nabylo právní moci. Se zřetelem k tomu, že soud prvního stupně vyznačil v doložce právní moci jako den právní moci napadeného usnesení (nesprávně) 10. březen 2004, vycházel Nejvyšší soud při úvaze o tom, zda byla dodržena lhůta k podání dovolání, z toho, že uvedená lhůta počala běžet až od tohoto data (pro dovolatelku příznivějšího).
+Dovolání je ovšem i tak opožděné.
+Ve smyslu ustanovení § 57 odst. 2 o. s. ř. byl posledním dnem jednoměsíční lhůty k podání dovolání 13. duben 2004 (úterý). Dovolání podané dlužnicí k poštovní přepravě až 19. dubna 2004 je proto opožděné (po uplynutí lhůty k jeho podání bylo dovolání ostatně – jak je zřejmé z data, jímž je opatřeno - i vyhotoveno).
+Nejvyšší soud proto, aniž nařizoval jednání (§ 2343a odst. 1 věta první o. s. ř.) podle § 243b odst. 4 a § 218 odst. 1 písm. a/ o. s. ř. opožděné dovolání odmítl.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 30. září 2004
+JUDr. Zdeněk Krčmář,v.r.
+předseda senátu
