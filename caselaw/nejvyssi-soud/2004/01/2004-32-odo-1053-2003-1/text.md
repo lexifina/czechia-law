@@ -1,0 +1,20 @@
+32 Odo 1053/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobkyně A. P., a.s. v likvidaci, proti žalovanému I. O., o zaplacení částky 3,075.000,- Kč s příslušenstvím, vedené u Krajského soudu v Ostravě pod sp. zn. 7 Cm 418/97, o dovolání žalovaného proti rozsudku Vrchního soudu v Olomouci ze dne 12. května 2003, č.j. 4 Cmo 332/2001-89, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Vrchní soud v Olomouci v záhlaví označeným rozsudkem potvrdil rozsudek Krajského obchodního soudu v Ostravě ze dne 14. listopadu 2000, č.j. 7 Cm 418/97-52, ve výrocích, jimiž bylo žalovanému uloženo zaplatit žalobkyni 2,774.138,- Kč a náklady řízení ve výši 113.972,- Kč (první odstavec výroku) a žádnému z účastníků nepřiznal právo na náhradu nákladů odvolacího řízení (druhý odstavec výroku).
+Rozsudek odvolacího soudu napadl žalovaný dovoláním datovaným 14. srpna 2003 a podaným k poštovní přepravě 15. srpna 2003 (srov. č.l. 97), opíraje jeho přípustnost o ustanovení § 237 odst. 1 písm. c) občanského soudního řádu a důvodnost o ustanovení „§ 241a písm. b)“ téhož předpisu (dovolatel cituje tento předpis ve znění účinném od 1. ledna 2001). Odvolacímu soudu vytýká, že jeho rozhodnutí spočívá na nesprávném právním posouzení věci, a snáší argumenty na podporu uplatněného dovolacího důvodu. Požaduje, aby dovolací soud rozsudek odvolacího soudu i rozsudek soudu prvního stupně zrušil a věc vrátil soudu prvního stupně k dalšímu řízení.
+Dovolání bylo podáno opožděně.
+Podle bodu 17., hlavy I., části dvanácté, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů, se projednají a rozhodnou podle dosavadních právních předpisů (tj. podle občanského soudního řádu ve znění účinném do 31. prosince 2000 - dále též jen „o. s. ř.“). O takový případ jde i v této věci, jelikož odvolací soud věc ve shodě s bodem 15., hlavy I., části dvanácté, zákona č. 30/2000 Sb. rovněž projednal podle dosavadního znění občanského soudního řádu, jak sám výslovně zmínil v důvodech rozsudku.
+Podle dosavadních právních předpisů soud zkoumá (jako součást procesu projednání a rozhodnutí dovolání) též včasnost dovolání, včetně vymezení běhu lhůty k jeho podání (shodný závěr formuloval Nejvyšší soud např. v usnesení uveřejněném pod číslem 70/2001 Sbírky soudních rozhodnutí a stanovisek a Ústavní soud v usneseních ze dne 2. ledna 2002, sp. zn. I. ÚS 660/01 a ze dne 24. ledna 2002, sp. zn. IV. ÚS 560/01).
+Dovolání v této věci tak mohlo být podáno ve lhůtě jednoho měsíce od právní moci rozhodnutí odvolacího soudu, jak to určuje ustanovení § 240 odst. 1 o. s. ř. ve znění účinném do 31. prosince 2000. Podle odstavce 2 věty první citovaného ustanovení zmeškání lhůty uvedené v odstavci 1 nelze pominout.
+Rozsudek odvolacího soud byl doručen, jak vyplývá z doručenek založených ve spise u č.l. 89, žalobkyni i zástupkyni žalovaného 16. června 2003 a téhož dne nabyl právní moci.
+Ve smyslu ustanovení § 57 odst. 2 o. s. ř. byl posledním dnem jednoměsíční lhůty k podání dovolání 16. červenec 2003 (středa). Dovolání podané žalovaným až 15. srpna 2003 je tedy zjevně opožděné (po uplynutí lhůty k podání dovolání bylo ostatně i vyhotoveno).
+Nejvyšší soud proto dovolání žalovaného, aniž nařizoval jednání (§ 243a odst. 1 věta první o. s. ř.), podle ustanovení § 243b odst. 4 a § 218 odst. 1 písm. a) o. s. ř. jako opožděné odmítl.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanoveními § 243b odst. 4, § 224 odst. 1 a § 146 odst. 2 věty první (per analogiam) o. s. ř., neboť žalovaný, který podáním opožděného dovolání procesně zavinil jeho odmítnutí, nemá na náhradu těchto nákladů právo a žalobkyni v souvislosti s dovolacím řízením náklady nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 7. ledna 2004
+JUDr. Miroslav Gallus, v.r.
+předseda senátu
