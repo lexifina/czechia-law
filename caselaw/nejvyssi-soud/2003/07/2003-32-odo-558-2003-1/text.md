@@ -1,0 +1,20 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+32 Odo 558/2003-72
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Petra Gemmela a JUDr. Františka Faldyny, CSc. v právní věci žalobce J. D. – B., zastoupeného JUDr. J. D., advokátem, proti žalovaným 1/ Ú. l. u. v. v likvidaci, 2/ O., n. k. l., h. a u., národnímu podniku v likvidaci, 3/ Č. r. – M. k., 4/ Č. r. – M. f., o stanovení povinnosti uzavřít smlouvu, o určení jejího obsahu, existence závazku a plnění závazku z kupní smlouvy, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 24 C 137/2000, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 23. prosince 2002, č. j. 20 Co 717/2002- -58, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Praze v záhlaví označeným usnesením potvrdil usnesení Obvodního soudu pro Prahu 1 ze dne 22. října 2002, č. j. 24 C 137/2000 – 51, kterým soud prvního stupně odmítl odvolání žalobce proti usnesení ze dne 29. listopadu 2001, č. j. 24 C 137/2000 – 36, jako opožděné. Odvolací soud přisvědčil závěru soudu prvního stupně, že posledním dnem lhůty k podání odvolání byl 14. leden 2000, přičemž odvolání bylo učiněno až 16. ledna 2002.
+Proti usnesení odvolacího soudu podal žalobce dovolání, jehož přípustnost opíral o ustanovení „§ 237 písm. f)“ občanského soudního řádu (dále též „o. s. ř.“). Namítal, že rozhodnutí odvolacího soudu (a stejně i soudu prvního stupně) se opírá o mylnou domněnku, že se na adrese P. zdržoval v době, kdy mu bylo doručováno usnesení Obvodního soudu pro Prahu 1, ze dne 18. 12. 2001, č. j. 24 C 137/2000 – 51. Zdůrazňoval, že na výše uvedené adrese se nezdržuje od 23. srpna 2000, když se přestěhoval a je trvale hlášen na adrese H. B. Vyjádřil přesvědčení, že za této situace nemohla nastat fikce doručení, a dovozoval, že jím podané odvolání je včasné. Proto požadoval, aby dovolací soud napadené usnesení odvolacího soudu zrušil.
+V souladu s body 1., 15., 17., hlavy I., části dvanácté, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, se pro dovolací řízení uplatní občanský soudní řád ve znění účinném od 1. ledna 2001.
+Dovolání není přípustné.
+Podle ustanovení § 236 odst. 1 o. s. ř. dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon (v ustanoveních § 237 až 239 o. s. ř.) připouští.
+Přípustnost dovolání podle ustanovení § 237 o. s. ř., není dána již proto, že usnesením odvolacího soudu nebylo potvrzeno usnesení soudu prvního stupně, kterým by bylo rozhodnuto ve věci samé. Dovolání není přípustné ani podle ustanovení § 238, § 238a a § 239 odst. 1, 2 o. s. ř., protože usnesením soudu prvního stupně nebylo rozhodnuto ve věcech, v uvedených ustanoveních taxativně vyjmenovaných. Přípustnost dovolání neplyne ani z ustanovení § 239 odst. 3 o. s. ř., neboť podle tohoto ustanovení lze podat dovolání jen tehdy, bylo-li potvrzeno usnesení soudu prvního stupně, jímž byla postupem podle ustanovení § 43 o. s. ř. odmítnuta žaloba, popřípadě, jímž byl podle tohoto ustanovení odmítnut jiný návrh na zahájení řízení, a nikoli odmítl-li soud prvního stupně podle ustanovení § 208 odst. 1 o. s. ř. odvolání pro opožděnost (srov. např. usnesení Nejvyššího soudu ze dne 20. listopadu 2001, sp. zn. 21 Cdo 1124/2001, uveřejněné pod číslem 41/2003 Sbírky soudních rozhodnutí a stanovisek).
+Z uvedeného vyplývá, že dovolání žalobce směřuje proti rozhodnutí odvolacího soudu, proti němuž není přípustné; Nejvyšší soud je proto podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl.
+Výrok o nákladech dovolacího řízení se opírá o ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 3 o. s. ř, když dovolání žalobce bylo odmítnuto a žalovaným podle obsahu spisu žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek
+V Brně 29. července 2003
+JUDr. Miroslav Gallus, v.r.
+předseda senátu
