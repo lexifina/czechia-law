@@ -1,0 +1,26 @@
+22 Cdo 413/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Baláka a soudců JUDr. Marie Rezkové a JUDr. Jiřího Spáčila, CSc., ve věci žalobkyně M. H., zastoupené advokátkou, proti žalovanému Z. B., zastoupenému advokátem, o určení spoluvlastnického práva, vedené u Okresního soudu ve Žďáře nad Sázavou pod sp. zn. 10 C 218/96, o dovolání žalobkyně proti rozsudku Krajského soudu v Brně ze dne 2. července 2004, č. j. 37 Co 151/99-54, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud ve Žďáře nad Sázavou (dále „soud prvního stupně“) rozsudkem ze dne 4. listopadu 1998, č. j. 10 C 218/96-23, zamítl žalobu proti původnímu žalovanému J. B., nar. 24. 6. 1933, kterou se žalobkyně domáhala, aby soud určil, že žalobkyně je spoluvlastnicí jedné ideální poloviny nemovitostí, zapsaných u Katastrálního úřadu ve Ž. n. S. na LV č. 163 pro obec a kat. území B. ve vlastnictví žalovaného, a to stavební parc. č. 246 s domem č. p. 218 a parc. č. 133/5. Dále rozhodl o náhradě nákladů řízení.
+Po rozhodnutí věci soudem prvního stupně žalovaný J. B. dne 19. září 2000 zemřel. Podle usnesení Okresního soudu ve Žďáře nad Sázavou z 28. 4. 2000, sp. zn. D 1054/2000, které nabylo právní moci 21. 5. 2004, předmětné nemovitosti nabyl do vlastnictví žalovaný Z. B.
+Krajský soud v Brně jako soud odvolací k odvolání žalobkyně, po upřesnění petitu, rozsudkem ze dne 2. července 2004, č. j. 37 Co 151/99-54, rozsudek soudu prvního stupně změnil tak, že zamítl žalobu, „aby bylo určeno, že žalobkyně je v rozsahu ideální jedné poloviny spoluvlastnicí nemovitostí: rodinného domu č. p. 218 na pozemku p. č. st. 246, pozemku p. č. st. 245 – zastavěná plocha a nádvoří o výměře 75 m2, pozemku p. č. 133/5 – orná půda o výměře 1104 m2, všech zapsaných v katastru nemovitostí u Katastrálního úřadu pro V. na listu vlastnictví č. 163 pro katastrální území a obec B.“. Dále rozhodl o náhradě nákladů řízení.
+Proti rozhodnutí odvolacího soudu podala žalobkyně dovolání.
+Nejvyšší soud jako soud dovolací podle bodu 17. hlavy první části dvanácté zákona č. 30/2000 Sb. dovolání projednal a rozhodl o něm podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění před novelou provedenou zákonem č. 30/2000 Sb. (dále jen „OSŘ“).
+Po zjištění, že dovolání proti rozhodnutí odvolacího soudu bylo podáno oprávněnou osobou včas, nejprve zkoumal, zda jde o dovolání přípustné.
+Podle § 236 odst. 1 OSŘ lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Podle § 237 odst. 1 OSŘ je dovolání přípustné proti každému rozhodnutí odvolacího soudu, pokud řízení trpí vadami v tomto ustanovení vyjmenovanými (s výjimkou rozhodnutí uvedených v odstavci 2 téhož ustanovení).
+Dovolací soud vady uvedené v § 237 odst. 1 OSŘ nezjistil, ostatně ani dovolatelka je nenamítala, proto přípustnost dovolání podle § 237 odst. 1 OSŘ není dána.
+I když odvolací soud změnil rozsudek soudu prvního stupně, nejde o rozsudek měnící ve smyslu § 238 odst. 1 písm. a) OSŘ, ale o rozsudek potvrzující, neboť obsah posuzovaného právního vztahu účastníků a jejich práva a povinnosti odvolací soud neposoudil oproti rozhodnutí soudu prvního stupně odlišně. Odlišností je myšlen jen takový závěr, který rozdílně konstituuje nebo deklaruje práva a povinnosti v právních vztazích účastníků řízení. K tomu srov. usnesení Nejvyššího soudu ČR z 31. 1. 2001, sp. zn. 20 Cdo 1190/99, publikované v Souboru rozhodnutí Nejvyššího soudu ČR, vydávaném nakladatelstvím C. H. Beck, pod C 132, svazek 2.
+Proti potvrzujícímu rozsudku odvolacího soudu je dovolání přípustné za naplnění předpokladů uvedených v § 238 odst. 1 písm. b) OSŘ anebo v § 239 odst. 1 a 2 OSŘ.
+Podle § 238 odst. 1 písm. b) OSŘ dovolání není přípustné, neboť rozhodnutí odvolacího soudu nepředcházelo zrušující usnesení odvolacího soudu.
+Dovolání není přípustné ani podle § 239 odst. 1 OSŘ, neboť odvolací soud ve výroku rozhodnutí nevyslovil, že dovolání je přípustné, z důvodu že jde o rozhodnutí po právní stránce zásadního významu.
+Podle § 239 odst. 2 OSŘ je dovolání přípustné tehdy, nevyhoví-li odvolací soud návrhu účastníka na vyslovení přípustnosti dovolání, který byl učiněn nejpozději před vyhlášením potvrzujícího rozsudku nebo před vyhlášením (vydáním) usnesení, kterým bylo rozhodnuto ve věci samé, jestliže dovolací soud dospěje k závěru, že napadené rozhodnutí odvolacího soudu má po právní stránce zásadní význam. Ani tato situace nenastala, neboť návrh na připuštění dovolání nebyl učiněn.
+Dovolací soud proto podle § 243b odst. 4 a § 218 odst. 1 písm. c) OSŘ dovolání žalobkyně jako nepřípustné odmítl.
+Žádnému z účastníků nebyla přiznána náhrada nákladů dovolacího řízení podle §§ 243b odst. 4, 224 odst. 1 a 142 odst. 1 OSŘ, protože i když žalobkyně nebyla úspěšná, náklady vzniklé úspěšnému žalovanému nebylo možno považovat za účelně vynaložené náklady, jestliže vyjádření k dovolání směřovalo k věci samé, přestože šlo zjevně o nepřípustné dovolání a odmítnutí dovolání pro nepřípustnost nebylo žalovaným navrhováno.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 14. března 2005
+JUDr. František Balák,v.r.
+předseda senátu
