@@ -1,0 +1,20 @@
+29 Odo 188/2001
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci konkursu dlužníka J + J L. b., s. r. o., o návrhu věřitelů A) L.L. s. r. o. a B) J+J L. a. s. r. o., na prohlášení konkursu, vedené u Krajského soudu v Plzni pod sp. zn. 26 K 114/98, o dovolání věřitele A) proti usnesení Vrchního soudu v Praze ze dne 15. listopadu 2000, č.j. 2 Ko 151/2000-63, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Vrchní soud v Praze usnesením ze dne 15. listopadu 2000, č.j. 2 Ko 151/2000-63, zrušil usnesení Krajského soudu v Plzni ze dne 30. března 2000, č.j. 26 K 114/98-16, ve výroku o prohlášení konkursu na majetek dlužníka a věc vrátil tomuto soudu k dalšímu řízení. Odvolací soud - cituje ustanovení § 1 odst. 2 a 3 a § 12a odst. 1 zákona č. 328/1991 Sb., o konkursu a vyrovnání a ustanovení § 167 odst. 2 a § 157 odst. 2 občanského soudního řádu (dále též jen „o. s. ř.\") - uzavřel, že usnesení soudu prvního stupně není přezkoumatelné. Z odůvodnění usnesení není zřejmé, z čeho soud dovodil, že věřitelé, kteří podali návrh na prohlášení konkursu, mají vůči dlužníkovi splatnou pohledávku a že byl osvědčen úpadek dlužníka a splněny ostatní předpoklady podmiňující prohlášení konkursu. Není patrno, oč soud prvního stupně opírá svá skutková zjištění a z nich odvozené závěry.
+Věřitel A) (zastoupen advokátem) podal proti usnesení odvolacího soudu včas dovolání, ve kterém namítá, že výtky, jež odvolací soud adresuje soudu prvního stupně (potud, že není zřejmé, z čeho dovodil, že navrhující věřitelé mají vůči dlužníkovi splatnou pohledávku), nejsou správné a že byly splněny předpoklady pro prohlášení konkursu. Proto požaduje, aby Nejvyšší soud napadené usnesení zrušil a věc vrátil odvolacímu soudu k dalšímu řízení.
+Podle bodu 17., hlavy první, části dvanácté zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (to jest podle občanského soudního řádu ve znění účinném před 1. lednem 2001).
+Dovolatel (ač zastoupen advokátem) výslovně nepřiřadil dovolací tvrzení žádnému z dovolacích důvodů taxativně vypočtených v ustanovení § 241 odst. 3 o. s. ř. pod písmeny a/ až d/, po obsahové stránce jimi však vystihuje dovolací důvod dle § 241 odst. 3 písm. d/ o. s. ř., jehož prostřednictvím lze odvolacímu soudu vytýkat, že jeho rozhodnutí spočívá na nesprávném právním posouzení věci. Úvaze o důvodnosti dovolání ovšem v dovolacím řízení předchází zkoumání jeho přípustnosti.
+Dovolání v této věci není přípustné.
+Podle § 236 odst. 1 o. s. ř. dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti usnesení upravují ustanovení § 237, § 238a a § 239 o. s. ř. Podle ustanovení § 238a odst. 1 písm. a/ o. s. ř. není dovolání přípustné proto, že usnesení odvolacího soudu nebylo usnesením měnícím a napadané rozhodnutí nelze podřadit ani případům vyjmenovaným v § 238a odst. 1 o. s. ř. pod písmeny b/ až f/. Podmínky stanovené v § 239 o. s. ř. daná věc rovněž nesplňuje, neboť napadené usnesení není ani potvrzujícím usnesením odvolacího soudu.
+Zbývá posoudit podmínky přípustnosti určené v ustanovení § 237 o. s. ř.
+Vady řízení ve smyslu ustanovení § 237 odst. 1 o. s. ř., k nimž je dovolací soud povinen přihlížet z úřední povinnosti (§ 242 odst. 3 o. s. ř.) a jejichž existence činí zmatečným (s výjimkami zakotvenými v odstavci druhém) každé rozhodnutí odvolacího soudu, dovoláním namítány nejsou a z obsahu spisu se rovněž nepodávají.
+Tento závěr s sebou nese konečné posouzení podaného dovolání jako nepřípustného. Nejvyšší soud je proto, aniž nařizoval jednání (§ 243a odst. 1, věta první, o. s. ř.), podle § 243b odst. 4 a § 218 odst. 1 písm. c/ o. s. ř. usnesením odmítl.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 16. května 2001
+JUDr. Zdeněk K r č m á ř , v. r.
+předseda senátu
+Za správnost vyhotovení: Naděžda Solařová
