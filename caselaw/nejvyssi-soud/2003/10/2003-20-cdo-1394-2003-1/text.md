@@ -1,0 +1,18 @@
+20 Cdo 1394/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudců JUDr. Vladimíra Mikuška a JUDr. Vladimíra Kurky v exekuční věci oprávněné M., spol. s r. o., proti povinnému K. K., za účasti manželky A. K., pro 1 011.790,- Kč s příslušenstvím, o nařízení exekuce, vedené u Okresního soudu v Mladé Boleslavi pod sp. zn. 25 Nc 5154/2002, o dovoláních povinného a A. K. proti usnesení Krajského soudu v Praze ze dne 30. 10. 2002, č.j. 26 Co 394/2002-60, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Povinný a A. K. napadli dovoláními v záhlaví označené rozhodnutí, kterým krajský soud potvrdil usnesení ze dne 3. 5. 2002, č.j. 25 Nc 5154/2002-13, ve znění opravného usnesení ze dne 4. 6. 2002, č.j. 25 Nc 5154/2002-16 (vyjma odvoláním nedotčeného výroku, kterým byl návrh na vydobytí pohledávky ve výši 132.825,- Kč s příslušenstvím podle platebního rozkazu ze dne 28. 12. 1994, sp. zn. 4 C 1669/94, zamítnut), jímž Okresní soud v Mladé Boleslavi nařídil podle svého platebního rozkazu ze dne 14. 9. 1994, sp. zn. 10 C 1081/94, k vymožení pohledávky ve výši 878.965,- Kč a nákladů předcházejícího řízení (41.560,- Kč) exekuci, jejímž provedením pověřil JUDr. S. K., soudní exekutorku.
+Podle ustanovení § 241 odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů (dále jen „o.s.ř.“), musí být dovolatel zastoupen advokátem nebo notářem; to neplatí, má-li dovolatel právnické vzdělání, popřípadě jedná-li za něj osoba uvedená v § 21 nebo v § 21a anebo v § 21b, která má právnické vzdělání. Notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními předpisy. Podle ustanovení § 241 odst. 2 o.s.ř., nemá-li dovolatel právnické vzdělání, musí být dovolání sepsáno advokátem, notářem nebo osobou uvedenou v § 21 nebo v § 21a anebo v § 21b, která má právnické vzdělání.
+Povinný a A. K. nebyli při podání dovolání zákonem stanoveným způsobem zastoupeni a z obsahu spisu nevyplývalo, že by měli právnické vzdělání.
+Soud prvního stupně proto usneseními ze dne 28. 1. 2003, č.j. 25 Nc 5154/2002-75 (76), dovolatele (mimo jiné) vyzval, aby do třiceti dnů od doručení rozhodnutí nedostatek zastoupení odstranili (tím, že si pro dovolací řízení zvolí advokáta) a poučil je o tom, že dovolací řízení bude zastaveno, nevyhoví-li výzvě.
+Na výzvu soudu, která byla dovolatelům doručena 13. 2. 2003, požádal povinný o prodloužení rozhodnutím stanovené lhůty; soud prvního stupně – ve vztahu k oběma dovolatelům – lhůtu ve smyslu § 55 o.s.ř. prodloužil o třicet dnů od doručení vyrozumění (tj. od 10. 4., resp. 11.4. 2003).
+Povinný a A. K. na sdělení o prodloužení lhůty nereagovali.
+Jelikož obligatorní zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – vyjma usnesení, jímž se dovolací řízení právě pro jeho neodstranění zastavuje – vydání rozhodnutí, kterým se řízení končí (§ 241 o.s.ř.), a protože ke zhojení uvedeného nedostatku přes opatření soudu nedošlo, Nejvyšší soud dovolací řízení zastavil (§ 104 odst. 2, § 243c odst. 1 o.s.ř.).
+Dovolatelé z procesního hlediska zavinili, že dovolací řízení bylo zastaveno, oprávněné však v tomto stadiu řízení (podle obsahu spisu) náklady nevznikly; tomu odpovídá ve smyslu ustanovení § 243b odst. 5, věty první, § 224 odst. 1 a § 146 odst. 2, věty první, o.s.ř. výrok, že na náhradu nákladů dovolacího řízení nemá právo žádný z účastníků.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 23. října 2003
+JUDr. Pavel Krbek, v. r.
+předseda senátu
