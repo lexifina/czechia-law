@@ -1,0 +1,12 @@
+21 Cdo 925/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a JUDr. Zdeňka Novotného v právní věci žalobce S. K., zastoupeného advokátem, proti žalované I., s.r.o., zastoupené advokátem, o určení neplatnosti okamžitého zrušení pracovního poměru, vedené u Okresního soudu v Českých Budějovicích pod sp.zn. 15 C 125/2002, o dovolání žalobce proti rozsudku Krajského soudu v Českých Budějovicích ze dne 10. prosince 2002, č.j. 22 Co 2820/2002-56, takto:
+I. Dovolání žalobce se odmítá.
+II. Žalobce je povinen zaplatit žalované na náhradě nákladů dovolacího řízení 1.325,- Kč do tří dnů od právní moci tohoto usnesení k rukám advokáta.
+O d ů v o d n ě n í :
+Dovolání žalobce proti výroku rozsudku Krajského soudu v Českých Budějovicích ze dne 10. 12.2002, č.j. 22 Co 2820/2002-56, kterým byl potvrzen rozsudek Okresního soudu v Českých Budějovicích ze dne 18.10.2002, č.j. 15 C 125/2002-44, ve věci samé, není přípustné podle ustanovení § 237 odst. 1 písm. b) o.s.ř. a nebylo shledáno přípustným ani podle ustanovení § 237 odst. 1 písm. c) o.s.ř., neboť napadený rozsudek odvolacího soudu nemůže mít po právní stránce - s ohledem na to, že v dovolání byl uplatněn, jak vyplývá z jeho obsahu, dovolací důvod podle ustanovení § 241a odst. 3 o.s.ř. (dovolatel nesouhlasí s hodnocením důkazů a se skutkovými zjištěními, z nichž odvolací soud i soud prvního stupně vychází) - zásadní význam (§ 237 odst. 3 o.s.ř.). Usnesení o odmítnutí tohoto dovolání proto není odůvodněno (§ 243c odst. 2 o.s.ř.).
+V dovolacím řízení vznikly žalované v souvislosti se zastoupením advokátem náklady, které spočívají v paušální odměně ve výši 1.250,- Kč [srov. § 7 písm. c), § 10 odst. 3, § 14 odst. 1, § 15, § 16 a § 18 odst. 1 vyhlášky č. 484/2000 Sb. ve znění vyhlášky č. 49/2001 Sb.] a v paušální částce náhrady výdajů za jeden úkon právní služby ve výši 75,- Kč (srov. § 13 odst. 3 vyhlášky č. 177/1996 Sb., ve znění vyhlášek č. 235/1997 Sb. a č. 484/2000 Sb.), celkem ve výši 1.325,- Kč. Protože dovolání žalobce bylo odmítnuto, dovolací soud mu podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 3 o.s.ř. uložil, aby žalované tyto náklady nahradil. Žalobce je povinen přiznanou náhradu nákladů řízení zaplatit k rukám advokáta, který žalovanou v tomto řízení zastupoval (§ 149 odst. 1 o.s.ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 29. září 2003
+JUDr. Mojmír Putna, v. r.
+předseda senátu
