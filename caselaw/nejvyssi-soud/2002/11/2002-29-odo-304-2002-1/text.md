@@ -1,0 +1,20 @@
+29 Odo 304/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobkyně I. s. F., a.s. v likvidaci, proti žalované U. b., a.s., o zaplacení částky 40,000.000,- Kč s příslušenstvím, vedené u Městského soudu v Praze pod sp. zn. 32 Cm 76/99, o dovolání žalované proti rozsudku Vrchního soudu v Praze ze dne 17. září 2001, čj. 5 Cmo 101/2001-194, takto:
+I. Dovolání se odmítá.
+II. Žalovaná je povinna zaplatit žalobkyni na náhradě nákladů dovolacího řízení částku 7.575,- Kč do tří dnů od právní moci tohoto usnesení, k rukám právního zástupce žalobkyně.
+Odůvodnění:
+Vrchní soud v Praze výše uvedeným rozsudkem potvrdil v odvoláním napadených výrocích (přisuzující výrok a výrok o nákladech řízení) rozsudek Krajského obchodního soudu v Praze ze dne 12. října 2000, čj. 32 Cm 76/99-114, ve znění opravného usnesení ze dne 12. října 2000, čj. 32 Cm 76/99-152, kterým soud prvního stupně uložil žalované povinnost zaplatit žalobkyni částku 39,191.097,80 Kč s 19% úrokem ode dne 12. března 1996 do zaplacení a ve zbytku žalobu zamítl.
+Žalovaná podala proti rozsudku odvolacího soudu podáním ze dne 27. listopadu 2001 dovolání, které bylo dne 30. listopadu 2001 osobně doručeno soudu prvního stupně. Toto podání však bylo neúplné, neboť nemělo všechny náležitosti požadované ustanovením § 42 o.s.ř. (podání nebylo podepsáno). Tento nedostatek dovolatelka odstranila podáním, které bylo soudu prvního stupně osobně doručeno dne 3. prosince 2001.
+Žalobkyně ve vyjádření k dovolání označila dovolání za nepřípustné, neboť se řídí občanským soudním řádem účinným před 1. lednem 2001. Podmínky přípustnosti dovolání nejsou v projednávané věci naplněny. Navrhla odmítnutí dovolání.
+Podle části dvanácté, hlavy první, bodu 17., zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (to jest podle občanského soudního řádu ve znění účinném před 1. lednem 2001 - dále též jen „o.s.ř.“).
+Podle § 240 odst. 1 o.s.ř. může účastník podat dovolání do jednoho měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Zmeškání lhůty k podání dovolání nelze prominout, lhůta je však zachována, bude-li dovolání podáno ve lhůtě u odvolacího nebo dovolacího soudu (§ 240 odst. 2 o.s.ř.).
+Rozsudek odvolacího soudu byl, jak vyplývá z doručenky založené ve spisu (čl. 204), žalované (jejímu zástupci) doručen dne 3. října 2001. Téhož dne byl rozsudek doručen i žalobkyni (jejímu zástupci) a nabyl tak právní moci.
+Ve smyslu ustanovení § 57 odst. 2 o.s.ř. byl posledním dnem jednoměsíční lhůty k podání dovolání 5. listopad 2001 (pondělí). Dovolání sepsané žalovanou (jejím zástupcem) až 27. listopadu 2001 a doručené soudu 30. listopadu 2001 je tedy opožděné.
+Nejvyšší soud proto podle § 243b odst. 4 a § 218 odst. 1 písm. a) o.s.ř. opožděné dovolání odmítl.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 4, 224 odst. 1 a § 146 odst. 2 věty první o.s.ř. (per analogiam), neboť žalovaná z procesního hlediska zavinila, že dovolání bylo odmítnuto. Žalobkyni tak vzniklo právo na náhradu účelně vynaložených nákladů dovolacího řízení. Náklady žalobkyně sestávají z odměny advokáta za řízení, v němž učinil pouze jeden úkon právní služby (vyjádření k dovolání), ve výši 7.500,- Kč (výše odměny je určena podle ustanovení § 15, § 14 odst. 1, § 10 odst. 3, § 3 odst. 1 bodu 7 a § 18 odst. 1 vyhlášky č. 484/2000 Sb.) a náhrady paušálních výdajů 75,- Kč (dle vyhlášky č. 177/1996 Sb.), celkem tedy 7.575,- Kč.
+Proti tomuto usnesení není přípustný opravný prostředek.
+Nesplní-li žalovaná dobrovolně, co jí ukládá toto vykonatelné rozhodnutí, může se oprávněná domáhat výkonu rozhodnutí.
+V Brně 27. listopadu 2002
+JUDr. Ivana Štenglová, v.r.
+předsedkyně senátu
