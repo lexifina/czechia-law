@@ -1,0 +1,21 @@
+25 Cdo 1442/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Olgy Puškinové a soudců JUDr. Marty Škárové a JUDr. Petra Vojtka v právní věci žalobkyně P. o. o. o. s. p. t., o. a k. p. S., a. s., zastoupené obecnou zmocněnkyní Mgr. S. B., proti žalovaným 1/ Mgr. J. V. a 2/ prof. MUDr. J. N., Dr.Sc., o 23.923,- Kč s příslušenstvím, vedené u Okresního soudu ve Frýdku - Místku pod sp. zn. 18 C 181/2000, o dovolání prvního žalovaného proti usnesení Krajského soudu v Ostravě ze dne 26. listopadu 2002, č. j. 56 Co 662/2002 – 61, t a k t o:
+I. Řízení o dovolání se z a s t a v u j e.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud ve Frýdku - Místku usnesením ze dne 20. 9. 2002, č. j. 18 C 181/2000-51, rozhodl, že se připouští, aby první žalovaný z řízení vystoupil a aby na jeho místo vstoupil Ing. J. V., a rozhodl o náhradě nákladů řízení ve vztahu mezi žalobkyní a prvním žalovaným.
+K odvolání prvního žalovaného Krajský soud v Ostravě usnesením ze dne 26. 11. 2002, č. j. 56 Co 662/2002 - 61, usnesení soudu prvního stupně potvrdil a rozhodl o náhradě nákladů řízení.
+V podání ze dne 28. 1. 2002 nazvaném jako dovolání, vyjádřil první žalovaný nesouhlas s usnesením odvolacího soudu; při tomto úkonu však nebyl zastoupen advokátem a jeho podání ani nesplňovalo náležitosti mimořádného opravného prostředku.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) po přezkoumání věci podle § 243a odst. 1 věty první o. s. ř., ve znění účinném od 1. 1. 2001, dospěl k závěru, že v dané věci brání rozhodnutí o dovolání nedostatek podmínky dovolacího řízení ve smyslu § 241 odst. 1 věty druhé o. s. ř.
+Opravným prostředkem proti pravomocnému rozhodnutí odvolacího soudu je dovolání. Podle ust. § 240 odst. 1 věty první o. s. ř. účastník může podat dovolání do dvou měsíců od doručení rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Podle ust. § 241 odst. l věty první o. s. ř. dovolatel musí být zastoupen advokátem nebo notářem; to neplatí, má-li dovolatel právnické vzdělání, popřípadě jedná-li za něj osoba uvedená v § 21 nebo v § 21a anebo v § 21b o. s. ř., která má právnické vzdělání. Podle § 241 odst. 2 o. s. ř. nemá-li dovolatel právnické vzdělání, musí být dovolání sepsáno advokátem, notářem nebo osobou uvedenou v § 21, § 21a nebo § 21b o. s. ř., která má právnické vzdělání.
+Pro podání dovolání, které je mimořádným opravným prostředkem, zákon stanoví požadavek, aby účastník řízení, který podává dovolání, měl buď sám právnické vzdělání, nebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc. Ustanovení § 241 o. s. ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejího splnění nelze o dovolání rozhodnout.
+Usnesením ze dne 12. 2. 2003, č. j. 18 C 181/2002 - 73, doručeným prvnímu žalovanému podle § 46 odst. 2 o. s. ř. dne 19. 2. 2003, Okresní soud ve Frýdku - Místku prvního žalovaného vyzval, „aby si pro podání dovolání v této věci zvolil zástupcem advokáta a aby jeho prostřednictvím podal řádné dovolání proti usnesení krajského soudu nebo pokud má sám právnické vzdělání, o tom předložil doklad“. Současně byl první žalovaný poučen o tom, že nebude-li do 10 dnů ode dne doručení tohoto usnesení soudu předložena plná moc zvoleného advokáta a jím sepsané dovolání, dovolací soud řízení zastaví.
+První žalovaný na výzvu soudu prvního stupně nereagoval.
+Přestože první žalovaný byl o povinném právním zastoupení v dovolacím řízení poučen, právního zástupce si ani dodatečně nezvolil, a nedoložil, že by sám měl právnické vzdělání.
+Vzhledem k tomu, že nedostatek podmínky dovolacího řízení podle ust. § 241 odst. 1 věty první o. s. ř. nebyl ani přes poučení odstraněn, Nejvyšší soud řízení o dovolání prvního žalobce podle § 243c odst. 1 a § 104 odst. 2 věty třetí o. s. ř. zastavil, aniž bylo třeba se zabývat otázkou dalších náležitostí podaného dovolání a otázkou jeho přípustnosti.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, § 224 odst. l a § 146 odst. 1 písm. c) o. s. ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 30. července 2003
+JUDr. Olga Puškinová,v.r.
+předsedkyně senátu
