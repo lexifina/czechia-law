@@ -1,0 +1,15 @@
+5 Tdo 1026/2004-I.
+U S N E S E N Í
+Předsedkyně senátu Nejvyššího soudu České republiky rozhodla dne 26. 1. 2005 v trestní věci obviněného V. K. , vedené u Nejvyššího soudu pod sp. zn. 5 Tdo 1026/2004, podle § 131 odst. 1 věta první tr. řádu t a k t o :
+První a druhá věta výroku usnesení Nejvyššího soudu ze dne 7. 10. 2004, sp. zn. 5 Tdo 1026/2004, se opravují tak, že správně znějí:
+„Podle § 265k odst. 1 tr. ř. se ohledně obviněného V. K. z r u š u j í rozsudek Vrchního soudu v Praze ze dne 3. 3. 2003, sp. zn. 11 To 4/03, a rozsudek Krajského soudu v Praze ze dne 6. 11. 2002, sp. zn. 7 T 104/2002, ve výroku o vině trestným činem podvodu podle § 250 odst. 1, 3 písm. b) tr. zák. a ve výroku o trestu.
+Podle § 265k odst. 2 tr. ř. s e z r u š u j í také další rozhodnutí na zrušené části rozhodnutí obsahově navazující, pokud vzhledem ke změně, k níž došlo zrušením, pozbyla podkladu.“
+O d ů v o d n ě n í
+Nejvyšší soud České republiky rozhodoval o dovolání, které podal obviněný V. K. proti rozsudku Vrchního soudu v Praze ze dne 3. 3. 2003, sp. zn. 11 To 4/03. Shora citovaným usnesením rozhodl Nejvyšší soud o zrušení části napadeného rozsudku Vrchního soudu v Praze ohledně obviněného V. K. , tedy v části, v níž bylo podle § 256 tr. ř. zamítnuto jeho odvolání, a současně zrušil i část rozsudku Krajského soudu v Praze ze dne 6. 11. 2002, sp. zn. 7 T 104/2002, a to ve výroku, jímž byl obviněný V. K. uznán vinným trestným činem podvodu podle § 250 odst. 1, 3 písm. b) tr. zák. a rovněž ve výroku o trestu, který byl obviněnému uložen.
+Po vyhotovení předmětného usnesení a po rozeslání opisů oprávněným osobám vyšlo najevo, že vyhotovení usnesení a jeho opisy obsahují chybné znění prvních dvou vět výroku, z nichž není jednoznačně zřejmé, že Nejvyšší soud rozhodl pouze o zrušení části rozhodnutí soudů obou stupňů, která se týkala výlučně obviněného V. K. , resp. u rozsudku Krajského soudu v Praze pouze odsuzující části výroku o vině a dále o trestu, který byl tomuto obviněnému uložen.
+S ohledem na ustanovení § 138 tr. ř. a § 131 odst. 1 věta první tr. ř. platí, že předseda senátu může zvláštním usnesením kdykoliv opravit písařské chyby a jiné zřejmé nesprávnosti, k nimž došlo ve vyhotovení usnesení a jeho opisech, tak, aby vyhotovení bylo v naprostém souladu s obsahem usnesení, jak bylo vyhlášeno.
+Předsedkyně senátu Nejvyššího soudu proto usnesením opravila zřejmé nesprávnosti, spočívající v tom, že nebyly specifikovány zrušené části obou rozsudků, které se týkaly obviněného V. K. Třetí věta výroku citovaného usnesení zůstala opravou nedotčena. Opis usnesení o opravě bude ve smyslu § 131 odst. 2 tr. ř. doručen všem osobám, jímž byl doručen opis rozhodnutí ze 7. 10. 2004 a poté bude provedena příslušná oprava jak ve vyhotovení tohoto usnesení, tak i v jeho opisech, které budou za tímto účelem vyžádány od osob, jimž byly doručeny (§ 131 odst. 4 tr. ř.).
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 26. ledna 2005
+Předsedkyně senátu:
+JUDr. Blanka Roušalová
