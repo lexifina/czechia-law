@@ -1,0 +1,22 @@
+11 Tcu 25/2003
+U S N E S E N Í
+Nejvyšší soud České republiky projednal dne 27. března 2003 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na zápis odsouzení cizozemským soudem do evidence Rejstříku trestů a rozhodl t a k t o :
+Podle § 4 odst. 2 zák. č. 269/1994 Sb. se do evidence Rejstříku trestů zaznamenají údaje o odsouzení občana České republiky Z. F., rozsudkem Zemského soudu v Pasově, Spolková republika Německo, ze dne 9. 1. 2001, sp. zn. KLs 313 Js 6937/00, a to pro trestný čin napomáhání nedovolenému obchodování s omamnými prostředky v nemalém množství ve dvou případech podle § 1 I, § 2 I, § 3 I, § 29a I č. 2, § 33 německého zákona o omamných prostředcích, § 73, § 73a, § 73d, § 27, § 53 trestního zákona Spolkové republiky Německo, k trestu odnětí svobody v trvání tří let.
+O d ů v o d n ě n í :
+Rozsudkem Zemského soudu v Pasově, Spolková republika Německo, ze dne 9. 1. 2001, sp. zn. KLs 313 Js 6937/00, jenž nabyl právní moci dne 9. 5. 2001, byl Z. F. uznán vinným trestným činem napomáhání nedovolenému obchodování s omamnými prostředky
+v nemalém množství ve dvou případech podle § 1 I, § 2 I, § 3 I, § 29a I č. 2, § 33 německého zákona o omamných prostředcích a § 73, § 73a, § 73d, § 27, § 53 trestního zákona Spolkové republiky Německo. Uvedeného trestného činu se podle zjištění soudu dopustil tím, že:
+1. dne 31. 5. 2000 po vzájemné dohodě napomohl zvlášť stíhanému obviněnému J. k realizaci obchodu dodávky 70 gramů heroinu tím, že ho odvezl a dovezl svým osobním automobilem na místo uskutečnění obchodu k mostu na spojovací silnici D. – M. u B. a poskytl mu k přicestování do Německa pas svého bratra P., to vše za přislíbenou odměnu jedné dávky omamného jedu, přestože sám není konzumentem drog.
+2. dne 4. 6. 2000 obviněnému J. stejným způsobem napomohl (služby řidiče a poskytnutí cestovního pasu bratra) za přislíbenou odměnu 100,- DM k realizaci obchodu předání 70 gramů heroinu v hodnotě 3. 800,-DM.
+Za tento trestný čin mu byl uložen nepodmíněný trest odnětí svobody na dobu tří let.
+Dne 28. 2. 2003 pod sp. zn. 2339/2002-MO-M podalo Ministerstvo spravedlnosti České republiky podle § 4 odst. 2 zák. č. 269/1994 Sb., o Rejstříku trestů (dále jen zákon), Nejvyššímu soudu České republiky návrh na zapsání výše uvedeného odsouzení německého soudu do evidence Rejstříku trestů České republiky.
+Nejvyšší soud České republiky věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro zápis odsouzení cizozemským soudem do evidence Rejstříku trestů.
+Podle § 4 odst. 1 zákona se do evidence Rejstříku trestů zaznamenávají údaje
+o odsouzení cizozemským soudem, jestliže o uznání rozsudku takového soudu rozhodl podle § 384a odst. 1 tr. ř. Nejvyšší soud České republiky. Podle § 4 odst. 2 zákona může však Nejvyšší soud České republiky na návrh Ministerstva spravedlnosti České republiky rozhodnout, že se do evidence Rejstříku trestů zaznamenají též údaje
+o jiném odsouzení občana České republiky cizozemským soudem, jestliže se týká činu, který je trestným i podle právního řádu České republiky, a zápis do evidence je odůvodněn závažností činu a druhem trestu, který za něj byl uložen.
+Z podaného návrhu a z obsahu připojeného spisového materiálu vyplývá, že odsouzený je občanem České republiky, který byl odsouzen cizozemským soudem, přičemž odsouzení se týká skutku, který vykazuje znaky trestného činu i podle právního řádu České republiky (účastenstvím na trestném činu nedovolené výroby a držení omamných a psychotropních látek a jedů podle § 10 odst. 1 písm. c) tr. zák. a § 187 tr. zák.). Tím jsou splněny formální podmínky ustanovení § 4 odst. 2 zákona.
+V posuzované věci jsou dány ovšem i podmínky materiální povahy. Z. F. se pro finanční prospěch opakovaně podílel na obchodování s omamnými látkami na území jiného státu. Přitom se jednalo o vysoce nebezpečnou drogu (heroin). Dopustil se trestné činnosti, k jejímuž stíhání zavazují Českou republiku též mezinárodní smlouvy. Pokud jde o druh trestu, byl mu uložen již citelný nepodmíněný trest odnětí svobody. Lze tedy dovodit, že podmínky ustanovení § 4 odst. 2 zákona týkající se závažnosti činu a druhu uloženého trestu jsou splněny.
+Z uvedených důvodů proto Nejvyšší soud České republiky návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 27. března 2003
+Předseda senátu:
+JUDr. Antonín Draštík
