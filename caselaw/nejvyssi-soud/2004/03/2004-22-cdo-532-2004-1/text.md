@@ -1,0 +1,18 @@
+22 Cdo 532/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Baláka a soudců JUDr. Marie Rezkové a Víta Jakšiče ve věci žalobce S. p. P., státního podniku, zastoupeného advokátem, proti žalovanému S. I., spol. s r. o., zastoupenému advokátkou, o určení práva hospodaření k nemovitosti, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 23 C 236/98, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 4. listopadu 2003, č. j. 21 Co 316/2003-129, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Praze jako soud odvolací k odvolání žalobce rozsudkem ze dne 4. listopadu 2003, č. j. 21 Co 316/2003-129, potvrdil ve věci samé rozsudek Obvodního soudu pro Prahu 4 (dále „soud prvního stupně“) ze dne 7. března 2003, č. j. 23 C 236/98-115, jímž tento soud zamítl žalobu na určení, „že žalobci náleží právo hospodaření k pozemku ve vlastnictví České republiky parc. č. 675/13 – ostatní plocha o výměře 12 270 m2 zapsanému v katastru nemovitostí Katastrálního úřadu P. pro katastrální území L.“.
+Proti rozsudku odvolacího soudu podal žalobce odvolání, správně podle obsahu dovolání, z něhož není zřejmé, v jakém rozsahu a z jakých důvodů rozhodnutí odvolacího soudu napadá, ani čeho se jím domáhá.
+Podle § 241a odst. 1 občanského soudního řádu (dále „OSŘ“) v dovolání musí být vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu a z jakých důvodů se toto rozhodnutí napadá, popřípadě které důkazy by měly být provedeny k prokázání důvodu dovolání, a čeho se dovolatel domáhá (dovolací návrh).
+Podle § 43 OSŘ předseda senátu usnesením vyzve účastníka, aby bylo opraveno nebo doplněno podání, které neobsahuje všechny stanovené náležitosti nebo které je nesrozumitelné nebo neurčité. K opravě nebo doplnění podání určí lhůtu a účastníka poučí, jak je třeba opravu nebo doplnění provést (odstavec 1). Není-li přes výzvu předsedy senátu podání řádně opraveno nebo doplněno a v řízení nelze pro tento nedostatek pokračovat, soud usnesením podání, kterým se zahajuje řízení, odmítne. K ostatním podáním soud nepřihlíží, dokud nebudou řádně opravena nebo doplněna. O těchto následcích musí být účastník poučen (odstavec 2).
+Výše citované ustanovení § 241a odst. 1 vymezuje náležitosti dovolání, pro jejichž nedostatek nelze v řízení ve smyslu § 43 odst. 2 OSŘ pokračovat.
+Soud prvního stupně usnesením z 29. 1. 2004, č. j. 23 C 236/98-136, vyzval žalobce, aby ve lhůtě patnácti dnů od doručení usnesení mj. v dovolání vedle obecných náležitostí ve smyslu § 42 odst. 4 OSŘ uvedl, v jakém rozsahu a z jakých důvodů rozhodnutí odvolacího soudu napadá, popř. které důkazy by měly být provedeny k prokázání důvodů dovolání a čeho se dovolatel domáhá, s tím, že nebude-li dovolání ve stanovené lhůtě uvedeným způsobem doplněno, bude spis předložen dovolacímu soudu a dovolání bude odmítnuto. Toto usnesení bylo zástupci žalobce doručeno 6. 2. 2004.
+Dovolatel přes poučení soudu prvního stupně o odmítnutí dovolání v případě, že nebude přes výzvu soudu řádně doplněno, ve stanovené lhůtě a ani později dovolání nedoplnil a tak vady dovolání neodstranil. Nejvyšší soud jako soud dovolací proto dovolání podle § 43 odst. 2 OSŘ odmítl.
+Výrok o náhradě nákladů dovolacího řízení vychází z toho, že dovolání žalobce bylo odmítnuto a žalovanému náklady dovolacího řízení nevznikly (§ 243b odst. 5, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 OSŘ).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 31. března 2004
+JUDr. František Balák, v. r.
+předseda senátu
