@@ -1,0 +1,14 @@
+20 Cdo 799/2001
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci výkonu rozhodnutí oprávněného nezl. K. K., zastoupeného matkou J. K., proti povinnému K. T., srážkami z dávek poskytovaných v nezaměstnanosti, vedené u Okresního soudu v Karviné pod sp. zn. 37 E 46/93, o dovolání povinného proti usnesení Krajského soudu v Ostravě ze dne 29. června 1999, č. j. 13 Co 635/99-43, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í :
+Shora označené usnesení krajského soudu napadl povinný dovoláním.
+Podle části dvanácté (Přechodná a závěrečná ustanovení), hlavy I (Přechodná ustanovení k části první), bodu 17 zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů. Jelikož napadené rozhodnutí bylo vydáno dne 29. června 1999, Nejvyšší soud dovolání projednal a rozhodl o něm podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném před novelizací provedenou zákonem č. 30/2000 Sb., tj. účinném do dne 31. prosince 2000 (dále jen „o. s. ř.\").
+Protože z obsahu spisu nevyplývalo, že by povinný byl v dovolacím řízení zákonem stanoveným způsobem zastoupen, případně že by byl právnicky vzdělán, okresní soud jej usnesením ze dne 25. srpna 1999, č. j. 37 E 46/93-50, doručeným (uložením na poště - viz. doručenka u č. l. 52 versa) 20. září 1999 vyzval, aby si ve lhůtě patnácti dnů od jeho doručení zvolil pro dovolací řízení advokáta, který by jeho podání doplnil nebo nahradil podáním vlastním; soud ho také poučil, že jinak bude dovolací řízení zastaveno. Povinný (jenž podáním ze dne 14. října 1999 požádal o prodloužení patnáctidenní lhůty s odůvodněním, že právní pomoc má „…v této době rozjednanou…\") však vytčený nedostatek dosud neodstranil.
+Podle ustanovení § 241 odst. 1 věty první o. s. ř. musí být dovolatel zastoupen advokátem, jestliže nemá právnické vzdělání buď sám nebo jeho zaměstnanec (člen), který za něj jedná. Podle ustanovení § 241 odst. 2 věty druhé o. s. ř. nemá-li dovolatel právnické vzdělání, musí být dovolání sepsáno advokátem anebo zaměstnancem (členem) dovolatele s právnickým vzděláním, který za něj jedná.
+Protože povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání - kromě usnesení, kterým se dovolací řízení právě pro neodstranění tohoto nedostatku zastavuje - vydání rozhodnutí, jímž se řízení končí (§ 241 odst. 1 o. s. ř.), a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu nedošlo, Nejvyšší soud řízení o dovolání podle § 104 odst. 2 a § 243c o. s. ř. zastavil.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 27. června 2001
+JUDr. Vladimír M i k u š e k, v. r.
+předseda senátu
