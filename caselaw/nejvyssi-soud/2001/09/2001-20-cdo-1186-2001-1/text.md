@@ -1,0 +1,18 @@
+20 Cdo 1186/2001
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci výkonu rozhodnutí oprávněné T., a. s., proti povinné A., h., o., prodejem movitých věcí pro částku 35. 452.- Kč s příslušenstvím, vedené u Okresního sodu v Karviné pod sp. zn. 37 E 1180/98, o dovolání povinné proti usnesení Krajského soudu v Ostravě ze dne 31. května 2000, č. j. 13 Co 781/2000-16, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Krajský soud v Ostravě usnesením ze dne 31. 5. 2000, č. j. 13 Co 781/2000-16, potvrdil usnesení Okresního soudu v Karviné ze dne 1. 9. 1998, č. j. 37 E 1180/98-2, kterým byl nařízen podle vykonatelného rozhodnutí Krajského obchodního soudu v Ostravě ze dne 6. 4. 1998, č. j. 3 Cm 43/97-24, výkon rozhodnutí prodejem movitých věcí povinné k uspokojení pohledávky oprávněné v částce 35. 452.- Kč s příslušenstvím a nákladů řízení nalézacího ve výši 1. 796.- Kč a nákladů výkonu rozhodnutí ve výši 710.- Kč. Odvolací soud se ztotožnil se závěrem soudu prvního stupně, že v dané věci jsou splněny podmínky pro nařízení výkonu rozhodnutí.
+Podáním, označeným jako „odvolání k Nejvyššímu Soudu ČR“, které je podle svého obsahu (§ 41 odst. 2 o. s. ř.) dovoláním, napadl usnesení odvolacího soudu J. T. (společník povinné společnosti), aniž byl při tomto úkonu zastoupen advokátem. Domáhal se zrušení napadeného usnesení namítaje, že část pohledávky oprávněné ve výši 12. 000.- Kč byla již uhrazena, a že by měla být „vzata k zodpovědnosti“ i J. K. - druhá společnice povinné obchodní společnosti.
+Podle části dvanácté, hlavy první, bodu 17. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních přepisů (to jest podle občanského soudního řádu ve znění účinném před 1. 1. 2001 - dále též jen „o. s. ř.“).
+Podle ustanovení § 241 odst. 1 věty první o. s. ř. musí být dovolatel zastoupen advokátem, pokud sám nemá právnické vzdělání. Toto ustanovení zakotvuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění nelze o dovolání rozhodnout.
+Usnesením ze dne 19. 1. 20001, č. j. 37 E 1180/98-22, uložil soud prvního stupně dovolateli, aby odstranil vady dovolání; současně jej poučil o povinném právním zastoupení dovolatele, o náležitostech dovolání, jakož i o tom, že nebudou-li ve stanovené lhůtě uvedené nedostatky odstraněny, bude řízení zastaveno. Přestože toto usnesení bylo doručeno dovolateli do vlastních rukou dne 17. 4. 2001, dosud této výzvě nevyhověl.
+Jak vyplývá z výše uvedeného, nebyl nedostatek podmínky dovolacího řízení podle ustanovení § 241 odst. 1 věty první o. s. ř. přes výzvu odstraněn. Nejvyšší soud proto podle § 243c a § 104 odst. 2 o. s. ř. dovolací řízení zastavil.
+Pokud jde o dovolací námitku, týkající se částečného uhrazení dlužné pohledávky povinnou, jež by mohla být posuzována dle obsahu jako návrh na částečné zastavení výkonu rozhodnutí, bude na soudu prvního stupně, aby se tímto návrhem zabýval.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 4, § 224 odst. 1 a § 146 odst. 2 věty prvé o. s. ř. s přihlédnutím k tomu, že oprávněné (podle obsahu spisu) v tomto stadiu řízení nevznikly náklady, na jejichž náhradu by jinak měla právo vůči dovolatelce, nesoucí procesní zavinění na tom, že řízení muselo být zastaveno.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. září 2001
+Doc. JUDr. Věra K o r e c k á, CSc., v.r.
+předsedkyně senátu
