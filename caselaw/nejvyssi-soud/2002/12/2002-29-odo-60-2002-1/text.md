@@ -1,0 +1,20 @@
+29 Odo 60/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce Ing. L. T., jako správce konkursní podstaty úpadce S., a.s. „v likvidaci“, proti žalované Mgr. D. K., zastoupené, advokátkou, o zaplacení 18 789,- Kč s příslušenstvím, vedené u Krajského soudu v Ostravě pod sp. zn. 18 Cm 108/94, o dovolání žalované proti usnesení Vrchního soudu v Olomouci ze dne 25. září 2000, č.j. 2 Cmo 304/99-53, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Krajský obchodní soud v Ostravě usnesením ze dne 14.10.1998 č.j. 18 Cm 108/94-35, odmítl odpor žalované proti platebnímu rozkazu téhož soudu ze dne 9.7.1998, č.j. 18 Cm 108/94-25, podle § 174 odst. 3 občanského soudního řádu, (dále též jen „o. s. ř.“) s odůvodněním, že odpor byl podán opožděně.
+K odvolání žalované Vrchní soud v Olomouci usnesení soudu prvního stupně potvrdil a rozhodl o náhradě nákladů odvolacího řízení. Odvolací soud po provedeném šetření k okolnostem doručování platebního rozkazu žalované dospěl ze shodných důvodů jako soud prvního stupně k závěru, že žalovaná podala odpor proti platebnímu rozkazu opožděně.
+Proti usnesení odvolacího soudu podala žalovaná dovolání, v němž s odkazem na ustanovení § 241 odst. 3 písm. b), c) a d), občanského soudního řádu, ve znění účinném do 31.12.2000, namítá, že platební rozkaz byl vydán věcně nepříslušným soudem proti žalované jinak označené než v podané žalobě, aniž byly splněny podmínky pro vydání platebního rozkazu. Rovněž vytkla odvolacímu soudu, že nebylo rozhodnuto o žádosti o prominutí zmeškání lhůty k podání odporu. Dovolatelka navrhuje, aby dovolací soud usnesení soudů obou stupňů zrušil a aby věc vrátil soudu prvního stupně k dalšímu řízení.
+Podle bodu 17., hlavy první, části dvanácté, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (to jest podle občanského soudního řádu ve znění účinném před 1. lednem 2001).
+Dovolání není přípustné.
+Dle § 236 odst. 1 o. s. ř., lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti usnesení upravují ustanovení § 237, § 238a a § 239 o. s. ř. Podle § 238a odst. 1 písm. a/ o. s. ř. dovolání přípustné není, neboť usnesení odvolacího soudu nebylo usnesením měnícím, nýbrž potvrzujícím a nejde ani o situaci předjímanou ustanovením § 238a odst. 1 písm. b/ až d/ o. s. ř. (napadeným usnesením nebylo rozhodováno o zpětvzetí návrhu, o zrušení rozhodnutí a zastavení řízení, o zastavení řízení pro nedostatek pravomoci soudu, o odmítnutí odvolání a o zastavení odvolacího řízení). Podmínky stanovené v § 239 o. s. ř. daná věc rovněž nesplňuje, neboť odvolací soud výrokem svého rozhodnutí přípustnost dovolání nevyslovil (srov. § 239 odst. 1 o. s. ř. ) a žalovaná návrh na vyslovení přípustnosti dovolání nepodala (srov. § 239 odst. 2 o. s. ř.).
+Zbývá posoudit podmínky přípustnosti určené v ustanovení § 237 o. s. ř. Ustanovení § 237 odst. 1 o. s. ř. spojuje přípustnost dovolání proti každému rozhodnutí odvolacího soudu (s výjimkami zakotvenými v odstavci druhém) s takovými hrubými vadami řízení a rozhodnutí, které činí rozhodnutí odvolacího soudu zmatečným. Žádnou z tam vypočtených vad však dovolatelka netvrdí a ani z obsahu spisu se taková vada nepodává.
+Nejvyšší soud proto, aniž ve věci nařizoval jednání (§ 243a odst. 1, věta první, o. s. ř.), dovolání odmítl (§ 243b odst. 4, § 218 odst. 1 písm. c/ o. s. ř.).
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanoveními § 243b odst. 4, § 224 odst. 1 a § 146 odst. 2, věty první (per analogiam) o. s. ř. Žalovaná jako dovolatelka zavinila odmítnutí dovolání, žalobci pak v souvislosti s dovoláním žádné náklady nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 11. prosince 2002
+JUDr. Ivana Štenglová, v.r.
+předsedkyně senátu
