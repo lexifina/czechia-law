@@ -1,0 +1,18 @@
+20 Cdo 411/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudců JUDr. Jany Hráchové a JUDr. Vladimíra Kurky ve věci výkonu rozhodnutí oprávněné České republiky – městského úřadu ve Z. proti povinnému F. M., pro 7.000,- Kč, srážkami z pracovní odměny, vedené u Okresního soudu v Karviné pod sp. zn. 47 E 657/2002, o dovolání povinného proti usnesení Krajského soudu v Ostravě ze dne 30. 8. 2002, č.j. 10 Co 672/2002-24, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Povinný napadl dovoláním v záhlaví označené rozhodnutí, kterým krajský soud potvrdil usnesení ze dne 28. 6. 2002, č.j. 47 E 657/2002-4, jímž Okresní soud v Karviné nařídil podle rozhodnutí Okresního úřadu ve Z., referátu sociálních věcí, ze dne 18. 3. 1998, č.j. Om 555/263/99, ve spojení s rozhodnutím Ministerstva práce a sociálních věcí ČR, pracoviště regionálního oddělení, odboru sociální politiky v B., ze dne 15. 4. 1998, č.j. 214/6/651/98/Vá, k vydobytí pohledávky oprávněné ve výši 7.000,- Kč výkon rozhodnutí srážkami ze mzdy.
+V souvislosti s ukončením činnosti okresních úřadů (srov. § 44 zákona č. 147/2000 Sb., o okresních úřadech) Nejvyšší soud jako s oprávněnou jednal s Českou republikou – městským úřadem ve Z. (§ 14 zákona č. 114/1988 Sb., o působnosti orgánů České republiky v sociálním zabezpečení, ve znění pozdějších předpisů, § 61 odst. 1 písm. c/, § 66 odst. 1, 2 zákona č. 128/2000 Sb., o obcích, ve znění pozdějších předpisů).
+Podle ustanovení § 241 odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů (dále jen „o.s.ř.“), musí být dovolatel zastoupen advokátem nebo notářem; to neplatí, má-li dovolatel právnické vzdělání, popřípadě jedná-li za něj osoba uvedená v § 21 nebo v § 21a anebo v § 21b, která má právnické vzdělání. Notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními předpisy. Podle ustanovení § 241 odst. 2 o.s.ř., nemá-li dovolatel právnické vzdělání, musí být dovolání sepsáno advokátem, notářem nebo osobou uvedenou v § 21 nebo v § 21a anebo v § 21b, která má právnické vzdělání.
+Při podání dovolání nebyl povinný zákonem stanoveným způsobem zastoupen (a z obsahu spisu ani nevyplývá, že by měl právnické vzdělání).
+Usnesením ze dne 19. 12. 2002, č.j. 47 E 657/2002-31, okresní soud proto povinného vyzval, aby si do patnácti dnů od doručení rozhodnutí zvolil zmocněnce (advokáta, notáře), předložil plnou moc a současně jej vedl k tomu, co musí – ve vztahu k již podanému dovolání – advokát učinit, aby podmínka obligatorního zastoupení byla splněna.
+Na výzvu soudu, která mu byla – do věznice v K. – doručena 3. 1. 2003, dovolatel nereagoval.
+Jelikož povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – vyjma usnesení, jímž se dovolací řízení právě pro jeho neodstranění zastavuje – vydání rozhodnutí, kterým se řízení končí (§ 241 o.s.ř.), a protože ke zhojení uvedeného nedostatku přes opatření soudu nedošlo, Nejvyšší soud dovolací řízení zastavil (§ 104 odst. 2, § 243c odst. 1 o.s.ř.).
+Dovolatel z procesního hlediska zavinil, že dovolací řízení bylo zastaveno, oprávněné však v tomto stadiu řízení (podle obsahu spisu) náklady nevznikly; tomu odpovídá ve smyslu ustanovení § 146 odst. 2, věty první, § 224 odst. 1 a § 243b odst. 5, věty první, o.s.ř. výrok, že na náhradu nákladů dovolacího řízení nemá právo žádný z účastníků.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 19. června 2003
+JUDr. Pavel K r b e k , v.r.
+předseda senátu
