@@ -1,0 +1,15 @@
+26 Nd 215/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Feráka a soudců JUDr. Roberta Waltra a Doc. JUDr. Věry Korecké, CSc. ve věci žalobce F. N., zastoupeného advokátem, proti žalované D. N., o rozvod manželství, vedené u Okresního soudu v Teplicích pod sp. zn. 20 C 74/2002, o určení místní příslušnosti podle § 11 odst. 3 o. s. ř., takto:
+Určuje se, že věc projedná a rozhodne Okresní soud v Teplicích.
+O d ů v o d n ě n í :
+Žalobce podal dne 24. 7. 2002 u Okresního soudu v Teplicích žalobu o rozvod manželství, z jejíhož obsahu i z obsahu jejích doplňků a příloh je zřejmé, že oba účastníci jsou českými občany žijícími ve Spolkové republice Německo, poslední společné bydliště účastníků se nachází ve Spolkové republice Německo, poslední společné bydliště na území České republiky bylo v okrese T. a žádný z účastníků nemá na území České republiky bydliště.
+Okresní soud v Teplicích usnesením z 1. 4. 2003, č. j. 20 C 74/2002-6, vyslovil svou místní nepříslušnost a dále rozhodl tak, že po právní moci usnesení bude věc předložena Nejvyššímu soudu k „projednání a rozhodnutí“.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+V daném případě věc patří do pravomoci soudů České republiky. Jelikož mezinárodní smlouvy, kterými jsou vázány jak Česká republika, tak Spolková republika Německo, tyto otázky přímo neřeší, je zde na místě užití příslušných ustanovení zákona č. 97/1963 Sb., o mezinárodním právu soukromém a procesním, ve znění pozdějších předpisů. Podle § 38 odst. 1 tohoto zákona je ve věci řízení o zrušení manželství rozvodem pravomoc českých soudů dána, je-li alespoň jeden z manželů českým občanem. Použití českého práva pak vyplývá z ustanovení § 22 odst. 1 věty druhé téhož zákona.
+Ve věci však chybějí podmínky místní příslušnosti podle § 88 písm. a) o. s. ř., který stanoví, že namísto obecného soudu, popřípadě namísto soudu uvedeného v § 85a, je k řízení příslušný soud v jehož obvodu měli manželé poslední společné bydliště v České republice, jde-li o rozvod, neplatnost manželství nebo o určení, zda tu manželství je či není, bydlí-li v obvodu tohoto soudu alespoň jeden z manželů; není-li takového soudu, je příslušný obecný soud žalovaného, a není-li ani takového soudu, obecný soud žalobce.
+Z tohoto důvodu Nejvyšší soud určil podle § 11 odst. 3 o. s. ř., že věc projedná a rozhodne Okresní soud v Teplicích. Při určení místní příslušnosti soudu přihlížel zejména k ekonomickým a praktickým důvodům, když řízení bylo zahájeno u Okresního soudu v Teplicích, který již ve věci některé úkony prováděl, tento soud se nachází v příhraniční oblasti, proto je pro účastníky bydlící v SRN nejlépe dostupný, a je zde rovněž sídlo advokáta, který zastupuje žalobce.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 22. ledna 2004
+JUDr. Miroslav Ferák, v. r.
+předseda senátu
