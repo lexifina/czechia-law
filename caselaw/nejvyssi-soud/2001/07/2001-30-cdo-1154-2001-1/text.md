@@ -1,0 +1,20 @@
+30 Cdo 1154/2001
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Karla Podolky a soudců JUDr. Františka Duchoně a JUDr. Juraje Malika ve věci navrhovatelky J. P., zastoupené advokátem, za účasti 1/ Okresního úřadu L., pozemkového úřadu, 2/ H. p., s.p. v likvidaci, zast. advokátem , 3/ P. H., a.s., a 4/ P. fondu ČR, o úpravu vlastnických vztahů k půdě a jinému zemědělskému majetku, vedené u Městského soudu v Praze pod sp. zn. 38 Ca 489/99, o dovolání navrhovatelky proti rozsudku Městského soudu v Praze ze dne 7. prosince 2000, č.j. 38 Ca 489/99-79, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Praze rozsudkem v záhlaví označeným k opravnému prostředku navrhovatelky potvrdil rozhodnutí Okresního úřadu Liberec, pozemkového úřadu, ze dne 19. října 1999, č.j. PÚ-R-6702/99/Jo, jímž bylo rozhodnuto, že navrhovatelka je vlastnicí 13/16 nemovitostí v k.ú. V., vyjmenovaných v bodu 1. výroku, a že není vlastnicí a má nárok na náhradu ve výši 13/16 za nemovitosti v k.ú. V., vyjmenované v bodě 2. výroku rozhodnutí.
+Proti tomuto rozsudku podala navrhovatelka dovolání, jímž se domáhá zrušení napadeného rozsudku a vrácení věci soudu k novému projednání a rozhodnutí.
+Při posuzování tohoto dovolání vycházel dovolací soud z ustanovení části dvanácté, hlavy první, bodu 17 zákona č. 30/2000 Sb., jímž byl změněn a doplněn občanský soudní řád (zákon č. 99/1963 Sb.), podle něhož dovolání proti rozhodnutím odvolacího soudu, vydaným přede dnem účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů, se projednají a rozhodne se o nich podle dosavadních právních předpisů, t.j. podle občanského soudního řádu ve znění před novelizací zákonem č. 30/2000 Sb.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) po přezkoumání věci bez jednání (§ 243a odst. 1 věta první o.s.ř.) dospěl k závěru, že v posuzovaném případě brání meritornímu rozhodnutí o dovolání navrhovatelky nedostatek podmínky dovolacího řízení.
+Podle § 236 odst. 1 o.s.ř. lze napadnout dovoláním pravomocné rozhodnutí odvolacího soudu, pokud to zákon připouští.
+V této věci ovšem nerozhodoval Městský soud v Praze jako odvolací soud, nýbrž jako soud věcně příslušný k přezkoumání rozhodnutí označeného správního orgánu podle § 246 odst. 1 a § 250l a násl. o.s.ř. Pro toto rozhodování o opravných prostředcích proti rozhodnutím správních orgánů platí § 250s o.s.ř., podle něhož proti rozhodnutí soudu (jenž rozhodoval o opravném prostředku proti rozhodnutí správního orgánu) nejsou s výjimkou věcí důchodového zabezpečení a důchodového pojištění přípustné opravné prostředky.
+V daném případě navrhovatelka uplatnila u Nejvyššího soudu ČR podání, které označila jako dovolání, jež směřuje proti rozhodnutí Městského soudu v Praze, přičemž jde o rozhodnutí, proti němuž podle § 250s není vůbec přípustný opravný prostředek, tedy ani dovolání, neboť nejde o věc důchodového zabezpečení ani důchodového pojištění.
+Protože podle § 103 o.s.ř., použitelného podle § 243c odst. 1 o.s.ř. i pro řízení u dovolacího soudu, soud přihlíží kdykoli za řízení k tomu, zda jsou splněny podmínky, za nichž lze jednat ve věci, nebylo možné, aby Nejvyšší soud přistoupil k projednávání dovolání podaného navrhovatelkou proti rozhodnutí, u něhož občanský soudní řád výslovně nepřipouští podání jakéhokoli opravného prostředku (§ 250s o.s.ř.).
+Pro tento nedostatek podmínky řízení, který nelze odstranit, Nejvyššímu soudu ČR nezbylo, než řízení o navrhovatelčině dovolání zastavit (§ 246c a § 104 odst. 1 o.s.ř.).
+Dovolatelka z procesního hlediska zavinila, že dovolací řízení bylo zastaveno, účastníkům však ve stadiu dovolacího řízení náklady nevznikly. Této procesní situaci odpovídá ve smyslu § 146 odst. 2 věta prvá, § 224 odst. 1 a § 243b odst. 4 o.s.ř. výrok o tom, že na náhradu nákladů dovolacího řízení nemá žádný z nich právo.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 18. července 2001
+JUDr. Karel P o d o l k a, v. r.
+předseda senátu
