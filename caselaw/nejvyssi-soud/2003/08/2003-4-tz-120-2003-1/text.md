@@ -1,0 +1,23 @@
+4 Tz 120/2003
+ČESKÁ REPUBLIKA
+R O Z S U D E K
+J M É N E M R E P U B L I K Y
+Nejvyšší soud České republiky projednal ve veřejném zasedání konaném dne 20. srpna 2003 v senátě složeném z předsedy JUDr. Jiřího Pácala a soudců JUDr. Juraje Malika a JUDr. Danuše Novotné stížnost pro porušení zákona, kterou podal ministr spravedlnosti České republiky ve prospěch obviněného B. E., proti pravomocnému trestnímu příkazu Okresního soudu v Českém Krumlově ze dne 6. 9. 2002, sp. zn. 1 T 293/2002, a podle § 268 odst. 2, § 269 odst. 2 a § 270 odst. 1 tr. ř. rozhodl t a k t o :
+Pravomocným trestním příkazem Okresního soudu v Českém Krumlově ze dne 6. 9. 2002, sp. zn. 1 T 293/2002, b y l p o r u š e n z á k o n v ustanoveních § 213 odst. 1 tr. zák. a § 314e odst. 2 písm. a) tr. ř. v neprospěch obviněného B. E.
+Napadený trestní příkaz se z r u š u j e v celém rozsahu.
+Zrušují se též všechna další rozhodnutí na zrušený trestní příkaz navazující, pokud vzhledem ke změně, k níž došlo zrušením, pozbyla podkladu.
+Okresnímu soudu v Českém Krumlově se p ř i k a z u j e , aby věc v potřebném rozsahu znovu projednal a rozhodl.
+Odůvodnění:
+Trestním příkazem Okresního soudu v Českém Krumlově ze dne 6. 9. 2002, sp. zn. 1 T 293/2002, který nabyl právní moci dne 12. 10. 2002, byl obviněný B. E. uznán vinným ze spáchání trojnásobného trestného činu zanedbání povinné výživy podle § 213 odst. 1 tr. zák. Za to byl odsouzen podle § 213 odst. 1 tr. zák. s přihlédnutím k § 314e odst. 2 tr. ř. za použití § 35 odst. 1 tr. zák. k úhrnnému trestu odnětí svobody v trvání 15 měsíců, jehož výkon byl podle § 60a odst. 1 tr. zák. podmíněně odložen na zkušební dobu v trvání 3 roků, když nad obviněným byl současně vysloven dohled a podle § 60a odst. 1 tr. zák. mu byla uložena povinnost ve zkušební době vést řádný život.
+Proti tomuto trestnímu příkazu podal ministr spravedlnosti stížnost pro porušení zákona ve prospěch obviněného B. E. Vytkl v ní, že zákon byl porušen v ustanoveních § 213 odst. 1 tr. zák. a § 314e odst. 2 písm. a) tr. ř., neboť podle těchto zákonných ustanovení mohl být uložen trest odnětí svobody nejvýše do 1 roku. Závěrem stížnosti pro porušení zákona ministr spravedlnosti navrhl, aby Nejvyšší soud vyslovil podle § 268 odst. 2 tr. ř. porušení zákona ve vytýkaném směru, aby podle § 269 odst. 2 tr. ř. napadený trestní příkaz zrušil a dále aby postupoval podle § 271 tr. ř.
+Nejvyšší soud České republiky podle § 267 odst. 3 tr. ř. přezkoumal zákonnost a odůvodněnost těch výroků rozhodnutí, proti nimž byla stížnost pro porušení zákona podána, v rozsahu a z důvodů v ní uvedených, jakož i řízení napadené části rozhodnutí předcházející, a dospěl k závěru, že zákon porušen byl.
+Je třeba v plném rozsahu přisvědčit stížnosti pro porušení zákona, že trestním příkazem lze podle § 314e odst. 2 písm. a) tr. ř. uložit trest odnětí svobody do 1 roku. Stejný trest lze uložit i podle § 213 odst. 1 tr. zák. za trestný čin zanedbání povinné výživy.
+Nejvyššímu soudu tedy nezbylo, než podle § 268 odst. 2 tr. ř. vyslovit, že pravomocným trestním příkazem Okresního soudu v Českém Krumlově ze dne 6. 9. 2002, sp. zn. 1 T 293/2002, byl porušen zákon v ustanoveních § 314e odst. 2 písm. a) tr. ř. a § 213 odst. 1 tr. zák., když obviněnému B. E. byl uložen za trestný čin zanedbání povinné výživy podle § 213 odst. 1 tr. zák. trest odnětí svobody v trvání 15 měsíců. Zákon byl tak porušen v neprospěch obviněného B. E.
+Podle § 269 odst. 2 tr. ř. Nejvyšší soud zrušil napadený trestní příkaz v celém rozsahu, stejně jako i obsahově navazující rozhodnutí, pokud vzhledem ke změně, k níž došlo zrušením, pozbyla podkladu. V trestním příkazu nemohl být zrušen pouze výrok o trestu, který jediný byl stížností pro porušení zákona napaden, a to s ohledem na důsledky případně podaného odporu proti výroku o trestu uvedené v § 314g odst. 2 tr. ř. (podáním odporu se ruší celý trestní příkaz).
+Pro úplnost zbývá dodat, že stížnost pro porušení zákona podaná proti výroku o trestu byla přípustná podle § 266 odst. 2 tr. ř., neboť trest uložený nad horní hranici trestní sazby je ve zřejmém nepoměru ke stupni nebezpečnosti činu pro společnost.
+Podle § 270 odst. 1 tr. ř. Nejvyšší soud přikázal Okresnímu soudu v Českém Krumlově, aby věc v potřebném rozsahu znovu projednal a rozhodl při vázanosti tohoto soudu podle § 270 odst. 4 tr. ř. právním názorem Nejvyššího soudu.
+Jelikož Nejvyšší soud vyslovil, že zákon byl porušen v neprospěch obviněného B. E., nemůže v novém řízení dojít ke změně rozhodnutí v jeho neprospěch (§ 273 tr. ř.).
+Poučení: Proti tomuto rozhodnutí není opravný prostředek přípustný.
+V Brně dne 20. srpna 2003
+Předseda senátu:
+JUDr. Jiří Pácal
