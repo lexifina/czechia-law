@@ -1,0 +1,17 @@
+11 Td 67/2002
+U S N E S E N Í
+Nejvyšší soud v trestní věci obviněných mlad. D. T., a mlad. J. T., vedené u Okresního soudu v Pardubicích pod sp. zn. 2 T 63/2002 rozhodl v neveřejném zasedání konaném dne 27. 11. 2002 o příslušnosti soudu t a k t o:
+Podle § 24 odst. 1 tr. řádu j e k projednání trestní věci obviněných mlad. D.T. a mlad. J. T. p ř í s l u š n ý Okresní soud v Pardubicích.
+O d ů v o d n ě n í :
+Náměstkyně okresní státní zástupkyně v Pardubicích podala dne 4. 4. 2002 Okresnímu soudu v Pardubicích obžalobu na obviněné mlad. D. T. a mlad. J. T. pro trestný čin loupeže podle § 234 odst. 1 tr. zák., který měli spáchat tím, že dne 20. 8. 2000 kolem 24.00 hod. v P. napadli poškozeného J. M. tím způsobem, že ho udeřili pěstí do břicha a do obličeje, poškozený upadl a poté mu z kapsy u kalhot odcizili peněženku v hodnotě 200,- Kč s částkou 100 DM, tj. 1.811,- Kč, osobními doklady, 2 klíči FAB v hodnotě 26,- Kč a nezjištěnou finanční částkou, čímž způsobili škodu ve výši nejméně 2.037,- Kč J. M.
+Okresní soud v Pardubicích usnesením ze dne 17. 6. 2002, sp. zn. 2 T 63/2002, podle § 295 tr. řádu trestní věc obviněných mlad. D. T. a mlad. J. T. postoupil k projednání a rozhodnutí Okresnímu soudu ve Znojmě, neboť oba obvinění mladiství jsou umístěni v ústavním zařízení, a to obviněný mlad. D. T. ve Výchovném ústavu pro mládež S., a obviněný mlad. J. T. ve Výchovném ústavu pro mládež V., kdy s ohledem na zájmy mladistvého se jeví jako nejúčelnější, aby trestní řízení proti oběma obviněným provedl Okresní soud ve Znojmě, v jehož obvodu se v současné době obviněný mlad. J. T.nachází. Pokud jde o obviněného mlad. D. T. je soud toho názoru, že nebude problém i tohoto obviněného mladistvého k Okresnímu soudu ve Znojmě předvolat.
+Usnesením ze dne 23. 10. 2002, sp. zn. 3 T 476/2002, vyslovil Okresní soud ve Znojmě v trestní věci obviněných mlad. D. T. a mlad. J. T. nepříslušnost s odůvodněním, že oba obvinění mladiství se ve Výchovném ústavu pro mládež S.a Výchovném ústavu pro mládež V. nenachází, neboť oba již dosáhli zletilosti.
+Podáním ze dne 31. 10. 2002 byla trestní věc obviněných mlad. D. T. a mlad. J. T. předložena Nejvyššímu soudu k rozhodnutí o příslušnosti.
+Nejvyšší soud zhodnotil důkazy použitelné k rozhodnutí podle § 24 tr. řádu a dospěl k tomuto závěru.
+Okresní soud v Pardubicích při svém rozhodnutí dne 17. 6. 2002 vycházel z neúplného zjištění. V době rozhodování soudu obviněný mlad. J. T. již ve Výchovném ústavu pro mládež V. nebyl, odjel na prázdniny, ze kterých se do ústavu nevrátil, a protože mezitím dosáhl zletilosti, byl v ústavu vyřazen ze stavu. S ohledem na to, že v době, kdy bylo rozhodováno o postoupení věci, se znovu zdržoval ve svém trvalém bydlišti v P., jeví se vhodné, aby ve věci jednal a rozhodl Okresní soud v Pardubicích, ke kterému napadla obžaloba, a který je věcně i místně příslušný obžalobu projednat. Jinak je bezpředmětné zabývat se změnou příslušnosti soudu k projednání věci obviněného mlad. D. T., neboť ani tento se již ve Výchovném ústavu pro mládež S. nenachází.
+Je tedy třeba poznamenat, že důvody ke změně místní příslušnosti podle § 295 tr. řádu s ohledem na věk obou obviněných mladistvých v současné době již pominuly.
+Za tohoto stavu bylo rozhodnuto, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 27. listopadu 2002
+Předseda senátu:
+JUDr. Pavel Kučera
