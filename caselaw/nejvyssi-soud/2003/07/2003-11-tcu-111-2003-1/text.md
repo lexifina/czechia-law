@@ -1,0 +1,15 @@
+U S N E S E N Í
+Nejvyšší soud České republiky projednal dne 11. července 2003 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na zápis odsouzení cizozemským soudem do evidence Rejstříku trestů a rozhodl t a k t o :
+Zamítá se návrh Ministerstva spravedlnosti České republiky na zaznamenání údajů do evidence Rejstříku trestů o jiném odsouzení občanů České republiky M. O. a R. S., rozsudkem Okresního soudu v Augsburgu, Spolková republika Německo, ze dne 6. 2. 1997, sp. zn. 8 Ds 310 Js 138141/96.
+O d ů v o d n ě n í :
+Dne 4. 6. 2003 pod sp. zn. 708/2002-MO-M podalo Ministerstvo spravedlnosti České republiky podle § 4 odst. 2 zák. č. 269/1994 Sb., o Rejstříku trestů (dále jen zákon), Nejvyššímu soudu České republiky návrh na zapsání odsouzení občanů České republiky M. O. a R. S. rozsudkem Okresního soudu v Augsburgu, Spolková republika Německo, ze dne 6. 2. 1997, sp. zn. 8 Ds 310 Js 138141/96, do evidence Rejstříku trestů České republiky.
+Nejvyšší soud České republiky věc přezkoumal a dospěl k těmto závěrům:
+Podle § 4 odst. 1 zákona se do evidence Rejstříku trestů zaznamenávají údaje o odsouzení cizozemským soudem, jestliže o uznání rozsudku takového soudu rozhodl podle § 384a odst. 1 tr. ř. Nejvyšší soud ČR. Podle § 4 odst. 2 zákona může však Nejvyšší soud ČR na návrh Ministerstva spravedlnosti ČR rozhodnout, že se do evidence Rejstříku trestů zaznamenají též údaje o jiném odsouzení občana České republiky cizozemským soudem, jestliže se týká činu, který je trestným i podle právního řádu České republiky, a zápis do evidence je odůvodněn závažností činu a druhem trestu, který za něj byl uložen.
+Nejvyšší soud zjistil, že o zaznamenání údajů o odsouzení rozsudkem Okresního soudu v Chemnitzi, Spolková republika Německo, ze dne 15. 2. 2000, sp. zn. 6 Ds 710 Js 34393/99, do evidence Rejstříku trestů ve smyslu ustanovení § 4 odst. 2 zák. č. 269/1994 Sb. ve vztahu ke shora uvedeným osobám již dříve pravomocně rozhodl, a to usnesením ze dne 14. 1. 2000, sp. zn. 11 Tcu 35/99, k návrhu Ministerstva spravedlnosti ČR ze dne 26. 10. 1999, sp. zn. 3170/97-M. Konstatovaným usnesením byl návrh zamítnut, a to pro nedostatek tzv. materiální podmínky ve smyslu ustanovení § 4 odst. 2 zákona, tj. závažnosti činu a druhu uloženého trestu.
+Nyní byl Nejvyššímu soudu předložen návrh na zaznamenání odsouzení týchž osob shodným rozhodnutím, tedy s nezměněným stavem skutečností rozhodných pro postup podle posledně citovaného zákonného ustanovení, a to včetně skutečností podstatných pro posouzení uvedených materiálních podmínek.
+Za této situace pak Nejvyšší soud musel konstatovat, že nedošlo-li od rozhodnutí o zamítnutí předchozího návrhu k jakékoli změně odůvodňující jiný postup ve věci, není pak na místě než opětovně podaný návrh také zamítnout.
+Z uvedených důvodů proto Nejvyšší soud České republiky návrhu Ministerstva spravedlnosti České republiky nevyhověl.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 11. července 2003
+Předseda senátu:
+JUDr. Karel Hasch
