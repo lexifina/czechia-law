@@ -1,0 +1,14 @@
+20 Cdo 1976/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Vladimíra Mikuška a soudců JUDr. Miroslavy Jirmanové a JUDr. Vladimíra Kurky ve věci výkonu rozhodnutí oprávněných A) Mgr. I. H. a B) Z. H., obou zastoupených advokátkou, proti povinné M. H., pro 15.095,50 Kč s příslušenstvím, srážkami z důchodu, vedené u Okresního soudu v Pardubicích pod sp. zn. 14 E 924/2002, o dovolání povinné proti usnesení Krajského soudu v Hradci Králové – pobočky v Pardubicích ze dne 7. května 2003, č.j. 23 Co 57/2003-42, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Proti shora označenému rozhodnutí, jímž krajský soud potvrdil usnesení ze dne 28. 11. 2002. č.j. 14 E 942/2002-17 (kterým okresní soud nařídil výkon rozhodnutí srážkami z důchodu povinné) podala povinná dovolání.
+Protože dovolání mělo vady bránící dalšímu pokračování dovolacího řízení a z obsahu spisu nevyplývalo, že by dovolatelka byla v dovolacím řízení stanoveným způsobem zastoupena, případně že by byla právnicky vzdělaná, okresní soud ji usnesením ze dne 25. 7. 2003, č.j. 14 E 924/2002-46, ve znění opravného usnesení ze dne 29. 7. 2003, č.j. 14 E 924/2002-49, vyzval, aby ve lhůtě 30 dnů odstranila vady podání a aby si ve stejné lhůtě zvolila advokáta , nemá-li sama právnické vzdělání. Usnesení byl dovolatelce doručeno 10. 8. 2003, opravné usnesení l. 8. 2003. Dne 5. 8. 2003 byla dovolatelka opět poučena o povinném zastoupení v dovolacím řízení (protokol na č.l. 51), dovolatelka vytýčený nedostatek však neodstranila.
+Podle ustanovení § 241 odst. 1 věty první občanského soudního řádu, ve znění pozdějších předpisů (dále též jen „o. s. ř.“), není-li stanoveno jinak (§ 241 odst. 2, 3 o.s.ř.) musí být dovolatel zastoupen advokátem nebo notářem. Podle ustanovení § 241 odst. 4 o.s.ř. musí být dovolání sepsáno, s výjimkou případu uvedeného v § 241 odst. 2 písm. a) o.s.ř., advokátem, notářem nebo osobou uvedenou v § 21, 21a, 21b, anebo v § 26a odst. 3, která má právnické vzdělání.
+Protože povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání - kromě usnesení, kterým se dovolací řízení právě pro neodstranění tohoto nedostatku zastavuje - vydání rozhodnutí, jímž se řízení končí ( § 241 odst. l o.s.ř.) , a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu nedošlo, Nejvyšší soud řízení o dovolání podle § 104 odst. 2 a § 243c odst. l o.s.ř. zastavil.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, věty první, § 224 odst. 1 a § 146 odst. 2 věty první o.s.ř.; oprávněným však ve stadiu dovolacího řízení (podle obsahu spisu) náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. října 2004
+JUDr. Vladimír M i k u š e k , v.r. předseda senátu
