@@ -1,0 +1,17 @@
+11 Tvo 9/2003
+U S N E S E N Í
+Nejvyšší soud projednal v neveřejném zasedání konaném dne 30. dubna 2003 stížnost obviněného D. M., proti usnesení Vrchního soudu v Praze ze dne 19. 2. 2003, sp. zn. 2 To 203/02, a rozhodl t a k t o :
+Podle § 149 odst. 1 písm. a) tr. řádu s e usnesení Vrchního soudu v Praze v napadené části z r u š u j e .
+Podle § 72 odst. 1, 2 písm. a) tr. řádu s e obviněný D. M. p r o p o u š t í z vazby na svobodu.
+O d ů v o d n ě n í :
+Rozsudkem Městského soudu v Praze ze dne 26. 6. 2002, sp. zn. 49 T 15/2001, byl obviněný D. M. uznán vinným trestným činem zbavení osobní svobody podle § 232 odst. 1 tr. zák, trestným činem kuplířství podle § 204 odst. 1, 2 tr. zák. a trestným činem vydírání podle § 235 odst. 1, 2 písm. b) tr. zák. vše ve spolupachatelství podle § 9 odst. 2 tr. zák. a odsouzen k nepodmíněnému trestu odnětí svobody v trvání čtyř roků, pro jehož výkon byl zařazen do věznice s ostrahou. Stejným rozsudkem bylo rozhodnuto o vině a trestu obviněných H. J. L., R. Š. a J. H.
+K odvolání státní zástupkyně Městského státního zastupitelství v Praze ve prospěch obviněného D. M. a k odvolání obviněných H. J. L., D. M. a R. Š. byl usnesením Vrchního soudu v Praze ze dne 6. 2. 2003, sp. zn. 2 To 203/02, podle § 258 odst. 1 písm. a), b), c) tr. řádu napadený rozsudek v celém rozsahu zrušen a podle § 259 odst. 1 tr. řádu byla věc vrácena Městskému soudu v Praze.
+Vrchní soud v Praze usnesením ze dne 19. 2. 2003, sp. zn. 2 To 203/02, podle § 71 odst. 4, 7 tr. řádu ponechal obviněné H. J. L., D. M. a R. Š. i nadále z důvodu § 67 písm. a) tr. řádu ve vazbě.
+Proti tomuto usnesení podal obviněný D. M. stížnost, neboť s důvodem vazby podle § 67 písm. a) tr. řádu nesouhlasí. Současně požádal o nahrazení vazby slibem nebo dohledem probačního úředníka.
+Nejvyšší soud z podnětu podané stížnosti přezkoumal podle § 147 odst. 1 tr. řádu správnost napadeného rozhodnutí i řízení, které mu předcházelo, a dospěl k tomuto závěru.
+Obviněný D. M. byl vzat do vazby usnesením Obvodního soudu pro Prahu 3 ze dne 29. 1. 2001, sp. zn. Nt 626/2001, z důvodů uvedených v ustanovení § 67 odst. 1 písm. a), b) tr. řádu s tím, že vazba se započítává ode dne 27. 1. 2001. V průběhu řízení byl důvod vazby obviněného omezen jen na § 67 písm. a) tr. řádu. O důvodnosti vazby obviněného bylo opakovaně rozhodováno, naposledy usnesením Vrchního soudu v Praze ze dne 19. 2. 2003, sp. zn. 2 To 203/02, kterým byl podle § 71 odst. 4, 7 tr. řádu i nadále ponechán ve vazbě. Nejvyšší soud, jako soud druhého stupně, za současného stavu řízení nepovažuje další vazbu obviněného D. M. za důvodnou. Obviněný je ve vazbě více než dva roky a s ohledem na odvolání Městské státní zástupkyně v jeho prospěch a právní názor vyslovený v usnesení Vrchního soudu v Praze, jímž byl zrušen odsuzující rozsudek Městského soudu v Praze, je zřejmé, že obviněnému po zápočtu vazby nehrozí k odpykání ani dva roky odnětí svobody. Za tohoto stavu potom nelze spatřovat hrozbu přísným trestem za důvod pro ponechání obviněného ve vazbě podle § 67 písm. a) tr. řádu. Tím, že přestalo reálně hrozit nebezpečí, že by obviněný na svobodě uprchl nebo se skrýval před dalším trestním stíháním, pominuly důvody vazby.
+Z těchto důvodů Nejvyšší soud usnesení Vrchního soudu v Praze v části týkající se obviněného D. M. podle § 149 odst. 1 písm. a) tr. řádu zrušil a podle § 72 odst. 1, 2 písm. a) tr. řádu obviněného propustil na svobodu.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 30. dubna 2003
+Předseda senátu :
+JUDr. Pavel Kučera
