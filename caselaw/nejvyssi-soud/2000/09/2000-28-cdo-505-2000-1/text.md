@@ -1,0 +1,20 @@
+28 Cdo 505/2000
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce F. G., proti žalovaným: 1/ M. č. P., 2/ B. p. P. 1, s.p. v likvidaci a 3/ Obci P., o uzavření dohody o vydání věci, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 15 C 224/95, o dovolání první žalované proti rozsudku Městského soudu v Praze ze dne 3. 9. 1999, č.j. 13 Co 307/99-83, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Shora uvedeným rozsudkem Městského soudu v Praze jako soudu odvolacího byl rozsudek Obvodního soudu pro Prahu 1 jako soudu prvního stupně ze dne 18. 3. 1999, č.j. 15 C 224/95-65 ve výroku o povinnosti první žalované uzavřít se žalobcem dohodu o vydání věci a ve výroku o nákladech řízení ve vztahu mezi těmito účastníky potvrzen a v ostatních výrocích zůstal nedotčen. Dále bylo rozhodnuto o tom, že žalobci se nepřiznává náhrada nákladů odvolacího řízení a zároveň bylo připuštěno dovolání „k řešení právní otázky státního občanství žalobce\".
+Proti tomuto rozsudku podala první žalovaná dovolání, které směřovalo do výroku, jímž se rozsudek soudu prvního stupně ve výroku o povinnosti první žalované uzavřít se žalobcem dohodu o vydání věci potvrzuje. Přípustnost dovozovala z ustanovení § 239 odst. 1 o.s.ř., s odkazem na výrok III. napadeného rozsudku. Tvrdila, že napadené rozhodnutí spočívá na nesprávném právním posouzení státního občanství ČR žalobce, čímž uplatnila dovolací důvod podle § 241 odst. 3 písm. d) o.s.ř. Navrhla jak zrušení rozsudku odvolacího soudu, tak i soudu prvního stupně a vrácení věci tomuto soudu k dalšímu řízení.
+Vyjádření k dovolání nebylo podáno.
+Nejvyšší soud České republiky jako soud dovolací zjistil, že dovolání bylo podáno včas, osobou k tomu oprávněnou - účastnicí řízení řádně zastoupenou advokátem ( § 240 odst. 1, § 241 odst. 1 o.s.ř.), že však v této věci není přípustné.
+Podle § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Podle ustanovení § 239 odst. 1 o.s.ř. je dovolání přípustné proti rozsudku nebo usnesení odvolacího soudu ve věci samé, jímž bylo rozhodnutí soudu prvního stupně potvrzeno, jestliže odvolací soud ve výroku rozhodnutí vyslovil, že dovolání je přípustné, protože jde o rozhodnutí po právní stránce zásadního významu.
+Odvolací soud ve výroku výše uvedeného rozsudku připustil dovolání pro posouzení „právní otázky státního občanství žalobce\", přičemž v odůvodnění svého rozsudku blíže nevymezil, v čem konkrétně spatřuje zásadní právní význam této otázky. Dovolací soud shledal otázku státního občanství žalobce otázkou nikoli právní, ale skutkovou, která měla být (a také byla) na základě provedeného dokazování spolehlivě vyřešena/zjištěna již v průběhu řízení před soudem prvního stupně a posléze i soudem odvolacím. Bylo-li dovolání připuštěno pro řešení jiné než právní otázky, nezakládá výrok odvolacího soudu přípustnost dovolání.
+Z obsahu spisu nevyplývá - a ostatně to dovolatel ani netvrdí - že by se v řízení vyskytly vady řízení (důvody zmatečnosti) uvedené v § 237 odst. 1 písm. a) až g) o.s.ř., k nimž dovolací soud ve smyslu ustanovení § 242 odst. 3 o.s.ř. musí přihlížet z úřední povinnosti, a které by zakládaly dovolací důvod podle § 241 odst. 3 písm. a) o.s.ř.
+Z uvedeného je zřejmé, že přípustnost dovolání proti výše uvedenému rozsudku odvolacího soudu v této věci nelze dovodit z žádného ustanovení platného procesního práva. Dovolací soud musel proto podle § 243b odst. 4 o.s.ř. za použití § 218 odst. 1 písm. c) o.s.ř. dovolání odmítnout, aniž mohl přistoupit k meritornímu zkoumání dovolacích námitek v něm obsažených.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 4 o. s. ř. za použití § 224 odst. 1, § 151 odst. 1 a § 142 odst. 1 o. s. ř. První žalovaná neměla v dovolacím řízení úspěch a žalobci v souvislosti s podaným dovoláním žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 27. září 2000
+JUDr. Josef R a k o v s k ý, v.r.
+předseda senátu
+Za správnost vyhotovení: Ivana Svobodová
