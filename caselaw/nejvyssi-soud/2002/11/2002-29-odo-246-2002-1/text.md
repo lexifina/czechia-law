@@ -1,0 +1,16 @@
+29 Odo 246/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci návrhu N. p. s.r.o., na změnu zápisu v obchodním rejstříku, vedené u Městského soudu v Praze pod sp. zn. F 6981/99, 22665/99 / C 45954, o dovolání navrhovatelky, proti usnesení Vrchního soudu v Praze ze dne 7. února 2001, čj. 7 Cmo 822/99-148, takto:
+Dovolací řízení se zastavuje.
+Odůvodnění:
+Vrchní soud v Praze napadeným usnesením potvrdil usnesení Krajského obchodního soudu v Praze ze dne 22.4.1999, čj. F 6981/99, 22665/99 / C 45954-132a, kterým soud prvního stupně zamítl návrh na zápis změn navrhovatelky do obchodního rejstříku.
+Navrhovatelka podala proti usnesení odvolacího soudu dovolání, přičemž při jeho podání nebyla zastoupena advokátem, ani nedoložila, že za ni jedná statutární orgán nebo zaměstnanec (člen) s právnickým vzděláním.
+Podle části dvanácté, hlavy první, bodu 17. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů (o takový případ jde i v projednávané věci, neboť podle části dvanácté, hlavy první, bodu 15. zákona č. 30/2000 Sb. se odvolání proti rozhodnutím sodu prvního stupně vydaným po řízení provedeném podle dosavadních právních předpisů projednají a rozhodnou podle dosavadních právních předpisů) se projednají s rozhodnou podle dosavadních právních předpisů (to jest podle občanského soudního řádu ve znění účinném před 1.1.2001 - dále též jen „o. s. ř.“).
+Podle ustanovení § 241 odst 1 o. s. ř. musí být dovolatel zastoupen advokátem, jestliže sám nemá právnické vzdělání. Povinné zastoupení je zvláštní podmínkou dovolacího řízení týkající se dovolatele, jejíž nedostatek lze odstranit. Bez splnění této podmínky však nelze vydat rozhodnutí, kterým se řízení končí (§ 104 odst. 2 věta druhá o. s. ř.).
+Nejvyšší soud proto dovolatelku usnesením ze dne 16.8.2002 a 24.9.2002 opakovaně vyzýval, aby do 10 dnů od doručení usnesení doložila, že statutární orgán který za ni jedná, má právnické vzdělání, nebo aby odstranila nedostatek podmínky povinného zastoupení tím, že si zvolí advokáta, který ji bude v dovolacím řízení zastupovat. Pro případ, že si dovolatelka zvolí advokáta, byla dovolatelka poučena, že je třeba, aby zvolený advokát již podané dovolání v soudem určené lhůtě podepsal, vlastnoručně podepsaným podáním se s ním ztotožnil, nebo je nahradil podáním vlastním. Zároveň byla dovolatelka poučena, že jestliže v poskytnuté lhůtě nedoloží, že podmínka povinného zastoupení je splněna (zhojen její nedostatek), Nejvyšší soud dovolací řízení zastaví.
+Dovolatelka však ve výše uvedené lhůtě nedostatek podmínky řízení neodstranila. Zaslala totiž soudu pouze plnou moc pro advokáta Mgr. Z. P., na které není dokonce ani advokátův podpis.
+Vzhledem k tomu, že se nepodařilo nedostatek podmínky řízení odstranit, ač soud učinil vhodná opatření k jeho odstranění, Nejvyšší soud v souladu s ustanoveními § 243c a § 104 odst. 2 o. s. ř. dovolací řízení zastavil.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 7. listopadu 2002
+JUDr. Ivana Štenglová, v.r.
+předsedkyně senátu
