@@ -1,0 +1,22 @@
+26 Cdo 687/2001
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci žalobce města L. proti žalované 1) J. B. a 2) J. B., o vyklizení bytu, vedené u Okresního soudu v Chebu pod sp.zn. 8 C 172/2000, o dovolání žalovaných proti rozsudku Krajského soudu v Plzni ze dne 30. října 2000, č. j. 15 Co 705/2000-21, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Plzni jako soud odvolací rozsudkem ze dne 30.10.2000, č. j. 15 Co 705/2000-21, potvrdil rozsudek Okresního soudu v Chebu (soud I. stupně) ze dne 30.8.2000, č. j. 8 C 172/2000-8, jímž byla žalovaným uložena povinnost vyklidit byt č. 4, II. kategorie, o velikosti 1+1, v 1. poschodí domu v Z. ulici čp. 344 v L., do 15 dnů od právní moci rozsudku, a bylo rozhodnuto o nákladech řízení. Odvolací soud rovněž rozhodl o nákladech odvolacího řízení.
+Dne 14.12.2000 bylo odvolacímu soudu doručeno blíže neodůvodněné podání žalovaných označené jako „odvolání proti rozsudku\" Krajského soudu v Plzni s tím, že 2. žalovaný je již zaměstnán a dluh na nájemném bude splácet.
+Usnesením soudu I. stupně ze dne 28.12.2000, č. j. 8 C 172/2000-27, doručeným žalovaným dne 9.1.2001, byli žalovaní vyzváni k odstranění vad podání, včetně povinného zastoupení advokátem, kterým musí být dovolání také sepsáno (§ 241 odst. 1 a 2 o.s.ř.), a to ve lhůtě 20 dnů ode dne doručení tohoto usnesení. Současně byli poučeni, že pokud tak neučiní, bude dovolací řízení zastaveno.
+Dne 31.1.2001 bylo soudu I. stupně doručeno další podání sepsané žalovanými, jež je označeno jako „dovolání\" proti rozsudku odvolacího soudu, a ve kterém žalovaní pouze uvádějí, že nájemné řádně platí a dluh zaplatili do konce roku 2000.
+Usnesením soudu I. stupně ze dne 6.3.2001, č. j. 8 C 172/2000-32, doručeným žalovaným dne 9.3.2001, byli oba m.j. opětovně upozorněni na povinné zastoupení advokátem, kterým musí být dovolání také sepsáno, a poučeni, že pokud tak ve stanovené lhůtě 20 dnů od doručení tohoto usnesení neučiní, bude dovolací řízení zastaveno. Dovolatelé ani na základě druhé výzvy soudu do dnešního dne na ni nijak nereagovali, nedoložili, že by si zvolili pro dovolací řízení zástupce z řad advokátů, přičemž ze spisu nevyplývá, že by sami měli právnické vzdělání.
+Podle části dvanácté, hlavy první, bodu 17. zák. č. 30/2000 Sb., kterým se mění zák. č. 99/1963 Sb., občanský soudní řád (ve znění pozdějších předpisů) a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona, tj. před 1.1.2001, nebo vydaným po řízení provedeném podle dosavadních právních předpisů, se projednají a rozhodnou podle dosavadních právních předpisů. Protože napadený rozsudek odvolacího soudu byl vydán dne 30.10.2000, dovolací soud dovolání projednal a rozhodl o něm podle zák. č. 99/1963 Sb., občanský soudní řád, ve znění před novelou provedenou zák. č. 30/2000 Sb. (dále opět jen „o.s.ř.\").
+Podle § 241 odst. 1 o.s.ř. musí být dovolatel zastoupen advokátem, pokud nemá právnické vzdělání buď sám nebo jeho zaměstnanec (člen), který za něj jedná. Podle § 241 odst. 2 o.s.ř. nemá-li dovolatel právnické vzdělání, musí být dovolání sepsáno advokátem nebo zaměstnancem (členem) dovolatele s právnickým vzděláním, který za něj jedná.
+Povinné zastoupení dovolatele je tak zvláštní podmínkou dovolacího řízení týkající se dovolatele, jejíž nedostatek lze sice odstranit, avšak bez jejíhož splnění nelze vydat rozhodnutí ve věci samé.
+Podle § 103 o.s.ř. (§ 243c o.s.ř.) kdykoli za řízení přihlíží soud k tomu, zda jsou splněny podmínky, za nichž může jednat ve věci (podmínky řízení).
+Podle § 104 odst. 2 o.s.ř., jde-li o nedostatek podmínky řízení, který lze odstranit, učiní k tomu soud vhodná opatření. Nezdaří-li se nedostatek podmínky řízení odstranit, soud řízení zastaví.
+V dané věci dovolatelé přes opakovanou výzvu soudu ve stanovené lhůtě, ani později uvedený nedostatek podmínky řízení neodstranili a sami právnické vzdělání nemají. Nejvyšší soud proto dovolací řízení podle § 243c a § 104 odst. 2 věty třetí o.s.ř. zastavil.
+Výrok o nákladech dovolacího řízení se opírá o ustanovení § 243b odst. 4, § 224 odst. 1 a § 146 odst. 2 větu první o.s.ř. a o skutečnost, že žalobci nevzešly prokazatelné náklady dovolacího řízení, na jejichž náhradu by jinak měl právo.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 15. května 2001
+JUDr. Michal M i k l á š , v.r.
+předseda senátu
