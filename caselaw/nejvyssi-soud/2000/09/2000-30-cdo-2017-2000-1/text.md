@@ -1,0 +1,17 @@
+30 Cdo 2017/2000
+U S N E S E N Í
+Nejvyšší soud rozhodl v první věci žalobce M. č. P., proti žalovanému R. J., o zaplacení 12.769,- Kč s přísl., vedené u Obvodního soudu pro Prahu 10 pod sp. zn. 21 C 51/97, o dovolání žalovaného proti usnesení Městského soudu v Praze ze dne 31.7.1997, č.j. 25 Co 364/97-17, takto:
+I. Řízení o dovolání se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v od n ě n í :
+Obvodní soud pro Prahu 10 usnesením ze dne 28.3.1997, č.j. 21 C 51/97-12, zastavil v této věci řízení dle ustanovení § 96 odst.3 o.s.ř., žalobci vrátil polovinu jím zaplaceného soudního poplatku a žalovanému uložil povinnost zaplatit žalobci náklady řízení.
+O odvolání žalovaného, směřujícímu proti výroku o jeho povinnosti zaplatit náklady řízení, rozhodl Městský soud v Praze usnesením ze dne 31.7.1997, č.j. 25 Co 364/97-17, tak, že odvolání odmítl pro jeho opožděnost dle ustanovení § 218 odst. 1 písm. a/ občanského soudního řádu (dále jen o.s.ř.). Vyšel ze zjištění, že žalovaný převzal usnesení soudu prvního stupně dne 17.4.1997, následujícím dnem mu počala běžet patnáctidenní lhůta k odvolání, která skončila v pátek dne 2. května 1997. Žalovaný však podal své odvolání osobně u soudu prvního stupně až v úterý dne 6. května l997, tedy opožděně.
+Usnesení odvolacího soudu, které nabylo právní moci dne 16.9.1997, napadl žalovaný včasným dovoláním, které si sepsal sám a které nesplňovalo náležitosti stanovené pro tento mimořádný opravný prostředek v ustanovení § 241 odst. 1, 2, o.s.ř. Byl tedy vyzván usnesením soudu prvního stupně ze dne 16.10.1998, č.j. 21 C 51/97-28, k doplnění dovolání ve lhůtě deseti dnů od jeho doručení tak, aby vyhovovalo kritériím zákona, zejména pokud jde o povinné zastoupení advokátem v dovolacím řízení. Žalovaný převzal uvedené usnesení dne 17.11.1999 ovšem požadavky shora uvedené výzvy soudu prvního stupně nesplnil.
+Podle ustanovení § 243c o.s.ř., ve spojení s ustanoveními § 103 a § 104 odst. 2 o.s.ř., soud musí kdykoli za řízení přihlížet k tomu, zda jsou splněny podmínky, za nichž může ve věci jednat, t.j. zda jsou splněny podmínky řízení. Mezi základní procesní podmínky dovolacího řízení patří existence dovolání splňujícího požadavky ustanovení § 241 o.s.ř. Dovolání je mimořádný opravný prostředek a v dovolacím řízení musí být dovolatel zastoupen advokátem (§ 241 odst. 1 o.s.ř.), pokud nemá sám právnické vzdělání. Jedná se o podmínky řízení, jejichž nedostatek lze odstranit. Avšak nezdaří-li se tento nedostatek podmínky řízení odstranit, soud řízení zastaví.
+V daném případě se soud prvního stupně pokusil zmíněný nedostatek podmínek řízení odstranit tím, že dovolatele usnesením vyzval k doplnění dovolání tak, aby splňovalo požadavky zákona, včetně povinného zastoupení advokátem. Dovolatel však požadavek soudu nesplnil. Nepodařilo se tedy přes výzvu soudu zmíněný nedostatek podmínky řízení odstranit, proto dovolací soud řízení zastavil podle ustanovení § 104 odst. 2 o.s.ř. ve spojení s ustanovením § 243c o.s.ř., aniž se mohl zabývat věcnou správností napadeného rozhodnutí.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 4 věty prvé o.s.ř., ve spojení s § 224 odst. 1, § l46 odst. 1 písm. c/ a § 151 odst. 1 o.s.ř., protože řízení o dovolání bylo zastaveno.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 13. září 2000
+JUDr. František D u c h o ň , v.r.
+předseda senátu
+Za správnost vyhotovení: Marie Plhalová
