@@ -1,0 +1,18 @@
+32 Odo 165/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Kateřiny Hornochové a soudců JUDr. Zdeňka Dese a JUDr. Miroslava Galluse ve věci žalobkyně A. s. a. s., zastoupené, advokátem, proti žalovanému P. K., zastoupenému, advokátem, o zaplacení 150 227 Kč s příslušenstvím, vedené u Okresního soudu v Pelhřimově pod sp. zn. 4 C 149/2004, o dovolání žalovaného proti usnesení Krajského soudu v Českých Budějovicích – pobočka v Táboře ze dne 27. října 2004 č. j. 15 Co 651/2004 - 142, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Pelhřimově usnesením ze dne 17. srpna 2004 č. j. 4 C 149/2004 – 134 zastavil řízení podle § 96 o. s. ř. z důvodu zpětvzetí žaloby (výrok I.) a rozhodl o náhradě nákladů řízení (výrok II.). Krajský soud v Českých Budějovicích – pobočka v Táboře usnesením ze dne 27. října 2004 č. j. 15 Co 651/2004 – 142 potvrdil usnesení soudu prvního stupně ve výroku II. o náhradě nákladů řízení (výrok I.) s tím, že výrok I. o zastavení řízení zůstává nedotčen (výrok II.), a rozhodl o náhradě nákladů odvolacího řízení (výrok III.).
+Proti usnesení odvolacího soudu podal žalovaný dovolání, v němž požadoval zrušit rozhodnutí odvolacího soudu ve výroku I. a III. Dovolatel namítá, že rozhodnutí spočívá na nesprávném právním posouzení věci.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) po zjištění, že dovolání proti pravomocnému usnesení odvolacího soudu bylo podáno ve lhůtě uvedené v § 240 odst. 1 o. s. ř. a k tomu oprávněným subjektem (žalovaným), dospěl k závěru, že dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Za podmínek stanovených ustanovením § 237 o. s. ř. je dovolání přípustné proti rozhodnutí ve věci samé. Rozhodnutím ve věci samé je rozhodnutí o předmětu řízení, pro nějž se řízení vede. Jde-li o spor mezi účastníky, kteří proti sobě stojí v postavení žalobkyně a žalovaný, je „věcí samou“ nárok uplatněný v žalobě. V posuzovaném případě by rozhodnutím ve věci samé bylo rozhodnutí o žalobkyní uplatněném nároku o zaplacení částky 150 227 Kč s příslušenstvím. Dovoláním napadeným usnesením však odvolací soud nerozhodoval o žalobkyní uplatněném nároku, nýbrž potvrdil v napadeném rozsahu usnesení soudu prvního stupně, kterým bylo rozhodnuto o náhradě nákladů řízení. Přípustnost dovolání proto nelze posoudit podle ustanovení § 237 o. s. ř.
+Protože napadené usnesení odvolacího soudu je svou povahou rozhodnutím nemeritorním, bylo namístě posoudit přípustnost dovolání podle ustanovení § 239 o. s. ř. Toto ustanovení sice přiznává účastníku možnost podat dovolání proti nemeritornímu rozhodnutí odvolacího soudu, ovšem v případech, které jsou zde ve výčtu výslovně uvedeny. Usnesení, jímž bylo potvrzeno usnesení soudu prvního stupně, kterým bylo rozhodnuto o náhradě nákladů řízení, ve výčtu uvedeno není; nelze proto přípustnost dovolání v dané věci podle ustanovení § 239 o. s. ř. dovodit.
+Lze uzavřít, že dovolání žalovaného není přípustné podle § 237 o. s. ř. ani podle § 239 o. s. ř. či ostatních ustanovení o. s. ř. Nejvyšší soud České republiky proto dovolání žalovaného podle § 243b odst. 5 a § 218 písm. c) o. s. ř. jako nepřípustné bez jednání odmítl.
+O náhradě nákladů řízení bylo rozhodnuto podle § 243b odst. 4, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 2 o. s. ř., když žalobkyni žádné náklady dovolacího řízení nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 10. března 2005
+JUDr. Kateřina Hornochová, v.r.
+předsedkyně senátu
