@@ -1,0 +1,15 @@
+29 Od 105/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Faldyna, CSc. a soudců JUDr. Zdeňka Krčmáře a JUDr. Pavla Severina v právní věci žalobce J. C., spol. s r. o., zastoupeného, advokátem, proti žalovanému L. K., o zaplacení 149 008,55 EUR s přísl., vedené u Krajského soudu v Brně pod sp. zn. 17 Cm 54/2004, o určení místní příslušnosti soudu podle § 11 odst. 3 o. s. ř., takto:
+Věc vedenou u Krajského soudu v Brně pod sp. zn. 17 Cm 54/2004 projedná a rozhodne Krajský soud v Brně.
+O d ů v o d n ě n í:
+Žalobce se žalobou podanou dne 16.2.2004 u Krajského soudu v Brně domáhá vydání platebního rozkazu, kterým by žalovanému byla uložena povinnost zaplatit mu částku 149 008,55 EUR s příslušenstvím. K žalobě připojil notářsky ověřenou fotokopii smlouvy o dlouhodobé spolupráci a pronájmu soutěžního automobilu v českém a polském znění uzavřenou se žalovaným dne 26.2.2003 ve Zlíně a obsahující kromě jiného ujednání účastníků smlouvy, že „veškeré sporné záležitosti vyplývající a spojené s touto smlouvou, které se nepodaří vyřešit smírčí cestou, budou řešeny příslušným soudem České republiky podle novely zákona č. 93/1963“. Současně uvedly, že „pokud ve smlouvě nebude ustanoveno jinak, platí příslušné předpisy obchodního zákoníku ČR“.
+Krajský soud v Brně usnesením ze dne 9.6.2004, č.j. 17 Cm 54/2004-6 vyslovil svou místní nepříslušnost a rozhodl, že po právní moci usnesení bude věc předložena Nejvyššímu soudu České republiky k určení místně příslušného soudu. V odůvodnění svého rozhodnutí uvedl, že v dané věci není v České republice příslušný soud žalovaného, který by bylo možno určit podle § 84 a násl. o. s. ř., ani soud na výběr daný, ani výlučný podle § 87 a § 88 o. s. ř., ani podle dohody účastníků podle § 89a o. s. ř.
+Podle ustanovení § 11 odst. 1 o. s. ř. se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení.
+Podle ustanovení § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Podle ustanovení § 37 odst. 2 zák. č. 97/1963 Sb., o mezinárodním právu soukromém a procesním, ve znění pozdějších předpisů, může být pravomoc českých soudů založena v majetkových sporech také písemnou úmluvou stran, přičemž věcnou příslušnost českých soudů nelze však takovou úmluvou měnit. S cit. ustanovením je v souladu dohoda stran v čl. XIV. smlouvy ze dne 26.2.2003, shora citované, takže je založena v daném případě pravomoc českých soudů, ale je třeba určit místně příslušný soud.
+Stanovené zákonné předpoklady pro určení místně příslušného soudu jsou podle ustanovení § 11 odst. 3 o. s. ř. splněny a proto Nejvyšší soud České republiky rozhodl, že věc projedná a rozhodne Krajský soud v Brně, u něhož bylo řízení zahájeno.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 17. února 2005
+JUDr. František Faldyna, CSc. , v. r.
+předseda senátu
