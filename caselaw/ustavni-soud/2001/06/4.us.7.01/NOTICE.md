@@ -1,0 +1,1 @@
+Source: NALUS, Ústavní soud České republiky. Electronic decisions are available free of charge. These electronic texts are non-authentic; only the originals and official copies bearing the state emblem and the authorised signature are authentic.
