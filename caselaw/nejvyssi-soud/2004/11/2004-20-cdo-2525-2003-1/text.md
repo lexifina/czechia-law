@@ -1,0 +1,21 @@
+20 Cdo 2525/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudců JUDr. Vladimíra Mikuška a JUDr. Vladimíra Kůrky ve věci výkonu rozhodnutí oprávněné R. T., zastoupené advokátem, proti povinnému J. Š., zastoupenému advokátem, pro 5.541,- Kč srážkami z důchodu, vedené u Okresního soudu v Semilech pod sp. zn. E 666/2002, o dovolání povinného proti usnesení Krajského soudu v Hradci Králové ze dne 29. 11. 2002, č.j. 18 Co 385/2002-18, takto :
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+V záhlaví uvedeným rozhodnutím krajský soud potvrdil usnesení ze dne 26. 6. 2002, č.j. E 666/2002-5, kterým Okresní soud v Semilech nařídil podle svého usnesení ze dne 2. 7. 2001, sp. zn. E 271/97, ve spojení s usnesením Krajského soudu v Hradci Králové ze dne 30. 1. 2002, sp. zn. 24 Co 341/2001, k uspokojení pohledávky 5.541,- Kč (a pro vyčíslené náklady exekuce) výkon rozhodnutí srážkami z důchodu, na který má povinný nárok u označeného plátce.
+Rozhodnutí odvolacího soudu napadl „v plném rozsahu“ povinný, aniž byl zákonem stanoveným způsobem zastoupen, dovoláním (datovaným 18. 2. 2003), jímž požadoval jeho zrušení a vrácení věci krajskému soudu k dalšímu řízení. Dovolání neobsahovalo údaj o tom, v jakých okolnostech spatřuje naplnění dovolacích důvodů.
+Usnesením ze dne 20. 2. 2003, č.j. E 666/2002-24, soud prvního stupně povinného vyzval, aby si do třiceti dnů od doručení rozhodnutí zvolil pro dovolací řízení zmocněncem advokáta, předložil jeho plnou moc a jím sepsané dovolání.
+Dovolatel před uplynutím stanovené lhůty (usnesení mu bylo doručeno 7. 3. 2003) požádal podáním ze dne 3. 4. 2003 (došlým soudu prvního stupně 7. 4. 2003) o ustanovení zástupce.
+Usnesením ze dne 8. 8. 2003, č.j. E 666/2002-35, které (ve výroku II.) nabylo 5. 9. 2003 právní moci, soud prvního stupně přiznal dovolateli osvobození od soudních poplatků (výrok I.) a ustanovil mu podle ustanovení § 30 odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů (dále též jen „o.s.ř.“), zástupcem advokáta (výrok II.).
+Podle ustanovení § 43 odst. 2, věty první, o.s.ř., které platí i pro řízení u dovolacího soudu (§ 243c odst. 1 o.s.ř.), není-li přes výzvu předsedy senátu podání řádně opraveno nebo doplněno a v řízení nelze pro tento nedostatek pokračovat, soud usnesením podání, kterým se zahajuje řízení, odmítne.
+Podle ustanovení § 241a odst. 1 o.s.ř. musí být vedle obecných náležitostí (§ 42 odst. 4) v dovolání uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu a z jakých důvodů se toto rozhodnutí napadá, popřípadě které důkazy by měly být provedeny k prokázání důvodu dovolání, a čeho se dovolatel domáhá (dovolací návrh).
+Podle ustanovení § 241b odst. 3 o.s.ř., dovolání, které neobsahuje údaje o tom, v jakém rozsahu nebo z jakých důvodů se rozhodnutí odvolacího soudu napadá, může být o tyto náležitosti doplněno jen po dobu trvání lhůty k dovolání. Nebyla-li v době podání dovolání splněna podmínka uvedená v § 241, běží tato lhůta až do uplynutí lhůty, která byla dovolateli určena ke splnění této podmínky; požádal-li však dovolatel před uplynutím lhůty o ustanovení zástupce (§ 30), běží lhůta podle věty první znovu až od právní moci usnesení, kterým bylo o této žádosti rozhodnuto.
+Ve shodě s výše uvedeným bylo možno v projednávané věci dovolání doplnit o dovolací důvody, pro něž se rozhodnutí odvolacího soudu napadá, jen do uplynutí dovolací lhůty (§ 240 odst. 1, věta první, o.s.ř.) počítané od právní moci usnesení ze dne 8. 8. 2003, č.j. E 666/2002-35, tedy do 5. 11. 2003 (středa).
+Jelikož se tak nestalo, Nejvyšší soud vadné dovolání podle ustanovení § 43 odst. 2 o.s.ř. odmítl (srov. usnesení Nejvyššího soudu ze dne 18. 6. 2003, sp. zn. 29 Odo 108/2002, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek 3/2004 pod č. 21).
+O nákladech dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5, věty první, § 224 odst. 1 a § 146 odst. 3 o.s.ř. (oprávněné náklady v tomto stadiu řízení nevznikly a povinný na jejich náhradu nemá právo).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 29. listopadu 2004
+JUDr. Pavel K r b e k , v.r.
+předseda senátu
