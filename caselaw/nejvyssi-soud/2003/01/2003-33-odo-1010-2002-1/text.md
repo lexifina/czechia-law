@@ -1,0 +1,23 @@
+33 Odo 1010/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivany Zlatohlávkové a soudců JUDr. Kateřiny Hornochové a JUDr. Zdeňka Dese ve věci žalobkyně U. Česká republika, a.s., zastoupené, advokátem, proti žalovanému J. T., o zaplacení 52 054 Kč s příslušenstvím, vedené u Okresního soudu v Ústí nad Orlicí pod sp. zn. 6 C 51/2002, o dovolání žalobkyně proti usnesení Krajského soudu v Hradci Králové ze dne 27. srpna 2002 č.j. 19 Co 282/2002-48, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Krajský soud v Hradci Králové usnesením ze dne 27. srpna 2002 č.j. 19 Co 282/2002-48 změnil usnesení Okresního soudu v Ústí nad Orlicí ze dne 26. června 2002 č.j. 6 C 51/2002-29, 6 C 52/2002-18, 6 C 53/2002-18, 6 C 54/2002-19, 6 C 55/2002-19, 6 C 56/2002-19 v odvoláním napadeném výroku o nákladech řízení tak, že „žalobce je povinen nahradit žalovanému náklady řízení před okresním soudem ve výši 13 359 Kč k rukám JUDr. J. S. do 3 dnů od právní moci tohoto usnesení“. Současně rozhodl o nákladech odvolacího řízení.
+Proti usnesení odvolacího soudu podala žalobkyně dovolání, jehož přípustnost dovozuje z ustanovení § 237 odst. 1 písm. a/ o. s. ř. Připomíná, že žaloba byla v posuzovaném případě podána po několika upomínkách, na které žalovaný nereagoval a tedy ani neupozornil žalobkyni na skutečnost, že mu byl odcizen občanský průkaz, který byl posléze použit při uzavření smluv o dodávce služeb U. D. Protože každý si má počínat tak, aby nedocházelo ke škodám a aby případné rozpory mezi účastníky byly odstraněny dohodou, je dovolatelka přesvědčena o důvodnosti své žaloby i o existenci svého nároku na zaplacení nákladů, které ji vznikly. Navrhla, aby dovolací soud usnesení odvolacího soudu, jakož i usnesení soudu prvního stupně zrušil a „věc vrátil příslušnému soudu k dalšímu šetření“.
+Dovolání žalobkyně není přípustné.
+Vzhledem k tomu, že dovoláním napadený výrok, jímž odvolací soud změnil usnesení ve výroku o nákladech řízení, není rozhodnutím ve věci samé (pojem „věc sama“ je právní teorií i soudní praxí vykládán jednotně tak, že jde o předmět, ohledně něhož se řízení vede – tedy žalobou uplatněný nárok, o němž má být v řízení věcně rozhodnuto), lze přípustnost dovolání, které směřuje proti takovému rozhodnutí, uvažovat pouze z pohledu ustanovení § 239 o. s. ř., upravujícího přípustnost dovolání proti nemeritornímu rozhodnutí odvolacího soudu.
+Podle § 239 odst. 1 o. s. ř. je dovolání přípustné proti usnesení odvolacího soudu, jímž bylo
+a) rozhodnutí soudu prvního stupně zrušeno a řízení zastaveno, popřípadě věc byla postoupena orgánu, do jehož pravomoci náleží,
+b) v průběhu odvolacího řízení rozhodnuto o tom, kdo je procesním nástupcem účastníka, o zastavení řízení podle § 107 odst. 5, o vstupu do řízení na místo dosavadního účastníka (§ 107a), o přistoupení dalšího účastníka (§ 92 odst. 1) a o záměně účastníka (§ 92 odst. 2).
+Podle § 239 odst. 2 o. s. ř. je dovolání rovněž přípustné proti usnesení odvolacího soudu, kterým bylo
+a) potvrzeno usnesení soudu prvního stupně o zastavení řízení podle § 104 odst. 1,
+b) potvrzeno nebo změněno usnesení soudu prvního stupně, jímž bylo rozhodnuto o tom, kdo je procesním nástupcem účastníka,o zastavení řízení podle § 107 odst. 5, o vstupu do řízení namísto dosavadního účastníka (§ 107a), o přistoupení dalšího účastníka (§ 92 odst. 1) a o záměně účastníka (§ 92 odst. 2).
+Podle § 239 odst. 3 o. s. ř. je dovolání též přípustné proti usnesení odvolacího soudu, kterým bylo potvrzeno usnesení soudu prvního stupně o odmítnutí návrhu (žaloby); to neplatí, jestliže byl odmítnut návrh na předběžné opatření (§ 75a).
+Jak je ze shora citovaných ustanovení zřejmé, případ, kdy odvolací soud změnil rozhodnutí soudu prvního stupně ve výroku o nákladech řízení – tak, jak tomu bylo v posuzovaném případě - není v těchto ustanovení uveden. Lze tudíž uzavřít, že dovolání žalobkyně směřuje proti rozhodnutí odvolacího soudu, proti němuž není tento mimořádný opravný prostředek přípustný, a dovolacímu soudu nezbylo, než dovolání žalobkyně - aniž se jím mohl zabývat z pohledu v něm uplatněných dovolacích námitek - bez jednání (§ 243a odst. 1 o. s. ř.) jako odmítnout (§ 243b odst. 5, § 218 písm. c/ o. s. ř.).
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243c odst. 1, § 151 odst. 1 a § 142 odst. 1 o. s. ř. za situace, kdy v dovolacím řízení neúspěšná žalobkyně nemá na náhradu nákladů dovolacího řízení právo a žalovanému v souvislosti s tímto řízením náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 24. ledna 2003
+JUDr. Ivana Zlatohlávková, v.r.
+předsedkyně senátu
