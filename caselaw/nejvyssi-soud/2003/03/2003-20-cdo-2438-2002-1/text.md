@@ -1,0 +1,28 @@
+20 Cdo 2438/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Vladimíra Kurky a soudců JUDr. Jany Hráchové a JUDr. Vladimíra Mikuška ve věci výkonu rozhodnutí oprávněné K. P., zastoupené advokátkou, proti povinným 1/ J. H. a 2/ D. H., zastoupený advokátem, prodejem nemovitostí, pro 396.000,- Kč s příslušenstvím, vedené u Okresního soudu v Lounech pod sp. zn. 1 E 921/2000, o dovolání povinných proti usnesení Krajského soudu v Ústí nad Labem ze dne 24. září 2001, č.j. 10 Co 447/2001-37, takto:
+I. Dovolání se odmítá.
+II. Povinní jsou povinni zaplatit společně a nerozdílně oprávněné na náhradě nákladů dovolacího řízení částku 4.755,-Kč, do tří dnů od právní moci usnesení, k rukám advokátky.
+O d ů v o d n ě n í :
+Odvolací soud potvrdil usnesení, jímž soud prvního stupně nařídil k uspokojení pohledávky oprávněné ve výši 396 000,- Kč s příslušenstvím výkon notářského zápisu ze dne 4.9.1997, č.j. NZ 110/97, a to prodejem označených nemovitostí.
+Proti usnesení odvolacího soudu podali povinní (zastoupeni advokátem) včasné dovolání, jehož přípustnost dovozovali z ustanovení § 238a odst. 1 písm. c/ o.s.ř., a jímž uplatnili dovolací důvod dle § 241a odst. 2 písm. b/ o.s.ř.; nesprávné právní posouzení věci spatřují v tom, že odvolací soud „vycházel pouze z vykonatelného notářského zápisu“ a nevzal v úvahu, že (následným) dodatkem ke kupní smlouvě (ze dne 13.2.1998) byla vymáhaná kupní cena snížena o 200.000,- Kč; podle názoru dovolatelů měla být „správně“ věc posouzena tak, že „se nejedná o částku 396.000,- Kč, ale o částku 196.000,- Kč“.
+Oprávněná navrhla, aby dovolání jako nepřípustné bylo odmítnuto.
+Dovolání vskutku přípustné není.
+Podle § 236 o.s.ř lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Dovolatelé upřeli pozornost k ustanovení § 238a odst. 1 písm. c/ o.s.ř., podle něhož je dovolání přípustné proti usnesení odvolacího soudu, jímž bylo potvrzeno nebo změněno usnesení soudu prvního stupně, kterým bylo rozhodnuto o návrhu na nařízení výkonu rozhodnutí; přehlédli však, že odstavec 2 téhož ustanovení stanoví, že § 237 odst. 1 a 3 o.s.ř. zde platí obdobně.
+To znamená, že dovolání proti těmto usnesením je přípustné jen za předpokladu, že jsou splněny podmínky (jedna z nich), vyslovené v § 237 odst. 1 o.s.ř. pod písm. a/ až c/.
+Z ustanovení § 237 odst. 1 písm. a/ o.s.ř. přípustnost dovolání v dané věci neplyne zjevně, neboť napadené usnesení není měnící, nýbrž potvrzující.
+Nezakládá ji ani ustanovení § 237 odst. 1 písm. b/ o.s.ř., jelikož v dané věci bylo potvrzeno první rozhodnutí, které soud prvního stupně v řízení vydal.
+Aby mohlo být dovolání přípustné podle § 237 odst. 1 písm. c/ o.s.ř., muselo by být napadené rozhodnutí ve věci samé po právní stránce zásadního významu. Dovolací přezkum, předjímaný tímto ustanovením, je tím předpokládán zásadně pro posouzení otázek právních, pročež způsobilý dovolací důvod představuje ten, jímž lze namítat, že rozhodnutí spočívá na nesprávném právním posouzení věci (§ 241a odst. 2 písm. b/ o.s.ř.),
+Podle ustanovení § 237 odst. 3 o.s.ř. má rozhodnutí odvolacího soudu po právní stránce zásadní význam zejména tehdy, řeší-li právní otázku, která v rozhodování dovolacího soudu dosud nebyla vyřešena, nebo která je odvolacími soudy nebo dovolacím soudem rozhodována rozdílně, anebo řeší-li tuto otázku v rozporu s hmotným právem.
+Dovolatelé argument ve prospěch závěru, že tyto podmínky jsou v daném případě splněny, dovolacímu soudu nenabídli. Samotným hodnocením námitky, kterou v dovolání vznesli, k závěru o jejich splnění dospět nelze.
+O existenci (dovoláním otevřené) právní otázky, jejíž posouzení by mohlo být relevantní i pro posouzení jiných, obdobných právních poměrů, a jež v konečném účinku může mít vliv na obecnou rozhodovací činnost soudů, jak citované ustanovení § 237 odst. 3 o.s.ř. předpokládá, totiž zjevně nejde. Není žádného podkladu pro úsudek, že odvolací soud v dané věci uplatnil právní názor v soudní praxi nestandardní; namítají-li dovolatelé, že po vydání titulu došlo ke změně výše jejich dluhu vůči oprávněné, uplatňují námitku, jež – při nařízení výkonu rozhodnutí – je zjevně bez významu. Odvolací soud správně poznamenal, že může mít místo jen ve stadiu řízení o zastavení výkonu (§ 268 o.s.ř.).
+O rozpor s hmotným právem (§ 237 odst. 3 o.s.ř.) jít v daném případě nemůže proto, že napadené rozhodnutí vychází z ustanovení práva procesního (§ 251 a násl. o.s.ř.).
+Není-li dovolání přípustné ani podle § 237 odst. 1 písm. c/ o.s.ř., nemohl je Nejvyšší soud než podle § 243b odst. 5, věty první, a § 218 písm. c/ o.s.ř odmítnout.
+O nákladech dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o.s.ř..
+Dovolací řízení bylo zahájeno po účinnosti vyhlášky č 484/2000 Sb., kterou se stanoví paušální sazby výše odměny za zastupování účastníka advokátem nebo notářem při rozhodování o náhradě nákladů v občanském soudním řízení a kterou se mění vyhláška č. 177/1996 sb., o odměnách advokátů a náhradách advokátů za poskytování právních služeb (advokátní tarif), ve znění pozdějších předpisů, účinné od l. ledna 2001 ( dále jen „vyhláška“).
+Náklady dovolacího řízení, jež vznikly oprávněné, spočívají v částce 4.680,-Kč představující odměnu za jeden úkon právní služby (písemné vyjádření k dovolání) podle § 1 odst. 1, § 2 odst. 1, § 12 odst. 1 písm. a/, bod 1, § 14 odst. 1, § 15 vyhlášky, sníženou podle § 18 odst. 1 o 50%, a v částce 75 ,-Kč paušální náhrady podle § 13 odst. 3 vyhlášky č. 117/1996 Sb.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 27. března 2003
+JUDr. Vladimír Kurka, v. r.
+předseda senátu
