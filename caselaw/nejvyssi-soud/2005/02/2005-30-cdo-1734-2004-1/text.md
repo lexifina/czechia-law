@@ -1,0 +1,35 @@
+30 Cdo 1734/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Karla Podolky a soudců JUDr. Olgy Puškinové a JUDr. Pavla Pavlíka ve věci žalobkyně A. V., zastoupené advokátem, proti žalovaným 1) Ing. P. K. a 2) V. K., o určení vlastnictví, vedené u Okresního soudu v Teplicích pod sp. zn. 11 C 13/2001, o dovolání žalobkyně proti rozsudku Krajského soudu v Ústí n. Labem ze dne 29. března 2004, č.j. 10 Co 114/2004-149, takto:
+I. Dovolání žalobkyně se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Ústí n. Labem rozsudkem v záhlaví označeným k odvolání žalobkyně potvrdil rozsudek Okresního soudu v Teplicích ze dne 21. listopadu 2003, č.j. 11 C 13/2001-134, jímž byla zamítnuta žaloba, kterou se žalobkyně domáhala určení, že je vlastnicí nemovitostí ve výroku označených a rozhodnuto o náhradě nákladů řízení,
+a vyslovil, že žalovaným se náhrada nákladů odvolacího řízení nepřiznává. Ztotožnil se se skutkovými zjištěními soudu prvního stupně a z nich vyvozenými právními závěry
+o tom, že žalovaní jako vydražitelé se stali vlastníky označených nemovitostí, jejichž předchozími vlastníky byli na základě platné kupní smlouvy uzavřené s žalobkyní A. a P. B.; shledal, že nebyla prokázána existence žádného s žalobkyní namítaných důvodů – simulace právního úkonu, rozpor s dobrými mravy a uvedení v omyl kupujícími – pro něž by tato kupní smlouva byla neplatná, popř. relativně neplatná.
+Žalobkyně v podaném dovolání, jehož přípustnost dovozuje z § 237 odst. 1 písm. c) o.s.ř., namítá, že z důkazů provedených soudem prvního stupně, především výpovědi svědkyně A. B., vyplývá, že smlouva uzavřená mezi žalobkyní
+a A. a P. B. je neplatná a opačné právní posouzení soudů obou stupňů proto neobstojí. Navrhuje, aby dovolací soud rozsudek odvolacího soudu zrušil
+a věc mu vrátil k dalšímu řízení.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) po zjištění, že dovolání bylo proti pravomocnému rozsudku odvolacího soudu podáno ve lhůtě uvedené v ustanovení § 240 odst. 1 o.s.ř. oprávněnou osobou - účastníkem řízení -
+a po přezkoumání věci ve smyslu ustanovení § 242 odst. 3 o.s.ř., bez jednání (§ 243a odst. 1 o.s.ř.), dospěl k závěru, že dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný.
+Dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští (§ 236 odst. 1 o.s.ř.).
+Podle ustanovení § 237 odst. 1 o.s.ř. je dovolání přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího soudu, jimiž bylo změněno rozhodnutí soudu prvního stupně ve věci samé [písm. a)], jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil [písm. b)], jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není přípustné podle písmena b) a dovolací soud dospěje
+k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam [písm. c)].
+Žalobkyně (dále též dovolatelka) dovoláním napadá rozsudek odvolacího soudu
+ve věci samé, jímž byl rozsudek soudu prvního stupně potvrzen, když sice předcházelo zrušující usnesení odvolacího soudu, avšak soud prvního stupně v posléze zrušeném rozsudku rozhodl shodně, když žalobu zamítl; přípustnost dovolání lze proto posuzovat pouze podle § 237 odst. 1 písm. c) o.s.ř.
+Dovolání podle § 237 odst. 1 písm. c) o.s.ř. je přípustné jen tehdy, jde-li o řešení právních otázek (jiné otázky, zejména posouzení správnosti nebo úplnosti skutkových zjištění, přípustnost dovolání nezakládají) a jde-li zároveň o právní otázku zásadního významu. Rozhodnutí odvolacího soudu má po právní stránce zásadní význam zejména tehdy, řeší-li právní otázku, která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo která je odvolacími soudy nebo dovolacím soudem rozhodována rozdílně, nebo řeší-li právní otázku v rozporu s hmotným právem [§ 237 odst. 3 o.s.ř.]. O rozhodnutí odvolacího soudu po právní stránce zásadního významu jde nejen tehdy, jestliže odvolací soud posuzoval právní otázku, která v projednávané věci měla
+pro rozhodnutí ve věci zásadní význam (tedy nejde o posouzení jen takové právní otázky, které pro rozhodnutí věci nebylo určující). Rozhodnutí odvolacího soudu musí současně mít po právní stránce zásadní význam z hlediska rozhodovací činnosti soudů vůbec (mající obecný dopad na případy obdobné povahy). Přípustnost dovolání není založena již tím, že dovolatel tvrdí, že napadené rozhodnutí odvolacího soudu má
+po právní stránce zásadní význam; přípustnost dovolání nastává tehdy, jestliže dovolací soud dospěje k závěru, že rozhodnutí odvolacího soudu po právní stránce zásadní význam skutečně má.
+V posuzovaném případě je rozhodnutí odvolacího soudu, který se ztotožnil
+s důvody uvedenými v rozhodnutí soudu prvního stupně, založeno m.j.
+na skutkovém závěru, že mezi žalobkyní a A. a P. B. došlo k uzavření kupní smlouvy o koupi označených nemovitostí do jejich vlastnictví a že nebylo prokázáno, že by šlo o neplatný právní úkon. Z náležitostí vylíčení důvodů dovolání však vyplývá, že dovolatelka nesouhlasí především s tím, jak soudy obou stupňů zjistily skutkový stav a tvrdí, že z provedených důkazů skutkový stav nebyl zjištěn správně. Nesouhlasí též s hodnocením provedených důkazů soudem.
+Ve skutečnosti tedy dovolatelka napadá rozsudek dvolacího soudu v otázce skutkových
+zjištění, nikoliv pro samotné právní posouzení věci. Okolnost, že rozsudek odvolacího soudu eventuálně vychází ze skutkového zjištění, které nemá podle obsahu spisu v podstatné části oporu v provedeném dokazování (srov. ustanovení § 241a odst. 3 o.s.ř.), však nemůže založit přípustnost dovolání podle ustanovení § 237 odst. 1 písm. c) o.s.ř.
+Z vyložených důvodů nelze rozhodnutí odvolacího soudu považovat po právní stránce za zásadně významné a nelze dovodit přípustnost dovolání podle § 237 odst. 1 písm. c) o.s.ř. Dovolání žalobkyně tedy směřuje proti rozhodnutí odvolacího soudu, proti němuž není tento mimořádný opravný prostředek přípustný, a Nejvyšší soud ČR je proto podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o.s.ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o.s.ř., neboť žalobkyně s ohledem
+na výsledek dovolacího řízení nemá na náhradu nákladů dovolacího řízení právo
+a žalovaným v tomto řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 9. února 2005
+JUDr. Karel Podolka, v. r.
+předseda senátu
