@@ -1,0 +1,18 @@
+30 Cdo 527/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Karla Podolky a soudců JUDr. Pavla Pavlíka a JUDr. Romana Fialy ve věci navrhovatelky H. J., zast. advokátem, proti České správě sociálního zabezpečení, Praha 5, Křížová 25, o přeplatek na starobním důchodu, vedené u Městského soudu v Praze pod sp. zn. 30 Ca 51/2000, o dovolání navrhovatelky proti rozsudku Vrchního soudu v Praze ze dne 17. května 2001, č.j. 2 Cao 223/2000-41, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Vrchní soud v Praze rozsudkem v záhlaví označeným k odvolání České správy sociálního zabezpečení rozsudek Městského soudu v Praze ze dne 21. června 2000, č.j. 30 Ca 51/2000-15, jímž bylo k opravnému prostředku navrhovatelky rozhodnutí České správy sociálního zabezpečení (dále jen ČSSZ) ze dne 28.1.2000, č. 375 8723 044, kterým byla zastavena pro dobu od 1.1.1996 do 31.12.1997 výplata navrhovatelčina starobního důchodu s odkazem na § 37 odst. 1 písm. a) bod 2 zákona č. 155/1995 Sb. a podle § 118a odst. 2 zákona č. 582/1991 Sb. bylo navrhovatelce uloženo vrátit přeplatek v částce 80.128,- Kč, s odůvodněním, že výplata starobního důchodu ve vymezené době navrhovatelce nenáležela, neboť byla výdělečně činná v cizině, takže výplatou důchodu vznikl přeplatek ve stanovené výši, na jehož vrácení vůči navrhovatelce má ČSSZ nárok, zrušeno a vráceno k dalšímu řízení s tím, že žádný z účastníků nemá právo na náhradu nákladů řízení., změnil tak, že rozhodnutí ČSSZ ze dne 28.1.2000, č. 375 723 044, potvrdil a účastníkům nepřiznal náhradu nákladů řízení před soudy obou stupňů.
+V podaném dovolání, jehož přípustnost opírá o § 237 odst. 1 písm. a) o.s.ř. a jež podává z důvodů § 241a odst. 2 písm. b) o.s.ř., navrhovatelka požaduje zrušení rozsudku odvolacího soudu.
+Dovolání bylo podáno osobou oprávněnou – účastníkem řízení (§ 240 odst. 1 o.s.ř.) řádně zastoupeným advokátem a splňuje formální i obsahové znaky předepsané ustanovením § 241 odst. 1 a § 241a odst. 1 o.s.ř.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) věc projednal bez jednání (§ 243a odst. 1 o.s.ř.) a dospěl k závěru, že dovolání bylo podáno opožděně.
+Podle ustanovení § 240 odst. 1 věty první o.s.ř. účastník může podat dovolání do dvou měsíců od doručení rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Podle ustanovení § 240 odst. 2 věty druhé o.s.ř. je lhůta zachována, bude-li dovolání podáno ve lhůtě u odvolacího nebo dovolacího soudu.
+V posuzované věci bylo zjištěno, že rozsudek odvolacího soudu byl doručen tehdejšímu zástupci navrhovatelky Mgr. Ing. M. N. do vlastních rukou dne 26.7.2001 (§ 49 odst. 1 věta první o.s.ř.), a že dovolání proti rozsudku odvolacího soudu sepsané dne 27.9.2001 bylo podáno zástupcem navrhovatelky advokátem téhož dne, tj. 27.9.2001, osobně do podatelny Městského soudu v Praze.
+Z uvedeného vyplývá, že lhůta k podání dovolání navrhovatelce podle ustanovení § 243c odst. 1 a § 57 o.s.ř. skončila dnem 26.9.2001 (středa). Dovolání tedy bylo podáno po uplynutí zákonem stanovené lhůty, jejíž zmeškání nelze prominout (§ 240 odst. 2 věta prvá o.s.ř.), a proto bylo podle ustanovení § 241b odst. 1 a § 208 odst. 1 o.s.ř. – aniž by bylo třeba se zabývat dalšími okolnostmi – odmítnuto.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, § 151 odst. 1, § 142 odst. 1 o.s.ř., neboť dovolatelka s ohledem na výsledek řízení na náhradu svých nákladů nemá právo a ČSSZ v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 24. října 2002
+JUDr. Karel Podolka, v.r.
+předseda senátu
