@@ -1,0 +1,20 @@
+11 Tvo 5/2002
+U S N E S E N Í
+Nejvyšší soud České republiky projednal v neveřejném zasedání konaném dne 16. 1. 2002 stížnost obviněného M. C., proti usnesení Vrchního soudu v Olomouci ze dne 19. 12. 2001, sp. zn. 3 Ntv 22/2001, a rozhodl t a k t o :
+Podle § 148 odst. 1 písm. c) tr. řádu se stížnost z a m í t á .
+O d ů v o d n ě n í :
+Usnesením Vrchního soudu v Olomouci ze dne 19. 12. 2001, sp. zn. 3 Ntv 22/2001, byla obviněnému M. C. prodloužena lhůta trvání vazby podle § 71 odst. 3 tr. řádu do 28. 2. 2002.
+Proti tomuto usnesení podal obviněný v zákonné lhůtě stížnost s tím, že pro další prodloužení vazby neexistují žádné důvody, kdy odůvodnění rozhodnutí vrchního soudu o prodloužení lhůty trvání vazby považuje za ničím nepodložené spekulace. Uvádí, že podle novelizovaného trestního zákona a trestního řádu bude posuzovaný podle pro něj příznivějšího ustanovení (§ 250 odst. 1, odst. 3 tr. zák.), což samo o sobě vylučuje možnost vyhýbání se trestnímu řízení. Proto navrhuje, aby napadené rozhodnutí bylo zrušeno a obviněný byl propuštěn na svobodu.
+Nejvyšší soud z podnětu podané stížnosti přezkoumal podle § 147 odst. 1 tr. řádu správnost výroku napadeného usnesení, jakož i řízení, které mu předcházelo, a shledal, že stížnost není důvodná.
+Rozsudkem Krajského soudu v Ostravě ze dne 23. 3. 2001, sp. zn. 37 T 22/2000, byl obviněný M. C. uznán vinným trestným činem padělání a pozměňování peněz podle § 140 odst. 2 tr. zák. ve spojení s § 143 tr. zák., trestným činem podvodu podle 250 odst. 1, odst. 3 písm. b) tr. zák. a pokusem trestného činu podvodu podle § 8 odst. 1 tr. zák. k § 250 odst. 1, odst. 4 tr. zák. Za to byl odsouzen k trestu odnětí svobody v trvání šesti roků, k jehož výkonu byl podle § 39a odst. 2 písm. c) tr. řádu zařazen do věznice s ostrahou. Dále byl obviněnému podle § 49 odst. 1 tr. zák. a § 50 odst. 1 tr. zák. uložen trest zákazu činnosti na pět let. Společně s ním byl za stejnou trestnou činnost odsouzen obviněný P. V.
+Proti rozsudku Krajského soudu v Ostravě podali odvolání oba obvinění.
+Veřejné zasedání k projednání odvolání před Vrchním soudem v Olomouci je nařízeno na den 28. 1. 2002.
+Obviněný C. je ve vazbě z důvodů uvedených v § 67 odst. 1 písm. a), b), c) tr. řádu, později jen podle písm. a), c), od 19. 3. 1999. Trvání vazby bylo Vrchním soudem v Olomouci opakovaně prodlouženo, naposledy usnesením ze dne 19. 12. 2001, sp. zn. 3 Ntv 22/2001, do 28. 2. 2002.
+Proti obviněnému je vedeno trestní stíhání pro rozsáhlou majetkovou trestnou činnost. Toto stíhání se v současné době nachází ve stádiu, kdy trestní věc obviněného byla předložena Vrchnímu soudu v Olomouci k projednání odvolání obou obviněných. Charakter trestné činnosti i dosavadní život a postoj obviněného i nadále opodstatňují důvodnost vazby ve smyslu § 67 odst. 1 písm. a), c) tr. řádu.
+Nejvyšší soud se zcela shoduje s důvody, které v napadeném usnesení použil vrchní soud. Totéž ovšem platí i o zdůvodnění, proč se trestní stíhání nepodařilo skončit ani v prodloužené lhůtě, přičemž na tomto místě je třeba zdůraznit, že průtahy v řízení nebyly při postupu soudu rozhodně zjištěny. Pokud tedy Vrchní soud v Olomouci vazbu obviněného C. ho znovu prodloužil, není tomuto postupu ve smyslu § 71 tr. řádu možno nic vytknout.
+Ačkoli s ohledem na novelu trestního řádu a trestního zákona došlo s účinností od 1. ledna 2002 ke změně trvání vazby, případně i právní kvalifikace majetkových trestných činů ve vztahu k obviněnému, nemají tyto změny pro postavení obviněného po dobu trestního stíhání zásadní význam. Obviněný je ve vazbě od 19. 3. 1999, přičemž soudní vazba mu započala dnem 6. 12. 2000. I když podle novely trestního řádu může být obviněný ve vazbě nejdéle 3 roky a jeho soudní vazba nesmí překročit 2 roky, obviněnému zatím tak dlouho vazba netrvá a její další prodlužování z formálního hlediska je možné.
+Za tohoto stavu se Nejvyšší soud ztotožnil s výrokem napadeného usnesení a stížnost obviněného M. C. jako nedůvodnou podle § 148 odst. 1 písm. c) tr. řádu zamítl.
+Poučení: Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 16. ledna 2002
+Předseda senátu:
+JUDr. Pavel Kučera
