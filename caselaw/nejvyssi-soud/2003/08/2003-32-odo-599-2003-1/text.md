@@ -1,0 +1,21 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+32 Odo 599/2003-23
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Petra Gemmela a JUDr. Františka Faldyny, CSc. v právní věci žalobce Ing. J. K., proti žalovanému Ing. A. V., správci konkursní podstaty úpadkyně N.P.I. I. G., komanditní společnosti, o určení pohledávky, vedené u Městského soudu v Praze pod sp. zn. 37 Cm 42/2001, o dovolání žalobce proti usnesení Vrchního soudu v Praze ze dne 4. listopadu 2002, č.j. 13 Cmo 258/2002-14, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Vrchní soud v Praze v záhlaví označeným usnesením potvrdil usnesení Městského soudu v Praze ze dne 7. srpna 2002, č.j. 37 Cm 42/2001-6, kterým soud prvního stupně odmítl podání žalobce a žalovanému nepřiznal náhradu nákladů řízení (první výrok) a rozhodl, že žalobce nemá právo na náhradu nákladů odvolacího řízení (druhý výrok).
+V odůvodnění rozhodnutí zejména uvedl, že žalobce se domáhá určení popřené pohledávky ve výši 12.177,31 Kč, aniž uvádí, z jakého právního důvodu pohledávka vznikla. Jelikož přes výzvu soudu prvního stupně a poučení podle ustanovení § 43 odst. 2 občanského soudního řádu (dále též jen „o. s. ř.“) žalobce vady žaloby neodstranil, soud prvního stupně podání žalobce odmítl. Odvolací soud se ztotožnil s právními závěry soudu prvního stupně, podle kterých je podání žalobce neprojednatelné a nevyhovuje požadavkům ustanovení § 79 o. s. ř., a napadené rozhodnutí jakožto věcně správné potvrdil.
+Proti usnesení odvolacího soudu podal žalobce včasné dovolání, přičemž požadoval, aby toto rozhodnutí bylo dovolacím soudem zrušeno a věc vrácena odvolacímu soudu k dalšímu řízení.
+V souladu s body 1., 15. a 17., hlavy I., části dvanácté, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, se pro dovolací řízení uplatní občanský soudní řád ve znění účinném od 1. ledna 2001.
+Podle ustanovení § 241 odst. 1 o. s. ř. dovolatel musí být zastoupen advokátem nebo notářem; to neplatí, má-li dovolatel právnické vzdělání, popřípadě jedná-li za něj osoba uvedená v § 21 nebo v § 21a anebo v § 21b, která má právnické vzdělání. Notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními předpisy. Podle odstavce druhého nemá-li dovolatel právnické vzdělání, musí být dovolání sepsáno advokátem, notářem nebo osobou uvedenou v § 21 nebo v § 21a anebo v § 21b, která má právnické vzdělání.
+Jak je zřejmé z obsahu spisu Městský soud v Praze usnesením ze dne 14. dubna 2003, č.j. 37 Cm 42/2001-20, vyzval žalobce, aby podané dovolání ve lhůtě třiceti dnů ode dne doručení usnesení doplnil plnou mocí advokáta, který jej bude v dovolacím řízení zastupovat a „dovoláním sepsaným tímto advokátem ve dvou kopiích“. Současně žalobce poučil, že nebude-li „návrh“ doplněn dle uložené povinnosti shora, soud řízení podle ustanovení § 104 odst. 2 o. s. ř. zastaví. Usnesení bylo žalobci doručeno náhradním způsobem ve smyslu ustanovení § 46 odst. 2 o. s. ř. dne 2. května 2003 a dovolatel poštovní zásilku obsahující výše uvedené usnesení fakticky převzal 13. května 2003.
+Dovolatel nedostatek povinného zastoupení neodstranil, ač byl o procesních následcích nesplnění této podmínky poučen.
+Protože povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, bez jejíhož splnění nelze vydat - s výjimkou usnesení, jímž se dovolací řízení pro tento nedostatek zastavuje – rozhodnutí, kterým se řízení končí, a protože ke zhojení tohoto nedostatku přes řádnou výzvu nedošlo, Nejvyšší soud dovolací řízení podle ustanovení § 104 odst. 2 a § 243c odst. 1 o. s. ř. zastavil.
+O náhradě nákladů dovolacího řízení byl rozhodnuto podle ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 2 věty první o. s. ř., když dovolatel z procesního hlediska zavinil, že dovolací řízení bylo zastaveno, a žalovanému podle obsahu spisu v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 26. srpna 2003
+JUDr. Miroslav Gallus, v.r.
+předseda senátu
