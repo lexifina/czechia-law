@@ -1,0 +1,15 @@
+3 Tz 156/2001
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu dne 7. srpna 2001 v řízení o stížnosti pro porušení zákona, kterou podal ministr spravedlnosti České republiky ve prospěch obviněného JUDr. M. V., proti usnesení Krajského státního zastupitelství v Brně ze dne 9. 11. 2000, sp. zn. 2 KZv 32/2000, t a k t o :
+Podle § 266 odst. 6 věta druhá tr. ř. se zpětvzetí stížnosti pro porušení zákona bere na vědomí.
+O d ů v o d n ě n í :
+Obviněnému JUDr. M. V. bylo dne 7. 4. 2000 sděleno obvinění pro trestný čin nekalé soutěže podle § 149 tr. zák. V průběhu vyšetřování rozhodla vyšetřovatelka Policie České republiky, Městského úřadu vyšetřování v Brně, usnesením sp. zn. MVV-351/20-98 JAN ze dne 2. 10. 2000 tak, že se obviněnému podle § 66 odst. 1 tr. ř. ukládá pořádková pokuta ve výši 25 000,- Kč, když podle předmětného usnesení bez dostatečné omluvy nevyhověl výzvě dané mu vyšetřovatelkou podle § 78 odst. 1 tr. ř. O stížnosti obviněného proti tomuto usnesení rozhodovalo jako stížnostní orgán Krajské státní zastupitelství v Brně, jež usnesením státní zástupkyně, sp. zn. 2 KZv 32/2000 ze dne 9. 11. 2000 stížnost obviněného podle § 148 odst. 1 písm. c) tr. ř. zamítlo, když nebyla shledána důvodnou.
+Proti výše citovanému usnesení Krajského státního zastupitelství v Brně podal ministr spravedlnosti České republiky podle § 266 odst. 1 tr. ř. u Nejvyššího soudu České republiky (dále jen Nejvyšší soud) ve prospěch obviněného JUDr. M. V. stížnost pro porušení zákona, která byla Nejvyššímu soudu doručena dne 18. 6. 2001.
+Podle zjištění Nejvyššího soudu podal obviněný dne 28. 12. 2000 návrh na zahájení řízení o ústavní stížnosti před Ústavním soudem České republiky (dále jen Ústavní soud), jímž se domáhal vydání nálezu, kterým by bylo zrušeno předmětné usnesení státní zástupkyně Krajského státního zastupitelství v Brně. Ústavní soud ve věci rozhodl nálezem sp. zn. III.ÚS 766/2000 ze dne 21. 6. 2001, jímž zrušil jednak napadené usnesení Krajského státního zastupitelství v Brně, sp. zn. 2 KZv 32/2000, ze dne 9. 11. 2000, a též usnesení vyšetřovatelky Policie ČR, Městského úřadu vyšetřování v Brně, sp. zn. MVV-351/20-98 JAN, ze dne 2. 10. 2000.
+Za stavu, kdy Ústavní soud již zrušil rozhodnutí, jež se jinak měla stát předmětem přezkumu v rámci řízení o stížnosti pro porušení zákona před Nejvyšším soudem (§ 267 odst. 1 tr. ř.), vzal ministr spravedlnosti dne 25. 7. 2001 podanou stížnost pro porušení zákona podle § 266 odst. 6 tr. ř. zpět.
+Z ustanovení § 266 odst. 6 tr. ř. vyplývá, že ministr spravedlnosti může vzít zpět stížnost pro porušení zákona, kterou podal, a to až do doby, než se soud rozhodující o stížnosti pro porušení zákona odebere k závěrečné poradě, přičemž zpětvzetí stížnosti vezme usnesením na vědomí předseda senátu tohoto soudu.
+Předseda senátu Nejvyššího soudu proto ve věci rozhodl podle § 266 odst. 6 věta druhá tr. ř. tak, jak je uvedeno ve výroku tohoto usnesení.
+Poučení: Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 7. srpna 2001
+Předseda senátu:
+JUDr. Eduard Teschler
