@@ -1,0 +1,18 @@
+26 Cdo 369/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci žalobce M. D. – V., proti žalovanému J. B., o zaplacení částky 51. 132.- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 3 pod sp. zn. 9 C 147/97, o dovolání žalovaného proti usnesení Městského soudu v Praze ze dne 31. srpna 1998, č. j. 39 Co 308/98-31, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Praze usnesením ze dne 31. 8. 1998, č. j. 39 Co 308/98-31, odmítl – s poukazem na ustanovení § 218 odst. 1 písm. a) o. s. ř. – jako opožděné odvolání žalovaného proti rozsudku pro zmeškání ze dne 4. 11. 1997, č. j. 9 C 147/97-19, kterým Obvodní soud pro Prahu 3 uložil žalovanému zaplatit žalobci částku 51. 132.- Kč s příslušenstvím do patnácti dnů od právní moci rozsudku.
+Proti tomuto usnesení podal žalovaný včas, zastoupen advokátem, blanketní dovolání, v němž označil pouze rozhodnutí, proti kterému dovolání směřuje.
+Vyjádření k dovolání nebylo podáno.
+Podle části dvanácté, hlavy první, bodu 17. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (tj. podle občanského soudního řádu ve znění účinném před 1. 1. 2001). Vzhledem k tomu, že napadené rozhodnutí odvolacího soudu bylo vydáno 31. 8. 1998, Nejvyšší soud dovolání žalobce projednal a rozhodl o něm podle občanského soudního řádu ve znění účinném před 1. 1. 2001 (dále též jen „o. s. ř.“).
+Podle ustanovení § 241 odst. 2 o. s. ř. v dovolání musí být vedle obecných náležitostí (§ 42 odst. 4 o. s. ř.) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu a z jakých důvodů se toto rozhodnutí napadá, popřípadě které důkazy by měly být provedeny k prokázání důvodů dovolání, a čeho se dovolatel domáhá. Dovolání lze podat jen pro některý z důvodů uvedených v ustanovení § 241 odst. 3 písm. a) až d) o. s. ř.
+Jak již bylo uvedeno, včasné blanketní dovolání žalovaného podané osobně u soudu prvního stupně dne 16. 11. 1998 neobsahovalo kromě označení napadeného rozhodnutí žádné náležitosti uvedené v § 241 odst. 2 o. s. ř. Usnesením ze dne 18. 8. 2000, č. j. 9 C 147/97-34, ve spojení s doplňujícím usnesením ze dne 24. 10. 2001, č. j. 9 C 147/97-51, vyzval Obvodní soud pro Prahu 3 žalovaného k odstranění vad dovolání a poučil jej o procesních důsledcích, jaké by neodstranění vad ve lhůtě soudem stanovené, mělo. Usnesení soudu prvního stupně bylo doručeno právnímu zástupci žalovaného do vlastních rukou dne 1. 11. 2001; desetidenní lhůta k odstranění vad dovolání tedy uplynula 12. 11. 2001 (pondělí). Žalovaný však nedoplnil své dovolání ani v průběhu této lhůty, ani po jejím uplynutí.
+Za tohoto stavu, když zároveň nebyly namítány a z obsahu spisu se nepodávají vady podřaditelné pod ustanovení § 237 odst. 1 o. s. ř., nezbylo, než učinit závěr, že pro vady dovolání nelze v řízení pokračovat, a dovolací řízení muselo být podle ustanovení § 243c a § 43 odst. 2 o. s. ř. zastaveno.
+Výrok o nákladech dovolacího řízení se opírá o ustanovení § 243b odst. 4, § 224 odst. 1, § 146 odst. 2 větu první o. s. ř. (dovolatel nese procesní zavinění na tom, že řízení muselo být zastaveno) a o skutečnost, že žalobci v dovolacím řízení nevznikly náklady, na jejichž náhradu by měl jinak právo.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 29. ledna 2003
+Doc. JUDr. Věra Korecká, CSc., v.r.
+předsedkyně senátu
