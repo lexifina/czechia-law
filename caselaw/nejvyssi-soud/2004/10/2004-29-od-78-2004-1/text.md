@@ -1,0 +1,17 @@
+29 Od 78/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Faldyny, CSc. a soudců JUDr. Ivany Štenglové a JUDr. Petra Gemmela v právní věci žalobkyně G. C. M., a. s., zastoupené, advokátem, proti žalovanému P. M., o zaplacení 11 736,- Kč s příslušenstvím, vedené u Okresního soudu v Hodoníně pod sp. zn. 16 C 979/2004, o určení místní příslušnosti soudu, takto:
+Nejvyšší soud neurčuje, který soud projedná a rozhodne věc vedenou u Okresního soudu v Hodoníně pod sp. zn. 16 C 979/2004.
+O d ů v o d n ě n í :
+Žalobkyně žalobou podanou u Okresního soudu v Hodoníně dne 6.6.2003 se domáhala vydání platebního rozkazu, kterým by žalovanému bylo uloženo zaplatit jí částku 11 736,- Kč s příslušenstvím.
+Tento soud vydal dne 20.6.2003 platební rozkaz, č.j. 1 Ro 1412/2003-6. Zásilka obsahující tento platební rozkaz byla poštou soudu vrácena s relací, že žalovaný se z adresy uvedené v žalobě - M., N. 479, odstěhoval bez udání adresy.
+Okresní soud poté zaslal platební rozkaz na adresu žalovaného zjištěnou v Centrální evidenci obyvatel, a to H.-P. S., H. 680/65, avšak i odtud se zásilka vrátila s poštovní relací „odstěhován bez udání adresy“. Proto usnesením ze dne 22.4.2004, č.j. 1 Ro 1412/2004-17, zrušil platební rozkaz a dalším usnesením ze dne 1.6.2004, č.j. 16 C 979/2004-22 ustanovil žalovanému pro doručení usnesení o místní nepříslušnosti opatrovnici L. K., pracovnici Okresního soudu v H.
+Usnesením ze dne 1.6 2004, č.j. 16 C 979/2004-23 vyslovil Okresní soud v Hodoníně svou místní nepříslušnost s tím, že po právní moci usnesení bude věc předložena Nejvyššímu soudu k určení místní příslušnosti . Uvedl, že není známo, v obvodu kterého soudu měl žalovaný ke dni podání žaloby tj. k 6.6.2003 bydliště, nebo v obvodu kterého soudu se zdržoval s úmyslem zdržovat se zde trvale.
+Podle ustanovení § 11 odst. 1 občanského soudního řádu (dále jen o.s.ř.) se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné skutečnosti, které jsou tu v době jeho zahájení.
+Podle ustanovení § 11 odst. 3 o.s.ř., jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+V daném případě je nepochybné, že věc patří do pravomoci soudů České republiky (§ 7 odst. 1 o.s.ř.). Podle ustanovení § 85 odst. 1 o.s.ř. nestanoví-li zákon jinak, je obecným soudem fyzické osoby soud, v jehož obvodu má své bydliště, a nemá-li bydliště, soud, v jehož obvodu se zdržuje. Podle ustanovení § 86 odst. 1 o.s.ř., jestliže žalovaný, který je občanem České republiky, nemá obecný soud, je příslušný soud, v jehož obvodu měl v České republice poslední známé bydliště. Žalovaný v době podpisu smlouvy o pronájmu dne 28.7.1998 měl bydliště v obvodu Okresního soudu v Hodoníně. Podle zprávy Ministerstva vnitra, odboru správních činností, oddělení evidence obyvatel a rodných čísel, je žalovaný od 28.8.2000 hlášen k trvalému pobytu na adrese H., P. S. , H. 680/65, což je poslední známé bydliště žalovaného.
+Nejvyšší soud tak nemohl určit místně příslušný soud podle ustanovení § 11 odst. 3 o.s.ř., neboť není splněn zákonný předpoklad pro takové rozhodnutí, když podmínky místní příslušnosti nechybějí a lze je zjistit.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. října 2004
+JUDr. František Faldyna, CSc.,v. r.
+předseda senátu
