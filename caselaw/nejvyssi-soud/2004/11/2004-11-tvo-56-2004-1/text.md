@@ -1,0 +1,19 @@
+11 Tvo 56/2004
+U S N E S E N Í
+Nejvyšší soud v trestní věci obviněného M. V., projednal v neveřejném zasedání konaném dne 29. listopadu 2004 stížnost obhájce Mgr. D. B. proti usnesení Vrchního soudu v Praze ze dne 6. 10. 2004, sp. zn. 9 To 101/2004, a rozhodl t a k t o :
+Podle § 148 odst. 1 písm. c) tr. řádu s e stížnost obhájce Mgr. D. B. z a m í t á .
+O d ů v o d n ě n í :
+U Vrchního soudu v Praze je pod sp. zn. 9 To 101/2004 projednáváno odvolání obviněného M. V. proti rozsudku Krajského soudu v Ústí nad Labem ze dne 15. 1. 2004, sp. zn. 1 T 2/99, jímž byl uznán vinným trestným činem podvodu podle § 250 odst. 1, 3 písm. b) tr. zák.
+Vrchní soud v Praze usnesením ze dne 20. 8. 2004, sp. zn. 9 To 101/2004, podle § 66 odst. 3 tr. řádu rozhodl o předání obhájce Mgr. D. B., advokáta se sídlem v T., ke kárnému postihu Č. a. k. s odůvodněním, že dne 18. 8. 2004 zmařil konání veřejného zasedání o odvolání svého klienta proti rozsudku soudu prvního stupně, neboť neuposlechl příkaz, který mu byl podle trestního řádu dán (§ 66 odst. 1 tr. řádu).
+Toto usnesení nenabylo právní moci, neboť proti němu podal obhájce Mgr. D. B. stížnost.
+Podáním ze dne 30. 9 2004 namítl obhájce Mgr. D. B. podjatost předsedy senátu Vrchního soudu v Praze JUDr. M. P. s tím, že postup předsedy senátu, když s ohledem na osobní šetření inicioval kontrolu dodržování léčebného režimu obhájce Okresní správou sociálního zabezpečení v S., je dle názoru obhájce značně poznamenán osobní antipatií k jeho osobě, jako právnímu zástupci obviněného a brání mu tedy ve věci nestranně jednat a rozhodnout.
+Usnesením Vrchního soudu v Praze ze dne 6. 10. 2004, sp. zn. 9 To 101/2004, bylo podle § 30 tr. řádu rozhodnuto, že předseda senátu JUDr. M. P. není vyloučen z vykonávání úkonů trestního řízení v trestní věci obviněného M. V. vedené u Vrchního soudu v Praze pod sp. zn. 9 To 101/2004.
+Proti tomuto usnesení podal obhájce Mgr. D. B. v zákonné lhůtě stížnost, kterou v podstatě odůvodnil skutečnostmi uvedenými ve svém původním návrhu na vyloučení předsedy senátu JUDr. M. P.
+Nejvyšší soud podle § 147 odst. 1 tr. řádu z podnětu podané stížnosti přezkoumal správnost napadeného rozhodnutí i řízení, které mu předcházelo, a dospěl k tomuto závěru.
+Podle § 30 odst. 1 tr. řádu je z vykonávání úkonu trestního řízení vyloučen soudce, u něhož lze mít pochybnosti, že pro poměr k projednávané věci nebo k osobám, jichž se úkon přímo dotýká, k jejich obhájcům, zákonným zástupcům a zmocněncům, nebo pro poměr k jinému orgánu činnému v trestním řízení, nemůže nestranně rozhodovat.
+V průběhu trestního řízení před odvolacím soudem nebylo zjištěno nic, co by mohlo být považováno za podjaté jednání předsedy senátu JUDr. M. P. vůči obhájci obviněného Mgr. D. B., a co by tedy mohlo vést k jeho vyloučení z dalších úkonů trestního řízení. Mgr. D. B., jako obhájce obviněného, dovozuje podjatost z toho, že JUDr. M. P. osobně inicioval kontroly dodržování jeho léčebného režimu a za účelem projednání věci bez zbytečných průtahů prováděl šetření o jeho případné účasti při jednání u jiného soudu. Tato skutečnost sama o sobě bez dalšího nemůže být důvodem k závěru o stranném a podjatém jednání předsedy senátu, a tedy důvodem k jeho vyloučení. Jednání JUDr. M. P., který osobně zjišťoval dodržování léčebného režimu obhájce obviněného se sice vymyká běžným postupům, ale rozhodně jej nelze hodnotit jako něco, co by bylo možné označit jako nestranné jednání v neprospěch obviněného. Protože jiné důvody k vyloučení tohoto soudce Mgr. D. B. neuvedl, nemohla se jeho námitka o podjatosti předsedy senátu Vrchního soudu v Praze JUDr. M. P. shledat s úspěchem. Jinak se Nejvyšší soud se zdůvodněním napadeného usnesení plně ztotožňuje a v podrobnostech na ně odkazuje.
+Ze všech těchto důvodů bylo rozhodnuto, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 29. listopadu 2004
+Předseda senátu:
+JUDr. Pavel Kučera
