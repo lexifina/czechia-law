@@ -1,0 +1,21 @@
+20 Cdo 2249/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudců JUDr. Vladimíra Mikuška a JUDr. Vladimíra Kurky ve věci výkonu rozhodnutí oprávněné K. b., a. s., proti povinným 1) V. F., zastoupené advokátem, a 2) M. F., za účasti vydražitele L. M., zastoupeného advokátem, pro 393.714,33- Kč s příslušenstvím, prodejem nemovitostí, vedené u Okresního soudu v Ústí nad Orlicí pod sp. zn. 5 E 142/97, o dovolání povinné proti usnesení Krajského soudu v Hradci Králové ze dne 17. 7. 2002, č.j. 19 Co 254/2002-251, takto:
+I. Dovolání se odmítá.
+II. Povinná je povinna zaplatit vydražiteli na náhradě nákladů dovolacího řízení částku 700,- Kč k rukám JUDr. R. M. do tří dnů od právní moci usnesení. Ve vztahu mezi oprávněnou a povinnými a mezi povinným a vydražitelem nemá žádný z účastníků právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+V záhlaví uvedeným rozhodnutím krajský soud (mimo jiné) s odkazem na ustanovení § 254 odst. 1 a § 218 písm. b/ zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů (dále též jen „o.s.ř.“), odmítl odvolání, jímž povinná napadla usnesení ze dne 10. 5. 2002, č.j. 5 E 142/97-229, kterým Okresní soud v Ústí nad Orlicí udělil dražiteli L. M. příklep označených nemovitostí a uložil mu ve stanovené lhůtě doplatit částkou 500.000,- Kč nejvyšší podání. Odvolací soud uzavřel, že povinná není osobou, jíž by ve smyslu § 336k odst. 1, 2 ve spojení s § 336j odst. 2 o.s.ř. svědčila legitimace k podání řádného opravného prostředku.
+Rozhodnutí odvolacího soudu napadla povinná včas dovoláním, jímž vyjádřila nesouhlas se závěrem o subjektivní nepřípustnosti odvolání proti usnesení o udělení příklepu. Navrhla, aby dovolací soud usnesení zrušil a věc vrátil odvolacímu soudu k dalšímu řízení.
+Oprávněná a vydražitel se ve svých vyjádřeních ztotožnili se závěrem o nedostatku legitimace k podání odvolání a navrhli, aby dovolací soud dovolání povinné zamítl, resp. jako nepřípustné odmítl.
+Dovolání není přípustné.
+Podle ustanovení § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Z ustanovení § 237 odst. 1 o.s.ř. přípustnost dovolání nevyplývá, neboť napadené usnesení, jímž ostatně nebylo rozhodnutí soudu prvního stupně změněno nebo potvrzeno, není rozhodnutím ve věci samé.
+Přípustnost dovolání nelze opřít ani o ustanovení § 238 a § 238a o.s.ř., protože rozhodnutím odvolacího soudu nebylo potvrzeno ani změněno usnesení soudu prvního stupně ve věcech, které jsou zde taxativně vyjmenovány (odmítnutí odvolání účastníka podle § 218 písm. b/ o.s.ř. není usnesením, jímž by odvolací soud potvrdil nebo změnil usnesení, kterým soud prvního stupně rozhodl ve věci udělení příklepu ve výkonu rozhodnutí).
+Ustanovení § 239 odst. 1, 2 a 3 o.s.ř. přípustnost dovolání založit rovněž nemohou, neboť nejde o žádný z případů zde uvedených.
+Protože dovolání povinné není podle žádného v úvahu připadajícího ustanovení občanského soudního řádu přípustné, Nejvyšší soud je – aniž se mohl zabývat důvodností vznesené námitky – odmítl (§ 243b odst. 5, věta první, § 218 písm. c/ o.s.ř.).
+Povinná (dovolatelka), jejíž dovolání bylo odmítnuto, má podle ustanovení § 243b odst. 5, věty první, § 254 odst. 1, § 224 odst. 1 a § 146 odst. 3 o.s.ř. povinnost nahradit vydražiteli náklady, jež sestávají z odměny za jeho zastupování advokátem v dovolacím řízení; výše odměny dovolací soud určil podle ustanovení § 1 odst. 1, § 2 odst. 1, § 10 odst. 3, § 12 odst. 1 písm. b/, § 14 odst. 1 a § 18 odst. 1, věty první, vyhlášky č. 484/2000 Sb., ve znění vyhlášky č. 49/2001 Sb., tj. částkou 625,- Kč. Součástí nákladů, které vydražitel v dovolacím řízení vynaložil, je dále paušální částka náhrady za jeden úkon právní služby (vyjádření k dovolání) ve výši 75,- Kč (§ 13 odst. 1, 3 vyhlášky č. 177/1996 Sb., ve znění pozdějších předpisů). Protože oprávněné v dovolacím řízení náklady (podle obsahu spisu) nevznikly a povinný dovolání nepodal, rozhodl dovolací soud, jak je uvedeno ve výroku usnesení.
+Proti tomuto usnesení není přípustný opravný prostředek.
+Nesplní-li povinná dobrovolně, co jí ukládá toto usnesení, může vydražitel podat návrh na soudní výkon rozhodnutí (§ 251 o.s.ř.).
+V Brně dne 25. září 2003
+JUDr. Pavel Krbek, v.r.
+předseda senátu
