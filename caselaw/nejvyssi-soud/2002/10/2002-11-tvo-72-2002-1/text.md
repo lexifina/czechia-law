@@ -1,0 +1,16 @@
+11 Tvo 72/2002
+U S N E S E N Í
+Nejvyšší soud projednal v neveřejném zasedání konaném dne 30. 10. 2002 stížnost obviněného R. M., proti usnesení Vrchního soudu v Olomouci ze dne 8. 10. 2002, sp. zn. 4 To 172/2002, a rozhodl t a k t o :
+Podle § 148 odst. 1 písm. c) tr. řádu s e stížnost obviněného R. M. z a m í t á .
+O d ů v o d n ě n í :
+Rozsudkem Krajského soudu v Ostravě ze dne 3. 5. 2002, sp. zn. 30 T 7/2001, byl obviněný R. M. uznán vinným pokusem trestného činu ublížení na zdraví podle § 8 odst. 1 tr. zák. k § 222 odst. 1 tr. zák., trestným činem vraždy podle § 219 odst. 1, 2 písm. b) tr. zák. a dvěma trestnými činy zanedbání povinné výživy podle § 213 odst. 2, 3 tr. zák. a odsouzen k nepodmíněnému trestu odnětí svobody v trvání čtrnácti let, pro jehož výkon byl zařazen do věznice se zvýšenou ostrahou. Současně mu byla uložena povinnost zaplatit poškozeným náhradu škody.
+Proti tomuto rozsudku podal obviněný odvolání a trestní věc se v současné době nachází ve stadiu odvolacího řízení před Vrchním soudem v Olomouci.
+Vrchní soud v Olomouci usnesením ze dne 8. 10. 2002, sp. zn. 4 To 172/2002, podle § 71 odst. 4, 6, 7 tr. řádu ponechal obviněného R. M. i nadále ve vazbě.
+Proti tomuto usnesení podal obviněný stížnost, neboť je toho názoru, že vazební důvody uvedené v ustanovení § 67 písm. a), c) tr. řádu u něj neexistují a proto navrhl, aby bylo napadené rozhodnutí zrušeno, a aby byl z vazby propuštěn na svobodu.
+Nejvyšší soud z podnětu podané stížnosti přezkoumal podle § 147 odst. 1 tr. řádu správnost napadeného rozhodnutí i řízení, které mu předcházelo, a dospěl k tomuto závěru.
+Obviněný byl vzat do vazby usnesením Okresního soudu v Ostravě ze dne 28. 5. 2000, sp. zn. Nt 3272/2000, z důvodů uvedených v § 67 odst. 1 písm. a), b) tr. řádu. Dne 2. 11. 2000 byl obviněný R. M. převeden do výkonu trestu odnětí svobody z rozsudku Okresního soudu v Ostravě ze dne 26. 4. 1999, sp. zn. 14 T 106/98, a po výkonu trestu byl usnesením Krajského soudu v Ostravě ze dne 21. 6. 2002, sp. zn. 30 T 7/2001, vzat znovu do vazby z důvodu uvedeného v § 67 písm. a) tr. řádu. O důvodnosti vazby obviněného bylo v průběhu dosavadního řízení opakovaně rozhodováno, naposledy usnesením Vrchního soudu v Olomouci ze dne 8. 10. 2002, kterým byl obviněný i nadále ponechán ve vazbě z důvodů uvedených v § 67 písm. a), c) tr řádu. Rozsudkem soudu prvního stupně byl obviněný uznán vinným závažným trestným činem, a protože o jeho vině nebylo dosud rozhodnuto pravomocně, je stále ohrožen přísnou trestní sazbou. Na důvodnosti vazby obviněného se v průběhu celého řízení nic nezměnilo, a tak lze, jak pokud jde o obavu z možného opakování trestné činnosti, tak z vyhýbání se trestnímu řízení, odkázat na zdůvodnění všech předchozích rozhodnutí. Totéž v plné míře platí o výroku i odůvodnění napadeného usnesení vrchního soudu. Protože se Nejvyšší soud s tímto rozhodnutím ztotožňuje, může v plném rozsahu odkázat i na jeho výstižné odůvodnění. Trestní řízení proti obviněnému trvá zatím dobu, která je přiměřená náročnosti projednávané věci, žádné nepřiměřené průtahy během tohoto řízení zjištěny nebyly.
+Ze všech těchto důvodů bylo rozhodnuto, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 30. října 2002
+Předseda senátu:
+JUDr. Pavel Kučera
