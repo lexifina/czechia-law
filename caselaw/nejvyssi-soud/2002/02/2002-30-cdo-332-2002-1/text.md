@@ -1,0 +1,19 @@
+30 Cdo 332/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Karla Podolky a soudců JUDr. Františka Duchoně a JUDr. Pavla Pavlíka ve věci navrhovatelů A) A. R., B) P. R., obou zastoupených advokátkou, a C) M. R., zastoupené advokátkou, proti Okresnímu úřadu K., okresnímu pozemkovému úřadu v K., za účasti: 1) Město H., 2) Nemocnice s poliklinikou H., zastoupených advokátem, 3) Česká republika, zastoupená Okresním úřadem K., 4) S. e., a.s., 5) S. a ú. s. K., 6) P. O., s. p., zast. advokátem, 7) České dráhy, státní organizace, Praha 1, nábřeží L. Svobody 1222, 8) O., a.s., a 9) P. f. ČR, o vydání nemovitostí, vedené u Krajského soudu v Ostravě pod sp. zn. 22 Ca 432/2000, o dovolání M. R., zastoupeného advokátkou, proti usnesení Krajského soudu v Ostravě ze dne 19. září 2001, č.j. 22 Ca 432/2000-44, takto:
+I. Dovolací řízení se zastavuje.
+II. Dovolatel ani žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Ostravě rozsudkem ze dne 9. července 2001, č.j. 22 Ca 432/2000-37, zrušil rozhodnutí Okresního úřadu K., okresního pozemkového úřadu ze dne 11. 7. 2000, č.j. PÚ-362/R-17/99-Ch-L, věc vrátil tomuto správnímu orgánu k dalšímu řízení a uložil mu nahradit navrhovatelům náklady řízení způsobem ve výroku uvedeným. Opravným usnesením ze dne 19. září 2001, č.j. 22 Ca 432/2000-44, opravil výrok v odstavci I. rozsudku tak, že označené rozhodnutí správního orgánu se zrušuje a vrací tomuto správnímu orgánu ohledně navrhovatelů.
+Proti tomuto opravnému usnesení podal M. R. (dále dovolatel) dovolání, jímž se domáhá zrušení opravného usnesení Krajského soudu v Ostravě.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) po přezkoumání věci bez jednání (§ 243a odst. 1 věta první o.s.ř.) dospěl k závěru, že v posuzovaném případě brání meritornímu rozhodnutí o dovolání navrhovatele nedostatek podmínky dovolacího řízení.
+Podle § 236 odst. 1 o.s.ř. lze napadnout dovoláním pravomocné rozhodnutí odvolacího soudu, pokud to zákon připouští.
+V této věci ovšem nerozhodoval Krajský soud v Ostravě jako odvolací soud, nýbrž jako soud věcně příslušný k přezkoumání rozhodnutí označeného správního orgánu podle § 246 odst. 1 a § 250l a násl. o.s.ř. Pro toto rozhodování o opravných prostředcích proti rozhodnutím správních orgánů platí § 250s o.s.ř., podle něhož proti rozhodnutí soudu (jenž rozhodoval o opravném prostředku proti rozhodnutí správního orgánu) nejsou s výjimkou věcí důchodového pojištění a důchodového zabezpečení přípustné opravné prostředky.
+V daném případě dovolatel uplatnil u Nejvyššího soudu ČR podání, které označil jako dovolání, jež směřuje proti rozhodnutí Krajského soudu v Ostravě, přičemž jde o rozhodnutí, proti němuž podle § 250s není vůbec přípustný opravný prostředek, tedy ani dovolání, neboť nejde o věc důchodového pojištění ani důchodového zabezpečení.
+Protože podle § 103 o.s.ř., použitelného podle § 243c odst. 1 o.s.ř. i pro řízení u dovolacího soudu, soud přihlíží kdykoli za řízení k tomu, zda jsou splněny podmínky, za nichž lze jednat ve věci, nebylo možné, aby Nejvyšší soud přistoupil k projednávání dovolání podaného dovolatelem proti rozhodnutí, u něhož občanský soudní řád výslovně nepřipouští podání jakéhokoli opravného prostředku (§ 250s o.s.ř.).
+Pro tento nedostatek podmínky řízení, který nelze odstranit, Nejvyššímu soudu ČR nezbylo, než řízení o dovolatelově dovolání zastavit (§ 246c a § 104 odst. 1 o.s.ř.).
+Dovolatel z procesního hlediska zavinil, že dovolací řízení bylo zastaveno, účastníkům však ve stadiu dovolacího řízení náklady nevznikly. Této procesní situaci odpovídá ve smyslu § 146 odst. 2 věta prvá, § 224 odst. 1 a § 243b odst. 5, věta první, o.s.ř. výrok o tom, že na náhradu nákladů dovolacího řízení nemá dovolatel ani žádný z účastníků právo.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. února 2002
+JUDr. Karel Podolka,v.r.
+předseda senátu
