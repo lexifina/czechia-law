@@ -1,0 +1,14 @@
+7 Tdo 23/2002
+U S N E S E N Í
+Nejvyšší soud rozhodl v neveřejném zasedání dne 12. 3. 2002 o dovolání obviněného P. S., proti usnesení Městského soudu v Praze ze dne 6. 11. 2001, sp. zn. 6 To 471/2001, v trestní věci vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 6 T 97/2000 t a k t o :
+Podle § 265i odst. 1 písm. a) tr. ř. se dovolání obviněného P. S. o d m í t á .
+O d ů v o d n ě n í :
+Obviněný P. S. podal dne 25. 1. 2002 dovolání proti usnesení Městského soudu v Praze ze dne 6. 11. 2001, sp. zn. 6 To 471/2001, jímž bylo podle § 256 tr. ř. jako nedůvodné zamítnuto jeho odvolání proti odsuzujícímu rozsudku Obvodního soudu pro Prahu 4 ze dne 3. 8. 2001, sp. zn. 6 To 97/2000.
+Nejvyšší soud shledal, že v posuzované věci není dovolání přípustné.
+Dovolání jako mimořádný opravný prostředek bylo nově zavedeno do trestního řádu novelou provedenou zákonem č. 265/2001 Sb. Tento zákon nabyl účinnosti dnem 1. 1. 2002. Časová působnost trestního řádu se řídí zásadou, že trestní řízení se koná podle zákona účinného v době řízení. Trestní stíhání, která probíhala a pravomocně skončila před účinností zákona č. 265/2001 Sb., tj. před 1. 1. 2002, nebyla v té době vystavena možnosti, že by pravomocné rozhodnutí mohlo být napadeno jinak než stížností pro porušení zákona (§ 266 a násl. tr. ř.) nebo návrhem na povolení obnovy řízení (§ 277 a násl. tr. ř.). Jestliže dovolání jako další mimořádný opravný prostředek bylo zavedeno s účinností od 1. 1. 2002, znamená to, že tento mimořádný opravný prostředek lze podat jen tehdy, nastanou-li podmínky pro jeho podání až od 1. 1. 2002, tj. za účinnosti zákona č. 265/2001 Sb. Z toho logicky vyplývá, že dovolání lze podat jen proti rozhodnutím, která nabyla právní moci v době od 1. 1. 2002. Svědčí o tom i skutečnost, že přechodná ustanovení zákona č. 265/2001 Sb. (čl. II tohoto zákona) neupravují možnost podat dovolání proti rozhodnutím, která nabyla právní moci před účinností tohoto zákona. Pouze výslovné přechodné ustanovení by tu mohlo být průlomem do zásady, že trestní řízení se koná podle zákona účinného v době řízení. Takové ustanovení, pokud jde o možnost napadnout dovoláním rozhodnutí, jehož právní moc nastala před účinností zákona č. 265/2001 Sb., přitom však citovaný zákon nemá.
+To ve vztahu k posuzovanému případu znamená, že pokud napadené usnesení nabylo právní moci dnem vyhlášení, tj. 6. 11. 2001, a bylo doručeno obviněnému dne 29. 11. 2001 a jeho obhájci dne 28. 11. 2001, nelze proti němu podat dovolání jako mimořádný opravný prostředek zavedený s účinností od 1. 1. 2002.
+Z těchto důvodů Nejvyšší soud dovolání obviněného odmítl jako nepřípustné, aniž z jeho podnětu přezkoumal napadené usnesení a předcházející řízení podle § 265i odst. 3, 4 tr. ř.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 12. března 2002
+Předseda senátu:
+JUDr. Petr Hrachovec
