@@ -1,0 +1,19 @@
+22 Cdo 2019/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marie Rezkové a soudců Víta Jakšiče a JUDr. Jiřího Spáčila, CSc., ve věci žalobce R. K., zastoupeného advokátem, proti žalované E. K., o vydání věcí, vedené u Okresního soudu v Hradci Králové pod sp. zn. 6 C 35/97, o dovolání žalobce proti rozsudku Krajského soudu v Hradci Králové ze dne 6. listopadu 2002, č. j. 20 Co 344/2002-193, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Hradci Králové jako soud odvolací rozsudkem ze 6. 11. 2002, č. j. 20 Co 344/2002-19, potvrdil rozsudek Okresního soudu v Hradci Králové (dále jen „soud prvního stupně“) z 19. 4. 2002, č. j. 6 C 35/97-180, kterým byla zamítnuta žaloba na vydání blíže ve výroku specifikovaných věcí a částky 10.882,- Kč, a pro případ nemožnosti vydání věcí zaplacení částky 25.000,- Kč žalobci, a rozhodnuto o nákladech řízení. Dále odvolací soud rozhodl o nákladech odvolacího řízení.
+Odvolací soud převzal zjištění soudu prvního stupně, že žalovaná věci, k nimž žalobce ve většině prokázal vlastnické právo, neodvezla z jeho bytu ve dnech 6. 1. a 8. l. 1994, stejně jako neodvezla peněžní částku 10.882,- Kč. Shodně se soudem prvního stupně dospěl odvolací soud k závěru, že žalobce neprokázal, že věci, jejichž vydání se domáhá, jsou ke dni jeho rozhodování v držení žalované, a proto mu nepřísluší ochrana podle § 126 odst. l ObčZ.
+Proti rozsudku odvolacího soudu podal žalobce dovolání. Vytýká odvolacímu soudu nesprávnost zjištění, že žalovaná jeho věci neodcizila. Dále namítá, že „došlo k porušení podmínky řízení podle § 103 OSŘ, neboť žalovaná poté, co byla zpochybněna její výpověď se ke svému chování a jednání vyjádřila tak, že neví, co od ní soud chce a vzhledem k šoku, který prožila s poukazem na svůj zdravotní stav.“ Přesto soud neprovedl žalobcem, navrhovaný důkaz znaleckým posudkem z oboru psychiatrie k prokázání způsobilosti žalované, s čímž i žalovaná souhlasila, a vycházel jen ze zprávy praktického lékaře. Podle této zprávy však zdravotní dokumentace žalované postrádá záznamy po dobu 20 let. Žalobce navrhl, aby rozsudek odvolacího soudu byl zrušen a věc vrácena tomuto soudu k dalšímu řízení.
+Žalovaná uvedla, že dovolání je neopodstatněné a navrhla, aby „rozsudek odvolacího soudu byl potvrzen“.
+Dovolací soud po zjištění, že dovolání bylo podáno včas řádně zastoupeným účastníkem řízení, zkoumal, zda jde o dovolání přípustné.
+Proti potvrzujícímu rozsudku odvolacího soudu je dovolání přípustné jen za předpokladu, že odvolací soud potvrdil rozsudek soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku, protože byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil /§ 238 odst. l písm. b) OSŘ/ nebo jestliže dovolací soud dospěje k závěru, že napadené rozhodnutí ve věci samé má po právní stránce zásadní význam /§ 237 odst. l písm. c) OSŘ/.
+V daném případě není dovolání proti rozsudku odvolacího soudu podle těchto ustanovení přípustné, neboť rozsudek soudu prvního stupně je jeho prvním rozhodnutím ve věci samé a dovoláním nebylo napadeno právní posouzení věci odvolacím soudem, ale nesprávnost skutkového zjištění.
+Vzhledem k tomu, že dovolání není přípustné, nezabýval se dovolací soud podle § 242 odst. 3 OSŘ námitkou žalobce, že žalovaná neměla procesní způsobilost, neboť taková vada řízení by mohla být napadena jen žalobou pro zmatečnost /§ 229 odst. písm. c) OSŘ/.
+Nepřípustné dovolání bylo podle § 243 odst. 5 a § 218 písm. c) OSŘ dovolacím soudem odmítnuto.
+Žalované by podle § 243b odst. 5, § 224 odst. l a § 146 odst. 3 OSŘ příslušela náhrada nákladů dovolacího řízení. Ty ji však nevznikly, neboť vyjádření k dovolání bylo sepsáno samotnou žalovanou.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 22. října 2003
+JUDr.Marie Rezková,v.r. předsedkyně senátu
