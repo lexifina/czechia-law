@@ -1,0 +1,21 @@
+33 Odo 479/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Dese a soudkyň JUDr. Kateřiny Hornochové a JUDr. Ivany Zlatohlávkové ve věci žalobce R. Š., zastoupeného, advokátem, proti žalovanému M. K., zastoupenému, advokátkou, o zaplacení částky 9 439 Kč s příslušenstvím, vedené u Okresního soudu Plzeň-město pod sp. zn. 31 C 18/96, o dovolání žalovaného proti rozsudku Krajského soudu v Plzni ze dne 25. října 2001 č. j.12 Co 678/2001-166 takto:
+I. Dovolání se odmítá.
+II. Žalovaný je povinen zaplatit žalobci na náhradě nákladů dovolacího řízení částku 1 575 Kč do 3 dnů od právní moci tohoto usnesení k rukám, advokáta.
+O d ů v o d n ě n í :
+Okresní soud Plzeň-město rozsudkem ze dne 21. června 2001 č. j. 31 C 18/96-146 žalovanému uložil, aby žalobci zaplatil částku 9 439 Kč s 15% úrokem z prodlení ode dne 19. 6. 1995 do zaplacení, a rozhodl o náhradě nákladů řízení.
+K odvolání žalovaného Krajský soud v Plzni rozsudkem ze dne 25. října 2001 č. j. 12 Co 678/2001-166 rozsudek soudu prvního stupně potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Proti rozsudku odvolacího soudu podal žalovaný dovolání, v němž odvolacímu soudu vytýká nesprávné právní posouzení věci [dovolací důvod podle § 241a odst. 2 písm. b) o. s. ř.] a navrhuje zrušení rozsudku odvolacího soudu i rozsudku soudu prvního stupně
+Žalobce ve vyjádření k dovolání poukázal na ustanovení § 237 odst. 2 písm. a) o. s. ř., podle kterého je dovolání žalovaného v této věci nepřípustné a navrhl jeho odmítnutí.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) po zjištění, že dovolání bylo podáno ve lhůtě uvedené v ustanovení § 240 odst. 1 o. s. ř., dospěl k závěru, že v daném případě dovolání směřuje proti rozhodnutí, proti němuž není přípustné.
+Dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští (§ 236 odst. l o. s. ř.).
+Dovolání je přípustné proti rozhodnutí odvolacího soudu, jímž bylo změněno rozhodnutí soudu prvního stupně ve věci samé [§ 237 odst. 1 písm. a) o. s. ř.] nebo jímž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil [§ 237 odst. 1 písm. b) o. s. ř. ]. Dovolání je dále přípustné proti rozhodnutí odvolacího soudu, jímž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam. Dovolání v těchto věcech však není podle § 237 odst. 2 písm. a) o. s. ř. přípustné ve věcech, v nichž dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 20 000 Kč a v obchodních věcech 50 000 Kč.
+V dané věci napadá žalovaný dovoláním rozsudek odvolacího soudu, kterým byl potvrzen rozsudek soudu prvního stupně, jímž bylo rozhodnuto o peněžitém plnění ve výši 9 439 Kč.
+Podle ustanovení § 237 odst. 2 písm. a) o. s. ř. není tedy v této věci dovolání proti rozsudku odvolacího soudu přípustné.
+Nejvyšší soud proto dovolání žalovaného podle § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl, aniž se mohl zabývat věcí z hlediska námitek uplatněných v dovolání.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, § 224 odst. 1, § 151 odst. 2 a § 142 odst. 1 o. s. ř. . Podle výsledku dovolacího řízení má žalobce právo na náhradu účelně vynaložených nákladů řízení, které sestávají z odměny advokáta za jednu čtvrtinu sazby odměny ve výši 1 500 Kč *§ 3 odst. 1, § 10 odst. 3, § 14 odst. 1, § 15 a § 18 odst. 1 vyhlášky č. 484/2000 Sb., kterou se stanoví paušální sazby výše odměny za zastupování účastníka advokátem nebo notářem při rozhodování o náhradě nákladů v občanském soudním řízení a kterou se mění vyhláška Ministerstva spravedlnosti č. 177/1996 Sb., o odměnách advokátů a náhradách advokátů za poskytování právních služeb (advokátní tarif), ve znění pozdějších předpisů] a z paušální částky náhrady hotových výdajů advokáta ve výši 75 Kč (§ 13 odst. 3 vyhl. č. 177/1996 Sb.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 29. července 2002
+JUDr. Zdeněk D e s, v. r.
+předseda senátu
