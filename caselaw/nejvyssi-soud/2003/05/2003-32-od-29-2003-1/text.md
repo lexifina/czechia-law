@@ -1,0 +1,19 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+32 Od 29/2003-44
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Františka Faldyny, CSc. a soudců JUDr. Miroslava Galluse a JUDr. Petra Gemmela v právní věci žalobkyně Ž. Ch. a. s., zast. JUDr. P. G., advokátem, proti žalovaným 1) Č. o. b., a. s., zast. Mgr. M. H., advokátem, 2) I. b., a.s., zast. JUDr. T. S., advokátem, o určení neplatnosti smlouvy o prodeji podniku, vedené u Městského soudu v Praze pod sp. zn. 34 Cm 96/2001, o návrhu žalobkyně na přikázání věci z důvodu vhodnosti jinému soudu, takto:
+Věc vedená u Městského soudu v Praze pod sp. zn. 34 Cm 96/2001 se Krajskému soudu v Ostravě nepřikazuje.
+O d ů v o d n ě n í :
+U Městského soudu v Praze bylo dne 16. 7. 2001 zahájeno řízení o určení neplatnosti smlouvy o prodeji podniku ze dne 19. 6. 2000.
+Žalobkyně dne 14. 3. 2003 doručila soudu návrh na přikázání věci ke Krajskému soudu v Ostravě, a to z důvodu, že před Městským soudem v Praze probíhají v současné době dvě konkursní řízení proti osobám, které patří do stejného ekonomického uskupení jako dlužník, přičemž navrhovatelem těchto konkursních řízení je žalovaná 1) a přikázáním věci tak bude odstraněn potencionální vliv konkursních řízení na projednávání a výsledek tohoto řízení.
+Žalovaná 1) s přikázáním věci nesouhlasí a žalovaná 2) takové rozhodnutí ponechává na posouzení soudu s tím, že se nedomnívá, že by důvody, které žalobkyně v návrhu na přikázání věci uvádí, byly důvodné.
+Nejvyšší soud České republiky jako soud nejblíže společně nadřízený příslušnému soudu (Městskému soudu v Praze) a Krajskému soudu v Ostravě, jemuž má být věc přikázána (§ 12 odst. 3 věta první o. s. ř.), návrh žalobkyně na přikázání věci jinému soudu projednal a dospěl k závěru, že v posuzovaném případě nejsou splněny zákonné podmínky k tomu, aby věc byla přikázána jinému soudu z důvodu vhodnosti podle ustanovení § 12 odst. 2 o. s. ř.
+Podle ustanovení § 12 odst. 2 o. s. ř. věc může být přikázána jinému soudu téhož stupně z důvodu vhodnosti. Podle ustanovení § 12 odst. 3 věty druhé o. s. ř. účastníci mají právo se vyjádřit k tomu, kterému soudu má být věc přikázána, a v případě odstavce 2 též k důvodu, pro který by věc měla být přikázána.
+Důvody vhodnosti podle tohoto ustanovení mohou být různé v závislosti na předmětu řízení, postavení účastníků i jiných okolnostech. Jde zejména o skutečnosti, z nichž lze dovodit, že jiným než příslušným soudem bude věc projednána rychleji a hospodárněji. K přikázání věci jinému než příslušnému soudu by však mělo docházet pouze výjimečně, a to ze závažných důvodů, neboť je uplatňováno jako výjimka z ústavně zaručené zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon (čl. 38 odst. 1 Listiny základních práv a svobod, publikované pod č. 2/1993 Sb., ve znění ústavního zákona č. 162/1998 Sb.). Důvody pro odnětí věci příslušnému soudu a její přikázání soudu jinému tedy musí být natolik významné, aby dostatečně odůvodňovaly průlom do výše citovaného ústavního principu. Zákon přitom výslovně zakotvuje právo účastníků vyjádřit se k důvodu delegace i k soudu, k němuž má být věc delegována, aby vhodnost takového postupu mohla být zvážena i z pohledu jejich poměrů; delegací totiž nesmí být navozen stav, který by se v poměrech některého z účastníků projevil zásadně nepříznivě.
+Tvrzení žalobkyně o tom, že by mohlo dojít k vlivu již probíhajících konkursních řízení na předmětnou věc, není natolik zásadní, aby v ní bylo možno bez dalšího spatřovat důvod k přikázání věci z důvodů vhodnosti, zvláště když není z ničeho zřejmé, z čeho tak žalobkyně usuzuje.
+Nejvyšší soud tedy důvody pro přikázání věci jinému soudu podle § 12 odst. 2 o. s. ř. neshledal a návrhu žalobkyně nevyhověl.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 28. května 2003
+JUDr. František Faldyna, CSc., v. r.
+předseda senátu
