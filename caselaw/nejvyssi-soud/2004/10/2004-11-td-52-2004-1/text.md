@@ -1,0 +1,16 @@
+11 Td 52/2004
+U S N E S E N Í
+Nejvyšší soud v trestní věci obviněného P. N. projednal v neveřejném zasedání konaném dne 20. 10. 2004 návrh na odnětí a přikázání věci podle § 25 tr. řádu a rozhodl t a k t o :
+Podle § 25 tr. řádu se trestní věc obviněného P. N. vedená u Okresního soudu v Kolíně pod sp. zn. 3 T 2/2004 tomuto soudu o d n í m á a p ř i k a z u j e se k projednání Okresnímu soudu v Břeclavi.
+O d ů v o d n ě n í :
+Trestním příkazem samosoudce Okresního soudu v Kolíně vydaným dne 8. 1. 2004, sp. zn. 3 T 2/2004, byl obviněný P. N. uznán vinným trestným činem zanedbání povinné výživy podle § 213 odst. 2 tr. zák. a odsouzen k trestu odnětí svobody v trvání osmi měsíců, jehož výkon mu byl podmíněně odložen na zkušební dobu dvou let. Současně mu bylo uloženo, aby během zkušební doby řádně platil výživné a podle svých sil uhradil dluh na výživném.
+Proti tomuto trestnímu příkazu podal obviněný odpor s tím, že se hlavního líčení chce osobně zúčastnit a současně navrhl podle § 25 tr. řádu odnětí jeho trestní věci Okresnímu soudu v Kolíně a její přikázání Okresnímu soudu v Břeclavi. Návrh odůvodnil poukazem na svůj zdravotní stav, který mu neumožňuje zúčastnit se jednání u procesního soudu, což zároveň doložil lékařskou zprávou. V souvislosti s návrhem na delegaci bylo řízení doplněno znaleckým posudkem z oboru zdravotnictví - specializace neurologie, jehož závěrem je, že obviněný je schopen se s určitou tolerancí jednání soudu účastnit, avšak soudní jednání by se s ohledem na jeho chronické onemocnění páteře mělo konat co nejblíže jeho bydlišti.
+Podáním ze dne 24. 9. 2004 byl Okresním soudem v Kolíně návrh obviněného předložen k rozhodnutí Nejvyššímu soudu.
+Nejvyšší soud podle § 25 tr. řádu zhodnotil předložený návrh a dospěl k následujícímu závěru.
+Podle § 25 tr. řádu může být věc z důležitých důvodů odňata příslušnému soudu a přikázána jinému soudu téhož druhu a stupně. Pojem \"důležité důvody\" sice není v zákoně blíže definován, ale je nepochybné, že se musí jednat o skutečnosti, jež budou svou povahou výjimečné, neboť ustanovení § 25 tr. řádu, dle něhož lze v určitých případech věc delegovat k jinému soudu, je zákonným průlomem do zásady, že nikdo nesmí být odňat svému zákonnému soudci, vyjádřené v čl. 38 odst. 1 Listiny základních práv a svobod. Důvody pro odnětí věci příslušnému soudu a její přikázání jinému soudu musí být natolik významné, aby dostatečně odůvodňovaly průlom do výše citovaného ústavního principu.
+Skutečnost, že obviněný P. N. není pro chronické onemocnění páteře schopen zúčastnit se projednání trestní věci, pro niž je žalován, u místně příslušného Okresního soudu v Kolíně, zatímco u Okresního soudu v Břeclavi, v jehož obvodu má trvalé bydliště, této účasti schopen je, je natolik závažná, že naplňuje podmínky změny místní příslušnosti soudu podle ustanovení § 25 tr. řádu. Zmíněná skutečnost byla dostatečným způsobem ověřena znaleckým posudkem z oboru zdravotnictví - specializace neurologie, a tak nemůže být pochyb o tom, že je v zájmu vyřízení trestní věci, aby tuto projednal a rozhodl Okresní soud v Břeclavi.
+Z tohoto důvodu bylo rozhodnuto, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 20. října 2004
+Předseda senátu:
+JUDr. Pavel Kučera
