@@ -1,0 +1,16 @@
+29 Odo 600/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobkyně B. S., a.s., proti žalovanému označenému jako D. Č., s. p., o 274 445,- Kč, vedeného u Krajského soudu v Ostravě pod sp. zn. 3 Cm 64/98, o dovolání žalobkyně proti usnesení Vrchního soudu v Olomouci ze dne 23. dubna 2002, č.j. 7 Cmo 441/2000-51, takto:
+Usnesení Vrchního soudu v Olomouci ze dne 23. dubna 2002 čj. 7 Cmo 441/2000-51 se zrušuje a věc se vrací tomuto soudu k dalšímu řízení.
+O d ů v o d n ě n í:
+Vrchní soud v Olomouci usnesením ze dne 23.4.2002, č.j. 7 Cmo 441/2000-51 odmítl odvolání žalobkyně podané proti rozsudku Krajského obchodního soudu v Ostravě ze dne 10.1.2000, č.j. 3 Cm 64/98-35, kterým tento soud zamítl návrh žalobkyně na zaplacení částky 274 445,- Kč a uložil žalobkyni zaplatit žalovanému náhradu nákladů soudního řízení.
+Žalobkyně podala proti usnesení odvolacího soudu dne 24.6. 2002 dovolání, které odůvodnila tím, že řízení bylo postiženo vadou, jež by mohla mít za následek nesprávné rozhodnutí ve věci a zároveň navrhla odložení vykonatelnosti napadeného rozhodnutí. Vadu řízení shledává dovolatelka v tom, že odvolací soud odmítl odvolání podané žalobkyní proti rozsudku soudu prvního stupně, ač měl dle názoru dovolatelky řízení zastavit na základě jí podaného zpětvzetí odvolání.
+Podle bodu 17., hlavy první, části dvanácté, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony (dále též jen „o.s.ř.“), dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (to jest podle občanského soudního řádu ve znění účinném před 1.1.2001.
+Dovolatelka je zastoupena advokátem (§ 241 odst. 1 o.s.ř.), dovolání bylo podáno proti usnesení, jímž bylo odvolání odmítnuto (§ 238a odst. 1 písm. e/ o.s.ř.) a je v něm uplatněn zákonný dovolací důvod (§ 241 odst. 3 písm. b/ o.s.ř.). Odvolání je přípustné a bylo podáno v jednoměsíční zákonné lhůtě (§ 240 odst. 1 o.s.ř.).
+Dovolací soud přezkoumal rozhodnutí odvolacího soudu v prvé řadě z hlediska toho, zda napadené rozhodnutí netrpí některou z vad uvedených v § 237 odst. 1 o.s.ř. (tzv. zmatečnosti); k těmto vadám musí soud přihlédnout z úřední povinnosti, i když nebyly v dovolání uplatněny (§ 242 odst. 2 o.s.ř.). Soud dospěl k závěru, že napadené rozhodnutí takovou vadou skutečně trpí, když odvolací soud jednal se žalovaným – jak je v záhlaví tohoto usnesení uveden – jako s účastníkem řízení, ačkoli byl dne 16.5.2001 na základě usnesení ze dne 19.4.2001 č.j. F 38028/2000 A XIV 396-108 vymazán z obchodního rejstříku. V projednávané věci tedy ten, kdo v řízení vystupoval jako účastník, neměl způsobilost být účastníkem řízení (§ 237 odst. 1 písm. b/ o.s.ř.).
+Dovolací soud proto usnesení odvolacího soudu zrušil, aniž nařídil jednání (§ 243a odst. 1 o.s.ř.) a vrátil odvolacímu soudu k dalšímu řízení (§ 243b odst. 2 o.s.ř.).
+O náhradě nákladů dovolacího řízení rozhodne odvolací soud v novém rozhodnutí o věci (§ 243d odst. 1 věta třetí o.s.ř.).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 7. listopadu 2002
+JUDr. Ivana Štenglová, v.r.
+předsedkyně senátu
