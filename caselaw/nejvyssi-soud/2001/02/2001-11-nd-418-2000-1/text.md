@@ -1,0 +1,16 @@
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v neveřejném zasedání konaném dne 6. února 2001, v trestní věci obžalované K H., vedené u Okresního soudu Brno-venkov, pod sp. zn. 3 T 47/2000, o návrhu obžalované na odnětí a přikázání věci t a k t o :
+Podle § 25 tr. ř. se věc Okresnímu soudu Brno-venkov neodnímá.
+O d ů v o d n ě n í :
+Okresním soudem Brno-venkov je na základě obžaloby státního zástupce Okresního státního zastupitelství Brno-venkov ze dne 22. 2. 2000 vedeno, pod sp. zn. 3 T 47/2000, proti obžalované K. H. trestní stíhání pro trestné činy podvodu podle § 250 odst. 1, 2 a podle § 250 odst. 1, 3 písm. b) tr. zák.
+Dne 15. 12. 2000 bylo Nejvyššímu soudu České republiky (dále jen Nejvyšší soud) postoupeno podání obžalované ze dne 16. 10. 2000, doplněné přípisem ze dne 5. 12. 2000, které je svým obsahem mimo jiné návrhem na odnětí a přikázání věci podle § 25 tr. ř. Obžalovaná v návrhu žádá odnětí výše uvedené věci Okresnímu soudu Brno-venkov a přikázání jakémukoliv věcně příslušnému soudu v Praze. V odůvodnění uvádí, že tak činí pro podjatost orgánů činných v tomto trestním řízení, zejména pak pro podjatost předsedy senátu Okresního soudu Brno-venkov Mgr. A. N. O podjatosti dle jejího názoru svědčí "nerespektování nařízení IMV", nezajištění řádné obhajoby v trestním řízení vedeným týmž senátem, pod sp. zn. 3 T 601/96, předání obžaloby v současném trestním stíhání až bezprostředně před zahájením hlavního líčení, a konečně obava obviněné z nepředvolání svědků (kromě poškozených) k hlavnímu líčení dne 5. 9. 2000.
+Nejvyšší soud přezkoumal návrh obžalované a shledal, že nejsou dány zákonné důvody vyžadované ustanovením § 25 tr. ř. pro odnětí a přikázání věci.
+Věcná a místní příslušnost Okresního soudu Brno-venkov ke konání řízení v prvním stupni vyplývá z ustanovení § 16 a § 18 odst. 1 tr. ř.
+Podle § 25 tr. ř. platí, že z důležitých důvodů může být věc příslušnému soudu odňata a přikázána jinému soudu téhož druhu a stupně; o odnětí a přikázání rozhoduje soud, který je oběma soudům nejblíže společně nadřízen.
+Postup podle § 25 tr. ř. je přitom výjimkou z ústavně zaručené zásady, že nikdo nesmí být odňat svému zákonnému soudci, a že příslušnost soudu a soudce stanoví zákon (čl. 38 odst. 1 Listiny základních práv a svobod, publikované pod č. 2/1993 Sb., ve znění úst. zák. č. 162/1998 Sb.). Důvody pro odnětí věci příslušnému soudu a její přikázání jinému soudu musí být natolik významné, aby dostatečně odůvodňovaly průlom do výše citovaného ústavního principu.
+V projednávaném případě byla část podání obžalované posouzena Okresním soudem Brno-venkov jako návrh, aby bylo rozhodnuto, že je předseda senátu vyloučen z vykonávání úkonů trestního řízení. Proto bylo tímto soudem rozhodnuto usnesením ze dne 1. 11. 2000 tak, že Mgr. A. N., předseda senátu Okresního soudu Brno-venkov, není podle § 30 odst. 1 tr. ř. vyloučen z vykonávání úkonů v uvedené věci.
+Jelikož obviněná svůj návrh odůvodnila zejména uvedenou námitkou podjatosti, o které již bylo příslušným orgánem rozhodnuto (tato sama o sobě není důležitým důvodem k postupu podle ustanovení § 25 tr. ř.) a Nejvyšší soud žádné další důležité důvody delegace neshledal, návrh obviněné zamítl.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný
+V Brně dne 6. února 2001
+Předseda senátu:
+JUDr. Stanislav Rizman
