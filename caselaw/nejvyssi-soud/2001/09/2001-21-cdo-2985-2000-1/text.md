@@ -1,0 +1,19 @@
+21 Cdo 2985/2000
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci výkonu rozhodnutí oprávněné Č. d., proti povinné M. V., pro 4.600,- Kč s příslušenstvím prodejem movitých věcí povinné, vedené u Okresního soudu v Karviné pod sp.zn. 48 E 422/99, o dovolání povinné proti usnesení Krajského soudu v Ostravě ze dne 30. listopadu 1999, č.j. 13 Co 1362/99-24, takto :
+I. Dovolání povinné se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Karviné usnesením ze dne 14.5.1999, č.j. 48 E 422/99-13, nařídil na návrh oprávněné podle “vykonatelného platebního rozkazu Okresního soudu v Karviné ze dne 29.1.1990 č.j. 22 C 6/90“ k uspokojení pohledávky oprávněné v částce 4.600,- Kč s 3% úroky od 1.3.1998, nákladů předcházejícího řízení ve výši 195,- Kč a nákladů tohoto výkonu rozhodnutí ve výši 300,- Kč výkon rozhodnutí prodejem movitých věcí povinné.
+K odvolání povinné Krajský soud v Ostravě usnesením ze dne 30.11.1999, č.j. 13 Co 1362/99-24, usnesení soudu prvního stupně potvrdil a rozhodl, že žádný z účastníků nemá právo na náhradu nákladů odvolacího řízení. Odvolací soud dospěl shodně se soudem prvního stupně k závěru, že všechny podmínky pro nařízení výkonu rozhodnutí byly splněny; vydání napadeného usnesení předcházelo vydání „podkladového titulu“, jímž je platební rozkaz Okresního soudu v Karviné ze dne 29.1.1990, č.j. 22 C 6/90-4, který nabyl právní moci dne 20.2.1990, a navržený výkon rozhodnutí částku přiznanou vykonatelným titulem nepřesáhl.
+V dovolání proti usnesení odvolacího soudu povinná namítá, že vymáhanou pohledávku z titulu půjčky v původní výši 5.000,- Kč v době od února do prosince roku 1990 zaplatila. Navrhla, aby „byly tyto věci ověřeny Nejvyšším soudem“.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) věc projednal podle Občanského soudního řádu ve znění účinném do 31.12.2000 - dále jen „o.s.ř.“ (srov. Část dvanáctou, Hlavu I, bod 17. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) a po přezkoumání věci dospěl k závěru, že dovolání bylo podáno opožděně.
+Podle ustanovení § 240 odst. 1 věty první o.s.ř. účastník může podat dovolání do 1 měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Podle ustanovení § 240 odst. 2 o.s.ř. zmeškání lhůty uvedené v odstavci 1 nelze prominout; lhůta je však zachována, bude-li dovolání podáno ve lhůtě u odvolacího nebo dovolacího soudu.
+V posuzovaném případě bylo z obsahu spisu zjištěno, že usnesení odvolacího soudu bylo doručeno oprávněné i povinné dne 20.12.1999. Usnesení odvolacího soudu tak nabylo právní moci dne 20.12.1999 (§ 167 odst. 2, § 159 odst. 1 o.s.ř.) a lhůta k podání dovolání uplynula podle ustanovení § 240, § 243c o.s.ř. a § 57 odst. 1 a 2 o.s.ř. dnem 20.1.2000.
+Jak vyplývá z dokladu o zaslání dovolání (poštovní obálky), bylo dovolání povinné adresované Nejvyššímu soudu v Brně, Burešova 20 (dovolacímu soudu), podáno na poště Bohumín 1 jako doporučená zásilka pod podacím číslem R 024399 dne 24.1.2000. Dovolání bylo tedy podáno po uplynutí zákonné lhůty (§ 240 odst. 1 věta první, 57 odst. 2, 3 o.s.ř.).
+Vzhledem k tomu, že zmeškání dovolací lhůty nelze prominout (§ 240 odst. 2 věta první o.s.ř.), Nejvyšší soud České republiky dovolání povinné podle ustanovení § 243b odst. 4 věty první a § 218 odst. 1 písm. a) o.s.ř. - aniž by se mohl zabývat dalšími okolnostmi - jako opožděné odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243 odst. 4 věty první, § 254 odst. 1, § 224 odst. 1 a § 151 odst. 1 věty první o.s.ř., neboť povinná s ohledem na výsledek dovolacího řízení na náhradu svých nákladů nemá právo a oprávněné v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 27. září 2001
+JUDr. Mojmír P u t n a, v.r.
+předseda senátu
