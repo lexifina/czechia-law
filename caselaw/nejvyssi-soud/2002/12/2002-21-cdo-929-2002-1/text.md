@@ -1,0 +1,16 @@
+21 Cdo 929/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce R. M., proti žalovanému D. P. m. M. a L., a.s., o neplatnost výpovědi z pracovního poměru a o 97.000,- Kč s příslušenstvím, vedené u Okresního soudu v Mostě pod sp. zn. 15 C 1163/99, o dovolání žalobce proti usnesení Krajského soudu v Ústí nad Labem ze dne 10. srpna 2001 č.j. 34 Nc 88/2001-56, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í:
+Žalobce se domáhal, aby bylo určeno, že výpověď z pracovního poměru podle ustanovení § 46 odst. 1 písm. c) zák. práce, kterou mu dal žalovaný dopisem ze dne 15.10.1998, je neplatná, a aby mu žalovaný zaplatil na náhradě mzdy za dobu od 23.4. do 31.12.1999 97.000,- Kč. Žalobu odůvodnil zejména tím, že v písemném vyhotovení výpovědi není výpovědní důvod dostatečně skutkově konkretizován a že proto nelze dovodit, \"o jakou organizační změnu ve skutečnosti jde\".
+Okresní soud v Mostě rozsudkem ze dne 26.1.2000 č.j. 15 C 1163/99-22 žalobu na určení neplatnosti výpovědi a na zaplacení náhrady mzdy ve výši 97.000,- Kč zamítl a rozhodl, že žádný z účastníků nemá právo na náhradu nákladů řízení. Dospěl k závěru, že žalobce se stal v důsledku rozhodnutí žalovaného o snížení stavu zaměstnanců (organizační změně) ze dne 1.9.1998 u žalovaného nadbytečným. Protože žalovaný vůči žalobci splnil svou nabídkovou povinnost podle ustanovení § 46 odst. 2 zák. práce a protože námitka žalobce, že výpovědní důvod nebyl v písemném vyhotovení výpovědi dostatečně skutkově vymezen, není důvodná, je výpověď z pracovního poměru daná žalobci podle ustanovení § 46 odst. 1 písm. c) zák. práce platným právním úkonem.
+K odvolání žalobce Krajský soud v Ústí nad Labem usnesením ze dne 29.1.2001 č.j. 12 Co 437/2000-45 rozsudek soudu prvního stupně zrušil a věc tomuto soudu vrátil k dalšímu řízení. Svoje rozhodnutí odůvodnil tím, že žalobce při jednání před odvolacím soudem dne 29.1.2001 uvedl, že \"v listopadu nebo prosinci 1998 bylo rozhodnuto o tom, že v provozovně L. bude zřízeno pracovní místo řidiče - zavaděče, které by on mohl vykonávat a které mu nebylo nabídnuto\". Protože ke skutkovému závěru o tom, zda žalovaný vůči žalobci splnil svou nabídkovou povinnost ve smyslu ustanovení § 46 odst.2 zák. práce, je třeba \"správnost zmíněného tvrzení žalobce ověřit\", odvolací soud soudu prvního stupně uložil, aby dokazování v tomto směru doplnil.
+Krajský soud v Ústí nad Labem poté usnesením ze dne 10.8.2001 č.j. 34 Nc 88/2001-56 nevyhověl návrhu žalobce na přikázání věci \"jinému soudu\". Dovodil, že podmínky pro přikázání věci ve smyslu ustanovení § 12 o.s.ř. nejsou v posuzovaném případě splněny.
+Proti tomuto usnesení podal žalobce dovolání, které podáním, doručeným soudu prvního stupně dne 18.1.2002, vzal zpět.
+Protože dovolání bylo vzato zcela zpět, Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) dovolací řízení podle ustanovení § 243b odst. 5 věty druhé o.s.ř. dovolací řízení zastavil.
+Vzhledem k tomu, že tímto rozhodnutím se řízení ve věci nekončí, bude i o náhradě nákladů tohoto dovolacího řízení rozhodnuto v konečném rozhodnutí soudu prvního stupně, popřípadě soudu odvolacího.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 10. prosince 2002
+JUDr. Ljubomír Drápal, v. r.
+předseda senátu
