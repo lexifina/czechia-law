@@ -1,0 +1,13 @@
+11 Tdo 1040/2003
+U S N E S E N Í
+Nejvyšší soud České republiky projednal v neveřejném zasedání konaném dne 25. září 2003 dovolání podané M. u. s., a. s., se sídlem v M., V. Ř. 315, proti usnesení státního zástupce Okresního státního zastupitelství v Mostě ze dne 30. 6. 2003, č. j. Zn 2163/2003-5, jako orgánu stížnostního v trestní věci vedené u Policie ČR, Okresního ředitelství v M., Služby kriminální policie a vyšetřování, oddělení hospodářské kriminality pod zn. ČTS:ORMO- 441/KPV-HK-KŘ-2003, a rozhodl t a k t o :
+Podle § 265i odst. 1 písm. a) tr. ř. se dovolání o d m í t á .
+O d ů v o d n ě n í :
+M. u. s., a. s. podala dne 9. 9. 2003 prostřednictvím právního zástupce Mgr. D. B. dovolání proti usnesení státního zástupce Okresního státního zastupitelství v Mostě ze dne 30. 6. 2003, č. j. Zn 2163/2003-5, jímž byla podle § 148 odst. 1 písm. c) tr. ř. jako nedůvodná zamítnuta její stížnost proti usnesení orgánu Policie ČR, Okresního ředitelství v M., Služby kriminální policie a vyšetřování, oddělení hospodářské kriminality ze dne 27. 5. 2003, zn. ČTS:ORMO- 441/KPV-HK-KŘ-2003, o odložení věci podle § 159a odst. 1 tr. ř.
+Nejvyšší soud jako soud dovolací (§ 265c tr. řádu) nejdříve zkoumal, zda jsou v posuzované věci splněny podmínky přípustnosti dovolání podle ustanovení § 265a tr. ř. Podle § 265a odst. 1 tr. ř. lze dovoláním napadnout pouze pravomocné rozhodnutí soudu ve věci samé, jestliže soud rozhodl ve druhém stupni a zákon to připouští. Rozhodnutím ve věci samé se potom podle legální definice rozumí rozhodnutí, jež jsou taxativně vypočtena v ustanoveních § 265a odst. 2 písm. a) až h) tr. ř.
+Dovolatel svým dovoláním nenapadl pravomocné rozhodnutí soudu ve věci samé učiněné ve druhém stupni, nýbrž rozhodnutí státního zástupce jakožto orgánu stížnostního v rámci postupu před zahájením trestního stíhání, konkrétně rozhodnutí o stížnosti proti usnesení policejního orgánu o odložení věci podle § 159a odst. 1 tr. ř. Takové rozhodnutí se však za rozhodnutí ve věci samé ve smyslu ustanovení § 265a odst. 2 tr. ř. nepovažuje a není proto možné je dovoláním napadnout.
+Nejvyšší soud tedy dospěl k závěru, že dovolání M. u. s., a. s. směřuje proti jinému rozhodnutí, než jaké lze dovoláním napadnout. Proto jej podle § 265i odst. 1 písm. a) tr. ř. jako nepřípustné odmítl, aniž se zabýval otázkou, zda případně existují i jiné důvody pro odmítnutí dovolání. V souladu s ustanovením § 265r odst. 1 písm. a) tr. ř. toto rozhodnutí učinil v neveřejném zasedání.
+P o u č e n í : Proti rozhodnutí o dovolání není s výjimkou obnovy řízení opravný prostředek přípustný (§ 265n tr. řádu).
+V Brně dne 25. září 2003
+Předseda senátu:
+JUDr. Karel Hasch
