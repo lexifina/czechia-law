@@ -1,0 +1,16 @@
+11 Tvo 22/2004
+U S N E S E N Í
+Nejvyšší soud projednal v neveřejném zasedání konaném dne 31. 5. 2004 stížnosti obviněných Z. S., a J. S., proti usnesení Vrchního soudu v Praze ze dne 25. 3. 2004, sp. zn. 4 To 38/2004, a rozhodl t a k t o :
+Podle § 148 odst. 1 písm. c) tr. řádu s e stížnosti obviněných Z. S. a J. S. z a m í t a j í .
+O d ů v o d n ě n í :
+Rozsudkem Krajského soudu v Hradci Králové ze dne 13. 2. 2004, sp. zn. 1 T 10/2003, byli obvinění Z. S. a J. S. uznáni vinnými trestným činem podvodu podle § 250 odst. 1, 4 tr. zák. dílem nedokonaným ve stadiu pokusu podle § 8 odst. 1 tr. zák. a obviněný Z. S. uznán vinným trestným činem podvodu podle § 250 odst. 1, 2 tr. zák. a oba odsouzeni k nepodmíněnému trestu odnětí svobody v trvání pěti roků, pro jeho výkon byli zařazeni do věznice s dozorem, k trestu zákazu činnosti a k povinnosti nahradit škodu. Stejným rozsudkem bylo rozhodnuto o vině a trestu obviněného L. K.
+Proti tomuto rozsudku podali všichni obvinění odvolání a trestní věc se v době rozhodování o vazbě obviněných Z. S. a J. S. nacházela ve stadiu odvolacího řízení před Vrchním soudem v Praze.
+Vrchní soud v Praze usnesením ze dne 25. 3. 2004, sp. zn. 4 To 38/2004, podle § 71 odst. 6, 7 tr. řádu ponechal obviněné Z. S. a J. S. i nadále ve vazbě, podle § 72 odst. 3 tr. řádu zamítl žádosti obou obviněných o propuštění z vazby a podle § 73 odst. 1 písm. b) tr. řádu nepřijal ani jejich písemné sliby.
+Proti tomuto usnesení podali obvinění Z. S. a J. S. stížnosti, které v podstatě shodně odůvodnili poukazem na to, že důvod vazby podle § 67 písm. c) tr. řádu u nich od počátku trestního stíhání není dán, a proto navrhli, aby napadené usnesení vrchního soudu bylo zrušeno a oni byli propuštěni z vazby na svobodu.
+Nejvyšší soud z podnětu podaných stížností přezkoumal podle § 147 odst. 1 tr. řádu správnost napadeného rozhodnutí i řízení, které mu předcházelo, a dospěl k tomuto závěru.
+Oba obvinění jsou stíháni pro závažnou a rozsáhlou majetkovou trestnou činnost. O důvodnosti jejich vazby bylo v průběhu dosavadního řízení několikrát rozhodováno, naposledy usnesením Vrchního soudu v Praze ze dne 25. 3. 2004, kterým byli podle § 71 odst. 6, 7 tr. řádu i nadále ponecháni z důvodu § 67 písm. c) tr. řádu ve vazbě, a kterým byly dále podle § 72 odst. 3 tr. řádu zamítnuty jejich žádosti o propuštění z vazby a podle § 73 odst. 1 písm. b) tr. řádu nebyly přijaty ani jejich písemné sliby. Rozsudkem soudu prvního stupně byli oba obvinění uznáni vinnými žalovanými trestnými činy a protože jde o rozhodnutí nepravomocné, jsou stále ohroženi vysokým trestem. Hrozba trestu, spolu s charakterem a rozsahem žalované trestné činnosti, činí obavu, že by na svobodě trestnou činnost, pro níž jsou stíháni, opakovali, zcela reálnou. Za tohoto stavu je možno se ztotožnit s rozhodnutím vrchního soudu a na jeho odůvodnění lze v podrobnostech plně odkázat.
+V současné době jsou ovšem úvahy o důvodnosti vazby obviněných Z. S. a J. S. zbytečné, protože usnesením Vrchního soudu v Praze ze dne 22. 4. 2004 byla trestní věc obviněných pravomocně skončena a oni byli převedeni z vazby do výkonu trestu odnětí svobody.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 31. května 2004
+Předseda senátu:
+JUDr. Pavel Kučera
