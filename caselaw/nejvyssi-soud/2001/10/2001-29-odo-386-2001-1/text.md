@@ -1,0 +1,17 @@
+29 Odo 386/2001-75
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce Ing. V. M., proti žalovaným 1) Č.I.H., a.s., a 2) F.E.L., o vyslovení neplatnosti opční smlouvy, vedené u Městského soudu v Praze pod sp. zn. 47 Cm 162/99, o dovolání žalobce proti usnesení Vrchního soudu v Praze ze dne 12. září 2000, čj. 7 Cmo 730/2000-48, takto:
+Dovolání se odmítá.
+Odůvodnění:
+Napadeným usnesením potvrdil odvolací soud usnesení ze dne 24.5.2000, čj. 47 Cm 162/99-37, kterým Krajský obchodní soud v Praze zamítl návrh na nařízení předběžného opatření, jímž by bylo 2) žalované zakázáno nakládat s 384.971 ks akcií společnosti K., a.s., I. C. 0009048955, zejména je zcizit či zatížit a S.c.p. zakázáno převést či zatížit uvedený počet akcií evidovaných v majetku 2) žalované.
+Žalobce zastoupený advokátem podal proti usnesení odvolacího soudu včas dovolání. Pokud jde o přípustnost dovolání odkazuje žalobce na to, že o přípustnost dovolání s ohledem na řešení otázky zásadního právního významu požádal již v průběhu odvolacího řízení. Uplatňuje tedy přípustnost dle ustanovení § 239 občanského soudního řádu (dále též jen „o. s. ř.“). V odůvodnění dovolání žalobce napadá postup soudů obou stupňů, které svůj závěr, že nejsou splněny podmínky pro nařízení jím požadovaného předběžného opatření, založily na tom, že žalobce neosvědčil existenci svého naléhavého právního zájmu na určení neplatnosti opční smlouvy, jež je základním předpokladem úspěšnosti žaloby dle § 80 písm. c) o. s. ř. V řízení o nařízení předběžného opatření tak vyslovily závěr, jež má dopad do řízení ve věci samé, aniž by byl zjišťován skutkový stav ve věci samé, z něhož by neosvědčení naléhavého právního zájmu vyplývalo.
+Podle části dvanácté, hlavy první, bodu 17. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (to jest podle občanského soudního řádu ve znění účinném před 1. lednem 2001).
+Dovolání není přípustné.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+V případě dovolání proti usnesení odvolacího soudu, je třeba posuzovat přípustnost dovolání podle ustanovení § 237, 238a a § 239 o. s. ř.
+Podle ustanovení § 238a odst. 1 písm. a) o. s. ř. není dovolání přípustné, protože odvolací soud rozhodnutí soudu prvního stupně nezměnil, ale potvrdil. Napadené rozhodnutí nelze podřadit ani případům vyjmenovaným v § 238a odst. 1 písm. b) až f) o. s. ř. Podmínky stanovené v § 239 o. s. ř. daná věc také nesplňuje, neboť rozhodnutí o nařízení předběžného opatření není rozhodnutím ve věci samé. Zbývá tedy posoudit podmínky přípustnosti určené v ustanovení § 237 o. s. ř. Vady řízení ve smyslu tohoto ustanovení, k nímž je povinen dovolací soud přihlížet z úřední povinnosti (§ 242 odst. 3 o. s. ř.) a jejichž existence činí zmatečným (s výjimkami zakotvenými v § 237 odst. 2 o. s. ř.) každé rozhodnutí odvolacího soudu, dovoláním namítány nejsou a z obsahu spisu rovněž nevyplývají.
+Nejvyšší soud proto, aniž by nařizoval jednání (§ 243a odst. 1 věta první o. s. ř.), dovolání podle § 243b odst. 4 a § 218 odst. 1 písm. c) o. s. ř. usnesením odmítl.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 25. října 2001
+JUDr. Ivana Š t e n g l o v á, v. r.
+předsedkyně senátu
