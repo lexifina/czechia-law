@@ -1,0 +1,23 @@
+29 Odo 390/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobkyně M. P., proti žalovanému J. Z., o zaplacení směnečné pohledávky ve výši 1,200.000,- Kč s příslušenstvím, vedené u Městského soudu v Praze pod sp. zn. 50 Cm 103/2000, o dovolání žalovaného proti usnesení Vrchního soudu v Praze ze dne 30. července 2001, č.j. 9 Cmo 516/2000-13, takto:
+I. Dovolání se odmítá.
+II. Žalovaný je povinen zaplatit žalobkyni na náhradě nákladů dovolacího řízení částku 7.575,- Kč do tří dnů od právní moci tohoto usnesení, k rukám jejího zástupce.
+O d ů v o d n ě n í :
+Krajský obchodní soud v Praze rozsudkem ze dne 5. dubna 2000, č.j. 50 Cm 103/2000-7, uložil žalovanému zaplatit žalobkyni 1,200.000,- Kč s 6% úrokem ode dne 30. července 1999 do zaplacení, vše do tří dnů od právní moci rozsudku, žalobu ve zbylé části zamítl a rozhodl o nákladech řízení.
+Vrchní soud v Praze shora označeným usnesením potvrdil rozsudek soudu prvního stupně v odvoláním napadené části výroku, v níž byla žalovanému stanovena 3 denní lhůta pro zaplacení celé vymáhané částky a ve výroku o náhradě nákladů řízení a současně rozhodl i o náhradě nákladů odvolacího řízení. Žalovaný se přitom v odvolání domáhal, aby mu bylo povoleno plnění ve splátkách.
+Žalovaný napadl dovoláním usnesení odvolacího soudu v celém rozsahu, když jeho přípustnost spatřoval v naplnění podmínek ustanovení § 237 odst. 1 písm. c) občanského soudního řádu (dále též jen „o. s. ř.“) ve znění účinném od 1. ledna 2001 a za dovolací důvod označil podle § 241a odst. 2 písm. b) o. s. ř. téhož znění nesprávné právní posouzení věci, která má podle jeho názoru po právní stránce zásadní význam. V dovolání snesl důvody, jimiž zdůvodňoval nesprávnost právního posouzení věci odvolacím soudem a navrhl, aby dovolací soud napadené usnesení Vrchního soudu v Praze i shora citovaný rozsudek bývalého Krajského obchodního soudu v Praze, který mu předcházel, zrušil a věc vrátil Městskému soudu v Praze k dalšímu řízení.
+Žalobkyně ve vyjádření k dovolání poukázala na nedůvodnost podaného dovolání, když uvedla argumenty, pro které považuje jak napadené usnesení odvolacího soudu, tak i rozsudek soudu prvního stupně, za správné.
+Podle bodu 17., hlavy I., části dvanácté, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (tj. podle občanského soudního řádu ve znění účinném před 1. lednem 2001). O takový případ jde i v této věci, jelikož odvolací soud věc ve shodě s bodem 15., hlavy I. části dvanácté zákona č. 30/2000 Sb. rovněž projednal podle dosavadního znění občanského soudního řádu, jak sám výslovně zmínil v důvodech usnesení.
+Dovolání není v této věci přípustné.
+Podle § 236 odst. 1 o. s. ř. dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti usnesení odvolacího soudu, které není vydáno ve věci samé, je upravena v ustanoveních § 237 a § 238a o. s. ř.
+Vady řízení ve smyslu § 237 odst. 1 o. s. ř., k nimž dovolací soud přihlíží z úřední povinnosti (§ 242 odst. 3 o. s. ř.) a jejichž existence činí zmatečným (s výjimkami uvedenými v odstavci druhém) každé rozhodnutí odvolacího soudu, dovoláním namítány nejsou a z obsahu spisu se nepodávají.
+Podle § 238a odst. 1 písm. a) o. s. ř. není dovolání přípustné proto, že usnesení odvolacího soudu nebylo usnesením měnícím, nýbrž potvrzujícím a napadené rozhodnutí nelze podřadit ani případům vyjmenovaným v § 238a odst. 1 o. s. ř. pod písmeny b) až f).
+Tento závěr s sebou nese konečné posouzení podaného dovolání jako nepřípustného. Nejvyšší soud je proto, aniž nařizoval jednání (§ 243a odst. 1 věta první o. s. ř.), podle § 243b odst. 4 a § 218 odst. 1 písm. c) o. s. ř. usnesením odmítl.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanoveními § 243b odst. 4, § 224 odst. 1 a § 146 odst. 2 věty první (per analogiam) o. s. ř. Náklady dovolacího řízení vzniklé žalobkyni sestávají ze sazby odměny za zastupování advokátem v částce 7.500,- Kč podle § 3 odst. 1, § 10 odst. 3, § 14 odst. 1, § 15 a § 18 vyhlášky č. 484/2000 Sb. ve znění pozdějších předpisů a z paušální částky 75,- Kč za jeden úkon právní pomoci (vyjádření k dovolání) podle § 13 odst. 3 vyhlášky č. 177/1996 Sb. ve znění pozdějších předpisů.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+Nesplní-li povinný dobrovolně, co mu ukládá vykonatelné rozhodnutí, může se oprávněná domáhat výkonu rozhodnutí.
+V Brně 25. září 2002
+JUDr. Ivana Štenglová, v.r.
+předsedkyně senátu
