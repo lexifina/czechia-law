@@ -1,0 +1,16 @@
+11 Tvo 30/2002
+U S N E S E N Í
+Nejvyšší soud projednal v neveřejném zasedání konaném dne 29. 4. 2002 stížnost obviněného O. J., proti usnesení Vrchního soudu v Praze ze dne 10. 4. 2002, sp. zn. 8 To 56/02, a rozhodl t a k t o :
+Podle § 148 odst. 1 písm. c) tr. řádu s e stížnost obviněného O. J. z a m í t á.
+O d ů v o d n ě n í :
+Rozsudkem Krajského soudu v Plzni ze dne 12. 3. 2002, sp. zn. 4 T 19/2001, byl obviněný O. J. uznán vinným trestným činem vraždy podle § 219 odst. 1 tr. zák a trestným činem krádeže podle § 247 odst. 1, odst. 2 tr. zák a odsouzen k úhrnnému nepodmíněnému trestu odnětí svobody v trvání dvanácti roků se zařazením do věznice s ostrahou. Dále mu byla uložena povinnost nahradit způsobenou škodu.
+Proti tomuto rozsudku podal obviněný odvolání a trestní věc se v současné době nachází ve stadiu odvolacího řízení před Vrchním soudem v Praze.
+Usnesením Vrchního soudu v Praze ze dne 10. 4. 2002, sp. zn. 8 To 56/02, byl podle § 71 odst. 4, odst. 6, odst. 7 tr. řádu obviněný O. J. ponechán i nadále ve vazbě z důvodu uvedeného v § 67 písm. a) tr. řádu.
+Proti tomuto usnesení podal obviněný v zákonné lhůtě stížnost, kterou zdůvodnil tím, že přes závažnost jednání, za které je stíhán, neexistují důvody, pro něž by měl být stíhán vazebně. Poukazuje přitom na svoji bezúhonnost a dosavadní bezproblémový život. Má za to, že pravým důvodem vazby je represe vůči jeho osobě. Ze všech uvedených důvodů navrhuje, aby bylo napadené usnesení zrušeno a aby byl propuštěn z vazby na svobodu.
+Nejvyšší soud z podnětu podané stížnosti přezkoumal v rozsahu § 147 odst. 1 tr. řádu správnost napadeného usnesení, jakož i řízení, které mu předcházelo, a dospěl k tomuto závěru.
+Postup Vrchního soudu v Praze podle § 71 odst. 4, odst. 6, odst. 7 tr. řádu poté, co mu trestní věc obviněného byla předložena k projednání odvolání, je nutno považovat za správný, odpovídající potřebě šetřit v pravidelných intervalech důvodnost vazby. Vrchní soud ve svém rozhodnutí zohlednil důvodnost dosavadní vazby obviněného i důvodnost vazby obviněného pro dobu dalšího řízení. Obviněný je ve vazbě od zahájení trestního stíhání z důvodů § 67 písm. a) tr. řádu a na důvodech vazby se po celou dobu trestního řízení nic nezměnilo. Obviněný je stíhán pro závažný násilný trestný čin a nejen s ohledem na trest, který mu za jeho spáchání hrozí, ale i s ohledem na dosavadní způsob života trvá důvodná obava, že by se na svobodě dalšímu trestnímu stíhání, případě trestu, vyhýbal. V tomto směru se lze zcela ztotožnit se zdůvodněním napadeného rozhodnutí a v podrobnostech na ně odkázat. Bez významu v této souvislosti není, že odvolací řízení je před Vrchním soudem v Praze nařízeno už na 22. 5. 2002. Tato skutečnost, spolu se zjištěným postupem soudů obou stupňů v dosavadním průběhem trestního řízení, svědčí o tom, že až dosud celé řízení probíhá bez zbytečných průtahů.
+Ze všech uvedených důvodů vyplývá, že další trvání vazby obviněného je důvodné a nutné, a proto se jeho stížnost nemohla shledat s úspěchem a nezbylo, než o ní rozhodnout, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 29. dubna 2002
+Předseda senátu:
+JUDr. Pavel Kučera
