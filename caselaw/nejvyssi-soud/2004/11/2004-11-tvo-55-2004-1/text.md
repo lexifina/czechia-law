@@ -1,0 +1,17 @@
+11 Tvo 55/2004
+U S N E S E N Í
+Nejvyšší soud projednal v neveřejném zasedání konaném dne 24. listopadu 2004 stížnost obviněného J. J., proti usnesení Vrchního soudu v Olomouci ze dne 26. 10. 2004, sp. zn. 5 To 110/2004, a rozhodl t a k t o:
+Podle § 148 odst. 1 písm. c) tr. řádu s e stížnost obviněného J. J. z a m í t á .
+O d ů v o d n ě n í :
+Rozsudkem Krajského soudu v Brně ze dne 9. 6. 2004, sp. zn. 40 T 2/2004, byl obviněný J. J. uznán vinným trestným činem loupeže podle § 234 odst. 1, 2 písm. a), odst. 3 tr. zák. ve stadiu přípravy podle § 7 odst. 1 tr. zák. a odsouzen k nepodmíněnému trestu odnětí svobody v trvání deseti a půl roku, pro jehož výkon byl zařazen do věznice s ostrahou, a k povinnosti nahradit škodu. Stejným rozsudkem bylo rozhodnuto o vině a trestu obviněných I. H., O. H., I. H., M. J., M. S. a T. M.
+Proti tomuto rozsudku podali všichni obvinění odvolání a trestní věc obviněného J. J. se v současné době nachází ve stadiu odvolacího řízení před Vrchním soudem v Olomouci.
+V průběhu odvolacího řízení požádal obviněný J. J. o propuštění z vazby na svobodu, kdy současně navrhl nahrazení jeho vazby nabídnutým písemným slibem nebo dohledem probačního úředníka.
+Vrchní soud v Olomouci usnesením ze dne 26. 10. 2004, sp. zn. 5 To 110/2004, podle § 72 odst. 3 tr. řádu žádost obviněného o propuštění z vazby zamítl a podle § 73 odst. 1 písm. b), c) tr. řádu nepřijal nabízený písemný slib obviněného ani dohled probačního úředníka.
+Proti tomuto usnesení podal obviněný J. J. stížnost, v níž poukazuje na bezdůvodnost své vazby a navrhl, aby Nejvyšší soud jeho žádosti o propuštění z vazby vyhověl a propustil ho na svobodu.
+Nejvyšší soud z podnětu podané stížnosti přezkoumal podle § 147 odst. 1 tr. řádu správnost napadeného rozhodnutí i řízení, které mu předcházelo, a dospěl k tomuto závěru.
+Obviněný J. J. byl vzat do vazby usnesením Městského soudu v Brně ze dne 14. 2. 2003, sp. zn. 70 Nt 3563/2003, ve spojení s usnesením Krajského soudu v Brně ze dne 20. 3. 2003, sp. zn. 9 To 144/2003, z důvodů uvedených v § 67 písm. a), b), c) tr. řádu. V průběhu dalšího řízení u obviněného koluzní vazební důvod odpadl a v současné době je ve vazbě již jen z důvodů vazby útěkové a předstižné. O důvodnosti vazby obviněného bylo několikrát rozhodováno, naposledy usnesením Vrchního soudu v Praze ze dne 26. 10. 2004, kterým byla zamítnuta jeho žádost o propuštění z vazby na svobodu a nebyly přijaty jím nabízené náhrady vazby. Rozsudkem soudu prvního stupně byl obviněný uznán vinným závažným trestným činem a protože jde o rozhodnutí nepravomocné, je stále ohrožen vysokým trestem. Hrozba trestu, spolu s dosavadním způsobem života obviněného, spočívajícím zejména v tom, že se nezdržoval na nahlášené adrese, a také v tom, že byl v minulosti pro majetkovou trestnou činnost opakovaně soudně trestán, činí obavu z vyhýbání se trestnímu řízení, ať již tím, že by mohl uprchnout, nebo tím, že by se mohl skrývat, stejně jako obavu z opakování trestné činnosti, i nadále reálnou. Za tohoto stavu je možno se ztotožnit se všemi předchozími vazebními rozhodnutími, včetně napadeného usnesení Vrchního soudu v Olomouci a na jeho podrobné odůvodnění lze plně odkázat.
+Trestní řízení proti obviněnému trvá zatím dobu, která je přiměřená náročnosti projednávané věci, žádné nepřiměřené průtahy během tohoto řízení nebyly zjištěny.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 24. listopadu 2004
+Předseda senátu:
+JUDr. Pavel Kučera
