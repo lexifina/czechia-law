@@ -1,0 +1,25 @@
+33 Odo 448/2002
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci žalobce m. P., proti žalovanému M. K., o zaplacení částky 51 292 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 3 pod sp. zn. 5 C 215/2000, o dovolání žalovaného proti rozsudku Městského soudu v Praze ze dne 16. listopadu 2001 č. j. 18 Co 346/01-36, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 3 rozsudkem ze dne 21. prosince 2000 č. j. 5 C 215/2000-17 uložil žalovanému, aby zaplatil žalobci částku 51 292 Kč s 10% úrokem z prodlení od 2. 12. 1999 do zaplacení, a rozhodl o náhradě nákladů řízení.
+K odvolání žalovaného Městský soud v Praze rozsudkem ze dne 16. listopadu 2001 č. j. 18 Co 346/01-36 rozsudek soudu prvního stupně potvrdil ve vyhovujícím výroku o věci samé co do částky 51 292 Kč s 10% úrokem z částky 46 706 Kč od 2. 12. 1999 do 26. 6. 2000 a s 10% úrokem z částky 51 292 Kč od 27. 6. 2000 do zaplacení a ve výroku o nákladech řízení. V části výroku týkající se úroků z prodlení ve výši 10 % z částky 4 586 Kč od 2. 12. 1999 do 26. 6. 2000 rozsudek soudu prvního stupně změnil tak, že žalobu v tomto rozsahu zamítl. Odvolací soud též rozhodl o náhradě nákladů odvolacího řízení.
+Proti rozsudku odvolacího soudu podal žalovaný dovolání, přičemž namítl, že rozsudek odvolacího soudu spočívá na nesprávném právním posouzení věci. Žalovaný navrhl, aby Nejvyšší soud zrušil rozsudek odvolacího soudu a věc mu vrátil k dalšímu řízení.
+Podle ustanovení části dvanácté hlavy I bodu 17 zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, se dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona (1. 1. 2001) nebo vydaným po řízení provedeném podle dosavadních právních předpisů projednají a rozhodnou podle dosavadních právních předpisů (tj. podle občanského soudního řádu ve znění účinném do 31. 12. 2000, dále jen „o. s. ř.“). Tak je tomu i v dané věci, kdy byl rozsudek odvolacího soudu vydán po řízení provedeném podle dosavadních právních předpisů, tedy podle o. s. ř. ve znění platném do 31. 12. 2000.
+Podle části dvanácté hlavy I bodu 15 zákona č. 30/2000 Sb. se totiž odvolání proti rozhodnutím soudu prvního stupně vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů projednají a rozhodnou podle dosavadních právních předpisů. V posuzované věci byl rozsudek soudu prvního stupně vydán dne 21. prosince 2000.
+Dovolání v této věci není přípustné.
+Dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští ( § 236 odst. 1 o. s. ř.).
+Proti potvrzujícímu rozsudku odvolacího soudu je dovolání přípustné za podmínek uvedených v § 238 odst. 1 písm. b) o. s. ř. a v § 239 o. s. ř.
+Podle § 238 odst. 1 písm. b) o. s. ř. je dovolání přípustné proti rozsudku odvolacího soudu, jímž byl potvrzen rozsudek soudu prvního stupně, kterým soud prvního stupně rozhodl jinak než v dřívějším rozsudku proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil. O takový případ se v posuzované věci nejedná.
+Dovolání v tomto případě není přípustné proti rozsudku odvolacího soudu, pokud jím byl zčásti potvrzen rozsudek soudu prvního stupně, ani podle § 239 odst. 1 o. s. ř., neboť odvolací soud ve výroku svého potvrzujícího rozsudku nepřipustil možnost podání dovolání, a není v tomto rozsahu přípustné ani podle § 239 odst. 2 o. s. ř., neboť žalovaný před vyhlášením rozsudku odvolacího soudu nenavrhl, aby dovolání bylo odvolacím soudem připuštěno.
+Za situace, kdy z obsahu spisu nevyplývá, že by rozsudek odvolacího soudu trpěl některou z vad uvedených v ustanovení § 237 odst. 1 o. s. ř., přičemž ani dovolatel netvrdí, že by řízení těmito vadami trpělo, je nepochybné, že dovolání žalovaného, pokud je jím napadán potvrzující výrok rozsudku odvolacího soudu, směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný.
+Dovolání žalovaného však není přípustné ani v části, ve které odvolací soud změnil rozsudek soudu prvního stupně tak, že žalobu zčásti zamítl.
+V tomto rozsahu není dána subjektivní přípustnost dovolání. K podání dovolání je totiž oprávněn pouze ten účastník, v jehož poměrech rozhodnutím odvolacího soudu nastala újma, odstranitelná tím, že dovolací soud toto rozhodnutí zruší. Částečným zamítnutím žaloby však dovolateli žádná újma nenastala.
+Nejvyšší soud České republiky proto dovolání žalovaného - aniž by se mohl věcí dále zabývat - podle ustanovení § 243b odst. 4 věty první a § 218 odst. 1 písm. c) o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn § 243b odst. 4 ve spojení s § 224 odst. l, § 151 odst. 1 a § 142 odst. 1 o. s. ř. když úspěšnému žalobci žádné náklady dovolacího řízení nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 26. června 2002
+JUDr. Zdeněk Des, v.r.
+předseda senátu
