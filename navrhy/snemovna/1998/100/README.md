@@ -1,0 +1,29 @@
+**Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.**
+
+# Sněmovní tisk 100 (3. volební období, 1998)
+
+Návrh poslanců Milana Zuny a dalších na vydání zákona, kterým se mění zákon České národní rady č. 565/1990 Sb., o místních poplatcích, ve znění pozdějších předpisů
+
+- Kind: Návrh zákona
+- Initiator: Skupina poslanců (Milan Zuna, Josef Jalůvka, Radim Chytka a další) (skupina poslanců)
+- Presented by (psp.cz): Zuna Milan a další
+- Submitted: 1999-01-12
+- History on psp.cz: <https://www.psp.cz/sqw/historie.sqw?o=3&t=100>
+- Steps and votes: `navrhy/data/bill-stages.csv`, `navrhy/data/votes/`
+
+## Versions
+
+Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the day psp.cz distributed it to MPs.
+
+| Day | Print | What | Files |
+| --- | --- | --- | --- |
+| 1999-01-13 | 100/0 | Návrh zákona |  |
+
+## Not held as text
+
+| Print | Document | Official file | Why |
+| --- | --- | --- | --- |
+| 100/0 | Návrh zákona | [t010000.doc](https://www.psp.cz/sqw/text/orig2.sqw?idd=27838) | text extraction not verified |
+| 100/0 | Návrh zákona | [t0100a0.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=113255) | scanned, no text layer (OCR pending) |
+
+Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
