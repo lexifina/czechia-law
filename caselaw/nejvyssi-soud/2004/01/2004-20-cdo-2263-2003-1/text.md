@@ -1,0 +1,20 @@
+28 Cdo 2263/2003
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobců A) právních nástupců původní žalobkyně L. B., a to a/ C. B., b/ C. B., c) V. N., a d) E. Š., a B) F. V., proti žalovaným 1) Zemědělskému družstvu V. O., družstvo v konkurzu, a 2) V. z., akciové společnosti, o náhradu živého a mrtvého inventáře, vedené u Okresního soudu v Blansku pod sp.zn. 5 C 698/93, o dovolání žalobců proti rozsudku Krajského soudu v Brně ze dne 2.9.2002, čj. 44 Co 535/99-112, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Brně v odvolacím řízení potvrdil jen v části, týkající se druhého žalovaného, rozsudek Okresního soudu v Blansku ze dne 17.11.1998, jímž byl zamítnut návrh žalobců L. B. a F. V. na náhradu živého a mrtvého inventáře vůči oběma žalovaným. V průběhu odvolacího řízení bylo totiž zjištěno, že ohledně prvého žalovaného probíhá konkursní řízení.
+Žalobci podali proti tomuto rozsudku dne 4.2.2003 dovolání, jehož přípustnost odůvodňovali ustanovením § 237 odst. 1 písm.c) OSŘ a jako dovolací důvod uváděli nesprávné právní posouzení věci odvolacím soudem ve smyslu § 241a odst. 2 písm.b) OSŘ - obojí citace OSŘ je ve znění platném od 1.1.2001. Odvolací soud nesprávně podle nich usoudil na nedostatek splnění podmínky k poskytnutí náhrady za živý a mrtvý inventář se strany žalobců, a to zajišťování zemědělské výroby. Navrhli, aby rozsudek odvolacího soudu byl zrušen a věc mu byla vrácena k dalšímu řízení.
+Žalovaní se k dovolání nevyjádřili.
+Po podání dovolání, dne 26.2.2003, žalobkyně Libuše Blahová zemřela a jejími právními nástupci se stali manžel C. B. a děti C. B., V. N. a E. Š. Podle obsahu spisu Okresního soudu ve Znojmě ze sp.zn. 13 D 282/2003, nikdo z dědiců dědictví neodmítl a podle dohody dědiců převzal \"majetek jak náleží do dědictví\" pozůstalý manžel C. B., přičemž pohledávka z titulu náhrady za živý a mrtvý inventář nebyla pojata do obsahu aktiv dědictví. Všichni dědici proto ve smyslu § 107 odst. 3 OSŘ ve znění platném do 31.12.2000 jsou procesními nástupci žalobkyně L. B.
+Podle části dvanácté, hlavy první, bodu 17 zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, se dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona, nebo vydaným po řízení provedením podle dosavadních právních předpisů, projednají a rozhodnou podle dosavadních právních předpisů, tj. podle občanského soudního řádu ve znění účinném před 1.1.2001 (dále jen „OSŘ“).
+V dané věci proběhlo řízení před soudem prvního stupně, včetně vydání rozsudku, za účinnosti OSŘ ve znění platném do 31.12.2000, a proto i dovolací řízení se řídí jeho ustanoveními v tomto znění, včetně ustanovení o přípustnosti dovolání, jak jsou uvedena v § 237 až § 249 OSŘ.
+Dovolání splňuje náležitosti stanovené v § 241 OSŘ, nelze je však věcně projednat.
+Podle § 236 odst. 1 OSŘ je dovolání přípustné jen pokud to připouští zákon. Ve věci nebyly zjištěny okolnosti, které by svědčily procesním vadám, jež mají za následek zmatečnost řízení (§ 237 odst. 1 OSŘ), a napadeným rozsudkem odvolacího soudu byl potvrzen rozsudek soudu prvního stupně, kterým tento soud rozhodl ve věci poprvé. Nepřichází proto v úvahu aplikace § 238 odst. 1 písm.a) nebo b) OSŘ. Odvolací soud svým rozhodnutím dovolání proti svému rozsudku nepřipustil (§ 239 odst. 1 OSŘ) a žalobci ani nenavrhli v průběhu odvolacího řízení, aby dovolání bylo připuštěno (§ 239 odst. 2 OSŘ).
+Dovolací soud proto dospěl k závěru, že není splněna žádná ze skutečností, zakládajících přípustnost dovolání, a podle § 243b odst. 4 a § 118 odst. 1 písm.c) OSŘ dovolání odmítl jako nepřípustné.
+Výrok o nákladech řízení je dán tím, že žalovaným, kteří by s ohledem na výsledek dovolacího řízení měli nárok na náhradu jeho nákladů, prokazatelné náklady tohoto řízení nevznikly (§ 243b odst. 4, § 224 odst. 1, § 142 odst. 1 OSŘ).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 22. ledna 2004
+JUDr. Josef Rakovský, v.r.
+předseda senátu
