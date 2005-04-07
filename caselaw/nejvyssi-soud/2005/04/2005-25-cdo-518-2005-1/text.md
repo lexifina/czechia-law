@@ -1,0 +1,24 @@
+25 Cdo 518/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marty Škárové a soudců JUDr. Ing. Jana Huška a JUDr. Petra Vojtka v právní věci žalobce Prof. Mgr. V. L. proti žalovaným, označeným jako 1) Stát ČR, 2) ZD – Zemědělské družstvo, V., 3) ONV K., 4) Zpč. KNV P., 5) Zpč. státní lesy P., p. ř., 6) Ministerstvo LVH, o neúplném návrhu, vedeném u Okresního soudu v Klatovech pod sp. zn. 4 C 29/2003, o dovolání žalobce proti usnesení Krajského soudu v Plzni ze dne 31. 3. 2004, č. j. 13 Co 749/2003-22, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Klatovech usnesením ze dne 8. 9. 2003, č. j. 4 C 29/2003-16, odmítl žalobu datovanou 6. 11. 2002, ve znění doplnění datovaného 17. 4. 2003, a rozhodl o náhradě nákladů řízení.
+K odvolání žalobce Krajský soud v Plzni usnesením ze dne 31. 3. 2004, č. j. 13 Co 749/2003-22, usnesení soudu prvního stupně potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Proti tomuto rozhodnutí podal žalobce dovolání, v němž označuje rozhodnutí soudu prvního a druhého stupně za „irelevantní, šikanózní, účelová, v rozporu s dobrými mravy, proti základním lidským právům a pro vadné posouzení, právně nezpůsobilé a nadržující bez právního důvodu škůdcům a zlodějům, atd.“ Uvádí, že se jedná o věc křivd spáchaných žalovanými pro podvod a falšování podpisu jeho strýce F. L., který v té době již byl zbaven způsobilosti k právním úkonům, na Hospodářské smlouvě zn. Fin. Rp 2634, podepsané dne 22. 9. 1982 v K. Navrhl, aby soud po provedeném řízení uložil Státu Česká republika povinnost zaplatit žalobci způsobenou škodu ve výši finanční dlužné částky 20,000.000,- Kč včetně účelně vynaložených výloh a výdajů do tří dnů od pravomoci tohoto rozsudku k rukám oprávněného žalobce prof. V. L.
+Usnesením Okresního soudu v Klatovech ze dne 6. 10. 2004, č. j. 4 C 29/2002-29, které bylo žalobci doručeno dne 6. 12. 2004, byl žalobce vyzván, aby si ve lhůtě 21 dnů zvolil zástupcem advokáta a aby jeho prostřednictvím podal řádné dovolání, pokud má sám právnické vzdělání, aby založil doklad o absolvování studia v ověřené kopii, s tím, že pokud tak ve stanovené lhůtě neučiní, dovolací řízení bude zastaveno.
+Žalobce nijak nereagoval.
+Nejvyšší soud jako soud dovolací (§10a o. s. ř.) dospěl k závěru, že nejsou splněny podmínky dovolacího řízení.
+Podle ust. § 241 odst. l, věty první, o. s. ř. není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem.
+Podle ust. § 241 odst. 2 o. s . ř. odstavec 1 neplatí, a) je-li dovolatelem fyzická osoba, která má právnické vzdělání, b) je-li dovolatelem právnická osoba, stát, obec nebo vyšší územně samosprávný celek, jedná-li za ně osoba uvedená v § 21, 21a, anebo v § 21b, která má právnické vzdělání.
+Podle ust. § 241 odst. 3 o. s. ř. odstavec 1 neplatí také tehdy, je-li dovolatelem obec, kterou zastupuje stát podle § 26a, jedná-li jménem státu za zastoupenou obec osoba uvedená v § 26a odst. 3, která má právnické vzdělání.
+Podle ust. § 241 odst. 4 o. s. ř. dovolání musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem, notářem nebo osobou uvedenou v § 21, 21a, 21b, anebo v § 26a odst. 3, která má právnické vzdělání.
+Pro podání dovolání, které je mimořádným opravným prostředkem, zákon stanoví požadavek, aby účastník řízení, který podává dovolání, měl buď sám právnické vzdělání, nebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc. Ustanovení § 241 o. s. ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejího splnění nelze o dovolání rozhodnout.
+Žalobce sice na svých podáních užívá otisk razítka s nápisem „Prof. Mgr. V. L. – advokát…“ avšak z obsahu jeho podání je zřejmé, že jej podává jako fyzická osoba, nikoli jako advokát, navíc žalobce není zapsán v seznamu advokátů vedeném Českou advokátní komorou. Na dovolání se pak označil jako advokát „Slova Božího, Pravdy, Lásky a Spravedlnosti, etc…“. Přestože byl žalobce poučen o povinném právním zastoupení v dovolacím řízení, advokáta si ani po řádně doručené výzvě soudu nezvolil a ani nedoložil, že by měl právnické vzdělání.
+Protože nedostatek podmínky dovolacího řízení podle ust. § 241 odst. 1 věty první o. s. ř. nebyl ani přes poučení odstraněn, Nejvyšší soud řízení o dovolání žalobce podle § 243c odst. 1 a § 104 odst. 2 věty třetí o. s. ř. zastavil, aniž bylo třeba se zabývat otázkou dalších náležitostí podaného dovolání.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, § 224 odst. l a § 146 odst. 1 písm. c) o. s. ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 7. dubna 2005
+JUDr. Marta Škárová, v.r.
+předsedkyně senátu
