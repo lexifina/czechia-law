@@ -1,0 +1,16 @@
+26 Cdo 694/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně Doc. JUDr. Věry Korecké, CSc., a soudců JUDr. Roberta Waltra a JUDr. Miroslava Feráka ve věci žalobce města B., zastoupeného advokátkou, proti žalovanému T. K., o přivolení k výpovědi z nájmu bytu, vedené u Okresního soudu ve Žďáře nad Sázavou pod sp. zn. 9 C 221/98, o dovolání žalovaného proti rozsudku Krajského soudu v Brně ze dne 13. srpna 2003, č.j. 19 Co 126/2003-129, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Brně (soud odvolací) rozsudkem ze dne 13. 8. 2003, č.j. 19 Co 126/2003-129, změnil rozsudek Okresního soudu ve Žďáře nad Sázavou (soudu prvního stupně) ze dne 20. 1. 2003, č.j. 9 C 221/98-104, - jímž soud přivolil k výpovědi z nájmu bytu č. 9 o velikosti 2+1 s příslušenstvím v domě čp. 867 na Sídlišti I v B., určil, že tříměsíční výpovědní lhůta počne běžet prvním dnem kalendářního měsíce následujícího po právní moci rozsudku, uložil žalovanému vyklidit byt do 15 dnů po zajištění přístřeší a rozhodl o nákladech řízení - jen tak, že žalovaný je povinen předmětný byt vyklidit po uplynutí tříměsíční výpovědní lhůty do 15 dnů po zajištění přístřeší; jinak rozsudek soudu prvního stupně potvrdil a rozhodl o nákladech odvolacího řízení.
+Proti rozsudku odvolacího soudu podal žalovaný dovolání.
+Protože dovolání mělo vady bránící dalšímu pokračování dovolacího řízení a z obsahu spisu nevyplývalo, že by dovolatel byl v dovolacím řízení zákonem stanoveným způsobem zastoupen, případně že by měl právnické vzdělání, soud prvního stupně jej usnesením ze dne 12. 1. 2005, doručeným mu 20. 1. téhož roku, vyzval, aby si ve lhůtě 10 dnů od jeho doručení zvolil advokáta, a poučil jej, že jinak dovolací řízení bude zastaveno. Dovolatel však vytčený nedostatek neodstranil a jeho opakované žádosti o ustanovení zástupce byly pravomocně zamítnuty usneseními č.j. 9 C 221/98-161 a č.j. 9 C 221/98-164.
+Podle § 241 odst. 1 a 4 občanského soudního řádu (dále jen „o.s.ř.“) musí být dovolatel, který je fyzickou osobou, zastoupen advokátem nebo (v rozsahu oprávnění stanoveného notářským řádem) notářem, jímž musí být dovolání též sepsáno; to neplatí, má-li takový dovolatel právnické vzdělání (§ 241 odst. 2 písm. a/ o.s.ř.).
+Povinné zastoupení dovolatele v dovolacím řízení je procesní podmínkou týkající se účastníka řízení, jejíž nedostatek brání vydání rozhodnutí, jímž se řízení končí (kromě usnesení, kterým se dovolací řízení právě pro neodstranění tohoto nedostatku zastavuje). Jelikož zákonem stanovená procesní podmínka přes soudem prvního stupně provedená opatření nebyla do dne vydání tohoto usnesení splněna, Nejvyšší soud podle § 243c odst. 1 a § 104 odst. 2 o.s.ř. dovolací řízení zastavil.
+Dovolatel z procesního hlediska zavinil, že dovolací řízení bylo zastaveno, žalobci však prokazatelné náklady tohoto řízení (podle obsahu spisu) nevznikly; této procesní situaci odpovídá ve smyslu ustanovení § 146 odst. 2 věty první, § 224 odst. 1 a § 243b odst. 5 věty první o.s.ř. výrok, že na náhradu nákladů tohoto řízení nemá právo žádný z účastníků.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 7. dubna 2005
+Doc. JUDr. Věra K o r e c k á , CSc., v.r.
+předsedkyně senátu
