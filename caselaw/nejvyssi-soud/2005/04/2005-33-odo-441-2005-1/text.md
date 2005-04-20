@@ -1,0 +1,14 @@
+33 Odo 441/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy Víta Jakšiče a soudců JUDr. Blanky Moudré a JUDr. Ivany Zlatohlávkové ve věci žalobce Š. H., proti žalovanému V. B., o 318.000,- Kč s příslušenstvím, vedené u Okresního soudu v Chebu pod sp. zn. 7 C 164/2001, o dovolání žalobce proti usnesení Krajského soudu v Plzni ze dne 20. února 2004, č. j. Nc 333/2003-49, takto:
+Řízení o dovolání se zastavuje.
+O d ů v o d n ě n í :
+Krajský soud v Plzni usnesením ze dne 20. února 2004, č. j. Nc 333/2003-49, rozhodl, že soudkyně Okresního soudu v Chebu JUDr. A. G. není vyloučena z projednávání a rozhodování věci vedené u tohoto soudu pod sp. zn. 7 C 164/2001.
+Toto usnesení napadl žalobce podáním ze dne 7. března 2004, doplněným následně dopisem ze dne 2. května 2004 (č. l. 55). Z obsahu tohoto dopisu plyne, že žalobce podává dovolání proti uvedenému usnesení Krajského soudu v Plzni, přičemž v něm obsažené poučení o tom, že dovolání není přípustné, považuje za postup v rozporu se Základní listinou práv a svobod.
+Podle § 103 občanského soudního řádu (dále jen „OSŘ“), který ve smyslu § 243c odst. 1 OSŘ platí i pro řízení u dovolacího soudu, přihlíží soud kdykoli za řízení k tomu, zda jsou splněny podmínky, za nichž může rozhodnout ve věci samé. Mezi tyto tzv. podmínky řízení patří mimo jiné i to, aby byla dána funkční příslušnost soudu k rozhodování o opravném prostředku proti rozhodnutí jiného soudu. Není-li tato funkční příslušnost v občanském soudním řádu upravena, jde o neodstranitelný nedostatek podmínky řízení, pro který je nutno řízení podle § 104 odst. 1 věty prvé OSŘ zastavit.
+Žalobce svým dovoláním napadá usnesení, jímž Krajský soud v Plzni rozhodl podle § 16 odst. 1 OSŘ, tedy jako nadřízený soud. Podle § 236 odst. 1 OSŘ však je dovolání mimořádným opravným prostředkem proti pravomocným rozhodnutím odvolacího soudu. Již ve stanovisku pléna Nejvyššího soudu ČR ze dne 27. června 1996, sp. zn. Plsn 1/96, publikovaném ve Sbírce soudních rozhodnutí a stanovisek pod č. R 48/1996, bylo vysvětleno, že pojmy „nadřízený soud“ a „odvolací soud“ nelze zaměňovat. Jestliže tedy dovolání žalobce nesměřuje proti rozhodnutí odvolacího soudu, nýbrž proti rozhodnutí soudu nadřízeného, jde právě o případ, kdy není funkční příslušnost k projednání tohoto opravného prostředku procesním předpisem upravena. Proto nezbylo, než podle § 104 odst. 1 věty prvé ve spojení s § 243c odst. 1 OSŘ řízení o něm zastavit (srov. též usnesení Nejvyššího soudu ČR ze dne 31. července 1997, sp. zn. 2 Cdon 30/97, uveřejněné v časopisu Soudní judikatura, sešit 14/1997, pod č. 112).
+O nákladech tohoto řízení Nejvyšší soud ČR nerozhodoval, jelikož jeho rozhodnutím řízení nekončí (§ 151 odst. 1 věta před středníkem OSŘ).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 20. dubna 2005
+Vít Jakšič, v.r.
+předseda senátu
