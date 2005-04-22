@@ -1,0 +1,19 @@
+26 Cdo 1390/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci žalobkyně I. C., s. r. o., proti žalované M. Z., o návrhu na obnovu řízení, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 20 C 184/2000, o dovolání žalobkyně proti usnesení Městského soudu v Praze ze dne 23. října 2003, č.j. 64 Co 319/2003-56, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Praze (odvolací soud) usnesením ze dne 23. 10. 2003, č.j. 64 Co 319/2003-56, potvrdil usnesení ze dne 25. 4. 2003, č.j. 20 C 184/2000-44, jímž Obvodní soud pro Prahu 2 (soud prvního stupně) zamítl návrh na obnovu řízení vedeného u Obvodního soudu pro Prahu 2 pod sp. zn. 20 C 147/92, a rozhodl o nákladech odvolacího řízení.
+Pravomocné usnesení odvolacího soudu napadla žalobkyně, zastoupená advokátem, dovoláním, jehož přípustnost dovozuje z ustanovení § 238 odst. 1 písm. a) občanského soudního řádu (dále též jen „o. s. ř.“) ve znění účinném od 1. 1. 2001 a jímž namítá nesprávné právní posouzení věci.
+Podle části dvanácté, hlavy I, bodu 17. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu, vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů, se projednají a rozhodnou podle dosavadních právních předpisů. Jelikož napadené rozhodnutí odvolacího soudu bylo vydáno po řízení provedeném podle dosavadních právních předpisů (návrh na povolení obnovy řízení směřoval proti rozhodnutím vydaným před 1. 1. 2001 a z odůvodnění usnesení soudů obou stupňů vydaných v řízení o povolení obnovy vyplývá, že soudy v souladu s ustanovením části dvanácté, hlavy I, bodu 16. zákona č. 30/2000 Sb. postupovaly podle občanského soudního řádu ve znění před 1. 1. 2001), Nejvyšší soud projednal i dovolání v této věci a rozhodl o něm podle občanského soudního řádu ve znění účinném před novelizací provedenou zákonem č. 30/2000 Sb., tj. účinném do dne 31. 12. 2000.
+Dovolání bylo podáno opožděně.
+Projednáním dovolání a rozhodnutím o něm podle dosavadních právních předpisů ve smyslu části dvanácté, hlavy I, bodu 17. zákona č. 30/2000 Sb. se rozumí též posouzení včasnosti dovolání včetně vymezení běhu lhůty k jeho podání (srov. usnesení Nejvyššího soudu z 19. dubna 2001, sp. zn. 29 Odo 196/2001, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek, ročník 2001, sešit 10, pod poř. č. 70).
+Dovolání v souzené věci tudíž mohlo být podáno pouze ve lhůtě jednoho měsíce od právní moci rozhodnutí odvolacího soudu (srov. § 240 odst. 1 o. s. ř. ve znění účinném do 31. prosince 2000), nikoli ve lhůtě dvou měsíců od doručení rozhodnutí odvolacího soudu (srov. § 240 odst. 1 o. s. ř. ve znění účinném od 1. ledna 2001).
+Jak se podává z obsahu spisu, napadené usnesení nabylo právní moci dne 3. prosince 2003. Z uvedeného pak vyplývá, že posledním dnem jednoměsíční lhůty k podání dovolání bylo pondělí 5. ledna 2004 (§ 57 odst. 2 věta první o. s. ř.). Bylo-li dovolání podáno na poštu (viz obálka na č. l. 67a) až 24. ledna 2004, stalo se tak zjevně po marném uplynutí zákonné lhůty.
+Vycházeje z uvedených závěrů, Nejvyšší soud dovolání podle ustanovení § 243b odst. 4 a § 218 odst. 1 písm. a) o. s. ř. jako opožděné odmítl.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanoveními § 243b odst. 4, § 224 odst. 1 a § 146 odst. 2 věty první (per analogiam) o. s. ř., neboť žalobkyně, která podáním opožděného dovolání zavinila jeho odmítnutí, na náhradu těchto nákladů právo nemá a žalované, jež by naopak právo na jejich náhradu měla, náklady dovolacího řízení (podle obsahu spisu) nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 22. dubna 2005
+Doc. JUDr. Věra K o r e c k á , CSc., v. r.
+předsedkyně senátu
