@@ -1,0 +1,22 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+29 Odo 1189/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudců JUDr. Pavla Severina a JUDr. Ivany Štenglové v právní věci žalobkyně G. M. B., a. s., proti žalované I. K., o zaplacení částky 89.999,16 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 9 C 201/2002, o dovolání žalované proti usnesení Městského soudu v Praze ze dne 31. května 2004, č.j. 58 Co 196/2004-48, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Praze v záhlaví označeným usnesením potvrdil usnesení ze dne 10. července 2003, č.j. 9 C 201/2002-36, kterým Obvodní soud pro Prahu 4 - odkazuje na ustanovení § 208 odst. 1 občanského soudního řádu (dále jen „o. s. ř.“) - odmítl jako opožděné odvolání žalované proti rozsudku ze dne 18. března 2003, č.j. 9 C 201/2002-31 a žádnému z účastníků nepřiznal právo na náhradu nákladů řízení (první výrok) a rozhodl o náhradě nákladů odvolacího řízení (druhý výrok).
+Proti tomuto usnesení odvolacího soudu podala žalovaná podáním datovaným 30. srpna 2004, daným na poštu k přepravě 31. srpna 2004 (viz obálka č.l. 53) opravný prostředek, namítajíc, že odvolání proti rozsudku soudu prvního stupně bylo podáno v patnáctidenní „odvolací lhůtě od doručení“.
+V průběhu dovolacího řízení žalobkyně změnila obchodní firmu z G. C. B., a. s. na G. M. B., a. s. (viz úplný výpis z obchodního rejstříku vedeného Městským soudem v Praze, oddíl B., vložka 5403) a tato změna byla do obchodního rejstříku zapsána 17. ledna 2005.
+Dovolání je opožděné.
+Podle ustanovení § 240 o. s. ř. účastník může podat dovolání do dvou měsíců od doručení rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Bylo-li odvolacím soudem vydáno opravné usnesení, běží tato lhůta od doručení opravného usnesení (odstavec 1). Zmeškání lhůty uvedené v odstavci 1 nelze prominout. Lhůta je však zachována, bude-li dovolání podáno ve lhůtě u odvolacího nebo dovolacího soudu (odstavec 2). Lhůta je zachována také tehdy, jestliže dovolání bylo podáno po uplynutí dvouměsíční lhůty proto, že se dovolatel řídil nesprávným poučením soudu o dovolání. Neobsahuje-li rozhodnutí poučení o dovolání, o lhůtě k dovolání nebo o soudu, u něhož se podává, nebo obsahuje-li nesprávné poučení o tom, že dovolání není přípustné, lze podat dovolání do čtyř měsíců od doručení (odstavec 3).
+Ustanovení § 57 o. s. ř. pak určuje, že do běhu lhůty se nezapočítává den, kdy došlo ke skutečnosti určující počátek lhůty; to neplatí, jde-li o lhůtu určenou podle hodin (odstavec 1). Lhůty určené podle týdnů, měsíců nebo let se končí uplynutím toho dne, který se svým označením shoduje se dnem, kdy došlo ke skutečnosti určující počátek lhůty, a není-li ho v měsíci, posledním dnem měsíce. Připadne-li konec lhůty na sobotu, neděli nebo svátek, je posledním dnem lhůty nejblíže následující pracovní den. Lhůty určené podle hodin končí uplynutím hodiny, která se svým označením shoduje s hodinou, kdy došlo ke skutečnosti určující počátek lhůty (odstavec 2). Lhůta je zachována, je-li posledního dne lhůty učiněn úkon u soudu nebo podání odevzdáno orgánu, který má povinnost je doručit (odstavec 3).
+Jak je zřejmé z obsahu spisu, dovoláním napadené rozhodnutí odvolacího soudu bylo žalované doručeno 30. června 2004 (srov. doklad o doručení u č.l. 50); posledním dnem dvouměsíční lhůty k podání dovolání ve smyslu ustanovení § 57 odst. 2 o. s. ř. bylo pondělí 30. srpna 2004 (den, který se svým označením shoduje se dnem, kdy došlo ke skutečnosti určující počátek lhůty).
+Dovolání žalované podané na poštu k přepravě až 31. srpna 2004 je tak opožděné.
+Nejvyšší soud proto dovolání žalované, které je ostatně nepřípustné (závěr, podle něhož proti usnesení odvolacího soudu, jímž bylo potvrzeno usnesení soudu prvního stupně o odmítnutí odvolání pro opožděnost, není dovolání přípustné, byl Nejvyšším soudem formulován již v rozhodnutí uveřejněném pod číslem 41/2003 Sbírky soudních rozhodnutí a stanovisek), jako opožděné podle ustanovení § 243b odst. 5 věty první a § 218a o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalované bylo odmítnuto a žalobkyni podle obsahu spisu v dovolacím řízení náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 27. dubna 2005
+JUDr. Petr Gemmel,v.r.
+předseda senátu
