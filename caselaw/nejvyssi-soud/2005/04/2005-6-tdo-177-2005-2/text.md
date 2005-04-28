@@ -1,0 +1,15 @@
+6 Tdo 177/2005-I
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v neveřejném zasedání konaném dne 26. 4. 2005 ve věci dovolání obviněného K. Z ., proti rozsudku Vrchního soudu v Praze ze dne 8. 9. 2004, sp. zn. 9 To 73/2004, ve věci vedené u Krajského soudu v Českých Budějovicích pod sp. zn. 16 T 61/2001, t a k t o :
+Podle § 30 odst. 3 tr. ř. je JUDr. Vladimír Veselý, soudce Nejvyššího soudu České republiky, vyloučen z rozhodování ve věci obviněného K. Z. vedené u tohoto soudu pod sp. zn. 6 Tdo 177/2005.
+O d ů v o d n ě n í :
+Obviněný K. Z. podal dovolání proti rozsudku Vrchního soudu v Praze ze dne 8. 9. 2004, sp. zn. 9 To 73/2004.
+Dovolacím soudem je podle § 265c tr. ř. Nejvyšší soud České republiky (dále jen „Nejvyšší soud“). Podle rozvrhu práce Nejvyššího soudu byla věc obviněného K. Z. vedená pod sp. zn. 6 Tdo 177/2005 přidělena k projednání a rozhodnutí senátu č. 6, složenému ze soudců JUDr. Vladimíra Veselého, JUDr. Jana Engelmanna (předsedy senátu) a JUDr. Jiřího Horáka.
+Soudce JUDr. Vladimír Veselý je však v uvedené trestní věci z rozhodování u Nejvyššího soudu vyloučen se zřetelem k ustanovení § 30 odst. 3 tr. ř., podle něhož je z rozhodování u soudu vyššího stupně vyloučen soudce nebo přísedící, který se zúčastnil rozhodování u soudu nižšího stupně, a naopak. Účelem citovaného ustanovení je upevnit důvěru procesních stran i veřejnosti v nestrannost soudního rozhodování. To znamená, že zákon v taxativně vymezených případech připouští výjimku ze zásady, že nikdo nesmí být odňat svému zákonnému soudci, vyjádřené v čl. 38 odst. 1 Listiny základních práv a svobod. Na principu zákonného soudce by nepochybně nebylo správné trvat tam, kde existují pochybnosti, že by to mohlo být na újmu spravedlivého rozhodnutí.
+Z obsahu spisu, který byl společně s dovoláním Nejvyššímu soudu předložen, totiž vyplývá, že JUDr. Vladimír Veselý se již v předmětné trestní věci původně vedené u Okresního soudu ve Strakonicích jako soudu prvního stupně pod sp. zn. 3 T 117/97 opakovaně podílel na rozhodování, a to v postavení soudce Krajského soudu v Českých Budějovicích jako soudu stížnostního, posléze odvolacího. Konkrétně se zúčastnil rozhodování o stížnosti obviněného K. Z. proti usnesení Okresního soudu ve Strakonicích ze dne 7. 1. 1998, č. j. 3 T 117/97-164 (viz usnesení Krajského soudu v Českých Budějovicích ze dne 22. 1. 1998, č. j. 4 To 51/98-214).
+Podle § 31 odst. 1 tr. ř. rozhodne o vyloučení z důvodů uvedených v § 30 tr. ř. orgán, kterého se tyto důvody týkají, a to i bez návrhu. O vyloučení soudce nebo přísedícího, pokud rozhodují v senátě, rozhodne tento senát.
+Vzhledem k uvedeným skutečnostem rozhodl senát Nejvyššího soudu, do něhož je JUDr. Vladimír Veselý podle rozvrhu práce zařazen, že jmenovaný soudce je podle § 30 odst. 3 tr. ř. vyloučen z rozhodování ve věci obviněného K. Z. vedené u tohoto soudu pod sp. zn. 6 Tdo 177/2005.
+P o u č e n í : Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 26. dubna 2005
+Předseda senátu :
+JUDr. Jan Engelmann
