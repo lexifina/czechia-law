@@ -1,0 +1,19 @@
+25 Cdo 373/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce V. Š. proti žalované Městské části P., o 15.896,90,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 14 C 200/97, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 18. 6. 1998, č. j. 22 Co 250/98-26, takto :
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 2 rozsudkem ze dne 3. 3. 1998, č. j. 14 C 200/97-18, zamítl žalobu, kterou se žalobce domáhal po žalovaném zaplacení částky 15.896,90,- Kč s příslušenstvím, a uložil žalobci povinnost nahradit žalovanému na nákladech řízení částku 2.450,- Kč do tří dnů od právní moci rozsudku.
+Proti tomuto rozsudku podal žalobce odvolání, které odvolací soud (dříve než se začal zabývat věcí samotnou, odvolání žalobce) usnesením ze dne 18. 6. 1998, č. j. 22 Co 250/98-26, jako opožděné odmítl.
+Proti tomuto usnesení odvolacího soudu podal žalobce dne 10. 5. 2004 blanketní dovolání (nadepsané chybně jako odvolání). Soud prvního stupně usnesením ze dne 16. 11. 2004, č. j. 147 C 200/97-63 vyzval žalobce, aby si ve lhůtě 15 dnů pro podání dovolání v této věci zvolil advokáta a aby jeho prostřednictvím podal řádné dovolání proti předmětnému usnesení. Zároveň žalobce poučil o možnosti zastavení dovolacího řízení, nebude-li ve stanovené lhůtě soudu předložena plná moc zvoleného advokáta a jím sepsané dovolání. Toto usnesení bylo žalobci doručeno dne 6. 12. 2004 a žalobce přípisem ze dne 8. 1. 2005 požádal o prodloužení lhůty do 31. 1. 2005. Do dnešního dne však povinnost stanovenou mu usnesením soudu prvního stupně nesplnil.
+Nejvyšší soud jako soud dovolací při posuzování tohoto dovolání, které mu bylo předáno k projednání a rozhodnutí dne 16. 2. 2005, vycházel z ustanovení části dvanácté, hlavy I., bodu 17 zákona č. 30/2000 Sb., podle něhož dovolání proti rozhodnutím odvolacího soudu, vydaným přede dnem nabytí účinnosti tohoto zákona (1. 1. 2001) nebo vydaným po řízení provedeném podle dosavadních právních předpisů, se projednají a rozhodne se o nich podle dosavadních předpisů. Stejně tak je upraveno přechodné ustanovení v zák. č. 59/2005 Sb. v čl. II. bodě 3. Proto se při posuzování předmětného dovolání postupuje podle ustanovení občanského soudního řádu ve znění před novelou provedenou zákonem č. 30/2000 Sb. (dále jen „o.s.ř.“).
+Opravným prostředkem proti pravomocnému rozhodnutí odvolacího soudu je dovolání. Dovolatel musí být podle ust. § 241 odst. 1, 2 o.s.ř. zastoupen advokátem, jestliže sám nemá právnické vzdělání a nemá-li dovolatel právnické vzdělání, musí být dovolání sepsáno advokátem.
+Pro podání dovolání, které je mimořádným opravným prostředkem, zákon stanoví požadavek, aby účastník řízení, který podává dovolání, měl buď sám právnické vzdělání, nebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc. Ustanovení § 241 o.s.ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejího splnění nelze o dovolání rozhodnout.
+Žalobce podal dne 10. 5. 2004 dovolání, aniž byl při tomto úkonu zastoupen advokátem, a přestože byl o povinném zastoupení v dovolacím řízení poučen, právního zástupce si ani dodatečně nezvolil.
+Vzhledem k tomu,že nedostatek podmínky dovolacího řízení podle ust. § 241 odst. 1 o.s.ř. nebyl ani přes poučení odstraněn, Nejvyšší soud řízení podle ust. § 243c o.s.ř. za použití § 211 o.s.ř. a § 104 odst. 2 věty třetí o.s.ř. zastavil.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ust. § 243b odst. 4, § 224 odst. 1 a § 146 odst. 1 písm. c) o.s.ř. tak, že žádný z účastníků nemá právo na jejich náhradu.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 28. dubna 2005
+JUDr. Ing. Jan Hušek, v. r.
+předseda senátu
