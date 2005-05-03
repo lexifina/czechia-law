@@ -1,0 +1,17 @@
+26 Cdo 783/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Feráka a soudců JUDr. Roberta Waltra a Doc. JUDr. Věry Korecké, CSc., ve věci žalobkyně J. L., zastoupené advokátkou, proti žalovanému J. Š., o vyklizení bytu, vedené u Obvodního soudu pro Prahu 9 pod sp. zn. 9 C 35/2004, o dovolání žalovaného proti rozsudku Městského soudu v Praze ze dne 5. října 2004, č. j. 29 Co 349/2004-33, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í :
+Městský soud v Praze (odvolací soud) rozsudkem ze dne 5. 10. 2004, č. j. 29 Co 349/2004-33, potvrdil rozsudek Obvodního soudu pro Prahu 9 (soud prvního stupně) ze dne 19. 5. 2004, č.j. 9 C 35/2004-18, ve znění opravného usnesení ze dne 2. 3. 2005, č.j. 9 C 35/2004-49, kterým byla žalovanému uložena povinnost vyklidit a vyklizený odevzdat žalobkyni byt č. 22 o velikosti 3 pokoje a kuchyň, na 8. podlaží domu č.p. 466, v k. ú. L., P., do 15 dnů od zajištění přístřeší, a rozhodl o nákladech odvolacího řízení.
+Proti rozsudku odvolacího soudu podal žalovaný dne 4. 2. 2005 dovolání.
+Z kopie úmrtního listu vystaveného Úřadem městské části P. založené ve spise zn. 13 D 279/2005 dovolací soud zjistil, že žalovaný dne 25. 2. 2005 zemřel.
+Podle § 19 občanského soudního řádu (dále jen „o.s.ř.“) způsobilost být účastníkem řízení má ten, kdo má způsobilost mít práva a povinnosti; jinak jen ten, komu ji zákon přiznává. Podle § 7 občanského zákoníku způsobilost fyzické osoby mít práva a povinnosti vzniká narozením (má ji i počaté dítě, narodí-li se živé) a zaniká smrtí. Podle ustanovení § 107 odst. 1 věty první o.s.ř. jestliže účastník ztratí po zahájení řízení způsobilost být účastníkem řízení dříve, než řízení bylo pravomocně skončeno, posoudí soud podle povahy věci, zda v řízení může pokračovat. Podle § 107 odst. 5 o.s.ř. neumožňuje-li povaha věci v řízení pokračovat, soud řízení zastaví. Řízení zastaví soud zejména tehdy, zemře-li manžel před pravomocným skončením řízení o rozvod, o neplatnost manželství nebo o určení, zda tu manželství je nebo není, pokud zákon nedovoluje, aby se v řízení pokračovalo; bylo-li již o věci rozhodnuto, soud současně toto rozhodnutí zruší. Podle § 243c odst. 1 o.s.ř. pro řízení u dovolacího soudu platí přiměřeně ustanovení o řízení před soudem prvního stupně, pokud není stanoveno něco jiného; ustanovení § 92 a 95 až 99 a 107a však pro řízení u dovolacího soudu neplatí.
+Pro další postup v řízení a pro určení, zda a případně s kým lze v řízení pokračovat, je rozhodné posouzení povahy uplatněného nároku.
+Žalobkyně se jako nájemkyně shora uvedeného bytu domáhala jeho vyklizení žalovaným, který zde bydlel jako člen domácnosti s jejím souhlasem, jenž později odvolala. Protože žalovaný tento bytu užíval výlučně na základě práva odvozeného od práva nájmu žalobkyně, neexistuje právní důvod, jenž by byl způsobilý přejít v důsledku jeho smrti na jeho právní nástupce a jenž by umožňoval pokračování dovolacího řízení s těmito nástupci.
+Zemřela-li v průběhu soudního řízení fyzická osoba, která uplatnila právo vázané výlučně na její osobu, musí být řízení podle § 107 odst. 1 a 5 o.s.ř. zastaveno, neboť vzhledem k povaze věci nelze v soudním řízení pokračovat.
+Nejvyšší soud proto dovolací řízení zastavil (§ 19, § 107 odst. 5, § 243c odst. 1 o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 3. května 2005
+JUDr. Miroslav Ferák, v. r.
+předseda senátu
