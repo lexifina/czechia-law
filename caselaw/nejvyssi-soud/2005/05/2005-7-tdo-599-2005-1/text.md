@@ -1,0 +1,15 @@
+7 Tdo 599/2005
+U S N E S E N Í
+Nejvyšší soud rozhodl v neveřejném zasedání dne 12. 5. 2005 o dovolání obviněného R. D., proti usnesení Krajského soudu v Brně ze dne 9. 12. 2004, sp. zn. 7 To 533/2004, v trestní věci vedené u Městského soudu v Brně pod sp. zn. 88 T 26/2004 t a k t o :
+Podle § 265i odst. 1 písm. c) tr. ř. se dovolání obviněného R. D. o d m í t á .
+O d ů v o d n ě n í :
+Obviněný R. D. podal prostřednictvím obhájce dovolání proti usnesení Krajského soudu v Brně ze dne 9. 12. 2004, sp. zn. 7 To 533/2004, jímž bylo rozhodnuto o jeho odvolání proti rozsudku Městského soudu v Brně ze dne 23. 7. 2004, sp. zn. 88 T 26/2004.
+Nejvyšší soud shledal, že dovolání bylo podáno opožděně.
+Podle § 265e odst. 1 tr. ř. se dovolání podává u soudu, který rozhodl ve věci v prvním stupni, do dvou měsíců od doručení rozhodnutí, proti kterému dovolání směřuje.
+Usnesení Krajského soudu v Brně bylo tímto soudem řádně doručeno obviněnému i jeho obhájci dne 22. 12. 2004 (viz dodejky připojené k č. l. 801 spisu Městského soudu v Brně). Z toho vyplývá, že lhůta k podání dovolání skončila dne 22. 2. 2005. Obviněný však podal dovolání až dne 11. 3. 2005. Stalo se tak podáním, které obhájce obviněného sepsal dne 11. 3. 2005 a téhož dne osobně odevzdal do podatelny Městského soudu v Brně (viz č. l. 850 spisu Městského soudu v Brně). Přitom o lhůtě dvou měsíců, která je v ustanovení § 265e odst. 1 tr. ř. stanovena k podání dovolání, a o tom, že tato lhůta běží od doručení rozhodnutí, proti kterému dovolání směřuje, byli obviněný a obhájce náležitě poučeni v usnesení Krajského soudu v Brně.
+Pokud Městský soud v Brně doručil usnesení Krajského soudu v Brně obhájci obviněného znovu ještě dne 12. 1. 2005 (viz dodejka připojená k č. l. 801 p. v. spisu Městského soudu v Brně), je tato okolnost ve vztahu k počátku lhůty k podání dovolání bezvýznamná a nemá na běh této lhůty žádný vliv. Jestliže je rozhodnutí poprvé doručeno oprávněné osobě předepsaným způsobem, je toto doručení rozhodné pro stanovení počátku dovolací lhůty, přičemž případné opětovné doručení, ke kterému dojde později, nehraje z uvažovaného hlediska žádnou roli. Ustanovení § 265e odst. 2 tr. ř. stanoví, že jestliže se rozhodnutí doručuje jak obviněnému, tak i jeho obhájci a zákonnému zástupci, běží lhůta od toho doručení, které bylo provedeno nejpozději. Citované ustanovení ovšem upravuje počátek běhu dovolací lhůty jen pro případ, kdy je rozhodnutí v různou dobu doručeno různým oprávněným osobám, a nikoli pro případ, kdy je rozhodnutí téže oprávněné osobě doručeno vícekrát v různou dobu. V takovém případě je nutné brát v úvahu to doručení u příslušné oprávněné osoby, ke kterému došlo nejdříve, protože již jím byl běh dovolací lhůty zahájen. (K tomu viz č. 41/1989 Sb. rozh. tr.)
+Nejvyšší soud pro dovolání obviněného R. D. podle § 265i odst. 1 písm. c) tr. ř. odmítl, aniž z jeho podnětu přezkoumal napadené usnesení a předcházející řízení podle § 265i odst. 3, 4 tr. ř.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 12. května 2005
+Předseda senátu:
+JUDr. Petr Hrachovec
