@@ -1,0 +1,16 @@
+7 Tdo 619/2005
+U S N E S E N Í
+Nejvyšší soud rozhodl v neveřejném zasedání dne 24. 5. 2005 o dovolání obviněného K. K., proti usnesení Krajského soudu v Brně ze dne 13. 1. 2005, sp. zn. 7 To 588/2004, v trestní věci vedené u Okresního soudu v Hodoníně pod sp. zn. 2 T 413/2000 t a k t o :
+Podle § 265i odst. 1 písm. c) tr. ř. se dovolání obviněného o d m í t á .
+O d ů v o d n ě n í :
+Obviněný K. K. st. podal prostřednictvím obhájkyně dovolání proti usnesení Krajského soudu v Brně ze dne 13. 1. 2005, sp. zn. 7 To 588/2004, jímž bylo podle § 256 tr. ř. zamítnuto jeho odvolání proti rozsudku Okresního soudu v Hodoníně ze dne 14. 1. 2004, sp. zn. 2 T 413/2000.
+Nejvyšší soud shledal, že dovolání bylo podáno opožděně.
+Podle § 265e odst. 1 tr. ř. se dovolání podává u soudu, který rozhodl ve věci v prvním stupni, do dvou měsíců od doručení rozhodnutí, proti kterému směřuje. O tom byli obviněný i jeho obhájkyně náležitě poučeni v usnesení Krajského soudu v Brně.
+Usnesení Krajského soudu v Brně bylo doručeno obviněnému dne 14. 2. 2005 a jeho obhájkyni dne 10. 2. 2005. Se zřetelem k ustanovení § 265e odst. 2 tr. ř. bylo pro stanovení počátku dovolací lhůty rozhodné pozdější doručení, tj. doručení obviněnému. Konec dovolací lhůty tak připadl na den 14. 4. 2005. Obviněný však podal dovolání až dne 28. 4. 2005. Stalo se tak jednak podáním, které obhájkyně obviněného zaslala Okresnímu soudu v Hodoníně faxem, jednak podáním, které témuž soudu zaslala poštou. O tomto datu podání dovolání nejsou žádné pochybnosti mimo jiné i proto, že obě podání byla co do data vyhotovení výslovně opatřena údajem, že byla sepsána dne 28. 4. 2005.
+Z obsahu spisu vyplývá, že obviněný podáním, které došlo Okresnímu soudu v Hodoníně dne 11. 4. 2005, žádal „o přidělení bezplatně obhájce za účelem podání dovolání“ s tím, že tento postup mu doporučila obhájkyně, která vykonávala jeho obhajobu v původním řízení a která mu měla sdělit, že „její právní zastupování skončilo odvolacím soudem“.
+K tomu lze jen poznamenat, že advokátka, která vykonávala obhajobu obviněného v původním řízení, mu byla ustanovena soudem podle § 39 tr. ř., aniž bylo její ustanovení jakkoli omezeno. To znamená, že i po pravomocném skončení trestního stíhání, které nastalo usnesením Krajského soudu v Brně jako soudu odvolacího, byla podle § 41 odst. 5 tr. ř. bez dalšího oprávněna podat za obviněného dovolání. Jestliže v komunikaci s obviněným jako svým klientem případně vycházela z jiného názoru a dovolání za obviněného podala až poté, co ji na citovanou část ustanovení § 41 odst. 5 tr. ř. upozornil Okresní soud v Hodoníně, nelze na to při posuzování otázky včasnosti dovolání brát zřetel. Jinak považuje Nejvyšší soud za nutné dodat, že ustanovení § 265e odst. 4 tr. ř. výslovně vylučuje navrácení lhůty k podání dovolání, pokud tato lhůta byla zmeškána, takže otázka, co bylo v daném případě důvodem zmeškání lhůty, spadá do sféry odpovědnosti obhájkyně vůči obviněnému jako klientu.
+Opožděně podané dovolání obviněného Nejvyšší soud podle § 265i odst. 1 písm. c) tr. ř. odmítl, aniž na jeho podkladě přezkoumal napadené usnesení a předcházející řízení z hledisek stanovených v § 265i dost. 3, 4 tr. ř.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 24. května 2005
+Předseda senátu:
+JUDr. Petr Hrachovec
