@@ -1,0 +1,22 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+33 Odo 540/2005-141
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci žalobce J. S., proti žalovanému J. B., o zaplacení částky 3.500,- Kč s příslušenstvím, vedené u Okresního soudu v Ostravě pod sp. zn. 39 C 352/90, o dovolání žalobce proti rozsudku Krajského soudu v Ostravě ze dne 4. května 2004, č. j. 8 Co 153/2004-103, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalobce se po žalovaném domáhal zaplacení 3.500,- Kč s příslušenstvím. Uváděl, že v roce 1988 žalovanému prodal dva automobily určené na náhradní díly za sjednanou kupní cenu 3.500,- Kč. Podle ujednání z 9. 8. 1989 měla být kupní cena převáděných aut uhrazena do 9. 8. 1990, avšak přes urgence se tak nestalo.
+Okresní soud v Ostravě rozsudkem ze dne 16. února 1999, č. j. 39 C 352/90-60, ve znění doplňujícího usnesení ze dne 30. října 2003, č. j. 39 C 352/90-83, žalobu o zaplacení částky 3.500,- Kč s 3 % úrokem z prodlení od 9. 8. 1990 do 23. 10. 1990 a se 14 % úrokem z prodlení od 24. 10. 1990 do zaplacení zamítl. Současně rozhodl o nákladech řízení účastníků a státu.
+K odvolání žalobce Krajský soud v Ostravě rozsudkem ze dne 4. května 2004, č. j. 8 Co 153/2004-103, rozsudek soudu prvního stupně ve výroku o věci samé a ve výroku o nákladech řízení účastníků potvrdil, ve výroku o nákladech řízení státu jej změnil pouze pokud jde o vyčíslení těchto nákladů. Současně rozhodl o nákladech odvolacího řízení.
+Proti rozsudku odvolacího soudu podal žalobce dovolání, v němž vyjadřuje nesouhlas se závěrem, že se mu nepodařilo prokázat, že mezi účastníky došlo k uzavření kupní smlouvy. Srozuměn není ani s výrokem, jímž mu byla stanovena povinnost zaplatit státu náklady řízení. Připomíná, že jeho finanční poměry nejsou příznivé, a proto také žádal o osvobození od soudních poplatků.
+Podle ustanovení části dvanácté, hlavy I, bodu 17. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, se dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona (1. 1. 2001) nebo vydaným po řízení provedeném podle dosavadních právních předpisů projednají a rozhodnou podle dosavadních právních předpisů (tedy podle občanského soudního řádu ve znění platném do 31. 12. 2000 - dále jen „o. s. ř.“). Tak je tomu i v posuzovaném případě, kdy byl dovoláním napadený rozsudek odvolacího soudu vydán po řízení provedeném podle dosavadních předpisů (rozsudek soudu prvního stupně byl vydán již dne 16. 2. 1999); skutečnost, že dovolání se projedná a rozhodne podle dosavadních předpisů mimo jiné znamená, že se podle těchto předpisů posoudí i otázka včasnosti dovolání.
+Dovolání bylo podáno opožděně.
+Podle ustanovení § 240 odst. 1 věty první o. s. ř. může účastník řízení podat dovolání do jednoho měsíce od právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Podle ustanovení § 240 odst. 2 věty druhé o. s. ř. je lhůta zachována, bude-li dovolání podáno ve lhůtě u odvolacího soudu nebo dovolacího soudu.
+Podle ustanovení § 211 a § 159 odst. 1 o. s. ř. doručený rozsudek, který již nelze napadnout odvoláním, je v právní moci. Vzhledem k tomu, že rozsudek odvolacího soudu nelze odvoláním napadnout, nabývá právní moci dnem, kdy byl doručen všem účastníkům řízení.
+V posuzovaném případě z obsahu spisu vyplývá, že zástupci žalobce JUDr. J. B., advokátu , byl rozsudek odvolacího soudu doručen dne 10. 6. 2004, opatrovníku žalovaného JUDr. T. H., pak dne 18. 6. 2004, a nabyl tak právní moci dnem 18. 6. 2004. Lhůta k podání dovolání uplynula (v pondělí) 19. 7. 2004 (k tomu srov. § 57 odst. 2 o. s. ř.). Dovolání žalobce proti rozsudku odvolacího soudu bylo podáno osobně u Krajského soudu v Ostravě dne 1. 10. 2004.
+Protože dovolání bylo podáno po marném uplynutí zákonem stanovené lhůty k podání dovolání, jejíž zmeškání nelze prominout (§ 240 odst. 2 věta první o. s. ř.), bylo v souladu s ustanoveními § 243b odst. 4 větou první a § 218 odst. 1 písm. a/ o. s. ř. - aniž byl dovolací soud oprávněn se jím věcně zabývat - odmítnuto.
+O nákladech dovolacího řízení bylo rozhodnuto za situace, kdy žalovanému, který by podle § 243b odst. 4, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 2 věty první (per analogiam) o. s. ř. měl právo na jejich náhradu, v tomto řízení žádné prokazatelné náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+JUDr. Ivana Zlatohlávková, v.r.
+předsedkyně senátu
