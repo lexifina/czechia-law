@@ -1,0 +1,18 @@
+11 Tvo 22/2005
+U S N E S E N Í
+Nejvyšší soud projednal v neveřejném zasedání konaném dne 27. 5. 2005 stížnost obviněného J. M., roz. Č., proti usnesení Vrchního soudu v Olomouci ze dne 25. 4. 2005, sp. zn. 4 To 33/2005, a rozhodl t a k t o :
+Podle § 148 odst. 1 písm. c) tr. řádu s e stížnost obviněného J. M., roz. Č., z a m í t á .
+O d ů v o d n ě n í :
+Obviněný J. M., roz. Č., je spolu s obviněnou P. M. obžalobou Krajského státního zastupitelství v Brně ze dne 6. 9. 2004 stíhán pro trestný čin podvodu podle § 250 odst. 1, 4 tr. zák. dílem dokonaný, dílem ve fázi pokusu podle § 8 odst. 1 tr. zák. ve spolupachatelství podle § 9 odst. 2 tr. zák. a trestný čin podvodu podle § 250 odst. 1, 3 písm. b) tr. zák. ve formě spolupachatelství podle § 9 odst. 2 tr. zák.
+Vrchnímu soudu v Olomouci byla předložena stížnost obviněného proti usnesení Krajského soudu v Brně ze dne 5. 4. 2005, sp. zn. 50 T 10/2004, kterým bylo podle § 72 odst. 3 tr. řádu rozhodnuto o zamítnutí žádosti obviněného o propuštění z vazby na svobodu. Současně se stížností vznesl obviněný podáním ze dne 8. 4. 2005 námitku podjatosti vůči předsedovi senátu Vrchního soudu v Olomouci JUDr. J. S. s tím, že tento osobně jednal se známým obviněného jistým M., a to ohledně složení peněžité záruky za vazbu obviněného, kdy obviněný následně obdržel od tohoto M. dopis, v němž mu oznamuje, že soudce nabídku bez projednání odmítl, a že mu dále soudce sdělil, že je v příbuzenském vztahu s jedním z poškozených.
+Usnesením Vrchního soudu v Olomouci ze dne 25. 4. 2005, sp. zn. 4 To 33/2005, bylo podle § 30 odst. 1 tr. řádu rozhodnuto, že předseda senátu JUDr. J. S: není vyloučen z vykonávání úkonů trestního řízení v trestní věci obviněného J. M., roz. Č., vedené u Krajského soudu v Brně pod sp. zn. 50 To 10/2004.
+Proti tomuto usnesení podal obviněný J. M., roz. Č., v zákonné lhůtě stížnost, kterou v podstatě odůvodnil skutečnostmi uvedenými ve svém původním návrhu na vyloučení předsedy senátu JUDr. J. S. a navrhl, aby Nejvyšší soud napadené usnesení zrušil a Vrchnímu soudu v Olomouci uložil, aby ve věci po prošetření všech okolností znovu jednal a rozhodl.
+Nejvyšší soud podle § 147 odst. 1 tr. řádu z podnětu podané stížnosti přezkoumal správnost napadeného výroku i řízení, které mu předcházelo, a dospěl k tomuto závěru.
+Podle § 30 odst. 1 tr. řádu je z vykonávání úkonu trestního řízení vyloučen soudce, u něhož lze mít pochybnosti, že pro poměr k projednávané věci nebo k osobám, jichž se úkon přímo dotýká, k jejich obhájcům, zákonným zástupcům a zmocněncům, nebo pro poměr k jinému orgánu činnému v trestním řízení, nemůže nestranně rozhodovat.
+Skutečnosti vyvolávající pochybnosti o schopnosti soudce nestranně rozhodovat by měly být doloženy způsobem, který by věrohodně prokazoval alespoň podezření o takové podjatosti. V daném případě nic takového zjištěno nebylo. Obviněný J. M., roz. Č., podezírá předsedu senátu JUDr. J. S. z jednání, které tento popírá, přičemž obviněný pro toto své tvrzení nemá žádný další důkaz.
+S ohledem na to, že se předseda senátu podjatým ve smyslu § 30 odst. 1 tr. řádu necítí a přes námitku vznesenou obviněným má za to, že je ve věci schopen nestranně rozhodovat a obviněný žádným věrohodným způsobem jeho rozhodnutí nezpochybnil, nelze předsedu senátu JUDr. J. S. považovat za vyloučeného z vykonávání úkonů trestního řízení, přičemž v podrobnostech se Nejvyšší soud plně ztotožňuje s odůvodněním napadeného rozhodnutí, na které odkazuje.
+Ze všech těchto důvodů bylo rozhodnuto, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 27. května 2005
+Předseda senátu:
+JUDr. Pavel Kučera
