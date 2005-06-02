@@ -1,0 +1,20 @@
+20 Cdo 389/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci výkonu rozhodnutí oprávněné E. Z. T. a.s., proti povinné V. K., pro částku 723.000,- Kč s příslušenstvím prodejem movitých věcí, vedené u Obvodního soudu pro Prahu 5 pod sp. zn. E 1812/97, o dovolání povinné proti usnesení Městského soudu v Praze ze dne 14. května 2004, č. j. 21 Co 197/2004-19, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Shora označeným rozhodnutím městský soud potvrdil usnesení z 29. 10. 1997, č. j. E 1812/97-8, jímž obvodní soud nařídil výkon rozhodnutí (svého platebního rozkazu ze 17. 1. 1995, č.j. 5 C 256/94-16).
+Pravomocné usnesení odvolacího soudu napadla povinná včasným (viz též usnesení tzv. velkého senátu obchodního kolegia Nejvyššího soudu ze 17. prosince 2002, sp. zn. 35 Odo 317/2001, uveřejněné v časopise Soudní judikatura č. 1, ročník 2003 pod poř. č. 7) dovoláním, jehož přípustnost dovozuje z ustanovení § 237 odst. 1 písm. c/ občanského soudního řádu, zjevně ve znění po novelizaci zákonem č. 30/2000 Sb., a jímž (kromě jiného) namítá neexistenci exekučního titulu.
+Při zkoumání přípustnosti dovolání musel Nejvyšší soud věc posoudit nejdříve z intertemporálního hlediska. Soud prvního stupně exekuci nařídil 29. října 1997, tedy podle občanského soudního řádu ve znění účinném do 31. prosince 2000. Odvolací soud pak rozhodl v souladu s ustanovením bodu 15., hlavy I, části dvanácté zákona č. 30/2000 Sb., tedy (byť 14. května 2004, tudíž po 1. lednu 2001) správně podle občanského soudního řádu ve znění před novelizací. Je-li ovšem namístě usnesení odvolacího soudu posuzovat jako rozhodnutí vydané po řízení provedeném podle dosavadních předpisů, je nutno občanský soudní řád ve znění účinném do 31. prosince 2000 (dále též jen „o.s.ř.“) použít i pro účely posouzení přípustnosti dovolání (viz bod 17. in fine, hlavy I, části dvanácté zákona č. 30/2000 Sb.).
+V tomto ohledu dospěl Nejvyšší soud k závěru, že dovolání přípustné není.
+Podle ustanovení § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Přípustnost dovolání proti usnesení upravují ustanovení § 237, § 238a a § 239 o.s.ř. O žádný z případů v těchto ustanoveních vymezených však v dané věci nejde.
+Ustanovení § 237 odst. 1 o.s.ř. spojuje přípustnost dovolání proti každému rozhodnutí odvolacího soudu (s výjimkami zakotvenými v odstavci druhém) s takovými hrubými vadami řízení a rozhodnutí, které činí rozhodnutí odvolacího soudu zmatečným; tyto vady k nimž je dovolací soud (bylo-li dovolání podáno včas a k tomu legitimovaným subjektem) povinen podle ustanovení § 242 odst. 3 o.s.ř. přihlédnout z úřední povinnosti - v dovolání namítány nebyly a z obsahu spisu nevyplývají.
+Dovolání není přípustné ani podle § 238a odst. 1 o.s.ř., jelikož napadené rozhodnutí není usnesením měnícím nýbrž potvrzujícím, a nelze je podřadit ani případům taxativně vyjmenovaným pod písmeny b/ - f/ tohoto ustanovení (a tedy ani pod jeho písmenem d/, jelikož sice jde o usnesení potvrzující, nikoli však takové, jímž by bylo potvrzeno usnesení o zastavení řízení pro nedostatek pravomoci soudu).
+Přípustnost dovolání konečně není dána ani ustanovením § 239 o.s.ř., a to proto, že ji ve výroku svého rozhodnutí odvolací soud výslovně nezaložil (odstavec 1), a že návrh na vyslovení přípustnosti dovolání povinná nevznesla (odstavec 2).
+Vycházeje z uvedených závěrů, Nejvyšší soud dovolání podle ustanovení § 243b odst. 4 a § 218 odst. 1 písm. c/ o.s.ř. jako nepřípustné odmítl.
+Povinná z procesního hlediska – podáním nepřípustného dovolání – zavinila jeho odmítnutí, oprávněné, jež by jinak měla právo na náhradu nákladů dovolacího řízení, náklady tohoto řízení (podle obsahu spisu) nevznikly. Této procesní situaci odpovídá ve smyslu ustanovení § 146 odst. 2 věty první (per analogiam), § 224 odst. 1 a § 243b odst. 4 o.s.ř. výrok, že na náhradu nákladů tohoto řízení nemá právo žádný z účastníků.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 2. června 2005
+JUDr. Vladimír M i k u š e k , v. r.
+předseda senátu
