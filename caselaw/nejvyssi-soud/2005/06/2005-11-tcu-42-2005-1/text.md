@@ -1,0 +1,17 @@
+11 Tcu 42/2005
+U S N E S E N Í
+Nejvyšší soud České republiky projednal dne 8. června 2005 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na zápis odsouzení cizozemským soudem do evidence Rejstříku trestů a rozhodl t a k t o :
+Podle § 4 odst. 2 zák. č. 269/1994 Sb. s e do evidence Rejstříku trestů zaznamenají údaje o odsouzení občana České republiky L. F., rozsudkem Zemského soudu v Korneuburgu, Rakousko, ze dne 4. 12. 2003, sp. zn. 602 Hv 44/03h, a to pro trestný čin výdělečné krádeže vloupáním podle § 127, § 129 č. 1, § 130 rakouského trestního zákona, k trestu odnětí svobody v trvání dvanácti měsíců.
+O d ů v o d n ě n í :
+Výše označeným rozsudkem Zemského soudu v Korneuburgu, Rakousko, jenž nabyl právní moci dne 9. 12. 2003, byl L. F. uznán vinným trestným činem výdělečné krádeže vloupáním podle § 127, § 129 č. 1, § 130 rakouského trestního zákona, a to v podstatě na základě zjištění, že v době od 23. 10. 2003 do 24. 10. 2003 v H. se ve čtyřech případech vloupal různými způsoby (prolomením závěsného zámku, protlačením krycího plechu) do cizích nemovitostí a odcizil z nich 14 láhví s alkoholickými nápoji a jiné věci v hodnotě cca 185,- €.
+Za tento trestný čin mu byl uložen trest odnětí svobody v trvání dvanácti měsíců.
+Ministerstvo spravedlnosti České republiky podalo podle § 4 odst. 2 zák. č. 269/1994 Sb., o Rejstříku trestů (dále jen zákon), Nejvyššímu soudu České republiky návrh na zapsání výše uvedeného odsouzení rakouského soudu do evidence Rejstříku trestů České republiky.
+Nejvyšší soud České republiky věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro zápis odsouzení cizozemským soudem do evidence Rejstříku trestů.
+Především je třeba uvést, že podle § 4 odst. 2 zákona může Nejvyšší soud České republiky na návrh Ministerstva spravedlnosti České republiky rozhodnout, že se do evidence Rejstříku trestů zaznamenají též údaje o jiném odsouzení občana České republiky cizozemským soudem, jestliže se týká činu, který je trestným i podle právního řádu České republiky, a zápis do evidence je odůvodněn závažností činu a druhem trestu, který za něj byl uložen. Dále je nutno připomenout, že pokud Nejvyšší soud rozhodne o zaznamenání údajů o odsouzení do evidence Rejstříku trestů, hledí se na takové odsouzení cizozemským soudem jako na odsouzení soudem České republiky (§ 4 odst. 3 zákona).
+Z podaného návrhu a z obsahu připojeného spisového materiálu vyplývá, že odsouzený je občanem České republiky, který byl pravomocně odsouzen cizozemským soudem, přičemž odsouzení se týká skutku, který vykazuje znaky trestného činu i podle právního řádu České republiky (trestný čin krádeže podle § 247 tr. zák.). Tím jsou splněny formální podmínky ustanovení § 4 odst. 2 zákona.
+V posuzované věci jsou dány ovšem i podmínky materiální povahy. Odsouzený L. F. se dopustil celkem ve čtyřech případech úmyslné majetkové trestné činnosti, kterou spáchal společně s další osobou, a to vloupáním do cizích objektů za účelem odcizení různých věcí. Pokud jde o druh trestu, byl mu uložen nepodmíněný trest odnětí svobody v již nikoliv zanedbatelné délce. Lze tedy dovodit, že podmínky ustanovení § 4 odst. 2 zákona týkající se závažnosti činu a druhu uloženého trestu jsou splněny.
+Z uvedených důvodů proto Nejvyšší soud České republiky návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 8. června 2005
+Předseda senátu:
+JUDr. Antonín Draštík
