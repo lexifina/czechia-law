@@ -1,0 +1,16 @@
+20 Nd 105/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudců JUDr. Vladimíra Mikuška a JUDr. Vladimíra Kurky ve věci žalobkyně M. J., zastoupené advokátem, proti žalované České republice - Ministerstvu zemědělství, se sídlem v Praze 1, Těšnov 17, o vydání nemovitostí, o návrhu na přikázání věci, takto :
+Věc vedená u Okresního soudu v Jihlavě pod sp. zn. 9 C 293/2003 se nepřikazuje Obvodnímu soudu pro Prahu 2.
+O d ů v o d n ě n í :
+Žalobkyně navrhla, aby věc byla z důvodu vhodnosti přikázána Obvodnímu soudu pro Prahu 2, a to s ohledem na její bydliště (a bydliště jejího zástupce), věk a zdravotní stav, který cestování k soudu do J. prakticky vylučuje.
+Žalovaná s přikázáním věci Obvodnímu soudu pro Prahu 2 nesouhlasí. Okresní soud v Jihlavě je s předmětem řízení, který je komplikovaný, již obeznámen, a bylo by tudíž nehospodárné, aby se jím od počátku zabýval jiný soud; za žalovanou navíc jedná zaměstnanec Zemědělské agentury a pozemkového úřadu MZe v J.
+Podle ustanovení § 12 odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů (dále jen „o.s.ř.“), může být věc jinému soudu téhož stupně přikázána také z důvodu vhodnosti.
+Důvody vhodnosti podle tohoto ustanovení mohou být různé v závislosti na předmětu řízení, postavení účastníků i jiných okolnostech. Jde zejména o skutečnosti, z nichž lze dovodit, že jiným než příslušným soudem bude věc projednána rychleji, hospodárněji nebo po skutkové stránce – se zřetelem na navržené důkazy – spolehlivěji a důkladněji. K přikázání věci jinému než příslušnému soudu by však mělo docházet pouze výjimečně, a to ze závažných důvodů, neboť je uplatňováno jako výjimka z ústavně zaručené zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon (čl. 38 odst. 1 Listiny základních práv a svobod, vydané ústavním zákonem č. 23/1991 Sb. a usnesením předsednictva ČNR č. 2/1993 Sb. vyhlášené jako součást ústavního pořádku České republiky, ve znění ústavního zákona č. 162/1998 Sb.). Důvody pro odnětí věci příslušnému soudu a její přikázání soudu jinému tedy musí být natolik významné, aby dostatečně odůvodňovaly průlom do výše citovaného ústavního principu. Zákon přitom výslovně zakotvuje právo účastníků vyjádřit se k důvodům delegace i k soudu, k němuž má být věc delegována, aby vhodnost takového postupu mohla být zvážena také z pohledu jejich poměrů; delegací totiž nesmí být navozen stav, který by se v poměrech některého z účastníků projevil zásadně nepříznivě.
+Důvody, pro něž žalobkyně navrhla přikázání věci označenému soudu, neobstojí.
+Vzdálenost bydliště účastníka (zástupce) od sídla procesního soudu a jeho nepříznivý zdravotní stav samy o sobě přikázání věci jinému soudu neodůvodňují, je-li k dispozici institut dožádání (§ 39 o.s.ř.). Na zřeteli je nutné mít i to, že řízení bylo zahájeno v listopadu 1997, takže přikázání věci jinému soudu by bylo procesně neekonomické.
+Nejvyšší soud proto rozhodl, jak je uvedeno ve výroku tohoto usnesení (§ 12 odst. 3, věta první, o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 22. června 2005
+JUDr. Pavel K r b e k , v.r.
+předseda senátu
