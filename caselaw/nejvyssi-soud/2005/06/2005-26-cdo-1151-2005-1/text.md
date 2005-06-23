@@ -1,0 +1,25 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+26 Cdo 1151/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Roberta Waltra a soudců Doc. JUDr. Věry Korecké, CSc., a JUDr. Miroslava Feráka ve věci žalobce Bytového družstva T., proti žalované A. P., o přivolení k výpovědi z nájmu bytu, vedené u Okresního soudu v Teplicích pod sp. zn. 11 C 469/98, o dovolání žalované proti usnesení Krajského soudu v Ústí nad Labem ze dne 20. června 2001, č. j. 12 Co 287/2001-33, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Ústí nad Labem (odvolací soud) usnesením ze dne 20. 6. 2001, č.j. 12 Co 287/2001-33, potvrdil usnesení Okresního soudu v Teplicích (soud prvního stupně) ze dne 4. 5. 2001, č.j. 11 C 469/98-28, kterým bylo pro opožděnost odmítnuto odvolání žalované proti rozsudku téhož soudu ze dne 4. 11. 1999, č.j. 11 C 469/98-20, a rozhodl o nákladech odvolacího řízení.
+Podáním ze dne 23. 8. 2001, označeným jako „žádost o opravný rozsudek“, vyjádřila žalovaná nesouhlas s citovaným usnesením odvolacího soudu, proto bylo toto podání dle obsahu (§ 41 odst. 2 občanského soudního řádu – dále jen „o.s.ř.“) posouzeno jako dovolání (mimořádný opravný prostředek směřující proti pravomocnému rozhodnutí odvolacího soudu).
+Protože dovolání mělo vady bránící dalšímu pokračování dovolacího řízení a z obsahu spisu nevyplývalo, že by dovolatelka byla v dovolacím řízení zákonem stanoveným způsobem zastoupena, případně že by měla právnické vzdělání, soud prvního stupně ji usnesením ze dne 14. 4. 2005, doručeným jí 21. 4. téhož roku, vyzval, aby si ve lhůtě 15 dnů od jeho doručení zvolila zástupcem advokáta, předložila jemu udělenou plnou moc a jím sepsané dovolání, a poučil ji, že jinak dovolací řízení bude zastaveno. Dovolatelka však vytčený nedostatek neodstranila (reagovala podáním ze dne 28. 4. 2005, v němž uvedla pouze „sděluji jméno advokáta – Ž., V. ul. – pokud bude možné“).
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) se nejprve zabýval posouzením přípustnosti tohoto mimořádného opravného prostředku, neboť toliko z podnětu přípustného dovolání lze přezkoumat správnost napadeného rozhodnutí z hlediska uplatněných dovolacích důvodů.
+Podle § 236 odst. 1 o.s.ř. dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti usnesení odvolacího soudu je upravena v ustanoveních § 237, § 238, § 238a a v § 239 o.s.ř.
+Přípustnost dovolání podle § 237 o.s.ř. není dána, neboť napadeným usnesením odvolacího soudu nebylo změněno (§ 237 odst. 1 písm. a/ o.s.ř.) či potvrzeno (§ 237 odst. 1 písm. b/ a c/ o.s.ř.) rozhodnutí soudu prvního stupně, kterým bylo rozhodnuto ve věci samé.
+Dovolání není přípustné ani podle § 238, § 238a a § 239 odst. 1 a 2 o.s.ř., neboť nejde o žádný z případů v uvedených ustanoveních vyjmenovaných.
+Přípustnost dovolání není možno dovodit ani z ustanovení § 239 odst. 3 o.s.ř., neboť podle tohoto ustanovení je dovolání přípustné proti usnesení odvolacího soudu, kterým bylo potvrzeno usnesení soudu prvního stupně, jímž byla postupem podle § 43 o.s.ř. (tedy z důvodu neodstranění vad podání) odmítnuta žaloba, popřípadě, jímž byl podle tohoto ustanovení odmítnut jiný návrh na zahájení řízení. Odmítl-li soud prvního stupně podle § 208 odst. 1 o.s.ř. odvolání jako opožděné, není proti usnesení odvolacího soudu, kterým bylo usnesení soudu prvního stupně potvrzeno, dovolání přípustné. Ke stejnému závěru dospěl Nejvyšší soud již v usnesení ze dne 20. 11. 2001, sp. zn. 21 Cdo 1124/2001, uveřejněném ve Sbírce soudních rozhodnutí a stanovisek, ročník 2003, pod č. 41.
+Z výše uvedeného vyplývá, že přípustnost dovolání nelze opřít o žádné v úvahu přicházející ustanovení, a proto Nejvyšší soud dovolání podle § 243b odst. 5 věty první a § 218 písm. c) o.s.ř. pro nepřípustnost odmítl, aniž se jím mohl věcně zabývat.
+Na uvedených závěrech nemůže nic změnit okolnost, že napadené usnesení odvolacího soudu obsahuje nesprávné poučení o tom, že dovolání proti němu je přípustné, neboť takovéto zákonu odporující poučení přípustnost dovolání nezakládá (srov. usnesení Nejvyššího soudu ze dne 27. 6. 2002, sp. zn. 29 Odo 425/2002, uveřejněné v časopise Soudní judikatura 7/2002, pod č. 140).
+Pro úplnost lze dodat, že soud prvního stupně nadbytečně vyzýval žalovanou, aby si zvolila zástupcem pro dovolací řízení advokáta a předložila jím sepsané dovolání a plnou moc, a to vzhledem k tomu, že z ustanovení § 241b odst. 2 o.s.ř. vyplývá, že dovolatele není třeba k odstranění uvedeného nedostatku podmínky dovolacího řízení vyzývat tehdy, není-li dovolání přípustné.
+Výrok o nákladech dovolacího řízení se opírá o ustanovení § 243b odst. 5 věty první, § 224 odst. 1, § 146 odst. 3 o.s.ř. a o skutečnost, že žalobci nevznikly v dovolacím řízení žádné prokazatelné náklady, na jejichž náhradu by jinak měl proti dovolatelce právo.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 23. června 2005
+JUDr. Robert W a l t r , v. r.
+předseda senátu
