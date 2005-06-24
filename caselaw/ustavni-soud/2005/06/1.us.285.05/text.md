@@ -1,0 +1,133 @@
+I.ÚS 285/05 ze dne 24. 6. 2005
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Česká republika
+
+
+
+
+
+
+
+
+
+
+USNESENÍ
+
+
+
+
+
+
+
+
+
+
+Ústavního soudu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ústavní soud rozhodl dnešního dne soudcem zpravodajem Ivanou Janů ve věci ústavní stížnosti stěžovatele Ing. F. T.,zastoupeného Mgr. Markem Pilátem, advokátem, proti rozsudku Obvodního soudu pro Prahu 9 ze dne 1. 11. 2004, sp. zn. 1 T 13/2004, a proti rozsudku Městského soudu v Praze ze dne 25. 1. 2005, sp. zn. 9 To 18/2005, takto:
+Ústavní stížnost se odmítá.
+Odůvodnění:
+ 
+Ústavní stížností doručenou Ústavnímu soudu dne 13. 5. 2005 napadl stěžovatel rozsudek Obvodního soudu pro Prahu 9 ze dne 1. 11. 2004, sp. zn. 1 T 13/2004, a rozsudek Městského soudu v Praze ze dne 25. 1. 2005, sp. zn. 9 To 18/2005, kterým byl stěžovatel uznán vinným trestným činem nedovolené výroby a držení omamných a psychotropních a jedů podle § 187 odst. 1, 2 písm. a zákona č. 140/1961 Sb. trestního zákona (dále jen "trestní zákon"). 
+ 
+Jedním ze základních pojmových znaků ústavní stížnosti jakožto prostředku k ochraně ústavně zaručených základních práv a svobod je její subsidiarita. Ústavní stížnost lze zásadně podat pouze tehdy, kdy již nelze k ochraně práva využít jiné prostředky. 
+ 
+Proto Ústavní soud, předtím než přistoupí k věcnému posouzení ústavní stížnosti, je povinen zkoumat, zda stížnost splňuje všechny požadované náležitosti a zda jsou vůbec dány podmínky jejího věcného projednání stanovené zákonem č. 182/1993 Sb., o Ústavním soudu, (dále jen "zákon o Ústavním soudu"), včetně podmínek podle ustanovení § 75 odst. 1 zákona o Ústavním soudu, kdy je vyžadováno, aby před podáním ústavní stížnosti stěžovatel vyčerpal všechny procesní prostředky, které mu zákon k ochraně práva poskytuje.
+ 
+Ústavní stížnost není přípustná. 
+ 
+Jak si Ústavní soud ověřil dotazem na Obvodní soud pro Prahu 9, stěžovatel proti rozhodnutím která napadá ústavní stížností podal dovolání.
+ 
+Podle § 72 odst. 3 zákona o Ústavním soudu platí, že ústavní stížnost lze podat ve lhůtě 60 dnů od doručení rozhodnutí o posledním procesním prostředku k ochraně práva, přičemž řízení o dovolání jako o mimořádném opravném prostředku není ze seznamu zde uvedených řízení vyloučeno (narozdíl od návrhu na obnovu řízení). Z toho nepochybně vyplývá, že podané dovolání je z hlediska dikce zákona posledním prostředkem k ochraně práva stěžovatele (na rozdíl od podnětu k podání stížnosti pro porušení zákona, který jím podle zákona o Ústavním soudu a ustálené judikatury Ústavního soudu není). K souběžnému podávání dovolání a ústavní stížnosti proto není důvod (obdobně viz např. usnesení ústavního soudu 
+sp. zn. IV. ÚS 448/04
+,
+ I. ÚS 634/04
+,
+ I. ÚS 806/04
+,
+ I. ÚS 69/05
+ [nepublikována]).
+ 
+V dané věci stěžovatel podal dovolání souběžně s ústavní stížností. Ze shora uvedeného však vyplývá, že taková ústavní stížnost je co do naplnění formálních kritérií nepřípustná podle § 75 odst. 1 zákona, neboť posledním prostředkem k ochraně práva je zde podané dovolání. To nemůže být odmítnuto jako nepřípustné z důvodů závisejících na uvážení Nejvyššího soudu, což znamená, že nelze v tomto případě aplikovat větu za středníkem v § 75 odst. 1 zákona o Ústavním soudu, podle níž nelze trvat na vyčerpání mimořádného opravného prostředku, který může být orgánem který o něm rozhoduje odmítnut z důvodů závisejících na jeho uvážení. Lhůta k podání ústavní stížnosti proti rozhodnutí dovolacího soudu o dovolání, a rovněž tak eventuelně proti předcházejícím rozhodnutím obecných soudů, začne stěžovateli běžet až od doručení rozhodnutí Nejvyššího soudu o podaném dovolání.
+ 
+Podání ústavní stížnosti je předčasné. Pokud by byla za daného stavu ústavní stížnost věcně posouzena před rozhodnutím Nejvyššího soudu o podaném dovolání, mohl by Ústavní soud nepřípustně zasáhnout do rozhodování obecných soudů. Pokud by se naopak rozhodl vyčkávat na rozhodnutí dovolacího soudu, zbytečně by prodlužoval řízení o ústavní stížnosti a nepřímo by pobízel ostatní stěžovatele k souběžnému podávání ústavní stížnosti a dovolání, k němuž však vzhledem k textu zákona o Ústavním soudu není důvodu. Rozhodnutí Nejvyššího soudu nelze předjímat. Odmítnutí stávající ústavní stížnosti stěžovatele nepoškozuje, neboť pokud by jeho dovolání neuspělo, bude moci vypracovat novou ústavní stížnost, tak aby zohledňovala průběh a výsledky dovolacího řízení.
+ 
+Ústavní soud podotýká, že pokud by na vyčerpání dovolání před podáním ústavní stížnosti netrval, ocitlo by se rozhodování Nejvyššího soudu včetně posuzování dovolacích důvodů, mimo procesní rámec přezkumu Ústavním soudem. Ústavní soud již mnohokrát judikoval, že dovolací řízení se v žádném svém stádiu nenachází mimo ústavní rámec pravidel spravedlivého procesu vymezeného Úmluvy o ochraně lidských práv a základních svobod a Listinou základních práv a svobod. 
+ 
+Ústavní soud rovněž poznamenává, že jsou-li ve hře základní práva, musí být chráněna cestou všech opravných prostředků. Závaznými kompetenčními normami jsou i pro Nejvyšší soud čl. 4 a čl. 95 Ústavy zavazující soudní moc k ochraně základních práv a svobod. V tomto duchu je třeba vykládat i zákonné vymezení dovolacích důvodů (srovnej nález Ústavního soudu ve věci 
+sp. zn. I. ÚS 55/04
+ [www.usoud.cz]).
+ 
+Vzhledem k výše uvedenému, aniž by se Ústavní soud mohl zabývat meritem věci a aniž by se vyjadřoval k odůvodněnosti ústavní stížnosti, musel vzhledem k výše uvedenému a také vzhledem k doktríně minimalizace zásahů Ústavního soudu do rozhodovací činnosti obecných soudů předložený návrh odmítnout podle § 43 odst. 1 písm. e) zákona o Ústavním soudu.
+ 
+Poučení: Proti usnesení Ústavního soudu není odvolání přípustné.
+V Brně dne 24. června 2005
+Ivana Janů
+soudce zpravodaj
