@@ -1,0 +1,21 @@
+25 Cdo 1231/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Ing. Jana Huška a soudců JUDr. Marty Škárové a JUDr. Petra Vojtka v právní věci žalobkyně Mgr. D. K. proti žalovaným 1) Okresnímu soudu v Ostravě, U soudu 4, 708 00 Ostrava – Poruba a 2) Krajskému soudu Ostrava, Havlíčkovo nábřeží 34, 702 00 Ostrava – Moravská Ostrava, o zaplacení 3,000.000,- Kč s příslušenstvím, vedené u Okresního soudu v Ostravě pod sp. zn. 33 C 58/2003, o dovolání žalobkyně proti usnesení Krajského soudu v Ostravě ze dne 29. 11. 2004, č. j. 42 Co 570/2004-44, takto :
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Ostravě jako soud odvolací usnesením ze dne 29. 11. 2004, č. j. 42 Co 570/2004-44, potvrdil usnesení Okresního soudu v Ostravě ze dne 2. 8. 2004, č. j. 33 C 58/2003-34, jímž tento soud zastavil řízení o zaplacení 3,000.000,- Kč s příslušenstvím proto, že žalobkyně v žalobě neoznačila jako žalované subjekty, které jsou způsobilé být účastníky občanského soudního řízení.
+V odůvodnění usnesení odvolací soud zejména uvedl, že žalobkyně za žalované jednoznačně označila Okresní soud v Ostravě a Krajský soud v Ostravě a takto označení žalovaní nemohou být účastníky občanského soudního řízení, neboť jsou organizačními složkami České republiky. Pokud soud prvního stupně řízení zastavil, je jeho rozhodnutí věcně správné, neboť je dán takový nedostatek podmínky řízení, který nelze odstranit.
+Dovoláním ze dne 27. 1. 2005 žalobkyně napadla výše uvedené usnesení odvolacího soudu s tím, že dovolání doplní po přidělení advokáta. Zároveň požádala o osvobození od placení soudních poplatků a o přidělení advokáta.
+Okresní soud v Ostravě usnesením ze dne 8. 2. 2005, č. j. 33 C 58/2003-54, žalobkyni nepřiznal osvobození od placení soudních poplatků v dovolacím řízení a taktéž zamítl návrh žalobkyně na ustanovení právního zástupce pro dovolací řízení.
+Poté Okresní soud v Ostravě usnesením ze dne 15. 4. 2005, č. j. 33 C 58/2003-59, žalobkyni vyzval, aby si pro dovolací řízení zvolila zástupce – advokáta, a to ve lhůtě do 7 dnů od doručení tohoto usnesení. Zároveň žalobkyni poučil o následcích nesplnění výzvy, a to o zastavení dovolacího řízení. Žalobkyně na výzvu nereagovala a ve stanovené lhůtě si pro dovolací řízení advokáta nezvolila.
+Nejvyšší soud České republiky jako soud dovolací konstatoval, že dovolání bylo podáno včas, oprávněnou osobou a dospěl k závěru, že rozhodnutí o dovolání brání nedostatek podmínky dovolacího řízení.
+Podle § 241 odst. 1 věty první o.s.ř. není-li stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Uvedené neplatí, je-li dovolatelem fyzická osoba, která má právnické vzdělání [§ 241 odst. 2 písm. a) o.s.ř.]. Dovolání musí být sepsáno, nemá-li sám dovolatel právnické vzdělání, advokátem nebo notářem.
+Z uvedeného vyplývá, že je zákonem stanoven požadavek, aby účastník dovolacího řízení, jímž je fyzická osoba, která podává dovolání, byl zastoupen advokátem nebo notářem, pokud sám nemá právnické vzdělání. Jde tak o zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejího odstranění nelze o dovolání rozhodnout.
+V posuzované věci, jak již bylo uvedeno, žalobkyni nebylo přiznáno osvobození od placení soudních poplatků z dovolání a nebyl jí ustanoven soudem advokát pro dovolací řízení. Žalobkyně si ani po výzvě soudu ve stanovené lhůtě nezvolila právního zástupce a neučinila tak dosud a taktéž neprokázala a ani netvrdila, že by sama měla právnické vzdělání. Tím zůstal neodstraněn nedostatek povinného právního zastoupení v dovolacím řízení. Žalobkyně byla též řádně poučena o důsledcích nesplnění uvedené výzvy.
+Nejvyšší soud proto podle § 243c odst. 1 a § 104 odst. 2 věty třetí o.s.ř. dovolací řízení zastavil.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1, § 146 odst. 2 o.s.ř. a s ohledem na to, že žalovaným žádné náklady v řízení nevznikly tak, že žádný z účastníků nemá právo na jejich náhradu.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 28. června 2005
+JUDr. Ing. Jan Hušek, v. r.
+předseda senátu
