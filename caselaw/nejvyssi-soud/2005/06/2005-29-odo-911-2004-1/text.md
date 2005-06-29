@@ -1,0 +1,21 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+29 Odo 911/2004
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedkyně JUDr. Ivany Štenglové a soudců JUDr. Pavla Severina a JUDr. Zdeňka Krčmáře v právní věci zápisu změny u společnosti R. h. – G., a. s., do obchodního rejstříku, vedené u Krajského soudu v Hradci Králové pod sp. zn. B 1791, o dovolání R. h. – G., a. s. proti usnesení Vrchního soudu v Praze, ze dne 23. února 2004, čj. 7 Cmo 507/2003-120, takto:
+I. Dovolání se odmítá
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Napadeným usnesením potvrdil odvolací soud usnesení Krajského soudu v Hradci Králové ze dne 19.5.2003, čj. F 12673/2003 / B 1791-45, kterým soud prvního stupně zahájil řízení o výmaz předmětu podnikání z obchodního rejstříku (výrok I.), rozhod o výmazu ve výroku uvedených předmětů podnikání společnosti R. h. – G., a.s. (dále jen „společnost“) (výrok II.) z obchodního rejstříku a uložil společnosti uhradit soudní poplatek za zápis změny v obchodním rejstříku (výrok III.).
+Proti usnesení odvolacího soudu podala společnost dovolání. Jeho důvodnost opírá o ustanovení § 241a odst. 3 občanského soudního řádu (dále jen „o. s. ř.“), když tvrdí, že rozhodnutí prvoinstančního i odvolacího soudu vychází ze skutkového zjištění, které nemá podle obsahu spisu v podstatné části oporu v provedeném dokazování. Jiný dovolací důvod neuplatňuje. Dále uvádí, že je toho názoru, že dovolání má po právní stránce ve věci samé zásadní právní význam, a proto navrhuje, aby Nejvyšší soud napadené usnesení odvolacího soudu a spolu s ním i usnesení soudu prvního stupně zrušil a věc vrátil posledně uvedenému soudu k dalšímu řízení.
+Dovolání není přípustné.
+Vzhledem k tomu, že napadené rozhodnutí odvolacího soudu je jeho prvním potvrzujícím rozhodnutím ve věci samé, může být dovolání přípustné jen při splnění předpokladů uvedených v ustanovení § 237 odst. 1 písm. c) o. s. ř.
+Dovolací soud je při přezkoumání rozhodnutí odvolacího soudu zásadně vázán uplatněnými dovolacími důvody (srov. § 242 odst. 3 o. s. ř.); vyplývá z toho mimo jiné, že při zkoumání, zda napadené rozhodnutí odvolacího soudu má ve smyslu ustanovení § 237 odst. 3 o.s.ř. ve věci samé po právní stránce zásadní právní význam, může posuzovat jen takové právní otázky, které dovolatel v dovolání označil.
+Dovolání může být podle ustanovení § 237 odst. 1 písm. c) o.s.ř. přípustné, jen jestliže napadené rozhodnutí odvolacího soudu má ve věci samé zásadní význam po právní stránce. Dovolání v tomto případě lze podat jen z důvodu, že řízení je postiženo vadou, která měla za následek nesprávné rozhodnutí ve věci [srov. § 241a odst. 2 písm. a) o. s. ř.], nebo zdůvodu, že rozhodnutí spočívá na nesprávném právním posouzení věci [srov. § 241a odst. 2 písm. b) o. s. ř.]. Z výše uvedeného současně vyplývá, že na závěr, zda má napadené rozhodnutí odvolacího soudu ve věci samé zásadní význam po právní stránce, lze usuzovat jen z okolností, uplatněných dovolacím důvodem podle ustanovení § 241a odst. 2 písm. b) o. s. ř., a že k okolnostem uplatněným dovolacími důvody podle ustanovení § 241a odst. 2 písm. a) nebo ustanovení § 241a odst. 3 o. s. ř. nemůže být při posouzení, zda je dovolání přípustné podle ustanovení § 237 odst. 1 písm. c) o. s. ř., přihlédnuto (to se ostatně podává přímo z textu § 241a odst. 3 o. s. ř., který v jiných než tam uvedených případech užití uplatněného dovolacího důvodu nedovoluje).
+Vzhledem k tomu, že dovolatelka uplatnila dovolací důvod uvedený v ustanovení § 241a odst. 3 o. s. ř., který, jak již bylo uvedeno výše, není způsobilým podkladem pro závěr o zásadním významu napadeného usnesení po právní stránce, je nepochybné, že dovolání proti usnesení odvolacího soudu není podle ustanovení § 237 odst. 1 písm. c) o. s. ř. přípustné.
+Protože dovolací soud neshledal ani jiný důvod přípustnosti dovolání, dovolání podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 1 písm. a) o. s. ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 29. června 2005
+JUDr. Ivana Štenglová, v.r.
+předsedkyně senátu
