@@ -1,0 +1,18 @@
+20 Cdo 755/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Ištvánka a soudců JUDr. Vladimíra Kůrky a JUDr. Vladimíra Mikuška v exekuční věci oprávněné Z. H., zastoupené advokátem, proti povinné D. H., zastoupené advokátkou, o nařízení exekuce a pověření soudního exekutora, vedené u Okresního soudu v Karviné – pobočka v Havířově pod sp. zn. 127 Nc 1213/2002, o dovolání povinné proti usnesení Krajského soudu v Ostravě ze dne 29. října 2004, č. j. 10 Co 1176/2004-235 a 10 Co 1177/2004-235, takto :
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Odvolací soud potvrdil dvě usnesení soudu prvního stupně, kterými byl jednak odmítnut návrh povinné na odklad výkonu exekuce a následně bylo řízení o návrhu na částečné zastavení exekuce z důvodu nezaplacení soudního poplatku zastaveno.
+Proti potvrzujícím usnesením odvolacího soudu podala povinná, zastoupena advokátem, včasné dovolání, které má za přípustné ve smyslu ustanovení § 238a zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů (dále jen „o.s.ř.“), jímž brojí proti procesnímu postupu odvolacího soudu a soudu prvního stupně.
+Dovolání není přípustné.
+Podle ustanovení § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Přípustnost dovolání proti usnesení odvolacího soudu upravují ustanovení § 237 až § 239 o.s.ř.
+Přípustnost dovolání podle § 237 odst. 1 o.s.ř. není dána, jestliže rozhodnutím odvolacího soudu nebylo potvrzeno usnesení, kterým by soud prvního stupně rozhodl ve věci samé. Věcí samou se nezpochybnitelně v právní teorii i v soudní praxi rozumí předmět, pro nějž se řízení vede, a jeho příslušenství, jež může i samo o sobě (je-li uplatněno jako předmět řízení) představovat meritum věci. Za rozhodnutí ve věci samé bývají soudní praxí v exekučních věcech označována usnesení, jimž se nařizuje výkon rozhodnutí (exekuce), jimiž se rozhoduje o zastavení výkonu (exekuce), případně o rozvrhu rozdělované podstaty (k pojmu „věc sama“ srov. dále usnesení Nejvyššího soudu z 2. prosince 1997, sp. zn. 2 Cdon 774/97, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek č. 10, ročník 1998 pod poř. č. 61).
+Dovolání není přípustné podle § 238 a § 238a o.s.ř., neboť usnesením soudu prvního stupně nebylo rozhodnuto ve věcech zde vyjmenovaných, a z § 239 odst. 1, 2 a 3 o.s.ř. rovněž přípustnost dovolání nevyplývá, protože nejde o případy v těchto ustanoveních uvedené (odvolací soud zde dovoláním napadeným usnesením nepotvrdil usnesení soudu prvního stupně o zastavení řízení podle § 104 odst. 1 o.s.ř. – viz § 239 odst. 2 písm. a/ o.s.ř.).
+Usnesení odvolacího soudu, jímž odvolací soud potvrdil usnesení soudu prvního stupně ve věci odkladu výkonu exekuce dle ustanovení § 266 odst. 1 o.s.ř. [§ 54 odst. 1 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů ve znění pozdějších předpisů] a ve věci zastavení řízení o návrhu na částečné zastavení exekuce dle ustanovení § 9, odst. 1 zákona č. 549/1991 Sb., o soudních poplatcích nejsou usneseními ve věci samé a ani proti nim není výslovně připuštěno dovolání.
+Protože dovolání není podle žádného v úvahu připadajícího ustanovení občanského soudního řádu přípustné, Nejvyšší soud jej – aniž se jím mohl zabývat z pohledu uplatněných námitek – odmítl (§ 243b odst. 5, věta první, § 218 písm. c/ o.s.ř.).
+O nákladech dovolacího řízení bude rozhodnuto v poměrech Hlavy VI. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů ve znění pozdějších předpisů.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 13.července 2005
+JUDr. František I š t v á n e k , v.r.
+předseda senátu
