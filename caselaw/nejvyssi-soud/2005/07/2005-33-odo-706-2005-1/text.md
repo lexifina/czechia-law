@@ -1,0 +1,22 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+33 Odo 706/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Blanky Moudré a soudců JUDr. Ivany Zlatohlávkové a Víta Jakšiče ve věci žalobce M. H., proti žalované Č.T., a. s. za účasti vedlejšího účastníka na straně žalobce JUDr. V. N., o částku 7.579,30 Kč, vedené u Obvodního soudu pro Prahu 9 pod sp. zn. 10 C 121/2002, o dovolání vedlejšího účastníka na straně žalobce proti usnesení Městského soudu v Praze ze dne 31. května 2004, č. j. 29 Co 237/2004-47, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 9 usnesením ze dne 2. prosince 2003, č. j. 10 C 121/2002-33, výrokem I. zamítl návrh žalobce na přerušení řízení a výrokem II. nepřiznal žalobci osvobození od soudních poplatků.
+Městský soud v Praze usnesením ze dne 31. května 2004, č. j. 29 Co 237/2004-47, odvolání žalobce proti výroku I. usnesení soudu prvního stupně odmítl, ve výroku II. je potvrdil a rozhodl o nákladech odvolacího řízení. JUDr. V. N., vstoupil dne 25. 8. 2004 do řízení jako vedlejší účastník na straně žalobce (uvedeného dne soudu prvního stupně došlo jeho sdělení o vstupu do řízení).
+Vedlejší účastník na straně žalobce podal proti usnesení odvolacího soudu dovolání. Vyjádřil v něm přesvědčení, že napadené rozhodnutí bylo vydáno v rozporu s hmotným právem, a tudíž má zásadní právní význam ve smyslu § 237 odst. 1 písm. c/, odst. 3 o. s. ř. Není srozuměn s tím, že soudy jeho návrh na přerušení řízení zamítly a že mu nepřiznaly osvobození od soudních poplatků.
+S ohledem na den vydání napadeného usnesení Nejvyšší soud České republiky dovolání projednal a rozhodl podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění před 1. 4. 2005, kdy nabyla účinnosti jeho novela provedená zákonem č. 59/2005 Sb. (srovnej článek II, bod 3 přechodných ustanovení zákona č. 59/2005 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony).
+Nejvyšší soud jako soud dovolací (§ 10a o. s. ř.) se nejprve zabýval otázkou, zda vedlejší účastník je v této věci legitimován k podaní dovolání.
+Podle § 240 odst. 1 věty první o. s. ř. účastník může podat dovolání do dvou měsíců od doručení rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni.
+Podle § 93 odst. 3 o. s. ř. v řízení má vedlejší účastník stejná práva a povinnosti jako účastník. Jedná však toliko sám za sebe. Jestliže jeho úkony odporují úkonům účastníka, kterého v řízení podporuje, posoudí je soud po uvážení všech okolností.
+Vedlejší účastník má podle této úpravy zásadně stejná práva a povinnosti jako účastník řízení a jeho postavení se odvíjí od účastníka, na jehož podporu vystupuje; není však oprávněn provádět úkony znamenající dispozici s řízením, s předmětem řízení nebo s úkony, které učinil sám účastník. Zákon přitom výslovně neřeší, zda je vedlejší účastník oprávněn podat dovolání. Vzhledem k tomu, že v zákoně je výslovně upravena legitimace vedlejšího účastníka pouze k podání odvolání, žaloby na obnovu řízení a žaloby pro zmatečnost při současném vymezení podmínek, za nichž může tyto opravné prostředky uplatnit (srovnej § 203 odst. 1 a § 231 odst. 1 o. s. ř. ve znění účinném od 1. 1. 2001), zatímco o oprávnění vedlejšího účastníka podat dovolání zákon nic neuvádí, je třeba dovodit, že zákon vedlejšímu účastníku oprávnění podat dovolání nedává. Tento výklad (pomocí argumentu e silentio legis) je soudy obecně zastáván (viz B., J., D., L., M., M., Občanský soudní řád. Komentář. II. díl. 6. vydání, Praha : C. H. Beck, 2003, s. 1059, bod 3.). Ke shodnému závěru dospěl také Nejvyšší soud České republiky v usnesení ze dne 27. května 2003, sp. zn. 25 Cdo 162/2003, uveřejněném ve Sbírce soudních rozhodnutí a stanovisek pod R 3/2004.
+V posuzovaném případě podal dovolání vedlejší účastník na straně žalobce, tedy někdo, kdo k tomu není oprávněn. Dovolací soud proto takové dovolání podle § 243b odst. 5 věty první a § 218 písm. b/ o. s. ř. odmítl.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř. za stavu, kdy žalované (ani žalobci) v dovolacím řízení nevznikly žádné náklady.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 19. července 2005
+JUDr. Blanka Moudrá,v.r.
+předsedkyně senátu
