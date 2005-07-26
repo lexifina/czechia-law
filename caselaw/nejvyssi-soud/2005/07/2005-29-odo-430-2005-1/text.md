@@ -1,0 +1,29 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+29 Odo 430/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudců JUDr. Zdeňka Krčmáře a JUDr. Ivany Štenglové v právní věci návrhu S. B., a. s., za účasti A. P. W. & P. s. r. o., na vyloučení rozhodců, vedené u Městského soudu v Praze pod sp. zn. 3 Cm 20/2002, o dovolání A. P. W. & P. s. r. o. proti usnesení Vrchního soudu v Praze ze dne 17. září 2004, č.j. 1 Co 217/2004-38, takto:
+I. Dovolání se odmítá.
+II. A. P. W. & P. s. r. o. je povinna zaplatit navrhovatelce na náhradu nákladů dovolacího řízení částku 900,- Kč, do tří dnů od právní moci tohoto usnesení, k rukám jejího zástupce.
+O d ů v o d n ě n í :
+Vrchní soud v Praze usnesením ze dne 17. září 2004, č.j. 1 Co 217/2004-38, potvrdil usnesení ze dne 10. února 2004, č.j. 3 Cm 20/2002-15, jímž Městský soud v Praze rozhodl o vyloučení rozhodců JUDr. E. P. a prof. Dr. A. J. B. z projednání a rozhodnutí věci vedené u Rozhodčího soudu při H. k. Č. r. a A. k. Č. r. pod č.j. Rsp 167/01 a A. P. W. & P. s. r. o. (dále jen „společnost“) uložil zaplatit navrhovatelce náklady řízení v částce 1.000,- Kč (první výrok) a žádnému z účastníků nepřiznal právo na náhradu nákladů odvolacího řízení (druhý výrok).
+Odkazuje na ustanovení § 8, § 11 a § 12 odst. 2 zákona č. 216/1994 Sb., o rozhodčím řízení a o výkonu rozhodčích nálezů (dále jen „zákon“), odvolací soud přitakal závěru soudu prvního stupně, že postup shora jmenovaných rozhodců (který současně v důvodech rozhodnutí popsal) „může vzbudit oprávněné pochybnosti“ o jejich nepodjatosti.
+Proti usnesení odvolacího soudu podala společnost dovolání, jež má za přípustné podle ustanovení § 237 odst. 1 písm. c) občanského soudního řádu (dále jen „o. s. ř.“), uplatňujíc dovolací důvody podle ustanovení § 241a odst. 2 písm. a) a b) o. s. ř., jejichž prostřednictvím odvolacímu soudu vytýká, že řízení je postiženo vadou, která mohla mít za následek nesprávné rozhodnutí ve věci [odstavec 2 písm. a)], a že jeho rozhodnutí spočívá na nesprávném právním posouzení věci [odstavec 2 písm. b)]. Dovolatelka snáší argumenty na podporu uplatněných dovolacích důvodů, přičemž zpochybňuje také existenci pravomoci soudu k projednání a rozhodnutí návrhu na vyloučení rozhodců.
+Proto dovolatelka požaduje, aby Nejvyšší soud rozhodnutí odvolacího soudu zrušil a řízení pro nedostatek soudní pravomoci zastavil, popř. věc přikázal věcně a místně příslušnému soudu k dalšímu řízení.
+Navrhovatelka shledává dovolání opožděným a navrhuje, aby je Nejvyšší soud odmítl.
+Podle ustanovení § 240 o. s. ř. účastník může podat dovolání do dvou měsíců od doručení rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Bylo-li odvolacím soudem vydáno opravné usnesení, běží tato lhůta od doručení opravného usnesení (odstavec 1). Zmeškání lhůty uvedené v odstavci 1 nelze prominout. Lhůta je však zachován
+a, bude-li dovolání podáno ve lhůtě u odvolacího nebo dovolacího soudu (odstavec 2). Lhůta je zachována také tehdy, jestliže dovolání bylo podáno po uplynutí dvouměsíční lhůty proto, že se dovolatel řídil nesprávným poučením soudu o dovolání. Neobsahuje-li rozhodnutí poučení o dovolání, o lhůtě k dovolání nebo o soudu, u něhož se podává, nebo obsahuje-li nesprávné poučení o tom, že dovolání není přípustné, lze podat dovolání do čtyř měsíců od doručení (odstavec 3).
+Usnesení odvolacího soudu bylo dovolatelce (jejímu zástupci) doručeno 19. října 2004 (srov. doručenku u č.l. 38). Ve smyslu ustanovení § 57 odst. 2 o. s. ř. byl posledním dnem dvouměsíční lhůty k podání dovolání 20. prosinec 2004 (pondělí). Dovolání podané společností 21. února 2005 (srov. obálku č.l. 50), tak bylo podáno po uplynutí lhůty určené ustanovením § 240 odst. 1 o. s. ř.
+Posouzení, zda dovolání společnosti je včasné či nikoli, proto závisí na řešení otázky, zda poučení obsažené v dovoláním napadeném rozhodnutí odvolacího soudu, podle něhož „proti tomuto usnesení není odvolání ani dovolání přípustné“, je správné.
+Podle ustanovení § 236 odst. 1 o. s. ř. dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti usnesení odvolacího soudu upravují ustanovení § 237, § 238, § 238a a § 239 o. s. ř.
+Ustanovení § 238 až § 239 o. s. ř. přípustnost dovolání nezakládají již proto, že usnesení odvolacího soudu, jímž bylo potvrzeno usnesení soudu prvního stupně o vyloučení rozhodců, nelze podřadit žádnému z případů v těchto ustanoveních vyjmenovaných.
+Oproti očekávání dovolatelky nelze přípustnost dovolání dovodit ani z ustanovení § 237 o. s. ř. Byť rozhodnutím o tom, zda jsou rozhodci vyloučeni z projednávání věci (§ 12 odst. 2 zákona), řízení před soudem končí, jde pouze o rozhodnutí procesní, a nikoli, posuzováno z hlediska rozhodnutí sporu v rozhodčím řízení, o rozhodnutí ve věci samé.
+Závěr dovolacího soudu o nepřípustnosti dovolání pak nevyhnutně vede k závěru, podle něhož je dovolání opožděné.
+Nejvyšší soud proto podle ustanovení § 243b odst. 5 a § 218a o. s. ř. opožděné dovolání odmítl.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání společnosti bylo odmítnuto a společnosti vznikla povinnost nahradit navrhovatelce náklady dovolacího řízení. Náklady dovolacího řízení vzniklé navrhovatelce sestávají ze sazby odměny za zastupování advokátem v řízení v jednom stupni v částce 750,- Kč podle ustanovení § 14 odst. 3 a § 15 vyhlášky č. 484/2000 Sb., a z paušální náhrady 150,- Kč za dva úkony právní služby (převzetí a příprava zastoupení a vyjádření k dovolání) podle ustanovení § 13 odst. 3 vyhlášky č. 177/1996 Sb., a celkem činí 900,- Kč.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+Nesplní-li povinná, co jí ukládá vykonatelné rozhodnutí, může se oprávněná domáhat výkonu rozhodnutí.
+V Brně 26. července 2005
+JUDr. Petr Gemmel,v.r.
+předseda senátu
