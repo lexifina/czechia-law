@@ -1,0 +1,17 @@
+11 Tvo 36/2005
+U S N E S E N Í
+Nejvyšší soud projednal v neveřejném zasedání konaném dne 29. 7. 2005 stížnost obviněného B. D. Ch., proti usnesení Vrchního soudu v Olomouci ze dne 18. 5. 2005, sp. zn. 4 To 40/2005, a rozhodl t a k t o :
+Podle § 148 odst. 1 písm. c) tr. řádu s e stížnost obviněného B. D. Ch. z a m í t á .
+O d ů v o d n ě n í :
+Rozsudkem Krajského soudu v Ostravě ze dne 22. 12. 2004, sp. zn. 33 T 9/2003, byl obviněný B. D. Ch. uznán vinným trestným činem neoprávněné výroby a držení omamných a psychotropních látek a jedů podle § 187 odst. 1, 2 písm. a), odst. 3 písm. a) tr. zák. a odsouzen k nepodmíněnému trestu odnětí svobody v trvání devíti let, pro jehož výkon byl zařazen do věznice se zvýšenou ostrahou, k trestu propadnutí věci a k trestu vyhoštění na dobu neurčitou. Stejným rozsudkem bylo rozhodnuto o vině a trestu dalších dvanácti obviněných.
+Proti tomuto rozsudku podali všichni obvinění odvolání a trestní věc byla předložena Vrchnímu soudu v Olomouci jako soudu odvolacímu.
+Podáním ze dne 12. 5. 2005 požádal obviněný B. D. Ch. o propuštění z vazby na svobodu a současně nabídl písemný slib.
+Vrchní soud v Olomouci usnesením ze dne 18. 5. 2005, sp. zn. 4 To 40/2005, podle § 72 odst. 3 tr. řádu žádost obviněného o propuštění z vazby na svobodu zamítl a podle § 73 odst. 1 písm. b) tr. řádu a contrario nepřijal ani jím nabízený písemný slib k nahrazení vazby.
+Proti tomuto usnesení podal obviněný B. D. Ch. v zákonné lhůtě stížnost, neboť má za to, že napadené usnesení zcela neodpovídá zjištěnému stavu věci a své ponechání ve vazbě považuje za nezákonné. Proto navrhl, aby Nejvyšší soud napadené usnesení vrchního soudu zrušil a jeho propustil z vazby na svobodu.
+Nejvyšší soud z podnětu podané stížnosti přezkoumal podle § 147 odst. 1 tr. řádu správnost napadeného rozhodnutí i řízení, které mu předcházelo, a dospěl k tomuto závěru.
+O důvodnosti vazby obviněného B. D. Ch. bylo v průběhu dosavadního řízení opakovaně rozhodováno, naposledy usnesením Vrchního soudu v Olomouci ze dne 18. 5. 2005. Rozsudkem soudu prvního stupně byl obviněný uznán vinným mimořádně závažnou a rozsáhlou trestnou činností, za kterou mu stále hrozí uložení přísného trestu. Zanedbatelné rovněž není, že se jedná o cizího státního příslušníka, jež k území České republiky nemá pevné vazby. Za tohoto stavu je obava z vyhýbání se trestnímu řízení, ať již tím, že by mohl uprchnout, nebo tím, že by se mohl skrývat, i nadále reálná. Stejně tak existuje s ohledem na charakter jeho trestné činnosti a dosavadní způsob obživy reálné nebezpečí, že by obviněný na svobodě trestnou činnost, která představovala zdroj jeho příjmů, opakoval. Obava z toho, že se obviněný při pobytu na svobodě bude chovat způsobem předvídaným ustanovením § 67 písm. a), c) tr. řádu, je natolik silná, že ji nelze rozptýlit ani nabízeným písemným slibem obviněného. V tomto směru lze odkázat na zdůvodnění všech předchozích rozhodnutí, včetně výroku i odůvodnění napadeného usnesení vrchního soudu. Protože se Nejvyšší soud s tímto rozhodnutím plně ztotožňuje, nemohla se stížnost obviněného B. D. Ch. setkat s úspěchem a nezbylo, než rozhodnout, jak je ve výroku tohoto usnesení uvedeno.
+Trestní řízení proti obviněnému trvá zatím dobu, která je přiměřená náročnosti projednávané věci, žádné nepřiměřené průtahy během tohoto řízení nebyly zjištěny.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 29. července 2005
+Předseda senátu:
+JUDr. Pavel Kučera
