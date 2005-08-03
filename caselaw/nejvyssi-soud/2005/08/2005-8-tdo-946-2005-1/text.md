@@ -1,0 +1,25 @@
+8 Tdo 946/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v neveřejném zasedání konaném dne 3. srpna 2005 o dovolání podaném obviněným R. Z., t. č. ve výkonu trestu odnětí svobody ve Věznici B., proti usnesení Vrchního soudu v Praze ze dne 31. 3. 2005, sp. zn. 10 To 33/2005, jako soudu druhého stupně ve věci vedené u Krajského soudu v Ústí nad Labem pod sp. zn. 48 Nt 1/2003, t a k t o :
+Podle § 265i odst. 1 písm. a) tr. ř. se dovolání obviněného R. Z. o d m í t á .
+O d ů v o d n ě n í :
+Usnesením ze dne 26. 11. 2004, sp. zn. 48 Nt 1/2003, Krajský soud v Ústí nad Labem podle § 283 písm. d) tr. ř. zamítl návrh obviněného R. Z. na povolení obnovy řízení, které skončilo pravomocným rozsudkem Krajského soudu v Ústí nad Labem ze dne 9. 8. 2000, sp. zn. 2 T 82/2000. Svůj závěr o zamítnutí uvedeného návrhu jmenovaný soud opřel o zjištění, že nebyly shledány důvody obnovy podle § 278 tr. ř.
+Proti tomuto usnesení podal obviněný stížnost, již projednal Vrchní soud v Praze v neveřejném zasedání konaném dne 31. 3. 2005, a usnesením sp. zn. 10 To 33/2005 ji podle § 148 odst. 1 písm. c) tr. ř. jako nedůvodnou zamítl.
+Proti usnesení soudu druhého stupně podal obviněný prostřednictvím své obhájkyně JUDr. M. Č. dovolání, jež vymezil důvody dovolání uvedenými v § 265b odst. 1 písm. g), l) tr. ř. Namítl nedostatečný rozsah provedeného dokazování, neboť soud nevyhověl jeho návrhům na doplnění důkazů, a v souladu s předchozí obhajobou poukázal na absenci důkazů, z nichž by bylo možné usuzovat na jeho vinu. Navrhl, aby Nejvyšší soud usnesení Vrchního soudu v Praze ze dne 31. 3. 2005, sp. zn. 10 To 33/2005, zrušil a aby věc tomuto soudu vrátil k novému projednání a rozhodnutí.
+Státní zástupce činný u Nejvyššího státního zastupitelství ve svém vyjádření podle ustanovení § 265h odst. 2 tr. ř. uvedl, že dovolání obviněného není přípustné, neboť usnesení, jímž soud rozhodl o návrhu na povolení obnovy řízení podle § 283 tr. ř., není uvedeno v ustanovení § 265a odst. 2 písm. a) až h) tr. ř., kde jsou taxativně vyjmenována rozhodnutí, která zákon považuje za rozhodnutí ve věci samé a proti nimž je možno dovolání podat. Navrhl proto, aby Nejvyšší soud podané dovolání jako nepřípustné podle § 265i odst. 1 písm. a) tr. ř. odmítl, přičemž souhlasil s tím, aby tak za podmínek uvedených v ustanovení § 265r odst. 1 tr. ř. učinil v neveřejném zasedání.
+Nejvyšší soud České republiky jako soud dovolací (§ 265c tr. ř.) nejprve zkoumal, zda v dané trestní věci jsou splněny podmínky přípustnosti dovolání podle § 265a tr. ř. Podle odst. 1 tohoto ustanovení lze dovoláním napadnout pravomocné rozhodnutí soudu ve věci samé, jestliže soud rozhodl ve druhém stupni a zákon to připouští, přičemž v § 265a odst. 2 písm. a) až písm. h) tr. ř. jsou taxativně vypočtena rozhodnutí, která je možno považovat za rozhodnutí ve věci samé. Jsou jimi:
+a) rozsudek, jímž byl obviněný uznán vinným a uložen mu trest, popřípadě ochranné opatření nebo bylo upuštěno od potrestání,
+b) rozsudek, jímž byl obviněný obžaloby zproštěn,
+c) usnesení o zastavení trestního stíhání,
+d) usnesení o postoupení věci jinému orgánu,
+e) usnesení, jímž bylo uloženo ochranné opatření,
+f) usnesení o podmíněném zastavení trestního stíhání,
+g) usnesení o schválení narovnání, nebo
+h) rozhodnutí, jímž byl zamítnut nebo odmítnut řádný opravný prostředek proti rozsudku nebo usnesení uvedenému pod písmeny a) až g).
+Jelikož jde o taxativní výčet rozhodnutí, která lze považovat za rozhodnutí ve věci samé, proti nimž je přípustné dovolání, nelze považovat za rozhodnutí ve věci samé pro účely dovolání žádné jiné (další) rozhodnutí, které do uvedeného okruhu nepatří. Proto za rozhodnutí ve věci samé nelze považovat ani výše citované usnesení Vrchního soudu v Praze, jímž tento soud podle § 148 odst. 1 písm. c) tr. ř. zamítl stížnost proti rozhodnutí soudu prvního stupně ve věci návrhu na povolení obnovy řízení (srov. rozh. č. 36/2003 Sb. rozh. tr.).
+Nejvyšší soud konstatuje, že dovolání jako další mimořádný opravný prostředek bylo zavedeno do českého trestního řádu novelou provedenou zákonem č. 265/2001 Sb. s účinností od 1. 1. 2002. Jelikož bylo koncipováno jako specifický mimořádný opravný prostředek, který umožňuje průlom do právní moci rozhodnutí, byla současně striktně omezena přípustnost jeho podání pouze na ta rozhodnutí ve věci samé, která byla citována shora. Rozhodnutí o návrhu na povolení obnovy řízení podle § 283 tr. ř. mezi nimi uvedeno není, a proto dovolání podané proti němu není přípustné.
+Z těchto jen stručně uvedených důvodů (§ 265i odst. 2 tr. ř.) Nejvyšší soud podle § 265i odst. 1 písm. a) tr. ř. dovolání obviněného R. Z. odmítl, neboť není přípustné. Při takovém rozhodnutí nebyl oprávněn postupovat podle ustanovení § 265i odst. 3, 4 tr. ř. Své rozhodnutí přitom učinil v souladu s ustanovením § 265r odst. 1 písm. a) tr. ř. v neveřejném zasedání.
+Poučení: Proti rozhodnutí o dovolání není s výjimkou obnovy řízení opravný prostředek přípustný (§ 265n tr. ř.).
+V Brně dne 3. srpna 2005
+Předseda senátu:
+JUDr. Jan B l á h a
