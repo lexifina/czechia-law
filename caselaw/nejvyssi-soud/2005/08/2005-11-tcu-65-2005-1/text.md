@@ -1,0 +1,21 @@
+11 Tcu 65/2005
+U S N E S E N Í
+Nejvyšší soud České republiky projednal dne 4. srpna 2005 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na zápis odsouzení cizozemským soudem do evidence Rejstříku trestů a rozhodl t a k t o :
+Podle § 4 odst. 2 zák. č. 269/1994 Sb. s e do evidence Rejstříku trestů zaznamenají údaje o odsouzení občanů České republiky
+1. V. S. a 2. K. S., rozsudkem Zemského soudu v Korneuburgu, Rakousko, ze dne 18. 10. 2004, sp. zn. 501 Hv 138/04s, a to pro trestný čin výdělečné krádeže a krádeže v rámci zločinného spolčení podle § 127, § 128 odst. 1 číslo 4, § 130 první a druhý případ rakouského trestního zákona, u každého z nich k trestu odnětí svobody v trvání osmnácti měsíců.
+O d ů v o d n ě n í :
+Výše označeným rozsudkem Zemského soudu v Korneuburgu, Rakousko, jenž nabyl právní moci ve vztahu k oběma obviněným dne 22. 10. 2004, byli V. S. a K. S. uznáni vinnými trestným činem výdělečné krádeže a krádeže v rámci zločinného spolčení podle § 127, § 128 odst. 1 číslo 4, § 130 první a druhý případ rakouského trestního zákona, a to v podstatě na základě zjištění, že
+I. oba společně s další osobou z výdělečných důvodů a jako členové zločinného spolčení odcizili od počátku července do jeho poloviny firmě DM v S. P. movité věci (kosmetické přípravky a části oděvu) v celkové hodnotě asi 4000,-€ tak, že muži pod ošacením vždy nosili dlouhé spodky, které byly v nohavicích zavázány, aby se tam daly kradené věci ukrýt,
+II. V. S. společně s další osobou v době mezi únorem roku 2004 a 5. srpnem 2004 při téměř 150 útocích většinou spáchaných v neprospěch firmy DM v L. n. D., S., S. P., K. n. D., H. a H. odcizili shodným způsobem jako v bodě I. movité věci v celkové hodnotě 4 101,10 €,
+III. K. S. v době od poloviny května roku 2004 až do 9. 8. 2004 v L. n. D., ve S., H., S. P., K. n. D. a v H. při celkem asi 180 útocích většinou spáchaných v neprospěch firmy DM odcizil shodným způsobem jako v bodě I. movité věci v celkové hodnotě 677,1 €.
+Za tento trestný čin byl každému z nich uložen trest odnětí svobody v trvání osmnácti měsíců.
+Ministerstvo spravedlnosti České republiky podalo podle § 4 odst. 2 zák. č. 269/1994 Sb., o Rejstříku trestů (dále jen zákon), Nejvyššímu soudu České republiky návrh na zapsání výše uvedeného odsouzení rakouského soudu do evidence Rejstříku trestů České republiky.
+Nejvyšší soud České republiky věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro zápis odsouzení cizozemským soudem do evidence Rejstříku trestů.
+Především je třeba uvést, že podle § 4 odst. 2 zákona může Nejvyšší soud České republiky na návrh Ministerstva spravedlnosti České republiky rozhodnout, že se do evidence Rejstříku trestů zaznamenají též údaje o jiném odsouzení občana České republiky cizozemským soudem, jestliže se týká činu, který je trestným i podle právního řádu České republiky, a zápis do evidence je odůvodněn závažností činu a druhem trestu, který za něj byl uložen. Dále je nutno připomenout, že pokud Nejvyšší soud rozhodne o zaznamenání údajů o odsouzení do evidence Rejstříku trestů, hledí se na takové odsouzení cizozemským soudem jako na odsouzení soudem České republiky (§ 4 odst. 3 zákona).
+Z podaného návrhu a z obsahu připojeného spisového materiálu vyplývá, že odsouzení jsou občany České republiky, kteří byli pravomocně odsouzeni cizozemským soudem, přičemž odsouzení se týká skutku, který vykazuje znaky trestného činu i podle právního řádu České republiky (trestný čin krádeže podle § 247 tr. zák.). Tím jsou splněny formální podmínky ustanovení § 4 odst. 2 zákona.
+V posuzované věci jsou dány ovšem i podmínky materiální povahy. V. S. a K. S. se dopustili úmyslné majetkové trestné činnosti, jejíž nebezpečnost je zvyšována tím, že se jednalo o organizovanou činnost více osob, počtem útoků a celkovou výší způsobené škody. Pokud jde o druh trestu, byl každému z nich uložen nepodmíněný trest odnětí svobody v již nikoliv zanedbatelné délce. Lze tedy dovodit, že podmínky ustanovení § 4 odst. 2 zákona týkající se závažnosti činu a druhu uloženého trestu jsou splněny.
+Z uvedených důvodů proto Nejvyšší soud České republiky návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 4. srpna 2005
+Předseda senátu:
+JUDr. Antonín Draštík
