@@ -1,0 +1,19 @@
+26 Cdo 1094/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce R. G. proti žalovaným 1) J. M., 2) M. R. a 3) S. R., o zrušení práva společného nájmu bytu, vedené u Okresního soudu v Ostravě pod sp.zn. 16 C 246/98, o dovolání žalobce proti usnesení Krajského soudu v Ostravě ze dne 16. listopadu 2000, č. j. 8 Co 1132/2000-110, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Ostravě (soud prvního stupně) rozsudkem ze dne 28. 6. 2000, č.j. 16 C 246/98-96 (poté, co jeho rozsudek ze dne 14. 5. 1999, č.j. 16 C 246/98-39, byl k odvolání žalobce zrušen usnesením Krajského soudu v Ostravě ze dne 12. 10. 1999, č.j. 8 Co 819/99-65, a věc mu byla vrácena k dalšímu řízení), zrušil právo společného nájmu žalobce a 1. žalované k bytu č. 3, o velikosti 3+1 s příslušenstvím, na ulici B. 930/2, O. – B., určil výlučnou nájemkyní bytu 1. žalovanou a žalobci uložil byt vyklidit do patnácti dnů od zajištění náhradního ubytování; dále zamítl návrh na vyklizení bytu vůči 2. žalovanému a 3. žalované a rozhodl o nákladech řízení.
+Krajský soud v Ostravě (soud odvolací) usnesením ze dne 16. 11. 2000, č.j. 8 Co 1132/2000-110, zastavil řízení o odvolání žalobce proti rozsudku soudu prvního stupně a rozhodl o nákladech odvolacího řízení.
+Proti usnesení odvolacího soudu podal žalobce (nezastoupen advokátem) blanketní dovolání s tím, že je „písemně zdůvodní ve lhůtě 1 týdne z důvodu zvolení si právního zástupce“.
+Vyjádření k dovolání nebylo podáno.
+Podle části dvanácté, hlavy první, bodu 17. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů. Jelikož napadené rozhodnutí bylo vydáno přede dnem nabytí účinnosti tohoto zákona, Nejvyšší soud dovolání projednal a rozhodl o něm podle občanského soudního řádu ve znění účinném před novelizací provedenou zákonem č. 30/2000 Sb., tj. účinném do 31. prosince 2000 (dále též jen „o.s.ř.“).
+Nejvyšší soud jako soud dovolací (§ 10a o.s.ř.) shledal, že dovolání bylo podáno včas, osobou k tomu oprávněnou - účastníkem řízení.
+Podle ustanovení § 241 odst. 1 věty první o.s.ř. musí být dovolatel zastoupen advokátem, jestliže nemá právnické vzdělání buď sám, nebo jeho zaměstnanec (člen), který za něj jedná. Toto ustanovení zakotvuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění nelze o dovolání věcně rozhodnout.
+V dané věci podal žalobce dovolání, aniž byl při tomto úkonu zastoupen advokátem a nebylo tvrzeno (ani prokázáno), že by měl sám právnické vzdělání. Usnesením ze dne 30. 7. 2002, č.j. 16 C 246/98-128, vyzval soud prvního stupně žalobce, aby si ve lhůtě 15 dnů zvolil advokáta; současně jej poučil o možnosti zastavení dovolacího řízení, nebude-li výzvě vyhověno. Přestože toto usnesení bylo žalobci doručeno dne 7. 9. 2004 (viz doručenka na č.l. 136 spisu), dosud této výzvě nevyhověl.
+Z uvedeného vyplývá, že nedostatek podmínky dovolacího řízení podle ustanovení § 241 odst. 1 věty první o.s.ř., nebyl přes výzvu odstraněn. Nejvyšší soud proto podle § 243c odst. 1 a § 104 odst. 2 o.s.ř. řízení o dovolání žalobce zastavil. Výrok o nákladech řízení se opírá o ustanovení § 243b odst. 5 věty první, § 224 odst. 1, § 146 odst. 2 věty první o.s.ř. a o skutečnost, že žalovaným nevznikly v dovolacím řízení prokazatelné výlohy, na jejichž náhradu by jinak měli proti dovolateli právo.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 5. srpna 2005
+Doc. JUDr. Věra K o r e c k á , CSc., v. r.
+předsedkyně senátu
