@@ -1,0 +1,17 @@
+3 Tdo 873/2005
+U S N E S E N Í
+Nejvyšší soud České republiky projednal v neveřejném zasedání konaném dne 24. srpna 2005 dovolání obviněného Ing. J. Ch., proti usnesení Krajského soudu v Ostravě, pobočka v Olomouci, ze dne 14. 3. 2005, sp. zn. 2 To 235/2005, v trestní věci vedené u Okresního soudu v Olomouci pod sp. zn. 6 T 133/99, a rozhodl t a k t o :
+Dovolání Ing. J. Ch. se podle § 265i odst. 1 písm. a) tr. řádu o d m í t á .
+O d ů v o d n ě n í :
+Okresní soud v Olomouci rozhodl svým usnesením ze dne 2. 2. 2005, sp. zn. 6 T 133/99, že podle § 60a odst. 4 tr. zákona Ing. J. Ch., odsouzený pravomocným rozsudkem Okresního soudu v Olomouci ze dne 1. 9. 2000, sp. zn. 6 T 133/99, ve znění rozsudku Krajského soudu v Ostravě, pobočka v Olomouci ze dne 21. 6. 2001, sp. zn. 2 To 1042/2000 vykoná původně podmíněně odložený trest odnětí svobody v trvání 2 roků a 6 měsíců. Podle § 39a odst. 3 tr. zákona byl odsouzený pro výkon tohoto trestu zařazen do věznice s dozorem.
+Uvedené usnesení napadl odsouzený stížností, kterou se zabýval v neveřejném zasedání konaném dne 14. 3. 2005 Krajský soud v Ostravě, pobočka v Olomouci. Ten svým usnesením sp. zn. 2 To 235/2005 podle § 148 odst. 1 písm. c) tr. řádu stížnost odsouzeného zamítl.
+Proti tomuto usnesení ve spojení s usnesením Okresního soudu v Olomouci podal odsouzený prostřednictvím svého obhájce dovolání, ve kterém se výslovně odkazuje na dovolací důvod podle § 265b odst. 1 písm. l) tr. řádu s tím, že dle jeho názoru bylo Krajským soudem v Ostravě, pobočka v Olomouci, rozhodnuto o zamítnutí jeho stížnosti, aniž k tomu byly splněny procesní podmínky stanovené zákonem pro takové rozhodnutí. V petitu svého dovolání proto navrhuje, aby Nejvyšší soud České republiky zrušil rozhodnutí soudů obou stupňů a aby věc přikázal odvolacímu soudu k novému projednání a rozhodnutí.
+K podanému dovolání se písemně vyjádřil státní zástupce Nejvyššího státního zastupitelství. Upozorňuje na to, že rozhodnutí, proti kterému dovolání směřuje, není možno podle § 265a odst. 2 písm. a) - h) tr. řádu dovoláním napadnout a z tohoto důvodu jde o dovolání nepřípustné. Navrhuje proto, aby podané dovolání bylo odmítnuto podle § 265i odst. 1 písm. a) tr. řádu.
+Nejvyšší soud České republiky (dále jen Nejvyšší soud) jako soud dovolací zkoumal, zda jsou v dané věci splněny podmínky přípustnosti podle § 265a tr. řádu a shledal, že dovolání je nepřípustné.
+Podle § 265a odst. 1 tr. řádu lze dovoláním napadnout pravomocné rozhodnutí soudu ve věci samé, jestliže soud rozhodl ve druhém stupni a zákon to připouští. Ustanovení § 265a odst. 2 tr. řádu pak obsahuje v písm. a) až h) taxativní výčet případů, které jsou považovány za rozhodnutí ve věci samé. Rozhodnutí, které Ing. J. Ch. svým dovoláním napadá, nelze subsumovat pod žádné z uvedených zákonných ustanovení. Je tedy zcela zjevné, že podané dovolání je nepřípustné, neboť není v souladu s podmínkami přípustnosti dle § 265a tr. řádu.
+Podle § 265i odst. 1 písm. a) tr. řádu Nejvyšší soud dovolání odmítne, jde-li o dovolání nepřípustné. Jelikož v posuzovaném případě Nejvyšší soud shledal, že dovolání je nepřípustné, rozhodl o odmítnutí dovolání Ing. J. Ch. v souladu s výše uvedeným ustanovením tr. řádu. Za podmínek § 265r odst. 1 písm. a) tr. řádu bylo o odmítnutí dovolání rozhodnuto v neveřejném zasedání.
+Poučení: Proti rozhodnutí o dovolání není s výjimkou obnovy řízení opravný
+prostředek přípustný (§ 265n tr. řádu).
+V Brně dne 24. srpna 2005
+Předseda senátu:
+Mgr. Josef H e n d r y c h
