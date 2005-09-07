@@ -1,0 +1,17 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+29 Odo 1091/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Krčmáře a soudců JUDr. Petra Gemmela a JUDr. Ivana Meluzína v konkursní věci úpadce Z. o. d. D. „v likvidaci“, družstva, vedené u Krajského soudu v Hradci Králové pod sp. zn. 45 K 44/99, o dovolání konkursního věřitele M. V., proti usnesení Vrchního soudu v Praze ze dne 8. prosince 2004, č. j. 2 Ko 151/2003 - 599, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í :
+Konkursní věřitel M. V. podal ve lhůtě dovolání proti usnesení Vrchního soudu v Praze ze dne 8. prosince 2004, č. j. 2 Ko 151/2003 – 599, jímž odvolací soud potvrdil rozvrhové usnesení Krajského soudu v Hradci Králové ze dne 14. května 2003, č. j. 45 K 44/99 – 513.
+Se zřetelem k bodu 3. článku II. zákona č. 59/2005 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, Nejvyšší soud dovolání projednal a rozhodl o něm podle občanského soudního řádu ve znění účinném před 1. dubnem 2005 (dále též jen „o. s. ř.“).
+Podle ustanovení § 241 o. s. ř., není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními právními předpisy (odstavec 1). Odstavec 1 neplatí, a) je-li dovolatelem fyzická osoba, která má právnické vzdělání, b) je-li dovolatelem právnická osoba, stát, obec nebo vyšší územně samosprávný celek, jedná-li za ně osoba uvedená v § 21, 21a, anebo v § 21b, která má právnické vzdělání (odstavec 2). Odstavec 1 neplatí také tehdy, je-li dovolatelem obec, kterou zastupuje stát podle § 26a, jedná-li jménem státu za zastoupenou obec osoba uvedená v § 26a odst. 3, která má právnické vzdělání (odstavec 3). Dovolání musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem, notářem nebo osobou uvedenou v § 21, 21a, 21b, anebo v § 26a odst. 3, která má právnické vzdělání (odstavec 4).
+Z dovolání zastoupení dovolatele advokátem ani jeho právnické vzdělání nevyplývá, proto ho Krajský soud v Hradci Králové usnesením ze dne 9. února 2005, č. j. 45 K 44/99-610, vyzval k odstranění nedostatku povinného zastoupení.
+Dovolatel na výzvu soudu doručenou mu 21. února 2005 (srov. doručenku u č. l. 610 spisu) reagoval podáním ze dne 22. února 2005 (č. l. 611), namítaje, že s tímto rozhodnutím nesouhlasí a pokládá je za nesprávné, protože jde „o dovolání o restituce“, kde se podle jeho názoru zastupování advokátem nepožaduje.
+Povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, bez jejíhož splnění nelze dovolání meritorně projednat, přičemž ke zhojení tohoto nedostatku přes řádnou výzvu soudu prvního stupně do dnešního dne nedošlo; Nejvyšší soud proto dovolací řízení podle § 104 odst. 2 a § 241b odst. 2 o. s. ř. zastavil. Tvrzení dovolatele, že ve věci není povinné zastoupení advokátem nutné, nemá oporu v zákoně, zejména pak ne ve výše cit. ustanovení § 241 o. s. ř. Jen pro úplnost lze dodat, že i když konkursní věřitel v konkursu uplatňuje tzv. restituční nároky, není jím podaný opravný prostředek proti rozvrhovému usnesení jen proto opravným prostředkem v restituční věci. Nadto platí, že i v případě dovolání v tzv. restituční věci musí být dovolatel - fyzická osoba, která sama nemá vysokoškolské právnické vzdělání, zastoupen advokátem.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 7. září 2005
+JUDr. Zdeněk Krčmář, v.r.
+předseda senátu
