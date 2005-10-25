@@ -1,0 +1,46 @@
+30 Cdo 1431/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Romana Fialy a soudců JUDr. Pavla Pavlíka a JUDr. Karla Podolky ve věci dědictví
+po M. M., za účasti: 1) JUDr. P. M., 2) P. M., 3) T. M., 4) J. M., vedené
+u Okresního soudu v Třebíči pod sp. zn. 1 D 744/2003, o dovolání JUDr. P. M. proti rozsudku Krajského soudu v Brně ze dne 5. listopadu 2004, č. j. 18 Co 27/2004-38, takto:
+I. Dovolání JUDr. P. M. se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Usnesením ze dne 24.11.2003, č.j. D 744/2003-22, Okresní soud v Třebíči určil obecnou cenu majetku M. M., zemřelé dne 11.5.2003 (dále též jen „zůstavitelka“), výši jejích dluhů a čistou hodnotu dědictví (výrok I.); schválil ve výroku usnesení uvedenou dohodu dědiců o vypořádání dědictví po zůstavitelce (výrok II.); rozhodl o náhradě nákladů řízení mezi účastníky řízení (výrok III.) a o odměně
+a náhradě hotových výdajů soudního komisaře (výrok IV.).
+K odvolání JUDr. P. M. Krajský soud v Brně usnesením ze dne 5.11.2004, č.j. 18 Co 27/2004-38, usnesení soudu prvního stupně „v odvoláním napadeném výroku II. a ve výrocích III. a IV.“ potvrdil (výrok I.) a rozhodl, že žádný z účastníků nemá právo na náhradu nákladů odvolacího řízení (výrok II.).
+Proti tomuto rozsudku odvolacího soudu podal JUDr. P. M. dovolání,
+ve kterém pouze uvedl, že „ve věci vedené pod čj. 18 Co 27/2004-38 u Městského soudu v Brně podává dovolání“ a že „podrobnosti a odůvodnění následují písemně“.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) po zjištění, že dovolání proti pravomocnému rozsudku odvolacího soudu bylo podáno ve lhůtě uvedené v ustanovení § 240 odst. 1 o.s.ř., přezkoumal napadený rozsudek bez nařízení jednání (§ 243a odst. 1 věta první o.s.ř.) a dospěl k závěru, že dovolání trpí vadou,
+pro kterou nelze v dovolacím řízení pokračovat.
+Podle ustanovení § 240 odst. 1 věty první o.s.ř. účastník může podat dovolání
+do dvou měsíců od doručení rozhodnutí odvolacího soudu u soudu, který rozhodoval
+av prvním stupni.
+Podle ustanovení § 241a odst. 1 o.s.ř. v dovolání musí být vedle obecných náležitostí (§ 42 odst. 4 o.s.ř.) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu a z jakých důvodů se toto rozhodnutí napadá, popřípadě které důkazy by měly být provedeny k prokázání důvodu dovolání, a čeho se dovolatel domáhá (dovolací návrh).
+Podle ustanovení § 241b odst. 3 o.s.ř. dovolání, které neobsahuje údaje o tom,
+v jakém rozsahu nebo z jakých důvodů se rozhodnutí odvolacího soudu napadá, může být o tyto náležitosti doplněno jen po dobu trvání lhůty k dovolání; nebyla-li v době podání dovolání splněna podmínka uvedená v ustanovení § 241 o.s.ř., běží tato lhůta až do uplynutí lhůty, která byla dovolateli určena ke splnění této podmínky; požádal-li však dovolatel před uplynutím lhůty o ustanovení zástupce (§ 30 o.s.ř.), běží lhůta podle věty první znovu až od právní moci usnesení, kterým bylo o této žádosti rozhodnuto.
+Dovolání lze podat z důvodu, že řízení je postiženo vadou, která mohla mít
+za následek nesprávné rozhodnutí ve věci, nebo že rozhodnutí spočívá na nesprávném právním posouzení věci (§ 241a odst. 2 o.s.ř.). Je-li dovolání přípustné podle ustanovení § 237 odst. 1 písm. a) a b) o.s.ř., popřípadě podle obdobného užití těchto ustanovení
+(§ 238 a § 238a o.s.ř.), lze dovolání podat také z důvodu, že rozhodnutí vychází
+ze skutkového zjištění, které nemá podle obsahu spisu oporu v provedeném dokazování (§ 241a odst. 3 o.s.ř.).
+K uplatnění dovolacího důvodu ve smyslu ustanovení § 241a odst. 1 o.s.ř. nepostačuje, jestliže dovolatel v dovolání pouze označí některý z dovolacích důvodů uvedených v ustanovení § 241a odst. 2 a 3 o.s.ř. (například tím, že odkáže na ustanovení zákona nebo že odcituje jeho zákonnou skutkovou podstatu). V dovolání je uvedeno,
+z jakých důvodů se rozhodnutí odvolacího soudu napadá jen tehdy, jestliže popíše (konkretizuje) okolnosti, z nichž usuzuje, že určitý dovolací důvod je dán, tedy - řečeno jinak - jestliže vylíčí okolnosti, v nichž spatřuje nesprávnost rozhodnutí odvolacího soudu a které tak naplňují alespoň některý z dovolacích důvodů taxativně uvedených
+v ustanovení § 241a odst. 2 a 3 o.s.ř. Chybí-li v dovolání vylíčení okolností, v nichž dovolatel spatřuje naplnění dovolacího důvodu, není v takovém případě (vzhledem
+k vázanosti dovolacího soudu uplatněným dovolacím důvodem) vymezen obsah přezkumné činnosti dovolacího soudu po stránce kvalitativní a napadené rozhodnutí odvolacího soudu tak není možné z hlediska jeho správnosti přezkoumat (srov. § 242 odst. 3 větu první o.s.ř.).
+Dovolání, které neobsahuje údaje o tom, z jakých důvodů se rozhodnutí odvolacího soudu napadá, je vadným (neúplným) podáním. Dovolatel tuto vadu dovolání může odstranit a své dovolání doplnit o uvedení dovolacích důvodů - jak vyplývá z ustanovení § 241b odst. 3 o.s.ř. - jen do uplynutí dovolací lhůty, tj. do dvou měsíců ode dne, kdy mu bylo doručeno napadené rozhodnutí odvolacího soudu.
+V případě, že dovolání podal dovolatel, u něhož platí povinné zastoupení (tj. nemá-li sám nebo osoba, která za něj jedná, právnické vzdělání - srov. § 241 o.s.ř.) a který
+z tohoto důvodu byl ve smyslu ustanovení § 104 odst. 2 o.s.ř. soudem řádně vyzván (srov. § 241b odst. 2 o.s.ř.) k odstranění uvedeného nedostatku podmínky řízení, prodlužuje se běh této lhůty až do dne, kterým uplyne lhůta, která mu byla určena
+k odstranění nedostatku povinného zastoupení. Požádá-li však dovolatel, u něhož platí povinné zastoupení, ještě před uplynutím lhůty k podání dovolání, popř. před uplynutím prodloužené lhůty, soud o ustanovení zástupce pro podání dovolání, běží lhůta dvou měsíců k doplnění dovolání znovu ode dne právní moci usnesení, kterým bylo o jeho žádosti rozhodnuto.
+Marným uplynutím lhůty podle ustanovení § 241b odst. 3 o.s.ř. se původně odstranitelná vada (neúplnost) dovolání, spočívající v tom, že v dovolání nebyl uveden dovolací důvod, stává neodstranitelnou. Znamená to mimo jiné, že po uplynutí této lhůty není možné dovolatele postupem podle ustanovení § 241b odst.1, § 209 a § 43 o.s.ř. vyzvat k doplnění dovolání o uvedení dovolacího důvodu a že dovolací soud
+k případnému opožděnému doplnění dovolání o tuto náležitost nemůže přihlížet. Protože v dovolacím řízení, v němž nebyl vymezen obsah přezkumné činnosti dovolacího soudu po stránce kvalitativní, nelze pokračovat, musí být dovolání, které neobsahuje dovolací důvod a které o tuto náležitost nebylo do uplynutí lhůty uvedené
+v ustanovení § 241b odst. 3 o.s.ř. doplněno, podle ustanovení § 243c odst. 1 a § 43 odst. 2 o.s.ř. odmítnuto (srov. též právní názor vyjádřený v usnesení Nejvyššího soudu ze dne 18.6.2003 sp. zn. 29 Odo 108/2002, které bylo uveřejněno pod č. 21 ve Sbírce soudních rozhodnutí a stanovisek, roč. 2004).
+V posuzovaném případě z obsahu spisu vyplývá, že JUDr. P. M. podal proti usnesení odvolacího soudu včas dovolání (usnesení odvolacího soudu bylo doručeno dovolateli dne 27.1.2005 a dovolání bylo podáno na poštu dne 29.3.2005) a že již při podání dovolání byla splněna podmínka dovolacího řízení uvedená v ustanovení § 241 o.s.ř. (dovolatel má právnické vzdělání).
+Dovolání JUDr. P. M. však neobsahuje údaje o tom, z jakých důvodů usnesení odvolacího soudu napadá; o dovolacích důvodech se v něm uvádí pouze to, že „podrobnosti a odůvodnění následují písemně“. Protože JUDr. P. M. v dovolání nevylíčil okolnosti, v nichž spatřuje nesprávnost napadeného rozsudku odvolacího soudu a které by mohly naplnit alespoň některý z dovolacích důvodů taxativně uvedených v ustanovení § 241a odst. 2 a 3 o.s.ř., a protože lhůta uvedená v ustanovení
+§ 241b odst. 3 o.s.ř., během níž bylo možné dovolání o uvedení dovolacích důvodů doplnit, marně uplynula (v projednávané věci doplnění dovolání prakticky nepřicházelo v úvahu, neboť dovolání bylo podáno poslední den dovolací lhůty, tj. dne 29.3.2005;
+a proto také nebylo možné přihlédnout k podání dovolatele ze dne 1.5.2005), odvolacímu soudu, který je - jak již výše uvedeno - vázán uplatněnými dovolacími důvody, tím JUDr. P. M. zabránil, aby mohl napadené usnesení odvolacího soudu po stránce kvalitativní (z hlediska jeho správnosti) přezkoumat.
+Nejvyšší soud proto dovolání JUDr. P. M. - aniž by se mohl zabývat dalšími okolnostmi - podle ustanovení § 243c odst. 1 a § 43 odst. 2 věty první o.s.ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 části věty před středníkem a § 146 odst. 3 o.s.ř., neboť JUDr. P. M., jehož dovolání bylo odmítnuto, na náhradu nákladů řízení nemá právo a ostatním účastníkům řízení v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. října 2005
+JUDr. Roman Fiala, v. r.
+předseda senátu
