@@ -1,0 +1,20 @@
+20 Cdo 490/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Vladimíra Mikuška a soudců JUDr. Miroslavy Jirmanové a JUDr. Vladimíra Kůrky ve věci výkonu rozhodnutí oprávněného Č. T., a.s., proti povinnému E. K., pro 2.655,40 Kč s příslušenstvím, prodejem movitých věcí, vedené u Okresního soudu v Sokolově pod sp. zn. 29 E 1466/2002, o dovolání povinného proti usnesení Okresního soudu v Sokolově ze dne 2. 7. 2003, č.j. 29 E 1466/2002-12, a proti usnesení Krajského soudu v Plzni ze dne 28. 8. 2003, č.j. 56 Co 434/2003-17, takto:
+I. Řízení o dovolání proti usnesení Okresního soudu v Sokolově ze dne 2. 7. 2003, č.j. 29 E 1466/2002-12, se zastavuje.
+II. Dovolání proti usnesení Krajského soudu v Plzni ze dne 28. 8. 2003, č.j. 56 Co 434/2003-17, se odmítá.
+III. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Povinný napadl dovoláním shora označená rozhodnutí, a to usnesení okresního soudu o odmítnutí odvolání (proti usnesení o nařízení výkonu rozhodnutí) pro opožděnost, a usnesení krajského soudu, jímž bylo toto usnesení potvrzeno.
+K projednání dovolání proti usnesení soudu prvního stupně není Nejvyšší soud funkčně příslušný. Z ustanovení § 236 odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů (dále jen „o.s.ř.“), podle něhož lze dovoláním napadat pravomocná rozhodnutí odvolacího soudu, vyplývá, že rozhodnutí soudu prvního stupně dovoláním úspěšně napadnout nelze. Proto také zákon neupravuje funkční příslušnost soudu pro projednání dovolání proti takovému rozhodnutí. Tím, že povinný směřuje dovolání přímo proti rozhodnutí soudu prvního stupně, uvedenou podmínku dovolacího řízení opomíjí. Vzhledem k tomu, že nedostatek funkční příslušnosti je neodstranitelným nedostatkem podmínky řízení, Nejvyšší soud řízení o dovolání proti rozhodnutí soudu prvního stupně podle ustanovení § 243c odst. 1 a § 104 odst. 1 o. s. ř. zastavil.
+Dovolání proti usnesení odvolacího soudu není přípustné.
+Podle § 236 odst. l o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Přípustnost dovolání proti usnesení upravují ustanovení § 237 až § 239 o.s.ř.
+Přípustnost dovolání podle ustanovení § 237 o.s.ř. není dána již proto, že napadeným usnesením odvolacího soudu bylo potvrzeno usnesení soudu prvního stupně o odmítnutí odvolání, tedy rozhodnutí, jež není usnesením ve věci samé (k pojmu “věc sama“ srov. též usnesení Nejvyššího soudu ze dne 2. 12. 1997, sp. zn. 2 Cdon 774/97, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek č. 10, ročník 1998 pod č. 61).
+Podle ustanovení § 238, § 238a ani § 239 o.s.ř. dovolání přípustné není, jelikož v souzené věci se nejedná o žádný ze zde taxativně vyjmenovaných případů. Přípustnost dovolání přitom nelze dovozovat ani z odstavce třetího § 239, neboť podle tohoto ustanovení je dovolání přípustné jen tehdy, bylo-li potvrzeno usnesení soudu prvního stupně, jímž byla postupem podle ustanovení § 43 o.s.ř. odmítnuta žaloba, popřípadě (dle téhož ustanovení) jiný návrh na zahájení řízení, nikoliv tedy v případech, kdy soud první stupně podle ustanovení § 208 odst. l o.s.ř. odvolání odmítl pro opožděnost (srov. usnesení Nejvyššího soudu ze dne 20. 11. 2001, sp. zn. 21 Cdo 1124/2001, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek č. 5, ročník 2003 pod č. 41).
+Nejvyšší soud proto dovolání proti usnesení odvolacího soudu podle ustanovení § 243b odst. 5, věty první, a § 218 písm. c/ o.s.ř. odmítl.
+Vzhledem k nepřípustnosti dovolání se již Nejvyšší soud nezabýval nedostatkem podmínky řízení podle § 241 o.s.ř. spočívající v povinném zastoupení dovolatele (§ 241b odst. 2, věta druhá, o.s.ř.).
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, věty první, § 224 odst. l a § 146 odst. 2, věty první, a odst. 3 o.s.ř.; oprávněnému v tomto stadiu řízení náklady (podle obsahu spisu) nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 27. října 2005
+JUDr. Vladimír M i k u š e k , v. r.
+předseda senátu
