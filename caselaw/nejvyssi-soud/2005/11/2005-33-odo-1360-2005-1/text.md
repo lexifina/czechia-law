@@ -1,0 +1,24 @@
+33 Odo 1360/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Blanky Moudré a soudců JUDr. Ivany Zlatohlávkové a JUDr. Václava Dudy ve věci žalobců a) J. B. a b) A. B., proti žalovanému družstvu V., o zaplacení částky 200.000,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 3 pod sp. zn. 21 C 314/2003, o dovolání žalobců proti usnesení Městského soudu v Praze ze dne 18. ledna 2005, č. j. 36 Co 1/2005-112, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Praze usnesením ze dne 18. ledna 2005, č. j. 36 Co 1/2005-112, potvrdil usnesení Obvodního soudu pro Prahu 3 ze dne 11. listopadu 2004, č. j. 21 C 314/2003-102, jímž bylo rozhodnuto, že zpětvzetí žaloby, došlé soudu dne 3. 9. 2004, je neúčinné. Ztotožnil se s jeho závěrem, že jsou zde vážné důvody pro nesouhlas žalovaného se zpětvzetím žaloby ve smyslu § 96 odst. 3 o. s. ř.
+Proti usnesení odvolacího soudu podali žalobci dovolání v přesvědčení, že je přípustné podle § 237 odst. 1 písm. c/ o. s. ř., a zpochybnili v něm podrobnou argumentací správnost závěru odvolacího soudu, že žalovaný měl vážné důvody pro nesouhlas se zpětvzetím žaloby. Navrhli proto usnesení odvolacího soudu zrušit a věc vrátit k dalšímu řízení.
+S ohledem na den vydání napadeného usnesení Nejvyšší soud České republiky dovolání projednal a rozhodl podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění před 1. 4. 2005, kdy nabyla účinnosti jeho novela provedená zákonem č. 59/2005 Sb. - dále opět jen „o. s. ř.“ (srovnej článek II bod 3. přechodných ustanovení zákona č. 59/2005 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony).
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) po zjištění, že dovolání proti pravomocnému usnesení odvolacího soudu bylo podáno ve lhůtě uvedené v § 240 odst. 1 o. s. ř. k tomu oprávněnými subjekty (žalobci), dospěl k závěru, že dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Podle § 237 odst. 1 o. s. ř. dovolání je přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího soudu,
+a) jimiž bylo změněno rozhodnutí soudu prvního stupně ve věci samé,
+b) jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil,
+c) jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není přípustné podle písmena b) a dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam.
+Všem třem případům přípustnosti dovolání v tomto ustanovení vypočteným je společné, že musí jít o rozhodnutí ve věci samé. Usnesení, jímž je podle § 96 odst. 3 o. s. ř. rozhodnuto, že zpětvzetí žaloby je neúčinné, není ovšem usnesením „ve věci samé“. Věcí samou se totiž rozumí samotný předmět, pro nějž se řízení vede, a rozhodnutím ve věci samé takové rozhodnutí soudu, jímž se v tzv. řízení sporném na základě žaloby stanoví konkrétní práva a povinnosti účastníků vyplývající z právního vztahu pro žalobou uplatněný nárok (srovnej např. usnesení Nejvyššího soudu České republiky ze dne 22. 2. 2001, sp. zn. 25 Cdo 3065/2000, publikované pod C 264/3 v Souboru rozhodnutí Nejvyššího soudu ČR).
+Lze proto uvažovat pouze o přípustnosti dovolání podle § 238, § 238a a § 239 o. s. ř. Uvedená ustanovení však přípustnost dovolání rovněž nezakládají, protože napadené rozhodnutí nelze podřadit žádnému z tam taxativně vyjmenovaných případů.
+Z uvedeného vyplývá, že dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný. Okolnost, že napadené usnesení odvolacího soudu obsahuje nesprávné poučení o tom, že dovolání je přípustné při splnění tam uvedeného předpokladu, bez dalšího přípustnost dovolání nezakládá (srovnej např. usnesení Nejvyššího soudu České republiky ze dne 29. 8. 2002, sp. zn. 29 Odo 523/2002, publikované pod C 1457/21 v Souboru rozhodnutí Nejvyššího soudu ČR).
+Dovolací soud proto dovolání podle § 243b odst. 5 věty první a § 218 písm. c/ o. s. ř. odmítl.
+O nákladech dovolacího řízení rozhodováno nebylo, jelikož po provedení dovolacího řízení pokračuje řízení nalézací (rozhodnutím dovolacího soudu se řízení ve věci nekončí). O nákladech dovolacího řízení (pokud vznikly) bude rozhodnuto až v rozhodnutí, kterým bude nalézací řízení ukončeno (§ 243d odst. 5 věta první, § 224 odst. 1 a § 151 odst. 1 o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 22. listopadu 2005
+JUDr. Blanka Moudrá, v.r.
+předsedkyně senátu
