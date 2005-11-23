@@ -1,0 +1,14 @@
+30 Nd 224/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Karla Podolky a soudců JUDr. Olgy Puškinové a JUDr. Pavla Pavlíka ve věci žalobkyně R. R., proti žalovanému I. R., o rozvod manželství, vedené u Okresního soudu Praha – západ pod sp.zn. 6 C 170/2005, o určení místní příslušnosti soudu, takto:
+Věc, dosud vedenou u Okresního soudu Praha – západ pod sp.zn. 6 C 170/2005, projedná a rozhodne Okresní soud Praha – západ.
+O d ů v o d n ě n í :
+Okresní soud Praha – západ usnesením ze dne 2. listopadu 2005, č.j. 6 C 170/2005-5, vyslovil svoji místní nepříslušnost s tím, že o určení místně příslušného soudu rozhodne Nejvyšší soud, jemuž bude věc předložena ve smyslu § 11 odst. 3 o.s.ř. V odůvodnění uvedl, že účastníci měli poslední společné bydliště v obvodu tohoto soudu na adrese Č., kde však žádný z nich již několik let nebydlí, bydliště žalovaného se nepodařilo zjistit a žalobkyně nemá v ČR žádné místo pobytu.
+Podle § 11 odst. 3 o.s.ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Pravomoc českých soudů je podle § 38 odst. 1 zákona č. 97/1963 Sb. v platném znění, o mezinárodním právu soukromém a procesním, ve věcech manželských, tj. mj. v řízení o zrušení manželství rozvodem, dána, je-li alespoň jeden z manželů českým občanem. V posuzované věci je žalovaný nepochybně občanem České republiky, a proto je dána pravomoc českých soudů.
+Je zřejmé, že není možné zjistit obecný soud žalovaného, když žalobkyně obecný soud na území České republiky nemá, neboť žádný z účastníků již v době zahájení řízení neměl bydliště v obvodu Okresního soudu Praha – západ a bydliště žalovaného nebylo zjištěno; místní příslušnost soudu proto nelze určit podle ustanovení § 88 písm. a) o.s.ř., podle něhož namísto obecného soudu, popřípadě namísto soudu uvedeného v § 95a (o.s.ř.), je k řízení příslušný soud, v jehož obvodu měli manželé poslední společné bydliště v České republice, jde-li o rozvod, neplatnost manželství nebo o určení, zda tu manželství je či není, bydlí-li v obvodu tohoto soudu alespoň jeden z manželů; není-li takového soudu, je příslušný obecný soud žalovaného, a není-li ani takového soudu, obecný soudu žalobce.
+Protože jsou splněny předpoklady stanovené v § 11 odst. 3 o.s.ř. pro určení místní příslušnosti, rozhodl Nejvyšší soud ČR s přihlédnutím k zásadě hospodárnosti řízení tak, že místně příslušným určil soud, u něhož bylo řízení zahájeno a v jehož obvodu bylo vedeno poslední bydliště žalovaného v záhlaví označené a kde též měli účastníci poslední společné bydliště.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 23. listopadu 2005
+JUDr. Karel Podolka, v.r.
+předseda senátu
