@@ -1,0 +1,18 @@
+7 Tdo 1486/2005
+U S N E S E N Í
+Nejvyšší soud rozhodl v neveřejném zasedání dne 24. 11. 2005 o dovolání obviněného I. F., proti rozsudku Městského soudu v Praze ze dne 9. 3. 2005, sp. zn. 61 To 64/2005, v trestní věci vedené u Obvodního soudu pro Prahu 10 pod sp. zn. 4 T 106/2003 t a k t o :
+Podle § 265i odst. 1 písm. c) tr. ř. se dovolání obviněného I. F. o d m í t á .
+O d ů v o d n ě n í :
+Obviněný I. F. podal prostřednictvím obhájce dovolání proti rozsudku Městského soudu v Praze ze dne 9. 3. 2005, sp. zn. 61 To 64/2005, jímž bylo rozhodnuto o jeho odvolání proti rozsudku Obvodního soudu pro Prahu 10 ze dne 9. 12. 2003, sp. zn. 4 T 106/2003.
+Nejvyšší soud shledal, že dovolání bylo podáno opožděně.
+Podle § 265e odst. 1 tr. ř. se dovolání podává u soudu, který rozhodl ve věci v prvním stupni, do dvou měsíců od doručení rozhodnutí, proti kterému dovolání směřuje. Podle § 265e odst. 2 tr. ř. jestliže se rozhodnutí doručuje jak obviněnému, tak i jeho obhájci, běží lhůta od toho doručení, které bylo provedeno nejpozději.
+O zákonné lhůtě, v níž je třeba dovolání podat, byly strany správně poučeny v rozsudku Městského soudu v Praze.
+Poté, co Městský soud v Praze vrátil dne 22. 3. 2005 spis se svým rozhodnutím Obvodnímu soudu pro Prahu 10, nechal Obvodní soud pro Prahu 10 doručit opis rozsudku Městského soudu v Praze stranám (č. l. 297 p. v. spisu). Obviněnému I. F. byl opis rozsudku doručen do vlastních rukou dne 1. 4. 2005, obhájci byl opis rozsudku doručen dne 31. 3. 2005 (viz dodejky připojené k č. l. 297 spisu).
+Za tohoto stavu lhůta k podání dovolání obviněnému skončila dne 1. 6. 2005 (§ 60 odst. 2 tr. ř.). Obviněný podal dovolání dne 20. 6. 2005. Tohoto dne bylo podání, jehož obsahem bylo dovolání, odevzdáno v podatelně Obvodního soudu pro Prahu 10. Dnem 20. 6. 20058 bylo podání také datováno. Podané dovolání pak bylo ještě doplněno dalším podáním ze dne 12. 9. 2005, které došlo Obvodnímu soudu pro Prahu 10 dne 14. 9. 2005 poté, co bylo dne 13. 9. 2005 odevzdáno k poštovní přepravě.
+Je tedy zřejmé, že dovolání bylo podáno až po uplynutí zákonné dovolací lhůty. Nic na tom nemění okolnost, že v rámci úkonů tzv. porozsudkové agendy nechala vyšší soudní úřednice Obvodního soudu pro Prahu 10 doručit opis rozsudku Městského soudu v Praze obviněnému znovu (č. l. 298 spisu). Tento postup byl evidentně nadbytečný a vedl k tomu, že podruhé byl opis rozsudku Městského soudu v Praze doručen obviněnému dne 29. 4. 2005.
+Právní skutečností rozhodnou pro počítání lhůty k podání dovolání bylo doručení opisu rozsudku Městského soudu v Praze, ke kterému u obviněného došlo dne 1. 4. 2005. Od tohoto data se odvíjel počátek běhu dovolací lhůty a také její konec. Pokud později, v daném případě v průběhu dovolací lhůty, došlo k opětovnému doručení opisu rozsudku obviněnému, nemělo to na běh lhůty žádný vliv, zejména ne v tom smyslu, že by od opětovného doručení začala běžet nová lhůta. Ustanovení § 265e odst. 2 tr. ř. o tom, že lhůta běží od doručení, které bylo provedeno nejpozději, se tu nemůže uplatnit, protože se týká jen případů, kdy jsou různá data doručení rozhodnutí obviněnému a obhájci, přičemž u každého z nich platí, že bylo-li mu z jakéhokoli důvodu rozhodnutí doručeno znovu poté, co mu bylo již dříve předepsaným způsobem doručeno, přihlíží se při posuzování běhu dovolací lhůty k prvnímu doručení (k tomu přiměřeně viz č. 41/1989 Sb. rozh. tr.).
+Z těchto důvodů Nejvyšší soud opožděně podané dovolání obviněného podle § 265i odst. 1 písm. c) tr. ř. odmítl, aniž z jeho podnětu přezkoumal napadený rozsudek a předcházející řízení z hledisek uvedených v § 265i odst. 3 tr. ř.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 24. listopadu 2005
+Předseda senátu:
+JUDr. Petr Hrachovec
