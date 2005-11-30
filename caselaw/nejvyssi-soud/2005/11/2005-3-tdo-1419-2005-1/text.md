@@ -1,0 +1,15 @@
+3 Tdo 1419/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v neveřejném zasedání konaném dne 30. listopadu 2005 ve věci dovolání podaného P. G., proti usnesení Krajského soudu v Ostravě sp. zn. 3 To 100/2005 ze dne 24. 3. 2005, v trestní věci vedené u Okresního soudu v Ostravě pod sp. zn. 73 T 264/2004, podle § 31 odst. 1 tr. ř., t a k t o :
+Z důvodu uvedeného v ustanovení § 30 odst. 1 tr. ř. je předseda senátu Nejvyššího soudu České republiky JUDr. Eduard Teschler vyloučen z vykonávání úkonů trestního řízení ve věci vedené u tohoto soudu pod sp. zn. 3 Tdo 1419/2005.
+O d ů v o d n ě n í :
+Obviněný P. G. podal prostřednictvím svého obhájce dovolání proti usnesení Krajského soudu v Ostravě sp. zn. 3 To 100/2005 ze dne 24. 3. 2005, jímž bylo zamítnuto jeho odvolání proti rozsudku Okresního soudu v Ostravě sp. zn. 73 T 264/2004 ze dne 15. 12. 2004.
+Dovolacím soudem je podle § 265c tr. ř. Nejvyšší soud České republiky (dále jen Nejvyšší soud), u něhož je předmětná věc vedena pod sp. zn. 3 Tdo 1419/2005. Podle rozvrhu práce Nejvyššího soudu byla věc obviněného P. G. určena k projednání a rozhodnutí senátu č. 3, v rámci tohoto senátu byla přidělena JUDr. Vladimíru Jurkovi, když členem tohoto senátu je i JUDr. Eduard Teschler.
+Ze shora citovaného usnesení Krajského soudu v Ostravě je zřejmé, že ve věci rozhodovala soudkyně JUDr. Danuše Teschlerová, jako členka senátu 3 To označeného soudu. Podle písemného vyjádření předsedy senátu Nejvyššího soudu JUDr. Eduarda Teschlera je jmenovaná jeho manželkou, se kterou žije ve společné domácnosti a pojí ho s ní rodičovské povinnosti a vzájemné blízké vztahy.
+Z ustanovení § 30 odst. 1 tr. ř. také vyplývá, že z vykonávání úkonů trestního řízení je vyloučen soudce, u něhož lze mít pochybnosti, že pro poměr k jinému orgánu činnému v trestním řízení nemůže nestranně rozhodovat. Účelem citovaného ustanovení je upevnit důvěru procesních stran i veřejnosti v nestrannost soudního rozhodování. Zákon takto v taxativně vymezených případech připouští výjimku ze zásady, že nikdo nesmí být odňat svému zákonnému soudci, vyjádřenou v čl. 38 odst. 1 Listiny základních práv a svobod. Na principu zákonného soudce by nepochybně nebylo možné trvat tam, kde existují pochybnosti, že by to mohlo být na újmu spravedlivého a objektivního rozhodnutí.
+V posuzovaném případě dospěl Nejvyšší soud k závěru, že blízký vztah mezi soudkyní Krajského soudu a předsedou senátu Nejvyššího soudu, rozhodujícími v téže trestní věci, je současně poměrem k jinému orgánu činnému v trestním řízení, předpokládaný ustanovením § 30 odst. 1 tr. ř. a v tomto smyslu i důvodem vyloučení soudce z vykonávání úkonů trestního řízení.
+S přihlédnutím ke shora uvedenému rozhodl Nejvyšší soud podle § 31 odst. 1 tr. ř. tak, že předseda senátu tohoto soudu JUDr. Eduard Teschler je z důvodu uvedeného v ustanovení § 30 odst. 1 tr. ř. vyloučen z vykonávání úkonů trestního řízení ve shora označené věci vedené u Nejvyššího soudu o dovolání obviněného P. G.
+P o u č e n í : Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 30. listopadu 2005
+Předseda senátu:
+JUDr. Vladimír Jurka
