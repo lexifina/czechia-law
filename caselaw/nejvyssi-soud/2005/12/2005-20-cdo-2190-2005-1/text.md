@@ -1,0 +1,18 @@
+20 Cdo 2190/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Ištvánka a soudců JUDr. Vladimíra Kůrky a JUDr. Vladimíra Mikuška ve věci výkonu rozhodnutí oprávněného Finančního úřadu ve V., proti povinné S., spol. s r.o., prodejem podniku, pro pohledávku 3.627.071,- Kč, vedené u Okresního soudu v Benešově pod sp. zn. 2 E 301/2003, o dovolání správce podniku L. T., zastoupeného advokátem, proti usnesení Krajského soudu v Praze ze dne 25. května 2005, č. j. 20 Co 151/2005-150, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Soud I. stupně usnesením ze dne 10. ledna 2005, č. j. 2 E 301/2003-124 schválil konečnou zprávu ustanoveného správce podniku L. T. ze dne 22. září 2004 (výrok I.) a zároveň přiznal tomuto správci podniku odměnu ve výši 502.946,- Kč, kterou zavázal oprávněného zaplatit do tří dnů od právní moci usnesení (výrok II.). K odvolání oprávněného změnil odvolací soud napadeným rozhodnutím usnesení soudu I. stupně tak, že správci podniku přiznal odměnu ve výši 10.000,- Kč a ve zbytku rozhodnutí soudu I. stupně potvrdil.
+Proti usnesení odvolacího soudu podal ustanovený správce podniku – jakožto zvláštní procesní subjekt [§ 338k odst. 6 zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů (dále také jen „o.s.ř.“)] – včasné dovolání, kterým brojí proti způsobu, jakým odvolací soud stanovil jemu přiznanou odměnu. Je toho právního názoru, že navzdory poučení napadeného rozhodnutí o nepřípustnosti dovolání je dovolání v této věci přípustné, a to poukazem na ustanovení § 237 odst. 1 písm. a/, odst. 3 o.s.ř. ve spojení s ustanovením § 241a odst. 2 písm. b/ o.s.ř.
+Oprávněný ve svém vyjádření k dovolání názorům ustanoveného správce podniku oponuje poukazem na příslušnou právní úpravu, přičemž otázku posouzení přípustnosti či nepřípustnosti podaného dovolání ponechává na zvážení dovolacího soudu.
+Dovolání - navzdory očekávání dovolatele – není přípustné.
+Podle ustanovení § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Přípustnost dovolání proti usnesení odvolacího soudu upravují ustanovení § 237 až § 239 o.s.ř.
+Přípustnost dovolání podle § 237 odst. 1 o.s.ř. není dána již proto, že měnícím rozhodnutím odvolacího soudu v otázce přiznání odměny správci podniku nebylo změněno usnesení, kterým by soud prvního stupně rozhodl ve věci samé (k pojmu „věc sama“ srov. usnesení Nejvyššího soudu ze dne 2. prosince 1997, sp. zn. 2 Cdon 774/97, uveřejněné pod č. 61/1998 ve Sbírce soudních rozhodnutí a stanovisek). Dovolání není přípustné ani podle § 238 a § 238a o.s.ř., neboť usnesením soudu prvního stupně nebylo rozhodnuto ve věcech zde vyjmenovaných, a z § 239 odst. 1, 2 a 3 o.s.ř. rovněž nevyplývá, protože nejde o případy v těchto ustanoveních uvedené. Závěr odvolacího soudu o nepřípustnosti dovolání v této věci je proto třeba shledat zcela správným.
+Protože dovolání není podle žádného v úvahu připadajícího ustanovení občanského soudního řádu přípustné, Nejvyšší soud je – aniž se jím mohl zabývat z pohledu uplatněných námitek – odmítl (§ 243b odst. 5, věta první, § 218 písm. c/ o.s.ř.).
+Ustanovený správce podniku – jakožto dovolatel – s dovoláním úspěšný nebyl, ostatním účastníkům řízení žádné náklady dovolacího řízení (podle obsahu spisu) nevznikly. Této procesní situaci odpovídá ve smyslu ust. § 146 odst. 3, 224 odst. 1 a § 243b odst. 5 o.s.ř. výrok o tom, že na náhradu nákladů dovolacího řízení nemá právo žádný z účastníků.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 6. prosince 2005
+JUDr. František Ištvánek, v. r.
+předseda senátu
