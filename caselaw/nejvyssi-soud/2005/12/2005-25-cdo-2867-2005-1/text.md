@@ -1,0 +1,18 @@
+25 Cdo 2867/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Vojtka a soudců JUDr. Marty Škárové a JUDr. Roberta Waltra v právní věci žalobce J. K., o „zjednání nápravy za teroristické a nekvalifikované řízení“, vedené u Okresního soudu v Ostravě pod sp. zn. 35 Nc 5/2004, o dovolání žalobce proti usnesení Krajského soudu v Ostravě ze dne 13. 5. 2005, č. j. 57 Co 262/2005-46, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í :
+Okresní soud v Ostravě usnesením ze dne 7. 2. 2005, č. j. 35 Nc 5/2004-36, odmítl podání žalobce doručené soudu dne 22. 6. 2004 podle ustanovení § 43 odst. 2 o.s.ř. pro neodstranění vad podání a rozhodl o náhradě nákladů řízení.
+K odvolání žalobce Krajský soud v Ostravě usnesením ze dne 13. 5. 2005, č. j. 57 Co 262/2005-46, usnesení soudu prvního stupně potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Proti tomuto usnesení podal žalobce vlastnoručně sepsané dovolání, v němž zejména namítá, že „řízení je opět nekvalifikované a jde o střet zájmů mezi mnou a tímto státem“.
+Nejvyšší soud jako soud dovolací (§10a o. s. ř.) dospěl k závěru, že v dané věci brání rozhodnutí o dovolání nedostatek podmínky dovolacího řízení ve smyslu ustanovení § 241 odst. 1 věty druhé o. s. ř.
+Podle ustanovení § 241 odst. 1 o. s. ř. není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Podle ustanovení § 241 odst. 2 o. s. ř. odstavec 1 neplatí, a) je-li dovolatelem fyzická osoba, která má právnické vzdělání, b) je-li dovolatelem právnická osoba, stát, obec nebo vyšší územně samosprávný celek, jedná-li za ně osoba uvedená v § 21, 21a, anebo v § 21b, která má právnické vzdělání. Podle odst. 4 dovolání musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem, notářem nebo osobou uvedenou v § 21, 21a, 21b, anebo v § 26a odst. 3, která má právnické vzdělání.
+Pro podání dovolání, které je mimořádným opravným prostředkem, zákon stanoví požadavek, aby účastník řízení, který podává dovolání, měl buď sám právnické vzdělání, nebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc. Ustanovení § 241 o. s. ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejího splnění nelze o dovolání rozhodnout.
+V posuzované věci žalobce podal vlastnoručně psané dovolání, aniž byl při tomto úkonu zastoupen advokátem, a nebylo doloženo, že by sám měl právnické vzdělání. Usnesením Okresního soudu v Ostravě ze dne 20. 9. 2005, č. j. 35 Nc 5/2004-53, jehož stejnopis mu byl doručen dne 17. 10. 2005, byl žalobce vyzván, aby si ve lhůtě třiceti dnů od doručení tohoto usnesení zvolil zástupce z řad advokátů a jeho prostřednictvím podal v téže lhůtě řádné dovolání, doložil plnou moc udělenou tomuto advokátovi nebo předložil doklad, že on sám má právnické vzdělání; byl zároveň poučen, že pokud tak neučiní, soud řízení zastaví.
+Dovolatel na tuto výzvu nereagoval, nedostatek povinného zastoupení do současné doby (soudem stanovená lhůta uplynula dne 16. 11. 2005) neodstranil, ačkoliv byl o povinném právním zastoupení v dovolacím řízení i o důsledcích nesplnění této podmínky poučen. Nejvyšší soud proto dovolací řízení podle § 243c odst. 1 a § 104 odst. 2 věty třetí o. s. ř. zastavil, aniž se mohl zabývat otázkou dalších náležitostí podaného dovolání a jeho přípustnosti.
+O náhradě nákladů dovolacího řízení nebylo rozhodováno, neboť v dosavadních podáních žalobce nebyla dosud vymezena strana žalovaná.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 8. prosince 2005
+JUDr. Petr Vojtek, v.r.
+předseda senátu
