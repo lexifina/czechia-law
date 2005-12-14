@@ -1,0 +1,13 @@
+5 Tdo 1545/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v neveřejném zasedání dne 14. prosince 2005 ve věci dovolání obviněného Ing. M. V., které podal proti usnesení Krajského soudu v Praze ze dne 11. 5. 2004, sp. zn. 10 To 108/2004, v části, jíž byl potvrzen rozsudek Okresního soudu v Příbrami ze dne 8. 1. 2004, č. j. 1 T 40/2002-597, ve výroku o vině trestným činem porušování povinnosti při správě cizího majetku podle § 255 odst. 1 tr. zák., a to v bodě 1 tohoto rozsudku, t a k t o :
+Podle § 23 odst. 3 tr. ř. per analogiam s e s p o j u j í ke společnému projednání a rozhodnutí věci vedené u Nejvyššího soudu České republiky pod sp. zn. 5 Tdo 1545/2005 a 5 Tdo 1571/2005.
+Obě věci budou vedeny pod sp. zn. 5 Tdo 1571/2005.
+O d ů v o d n ě n í :
+Dne 5. 12. 2005 předložil Okresní soud v Příbrami Nejvyššímu soudu České republiky dovolání obviněného Ing. M. V. ze dne 27. 7. 2004, které podal proti výroku o vině ad 1) rozsudku Okresního soudu v Příbrami ze dne 8. 1. 2004, č. j. 1 T 40/2002-597, ve spojení s usnesením Krajského soudu v Praze ze dne 11. 5. 2004, sp. zn. 10 To 108/2004, kterým byl uznán vinným trestným činem porušování povinnosti při správě cizího majetku podle § 255 odst. 1, 2 písm. a), odst. 3 tr. zák.
+Téhož dne bylo Nejvyššímu soudu České republiky předloženo další dovolání obviněného v téže trestní věci vedené u Okresního soudu v Příbrami pod sp. zn. 1 T 40/2002, v níž rozhodl Krajský soud v Praze jako soud odvolací rozsudkem ze dne 7. 6. 2005, sp. zn. 10 To 90/2005, tak, že podle § 258 odst. 1 písm. d) tr. ř. zrušil rozsudek Okresního soudu v Příbrami ze dne 10. 1. 2005, sp. zn. 1 T 40/2002, a za podmínek § 259 odst. 3 písm. a) tr. ř. znovu rozhodl tak, že uznal obviněného Ing. M. V. vinným trestným činem porušování povinnosti při správě cizího majetku podle § 255 odst. 1, 2 písm. a), b) tr. zák. a uložil mu za tento trestný čin trest odnětí svobody v trvání osmnácti měsíců, jehož výkon mu podle § 58 odst. 1 a § 59 odst. 1 tr. zák. podmíněně odložil na zkušební dobu tří let. Podle § 49 odst. 1 tr. zák. obviněnému dále uložil trest zákazu činnosti spočívající v zákazu výkonu funkce správce konkursní podstaty a likvidátora na dobu pěti let. Podle § 228 odst. 1 a § 229 odst. 2 tr. ř. bylo rozhodnuto o nároku poškozeného na náhradu škody a podle § 256 tr. ř. bylo zamítnuto odvolání poškozeného.
+Protože jsou dány podmínky společného řízení, rozhodl Nejvyšší soud podle § 23 odst. 3 tr. ř. per analogiam o spojení obou věcí ke společnému projednání a rozhodnutí s tím, že obě věci budou nadále vedeny pod sp. zn. 5 Tdo 1571/2005.
+P o u č e n í : Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 14. prosince 2005
+Předseda senátu:
+JUDr. Jindřich Urbánek
