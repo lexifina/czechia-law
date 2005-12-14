@@ -1,0 +1,24 @@
+25 Cdo 2645/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marty Škárové a soudců JUDr. Františka Ištvánka a JUDr. Petra Vojtka v právní věci žalobce J. K., zastoupeného opatrovníkem Statutární město O., zastoupeného advokátkou, proti žalované České republice – Okresnímu soudu Ostrava, se sídlem v Ostravě, U Soudu 4/6187, o náhradu škody, vedené u Okresního soudu v Ostravě pod sp. zn. 59 C 104/95, o dovolání žalobce proti usnesení Krajského soudu v Ostravě ze dne 30. 10. 1996, 8 Co 743/96-35, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu dovolacího řízení.
+O d ů v o d n ě n í :
+Usnesením Krajského soudu v Ostravě ze dne 30. 10. 1996, 8 Co 743/96-35, bylo jako opožděné odmítnuto odvolání žalobce proti usnesení Okresního soudu v Ostravě ze dne 17. 4. 1996, č. j. 59 C 104/95-28, jímž byl zamítnut návrh žalobce na opravu usnesení o zastavení řízení.
+Proti tomuto usnesení podal žalobce dovolání, v němž namítá, že odvolání podal včas, že má právo na advokáta již od počátku řízení a že v řízení došlo k falšování důkazů a listin.
+Usnesením Okresního soudu v Ostravě ze dne 10. 4. 2000, č. j. 2 Nc 82/98-54, byl žalobce vyzván k doplnění obsahu svého podání a k předložení plné moci k zastupování v dovolacím řízení.
+Rozsudkem Okresního soudu v Ostravě ze dne 27. 5. 2004, č. j. 42 P a Nc 292/99-89, který nabyl právní moci dne 1. 7. 2004, byl žalobce omezen ve způsobilosti k právním úkonům a usnesením Okresního soudu v Ostravě ze dne 18. 11. 2004, č. j. P 1195/2004-114, které nabylo právní moci dne 9. 12. 2004, mu bylo opatrovníkem ustanoveno Statutární Město O., Úřad městského obvodu O.
+Okresní soud v Ostravě usnesením ze dne 6. 6. 2005, č. j. 59 C 104/95-71, zamítnul žádost žalobce o ustanovení zástupce z řad advokátů pro dovolací řízení. Toto usnesení nabylo právní moci dne 15. 6. 2005, kdy bylo doručeno opatrovníkovi žalobce.
+Usnesením Okresního soudu v Ostravě ze dne 16. 8. 2005, č. j. 59 C 104/95-74, byl žalobce zastoupený opatrovníkem vyzván, aby si pro podání dovolání zvolil zástupcem advokáta a aby jeho prostřednictvím podal řádné dovolání, s tím, že neučiní-li tak ve lhůtě 30 dnů od doručení usnesení, Nejvyšší soud dovolací řízení zastaví. Toto usnesení bylo opatrovníkovi žalobce doručeno dne 13. 9. 2005.
+Opatrovník žalobce předložil soudu plnou moc, kterou dne 31. 10. 2005 udělil advokátce JUDr. H. S. k zastupování žalobce v dovolacím řízení.
+Podle ustanovení části dvanácté, hlavy I, bodu 17. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, se dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona (1. 1. 2001) nebo vydaným po řízení provedeném podle dosavadních právních předpisů projednají a rozhodnou podle dosavadních právních předpisů (tj. podle občanského soudního řádu ve znění účinném do 31. 12. 2000).
+Vzhledem k tomu, že rozhodnutí odvolacího soudu napadené dovoláním bylo vydáno podle občanského soudního řádu, ve znění účinném do 31. 12. 2000, postupoval i Nejvyšší soud podle zákona č. 99/1963 Sb., občanského soudního řádu, v tomto znění (dále jen o. s. ř.).
+Podle ust. § 240 odst. 1 věty první o. s. ř. účastník může podat dovolání do jednoho měsíce po právní moci rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Podle ust. § 241 odst. l o. s. ř. dovolatel musí být zastoupen advokátem, jestliže sám nemá právnické vzdělání. Podle § 241 odst. 2 o. s. ř. nemá-li dovolatel právnické vzdělání, musí být dovolání sepsáno advokátem.
+Pro podání dovolání, které je mimořádným opravným prostředkem, zákon stanoví požadavek, aby účastník řízení, který podává dovolání, měl buď sám právnické vzdělání, nebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc, a dovolání bylo touto osobou sepsáno. Ustanovení § 241 o. s. ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejího splnění nelze o dovolání rozhodnout.
+Žalobce sice na výzvu soudu si zvolil zástupcem advokáta, neodstranil však nedostatek podmínky dovolacího řízení spočívající v tom, že dovolání nebylo sepsáno advokátem, přestože byl k tomu vyzván a o této podmínce dovolacího řízení poučen.
+Vzhledem k tomu, že nedostatek podmínky dovolacího řízení podle ust. § 241 odst. 2, věty druhé, o. s. ř. nebyl ani přes poučení odstraněn, Nejvyšší soud řízení o dovolání žalobce zastavil, aniž bylo třeba se zabývat otázkou dalších náležitostí podaného dovolání a otázkou jeho přípustnosti.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 4, § 224 odst. l a § 146 odst. 1 písm. c) o. s. ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 14. prosince 2005
+JUDr. Marta Škárová, v.r.
+předsedkyně senátu
