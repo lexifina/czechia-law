@@ -1,0 +1,17 @@
+22 Cdo 2955/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jiřího Spáčila, CSc., a soudců JUDr. Františka Baláka a JUDr. Marie Rezkové ve věci žalobkyně H. R., proti žalovanému M. Š., zastoupenému advokátem, o zdržení se obtěžování, vedené u Okresního soudu v Mělníku pod sp. zn. 6 C 592/2003, o dovolání žalobkyně proti rozsudku Krajského soudu v Praze ze dne 3. května 2005, č. j. 22 Co 41/2005-289, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků řízení nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Krajský soud v Praze jako soud odvolací rozsudkem ze dne 3. května 2005, č. j. 22 Co 41/2005-289, potvrdil rozsudek Okresního soudu v Mělníku (dále „soud prvního stupně“) ze dne 9. listopadu 2004, č. j. 6 C 592/2003-228 kterým byla zamítnuta žaloba o povinnost zdržet se obtěžování žalobkyně způsobem v žalobě uvedeným.
+Rozsudek odvolacího soudu žalobkyně napadla podáním označeným jako dovolání s datem 12. 7. 2005, podepsaným žalobkyní a její matkou H. R. jako její zástupkyní. V podání namítá, že rozsudek odvolacího soudu je založen na neúplném zjištění skutkového stavu a věc je nesprávně právně posouzena.
+Soud prvního stupně usnesením ze dne 14. července 2005, č. j. 6 C 592/2003-310, žalobkyni vyzval, aby si pro dovolací řízení zvolila právním zástupcem advokáta a jeho prostřednictvím podala řádné dovolání. Poučil ji, že nepředloží-li do deseti dnů ode dne doručení tohoto usnesení soudu plnou moc zvoleného advokáta a jím sepsané dovolání, bude dovolací řízení zastaveno. Žalobkyně na toto rozhodnutí reagovala přípisem soudu prvního stupně z 25. 7. 2005 s žádostí, aby jí bylo přiznáno osvobození od soudního poplatku z dovolání a aby jí byl soudem ustanoven advokát.
+Soud prvního stupně usnesením ze dne 9. srpna 2005, č. j. 6 C 592/2003-318, žalobkyni nepřiznal osvobození od soudního poplatku a zamítl její návrh na ustanovení advokáta. K odvolání proti tomuto rozhodnutí, podanému žalobkyní 14. 9. 2005, odvolací soud usnesením ze dne 30. září 2005, č. j. 22 Co 398/2005-325 potvrdil rozhodnutí soudu prvního stupně, když dospěl ke shodnému závěru jako soud prvního stupně, že u žalobkyně nejsou dány podmínky pro vyhovění její žádosti. Toto rozhodnutí nabylo právní moci 11. 11. 2005. Soud prvního stupně poté předložil spis dovolacímu soudu k dalšímu řízení s tím, že nedostatek povinného zastoupení žalobkyně v dovolacím řízení advokátem nebyl žalobkyní ve lhůtě jí k tomu poskytnuté odstraněn.
+Podle § 241 odst. 1, 2 občanského soudního řádu (dále „OSŘ“) musí být dovolatel v dovolacím řízení zastoupen advokátem, jestliže sám nemá právnické vzdělání. Z podaného dovolání zastoupení advokátem nevyplývá a jiné listiny toto zastoupení nebo právnické vzdělání dovolatelky prokazující nebyly předloženy. Dovolatelka nedostatek povinného zastoupení neodstranila, ačkoliv byla o procesních následcích nesplnění této povinnosti poučena.
+Povinné zastoupení dovolatelky v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání vydání rozhodnutí ve věci samé (§ 241 odst. 1 OSŘ), a protože k odstranění tohoto nedostatku do dnešního dne nedošlo, Nejvyšší soud dovolací řízení podle § 243c odst. 1 a § 104 odst. 2 OSŘ zastavil.
+Výrok o náhradě nákladů dovolacího řízení byl učiněn v souladu s § 243b odst. 5, § 224 odst. 1 a § 146 odst. 1 písm. c) OSŘ.
+Proti tomuto rozhodnutí není opravný prostředek přípustný.
+V Brně dne 14. prosince 2005
+JUDr. Jiří Spáčil, CSc., v.r.
+předseda senátu
