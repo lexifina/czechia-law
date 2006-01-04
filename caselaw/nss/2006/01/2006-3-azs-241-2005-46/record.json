@@ -1,0 +1,22 @@
+{
+  "record_type": "case-law",
+  "court": "Nejvyšší správní soud",
+  "jurisdiction": "CZ",
+  "date": "2006-01-04",
+  "date_basis": "Official NSS open-data column Datum rozhodnutí (decision date).",
+  "ecli": "ECLI:CZ:NSS:2006:3.Azs.241.2005.46",
+  "docket": "3 Azs 241/2005",
+  "movement_type": "spisovna",
+  "case_type": "Azyl - Mezinárodní ochrana a setrvání v přijímacím středisku",
+  "proceeding_type": "žaloba proti rozhodnutí",
+  "decision_type": "Meritorní",
+  "form": "Usnesení",
+  "outcome": "odmítnuto",
+  "published_collection": "01.10.2008",
+  "source": "http://vyhledavac.nssoud.cz/GetContent?ECLI=ECLI:CZ:NSS:2006:3.Azs.241.2005.46",
+  "source_page": "https://www.nssoud.cz/informace-pro-verejnost/otevrena-data-k-soudni-cinnosti",
+  "bulk_source": "https://www.nssoud.cz/fileadmin/user_upload/dokumenty/Otevrena_data/Data_2026/Listopad/otevrena_data_NSS.xlsx",
+  "bulk_source_sha256": "42660df274be1e4c5002d5aaf97a7271931d81b99585ce9a33ddfb0fa79eedaa",
+  "xlsx_row": 81698,
+  "text_status": "metadata-only; official decision text link retained for later text import"
+}
