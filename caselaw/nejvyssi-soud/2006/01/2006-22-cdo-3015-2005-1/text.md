@@ -1,0 +1,15 @@
+22 Cdo 3015/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jiřího Spáčila, CSc., a soudců JUDr. Františka Baláka a JUDr. Marie Rezkové ve věci žalobce M. V., zastoupeného advokátem, proti žalované J. V., o vypořádání společného jmění manželů, vedené u Okresního soudu v Rakovníku pod sp. zn. 3 C 619/2002, o dovolání žalované proti rozsudku Krajského soudu v Praze ze dne 18. května 2005, č. j. 25 Co 33/2005-183, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Krajský soud v Praze jako soud odvolací k odvolání žalované rozsudkem ze dne 18. května 2005, č. j. 25 Co 33/2005-183, v řízení o vypořádání společného jmění manželů, výrokem pod bodem I. změnil rozsudek Okresního soudu v Rakovníku (dále „soud prvního stupně“) ze dne 23. září 2004, č. j. 3 C 619/2002-149, v jeho výroku II., kterým byla žalované uložena povinnost zaplatit žalobci 161 050,- Kč, tak, že přisouzenou částku žalovaná uhradí žalobci do tří měsíců od právní moci rozsudku. Výroky pod body II. a III. změnil rozsudek soudu prvního stupně v jeho výrocích III. a IV. ohledně náhrady nákladů řízení. Výrokem pod bodem IV. potvrdil rozsudek soudu prvního stupně v dalších jeho výrocích a výrokem pod bodem V. rozhodl o nákladech odvolacího řízení.
+Proti rozsudku odvolacího soudu podala žalovaná, nezastoupená advokátem, dovolání. Soud prvního stupně usnesením ze dne 27. října 2005, č. j. 3 C 619/2002-198 žalovanou vyzval, aby si pro dovolací řízení zvolila právním zástupcem advokáta a aby dovolání podala jeho prostřednictvím, k čemuž jí stanovil lhůtu třiceti dnů. Poučil ji, že nepředloží-li soudu prvního stupně do uvedené lhůty plnou moc advokáta a jím sepsané dovolání, dovolací soud řízení zastaví. Převzetí listovní zásilky obsahující toto rozhodnutí 2. 11. 2005 žalovaná potvrdila svým podpisem na doručence. Vzhledem k tomu, že na uvedenou výzvu ve stanovené lhůtě nereagovala, doručil uvedený soud 12. 12. 2005 spisový materiál k dalšímu řízení dovolacímu soudu.
+Podle § 241 odst. 1, 2 občanského soudního řádu (dále „OSŘ“) musí být dovolatel v dovolacím řízení zastoupen advokátem, jestliže sám nemá právnické vzdělání. Z podaného dovolání zastoupení advokátem nevyplývá a jiné listiny toto zastoupení nebo právnické vzdělání dovolatele prokazující nebyly předloženy. Dovolatel nedostatek povinného zastoupení přes výzvu soudu prvního stupně neodstranil, ačkoliv byl o procesních následcích nesplnění této povinnosti poučen.
+Protože povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání vydání rozhodnutí ve věci samé (§ 241 odst. 1 OSŘ) a protože k odstranění tohoto nedostatku do dnešního dne nedošlo, Nejvyšší soud dovolací řízení podle § 243c odst. 1 a § 104 odst. 2 OSŘ zastavil.
+Výrok o náhradě nákladů dovolacího řízení byl učiněn v souladu s § 243b odst. 5, § 224 odst. 1 a § 146 odst. 1 písm. c) OSŘ.
+Proti tomuto rozhodnutí není opravný prostředek přípustný.
+V Brně dne 16. ledna 2006
+JUDr. Jiří Spáčil, CSc.,v.r.
+předseda senátu
