@@ -1,0 +1,24 @@
+30 Cdo 35/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně
+JUDr. Olgy Puškinové a soudců JUDr. Karla Podolky a JUDr. Pavla Pavlíka v první věci žalobce A. N. proti žalované České republice - Úřadu pro zastupování státu ve věcech majetkových, Územní pracoviště Střední Čechy, nám. Republiky 3, Praha 1, IČ: 69797111, o určení vlastnictví, vedené u Okresního soudu Praha - západ pod sp. zn. 3 C 300/2002 - 59,
+o dovolání žalobce proti rozsudku Krajského soudu v Praze ze dne 19. října 2004, č. j. 22 Co 330/2004 - 71, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů řízení.
+O d ů v o d n ě n í :
+Okresní soud Praha - západ rozsudkem ze dne 17. 3. 2004, č. j. 3 C 300/2002 - 59, určil, že žalobce je vlastníkem pozemků parc. č. 174/8, 275, 375, 471 v obci a katastrálním území Ch., zapsaných na LV č. 2 u Katastrálního úřadu P., a rozhodl o náhradě nákladů řízení.
+K odvolání žalovaného Krajský soud v Praze po té, co usnesením ze dne 19. 10. 2004, č. j. 22 Co 330/2004 - 68, připustil změnu žaloby, rozsudkem ze dne 19. 10. 2004, č. j. 22 Co 330/2004 - 71, změnil rozsudek soudu prvního stupně tak, že se určuje, že žalobce je vlastníkem pozemků původního pozemkového katastru PK parc. č. 275 a 471 a ideální poloviny pozemků původního pozemkového katastru PK parc. č. 174/8 a 375, nemovitostí v k. ú. Ch., zapsaných u Katastrálního úřadu pro Středočeský kraj, katastrálního pracoviště P., a rozhodl o náhradě nákladů řízení před soudy obou stupňů.
+Proti tomuto rozsudku odvolacího soudu podal žalobce tzv. blanketní dovolání, aniž byl při tomto úkonu zastoupen advokátem.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) po zjištění, že dovolání bylo proti pravomocnému rozsudku odvolacího soudu podáno oprávněnou osobou (účastníkem řízení) ve lhůtě uvedené v ustanovení § 240 odst. 1 o. s. ř., dospěl k závěru, že v dané věci brání rozhodnutí o dovolání nedostatek podmínky dovolacího řízení.
+Podle ustanovení § 240 odst. 1 věty první o. s. ř. účastník řízení může podat dovolání do dvou měsíců od doručení odvolacího soudu u soudu, který rozhodoval v prvním stupni.
+Podle ustanovení § 241 odst. 1 věty první o. s. ř. není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními předpisy. Podle ustanovení § 241 odst. 2 o. s. ř. odstavec 1 neplatí, a) je-li dovolatelem fyzická osoba, která má právnické vzdělání, b) je-li dovolatelem právnická osoba, stát, obec nebo vyšší územně samosprávný celek, jedná-li za ně osoba uvedená v § 21, § 21a, anebo v § 21b, která má právnické vzdělání. Podle odst. 4 tohoto ustanovení dovolání musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem, notářem nebo osobou uvedenou v § 21, § 21a, § 21b, anebo v § 26a odst. 3, která má právnické vzdělání.
+Pro podání dovolání, které je mimořádným opravným prostředkem, zákon stanoví požadavek, aby účastník řízení, který podává dovolání, měl buď sám právnické vzdělání, nebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc. Ustanovení § 241 o. s. ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejího splnění nelze o dovolání rozhodnout.
+V dané věci podal žalobce dovolání proti rozsudku odvolacího soudu, aniž byl při tomto úkonu zastoupen advokátem, a nebylo ani tvrzeno, že by měl právnické vzdělání. Usnesením soudu prvního stupně ze dne 12. 10. 2005, č. j. 3 C 300/2002 - 108, které bylo žalobci doručeno dne 12. 11. 2002, byl žalobce vyzván, aby si pro podání dovolání v této věci zvolil zástupcem advokáta a aby jeho prostřednictvím podal řádné dovolání proti rozsudku odvolacího soudu, a současně byl poučen o tom, že nebude-li ve lhůtě 10 dnů ode dne doručení tohoto usnesení soudu předložena plná moc zvoleného advokáta a jím sepsané dovolání, Nejvyšší soud řízení zastaví.
+Přestože byl žalobce poučen o povinném právním zastoupení v dovolacím řízení, advokáta si ani po řádně doručené výzvě soudu nezvolil ani nedoložil, že by měl právnické vzdělání. Žalobce sice požádal Českou advokátní komoru o určení advokáta pro dovolací řízení v dané věci a této jeho žádosti bylo opakovaně vyhověno, však tato rozhodnutí byla později zrušena.
+Protože nedostatek podmínky dovolacího řízení podle ustanovení § 241 odst. 1 věty první o. s. ř. nebyl ani přes poučení soudu odstraněn, Nejvyšší soud dovolací řízení podle § 243c odst. 1 a § 104 odst. 2 věty třetí o. s. ř. zastavil, aniž bylo třeba se zabývat otázkou dalších náležitostí podaného dovolání.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5,
+§ 224 odst. 1 a § 146 odst. 1 písm. c) o. s. ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 18. ledna 2006
+JUDr. Olga Puškinová, v.r.
+předsedkyně senátu
