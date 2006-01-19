@@ -1,0 +1,29 @@
+32 Odo 1225/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Zdeňka Dese a JUDr. Kateřiny Hornochové v právní věci žalobkyně E. A. M., proti žalované H., s.r.o., o zaplacení 10 000 000,- Kč s příslušenstvím, vedené u Městského soudu v Praze pod sp. zn. 25 Cm 155/2003, o dovolání žalobkyně proti usnesení Vrchního soudu v Praze ze dne 24. března 2004, č.j. 8 Cmo 53/2004-58, takto:
+I. Dovolání se odmítá.
+II. Žalobkyně je povinna zaplatit žalované na náhradě nákladů dovolacího řízení částku 450,- Kč do tří dnů od právní moci tohoto usnesení, k rukám jejího zástupce H. P.
+O d ů v o d n ě n í :
+Městský soud v Praze rozsudkem ze dne 21. října 2003, č.j. 25 Cm 155/2003-23, uložil původní žalované – společnosti M., společnost s ručením omezeným, zaplatit žalobkyni částku 10 000 000,- Kč s příslušenstvím a náklady řízení.
+Vrchní soud v Praze usnesením ze dne 24. března 2004, č.j. 8 Cmo 53/2004-58, zrušil na základě zpětvzetí žaloby shora uvedený rozsudek soudu prvního stupně a řízení zastavil (výrok I.). Dále rozhodl o náhradě nákladů za řízení před soudy obou stupňů (výroky II. a III.)
+Usnesení odvolacího soudu v rozsahu, v němž bylo rozhodnuto o náhradě nákladů za řízení před soudy obou stupňů (první a druhý výrok), napadla žalobkyně dovoláním, jehož důvodnost opřela o ustanovení § 241a odst. 3 a § 241a odst. 2 písm. b) občanského soudního řádu (dále též jen „o. s. ř.“), majíc za to, že rozhodnutí odvolacího soudu obsažené v jeho druhém a třetím výroku vychází ze skutkového zjištění, které nemá podle obsahu spisu v podstatné části oporu v provedeném dokazování, a dále že spočívá na nesprávném právním posouzení věci. Dovolatelka snesla ze svého pohledu argumenty na podporu jí uplatněných dovolacích důvodů a navrhla, aby dovolací soud odložil vykonatelnost jí napadeného usnesení a aby ho v rozsahu druhého a třetího výroku zrušil a věc vrátil odvolacímu soudu k dalšímu řízení.
+Původně žalovaná společnost M., společnost s ručením omezeným ve vyjádření k dovolání poukázala na jeho nepřípustnost, oponovala i některým tvrzením žalobkyně v jeho odůvodnění a navrhla, aby dovolací soud dovolání odmítl a návrh na odložení vykonatelnosti zamítl.
+Městský soud v Praze usnesením ze dne 17. května 2005, č.j. 25 Cm 155/2003-85, které nabylo právní moci dnem 30. července 2005, rozhodl podle § 107 odst. 1 o. s. ř. tak, že v řízení bude dále pokračováno na straně žalované se společností H., s.r.o. Učinil tak po zjištění, že po podání dovolání původní žalovaná společnost M., společnost s ručením omezeným zanikla sloučením se společností H., s.r.o., na níž přešlo jmění zaniklé společnosti a jejímž se stala právním i procesním nástupcem.
+Dovolání v této věci není přípustné.
+Podle ustanovení § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Dovolatelka podala dovolání do rozsudku odvolacího soudu v rozsahu jeho druhého a třetího výroku, tj. v části týkající se náhrady nákladů za řízení před soudy obou stupňů.
+Rozhodnutí soudu o nákladech řízení má s ohledem na ustanovení § 167 odst. 1 o. s. ř. povahu usnesení.
+Dovolání proti výroku usnesení odvolacího soudu o nákladech řízení není podle právní úpravy přípustnosti dovolání v občanském soudním řádu účinné od 1. ledna 2001 přípustné, a to bez zřetele k povaze takového výroku, tj. bez ohledu na to, zda jde např. o měnící nebo potvrzující rozhodnutí o nákladech řízení (srov. usnesení Nejvyššího soudu uveřejněné pod číslem 4/2003 Sbírky soudních rozhodnutí a stanovisek).
+Přípustnost dovolání proti usnesení odvolacího soudu upravují ustanovení § 237, § 238, § 238a a § 239 o. s. ř.
+Podle § 237 odst. 1 o. s. ř. je dovolání přípustné proti rozsudku odvolacího soudu a usnesení odvolacího soudu,
+a) jímž bylo změněno rozhodnutí soudu prvního stupně ve věci samé,
+b) jímž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil,
+c) jímž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není přípustné podle písmena b) a dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam.
+Všem třem případům přípustnosti dovolání v tomto ustanovení vypočteným je společné, že musí jít o rozhodnutí ve věci samé, jímž usnesení o nákladech řízení není. Ustanovení § 238, § 238a a § 239 o. s. ř. nezakládají přípustnost dovolání proto, že rozhodnutí o nákladech řízení není mezi tam taxativně vyjmenovanými usneseními.
+Tento závěr s sebou nese konečné posouzení podaného dovolání jako nepřípustného. Nejvyšší soud je proto, aniž ve věci nařizoval jednání (§ 243a odst. 1, věta první, o. s. ř.), usnesením odmítl [§ 243b odst. 5 věta první, § 218 písm. c) o. s. ř.].
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanoveními § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 3 o. s. ř. Jelikož žalobkyně z procesního hlediska (podáním nepřípustného dovolání) zavinila, že dovolací soud dovolání odmítl, vzniklo žalované vůči ní právo na náhradu účelně vynaložených nákladů dovolacího řízení. Náklady žalované sestávají ze sazby odměny za zastupování advokátem v částce 375,- Kč podle § 14 odst. 3, § 15 a § 18 odst. 1 vyhlášky č. 484/2000 Sb. ve znění pozdějších předpisů a z paušální částky 75,- Kč za jeden úkon právní služby (vyjádření k dovolání) podle § 13 odst. 3 vyhlášky č. 177/1996 Sb. ve znění pozdějších předpisů.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+Nesplní-li povinná dobrovolně, co jí ukládá vykonatelné rozhodnutí, může se oprávněná domáhat výkonu rozhodnutí.
+V Brně 19. ledna 2006
+JUDr. Miroslav Gallus, v.r.
+předseda senátu
