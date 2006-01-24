@@ -1,0 +1,19 @@
+28 Cdo 1254/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Oldřicha Jehličky, CSc., a soudců JUDr. Josefa Rakovského a JUDr. Ludvíka Davida, CSc., o dovolání P. M. A., zast. obecnou zmocněnkyní Z. Ch., podaném proti usnesení Městského soudu v Praze ze dne 5. listopadu 2004 pod č.j. 19 Co 431/2004-24 v právní věci žalobce P. M. A. proti žalovanému Bytovému podniku P., s. p. v likvidaci, o obnovu řízení, vedenou pod sp. zn. 30 Co 35/2004 Obvodního soudu pro Prahu 1, takto:
+I. Řízení o dovolání se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů řízení o dovolání.
+O d ů v o d n ě n í :
+Okresní soud pro Prahu 1 usnesením ze dne 16. června 2004 pod sp. zn. 30 C 35/2004 žalobu o obnovu řízení odmítl, protože žalobce, ač vyzván, žalobu nedoplnil o důvod obnovy řízení nekonkretizoval, i když byl poučen, že v případě nedoplnění bude žaloba odmítnuta.
+Proti tomuto usnesení podal žalobce odvolání, v němž však neuvedl odvolací důvod a odvolací návrh. Žalobce byl poučen, aby své odvolání doplnil, s tím, že nestane-li se tak, bude odvolání odmítnuto.
+Žalobce sice prostřednictvím obecné zmocněnkyně uvedl, že obnovu řízení žádá povolit proto, že mu nebylo umožněno účastnit se řízení, a dále, že se jen později dozvěděl, že řízení (míní se patrně řízení o povolení obnovy) bylo zastaveno. Pokud jde o námitku, že se řízení nemohl účastnit (míní se tím patrně řízení základní o věci samé), vystupoval v řízení žalobcův otec, o čemž odvolatel nevěděl.
+Městský soud v Praze jako soud odvolací usnesením ze dne 5. listopadu 2004 pod sp. zn. 19 Co 431/2004 usnesení soudu prvního stupně potvrdil a vyslovil, že žádný z účastníků řízení nemá právo na náhradu nákladů odvolacího řízení, když dospěl k závěru, že soud prvního stupně správně postupoval, když žalobce k doplnění podání vyzval a když se tak nestalo, žalobu odmítl. Vyložil dále, za kterých podmínek může být povolena obnova řízení a že soud prvního stupně správně postupoval, pokud právě k doložení těchto podmínek svou výzvu formuloval. Ani v odvolacím řízení nedošlo proto k odstranění vad, které bránily věcnému vyřízení návrhu.
+Proti tomuto usnesení podal žalobce dovolání. V odůvodnění uvedl, že všechny potřebné náležitosti objasnil jak v doplnění svého dovolacího podání, tak již předtím ve svých vyjádřeních.
+Dovolatel byl usnesením Obvodního soudu pro Prahu 1 ze dne 4. dubna 2004 pod sp. zn. 30 C 35/2004 vyzván, aby si ve lhůtě patnácti dnů od doručení usnesení zvolil zástupce z řad advokátů, protože jinak dovolací soud řízení o dovolání podle § 234c odst. 1 a § 104 odst. 2 věta třetí o.s.ř. řízení zastaví.
+Nejvyšší soud pro projednání věci dospěl k závěru, že nezbývá, než řízení o dovolání zastavit, aniž by bylo možné přistoupit ke zkoumání a posouzení námitek v něm uvedených.
+Dovolatel totiž nevyhověl výzvě na zvolení zástupce z řad advokátů. Nucené zastoupení advokátem, které nemůže nahradit zastoupení obecným zmocněncem, je totiž zákonným předpokladem k tomu, aby dovolání mohlo být po věcné stránce projednáno. Podle § 241 odst. 1 věta první o.s.ř., není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Výjimky, kdy to není potřebné, splněny nebyly. Dovolatel byl řádně poučen o následcích neodstranění této překážky a protože usnesení s výzvou bylo obecnému zmocněnci, který do té doby žalobce zastupoval, řádně doručeno a výzvě soudu nebylo ve lhůtě vyhověno, nezbylo, než řízení o dovolání zastavit.
+O nákladech řízení o dovolání bylo rozhodnuto podle § 243b odst. 4 o.s.ř. za použití § 224 odst. 1 o.s.ř. a § 146 odst. 1 písm. c) o.s.ř. Žalovanému žádné náklady v řízení o dovolání nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řadu.
+V Brně dne 24. ledna 2006
+JUDr. Oldřich Jehlička, CSc.
+předseda senátu
