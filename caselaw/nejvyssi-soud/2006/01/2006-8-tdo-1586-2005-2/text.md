@@ -1,0 +1,14 @@
+8 Tdo 1586/2005 - I.
+U S N E S E N Í
+Nejvyšší soud rozhodl v neveřejném zasedání konaném dne 25. ledna 2006 v řízení o dovolání obviněného O. B., t. č. ve výkonu trestu odnětí svobody ve Věznici V., proti rozsudku Krajského soudu v Praze ze dne 30. 8. 2005, sp. zn. 10 To 310/2005, který rozhodl jako soud odvolací v trestní věci vedené u Okresního soudu v Berouně pod sp. zn. 1 T 164/2004, t a k t o :
+Podle § 265l odst. 4 tr. ř. se obviněný O. B. n e b e r e do vazby.
+O d ů v o d n ě n í :
+Obviněný O. B. vykonává trest odnětí svobody ve výměře čtyř let, který mu byl uložen rozsudkem Okresního soudu v Berouně ze dne 18. 4. 2005, sp. zn. 1 T 164/2004, ve spojení s rozsudkem Krajského soudu v Praze ze dne 30. 8. 2005, sp. zn. 10 To 310/2005.
+V řízení o dovolání obviněného byl rozsudek Krajského soudu v Praze ze dne 30. 8. 2005, sp. zn. 10 To 310/2005, zrušen, zrušena byla také další rozhodnutí na zrušené rozhodnutí obsahově navazující, pokud vzhledem ke změně, k níž došlo zrušením, pozbyla podkladu, a Krajskému soudu v Praze bylo přikázáno, aby věc v potřebném rozsahu znovu projednal a rozhodl. Ve svých důsledcích to znamená to, že výrok o trestu, který byl uložen původním rozsudkem a který obviněný vykonává, není pravomocný.
+Za takové situace bylo na Nejvyšším soudu, aby ve smyslu § 265l odst. 4 tr. ř. rozhodl zároveň o vazbě.
+Z obsahu spisu Okresního soudu v Berouně sp. zn. 1 T 157/2005 Nejvyšší soud zjistil, že pravomocným rozsudkem Okresního soudu v Berouně ze dne 3. 11. 2005, sp. zn. 1 T 157/2005, byl obviněný uznán vinným trestnými činy násilí proti skupině obyvatelů a proti jednotlivci podle § 197a odst. 1 tr. zák., neoprávněného užívání cizí věci podle § 249 odst. 1 tr. zák. a maření výkonu úředního rozhodnutí podle § 171 odst. 1 písm. c) tr. zák. a odsouzen k úhrnnému trestu odnětí svobody na šest měsíců, pro jehož výkon byl zařazen do věznice s ostrahou. Z nařízení výkonu trestu plyne, že obviněnému je do uloženého trestu započtena vazba od 8. 7. 2005 od 7.30 hodin do 22. 9. 2005. Nařízení výkonu trestu bylo doručeno Věznici V. a uložený trest má obviněný vykonat po skončení výkonu trestu odnětí svobody, který mu byl uložen ve věci Okresního soudu v Berouně sp. zn. 1 T 164/2004.
+Za této situace, při existenci jiného titulu pro omezení jeho osobní svobody, nebylo na místě omezit osobní svobodu obviněného vzetím do vazby [třebaže by důvod vazby uvedený v § 67 písm. c) tr. ř. přicházel reálně v úvahu]. Nejvyšší soud rozhodl tak, že se obviněný nebere do vazby, poněvadž po propuštění z výkonu trestu odnětí svobody v této trestní věci bude vykonávat trest odnětí svobody uložený mu pravomocným rozsudkem Okresního soudu v Berouně ze dne 3. 11. 2005, sp. zn. 1 T 157/2005.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 25. ledna 2006
+Předsedkyně senátu:
+JUDr. Věra Kůrková
