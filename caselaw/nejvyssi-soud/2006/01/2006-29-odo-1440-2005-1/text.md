@@ -1,0 +1,14 @@
+29 Odo 1440/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudkyň JUDr. Hany Gajdziokové a JUDr. Ivany Štenglové v právní věci žalobkyně E. G., a. s., proti žalovaným 1) úpadkyni A. M., spol. s r. o., 2) A. P., 3) V. P., 4) A. M., a 5) K. Ž., o zaplacení částky 15,042.393,90 Kč s příslušenstvím, vedené u Krajského soudu v Brně pod sp. zn. 29 Cm 40/2000, o dovolání druhé žalované proti usnesení Vrchního soudu v Olomouci ze dne 24. března 2005, č.j. 1 Cmo 259/2004-117, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í :
+Vrchní soud v Olomouci usnesením ze dne 24. března 2005, č.j. 1 Cmo 259/2004-117, potvrdil usnesení Krajského soudu v Brně ze dne 12. července 2004, č.j. 29 Cm 40/2000-97, jímž byl připuštěn vstup společnosti F. T. B.V. do řízení na místo dosavadní žalobkyně.
+Proti tomuto usnesení odvolacího soudu podala druhá žalovaná dovolání, přičemž při jeho podání nebyla zastoupena advokátem, ani nedoložila, že má právnické vzdělání. Nejvyšší soud usnesením ze dne 4. ledna 2006, č.j. 29 Odo 1440/2005-128, dovolatelku vyzval k odstranění nedostatku povinného zastoupení ve lhůtě do deseti dnů od doručení usnesení.
+Podle ustanovení § 241 občanského soudního řádu (dále jen „o. s. ř.“) není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními právními předpisy (odstavec 1). Odstavec 1 neplatí, a) je-li dovolatelem fyzická osoba, která má právnické vzdělání, b) je-li dovolatelem právnická osoba, stát, obec nebo vyšší územně samosprávný celek, jedná-li za ně osoba uvedená v § 21, § 21a, anebo v § 21b, která má právnické vzdělání (odstavec 2). Dovolání musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písmeno a), advokátem, notářem nebo osobou uvedenou v § 21, §21a, § 21b, anebo v § 26a odst. 3, která má právnické vzdělání (odstavec 4).
+Protože povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, bez jejíhož splnění nelze vydat - s výjimkou usnesení, jímž se dovolací řízení pro tento nedostatek zastavuje - rozhodnutí, kterým se řízení končí, a protože ke zhojení tohoto nedostatku přes řádnou výzvu Nejvyššího soudu (doručenou dovolatelce dne 13. ledna 2006 - srov. doručenku u č. l. 128) do dnešního dne nedošlo, Nejvyšší soud dovolací řízení podle § 104 odst. 2 a § 243c o. s. ř. zastavil.
+O nákladech dovolacího řízení Nejvyšší soud nerozhodoval, jelikož dovoláním napadené rozhodnutí odvolacího soudu není rozhodnutím, jímž se řízení končí, a řízení nebylo již dříve skončeno (srov. např. rozhodnutí uveřejněné pod číslem 48/2003 Sbírky soudních rozhodnutí a stanovisek).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 31. ledna 2006
+JUDr. Petr Gemmel, v. r.
+předseda senátu
