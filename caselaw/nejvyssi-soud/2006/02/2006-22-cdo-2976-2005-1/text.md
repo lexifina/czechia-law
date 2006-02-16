@@ -1,0 +1,18 @@
+22 Cdo 2976/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedkyně JUDr. Marie Rezkové a soudců JUDr. Františka Baláka a JUDr. Jiřího Spáčila, CSc., ve věci žalobkyně C., Ltd., Spojené království Velké Británie a Severního Irska, zastoupené advokátem, proti žalovaným: 1) B. H., a. s., 2) K. K., 3) F. K., 4) T. K., 5) P. T. a. s., 6) S. H. a. s., 7) JUDr. M. L., správci konkurzní podstaty úpadce T. A. a. s., o určení neplatnosti smluv o zřízení věcného břemene, vedené u Okresního soudu v Opavě pod sp. zn. 7 C 116/2002, o dovolání žalovaného 3) proti usnesení Krajského soudu v Ostravě ze dne 29. dubna 2005, č. j. 56 Co 170/2005-76, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Krajský soud v Ostravě jako soud odvolací usnesením z 29. 4. 2005, č. j. 56 Co 170/2005-76, odmítl odvolání žalovaného 3) proti usnesení Okresního soudu v Opavě (dále „soud prvního stupně“) z 21. 10. 2004, č. j. 7 C 116/2002-46, jímž byla vyloučena k samostatnému řízení věc žalobkyně proti žalované 6) o určení neplatnosti smluv o zřízení věcného břemene s odůvodněním, že podle § 202 odst. 1 písm. a) občanského soudního řádu (dále „OSŘ“) odvolání proti usnesení, jímž se upravuje vedení řízení není přípustné.
+Proti usnesení odvolacího soudu podal žalovaný 3) dovolání, v němž namítá, že odvolací soud své rozhodnutí odůvodnil formálním konstatováním, že odvolání směřuje proti usnesení, jímž se upravuje vedení řízení a proti tomuto rozhodnutí není odvolání přípustné. Pokud občanský soudní řád skutečně zakládá v § 202 odst. 1 písm. a) nepřípustnost odvolání, odporuje Ústavě České republiky i Listině základních práv a svobod. Navrhuje, aby rozhodnutí soudů obou stupňů byla zrušena.
+V průběhu dovolacího řízení usnesením z 26. září 2005, č. j. 91 K 28/2005-69, byl na majetek obchodní společnosti T. A. a. s. prohlášen konkurz a ze zákona došlo podle § 14 odst. 1 písm. c) zákona č. 328/1991 Sb., o konkurzu a vyrovnání (dále „ZKV“) k přerušení řízení. Správcem konkurzní podstaty byl shora označeným usnesením ustanoven JUDr. M. L., který byl spolu s žalobcem Nejvyšším soudem usnesením z 3.1. 2006, č. j. 22 Cdo 2976/2005-88, vyzván, aby se vyjádřil zda navrhuje pokračování v řízení. Žalobce podáním z 17. 1. 2006 navrhuje, aby bylo v řízení pokračováno se správcem konkurzní podstaty žalovaného 7) JUDr. M. L. Účastníkem řízení se tak ve smyslu § 14 odst. 1 písm. c) ZKV stal namísto úpadce konkurzní správce.
+Dovolání proti usnesení, jímž odvolací soud odmítl jako nepřípustné odvolání směřující proti usnesení o vyloučení věci k samostatnému řízení, není přípustné.
+Podle ustanovení § 236 odst. 1 OSŘ dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu pokud to zákon připouští.
+Přípustnost dovolání proti usnesení odvolacího soudu upravují ustanovení § 237 až § 239 OSŘ.
+Podle ustanovení § 238, § 238a a § 239 OSŘ není dovolání přípustné proto, že dovoláním napadené usnesení nelze podřadit žádnému z tam vyjmenovaných případů.
+Ustanovení § 237 OSŘ upravuje podmínky přípustnosti dovolání proti rozsudku (usnesení) odvolacího soudu, jímž bylo rozhodnuto ve věci samé. Usnesení o odmítnutí odvolání jako nepřípustného však usnesením „ve věci samé“ není (srov. k tomu shodně např. usnesení Nejvyššího soudu z 19. 7. 2004, sp. zn. 21 Cdo 344/2004, publikovaném na internetových stránkách Nejvyššího soudu).
+Nejvyšší soud proto, aniž ve věci nařizoval jednání (§ 243a odst. 1 věta první OSŘ) dovolání třetího žalovaného podle ustanovení § 243b odst. 5 a § 218 písm. c) OSŘ odmítl.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 16. února 2006
+JUDr. Marie Rezková,v.r.
+předsedkyně senátu
