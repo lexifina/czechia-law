@@ -1,0 +1,37 @@
+25 Cdo 205/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Vojtka a soudců JUDr. Marty Škárové a JUDr. Roberta Waltra v právní věci žalobce Ing. P. Ch., zastoupeného advokátem, proti žalovaným 1) České republice - Ministerstvu vnitra ČR, se sídlem v Praze 7, Nad štolou 3, 2) L. S., 3) Ing. L. D., 4) M. H., 5) J. P., 6) V. F., 7) P. T., 8) Ing. T. H., 9) D., spol. s r. o., 10) Ing. H. P., 11) Ing. R. Č., 12) B. M., 13) M. P., 14) L. J., 15) Ing. J. A., 16) L. H., 17) M. R., 18) J. H., 19) J. K. a 20) Ing. L. Š., o 3.096.000,- Kč, vedené u Obvodního soudu pro Prahu 7 pod sp. zn. 10 C 68/2003, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 31. ledna 2005, č. j. 11 Co 436/2004-89, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Praze usnesením ze dne 31. 1. 2005, č. j. 11 Co 436/2004-89, potvrdil usnesení ze dne 13. 10. 2004, č. j. 10 C 68/2003-82, jímž Obvodní soud pro Prahu 7 zastavil řízení, a to pro nezaplacení soudního poplatku podle ustanovení § 9 odst. 1 zákona č. 549/1991 Sb., o soudních poplatcích.
+Proti usnesení odvolacího soudu podal žalobce dovolání, jehož přípustnost dovozuje z ustanovení § 237 odst. 1 písm. c), odst. 3 o.s.ř., odůvodňuje je podle § 241 odst. 2 písm. a), b) o.s.ř. a namítá, že odvolací soud posoudil rozhodné skutečnosti závadně a nekvalifikovaně, resp. nenapravil předchozí závady řízení, pochybil v logické úvaze i hodnocení důkazů, což následně vedlo k nesprávným právním závěrům a vydání vadného rozhodnutí. Vytýká odvolacímu soudu zejména, že rozhodl o zastavení řízení, aniž se vypořádal s dovoláním žalobce proti jeho předchozímu rozhodnutí a aniž se zabýval jeho procesními návrhy. Navrhuje proto, aby dovolací soud usnesení odvolacího soudu spolu s usnesením soudu prvního stupně zrušil a vrátil mu věc k dalšímu řízení.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) po zjištění, že dovolání, které bylo proti pravomocnému usnesení odvolacího soudu podáno oprávněnou osobou (účastníkem řízení) ve lhůtě uvedené v ustanovení § 240 odst. 1 o.s.ř., dospěl k závěru, že dovolání směřuje proti rozhodnutí, proti němuž tento mimořádný opravný prostředek není přípustný.
+Dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští (§ 236 odst. 1 o.s.ř.).
+Podle ustanovení § 237 odst. 1 o.s.ř. je dovolání přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího soudu, jimiž bylo změněno rozhodnutí soudu prvního stupně ve věci samé [písm. a)], jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil [písm. b)], jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není přípustné podle písmena b) a dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam [písm. c)].
+Podle ustanovení § 238 odst. 1 o.s.ř. je dovolání přípustné proti usnesení odvolacího soudu, jímž bylo potvrzeno nebo změněno usnesení soudu prvního stupně, kterým bylo rozhodnuto
+a) o žalobě na obnovu řízení,
+b) o zamítnutí návrhu na změnu rozhodnutí (§ 235h odst. 1 věta druhá).
+Podle ustanovení § 238a odst. 1 o.s.ř. je dovolání přípustné proti usnesení odvolacího soudu, jímž bylo potvrzeno nebo změněno usnesení soudu prvního stupně, kterým bylo rozhodnuto
+a) ve věci konkursu a vyrovnání,
+b) o žalobě pro zmatečnost,
+c) o návrhu na nařízení výkonu rozhodnutí,
+d) ve věci zastavení výkonu rozhodnutí,
+e) ve věci udělení příklepu ve výkonu rozhodnutí,
+f) o rozvrhu rozdělované podstaty ve výkonu rozhodnutí,
+g) o povinnostech vydražitele uvedeného v § 336m odst. 2 (§ 336n) a v § 338za odst. 2.
+Podle ustanovení § 239 odst. 1 o.s.ř. je dovolání přípustné proti usnesení odvolacího soudu, jímž bylo
+a) rozhodnutí soudu prvního stupně zrušeno a řízení zastaveno, popřípadě věc byla postoupena orgánu, do jehož pravomoci náleží,
+b) v průběhu odvolacího řízení rozhodnuto o tom, kdo je procesním nástupcem účastníka, o zastavení řízení podle § 107 odst. 5, o vstupu do řízení na místo dosavadního účastníka (§ 107a), o přistoupení dalšího účastníka (§ 92 odst. 1) a o záměně účastníka (§ 92 odst. 2).
+Podle ustanovení § 239 odst. 2 o.s.ř. je dovolání rovněž přípustné proti usnesení odvolacího soudu, kterým bylo
+a) potvrzeno usnesení soudu prvního stupně o zastavení řízení podle § 104 odst. 1,
+b) potvrzeno nebo změněno usnesení soudu prvního stupně, jímž bylo rozhodnuto o tom, kdo je procesním nástupcem účastníka, o zastavení řízení podle § 107 odst. 5, o vstupu do řízení na místo dosavadního účastníka (§ 107a), o přistoupení dalšího účastníka (§ 92 odst. 1) a o záměně účastníka (§ 92 odst. 2).
+Podle ustanovení § 239 odst. 3 o.s.ř. je dovolání též přípustné proti usnesení odvolacího soudu, kterým bylo potvrzeno usnesení soudu prvního stupně o odmítnutí návrhu (žaloby); to neplatí, jestliže byl odmítnut návrh na předběžné opatření (§ 75a).
+V posuzovaném případě žalobce dovoláním napadá usnesení odvolacího soudu, kterým bylo potvrzeno usnesení soudu prvního stupně, jímž bylo zastaveno řízení pro nezaplacení soudního poplatku podle § 9 odst. 1 a 2 zákona č. 549/1991 Sb., o soudních poplatcích. Přípustnost dovolání podle ustanovení § 237 o.s.ř. není dána z toho důvodu, že odvolací soud nerozhodoval ve věci samé. Pojem „věc sama“ je právní teorií i soudní praxí vykládán jednotně jako věc, která je tím předmětem, pro nějž se řízení vede. V řízení, v němž má být rozhodnut spor o právo mezi účastníky, kteří stojí proti sobě v postavení žalobce a žalovaného, je tedy za věc samu (v teorii se uvádí také věc hlavní) pokládán nárok uplatněný žalobou (§ 79 odst. 1 o.s.ř.), o němž má být v příslušném řízení věcně rozhodnuto (srov. usnesení Nejvyššího soudu ČR ze dne 2. 12. 1997, sp. zn. 2 Cdon 774/97, publikované pod č. 61 ve Sbírce soudních rozhodnutí a stanovisek, ročník 1998). Potvrdil-li odvolací soud usnesení soudu prvního stupně o zastavení řízení pro nezaplacení soudního poplatku, šlo o rozhodnutí pouze procesního charakteru (týkajícím se pouze průběhu řízení) a soudy tak nerozhodovaly o právech a povinnostech účastníků řízení jako o předmětu řízení, tedy ve věci samé (srov. usnesení Nejvyššího soudu ČR ze dne 30. 10. 2002, sp. zn. 25 Cdo 1897/2002, publikované v Souboru rozhodnutí NS, sv. 21, pod C 1520).
+Dovolání není přípustné ani podle ustanovení § 238, § 238a a § 239 o.s.ř., protože napadeným usnesením nebylo rozhodnuto ve věcech, které jsou taxativně vyjmenovány v ustanoveních § 238 a § 238a o.s.ř., a nejde rovněž o žádný z případů procesních rozhodnutí uvedených v ustanovení § 239 o.s.ř.
+Z uvedeného vyplývá, že dovolání žalobce směřuje proti rozhodnutí odvolacího soudu, proti němuž není tento mimořádný opravný prostředek přípustný. Nejvyšší soud ČR je proto podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o.s.ř. odmítl, aniž se mohl zabývat věcí z hlediska námitek uplatněných v dovolání.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 o.s.ř. a § 146 odst. 3 o.s.ř., neboť dovolatel nemá s ohledem na výsledek dovolacího řízení na náhradu nákladů právo a žalovaným v dovolacím řízení náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 21. února 2006
+JUDr. Petr Vojtek, v.r.
+předseda senátu
