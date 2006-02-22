@@ -1,0 +1,17 @@
+33 Odo 92/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy Víta Jakšiče a soudců JUDr. Ivany Zlatohlávkové a JUDr. Václava Dudy ve věci žalobce Pharm. Dr. V. S., proti žalované Nemocnici P. k., příspěvkové organizaci, o zaplacení částky 4,844.301,50 Kč, vedené u Okresního soudu v Klatovech pod sp. zn. 9 C 19/2005, o dovolání žalobce proti usnesení Krajského soudu v Plzni ze dne 10. října 2005, č. j. 15 Co 480/2005-138, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Klatovech (dále jen „soud prvního stupně“) usnesením ze dne 29. června 2005, č. j. 9 C 19/2005-120, zastavil řízení, v němž se žalobce domáhal po žalované zaplacení částky 4,844.301,50 Kč (výrok I.), rozhodl o vrácení soudního poplatku (výrok II.) a uložil žalobci povinnost nahradit žalované náklady řízení v částce 62.160,- Kč na účet advokáta JUDr. P. R. do tří dnů od právní moci usnesení (výrok III.).
+K odvolání žalobce, které směřovalo výlučně proti výroku o nákladech řízení, Krajský soud v Plzni jako soud odvolací usnesením ze dne 10. října 2005, č. j. 15 Co 480/2005-138, usnesení soudu prvního stupně v napadeném výroku potvrdil a rozhodl o nákladech odvolacího řízení.
+Proti tomuto usnesení podal žalobce dovolání a navrhl, aby bylo zrušeno a aby věc byla vrácena odvolacímu soudu k dalšímu řízení. Přípustnost dovolání dovozoval z přesvědčení, že napadené usnesení má po právní stránce zásadní význam [§ 237 odst. 1 písm. c) občanského soudního řádu – dále jen „OSŘ“].
+Podle § 236 odst. 1 OSŘ lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Proto se Nejvyšší soud ČR jako soud dovolací (§ 10a OSŘ) po zjištění, že dovolání bylo podáno včas k tomu oprávněnou osobou, zabýval nejprve tím, zda jde o dovolání přípustné.
+Dovolatel svým dovoláním napadá usnesení odvolacího soudu, kterým byl potvrzen výrok usnesení soudu prvního stupně o nákladech řízení. Je tedy třeba zvažovat přípustnost tohoto opravného prostředku z hlediska úpravy přípustnosti dovolání proti usnesení. Ta je obsažena v ustanoveních § 237 až § 239 OSŘ. Přípustnost podle § 237 OSŘ dána být nemůže, neboť usnesení o nákladech řízení není rozhodnutím ve věci samé (srovnej usnesení Nejvyššího soudu ČR ze dne 31. ledna 2002, sp. zn. 29 Odo 874/2001, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod č. R 4/2003). Proto by ani v případě, že by v napadeném usnesení byla řešena otázka, která může založit ve smyslu § 237 odst. 3 OSŘ zásadní právní význam rozhodnutí odvolacího soudu, nemohlo být dovolání žalobce podle tohoto ustanovení přípustné. Přípustnost dovolání proti nákladovému výroku pak není založena ani ustanoveními § 238, § 238a a § 239 OSŘ, jelikož tento výrok nelze podřadit žádnému z tam taxativně vyjmenovaných případů.
+Dovolacímu soudu tedy nezbylo, než podle § 243b odst. 5 věty prvé a § 218 písm. c) OSŘ dovolání žalobce odmítnout, neboť směřuje proti rozhodnutí, proti němuž zákon tento mimořádný opravný prostředek nepřipouští.
+O nákladech dovolacího řízení bylo rozhodnuto s přihlédnutím k tomu, že žalované, která by podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 OSŘ měla právo na jejich náhradu, v tomto řízení žádné náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 22. února 2006
+Vít Jakšič, v.r.
+předseda senátu
