@@ -1,0 +1,17 @@
+33 Odo 306/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Blanky Moudré a soudců JUDr. Ivany Zlatohlávkové a Víta Jakšiče ve věci žalobkyně L. J., proti žalovanému Ing. K. L., o zaplacení částky 170.000,- Kč s příslušenstvím, vedené u Okresního soudu v Jeseníku pod sp. zn. 5 C 123/2002, o dovolání žalovaného proti usnesení Krajského soudu v Ostravě - pobočky v Olomouci ze dne 28. prosince 2005, č. j. Nc 126/2005-118, takto:
+Řízení o dovolání se zastavuje.
+O d ů v o d n ě n í :
+Krajský soud v Ostravě - pobočka v Olomouci (dále též „Krajský soud“) usnesením ze dne 28. prosince 2005, č. j. Nc 126/2005-118, rozhodl, že soudce Okresního soudu v Jeseníku Mgr. Petr Juračka není vyloučen z projednávání a rozhodování věci vedené u tohoto soudu pod sp. zn. 5 C 123/2002. Vznesenou námitku podjatosti neshledal důvodnou, neboť žalovaný ji odůvodnil pouze postupem uvedeného soudce v řízení o projednávané věci (§ 14 odst. 4 o. s. ř.).
+Usnesení Krajského soudu napadl žalovaný dovoláním, jehož přípustnost dovozuje z § 237 odst. 1 písm. c/ zákona č. 99/196 Sb., občanského soudního řádu, v platném znění (dále opět jen „o. s. ř.“), s tím, že soud rozhodl v rozporu s hmotným právem. Jeho poučení o nepřípustnosti dovolání proti napadenému usnesení považuje za nezákonné. Srozuměn není ani s posouzením námitky podjatosti. Napadené usnesení proto navrhl zrušit a věc vrátit Krajskému soudu k dalšímu řízení.
+Nejvyšší soud České republiky (dále též „dovolací soud“) se - z hlediska zkoumání podmínek dovolacího řízení - nejprve zaměřil na posouzení otázky, zda je dána funkční příslušnost dovolacího soudu pro projednání dovolání.
+Podle § 16 odst. 1 věta první o. s. ř. o tom, zda je soudce nebo přísedící vyloučen, rozhodne nadřízený soud v senátě.
+Podle § 236 odst. 1 o. s. ř. dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Dovolací soud již ve svém usnesení ze dne 31. července 1997, sp. zn. 2 Cdon 30/97, uveřejněném v časopise Soudní judikatura, číslo sešitu 14/97, pod označením SJ 112/97, vyslovil závěr, že rozhoduje-li krajský soud o vyloučení soudců okresního soudu ve smyslu ustanovení § 16 odst. 1 ve spojení s § 14 odst. 1 o. s. ř., není toto jeho rozhodnutí rozhodnutím odvolacím (tj. rozhodnutím, které bylo vydáno v řízení o odvolání proti rozhodnutí soudu prvního stupně), které jedině může být způsobilým předmětem dovolání (§ 236 odst. 1 o. s. ř.). Skutečnost, že nadřízený soud je shodou okolností (jako v tomto případě) současně i odvolacím soudem vůči soudu, o jehož soudci rozhoduje, na tyto závěry nemá žádný vliv.
+Funkční příslušnost k projednání dovolání proti rozhodnutí o vyloučení soudců okresního soudu proto občanský soudní řád ani neupravuje. Nedostatek funkční příslušnosti je takovým nedostatkem podmínky řízení, který nelze odstranit. Nejvyšší soud proto řízení, které trpí touto vadou, zastavil (§ 104 odst. 1 věta první o. s. ř. ve spojení s § 243c odst. 1 o. s. ř.).
+O náhradě nákladů dovolacího řízení nebylo rozhodováno, neboť rozhodnutím dovolacího soudu se řízení ve věci nekončí; proto bude o nákladech dovolacího řízení rozhodnuto až v rozhodnutí, kterým bude nalézací řízení skončeno (§ 243b odst. 5 věta první, § 224 odst. 1 a § 151 odst. 1 o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 14. března 2006
+JUDr. Blanka Moudrá, v.r.
+předsedkyně senátu
