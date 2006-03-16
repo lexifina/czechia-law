@@ -1,0 +1,17 @@
+33 Odo 249/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy Víta Jakšiče a soudců JUDr. Blanky Moudré a JUDr. Ivany Zlatohlávkové ve věci žalobkyně S. v. a k., a. s., proti žalované A. H., o zaplacení částky 23.112,80 Kč s příslušenstvím, vedené u Okresního soudu v Jičíně pod sp. zn. 3 C 140/2002, o dovolání žalované proti usnesení Krajského soudu v Hradci Králové ze dne 1. září 2005, č. j. 25 Co 370/2005-124, takto :
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Jičíně (dále jen „soud prvního stupně“) rozsudkem ze dne 9. května 2005, č. j. 3 C 140/2002-114, uložil žalované povinnost zaplatit žalobkyni částku 23.112,80 Kč s úrokem ve výši 0,05% denně od 30. 8. 2002 do zaplacení, vše do tří dnů od právní moci rozsudku, a rozhodl o nákladech řízení.
+Odvolání žalované proti tomuto rozsudku Krajský soud v Hradci Králové jako soud odvolací usnesením ze dne 1. září 2005, č. j. 25 Co 370/2005-124, podle § 43 odst. 2 a § 211 občanského soudního řádu (dále jen „OSŘ“) pro vady odmítl a rozhodl o nákladech odvolacího řízení.
+Na doručení usnesení odvolacího soudu reagovala žalovaná podáním, ze kterého je zřejmé, že je jím mimo jiné míněno dovolání proti tomuto usnesení.
+Podle § 236 odst. 1 OSŘ lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Proto se Nejvyšší soud ČR jako soud dovolací (§ 10a OSŘ) po zjištění, že dovolání bylo podáno včas k tomu oprávněnou osobou, zabýval nejprve tím, zda jde o dovolání přípustné.
+Přípustnost dovolání upravují ustanovení § 237 až 239 OSŘ. Napadené usnesení odvolacího soudu není rozhodnutím ve věci samé, a tak nepřipadá v úvahu přípustnost dovolání podle § 237 OSŘ. Věcí samou se totiž rozumí samotný předmět, pro nějž se řízení vede, a rozhodnutím ve věci samé pak takové rozhodnutí soudu, jímž v tzv. řízení sporném na základě žaloby stanoví konkrétní práva a povinnosti účastníků vyplývající z právního vztahu pro žalobou uplatněný nárok (srov. usnesení dovolacího soudu ze dne 22. února 2001, sp. zn. 25 Cdo 3065/2000, uveřejněné v Souboru rozhodnutí Nejvyššího soudu, vydávaném nakladatelstvím C. H. Beck (dále jen „Soubor“), svazku 3, pod č. C 264). Dovolání pak nemůže být přípustné ani podle § 238, § 238a a § 239 OSŘ, jelikož z taxativního výčtu obsaženého v těchto ustanoveních nevyplývá přípustnost dovolání proti usnesení, jímž odvolací soud odmítl odvolání účastníka řízení podle § 43 odst. 2 OSŘ. Lze tedy uzavřít, že dovolání žalované v této věci není přípustné (srov. shodně např. usnesení Nejvyššího soudu ČR ze dne 27. května 2003, sp. zn. 25 Cdo 915/2003, uveřejněné v Souboru, svazku 25, pod č. C 1939). Za této situace dovolacímu soudu nezbylo, než je podle § 243b odst. 5 věty prvé a § 218 písm. c) OSŘ odmítnout.
+Zbývá poznamenat, že žalovaná sice v projednávané věci není zastoupena advokátem ani netvrdí, že by měla právnické vzdělání, avšak vzhledem k tomu, že dovolání není přípustné, není nedostatek podmínky povinného zastoupení důvodem pro zastavení dovolacího řízení (§ 241b odst. 2 část věty za středníkem OSŘ).
+O nákladech dovolacího řízení bylo rozhodnuto za situace, kdy žalobkyni, která by podle § 243b odst. 5 věty prvé, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 OSŘ měla právo na jejich náhradu, v tomto řízení žádné náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 16. března 2006
+Vít Jakšič, v.r.
+předseda senátu
