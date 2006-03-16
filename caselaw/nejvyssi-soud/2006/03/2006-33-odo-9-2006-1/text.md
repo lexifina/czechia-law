@@ -1,0 +1,19 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+33 Odo 9/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy Víta Jakšiče a soudců JUDr. Blanky Moudré a JUDr. Václava Dudy ve věci žalobce Mgr. D. P., proti žalovanému J. K., o zaplacení částky 9.760,- Kč s příslušenstvím, vedené u Okresního soudu Teplicích pod sp. zn. 18 C 143/2005, o dovolání žalovaného proti usnesení Krajského soudu v Ústí nad Labem ze dne 25. listopadu 2005, č. j. 9 Co 925/2005-70, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Okresní soud v Teplicích (dále jen „soud prvního stupně“) usnesením ze dne 24. října 2005, č. j. 18 C 143/2005-63, nepřiznal žalovanému osvobození od soudních poplatků.
+K odvolání žalovaného Krajský soud v Ústí nad Labem jako soud odvolací usnesením ze dne 25. listopadu 2005 č. j. 9 Co 925/2005-70, usnesení soudu prvního stupně potvrdil s tím, že v posuzovaném případě nejsou důvody stanovené § 138 odst. 1 o. s. ř. k přiznání osvobození od soudních poplatků.
+Proti usnesení odvolacího soudu podal žalovaný dovolání, v němž požadoval zrušit rozhodnutí obou soudů. Namítl, že napadené rozhodnutí spočívá na nesprávném právním posouzení.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) po zjištění, že dovolání proti pravomocnému usnesení odvolacího soudu bylo podáno ve lhůtě uvedené v § 240 odst. 1 o. s. ř. a k tomu oprávněným subjektem (žalovaným), dospěl k závěru, že dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+V posuzovaném případě žalovaný dovoláním napadá usnesení odvolacího soudu, kterým bylo potvrzeno usnesení soudu prvního stupně, jímž nebylo žalovanému přiznáno osvobození od placení soudních poplatků. Přípustnost dovolání podle ustanovení § 237 o. s. ř. není dána, a to již z toho důvodu, že usnesením odvolacího soudu bylo potvrzeno usnesení soudu prvního stupně, kterým nebylo rozhodnuto ve věci samé. Pojem „věc sama“ je totiž právní teorií i soudní praxí vykládán jednotně jako věc, která je tím předmětem, o který se řízení vede. V řízení, v němž má být rozhodnut spor o právo mezi účastníky, kteří stojí proti sobě v postavení žalobce a žalovaného, je za věc samu (v teorii se uvádí také věc hlavní) pokládán nárok uplatněný žalobou, o němž má být v příslušném řízení věcně rozhodnuto - § 79 odst. 1 o. s. ř. (srov. usnesení Nejvyššího soudu ze dne 2. 12. 1997, sp. zn. 2 Cdon 774/97, publikované pod č. 61 Sbírky soudních rozhodnutí a stanovisek, ročník 1998). Rozhodnutí o žádosti o osvobození od soudních poplatků (stejně jako potvrzující usnesení odvolacího soudu), které se opírá o závěr, že účastník nesplňuje zákonné podmínky uvedené v ustanovení § 138 odst. 1 o. s. ř., je proto rozhodnutím týkajícím se pouze průběhu řízení (je rozhodnutím procesního charakteru), které věcně neřeší práva a povinnosti účastníků uplatněná žalobou a není tedy rozhodnutím o věci samé.
+Dovolání není přípustné ani podle ustanovení § 238, § 238a a § 239 o. s. ř., protože napadeným usnesením nebylo rozhodnuto ve věcech, které jsou taxativně vyjmenovány v ustanoveních § 238 a § 238a o. s. ř., a nejde rovněž o žádný z případů procesních rozhodnutí uvedených v ustanovení § 239 o. s. ř.
+Z uvedeného vyplývá, že dovolání žalovaného směřuje proti rozhodnutí odvolacího soudu, proti němuž není tento mimořádný opravný prostředek přípustný (srov. též usnesení dovolacího soudu ze dne 28. března 2002, sp. zn. 29 Odo 170/2002, publikované v časopisu Soudní judikatura pod č. 152/2002). Nejvyšší soud ČR proto jeho dovolání podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl, aniž se mohl zabývat věcí z hlediska námitek uplatněných v dovolání.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 16. března 2006
+Vít Jakšič, v.r.
+předseda senátu
