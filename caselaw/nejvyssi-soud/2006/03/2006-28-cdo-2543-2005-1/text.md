@@ -1,0 +1,19 @@
+28 Cdo 2543/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Ludvíka Davida, CSc. a soudců JUDr. Oldřicha Jehličky, CSc. a JUDr. Josefa Rakovského v právní věci žalobce N., s.r.o., zastoupeného advokátem, proti žalované O. V., zastoupené advokátkou, o zaplacení částky 74.467,90 Kč s přísl., vedené u Okresního soudu v Ostravě pod sp.zn. 39 C 15/2003, o dovolání žalované proti rozsudku Krajského soudu v Ostravě ze dne 6.6.2005, č.j. 15 Co 1055/2004-89, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Rozsudkem Krajského soudu v Ostravě výše označeným byl potvrzen rozsudek Okresního soudu v Ostravě ze dne 20.7.2004, č.j. 39 C 15/2003-54, kterým bylo žalované uloženo zaplatit žalobci částku 74.467,90 Kč spolu s příslušenství (úroky z prodlení), vyčísleným podrobně ve výroku I. rozsudku soudu prvního stupně; to vše do tří dnů od právní moci rozsudku. Žalovaná byla zavázána zaplatit žalobci též náklady odvolacího řízení.
+Proti tomuto rozsudku podala žalovaná dovolání. Považovala smlouvu o nájmu ze dne 1.5.2001 za neplatnou, neobsahující podstatné náležitosti smlouvy, nesrozumitelnou a nekonkrétní; ačkoli jde o objekt bydlení podle výpisu z katastru, nájem byl sjednán za účelem provozování hostinské činnosti. Žalovanou jako nájemce stíhaly též nápadně nevýhodné podmínky; nebyl sjednán způsob úhrady nájemného ani podrobnosti užívání jednotlivých apartmánů. Dovolatelka posléze brojila i proti nákladovému výroku odvolacího soudu a navrhovala, aby byl jeho rozsudek zrušen a věc vrácena odvolacímu soudu k dalšímu řízení.
+Žalobce se k dovolání nevyjádřil.
+Dovolání bylo sice podáno včas a prostřednictvím advokátky, při shodě rozsudků obou nižších instancí však přicházela v úvahu jeho přípustnost jen podle § 237 odst. 1 písm. c/, odst. 3 o.s.ř., tedy pro případný zásadní právní význam napadeného meritorního rozhodnutí.
+Dovolací soud dospěl k závěru, že tato alternativa přípustnosti dovolání není v posuzované věci naplněna.
+Dovolací soud považuje za správné hmotněprávní závěry odvolacího soudu, jenž posoudil smlouvu o nájmu mezi účastníky ze dne 1.5.2001 jako platnou smlouvu o nájmu nemovitosti a movitých věcí podle § 663 a násl. občanského zákoníku. Z tohoto aplikačního pohledu ovšem rezultovalo jiné posouzení podstatných náležitostí smlouvy, než by velel zákon č. 116/1990 Sb., o nájmu a podnájmu nebytových prostor – právě jeho aplikace je jádrem argumentace dovolatelky. Jak případné vady ujednání o způsobu úhrady nájemného, tak i absence kolaudačního rozhodnutí, neuvedení konkrétní sazby DPH v rámci nájemného, či jiné dovolatelkou tvrzené vady smlouvy se tu však oprávněně nestaly důvodem pro závěr o neplatnosti smlouvy. Byly totiž, vzhledem k obecné kvalifikaci nájemní smlouvy odvolacím soudem, překlenuty výkladem, založeným především na fakticitě užívání a na dosavadním průběhu nájemního vztahu. Za této situace zůstal rozhodným dluh žalované vůči žalobkyni resp. jeho výše, a po příslušném vyčíslení byla věc odvolacím soudem správně rozhodnuta.
+Ve smyslu § 237 odst. 1 písm. c/, odst. 3 o.s.ř. nevykazuje posuzovaná věc judikatorní přesah či novost; jejím skutkovým základem byly zcela konkrétní okolnosti, jimž odpovídala standardní aplikace zákona. Poněvadž – viz výše – obstálo i hmotněprávní posouzení věci odvolacím soudem, nebylo možné dovodit naplnění žádného z kritérií zásadního právního významu podle citovaného procesního ustanovení.
+Dovolací soud proto dovolání žalované podle § 243b odst. 5 věty první a § 218 písm. c/ o.s.ř. odmítl.
+Žalobci nevznikly v dovolacím řízení žádné náklady.
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 16. března 2006
+JUDr. Ludvík David, CSc., v. r.
+předseda senátu
