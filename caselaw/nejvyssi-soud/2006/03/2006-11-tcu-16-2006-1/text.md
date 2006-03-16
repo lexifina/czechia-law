@@ -1,0 +1,18 @@
+11 Tcu 16/2006
+U S N E S E N Í
+Nejvyšší soud České republiky projednal dne 16. března 2006 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na zápis odsouzení cizozemským soudem do evidence Rejstříku trestů a rozhodl t a k t o :
+Podle § 4 odst. 2 zák. č. 269/1994 Sb. se do evidence Rejstříku trestů zaznamenají údaje o odsouzení občanky České republiky I. K., rozsudkem Zemského soudu Korneuburg, Rakouská republika, ze dne 29. 6. 2005, sp. zn. 513 Hv 91/05v, a to pro trestný čin převaděčství podle § 104 odst. 1, odst. 3, odst. 4 případ první cizineckého zákona Rakouské republiky, k trestu odnětí svobody v délce trvání jednoho roku.
+O d ů v o d n ě n í :
+Shora uvedeným rozsudkem Zemského soudu Korneuburg, Rakouská republika, který nabyl právní moci dne 5. 7. 2005, byla I. K. uznána vinnou trestným činem převaděčství podle shora uvedených ustanovení právních předpisů Rakouské republiky
+a odsouzena k trestu odnětí svobody v délce trvání jednoho roku.
+Uvedené trestné činnosti se dopustila odsouzená podle zjištění soudu tím, že za účelem výdělku 1000 Kč napomáhala dne 25. 5. 2005 v B. jako členka zločinného spolčení protiprávně při vstupu cizinců do země, konkrétně pak indického státního příslušníka jménem J. S. a pákistánského státního příslušníka jménem A. A., a to s úmyslem, že se tak stane s nikoliv malým finančním prospěchem pro ni nebo jinou osobu tím, že uvedené cizince přepravovala v sešroubované vaně o rozměrech 95 x 130 x 33 cm, umístěné v kufru osobního vozu zn. F. E. C., který řídila, čímž vystavila cizince během přepravy na delší dobu utrpení.
+Ministerstvo spravedlnosti České republiky podalo dne 8. 2. 2006, pod sp. zn. 2880/2005–MO–M/5, podle § 4 odst. 2 zák. č. 269/1994 Sb., o Rejstříku trestů (dále jen „zákon“), Nejvyššímu soudu České republiky návrh na zapsání výše uvedeného odsouzení rakouským soudem do evidence Rejstříku trestů České republiky. Tento návrh byl doručen Nejvyššímu soudu České republiky dne 13. 2. 2006.
+Nejvyšší soud České republiky věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro zápis odsouzení cizozemským soudem do evidence Rejstříku trestů.
+Podle § 4 odst. 2 zákona může Nejvyšší soud České republiky na návrh Ministerstva spravedlnosti České republiky rozhodnout, že se do evidence Rejstříku trestů zaznamenají údaje o odsouzení občana České republiky cizozemským soudem, jestliže se týká činu, který je trestným i podle právního řádu České republiky, a zápis do evidence je odůvodněn závažností činu a druhem trestu, který za něj byl uložen.
+Z podaného návrhu a z obsahu připojeného spisového materiálu vyplývá, že odsouzená je státní občankou České republiky, která byla odsouzena cizozemským soudem, přičemž odsouzení se týká skutku, který vykazuje znaky trestného činu i podle právních předpisů České republiky, účinných v době spáchání skutku (trestný čin nedovoleného překročení státní hranice podle § 171a tr. zák.) Tím jsou splněny formální podmínky ustanovení § 4 odst. 2 zákona.
+V posuzované věci jsou dány i podmínky materiální povahy. Odsouzená I. K. se dopustila závažné úmyslné trestné činnosti proti pořádku ve věcech veřejných, přičemž závažnost jejího činu je zvyšována okolnostmi případu, spočívajícími ve skutečnosti, že se odsouzená uvedené trestné činnosti dopustila za použití předem připravené vany a vystavila tak převážené cizince na delší dobu utrpení. Lze tedy dovodit, že podmínky ustanovení § 4 odst. 2 zákona týkající se závažnosti činu a druhu uloženého trestu jsou splněny.
+Z uvedených důvodů proto Nejvyšší soud České republiky návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 16. března 2006
+Předseda senátu:
+JUDr. Karel Hasch
