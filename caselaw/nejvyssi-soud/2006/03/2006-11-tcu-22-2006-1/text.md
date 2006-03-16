@@ -1,0 +1,22 @@
+11 Tcu 22/2006
+U S N E S E N Í
+Nejvyšší soud České republiky projednal dne 16. března 2006 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na zápis odsouzení cizozemským soudem do evidence Rejstříku trestů a rozhodl t a k t o :
+Podle § 4 odst. 2 zák. č. 269/1994 Sb. se do evidence Rejstříku trestů zaznamenají údaje o odsouzení občana České republiky M. R., rozsudkem Zemského soudu St. Pölten, Rakouská republika, ze dne 20. 4. 2005, sp. zn. 13 Hv 26/05v, a to pro trestný čin částečně dokonaný, částečně ve stadiu pokusu, výdělečné krádeže podle § 127, § 130 případ první a § 15 trestního zákoníku Rakouské republiky, částečně spáchaným ve spolupachatelství podle § 12 trestního zákoníku Rakouské republiky, k trestu odnětí svobody v délce trvání osmnácti měsíců.
+O d ů v o d n ě n í :
+Výše uvedeným rozsudkem Zemského soudu St. Pölten, Rakouská republika, jenž nabyl právní moci dne 20. 4. 2005, byl M. R. uznán vinným trestným činem částečně dokonaným, částečně ve stadiu pokusu, výdělečné krádeže, částečně spáchaným ve spolupachatelství, podle shora uvedených ustanovení právních předpisů Rakouské republiky a odsouzen k trestu odnětí svobody v délce trvání osmnácti měsíců.
+Shora uvedené trestné činnosti se odsouzený M. R. dopustil podle zjištění soudu tím, že v součinnosti s H. R., P. B. a zvlášť stíhaným D. H. :
+1. odcizil s úmyslem, aby se přivlastněním protiprávně obohatil, dne 10. 6. 2005 ve W.:
+1.1. osobám oprávněným jednat za firmu N. Y. H. & K. KG celkem šest kusů džín zn. F. v celkové hodnotě 279, 40 EUR,
+1.2. osobám oprávněným jednat za firmu I. E. dvě trička zn. A. a dvě bundy do deště zn. A. v celkové hodnotě 169,96 EUR,
+1.3. osobám oprávněným jednat za firmu M. L. čtyři sady ložního prádla v celkové hodnotě 539,60 EUR,
+2. odcizil s úmyslem, aby se přivlastněním protiprávně obohatil, dne 10. 6. 2005 v nezjištěných místech poškozeným osobám, které nelze zjistit, sportovní bundu zn. L. v hodnotě 149 EUR, bundu do deště zn. A. v hodnotě 60 EUR a další zboží v hodnotě 123,47 EUR,
+3. se pokusil odcizit dne 17. 6. 2004 v St. P. osobě oprávněné jednat za firmu D. G. koženou bundu v hodnotě 449 EUR.
+Ministerstvo spravedlnosti České republiky podalo dne 9. 2. 2006, pod sp. zn. 2873/2005–MO–M/5, podle § 4 odst. 2 zák. č. 269/1994 Sb., o Rejstříku trestů (dále jen „zákon“), Nejvyššímu soudu České republiky návrh na zapsání výše uvedeného odsouzení rakouským soudem do evidence Rejstříku trestů České republiky. Tento návrh byl doručen Nejvyššímu soudu České republiky dne 13. 2. 2006.
+Nejvyšší soud České republiky věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro zápis odsouzení cizozemským soudem do evidence Rejstříku trestů.
+Především je třeba uvést, že podle § 4 odst. 2 zákona může Nejvyšší soud České republiky na návrh Ministerstva spravedlnosti České republiky rozhodnout, že se do evidence Rejstříku trestů zaznamenají též údaje o odsouzení občana České republiky cizozemským soudem, jestliže se týká činu, který je trestným i podle právního řádu České republiky a zápis do evidence je odůvodněn závažností činu a druhem trestu, který za něj byl uložen. Dále je nutno připomenout, že pokud Nejvyšší soud rozhodne o zaznamenání údajů o odsouzení do evidence Rejstříku trestů, hledí se na takové odsouzení cizozemským soudem jako na odsouzení soudem České republiky (§ 4 odst. 3 zákona).
+Z podaného návrhu a z obsahu připojeného spisového materiálu vyplývá, že odsouzený je občanem České republiky, který byl odsouzen cizozemským soudem, přičemž odsouzení se týká skutku, který vykazuje znaky trestného činu i podle příslušných právních předpisů České republiky, účinných v době spáchání činu (trestný čin krádeže podle § 247 tr. zák.). Tím jsou splněny formální podmínky ustanovení § 4 odst. 2 zákona.
+V posuzované věci jsou dány i podmínky materiální povahy. Odsouzený M. R. se dopustil úmyslné majetkové trestné činnosti, spáchané vícero útoky v krátkém časovém rozmezí, přičemž způsobil větší škodu. Pokud jde o druh trestu, byl mu uložen již poměrně citelný trest odnětí svobody. Lze tedy dovodit, že podmínky ustanovení § 4 odst. 2 zákona týkající se závažnosti činu a druhu uloženého trestu jsou splněny.
+Z uvedených důvodů proto Nejvyšší soud České republiky návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 16. března 2006
+Předseda senátu: JUDr. Karel Hasch
