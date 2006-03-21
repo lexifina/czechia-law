@@ -1,0 +1,23 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+32 Odo 46/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Kateřiny Hornochové a soudců JUDr. Zdeňka Dese a JUDr. Dagmar Novotné v právní věci žalobkyně F., a. s., proti žalovanému 1. H., s. r. o., 2. J. H., a 3. F. S., o zaplacení 195.328,69,- Kč s příslušenstvím, vedené u Krajského soudu v Praze pod sp. zn. 49 Cm 76/2003, o dovolání žalobkyně proti usnesení Vrchního soudu v Praze ze dne 16. června 2005, č.j. 8 Cmo 361/2004-44, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Praze rozsudkem ze dne 24. června 2004, č.j. 49 Cm 76/2003-33, zastavil řízení ohledně nároku 195.328,69,- Kč (výrok I.), vrátil žalobkyni alikvotní část zaplaceného soudního poplatku ve výši 3.920,- Kč (výrok II.), uložil žalovanému č. 1 povinnost zaplatit žalobkyni částku 97.402,- Kč (výrok III.), uložil žalovanému č. 1 povinnost zaplatit žalobkyni náhradu nákladů řízení ve výši 38.400,- Kč (výrok IV.) a uložil žalobkyni zaplatit žalovaným 2 a 3 náhradu nákladů právního zastoupení ve výši 23.120, Kč (VI.)
+Vrchní soud v Praze usnesením ze dne 16. června 2005, č.j. 8 Cmo 361/2004-44 a/ změnil ve výroku II. rozsudek soudu prvého stupně tak, že žalobkyni nevrací část soudního poplatku ve výši 3.900,- Kč b/, ve výrocích V. a VI. rozsudek soudu prvního stupně zrušil a ve vztahu k žalovaným 2 a 3 řízení ohledně jejich povinnosti zaplatit žalobkyni 97.402,- Kč zastavil (výrok I.). Uložil žalobkyni povinnost zaplatit žalovaným 2 a 3 na náhradě nákladů řízení před soudem prvého stupně 42.256,- Kč (výrok II.) a rozhodl, že žalovaní 2 a 3 nemají právo na náhradu nákladů odvolacího řízení (výrok III.).
+Usnesení odvolacího soudu v rozsahu výroků I.a/ a II. napadla žalobkyně dovoláním. Namítá, že řízení soudu prvého i druhého stupně je postiženo vadou, která mohla mít za následek nesprávné rozhodnutí ve věci, neboť soudy vycházejí ze skutkového zjištění, které nemá podle obsahu spisu v podstatné části oporu v provedeném dokazování, resp. není vůbec zřejmé z jakých skutkových zjištění rozhodnutí ve svých závěrech vychází. Věc má v rozsahu rozhodnutí odvolacího soudu o nevrácení soudního poplatku po právní stránce zásadní význam, neboť je v ní řešena právní otázka, která je soudy rozhodována rozdílně.
+Dovolatelka navrhuje, aby dovolací soud změnil usnesení odvolacího soudu v dovoláním napadeném výroku I. a) tak, že žalobkyni se po právní moci tohoto rozhodnutí vrací soudní poplatek 7.820,- Kč na její účet č. 1766892/0800 a výrok II. tak, že žádný z účastníků nemá právo na náhradu nákladů řízení před soudem prvního stupně. Rovněž požaduje úhradu nákladů dovolacího řízení.
+Dovolání v této věci není přípustné.
+Podle § 236 odst. 1 o. s. ř., dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Přípustnost dovolání proti usnesení odvolacího soudu upravují ustanovení § 237 až § 239 o. s. ř.
+Usnesení odvolacího soudu, jímž byl změněn výrok rozhodnutí soudu prvého stupně tak, že se žalobkyni nevrací část soudního poplatku ve výši 3.900,- Kč a že žalobkyně je povinna zaplatit žalovaným 2 a 3 náklady řízení před soudem prvého stupně, nelze podřadit žádnému z usnesení, proti nimž zákon připouští dovolání v ustanovení § 238, § 238a a § 239 o. s. ř.
+Dovolání není přípustné ani podle ustanovení § 237 o. s. ř., upravujícího přípustnost dovolání rovněž proti usnesení odvolacího soudu, ovšem pouze za podmínky, že jde o usnesení ve věci samé. Protože usnesení odvolacího soudu, kterým bylo změněno rozhodnutí soudu prvého stupně tak, že se žalobkyni nevrací část soudního poplatku ve výši 3.900,- Kč, a že žalobkyně je povinna zaplatit žalovaným 2 a 3 náklady řízení před soudem prvého stupně, nemá povahu rozhodnutí ve věci samé, není dovolání přípustné ani podle § 237 o. s. ř.
+Tento závěr s sebou nese konečné posouzení podaného dovolání jako nepřípustného.
+Nejvyšší soud České republiky je proto, aniž ve věci nařizoval jednání (§ 243a odst. 1 věta první o. s. ř.), usnesením odmítl [§ 243b odst. 5 věta první, § 218 písm. c) o. s. ř.].
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 4, § 224 odst. 1 a § 146 odst. 2, věty první (per analogiam) o. s. ř., když žalobkyně, která z procesního hlediska zavinila, že dovolání bylo odmítnuto, nemá právo na náhradu těchto nákladů a žalovaným v souvislosti s dovolacím řízením žádné prokazatelné náklady nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 21 . března 2006
+JUDr. Kateřina Hornochová, v.r.
+předsedkyně senátu
