@@ -1,0 +1,21 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+32 Odo 193/2006-110
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Kateřiny Hornochové a soudců JUDr. Zdeňka Dese a JUDr. Dagmar Novotné ve věci žalobkyně Z. e., proti žalované J. B., o zaplacení částky 104.549,- Kč s příslušenstvím, vedené u Okresního soudu v Mělníku pod sp. zn. 9 C 1649/2000, o dovolání žalované proti usnesení Krajského soudu v Praze ze dne 31. října 2003, č. j. 27 Co 420/2003-57, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Mělníku usnesením ze dne 28. července 2003 č. j. 9 C 1649/2000-50 odmítl odvolání žalované, které došlo soudu dne 24. června 2003, proti rozsudku Okresního soudu v Mělníku ze dne 19. června 2002 č. j. 9 C 1649/2000-34 ve smyslu § 208 odst. 1 občanského soudního řádu (dále jen „o. s. ř.“), neboť odvolání bylo podáno opožděně.
+Krajský soud v Praze usnesením ze dne 31. října 2003 č. j. 27 Co 420/2003-57 potvrdil usnesení soudu prvého stupně podle § 219 o. s. ř. jako věcně správné.
+Usnesení odvolacího soudu napadla žalovaná dovoláním. Věc má podle názoru dovolatelky po právní stránce zásadní význam, neboť je v ní řešena nesprávně právní otázka fikce doručení zakotvená v § 46 odst. 4 o. s. ř. Žalovaná odvozuje přípustnost dovolání z ustanovení § 237 odst. 1 písm. c) o. s. ř. a dále z ustanovení § 239 odst. 3 o. s. ř. Dovolatelka poukazuje rovněž na další otázku zásadního právního významu, a to zda může poučení soudu o přípustnosti dovolání založit přípustnost dovolání i v případech, kdy je podle zákona nepřípustné. Dále dovolatelka namítá, že řízení je postiženo vadou, která měla za následek nesprávné posouzení věci, neboť soudy nezjišťovaly, zda se žalovaná zdržovala v místě doručení. Nesprávnost rozhodnutí rovněž spatřuje v tom, že postupem soudu, který neodpovídá procesním předpisům, jí byla odepřena účast při ústním jednání ve věci samé. Dovolatelka navrhla, aby dovolací soud zrušil usnesení odvolacího soudu i usnesení soudu prvého stupně a věc vrátil k řízení soudu prvního stupně.
+Dovolání v této věci není přípustné.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští, nesprávné právní poučení odvolacího soudu o přípustnosti dovolání přípustnost dovolání nezakládá (srov. usnesení Nejvyššího soudu zveřejněné pod číslem 51/2003 Sbírky soudních rozhodnutí a stanovisek).
+Přípustnost dovolání proti usnesení odvolacího soudu upravují ustanovení § 237 až § 239 o. s. ř.
+Proti usnesení odvolacího soudu je dovolání přípustné za podmínek stanovených v § 237 o. s. ř., pokud bylo odvolacím soudem rozhodováno ve věci samé. Pojem „věc sama“ je právní teorií i soudní praxí vykládán jednotně tak, že jde o předmět, ohledně jehož se řízení vede, tedy žalobou uplatněný nárok, o němž má být v řízení věcně rozhodnuto. V posuzovaném případě je věcí samou nárok na zaplacení částky 104.549,- Kč s příslušenstvím. Usnesení, kterým bylo potvrzeno usnesení soudu prvého stupně o odmítnutí odvolání, je sice usnesením, jímž se řízení končí, usnesením „ve věci samé“ však není (shodně srov. např. důvody usnesení Nejvyššího soudu ze dne 22. ledna 2002 sp. zn. 25 Cdo 2059/2001, uveřejněného v časopise Soudní judikatura č. 5, ročník 2002, pod číslem 89). Podle § 239 odst. 3 je dovolání přípustné proti usnesení odvolacího soudu, kterým bylo potvrzeno usnesení soudu prvního stupně o odmítnutí návrhu (žaloby), nikoliv však o odmítnutí odvolání, jak je tomu dáno v posuzovaném případě.
+Nejvyšší soud České republiky proto, aniž ve věci nařizoval jednání (§ 243a odst. 1 věta první o. s. ř.), dovolání jako nepřípustné odmítl [§ 243b odst. 5, § 218 odst. 1 písm. c) o. s. ř.].
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanoveními § 243b odst. 4, § 226 odst. 1 a § 146 odst. 2 věty první (per analogiam) o. s. ř., když žalovaná, která z procesního hlediska zavinila, že dovolání bylo odmítnuto, nemá právo na náhradu těchto nákladů a žalobkyni v souvislosti s dovolacím řízením žádné prokazatelné náklady nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 21. března 2006
+JUDr. Kateřina Hornochová, v.r.
+předsedkyně senátu
