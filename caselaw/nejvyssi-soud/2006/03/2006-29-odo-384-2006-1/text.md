@@ -1,0 +1,33 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+29 Odo 384/2006-150
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudkyň JUDr. Hany Gajdziokové a JUDr. Ivany Štenglové v právní věci žalobkyně Č. s., proti žalovanému J. G., o zaplacení částky 604.329,86 Kč s příslušenstvím, vedené u Krajského soudu v Brně pod sp. zn. 34 (15) Cm 100/95, o dovolání žalovaného proti usnesení Vrchního soudu v Olomouci ze dne 28. srpna 2003, č.j. 5 Cmo 262/2001-89, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Rozsudkem ze dne 13. října 1999, č.j. 34 (15) Cm 100/95-54 Krajský soud v Brně zavázal žalovaného zaplatit žalobkyni částku 536.404,- Kč s úroky z prodlení a na nákladech řízení částku 22.818,- Kč, vše do tří dnů od právní moci rozsudku.
+Proti tomuto rozsudku podal žalovaný včas odvolání.
+Za odvolacího řízení - podáním ze dne 9. prosince 2002 - vzala žalobkyně žalobu v celém rozsahu zpět poté, kdy žalovaný dlužnou částku uhradil.
+Vrchní soud v Olomouci usnesením ze dne 28. srpna 2003, č.j. 5 Cmo 262/2001-89, připustil zpětvzetí žaloby, rozsudek Krajského soudu v Brně ze dne 13. října 1999, č.j. 34 (15) Cm 100/95-54, zrušil a řízení zastavil (první výrok), žalovanému uložil zaplatit žalobkyni na náhradě nákladů řízení 22.818,- Kč (druhý výrok) a rozhodl, že žádný z účastníků nemá právo na náhradu nákladů odvolacího řízení (třetí výrok).
+Proti výroku usnesení odvolacího soudu, jímž byl zavázán zaplatit žalobkyni na nákladech řízení částku 22.818,- Kč, podal žalovaný dovolání, jehož přípustnost opírá o ustanovení § 237 odst. 1 písm. c) a f) občanského soudního řádu (dále též jen „o. s. ř.“) [ve znění účinném do 31. prosince 2000], namítaje, že rozhodnutí o nákladech řízení spočívá na nesprávném právním posouzení věci a že neměl možnost osobně se k věci vyjádřit, když nebyl předvolán k jednání.
+Dovolatel snáší argumenty na podporu závěru, že o nákladech řízení bylo rozhodnuto nesprávně, neboť žalobkyně náhradu nákladů řízení nepožadovala. Navrhuje, aby Nejvyšší soud rozhodnutí odvolacího soudu v napadeném výroku zrušil a věc vrátil tomuto soudu k dalšímu řízení.
+Podle bodu 17., hlavy I., části dvanácté zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů, tj. podle občanského soudního řádu ve znění účinném před l. lednem 2001. O takový případ jde i v této věci, jelikož odvolací soud ve shodě s bodem 15., hlavy I., části dvanácté, zákona č. 30/2000 Sb., o zpětvzetí žaloby rozhodl podle občanského soudního řádu ve znění účinném do 31. prosince 2000 (k tomu srov. např. rozhodnutí Nejvyššího soudu ze dne 25. února 2003, sp. zn. 21 Cdo 1728/2002, uveřejněné v časopise Soudní judikatura číslo 3, ročník 2003, pod číslem 44).
+Dovolání není přípustné.
+Podle ustanovení § 236 odst. l o. s. ř., dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti usnesení upravují ustanovení § 237, § 238a a § 239 o. s. ř.
+Podle ustanovení § 238a odst. l o. s. ř. není dovolání proti napadenému výroku usnesení (tj. výroku o nákladech řízení) přípustné proto, že jej nelze podřadit žádnému z tam vyjmenovaných případů. Podmínky stanovené v § 239 o. s. ř. daná věc rovněž nesplňuje, neboť usnesení o nákladech řízení není usnesením ve věci samé.
+Zbývá posoudit podmínky přípustnosti dovolání určené v ustanovení § 237 o. s. ř.
+K vadám vyjmenovaným v § 237 odst. l o. s. ř. přihlíží dovolací soud z úřední povinnosti a jejich existence činí zmatečným (s výjimkami zakotvenými v odstavci druhém) každé rozhodnutí odvolacího soudu; jelikož jiné zmatečnostní vady nejsou dovoláním namítány a ze spisu rovněž nevyplývají, zabýval se Nejvyšší soud tím, zda řízení je postiženo vadami tvrzenými dovolatelem.
+Ustanovení § 237 odst. l písm. c) o. s. ř. spojuje zmatečnost řízení s tím, že účastník řízení neměl procesní způsobilost a nebyl řádně zastoupen.
+Každý může před soudem jako účastník samostatně jednat v tom rozsahu, v jakém má způsobilost vlastními úkony nabývat práv a brát na sebe povinnosti (srov. § 20 o. s. ř.). Procesní způsobilost je spjata s hmotněprávní způsobilostí k právním úkonům. Jestliže účastník řízení nebyl zbaven způsobilosti k právním úkonům, ani v této způsobilosti nebyl omezen, nemůže být splněna podmínka, že neměl (popř. v průběhu řízení ztratil) procesní způsobilost (srov. usnesení Nejvyššího soudu ze dne 30. října 1997, sp. zn. 2 Cdon 1541/97, uveřejněné v časopise Soudní judikatura č. 3, ročník 1998, pod číslem 26).
+Dovolatel netvrdí (a z obsahu spisu nevyplývá), že by rozhodnutím soudu vydaným v řízení podle ustanovení § 186 a násl. o. s. ř. byl zbaven způsobilosti k právním úkonům, popřípadě byl v této způsobilosti omezen; řízení ve věci proto zmatečností podle § 237 odst. 1 písm. c) o. s. ř. postiženo není.
+Přípustnost dovolání [ve smyslu ustanovení § 237 odst. 1 písm. f) o. s. ř.] nezakládá ani výhrada dovolatele, podle které „neměl možnost se k celé věci osobně a před soudem vyjádřit“.
+Odnětím možnosti jednat před soudem je takový postup soudu, jímž znemožnil účastníku řízení realizaci těch procesních práv, která mu zákon přiznává. O vadu ve smyslu tohoto ustanovení jde jen tehdy, jestliže šlo o postup nesprávný (uvažováno z hlediska zachování postupu soudu určeného zákonem nebo dalšími obecně závaznými právními předpisy) a jestliže se postup soudu projevil v průběhu řízení a nikoliv také při rozhodování (srov. též rozhodnutí Nejvyššího soudu uveřejněná pod čísly 27/1998 a 49/1998 Sbírky soudních rozhodnutí a stanovisek).
+Výše uvedené předpoklady - nezbytné pro přijetí závěru o existenci zmatečnostní vady podle § 237 odst. 1 písm. f) o. s. ř. - v projednávané věci (ve vztahu k dovoláním napadenému výroku rozhodnutí odvolacího soudu) splněny nejsou.
+Jelikož dovolání není přípustné podle žádného z ustanovení občanského soudního řádu, jež ve věci přicházejí v úvahu (§ 237 až § 239 o. s. ř.), Nejvyšší soud je podle ustanovení § 243b odst. 4 a § 218 odst. 1 písm. c) o. s. ř.
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 4, § 224 odst. 1 a § 146 odst. 2 věty první (per analogiam) o. s. ř., neboť dovolání žalovaného bylo odmítnuto a žalobkyni podle obsahu spisu v dovolacím řízení náklady nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 23. března 2006
+JUDr. Petr Gemmel, v.r.
+předseda senátu
