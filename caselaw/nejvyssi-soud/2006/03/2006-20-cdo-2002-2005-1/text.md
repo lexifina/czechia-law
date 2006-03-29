@@ -1,0 +1,20 @@
+20 Cdo 2002/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudců JUDr. Marie Vokřinkové a JUDr. Vladimíra Mikuška ve věci výkonu rozhodnutí oprávněného E. K., zastoupeného advokátem, proti povinné H. R., zastoupené advokátkou, za účasti manžela povinné P. R., pro 218.400,- Kč s příslušenstvím prodejem nemovitosti, vedené u Okresního soudu v Jihlavě pod sp. zn. 15 E 886/99, o dovolání povinné proti usnesení Krajského soudu v Brně ze dne 31. 12. 2004, č.j. 12 Co 850/2004-77, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+V záhlaví uvedeným rozhodnutím krajský soud k odvolání P. R. potvrdil usnesení ze dne 1. 11. 2004, č.j. 15 E 886/99-72 (původně 67), kterým Okresní soud v Jihlavě podle ustanovení § 208 odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů (dále též jen „o.s.ř.“), odmítl jeho odvolání proti usnesení ze dne 6. 9. 2004, č.j. 15 E 886/99-63, jímž soud určil cenu nemovitosti.
+Rozhodnutí odvolacího soudu napadla povinná dovoláním, jímž polemizuje s posouzením odvolání jako opožděného podání.
+Nejvyšší soud věc projednal podle občanského soudního řádu ve znění účinném do 31. 3. 2005 (čl. II, bod 3. zákona č. 59/2005 Sb.).
+Dovolání není přípustné.
+Podle ustanovení § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Přípustnost dovolání proti usnesení upravují ustanovení § 237 až § 239 o.s.ř.
+Přípustnost dovolání podle uvedených ustanovení je kategorií objektivní, jež se pojí s povahou napadeného rozhodnutí (dovolání proti rozhodnutí odvolacího soudu je nebo není přípustné jako takové, bez ohledu na osobu, která je podala). Posouzením „subjektivní“ přípustnosti dovolání, jež zkoumání přípustnosti z objektivního hlediska předchází, je oproti tomu řešena otázka, který z účastníků je v daném případě oprávněn – ve smyslu § 243b odst. 5, věty první, a § 218 písm. b) o.s.ř. – dovolání podat. Z obecného závěru, že k dovolání jsou legitimováni účastníci řízení (§ 240 odst. 1, věta první, o.s.ř.), nelze dovozovat, že by dovolání s předpokládanými účinky mohl podat kterýkoli z nich. Z povahy dovolání jakožto (mimořádného) opravného prostředku totiž plyne, že oprávnění je podat (subjektivní přípustnost) svědčí účastníku, kterému nebylo rozhodnutím odvolacího soudu plně vyhověno, popřípadě kterému byla tímto rozhodnutím způsobena na jeho právech určitá újma, již lze odstranit kasací napadeného rozhodnutí (srov. usnesení Nejvyššího soudu ze dne 30. 10. 1997, sp. zn. 2 Cdon 1363/96, uveřejněné v časopise Soudní judikatura 3/1998 pod č. 28, usnesení Nejvyššího soudu ze dne 29. 7. 1999, sp. zn. 20 Cdo 1760/98, uveřejněné v časopise Soudní judikatura 1/2000 pod č. 7, usnesení Nejvyššího soudu ze dne 30. 8. 2000, sp. zn. 2 Cdon 1648/97, uveřejněné v časopise Soudní judikatura 12/2000 pod č. 138, a usnesení Nejvyššího soudu ze dne 27. 5. 1999, sp. zn. 20 Cdo 553/98, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek 4/2001 pod č. 28).
+Dovolatelce rozhodnutím, kterým odvolací soud potvrdil usnesení soudu prvního stupně, jímž bylo odmítnuto odvolání P. R., újma nevznikla.
+Dovolání proti usnesení, kterým odvolací soud potvrdil usnesení soudu prvního stupně o odmítnutí odvolání pro opožděnost, ostatně není přípustné ani objektivně (srov. usnesení Nejvyššího soudu ze dne 20. 11. 2001, sp. zn. 21 Cdo 1124/2001, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek 5/2003 pod č. 41).
+Nejvyšší soud proto – bez jednání (§ 243a odst. 1, věta první, o.s.ř.) – dovolání odmítl (§ 243b odst. 5, věta první, § 218 písm. b/, c/ o.s.ř.).
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o.s.ř. (povinná, jejíž dovolání bylo odmítnuto, nemá právo na náhradu nákladů řízení a oprávněnému v tomto stadiu řízení náklady nevznikly).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 29. března 2006
+JUDr. Pavel K r b e k , v. r.
+předseda senátu
