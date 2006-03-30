@@ -1,0 +1,12 @@
+29 Odo 286/2004
+U S N E S E N Í
+Nejvyšší soud České republiky v senátě složeném z předsedy JUDr. Zdeňka Krčmáře a soudců JUDr. Hany Gajdziokové a JUDr. Františka Faldyny, CSc. rozhodl v konkursní věci úpadkyně K. spol. s r. o., vedené u Krajského soudu v Brně pod sp. zn. 27 K 4/2000, o zproštění výkonu funkce správce konkursní podstaty, o dovolání úpadkyně proti usnesení Vrchního soudu v Olomouci ze dne 3. června 2003, č. j. 2 Ko 268/2001-592, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+V záhlaví označeným usnesením Vrchní soud v Olomouci potvrdil usnesení Krajského soudu v Brně ze dne 25. ledna 2001, č. j. 27 K 4/2000-424, vydané vyšší soudní úřednicí, v úpadkyní odvoláním napadených výrocích, jimiž soud prvního stupně zprostil Mgr. J. B. výkonu funkce správce konkursní podstaty úpadkyně a novým správcem konkursní podstaty úpadkyně ustanovil JUDr. A. M.
+Proti usnesení odvolacího soudu podala úpadkyně včasné dovolání, jež má za přípustné podle ustanovení § 237 odst. 1 písm. c/ občanského soudního řádu (dále též jen „o. s. ř.“), domáhajíc se jeho zrušení a vrácení věci odvolacímu soudu k dalšímu řízení. Konkrétně zpochybňuje právo vyšší soudní úřednice rozhodnout o zproštění výkonu funkce správce konkursní podstaty a o ustanovení nového správce konkursní podstaty, s tím, že tak není možné učinit na základě pověření samosoudkyně (jež není předsedkyní senátu).
+Dovolání proti usnesení, kterým odvolací soud potvrdil usnesení, jímž soud prvního stupně zprostil správce konkursní podstaty výkonu funkce a ustanovil nového správce konkursní podstaty, není podle občanského soudního řádu ve znění účinném od 1. ledna 2001 přípustné, když nejde o žádný z případů popsaných v ustanoveních § 237 až § 239 o. s. ř. K tomu, aby bylo možné dovodit dovolatelkou předjímanou přípustnost podle § 237 odst. 1 písm. c/ o. s. ř., chybí naplnění předpokladu, aby šlo o usnesení „ve věci samé“ (srov. mutatis mutandis usnesení Nejvyššího soudu uveřejněné pod číslem 52/2003 Sbírky soudních rozhodnutí a stanovisek, dále usnesení Nejvyššího soudu ze dne 28. listopadu 2002, sp. zn. 29 Odo 719/2002, uveřejněné v časopise Soudní judikatura číslo 1, ročník 2003, pod číslem 11 nebo usnesení Nejvyššího soudu ze dne 4. září 2003, sp. zn. 29 Odo 586/2003, uveřejněné v témže časopise v čísle 9 téhož ročníku, pod číslem 155).
+Nejvyšší soud proto dovolání podle § 243b odst. 5 věty první a § 218 písm. c/ o. s. ř. odmítl.
+V Brně 30. března 2006
+JUDr. Zdeněk Krčmář, v.r.
+předseda senátu
