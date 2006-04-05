@@ -1,0 +1,18 @@
+26 Cdo 458/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Feráka a soudců Doc. JUDr. Věry Korecké, CSc., a JUDr. Roberta Waltra ve věci žalobců a) L. C. a b) J. C., proti žalované A. K., zastoupené opatrovníkem městem V., právně zastoupené advokátkou, o přivolení k výpovědi z nájmu bytu, vedené u Okresního soudu ve Strakonicích pod sp. zn. 7 C 188/2004, o dovolání žalované proti rozsudku Krajského soudu v Českých Budějovicích ze dne 17. srpna 2005, č. j. 5 Co 1192/2005-105, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud ve Strakonicích (soud prvního stupně) rozsudkem ze dne 14. prosince 2004, č. j. 7 C 188/2004-63, vyhověl žalobě a přivolil k výpovědi z nájmu „bytu v přízemí domu čp. 108 v ulici P. ve V., sestávajícího se z jedné místnosti, kuchyně a příslušenství, kterou dali žalobci žalované dopisem ze dne 27. 7. 2004“, určil, že tříměsíční výpovědní lhůta počne běžet prvním dnem kalendářního měsíce následujícího po právní moci rozsudku, žalované uložil povinnost byt vyklidit a vyklizený předat žalobcům do šedesáti dnů po zajištění přístřeší a rozhodl o nákladech řízení účastníků.
+K odvolání žalované Krajský soud v Českých Budějovicích jako soud odvolací rozsudkem ze dne 17. srpna 2005, č. j. 5 Co 1192/2005-105, citovaný rozsudek soudu prvního stupně potvrdil a rozhodl o nákladech odvolacího řízení účastníků.
+Rozsudek odvolacího soudu byl žalované doručen dne 21. září 2005. Žalovaná – nezastoupena advokátem – dne 23. září 2005 soudu prvního stupně doručila podání (doplněné dalším podáním doručeným odvolacímu soudu dne 5. října 2005), které lze považovat za dovolání proti uvedenému potvrzujícímu rozsudku odvolacího soudu. Usnesením soudu prvního stupně ze dne 16. prosince 2005, č. j. 7 C 188/2004-123, byla žalované pro dovolací řízení ustanovena zástupkyní advokátka JUDr. J. K.
+Podáním doručeným soudu prvního stupně dne 27. ledna 2006 vzala žalovaná prostřednictvím ustanovené advokátky dovolání zpět.
+Podle čl. II bodu 3. zákona č. 59/2005 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona (tj. před 1. dubnem 2005) nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů. Bylo-li napadené rozhodnutí vydáno dne 17. srpna 2005, tedy po 1. dubnu 2005, kdy uvedená novela nabyla účinnosti, avšak po řízení provedeném podle dosavadních právních předpisů (srovnej čl. II, bod 2. a 3. přechodných ustanovení zákona č. 59/2005 Sb.), Nejvyšší soud České republiky jako soud dovolací projednal dovolání a o něm rozhodl podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění před novelou provedenou zákonem č. 59/2005 Sb. (dále jen „o.s.ř.”).
+Podle § 243b odst. 5 věty druhé o.s.ř. vezme-li dovolatel dovolání zcela zpět, dovolací soud řízení zastaví.
+Vyplývá-li z citovaného ustanovení, že zpětvzetí dovolání má bez dalšího za následek zastavení dovolacího řízení, dovolací soud dovolací řízení zastavil.
+Výrok o nákladech dovolacího řízení se opírá o ustanovení § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 2 věty první o.s.ř. a o skutečnost, že žalobcům v dovolacím řízení nevznikly žádné náklady, na jejichž náhradu by jinak měli právo vůči žalované, která zavinila zastavení dovolacího řízení.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 5. dubna 2006
+JUDr. Miroslav F e r á k , v.r.
+předseda senátu
