@@ -1,0 +1,36 @@
+30 Cdo 814/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Olgy Puškinové a soudců JUDr. Karla Podolky a JUDr. Pavla Pavlíka v právní věci žalobců a) M. – A., spol. s r. o.,
+b) H. Š., a c) MVDr. F. Š., všech zastoupených advokátem, o žalobě proti rozhodnutí správního orgánu, vedené u Krajského soudu
+v Brně pod sp. zn. 35 C 45/2003, o dovolání žalobců proti usnesení Vrchního soudu
+v Olomouci ze dne 31. října 2005, č. j. 1 Co 95/2005 - 44, takto:
+I. Dovolání se zamítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalobci se žalobou, doručenou soudu prvního stupně dne 12. 8. 2003, domáhali, aby „soud zrušil rozhodnutí Zeměměřického a katastrálního inspektorátu v B. ze dne 9. 1. 2003, sp. zn. O-143/658/2002, a uložil Katastrálnímu úřadu ve Z. pokračovat v nedokončeném správním řízení pod č. j. 201 10 V 11 - 1237/97, a návrh změny vlastnického práva podle dokladu, nazvaném kupní smlouva ze dne 24. 4. 1997, zamítl“. Žalobu odůvodnili zejména tím, že nesouhlasí s rozhodnutím Katastrálního úřadu ve Z. ze dne 25. 4. 1997, č. j. 201 10 V 11-1237/97, jímž byl povolen vklad vlastnického práva prvního žalobce do katastru nemovitostí k objektu bydlení čp. 16
+na stavební parcele č. 327/4 v obci B., katastrální území B., a že tímto rozhodnutím byli dotčeni na svých právech.
+Krajský soud v Brně usnesením ze dne 30. 12. 2004, č. j. 35 C 45/2003 - 25, žalobu odmítl a rozhodl o náhradě nákladů řízení. S odkazem na ust. § 5 odst. 3 zákona č. 265/1992 Sb., o zápisech vlastnických a jiných věcných práv k nemovitostem, podle něhož proti rozhodnutí, kterým se vklad povoluje, není přípustný opravný prostředek, ani žaloba ve správním soudnictví, dospěl k závěru, že žaloba podle části páté o. s. ř. je v daném případě podle ust. § 250g odst. 1 písm. c) o. s. ř. nepřípustná, neboť směřuje proti rozhodnutí Katastrálního úřadu ve Z. dne 25. 4. 1997, č. j. 201 10 V 11 - 1237/97, jímž byl povolen vklad vlastnického práva do katastru nemovitostí. Dále dovodil, že žaloba je nepřípustná i podle § 250g odst. 1 písm. a) o. s. ř., neboť byla podána až po uplynutí lhůty uvedené v ust. § 247 odst. 1 o. s. ř.
+K odvolání žalobců Vrchní soud v Olomouci usnesením ze dne 31. 10. 2005,
+č. j. 1 Co 95/2005 - 44, usnesení soudu prvního stupně potvrdil a rozhodl o náhradě nákladů odvolacího řízení. Odvolací soud se ztotožnil se závěrem soudu prvního stupně, že směřuje-li žaloba v daném případě proti rozhodnutí katastrálního úřadu, jímž byl povolen vklad vlastnického práva do katastru nemovitostí, je nepřípustná (§ 250g
+odst. 1 o. s. ř.), neboť ust. § 5 odst. 3 zák. č. 265/1992 Sb., ve znění účinném od
+1. 7. 1996, proti rozhodnutí, kterým se vklad povoluje, opravný prostředek ani žalobu
+ve správním soudnictví nepřipouští. Poukázal na to, že zákonná úprava ust. § 5 odst. 3 zák. č. 265/1992 Sb. nebyla dotčena ani zákonem č. 151/2002 Sb., kterým se mění některé zákony v souvislosti s přijetím soudního řádu správního.
+Proti tomuto usnesení odvolacího soudu podali žalobci dovolání, jehož přípustnost dovozují z ust. § 239 odst. 3 o. s. ř. a z ust. § 237 odst. 3 o. s. ř., a podávají je z důvodů podle § 241a odst. 2 písm. a), b) a odst. 3 o. s. ř. Soudům obou stupňů vytýkají, že neprovedly navržené důkazy, že „zdůvodnění rozsudku je v rozporu s § 157 odst. 2 o. s. ř., neboť je nejasné a nepřezkoumatelné“, že dospěly k nesprávným skutkovým zjištěním, pokud vycházely z toho, že ve správním řízení bylo postupováno v souladu s ust. § 4 odst. 3 písm. c), § 5 odst. 1 písm. b), c), e), § 5 odst. 2 zák. č. 265/1992 Sb. v platném znění a § 8 odst. 1 písm. a) zák. č. 344/1992 Sb. v platném znění; v důsledku toho spočívá „rozsudek odvolacího soudu“ na nesprávném právním posouzení věci. Dále namítají, že „soud rozhodl v rozporu s prokázanými skutečnostmi
+i s hmotným právem a že měl postupovat podle § 109 odst. 1 písm. c) o. s. ř.“ Podle názoru dovolatelů došlo těmito pochybeními odvolacího soudu k porušení jejich práva na spravedlivý proces zaručeného v čl. 36 odst. 1 Listiny základních práv a svobod, práva na ochranu vlastnictví (čl. 11 odst. 1 Listiny) a dalších. Navrhli, aby usnesení odvolacího soudu bylo zrušeno.
+Nejvyšší soud jako soud dovolací (§ 10a o. s. ř.) po zjištění, že dovolání proti pravomocnému usnesení odvolacího soudu bylo podáno včas, oprávněnými osobami, účastníky řízení, řádně zastoupenými advokátem a že je přípustné podle § 239 odst. 3
+o. s. ř., dospěl po přezkoumání věci podle § 242 o. s. ř. k závěru, že dovolání není opodstatněné.
+Podle § 5 odst. 3 zák. č. 265/1992 Sb., o zápisech vlastnických a jiných věcných práv k nemovitostem, ve znění pozdějších předpisů, rozhodnutí, kterým se vklad povoluje, lze provést zápisem ve spisu. Proti rozhodnutí, kterým se vklad povoluje, není přípustný žádný opravný prostředek, ani žaloba ve správním soudnictví. Podle odst. 4 tohoto ustanovení rozhodnutí o zamítnutí vkladu se doručuje všem účastníkům řízení. Proti tomuto rozhodnutí je přípustný opravný prostředek. Pokud podanému opravnému prostředku katastrální úřad nevyhoví v plném rozsahu, rozhoduje o podaném opravném prostředku soud.
+V posuzované věci se žalobci žalobou, doručenou soudu prvního stupně dne
+12. 8. 2003, domáhají, aby „soud zrušil rozhodnutí Zeměměřického a katastrálního inspektorátu v B. ze dne 9. 1. 2003, sp. zn. O-143/658/2002, a uložil Katastrálnímu úřadu ve Z. pokračovat v nedokončeném správním řízení pod č. j. 201 10 V 11 - 1237/97, a návrh změny vlastnického práva podle dokladu, nazvaném kupní smlouva
+ze dne 24. 4. 1997, zamítl“. Z obsahu tohoto podání soudy obou stupňů dovodily, že žalobci nesouhlasí s rozhodnutím Katastrálního úřadu ve Z. ze dne 25. 4. 1997,
+č. j. 201 10 V 11 - 1237/97, jímž byl povolen vklad vlastnického práva prvního žalobce do katastru nemovitostí k objektu bydlení čp. 16 na stavební parcele č. 327/4 v obci B., katastrální území B., a navrhují, aby soud svým rozhodnutím nahradil toto rozhodnutí tak, aby návrh na vklad vlastnického práva
+do katastru nemovitostí podle kupní smlouvy ze dne 24. 4. 1997 byl zamítnut.
+Jestliže podle ust. § 5 odst. 3 zákona č. 265/1992 Sb., o zápisech vlastnických
+a jiných věcných práv k nemovitostem, ve znění pozdějších předpisů, není proti rozhodnutí, kterým se vklad do katastru nemovitostí povoluje, přípustný žádný opravný prostředek, ani žaloba ve správním soudnictví, pak je správný závěr odvolacího soudu, který usnesení soudu prvního stupně o odmítnutí žaloby pro nepřípustnost [§ 250g odst. 1 písm. c) o. s. ř.] podle § 219 o. s. ř. potvrdil.
+Z uvedeného vyplývá, že dovolání proti usnesení odvolacího soudu není důvodné. Protože nebylo zjištěno, že by usnesení odvolacího soudu bylo postiženo vadou uvedenou v ust. § 229 odst. 1, § 229 odst. 2 písm. a) a b) a v ust. § 229 odst. 3
+o. s. ř. nebo jinou vadou, která mohla mít za následek nesprávné rozhodnutí ve věci, Nejvyšší soud ČR dovolání žalobců podle ust. § 243b odst. 2 část věty před středníkem a odst. 6 o. s. ř. usnesením zamítl, aniž bylo třeba se zabývat správností petitu žaloby.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 o. s. ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 18. dubna 2006
+JUDr. Olga Puškinová, v. r.
+předsedkyně senátu
