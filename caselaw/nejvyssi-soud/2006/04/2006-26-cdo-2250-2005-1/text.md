@@ -1,0 +1,19 @@
+26 Cdo 2250/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně Doc. JUDr. Věry Korecké, CSc., a soudců JUDr. Miroslava Feráka a JUDr. Roberta Waltra ve věci žalobkyně Č. k., a. s., proti žalované D. P., o zaplacení 6.845,- Kč s příslušenstvím, vedené u Okresního soudu v Ostravě pod sp.zn. 25 C 498/98, o dovolání žalované proti rozsudku Krajského soudu v Ostravě ze dne 24. května 2005, č.j. 11 Co 272/2005-210, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Ostravě (soud prvního stupně) rozsudkem ze dne 30. 7. 2001, č.j. 25 C 498/98-119, výrokem I. uložil žalované povinnost zaplatit právnímu předchůdci žalobkyně (O., a.s.) částku 843,- Kč s příslušenstvím, částku 1.170,- Kč s příslušenstvím, částku 1.482,- Kč s příslušenstvím, částku 331,- Kč s příslušenstvím, částku 387,70 Kč s příslušenstvím a částku 1.457,50 Kč s příslušenstvím, to vše do tří dnů od právní moci rozsudku, výrokem II. žalobu zamítl co do částky 1.173,80 Kč s příslušenstvím a výrokem III. rozhodl o nákladech řízení.
+K odvolání žalované (směřujícímu do výroku I. a III.) Krajský soud v Ostravě (soud odvolací) rozsudkem ze dne 24. 5. 2005, č.j. 11 Co 272/2005-210, rozsudek soudu prvního stupně v napadených výrocích potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Proti rozsudku odvolacího soudu podala žalovaná (nezastoupena advokátem) dovolání adresované Vrchnímu soudu v Olomouci; současně požádala o ustanovení právního zástupce.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) po zjištění, že dovolání bylo podáno včas, osobou k tomu oprávněnou – účastnicí řízení (§ 240 odst. 1 o.s.ř.), se nejprve zabýval otázkou přípustnosti tohoto mimořádného opravného prostředku.
+Dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští (§ 236 odst. 1 o.s ř.).
+Dovolání je přípustné proti rozhodnutí odvolacího soudu, jímž bylo změněno rozhodnutí soudu prvního stupně ve věci samé (§ 237 odst. 1 písm. a/ o.s.ř.), nebo jímž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil (§ 237 odst. 1 písm. b/ o.s.ř.). Dovolání je dále přípustné proti rozhodnutí odvolacího soudu, jímž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam (§ 237 odst. 1 písm. c/ o.s.ř.). Dovolání podle § 237 odst. 1 o.s.ř. však není podle § 237 odst. 2 písm. a) o.s.ř. přípustné ve věcech, v nichž dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 20.000,- Kč a v obchodních věcech 50.000,- Kč; k příslušenství pohledávky se přitom nepřihlíží.
+V dané věci žalovaná napadá dovoláním rozsudek odvolacího soudu, jímž byl potvrzen rozsudek soudu prvního stupně, kterým bylo rozhodnuto o peněžitých nárocích v celkové výši 5.671,20 Kč (s příslušenstvím), tudíž nepřevyšujících částku 20.000,- Kč; přípustnost dovolání je tak výslovně vyloučena ustanovením § 237 odst. 2 písm. a) o.s.ř.
+Nejvyšší soud proto dovolání podle § 243b odst. 5 věty první a § 218 písm. c) o.s.ř. odmítl, aniž se zabýval otázkou advokátního zastoupení dovolatelky (§ 241b odst. 2 o.s.ř.).
+Výrok o nákladech dovolacího řízení odpovídá situaci, kdy žalobkyni v dovolacím řízení nevznikly žádné náklady, na jejichž náhradu by jinak měla právo vůči žalované, jejíž dovolání bylo odmítnuto (§ 243b odst. 5 věta první, § 224 odst. 1, § 146 odst. 3 a § 151 odst. 1 o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 19. dubna 2006
+Doc. JUDr. Věra Korecká, CSc., v. r.
+předsedkyně senátu
