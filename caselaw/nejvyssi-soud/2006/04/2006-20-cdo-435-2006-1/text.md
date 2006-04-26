@@ -1,0 +1,15 @@
+20 Cdo 435/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Vladimíra Mikuška a soudců JUDr. Miroslavy Jirmanové a JUDr. Pavla Krbka v exekuční věci oprávněné Č. f. s.r.o., proti povinné D. s.r.o., pro 1.134.568,60 Kč, vedené u Okresního soudu v Českém Krumlově pod sp. zn. 4 Nc 292/2003, o dovolání oprávněné proti usnesení Krajského soudu v Českých Budějovicích ze dne 26. 5. 2004, č.j. 22 Co 2597/2003-64, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Proti shora označenému rozhodnutí, jímž krajský soud změnil usnesení okresního soudu ze dne 27. 6. 2003, č.j. 4 Nc 292/2003-7 (kterým okresní soud nařídil exekuci), tak, že návrh na nařízení exekuce zamítl, podala oprávněná dovolání.
+Protože dovolání mělo nedostatky bránící dalšímu pokračování dovolacího řízení a nebylo sepsáno advokátem ani osobou uvedenou v § 21 zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů (dále jen „o.s.ř.“) s právnickým vzděláním, soud oprávněnou usnesením ze dne 23. 8. 2004, doručeným jí 13. 9. 2004, vyzval, aby si ve lhůtě 20 dnů od doručení usnesení zvolila zástupcem advokáta a jeho prostřednictvím podala řádné dovolání; zároveň ji poučil, že dovolání musí být sepsáno advokátem a že nevyhoví-li výzvě, Nejvyšší soud dovolací řízení zastaví. Dovolatelka však vytčený nedostatek ani přes opakované výzvy neodstranila.
+Podle ustanovení § 241 odst. 1, věty první, o.s.ř. není-li stanoveno jinak (§ 241 odst. 2, 3 o.s.ř.), musí být dovolatel zastoupen advokátem nebo notářem. Podle ustanovení § 241 odst. 4 o.s.ř. musí být dovolání sepsáno, s výjimkou případu uvedeného v § 241 odst. 2 písm. a/ o.s.ř., advokátem, notářem nebo osobou uvedenou v § 21, 21a, 21b, anebo v § 26a odst. 3, která má právnické vzdělání.
+Protože podmínka povinného zastoupení dovolatele v dovolacím řízení (k jejímuž splnění je třeba i sepisu dovolání advokátem, viz usnesení Nejvyššího soudu ze dne 27. 5. 1999, sp. zn. 26 Cdo 1121/99, uveřejněné v Soudní judikatuře č. 6, ročník 2000 pod č. 64) je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – kromě usnesení, kterým se dovolací řízení právě pro neodstranění tohoto nedostatku zastavuje – vydání rozhodnutí, jímž se řízení končí (§ 241 odst. 1 o.s.ř.), a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu nedošlo, Nejvyšší soud řízení o dovolání podle § 104 odst. 2 a § 243c odst. 1 o.s.ř. zastavil.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn skutečností, že oprávněná z procesního hlediska zavinila zastavení dovolacího řízení, a že povinné, jež by jinak měla na náhradu nákladů tohoto řízení právo podle ustanovení § 243b odst. 5, věty první, § 224 odst. 1 a § 146 odst. 2, věty první, o.s.ř., náklady dovolacího řízení (podle obsahu spisu) nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. dubna 2006
+JUDr. Vladimír M i k u š e k , v.r.
+předseda senátu
