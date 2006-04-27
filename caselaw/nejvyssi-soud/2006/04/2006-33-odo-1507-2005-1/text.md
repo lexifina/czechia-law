@@ -1,0 +1,13 @@
+33 Odo 1507/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivany Zlatohlávkové a soudců JUDr. Blanky Moudré a JUDr. Václava Dudy ve věci žalobkyně P. – k. s., v. o. s., zastoupené, advokátem, jako správkyně konkursní podstaty úpadce S.-K., a. s. v likvidaci, proti žalovanému L. L., zastoupenému, advokátem, o zaplacení 326.023,- Kč s příslušenstvím, vedené u Okresního soudu v České Lípě pod sp. zn. 11 C 25/2004, o dovolání žalovaného proti rozsudku Krajského soudu v Ústí nad Labem – pobočky v Liberci ze dne 22. června 2005, č. j. 29 Co 777/2004-47, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Dovolání žalovaného proti rozsudku Krajského soudu v Ústí nad Labem – pobočky v Liberci ze dne 22. června 2005, č. j. 29 Co 777/2004-47, kterým byl potvrzen rozsudek Okresního soudu v České Lípě ze dne 6. září 2004, č. j. 11 C 25/2004-34, ve věci samé, není přípustné podle ustanovení § 237 odst. 1 písm. b/ o. s. ř. a nebylo shledáno přípustným ani podle ustanovení § 237 odst. 1 písm. c/ o. s. ř., neboť napadený rozsudek odvolacího soudu nemá po právní stránce zásadní význam s ohledem na skutečnost, že dovoláním zpochybněná právní otázka určitosti právního úkonu podle § 37 občanského zákoníku (resp. jednoznačnosti určení postoupené pohledávky předmětem plnění, osobou dlužníka, příp. právním důvodem) nepatří z hlediska rozhodovací činnosti dovolacího soudu mezi ty, které by dosud nebyly řešeny a nebyla odvolacím soudem vyřešena v rozporu s hmotným právem (srov. např. rozhodnutí Vrchního soudu v Praze publikované v časopise Soudní judikatura č. 8/1998 nebo rozhodnutí Nejvyššího soudu ČR ze dne 19. 5. 2004 sp. zn. 33 Odo 30/2002, ze dne 20. 9. 2005 sp. zn. 33 Odo 431/2004, ze dne 31. 8. 2004 sp. zn. 33 Odo 111/2004, ze dne 25. 9. 2003 sp. zn. 33 Odo 518/2003, ze dne 29. 2. 2000 sp. zn. 21 Cdo 1892/99 a ze dne 27. 9. 2000 sp. zn. 21 Cdo 133/2000).
+Protože dovolání žalovaného směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný, dovolací soud toto dovolání podle ustanovení § 243b odst. 5 věty první a § 218 písm. c/ o. s. ř. odmítl.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř. za situace, kdy žalobkyni, která by jinak měla právo na náhradu nákladů dovolacího řízení, v tomto řízení žádné náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 27. dubna 2006
+JUDr. Ivana Zlatohlávková, v.r.
+předsedkyně senátu
