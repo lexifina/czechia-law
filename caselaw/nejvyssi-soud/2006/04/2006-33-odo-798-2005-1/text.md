@@ -1,0 +1,14 @@
+33 Odo 798/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivany Zlatohlávkové a soudců Víta Jakšiče a JUDr. Václava Dudy ve věci žalobce K. M., zastoupeného, advokátem, proti žalovanému P. M., zastoupenému, advokátem, o zaplacení 41.882,- Kč s příslušenstvím, vedené u Okresního soudu v Pardubicích pod sp. zn. 10 C 234/2002, o dovolání žalovaného proti rozsudku Krajského soudu v Hradci Králové ze dne 1. prosince 2004, č. j. 18 Co 220/2004-152, takto:
+I. Dovolání se odmítá.
+II. Žalovaný je povinen zaplatit žalobci na náhradě nákladů dovolacího řízení 3.288,- Kč do tří dnů od právní moci tohoto usnesení k rukám, advokáta.
+O d ů v o d n ě n í :
+Dovolání žalovaného proti rozsudku Krajského soudu v Hradci Králové ze dne 1. prosince 2004, č. j. 18 Co 220/2004-152, kterým byl potvrzen rozsudek Okresního soudu v Pardubicích ze dne 19. prosince 2003, č. j. 10 C 234/2002-123, ve věci samé, není přípustné podle ustanovení § 237 odst. 1 písm. b/ o. s. ř. a nebylo shledáno přípustným ani podle ustanovení § 237 odst. 1 písm. c/ o. s. ř., neboť napadený rozsudek odvolacího soudu nemá po právní stránce zásadní význam. V dovolání byl totiž uplatněn - jak vyplývá z jeho obsahu - pouze dovolací důvod uvedený v § 241a odst. 3 o. s. ř., v jehož rámci dovolatel vytkl odvolacímu soudu nesprávně, resp. nedostatečně zjištěný skutkový stav vyúsťující v nesprávné skutkové závěry, že odstoupil od smlouvy o opravě věci bez uvedení důvodu, resp. že jeho odstoupení od smlouvy nepředcházelo žádné porušení povinností ze strany žalobce, a že soud nesprávně zjistil cenu žalobcem již vykonané práce. Dovolací důvod mířící na pochybení při zjišťování skutkového stavu věci však nelze v případě dovolání přípustného podle § 237 odst. 1 písm. c/ o. s. ř. použít (srov. výslovné znění § 241a odst. 3 o. s. ř.).
+Protože dovolání žalovaného směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný, dovolací soud je podle ustanovení § 243b odst. 5 věty první a § 218 písm. c/ o. s. ř. odmítl.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř. Žalovanému, jehož dovolání bylo odmítnuto, byla uložena povinnost zaplatit žalobci náklady, které mu vznikly v souvislosti s podáním vyjádření k dovolání prostřednictvím advokáta. Tyto náklady sestávají z odměny advokáta v částce 2.700,- Kč (§ 3 odst. 1, § 10 odst. 3, § 15 v návaznosti na § 14 odst. 1, § 16 odst. 1 a § 18 odst. 1 vyhlášky č. 484/2000 Sb., v platném znění), z paušální částky náhrad hotových výdajů ve výši 75,- Kč (§ 13 odst. 1 a 3 vyhlášky č. 177/1996 Sb., v platném znění) s připočtením 19 % DPH ve výši 513,- Kč.
+Proti tomuto usnesení není opravný prostředek přípustný.
+Nesplní-li povinný, co mu ukládá vykonatelné rozhodnutí, může oprávněný podat návrh na soudní výkon rozhodnutí.
+V Brně 27. dubna 2006
+JUDr. Ivana Zlatohlávková, v.r.
+předsedkyně senátu
