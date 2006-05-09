@@ -1,0 +1,43 @@
+30 Cdo 3025/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Karla Podolky a soudců JUDr. Olgy Puškinové a JUDr. Pavla Pavlíka ve věci žalobce
+E. C., zastoupeného advokátem, proti žalovaným
+1) Mgr. L. C. a 2) D. F., o výživné, vedené u Městského soudu v Brně pod sp. zn. 39 C 72/96, o dovolání žalobce proti rozsudku Krajského soudu v Brně ze dne 2. června 2003, č. j. 37 Co 222/2001-171,
+ve znění usnesení téhož soudu ze dne 2. června 2003, č. j. 37 Co 222/2001-175, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Brně rozsudkem ze dne 8. září 2000, č. j. 39 C 72/96-97, zamítl žalobu, „aby prvé žalované byla stanovena povinnost platit žalobci na jeho výživu měsíčně částkou 500,- Kč, a druhému žalovanému, aby byla stanovena povinnost platit žalobci na jeho výživu měsíčně částku 3.000,- Kč od 24.5.1996“ a rozhodl o náhradě nákladů řízení a odměně zástupce žalobce.
+K odvolání žalobce Krajský soud v Brně rozsudkem ve znění opravného usnesení v záhlaví označeným po připuštění změny žaloby rozsudek soudu prvního stupně změnil tak, že žalobu ve výroku podrobně označenou vůči oběma žalovaným zamítl, rozhodl o náhradě nákladů řízení před soudy obou stupňů a odměně zástupce žalobce.
+Žalobce v podaném dovolání vyjadřuje nesouhlas s rozsudky soudů obou stupňů a domáhá se jejich zrušení a vrácení věci soudu prvního stupně k dalšímu řízení. Soudům obou stupňů vytýká, že mu neumožnily klást otázky druhému žalovanému
+a nebyly provedeny jím navržené důkazy.
+Při posuzování tohoto dovolání vycházel dovolací soud z ustanovení části dvanácté, hlavy první, bodu 17 zákona č. 30/2000 Sb., jímž byl změněn a doplněn občanský soudní řád (zákon č. 99/1963 Sb.), podle něhož dovolání proti rozhodnutím odvolacího soudu, vydaným přede dnem účinnosti tohoto zákona nebo vydaným
+po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodne se o nich podle dosavadních právních předpisů, tj. podle občanského soudního řádu
+ve znění před novelizací zákonem č. 30/2000 Sb.
+Dovolání bylo podáno osobou oprávněnou - účastníkem řízení (§ 240 odst. 1 o. s. ř.), zastoupeným advokátem a splňuje formální i obsahové znaky předepsané ustanovením § 241 odst. 2 o. s. ř.
+Nejvyšší soud České republiky, který jako soud dovolací (§ 10a o. s. ř.) věc projednal bez jednání (§ 243a odst. 1 věta první o. s. ř.), dospěl k závěru, že dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný.
+Dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští (§ 236 odst. 1 o. s. ř.). Občanský soudní řád tak činí v ustanoveních
+§ 237, § 238, § 238a a § 239 o. s. ř.
+Dovolání v této věci směřuje proti pravomocnému rozsudku odvolacího soudu, jímž byl rozsudek soudu prvního stupně ve výrocích o výživném obou žalovaných dětí vůči otci změněn. Z hlediska přípustnosti dovolání podle ustanovení § 238, § 238a
+a § 239 o.s.ř., u měnících výroků odvolacího soudu přichází v úvahu ustanovení § 238 odst. 1 písm. a) o.s.ř. Podle tohoto ustanovení je dovolání přípustné proti rozsudku odvolacího soudu, jímž byl rozsudek soudu prvního stupně ve věci samé změněn. To se však nevztahuje na rozsudky ve věcech upravených v zákoně o rodině, s výjimkou rozsudků o omezení nebo zbavení rodičovské zodpovědnosti nebo pozastavení jejího výkonu, určení (popření) otcovství nebo mateřství nebo nezrušitelného osvojení (§ 238 odst. 2 písm. b/ o.s.ř.).
+Se zřetelem k této zákonné úpravě přípustnosti dovolání proti rozsudku odvolacího soudu měnícímu rozsudek soudu prvního stupně ve věcech upravených zákonem o rodině, mezi něž patří i rozsudky upravující vyživovací povinnost dětí
+k rodičům (§ 87 zákona o rodině), aniž by posuzovaná věc byla výjimkou ve smyslu ustanovení § 238 odst. 2 písm. b/ o.s.ř., nelze učinit jiný závěr, než že pro povahu věci, v níž odvolací soud rozhodoval, dovolání ve smyslu ustanovení § 238, § 238a a § 239 o.s.ř. není přípustné.
+Proti každému rozhodnutí odvolacího soudu, bez zřetele na formu, výsledek rozhodnutí nebo předmět řízení (s výjimkou rozsudků, jimiž bylo vysloveno, že se manželství rozvádí, že je neplatné nebo, že zde není) je dovolání ve smyslu ustanovení § 237 odst. 1 o.s.ř. přípustné, jestliže dovoláním napadené rozhodnutí odvolacího soudu trpí některou z vad v tomto ustanovení výslovně uvedených. Ustanovení § 237 odst. 1 o.s.ř. tu spojuje přípustnost dovolání proti každému rozhodnutí odvolacího soudu
+(s výjimkami zakotvenými v odstavci druhém) s takovými hrubými vadami řízení
+a rozhodnutí, které činí rozhodnutí odvolacího soudu zmatečným. K takovýmto vadám dovolací soud přihlédne vždy z úřední povinnosti. Přípustnost dovolání však není založena již tím, že dovolatel příslušnou vadu řízení tvrdí, ale až zjištěním, že řízení takovou vadou skutečně trpí.
+Žalobcovy námitky v dovolání jsou z hlediska ustanovení § 237 odst. 1 o.s.ř. podřaditelné pod písm. f), podle něhož je dovolání přípustné proti rozhodnutí odvolacího soudu, jestliže účastníku řízení byla v průběhu řízení nesprávným postupem soudu odňata možnost jednat před soudem.
+Odnětím možnosti jednat před soudem se rozumí postup soudu, jímž znemožnil účastníku řízení realizaci procesních práv, která mu občanský soudní řád dává. O vadu, která je z hlediska § 237 odst. 1 písm. f) o.s.ř. významná, se přitom jedná jen tehdy, jestliže šlo o postup nesprávný (uvažováno z hlediska zachování postupu soudu určeného zákonem nebo dalšími obecně závaznými právními předpisy) a jestliže se postup soudu projevil v průběhu řízení a nikoli také při rozhodování. Rozhodne-li odvolací soud nesprávně, případné vady v postupu soudu při samotném rozhodování mohou být v dovolacím řízení přezkoumány jen tehdy, je-li dovolání přípustné podle
+§ 238, § 238a nebo § 239 o.s.ř.
+O takovéto odnětí možnosti jednat před soudem jde např. tehdy, jestliže odvolací soud rozhodl o odvolání bez nařízení jednání, ačkoli nešlo o případ uvedený v § 214 odst. 2 o.s.ř., jestliže účastník řízení nebyl přibrán do řízení (§ 94 odst. 2 o.s.ř.), jestliže soud věc projednal v rozporu s ustanovením § 101 odst. 2 o.s.ř. v nepřítomnosti účastníka, jestliže byl účastníku ustanoven podle § 29 odst. 2 o.s.ř. opatrovník, ačkoli k tomu nebyly důvody a žádná okolnost nebránila tomu, aby účastník byl předvolán k jednání apod.
+V souzené věci se však o takový případ nejedná. Z obsahu spisu plyne, že žalobce byl k jednáním před soudy obou stupňů řádně předvolán a také se jich osobně zúčastnil stejně, jako jeho zástupce. Měl možnost - a také ji využil - činit ve věci přednesy, návrhy na provedení důkazů, byl vyslechnut jako účastník řízení soudy obou stupňů a konečně využil možnosti činit závěrečné přednesy. Z obsahu protokolů
+o jednání soudů obou stupňů nevyplývá, že by žalobci nebylo umožněno klást dotazy druhému žalovanému. Žalobci, zastoupenému advokátem, nic nebránilo v tom, aby navrhl zaprotokolování takové skutečnosti, což neučinil. Tuto jeho námitku, kterou nelze objektivizovat, nutno proto pokládat za subjektivní tvrzení, jež není ničím doloženo. Žalobci nelze přisvědčit ani pokud soudům obou stupňů vytýká, že nebyly provedeny jím navržené důkazy. Podle ustanovení § 120 odst. 1 věty druhé o.s.ř. je výlučně věcí soudu, které z navrhovaných důkazů provede. Jestliže soud účastníkem navrhovaný důkaz neprovedl, nelze dovodit, že mu tím odňal možnost jednat
+před soudem, jak to má na mysli ustanovení § 237 odst. 1 písm. f) o.s.ř., neboť tato možnost nebyla uvedeným postupem soudu nijak dotčena (srv. též rozhodnutí
+pod pořadovým č. 24 zveřejněné v Bulletinu Vrchního soudu v Praze, ročník 1994, č. 2, str. 105 a násl.).
+Z uvedeného plyne, že rozsudek odvolacího soudu není vadou uvedenou v § 237 odst. 1 písm. f) o.s.ř. postižen. Protože dovolatel netvrdí a ani z obsahu spisu nevyplývá, že by byl postižen jinou vadou uvedenou v ustanovení § 237 odst. 1 písm. a) a e),
+písm. g) o.s.ř., je zřejmé, že dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný.
+Protože nejsou dány podmínky přípustnosti dovolání žalobce, Nejvyššímu soudu nezbylo, než je odmítnout (§ 243b odst. 4 věta první, § 218 odst. 1 písm. c/ o.s.ř.).
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 4 věta první, § 224 odst. 1 a § 151 odst. 1 věta první o.s.ř., neboť žalobce s ohledem na výsledek řízení na náhradu svých nákladů nemá právo a ostatním účastníkům v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 9. května 2006
+JUDr. Karel Podolka, v. r.
+předseda senátu
