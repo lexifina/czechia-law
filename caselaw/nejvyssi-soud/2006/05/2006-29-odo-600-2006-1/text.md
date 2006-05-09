@@ -1,0 +1,17 @@
+29 Odo 600/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobkyně L., s. r. o., proti žalované JUDr. J. Š., advokátce, jako správkyni konkursní podstaty úpadce J. K., za účasti úpadce jako vedlejšího účastníka řízení na straně žalované, o určení pravosti pohledávky, vedené u Městského soudu v Praze pod sp. zn. 50 Cm 25/99, o dovolání vedlejšího účastníka proti usnesení Vrchního soudu v Praze ze dne 6. srpna 2001, č. j. 4 Cmo 78/2000-28, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í :
+Městský soud v Praze usnesením ze dne 6. ledna 2000, č. j. 50 Cm 25/99-20, nepřipustil přistoupení úpadce J. K. (dále též jen „úpadce“) jako vedlejšího účastníka řízení na straně žalované do řízení (bod I. výroku) a řízení nepřerušil (bod II. výroku).
+K odvolání úpadce Vrchní soud v Praze usnesením ze dne 6. srpna 2001, č. j. 4 Cmo 78/2000-28, zrušil usnesení soudu prvního stupně ve výroku o nepřípustnosti vedlejšího účastenství a ohledně výroku o „nepřerušení“ řízení je potvrdil.
+Proti potvrzujícímu výroku usnesení odvolacího soudu podal vedlejší účastník včasné dovolání; při podání dovolání nebyl zastoupen advokátem, ani nedoložil, že má sám odpovídající právnické vzdělání.
+Podle bodu 17., hlavy první, části dvanácté, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (to jest podle občanského soudního řádu ve znění účinném před 1. lednem 2001 - dále též jen “o. s. ř.”). O takový případ jde i v posuzované věci, jelikož odvolací soud odvolání - ve shodě s bodem 15., hlavy první, části dvanácté, zákona č. 30/2000 Sb. - rovněž projednal a rozhodl o něm podle občanského soudního řádu ve znění účinném před 1. lednem 2001.
+Podle ustanovení § 241 odst. 1 o. s. ř., dovolatel musí být zastoupen advokátem, jestliže nemá právnické vzdělání buď sám nebo jeho zaměstnanec (člen), který za něj jedná. Z dovolání zastoupení dovolatele nevyplývá a jiné listiny, toto zastoupení nebo právnické vzdělání dovolatele prokazující, nebyly předloženy.
+Žádost dovolatele o ustanovení zástupce z řad advokátů soud prvního stupně zamítl usnesením ze dne 1. listopadu 2004, č. j. 16 Cm 226/2001-72 (dříve č. l. 71), ve spojení s potvrzujícím usnesením odvolacího soudu ze dne 11. července 2005, č. j. 13 Cmo 169/2005 87.
+Jelikož otázka ustanovení zástupce pro dovolací řízení byla konečným způsobem uzavřena posledně zmíněným usnesením odvolacího soudu, soud prvního stupně vyzval dovolatele usnesením ze dne 15. ledna 2006, č. j. 16 Cm 226/2001-103, aby do 15 dnů od doručení usnesení odstranil nedostatek povinného zastoupení, s tím, že jinak bude dovolací řízení zastaveno. Na tuto výzvu, doručenou mu 15. února 2006 (srov. doručenku u č. l. 103), dovolatel nereagoval
+Protože povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, bez jejíhož splnění nelze vydat - s výjimkou usnesení, jímž se dovolací řízení pro tento nedostatek zastavuje - rozhodnutí, kterým se řízení končí, a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu prvního stupně do dnešního dne nedošlo, Nejvyšší soud dovolací řízení podle § 104 odst. 2 a § 243c o. s. ř. zastavil.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 9. května 2006
+JUDr. Zdeněk Krčmář, v.r.
+předseda senátu
