@@ -1,0 +1,16 @@
+22 Cdo 1427/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jiřího Spáčila, CSc., a soudců JUDr. Františka Baláka a JUDr. Marie Rezkové ve věci žalobkyně L. S. proti žalovaným: 1) J. K. a 2) Katastrálnímu úřadu v H., o určení vlastnického práva, vedené u Okresního soudu v Hodoníně pod sp. zn. 16 C 1405/2004, o dovolání žalobkyně proti usnesení Krajského soudu v Brně ze dne 30. srpna 2005, č. j. 38 Co 324/2005-43, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků řízení nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Hodoníně („soud prvního stupně“) usnesením ze dne 6. září 2004, č. j. 16 C 1405/2004-16, zastavil podle § 104 odst. 1 věta prvá občanského soudního řádu (dále „OSŘ“) řízení o návrhu žalobkyně z 22. 6. 2004, kterým se domáhala určení vlastnického práva k blíže neurčeným pozemkům v katastru obce J. Krajský soud v Brně jako soud odvolací k odvolání žalobkyně usnesením ze dne 30. srpna 2005, č. j. 38 Co 324/2005-43, usnesení soudu prvního stupně ve vztahu k žalované 1) změnil tak, že „podání žalobkyně ze dne 22. 6. 2004 se odmítá, ve vztahu k žalovanému 2) se usnesení soudu prvního stupně potvrzuje“. Dále rozhodl o nákladech řízení.
+Proti usnesení odvolacího soudu podala žalobkyně, nezastoupená advokátem nebo notářem, včas dovolání. Soud prvního stupně ji usnesením ze 7. 3. 2006, č. j. 16 C 1405/2004-53, poučil ve smyslu § 241 OSŘ, specifikoval vady jejího postupu a vyzval ji, aby ve lhůtě 15 dnů od doručení tohoto usnesení vytknuté nedostatky svého podání odstranila. Současně ji upozornil, že nebude-li její podání řádně opraveno a doplněno, nebude možno v řízení dále pokračovat. Žalobkyně na uvedenou výzvu, která jí byla doručena 24. 3. 2006, ve stanové lhůtě nereagovala a nedostatky dovolání neodstranila.
+Podle § 241 odst. 1 OSŘ musí být dovolatel zastoupen advokátem nebo notářem. Notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštním předpisem. Podle § 241 odst. 2 OSŘ neplatí odstavec 1) kromě dalšího tehdy, je-li dovolatelem fyzická osoba, která má právnické vzdělání. Podle § 241 odst. 4 OSŘ musí být dovolání sepsáno, s výjimkou posléze zmíněnou, advokátem, notářem nebo osobou uvedenou v § 21, 21a, 21b, 26a odst. 3, která má právnické vzdělání. Z podaného dovolání zastoupení advokátem nebo notářem nevyplývá a jiné listiny toto zastoupení nebo právnické vzdělání dovolatelky prokazující nebyly předloženy. Dovolatelka nedostatek povinného zastoupení přes výzvu soudu prvního stupně neodstranila, ačkoliv byla o procesních následcích nesplnění této povinnosti poučena.
+Protože povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání rozhodnout ve věci samé (§ 241 odst. 1 OSŘ) a protože k odstranění tohoto nedostatku do dnešního dne nedošlo, Nejvyšší soud dovolací řízení podle § 243c odst. 1 a § 104 odst. 2 OSŘ zastavil.
+Výrok o náhradě nákladů dovolacího řízení byl učiněn v souladu s § 243b odst. 5,
+§ 224 odst. 1 a § 146 odst. 1 písm. c) OSŘ.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 24. května 2006
+JUDr. Jiří Spáčil, CSc.,v.r.
+předseda senátu
