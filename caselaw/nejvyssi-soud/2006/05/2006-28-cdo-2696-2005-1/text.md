@@ -1,0 +1,24 @@
+28 Cdo 2696/2005
+ČESKÁ REPUBLIKA
+ROZSUDEK
+JMÉNEM REPUBLIKY
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Ludvíka Davida, CSc. a soudců JUDr. Oldřicha Jehličky, CSc. a JUDr. Josefa Rakovského v právní věci žalobců a) J. S., b) M. S., obou zastoupených advokátem, proti žalovanému Městu D., zastoupenému advokátem, o zápis vlastnického práva do katastru nemovitostí, vedené u Krajského soudu v Ústí nad Labem pod sp.zn. 47 C 10/2003, o dovolání žalobců proti rozsudku Vrchního soudu v Praze ze dne 20.4.2005, čj. 11 Cmo 262/2004-69, takto:
+I. Dovolání se zamítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Vrchní soud v Praze rozsudkem výše uvedeným změnil rozsudek Krajského soudu v Ústí na Labem ze dne 19.4.2004, č.j. 47 C 10/2003-41, tak, že zamítl žalobu, aby byl ve prospěch žalobců povolen vklad vlastnického práva na základě kupní smlouvy ze dne 4.11.2002, uzavřené s městem D. jako prodávajícím, k domu čp. 23 v D., K. ul., spolu s pozemky parc. č. 1137 a 1139, vše v katastrálním území a obci D., dosud zapsáno na LV č. 10001 u katastrálního pracoviště v T.
+Vrchní soud v Praze rozhodoval ve věci, v níž Katastrální úřad pro Ú. kraj - katastrální pracoviště v T. (dříve Katastrální úřad v T.) zamítl žalobci podaný návrh na vklad vlastnického práva ke shora uvedeným nemovitostem. Zastupitelstvo obce D. přitom kupní smlouvu mezi účastníky schválilo. Soud prvního stupně žalobcům, kteří podali žalobu podle § 244 a násl. o. s. ř., přisvědčil. Podle odvolacího soudu však obec při svém postupu nedodržela, a to v několika směrech, ustanovení zákona č. 128/2000 Sb., o obcích (obecní zřízení).
+Proti rozsudku odvolacího soudu podali žalobci dovolání, v němž odvolacímu soudu vytkli nesprávné právní posouzení věci. Zdůraznili souhlas obecního zastupitelstva se smlouvou; bývalá starostka byla poté oprávněna kupní smlouvu podepsat, neboť šlo – i po dalších volbách – o zajištění nezbytného úkolu, vyplývajícího z její pravomoci. Splněna byla, a sice postupem obce i obecního zastupitelstva, i podmínka zveřejnění záměru nemovitosti prodat. Dovolatelé navrhli, aby dovolací soud zrušil rozsudek odvolacího soudu a věc mu vrátil k dalšímu řízení.
+Žalovaný se k podanému dovolání nevyjádřil.
+Dovolání žalobců bylo podáno včas a prostřednictvím advokáta, a jeho přípustnost byla založena diformitou rozsudků nižších instancí (§ 237 odst. 1 písm. a/ o. s. ř.).
+Dovolání však není opodstatněné.
+Odvolací soud nepochybil ve svém právním posouzení věci, přičemž jeho závěry o nedostatcích postupu žalovaného při projednávání předmětné kupní smlouvy jsou přesvědčivě zdůvodněny.
+Podle § 85 písm. a/ zákona č. 128/2000 Sb. je rozhodování o převodu nemovitostí z vlastnictví obce svěřeno zastupitelstvu obce; obec je však podle § 39 odst. 1 a § 41 téhož zákona povinna svůj záměr prodeje nemovitého majetku zveřejnit po dobu nejméně 15 dnů před rozhodnutím zastupitelstva. Zveřejnění se děje vyvěšením na úřední desce obecního úřadu, aby došlo k seznámení se veřejnosti se záměrem prodeje a případné realizaci možnosti předložit nabídky ze strany jiných zájemců. Způsob publikace záměru prodeje však vykazoval v posuzované věci závažné vady; první zveřejnění dne 4. 3. 2002 uvádělo jen „seznam domů“ (dříve dne 19. 2. k prodeji zastupitelstvem schválený) a kupní cenu předmětných nemovitostí bez výslovného uvedení obou parcel, a druhá upřesňující publikace prodejního záměru ze dne 2. 10. 2002 byla provedena již po souhlasu zastupitelstva ze dne 30. 9. 2002. Ten byl učiněn „se zveřejněním záměru prodat obytný dům… za cenu pozemku a po sejmutí prodat žadateli ing. S.“. Je tedy navíc zřejmé, že publikace tu byla provedena jen formálně, v době, kdy již o kupujícím bylo rozhodnuto.
+Podle § 55 odst. 1 písm. d/ zákona č. 152/1994 Sb., o volbách do zastupitelstev v obcích, zaniká mandát starosty dnem nových voleb do zastupitelstva obce. V meziobdobí od voleb do ustavujícího zasedání nově zvoleného zastupitelstva zabezpečuje dosavadní starosta pouze úkoly explicitně vymezené v § 107 odst. 1 písm. a/ až c/ zákona č. 128/2000 Sb. Mezi těmito úkony není uvedeno nakládání s nemovitostmi (ani jeho stvrzení navenek), jež náleží podle již zmíněného § 85 písm. a/ posledně citovaného zákona do výlučné působnosti obecního zastupitelstva.
+Takto konstatované vady postupu obce, jak byly posouzeny na základě výsledků dokazování před nižšími instancemi, vedou oprávněně k závěru o absolutní neplatnosti kupní smlouvy ze dne 4. 11. 2002, a to pro rozpor se zákonem ve smyslu § 39 občanského zákoníku.
+Odvolací soud tedy rozhodl správně a dovolací soud proto dovolání žalobců podle § 243b odst. 2 o. s. ř. zamítl.
+Straně žalované nevznikly v řízení o dovolání žádné náklady.
+Proti tomuto rozsudku není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 26. května 2006
+JUDr. Ludvík David, CSc., v. r.
+předseda senátu
