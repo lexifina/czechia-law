@@ -1,0 +1,16 @@
+32 Odo 587/2006
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Dese a soudců JUDr. Kateřiny Hornochové a JUDr. Miroslava Galluse ve věci žalobce J. K., proti žalovanému J. E., o vydání předběžného opatření, vedené u Krajského soudu v Ostravě pod sp. zn. Nc 38/2005, o dovolání žalobce proti usnesení Vrchního soudu v Olomouci ze dne 14. března 2006 č. j. 2 Cmo 61/2006-19, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Krajský soud v Ostravě usnesením ze dne 30. prosince 2005 č. j. Nc 38/2005-7 odmítl návrh žalobce na vydání předběžného opatření ve znění, jak je ve výroku usnesení soudu prvního stupně uvedeno, a rozhodl o náhradě nákladů řízení. Svoje rozhodnutí odůvodnil soud prvního stupně tím, že žalobce nesložil jistotu podle § 75b odst. 1 občanského soudního řádu (dále jen „o. s. ř.“).
+Usnesením ze dne 14. března 2006 č. j. 2 Cmo 61/2006-19 Vrchní soud v Olomouci usnesení soudu prvního stupně potvrdil a rozhodl o náhradě nákladů odvolacího řízení. Odvolací soud se ztotožnil s názorem soudu prvního stupně, že žalobce nesplnil svou povinnost danou mu § 75b odst. 1 o. s. ř., protože nejpozději ve stejný den, kdy u soudu podal návrh na nařízení předběžného opatření, nesložil zákonem určenou jistotu. Nejednalo se přitom v dané věci o žádný z případů uvedených v § 75b odst. 3 o. s. ř., stanovících výjimky z uvedené povinnosti navrhovatele předběžného opatření složit jistotu podle odstavce 1 tohoto ustanovení.
+Proti usnesení odvolacího soudu podal žalobce dovolání, ve kterém navrhl zrušení rozhodnutí odvolacího soudu i soudu prvního stupně, a to pro jejich zmatečnost. Nařízení navrženého předběžného opatření považuje za nezbytné pro realizaci svých práv uplatněných v jiných soudních řízeních.
+Dovolání v dané věci není přípustné.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Proti usnesení odvolacího soudu je dovolání přípustné za podmínek stanovených v § 237 o. s. ř., pokud bylo odvolacím soudem rozhodováno ve věci samé. O takový případ se v této věci nejedná.
+Dovolání proti usnesení odvolacího soudu je dále přípustné podle § 238 o. s. ř., musí se však jednat o usnesení odvolacího soudu, kterým odvolací soud potvrdil nebo změnil usnesení soudu prvního stupně, kterým bylo rozhodnuto o žalobě na obnovu řízení nebo o zamítnutí návrhu na změnu rozhodnutí po povolení obnovy řízení. V dalších taxativně vymezených věcech (např. ve věci konkurzu a vyrovnání, ve věci výkonu rozhodnutí, apod.) je dovolání přípustné podle § 238a o. s. ř. Z žádného ustanovení (a to ani z ustanovení § 239 o. s. ř.) však nevyplývá přípustnost dovolání proti usnesení odvolacího soudu, kterým bylo odmítnuto odvolání podané proti usnesení o odmítnutí návrhu na vydání předběžného opatření. Za této situace je nepochybné, že dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný.
+Nejvyšší soud České republiky proto dovolání žalobce – aniž by se mohl věcí dále zabývat – podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 31. května 2006
+JUDr. Zdeněk Des
+předseda senátu
