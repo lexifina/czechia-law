@@ -1,0 +1,15 @@
+20 Cdo 2856/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Vladimíra Mikuška a soudců JUDr. Marie Vokřinkové a JUDr. Miroslavy Jirmanové v exekuční věci oprávněné městské části P., zastoupené advokátem, proti povinným 1) R. D., 2) R. P., pro vyklizení bytu a pro 3.300,- Kč, vedené u Obvodního soudu pro Prahu 9 pod sp. zn. 25 Nc 11299/2003, o dovolání povinného 1) proti usnesení Městského soudu v Praze ze dne 23. 7. 2004, č.j. 29 Co 332/2004-23, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í :
+Povinný 1) napadl dovoláním v záhlaví uvedené rozhodnutí, kterým městský soud potvrdil usnesení ze dne 5. 9. 2003, č.j. 25 Nc 11299//2003-12, jímž Obvodní soud pro Prahu 9 nařídil podle svého rozsudku ze dne 14. 9. 2002, č.j. 19 C 146/99-43, ve spojení s rozsudkem Městského soudu v Praze ze dne 15. 10. 2002, č.j. 15 Co 259/2002-70, exekuci vyklizením označeného bytu a k vymožení pohledávky 3.300,- Kč (nákladů předcházejícího řízení); provedením exekuce pověřil JUDr. I. Š., soudní exekutorku.
+Je-li dovolatelem – jako v projednávaném případě – fyzická osoba, je nezbytné, aby (nemá-li právnické vzdělání) byl zastoupen advokátem (notářem), jímž musí být dovolání i sepsáno (srov. § 241 odst l, odst. 2 písm. a/, odst. 4 zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů, dále jen „o.s.ř.“).
+Protože dovolatel nebyl při podání dovolání (mimo jiné vady) zákonem stanoveným způsobem zastoupen a z obsahu spisu nevyplývá, že by měl právnické vzdělání, soud prvního stupně ho usnesením ze dne 8. 4. 2005, č.j. 25 Nc 11299/2003-33, vyzval, aby si do deseti dnů od doručení rozhodnutí zvolil pro dovolací řízení zmocněncem advokáta a aby jeho prostřednictvím podal řádné dovolání; současně ho poučil o tom, že dovolací řízení bude zastaveno, nevyhoví-li výzvě. Dovolatel byl též poučen o možnosti požádat o ustanovení právního zástupce podle § 30 o.s.ř.
+Dovolatel podáním ze dne 6. 6. 2005 požádal o ustanovení advokáta. O jeho žádosti bylo rozhodnuto usnesením Obvodního soudu pro Prahu 9 ze dne 5. 9. 2005, č.j. 25 Nc 11299/2003-41, tak, že se povinnému 1) zástupce z řad advokátů pro dovolací řízení neustanovuje. Vytýkané nedostatky dovolání nebyly povinným 1) do dnešního dne odstraněny.
+Jelikož povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – vyjma usnesení, jímž se dovolací řízení právě pro jeho neodstranění zastavuje – vydání rozhodnutí, kterým se řízení končí (§ 241 o.s.ř.), a protože ke zhojení uvedeného nedostatku přes opatření soudu nedošlo, Nejvyšší soud dovolací řízení zastavil (§ 104 odst. 2, § 243c odst. 1 o.s.ř.).
+O náhradě nákladů dovolacího řízení bude rozhodnuto podle ustanovení hlavy VI. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 31. května 2006
+JUDr. Vladimír M i k u š e k , v. r.
+předseda senátu
