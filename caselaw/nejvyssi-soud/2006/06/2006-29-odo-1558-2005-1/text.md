@@ -1,0 +1,23 @@
+29 Odo 1558/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedkyně JUDr. Ivany Štenglové a soudců JUDr. Františka Faldyny, CSc. a JUDr. Hany Gajdziokové o návrhu na povolení změny zápisu M., spol. s r. o., za účasti 1. B. M., a 2. O. L., do obchodního rejstříku, vedené u Městského soudu v Praze pod sp. zn. C 33520, o dovolání B. M., proti usnesení Vrchního soudu v Praze ze dne 22. března 2005, č. j. 14 Cmo 425/2004-97, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Napadeným usnesením potvrdil odvolací soud usnesení Městského soudu v Praze ze dne 9. září 2004, č. j. F 99967/2004, C 33520/1-78, kterým tento soud rozhodl o výmazu B. M. jako jednatele M., spol. s r. o. (dále jen „společnost“) a o zápisu O. L. jako jednatele společnosti.
+V odůvodnění rozhodnutí odvolací soud uvedl, že z notářského zápisu N 557/2004, NZ 485/2004 zjistil, že pod bodem III. rozhodla valná hromada společnosti o odvolání jednatelů A. G. a B. M. a jmenování jednatele O. L. Odvolací soud konstatoval, že soud prvního stupně učinil správné skutkové i právní závěry, pokud návrhu vyhověl, neboť byly doloženy všechny předpoklady potřebné pro povolení takového zápisu.
+K námitce B. M., že napadá platnost usnesení valné hromady v samostatném soudním řízení odvolací soud uvedl, že v odvolání ani neuvedl důvody, pro které by mělo být usnesení neplatné. Pokud však bude soudem vyslovena neplatnost usnesení, na jehož základě byl zápis povolen, bude takové rozhodnutí podkladem pro změnu zápisu. K návrhu odvolatele na přerušení řízení odvolací soud uzavřel, že z ustanovení § 106 odst. 2 písm. c) občanského soudního řádu (dále jen „o. s. ř.“) vyplývá, že přerušení rejstříkového řízení není možné.
+Proti usnesení odvolacího soudu podal B. M. dovolání. Co do jeho důvodu odkázal na ustanovení § 241a odst. 2 písm. b) o. s. ř.
+Dovolatel tvrdí, že odvolací soud nezhodnotil správně notářský zápis, který byl podkladem ke změnám zápisu společnosti v obchodním rejstříku a to s přihlédnutím k předpokladům, které jsou součástí notářského zápisu. Konkrétně poukazuje na to, že z plné moci udělené M. V. dne 19. května 2004, společnicí společnosti A. G. a jejím společníkem A. G. vyplývá, že zmocněnec byl zmocněn pouze k odvolání dosavadního jednatele, ale nikoli k odvolání dosavadních jednatelů, což učinil na valné hromadě, o níž byl notářský zápis sepsán. Měl tudíž být odvolán pouze jeden jednatel, nikoli jednatelé dva. Dále dovolatel dovozuje, že na základě takto obecně formulovaného zmocnění, pod kterým není uvedeno k odvolání kterého jednatele je zmocněnec zmocněn, nelze vůbec odvolání jednatele provést, má-li navrhovatelka zapsány dva jednatele.
+Dovolatel navrhuje, aby Nejvyšší soud odložil vykonatelnost usnesení soudů obou stupňů a obě usnesení zrušil.
+Dovolání není přípustné.
+Vzhledem k tomu, že v projednávané věci je usnesení soudu prvního stupně jeho prvním rozhodnutím ve věci samé, přičemž nejde o žádné z usnesení, ohledně kterých zakládá přípustnost dovolání ustanovení § 238 až § 239 o. s. ř., připadá v úvahu pouze přípustnost dovolání podle ustanovení § 237 odst. 1 písm. c) o. s. ř.
+Předpokladem přípustnosti dovolání podle § 237 odst. 1 písm. c) o. s. ř. je závěr dovolacího soudu, že rozhodnutí odvolacího soudu nebo některá v něm řešená právní otázka, mají po právní stránce zásadní význam. Dovolání ve smyslu citovaného ustanovení je tedy přípustné jen tehdy, jde-li o řešení právní otázky; jiné otázky, zejména posouzení správnosti nebo úplnosti skutkových zjištění, či namítané vady řízení přípustnost dovolání podle § 237 odst. 1 písm. c) o. s. ř. založit nemohou.
+V projednávané věci sice dovolatel tvrdí, že dovolacím důvodem je nesprávné právní posouzení, v odůvodnění dovolání však brojí pouze proti závěru odvolacího soudu že společnost doložila všechny předpoklady potřebné pro povolení požadovaného zápisu, když namítá, že nedoložila plné moci opravňující zmocněnce společníků odvolat oba jednatele společnosti z funkcí.
+Takový dovolací důvod ovšem v případě posuzování přípustnosti dovolání podle ustanovení § 237 odst. 1 písm. c) o. s. ř., jak shora uvedeno, přípustnost dovolání nezakládá.
+Podle ustanovení § 237 odst. 1 písm. c) o. s. ř. proto dovolání přípustné není. Protože dovolací soud neshledal ani jiný důvod přípustnosti dovolání, podle ustanovení § 243b odst. 5 a § 218 písm. c) o. s. ř. je odmítl.
+O náhradě nákladů řízení rozhodl dovolací soud podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 1 písm. a) o. s. ř.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 6. června 2006
+JUDr. Ivana Štenglová, v.r.
+předsedkyně senátu
