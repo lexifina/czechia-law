@@ -1,0 +1,34 @@
+3 Tdo 592/2006
+U S N E S E N Í
+Nejvyšší soud České republiky projednal v neveřejném zasedání konaném dne 7. června 2006 dovolání obviněného M. K., proti usnesení Krajského soudu v Ústí nad Labem – pobočka v Liberci, ze dne 20. 1. 2006, sp. zn. 31 To 480/2005, jako soudu odvolacího v trestní věci vedené u Okresního soudu v České Lípě pod sp. zn. 2 T 120/2005, a rozhodl t a k t o :
+Dovolání M. K. se podle § 265i odst. 1 písm. b) tr. řádu o d m í t á .
+O d ů v o d n ě n í :
+Rozsudkem Okresního soudu v České Lípě ze dne 15. 11. 2005, sp. zn. 2 T 120/2005, byl obviněný M. K. uznán vinným
+1) – trestnými činy ublížení na zdraví podle § 221 odst. 1 tr. zákona, neposkytnutí pomoci podle § 208 tr. zákona a krádeže podle § 247 odst. 1 písm. e) tr. zákona,
+2) – trestným činem neoprávněného užívání cizí věci podle § 249 odst. 1 tr. zákona,
+3) – trestným činem výtržnictví podle § 202 odst. 1 tr. zákona,
+4) - trestným činem ublížení na zdraví podle § 224 odst. 1, 2 tr. zákona,
+5) – trestnými činy výtržnictví podle § 202 odst. 1 tr. zákona a násilí proti skupině obyvatelů a proti jednotlivci podle § 197a odst. 1 tr. zákona,
+6) – trestným činem zpronevěry podle § 248 odst.1 tr. zákona,
+7) – trestným činem násilí proti skupině obyvatelů a proti jednotlivci podle § 197a odst. 1 tr. zákona,
+8) – trestným činem loupeže podle § 234 odst. 1 tr. zákona,
+9) – trestným činem úvěrového podvodu podle § 250b odst. 1 tr. zákona.
+Za tyto trestné činy byl podle § 234 odst. 1 tr. zákona za použití § 35 odst. 1 tr. zákona odsouzen k úhrnnému trestu odnětí svobody v trvání 6 let, pro jehož výkon byl podle § 39a odst. 2 písm. c) tr. zákona zařazen do věznice s ostrahou. Podle § 49 odst. 1 a § 50 odst. 1 tr. zákona mu byl dále uložen trest zákazu činnosti spočívající v zákazu řízení všech motorových vozidel na dobu 5 let.
+Součástí uvedeného rozsudku ve vztahu k tomuto obviněnému je i výrok soudu o povinnosti k náhradě škody, dále o odkázání poškozených na řízení ve věcech občanskoprávních a dále výrok o zproštění M. K. obžaloby z dalších dvou skutků.
+Podkladem výroku o vině se stalo zjištění soudu prvního stupně podrobně uvedené ve výroku uvedeného rozsudku pod body 1) – 9).
+Uvedený rozsudek nenabyl bezprostředně právní moci, neboť proti němu podal obviněný odvolání, kterým se zabýval ve veřejném zasedání konaném dne 20. 1. 2006 Krajský soud v Ústí nad Labem – pobočka v Liberci. Ten svým usnesením sp. zn. 31 T 480/2005 odvolání obviněného podle § 256 tr. řádu zamítl.
+Prostřednictvím svého obhájce podal obviněný proti usnesení Krajského soudu v Ústí nad Labem – pobočka v Liberci, ve spojení s rozsudkem Okresního soudu v České Lípě dovolání, ve kterém napadá rozhodnutí soudu druhého stupně s odkazem na dovolací důvod podle § 265b odst. 1 písm. g) tr. řádu.
+Z odůvodnění mimořádného opravného prostředku obviněného vyplývá, že námitky dovolatele směřují proti výroku o vině pod bodem č. 8 odsuzujícího rozsudku, tedy o vině trestným činem loupeže podle § 234 odst. 1 tr. zákona. Dovolatel tvrdí, že se na poškozeném C. R. žádného trestného činu loupeže nedopustil, že peněženku s hotovostí 950,- Kč a osobními doklady mu vytrhnul ze zadní kapsy kalhot bez použití násilí či jiného fyzického kontaktu s jeho osobou. K tomu uvádí i další podrobnosti skutkového charakteru. Na základě svých skutkových tvrzení vyslovuje názor, že za zmíněný skutek měl být uznán vinným trestným činem krádeže podle § 247 odst. 1 písm. d) tr. zákona.
+V petitu svého dovolání navrhuje, aby Nejvyšší soud České republiky zrušil rozhodnutí soudu druhého stupně a aby věc přikázal tomuto soudu k novému projednání a rozhodnutí.
+K podanému dovolání se písemně vyjádřila státní zástupkyně Nejvyššího státního zastupitelství. Vyslovuje souhlas s právní kvalifikací zmíněného skutku ze strany soudů obou stupňů, dovolání proto považuje za zjevně neopodstatněné a navrhuje jeho odmítnutí podle § 265i odst. 1 písm. e) tr. řádu.
+Nejvyšší soud České republiky (dále jen Nejvyšší soud) jako soud dovolací nejprve zkoumal, zda jsou v dané věci splněny podmínky přípustnosti podle § 265a tr. řádu a shledal, že dovolání je přípustné podle § 265a odst. 1, odst. 2 písm. a), h) tr. řádu, protože bylo rozhodnuto ve druhém stupni, dovolání napadá pravomocné rozhodnutí soudu ve věci samé, směřuje proti rozsudku, jímž byl obviněný uznán vinným a odvolacím soudem byl zamítnut jeho řádný opravný prostředek. Obviněný je rovněž osobou oprávněnou k podání tohoto mimořádného opravného prostředku.
+Protože dovolání lze podat jen z důvodů uvedených v ustanoveních § 265b tr. řádu, bylo dále zapotřebí posoudit otázku, zda uplatněný dovolací důvod lze považovat za důvod uvedený v citovaném ustanovení zákona, jehož existence je zároveň podmínkou provedení přezkumu napadeného rozhodnutí dovolacím soudem (§ 265i odst. 3 tr. řádu).
+Dovolací důvod podle § 265b odst. 1 písm. g) tr. řádu je dán tehdy, jestliže je napadené rozhodnutí založeno na nesprávném právním posouzení skutku nebo jiném nesprávném hmotně právním posouzení.
+V posuzovaném případě je zcela zjevné, že výše uvedený dovolací důvod byl obviněným v jeho mimořádném opravném prostředku uplatněn ryze formálně, aniž by tomuto dovolacímu důvodu obsah námitek obviněného jakýmkoliv způsobem odpovídal. Z námitek dovolatele je totiž zřejmé, že jejich smyslem je revize a přehodnocení samotných skutkových zjištění soudu a teprve v závislosti na tom i přehodnocení právního posouzení. I když formálně se dovolatel snaží vyvolat dojem, že namítá pochybení soudů při právním posouzení skutku, když jeho jednání bylo kvalifikováno jako loupež, zatímco on je přesvědčen, že mělo být kvalifikováno jako krádež, jde však fakticky o námitky proti způsobu hodnocení důkazů v rámci zjišťování skutkového stavu a tedy proti skutkovým zjištěním soudu.
+Dovolání jako specifický druh mimořádného opravného prostředku však není určeno k přezkumu skutkových zjištění soudů prvního a druhého stupně, dovolací soud není soudem třetí instance, naopak skutková zjištění jsou pro dovolací soud závazná.
+Za takového stavu věci nezbylo Nejvyššímu soudu než konstatovat, že dovolání bylo podáno z jiného než z některého ze zákonných dovolacích důvodů.
+Podle § 265i odst. 1 písm. b) tr. řádu Nejvyšší soud dovolání odmítne, bylo-li podáno z jiného důvodu, než je uveden v § 265b tr. řádu. Vzhledem k tomu, že Nejvyšší soud v projednávaném případě shledal, že obsah dovolání není v souladu s uplatněnými dovolacími důvody, jakož ani s jiným ze zákonných důvodů uvedených v zákoně, rozhodl v souladu s výše citovaným ustanovením zákona tak, že se dovolání M. K. odmítá. Za podmínek § 265r odst. 1 písm. a) tr. řádu bylo o odmítnutí dovolání rozhodnuto v neveřejném zasedání.
+Poučení: Proti rozhodnutí o dovolání není s výjimkou obnovy řízení opravný prostředek přípustný (§ 265n tr. řádu).
+V Brně dne 7. června 2006
+Předseda senátu:
+Mgr. Josef H e n d r y c h
