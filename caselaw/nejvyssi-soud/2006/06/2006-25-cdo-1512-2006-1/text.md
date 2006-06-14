@@ -1,0 +1,17 @@
+25 Cdo 1512/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedkyně JUDr. Marty Škárové a soudců JUDr. Petra Vojtka a JUDr. Jana Eliáše, Ph.D. v právní věci žalobkyně E. V., zastoupené advokátkou, proti žalovanému městu P., zastoupenému advokátkou, o náhradu škody na zdraví ve výši 29.767,- Kč s příslušenstvím, vedené u Okresního soudu v Kolíně pod sp. zn. 8 C 1496/2002, k dovolání žalobkyně proti rozsudku Krajského soudu v Praze ze dne 22. listopadu 2005, č. j. 22 Co 341/2005-99, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Proti shora označenému rozhodnutí, jímž Krajský soud v Praze potvrdil, ve výroku o věci samé, rozsudek Okresního soudu v Kolíně ze dne 11. 2. 2005, č. j. 18 C 1496/2002-86, kterým byla žaloba na zaplacení částky 29.767,- Kč s příslušenstvím zamítnuta, změnil jej ve výroku o nákladech řízení a rozhodl o nákladech odvolacího řízení, podala žalobkyně dovolání, jež trpělo nedostatky bránícími dalšímu pokračování dovolacího řízení (absence podpisu na dovolání ) a nebylo sepsáno advokátem, přičemž ze spisu nevyplývalo, že by žalobkyně byla právnicky vzdělána.
+Soud prvního stupně ji usneseními ze dne 16. 3. 2006, č. j. 8 C 1496/2002-115 a 8 C 1496/2002-116 (doručena dne 3. 4. 2006), vyzval, aby dovolání vlastnoručně podepsala a pokud nedoloží doklady o svém právnickém vzdělání, aby si pro podání dovolání v této věci zvolila zástupce z řad advokátů, jehož prostřednictvím by podala řádné dovolání proti napadenému rozsudku Krajského soudu v Praze; zároveň ji poučil, že nevyhoví–li ve stanovené lhůtě výzvě směřující k naplnění podmínky zakotvené v ustanovení § 241 o.s.ř., Nejvyšší soud ČR dovolací řízení nezastaví.
+Žalobkyně tyto výzvy ponechala bez odezvy.
+Podle ustanovení § 241 odst. 1, 2, písm. a), odst. 4 o.s.ř., ve znění účinném do 31. 3. 2005, dovolatel (fyzická osoba), nemá–li právnické vzdělání, musí být zastoupen advokátem nebo notářem, jenž musí dovolání také sepsat. Zvolí-li si advokáta až poté, co sám podal dovolání, je ke splnění podmínky dovolatelova zastoupení nezbytné, aby zmocněnec (advokát) jím dříve učiněné podání nahradil nebo doplnil vlastním, popřípadě sdělil soudu, že se s již učiněným podáním ztotožňuje.
+Protože podmínka povinného zastoupení dovolatele v dovolacím řízení (k jejímuž splnění je třeba i sepisu dovolání advokátem, viz usnesení Nejvyššího soudu ČR ze dne 27. 5. 1999, sp. zn. 26 Cdo 1121/99, uveřejněné v časopise Soudní judikatura č. 6, roč. 2000 pod č. 64) je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – kromě usnesení, kterým se dovolací řízení právě pro neodstranění tohoto nedostatku zastavuje – vydání rozhodnutí, jímž se řízení končí (§ 241 odst. 1 o.s.ř.), a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu nedošlo, Nejvyšší soud ČR řízení o dovolání podle ustanovení § 104 odst. 2 a
+§ 243c odst. 1 o.s.ř. zastavil.
+Dovolatelka z procesního hlediska zavinila, že dovolací řízení bylo zastaveno, žalovanému však prokazatelné náklady tohoto řízení, na jejíž náhradu by jinak měl podle ustanovení § 146 odst. 2, věty prvé, § 224 odst. 1 a § 243b odst. 5, věty prvé o.s.ř právo, (podle obsahu spisu) nevznikly; této procesní situaci odpovídá výrok, že na náhradu nákladů dovolacího řízení nemá právo žádný z účastníků.
+Poučení: Proti tomuto usnesení není přípustný opravný prostředek
+V Brně dne 14. června 2006
+JUDr. Marta Škárová
+předsedkyně senátu
