@@ -1,0 +1,22 @@
+30 Nd 112/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy
+JUDr. Karla Podolky a soudců JUDr. Olgy Puškinové a JUDr. Pavla Pavlíka ve věci žalobkyň a) V. P., b) J. V., c) D. N., d) J. P., všech zastoupených advokátkou, proti žalované České republice – Ministerstvu zemědělství, se sídlem v Praze 1 – Nové Město, Těšnov 17, za účasti D. L., zastoupené advokátem, jako vedlejšího účastníka na straně žalované,
+o 45.202,- Kč s přísl., vedené u Obvodního soudu pro Prahu 1 pod sp.zn. 22 C 290/2005, o návrhu na přikázání věci z důvodu vhodnosti, takto:
+Věc, vedená dosud u Obvodního soudu pro Prahu 1, se nepřikazuje k projednání a rozhodnutí Okresnímu soudu v Šumperku.
+O d ů v o d n ě n í :
+Vedlejší účastnice navrhuje přikázání věci Okresnímu soudu v Šumperku z důvodu vhodnosti. Připouští, že obecným soudem podle místa žalované je sice Obvodní soud pro Prahu 1, ale s výjimkou žalované bydlí všichni ostatní účastníci řízení v obvodu Okresního soudu v Šumperku, u kterého probíhaly i probíhají veškeré spory mezi vedlejší účastnicí a žalovanými. Lze předpokládat, že i potřeba dokazování – případně znalecký posudek – bude prováděna v obvodu Okresního soudu v Šumperku.
+Žalovaná sdělila, že proti zamýšlenému přikázání věci nemá námitek.
+Žalobkyně vyjadřují nesouhlas s přikázáním věci Okresnímu soudu v Šumperku. Mají zato, že delegace věci by měla být výjimkou ze zásady projednávat věc před obecně příslušným soudem, který je soud v místě sídla odpůrce, který by měl rozhodovat pro objektivnější posouzení věci.
+Podle § 12 odst. 2 o.s.ř. věc může být přikázána jinému soudu téhož stupně z důvodu vhodnosti. O přikázání věci rozhoduje soud, který je nejblíže společně nadřízen příslušnému soudu, jemuž má být věc přikázána. Účastníci mají právo vyjádřit se k tomu, kterému soudu má být věc přikázána a v případě odst. 2 též k důvodu,
+pro který by měla být věc přikázána (§ 12 odst. 3 o.s.ř.).
+Předpokladem přikázání věci z důvodu vhodnosti podle § 12 odst. 2 o.s.ř. je typicky existence okolností, které umožňují hospodárnější a rychlejší projednání věci. Přitom je ale třeba mít na zřeteli, že obecná místní příslušnost soudu, který má podle zákona věc projednat (v daném případě místní příslušnost stanovená § 84 a § 85 odst. 3 o.s.ř.), je základní zásadou a že případná delegace této příslušnosti jinému soudu je toliko výjimkou z této zásady, kterou je nutno – právě proto, že jde o výjimku – vykládat restriktivně (srov. nález Ústavního soudu České republiky ze dne 15.11.2001, sp.zn. I. ÚS 144/2000).
+K přikázání věci jinému než příslušnému soudu by tak mělo docházet pouze výjimečně, a to ze závažných důvodů, neboť je uplatňováno jako výjimka z ústavně zaručené zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon (čl. 38 odst. 1 Listiny základních práv a svobod). Důvody pro odnětí věci příslušnému soudu a její přikázání jinému soudu tedy musí být natolik významné, aby dostatečně odůvodňovaly průlom do citovaného ústavního principu.
+O takový případ se v projednávané věci nejedná. Důvodem, aby věc byla přikázána soudu, v jehož obvodu bydlí žalobkyně a vedlejší účastnice na straně žalované, nemůže být toliko jejich bydliště, nýbrž takové okolnosti, z nichž lze spolehlivě dovodit, že jiným než příslušným soudem bude věc projednána hospodárněji a rychleji. Ani vedlejší účastnice netvrdí, že by zde byly takové okolnosti, které
+by bránily tomu, aby se ona sama či žalobkyně mohly dostavit k tomuto soudu, nehledě na to, že v takovém případě je možno tyto fyzické osoby vyslechnout prostřednictvím dožádaného soudu podle místa jejich bydliště. Stejně tak lze prostřednictvím dožádaného soudu provést potřebné důkazy včetně případného znaleckého posudku, jak to ostatně uvádí vedlejší účastnice ve svém návrhu. To platí i ohledně provedení důkazu obsahem spisů Okresního soudu v Šumperku ve věcech, jež byly nebo jsou vedeny mezi vedlejší účastnicí a žalobkyněmi.
+Přikázáním věci Okresnímu soudu v Šumperku, byť v jeho obvodu bydlí žalobkyně a vedlejší účastnice na straně žalované, by nebylo dosaženo hospodárnějšího, rychlejšího a ani po skutkové stránce důkladnějšího projednání věci.
+Nejvyšší soud ČR proto návrhu na přikázání věci Okresnímu soudu v Šumperku podle § 12 odst. 2 o.s.ř. nevyhověl.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 14. června 2006
+JUDr. Karel Podolka, v. r.
+předseda senátu
