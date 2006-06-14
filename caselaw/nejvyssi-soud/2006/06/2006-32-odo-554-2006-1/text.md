@@ -1,0 +1,18 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+32 Odo 554/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Kateřiny Hornochové a soudců JUDr. Zdeňka Dese a JUDr. Miroslava Galluse v právní věci žalobkyně M., spol. s r.o., proti žalovanému V. B., o zaplacení 11.346,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 17 C 48/2002, o dovolání žalovaného proti usnesení Městského soudu v Praze ze dne 5. ledna 2004 č.j. 13 Co 318/2003-56, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Praze usnesením ze dne 5. ledna 2004 č.j. 13 Co 318/2003-56 připustil, aby na místo žalobkyně O., spol. s r.o. vstoupila do řízení nabyvatelka práva obchodní společnost M., spol. s r.o. V odvolacím řízení uplatnila žalobkyně O., spol. s r.o. procesní nástupnictví, když navrhla, aby na její místo do řízení vstoupila nabyvatelka práva – společnost M., spol. s r.o., která souhlasila se vstupem do řízení. Žalobkyně současně doložila, že došlo k uzavření smlouvy o prodeji podniku uvedené společnosti. Proto odvolací soud s poukazem na ustanovení § 107a občanského soudního řádu (dále jen „o. s. ř.“) návrhu žalobkyně vyhověl.
+Proti rozsudku odvolacího soudu podal žalovaný dovolání, ve kterém namítá, že nový subjekt na straně žalobkyně řádně nedoložil své oprávnění o předmětné pohledávce. Z tohoto důvodu navrhl, aby Nejvyšší soud České republiky zrušil usnesení odvolacího soudu.
+Jelikož dovolatel nebyl při podání dovolání zastoupen advokátem, soud prvního stupně ho usnesením ze dne 9. srpna 2004 č.j. 17 C 48/2002-69, doručeným dne 13. srpna 2004 (srov. doručenku u č.l. 69 verte), vyzval k odstranění nedostatku povinného zastoupení, případně k doložení svého právnického vzdělání ve lhůtě 30 dnů od doručení usnesení. V soudem stanovené lhůtě dovolatel takto neučinil. Pouze přípisem ze dne 18. 8. 2004 žádal o osvobození od placení soudních poplatků. Obvodní soud pro Prahu 1 usnesením ze dne 26. října 2005 žalovanému nepřiznal osvobození od soudních poplatků.
+Podle ustanovení § 241 odst. 1 o. s. ř. dovolatel musí být zastoupen advokátem nebo notářem, jestliže nemá právnické vzdělání buď sám nebo osoba uvedená v § 21 nebo v § 21a anebo v § 21b o. s. ř., která za něj jedná, přičemž notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními předpisy. Z dovolání zastoupení dovolatele nevyplývá a jiné listiny toto zastoupení nebo právnické vzdělání dovolatele prokazující, předloženy nebyly. Dovolatel pak nedostatek povinného zastoupení neodstranil, ač byl o procesních následcích nesplnění této podmínky poučen.
+Protože povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, bez jejíhož splnění nelze vydat – s výjimkou usnesení jímž se dovolací řízení pro tento nedostatek zastavuje – rozhodnutím, kterým se řízení končí, a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu prvního stupně do dnešního dne nedošlo, Nejvyšší soud České republiky dovolací řízení podle § 104 odst. 2 a § 243c odst. 1 o. s. ř. zastavil.
+Dovolatel z procesního hlediska zavinil, že dovolací řízení bylo zastaveno, účastníkům však ve stadiu dovolacího řízení náklady nevznikly. Této procesní situaci odpovídá ve smyslu ustanovení § 146 odst. 2 věty první, § 224 odst. 1 a § 243b odst. 5 věty první o. s. ř. výrok o tom, že na náhradu nákladů dovolacího řízení nemá žádný z nich právo.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 14. června 2006
+JUDr. Kateřina Hornochová, v.r.
+předsedkyně senátu
