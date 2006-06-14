@@ -1,0 +1,18 @@
+7 Tdo 710/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl dne 14. června 2006 v neveřejném zasedání o dovolání obviněného M. S. proti usnesení Krajského soudu v Ostravě ze dne 8. 12. 2005, č. j. 3 To 909/2005-119, v trestní věci vedené u Okresního soudu v Ostravě pod sp. zn. 12 T 48/2003, takto:
+Podle § 265i odst. 1 písm. a) tr. ř. se dovolání obviněného odmítá.
+O d ů v o d n ě n í :
+Usnesením Okresního soudu v Ostravě ze dne 3. 8. 2005, č. j. 12 T 48/2003-106, byl obviněnému M. S. podle § 340b odst. 1 tr. ř. za použití ustanovení § 45a odst. 4 tr. zák. přeměněn nevykonaný trest obecně prospěšných prací ve výměře 400 hodin, který mu byl uložen rozsudkem Okresního soudu v Ostravě ze dne 19. 5. 2003, sp. zn. 12 T 48/2003, v trest odnětí svobody v trvání 200 dnů, pro jehož výkon byl zařazen do věznice s ostrahou.
+Proti tomuto usnesení podal obviněný M. S. stížnost, která byla usnesením Krajského soudu v Ostravě ze dne 8. 12. 2005, č. j. 3 To 909/2005-119, podle § 148 odst. 1 písm. c) tr. ř. zamítnuta.
+Obviněný M. S. podal prostřednictvím obhájce v zákonné lhůtě dovolání proti výše uvedeným usnesením Okresního soudu v Ostravě a Krajského soudu v Ostravě, a to z důvodu uvedeného v § 265b (chybně uveden § 260b) odst. 1 písm. c) tr. ř. Napadeným rozhodnutím vytýká, že mu byl uložen trest ve výměře 400 hodin, čímž byla překročena horní hranice trestu odnětí svobody ve výši 6 měsíců. Dále namítá, že mu nebylo doručeno rozhodnutí Okresního soudu v Ostravě, kterým mu byl uložen trest obecně prospěšných prací a tudíž neměl možnost se proti tomuto odvolat. Obviněný byl v té době ve vazbě, čímž byly splněny předpoklady pro přiznání nutné obhajoby, a měl mu tak být přidělen advokát, aby se mohl účinně hájit proti výše uvedeným rozhodnutím. Obviněný proto navrhl, aby Nejvyšší soud napadená usnesení Okresního soudu v Ostravě a Krajského soudu v Ostravě zrušil a Okresnímu soudu v Ostravě přikázal, aby věc v potřebném rozsahu znovu projednal a rozhodl.
+Státní zástupce Nejvyššího státního zastupitelství ve svém vyjádření k dovolání obviněného M. S. navrhl, aby Nejvyšší soud jeho dovolání odmítl z důvodů uvedených v § 265i odst. 1 písm. a) tr. ř., neboť je nepřípustné.
+Nejvyšší soud jako soud dovolací se v první řadě zabýval otázkou, zda je dovolání v posuzované věci přípustné.
+Přípustnost dovolání je vymezena v ustanovení § 265a odst. 1 tr. ř. tak, že dovoláním lze napadnout pravomocné rozhodnutí soudu ve věci samé, jestliže soud rozhodl ve druhém stupni a zákon to připouští. Ustanovení § 265a odst. 2 tr. ř. pak pod písm. a) až h) uvádí taxativní výčet rozhodnutí, kterými se rozumí rozhodnutí ve věci samé. Usnesení, kterým bylo rozhodnuto o přeměně nevykonaného trestu obecně prospěšných podle § 340b odst. 1 tr. ř., mezi nimi uvedeno není.
+Vzhledem k tomu, že zákonodárce v případě ustanovení § 265a tr. ř. zcela záměrně omezil možnost napadení pravomocného rozhodnutí cestou dovolání jen na případy zde uvedené, nelze se domáhat jeho rozšíření na další případy, v tomto ustanovení neuvedené.
+Nejvyšší soud proto shledal dovolání obviněného M. S. nepřípustným a jako takové je odmítl podle § 265i odst. 1 písm. a) tr. ř. Učinil tak v souladu s ustanovením § 265r odst. 1 písm. a) tr. ř. v neveřejném zasedání.
+Protože Nejvyšší soud z výše uvedených důvodů napadená usnesení ani řízení, která jim předcházela věcně nepřezkoumával, nemohl posoudit případnou opodstatněnost tvrzení dovolatele, že v řízení u soudu prvního stupně měl mít podle zákona obhájce.
+P o u č e n í : Proti rozhodnutí o dovolání není s výjimkou obnovy řízení opravný prostředek přípustný (§ 265n tr. ř.).
+V Brně dne 14. června 2006
+Předseda senátu:
+JUDr. Juraj Malik
