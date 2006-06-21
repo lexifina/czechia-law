@@ -1,0 +1,19 @@
+28 Cdo 2349/2005
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy JUDr. Ludvíka Davida, CSc. a soudců JUDr. Oldřicha Jehličky, CSc. a JUDr. Josefa Rakovského v právní věci žalobce O. s. p. z. a v. – A. s. o., občanské sdružení (v řízení o meritu věci šlo o žalovaného) zastoupeného advokátem proti žalovanému M., s. a d. u. o. s., občanskému sdružení zastoupenému advokátem, o obnovu řízení, vedené u Obvodního soudu pro Prahu 3 pod sp.zn. 16 C 66/2005, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 14. 6. 2005, č. j. 15 Co 140/2005-53, takto:
+I. Dovolání se odmítá.
+II. Žalobce je povinen nahradit na nákladech řízení o dovolání žalovanému částku 2.325,- Kč do tří dnů od právní moci tohoto usnesení k rukám jeho právního zástupce.
+O d ů v o d n ě n í :
+Usnesením Městského soudu v Praze shora označeným bylo potvrzeno usnesení Obvodního soudu pro Prahu 3 ze dne 4. 4. 2005, č. j. 16 C 66/2005-30 (ve znění opravného usnesení na čl. 32 z téhož dne), že se zamítá žaloba na obnovu řízení, pravomocně skončeného platebním rozkazem Obvodního soudu pro Prahu 3 ze dne 19. 8. 2003, č. j. Ro 1926/2002-9. Žalobci bylo zároveň uloženo, aby zaplatil straně žalované náklady odvolacího řízení v částce 4.650,- Kč.
+Proti usnesení odvolacího soudu podal žalobce dovolání. V jeho bodech IV., V., VI. a VII. vytkl odvolacímu soudu a potažmo i soudu prvního stupně několik procesních pochybení (nesprávně posouzenou závadu v doručení žalobci jako předchozímu žalovanému, již uspokojený právní titul k téže částce, neprovedení navrhovaného důkazu k okolnostem doručování), jež považoval za otázky zásadního právního významu. Navrhl, aby dovolací soud zrušil usnesení obou nižších instancí a věc vrátil soudu prvního stupně k dalšímu řízení.
+Žalovaný žádal prostřednictvím svého zástupce ve vyjádření k dovolání, aby dovolání nebylo vyhověno.
+Právně zastoupený dovolatel podal dovolání včas a dovolání bylo projednatelné podle § 238 odst. 1 písm. a/ o. s. ř. Dovolání však nebylo přípustné.
+Ty důvody, které byly vylíčeny v dovolání, lze obsahově podřadit jen pod ustanovení § 241a odst. 2 písm. a/ o. s. ř. Bez ohledu na vlastní právní kvalifikaci dovolacích důvodů tvrdí dovolatel věcně toliko to, že původní řízení bylo postiženo vadou, mající za následek nesprávné rozhodnutí ve věci.
+Také pro toto dovolací řízení je však relevantní § 238 odst. 2 o. s. ř., podle něhož ustanovení § 237 platí obdobně. V důsledku to zde znamená, že by – při shodě usnesení obou nižších instancí – musel být rozhodnutí odvolacího soudu přiznán zásadní právní význam ve smyslu § 237 odst. 1 písm. c/, odst. 3 o. s. ř., aby byla splněna podmínka přípustnosti dovolání.
+Dovolatel učinil obsahem svého dovolání výhradně procesní námitky. Konstantní judikatura Nejvyššího soudu však takový druh námitek podle § 241a odst. 2 písm. a/ o. s. ř., z hlediska způsobilosti přivodit přípustnost dovolání pro zásadní právní význam dovoláním napadeného rozhodnutí, neakceptuje; jde o to, že se procesním otázkám, vzhledem k jejich konkrétním dopadům ad hoc, nepřičítá judikatorní přesah. Z četných respektovaných judikátů je možné citovat usnesení NS ze dne 29. 6. 2004, sp. zn. 21 Cdo 541/2004, publikované např. v Soudní judikatuře č. 7/2004.
+Nejvyšší soud tedy neshledal, že by žalobcovo dovolání bylo podáno proti takovému usnesení odvolací instance, jež by mělo zásadní právní význam, a dovolání podle § 243b odst. 5 věty první a § 218 písm. c/ o. s. ř. odmítl.
+Protistraně bylo nutné podle § 243c odst. 1 a § 146 odst. 3 o. s. ř. přiznat náklady dovolacího řízení, krácené však za jediný úkon zastoupení o polovinu (§ 18 odst. 1 vyhlášky č. 484/2000 Sb.). Sazba odměny činila 4.500,- Kč (§ 8 písm. a/ cit. vyhl.), a k částce 2.250,- Kč bylo přičteno 75,- Kč režijního paušálu.
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 21. června 2006
+JUDr. Ludvík D a v i d , CSc., v.r.
+předseda senátu
