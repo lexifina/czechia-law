@@ -1,0 +1,14 @@
+20 Cdo 1519/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Ištvánka a soudců JUDr. Miroslavy Jirmanové a JUDr. Vladimíra Mikuška v exekuční věci oprávněné Č. T., a. s., zastoupené advokátkou, proti povinnému: P. V., zastoupenému advokátem, o nařízení exekuce, pro 15.735,10 Kč s příslušenstvím, vedené u Okresního soudu v Sokolově pod sp. zn. 17 Nc 4781/2004, o dovolání povinného proti usnesení Krajského soudu v Plzni ze dne 29. července 2005, č. j. 14 Co 429/2005-21, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Odvolací soud dovoláním napadeným rozhodnutím potvrdil usnesení, jímž soud prvního stupně nařídil exekuci na majetek povinného a provedením exekuce pověřil určeného soudního exekutora.
+Podle § 240 odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů (dále také jen „o.s.ř.“) může účastník podat dovolání do dvou měsíců od doručení rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni (jak výslovně uvedl v poučení soud odvolací). Zmeškání lhůty k podání dovolání nelze prominout, lhůta je však zachována, bylo-li dovolání podáno ve lhůtě u odvolacího nebo dovolacího soudu (§ 240 odst. 2 o.s.ř.). Lhůta je zachována také tehdy, jestliže dovolání bylo podáno po uplynutí dvouměsíční lhůty proto, že se dovolatel řídil nesprávným poučením soudu o dovolání. Neobsahuje-li rozhodnutí poučení o dovolání, o lhůtě k dovolání nebo o soudu, u něhož se podává, nebo obsahuje-li nesprávné poučení o tom, že dovolání není přípustné, lze podat dovolání do čtyř měsíců od doručení (§ 240 odst. 3 o.s.ř.).
+Z dovolacímu soudu předloženého spisového materiálu se podává (viz doručenka připojená k č.l. 21 verte spisu), že dovoláním napadené usnesení odvolacího soudu bylo pro povinného na poště uloženo dne 26. září 2005, přičemž toto si povinný vyzvednul dne 10. října 2005. Se zohledněním dikce § 50c odst. 4 o.s.ř v rozhodném znění byl posledním dnem dvouměsíční lhůty k podání dovolání (§ 57 odst. 2 o.s.ř.) 30. listopad 2005 (středa). Dovolání podané povinným osobně na podatelnu soudu prvního stupně až v pondělí 12. prosince 2005 je tedy opožděné, neboť vady poučení předpokládané ustanovením § 240 odst. 3 o.s.ř. se z napadeného rozhodnutí nepodávají. Na této skutečnosti nemění ničeho ani nesprávné poučení odvolacího soudu o tom, že odvolání je v dané věci – bez dalšího – přípustné.
+Nejvyššímu soudu proto nezbývá, nežli dovolání povinného jako opožděné odmítnout (§ 243b odst. 5, věta první, § 218a o.s.ř.).
+O nákladech dovolacího řízení bude rozhodnuto v poměrech Hlavy VI. zákona č. 120/2001 Sb. o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů ve znění pozdějších předpisů.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 22. června 2006
+JUDr. František I š t v á n e k , v. r.
+předseda senátu
