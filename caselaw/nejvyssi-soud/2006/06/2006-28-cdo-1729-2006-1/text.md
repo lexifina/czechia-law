@@ -1,0 +1,21 @@
+28 Cdo 1729/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Josefa Rakovského a soudců JUDr. Oldřicha Jehličky, CSc., a JUDr. Ludvíka Davida, CSc., v právní věci žalobce Dipl. stav. techn. K. K., zastoupeného advokátem, proti žalované České republice – Úřadu pro zastupování státu ve věcech majetkových, odloučené pracoviště P., o náhradu škody a vklad práva k nemovitostem, vedené u Okresního soudu v Příbrami pod sp.zn. 14 C 203/2002, o dovolání žalobce proti usnesení Krajského soudu v Praze ze dne 15.2.2006, č.j. 26 Co 19/2006-80, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Příbrami jako soud prvního stupně usnesením ze dne 12.12.2005, č.j. 14 C 203/2002-75, řízení zastavil. Věc posoudil ve smyslu ustanovení § 3 odst. 1, 9 zákona č. 549/1991 Sb., o soudních poplatcích, ve znění pozdějších předpisů. Vyslovil závěr, že žalobce v poskytnuté lhůtě nezaplatil vyměřený soudní poplatek a neučinil tak ani do rozhodování soudu o zastavení řízení, přičemž se nejedná o restituční spor.
+K odvolání žalobce Krajský soud v Praze jako soud odvolací usnesením ze dne 15.2.2006, č.j. 26 Co 19/2006-80, usnesení soudu prvního stupně změnil tak, že rozhodl, že v řízení o zaplacení částky 30.455,- Kč bude pokračováno a potvrdil usnesení soudu prvního stupně, pokud jde o další uplatněné nároky, tj. o zaplacení částky 917.155,- Kč a o vklad práva k nemovitostem.
+Proti usnesení odvolacího soudu podal žalobce dne 15.5.2006 dovolání, jehož přípustnost blíže nezdůvodnil. Tvrdil, že řízení bylo postiženo vadou, která mohla mít za následek nesprávné rozhodnutí ve věci, a že rozhodnutí spočívá na nesprávném právním posouzení věci. Namítal, že postupem soudu došlo k neodůvodněným průtahům v délce cca 3,5 roku. Podle dovolatele usnesení odvolacího soudu stojí v přímé kolizi s usnesením pléna Ústavního soudu č. 16/93. Dovolatel poukazoval na ustanovení § 15 odst. 4 zákona č. 229/1991 Sb. s odůvodněním, že je zde plně respektován účel restitučního zákona, a to tím, že zákon umožňuje, aby oprávněná osoba držela pozemek spolu s tím, co bylo jeho příslušenstvím v době jeho odejmutí. Dále tvrdil, že obdobně řeší jeho nárok jako osoby oprávněné i ustanovení § 442 odst. 2 o.z. Navrhl proto zrušení rozhodnutí soudů obou stupňů a vrácení věci soudu prvního stupně k dalšímu řízení.
+Žalovaná navrhla odmítnutí dovolání jako nepřípustné, popř. zamítnutí dovolání jako nedůvodné.
+Dovolání není přípustné.
+Podle § 236 odst. 1 o.s.ř. dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti usnesení upravují ustanovení § 237 až § 239 o.s.ř. O žádný z případů v těchto ustanoveních zmíněných však v souzené věci nejde.
+Přípustnost dovolání není dána podle § 237 odst. 1 o.s.ř., neboť napadené rozhodnutí není usnesením ve věci samé (viz odůvodnění usnesení Nejvyššího soudu z 26. června 1996 sp. zn. 2 Cdon 336/96, uveřejněné v časopise Soudní judikatura č. 6, ročník 1997, pod poř. č. 50; k pojmu „věc sama“ srov. též usnesení Nejvyššího soudu z 2. prosince 1997, sp. zn. 2 Cdon 774/97, publikované ve Sbírce soudních rozhodnutí a stanovisek č. 10, ročník 1998, pod poř. č. 61).
+Ustanovení § 238, § 238a a § 239 o.s.ř. přípustnost dovolání též nezakládají, protože usnesení odvolacího soudu, kterým bylo potvrzeno usnesení soudu prvního stupně o zastavení řízení, pokud jde o další uplatněné nároky, tj. o zaplacení částky 917.155,- Kč a o vklad práva k nemovitostem, v jejich taxativních výčtech uvedeno není.
+Z uvedeného vyplývá závěr, že přípustnost dovolání nelze dovodit z žádného ustanovení o.s.ř. ve znění účinném od 1. 1. 2001. Dovolací soud proto podle § 243b odst. 5 o.s.ř. za použití ustanovení § 218 písm. c) o.s.ř. dovolání odmítl.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243c odst. 1 o.s.ř. za použití § 224 odst. 1 o.s.ř., § 151 odst. 1 o.s.ř. a § 142 odst. 1 o.s.ř. Dovolatel sice neměl se svým dovoláním úspěch, vyjádření žalované k podanému dovolání však nebylo možno zohlednit jako úkon právní služby ve smyslu ustanovení § 11 odst. 1 až 3 vyhl. č. 177/1996 Sb.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 29. června 2006
+JUDr. Josef Rakovský, v. r.
+předseda senátu
