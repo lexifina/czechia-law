@@ -1,0 +1,13 @@
+21 Cdo 1971/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a JUDr. Zdeňka Novotného v právní věci žalobce Mgr. V. G., proti žalované K. b., a.s, o neplatnost rozvázání pracovního poměru, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 19 C 66/2003, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 25. března 2005, č.j. 14 Co 421/2004-145, takto:
+I. Dovolání žalobce se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 25. 3. 2005, č.j. 14 Co 421/2004-145, jímž byl potvrzen rozsudek Obvodního soudu pro Prahu 1 ze dne 17. 9. 2004, č.j. 19 C 66/2003-118, ve věci samé, není přípustné podle ustanovení § 237 odst. 1 písm. b) o.s.ř. a nebylo shledáno přípustným ani podle ustanovení § 237 odst. 1 písm. c) o.s.ř., neboť napadené usnesení odvolacího soudu nemá po právní stránce zásadní význam (§ 237 odst. 3 o.s.ř.) – dovolatel sice uvádí, že „rozhodnutí byla vydána v rozporu s hmotným právem“, z obsahu samotného dovolání (z vylíčení důvodů dovolání) je však zřejmé, že nesouhlasí se skutkovými zjištěními, z nichž rozsudek odvolacího soudu vychází (že P. D. a H. H. byli oprávněni jednat jménem žalované). Námitky žalobce tedy nepředstavují uplatnění dovolacího důvodu podle ustanovení § 241a odst. 2 písm. b) o.s.ř., ale dovolacího důvodu podle ustanovení § 241a odst. 3 o.s.ř. Správnost rozsudku odvolacího soudu z hlediska tohoto dovolacího důvodu nemohl dovolací soud přezkoumat, neboť skutečnost, že rozsudek odvolacího soudu eventuálně vychází ze skutkového zjištění, které nemá podle obsahu spisu v podstatné části oporu v provedeném dokazování, nezakládá přípustnost dovolání podle ustanovení § 237 odst. 1 písm. c) o.s.ř.
+Z uvedeného vyplývá, že dovolání žalobce směřuje proti rozhodnutí odvolacího soudu, proti němuž není tento mimořádný opravný prostředek přípustný. Nejvyšší soud České republiky proto dovolání žalobce - aniž by se mohl věcí dále zabývat - podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o.s.ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 254 odst. 1, § 224 odst. 1 a § 151 odst. 1 části věty před středníkem o.s.ř., neboť žalobce nemá s ohledem na výsledek dovolacího řízení na náhradu svých nákladů právo a žalované v dovolacím řízení žádné účelně vynaložené náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 13. července 2006
+JUDr. Mojmír Putna, v. r.
+předseda senátu
