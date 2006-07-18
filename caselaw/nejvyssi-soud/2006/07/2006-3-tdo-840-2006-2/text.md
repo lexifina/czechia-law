@@ -1,0 +1,15 @@
+3 Tdo 840/2006 - I.
+U S N E S E N Í
+Předseda senátu Nejvyššího soudu České republiky rozhodl dne 18. července 2006 v trestní věci obviněného K. S., t a k t o :
+Podle § 265o odst. 1 tr. ř. se obviněnému K. S., p ř e r u š u j e výkon rozhodnutí, a to rozsudku Vrchního soudu v Praze ze dne 28. 2. 2006, sp. zn. 7 To 13/2006, ve výroku o trestu odnětí svobody, v trestní věci vedené u Městského soudu v Praze pod sp. zn. 47 T 13/2005.
+O d ů v o d n ě n í :
+Rozsudkem Městského soudu v Praze ze dne 16. 11. 2005, sp. zn. 47 T 13/2005, byl obviněný K. S. uznán vinným trestným činem vraždy podle § 219 odst. 1 tr. zák., který po skutkové stránce spočíval v jednání popsaném v tomto rozhodnutí. Za tento trestný čin byl obviněný podle § 219 odst. 1 tr. zák. za použití § 40 odst. 1 tr. zák. odsouzen k trestu odnětí svobody v trvání sedmi roků. Podle § 39a odst. 2 písm. c) tr. zák. byl pro výkon trestu zařazen do věznice s ostrahou. Podle § 55 odst. 1 písm. a) tr. zák. byl obviněnému uložen trest propadnutí věci a to pistole se dvěma zásobníky.
+O odvolání obviněného a městského státního zástupce v Praze proti shora citovanému rozsudku rozhodl ve druhém stupni Vrchní soud v Praze usnesením ze dne 28. 2. 2006, sp. zn. 7 To 13/2006, tak, že jej podle § 258 odst. 1 písm. b), d) tr. ř. z podnětu obou podaných odvolání zrušil a podle § 259 odst. 3 tr. ř. znovu rozhodl tak, že obviněného K. S. uznal vinným trestným činem ublížení na zdraví podle § 222 odst. 1, odst. 3 tr. zák., který po skutkové stránce spočíval v jednání v tomto rozhodnut popsaném. Za tento trestný čin byl podle § 222 odst. 1, odst. 3 tr. zák. odsouzen k trestu odnětí svobody v trvání pěti roků. Podle § 39a odst. 3 tr. zák. byl pro výkon trestu zařazen do věznice s dozorem. Podle § 55 odst. 1 písm. a) tr. zák. byl obviněnému uložen trest propadnutí věci, a to pistole se dvěma zásobníky. Podle § 49 odst. 1 tr. zák. a § 50 odst. 1 tr. zák. mu byl uložen trest zákazu činnosti spočívající v zákazu výkonu povolání spojeného s ostrahou osob a objektů na dobu tří let.
+Proti rozsudku Vrchního soudu v Praze ze dne 28. 2. 2006, sp. zn. 7 To 13/2006, podal obviněný dovolání, a to do výroku o vině v celém jeho rozsahu a všech výroků o trestu v celém jejich rozsahu. Uplatněným dovolacím důvodem byl důvod uvedený v ustanovení § 265b odst. 1 písm. g) tr. ř.
+Podle § 265o odst. 1 tr. ř. může předseda senátu Nejvyššího soudu České republiky přerušit výkon rozhodnutí, proti němuž bylo podáno dovolání.
+Předseda senátu Nejvyššího soudu České republiky po prostudování spisu, aniž by současně předjímal rozhodnutí o podaném dovolání, má za to, že v daném případě byly shledány důvody pro postup podle § 265o odst. 1 tr. ř.
+Jelikož se obviněný K. S. k dnešnímu dni nachází ve Vazební věznici, kde vykonává trest odnětí svobody uložený mu napadeným rozsudkem Vrchního soudu v Praze ze dne 28. 2. 2006, sp. zn. 7 To 13/2006, bylo rozhodnuto o přerušení jeho výkonu.
+P o u č e n í : Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 18. července 2006
+Předseda senátu :
+JUDr. Vladimír Jurka
