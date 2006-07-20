@@ -1,0 +1,21 @@
+25 Cdo 1701/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marty Škárové a soudců JUDr. Petra Vojtka a JUDr. Jana Eliáše PhD. v právní věci žalobce F. B., proti žalovaným: 1/ B. J., a 2/ R. M., za účasti Č. p., a. s., jako vedlejšího účastníka na straně žalovaných, o 25.894,- Kč, vedené u Okresního soudu v Semilech pod sp. zn. 5 C 363/97, o dovolání žalobce proti rozsudku Krajského soudu v Hradci Králové ze dne 18. ledna 2006, č. j. 24 Co 546/2005-248, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Semilech rozsudkem ze dne 17. 6. 2004, č. j. 5 C 363/97-159, zamítl žalobu, aby oba žalovaní byli povinni zaplatit žalobci částky 15.000,- Kč, 8.058,- Kč a 2.836,- Kč, tedy celkem 25.894,- Kč, a rozhodl o náhradě nákladů řízení.
+K odvolání žalobce Krajský soud v Hradci Králové rozsudkem ze dne 18. 1. 2006, č. j. 24 Co 546/2005-248, rozsudek soudu prvního stupně potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Proti tomuto rozsudku podal žalobce dovolání.
+Nejvyšší soud jako soud dovolací (§ 10a o. s. ř. ) po zjištění, že dovolání bylo podáno ve lhůtě uvedené v ustanovení § 240 odst. 1 o. s. ř., dospěl k závěru, že v daném případě dovolání směřuje proti rozhodnutí, proti němuž není přípustné.
+Podmínky přípustnosti dovolání proti rozsudku odvolacího soudu upravuje ustanovení § 237 o. s. ř.
+Podle ust. § 237 odst. 1 o. s. ř. je dovolání přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího soudu, jimiž bylo změněno rozhodnutí soudu prvního stupně ve věci samé [písm. a)], jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil [písm. b)], jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není přípustné podle písmena b) a dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam [písm. c)].
+Podle ustanovení § 237 odst. 2 písm. a) o. s. ř. není dovolání podle odstavce 1 přípustné ve věcech, v nichž dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 20.000,- Kč a v obchodních věcech 50.000,- Kč; k příslušenství pohledávky se přitom nepřihlíží.
+V dané věci žalobce napadá dovoláním rozsudek odvolacího soudu, jímž byl potvrzen rozsudek soudu prvního stupně, kterým bylo rozhodnuto o nároku žalobce na náhradu škody na zdraví, a to na náhradě bolestného ve výši 15.000,- Kč a za poškození automobilu, za ošacení a brýle ve výši 8.058,- Kč a 2.836,- Kč. Jedná se o dílčí nároky (§ 442 odst. 1 a § 444 odst. 1 obč. zák.) se samostatným skutkovým základem, byť požadované na dvou žalovaných jako důsledek jedné škodné události. Přípustnost dovolání proti rozhodnutí je proto třeba posoudit u každého nároku zvlášť bez ohledu na to, zda nároky byly uplatněny a bylo o nich rozhodnuto v jednom řízení jedním rozsudkem (srov. usnesení Nejvyššího soudu ze dne 15. 6. 1999, sp. zn. 2 Cdon 376/96, publikované v časopise Soudní judikatura pod č. 9/2000, popř. usnesení Nejvyššího soudu ze dne 28. 9. 1999, sp. zn. 25 Cdo 2136/99, publikované v časopise Soudní judikatura pod č. 55/2000). Žádný z nároků, jež byly předmětem řízení před odvolacím soudem, nepřevyšuje částku 20.000,- Kč. Přípustnost dovolání proti rozhodnutí o peněžitých plněních nepřevyšujících 20.000,- Kč je vyloučena ustanovením § 237 odst. 2 písm. a) o. s. ř., byť celkový součet výše požadovaného plnění z jednotlivých nároků uvedenou částku převyšuje.
+Z uvedeného vyplývá, že dovolání směřuje proti rozhodnutí, proti němuž není přípustné. Nebylo tak třeba zabývat se skutečností, že dovolání není sepsáno advokátem v souladu s ust. § 241 o. s. ř. (§ 241b odst. 2 o. s. ř.).
+Nejvyšší soud proto dovolání žalobce odmítl podle § 243b odst. 5, věty první, a § 218 písm. c) o. s. ř.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, věty první, § 224 odst. 1 a § 146 odst. 3 o. s. ř., neboť žalobce nemá na náhradu nákladů dovolacího řízení právo a žalovaným v dovolacím řízení náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 20. července 2006
+JUDr. Marta Škárová, v.r.
+předsedkyně senátu
