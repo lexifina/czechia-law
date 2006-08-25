@@ -1,0 +1,17 @@
+20 Cdo 2897/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudců JUDr. Marie Vokřinkové a JUDr. Vladimíra Mikuška v exekuční věci oprávněné B. G. s. r. o., proti povinným 1) A. C., 2) M. C., a 3) P. H., pro 1.506.181,50 Kč s příslušenstvím, vedené u Okresního soudu v Kutné Hoře pod sp. zn. Nc 2563/2005, o dovolání povinných proti usnesení Krajského soudu v Praze ze dne 16. 9. 2005, sp. zn. 20 Co 409/2005 a 427/2005, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+V záhlaví uvedeným rozhodnutím krajský soud odmítl odvolání povinných proti usnesení ze dne 2. 7. 2005, č.j. 092 EX 78/05-24 (exekutorského spisu), kterým soudní exekutor udělil příklep k označeným nemovitostem vydražiteli M. H., jemuž stanovil lhůtu k zaplacení nejvyššího podání (výrok I.); opravné usnesení soudního exekutora ze dne 9. 8. 2005, č.j. 092 EX 78/05-27 (exekučního spisu), krajský soud „změnil“ tak, že příklep se uděluje „k jedné ideální polovině nemovitostí – podílu druhé povinné v rozsahu jedné ideální čtvrtiny a podílu třetí povinné v rozsahu jedné ideální čtvrtiny, a to jedné ideální polovině pozemku“ (výrok II.). Povinní, kteří se zúčastnili dražebního jednání a nevznesli při něm námitky proti příklepu, nejsou podle odvolacího soudu legitimováni k podání odvolání proti usnesení o příklepu (§ 218 písm. b/, § 336k odst. 1, 2 zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů, dále jen „o.s.ř.“). Se soudním exekutorem se odvolací soud ztotožnil v tom, že podmínky ustanovení § 164 ve spojení s § 167 odst. 2 o.s.ř. byly splněny; to, že byla vydražena celá nemovitost, je zřejmou nesprávností, jíž byl postižen výrok usnesení o příklepu (toliko z důvodu přesné formulace odvolací soud „změnil“ výrok opravného usnesení).
+Rozhodnutí odvolacího soudu napadli povinní dovoláním, v němž zpochybňují zákonnost dražebního jednání a jeho výsledku, ústícího v udělení příklepu vydražiteli.
+Dovolání není přípustné.
+Podle ustanovení § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Jde-li o usnesení odvolacího soudu, upravují přípustnost dovolání ustanovení § 237 až § 239 o.s.ř.
+Podle ustanovení § 237 odst. 1 o.s.ř. dovolání není přípustné, neboť jím napadené usnesení – ani v jednom ze svých výroků – není rozhodnutím ve věci samé (k pojmu „věc sama“ srov. též usnesení Nejvyššího soudu ze dne 2. 12. 1997, sp. zn. 2 Cdon 774/97, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek 10/1998 pod č. 61, příp. usnesení Nejvyššího soudu ze dne 28. 8. 1997, sp. zn. 2 Cdon 484/97, uveřejněné v časopise Soudní judikatura 11/1997 pod č. 88) a ve výroku o odmítnutí odvolání není ani rozhodnutím měnícím či potvrzujícím.
+Ustanovení § 238, § 238a a § 239 o.s.ř. přípustnost dovolání nezakládají, protože usnesení, jímž bylo odmítnuto odvolání, v jejich taxativních výčtech není vyjmenováno (srov. usnesení Nejvyššího soudu ze dne 3. 10. 2002, sp. zn. 26 Co 1712/2002, uveřejněné v časopise Soudní judikatura 10/2002 pod č. 196).
+Nejvyšší soud proto dovolání – aniž vyžadoval splnění podmínky obligatorního zastoupení dovolatelů (§ 241b odst. 2 o.s.ř.) – odmítl (§ 243b odst. 5, věta první, § 218 písm. c/ o.s.ř.).
+O případné náhradě nákladů dovolacího řízení bude rozhodnuto podle ustanovení hlavy VI. zákona č. 120/2001 Sb.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. srpna 2006
+JUDr. Pavel K r b e k , v. r.
+předseda senátu
