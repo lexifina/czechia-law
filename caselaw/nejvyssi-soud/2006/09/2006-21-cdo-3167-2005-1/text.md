@@ -1,0 +1,14 @@
+21 Cdo 3167/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a JUDr. Zdeňka Novotného v právní věci žalobkyně E. G., zastoupené advokátem, proti žalovanému M. k. s., zastoupenému advokátem, o neplatnost výpovědi z pracovního poměru, vedené u Městského soudu v Brně pod sp.zn. 49 C 46/2002, o dovolání žalovaného proti rozsudku Krajského soudu v Brně ze dne 21. prosince 2004, č.j. 15 Co 220/2003-77, takto :
+I. Dovolací řízení se zastavuje.
+II. Žalovaný je povinen zaplatit žalobkyni na náhradě nákladů dovolacího řízení 1.325,- Kč do tří dnů od právní moci tohoto usnesení k rukám advokáta.
+O d ů v o d n ě n í :
+Krajský soud v Brně rozsudkem ze dne 21. 12. 2004, č.j. 15 Co 220/2003-77, změnil rozsudek Městského soudu v Brně ze dne 12. 6. 2003, č.j. 49 C 46/2002-43, ve znění „doplňujícího“ usnesení ze dne 20. 6. 2003, č.j. 49 C 46/2002-47, ve výroku, jímž byla zamítnuta žaloba na určení neplatnosti výpovědi z pracovního poměru ze dne 31.1.2002, tak, že určil, že výpověď z pracovního poměru ze dne 31.1.2002 je neplatná, a rozhodl, že žalovaný je povinen zaplatit žalobkyni na náhradě nákladů řízení před soudy obou stupňů 18.540,- Kč; usnesením ze dne 26. 5. 2005, č.j. 15 Co 162/2005-95, změnil usnesení Městského soudu v Brně ze dne 20. 6. 2003, č.j. 49 C 46/2002-47, tak, že Českému státu se nárok na náhradu nákladů nepřiznává.
+Proti rozsudku odvolacího soudu podal žalovaný dovolání, které podáním ze dne 7. 9. 2005 vzal zpět.
+Protože dovolání bylo vzato zcela zpět, Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) podle ustanovení § 243b odst. 5 věty druhé o.s.ř. dovolací řízení zastavil.
+V dovolacím řízení vznikly žalobkyni (která navrhla zamítnutí dovolání, neboť odvolací soud ve věci rozhodl v souladu s ustálenou judikaturou) náklady, které spočívají v paušální odměně ve výši 1.250,- Kč (srov. § 7 písm. c), § 10 odst. 3, § 14 odst. 1, § 15 a § 18 odst. 1 vyhlášky č. 484/2000 Sb., ve znění vyhlášek č. 49/2001 Sb., č. 110/2004 Sb. a č. 617/2004 Sb.) a v paušální částce náhrady výdajů za jeden úkon právní služby (vyjádření k dovolání) ve výši 75,- Kč (srov. § 13 odst. 3 vyhlášky č. 177/1996 Sb., ve znění vyhlášek č. 235/1997 Sb., č. 484/2000 Sb., č. 68/2003 Sb. a č. 618/2004 Sb.), celkem ve výši 1.325,- Kč. Protože žalovaný z procesního hlediska zavinil, že dovolací řízení bylo zastaveno, dovolací soud mu podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 2 věty první o.s.ř. uložil, aby žalobkyni tyto náklady nahradil. Žalovaný je povinen přiznanou náhradu nákladů řízení zaplatit k rukám advokáta, který žalobkyni v tomto řízení zastupoval (§ 149 odst. 1 o.s.ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 12. září 2006
+JUDr. Mojmír Putna, v. r.
+předseda senátu
