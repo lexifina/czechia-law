@@ -1,0 +1,20 @@
+21 Cdo 601/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci dědictví po A. H., za účasti 1) J. L., 2) E. S., 3) M. H., zastoupené Š. S., 4) F. H., 5) A. H., zastoupeného F. H., 6) P. H., vedené u Okresního soudu v Nymburce pod sp. zn. D 4/2001, o „dovolání“ M. H. proti usnesení Vrchního soudu v Praze ze dne 10. června 2004, č j. 1 Co 388/2005-283, takto:
+Řízení o podání M. H. ze dne 7.2.2006, označeném jako \"dovolání proti usnesení Vrchního soudu v Praze ze dne 1. 12. 2005, č.j. 1 Co 388/2005-283\", se zastavuje.
+O d ů v o d n ě n í :
+Okresní soud v Nymburce usnesením ze dne 13.4.2004, č.j. D 4/2001-182, zastavil odvolací řízení a rozhodl, že žádný z účastníků nemá právo na náhradu nákladů řízení. Uvedl, že „M. H. podala odvolání proti konečnému usnesení ve věci“; že „bylo pravomocně rozhodnuto o tom, že se jí nepřiznává osvobození od soudních poplatků“; že „soudní poplatek za podané odvolání nezaplatila ani na výzvu soudu“.
+Krajský soud v Praze usnesením ze dne 31.5.2005, č.j. 21 Co 208/2005-271, usnesení soudu prvního stupně potvrdil. Uvedl, že M. H. soudní poplatek „nezaplatila ani do konce odvolací lhůty proti usnesení o zastavení odvolacího řízení“.
+Řízení o odvolání M. H. proti usnesením Krajského soudu v Praze ze dne 31.5.2005, č.j. 21 Co 208/2005-271, Vrchní soud v Praze usnesením ze dne 1.12.2005, č.j. 1 Co 388/2005-283, zastavil. Vycházel ze závěru, že „je třeba dovodit nedostatek funkční příslušnosti Vrchního soudu v Praze pro rozhodování o odvolání proti v záhlaví označenému usnesení, jímž rozhodoval Krajský soud v Praze jako soud Odvolací“.
+Proti usnesení Vrchního soudu v Praze ze dne 1.12.2005, č.j. 1 Co 388/2005-283, podala M. H. dne 7.2.2006 „dovolání“. Ve vztahu k napadenému usnesení však v tomto podání neuvedla žádné námitky.
+Vzhledem k tomu, že pro postup soudu prvního i druhého stupně v řízení o dědictví je určující okamžik smrti zůstavitele (srov. Část dvanáctou, Hlavu I, bod 12. a 15. zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dále jen „zákon č. 30/2000 Sb.“) a zůstavitelka A. H. tedy před 31.12.2000, je třeba dovolání v posuzovaném případě i v současné době projednat a rozhodnout (srov. Část dvanáctou, Hlavu I, bod 17. zákona č. 30/2000 Sb.) podle „dosavadních právních předpisů“, tj. podle Občanského soudního řádu ve znění účinném do 31.12.2000 (dále jen „o.s.ř.“).
+Nejvyšší soud České republiky po přezkoumání věci dospěl k závěru, že řízení o podání M. H. ze dne 7.2.2006 musí být pro neodstranitelný nedostatek podmínek řízení zastaveno.
+Nejvyšší soud České republiky rozhoduje v občanském soudním řízení o mimořádném opravném prostředku - dovolání - proti pravomocnému rozhodnutí odvolacího soudu (§ 236 odst. 1 o.s.ř.).
+V posuzovaném případě M. H. dovoláním napadá usnesení Vrchního soudu v Praze, kterým bylo - jak shora uvedeno - zastaveno řízení o jejím odvolání proti usnesení Krajského soudu v Praze, který ve věci rozhodoval jako soud odvolací, a to pro nedostatek funkční příslušnosti soudu.
+Napadeným usnesením vrchní soud nepřezkoumával rozhodnutí jiného soudu jako soud odvolací, naopak rozhodl, že k přezkoumání rozhodnutí krajského soudu (odvolacího soudu) v dané věci není funkčně příslušný.
+Přezkum takového rozhodnutí vrchního soudu podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, Nejvyšším soudem České republiky jako dovolacím soudem je vyloučen a občanský soudní řád proto ani neupravuje funkční příslušnost soudu pro projednání dovolání podaného proti takovémuto rozhodnutí vrchního soudu.
+Nedostatek funkční příslušnosti je neodstranitelným nedostatkem podmínky řízení; Nejvyšší soud České republiky proto řízení o podání M. H. ze dne 7.2.2006, označeném jako \"dovolání proti usnesení Vrchního soudu v Praze ze dne 1. 12. 2005, č.j. 1 Co 388/2005-283\" zastavil (§ 104 odst. 1 věta první o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 19. září 2006
+JUDr. Roman Fiala, v. r.
+předseda senátu
