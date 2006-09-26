@@ -1,0 +1,15 @@
+U S N E S E N Í
+Nejvyšší soud České republiky projednal dne 26. září 2006 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na zápis odsouzení cizozemským soudem do evidence Rejstříku trestů a rozhodl t a k t o :
+Zamítá se návrh Ministerstva spravedlnosti České republiky na zaznamenání údajů do evidence Rejstříku trestů o odsouzení občana České republiky M. B., rozsudkem Obvodového soudu v Erlangenu, Spolková republika Německo, ze dne 11. 8. 1997, sp. zn. 2 Ls 351 Js 24943/96, ve spojení s rozsudkem Zemského soudu v Norimberku – Fürth ze dne 14. 1. 1998, sp. zn. 6 Ns 351 Js 24943/96.
+O d ů v o d n ě n í :
+Dne 1. 9. 2006 pod sp. zn. 3644/2005-MO-M/5 podalo Ministerstvo spravedlnosti České republiky podle § 4 odst. 2 zák. č. 269/1994 Sb., o Rejstříku trestů (dále jen zákon), Nejvyššímu soudu České republiky návrh na zapsání odsouzení občana České republiky M. B., rozsudkem Obvodového soudu v Erlangenu, Spolková republika Německo, ze dne 11. 8. 1997, sp. zn. 2 Ls 351 Js 24943/96.
+Nejvyšší soud České republiky věc přezkoumal a dospěl k těmto závěrům:
+Podle § 4 odst. 2 zákona může Nejvyšší soud ČR na návrh Ministerstva spravedlnosti ČR rozhodnout, že se do evidence Rejstříku trestů zaznamenají údaje o odsouzení občana České republiky cizozemským soudem, jestliže se týká činu, který je trestným i podle právního řádu České republiky, a zápis do evidence je odůvodněn závažností činu a druhem trestu, který za něj byl uložen.
+Nejvyšší soud zjistil, že o zaznamenání údajů o odsouzení M. B. rozsudkem Obvodového soudu v Erlangenu, Spolková republika Německo, ze dne 11.8. 1997, sp. zn. 2 Ls 351 Js 24943/96, ve spojení s rozsudkem Zemského soudu v Norimberku – Fürth ze dne 14. 1. 1998, sp. zn. 6 Ns 351 Js 24943/96, do evidence Rejstříku trestů ve smyslu ustanovení § 4 odst. 2 zák. č. 269/1994 Sb. již dříve pravomocně rozhodl, a to usnesením ze dne 4. 1. 2001, sp. zn. 11 Tcu 94/2000, k návrhu Ministerstva spravedlnosti ČR ze dne 29. 12. 2000, sp. zn. 1689/99-M, 1690/99 - M. Citovaným usnesením bylo návrhu zcela vyhověno, tj. bylo rozhodnuto, že se údaje o odsouzení M. B. výše uvedeným rozhodnutím Obvodového soudu v Erlangenu, ve spojení s rozhodnutím Zemského soudu v Norimberku - Fürthu, zaznamenají do evidence Rejstříku trestů.
+Nyní byl Nejvyššímu soudu předložen návrh na zaznamenání odsouzení téže osoby shodným rozhodnutím, tedy s nezměněným stavem skutečností rozhodných pro postup podle posledně citovaného zákonného ustanovení.
+Za této situace pak Nejvyšší soud musel konstatovat, že bylo-li o zaznamenání odsouzení jmenovaného v dané věci již v plném rozsahu pozitivně rozhodnuto, přezkum naplnění podmínek shora citovaného zákonného ustanovení zde již nepřipadal v úvahu. Opětovné zapsání téhož odsouzení do evidence Rejstříku trestů je za těchto okolností vyloučeno.
+Z uvedených důvodů proto Nejvyšší soud České republiky návrhu Ministerstva spravedlnosti České republiky nevyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 26. září 2006
+Předseda senátu:
+JUDr. Antonín Draštík
