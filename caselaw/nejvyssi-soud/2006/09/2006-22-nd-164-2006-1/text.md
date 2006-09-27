@@ -1,0 +1,12 @@
+22 Nd 164/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marie Rezkové a soudců JUDr. Františka Baláka a JUDr. Jiřího Spáčila, CSc., ve věci žalobkyně L. P., nar. 19. 11. 1973, proti žalovaným: 1) Ing. F. P., nar. 21. 4. 1963, a 2) nezletilé jméno nezjištěno P., nar. 26. 5. 2006, zastoupené kolizním opatrovníkem Magistrátem města Č. B., se sídlem úřadu v Č. B., o popření otcovství, vedené u Okresního soudu v Opavě pod sp. zn. 37 C 170/2006, o návrhu na přikázání věci z důvodu vhodnosti Okresnímu soudu v Českých Budějovicích, takto:
+Věc vedená u Okresního soudu v Opavě pod sp. zn. 37 C 170/2006 se přikazuje k projednání a rozhodnutí Okresnímu soudu v Českých Budějovicích.
+O d ů v o d n ě n í :
+Okresní soud v Opavě, jehož místní příslušnost k projednání a rozhodnutí této věci vyplývá z § 84 a § 85 odst. 1 občanského soudního řádu (dále „OSŘ“), předložil spis Nejvyššímu soudu České republiky k rozhodnutí o návrhu žalobkyně na přikázání věci z důvodu vhodnosti jinému soudu (§ 12 odst. 2 a 3 OSŘ). Žalobkyně navrhla, aby věc byla přikázána Okresnímu soudu v Českých Budějovicích. Návrh odůvodnila tím, že se svojí nezletilou dcerou - žalovanou 2) nyní bydlí v R., okres Č. B., a že jako kojící matka nemůže s takto malým dítětem cestovat dopravními prostředky. Žalovaný 1) s přikázáním věci označenému soudu nesouhlasí s odůvodněním, že je v plném invalidním důchodu a závažné onemocnění a nízký důchod mu neumožňují účastnit se jednání u Okresního soudu v Českých Budějovicích. Opatrovník žalované 2) s přikázáním věci Okresnímu soudu v Českých Budějovicích souhlasí.
+Podle § 12 odst. 2 OSŘ věc může být jinému soudu téhož stupně přikázána také z důvodu vhodnosti.
+Důvod pro postup podle § 12 odst. 2 OSŘ byl shledán opodstatněným. Nejvyšší soud vzal při posuzování poměrů účastníků a jimi uváděných důvodů v úvahu především skutečnost, že dvě účastnice řízení - žalobkyně a žalovaná 2) nyní bydlí v obvodu Okresního soudu v Českých Budějovicích a žalobkyně je vázána péčí o několika měsíční dceru - žalovanou 2). Pokud se žalovaný 1) ze závažných důvodů nebude moci zúčastnit projednávání věci u Okresního soudu v Českých Budějovicích, nic nebrání tomu, aby byl k projednávané věci vyslechnut a s provedenými důkazy seznámen prostřednictvím dožádaného soudu (§ 122 odst. 2 OSŘ).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 27. září 2006
+JUDr. Marie Rezková, v. r.
+předsedkyně senátu
