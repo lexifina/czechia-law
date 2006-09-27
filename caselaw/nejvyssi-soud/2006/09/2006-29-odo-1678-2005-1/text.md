@@ -1,0 +1,21 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+29 Odo 1678/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobkyně V. S., proti žalovaným 1) České spořitelně, akciové společnosti, a 2) J. I. A., k. s. v likvidaci, úpadkyni, o zaplacení částky 40.000,- Kč s příslušenstvím, vedené u Okresního soudu v Benešově pod sp. zn. C 2094/96, o dovolání žalobkyně proti rozsudku Krajského soudu v Praze ze dne 31. května 2001, č. j. 31 Coj 30/2000-122, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Benešově rozsudkem ze dne 15. srpna 1996, č. j. C 2094/96-29, uložil druhé žalované zaplatit žalobkyni částku 40.000,-Kč s příslušenstvím. Proti první žalované, která měla být podle žaloby k úhradě téže částky zavázána společně s druhou žalovanou, tak, že plněním jednoho z žalovaných zaniká v rozsahu plnění povinnost plnit druhému z nich, soud žalobu zamítl a rozhodl, že žalobkyně a tato žalovaná nemají vůči sobě právo na náhradu nákladů řízení.
+Proti rozsudku soudu prvního stupně podaly odvolání žalobkyně (co do zamítavého výroku ohledně první žalované) a druhá žalovaná. Krajský soud v Praze v záhlaví označeným rozsudkem jednak odmítl odvolání druhé žalované (první výrok), jednak rozsudek soudu prvního stupně potvrdil ohledně první žalované (druhý výrok).
+Žalobkyně podala proti rozsudku odvolacího soudu dovolání (jež dle svého obsahu zjevně směřuje proti potvrzujícímu výroku týkajícímu se první žalované), datované 2. listopadu 2001 a podané k poštovní přepravě téhož dne.
+Podle bodu 17., hlavy I., části dvanácté zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (tj. podle občanského soudního řádu ve znění účinném před 1. lednem 2001 - dále též jen „o. s. ř.“). O takový případ jde i v této věci, jelikož odvolací soud ve shodě s bodem 15., hlavy I., části dvanácté zákona č. 30/2000 Sb. věc rovněž projednal podle dosavadního znění občanského soudního řádu.
+Podle dosavadních právních předpisů soud zkoumá (coby součást procesu projednání a rozhodnutí dovolání) též včasnost dovolání, včetně vymezení běhu lhůty k jeho podání (shodně uzavřel Nejvyšší soud např. v usnesení uveřejněném pod číslem 70/2001 Sbírky soudních rozhodnutí a stanovisek a Ústavní soud v usneseních ze dne 2. ledna 2002, sp. zn. I. ÚS 660/01, ze dne 24. 1. 2002, sp. zn. IV. ÚS 560/01, ze dne 11. června 2002, sp. zn. I. ÚS 274/02 a v nálezu ze dne 20. února 2002, sp. zn. II. ÚS 618/01, uveřejněném ve Sbírce nálezů a usnesení Ústavního soudu, svazku 25, ročníku 2002, části I., pod pořadovým číslem 20).
+Dovolání v této věci tak mohlo být podáno pouze ve lhůtě jednoho měsíce od právní moci rozhodnutí odvolacího soudu, přičemž zmeškání této lhůty nelze prominout (srov. § 240 odst. 1 a 2 o. s. ř., ve znění účinném před 1. lednem 2001).
+Jak se podává z obsahu spisu, dovoláním napadený rozsudek byl doručen zástupci dovolatelky na základě procesní plné moci ze dne 17. května 2001 (č. l. 115) Mgr. J. W. dne 10. července 2001 (srov. doručenku u č. l. 137) a téhož dne nabyl právní moci (když první žalované i zástupci druhé žalované byl doručen již 3. července 2001). Ve smyslu ustanovení § 57 odst. 2 o. s. ř. tak byl posledním dnem jednoměsíční lhůty k podání dovolání 10. srpen 2001 (pátek). Dovolání podané dovolatelkou na poštu k přepravě až dne 2. listopadu 2001 je tedy zjevně opožděné (po uplynutí lhůty k podání dovolání bylo ostatně i vyhotoveno).
+Nejvyšší soud proto podle § 243b odst. 4 a § 218 odst. 1 písm. a/ o. s. ř. opožděné dovolání odmítl.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 4, § 224 odst. 1 a § 146 odst. 2, věty první, o. s. ř. (per analogiam), neboť žalobkyně, která podáním opožděného dovolání zavinila jeho odmítnutí, nemá na náhradu těchto nákladů právo a první žalované v souvislosti s dovolacím řízením náklady nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 27. září 2006
+JUDr. Zdeněk K r č m á ř, v. r.
+předseda senátu
