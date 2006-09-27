@@ -1,0 +1,14 @@
+11 Td 44/2006
+U S N E S E N Í
+Nejvyšší soud v trestní věci obviněného M. H., vedené u Obvodního soudu pro Prahu 3 pod sp. zn. 15 T 101/2006 rozhodl v neveřejném zasedání konaném dne 27. září 2006 o příslušnosti soudu t a k t o :
+Podle § 24 odst. 1 tr. řádu j e k projednání trestní věci obviněného M. H. p ř í s l u š n ý Okresní soud v Karviné.
+O d ů v o d n ě n í :
+Státní zástupkyně Obvodního státního zastupitelství pro Prahu 3 podala dne 28. 6. 2006 Obvodnímu soudu pro Prahu 3 obžalobu na obviněného M. H. pro trestný čin zpronevěry podle § 248 odst. 2 tr. zák., který měl spáchat tím, že v přesně nezjištěné době od 16. 9. 1998 do 30. 9. 1998, na nezjištěném místě na území ČR, předal K. H., vozidlo zn. Opel Vectra 1.6, ačkoli si byl vědom skutečnosti, že předmětné vozidlo není jeho majetkem a toto není oprávněn dále půjčovat či jakýmkoli způsobem zcizit, neboť vozidlo měl pronajato na základě nájemní smlouvy, ze dne 16. 9. 1998, uzavřené v M. s půjčovnou automobilů P. G. s. r. o., jako pronajimatelem, přičemž K. H. dne 30. 9. 1998 za pomoci K. S., vyvezl předmětné vozidlo přes polský hraniční přechod M. na Ukrajinu, kde ho K. H. prodal nezjištěné osobě, čímž poškozenému majiteli vozidla společnosti Č. L., a. s., způsobil škodu ve výši 304.009,- Kč.
+Usnesením Obvodního soudu pro Prahu 3 ze dne 29. 6. 2006, sp. zn. 15 T 101/2006, byla podle § 314c odst. 1 písm. a) tr. řádu za okolností uvedených v ustanovení § 188 odst. 1 písm. a) tr. řádu trestní věc obviněného M. H. předložena Vrchnímu soudu v Olomouci k rozhodnutí o příslušnosti soudu s odůvodněním, že jak vyplývá ze spisu místem spáchání žalovaného trestného činu je buďto K. n. O. nebo M., popřípadě K. V úvahu však, při názoru, že místo činu nelze zjistit, by v dané věci přicházelo i stanovení místní příslušnosti podle § 18 odst. 2 tr. řádu, kdy s ohledem na pobyt obviněného v USA je příslušný k projednání věci Okresní soud v Karviné, v jehož obvodu vyšel skutek najevo.
+Podáním ze dne 7. 8. 2006 byla trestní věc obviněného M. H. Vrchním soudem v Olomouci postoupena k rozhodnutí Nejvyššímu soudu s tím, že není soudem příslušným k rozhodnutí.
+Nejvyšší soud zhodnotil důkazy použitelné k rozhodnutí podle § 24 tr. řádu a dospěl k závěru, že je nutno přisvědčit důvodům uvedeným v usnesení Obvodního soudu pro Prahu 3. Z obžaloby podané na obviněného M. H. je zřejmé, že místo činu nelze přesně zjistit, stejně tak jako nelze přesně zjistit ani místo pobytu obviněného zdržujícího se mimo území republiky. Za tohoto stavu je nutno při stanovení místní příslušnosti vyjít z posledních slov odst. 2 § 18 tr. řádu, podle nichž je místně příslušným k projednání věci soud, v jehož obvodu vyšel čin najevo, a tím je Okresní soud v Karviné.
+Z těchto důvodů bylo rozhodnuto, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 27. září 2006
+Předseda senátu:
+JUDr. Pavel Kučera
