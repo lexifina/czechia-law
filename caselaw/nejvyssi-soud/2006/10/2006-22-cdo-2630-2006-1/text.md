@@ -1,0 +1,16 @@
+22 Cdo 2630/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jiřího Spáčila, CSc., a soudců JUDr. Františka Baláka a JUDr. Marie Rezkové ve věci navrhovatelů: a) V. V., a b) Z. V., o osvobození od soudních poplatků a ustanovení zástupce pro podání žaloby, vedené u Okresního soudu v Šumperku pod sp. zn. 18 Nc 1/2005, o dovolání Zdeňka Vejdy proti usnesení Krajského soudu v Ostravě – pobočka Olomouc ze dne 23. března 2006, č. j. 40 Co 290/2006-97, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků řízení nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Navrhovatelé se u Okresního soudu v Šumperku (dále „soud prvního stupně“) domáhali rozhodnutí o osvobození od soudních poplatků a ustanovení advokáta pro řízení, které hodlají vést u soudu prvního stupně proti A. a M. L. ve věci změny práva užívání k nemovitostem.
+Soud prvního stupně usnesením ze dne 23. ledna 2006, č. j. 18 Nc 1/2005-45, výrokem pod bodem I. nepřiznal „žadatelům V. V. a Z. V. osvobození od soudních poplatků“ a výrokem pod bodem II. zamítl „žádost V. V. a Z. V. o ustanovení zástupce pro podání žaloby u Okresního soudu v Šumperku ve věci změny užívání rodinného domu č. p. 78 na pozemku č. p. st. 72 zapsaného na LV č. 186 u Katastrálního úřadu pro O. kraj, Katastrální pracoviště Š., pro obec a katastrální území R.“.
+Krajský soud v Ostravě – pobočka Olomouc jako soud odvolací k odvolání navrhovatelů usnesením ze dne 23. března 2006, č. j. 40 Co 290/2006-97, výrokem pod bodem I. potvrdil „usnesení okresního soudu ve výroku odstavce I. a výroku odstavce II. ve vztahu k navrhovateli b) Z. V.“. Výrokem pod bodem II. rozhodl, že „v další napadené části výroku odstavce I. a výroku odstavce II. ve vztahu k navrhovatelce a) V. V. se usnesení okresního soudu mění takto: Navrhovatelce a) V. V. se přiznává osvobození od soudních poplatku“. Dále rozhodl, že ustanovuje „navrhovatelce a) V. V. zástupce z řad advokátů Mgr. L. G., advokáta, pro podání žaloby ve věci hospodaření se společnou nemovitostí, domem č. p. 78 na pozemku p. č. st. 72, zapsané na listu vlastnictví č. 286 pro katastrální území a obec R. u Katastrálního úřadu pro O. kraj, Katastrální pracoviště Š., a pro zastupování v tomto řízení“.
+Navrhovatel b) podal 11. 5. 2006, resp. 11. 8. 2006 u soudu prvního stupně „odvolání a stížnost“, které byly v části vztahující se k usnesení odvolacího soudu posouzeny jako dovolání proti tomuto rozhodnutí.
+Nejvyšší soud jako soud dovolací po zjištění, že dovolání bylo podáno včas (§ 240 odst. 1 občanského soudního řádu – dále „OSŘ“), shledal, že jde o dovolání nepřípustné. Přípustnost dovolání upravuje § 237 až § 239 OSŘ. Žádné z těchto zákonných ustanovení ale dovolání proti rozhodnutím týkajícím se přiznání osvobození od soudních poplatků a ustanovení právního zástupce nepřipouští.
+Dovolací soud proto o dovolání v dané věci rozhodl tak, že je jako nepřípustné podle § 243b odst. 5 a § 218 písm. c) OSŘ odmítl.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 OSŘ, když v souvislosti s dovoláním dalšímu účastníku takové náklady nevznikly.
+V Brně dne 4. října 2006
+JUDr. Jiří Spáčil, CSc., v. r.
+předseda senátu
