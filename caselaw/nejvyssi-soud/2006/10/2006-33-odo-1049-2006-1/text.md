@@ -1,0 +1,23 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+33 Odo 1049/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy Víta Jakšiče a soudců JUDr. Blanky Moudré a JUDr. Ivany Zlatohlávkové ve věci žalobkyně České republiky – Úřadu práce v O., proti žalovanému J. Ž., o zaplacení částky 50.000,- Kč s příslušenstvím, vedené u Okresního soudu v Opavě pod sp. zn. 9 C 282/2003, o dovolání žalovaného proti rozsudku Krajského soudu v Ostravě ze dne 21. října 2005, č. j. 57 Co 449/2005-56, takto :
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Opavě (dále jen „soud prvního stupně“) rozsudkem ze dne 17. června 2004, č. j. 9 C 282/2003-35, uložil žalovanému povinnost zaplatit žalobkyni částku 50.000,- Kč s 2% úrokem z prodlení od 16. 10. 2003 do zaplacení, to vše do 3 dnů od právní moci rozsudku, zamítl žalobu o zaplacení 4,5% úroku z prodlení z částky 50.000,- Kč za období od 1. 2. 2002 do 15. 10. 2003 a rozhodl o nákladech řízení.
+K odvolání žalovaného Krajský soud v Ostravě jako soud odvolací rozsudkem ze dne 21. října 2005, č. j. 57 Co 449/2005-56, rozsudek soudu prvního stupně v napadených výrocích potvrdil a rozhodl o nákladech odvolacího řízení.
+Proti rozsudku odvolacího soudu podal žalovaný dovolání, ve kterém navrhl jeho zrušení a vrácení věci odvolacímu soudu k dalšímu řízení.
+Podle § 240 odst. 1 OSŘ účastník může podat dovolání do dvou měsíců od doručení rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni.
+Podle § 241a odst. 1 OSŘ v dovolání musí být vedle obecných náležitostí (§ 42 odst. 4 OSŘ) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu a z jakých důvodů se toto rozhodnutí napadá, popřípadě které důkazy by měly být provedeny k prokázání důvodu dovolání, a čeho se dovolatel domáhá (dovolací návrh).
+Podle § 241 odst. 1 OSŘ není-li dále (t. j. v odstavcích 2 a 3 téhož ustanovení) stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. V takovém případě musí být dovolání advokátem či notářem i sepsáno (§ 241 odst. 4 OSŘ).
+Podle § 241b odst. 3 OSŘ dovolání, které neobsahuje údaje o tom, v jakém rozsahu nebo z jakých důvodů se rozhodnutí odvolacího soudu napadá, může být o tyto náležitosti doplněno jen po dobu trvání lhůty k dovolání. Nebyla-li v době podání dovolání splněna podmínka uvedená v § 241 OSŘ, běží tato lhůta až do uplynutí lhůty, která byla dovolateli určena ke splnění této podmínky; požádal-li však dovolatel před uplynutím lhůty o ustanovení zástupce (§ 30 OSŘ), běží lhůta podle věty první znovu až od právní moci usnesení, kterým bylo o této žádosti rozhodnuto.
+V posuzovaném případě byl rozsudek odvolacího soudu doručen žalovanému 8. 12. 2005. Ještě předtím, 28. 11. 2005, podal žalovaný dovolání, které nebylo sepsáno advokátem nebo notářem a neobsahovalo ani údaj o dovolacích důvodech. Z pohledu § 241a odst. 1 OSŘ šlo tedy o podání vadné. Jak už bylo uvedeno, doplnění dovolání o tyto náležitosti může dovolatel provést z vlastní iniciativy nebo na výzvu soudu učiněnou podle § 209 a § 43 OSŘ jen do konce lhůty uvedené v § 241b ost. 3 OSŘ. Jejím marným uplynutím se vady dovolání stávají neodstranitelnými, neboť k opožděnému doplnění dovolání dovolací soud nesmí přihlédnout (srov. usnesení Nejvyššího soudu ČR ze dne 18. června 2003, sp. zn. 29 Odo 108/2002, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod č. R 21/2004).
+Soud prvního stupně vyzval žalovaného usnesením ze dne 4. ledna 2006, č. j. 9 C 282/2003-63, ke zvolení zástupce pro dovolací řízení a sepsání řádného dovolání jeho prostřednictvím, to vše ve lhůtě 30 dnů od doručení usnesení. Na toto usnesení reagoval žalovaný žádostí o ustanovení zástupce. Soud prvního stupně usnesením ze dne 23. března 2006, č. j. 9 C 282/2003-79, ustanovil žalovanému zástupcem JUDr. V. V., advokáta. Žalovanému i jeho právnímu zástupci bylo toto usnesení doručeno dne 28. března 2006 a nabylo právní moci dne 13. dubna 2006. Dovolání žalovaného sepsané jeho právním zástupcem bylo podáno u soudu prvního stupně osobně dne 23. června 2006.
+Jelikož v dané věci dnem 13. června 2006 uplynula lhůta uvedená v § 241b odst. 3 OSŘ a dovolání žalovaného nebylo během ní doplněno o chybějící dovolací důvod, stala se tato vada dovolání neodstranitelnou. Proto dovolacímu soudu nezbylo, než dovolání podle § 243c odst. 1 a § 43 odst. 2 OSŘ odmítnout.
+O nákladech dovolacího řízení bylo rozhodnuto za situace, kdy žalobkyni, která by podle § 243b odst. 5 věty prvé, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 OSŘ měla právo na jejich náhradu, v tomto řízení žádné náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 4. října 2006
+Vít Jakšič, v.r.
+předseda senátu
