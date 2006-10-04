@@ -1,0 +1,14 @@
+22 Nd 160/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jiřího Spáčila, CSc., a soudců JUDr. Františka Baláka a JUDr. Marie Rezkové ve věci žalobkyně Mgr. V. P., proti žalované obci B., o návrhu na obnovu řízení a žalobu pro zmatečnost, vedené u Okresního soudu v Šumperku pod sp. zn. 8 C 219/2002, o návrhu žalobkyně na přikázání věci jinému soudu z důvodu vhodnosti, takto:
+Věc vedená u Okresního soudu v Šumperku pod sp. zn. 8 C 219/2002 se nepřikazuje z důvodu vhodnosti Okresnímu soudu v Ústí nad Orlicí.
+Odůvodnění:
+Okresní soud v Šumperku (dále „soud prvního stupně“) usnesením ze dne 12. července 2002, č. j. 8 C 145/99-33, připustil změnu žaloby, kterou se obec B. domáhala, aby jí R. a V. P. zaplatili společně a nerozdílně 1 384,- Kč s poplatkem z prodlení; toto rozhodnutí nabylo právní moci 26. 7. 2002.
+Proti tomuto rozhodnutí Mgr. V. P. podala 18. 8. 2002 u soudu prvního stupně „žalobu na obnovu řízení a pro zmatečnost“. Poté 15. 1. 2003 témuž soudu předložila žádost, aby „z důvodu vhodnosti a podjatosti byla v uvedené věci vyloučena soudkyně JUDr. B. Š. a celý Okresní soud v Šumperku a celá věc z důvodu vhodnosti byla přikázána na Východočeský kraj – soudu v Ústí nad Orlicí“.
+O námitce podjatosti rozhodl zamítavým výrokem Krajský soud v Ostravě – pobočka Olomouc usnesením z 30. 6. 2004, č. j. Nc 79/2004-18, a ohledně návrhu žalobkyně na přikázání věci jinému soudu předložil soud prvního stupně věc 30. 8. 2006 k rozhodnutí podle příslušnosti Nejvyššímu soudu České republiky (dále „Nejvyšší soud“).
+Podle § 12 odst. 2 občanského soudního řádu (dále „OSŘ“) věc může být jinému soudu téhož stupně přikázána též z důvodu vhodnosti. Podle § 12 odst. 3 OSŘ o přikázání věci rozhoduje soud, který je nejblíže společně nadřízen příslušnému soudu a soudu, jemuž má být věc přikázána. Účastníci mají právo se vyjádřit k tomu, kterému soudu má být věc přikázána, a v případě odstavce 2 též k důvodu, pro který by věc měla být přikázána.
+Nejvyšší soud vycházející se shora uvedených zákonných ustanovení dospěl k závěru, že v daném případě neexistují podmínky pro přikázání věci jinému soudu z důvodu vhodnosti. Mgr. V. P. ve svém návrhu neuvedla žádný důvod, proč by měla být věc jinému soudu vůbec přikázána. Další účastníci řízení, kterým byl návrh na přikázání věci jinému soudu doručen, se k němu sice nevyjádřili, z čehož ale nelze usuzovat, že by s takovým postupem souhlasili. Námitka podjatosti, již žalobkyně současně uplatnila, byla příslušným soudem vyřešena samostatně a sama tato námitka, založená na subjektivném náhledu žalobkyně, nemůže být považována za relevantní důvod k přikázání věci jinému soudu. Proto Nejvyšší soud rozhodl, jak vyplývá z výroku tohoto usnesení.
+Proti tomuto rozhodnutí není opravný prostředek přípustný.
+V Brně dne 4. října 2006
+JUDr. Jiří Spáčil, CSc., v. r.
+předseda senátu
