@@ -1,0 +1,15 @@
+U S N E S E N Í
+Nejvyšší soud České republiky projednal dne 9. října 2006 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na zápis odsouzení cizozemským soudem do evidence Rejstříku trestů a rozhodl t a k t o :
+Zamítá se návrh Ministerstva spravedlnosti České republiky na zaznamenání údajů do evidence Rejstříku trestů o odsouzení občana České republiky P. D., rozsudkem Obvodového soudu v Jeně, Spolková republika Německo, ze dne 13. 4. 2005, sp. zn. 509 Js 33163/04 1 Ls.
+O d ů v o d n ě n í :
+Shora uvedeným rozsudkem Obvodového soudu v Jeně, Spolková republika Německo, který nabyl právní moci dne 13. 4. 2005, byl P. D. uznán vinným trestným činem zneužití průkazních dokladů podle § 281 odst. 1 trestního zákoníku Spolkové republiky Německo a odsouzen k trestu odnětí svobody v délce trvání jednoho roku.
+Uvedené trestné činnosti se podle zjištění soudu dopustil odsouzený tím, že se dne 16. 10. 2004 kolem 00:15 hod. při silniční kontrole dodávky tov. zn. Fiat Ducato, úředníky dopravního inspektorátu H., na sjezdu z dálnice, prokázal českou identifikační kartou znějící na jméno M. Č., a to s úmyslem zakrýt svoji pravou totožnost.
+Ministerstvo spravedlnosti České republiky podalo dne 1. 9. 2006, pod sp. zn. 3538/2005–MO–M/6, podle § 4 odst. 2 zákona č. 269/1994 Sb., o Rejstříku trestů (dále jen „zákon“), Nejvyššímu soudu České republiky návrh na zapsání výše uvedeného odsouzení německým soudem do evidence Rejstříku trestů České republiky. Tento návrh byl doručen Nejvyššímu soudu České republiky dne 5. 9. 2006.
+Nejvyšší soud České republiky věc přezkoumal a shledal, že nejsou splněny zákonné podmínky pro zápis odsouzení cizozemským soudem do evidence Rejstříku trestů.
+Především je třeba uvést, že podle § 4 odst. 2 zákona může Nejvyšší soud České republiky na návrh Ministerstva spravedlnosti České republiky rozhodnout, že se do evidence Rejstříku trestů zaznamenají též údaje o odsouzení občana České republiky cizozemským soudem, jestliže se týká činu, který je trestným i podle právního řádu České republiky a zápis do evidence je odůvodněn závažností činu a druhem trestu, který za něj byl uložen. Dále je nutno připomenout, že pokud Nejvyšší soud České republiky rozhodne o zaznamenání údajů o odsouzení do evidence Rejstříku trestů, hledí se na takové odsouzení cizozemským soudem jako na odsouzení soudem České republiky (§ 4 odst. 4 zákona).
+Z podaného návrhu a z obsahu připojeného spisového materiálu sice vyplývá, že odsouzený je občanem České republiky, který byl pravomocně odsouzen cizozemským soudem, avšak odsouzení se týká skutku, který nevykazuje znaky žádného trestného činu podle příslušných právních předpisů České republiky. Formální podmínky ustanovení § 4 odst. 2 zákona proto nejsou v daném případě zcela splněny.
+Z uvedených důvodů proto Nejvyšší soud České republiky návrhu Ministerstva spravedlnosti České republiky nevyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 9. října 2006
+Předseda senátu:
+JUDr. Karel Hasch
