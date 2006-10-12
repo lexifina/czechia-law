@@ -1,0 +1,26 @@
+30 Cdo 2842/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy
+JUDr. Karla Podolky a soudců JUDr. Olgy Puškinové a JUDr. Pavla Pavlíka ve věci nezletilé V. P., zastoupené Městským úřadem v M. jako opatrovníkem, dceru R. K., zastoupené advokátem, a K. P., za účasti Okresního státního zastupitelství v B., o změnu výchovného prostředí a zvýšení výživného, vedené u Okresního soudu v Břeclavi pod sp. zn. P 112/2003, o dovolání matky proti rozsudku Krajského soudu v Brně ze dne 15. prosince 2005, č. j. 14 Co 167/2005-137, takto:
+I. Dovolání matky se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Břeclavi rozsudkem ze dne 9. února 2005, č. j. P 112/2003-102, rozhodl tak, že se ústavní výchova nezletilé nenařizuje (výrok I.), rozsudek Okresního soudu v Břeclavi ve výroku označený, jímž byla nezletilá svěřena do výchovy matky
+a otci stanovena povinnost přispívat na její výživu částkou 500,- Kč měsíčně, se mění tak, že nezletilá se svěřuje do výchovy otce a matka je povinna s účinností od právní moci rozsudku přispívat na její výživu částkou 400,- Kč měsíčně, splatnou vždy
+do každého 20. dne v měsíci předem k rukám otce (výrok II.), návrh matky na zvýšení výživného se zamítá (výrok III.) a že žádný z účastníků nemá právo na náhradu nákladů řízení (výrok IV).
+Krajský soud v Brně k odvolání matky rozsudkem v záhlaví označeným rozsudek soudu prvního stupně v napadeném výroku II. potvrdil ohledně svěření nezletilé do výchovy otce a změnil ohledně vyživovací povinnosti matky k nezletilé tak, že matce se výživné nestanoví, a rozhodl, že žádný z účastníků nemá právo na náhradu nákladů řízení před soudy obou stupňů.
+Matka v podaném dovolání, jehož přípustnost dovozuje z ustanovení § 237
+odst. 1 písm. a) a c) o.s.ř., vyjadřuje nesouhlas s rozhodnutím odvolacího soudu
+a navrhuje, aby jeho rozsudek i rozsudek soudu prvního stupně byly zrušeny a věc vrácena soudu prvního stupně k doplnění řízení o v dovolání navržené důkazy.
+Nejvyšší soud České republiky, který jako soud dovolací (§ 10a o. s. ř.) věc projednal bez jednání (§ 243a odst. 1, věta první, o. s. ř.) a dospěl k závěru, že dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný.
+Dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští (§ 236 odst. 1 o. s. ř.).
+Podle § 237 odst. 1 o. s. ř. je dovolání přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího soudu, a/ jimiž bylo změněno rozhodnutí soudu prvního stupně ve věci samé, b/ jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil, c/ jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není přípustné podle písmena b) a dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam; podle odst. 2 písm. b) dovolání podle odst. 1 není přípustné ve věcech upravených zákonem o rodině, ledaže jde o rozsudek o omezení nebo zbavení rodičovské zodpovědnosti nebo pozastavení jejího výkonu, o určení (popření) rodičovství nebo o nezrušitelné osvojení.
+Dovolání v této věci směřuje proti rozsudku odvolacího soudu, jímž byl rozsudek soudu prvního stupně ve výrocích o výchově nezletilé potvrzen a o výživném nezletilé změněn, přičemž nejde o rozsudek, jemuž by předcházel zrušující rozsudek odvolacího soudu. Z hlediska přípustnosti dovolání podle citovaných ustanovení o.s.ř. tak přichází v úvahu pouze § 237 odst. 1 písm. a) a c) o.s.ř. To se však nevztahuje na rozsudky ve věcech upravených v zákoně o rodině, s výjimkou rozsudků o omezení nebo zbavení rodičovské zodpovědnosti nebo pozastavení jejího výkonu, o určení (popření) rodičovství nebo o nezrušitelné osvojení (§ 237 odst. 2 písm. b/ o.s.ř.).
+Se zřetelem k této zákonné úpravě přípustnosti dovolání proti rozsudku odvolacího soudu zčásti potvrzujícímu a zčásti měnícímu rozsudek soudu prvního stupně ve věcech upravených zákonem o rodině, mezi něž patří i rozsudky upravující výchovu a výživu nezletilých (srv. § 28, § 50, § 85 a násl. zák. o rodině), aniž by posuzovaná věc byla výjimkou ve smyslu § 237 odst. 2 písm. b) o.s.ř., nelze učinit jiný závěr, než že pro povahu věci, v niž odvolací soud rozhodoval, není dovolání ve smyslu § 237 o.s.ř. přípustné.
+Protože dovolání směřuje proti rozhodnutí odvolacího soudu, proti němuž z vyložených důvodů dovolání není přípustné, dovolacímu soudu nezbylo, než je odmítnout, aniž by se mohl zabývat jeho důvodností (§ 243b odst. 5, 6 část věty
+za středníkem, § 218 písm. c/ o.s.ř.).
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, věta první, § 224 odst. 1 a § 151 odst. 1 o.s.ř., neboť dovolatelka s ohledem na výsledek řízení na náhradu svých nákladů nemá právo a ostatním účastníkům v dovolacím řízení žádné náklady nevznikly (§ 146 odst. 3, § 243c odst. 1 o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek podle o. s. ř.
+V Brně dne 12. října 2006
+JUDr. Karel Podolka, v. r.
+předseda senátu
