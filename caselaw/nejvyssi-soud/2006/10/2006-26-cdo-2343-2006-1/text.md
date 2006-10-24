@@ -1,0 +1,19 @@
+26 Cdo 2343/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Roberta Waltra a soudců Doc. JUDr. Věry Korecké, CSc., a JUDr. Ing. Jana Huška ve věci žalobce M., stavebního bytového družstva, zastoupeného advokátem, proti žalované R. D., o zaplacení částky 10.272,- Kč s příslušenstvím, vedené u Městského soudu v Brně pod sp. zn. 52 C 68/2002, o odvolání žalované proti usnesení Krajského soudu v Brně ze dne 30. května 2006, č.j. 13 Co 159/2006-74, takto:
+Řízení o odvolání se zastavuje.
+O d ů v o d n ě n í :
+Krajský soud v Brně (dále „krajský soud“) usnesením ze dne 30. května 2006, č.j. 13 Co 159/2006, potvrdil usnesení Městského soudu v Brně (dále „městský soud“) ze dne 2. března 2006, č.j. 52 C 68/2002-65, kterým městský soud zastavil řízení ohledně zaplacení částky 1.687,- Kč na základě částečného zpětvzetí žaloby. Současně krajský soud rozhodl o námitce podjatosti předsedkyně senátu městského soudu vznesené žalovanou, a to tak, že soudkyně JUDr. R. G., PhD., není vyloučena z projednávání a rozhodování ve věci vedené pod sp. zn. 52 C 68/2002.
+Žalovaná – nezastoupena advokátem – podala u městského soudu dne 12. 7. 2006 podání označené jako odvolání proti usnesení krajského soudu ze dne 30. 5. 2006, č.j. 13 Co 159/2006.
+Podle § 201 občanského soudního řádu (dále jen „o.s.ř.“) je odvolání opravným prostředkem, jímž může účastník napadnout rozhodnutí soudu prvního stupně. Opravným prostředkem, jímž lze napadnout pravomocná rozhodnutí odvolacího soudu, připouští-li to zákon, je dovolání (§ 236 odst. 1 o.s.ř.).
+Rozhodl-li krajský soud o odvolání proti usnesení městského soudu o zastavení řízení pro částečné zpětvzetí žaloby, je jeho usnesení rozhodnutím soudu odvolacího.
+Podle ustanovení § 16 odst. 1 o.s.ř. o tom, zda je soudce vyloučen, rozhodne nadřízený soud.
+Pojem „nadřízený soud” je-li použit občanským soudním řádem k určení věcné příslušnosti soudu, vychází z organizačních vztahů uvnitř soustavy soudů, nikoli ze vztahů instančních a s pojmem „soud prvního stupně” jej tudíž zaměňovat nelze (srov. též stanovisko pléna Nejvyššího soudu z 27. června 1996, Plsn 1/96, publikované ve Sbírce soudních rozhodnutí a stanovisek č. 8, ročník 1996, pod pořadovým číslem 48). Rozhoduje-li tedy krajský soud o vyloučení soudců okresního soudu (Městského soudu v Brně), není toto jeho rozhodnutí rozhodnutím soudu prvního stupně (srov. usnesení Nejvyššího soudu ze dne 8. 12. 2000, sp. zn. 31 Cdo 1425/98).
+Rozhodl-li krajský soud o návrhu na vyloučení soudkyně městského soudu, rozhodoval jako soud nadřízený.
+Občanský soudní řád však neupravuje funkční příslušnost pro projednání odvolání ani proti rozhodnutím odvolacího soudu, ani proti rozhodnutím nadřízeného soudu. Nedostatek funkční příslušnosti je neodstranitelným nedostatkem podmínky řízení, který tak podle § 104 odst. 1 a § 243c odst. 1 o.s.ř. musel vést k zastavení řízení o takovém odvolání.
+K rozhodnutí o zastavení řízení o odvolání proti rozhodnutí odvolacího soudu je příslušný Nejvyšší soud jako vrcholný článek soustavy soudů, který je funkčně příslušný k rozhodování o opravném prostředku (dovolání) proti rozhodnutí odvolacího soudu (srov. usnesení Nejvyššího soudu ze dne 31. 5. 2001, sp. zn. 20 Cdo 1535/99, uveřejněné v časopise Soudní judikatura, číslo sešitu 7/2001, pod poř. č. 85). Obdobnou úvahu lze užít i ve vztahu k rozhodnutí o odvolání proti usnesení nadřízeného soudu o (ne)vyloučení soudce z projednávání a rozhodování věci (srov. usnesení Nejvyššího soudu ze dne 24. 3. 1999, sp. zn. 31 Cdo 2420/98).
+O náhradě nákladů tohoto řízení Nejvyšší soud nerozhodoval, neboť jím řízení nekončí a o nákladech bude rozhodnuto v konečném rozhodnutí.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 24. října 2006
+JUDr. Robert W a l t r , v.r.
+předseda senátu
