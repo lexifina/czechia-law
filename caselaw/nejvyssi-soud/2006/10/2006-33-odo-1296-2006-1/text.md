@@ -1,0 +1,15 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+33 Odo 1296/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivany Zlatohlávkové a soudců JUDr. Blanky Moudré a JUDr. Václava Dudy ve věci žalobce M. B., proti žalované L. B., o zaplacení 1,081.080,- Kč s příslušenstvím, vedené u Okresního soudu v Blansku pod sp. zn. 4 C 1210/2002, o dovolání žalované proti rozsudku Krajského soudu v Brně ze dne 28. června 2005, č. j. 37 Co 321/2004-116, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Dovolání žalované proti rozsudku Krajského soudu v v Brně ze dne 28. června 2005, č. j. 37 Co 321/2004-116, kterým byl potvrzen rozsudek Okresního soudu v Blansku ze dne 25. srpna 2003, č. j. 4 C 1210/2002-41, není přípustné podle § 237 odst. 1 písm. b/ o. s. ř. a nebylo shledáno přípustným ani podle § 237 odst. 1 písm. c/ o. s. ř., neboť napadený rozsudek odvolacího soudu nemá po právní stránce zásadní význam (§ 237 odst. 3 o. s. ř). V dovolání zpochybněná právní otázka naplnění podmínek pro postup podle § 114b o. s. ř. nepatří z hlediska rozhodovací činnosti dovolacího soudu mezi ty, které by dosud nebyly řešeny a nebyla odvolacím soudem vyřešena v rozporu s hmotným právem (srov. např. rozhodnutí Nejvyššího soudu ČR ze dne 12. 8. 2003, sp. zn. 21 Cdo 968/2003, ze dne 25. 1. 2006 sp. zn. 33 Odo 1703/2005, ze dne 18. 8. 2005, sp. zn. 26 Cdo 2284/2004, ze dne 10. 8. 2004, sp. zn. 33 Odo 718/2004, ze dne 10. 11. 2004, sp. zn. 33 Odo 1107/2004, ze dne 21. 8. 2003, sp. zn. 28 Cdo 1555/2003, ze dne 20. 3. 2003, sp. zn. 26 Cdo 1878/2002, či ze dne 17. 12. 2003, sp. zn. 26 Cdo 390/2003, jimiž je prováděn výklad ustanovení § 114b o. s. ř.). Výhrady dovolatelky, že odvolací soud porušil procesní předpisy, neboť přes žádost jejího nově zvoleného právního zástupce neodročil jednání, a odňal jí tak možnost řádně hájit svá práva (náležitě se připravit na projednání věci odvolacím soudem), představují uplatnění dovolacího důvodu podle § 241a odst. 2 písm. a/ o. s. ř. Úspěšné uplatnění tohoto dovolacího důvodu však přichází v úvahu jen za situace, kdy dovolací soud dospěje k závěru, že je dán zásadní právní význam napadeného rozhodnutí, tedy že dovolání je přípustné; sám o sobě tento dovolací důvod přípustnost dovolání podle § 237 odst. 1 písm. c/ o. s. ř. založit nemůže.
+Protože dovolání žalované směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný, dovolací soud je – aniž se mohl věcí dále zabývat – podle § 243b odst. 5 věty první a § 218 písm. c/ o. s. ř. odmítl.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř. za situace, kdy žalobci žádné prokazatelné náklady, na jejichž náhradu by jinak měl vůči žalované právo, nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 30. října 2006
+JUDr. Ivana Z l a t o h l á v k o v á , v .r.
+předsedkyně senátu
