@@ -1,0 +1,16 @@
+11 Tvo 21/2006
+U S N E S E N Í
+Nejvyšší soud projednal v neveřejném zasedání konaném dne 31. října 2006 stížnost obviněného Ž. M. , proti usnesení Vrchního soudu v Praze ze dne 25. 7. 2006, sp. zn. 11 To 79/2006, a rozhodl t a k t o :
+Podle § 148 odst. 1 písm. c) tr. řádu s e stížnost obviněného Ž. M. z a m í t á .
+O d ů v o d n ě n í :
+Rozsudkem Městského soudu v Praze ze dne 21. 2. 2006, sp. zn. 42 T 21/2005, byl obviněný Ž. M. uznán vinným dvěma trestnými činy nedovolené výroby a držení omamných a psychotropních látek a jedů podle § 187 odst. 1, 2 písm. a) tr. zák. a odsouzen k úhrnnému trestu odnětí svobody v trvání sedmi let, pro jehož výkon byl zařazen do věznice s dozorem, k peněžitému trestu a trestu vyhoštění na dobu neurčitou. Stejným rozsudkem bylo rozhodnuto o vině a trestu obviněných A. J. , I. G. , B. B. a Z. H.
+Proti tomuto rozsudku podali všichni obvinění a v jejich neprospěch i městský státní zástupce odvolání a trestní věc se v době rozhodování o vazbě obviněného Ž. M. nacházela ve stadiu odvolacího řízení před Vrchním soudem v Praze.
+Vrchní soud v Praze usnesením ze dne 25. 7. 2006, sp. zn. 11 To 79/2006, podle § 72 odst. 3 tr. řádu zamítl žádost obviněného Ž. M. o propuštění z vazby na svobodu.
+Proti tomuto usnesení podal obviněný Ž. M. stížnost, ve které zpochybňuje závěry vrchního soudu ohledně existence jeho vazebních důvodů a žádá, aby byl propuštěn z vazby na svobodu.
+Nejvyšší soud z podnětu podané stížnosti přezkoumal podle § 147 odst. 1 tr. řádu správnost napadeného rozhodnutí i řízení, které mu předcházelo, a dospěl k tomuto závěru.
+Obviněný Ž. M. byl vzat do vazby usnesením Okresního soudu pro Prahu 4 ze dne 8. 1. 2005, sp. zn. Nt 4306/2005, z důvodů uvedených v § 67 písm. a), b), c) tr. řádu. V průběhu dalšího řízení u obviněného koluzní vazební důvod odpadl a nadále byl ve vazbě již jen z důvodů § 67 písm. a), c) tr. řádu. Naposledy bylo o důvodnosti vazby obviněného rozhodnuto napadeným usnesením Vrchního soudu v Praze. Rozsudkem soudu prvního stupně byl obviněný uznán vinným závažnými trestnými činy, za které mu byl uložen přísný nepodmíněný trest odnětí svobody. Výše uloženého trestu a skutečnost, že obviněný je cizím státním příslušníkem, vyvolávaly důvodnou obavu, že by se obviněný na svobodě mohl dalšímu stíhání vyhýbat, případně uprchnout před nástupem trestu do zahraničí. Skutečnost, že je proti obviněnému vedeno další trestní stíhání, vedla k opodstatněnému závěru, že by na svobodě v této či jiné trestné činnosti mohl pokračovat, či ji opakovat. V tomto směru lze odkázat na zdůvodnění všech předchozích vazebních rozhodnutí, včetně napadeného usnesení vrchního soudu. Protože se Nejvyšší soud s tímto rozhodnutím plně ztotožňuje, nemohla se stížnost obviněného Ž. M. setkat s úspěchem a nezbylo, než rozhodnout, jak je ve výroku tohoto usnesení uvedeno.
+V současné době jsou ovšem úvahy o důvodnosti vazby obviněného Ž. M. bezpředmětné, protože rozsudkem Vrchního soudu v Praze ze dne 22. 9. 2006 byla trestní věc obviněného pravomocně skončena a obviněný byl převeden z vazby do výkonu trestu odnětí svobody.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 31. října 2006
+Předseda senátu:
+JUDr. Pavel Kučera
