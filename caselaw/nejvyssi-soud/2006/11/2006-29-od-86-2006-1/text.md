@@ -1,0 +1,16 @@
+29 Od 86/2006-43
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Faldyny, CSc. a soudců JUDr. Zdeňka Krčmáře a JUDr. Hany Gajdziokové v konkursní věci dlužnice Golf Ještěd, s. r. o., se sídlem Rozstání 5, 463 51 Světlá pod Ještědem, identifikační číslo 25046586, zastoupené JUDr.Františkem Zadinou, advokátem se sídlem Slezská 856/74, 130 00 Praha 3, o návrhu věřitele V. J., na prohlášení konkursu na majetek dlužnice, o žalobě pro zmatečnost podané dlužnicí, vedené u Krajského soudu v Ústí nad Labem pod sp. zn. 68 Cm 100/2005, takto:
+Návrh na přikázání věci vedené u Krajského soudu v Ústí nad Labem pod sp. zn. 68 Cm 100/2005 krajskému soudu „vně“ obvodu Vrchního soudu v Praze se zamítá.
+O d ů v o d n ě n í :
+Žalobou podanou u Krajského soudu v Ústí nad Labem domáhá se žalobkyně vydání rozhodnutí, aby bylo zrušeno usnesení Krajského soudu v Ústí na Labem ze dne 28.6.2002, č. j. 46 K 23/2002-45, kterým je prohlášen konkurs na majetek žalobce.
+Usnesením ze dne 7.2.2006, č. j. Nco 43/2006-20, rozhodl Vrchní soud v Praze, že se zamítá návrh žalobkyně aby věc byla delegována z důvodu vhodnosti Městskému soudu v Praze s odůvodněním, že nelze dovodit, že jiný soud může věc projednat rychleji a hospodárněji.
+Na základě žalobkyní podané námitky podjatosti rozhodl Vrchní soud v Praze usnesením ze dne 11.9.2006, č. j. Nco 178/2006-35, že všichni soudci Krajského soudu v Ústí nad Labem jsou vyloučeni z projednávání a rozhodování věci vedené u tohoto soudu pod sp. zn. 68 Cm 100/2005.
+K výzvě soudu sdělila žalobkyně, že navrhuje postoupení jinému krajskému soudu vně obvodu Vrchního soudu v Praze, aniž uvedla důvody, pro které by věc neměla být rozhodována některým krajským soudem v obvodu Vrchního soudu v Praze. Krajský soud v Ústí nad Labem vzhledem k tomuto návrhu předložil věc Nejvyššímu soudu.
+Z výše citovaného usnesení Vrchního soudu v Praze vyplývá, že soudci Krajského soudu v Ústí nad Labem jsou vyloučeni z projednávání a rozhodování předmětné věci. Podle ustanovení § 12 odst. 1 o. s. ř., nemůže-li příslušný soud ve věci jednat, protože jeho soudci jsou z projednání a rozhodování věci vyloučeni (§ 14, § 15 odst. 2 a § 16a o. s. ř.) musí být věc přikázána jinému soudu téhož stupně. V posuzované věci jsou podmínky ustanovení § 12 odst. 1 o. s. ř. splněny, neboť vzhledem k vyloučení všech soudců nemůže příslušný soud ve věci jednat, a věc proto musí být přikázána jinému krajskému soudu.
+Žalobkyně však ve svém návrhu nikterak neodůvodňuje, proč by na základě delegace nutné měl být příslušným soud „vně obvodu“ Vrchního soudu v Praze a proto Nejvyšší soud návrh žalobce jako nedůvodný zamítl.
+Podle ustanovení § 12 odst. 3 o. s. ř. rozhoduje o přikázání věci soud, který je nejblíže společně nadřízen příslušnému soudu a soudu, kterému by věc měla být přikázána. Jestliže Nejvyšší soud nepřikázal věc krajskému soudu „vně obvodu“ Vrchního soudu v Praze (přicházel by v úvahu některý krajský soud v obvodu Vrchního soudu v Olomouci), je Vrchní soud v Praze ve smyslu ustanovení § 12 odst. 2 o. s. ř. příslušný k rozhodnutí, kterému soudu bude věc přikázána
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 15. listopadu 2006
+JUDr. František Faldyna, CSc.
+předseda senátu
