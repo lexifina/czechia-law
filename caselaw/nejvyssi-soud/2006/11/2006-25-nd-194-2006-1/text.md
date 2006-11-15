@@ -1,0 +1,18 @@
+25 Nd 194/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Vojtka a soudců JUDr. Marty Škárové a JUDr. Jana Eliáše, Ph.D. v právní věci žalobkyně E. B., zastoupené advokátkou, proti žalované H. Š., o určení neplatnosti výpovědi z nájmu bytu, vedené u Okresního soudu v Olomouci pod sp. zn. 25 C 220/2006, o návrhu žalované na přikázání věci Okresnímu soudu ve Svitavách z důvodu vhodnosti podle § 12 odst. 2 o. s. ř., takto :
+Věc vedená u Okresního soudu v Olomouci pod sp. zn. 25 C 220/2006, se nepřikazuje Okresnímu soudu ve Svitavách.
+O d ů v o d n ě n í :
+Okresní soud v Olomouci vede řízení o návrhu žalobkyně na určení neplatnosti výpovědi žalované ze dne 9. 5. 2006 z nájmu bytu nacházejícího se ve 3. NP vpravo v části domu blíže ke středu obce, v domě D. č. p. 33 v D. n. B.
+Okresní soud v Olomouci předložil spis Nejvyššímu soudu České republiky s návrhem žalované na přikázání věci Okresnímu soudu ve Svitavách.
+Žalovaná návrh odůvodnila tím, že je pro ni v této věci obtížné dojíždět na jednání k Okresnímu soudu v Olomouci. Rovněž namítá, že místně příslušným soudem v této věci je Okresní soud ve Svitavách.
+Žalobkyně vyjádřila nesouhlas s přikázáním věci jinému soudu s tím, že pochybnosti žalované o místní příslušnosti nejsou důvodem pro přikázání věci jinému soudu z důvodu vhodnosti. Dále uvádí, že ze zastupování v jiných věcech je zmocněnkyni žalobkyně známo, že žalovaná v pozici žalobkyně potíže s dojížděním k Okresnímu soudu v Olomouci nemá a k jednáním se dostavuje.
+Podle § 12 odst. 2 o. s. ř. věc může být přikázána jinému soudu téhož stupně také z důvodu vhodnosti.
+Nejvyšší soud České republiky jako soud nejblíže společně nadřízený příslušnému soudu a soudu, jemuž má být věc přikázána (§ 12 odst. 3 o. s. ř.), dospěl k závěru, že návrh není důvodný.
+Důvody vhodnosti mohou být různé v závislosti na předmětu řízení, postavení účastníků a jiných okolnostech. Jde zejména o skutečnosti, z nichž lze dovodit, že jiným než příslušným soudem bude věc projednána rychleji a hospodárněji. K přikázání věci jinému než příslušnému soudu by však mělo docházet pouze výjimečně, a to ze závažných důvodů, neboť je uplatňováno jako výjimka z ústavně zaručené zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon (čl. 38 odst. 1 Listiny základních práv a svobod, publikované pod č. 2/1993 Sb., ve znění ust. zák. č. 162/1998 Sb.). Důvody pro odnětí věci příslušnému soudu a její přikázání jinému soudu tedy musí být natolik významné, aby dostatečně odůvodňovaly průlom do výše citovaného ústavního principu.
+Současně je třeba přihlížet k tomu, že výlučná příslušnost soudu, který má podle zákona věc projednat (v daném případě příslušnost podle ustanovení § 88 písm. g/ o. s. ř.), je základní zásadou, a že případné přikázání věci jinému soudu představuje výjimku z této zásady, kterou je nutno - právě proto, že jde o výjimku - vykládat restriktivně (srov. např. nález Ústavního soudu ze dne 15. 11. 2001, sp. zn. I. ÚS 144/2000). Případné pochybnosti o místní příslušnosti soudů v daném řízení nelze řešit postupem podle § 12 odst. 2 o. s. ř.
+Důvody, pro které žalovaná navrhla přikázání věci Okresnímu soudu ve Svitavách, neshledává Nejvyšší soud České republiky opodstatněnými pro postup podle § 12 odst. 2 o. s. ř., neboť přikázáním věci tomuto soudu by nebylo dosaženo hospodárnějšího, rychlejšího ani po skutkové stránce spolehlivějšího a důkladnějšího projednání věci než u soudu, v jehož obvodu se nachází nemovitost, které se projednávaná věc týká.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 15. listopadu 2006
+JUDr. Petr Vojtek, v. r.
+předseda senátu
