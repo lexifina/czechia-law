@@ -1,0 +1,16 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+29 Odo 180/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Krčmáře a soudců JUDr. Petra Gemmela a Mgr. Tomáše Brauna v konkursní věci úpadce A. J., společného podniku „v likvidaci“, o zrušení konkursu, vedené u Krajského soudu v Ostravě pod sp. zn. 36 K 4/2001, o dovolání S. s. S. M., státního podniku, proti usnesení Vrchního soudu v Olomouci ze dne 19. ledna 2005, č. j. 1 Ko 176/2004-138, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í :
+Proti v záhlaví označenému usnesení odvolacího soudu podal dovolání S. s. S. M., státní podnik, dožaduje se jeho zrušení. Dovolání je podepsáno Ing. F. P., jako ředitelem státního podniku.
+Podle ustanovení § 241 občanského soudního řádu (dále též jen „o. s. ř.“), není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními právními předpisy (odstavec 1). Odstavec 1 v případě dovolatelů - právnických osob neplatí, jedná-li za ně osoba uvedená v § 21 o. s. ř., která má právnické vzdělání (odstavec 2 písm. b/). Dovolání musí být (v případě dovolatelů právnických osob) advokátem, notářem nebo osobou uvedenou v § 21 o. s. ř., která má právnické vzdělání, také sepsáno (odstavec 4).
+Vzhledem k tomu, že dovolatel v dovolacím řízení není ani zastoupen advokátem, ani neprokázal, že by dovolání vypracovala a podepsala osoba uvedená v § 21 o. s. ř., která má právnické vzdělání (nepředložil příslušné pověření ani doklad o odpovídajícím právnickém vzdělání takové osoby), Nejvyšší soud jej ve shodě s ustanovením § 241b odst. 2 a § 104 odst. 2 o. s. ř. vyzval v určené týdenní lhůtě k odstranění tohoto nedostatku usnesením ze dne 26. října 2006, č. j. 29 Odo 180/2006-208. Poučil dovolatele současně o následcích případné nečinnosti. Na tuto výzvu dovolatel reagoval podáním datovaným 3. listopadu 2006, došlým Nejvyššímu soudu 7. listopadu 2006 podepsaným opět Ing. F. P. V něm žádá, aby soud připustil záměnu dovolatele za Ing. F. P. a Ing. F. P. současně uplatňuje za sebe žádost o ustanovení zástupce z řad advokátů.
+Povinné zastoupení dovolatele dle § 241 odst. 1 o. s. ř. je zvláštní podmínkou dovolacího řízení, týkající se účastníka řízení (dovolatele), bez jejíhož splnění nelze vydat – s výjimkou usnesení, jímž se dovolací řízení zastavuje nebo usnesení, jímž se dovolání odmítá – rozhodnutí, kterým se dovolací řízení končí. Ke zhojení tohoto nedostatku však do dnešního dne nedošlo.
+Odpovídající reakcí není ani podání dovolatele ze 3. listopadu 2006; podle ustanovení § 243c odst. 1 o. s. ř. neplatí ustanovení § 92 o. s. ř. (upravující v odstavci druhém záměnu účastníků) pro řízení u dovolacího soudu, takže dovolatelem požadovanou záměnu provést nelze. Vzhledem k tomu, že dovolatel (jímž za této situace zůstává státní podnik) nedostatek svého zastoupení nezhojil ani nepožádal o ustanovení zástupce z řad advokátů (žádost Ing. P. jako fyzické osoby,. jež se měla stát účastníkem dovolacího řízení namísto státního podniku, se žádostí státního podniku v dotčeném ohledu zaměnitelná není), Nejvyšší soud dovolací řízení podle § 104 odst. 2 a § 241b odst. 2 o. s. ř. zastavil.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 21. listopadu 2006
+JUDr. Zdeněk Krčmář, v.r.
+předseda senátu
