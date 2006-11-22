@@ -1,0 +1,21 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+32 Odo 601/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Zdeňka Dese a JUDr. Kateřiny Hornochové v právní věci žalobkyně O., a. s., proti žalované I. 3. O., spol. s r.o., o zaplacení částky 21 779,30 Kč s příslušenstvím, vedené u Okresního soudu v Ostravě pod sp. zn. 21 C 313/2001, o dovolání žalované proti rozsudku Krajského soudu v Ostravě ze dne 27. srpna 2003, č.j. 15 Co 400/2002-92, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Ostravě shora označeným rozsudkem potvrdil rozsudek ze dne 5. září 2002, č.j. 21 C 313/2001-68, jímž Okresní soud v Ostravě žalované uložil zaplatit žalobkyni částku 21 779,30 Kč s příslušenstvím a rozhodl o nákladech řízení (výrok I.). Dále rozhodl o nákladech odvolacího řízení (výrok II.).
+Rozsudek odvolacího soudu napadla žalovaná dovoláním, jehož důvodnost (dovolatelka nesprávně zaměnila pojem důvodnosti s přípustností) opřela o ustanovení § 237 odst. 1 písm. c) občanského soudního řádu (dále též jen „o. s. ř.“). Dovolatelka spatřuje zásadní právní význam v řešení otázky, který z účastníků a v jakém rozsahu má ve sporech o vydání bezdůvodného obohacení, resp. o započtení nároků na jeho vydání oproti jiným pohledávkám povinnost tvrzení a důkazní břemeno, která má jak v projednávané věci, tak i z hlediska obecného zásadní právní význam a při jejímž posuzování odvolací soud pochybil. Dovolatelka zastává názor, že byla povinna prokazovat uskutečnění platby a platnost jednostranného zápočtu pohledávek, zatímco ohledně existence právního důvodu plnění uskutečněného žalovanou bylo důkazní břemeno na žalobkyni. Proto navrhla, aby dovolací soud rozsudek odvolacího soudu zrušil a v návaznosti na toto zrušení byla žaloba zamítnuta.
+Jelikož řízení u soudu prvního stupně bylo dokončeno (a rozhodnutí soudů obou stupňů vydána) po 1. lednu 2001, uplatní se pro dovolací řízení – v souladu s body 1., 15., a 17., hlavy I., části dvanácté, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony – občanský soudní řád ve znění účinném od 1. ledna 2001.
+Dovolání v této věci není přípustné.
+Podle ustanovení § 236 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Jde-li o rozsudek, jímž byl odvolacím soudem potvrzen v pořadí první rozsudek soudu prvního stupně ve věci samé (jak tomu bylo i v posuzovaném případě), je předpokladem přípustnosti dovolání podle ustanovení § 237 odst. 1 písm. c) o. s. ř., o které lze obecně přípustnost dovolání opřít, skutečnost, že dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění převyšujícím 20 000 Kč a v obchodních věcech 50 000 Kč, přičemž k příslušenství pohledávky se nepřihlíží [srov. § 237 odst. 2 písm. a) o. s. ř.].
+V předmětném sporu jde nepochybně o obchodní věc (spor mezi podnikateli o zaplacení úhrady tzv. hovorného a telekomunikačních poplatků, vycházející ze smlouvy o užívání telekomunikačního zařízení a telefonních stanic uzavřené mezi účastníky, kterou odvolací soud kvalifikoval jako smlouvu uzavřenou podle § 269 odst. 2 obchodního zákoníku), v níž bylo dovoláním dotčeným potvrzujícím výrokem rozsudku odvolacího soudu rozhodnuto ve věci samé o peněžitém plnění ve výši 21 779,30 Kč. Jedná se tedy ve smyslu § 237 odst. 2 písm. a) o. s. ř. o věc, u níž není dovolání přípustné.
+Lze tak uzavřít, že dovolání žalované směřuje proti rozhodnutí odvolacího soudu, proti němuž není tento mimořádný opravný prostředek přípustný. Nejvyšší soud proto podané dovolání, aniž ve věci nařizoval jednání (§ 243a odst. 1, věta první, o. s. ř.), usnesením odmítl pro nepřípustnost [§ 243b odst. 5 věta první a § 218 písm. c) o. s. ř.].
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 3 o. s . ř. Dovolání žalované bylo odmítnuto, žalobkyni však v souvislosti s dovolacím řízením podle obsahu spisu žádné prokazatelné náklady nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 22. listopadu 2006
+JUDr. Miroslav Gallus, v.r.
+předseda senátu
