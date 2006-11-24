@@ -1,0 +1,17 @@
+11 Tcu 162/2006
+U S N E S E N Í
+Nejvyšší soud České republiky projednal dne 24. listopadu 2006 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na zápis odsouzení cizozemským soudem do evidence Rejstříku trestů a rozhodl t a k t o :
+Podle § 4 odst. 2 zák. č. 269/1994 Sb. se do evidence Rejstříku trestů zaznamenají údaje o odsouzení občana České republiky J. D., rozsudkem Obvodového soudu v Mnichově, Spolková republika Německo, ze dne 30. 9. 2005, sp. zn. 813 Ls 114 Js 10971/04, a to pro trestný čin krádeže podle § 242 odst. 1, § 243 odst. 1 věta 2 č. 2, § 25 trestního zákona Spolkové republiky Německo, k trestu odnětí svobody v trvání 2 (dvou) roků.
+O d ů v o d n ě n í :
+Výše uvedeným rozsudkem Obvodového soudu v Mnichově, Spolková republika Německo, jenž nabyl právní moci dne 30. 9. 2005, byl J. D. uznán vinným trestným činem krádeže podle shora uvedených ustanovení právních předpisů Spolkové republiky Německo a byl mu za to uložen trest odnětí svobody v trvání dvou roků.
+Podle zjištění cizozemského soudu se odsouzený dopustil trestné činnosti v podstatě tak, že v dopoledních hodinách dne 25. 6. 2004, spolu s dalším spolupachatelem, odcizil motocykl značky Ducati, v hodnotě přibližně 10 000 EUR tak, že překonal za pomoci tzv. polského klíče uzamčení řidítek a startér, a odjel s ním na dálnici ve směru hranic.
+Ministerstvo spravedlnosti České republiky podalo podle § 4 odst. 2 zák. č. 269/1994 Sb., o Rejstříku trestů (dále jen zákon), Nejvyššímu soudu České republiky návrh na zapsání výše uvedeného odsouzení německého soudu do evidence Rejstříku trestů České republiky.
+Nejvyšší soud České republiky věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro zápis odsouzení cizozemským soudem do evidence Rejstříku trestů.
+Především je třeba uvést, že podle § 4 odst. 2 zákona může Nejvyšší soud České republiky na návrh Ministerstva spravedlnosti České republiky rozhodnout, že se do evidence Rejstříku trestů zaznamenají údaje o odsouzení občana České republiky cizozemským soudem, jestliže se týká činu, který je trestným i podle právního řádu České republiky a zápis do evidence je odůvodněn závažností činu a druhem trestu, který za něj byl uložen. Dále je nutno připomenout, že pokud Nejvyšší soud rozhodne o zaznamenání údajů o odsouzení do evidence Rejstříku trestů, hledí se na takové odsouzení cizozemským soudem jako na odsouzení soudem České republiky (§ 4 odst. 4 zákona).
+Z podaného návrhu a z obsahu připojeného spisového materiálu vyplývá, že odsouzený je občanem České republiky, který byl odsouzen cizozemským soudem, přičemž odsouzení se týká skutku, který vykazuje znaky trestného činu i podle právního řádu České republiky (trestný čin krádeže podle § 247 tr. zák.). Tím jsou splněny formální podmínky ustanovení § 4 odst. 2 zákona.
+V posuzované věci jsou dány ovšem i podmínky materiální povahy. J. D. se dopustil závažné majetkové trestné činnosti, kterou způsobil větší škodu na cizím majetku. Pokud jde o druh trestu, byl mu uložen již poměrně citelný trest odnětí svobody. Lze tedy dovodit, že podmínky ustanovení § 4 odst. 2 zákona týkající se závažnosti činu a druhu uloženého trestu jsou splněny.
+Z uvedených důvodů proto Nejvyšší soud České republiky návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 24. listopadu 2006
+Předseda senátu:
+JUDr. Antonín Draštík
