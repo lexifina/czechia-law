@@ -1,0 +1,21 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+29 Odo 1048/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedkyně JUDr. Ivany Štenglové a soudců JUDr. Hany Gajdziokové a JUDr. Petra Gemmela v právní věci žalobce JUDr. J. B., jako správce konkursní podstaty úpadce „Č. d. s. – s. a ú. d.“, proti žalovaným 1) Ing. M. L., a 2) H. l. O., a. s., o zaplacení pohledávky ve výši 7,320.000,- Kč s příslušenstvím ze směnky, vedené u Krajského soudu v Ostravě pod sp. zn. 30 Cm 59/2001, o dovolání druhé žalované proti usnesení Vrchního soudu v Olomouci ze dne 15. února 2005, č. j. 4 Cmo 276/2004 - 169, takto:
+Dovolání se zamítá.
+O d ů v o d n ě n í :
+Krajský soud v Ostravě usnesením ze dne 4. června 2004, č. j. 30 Cm 59/2001-159 vyhověl návrhu žalobce, aby do řízení na jeho místo vstoupila obchodní společnost I., s. r. o., se sídlem v P. (dále také jen „společnost“).
+Soud prvního stupně poté, co rozhodl ve věci samé ale ještě před předložením věci odvolacímu soudu k rozhodnutí o odvolání, dospěl k závěru, že v průběhu řízení došlo k převodu směnky, jejíž zaplacení žalobce požaduje, rubopisem na společnost. Žalobce vstup společnosti do řízení ve smyslu ustanovení 107a o. s. ř. navrhl a společnost se vstupem do řízení vyslovila souhlas.
+Odvolací soud k odvolání obou žalovaných usnesení soudu prvního stupně potvrdil.
+Proti usnesení odvolacího soudu podala druhá žalovaná dovolání. Dovolatelka má za to, že řízení je postiženo vadou, která mohla mít za následek nesprávné rozhodnutí ve věci a dále, že rozhodnutí spočívá na nesprávném právním posouzení věci – tedy uplatňuje dovolací důvody dle § 241a odst. 2 písm. a) a písm. b) občanského soudního řádu (dále jen „o. s. ř.“).
+Dovolatelka odvolacímu soudu vytýká, že nesprávně aplikoval ustanovení § 107a o. s. ř., a snáší argumenty na podporu závěru, že byl-li podán návrh, aby nabyvatel práva nebo povinnosti vstoupil do řízení na místo dosavadního účastníka poté, co ve věci rozhodl soud prvního stupně, může o takovém návrhu rozhodnout pouze odvolací soud.
+Proto dovolatelka požaduje, aby rozhodnutí odvolacího soudu, jakož i rozhodnutí soudu prvního stupně, bylo zrušeno a věc vrácena odvolacímu soudu k dalšímu řízení.
+Dovolání je přípustné podle ustanovení § 239 odst. 2 písm. b) o. s. ř., neboť směřuje proti usnesení odvolacího soudu, kterým bylo potvrzeno usnesení soudu prvního stupně, jímž bylo rozhodnuto o vstupu do řízení na místo dosavadního účastníka (§ 107a o. s. ř.); není však důvodné.
+Podle ustanovení § 107a o. s. ř., má-li žalobce za to, že po zahájení řízení nastala právní skutečnost, s níž právní předpisy spojují převod nebo přechod práva nebo povinnosti účastníka řízení, o něž v řízení jde, může dříve, než soud o věci rozhodne, navrhnout, aby nabyvatel práva nebo povinnosti vstoupil do řízení na místo dosavadního účastníka; to neplatí v případech uvedených v § 107 (odstavec 1). Soud návrhu usnesením vyhoví, jestliže se prokáže, že po zahájení řízení nastala právní skutečnost uvedená v odstavci 1, a jestliže s tím souhlasí ten, kdo má vstoupit na místo žalobce; souhlas žalovaného nebo toho, kdo má vstoupit na jeho místo, se nevyžaduje. Právní účinky spojené s podáním žaloby zůstávají zachovány (odstavec 2).
+K předestřené námitce dovolací soud uzavřel, že úkony soudu prvního stupně podle ustanovení § 210 o. s. ř. směřují k přípravě odvolacího jednání. V rámci těchto úkonů musí soud prvního stupně mimo jiné zjistit, zda poté, co ve věci rozhodl, nedošlo ke změnám, týkajícím se účastníků, o kterých je nutné rozhodnout. Došlo-li k takovým změnám před předložením věci odvolacímu soudu a jsou-li splněny podmínky pro rozhodnutí podle ustanovení § 107a o. s. ř., vydá soud v rámci přípravných úkonů potřebné usnesení o právním nástupnictví, neboť takové usnesení je, za této situace, úkonem směřujícím k přípravě odvolacího řízení, a teprve poté předloží věc odvolacímu soudu. Účastníkům je přitom zachována možnost podat proti takovému rozhodnutí odvolání.
+Jelikož se dovolatelce prostřednictvím uplatněných dovolacího důvodů správnost právního posouzení věci odvolacím soudem zpochybnit nepodařilo, Nejvyšší soud dovolání podle ustanovení § 243b odst. 2 věty první o. s. ř. zamítl.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 29. listopadu 2006
+JUDr. Ivana Štenglová, v.r.
+předsedkyně senátu
