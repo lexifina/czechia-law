@@ -1,0 +1,24 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+29 Odo 1582/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudkyň JUDr. Hany Gajdziokové a JUDr. Ivany Štenglové v právní věci žalobkyně S. O., s. r. o., jako obecným zmocněncem, proti žalované R.-R. a S. v. o. s., o zaplacení částky 4,662.462,21 Kč s příslušenstvím, vedené u Okresního soudu v Opavě pod sp. zn. 6 C 349/2004, o dovolání žalované proti usnesení Krajského soudu v Ostravě ze dne 26. června 2006, č.j. 15 Co 350/2006-44, takto:
+Dovolání se zamítá.
+O d ů v o d n ě n í :
+Krajský soud v Ostravě v záhlaví označeným usnesením potvrdil usnesení Okresního soudu v Opavě ze dne 20. dubna 2006, č.j. 6 C 349/2004-31, jímž soud prvního stupně připustil, aby do řízení jako další účastník na straně žalované přistoupil J. R., narozený 27. ledna 1981, bytem ve S.
+V odůvodnění usnesení odvolací soud - odkazuje na ustanovení § 92 odst. 1 občanského soudního řádu (dále jen „o. s. ř.“) - zejména uvedl, že vyhovět návrhu na přistoupení dalšího účastníka do řízení na straně žalované lze pouze tehdy, budou-li i nadále splněny podmínky řízení a je-li zřejmé, čeho se žalobkyně proti přistoupivšímu účastníku domáhá. Rozhodnutí o připuštění přistoupení dalšího účastníka do řízení pak nesmí být v rozporu se zásadou hospodárnosti řízení. V daném případě byly výše uvedené podmínky pro to, aby soud připustil přistoupení J. R., narozeného 27. ledna 1981 do řízení na straně žalované, splněny.
+Námitky žalované, podle nichž J. R. nebyl a není stranou závazkového vztahu mezi právní předchůdkyní žalobkyně a žalovanou, z něhož je žalováno a okresní soud není věcně příslušný k řízení proti přistoupivšímu žalovanému, odvolací soud posoudil jako nerozhodné s tím, že jde o rozšíření účastenství na straně žalované, k něm777už souhlas žalované není potřebný.
+Proti usnesení odvolacího soudu podala žalovaná dovolání, namítajíc, že není dán právní důvod pro vstup J. R. do řízení jako dalšího účastníka na straně žalované. Jmenovaný není obligačním dlužníkem žalobkyně ani ručitelem a žalobkyně je ve vztahu k němu „bez aktivní legitimace“. Skutečnost, že je vlastníkem nemovitosti, na níž vázne zástavní právo, z něj nečiní účastníka řízení a není důvodem pro „vydání napadeného usnesení“.
+Setrvávajíc na námitce věcné nepříslušnosti okresního soudu dovolatelka požaduje, aby dovolací soud usnesení odvolacího soudu zrušil.
+Žalobkyně považuje rozhodnutí odvolacího soudu za správné.
+Dovolání je přípustné podle § 239 odst. 2 písm. b) o. s. ř.; není však důvodné.
+Právní posouzení věci je obecně nesprávné, jestliže odvolací soud posoudil věc podle právní normy, jež na zjištěný skutkový stav nedopadá, nebo právní normu, sice správně určenou, nesprávně vyložil, případně ji na daný skutkový stav nesprávně aplikoval.
+Podle ustanovení § 92 odst. 1 o. s. ř. na návrh žalobce může soud připustit, aby do řízení přistoupil další účastník. Souhlasu toho, kdo má takto do řízení vstoupit, je třeba, jestliže má vystupovat na straně žalobce.
+Výše citované zákonné ustanovení upravuje tzv. přistoupení účastníka do řízení. Z dispoziční zásady, jež ovládá zahájení sporného řízení, pak vyplývá, že přistoupení dalšího účastníka může navrhnout pouze žalobce. Stanovisko žalovaného k návrhu na přistoupení dalšího účastníka nemá právní význam, a jde-li o přistoupení dalšího účastníka na straně žalované, nevyžaduje se souhlas toho, kdo má do řízení přistoupit.
+Jak je zřejmé z obsahu spisu, návrh na přistoupení dalšího účastníka do řízení na straně žalované žalobkyně učinila podáním ze dne 21. března 1996 (srov. č. l. 26 spisu) s odůvodněním, že pohledávka ze smlouvy o úvěru, jejíž zaplacení je předmětem sporu, byla zajištěna zástavním právem k nemovitostem, jejichž vlastníkem je J. R.. Současně „změnila“ žalobu tak, že zaplacení žalované částky se domáhá vůči oběma žalovaným s tím, že proti J.R. je oprávněna domáhat se uspokojení své pohledávky v rámci výkonu rozhodnutí pouze z výtěžku prodeje zastavených nemovitostí a povinnost J. R. zanikne úhradou částky 1,780.000,- Kč.
+Výhrada dovolatelky, podle níž je okresní soud věcně nepříslušný k řízení proti přistoupivšímu žalovanému, je s ohledem na ustanovení § 9 odst. 1 a 3 písm. r) bod 1. o. s. ř. zjevně nedůvodná. Námitka, že jmenovaný není obligačním dlužníkem ani ručitelem, je pro rozhodnutí podle ustanovení § 92 odst. 1 o. s. ř. nevýznamná, když přistoupivší účastník je žalován jako vlastník zástavy.
+Jelikož se dovolatelce prostřednictvím uplatněného dovolacího důvodu správnost rozhodnutí odvolacího soudu zpochybnit nepodařilo, Nejvyšší soud dovolání podle ustanovení § 234b odst. 2 části věty před středníkem o. s. ř. zamítl.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 29. listopadu 2006
+JUDr. Petr Gemmel, v.r.
+předseda senátu
