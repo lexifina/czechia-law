@@ -1,0 +1,20 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+32 Odo 1089/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Zdeňka Dese a JUDr. Kateřiny Hornochové v právní věci žalobce J. K., proti žalované B. s.r.o., o zaplacení 83 038,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 51 C 67/2005, o dovolání žalované proti usnesení Městského soudu v Praze ze dne 6. února 2006, č.j. 17 Co 47/2006-31, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Praze shora označeným usnesením potvrdil usnesení ze dne 2. ledna 2006, č.j. 51 C 67/2005-24, jímž Obvodní soud pro Prahu 4 zamítl návrh žalované na zrušení jím vydaného rozsudku pro zmeškání ze dne 11. října 2005, č.j. 51 C 67/2005-16.
+Usnesení odvolacího soudu napadla žalovaná dovoláním, opírajíc jeho přípustnost o zásadní právní význam napadeného rozhodnutí podle ustanovení § 237 odst. 1 písm. c) občanského soudního řádu (dále též jen „o. s. ř.“), z důvodu nesprávného právního posouzení věci podle § 241a odst. 2 písm. b) o. s. ř. Zásadní právní význam dovolatelka spatřuje v chybném výkladu ustanovení § 153b odst. 4 o. s. ř. odvolacím (i prvoinstančním) soudem při posuzování její omluvy z jednání, na němž bylo rozhodnuto rozsudkem pro zmeškání, čímž bylo poškozeno její ústavně zaručené právo na spravedlivý proces. Dovolatelka snesla ze svého pohledu podrobné argumenty na podporu jí uplatněného dovolacího důvodu a navrhla, aby dovolací soud zrušil usnesení soudů obou stupňů a věc vrátil soudu prvního stupně k dalšímu řízení.
+Dovolání v této věci není přípustné.
+Podle ustanovení § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon (v ustanoveních § 237 až 239 o. s. ř.) připouští.
+Přípustnost dovolání proti usnesení odvolacího soudu, jímž bylo potvrzeno usnesení soudu prvního stupně o zamítnutí návrhu na zrušení rozsudku pro zmeškání, není podle ustanovení § 237 o. s. ř. dána již proto, že usnesením odvolacího soudu nebylo potvrzeno rozhodnutí soudu prvního stupně, kterým by bylo rozhodnuto ve věci samé. Věcí samou se totiž rozumí věc, která je tím předmětem, pro nějž se řízení vede. V řízení, v němž má být rozhodnut spor o právo mezi účastníky, kteří stojí proti sobě v postavení žalobce a žalovaného, je věcí samou nárok uplatněný žalobou, o němž má být v příslušném řízení věcně rozhodnuto (srov. např. usnesení Nejvyššího soudu uveřejněné pod číslem 61/1998 Sbírky soudních rozhodnutí a stanovisek). Rozhodnutí o návrhu na zrušení rozsudku pro zmeškání se opírá o závěr, zda jsou pro zrušení splněny zákonné podmínky, uvedené v procesních ustanoveních. Takové rozhodnutí je rozhodnutím procesního charakteru, které věcně neřeší práva a povinnosti účastníků uplatněná žalobou, a není tedy rozhodnutím o věci samé, a ani usnesení odvolacího soudu, jímž je potvrzeno či změněno usnesení soudu prvního stupně o návrhu na zrušení rozsudku pro zmeškání, není rozhodnutím ve věci samé.
+Dovolání není přípustné ani podle ustanovení § 238 a § 238a o. s. ř., protože usnesením soudu prvního stupně nebylo rozhodnuto ve věcech v uvedených ustanoveních taxativně vyjmenovaných. Přípustnost dovolání nelze dovodit ani z ustanovení § 239 odst. 1, 2 a 3 o. s. ř., neboť nejde o případy v těchto ustanoveních uvedené.
+Lze tak uzavřít, že dovolání žalované směřuje proti rozhodnutí odvolacího soudu, proti němuž není tento mimořádný opravný prostředek přípustný. Nejvyšší soud proto, aniž nařizoval jednání (§ 243a odst. 1, věta první, o. s. ř.), dovolání žalované usnesením pro nepřípustnost odmítl [§ 243b odst. 5 věta první a § 218 písm. c) o. s. ř].
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanoveními § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 3 o. s. ř. Dovolání žalované bylo odmítnuto, žalobci však v souvislosti s dovolacím řízením podle obsahu spisu žádné prokazatelné náklady nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 12. prosince 2006
+JUDr. Miroslav Gallus, v.r.
+předseda senátu
