@@ -1,0 +1,20 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+32 Odo 1603/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Dese a soudců JUDr. Kateřiny Hornochové a JUDr. Miroslava Galluse ve věci žalobkyně Ing. M. K., proti žalovaným 1. JUDr. E. P., a 2. C. L., a.s., o zrušení rozhodčího nálezu, vedené u Obvodního soudu pro Prahu 5 pod sp. zn. 34 C 370/2005, o dovolání žalobkyně proti usnesení Městského soudu v Praze ze dne 28. února 2006 č. j. 53 Co 74/2006-49, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 5 usnesením ze dne 26. září 2005 č.j. 34 C 370/2005-23 zamítl návrh, aby byla odložena vykonatelnost rozhodčího nálezu rozhodce JUDr. E. P. ze dne 5. května 2005 č.j. R 467/04.
+Městský soud v Praze usnesením ze dne 28. února 2006 č. j. 53 Co 74/2006-49 usnesení soudu prvního stupně potvrdil. Odvolací soud stejně jako soud prvního stupně dospěl k závěru, že v dané věci nemohla nastat žalobkyní dovozovaná překážka věci zahájené (litispendence) ve smyslu § 83 občanského soudního řádu (dále jen „o. s. ř.“). V řízení vedeném u Krajského soudu v Brně pod sp. zn. 1 Cm 62/99 je totiž rozdílný okruh účastníků i předmět řízení. Odvolací soud neshledal důvody pro odklad vykonatelnosti předmětného rozhodčího nálezu, neboť nebylo prokázáno, že by žalobkyni hrozila jeho výkonem závažná újma.
+Proti usnesení odvolacího soudu podala žalobkyně dovolání, které hodnotí jako přípustné podle § 237 odst. 1 písm. c) o. s. ř., neboť jí není známo, že by byla soudy řešena otázka rozsahu litispendence v případě vedení dvou řízení o vydání věci, kterou nelze vydat dvakrát. Je zcela nereálné, aby byla vedena dvě řízení o splnění téže právní povinnosti, a proto je podle názoru dovolatelky napadené usnesení vydáno na základě nesprávného právního posouzení věci. Dovolatelka navrhla zrušení usnesení odvolacího soudu i soudu prvního stupně a vrácení věci tomuto soudu k dalšímu řízení.
+Prvá žalovaná ve vyjádření k dovolání uvedla, že má pochybnosti o své pasivní legitimaci, neboť zrušení rozhodčího nálezu se může domáhat kterákoliv ze stran rozhodčího řízení vůči straně druhé a tou rozhodce sám není a nemůže být. Tvrzení uplatněná v dovolání lze podle prvé žalované chápat jako nepochopení leasingové operace a v důsledku toho vyvozování i nesprávných závěrů stran překážky litispendence. Prvá žalovaná navrhla zamítnutí dovolání.
+Dovolání v dané věci není přípustné.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Proti usnesení odvolacího soudu je dovolání přípustné za podmínek stanovených v § 237 o. s. ř., pokud bylo odvolacím soudem rozhodováno ve věci samé. O takový případ se v této věci nejedná.
+Dovolání proti usnesení odvolacího soudu je dále přípustné podle § 238 o. s. ř., musí se však jednat o usnesení odvolacího soudu, kterým odvolací soud potvrdil nebo změnil usnesení soudu prvního stupně, kterým bylo rozhodnuto o žalobě na obnovu řízení nebo o zamítnutí návrhu na změnu rozhodnutí po povolení obnovy řízení. V dalších taxativně vymezených věcech (např. ve věci konkurzu a vyrovnání, ve věci výkonu rozhodnutí, apod.) je dovolání přípustné podle § 238a o. s. ř. Z žádného ustanovení (a to ani z ustanovení § 239 o. s. ř.) však nevyplývá přípustnost dovolání proti usnesení odvolacího soudu, kterým bylo potvrzeno usnesení soudu prvního stupně, kterým byl zamítnut návrh na odklad vykonatelnosti rozhodčího nálezu. Za této situace je nepochybné, že dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný.
+Nejvyšší soud České republiky proto dovolání žalobkyně – aniž by se mohl věcí dále zabývat – podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl. O náhradě nákladů dovolacího řízení nebylo v řízení rozhodováno, protože rozhodnutím o dovolání řízení ve věci nekončí (srov. § 151 odst. 1 o. s. ř.)
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 19. prosince 2006
+JUDr. Zdeněk Des, v.r.
+předseda senátu
