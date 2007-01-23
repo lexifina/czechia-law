@@ -1,0 +1,24 @@
+28 Cdo 844/2006
+ČESKÁ REPUBLIKA
+ROZSUDEK
+JMÉNEM REPUBLIKY
+Nejvyšší soud rozhodl v senátě složeném z předsedy JUDr. Ludvíka Davida, CSc. a soudců JUDr. Josefa Rakovského a JUDr. Roberta Waltra v právní věci žalobce R. D., zastoupeného advokátkou, proti žalovanému P. f. České republiky, o určení vlastnictví k pozemkům, vedené u Okresního soudu Brno-venkov pod sp. zn. 14 C 994/2001, o dovolání žalobce proti rozsudku Krajského soudu v Brně ze dne 21.9.2005, č.j. 16 Co 278/2003-71, takto:
+I. Dovolání se zamítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Brně rozsudkem výše označeným změnil rozsudek Okresního soudu Brno-venkov ze dne 17.4.2003, č.j. 14 C 994/2001-49, tak, že zamítl žalobu, jíž se žalobce domáhal určení vlastnictví k pozemkům parc. č. 1604/1, 1604/2 - orná půda a k pozemku parc. č. 1604/3 - zastavěná plocha a nádvoří, zapsaných u Katastrálního úřadu B.-v. na LV č. 10002 v obci a k. ú. M. Žalobce byl zavázán k náhradě nákladů odvolacího řízení žalovaného ve výši 1.026,- Kč do tří dnů od právní moci rozsudku.
+Odvolací soud nedovodil oprávněnou držbu a vydržení sporných pozemků žalobcem. Nepřistoupil na žalobcovu konstrukci, že desetiletá vydržecí doba počala běžet dnem 24. 6. 1991 jako dnem účinnosti zákona č. 229/1991 Sb. (zkráceně „zákon o půdě“). Podle odvolacího soudu za stavu, nasvědčujícího možné dřívější existenci restitučního nároku žalobce k předmětným pozemkům, nutno vycházet právě ze zákona o půdě (lex specialis) a respektovat rozsudek velkého senátu občanskoprávního kolegia Nejvyššího soudu (o vztahu restitučního nároku a vlastnické žaloby) ze dne 11.9.2003, sp. zn. 31 Cdo 1222/2001. Podáním žaloby na určení vlastnictví tedy nelze zhojit absenci uplatnění restitučního nároku či rozhodnutí o něm.
+Proti rozsudku odvolacího soudu podal žalobce dovolání, v němž vytkl odvolacímu soudu nesprávné právní posouzení věci; dovolací důvod podepřel tvrzeními o své oprávněné držbě (dobré víře) a řádném uplynutí lhůty pro vydržení (§ 130 a násl. o. z.). Poukázal též na skutkový stav zjištěný soudem prvního stupně, podle něhož jen žalobce měl zájem o dění na předmětných pozemcích a nikdo další na nich nehospodařil. Žádal, aby dovolací soud napadený rozsudek odvolacího soudu zrušil.
+Strana žalovaná se k dovolání nevyjádřila.
+Dovolání bylo podáno ve lhůtě, při existenci advokátního zastoupení (§ 240 odst.1, § 241 odst. 1 o. s. ř.), a jeho přípustnost je patrna z rozdílných rozhodnutí nižších instancí (§ 237 odst. 1 písm. a/ o. s. ř.). Dovolací důvod byl uplatněn podle § 241a odst. 2 písm. b) o. s. ř.
+Dovolání není důvodné.
+Nejvyšší soud sdílí právní názor odvolacího soudu, že podle skutkového a právního stavu v minulosti, jak byl popsán v žalobě, připadalo v úvahu uplatnění restitučního nároku žalobcem („bezplatné odevzdání“ pozemků státu otcem žalobce dne 3. 12. 1969, tj. potenciální restituční důvod podle § 6 odst. 1 písm. h/ zákona o půdě). Pak musí být ovšem zásadní přístup k právnímu posouzení věci takový, že žalobce měl uplatnit restituční nárok a o něm mělo být – nebyla-li uzavřena dohoda o vydání věcí s osobou povinnou – rozhodnuto pozemkovým úřadem ve smyslu § 9 odst. 4 zákona o půdě. Žaloba na určení vlastnictví k pozemkům se jeví jako protiřečící závaznému výkladu problematiky, jak jej v citovaném rozsudku velkého senátu (viz výše) provedl dovolací soud.
+Žalobci dost dobře nelze přisvědčit, jestliže spojuje s datem nabytí účinnosti zákona o půdě počátek běhu vydržecí doby. Proti tomuto názoru mluví jak jeho prokázaná předchozí znalost vlastnických poměrů k pozemkům po jejich odevzdání jeho otcem, tak zejména skutečnost, že - podle svých tvrzení - uplatnil restituční nárok jak výzvou osobě povinné, tak především u pozemkového úřadu (§ 9 odst. 1 zákona o půdě). V krajním případě by žalobcova vydržecí doba mohla začít běžet dnem uplatnění restitučního nároku u pozemkového úřadu, jestliže by tento úřad zůstal pasivní; žalobcova tvrzení však jsou – stran řízení o restituci pozemků – zcela rámcová a blíže neupřesněná.
+Je také velmi obtížné argumentovat nepřerušenou držbou resp. dobrou vírou při ní ve vztahu k pozemku parc. č. 1604/3, jestliže došlo k jeho zastavění čističkou odpadních vod.
+Pro dovolací přezkum závazný skutkový stav, jak byl zjištěn nižšími instancemi, se stal oprávněně podkladem pro takové právní posouzení věci, k jakému přikročil odvolací soud. Odlišný právní názor by musel být opřen o jinak žalobními tvrzeními vymezený předmět žaloby; to se však zcela vymyká možnostem dovolacího přezkumu.
+Dovolací soud proto, pro správnost rozsudku odvolacího soudu, dovolání žalobce zamítl (§ 243b odst. 2 o. s. ř.).
+Protistrana byla v řízení úspěšná, náklady dovolacího řízení jí však nevznikly.
+Proti tomuto rozsudku není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 23. ledna 2007
+JUDr. Ludvík D a v i d , CSc.
+předseda senátu
