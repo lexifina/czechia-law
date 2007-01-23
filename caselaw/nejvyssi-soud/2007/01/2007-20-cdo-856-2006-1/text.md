@@ -1,0 +1,16 @@
+20 Cdo 856/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudců JUDr. Miroslavy Jirmanové a JUDr. Vladimíra Mikuška v exekuční věci oprávněné S. e., a. s., proti povinné D. K., pro 107.976,90 Kč s příslušenstvím, vedené u Okresního soudu v Bruntále pod sp. zn. 1 ENc 924/2004, o dovolání R. K. proti usnesení Krajského soudu v Ostravě ze dne 30. 9. 2005, č.j. 9 Co 1003/2005-26, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+V záhlaví uvedeným rozhodnutím krajský soud odmítl podle ustanovení § 218 písm. b/ zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů (dále též jen „o.s.ř.“), odvolání, jímž R. K., manžel povinné, napadl usnesení ze dne 27. 8. 2004, č.j. 1 ENc 924/2004-11, kterým Okresní soud v Bruntále nařídil podle platebního rozkazu Krajského soudu v Ostravě ze dne 12. 11. 2003, sp. zn. 7 Cm 171/2002, k vydobytí pohledávky 107.976,90 Kč s příslušenstvím na majetek povinné exekuci, jejímž provedením pověřil Mgr. Č. B., soudního exekutora. Odvolací soud uzavřel, že ve fázi nařízení exekuce jsou účastníky řízení pouze oprávněná a povinná. Postižení věcí, práv nebo jiných majetkových hodnot patřících do společného jmění povinné a jejího manžela, z usnesení o nařízení exekuce nevyplývá, neboť způsob jejího provedení stanoví exekučním příkazem exekutor (§ 36 odst. 1, 2, § 44 odst. 2 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů, dále jen „zákon č. 120/2001 Sb.“). Osobou oprávněnou k odvolání proti usnesení o nařízení exekuce se R. K. nestal ani tím, že exekutor vydal usnesení, jímž ho podle § 94 odst. 3 o.s.ř. přibral do exekučního řízení.
+Proti rozhodnutí odvolacího soudu podal R. K. dovolání, jímž oponuje závěru o nedostatku své legitimace k řádnému opravnému prostředku.
+Dovolání není přípustné.
+Podle ustanovení § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Z ustanovení § 237 odst. 1 o.s.ř. přípustnost dovolání nevyplývá, jelikož jím napadené usnesení (navíc nemeritorní – k pojmu „věc sama“ srov. usnesení Nejvyššího soudu ze dne 2. 12. 1997, sp. zn. 2 Cdon 774/97, uveřejněné pod č. 61 ve Sbírce soudních rozhodnutí a stanovisek, ročník 1998, příp. usnesení téhož soudu ze dne 28. 8. 1997, sp. zn. 2 Cdon 484/97, uveřejněné v časopise Soudní judikatura č. 11, ročník 1997 pod poř. č. 88) není rozhodnutím měnícím ani potvrzujícím, a protože nejde o žádný z případů upravených v § 238 a § 238a o.s.ř., nelze přípustnost dovolání opřít ani o tato ustanovení. Rovněž ustanovení § 239 odst. 1, 2 a 3 o.s.ř. není k založení přípustnosti dovolání použitelné, jelikož usnesení, jímž odvolací soud odmítá odvolání (z důvodu uvedeného v § 218 písm. b/ o.s.ř.), ve výčtu rozhodnutí, proti nimž je dovolání přípustné, uvedeno není.
+Nejvyšší soud proto dovolání R. K. odmítl (§ 243b odst. 5, věta první, § 218 písm. c/ o.s.ř.), aniž vyžadoval splnění podmínky obligatorního zastoupení (§ 241b odst. 2 o.s.ř.).
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 23. ledna 2007
+JUDr. Pavel Krbek, v. r.
+předseda senátu
