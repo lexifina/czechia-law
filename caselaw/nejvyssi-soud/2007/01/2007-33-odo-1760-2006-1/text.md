@@ -1,0 +1,16 @@
+33 Odo 1760/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně senátu JUDr. Blanky Moudré a soudců JUDr. Ivany Zlatohlávkové a Víta Jakšiče ve věci žalobce V. D., zastoupeného advokátem, proti žalovanému L. B., o zaplacení částky 9,130.027,- Kč s příslušenstvím, vedené u Obvodního soudu pro P. pod sp. zn. 18 C 34/2005, o dovolání žalobce proti usnesení Městského soudu v P. ze dne 26. dubna 2006, č. j. 13 Co 176/2006-66, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Obvodní soud pro P. usnesením ze dne 1. března 2006, č. j. 18 C 34/2005-59, odmítl pro opožděnost (§ 208 odst. 1 o. s. ř.) odvolání žalobce proti usnesení Obvodního soudu pro P. ze dne 9. prosince 2004, č. j. 39 Ro 638/2004-23, jímž nebylo žalobci přiznáno osvobození od soudních poplatků.
+Městský soud v P. usnesením ze dne 26. dubna 2006, č. j. 13 Co 176/2006-66, potvrdil usnesení soudu prvního stupně ze dne 1. března 2006, č. j. 18 C 34/2005-59, neboť se ztotožnil s jeho závěrem, že odvolání žalobce bylo podáno po marném uplynutí odvolací lhůty.
+Žalobce podal dne 17. 8. 2006 u soudu prvního stupně dovolání, z jehož obsahu je zřejmé, že jím napadá usnesení Městského soudu v P. ze dne 26. dubna 2006, č. j. 13 Co 176/20006-66. V něm namítá, že mu nemůže jít k tíži profesionální selhání jeho zástupce, který zmeškal odvolací lhůtu.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř. ) po zjištění, že dovolání proti pravomocnému usnesení odvolacího soudu bylo podáno k tomu oprávněným subjektem (žalobcem), dospěl k závěru, že dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+V posuzovaném případě žalobce dovoláním napadá usnesení odvolacího soudu, kterým bylo potvrzeno usnesení soudu prvního stupně o odmítnutí odvolání pro opožděnost. Přípustnost dovolání podle § 237 o. s. ř. tu není dána, a to již proto, že usnesením odvolacího soudu nebylo potvrzeno usnesení soudu prvního stupně, kterým by bylo rozhodnuto ve věci samé (k pojmu „věc sama“ srovnej usnesení dovolacího soudu ze dne 2. 12. 1997, sp. zn. 2 Cdon 774/97, publikované ve Sbírce soudních rozhodnutí a stanovisek pod R 61/1998). Dovolání není přípustné ani podle § 238, § 238a a § 239 odst. 1 a 2 o. s. ř., protože napadeným usnesením nebylo rozhodnuto ve věcech v uvedených ustanoveních taxativně vyjmenovaných. Přípustnost dovolání nevyplývá rovněž z § 239 odst. 3 o. s. ř., jelikož podle tohoto ustanovení lze podat dovolání jen tehdy, bylo-li potvrzeno usnesení soudu prvního stupně, jímž byla postupem podle § 43 o. s. ř. odmítnuta žaloba (příp. jiný návrh na zahájení řízení), a nikoli odmítl-li soud prvního stupně odvolání pro opožděnost podle § 208 odst. 1 o. s. ř. (jako v posuzovaném případě). Obdobné závěry zaujal dovolací soud již ve svém usnesení ze dne 20. 11. 2001, sp. zn. 21 Cdo 1124/2001, publikovaném ve Sbírce soudních rozhodnutí a stanovisek pod R 41/2003.
+Dovolací soud proto dovolání žalobce pro jeho nepřípustnost odmítl (§ 243b odst. 5 věta první a § 218 písm. c/ o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 23. ledna 2007
+JUDr. Blanka Moudrá, v.r.
+předsedkyně senátu
