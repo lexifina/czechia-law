@@ -1,0 +1,20 @@
+26 Cdo 3499/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Ing. Jana Huška a soudců Doc. JUDr. Věry Korecké, CSc., a JUDr. Miroslava Feráka v právní věci žalobce J. K., proti žalovaným 1) K. S. a 2) J. S., o určení, že žalobce je nájemcem bytu a uložení povinnosti byt vyklidit, vedené u Okresního soudu v Ústí nad Labem pod sp. zn. 12 C 140/98, o dovolání žalobce proti rozsudku Krajského soudu v Ústí nad Labem ze dne 4. května 2006, č. j. 11 Co 808/2005-221, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Ústí nad Labem jako soud odvolací rozsudkem ze dne 4. 5. 2006, č.j. 11 Co 808/2005-221, potvrdil rozsudek Okresního soudu v Ústí nad Labem ze dne 22. 9. 2005, č.j. 12 C 140/98-205, jímž tento soud zamítl žalobu na určení, že žalobce je nájemcem bytu č. 9 první kategorie o velikosti 3 + 1 v domě č. 468 v ulici O. v Ú.n. L., a na uložení povinnosti žalovaným tento byt vyklidit a předat jej žalobci a dále rozhodl o nákladech řízení.
+Dne 14. 7. 2006 podal žalobce osobně u Okresního soudu v Ústí nad Labem dovolání datované dnem 13. 7. 2006, kterým napadl výše uvedený rozsudek odvolacího soudu a požadoval projednání věci u Nejvyššího soudu České republiky, přičemž nikterak nespecifikoval, v jakém rozsahu a z jakých důvodů dovolání podává a čeho se domáhá.
+Okresní soud v Ústí nad Labem usnesením ze dne 6. září 2006, č. j. 12 C 140/98-228, žalobce vyzval, aby si pro dovolací řízení zvolil právním zástupcem advokáta či notáře, příp. jinou osobu mající vysokoškolské právnické vzdělání ve smyslu § 241 zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů (dále jen „o.s.ř.“), a aby uvedl, čeho se domáhá, tj. přesný, určitý a srozumitelný dovolací návrh ve smyslu § 241a odst. 1, 2 a 3 o.s.ř., a to ve lhůtě do 30 dnů ode dne doručení tohoto usnesení. Zároveň byl žalobce poučen o následcích nesplnění výzvy, a to o zastavení dovolacího řízení.
+Žalobce na uvedenou výzvu, která mu byla doručena dne 23. 10. 2006, nereagoval.
+Podle § 241 odst. 1 věty první, odst. 2 písm. a) o.s.ř., musí být dovolatel, který je fyzickou osobou, zastoupen advokátem nebo (v rozsahu oprávnění stanoveného zákonem č. 358/1992 Sb., notářský řád, ve znění pozdějších předpisů) notářem, jímž musí být dovolání též sepsáno; to neplatí, má-li dovolatel právnické vzdělání (§ 241 odst. 2 písm. a/ o.s.ř.). Jedná se o zvláštní podmínku dovolacího řízení týkající se každého dovolatele – v daném případě fyzické osoby, která nemá právnické vzdělání – nebo je alespoň nedoložila, jejíž nedostatek lze odstranit, avšak bez jejího odstranění nelze o dovolání věcně rozhodnout, a to s výjimkou rozhodnutí o zastavení dovolacího řízení.
+Podle § 241a odst. 1 o.s.ř. musí být v dovolání vedle obecných náležitostí (§ 42 odst. 4 o.s.ř.) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu a z jakých důvodů se toto rozhodnutí napadá, popř. které důkazy by měly být provedeny k prokázání důvodu dovolání, a čeho se dovolatel domáhá (dovolací návrh).
+V posuzované věci, jak již bylo shora uvedeno, žalobce své podání ze dne 13. 7. 2006 neopravil a nedoplnil tak, aby mělo všechny náležitosti návrhu na zahájení dovolacího řízení, a ani si po výzvě soudu ve stanovené lhůtě nezvolil advokáta a neučinil tak dosud. Taktéž neprokázal a ani netvrdil, že by sám měl právnické vzdělání.
+Z toho je zřejmé, že nebyl odstraněn nedostatek povinného zastoupení v dovolacím řízení, ani nedostatky návrhu na zahájení dovolacího řízení, ačkoli žalobce byl o důsledcích nesplnění výzvy poučen.
+Nejvyšší soud proto podle § 243c odst. 1 a § 104 odst. 2 věty třetí o.s.ř. dovolací řízení zastavil.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1, § 146 odst. 2 věty první o.s.ř. a s ohledem na to, že žalovaným žádné náklady v řízení nevznikly, tak, že žádný z účastníků nemá právo na jejich náhradu.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 23. ledna 2007
+JUDr. Ing. Jan Hušek, v. r.
+předseda senátu
