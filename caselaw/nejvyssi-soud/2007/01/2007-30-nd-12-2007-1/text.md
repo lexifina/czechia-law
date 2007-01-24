@@ -1,0 +1,19 @@
+30 Nd 12/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedkyně
+JUDr. Olgy Puškinové a soudců JUDr. Karla Podolky a JUDr. Pavla Pavlíka ve věci projednání dědictví po L. K., za účasti pozůstalých dcer 1) M. K., zastoupené H. M., a 2) D. L., a pozůstalých vnuček 3) K. L., zastoupené zákonným zástupcem D. L., a 4) P. L., zastoupené D.L., vedené u Okresního soudu ve Žďáře nad Sázavou pod sp.zn. D 1052/2005, o návrhu na přikázání věci z důvodu vhodnosti, takto:
+Věc vedená u Okresního soudu ve Žďáře nad Sázavou se nepřikazuje k projednání a rozhodnutí Okresnímu soudu v Českém Krumlově.
+O d ů v o d n ě n í :
+Pozůstalá dcera po zemřelém zůstaviteli D. L. navrhla přikázání věci o projednání dědictví Okresnímu soudu v Českém Krumlově z důvodu vhodnosti, neboť v obvodu tohoto soudu bydlí spolu se svými dcerami, pracuje v L.
+a dojíždění k projednání dědictví k Okresnímu soudu ve Žďáře nad Sázavou pro ni představuje finanční zátěž a problémy se zajištěním dopravy.
+Pozůstalá sestra H. M. jako zástupkyně M. K. a pozůstalá vnučka K. L. vyjádřily nesouhlas s přikázáním věci Okresnímu soudu v Českém Krumlově, neboť projednání dědictví u tohoto soudu nepovažují za vhodné s ohledem na to, že obě bydlí v okrese Ž. nad S., a na to, že věci, které jsou předmětem dědictví, se také nacházejí v tomto okrese.
+Podle § 12 odst. 2 o. s. ř. věc může být přikázána jinému soudu téhož stupně z důvodu vhodnosti. O přikázání věci rozhoduje soud, který je nejblíže společně nadřízen příslušnému soudu, jemuž má být věc přikázána. Účastníci mají právo vyjádřit se k tomu, kterému soudu má být věc přikázána a v případě odst. 2 též k důvodu, pro který by měla být věc přikázána (§ 12 odst. 3 o. s. ř.).
+Předpokladem přikázání věci z důvodu vhodnosti podle § 12 odst. 2 o. s. ř. je typicky existence okolností, které umožňují hospodárnější a rychlejší projednání věci. Přitom je ale třeba mít na zřeteli, že obecná místní příslušnost soudu, který má podle zákona věc projednat (v daném případě místní příslušnost stanovená § 84 a § 85 odst. 3 o. s. ř.), je základní zásadou a že případná delegace této příslušnosti jinému soudu je toliko výjimkou z této zásady, kterou je nutno - právě proto, že jde o výjimku - vykládat restriktivně (srov. nález Ústavního soudu České republiky ze dne 15. 11. 2001, sp. zn. I. ÚS 144/2000).
+K přikázání věci jinému než příslušnému soudu by tak mělo docházet pouze výjimečně, a to ze závažných důvodů, neboť je uplatňováno jako výjimka z ústavně zaručené zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon (čl. 38 odst. 1 Listiny základních práv a svobod). Důvody pro odnětí věci příslušnému soudu a její přikázání jinému soudu tedy musí být natolik významné, aby dostatečně odůvodňovaly průlom do citovaného ústavního principu.
+O takový případ se v projednávané věci nejedná. Důvodem, aby věc byla přikázána soudu, v jehož obvodu bydlí pozůstalá dcera D. L. a její dcery, nemůže být toliko jejich bydliště, nýbrž takové okolnosti, z nichž lze spolehlivě dovodit, že jiným než příslušným soudem bude věc projednána hospodárněji a rychleji. Okolnosti, které jmenovaná uvedla nejsou takového rázu, aby jí bránily v tom, aby se ona sama mohla dostavit k tomuto soudu, nehledě na to, že v takovém případě je možno ji vyslechnout prostřednictvím dožádaného soudu podle místa jejího bydliště.
+Přikázáním věci Okresnímu soudu v Českém Krumlově, byť v jeho obvodu bydlí pozůstalá dcera D. L. a její dcery, by nebylo dosaženo hospodárnějšího, rychlejšího a ani po skutkové stránce důkladnějšího projednání věci.
+Nejvyšší soud ČR proto návrhu na přikázání věci Okresnímu soudu v Českém Krumlově podle § 12 odst. 2 o. s. ř. nevyhověl.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 24. ledna 2007
+JUDr. Olga Puškinová, v. r.
+předsedkyně senátu
