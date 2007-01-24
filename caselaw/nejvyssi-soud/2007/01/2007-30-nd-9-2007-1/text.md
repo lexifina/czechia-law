@@ -1,0 +1,24 @@
+30 Nd 9/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedkyně
+JUDr. Olgy Puškinové a soudců JUDr. Karla Podolky a JUDr. Pavla Pavlíka ve věci žalobce R. M., zastoupeného advokátem, proti žalovanému R. R., zastoupenému advokátkou, o 110.080,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 4, pod sp. zn. 20 C 34/2005 - 55, o návrhu na přikázání věci z důvodu vhodnosti, takto:
+Věc vedená u Obvodního soudu pro Prahu 4 se nepřikazuje k projednání
+a rozhodnutí Městskému soudu v Brně, popřípadě Okresnímu soudu Brno - venkov.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 4 navrhl přikázání shora uvedené věci z důvodu vhodnosti Městskému soudu v Brně, popřípadě Okresnímu soudu Brno – venkov. V návrhu uvedl, že po té, co byla zamítnuta žaloba proti původní první žalované Č. L., a. s., jsou účastníky řízení osoby mající bydliště v obvodu Městského soudu v Brně, resp. Okresního soudu Brno - venkov. Stejné platí i pro účastníky navržené svědky a zástupce účastníků řízení, kteří mají sídlo v Brně. Z toho důvodu má navrhující soud za to, že projednání této věci, ať už u Městského soudu v Brně, případně u Okresního soudu Brno - venkov, bude s ohledem na hospodárnost řízení jednoznačně vhodnější, přičemž poukázal na to, že účastníci řízení s tímto postupem projevili souhlas.
+Podle § 12 odst. 2 o. s. ř. věc může být přikázána jinému soudu téhož stupně z důvodu vhodnosti. O přikázání věci rozhoduje soud, který je nejblíže společně nadřízen příslušnému soudu, jemuž má být věc přikázána. Účastníci mají právo vyjádřit se k tomu, kterému soudu má být věc přikázána a v případě odst. 2 též k důvodu,
+pro který by měla být věc přikázána (§ 12 odst. 3 o. s. ř.).
+Předpokladem přikázání věci z důvodu vhodnosti podle § 12 odst. 2 o. s. ř. je typicky existence okolností, které umožňují hospodárnější a rychlejší projednání věci. Přitom je ale třeba mít na zřeteli, že obecná místní příslušnost soudu, který má podle zákona věc projednat (v daném případě místní příslušnost stanovená § 84 a § 85 odst. 3 o. s. ř.), je základní zásadou a že případná delegace této příslušnosti jinému soudu je toliko výjimkou z této zásady, kterou je nutno - právě proto, že jde o výjimku - vykládat restriktivně (srov. nález Ústavního soudu České republiky ze dne 15. 11. 2001, sp. zn.
+I. ÚS 144/2000).
+Podle ustáleného výkladu musí úvaha soudu rozhodujícího o delegaci zahrnovat i dosavadní výsledky řízení; delegace nebude zpravidla namístě v případech, kdy příslušný soud již provedl podstatnou část dokazování (srov. Občanský soudní řád, Komentář, 7. vydání, C-H-BECK, Praha 2006, s. 49, pozn. 2.).
+K přikázání věci jinému než příslušnému soudu by mělo docházet pouze výjimečně, a to ze závažných důvodů, neboť je uplatňováno jako výjimka z ústavně zaručené zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon (čl. 38 odst. 1 Listiny základních práv a svobod). Důvody pro odnětí věci příslušnému soudu a její přikázání jinému soudu tedy musí být natolik významné, aby dostatečně odůvodňovaly průlom do citovaného ústavního principu.
+Právě o takový případ se v projednávané věci nejedná. Důvodem, aby věc byla přikázána jinému soudu, v jehož obvodu bydlí či sídlí účastníci řízení, navržení svědci
+a zástupci účastníků poté, co byla zamítnuta žaloba proti původní první žalované, nemůže být toliko jejich bydliště či sídlo, nýbrž takové okolnosti, z nichž lze spolehlivě dovodit, že jiným než příslušným soudem bude věc projednána hospodárněji a rychleji. Ani žádný z účastníků netvrdí, že by zde byly takové okolnosti, které by bránily tomu, aby se oni, či jejich zástupci, mohli dostavit k procesnímu soudu, nehledě na to, že v takovém případě je možno fyzickou osobu vyslechnout prostřednictvím dožádaného soudu podle místa bydliště. Stejně tak lze prostřednictvím dožádaného soudu provést důkazy výslechem svědků.
+Jak vyplývá z obsahu spisu, provedl již navrhující Obvodní soud pro Prahu 4 část dokazování, ve věci jednal a pravomocně rozhodl ve vztahu k první žalované,
+a to rozsudkem ze dne 25. 4. 2006, č. j. 20 C 24/2005 - 55, který byl potvrzen rozsudkem Městského soudu v Praze ze dne 26. 10. 2006, č. j. 64 Co 260/2006 - 72.
+Za takové situace nelze souhlasit s názorem, že přikázáním věci Městskému soudu v Brně, popř. Okresnímu soudu Brno - venkov, by bylo dosaženo hospodárnějšího, rychlejšího a po skutkové stránce důkladnějšího projednání věci, byť účastníci řízení, navržení svědci a zástupci účastníků řízení bydlí či mají sídlo v obvodu těchto soudů.
+Nejvyšší soud ČR proto návrhu na přikázání věci Městskému soudu v Brně, popř. Okresnímu soudu Brno - venkov podle § 12 odst. 2 o. s. ř. nevyhověl.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 24. ledna 2007
+JUDr. Olga Puškinová, v.r.
+předsedkyně senátu
