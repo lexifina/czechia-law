@@ -1,0 +1,15 @@
+20 Cdo 1535/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové a soudců JUDr. Marie Vokřinkové a JUDr. Pavla Krbka v exekuční věci oprávněných a) M. Š., b) J. Š., c) J. Š., d) J. Š., proti povinnému K. H., pro 40.712,- Kč, vedené u Okresního soudu v Šumperku pod sp. zn. 15 Nc 7049/2003, o dovolání povinného proti usnesení Krajského soudu v Ostravě – pobočky v Olomouci ze dne 30. 4. 2004, č.j. 40 Co 440/2004-24, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í :
+Shora označeným rozhodnutím odvolací soud odmítl odvolání povinného proti usnesení ze dne 22. 10. 2003, č.j. 15 Nc 7049/2003-11, jímž Okresní soud v Šumperku k uspokojení pohledávky oprávněných ve výši 40.712,- Kč nařídil podle vykonatelného rozsudku Krajského soudu v Ostravě ze dne 24. 6. 2002, č.j. 23 C 15/2001-119, exekuci na majetek povinného a jejím provedením pověřil Mgr. Ing. R. O., soudního exekutora.
+Povinný napadl usnesení odvolacího soudu (podle obsahu podání i jeho výslovného označení) dovoláním. Jelikož nebyl zastoupen advokátem, soud prvního stupně ho usnesením ze dne 16. 3. 2005, č.j. 15 Nc 7049/2003-41, doručeným dne 24. 3. 2005, vyzval, aby si ve lhůtě jednoho týdne zvolil zástupcem advokáta a aby jeho prostřednictvím podal řádné (jím sepsané) dovolání. Následná žádost povinného o ustanovení advokáta byla zamítnuta usnesením Okresního soudu ve Šumperku ze dne 25. 8. 2005, č.j. 15 Nc 7049/2003-45, ve spojení s usnesením Krajského soudu v Ostravě – pobočky v Olomouci ze dne 30. 1. 2006, č.j. 40 Co 1473/2005-59. Usnesení nabylo právní moci dne 17. 2. 2006. Povinný vytýkaný nedostatek do dnešního dne neodstranil.
+Z ustanovení § 241 odst. 1, 2 písm. a), odst. 4 zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů (dále jen „o.s.ř.“), plyne, že dovolatel (fyzická osoba) musí být zastoupen advokátem (příp. notářem), jestliže nemá právnické vzdělání, a jím musí být dovolání i sepsáno. Zvolí-li si advokáta až poté, co sám podal dovolání, je ke splnění podmínky dovolatelova zastoupení nezbytné, aby zmocněnec (advokát) jím dříve učiněné podání nahradil nebo doplnil vlastním, popř. sdělil soudu, že se s již učiněným podáním ztotožňuje.
+Nedostatek povinného zastoupení dovolatele ve smyslu citovaného ustanovení je nedostatkem podmínky řízení, jenž se týká účastníka řízení a který je svou povahou odstranitelný. Podle § 243c odst. 1, § 104 odst. 2 o.s.ř. učiní soud k jeho odstranění vhodná opatření; nezdaří-li se jej odstranit, řízení zastaví.
+Jelikož splnění podmínky řízení podle § 241 odst. 1 a 4 o.s.ř. dovolatel – navzdory takovému opatření – ani dodatečně nedoložil, Nejvyšší soud řízení o dovolání zastavil.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zák. č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 30. ledna 2007
+JUDr. Miroslava Jirmanová, v. r.
+předsedkyně senátu
