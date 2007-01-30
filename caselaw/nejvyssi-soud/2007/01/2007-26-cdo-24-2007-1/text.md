@@ -1,0 +1,16 @@
+26 Cdo 24/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Ing. Jana Huška a soudců Doc. JUDr. Věry Korecké, CSc., a JUDr. Miroslava Feráka v právní věci žalobce Ing. J. P., zast. advokátem, proti žalované S. B., o 24.000,- Kč s příslušenstvím, vedené u Okresního soudu v Klatovech pod sp. zn. 9 C 43/2006, o dovolání žalované proti rozsudku Okresního soudu v Klatovech ze dne 3. května 2006, č. j. 9 C 43/2006-30, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Plzni jako soud odvolací rozsudkem ze dne 17. srpna 2006, č. j. 14 Co 292/2006-47, potvrdil rozsudek Okresního soudu v Klatovech ze dne 3. května 2006, č. j. 9 C 43/2006-30, jímž tento soud uložil žalované povinnost zaplatit žalobci 24.000,- Kč s poplatkem z prodlení ve výši 2,5 promile denně z částky 4.000,- Kč ode dne 21. 7. 2005 do zaplacení jdoucím, z částky 4.000,- Kč ode dne 21. 8. 2005 do zaplacení jdoucím, z částky 4.000,- Kč ode dne 21. 9. 2005 do zaplacení jdoucím, z částky 4.000,- Kč ode dne 21. 10. 2005 do zaplacení jdoucím, z částky 4.000,- Kč ode dne 21. 11. 2005 do zaplacení jdoucím a z částky 4.000,- Kč ode dne 21. 12. 2005 do zaplacení jdoucím, to vše do tří dnů od právní moci rozsudku, a dále rozhodl o nákladech řízení.
+Podáním ze dne 17. 10. 2006, doručeným soudu prvního stupně dne 19. 10. 2006, označeným jako „Dovolání k Nejvyššímu soudu ČR“, napadla žalovaná výše uvedený rozsudek „pro zmeškání“ vydaný soudem prvního stupně a od Nejvyššího soudu České republiky požaduje, „aby byl zrušen ,rozsudek pro zmeškání‘ a nařízeno nové prokazující jednání“.
+Okresní soud v Klatovech přesto usnesením ze dne 16. 11. 2006, č. j. 9 C 43/2006-59, žalovanou vyzval, aby si pro dovolací řízení zvolila právním zástupcem advokáta či notáře a aby jeho prostřednictvím odstranila nedostatky svého podání ze dne 17. 10. 2006; k odstranění těchto nedostatků dovolání a k předložení plné moci advokáta či notáře jí soud prvního stupně určil lhůtu 20 dnů ode dne doručení tohoto usnesení. Zároveň byla žalovaná náležitě poučena o následcích nesplnění výzvy, a to o zastavení dovolacího řízení.
+Vzhledem k tomu, že shora uvedeným podáním ze dne 17. 10. 2006, označeným jako „Dovolání k Nejvyššímu soudu ČR“, napadla žalovaná rozsudek soudu prvního stupně a protože občanský soudní řád neupravuje funkční příslušnost soudu pro projednání „dovolání“ proti rozhodnutí soudu prvního stupně, je nedostatek funkční příslušnosti rovněž neodstranitelným nedostatkem podmínky řízení, který dle § 104 odst. 1 a § 243c odst. 1 o.s.ř. vede k zastavení řízení o dovolání proti rozsudku Okresního soudu v Klatovech ze dne 3. 5. 2006, č. j. 9 C 43/2006-30.
+Nejvyšší soud proto podle § 243c odst. 1 a § 104 odst. 1 o.s.ř. dovolací řízení zastavil.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1, § 146 odst. 2 věty první o.s.ř. a s ohledem na to, že žalobci žádné náklady v řízení nevznikly, tak, že žádný z účastníků nemá právo na jejich náhradu.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 30. ledna 2007
+JUDr. Ing. Jan H u š e k , v. r.
+předseda senátu
