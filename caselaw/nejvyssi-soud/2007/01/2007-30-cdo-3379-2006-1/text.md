@@ -1,0 +1,23 @@
+30 Cdo 3379/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy
+JUDr. Pavla Pavlíka a soudců JUDr. Olgy Puškinové a JUDr. Karla Podolky v právní věci žalobce J. S., proti žalované označené jako Česká republika, o ochranu osobnosti,vedené u Krajského soudu v Ostravě pod sp. zn. 23 C 196/2005, o dovolání žalobce proti usnesení Vrchního soudu v Olomouci ze dne 27. dubna 2006, č.j. 1 Co 57/2006-18, t a k t o :
+I. Dovolací řízení se zastavuje.
+II. Žalobce nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Vrchní soud v Olomouci usnesením ze dne 27. dubna 2006, č.j. 1 Co 57/2006-18, potvrdil usnesení Krajského soudu v Ostravě ze dne 16. ledna 2006, č.j. 23 C 196/2005-10, kterým nebylo v této věci vyhověno žádosti žalobce o ustanovení zástupce z řad advokátů, řízení bylo zastaveno, a bylo rozhodnuto o náhradě nákladů řízení. Současně rozhodl o náhradě nákladů odvolacího řízení a o uložení pořádkové pokuty žalobci.
+Usnesení odvolacího soudu bylo žalobci doručeno dne 9. června 2006 a téhož dne nabylo právní moci.
+Krajský soud v Ostravě usnesením ze dne 19. června 2006, č.j. 23 C 196/2005-26, ve znění opravného usnesení ze dne 25.7.2006, č.j. 23 C 196/2005-31, nevyhověl žádosti žalobce o ustanovení zástupce z řad advokátů pro dovolací řízení.
+Proti rozhodnutí Vrchního soudu v Olomouci ze dne 27. dubna 2006 podal žalobce dne 3. července 2006 jím sepsané a vlastnoručně podepsané dovolání. Současně konstatoval, že není zastoupen advokátem, protože mu soud odmítl tohoto zástupce ustanovit.
+Poté soud prvního stupně usnesením ze dne 1. září 2006, č.j. 23 C 196/2005-33, které bylo dovolateli doručeno dne 15. září 2006, jej vyzval, aby si ve lhůtě čtrnácti dnů v dovolacím řízení zvolil zástupcem advokáta, který by pak podal v této věci řádné dovolání. Žalobce poučil o tom, že nebude-li této výzvě ve stanovené lhůtě vyhověno, bude dovolací řízení zastaveno.
+Podle § 241 o.s.ř. musí být dovolatel zastoupen advokátem nebo notářem, jestliže sám nemá právnické vzdělání, popřípadě jedná-li za něj právnická osoba uvedená v § 21 nebo § 21a anebo v § 21b o.s.ř., která má právnické vzdělání, přičemž notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními předpisy (odst. 1 a 2). Nemá-li dovolatel právnické vzdělání, musí být dovolání sepsáno advokátem, notářem nebo osobou uvedenou v § 21 nebo § 21a,
+v § 21b, anebo v § 26a odst. 3 o.s.ř., která má právnické vzdělání (odst. 4).
+Jde o úpravu tzv. povinného zastoupení dovolatele v dovolacím řízení, které je chápáno jako zvláštní podmínka dovolacího řízení týkající se dovolatele, jejíž nedostatek lze sice odstranit, bez jejíhož splnění však nelze vydat rozhodnutí ve věci samé. Nedostatek v zastoupení dovolatele musí být proto řešen postupem podle ustanovení § 241b odst. 2 o.s.ř. ve spojení s § 104 odst. 2 téhož zákona.
+Požadavek povinného zastoupení platí jen pro podání dovolání, přičemž však tuto část dovolacího řízení je třeba chápat v širším smyslu tak, že zahrnuje nejen podání dovolání samotného, ale vztahuje se i k podání, kterým se dovolání doplňuje nebo omezuje, nebo podání, kterým se disponuje rozsahem dovolání, jeho důvody nebo dovolacím návrhem. Pokud dovolatel podá dovolání sám, je nezbytné ke splnění požadavku nuceného zastoupení vyplývajícího ze zmíněného ustanovení, aby jeho zástupce učiněné podání nahradil nebo doplnil vlastním podáním nebo aby alespoň písemně nebo ústně do protokolu sdělil soudu, že se s dovolatelem učiněným podáním ztotožňuje. Nestane-li se tak, není požadavku povinného zastoupení vyhověno (obdobně srovnej JUDr. Jaroslav Bureš, JUDr. Ljubomír Drápal, JUDr. Zdeněk Krčmář,
+JUDr. Michal Mazanec, Občanský soudní řád, Komentář, 6. vydání, Praha 2003, II. díl, str. 1064 až 1065).
+O tento případ jde v posuzované věci, neboť dovolatel, ač nebylo doloženo, že by sám měl právnické vzdělání, resp., že by za něj jednala podle zákona kvalifikovaná osoba, nedoložil soudu ve stanovené lhůtě (resp. ani později), že v jeho případě byla splněna podmínka povinného zastoupení. Protože tak nebyla naplněna tato zvláštní podmínka dovolacího řízení, dovolacímu soudu nezbylo, než podle již uvedených ustanovení dovolací řízení zastavit.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 5 věta prvá o.s.ř. ve spojení s § 224 odst. 1, § 151 a § 146 odst. 2 věta první o.s.ř., když dovolatel sice procesně zavinil, že dovolací řízení muselo být zastaveno, avšak žalované v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 31. ledna 2007
+JUDr. Pavel Pavlík, v.r.
+předseda senátu
