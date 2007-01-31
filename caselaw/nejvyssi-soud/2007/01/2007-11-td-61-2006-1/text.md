@@ -1,0 +1,15 @@
+11 Td 61/2006
+U S N E S E N Í
+Nejvyšší soud v trestní věci odsouzeného A. R., projednal v neveřejném zasedání konaném dne 31. ledna 2007 návrh na odnětí a přikázání věci podle § 25 tr. řádu a rozhodl t a k t o :
+Návrh na odnětí věci vedené u Krajského soudu v Ústí nad Labem pod sp. zn. 4 To 628/2006 a její přikázání Krajskému soudu v Brně s e z a m í t á .
+O d ů v o d n ě n í :
+Usnesením Okresního soudu v Mostě ze dne 15. 8. 2006, sp. zn. 26 Nt 2702/2004, byl podle § 283 písm. d) tr. řádu zamítnut návrh odsouzeného A. R. na povolení obnovy řízení.
+Proti tomuto usnesení podal odsouzený A. R. stížnost a věc byla předložena Krajskému soudu v Ústí nad Labem jako soudu odvolacímu.
+Podáním ze dne 15. 11. 2006 navrhl odsouzený A. R. podle § 25 tr. řádu odnětí jeho věci Krajskému soudu v Ústí nad Labem a její přikázání Krajskému soudu v Brně s tím, že „krajský soud není na takové úrovni, aby mohl přijmout důkazy, které by mohly usvědčit policii ze zneužití pravomoci“, a že „jeho trestní i civilní věci jsou vedením soudu záměrně přidělovány soudcům, kteří jsou loajální s organizovaným zločinem“, kdy „zločinné spolčení krajského soudu s organizovaným zločinem je zdokumentováno u Nejvyššího soudu v žalobě pro zmatečnost a v žalobě pro podvod“, na které odsouzený v celé šíři odkazuje. Důvodem proč odsouzený navrhuje přikázání jeho věci Krajskému soudu v Brně je, aby společně nadřízeným soudem, který o delegeci bude rozhodovat, byl Nejvyšší soud.
+Nejvyšší soud zhodnotil předložený návrh ve smyslu ustanovení § 25 tr. řádu a dospěl k následujícímu závěru.
+Podle § 25 tr. řádu může být věc z důležitých důvodů odňata příslušnému soudu a přikázána jinému soudu téhož druhu a stupně. Pojem „důležité důvody“ sice není v zákoně blíže definován, ale je nepochybné, že se musí jednat o skutečnosti, jež budou svoji povahou výjimečné, neboť ustanovení § 25 tr. řádu, dle něhož lze v určitých případech věc delegovat k jinému soudu, je zákonným průlomem do zásady, že nikdo nesmí být odňat svému zákonnému soudci, vyjádřené v čl. 38 odst. 1 Listiny základních práv a svobod. Důvody pro odnětí věci příslušnému soudu a její přikázání jinému soudu musí být natolik významné, aby dostatečně odůvodňovaly průlom do výše citovaného ústavního principu.
+Z důvodů uvedených obviněným jako odůvodnění postupu podle § 25 tr. řádu lze vzít vážně pouze důvěru odsouzeného k Nejvyššímu soudu. Stejným způsobem ovšem již nelze hodnotit zdůvodnění odsouzeného proč nevěří v nezávislost a nestrannost soudců Okresního soudu v Mostě a Krajského soudu v Ústí nad Labem. Ničím nepodložené tvrzení o zločinném spolčení těchto soudců s organizovaným zločinem nemůže být samo o sobě důvodem tak závažného zásahu do věcné a místní příslušnosti k projednání věci jaké umožňuje § 25 tr. řádu. Protože odsouzený žádný jiný důvod k tomuto postupu neuvedl, nemohl se jeho návrh shledat s úspěchem, a tak nezbylo než rozhodnout, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 31. ledna 2007
+Předseda senátu:
+JUDr. Pavel Kučera
