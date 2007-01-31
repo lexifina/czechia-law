@@ -1,0 +1,20 @@
+20 Cdo 2978/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Vladimíra Mikuška a soudců JUDr. Pavla Krbka a JUDr. Miroslavy Jirmanové ve věci výkonu rozhodnutí oprávněné O. s. s. z., proti povinnému J. M., zastoupenému advokátem, pro částku 137 939,- Kč, prodejem movitých věcí, vedené u Okresního soudu v Náchodě pod sp. zn. E 4172/2005, o dovolání povinného proti usnesení Krajského soudu v Hradci Králové ze 30. 5. 2006, č.j. 20 Co 231/2006-38, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Shora označeným rozhodnutím krajský soud potvrdil usnesení z 20. 12. 2005, č. j. E 4172/2005-11, jímž okresní soud nařídil výkon rozhodnutí.
+V dovolání (zásadní právní význam spatřuje „v tom, že odvolací soud přehlédl, resp. ignoroval dovolatelem již dříve vznášenou námitku promlčení“) povinný namítá nesprávné právní posouzení věci (§ 241a odst. 2 písm. b/ o.s.ř.), spočívající v tom, že výkon rozhodnutí byl nařízen na základě (podle jeho názoru „nulitního“) exekučního titulu – výkazu nedoplatků /§ 104g odst. 1 zákona č. 582/1991 Sb. v rozhodném znění/ z 18. 11. 2005 – vyměřujícího mu penále za období od 6. 9. 1993 do 31. 1. 1994 přes „neřešenou námitku promlčení.“
+Nejvyšší soud věc projednal podle občanského soudního řádu ve znění účinném do 31. 3. 2005 (čl. II, bod 3. zákona č. 59/2005 Sb.).
+Dovolání není přípustné.
+Podle ustanovení § 236 odst. 1 o.s.ř. lze dovoláním napadnout jen pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Ve smyslu ustanovení § 237 odst. 1 písm. c) o.s.ř. – jež podle § 238a odst. 2 o.s.ř. platí obdobně a podle něhož je přípustnost dovolání nutno v předmětné věci posuzovat vedle ustanovení § 238a odst. 1 písm. c) o.s.ř. – je dovolání proti potvrzujícímu usnesení odvolacího soudu, jemuž nepředcházelo kasační rozhodnutí, přípustné jen dospěje-li dovolací soud k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam; ten je dán zejména tehdy, řeší-li rozhodnutí odvolacího soudu právní otázku, která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo která je odvolacími soudy nebo dovolacím soudem rozhodována rozdílně, nebo řeší-li ji v rozporu s hmotným právem (§ 237 odst. 3 o.s.ř.).
+Hodnocením dovolatelova argumentu odůvodňujícího přípustnost dovolání však k závěru o splnění této podmínky dospět nelze. O existenci (dovoláním otevřené) právní otázky, jejíž posouzení by mohlo být relevantní i pro posouzení obdobných právních poměrů, a jež by tak mohlo mít vliv na rozhodovací činnost soudů obecně (což rozhodnutí zásadního právního významu ve smyslu § 237 odst. 3 o.s.ř. předpokládá), totiž v dané věci nejde, jelikož není žádného podkladu pro úsudek, že odvolací soud při posuzování rozhodných otázek uplatnil právní názory nestandardní, případně vybočující z mezí ustálené soudní praxe.
+Dovolatelova námitka, že v nalézacím řízení byl zavázán k zaplacení již promlčené pohledávky, a to přes opakovaně vznášenou námitku promlčení, směřuje proti vykonávanému titulu. Jeho věcnou správnost však soud v exekučním řízení oprávněn přezkoumávat není. V tomto směru je tedy napadené rozhodnutí odvolacího soudu v souladu se stávající judikaturou.
+Protože – jak vyplývá z výše uvedeného – není dovolání přípustné podle žádného z výše uvedených ustanovení, Nejvyšší soud je bez jednání (§ 243a odst. 1 věta první o.s.ř.), aniž se musel zabývat závěrem odvolacího soudu, že „hmotněprávní úkon, tj. postoupení pohledávky, nemůže být nahrazen společným prohlášením“, podle ustanovení § 243b odst. 5 věty první a § 218 písm. b) o.s.ř. odmítl.
+Dovolání bylo odmítnuto, oprávněné náklady tohoto řízení, na jejichž náhradu by jinak měla právo, (podle obsahu spisu) nevznikly; této procesní situaci odpovídá ve smyslu ustanovení § 146 odst. 3 věty první, § 224 odst. 1 a § 243b odst. 5 o.s.ř. výrok, že na náhradu nákladů tohoto řízení nemá právo žádný z účastníků.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 31. ledna 2007
+JUDr. Vladimír M i k u š e k , v. r.
+předseda senátu
