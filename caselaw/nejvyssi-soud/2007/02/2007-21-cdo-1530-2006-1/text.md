@@ -1,0 +1,14 @@
+21 Cdo 1530/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci dědictví po J. P., zemřelé, za účasti W. P., vedené u Obvodního soudu pro Prahu 6 pod sp. zn. D 24/2000, o dovolání I. S., zastoupené, proti usnesení Městského soudu v Praze ze dne 27. února 2004, č.j. 24 Co 25/2004-57, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 6 usnesením ze dne 26.4.2000, č.j. D 24/2000-35, určil obecnou cenu majetku J. P., zemřelé (dále též jen „zůstavitelka“), částkou 2.291.107,50 Kč, výši dluhů zůstavitelky částkou 558,- Kč a čistou hodnotu dědictví po zůstavitelce částkou 2.290.549,50 Kč“; potvrdil, že „veškerý majetek zůstavitelkou zanechaný tj. vzhledem k celku 22/32 rodinného domu čp. 168 s 22/32 st. pč. 346 (220 m2) a zahrady č. parc. 347 (457 m2) a st. pč. 347/2 (20 m2), zapsaných na LV č. 62 pro k.ú. L. u Katastrálního úřadu pro m. P. nabyl pozůstalý manžel W. P.“; určil odměnu soudní komisařky, notářky částkou 14.670,- Kč a náhradu jejích hotových výdajů částkou 13,80 Kč.
+Odvolání I. S. proti tomuto usnesení soudu prvního stupně Městský soud v Praze usnesením ze dne 27.2.2004, č.j. 24 Co 25/2004-57, odmítl. Vycházel ze závěru, že „zůstavitelka zemřela bezdětná“; že „její rodiče již nežili“; že „v době úmrtí byla vdaná a jejím manželem byl W. P., který jediný s ní žil ve společné domácnosti“; že „závěť nezanechala“; že „v důsledku těchto skutečností nastalo dědění ze zákona podle § 474 obč. zákoníku, podle něhož nedědí-li zůstavitelovi potomci, dědí ve druhé skupině manžel, zůstavitelovi rodiče a dále ti, kteří žili se zůstavitelem nejméně po dobu jednoho roku před jeho smrtí ve společné domácnosti a kteří z tohoto důvodu pečovali o společnou domácnost nebo byli odkázáni výživou na zůstavitele“; že „pozůstalý manžel W. P. byl jediným dědicem zůstavitelky, jemuž bylo napadeným usnesením potvrzeno dědictví podle § 481 o.z. (§ 175q odst. 1 písm. a/ o.s.ř.)“; že „uvedené usnesení nabylo právní moci dne 26.5.2000“; že „odvolatelka, která je sestrou zůstavitelky, nebyla účastnicí předmětného dědického řízení“ a že „jí tudíž nepřísluší právo podávat odvolání do rozhodnutí, která byla soudem v tomto řízení učiněna“.
+Proti tomuto usnesení odvolacího soudu podala I. S. dovolání.
+Podáním doručeným soudu prvního stupně dne 8.11.2005 vzala I. S. své dovolání proti usnesení odvolacího soudu zpět.
+Protože dovolání bylo vzato zcela zpět, Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) podle ustanovení § 243b odst. 4 věty druhé o.s.ř. (ve znění účinném do 31.12.2000 – srov. bod 12., 15. a 17. Části dvanácté, Hlavy I zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) dovolací řízení zastavil.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 15. února 2007
+JUDr. Roman Fiala, v. r.
+předseda senátu
