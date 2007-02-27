@@ -1,0 +1,24 @@
+30 Nd 39/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedkyně
+JUDr. Olgy Puškinové a soudců JUDr. Karla Podolky a JUDr. Pavla Pavlíka v právní věci žalobce P. C., zastoupeného M. J., proti žalovaným 1) J. H., zastoupené advokátem, a 2) Ľ. Š., o určení vlastnictví a vyklizení nemovitosti, vedené u Městského soudu v Brně pod sp. zn. 38 C 65/2002, o návrhu na přikázání věci z důvodu vhodnosti, takto:
+Věc vedená u Městského soudu v Brně se nepřikazuje k projednání
+a rozhodnutí Obvodnímu soudu pro Prahu 1.
+O d ů v o d n ě n í :
+Žalobce navrhl přikázání věci Obvodnímu soudu pro Prahu 1 z důvodu vhodnosti odůvodněný tím, že on a první žalovaná mají trvalé bydliště v Praze a že
+u tohoto soudu jsou vedeny další spory s první žalovanou. Dále uvedl, že Městský soud v Brně ani Krajský soud v Brně se „argumentačně nevypořádaly se skutečností, že soudkyně Š. opakovaně závažným způsobem porušila občanský soudní řád, jak na to již nesčetněkrát upozornil“, že „soudci, kteří měli přezkoumat procení postup
+a rozhodování Š., tak neučinili řádně, resp. neučinili tak v řadě případů vůbec, neboť se např. dodnes nevyjádřili k tomu, že na třetím ústním jednání Š. podsunula falešný žalobní důvod“ a dále, že „…jak Š., tak policie bude vyvíjet nátlak na každého soudce v Brně, který se bude zabývat tímto civilně - právním sporem“.
+První žalovaná sdělila, že s navrhovaným přikázáním věci Obvodnímu soudu pro Prahu 1 nesouhlasí, a navrhla, aby návrhu na delegaci nebylo vyhověno. Uvedla, že nespokojenost žalobce s procesním postupem soudu a s osobou bývalé projednávající soudkyně pí Š. není důvodem pro delegaci vhodnou, a stejně tak ničím nepodložené úvahy o „tlacích na každého soudce v Brně“ nelze považovat za jakkoli relevantní.
+Druhý žalovaný se k návrhu na přikázání věci Obvodnímu soudu pro Prahu 1 výslovně nevyjádřil (§ 101 odst. 4 o. s. ř.).
+Podle § 12 odst. 2 o. s. ř. věc může být přikázána jinému soudu téhož stupně z důvodu vhodnosti. O přikázání věci rozhoduje soud, který je nejblíže společně nadřízen příslušnému soudu, jemuž má být věc přikázána. Účastníci mají právo vyjádřit se k tomu, kterému soudu má být věc přikázána a v případě odst. 2 též k důvodu,
+pro který by měla být věc přikázána (§ 12 odst. 3 o. s. ř.).
+Předpokladem přikázání věci z důvodu vhodnosti podle § 12 odst. 2 o. s. ř. je typicky existence okolností, které umožňují hospodárnější a rychlejší projednání věci. Přitom je ale třeba mít na zřeteli, že výlučná místní příslušnost soudu, který má podle zákona věc projednat [v daném případě místní příslušnost stanovená § 88 písm. g) o. s. ř.], je základní zásadou a že případná delegace této příslušnosti jinému soudu je toliko výjimkou z této zásady, kterou je nutno - právě proto, že jde o výjimku - vykládat restriktivně (srov. nález Ústavního soudu České republiky ze dne 15.11.2001, sp. zn. I. ÚS 144/2000).
+K přikázání věci jinému než příslušnému soudu by tak mělo docházet pouze výjimečně, a to ze závažných důvodů, neboť je uplatňováno jako výjimka z ústavně zaručené zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon (čl. 38 odst. 1 Listiny základních práv a svobod). Důvody pro odnětí věci příslušnému soudu a její přikázání jinému soudu tedy musí být natolik významné, aby dostatečně odůvodňovaly průlom do citovaného ústavního principu.
+O takový případ se v projednávané věci nejedná. Skutečnost, že žalobce a první žalovaná mají bydliště v Praze a že u Obvodního soudu pro Prahu 1 jsou vedena další řízení mezi žalobcem a první žalovanou, nemůže být sama o sobě důvodem, aby věc byla přikázána soudu, v jehož obvodu tito účastníci bydlí, neboť důvodem pro přikázání věci jinému soudu mohou být jen takové okolnosti, z nichž lze spolehlivě dovodit, že jiným než příslušným soudem bude věc projednána hospodárněji a rychleji.
+Další důvody uváděné žalobcem pro přikázání věci Obvodnímu soudu pro Prahu 1 z důvodu vhodnosti, že „Městský soud v Brně ani Krajský soud v Brně se argumentačně nevypořádaly se skutečností, že soudkyně Š. opakovaně závažným způsobem porušila občanský soudní řád“ a že „…jak Š., tak policie bude vyvíjet nátlak na každého soudce v Brně, který se bude zabývat tímto civilně - právním sporem“, nejsou z hlediska ust. § 12 odst. 2 o. s. ř. relevantní.
+Přikázáním věci Obvodnímu soudu pro Prahu 1 by tedy nebylo dosaženo, že jiným než příslušným soudem bude věc projednána hospodárněji a rychleji, přičemž je třeba přihlédnout i ke skutečnosti, že příslušný soud již provedl podstatnou část dokazování.
+Nejvyšší soud ČR proto návrhu na přikázání věci Obvodnímu soudu pro Prahu 1 podle § 12 odst. 2 o. s. ř. nevyhověl.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 27. února 2007
+JUDr. Olga P u š k i n o v á , v.r.
+předsedkyně senátu
