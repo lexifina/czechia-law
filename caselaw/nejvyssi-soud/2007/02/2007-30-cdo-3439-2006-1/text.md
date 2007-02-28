@@ -1,0 +1,48 @@
+30 Cdo 3439/2006
+ČESKÁ REPUBLIKA
+ROZSUDEK
+JMÉNEM REPUBLIKY
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy
+JUDr. Pavla Pavlíka a soudců JUDr. Olgy Puškinové a JUDr. Karla Podolky v právní věci žalobce K. p., a.s., zastoupeného advokátem, proti žalovanému L. V., o 20.904,- Kč s příslušenstvím a o 10.368,- Kč, vedené u Okresního soudu Plzeň - město pod sp. zn. 36 C 23/2005, o dovolání žalobce proti rozsudku Krajského soudu v Plzni ze dne 28. srpna 2006, č.j. 18 Co 646/2005-80, t a k t o :
+Rozsudek Krajského soudu v Plzni ze dne 28. srpna 2006, č.j. 18 Co 646/2005-80, a rozsudek Okresního soudu Plzeň - město ze dne 26. září 2005, č.j. 36 C 23/2005-61, se zrušují a věc se vrací soudu prvního stupně k dalšímu řízení.
+O d ů v o d n ě n í :
+Okresní soud Plzeň - město rozsudkem ze dne 26. září 2005, č.j. 36 C 23/2005-61 zamítl žalobu, aby žalovaný zaplatil žalobci částku 20.904,- Kč s příslušenstvím
+a dále smluvní pokutu ve výši 10.368,- Kč. Rozhodl též o náhradě nákladů řízení. Vyšel především z toho, že žalobce uzavřel dne 19. ledna 2001 pojistnou smlouvu
+č. 5005205105, která nabyla účinnosti dne 23. ledna 2001. Doba trvání této smlouvy byla stanovena na dvanáct měsíců s automatickou prolongací. Před splatností jednorázového pojištění na další pojistný rok byl účastníky řízení uzavřen její dodatek
+č. 1, jehož předmětem bylo skončení této pojistné smlouvy dohodou uplynutím dne
+22. ledna 2002 a její nahrazení pojistnou smlouvou č. 5005210256 s tím, že ostatní ujednání pojistné smlouvy se nemění. Žalovaný pověřil firmu \"J. A.\" vedením
+a zpracováním svého pojistného zájmu. V souzené věci sjednané pojištění na dobu jednoho roku zaniklo dohodou ještě před uplynutím stanovené doby. Svědek
+Š. potvrdil, že dodatek ze dne 17. ledna 2002 byl podepsán jím, neboť měl podpisové právo na tento typ smlouvy jako jediný v západních Čechách. Podle soudu prvního stupně nelze na žalovaném spravedlivě žádat, aby prokázal, že uzavřený „Dodatek“ (pojistné smlouvy) fakticky došel do dispoziční sféry žalobce, protože o tom neexistuje relevantní důkaz. Samotné doručení (žalovaným) podepsaného Dodatku bylo podle soudu interní záležitostí žalobce na němž je, aby případné jím uplatňované nároky požadoval regresem na svých zaměstnancích, resp. v daném případě po zplnomocněném makléři.
+K odvolání žalobce Krajský soud v Plzni rozsudkem ze dne 28. srpna 2006,
+č.j. 18 Co 646/2005-80, rozsudek soudu prvního stupně potvrdil a rozhodl o náhradě nákladů odvolacího řízení. Podle odvolacího soudu soud prvního stupně dostatečným způsobem zjistil skutkový stav, z něhož dovodil správné právní závěry. Sám pak
+na odůvodnění rozsudku soudu prvního stupně (bez jakékoliv výhrady) odkázal. Nadto zvýraznil možnost zániku původní pojistné smlouvy dohodou, když poukázal
+na příslušné všeobecné pojistné podmínky pro pojištění průmyslu a podnikatelů, jimiž se sjednané pojištění řídilo. Konečně pak konstatoval, že to, že si svědek J. A. nevzpomněl, zda výše zmiňovaný dodatek smlouvy byl doručen žalobci, není pro tento spor rozhodné.
+Rozsudek Krajského soudu v Plzni byl doručen zástupci žalobce dne 21. září 2006, přičemž právní moci nabyl dne 22. září téhož roku.
+Proti rozsudku odvolacího soudu podal žalobce dne 10. listopadu 2006 včasné dovolání, jehož přípustnost odvozuje z ustanovení § 237 odst. 1 písm. c) občanského soudního řádu (dále jen \"o.s.ř.\"). Fakticky odkazuje na dovolací důvod uvedený v ustanovení § 241a odst. 2 písm. b) o.s.ř. s tím, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci v souvislosti s posouzením postavení svědka J. A. při uzavírání předmětného dodatku pojistné smlouvy. Dovolatel připomíná, že pojišťovací makléř vždy zastupuje pojistníka, t.j. pojištěného a nikoliv pojišťovnu. Pokud se odvolací soud ztotožnil se soudem prvního stupně, že \"samotné doručení podepsaného dodatku smlouvy bylo interní záležitostí žalobce a je na něm,
+aby případné jím uplatňované nároky regresem požadoval na svých zaměstnancích
+či v daném případě na zplnomocněném makléři\", pak tento závěr je v rozporu
+s hmotným právem. Napadené rozhodnutí odvolacího soudu má proto po právní stránce zásadní význam, neboť řeší právní otázku postavení (pojišťovacího) makléře
+v souvislosti s uzavřením dotčené smlouvy v rozporu s hmotným právem.
+Z uvedených důvodů žalobce navrhl, aby dovolací soud rozsudky soudů obou stupňů zrušil a věc vrátil soudu prvního stupně k dalšímu řízení.
+K podanému dovolání se žalovaný nevyjádřil.
+Dovolací soud uvážil, že dovolání žalobce bylo podáno oprávněnou osobou, řádně zastoupenou advokátem podle ustanovení § 241 odst. 1 o.s.ř. a stalo se tak
+ve lhůtě stanovené ustanovením § 240 odst. 1 o.s.ř. Dále vzal v úvahu, že dovolání je charakterizováno obsahovými i formálními znaky požadovanými ustanovením § 241a odst. 1 o.s.ř. Opírá se o případ přípustnosti dovolání podle § 237 odst. 1 písm. c) o.s.ř., přičemž dovolací soud se ztotožňuje se závěrem, že napadené rozhodnutí řeší právní otázku v rozporu s hmotným právem, a je tudíž rozhodnutím majícím po právní stránce zásadní význam ve smyslu § 237 odst. 3 o.s.ř.
+Poté dovolací soud napadený rozsudek Krajského soudu v Plzni přezkoumal
+ve výroku ve věci samé v souladu s ustanovením § 242 odst. 1 až 3 o.s.ř. a dospěl
+k závěru, že jej z hlediska výtek obsažených v dovolání nelze považovat za správný
+(§ 243b odst. 2 o.s.ř.).
+Z ustanovení § 242 o.s.ř. vyplývá, že právní úprava institutu dovolání obecně vychází ze zásady vázanosti dovolacího soudu podaným dovoláním. Dovolací soud je přitom vázán nejen rozsahem dovolacího návrhu, ale i uplatněným dovolacím důvodem. Současně, je-li dovolání přípustné, je dovolací soud povinen přihlédnout i k vadám uvedeným v ustanovení § 229 odst. 1, § 229 odst. 2 písm. a) a b) a § 229 odst. 3 o.s.ř., jakož i k jiným vadám řízení, které mohly mít za následek nesprávné rozhodnutí ve věci, a to i tehdy, když nebyly uplatněny v dovolání. Ty však z obsahu spisu seznány nebyly. Odlišná je však situace u výtek obsažených v dovolání.
+Dovolatelem uplatněný dovolací důvod podle ustanovení § 241a odst. 2 písm. b) o.s.ř. dopadá na případy, kdy dovoláním napadené rozhodnutí spočívá na nesprávném právním posouzení věci. Jde o omyl soudu při aplikaci práva na zjištěný skutkový stav. O takový případ jde tehdy, pokud soud buď použil jiný právní předpis, než který měl správně použít nebo jestliže sice aplikoval správný právní předpis, avšak nesprávně jej vyložil. Nesprávné právní posouzení věci může být způsobilým dovolacím důvodem jen tehdy, bylo-li rozhodující pro výrok rozhodnutí odvolacího soudu.
+V souzené věci má určující význam, zda došlo ke zrušení pojistné smlouvy
+č. 5005205105, když v tomto řízení uplatněný nárok je žalobcem vyvozován právě z ní. Jak již bylo uvedeno, soudy obou stupňů vzaly fakticky za prokázáno, že po podpisu dodatku pojistné smlouvy žalovaným, jehož cílem bylo ukončení původního pojistného vztahu, se takto akceptovaný návrh dostal do dispozice žalobce zřejmě prostřednictvím zplnomocněného pojišťovacího makléře svědka J. A. (s předpokládanými následky ve smyslu ustanovení § 43c odst. 2 občanského zákoníku). Soudy obou stupňů si však v tomto případě řádně neujasnily právní postavení pojišťovacího makléře.
+Podle ustanovení § 2 písm. h) zákona č. 363/1999 Sb., o pojišťovnictví ve znění do 31. března 2004 (t.j. do účinnosti novely provedené zákonem č. 39/2004 Sb.) je třeba pojišťovacím nebo zajišťovacím makléřem rozumět právnickou nebo fyzickou osobu, která provádí zprostředkovatelskou činnost v pojišťovnictví na základě smlouvy s osobou, která má zájem o uzavření pojistné nebo zajišťovací smlouvy. Z citovaného ustanovení je tak zřejmé, že pojišťovací makléř je na základě příslušné smlouvy povolán jednat za osobu, která má zájem o uzavření pojistné smlouvy, takže jej nelze v tomto případě identifikovat s plněním úkolů pro příslušnou pojišťovnu.
+Z uvedeného vyplývá, že faktická úvaha soudů obou stupňů o tom, čím jménem vystupoval svědek J. A. jako pojišťovací makléř při uzavírání smlouvy, není správná. Již soud prvního stupně konstatoval, že tento svědek ve věci vystupoval jako pojišťovací makléř makléřské firmy, který takto pracoval pro žalobce. Soudy z tohoto faktu dovozovaly, že doručení podepsaného Dodatku pojišťovací smlouvy bylo proto interní záležitostí žalobce. Vycházely z chybného předpokladu, že pojišťovací makléř jednal v zásadě za žalobce (byť současně připomínaly, že tato makléřská firma byla žalovaným pověřena vedením a zpracování jeho pojistného zájmu), resp. blíže si vůbec neujasnily postavení pojišťovacího makléře (příp. makléřské firmy) při uzavírání uvedeného dodatku pojistné smlouvy. Proto ani další úvahy odvolacího soudu o tom, že žalovaným přijatý (podepsaný) Dodatek původní pojistné smlouvy došel žalobci
+(resp. „dostal se do jeho dispoziční sféry“) ve smyslu ustanovení § 43c odst. 2 a § 45 odst. 1 občanského zákoníku a o nahrazení původní pojistné smlouvy smlouvou novou, nemohou být přiléhavé.
+Z uvedeného důvodu Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) rozsudek odvolacího soudu, stejně jako předcházející rozsudek Okresního soudu Plzeň – město s přihlédnutím k ustanovení § 243b odst. 2 a 3 o.s.ř., zrušil a věc vrátil soudu prvního stupně k dalšímu řízení. K projednání věci nebylo nařízeno jednání
+(§ 243a odst. 1 o.s.ř.).
+Odvolací soud (soud prvního stupně) je vázán právním názorem dovolacího soudu (§ 243d odst. 1 věta první o.s.ř. ve spojení s § 226 odst. 1 téhož zákona).
+O náhradě nákladů řízení včetně nákladů dovolacího řízení soud rozhodne v novém rozhodnutí o věci (§ 243d odst. 1 věta druhá o.s.ř.).
+Proti tomuto rozsudku není opravný prostředek přípustný.
+V Brně dne 28. února 2007
+JUDr. Pavel Pavlík, v. r.
+předseda senátu
