@@ -1,0 +1,17 @@
+5 Tdo 65/2007-II.
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v neveřejném zasedání konaném dne 7. března 2007 v řízení o dovoláních podaných obviněnými A. B., a J. Š., proti rozsudku Vrchního soudu v Praze ze dne 19. 9. 2006, sp. zn. 3 To 45/2006, jímž rozhodl jako soud odvolací v trestní věci vedené u Krajského soudu v Hradci Králové pod sp. zn. 4 T 7/2004, o vazbě obviněného A. B., takto :
+Podle § 265l odst. 4 tr. ř. se obviněný A. B. n e bere do vazby.
+O d ů v o d n ě n í :
+Obviněný A. B. v současné době vykonává ve věznici s dozorem trest odnětí svobody v trvání tři a půl roku, který mu byl jako trest souhrnný podle § 248 odst. 3 tr. zák za použití § 35 odst. 2 tr. zák. uložen rozsudkem Krajského soudu v Hradci Králové ze dne 22. 3. 2006, č. j. 4 T 7/2004-1367, ve spojení s rozsudkem Vrchního soudu v Praze ze dne 19. 9. 2006, sp. zn. 3 To 45/2006, za trestný čin zkrácení daně, poplatku a podobné povinné platby podle § 148 odst. 1, odst. 3 písm. c) tr.zák. a současně i za sbíhající se trestné činy zpronevěry dle § 248 odst. 1, odst. 3 písm. c) tr. zák. a podvodu podle § 250 odst. 1, odst. 2 tr. zák., kterými byl uznán vinným rozsudkem Okresního soudu v Hradci Králové ze dne 7. 11. 2002 pod sp. zn. 3 T 172/2002 ve spojení s usnesením Krajského soudu v Hradci Králové ze dne 24. 2. 2003 pod sp. zn. 11 To 588/2002.
+Nejvyšší soud České republiky (dále jen Nejvyšší soud) projednal v neveřejném zasedání konaném dne 7. 3. 2007 dovolání obviněných A. B. a J. Š. podaná proti rozsudku Krajského soudu v Hradci Králové ze dne 22. 3. 2006, č. j. 4 T 7/2004-1367, a rozsudku Vrchního soudu v Praze ze dne 19. 9. 2006, sp. zn. 3 To 45/2006, a rozhodl tak, že podle § 265k odst. 1 tr. ř. zrušil rozsudek Vrchního soudu v Praze ze dne 19. 9. 2006, sp. zn. 3 To 45/2006, i ohledně obviněného A. B. a podle § 265k odst. 2 tr. ř. též všechna další rozhodnutí na zrušené rozhodnutí obsahově navazující, pokud vzhledem ke změně, k níž došlo zrušením, pozbyla podkladu. Podle § 265l odst. 1 tr. ř. současně přikázal Vrchnímu soudu v Praze, aby věc v potřebném rozsahu znovu projednal a rozhodl.
+Podle § 265l odst. 4 tr. ř., vykonává-li se na obviněném trest odnětí svobody uložený mu původním rozsudkem a Nejvyšší soud k dovolání výrok o tomto trestu zruší, rozhodne zároveň o vazbě.
+Při zkoumání okolností významných pro takové rozhodnutí Nejvyšší soud shledal, že obviněný A. B. dne 8. 1. 2007 nastoupil výkon trestu odnětí svobody v trvání tři a půl roku, který mu byl uložen v této trestní věci, a nyní se nachází ve výkonu tohoto trestu ve Věznici v P.
+Nejvyšší soud v tomto stadiu trestního řízení nezjistil takové konkrétní skutečnosti, které by v současné době vzhledem k důvodům, jež vedly dovolací soud ke zrušení napadeného rozhodnutí i konkrétním okolnostem případu, zejména skutečnosti, že v průběhu dosavadního řízení nebyly shledány důvody pro vzetí obviněného do vazby, odůvodňovaly některý z důvodů vazby ve smyslu § 67 písm. a), b) nebo c) tr. ř. Vzhledem k těmto okolnostem Nejvyšší soud dospěl k závěru, že za současné situace, kdy je podle zákona třeba rozhodnout o vazbě obviněného, nejsou dány podmínky pro vzetí obviněného A. B. do vazby.
+Z těchto důvodů Nejvyšší soud rozhodl, že se obviněný A. B. ve smyslu § 265l odst. 4 tr. ř. do vazby nebere.
+P o u č e n í : Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 7. března 2007
+Předseda senátu:
+Prof. JUDr. Pavel Šámal, Ph.D.
+Vypracoval:
+JUDr. Libor Losa
