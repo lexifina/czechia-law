@@ -1,0 +1,13 @@
+28 Nd 219/2006
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy senátu JUDr. Ludvíka Davida, CSc., a soudců JUDr. Josefa Rakovského a JUDr. Roberta Waltra v právní věci oprávněného JUDr. L. Š., proti povinnému B. V., o žalobě pro zmatečnost podané ve věci výkonu rozhodnutí prodejem nemovitosti a vedené pod sp. zn. 37 C 1/2006 u Krajského soudu v Praze, o návrhu povinného na vyloučení soudců Vrchního soudu v Praze, takto:
+Soudci Vrchního soudu v Praze JUDr. M. L., JUDr. E. S., JUDr. H. Z., JUDr. H. V., JUDr. M. U., JUDr. F. Š. a JUDr. S. B. nejsou vyloučení z projednání a rozhodnutí ve věci vedené u tohoto soudu pod sp. zn. 11 Cmo 376/2006.
+O d ů v o d n ě n í :
+Povinný podal dne 2. 12. 2005 u Krajského soudu v Praze žalobu pro zmatečnost proti usnesení téhož soudu ze dne 19. 10. 2005, č.j. 29 Nc 33/2005-142, vydanému ve věci výkonu rozhodnutí prodejem nemovitosti povinného. Usnesením Krajského soudu v Praze ze dne 9. 8. 2006, č.j. 37 C 1/2006-17, byla žaloba zamítnuta. Proti tomuto usnesení podal povinný včas odvolání a současně namítl podjatost „vybraných soudců VS Praha“.
+Podle rozvrhu práce Vrchního soudu v Praze má věc, vedenou již u tohoto soudu pod sp. zn. 11 Cmo 376/2006, projednat a rozhodnout v odvolacím řízení senát 11 Cmo, v němž jsou zařazeny soudkyně JUDr. M. L., JUDr. E. S. a JUDr. H. Z., nebo zastupující senát (6 Cmo), v němž jsou zařazeni soudci JUDr. H. V., JUDr. M. U., JUDr. F. Š. a JUDr. S. B. Z vyjádření těchto soudců vyplývá, že k věci ani k účastníkům řízení nemají žádný vztah a není jim známa žádná skutečnost, která by odůvodňovala pochybnost o jejich nepodjatosti.
+V posuzovaném případě nebyly zjištěny žádné okolnosti, z nichž by bylo možné dovodit, že je důvod pochybovat o nepodjatosti výše uvedených soudců Vrchního soudu v Praze. Tito soudci nemají k věci ani k účastníkům řízení – jak vyplývá z jejich vyjádření – žádný takový vztah z hlediska ustanovení § 14 odst. 1 o. s. ř., který by mohl představovat důvod jejich podjatosti a tedy jejich vyloučení z projednání a rozhodnutí ve věci. Takový vztah nelze dovodit ani z údajů povinného v jeho podáních, zejména v odvolání spojeném s návrhem na vyloučení příslušných soudců.
+Nejvyšší soud proto rozhodl, že soudci Vrchního soudu v Praze jmenovaní ve výroku usnesení nejsou vyloučeni z projednávání a rozhodnutí věci (§ 14 odst. 1, § 16 odst. 1 o. s. ř.). Protože nebyl důvod provádět dokazování, bylo o námitce podjatosti vznesené povinným rozhodnuto bez nařízení jednání ( § 16 odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 19. března 2007
+JUDr. Ludvík D a v i d, CSc., v. r.
+předseda senátu
