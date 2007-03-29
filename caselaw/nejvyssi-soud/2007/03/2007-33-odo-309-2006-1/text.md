@@ -1,0 +1,17 @@
+33 Odo 309/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy Víta Jakšiče a soudců JUDr. Václava Dudy a JUDr. Blanky Moudré ve věci žalobce Ing. P. V., správce konkursní podstaty úpadce V. s., a. s. zastoupeného advokátkou, proti žalovanému Ing. J. K., zastoupenému advokátem, o 51.100,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 19 C 297/2004, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 28. listopadu 2005, č. j. 23 Co 503/2005-126, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+V záhlaví označeným rozsudkem Městský soud v Praze potvrdil rozsudek ze dne 11. července 2005, č. j. 19 C 297/2004-115, kterým Obvodní soud pro Prahu 4 zamítl žalobu, jíž se žalobce domáhal po žalovaném zaplacení částky 51.100,- Kč s 12 % úrokem z prodlení od 4. 4. 1999 do zaplacení, a rozhodl o náhradě nákladů řízení; současně rozhodl o nákladech odvolacího řízení.
+Žalobce (dále též „dovolatel“) podal proti potvrzujícímu rozsudku odvolacího soudu dovolání, jehož přípustnost dovozuje z § 237 odst. 1 písm. c) občanského soudního řádu (dále jen „o. s. ř.“). Důvodnost dovolání opírá o § 241a odst. 2 písm. b) o. s. ř., jelikož podle jeho názoru rozhodnutí spočívá na nesprávném právním posouzení věci. Právní otázku, která činí napadené rozhodnutí odvolacího soudu zásadně právně významným, spatřuje v řešení důsledků postoupení pohledávky zajištěné smluvní pokutou na právo vymáhat smluvní pokutu vyúčtovanou postupitelem před postoupením zajištěné pohledávky. Navrhuje, aby byly rozsudky soudů obou stupňů zrušeny a věc vrácena k dalšímu řízení.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Dovolání proti potvrzujícímu rozsudku odvolacího soudu může být přípustné pouze dle ustanovení § 237 odst. 1 písm. b) a c) o. s. ř. O případ uvedený pod písmenem b) se nejedná, neboť napadeným rozsudkem odvolací soud potvrdil v pořadí prvý rozsudek, který ve věci soud prvního stupně vydal. Proto lze přípustnost dovolání zvažovat pouze v intencích § 237 odst. 1 písm. c) o. s. ř. Otázku, zda dovoláním napadené rozhodnutí má po právní stránce zásadní význam, řeší dovolací soud jako otázku předběžnou.
+Žalobcem vymezenou právní otázku dovolací soud již zodpověděl (ve vztahu k témuž dovolateli) v rozsudku ze dne 28. srpna 2006, sp. zn. 32 Odo 469/2005-142. V něm uzavřel, že s postoupenou pohledávkou přechází podle § 524 odst. 2 obč. zák. i její příslušenství a všechna práva s ní spojená, zejména práva na zajištění. Pohledávka, která je zajištěna smluvní pokutou, přechází na postupníka včetně práva na smluvní pokutu bez ohledu na to, zda toto právo spojené s pohledávkou bylo v době postoupení pohledávky již splatné či nikoli, popřípadě zda se jednalo teprve o budoucí nárok.
+Dovolání žalobce není tedy přípustné ani podle § 237 odst. 1 písm. c) o. s. ř. Proto dovolacímu soudu nezbylo, než je podle § 243b odst. 5 věty prvé a § 218 písm. c) o. s. ř. odmítnout.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř. za situace, kdy žalovanému, který by jinak měl právo na jejich náhradu, v souvislosti s tímto řízením žádné nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 29. března 2007
+Vít Jakšič, v.r.
+předseda senátu
