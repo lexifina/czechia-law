@@ -1,0 +1,16 @@
+5 Tdo 99/2007-II.
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v neveřejném zasedání konaném dne 11. dubna 2007 v řízení o dovolání podaném obviněným Ing. L. Ž., proti usnesení Krajského soudu v Brně ze dne 20. 7. 2006, sp. zn. 9 To 115/2006, který rozhodl jako soud odvolací v trestní věci vedené u Městského soudu v Brně pod sp. zn. 3 T 319/2004, o vazbě obviněného, t a k t o :
+Podle § 265l odst. 4 tr. ř. se obviněný Ing. L. Ž. n e bere do vazby.
+O d ů v o d n ě n í :
+Obviněný Ing. L. Ž. v současné době vykonává ve věznici s dozorem trest odnětí svobody v trvání čtyř roků, který mu byl uložen za trestný čin zvýhodňování věřitele podle § 256a odst. 1, 3 tr. zák., rozsudkem Městského soudu v Brně ze dne 31. 10. 2005, sp. zn. 3 T 319/2004, ve spojení s usnesením Krajského soudu v Brně ze dne 20. 7. 2006, sp. zn. 9 To 115/2006.
+Nejvyšší soud České republiky (dále jen Nejvyšší soud) projednal v neveřejném zasedání konaném dne 11. 4. 2007 dovolání obviněného Ing. L. Ž. podané proti usnesení Krajského soudu v Brně ze dne 20. 7. 2006, sp. zn. 9 To 115/2006, který rozhodl jako soud odvolací v trestní věci vedené u Městského soudu v Brně pod sp. zn. 3 T 319/2004, a rozhodl tak, že podle § 265k odst. 1 tr. ř. zrušil toto usnesení Krajského soudu v Brně a rozsudek Městského soudu v Brně a podle § 265k odst. 2 tr. ř. též všechna další rozhodnutí na zrušená rozhodnutí obsahově navazující, pokud vzhledem ke změně, k níž došlo zrušením, pozbyla podkladu. Podle § 265l odst. 1 tr. ř. současně přikázal Městskému soudu v Brně, aby věc v potřebném rozsahu znovu projednal a rozhodl.
+Podle § 265l odst. 4 tr. ř., vykonává-li se na obviněném trest odnětí svobody uložený mu původním rozsudkem a Nejvyšší soud k dovolání výrok o tomto trestu zruší, rozhodne zároveň o vazbě. Proto Nejvyšší soud v souvislosti se shora uvedeným usnesením rozhodl současně o vazbě obviněného, jak mu ukládá citované ustanovení.
+Při zkoumání okolností významných pro takové rozhodnutí Nejvyšší soud shledal, že obviněný Ing. L. Ž. již nastoupil dne 3. 2. 2007 výkon trestu odnětí svobody v trvání čtyř let, který mu byl uložen v této trestní věci, a nyní se nachází ve výkonu tohoto trestu ve Vazební věznici P.-P.
+Nejvyšší soud v tomto stadiu trestního řízení nezjistil takové konkrétní skutečnosti, které by odůvodňovaly některý z důvodů vazby ve smyslu § 67 písm. a), b) nebo c) tr. ř. Obviněný nebyl v průběhu řízení v této věci vzat do vazby a celé trestní řízení, včetně doby, kdy byly vyhlášeny napadený rozsudek Městského soudu v Brně ze dne 31. 10. 2005, sp. zn. 3 T 319/2004, a usnesení Krajského soudu v Brně ze dne 20. 7. 2006, sp. zn. 9 To 115/2006, bylo proti němu vedeno při jeho ponechání na svobodě, aniž by byly u něj shledány konkrétní skutečnosti, které by odůvodňovaly jeho vzetí do vazby.
+Vzhledem k těmto okolnostem Nejvyšší soud dospěl k závěru, že i za současné situace, kdy je podle zákona třeba rozhodnout o vazbě obviněného, nejsou dány podmínky pro vzetí obviněného Ing. L. Ž. do vazby.
+Z těchto důvodů Nejvyšší soud rozhodl, že se obviněný Ing. L. Ž. ve smyslu § 265l odst. 4 tr. ř. do vazby nebere.
+Poučení: Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 11. dubna 2007
+Předseda senátu:
+Prof. JUDr. Pavel Šámal, Ph.D.
