@@ -1,0 +1,16 @@
+32 Cdo 394/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Dese a soudců JUDr. Františka Faldyny, CSc. a JUDr. Miroslava Galluse ve věci žalobců a) akademického sochaře J. N., b) akademického sochaře a restaurátora M. K., obou zastoupených advokátem, proti žalovanému E., d., o zaplacení částky 347 460 Kč s příslušenstvím, vedené u Městského soudu v Praze pod sp. zn. 2 Cm 73/2004, o dovolání žalovaného proti rozsudku Vrchního soudu v Praze ze dne 6. června 2006 č. j. 2 Cmo 401/2005-66, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Praze rozsudkem ze dne 7. prosince 2004 č. j. 2 Cm 73/2004-21 uložil žalovanému zaplatit žalobci a) částku 247 460 Kč s 5,5% úrokem z prodlení od 30. 6. 2002 do zaplacení, žalovanému b) částku 100 000 Kč s 5,5% úrokem z prodlení od 30. 6. 2002 do zaplacení a rozhodl o náhradě nákladů řízení.
+K odvolání žalovaného Vrchní soud v Praze rozsudkem ze dne 6. června 2006 č.j. 2 Cmo 401/2005-66 rozsudek soudu prvního stupně potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Proti usnesení odvolacího soudu podal žalovaný včas dovolání. Jelikož při podání dovolání nebyl zastoupen advokátem a dovolání nemělo stanovené náležitosti, soud prvního stupně jej usnesením ze dne 4. 10. 2006 č. j. 2 Cm 73/2004-80 doručeným 10. 10. 2006 vyzval, aby ve lhůtě 15 dnů od doručení usnesení odstranil nedostatek povinného zastoupení a zvolil si zástupce z řad advokátů a jeho prostřednictvím podal řádné dovolání nebo doložil, že právnické vzdělání má jeho předseda představenstva J. Š.; současně jej upozornil, že při nesplnění uvedených povinnosti bude dovolací řízení zastaveno. Usnesením ze dne 14. listopadu 2006 č.j. 2 Cm 73/2004-86 doručeným dne 27. 11. 2006 soud prvního stupně prodloužil žalovanému lhůtu ke splnění uvedených povinnosti do 10. 12. 2003.
+Podle ustanovení § 241 odst. 1 o. s. ř. musí být dovolatel zastoupen advokátem, jestliže nemá právnické vzdělání buď sám, nebo jeho zaměstnanec (člen), který za něj jedná. Z dovolání zastoupení dovolatele nevyplývá a jiné listiny toto zastoupení nebo právnické vzdělání dovolatele prokazující nebyly předloženy. Dovolatel pak nedostatek povinného zastoupení ani ve stanovené lhůtě, ani později neodstranil, ač byl o následcích nesplnění této podmínky poučen.
+Protože povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, bez jejíhož splnění nelze vydat – s výjimkou usnesení, jímž se dovolací řízení pro tento nedostatek zastavuje – rozhodnutí, kterým se řízení končí, a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu prvního stupně do dnešního dne nedošlo, Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) podle § 243c a § 104 odst. 2 poslední věty o. s. ř. dovolací řízení zastavil.
+Dovolatel z procesního hlediska zavinil, že dovolací řízení bylo zastaveno, žalobcům však ve stádiu dovolacího řízení náklady nevznikly. Této procesní situaci odpovídá ve smyslu ustanovení § 146 odst. 2 věty první, § 224 odst. 1 a § 243b odst. 5 o. s. ř. výrok o tom, že na náhradu nákladů dovolacího řízení nemá žádný z účastníků právo.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 25. dubna 2007
+JUDr. Zdeněk Des
+předseda senátu
