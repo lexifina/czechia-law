@@ -1,0 +1,20 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+32 Nd 76/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Faldyny, CSc. a soudců JUDr. Zdeňka Dese a JUDr. Miroslava Galluse v právní věci žalobkyně Bc. R. P., proti žalovanému Mgr. D. P., o výživné na rozvedenou manželku, vedené u Městského soudu v Brně pod sp. zn. 48 C 162/2006, o návrhu žalobkyně na přikázání věci jinému soudu, takto:
+Věc vedená u Městského soudu v Brně pod sp. zn. 48 C 162/2006 se Okresnímu soudu v Jičíně nepřikazuje.
+O d ů v o d n ě n í :
+U Městského soudu v Brně probíhá řízení na základě návrhu žalobkyně ze dne 31. 3. 2006 na určení výživného pro rozvedenou manželku.
+Žalobkyně podáním ze dne 4. 11. 2006 navrhla opětovně delegaci vhodnou z důvodu již uvedeného v návrhu (žalobě), tj., že zejména pečuje po rozvodu se žalovaným o dvě malé děti a je pro ni obtížné dostavit se k soudu do B. Pro žalovaného, který je držitelem osobního auta, není překážkou dostavit se k Okresnímu soudu v Jičíně.
+Žalovaný se k vhodnosti navrhované delegace vyjádřil (č.l. 32) negativně. V B. je trvale usazen a má zde značné pracovní a časové vytížení, na jeho případnou okamžitou pomoc spoléhají manželka a novorozené dítě. Žalobkyni pomáhá s péčí o děti mateřská škola i přítel, který s ní sdílí společnou domácnost. Podmínky obou účastníků jsou tudíž minimálně srovnatelné a není důvod měnit obecnou místní příslušnost soudu.
+Nejvyšší soud České republiky jako soud nejblíže společně nadřízený příslušnému soudu – Městskému soudu v Brně a Okresnímu soudu v Jičíně, jemuž mát být věc přikázána, návrh žalobkyně na přikázání věci projednal a dospěl k závěru, že v posuzovaném případě nejsou splněny zákonné podmínky k přikázání věci jinému soudu z důvodu vhodnosti podle § 12 odst. 2 o. s. ř.
+Podle ustanovení § 12 odst. 2 o. s. ř. může být věc přikázána jinému soudu z důvodu vhodnosti. Podle § 12 odst. 3 věty druhé o. s. ř. mají účastníci právo se vyjádřit, kterému soudu má být věc přikázána a v případě druhého odstavce cit. ustanovení též k důvodu, pro který by měla být přikázána.
+Důvody vhodnosti podle tohoto ustanovení mohou být různé v závislosti na předmětu řízení, postavení účastníků i jiných okolnostech. Jde zejména o skutečnosti, z nichž lze dovodit, že jiným než příslušným soudem bude věc projednána rychleji a hospodárněji. K přikázání věci jinému než příslušnému soudu by však mělo docházet jen mimořádně ze závažných důvodů, neboť je uplatňováno jako výjimka z ústavně zaručené zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon (čl. 38 Listiny základních práv a svobod publikované pod č. 2/1993 Sb., ve znění ústavního zákona č. 162/1998 Sb.). Důvody pro odnětí věci příslušnému soudu musí být natolik významné, aby dostatečně odůvodňovaly průlom do výše cit. ústavního principu. Zákon přitom výslovně zakotvuje právo účastníků vyjádřit se k důvodu delegace i soudu, k němuž má být věc delegována, aby vhodnost takového postupu mohla být zvážena i z pohledu jejich poměrů; delegací nesmí být totiž navozen stav, který by se v poměrech některého z účastníků projevil zásadně nepříznivě.
+Rodinné důvody, jak je uvádí žalobkyně v návrhu, nelze považovat za natolik závažné, aby bylo možno v daném případě porušit výše uvedený ústavní princip. Nelze přehlédnout, že ve stejné situaci již Okresní soud v Jičíně usnesením ze dne 28. 4. 2006, č.j. 7 C 52/2006-10, vyslovil svou místní nepříslušnost a věc postoupil Městskému soudu v Brně.
+Není také možno pominout nesouhlasné stanovisko žalovaného, jakož i okolnost, že lze rovněž využít institutu dožádání jiného soudu ve smyslu ustanovení § 39 o. s. ř.
+Nejvyšší soud ze všech uvedených důvodů neshledal, že by byly dány podmínky pro přikázáni věci Okresnímu soudu v Jičíně a proto rozhodl ve smyslu § 12 odst. 2 o. s. ř., jak je uvedeno ve výroku tohoto usnesení.
+Proti tomuto rozhodnutí není opravný prostředek přípustný.
+V Brně 25. dubna 2007
+JUDr. František Faldyna, CSc., v. r.
+předseda senátu
