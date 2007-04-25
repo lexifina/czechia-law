@@ -1,0 +1,17 @@
+32 Nd 72/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Faldyny, CSc. a soudců JUDr. Zdeňka Dese a JUDr. Miroslava Galluse v právní věci žalobce E. S., proti žalované P. F. Č. p., a. s., o zaplacení 36.426,- Kč s příslušenstvím, vedené u Městského soudu v B. pod sp. zn. 31 C 229/2004 o přikázání věci jinému soudu z důvodu vhodnosti, takto:
+Věc vedená u Městského soudu v B. pod sp. zn. 31 C 229/2004, se přikazuje k projednání a rozhodnutí Obvodnímu soudu pro P.
+O d ů v o d n ě n í :
+U Městského soudu v B. probíhá řízení v záhlaví tohoto usnesení označené, které bylo původně zahájeno proti žalované A. A. P. f., a. s.
+Podáním ze dne 16. 11. 2006 (č.l. 85), požádal žalobce o delegaci věci k „Městskému soudu pro P. (rozuměj: „Obvodnímu soudu pro P. jak dodatečně žalobce upřesnil) s tím, že již není v B. když pro žalobce bylo časově (i finančně) náročné a pro žalovanou stranu, která sídlí v P. rovněž není důvod, aby řízení probíhalo v B.
+Žalovaná, ač usnesením Městského soudu ze dne 18. 12. 2006, čj. 31 C 229/2004-92 vyzvána, se k navrhované delegaci nevyjádřila, nicméně byla poučena, že pokud se nevyjádří, bude se předpokládat, že nemá námitky (§ 101 odst. 4 občanského soudního řádu – dále též „o. s. ř.“).
+Nejvyšší soud jako soud nejblíže společně nadřízený příslušnému soudu (Městskému soudu v B. a Obvodnímu soudu pro P. jemuž má být věc přikázána (§ 12 odst. 2 o. s. ř.), návrh žalobce na přikázání věci jinému soudu projednal a dospěl k závěru, že v posuzovaném případě jsou splněny zákonné podmínky k přikázání věci podle § 12 odst. 2 o. s. ř. jinému soudu.
+Podle ustanovení § 12 odst. 2 o. s. ř. může být věc přikázána jinému soudu z důvodu vhodnosti. Podle § 12 odst. 3 věty druhé o. s. ř. mají účastníci právo se vyjádřit, kterému soudu má být věc přikázána a v případě druhého odstavce cit. ustanovení též z důvodu, pro který by měla být přikázána.
+Důvody vhodnosti podle tohoto ustanovení mohou být různé v závislosti na předmětu řízení, postavení účastníků i jiných okolnostech. Jde zejména o skutečnosti, z nichž lze dovodit, že jiným než příslušným soudem bude věc projednána rychleji a hospodárněji. K přikázání věci jinému než příslušnému soudu by však mělo docházet jen mimořádně, neboť je uplatňováno jako výjimka z ústavně zamčené zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon (čl. 38 Listiny základních práv a svobod, publikované pod č. 3/1993 Sb., ve znění ústavního zákona č. 162/1998 Sb.). Důvody pro odnětí věci příslušnému soudu musí být natolik významné, aby dostatečně odůvodňovaly průlom do výše cit. ústavního principu. Zákon přitom výslovně zakotvuje právo účastníků vyjádřit se k důvodu delegace i soudu, k němuž má být věc delegována, aby vhodnost takového postupu mohla být zvážena i z pohledu jejich poměrů;delegací nesmí být totiž navozen stav, který by se v poměrech některého z účastníků projevil zásadně nepříznivě.
+Skutečnosti, uváděné navrhovatelem, dostatečně odůvodňují zamýšlenou delegaci, když pro oba účastníky z hlediska jejich bydliště či sídla bude lépe naplněno kritérium hospodárnosti a rychlosti řízení u Obvodního soudu pro P.alovaná rovněž neměla proti této delegaci námitky a její souhlas se proto předpokládá (§ 101 odst. 4 o. s. ř.).
+Nejvyšší soud proto rozhodl podle § 12 odst. 2 o. s. ř., jak je uvedeno ve výroku tohoto usnesení.
+Proti tomuto rozhodnutí není opravný prostředek přípustný.
+V Brně 25. dubna 2007
+JUDr. František F a l d y n a, CSc.
+předseda senátu
