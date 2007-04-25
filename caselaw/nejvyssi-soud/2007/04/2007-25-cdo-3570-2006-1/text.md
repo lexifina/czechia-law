@@ -1,0 +1,21 @@
+25 Cdo 3570/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Vojtka a soudců JUDr. Jana Eliáše, Ph.D., a JUDr. Marty Škárové v právní věci žalobců: a) M. Z., b) J. Z., zastoupených advokátem, proti žalovaným: 1) M. N., 2) I. N., zastoupeným advokátem, o 143.286,- Kč, vedené u Obvodního soudu pro Prahu 9 pod sp. zn. 18 C 168/2003, o dovolání žalobců proti rozsudku Městského soudu v Praze ze dne 28. března 2006, č. j. 55 Co 64/2006-101, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků řízení nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 9 rozsudkem ze dne 19. 10. 2005, č. j. 18 C 168/2003-80, zamítl žalobu na zaplacení částky 143.286,- Kč a rozhodl o náhradě nákladů řízení.
+K odvolání žalobců Městský soud v Praze rozsudkem ze dne 28. března 2006, č. j. 55 Co 64/2006-101, rozsudek soudu prvního stupně potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Dne 16. 6. 2006 právní zástupce žalobců podal u Obvodního soudu pro Prahu 9 za žalobce tzv. blanketní dovolání, v němž pouze označil napadený rozsudek, a aniž vymezil rozsah dovolání a dovolací důvody, žádal, vzhledem k čerpání dovolené, o poskytnutí lhůty do 31. 7. 2006 k řádnému doplnění dovolání. Poté 26. 7. 2006 bylo doručeno Obvodnímu soudu pro Prahu 9 doplněné dovolání (na poště podáno dne 24. 7. 2006).
+Podle ustanovení § 240 odst. 1 o. s. ř. účastník může podat dovolání do dvou měsíců od doručení rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Bylo-li odvolacím soudem vydáno opravné usnesení, běží tato lhůta od doručení opravného usnesení.
+Podle ustanovení § 241b odst. 3 věty první o. s. ř. dovolání, které neobsahuje údaje o tom, v jakém rozsahu nebo z jakých důvodů se rozhodnutí odvolacího soudu napadá, může být o tyto náležitosti doplněno jen po dobu trvání lhůty k dovolání.
+Podle ustanovení § 57 odst. 2 věty první a druhé o. s. ř. se lhůty určené podle týdnů, měsíců nebo let končí uplynutím toho dne, který se svým označením shoduje se dnem, kdy došlo ke skutečnosti určující počátek lhůty, a není-li ho v měsíci, posledním dnem měsíce. Připadne-li konec lhůty na sobotu, neděli nebo svátek, je posledním dnem lhůty nejblíže následující pracovní den.
+Podle ustanovení § 57 odst. 3 o. s. ř. je lhůta zachována, je-li posledního dne lhůty učiněn úkon u soudu nebo podání odevzdáno orgánu, který má povinnost je doručit.
+Jak vyplývá z obsahu spisu, rozsudek odvolacího soudu s řádným poučením o lhůtě a místu podání dovolání byl žalobcům (prostřednictvím jejich zástupce) doručen dne 24. 4. 2006 a od tohoto dne běžela žalobcům lhůta k podání dovolání (nebylo vydáno opravné usnesení), která skončila v pondělí dne 26. 6. 2006 (24. 4. 2006 byla sobota). Přestože tedy blanketní dovolání bylo podáno ve lhůtě podle § 240 odst. 1 o. s. ř, bylo nutné je v této lhůtě i doplnit.
+Tzv. blanketní dovolání může být doplněno o údaje o tom, v jakém rozsahu nebo z jakých důvodů se rozhodnutí odvolacího soudu napadá, jen do uplynutí dovolací lhůty. Dovolání, které nebylo o uvedené náležitosti doplněno v propadné (prekluzivní) lhůtě určené v ustanovení § 241b odst. 3 o. s. ř., Nejvyšší soud odmítne podle § 43 odst. 2 o. s. ř. (srov. usnesení Nejvyššího soudu sp. zn. 29 Odo 108/2002 ze dne 18. 6. 2003, publikované pod č. 3 ve Sbírce rozhodnutí a stanovisek NS ČR, ročník 2004). Podání právního zástupce žalobců podané dne 26. 7. 2006 u Obvodního soudu pro Prahu 9 proto nelze považovat za řádné a včasné doplnění blanketního dovolání. Původně odstranitelné vady tohoto blanketního dovolání se v důsledku marného uplynutí propadné (prekluzivní) lhůty určené v § 241b odst. 3 o. s. ř. staly ze zákona vadami neodstranitelnými a dovolací soud tedy k pozdějšímu doplnění dovolání již nemůže přihlížet z úřední povinnosti.
+Dovolání žalobce proto bylo odmítnuto jako nezpůsobilé zahájit dovolací řízení podle ustanovení § 43 odst. 2, věty první.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, věty první, § 224 odst. 1 a § 146 odst. 3 o. s. ř., neboť žalobci nemají na náhradu nákladů dovolacího řízení právo a žalovaným náklady v dovolacím řízení nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. dubna 2007
+JUDr. Petr Vojtek, v. r.
+předseda senátu
