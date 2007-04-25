@@ -1,0 +1,14 @@
+6 Tdo 460/2007
+U S N E S E N Í
+Nejvyšší soud rozhodl dne 25. dubna 2007 předsedou senátu v trestní věci u obviněného J. M., vedené u Obvodního soudu pro Prahu 3 pod sp. zn. 15 T 172/2005, t a k t o :
+Podle § 265g odst. 2 tr. ř. předseda senátu Nejvyššího soudu b e r e n a v ě d o m í zpětvzetí dovolání podané obviněným J. M. proti usnesení Městského soudu v Praze ze dne 21. 9. 2006, sp. zn. 9 To 309/2006.
+O d ů v o d n ě n í :
+Rozsudkem Obvodního soudu pro Prahu 3 ze dne 29. 5. 2006, č. j. 15 T 172/2005-252, byl obviněný J. M. (spolu se spoluobviněným P. U.) uznán vinným trestným činem zneužití pravomoci veřejného činitele podle § 158 odst. 1 písm. a), c) tr. zák. spáchaným ve spolupachatelství podle § 9 odst. 2 tr. zák. Za tento trestný čin mu byl uložen podle § 158 odst. 1 tr. zák. trest odnětí svobody v trvání 12 (dvanácti) měsíců, přičemž podle § 58 odst. 1 tr. zák. a podle § 59 odst. 1 tr. zák. mu byl výkon uloženého trestu odložen na zkušební dobu v trvání 3 (tří) roků. Dále mu byl podle § 53 odst. 1 tr. zák. uložen peněžitý trest ve výši 1.000,- Kč s tím, že pro případ, že by peněžitý trest nebyl ve stanovené lhůtě vykonán, byl mu podle § 54 odst. 3 tr. zák. stanoven náhradní trest odnětí svobody v trvání 7 (sedmi) dnů. Podle § 49 odst. 1 tr. zák. byl obviněnému uložen trest zákazu činnosti spočívající v zákazu výkonu zaměstnaneckého nebo služebního poměru v ozbrojených složkách nebo sborech na dobu 3 (tří) roků. Tento rozsudek napadli obvinění J. M. a P. U. odvoláním.
+Usnesením Městského soudu v Praze ze dne 21. 9. 2006, č. j. 9 To 309/2006-282, byla podle § 256 tr. ř. odvolání obou obviněných zamítnuta.
+Dovolání proti předmětnému usnesení Městského soudu v Praze podal dne 30. 12. 2006 již jen obviněný J. M. s tím, že podrobné odůvodnění dovolání bude soudu prvního stupně doručeno ve lhůtě 20 dnů. Dne 20. 2. 2007 soud prvního stupně vyzval obviněného a jeho obhájce k odstranění vad dovolání s upozorněním, že nebudou-li vady odstraněny ve lhůtě dvou týdnů od doručení výzvy, může být dovolání podle § 265i odst. 1 písm. d) tr. ř. odmítnuto (viz č. l. 303).
+Na č. l. 311 trestního spisu Obvodního soudu pro Prahu 3 sp. zn. 15 T 172/2005 se nachází výslovné písemné prohlášení obviněného ze dne 27. 4. 2007, že bere podané dovolání proti usnesení Městského soudu v Praze ze dne 21. 9. 2006, sp. zn. 9 To 309/2006, v plném rozsahu zpět.
+Podle § 265g odst. 2 věta první tr. ř. zpětvzetí dovolání vezme, není-li překážek, na vědomí předseda senátu Nejvyššího soudu, a nebyla-li věc tomuto soudu předložena, předseda senátu soudu prvního stupně. Předseda senátu Nejvyššího soudu postupoval podle toho ustanovení a vzal zpětvzetí dovolání obviněného na vědomí, neboť neshledal překážek, které by mu v takovém postupu bránily.
+Poučení: Proti tomuto rozhodnutí nejsou opravné prostředky přípustné.
+V Brně dne 25. dubna 2007
+Předseda senátu:
+JUDr. Jan Engelmann
