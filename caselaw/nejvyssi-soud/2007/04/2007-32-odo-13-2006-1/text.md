@@ -1,0 +1,18 @@
+32 Odo 13/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Františka Faldyny, CSc. a JUDr. Kateřiny Hornochové v právní věci žalobce Ing. L. M., zastoupeného advokátem, proti žalovanému S. P., zastoupenému advokátkou, o zaplacení částky 32 250,- Kč s příslušenstvím, vedené u Okresního soudu v Jeseníku pod sp. zn. 3 C 188/2001, o dovolání žalobce proti rozsudku Krajského soudu v Ostravě ze dne 26. října 2004, č.j. 15 Co 234/2004-96, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Ostravě shora označeným rozsudkem potvrdil rozsudek ze dne 20. listopadu 2003, č.j. 3 C 188/2001-79, jímž Okresní soud v Jeseníku zamítl žalobu o zaplacení částky 32 250,- Kč s příslušenstvím a rozhodl o nákladech řízení (výrok I.). Dále rozhodl o nákladech odvolacího řízení (výrok II.).
+Rozsudek odvolacího soudu napadl žalobce dovoláním, jehož důvodnost opřel především o dovolací důvod nesprávného právního posouzení věci. Oproti odvolacímu soudu zastává názor, že k předání a převzetí sjednaného díla ve smyslu § 554 odst. 1 obchodního zákoníku (dále též jen „obch. zák.“) nedošlo, a proto mu nárok na žalovanou smluvní pokutu vznikl. Tvrdí, že soudy při posuzování, zda k provedení díla došlo, opomněly aplikovat ustanovení § 43 a násl. občanského zákoníku, že pochybily při provádění dokazování a že jejich rozhodnutí nesplňují důsledně požadavky přezkoumatelnosti ve smyslu § 157 odst. 2 občanského soudního řádu (dále též jen „o. s. ř.“). Dovolatel, směřující otázku zásadního právního významu do vytyčení podmínek, za nichž dojde k provedení díla ve smyslu § 554 odst. 1 obch. zák., snesl ze svého pohledu argumenty na podporu jím uplatněných dovolacích důvodů a navrhl, aby dovolací soud napadený rozsudek odvolacího soudu zrušil.
+Dovolání v této věci není přípustné.
+Podle ustanovení § 236 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Jde-li o rozsudek, jímž byl odvolacím soudem potvrzen v pořadí první rozsudek soudu prvního stupně ve věci samé (jak tomu bylo i v posuzovaném případě), je předpokladem přípustnosti dovolání podle ustanovení § 237 odst. 1 písm. c) o. s. ř., o které lze obecně přípustnost dovolání opřít, skutečnost, že dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění převyšujícím 20 000 Kč a v obchodních věcech 50 000 Kč, přičemž k příslušenství pohledávky se nepřihlíží [srov. § 237 odst. 2 písm. a) o. s. ř.].
+V předmětném sporu jde nepochybně o obchodní věc (spor mezi podnikateli o zaplacení smluvní pokuty dle smlouvy o dílo uzavřené podle § 536 a násl. obch. zák.), v níž bylo dovoláním dotčeným potvrzujícím výrokem rozsudku odvolacího soudu rozhodnuto ve věci samé o peněžitém plnění ve výši 32 250,- Kč s příslušenstvím. Jedná se tedy ve smyslu § 237 odst. 2 písm. a) o. s. ř. o věc, u níž není dovolání přípustné.
+Nutno uzavřít, že dovolání žalobce směřuje proti rozhodnutí odvolacího soudu, proti němuž není tento mimořádný opravný prostředek přípustný. Nejvyšší soud proto podané dovolání, aniž ve věci nařizoval jednání (§ 243a odst. 1, věta první, o. s. ř.), usnesením odmítl pro nepřípustnost [§ 243b odst. 5 věta první a § 218 písm. c) o. s. ř.].
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 3 o. s . ř. Dovolání žalobce bylo odmítnuto, žalovanému však v souvislosti s dovolacím řízením podle obsahu spisu žádné prokazatelné náklady nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 25. dubna 2007
+JUDr. Miroslav Gallus
+předseda senátu
