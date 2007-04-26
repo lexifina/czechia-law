@@ -1,0 +1,16 @@
+33 Nd 79/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivany Zlatohlávkové a soudců JUDr. Václava Dudy a JUDr. Blanky Moudré ve věci projednání dědictví po L. K., za účasti pozůstalé manželky PhDr. D. K. a pozůstalého syna L. K., vedené u Městského soudu v Brně pod sp. zn. 59 D 549/2006, o návrhu na delegaci z důvodů vhodnosti, takto:
+Věc vedená u Městského soudu v Brně pod sp. zn. 59 D 549/2006 se nepřikazuje k projednání a rozhodnutí Okresnímu soudu Praha - východ .
+O d ů v o d n ě n í :
+Ve shora označené dědické věci probíhá projednání dědictví po L. K. Jeden z dědiců – PhDr. D. K., podáním ze dne 13. 11. 2006 požádala o přikázání věci Okresnímu soudu Praha – východ z důvodu vhodnosti. S ohledem na nemovitý majetek v katastrálním území B., který je také předmětem dědictví, s přihlédnutím k místu výkonu zaměstnání této dědičky, a proto, že by pro ni bylo psychicky velice náročné dojíždět za účelem vypořádání dědictví k pověřenému notáři v B., má zato, že podmínky pro přikázání věci jinému, než místně příslušnému soudu jsou splněny.
+Druhý dědic L. K. s návrhem na přikázání věci Okresnímu soudu Praha - východ nesouhlasil.
+Podle § 12 odst. 2 o. s. ř. věc může být přikázána jinému soudu téhož stupně z důvodu vhodnosti. Podle § 12 odst. 3 věty druhé o. s. ř. účastníci mají právo se vyjádřit k tomu, kterému soudu má být věc přikázána, a v případě odstavce 2 též k důvodu, pro který by věc měla být přikázána.
+Nejvyšší soud České republiky návrhu na přikázání věci nevyhověl. Řízení ve věci projednání dědictví se řídí ze zákona místem posledního bydliště zůstavitele. Místně příslušným je Městský soud v Brně.
+Důvody vhodnosti podle citovaného ustanovení mohou být různé v závislosti na předmětu řízení, postavení účastníků i jiných okolnostech. Jde zejména o skutečnosti, z nichž lze dovodit, že jiným než příslušným soudem bude věc projednána rychleji a hospodárněji. K přikázání věci jinému než příslušnému soudu by však mělo docházet pouze výjimečně, a to ze závažných důvodů, neboť je uplatňováno jako výjimka z ústavně zaručené zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon (čl. 38 odst. 1 Listiny základních práv a svobod, publikované pod č. 2/1993 Sb., ve znění ústavního zákona č. 162/1998 Sb.). Důvody pro odnětí věci příslušnému soudu a její přikázání soudu jinému tedy musí být natolik významné, aby dostatečně odůvodňovaly průlom do výše citovaného ústavního principu. Zákon přitom výslovně zakotvuje právo účastníků vyjádřit se k důvodu delegace i k soudu, k němuž má být věc delegována, aby vhodnost takového postupu mohla být zvážena i z pohledu jejich poměrů; delegací totiž nesmí být navozen stav, který by se v poměrech některého z účastníků projevil zásadně nepříznivě.
+Protože v daném případě ani jedna z uvedených okolností není způsobilá odůvodnit průlom do výše citované ústavní zásady, Nejvyšší soud návrhu na přikázání věci nevyhověl. Nebyly totiž shledány ani důvody z hlediska procesního (urychlení řízení), ani důvody vážící se k účastníkům řízení.
+Nejvyšší soud České republiky proto věc podle § 12 odst. 2 o. s. ř. Okresnímu soudu Praha - východ nepřikázal.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. dubna 2007
+JUDr. Ivana Zlatohlávková
+předsedkyně senátu
