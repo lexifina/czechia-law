@@ -1,0 +1,14 @@
+21 Cdo 1233/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Zdeňka Novotného a soudců JUDr. Ljubomíra Drápala a JUDr. Mojmíra Putny v právní věci žalobce J. M., zastoupeného advokátkou, proti žalované České republice – Ministerstvu zahraničních věcí, o neplatnost výpovědi z pracovního poměru, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 22 C 56/96, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 8. dubna 1999, č.j. 20 Co 552/98 - 64, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Praze rozsudkem ze dne 8.4.1999, č.j. 20 Co 552/98–64 potvrdil „rozsudek soudu I. stupně ve výroku, jímž byla určena neplatnost výpovědi ze dne 1.12.1995“, ve výroku, „jímž byla uložena žalovanému povinnost k náhradě mzdy“, dále pak změnil rozsudek soudu I. stupně tak, že „návrh, aby byl žalovaný uznán povinným zaplatit žalobci částku 68.310,- Kč čistého s 19% úrokem z prodlení z této částky od 1.12.1996 do zaplacení, se zamítá“, vyslovil, že „v zamítavém výroku o věci samé zůstal rozsudek soudu I. stupně nedotčen“; a zároveň rozhodl, že „žalovaný je povinen zaplatit žalobci na náhradě nákladů řízení před soudem I. stupně 1.000,- Kč“, a že „žádný z účastníků nemá právo na náhradu nákladů odvolacího řízení“, určil, že „žalobce je povinen zaplatit soudní poplatek z odvolání ve výši 2.736,- Kč na účet Obvodního soudu pro Prahu 1“ a zamítl „návrh na vyslovení přípustnosti dovolání“. Odvolací soud se ztotožnil se závěrem soudu I. stupně, že „pro platnost výpovědi chybí splnění hmotněprávní podmínky stanovené v § 46 odst. 2 zák. práce“, a dále uvedl, že „v daném případě byl použit výpovědní důvod nadbytečnosti, který neexistoval“. Nárok žalobce na náhradu mzdy však považoval za nedůvodný, protože oznámení o tom, že trvá na dalším zaměstnávání, „neučinil včas“, neboť pracovní poměr skončil uplynutím výpovědní doby ke dni 31.3.1996, avšak oznámení – žaloba, kterou žalobce uplatnil neplatnost rozvázání pracovního poměru, byla žalované doručena až dne 17.5.1996.
+Proti tomuto rozsudku odvolacího soudu podal žalobce dovolání, které podáním ze dne 5.2.2007 vzal výslovně zpět.
+Protože dovolání bylo vzato zcela zpět, Nejvyšší soud České republiky jako soud dovolací (§10a o.s.ř.) podle ustanovení § 243b odst. 5 věty druhé o.s.ř. dovolací řízení zastavil.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 o.s.ř., neboť žalobce, který z procesního hlediska zavinil, že dovolací řízení bylo zastaveno, nemá na náhradu svých nákladů právo a žalované v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 17. května 2007
+JUDr. Zdeněk N o v o t n ý , v. r.
+předseda senátu
