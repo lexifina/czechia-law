@@ -1,0 +1,16 @@
+22 Cdo 2093/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jiřího Spáčila, CSc., a soudců JUDr. Františka Baláka a JUDr. Marie Rezkové ve věci žalobkyně B. O., proti žalovanému O. O., o vypořádání společného jmění manželů, vedené u Okresního soudu ve Žďáře nad Sázavou pod sp. zn. 8 C 208/2003, o dovolání žalovaného proti rozsudku Krajského soudu v Brně ze dne 15. srpna 2006, č. j. 15 Co 260/2005-168, ve znění opravného usnesení ze dne 23. listopadu 2006, č. j. 15 Co 260/2005-173, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Krajský soud v Brně jako soud odvolací k odvolání žalobkyně rozsudkem ze dne 15. srpna 2006, č. j. 15 Co 260/2005-168, ve znění opravného usnesení ze dne 23. listopadu 2006, č. j. 15 Co 260/2005-173, změnil rozsudek Okresního soudu ve Žďáře nad Sázavou (dále „soud prvního stupně“) ze dne 12. dubna 2005, č. j. 8 C 208/2003-145, tak, že výrokem pod bodem I. z věcí, které tvořily společné jmění manželů, přikázal do výlučného vlastnictví žalovaného podrobně specifikované nemovitosti v hodnotě 1 900 000,- Kč a movité věci v hodnotě 58 250,- Kč, a do výlučného vlastnictví žalované movité věci v hodnotě 2 500,- Kč, s tím, že žalovanému uložil zaplatit žalobkyni na vyrovnání jejího podílu částku 945 314,50 Kč do šesti měsíců od právní moci rozsudku. Výroky pod body II., III., IV. V. a VI. rozhodl o nákladech řízení.
+Proti rozsudku odvolacího soudu podal žalovaný ve lhůtě stanovené v § 240 odst. 1 občanského soudního řádu („OSŘ“) podáním, učiněným u soudu prvního stupně dne 5. března 2007, dovolání.
+Soud prvního stupně dovolatele usnesením ze dne 12. března 2007, č. j. 8 C 208/2003-181, vyzval, aby ve lhůtě patnácti dnů odstranil vady dovolání tak, „aby dovolání splňovalo zákonné náležitosti“. Sdělil mu, s odkazem na § 241 odst. 1 a 2 OSŘ, že musí být zastoupen advokátem nebo notářem, pokud sám nemá právnické vzdělání, a o náležitostech dovolání. Dále ho poučil o následcích nesplnění této výzvy, to je o zastavení řízení, nebude-li v dovolacím řízení zastoupen jak shora uvedeno. Na tuto výzvu, aniž by jí vyhověl, dovolatel reagoval polemickým přípisem doručeným soudu prvního stupně 6. 4. 2007.
+Podle § 241 odst. 1 a 2 OSŘ musí být dovolatel v dovolacím řízení zastoupen advokátem, jestliže sám nemá právnické vzdělání. Z podaného dovolání zastoupení advokátem nevyplývá a jiné listiny, toto zastoupení nebo právnické vzdělání dovolatele prokazující, nebyly předloženy. Dovolatel nedostatek povinného zastoupení přes výzvu soudu prvního stupně neodstranil, ačkoliv byl o procesních následcích nesplnění této povinnosti poučen.
+Protože povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání vydání rozhodnutí ve věci samé (§ 241 odst. 1 OSŘ) a protože k odstranění tohoto nedostatku do dnešního dne nedošlo, Nejvyšší soud dovolací řízení podle § 243c odst. 1 a § 104 odst. 2 věta třetí OSŘ zastavil.
+Výrok o náhradě nákladů dovolacího řízení byl učiněn v souladu s § 243b odst. 5, § 224 odst. 1 a § 146 odst. 1 písm. c) OSŘ.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 23. května 2007
+JUDr. Jiří Spáčil, CSc., v. r.
+předseda senátu
