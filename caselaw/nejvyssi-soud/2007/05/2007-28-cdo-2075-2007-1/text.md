@@ -1,0 +1,21 @@
+28 Cdo 2075/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Ludvíka Davida, CSc., a soudců JUDr. Josefa Rakovského a JUDr. Roberta Waltra v právní věci žalobce K. Z. S. a. s. B., proti žalovanému P. A., zastoupenému advokátem, o zaplacení částky 42.000,- Kč, vedené u Městského soudu v Brně pod sp. zn. 61 C 106/2002, o dovolání žalobce proti rozsudku Krajského soudu v Brně ze dne 12. 10. 2006, č. j. 13 Co 331/2006-129, takto:
+I. Dovolání se odmítá.
+II. Žalobce je povinen nahradit žalovanému na nákladech dovolacího řízení částku 3.952,50 Kč do tří dnů od právní moci tohoto usnesení k rukám jeho zástupce.
+O d ů v o d n ě n í :
+Rozsudkem Krajského soudu v Brně výše označeným byl potvrzen rozsudek Městského soudu v Brně ze dne 22. 3. 2004, č.j. 61 C 106/2002-80, a to ve výroku I. o zamítnutí žaloby o zaplacení částky 42.000,- Kč. Ohledně nákladů řízení došlo ke změně prvostupňového rozsudku - žalobce byl zavázán, aby žalovanému nahradil náklady řízení před soudem prvního stupně ve výši 13.387,50 Kč. Žalobci bylo též uloženo nahradit žalovanému náklady odvolacího řízení v částce 32.844,- Kč.
+Odvolací soud dovodil v intencích zrušovacího rozsudku Nejvyššího soudu sp. zn. 28 Cdo 2485/2005, že žalovaný již nebyl dlužen žalobci na nájemném z nebytových prostor. Nájemní smlouva mezi účastníky totiž skončila pro nemožnost plnění (§ 575 odst. 1, 3 o. z.) ještě před začátkem období, za něž žalobce peněžní částku požadoval.
+Proti rozsudku odvolacího soudu podal žalobce dovolání. Dovodil v něm, že žalobce byl zkrácen ve svých právech na spravedlivý proces. Vznikl podle něj rozpor dvou rozhodnutí NS (druhým je rozsudek ze dne 25. 10. 2006, č. j. 33 Odo 1405/2005-237) a probíhají též souvisící řízení u Městského soudu v Brně pod sp. zn. 44 C 113/2002 a 36 C 93/2003. Odvolací soud podle dovolatele nepřihlédl „k nesporným skutkovým stavům“ zjištěným v „citovaných řízeních“. Dovolatel navrhl, aby dovolací soud zrušil napadený rozsudek a věc vrátil odvolacímu soudu k dalšímu řízení.
+Žalovaný podal k dovolání písemné vyjádření, v němž vyjádřil názor, že dovolání není přípustné a je třeba je odmítnout.
+Žalobce podal dovolání, sepsané osobou s právnickým vzděláním, v otevřené lhůtě (§ 241 odst. 2 písm. b/, § 240 odst. 1 o. s. ř.). Vzhledem ke shodě rozsudků nižších instancí mohlo být dovolání přípustné jen pro zásadní význam napadeného rozhodnutí ve věci samé po právní stránce (§ 237 odst. 1 písm. c/ o. s. ř.).
+Dovolání není přípustné.
+Ze stručných dovolacích tvrzení je odkaz na rozsudek Nejvyššího soudu sp. zn. 33 Odo 1405/2005 zcela nepřiléhavý. Dovolací soud není vázán ani jinými řízeními u nižší instance, na něž dovolatel poukazuje.
+Tvrzené „porušení práva na spravedlivý proces“ dovolací soud nepřezkoumal nejen pro nekonkrétnost, ale ani je za daného procesního stavu (přípustnost dovolání podle § 237 odst. 1 písm. c/ o. s. ř.) přezkoumávat nemůže (viz usnesení NS sp. zn. 21 Cdo 541/2004, publikované v Soudní judikatuře č. 7/2004).
+Odvolací soud posoudil pro věc určující právní otázku zániku závazku ze smlouvy v souladu s hmotným právem. Tato otázka nevykazuje judikatorní přesah, neboť Nejvyšší soud již dříve v Rc 35/2004 upozornil, že nájem sjednaný na dobu určitou může před uplynutím sjednané doby zaniknout i jinými (obecnými) způsoby než výpovědí podle § 9 zákona č. 116/1990 Sb.
+Podmínky přípustnosti dovolání podle § 237 odst. 1 písm. c), odst. 3 o. s. ř. tedy nebyly splněny a dovolací soud dovolání žalobce podle § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl.
+Žalovanému vznikly v tomto řízení náklady spočívající v jednom úkonu právní služby, za který náleží podle vyhlášky č. 484/2000 Sb. v aktuálním znění odměna za úkon ve výši 14.610,- Kč (§ 3 odst. 1 cit. vyhl.). Tuto odměnu však bylo nutné dvakrát krátit o polovinu, neboť šlo o jeden úkon v řízení a dovolání bylo odmítnuto (§ 14 odst. 1, § 15, § 18 odst. 1 cit. vyhl.). Výsledná částka odměny činila 3.652,50 Kč a s přičtením advokátního paušálu ve výši 300,- Kč představovaly náklady řízení žalovaného 3.952,50 Kč.
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 30. května 2007
+JUDr. Ludvík David, CSc., v. r.
+předseda senátu
