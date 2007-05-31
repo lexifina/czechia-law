@@ -1,0 +1,18 @@
+29 Cdo 1792/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Krčmáře a soudců JUDr. Petra Gemmela a JUDr. Hany Gajdziokové v právní věci žalobkyně JUDr. J. Š., advokátky, jako správkyně konkursní podstaty úpadce J. K., proti žalované L., s. r. o., o zaplacení částky 3.286.275, Kč s příslušenstvím, o návrhu na vstup vedlejšího účastníka do řízení, vedené u Obvodního soudu pro Prahu 10 pod sp. zn. 14 C 13/2001, o dovolání úpadce proti usnesení Městského soudu v Praze ze dne 29. listopadu 2002, č. j. 25 Co 464/2002-34, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+V záhlaví označeným usnesením Městský soud v Praze potvrdil k odvolání úpadce usnesení ze dne 2. října 2002, č. j. 14 C 13/2001-34, jímž Obvodní soud pro Prahu 10 nepřipustil úpadcův vstup do řízení jako vedlejšího účastníka na straně žalované.
+Proti usnesení odvolacího soudu podal úpadce včasné dovolání, jehož přípustnost opírá o ustanovení § 237 odst. 1 písm. c/ a § 239 odst. 2 občanského soudního řádu (dále též jen „o. s. ř.“), namítaje, že řízení je postiženo vadou, která mohla mít za následek nesprávné rozhodnutí ve věci (tedy, že je dán dovolací důvod dle § 241a odst. 2 písm. a/ o. s. ř.). V dovolání snáší argumenty na podporu závěru o existenci uplatněného dovolacího důvodu a dožaduje se zrušení napadeného usnesení. Kromě toho požaduje, aby Nejvyšší soud řízení přerušil podle § 109 odst. 1 písm. c/ o. s. ř. a předložil věc Ústavnímu soudu, maje za to, že požadavek povinného zastoupení dovolatele, který nemá právnické vzdělání, v dovolacím řízení, je diskriminační.
+Se zřetelem k bodu 3. článku II. zákona č. 59/2005 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, Nejvyšší soud dovolání projednal a rozhodl o něm podle občanského soudního řádu ve znění účinném před 1. dubnem 2005.
+Dovolání proti usnesení, jímž odvolací soud potvrdil usnesení soudu prvního stupně o (ne)přípustnosti vedlejšího účastenství ve smyslu ustanovení § 93 odst. 2 o. s. ř., není přípustné podle žádného ustanovení občanského soudního řádu (srov. § 237 až § 239 o. s. ř.), což Nejvyšší soud vysvětlil již v usnesení ze dne 29. června 2005, sp. zn. 29 Odo 1350/2004.
+Oproti očekávání dovolatele nelze přípustnost dovolání dovodit ani z ustanovení § 237 odst. 1 písm. c/ o. s. ř. (napadené usnesení není rozhodnutím ve věci samé) ani z ustanovení § 239 odst. 2 o. s. ř. (nejde o žádný z tam vypočtených případů).
+Nejvyšší soud proto, aniž nařizoval jednání (§ 243a odst. 1 věta první o. s. ř.), dovolání odmítl (§ 243b odst. 5, § 218 písm. c/ o. s. ř.).
+Odmítnutí dovolání, které nemůže být přípustné, nebrání se zřetelem k dikci § 241b odst. 2 o. s. ř. ani nedostatek povinného zastoupení dovolatele. Z téže příčiny neshledal Nejvyšší soud ani důvod přerušit řízení a předložit věc Ústavnímu soudu, jelikož výsledek dovolacího řízení by nebyl jiný, ani kdyby dovolatel zastoupen byl. Kromě toho Nejvyšší soud pokládá úpravu povinného zastoupení dovolatele v dovolacím řízení za ústavně konformní, což ve své rozhodovací praxi opakovaně potvrdil i Ústavní soud (srov. např. jeho usnesení ze dne 14. září 2000, sp. zn. Pl. ÚS 43/2000, uveřejněné pod číslem 32/2000 Sbírky nálezů a usnesení Ústavního soudu České republiky, svazku 19).
+Výrok o nákladech dovolacího řízení je odůvodněn tím, že dovolání úpadce bylo odmítnuto a u ostatních účastníků žádné prokazatelné náklady dovolacího řízení zjištěny nebyly (§ 243b odst. 5, § 224 odst. 1, § 146 odst. 3 o. s. ř.).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne31. května 2007
+JUDr. Zdeněk K r č m á ř
+předseda senátu
