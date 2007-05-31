@@ -1,0 +1,13 @@
+22 Cdo 647/2006-2
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci žalobkyně M. Z., zastoupené advokátem, proti žalovanému m. V., zastoupenému advokátkou, o určení vlastnictví k pozemku, vedené u Okresního soudu v Benešově pod sp. zn. 8 C 210/2003, o dovolání žalovaného proti rozsudku Krajského soudu v Praze ze dne 23. listopadu 2005, č. j. 20 Co 232/2005-201, takto:
+Rozsudek Nejvyššího soudu České republiky ze dne 22. března 2007, č. j. 22 Cdo 647/2006-224, se ve výroku II. opravuje tak, že žalovaný je povinen do tří dnů od právní moci rozhodnutí zaplatit žalobkyni na náhradu nákladů dovolacího řízení částku 6 039,50 Kč k rukám advokáta.
+Odůvodnění:
+Nejvyšší soud shora označeným rozsudkem uložil žalovanému zaplatit žalobkyni na náhradu nákladů dovolacího řízení částku 5 075,- Kč k rukám JUDr. J. P. Ten podáním z 12. dubna 2007, doručeným Nejvyššímu soudu 29. května 2007, navrhl opravu zmíněného rozsudku s odůvodněním, že rozsudek obsahuje chybu týkající se částky náhrady nákladů dovolacího řízení, neboť do těchto nákladů nebyla zahrnuta daň z přidané hodnoty.
+Podle § 164 občanského soudního řádu („OSŘ“) opraví předseda senátu v rozsudku kdykoliv i bez návrhu chyby v psaní a v počtech, jakož i jiné zjevné nesprávnosti.
+Nejvyšší soud shledal návrh JUDr. J. P. v části, týkající se nezapočítání daně z přidané hodnoty do nákladů řízení, důvodným. Chyba v počtech, které se Nejvyšší soud dopustil, spočívá v uvedení nesprávného údaje týkajícího se výše náhrady nákladů řízení, která byla vyčíslena a v rozsudku uvedena bez zvýšení o daň z přidané hodnoty, které je jmenovaný advokát plátcem ve výši 19% a podle § 137 odst. 3 OSŘ je ji nutno do nákladů řízení zahrnout. Tato daň činí 964,50 Kč, takže žalovaný je povinen na náhradě nákladů dovolacího řízení zaplatit žalobkyni k rukám jejího advokáta 6 039,50 Kč.
+Nejvyšší soud neakceptuje návrh advokáta JUDr. J. P. v jeho další části, v níž vyslovuje názor, že mu náleží náhrada za dva úkony právní služby, to je za zastoupení účastnice v dovolacím řízení a vypracování vyjádření k dovolání, takže nebylo na místě postupovat podle § 18 odst. 1 vyhlášky č. 484/2000 Sb. Rozhodovat opravným usnesením podle § 164 OSŘ v tomto případě nepřichází v úvahu nejen proto, že nejde o chyby v psaní, v počtech, jakož jiné zjevné nesprávnosti, ale i proto, že Nejvyšší soud neshledává aplikaci zmíněného ustanovení při stanovení náhrady nákladů dovolacího řízení, vzhledem k existenci generální plné moci udělené mu žalobkyní 19. 2. 2003 pro celé řízení včetně řízení dovolacího, za nesprávnou.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 31. května 2007
+JUDr. Jiří Spáčil, CSc., v. r.
+předseda senátu
