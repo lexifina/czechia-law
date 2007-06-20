@@ -1,0 +1,16 @@
+21 Nd 161/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Ljubomíra Drápala a soudců JUDr. Zdeňka Novotného a JUDr. Mojmíra Putny o návrhu J. K., podaném proti Krajskému soudu v Brně na určení lhůty k provedení procesního úkonu ve věci vedené pod sp. zn. 12 Co 347/2000, takto:
+I. Řízení o podání navrhovatele ze dne 6.3.2007 se zastavuje.
+II. Navrhovatel nemá právo na náhradu nákladů řízení.
+Odůvodnění:
+Vrchní soud v Olomouci usnesením ze dne 4.1.2007 č.j. 3 UL 28/2006-5 zamítl návrh ze dne 4.12.2006, kterým se navrhovatel ve smyslu ustanovení § 174a zákona č. 6/2002 Sb., o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích), ve znění pozdějších předpisů domáhal, aby Krajskému soudu byla určena lhůta k rozhodnutí o žalobě na obnovu řízení ze dne 16.5.2002 ve věci vedené pod sp. zn. 12 Co 347/2000. Dospěl k závěru, že o žalobě na obnovu řízení již bylo pravomocně rozhodnuto.
+Navrhovatel se nyní podáním ze dne 6.3.2007, které došlo Nejvyššímu soudu dne 7.3.2007, domáhá, aby uvedené usnesení Vrchního soudu v Olomouci \"bylo zrušeno a vydáno rozhodnutí o určení lhůty k provedení procesního úkonu žaloby z 16.5.2002\". Namítá, že vrchní soud o jeho návrhu rozhodl \"na základě nepravdivých údajů místopředsedy soudu JUDr. P. B. ve sděleních Spr 18.281/2005\".
+Nejvyšší soud České republiky po přezkoumání věci dospěl k závěru, že řízení o podání navrhovatele ze dne 6.3.2007 musí být pro neodstranitelný nedostatek podmínek řízení zastaveno.
+Proti rozhodnutí soudu o návrhu na určení lhůty pro provedení procesního úkonu nejsou přípustné opravné prostředky [§ 174a odst.8 věta druhá zákona č. 6/2002 Sb., o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích), ve znění pozdějších předpisů]. Protože přezkum tohoto rozhodnutí cestou opravných prostředků je vyloučen, zákon ani neupravuje funkční příslušnost soudu k projednání podání, směřujícího ke zrušení takového rozhodnutí.
+Nedostatek funkční příslušnosti je neodstranitelným nedostatkem podmínky řízení; Nejvyšší soud České republiky proto řízení o podání navrhovatele ze dne 6.3.2007, které je podle svého obsahu opravným prostředkem proti usnesení Vrchního soudu v Olomouci ze dne 4.1.2007 č.j. 3 UL 28/2006-5, zastavil [§ 174a odst.4 věta druhá zákona č. 6/2002 Sb., o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích), ve znění pozdějších předpisů a § 104 odst. 1 věta první o.s.ř.].
+O náhradě nákladů řízení bylo rozhodnuto podle ustanovení § 174a odst.4 věty druhé zákona č. 6/2002 Sb., o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích), ve znění pozdějších předpisů a § 151 odst.1 části věty před středníkem o.s.ř., neboť navrhovatel nemá ve smyslu ustanovení § 174a odst.7 věty druhé zákona č. 6/2002 Sb., o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích), ve znění pozdějších předpisů právo, aby mu stát nahradil náklady, které mu v tomto řízení vznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 20. června 2007
+JUDr. Ljubomír Drápal, v. r.
+předseda senátu
