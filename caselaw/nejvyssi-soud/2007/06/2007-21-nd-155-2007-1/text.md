@@ -1,0 +1,16 @@
+21 Nd 155/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a JUDr. Zdeňka Novotného v právní věci žalobkyně M. M., proti žalovaným 1) MUDr. M. F., 2) JUDr. V. B., o zaplacení ceny pozemků v částce 25.000,- Kč, případně o jejich vrácení do rukou žalobkyně, vedené u Okresního soudu v Uherském Hradišti pod sp. zn. 14 C 54/2005, o návrhu žalobkyně na přikázání věci z důvodů vhodnosti jinému soudu, takto:
+Věc vedená u Okresního soudu v Uherském Hradišti pod sp. zn. 14 C 54/2005 se nepřikazuje podle § 12 odst. 2 o.s.ř. Okresnímu soudu v Děčíně.
+O d ů v o d n ě n í :
+Žalobkyně se žalobou, podanou u Okresního soudu v Uherském Hradišti, domáhá po prvém žalovaném zaplacení 25.000,- Kč a „ve veřejném líčení napomenutí za neetické jednání“ druhého žalovaného, který je advokátem, a „poučení o tom, jaké následky by jeho jednání mohlo mít v případě jeho projednání A. k“.
+Podáním ze dne 1.11.2005, doručeným Okresnímu soudu v Uherském Hradišti dne 20.2.2007, žalobkyně navrhla, aby věc byla přikázána z důvodů vhodnosti Okresnímu soudu v Děčíně. Návrh zdůvodnila tím, že je jí 75 let, „zdravotní stav na bodu mrazu, cestu nezvládnu“.
+Oba žalovaní shodně navrhli, aby návrhu žalobkyně na přikázání věci z důvodu vhodnosti Okresnímu soudu v Děčíně vyhověno nebylo. Uvedli, že oba pocházejí z U. H., sporné nemovitosti, jejichž úhrady se žalobkyně domáhá, se nacházejí v katastrálním území U. H. a stejně tak navrhovaní svědci pocházejí z U. H., navíc spor vyvolala žalobkyně.
+Podle ustanovení § 12 odst. 2 o.s.ř. věc může být přikázána jinému soudu téhož stupně z důvodu vhodnosti.
+Důvod vhodnosti pro přikázání věci jinému soudu téhož stupně ve smyslu ustanovení § 12 odst. 2 o.s.ř. představují takové okolnosti, které umožní hospodárnější, rychlejší nebo zejména po skutkové stránce spolehlivější a důkladnější projednání věci jiným než příslušným soudem.
+Tím, že by věc byla přikázána Okresnímu soudu v Děčíně, v jehož obvodu žalobkyně bydlí, nemůže být dosaženo hospodárnější, rychlejší ani po skutkové stránce spolehlivější a důkladnější projednání věci. Přikázání věci Okresnímu soudu v Děčíně by za dané situace vedlo k tomu, že by s účastí při jednání soudu vznikaly zvýšené náklady žalovaným a případné důkazy by musely být prováděny mimo obvod tohoto soudu. Není ničím potvrzeno, že by projednáním věci nikoli před příslušným okresním soudem, nýbrž výlučně před Okresním soudem v Děčíně jen z toho důvodu, že se v jeho obvodu žalobkyně zdržuje, bylo v zájmu po skutkové stránce spolehlivějšího a důkladnějšího a zejména hospodárnějšího a rychlejšího projednání věci. Neumožní-li žalobkyni její osobní či finanční důvody osobní účast při jednáních u místně příslušného soudu, nic nebrání tomu, aby byla v projednávané věci vyslechnuta a s provedenými důkazy seznámena prostřednictvím dožádaného soudu (§ 122 odst. 2 o.s.ř.).
+Nejvyšší soud České republiky proto návrhu žalobkyně, aby věc byla podle ustanovení § 12 odst. 2 o.s.ř. přikázána Okresnímu soudu v Děčíně, nevyhověl.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 21. června 2007
+JUDr. Mojmír P u t n a, v. r.
+předseda senátu
