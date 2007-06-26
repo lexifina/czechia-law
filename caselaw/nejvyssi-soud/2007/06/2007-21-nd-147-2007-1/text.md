@@ -1,0 +1,21 @@
+21 Nd 147/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Romana Fialy a soudců JUDr. Ljubomíra Drápala a JUDr. Mojmíra Putny ve věci žalobkyně L. P., s.r.o., zastoupené advokátem, proti žalovanému A. R., zastoupenému advokátem, o 21.925,- Kč s příslušenstvím, vedené u Okresního soudu v Nymburce pod sp. zn. 15 C 163/2006, o návrhu na přikázání věci z důvodu vhodnosti jinému soudu, takto:
+Věc, vedená u Okresního soudu v Nymburce pod sp. zn. 15 C 163/2006, se nepřikazuje Okresnímu soudu v Šumperku.
+O d ů v o d n ě n í :
+Návrhem podaným u Okresního soudu v Šumperku dne 12.1.2006 se žalobkyně domáhala vydání rozhodnutí, kterým by soud uložil žalovanému povinnost „uhradit žalobkyni 21.925,- Kč se zákonným úrokem 8,75 % p.a. z dlužné částky od 1.12.2005 do 31.12.2005 a dále od 1.1.2006 až do úplného zaplacení ve výši repo sazby Č. platné pro první den příslušného kalendářního pololetí, v němž trvá prodlení dlužníka zvýšené o 7 procentních bodů“.
+Okresní soud v Šumperku platebním rozkazem ze dne 17.1.2006, č.j. 19 Ro 72/2006-21, žalobě vyhověl.
+Žalovaný podal dne 4.7.2006 proti platebnímu rozkazu odpor.
+Okresní soud v Šumperku usnesením ze dne 9.8.2006, č.j. 9 C 175/2006-34, vyslovil svoji místní nepříslušnost a rozhodl, že po právní moci tohoto usnesení bude věc postoupena Okresnímu soudu Nymburce jako soudu místně příslušnému. Dospěl k závěru, že „žalovaný má trvalé bydliště v obvodu Okresního soudu v Šumperku“; že však „žalovaný sdělil soudu, že se zdržuje (s úmyslem zdržovat se tam trvale) v Poděbradech“; že proto „Okresní soud v Šumperku není jeho obecným soudem“ a že „v dané věci nejde ani o výlučnou příslušnost ve smyslu ustanovení § 88 o.s.ř.“.
+Návrhem ze dne 22.3.2007 žalobkyně navrhla, aby věc byla předána místně příslušnému Okresnímu soudu v Šumperku. Uvedla, že „žalovaný již v působnosti Okresního soudu Nymburk nežije a nepodniká“; že „své podnikatelské aktivity v P. ukončil ke dni 4.10.2006“; že „nadále má jako místo podnikání vedeno na adrese Š.,“; že „žalovaný je jako plátce DPH registrován Finančním úřadem v Š.“.
+Žalovaný se k návrhu na přikázání věci nevyjádřil.
+Podle ustanovení § 12 odst. 2 o.s.ř. věc může být jinému soudu téhož stupně přikázána také z důvodu vhodnosti. Podle ustanovení § 12 odst. 3 věty druhé o.s.ř. účastníci mají právo se vyjádřit k tomu, kterému soudu má být věc přikázána, a v případě odstavce 2 též k důvodu, pro který by věc měla být přikázána.
+Důvody vhodnosti pro přikázání věci jinému soudu téhož stupně ve smyslu ustanovení § 12 odst. 2 o.s.ř. představují takové okolnosti, které umožní hospodárnější, rychlejší nebo zejména po skutkové stránce spolehlivější a důkladnější projednání věci jiným než příslušným soudem. Přitom je ale třeba mít na zřeteli, že obecná místní příslušnost soudu, který má podle zákona věc projednat, je základní zásadou, a že případná delegace této příslušnosti jinému soudu je toliko výjimkou z této zásady, kterou je nutno – právě proto, že jde o výjimku – vykládat restriktivně (srov. nález Ústavního soudu České republiky ze dne 15.11.2001, sp.zn. I. ÚS 144/2000).
+Podle ustanovení § 84 o.s.ř. k řízení je příslušný obecný soud účastníka, proti němuž návrh směřuje (žalovaného), není-li stanoveno jinak.
+Podle ustanovení § 85 odst. 1 o.s.ř. nestanoví-li zákon jinak, obecným soudem fyzické osoby je okresní soud, v jehož obvodu má bydliště, a nemá-li bydliště, okresní soud, v jehož obvodu se zdržuje. Má-li fyzická osoba bydliště na více místech, jsou jejím obecným soudem všechny okresní soudy, v jejichž obvodu bydlí s úmyslem zdržovat se tam trvale.
+V posuzovaném případě z obsahu spisu vyplývá, že žalovaný se nejméně od 20.6.2006 zdržoval na adrese v P., kde také přebíral poštu (viz doručenky na č.l. 20 verte, č.l. 27 verte, č.l. 32 verte a č.l. 43) a že podáním ze dne 8.8.2006 sdělil soudu, že se na adrese v P., zdržuje s úmyslem zdržovat se zde trvale.
+Důvody pro postup podle ustanovení § 12 odst. 2 o.s.ř. nejsou proto dány a Nejvyšší soud České republiky návrhu žalobkyně na přikázání věci jinému soudu z důvodu vhodnosti nevyhověl.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. června 2007
+JUDr. Roman Fiala, v. r.
+předseda senátu
