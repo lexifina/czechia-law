@@ -1,0 +1,12 @@
+22 Nd 197/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jiřího Spáčila, CSc., a soudců JUDr. Františka Baláka a JUDr. Marie Rezkové ve věci žalobce J. H., proti žalovanému České republice -Ministerstvu spravedlnosti České republiky, o náhradu škody, o příslušnosti soudu k projednání a rozhodnutí věci, takto:
+K projednání a rozhodnutí věci je příslušným Obvodní soud pro Prahu 2.
+Odůvodnění:
+Žalobce podáním označeným datem 25. 5. 2007, který byl Nejvyššímu soudu doručen 5. 6. 2007, podal „žalobu na stát ČR – konkrétně Ministerstvo spravedlnosti ČR“. Nesouhlasí s výší odškodnění za nemajetkovou újmu způsobenou průtahy v soudním řízení ve výši 19 000,- Kč přiznanou mu odborem odškodňování Ministerstva spravedlnosti České republiky a domáhá se vyššího odškodnění.
+Podle § 79 odst. 1 věta prvá OSŘ se řízení zahajuje na návrh. Podle § 82 odst. 1 OSŘ je řízení zahájeno dnem, kdy došel soudu návrh na jeho zahájení nebo kdy bylo vydáno usnesení, podle něhož se řízení zahajuje bez návrhu. Podle § 104a odst. 4 OSŘ bylo-li řízení zahájeno u Nejvyššího soudu nebo byla-li věc Nejvyššímu soudu předložena Vrchním soudem, Nejvyšší soud rozhodne, které soudy jsou k projednání a rozhodnutí věci příslušné v prvním stupni, není-li sám věcně příslušný. Podle § 84 OSŘ je k řízení příslušný obecný soud účastníka, proti němuž návrh směřuje, není-li stanoveno jinak. Podle § 85 odst. 4 OSŘ je obecným soudem státu okresní soud, v jehož obvodu má sídlo organizační složka státu příslušná podle zvláštního právního předpisu, a nelze-li takto místně příslušný soud určit, soud, v jehož obvodu nastala skutečnost, která zakládá uplatněné právo.
+Podle § 15 odst. 2 zákona č. 82/1998 Sb., o odpovědnosti za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo nesprávným úředním postupem, ve znění pozdějších předpisů, domáhat se náhrady škody u soudu může poškozený pouze tehdy, pokud do šesti měsíců ode dne uplatnění nebyl jeho nárok plně uspokojen. V daném případě se žalobce domáhá, aby mu Český stát – Ministerstvo spravedlnosti vyplatilo odškodnění za nemajetkovou újmu částkou vyšší, než mu poskytlo. Svůj návrh předložil Nejvyššímu soudu, ačkoliv příslušným k projednání věci je Obvodní soud pro Prahu 2, v jehož obvodu je sídlo Ministerstva spravedlnosti České republiky. Nejvyšší soud proto rozhodl o přikázání věci tomuto soudu.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 27. června 2007
+JUDr. Jiří Spáčil, CSc., v. r.
+předseda senátu
