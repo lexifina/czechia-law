@@ -1,0 +1,21 @@
+29 Cdo 1436/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce Ing. J. S., CSc., zemřelému, proti žalovanému Ing. A. B., zastoupenému JUDr. J. B., advokátem, o návrhu žalovaného na obnovu řízení, vedené u Okresního soudu ve Frýdku-Místku pod sp. zn. 40 C 231/2003, o dovolání druhého žalovaného proti usnesení Krajského soudu v Ostravě ze dne 31. března 2006, č.j. 57 Co 115/2006-153, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Ostravě usnesením ze dne 31. března 2006, č.j. 57 Co 115/2006-153, k odvolání žalovaného potvrdil usnesení ze dne 4. listopadu 2005, č.j. 40 C 231/2003-128, jímž Okresní soud ve Frýdku-Místku - odkazuje na ustanovení § 104 odst. 1 občanského soudního řádu (dále též jen „o. s. ř.“) - zastavil řízení o návrhu žalovaného na obnovu řízení ve věci vedené u téhož soudu pod sp. zn. 15 C 96/96. Odvolací soud přisvědčil závěru soudu prvního stupně, že nebyly splněny podmínky řízení, neboť Ing. J. S. (žalobce v řízení, jehož obnovy se Ing. B. domáhá) zemřel. K datu podání návrhu na obnovu řízení tak neměl způsobilost být účastníkem řízení podle ustanovení § 19 o. s. ř. Nedostatek způsobilosti být účastníkem řízení je neodstranitelným nedostatkem podmínky řízení, jehož důsledkem je zastavení řízení.
+Proti usnesení odvolacího soudu podal druhý žalovaný dovolání, opíraje jeho přípustnost o ustanovení § 238 odst. 1 písm. a) a § 237 odst. 1 písm. c) o. s. ř. a namítaje, že spočívá na nesprávném právním posouzení věci [tedy že je dán dovolací důvod dle § 241a odst. 2 písm. b) o. s. ř.]. V dovolání pak snáší argumenty na podporu závěru o existenci uplatněného dovolacího důvodu a požaduje, aby Nejvyšší soud rozhodnutí soudů nižších stupňů zrušil a věc vrátil soudu prvního stupně k dalšímu řízení.
+Podle bodu 17., hlavy první, části dvanácté, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (to jest podle občanského soudního řádu ve znění účinném před 1. lednem 2001). O takový případ jde i v této věci, jelikož odvolací soud - ve shodě s body 15. a 16., hlavy první, části dvanácté, zákona č. 30/2000 Sb. - odvolání rovněž projednal a rozhodl o něm (jak se výslovně podává z odůvodnění jeho usnesení) podle občanského soudního řádu ve znění účinném do 31. prosince 2000.
+Dovolání není přípustné.
+Podle ustanovení § 236 odst. 1 o. s. ř dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti usnesení odvolacího soudu upravují ustanovení § 237, § 238a a § 239 o. s. ř.
+Vady řízení vyjmenované v ustanovení § 237 odst. 1 o. s. ř., jež zakládají (s výjimkami uvedenými v odstavci druhém) přípustnost dovolání proti každému rozhodnutí odvolacího soudu, k nimž dovolací soud přihlíží z úřední povinnosti, dovolatel netvrdí a tyto se nepodávají ani z obsahu spisu.
+Podle ustanovení § 238a odst. 1 písm. a) o. s. ř. není dovolání přípustné proto, že usnesení odvolacího soudu nebylo usnesením měnícím, nýbrž potvrzujícím a napadané rozhodnutí nelze podřadit ani případům vyjmenovaným v § 238a odst. 1 pod písmeny b) až f) o. s. ř.
+V ustanovení § 239 o. s. ř. jsou stanoveny podmínky přípustnosti dovolání proti rozsudku nebo usnesení odvolacího soudu, jímž bylo rozhodnuto ve věci samé. Usnesení, jímž odvolací soud potvrdil usnesení soudu prvního stupně o zastavení řízení podle ustanovení § 104 odst. 1 o. s. ř. pro nedostatek podmínky řízení, není rozhodnutím ve věci samé.
+Tento závěr s sebou nese konečné posouzení dovolání jako nepřípustného; Nejvyšší soud je proto podle ustanovení § 243b odst. 4 a § 218 odst. 1 písm c) o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 4, § 224 odst. 1 a § 146 odst. 2 věty první (per analogiam) o. s. ř., když dovolání Ing. Angela Buny bylo odmítnuto.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 27. června 2007
+JUDr. Petr G e m m e l
+předseda senátu
