@@ -1,0 +1,14 @@
+11 Td 35/2007
+U S N E S E N Í
+Nejvyšší soud v trestní věci obviněného J. M. , vedené u Okresního soudu v Jihlavě pod sp. zn. 13 T 119/2007 rozhodl v neveřejném zasedání konaném dne 29. 6. 2007 o příslušnosti soudu t a k t o :
+Podle § 24 odst. 1 tr. řádu j e k projednání trestní věci obviněného J. M. p ř í s l u š n ý Okresní soud v Jindřichově Hradci.
+O d ů v o d n ě n í :
+Státní zástupce Okresního státního zastupitelství v Jihlavě podal dne 24. 4. 2007 Okresnímu soudu v Jihlavě obžalobu na obviněného J. M. pro trestný čin podílnictví podle § 251 odst. 1 písm. a) tr. zák., který měl spáchat tím, že v přesně nezjištěné době od 7.00 hod. dne 4. 3. 2006 do 7.10 hod. dne 6. 3. 2006 v obci R. , okr. J. , jako odměnu za odvoz z B. do R. a zpět, převzal od T. H. , šest krabiček cigaret, uzeninu a kosmetiku, vše v úhrnné hodnotě nejméně 440,- Kč, kteréžto věci následně použil pro svoji potřebu, přičemž tak učinil i přesto, že tyto věci T. H. právě odcizil z prodejny J. v obci R. , do níž se vloupal, neboť mu to sám T. H. řekl ještě před předáním oněch věcí.
+Usnesením Okresního soudu v Jihlavě ze dne 11. 5. 2007, sp. zn. 13 T 119/2007, byla podle § 314c odst. 1 a § 188 odst. 1 písm. a) tr. řádu trestní věc obviněného J. M. předložena Nejvyššímu soudu k rozhodnutí o příslušnosti soudu, neboť Okresní soud v Jihlavě není místně příslušný k projednání věci, kdy z obsahu spisu je zřejmé, že ve skutkové větě obžaloby není správně vymezeno místo, kde mělo dojít ke spáchání žalovaného trestného činu. Ve skutkové větě je uvedeno, že místem spáchání je obec R. na okrese J. , ale z obsahu spisu, zejména z doznání obviněného J. M. vyplývá, že věci, které pocházely z trestné činnosti T. H. , nepřevzal v obci R. na okrese J. ani nikde jinde na okrese J. , ale v obci B. , která patří do obvodu Okresního soudu v Jindřichově Hradci.
+Nejvyšší soud zhodnotil důkazy použitelné k rozhodnutí podle § 24 tr. řádu a dospěl k tomuto závěru.
+Podle ustanovení § 18 odst. 1 tr. řádu koná řízení soud, v jehož obvodu byl trestný čin spáchán. Za místo spáchání trestného činu je třeba považovat především místo, kde došlo k jednání pachatele, naplňujícímu objektivní stránku trestného činu, avšak i místo, kde nastal nebo měl nastat následek trestného činu. Vzhledem k tomu, že v posuzované věci mělo k žalovanému jednání obviněného J. M. dojít podle zatím shromážděných důkazů na území obce B. , tedy v obvodu Okresního soudu v Jindřichově Hradci, zatím co v obvodu Okresního soudu v Jihlavě nedošlo k žádnému jednání, jímž by byly naplněny znaky skutkové podstaty žalovaného trestného činu, je v souladu s ustanovením § 18 odst. 1 tr. řádu, pokud věc projedná a rozhodne Okresní soud v Jindřichově Hradci, který je k tomuto řízení podle tohoto věcně a místně příslušný.
+Z těchto důvodů bylo rozhodnuto, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 29. června 2007
+Předseda senátu:
+JUDr. Pavel Kučera
