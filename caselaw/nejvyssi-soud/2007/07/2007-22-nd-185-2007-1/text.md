@@ -1,0 +1,12 @@
+22 Nd 185/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marie Rezkové a soudců JUDr. Františka Baláka a JUDr. Jiřího Spáčila, CSc., ve věci žalobkyně G. M. A. a. s., zastoupené advokátem, proti žalované M. B., o zaplacení 19 178,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 29 C 112/2006, o návrhu na přikázání věci z důvodu vhodnosti Okresnímu soudu v Hodoníně, takto:
+Věc, vedená u Obvodního soudu pro Prahu 4 pod sp. zn. 29 C 112/2006, se nepřikazuje k projednání a rozhodnutí Okresnímu soudu v Hodoníně.
+O d ů v o d n ě n í :
+Obvodní soudu pro Prahu 4, jehož místní příslušnost k projednání a rozhodnutí této věci vyplývá z § 89a občanského soudního řádu (dále „OSŘ“), předložil spis Nejvyššímu soudu České republiky k rozhodnutí o návrhu žalované na přikázání věci z důvodu vhodnosti Okresnímu soudu v Hodoníně (§ 12 odst. 2 a 3 OSŘ). Žalovaná odůvodnila návrh tím, že se nemůže účastnit jednání u Obvodního soudu pro Prahu 4, neboť celodenně pečuje o svoji převážně bezmocnou dceru M. B., což doložila potvrzením Městského úřadu v K. z 16. 11. 2006, z něhož vyplývá, že takto pečuje o dceru od 1. 4. 2003. Žalobkyně s přikázáním věci označenému soudu nesouhlasí s odůvodněním, že mezi účastnicemi byla 15. 5. 2003 uzavřena leasingová smlouva, jejíž nedílnou součástí jsou všeobecné obchodní podmínky, podle kterých si strany dohodly, že žalobkyně je oprávněna své nároky uplatňovat i u soudu místně příslušného podle svého sídla - Obvodního soudu pro Prahu 4. Dále namítá nehospodárnost řízení před Okresním soudem v Hodoníně.
+Podle § 12 odst. 2 OSŘ věc může být jinému soudu téhož stupně přikázána také z důvodu vhodnosti.
+Důvod pro postup podle § 12 odst. 2 OSŘ nebyl shledán opodstatněným. Nejvyšší soud vzal při posuzování poměrů účastníků a jimi uváděných důvodů v úvahu především skutečnost, že se účastníci na místní příslušnosti Obvodního soudu pro Prahu 4 dohodli. Namítá-li žalovaná, že je nucena celodenně pečovat o svoji převážně bezmocnou dceru, nelze přehlédnout, že uvedená skutečnost existovala již v době, kdy byla zmíněná leasingová smlouva uzavřena. Pokud se žalovaná ze závažných důvodů nebude moci zúčastnit projednávání věci u Obvodního soudu pro Prahu 4, nic nebrání tomu, aby byla k projednávané věci vyslechnuta a s provedenými důkazy seznámena prostřednictvím dožádaného soudu (§ 122 odst. 2 OSŘ).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 11. července 2007
+JUDr. Marie Rezková, v. r.
+předsedkyně senátu
