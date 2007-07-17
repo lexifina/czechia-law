@@ -1,0 +1,23 @@
+22 Cdo 2793/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy senátu JUDr. Františka Baláka a soudců JUDr. Marie Rezkové a JUDr. Jiřího Spáčila, CSc., ve věci žalobkyně J. C., spol. s r. o., zastoupené advokátem, proti žalované P. spol. s r. o., zastoupené advokátem, o zřízení věcného břemene, vedené u Okresního soudu ve Svitavách pod sp. zn. 10 C 244/2002, o dovolání žalobkyně proti usnesení Krajského soudu v Hradci Králové ze dne 7. února 2005, č. j. 24 Co 88/2004-78, takto:
+I. Dovolání se odmítá.
+II. Žalobkyně je povinna zaplatit žalované na náhradě nákladů dovolacího řízení
+1 200,- Kč do tří dnů od právní moci tohoto usnesení k rukám JUDr. P. C.
+O d ů v o d n ě n í :
+Krajský soud v Hradci Králové jako soud odvolací usnesením ze dne 7. února 2005,
+č. j. 24 Co 88/2004-78, k odvolání žalobkyně zrušil rozsudek Okresního soudu ve Svitavách (dále jen „soud prvního stupně“) ze dne 25. listopadu 2003, č. j. 10 C 244/2002-55, kterým byla zamítnuta žaloba, kterou se žalobkyně domáhala po žalované zřízení věcného břemene chůze a jízdy přes pozemek 1766/4 v rozsahu, který je vymezen geometrickým plánem ze dne 4. 9. 2002, přičemž osobou oprávněnou z věcného břemene bude vlastník pozemku 1766/3 a osobou povinnou bude vlastník pozemku 1766/4, vše v obci S., k. ú. S. – P., a řízení zastavil. Dále rozhodl o nákladech řízení.
+Odvolací soud takto rozhodl poté, co žalobkyně po podání odvolání do rozsudku soudu prvního stupně ze dne 25. listopadu 2003, č. j. 10 C 244/2002-55, zjistila, že sporná část pozemku, na níž se domáhala zřízení věcného břemene, je veřejně přístupnou účelovou komunikací a vzala žalobu v celém rozsahu zpět. Žalovaný se zpětvzetím žaloby vyslovil souhlas.
+Proti rozhodnutí odvolacího soudu podala žalobkyně dovolání, a to výhradně proti výroku o nákladech řízení, z důvodu, že rozhodnutí v této části spočívá na nesprávném právním posouzení věci. Dovolací soud podle žalobkyně dostatečně nezvážil důvody, které vedly k zastavení řízení, a předchozí jednání žalované, která nutnost sporu vyvolala.
+Žalovaná ve svém vyjádření navrhla odmítnutí dovolání, neboť ze žádného ustanovení občanského soudního řádu podle ní nevyplývá, že by bylo přípustné samostatně podané dovolání do výroku o nákladech řízení, který je výrokem vedlejším a je závislý na výroku ve věci samé.
+Nejvyšší soud ČR (dále jen „Nejvyšší soud“) jako soud dovolací po zjištění, že dovolání bylo podáno oprávněnou osobou včas, nejprve zkoumal, zda jde o dovolání přípustné.
+Podle § 236 odst. 1 občanského soudního řádu (dále jen „OSŘ“) je dovoláním možné napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Podle § 239 odst. 1 písm. a) OSŘ je dovolání přípustné proti usnesení odvolacího soudu, jímž bylo rozhodnutí soudu prvního stupně zrušeno a řízení zastaveno, popřípadě věc postoupena orgánu, do jehož pravomoci náleží.
+Posledně citované ustanovení připouští dovolání pouze proti výroku rozhodnutí odvolacího soudu, kterým bylo rozhodnutí soudu prvního stupně zrušeno a řízení zastaveno, případně věc byla postoupena jinému orgánu, nikoli proti samotnému výroku o nákladech řízení. Dovolání proti výroku usnesení odvolacího soudu o nákladech řízení však podle občanského soudního řádu ve znění účinném od 1. ledna 2001 přípustné není (srovnej usnesení Nejvyššího soudu ze dne 31. ledna 2002, sp. zn. 29 Odo 874/2001, publikované pod č. 4/2003 ve Sbírce soudních rozhodnutí a stanovisek). Tak je tomu i v tomto případě, neboť žalobkyně podala dovolání výhradně do výroku o náhradě nákladů řízení před soudy obou stupňů.
+Nejvyšší soud proto dovolání podle § 243b odst. 5 a § 218 písm. c) OSŘ jako nepřípustné odmítl.
+Výrok o náhradě nákladů dovolacího řízení vychází z toho, že dovolání žalobkyně bylo odmítnuto a žalované vznikly náklady v souvislosti se zastoupením advokátem (§ 243b odst. 5, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 OSŘ). Náklady vzniklé žalované představují odměnu advokáta za její zastoupení, která činí podle § 8 písm. a), § 10 odst. 3, § 14 odst. 1, § 15 a § 18 odst. 1 vyhlášky č. 484/2000 Sb., ve znění pozdějších předpisů, a čl. II vyhlášky č. 276/2006 Sb. částku 1 125,- Kč, a dále paušální náhradu hotových výdajů 75,- Kč podle § 13 odst. 3 vyhlášky č. 177/1996 Sb., ve znění pozdějších předpisů, a čl. II. vyhlášky č. 277/2006 Sb., a celkem tedy činí náklady řízení 1 200,- Kč. Platební místo a lhůta k plnění vyplývají z § 149 odst. 1 a § 160 odst. 1 OSŘ.
+Proti tomuto usnesení není opravný prostředek přípustný.
+Nesplní-li žalobkyně dobrovolně, co jí ukládá toto rozhodnutí, může žalovaná podat návrh na výkon rozhodnutí.
+V Brně dne 17. července 2007
+JUDr. František Balák, v. r.
+předseda senátu
