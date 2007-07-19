@@ -1,0 +1,15 @@
+20 Nd 124/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové a soudců JUDr. Pavla Krbka a JUDr. Vladimíra Mikuška ve věci žalobce J. H., zastoupeného advokátem se sídlem v Š., proti žalované České republice – Ministerstvu práce a sociálních věcí, se sídlem v Praze 2, Na Poříčním právu 1/376, o zaplacení 198 839,- Kč s příslušenstvím, o návrhu na přikázání věci, takto:
+Věc vedená u Obvodního soudu pro Prahu 2 pod sp. zn. 23 C 58/2007 se nepřikazuje Okresnímu soudu v Šumperku.
+O d ů v o d n ě n í :
+Žalobce navrhl, aby věc byla z důvodu vhodnosti přikázána Okresnímu soudu v Šumperku. Poukázal na to, že ve věci lze očekávat rozsáhlé dokazování a s ohledem na bydliště navržených svědků bude hospodárnější, aby řízení proběhlo u tohoto soudu. Rovněž upozornil na svoji majetkovou situaci, když kromě částečného invalidního důchodu je bez příjmu.
+Žalovaná s návrhem nesouhlasila. Argumenty žalobce jsou sice pochopitelné, ale stejně vhodně řešitelné i prostřednictvím jiného procesního institutu.
+Podle ustanovení § 12 odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů (dále jen „o. s. ř.“), může být věc jinému soudu téhož stupně přikázána také z důvodu vhodnosti.
+Důvody vhodnosti podle tohoto ustanovení mohou být různé v závislosti na předmětu řízení, postavení účastníků i jiných okolnostech. Jde zejména o skutečnosti, z nichž lze dovodit, že jiným než příslušným soudem bude věc projednána rychleji, hospodárněji nebo po skutkové stránce – se zřetelem na navržené důkazy – spolehlivěji a důkladněji. K přikázání věci jinému než příslušnému soudu by však mělo docházet pouze výjimečně, a to ze závažných důvodů, neboť je uplatňováno jako výjimka z ústavně zaručené zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon (čl. 38 odst. 1 Listiny základních práv a svobod, vydané ústavním zákonem č. 23/1991 Sb. a usnesením předsednictva ČNR č. 2/1993 Sb. vyhlášené jako součást ústavního pořádku České republiky, ve znění ústavního zákona č. 162/1998 Sb.). Důvody pro odnětí věci příslušnému soudu a její přikázání soudu jinému tedy musí být natolik významné, aby dostatečně odůvodňovaly průlom do výše citovaného ústavního principu.
+O takový případ se v projednávané věci nejedná. Skutečnost, že bydliště účastníků a možných svědků se nachází v jiném místě než v obvodu sídla procesního soudu, ani nepříznivá finanční situace žalobce samy o sobě přikázání věci jinému soudu neodůvodňují, je-li k dispozici institut dožádání (§ 39 o. s. ř.). Bude-li soud považovat za nutné žalobce ve věci vyslechnout, učiní tak prostřednictvím dožádaného soudu podle místa jeho bydliště. Stejně tak lze prostřednictvím dožádaného soudu provést důkazy výslechem svědků.
+Nejvyšší soud proto rozhodl, jak je uvedeno ve výroku tohoto usnesení (§ 12 odst. 3, věta první, o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 19. července 2007
+JUDr. Miroslava J i r m a n o v á
+předsedkyně senátu
