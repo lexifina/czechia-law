@@ -1,0 +1,20 @@
+26 Cdo 2467/2005
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Ing. Jana Huška a soudců JUDr. Miroslava Feráka a Doc. JUDr. Věry Korecké, CSc., v právní věci žalobce J. B., zast. advokátem, proti žalovaným 1) P. S., 2) J. S., 3) J. D., zastoupeným advokátkou, a 4) m. č. P. 5, o vyslovení povinnosti trpět užívání bytu a vydat klíče od bytu a domu, vedené u Obvodního soudu pro Prahu 5 pod sp. zn. 35 C 51/2004, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 25. května 2005, č. j. 53 Co 619/2004-60, takto:
+I. Dovolací řízení se zastavuje.
+II. Žalobce je povinen zaplatit žalovaným 1) a 3) oprávněným společně a nerozdílně na náhradě nákladů dovolacího řízení částku 1.696,- Kč do tří dnů od právní moci tohoto usnesení k rukám advokátky.
+III. Ve vztahu mezi žalobcem a žalovaným 2) a 4) nemá žádný z účastníků právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 5 (dále jen „soud prvního stupně“) rozsudkem ze dne 16. 9. 2004, č. j. 35 C 51/2004-33, uložil žalovaným povinnost společně a nerozdílně trpět žalobcovo užívání bytu o jednom pokoji s příslušenstvím, zahrnujícím WC, koupelnu a předsíň, nacházejícím se ve 2. poschodí domu č. p. 2337 v P. 5 – S., Grafická 30 (dále jen „předmětný byt“), a dále žalovaným uložil povinnost vydat žalobci klíč od tohoto bytu a klíč od uvedeného domu č. p. 2337, to vše do 3 dnů od právní moci rozsudku; žalovaným dále uložil povinnost zaplatit společně a nerozdílně žalobci náklady řízení ve výši 5.875,- Kč k rukám jeho právního zástupce.
+Městský soud v Praze jako soud odvolací rozsudkem ze dne 25. 5. 2005, č. j. 53 Co 619/2004-60, rozsudek soudu prvního stupně ve výroku ukládajícím žalovaným povinnost vydat žalobci klíče od domu č. p. 2337 v P. 5 – S., Grafická 30, potvrdil a výrok soudu prvního stupně o povinnosti žalovaných vydat žalobci klíč od předmětného bytu a trpět jeho užívání změnil tak, že v tomto rozsahu žalobu zamítl; odvolací soud dále rozhodl o náhradě nákladů řízení před soudy obou stupňů.
+Dovoláním ze dne 17. 8. 2005 napadl žalobce výše uvedený rozsudek odvolacího soudu v jeho měnícím výroku a navrhl, aby dovolací soud zrušil rozsudek odvolacího soudu v části, v níž byla žaloba zamítnuta, a to včetně výroku o nákladech řízení, a věc vrátil odvolacímu soudu k dalšímu řízení.
+Podáním ze dne 20. 6. 2007 vzal žalobce prostřednictvím svého právního zástupce své dovolání zcela zpět.
+Podle § 243b odst. 5 věty druhé zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů (dále jen „o. s. ř.“), vezme-li dovolatel dovolání zcela zpět, dovolací soud řízení zastaví.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) s ohledem na shora uvedený procesní úkon dovolatele dovolací řízení podle ust. § 243b odst. 5 věty druhé o. s. ř. zastavil.
+Výrok o nákladech dovolacího řízení se opírá o ustanovení § 243b odst. 5 věty první, § 224 odst. 1, § 146 odst. 2 větu první o. s. ř. a je odůvodněn tím, že žalobce, který zavinil zastavení dovolacího řízení, je povinen zaplatit žalovaným 1) a 3) oprávněným společně a nerozdílně náklady dovolacího řízení vzniklé v souvislosti s podáním vyjádření k dovolání prostřednictvím jejich právní zástupkyně. Tyto náklady dovolacího řízení tvoří částku 1.696,- Kč sestávající z odměny advokáta, paušální náhrady a DPH (§ 2 odst. 1, § 8 písm. a/ ve spojení s § 10 odst. 3, § 15 ve spojení s § 14 odst. 1, § 17 odst. 2 § 18 odst. 1 vyhl. č. 484/2000 Sb., ve znění účinném do 31. 8. 2006, § 2 odst. 1, § 13 odst. 1 a 3 vyhl. č. 177/1996 Sb., ve znění účinném do 31. 8. 2006 a § 137 odst. 3 o. s. ř. ve znění pozdějších předpisů).
+Žalovaným 2) a 4) žádné náklady v dovolacím řízení nevznikly a tomu odpovídá výrok rozhodnutí.
+Proti tomuto usnesení není opravný prostředek přípustný.
+Nesplní-li povinný dobrovolně, co mu ukládá vymahatelné rozhodnutí, mohou oprávnění podat návrh na soudní výkon rozhodnutí.
+V Brně dne 24. července 2007
+JUDr. Ing. Jan H u š e k , v. r.
+předseda senátu
