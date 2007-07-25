@@ -1,0 +1,16 @@
+29 Cdo 2994/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudkyň JUDr. Hany Gajdziokové a JUDr. Ivany Štenglové v právní věci žalobkyně K., s. r. o., proti žalované P., a. s., zastoupené advokátem, o zaplacení částky 35,831.852,43 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 8 pod sp. zn. 11 C 379/2005, o dovolání žalované proti usnesení Městského soudu v Praze ze dne 9. března 2007, č.j. 20 Co 57/2007-83, takto:
+Dovolání se zamítá.
+O d ů v o d n ě n í :
+Městský soud v Praze usnesením ze dne 9. března 2007, č.j. 20 Co 57/2007-83, potvrdil usnesení ze dne 18. prosince 2006, č.j. 11 C 379/2005-62, ve výroku, jímž Obvodní soud pro Prahu 8 - odkazuje na ustanovení § 107 občanského soudního řádu (dále též jen „o. s. ř.“) - rozhodl, že v řízení bude jako se žalobkyní pokračováno s Č. k. a., (dále jen „agentura“), neboť původní žalobkyně K., s. r. o. zanikla výmazem z obchodního rejstříku k 31. srpnu 2006 poté, kdy byla zrušena s převodem obchodního jmění na jejího jediného společníka, jímž je agentura.
+Proti usnesení odvolacího soudu podala žalovaná dovolání, v němž namítá, že původní žalobkyně se nemohla stát věřitelkou žalované, neboť právní vztah ze zaniklé smlouvy o úvěru ze dne 19. února 1997 (dále jen „smlouva o úvěru“) „vznikl, trval a zanikl výhradně s K. b., a. s.“ Zanikla-li žalobkyně poté, kdy veškerý její majetek jako souhrn hodnot ve smyslu ustanovení § 153c odst. 1 obchodního zákoníku byl převeden na jejího jediného společníka, pak na agenturu nemohlo být převedeno více práv zaniklé žalobkyně, než kolik jich měla ona sama, neboť ani ona nebyla věřitelkou žalované.
+Proto dovolatelka navrhuje, aby Nejvyšší soud rozhodnutí soudů nižších stupňů v napadeném rozsahu zrušil a věc vrátil soudu prvního stupně s tím, aby „řízení zastavil“.
+Dovolání je přípustné podle ustanovení § 239 odst. 2 písm. b) o. s. ř.; není však důvodné.
+Podle ustanovení § 107 o. s. ř., jestliže účastník ztratí po zahájení řízení způsobilost být účastníkem řízení dříve, než řízení bylo pravomocně skončeno, posoudí soud podle povahy věci, zda v řízení může pokračovat. Není-li možné v řízení ihned pokračovat, soud řízení přeruší. O tom, s kým bude v řízení pokračováno, soud rozhodne usnesením (odstavec 1). Ztratí-li způsobilost být účastníkem řízení právnická osoba a umožňuje-li povaha věci pokračovat v řízení, jsou jejím procesním nástupcem, nestanoví-li zákon jinak, ti, kteří po zániku právnické osoby vstoupili do jejích práv a povinností, popřípadě ti, kteří po zániku právnické osoby převzali práva a povinnosti, o něž v řízení jde (odstavec 3).
+V situaci, kdy původní žalobkyně ke dni 31. srpna 2006 zanikla výmazem z obchodního rejstříku poté, kdy byla zrušena s převodem obchodního jmění na jejího jediného společníka - agenturu, jež nabyla všechna (tedy i procesní) práva své právní předchůdkyně, je rozhodnutí odvolacího soudu s výše citovaným ustanovením v souladu.
+Nejvyšší soud proto dovolání žalované podle ustanovení § 243b odst. 2 části věty před středníkem o. s. ř. zamítl.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. července 2007
+JUDr. Petr G e m m e l
+předseda senátu
