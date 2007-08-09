@@ -1,0 +1,21 @@
+11 Tcu 88/2007
+U S N E S E N Í
+Nejvyšší soud České republiky projednal v neveřejném zasedání dne 9. srpna 2007 návrh Ministerstva spravedlnosti České republiky na zápis odsouzení cizozemským soudem do evidence Rejstříku trestů a rozhodl t a k t o :
+Podle § 4 odst. 2 zák. č. 269/1994 Sb. se do evidence Rejstříku trestů zaznamenají údaje o odsouzení občana České republiky D. P., rozsudkem Zemského soudu Landshut, Spolková republika Německo, ze dne 10. 6. 1996, sp. zn. 1 KLs 6 Js 28916/95, a to pro trestný čin padělání peněz podle § 146 odst. 1 č. 2 a č. 3, odst. 2 trestního zákona Spolkové republiky Německo, k trestu odnětí svobody v trvání 2 (dvou) roků.
+O d ů v o d n ě n í :
+Výše označeným rozsudkem Zemského soudu Landshut, Spolková republika Německo, jenž nabyl právní moci dne 10. června 1996, byl D. P. uznán vinným trestným činem padělání peněz podle shora uvedených právních předpisů Spolkové republiky Německo a byl mu za to uložen trest odnětí svobody v trvání dvou roků.
+Podle zjištění cizozemského soudu se odsouzený dopustil trestné činnosti v podstatě tak, že dne 8. listopadu 1995 v P., spolu s jinak odsouzeným J. K., získal od zprostředkovatele F. Š. přinejmenším 1 600 padělaných pětimarkových mincí, v celkové hodnotě přibližně 8 000 DM, a následujícího dne s nimi přicestoval půjčeným osobním vozidlem tovární značky Škoda na území Spolkové republiky Německo, kde je postupně v období od 10. do 12. listopadu 1995 na čerpacích stanicích v M., N., Ř. a D., vyměnil za platné peníze, a to vždy dvacet mincí za jednu stomarkovou bankovku.
+Ministerstvo spravedlnosti České republiky podalo podle § 4 odst. 2 zák. č. 269/1994 Sb., o Rejstříku trestů (dále jen „zákon“), Nejvyššímu soudu České republiky návrh na zapsání výše uvedeného odsouzení německým soudem do evidence Rejstříku trestů České republiky.
+Nejvyšší soud České republiky věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro zápis odsouzení cizozemským soudem do evidence Rejstříku trestů.
+Především je třeba uvést, že podle § 4 odst. 2 zákona může Nejvyšší soud České republiky na návrh Ministerstva spravedlnosti České republiky rozhodnout, že se do evidence Rejstříku trestů zaznamenají údaje o odsouzení občana České republiky cizozemským soudem, jestliže se týká činu, který je trestným i podle právního řádu České republiky a zápis do evidence je odůvodněn závažností činu a druhem trestu, který za něj byl uložen. Dále je nutno připomenout, že pokud Nejvyšší soud rozhodne o zaznamenání údajů o odsouzení do evidence Rejstříku trestů, hledí se na takové odsouzení cizozemským soudem jako na odsouzení soudem České republiky
+(§ 4 odst. 4 zákona).
+Z podaného návrhu a z obsahu připojeného spisového materiálu vyplývá, že odsouzený je státním občanem České republiky, který byl odsouzen cizozemským soudem, přičemž odsouzení se týká skutku, který vykazuje znaky trestného činu i podle právního řádu České republiky (trestný čin padělání a pozměňování peněz podle § 140 odst. 1, odst. 2 alinea druhá tr. zák.). Tím jsou splněny formální podmínky ustanovení
+§ 4 odst. 2 zákona.
+V posuzované věci jsou ovšem dány i podmínky materiální povahy. Odsouzený D. P. se dopustil trestného činu, který je velmi závažným trestným činem proti měně i podle českého právního řádu. Dopustil se trestné činnosti, k jejímuž stíhání je Česká republika zavázána i mezinárodními úmluvami (Úmluva o potírání penězokazectví vyhlášená pod č. 15/1932 Sb. dne 5. února 1932).
+Pokud jde o druh trestu, byl mu uložen již poměrně citelný trest odnětí svobody v trvání dvou roků. Lze tedy dovodit, že podmínky ustanovení § 4 odst. 2 zákona týkající se závažnosti činu a druhu uloženého trestu jsou splněny.
+S ohledem na povahu a závažnost předmětné trestné činnosti Nejvyšší soud shledal podaný návrh důvodným i za situace, kdy v posuzované věci od odsouzení cizozemským soudem uplynula již poměrně delší doba (více jak jedenáct let). Proto i přes delší časový odstup trvá zájem na evidenci takového odsouzení v Rejstříku trestů.
+Z uvedených důvodů proto Nejvyšší soud České republiky návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 9. srpna 2007
+Předseda senátu:
+JUDr. Antonín Draštík
