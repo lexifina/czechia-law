@@ -1,0 +1,18 @@
+11 Tcu 81/2007
+U S N E S E N Í
+Nejvyšší soud České republiky projednal dne 9. srpna 2007 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na zápis odsouzení cizozemským soudem do evidence Rejstříku trestů, a rozhodl t a k t o :
+Podle § 4 odst. 2 zákona č. 269/1994 Sb. se do evidence Rejstříku trestů zaznamenají údaje o odsouzení občana České republiky J. J., rozsudkem Soudu v Arrezu, Italská republika, ze dne 29. 10. 2004, sp. zn. 908/04, a to pro trestný čin podle § 624, § 625 č. 2 a 7 trestního zákoníku Italské republiky, k trestu odnětí svobody v délce trvání jednoho roku a dvou měsíců a k peněžitému trestu ve výši 450 EUR.
+O d ů v o d n ě n í :
+Výše uvedeným rozsudkem Soudu v Arrezu, Italská republika, který nabyl právní moci dne 17. 1. 2005, byl J. J. uznán vinným trestným činem podle § 624, § 625 č. 2 a 7 trestního zákoníku Italské republiky a odsouzen k trestu odnětí svobody v délce trvání jednoho roku a dvou měsíců a k peněžitému trestu ve výši 450 EUR.
+Uvedené trestné činnosti se odsouzený dopustil podle zjištění soudu tím, že v noci dne 12. 2. 1998 po předchozím vypáčení vitríny, vnikl do obchodu „C. d. r. M.“, kde odcizil 32 telefonních přístrojů v celkové hodnotě 30 000 000 ITL (tj. 575 070 Kč).
+Ministerstvo spravedlnosti České republiky podalo dne 4. 7. 2007, pod sp. zn. 2487/2006–MO–M/7, podle § 4 odst. 2 zákona č. 269/1994 Sb., o Rejstříku trestů (dále jen „zákon“), Nejvyššímu soudu České republiky návrh na zapsání výše uvedeného odsouzení italským soudem do evidence Rejstříku trestů České republiky. Tento návrh byl doručen Nejvyššímu soudu České republiky dne 11. 7. 2007.
+Nejvyšší soud České republiky věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro zápis odsouzení cizozemským soudem do evidence Rejstříku trestů.
+Především je třeba uvést, že podle § 4 odst. 2 zákona může Nejvyšší soud České republiky na návrh Ministerstva spravedlnosti České republiky rozhodnout, že se do evidence Rejstříku trestů zaznamenají též údaje o odsouzení občana České republiky cizozemským soudem, jestliže se týká činu, který je trestným i podle právního řádu České republiky a zápis do evidence je odůvodněn závažností činu a druhem trestu, který za něj byl uložen. Dále je nutno připomenout, že pokud Nejvyšší soud České republiky rozhodne o zaznamenání údajů o odsouzení do evidence Rejstříku trestů, hledí se na takové odsouzení cizozemským soudem jako na odsouzení soudem České republiky (§ 4 odst. 4 zákona).
+Z podaného návrhu a z obsahu připojeného spisového materiálu vyplývá, že odsouzený J. J. je občanem České republiky, který byl odsouzen cizozemským soudem, přičemž se odsouzení týká skutku, který vykazuje znaky trestného činu i podle příslušných právních předpisů České republiky (přinejmenším trestný čin krádeže podle
+§ 247 tr. zák.). Tím jsou splněny formální podmínky ustanovení § 4 odst. 2 zákona.
+V posuzované věci jsou dány i podmínky materiální povahy. Odsouzený J. J. se dopustil úmyslné majetkové trestné činnosti, přičemž jednal v takovém rozsahu (svým jednáním způsobil škodu dosahující hranice značné škody), že již lze tuto jeho činnost označit za závažnou ve smyslu § 4 odst. 2 zákona. Nelze rovněž přehlédnout, že byl za obdobnou trestnou činnost na území Italské republiky již odsouzen. Pokud jde o druh trestu, byl mu uložen již poměrně citelný trest odnětí svobody. Lze tedy dovodit, že podmínky ustanovení § 4 odst. 2 zákona týkající se závažnosti činu a druhu uloženého trestu jsou splněny.
+Z uvedených důvodů proto Nejvyšší soud České republiky návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 9. srpna 2007
+Předseda senátu:
+JUDr. Karel Hasch
