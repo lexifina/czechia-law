@@ -1,0 +1,21 @@
+11 Tcu 85/2007
+U S N E S E N Í
+Nejvyšší soud České republiky projednal dne 9. srpna 2007 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na zápis odsouzení cizozemským soudem do evidence Rejstříku trestů, a rozhodl t a k t o :
+Podle § 4 odst. 2 zákona č. 269/1994 Sb. se do evidence Rejstříku trestů zaznamenají údaje o odsouzení občana České republiky R. V., rozsudkem Obvodového soudu Görlitz, Spolková republika Německo, ze dne 20. 12. 2006, sp. zn. 6 Ls 440 Js 16326/06, a to pro trestný čin loupeže a trestný čin krádeže podle § 249 odst. 1, § 242 odst. 1 a § 53 trestního zákoníku Spolkové republiky Německo, k trestu odnětí svobody v délce trvání jednoho roku a čtyř měsíců.
+O d ů v o d n ě n í :
+Výše uvedeným rozsudkem Obvodového soudu Görlitz, Spolková republika Německo, který nabyl právní moci dne 15. 1. 2007, byl R. V. uznán vinným trestným činem loupeže a trestným činem krádeže podle shora uvedených ustanovení právních předpisů Spolkové republiky Německo a odsouzen k trestu odnětí svobody
+v délce trvání jednoho roku a čtyř měsíců.
+Uvedené trestné činnosti se odsouzený dopustil podle zjištění soudu tím, že:
+1. dne 16. 9. 2006 mezi 8:00 a 8:20 hod. v obci N. oslovil poškozeného F. D., který se tou dobou vracel na kole z pekařství, aby se ho zeptal na cestu do E. Ve skutečnosti však odsouzený měl zájem dostat se ke kolu poškozeného, a proto uchopil oběma rukama řídítka kola poškozeného, prudce ho naklonil, přičemž poškozený spadl dolů. Poté odsouzený nasedl na takto získané kolo a odjel s ním, přičemž cena kola činila 399 EUR,
+2. dne 28. 9. 2006 mezi 17:00 a 17:15 hod. v obci E. odcizil odsouzený před tamějším obchodem A. ze stojanu na kola horské kolo značky EXS v hodnotě 300 EUR, aby si ho ponechal pro sebe, popř. ho prodal. Byl však zadržen hlídkou policie.
+Ministerstvo spravedlnosti České republiky podalo dne 12. 7. 2007, pod sp. zn. 494/2007–MO–T/6, podle § 4 odst. 2 zákona č. 269/1994 Sb., o Rejstříku trestů (dále jen „zákon“), Nejvyššímu soudu České republiky návrh na zapsání výše uvedeného odsouzení německým soudem do evidence Rejstříku trestů České republiky. Tento návrh byl doručen Nejvyššímu soudu České republiky dne 16. 7. 2007.
+Nejvyšší soud České republiky věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro zápis odsouzení cizozemským soudem do evidence Rejstříku trestů.
+Především je třeba uvést, že podle § 4 odst. 2 zákona může Nejvyšší soud České republiky na návrh Ministerstva spravedlnosti České republiky rozhodnout, že se do evidence Rejstříku trestů zaznamenají též údaje o odsouzení občana České republiky cizozemským soudem, jestliže se týká činu, který je trestným i podle právního řádu České republiky a zápis do evidence je odůvodněn závažností činu a druhem trestu, který za něj byl uložen. Dále je nutno připomenout, že pokud Nejvyšší soud České republiky rozhodne o zaznamenání údajů o odsouzení do evidence Rejstříku trestů, hledí se na takové odsouzení cizozemským soudem jako na odsouzení soudem České republiky (§ 4 odst. 4 zákona).
+Z podaného návrhu a z obsahu připojeného spisového materiálu vyplývá, že odsouzený R. V. je občanem České republiky, který byl odsouzen cizozemským soudem, přičemž se odsouzení týká skutků, které vykazují znaky trestných činů i podle příslušných právních předpisů České republiky (trestný čin loupeže podle § 234 tr. zák. a trestný čin krádeže podle § 247 tr. zák.). Tím jsou splněny formální podmínky ustanovení § 4 odst. 2 zákona.
+V posuzované věci jsou dány i podmínky materiální povahy. Odsouzený R. V. se dopustil jednak úmyslné trestné činnosti směřující proti svobodě a jednak úmyslné majetkové trestné činnosti, přičemž jednal v takovém rozsahu (ve dvou případech způsobil škodu několikrát přesahující hranici škody nikoliv nepatrné), že již lze tuto jeho činnost označit za závažnou ve smyslu § 4 odst. 2 zákona. Pokud jde
+o druh trestu, byl mu uložen již poměrně citelný trest odnětí svobody. Lze tedy dovodit, že podmínky ustanovení § 4 odst. 2 zákona týkající se závažnosti činu a druhu uloženého trestu jsou splněny.
+Z uvedených důvodů proto Nejvyšší soud České republiky návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 9. srpna 2007
+Předseda senátu:
+JUDr. Karel Hasch
