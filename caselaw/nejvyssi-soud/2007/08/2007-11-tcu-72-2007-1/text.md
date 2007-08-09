@@ -1,0 +1,20 @@
+11 Tcu 72/2007
+U S N E S E N Í
+Nejvyšší soud České republiky projednal dne 9. srpna 2007 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na zápis odsouzení cizozemským soudem do evidence Rejstříku trestů a rozhodl t a k t o :
+Podle § 4 odst. 2 zák. č. 269/1994 Sb. se do evidence Rejstříku trestů zaznamenají údaje o odsouzení občana České republiky D. I. rozsudkem Zemského soudu Korneuburg, Rakouská republika, ze dne 22. 1. 2007, sp. zn. 602 Hv 1/07, pro trestný čin krádeže podle § 127, § 128 odst. 1 č. 4, § 129 č. 1, § 130 třetí případ trestního zákona Rakouské republiky, k trestu odnětí svobody v trvání 2 (dvou) roků.
+O d ů v o d n ě n í :
+Výše uvedeným rozsudkem Zemského soudu Korneuburg, Rakouská republika, jenž nabyl právní moci dne 26. ledna 2007, byl D. I. uznán vinným trestným činem krádeže podle shora uvedených ustanovení právních předpisů Rakouské republiky a odsouzen k trestu odnětí svobody v trvání dvou roků.
+Podle zjištění cizozemského soudu se odsouzený dopustil trestné činnosti v podstatě tak, že:
+- v nočních hodinách ze 4. na 5. prosince 2006 v O., R. r., odcizil 15 litrů motorové nafty přibližně v hodnotě 15 EUR,
+- v nočních hodinách ze 7. na 8. prosince 2006 v P., R. r., odcizil osobní vozidlo tovární značky Mercedes Vito přinejmenším v hodnotě 7 500 EUR,
+- v období od 4. prosince do 19. prosince 2006, v L./T., P. a O., R. r., vnikl do celkem sedmi zaparkovaných osobních vozidel, a to tak, že rozbil okenní tabulku nebo otevřel dveře vozidla paklíčem, a následně z nich odcizil notebook značky Medion a síťový adaptér, tři navigační přístroje (značky Tom Tom, Medion a Comapac), dvě autorádia značky Sony, autorádio a DVD přehrávač značky Provision a multimediální centrum, celkem přinejmenším v hodnotě 1 150 EUR.
+Ministerstvo spravedlnosti České republiky podalo podle § 4 odst. 2 zák. č. 269/1994 Sb., o Rejstříku trestů (dále jen „zákon“), Nejvyššímu soudu České republiky návrh na zapsání výše označeného odsouzení rakouského soudu do evidence Rejstříku trestů České republiky.
+Nejvyšší soud České republiky věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro zápis odsouzení cizozemským soudem do evidence Rejstříku trestů.
+Především je třeba uvést, že podle § 4 odst. 2 zákona může Nejvyšší soud České republiky na návrh Ministerstva spravedlnosti České republiky rozhodnout, že se do evidence Rejstříku trestů zaznamenají údaje o odsouzení občana České republiky cizozemským soudem, jestliže se týká činu, který je trestným i podle právního řádu České republiky a zápis do evidence je odůvodněn závažností činu a druhem trestu, který za něj byl uložen. Dále je nutno připomenout, že pokud Nejvyšší soud rozhodne o zaznamenání údajů o odsouzení do evidence Rejstříku trestů, hledí se na takové odsouzení cizozemským soudem jako na odsouzení soudem České republiky (§ 4 odst. 4 zákona).
+Z podaného návrhu a z obsahu připojeného spisového materiálu vyplývá, že odsouzený je státním občanem České republiky, který byl odsouzen cizozemským soudem, přičemž odsouzení se týká skutků, které vykazují znaky trestného činu i podle příslušných právních předpisů České republiky (trestný čin krádeže podle § 247 tr. zák.). Tím jsou splněny formální podmínky ustanovení § 4 odst. 2 zákona.
+V posuzované věci jsou ovšem dány i podmínky materiální povahy. Odsouzený D. I. se opakovaně dopustil závažné majetkové trestné činnosti, kterou způsobil větší škodu na cizím majetku. Nebezpečnost jeho jednání je rovněž zvyšována způsobem provedení činu, tj. vloupáním. Odsouzený tedy jednal v rozsahu, pro který lze tuto jeho činnost označit za závažnou ve smyslu § 4 odst. 2 zákona. Pokud jde o druh trestu, byl mu uložen již poměrně citelný nepodmíněný trest odnětí svobody. Lze tedy dovodit, že podmínky ustanovení § 4 odst. 2 zákona týkající se závažnosti činu a druhu uloženého trestu jsou splněny.
+Z uvedených důvodů proto Nejvyšší soud České republiky návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 9. srpna 2007
+Předseda senátu:
+JUDr. Antonín Draštík
