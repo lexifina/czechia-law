@@ -1,0 +1,17 @@
+29 Cdo 2500/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Krčmáře a soudců JUDr. Petra Gemmela a JUDr. Hany Gajdziokové v konkursní věci dlužníka Z. d. B. v likvidaci, o návrhu věřitelů a/ B. M., b/ Z. M., c/ I. B., d/ J. V., e/ F. V., f/ M. M., zastoupeného JUDr. J. K., g/ P. H., h/ A. M., a ch/ M. V., na prohlášení konkursu na majetek dlužníka, vedené u Krajského soudu v Brně pod sp. zn. 28 K 315/94, o dovolání navrhujícího věřitele e/ proti usnesení Vrchního soudu v Olomouci ze dne 25. ledna 2005, č. j. 1 Ko 154/2003-616, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í:
+Usnesením ze dne 22. prosince 2000, č. j. 28 K 315/94-336, Krajský soud v Brně prohlásil k návrhu věřitelů a/ až ch/ konkurs na majetek dlužníka Z. d. B. v likvidaci.
+Vrchní soud Olomouci pak v záhlaví označeným rozhodnutím odmítl odvolání navrhujícího věřitele e/ (F. V.) podle ustanovení § 218 odst. 1 písm. b/ občanského soudního řádu ve znění účinném před 1. lednem 2001 (dále též jen „o. s. ř.“), jako podané osobou neoprávněnou (s tím, že je podal účastník, jehož návrhu bylo odvoláním napadeným usnesením vyhověno).
+Proti usnesení odvolacího soudu podal navrhující věřitel e/ včasné dovolání (č. l. 640 641).
+Jelikož při podání dovolání nebyl zastoupen advokátem, ani nedoložil, že má sám odpovídající právnické vzdělání, soud prvního stupně jej usnesením ze dne 18. července 2005, č. j. 28 K 315/94-646, doručeným 1. srpna 2005 (srov. doručenku u č. l. 647 p. v.), vyzval, aby nedostatek povinného zastoupení odstranil do 10 dnů.
+Usnesením ze dne 6. dubna 2007, č. j. 28 K 315/94-744, doručeným dovolateli 16. dubna 2007 (srov. doručenku u č. l. 745 p. v.), které nabylo právní moci 3. května 2007, soud prvního stupně zamítl dovolatelovu žádost (č. l. 657) o ustanovení zástupce pro dovolací řízení.
+Podle bodu 17., hlavy první, části dvanácté, zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (to jest podle občanského soudního řádu ve znění účinném před 1. lednem 2001). O takový případ jde i v této věci, jelikož odvolací soud - ve shodě s bodem 15., hlavy první, části dvanácté, zákona č. 30/2000 Sb. - odvolání rovněž projednal a rozhodl o něm podle občanského soudního řádu ve znění účinném před 1. lednem 2001.
+Podle ustanovení § 241 odst. 1 o. s. ř., dovolatel musí být zastoupen advokátem, jestliže nemá právnické vzdělání buď sám, nebo jeho zaměstnanec (člen), který za něj jedná. Z dovolání zastoupení dovolatele nevyplývá a jiné listiny, toto zastoupení nebo právnické vzdělání dovolatele prokazující, nebyly předloženy. Dovolatel pak nedostatek povinného zastoupení do dnešního dne neodstranil, ač byl o procesních následcích nesplnění této podmínky poučen.
+Povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, bez jejíhož splnění nelze vydat - s výjimkou usnesení, jímž se dovolací řízení pro tento nedostatek zastavuje - rozhodnutí, kterým se řízení končí. Protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu prvního stupně do dnešního dne nedošlo, Nejvyšší soud dovolací řízení podle § 104 odst. 2 a § 243c o. s. ř. zastavil.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 15. srpna 2007
+JUDr. Zdeněk Krčmář
+předseda senátu
