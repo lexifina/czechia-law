@@ -1,0 +1,18 @@
+20 Cdo 2270/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudců JUDr. Miroslavy Jirmanové a JUDr. Vladimíra Mikuška ve věci výkonu rozhodnutí oprávněné D., spol. s r. o., zastoupené advokátem, proti povinné K. spol. s r. o., pro 183.450,50 Kč s příslušenstvím, přikázáním pohledávky, vedené u Obvodního soudu pro Prahu 9 pod sp. zn. 44 E 273/2000, o dovolání povinné proti usnesení Městského soudu v Praze ze dne 30. 9. 2005, č. j. 18 Co 462/2005-44, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádná z účastnic nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Povinná napadla dovoláním v záhlaví uvedené rozhodnutí, kterým městský soud potvrdil usnesení ze dne 28. 7. 2000, č. j. 44 E 273/2000-10, ve znění opravného usnesení ze dne 18. 11. 2004, č.j. 44 E 273/2000-29, jímž obvodní soud nařídil podle platebního rozkazu Krajského obchodního soudu v Praze ze dne 26. 2. 1999, č. j. 83 Ro 1722/98-12, k uspokojení pohledávky 183.450,50 Kč s určenými úroky z prodlení, pro náklady předcházejícího řízení a náklady vykonávacího řízení výkon rozhodnutí přikázáním pohledávek povinné za M. K., I. B. a J. P. z titulu nesplacených vkladů, a to vždy ve výši 16.000,- Kč s 20 % úroky z prodlení od 11. 3. 1998 do zaplacení, a rozhodl o náhradě nákladů odvolacího řízení.
+Jelikož odvolací soud projednal odvolání proti rozhodnutí soudu prvního stupně a rozhodl o něm podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 3. 2005 (dále jen „o. s. ř.“), v rozporu s ustanovením části dvanácté, hlavy I., bodu 15 zákona č. 30/2000 Sb., projednal Nejvyšší soud věc podle občanského soudního řádu ve stejném znění, tj. ve znění účinném do 31. 3. 2005 (srov. usnesení Nejvyššího soudu ze dne 16. 7. 2003, sp. zn. 21 Cdo 574/2003, uveřejněné v časopise Soudní judikatura 9/2003 pod č. 156).
+Je-li dovolatelem – jako v projednávaném případě – právnická osoba, je nezbytné, aby byla (nejedná-li za ni právnickým vzděláním vybavená osoba uvedená v § 21 o. s. ř.) zastoupena advokátem (notářem), jímž musí být dovolání i sepsáno (srov. § 241 odst. l, odst. 2 písm. b/, odst. 4 o. s. ř.).
+Při podání dovolání nebyla povinná zákonem stanoveným způsobem zastoupena a z obsahu spisu nevyplývá, že by za ni jednala osoba uvedená v § 21 o. s. ř., která má právnické vzdělání.
+Usnesením ze dne 24. 4. 2006, č. j. 44 E 273/2000-62, soud prvního stupně proto dovolatelku vyzval, aby si ve lhůtě patnácti dnů od doručení usnesení zvolila pro dovolací řízení zástupcem advokáta a aby jeho prostřednictvím podala řádné dovolání; zároveň ji poučil, že dovolací řízení bude zastaveno, nevyhoví-li výzvě.
+Na výzvu, která jí byla doručena 3. 7. 2006, dovolatelka nereagovala.
+Jelikož povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – vyjma usnesení, jímž se dovolací řízení právě pro jeho neodstranění zastavuje – vydání rozhodnutí, kterým se řízení končí (§ 241 o. s. ř.), a protože ke zhojení uvedeného nedostatku přes opatření soudu prvního stupně nedošlo, Nejvyšší soud dovolací řízení zastavil (§ 104 odst. 2, § 243c odst. l o. s. ř.).
+Dovolatelka z procesního hlediska zavinila, že dovolací řízení bylo zastaveno, oprávněné však v tomto stadiu řízení náklady nevznikly; tomu odpovídá výrok, že na náhradu nákladů dovolacího řízení nemá žádná z nich právo (§ 243b odst. 5, věta první, § 224 odst. l, § 146 odst. 2, věta první, o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 16. srpna 2007
+JUDr. Pavel K r b e k
+předseda senátu
