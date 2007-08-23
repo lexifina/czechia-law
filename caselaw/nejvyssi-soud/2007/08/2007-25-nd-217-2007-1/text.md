@@ -1,0 +1,19 @@
+25 Nd 217/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marty Škárové a soudců JUDr. Petra Vojtka a JUDr. Jana Eliáše, Ph. D., v právní věci žalobkyně V. J., zastoupené advokátkou, proti žalované M. W., o 1.085.000,- Kč s příslušenstvím, vedené u Okresního soudu ve Vsetíně pod sp. zn. 20 C 122/2007, o návrhu žalobkyně na přikázání věci Obvodnímu soudu pro Prahu 4 z důvodu vhodnosti podle § 12 odst. 2 o. s. ř., takto:
+Věc vedená u Okresního soudu ve Vsetíně pod sp. zn. 20 C 122/2007, se nepřikazuje Obvodnímu soudu pro Prahu 4.
+O d ů v o d n ě n í :
+Okresní soud ve Vsetíně vede řízení o návrhu na vydání bezdůvodného obohacení ve výši 1.085.000,- Kč s příslušenstvím.
+Nejvyššímu soudu České republiky byl předložen Okresním soudem ve Vsetíně spis sp. zn. 20 C 122/2007 s návrhem žalobkyně na přikázání věci Obvodnímu soudu pro Prahu 4.
+Návrh na delegaci vhodnou odůvodnila žalobkyně svým vysokým věkem a vzdáleností místně příslušného soudu od místa jejího bydliště.
+Žalovaná vyjádřila nesouhlas s přikázáním věci jinému soudu s tím, že není důvod ke změně zákonem stanovené místní příslušnosti. Poukazuje na to, že žalobkyní tvrzený důvod – vysoký věk – není okolností tak výjimečnou a závažnou, která by odůvodňovala přikázání věci jinému soudu. Dodává, že žalobkyně je zastoupena advokátem a soudních jednání se tedy účastnit nemusí. Poukazuje na to, že ona sama žalovaná je matkou tří dětí a cestování do P. by pro ni bylo obtížné a zátěžové.
+Podle § 12 odst. 2 o. s. ř. věc může být přikázána jinému soudu téhož stupně z důvodu vhodnosti.
+Nejvyšší soud České republiky jako soud nejblíže společně nadřízený příslušnému soudu a soudu, jemuž má být věc přikázána (§ 12 odst. 3 o. s. ř.), dospěl k závěru, že návrh není důvodný.
+Důvody vhodnosti mohou být různé v závislosti na předmětu řízení, postavení účastníků a jiných okolnostech. Jde zejména o skutečnosti, z nichž lze dovodit, že jiným než příslušným soudem bude věc projednána rychleji a hospodárněji. Důvodem k přikázání věci jinému soudu mohou být i mimořádné okolnosti na straně účastníků. K přikázání věci jinému než příslušnému soudu by však mělo docházet pouze výjimečně, a to ze závažných důvodů, neboť je uplatňováno jako výjimka z ústavně zaručené zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon (čl. 38 odst. 1 Listiny základních práv a svobod, publikované pod č. 2/1993 Sb., ve znění ust. zák. č. 162/1998 Sb.). Důvody pro odnětí věci příslušnému soudu a její přikázání jinému soudu tedy musí být natolik významné, aby dostatečně odůvodňovaly průlom do výše citovaného ústavního principu.
+Obecná místní příslušnost soudu, který má podle zákona věc projednat, je základní zásadou a případná delegace této příslušnosti jinému soudu je toliko výjimkou z této zásady, kterou je nutno – právě proto, že jde o výjimku – vykládat restriktivně (srov. nález Ústavního soudu České republiky ze dne 15. 11. 2001, sp.zn. I.ÚS 144/2000). Delegací pak nesmí být navozen stav nepříznivý pro druhého účastníka, přičemž je třeba rovněž zvážit důvody, které žalovaná uvádí a pro které nesouhlasí s přikázáním věci soudu v místě bydliště žalobkyně.
+Žalobkyně je sice vysokého věku, nicméně z obsahu spisu nevyplývá, že by v souvislosti s věkem měla nějaké výraznější potíže, které by jí znemožňovaly dostavit se k soudnímu jednání. Samotná okolnost vysokého věku na straně žalobkyně není důvodem přikázání věci jinému soudu z důvodu vhodnosti podle § 12 odst. 2 o. s. ř.
+Nejvyšší soud České republiky proto návrhu žalobkyně na přikázání věci Obvodnímu soudu pro Prahu 4 podle § 12 odst. 2 a 3 o. s .ř. nevyhověl.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 23. srpna 2007
+JUDr. Marta Škárová, v. r.
+předsedkyně senátu
