@@ -1,0 +1,14 @@
+25 Cdo 429/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Vojtka a soudců JUDr. Marty Škárové a JUDr. Jana Eliáše, Ph.D., v právní věci žalobkyně D. I. s.r.o., zastoupené advokátem, proti žalovanému J. P., za účasti Č. p. a. s., jako vedlejší účastnice na straně žalovaného, o náhradu škody, vedené u Okresního soudu Plzeň - město pod sp. zn. 31 C 126/98, o dovolání vedlejší účastnice proti rozsudku Krajského soudu v Plzni ze dne 31. října 2006, č. j. 14 Co 280/2006-513, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud Plzeň - město rozsudkem ze dne 26. 1. 2005, č. j. 31 C 126/98-439, zamítl žalobu ohledně částky 148.618,- Kč s 26% úrokem z prodlení od 1. 12. 1997 do zaplacení a ohledně 26% úroku z prodlení z částky 46.282,- Kč od 1. 12. 1997 do 27. 5. 2004, řízení ohledně částky 46.282,- Kč zastavil a rozhodl o náhradě nákladů řízení ve vztahu mezi účastníky a vůči státu. K odvolání žalobkyně Krajský soud v Plzni rozsudkem ze dne 31. 10. 2006, č. j. 14 Co 280/2006-513, rozsudek soudu prvního stupně v zamítavém výroku ohledně částky 148.618,- Kč s příslušenstvím změnil tak, že žalovaný je povinen zaplatit žalobkyni 82.792,- Kč s 26% úrokem z prodlení od 1. 12. 1997 do zaplacení, a v částce 65.826,- Kč s příslušenstvím jej potvrdil, dále v zamítavém výroku ohledně úroků z prodlení jej změnil tak, že žalovaný je povinen zaplatit žalobkyni 26% úrok z prodlení z částky 46.282,- Kč od 1. 12. 1997 do 27. 5. 2004, a rozhodl o náhradě nákladů řízení ve vztahu mezi účastníky, vedlejším účastníkem a vůči státu.
+Proti měnícímu výroku rozsudku odvolacího soudu a výrokům o povinnosti žalovaného nahradit náklady řízení žalobkyni a státu podala Č. p. a. s., vedlejší účastnice na straně žalovaného, dovolání, které odůvodňuje s odkazem na ustanovení § 241a odst. 2 písm. b) o.s.ř. Navrhla, aby dovolací soud rozsudek odvolacího soudu v napadených výrocích zrušil a věc mu vrátil k dalšímu řízení.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) po zjištění, že dovolání bylo proti pravomocnému rozsudku odvolacího soudu podáno ve lhůtě uvedené v ustanovení § 240 odst. 1 o.s.ř., dospěl k závěru, že dovolání podala vedlejší účastnice, tj. osoba, která k tomu není podle ustálené judikatury dovolacího soudu oprávněna (srov. usnesení Nejvyššího soudu ČR ze dne 27. 5. 2003, sp. zn. 25 Cdo 162/2003, publikované pod č. 3 ve Sbírce soudních rozhodnutí a stanovisek, ročník 2004). Proto bylo takové dovolání podle ustanovení § 243b odst. 5, věty první, a § 218 písm. b) o.s.ř. odmítnuto.
+Vzhledem k výsledku dovolacího řízení bylo o náhradě nákladů řízení rozhodnuto podle ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o.s.ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 5. září 2007
+JUDr. Petr Vojtek, v. r.
+předseda senátu
