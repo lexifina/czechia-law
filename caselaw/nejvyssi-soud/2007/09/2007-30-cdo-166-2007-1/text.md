@@ -1,0 +1,22 @@
+30 Cdo 166/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy
+JUDr. Karla Podolky a soudců JUDr. Olgy Puškinové a JUDr. Pavla Pavlíka ve věci žalobce P. H., správce konkurzní podstaty úpadce K., a.s. v l., zastoupeného advokátem, proti žalované B., spol. s r.o., zastoupené advokátem, o určení neúčinnosti právního úkonu, vedené u Obvodního soudu pro Prahu 1 pod sp.zn. 30 C 60/2006, o dovolání žalované proti usnesení Městského soudu v Praze ze dne 7. srpna 2006, č.j. 13 Co 204/2006-153, takto:
+Dovolání žalované se odmítá.
+O d ů v o d n ě n í :
+Městský soud v Praze usnesením v záhlaví označeným k odvolání žalované potvrdil usnesení Obvodního soudu pro Prahu 1 ze dne 10. února 2006, č.j.
+30 C 60/2006-119, jímž bylo nařízeno předběžné opatření ve výroku podrobně uvedené.
+Žalovaná v obšírném dovolání, jehož přípustnost dovozuje z ustanovení § 237 odst. 1 písm. c) o.s.ř. s poukazem na odst. 3 cit. ustanovení, a jež podává z důvodů uvedených v § 241a odst. 2 písm. a), b) o.s.ř., navrhuje zrušení napadeného usnesení odvolacího soudu, jakož i usnesení soudu prvního stupně.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) shledal, že dovolání bylo podáno včas osobou k tomu oprávněnou (§ 240 odst. 1 o.s.ř.) za splnění podmínky advokátního zastoupení dovolatelky (§ 241 o.s.ř.), a že má obsahové i formální znaky uvedené v § 241a o.s.ř. Poté se zabýval přípustností tohoto mimořádného opravného prostředku (§ 236 odst. 1 o.s.ř.), neboť toliko z podnětu přípustného dovolání lze správnost napadeného rozhodnutí přezkoumat z hlediska uplatněných dovolacích důvodů.
+Podle § 237 odst. 1 o.s.ř. dovolání je přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího soudu (s výjimkami uvedenými v § 237 odst. 2 o.s.ř.),
+a) jimiž bylo změněno rozhodnutí soudu prvního stupně ve věci samé,
+b) jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení), proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil,
+c) jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není přípustné podle písmena b) a dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam (podle § 237 odst. 3 o.s.ř. má rozhodnutí odvolacího soudu po právní stránce zásadní význam zejména tehdy, řeší-li právní otázku, která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo která je odvolacími soudy nebo dovolacím soudem rozhodována rozdílně, nebo řeší-li právní otázku v rozporu s hmotným právem).
+Usnesení napadené dovoláním žalované je usnesením potvrzujícím, a již proto na ně nelze vztáhnout ustanovení § 237 odst. 1 písm. a) o.s.ř. Nejsou však naplněny ani předpoklady stanovené v § 237 odst. 1 písm. b) a c) o.s.ř. V obou těchto procesních ustanoveních (jako ostatně v celém § 237 o.s.ř.) je totiž upravena přípustnost dovolání proti rozsudku či usnesení odvolacího soudu, kterým bylo rozhodnuto o odvolání proti rozsudku či usnesení soudu prvního stupně ve věci samé. Usnesení, jímž soud prvního stupně rozhodl o návrhu na předběžné opatření, stejně jako usnesení, jímž odvolací soud takové rozhodnutí potvrdil, však není rozhodnutím soudu ve věci samé, a nemůže mít proto - ve smyslu § 237 odst. 1 písm. c) o.s.ř. - „ve věci samé po právní stránce zásadní význam.“
+Aplikace ustanovení § 237 odst. 1 písm. c) o.s.ř., jíž se dovolatelka dožaduje, nepřichází tedy v úvahu a napadené rozhodnutí zároveň nelze podřadit ani dalším ustanovením občanského soudního řádu, upravujícím přípustnost dovolání proti usnesení odvolacího soudu (srov. § 238 odst. 1, § 238a odst. 1, § 239 o.s.ř.). Z toho vyplývá, že přípustnost dovolání žalované nemá oporu v žádném z procesních ustanovení, která přicházejí v úvahu, a tento závěr s sebou nese konečné posouzení mimořádného opravného prostředku, uplatněného žalovanou, jako nepřípustného.
+Ke shodným závěrům ostatně dospěl Nejvyšší soud ČR již v usnesení ze dne 22.1.2002, č.j. 26 Cdo 1533/2001-74, uveřejněného v čas. Sbírka soudních rozhodnutí a stanovisek, rok 2002, č. 9-10, poř. č. 62, str. 299/300).
+Nejvyšší soud proto, aniž nařídil jednání (§ 243a odst. 1 věta prvá o.s.ř.), dovolání žalované podle § 243b odst. 5, § 218 odst. 1 písm. c) o.s.ř. odmítl.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 6. září 2007
+JUDr. Karel Podolka, v.r.
+předseda senátu
