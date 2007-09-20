@@ -1,0 +1,20 @@
+20 Cdo 1069/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové a soudců JUDr. Vladimíra Mikuška a JUDr. Pavla Krbka ve věci výkonu rozhodnutí oprávněné z. p. Č. r., proti povinnému P. H., zastoupenému advokátem, pro 87 913,- Kč, prodejem movitých věcí, vedené u Okresního soudu v Kladně pod sp. zn. 34 E 3125/2004, o dovolání povinného proti usnesení Krajského soudu v Praze ze dne 28. 4. 2006, č. j. 23 Co 163/2006-15, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+V záhlaví uvedeným rozhodnutím krajský soud potvrdil usnesení ze dne 30. 3. 2004, č.j. 34 E 3125/2004-5, jímž okresní soud nařídil podle platebního výměru oprávněné ze dne 7. 3. 2001, č. 2140100323, výkon rozhodnutí. Odvolací soud dospěl k závěru, že všechny předpoklady pro nařízení výkonu rozhodnutí jsou splněny; okolnost, že usnesení o nařízení výkonu rozhodnutí bylo povinnému doručeno až s odstupem dvou let od jeho vydání, neměla na správnost tohoto usnesení žádný vliv.
+V dovolání – jehož přípustnost dovozuje z ustanovení § 237 odst. 1 písm. c) zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů (dále jen „o.s.ř.“) – namítá povinný existenci dovolacího důvodu podle § 241a odst. 2 písm. a) o.s.ř. Vadu řízení spatřuje v tom, že odvolací soud nevyzval povinného k doplnění tvrzení uvedených v odvolání o náležitosti předepsané zákonem a projednal zcela nesrozumitelné odvolání. Navrhl, aby napadené usnesení bylo zrušeno a věc byla vrácena odvolacímu soudu k dalšímu řízení.
+Nejvyšší soud věc projednal podle občanského soudního řádu ve znění účinném do 31. 3. 2005 (čl. II, bod 3. zákona č. 59/2005 Sb.).
+Dovolání není přípustné.
+Podle ustanovení § 236 odst. 1 o.s.ř. lze dovoláním napadnout jen pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Ve smyslu ustanovení § 237 odst. 1 písm. c) o.s.ř. – jež podle § 238a odst. 2 o.s.ř. platí obdobně a podle něhož je přípustnost dovolání nutno v předmětné věci posuzovat vedle ustanovení § 238a odst. 1 písm. c) o.s.ř. – je dovolání proti potvrzujícímu usnesení odvolacího soudu, jemuž nepředcházelo kasační rozhodnutí, přípustné jen, dospěje-li dovolací soud k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam; ten je dán zejména tehdy, řeší-li rozhodnutí odvolacího soudu právní otázku, která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo která je odvolacími soudy nebo dovolacím soudem rozhodována rozdílně, nebo řeší-li ji v rozporu s hmotným právem (§ 237 odst. 3 o.s.ř.).
+Z toho, že přípustnost dovolání je ve smyslu citovaného ustanovení spjata se závěrem o zásadním významu rozhodnutí po stránce právní, vyplývá, že dovolací přezkum se otevírá toliko pro posouzení otázek právních, navíc otázek zásadního významu. Způsobilým dovolacím důvodem, jímž lze dovolání odůvodnit, je tedy pouze důvod podle ustanovení § 241a odst. 2 písm. b) o.s.ř., jímž lze namítat, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci.
+Ačkoliv dovolatel přípustnost dovolání o ustanovení § 237 odst. 1 písm. c) o.s.ř. opírá, dovolací důvod podle § 241a odst. 2 písm. b) o.s.ř. neuplatňuje. Námitkou, že odvolací soud nevyzval povinného k doplnění odvolání, uplatňuje dovolatel (jak i sám uvádí) dovolací důvod podle § 241a odst. 2 písm. a) o.s.ř., který je vyhrazen vadám řízení, jež mohly mít za následek nesprávné rozhodnutí ve věci, a který – jak již bylo uvedeno – přípustnost dovolání podle § 237 odst. 1 písm. c) o.s.ř. (§ 238a odst. 2 o.s.ř.) založit nemůže.
+Není-li dovolání přípustné podle žádného v úvahu připadajícího ustanovení občanského soudního řádu, Nejvyšší soud je odmítl (§ 243b odst. 5, věta první, § 218 písm. c/ o.s.ř.).
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, věty první, § 224 odst. 1 a § 146 odst. 3 o.s.ř.; oprávněné však ve stadiu dovolacího řízení (podle obsahu spisu) náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 20. září 2007
+JUDr. Miroslava J i r m a n o v á , v. r.
+předsedkyně senátu
