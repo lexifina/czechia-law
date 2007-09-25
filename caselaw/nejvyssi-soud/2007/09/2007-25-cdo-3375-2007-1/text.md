@@ -1,0 +1,23 @@
+25 Cdo 3375/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marty Škárové a soudců JUDr. Jana Eliáše, Ph. D., a JUDr. Petra Vojtka v právní věci žalobkyně K., p., a. s., V. I. G., proti žalované I. Š., o 99.862,- Kč s příslušenstvím, vedené u Okresního soudu Plzeň - jih pod sp. zn. 9 C 104/2005, o dovolání žalované proti usnesení Krajského soudu v Plzni ze dne 15. září 2006, č. j. 12 Co 481/2006-88, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Okresní soud Plzeň - jih usnesením ze dne 6. 6. 2006, č. j. 9 C 104/2005-82, zastavil odvolací řízení podle § 9 odst. 1 zákona č. 549/1991 Sb., o soudních poplatcích, neboť žalovaná ve stanovené lhůtě nezaplatila soudní poplatek z odvolání ani nepožádala o osvobození od soudního poplatku, a rozhodl o náhradě nákladů řízení.
+K odvolání žalované Krajský soud v Plzni usnesením ze dne 15. 9. 2006, č. j. 12 Co 481/2006-88, usnesení soudu prvního stupně potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Proti tomuto usnesení podala žalovaná na poště dne 10. 11. 2006 vlastnoručně sepsané podání, nadepsané jako „odvolání proti doručenému usnesení“, s tím, že nesouhlasí se zastavením řízení a potvrzením usnesení.
+Usnesením ze dne 13. 11. 2006, č. j. 9 C 104/2005-95, soud prvního stupně žalovanou vyzval, aby uvedla, jaký opravný prostředek tímto podáním mínila, a pokud se jedná o dovolání, aby ho předložila řádně sepsané advokátem včetně jemu udělené plné moci (§ 241 odst. 1 a odst. 4 o. s. ř.), popř. požádala o ustanovení zástupce soudem podle § 30 o. s. ř.
+Žalovaná na tuto výzvu reagovala podáním ze dne 8. 12. 2006, v němž požádala o ustanovení zástupce.
+Okresní soud Plzeň – jih usnesením ze dne 23. 2. 2007, č. j. 9 C 104/2005-115, této žádosti nevyhověl a Krajský soud v Plzni usnesením ze dne 27. 4. 2007, č. j. 12 Co 232/2007-119, toto rozhodnutí potvrdil.
+Usnesením soudu prvního stupně ze dne 17. 5. 2007, č. j. 9 C 104/2005-123, byla žalovaná vyzvána k doplnění chybějících náležitostí jejího podání ze dne 10. 11. 2006, které je podle svého obsahu dovoláním, a k tomu, aby si zvolila zástupce z řad advokátů. Na tuto výzvu již nereagovala.
+Dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští (§ 236 odst. 1 o.s.ř.).
+Podle § 237 o.s.ř. je dovolání přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího soudu, jimiž bylo potvrzeno či změněno rozhodnutí soudu prvního stupně ve věci samé při splnění dalších podmínek zakotvených v tomto ustanovení.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) po zjištění, že dovolání bylo podáno proti pravomocnému usnesení odvolacího soudu oprávněnou osobou (účastníkem řízení) ve lhůtě uvedené v ustanovení § 240 odst. 1 o.s.ř., dospěl k závěru, že dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný. Dovolatelka sice v projednávané věci není zastoupena advokátem ani netvrdí, že by měla právnické vzdělání, avšak vzhledem k tomu, že dovolání není přípustné, není nedostatek podmínky povinného zastoupení důvodem pro zastavení dovolacího řízení (§ 241b odst. 2 o.s.ř.).
+Přípustnost dovolání proti usnesení, jež není usnesením ve věci samé, lze posoudit podle ustanovení § 239 o. s. ř., neboť ani ustanovení § 238 a § 238a odst. l o. s. ř. nezakládají přípustnost dovolání, protože napadené rozhodnutí nelze podřadit žádnému z tam taxativně vyjmenovaných případů. V podrobném výčtu rozhodnutí uvedených v ustanovení § 239 o. s. ř. není uvedeno usnesení odvolacího soudu, jímž bylo potvrzeno usnesení soudu prvního stupně o zastavení řízení pro nezaplacení soudního poplatku (podle § 9 odst. 1, věta za středníkem, zákona č. 549/1991 Sb.). Nejedná se tedy o dovolání, které by občanský soudní řád připouštěl (srov. obdobně usnesení Nejvyššího soudu ČR ze dne 18. 1. 2001, sp. zn. 22 Cdo 2541/2000, publikované v Souboru rozhodnutí Nejvyššího soudu, svazek 1, pod C 57).
+Z uvedeného vyplývá, že dovolání žalované směřuje proti rozhodnutí odvolacího soudu, proti němuž není tento mimořádný opravný prostředek přípustný. Nejvyšší soud ČR proto její dovolání podle ustanovení § 243b odst. 5, věty první a § 218 písm. c) o.s.ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o.s.ř., neboť žalovaná s ohledem na výsledek dovolacího řízení nemá na náhradu nákladů právo a žalobkyni v tomto řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. září 2007
+JUDr. Marta Škárová, v. r.
+předsedkyně senátu
