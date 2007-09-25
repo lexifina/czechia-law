@@ -1,0 +1,26 @@
+30 Cdo 2163/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně
+JUDr. Olgy Puškinové a soudců JUDr. Karla Podolky a JUDr. Pavla Pavlíka v právní věci žalobce M. K., zastoupeného advokátem, proti žalovanému Č. t. ú, o žalobě proti rozhodnutí správního orgánu (o zrušení rozhodnutí o povinnosti žalobce zaplatit společnosti T. a.s. částku 35.164,40 Kč s příslušenstvím), vedené u Okresního soudu v Klatovech pod sp. zn. 8 C 264/2005, o dovolání žalobce proti usnesení Krajského soudu v Plzni ze dne 15. září 2006, č. j. 10 Co 445/2006-58, takto:
+Usnesení Krajského soudu v Plzni ze dne 15. září 2006, č. j. 10 Co 445/2006 - 58, a usnesení Okresního soudu v Klatovech ze dne 18. května 2006, č. j. 8 C 264/2005 - 51, se zrušují a věc se vrací Okresnímu soudu v Klatovech k dalšímu řízení.
+O d ů v o d n ě n í :
+Žalobce se žalobou podanou podle § 244 a násl. o. s. ř., doručenou soudu prvního stupně dne 31. 10. 2005, domáhal zrušení rozhodnutí Č. t. ú ze dne 27. 6. 2005, č. j. 12816/2005 - 603.
+Usnesení Okresního soudu v Klatovech ze dne 18. 5. 2006, č. j. 8 C 264/2005 - 51, jímž byla žaloba odmítnuta, a bylo rozhodnuto o náhradě nákladů řízení, Krajský soud v Plzni usnesením ze dne 15. 9. 2006, č. j. 10 Co 445/2006 - 58, potvrdil
+a rozhodl o náhradě nákladů odvolacího řízení. Odvolací soud se ztotožnil se závěrem soudu prvního stupně, že žaloba v dané věci byla podána opožděně, tj. po lhůtě jednoho měsíce od právní moci usnesení Krajského soudu v Plzni ze dne 16. 9. 2005, č. j. 30 Ca 70/2005 - 9 (§ 46 odst. 2 s. ř. s.), když toto rozhodnutí nabylo právní moci dne 22. 10. 2005 a žaloba byla u soudu podána dne 31. 10. 2005.
+Proti tomuto usnesení odvolacího soudu podal žalobce dovolání, v němž namítá, že usnesení Krajského soudu v Plzni ze dne 16. 9. 2005, č. j. 30 Ca 70/2005 - 9, nemohlo nabýt právní moci dne 22. 9. 2005, jak nesprávně uvedly soudy obou stupňů, bylo-li mu doručeno až dne 29. 9. 2005. Na poštu v Ž. R. usnesení sice došlo dne
+22. 9. 2005, avšak on sám si jej vyzvedl až dne 29. 9. 2005; ke zjištění této skutečnosti však soudy neprovedly žádné dokazování. Navrhl, aby dovolací soud usnesení soudů obou stupňů zrušil a věc vrátil okresnímu soudu k dalšímu řízení.
+Žalovaný ve svém písemném vyjádření k dovolání namítl nedostatek jeho pasivní věcné legitimace v daném sporu, neboť ve smyslu ust. § 250a odst. 1 o. s. ř. jsou účastníky řízení o žalobě proti rozhodnutí předsedy R. Č. t. ú. žalobce a ti, kdo byli účastníky v řízení před správním orgánem. Pasivně legitimována je tedy společnost T. a.s., na jejíž návrh bylo správní řízení ve věci povinnosti žalobce k dlužnému finančnímu plnění za poskytnuté telekomunikační služby zahájeno. Posouzení důvodnosti podaného dovolání pak žalovaný ponechal plně na dovolacím soudu.
+Nejvyšší soud jako soud dovolací (§ 10a o. s. ř.) po zjištění, že dovolání proti pravomocnému usnesení odvolacího soudu bylo podáno včas, oprávněnou osobou, účastníkem řízení, řádně zastoupeným advokátem, a že je přípustné podle ust. § 239 odst. 3 o. s. ř., dospěl po přezkoumání věci podle § 242 o. s. ř. k závěru, že dovolání je důvodné.
+V posuzované věci z obsahu připojeného spisu Krajského soudu v Plzni sp. zn. 30 Ca 70/2005 vyplývá, že usnesení tohoto soudu ze dne 16. 9. 2005, č. j.
+30 Ca 70/2005 - 9, jímž byla odmítnuta žaloba žalobce (doručená soudu dne 1. 9. 2005) proti rozhodnutí Č. t. ú. ze dne 27. 6. 2005, č. j. 12816/2005 - 603, a kterým bylo rozhodnuto o náhradě nákladů řízení, bylo žalobci doručováno do vlastních rukou na jeho adresu trvalého bydliště, přičemž dne 22. 9. 2005 - jak je zřejmé z připojené doručenky pošty - nebyl zastižen, písemnost byla uložena u pošty a adresát byl o tom vyrozuměn; zásilku si pak převzal dne 29. 9. 2005 (§ 50c odst. 4 o. s. ř. ve znění účinném do 28. 9. 2005) a tímto dnem nabylo usnesení právní moci (žalovanému Č. t. ú. bylo doručeno dne 22. 9. 2005).
+Podle ust. § 54 odst. 5 zák. č. 150/2002 Sb., soudní řád správní, je pravomocným ten rozsudek, který byl doručen účastníkům. Podle § 55 odst. 5 s. ř. s.
+o usnesení platí přiměřeně ustanovení o rozsudku. Jestliže v dané věci nabylo usnesení Krajského soudu v Plzni ze dne 16. 9. 2005, sp. zn. 30 Ca 70/2005, právní moci dne 29. 9. 2005 a žalobce podal žalobu podle § 244 o. s. ř. a násl. dne 31. 10. 2005 (pondělí), je zřejmé, že se tak stalo v zákonné jednoměsíční lhůtě uvedené v ust. § 46 odst. 2 věta druhá s. ř. s. (§ 40 odst. 3 a 4 s. ř. s.).
+Není proto správný závěr odvolacího soudu, že žaloba byla podána opožděně
+a že z tohoto důvodu ji bylo třeba odmítnout [§ 250g odst. 1 písm. a) o. s. ř.]. Nejvyšší soud ČR proto usnesení Krajského soudu v Plzni zrušil (§ 243b odst. 2 věta
+za středníkem o. s. ř.). Vzhledem k tomu, že důvody, pro které bylo zrušeno usnesení odvolacího soudu, platí i na rozhodnutí soudu prvního stupně, zrušil dovolací soud i toto usnesení a věc vrátil Okresnímu soudu v Klatovech k dalšímu řízení (§ 243b odst. 3 věta druhá o. s. ř.).
+Právní názor vyslovený v tomto usnesení je závazný; v novém rozhodnutí o věci rozhodne soud znovu o náhradě nákladů řízení včetně nákladů dovolacího řízení
+(§ 243d odst. 1 o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. září 2007
+JUDr. Olga Puškinová, v. r.
+předsedkyně senátu
