@@ -1,0 +1,21 @@
+20 Cdo 923/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové a soudců JUDr. Pavla Krbka a JUDr. Vladimíra Mikuška v exekuční věci oprávněné m. č. P. 2, zastoupené advokátem proti povinným 1) K. V., zastoupenému advokátem a 2) A. V., pro 30 567,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 5 Nc 485/2003, o dovolání povinného 1) proti usnesení Městského soudu v Praze ze dne 23. 3. 2006, č. j. 14 Co 113/2006-133, takto:
+I. Dovolání se odmítá.
+II. Povinný 1) je povinen do tří dnů od právní moci usnesení zaplatit oprávněné na náhradě nákladů dovolacího řízení 800,- Kč k rukám advokáta JUDr. M. P.
+O d ů v o d n ě n í :
+V záhlaví uvedeným rozhodnutím městský soud změnil usnesení ze dne 7. 7. 2005, č. j. 5 Nc 485/2003-67 (jímž obvodní soud ve spojení s usnesením ze dne 20. 12. 2005, č. j. 5 Nc 485/2003-100, zastavil vůči povinnému 1/ exekuci nařízenou usnesením téhož soudu ze dne 11. 6. 2003, č. j. 5 Nc 485/2003-9a, rozhodl o náhradě nákladů řízení a oprávněné uložil povinnost nahradit náklady exekuce) ve výroku III o nákladech exekuce tak, že náklady ve výši 26 932,- Kč je povinen zaplatit Mgr. M. R., soudnímu exekutorovi, povinný 1).
+Rozhodnutí odvolacího soudu napadl povinný 1) dovoláním.
+Oprávněná navrhla, aby dovolání bylo jako nepřípustné odmítnuto.
+Dovolání není přípustné.
+Podle ustanovení § 236 odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů (dále jen „o. s. ř.“), lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti usnesení upravují ustanovení § 237 až § 239 o. s. ř.
+Podle ustanovení § 238, § 238a a § 239 o. s. ř. není dovolání přípustné proto, že usnesení o nákladech řízení, a tedy ani o nákladech exekuce, v jejich taxativních výčtech uvedeno není. Přípustnost dovolání nelze opřít ani o ustanovení § 237 odst. 1 o. s. ř., neboť usnesení o nákladech exekuce, stejně jako usnesení o nákladech řízení, není rozhodnutím ve věci samé (srov. usnesení Nejvyššího soudu ze dne 22. 3. 2005, sp. zn. 20 Cdo 2740/2004, uveřejněné v časopise Soudní judikatura č. 5, ročník 2005 pod č. 70).
+Není-li dovolání přípustné podle žádného v úvahu připadajícího ustanovení občanského soudního řádu, Nejvyšší soud je podle § 243b odst. 5, věty první, a § 218 písm. c) o. s. ř. odmítl.
+Protože v souzené věci došlo k zastavení exekuce proto, že exekuční titul nebyl dosud vykonatelný (nebyl doručen povinnému1/), ačkoliv byl opatřen potvrzením o jeho vykonatelnosti, považuje Nejvyšší soud (aniž by tedy mohl přezkoumávat věcnou správnost dovoláním napadeného rozhodnutí) za potřebné připomenout, že vyznačení doložky právní moci na rozhodnutí, které dosud není pravomocné, je ve smyslu § 13 zákona č. 82/1998 Sb., o odpovědnosti za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo nesprávným úředním postupem a o změně zákona České národní rady č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), nesprávným úředním postupem a stát odpovídá za zákonem stanovených podmínek za škodu, která vznikla, byl-li na základě takto vyznačené doložky právní moci podán návrh na soudní výkon rozhodnutí (srov. rozsudek Krajského soudu v Českých Budějovicích ze dne 8. 7. 1997, sp. zn. 6 Co 704/97, publikovaný ve Sbírce soudních rozhodnutí a stanovisek č. 5, ročník 1998 pod č. 42).
+Protože dovolání bylo odmítnuto, vzniklo oprávněné podle ustanovení § 146 odst. 3, § 224 odst. 1 a § 243b odst. 5, věty první, o. s. ř. právo na náhradu účelně vynaložených nákladů dovolacího řízení; ty spočívají v částce 500,- Kč, představující odměnu za zastoupení advokátem (§ 1 odst. 1, § 2 odst. 1, § 10 odst. 3, § 14 odst. 3, § 15 a § 18 odst. 1 vyhlášky č. 484/2000 Sb.), a v částce 300,- Kč, představující paušální náhradu podle § 13 odst. 3 vyhlášky č. 177/1996 Sb. o odměnách advokátů a náhradách advokátů za poskytování právních služeb (advokátní tarif).
+Proti tomuto usnesení není přípustný opravný prostředek.
+Nesplní-li povinný dobrovolně, co mu ukládá vykonatelné rozhodnutí, může oprávněná podat návrh na soudní výkon rozhodnutí.
+V Brně dne 26. září 2007
+JUDr. Miroslava J i r m a n o v á , v. r.
+předsedkyně senátu
