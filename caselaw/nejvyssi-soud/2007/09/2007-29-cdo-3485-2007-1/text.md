@@ -1,0 +1,32 @@
+29 Cdo 3485/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Krčmáře a soudců JUDr. Hany Gajdziokové a JUDr. Petra Gemmela v právní věci žalobkyně J. & T. B., a. s., proti žalované M. T. R. spol. s r. o., zastoupené advokátkou, o zaplacení částky 12,345.422,17 Kč s příslušenstvím, vedené u Okresního soudu ve V. pod sp. zn. 3 C 311/2003, o dovolání žalované proti usnesení Krajského soudu v B. ze dne 29. března 2007, č. j. 47 Co 62/2007-120, takto:
+Usnesení Krajského soudu v B. ze dne 29. března 2007, č. j. 47 Co 62/2007 120 a usnesení Okresního soudu ve V. ze dne 7. prosince 2006, č. j. 3 C 311/2003-110, se zrušují a věc se vrací soudu prvního stupně k dalšímu řízení.
+O d ů v o d n ě n í :
+Krajský soud v B. ve výroku označeným usnesením potvrdil rovněž ve výroku označené usnesení, kterým Okresní soud ve V. - odkazuje na ustanovení § 107a občanského soudního řádu (dále jen „o. s. ř.“) - připustil, aby do řízení na místo dosavadní žalobkyně J. & T. B., a. s. vstoupila společnost J. &T. P. E. B. V., (dále jen „společnost“). Odvolací soud přitakal soudu prvního stupně v závěru, že v daném případě byly splněny všechny předpoklady pro vstup společnosti (nabyvatelky práva) do řízení na místo dosavadní žalobkyně.
+Proti usnesení odvolacího soudu podala žalovaná včasné dovolání, jehož přípustnost odvozuje z ustanovení § 239 odst. 2 písm. b) o. s. ř., dovozujíc, že jsou naplněny dovolací důvody dle § 241a o. s. ř. a dožadujíc se zrušení napadeného rozhodnutí a vrácení věci k dalšímu řízení. V dovolání snáší argumenty na podporu závěru, že původní žalobkyně není ve sporu aktivně věcně legitimována, z čehož usuzuje, že podmínky ve smyslu ustanovení § 107a o. s. ř. naplněna není.
+Dovolání je přípustné podle ustanovení § 239 odst. 2 písm. b) o. s. ř.
+Dovolací argumentace nedostatkem věcné legitimace původní žalobkyně je právně bezcenná (lhostejno, v rovině kterého z dovolacích důvodů) z týchž příčin, pro které Nejvyšší soud jako zjevně bezdůvodné odmítl (usnesením ze dne 30. května 2006, č. j. 29 Odo 1462/2005-114) obsahově shodné dovolání žalované, týkající se v této věci první změny v osobě žalobkyně (z Ing. M. H. na J. & T. B., a. s.).
+Dovolání je přesto důvodné, jelikož soudy nižších stupňů přehlédly (odvolací soud přesto, že to žalovaný výslovně namítl v odvolání), že žalobkyní předložená smlouva o postoupení pohledávek ze dne 5. listopadu 2004 se pohledávky, o kterou se vede spor v této věci, vůbec netýká (specifikace postupované pohledávky v příloze č.1 postupní smlouvy neodpovídá ani co do registračního čísla smlouvy o úvěru (namísto č. 07-338/95 je uvedeno č. 07/285/95), ani co do data uzavření této smlouvy (namísto 13. června 1995 je uveden 24. únor 1995), ba dokonce se liší i jistinou.
+Na základě takové smlouvy závěr o procesním nástupnictví podle § 107a o. s. ř. v žádném případě nebylo lze učinit a právní posouzení věci soudy nižších stupňů je proto zjevně nesprávné.
+Nejvyšší soud proto obě rozhodnutí soudů nižších stupňů zrušil a věc vrátil soudu prvního stupně k dalšímu řízení (§ 243b odst. 2 a 3 o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 27. září 2007
+JUDr. Zdeněk K r č m á ř
+předseda senátu
+29 Cdo 3485/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Krčmáře a soudců JUDr. Hany Gajdziokové a JUDr. Petra Gemmela v právní věci žalobkyně J. & T. B., a. s., proti žalované M. T. R. spol. s r. o., zastoupené advokátkou, o zaplacení částky 12,345.422,17 Kč s příslušenstvím, vedené u Okresního soudu ve V. pod sp. zn. 3 C 311/2003, o dovolání žalované proti usnesení Krajského soudu v B. ze dne 29. března 2007, č. j. 47 Co 62/2007-120, takto:
+Usnesení Krajského soudu v B. ze dne 29. března 2007, č. j. 47 Co 62/2007 120 a usnesení Okresního soudu ve V. ze dne 7. prosince 2006, č. j. 3 C 311/2003-110, se zrušují a věc se vrací soudu prvního stupně k dalšímu řízení.
+O d ů v o d n ě n í :
+Krajský soud v B. ve výroku označeným usnesením potvrdil rovněž ve výroku označené usnesení, kterým Okresní soud ve V. - odkazuje na ustanovení § 107a občanského soudního řádu (dále jen „o. s. ř.“) - připustil, aby do řízení na místo dosavadní žalobkyně J. & T. B., a. s. vstoupila společnost J. & T. P. E. B. V., (dále jen „společnost“). Odvolací soud přitakal soudu prvního stupně v závěru, že v daném případě byly splněny všechny předpoklady pro vstup společnosti (nabyvatelky práva) do řízení na místo dosavadní žalobkyně.
+Proti usnesení odvolacího soudu podala žalovaná včasné dovolání, jehož přípustnost odvozuje z ustanovení § 239 odst. 2 písm. b) o. s. ř., dovozujíc, že jsou naplněny dovolací důvody dle § 241a o. s. ř. a dožadujíc se zrušení napadeného rozhodnutí a vrácení věci k dalšímu řízení. V dovolání snáší argumenty na podporu závěru, že původní žalobkyně není ve sporu aktivně věcně legitimována, z čehož usuzuje, že podmínky ve smyslu ustanovení § 107a o. s. ř. naplněna není.
+Dovolání je přípustné podle ustanovení § 239 odst. 2 písm. b) o. s. ř.
+Dovolací argumentace nedostatkem věcné legitimace původní žalobkyně je právně bezcenná (lhostejno, v rovině kterého z dovolacích důvodů) z týchž příčin, pro které Nejvyšší soud jako zjevně bezdůvodné odmítl (usnesením ze dne 30. května 2006, č. j. 29 Odo 1462/2005-114) obsahově shodné dovolání žalované, týkající se v této věci první změny v osobě žalobkyně (z Ing. M. H. na J. & T. B., a. s.).
+Dovolání je přesto důvodné, jelikož soudy nižších stupňů přehlédly (odvolací soud přesto, že to žalovaný výslovně namítl v odvolání), že žalobkyní předložená smlouva o postoupení pohledávek ze dne 5. listopadu 2004 se pohledávky, o kterou se vede spor v této věci, vůbec netýká (specifikace postupované pohledávky v příloze č.1 postupní smlouvy neodpovídá ani co do registračního čísla smlouvy o úvěru (namísto č. 07-338/95 je uvedeno č. 07/285/95), ani co do data uzavření této smlouvy (namísto 13. června 1995 je uveden 24. únor 1995), ba dokonce se liší i jistinou.
+Na základě takové smlouvy závěr o procesním nástupnictví podle § 107a o. s. ř. v žádném případě nebylo lze učinit a právní posouzení věci soudy nižších stupňů je proto zjevně nesprávné.
+Nejvyšší soud proto obě rozhodnutí soudů nižších stupňů zrušil a věc vrátil soudu prvního stupně k dalšímu řízení (§ 243b odst. 2 a 3 o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 27. září 2007
+JUDr. Zdeněk K r č m á ř
+předseda senátu
