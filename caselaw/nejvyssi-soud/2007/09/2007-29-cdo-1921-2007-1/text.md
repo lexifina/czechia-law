@@ -1,0 +1,16 @@
+29 Cdo 1921/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudců Mgr. Petra Šuka a JUDr. Ivany Štenglové v právní věci žalobkyně Č. f., s. r. o., proti žalovaným 1) Č. O. a. s., zastoupené advokátem, 2) Č.L. O. a. s., zastoupené advokátem, 3) K.-m s. r. o. zastoupené advokátem, a 4) K. a. O. s. r. o. „v likvidaci\", o zaplacení částky 219.262.374,17 Kč s příslušenstvím a smluvní pokuty ve výši 2.637.093,71 Kč, vedené u Okresního soudu v Ostravě pod sp. zn. 63 C 81/2002, o dovolání druhé žalované proti usnesení Krajského soudu v Ostravě ze dne 31. října 2006, č.j. 15 Co 304/2005-210, takto:
+Dovolání se zamítá.
+O d ů v o d n ě n í :
+Krajský soud v Ostravě v průběhu řízení o odvolání žalobkyně proti rozsudku ze dne 25. srpna 2004, č.j. 63 C 81/2002-139, v záhlaví označeným usnesením mimo jiné rozhodl, že v řízení proti první, druhé a třetí žalovaným bude na straně žalobkyně pokračováno s Č. k. a., (dále jen „agentura“).
+Odvolací soud - odkazuje na ustanovení § 107 občanského soudního řádu (dále jen „o. s. ř.) - v odůvodnění usnesení zejména uvedl, že „v projednávané věci právnická osoba stojící dosud na straně žalobkyně“ zanikla a do jejích práv a povinností v celém rozsahu vstoupila agentura.
+Proti shora uvedenému výroku rozhodnutí odvolacího soudu podala druhá žalovaná dovolání, namítajíc, že dosavadní žalobkyně nebyla ve sporu aktivně věcně legitimována, pročež není dána ani aktivní věcná legitimace její právní nástupkyně (agentury).
+Dovolání je přípustné podle § 239 odst. 1 písm. b) o. s. ř.; není však důvodné.
+Podle ustanovení § 107 o. s. ř. jestliže účastník ztratí po zahájení řízení způsobilost být účastníkem řízení dříve, než řízení bylo pravomocně skončeno, posoudí soud podle povahy věci, zda v řízení může pokračovat. Není-li možné v řízení ihned pokračovat, soud řízení přeruší. O tom, s kým bude v řízení pokračováno, soud rozhodne usnesením (odstavec 1). Ztratí-li způsobilost být účastníkem řízení právnická osoba a umožňuje-li povaha věci pokračovat v řízení, jsou jejím procesním nástupcem, nestanoví-li zákon jinak, ti, kteří po zániku právnické osoby vstoupili do jejích práv a povinností, popřípadě ti, kteří po zániku právnické osoby převzali práva a povinnosti, o něž v řízení jde (odstavec 3).
+V situaci, kdy původní žalobkyně k 31. srpna 2006 zanikla výmazem z obchodního rejstříku poté, kdy byla zrušena s převodem obchodního jmění na jejího jediného společníka - agenturu (na základě smlouvy o převzetí obchodního jmění uzavřené podle § 153c obchodního zákoníku), jež nabyla všechna (tedy i procesní) práva své právní předchůdkyně, je rozhodnutí odvolacího soudu s výše citovaným ustanovením v souladu. Posouzení, zda původní žalobkyně byla nositelkou hmotného práva, o něž v řízení jde, je přitom pro účely rozhodování, kdo je procesním nástupcem účastníka (§ 107 o. s. ř.), právně nevýznamné, když je relevantní až pro rozhodnutí ve věci samé.
+Jelikož se dovolatelce prostřednictvím uplatněného dovolacího důvodu správnost rozhodnutí odvolacího soudu zpochybnit nepodařilo, Nejvyšší soud, dovolání podle ustanovení § 243b odst. 2 části věty před středníkem o. s. ř. zamítl.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 27. září 2007
+JUDr. Petr G e m m e l
+předseda senátu
