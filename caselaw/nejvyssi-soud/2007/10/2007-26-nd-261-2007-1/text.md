@@ -1,0 +1,16 @@
+26 Nd 261/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy
+JUDr. Miroslava Feráka a soudkyň Doc. JUDr. Věry Korecké, CSc., a JUDr. Marie Vokřinkové ve věci péče o nezletilé P. S., a T. S., zastoupené opatrovníkem Úřadem pro mezinárodněprávní ochranu dětí, se sídlem v B. B., děti matky M. S., zastoupené advokátkou a otce P. S., o úpravu výchovy a výživného nezletilých dětí pro dobu po rozvodu manželství, vedené u Okresního soudu v Olomouci pod sp. zn. 40 Nc 24/2007, o určení soudu místně příslušného k projednání věci, takto:
+Určuje se, že věc projedná a rozhodne Okresní soud v Olomouci.
+O d ů v o d n ě n í :
+Návrhem podaným u Okresního soudu v Olomouci dne 4. května 2007 se matka nezletilých dětí M. S. domáhala schválení dohody rodičů ve věci úpravy poměrů nezletilých dětí P. a T. pro dobu po rozvodu. Podle údajů uvedených v návrhu jsou oba rodiče státními občany České republiky, nikdy neměli společné bydliště v České republice, od uzavření sňatku žijí ve Spolkové republice Německo, kde se narodily i obě děti, syn P. je státním občanem České republiky, syn T. je státním občanem Spolkové republiky Německo, poslední bydliště matky na území České republiky bylo v R. n. M. – R. v okrese Š., poslední bydliště otce na území České republiky bylo ve Š. v okrese O.. U Okresního soudu v Olomouci matka uvedený návrh podala s odkazem na „článek 12 odst. 1, článek 3 odst. 1 písm. b), článek 6 nařízení Rady (ES) č. 2201/2003,
+o příslušnosti a uznání a výkonu rozhodnutí ve věcech manželských a ve věcech rodičovské zodpovědnosti a o zrušení nařízení (ES) č. 1347/2000; § 86 odst. 1 a § 88 písm. a) zákona č. 99/1963 Sb., občanský soudní řád“.
+Okresní soud v Olomouci usnesením ze dne 20. června 2007, č. j. 40 Nc 24/2007, 40 Sen 122/2007-24, vyslovil svoji místní nepříslušnost a rozhodl, že věc bude po právní moci tohoto rozhodnutí předložena Nejvyššímu soudu České republiky
+k určení, který soud věc projedná a rozhodne. Přitom dospěl k závěru, že v dané věci je dána pravomoc soudu České republiky ve smyslu článku 12 odst. 1 Nařízení rady ES č. 2201/2003, o příslušnosti a uznávání a výkonu rozhodnutí ve věcech manželských a ve věcech rodičovské zodpovědnosti a o zrušení nařízení (ES) č. 1347/2000, avšak dovodil, že chybějí podmínky pro určení místní příslušnosti ve smyslu § 88 písm. c/ zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů (dále jen „o.s.ř.”); proto věc s odkazem na § 11 odst. 3 o.s.ř. předložil Nejvyššímu soudu České republiky.
+Podle § 11 odst. 3 o.s.ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Nejvyšší soud se ztotožnil se závěrem, že v posuzovaném případě chybějí podmínky místní příslušnosti. Současně však dospěl k názoru, že je to právě Okresní soud v Olomouci, který splňuje předpoklady věcně správného a neprodleného rozhodnutí, neboť s věcí je již alespoň rámcově seznámen a navíc tento soud bude rozhodovat ve věci rozvodu manželství rodičů nezletilých (viz usnesení Nejvyššího soudu ze dne 25. června 2007, sp. zn. 22 Nd 190/2007).
+Proti tomuto rozhodnutí není opravný prostředek přípustný.
+V Brně dne 17. října 2007
+JUDr. Miroslav Ferák, v. r.
+předseda senátu
