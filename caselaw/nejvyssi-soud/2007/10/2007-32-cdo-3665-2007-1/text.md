@@ -1,0 +1,16 @@
+32 Cdo 3665/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Kateřiny Hornochové a soudců JUDr. Františka Faldyny, CSc. a JUDr. Miroslava Galluse v právní věci žalobkyně R. CS, a. s., zastoupené advokátem, proti žalované S. – v. a. o. s., spol. s r. o., o žalobě na obnovu řízení, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 38 C 80/2006, o dovolání žalované proti usnesení Městského soudu v Praze ze dne 23. května 2007, č. j. 28 Co 62/2007-39, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Praze usnesením ze dne 23. května 2007, č. j. 28 Co 62/2007-39, potvrdil usnesení Obvodního soudu pro Prahu 4 ze dne 5. října 2006, č. j. 38 C 80/2006-20, jímž byla zamítnuta žaloba na obnovu řízení a žalované byla uložena povinnost zaplatit žalobkyni náklady řízení.
+Proti tomuto usnesení odvolacího soudu podala žalovaná dovolání, přičemž při jeho podání nebyla zastoupena advokátem, ani nedoložila, že jednatel obchodní společnosti s ručením omezeným, který sepsal dovolání, má právnické vzdělání.
+Obvodní soud pro Prahu 4 usnesením ze dne 18. července 2007, č. j. 38 C 80/2006-43, dovolatelku vyzval k odstranění nedostatku povinného zastoupení ve lhůtě do 14 dnů ode dne doručení tohoto usnesení. Usnesení bylo žalované doručeno dne 24. 7. 2007.
+Podle ustanovení § 241 občanského soudního řádu (dále jen „o. s. ř.“) není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními právními předpisy (odstavec 1). Odstavec 1 neplatí, a) je-li dovolatel fyzická osoba, která má právnické vzdělání, b) je-li dovolatelem právnická osoba, stát, obec nebo vyšší územně samosprávný celek, jedná-li za ně osoba uvedená v § 21, § 21a nebo v § 21b, která má právnické vzdělání (odstavec 2). Dovolání musí být sepsáno s výjimkou případu uvedeného v odstavci 2 písm. a) advokátem, notářem nebo osobou uvedenou v § 21, § 21a, § 21b a nebo v § 26a odst. 3, která má právnické vzdělání )odstavec 4).
+Protože povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, bez jejíhož splnění nelze vydat – s výjimkou usnesení, jímž se dovolací řízení pro tento nedostatek zastavuje – rozhodnutí, kterým se řízení končí, a protože ke zhojení tohoto nedostatku přes výzvu soudu prvního stupně nedošlo, dovolatel po lhůtě, kterou mu soud stanovil k odstranění výše uvedeného nedostatku dne 10. 8. 2007 požádal soud o osvobození soudního poplatku a ustanovení zástupce z řad advokátů na náklady soudu, přičemž uplynutí této procesní lhůty nebylo soudem prvního stupně prominuto, Nejvyšší soud České republiky dovolací řízení podle § 104 odst. 2 a §243c o. s. ř. zastavil.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 4, § 224 odst. 1 a §146 odst. 2 věty první o. s. ř., když žalovaná zavinila, že řízení o dovolání muselo být zastaveno a žalobkyni podle obsahu spisu náklady v dovolacím řízení nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 18. října 2007
+JUDr. Kateřina Hornochová
+předsedkyně senátu
