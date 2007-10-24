@@ -1,0 +1,18 @@
+20 Cdo 906/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudců JUDr. Miroslavy Jirmanové a JUDr. Vladimíra Mikuška ve věci výkonu rozhodnutí oprávněné K. M., proti povinnému M. Ch., pro 33.820,- Kč, prodejem movitých věcí, vedené u Okresního soudu v Kladně pod sp. zn. E 3286/2003, o dovolání povinného proti usnesení Krajského soudu v Praze ze dne 30. 9. 2005, č. j. 27 Co 375/2005-89, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Kladně usnesením ze dne 15. 7. 2005, č. j. E 3286/2003-79, zamítl návrh povinného na odklad výkonu rozhodnutí (výrok I.), zamítl návrh povinného na zastavení výkonu rozhodnutí (výrok II.), částečně zastavil co do částky 25.887,- Kč výkon rozhodnutí nařízený usnesením ze dne 10. 3. 2003, č. j. E 3286/2003-11 (výrok III.) a rozhodl o náhradě nákladů řízení (výrok IV.).
+Krajský soud v Praze v záhlaví uvedeným usnesením rozhodnutí soudu prvního stupně ve výrocích I., II. a IV. potvrdil, odvolání povinného proti výroku III. odmítl a rozhodl o náhradě nákladů odvolacího řízení.
+Rozhodnutí odvolacího soudu napadl povinný dovoláním, které – hodnoceno podle obsahu – směřuje proti té části, jíž byl potvrzeno usnesení soudu prvního stupně ve výroku, kterým byl zamítnut jeho návrh na zastavení výkonu rozhodnutí.
+Z ustanovení § 241 odst. 1, 2 písm. a), odst. 4 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů (dále jen „o. s. ř.“), plyne, že je-li dovolatelem – jako v projednávaném případě – fyzická osoba, je nezbytné, aby (nemá-li právnické vzdělání) byla zastoupena advokátem (notářem), jímž musí být dovolání i sepsáno. Zvolí-li si advokáta až poté, co sám podal dovolání, je ke splnění podmínky dovolatelova zastoupení nezbytné, aby zmocněnec (advokát) jím dříve učiněné podání nahradil nebo doplnil vlastním, popř. sdělil soudu, že se s již učiněným podáním ztotožňuje.
+Při podání dovolání nebyl povinný zákonem stanoveným způsobem zastoupen a z obsahu spisu nevyplývá, že by měl právnické vzdělání. Usnesením ze dne 28. 7. 2006, č. j. E 3286/2003-96, soud prvního stupně proto dovolatele vyzval, aby si ve lhůtě patnácti dnů od doručení usnesení zvolil zmocněncem advokáta a jeho prostřednictvím podal řádné dovolání.
+Na výzvu, která mu byla doručena 7. 8. 2006, dovolatel reagoval žádostí o ustanovení zástupce, jíž soud usnesením ze dne 22. 9. 2006, č. j. E 3286/2003-109, vyhověl; advokátem sepsané dovolání však nebylo navzdory opakované výzvě předloženo.
+Protože podmínka povinného zastoupení dovolatele v dovolacím řízení (k jejímuž splnění je třeba i sepisu dovolání advokátem, viz usnesení Nejvyššího soudu z 27. 5. 1999, sp. zn. 26 Cdo 1121/99, uveřejněné v časopise Soudní judikatura č. 6, ročník 2000 pod poř. č. 64) je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – vyjma usnesení, jímž se dovolací řízení právě pro jeho neodstranění zastavuje – vydání rozhodnutí, kterým se řízení končí (§ 241 odst. 1 o. s. ř.), a protože ke zhojení uvedeného nedostatku přes opatření soudu nedošlo, Nejvyšší soud dovolací řízení zastavil (§ 104 odst. 2, § 243c odst. 1 o. s. ř.).
+Dovolatel z procesního hlediska zavinil, že dovolací řízení bylo zastaveno, oprávněné však v tomto stadiu řízení náklady nevznikly; tomu odpovídá výrok, že na náhradu nákladů dovolacího řízení nemá žádný z nich právo (§ 243b odst. 5, věta první, § 224 odst. 1, § 146 odst. 2, věta první, o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 24. října 2007
+JUDr. Pavel K r b e k , v. r.
+předseda senátu
