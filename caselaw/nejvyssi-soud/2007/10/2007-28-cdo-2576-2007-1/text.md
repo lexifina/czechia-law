@@ -1,0 +1,17 @@
+28 Cdo 2576/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Ludvíka Davida, CSc. a soudců JUDr. Josefa Rakovského a JUDr. Roberta Waltra v právní věci žalobců a) V. K., b) V. M., zastoupené obecnou zmocněnkyní Ing. L. P., proti žalovanému P. f. ČR, o určení vlastnictví k nemovitostem a o jejich vydání, vedené u Okresního soudu v Příbrami pod sp. zn. 10 C 28/2005, o dovolání žalobce a) proti rozsudku Krajského soudu v Praze ze dne 16. 1. 2007, č. j. 28 Co 723/2006-271, takto:
+I. Řízení o dovolání se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Ve věci bylo nejprve Okresním soudem v Příbrami, a to jeho rozsudkem ze dne 25. 7. 2006, č.j. 10 C 28/2005-216, zastaveno řízení o žalobě na určení vlastnického práva žalobců k jimi označeným nemovitostem. Jednalo se o dům čp. 106 na pozemku parc. č. 115 v N. V. pod P. a pozemku parc. č. 115 – zastavěné plochy a nádvoří, jakož i pozemku parc. č. 238/4 – zahrady, vše v k.ú. a obci N. V. pod P. Kromě zastavení řízení o této určovací žalobě byla zamítnuta žaloba na vydání těchže označených nemovitostí. Žalobci byli zavázáni k náhradě nákladů řízení žalovaného ve výši 112,- Kč.
+Krajský soud v Praze jako soud odvolací poté rozsudek soudu prvního stupně k odvolání žalobce a) v obou napadených výrocích o zastavení řízení a zamítnutí žaloby (a též v nákladovém výroku) potvrdil. Žádnému z účastníků nepřiznal právo na náhradu nákladů odvolacího řízení. Odvolací soud dospěl především k závěru, že stran řízení o určení vlastnictví k nemovitostem existuje překážka litispendence. O téže věci totiž podle odvolacího soudu probíhá řízení před Odvodním soudem pro Prahu 3 pod sp. zn. 6 C 539/2005. Ve vztahu k potvrzení zamítavého rozsudku vydání předmětných nemovitostí dospěl odvolací soud po rozsáhlém rozboru k právnímu závěru, že věc bylo nutno posoudit podle zákona č. 87/1991 Sb. o mimosoudních rehabilitacích, a že odvolatel V. K. neuplatnil nárok u soudu včas; tento nárok byl prekludován ve smyslu § 5 odst. 4 citovaného zákona.
+Proti rozsudku odvolacího soudu podal žalobce a) dovolání. V tomto dovolání brojí proti hmotněprávním názorům odvolacího soudu, jakož i proti jeho procesnímu postupu. Dovolatel navrhl, aby Nejvyšší soud kriticky posoudil tyto právní názory, domáhal se zrušení rozsudku nižších instancí, současně však vyslovil pochybnosti, zda je – vzhledem k postupu nižších instancí – dovolací soud schopen se věcí v celém rozsahu zabývat.
+Další účastníci řízení se k dovolání nevyjádřili.
+Dovolatel V. K. byl usnesením Okresního soudu v Příbrami ze dne 11. 4. 2007, které mu bylo doručeno a nabylo právní moci 7. 5. téhož roku, poučen o povinném zastoupení v odvolacím řízení v intencích § 241 odst. 1 a následující o. s. ř. K tomuto zastoupení mu byla stanovena lhůta 20-ti dnů s tím, že pokud tento nedostatek řízení na jeho straně nebude odstraněn Nejvyšší soud po postoupení spisu dovolací řízení zastavil. Dovolatel však v uvedené lhůtě ani později uvedený nedostatek neodstranil.
+Dovolací soud proto podle § 241 odst. 1, § 241b odst. 2 a § 104 odst. 2 o. s. ř. dovolací soud řízení zastavuje.
+Žádnému z účastníků nevznikly v dovolacím řízení jakékoliv náklady, jež by mohly být tímto usnesením přiznány.
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 25. října 2007
+JUDr. Ludvík David, CSc., v. r.
+předseda senátu
