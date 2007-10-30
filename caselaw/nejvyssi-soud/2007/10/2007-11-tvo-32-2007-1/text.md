@@ -1,0 +1,16 @@
+11 Tvo 32/2007
+U S N E S E N Í
+Nejvyšší soud projednal v neveřejném zasedání konaném dne 30. října 2007 stížnost obviněného G. A., proti usnesení Vrchního soudu v Praze ze dne 30. 7. 2007, sp. zn. 2 To 54/2007, a rozhodl t a k t o :
+Podle § 148 odst. 1 písm. c) tr. řádu s e stížnost obviněného G. A. z a m í t á .
+O d ů v o d n ě n í :
+Rozsudkem Krajského soudu v Praze ze dne 15. 1. 2007, sp. zn. 4 T 58/2006, byl obviněný G. A. uznán vinným trestným činem loupeže podle § 234 odst. 1, 3 tr. zák., a trestným činem porušování domovní svobody podle § 238 odst. 1, 3 tr. zák., spáchaným ve spolupachatelství podle § 9 odst. 2 tr. zák., za které mu byl uložen trest odnětí svobody v trvání deseti let. Stejným rozsudkem bylo rozhodnuto o vině a trestu dalších 18ti obviněných.
+Proti tomuto rozsudku podal obviněný G. A., dále většina obviněných a v neprospěch obviněných i státní zástupce odvolání a trestní věc byla předložena Vrchnímu soudu v Praze jako soudu odvolacímu.
+Vrchní soud v Praze usnesením ze dne 30. 7. 2007, sp. zn. 2 To 54/2007, podle § 71 odst. 4, 6, 7 tr. řádu ponechal obviněného G. A. ve vazbě z důvodu uvedeného v ustanovení § 67 písm. a) tr. řádu.
+Proti tomuto usnesení podal obviněný G. A. stížnost s tím, že soud rozhodl o jeho ponechání ve vazbě zcela mechanicky a nenaplnil požadavek řádného a vyčerpávajícího zdůvodnění rozhodnutí o útěkové vazbě a nevzal v úvahu jeho osobní a rodinné poměry, které uváděl – rodinné zázemí, příslib zaměstnání a do doby vzetí do vazby vedení řádného života. Dále ve své stížnosti uvedl, že nemá úmysl se skrývat, uprchnout, vyhýbat se či zdržovat soudní řízení a ze všech uvedených důvodů navrhl, aby bylo napadené usnesení vrchního soudu zrušeno a on byl propuštěn z vazby na svobodu.
+Nejvyšší soud z podnětu podané stížnosti přezkoumal podle § 147 odst. 1 tr. řádu správnost napadeného rozhodnutí i řízení, které mu předcházelo, a dospěl k tomuto závěru.
+O důvodnosti vazby obviněného G. A. bylo v průběhu dosavadního řízení několikrát rozhodováno, naposledy napadeným usnesením vrchního soudu. Rozsudkem soudu prvního stupně byl obviněný uznán vinným zvlášť závažným trestným činem, za který mu byl uložen přísný nepodmíněný trest odnětí svobody. S ohledem na uložení tohoto trestu je obava z vyhýbání se trestnímu řízení, ať již tím, že by mohl uprchnout, nebo tím, že by se mohl skrývat, i nadále reálná. V tomto směru je v souladu s nálezem Ústavního soudu ze dne 1. 4. 2004, sp. zn. III. ÚS 566/03, odůvodnění útěkové vazby hrozbou vysokým trestem. Pokud jde o obavu, že by se obviněný na svobodě vyhýbal trestnímu řízení, lze se v podrobnostech ztotožnit se zdůvodněním všech předchozích rozhodnutí, včetně odůvodnění napadeného usnesení vrchního soudu. Odůvodnění napadeného rozhodnutí sice stručně, ale naprosto výstižně a vyčerpávajícím způsobem reaguje na všechny námitky obviněného. Protože se Nejvyšší soud s tímto rozhodnutím i jeho výstižným odůvodněním plně ztotožňuje, nemohla se stížnost obviněného G. A. setkat s úspěchem a nezbylo než rozhodnout, jak je ve výroku tohoto usnesení uvedeno.
+Trestní řízení proti obviněnému trvá zatím dobu, která je přiměřená náročnosti projednávané věci, žádné nepřiměřené průtahy během tohoto řízení zjištěny nebyly.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 30. října 2007
+Předseda senátu:
+JUDr. Pavel Kučera
