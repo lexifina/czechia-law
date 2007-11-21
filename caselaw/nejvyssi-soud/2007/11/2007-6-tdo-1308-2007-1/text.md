@@ -1,0 +1,28 @@
+6 Tdo 1308/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v neveřejném zasedání konaném dne 21. listopadu 2007 o dovolání, které podal M. K., proti usnesení Krajského soudu v Ostravě - pobočky v Olomouci, ze dne 30. 7. 2007, sp. zn. 2 To 367/2007, jako soudu druhého stupně v trestní věci vedené u Okresního soudu v Olomouci pod sp. zn. 2 Nt 115/2007, takto:
+Podle § 265i odst. 1 písm. a) tr. ř. se dovolání o d m í t á.
+O d ů v o d n ě n í :
+Usnesením Okresního soudu v Olomouci ze dne 14. 6. 2007, sp. zn. 2 Nt 115/2007, bylo podle § 72 odst. 4 tr. zák. za použití § 351a tr. ř. rozhodnuto tak, že „se M. K. přeměňuje ochranné psychiatrické léčení v ambulantní formě na formu ústavní.“
+O stížnosti, kterou proti tomuto usnesení podal M. K., rozhodl ve druhém stupni Krajský soud v Ostravě - pobočka v Olomouci, usnesením ze dne 30. 7. 2007, sp. zn. 2 To 367/2007, tak, že ji podle § 148 odst. 1 písm. c) tr. ř. zamítl. Rozhodnutí soudu prvního stupně tak nabylo právní moci dne 30. 7. 2007 /§ 140 odst. 1 písm. b), cc) tr. ř./.
+Citované rozhodnutí Krajského soudu v Ostravě - pobočky v Olomouci, následně M. K. napadl dovoláním podaným prostřednictvím svého obhájce, přičemž uplatnil dovolací důvod uvedený v § 265b odst. 1 písm. g) tr. ř. Argumentaci předmětného podání však není zapotřebí s ohledem na způsob rozhodnutí Nejvyššího soudu České republiky (dále jen „Nejvyšší soud“) podrobně rozvádět.
+K dovolání se v souladu s ustanovením § 265h odst. 2 tr. ř. vyjádřila státní zástupkyně Nejvyššího státního zastupitelství (dále jen „státní zástupkyně“). Poté, co připomněla rozhodnutí soudů nižších stupňů a dovolací námitky M. K., uvedla, že při posuzování podaného dovolání je třeba především zkoumat, zda jsou splněny podmínky přípustnosti dovolání podle § 265a tr. ř. Dále poznamenala, že podle odst. 1 tohoto zákonného ustanovení lze dovoláním napadnout pravomocné rozhodnutí soudu ve věci samé, pokud soud rozhodl ve druhém stupni a zákon to připouští, přičemž v § 265a odst. 2 písm. a) - písm. h) tr. ř. jsou taxativně vypočtena rozhodnutí, která je možno považovat za rozhodnutí ve věci samé. Následně shledala, že z taxativního výčtu obsaženého v § 265a odst. 2 tr. ř. je zřejmé, že usnesení Krajského soudu v Ostravě -pobočky v Olomouci, ze dne 30. 7. 2007, sp. zn. 2 To 367/2007, stejně jako jemu předcházející usnesení Okresního soudu v Olomouci ze dne 14. 6. 2007, sp. zn. 2 Nt 115/2007, nelze podřadit pod žádné z rozhodnutí ve věci samé, proti kterým zákon připouští podání mimořádného opravného prostředku - dovolání. Uzavřela pak, že dovolání je možné podat proti usnesení, jímž bylo uloženo ochranné opatření, nikoli však proti usnesení, jímž bylo rozhodnuto o přeměně již uloženého ochranného opatření.
+Z těchto důvodů státní zástupkyně navrhla, aby Nejvyšší soud dovolání M. K. podle § 265i odst. 1 písm. a) tr. ř. odmítl a učinil tak v souladu s ustanovením § 265r odst. 1 písm. a) tr. ř. v neveřejném zasedání.
+Nejvyšší soud jako soud dovolací (§ 265c tr. ř.) nejprve zkoumal, zda jsou v posuzované věci splněny podmínky přípustnosti dovolání podle ustanovení § 265a tr. ř.
+Podle § 265a odst. 1 tr. ř. lze dovoláním napadnout pravomocné rozhodnutí soudu ve věci samé, jestliže soud rozhodl ve druhém stupni a zákon to připouští. V ustanovení § 265a odst. 2 tr. ř. pak zákonodárce vymezil, co se rozumí rozhodnutím ve věci samé. Tímto rozhodnutím je:
+a) rozsudek, jímž byl obviněný uznán vinným a uložen mu trest, popřípadě ochranné opatření nebo bylo upuštěno od potrestání,
+b) rozsudek, jímž byl obviněný obžaloby zproštěn,
+c) usnesení o zastavení trestního stíhání,
+d) usnesení o postoupení věci jinému orgánu,
+e) usnesení, jímž bylo uloženo ochranné opatření,
+f) usnesení o podmíněném zastavení trestního stíhání,
+g) usnesení o schválení narovnání, nebo
+h) rozhodnutí, jímž byl zamítnut nebo odmítnut řádný opravný prostředek proti
+rozsudku nebo usnesení uvedenému pod písmeny a) až g).
+Jelikož jde o taxativní výčet rozhodnutí, která je možné považovat za rozhodnutí ve věci samé, proti nimž je přípustné dovolání, nelze považovat za rozhodnutí ve věci samé pro účely dovolání žádné jiné (další) rozhodnutí, které do uvedeného okruhu nepatří. Proto za rozhodnutí ve věci samé nelze považovat usnesení soudu druhého stupně, kterým v dané věci byla zamítnuta stížnost M. K. směřující proti usnesení soudu prvního stupně, jímž bylo podle § 72 odst. 4 tr. zák. za použití § 351a tr. ř. rozhodnuto tak, že se M. K. přeměňuje ochranné psychiatrické léčení v ambulantní formě na formu ústavní, ani zmíněné rozhodnutí soudu prvního stupně.
+Jinak řečeno, protože dovolání (zavedené do českého trestního řádu novelou provedenou zákonem č. 265/2001 Sb. s účinností od 1. ledna 2002) bylo koncipováno jako specifický mimořádný opravný prostředek, který umožňuje průlom do právní moci rozhodnutí, byla současně striktně omezena přípustnost jeho podání pouze a jen na ta rozhodnutí ve věci samé, která byla citována shora. Usnesení, jimiž bylo soudy obou stupňů rozhodnuto ve věci M. K. výše popsaným způsobem, mezi nimi uvedena nejsou.
+Za tohoto stavu Nejvyšší soud neshledal, že by v projednávané věci M. K. byly splněny podmínky, jež by zakládaly přípustnost podaného dovolání podle ustanovení § 265a odst. 1, odst. 2 tr. ř. Proto v neveřejném zasedání [§ 265r odst. 1 písm. a) tr. ř.] rozhodl, že se toto dovolání podle § 265i odst. 1 písm. a) tr. ř. odmítá, neboť není přípustné, aniž by se zabýval tím, zda dovolání splňuje obsahové náležitosti podle § 265f odst. 1 tr. ř., nebo přezkoumáním věci po meritorní stránce.
+P o u č e n í : Proti rozhodnutí o dovolání není s výjimkou obnovy řízení opravný prostředek přípustný (§ 265n tr. ř.).
+V Brně dne 21. listopadu 2007
+Předseda senátu:
+JUDr. Vladimír Veselý
