@@ -1,0 +1,17 @@
+26 Cdo 4599/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Feráka a soudkyň JUDr. Marie Vokřinkové a Doc. JUDr. Věry Korecké, CSc., ve věci žalobce R. B., se sídlem v O., M. O., proti žalované V. K., o 1.343,- Kč s příslušenstvím, vedené u Okresního soudu v Ostravě pod sp. zn. 34 C 172/2005, o dovolání žalované proti rozsudku Okresního soudu v Ostravě ze dne 6. října 2005, č. j. 34 C 172/2005-23, ve znění opravného usnesení Okresního soudu v Ostravě ze dne 20. prosince 2005, č. j. 34 C 172/2005-63, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Ostravě (soud prvního stupně) rozsudkem ze dne 6. října 2005, č. j. 34 C 172/2005-23, ve znění opravného usnesení Okresního soudu v Ostravě ze dne 20. prosince 2005, č. j. 34 C 172/2005-63, řízení co do částky 5,- Kč a co do 2 % úroku z částky 1.343,- Kč za dobu od 1. 8. 2004 do zaplacení zastavil (výrok I.) a uložil žalované povinnost zaplatit žalobci částku ve výši 1.338,- Kč a na náhradě nákladů řízení částku ve výši 600,- Kč, to vše do tří dnů od právní moci tohoto rozhodnutí (výrok II.). Přitom žalovanou správně poučil, že proti jeho rozhodnutí není odvolání (dle ustanovení § 202 odst. 2 o.s.ř.) ani dovolání (dle ustanovení § 236 odst. 1 o.s.ř.) přípustné.
+Žalovaná – nezastoupena advokátem – podala osobně u Okresního soudu v Ostravě podání označené jako „Dovolání v kauze j. č. 34 C 172/2005-23“ a současně požádala o ustanovení právního zástupce.
+Soud prvního stupně usnesením ze dne 29. listopadu 2005, č.j. 34 C 172/2005-61, potvrzeným usnesením Krajského soudu v Ostravě ze dne 19. dubna 2007, č. j. 42 Co 134/2007-117, žádost žalované o přiznání osvobození od soudních poplatků a ustanovení zástupce z řad advokátů zamítl.
+Podle § 236 odst. 1 o.s.ř. je dovolání mimořádným opravným prostředkem proti pravomocnému rozhodnutí odvolacího soudu. Opravným prostředkem proti rozhodnutí soudu prvního stupně je odvolání (§ 201 o.s.ř.). Občanský soudní řád proto také neupravuje funkční příslušnost soudu pro projednání dovolání proti rozhodnutím soudu prvního stupně. Příslušným soudem proto není Nejvyšší soud České republiky, jemuž ustanovení § 10a o.s.ř. svěřuje příslušnost rozhodovat o dovoláních proti pravomocným rozhodnutím krajských nebo vrchních soudů jako soudů odvolacích. Na tomto závěru nemůže změnit nic ta okolnost, že v dané věci proti rozsudku soudu prvního stupně, jímž bylo rozhodnuto o peněžitém plnění nepřevyšujícím 2.000,- Kč, není odvolání přípustné ve smyslu § 202 odst. 2 o.s.ř.
+Tím, že žalovaná napadla dovoláním rozhodnutí soudu prvního stupně, opomenula neexistenci podmínky dovolacího řízení.
+Nedostatek funkční příslušnosti je takovým nedostatkem podmínky řízení, který nelze odstranit. Nejvyšší soud proto řízení, které touto vadou trpí, zastavil (§ 104 odst. 1 věta první, § 243c odst. 1 o. s. ř.).
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5 věty první, § 224 odst. 1, § 146 odst. 2 větu první o.s.ř., a o skutečnost, že žalobci nevznikly v dovolacím řízení náklady, na jejichž náhradu by jinak měl právo proti žalované, která z procesního hlediska zavinila zastavení řízení.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 22. listopadu 2007
+JUDr. Miroslav F e r á k , v. r.
+předseda senátu
