@@ -1,0 +1,16 @@
+11 Tvo 39/2007
+U S N E S E N Í
+Nejvyšší soud projednal v neveřejném zasedání konaném dne 30. listopadu 2007 stížnost odsouzeného Ing. V. V., proti usnesení Vrchního soudu v Olomouci ze dne 7. 11. 2007, sp. zn. 2 To 35/2007, a rozhodl t a k t o :
+Podle § 148 odst. 1 písm. c) tr. řádu s e stížnost odsouzeného Ing. V. V. z a m í t á .
+O d ů v o d n ě n í :
+U Krajského soudu v Brně je pod sp. zn. 1 Nt 218/2006 vedeno řízení o vydání odsouzeného Ing. V. V. do ciziny k výkonu trestu odnětí svobody. Řízení je vedeno vazebně.
+S ohledem na hrubé a urážlivé jednání odsouzeného adresované mimo jiné na adresu předsedy senátu Vrchního soudu v Olomouci JUDr. P. A., Ph. D., o němž napsal, že je „obyčejný justiční chuj“, rozhodl Vrchní soud v Olomouci usnesením ze dne 7. 11. 2007, sp. zn. 2 To 35/2007, že podle § 66 odst. 2 tr. řádu se odsouzený Ing. V. V. přenechává řediteli věznice ke kázeňskému potrestání.
+Proti tomuto usnesení podal odsouzený Ing. V. V. stížnost s tím, že „soudce Vrchního soudu v Olomouci musí být skutečně zaujatý a zoufalý, když neunese dobře míněnou kritiku jako chlap a používá hrozbu represe pro důchodce po infarktu“, když navíc „samotné slovo ruského původu „chuj“ vůbec není urážlivé a podle posudku jazykovědného ústavu Ľudovíta Štúra jde o označení stojícího chlapa, který se jaksi neví rozhodnout a tak stojí“. Navrhuje proto, aby Nejvyšší soud pro absenci materiální podmínky přestupku usnesení Vrchního soudu v Olomouci zrušil, a nebo mu sám uložil pokutu, kterou uhradí, protože „způsob rozhodování soudců P. i Vrchního soudu v Olomouci v otázkách extradice je hanbou české justice“. Navíc opětovně požaduje, aby mu veškeré písemnosti byly doručované ve slovenském jazyce.
+Nejvyšší soud podle § 147 odst. 1 tr. řádu z podnětu podané stížnosti přezkoumal správnost napadeného výroku i řízení, které mu předcházelo, a dospěl k tomuto závěru.
+Vrchní soud v Olomouci nepochybil napadeným usnesením, ani řízením, které mu předcházelo. Předseda senátu Vrchního soudu v Olomouci JUDr. P. A., Ph. D. dlouho chlapsky trpěl sprosté a nevybíravé narážky odsouzeného Ing. V. V. Výraz jako „chuj“ na jeho adresu je ten nejmírnější. Ale i trpělivost JUDr. P. A., Ph. D. musí mít určitou mez, a tou je v daném případě udržení vážnosti, důstojnosti a úcty k soudu. V tomto případě odsouzený opakovanými hrubě urážlivými výrazy tuto hranici nesporně překročil. Nespokojenost s postupem předsedy senátu rozhodujícího ve věci může odsouzený vyjádřit rozhodně jiným způsobem než tím, že ho označí za „chuje“. Urážlivost tohoto výroku je dána tím, jak je obecně vnímán, a jazykový výklad, který podává odsouzený, nemůže jeho obecně chápanou urážlivost zmírnit ani rozptýlit. Ostatně kontext všech podání odsouzeného Ing. V. V. přímo vylučuje, že by odsouzený chtěl tímto výrokem omluvit nerozhodnost nebo případně jinou slabost JUDr. P. A., Ph. D.
+Jazykový výklad odsouzeného Ing. V. V. svědčí nejenom o jeho orientaci ve slovenštině, ale i v ruštině, takže by mu nemělo vadit ani, že mu byly zatím zasílány veškeré písemnosti v českém jazyce.
+Ze všech těchto důvodů bylo rozhodnuto, jak je ve výroku usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 30. listopadu 2007
+Předseda senátu:
+JUDr. Pavel Kučera
