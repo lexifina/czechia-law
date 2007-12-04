@@ -1,0 +1,13 @@
+29 Nd 349/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivany Štenglové a soudců Mgr. Petra Šuka a JUDr. Petra Gemmela ve věci žalobkyně M. V., proti žalované nezletilé P. V., zastoupené Městským úřadem Města H. jako opatrovníkem, o vyloučení věcí z výkonu rozhodnutí, vedené u Okresního soudu v P. pod sp. zn. 5 C 39/2007, o přikázání věci z důvodu vhodnosti, takto:
+Věc vedená u Okresního soudu v P. pod sp. zn. 5 C 39/2007 se nepřikazuje k projednání a rozhodnutí Okresnímu soudu v H.
+Odůvodnění:
+Okresní soud v P. předložil Nejvyššímu soudu shora uvedenou věc s návrhem, aby byla přikázána z důvodu vhodnosti Okresnímu soudu v H. Návrh odůvodnil tím, že žalobkyně, jejíž účastnický výslech považuje procesní soud za potřebný, i svědek (povinný a druh žalobkyně) bydlí v obvodu Okresního soudu v H., v důsledku čehož by bylo nutné provádět – s ohledem na vzdálenost obou soudů – dokazování prostřednictvím dožádaného soudu. Žalobkyně vyslovila s navrhovanou delegací nesouhlas, žalovaná se nevyjádřila.
+Podle § 12 odst. 2 občanského soudního řádu (dále jen „o. s. ř.“) věc může být přikázána jinému soudu téhož stupně také z důvodu vhodnosti.
+Předpokladem přikázání věci z důvodu vhodnosti je typicky existence okolností, jež umožňují hospodárnější a rychlejší projednání věci. Je však třeba mít na zřeteli, že obecná místní příslušnost soudu, který má věc projednat, je zásadou základní, a případná delegace příslušnosti jinému soudu je toliko výjimkou z této zásady, kterou je třeba vykládat restriktivně. Přikázáním věci jinému soudu, aniž by pro takové rozhodnutí byly splněny uvedené podmínky, by došlo k porušení ústavně zaručeného práva zakotveného v článku 38 odst. 1 Listiny základních práv a svobod, podle kterého nikdo nesmí být odňat svému zákonnému soudci (srov. nález Ústavního soudu ze dne 15. listopadu 2001 sp. zn. I. US 144/2000).
+Přestože okolnosti dané věci, zdůrazňované předkládajícím soudem, svědčí ve prospěch navrhované delegace vhodné, je třeba – s ohledem na závěry vyslovené v předchozím odstavci – vzít v úvahu nesouhlasné stanovisko žalobkyně, jakož i výlučnou povahu příslušnosti soudu, u něhož je prováděn výkon rozhodnutí, pro spory o vyloučení věcí z výkonu rozhodnutí (§ 88 písm. ch) o. s. ř.). Právě se zřetelem k posléze zmiňovaným skutečnostem a možnostem plynoucím z ustanovení § 39 o. s. ř. dospěl Nejvyšší soud k závěru, že prolomení shora uvedené zásady a přikázání věci z důvodu vhodnosti Okresnímu soudu v H. není namístě.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 4. prosince 2007
+JUDr. Ivana Štenglová
+předsedkyně senátu
