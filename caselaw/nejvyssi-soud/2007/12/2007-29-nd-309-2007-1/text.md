@@ -1,0 +1,15 @@
+29 Nd 309/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Krčmáře a soudců Mgr. Petra Šuka a JUDr. Hany Gajdziokové v právní věci žalobce MUDr. J. K., zastoupeného advokátkou, proti žalovaným 1/ Ing. I. V., a 2/ R. V., oběma zastoupenými advokátkou, o vyklizení bytu, vedené u Obvodního soudu pro P. pod sp. zn. 9 C 130/99, o návrhu Městského soudu v P. na přikázání věci z důvodu vhodnosti jinému soudu, takto:
+K projednání a rozhodnutí o odvolání žalovaných proti rozsudku Obvodního soudu pro P.ze dne 10. října 2006, č. j. 9 C 130/99-261, se věc přikazuje podle ustanovení § 12 odst. 2 občanského soudního řádu od Městského soudu v Praze ke Krajskému soudu v B.
+O d ů v o d n ě n í :
+Městský soud v P., jako soud příslušný k projednání a rozhodnutí o odvolání žalovaných proti rozsudku Obvodního soudu pro P. ze dne 10. října 2006, č. j. 9 C 130/99-261, podáním z 27. září 2007 navrhl, aby věc byla z důvodu vhodnosti přikázána k projednání a rozhodnutí jinému odvolacímu soudu (přitom je z podání jako celku zjevné, že za vhodný soud pokládá Krajský soud v B.). Jako důvod pro takový krok uvedl, že žalobce je bratrem soudkyně Městského soudu v P. JUDr. M.K. a švagrem soudce Vrchního soudu v Praze JUDr. F. K. Poukázal i na to, že věc byla z důvodu vhodnosti již jednou přikázána jinému odvolacímu soudu (Krajskému soudu v B.), a to usnesením Nejvyššího soudu ze dne 26. března 2002, č. j. 28 Nd 62/2002-125.
+Žalobce ve vyjádření (č. l. 279) uvedl, že za situace, kdy žádný z účastníků nevznesl námitku podjatosti, nejsou dány důvody pro přikázání věci jinému soudu. Připouští výše popsané příbuzenské vztahy, leč uvádí, že jeho sestra v dané věci nerozhoduje. Pro případ, že Nejvyšší soud shledá potřebu přikázat věc jinému soudu, navrhl, aby tímto soudem byl Krajský soud v P.
+Žalovaní se k návrhu soudu nevyjádřili. Předtím výslovně uvedli, že nenamítají podjatost Městského soudu v P., leč v doplnění svého odvolání (č. l. 271) „připomenuli“ příbuzenské vztahy žalobce se soudci Městského soudu v P. a Vrchního soudu v P.
+Nejvyšší soud jako soud nejblíže společně nadřízený příslušnému soudu (Městskému soudu v P.) a Krajskému soudu v B., jemuž má být věc přikázána (§ 12 odst. 3 zákona č. 99/1963 Sb., občanského soudního řádu (dále též jen „o. s. ř.“), dospěl k závěru, že jsou splněny podmínky pro přikázání věci jinému soudu z důvodu vhodnosti podle ustanovení § 12 odst. 2 o. s. ř. Ty v daném případě tkví ve skutečnostech popsaných soudem, který přikázání navrhl.
+S přihlédnutím k tomu, že předchozí odvolání v této věci projednal a rozhodl Krajský soud v B. jako přikázaný (výše označeným usnesením Nejvyššího soudu č. j. 28 Nd 62/2002-125) odvolací soud, odpovídá zásadě hospodárnosti řízení, aby i nyní podané odvolání projednal a o něm rozhodl týž odvolací soud.
+Nejvyšší soud proto návrhu Městského soudu v P. vyhověl a „odvolací“ věc podle ustanovení § 12 odst. 2 o. s. ř. přikázal Krajskému soudu v B.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 6. prosince 2007
+JUDr. Zdeněk K r č m á ř
+předseda senátu
