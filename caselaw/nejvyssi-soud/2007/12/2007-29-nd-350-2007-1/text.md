@@ -1,0 +1,13 @@
+29 Nd 350/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivany Štenglové a soudců Mgr. Petra Šuka a JUDr. Petra Gemmela ve věci žalobce MVDr. F. Š., CSc., proti žalovanému M. M., o přivolení k výpovědi z nájmu bytu, eventuálně o vyklizení bytu, vedené u Okresního soudu v Břeclavi pod sp. zn. 5 C 1107/2002, o návrhu žalobce na přikázání věci z důvodu vhodnosti, takto:
+Věc vedená u Okresního soudu v Břeclavi pod sp. zn. 5 C 1107/2002 se nepřikazuje k projednání a rozhodnutí Okresnímu soudu ve Svitavách.
+Odůvodnění:
+Okresní soudu v Břeclavi předložil Nejvyššímu soudu shora uvedenou věc s návrhem žalobce, aby byla přikázána z důvodu vhodnosti Okresnímu soudu ve Svitavách. Žalobce návrh odůvodňuje svým zdravotním stavem, který se „rapidně zhoršuje, cesty do B. jsou pro něj více než obtížné“. K návrhu doložil lékařskou zprávy o ambulantním vyšetření ze dne 29. listopadu 2004 a ze dne 30. května 2005. Žalovaný se k návrhu nevyjádřil.
+Předpokladem přikázání věci z důvodu vhodnosti podle ustanovení § 12 odst. 2 občanského soudního řádu (dále jen „o. s. ř.“) je typicky existence okolností, jež umožňují hospodárnější a rychlejší projednání věci. Je však třeba mít na zřeteli, že obecná místní příslušnost soudu, který má věc projednat, je zásadou základní, a případná delegace příslušnosti jinému soudu je toliko výjimkou z této zásady, kterou je třeba vykládat restriktivně. Přikázáním věci jinému soudu, aniž by pro takové rozhodnutí byly splněny uvedené podmínky, by došlo k porušení ústavně zaručeného práva zakotveného v článku 38 odst. 1 Listiny základních práv a svobod, podle kterého nikdo nesmí být odňat svému zákonnému soudci (srov. nález Ústavního soudu ze dne 15. listopadu 2001 sp. zn. I. ÚS 144/2000).
+Žalobce se již podáním ze dne 11. června 2005 domáhal přikázání věci z důvodu vhodnosti Okresnímu soudu ve Svitavách, a to ze stejného důvodu, který dokládal jednak závěrečnou lékařskou zprávou ze dne 12. března 2004 a jednak lékařskou zprávou ze dne 30. května 2005. Nejvyšší soud návrhu usnesením ze dne 12. července 2006 č.j. 28 Nd 93/2006-99 nevyhověl.
+V současném podání neuvádí žalobce žádné nové skutečnosti, jež by dokládaly jeho tvrzení o „rapidně se zhoršujícím zdravotním stavu“ a o tom, že cesty do B. na něj mají negativní vliv, a tato svá obecná tvrzení ani nedokládá žádnými aktuálními lékařskými nálezy. Nejvyšší soud proto neshledal důvody pro změnu předchozího závěru a pro prolomení shora popsané základní zásady obecné místní příslušnosti soudu, jenž má věc projednat.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 11. prosince 2007
+JUDr. Ivana Š t e n g l o v á
+předsedkyně senátu
