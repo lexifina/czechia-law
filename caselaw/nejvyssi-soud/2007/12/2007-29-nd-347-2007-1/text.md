@@ -1,0 +1,14 @@
+29 Nd 347/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivany Štenglové a soudců Mgr. Petra Šuka a JUDr. Petra Gemmela ve věci žalobkyně A. I. M. s.r.o., zastoupeného Mgr. K. L., advokátem proti žalovanému Mgr. A.S., jako správci konkursní podstaty úpadkyně W.-P., a. s., zastoupenému Mgr. J. S., advokátem o určení pravosti pohledávky, vedené u Městského soudu v Praze pod sp. zn. 26 Cm 328/2007, o přikázání věci z důvodu vhodnosti, takto:
+Věc vedená u Městského soudu v Praze pod sp. zn. 26 Cm 328/2007 se nepřikazuje k projednání a rozhodnutí Krajskému soudu v Ostravě.
+Odůvodnění:
+Městský soud v Praze předložil dne 30. října 2007 shora uvedenou věc s návrhem na delegaci věci z důvodu vhodnosti Krajskému soudu v Ostravě. Návrh odůvodnil tím, že objekt, jehož zpochybňovaná ochrana měla probíhat, se nachází v O., kde má sídlo žalobce i jeho zástupce, a zástupce žalovaného má sídlo v B. Oba účastníci vyjádřili s delegací souhlas.
+Podle § 12 odst. 2 občanského soudního řádu (dále jen „o.s.ř.“) věc může být přikázána jinému soudu téhož stupně také z důvodu vhodnosti.
+Předpokladem přikázání věci z důvodu vhodnosti je typicky existence okolností, jež umožňují hospodárnější a rychlejší projednání věci. Je však třeba mít na zřeteli, že obecná místní příslušnost soudu, který má věc projednat, je zásadou základní, a případná delegace příslušnosti jinému soudu je toliko výjimkou z této zásady, kterou je třeba vykládat restriktivně. Přikázáním věci jinému soudu, aniž by pro takové rozhodnutí byly splněny uvedené podmínky, by došlo k porušení ústavně zaručeného práva zakotveného v článku 38 odst. 1 Listiny základních práv a svobod, podle kterého nikdo nesmí být odňat svému zákonnému soudci (srov. nálezy Ústavního soudu sp. zn. IV. US 222/1996 a I. US 144/2000).
+Pouhá skutečnost, že objekt, jehož ostrahu měl žalobce provádět, leží mimo obvod procesního soudu, není sama o sobě okolností způsobilou prolomit zásadu vyjádřenou v článku 38 Listiny základních práv a svobod. Takovou okolností není ani bydliště žalobce či sídlo jeho zástupce. Naopak jde o situace, jež jsou v občanském soudním řízení běžné. Předkládající soud neuvádí žádný argument, z něhož by bylo možno dovodit, že řízení před Krajským soudem v Ostravě bude rychlejší a hospodárnější (např. že většinu důkazů potřebných k prokázání sporných skutečností bude nutné provádět v obvodu Krajského soudu v Ostravě). Konečně nelze přehlédnout, že v dané věci jde o spor vyvolaný konkursem, pro jehož projednání a rozhodnutí stanoví zákon výlučnou příslušnost soudu, u něhož je prováděn konkurs /§ 88 písm. i) o.s.ř./.
+Nejvyšší soud proto návrhu na přikázání věci z důvodu vhodnosti nevyhověl.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 11. prosince 2007
+JUDr. Ivana Š t e n g l o v á
+předsedkyně senátu
