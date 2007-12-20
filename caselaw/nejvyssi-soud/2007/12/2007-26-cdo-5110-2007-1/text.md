@@ -1,0 +1,23 @@
+26 Cdo 5110/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně Doc. JUDr. Věry Korecké, CSc., a soudců JUDr. Marie Vokřinkové a JUDr. Miroslava Feráka ve věci žalobce B. d. H., proti žalovaným 1) K. V. a 2) J. V., zastoupeným advokátem , o 16.932,- Kč s příslušenstvím, vedené u Okresního soudu v Ostravě pod sp. zn. 62 C 293/2002, o dovolání žalovaných proti usnesení Krajského soudu v Ostravě ze dne 30. srpna 2005, č. j. 11 Co 539/2005-223, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Ostravě (soud prvního stupně) rozsudkem ze dne 14. prosince 2004, č. j. 62 C 293/2002-147, uložil žalovaným povinnost společně a nerozdílně zaplatit žalobci 77.793,- Kč a na náhradě nákladů řízení 1.140,- Kč, to vše v pravidelných měsíčních splátkách po 400,- Kč měsíčně vždy k 15. dni kalendářního měsíce, počínaje měsícem následujícím po právní moci tohoto rozsudku až do úplného zaplacení, přičemž nezaplacením některé ze splátek se stává splatným celý dluh (výrok I.). Ve výroku uvedeným pod bodem II. soud uvedl, že: „Řízení se co do částky 8.454,- Kč zastavuje.“
+Krajský soud v Ostravě (soud odvolací) usnesením ze dne 30. srpna 2005, č. j. 11 Co 539/2005-223, odvolání žalovaných proti rozsudku soudu prvního stupně odmítl (výrok I.) a rozhodl, že žádný z účastníků nemá právo na náhradu nákladů odvolacího řízení (výrok II.). Odvolací soud shledal, že se žalovaní osobně i prostřednictvím svého advokáta vzdali práva odvolání proti rozsudku soudu prvního stupně, proto na odvolání, které podali, pohlížel jako na odvolání, které podaly osoby k tomu neoprávněné [§ 218 písm. b) zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů, dále jen „o.s.ř.“].
+Proti usnesení odvolacího soudu podali žalovaní dne 10. listopadu 2005 – nezastoupeni advokátem - podání v němž uvedli: „Vemte prosím tento dopis jako odvolání proti rozhodnutí KS a to jak v jeho části, tak i celého rozsahu,…“. V tomto podání, které lze s přihlédnutím k jeho obsahu (§ 41 odst. 2 o.s.ř.) považovat za dovolání proti shora označenému usnesení odvolacího soudu, žalovaní především namítali, že odvolací soud „vůbec nehodnotil celkový průběh OS … a tedy neřešil průběh soudního řízení komplexně, ale pouze v jeho části …“ .
+Plná moc advokáta žalovaných je až ze dne 7. prosince 2006 (č. l. 244 spisu).
+Nejvyšší soud shledal, že dovolání bylo podáno včas a osobami k tomu oprávněnými (§ 240 odst. 1 o.s.ř.). Poté se zabýval otázkou přípustnosti tohoto mimořádného opravného prostředku (§ 236 odst. 1 o.s.ř.), neboť toliko z podnětu přípustného dovolání lze správnost napadeného rozhodnutí přezkoumat z hlediska uplatněných dovolacích důvodů.
+Dovolání není přípustné.
+Podle § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti usnesení upravují ustanovení § 237 až § 239 o.s.ř.
+Přípustnost dovolání podle § 237 o.s.ř. není dána, neboť napadeným usnesením odvolacího soudu nebylo změněno [§ 237 odst. 1 písm. a) o.s.ř.] či potvrzeno [§ 237 odst. 1 písm. b) a c) o.s.ř.] rozhodnutí soudu prvního stupně ve věci samé.
+Přípustnost dovolání nelze opřít ani o ustanovení § 238 odst. 1, § 238a odst. 1, § 239 o.s.ř., upravující přípustnost dovolání proti usnesení odvolacího soudu, neboť nejde o žádný z případů v citovaných ustanovení uvedených.
+Lze tedy – stejně jako v usnesení Nejvyššího soudu ze dne 25. května 2006, sp. zn. 29 Cdo 715/2006 – uzavřít, že proti usnesení, jímž odvolací soud odmítl odvolání podle § 218 písm. b) o.s.ř. proti rozhodnutí soudu prvního stupně jako podané osobou neoprávněnou, není dovolání přípustné.
+Vycházeje z uvedených závěrů, dovolací soud nedovodil přípustnost dovolání proti napadenému usnesení ze žádného v úvahu přicházejícího ustanovení občanského soudního řádu. Za tohoto stavu bez jednání (§ 243a odst. 1 věta prvá o.s.ř.) dovolání podle § 243b odst. 5 věty první a § 218 písm. c) o.s.ř. odmítl pro nepřípustnost. Přitom s přihlédnutím k ustanovení § 241b odst. 2 věty za středníkem o.s.ř. bylo nerozhodné, že dovolatelé nebyli při podání dovolání zastoupeni advokátem.
+Výrok o nákladech dovolacího řízení se opírá o ustanovení § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o.s.ř. a o skutečnost, že žalobci nevznikly v dovolacím řízení žádné prokazatelné náklady, na jejichž náhradu by jinak měl proti dovolatelům právo.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 20. prosince 2007
+Doc. JUDr. Věra Korecká, CSc., v. r.
+předsedkyně senátu
