@@ -1,0 +1,23 @@
+11 Tcu 130/2007
+U S N E S E N Í
+Nejvyšší soud České republiky projednal dne 21. ledna 2008 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na zápis odsouzení cizozemským soudem do evidence Rejstříku trestů, a rozhodl t a k t o :
+Podle § 4 odst. 2 zákona č. 269/1994 Sb. se do evidence Rejstříku trestů zaznamenají údaje o odsouzení občana České republiky J. P., rozsudkem Zemského soudu Wien, Rakouská republika, ze dne 29. 5. 2007, sp. zn. 31 Hv 65/2007i, a to pro trestný čin krádeže vloupáním, pokus trestného činu krádeže vloupáním, trestný čin krádeže dokladů a trestný čin krádeže platební karty podle § 127, § 129 č. 1, § 130 věta druhá, § 15, § 229 odst. 1, § 241e odst. 3 trestního zákoníku Rakouské republiky, k trestu odnětí svobody v délce trvání patnácti měsíců.
+O d ů v o d n ě n í :
+Výše uvedeným rozsudkem Zemského soudu Wien, Rakouská republika, byl J. P. uznán vinným trestným činem krádeže vloupáním, pokusem trestného činu krádeže vloupáním, trestným činem krádeže dokladů a trestným činem krádeže platební karty podle shora uvedených ustanovení právních předpisů Rakouské republiky a odsouzen k trestu odnětí svobody v délce trvání patnácti měsíců.
+Uvedené trestné činnosti se odsouzený dopustil podle zjištění soudu tím, že poté, co se vloupal do osobních vozidel jednotlivých poškozených s cílem krádeží rozličných předmětů získat finanční prospěch a neoprávněně se obohatit
+1. dne 25. 9. 2006 odcizil poškozenému A. P. autorádio v hodnotě 189 EUR, řidičský průkaz vystavený na jméno A. P. a platební kartu vystavenou na jméno A. P.,
+2. v době mezi 30. 9. a 1. 10. 2006 odcizil poškozené H. S. autorádio v hodnotě 200 EUR,
+3. dne 1. 10. 2006 odcizil poškozenému Z. B. autorádio v hodnotě 180 EUR a mobilní telefon v hodnotě 100 EUR,
+4. dne 10. 1. 2007 odcizil poškozenému N. P. sluneční brýle v hodnotě 50 EUR,
+5. dne 10. 1. 2007 odcizil poškozenému A. H. CD přehrávač a autorádio v hodnotě 400 EUR,
+6. dne 15. 4. 2007 se pokusil odcizit autorádio poškozené L. Ch.,
+7. dne 15. 4. 2007 se pokusil odcizit autorádio poškozené T. M.
+Ministerstvo spravedlnosti České republiky podalo dne 14. 11. 2007, pod sp. zn. 929/2007–MO–T/6, podle § 4 odst. 2 zákona č. 269/1994 Sb., o Rejstříku trestů (dále jen „zákon“), Nejvyššímu soudu České republiky (dále jen „Nejvyšší soud“) návrh na zapsání výše uvedeného odsouzení rakouským soudem do evidence Rejstříku trestů České republiky. Tento návrh byl doručen Nejvyššímu soudu dne 16. 11. 2007.
+Nejvyšší soud věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro zápis odsouzení cizozemským soudem do evidence Rejstříku trestů.
+Především je třeba uvést, že podle § 4 odst. 2 zákona může Nejvyšší soud na návrh Ministerstva spravedlnosti České republiky rozhodnout, že se do evidence Rejstříku trestů zaznamenají též údaje o odsouzení občana České republiky cizozemským soudem, jestliže se týká činu, který je trestným i podle právního řádu České republiky a zápis do evidence je odůvodněn závažností činu a druhem trestu, který za něj byl uložen. Dále je nutno připomenout, že pokud Nejvyšší soud rozhodne o zaznamenání údajů o odsouzení do evidence Rejstříku trestů, hledí se na takové odsouzení cizozemským soudem jako na odsouzení soudem České republiky (§ 4 odst. 4 zákona).
+Z podaného návrhu a z obsahu připojeného spisového materiálu vyplývá, že odsouzený J. P. je občanem České republiky, který byl odsouzen cizozemským soudem, přičemž se odsouzení týká skutků, které vykazují znaky trestných činů i podle příslušných právních předpisů České republiky (trestný čin krádeže podle § 247 tr. zák. resp. pokus o takový trestný čin podle § 8 odst. 1 tr. zák. a § 247 tr. zák., popř. též trestný čin neoprávněného držení platební karty podle § 249b tr. zák.). Tím jsou splněny formální podmínky ustanovení § 4 odst. 2 zákona.
+V posuzované věci jsou dány i podmínky materiální povahy. Odsouzený J. P. se pro finanční prospěch dopustil úmyslné majetkové trestné činnosti. Jednal přitom v takovém rozsahu (v celkem sedmi případech se vloupal do osobních automobilů a krádežemi způsobil přinejmenším škodu nikoliv malou), že již lze tuto jeho trestnou činnost označit za závažnou ve smyslu § 4 odst. 2 zákona. Pokud jde o druh trestu, byl mu uložen již poměrně citelný trest odnětí svobody. Lze tedy dovodit, že podmínky ustanovení § 4 odst. 2 zákona týkající se závažnosti činu a druhu uloženého trestu jsou splněny.
+Z uvedených důvodů proto Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 21. ledna 2008
+Předseda senátu: JUDr. Karel Hasch
