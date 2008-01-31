@@ -1,0 +1,18 @@
+32 Odo 621/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Dese a soudců JUDr. Františka Faldyny, CSc. a JUDr. Miroslava Galluse ve věci žalobce A. N., zastoupeného JUDr. R. H., advokátem, se proti žalované R . R.v.o.s. – v likvidaci, o zaplacení částky 83 814 Kč s příslušenstvím, vedené u Krajského soudu v Brně pod sp. zn. 43 Cm 986/99, o dovolání žalobce proti rozsudku Vrchního soudu v Olomouci ze dne 6. května 2004 č. j. 4 Cmo 146/2003-104, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Brně rozsudkem ze dne 4. října 2002 č. j. 43 Cm 986/99-74 zamítl žalobu, jíž se žalobce domáhal po žalované zaplacení částky 83 814 Kč s 26% úrokem od 10. 8. 1997 do zaplacení, a rozhodl o náhradě nákladů řízení.
+K odvolání žalobce Vrchní soud v Olomouci rozsudkem ze dne 6. května 2004 č. j. 4 Cmo 146/2003-104 rozsudek soudu prvního stupně potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Proti rozsudku odvolacího soudu podal žalobce dovolání a uvedl, že nesouhlasí se závěry odvolacího soudu i se závěry soudu prvního stupně.
+Vzhledem k tomu, že žalobce nebyl při podání dovolání zastoupen podle § 241 občanského soudního řádu (dále jen „o. s. ř.“) advokátem, přičemž byl usnesením soudu prvního stupně ze dne 15. února 2005 č. j. 43 Cm 986/99-124 osvobozen od soudních poplatků pro dovolací řízení a tudíž jsou u něj splněny podmínky pro ustanovení zástupce ve smyslu § 30 o. s. ř., soud prvního stupně usnesením ze dne 23. ledna 2006 č. j. 43 Cm 986/99-161 ustanovil jeho zástupcem JUDr. R. H., advokáta.
+Usnesením ze dne 10. března 2006 č. j. 43 Cm 986/99-164, které bylo zástupci žalobce doručeno dne 15. března 2006, soud prvního stupně vyzval žalobce, aby ve lhůtě do 15 dnů od doručení usnesení doplnil své dovolání o náležitosti uvedené v § 241a o. s. ř., tj. aby uvedl dovolací důvod, označení důkazů, které by měly být provedeny k prokázání důvodu dovolání, a dovolací návrh, přičemž ho poučil, že v případě nesplnění této výzvy nebude moci být pokračováno v dovolacím řízení. Tato výzva tedy v sobě zahrnuje i požadavek, aby ustanovený zástupce žalobce nahradil dovolání podané žalobcem svým podáním, které by obsahovalo všechny náležitosti pro dovolání předepsané.
+V posuzované věci tudíž žalobce podal dovolání proti rozsudku odvolacího soudu, aniž byl při tomto úkonu zastoupen advokátem, přičemž nebylo prokázáno (ani tvrzeno), že by sám měl právnické vzdělání. Žalobci ustanovený advokát JUDr. R. H. na výzvu soudu prvního stupně do dnešního dne nereagoval.
+Povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, bez jejíhož splnění nelze vydat – s výjimkou usnesení, jímž se dovolací řízení pro tento nedostatek zastavuje – rozhodnutí, kterým se řízení končí. Povinné zastoupení odvolatele přitom zahrnuje nejen podání dovolání, ale též jeho sepsání (§ 241 odst. 4 o. s. ř.). Protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu prvního stupně do dnešního dne nedošlo, Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) podle § 243c a § 104 odst. 2 poslední věty o. s. ř. dovolací řízení zastavil.
+Dovolatel z procesního hlediska zavinil, že dovolací řízení bylo zastaveno, žalované však ve stádiu dovolacího řízení náklady nevznikly. Této procesní situaci odpovídá ve smyslu ustanovení § 146 odst. 2 věty první, § 224 odst. 1 a § 243b odst. 5 o. s. ř. výrok o tom, že na náhradu nákladů dovolacího řízení nemá žádný z účastníků právo.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 31. ledna 2008
+JUDr. Zdeněk D e s
+předseda senátu
