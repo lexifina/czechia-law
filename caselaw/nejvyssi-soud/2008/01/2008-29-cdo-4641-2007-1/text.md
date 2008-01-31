@@ -1,0 +1,14 @@
+29 Cdo 4641/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudců JUDr. Ivany Štenglové a Mgr. Petra Šuka v právní věci žalobce T. K., zastoupeného JUDr. Milanem Zábržem, advokátem, se sídlem v Brně, Veveří 57, PSČ 602 00, proti žalované Z. M. P., zastoupené Jitkou Stanoevovou, advokátkou, se sídlem v Brně, Chládkova 3, PSČ 616 00, o námitkách proti směnečnému platebnímu rozkazu, vedené u Krajského soudu v Brně pod sp. zn. 22 Cm 75/2005, o dovolání žalobce proti rozsudku Vrchního soudu v Olomouci ze dne 24. dubna 2007, č.j. 7 Cmo 498/2006-89, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Vrchní soud v Olomouci v záhlaví označeným rozsudkem potvrdil rozsudek ze dne 16. června 2006, č.j. 22 Cm 75/2005-68, jímž Krajský soud v Brně zrušil směnečný platební rozkaz ze dne 20. května 2005, č.j. 22 Sm 311/2004-12, ztotožňuje se s jeho závěrem o neplatnosti směnky pro rozpor mezi ve směnce uvedeným platebním místem (viz „místo placení Brno“) a domicilem (viz „splatno u F. M., B.“).
+Proti rozsudku odvolacího soudu podal žalobce dovolání, odkazuje co do jeho přípustnosti na ustanovení § 237 odst. 1 písm. c) občanského soudního řádu (dále jen „o. s. ř.“). Dovolatel namítá, že „neměl v úmyslu uvádět domicil jako místo platební, ale naopak vždy považoval jako místo placení Brno“, přičemž „adresa oprávněného byla uvedena na směnce jako konkretizující jeho osobu, nikoliv jako domicil“. Současně zdůrazňuje, že je-li směnka absolutně neplatná, nemohl soud prvního stupně rozhodnout (směnečným platebním rozkazem) v jeho prospěch. Navíc výstavcem směnky byla žalovaná, která tak - při akceptaci závěru o neplatnosti směnky - způsobila dovolatelce škodu.
+Dovolání žalobce, které není přípustné podle ustanovení § 237 odst. 1 písm. a) a b) o. s. ř., Nejvyšší soud neshledal - vzhledem k závěrům formulovaným např. v rozsudku Nejvyššího soudu ze dne 28. června 2006, sp. zn. 29 Odo 1645/2005, důvodech usnesení Nejvyššího soudu ze dne 2. ledna 2007, sp. zn. 29 Odo 996/2005, jakož i v rozhodnutí Vrchního soudu v Praze ze dne 30. června 1999, sp. zn. 9 Cmo 160/99, uveřejněném v časopise Obchodní právo, číslo 11, ročník 1999 a vzhledem k právní nevýznamnosti výhrad ohledně vzniku škody, (ne)možnosti vydat směnečný platební rozkaz a „úmyslu uvádět domicil“ - přípustným ani podle ustanovení § 237 odst. 1 písm. c) o. s. ř.; proto je podle ustanovení § 243b odst. 5 a § 218 písm. c) o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalobce bylo odmítnuto a žalované podle obsahu spisu v dovolacím řízení náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 31. ledna 2008
+JUDr. Petr G e m m e l
+předseda senátu
