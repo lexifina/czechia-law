@@ -1,0 +1,21 @@
+26 Cdo 3580/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně
+Doc. JUDr. Věry Korecké, CSc., a soudců JUDr. Miroslava Feráka a JUDr. Marie Vokřinkové ve věci žalobce Ing. R. H., zastoupeného advokátem, proti žalované V. L., zastoupené advokátem, o zaplacení částky 7.878,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 7 pod sp.zn. 6 C 11/2004, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 8. února 2006, č.j. 11 Co 337/2005-63, takto:
+I. Dovolání se odmítá.
+II. Žalobce je povinen zaplatit žalované na náhradě nákladů dovolacího řízení částku 1.575,- Kč, k rukám advokáta, do tří dnů od právní moci tohoto usnesení.
+O d ů v o d n ě n í :
+Městský soud v Praze (soud odvolací) rozsudkem ze dne 8. 2. 2006, č.j. 11 Co 337/2005-63, potvrdil rozsudek ze dne 24. 9. 2004, č.j. 6 C 11/2004-26, kterým Obvodní soud pro Prahu 7 (soud prvního stupně) zamítl žalobu na zaplacení částky 7.878,- Kč s příslušenstvím a rozhodl o nákladech řízení; dále rozhodl o nákladech odvolacího řízení. Odvolací soud dospěl ve shodě se soudem prvního stupně k závěru, že žalobci nelze požadovanou částku (představující rozdíl mezi tzv. tržním nájemným a nájemným zaplaceným za měsíc říjen 2003) přiznat, neboť nemá oporu v zákoně.
+Proti rozsudku odvolacího soudu podal žalobce dovolání, jehož přípustnost opřel o ustanovení § 237 odst. 1 písm. c) o.s.ř. a s poukazem na judikaturu Ústavního soudu České republiky v něm vyjádřil nesouhlas s právním posouzením věci odvolacím soudem.
+Žalovaná ve svém dovolacím vyjádření vyvracela námitky dovolatele a navrhla, aby dovolání bylo odmítnuto.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) po zjištění, že dovolání bylo podáno včas, osobou k tomu oprávněnou – účastníkem řízení (§ 240 odst. 1 o.s.ř.), se nejprve zabýval otázkou přípustnosti tohoto mimořádného opravného prostředku.
+Dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští (§ 236 odst. 1 o.s ř.).
+Dovolání je přípustné proti rozhodnutí odvolacího soudu, jímž bylo změněno rozhodnutí soudu prvního stupně ve věci samé (§ 237 odst. 1 písm. a/ o.s.ř.), nebo jímž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil (§ 237 odst. 1 písm. b/ o.s.ř.). Dovolání je dále přípustné proti rozhodnutí odvolacího soudu, jímž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam (§ 237 odst. 1 písm. c/ o.s.ř.). Dovolání podle § 237 odst. 1 o.s.ř. však není podle § 237 odst. 2 písm. a) o.s.ř. přípustné ve věcech, v nichž dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 20.000,- Kč a v obchodních věcech 50.000,- Kč; k příslušenství pohledávky se přitom nepřihlíží.
+V dané věci žalobce napadá dovoláním rozsudek odvolacího soudu, jímž bylo potvrzujícím výrokem rozhodnuto o peněžitém plnění ve výši 7.878,- Kč, tedy o částce nepřevyšující 20.000,- Kč; přípustnost dovolání je tudíž výslovně vyloučena ustanovením § 237 odst. 2 písm. a) o.s.ř.
+Nejvyšší soud proto dovolání podle § 243b odst. 5 věty první a § 218 písm. c) o.s.ř. jako nepřípustné odmítl.
+O náhradě nákladů dovolacího řízení dovolací soud rozhodl podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř. a zavázal žalobce, který po procesní stránce zavinil, že jeho dovolání muselo být odmítnuto, k náhradě nákladů dovolacího řízení, které žalované vznikly v souvislosti s podáním vyjádření k dovolání prostřednictvím advokáta. Tyto náklady sestávají z odměny advokáta v částce 1.500,- Kč (§ 2 odst. 1, § 3 odst. 1 bod 4, § 15 ve spojení s § 14 odst. 1, § 18 odst. 1 vyhlášky č. 484/2000 Sb., ve znění do 31. 8. 2006), a z paušální částky náhrad hotových výdajů ve výši 75,- Kč, jež stojí vedle odměny (srov. § 2 odst. 1, § 13 odst. 1 a 3 vyhlášky č. 177/1996 Sb., ve znění do 31. 8. 2006).
+Proti tomuto usnesení není opravný prostředek přípustný.
+Nesplní-li povinný dobrovolně, co mu ukládá vykonatelné rozhodnutí, může oprávněná podat návrh na soudní výkon rozhodnutí.
+V Brně dne 20. února 2008
+Doc. JUDr. Věra Korecká, CSc., v. r.
+předsedkyně senátu
