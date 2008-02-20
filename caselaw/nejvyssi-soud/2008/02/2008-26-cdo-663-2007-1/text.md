@@ -1,0 +1,26 @@
+26 Cdo 663/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně
+Doc. JUDr. Věry Korecké, CSc., a soudců JUDr. Marie Vokřinkové a JUDr. Miroslava Feráka ve věci žalobce S. b. d. P., proti žalované D. A., o přivolení k výpovědi z nájmu bytu, vedené u Okresního soudu v Přerově pod sp.zn. 13 C 328/2004, o dovolání žalované proti usnesení Krajského soudu v Ostravě – pobočky v Olomouci ze dne 30. září 2005, č.j. 12 Co 616/2005-48, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Přerově (soud prvního stupně) rozsudkem ze dne 20. 4. 2005, č.j. 328/2004-31, přivolil k výpovědi z nájmu žalované k družstevnímu bytu č. 8, sestávajícímu ze tří pokojů, kuchyně a příslušenství, v P., Pod Valy č. 204/10, určil, že nájemní poměr skončí uplynutím tříměsíční výpovědní lhůty a uložil žalované byt vyklidit do 15 dnů od zajištění přístřeší; dále rozhodl o nákladech řízení.
+Krajský soud v Ostravě – pobočka v Olomouci (soud odvolací), poté, co žalobce vzal podáním doručeným soudu prvního stupně dne 7. 9. 2005 žalobu v plném rozsahu zpět, usnesením ze dne 30. 9. 2005, č.j. 12 Co 616/2005-48, zrušil rozsudek soudu prvního stupně a řízení zastavil; současně rozhodl o nákladech řízení před soudy obou stupňů.
+Proti usnesení odvolacího soudu podala žalovaná dovolání, které doplnila do protokolu sepsaného u soudu prvního stupně dne 9. 3. 2006 (č.l. 59 spisu).
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) shledal, že dovolání bylo podáno včas, osobou k tomu oprávněnou – účastnicí řízení (§ 240 odst. 1 o.s.ř.), že však nejsou dány podmínky pro jeho věcné projednání.
+Podle § 241 odst. 1 o.s.ř., není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. To neplatí, je-li dovolatelem fyzická osoba, která má právnické vzdělání (§ 241 odst. 2 písm. a/ o.s.ř.), anebo je-li dovolatelem právnická osoba, stát, obec nebo vyšší územně samosprávný celek, jedná-li za ně osoba uvedená v § 21, § 21a, anebo v § 21b, která má právnické vzdělání (§ 241 odst. 2 písm. b/ o.s.ř.), popřípadě je-li dovolatelem obec, kterou zastupuje stát podle § 26a, jedná-li jménem státu za zastoupenou obec osoba uvedená v § 26a odst. 3 o.s.ř., která má právnické vzdělání (§ 241 odst. 3 o.s.ř.). Dovolání musí být sepsáno, s výjimkou případu uvedeného v § 241 odst. 2 písm. a) o.s.ř., advokátem, notářem nebo osobou uvedenou v § 21, § 21a, § 21b, anebo v § 26a odst. 3 o.s.ř., která má právnické vzdělání (§ 241 odst. 4 o.s.ř.).
+Povinné zastoupení je zvláštní podmínkou dovolacího řízení týkající se dovolatele, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění není možno
+o dovolání věcně rozhodnout. Podle § 104 odst. 2 věty první a třetí o.s.ř. jde-li
+o nedostatek podmínky řízení, který lze odstranit, učiní k tomu soud vhodná opatření. Nezdaří-li se nedostatek podmínky řízení odstranit, řízení zastaví.
+Protože žalovaná, která je fyzickou osobou, nebyla zastoupena advokátem a z obsahu spisu nevyplývalo, že by sama měla právnické vzdělání, byla soudem prvního stupně (jak vyplývá z protokolu sepsaného u Okresního soudu v Přerově dne 9. 3. 2006 /č.l. 59 spisu/) poučena o povinném zastoupení advokátem v dovolacím řízení
+a následně – poté, co soud prvního stupně pravomocným usnesením ze dne 22. 5. 2006, č.j. 13 C 328/2004-75, rozhodl, že se žalované nepřiznává osvobození od soudních poplatků a že se jí neustanovuje zástupce k ochraně práv po dovolací řízení, a co odvolací soud usnesením ze dne 12. 10. 2006, č.j. 12 Co 871/2006-82, odvolání žalované proti tomuto usnesení odmítl – vyzvána usnesením soudu prvního stupně ze dne 19. 12. 2006, č. j. 13 C 328/2004-86, aby si ve stanovené lhůtě 10 dnů zvolila zástupcem advokáta a aby jeho prostřednictvím podala řádné dovolání; opakovaně byla poučena o povinném zastoupení advokátem a o tom, že nevyhoví-li této výzvě, bude dovolací řízení zastaveno. Přestože uvedené usnesení bylo žalované doručeno dne
+29. 12. 2006 (viz doručenku na č.l. 86 verte spisu), výzvě soudu ve stanovené lhůtě nevyhověla a nedostatek povinného zastoupení neodstranila. Žádost dovolatelky o „prodloužení lhůty na doplnění návrhu až do doby, kdy ukončí pracovní neschopnost
+a bude moci se spojit s některým právníkem“, učiněná v jejím podání ze dne 25. 1. 2007, nemá na běh lhůty, která byla dovolatelce určena k odstranění nedostatku povinného zastoupení, žádný vliv.
+Z uvedeného vyplývá, že zákonem stanovená podmínka dovolacího řízení podle § 241 odst. 1 věty první o.s.ř. ve spojení s § 241 odst. 4 o.s.ř. nebyla, přes soudem prvního stupně provedená opatření, ve stanovené lhůtě (ani do dnešního dne) splněna.
+Nejvyšší soud proto dovolací řízení pro nedostatek uvedené podmínky řízení podle § 243c odst. 1 a § 104 odst. 2 věty třetí o.s.ř. zastavil.
+Výrok o nákladech řízení se opírá o ustanovení § 243b odst. 5 věty první, § 224 odst. 1, § 146 odst. 2 věty první o.s.ř. a o skutečnost, že žalobci nevznikly v dovolacím řízení prokazatelné náklady, na jejichž náhradu by jinak měl proti dovolatelce právo.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 20. února 2008
+Doc. JUDr. Věra Korecká, CSc., v. r.
+předsedkyně senátu
