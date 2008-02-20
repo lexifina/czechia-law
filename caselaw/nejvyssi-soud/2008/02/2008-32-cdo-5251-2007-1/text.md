@@ -1,0 +1,19 @@
+32 Cdo 5251/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Kateřiny Hornochové a soudců JUDr. Františka Faldyny, CSc. a JUDr. Miroslava Galluse ve věci žalobkyně L. L., zastoupené Mgr. J. B., advokátem proti žalovaným 1) L. K., zastoupeným opatrovnicí P. K., pracovnicí Okresního soudu v Ch., 2) V. H., a 3) X. K., o zaplacení částky 66.426,60 Kč s příslušenstvím, vedené u Okresního soudu v Chomutově pod sp. zn. 21 C 241/2002, o dovolání 2. žalované V. H. proti usnesení Krajského soudu v Ústí nad Labem ze dne 25. října 2007, č. j. 17 Co 378/2007-75, takto:
+Dovolání se odmítá.
+Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Krajský soud v Ústí nad Labem usnesením ze dne 25. října 2007, č. j. 17 Co 378/2007-75, odmítl odvolání druhé žalované proti rozsudku Okresního soudu v Chomutově 21 C 241/2002-64 ze dne 9. 8. 2007 (výrok I.). Dále rozhodl o nepřiznání náhrady nákladů odvolacího řízení žádnému z účastníků (výrok II.). Odvolací soud dospěl k závěru, že přes výzvu soudu prvního stupně ze dne 12. září 2007, č. j. 21 C 241/2002-72, kterým byla druhá žalovaná vyzvána, aby ve lhůtě 10-ti dnů od doručení usnesení doplnila své odvolání o údaj, v čem spatřuje nesprávnost postupu soudu prvního stupně při rozhodnutí, tedy o odvolací důvod, a dále o odvolací návrh, tj. jak má být odvolacím soudem rozhodnuto s tím, že byla poučena o následku neodstranění vad odvolání, druhá žalovaná vady odvolání neodstranila. Vzhledem k tomu, že tyto vady brání projednatelnosti odvolání, odvolací soud je ve smyslu § 211 a § 43 odst. 2 o. s. ř. za použití § 214 odst. 2 písm. a) o. s. ř. odmítl.
+Proti usnesení odvolacího soudu podala druhá žalovaná opravný prostředek označený jako odvolání, v němž uvedla, že žádá, aby její odvolání soud znovu projednal.
+Podle § 41 odst. 2 o. s. ř. posuzuje soud každý úkon účastníka podle jeho obsahu, i když je úkon nesprávně označen. V dané věci druhá žalovaná označila svoje podání jako odvolání. Z okolností, které podání obsahuje, zejména uvedení spisové značky rozhodnutí, které druhá žalovaná napadá, je však nepochybné, že proti usnesení odvolacího soudu podává dovolání, neboť se jedná o jediný mimořádný opravný prostředek, kterým lze pravomocné rozhodnutí odvolacího soudu napadnout.
+Dovolání v této věci není přípustné.
+Podle ustanovení § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Přípustnost dovolání proti usnesení odvolacího soudu upravují ustanovení § 237 až 239 o. s. ř.
+Usnesení odvolacího soudu jímž bylo odmítnuto odvolání druhé žalované proti rozsudku soudu prvního stupně ve smyslu § 211 a § 43 odst. 2 o. s. ř. za použití § 214 odst. 2 písm. a) o. s. ř., nelze podřadit žádnému z usnesení, proti nimž zákon připouští dovolání v ustanoveních § 238, 238a a § 239 o. s. ř.
+Dovolání není přípustné ani podle ustanovení § 237 o. s. ř. upravujícího přípustnost dovolání proti usnesení odvolacího soudu, ovšem za podmínky, že jde o usnesení ve věci samé. Protože usnesení odvolacího soudu, jímž soud odmítl odvolání druhé žalované proti rozsudku soudu prvního stupně, však nemá povahu rozhodnutí ve věci samé, není dovolání přípustné ani podle § 237 o. s. ř.
+Tento závěr s sebou nese konečně posouzení podaného dovolání jako nepřípustného.
+Nejvyšší soud České republiky jej proto, aniž nařizoval jednání (§ 243a odst. 1, věta první o. s. ř.) odmítl pro nepřípustnost &#61531;§ 243b odst. 2 věta první, § 218 písm. c) o. s. ř.&#61533;.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanoveními § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 3 o. s. ř. Dovolání druhé žalované bylo odmítnuto, ostatním účastníkům v souvislosti s dovolacím řízením podle obsahu spisu žádné prokazatelné náklady nevznikly.
+Proti tomuto rozhodnutí není opravný prostředek přípustný.
+V Brně dne 20. února 2008
+JUDr. Kateřina H o r n o c h o v á
+předsedkyně senátu
