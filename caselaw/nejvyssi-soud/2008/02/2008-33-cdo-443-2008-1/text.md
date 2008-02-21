@@ -1,0 +1,17 @@
+33 Cdo 443/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Blanky Moudré a soudců JUDr. Ivany Zlatohlávkové a JUDr. Václava Dudy ve věci žalobkyně I C. L., proti žalovanému P. B., o zaplacení částky 27.200,- Kč s příslušenstvím a smluvní pokuty ve výši 3.122,- Kč, vedené u Okresního soudu v K. pod sp. zn. 9 C 73/2004, o dovolání žalovaného proti usnesení Krajského soudu v B. – p. v. Z. ze dne 17. září 2007, č. j. 60 Co 240/2006-144, takto :
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v B. – p. v. Z. usnesením ze dne 17. září 2007, č. j. 60 Co 240/2006-144, vyhověl návrhu žalobce, aby do řízení na místo dosavadního žalobce L. Č. s., a. s. vstoupila obchodní společnost D&#61478;I C. L.
+Žalovaný podal proti usnesení odvolacího soudu dovolání, ve kterém namítá, že vstup jiného žalobce do řízení na místo L. Č. s., a. s. je irelevantní, a popisuje vlastní verzi skutkového stavu věci.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a zákona č. 99/1963 Sb., občanského soudního řádu, v platném znění, dále jen „o. s. ř.“) po zjištění, že dovolání proti pravomocnému usnesení odvolacího soudu bylo podáno včas, osobou k tomu oprávněnou - účastníkem řízení a že je přípustné podle § 239 odst. 1 písm. b/ o. s. ř., se dále zaměřil na posouzení otázky, zda jsou splněny všechny podmínky dovolacího řízení.
+Podle § 241 odst. 1 věty první o. s. ř. není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Odstavec první citovaného ustanovení neplatí, je-li dovolatelem fyzická osoba, která má právnické vzdělání (§ 241 odst. 2 písm. a/ o. s. ř.). Podle odstavce 4 téhož ustanovení dovolání fyzické osoby musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a/, advokátem nebo notářem. Povinné zastoupení je tak zvláštní podmínkou dovolacího řízení týkající se dovolatele, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění není možno vydat rozhodnutí, jímž se řízení končí. Podle § 104 odst. 2 o. s. ř. jde-li o nedostatek podmínky řízení, který lze odstranit, učiní soud k tomu vhodná opatření. Nezdaří-li se nedostatek podmínky řízení odstranit, řízení zastaví.
+Žalovaný, který nebyl při podání dovolání zastoupen advokátem (a z obsahu spisu ani nevyplývá, že by měl právnické vzdělání), byl usnesením soudu prvního stupně ze dne 19. prosince 2007, č. j. 9 C 73/2004-172, vyzván, aby si pro podání dovolání zvolil zástupcem advokáta a aby jeho prostřednictvím podal řádné dovolání. Současně byl poučen, že pokud tak ve lhůtě 20 dnů od doručení výzvy neučiní, bude dovolací řízení zastaveno. Usnesení bylo žalovanému doručeno 28. 12. 2007. Nedostatek advokátního zastoupení žalovaný v soudem stanovené lhůtě neodstranil.
+Z řečeného plyne, že přes opatření provedená soudem prvního stupně žalovaný nesplnil zákonem stanovenou podmínku dovolacího řízení ve smyslu § 241 odst. 1 věty první a odst. 4 o. s. ř. Dovolací soud proto řízení o dovolání zastavil (§ 241b odst. 2 část věty před středníkem a § 104 odst. 2 věta třetí o. s. ř.).
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 146 odst. 1 písm. c/ a § 151 odst. 1 o. s. ř. za stavu, kdy žalobkyni v této fázi řízení nevznikly žádné náklady, na jejichž náhradu by jinak měla vůči žalovanému právo (§ 146 odst. 2 věta první o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 21.února 2008
+JUDr. Blanka M o u d r á
+předsedkyně senátu
