@@ -1,0 +1,15 @@
+20 Cdo 2567/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové a soudců JUDr. Pavla Krbka a JUDr. Vladimíra Mikuška ve věci výkonu rozhodnutí oprávněné V. z. p. Č. r., proti povinné V. Š., pro 17 399,- Kč, srážkami z příjmu, vedené u Okresního soudu v Karviné – pobočky v Havířově pod sp. zn. 127 E 1375/2006, o dovolání povinné proti usnesení Krajského soudu v Ostravě ze dne 28. 2. 2007, č.j. 10 Co 167/2007-10, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádná z účastnic nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Povinná napadla dovoláním v záhlaví uvedené rozhodnutí, kterým krajský soud potvrdil usnesení Okresního soudu v Karviné – pobočky v Havířově ze dne 18. 12. 2006, č.j. 127 E 1375/2006-4, jímž okresní soud nařídil podle platebních výměrů oprávněné ze dne 3. 11. 1998, č. 4440219553 a č. 2140219565, výkon rozhodnutí.
+Protože dovolání mělo nedostatky bránící dalšímu pokračování dovolacího řízení a nebylo ani sepsáno advokátem, přičemž ze spisu nevyplývalo, že by povinná byla právnicky vzdělána, soud ji usnesením ze dne 2. 5. 2007, doručeným jí 15. 5. 2007, vyzval, aby si ve lhůtě 10 dnů od doručení usnesení zvolila zástupcem advokáta a jeho prostřednictvím podala řádné dovolání; zároveň ji poučil, že dovolání musí být advokátem sepsáno a že nevyhoví-li výzvě, Nejvyšší soud dovolací řízení zastaví. Dovolatelka však vytčený nedostatek neodstranila.
+Z ustanovení § 241 odst. 1, 2 písm. a), odst. 4 zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů (dále jen „o.s.ř.“), plyne, že dovolatel (fyzická osoba), nemá-li právnické vzdělání, musí být zastoupen advokátem (příp. notářem), jenž musí dovolání také sepsat. Zvolí-li si advokáta až poté, co sám podal dovolání, je ke splnění podmínky dovolatelova zastoupení nezbytné, aby zmocněnec (advokát) jím dříve učiněné podání nahradil nebo doplnil vlastním, popř. sdělil soudu, že se s již učiněným podáním ztotožňuje.
+Protože podmínka povinného zastoupení dovolatele v dovolacím řízení (k jejímuž splnění je třeba i sepisu dovolání advokátem, viz usnesení Nejvyššího soudu ze dne 27. 5. 1999, sp. zn. 26 Cdo 1121/99, uveřejněné v Soudní judikatuře č. 6, ročník 2000 pod č. 64) je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – kromě usnesení, kterým se dovolací řízení právě pro neodstranění tohoto nedostatku zastavuje – vydání rozhodnutí, jímž se řízení končí (§ 241 odst. 1 o.s.ř.), a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu nedošlo, Nejvyšší soud řízení o dovolání podle § 104 odst. 2 a § 243c odst. 1 o.s.ř. zastavil.
+Povinná z procesního hlediska zavinila, že dovolací řízení bylo zastaveno, oprávněné však v tomto stádiu řízení náklady nevznikly; tomu odpovídá výrok, že na náhradu nákladů dovolacího řízení nemá žádná z nich právo (§ 243b odst. 5, věta první, § 224 odst. 1, § 146 odst. 2, věta první, o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. února 2008
+JUDr. Miroslava Jirmanová, v. r.
+předsedkyně senátu
