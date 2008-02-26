@@ -1,0 +1,24 @@
+20 Cdo 324/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové a soudců JUDr. Pavla Krbka a JUDr. Vladimíra Mikuška v exekuční věci oprávněné A. I. a.s., zastoupené advokátem, proti povinné I. S., zastoupené advokátem, pro 69 250,- Kč s příslušenstvím, vedené u Okresního soudu v Trutnově pod sp. zn. 13 Nc 4426/2004, o dovolání povinné proti usnesení Krajského soudu v Hradci Králové ze dne 27. 3. 2006, č.j. 26 Co 593/2005-36, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+V záhlaví uvedeným rozhodnutím krajský soud potvrdil usnesení ze dne 1. 11. 2004, č.j. 13 Nc 4426/2004-8, ve znění opravného usnesení ze dne 1. 2. 2006, č.j. 13 Nc 4426/2004-28, jímž okresní soud nařídil podle rozhodčího nálezu ze dne 23. 4. 2004, č.j. RN/BL/Pul/Ped/-Auto Infinity- Sárkoziová/2004290, exekuci a jejím provedením pověřil Mgr. R. B., soudního exekutora.
+Povinná podala proti rozhodnutí odvolacího soudu dovolání (tzv. blanketní).
+Oprávněná se ve svém vyjádření ztotožnila se závěry odvolacího soudu.
+Nejvyšší soud věc projednal podle zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o.s.ř.“), ve znění účinném do 31. 3. 2005 (čl. II, bod 3. zákona č. 59/2005 Sb.).
+Dovolání není přípustné.
+Podle ustanovení § 236 odst. 1 o.s.ř. lze dovoláním napadnout jen pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Ve smyslu ustanovení § 237 odst. 1 písm. c) o.s.ř. – jež podle § 238a odst. 2 o.s.ř. platí obdobně a podle něhož je přípustnost dovolání nutno v předmětné věci posuzovat vedle ustanovení § 238a odst. 1 písm. c) o.s.ř. a § 130 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů ve znění pozdějších předpisů (dále jen „zákon č. 120/2001 Sb.“) – je dovolání proti potvrzujícímu usnesení odvolacího soudu, jemuž nepředcházelo kasační rozhodnutí, přípustné jen, dospěje-li dovolací soud k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam; ten je dán zejména tehdy, řeší-li rozhodnutí odvolacího soudu právní otázku, která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo která je odvolacími soudy nebo dovolacím soudem rozhodována rozdílně, nebo řeší-li ji v rozporu s hmotným právem (§ 237 odst. 3 o.s.ř.).
+Z toho, že přípustnost dovolání je ve smyslu shora citovaných ustanovení spjata se závěrem o zásadním významu rozhodnutí ve věci samé po právní stránce, vyplývá, že také dovolací přezkum se otevírá pro posouzení otázek právních, navíc otázek zásadního významu. Důvodem způsobilým založit přípustnost dovolání je tudíž jen důvod podle § 241a odst. 2 písm. b) o.s.ř., jímž lze namítat, že rozhodnutí spočívá na nesprávném právním posouzení věci.
+Podle § 241a odst. 1 o.s.ř. v dovolání musí být vedle obecných náležitostí (§ 42 odst. 4 o.s.ř.) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu a z jakých důvodů se toto rozhodnutí napadá, popřípadě které důkazy by měly být provedeny k prokázání důvodu dovolání a čeho se dovolatel domáhá (dovolací návrh).
+Podle § 241b odst. 3, věty první, o.s.ř. dovolání, které neobsahuje údaje o tom, v jakém rozsahu nebo z jakých důvodů se rozhodnutí odvolacího soudu napadá, může být o tyto náležitosti doplněno jen po dobu trvání lhůty k dovolání.
+Protože výše uvedený důvod (ani žádný jiný) – posuzováno podle ustanovení § 41 odst. 2 o.s.ř. – nebyl v dovolání uplatněn, nelze logicky ani uzavřít, že napadené rozhodnutí má po právní stránce zásadní význam.
+Na závěr je třeba zdůraznit, že lhůta určená v ustanovení § 241b odst. 3, věty první, o.s.ř. je lhůtou zákonnou, o jejímž prodloužení soud rozhodovat nemůže. Jestliže bylo napadené rozhodnutí doručeno zástupci dovolatelky dne 2. 5. 2006, lhůta k podání dovolání, resp. doplnění dovolání uplynula dne 3. 7. 2006, a ani lhůta 15 dnů, dodatečně stanovená k doplnění dovolání usnesením okresního soudu ze dne 5. 10. 2006, č.j. 13 Nc 4426/2004-43, na její uplynutí mít vliv nemohla (srov. též usnesení Nejvyššího soudu ze dne 18. 6. 2003, sp. zn. 29 Odo 108/2002, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek č. 3, ročník 2004 pod č. 21).
+Chybí-li tedy – po marném uplynutí lhůty podle citovaného § 241b odst. 3 o.s.ř. – důvod možného přezkumu (§ 242 odst. 3, věta první, o.s.ř.), nelze logicky ani uzavřít, že napadené rozhodnutí má po právní stránce zásadní význam. Není-li však rozhodnutí odvolacího soudu právně významné, nemůže být ani dovolání proti němu přípustné.
+Nepřípustné dovolání Nejvyšší soud nemohl než odmítnout (§ 243b odst. 5, věta první, § 218 písm. c/, os.ř.).
+O případných nákladech vzniklých oprávněné v dovolacím řízení rozhodne soudní exekutor (§ 88 odst. 1 zákona č. 120/2001 Sb.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. února 2008
+JUDr. Miroslava Jirmanová, v. r.
+předsedkyně senátu
