@@ -1,0 +1,14 @@
+11 Td 10/2008
+U S N E S E N Í
+Nejvyšší soud v trestní věci obviněného J. C., vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 6 T 19/2008 rozhodl v neveřejném zasedání konaném dne 28. 2. 2008 o příslušnosti soudu t a k t o :
+Podle § 24 odst. 1 tr. řádu j e k projednání trestní věci obviněného J. C. p ř í s l u š n ý Městský soud v Brně.
+O d ů v o d n ě n í :
+Státní zástupce Obvodního státního zastupitelství pro Prahu 4 podal dne 12. 2. 2008 Obvodnímu soudu pro Prahu 4 obžalobu na obviněného J. C. pro trestný čin podílnictví podle § 251 odst. 1 písm. a), odst. 2 tr. zák., který měl spáchat tím, že dne 24. 1. 2005 bylo vypůjčeno v pobočce E., dle nájemní smlouvy neztotožněnou osobou, která se vydávala za M. Š., os. auto tov. zn. BMW 320 D, na dobu 16-ti dnů, vypůjčitel složil zálohu 50.000,- Kč přes VISA kartu, převzal vozidlo, které nevrátil, v přesně nezjištěnou dobu os. auto BMW 320 D, předal J. C., který ho dne 26. 1. 2005 na Magistrátu města Brna, zaregistroval na svoje jméno, za to obdržel 20.000,- Kč, načež mu byla přidělena nová rz., os. auto nevrátil autopůjčovně, nýbrž ho předal neztotožněné osobě, a tak způsobil firmě E. B., škodu ve výši 738.800,- Kč.
+Usnesením Obvodního soudu pro Prahu 4 ze dne 13. 2. 2008, sp. zn. 6 T 19/2008, byla podle § 314c odst. 1 písm. a) tr. řádu, § 188 odst. 1 písm. a) tr. řádu trestní věc obviněného J. C. předložena Nejvyššímu soudu k rozhodnutí o příslušnosti s tím, že není místně příslušný k projednání věci, neboť v jeho obvodu nedošlo k žádnému z jednání obviněného naplňujícího objektivní stránku žalovaného trestného činu, ani se v tomto obvodu nezdržuje obviněný nebo poškozený, případně jiná osoba spojená s tímto případem. Místně příslušným soudem k projednání věci by měl dle názoru soudu být Městský soud v Brně, neboť v jeho obvodu došlo k přihlášení vozidla do držení obviněného.
+Nejvyšší soud zhodnotil důkazy použitelné k rozhodnutí podle § 24 tr. řádu a dospěl k tomuto závěru.
+Trestného činu podílnictví podle § 251 tr. zák. se dopouští ten, kdo ukryje, na sebe nebo jiného převede anebo užívá věc nebo jinou majetkovou hodnotu, která byla získána trestným činem spáchaným jinou osobou, nebo to, co za takovou věc nebo jinou majetkovou hodnotu bylo opatřeno. Z důkazů shromážděných v přípravném řízení je zatím zřejmé, že se obviněný J. C. inkriminovaného jednání, kterým měl předmětné osobní vozidlo na své jméno zaregistrovat, dopustil v B., a proto je v souladu s ustanovením § 18 tr. řádu, pokud žalovanou věc projedná a rozhodne Městský soud v Brně. Pro rozhodnutí o místní příslušnosti soudu k projednání věci je za tohoto stavu bezpředmětné, že některé dosud shromážděné důkazy mohou vést k úvaze o místní příslušnosti i jiného soudu.
+Z těchto důvodů bylo rozhodnuto, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 28. února 2008
+Předseda senátu:
+JUDr. Pavel Kučera
