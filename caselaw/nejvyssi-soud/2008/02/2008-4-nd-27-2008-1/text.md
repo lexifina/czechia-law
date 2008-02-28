@@ -1,0 +1,19 @@
+4 Nd 27/2008
+U S N E S E N Í
+Nejvyšší soud Česká republiky rozhodl v senátě složeném z předsedkyně JUDr. Danuše Novotné a soudců JUDr. Františka Hrabce a JUDr. Jiřího Pácala v právní věci žalobkyně D. P., zastoupené JUDr. J. N., proti žalované D. D., o určení vlastnického práva nemovitosti, vedené u Okresního soudu v Ostravě pod sp. zn. 57 C 27/2005, o návrhu na přikázání věci z důvodu vhodnosti podle § 12 odst. 2 o.s.ř., takto:
+Věc vedená u Okresního soudu v Ostravě pod sp. zn. 57 C 27/2005 s e n e p ř i k a z u j e k projednání a rozhodnutí Okresnímu soudu v Táboře.
+O d ů v o d n ě n í :
+Žalovaná navrhla přikázání věci Okresnímu soudu v Táboře z důvodu vhodnosti odůvodněné tím, že předmětné nemovitosti legálně nabyla dědictvím, které bylo projednáno v T., rozvod rodičů proběhl také v T., veškerá dokumentace ke sporu je u Okresního soudu v Táboře a u místního katastru nemovitostí. Žalovaná pracuje a pečuje o rodinu se dvěma dětmi a má za to, že by projednáním věci u jiného soudu byla více postižená než žalobkyně.
+Žalobkyně s návrhem žalované na přikázání věci Okresnímu soudu v Ostravě vyslovila nesouhlas. Tento nesouhlas odůvodňuje zásadou hospodárnosti řízení, neboť v obvodu tohoto soudu má bydliště a působí zde jí ustanovený právní zástupce; poukazuje i na náklady, které by jí vznikaly cestou do T. a zpět, když jejím jediným příjmem jsou sociální dávky.
+Podle ust. § 12 odst. 2 o.s.ř. může být věc přikázána jinému soudu téhož stupně z důvodu vhodnosti.
+Z důvodu vhodnosti lze věc přikázat k projednání a rozhodnutí jinému soudu zejména tehdy, nasvědčují-li okolnosti případu, a to ať již na straně účastníků nebo vyplývající z okolností věci (předmětu řízení apod.), že jiný soud věc projedná
+a rozhodne rychleji a hospodárněji.
+Důvody vedoucí k odnětí věci příslušnému soudu a její přikázání jinému soudu musí být natolik závažné, aby odůvodňovaly výjimku z ústavně zaručené zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon (čl. 38 odst. 1 Listiny základních práv a svobod).
+Nejvyšší soud zjistil, že Okresnímu soudu v Ostravě byla přikázána usnesením Nejvyššího soudu ze dne 24. 11. 2004 sp. zn. 20 Nd 170/2004 na základě návrhu žalobkyně odůvodněného tím, že žalobkyně jednak nemá místně příslušný soud za nezávislý, jednak tím, že by pro žalovanou jako pro nezaměstnanou bylo obtížné účastnit se jednání u Okresního soudu v Táboře. Předseda Okresního soudu v Táboře s tímto přikázáním věci vyslovil souhlas s podotknutím, že soudkyně, která měla věc projednat, mu věc předložila s vyjádřením, že se má za podjatou, přičemž důvody jejího vyloučení zjevně platí pro všechny soudce tohoto soudu.
+Nejvyšší soud tehdy shledal podmínky pro přikázání věci z důvodů uvedených v ust. § 12 odst. 1 i 2 o.s.ř., a zmíněným usnesením věc přikázal Okresnímu soudu v Ostravě.
+Z údajů obsažených ve spise není patrné, že by se ke dni nové žádosti žalované o přikázání věci Okresnímu soudu v Táboře poměry účastníků natolik výrazně změnily, aby to odůvodňovalo procesní postup, který žalovaná požaduje. K navrhovanému přikázání věci Okresnímu soudu v Táboře neshledal ani důvody, které by tyto změny opravňovaly z hlediska hospodárnosti a rychlosti řízení. Nejvyšší soud naopak konstatuje, že Okresní soud v Ostravě již v předmětné věci jednal, byť způsobem, který je právem vytýkán v usnesení Krajského soudu v Ostravě ze dne 25. 9. 2007, sp. zn. 42 Co 433/2007 na č. l. 119, a je žádoucí, aby také řízení v této věci dokončil.
+Nejvyšší soud neshledal, že by se jednalo o takové okolnosti na straně účastníků či takové okolnosti významné z hlediska hospodárnosti a rychlosti řízení, které by odůvodňovaly přikázání věci zpět Okresnímu soudu v Táboře, proto žádosti žalované na přikázání věci jinému soudu nevyhověl.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 28. února 2008
+Předsedkyně senátu:
+JUDr. Danuše Novotná
