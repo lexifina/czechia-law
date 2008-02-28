@@ -1,0 +1,14 @@
+11 Td 8/2008
+U S N E S E N Í
+Nejvyšší soud v trestní věci obviněného A. A. M., roz. D. S., vedené u Obvodního soudu pro Prahu 6 pod sp. zn. 16 T 82/2007 rozhodl v neveřejném zasedání konaném dne 28. února 2008 o příslušnosti soudu t a k t o :
+Podle § 24 odst. 1 tr. řádu j e k projednání trestní věci obviněného A. A. M. roz. D. S. p ř í s l u š n ý Okresní soud v Novém Jičíně.
+O d ů v o d n ě n í :
+Státní zástupkyně Obvodního státního zastupitelství pro Prahu 6 podala dne 30. 11. 2007 Obvodnímu soudu pro Prahu 6 obžalobu na obviněného A. A. M., roz. D. S. pro trestný čin podvodu podle § 250 odst. 1, 2 tr. zák., kterého se měl dopustit tím, že dne 4. 7. 2003 si odděleně stíhaný M. C. vypůjčil v autopůjčovně H. v M., okr. N. J. vozidlo Opel Astra, které dne 7. 7. 2003 převezli obviněný M. a odděleně stíhaný V. H. do P., kde je předali odděleně stíhanému I. P., společně odjeli vozidlem na U., kde je prodali, když se obviněný M. předem dohodl na tomto postupu s M. C., V. H. a I. P., I. P. předem zajistil zájemce o koupi vozidla na U., M. C. zřídil za peníze předané mu obviněným M. účet v K. b., na který vložil částku 40.000,- Kč, kterou mu dal též obviněný M., aby mohl předložit při zapůjčení vozidla platební kartu k účtu a prokázat svoji solventnost, čímž způsobili společnosti H. – R. A. s.r.o. se sídlem P., ul. D. škodu ve výši 266.175,- Kč.
+Usnesením Obvodního soudu pro Prahu 6 ze dne 5. 12. 2007, sp. zn. 16 T 82/2007, byla podle § 314c odst. 1 písm. a) tr. řádu, za použití § 188 odst. 1 písm. a) tr. řádu, trestní věc obviněného A. A. M., roz. D. S. předložena Nejvyššímu soudu v Brně k rozhodnutí o příslušnosti soudu s odůvodněním, že ve smyslu ustanovení § 18 tr. řádu je ve věci místně příslušný Okresní soud v Ostravě, v jehož obvodu mělo dojít k žalovanému jednání obviněného, případně Obvodní soud pro Prahu 1.
+Nejvyšší soud zhodnotil důkazy použitelné k rozhodnutí podle § 24 tr. řádu a dospěl k tomuto závěru.
+Podle ustanovení § 18 odst. 1 tr. řádu koná řízení soud, v jehož obvodu byl trestný čin spáchán. Za místo spáchání trestného činu je třeba považovat především místo, kde došlo k jednání pachatele, naplňujícímu objektivní stránku trestného činu, avšak i místo, kde nastal nebo měl nastat následek trestného činu. V posuzované věci mělo k žalovanému jednání obviněného A. A. M., roz. D. S. dojít podle zatím shromážděných důkazů v M., který je v obvodu Okresního soudu Nový Jičín a nikoliv Okresního soudu v Ostravě, jak ve svém usnesení ze dne 5. 12. 2007, sp. zn. 16 T 82/2007, uvedl Obvodní soud pro Prahu 6, a je tedy v souladu s ustanovením § 18 odst. 1 tr. řádu, pokud věc obviněného A. A. M., roz. D. S., projedná a rozhodne Okresní soud v Novém Jičíně, který je k tomuto řízení věcně a místně příslušný.
+Z těchto důvodů bylo rozhodnuto, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 28. února 2008
+Předseda senátu:
+JUDr. Pavel Kučera
