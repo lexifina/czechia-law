@@ -1,0 +1,32 @@
+30 Cdo 2738/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy
+JUDr. Karla Podolky a soudců JUDr. Olgy Puškinové a JUDr. Pavla Pavlíka ve věci umístěného O. D., zastoupeného advokátem, za účasti Okresního státního zastupitelství v Ústí nad Labem, o vyslovení přípustnosti převzetí do ústavu, vedené u Okresního soudu v Ústí nad Labem sp. zn. 17 L 1/2006, o dovolání umístěného proti usnesení Krajského soudu v Ústí nad Labem ze dne 28. března 2006, č.j. 10 Co 269/2006-28, takto:
+I. Dovolání umístěného se odmítá.
+II. Umístěný nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Usnesením ze dne 16.února 2006, č.j. 17 L 1/2006-12, Okresní soud v Ústí nad Labem rozhodl, že k převzetí jmenovaného psychiatrickým oddělením M. n. v Ú. (dále též „ústavu“) došlo ze zákonných důvodů, neboť umístěný jeví známky duševní choroby a ohrožuje své okolí.
+K odvolání umístěného Krajský soud v Ústí nad Labem v záhlaví označeným usnesením potvrdil usnesení soudu prvního stupně a žádnému z účastníků nepřiznal právo na náhradu nákladů odvolacího řízení. Z odůvodnění potvrzujícího usnesení vyplývá, že odvolací soud se ztotožnil se skutkovými zjištěními soudu prvního stupně a z nich vyvozenými právními závěry. Vzal v úvahu, že soud prvního stupně provedl důkazní řízení, které omezil pouze na provedení důkazů předvídaných v ustanovení
+§ 191b odst. 3 o.s.ř., tj. provedl výslech umístěného a jeho ošetřující lékařky MUDr. Z. O. v ústavu za přítomnosti zástupce umístěného. Odvolací soud se dále zabýval odvolací námitkou, že MUDr. Z. O. nebyla ošetřující lékařkou umístěného. Dovodil, že z protokolu ze dne 16.2.2006 se podává, že MUDr. Z. O. je ošetřující lékařkou umístěného, což nebylo zpochybňováno při výslechu a v odvolacím řízení žádným důkazním prostředkem. Odvolací soud uzavřel, že po takto provedeném dokazování, které je neformální a musí být i rychlé s ohledem na zákonnou lhůtu sedmi dnů, byly zjištěny úplné informace o umístěném a o důvodech jeho umístění v nemocnici a rozhodnutí soudu prvního stupně je proto věcně správné.
+Proti usnesení odvolacího soudu umístěný podal dovolání, jehož přípustnost odůvodnil odkazem na ustanovení § 237 odst. 1 písm. c) o.s.ř., přičemž uplatňuje dovolací důvody ve smyslu ustanovení § 241a odst. 2 písm. a), b) téhož zákona, které obsáhle zdůvodňuje. Domáhá se zrušení usnesení odvolacího soudu i soudu prvního stupně a vrácení věci (soudu prvního stupně) k dalšímu řízení.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) po zjištění, že dovolání bylo podáno včas, osobou k tomu oprávněnou - účastníkem řízení (§ 240
+odst. 1 o.s.ř.), za splnění zákonné podmínky zastoupení dovolatele advokátem (§ 241 odst. 1 a 4 o.s.ř.), se nejprve zabýval otázkou přípustnosti tohoto dovolání.
+Podle ustanovení § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Dovolání je podle ustanovení § 237 odst. 1 o.s.ř. (při splnění konkrétně vymezených předpokladů) přípustné proti rozsudku odvolacího soudu, resp. proti usnesení odvolacího soudu, kterým bylo rozhodováno ve věci samé. V případě napadeného usnesení odvolacího soudu však o takové rozhodnutí nejde.
+Podle § 191a o.s.ř. ústav vykonávající zdravotnickou péči, ve kterém jsou umisťovány osoby z důvodů uvedených ve zvláštním předpise, je povinen oznámit
+do 24 hodin soudu, v jehož obvodu ústav je, převzetí každého, kdo v něm byl umístěn bez svého písemného souhlasu (odst. 1). Je-li osoba, která byla přijata do zdravotnické péče se svým písemným souhlasem, omezena ve volném pohybu nebo styku s vnějším světem až v průběhu léčení, je ústav povinen učinit oznámení podle odstavce 1 do 24 hodin poté, co k takovému omezení došlo (odst. 2).
+Podle ustanovení § 191b odst. 4 o.s.ř. do sedmi dnů ode dne, kdy došlo
+k omezení podle § 191a o.s.ř., soud usnesením rozhodne, zda k převzetí došlo
+ze zákonných důvodů (§ 191a odst. 1 o.s.ř.).
+Pojem „věc sama“ je právní teorií i soudní praxí vykládán jednotně jako věc, která je oním předmětem, pro nějž se řízení vede. V tzv. řízení sporném, v němž jde o to rozhodnout spor o právo mezi účastníky, kteří stojí proti sobě v postavení žalobce a žalovaného, je za věc samu pokládán nárok uplatněný žalobou, o němž má být v příslušném řízení věcně rozhodnuto (srv. rozhodnutí Nejvyššího soudu ČR sp. zn.
+2 Cdon 774/97, zveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod č. 61, sešit 10, roč. 1968).
+V řízení o vyslovení přípustnosti převzetí nebo držení v ústavu zdravotnické péče je třeba rozumět věcí samou rozhodnutí rozsudkem podle § 191d odst. 4 o tom, zda další držení umístěného je přípustné a na jakou dobu, ve vztahu k němuž má řízení podle § 191b odst. 4 o.s.ř., v němž soud usnesením rozhodne o tom, zda k převzetí umístěného došlo ze zákonných důvodů, povahu předběžného opatření. Jakkoli takové rozhodnutí zasahuje do sféry osobní svobody umístěného, rozhoduje se jím pouze o otázce, zda k jeho převzetí došlo ze zákonných důvodů (§ 191a odst. 1 o.s.ř.). Teprve výrok o přípustnosti převzetí umístěného do ústavu je – za naplnění podmínek stanovených v § 191d odst. 1 o.s.ř. – předpokladem pro vlastní řízení o vyslovení přípustnosti jeho dalšího držení v ústavu, resp. vyhlášení rozsudku, zda další držení je přípustné a na jakou dobu (§ 191d odst. 2, 3, 4 o.s.ř.).
+Usnesení podle § 191b odst. 4 o.s.ř. tak v souladu s ustáleným názorem
+na charakter tohoto rozhodnutí třeba klasifikovat jako rozhodnutí vydané nikoliv ve věci samé (srovnej usnesení Nejvyššího soudu ČR ze dne 27. září 2007, č.j. 30 Cdo 1245/2007-34 a ze dne 31. října 2007, č.j. 30 Cdo3805/2007-127). Nejsou tak naplněny předpoklady přípustnosti dovolání ve smyslu ustanovení § 237 o.s.ř. Na případ rozhodnutí odvolacího soudu v této věci však nepamatuje ani žádná z alternativ přípustnosti dovolání vymezených ustanoveními § 238, § 238a a § 239 o.s.ř.
+Protože dovolací soud shledal dovolání proti usnesení odvolacího soudu nepřípustným, proto - aniž ve věci nařídil jednání (§ 243a odst. 1 o.s.ř.) - je odmítl
+(§ 243b odst. 5 ve spojení s § 218 písm. c/ o.s.ř.).
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 5 věta prvá o.s.ř. ve spojení s § 224 odst. 1, § 151 a § 146 odst. 3 o.s.ř., když dovolání umístěného bylo odmítnuto.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 5. března 2008
+JUDr. Karel Podolka, v. r.
+předseda senátu
