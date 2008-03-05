@@ -1,0 +1,20 @@
+28 Cdo 692/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Josefa Rakovského a soudců JUDr. Ludvíka Davida, CSc., a JUDr. Jana Eliáše, Ph.D., v právní věci žalobkyně M. H., zastoupené advokátem proti žalovanému J. H., zastoupenému advokátkou o 9.989,60 Kč, vedené u Okresního soudu Brno - venkov pod sp. zn. 8 C 572/98, o dovolání žalovaného proti rozsudku Krajského soudu v Brně ze dne 24. října 2007, č. j. 16 Co 175/2006-128, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud Brno - venkov rozsudkem ze dne 25. 5. 2005, č. j. 8 C 572/98-109, uložil žalovanému povinnost zaplatit žalobkyni částku 9.989,60 Kč a rozhodl o náhradě nákladů řízení.
+K odvolání žalovaného Krajský soud v Brně rozsudkem ze dne 24. 10. 2007, č. j. 16 Co 175/2006-128, rozsudek soudu prvního stupně potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Proti tomuto rozsudku podal žalovaný ve dnech 10. 12. 2007 a 7. 1. 2008 vlastnoručně sepsané dovolání a následně dne 5. 2. 2008 dovolání sepsané jeho zástupkyní pro dovolací řízení.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) po zjištění, že dovolání žalovaného bylo podáno proti pravomocnému rozhodnutí odvolacího soudu oprávněnou osobou (účastníkem řízení) ve lhůtě uvedené v ustanovení § 240 odst. 1 o. s. ř., dospěl k závěru, že dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný.
+Podle ustanovení § 237 odst. 1 o. s. ř. je dovolání přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího soudu, jimiž bylo změněno rozhodnutí soudu prvního stupně ve věci samé [písm. a)], jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil [písm. b)], jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není přípustné podle ustanovení písmena b) a dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam [písm. c)].
+Podle ustanovení § 237 odst. 2 písm. a) o. s. ř. není dovolání podle odstavce 1 přípustné ve věcech, v nichž dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 20.000,- Kč a v obchodních věcech 50.000,- Kč; k příslušenství pohledávky se přitom nepřihlíží.
+V projednávané věci žalovaný napadá dovoláním rozsudek odvolacího soudu ve výroku, jímž byl potvrzen vyhovující výrok rozsudku soudu prvního stupně ohledně nároku žalobkyně na vydání bezdůvodného obohacení ve výši 9.989,60 Kč. Protože dovolání směřuje proti výroku rozsudku o věci samé, kterým bylo rozhodnuto o peněžitém plnění nepřevyšujícím 20.000,- Kč, je přípustnost dovolání vyloučena ustanovením § 237 odst. 2 písm. a) o. s. ř.
+Pokud žalovaný dovoláním napadá rovněž výrok rozsudku odvolacího soudu o náhradě nákladů řízení, ani v této části není dovolání přípustné, neboť rozhodnutí o náhradě nákladů řízení není rozhodnutím ve věci samé (srov. např. usnesení Nejvyššího soudu ČR ze dne 31. 1. 2002, sp. zn. 29 Odo 874/2001, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod číslem 4, sešit 1, ročník 2003) a přípustnost není založena ani ustanovením § 238, § 238a a § 239 o. s. ř., v nichž jsou taxativně vyjmenovány případy přípustnosti dovolání.
+Nejvyšší soud proto dovolání žalovaného jako nepřípustné podle ustanovení § 243b odst. 5, věty první, a § 218 písm. c) o. s. ř. odmítl, aniž se mohl zabývat věcí z hlediska námitek uplatněných v dovolání.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, věty první, § 224 odst. 1 a § 146 odst. 3 o. s. ř., neboť žalovaný nemá na náhradu nákladů dovolacího řízení právo a žalobkyni náklady v dovolacím řízení nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 5. března 2008
+JUDr. Josef R a k o v s k ý , v. r.
+předseda senátu
