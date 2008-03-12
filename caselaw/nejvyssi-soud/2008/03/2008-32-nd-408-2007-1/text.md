@@ -1,0 +1,19 @@
+32 Nd 408/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Faldyny, CSc. a soudců JUDr. Zdeňka Dese a JUDr. Miroslava Galluse v právní věci oprávněné M. u. a. s. proti povinnému A. R., o nařízení exekuce pro 65,- Kč s příslušenstvím, vedené u Okresního soudu v Mostě pod sp. zn. 21 Nc 6748/2006, o přikázání věci jinému soudu, takto:
+Věc vedená u Okresního soudu v Mostě pod sp. zn. 21 Nc 6748/2006 se k projednání a rozhodnutí Okresnímu soudu v Olomouci nepřikazuje.
+O d ů v o d n ě n í :
+V rámci řízení o exekuci ve věci v záhlaví označené, podal povinný podáním ze dne 25. 6. 2007 návrh, aby projednávaná věc byla odňata Okresnímu soudu v Mostě a přikázána z důvodu vhodnosti k projednání a rozhodnutí (§ 12 odst. 2 občanského soudního řádu, dále též „o. s. ř.“) Okresnímu soudu v Olomouci.
+Povinný odůvodňuje svůj návrh tím,že „vedení mosteckého soudu a soudce ve věci samé úmyslně spáchali procesní pochybení, když věc byla přidělena soudci – bývalému právníkovi M. a. s. Podobně soud úmyslně pochybil při podání námitky k soudci JUDr. Š. … Podané trestní oznámení na JUDr. Š. nevylučuje spáchání trestného činu v exekučním řízení … Ve všech věcech civilních i trestních jsou mostečtí soudci nezávislí nad rámec zákonů a jsou limitováni pouze penězi a politickým vlivem M. a. s. … Je tedy nanejvýš nevhodné, aby se věc projednávala u mosteckého soudu, jehož vedení je politicky zkorumpované s vazbou na M. a. s. a stojí za soudci, kteří páchají procesní pochybení a trestné činy.“
+Navrhovatel očekává, že mu „bude Nejvyšší soud nápomocen při likvidaci mosteckého zločinného spolčení, ve kterém se mostecký soud ocitl zásluhou předsedkyně soudu Mgr. B. P.“
+Soudce JUDr. J. Z., který věc předkládá, sděluje v průvodním dopise z 11. 12. 2007, že stanovisko soudu k odnětí věci je pozitivní.
+Nejvyšší soud jako soud nejblíže společně nadřízený příslušnému Okresnímu soudu v Mostě a Okresnímu soudu v Olomouci, jemuž má být věc přikázána (§ 12 odst. 3 věta první o. s. ř.) návrh na přikázání věci jinému soudu projednal a dospěl k závěru, že v posuzovaném případě nejsou splněny podmínky, aby věc byla přikázána jinému soudu z důvodu vhodnosti.
+Podle § 12 odst. 2 o. s. ř. může být věc přikázána z důvodu vhodnosti jinému soudu téhož stupně.
+Důvody vhodnosti podle cit. ustanovení mohou být různé v závislosti na předmětu řízení, postavení účastníků i jiných okolnostech. Jde zejména o skutečnosti, z nichž lze dovodit, že jiným než příslušným soudem bude věc projednána rychleji a hospodárněji, popř. i bez újmy pro toho či onoho účastníka. K přikázání věci jinému než příslušnému soudu by však mělo docházet jen mimořádně že závažných důvodů, neboť je uplatňováno jako výjimka z ústavně zaručené zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon (čl. 38 Listiny základních práv a svobod, publikované pod č. 2/1993 Sb., ve znění ústavního zákona č. 162/1998 Sb.). Důvody pro odnětí věci příslušnému soudu musí být natolik významné, aby dostatečně odůvodňovaly průlom do výše cit. ústavního principu.
+V posuzovaném případě shora popsané námitky navrhovatele směřují k vyloučení celé řady soudců a ve svém důsledku téměř celého soudu, a ve své podstatě proto představují námitku podjatosti ve smyslu § 12 odst. 1 o. s. ř. , kterou však v rámci delegace z důvodu vhodnosti použít nelze. Taková námitka může být tudíž aplikována jen při rozhodování o vyloučení soudců.
+Nejvyšší soud z uvedených důvodů rozhodl, že předmětná věc se k projednání a rozhodnutí z důvodu vhodnosti Okresnímu soudu v Olomouci (§ 12 odst. 2 a 3 o. s. ř.) nepřikazuje.
+Nejvyšší soud tudíž rozhodl, jak uvedeno shora ve výroku tohoto usnesení.
+Proti tomuto rozhodnutí není opravný prostředek přípustný.
+V Brně dne 12. března 2008
+JUDr. František F a l d y n a, CSc.
+předseda senátu
