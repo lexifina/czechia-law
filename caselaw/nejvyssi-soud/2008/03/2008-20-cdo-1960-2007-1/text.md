@@ -1,0 +1,14 @@
+20 Cdo 1960/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Vladimíra Mikuška a soudců JUDr. Pavla Krbka a JUDr. Miroslavy Jirmanové v exekuční věci oprávněné Č. s. s., a. s., proti povinným 1) R. V., 2) M. V., 3) B. V., pro částku 64.732,30 Kč s příslušenstvím, vedené u Okresního soudu v Uherském Hradišti pod sp. zn. EXNc 4645/2005, o dovolání povinné B. V. proti usnesení Krajského soudu v Brně z 21. 12. 2006, č. j. 26 Co 367/2006-25, takto:
+Dovolací řízení se zastavuje.
+Odůvodnění:
+Proti shora označenému rozhodnutí, jímž krajský soud podle ustanovení § 44 odst. 10 exekučního řádu odmítl odvolání 3. povinné proti usnesení z 18. 8. 2005, č. j. EXNc 4645/2005-8, kterým okresní soud nařídil exekuci (vykonatelného platebního rozkazu z 20. 12. 2004, č. j. 20 Ro 2091/2004-46), jejímž provedením pověřil označeného soudního exekutora, podala 3. povinná dovolání.
+Jelikož dovolání mělo nedostatky bránící dalšímu pokračování dovolacího řízení (spočívající v absenci náležitostí dovolání podle § 241a odst. 1 občanského soudního řádu ve znění pozdějších předpisů /dále též jen „o.s.ř.“/) a nebylo ani sepsáno advokátem, soud 3. povinnou usnesením z 19. 3. 2007, doručeným jí 21. 3. téhož roku, vyzval, aby ve lhůtě 20 dnů od doručení usnesení nedostatky podání odstranila a zvolila si zástupcem advokáta, jehož prostřednictvím podá řádné dovolání. Zároveň ji poučil, že nevyhoví-li výzvě, dovolací řízení bude zastaveno. Dovolatelka však vytčené nedostatky neodstranila.
+Z ustanovení § 241 odst. 1, 2 písm. a), odst. 4 o.s.ř. plyne, že dovolatel (fyzická osoba), nemá-li právnické vzdělání, musí být zastoupen advokátem (příp. notářem), jenž musí dovolání také sepsat. Zvolí-li si advokáta až poté, co sám podal dovolání, je ke splnění podmínky dovolatelova zastoupení nezbytné, aby zmocněnec (advokát) jím dříve učiněné podání nahradil nebo doplnil vlastním, popř. sdělil soudu, že se s již učiněným podáním ztotožňuje.
+Protože podmínka povinného zastoupení dovolatele v dovolacím řízení (k jejímuž splnění je třeba i sepisu dovolání advokátem, viz usnesení Nejvyššího soudu z 27. 5. 1999, sp. zn. 26 Cdo 1121/99, uveřejněné v časopise Soudní judikatura č. 6, ročník 2000 pod poř. č. 64) je podmínkou týkající se účastníka řízení, jejíž nedostatek brání - kromě usnesení, kterým se dovolací řízení právě pro neodstranění tohoto nedostatku zastavuje - vydání rozhodnutí, jímž se řízení končí (§ 241 odst. 1 o.s.ř.), a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu nedošlo, Nejvyšší soud řízení o dovolání podle § 104 odst. 2 a § 243c odst. 1 o.s.ř. zastavil.
+O případných nákladech exekuce bude rozhodnuto podle ustanovení hlavy VI. exekučního řádu.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 20. března 2008
+JUDr. Vladimír Mikušek, v. r.
+předseda senátu
