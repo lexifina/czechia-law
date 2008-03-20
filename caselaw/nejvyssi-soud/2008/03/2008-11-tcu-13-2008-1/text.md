@@ -1,0 +1,18 @@
+U S N E S E N Í
+Nejvyšší soud České republiky projednal žádost Ministerstva spravedlnosti Rumunska o povolení průvozu předávaného C. D. roz. B., státního občana Rumunska, a rozhodl v neveřejném zasedání dne 20. března 2008 podle § 422 tr. ř. t a k t o :
+I. Povoluje se průvoz předávaného C. D., roz. B., státního občana Rumunska, územím České republiky do Rumunska pro účely výkonu trestu odnětí svobody v délce trvání jednoho roku a šesti měsíců uloženého mu rozsudkem č. 134 Soudu v Caras–Severin ze dne 26. 6. 2005, sp. zn. 5596/P/2004, který nabyl právní moci ve spojení s rozhodnutím č. 722 Vrchního kasačního soudního dvora ze dne 8. 2. 2007.
+II. Po dobu průvozu bude předávaná osoba držena ve vazbě.
+O d ů v o d n ě n í :
+Ministerstvo spravedlnosti Rumunska dne 19. 3. 2008, pod č. j. 83645/2007/CM, požádalo na základě čl. 25 Rámcového rozhodnutí Rady Evropské unie ze dne 13. června 2002, o evropském zatýkacím rozkazu a postupech předávání mezi členskými státy, o povolení průvozu C. D., roz. B., státního občana Rumunska, územím České republiky.
+Průvoz se má uskutečnit v rámci předání jmenovaného ze Spolkové republiky Německo k výkonu trestu odnětí svobody v délce trvání jednoho roku a šesti měsíců uloženého mu rozsudkem č. 134 Soudu v Caras–Severin ze dne 26. 6. 2005, sp. zn. 5596/P/2004, který nabyl právní moci ve spojení s rozhodnutím č. 722 Vrchního kasačního soudního dvora ze dne 8. 2. 2007, leteckou cestou s mezipřistáním v P.
+Předávaný byl shora uvedenými rozhodnutími rumunských soudů pravomocně odsouzen pro trestné činy účasti na zločinném spolčení a padělání měny, včetně eura, podle § 7 odst. 1 zákona č. 39/2003 s odkazem na ustanovení § 288 odst. 1, § 282, § 79 písm. a), b) a § 79 trestního zákoníku Rumunska.
+Uvedené trestné činnosti se předávaný C. D. dopustil podle zjištění rumunských soudů tím, že jako člen organizované skupiny a za účelem finančního zisku, od ledna do července 2004 padělal a udával americké bankovky a úřední dokumenty (řidičské průkazy, pasy, diplomy, povolení k pobytu v zahraničí), přičemž rovněž sháněl případné klienty mající zájem o falešné dokumenty a měnu. Konkrétně se dopustil následujícího jednání:
+1. dne 6. 5. 2004 společně s D. L. koupili ve městě T. za 200 USD mobilní telefon tov. zn. Ericsson T.610, přičemž zaplatili falešnými bankovkami,
+2. na jaře roku 2004 společně s D. L. ve městě C. proměnili v místním baru dvě bankovky (každá v hodnotě 100 USD), byť šlo o padělky, a přitom ujistili V. M. o jejich pravosti. Pro větší přesvědčivost se D. L. prokázal falešným občanským průkazem občana Belgického království.
+Nejvyšší soud České republiky projednal předloženou žádost z hlediska splnění právních podmínek a náležitostí vyžadovaných vnitrostátní úpravou (§ 422 tr. ř.). Zjistil, že v posuzovaném případě jde o předání ze Spolkové republiky Německo do Rumunska za účelem výkonu trestu odnětí svobody v délce trvání jednoho roku a šesti měsíců uloženého předávanému za trestné činy účasti na zločinném spolčení a padělání měny, včetně eura. Jak je zřejmé z výpisu z centrální evidence obyvatel předávaná osoba není státním občanem České republiky.
+Jelikož tedy nebyly zjištěny žádné právní překážky, které by bránily povolení průvozu předávaného C. D. územím České republiky pro účely výkonu trestu odnětí svobody v Rumunsku, vyhověl Nejvyšší soud České republiky žádosti Ministerstva spravedlnosti Rumunska a rozhodl tak, jak je uvedeno ve výroku tohoto usnesení.
+Zároveň Nejvyšší soud České republiky rozhodl o nutném opatření omezujícím osobní svobodu předávané osoby v době průvozu územím České republiky.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 20. března 2008
+Předseda senátu:
+JUDr. Karel Hasch
