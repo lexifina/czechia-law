@@ -1,0 +1,15 @@
+11 Td 13/2008
+U S N E S E N Í
+Nejvyšší soud v trestní věci obviněné L. V., roz. K., projednal v neveřejném zasedání konaném dne 31. března 2008 návrh na odnětí a přikázání věci podle § 25 tr. řádu a rozhodl t a k t o :
+Podle § 25 tr. řádu se odnímá Okresnímu soudu v Benešově věc vedená pod sp. zn. 2 T 32/2008 a přikazuje se k projednání a rozhodnutí Okresnímu soudu ve Zlíně.
+O d ů v o d n ě n í :
+Státní zástupkyně Okresního státního zastupitelství v Benešově podala dne 29. 2. 2008 Okresnímu soudu v Benešově obžalobu na obviněnou L. V., roz. K., pro trestný čin podvodu podle § 250 odst. 1 tr. zák., kterého se měla dopustit celkem dvaceti skutky popsanými v obžalobě.
+Podáním ze dne 7. 3. 2008 navrhla předsedkyně senátu Okresního soudu v Benešově podle § 25 tr. řádu odnětí trestní věci obviněné L. V. Okresnímu soudu v Benešově a její přikázání Okresnímu soudu ve Zlíně, případně jinému jihomoravskému soudu, z důvodů hospodárnosti a rychlosti trestního řízení s tím, že v obvodu Okresního soudu ve Zlíně se zdržuje trvale jak obviněná, tak pět poškozených, a že další tři poškození mají bydliště v Hodoníně, jeden potom v Uherském Hradišti a jeden v Kyjově, kdy žádný z poškozených nebyl v přípravném řízení relevantně vyslechnut v postavení svědka, tak aby v řízení před soudem bylo možno z takové výpovědi vycházet. Navíc bude zřejmě nutné při hlavním líčení osobně vyslechnout, případně konfrontovat mezi sebou, čtyři svědky, jež tři mají bydliště v okrese Kroměříž, jeden na okrese Vyškov.
+Nejvyšší soud zhodnotil důkazy použitelné k řešení tohoto sporu a dospěl k následujícímu závěru.
+Podle § 25 tr. řádu může být věc z důležitých důvodů odňata příslušnému soudu a přikázána jinému soudu téhož druhu a stupně. Pojem „důležité důvody“ sice není v zákoně blíže definován, ale je nepochybné, že se musí jednat o skutečnosti, jež budou svoji povahou výjimečné, neboť ustanovení § 25 tr. řádu, dle něhož lze v určitých případech věc delegovat k jinému soudu, je zákonným průlomem do zásady, že nikdo nesmí být odňat svému zákonnému soudci, vyjádřené v čl. 38 odst. 1 Listiny základních práv a svobod. Důvody pro odnětí věci příslušnému soudu a její přikázání jinému soudu musí být natolik významné, aby dostatečně odůvodňovaly vybočení z výše citovaného ústavního principu.
+V projednávaném případě důležité důvody k odnětí věci místně příslušnému soudu a jejímu přikázání jinému soudu téhož druhu a stupně splněny jsou. Obviněná, stejně jako velká část poškozených a čtyři svědci, které bude třeba v průběhu řízení před soudem vyslechnout, bydlí ve Zlíně a dalších obcích Jihomoravského kraje. S ohledem na vzdálenost Okresního soudu v Benešově, kam trestní věc obviněné napadla, od bydliště obviněné, deseti poškozených a svědků, se jeví vhodné místní příslušnost soudu změnit. Z důvodů hospodárnosti projednání věci před soudem je proto v souladu s ustanovením § 25 tr. řádu, aby trestní věc obviněné L. V. projednal a rozhodl Okresní soud ve Zlíně.
+Za tohoto stavu bylo rozhodnuto, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 31. března 2008
+Předseda senátu:
+JUDr. Pavel Kučera
