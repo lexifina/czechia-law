@@ -1,0 +1,20 @@
+28 Cdo 2495/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy
+JUDr. Josefa Rakovského a soudců JUDr. Ludvíka Davida, CSc. a JUDr. Jana Eliáše, Ph.D., v právní věci žalobců a) K. Š., a b) A. Š., zastoupených advokátem, proti žalovanému Pozemkovému fondu České republiky, o určení vlastnictví, vedené u Okresního soudu ve Svitavách pod sp.zn. 7 C 864/2004, k dovolání žalobců proti rozsudku Krajského soudu v Hradci Králové – pobočka v Pardubicích ze dne 13.4.2006, čj. 22 Co 7/2006-99, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud ve Svitavách rozsudkem ze dne 6.10.2005, čj. 7 C 864/2004-82, zamítl žalobu na určení, že žalobci jsou, každý jednou ideální polovinou, vlastníky pozemků ve zjednodušené evidenci č. 1320, č. 1321 a č. 1323 v obci S. M., katastrální území S. M. u M. T. Krajský soud v Hradci Králové – pobočka v Pardubicích v odvolacím řízení tento rozsudek potvrdil svým rozsudkem z 13.4.2006, čj. 22 Co 7/2004/2004-99.
+Odvolací soud uzavřel, že žalobci, kteří předmětné pozemky získali přídělem od státu, pozbyli svého vlastnictví k nim v důsledku vzdání se přídělu. Nemohli proto znovu vlastnické právo vydržet jen na základě toho, že zpětný převod na stát nebyl vyznačen v tehdejší evidenci Geodezie a byl jim vydán výpis s vyznačením jejich vlastnictví. Za rozhodující nepovažoval to, že žalobci nadále z tohoto zápisu vycházeli, neuplatnili nárok na vydání těchto pozemků podle zákona č. 229/1991 Sb., a dokonce je pronajímali. K držbě na základě dobré víry nemohlo dojít právě proto, že nebyl dán žádný právní důvod vzniku vlastnictví žalobců poté, co se vlastnictví k pozemkům vzdali. Museli si být vědomi toho, že vzdáním se přídělu pozbyli vlastnictví k původně jim přiděleným pozemkům.
+Proti rozsudku odvolacího soudu podali žalobci dovolání, z jehož obsahu lze usoudit, že uplatňují nesprávné právní posouzení věci odvolacím soudem. Jsou toho názoru, že vydáním výpisu z evidence geodezie jim bylo úředně zabráněno podat restituční žádost a uvádějí, že výpisy ze Střediska geodezie v dané době postačovaly jako podklad ke změně vlastnického práva. Netvrdí, že se na základě tohoto výpisu stali vlastníky pozemků, ale výpis je utvrdil v tom, že svého vlastnictví nepozbyli. Jsou toho názoru, že odvolací soud řešil danou právní otázku v rozporu s hmotným právem a že rozhodnutí má po právní stránce zásadní význam. Navrhují, aby dovolací soud zrušil rozsudky soudů obou stupňů a věc jim vrátil k dalšímu řízení.
+Žalovaný se k dovolání nevyjádřil.
+Vzhledem k tomu, že rozsudkem odvolacího soudu byl potvrzen rozsudek soudu prvního stupně, který byl jeho rozsudkem v této věci prvním, a nepřichází proto v úvahu přípustnost dovolání podle § 237 odst. 1 písm. a) nebo b) o.s.ř., Dovolací soud proto zvažoval, zda po právní stránce zásadní rozsudek odvolacího soudu má po právní stránce zásadní význam, tak aby mohl přijmout závěr, že dovolání je přípustné podle
+§ 237 odst. 1 písm. c) o.s.ř.; k takovému závěru však nedospěl.
+Právní závěr odvolacího soudu o naplnění podmínky dobré víry při vydržení vlastnického práva odpovídá běžné judikatuře soudů o tom, že dobrá víra se musí vztahovat k právní skutečnosti, na jejímž základě může dojít k nabytí vlastnického práva a nelze učinit závěr, že by tento právní názor byl v rozporu s hmotným právem. Nejsou dány ani jiné okolnosti, z nichž by bylo možno usuzovat, že rozsudek odvolacího soudu má po právní stránce zásadní význam (§ 237 odst. 3 o.s.ř.).
+Dovolací soud proto dospěl k závěru, že dovolání není přípustné ani podle § 237 odst. 1 písm. c) o.s.ř. podle § 243b odst. 5 a § 118 písm. c) o.s.ř. je proto odmítl
+Žalovanému, který by podle výsledku dovolacího řízení měl právo na náhradu jeho nákladů (§ 243b odst. 5, § 224 odst. 1, § 146 odst. 3 o.s. ř.), náklady tohoto řízení nevznikly, takže dovolací soud neuložil žalobcům jejich náhradu.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 2. dubna 2008
+JUDr. Josef Rakovský, v. r.
+předseda senátu
