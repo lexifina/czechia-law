@@ -1,0 +1,14 @@
+32 Cdo 1275/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Kateřiny Hornochové a soudců JUDr. Františka Faldyny, CSc. a JUDr. Miroslava Galluse ve věci žalobkyně C. R. T., a. s., zastoupené advokátem proti žalovanému V. Z., zastoupenému advokátem o zaplacení částky 235.669,81 Kč s příslušenstvím, vedené u Okresního soudu v Litoměřicích pod sp. zn. 15 C 46/2006, o dovolání N. Z., proti usnesení Krajského soudu v Ústí nad Labem ze dne 20. září 2007, č. j. 17 Co 259/2007-139, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í :
+Krajský soud v Ústí nad Labem v záhlaví označeném usnesení potvrdil usnesení Okresního soudu v Litoměřicích ze dne 1. prosince 2006, č. j. 15 C 46/2006-59, ve výroku I., kterým bylo připuštěno, aby do řízení na straně žalovaného jako druhá žalovaná přistoupila N. Z., a odmítl odvolání proti výroku II. usnesení Okresního soudu v Litoměřicích ze dne 1. prosince 2006, č. j. 15 C 46/2006-99, kterým soud připustil změnu žaloby tak, aby na místo povinnosti žalovaného zaplatit žalobci částku 151.362,11 Kč jako smluvní pokutu má správně být, že žalovaní jsou povinni zaplatit žalobci částku 84.307,70 Kč spolu s úrokem z prodlení ve výši jednak 321,37 Kč á 2 % ročně z dlužné částky 84.307,70 Kč od 16. 9. 2003 do zaplacení a dále zaplatí náhradu škody ve výši 131.989,- Kč a smluvní pokutu ve výši 19.373,11 Kč a náklady řízení (výrok II.).
+Proti usnesení Krajského soudu podala N. Z. (nezastoupená advokátem) dovolání. Z obsahu dovolání se podává, že dovolání podává pouze do výroku I. usnesení odvolacího soudu.
+Jelikož při podání dovolání nebyla dovolatelka zastoupena advokátem, soud prvního stupně ji usnesením ze dne 8. února 2008, č. j. 15 C 46/2006-153, doručeným dne 15. února 2008 (srov. čl. 153), vyzval, aby nedostatek povinného zastoupení do 10 dnů ode dne doručení tohoto usnesení odstranila.
+Podle ustanovení § 241 odst. 1 občanského soudního řádu (dále též jen „o. s. ř.“) dovolatel musí být zastoupen advokátem, jestliže nemá právnické vzdělání buď sám, nebo jeho zaměstnanec (člen), který za něj jedná. Z dovolání zastoupení dovolatelky nevyplývá a jiné listiny toto zastoupení nebo právnické vzdělání dovolatelky prokazující nebyly předloženy. Dovolateka pak nedostatek povinného zastoupení neodstranila, ač byla o procesních následcích nesplnění této podmínky poučena.
+Protože povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejichž nedostatek brání vydání rozhodnutí ve věci samé (§ 241 odst. 1 o. s. ř.), a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu prvního stupně do dnešního dne nedošlo, Nejvyšší soud České republiky dovolací řízení podle § 104 odst. 2 a § 243c o. s. ř. zastavil.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 23. dubna 2008
+JUDr. Kateřina Hornochová, v. r.
+předsedkyně senátu
