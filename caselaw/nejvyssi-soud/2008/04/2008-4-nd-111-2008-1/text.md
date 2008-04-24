@@ -1,0 +1,21 @@
+4 Nd 111/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Františka Hrabce a soudců JUDr. Danuše Novotné a JUDr. Jiřího Pácala ve věci oprávněného: Město Jablonec nad Nisou, zastoupeno JUDr. M. V., advokátem, proti povinnému: R. L., o nařízení exekuce a pověření soudního exekutora, pro peněžité plnění, vedeno u Okresního soudu v Jablonci nad Nisou pod sp. zn. 10 Nc 5436/2007, o určení místní příslušnosti podle § 11 odst. 3 o. s. ř. t a k t o:
+Určuje se, že věc p r o j e d n á a r o z h o d n e Okresní soud v Jablonci nad Nisou.
+O d ů v o d n ě n í :
+Okresní soud v Jablonci nad Nisou předložil Nejvyššímu soudu shora označenou věc k rozhodnutí podle § 11 odst. 3 o. s. ř. o tom, který soud věc projedná a rozhodne, neboť podmínky místní příslušnosti, podle nichž by bylo možno určit příslušný soud, chybějí nebo je nelze zjistit.
+Podle § 45 odst. 2 e. ř. je místně příslušným exekučním soudem soud, v jehož obvodu má bydliště povinný, je-li fyzickou osobou, a nemá-li bydliště, soud, v jehož obvodu se zdržuje. Má-li povinný, který je fyzickou osobou, bydliště na více místech, jsou místně příslušnými všechny soudy, v jejichž obvodu bydlí s úmyslem zdržovat se tam trvale. Nemá-li povinný bydliště v České republice ani se v ní nezdržuje, je příslušným soud, v jehož obvodu má povinný majetek; má-li majetek v obvodu více soudů, je příslušným soud, kterému byla jako prvnímu doručena žádost exekutora
+o udělení pověření nebo návrh na provedení exekuce. Je-li povinný právnickou osobou, je místně příslušným soud, v jehož obvodu má povinný sídlo.
+Oprávněný podal u Okresního soudu v Jablonci nad Nisou návrh, aby jmenovaný soud nařídil k uspokojení peněžité pohledávky oprávněného na majetek povinného exekuci a jejím provedením pověřil JUDr. Evu Jablonskou, soudní exekutorku Exekutorského úřadu Praha 6.
+Jako bydliště povinného v návrhu uvedl adresu B. Okresní soud v Teplicích usnesením ze dne 21. 2. 2008 sp. zn. 10 Nc 5436/2007 (č. l. 4) vyslovil podle § 105 odst. 2 o. s. ř. svou místní nepříslušnost a věc předložil Nejvyššímu soudu k určení soudu podle § 11 odst. 3 o. s. ř.
+Podle § 52 odst. 1 e. ř. se pro exekuční řízení použijí přiměřeně ustanovení občanského soudního řádu, nestanoví-li exekuční řád jinak.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Jak vyplývá z listin obsažených ve spise, povinný má bydliště v B., tj. mimo území České republiky. Vymáhaná pohledávka vznikla v obvodu působnosti Městského úřadu v Jablonci nad Nisou, kdy povinný zde byl tímto úřadem postižen blokovou pokutou uloženou mu za parkování motorového vozidla na zákazu stání.
+V centrální evidenci obyvatel ČR nebyla osoba povinného nalezena. Dále není známo, že se zdržuje v obvodu některého okresního soudu České republiky nebo že zde má majetek.
+Okresní soud v Jablonci nad Nisou v posuzované věci vyslovil, že je dána pravomoc soudů České republiky ( viz § 52 odst. 1 e. ř. a § 2 a 7 odst. 1, 3 o. s. ř.), ale nejsou známy okolnosti rozhodné pro určení místní příslušnosti. Tudíž je naplněno výše citované ustanovení § 11 odst. 3 o. s. ř.
+K porušení práva povinným (tj. nerespektování zákazu parkování) a tím vzniku sankční povinnosti k plnění ve prospěch oprávněného došlo v obvodu Okresního soudu v Jablonci nad Nisou. Rozhodnutí, které je v posuzované věci exekučním titulem, vydal Městský úřad v Jablonci nad Nisou. Okresní soud v Jablonci nad Nisou, u něhož byl podán předmětný návrh oprávněného, se již s věcí seznámil. Vzhledem k uvedeným skutečnostem je Nejvyšší soud toho názoru, že se zřetelem na zásadu hospodárnosti řízení bude nejvhodnější, aby daná věc byla projednána a rozhodnuta tímto soudem.
+Při určení místně příslušného soudu vycházel Nejvyšší soud především z výše uvedených hledisek. S ohledem na tyto skutečnosti proto podle § 11 odst. 3 o. s. ř. určil, že místně příslušným k projednání a rozhodnutí věci je Okresní soud v Jablonci nad Nisou.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 24. dubna 2008
+Předseda senátu:
+JUDr. František H r a b e c
