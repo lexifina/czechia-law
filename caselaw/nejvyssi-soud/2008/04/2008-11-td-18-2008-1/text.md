@@ -1,0 +1,17 @@
+11 Td 18/2008
+U S N E S E N Í
+Nejvyšší soud v trestní věci obviněného B. V., projednal v neveřejném zasedání konaném dne 30. 4. 2008 návrh na odnětí a přikázání věci podle § 25 tr. řádu a rozhodl t a k t o :
+Návrh na odnětí věci vedené u Vrchního soudu v Praze pod sp. zn. 1 Ntd 3/2008 a její přikázání Vrchnímu soudu v Olomouci s e z a m í t á .
+O d ů v o d n ě n í :
+U Městského soudu v Praze je pod sp. zn. 8 To 10/2008 projednáváno odvolání obviněného B. V. proti rozsudku Obvodního soudu pro Prahu 1 ze dne 17. 12. 2007, sp. zn. 10 T 17/2006, kterým byl obviněný uznán vinným trestným činem křivého obvinění podle § 174 odst. 1 tr. zák. a odsouzen k trestu odnětí svobody v trvání tří měsíců, jehož výkon mu byl podmíněně odložen na zkušební dobu v trvání dvou roků.
+Dříve, než mohlo dojít k rozhodnutí o odvolání obviněného, namítl tento podjatost všech členů senátu 8 To Městského soudu v Praze příslušného podle rozvrhu práce k projednání tohoto odvolání a následně i všech soudců Městského soudu v Praze.
+Usnesením Městského soudu v Praze ze dne 19. 2. 2008, sp. zn. 8 To 10/2008, bylo podle § 31 odst. 1 tr. řádu rozhodnuto, že senát 8 To Městského soudu v Praze není vyloučený z vykonávání úkonů trestního řízení v trestní věci obviněného B. V.
+Proti tomuto usnesení podal obviněný B. V. stížnost a současně navrhl z důvodu podjatosti všech soudců Vrchního soudu v Praze přikázání věci Vrchnímu soudu v Olomouci.
+Nejvyšší soud projednal předložený návrh a dospěl k následujícímu závěru.
+Podání obviněného B. V. podle obsahu je nutno považovat za návrh na odnětí a přikázání věci podle § 25 tr. řádu. Podle § 25 tr. řádu může být věc z důležitých důvodů odňata příslušnému soudu a přikázána jinému soudu téhož druhu a stupně. Pojem „důležité důvody“ sice není v zákoně blíže definován, ale je nepochybné, že se musí jednat o skutečnosti, jež budou svoji povahou výjimečné, neboť ustanovení § 25 tr. řádu, podle něhož lze v určitých případech věc delegovat k jinému soudu, je zákonným průlomem do zásady, že nikdo nesmí být odňat svému zákonnému soudci, vyjádřené v čl. 38 odst. 1 Listiny základních práv a svobod. Důvody pro odnětí věci příslušnému soudu a její přikázání jinému soudu musí být natolik významné, aby dostatečně odůvodňovaly průlom do výše citovaného ústavního principu.
+Za současného stavu řízení je návrh obviněného B. V. na odnětí a přikázání věci podle § 25 tr. řádu přinejmenším předčasný. Pokud je Vrchní soud v Praze věcně a místně příslušný k rozhodnutí o stížnosti podané obviněným a obviněný před tím namítá jeho podjatost, je na obviněném, aby zdůvodnil, v čem tato podjatost spočívá, a proč jsou všichni soudci Vrchního soudu v Praze z projednání jeho věci vyloučeni nebo, v čem jiném spočívají důležité důvody k odnětí věci tomuto soudu. Protože tak obviněný neučinil, je jeho návrh předčasný nebo nedůvodný, a proto se nemohl shledat s úspěchem. Obviněný ve svém návrhu sice zpochybňuje jmenovitě nestrannost některých soudců, ale žádný z nich není soudcem Vrchního soudu v Praze. V podání obviněného není uvedena jediná skutečnost, která by byť jen zpochybnila možnost nestranného rozhodnutí Vrchního soudu v Praze, a která by mohla být považována za důležitý důvod k postupu podle § 25 tr. řádu.
+Za těchto důvodů bylo rozhodnuto, jak je ve výroku usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 30. dubna 2008
+Předseda senátu:
+JUDr. Pavel Kučera
