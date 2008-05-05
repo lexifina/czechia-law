@@ -1,0 +1,19 @@
+20 Cdo 874/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudců JUDr. Miroslavy Jirmanové a JUDr. Vladimíra Mikuška v exekuční věci oprávněného D. p. m. O., a. s., proti povinné D. F., zastoupené advokátem, o 1.006,- Kč s příslušenstvím, vedené u Okresního soudu v Olomouci pod sp. zn. 47 Nc 5604/2004, o dovolání Mgr. Ing. R. O., soudního exekutora (dále jen „exekutor“), proti usnesení Krajského soudu v Ostravě - pobočky v Olomouci ze dne 30. 8. 2006, č.j. 40 Co 1061/2006-72, takto :
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Olomouci usnesením ze dne 11. 1. 2006, č.j. 47 Nc 5604//2004-56, (mimo jiné) zastavil podle § 268 odst. 1 písm. g) zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů (dále jen „o.s.ř.“), ve spojení s § 52 odst. 1 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění pozdějších předpisů (dále jen „zákon č. 120/2001 Sb.“), exekuci nařízenou usnesením ze dne 18. 11. 2004, č.j. 47 Nc 5604/2004-7, a povinné, která po nařízení exekuce dluh odpovídající vymáhané pohledávce zaplatila, uložil zaplatit exekutorovi náklady exekuce ve výši 5.281,02 Kč.
+Krajský soud v záhlaví uvedeným rozhodnutím (mimo jiné) odmítl jako podané osobou neoprávněnou odvolání exekutora proti výroku usnesení soudu prvního stupně o zastavení exekuce a ve výroku o povinnosti povinné zaplatit exekutorovi náklady exekuce usnesení soudu prvního stupně potvrdil.
+Usnesení odvolacího soudu napadl ve shora uvedeném rozsahu exekutor dovoláním. Namítá, že pokud je rozhodováno o nároku exekutora na náklady exekuce, je exekutor účastníkem řízení a je oprávněn podat odvolání proti rozhodnutí soudu, které se těchto nákladů týká. Napadeným rozhodnutím mu bylo „upřeno právo hájit svá práva, protože jinak než odvoláním není schopen do řízení o ochraně svých práv vstoupit.“ Nesouhlasí se zastavením exekuce před vymožením nákladů exekuce a ani s výší částky, kterou mu má na nákladech exekuce povinná zaplatit.
+Dovolání není přípustné.
+Podle ustanovení § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti usnesení upravují ustanovení § 237 až § 239 o.s.ř.
+Ustanovení § 238, § 238a a § 239 o.s.ř. přípustnost dovolání nezakládají, protože usnesení, jímž bylo odmítnuto odvolání podle ustanovení § 218 písm. b/ o.s.ř., ani usnesení o nákladech řízení, a tedy ani o nákladech exekuce (§ 52 odst. 1 zákona č. 120/2001 Sb.), v jejich taxativních výčtech uvedeno není. Dovolání není přípustné ani podle ustanovení 237 odst. 1 o.s.ř., jelikož napadené výroky usnesení nemají povahu rozhodnutí ve věci samé; výrok, jímž bylo odmítnuto exekutorovo odvolání, navíc není rozhodnutím měnícím ani potvrzujícím (srov. usnesení Nejvyššího soudu ze dne 2. 12. 1997, sp. zn. 2 Cdon 774/97, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek č. 10, ročník 1998, pod poř. č. 61, usnesení Nejvyššího soudu ze dne 3. 10. 2002, sp. zn. 26 Cdo 1712/2002, uveřejněné v časopise Soudní judikatura č. 10, ročník 2002, pod poř. č. 196, usnesení Nejvyššího soudu ze dne 22. 3. 2005, sp. zn. 20 Cdo 2740/2004, uveřejněné v časopise Soudní judikatura č. 5, ročník 2005, pod poř. č. 70).
+Nejvyšší soud proto dovolání odmítl (§ 243b odst. 5, věta první, § 218 písm. c/ o.s.ř.).
+Výrok o nákladech dovolacího řízení odpovídá tomu, že (podle obsahu spisu) žádnému z účastníků, kromě dovolatele, náklady v tomto stadiu řízení nevznikly (§ 243b odst. 5, věta první, § 224 odst. 1, § 146 odst. 3 o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 5. května 2008
+JUDr. Pavel Krbek, v. r.
+předseda senátu
