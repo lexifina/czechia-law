@@ -1,0 +1,37 @@
+26 Odo 1607/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně Doc. JUDr. Věry Korecké, CSc., a soudců JUDr. Miroslava Feráka a JUDr. Marie Vokřinkové ve věci žalobkyně D. Š., zastoupené advokátkou, proti žalovanému J. D., zastoupenému advokátem, o žalobě na obnovu řízení, vedené u Obvodního soudu pro Prahu 5 pod sp.zn. 8 C 268/2004, o dovolání žalovaného proti usnesení Městského soudu v Praze ze dne 13. června 2006, č.j. 21 Co 182/2006-182, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů řízení.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 5 (soud prvního stupně) usnesením ze dne 17. 2. 2006, č.j.
+8 C 268/2004-164, zamítl žalobu žalovaného na obnovu řízení vedeného u Městského soudu v Praze pod sp.zn. 12 Co 140/2001; současně rozhodl o nákladech řízení.
+Městský soud v Praze (soud odvolací) usnesením ze dne 13. 6. 2006, č. j. 21 Co 182/2006-182, usnesení soudu prvního stupně potvrdil a rozhodl o nákladech odvolacího řízení. Odvolací soud přisvědčil závěru soudu prvního stupně, že v dané věci nejsou splněny zákonné důvody pro povolení obnovy řízení ve smyslu ustanovení § 228 odst. 1 písm. b) o.s.ř. Konstatoval, že podle uvedeného ustanovení je podmínkou obnovy řízení situace, kdy účastník řízení domáhající se obnovy řízení sice splnil svou povinnost tvrzení a povinnost důkazní, ale pro překážku stojící mimo jeho osobu, nemohl být navržený důkaz proveden
+a lze jej provést za současného splnění druhé podmínky, a to že takový postup může pro tohoto účastníka přivodit příznivější rozhodnutí ve věci. O takovýto případ se však v souzené věci nejedná, neboť žalovaným navrhovaný důkaz (zpráva Katastrálního úřadu pro hl. m. P. o průběhu vlastnických změn) není důkazem, který by z důvodu objektivní nemožnosti nemohl být proveden již v původním řízení vedeném u Obvodního soudu pro Prahu 5 pod sp.zn. 18 C 367/99. Navrhovaný důkaz by rovněž nemohl přivodit pro žalovaného příznivější rozhodnutí ve věci, když v řízení, jehož obnovy se domáhá, byl uznán povinným zaplatit část úroků z prodlení a je nerozhodné, z jakého důvodu se ocitl v prodlení.
+Proti usnesení odvolacího soudu podal žalovaný dovolání, jehož přípustnost opřel o ustanovení § 237 odst. 1 písm. c) o.s.ř. Zásadní právní význam napadeného rozhodnutí spatřuje v tom, že řeší otázku „zavinění prodlení věřitele z důvodu jím způsobeného nesprávného zápisu v katastru nemovitostí“, která dosud nebyla v rozhodování dovolacího soudu vyřešena, a dovolací soud ji vyřešil v rozporu s hmotným právem, když „nezhodnotil skutečnost, že žalobkyně svým působením dosáhla provedení změny zápisu v katastru nemovitostí“, aniž by o tom dovolatel věděl; tím mu zabránila použít jediný možný prostředek k získání hotovosti, totiž zástavu nemovitosti“. Odvolací soud tento postup žalobkyně, který je v rozporu s dobrými mravy (§ 3 odst. 1 obč.zák.), nezhodnotil. Navrhl, aby rozhodnutí soudů obou stupňů byla zrušena a věc byla vrácena soudu prvního stupně k dalšímu řízení. Současně učinil návrh na odklad vykonatelnost napadeného rozhodnutí.
+Vyjádření k dovolání nebylo podáno.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) po zjištění, že dovolání bylo podáno včas, osobou k tomu oprávněnou – účastníkem řízení (§ 240 odst. 1 o.s.ř.), za splnění podmínky advokátního zastoupení dovolatele (§ 241 odst. 1 a 4 o.s.ř.), se zabýval otázkou jeho přípustnosti.
+Přípustnost dovolání proti usnesení odvolacího soudu upravují ustanovení § 237 až
+§ 239 o.s.ř.
+Ustanovení § 238 odst. 1 písm. b), § 238a a § 239 o.s.ř. nezakládají přípustnost dovolání proti napadenému usnesení proto, že toto rozhodnutí nelze podřadit žádnému
+z tam vyjmenovaných případů.
+Podle § 238 odst. 1 písm. a) o.s.ř. je dovolání přípustné též proti usnesení odvolacího soudu, jímž bylo potvrzeno nebo změněno usnesení soudu prvního stupně, kterým bylo rozhodnuto o žalobě na obnovu řízení. Ustanovení § 237 o.s.ř. platí obdobně (§ 238 odst. 2 o.s.ř.).
+Ustanovení § 238 o.s.ř. tak vymezuje přípustnost dovolání proti usnesením vyjmenovaným v jeho odstavci 1 za podmínek, jež jsou uvedeny v § 237 o.s.ř. (včetně omezení, jež plynou z ustanovení § 237 odst. 2 o.s.ř.).
+Podle § 237 odst. 1 o.s.ř. dovolání je přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího soudu,
+a) jimiž bylo změněno rozhodnutí soudu prvního stupně ve věci samé,
+b) jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil,
+c) jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není přípustné podle písmena b) a dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam.
+Z ustanovení § 237 odst. 1 o.s.ř. ve spojení s dikcí § 238 odst. 1 písm. a) o.s.ř. pak plyne, že pro účely přípustnosti dovolání je rozhodnutím ve věci samé též usnesení, jímž odvolací soud změnil nebo potvrdil usnesení soudu prvního stupně o povolení obnovy řízení nebo o zamítnutí žaloby na obnovu řízení (srov. usnesení Nejvyššího soudu České republiky ze dne 4. září 2003, sp. zn. 29 Odo 270/2003, uveřejněné pod č. 172 v časopise Soudní judikatura 10/2003).
+Dovolání není přípustné ani podle § 238 odst. 1 písm. a) o.s.ř. ve spojení
+s ustanovením § 237 odst. 1 písm. a) a b) o.s.ř., neboť napadené usnesení není usnesením měnícím a usnesení soudu prvního stupně potvrzené napadeným usnesením bylo prvním rozhodnutím o žalobě na obnovu řízení.
+Konečně není splněna ani podmínka přípustnosti uvedená v ustanovení § 237 odst. 1 písm. c) o.s.ř. (ve spojení s ustanovením § 238 odst. 1 písm. a/ o.s.ř.), jelikož napadené rozhodnutí není rozhodnutím po právní stránce zásadního významu.
+Podle ustanovení § 237 odst. 3 o.s.ř. platí, že rozhodnutí odvolacího soudu má po právní stránce zásadní význam zejména tehdy, řeší-li právní otázku, která
+v rozhodování dovolacího soudu dosud nebyla vyřešena nebo která je odvolacími soudy nebo dovolacím soudem rozhodována rozdílně, nebo řeší-li právní otázku v rozporu s hmotným právem.
+Dovolatelem označená právní otázka nemůže založit přípustnost dovolání již z toho důvodu, že na jejím řešení napadené rozhodnutí nespočívá. Potvrzující rozhodnutí odvolacího soudu je totiž založeno na závěru, že v konkrétním případě není nabízený důkaz – v intencích § 228 odst. 1 písm. a) o.s.ř. – tím, jenž bez své viny nemohl žalovaný použít v původním řízení, a jenž by přivodil pro něho příznivější rozhodnutí ve věci, nikoliv na posouzení otázky zavinění věřitele na prodlení dlužníka, tím méně na posouzení nároku na úroky z prodlení z hlediska § 3 odst. 1 obč.zák.
+Vycházeje z uvedených závěrů, dovolací soud nedovodil přípustnost dovolání ze žádného v úvahu přicházejícího ustanovení občanského soudního řádu, a proto dovolání, aniž ve věci nařizoval jednání (§ 243a odst. 1 věta první o.s.ř.), podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o.s.ř. odmítl.
+O návrhu na odklad vykonatelnosti (§ 243 o.s.ř.) napadeného rozhodnutí dovolací soud v souladu se svou ustálenou praxí nerozhodoval.
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1, § 142 odst. 1 o.s.ř. a o skutečnost, že žalobkyni v této fázi řízení (podle obsahu spisu) žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 13. května 2008
+Doc. JUDr. Věra Korecká, CSc., v. r.
+předsedkyně senátu
