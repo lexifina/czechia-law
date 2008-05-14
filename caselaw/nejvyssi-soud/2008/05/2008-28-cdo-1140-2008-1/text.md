@@ -1,0 +1,20 @@
+28 Cdo 1140/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně
+JUDr. Ivy Brožové a soudců JUDr. Ludvíka Davida, CSc., a JUDr. Jana Eliáše, Ph.D.,
+v právní věci žalobce M. H., zastoupeného advokátem, proti žalovanému M. H.,
+o zaplacení částky 192.000,- Kč s příslušenstvím, vedené u Okresního soudu v Hodoníně pod sp. zn. 7 C 356/2003, o dovolání žalobce proti rozsudku Krajského soudu v Brně ze dne 1.9.2005, č. j. 38 Co 34/2005-102, takto:
+I. Řízení o dovolání se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalobce podal dne 7.11.2005 u Okresního soudu v Nymburce dovolání proti rozsudku Krajského soudu v Brně č.j. 38 Co 34/2005-102, kterým odvolací soud potvrdil rozsudek soudu prvního stupně č.j. 7 C 356/2003-72, jímž byla zamítnuta žaloba, aby žalovaný byl povinen zaplatit žalobci částku 192.000,- Kč s příslušenstvím.
+Okresní soud v Hodoníně usnesením ze dne 29.11.2005, č.j. 7 C 356/2003-108, žalobce vyzval, aby doplnil své podání ze dne 7.11.2005 a uvedl, v jakém rozsahu rozhodnutí odvolacího soudu napadá a z jakého důvodu tak činí, označil důkazy, které mají být provedeny k prokázání důvodu dovolání a aby prokázal, že je zastoupen advokátem nebo notářem, a uložil k tomu žalobci lhůtu 15 dnů. Žalobce byl poučen, že nemá-li dovolatel právnické vzdělání, musí být dovolání sepsáno advokátem nebo notářem a že pokud nebude podání řádně ve stanovené lhůtě doplněno, soud řízení zastaví.
+Žalobce své podání doplnil dne 9.12.2005 a požádal o osvobození od soudních poplatků a o ustanovení právního zástupce. Odvolací soud usnesením ze dne 16.10.2007, č.j. 38 Co 458/2007-181, potvrdil usnesení soudu prvního stupně ze dne 3.8.2007, č.j. 7 C 356/2003-175, kterým nebylo žalobci přiznáno osvobození od soudního poplatku a návrh na ustanovení zástupce byl zamítnut. Uvedené usnesení nabylo právní moci doručením žalobci dne 28.11.2007.
+Podle § 241b odst. 3 i.f. občanského soudního řádu, požádá-li dovolatel o ustanovení právního zástupce, běží lhůta k dovolání znovu ode dne právní moci usnesení, jímž bylo o této žádosti rozhodnuto. Jestliže v rozhodované věci nabylo usnesení, kterým byl návrh na ustanovení právního zástupce zamítnut, právní moci dne 28.11.2007, uplynula lhůta podle § 241b odst. 3 i.f. o.s.ř. dne 28.1.2008.
+Podle ustanovení § 241 odst. 1 občanského soudního řádu musí každý, kdo se dovolává proti pravomocnému usnesení odvolacího soudu, tedy každý dovolatel – fyzická osoba, která nemá právnické vzdělání, být zastoupen advokátem (nebo notářem), který musí dovolání sepsat (§ 241 odst. 4 o.s.ř.). Podle konstantní judikatury Nejvyššího soudu (srov. např. usnesení NS ze dne 27.2.2008, sp. zn. 20 Cdo 323/2003, nebo ze dne 6.9.2006, sp. zn. 20 Cdo 1930/2006), zvolí-li si dovolatel advokáta až poté, co sám podal dovolání, je ke splnění podmínky dovolatelova zastoupení nezbytné, aby zmocněnec (advokát) jím dříve učiněné podání nahradil nebo doplnil vlastním, popř. sdělil soudu, že se s již učiněným podáním ztotožňuje. Není-li splněna podmínka povinného zastoupení dovolatele, uvedená v ustanovení § 241 o.s.ř., postupuje se obdobně jako podle § 104 odst. 2 o.s.ř., podle něhož nepodaří-li se odstranit chybějící zákonem stanovené podmínky řízení, soud řízení zastaví (viz § 241b odst. 2 a § 104 odst. 2, věta třetí, o.s.ř.).
+V rozhodované věci žalobce sice doložil plnou mocí ze dne 11.10.2007, že je zastoupen advokátem, nicméně ve lhůtě pro podání dovolání ani později nedošlo k podání dovolání advokátem ani nebylo učiněno žádné jiné podání, jímž by se zvolený advokát ztotožnil s již učiněným podáním – dovoláním žalobce, a proto dovolací soud řízení podle § 241b odst. 2 a § 104 odst. 2 věty třetí o.s.ř. zastavil.
+Výrok o náhradě nákladů dovolacího řízení se opírá o skutečnost, že žalovanému prokazatelné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 14. května 2008
+JUDr. Iva Brožová, v. r.
+předsedkyně senátu
