@@ -1,0 +1,22 @@
+4 Nd 162/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl dne 15. května 2008 v senátě složeném z předsedy JUDr. Jiřího Pácala a soudců JUDr. Františka Hrabce a JUDr. Danuše Novotné v právní věci žalobkyně P. B., spol. s r. o., zastoupené JUDr. I. M., advokátkou, a žalované F. a. s., zastoupené JUDr. V. Ř., advokátem, o zaplacení 695.108,80 Kč s příslušenstvím, vedené u Krajského soudu v Českých Budějovicích pod sp. zn. 13 Cm 65/2008, o návrhu žalobce na přikázání věci z důvodu vhodnosti podle § 12 odst. 2 o. s. ř. t a k t o :
+Věc vedená u Krajského soudu v Českých Budějovicích pod sp. zn. 13 Cm 65/2008 s e n e p ř i k a z u j e Krajskému soudu v Brně.
+O d ů v o d n ě n í :
+Podáním ze dne 1. 10. 2007 (soudu doručeno dne 5. 10. 2007) podala žalobkyně
+u Krajského soudu v Českých Budějovicích návrh na zahájení řízení ve výše uvedené věci.
+Následně podáním ze dne 7. 4. 2008 podala žalobkyně návrh na přikázání věci Krajskému soudu v Brně z důvodu vhodnosti podle ustanovení § 12 odst. 2 o. s. ř. s odkazem na změnu sídla žalované a na hospodárnost řízení.
+Žalovaná však s návrhem na přikázání věci Krajskému soudu v Brně nesouhlasila s tím, že v případě postoupení věci Krajskému soudu v Brně by s velkou pravděpodobností došlo k oddálení rozhodnutí ve věci, neboť Krajský soud v Brně by se musel jednak seznámit s celým spisovým materiálem a jednak je zřejmé, že počet fyzických a právnických osob působících v obvodu Krajského soudu v Brně je větší než v obvodu Krajského soudu v Českých Budějovicích, což má zcela jistě i dopad na množství nápadu případů na příslušných soudech. Žalovaná navíc podotýká, že žalobkyně nenavrhuje v řízení výslech žádných svědků, kdežto žalovaná navrhuje výslech svědka D. M., který má bydliště v J. H.
+Podle ustanovení § 12 odst. 2 o. s. ř. věc může být přikázána jinému soudu téhož stupně z důvodu vhodnosti. Podle ustanovení § 12 odst. 3 věty první o. s. ř. o přikázání věci rozhoduje soud, který je nejblíže společně nadřízen příslušnému soudu a soudu, jemuž má být věc přikázána. Podle ustanovení § 12 odst. 3 věty druhé o. s. ř. účastníci mají právo se vyjádřit k tomu, kterému soudu má být věc přikázána, a v případě odstavce 2 též k důvodu, pro který by věc měla být přikázána.
+Nejvyšší soud jako soud nejblíže společně nadřízený příslušnému soudu (Krajský soud v Českých Budějovicích) a soudu, jemuž má být věc přikázána, tj. Krajský soud v Brně, návrhy žalobkyně a žalované na přikázání věci jinému soudu projednal a dospěl k závěru, že v posuzovaném případě nejsou splněny zákonné podmínky k tomu, aby věc byla přikázána jinému soudu z důvodu vhodnosti.
+Důvody vhodnosti podle tohoto ustanovení mohou být různé v závislosti na předmětu řízení, postavení účastníků i jiných okolnostech. Jde zejména o skutečnosti,
+z nichž lze dovodit, že jiným než příslušným soudem bude věc projednána rychleji
+a hospodárněji. K přikázání věci jinému než příslušnému soudu by však mělo docházet pouze výjimečně, a to ze závažných důvodů, neboť je uplatňováno jako výjimka
+z ústavně zaručené zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon (čl. 38 odst. 1 Listiny základních práv
+a svobod, publikované pod č. 2/1993 Sb., ve znění ústavního zákona č. 162/1998 Sb.). Důvody pro odnětí věci příslušnému soudu a její přikázání soudu jinému tedy musí být natolik významné, aby dostatečně odůvodňovaly průlom do výše citovaného ústavního principu. Zákon přitom výslovně zakotvuje právo účastníků vyjádřit se k důvodu delegace i k soudu, k němuž má být věc delegována, aby vhodnost takového postupu mohla být zvážena i z pohledu jejich poměrů; delegací totiž nesmí být navozen stav, který by se v poměrech některého z účastníků projevil zásadně nepříznivě.
+Po prostudování předmětného spisového materiálu Nejvyšší soud České republiky dospěl k závěru, že přikázáním věci dle návrhu žalobkyně by došlo ke stavu, který by byl pro jednoho z účastníků řízení nepříznivý. Nelze přehlédnout, že takový postup by zbavil žalovanou, která s přikázáním věci nesouhlasí, práva na projednání věci u jejího obecného soudu, zakotveného v ustanovení § 84 o. s. ř. Z návrhu ani z obsahu spisu pak nelze ani dovodit, že by věc mohla být Krajským soudem v Brně projednána hospodárněji a rychleji.
+Nejvyšší soud České republiky proto návrhu žalobkyně nevyhověl a věc podle ustanovení § 12 odst. 2 o. s. ř. Krajskému soudu v Brně nepřikázal.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 15. května 2008
+Předseda senátu:
+JUDr. Jiří Pácal
