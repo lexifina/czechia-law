@@ -1,0 +1,18 @@
+25 Cdo 96/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Vojtka a soudců JUDr. Marty Škárové a JUDr. Roberta Waltra v právní věci žalobkyně Mgr. S. B., proti žalovanému S. v. b. A. Č. 9 a 11, o náhradu škody, vedené u Okresního soudu v Ústí nad Labem pod sp. zn. 13 C 49/2006, o dovolání žalobkyně proti usnesení Krajského soudu v Ústí nad Labem ze dne 28. listopadu 2006, č. j. 12 Co 498/2006-37, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Krajský soud v Ústí nad Labem usnesením ze dne 28. 11. 2006, č. j. 12 Co 498/2006-37, potvrdil usnesení ze dne 24. 4. 2006, č. j. 13 C 49/2006-25, jímž Okresní soud v Ústí nad Labem odmítl návrh žalobkyně na zahájení řízení ze dne 5. 3. 2004 a ze dne 18. 3. 2004 podle § 43 odst. 2 o.s.ř. a rozhodl o náhradě nákladů řízení; odvolací soud rozhodl i o náhradě nákladů odvolacího řízení.
+Proti tomuto usnesení odvolacího soudu podala žalobkyně vlastnoručně psané dovolání.
+Nejvyšší soud jako soud dovolací (§10a o.s.ř.) dospěl k závěru, že nejsou splněny podmínky dovolacího řízení.
+Podle ustanovení § 241 odst. 1 o.s.ř., není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Podle ustanovení § 241 odst. 2 o.s.ř. odstavec 1 neplatí, a) je-li dovolatelem fyzická osoba, která má právnické vzdělání, b) je-li dovolatelem právnická osoba, stát, obec nebo vyšší územně samosprávný celek, jedná-li za ně osoba uvedená v § 21, 21a, anebo v § 21b, která má právnické vzdělání. Podle odst. 4 dovolání musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem, notářem nebo osobou uvedenou v § 21, 21a, 21b, anebo v § 26a odst. 3, která má právnické vzdělání.
+Pro podání dovolání, které je mimořádným opravným prostředkem, zákon stanoví požadavek, aby účastník řízení, který podává dovolání, měl buď sám právnické vzdělání, nebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc. Ustanovení § 241 o.s.ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění nelze o dovolání rozhodnout.
+Z obsahu spisu vyplývá, že žalobkyně byla usnesením Okresního soudu v Ústí nad Labem ze dne 11. 10. 2007, č. j. 13 C 49/2006-68, vyzvána, aby si pro podání dovolání v této věci zvolila zástupcem advokáta a aby jeho prostřednictvím podala řádné dovolání proti usnesení Krajského soudu v Ústí nad Labem ze dne 28. 11. 2006, č. j. 12 Co 498/2006-37,s tím, že pokud do 1 měsíce ode dne doručení usnesení nebude podepsanému soudu předložena plná moc zvoleného advokáta a jím sepsané dovolání se zákonnými náležitostmi, předloží věc dovolacímu soudu a ten dovolací řízení zastaví.
+Žalobkyně, jíž bylo toto usnesení doručeno dne 29. 10. 2007 (náhradním doručením podle § 50c o.s.ř. ve spojení s § 57 odst. 2 věta druhá o.s.ř.), na výzvu nijak nereagovala. Je tedy zřejmé, že dovolatelka nedostatek povinného zastoupení do současné doby neodstranila, ačkoliv byla poučena o povinném právním zastoupení v dovolacím řízení i o důsledcích nesplnění této podmínky. Nejvyšší soud proto dovolací řízení podle § 243c odst. 1 a § 104 odst. 2 věty třetí o.s.ř. zastavil, aniž se mohl zabývat otázkou dalších náležitostí podaného dovolání a jeho přípustností.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. l a § 146 odst. 2 věty první o.s.ř., když žalobkyně nemá na náhradu nákladů dovolacího řízení právo a žalovanému náklady v dovolacím řízení nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 22. května 2008
+JUDr. Petr Vojtek, v. r.
+předseda senátu
