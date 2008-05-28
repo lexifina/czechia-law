@@ -1,0 +1,16 @@
+7 Tdo 666/2008
+U S N E S E N Í
+Nejvyšší soud rozhodl v neveřejném zasedání dne 28. 5. 2008 o dovolání obviněného V. S. , proti usnesení Městského soudu v Praze ze dne 29. 10. 2007, sp. zn. 9 To 389/2007, v trestní věci vedené u Obvodního soudu pro Prahu 8 pod sp. zn. 32 T 120/2006 t a k t o :
+Podle § 265i odst. 1 písm. c) tr. ř. se dovolání obviněného V. S. o d m í t á .
+O d ů v o d n ě n í :
+Obviněný V. S. podal prostřednictvím obhájce dovolání proti usnesení Městského soudu v Praze ze dne 29. 10. 2007, sp. zn. 9 To 389/2007, jímž bylo podle § 256 tr. ř. zamítnuto jeho odvolání proti rozsudku Obvodního soudu pro Prahu 8 ze dne 25. 6. 2007, sp. zn. 32 T 120/2006.
+Nejvyšší soud shledal, že dovolání bylo podáno opožděně.
+Podle § 265e odst. 1 tr. ř. se dovolání podává ve lhůtě dvou měsíců od doručení rozhodnutí, proti kterému dovolání směřuje. O tom byl obviněný poučen v usnesení Městského soudu Praze. Podle § 265e odst. 2 tr. ř. jestliže se rozhodnutí doručuje jak obviněnému, tak i jeho obhájci, běží lhůta od toho doručení, které bylo provedeno nejpozději.
+V posuzovaném případě bylo usnesení Městského soudu v Praze doručeno tehdejší obhájkyni obviněného dne 26. 11. 2007. Obviněnému se nepodařilo usnesení doručit, zásilka určená do vlastních rukou obviněného byla dne 26. 11. 2007 uložena na poště a obviněný byl vyrozuměn o tom, že si ji tam může vyzvednout. To obviněný neučinil, takže uplynutím desetidenní lhůty stanovené v § 64 odst. 2 tr. ř., tj. dnem 6. 12. 2007, nastala tzv. fikce doručení, při které se poslední den uvedené lhůty považuje za den doručení, i když se obviněný o uložení zásilky případě nedověděl. Lze jen dodat, že zásilka byla obviněnému doručována na adresu Ch. , S. , kterou obviněný výslovně uvedl jako adresu pro doručování podle § 55 odst. 1 písm. c) tr. ř. Z toho vyplývá, že poslední den lhůty, v níž obviněný mohl podat dovolání, připadl na 6. 2. 2008. Nic na tom nemění okolnost, že po vzniku tzv. fikce doručení Obvodní soud pro Prahu 8 nechal usnesení Městského soudu v Praze znovu doručit obviněnému, který ho převzal dne 7. 2. 2008.
+Obviněný podal dovolání prostřednictvím nového obhájce, jehož si zvolil, až po uplynutí dovolací lhůty. Stalo se tak podáním ze dne 1. 4. 2008, které bylo adresováno a doručeno Městskému soudu v Praze dne 2. 4. 2008, když předcházejícího dne bylo dáno na poštu.
+Dovolací lhůtu není možné považovat za zachovanou ani se zřetelem k ustanovení § 265e odst. 2 tr. ř. Toto ustanovení upravuje počátek dovolací lhůty pro případ, že tu je rozdíl v datu doručení obviněnému oproti datu doručení obhájci. Jakmile však je některému z nich z různých důvodů doručováno dvakrát či vícekrát, je rozhodující první doručení. To platí i tehdy, když k prvnímu doručení dojde formou tzv. fikce doručení.
+Z těchto důvodů Nejvyšší soud opožděně podané dovolání obviněného podle § 265i odst. 1 písm. c) tr. ř. odmítl, aniž z jeho podnětu přezkoumal napadené usnesení a předcházející řízení z hledisek uvedených v § 265i odst. 3 tr. ř. V souladu s ustanovením § 265r odst. 1 písm. a) tr. ř. Nejvyšší soud rozhodl v neveřejném zasedání bez toho, že by k tomuto postupu potřeboval souhlas obviněného a státního zástupce.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 28. května 2008
+Předseda senátu:
+JUDr. Petr Hrachovec
