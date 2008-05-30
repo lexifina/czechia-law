@@ -1,0 +1,18 @@
+33 Cdo 2201/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Václava Dudy a soudců JUDr. Blanky Moudré a JUDr. Ivany Zlatohlávkové ve věci žalobce V. B., proti žalovanému M. K., o zaplacení 4.292,50 Kč s příslušenstvím oproti vydání věci, vedené u Okresního soudu v Hradci Králové pod sp. zn. 9 C 158/2006, o dovolání žalobce proti rozsudku Krajského soudu v Hradci Králové ze dne 6. února 2008, č. j. 21 Co 603/2007-61, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Hradci Králové rozsudkem ze dne 6. února 2008, č. j. 21 Co 603/2007-61, potvrdil rozsudek Okresního soudu v Hradci Králové ze dne 25. července 2007, č. j. 9 C 158/2006-40, jímž byla zamítnuta žaloba na vrácení kupní ceny ve výši 4.292,50 Kč oproti vydání televizoru O. výrobního čísla CTV 146A POO285501326, a bylo rozhodnuto o nákladech řízení; zároveň rozhodl o náhradě nákladů odvolacího řízení.
+Proti tomuto rozsudku podal žalobce dovolání.
+Dovolání proti pravomocnému rozsudku odvolacího soudu bylo sice podáno včas k tomu legitimovaným subjektem (žalobcem) nezastoupeným advokátem, směřuje však proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Podle § 237 odst. 1 o. s. ř. dovolání je přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího soudu, a) jimiž bylo změněno rozhodnutí soudu prvního stupně ve věci samé, b) jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil, a c) jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není přípustné podle písmena b/ a dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam.
+Podle § 237 odst. 2 o. s. ř. dovolání podle odstavce 1 není přípustné a) ve věcech, v nichž dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 20.000,- Kč a v obchodních věcech 50.000,- Kč; k příslušenství pohledávky se přitom nepřihlíží, a b) ve věcech upravených zákonem o rodině, ledaže jde o rozsudek o omezení nebo zbavení rodičovské zodpovědnosti nebo pozastavení jejího výkonu, o určení (popření) rodičovství nebo o nezrušitelné osvojení.
+Dovolání žalobce směřuje proti rozsudku, kterým odvolací soud potvrdil rozsudek soudu prvního stupně zamítající žalobu o zaplacení částky 4.292,50 Kč oproti vydání věci; směřuje tak proti rozsudku odvolacího soudu, jímž bylo rozhodnuto o částce nepřevyšující 20.000,- Kč, a není ve smyslu § 237 odst. 2 písm. a) o. s. ř. přípustné. Okolnost, že požadované peněžité plnění je podmíněno vzájemným plněním, je z hlediska aplikace § 237 odst. 2 písm. a) o. s. ř. irelevantní (k tomu srov. rozhodnutí Nejvyššího soudu ČR ze dne 30. listopadu 2006, sp. zn. 33 Odo 1495/2006). Dovolacímu soudu proto nezbylo než dovolání podle § 243b odst. 5 věty první o. s. ř. ve spojení s § 218 písm. c) o. s. ř. jako nepřípustné odmítnout.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 1 písm. c) o. s. ř. za stavu, kdy žalovanému podle obsahu spisu v této fázi řízení nevznikly žádné náklady, na jejichž náhradu by jinak měl vůči žalobci právo (§ 146 odst. 2 věta první o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 30. května 2008
+JUDr. Václav Duda
+předseda senátu
