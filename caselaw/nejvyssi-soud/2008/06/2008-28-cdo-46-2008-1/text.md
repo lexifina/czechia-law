@@ -1,0 +1,20 @@
+28 Cdo 46/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy
+JUDr. Ludvíka Davida, CSc., a soudců JUDr. Jana Eliáše, Ph.D., a JUDr. Josefa Rakovského v právní věci žalobkyně Z. P., zastoupené obecným zmocněncem, za účasti 1) P. f. ČR, a 2) ČR – Ministerstva obrany, o vlastnictví k nemovitostem, o nejasném podání, vedené u Okresního soudu v Příbrami pod sp. zn. 16 C 118/2003, o dovolání žalobkyně proti usnesení Krajského soudu v Praze ze dne 28. února 2007, č.j. 28 Co 53/2007-330, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Příbrami usnesením ze dne 23. 10. 2006, č. j. 16 C 118/2003-315, odmítl podání žalobkyně ze dne 10. 7. 2006 a rozhodl o náhradě nákladů řízení.
+Krajský soud v Praze usnesením ze dne 28. 2. 2007, č.j. 28 Co 53/2007-330, odvolání žalobkyně proti usnesení soudu prvního stupně odmítl a rozhodl o náhradě nákladů odvolacího řízení. Rozhodnutí (podle § 43 odst. 2 ve spojení s § 211 o. s. ř.) odůvodnil tím, že z odvolání (podání ze dne 14. 11. 2006, jež podle obsahu bylo odvoláním) nebylo zřejmé, jakému soudu je určeno, v jakém rozsahu žalobkyně rozhodnutí soudu prvního stupně napadá, v čem konkrétně spatřuje nesprávnost rozhodnutí či postupu soudu a jak má soud rozhodnout (odvolací návrh), přičemž tyto nedostatky nebyly žalobkyní odstraněny ani po doručení výzvy s řádným poučením ve smyslu ustanovení § 43 odst. 1, 2 o. s. ř.
+Proti tomuto usnesení podala žalobkyně dovolání.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) po zjištění, že dovolání bylo podáno proti pravomocnému usnesení odvolacího soudu oprávněnou osobou (účastníkem řízení) ve lhůtě uvedené v ustanovení § 240 odst. 1 o.s.ř., dospěl k závěru, že dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný, a proto se nemusel zabývat splněním podmínky povinného zastoupení dovolatelky uvedené v § 241 o.s.ř. (§ 241b odst. 2, část věty za středníkem, o.s.ř.).
+Dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští (§ 236 odst. 1 o.s.ř.).
+V posuzovaném případě žalobkyně dovoláním napadá usnesení odvolacího soudu, kterým bylo odmítnuto odvolání proti usnesení soudu prvního stupně pro neodstranění vad podání.
+Přípustnost dovolání podle § 237 o.s.ř. není dána z toho důvodu, že usnesením odvolacího soudu nebylo usnesení soudu prvního stupně ani změněno ani potvrzeno (odvolací soud vůbec nerozhodoval ve věci samé). Dovolání není přípustné podle § 238 a 238a o.s.ř., protože usnesením soudu prvního stupně nebylo rozhodnuto ve věcech, které jsou v uvedených ustanoveních taxativně vyjmenovány, a přípustnost dovolání nevyplývá ani z § 239 odst. 1 a 2 o.s.ř., neboť nejde o případy v těchto ustanoveních uvedené. Přípustnost dovolání nelze důvodně dovozovat ani z § 239 odst. 3 o.s.ř., neboť podle tohoto ustanovení lze podat dovolání jen tehdy, bylo-li potvrzeno usnesení soudu prvního stupně, jímž byla postupem podle § 43 o.s.ř. odmítnuta žaloba, popřípadě jiný návrh na zahájení řízení, a nikoliv odmítl-li odvolací soud odvolání proti usnesení soudu prvního stupně podle § 43 odst. 2 a § 211 o.s.ř. pro neodstranění vad odvolání (srov. obdobně např. usnesení Nejvyššího soudu ČR ze dne 27. května 2003, sp. zn. 25 Cdo 915/2003, uveřejněné v Souboru civilních rozhodnutí a stanovisek Nejvyššího soudu pod C 1939, svazek 25, ročník 2004).
+Z uvedeného vyplývá, že dovolání žalobkyně směřuje proti rozhodnutí odvolacího soudu, proti němuž není tento mimořádný opravný prostředek přípustný. Nejvyšší soud ČR je proto podle ustanovení § 243b odst. 5, věty první, a § 218 písm. c) o.s.ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o.s.ř., neboť žalobkyně s ohledem na výsledek dovolacího řízení nemá na náhradu nákladů řízení právo a ostatním účastníkům v tomto řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 4. června 2008
+JUDr. Ludvík David, CSc., v. r.
+předseda senátu
