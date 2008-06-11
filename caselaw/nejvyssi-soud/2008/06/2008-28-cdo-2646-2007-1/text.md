@@ -1,0 +1,24 @@
+28 Cdo 2646/2007
+ČESKÁ REPUBLIKA
+ROZSUDEK
+JMÉNEM REPUBLIKY
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Ludvíka Davida, CSc., a soudců JUDr. Josefa Rakovského a JUDr. Jana Eliáše, Ph.D., v právní věci žalobce Ing. J. T., zastoupeného advokátem, proti žalovanému D. Š., zastoupenému advokátem, o zaplacení 52.800,- Kč, vedené u Okresního soudu v Domažlicích pod sp.zn. 5 C 134/2004, o dovolání žalobce proti rozsudku Krajského soudu v Plzni ze dne 30. 1. 2007, č.j. 14 Co 575/2006-173, takto:
+I. Dovolání se zamítá.
+II. Žalobce je povinen nahradit žalovanému náklady dovolacího řízení ve výši 8.440,- Kč do tří dnů od právní moci rozhodnutí k rukám zástupce žalovaného.
+O d ů v o d n ě n í :
+Krajský soud v Plzni rozsudkem výše označeným potvrdil rozsudek Okresního soudu v Domažlicích ze dne 20. 9. 2006, č.j. 5C 134/2004-154, kterým byla zamítnuta žaloba o zaplacení 52.800,- Kč s příslušenstvím. Odvolací soud rozhodl též o povinnosti žalobce nahradit žalovanému náklady odvolacího řízení ve výši 8.440,- Kč do tří dnů od právní moci rozsudku k rukám jeho zástupce.
+Odvolací soud rozhodoval ve věci tvrzeného dlužného nájemného ze smlouvy o nájmu nebytových prostor, uzavřené mezi žalobcem jako pronajímatelem a žalovaným jako nájemcem dne 18. 6. 2003; dluh na nájemném měl vzniknout za dobu od 1. 6. 2003 do 30. 5. 2004. Odvolací soud setrval na závěru, že nájemní smlouva je absolutně neplatná pro neurčitost vymezení předmětu nájmu (§ 3 odst. 3 zákona č. 116/1990 Sb., o nájmu a podnájmu nebytových prostor). Žalobce nevyužil – po poučení soudem – možnost změnit svá skutková tvrzení na nárok vydat bezdůvodné obohacení. Smlouvou pronajatý nebytový prostor není „právně ani fakticky volný“.
+Proti rozsudku odvolacího soudu podal žalobce dovolání, které opíral o důvod spočívající v nesprávném právním posouzení věci. Nájemní smlouva byla podle žalobce dostatečně určitá. Žalovaný prostor „převzal a začal užívat“. Žalobce žádal, aby dovolací soud zrušil rozsudky obou instancí a věc vrátil soudu prvního stupně k dalšímu řízení.
+Žalovaný navrhoval ve vyjádření k dovolání, aby dovolání nebylo vyhověno. Zdůvodňoval neplatnost nájemní smlouvy a uváděl, že předmětem nájmu měly být nebytové prostory, které byly již v době užívání pronajaty třetí osobě (ing. B.), a proto byl nájem fakticky i právně nemožný.
+Dovolání bylo podáno ve lhůtě oprávněnou osobou, zastoupenou advokátem (§ 240 odst. 1, § 241 odst. 1 o. s. ř.). Přípustnost dovolání byla dána podle § 237 odst. 1 písm. b/ o. s. ř. a dovolací důvod uplatněn podle § 241 odst. 2 písm. b/ o. s. ř.
+Dovolání však není opodstatněné.
+Nejvyšší soud je v rámci mimořádného dovolacího přezkumu oprávněn k zákonem limitovaným právním závěrům, případně i odlišným od závěrů nižších instancí a pro ně závazným. Není však institucí, jež by měla „napravovat“ smluvní nejasnosti mezi účastníky – navíc takové nejasnosti, které už podrobně skutkově zjistily a právně posoudily nižší instance. Již vůbec nemůže dovolací soud zasahovat do skutkového základu věci, neboť je vázán skutečnostmi, které zjistily soudy nižších stupňů.
+Problém právního titulu požadovaného plnění je v posuzované věci překlenutelný. I bez změny žaloby by mohly obě nižší instance posoudit nárok na zaplacení částky odpovídající nájemnému, je-li nájemní smlouva neplatná, podle ustanovení o. z. o bezdůvodném obohacení (srov. rozsudek NS sp. zn. 25 Cdo 1934/2001, R 78/2004 Sbírky soudních rozhodnutí a stanovisek).
+Tomu by však musel odpovídat stav, při němž by zaplacení příslušné částky bylo podloženo skutečným užíváním jasně vymezeného rozsahu nebytového prostoru. Takový – pro dovolací soud určující – závěr však ze skutkových zjištění ve věci nevyplývá. Odvolací soud zjistil, že nebytový prostor nebyl fakticky volný (viz výše). Dovolatel proti tomuto závěru brojí jen částečně, neboť tvrdí, že žalovaný prostor po převzetí „začal užívat“ (a to je ještě mezi stranami neshoda, o jaký prostor přesně jde).
+Za takového skutkového i právního stavu nebylo možné učinit závěr, že by odvolací soud dospěl k nesprávnému právnímu posouzení věci ve smyslu § 241a odst. 2 písm. b/ o. s. ř.
+Žalobcovo dovolání bylo proto podle § 243b odst. 2 věty před středníkem o. s. ř. zamítnuto.
+Úspěšnému žalovanému vzniklo právo na náhradu nákladů řízení o dovolání podle § 243b odst. 5, § 224 odst. 1 a § 142 odst. 1 o. s. ř. Za vyjádření k dovolání náleží od 1. 9. 2006 sazba za úkon ve výši 16.280,- Kč. Tuto částku bylo nutné krátit na polovinu pro jediný úkon v řízení, tj. na částku 8.140,- Kč (§ 3 odst. 1, § 16 odst. 2, § 18 odst. 1 vyhlášky č. 484/2000 Sb.). S přičtením režijního paušálu 300,- Kč představovaly náklady řízení žalovaného částku 8.440,- Kč.
+Proti tomuto rozsudku není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 11. června 2008
+JUDr. Ludvík David, CSc., v. r.
+předseda senátu
