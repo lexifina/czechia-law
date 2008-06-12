@@ -1,0 +1,18 @@
+4 Nd 197/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl dne 12. června 2008 v senátě složeném z předsedkyně JUDr. Danuše Novotné a soudců JUDr. Jiřího Pácala a JUDr. Františka Hrabce ve věci žalobce I. K, zastoupeného JUDr. K. H., advokátem, proti žalovaným J. H. a Ing. M. H., o povinnosti strpět uložení elektrického kabelu pod povrchem parcel, vedené u Okresního soudu v Třebíči pod sp. zn. 5 C 163/2005, o návrhu žalovaného J. H. na přikázání věci z důvodu vhodnosti podle § 12 odst. 2 o. s. ř. t a k t o :
+Věc vedená u Okresního soudu v Třebíči pod sp. zn. 5 C 163/2005 s e n e p ř i k a z u j e k projednání a rozhodnutí Okresnímu soudu Kutné Hoře.
+O d ů v o d n ě n í :
+Žalovaný J. H. podal přípisem ze dne 21. 4. 2008 návrh, aby předmětná právní věc byla z důvodu vhodnosti delegována k Okresnímu soudu v Kutné Hoře. Žádost odůvodnil tím, že je mu 89 let, má značné zdravotní problémy, onemocnění jej nejen zatěžuje, ale rovněž uvádí do indiskrétních situací. Má sníženou a omezenou pohyblivost, je závislý na pomoci jiné osoby. Byl nucen se proto přestěhovat ke svému synovci T. H. do K. H. Dojíždění k soudu v Třebíči mu činí velké potíže. Protože by se však rád osobně účastnil soudního jednání, žádá, aby bylo jeho návrhu vyhověno.
+Právní zástupce žalobce přípisem ze dne 5. 5. 2008 sdělil, že s návrhem na přikázání věci Okresnímu soudu v Kutné Hoře nesouhlasí. K takovému přikázání nevidí právní důvod a uvádí, že žalovaný má svého advokáta za tím účelem, aby náležitě hájil jeho zájmy.
+Nejvyšší soud posoudil obsah návrhu žalovaného, důvody nesouhlasu žalobce, jakož i obsah spisu v předmětné právní věci a dospěl k závěru, že důvody k přikázání věci Okresnímu soudu v Kutné Hoře nejsou dány.
+Podle ust. § 12 odst. 2 o. s. ř. může být věc přikázána jinému soudu téhož stupně z důvodu vhodnosti.
+Z důvodu vhodnosti lze věc přikázat k projednání a rozhodnutí jinému soudu zejména tehdy, nasvědčují-li okolnosti případu, a to ať již na straně účastníků nebo vyplývající z okolností věci (předmětu řízení apod.), že jiný soud věc projedná
+a rozhodne rychleji a hospodárněji.
+Důvody vedoucí k odnětí věci příslušnému soudu a její přikázání jinému soudu musí být natolik závažné, aby odůvodňovaly výjimku z ústavně zaručené zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon (čl. 38 odst. 1 Listiny základních práv a svobod).
+V posuzované věci okolnosti, kterými odůvodňuje žalovaný svůj návrh na delegaci, nelze považovat za natolik závažné, aby odůvodňovaly navrhovaný zásah do práv ostatních účastníků, tedy žalobce a druhého žalovaného. Přitom pochopitelně vzal do úvahy, že vzhledem k přestěhování J. H. v roce 2007 k synovci do K. H. by bylo přikázání věci Okresnímu soudu v Kutné Hoře z hlediska tohoto účastníka nepochybně příznivé. Samotný poukaz žalovaného J. H. na jeho zdravotní stav, který mu komplikuje osobní účast na soudním jednání, však nelze považovat za dostatečně relevantní. Místně příslušný Okresní soud v Třebíči již ve věci prováděl úkony, a to včetně jednání dne 10. 4. 2008, kterého se osobně účastnil jak žalovaný J. H., tak je právní zástupce JUDr. Z. M. Stav projednávané věci není takový, aby řízení u Okresního soudu v Třebíči nebylo možno s ohledem na okolnosti uváděné žalovaným J. H. úspěšně dokončit. Navrhovaná delegace k Okresnímu soudu v Kutné Hoře by naopak byla jak s ohledem na zájmy ostatních účastníků, tak i s ohledem na požadavek rychlosti a hospodárnosti řízení dle názoru Nejvyššího soudu nevhodná.
+Z uvedených důvodů Nejvyšší soud rozhodl návrhu na delegaci k Okresnímu soudu v Kutné Hoře nevyhovět.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 12. června 2008
+Předsedkyně senátu:
+JUDr. Danuše N o v o t n á
