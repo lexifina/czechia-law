@@ -1,0 +1,19 @@
+33 Cdo 1378/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivany Zlatohlávkové a soudců JUDr. Blanky Moudré a JUDr. Václava Dudy ve věci žalobce J. L. proti žalovanému R. N., zastoupenému advokátkou, o zaplacení 57.387,60 Kč s příslušenstvím, vedené u Okresního soudu v Pardubicích pod sp. zn. 9 C 113/2005, o dovolání žalobce proti rozsudku Krajského soudu v Hradci Králové ze dne 19. června 2007, č. j. 22 Co 146/2007-54, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Hradci Králové rozsudkem ze dne 19. června 2007, č. j. 22 Co 146/2007-54, potvrdil rozsudek Okresního soudu v Pardubicích ze dne 16. listopadu 2006, č. j. 9 C 113/2005-39, kterým byla zamítnuta žaloba o zaplacení 57.387,60 Kč s 8,75% úrokem z prodlení od 31.5.2005 do zaplacení a bylo rozhodnuto o nákladech řízení.
+Proti rozsudku odvolacího soudu podal žalobce (nezastoupen advokátem) dovolání.
+Dovolání bylo podáno včas osobou k tomu oprávněnou (žalobcem), nejsou však dány podmínky pro jeho věcné projednání.
+Podle § 241 odst. 1 o. s. ř. není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. To neplatí, je-li dovolatelem fyzická osoba, která má právnické vzdělání (§ 241 odst. 2 písm. a/ o. s. ř.), anebo je-li dovolatelem právnická osoba, stát, obec nebo vyšší územně samosprávný celek, jedná-li za ně osoba uvedená v § 21, 21a, anebo v 21b, která má právnické vzdělání (§ 241a odst. 2 písm. b/ o. s. ř.), popřípadě je-li dovolatelem obec, kterou zastupuje stát podle § 26a, jedná-li jménem státu za zastoupenou obec osoba uvedená v § 26a odst. 3 o. s. ř.), která má právnické vzdělání (§ 241 odst. 3 o. s. ř.). Dovolání musí být sepsáno, s výjimkou případu uvedeného v § 241 odst. 2 písm. a/ o. s. ř., advokátem, notářem nebo osobou uvedenou v § 21, 21a, 21b, anebo v § 26a odst. 3 o. s. ř., která má právnické vzdělání (§ 241 odst. 4 o. s. ř.).
+Povinné zastoupení je zvláštní podmínkou dovolacího řízení týkající se dovolatele (v daném případě fyzické osoby, která nemá právnické vzdělání), jejíž nedostatek lze odstranit, avšak bez jejíhož splnění není možno o dovolání věcně rozhodnout.
+Podle § 104 odst. 2 o. s. ř. jde-li o nedostatek podmínky řízení, který lze odstranit, učiní k tomu soud vhodná opatření. Nezdaří-li se nedostatek podmínky řízení odstranit, řízení zastaví.
+Protože žalobce nebyl zastoupen advokátem a z obsahu spisu nevyplývalo, že by sám měl právnické vzdělání, byl usnesením Okresního soudu v Pardubicích ze dne 27. prosince 2007, č. j. 9 C 113/2005-63, které osobně převzal dne 15. ledna 2008, vyzván, aby ve lhůtě 20 kalendářních dnů od doručení usnesení předložil soudu plnou moc advokáta, který jej bude v dovolacím řízení zastupovat a sepíše (doplní) dovolání; současně byl poučen i o tom, že nebude-li výzvě vyhověno, dovolací soud dovolací řízení zastaví. Žalobce na usnesení nijak nereagoval a nedostatek právního zastoupení neodstranil.
+Z výše uvedeného vyplývá, že zákonem stanovená podmínka dovolacího řízení podle § 241 odst. 1 věty první o. s. ř. ve spojení s § 241 odst. 4 o. s. ř. nebyla přes soudem prvního stupně provedená opatření do dnešního dne splněna. Nejvyšší soud proto dovolací řízení pro nedostatek uvedené podmínky řízení podle § 241b odst. 2 a § 104 odst. 2 o. s. ř. zastavil.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a 146 odst. 2 o. s. ř. za situace, kdy žalobce sice z procesního hlediska zavinil, že dovolací řízení bylo zastaveno, žalovanému však v souvislosti s dovolacím řízením náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 17. června 2008
+JUDr. Ivana Z l a t o h l á v k o v á
+předsedkyně senátu
