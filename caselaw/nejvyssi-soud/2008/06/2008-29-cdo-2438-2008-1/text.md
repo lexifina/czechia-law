@@ -1,0 +1,14 @@
+29 Cdo 2438/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudců Mgr. Filipa Cilečka a JUDr. Hany Gajdziokové v konkursní věci úpadce Z. d. L., d. - v l., vedené u Krajského soudu v Brně pod sp. zn. 24 K 13/2001, o zrušení konkursu po splnění rozvrhového usnesení, o dovolání konkursních věřitelů J. D., , proti usnesení Krajského soudu v Brně ze dne 24. listopadu 2004, č.j. 24 K 13/2001-212 a usnesení Vrchního soudu v Olomouci ze dne 4. září 2006, č.j. 2 Ko 51/2005-258, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í :
+Vrchní soud v Olomouci usnesením ze dne 4. září 2006, č.j. 2 Ko 51/2005-258, potvrdil usnesení ze dne 24. listopadu 2004, č.j. 24 K 13/2001-212, jímž Krajský soud v Brně zrušil konkurs na majetek úpadce Z. d. L., d. - v l., po splnění rozvrhového usnesení.
+Proti rozhodnutí soudů obou stupňů podali konkursní věřitelé J. D. aj. P. dovolání, domáhajíce se jejich zrušení.
+Dovolatelé výslovně dovoláním napadají i rozhodnutí soudu prvního stupně. Jelikož funkční příslušnost soudu pro projednání dovolání proti rozhodnutí soudu prvního soudu není dána, Nejvyšší soud řízení o takovém podání ve smyslu ustanovení § 104 odst. 1 občanského soudního řádu (dále jen „o. s. ř.“) zastavil (k tomu srov. např. rozhodnutí uveřejněné pod číslem 47/2006 Sbírky soudních rozhodnutí a stanovisek).
+Podle ustanovení § 241 o. s. ř., není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními právními předpisy (odstavce 1). Odstavec 1 neplatí, a) je-li dovolatelem fyzická osoba, která má právnické vzdělání, b) je-li dovolatelem právnická osoba, stát, obec nebo vyšší územně samosprávný celek, jedná-li za ně osoba uvedená v § 21, § 21a anebo v § 21b, která má právnické vzdělání (odstavec 2). Dovolání musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem, notářem nebo osobou uvedenou v § 21, § 21a, § 21b anebo v § 26a odst. 3, která má právnické vzdělání (odstavec 4).
+Jelikož povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, bez jejíhož splnění nelze vydat - s výjimkou usnesení, jímž se dovolací řízení zastavuje, nebo usnesení, jímž se dovolání odmítá - rozhodnutí, kterým se dovolací řízení končí, přičemž k odstranění tohoto nedostatku přes výzvu doručenou dovolatelům 22. ledna 2007 (viz usnesení Krajského soudu v Brně ze dne 17. ledna 2007, č.j. 24 K 13/2001-275, včetně doručenek u č. l. 276) a dne 14. května 2007 (viz usnesení Krajského soudu v Brně ze dne 9. května 2007, č.j. 24 K 13/2001-301, včetně doručenek u č. l. 304) do dnešního dne nedošlo, Nejvyšší soud dovolací řízení i v této části podle ustanovení § 104 odst. 2 a § 243c o. s. ř. zastavil.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 26. června 2008
+JUDr. Petra G e m m e l
+předseda senátu
