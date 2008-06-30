@@ -1,0 +1,17 @@
+11 Tvo 19/2008
+U S N E S E N Í
+Nejvyšší soud projednal v neveřejném zasedání konaném dne 30. 6. 2008 stížnost obviněného J. B., proti usnesení Vrchního soudu v Praze ze dne 27. 5. 2008, sp. zn. 9 To 38/2008, a rozhodl t a k t o :
+Podle § 148 odst. 1 písm. c) tr. řádu s e stížnost obviněného J. B. z a m í t á .
+O d ů v o d n ě n í :
+Rozsudkem Městského soudu v Praze ze dne 12. 2. 2008, sp. zn. 2 T 2/2007, byl obviněný J. B. uznán vinným trestným činem podvodu podle § 250 odst. 1, 3 písm. b) tr. zák., dílem dokonaným a dílem ve stadiu pokusu podle § 8 odst. 1 tr. zák. ve spolupachatelství podle § 9 odst. 2 tr. zák. a odsouzen k trestu odnětí svobody v trvání tří let a šesti měsíců, pro jehož výkon byl zařazen do věznice s ostrahou, a k povinnosti zaplatit škodu. Stejným rozsudkem bylo rozhodnuto o vině a trestu obviněných Ing. A. B., J. L. a K. P.
+Proti tomuto rozsudku podali odvolání všichni obvinění, státní zástupce a poškozený Č. s., a. s. a trestní věc byla předložena Vrchnímu soudu v Praze jako soudu odvolacímu.
+Vrchní soud v Praze usnesením ze dne 27. 5. 2008, sp. zn. 9 To 38/2008, podle § 72 odst. 3 tr. řádu zamítl žádost obviněného J. B. o propuštění z vazby na svobodu a podle § 73 odst. 1 písm. b) tr. řádu nepřijal nabízený písemný slib obviněného.
+Proti tomuto usnesení podal obviněný J. B. stížnost, v níž poukazuje na nedůvodnost jeho ponechání ve vazbě, na nedostatečné odůvodnění vazebních důvodů a na skutečnost, že se ve vazbě nachází již déle jak dva roky. Současně opět nabízí písemný slib, že se v případě propuštění z vazby na svobodu nebude vyhýbat trestnímu řízení, povede řádný život a nedopustí se trestné činnosti, a navrhuje, aby bylo napadené usnesení zrušeno a on byl propuštěn z vazby na svobodu. Propuštění z vazby se navíc domáhá i z důvodů vleklých problémů s krční páteří, jež dle jeho přesvědčení vyžadují okamžitou operaci.
+Nejvyšší soud z podnětu podané stížnosti přezkoumal podle § 147 odst. 1 tr. řádu správnost napadeného rozhodnutí i řízení, které mu předcházelo, a dospěl k tomuto závěru.
+O důvodnosti vazby obviněného J. B. bylo v průběhu dosavadního řízení několikrát rozhodováno, naposledy napadeným usnesením Vrchního soudu v Praze, kterým byla zamítnuta jeho žádost o propuštění z vazby na svobodu a nebyl přijat jím nabízený písemný slib. Rozsudkem soudu prvního stupně byl obviněný uznán vinným závažnou trestnou činností, za kterou mu byl uložen poměrně přísný nepodmíněný trest odnětí svobody. Hrozba trestu, spolu s dosavadním způsobem života obviněného, činí obavu, že by se na svobodě před tímto trestem skrýval a trestnou činnost, pro níž je stíhán, opakoval, zcela reálnou. Obava z toho, že se obviněný na svobodě bude chovat způsobem předvídaným v ustanovení § 67 písm. a), c) tr. řádu, je natolik silná a vzhledem k hrozícímu trestu a předchozímu počínání obviněného i reálná, že ji nelze rozptýlit ani nabízeným písemným slibem. V tomto směru je možno se ztotožnit s rozhodnutím vrchního soudu a na jeho odůvodnění lze v podrobnostech plně odkázat.
+Pokud jde o posouzení zdravotního stavu obviněného J. B., resp. nutnosti operace krční páteře, lze konstatovat, že zatím žádná lékařská zpráva nehodnotí zdravotní stav obviněného tak, že by tato operace byla v současné době nevyhnutelná.
+Trestní řízení proti obviněnému trvá zatím dobu, která je přiměřená náročnosti projednávané věci, žádné nepřiměřené průtahy během tohoto řízení nebyly zjištěny.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 30. června 2008
+Předseda senátu:
+JUDr. Pavel Kučera
