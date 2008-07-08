@@ -1,0 +1,15 @@
+29 Nd 335/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Krčmáře a soudců JUDr. Petra Gemmela a JUDr. Hany Gajdziokové ve věci péče o nezletilou M. M., bytem u matky, zastoupenou M. m. K. jako opatrovníkem, dceru Z. B., zastoupené JUDr. V. T., advokátem, a H. M., vedené u Okresního soudu v Kladně pod sp. zn. 42 Nc 122/99, o návrhu otce na přikázání věci jinému soudu, takto:
+Věc vedená u Okresního soudu v Kladně pod sp. zn. 42 Nc 122/99 se nepřikazuje Městskému soudu v Brně.
+O d ů v o d n ě n í:
+Ve shora označeném řízení podal otec nezletilé návrh na přikázání věci k „civilnímu soudu v B.“ (soudem, který pro obvod města B. má postavení okresního soudu, je Městský soud v B.). Návrh odůvodnil tím, že nevěří ve spravedlnost samosoudkyně Okresního soudu v K. JUDr. K., vytýkaje jí, že má rasistické tendence.
+Matka nezletilé s přikázáním věci jinému soudu prvního stupně nesouhlasí, s tím, že pro to nevidí jediný důvod. Opatrovník nezletilé se k návrhu na přikázání věci nevyjádřil.
+Nejvyšší soud jako soud nejblíže společně nadřízený příslušnému soudu (Okresnímu soudu v K.) a Městskému soudu v B. jemuž má být věc přikázána (§ 12 odst. 3 zákona č. 99/1963 Sb., občanského soudního řádu - dále též jen „o. s. ř.“), dospěl k závěru, že nejsou splněny podmínky pro přikázání věci jinému soudu z důvodu vhodnosti podle ustanovení § 12 odst. 2 o. s. ř.
+Důvod vhodnosti pro přikázání věci jinému soudu téhož stupně ve smyslu ustanovení § 12 odst. 2 o. s. ř. představují takové okolnosti, které umožní hospodárnější, rychlejší nebo zejména po skutkové stránce spolehlivější a důkladnější projednání věci jiným než příslušným soudem. Přitom je ale třeba mít na zřeteli, že obecná místní příslušnost soudu, který má podle zákona věc projednat, je základní zásadou, a že případná delegace této příslušnosti jinému soudu je toliko výjimkou z této zásady, kterou je nutno - právě proto, že jde o výjimku - vykládat restriktivně (srov. např. nález Ústavního soudu České republiky ze dne 15. listopadu 2001, sp. zn. I. ÚS 144/2000, uveřejněný ve Sbírce nálezů a usnesení Ústavního soudu, svazku 24, ročníku 2001, části I., pod pořadovým číslem 172).
+V posuzované věci jsou úvahy o restriktivním přístupu k institutu přikázání věci jinému soudu z důvodu vhodnosti posíleny i tím, že by šlo o prolomení výlučné místní příslušnosti soudu založené bydlištěm nezletilé (srov. § 88 písm. c/ o. s. ř.). Přitom bylo přihlédnuto i k tomu, že tvrzeními uplatněnými otcem nezletilé pro přikázání věci jinému soudu se zabýval nadřízený (Okresnímu soudu v K.) Krajský soud v P., který rozhodl (usnesením ze dne 22. března 2005, č. j. 30 Nc 10/2005-524), že označená soudkyně není vyloučena z projednávání a rozhodování věci, uváděje, že žádné okolnosti, z nichž by bylo lze usuzovat na podjatost soudkyně, zjištěny nebyly.
+Nejvyšší soud proto návrhu otce nezletilé na přikázání věci Městskému soudu v B. nevyhověl.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 8. července 2008
+JUDr. Zdeněk K r č m á ř
+předseda senátu
