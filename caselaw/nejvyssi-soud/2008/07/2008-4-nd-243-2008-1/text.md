@@ -1,0 +1,19 @@
+4 Nd 243/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Danuše Novotné a soudců JUDr. Františka Hrabce a JUDr. Jiřího Pácala v právní věci oprávněné: Všeobecná zdravotní pojišťovna České republiky, proti povinnému: T. D. N., v řízení o nařízení exekuce pro vymožení částky 72.050,- Kč, vedené u Okresního soudu ve Znojmě pod sp. zn. 8 Nc 4837/2008, o určení místní příslušnosti podle § 11 odst. 3 o. s. ř. t a k t o :
+Věc vedenou u Okresního soudu ve Znojmě pod sp. zn. 8 Nc 4837/2008
+p r o j e d n á a r o z h o d n e Okresní soud ve Znojmě.
+O d ů v o d n ě n í :
+Okresní soud ve Znojmě usnesením ze dne 7. 5. 2008, sp. zn. 8 Nc 4837/2008 vyslovil svoji místní nepříslušnost a rozhodl, že věc bude předložena Nejvyššímu soudu České republiky k určení, který soud je místně příslušný. Toto usnesení nabylo právní moci dne 19. 6. 2008.
+V předmětné věci jde o řízení o návrhu oprávněné na nařízení exekuce podle
+§ 35 zákona č. 120/2001 Sb., exekučního řádu, na majetek povinného na základě výměru ÚP VZP Znojmo ze dne 12. 12. 2007 č. 4240703404 a č. 2140703403.
+V odůvodnění svého výše uvedeného usnesení poukazuje Okresní soud ve Znojmě na ustanovení § 45 odst. 2 a § 52 odst. 1 exekučního řádu. Uvádí, že se nepodařilo zjistit okolnosti rozhodné pro určení místní příslušnosti podle § 45 odst. 2 exekučního řádu a je dána pravomoc soudů České republiky. Proto s odkazem na ustanovení § 11 odst. 3 a § 105 odst. 2 o. s. ř. rozhodl tak, že je místně nepříslušný a předkládá věc k rozhodnutí o určení místně příslušného soudu Nejvyššímu soudu České republiky.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Podle § 45 odst. 2 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění pozdějších předpisů, je místně příslušným exekučním soudem ten soud, v jehož obvodu má bydliště povinný, je-li fyzickou osobou, a nemá-li bydliště, soud, v jehož obvodu se zdržuje. Má-li povinný, který je fyzickou osobou, bydliště na více místech, jsou místně příslušnými všechny soudy, v jejichž obvodu bydlí s úmyslem zdržovat se tam trvale. Nemá-li povinný bydliště v České republice ani se v ní nezdržuje, je příslušným soud, v jehož obvodu má povinný majetek; má-li majetek v obvodu více soudů, je příslušným soud, kterému byla jako prvnímu doručena žádost exekutora o udělení pověření nebo návrh na provedení exekuce. Je-li povinný právnickou osobou, je místně příslušným soud, v jehož obvodu má povinný sídlo.
+Nejvyšší soud ověřil, že v předchozím řízení se nepodařilo zjistit okolnosti rozhodné pro určení místní příslušnosti soudu podle výše citovaného ustanovení § 45 odst. 2 exekučního řádu. Povinný se je sice hlášen k trvalému pobytu na adrese Ch., okr. Z., zde se však nezdržuje, stejně jako se nezdržuje na adrese Ch., kde je hlášen k pobytu dle zprávy Cizinecké policie ČR. Nebylo zjištěno, kde jinde se povinný zdržuje v úmyslu se tam zdržovat trvale, popřípadě kde na území České republiky má majetek.
+V posuzovaném případě není zpochybněno, že věc patří do pravomoci českých soudů a že jsou splněny předpoklady stanovené v § 11 odst. 3 o. s. ř., při určení místní příslušnosti.
+S ohledem na požadavek hospodárnosti řízení Nejvyšší soud dospěl k závěru, že není vhodné určit jako místně příslušný jiný soud, než ten, u něhož byl podán návrh na nařízení exekuce a v jehož obvodu je sídlo příslušného územního pracoviště Všeobecné zdravotní pojišťovny, tedy Okresní soud ve Znojmě. Proto podle ustanovení § 11 odst. 3 o. s. ř. určil Okresní soud ve Znojmě tím soudem, který věc projedná a rozhodne.
+P o u č e n í : Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 10. července 2008
+Předsedkyně senátu:
+JUDr. Danuše N o v o t n á
