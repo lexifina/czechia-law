@@ -1,0 +1,21 @@
+29 Nd 201/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Krčmáře a soudců JUDr. Petra Gemmela a Mgr. Petra Šuka, v právní věci žalobkyně JUDr. H. K., advokátky, jako správkyně konkursní podstaty úpadkyně O., spol. s r. o., proti žalovaným 1/ Č. D., a. s., a 2/ Č. I., a. s., o zaplacení částky 2.079.845,- Kč s postižními právy ze směnky, vedené u Krajského soudu v Ostravě pod sp. zn. 3 Cm 111/2004 a u Vrchního soudu v Olomouci pod sp. zn. 7 Cmo 175/2007, o návrhu žalovaných na přikázání věci jinému odvolacímu soudu, takto:
+Věc vedená u Vrchního soudu v Olomouci pod sp. zn. 7 Cmo 175/2007 se Vrchnímu soudu v Praze nepřikazuje.
+O d ů v o d n ě n í :
+V průběhu řízení o odvolání žalovaných proti rozsudku Krajského soudu v Ostravě ze dne 24. listopadu 2006, č. j. 3 Cm 111/2004-142, podaly žalované dne 26. června 2007 návrh na přikázání věci z důvodu vhodnosti jinému odvolacímu soudu (Vrchnímu soudu v Praze), zdůvodňujíce jej tím, že Vrchní soud v Olomouci v této věci již jednou rozhodoval a výsledek předchozího řízení může mít potencionální vliv na průběh rozhodování o podaném odvolání (srov. podání první žalované č. l. 166-167 a podání druhé žalované č. l. 168-169).
+Jelikož usnesením ze dne 26.června 2007, č. j. 37 K 65/2006 85, prohlásil Krajský soudu v Brně konkurs na majetek žalobkyně (O., spol. s r.o.) a ustavená správkyně konkursní podstaty žalobkyně podala 1. listopadu 2007 návrh na pokračování v řízení (č. l. 188), Nejvyšší soud dále v řízení jednal jako se žalobkyní se správkyní konkursní podstaty úpadkyně (srov. § 14 odst. 1 písm. c/ zákona č. 328/1991 Sb., o konkursu a vyrovnání, ve znění účinném do 31. prosince 2007).
+Nejvyšší soud jako soud nejblíže společně nadřízený příslušnému odvolacímu soudu (Vrchnímu soudu v Olomouci) i Vrchnímu soudu v Praze, jemuž má být věc přikázána (§ 12 odst. 3 věta první zákona č. 99/1963 Sb., občanského soudního řádu - dále též jen „o. s. ř.“), důvod k přikázání věci jinému odvolacímu soudu z důvodu vhodnosti neshledal.
+Skutečnost, že Vrchní soud v Olomouci ve věci dříve rozhodoval, takovým důvodem není, což je věcí zcela zřejmou a triviální. Nejen odtud, nýbrž i z dalšího obsahu spisu, je nadto zjevné, že obě žalované zneužívají institutu návrhu na delegaci vhodnou (§ 12 odst. 2 o. s. ř.) k obstrukci a k protahování řízení.
+Návrhu první žalované na přikázání věci Krajskému soudu v Brně nevyhověl Vrchní soud v Olomouci usnesením ze dne 21. února 2005, č. j. Ncd 3/2005-71, návrhu druhé žalované, aby věc byla přikázána Krajskému soudu v Hradci Králové, nevyhověl Nejvyšší soud usnesením ze dne 31. srpna 2005, č. j. 29 Od 29/2005-81, ve spojení s opravným usnesením ze dne 12. října 2005, č. j. 29 Od 29/2005-84.
+Podruhé (usnesením ze dne 12. července 2006, č. j. 29 Od 44/2006-122) nevyhověl Nejvyšší soud návrhu první žalované, aby věc byla přikázána Krajskému soudu v Plzni, ani návrhu druhé žalované, aby věc byla přikázána Krajskému soudu v Českých Budějovicích.
+Třetí návrh první žalované (č. l. 133-134) a druhé žalované (č. l. 131-132), aby věc byla přikázána Krajskému soudu v Ústí nad Labem, Krajský soud v Ostravě již ignoroval a rozhodl o věci samé.
+Podporovat tyto obstrukce tím, že by podáním, jejichž prostřednictvím jsou obstrukce vykonávány, přiznal právní váhu, Nejvyšší soud nehodlá.
+Návod k řešení obdobných situací soudy nižších stupňů je následující:
+Jestliže dosavadní výsledky řízení dokládají, že institut návrhu na delegaci vhodnou (§ 12 odst. 2 o. s. ř.) je účastníkem řízení zneužíván k obstrukci a cílenému protahování občanského soudního řízení, soud nepředkládá věc k rozhodnutí o takovém návrhu nejblíže společně nadřízenému soudu.
+Pro výsledek řízení o opravných prostředcích může mít skutečnost, že soud návrh na delegaci vhodnou nepředložil soudu, který je nejblíže společně nadřízen příslušnému soudu a soudu, jemuž má být věc přikázána, a o věci meritorně rozhodl, význam jen tehdy, dospěje-li soud, který o opravném prostředku rozhoduje, k závěru, že o jednání, jež je zneužitím procesních práv účastníka (§ 2 o. s. ř.), nešlo.
+Z popsaných příčin Nejvyšší soud návrhu žalovaných na přikázání věci jinému odvolacímu soudu nevyhověl.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 15. července 2008
+JUDr. Zdeněk K r č m á ř
+předseda senátu
