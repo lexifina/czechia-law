@@ -1,0 +1,17 @@
+29 Odo 1072/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudkyň JUDr. Ivany Štenglové a JUDr. Hany Gajdziokové v právní věci žalobce P. P., zastoupeného advokátem, proti žalovaným 1) L. Š., a 2) L. Š., zastoupenému advokátem, o námitkách proti směnečnému platebnímu rozkazu, vedené u Krajského soudu v Praze pod sp. zn. 49 Cm 32/2004, o dovolání druhého žalovaného proti rozsudku Vrchního soudu v Praze ze dne 20. února 2006, č.j. 9 Cmo 124/2005-53, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Vrchní soud v Praze rozsudkem ze dne 20. února 2006, č.j. 9 Cmo 124/2005-53, potvrdil ve vztahu ke druhému žalovanému rozsudek ze dne 4. října 2004, č.j. 49 Cm 32/2004-32, jímž Krajský soud v Praze ponechal v platnosti směnečný platební rozkaz ze dne 30. září 2003, č.j. 61 Sm 194/2003-4, kterým uložil žalovaným společně a nerozdílně zaplatit žalobci částku 150.000,- Kč s 6% úrokem od 1. dubna 2003 do zaplacení a náklady řízení.
+Odvolací soud ve shodě se soudem prvního stupně uzavřel, že druhému žalovanému se prostřednictvím včas uplatněných a řádně odůvodněných námitek správnost směnečného platebního rozkazu zpochybnit nepodařilo. Přitom zdůraznil, že z hlediska posouzení platnosti směnečného závazku rukojmího (druhého žalovaného) není významné „pořadí provedení podpisů na směnce“, tj. zda směnku směnečný rukojmí podepsal dříve, než výstavce vlastní směnky.
+Proti rozsudku odvolacího soudu podal druhý žalovaný dovolání, odkazuje co do jeho přípustnosti na ustanovení § 237 odst. 1 písm. c) občanského soudního řádu (dále jen „o. s. ř.“) a co do důvodu na ustanovení § 241a odst. 2 písm. b) o. s. ř., tj. namítaje, že spočívá na nesprávném právním posouzení věci.
+Dovolatel opakuje, že směnku podepsal jako aval v době, kdy na ní nebyl podpis výstavce, přičemž akcentuje, že při vzniku směnky „musí být pořadí podpisů zachováno tak, aby aval podepisoval již vystavenou směnku“. „Jinými slovy, jestliže aval přebírá svůj směnečný závazek, pak musí být zřejmé, za koho jej přebírá“.
+Dovolání druhého žalovaného, které není přípustné podle ustanovení § 237 odst. 1 písm. a) a b) o. s. ř., neshledal Nejvyšší soud přípustným ani podle ustanovení § 237 odst. 1 písm. c) o. s. ř., když otázku kladenou dovolatelem již vyřešil v rozsudku ze dne 19. září 2007, sp. zn. 29 Cdo 1047/2007, uveřejněném v časopise Soudní judikatura č. 2, ročník 2008, pod číslem 28. V něm formuloval a odůvodnil závěr, podle něhož: a/ zákon č. 191/1950 Sb. (směnečný zákon) ani jiný právní předpis nestanoví, v jakém pořadí mají být na směnečnou listinu přičiněny jednotlivé údaje či podpisy a b/ nedostatek podpisu výstavce cizí směnky na směnce v době, kdy aval učinil rukojemské prohlášení, nemá vliv na existenci směnečného závazku avala. Uvedený závěr, ač formulován pro cizí směnku, se plně uplatní i pro směnku vlastní.
+Jelikož dovolání není přípustné ani podle ustanovení § 237 odst. 1 písm. c) o. s. ř., Nejvyšší soud je podle ustanovení § 243b odst. 5 a § 218 písm. c) o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání druhého žalovaného bylo odmítnuto a žalobci podle obsahu spisu v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 16. července 2008
+JUDr. Petr Gemmel, v.r.
+předseda senátu
