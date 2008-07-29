@@ -1,0 +1,15 @@
+29 Odo 1313/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudců JUDr. Zdeňka Krčmáře a Mgr. Petra Šuka v právní věci žalobkyně G. R., k. s., zastoupené JUDr. F. H. Ph.D., advokátem, proti žalované JUDr. I. V., advokátce, jako správkyni konkursní podstaty úpadce P. K., o určení pravosti a pořadí pohledávky, vedené u Krajského soudu v Hradci Králové pod sp. zn. 41 Cm 41/2002, o dovolání žalobkyně proti rozsudku Vrchního soudu v Praze ze dne 16. února 2005, č.j. 4 Cmo 51/2005-70, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Vrchní soud v Praze rozsudkem ze dne 16. února 2005, č.j. 4 Cmo 51/2005-70, potvrdil rozsudek ze dne 15. prosince 2004, č.j. 41 Cm 41/2002-40, jímž Krajský soud v Hradci Králové zamítl žalobu, kterou se žalobkyně domáhala „určení pohledávky ve výši 55,820.024,70 Kč v konkursním řízení vedeném na majetek úpadce P. K., s tím, že požaduje právo na oddělené uspokojení ze zpeněžení nemovitostí“ specifikovaných ve výroku rozhodnutí.
+Odvolací soud - odkazuje na ustanovení § 151f odst. 1 občanského zákoníku ve znění účinném do 31. prosince 1998 (dále jen „obč. zák.“) a na ustanovení § 100 obč. zák. - přitakal závěru soudu prvního stupně, že žalobkyní přihlášená pohledávka ze smlouvy o úvěru i právo na uspokojení ze zastavených nemovitostí je promlčeno, přičemž žalovaná se promlčení „dovolala“.
+Proti rozsudku odvolacího soudu podala žalobkyně dovolání, namítajíc, že spočívá na nesprávném právním posouzení věci, tj. uplatňujíc dovolací důvod podle ustanovení § 241a odst. 2 písm. b) občanského soudního řádu (dále jen „o. s. ř.“). Dovolatelka - citujíc ustanovení § 151f obč. zák. - zpochybňuje závěry soudů nižších stupňů, podle kterých „zástavní právo podléhá promlčení“ a k uspokojení ze zástavy může dojít „shodně ve čtyřleté promlčecí době jako v případě zajištěné pohledávky“ a požaduje, aby Nejvyšší soud rozhodnutí odvolacího soudu zrušil a věc tomuto soudu vrátil k dalšímu řízení.
+Dovolání žalobkyně, které není přípustné podle ustanovení § 237 odst. 1 písm. a) a b) o. s. ř., neshledal Nejvyšší soud - vzhledem k závěrům formulovaným v rozhodnutí uveřejněném pod číslem 24/2003 Sbírky soudních rozhodnutí a stanovisek, v rozsudku Nejvyššího soudu ze dne 25. dubna 2007, sp. zn. 21 Cdo 1918/2005, uveřejněném v časopise Soudní judikatura č. 7, ročník 2007, pod číslem 95 a v důvodech rozsudku ze dne 15. února 2008, sp. zn. 21 Cdo 888/2007 - přípustným ani podle ustanovení § 237 odst. 1 písm. c) o. s. ř.; proto je podle ustanovení § 243b odst. 5 a § 218 písm. c) o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalobkyně bylo odmítnuto a žalované podle obsahu spisu v dovolacím řízení náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 29. července 2008
+JUDr. Petr G e m m e l
+předseda senátu
