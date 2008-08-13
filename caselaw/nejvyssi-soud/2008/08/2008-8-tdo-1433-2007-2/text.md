@@ -1,0 +1,16 @@
+8 Tdo 1433/2007-I.
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v neveřejném zasedání konaném dne 13. srpna 2008 v řízení o dovolání podaném obviněným S. Z., proti rozsudku Vrchního soudu v Praze ze dne 23. 5. 2006, sp. zn. 3 To 28/2006, který rozhodl jako soud odvolací v trestní věci vedené u Krajského soudu v Plzni pod sp. zn. 3 T 14/2003, t a k t o :
+Podle § 265l odst. 4 tr. ř. se obviněný S. Z. n e bere do vazby.
+O d ů v o d n ě n í :
+Obviněný S. Z. se v současné době nachází ve výkonu trestu odnětí svobody ve V. v P., který mu byl rozsudkem Vrchního soudu v Praze ze dne 23. 5. 2006, sp. zn. 3 To 28/2006, ve spojení s rozsudkem Krajského soudu v Plzni pod sp. zn. 3 T 14/2003, uložen v trvání pěti roků za trestný čin zkrácení daně, poplatku a podobné povinné platby podle § 148 odst. 1, 4 tr. zák. a pro jehož výkon byl podle § 39a odst. 3 tr. zák. zařazen do věznice s dozorem.
+Nejvyšší soud České republiky (dále jen „Nejvyšší soud“) projednal v neveřejném zasedání konaném dne 13. 8. 2008 dovolání obviněného S. Z. podané proti rozsudku Vrchního soudu v Praze ze dne 23. 5. 2006, sp. zn. 3 To 28/2006, který rozhodl jako soud odvolací v trestní věci vedené u Krajského soudu v Plzni pod sp. zn. 3 T 14/2003 a rozhodl tak, že podle § 265k odst. 1, 2 tr. ř. zrušil rozsudek Vrchního soudu v Praze ze dne 23. 5. 2006, sp. zn. 3 To 28/2006, a rozsudek Krajského soudu v Plzni ze dne 8. 11. 2005, sp. zn. 3 T 14/2003 v části týkající se obviněného S. Z., podle § 265k odst. 2 tr. ř. v rozsahu tohoto zrušení zrušil i všechna další rozhodnutí na zrušená rozhodnutí obsahově navazující, pokud vzhledem ke změně, k níž došlo zrušením, pozbyla podkladu, a podle § 265l odst. 1 tr. ř. přikázal Krajskému soudu v Plzni, aby věc v potřebném rozsahu znovu projednal a rozhodl.
+Podle § 265l odst. 4 tr. ř., vykonává-li se na obviněném trest odnětí svobody uložený mu původním rozsudkem a Nejvyšší soud k dovolání výrok o tomto trestu zruší, rozhodne zároveň o vazbě. Proto Nejvyšší soud v souvislosti se shora uvedeným usnesením rozhodl současně o vazbě obviněného, jak mu ukládá citované ustanovení.
+Při zkoumání okolností významných pro takové rozhodnutí Nejvyšší soud shledal, že obviněný S. Z. nastoupil 18. 10. 2006 výkon trestu odnětí svobody v trvání pěti let, který mu byl uložen v této trestní věci, a nyní se nachází ve výkonu tohoto trestu ve V. P.
+Nejvyšší soud v tomto stadiu trestního řízení nezjistil takové konkrétní skutečnosti, které by odůvodňovaly některý z důvodů vazby ve smyslu § 67 písm. a), b) nebo c) tr. ř. Obviněný nebyl v průběhu trestního řízení v této věci vzat do vazby a celé trestní řízení, včetně doby, kdy byly vyhlášeny napadené rozsudky proti němu bylo vedeno při jeho ponechání na svobodě, aniž by byly u něho shledány konkrétní skutečnosti odůvodňující jeho omezení na svobodě.
+Vzhledem k těmto okolnostem Nejvyšší soud dospěl k závěru, že i za současné situace, kdy je podle zákona třeba rozhodnout o vazbě obviněného, nejsou dány podmínky proto, aby obviněný S. Z. byl do vazby vzat.
+Z těchto důvodů Nejvyšší soud rozhodl, že se obviněný S. Z. ve smyslu § 265l odst. 4 tr. ř. do vazby nebere.
+P o u č e n í : Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 13. srpna 2008
+Předsedkyně senátu:
+JUDr. Milada Šámalová
