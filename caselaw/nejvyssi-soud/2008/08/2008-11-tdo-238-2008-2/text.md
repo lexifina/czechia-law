@@ -1,0 +1,18 @@
+11 Tdo 238/2008-I.
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v neveřejném zasedání konaném dne 14. srpna 2008 v řízení o dovolání podaném obviněným J. S. , proti rozsudku Vrchního soudu v Praze ze dne 14. 11. 2007, sp. zn. 8 To 114/2007, jako soudu odvolacího v trestní věci vedené u Krajského soudu v Hradci Králové pod sp. zn. 6 T 5/2007 o vazbě obviněného t a k t o :
+Podle § 265l odst. 4 tr. ř. s e obviněný J. S. z důvodu uvedeného v § 67 písm. a) tr. ř. b e r e d o v a z b y .
+O d ů v o d n ě n í :
+Obviněný J. S. v současné době vykonává trest odnětí svobody ve Věznici V. v trvání 14 let, který mu byl uložen rozsudkem Krajského soudu v Hradci Králové ze dne 3. 8. 2007, sp. zn. 6 T 5/2007, ve spojení s rozsudkem Vrchního soudu v Praze ze dne 14. 11. 2007, sp. zn. 8 To 114/2007, pro trestný čin vraždy podle § 219 odst. 1, odst. 2 písm. h) tr. zák.
+Nejvyšší soud projednal dne 14. 8. 2008 v neveřejném zasedání dovolání obviněného podané proti citovanému rozsudku Vrchního soudu v Praze a v návaznosti na to i proti rozsudku Krajského soudu v Hradci Králové a rozhodl tak, že podle § 265k odst. 1, odst. 2 tr. ř. zrušil rozsudek Vrchního soudu v Praze v části, ve které zamítl dovolání obviněného proti bodu 1) výroku o vině trestným činem vraždy v rozsudku Krajského soudu v Hradci Králové a ve výroku o trestu a současně zrušil i rozsudek Krajského soudu v Hradci Králové ohledně obviněného S. , a to v bodu 1) výroku o vině trestným činem vraždy podle § 219 odst. 1, odst. 2 písm. h) tr. zák. Současně zrušil také všechna další rozhodnutí na zrušená rozhodnutí obsahově navazující, pokud vzhledem ke změně, k níž došlo zrušením, pozbyla podkladu. Krajskému soudu v Hradci Králové přikázal, aby věc v potřebném rozsahu znovu projednal a rozhodl.
+Podle § 265l odst. 4 tr. ř. vykonává-li se na obviněném trest odnětí svobody uložený mu původním rozsudkem a Nejvyšší soud k dovolání výrok o tomto trestu zruší, rozhodne zároveň o vazbě.
+Podle § 67 tr. ř. smí být obviněný vzat do vazby jen tehdy, jestliže z jeho jednání nebo dalších skutečností vyplývá obava:
+a) že uprchne nebo se bude skrývat, aby se tak trestnímu stíhání nebo trestu vyhnul, zejména nelze-li jeho totožnost hned zjistit, nemá-li stálé bydliště anebo hrozí-li mu vysoký trest;
+b) že bude působit na dosud nevyslechnuté svědky nebo spoluobviněné nebo jinak mařit objasňování skutečností závažných pro trestní stíhání, nebo
+c) že bude opakovat trestnou činnost, pro niž je stíhán, dokoná trestný čin, o nějž se pokusil nebo vykoná trestný čin, který připravoval nebo kterým hrozil,
+a dosud zjištěné skutečnosti nasvědčují tomu, že skutek, pro který bylo zahájeno trestní stíhání byl spáchán, má všechny znaky trestného činu, jsou zřejmé důvody podezření, že tento trestný čin spáchal obviněný a s ohledem na osobu obviněného, povahu a závažnost trestného činu, pro který je stíhán, nelze v době rozhodování účelu vazby dosáhnout jiným opatřením.
+Nejvyšší soud přezkoumal okolnosti významné pro rozhodnutí o vazbě a dospěl k závěru, že s ohledem na mimořádnou závažnost trestného činu, pro který je obviněný důvodně stíhán, s pohledem na fakt, že jeho jednání je ohroženo trestem odnětí svobody, jehož spodní hranice činí 10 let, je nepochybné, že obviněnému v případě odsouzení hrozí uložení trestu, který ve smyslu § 67 písm. a) tr. ř. lze nepochybně považovat za trest vysoký. Právě z toho vyplývá obava, že by obviněný, aby se trestnímu stíhání, ale zejména trestu vyhnul, mohl uprchnout anebo se skrývat. Vzhledem k tomu Nejvyšší soud rozhodl tak, že se obviněný J. S. ze shora uvedeného důvodu bere do vazby.
+Poučení: Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 14. srpna 2008
+Předseda senátu:
+JUDr. Stanislav Rizman
