@@ -1,0 +1,20 @@
+28 Cdo 4065/2007
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy JUDr. Ludvíka Davida, CSc., a soudců JUDr. Josefa Rakovského a JUDr. Jana Eliáše, Ph.D., v právní věci žalobce M. H., zastoupeného advokátem, proti žalovanému m. J., zastoupenému advokátem, o nahrazení projevu vůle, vedené u Okresního soudu v Jičíně pod sp. zn. 10 C 176/2006, o dovolání žalovaného proti rozsudku Krajského soudu v Hradci Králové ze dne 18. 4. 2007, č.j. 25 Co 156/2007-95, takto:
+I. Dovolání se odmítá.
+II. Žalovaný je povinen nahradit žalobci na nákladech dovolacího řízení částku 2.300,- Kč, a to do tří dnů od právní moci tohoto usnesení k rukám jeho zástupce.
+O d ů v o d n ě n í :
+Rozsudkem Krajského soudu v Hradci Králové výše označeným byl ve výroku I. potvrzen ten výrok rozsudku Okresního soudu v Jičíně (z 8. 2. 2007, č.j. 10 C 176/2006-70), kterým byla žalovanému uložena povinnost učinit žalobci podle § 22 odst. 1 zákona č. 72/1994 Sb. nabídku převodu bytu v domě č.p. 856, 857 v ulici U T. v J. (podrobněji viz výrok II. rozsudku). Žalovaný byl zavázán k náhradě nákladů odvolacího řízení žalobci ve výši 10.942,- Kč.
+Proti rozsudku odvolacího soudu podal žalovaný dovolání. Dovodil v něm zásadní právní význam napadeného rozsudku, spočívající v nezákonné ingerenci do výkonu práv žalovaného jako vlastníka domu (nebyl respektován zejména § 124 o. z.). Nikdo nemůže být podle něj k prodeji bytu přinucen. Odvolací soud nesprávně posoudil ustanovení § 39 odst. 1 a § 85 zákona č. 128/2000 Sb., o obcích. Dovolatel žádal, aby byl napadený rozsudek zrušen a věc vrácena odvolacímu soudu k dalšímu řízení.
+Žalobce podal k dovolání písemné vyjádření prostřednictvím advokáta a navrhl, aby bylo dovolání zamítnuto.
+Dovolání není přípustné.
+Ústavní soud již v řadě svých rozhodnutí poskytl výraznou právní ochranu nájemci bytu v domě (srov. např. nález sp. zn. I. ÚS 360/02 a další). Konstituoval tak právo na bydlení jako jedno ze základních práv, zejména v rovině práv sociálních.
+Nejvyšší soud v rozhodnutích sp. zn. 28 Cdo 412/2003, 28 Cdo 2164/2002 (aj.) vyložil ustanovení § 22 odst. 1 zákona č. 72/1994 Sb., o vlastnictví bytů, tak, že při splnění zákonné podmínky nájmu bytu má vlastník budovy povinnost přednostně nabídnout byt k převodu tomuto nájemci. To samozřejmě v případě, že vlastník domu (zde obec) přijme záměr byt či byty v budově prodat.
+V posuzované věci konkretizoval žalovaný svůj postup rozhodnutím zastupitelstva ze dne 20. 6. 2005; schváleny byly Zásady pro převod bytových jednotek z vlastnictví města jiným subjektům, předmětná nemovitost byla mezi vyčleněnými a „nájemci bytových jednotek“ označeni jako oprávněné subjekty. Stal-li se žalobce již dne 15. 10. 2004 nájemcem předmětného bytu, pak měl vůči obci (městu) smluvní přímus podle § 22 odst. 1 citovaného zákona (tedy na základě výslovné zákonné úpravy a v souladu s § 161 odst. 3 o. s. ř.).
+Dovolateli nebylo možné přisvědčit ani stran odkazů na jím citovaná ustanovení zákona o obcích. Zveřejnění záměru převést nemovitosti (§ 39 odst. 1) je jistě obligatorní – v obecné rovině –, v tomto případě však jde o speciální zákonný postup s přednostním právem určité osoby (nájemce). Pokud jde § aplikaci § 85 (písm. a/), pak zastupitelstvo právem schválilo zmíněné Zásady, jimiž město zavázalo k dalším právním úkonům (srov. též usnesení NS sp. zn. 28 Cdo 2957/2004).
+Odvolací soud tedy správně posoudil všechny relevantní hmotněprávní otázky, ty již ostatně byly judikatorně zpracovány, a tak dovolání žalovaného není přípustné a bylo proto odmítnuto (§ 237 odst. 1 písm. c/, odst. 3, § 243b odst. 5 věta první, § 218 písm. c/ o. s. ř.).
+Podle § 243c odst. 1 a § 146 odst. 3 o. s. ř. vzniklo protistraně právo na náhradu nákladů řízení. Za jeden úkon, krácený dvakrát o polovinu, to bylo 2.000,- Kč plus 300,- Kč režijního paušálu (§ 7 písm. e/, § 14 odst. 1, § 15, § 18 odst. 1 vyhlášky č. 484/2000 Sb.).
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 19. srpna 2008
+JUDr. Ludvík David, CSc., v. r.
+předseda senátu
