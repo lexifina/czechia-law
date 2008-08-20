@@ -1,0 +1,16 @@
+20 Cdo 3623/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudců JUDr. Petra Šabaty a JUDr. Vladimíra Mikuška v exekuční věci oprávněných a) R. L., b) P. K., obou zastoupených advokátkou, proti povinnému JUDr. J. P., pro 52.517,- Kč s příslušenstvím, vedené u Okresního soudu v Českém Krumlově pod sp. zn. 4 Nc 957/2005, o dovolání povinného proti usnesení Krajského soudu v Českých Budějovicích ze dne 12. 2. 2007, č.j. 24 Co 22/2007-15, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í :
+Povinný napadl dovoláním v záhlaví uvedené rozhodnutí, kterým krajský soud odmítl jeho odvolání [§ 44 odst. 10 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění pozdějších předpisů (dále jen „zákon č. 120/2001 Sb.“)] proti usnesení ze dne 14. 9. 2005, č.j. 4 Nc 957/2005-7, jímž okresní soud nařídil podle rozsudku Okresního soudu v Českých Budějovicích ze dne 26. 1. 2005, č.j. 10 C 394/2004-37, k vydobytí pohledávky 52.517,- Kč s úroky z prodlení ve výši 2 % ročně z částky 52.517,- Kč ode dne 11. 2. 2004 do zaplacení, úroků z prodlení ve výši 2 % ročně z částky 5.000,- Kč ode dne 11. 3. 2004 do zaplacení, nákladů předcházejícího řízení ve výši 17.260,- Kč a pro náklady exekuce a náklady oprávněných, které budou v průběhu řízení stanoveny, na majetek povinného exekuci, jejímž provedením pověřil JUDr. M. B., soudního exekutora.
+Je-li dovolatelem – jako v projednávaném případě – fyzická osoba, je nezbytné, aby (nemá-li právnické vzdělání) byla zastoupena advokátem (notářem), jímž musí být dovolání i sepsáno [srov. § 241 odst. 1, odst. 2 písm. a) a odst. 4 zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů (dále jen „o.s.ř.“)].
+Při podání dovolání nebyl povinný zákonem stanoveným způsobem zastoupen a jím prokázané vzdělání - ukončené studium a vykonání státní rigorózní zkoušky na fakultě OŠH Vysoké školy Sboru národní bezpečnosti - podmínku právnického vzdělání ve smyslu ustanovení § 241 o.s.ř. nesplňuje (srov. usnesení Nejvyššího soudu ze dne 28. 1. 1999, sp. zn. 20 Cdo 1638/98, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek 4/2000 pod č. 25).
+Usnesením ze dne 31. 5. 2007, č.j. 4 Nc 957/2007-27, proto soud prvního stupně dovolatele vyzval, aby si ve lhůtě patnácti dnů od doručení usnesení zvolil zmocněncem advokáta a jeho prostřednictvím podal řádné dovolání; současně ho poučil, že jinak bude dovolací řízení zastaveno.
+Na výzvu, která mu byla doručena 11. 6. 2007, dovolatel nereagoval.
+Jelikož povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – vyjma usnesení, jímž se dovolací řízení právě pro jeho neodstranění zastavuje – vydání rozhodnutí, kterým se řízení končí (§ 241 o.s.ř.), a protože ke zhojení uvedeného nedostatku přes opatření soudu nedošlo, Nejvyšší soud dovolací řízení podle § 104 odst. 2 a § 243c odst. 1 o.s.ř. zastavil.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 20. srpna 2008
+JUDr. Pavel Krbek, v. r.
+předseda senátu
