@@ -1,0 +1,13 @@
+7 Tdo 356/2008-I.
+U S N E S E N Í
+Nejvyšší soud České republiky projednal v neveřejném zasedání dne 20. srpna 2008 dovolání obviněného P. L., proti usnesení Městského soudu v Praze ze dne 28. 11. 2007, sp. zn. 67 To 386/2007, který rozhodl jako soud odvolací v trestní věci vedené u Obvodního soudu pro Prahu 9 pod sp. zn. 21 T 75/2007, a rozhodl t a k t o :
+Podle § 265l odst. 4 tr. ř. se obviněný P. L. n e b e r e d o v a z b y .
+O d ů v o d n ě n í :
+Obviněný P. L. byl rozsudkem Obvodního soudu pro Prahu 9 ze dne 15. 8. 2007, sp. zn. 21 T 75/2007, ve spojení s usnesením Městského soudu v Praze ze dne 28. 11. 2007, sp. zn. 67 To 386/2007, uznán vinným trestným činem znásilnění podle § 241 odst. 1 tr. zák. jako zvlášť nebezpečný recidivista podle § 41 odst. 1 tr. zák. Za tento trestný čin byl odsouzen podle § 241 odst. 1 tr. zák. za použití § 42 odst. 1 tr. zák. k trestu odnětí svobody v trvání devíti let, pro výkon trestu byl podle § 39a odst. 2 písm. d) tr. zák. zařazen do věznice se zvýšenou ostrahou. Obviněný P. L. vykonává tento trest odnětí svobody ve Věznici v M.
+Nejvyšší soud České republiky k dovolání obviněného P. L. podle § 265k odst. 1 tr. ř. zrušil usnesení Městského soudu v Praze ze dne 28. 11. 2007, sp. zn. 67 To 386/2007, i rozsudek Obvodního soudu pro Prahu 9 ze dne 15. 8. 2007, sp. zn. 21 T 75/2007. Podle § 265k odst. 2 tr. ř. zrušil také další rozhodnutí na zrušená rozhodnutí obsahově navazující, pokud vzhledem ke změně, k níž došlo zrušením, pozbyla podkladu. Podle § 265l odst. 1 tr. ř. přikázal Obvodnímu soudu pro Prahu 9, aby věc v potřebném rozsahu znovu projednal a rozhodl.
+Zrušením rozsudku Obvodního soudu pro Prahu 9 ze dne 15. 8. 2007, sp. zn. 21 T 75/2007, ve spojení s usnesením Městského soudu v Praze ze dne 28. 11. 2007, sp. zn. 67 To 386/2007, i zrušením všech dalších rozhodnutí na tato rozhodnutí obsahově navazujících, došlo k tomu, že rozsudek, na jehož podkladě obviněný vykonává trest odnětí svobody, není v právní moci. Další výkon trestu na podkladě takového rozsudku je nepřípustný.
+Podle § 265l odst. 4 tr. ř. vykonává-li se na obviněném trest odnětí svobody a Nejvyšší soud k dovolání výrok o tomto trestu zruší, rozhodne zároveň o vazbě. Při rozhodování o vazbě je třeba zjišťovat, zda jsou dány důvody vazby podle § 67 písm. a) až c) tr. ř. Nejvyšší soud u obviněného neshledal žádné vazební důvody ve smyslu § 67 písm. a) až c) tr. ř., a proto rozhodl podle § 265l odst. 4 tr. ř. tak, že se obviněný P. L. nebere do vazby.
+P o u č e n í : Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 20. srpna 2008
+Předseda senátu:
+JUDr. Jindřich Urbánek
