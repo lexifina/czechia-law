@@ -1,0 +1,15 @@
+11 Tcu 33/2008
+U S N E S E N Í
+Nejvyšší soud České republiky projednal žádost Ústředí pro mezinárodní právní pomoc, oddělení výkonu trestního rozhodnutí, o povolení průvozu předávaného R. A. B., a rozhodl v neveřejném zasedání dne 21. srpna 2008 podle § 422 tr. ř. t a k t o :
+P o v o l u j e s e p r ů v o z vydávané osoby R. A. B., z Bulharska přes území České republiky do Holandska, pro účely výkonu trestu odnětí svobody v délce trvání dvanácti měsíců, z toho šest měsíců podmíněně, který mu uložil Okresní soud v Amsterdamu rozsudkem ze dne 3. května 1993 a rozsudkem ze dne 19. 10. 1994, kterým tentýž soud nařídil, aby podmínečně uložená část trestu odnětí svobody o délce šesti měsíců byla uložena jako vykonatelná.
+Po dobu průvozu bude předávaná osoba držena ve vazbě.
+O d ů v o d n ě n í :
+Ústředí pro mezinárodní právní pomoc, oddělení výkonu trestního rozhodnutí, dne 19. 8. a 20. 8. 2008 požádalo Nejvyšší soud České republiky na základě čl. 25 Rámcového rozhodnutí Rady Evropské unie ze dne 13. června 2002, o evropském zatýkacím rozkazu a postupech předávání mezi členskými státy, o povolení průvozu britského státního příslušníka R. A. B., územím České republiky.
+Průvoz se má uskutečnit dne 26. 8. 2008 v rámci předání jmenovaného z Bulharska do Holandska přes území České republiky k výkonu trestu odnětí svobody v délce trvání dvanácti měsíců, z toho šest měsíců podmíněně, který mu uložil Okresní soud v Amsterdamu rozsudkem ze dne 3. května 1993 a rovněž rozsudkem ze dne 19. 10. 1994, kterým tentýž soud nařídil, aby i podmínečně uložená část trestu odnětí svobody o délce šesti měsíců byla uložena jako vykonatelná.
+Předávaný byl výše uvedenými rozhodnutími pravomocně odsouzen pro trestný čin pokusu o vraždu dle čl. 287 za použití čl. 45 holandského trestního zákoníku. Uvedené trestné činnosti se předávaný R. A. B. dopustil podle zjištění soudu tím, že dne 7. ledna 1993 se v A. pokusil úkladně připravit o život J. L., a to tak, že na něj hodil kanystr s benzínem, který zapálil a rovněž tím, že směrem k J. L. odstřeloval jednu nebo více světlic.
+Nejvyšší soud České republiky projednal předloženou žádost z hlediska splnění právních podmínek a náležitostí vyžadovaných vnitrostátní úpravou (§ 422 tr. ř.). Zjistil, že v posuzovaném případě jde o předání odsouzeného z Bulharska do Holandska přes území České republiky za účelem výkonu trestu odnětí svobody v délce trvání dvanácti měsíců, uloženého předávanému za trestný čin pokusu o vraždu, přičemž tato osoba není státním občanem České republiky.
+Jelikož nebyly zjištěny žádné právní překážky, které by bránily povolení průvozu předávaného pro účely výkonu trestu odnětí svobody v Holandsku, vyhověl Nejvyšší soud České republiky žádosti holandské strany a rozhodl tak, jak je uvedeno ve výroku tohoto usnesení.
+Zároveň Nejvyšší soud České republiky rozhodl o nutném opatření omezujícím osobní svobodu předávané osoby v době průvozu územím České republiky.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 21. srpna 2008
+Předseda senátu: JUDr. Stanislav Rizman
