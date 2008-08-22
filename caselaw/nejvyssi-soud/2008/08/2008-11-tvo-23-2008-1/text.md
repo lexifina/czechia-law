@@ -1,0 +1,17 @@
+11 Tvo 23/2008
+U S N E S E N Í
+Nejvyšší soud projednal v neveřejném zasedání konaném dne 22. 8. 2008 stížnost obviněné L. R. proti usnesení Vrchního soudu v Praze ze dne 3. 7. 2008, sp. zn. 7 To 81/2008, a rozhodl t a k t o :
+Podle § 148 odst. 1 písm. c) tr. řádu se stížnost obviněné L. R. zamítá.
+O d ů v o d n ě n í :
+Rozsudkem Městského soudu v Praze ze dne 21. 2. 2008, sp. zn. 42 T 18/2007, byla obviněná L. R. uznána vinnou trestným činem vraždy podle § 219 odst. 1 tr. zák. a odsouzena k nepodmíněnému trestu odnětí svobody v trvání osmi let, pro jehož výkon byla zařazena do věznice s dozorem.
+Proti tomuto rozsudku podala obviněná L. R. odvolání, jehož odůvodnění obsahovalo i námitku podjatosti všech soudců Vrchního soudu v Praze a všech státních zástupců Vrchního státního zastupitelství v Praze.
+Usnesením Vrchního soudu v Praze ze dne 3. 7. 2008, sp. zn. 7 To 81/2008, bylo podle § 31 odst. 1 tr. řádu z důvodů § 30 odst. 1 tr. řádu rozhodnuto, že předseda senátu Vrchního soudu v Praze JUDr. Martin Zelenka a soudci JUDr. Jaroslava Maternová a JUDr. Michal Hodoušek nejsou vyloučeni z vykonávání úkonů v trestní věci obviněné L. R. vedené u Vrchního soudu v Praze pod sp. zn. 7 To 81/2008.
+Proti tomuto usnesení podala obviněná L. R. stížnost, ve které shodně jako ve své námitce podjatosti poukazuje na zaujatý přístup senátu Vrchního soudu v Praze ve složení předseda senátu JUDr. Martin Zelenka a soudci JUDr. Jaroslava Maternová a JUDr. Michal Hodoušek i Vrchního státního zastupitelství v Praze vůči znalci MUDr. T. a jeho znaleckému posudku, a s ohledem na provázanost uvedených soudců s ostatními soudci soudu navrhuje, aby její věc byla odňata Vrchnímu soudu v Praze a přikázána k projednání Vrchnímu soudu v Olomouci. Navíc namítá, že napadené usnesení je neúplné, neboť se týká pouze jednoho senátu Vrchního soudu v Praze, když námitka podjatosti směřovala vůči všem soudcům Vrchního soudu v Praze.
+Nejvyšší soud podle § 147 odst. 1 tr. řádu z podnětu podané stížnosti přezkoumal správnost napadeného rozhodnutí i řízení, které mu předcházelo, a dospěl k tomuto závěru.
+Podle § 30 odst. 1 tr. řádu je z vykonávání úkonu trestního řízení vyloučen soudce, u něhož lze mít pochybnosti, že pro poměr k projednávané věci nebo k osobám, jichž se úkon přímo dotýká, k jejich obhájcům, zákonným zástupcům a zmocněncům, nebo pro poměr k jinému orgánu činnému v trestním řízení, nemůže nestranně rozhodovat.
+Obviněná L. R. byla odsouzena rozsudkem soudu prvního stupně a dříve než mohlo být soudem druhého stupně projednáno její odvolání proti tomuto rozsudku, vznesla námitku podjatosti nejen proti senátu odvolacího soudu příslušnému podle rozvrhu práce k projednání tohoto odvolání, ale i proti všem soudcům vrchního soudu místně příslušného ve věci jednat. Námitka spočívající v tvrzení o zaujatosti soudců vůči obviněné nemá oporu v žádné zjištěné skutečnosti. Obviněná ostatně ani řádnou skutečnost, kterou by bylo možno považovat za důvod k vyloučení soudců Vrchního soudu v Praze neuvedla a omezila se jen na obecné ničím nepodložené tvrzení, a pokud nějaké konkrétní údaje uvádí, netýkají se vztahu soudců odvolacího soudu k její osobě, ale procesního postupu, který zvolili. Za tohoto stavu nelze napadenému usnesení nic vytknout a v důvodech lze na ně plně odkázat.
+Z těchto důvodů bylo rozhodnuto, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 22. srpna 2008
+Předseda senátu:
+JUDr. Pavel Kučera
