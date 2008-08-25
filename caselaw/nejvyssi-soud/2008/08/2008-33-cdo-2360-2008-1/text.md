@@ -1,0 +1,19 @@
+33 Cdo 2360/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Blanky Moudré a soudců JUDr. Ivany Zlatohlávkové a JUDr. Václava Dudy ve věci žalobkyně Č. t. , zastoupené advokátem, proti žalované “M. , o zaplacení částky 2.250,- Kč s příslušenstvím, vedené u Okresního soudu v Uherském Hradišti pod sp. zn. 17 C 1/2007, o dovolání žalované proti usnesení Krajského soudu v Brně - pobočky ve Zlíně ze dne 9. dubna 2008, č. j. 60 Co 121/2008-81, takto :
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Okresní soud v Uherském Hradišti rozsudkem ze dne 19. července 2007, č. j. 17 C 1/2007-27, uložil žalované povinnost zaplatit žalobkyni částku 2.250,- Kč s blíže specifikovaným příslušenstvím a rozhodl o nákladech řízení.
+Proti tomuto rozsudku podala žalovaná odvolání a podáním ze dne 31. 8. 2007 požádala o přiznání osvobození od soudního poplatku za odvolání. Soud prvního stupně usnesením ze dne 17. října 2007, č. j. 17 C 1/2007-47, žádost žalované o osvobození od soudních poplatků zamítl. K odvolání žalované Krajský soud v Brně - pobočka ve Zlíně usnesením ze dne 6. prosince 2007, č. j. 60 Co 507/2007-53, usnesení soudu prvního stupně potvrdil. Ztotožnil se s jeho závěrem, že žalovaná nedoložila svou majetkovou situaci natolik, aby bylo možno posoudit, zda splňuje předpoklady pro přiznání osvobození od soudních poplatků ve smyslu § 138 odst. 1 o. s. ř.
+Proti usnesení odvolacího soudu podala žalovaná dovolání. Usnesením ze dne 7. února 2008, č. j. 17 C 1/2007-60, vyzval soud prvního stupně žalovanou, aby si pro podání dovolání zvolila advokáta a aby jeho prostřednictvím podala řádné dovolání. Žalovaná podáním ze dne 17. 2. 2008 požádala o ustanovení zástupce z řad advokátů.
+Soud prvního stupně usnesením ze dne 25. února 2008, č. j. 17 C 1/2007-65, žádost žalované o ustanovení zástupce k ochraně jejích zájmů zamítl. K odvolání žalované odvolací soud usnesením ze dne 9. dubna 2008, č. j. 60 Co 121/2008-81, usnesení soudu prvního stupně potvrdil. Ve shodě se soudem prvního stupně dospěl k závěru, že za situace, kdy dovolání žalované proti usnesení odvolacího soudu ze dne 6. prosince 2007, č. j. 60 Co 507/2007-53, není přípustné, nevyžaduje ochrana jejích zájmů, aby byla v dovolacím řízení zastoupena advokátem (§ 30 o. s. ř.).
+Proti usnesení odvolacího soudu ze dne 9. dubna 2008, č. j. 60 Co 121/2008-81, podala žalovaná dovolání, v němž vyjádřila své výhrady k postupu soudů obou stupňů a navrhla napadené usnesení zrušit.
+Dovolání bylo podáno včas subjektem k tomu oprávněným (§ 240 odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu, v platném znění, dále jen „o. s. ř.“), není však přípustné.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti usnesení odvolacího soudu je upravena v § 237, § 238, § 238a a v § 239 o. s. ř.
+Protože usnesení, jímž odvolací soud potvrdil usnesení soudu prvního stupně, kterým bylo rozhodnuto o žádosti o ustanovení zástupce, není rozhodnutím soudu ve věci samé, nemůže být přípustnost dovolání proti takovému rozhodnutí založena podle § 237 odst. 1 o. s. ř. Ani z § 238, § 238a a § 239 o. s. ř. přípustnost dovolání nevyplývá, jelikož nejde o žádný z případů v těchto ustanoveních taxativně vyjmenovaných.
+Z výše řečeného je zřejmé, že dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný. Dovolací soud je proto odmítl, aniž se jím mohl věcně zabývat (§ 243b odst. 5 věta první a § 218 písm. c/ o. s. ř.). Sluší se jen podotknout, že daná situace by jistě nenastala, nebýt usnesení soudu prvního stupně ze dne 7. února 2008, č. j. 17 C 1/2007-60, jímž byla žalovaná v rozporu s § 241b odst. 2 částí věty za středníkem o. s. ř. vyzvána, aby si pro dovolací řízení zvolila advokáta.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 25. srpna 2008
+JUDr. Blanka Moudrá, v.r.
+předsedkyně senátu
