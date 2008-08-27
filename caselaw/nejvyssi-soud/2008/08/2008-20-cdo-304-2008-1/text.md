@@ -1,0 +1,18 @@
+20 Cdo 304/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Vladimíra Mikuška a soudců JUDr. Pavla Krbka a JUDr. Petra Šabaty ve věci výkonu rozhodnutí oprávněné České republiky – Ministerstva vnitra ČR, proti povinnému T. H., zastoupenému advokátkou, pro částku 800,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 5 pod sp. zn. E 3064/96, o dovolání povinného proti usnesení Městského soudu v Praze z 23. 5. 2007, č. j. 25 Co 197/2007-68, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Usnesením z 31. 1. 2007, č. j. E 3064/96-57, obvodní soud podle ustanovení § 268 odst. 1 písm. c) o.s.ř. zastavil výkon rozhodnutí s odůvodněním, že povinný vymáhanou částku zaplatil.
+Usnesením z 23. 5. 2007, č. j. 25 Co 197/2007-68, městský soud usnesení obvodního soudu změnil tak, že vykonávací řízení zastavil podle § 96 odst. 2 ve spojení s § 254 odst. 1 o.s.ř. poté, co podání oprávněné doručené soudu 3. 3. 2004 označené jako „zastavení výkonu rozhodnutí“ (č. l. 20) podle jeho obsahu (§ 41 odst. 2 o.s.ř.) zhodnotil jako zpětvzetí návrhu (§ 96 odst. 1 o.s.ř.) na nařízení výkonu rozhodnutí odůvodněné tím, že povinný vymáhanou částku zaplatil.
+V dovolání, jehož přípustnost dovozuje z ustanovení § 238a odst. 1 písm. d) a § 239 odst. 1 písm. a) o.s.ř. povinný namítá existenci dovolacích důvodů podle § 241a odst. 2 písm. a) i b) o.s.ř.
+Nejvyšší soud se nejprve zabýval otázkou přípustnosti dovolání a v tomto směru dopěl k závěru, že dovolání přípustné není.
+Podle ustanovení § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání podle citovaného ustanovení je objektivní kategorií /dovolání je nebo není přípustné jako takové/, která se zásadně /s modifikací dovolání přípustného podle ustanovení § 237 odst. 1 písm. c), odst. 3 o.s.ř./ neváže na konkrétního účastníka. Subjektivní přípustnost dovolání oproti tomu implikuje otázku určení subjektu, který je v daném případě oprávněn - ve smyslu ustanovení § 243b odst. 5 a § 218 písm. b) o.s.ř. - dovolání, jež je objektivně přípustné, podat. Subjektivní přípustnost reflektuje stav procesní újmy v osobě určitého účastníka řízení, jenž se projevuje v poměření nejpříznivějšího výsledku, který odvolací soud pro účastníka mohl založit svým rozhodnutím, a výsledku, který svým rozhodnutím skutečně založil. Z povahy dovolání jakožto opravného prostředku plyne, že oprávnění je podat /subjektivní přípustnost/ svědčí účastníku, v jehož neprospěch toto poměření vyznívá, je-li způsobená újma na základě dovolání odstranitelná tím, že dovolací soud napadené rozhodnutí zruší; z pohledu ustanovení § 240 odst. 1 o.s.ř. je tedy dovolání v souzené věci subjektivně nepřípustné (srov. též usnesení Nejvyššího soudu z 30. 10. 1997, sp. zn. 2 Cdon 1363/96, uveřejněné v časopise Soudní judikatura č. 3, ročník 1998 pod poř. č. 28).
+Protože tedy v daném případě dovolání podal někdo, kdo k jeho podání oprávněn nebyl, Nejvyšší soud je - aniž se mohl zabývat jeho důvodností - podle ustanovení § 243b odst. 5 a § 218 písm. c) o.s.ř. odmítl.
+Dovolatel z procesního hlediska zavinil, že dovolání bylo odmítnuto, oprávněné však prokazatelné náklady tohoto řízení (podle obsahu spisu) nevznikly; tomu odpovídá výrok, že na náhradu nákladů dovolacího řízení nemá právo žádný z účastníků (§ 243b odst. 4 věta první, § 224 odst. 1, § 146 odst. 3 o.s.ř.).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 27. srpna 2008
+JUDr. Vladimír Mikušek, v. r.
+předseda senátu
