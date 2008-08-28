@@ -1,0 +1,17 @@
+33 Cdo 3237/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivany Zlatohlávkové a soudců JUDr. Blanky Moudré a JUDr. Václava Dudy ve věci žalobkyně H.C. , proti žalovanému K. B., o zaplacení 19.999,82 Kč s příslušenstvím a smluvní pokuty, vedené u Městského soudu v Brně pod sp. zn. 29 C 83/2005, o dovolání žalovaného proti usnesení Krajského soudu v Brně ze dne 15. června 2007, č. j. 27 Co 96/2007-19, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Brně usnesením ze dne 15. června 2007, č. j. 27 Co 96/2007-19, potvrdil usnesení Městského soudu v Brně ze dne 10. října 2005, č. j. 29 C 83/2005-10, jímž bylo rozhodnuto, že v řízení bude nadále pokračováno jakožto se žalobcem se společností H. C.
+Proti usnesení odvolacího soudu podal žalovaný dovolání.
+Dovolání bylo podáno včas k tomu legitimovaným subjektem, nejsou však dány podmínky pro jeho věcné projednání.
+Podle § 241 odst. 1 věty první o. s. ř. musí být dovolatel zastoupen advokátem nebo notářem; to neplatí, má-li dovolatel právnické vzdělání, popřípadě jedná-li za něj osoba uvedená v § 21 nebo v § 21a anebo v § 21b, která má právnické vzdělání. Notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními předpisy. Podle § 241 odst. 4 o. s. ř. nemá-li dovolatel právnické vzdělání, musí být dovolání sepsáno advokátem, notářem nebo osobou uvedenou v § 21 nebo § 21a anebo § 21b, která má právnické vzdělání. Citované ustanovení představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit; bez jejího splnění však nelze vydat rozhodnutí, kterým se řízení končí (rozhodnutí ve věci samé).
+Protože z dovolání žalovaného ani z obsahu spisu nevyplývalo, že by byl v dovolacím řízení zastoupen advokátem, případně že by měl právnické vzdělání, soud prvního stupně jej usnesením ze dne 23. května 2008, č. j. 29 C 83/2005-33, správně vyzval, aby si pro podání dovolání zvolil zástupcem advokáta a jeho prostřednictvím podal ve lhůtě patnácti dnů od doručení tohoto usnesení řádné dovolání; současně jej poučil, že pokud tak ve stanovené lhůtě neučiní, tj. nebude-li soudu předložena plná moc zvoleného advokáta a jím sepsané dovolání, dovolací řízení bude zastaveno a rovněž mu poskytl poučení podle § 30 odst. 1 o. s. ř. Na výzvu, která mu byla doručena 9. 6. 2008, dovolatel nereagoval.
+Podmínka povinného zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – kromě usnesení, kterým se dovolací řízení právě pro neodstranění tohoto nedostatku zastavuje, a případů uvedených v § 241b odst. 2 větě za středníkem o. s. ř. – vydání rozhodnutí, jímž se řízení končí (§ 241 odst. 1 o. s. ř.). Protože v posuzovaném případě ke zhojení tohoto nedostatku přes řádnou výzvu soudu nedošlo, dovolací soud řízení o dovolání podle § 104 odst. 2 a § 241b odst. 2 části věty před středníkem o. s. ř. zastavil.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a 146 odst. 2 o. s. ř. za situace, kdy žalovaný sice z procesního hlediska zavinil, že dovolací řízení bylo zastaveno, žalobkyni však v souvislosti s dovolacím řízením náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 28. srpna 2008
+JUDr. Ivana Zlatohlávková,v.r.
+předsedkyně senátu
