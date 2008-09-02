@@ -1,0 +1,59 @@
+30 Cdo 3912/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně
+JUDr. Olgy Puškinové a soudců JUDr. Karla Podolky a JUDr. Pavla Pavlíka v právní věci žalobce L. B., zastoupeného advokátem, proti žalované V. z. p. České republiky, o ochranu osobnosti, vedené u Krajského soudu v Ostravě pod sp. zn. 23 C 5/2005, o dovolání žalobce proti rozsudku Vrchního soudu v Olomouci ze dne 13. prosince 2006, č. j. 1 Co 52/2006 - 44, t a k t o :
+I. Řízení o dovolání žalobce proti rozsudku Krajského soudu v Ostravě ze dne 18. května 2005, č. j. 23 C 5/2005 - 22, se zastavuje.
+II. Dovolání žalobce proti rozsudku Vrchního soudu v Olomouci ze dne
+13. prosince 2006, č. j. 1 Co 52/2006 - 44, se odmítá.
+III. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalobce se domáhal, aby žalované byla uložena povinnost zaplatit mu nemajetkovou újmu ve výši 200.000,- Kč, s odůvodněním, že se v roce 1999 dopustila neoprávněného zásahu do jeho osobnostních práv tím, že podala návrh na exekuci prodejem jeho movitých věcí, že v roce 2002 byl žalovanou upozorněn
+na možnost exekučního vymáhání pohledávky ve výši 6.700,- Kč, ačkoli žalobci byl v roce 1992 přiznán částečný invalidní důchod, a že mu exekutor sdělil: „Já ti dám důchod, každý cikán chce být důchodce“.
+Krajský soud v Ostravě rozsudkem ze dne 18. 5. 2005, č. j. 23 C 5/2005 - 22, „návrh, aby žalovaná zaplatila žalobci 200.000,- Kč“, zamítl a rozhodl o náhradě nákladů řízení. Vrchní soud v Olomouci rozsudkem ze dne 13. 12. 2006, č. j.
+1 Co 52/2006 - 44, rozsudek soudu prvního stupně potvrdil a rozhodl o náhradě nákladů odvolacího řízení. Soudy obou stupňů dospěly po zhodnocení provedených důkazů k závěru, že podáním návrhu na výkon rozhodnutí prodejem movitých věcí žalobce k Okresnímu soudu ve Frýdku - Místku dne 3. 6. 1999 pro pohledávky žalované podle vykonatelných platebních výměrů V. z. p. ČR, Okresní pojišťovny F., č. j. 4445635568, a č. j. 2145543598, v celkové výši 1.075,- Kč a upozorněním na možnost soudního vymáhání dluhu blíže neurčeným podáním z roku 2002 realizovala žalovaná právo vymáhat své pohledávky proti žalobci zákonným postupem v souladu s § 261 a násl. o. s. ř., a proto se nedopustila protiprávního jednání a zásahu do osobnostní složky žalobce (§ 11, § 13 obč. zák. a čl. 36 odst. 1 Listiny základních práv a svobod). V řízení bylo totiž prokázáno, že žalobce porušil oznamovací povinnost uvedenou v § 10 odst. 5 zákona č. 48/1997 Sb., o veřejném zdravotním pojištění a o změně a doplnění některých souvisejících zákonů, podle kterého je pojištěnec povinen oznámit příslušné zdravotní pojišťovně nejpozději do 8 dnů skutečnosti rozhodné pro vznik nebo zánik povinnosti státu platit za něj pojistné podle § 7 tohoto zákona, neboť i když mu byl od září 1992 přiznán částečný invalidní důchod, oznámil a doložil tuto skutečnost žalované důchodovým výměrem až dne 1. 3. 2004, přičemž následně byly platební výměry zrušeny. Ve vztahu k tvrzenému zásahu výrokem exekutora v rámci exekuce prováděné Okresním soudem ve Frýdku - Místku není žalovaná pasivně věcně legitimována.
+Proti rozsudku odvolacího soudu (a výslovně též proti rozsudku soudu prvního stupně) podal žalobce dovolání, jehož přípustnost dovozuje z § 237 odst. 1 písm. c), odst. 3 o. s. ř., neboť má za to, že napadené rozhodnutí má po právní stránce zásadní význam v otázce zásahu do jeho osobnostních práv, kterou odvolací soud řešil v rozporu s hmotným právem. Namítá, že nebylo pravdivé tvrzení žalované, že má dluh
+na pojistném na zdravotním pojištění, a stejně tak bylo neopodstatněné vymáhání neexistujícího dluhu. Poukazuje na to, že mezi účastníky je nesporné, že žalobce
+se k žalované dostavil dne 1. 3. 2004 a současně jí předložil důchodový výměr
+o přiznání částečného invalidního důchodu od září 1992, a proto také došlo ke zrušení vydaných platebních výměrů. Je tedy zřejmé, že platební výměry na dlužné pojistné byly nesprávné, a na jejich podkladě vedená exekuce byla objektivně neoprávněná. Na tom podle dovolatele nemůže ničeho změnit obrana žalované, že včas nedoložil, že jako důchodce není plátcem pojistného a že přistoupila k vymáhání domnělého dluhu v dobré víře, protože sankce za nemajetkovou újmu jsou založeny na objektivním principu,
+tj. vznikají bez zřetele k zavinění původce neoprávněného zásahu, a nastupuje tudíž objektivní odpovědnost žalované. Tím, že žalovaná neoprávněně vymáhala nedoplatek pojištění, zasáhla neoprávněně do práva žalobce na nedotknutelnost jeho občanské cti, lidské důstojnosti a jména, a to tak intenzivním způsobem, že by se nejevilo postačujícím zadostiučinění. Navrhl, aby rozsudky soudů obou stupňů byly zrušeny
+a aby věc byla vrácena soudu prvního stupně k dalšímu řízení.
+Nejvyšší soud jako soud dovolací (§ 10a o. s. ř.) po zjištění, že dovolání proti pravomocnému rozsudku odvolacího soudu bylo podáno včas, osobou k tomu oprávněnou, účastníkem řízení, zastoupeným advokátem, dospěl po přezkoumání věci podle § 242 o. s. ř. k závěru, že dovolání není přípustné.
+Dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud
+to zákon připouští (§ 236 odst. 1 o. s. ř.).
+Podmínky přípustnosti dovolání proti rozsudku odvolacího soudu upravuje § 237 o. s. ř.
+Podle § 237 odst. 1 o. s. ř. je dovolání přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího soudu, jimiž bylo změněno rozhodnutí soudu prvního stupně ve věci samé [písm. a)], jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil [písm. b)], jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není přípustné podle ustanovení písmena b) a dovolací soud dospěje
+k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam [písm. c)].
+Podle § 237 odst. 3 o. s. ř. rozhodnutí odvolacího soudu má po právní stránce zásadní význam zejména tehdy, řeší-li právní otázku, která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo která je odvolacími soudy nebo dovolacím soudem rozhodována rozdílně, nebo řeší-li právní otázku v rozporu s hmotným právem.
+Dovolací soud je při přezkoumávání rozhodnutí odvolacího soudu zásadně vázán uplatněnými dovolacími důvody (srov. § 242 odst. 3 o. s. ř.); z toho mimo jiné vyplývá, že při zkoumání, zda napadené rozhodnutí odvolacího soudu má ve smyslu § 237 odst. 3 o. s. ř. ve věci samé po právní stránce zásadní význam, může posuzovat jen takové právní otázky, které dovolatel v dovolání označil.
+Přípustnost dovolání podle § 237 odst. 1 písm. c) o. s. ř. není založena již tím,
+že dovolatel tvrdí, že napadené rozhodnutí odvolacího soudu má ve věci samé po právní stránce zásadní význam. Přípustnost dovolání nastává tehdy, jestliže dovolací soud
+za použití hledisek, příkladmo uvedených v § 237 odst. 3 o. s. ř., dospěje k závěru,
+že napadené rozhodnutí odvolacího soudu ve věci samé po právní stránce zásadní význam skutečně má.
+V posuzované věci žalobce dovoláním napadá rozsudek odvolacího soudu, kterým byl rozsudek soudu prvního stupně ve výroku o věci samé potvrzen, a nejedná
+se o případ přípustnosti dovolání podle § 237 odst. 1 písm. b) o. s. ř. Zbývá proto posoudit přípustnost dovolání podle § 237 odst. 1 písm. c) o. s. ř. Dovolání je podle tohoto ustanovení přípustné jen tehdy, jde-li o řešení právních otázek (jiné otázky, zejména posouzení správnosti nebo úplnosti skutkových zjištění přípustnost dovolání nezakládají), a současně se musí jednat o právní otázku zásadního významu; způsobilým dovolacím důvodem je tedy důvod podle § 241a odst. 2 písm. b) o. s. ř., jehož prostřednictvím lze namítat, že rozhodnutí spočívá na nesprávném právním posouzení věci.
+Nesprávné právní posouzení věci, které dovolatel jako důvod dovolání [§ 241a odst. 2 písm. b) o. s. ř.] uplatnil, může spočívat v tom, že odvolací soud věc posoudil podle nesprávného právního předpisu, nebo že správně použitý právní předpis nesprávně vyložil, případně jej na daný skutkový stav nesprávně aplikoval.
+Podle § 11 obč. zák. fyzická osoba má právo na ochranu své osobnosti, zejména života a zdraví, občanské cti a lidské důstojnosti, jakož i soukromí, svého jména
+a projevů osobní povahy.
+Podle § 13 odst. 1 obč. zák. fyzická osoba má právo se zejména domáhat, aby bylo upuštěno od neoprávněných zásahů do práva na ochranu její osobnosti, aby byly odstraněny následky těchto zásahů a aby ji bylo dáno přiměřené zadostiučinění. Podle odstavce 2 tohoto ustanovení pokud by se nejevilo postačujícím zadostiučinění podle odst. 1 zejména proto, že byla ve značné míře snížena důstojnost fyzické osoby nebo její vážnost ve společnosti, má fyzická osoba též právo na náhradu nemajetkové újmy
+v penězích.
+Předpokladem úspěšného uplatnění práva na ochranu osobnosti ve smyslu § 13 odst. 1 a 2 obč. zák. je neoprávněný zásah do osobnosti fyzické osoby,
+který je objektivně způsobilý vyvolat nemajetkovou újmu, spočívající buď v porušení
+či jen ohrožení osobnosti fyzické osoby v její fyzické a morální jednotě, a příčinná souvislost mezi tímto zásahem a neoprávněností (protiprávností) takového zásahu. Občanskoprávní ochrana osobnosti fyzické osoby podle § 13 obč. zák. se uplatní
+u zásahů do její osobnosti chráněné všeobecným osobnostním právem, které odůvodňují jejich kvalifikaci jako neoprávněných (protiprávních). Neoprávněným zásahem je zásah do osobnosti fyzické osoby, který je v rozporu s objektivním právem, t. j. s právním řádem.
+Jestliže v dané věci bylo v řízení prokázáno, že žalobce porušil svoji oznamovací povinnost uvedenou v § 10 odst. 5 zákona č. 48/1997 Sb., o veřejném zdravotním pojištění a o změně a doplnění některých souvisejících zákonů (když až dne 1. 3. 2004 žalované oznámil a doložil důchodovým výměrem, že od září 1992 je poživatelem částečného invalidního důchodu), nelze odvolacímu soudu vytýkat nesprávné právní posouzení věci, dospěl-li k závěru, že pro poskytnutí náhrady nemajetkové újmy žalobci podle § 13 obč. zák. nebyly splněny zákonné podmínky, neboť tím, že žalovaná
+na základě vykonatelných platebních výměrů podala u Okresního soudu ve Frýdku - Místku dne 3. 6. 1999 návrh na výkon rozhodnutí podle § 261 a násl. o. s. ř. a žalobce v roce 2002 upozornila na možnost podat návrh na exekuci, se nedopustila protiprávního jednání a zásahu do osobnostní složky žalobce; nebyl tak splněn jeden
+ze základních předpokladů podle § 13 obč. zák.
+Dovolání proti výroku o nákladech řízení, které má povahu usnesení (§ 167
+odst. 1 o. s. ř.) občanský soudní řád nepřipouští (srov. § 236 - 239 o. s. ř.).
+Opravným prostředkem pro přezkoumání rozhodnutí soudu prvního stupně
+je odvolání (viz § 201 o. s. ř.); občanský soudní řád proto také ani neupravuje funkční příslušnost soudu pro projednání dovolání proti takovému rozhodnutí. Tím, že žalobce směřuje „dovolání“ přímo proti rozhodnutí soudu prvního stupně, uvedenou podmínku dovolacího řízení opomíjí. Nedostatek funkční příslušnosti je neodstranitelným nedostatkem podmínky řízení; Nejvyšší soud proto řízení o „dovolání“ proti rozsudku okresního soudu, které touto vadou trpí, zastavil (§ 104 odst. 1 o. s. ř.).
+Protože rozhodnutí odvolacího soudu nemá po právní stránce zásadní význam
+ve smyslu § 237 odst. 3 o. s. ř., není dovolání žalobce podle § 237 odst. 1 písm. c)
+o. s. ř. přípustné. Nejvyššímu soudu proto dovolání podle § 243b odst. 5 a § 218
+písm. c) o. s. ř. odmítl.
+Výrok o nákladech dovolacího řízení je odůvodněn § 243b odst. 5 věta první,
+§ 224 odst. 1 a § 151 odst. 1 o. s. ř., neboť žalobce s ohledem na výsledek tohoto řízení nemá na náhradu nákladů řízení právo a žalované v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 2. září 2008
+JUDr. Olga Puškinová,v.r.
+předsedkyně senátu
