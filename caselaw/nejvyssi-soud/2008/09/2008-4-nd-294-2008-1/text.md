@@ -1,0 +1,21 @@
+4 Nd 294/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl dne 9. září 2008 v senátě složeném z předsedkyně JUDr. Danuše Novotné a soudců JUDr. Františka Hrabce a JUDr. Jiřího Pácala v právní věci žalobce Č. F., proti žalovanému P. C., o ochranu osobnosti, vedené u Krajského soudu v Brně pod sp. zn. 24 C 15/2000, o návrhu na přikázání věci z důvodu vhodnosti podle § 12 odst. 2, 3 o. s. ř. t a k t o :
+Věc vedená u Krajského soudu v Brně pod sp. zn. 24 C 15/2000 s e n e p ř i k a z u j e k projednání a rozhodnutí Městskému soudu v Praze.
+O d ů v o d n ě n í :
+Nejvyššímu soudu České republiky byl dne 22. 8. 2008 doručen návrh Krajského soudu v Brně ze dne 19. 8. 2008, sp. zn. 24 C 15/2000, na delegaci výše označené právní věci k Městskému soudu v Praze. Tento návrh Krajský soud v Brně odůvodnil jednak tím, že oba účastníci mají své bydliště v P., jednak že výslechy případně navržených svědků s pražskou adresou a vyžádání příslušných materiálů z archivu v P. mohou být Městským soudem v Praze učiněny hospodárněji a rychleji.
+Kromě toho Krajský soud v Brně v předkládací zprávě uvedl, že ve věci doposud nebylo jednáno, když v roce 2001 bylo řízení přerušeno dle § 109 odst. 2 písm. c) o. s. ř. do doby, než bude skončeno řízení ve věci sp. zn. 24 C 19/2000, téhož soudu. Ke dni
+5. 8. 2008 však již důvod přerušení řízení odpadl.
+K návrhu soudu na delegaci se žalobce nevyjádřil. S ohledem na to, že Krajský soud v Brně ve své výzvě účastníkům ze dne 22. 10. 2007 využil postupu podle § 101 odst. 4 o. s. ř., je možno předpokládat, že žalobce nemá proti přikázání věci Městskému soudu v Praze námitky.
+Žalovaný vyjádřil s návrhem na přikázání věci Městskému soudu v Praze svůj nesouhlas, který odůvodnil jednak tím, že z hlediska účastníků řízení nemůže být konání řízení v Brně zásadní překážkou, jednak – a to především – tím, že dle jeho názoru jsou soudci Městského soudu v Praze podjati ve svém rozhodování, přičemž jmenovitě namítl tuto podjatost u soudců JUDr. Vladimíra Fučíka, JUDr. Petra Hübnera, JUDr. Dagmar Stamidisové, JUDr. Pavla Nagyho a JUDr. Davida Hovorky. Závěr
+o podjatosti soudců Městského soudu v Praze žalovaný ve svých přípisech z 1. 11. 2007, 26. 11. 2007 a 25. 3. 2007 podrobně rozvedl.
+Nejvyšší soud zhodnotil výše uvedené okolnosti, jakož i důvody, pro které byl Krajským soudem v Brně podán návrh na přikázání věci, a dospěl k závěru, že přikázání věci Městskému soudu v Praze není vhodné.
+Podle ustanovení § 12 odst. 2 o. s. ř. může být věc přikázána jinému soudu téhož stupně z důvodu vhodnosti.
+Z důvodu vhodnosti lze věc přikázat k projednání a rozhodnutí jinému soudu zejména tehdy, nasvědčují-li okolnosti případu, a to ať již na straně účastníků nebo vyplývající z okolností věci, předmětu řízení apod., že jiný soud věc projedná a rozhodne rychleji a hospodárněji.
+Důvody vedoucí k odnětí věci příslušnému soudu a její přikázání jinému soudu musí být natolik závažné, aby odůvodňovaly výjimku z ústavně zaručené zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon (čl. 38 odst. 1 Listiny základních práv a svobod).
+Nejvyšší soud dospěl k závěru, že důvody, které uvedl Krajský soud v Brně, nejsou z hlediska požadavku rychlosti a hospodárnosti řízení natolik významné, aby odůvodňovaly výjimku z výše uvedené ústavní zásady. Nejvyšší soud rovněž nemohl ponechat bez povšimnutí zásadní nesouhlas žalovaného s navrhovanou delegací, a to aniž by hodnotil opodstatněnost či neopodstatněnost jeho obav z podjatosti soudců Městského soudu v Praze vznesených pro případ, že by věc byla tomuto soudu přikázána. S ohledem na tyto již předem vznesené námitky Nejvyšší soud dospěl k názoru, že v případě, že by věc byla přikázána Městskému soudu v Praze, nebylo by s největší pravděpodobností projednávání věci u tohoto soudu ani hospodárnější, ani rychlejší než u Krajského soudu v Brně, kde předchozí námitka podjatosti vůči soudci Krajského soudu v Brně již byla vyřešena.
+Nejvyšší soud tak s ohledem na výše uvedenou argumentaci neshledal k navržené delegaci věci žádné relevantní důvody, proto rozhodl návrhu na delegaci k Městskému soudu v Praze nevyhovět.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 9. září 2008
+Předsedkyně senátu:
+JUDr. Danuše N o v o t n á
