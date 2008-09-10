@@ -1,0 +1,17 @@
+29 Cdo 3409/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Krčmáře a soudců Mgr. Petra Šuka a Mgr. Filipa Cilečka v konkursní věci úpadce L. D., vedené u Krajského soudu v Hradci Králové pod sp. zn. 48 K 23/2005, o zrušení konkursu pro nedostatek majetku, o dovolání konkursní věřitelky X. a. s., zastoupené JUDr. R. J., Ph.D., advokátem, proti usnesení Vrchního soudu v Praze ze dne 22. října 2007, č. j. 1 Ko 390/2007-571, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í:
+Usnesením ze dne 19. června 2007, č. j. 48 K 23/2005-548, zrušil Krajský soud v Hradci Králové konkurs na majetek úpadce (L. D.), a to - dle § 44 odst. 1 písm. d/ zákona č. 328/1991 Sb., o konkursu a vyrovnání - pro nedostatek majetku.
+K odvolání konkursní věřitelky X., a. s. Vrchní soudu v Praze v záhlaví označeným usnesením z 22. října 2007 potvrdil usnesení soudu prvního stupně.
+Konkursní věřitelka X. a. s. podala proti usnesení odvolacího soudu dovolání, jehož přípustnost opírá (bez dalšího) o ustanovení § 238a odst. 1 písm. a/ zákona č. 99/1963 Sb., občanského soudního řádu - dále též jen „o. s. ř.“ (usuzujíc, že poučení obsažené v napadeném usnesení /o tom, že dovolání není přípustné, ledaže na základě dovolání ... dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam/ je nesprávné).
+Dovolatelka má za to, že zrušení konkursu pro nedostatek majetku, které vychází z konečné zprávy, jež nezohlednila pohledávku úpadce vůči R. K., je nesprávné, neboť soud neúplně zjistil skutkový stav věci. Požaduje proto, aby Nejvyšší soud zrušil rozhodnutí soudů obou stupňů a věc vrátil soudu prvního stupně k dalšímu řízení.
+Zákonem č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenčním zákonem), byl s účinností od 1. ledna 2008 zrušen zákon o konkursu a vyrovnání (§ 433 bod 1. a § 434), s přihlédnutím k § 432 odst. 1 insolvenčního zákona se však pro konkursní a vyrovnací řízení zahájená před účinností tohoto zákona použijí dosavadní právní předpisy.
+To znamená, že v konkursní věci zahájené před 1. lednem 2008 se pro dovolací řízení zahájené (jako v tomto případě) po 1. lednu 2008 použijí ustanovení občanského soudního řádu o dovolání (ustanovení § 236 až § 243d o. s. ř.) ve znění účinném do 31. prosince 2007; ve znění účinném od 1. ledna 2008 ustanovení § 238a odst. 1 písm. a/ o. s. ř. přípustnost dovolání ve věcech konkursu a vyrovnání ani neupravuje.
+Dovolání proti usnesení, jímž odvolací soud potvrdil usnesení soudu prvního stupně o zrušení konkursu pro nedostatek majetku, může být přípustné jen podle ustanovení § 238a odst. 1 písm. a/ o. s. ř., ve spojení s ustanovením § 237 odst. 1 písm. b/ nebo c/ o. s. ř. (srov. § 238a odst. 2 o. s. ř. a v judikatuře např. usnesení Nejvyššího soudu uveřejněné pod číslem 51/2003 Sbírky soudních rozhodnutí a stanovisek). O případ podle § 237 odst. 1 písm. b/ o. s. ř. nejde a důvod založit přípustnost dovolání podle § 237 odst. 1 písm. c/ o. s. ř. Nejvyšší soud nemá, když dovolatelka mu (vycházejíc z chybného úsudku, že dovolání je přípustné bez dalšího) nepředkládá k řešení žádnou otázku, z níž by bylo možné usuzovat, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam.
+Nejvyšší soud tudíž, aniž nařizoval jednání (§ 243a odst. 1 věta první o. s. ř.), dovolání odmítl (§ 243b odst. 5, § 218 písm. c/ o. s. ř.).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 10. září 2008
+JUDr. Zdeněk K r č m á ř
+předseda senátu
