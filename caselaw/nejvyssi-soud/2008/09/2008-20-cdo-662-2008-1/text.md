@@ -1,0 +1,16 @@
+20 Cdo 662/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudců JUDr. Miroslavy Jirmanové a JUDr. Vladimíra Mikuška v exekuční věci oprávněné S., spol. s r. o., zastoupené advokátem, proti povinnému V. J., pro 40.000,- Kč s příslušenstvím, vedené u Okresního soudu v Děčíně pod sp. zn. 7 Nc 4766/2006, o dovolání Mgr. L. N., soudního exekutora (dále též jen „exekutor“), proti usnesení Krajského soudu v Ústí nad Labem – pobočky v Liberci ze dne 14. 8. 2007, č.j. 29 Co 23/2007-39, takto :
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Shora uvedeným rozhodnutím krajský soud změnil usnesení ze dne 19. 9. 2006, č.j. 7 Nc 4766/2006-8, jímž Okresní soud v Děčíně nařídil podle svého rozsudku ze dne 17. 7. 2006, č.j. 14 C 154/2006-32, k uspokojení pohledávky 40.000,- Kč se specifikovanými úroky z prodlení, pro náklady předcházejícího řízení ve výši 23.033,- Kč a pro náklady exekuce, které budou v průběhu řízení stanoveny, na majetek povinného exekuci, jejímž provedením pověřil JUDr. L. N. soudního exekutora, tak, že návrh na nařízení exekuce zamítl (výrok I. usnesení odvolacího soudu) a rozhodl, že oprávněná a povinný nemají právo na náhradu nákladů exekučního řízení (výrok II. usnesení odvolacího soudu) a že oprávněná je povinna nahradit exekutorovi náklady exekuce ve výši 6.500,-Kč (výrok III. usnesení odvolacího soudu).
+Usnesení odvolacího soudu ve výroku III., kterým bylo oprávněné uloženo nahradit exekutorovi náklady exekuce, napadl exekutor dovoláním. S odůvodněním, že seznam plátců daně z přidané hodnoty je veřejně přístupný na internetu, a dokládání plátcovství je proto nadbytečné, namítá, že mu měla být přiznána i náhrada daně z přidané hodnoty z přiznaných nákladů exekuce.
+Dovolání není přípustné.
+Podle ustanovení § 236 odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů (dále jen „o.s.ř.“), lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti usnesení odvolacího soudu upravují ustanovení § 237 až § 239 o.s.ř. Podle ustanovení § 238, § 238a a § 239 o.s.ř. není dovolání přípustné proto, že usnesení o nákladech řízení, a tedy ani o nákladech exekuce, v jejich taxativních výčtech uvedeno není. Přípustnost dovolání nelze opřít ani o ustanovení § 237 odst. 1 o.s.ř., neboť usnesení o nákladech exekuce, stejně jako usnesení o nákladech řízení, není rozhodnutím ve věci samé (srov. usnesení Nejvyššího soudu ze dne 2. 12. 1997, sp. zn. 2 Cdon 774/97, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek 10/1998 pod č. 61, usnesení Nejvyššího soudu ze dne 22. 3. 2005, sp. zn. 20 Cdo 2740/2004, uveřejněné v časopise Soudní judikatura 5/2005 pod č. 70).
+Nejvyšší soud proto dovolání podle § 243b odst. 5, věta první, a § 218 písm. c) o.s.ř. odmítl.
+Výrok o nákladech dovolacího řízení odpovídá tomu, že (vyjma dovolatele) žádnému z účastníků náklady v tomto stadiu řízení nevznikly (§ 243b odst. 5, věta první, § 224 odst. 1, § 146 odst. 3 o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 22. září 2008
+JUDr. Pavel Krbek, v. r. předseda senátu
