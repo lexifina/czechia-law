@@ -1,0 +1,21 @@
+28 Cdo 2402/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Ludvíka Davida, CSc., a soudců JUDr. Jana Eliáše, Ph.D., a JUDr. Josefa Rakovského v právní věci žalobců a) J. D., zastoupeného advokátem, a b) E. M., zastoupené advokátem, proti žalované M. L., zastoupené advokátem, o zaplacení částky 2.670.842,58 Kč s příslušenstvím, vedené u Okresního soudu v Karlových Varech pod sp. zn. 11 C 259/99, o dovolání žalobců a/, b/ proti rozsudku Krajského soudu v Plzni ze dne 21. 12. 2005, č. j. 18 Co 337/2004-182, takto:
+I. Dovolání obou žalobců se odmítají.
+II. Žalobci a/, b/ jsou povinni společně a nerozdílně zaplatit žalované na nákladech dovolacího řízení do tří dnů od právní moci tohoto usnesení k rukám jejího zástupce částku Kč 14.182,-.
+O d ů v o d n ě n í :
+Potvrzujícím rozsudkem Krajského soudu v Plzni výše označeným byl dvakrát odmítnut návrh žalobců, a to jednak o zaplacení částky 72.544,66 Kč a dále o zaplacení 1.589.250,46 Kč. V dalším výroku odvolací instance byl zbylý výrok soudu prvního stupně zrušen a věc v tomto rozsahu vrácena k dalšímu řízení; stalo se tak v rámci odmítnutí návrhu žalobců na zaplacení částky 187.500,- Kč.
+Proti nepříznivým dvěma výrokům ve věci, v níž bylo vůči žalobcům postupováno podle § 43 o. s. ř., podali oba žalobci dovolání. Stalo se tak podáním ze dne 15.3.2006, které došlo soudu ve lhůtě a v němž je uvedeno, že oba žalobce zastupuje advokát JUDr. J. S. Soudu došlo ještě dne 14.6.2007 další stručné podání, v němž po lhůtě sděluje žalobce a/, zastoupený tentokrát JUDr. J. J., své stanovisko k věci.
+V prvním z uvedených podání je proveden pod písmeny a/ až ch/ podrobný rozbor v rámci dovolacích tvrzení, obsahující skutkové i právní argumenty. Závěrem označení žalobci žádají, aby Nejvyšší soud dovoláním napadený rozsudek příslušném rozsahu zrušil a věc vrátil soudu prvního stupně k dalšímu řízení.
+Strana žalovaná se k dovolání vyjádřila prostřednictvím advokáta tak, že mu nepřičítá ve vztahu k napadenému rozsudku zásadní právní význam a žádá, aby bylo dovolání odmítnuto či zamítnuto.
+Dovolání není přípustné.
+Ve věci (její relevantní části) bylo rozhodnuto odvolacím soudem tak, že byl rozsudek soudu prvního stupně potvrzen. Stalo se tak bez toho, že by zde došlo ke zrušení rozsudku předchozího a k vrácení věci soudu prvního stupně odvolacím soudem se závazným a odlišným právním názorem. V úvahu tedy připadala pouze přípustnost dovolání podle 237 odst. 1 písm. c/ o. s. ř., tedy pro zásadní právní význam rozsudku odvolacího soudu. Výčet předpokladů této přípustnosti dovolání pak stanoví odst. 3 §237 o. s. ř.
+Judikatura Nejvyššího soudu je k této variantě přípustnosti dovolání zcela konstantní. Poněvadž jde o přípustnost za účelem sjednocení rozhodovací praxe k určité právní otázce, vyžaduje se, aby tato právní otázka byla dovolatelem zcela konkrétně a jednoznačně formulována. Tento požadavek zdůraznil dovolací soud v rozhodnutích sp. zn. 21 Cdo 541/2004, 29 Odo 751/2003 a dalších.
+Ústavní soud tomuto výkladu nijak nebrání, jak je patrno například z jeho nálezu sp. zn. IV. ÚS 414/01.
+Podmínce formulovat konkrétní právní otázku však ani jeden z dovolatelů nedostál. V dovolání je proveden rozsáhlý rozbor věci, který by však znamenal nepřípustný bezbřehý přezkum relevantní části napadeného rozsudku.
+Proto bylo dovolání obou žalobců podle §243b odst. 5 věty první a §218 c/ o. s. ř. jako nepřípustné odmítnuto.
+Straně žalované náleží podle §243c odst. 1 a §146 odst. 3 o. s. ř. právo na náhradu nákladů řízení. Tyto náklady vznikly za jeden úkon zástupce žalované - vyjádření k dovolání. Tedy sazba podle § 3 odst. 1, § 17 odst. 1 písm. a/, § 16 odst. 2 vyhlášky č. 484/2000 Sb. (ve znění před novelou č. 277/2006 Sb.) při předmětu řízení (dílčím) 1.661.795,- Kč činí za úkon 56.430,- Kč. Tuto částku však bylo nutné krátit dvakrát o polovinu, neboť bylo dovolání odmítnuto a v řízení byl proveden pouze jediný úkon protistrany (§ 14 odst. 1, § 15, § 18 odst. 1 cit. vyhl.). Tedy po krácení 14.107,- Kč. S přičtením 75,- Kč režijního paušálu (§ 13 odst. 3 vyhlášky č. 177/1996 Sb.) představovala výsledná částka přiznaných nákladů řízení 14.182,- Kč.
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 25. září 2008
+JUDr. Ludvík D a v i d, CSc., v. r.
+předseda senátu
