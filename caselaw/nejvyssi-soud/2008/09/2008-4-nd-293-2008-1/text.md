@@ -1,0 +1,26 @@
+4 Nd 293/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy senátu JUDr. Františka Hrabce a soudců JUDr. Danuše Novotné a JUDr. Jiřího Pácala ve věci žalobkyně: D. C. s. r. o., zastoupena JUDr. V. M., advokátem se sídlem B., proti žalovanému: A. Z., vedeno u Okresního soudu v Karviné, pobočka v Havířově pod
+sp. zn. 111 C 142/2008, o určení místní příslušnosti podle § 11 odst. 3 o. s. ř. t a k t o :
+Určuje se, že věc p r o j e d n á a r o z h o d n e Okresní soud v Karviné, pobočka v Havířově.
+O d ů v o d n ě n í :
+Okresní soud v Karviné, pobočka v Havířově předložil Nejvyššímu soudu shora označenou věc k rozhodnutí podle § 11 odst. 3 o. s. ř. o tom, který soud věc projedná a rozhodne, neboť podmínky místní příslušnosti, podle nichž by bylo možno určit příslušný soud chybějí, nebo je nelze zjistit.
+Podle ustanovení § 85 odst. 1 o. s. ř. je obecným soudem fyzické osoby okresní soud, v jehož obvodu má bydliště a nemá-li bydliště, okresní soud, v jehož obvodu se zdržuje. Bydlištěm se rozumí místo pobytu fyzické osoby, ve kterém se zdržuje s úmyslem se tam zdržovat trvale. Jestliže bydliště nelze tímto způsobem určit, je jejím obecným soudem okresní soud, v jehož obvodu se zdržuje v době zahájení řízení (Bureš, Drápal, Krčmář a kol. Občanský soudní řád, komentář 1. díl, 7. vyd. C. H. Beck 2006, str. 378).
+Z předloženého spisu vyplývá, že návrh na zahájení řízení byl podán u Okresního soudu v Karviné, přitom jako bydliště žalovaného bylo v návrhu uvedeno H. Okresní soud v Karviné, pobočka v Havířově usnesením ze dne 3. 7. 2008, sp. zn. 111 C 142/2008 (č. l. 15) vyslovil podle § 105 odst. 2 o. s. ř. svou místní nepříslušnost a věc předložil Nejvyššímu soudu k rozhodnutí podle § 11 odst. 3 o. s. ř.
+Z listin obsažených ve spise plynou následující skutečnosti.
+Žalovaný má v centrální evidenci obyvatel zapsán platný trvalý pobyt na adrese H.-m. Tato adresa je adresou úřední ohlašovny trvalého pobytu podle zákona o evidenci obyvatel, tj. adresou Magistrátu města Havířov.
+Z úředního záznamu a lustra jmenovaného soudu na č. l. 13 verte se podává, že vůči žalovanému je u jmenovaného soudu vedeno více soudních řízení. Ze soudních spisů zde vedených plyne, že žalovanému se nepodařilo doručit na žádnou známou adresu, není v evidenci odboru sociálních věcí Magistrátu města Havířova, není ve vazbě ani ve výkonu trestu, není uchazečem o zaměstnání u Úřadu práce v Havířově. Na adrese uvedené v návrhu na zahájení řízení, tj. H, se žalovaný nezdržuje, na dané adrese bydlí pouze matka žalovaného. Tato sdělila, že jí není známo, kde žalovaný pracuje nebo bydlí.
+Z výše uváděného vyplývá, že místo, které je vedeno v centrální evidenci obyvatel jako adresa trvalého pobytu žalovaného, není bydlištěm žalovaného ve smyslu § 85 odst. 1 o. s. ř.
+Zároveň nebylo prokázáno, kde se žalovaný zdržoval v době zahájení řízení
+(26. 5. 2008). Lze tak konstatovat, že místo jeho bydliště ani místo jeho faktického pobytu v době zahájení řízení u Okresního soudu v Karviné, pobočka Havířov není známo.
+Podle § 11 odst. 3 o. s. ř., jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne. Pravomoc soudů ČR k rozhodnutí v uvedené věci vyplývá z ustanovení § 7 odst. 1 zákona č. 99/1963 Sb., občanský soudní řád, v platném znění.
+Podle § 10 odst. 5 zákona č. 133/2000 Sb., o evidenci obyvatel, v platném znění, změnu místa trvalého pobytu občan ohlásí ohlašovně v místě nového trvalého pobytu. Je-li údaj o místě trvalého pobytu úředně zrušen (§ 12), je místem trvalého pobytu sídlo ohlašovny, v jejímž územním obvodu byl občanovi trvalý pobyt úředně zrušen.
+Žalovaný má nyní zapsáno coby místo trvalého pobytu sídlo ohlašovny, tj. Magistrát města Havířov, z čehož je možno dovozovat, že jeho předchozí trvalý pobyt byl v územním obvodu města H. Mimo to v daném městě má trvalý pobyt matka žalovaného.
+Podle § 10 odst. 6 písm. c) zákona o evidenci obyvatel je občan povinen při ohlášení změny místa trvalého pobytu orgánu příslušnému k provedení změny v evidenci doložit vlastnictví bytu nebo domu, nebo doložit oprávněnost užívání bytu, anebo předložit úředně ověřené písemné potvrzení oprávněné osoby o souhlasu s ohlášením změny místa trvalého pobytu. V opačném případě by nemohlo dojít k zaevidování, neboť by občan nesplnil zákonné podmínky pro provedení tohoto správního úkonu.
+Z výše uváděného lze dovodit vztah žalovaného k městu H. a tím k obvodu jmenovaného okresního soudu. Navíc u Okresního soudu v Karviné, pobočka Havířov je vedeno několik dalších řízení proti žalovanému a byla u něj podána žaloba a soud je s věcí tak již obeznámen. Za daného stavu věci, kdy nejsou známa jiná relevantní kriteria, se jeví jako odpovídající rozumnému uspořádání vztahu, aby věc projednal
+a rozhodl Okresní soud v Karviné, pobočka v Havířově.
+Při určení místně příslušného soudu vycházel Nejvyšší soud především z výše uvedených hledisek. S ohledem na tyto skutečnosti proto podle § 11 odst. 3 o. s. ř. určil, že místně příslušným k projednání a rozhodnutí věci je jmenovaný soud.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 25. září 2008
+Předseda senátu:
+JUDr. František H r a b e c
