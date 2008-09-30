@@ -1,0 +1,31 @@
+30 Cdo 3054/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy
+JUDr. Karla Podolky a soudců JUDr. Olgy Puškinové a JUDr. Pavla Pavlíka ve věci žalobkyně H. D., zastoupené advokátem, proti žalovanému D. D., zastoupenému advokátkou, o výživné manželky, vedené u Městského soudu v Brně pod sp. zn. 61 C 18/2004, o dovolání žalovaného proti rozsudku Krajského soudu v Brně ze dne 14. února 2008, č. j. 13 Co 195/2006-179, takto:
+I. Dovolání se odmítá.
+II. Žalovaný je povinen zaplatit žalobkyni na náhradě nákladů dovolacího řízení částku 5.069,40 Kč do tří dnů od právní moci tohoto usnesení k rukám advokáta.
+O d ů v o d n ě n í :
+Krajský soud v Brně rozsudkem v záhlaví označeným k odvolání žalobkyně rozsudek Městského soudu v Brně ze dne 9. ledna 2006, č. j. 61 C 18/2004-143, jímž byla zamítnuta žaloba, „aby žalovaný byl zavázán přispívat na výživu žalobkyně částkou 5.000,- Kč měsíčně od 22. 1. 2004 do 21. 11. 2004“ (výrok I.) a rozhodnuto, že žalovanému se nepřiznává náhrada nákladů řízení (výrok II.),změnil ve výroku I. tak, že žalovaný je povinen zaplatit žalobkyni na výživné manželky za dobu od 22. 1. 2004 do 21. 11. 2004 částku 50.113,- Kč do jednoho měsíce od právní moci rozsudku a žalovanému uložil nahradit žalobkyni náklady řízení ve výši 15.196,- Kč do tří dnů
+od právní moci rozsudku k rukám jejího zástupce.
+Žalovaný v podaném dovolání, jehož přípustnost dovozuje z ustanovení § 237 odst. 1 písm. a) o.s.ř., a jež podává z důvodu § 241a odst. 2 písm. b) o.s.ř., vyjadřuje nesouhlas s rozsudkem odvolacího soudu a domáhá se jeho zrušení a vrácení věci odvolacímu soudu k dalšímu řízení.
+Žalobkyně ve vyjádření k dovolání namítá, že je nepřípustné, protože se jedná o rozsudek ve věci upravené zákonem o rodině; navrhuje jeho odmítnutí a přiznání náhrady nákladů dovolacího řízení.
+Nejvyšší soud České republiky, který jako soud dovolací (§ 10a o. s. ř.) věc projednal bez jednání (§ 243a odst. 1, věta první, o. s. ř.) a dospěl k závěru, že dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný.
+Dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští (§ 236 odst. 1 o. s. ř.).
+Podle § 237 odst. 1 o. s. ř. je dovolání přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího soudu, a/ jimiž bylo změněno rozhodnutí soudu prvního stupně ve věci samé, b/ jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil, c/ jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není přípustné podle písmena b) a dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam; podle odst. 2 písm. b) dovolání podle odst. 1 není přípustné ve věcech upravených zákonem o rodině, ledaže jde o rozsudek o omezení nebo zbavení rodičovské zodpovědnosti nebo pozastavení jejího výkonu, o určení (popření) rodičovství nebo o nezrušitelné osvojení.
+Dovolání v této věci směřuje proti rozsudku odvolacího soudu, jímž byl rozsudek soudu prvního stupně ve výroku o výživném manželky změněn, přičemž nejde o rozsudek, jemuž by předcházel zrušující rozsudek odvolacího soudu. Z hlediska přípustnosti dovolání podle citovaných ustanovení o.s.ř. tak přichází v úvahu pouze
+§ 237 odst. 1 písm. c) o.s.ř. To se však nevztahuje na rozsudky ve věcech upravených v zákoně o rodině, s výjimkou rozsudků o omezení nebo zbavení rodičovské zodpovědnosti nebo pozastavení jejího výkonu, o určení (popření) rodičovství nebo
+o nezrušitelné osvojení (§ 237 odst. 2 písm. b/ o.s.ř.).
+Se zřetelem k této zákonné úpravě přípustnosti dovolání proti rozsudku odvolacího soudu měnícímu rozsudek soudu prvního stupně ve věcech upravených zákonem o rodině, mezi něž patří i rozsudky upravující výživné mezi manžely podle
+§ 91 zák. o rodině, aniž by posuzovaná věc byla výjimkou ve smyslu § 237 odst. 2
+písm. b) o.s.ř., nelze učinit jiný závěr, než že pro povahu věci, v niž odvolací soud rozhodoval, není dovolání ve smyslu § 237 o.s.ř. přípustné.
+Pokud dovolání směřuje proti výroku odvolacího soudu, jímž bylo rozhodnuto
+o nákladech odvolacího řízení, není přípustnost dovolání proti tomuto výroku, který má povahu usnesení (§ 167 odst. 1 o.s.ř.), podle § 237 odst. 1 o.s.ř. dána, neboť se nejedná o rozhodnutí ve věci samé. Dovolání proti tomuto výroku není přípustné ani podle § 238 a 238a o. s. ř., protože jím nebylo rozhodnuto ve věcech, které jsou taxativně vyjmenovány v těchto ustanoveních, a nejde rovněž ani o žádný z případů procesních rozhodnutí uvedených v § 239 o.s.ř.
+Protože dovolání směřuje proti rozhodnutí odvolacího soudu, proti němuž z vyložených důvodů dovolání není přípustné, dovolacímu soudu nezbylo, než je odmítnout, aniž by se mohl zabývat jeho důvodností (§ 243b odst. 5, 6 část věty
+za středníkem, § 218 písm. c/ o.s.ř.).
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř., neboť žalobkyně má právo
+na náhradu účelně vynaložených nákladů dovolacího řízení, které sestávají z odměny
+za zastoupení advokátem za jeden úkon právní pomoci (vyjádření k dovolání) v částce 3.960,- Kč [odměna z částky určené podle § 2 odst. 1 vyhlášky č. 484/2000 Sb., vyčíslená podle § 10 odst. 3, § 3 odst. 1 bod. 4, zaokrouhlená podle § 16 odst. 2, snížená podle § 14 odst. 1 vyhlášky a o dalších 50 % na polovinu podle § 18 odst. 1], a náhrady hotových výdajů podle § 13 odst. 3 vyhlášky č. 177/1996 Sb., v částce 300,- Kč. Vzhledem k tomu, že zástupce žalobkyně doložil, že je plátcem daně z přidané hodnoty, náleží žalobkyni vedle odměny za zastupování advokátem a paušální částky náhrad hotových výdajů rovněž částka odpovídající dani z přidané hodnoty, kterou je advokát povinen z odměny za zastupování a z náhrad odvést podle zvláštního právního předpisu, tedy částka 809,40 Kč. Celkovou náhradu nákladů dovolacího řízení žalobkyně ve výši 5.069,40 Kč je žalovaný povinen zaplatit k rukám advokáta, který žalobkyni v tomto řízení zastupoval (§ 149 odst. 1 o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 30. září 2008
+JUDr. Karel Podolka, v. r.
+předseda senátu
