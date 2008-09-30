@@ -1,0 +1,17 @@
+28 Nd 273/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Josefa Rakovského a soudců JUDr. Ludvíka Davida, CSc., a JUDr. Jana Eliáše, Ph.D., v právní věci složitelky G., a. s., v řízení o úschově, vedeném u Městského soudu v Brně pod sp. zn. 100 Sd 325/2007, o určení místní příslušnosti soudu, takto:
+Určuje se, že věc vedenou u Městského soudu v Brně pod sp. zn. 100 Sd 325/2007 projedná a rozhodne Městský soud v Brně.
+O d ů v o d n ě n í :
+Složitelka podala u Městského soudu v Brně návrh na přijetí částky 520,- Kč do soudní úschovy ve smyslu § 185a o. s. ř. za účelem splnění peněžitého závazku, který má podle ustanovení § 214 odst. 4 zákona č. 513/1991 Sb., obchodní zákoník, ve znění pozdějších předpisů (dále jen ,,obch. zák.“) vůči zůstaviteli P. D. Podle složitelky závazek nelze splnit, neboť složitelka příjemce nezná z důvodu, že není známo, kdo je dědicem zůstavitele.
+Z výpisu z centrální evidence obyvatel, vyžádaného Městským soudem v Brně vyplývá, že P. D., naposledy trvale hlášen k pobytu v B., Palackého třída 515/85, zemřel.
+Městský soud v Brně předložil věc Nejvyššímu soudu České republiky k rozhodnutí o určení místně příslušného soudu podle ustanovení § 11 odst. 3 o. s. ř. Poukázal na ustanovení § 88 písm. l) o. s. ř., podle něhož je místní příslušnost v řízení o úschovách určována místem plnění. Uvedl, že složitelka ve svém návrhu učinila prohlášení, že místo plnění nebylo dohodnuto a dále, že právní vztah mezi složitelkou a příjemcem se řídí obchodním zákoníkem. Povinnost vyplatit věřiteli výtěžek z prodeje akcií podle § 214 odst. 4 obch. zák. je obchodním závazkovým vztahem a plnění je peněžitým plněním, proto je třeba místo plnění posuzovat podle § 337 odst. 1 obch. zák., který stanoví, že peněžitý závazek plní dlužník v sídle nebo místě podnikání, popřípadě v bydlišti věřitele. Dlužník (složitel) svého věřitele (příjemce) nezná a není mu tedy známo jeho sídlo ani bydliště.
+Podle § 11 odst. 1 o. s. ř. se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Podle ustanovení § 88 písm. l) o. s. ř. je k řízení o úschovách příslušný soud, v jehož obvodu je místo plnění. Jsou-li místa plnění v obvodu několika soudů, je k řízení o úschovách příslušný soud, který nejdříve zahájí řízení (jde o tzv. příslušnost výlučnou).
+Vzhledem k obchodněprávní povaze vztahu mezi složitelkou a věřitelem je podle ustanovení § 337 odst. 1 obch. zák. místem plnění peněžitého závazku sídlo, místo podnikání, popř. bydliště věřitele, neboť smlouva ani obchodní zákoník nestanoví jinak.
+Nejvyšší soud České republiky shledal podmínky pro určení místně příslušného soudu ve smyslu § 11 odst. 3 o. s. ř., neboť místo plnění podle § 88 písm. l) o. s. ř. nelze určit. Přihlížeje k zásadě rychlosti a hospodárnosti řízení vyjádřené v § 6 o. s. ř. Nejvyšší soud rozhodl, že věc projedná a rozhodne Městský soud v Brně, u něhož bylo řízení zahájeno a v jeho obvodu bylo poslední bydliště zemřelého věřitele.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 30. září 2008
+JUDr. Josef R a k o v s k ý
+předseda senátu
