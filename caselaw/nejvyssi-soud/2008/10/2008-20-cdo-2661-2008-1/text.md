@@ -1,0 +1,16 @@
+20 Cdo 2661/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci výkonu rozhodnutí oprávněné N., a.s., (dříve C. B., a.s. v likvidaci), proti povinnému J. J., pro 400 000,- Kč s příslušenstvím, prodejem movitých věcí, vedené u Městského soudu v Brně pod sp. zn. 26 E 899/97, o dovolání povinného proti usnesení Krajského soudu v Brně ze dne 8. 8. 2002, č. j. 21 Co 503/2001-43, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Povinný napadl dovoláním v záhlaví uvedené rozhodnutí, kterým krajský soud potvrdil usnesení ze dne 30. 4. 1997, č. j. 26 E 899/97-5, jímž Městský soud v Brně nařídil podle směnečného platebního rozkazu Krajského obchodního soudu v Brně ze dne 8. 12. 1994, sp. zn. 5 Sm 473/94, výkon rozhodnutí prodejem movitých věcí povinného.
+Protože dovolání mělo nedostatky bránící dalšímu pokračování dovolacího řízení a nebylo ani sepsáno advokátem, přičemž ze spisu nevyplývalo, že by povinný byl právnicky vzdělán, soud jej usnesením ze dne 13. 2. 2003, č.j. 26 E 899/97-69, doručeným mu 24. 2. 2003, vyzval, aby ve lhůtě 3 dnů od doručení usnesení doložil, že je zastoupen v souladu s § 241 odst. 1,2 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů (dále jen „o. s. ř.“), a podal řádné dovolání; zároveň jej poučil, že nevyhoví-li výzvě, soud dovolání odmítne (správně dovolací řízení zastaví). Žádost povinného o ustanovení advokáta podle § 30 o. s. ř. (č. l. 97) byla usnesením Městského soudu v Brně ze dne 23. 3. 2005, č.j. 26 E 899/97-151, zamítnuta. Dovolatel vytčené nedostatky neodstranil.
+Nejvyšší soud věc projednal podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2000.
+Podle ustanovení § 241 odst. 1, věty první, o. s. ř. musí být dovolatel zastoupen advokátem, jestliže nemá právnické vzdělání buď sám, nebo jeho zaměstnanec (člen), který za něj jedná; v takovém případě musí být i dovolání sepsáno advokátem (srov. § 241 odst. 2, větu druhou, o. s. ř.).
+Protože podmínka povinného zastoupení dovolatele v dovolacím řízení (k jejímuž splnění je třeba i sepisu dovolání advokátem, viz usnesení Nejvyššího soudu ze dne 27. 5. 1999, sp. zn. 26 Cdo 1121/99, uveřejněné v Soudní judikatuře č. 6, ročník 2000, pod č. 64) je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – kromě usnesení, kterým se dovolací řízení právě pro neodstranění tohoto nedostatku zastavuje – vydání rozhodnutí, jímž se řízení končí (§ 241 odst. 1 o. s. ř.), a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu nedošlo, Nejvyšší soud řízení o dovolání podle § 104 odst. 2 a § 243c o. s. ř. zastavil.
+Povinný z procesního hlediska zavinil, že dovolací řízení bylo zastaveno. Výrok o nákladech řízení se opírá o ustanovení § 243b odst. 4, větu první, § 224 odst. 1 a § 146 odst. 2, větu první, o. s. ř.; oprávněné, jež by měla na jejich náhradu právo, prokazatelné účelně vynaložené náklady v této fázi řízení dle obsahu spisu nevznikly; tomu odpovídá výrok, že na náhradu nákladů dovolacího řízení nemá právo žádný z účastníků.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 16. října 2008
+JUDr. Miroslava Jirmanová, v. r.
+předsedkyně senátu
