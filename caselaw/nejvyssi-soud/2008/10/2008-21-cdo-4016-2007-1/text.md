@@ -1,0 +1,15 @@
+21 Cdo 4016/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a JUDr. Zdeňka Novotného v právní věci žalobkyně L. H., proti žalovanému P. G. M. L., a. s., zastoupenému advokátem, o 655.228,- Kč s úrokem z prodlení, vedené u Okresního soudu v Chebu pod sp.zn. 13 C 179/2001, o dovolání žalobkyně proti rozsudku Krajského soudu v Plzni ze dne 4. dubna 2007, č.j. 12 Co 24/2007-174, takto:
+I. Dovolání žalobkyně se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Dovolání žalobkyně proti rozsudku Krajského soudu v Plzni ze dne 4. 4. 2007, č.j. 12 Co 24/2007-174, jímž byl potvrzen rozsudek Okresního soudu v Chebu ze dne 25. 9. 2006, č.j. 13 C 179/2001-146 ve věci samé (ve výroku o zamítnutí žaloby na zaplacení 655.228,- Kč s tam specifikovaným úrokem z prodlení) a rozhodnuto, že žalobkyně je povinna zaplatit žalovanému na nákladech odvolacího řízení 62.737,- Kč k rukám advokáta, které směřuje pouze do výroku o náhradě nákladů odvolacího řízení, není přípustné.
+Z ustanovení § 167 odst. 1 o.s.ř. vyplývá, že rozhodnutí o nákladech řízení má z pohledu formy rozhodnutí povahu usnesení, kterou neztrácí ani v případě, jestliže je přičleněno k rozhodnutí o věci samé, u něhož je stanovena forma rozsudku. Přípustnost dovolání proti napadenému výroku o náhradě nákladů řízení před soudy obou stupňů je proto třeba zkoumat z hledisek zákonných ustanovení, která stanoví podmínky přípustnosti dovolání proti usnesení odvolacího soudu (srov. § 237 až § 239 o.s.ř.).
+Přípustnost dovolání proti rozhodnutí o nákladech řízení není dána podle ustanovení § 237 o.s.ř., neboť se nejedná o rozhodnutí ve věci samé, ani podle ustanovení § 238, § 238a o.s.ř., neboť nebylo rozhodnuto ve věcech tam taxativně vyjmenovaných, a nevyplývá ani z ustanovení § 239 o.s.ř., protože nejde o žádný z případů procesních rozhodnutí v něm uvedených. Z uvedeného vyplývá, že dovolání proti výroku rozsudku odvolacího soudu o náhradě nákladů řízení není přípustné, a to bez zřetele k povaze takového výroku, tedy bez ohledu na to, zda jde o měnící či potvrzující rozhodnutí o nákladech řízení nebo o náhradu nákladů odvolacího řízení (srov. usnesení Nejvyššího soudu České republiky ze dne 31.1.2002, sp. zn. 29 Odo 874/2001, uveřejněné pod č. 4 ve Sbírce soudních rozhodnutí a stanovisek, ročník 2003).
+Protože dovolání žalobkyně směřuje proti výroku rozsudku odvolacího soudu o náhradě nákladů odvolacího řízení, proti němuž není tento mimořádný opravný prostředek přípustný, Nejvyšší soud České republiky je podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o.s.ř. - aniž by se mohl věcí dále zabývat - odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 o.s.ř., neboť žalobkyně s ohledem na výsledek dovolacího řízení nemá na náhradu svých nákladů právo a žalovanému v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 21. října 2008
+JUDr. Mojmír Putna, v. r.
+předseda senátu
