@@ -1,0 +1,23 @@
+30 Cdo 3890/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně
+JUDr. Olgy Puškinové a soudců JUDr. Karla Podolky a JUDr. Pavla Pavlíka v právní věci žalobkyně J. B., zastoupené advokátem, proti žalovanému F. K., zastoupenému advokátkou, o 570.000,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 10 pod sp. zn. 8 C 32/2003, o dovolání žalovaného proti usnesení Městského soudu v Praze ze dne 7. dubna 2008, č. j. 51 Co 276/2007 - 133, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 10 rozsudkem ze dne 25. 9. 2006, č. j. 8 C 32/2003 - 94, zamítl žalobu, aby žalovaný byl povinen zaplatit žalobkyni J. Ř. částku 570.000,- Kč s úrokem z prodlení od 7. 2. 2000 do zaplacení, a rozhodl o náhradě nákladů řízení.
+Proti rozsudku soudu prvního stupně podala žalobkyně odvolání. Během odvolacího řízení žalobkyně J. Ř. zemřela.
+Městský soud v Praze usnesením ze dne 7. 4. 2008, č. j. 51 Co 276/2007 - 133, rozhodl o procesním nástupnictví podle § 107 odst. 1 a 2 ve spojení s § 211 o. s. ř. tak, že „v řízení bude nadále pokračováno na straně žalobkyně s J. B., neboť ze sdělení JUDr. M. Š., notáře v B., zjistil, že dědici po zůstavitelce - její dcera J. B. a syn J. Ř. uzavřeli dne 19. 3. 2008 dohodu o vypořádání dědictví, podle které nabyla pohledávku zůstavitelky proti F. K. ve výši 570.000,- Kč J. B.
+Proti tomuto usnesení podal žalovaný dovolání, v němž namítá, že „soudy obou stupňů řádně nezjišťovaly skutečnost, zda žalobkyně J. Ř. vůbec chtěla být účastnicí řízení, neboť veškerá jednání proti němu vedla paní B.“, a že „by nemělo být v řízení pokračováno s někým, kdo již zcela bez pochybností jedná v rozporu s dobrými mravy“. Navrhl, aby usnesení Městského soudu v Praze bylo zrušeno.
+Nejvyšší soud jako soud dovolací (§ 10a o. s. ř.) po zjištění, že dovolání bylo podáno včas, osobou k tomu oprávněnou, účastníkem řízení, řádně zastoupeným advokátem, a že je přípustné podle § 239 odst. 1 písm. b) o s. ř., dospěl k závěru, že dovolání je zjevně bezdůvodné.
+Podle § 107 odst. 1 o. s. ř. jestliže účastník ztratí po zahájení řízení způsobilost být účastníkem řízení dříve, než řízení bylo pravomocně skončeno, posoudí soud podle povahy věci, zda v řízení může pokračovat. Není-li možné v řízení ihned pokračovat, soud řízení přeruší. O tom, s kým bude v řízení pokračováno, soud rozhodne usnesením. Podle odst. 2 téhož ustanovení ztratí-li způsobilost být účastníkem řízení fyzická osoba a umožňuje-li povaha věci pokračovat v řízení, jsou procesním nástupcem, nestanoví-li zákon jinak, její dědici, popřípadě ti z nich, kteří podle výsledku řízení převzali právo nebo povinnost, o něž v řízení jde.
+„Povahou věci“ se rozumí hmotněprávní povaha předmětu řízení (srov. komentář Občanský soudní řád, Bureš, Drápal, Krčmář a kol., C.H.Beck, 7. vydání,
+I. díl, str. 482). Povaha věci brání pokračování v řízení zejména tam, kde jde o práva a povinnosti vázané podle hmotného práva na osobu účastníka řízení, kde je určitá skutková podstata podmíněna existencí určitého účastníka řízení, dále tam, kde smrtí účastníka řízení dochází podle hmotného práva k zániku právního vztahu, o nějž v řízení šlo, anebo tam, kde účastník nemá žádného právního nástupce, který by převzal (mohl převzít) právo nebo povinnost, o něž v řízení jde, např. při zastavení dědického řízení § 175h odst. 1 a 2 o. s. ř., ledaže by zůstavitel zanechal majetek vyšší než nepatrné hodnoty (srov. tamtéž).
+Šetření podmínek procesního nástupnictví podle § 107 o. s. ř. učiní soud z úřední povinnosti, přičemž nejde o dokazování o skutkovém stavu věci, a proto k němu není zapotřebí před vydáním usnesení nařídit jednání. Usnesení o procesním nástupnictví je procesním rozhodnutím.
+Z uvedeného vyplývá, že odvolací soud postupoval v souladu s § 107 odst. 1 a 2 ve spojení s § 211 o. s. ř., když poté, co zjistil, že žalobkyně J. Ř. zemřela, vyšetřil podmínky procesního nástupnictví a - za stavu, kdy povaha věci nebrání pokračování v řízení - rozhodl, že v řízení bude na straně žalobkyně pokračováno s J. B., která podle dohody dědiců o vypořádání dědictví, uzavřené dne 19. 3. 2008, nabyla pohledávku zůstavitelky proti žalovanému F. K. ve výši 570.000,- Kč.
+Námitky dovolatele, že nebylo zjišťováno, „zda žalobkyně J. Ř. vůbec chtěla být účastnicí řízení, neboť veškerá jednání proti němu vedla paní B.“, a že „by nemělo být v řízení pokračováno s někým, kdo již zcela bez pochybností jedná v rozporu s dobrými mravy“, jsou zcela bez právního významu.
+Nejvyšší soud proto dovolání jako zjevně bezdůvodné podle § 243b odst. 1
+o. s. ř. odmítl.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 22. října 2008
+JUDr. Olga Puškinová, v. r.
+předsedkyně senátu
