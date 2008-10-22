@@ -1,0 +1,21 @@
+25 Cdo 3930/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marty Škárové a soudců JUDr. Petra Vojtka a JUDr. Roberta Waltra v právní věci žalobců a) M. P., b) J. V., a c) J. P., proti žalovanému JUDr. J. S., o náhradu škody, vedené u Okresního soudu v Semilech pod sp. zn. 10 C 108/2007, o dovolání žalobkyně a) proti usnesení Krajského soudu v Hradci Králové ze dne 14. května 2008, č. j. 24 Co 222/2008-90, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Semilech usnesením ze dne 4. 3. 2008, č. j. 10 C 108/2007-77, rozhodl podle ust. § 107 odst. 1 o. s. ř., že v řízení bude na místo původního žalobce J. P., zemřelého dne, pokračováno s M. P., J. V., a J. P.
+K odvolání žalobkyně a) Krajský soud v Hradci Králové usnesením ze dne 14. 5. 2008, č. j. 24 Co 222/2008-90, usnesení soudu prvního stupně potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Proti tomuto usnesení podala žalobkyně a) podání označené jako „dovolání“, v němž uvádí, že jedná dle písemného poučení Ústavního soudu a žádá o „uzavření věci na základě skutkové podstaty“ a dále žádá o „rozdělení náhrady škody stejnoměrně všem dědicům nebo vyhovění návrhu na ukončení sporu“.
+Nejvyšší soud jako soud dovolací (§10a o. s. ř.) dospěl k závěru, že nejsou splněny podmínky dovolacího řízení.
+Podle ust. § 241 odst. l, věty první, o. s. ř. není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem.
+Podle ust. § 241 odst. 2 o. s. ř. odstavec 1 neplatí, a) je-li dovolatelem fyzická osoba, která má právnické vzdělání, b) je-li dovolatelem právnická osoba, stát, obec nebo vyšší územně samosprávný celek, jedná-li za ně osoba uvedená v § 21, 21a, anebo v § 21b, která má právnické vzdělání.
+Podle ust. § 241 odst. 4 o. s. ř. dovolání musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem, notářem nebo osobou uvedenou v § 21, 21a, 21b, anebo v § 26a odst. 3, která má právnické vzdělání.
+Pro podání dovolání, které je mimořádným opravným prostředkem, zákon stanoví požadavek, aby účastník řízení, který podává dovolání, měl buď sám právnické vzdělání, nebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc, a dovolání bylo touto osobou sepsáno. Ustanovení § 241 o. s. ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění nelze o dovolání rozhodnout.
+V dané věci podala žalobkyně a) dovolání, aniž byla při tomto úkonu zastoupena advokátem, a nebylo prokázáno (ani tvrzeno), že by sama měla právnické vzdělání. Usnesením Okresního soudu v Semilech ze dne 31. 7. 2008, č. j. 10 C 108/2007-95, jehož stejnopis byl žalobkyni a) doručen dne 4. 8. 2008, byla vyzvána, aby doplnila a upřesnila své podání ze dne 23. 6. 2008 označené jako „dovolání“ a dále, aby si ve lhůtě 20 dní od doručení tohoto usnesení zvolila právního zástupce - advokáta a předložila jím doplněné dovolání, nebo aby doložila právnické vzdělání, s poučením, že pokud tak neučiní, dovolací soud dovolací řízení zastaví. Na tuto výzvu reagovala přípisem označeným jako „žádost“ s tím, že „končí, více nebude tuto věc řešit“ a žádá, aby Okresní soud v Semilech uzavřel dědické řízení do dvaceti dnů od podání žádosti.
+Je tedy zřejmé, že dovolatelka nedostatek povinného zastoupení do současné doby neodstranila, ačkoliv byla poučena o povinném právním zastoupení v dovolacím řízení i o důsledcích nesplnění této podmínky. Vzhledem k tomu, že nedostatek podmínky dovolacího řízení podle ust. § 241 odst. 1, věty první, o. s. ř. nebyl ani přes poučení odstraněn, Nejvyšší soud řízení o dovolání žalobkyně a) podle § 243c odst. 1 a § 104 odst. 2, věty třetí, o. s. ř. zastavil, aniž bylo třeba se zabývat otázkou dalších náležitostí podaného dovolání.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, věty první, § 224 odst. l a § 146 odst. 2, věty první, o. s. ř., když dovolatelka nemá na náhradu nákladů dovolacího řízení právo a ostatním účastníkům náklady v dovolacím řízení nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 22. října 2008
+JUDr. Marta Škárová, v. r.
+předsedkyně senátu
