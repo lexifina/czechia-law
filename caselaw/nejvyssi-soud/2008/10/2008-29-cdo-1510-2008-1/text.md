@@ -1,0 +1,16 @@
+29 Cdo 1510/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudců Mgr. Filipa Cilečka a JUDr. Ivany Štenglové v právní věci žalobkyně A. P., a. s. v likvidaci, se sídlem v , proti žalovanému Ing. V. H., narozenému, bytem ve, zastoupenému Mgr. T. F., advokátem, se sídlem v , o námitkách proti směnečnému platebnímu rozkazu, vedené u Krajského soudu v Ústí nad Labem pod sp. zn. 24 Cm 29/2005, o dovolání žalovaného proti usnesení Vrchního soudu v Praze ze dne 21. srpna 2007, č.j. 6 Cmo 21/2007-109, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Vrchní soud v Praze usnesením ze dne 21. srpna 2007, č.j. 6 Cmo 21/2007-109, potvrdil usnesení ze dne 23. října 2006, č.j. 24 Cm 29/2005-99, jímž Krajský soud v Ústí nad Labem „připustil, aby z řízení vystoupil žalobce A. P. a. s. v likvidaci, a na jeho místo vstoupila společnost M. B. F. L., r. č., se sídlem (dále jen „společnost“).
+Odvolací soud - odkazuje na ustanovení § 107a občanského soudního řádu (dále jen „o. s. ř.“) - shodně se soudem prvního stupně uzavřel, že po zahájení řízení nastala právní skutečnost, se kterou právní předpisy spojují převod práva na jiného, přičemž společnost s návrhem žalobkyně, aby na její místo vstoupila do řízení, souhlasila. Námitku žalovaného, že směnku nelze indosovat v době v jejího uložení „v depozitu“ soudu, shledal neopodstatněnou, když „převod směnky indosamentem je hmotněprávním úkonem účastníka řízení, přičemž žádné ustanovení zákona provedení uvedeného úkonu v průběhu směnečného řízení nebrání“.
+Proti usnesení odvolacího soudu podal žalovaný dovolání, odkazuje co do jeho přípustnosti na ustanovení § 239 odst. 2 písm. b) o. s. ř. a co do důvodů na ustanovení § 241a odst. 2 písm. a) a b) o. s. ř., jejichž prostřednictvím namítá, že: 1/ řízení je postiženo vadou, která mohla mít za následek nesprávné rozhodnutí ve věci a 2/ rozhodnutí spočívá na nesprávném právním posouzení věci.
+Dovolatel zdůrazňuje, že s ohledem na ustanovení § 173 odst. 1 Instrukce č. 505/2001-Org Ministerstva spravedlnosti, kterou se vydává vnitřní a kancelářský řád pro okresní, krajské a vrchní soudy (dále jen „instrukce“), nebyl soud oprávněn „jakkoli se směnkou disponovat či umožnit dispozice účastníků či dokonce třetím osobám“, pročež nemohl být soudem prvního stupně originál směnky vydán žalobkyni, popřípadě společnosti, k provedení indosace.
+Proto požaduje, aby Nejvyšší soud rozhodnutí soudů nižších stupňů zrušil a věc vrátil soudu prvního stupně k dalšímu řízení.
+Dovolání žalovaného, které je přípustné podle ustanovení § 239 odst. 2 písm. b) o. s. ř., Nejvyšší soud shledal zjevně bezdůvodným; závěr, podle něhož převod směnky indosamentem je hmotně právním úkonem účastníka a žádné ustanovení občanského soudního řádu a ani jiného právního předpisu jeho provedení v průběhu směnečného řízení nebrání, totiž formuloval již v usnesení ze dne 8. října 2003, sp. zn. 29 Odo 454/2003, uveřejněném v časopise Soudní judikatura č. 10, ročník 2003, pod číslem 181.
+Jelikož od tohoto právního závěru nemá Nejvyšší soud důvod se odchýlit ani v projednávané věci, dovolání jako zjevně bezdůvodné podle ustanovení § 243b odst. 1 o. s. ř. odmítl.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 29. října 2008
+JUDr. Petr G e m m e l
+předseda senátu
