@@ -1,0 +1,13 @@
+11 Td 50/2008
+U S N E S E N Í
+Nejvyšší soud v trestní věci obviněné R. P., vedené u Městského soudu v Brně pod sp. zn. 2 T 158/2008 rozhodl v neveřejném zasedání konaném dne 31. 10. 2008 o příslušnosti soudu t a k t o :
+Podle § 24 odst. 1 tr. řádu j e k projednání trestní věci obviněné R. P. p ř í s l u š n ý Okresní soud v Děčíně.
+O d ů v o d n ě n í :
+Státní zástupce Městského státního zastupitelství v Brně podal dne 28. 7. 2008 Městskému soudu v Brně obžalobu na obviněnou R. P. pro trestný čin ublížení na zdraví podle § 224 odst. 1 tr. zák., který měla spáchat tím, že 24. 8. 2007 v I. poblíž ostrova B. v lokalitě B. C. bohaté na mořské proudy, v rámci skupinového potápění organizovaného M. J., jehož trestní odpovědnost je šetřena samostatně, porušila základní obecně přijímané a dodržované pravidlo bezpečnosti potápění tím, že při zanořování do hloubky 26 metrů opustila poškozenou M. B., se kterou byla vedoucím ponoru určena do dvojice k potápění, a na místo toho, aby na poškozenou počkala na určeném místě srazu nebo se ji vydala hledat, potápěla se dál s jiným potápěčem po dobu asi 40-ti minut, aniž by se o další osud poškozené zajímala, v důsledku čehož se poškozená M. B. ocitla sama bez pomoci na širém moři a její mrtvé tělo v potápěčském oblečení a výbavě bylo nalezeno až po sedmi dnech po ponoru.
+Usnesením Městského soudu v Brně ze dne 5. 8. 2008, sp. zn. 2 T 158/2008, byla podle § 314c odst. 1 písm. a) tr. řádu a § 188 odst. 1 písm. a) tr. řádu trestní věc obviněné R. P. předložena Nejvyššímu soudu k rozhodnutí o příslušnosti s tím, že s ohledem na spáchání trestného činu v cizině je v dané věci dle ustanovení § 18 odst. 2 tr. řádu místně příslušný Okresní soud v Děčíně, neboť obviněná je trvale hlášena a zdržuje se ve městě Děčíně. Současně nebylo zjištěno nic, co by nasvědčovalo tomu, že obviněná bydlí, pracuje nebo se zdržuje v obvodu Městského soudu v Brně.
+Nejvyšší soud zhodnotil důkazy použitelné k rozhodnutí podle § 24 tr. řádu a dospěl k závěru, že je nutno přisvědčit usnesení Městského soudu v Brně. Z obžaloby podané na obviněnou R. P. je zřejmé, že ke spáchání žalovaného trestného činu ublížení na zdraví podle § 224 odst. 1 tr. zák. mělo dojít v cizině, konkrétně v I. poblíž ostrova B. Za tohoto stavu je třeba při stanovení místní příslušnosti vyjít z ustanovení § 18 odst. 2 tr. řádu, podle něhož byl-li čin spáchán v cizině, koná řízení soud, v jehož obvodu obviněný bydlí, pracuje nebo se zdržuje, a tím je s ohledem na bydliště obviněné Okresní soud v Děčíně.
+Z těchto důvodů bylo rozhodnuto, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 31. října 2008
+Předseda senátu:
+JUDr. Pavel Kučera
