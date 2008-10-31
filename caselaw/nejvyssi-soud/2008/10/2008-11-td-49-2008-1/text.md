@@ -1,0 +1,13 @@
+11 Td 49/2008
+U S N E S E N Í
+Nejvyšší soud v trestní věci obviněných A. A., a spol., vedené u Okresního soudu v Břeclavi pod sp. zn. 1 T 120/2008 rozhodl v neveřejném zasedání konaném dne 31. 10. 2008 o příslušnosti soudu t a k t o :
+Podle § 24 odst. 1 tr. řádu j e k projednání trestní věci obviněných A. A. a spol. p ř í s l u š n ý Městský soud v Brně.
+O d ů v o d n ě n í :
+Státní zástupce Okresního státního zastupitelství v Břeclavi podal dne 23. 7. 2008 Okresnímu soudu v Břeclavi obžalobu na obviněné A. A. a spol. pro trestné činy účasti na zločinném spolčení podle § 163a odst. 1 tr. zák. a nedovoleného překročení státní hranice podle § 171a odst. 1, 2 písm. b), c) tr. zák. spáchané ve prospěch zločinného spolčení podle § 43 tr. zák., jichž se mělo dopustit celkem jedenáct obviněných jednáním popsaným v obžalobě.
+Usnesením Okresního soudu v Břeclavi ze dne 2. 9. 2008, sp. zn. 1 T 120/2008, byla trestní věc obviněných A. A. a spol. podle § 188 odst. 1 písm. a) tr. řádu předložena Nejvyššímu soudu k rozhodnutí o příslušnosti soudu s odůvodněním, že není ve věci místně příslušný, neboť ze spisového materiálu nebylo zjištěno, že by jakékoli žalované jednání mělo být spácháno v obvodu Okresního soudu v Břeclavi, ani že by se v tomto obvodu zdržoval některý z obviněných. Z provedeného dokazování vyplývá, že v dané věci je dána místní příslušnost více soudů, a to nepochybně těch okresních soudů, v jejichž obvodu došlo k faktickému překročení státní hranice, a dále pak i Městského soudu v Brně, neboť je zřejmé, že převážná část úkonů souvisejících s organizací uvedené trestné činnosti, byla provedena v obvodu tohoto soudu.
+Nejvyšší soud zhodnotil důkazy použitelné k rozhodnutí podle § 24 odst. 1 tr. řádu a dospěl k tomuto závěru.
+Obvinění A. A. a spol. jsou stíháni za rozsáhlou trestnou činnost kvalifikovanou jako trestný čin účasti na zločinném spolčení podle § 163a odst. 1 tr. zák. a trestný čin nedovoleného překročení státní hranice podle § 171a odst. 1, 2 písm. b), c) tr. zák. Podle obžaloby se měli trestné činnosti podle § 163a odst. 1 tr. zák. a § 171a odst. 1, 2 písm. b), c) tr. zák. dopustit na nejrůznějších místech republiky, což ve smyslu § 18 tr. řádu zakládá místní příslušnost k projednání věci více soudů. Usnesení Okresního soudu v Břeclavi lze přisvědčit, že žádným z těchto soudů není Okresní soud v Břeclavi. Jedním ze soudů, v jehož obvodu mělo dojít k jednání naplňujícímu skutkovou podstatu žalovaných trestných činů je i Městský soud v Brně, a proto bylo rozhodnuto, jak je ve výroku usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 31. října 2008
+Předseda senátu:
+JUDr. Pavel Kučera
