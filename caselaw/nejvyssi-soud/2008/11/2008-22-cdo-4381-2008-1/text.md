@@ -1,0 +1,15 @@
+22 Cdo 4381/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jiřího Spáčila, CSc., a soudců JUDr. Marie Rezkové a JUDr. Jiřího Zrůsta ve věci žalobkyně J. C., proti žalovanému J. C., o vypořádání společného jmění manželů, vedené u Okresního soudu v Semilech pod sp. zn. 10 C 846/2005, o dovolání žalovaného proti rozsudku Krajského soudu v Hradci Králové ze dne 19. března 2008, č. j. 24 Co 443/2007-220, takto:
+Dovolací řízení se zastavuje.
+Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Semilech („soud prvního stupně“) rozsudkem ze dne 18. května 2007, č. j. 10 C 846/2005-197, ve výroku pod body I. až IV. rozhodl o vypořádání společného jmění manželů, účastníků řízení, ve výroku pod body V. až VII. rozhodl o nákladech řízení a ve výroku pod bodem VIII. zrušil svoje usnesení ze dne 1. února 2006, č. j. 10 C 846/2005-25, ohledně povinnosti žalovaného zaplatit zálohu na náklady důkazu. Krajský soud v Hradci Králové jako soud odvolací k odvolání žalobkyně rozsudkem ze dne 19. března 2008, č. j. 24 Co 443/2007-220, změnil rozsudek soudu prvního stupně ohledně vypořádání společného jmění manželů a rozhodl o nákladech řízení.
+Žalovaný podal proti rozsudku odvolacího soudu ve lhůtě stanovené v § 240 odst. 1 občanského soudního řádu („OSŘ“) „odvolání“, které soud prvního stupně podle obsahu posoudil jako dovolání. Žalovaného usnesením ze dne 31. července 2008, č. j. 10 C 846/2005-232, vyzval, aby si pro dovolací řízení zvolil svým zástupcem advokáta a aby jeho prostřednictvím podal proti rozsudku odvolacího soudu řádné dovolání. Pro splnění tohoto pokynu žalovanému stanovil lhůtu dvaceti dnů s poučením, že nepředloží-li podepsanému soudu plnou moc zvoleného advokáta a jím sepsané dovolání, Nejvyšší soud dovolací řízení zastaví. Na toto usnesení, které bylo žalovanému doručeno 21. 8. 2008, žalovaný ve stanovené lhůtě nereagoval, a proto soud prvního stupně spis v dané věci předložil 14. 10. 2008 Nejvyššímu soudu k dalšímu řízení.
+Podle § 241 OSŘ musí být dovolatel v dovolacím řízení zastoupen advokátem, jestliže sám nemá právnické vzdělání. Z podaného dovolání zastoupení advokátem nevyplývá a jiné listiny, toto zastoupení nebo právnické vzdělání dovolatele prokazující, nebyly předloženy. Dovolatel nedostatek povinného zastoupení přes výzvu soudu prvního stupně neodstranil, ačkoliv byl o procesních následcích nesplnění této povinnosti poučen.
+Protože povinné zastoupení dovolatele v dovolacím řízení je podmínkou tohoto řízení, jejíž nedostatek brání vydání rozhodnutí ve věci samé (§ 241 OSŘ) a protože k odstranění tohoto nedostatku do dnešního dne nedošlo, Nejvyšší soud dovolací řízení podle § 243c odst. 1 a § 104 odst. 2 věta třetí OSŘ zastavil.
+Výrok o náhradě nákladů dovolacího řízení byl učiněn v souladu s § 243b odst. 5, § 224 odst. 1 a § 146 odst. 1 písm. c) OSŘ.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 13. listopadu 2008
+JUDr. Jiří S p á č i l, CSc., v. r.
+předseda senátu
