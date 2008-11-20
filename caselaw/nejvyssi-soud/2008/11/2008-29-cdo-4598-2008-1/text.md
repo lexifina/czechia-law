@@ -1,0 +1,15 @@
+29 Cdo 4598/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Krčmáře a soudců Mgr. Petra Šuka a Mgr. Filipa Cilečka v konkursní věci dlužníka Z. d. P. v likvidaci, , o návrhu věřitelky N., a. s., , zastoupené Mgr. P. P., advokátem, , na prohlášení konkursu na majetek dlužníka, vedené u Krajského soudu v Ostravě pod sp. zn. 22 K 6/2002, o dovolání dlužníka proti usnesení Vrchního soudu v Olomouci ze dne 26. června 2008, č. j. 2 Ko 13/2008-390, takto:
+I. Dovolání se odmítá.
+II. Dlužník je povinen zaplatit navrhující věřitelce na náhradě nákladů dovolacího řízení částku 2.550,-- Kč, do tří dnů od právní moci tohoto usnesení, k rukám jejího zástupce.
+O d ů v o d n ě n í:
+Dovolání dlužníka proti v záhlaví označenému usnesení (jímž odvolací soud potvrdil usnesení Krajského soudu v Ostravě ze dne 27. listopadu 2007, č. j. 22 K 6/2002-371, o zastavení konkursního řízení pro zpětvzetí návrhu na prohlášení konkursu) není přípustné. Nejde totiž o žádný z případů vypočtených v § 237 až § 239 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. prosince 2007 (dále též jen „o. s. ř.“); k rozhodnému znění srov. § 432 odst. 1 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenčního zákona).
+K tomu, aby bylo možné založit přípustnost dovolání podle dovolatelem označeného § 237 odst. 1 písm. c/ o. s. ř. (ve spojení s § 238a odst. 1 písm. a/ a odst. 2 o. s. ř.) není splněna podmínka, aby šlo o usnesení, jímž odvolací soud potvrdil usnesení soudu prvního stupně „ve věci samé“ (srov. i usnesení Nejvyššího soudu uveřejněné pod číslem 58/2002 Sbírky soudních rozhodnutí a stanovisek). Nejvyšší soud proto dovolání odmítl podle § 243b odst. 5 a § 218 písm. c/ o. s. ř.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 5, § 224 odst. a § 146 odst. 3 o. s. ř., neboť dovolání dlužníka bylo odmítnuto. Procesně úspěšné navrhující věřitelce tak vzniklo právo na náhradu účelně vynaložených nákladů dovolacího řízení, jež v dané věci sestávají z odměny za zastupování advokátem za řízení v jednom stupni (za dovolací řízení), jejíž výše se určuje podle vyhlášky č. 484/2000 Sb., ve znění pozdějších předpisů (dále jen „vyhláška“).
+V daném případě bylo předmětem dovolacího řízení rozhodnutí o zastavení řízení, takže sazba odměny za dovolací řízení činí podle § 15, § 14 odst. 2, § 13 odst. 1 a § 8 vyhlášky 4.500,- Kč. Takto určená sazba se podle § 18 odst. 1 vyhlášky snižuje o 50 %, tj. na částku 2.250,- Kč, jelikož advokát navrhující věřitelky učinil v dovolacím řízení pouze jediný úkon právní služby (vyjádření k dovolání). Spolu s náhradou hotových výdajů dle § 13 odst. 3 vyhlášky č. 177/1996 Sb. ve znění pozdějších předpisů, ve výši 300,- Kč, tak jde o částku 2.550,- Kč, kterou dovolací soud přiznal navrhující věřitelce k tíži dlužníka.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+Nesplní-li povinný dobrovolně, co mu ukládá vykonatelné rozhodnutí, může se oprávněná domáhat výkonu rozhodnutí.
+V Brně dne 20. listopadu 2008
+JUDr. Zdeněk K r č m á ř
+předseda senátu
