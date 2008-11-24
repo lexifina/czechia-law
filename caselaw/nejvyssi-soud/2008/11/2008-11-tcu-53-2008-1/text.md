@@ -1,0 +1,19 @@
+11 Tcu 53/2008
+U S N E S E N Í
+Nejvyšší soud České republiky projednal dne 24. listopadu 2008 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na zápis odsouzení cizozemským soudem do evidence Rejstříku trestů a rozhodl t a k t o :
+Podle § 4 odst. 2 zák. č. 269/1994 Sb. s e do evidence Rejstříku trestů zaznamenají údaje o odsouzení občana České republiky M. P., rozsudkem Zemského soudu v Linci, Rakouská republika, ze dne 1. 4. 2008, sp. zn. 24 Hv 40/08z, pro trestný čin krádeže ve stádiu pokusu podle § 15 odst. 1, § 127, § 129 č. 2, trestního zákona Rakouské republiky, k trestu odnětí svobody v trvání 1 (jednoho) roku.
+O d ů v o d n ě n í :
+Výše uvedeným rozsudkem Zemského soudu v Linci, Rakouská republika, jenž nabyl právní moci dne 1. dubna 2008, byl M. P. uznán vinným trestným činem krádeže ve stádiu pokusu podle shora uvedených ustanovení právních předpisů Rakouské republiky a odsouzen k trestu odnětí svobody v trvání jednoho roku.
+Podle zjištění cizozemského soudu se odsouzený dopustil trestné činnosti v podstatě tak, že:
+- dne 2. února 2008 v L., R. republika, společně s jinak odsouzeným M. Š., se pokusil vniknout pomocí pilky do bankomatu společnosti O., s cílem odcizit v něm uložené finanční prostředky,
+- dne 9. února 2008 ve F., R. republika, společně s jinak odsouzeným M. Š., se pokusil vniknout pomocí pilky do bankomatu v místní spořitelně, s cílem odcizit v něm uložené finanční prostředky.
+Ministerstvo spravedlnosti České republiky podalo podle § 4 odst. 2 zák. č. 269/1994 Sb., o Rejstříku trestů (dále jen „zákon“), Nejvyššímu soudu České republiky návrh na zapsání výše označeného odsouzení rakouského soudu do evidence Rejstříku trestů České republiky.
+Nejvyšší soud České republiky věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro zápis odsouzení cizozemským soudem do evidence Rejstříku trestů.
+Především je třeba uvést, že podle § 4 odst. 2 zákona může Nejvyšší soud České republiky na návrh Ministerstva spravedlnosti České republiky rozhodnout, že se do evidence Rejstříku trestů zaznamenají údaje o odsouzení občana České republiky cizozemským soudem, jestliže se týká činu, který je trestným i podle právního řádu České republiky a zápis do evidence je odůvodněn závažností činu a druhem trestu, který za něj byl uložen. Dále je nutno připomenout, že pokud Nejvyšší soud rozhodne o zaznamenání údajů o odsouzení do evidence Rejstříku trestů, hledí se na takové odsouzení cizozemským soudem jako na odsouzení soudem České republiky (§ 4 odst. 4 zákona).
+Z podaného návrhu a z obsahu připojeného spisového materiálu vyplývá, že odsouzený je státním občanem České republiky, který byl odsouzen cizozemským soudem, přičemž odsouzení se týká skutku, který vykazuje znaky trestného činu i podle příslušných právních předpisů České republiky /trestný čin krádeže ve stádiu pokusu podle § 247 odst. 1 písm. b) tr. zák. a § 8 odst. 1 tr. zák./. Tím jsou splněny formální podmínky ustanovení § 4 odst. 2 zákona.
+V posuzované věci jsou ovšem dány i podmínky materiální povahy. Odsouzený M. P. se opakovaně dopustil závažné majetkové trestné činnosti, s cílem způsobit škodu na cizím majetku. Nebezpečnost jeho jednání je zvyšována způsobem provedení činu, tj. vloupáním. Odsouzený tedy jednal v rozsahu, pro který lze tuto jeho činnost označit za závažnou ve smyslu § 4 odst. 2 zákona. Pokud jde o druh trestu, byl mu uložen již nezanedbatelný nepodmíněný trest odnětí svobody. Lze tedy dovodit, že podmínky ustanovení § 4 odst. 2 zákona týkající se závažnosti činu a druhu uloženého trestu jsou splněny.
+Z uvedených důvodů proto Nejvyšší soud České republiky návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 24. listopadu 2008
+Předseda senátu:
+JUDr. Antonín Draštík
