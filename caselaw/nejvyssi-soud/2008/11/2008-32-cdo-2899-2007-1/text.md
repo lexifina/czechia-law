@@ -1,0 +1,15 @@
+32 Cdo 2899/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Františka Faldyny, CSc. a JUDr. Moniky Vackové v právní věci žalobce L. M., , správce konkurzní podstaty úpadce R. Š., podnikatele, , proti žalované M. č. P. 1, zastoupené JUDr. I.H., advokátkou, o zaplacení částky 896.424,90 Kč se smluvní pokutou z částky 99.913,- Kč, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 12 C 166/97, o dovolání žalované proti rozsudku Městského soudu v Praze ze dne 8. února 2007, č.j. 20 Co 454/2006-217 t a k t o:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í
+Dovolání žalované směřující proti I. výroku rozsudku Městského soudu v Praze, v záhlaví označenému, jímž byl potvrzen rozsudek Obvodního soudu pro Prahu 1 ze dne 26. 6. 2006, č.j. 12 C 166/97-199 v části, v níž bylo žalované uloženo zaplatit žalobci částku 578.960,06 Kč, není přípustné. Podmínky § 237 odst. 1 písm. b) o.s.ř. v dané věci nebyly splněny, neboť soud prvého stupně rozhodl v této věci shodně jako v dřívějším rozsudku, a dovolání není přípustné ani podle § 237 odst. 1 písm. c) o.s.ř.; dovolací soud totiž neshledal, že by napadený rozsudek odvolacího soudu v potvrzujícím výroku ve věci samé mohl mít po právní stránce zásadní význam ( § 237 odst. 3 o.s.ř. ).
+Dovolatelka nevymezila žádnou otázku zásadního právního významu. Závěr odvolacího soudu o vzniku nároku na doplatek ceny díla není v rozporu se stávající judikaturou Nejvyššího soudu, jak se dovolatelka domnívá. Jí zmiňovaná rozhodnutí Nejvyššího soudu sp. zn. 29 Odo 11/2001 a 33 Cdo 849/98 řeší totiž situaci, kdy nárok na cenu díla dle § 548 odst. 1 věta druhá obchodního zákoníku (dále též „obch. zák.“) vzniká provedením díla, protože mezi smluvními stranami nebylo ujednáno jinak. Napadené rozhodnutí však vychází ze skutečnosti, že nárok na cenu díla vznikl v souladu se smlouvou, v době ve smlouvě sjednané. Smluvní ujednání má, jak z dispozitivní úpravy obsažené v § 548 odst. 1 obch. zák. vyplývá, přednost před úpravou zákonnou. Zákon nevylučuje, aby vznik práva na úhradu ceny díla byl smluvně vázán na výzvu zhotovitele k zaplacení ceny ( či její části ) učiněnou prostřednictvím vystavené faktury.
+Dovolací soud, jak z uvedeného plyne, neshledal existenci podmínek daných ustanovením § 237 odst. 3 o.s.ř., ani jiných okolností, z nichž by, s přihlédnutím k obsahu dovolacích námitek, bylo možno zásadní právní význam rozhodnutí dovodit.
+Dovolání podle § 237 odst. 1 písm. c) o. s. ř. není přípustné, Nejvyšší soud je proto dle § 243b odst. 5 věta první a § 218 písm. c) o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 142 odst. 1 o. s. ř. s přihlédnutím ke skutečnosti, že úspěšnému žalobci v souvislosti s dovolacím řízením žádné náklady nevznikly ( § 18 odst. 1 věta druhá vyhlášky č. 484/2000Sb., ve znění pozdějších předpisů ).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 25. listopadu 2008
+JUDr. Miroslav G a l l u s
+předseda senátu
