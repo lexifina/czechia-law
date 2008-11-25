@@ -1,0 +1,17 @@
+7 Tdo 1410/2008
+U S N E S E N Í
+Nejvyšší soud rozhodl v neveřejném zasedání dne 25. 11. 2008 o dovolání obviněného Z. B. , proti rozsudku Krajského soudu v Brně – pobočka ve Zlíně ze dne 9. 8. 2007, sp. zn. 6 To 291/2007, v trestní věci vedené u Okresního soudu ve Zlíně pod sp. zn. 3 T 76/2007 t a k t o :
+Podle § 265i odst. 1 písm. c) tr. ř. se dovolání obviněného Z. B. o d m í t á .
+O d ů v o d n ě n í :
+Obviněný Z. B. podal prostřednictvím obhájce dovolání proti rozsudku Krajského soudu v Brně – pobočka ve Zlíně ze dne 9. 8. 2007, sp. zn. 6 To 291/2007, jímž bylo rozhodnuto o odvolání státního zástupce proti rozsudku Okresního soudu ve Zlíně ze dne 18. 6. 2007, sp. zn. 3 T 76/2007.
+Nejvyšší soud shledal, že dovolání bylo podáno opožděně. Podle § 265e odst. 1 tr. ř. se dovolání podává u soudu, který rozhodl ve věci v prvním stupni, do dvou měsíců od doručení rozhodnutí, proti kterému dovolání směřuje. Podle § 265e odst. 2 tr. ř. jestliže se rozhodnutí doručuje jak obviněnému, tak i jeho obhájci, běží lhůta od toho doručení, které bylo provedeno nejpozději.
+O lhůtě uvedené v § 265e odst. 1 tr. ř. byli obviněný a jeho obájce řádně poučeni v rozsudku Krajského soudu v Brně – pobočka ve Zlíně.
+Rozsudek Krajského soudu v Brně – pobočka ve Zlíně byl doručen obviněnému dne 3. 9. 2007 a obhájci dne 24. 9. 2007. Posledním dnem lhůty k podání dovolání byl se zřetelem k ustanovení § 60 odst. 3 tr. ř. den 26. 11. 2007. Obviněný podal dovolání dne 4. 7. 2008, tedy evidentně po uplynutí lhůty. Toto datum podání je zřejmé z otisku podacího razítka Okresního soudu ve Zlíně, v jehož podatelně bylo dovolání odevzdáno.
+V otázce včasnosti podaného dovolání vyvstaly pochybnosti, které vyvolalo vyjádření obhájce, podle něhož dovolání osobně podal u Okresního soudu ve Zlíně dne 26. 10. 2007, a to společně s dalším podáním ve věci tohoto soudu sp. zn. 18 T 122/2007. Obhájce v této souvislosti uvedl, že dovolání bylo patrně omylem založeno s tímto dalším podáním do spisu sp. zn. 18 T 122/2007.
+Postupem podle § 265o odst. 2 tr. ř. předseda senátu Nejvyššího soudu zjistil, že ve spise Okresního soudu ve Zlíně sp. zn. 18 T 122/2007 ani v jiném spise tohoto soudu se dovolání obviněného nenachází a že obhájce nedisponuje žádným potvrzením, jímž by mohl doložit podání dovolání dne 26. 10. 2007 nebo jiného dne v rámci zákonné dovolací lhůty (např. otiskem podacího razítka Okresního soudu ve Zlíně na kopii dovolání), ačkoli k předložení takového dokladu byl výslovně vyzván.
+Za tohoto stavu dospěl Nejvyšší soud k závěru, že obviněný nepodal dovolání v zákonné lhůtě. Tvrzení, že dovolání bylo osobně obhájcem podáno dne 26. 10. 2007, je v rozporu se samotným obsahem dovolání, které je datováno až dnem 30. 10. 2007. Nevěrohodnost uvedeného tvrzení ale především vyplývá z toho, že sám obhájce nemá žádný doklad o namítaném datu podání dovolání. Přitom nechat si potvrdit datum podání učiněného u soudu (zejména otiskem podacího razítka soudu na kopii podání) představuje elementární postup advokáta ve styku se soudy, zvláště jde-li o podání, které je nutné učinit v určité lhůtě. Pokud obhájce takové potvrzení nemá, svědčí to o tom, že podání ve lhůtě neučinil.
+Z těchto důvodů Nejvyšší soud opožděně podané dovolání obviněného podle § 265i odst. 1 písm. c) tr. ř. odmítl, aniž napadený rozsudek a předcházející řízení přezkoumal z hledisek uvedených v § 265i odst. 3 tr. ř.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 25. listopadu 2008
+Předseda senátu:
+JUDr. Petr Hrachovec
