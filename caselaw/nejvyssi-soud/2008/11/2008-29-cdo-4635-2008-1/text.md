@@ -1,0 +1,19 @@
+29 Cdo 4635/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivany Štenglové a soudců Mgr. Petra Šuka a Mgr. Filipa Cilečka v právní věci navrhovatelky P. – G., s. r. o., zastoupené JUDr. A. P., advokátem, za účasti 1/ O. P., a. s., a 2/ Mgr. M. M., advokátce, jako správkyni konkursní podstaty úpadkyně O. P., a. s., o určení práva, vedené u Městského soudu v Praze pod sp. zn. 53 Cm 271/2000, o dovolání D.S., zastoupené JUDr. A. V., advokátkou, proti usnesení Vrchního soudu v Praze ze dne 1. dubna 2008, č. j. 14 Cmo 304/2007-236, takto:
+I. Dovolání se odmítá.
+II. Dovolatelka je povinna zaplatit navrhovatelce do tří dnů od právní moci tohoto rozhodnutí na náhradě nákladů dovolacího řízení částku 800,- Kč, k rukám jejího zástupce.
+O d ů v o d n ě n í:
+Usnesením ze dne 30. května 2007, č. j. 53 Cm 271/2000-215, zastavil Městský soud v Praze pro zpětvzetí návrhu na zahájení řízení, jímž se společnost C. P., a. s. domáhala určení, že je akcionářkou společnosti O.P., a. s.
+K odvolání D. S., jež uvedla, že do řízení vstoupila jako vedlejší účastnice 25. června 2007, Vrchní soud v Praze v záhlaví citovaným usnesením rozhodl o procesním nástupnictví na straně navrhovatelky (tak, že v řízení bude pokračováno se společností P. – G., s. r. o.), nepřipustil (k návrhu P. – G., s. r. o.) vedlejší účastenství D. S. na straně „žalované“ a odmítl odvolání D. S. jako podané neoprávněnou osobou.
+Proti usnesení odvolacího soudu podala D. S. dovolání, jehož přípustnost opírá o ustanovení § 239 ve spojení s ustanovením § 237 odst. 1 písmeno c) zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), navrhujíc, aby Nejvyšší soud rozhodnutí odvolacího soudu zrušil a věc vrátil soudu prvního stupně k novému projednání.
+Navrhovatelka ve vyjádření k dovolání navrhuje, aby je Nejvyšší soud zamítl.
+Dovoláním může účastník řízení (§ 240 odst. 1 o. s. ř.) napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští (§ 236 odst. 1 o. s. ř.).
+Dovolání proti rozhodnutí odvolacího soudu o přistoupení vedlejšího účastníka do řízení není přípustné. Nejde totiž o žádný z případů popsaných v § 237 až § 239 o. s. ř.
+V projednávané věci podala dovolání D.S., jež není účastnicí řízení a jež do řízení vstoupila jako vedlejší účastnice. Vedlejší účastník však není osobou oprávněnou k podání dovolání (srov. usnesení Nejvyššího soudu uveřejněné pod číslem 3/2004 Sbírky soudních rozhodnutí a stanovisek). Její dovolání do výroku, kterým odvolací soud rozhodl o tom, že bude v řízení jako se žalobkyní pokračovat se společností P. - G. s. r. o., a do výroku o odmítnutí odvolání tedy bylo podáno osobou, jež k tomu není oprávněna (§ 240 odst. 1 o. s. ř.). Nejvyšší soud je proto podle ustanovení § 243b odst. 5, věty první, a § 218 písm. b) o. s. ř. odmítl.
+Výrok o nákladech řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání D. S. bylo odmítnuto a navrhovatelce vzniklo právo na náhradu účelně vynaložených nákladů. Ty sestávají z odměny za zastupování advokátem za řízení v jednom stupni (dovolací řízení), jejíž výše se určuje podle vyhlášky č. 484/2000 Sb. (dále jen „vyhláška“). Podle ustanovení § 14 odst. 3 a § 15 vyhlášky činí sazba odměny 1.000,-Kč. Takto určená sazba se podle § 18 odst. 1 vyhlášky snižuje o 50%, tj. na částku 500,- Kč, jelikož zástupce navrhovatelky učinil v dovolacím řízení pouze jediný úkon právní služby (vyjádření k dovolání). Spolu s náhradou hotových výdajů dle § 13 odst. 3 vyhlášky č. 177/1996 Sb. ve výši 300,-Kč tak dovolací soud přiznal navrhovatelce k tíži dovolatelky celkem 800,- Kč.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+Nesplní-li povinná, co jí ukládá vykonatelné rozhodnutí, může se oprávněná domáhat výkonu rozhodnutí.
+V Brně dne 26. listopadu 2008
+JUDr. Ivana Š t e n g l o v á
+předsedkyně senátu
