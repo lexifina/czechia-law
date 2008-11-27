@@ -1,0 +1,18 @@
+4 Nd 334/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl jako soud společně nejblíže nadřízený v senátu složeném z předsedy senátu JUDr. Františka Hrabce a soudců JUDr. Danuše Novotné a JUDr. Jiřího Pácala ve věci žalobkyně: Č. i. s., spol. s r. o., zastoupena JUDr. R. M., advokátem, proti žalovaným: 1) R. B., 2) P. N., 3) J. H., o zaplacení 160.037,50 Kč s přísl., vedeno u Okresního soudu Praha-západ pod sp. zn. 6 C 60/2006, o návrhu na přikázání věci podle § 12 odst. 2 o. s. ř. t a k t o :
+Věc vedená u Okresního soudu Praha-západ pod sp. zn. 6 C 60/2006 s e n e p ř i k a z u j e k projednání a rozhodnutí Okresnímu soudu v Břeclavi.
+O d ů v o d n ě n í :
+Okresní soud Praha-západ předložil podle ustanovení § 12 odst. 3 o. s. ř. Nejvyššímu soudu návrh žalované ad) 3, aby věc – řízení o zaplacení peněžité částky, která je u tohoto soudu vedena pod sp. zn. 6 C 60/2006, byla přikázána Okresnímu soudu v Břeclavi.
+Žalovaná návrh odůvodnila tím, že má nezletilé dítě ve věku 2 let, o které se nemá kdo postarat.
+Návrh žalované ad) 3 byl podle § 12 odst. 3 o. s. ř. zaslán ostatním účastníkům řízení (č. l. 144, 146, 150). Žalovaní ad) 1 a ad) 2 se k návrhu nevyjádřili. Žalobkyně s návrhem nesouhlasí. Poukazuje, že místní příslušnost Okresního soudu Praha-západ byla účastníky sjednána ve smyslu § 89a o. s. ř. v čl. X. smlouvy o překlenovacím úvěru ze stavebního spoření. Ve věci již bylo nařízeno několik jednání, přikázáním by věc nebyla projednána hospodárněji a rychleji, zvýšily by se náklady řízení o výši náhrady cestovních výdajů žalobkyně a jejího právního zástupce.
+Nejvyšší soud jako soud nejblíže společně nadřízený příslušnému soudu a soudu, jemuž má být věc přikázána, přezkoumal podaný návrh a shledal, že v posuzovaném případě nejsou splněny zákonné podmínky na přikázání věci.
+Podle § 12 odst. 2 o. s. ř. může být jinému soudu téhož stupně věc přikázána z důvodu vhodnosti.
+Tyto důvody vhodnosti musí být takové povahy, aby z nich jednoznačně plynulo, že jiným než příslušným soudem bude věc projednána rychleji a hospodárněji. Při posuzování podmínek delegace věci a podmínek vhodnosti má pak zásadní význam i stanovisko účastníků řízení. Nelze rovněž nezdůraznit, že postup podle § 12 odst. 2 o. s. ř. je výjimkou ze zásady, že řízení koná soud, jehož příslušnost je určena zákonem a kterou je právě proto, že jde o výjimku, nutno vykládat restriktivně.
+Z tohoto důvodu se musí skutečnosti, které jsou podkladem pro delegaci, vyznačovat určitou mimořádností. Okolnost uváděná žalovanou ad) 3, tj. že nemá v současnosti zajištěnu péči o nezletilé dítě pro případ potřeby jejího vzdálení se z bydliště, není natolik výjimečnou skutečností, která by sama o sobě mohla prolomit jeden ze stěžejních právních principů – právo na projednání věci zákonným soudcem. V uváděné okolnosti proto nelze bez dalšího spatřovat důvod k přikázání věci.
+Dále je též nutno přihlédnout k tomu, že žalobkyně s návrhem na přikázání věci nesouhlasí a též žalovaní ad 1) a ad) 2 ve věci nevyjádřili konkludentní souhlas, neboť ve výzvě k vyjádření nebyla připojena doložka podle ustanovení § 101 odst. 4 o. s. ř., podle které soud může připojit k výzvě účastníku k vyjádření k určitému návrhu doložku, že nevyjádří-li se účastník v určité lhůtě, bude se předpokládat jeho souhlas. Taktéž požadavek na hospodárnější řízení, pokud by bylo konáno u navrhovaného soudu, by v daném případě nebyl splněn s ohledem na skutečnost, že Okresní soud Praha-západ je s věcí již obeznámen.
+Nejvyšší soud proto rozhodl, jak je uvedeno ve výroku tohoto usnesení.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 27. listopadu 2008
+Předseda senátu:
+JUDr. František Hrabec
