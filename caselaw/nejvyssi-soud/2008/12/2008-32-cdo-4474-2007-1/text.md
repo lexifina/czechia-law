@@ -1,0 +1,17 @@
+32 Cdo 4474/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Františka Faldyny, CSc. a JUDr. Moniky Vackové v právní věci žalobkyně G. M. A. a.s., proti žalovanému I. H., o zaplacení částky 36.182,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 51 C 123/2006, o dovolání žalovaného proti rozsudku Městského soudu v Praze ze dne 28. února 2007, č.j. 69 Co 9/2007-32, takto:
+I. Řízení o dovolání se zastavuje.
+II Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalovaný podal dovolání proti rozsudku Městského soudu v Praze v záhlaví označenému, kterým byl potvrzen rozsudek pro zmeškání vydaný Obvodním soudem pro Prahu 4 dne 21 9. 2006, č.j. 51 C 123/2006-18, jímž bylo žalovanému uloženo zaplatit žalobkyni částku 36.182,- Kč s příslušenstvím a nahradit jí náklady řízení.
+Dovolání je mimořádný opravný prostředek, kterým lze napadnout pravomocné rozhodnutí odvolacího soudu, pokud to zákon připouští. Mimořádnost tohoto opravného prostředku odůvodňuje požadavek, aby dovolatel, který je fyzickou osobou, měl právnické vzdělání nebo, jestliže takového vzdělání nedosáhl, aby byl zastoupen advokátem, případně notářem v případech zákonem stanovených (§ 241 odst. 1 o.s.ř.). Je-li dovolatelem fyzická osoba nemající právnické vzdělání, musí být dovolání advokátem (případně notářem) též sepsáno (§ 241 odst. 4 o.s.ř.). Toto povinné (nucené) zastoupení dovolatele při podání dovolání představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit (postupem uvedeným v ustanovení § 241b odst.2 o.s.ř.), bez jejíhož splnění však nelze o dovolání věcně rozhodnout.
+Dovolatel netvrdil, ani neprokazoval, že by byl osobou mající právnické vzdělání. Při podání dovolání nebyl zastoupena advokátem a ani jím podané dovolání nebylo advokátem sepsáno.
+Soud prvního stupně usnesením ze dne 22. 6. 2007, č.j. 51 C 123/2006-36, žalovaného vyzval ve smyslu ustanovení § 241b odst.1 a 2 o.s.ř., aby si pro podání dovolání v této věci zvolil zástupcem advokáta a aby jeho prostřednictvím podal řádné dovolání proti napadenému rozhodnutí. Současně jej poučil, že dovolací řízení soud zastaví, nebude-li do 15 dnů ode dne doručení tohoto usnesení předložena soudu plná moc zvoleného advokáta a jím sepsané dovolání. Uvedené usnesení bylo žalovanému doručeno dne 25. 7. 2007; žalovaný však výzvě dosud nevyhověl a nedostatek povinného zastoupení neodstranil.
+Žalovaný tedy přes výzvu soudu neodstranil nedostatek podmínky dovolacího řízení podle ustanovení § 241 o.s.ř., ačkoliv byl o důsledcích své nečinnosti poučen, Nejvyšší soud České republiky - aniž by se mohl zabývat dalšími okolnostmi – proto řízení o dovolání podle ustanovení § 241b odst.2 a § 104 odst. 2 věty třetí o.s.ř. zastavil.
+Nebylo-li by řízení zastaveno, muselo by být jako nepřípustné odmítnuto (§ 218 písm. c) o.s.ř.), neboť dovoláním dotčeným výrokem bylo rozhodnuto v obchodní věci o peněžitém plnění nižším než 50.000,- Kč (§ 237 odst. 2 písm. a) o.s.ř.).
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 2 věta prvá o. s. ř. s přihlédnutím ke skutečnosti, že žalobkyni v souvislosti s dovolacím řízením žádné náklady nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 3. prosince 2008
+JUDr. Miroslav Gallus
+předseda senátu
