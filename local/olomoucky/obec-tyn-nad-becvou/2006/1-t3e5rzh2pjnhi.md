@@ -18,6 +18,7 @@ verze: "2"
 url: "https://sbirkapp.gov.cz/detail/SPPT3E5RZH2PJNHI"
 text_url: "https://sbirkapp.gov.cz/detail/SPPT3E5RZH2PJNHI/text"
 ziskani_textu: "doc"
+zmeneno: "Nařízení obce Týn nad Bečvou č. 1/2008 (účinnost 2008-12-05, https://sbirkapp.gov.cz/detail/SPPEOORAEB7YG3CC)"
 ---
 
 # Nařízení Obce Týn nad Bečvou, kterým se vydává Tržní řád
