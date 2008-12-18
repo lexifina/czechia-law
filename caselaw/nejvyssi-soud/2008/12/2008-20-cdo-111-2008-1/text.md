@@ -1,0 +1,15 @@
+20 Cdo 111/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudců JUDr. Miroslavy Jirmanové a JUDr. Petra Šabaty v exekuční věci oprávněné H. I. CZ a.s. v likvidaci, proti povinným 1) J. R. C., s.r.o. „v likvidaci“, 2) M. k. s.r.o., zastoupené advokátkou, 3) J. S., 4) P. S., bytem tamtéž, oběma zastoupeným advokátkou, pro 2.100.000,- Kč s příslušenstvím, vedené u Okresního soudu v Ostravě pod sp. zn. 94 Nc 10290/2005, o dovolání JUDr. V. P., soudního exekutora (dále jen „exekutor“), zastoupeného advokátkou, proti usnesení Krajského soudu v Ostravě ze dne 29. 6. 2007, č. j. 9 Co 1780/2006-105, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+V záhlaví uvedeným rozhodnutím krajský soud změnil usnesení ze dne 26. 5. 2006, sp.zn. 069 EX 461/2005, kterým exekutor zamítl návrh původních oprávněných (J. a J. N.) na vstup nového účastníka (H. I. CZ a.s. v likvidaci) do řízení, tak, že návrhu vyhověl. Odvolací soud měl předpoklady pro takové rozhodnutí za splněny, zejména neshledal smlouvu o postoupení vymáhané pohledávky z původních na novou oprávněnou za neplatnou.
+Usnesení odvolacího soudu napadl exekutor dovoláním z důvodu nesprávného právního posouzení věci (§ 241a odst. 2 písm. b/ zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů, dále jen „o.s.ř.“). Prosazuje, že smlouva o postoupení pohledávky je absolutně neplatnou ve smyslu ustanovení § 39 zákona č. 40/1964 Sb., občanského zákoníku ve znění pozdějších předpisů, neboť se jedná o právní úkon, který obchází zákon, svým účelem zákonu odporuje a příčí se dobrým mravům. Namítá, že postoupením pohledávky je obcházeno ustanovení § 87 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů (dále jen „zákon č. 120/2001 Sb.“), a § 5 a § 6 vyhlášky č. 330/2001 Sb. Poukazuje na to, že postupník, který je majetkově a personálně propojen s povinnými, může navrhnout zastavení exekuce a v takovém případě bude mít exekutor nárok na odměnu pouze v minimální výši. Z uvedených důvodů navrhl, aby dovolací soud napadené rozhodnutí zrušil.
+Dovolání není přípustné.
+Z ustanovení § 240 odst. 1 o.s.ř. plyne, že dovolání proti rozhodnutí odvolacího soudu může podat účastník řízení. Exekutor má postavení účastníka exekučního řízení v části, v níž se jedná o jeho nárocích na náklady exekuce, naopak rozhoduje-li se o návrhu oprávněných na vstup nového účastníka (§ 107a o.s.ř., § 36 odst. 5, § 52 odst. 1 zákona č. 120/2001 Sb.), exekutor účastníkem řízení není (srov. § 36 odst. 1 zákona č. 120/2001 Sb.), a tak není ani legitimován k podání opravného prostředku proti usnesení, kterým bylo o takovém návrhu rozhodnuto.
+Nejvyšší soud proto dovolání exekutora podle § 243b odst. 5, věty první, a § 218 písm. b) o.s.ř. odmítl.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 18. prosince 2008
+JUDr. Pavel Krbek, v. r.
+předseda senátu
