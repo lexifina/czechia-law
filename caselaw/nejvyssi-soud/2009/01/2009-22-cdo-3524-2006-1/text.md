@@ -1,0 +1,19 @@
+22 Cdo 3524/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marie Rezkové a soudců JUDr. Františka Baláka a JUDr. Jiřího Spáčila, CSc., ve věci žalobců: a) J. N., b) M. N., a c) T. K., všech zastoupených advokátem, proti žalovaným: 1) M. P., a 2) M. Š., o zrušení a vypořádání podílového spoluvlastnictví k nemovitosti, vedené u Obvodního soudu pro Prahu 9 pod sp. zn. 5 C 78/2004, o dovolání žalobců proti rozsudku Městského soudu v Praze ze dne 8. srpna 2006, č. j. 55 Co 216/2006-199, takto:
+I. Dovolací řízení se zastavuje.
+II. Žalobci jsou povinni společně a nerozdílně zaplatit žalovaným na náhradě nákladů dovolacího řízení částku 8.870,- Kč do tří dnů od právní moci tohoto usnesení.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 9 (dále jen „soud prvního stupně“) rozsudkem ze dne 16. 1edna 2006, č. j. 5 C 78/2004-181, výrokem pod bodem I. zrušil podílové spoluvlastnictví žalobců a původní žalované J. V., „k domu č. p. 213 na stavební parcele č. 980, v k. ú. V., který je zapsán v katastru nemovitostí na LV č. 712, vedené Katastrálním úřadem P.-m., pro kat. území V., obec P.“, výrokem pod bodem II. přikázal „spoluvlastnický podíl žalované, v rozsahu 1/8 k domu č. p. 213 na st. parc. č. 980, v k. ú. V., v souladu s dohodou žalobců, žalobci M. N.“, výrokem pod bodem III. tomuto žalobci uložil povinnost „zaplatit žalované, na náhradu přikázaného spoluvlastnického podílu, částku 111.125,- Kč do 3 dnů od právní moci rozsudku“, a dále rozhodl o nákladech řízení.
+K odvolání žalované Městský soud v Praze jako soud odvolací rozsudkem ze dne 8. srpna 2006, č. j. 55 Co 216/2006-199, výrokem pod bodem I. rozsudek soudu prvního stupně ve výrocích pod body I. a II. potvrdil, ve výroku pod bodem III. změnil tak, že žalobci b) uložil povinnost „zaplatit žalované na náhradu přikázaného spoluvlastnického podílu 158.521,- Kč do tří dnů od právní moci rozsudku“, a změnil také výrok o nákladech řízení. Dále rozhodl o nákladech odvolacího řízení.
+Proti rozsudku odvolacího soudu podali žalobci včas dovolání, v němž namítali, že odvolací soud při určení náhrady za spoluvlastnický podíl nepřihlédl k tomu, že žalovaná se řadu let na údržbě nemovitosti nepodílela. Navrhli, aby rozsudek odvolacího soudu byl zrušen a věc vrácena tomuto soudu k dalšímu řízení.
+Původní žalovaná se ve vyjádření k dovolání ztotožnila se závěry odvolacího soudu a navrhla, aby dovolání bylo odmítnuto.
+Písemným podáním ze dne 6. března 2008 vzali žalobci dovolání zpět s odůvodněním, že J. V. zemřela.
+Usnesením ze dne 25. listopadu 2008, č. j. 22 Cdo 3524/2006-225, dovolací soud rozhodl, že namísto zemřelé J. V. bude v řízení pokračováno s jejími dědičkami žalovanými 1) a 2).
+Vzhledem k tomu, že dovolatelé vzali své dovolání zpět, Nejvyšší soud České republiky podle § 243b odst. 5 věta druhá občanského soudního řádu dovolací řízení zastavil.
+Dovolatelé z procesního hlediska zavinili, že dovolací řízení bylo zastaveno, proto jsou povinni uhradit žalovaným vzniklé náklady (§ 243b odst. 5, § 224 odst. 1 a § 146 odst. 2, věta prvá občanského soudního řádu). Ty představují odměnu advokáta původní žalované, který v dovolacím řízení učinil jeden úkon (vyjádření k dovolání) podle § 4 odst. 1, § 4 odst. 2 písm. a), § 3 odst. 1, § 10 odst. 3, § 14 odst. 1, § 15, § 16 odst. 2 a § 18 odst. 1 vyhlášky č. 484/2000 Sb., ve znění vyhlášky č. 277/2006 Sb., ve výši 8.570,- Kč a paušální náhradu hotových výdajů 300,- Kč (§ 13 odst. 3 vyhlášky č. 177/1996 Sb., advokátní tarif, ve znění vyhlášky č. 276/2006 Sb.), celkem 8.870,- Kč. Platební lhůta k plnění vyplývá z § 160 odst. 1 občanského soudního řádu.
+Nesplní-li žalobci dobrovolně povinnost uloženou jim tímto rozhodnutím, mohou žalované podat návrh na výkon rozhodnutí.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 15. ledna 2009
+JUDr. Marie R e z k o v á
+předsedkyně senátu
