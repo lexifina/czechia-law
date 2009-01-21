@@ -1,0 +1,16 @@
+29 Cdo 5436/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudců JUDr. Zdeňka Krčmáře a Mgr. Jiřího Zavázala v právní věci žalobkyně V. J., zastoupené JUDr. P. S., advokátkou, proti žalovanému Mgr. L. R., jako správci konkursní podstaty U. b., a. s. „v likvidaci“, o určení pravosti pohledávky, vedené u Krajského soudu v Ostravě pod sp. zn. 32 Cm 333/2004, o dovolání žalobkyně proti rozsudku Vrchního soudu v Olomouci ze dne 23. dubna 2008, č. j. 6 Cmo 39/2007-73, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Vrchní soud v Olomouci rozsudkem ze dne 23. dubna 2008, č. j. 6 Cmo 39/2007-73, potvrdil rozsudek ze dne 10. září 2007, č. j. 32 Cm 333/2004-61, jímž Krajský soud v Ostravě zamítl žalobu o určení, že žalobkyně má za úpadkyní pohledávku ve výši 32.000,- Kč z titulu plnění ze smlouvy o vkladu ze dne 16. března 1998.
+Odvolací soud - odkazuje na ustanovení § 21 odst. 1 a 2, § 23 odst. 2 a 4 a § 24 odst. 1 zákona č. 328/1991 Sb., o konkursu a vyrovnání (dále jen „ZKV“) a na ustanovení § 43 a § 79 odst. 1 občanského soudního řádu (dále jen „o. s. ř.“) - přitakal soudu prvního stupně v závěru „o opožděnosti žaloby“. Zdůraznil, že výzva k podání žaloby o určení pravosti pohledávky byla žalobkyni doručena 22. října 2004, žaloba proti úpadkyni byla u soudu podána 19. listopadu 2004 a návrh na záměnu účastníků, podle něhož měla úpadkyně z řízení vystoupit a na její místo vstoupit správce konkursní podstaty, byl podán až 22. března 2005. Jelikož žaloba obsahovala všechny náležitosti vyžadované ustanovením § 79 odst. 1 o. s. ř., včetně řádné identifikace úpadce, nebylo možno podání z 22. března 2005 považovat za „odstranění vady v označení žalovaného“.
+Proti rozsudku odvolacího soudu podala žalobkyně dovolání, namítajíc, že řízení je postiženo vadou, která mohla mít za následek nesprávné posouzení věci, tj. uplatňujíc dovolací důvod podle ustanovení § 241a odst. 2 písm. a) o. s. ř. Dovolatelka „se domnívá“, že ji soud prvního stupně měl vyzvat k odstranění vady v označení účastníka podle ustanovení § 43 o. s. ř., což neučinil a odmítá, že by chtěla „změnit osobu žalovaného“, když šlo „pouze o zpřesnění osoby žalovaného“.
+Požaduje, aby Nejvyšší soud rozhodnutí odvolacího soudu zrušil a věc tomuto soudu vrátil k dalšímu řízení.
+Dovolání žalobkyně proti potvrzujícímu výroku rozsudku odvolacího soudu ve věci samé, které není přípustné podle ustanovení § 237 odst. 1 písm. a) a b) o. s. ř., Nejvyšší soud neshledal - vzhledem k závěrům formulovaným v rozhodnutích uveřejněných pod čísly 17/1998, 44/2002 a 37/2003 Sbírky soudních rozhodnutí a stanovisek - přípustným ani podle ustanovení § 237 odst. 1 písm. c) o. s. ř.; proto je podle ustanovení § 243b odst. 5 a § 218 písm. c) o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalobkyně bylo odmítnuto a žalovanému podle obsahu spisu v dovolacím řízení náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 21. ledna 2009
+JUDr. Petr G e m m e l
+předseda senátu
