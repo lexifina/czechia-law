@@ -1,0 +1,25 @@
+30 Cdo 5424/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Olgy Puškinové a soudců JUDr. Karla Podolky a JUDr. Pavla Pavlíka v právní věci žalobce H. M., zastoupeného advokátem, proti žalovaným 1) K. M., a 2) nezl. J. M., o obnovu řízení o zákaz užívání příjmení, vedené u Okresního soudu v Mělníku pod sp. zn. 16 C 43/2007, o dovolání žalobce proti usnesení Krajského soudu v Praze ze dne 4. června 2007, č. j. 23 Co 246/2007-21, ve znění opravného usnesení ze dne 30. 9. 2008, č. j. 23 Co 246/2007-58, takto:
+Dovolání se odmítá.
+Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalobce se žalobou, doručenou soudu prvního stupně dne 15. 3. 2007, doplněnou podáním, doručeným soudu prvního stupně dne 2. 4. 2007, domáhal obnovy řízení
+o uložení zákazu žalovaným užívat příjmení „M.“, „M.“; současně požádal o osvobození od soudních poplatků.
+Okresní soud v Mělníku usnesením ze dne 16. 4. 2007, č. j. 16 C 43/2007-13, žalobci nepřiznal osvobození od soudních poplatků, neboť z obsahu žaloby je patrné, že návrhu žalobce nemůže být soudem vyhověno, a pro osvobození od soudních poplatků tak nejsou dány podmínky.
+K odvolání žalobce Krajský soud v Praze usnesením ze dne 4. 6. 2007, č. j. 23 Co 246/2007-21, ve znění opravného usnesení ze dne 30. 9. 2008, č. j. 23 Co 246/2007-58, usnesení soudu prvního stupně jako věcně správné potvrdil.
+Proti usnesení odvolacího soudu podal žalobce dne 25. 10. 2007 dovolání, doplněné podáním doručeným soudu prvního stupně dne 7. 11. 2007, v němž současně požádal o ustanovení zástupce pro dovolací řízení. Usnesením Okresního soudu v Mělníku ze dne 4. 1. 2008, č. j. 16 C 43/2007-31, které nabylo právní moci dne 1. 2. 2008, byl dovolateli ustanoven pro dovolací řízení zástupcem advokát J. V., který dovolání žalobce doplnil, resp. dne 25. 8. 2008 podal nové dovolání.
+Nejvyšší soud jako soud dovolací (§ 10a o. s. ř.) po zjištění, že dovolání proti pravomocnému usnesení odvolacího soudu bylo podáno včas, osobou k tomu oprávněnou, účastníkem řízení, řádně zastoupeným advokátem, dospěl po přezkoumání věci k závěru, že dovolání v daném případě směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti usnesení odvolacího soudu upravují § 237 až § 239 o. s. ř.
+Podle § 237 odst. 1 o. s. ř. je dovolání přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího soudu, a) jimiž bylo změněno rozhodnutí soudu prvního stupně ve věci samé, b) jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil, c) jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není přípustné podle písmena b/ a dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam.
+Všem třem případům přípustnosti dovolání, jejichž výčet je v tomto ustanovení uveden, je společné, že musí jít o rozhodnutí ve věci samé. Usnesení, jímž odvolací soud potvrdil usnesení soudu prvního stupně o nepřiznání osvobození od soudních poplatků, není usnesením ve věci samé. Věcí samou se totiž rozumí samotný předmět, pro nějž se řízení vede, a rozhodnutí ve věci samé takové rozhodnutí soudu, jímž se v tzv. řízení sporném na základě žaloby stanoví konkrétní práva a povinnosti účastníků vyplývající z právního vztahu pro žalobou uplatněný nárok (srovnej např. usnesení Nejvyššího soudu České republiky ze dne 22. února 2001, sp. zn. 25 Cdo 3065/2000, publikované pod C 264/3 v Souboru rozhodnutí Nejvyššího soudu ČR, vydávaném nakladatelstvím C. H. Beck).
+Přípustnost dovolání nevyplývá ani z § 238, § 238a a § 239 o. s. ř., protože nejde o žádný z případů, které jsou v uvedených ustanoveních taxativně vyjmenovány.
+Z uvedeného vyplývá, že dovolání žalobce směřuje proti usnesení odvolacího soudu, proti němuž tento mimořádný opravný prostředek není přípustný (srov. též usnesení Nejvyššího soudu ČR ze dne 28. 3. 2002, sp. zn. 29 Odo 170/2002, uveřejněné v časopise Soudní judikatura č. 8/2002 pod SJ 152/2002). Nejvyšší soud ČR proto dovolání žalobce podle § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl, aniž
+se mohl dále věcí zabývat.
+Nesprávné poučení odvolacího soudu o tom, že dovolání je v dané věci přípustné, přípustnost dovolání nezakládá (srov. usnesení Nejvyššího soudu ze dne 27. 6. 2002, sp. zn. 20 Odo 425/2002).
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 o. s. ř., když žalobce s ohledem na výsledek dovolacího řízení nemá právo na náhradu nákladů tohoto řízení a žalovaným v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 21. ledna 2009
+JUDr. Olga Puškinová, v. r.
+předsedkyně senátu
