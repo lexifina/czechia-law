@@ -1,0 +1,23 @@
+28 Cdo 4410/2008
+ČESKÁ REPUBLIKA
+ROZSUDEK
+JMÉNEM REPUBLIKY
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy
+JUDr. Ludvíka Davida, CSc., a soudců JUDr. Josefa Rakovského a JUDr. Jana Eliáše, Ph.D., v právní věci žalobce P. f. ČR, proti žalovanému J. Č., zastoupenému advokátem, o určení vlastnictví a správy k nemovitostem, vedené u Okresního soudu ve Znojmě pod sp.zn. 4 C 221/2006, o dovolání žalovaného proti rozsudku Krajského soudu v Brně ze dne 23.6.2008, č.j. 17 Co 267/2007-106, takto:
+Rozsudek Krajského soudu v Brně ze dne 23. 6. 2008, č.j. 17 Co 267/2007-106, se v celém rozsahu zrušuje a věc se vrací odvolacímu soudu k dalšímu řízení.
+O d ů v o d n ě n í :
+Rozsudkem Krajského soudu v Brně výše označeným byl změněn – zcela ve prospěch žalobce – rozsudek Okresního soudu ve Znojmě ze dne 2. 4. 2007, č.j. 4 C 221/2006-74, kterým byla zamítnuta žaloba, aby bylo určeno vlastnictví České republiky a správa žalobce vůči pozemkům parc. č. 5102 a následujícím (viz výrok prvostupňového rozsudku) v katastrálním území M. Žalovaný byl zavázán k náhradě nákladů odvolacího řízení žalobce, včetně zaplacení soudního poplatku z odvolání (i z žaloby); pro řízení před soudem prvního stupně neměl žádný z účastníků právo na náhradu nákladů řízení.
+Proti rozsudku odvolacího soudu podal žalovaný dovolání. V něm navrhl, aby Nejvyšší soud zrušil rozsudek odvolacího soudu a věc mu vrátil k dalšímu řízení. V dovolání žalovaný zejména namítal, že odvolací soud si nesprávně vyložil ustanovení § 11 odst. 1 zákona č. 95/1999 Sb. Účelem citovaného ustanovení je, aby P. f. nevstupoval do smluvních vztahů s osobami, které vůči němu v předchozím období nesplnily závazky; to však není případ žalovaného. Jeho dluh se dovozuje ze smlouvy s F. n. m. (FNM) ze dne 1. 2. 1998 o privatizaci lékárny v Ch. K té však fakticky nedošlo, původní nájemnice odmítaly až do konce roku 2003 lékárnu vyklidit a nakonec FNM od smlouvy odstoupil; notářským zápisem ze dne 12. 2. 2004 byla lékárna převedena zpět na FNM. Proto bylo namístě aplikovat ustanovení § 325 obch. zák. o synallagmatickém plnění, z čehož vyplývá, že pozdějšímu převodu pozemků od žalobce žádný dluh nepřekážel.
+Žalobce se k dovolání nevyjádřil.
+Žalovaný podal prostřednictvím advokáta dovolání včas (§ 240 odst. 1, § 241 odst. 1 o. s ř.). Dovolání bylo přípustné vzhledem k diformitě rozsudků nižších instancí (§ 237 odst. 1 písm. a/ o. s. ř.). Dovolací důvod byl uplatněn podle § 241a odst. 2 písm. b/ o. s. ř., tedy pro nesprávné právní posouzení věci.
+Dovolání je opodstatněné.
+V obdobných věcech týchž účastníků již Nejvyšší soud opakovaně rozhodoval, přičemž odkazuje zejména na podrobné odůvodnění svého rozsudku ze dne 26.5.2008, sp.zn. 28 Cdo 936/2008.
+Má-li být smlouva o převodu předmětných pozemků z P. f. na žalovaného neplatná, musel by mít žalovaný dluh vůči státu (zde FNM), jak předpokládá ustanovení § 11 odst. 1 písm. b/ zákona č. 95/1999 Sb. Takový dluh však ze zjištěných skutečností nelze dovodit.
+Dluh žalovaného spatřuje žalobce v privatizačním vztahu žalovaného ve věci privatizace objektu lékárny v Ch. Tento objekt však nebyl nikdy žalovaným převzat. Za těchto okolností nebylo povinností žalovaného doplatit kupní cenu za privatizaci lékárny, když předtím byla složena pouze záloha. Okolnosti privatizace byly od počátku zpochybňovány třetími osobami (dosavadními nájemnicemi). Ač mělo dojít k předání lékárny žalovanému do 1. 3. 1998 (viz smlouva mezi FNM a žalovaným), nebyl objekt minimálně do konce roku 2002 způsobilý k užívání žalovaným. Smlouvě mezi nynějšími účastníky ze dne 23. 10. 2002 o převodu pozemků na žalovaného tedy nebránil (údajný) dluh žalovaného vůči státu.
+Na posuzovanou věc bylo přípustné aplikovat ustanovení § 325 obchodního zákoníku, které při existenci vzájemného závazku umožňuje domáhat se splnění jen té straně, která již sama svůj závazek splnila (nebo k tomu je připravena). FNM ovšem po většinu pro věc rozhodného období nebyl schopen – byť z důvodů jím nezaviněných – svůj závazek splnit, a tak neměl actio nata vůči žalovanému. Proto nelze dovodit ani existenci dluhu žalovaného, který by byl překážkou pozdějšího převodu pozemků, jak žalobce tvrdí.
+Odvolací soud tedy nerozhodl správně a Nejvyšší soud podle § 243b odst. 2 věty za středníkem a odst. 3 věty první o. s. ř. zrušil jeho rozhodnutí v celém rozsahu (včetně nákladových a dalších výroků, závislých na úspěšnosti stran ve sporu) a věc mu vrátil k dalšímu řízení.
+V dalším průběhu řízení, v němž je odvolací soud vázán právním názorem dovolacího soudu, bude rozhodnuto též o nákladech řízení o dovolání.
+Proti tomuto rozsudku není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 21. ledna 2009
+JUDr. Ludvík David, CSc., v. r.
+předseda senátu
