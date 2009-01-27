@@ -1,0 +1,19 @@
+20 Cdo 3543/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Vladimíra Mikuška a soudců JUDr. Jiřího Zrůsta a JUDr. Miroslavy Jirmanové v exekuční věci oprávněné T. s.r.o., proti povinné M. I. s. s.r.o., pro částku 7.264,04 Kč s příslušenstvím, vedené u Okresního soudu Plzeň - sever pod sp. zn. Nc 1849/2003, o dovolání JUDr. J. P., soudního exekutora, proti usnesení Krajského soudu v Plzni z 27. 2. 2006, č.j. 56 Co 74/2006-23, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Shora označeným usnesením krajský soud usnesení soudu prvního stupně o zastavení exekuce zrušil, exekuční řízení z důvodu neexistence oprávněného subjektu ke dni zahájení řízení podle ustanovení § 221 odst. 1 písm. c) a § 104 odst. 1 o.s.ř. zastavil (výrok I.), rozhodl,
+že žádný z účastníků nemá právo na náhradu nákladů řízení před soudy obou stupňů (výrok II.) a soudnímu exekutorovi nepřiznal právo na náhradu nákladů exekuce (výrok III.).
+Pravomocné rozhodnutí odvolacího soudu (výslovně jeho výrok III. o nákladech exekuce) napadl soudní exekutor – aniž se zabývá otázkou jeho přípustnosti – dovoláním. V dovolání vyjadřuje nesouhlas s názorem krajského soudu, že „v situaci, kdy řízení bylo vedeno na základě návrhu neexistujícího subjektu“ a pověření k provedení exekuce tak nemohlo nabýt právní moci, nelze soudnímu exekutorovi přiznat úhradu nákladů exekuce.
+Dovolání není přípustné.
+Podle ustanovení § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti usnesení upravují ustanovení § 237 až § 239 o.s.ř.
+Podle ustanovení § 238, § 238a a § 239 o.s.ř. není dovolání přípustné proto, že usnesení o nákladech řízení, a tedy ani o nákladech exekuce, v jejich taxativních výčtech uvedeno není. Přípustnost dovolání nelze dovodit ani z ustanovení § 237 odst. 1 o.s.ř., neboť usnesení o nákladech exekuce, stejně jako usnesení o nákladech řízení, není rozhodnutím ve věci samé (k pojmu „věc sama“ srov. usnesení Nejvyššího soudu z 2. 12. 1997, sp. zn. 2 Cdon 774/97, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek 10/1998 pod č. 61, a – jmenovitě ve vztahu k nákladům exekuce – usnesení téhož soudu z 22. 3. 2005, sp. zn. 20 Cdo 2740/2004, uveřejněné v časopise Soudní judikatura č. 5, ročník 2005 pod č. 70).
+Nejvyšší soud proto dovolání, aniž nařídil jednání (§ 243a odst. 1 věta první o.s.ř.), podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o.s.ř. odmítl.
+Dovolání bylo odmítnuto, oprávněné ani povinné, jež by jinak měly právo na náhradu nákladů dovolacího řízení, takové náklady (podle obsahu spisu) nevznikly; této procesní situaci odpovídá ve smyslu ustanovení § 146 odst. 3, § 224 odst. 1 a § 243b odst. 5 o. s. ř. výrok, že na náhradu nákladů tohoto řízení nemá právo žádný z účastníků.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 27. ledna 2009
+JUDr. Vladimír Mikušek, v. r.
+předseda senátu
