@@ -1,0 +1,17 @@
+25 Cdo 4483/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Vojtka a soudců JUDr. Marty Škárové a JUDr. Roberta Waltra v právní věci žalobkyně J. Č., zastoupené advokátem, proti žalované České republice – Ministerstvu financí ČR, o 45.436,- Kč, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 22 C 148/2006, o dovolání žalobkyně proti rozsudku Městského soudu v Praze ze dne 24. ledna 2008, č. j. 53 Co 364/2007-58, takto:
+I. Řízení o dovolání proti výroku rozsudku odvolacího soudu, jímž byl potvrzen rozsudek soudu prvního stupně ve věci samé, se zastavuje, jinak se dovolání odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 1 rozsudkem ze dne 6. 3. 2007, č. j. 22 C 148/2006-40, zamítl žalobu na zaplacení 45.436,- Kč a rozhodl o náhradě nákladů řízení.
+K odvolání žalobkyně Městský soud v Praze rozsudkem ze dne 24. 1. 2008, č. j. 53 Co 364/2007-58, rozhodnutí soudu prvního stupně ve výroku o věci samé potvrdil, změnil jej ve výroku o náhradě nákladů řízení a rozhodl o náhradě nákladů odvolacího řízení.
+Proti tomuto rozsudku podala žalobkyně dovolání, které podáním, doručeným dovolacímu soudu dne 9. 1. 2009, vzala zpět v části směřující proti výroku rozsudku odvolacího soudu, jímž potvrdil rozsudek soudu prvního stupně ve výroku o věci samé. V tomto podání dále výslovně uvedla, že trvá na dovolání proti výrokům napadeného rozsudku o nákladech řízení, přičemž s poukazem na nález Ústavního soudu ČR sp. zn. I. ÚS 2929/07 odvolacímu soudu vytkla, že se nezabýval otázkou, zda náklady právního zastoupení vynaložené státem na zastoupení advokátem jsou skutečně potřebné k účelnému uplatňování nebo bránění práva.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) proto v důsledku tohoto úkonu dovolatelky dovolací řízení v rozsahu zpětvzetí podle § 243b odst. 5 věty druhé o.s.ř. zastavil.
+Dovolání proti výrokům, jimiž odvolací soud rozhodl o náhradě nákladů řízení (tj. změnil rozsudek soudu prvního stupně ve výroku o nákladech řízení a rozhodl o nákladech odvolacího řízení), není přípustné. Rozhodnutí o náhradě nákladů řízení má povahu usnesení, a to i v případě, že je součástí rozsudku (§ 167 odst. 1 o.s.ř.). Proto přípustnost dovolání proti němu lze zvažovat výlučně z hlediska přípustnosti dovolání proti usnesení, jež je upravena v ustanoveních § 237 až § 239 o.s.ř. Přípustnost podle § 237 o.s.ř. dána není, neboť usnesení o nákladech řízení není rozhodnutím ve věci samé (srov. např. usnesení Nejvyššího soudu ČR ze dne 31. 1. 2002, sp. zn. 29 Odo 874/2001, publikované pod č. 4 ve Sbírce soudních rozhodnutí a stanovisek, ročník 2003). Přípustnost dovolání proti výroku o náhradě nákladů řízení není založena ani ustanoveními § 238, § 238a a § 239 o.s.ř., v nichž jsou taxativně vyjmenovány případy přípustnosti dovolání.
+Protože dovolání proti výrokům rozsudku odvolacího soudu o náhradě nákladů řízení není přípustné, dovolací soud je podle § 243b odst. 5 věty první a § 218 písm. c) o.s.ř. odmítl.
+O náhradě nákladů řízení bylo rozhodnuto podle § 243b odst. 5, § 224 odst. 1 a § 146 odst. 2 a odst. 3 o.s.ř., neboť žalované náklady v dovolacím řízení nevznikly a žalobkyně nemá s ohledem na výsledek dovolacího řízení na náhradu jeho nákladů právo.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 28. ledna 2009
+JUDr. Petr Vojtek, v. r.
+předseda senátu
