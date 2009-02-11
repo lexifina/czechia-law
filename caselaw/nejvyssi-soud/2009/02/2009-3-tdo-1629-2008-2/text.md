@@ -1,0 +1,14 @@
+3 Tdo 1629/2008-I
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu dne 11. února 2009 o dovolání podaném J. D., proti usnesení Vrchního soudu v Olomouci sp. zn. 6 To 68/2008 ze dne 7. 8. 2008, jako soudu odvolacího v trestní věci vedené u Krajského soudu v Ostravě pod sp. zn. 49 T 14/2000, takto:
+Podle § 265g odst. 2 trestního řádu se zpětvzetí dovolání podaného J. D. bere na vědomí.
+O d ů v o d n ě n í :
+Rozsudkem Krajského soudu v Ostravě sp. zn. 49 T 14/2000 ze dne 29. 4. 2008 byl dovolatel uznán vinným trestnými činy padělání a pozměňování peněz podle § 140 odstavec 2 alinea 2 trestního zákona a podvodu podle § 250 odst. 1, odst. 2 trestního zákona (dále jen tr. zák.) ve znění novely zák. č. 265/2001 Sb., ve spolupachatelství dle § 9 odst. 2 tr. zák., když příslušný skutkový děj je podrobně popsán ve výrokové části citovaného rozsudku. Za uvedené trestné činy byl odsouzen k souhrnnému trestu odnětí svobody v trvání šesti let a pro jeho výkon byl zařazen do věznice s ostrahou.
+V předmětné věci podal J. D. (stejně jako spoluobvinění) odvolání, o kterém rozhodl Vrchní soud v Olomouci usnesením sp. zn. 6 To 68/2008 ze dne 7. 8. 2008 tak, že je jako nedůvodné podle § 256 trestního řádu (dále jen tr. ř.) zamítl.
+Proti shora citovanému usnesení odvolacího soudu podal J. D. prostřednictvím svého obhájce dovolání, které soud prvního stupně obdržel dne 11. 11. 2008. Dalším přípisem prostřednictvím svého obhájce vzal podané dovolání zpět, když tento přípis adresovaný Krajskému soudu v Ostravě tento obdržel dne 17. 12. 2008. V tomto přípisu potom uvedl, že podané dovolání tímto bere v celém rozsahu zpět, když také přesně uvedl, že se jedná o rozsudek Krajského soudu v Ostravě č. j. 49 T 14/2000-986 ze dne 29. 4. 2008 a s ním spojené usnesení Vrchního soudu v Olomouci č. j. 6 To 68/2008-1109 ze dne 7. 8. 2008. Přitom dovolání J. D. bylo předloženo dovolacímu soudu dne 16. 12. 2008 a ten ho obdržel dne 19. 12. 2008.
+Podle § 265g odst. 1 tr. ř. věty první osoba, která dovolání podala, může je výslovným prohlášením vzít zpět, a to až do doby, než se Nejvyšší soud odebere k závěrečné poradě. Podle odst. 2 téhož zákonného ustanovení, zpětvzetí dovolání vezme, není-li překážek, usnesením na vědomí předseda senátu Nejvyššího soudu, a nebyla-li věc dosud tomuto soudu předložena, předseda senátu soudu prvního stupně.
+V posuzované věci tak z obsahu citovaného přípisu dovolatele zjevně plyne, že ten podané dovolání bere výslovně zpět, a protože věc již byla soudem prvního stupně předložena soudu dovolacímu, nezbylo Nejvyššímu soudu České republiky než podle ustanovení § 265g odst. 2 tr. ř. předsedou senátu vzít uvedené zpětvzetí dovolání na vědomí.
+Poučení: Proti rozhodnutí o dovolání není s výjimkou obnovy řízení opravný prostředek přípustný (§ 265n tr. ř.).
+V Brně dne 11. února 2009
+Předseda senátu:
+JUDr. Vladimír Jurka
