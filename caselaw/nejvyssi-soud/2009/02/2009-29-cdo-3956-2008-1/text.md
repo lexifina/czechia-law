@@ -1,0 +1,18 @@
+29 Cdo 3956/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudců Mgr. Petra Šuka a Mgr. Jiřího Zavázala v právní věci žalobkyně M. P., zastoupené JUDr. M. K., advokátkou, proti žalovanému JUDr. P. Š., advokátu, jako správci konkursní podstaty úpadce O. P., o vyloučení věcí ze soupisu majetku konkursní podstaty úpadce, vedené u Městského soudu v Praze pod sp. zn. 58 Cm 87/2003, o dovolání žalobkyně proti rozsudku Vrchního soudu v Praze ze dne 15. května 2008, č. j. 13 Cmo 240/2007-239, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+V záhlaví označeným rozsudkem potvrdil Vrchní soud v Praze k odvolání žalobkyně rozsudek ze dne 12. ledna 2006, č. j. 58 Cm 87/2003-131 ve spojení s doplňujícím usnesením ze dne 27. února 2007, č. j. 58 Cm 87/2003-189, jímž Městský soud v Praze zamítl žalobu o vyloučení nemovitostí specifikovaných ve výroku ze soupisu majetku konkursní podstaty úpadce, do něhož byly sepsány poté, kdy v řízení o vypořádání společného jmění manželů (žalobkyně a úpadce) byly pravomocným rozhodnutím soudu přikázány do výlučného vlastnictví úpadce.
+Proti rozsudku odvolacího soudu podala žalobkyně dovolání, uplatňujíc dovolací důvod vymezený v ustanovení § 241a odst. 2 písm. a) občanského soudního řádu (dále jen „o. s. ř.“) a namítajíc, že „rozsudek, kterým byl specifikovaný majetek přiznán do výlučného vlastnictví jejího manžela, jí nikdy nebyl doručen, tedy nemohlo dojít k platnému nabytí právní moci a důsledků s tím spojených“. Jestliže soudy „vycházely z toho, že rozsudek ve věci vypořádání společného jmění manželů netrpí žádnou právní vadou a proto nabyl právní moci“, znemožnily dovolatelce uplatnění jejího práva.
+Žalovaný považuje dovolání žalobkyně za nepřípustné.
+Dovolání, které není přípustné podle ustanovení § 237 odst. 1 písm. a) a b) o. s. ř. Nejvyšší soud neshledává – vzhledem k uplatnění nezpůsobilého dovolacího důvodu – přípustným ani podle ustanovení § 237 odst. 1 písm. c) o. s. ř.
+Na to, zda má rozhodnutí odvolacího soudu ve věci samé zásadní význam po právní stránce, lze totiž usuzovat jen z okolností uplatněných dovolacím důvodem podle ustanovení § 241a odst. 2 písm. b) o. s. ř. K okolnostem uplatněným dovolacími důvody podle ustanovení § 241a odst. 2 písm. a) o. s. ř. nebo podle ustanovení § 241a odst. 3 o. s. ř. nemůže být při posouzení, zda je dovolání přípustné podle ustanovení § 237 odst. 1 písm. c) o. s. ř., přihlédnuto ( srov. např. rozhodnutí Nejvyššího soudu uveřejněné pod číslem 48/2006 Sbírky soudních rozhodnutí a stanovisek či usnesení Ústavního soudu ze dne 7. března 2006, sp. zn. III. ÚS 10/06, uveřejněné v časopise Soudní judikatura č. 9, ročník 2006, pod číslem 130 a ze dne 15. listopadu 2007, sp. zn. III. ÚS 372/06).
+Současně nelze přehlédnout, že otázkou doručení rozhodnutí odvolacího soudu, vydaného v řízení o vypořádání společného jmění žalobkyně a úpadce, se zabýval již Ústavní soud, přičemž v usnesení ze dne 6. května 2004, sp. zn. III. ÚS 264/03, uzavřel, že k obsahovému naplnění ustanovení § 158 odst. 2 o. s. ř. došlo nejpozději v okamžiku, kdy žalobkyně „předmětný rozsudek získala prostřednictvím svého právního zástupce“.
+Nejvyšší soud proto dovolání odmítl (§ 243b odst. 5, § 218 písm. c/ o. s. ř.).
+Výrok o nákladech řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalobkyně bylo odmítnuto a žalovanému podle obsahu spisu žádné náklady v dovolacím řízení nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 25. února 2009
+JUDr. Petr Gemmel
+předseda senátu
