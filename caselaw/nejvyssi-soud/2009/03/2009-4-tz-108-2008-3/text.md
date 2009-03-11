@@ -1,0 +1,13 @@
+4 Tz 108/2008-II
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve veřejném zasedání konaném dne 11. března 2009 v trestní věci obviněného R. H., v řízení o stížnosti pro porušení zákona, kterou podal ministr spravedlnosti proti rozsudku Krajského soudu v Ostravě ze dne 22. 12. 2004 sp. zn. 31 T 37/1996, podle § 275 odst. 3 tr. ř. t a k t o :
+Obviněný R. H. se n e b e r e d o v a z b y .
+O d ů v o d n ě n í :
+Nejvyšší soud projednal stížnost pro porušení zákona, kterou ve prospěch obviněného R. H. podal ministr spravedlnosti proti pravomocnému rozsudku Krajského soudu v Ostravě ze dne 22. 12. 2004 sp. zn. 31 T 37/1996, jímž byl uznán vinným trestným činem podvodu podle § 250 odst. 1, 4 tr. zák. ve znění zák. č. 265/2001 Sb. a odsouzen k trestu odnětí svobody v trvání 5 let se zařazením do věznice s ostrahou.
+Nejvyšší soud v řízení o stížnosti pro porušení zákona ve veřejném zasedání dne 11. 3. 2009 svým rozsudkem sp. zn. 4 Tz 108/2008-I vyslovil, že napadeným rozsudkem Krajského soudu v Ostravě ze dne 22. 12. 2004 sp. zn. 31 T 37/1996 a v řízení, jež mu předcházelo, byl v neprospěch obviněného R. H. porušen zákon a tento rozsudek částečně zrušil ve výroku o vině a náhradě škody a dále v celém výroku o trestu. Taktéž zrušil všechna další navazující rozhodnutí, která touto změnou pozbyla svého podkladu. Věc pak přikázal Krajskému soudu v Ostravě, aby ji v potřebném rozsahu znovu projednal a rozhodl.
+Vzhledem k tomu, že bylo zrušeno rozhodnutí, na jehož základě obviněný má vykonávat uložený trest odnětí svobody, (v současné době má výkon trestu přerušen na základě usnesení Nejvyššího soudu ze dne 5. 2. 2009 sp. zn. 4 Tz 108/2008), rozhodoval Nejvyšší soud podle § 275 odst. 3 tr. ř. o vazbě obviněného. Bylo zkoumáno, zda je dán některý z důvodů vazby uvedených v ustanovení § 67 písm. a) až c) tr. ř. Z obsahu trestního spisu je sice patrné, že původní řízení před soudem bylo proti obviněnému vedeno jako proti uprchlému. Posléze se ale do České republiky vrátil a započal výkon uloženého trestu. Nejvyšší soud si rovněž ověřil, že obviněný byl v přípravném řízení ve vazbě po dobu dvou roků a vlastní výkon trestu pak vykonával od 9. 10. 2007 do 5. 2. 2009, kdy mu byl Nejvyšším soudem výkon trestu přerušen. T. č. nebylo zjištěno nic, co by mohlo vést k závěru, že u obviněného je dána důvodná obava, že by se choval způsobem předpokládaným v ustanovení § 67 písm. a) až c) tr. ř., tedy že by u něho byl dán některý z vazebních důvodů.
+Za tohoto stavu věci Nejvyšší soud v souladu s ustanovením § 275 odst. 3 tr. ř. rozhodl tak, že se obviněný R. H. do vazby nebere.
+Poučení: Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 11. března 2009
+Předseda senátu:
+JUDr. František Hrabec
