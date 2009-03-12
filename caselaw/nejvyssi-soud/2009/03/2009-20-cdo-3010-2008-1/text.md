@@ -1,0 +1,15 @@
+20 Cdo 3010/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové a soudců JUDr. Vladimíra Mikuška a JUDr. Pavla Krbka ve věci výkonu rozhodnutí oprávněného Ing. M. S., CSc., proti povinné E., s. r. o., pro 44 000,- Kč s příslušenstvím, prodejem movitých věcí povinné, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 34 E 755/99, o dovolání oprávněného proti usnesení Městského soudu v Praze ze dne 31. 10. 2005, č. j. 13 Co 377/2005-68, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Shora označené rozhodnutí, jímž Městský soud v Praze potvrdil usnesení Obvodního soudu pro Prahu 1 ze dne 15. 7. 2005, č. j. 34 E 755/99-58 (kterým soud prvního stupně zastavil výkon rozhodnutí, nařízený svým usnesením ze dne 24. 3. 2004, sp. zn. 34 E 755/99) a nepřiznal žádnému z účastníků právo na náhradu nákladů odvolacího řízení, oprávněný napadl dovoláním.
+Z ustanovení § 103 a § 104 odst. 1, věty první, ve spojení s § 243c odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů (dále jen „o. s. ř.“), vyplývá, že za dovolacího řízení přihlíží dovolací soud k tomu, zda jsou splněny podmínky, za nichž může rozhodnout ve věci samé (podmínky řízení); jde-li o takový nedostatek podmínky řízení, který nelze odstranit, dovolací řízení zastaví. Jestliže účastník ztratí po zahájení dovolacího řízení způsobilost být účastníkem řízení dříve, než bylo dovolací řízení skončeno, posoudí dovolací soud podle povahy věci, zda v dovolacím řízení může pokračovat. Neumožňuje-li povaha věci v řízení pokračovat, dovolací soud dovolací řízení zastaví (§ 107 odst. 1, věta první, a odst. 5, věta první, ve spojení s § 243c odst. 1 o. s. ř.).
+Ze spisu se podává, že dovolací řízení bylo zahájeno podáním oprávněného ze dne 27. 2. 2006 (§ 82 odst. 1 ve spojení s § 243c odst. 1 o. s. ř.). Z výpisu z obchodního rejstříku, vedeného Městským soudem v Praze, oddílu C, vložky 26955, a z vyžádaného rejstříkového spisu, vedeného Městským soudem v Praze sp. zn. Rg. C 26955, dovolací soud zjistil, že společnost E., s. r. o., v likvidaci, byla po ukončení této likvidace usnesením Městského soudu v Praze ze dne 24. 2. 2006 vymazána ke dni nabytí právní moci tohoto rozhodnutí (18. 3. 2006) z obchodního rejstříku.
+Protože povinná zanikla bez právního nástupce ve smyslu § 107 odst. 3 o. s. ř., nezbylo dovolacímu soudu, než dovolací řízení podle ustanovení § 107 odst. 5, věty první, ve spojení s § 243c odst. 1 o. s. ř. zastavit. Z uvedeného důvodu se dovolací soud již nezabýval otázkou povinného zastoupení dovolatele v dovolacím řízení ani případnými vadami dovolání.
+Výrok o nákladech dovolacího řízení se opírá o ustanovení § 243b odst. 5 větu první, § 224 odst. 1 a § 146 odst. 1 písm. c) o. s. ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 12. března 2009
+JUDr. Miroslava J i r m a n o v á, v. r.
+předsedkyně senátu
