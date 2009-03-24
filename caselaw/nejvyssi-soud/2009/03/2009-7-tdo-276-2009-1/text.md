@@ -1,0 +1,15 @@
+7 Tdo 276/2009
+U S N E S E N Í
+Nejvyšší soud rozhodl v neveřejném zasedání dne 24. 3. 2009 o dovolání obviněného R. K. proti rozsudku Krajského soudu v Ústí nad Labem ze dne 19. 6. 2008, sp. zn. 6 To 284/2008, v trestní věci vedené u Okresního soudu v Litoměřicích pod sp. zn. 3 T 166/2007 t a k t o :
+Podle § 265i odst. 1 písm. c) tr. ř. se dovolání obviněného R. K. o d m í t á .
+O d ů v o d n ě n í :
+Obviněný R. K. podal prostřednictvím obhájce dovolání proti rozsudku Krajského soudu v Ústí nad Labem ze dne 19. 6. 2008, sp. zn. 6 To 284/2008, jímž bylo rozhodnuto o jeho odvolání proti rozsudku Okresního soudu v Litoměřicích ze dne 4. 4. 2008, sp. zn. 3 T 166/2007.
+Nejvyšší soud shledal, že dovolání bylo podáno opožděně.
+Rozsudek Krajského soudu v Ústí nad Labem byl doručen dne 27. 8. 2008 obhájci a dne 10. 9. 2008 obviněnému. Lhůta k podání dovolání obviněnému uplynula vzhledem k ustanovením § 265e odst. 1, 2 tr. ř. dne 10. 11. 2008. Dovolání je obsahem podání, které obhájce učinil u Okresního soudu v Litoměřicích dne 15. 1. 2009, tedy po uplynutí zákonné dovolací lhůty.
+Tomu předcházelo podání datované dnem 8. 8. 2008, adresované Krajskému soudu v Ústí nad Labem a doručené tomuto soudu dne 12. 8. 2008. Toto podání bylo označeno jako dovolání, avšak nebylo učiněno prostřednictvím obhájce a obviněný si ho sepsal sám. Jde o podání, které nelze považovat za dovolání a které proto nemá ani ten účinek, že by s ním bylo spojeno zachování zákonné dovolací lhůty. Vyplývá to z ustanovení § 265d odst. 2 tr. ř., podle něhož obviněný může podat dovolání pouze prostřednictvím obhájce, přičemž podání obviněného, které nebylo učiněno prostřednictvím obhájce, se nepovažuje za dovolání, byť bylo takto označeno. O dovolací lhůtě, stejně jako o tom, že dovolání může podat jen prostřednictvím obhájce a že jeho podání, které nebylo učiněno prostřednictvím obhájce, se nepovažuje za dovolání, byl obviněný výslovně poučen v rozsudku Krajského soudu v Ústí nad Labem. Tímto poučením se obviněný neřídil a zákonnou lhůtu k podání včasného dovolání zmeškal.
+Za tohoto stavu bylo bezpředmětné, aby Okresní soud v Litoměřicích přípisem ze dne 7. 1. 2009 znovu obviněného a obhájce poučoval o obsahu ustanovení § 265d odst. 2 tr. ř. a navíc aby je vyzýval k odstranění vad dovolání s tím, že jim k tomu dokonce stanovil lhůtu osmi dnů. Postup Okresního soudu v Litoměřicích byl v tomto ohledu nesprávný, neboť výzva k odstranění vad dovolání podle § 265h odst. 1 tr. ř. přichází v úvahu za předpokladu, že navazuje na podání, které lze považovat za dovolání a které jen postrádá náležitosti obsahu dovolání stanovené v § 265f odst. 1 tr. ř. Obviněný tedy nemohl zachovat zákonnou dovolací lhůtu tím, že podal dovolání prostřednictvím obhájce ve lhůtě stanovené Okresním soudem v Litoměřicích.
+Ze všech těchto důvodů Nejvyšší soud opožděné dovolání obviněného podle § 265i odst. 1 písm. c) tr. ř. odmítl, aniž z jeho podnětu přezkoumal napadený rozsudek a předcházející řízení z hledisek uvedených v § 265i odst. 3 tr. ř.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 24. března 2009
+Předseda senátu:
+JUDr. Petr Hrachovec
