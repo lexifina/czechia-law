@@ -1,0 +1,15 @@
+32 Cdo 269/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Františka Faldyny, CSc., a JUDr. Moniky Vackové v právní věci žalobce Ing. L. M., , proti žalovanému Ing. M. Č., , zastoupenému JUDr. M. K., Ph.D., advokátem, , o 90.000 Kč s příslušenstvím, vedené u Okresního soudu v Karviné pod sp. zn. 27 C 415/2000, o dovolání žalobce proti rozsudku Krajského soudu v Ostravě ze dne16. června 2008, č. j. 51 Co 110/2008-459, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalobce podal dovolání proti v záhlaví označenému rozsudku, jímž byl rozsudek (v pořadí druhý ve věci) Okresního soudu v Karviné ze dne 4. října 2007, č. j. 27 C 415/2000-395, změněn v napadeném vyhovujícím výroku co do částky 7.000 Kč s příslušenstvím tak, že žaloba byla v tomto rozsahu zamítnuta (výrok I.), dále byl potvrzen v napadeném zamítavém výroku co do částky 83.000 s příslušenstvím (výrok II.) a byl zrušen v třetím, pátém a šestém bodu výroku o nákladech řízení mezi účastníky a nákladech řízení státu (výrok III.).
+Je-li dovolatelem – jako v projednávané věci – fyzická osoba, musí být (nemá-li právnické vzdělání) zastoupena advokátem nebo notářem, jimiž musí být dovolání i sepsáno [srov. § 241 odst. 1, 2 písm. a), odst. 4 občanského soudního řádu – dále též „o. s. ř.“].
+Protože dovolatel nebyl zastoupen advokátem a z obsahu spisu nevyplývalo, že by sám měl právnické vzdělání, byl usnesením soudu prvního stupně ze dne 6. října 2008, č. j. 27 C 415/2000-506, vyzván, aby si pro podání dovolání zvolil zástupcem advokáta a jeho prostřednictvím podal řádné dovolání, v němž zejména doplní rozsah dovoláním napadeného rozhodnutí, a to s upozorněním, že nebude-li ve lhůtě 20 dnů od doručení usnesení předložena soudu plná moc zvoleného advokáta a jím sepsané dovolání, bude dovolací řízení zastaveno. Na tuto výzvu, doručenou mu dne 10. října 2008 (srov. doručenku na č. l. 506 verte), dovolatel však nijak nereagoval - advokáta si nezvolil a řádně sepsané dovolání nepředložil.
+Protože povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek lze odstranit (srov. § 104 odst. 2 o. s. ř.), ale bez jejíhož splnění nelze vydat – s výjimkou usnesení, jímž se dovolací řízení pro tento nedostatek zastavuje – rozhodnutí, kterým se řízení končí, a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu prvního stupně do dnešního dne nedošlo, Nejvyšší soud dovolací řízení podle § 104 odst. 2 a § 243c o. s. ř. zastavil.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 2 věty první o. s. ř., neboť žalobce s ohledem na výsledek řízení nemá na náhradu svých nákladů právo a žalovanému v souvislosti s dovolacím řízením podle obsahu spisu žádné prokazatelné náklady nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 25. března 2009
+JUDr. Miroslav Gallus
+předseda senátu
