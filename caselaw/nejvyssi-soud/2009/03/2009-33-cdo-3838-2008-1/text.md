@@ -1,0 +1,22 @@
+33 Cdo 3838/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně
+JUDr. Ivany Zlatohlávkové a soudců JUDr. Blanky Moudré a JUDr. Václava Dudy
+ve věci žalobce M. H., zastoupeného advokátem, proti žalované M. P., zastoupené advokátem, o uložení povinnosti uzavřít smlouvu o převodu členských práv a povinností k družstevnímu bytu, vedené u Okresního soudu ve Zlíně pod sp. zn.
+9 C 86/2005, o dovolání žalobce proti rozsudku Krajského soudu v Brně – pobočky
+ve Zlíně ze dne 16. dubna 2008, č. j. 59 Co 439/2007-121, takto:
+Dovolání se odmítá.
+Žalobce je povinen zaplatit žalované na náhradě nákladů dovolacího řízení částku 2.680,- Kč do tří dnů od právní moci tohoto usnesení k rukám advokáta.
+O d ů v o d n ě n í :
+Dovolání žalobce proti rozsudku Krajského soudu v Brně – pobočky ve Zlíně
+ze 16. dubna 2008, č. j. 59 Co 439/2007-121, kterým byl ve věci samé potvrzen rozsudek Okresního soudu v Zlíně ze dne 29. května 2007, č. j. 9 C 86/2005-97, není přípustné podle § 237 odst. 1 písm. b/ o. s. ř. a nebylo shledáno přípustným ani podle § 237 odst. 1 písm. c/ o. s. ř., neboť napadený rozsudek odvolacího soudu nemá
+po právní stránce zásadní význam (§ 237 odst. 3 o. s. ř).
+Přestože žalobce v dovolání avizuje uplatnění dovolacího důvodu uvedeného
+v § 241a odst. 2 písm. b/ o. s. ř, jímž lze namítat, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci, ve skutečnosti uplatnil dovolací důvod podle § 241a odst. 3 o. s. ř.; podstatu jeho dovolacích námitek totiž tvoří výtky týkající se nesprávně zjištěného skutkového stavu věci, resp. vadného hodnocení provedených důkazů, při němž soud určuje, jaký význam mají jednotlivé důkazy pro jeho rozhodnutí a zda o ně může opřít svá skutková zjištění (tj. zda jsou použitelné pro zjištění skutkového stavu a v jakém rozsahu, případně v jakém směru). Žalobce je nadále přesvědčen, že v řízení dostatečně prokázal, že žalovaná s ním smlouvu o budoucí smlouvě skutečně uzavřela. O tom, že existoval originál této smlouvy, svědčí fotokopie ověřovací doložky notáře z 5. 3. 2004, dopis zástupce žalobce adresovaný žalované ze dne 5. 8. 2004 a jeho výzva ke splnění závazku z 20. 1.2005. Soudy proto měly uvěřit jeho verzi skutku a žalovanou měly přimět k předložení originálu této smlouvy, aby soudní znalec mohl bezpečně určit pravost jejího podpisu. Pro případ, že by tuto listinu nepředložila, měl soud rozhodnout v její neprospěch. Pokud je v dovolání argumentováno nesprávným právním posouzením věci, pak pouze v tom směru, že pokud by odvolací soud (stejně jako před ním soud prvního stupně) nepochybil ve svých skutkových závěrech, musel by návazně dospět i k odlišnému právnímu posouzení věci, tedy dovodit, že žalovaná nesplnila svůj závazek uzavřít se žalobcem smlouvu, jíž na něho bezúplatně převede svá členská práva v bytovém družstvu.
+Dovolací důvod uvedený v § 241a odst. 3 o. s. ř. nelze v případě dovolání přípustného podle § 237 odst. 1 písm. c/ o. s. ř. použít, neboť neslouží k řešení právních otázek, nýbrž k nápravě případného pochybení spočívajícího v tom, že rozhodnutí odvolacího soudu vychází ze skutkového zjištění, které nemá v podstatné části oporu v provedeném dokazování. Dovolání žalobce tak směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný, a dovolací soud je – aniž se mohl věcí dále zabývat – podle § 243b odst. 5 věty první a § 218 písm. c/ o. s. ř. odmítl.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř. Žalobci, jehož dovolání bylo odmítnuto, byla uložena povinnost zaplatit žalované náklady, které jí vznikly v souvislosti s podáním vyjádření k dovolání prostřednictvím advokáta. Tyto náklady sestávají z odměny advokáta v částce 2.000,- Kč (§ 2 odst. 1, § 7 písm. e/ ve spojení s § 10 odst. 3, § 15 ve spojení s § 14 odst. 1 a § 18 odst. 1 vyhlášky č. 484/2000 Sb., v platném znění), z paušální částky náhrad hotových výdajů ve výši 300,- Kč (§ 2 odst. 1 a § 13 odst. 1 a 3 vyhlášky č. 177/1996 Sb., v platném znění) a z částky 380,- Kč odpovídající dani z přidané hodnoty, kterou je advokát povinen z odměny za zastupování a náhrad odvést podle zákona č. 235/2004 Sb., o dani z přidané hodnoty (§ 137 odst. 3 o. s. ř.).
+Nesplní-li povinný dobrovolně, co mu ukládá vykonatelné rozhodnutí, může oprávněná podat návrh na soudní výkon rozhodnutí.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 26. března 2009
+JUDr. Ivana Zlatohlávková, v. r.
+předsedkyně senátu
