@@ -1,0 +1,19 @@
+11 Td 13/2009
+U S N E S E N Í
+Nejvyšší soud v trestní věci odsouzeného J. D. projednal v neveřejném zasedání konaném dne 31. 3. 2009 návrh na odnětí a přikázání věci podle § 25 tr. řádu a rozhodl t a k t o :
+Návrh na odnětí věci vedené u Okresního soudu v Přerově pod sp. zn. Nt 1406/2008 a její přikázání Městskému soudu v Praze s e z a m í t á .
+O d ů v o d n ě n í :
+Odsouzený J. D. podal k Okresnímu soudu v Přerově návrh na povolení obnovy trestního řízení vedeného u tohoto soudu pod sp. zn. 5 T 27/96.
+Současně s návrhem na povolení obnovy řízení podal také podle § 25 tr. řádu návrh na odnětí věci vedené u Okresního soudu v Přerově pod sp. zn. Nt 1406/2008 a její přikázání Městskému soudu v Praze a námitku podjatosti vůči soudkyni Okresního soudu v Přerově JUDr. Emilii Richterové.
+Usnesením ze dne 27. 10. 2008, sp. zn. Nt 1406/2008, rozhodl Okresní soud v Přerově, že podle § 31 odst. 1 tr. řádu není soudkyně Emilie Richterová vyloučena z vykonávání úkonů trestního řízení ve věci Okresního soudu v Přerově, sp. zn. Nt 1406/2008, o návrhu na povolení obnovy řízení v trestní věci odsouzeného J. D., sp. zn. 5 T 27/96. Proti tomuto usnesení podal odsouzený stížnost.
+Usnesením Krajského soudu v Ostravě, pobočka v Olomouci, ze dne 19. 1. 2009, sp. zn. 68 To 13/2009, byla předmětná stížnost odsouzeného J. D. proti tomuto rozhodnutí podle § 148 odst. 1 písm. c) tr. řádu zamítnuta.
+Následně předložil Okresní soud v Přerově spis sp. zn. Nt 1406/2008 Nejvyššímu soudu k rozhodnutí o odnětí a přikázání věci podle § 25 tr. řádu v souvislosti s návrhem odsouzeného J. D.
+Nejvyšší soud projednal předložený návrh a dospěl k následujícímu závěru.
+Podle § 25 tr. řádu může být věc z důležitých důvodů odňata příslušnému soudu a přikázána jinému soudu téhož druhu a stupně. Pojem „důležité důvody“ sice není v zákoně blíže definován, ale je nepochybné, že se musí jednat o skutečnosti, jež budou svoji povahou výjimečné, neboť ustanovení § 25 tr. řádu, dle něhož lze v určitých případech věc delegovat k jinému soudu, je zákonným průlomem do zásady, že nikdo nesmí být odňat svému zákonnému soudci, vyjádřené v čl. 38 odst. 1 Listiny základních práv a svobod. Důvody pro odnětí věci příslušnému soudu a její přikázání jinému soudu musí být natolik významné, aby dostatečně odůvodňovaly vybočení z výše citovaného ústavního principu.
+Návrh na odnětí a přikázání věci podle § 25 tr. řádu vychází z námitky podjatosti, kterou odsouzený J. D. podal proti soudkyni Okresního soudu v Přerově JUDr. Emilii Richterové. Protože tato námitka nebyla soudem prvního ani druhého stupně shledána jako důvodná, nelze považovat za důvodný ani návrh odsouzeného na odnětí věci Okresnímu soudu v Přerově a její přikázání Městskému soudu v Praze. V podání odsouzeného J. D. nebylo zmíněno nic, co by bylo možno byť jen vzdáleně označit za důležité důvody podle § 25 tr. řádu, které by opodstatňovaly odnětí věci soudu, který je věcně i místně příslušný jednat a rozhodnout. Obecné, ničím nepodložené úvahy o podjatosti soudkyně Okresního soudu v Přerově JUDr. Emilie Richterové i ostatních soudců tohoto soudu nemohou vést ke změně místní příslušnosti soudu k projednání trestní věci odsouzeného J. D. Za tohoto stavu neexistuje žádný důležitý důvod ve smyslu § 25 tr. řádu, aby trestní věc odsouzeného byla Okresnímu soudu v Přerově odňata.
+Jen pro úplnost Nejvyšší soud uvádí, že návrh odsouzeného na odnětí věci podle § 25 tr. řádu Okresnímu soudu v Přerově a její přikázání Městskému soudu v Praze byl nesprávný, protože věcně příslušným k projednání jeho trestní věci by byl v případě odnětí věci, některý z obvodních soudů v Praze a ne Městský soud v Praze.
+Z těchto důvodů bylo rozhodnuto, jak je ve výroku usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 31. března 2009
+Předseda senátu:
+JUDr. Pavel Kučera
