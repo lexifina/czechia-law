@@ -1,0 +1,23 @@
+33 Cdo 208/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy
+JUDr. Václava Dudy a soudkyň JUDr. Blanky Moudré a JUDr. Ivany Zlatohlávkové
+v právní věci žalobkyně České republiky – Ú. pro z. s. ve v. m., proti žalovaným 1) J. V. a 2) A. V., o zaplacení částky 104.000,- Kč s příslušenstvím, vedené u Okresního soudu v Jindřichově Hradci pod sp. zn. 4 C 293/2005, o dovolání žalovaných proti rozsudku Krajského soudu v Českých Budějovicích ze dne 14. dubna 2006, č. j. 7 Co 572/2006-33, takto:
+Dovolání se odmítá.
+Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Dovolání žalovaných proti rozsudku Krajského soudu v Českých Budějovicích ze dne 14. dubna 2006, č. j. 7 Co 572/2006-33, kterým byl potvrzen rozsudek pro uznání Okresního soudu v Jindřichově Hradci ze dne 13. července 2005, č. j. 4 C 293/2005-20, ve znění opravného usnesení ze dne 2. ledna 2006, č. j. 4 C 293/2005-25, jímž byla žalovaným stanovena povinnost zaplatit společně a nerozdílně žalobkyni částku 104.000,- Kč s 10 % úrokem z prodlení od 19. 2. 2000 do zaplacení, není přípustné podle § 237 odst. 1 písm. b) občanského soudního řádu (dále jen „o. s. ř.“), a nebylo shledáno přípustným ani podle § 237 odst. 1 písm. c) o. s. ř., neboť napadený rozsudek nemá ve věci samé po právní stránce zásadní význam (§ 237 odst. 3 o. s. ř.).
+Dovolání je podle § 237 odst. 1 písm. c) o. s. ř. přípustné jen tehdy, jde-li
+o řešení právních otázek a současně se musí jednat o právní otázky zásadního významu; způsobilým dovolacím důvodem je tudíž důvod podle § 241a odst. 2 písm. b) o. s. ř., jehož prostřednictvím lze namítat, že rozhodnutí spočívá na nesprávném právním posouzení věci [srovnej např. usnesení Nejvyššího soudu ze dne 9. 1. 2001, sp. zn. 29 Odo 821/2000, a ze dne 25. 1. 2001, sp. zn. 20 Cdo 2965/2000, uveřejněná
+v Souboru rozhodnutí Nejvyššího soudu, vydávaném nakladatelstvím C. H. Beck (dále jen „Soubor“), pod označením C 23/1 a C 71/1].
+Dovolací výhrada žalovaných, že nebyli poučeni o možnosti rozhodnutí rozsudkem pro uznání, tedy že výzva k vyjádření včleněná do platebního rozkazu neobsahovala upozornění na možnost rozhodnout o věci na základě fikce uznání nároku, je z hlediska přípustnosti dovolání podle § 237 odst. 1 písm. c) o. s. ř. irelevantní, neboť jde o uplatnění dovolacího důvodu podle § 241a odst. 3 o. s. ř., jehož použití je zde vyloučeno [srov. výslovné znění § 241a odst. 3 o. s. ř., omezujícího tento dovolací důvod na dovolání přípustná podle § 237 odst. 1 písm. a) a b) o. s. ř.].
+Přípustnost dovolání podle § 237 odst. 1 písm. c) o. s. ř. není způsobilá založit dovolateli předestřená otázka námitky promlčení vznesené až poté, co bylo rozhodnuto rozsudkem pro uznání podle § 153a odst. 3 o. s. ř.
+Již v rozsudku ze dne 8. března 2005, sp. zn. 21 Cdo 1951/2004, Nejvyšší soud formuloval a odůvodnil závěr, podle něhož má-li se za řízení ve smyslu ustanovení
+§ 114b odst. 5 o. s. ř. za to, že žalovaný nárok uplatněný proti němu žalobou uznal, soud rozhodne podle ustanovení § 153a odst. 3 o. s. ř. rozsudkem pro uznání, i když se žalovaný ještě před vydáním rozsudku pro uznání ve věci písemně vyjádřil tak, že nárok žalobce zcela neuznává, a i když ve svém opožděném vyjádření vylíčil rozhodující skutečnosti, na nichž staví svoji procesní obranu (obdobně srovnej rozsudek Nejvyššího soudu ze dne 25. května 2004, sp. zn. 25 Cdo 2600/2003, usnesení ze dne 30. listopadu 2005, sp. zn. 33 Odo 1226/2005, rozsudek ze dne 21. srpna 2003, sp. zn. 28 Cdo 1555/2003, rozsudek ze dne 18. března 2004, sp. zn. 32 Odo 14/2003, usnesení Ústavního soudu ze dne ze dne 16. listopadu 2006, sp. zn. III. ÚS 91/2006); námitku promlčení žalovaní uplatnili vůči soudu až v odvolání doručeném dne 23. 12. 2005, které je podle obsahu spisu sice první - avšak vzhledem ke stanovené třicetidenní lhůtě pozdní - reakcí na usnesení soudu prvního stupně vydané podle § 114b o. s. ř., jež bylo žalovaným doručeno dne 18. 10. 2005.
+Protože dovolání není přípustné ani proti nákladovým výrokům rozsudku odvolacího soudu (srovnej usnesení Nejvyššího soudu ze dne 31. 1. 2002, sp. zn.
+29 Odo 874/2001, uveřejněné pod R 4/2003 ve Sbírce soudních rozhodnutí a stanovisek), dovolací soud je odmítl [§ 243b odst. 5 věta první a § 218 písm. c) o. s. ř.].
+O nákladech dovolacího řízení bylo rozhodnuto za situace, kdy žalobkyni, která by podle 243b odst. 5 věty prvé, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř. měla právo na jejich náhradu, v tomto řízení žádné náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 31. března 2009
+JUDr. Václav Duda, v. r.
+předseda senátu
