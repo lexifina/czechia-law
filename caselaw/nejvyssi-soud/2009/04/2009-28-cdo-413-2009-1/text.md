@@ -1,0 +1,17 @@
+28 Cdo 413/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jana Eliáše, Ph.D., a soudců JUDr. Ludvíka Davida, CSc., a JUDr. Josefa Rakovského, v právní věci žalobců a) Ing. K. Š., a b) V. Š., zastoupených advokátem, proti žalovaným 1) J. K., a 2) D. V., zastoupeným advokátkou, o zaplacení částky 22.766,80 Kč, vedené u Okresního soudu v Kolíně pod sp. zn. 9 C 872/2003, o dovolání žalobců proti rozsudku Krajského soudu v Praze ze dne 30. ledna 2008, č. j. 26 Co 483/2007-365, takto:
+Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Kolíně rozsudkem ze dne 2. února 2007, č. j. 9 C 872/2003-328, uložil prvému žalovanému zaplatit žalobcům částku 11.383,40 Kč do tří dnů od právní moci rozsudku (výrok I.), druhé žalované uložil tutéž povinnost (výrok II.), žalobu v části, v níž se žalobci po každém ze žalovaných domáhali zaplacení dalších 545.703,50 Kč, zamítl (výrok III.) a rozhodl o náhradě nákladů řízení ve vztahu mezi účastníky i vůči státu (výroky IV. a V.).
+K odvolání všech účastníků Krajský soud v Praze rozsudkem ze dne 30. ledna 2008, č. j. 26 Co 483/2007-365, rozsudek soudu prvního stupně ve výrocích I. a II. změnil tak, že žalobu, aby každému ze žalovaných byla uložena povinnost zaplatit žalobcům částku 11.383,40 Kč, zamítl (výrok I.), ve výroku III. rozsudek soudu prvního stupně potvrdil (výrok II.) a rozhodl o náhradě nákladů řízení ve vztahu mezi účastníky i vůči státu před soudy obou stupňů (výroky III. a IV.).
+Proti rozsudku odvolacího soudu (pouze do jeho výroku I.) podali žalobci dovolání, jehož přípustnost dovozují z § 237 odst. 1 písm. a) o. s. ř.
+Žalovaní podali k dovolání vyjádření, v němž věcně polemizují s argumentací žalobců.
+Podle ustanovení § 237 odst. 2 písm. a) o. s. ř. není dovolání proti rozsudku odvolacího soudu přípustné ve věcech, v nichž bylo dovoláním dotčeným výrokem rozhodnuto o peněžitém plnění nepřevyšujícím 20.000,- Kč, přičemž se nepřihlíží k příslušenství pohledávky.
+Vzhledem k tomu, že dovolacímu přezkumu byl podroben rozsudek odvolacího soudu pouze ve výroku I. o věci samé, kterým byl změněn rozsudek soudu prvního stupně tak, že byla zamítnuta žaloba, aby každému ze žalovaných byla uložena povinnost zaplatit žalobcům částku 11.383,40 Kč jako náhradu za užívání průjezdu žalovanými, přičemž se jedná o dva zcela samostatné nároky na zaplacení zmíněné částky, není ani u jednoho z nároků dosažena zákonem stanovená hranice výše peněžitého plnění pro přípustnost dovolání, kterou je nutné podle ustanovení § 237 odst. 2 písm. a) o. s. ř. v případě rozhodnutí odvolacího soudu, jímž bylo rozhodnuto o nárocích více samostatných účastníků, zkoumat ve vztahu k jednotlivým účastníkům a jejich nárokům samostatně bez ohledu na to, zda součet těchto nároků převyšuje částku 20.000,- Kč (Bureš, Drápal, Krčmář a kol., Občanský soudní řád komentář – II. díl, 7. vyd. C.H. Beck v Praze, r. 2006, str. 1246). Nejvyšší soud proto dovolání žalobců odmítl ve smyslu § 243b odst 5, věty první, a § 218 písm. c) o. s. ř.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5, věty první, § 224 odst. 1 a § 146 odst. 3 o. s. ř. s tím, že vyjádření žalovaných, jež se zcela míjí se závěry dovolacího soudu, na jejichž základě bylo dovolání žalobců odmítnuto, nelze považovat za účelné uplatňování či bránění práva.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 3. dubna 2009
+JUDr. Jan E l i á š, Ph.D.
+předseda senátu
