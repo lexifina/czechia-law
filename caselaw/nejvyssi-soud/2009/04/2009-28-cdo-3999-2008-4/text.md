@@ -1,0 +1,15 @@
+28 Cdo 3999/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu JUDr. Ivou Brožovou v právní věci žalobkyně Z. H., zastoupené advokátem, proti žalované Z. H., zastoupené advokátem, o zaplacení částky 44.303,40 Kč, vedené u Okresního soudu v Pardubicích pod sp. zn. 7 C 170/2003, o návrhu žalované na opravu rozsudku Nejvyššího soudu ze dne 19.11.2008, č.j. 28 Cdo 3999/2008-299, ve znění opravného usnesení ze dne 23.12.2008, č.j. 28 Cdo 3999/2008-305, takto:
+Návrh na vydání opravného usnesení se zamítá.
+O d ů v o d n ě n í :
+Rozsudkem ze dne 19.11.2008, č.j. 28 Cdo 3999/2008-300, ve znění opravného usnesení ze dne 23.12.2008, č.j. 28 Cdo 3999/2008-305, zrušil Nejvyšší soud zčásti rozsudek Krajského soudu v Hradci Králové, pobočky v Pardubicích, ze dne 12.6.2007, č.j. 23 Co 560/2006-221 a rozsudek Okresního soudu v Pardubicích ze dne 20.1.2006, č.j. 7 C 170/2003-166, a to v částce 6.731,80 Kč, neboť odvolací soud nesprávně právně posoudil mj. nárok žalobce na úhradu jedné poloviny nákladů na instalaci elektroměru v celkové výši 5.250,- Kč.
+Žalovaná navrhla, aby dovolací soud uvedený rozsudek opravil. Uvedla, že v rozsudku došlo k chybě v počtech, neboť částka 5.250,- Kč představuje pouze náklady na práci, přičemž je nutno připočítat náklady na materiál v částce 8.110,- Kč. Rovněž soud prvního stupně ve zčásti zrušeném rozsudku kalkuloval podle žalované s částkou 8.250,- Kč.
+Nejvyšší soud neshledal návrh na opravu rozsudku důvodným.
+Žalovanou uváděná částka 8.110,- Kč nepředstavuje podle obsahu spisu náklady na materiál potřebný k instalaci elektroměru, nýbrž je splátkou nedoplatku plateb za elektřinu v celkové výši 16.105,90 Kč, který měl žalobce uhradit ve dvou splátkách (srov. podání žalobce na č.l. 8 spisu). Žalobce uhradil dne 3.10.2003 splátku ve výši 8.105,90 Kč (pokladní doklad na č.l. 36 spisu) a dne 5.12.2003 dalších 8.055,- Kč (splátka ve výši 8.000,- Kč plus poplatek za upomínání ve výši 55,- Kč, který byl zřejmě chybou soudu prvního stupně započten dvakrát – viz č.l. 45 spisu).
+O tom, že částka 5.250,- Kč zahrnovala jak náklady na materiál, tak na práci, svědčí rovněž faktura vystavená svědkem M. R. s textem „Za provedené práce elektro a dodávku materiálu Vám fakturuji zálohu 5.250,- Kč“ (č.l. 46 spisu), jakož i výpověď svědka R. na jednání soudu prvního stupně dne 23.11.2005, č.l. 151 spisu, při níž svědek uvedl, že žalobci vyfakturoval částku 5.250,- Kč, kterou žalobce zaplatil. Z uvedených důkazů ani ze žádných jiných listin založených ve spise nelze dovodit, že by náklady na instalaci elektroměru činily více než 5.250,- Kč. Pokud soud prvního stupně uvedl v odůvodnění svého rozsudku částku 8.250,- Kč, jednalo se zřejmě o chybu v psaní.
+Vzhledem k tomu, že ve shora uvedeném rozsudku dovolacího soudu nedošlo k namítané chybě v počtech, předsedkyně senátu návrh na vydání opravného usnesení zamítla.
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 6. dubna 2009
+JUDr. Iva Brožová, v. r.
+předsedkyně senátu
