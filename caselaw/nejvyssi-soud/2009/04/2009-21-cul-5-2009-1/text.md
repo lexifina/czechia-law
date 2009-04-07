@@ -1,0 +1,17 @@
+21 Cul 5/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Novotného a soudců JUDr. Romana Fialy a JUDr. Mojmíra Putny o návrhu JUDr. K. T., podaném proti Nejvyššímu soudu České republiky na určení lhůty k provedení procesního úkonu ve věci vedené u Krajského soudu v Brně pod sp. zn. 4 Cm 268/2002, takto:
+I. Návrh navrhovatelky na určení lhůty pro vydání rozhodnutí ne věci sp. zn. 29 Cdo 4234/2007, se odmítá.
+II. Navrhovatelka nemá právo na náhradu nákladů řízení.
+Odůvodnění:
+Návrhem ze dne 23.3.2009, který byl Nejvyššímu soudu doručen téhož dne, se navrhovatelka domáhá, aby příslušný senát Nejvyššího soudu rozhodl, že „senátu Nejvyššího soudu ČR se nařizuje, aby ve lhůtě 30 dnů vydal rozhodnutí ve věci 29 Cdo 4324/2007“ (správně 29 Cdo 4234/2007). Návrh odůvodnila tím, na rozhodnutí dovolacího soudu závisí rozhodnutí ve čtyřech incidenčních sporech, přičemž poslední procesní úkon byl učiněn více než před 12 měsíci.
+Nejvyšší soud České republiky (jeho senát příslušný podle rozvrhu práce - § 174a odst. 3 část druhé věty za středníkem zákona č. 6/2002 Sb., o soudech a soudcích, ve znění pozdějších předpisů - dále jen „zákon o soudech a soudcích“) dospěl k závěru, že pro podání návrhu dosud nebyly splněny podmínky.
+Podle ustanovení § 1 o.s.ř. občanský soudní řád upravuje postup soudu a účastníků v občanském soudním řízení tak, aby byla zajištěna spravedlivá ochrana práv a oprávněných zájmů účastníků, jakož i výchova k zachovávání zákonů, k čestnému plnění povinností a k úctě k právům jiných osob. Podle ustanovení § 6 o.s.ř. v řízení postupuje soud v součinnosti se všemi účastníky tak, aby ochrana práv byla rychlá a účinná a aby skutečnosti, které jsou mezi účastníky sporné, byly spolehlivě zjištěny.
+Nepostupuje-li soud (v rozporu se zákonem) tak, aby ochrana práv byla rychlá, a dochází-li tedy v řízení k průtahům, mohou se fyzické a právnické osoby obrátit na příslušný orgán státní správy soudů se stížností na postup soudu (srov. § 164 odst. 1 zákona o soudech a soudcích).
+Má-li účastník nebo ten, kdo je stranou řízení, za to, že jeho stížnost na průtahy v řízení, kterou podal u příslušného orgánu státní správy soudů, jím nebyla řádně vyřízena, může podat návrh soudu, aby určil lhůtu pro provedení procesního úkonu, u kterého podle jeho názoru dochází k průtahům v řízení (§ 174a odst. 1 zákona o soudech a soudcích). Předchozí podání bezúspěšné stížnosti na průtahy v řízení je podmínkou řízení o rozhodnutí o návrhu na určení lhůty k procesnímu úkonu (srov. § 174a odst. 5 věta druhá zákona č. 6/2002 Sb.).
+V posuzovaném případě návrhu na určení lhůty k procesnímu úkonu ze dne 23.3.2009 stížnost na průtahy v řízení nepředcházela. Jak z příslušného spisu (sp. zn. S 2007/2009) vyplývá, byla podána až 30.3.2009 a doposud nebyla (a jak z data podání vyplývá, ani nemohla být) vyřízena. Vzhledem k tomu, že při podání návrhu nebyly splněny předepsané podmínky řízení, příslušný senát Nejvyššího soudu návrh navrhovatelky podle § 174a odst. 5 věty druhé zákona č. 6/2002 Sb.odmítl.
+O náhradě nákladů řízení bylo rozhodnuto podle ustanovení § 174a odst. 4 věty druhé zákona o soudech a soudcích a § 151 odst. 1 části věty před středníkem o.s.ř., neboť navrhovatel nemá ve smyslu ustanovení § 174a odst. 7 věty druhé zákona o soudech a soudcích právo, aby mu stát nahradil náklady, které mu v tomto řízení vznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 7. dubna 2009
+JUDr. Zdeněk Novotný, v. r.
+předseda senátu
