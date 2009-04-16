@@ -1,0 +1,14 @@
+21 Cdo 623/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a JUDr. Romana Fialy v právní věci žalobců a) Ing. Z. P., b) Ing. Z. S., a c) Ing. S. P., proti žalovanému Ing. P. P., o žalobě pro zmatečnost, o žalobách na obnovu řízení a pro zmatečnost, podaných žalovaným proti usnesení Vrchního soudu v Olomouci ze dne 24. listopadu 2005, č. j. 1 Co 222/2005-34, vedené u Krajského soudu v Brně pod sp. zn. 51 C 2/2006, o dovolání žalovaného proti usnesení Vrchního soudu v Olomouci ze dne 5. dubna 2007, č. j. 1 Co 60/2007-28, takto:
+I. Řízení o dovolání žalovaného proti usnesení Vrchního soudu v Olomouci ze dne 5. dubna 2007, č. j. 1 Co 60/2007-28, ve výroku, kterým bylo potvrzeno usnesení soudu prvního stupně o odmítnutí žaloby na obnovu řízení, se zastavuje.
+II. Dovolání žalovaného proti usnesení Vrchního soudu v Olomouci ze dne 5. dubna 2007, č. j. 1 Co 60/2007-28, ve výroku, kterým bylo potvrzeno usnesení soudu prvního stupně o zastavení řízení o žalobě pro zmatečnost pro nezaplacení soudního poplatku, se odmítá.
+III. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.):
+Řízení o dovolání žalovaného proti usnesení Vrchního soudu v Olomouci ze dne 5. 4. 2007, č. j. 1 Co 60/2007-28, ve výroku, jímž bylo potvrzeno usnesení Krajského soudu v Brně ze dne 31. 1. 2007, č. j. 51 C 2/2006-22, o odmítnutí žaloby na obnovu řízení, Nejvyšší soud České republiky podle ustanovení § 241b odst. 2 a § 104 odst. 2 věty třetí o. s. ř. zastavil, neboť dovolatel nesplnil zákonem stanovenou podmínku povinného zastoupení v dovolacím řízení a přes výzvu a poučení soudu o důsledcích své nečinnosti ve stanovené lhůtě (ani dosud) nedostatek podmínky dovolacího řízení podle ustanovení § 241 o. s. ř. neodstranil.
+Dovolání žalovaného proti výroku usnesení Vrchního soudu v Olomouci ze dne 5. 4. 2007, č. j. 1 Co 60/2007-28, kterým bylo potvrzeno usnesení Krajského soudu v Brně ze dne 31. 1. 2007, č. j. 51 C 2/2006-22, o zastavení řízení o žalobě pro zmatečnost pro nezaplacení soudního poplatku, není přípustné (srov. usnesení Nejvyššího soudu ČR ze dne 28. 3. 2002, sp. zn. 29 Odo 205/2002, uveřejněné v časopise Soudní judikatura pod č. 102, ročník 2002). Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) proto dovolání žalovaného v této části podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 části věty před středníkem o. s. ř., neboť žalovaný s ohledem na výsledek dovolacího řízení nemá na náhradu svých nákladů právo a žalobcům v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 16. dubna 2009
+JUDr. Mojmír Putna, v. r.
+předseda senátu
