@@ -1,0 +1,20 @@
+25 Cdo 941/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marty Škárové a soudců JUDr. Petra Vojtka a JUDr. Roberta Waltra v právní věci žalobce Č.. p., a. s., proti žalovanému P. K., o návrhu na obnovu řízení, vedené u Krajského soudu v Ostravě pod sp. zn. 17 Cm 10/2007, o dovolání žalovaného proti usnesení Vrchního soudu v Olomouci ze dne 23. července 2007, č. j. 1 Cmo 105/2007-19, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Vrchní soud v Olomouci usnesením ze dne 23. 7. 2007, č. j. 1 Cmo 105/2007-19, potvrdil usnesení Krajského soudu v Ostravě ze dne 4. 4. 2007, č. j. 17 Cm 10/2007-10, kterým byla podle ust. § 43 odst. 2 o. s. ř. odmítnuta žaloba žalovaného na obnovu řízení a rozhodnuto o náhradě nákladů řízení. Odvolací soud současně rozhodl o náhradě nákladů odvolacího řízení.
+Proti rozhodnutí odvolacího soudu podal žalovaný dovolání. Domáhá se „svých nezadatelných lidských práv dle ÚSTAVY ČR, ÚMLUVY ESLP a Protokolů a násl., dle ČL. 6“. Namítá, že žádný soud neprojednal věc v přítomnosti účastníků a „dokonce se uchýlil při vypracování k nezákonnostem“. Dále soudům vytýká způsob doručování rozhodnutí.
+Nejvyšší soud jako soud dovolací (§ 10a o. s. ř.) dospěl k závěru, že nejsou splněny podmínky dovolacího řízení.
+Podle ust. § 241 odst. l, věty první, o. s. ř. není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem.
+Podle ust. § 241 odst. 2 o. s. ř. odstavec 1 neplatí, a) je-li dovolatelem fyzická osoba, která má právnické vzdělání, b) je-li dovolatelem právnická osoba, stát, obec nebo vyšší územně samosprávný celek, jedná-li za ně osoba uvedená v § 21, 21a, anebo v § 21b, která má právnické vzdělání.
+Podle ust. § 241 odst. 4 o. s. ř. dovolání musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem, notářem nebo osobou uvedenou v § 21, 21a, 21b, anebo v § 26a odst. 3, která má právnické vzdělání.
+Pro podání dovolání, které je mimořádným opravným prostředkem, zákon stanoví požadavek, aby účastník řízení, který podává dovolání, měl buď sám právnické vzdělání, nebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc, a dovolání bylo touto osobou sepsáno. Ustanovení § 241 o. s. ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění nelze o dovolání rozhodnout.
+V dané věci podal žalovaný dovolání, aniž byl při tomto úkonu zastoupen advokátem, a nebylo prokázáno ani tvrzeno, že by sám měl právnické vzdělání. Usnesením Krajského soudu v Ostravě ze dne 2. 10. 2007, č. j. 17 Cm 10/2007-24, byl žalovaný vyzván, aby si pro podání dovolání zvolil zástupcem advokáta a jeho prostřednictvím podal řádné dovolání, s poučením, že pokud tak neučiní, dovolací soud řízení zastaví. Na tuto výzvu žalovaný reagoval žádostí o osvobození od soudních poplatků a o ustanovení advokáta pro dovolací řízení. Žádost žalovaného byla usnesením Krajského soudu v Ostravě ze dne 6. 10. 2008, č. j. 17 Cm 10/2007-64, ve spojení s usnesením Vrchního soudu v Olomouci ze dne 18. 12. 2008, č. j. 7 Cmo 463/2008-74, zamítnuta.
+Vzhledem k tomu, že žalovaný si právního zástupce pro dovolací řízení nezvolil a nedostatek povinného zastoupení ani dodatečně neodstranil, ačkoliv byl poučen o povinném právním zastoupení v dovolacím řízení i o důsledcích nesplnění této podmínky, Nejvyšší soud řízení o dovolání žalovaného podle § 243c odst. 1 a § 104 odst. 2, věty třetí, o. s. ř. zastavil, aniž se zabýval otázkou dalších náležitostí podaného dovolání.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, věty první, § 224 odst. l a § 146 odst. 2, věty první, o. s. ř., když žalovaný nemá na náhradu nákladů dovolacího řízení právo a žalobci náklady v dovolacím řízení nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 21. dubna 2009
+JUDr. Marta Škárová, v. r.
+předsedkyně senátu
