@@ -1,0 +1,15 @@
+29 Cdo 4306/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedkyně JUDr. Ivany Štenglové a soudců Mgr. Filipa Cilečka a Mgr. Petra Šuka v právní věci T. společnosti s ručením omezeným, zastoupené JUDr. V. D., advokátem, o změnu zápisu v obchodním rejstříku, vedené Krajským soudem v Ostravě pod. sp. zn. C 12328, o dovolání společnosti proti usnesení Vrchního soudu v Olomouci ze dne 15. května 2007, č. j. 5 Cmo 41/2007-293, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í:
+V záhlaví označeným usnesením potvrdil odvolací soud usnesení Krajského soudu v Ostravě ze dne 22. září 2006, č. j. F 43713/2006, C 12328-190 (ve znění opravného usnesení ze dne 11. října 2006, č. j. F 43713/2006, C 12328-211 ), kterým tento soud rozhodl o výmazu společnice společnosti T., společnost s ručením omezeným (dále jen „společnost“) M. V., včetně výše vkladu a rozsahu jeho splacení z obchodního rejstříku, a o zápisu společnosti na její místo.
+Proti usnesení odvolacího soudu podala společnost dovolání, jež Nejvyšší soud podle ustanovení § 243b odst. 5, § 218 písm. c) zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), odmítl.
+Učinil tak proto, že dovolání proti potvrzujícímu výroku usnesení ve věci samé může být přípustné pouze podle ustanovení § 237 odst. 1 písm. c) o. s. ř. [o situaci předvídanou v ustanovení § 237 odst. 1 písm. b) o. s. ř. nejde], přičemž Nejvyšší soud rozhodnutí odvolacího soudu - vzhledem k závěrům přijatým v jeho usnesení ze dne 19. srpna 2008, sp. zn. 29 Cdo 339/2008 - zásadně právně významným neshledal.
+V označeném rozhodnutí Nejvyšší soud otázku, v jejímž posouzení dovolatelka spatřuje zásadní právní význam napadeného usnesení, již zodpověděl, když uzavřel, že ani dobrovolné zaplacení vymáhané pohledávky samo o sobě zánik účasti společníka, jehož podíl je postižen exekucí, v dotčené společnosti neodvrátí. Zanikne-li účast společníka ve společnosti, může být obnovena pouze tehdy, dojde-li k zastavení exekuce. Rozhodnutí odvolacího soudu je s těmito závěry v souladu.
+Na uvedeném nic nemění ani to, že dovolatelka následně doložila usnesení, kterým Okresní soud v Ostravě zastavil exekuci, nařízenou usnesením ze dne 13. února 2004, č. j. 53 Nc 10035/2004-9, neboť toto usnesení bylo vydáno až po právní moci napadeného rozhodnutí a odvolací soud je tedy neměl k dispozici.
+Námitkami, jimiž vytýká odvolacímu soudu tvrzené vady řízení, pak dovolatelka vystihuje dovolací důvod vymezený v ustanovení § 241a odst. 2 písm. a) o. s. ř., jenž nemá u dovolání přípustného toliko podle ustanovení § 237 odst. 1 písm. c) o. s. ř. zásadně k dispozici (srov. usnesení Nejvyššího soudu uveřejněné pod číslem 48/2006 Sbírky soudních rozhodnutí a stanovisek nebo usnesení Ústavního soudu ze dne 7. března 2006, sp. zn. III. ÚS 10/06, uveřejněné v časopise Soudní judikatura číslo 9, ročník 2006, pod číslem 130 a ze dne 15. listopadu 2007, sp. zn. III. ÚS 372/06). K jejich přezkoumání proto založit přípustnost dovolání nelze.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 22. dubna 2009
+JUDr. Ivana Š t e n g l o v á
+předsedkyně senátu
