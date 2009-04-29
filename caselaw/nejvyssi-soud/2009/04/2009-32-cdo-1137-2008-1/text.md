@@ -1,0 +1,13 @@
+32 Cdo 1137/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Františka Faldyny, CSc. a JUDr. Hany Gajdziokové v právní věci žalobce V. K., , proti žalované S.-S., spol. s r.o. \"v likvidaci\", , zastoupené Mgr. A. V., advokátkou, , o 256 882,50 Kč s příslušenstvím, vedené u Krajského soudu v Plzni pod sp. zn. 44 Cm 141/2001, o dovolání žalované proti rozsudku Vrchního soudu v Praze ze dne 26. září 2007, č. j. 1 Cmo 388/2006-245, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Dovolání žalované proti v záhlaví označenému rozsudku, jímž byl potvrzen rozsudek Krajského soudu v Plzni ze dne 15. září 2005, č. j. 44 Cm 141/2001-143, ve vyhovujícím výroku ve věci samé, jímž bylo žalované uloženo zaplatit žalobci 256 882,50 Kč s příslušenstvím, a ve výroku o nákladech řízení (výrok I.), a kterým bylo dále rozhodnuto o nákladech odvolacího řízení (výrok II.), není přípustné podle § 237 odst. 1 písm. b) občanského soudního řádu (dále též jen „o. s. ř“), jelikož podmínky tohoto ustanovení nebyly v souzené věci naplněny (ve věci nebylo soudem prvního stupně vydáno rozhodnutí, které by odvolací soud zrušil). Dovolání nebylo shledáno přípustným ani podle § 237 odst. 1 písm. c) o. s. ř., neboť napadený rozsudek odvolacího soudu v potvrzujícím výroku ve věci samé nemá po právní stránce zásadní význam (§ 237 odst. 3 o. s. ř.).
+Nejvyšší soud neshledal, že by odvolací soud posoudil otázky platnosti smlouvy o dílo uzavřené mezi účastníky a práva na zaplacení části ceny díla, jejichž řešení dovolatelka v dovolání napadala, v rozporu s hmotným právem. Za situace, kdy dovolací soud z hlediska uplatněných dovolacích námitek nedovodil ani existenci jiných okolností, které by činily napadené rozhodnutí v potvrzujícím výroku ve věci samé zásadně právně významným, lze uzavřít, že dovolání žalované směřuje proti rozhodnutí odvolacího soudu, proti němuž není tento mimořádný opravný prostředek přípustný. Nejvyšší soud je proto, aniž nařizoval jednání (§ 243a odst. 1, věta první, o. s. ř.), pro nepřípustnost odmítl [§ 243b odst. 5, věta první, o. s. ř. a § 218 písm. c) o. s. ř].
+O nákladech dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 o. s. ř. a § 146 odst. 3 o. s. ř., neboť žalovaná, jejíž dovolání bylo odmítnuto, nemá na náhradu nákladů právo a žalobci v souvislosti s tímto řízením podle obsahu spisu žádné prokazatelné náklady dovolacího řízení nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 29. dubna 2009
+JUDr. Miroslav Gallus
+předseda senátu
