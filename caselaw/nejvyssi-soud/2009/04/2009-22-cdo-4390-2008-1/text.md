@@ -1,0 +1,20 @@
+22 Cdo 4390/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy
+JUDr. Františka Baláka a soudců JUDr. Marie Rezkové a Mgr. Michala Králíka, Ph.D., ve věci žalobkyň: a) JUDr. M. Ch. a b) MUDr. E. K., zastoupených advokátkou, proti žalovanému M. K., zastoupenému advokátem, o zrušení a vypořádání podílového spoluvlastnictví, vedené u Městského soudu v Brně pod sp. zn. 39 C 17/2001, o dovolání žalovaného proti rozsudku Krajského soudu v Brně ze dne 22. dubna 2008, č. j. 21 Co 475/2005-304, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í :
+[§ 243c odst. 2 občanského soudního řádu (dále „OSŘ“)]
+Krajský soud v Brně jako soud odvolací rozsudkem ze dne 22. dubna 2008, č. j. 21 Co 475/2005-304, změnil rozsudek Městského soudu v Brně (dále „soud prvního stupně“) ze dne 17. června 2005, č. j. 39 C 17/2001-208, ve věci samé tak, že žalobkyním uložil, aby žalovanému na vyrovnání podílů zaplatily, a to žalobkyně a) 591.000,- Kč a žalobkyně b) 1.182.000,- Kč, celkem 1.773.000,- Kč. Jinak rozsudek soudu prvního stupně ve věci samé potvrdil.
+K podání dovolání je subjektivně oprávněn pouze ten účastník, v jehož poměrech rozhodnutím odvolacího soudu nastala újma, odstranitelná tím, že dovolací soud toto rozhodnutí zruší. K tomu srov. rozsudek Nejvyššího soudu České republiky (dále „Nejvyšší soud“) z 1. 2. 2001, sp. zn. 29 Cdo 2357/2000, publikovaný v Souboru civilních rozhodnutí Nejvyššího soudu, C. H. Beck (dále jen „Soubor rozhodnutí“), pod C 154. Pokud tedy odvolací soud změnil rozsudek soudu prvního stupně ohledně částky 173.001,- Kč, o kterou zvýšil náhradu za spoluvlastnický podíl žalovaného, není dovolání z hlediska subjektivní přípustnosti v tomto rozsahu přípustné, neboť žalovanému měnícím výrokem rozsudku odvolacího soudu žádná újma na jeho právech nevznikla.
+Přípustnost dovolání v daném případě tak přicházela v úvahu jen podle § 237 odst. 1 písm. c) OSŘ. V dovolání, jehož přípustnost může být dána jen podle § 237 odst. 1 písm. c) OSŘ, nelze úspěšně uplatnit tvrzení, že rozhodnutí vychází ze skutkového zjištění, které nemá podle obsahu spisu v podstatné části oporu v provedeném dokazování. Přípustnost tzv. nenárokového dovolání [§ 237 odst. 1 písm. c) OSŘ] může být založena jen v případě, kdy dovolatel v dovolání označí pro výsledek sporu relevantní právní otázku, jejíž řešení odvolacím soudem činí rozhodnutí tohoto soudu rozhodnutím zásadního právního významu. Neuvede-li odvolatel v dovolání žádnou takovou otázku nebo jen otázku skutkovou, nemůže dovolací soud shledat nenárokové dovolání přípustným. K tomu srov. rozhodnutí Nejvyššího soudu ze dne 29. 4. 2002, sp. zn. 20 Cdo 1986/2001, a ze dne 27. 3. 2007, sp. zn. 22 Cdo 1217/2006 uveřejněná v Souboru rozhodnutí pod C 1164 a C 5042.
+Rozhodnutí odvolacího soudu nemá ve věci samé po právní stránce zásadní význam, neboť rozhodnutí odvolacího soudu je v návaznosti na skutková zjištění nalézacích soudů v souladu s hmotným právem, není v rozporu se stávající judikaturou dovolacího soudu a nezahrnuje posouzení takové právní otázky, která by v konečném účinku mohla mít vliv na obecnou rozhodovací činnost soudů. Odvolatel ostatně ani nevymezil právní otázku, která by měla činit rozhodnutí odvolacího soudu rozhodnutím po právní stránce zásadního významu.
+Proti výroku rozsudku odvolacího soudu o náhradě nákladů řízení není dovolání přípustné (viz C 2458 Souboru rozhodnutí).
+Z uvedených důvodů Nejvyšší soud, vycházeje z toho, že obsah rozsudků soudů obou stupňů i obsah dovolání jsou účastníkům známy a jsou součástí procesního spisu vedeného soudem prvního stupně, dovolání žalovaného podle § 243b odst. 5 věty první a § 218 písm. c) OSŘ odmítl.
+Výrok o náhradě nákladů dovolacího řízení vychází z toho, že úspěšným žalobkyním náklady, na jejichž náhradu by měly vůči žalovanému právo, nevznikly
+(§ 243b odst. 5, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 OSŘ).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 29. dubna 2009
+JUDr. František Balák, v. r.
+předseda senátu
