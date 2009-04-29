@@ -1,0 +1,17 @@
+22 Cdo 1643/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marie Rezkové a soudců Mgr. Michala Králíka, Ph.D., a JUDr. Jiřího Spáčila, CSc., ve věci žalobce V. P., proti žalovaným: 1) J. Ch., a 2) L. Ch., o určení vlastnického práva, vedené u Okresního soudu v Karviné – pobočka v Havířově pod sp. zn. 116 C 111/2007, o dovolání žalobce proti rozsudku Krajského soudu v Ostravě ze dne 19. prosince 2008, č. j. 57 Co 483/2008-216, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Krajský soud v Ostravě jako soud odvolací k odvolání žalobce rozsudkem ze dne 19. prosince 2008, č. j. 57 Co 483/2008-216, potvrdil rozsudek Okresní soud v Karviné – pobočka v Havířově (dále „soud prvního stupně“) ze dne 24. dubna 2008, č. j. 116 C 111/2007-194, kterým byla zamítnuta žaloba na určení, že „žalobce je podílovým spoluvlastníkem pozemků parc. č. 4135 – zahrada o výměře 1651 m2 a parc. č. 4136 – zahrada o výměře 439 m2 zapsaných u Katastrálního úřadu pro M. k., katastrální pracoviště K., na LV č. 885 pro katastrální území O., obec O., okres K. a jeho spoluvlastnický podíl činí ideální &#189;“, a rozhodnuto o nákladech řízení. Odvolací soud rozhodl také o nákladech odvolacího řízení.
+Proti rozsudku odvolacího soudu podal žalobce včas dovolání. Protože nebyl zastoupen advokátem a z obsahu spisu nevyplývalo, že by sám měl právnické vzdělání, byl výzvou (usnesením) soudu prvního stupně ze dne 20. února 2009 upozorněn na podmínku povinného zastoupení advokátem s tím, že nebude-li nedostatek uvedené podmínky dovolacího řízení ve stanovené lhůtě odstraněn, Nejvyšší soud dovolací řízení zastaví. Jelikož žalobce v uvedené lhůtě ani později nedoložil, že by si pro dovolací řízení zvolil advokáta, soud prvního stupně doručil 20. 4. 2009 spisový materiál dovolacímu soudu.
+Podle § 241 odst. 1 a 2 občanského soudního řádu (dále „OSŘ“) dovolatel musí být zastoupen advokátem nebo notářem; to neplatí, má-li dovolatel právnické vzdělání, popřípadě jedná-li za něj osoba uvedená v § 21 nebo v § 21a anebo v § 21b, která má právnické vzdělání. Notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními předpisy. Nejde ani o případ, kdy podmínka zastoupení advokátem nemusí být ve smyslu § 241b odst. 2 OSŘ splněna, neboť nejde o dovolání podané opožděně nebo někým, kdo k tomu nebyl oprávněn, ani o dovolání nepřípustné.
+Povinné zastoupení dovolatele je zvláštní podmínkou dovolacího řízení týkající se dovolatele, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění nelze vydat rozhodnutí, jímž se řízení končí.
+Podle § 104 odst. 2 OSŘ, jde-li o nedostatek podmínky řízení, který lze odstranit, učiní k tomu soud vhodná opatření. Nezdaří-li se nedostatek podmínky řízení odstranit, řízení zastaví.
+V dané věci žalobce přes řádnou výzvu soudu prvního stupně uvedený nedostatek do dnešního dne neodstranil. Proto Nejvyšší soud České republiky dovolací řízení pro nedostatek uvedené podmínky řízení podle § 241b odst. 2 a § 104 odst. 2 OSŘ zastavil.
+Protože žalobce nebyl v dovolacím řízení úspěšný a žalovaným v tomto řízení žádné náklady nevznikly, bylo rozhodnuto podle § 243b odst. 5, § 224 odst. 1 a § 146 odst. 1 písm. c) OSŘ tak, že žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 29. dubna 2009
+JUDr. Marie Rezková, v. r.
+předsedkyně senátu
