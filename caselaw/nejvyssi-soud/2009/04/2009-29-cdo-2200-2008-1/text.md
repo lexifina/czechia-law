@@ -1,0 +1,17 @@
+29 Cdo 2200/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudců JUDr. Zdeňka Krčmáře a Mgr. Jiřího Zavázala v právní věci žalobkyně H. P., , zastoupené JUDr. L. Š., advokátkou, , proti žalovanému M. M., zastoupenému JUDr. O. M., advokátem, , o žalobě pro zmatečnost a žalobě na obnovu řízení podaných žalovaným, vedené u Městského soudu v Praze pod sp. zn. 1 Cm 1/2006, o dovolání žalovaného proti usnesení Vrchního soudu v Praze ze dne 17. října 2007, č. j. 11 Cmo 97/2007-69, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Vrchní soud v Praze k odvolání žalovaného usnesením ze dne 17. října 2007, č. j. 11 Cmo 97/2007-69, potvrdil usnesení Městského soudu v Praze ze dne 16. února 2006, č. j. 1 Cm 1/2006-9, „ve správném znění, že se zamítá žaloba pro zmatečnost proti rozsudku Městského soudu v Praze ze dne 16. května 2001, č. j. 50 Cm 260/97-261 a proti rozsudku Vrchního soudu v Praze ze dne 6. března 2002, č. j. 5 Cmo 272/2001-291 a zamítá se žaloba na obnovu řízení vedeného u Městského soudu v Praze pod sp. zn. 50 Cm 260/97“.
+Odvolací soud se ztotožnil se závěrem soudu prvního stupně, podle něhož žalovaný podal žalobu na obnovu řízení po uplynutí lhůty určené ustanovením § 233 odst. 1 občanského soudního řádu (dále jen „o. s. ř.“) a žalobu pro zmatečnost po uplynutí lhůty určené ustanovením § 234 odst. 1 o. s. ř..
+Současně zdůraznil, že „není důvodný ani uplatněný důvod obnovy řízení“ [předvídaný ustanovením § 228 odst. 1 písm. a) o. s. ř.] a že nejde o důvod žaloby pro zmatečnost podle ustanovení § 229 odst. 1 písm. g) o. s. ř.
+Přípustnost dovolání proti usnesení odvolacího soudu, jímž bylo potvrzeno usnesení soudu prvního stupně, kterým bylo rozhodnuto o žalobě na obnovu řízení a o žalobě pro zmatečnost, upravují ustanovení § 238 odst. 1 písm. a) a § 238a odst. 1 písm. b) o. s. ř., s tím, že ustanovení § 237 o. s. ř., respektive § 237 odst. 1 a 3 o. s. ř. platí obdobně (§ 238 odst. 2 a § 238a odst. 2 o. s. ř.).
+Dovolání žalovaného, které tak mohlo být přípustné pouze za splnění předpokladů určených ustanovením § 237 odst. 1 písm. c) o. s. ř., Nejvyšší soud podle ustanovení § 243b odst. 5 a § 218 písm. c) o. s. ř. jako nepřípustné odmítl.
+Učinil tak proto, že závěr odvolacího soudu o opožděnosti žaloby na obnovu řízení a opožděnosti žaloby pro zmatečnost, na nichž rozhodnutí odvolacího soudu spočívá, postrádá potřebný judikatorní přesah, když je významný právě a jen pro projednávanou věc a vychází z konkrétních skutkových okolností dané věci (k tomu srov. např. důvody rozhodnutí uveřejněného pod číslem 48/2006 Sbírky soudních rozhodnutí a stanovisek, jakož i usnesení Ústavního soudu ze dne 7. března 2006, sp. zn. III. ÚS 10/06, uveřejněné v časopise Soudní judikatura č. 9, ročník 2006, pod číslem 130 a ze dne 15. listopadu 2007, sp. zn. III. ÚS 372/06). Navíc - jak je zřejmé z obsahu dovolání - dovolatelem uplatněné dovolací důvody, jimiž je Nejvyšší soud vázán (§ 242 odst. 3 o. s. ř.), jsou z hlediska řešení otázky včasnosti obou žalob právně nevýznamné.
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalovaného bylo odmítnuto a žalobkyni podle obsahu spisu v dovolacím řízení náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 29. dubna 2009
+JUDr. Petr G e m m e l
+předseda senátu
