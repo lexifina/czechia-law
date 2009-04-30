@@ -1,0 +1,26 @@
+33 Cdo 291/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy
+JUDr. Václava Dudy a soudkyň JUDr. Blanky Moudré a JUDr. Ivany Zlatohlávkové
+ve věci žalobkyně České republiky – M. f., proti žalovanému M. D., zastoupenému advokátkou, o zaplacení částky 13,602.673,61 Kč s příslušenstvím, vedené u Městského soudu v Brně pod sp. zn. 55 C 34/2005, o dovolání žalovaného proti usnesení Krajského soudu v Brně ze dne 29. března 2007, č. j. 28 Co 72/2006-60, takto:
+Dovolání se zamítá.
+O d ů v o d n ě n í :
+Právní předchůdkyně žalobkyně K., s. r. o., se vůči žalovanému domáhala zaplacení částky 13,602.673,61 Kč s příslušenstvím.
+Krajský soud v Brně usnesením ze dne 29. března 2007, č. j. 28 Co 72/2006-60, potvrdil usnesení Městského soudu v Brně (dále jen „soud prvního stupně“) ze dne
+21. října 2005, č. j. 55 C 34/2005-37, jímž bylo připuštěno, aby do řízení na místo právní předchůdkyně žalobkyně vstoupila společnost G. F. R. C., s. r. o. Odvolací soud tak učinil poté, co usnesením ze dne 23. ledna 2007, č. j. 28 Co 72/2006-55, rozhodl, že v řízení bude místo žalobkyně pokračováno s Č. k. a.
+V dovolání proti potvrzujícímu usnesení odvolacího soudu žalovaný namítá, že rozhodnutí spočívá na nesprávném právním posouzení věci, neboť pohledávky, které jsou předmětem řízení, nemohly přejít ze společnosti K., s. r. o. na společnost G. F. R. C., s. r. o., neboť K., s. r. o. nikdy nebyla „oprávněným vlastníkem těchto pohledávek“, nebyla oprávněna je postoupit, a není ani aktivně legitimována k podání žaloby. S ohledem na výše uvedené žalovaný navrhl, aby dovolací soud rozhodnutí soudů obou stupňů zrušil a věc vrátil soudu prvního stupně k dalšímu řízení.
+Dovolání je přípustné podle § 239 odst. 1 písm. b) o. s. ř., není však důvodné.
+Jelikož vady uvedené v ustanovení § 229 odst. 1, § 229 odst. 2 písm. a) a b) a
+§ 229 odst. 3 o. s. ř., ani jiné vady řízení, které mohly mít za následek nesprávné rozhodnutí ve věci (§ 242 odst. 3 o. s. ř.), se z obsahu spisu nepodávají a dovolatel jejich existenci ani netvrdí, přezkoumal Nejvyšší soud správnost rozhodnutí odvolacího soudu z pohledu uplatněného dovolacího důvodu.
+Právní posouzení věci je obecně nesprávné, jestliže odvolací soud posoudil věc podle právní normy, jež na zjištěný skutkový stav nedopadá, nebo právní normu, sice správně určenou, nesprávně vyložil, případně ji na daný skutkový stav nesprávně aplikoval.
+Podle § 107a odst. 1 o. s. ř. má-li žalobce za to, že po zahájení řízení nastala právní skutečnost, s níž právní předpisy spojují převod nebo přechod práva nebo povinnosti účastníka řízení, o něž v řízení jde, může dříve, než soud o věci rozhodne, navrhnout, aby nabyvatel práva nebo povinnosti vstoupil do řízení na místo dosavadního účastníka; to neplatí v případech uvedených v § 107. Podle odstavce 2 téhož ustanovení soud návrhu účastníka vyhoví, jestliže se prokáže, že po zahájení řízení nastala právní skutečnost uvedená v odstavci 1, a jestliže s tím souhlasí ten, kdo má vstoupit na místo žalobce; souhlas žalovaného nebo toho, kdo má vstoupit na jeho místo, se nevyžaduje. Právní účinky spojené s podáním žaloby zůstávají zachovány.
+Odvolací soud v posuzovaném případě správně vycházel z § 107a o. s. ř., který upravuje procesní nástupnictví, k němuž dochází v důsledku hmotněprávní singulární sukcese práva (povinnosti), která nastává po zahájení řízení (aniž by účastník řízení ztratil způsobilost být účastníkem řízení). Toto ustanovení pak odvolací soud správně aplikoval k návrhu žalobkyně na vstup nabyvatelky práva do řízení na místo dosavadního účastníka. V návrhu na vstup účastníka na straně žalobce podle § 107a odst. 1 o. s. ř. musí žalobce zejména označit právní skutečnost, která měla za následek převod nebo přechod práva, uvést, kdy k ní došlo, a označit toho, kdo má vstoupit na jeho místo.
+Nejvyšší soud již v rozhodnutí uveřejněném pod číslem 31/2004 Sbírky soudních rozhodnutí a stanovisek formuloval a odůvodnil závěr, podle kterého předmětem řízení o návrhu podle ustanovení § 107a o. s. ř. není posouzení, zda tvrzené právo (povinnost), které mělo být převedeno, nebo které mělo přejít na jiného, dosavadnímu účastníku svědčí či nikoli, popř. zda podle označené právní skutečnosti bylo převedeno (přešlo) na jiného, když takové posouzení se týká již posouzení věci samé. K tomuto závěru se přihlásil rovněž v rozhodnutí uveřejněném pod číslem 37/2004 Sbírky soudních rozhodnutí a stanovisek, s tím, že právní skutečností, se kterou právní předpisy spojují převod nebo přechod práva nebo povinnosti účastníka řízení
+(§ 107a odst. 1 o. s. ř.), je i smlouva o postoupení pohledávky ve smyslu § 524 a násl. občanského zákoníku.
+Odvolacímu soudu tak nelze důvodně vytýkat, že se nezabýval tím, zda právní předchůdkyni žalobkyně společnosti K. s. r. o. svědčily pohledávky za žalovaným a zda k jejich postoupení došlo platně; touto otázkou - jak je uvedeno výše - se soud
+při zkoumání procesního nástupnictví ve smyslu ustanovení § 107a o. s. ř. totiž nezabývá.
+Jelikož se dovolateli nepodařilo zpochybnit správnost právního posouzení věci odvolacím soudem, Nejvyšší soud jeho dovolání podle § 243b odst. 2 věty první o. s. ř. zamítl.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 30. dubna 2009
+JUDr. Václav Duda, v. r.
+předseda senátu
