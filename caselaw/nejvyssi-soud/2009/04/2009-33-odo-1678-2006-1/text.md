@@ -1,0 +1,19 @@
+33 Odo 1678/2006
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Václava Dudy a soudkyň JUDr. Blanky Moudré a JUDr. Ivany Zlatohlávkové ve věci žalobce S., k. d. J., zastoupeného advokátkou, proti žalovanému S. č. a m. v. d., z. s. p. o., o zaplacení částky 619.106,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 17 C 171/2004, o dovolání žalovaného proti rozsudku Městského soudu v Praze ze dne 19. dubna 2006, č. j. 13 Co 79/2006-45, takto:
+I. Dovolání se odmítá.
+II. Žalovaný je povinen zaplatit žalobci na náhradě nákladů dovolacího řízení 7.800,- Kč do tří dnů od právní moci tohoto usnesení k rukám advokátky.
+O d ů v o d n ě n í :
+Dovolání proti rozsudku Městského soudu v Praze ze dne 19. dubna 2006, č. j.
+13 Co 79/2006-45, kterým byl potvrzen rozsudek Obvodního soudu pro Prahu 1 ze dne
+22. listopadu 2005, č. j. 17 C 171/2004-29, jímž byla žalovanému uložena povinnost zaplatit žalobci částku 619.106,- Kč s 3% úrokem z prodlení od 11. 6. 2003 do zaplacení a bylo rozhodnuto o nákladech řízení, není přípustné podle § 237 odst. 1 písm. b) občanského soudního řádu (dále jen „o. s. ř.“), a nebylo shledáno přípustným ani podle § 237 odst. 1 písm. c) o. s. ř., neboť napadený rozsudek nemá ve věci samé po právní stránce zásadní význam (§ 237 odst. 3 o. s. ř.).
+Zásadní význam rozhodnutí odvolacího soudu po právní stránce spatřuje žalovaný v řešení otázky, zda v souvislosti s ukončením účasti žalobce v rámci žalované může dojít na základě čl. 25 odst. 8 stanov žalovaného k započtení nesplatné pohledávky žalobce na výplatu vypořádacího podílu vůči splatné pohledávce žalovaného na doplacení dosud neuhrazené části poskytnutého úvěru. Odvolací soud založil své rozhodnutí na výkladu uvedeného ustanovení stanov a dospěl k závěru, že v souladu s § 581 odst. 2 a 3 obč. zák. lze dohodou započítat i nesplatnou pohledávku žalobce proti splatné pohledávce žalovaného.
+Řešení dovoláním vymezené otázky však nemá judikatorní (zobecňující) přesah, neboť jde o výklad konkrétního ustanovení stanov (jedinečného charakteru), jež je významné právě a jen pro projednávanou věc, a nikoli pro celou řadu případů stejného druhu (srov. rozhodnutí Nejvyššího soudu ze dne 25. ledna 2001, sp. zn. 20 Cdo 2965/2000, nebo ze dne 9. ledna 2001 sp. zn. 29 Odo 821/2000, uveřejněné v Souboru rozhodnutí Nejvyššího soudu vydávaném nakladatelstvím C. H. Beck, svazku 1, pod č. C 23 a 71). Navíc řešení této otázky plyne bez dalšího přímo z textu zákona (možnost započítat pohledávky vyjmenované v § 581 odst. 2 obč. zák. dohodou podle § 581 odst. 3 obč. zák.).
+Protože dovolání není přípustné ani proti nákladovému výroku rozsudku odvolacího soudu (srovnej usnesení Nejvyššího soudu ze dne 31. ledna 2002, sp. zn. 29 Odo 874/2001, uveřejněné pod R 4/2003 ve Sbírce soudních rozhodnutí a stanovisek), dovolací soud je odmítl [§ 243b odst. 5 věta první a § 218 písm. c) o. s. ř.].
+Podle § 243b odst. 5 věty prvé, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř. má žalobce právo na náhradu nákladů dovolacího řízení. Tyto náklady představuje odměna za vyjádření k dovolání sepsané advokátem [§ 11 odst. 1 písm. k) vyhlášky č. 177/1996 Sb.
+ve znění vyhlášky č. 276/2006 Sb.], stanovená podle § 10 odst. 3, § 3 odst. 1 bodu 6., § 15, § 14 odst. 1 a § 18 odst. 1 vyhlášky č. 484/2000 Sb. ve znění před 1. 9. 2006 (srov. článek II vyhlášky č. 277/2006 Sb.) částkou 7.500,- Kč, a paušální částka náhrady výdajů podle § 13 odst. 1 a 3 vyhlášky č. 177/1996 Sb. v citovaném znění ve výši 300,- Kč. Platební místo a lhůta ke splnění uložené povinnosti vyplývají z § 149 odst. 1 a § 160 odst. 1 o. s. ř.
+Proti tomuto usnesení není opravný prostředek přípustný.
+Nesplní-li povinný dobrovolně, co mu ukládá vykonatelné rozhodnutí soudu, může oprávněná podat návrh na soudní výkon rozhodnutí.
+V Brně dne 30. dubna 2009
+JUDr. Václav Duda, v. r.
+předseda senátu
