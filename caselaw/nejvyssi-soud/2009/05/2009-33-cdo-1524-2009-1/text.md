@@ -1,0 +1,16 @@
+33 Cdo 1524/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivany Zlatohlávkové a soudců JUDr. Blanky Moudré a JUDr. Václava Dudy ve věci žalobkyně T. V., advokátky, zastoupené advokátem, proti žalovaným 1) R. V. a 2) A. V., zastoupeným advokátem, o zaplacení částky 154.509,80 Kč s příslušenstvím, vedené u Okresního soudu v Olomouci pod sp. zn. 23 C 46/2004, o dovolání žalovaných proti rozsudku Krajského soudu v Ostravě-pobočky v Olomouci ze dne 11. listopadu 2008, č. j. 69 Co 506/2008-260, takto :
+Dovolací řízení se zastavuje.
+Žalovaní jsou povinni společně a nerozdílně zaplatit žalobkyni na náhradě nákladů dovolacího řízení částku 10.353,- Kč do tří dnů od právní moci tohoto usnesení k rukám advokáta.
+O d ů v o d n ě n í:
+Okresní soud v Olomouci rozsudkem ze dne 6. prosince 2004, č. j. 23 C 46/2004-192, uložil žalovaným povinnost zaplatit žalobkyni společně a nerozdílně 170.629,80 Kč s úrokem z prodlení ve výši 3% ročně z částky 169.920,- Kč od 24. 7. 2003 do zaplacení (výrok I.), žalobu o zaplacení dalších 43.350,10 Kč s 3% úrokem z prodlení ročně z částky 43.200,- Kč od 24. 7. 2003 do zaplacení zamítl (výrok II.) a rozhodl o nákladech řízení (výrok III.).
+Krajský soud v Ostravě-pobočka v Olomouci rozsudkem ze dne 11. listopadu 2008, č. j. 69 Co 506/2008-260, potvrdil rozsudek soudu prvého stupně v odvoláním napadené části výroku I., jíž byla žalovaným uložena povinnost společně a nerozdílně zaplatit žalobkyni částku 154.509,80 Kč s 3% úrokem z prodlení ročně z částky 153.800,- Kč od 24. 7. 2003 do zaplacení, a rozhodl o nákladech řízení před soudy obou stupňů. Rozhodl tak poté, kdy jeho předchozí rozsudek ze dne 22. listopadu 2005, č. j. 40 Co 251/2005-221, Nejvyšší soud České republiky rozsudkem ze dne 26. června 2008, č. j. 33 Odo 670/2006-244, zrušil a věc mu vrátil k dalšímu řízení.
+Proti rozsudku odvolacího soudu podali žalovaní dne 9. 3. 2009 dovolání, které podáním ze dne 23. 3. 2009 vzali zcela zpět.
+Nejvyšší soud České republiky po účinném zpětvzetí dovolání dovolací řízení podle § 243b odst. 5 věty druhé o. s. ř. zastavil.
+O nákladech dovolacího řízení dovolací soud rozhodl podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 2 o. s. ř. Žalovaným, kteří z procesního hlediska zavinili, že dovolací řízení bylo zastaveno, uložil povinnost zaplatit žalobkyni náklady, které jí vznikly v souvislosti s podáním vyjádření k dovolání prostřednictvím advokáta. Tyto náklady sestávají z odměny advokáta v částce 8.400,- Kč (§ 2 odst. 1, § 3 odst. 1 bod. 4/, § 10 odst. 3, § 15 ve spojení s § 14 odst. 1 a § 18 odst. 1 vyhlášky č. 484/2000 Sb., v platném znění), z paušální částky náhrad hotových výdajů ve výši 300,- Kč (§ 2 odst. 1 a § 13 odst. 1 a 3 vyhlášky č. 177/1996 Sb., v platném znění) a z částky 1.653,- Kč odpovídající dani z přidané hodnoty, kterou je advokát povinen z odměny za zastupování a náhrad odvést podle zákona č. 235/2004 Sb., o dani z přidané hodnoty (§ 137 odst. 3 o. s. ř.).
+Nesplní-li povinní dobrovolně, co jim ukládá vykonatelné rozhodnutí, může oprávněná podat návrh na soudní výkon rozhodnutí.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 7. května 2009
+JUDr. Ivana Z l a t o h l á v k o v á , v. r.
+předsedkyně senátu
