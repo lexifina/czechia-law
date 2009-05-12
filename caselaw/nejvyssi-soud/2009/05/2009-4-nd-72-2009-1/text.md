@@ -1,0 +1,22 @@
+4 Nd 72/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy senátu JUDr. Františka Hrabce a soudců JUDr. Danuše Novotné a JUDr. Petra Šabaty ve věci žalobkyně: Č. i. k., a. s., zastoupena JUDr. R. M., proti žalované: M. P., zastoupena opatrovnicí Věrou Máslovou, soudní tajemnicí Okresního soudu v Náchodě, o 3.918,50,- Kč s přísl., vedeno u Okresního soudu v Náchodě pod sp. zn. 6 C 28/2009, o určení místní příslušnosti podle § 11 odst. 3 o. s. ř. t a k t o :
+Určuje se, že věc projedná a rozhodne Okresní soud v Příbrami.
+O d ů v o d n ě n í :
+Okresní soud v Náchodě předložil Nejvyššímu soudu shora označenou věc k rozhodnutí podle § 11 odst. 3 o. s. ř. o tom, který soud věc projedná a rozhodne, neboť podmínky místní příslušnosti, podle nichž by bylo možno určit příslušný soud, chybějí nebo je nelze zjistit.
+Podle ustanovení § 85 odst. 1 o. s. ř. je obecným soudem fyzické osoby okresní soud, v jehož obvodu má bydliště a nemá-li bydliště, okresní soud, v jehož obvodu se zdržuje. Bydlištěm se rozumí místo pobytu fyzické osoby, ve kterém se zdržuje s úmyslem se tam zdržovat trvale. Jestliže bydliště nelze tímto způsobem určit, je jejím obecným soudem okresní soud, v jehož obvodu se zdržuje v době zahájení řízení (Bureš, Drápal, Krčmář a kol. Občanský soudní řád, komentář 1. díl, 7. vyd. C. H. Beck 2006, str. 378).
+Z předloženého spisu vyplývá, že návrh na zahájení řízení byl podán u Okresního soudu v Náchodě, přitom jako bydliště žalované bylo v návrhu uvedeno P. n. M. Okresní soud v Náchodě usnesením ze dne 3. 2. 2009, sp. zn. 6 C 28/2009 (č. l. 48), vyslovil podle § 105 odst. 2 o. s. ř. svou místní nepříslušnost a věc předložil Nejvyššímu soudu k rozhodnutí podle § 11 odst. 3 o. s. ř.
+Z listin obsažených ve spise plynou následující skutečnosti.
+Žalované bylo doručováno na adresu uvedenou v návrhu na zahájení řízení, avšak podle sdělení pošty se žalovaná z této adresy odstěhovala (č. l. 27). Dané bydliště žalovaná uváděla na listinách sepsaných mezi ní a žalobkyní v roce 2005.
+V centrální evidenci obyvatel má žalovaná zapsán platný trvalý pobyt na adrese obec O., část obce L., okres P. (č. l. 28). Rovněž z této adresy se podle sdělení pošty odstěhovala (č. l. 33). To potvrzuje i vyjádření syna žalované J. P. na č. l. 39, který sděluje, že se jeho matka odstěhovala z trvalého bydliště neznámo kam. Rovněž nikdo z jeho příbuzných o pobytu jeho matky neví.
+Z výše uváděného vyplývá, že místo, které je vedeno v centrální evidenci obyvatel jako adresa trvalého pobytu žalované není bydlištěm žalované ve smyslu § 85 odst. 1 o. s. ř.
+Zároveň nebylo prokázáno, kde se žalovaná zdržovala v době zahájení řízení. Lze tak konstatovat, že místo jejího bydliště ani místo jejího faktického pobytu v době zahájení řízení u Okresního soudu v Náchodě není známo.
+Podle § 11 odst. 3 o. s. ř., jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne. Pravomoc soudů ČR k rozhodnutí v uvedené věci vyplývá z ustanovení § 7 odst. 1 zákona č. 99/1963 Sb., občanský soudní řád v platném znění.
+Podle § 10 odst. 5 zákona č. 133/2000 Sb., o evidenci obyvatel, v platném znění, změnu místa trvalého pobytu občan ohlásí ohlašovně v místě nového trvalého pobytu.
+Podle § 10 odst. 6 písm. c) zákona o evidenci obyvatel je občan povinen při ohlášení změny místa trvalého pobytu orgánu příslušnému k provedení změny v evidenci doložit vlastnictví bytu nebo domu, nebo doložit oprávněnost užívání bytu, anebo předložit úředně ověřené písemné potvrzení oprávněné osoby o souhlasu s ohlášením změny místa trvalého pobytu. V opačném případě by nemohlo dojít k zaevidování, neboť by občan nesplnil zákonné podmínky pro provedení tohoto správního úkonu.
+Z výše uváděného lze dovodit vztah žalované k obci O. v okrese P. a tím k obvodu jmenovaného okresního soudu. Za daného stavu věci, kdy nejsou známa jiná relevantní kriteria se jeví jako odpovídající rozumnému uspořádání vztahu, aby věc projednal a rozhodl Okresní soud v Příbrami.
+Při určení místně příslušného soudu vycházel Nejvyšší soud především z výše uvedených hledisek. S ohledem na tyto skutečnosti proto podle § 11 odst. 3 o. s. ř. určil, že místně příslušným k projednání a rozhodnutí věci je jmenovaný soud.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 12. května 2009
+Předseda senátu:
+JUDr. František Hrabec
