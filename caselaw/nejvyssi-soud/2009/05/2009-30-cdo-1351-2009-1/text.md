@@ -1,0 +1,20 @@
+30 Cdo 1351/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Pavlíka a soudců JUDr. Olgy Puškinové a JUDr. Karla Podolky v právní věci žalobce S. G., zastoupené advokátem, proti žalované obchodní společnosti R-P., spol. s r.o., zastoupené advokátem, o obnovu řízení, vedené u Městského soudu v Praze pod sp. zn. 37 C 81/2005, o dovolání žalované proti usnesení Vrchního soudu v Praze ze dne 11. července 2006, č.j. 1 Co 161/2006-40, takto:
+I. Dovolání žalované se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění
+(§ 243c odst. 2 o.s.ř.):
+Městský soud v Praze usnesením ze dne 8. března 2006, č.j. 37 C 81/2005-25, zamítl návrh, aby povolil obnovu řízení ve věci sp.zn. 37 C 67/2003, žalobce
+S. G., proti žalované R-P. spol. s r.o., o ochranu osobnosti.
+K odvolání žalované Vrchní soud v Praze usnesením ze dne 11. července 2006, č.j. 1 Co 161/2006-40, usnesení soudu prvního stupně ve výroku ve věci samé podle ustanovení § 219 občanského soudního řádu (dále jen „o.s.ř.“) potvrdil, zatímco
+ve výroku o náhradě nákladů řízení toto rozhodnutí změnil; rozhodl též o náhradě nákladů odvolacího řízení. Poukázal na ustanovení § 228 odst. odst. 1 písm. a) o.s.ř. Mimo jiné konstatoval, že důkaz výpovědí svědkyně L. B. žalovaná ve věci sp.zn. 37 C 67/2003 navrhla a na jeho provedení trvala. Nejde proto o důkaz, který žalovaná nemohla v původním řízení uplatnit. Nadto v článku, který žalovaná uveřejnila, bylo uvedeno, že žalobci „volala H. P., správkyně nevěstince A. v N.“, ač bylo v řízení vedeném u Městského soudu v Praze pod sp.zn. 37 C 67/2003 prokázáno, že to není pravdivé tvrzení. Ani případná výpověď svědkyně L. B. o nadstandardních vztazích k rodině žalobce by nemohla přivodit pro žalovanou příznivější rozhodnutí.
+Proti usnesení odvolacího soudu podala žalovaná dovolání, v němž uplatňuje dovolací důvod podle ustanovení § 241a odst. 2 písm. b) o.s.ř. Má za to, že podstatné je, že po pravomocném skončení řízení ve věci sp.zn. 37 C 67/2003 žalobce veřejně přiznal, že udržoval kontakty s L. B., v jejíž nemovitosti byl provozován nevěstinec. Do té doby nemohla žalovaná bez své viny poskytnout důkaz, že žalobce udržoval vztahy s osobou spjatou s provozem nevěstince.
+Žalobce se k dovolání nevyjádřil.
+Dovolání v označené věci není přípustné podle § 238 odst. 1 písm. a) o.s.ř.
+ve spojení s ustanovením § 237 odst. 1 písm. a) a písm. b) o.s.ř. a s § 238 odst. 2 téhož zákona. Splněna není ani podmínka přípustnosti uvedená v ustanovení § 237 odst. 1 písm. c) o.s.ř. (ve spojení s ustanovením § 238 odst. 1 písm. a/ a odst. 2 o.s.ř.), protože napadené usnesení není rozhodnutím po právní stránce zásadního významu ve smyslu ustanovení § 237 odst. 3 o.s.ř. Otázku, zda jsou naplněny předpoklady úspěšnosti žaloby na obnovu řízení, odvolací soud posoudil v souladu s ustálenou judikaturou dovolacího soudu (srovnej např. usnesení Nejvyššího soudu ČR ze dne 30. září 2004, sp.zn. 26 Cdo 333/2008). Jestliže z obsahu dovolání vyplývá (§ 41 odst. 2 o.s.ř.) též dovolací důvod podle ustanovení § 241a odst. 3 o.s.ř., nemohlo k němu být při posouzení, zda je dovolání přípustné podle § 237 odst. 1 písm. c) o.s.ř., přihlédnuto (srovnej např. usnesení Nejvyššího soudu ČR ze dne 29. června 2004, sp.zn. 21 Cdo 541/2004, uveřejněné pod č. 132 v časopisu Soudní judikatura, ročník 2004, nebo v usnesení Ústavního soudu ČR ze dne 7. března 2006, sp.zn. III. ÚS 10/06, uveřejněné pod č. 130 v časopise Soudní judikatura, ročník 2006). Dovolání bylo proto odmítnuto jako nepřípustné podle § 243b odst. 5 o.s.ř. ve spojení s § 218 písm. c) téhož zákona.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 5 věta prvá o.s.ř. ve spojení s § 224 odst. 1, § 151 o.s.ř., neboť žalovaná s ohledem na výsledek řízení nemá na náhradu svých nákladů právo a žalobci v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 14. května 2009
+JUDr. Pavel Pavlík, v. r.
+předseda senátu
