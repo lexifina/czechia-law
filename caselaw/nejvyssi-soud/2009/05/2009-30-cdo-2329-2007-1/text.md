@@ -1,0 +1,18 @@
+30 Cdo 2329/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy
+JUDr. Karla Podolky a soudců JUDr. Pavla Vrchy a JUDr. Pavla Pavlíka v právní věci žalobkyně N. M., zastoupené advokátem, proti žalovanému H. m. P., zastoupenému advokátem, o zaplacení 1,353.240,- Kč, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 23 C 128/2002, o dovolání žalovaného proti rozsudku Městského soudu v Praze ze dne 7. března 2007, č.j. 13 Co 377/2006-90, 13 Co 378/2006, takto:
+I. Dovolání žalovaného se odmítá.
+II. Žalovaný je povinen zaplatit žalobkyni na náhradě nákladů dovolacího řízení částku 10.300,- Kč do tří dnů od právní moci tohoto rozhodnutí k rukám advokáta.
+Stručné odůvodnění (§ 243c odst. 2 o.s.ř.):
+Dovolání žalovaného proti rozsudku Městského soudu v Praze ze dne 7. 3. 2007, č.j. 13 Co 377/2006-90, 13 Co 378/2006, kterým byl potvrzen (odvoláním dotčený) vyhovující meritorní výrok, jakož i nákladové výroky rozsudku soudu prvního stupně, není přípustné podle § 237 odst. 1 písm. b) o.s.ř. a nebylo shledáno přípustným ani podle § 237 odst. 1 písm. c) o.s.ř., neboť rozhodnutí odvolacího soudu je zcela v souladu s konstantní judikaturou soudu [srov. zejména právní názor vyjádřený v rozsudku Nejvyššího soudu České republiky ze dne 15. 1. 2004, sp. zn. 32 Odo 823/2003, in www.nsoud.cz, v němž byla řešena skutkově obdobná věc týchž účastníků, jakož i obsahově navazující judikaturu – např. rozsudek Nejvyššího ČR ze dne
+14. 2. 2006, sp. zn. 33 Odo 396/2004, nebo usnesení téhož soudu ze dne 31. 1. 2006, sp. zn. 33 Odo 1064/2005; v usnesení ze dne 9.3. 2004, sp. zn. 32 Odo 872/2003, dovolací soud vymezenou otázku zásadního právního významu, tj. zda žalovanému (Statutárnímu městu Č. B.) vzniká bezdůvodné obohacení na úkor vlastníka pozemků,
+i když žalovaný tyto pozemky ze soukromoprávního titulu neužívá, pozemky jsou užívány obyvateli města jako park, přičemž žalovaný pozemky pouze udržuje z titulu plnění úkolů na úseku ochrany přírody a krajiny podle zák. č. 114/1992 Sb., nepovažoval za řešenou v rozporu s dosavadní judikaturou dovolacího soudu. Je třeba také zdůraznit, že ústavní stížnost proti usnesení Nejvyššího soudu České republiky sp. zn. 32 Odo 872/2003, vycházející z již shora prvně cit. rozhodnutí dovolacího soudu, byla usnesením Ústavního soudu ze dne 14. 9. 2004, sp. zn. III. ÚS 338/2004, odmítnuta].
+Dovolání proti výroku rozsudku odvolacího soudu o nákladech řízení, které má povahu usnesení (§ 167 odst. 1 o.s.ř.), občanský soudní řád nepřipouští (srov. § 236 až 239 o.s.ř., a dále např. usnesení Nejvyššího soudu České republiky ze dne 31. 1. 2002, sp. zn. 29 Odo 874/2001, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod č. 4, ročník 2003, a v časopise Soudní judikatura pod č. 88, ročník 2002).
+Dovolání bylo proto odmítnuto jako nepřípustné podle § 243b odst. 5 o.s.ř.
+ve spojení s § 218 písm. c) o.s.ř.
+Podle § 243b odst. 5 věty prvé, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř. je žalovaný, jehož dovolání bylo odmítnuto, povinen nahradit žalobkyni náklady dovolacího řízení. Tyto náklady představuje odměna za vyjádření k dovolání sepsané advokátem (§ 11 odst. 1 písm. k) vyhlášky č. 177/1996 Sb.), stanovená podle § 3 odst. 1 bod 5., § 10 odst. 3, § 15, § 14 odst. 1 a § 18 odst. 1 vyhlášky č. 484/2000 Sb. částkou 10.000,- Kč, a paušální částka náhrady výdajů podle § 13 odst. 1 a 3 vyhlášky č. 177/1996 Sb. ve výši 300,- Kč. Platební místo a lhůta ke splnění uložené povinnosti vyplývají z § 149 odst. 1 a § 160 odst. 1 o. s. ř.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 20. května 2009
+JUDr. Karel Podolka, v. r.
+předseda senátu
