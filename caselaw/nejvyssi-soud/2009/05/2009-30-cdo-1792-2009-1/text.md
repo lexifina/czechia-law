@@ -1,0 +1,22 @@
+30 Cdo 1792/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Karla Podolky a soudců JUDr. Pavla Vrchy a JUDr. Pavla Pavlíka v právní věci žalobkyně a) Z. N., zastoupené advokátkou, a b) V. N., proti žalovanému P. W., zastoupenému advokátkou, o zaplacení částky 227.337,- Kč s příslušenstvím a o vzájemné žalobě na zaplacení 379.415,- Kč s příslušenstvím, vedené u Okresního soudu v Rakovníku pod sp. zn. 5 C 239/95, o dovolání žalobců proti rozsudku Krajského soudu v Praze ze dne 20. října 2005, č.j. 27 Co 383/2005-445, t a k t o :
+V dovolacím řízení bude pokračováno jako s účastnicemi řízení na straně žalovaného se S. W., a s nezletilou T. W., zastoupenou zákonnou zástupkyní S. W.
+O d ů v o d n ě n í :
+Okresní soud v Rakovníku (soud prvního stupně) rozsudkem ze dne 24. 3. 2005, č. j. 5 C 239/95-384, uložil žalovanému povinnost zaplatit žalobkyni a) částku 113.669,- Kč s16 % úrokem z prodlení od 1. 6. 1994 do zaplacení (výrok I.), dále stejnou platební povinnost uložil žalovanému vůči žalobci b) (výrok II.), vzájemnou žalobu, aby žalobcům byla uložena povinnost zaplatit žalovanému 379.415 Kč s 16 % úrokem z prodlení od 10. 10. 1995 do zaplacení, zamítl (výrok III.), výrokem IV. rozhodl,
+že „o nákladech řízení státu bude rozhodnuto samostatným usnesením“, a konečně žalovanému uložil povinnost zaplatit žalobkyni na nákladech řízení částku 45.121,- Kč k rukám advokátky (výrok V.).
+K odvolání žalovaného Krajský soud v Praze (odvolací soud) rozsudkem ze dne 20. 10. 2005, č. j. 27 Co 383/2005-445, rozsudek okresního soudu ve výrocích I. a II. změnil tak, že žalobu o povinnosti žalovaného zaplatit každému ze žalobců částku 113.669,- Kč s 16 % úrokem z prodlení od 1.6. 1994 zamítl, ve výroku III. rozsudek soudu prvního stupně změnil tak, že žalobci jsou povinni zaplatit žalovanému 379.415,- Kč s 16% úrokem z prodlení od 10. 10. 1995 do zaplacení do tří dnů od právní moci rozsudku, a zavázal žalobce také povinností v téže pariční lhůtě zaplatit žalovanému na nákladech řízení před soudy obou stupňů částku 186.957,- Kč.
+Proti rozsudku odvolacího soudu podali žalobci (zastoupeni advokátkou) včasné dovolání, které bylo podáno u okresního soudu dne 2. 2. 2006.
+Z úmrtního listu vystaveného Obecním úřadem ve Ztečně vyplývá, že žalovaný dne 24. 4. 2006, tedy v průběhu dovolacího řízení, zemřel.
+Podle § 19 o. s. ř. způsobilost být účastníkem řízení má ten, kdo má způsobilost mít práva a povinnosti; jinak jen ten, komu ji zákon přiznává. Podle § 7 zákona
+č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů (dále jen „obč. zák.“), způsobilost fyzické osoby mít práva a povinnosti vzniká narozením (má ji i počaté dítě, narodí-li se živé) a zaniká smrtí. Podle § 107 odst. 1 o. s. ř. jestliže účastník ztratí
+po zahájení řízení způsobilost být účastníkem řízení dříve, než řízení bylo pravomocně skončeno, posoudí soud podle povahy věci, zda v řízení může pokračovat. Není-li možné v řízení ihned pokračovat, soud řízení přeruší. O tom, s kým bude v řízení pokračováno, soud rozhodne usnesením. Podle § 107 odst. 2 o. s. ř. ztratí-li způsobilost být účastníkem řízení fyzická osoba a umožňuje-li povaha věci pokračovat v řízení, jsou procesním nástupcem, nestanoví-li zákon jinak, její dědici, popřípadě ti z nich, kteří podle výsledků dědického řízení převzali právo nebo povinnost, o něž v řízení jde. Podle § 107 odst. 4 o. s. ř. ten, kdo nastupuje do řízení na místo dosavadního účastníka řízení, musí přijmout stav řízení, jaký tu je v době jeho nástupu do řízení. Podle
+§ 243c odst. 1 o. s. ř. pro řízení u dovolacího soudu platí přiměřeně ustanovení o řízení před soudem prvního stupně, pokud není stanoveno něco jiného; ustanovení § 92 a § 95 až 99 a § 107a však pro řízení u dovolacího soudu neplatí.
+Z připojeného spisu Okresního soudu v Rakovníku sp. zn. 26 D 288/2006 Nejvyšší soud České republiky zjistil, že dědičkami žalovaného jsou jeho pozůstalé dcery S. W. a nezl. T. W., které dědictví neodmítly.
+S ohledem na povahu věci a s přihlédnutím k majetku zůstavitele, jak vyplývá z cit. dědického spisu, proto Nejvyšší soud České republiky jako soud dovolací (§ 10a
+o. s. ř.) rozhodl, že v dovolacím řízení bude pokračováno jako s účastnicemi řízení
+na straně žalovaného s jeho dědičkami S. W. a nezl. T. W. (§ 107 odst. 1 ve spojení s ustanovením § 107 odst. 2 a 4 a § 243c odst. 1 o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 21. května 2009
+JUDr. Karel P o d o l k a , v. r.
+předseda senátu
