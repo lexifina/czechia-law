@@ -1,0 +1,22 @@
+11 Td 27/2009
+U S N E S E N Í
+Nejvyšší soud v trestní věci obviněného J. J., projednal v neveřejném zasedání konaném dne 26. května 2009 návrh na odnětí a přikázání věci podle § 25 tr. řádu a rozhodl t a k t o :
+Podle § 25 tr. řádu s e trestní věc obviněného J. J. vedená u Okresního soudu ve Zlíně pod sp. zn. 31 T 96/2009 tomuto soudu o d n í m á a p ř i k a z u j e s e k projednání Okresnímu soudu v Chomutově.
+O d ů v o d n ě n í :
+Státní zástupkyně Okresního státního zastupitelství ve Zlíně podala dne 27. 4. 2009 Okresnímu soudu ve Zlíně obžalobu na obviněného J. J. pro trestný čin podvodu podle § 250 odst. 1 tr. zákona, kterého se měl dopustit tím, že na přesně nezjištěném místě v době od 12. 5. 2008 do 15. 5. 2008 v úmyslu sebe a jiného neoprávněně obohatit prostřednictvím telefonického kontaktu vylákal pod smyšleným jménem L. a s předstíranou záminkou možnosti zajištění půjčky ve výši 1.000.000,- Kč od M. S. dobití kreditů různých telefonních čísel, a to:
+1. dne 12. 5. 2008 dobití kreditu účastnického čísla ... částkou 2.000,- Kč prostřednictvím terminálu na Čerpací stanici S. – H.,
+2. dne 13. 5. 2008 dobití kreditu účastnického čísla ... částkou 1.200,- Kč prostřednictvím terminálu na Čerpací stanici S. – H.,
+3. dne 13. 5. 2008 nákup poukázky na hovorné ve výši 800,- Kč v prodejně J. E. s. r. o. ve S.,
+4. dne 14. 5. 2008 dobití kreditů účastnických čísel ... částkami 2.500, Kč, 1.000,- Kč a 400,- Kč, čísla ... částkou 1.000,- Kč a čísla ... částkou 400,- Kč – vše prostřednictvím terminálu Č., a. s. ve S.,
+5. dne 14. 5. 2008 nákup poukázky na hovorné ve výši 1.200,- Kč v prodejně J. E. s. r. o. ve S.,
+6. dne 15. 5. 2008 nákup poukázky na hovorné ve výši 400,- Kč v prodejně J. E. s. r. o. ve S.,
+ačkoli od samého počátku nechtěl a ani nebylo v jeho možnostech přislíbenou půjčku ve výši 1.000.000,- Kč poskytnout, následně se pro M. S., po vylákání uvedených finančních částek stal nekontaktním a způsobil mu tak škodu v celkové výši 10.900,- Kč.
+Podáním ze dne 30. 4. 2009 navrhl samosoudce Okresního soudu ve Zlíně podle § 25 tr. řádu odnětí trestní věci obviněného J. J. Okresnímu soudu ve Zlíně a její přikázání Okresnímu soudu v Chomutově s tím, že ze spisového materiálu je zřejmé, že obviněný a další svědkové, které bude třeba u soudu vyslechnout bydlí v Ch. nebo v jeho blízkém okolí. Pouze poškozený bydlí v okrese Z. Podle názoru soudu by bylo z důvodu hospodárnosti a urychlení řízení vhodné, aby trestní věc obviněného J. J. projednal a rozhodl Okresní soud v Chomutově, v jehož obvodu bydlí obviněný a převážná většina svědků, které bude třeba ve věci vyslechnout.
+Nejvyšší soud podle § 25 tr. řádu zhodnotil předložený návrh a dospěl k následujícímu závěru.
+Podle § 25 tr. řádu může být věc z důležitých důvodů odňata příslušnému soudu a přikázána jinému soudu téhož druhu a stupně. Pojem „důležité důvody“ sice není v zákoně blíže definován, ale je nepochybné, že se musí jednat o skutečnosti, jež budou svoji povahou výjimečné, neboť ustanovení § 25 tr. řádu, dle něhož lze v určitých případech věc delegovat k jinému soudu, je zákonným průlomem do zásady, že nikdo nesmí být odňat svému zákonnému soudci, vyjádřené v čl. 38 odst. 1 Listiny základních práv a svobod. Důvody pro odnětí věci příslušnému soudu a její přikázání jinému soudu musí být natolik významné, aby dostatečně odůvodňovaly průlom do výše citovaného ústavního principu.
+V projednávané věci existují důležité důvody k odnětí věci místně příslušnému soudu a jejímu přikázání jinému soudu téhož druhu a stupně. Obviněný, stejně jako další svědci, které bude třeba v průběhu řízení před soudem vyslechnout, bydlí v obvodu Okresního soudu v Chomutově nebo v jeho blízkosti. S ohledem na vzdálenost Okresního soudu ve Zlíně, kam trestní věc obviněného v souladu s § 18 tr. řádu napadla, od bydliště obviněného a svědků, se jeví vhodné místní příslušnost soudu změnit. Projednání trestní věci obviněného J. J. u Okresního soudu v Chomutově, by mělo vést ke značnému urychlení řízení a hospodárnějšímu procesu. Z uvedených důvodů je v souladu s ustanovením § 25 tr. řádu, aby trestní věc obviněného J. J. projednal a rozhodl Okresní soud v Chomutově.
+Za tohoto stavu lze považovat návrh samosoudce Okresního soudu ve Zlíně na odnětí a přikázání věci podle § 25 tr. řádu za důvodný, a proto bylo rozhodnuto, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 26. května 2009
+Předseda senátu:
+JUDr. Pavel Kučera
