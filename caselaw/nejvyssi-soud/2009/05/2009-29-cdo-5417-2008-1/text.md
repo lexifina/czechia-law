@@ -1,0 +1,16 @@
+29 Cdo 5417/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Krčmáře a soudců Mgr. Filipa Cilečka a JUDr. Petra Gemmela ve věci žalobce Z. B., zastoupeného JUDr. P. W. Ph. D., advokátem, proti žalovanému JUDr. V. M., advokátovi, jako správci konkursní podstaty úpadkyně D. P. a. s. v likvidaci, zastoupenému JUDr. O. V., advokátem, o určení pravosti a pořadí pohledávky, vedené u Krajského soudu v Hradci Králové pod sp. zn. 43 Cm 247/98, o dovolání žalobce proti rozsudku Vrchního soudu v Praze ze dne 22. května 2008, č. j. 15 Cmo 83/2008-337, takto:
+I. Dovolání se odmítá.
+II. Žalobce je povinen zaplatit žalovanému na náhradu nákladů dovolacího řízení částku 2.550,- Kč, do tří dnů od právní moci tohoto usnesení, k rukám jeho zástupce.
+O d ů v o d n ě n í :
+Dovolání žalobce proti v záhlaví označenému rozsudku, jímž Vrchní soud v Praze potvrdil rozsudek Krajského soudu v Hradci Králové ze dne 13. prosince 2007, č. j. 43 Cm 247/98-308, o zamítnutí jeho žaloby o určení pravosti a pořadí jeho pohledávky za úpadkyní v celkové výši 365.888,60 Kč (z toho 243.046,60 Kč v první třídě a 133.842,- Kč v druhé třídě pohledávek), Nejvyšší soud odmítl podle § 243b odst. 5 a § 218 písm. c/ zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), jako nepřípustné.
+Dovolací argumentace, již dovolatel výslovně nepřipíná k žádnému z dovolacích důvodů, je polemikou se skutkovým závěrem odvolacího soudu, podle něhož nemoc žalobce není nemocí z povolání. Námitky, že soudní znalci vycházeli z „neúplné a zcela jistě zkreslené a starší zdravotní dokumentace“, že soud měl vyslechnout ošetřujícího lékaře žalobce a že žalobci je odpírána možnost prokázat, že trpí nemocí z povolání, jsou argumentací, jež se pojí s dovolacím důvodem dle § 241a odst. 3 o. s. ř., který dovolatel u dovolání, jež může být přípustné jen podle § 237 odst. 1 písm. c/ o. s. ř., nemá k dispozici.
+Otázka položená dovolatelem – „zda soud může odmítnout provedení dalších důkazů k vyvrácení znaleckých posudků“ – je výslovně zodpovězena ustanovením § 120 odst. 1 věty druhé o. s. ř. O otázku zásadního právního významu proto nejde.
+Důvod připustit dovolání podle § 237 odst. 1 písm. c/ o. s. ř. proto Nejvyšší soud neměl a podle jiných ustanovení občanského soudního řádu přípustné být nemůže.
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalobce bylo odmítnuto a žalovanému vzniklo právo na náhradu nákladů dovolacího řízení. Náklady žalovaného sestávají z paušální sazby odměny advokáta za řízení v jednom stupni (za dovolací řízení) určené podle ustanovení § 8, § 10 odst. 3, § 14 odst. 1, § 15 a § 18 odst. 1 vyhlášky č. 484/2000 Sb. (ve znění pozdějších předpisů) ve výši 2.250,- Kč a z paušální částky náhrady hotových výdajů ve výši 300,- Kč za jeden úkon právní služby (vyjádření k dovolání) podle ustanovení § 13 odst. 3 vyhlášky č. 177/1996 Sb. (ve znění pozdějších předpisů), a celkem činí 2.550,- Kč.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+Nesplní-li povinný dobrovolně, co jí ukládá vykonatelné rozhodnutí, může se oprávněný domáhat výkonu rozhodnutí.
+V Brně dne 28. května 2009
+JUDr. Zdeněk K r č m á ř
+předseda senátu
