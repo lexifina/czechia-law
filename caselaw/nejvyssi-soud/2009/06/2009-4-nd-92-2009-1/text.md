@@ -1,0 +1,21 @@
+4 Nd 92/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy senátu JUDr. Františka Hrabce a soudců JUDr. Danuše Novotné a JUDr. Petra Šabaty ve věci Č. k. p. , zastoupena Mgr. R. L. , advokátem, proti žalovaným : 1) P. Š. , a 2) R. V. , zastoupen JUDr. K. H. , pro zaplacení 160.919,- Kč s přísl., o odvolání žalovaného č. 2 do výroku č. II. rozsudku odvolacího Krajského soudu v Ústí nad Labem, ze dne 12. 12. 2007, vydaného pod č. j. 12 Co 430/2005-89, vedeno u Okresního soudu v Mostě pod sp. zn. 11 C 626/2004 t a k t o :
+I. Řízení o odvolání žalovaného č. 2 do výroku č. II. rozsudku odvolacího Krajského soudu v Ústí nad Labem, ze dne 12. 12. 2007, vydaného pod č. j. 12 Co 430/2005-89, s e z a s t a v u j e .
+II. Žalovaný č. 2 nemá právo na náhradu nákladů řízení.
+O d ů v o d n ě n í :
+Okresní soud v Mostě předložil Nejvyššímu soudu shora označenou věc k rozhodnutí podle § 104 odst. 1 o. s. ř. pro nedostatek funkční příslušnosti, neboť proti rozhodnutí krajského soudu jako soudu odvolacího není přípustný žádný opravný prostředek a proto není dána příslušnost žádného soudu k rozhodnutí o odvolání.
+Z předmětného podání plyne, že Krajský soud v Ústí nad Labem jakožto soud odvolací rozhodl v odvolacím řízení rozsudkem ze dne 12. 12. 2007, č. j. 12 Co 430/2005 89 ve výroku č. II. tak, že žalobce je povinen zaplatit druhému žalovanému na nákladech odvolacího řízení částku 10.570,- Kč do tří dnů od právní moci tohoto rozsudku k rukám zástupkyně druhého žalovaného.
+Proti tomuto výroku č. II. vydaném v odvolacím řízení podal žalovaný č. 2 prostřednictvím svého právního zástupce odvolání, ve kterém namítl nesprávné určení odměny právního zástupce. Dané odvolání bylo odvolatelem-žalovaným č. 2 podáno ke Krajskému soudu v Ústí nad Labem, který jej zaslal nalézacímu soudu ke spisovému materiálu. Nalézací Okresní soud v Mostě jej předložil Nejvyššímu soudu k rozhodnutí podle § 104 odst. 1 o. s. ř.
+Podle § 103 o. s. ř. kdykoli za řízení přihlíží soud k tomu, zda jsou splněny podmínky, za nichž může rozhodnout ve věci samé (podmínky řízení).
+Podle § 201 o. s. ř. účastník může napadnout rozhodnutí okresního soudu nebo rozhodnutí krajského soudu vydané v řízení v prvním stupni odvoláním, pokud to zákon nevylučuje.
+Podle § 10 odst. 1 o. s. ř. krajské soudy rozhodují o odvoláních proti rozhodnutí okresních soudů. Podle odstavce 2 o odvoláních proti rozhodnutím krajských soudů jako soudů prvního stupně rozhoduje vrchní soud.
+Podle § 104 odst. 1 o. s. ř. jde-li o takový nedostatek podmínky řízení, který nelze odstranit, soud řízení zastaví.
+Řízení o odvolání podaném proti rozhodnutí odvolacího soudu k Nejvyššímu soudu České republiky (nyní Vrchnímu soudu v Praze) /red. nyní Nejvyššímu soudu České republiky v Brně/, je třeba zastavit (§ 103 a § 104 odst. 1 o. s. ř.) pro nedostatek funkční příslušnosti. (B sešit 3/1994 č. 14 in.: Bureš, Drápal, Krčmář a kol. Občanský soudní řád, komentář – I. díl, 7. vyd., str. 457).
+Nejvyšší soud jako vrcholný článek soustavy obecných soudů a jako soud, který je funkčně příslušný k rozhodování o opravném prostředku proti rozhodnutím odvolacích soudů, je příslušný i k rozhodnutí o zastavení řízení, jestliže proti rozhodnutí odvolacího soudu bylo podáno „odvolání“. (Sj 85/2001 in.: Bureš, Drápal, Krčmář a kol. Občanský soudní řád, komentář – I. díl, 7. vyd., str. 457).
+Nejvyšší soud po přezkoumání věci s ohledem na výše citovaná ustanovení zákona dospěl k závěru, že k řízení o předmětném odvolání proti rozhodnutí odvolacího soudu není podle § 10 o. s. ř. funkčně příslušný Vrchní soud z Praze, jemuž bylo podání adresováno, ani jiný soud. Nedostatek funkční příslušnosti je neodstranitelným nedostatkem podmínky řízení. Nejvyšší soud proto řízení o odvolání proti výroku II. předmětného rozsudku odvolacího Krajského soudu v Ústí nad Labem zastavil (§ 104 odst. 1 věta prvá o. s. ř.).
+O náhradě nákladů řízení bylo rozhodnuto podle § 151 odst. 1 části věty před středníkem o. s. ř., neboť navrhovatel – žalovaný č. 2 podle § 146 odst. 1 písm. c) o. s. ř. na náhradu nákladů řízení nemá právo.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 11. června 2009
+Předseda senátu:
+JUDr. František H r a b e c
