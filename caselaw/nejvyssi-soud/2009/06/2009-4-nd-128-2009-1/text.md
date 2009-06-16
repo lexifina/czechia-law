@@ -1,0 +1,18 @@
+4 Nd 128/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl jako soud společně nejblíže nadřízený v senátu složeném z předsedy senátu JUDr. Františka Hrabce a soudců JUDr. Danuše Novotné a JUDr.Jiřího Pácala ve věci žalobce: J. K.,bytem Třinec-Staré Město 1,Čapkova 689, zastoupen JUDr. M. J., advokátem,proti žalovanému: J. E., bytem Třinec-Lyžbice, Jablunkovská 464,o vydání věci, vedeno u Okresního soudu ve Frýdku-Místku pod sp. zn. 11 C 29/2008, o návrhu na přikázání věci podle § 12 odst. 2 o. s. ř. t a k t o :
+Věc vedená u Okresního soudu ve Frýdku-Místku pod sp. zn. 11 C 29/2008 s e n e p ř i k a z u j e k projednání a rozhodnutí Městskému soudu v Praze či některému z obvodních soudů v Praze.
+O d ů v o d n ě n í :
+Okresní soud ve Frýdku-Místku předložil podle ustanovení § 12 odst. 3 o. s. ř. Nejvyššímu soudu návrh žalobce,aby věc,která je u tohoto soudu vedena pod sp. zn. 11 C 29/2008, byla přikázána Městskému soudu v Praze či některému z obvodních soudů v Praze.
+Návrh žalobce odůvodnil tím,že na základě dlouhodobého neřešení jeho žádosti č. 10122003/JK/03 ze dne 30. 3. 2003 se rozhodl přeložit všechny žaloby z dotčeného soudu na Městský soud v Praze. Dále tím, že Krajský soud v Ostravě (k němuž byla věc původně podána)rozdělil neoprávněně žaloby na dlužníky žalobce, včetně žalovaného J. E., takže v současnosti probíhají desítky samostatných sporů, což žalobci velmi ztěžuje činnost, když vznikají zbytečné náklady řízení a snižuje se úspěšnost žalobce v těchto sporech. Považuje za vhodné a účelné, aby o všech nárocích rozhodoval Městský soud v Praze či některý z obvodních soudů v Praze.
+Žalovaný se k návrhu na delegaci nevyjádřil.
+Nejvyšší soud jako soud nejblíže společně nadřízený příslušnému soudu a soudu, jemuž má být věc přikázána, přezkoumal podaný návrh a shledal, že v posuzovaném případě nejsou splněny zákonné podmínky na přikázání věci.
+Podle § 12 odst. 2 o. s. ř. může být jinému soudu téhož stupně věc přikázána z důvodu vhodnosti.
+Tyto důvody vhodnosti musí být takové povahy, aby z nich jednoznačně plynulo, že jiným než příslušným soudem bude věc projednána rychleji a hospodárněji. Při posuzování podmínek delegace věci a podmínek vhodnosti má pak zásadní význam i stanovisko účastníků řízení. Nelze rovněž nezdůraznit, že postup podle § 12 odst. 2 o. s. ř. je výjimkou ze zásady, že řízení koná soud, jehož příslušnost je určena zákonem a kterou je právě proto, že jde o výjimku, nutno vykládat restriktivně.
+Z tohoto důvodu se musí skutečnosti, které jsou podkladem pro delegaci, vyznačovat určitou mimořádností. Okolnosti uváděné navrhovatelem delegace, tj. že jeho žaloby byly rozděleny na samostatné soudní spory (což je procesní oprávnění soudu) a že nebyla k datu podání delegačního návrhu vyřešena žalobcem označená žádost, nejsou natolik výjimečné, aby v nich bylo možno bez dalšího spatřovat důvod pro přikázání věci. Zároveň je nutno podotknout, že návrh žalobce je zatížen vadou, neboť není možné věc přikázat soudu instančně nadřízenému (Městský soud v Praze), přičemž v návrhu není určen konkrétní soud stejné instance, jako soud příslušný, tj. některý z obvodních soudů v Praze.
+Dále také nelze pominout, že ve věci nelze s ohledem na výzvu k vyjádření prezumovat souhlas žalovaného. Taktéž požadavek na hospodárnější řízení, pokud by bylo konáno u navrhovaného soudu, by v daném případě nebyl splněn s ohledem na skutečnost, že Okresní soud ve Frýdku-Místku je s věcí již obeznámen.
+Nejvyšší soud proto rozhodl, jak je uvedeno ve výroku tohoto usnesení.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 16. června 2009
+Předseda senátu:
+JUDr. František H r a b e c
