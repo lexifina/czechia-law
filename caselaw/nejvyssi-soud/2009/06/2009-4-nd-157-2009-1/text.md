@@ -1,0 +1,23 @@
+4 Nd 157/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy senátu JUDr. Františka Hrabce a soudců JUDr. Danuše Novotné a JUDr. Jiřího Pácala ve věci žalobkyně: Č. i. k. , a. s. , zastoupena JUDr. R. M. , proti žalovanému: J. N. , o 13.838,50 Kč s přísl., vedeno u Okresního soudu v Rakovníku pod sp. zn. 9 C 212/2008, o určení místní příslušnosti podle § 11 odst. 3 o. s. ř. t a k t o :
+Určuje se, že věc projedná a rozhodne Okresní soud v Blansku.
+O d ů v o d n ě n í :
+Okresní soud v Rakovníku předložil Nejvyššímu soudu shora označenou věc k rozhodnutí podle § 11 odst. 3 o. s. ř. o tom, který soud věc projedná a rozhodne, neboť podmínky místní příslušnosti, podle nichž by bylo možno určit příslušný soud, chybějí nebo je nelze zjistit.
+Podle ustanovení § 85 odst. 1 o. s. ř. je obecným soudem fyzické osoby okresní soud, v jehož obvodu má bydliště a nemá-li bydliště, okresní soud, v jehož obvodu se zdržuje. Bydlištěm se rozumí místo pobytu fyzické osoby, ve kterém se zdržuje s úmyslem se tam zdržovat trvale. Jestliže bydliště nelze tímto způsobem určit, je jejím obecným soudem okresní soud, v jehož obvodu se zdržuje v době zahájení řízení (Bureš, Drápal, Krčmář a kol. Občanský soudní řád, komentář 1. díl, 7. vyd. C. H. Beck 2006, str. 378).
+Z předloženého spisu vyplývá, že návrh na zahájení řízení byl podán u Okresního soudu v Rakovníku, přitom jako bydliště žalovaného bylo v návrhu uvedeno D. , L. Okresní soud v Rakovníku usnesením ze dne 11. 3. 2009, sp. zn. 9 C 212/2008 (čl. 45) vyslovil podle § 105 odst. 2 o. s. ř. svou místní nepříslušnost a věc předložil Nejvyššímu soudu k rozhodnutí podle § 11 odst. 3 o. s. ř.
+Z listin obsažených ve spise plynou následující skutečnosti.
+Žalovanému bylo doručováno na adresu uvedenou v návrhu na zahájení řízení, avšak bezvýsledně. Dané bydliště žalovaný uváděl na listinách sepsaných mezi ním a žalobcem v roce 2005. Podle sdělení úřadu města L. se žalovaný na uvedené adrese nezdržuje (č. l. 26). Tutéž informaci soudu sdělila matka žalovaného (č. l. 30), která uvedla, že žalovaný se v místě trvalého pobytu nezdržuje a místo jeho pobytu jí není známo. Dále uvedla, že žalovaný se v roce 2006 oženil a jeho manželka údajně pochází z obce M. na M.
+Rovněž na adresu v obci M. , tj. M. bylo žalovanému doručováno bezvýsledně. Podle sdělení obecního úřadu M. se žalovaný na dané adrese nezdržuje a není zde ani hlášen (č. l. 35).
+V centrální evidenci obyvatel má žalovaný zapsán platný trvalý pobyt na adrese L. , D. , okres B. –v.
+Z výše uváděného vyplývá, že místo, které je vedeno v centrální evidenci obyvatel jako adresa trvalého pobytu žalovaného, není bydlištěm žalovaného ve smyslu § 85 odst. 1 o. s. ř.
+Zároveň nebylo prokázáno, kde se žalovaný zdržoval v době zahájení řízení. Lze tak konstatovat, že místo jeho bydliště ani místo jeho faktického pobytu v době zahájení řízení u Okresního soudu v Rakovníku není známo.
+Podle § 11 odst. 3 o. s. ř., jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne. Pravomoc soudů ČR k rozhodnutí v uvedené věci vyplývá z ustanovení § 7 odst. 1 zákona č. 99/1963 Sb., občanský soudní řád v platném znění.
+Podle § 10 odst. 5 zákona č. 133/2000 Sb., o evidenci obyvatel, v platném znění, změnu místa trvalého pobytu občan ohlásí ohlašovně v místě nového trvalého pobytu.
+Podle § 10 odst. 6 písm. c) zákona o evidenci obyvatel je občan povinen při ohlášení změny místa trvalého pobytu orgánu příslušnému k provedení změny v evidenci doložit vlastnictví bytu nebo domu, nebo doložit oprávněnost užívání bytu, anebo předložit úředně ověřené písemné potvrzení oprávněné osoby o souhlasu s ohlášením změny místa trvalého pobytu. V opačném případě by nemohlo dojít k zaevidování, neboť by občan nesplnil zákonné podmínky pro provedení tohoto správního úkonu.
+Z výše uváděného lze dovodit vztah žalovaného k obci L. , která je podle přílohy č. 3 zákona č. 6/2002 Sb., o soudech a soudcích zařazena do soudního obvodu Okresního soudu v Blansku. Za daného stavu věci, kdy nejsou známa jiná relevantní kriteria, se jeví jako odpovídající rozumnému uspořádání vztahu, aby věc projednal a rozhodl Okresní soud v Blansku.
+Při určení místně příslušného soudu vycházel Nejvyšší soud především z výše uvedených hledisek a proto podle § 11 odst. 3 o. s. ř. určil, že místně příslušným k projednání a rozhodnutí věci je jmenovaný soud.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 24. června 2009
+Předseda senátu:
+JUDr. František Hrabec
