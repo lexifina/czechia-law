@@ -1,0 +1,12 @@
+21 Cdo 3241/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Romana Fialy a soudců JUDr. Ljubomíra Drápala a JUDr. Mojmíra Putny v právní věci žalobkyně H. M., zastoupené advokátem, proti žalovaným 1) JUDr. P. M., 2) Č. s., a.s., o určení, že nemovitosti nejsou zatíženy zástavním právem, vedené u Okresního soudu v Chebu pod sp. zn. 11 C 232/2007, o dovolání žalobkyně proti rozsudku Krajského soudu v Plzni ze dne 31. ledna 2008, č. j. 56 Co 681/2007-55, takto:
+I. Dovolání žalobkyně se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů řízení.
+Stručné odůvodnění (§ 243c odst. 2 o.s.ř.):
+Dovolání žalobkyně proti rozsudku Krajského soudu v Plzni ze dne 31.1.2008, č. j. 56 Co 681/2007-55, kterým byl potvrzen rozsudek Okresního soudu v Chebu ze dne 24.10.2007, č. j. 11 C 232/2007-40, ve věci samé, není přípustné podle ustanovení § 237 odst. 1 písm. b) o.s.ř. a nebylo shledáno přípustným ani podle ustanovení § 237 odst. 1 písm. c) o.s.ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou judikaturou soudů (srov. např. Zhodnocení Nejvyššího soudu SSR ze dne 22.5.1985, sp. zn. Cpj 13/85, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod č. 50, ročník 1985; rozsudek Nejvyššího soudu ČR ze dne 29.1.1997, sp. zn. 2 Cdon 130/96, uveřejněný v časopise Právní rozhledy pod č. 4, ročník 1998; rozsudek Nejvyššího soudu ČR ze dne 10.10.2001, sp. zn. 22 Cdo 2474/2000, uveřejněný v časopise Soudní rozhledy pod č. 1, ročník 2002; rozsudek Nejvyššího soudu ČR ze dne 15.2.2007, sp. zn. 21 Cdo 948/2006, uveřejněný ve Sbírce soudních rozhodnutí a stanovisek pod č. 97, ročník 2007; Zpráva Nejvyššího soudu ČSR ze dne 28.3.1975, sp. zn. Cpj 34/74, uveřejněná ve Sbírce soudních rozhodnutí a stanovisek pod č. 26, ročník 1975; rozsudek Nejvyššího soudu ČR ze dne 23.1.2003, sp. zn. 29 Odo 565/2001, uveřejněný ve Sbírce soudních rozhodnutí a stanovisek pod č. 27, ročník 2004) a nemá tedy po právní stránce zásadní význam. Nejvyšší soud proto dovolání žalobkyně podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o.s.ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 části věty před středníkem o.s.ř., neboť žalobkyně s ohledem na výsledek řízení nemá na náhradu svých nákladů právo a žalovaným v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 24. června 2009
+JUDr. Roman Fiala, v. r.
+předseda senátu
