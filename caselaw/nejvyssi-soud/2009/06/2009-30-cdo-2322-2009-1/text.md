@@ -1,0 +1,16 @@
+30 Cdo 2322/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Olgy Puškinové a soudců JUDr. Karla Podolky a JUDr. Pavla Pavlíka ve věci péče o nezletilou V. P., zastoupenou kolizním opatrovníkem Městským úřadem v B., matky D. Ž., a otce J. B., o úpravu výchovy a výživy, vedené u Okresního soudu v Břeclavi pod sp. zn. 0 P 154/2006, 12 P a Nc 234/2006, o dovolání otce proti rozsudku Krajského soudu v Brně ze dne 12. června 2008, č. j. 14 Co 332/2008-107, takto:
+Dovolání se odmítá.
+Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.):
+Okresní soud v Břeclavi rozsudkem ze dne 27. 9. 2006, č. j. 0 P 154/2006, 12 P a Nc 234/2006-43, svěřil nezl. V. do výchovy matce, určil, že otci se výživné s účinností od 10. 12. 2005 do 31. 1. 2006 nestanoví, s účinností od 1. 2. 2006 do 9. 4. 2006 je povinen přispívat na výživu nezl. V. výživným ve výši 500,- Kč měsíčně, splatným vždy do každého 15. dne v měsíci předem k rukám matky, od 10. 4. 2006 do 31. 8. 2006 se otci výživné pro nezl. V. nestanoví, s účinností od 1. 9. 2006 je povinen přispívat na její výživu částkou 1.000,- Kč měsíčně, splatnou vždy do každého 15. dne v měsíci předem k rukám matky, dále určil, že dlužné výživné pro nezl. V. za dobu od 10. 12. 2005 do 30. 9. 2006 nevzniklo a rozhodl o náhradě nákladů řízení.
+K odvolání otce Krajský soud v Brně rozsudkem ze dne 12. 6. 2008, č. j. 14 Co 332/2008-107, rozsudek soudu prvního stupně (kromě nenapadeného výroku I.
+o svěření nezl. V. do péče matky) změnil tak, že otec je povinen přispívat na výživu nezletilé V. od 1. 4. 2007 do 31. 12. 2007 částkou 1.500,- Kč měsíčně a od 1. 1. 2008 do budoucna částkou 2.000,- Kč měsíčně splatnou do každého 5. dne v měsíci předem k rukám matky a nedoplatek na výživném za dobu od 1. 4. 2007 do 30. 6. 2008 ve výši 21.900,- Kč je otec povinen zaplatit do tří měsíců od doručení tohoto rozsudku k rukám matky, a dále rozhodl o náhradě nákladů řízení před soudy obou stupňů.
+V podání, jež je podle svého obsahu dovoláním, otec navrhl, aby dovolací soud rozsudek odvolacího soudu zrušil a „stanovil nové výživné“.
+Přípustnost dovolání proti rozsudku odvolacího soudu ve věci samé podle § 237 o. s. ř. není v posuzovaném případě dána, a to již proto, že otec dovoláním napadá rozsudek odvolacího soudu ve věci upravené zákonem o rodině (zákon č. 94/1963 Sb., o rodině, ve znění pozdějších předpisů), přičemž se nejedná o žádnou z výjimek uvedených v § 237 odst. 2 písm. b) o. s. ř. Dovolání sice v projednávané věci není sepsáno advokátem, přičemž dovolatel ani netvrdí, že by měl právnické vzdělání, avšak vzhledem k tomu, že dovolání není přípustné, není nedostatek podmínky povinného zastoupení důvodem pro postup podle § 104 odst. 2 o. s. ř. a pro zastavení dovolacího řízení (§ 241b odst. 2 o. s. ř.). Nejvyšší soud ČR proto dovolání otce směřující proti tomuto rozsudku podle § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 o. s. ř., neboť účastníkům v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 24. června 2009
+JUDr. Olga Puškinová, v. r.
+předsedkyně senátu
