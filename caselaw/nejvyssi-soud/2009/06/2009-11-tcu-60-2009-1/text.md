@@ -1,0 +1,15 @@
+11 Tcu 60/2009
+U S N E S E N Í
+Nejvyšší soud České republiky projednal žádost Slovenské republiky o povolení průvozu Š. H. a rozhodl v neveřejném zasedání dne 25. června 2009 podle § 422 tr. ř. t a k t o :
+Povoluje se p r ů v o z předávané osoby Š. H. územím České republiky do Slovenské republiky pro účely trestního stíhání pro přečin ublížení na zdraví podle § 157 odst. 1 trestního zákona Slovenské republiky.
+Po dobu průvozu bude předávaná osoba držena ve vazbě.
+O d ů v o d n ě n í :
+Ministerstvo spravedlnosti Slovenské republiky požádalo dne 24. června 2009 na základě čl. 25 Rámcového rozhodnutí Rady Evropské unie ze dne 13. června 2002, o evropském zatýkacím rozkazu a o předávání mezi členskými státy Evropské unie, o povolení průvozu slovenského státního občana Š. H. územím České republiky. Průvoz se má uskutečnit v rámci předání jmenovaného z Francouzské republiky do Slovenské republiky na základě evropského zatýkacího rozkazu vydaného dne 28. 4. 2009 Okresním soudem ve Spišské Nové Vsi k trestnímu stíhání pro přečin ublížení na zdraví podle § 157 odst. 1 trestního zákona Slovenské republiky, za který předávanému hrozí maximální trest odnětí svobody v trvání dvou roků, a to leteckou cestou s mezipřistáním v P. dne 1. července 2009.
+Uvedené trestné činnosti se měl předávaný dopustit v podstatě tím, že dne 2. září 2008 v 8.15 hod., na cestě ve směru na S. P. – Ž. v 61,800 km, v nepřehledné levotočivé zatáčce řídil osobní motorové vozidlo značky Fiat Brava, přičemž dostatečně nevěnoval pozornost situaci na cestě a v protisměrném pruhu začal objíždět při pravém okraji cesty jdoucí poškozenou M. P. a při vyhýbání se protijedoucímu motorovému vozidlu a zařazování se zpět do jízdního pruhu pravou přední částí vozidla do poškozené M. P. narazil a způsobil jí tak otevřenou tříštivou zlomeninu horního konce píšťaly s posunem úlomků zasahujících do kolenního kloubu vpravo, pohmoždění a krevní odřeninu před kolenem, zadní části pravé nohy a levého stehna, s dobou léčení čtyři až šest měsíců, po kterou byl závažně ovlivněn obvyklý způsob života poškozené.
+Nejvyšší soud České republiky projednal předloženou žádost z hlediska splnění právních podmínek a náležitostí vyžadovaných vnitrostátní úpravou (§ 422 tr. ř.). Zjistil, že v posuzovaném případě jde o předání z Francouzské republiky do Slovenské republiky za účelem trestního stíhání ve Slovenské republice. Z výpisu z centrální evidence obyvatel je pak zřejmé, že předávaná osoba není státním občanem České republiky a na jejím území nemá hlášen ani trvalý pobyt.
+Jelikož nebyly zjištěny žádné právní překážky, které by bránily povolení průvozu předávaného Š. H. územím České republiky pro účely jeho trestního stíhání ve Slovenské republice, tak Nejvyšší soud České republiky žádosti Slovenské republiky vyhověl.
+Zároveň rozhodl o nutném opatření omezujícím osobní svobodu vydávané osoby v době průvozu územím České republiky.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 25. června 2009
+Předseda senátu:
+JUDr. Antonín Draštík
