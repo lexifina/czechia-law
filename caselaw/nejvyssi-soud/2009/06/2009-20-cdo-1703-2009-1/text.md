@@ -1,0 +1,15 @@
+20 Cdo 1703/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudců JUDr. Miroslavy Jirmanové a JUDr. Vladimíra Mikuška v exekuční věci oprávněné T. O2 C. R., a.s., zastoupené advokátkou, proti povinnému J. K., pro 5.094,- Kč s příslušenstvím, vedené u Okresního soudu v Ostravě pod sp. zn. 51 Nc 10542/2005, o dovolání povinného proti usnesení Krajského soudu v Ostravě ze dne 28. 2. 2007, č. j. 9 Co 409/2006-33, takto:
+Dovolací řízení se zastavuje.
+Odůvodnění:
+Povinný napadl dovoláním v záhlaví uvedené rozhodnutí, kterým krajský soud odmítl jeho odvolání (§ 44 odst. 10 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů, dále jen „zákon č. 120/2001 Sb.“) proti usnesení ze dne 14. 10. 2005, č. j. 51 Nc 10542/2005-4, jímž okresní soud nařídil podle rozhodnutí Českého telekomunikačního úřadu, odboru pro severomoravskou oblast, ze dne 19. 4. 2004, č. j., k vymožení pohledávky ve výši 5.094,- Kč a pro náklady exekuce, které budou v průběhu řízení stanoveny, na majetek povinného exekuci, jejímž provedením pověřil Mgr. I. N., soudního exekutora.
+Je-li dovolatelem – jako v projednávaném případě – fyzická osoba, je nezbytné, aby (nemá-li právnické vzdělání) byla zastoupena advokátem (notářem), jímž musí být dovolání i sepsáno (srov. § 241 odst. 1, odst. 2 písm. a/ a odst. 4 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů, dále jen „o.s.ř.“).
+Při podání dovolání nebyl povinný zákonem stanoveným způsobem zastoupen a z obsahu spisu nevyplývá, že by měl právnické vzdělání.
+V reakci na usnesení ze dne 26. 4. 2007, č. j. 51 Nc 10542/2005-38, jímž jej soud prvního stupně vyzval k odstranění nedostatku povinného zastoupení, požádal dovolatel o osvobození od „soudních a exekučních poplatků“. Usnesením ze dne 9. 6. 2008, č. j. 51 Nc 10542/2005-70, soud prvního stupně přiznal povinnému osvobození od soudních poplatků v plném rozsahu. Usnesením ze dne 9. 6. 2008, č. j. 51 Nc 10542/2005-71, pak soud prvního stupně dovolatele opětovně vyzval, aby si ve lhůtě deseti dnů od doručení usnesení zvolil zmocněncem advokáta a jeho prostřednictvím podal řádné dovolání; současně jej poučil o následcích nevyhoví-li výzvě, jakož i o možnosti požádat soud o ustanovení zástupce z řad advokátů (§ 30 o.s.ř.). Na tuto výzvu, která mu byla doručena 23. 6. 2008, dovolatel nereagoval.
+Jelikož povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – vyjma usnesení, jímž se dovolací řízení právě pro jeho neodstranění zastavuje – vydání rozhodnutí, kterým se řízení končí (§ 241 o.s.ř.), a protože ke zhojení uvedeného nedostatku přes opatření soudu nedošlo, Nejvyšší soud dovolací řízení zastavil (§ 104 odst. 2, § 243c odst. 1 o.s.ř.).
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 30. června 2009
+JUDr. Pavel Krbek, v. r.
+předseda senátu
