@@ -1,0 +1,19 @@
+29 Cdo 810/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudců JUDr. Ivany Štenglové a Mgr. Jiřího Zavázala v právní věci žalobkyně E. T., spol. s r. o., zastoupené JUDr. V. V., advokátem, proti žalované Č. o. b., a. s., o zaplacení částky 527.300,- Kč s příslušenstvím, vedené u Městského soudu v Praze pod sp. zn. 8 Cm 127/2002, o dovolání žalobkyně proti rozsudku Vrchního soudu v Praze ze dne 20. února 2007, č. j. 9 Cmo 3/2006-65, ve znění opravného usnesení ze dne 29. listopadu 2007, č. j. 9 Cmo 3/2006-86, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Vrchní soud v Praze rozsudkem ze dne 20. února 2007, č. j. 9 Cmo 3/2006-65, ve znění opravného usnesení ze dne 29. listopadu 2007, č. j. 9 Cmo 3/2006-86, potvrdil rozsudek ze dne 8. června 2005, č. j. 8 Cm 127/2002-30, jímž Městský soud v Praze zamítl žalobu o zaplacení částky 527.300,- Kč s příslušenstvím.
+Odvolací soud - odkazuje na ustanovení čl. I § 11, § 14 odst. 1, § 39 odst. 3 a § 48 zákona č. 191/1950 Sb. (dále jen „směnečný zákon“) a na ustanovení § 373 obchodního zákoníku (dále jen „obch. zák.“) - uzavřel, že vyznačila-li žalovaná (jako majitelka) na směnku údaj, podle něhož směnečník na směnku v rozsahu částky 527.300,- Kč „plnil“, neučinila tak svévolně a neporušila žádné ustanovení směnečného zákona ani žádnou povinnost ze závazkového vztahu; nenese tak „odpovědnost za vznik případné škody“ právní předchůdkyni žalobkyně.
+Proti rozhodnutí odvolacího soudu podala žalobkyně dovolání, odkazujíc co do jeho přípustnosti na ustanovení § 237 odst. 1 písm. c) občanského soudního řádu (dále jen „o. s. ř.“) a co do důvodu na ustanovení § 241a odst. 2 a 3 o. s. ř.
+Dovolatelka popisuje důvod vystavení směnky, jakož i vztahy mezi ní (jako výstavcem směnky cizí), směnečníkem a žalovanou (její právní předchůdkyní), argumentujíc, že „banka neměla žádné oprávnění směnečný peníz na směnce snížit“. Učinila-li tak, došlo na straně žalobkyně ke škodě a na straně žalované k bezdůvodnému obohacení.
+Požaduje, aby Nejvyšší soud rozhodnutí odvolacího soudu zrušil a věc tomuto soudu vrátil k dalšímu řízení.
+Žalovaná považuje rozhodnutí odvolacího soudu za správné, ztotožňujíc se s jeho závěrem, že „plnění“ směnečníka v rozsahu částky 572.300,- Kč „bylo částečným plněním na směnku“.
+Dovolání žalobkyně proti potvrzujícímu výroku rozsudku odvolacího soudu ve věci samé, které není přípustné podle ustanovení § 237 odst. 1 písm. b) o. s. ř., Nejvyšší soud neshledal přípustným ani podle ustanovení § 237 odst. 1 písm. c) o. s. ř.; proto je podle ustanovení § 243b odst. 5 a § 218 písm. c) o. s. ř. odmítl.
+Učinil tak proto, že právní posouzení věci odvolacím soudem, podle něhož žalovaná postupovala v souladu s ustanovení čl. I § 39 směnečného zákona (a vyznačením částečné úhrady na směnku neporušila povinnost ze závazkového vztahu popř. povinnost stanovenou směnečným zákonem), vychází z předpokladu, že směnečník „plnil“ svou povinnost ze směnky. Posouzení správnosti uvedeného předpokladu přitom postrádá potřebný judikatorní přesah, když je významné právě a jen pro projednávanou věc (srov. např. důvody rozhodnutí uveřejněného pod číslem 48/2006 Sbírky soudních rozhodnutí a stanovisek), přičemž řešení této předběžné otázky odvolacím soudem Nejvyšší soud neshledává ani rozporným s hmotným právem (z obsahu spisu nevyplývá, že by žalovaná měla za směnečníkem jinou pohledávku, než pohledávku ze směnky).
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalobkyně bylo odmítnuto a žalované podle obsahu spisu v dovolacím řízení náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 30. června 2009
+JUDr. Petr G e m m e l
+předseda senátu
