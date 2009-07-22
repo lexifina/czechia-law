@@ -1,0 +1,18 @@
+25 Cdo 779/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Roberta Waltra a soudců JUDr. Marty Škárové a JUDr. Petra Vojtka ve věci žalobce P. P., proti žalovaným 1) České republice – Ministerstvu spravedlnosti, – 2) České republice –Ministerstvu vnitra, 3) F. H., 4) J. L., 5) P. Š., 6) E. J., 7) J. P. 8) M. Š. 9) B. S., 10) Š. V., 11) I. H., 12) T. H., 13) J. K., 14) J. V., 15) „E. L., 16) V. M., 17) M. Č., 18) J. Z., 19) J. H., 20) O. Č., 21) Z. Š., o 1 000 000,- Kč, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 13 C 76/2006, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 21. 2. 2007, č.j. 53 Co 8/2007-37, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Praze usnesením ze dne 21. 2. 2007, č.j. 53 Co 8/2007-37, potvrdil usnesení Obvodního soudu pro Prahu 2 ze dne 24. 11. 2006, č.j. 13 C 76/2006-29, kterým bylo odmítnuto podání žalobce ze dne 9. 5. 2006, došlé soudu dne 10. 5. 2006, a rozhodnuto o náhradě nákladů řízení; odvolací soud současně rozhodl o nákladech odvolacího řízení.
+Proti tomuto usnesení Městského soudu v Praze podal žalobce dovolání, v němž podle § 30 o.s.ř. požádal o ustanovení „advokáta ex offo“.
+Nejvyšší soud jako soud dovolací (§ 10a o.s.ř.) po zjištění, že dovolání bylo podáno včas, oprávněnou osobou – účastníkem řízení (§ 240 odst. 1 o.s.ř.), shledal, že nejsou splněny podmínky pro jeho projednání.
+Podle § 241 odst. 1, odst. 2 písm. a), odst. 4 o.s.ř. je-li dovolatel fyzickou osobou, musí být v dovolacím řízení zastoupen advokátem nebo (v rozsahu oprávnění stanoveného notářským řádem) notářem, který dovolání také sepíše; to neplatí, má-li takový dovolatel právnické vzdělání [§ 241 odst. 2 písm. a) o.s.ř.].
+Ustanovení § 241 o.s.ř. představuje zvláštní podmínku dovolacího řízení; její nedostatek však lze odstranit. Za této situace soud postupuje obdobně podle § 104 odst. 2 o.s.ř. (§ 241b odst. 2 o.s.ř.) a učiní vhodná opatření k odstranění tohoto nedostatku. Nezdaří-li se uvedený nedostatek odstranit, dovolací řízení musí být zastaveno.
+V posuzované věci Obvodní soud pro Prahu 2 usnesením ze dne 28. 11. 2007, č.j. 13 C 76/2006-57, zamítl návrh žalobce na ustanovení zástupce z řad advokátů. K odvolání žalobce Městský soud v Praze usnesením ze dne 30. 4. 2008, č.j. 53 Co 192, 193/2008-99, uvedené usnesení obvodního soudu potvrdil. Následně soud prvního stupně usnesením ze dne 23. 7. 2008, č.j. 13 C 76/2006-119, dovolatele vyzval, aby si zvolil advokáta pro zastupování v dovolacím řízení a aby do 15 dnů od doručení tohoto usnesení soudu předložil plnou moc udělenou tomuto advokátovi a jím sepsané dovolání; dovolatele zároveň poučil, že jinak bude dovolací řízení zastaveno. Na toto usnesení žalobce reagoval podáními doručenými soudu dne 4. 8. 2008, 14. 8. 2008, 22. 8. 2008, 25. 8. 2008, 24. 10. 2008, 29. 10. 2008 a 23. 12. 2008, avšak výzvě soudu nevyhověl.
+Protože dovolatel nedostatek uvedené podmínky ve stanovené lhůtě ani později neodstranil, přestože byl o povinném zastoupení v dovolacím řízení a o důsledcích jeho absence soudem řádně poučen, Nejvyšší soud podle § 243c odst. 1 a § 104 odst. 2 věty třetí o.s.ř. dovolací řízení zastavil.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 2 věty první o.s.ř., neboť přestože dovolatel zastavení dovolacího řízení zavinil, označeným žalovaným v tomto řízení nevznikly náklady, na jejichž náhradu by jinak měli vůči dovolateli právo.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 22. července 2009
+JUDr. Robert Waltr, v. r.
+předseda senátu
