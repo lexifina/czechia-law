@@ -1,0 +1,17 @@
+25 Cdo 2257/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Vojtka a soudců JUDr. Marty Škárové a JUDr. Roberta Waltra v právní věci žalobce Ing. L. M., proti žalovanému Ing. J. F., o 315.000,- Kč s příslušenstvím, vedené u Okresního soudu v Karlových Varech pod sp. zn. 43 C 124/2008, o dovolání žalobce proti rozsudku Krajského soudu v Plzni ze dne 18. prosince 2008, č. j. 25 Co 334/2008-41, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Žalobce podal dovolání proti usnesení ze dne 18. 12. 2008, č. j. 25 Co 334/2008-41, jímž Krajský soud v Plzni potvrdil usnesení ze dne 2. 9. 2008, č. j. 43 C 124/2008-35, kterým Okresní soud v Karlových Varech odmítl žalobu o zaplacení částky 315.000,- Kč s příslušenstvím, a rozhodl o náhradě nákladů řízení; odvolací soud rozhodl též o náhradě nákladů odvolacího řízení.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) po zjištění, že dovolání bylo proti pravomocnému rozsudku odvolacího soudu podáno oprávněnou osobou (účastníkem řízení) ve lhůtě uvedené v ustanovení § 240 odst. 1 o.s.ř., dospěl k závěru, že v dané věci brání rozhodnutí o dovolání nedostatek podmínky dovolacího řízení.
+Podle § 241 odst. 1 věty první o.s.ř. není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Podle § 241 odst. 2 o.s.ř. odstavec 1 neplatí, a) je-li dovolatelem fyzická osoba, která má právnické vzdělání, b) je-li dovolatelem právnická osoba, stát, obec nebo vyšší územně samosprávný celek, jedná-li za ně osoba uvedená v § 21, 21a, anebo v § 21b, která má právnické vzdělání. Podle odst. 4 dovolání musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem, notářem nebo osobou uvedenou v § 21, 21a, 21b, anebo v § 26a odst. 3, která má právnické vzdělání.
+Pro podání dovolání, které je mimořádným opravným prostředkem, zákon stanoví požadavek, aby účastník řízení, který podává dovolání, měl buď sám právnické vzdělání, nebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc. Ustanovení § 241 o.s.ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění nelze o dovolání rozhodnout.
+V posuzované věci žalobce podal dovolání, aniž byl při tomto úkonu zastoupen advokátem, a nebylo prokázáno (ani tvrzeno), že by sám měl právnické vzdělání. Usnesením soudu prvního stupně ze dne 15. 4. 2009, č. j. 43 C 124/2008-54, (stejnopis mu byl doručen dne 20. 4. 2009), byl žalobce vyzván, aby si pro podání dovolání zvolil zástupce z řad advokátů, jehož prostřednictvím podá řádné dovolání; byl zároveň poučen, že nebude-li ve lhůtě 15 dnů ode dne doručení tohoto usnesení výzvě vyhověno, dovolací soud řízení zastaví. Žalobce nedostatek povinného zastoupení do současné doby (soudem stanovená lhůta uplynula dne 5. 5. 2009) neodstranil, ačkoliv byl poučen o povinném právním zastoupení v dovolacím řízení i o procesních důsledcích nesplnění této podmínky.
+Nejvyšší soud z těchto důvodů dovolací řízení podle § 243c odst. 1 a § 104 odst. 2 věty třetí o.s.ř. zastavil, aniž se mohl zabývat otázkou náležitostí podaného dovolání.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 věty první a § 146 odst. 1 písm. c) o.s.ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 22. července 2009
+JUDr. Petr Vojtek, v. r.
+předseda senátu
