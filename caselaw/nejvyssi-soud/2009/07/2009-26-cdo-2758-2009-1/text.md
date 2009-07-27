@@ -1,0 +1,17 @@
+26 Cdo 2758/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marie Rezkové a soudců JUDr. Miroslava Feráka a Doc. JUDr. Věry Korecké, CSc., ve věci žalobce m. K. V., zastoupeného JUDr. J. W., advokátkou, proti žalovanému R. K., o vyklizení bytu, vedené u Okresního soudu v Karlových Varech pod sp. zn. 13 C 212/2008, o dovolání žalovaného proti rozsudku Krajského soudu v Plzni ze dne 26. února 2009, č. j. 13 Co 34/2009-34, t a k t o :
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Krajský soud v Plzni jako soud odvolací k odvolání žalovaného rozsudkem ze dne 26. února 2009, č. j. 13 Co 34/2009-34, potvrdil rozsudek Okresní soud v Karlových Varech (dále „soud prvního stupně“) ze dne 16. října 2008, č. j. 13 C 212/2008-13, kterým byla žalovanému uložena povinnost, aby vyklidil a vyklizený žalobci předal byt č. 1, IV. kategorie o velikosti 2+1 s příslušenstvím v domu č. p. 60 na stavební parc. č. 154 v k. ú. B., pod adresou K. V., část obce B., ulice U T. č. orientační 46, a to do 15 dnů od právní moci tohoto rozhodnutí, a rozhodnuto o nákladech řízení. Odvolací soud rozhodl také o nákladech odvolacího řízení.
+Proti rozsudku odvolacího soudu podal žalovaný včas dovolání. Protože nebyl zastoupen advokátem a z obsahu spisu nevyplývalo, že by sám měl právnické vzdělání, byl výzvou (usnesením) soudu prvního stupně ze dne 18. května 2009 upozorněn na podmínku povinného zastoupení advokátem s tím, že nebude-li nedostatek uvedené podmínky dovolacího řízení ve stanovené lhůtě odstraněn, Nejvyšší soud dovolací řízení zastaví. Jelikož žalobce v uvedené lhůtě ani později nedoložil, že by si pro dovolací řízení zvolil advokáta, soud prvního stupně doručil 30. 6. 2009 spisový materiál dovolacímu soudu.
+Podle § 241 odst. 1 a 2 občanského soudního řádu (dále „o.s.ř.“) dovolatel musí být zastoupen advokátem nebo notářem; to neplatí, má-li dovolatel právnické vzdělání, popřípadě jedná-li za něj osoba uvedená v § 21 nebo v § 21a anebo v § 21b, která má právnické vzdělání. Notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními předpisy. Nejde ani o případ, kdy podmínka zastoupení advokátem nemusí být ve smyslu § 241b odst. 2 o.s.ř. splněna, neboť nejde o dovolání podané opožděně nebo někým, kdo k tomu nebyl oprávněn, ani o dovolání nepřípustné.
+Povinné zastoupení dovolatele je zvláštní podmínkou dovolacího řízení týkající se dovolatele. Nedostatek této podmínky lze odstranit, avšak bez jejího splnění nelze o dovolání věcně rozhodnout.
+Podle § 104 odst. 2 o.s.ř., jde-li o nedostatek podmínky řízení, který lze odstranit, učiní k tomu soud vhodná opatření. Nezdaří-li se nedostatek podmínky řízení odstranit, řízení zastaví.
+V dané věci žalovaný přes řádnou výzvu soudu prvního stupně uvedený nedostatek do dnešního dne neodstranil. Proto Nejvyšší soud České republiky dovolací řízení pro nedostatek uvedené podmínky řízení podle § 241b odst. 2 a § 104 odst. 2 o.s.ř. zastavil.
+Protože žalovaný nebyl v dovolacím řízení úspěšný a žalobci v tomto řízení žádné náklady nevznikly, bylo rozhodnuto podle § 243b odst. 5, § 224 odst. 1 a § 146 odst. 1 písm. c) o.s.ř. tak, že žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 27. července 2009
+JUDr. Marie Rezková, v. r.
+předsedkyně senátu
