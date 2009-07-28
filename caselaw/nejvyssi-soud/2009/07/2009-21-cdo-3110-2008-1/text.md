@@ -1,0 +1,13 @@
+21 Cdo 3110/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a JUDr. Zdeňka Novotného v právní věci žalobce V. N., proti žalovanému P. A. K. s.r.o., zastoupenému advokátem, o opravu údajů v zápočtovém listu, o 1.697,98 EUR a o 5.000,- Kč s úroky z prodlení, vedené u Okresního soudu Plzeň-město pod sp. zn. 19 C 126/2004, o dovolání žalobce proti usnesení Krajského soudu v Plzni ze dne 23. ledna 2006, č. j. 12 Co 31/2006-188, takto:
+I. Dovolání žalobce se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í (§ 243c odst. 2 o. s. ř.):
+Dovolání žalobce proti výroku usnesení Krajského soudu v Plzni ze dne 23. 1. 2006, č. j. 12 Co 31/2006-188, kterým bylo odmítnuto odvolání žalobce proti rozsudku Okresního soudu Plzeň-město ze dne 6. 5. 2005, č. j. 19 C 126/2004-131, pro opožděnost, není přípustné podle ustanovení § 237, § 238 a § 238a o. s. ř., a to již proto, že usnesením odvolacího soudu nebylo potvrzeno ani změněno rozhodnutí soudu prvního stupně (navíc nejde o případ, že by usnesením soudu prvního stupně bylo rozhodnuto ve věcech v ustanoveních § 238 a § 238a o. s. ř. taxativně vyjmenovaných), a nebylo shledáno přípustným ani podle ustanovení § 239 odst. 1 a 2 o. s. ř., neboť nejde o případy v tomto ustanovení výslovně uvedené. Přípustnost dovolání nelze důvodně dovozovat ani z ustanovení § 239 odst. 3 o. s. ř., neboť podle tohoto ustanovení lze podat dovolání jen tehdy, bylo-li potvrzeno usnesení soudu prvního stupně, jímž byla postupem podle ustanovení § 43 o. s. ř. odmítnuta žaloba, popřípadě jímž byl podle tohoto ustanovení odmítnut jiný návrh na zahájení řízení, a nikoliv odmítl-li odvolací soud po provedení potřebných šetření - jako tomu bylo v posuzované věci - podle ustanovení § 218a o. s. ř. odvolání pro opožděnost (obdobně srov. právní názor vyjádřený v usnesení Nejvyššího soudu České republiky ze dne 20. 11. 2001, sp. zn. 21 Cdo 1124/2001, které bylo uveřejněno pod č. 41 ve Sbírce soudních rozhodnutí a stanovisek, roč. 2003).
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) proto dovolání žalobce podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 části věty před středníkem o. s. ř., neboť žalobce s ohledem na výsledek dovolacího řízení nemá na náhradu svých nákladů právo a žalovanému v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 28. července 2009
+JUDr. Mojmír Putna, v. r.
+předseda senátu
