@@ -1,0 +1,19 @@
+4 Nd 210/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy senátu JUDr. Petra Šabaty a soudců JUDr. Františka Hrabce a JUDr. Jiřího Pácala ve věci žalobce L. K., zastoupeného JUDr. T. N., advokátem, proti žalovanému M. Z., o zaplacení částky 495.000,00 Kč s příslušenstvím, o určení místní příslušnosti podle § 11 odst. 3 o. s. ř., t a k t o :
+Určuje se, že věc projedná a rozhodne Krajský soud v Hradci Králové.
+O d ů v o d n ě n í :
+Dne 3. 7. 2009 došel Nejvyššímu soudu žalobcův návrh ze dne 28. 6. 2009 na určení soudu k projednání a rozhodnutí věci dle § 11 odst. 3 o. s. ř., neboť podmínky místní příslušnosti, podle nichž by bylo možno určit příslušný soud, chybějí nebo je nelze zjistit.
+Žalobce uvedl, že dne 2. 6. 2008 byla mezi ním a žalovaným uzavřena smlouva o dílo s místem plnění v P. Z této smlouvy vznikl žalobci nárok na smluvní pokutu a dále v souvislosti s touto smlouvou i nárok na bezdůvodné obohacení. Kompetence soudů v České republice je dána dle čl. 5 Nařízení Rady (ES) č. 44/2001, ve smlouvě bylo sjednáno, že právní vztah se řídí Obchodním zákoníkem, tedy právním řádem České republiky. Je dána věcná příslušnost krajského soudu a to dle § 9 odst. 3 písm. r) o. s. ř., neboť se jedná o spor mezi podnikateli vyplývající z obchodně právního vztahu a žalovaná částka přesahuje 100.000,00 Kč. Není však možno dovodit místní příslušnost soudu. Žalobce též poukázal na fakt, že mezi účastníky tohoto sporu probíhá další spor, a to o náhradu škody vyplývající z téhož smluvního vztahu, který je projednáván Krajským soudem v Hradci Králové pod sp. zn. 42 Cm 44/2008.
+Z předložených podkladů vyplývají následující skutečnosti.
+Žalovaný je označen jako soukromý podnikatel podnikající pod obchodním jménem M. Z., Smlouva o dílo ze dne 2. 6. 2008 byla uzavřena mezi žalobcem a žalovaným podle § 536 a násl. zákona č. 513/1991 Sb., Obchodního zákoníku, ve znění pozdějších předpisů, s místem plnění S., a. s., P., S. P. a b., objekty R. (článek III.). Bylo dohodnuto, že smluvní vztahy se budou řídit ustanoveními Obchodního zákoníku (článek X. odst. 4).
+Podle oddílu 2, čl. 5, odst. 1 písm. a) Nařízení Rady (ES) č. 44/2001, ze dne 22. 12. 2000, o příslušnosti a uznávání a výkonu soudních rozhodnutí v občanských a obchodních věcech, osoba, která má bydliště na území některého členského státu, může být v jiném členském státě žalována, pokud předmět sporu tvoří smlouva nebo nároky ze smlouvy, u soudu místa, kde závazek, o nějž se jedná, byl nebo měl být splněn.
+Podle výše citovaného ustanovení Nařízení Rady ES č. 44/2001 je pravomoc českých soudů k projednání věci dána. Poté je určena v ustanovení § 7 odst. 1 o. s. ř.
+K projednání posuzované věci je podle ustanovení § 9 odst. 3 písm. r) bod 6 o. s. ř. věcně příslušný krajský soud.
+Podle § 11 odst. 3 o. s. ř., jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Jak je patrno z výše uvedeného, v posuzované věci je dána pravomoc českých soudů. Předmětem sporu jsou nároky vyplývající ze smlouvy o dílo uzavřené mezi žalobcem a žalovaným. Dle čl. 5, odst. 1 písm. a) Nařízení Rady (ES) č. 44/2001 může být žalovaný se sídlem ve Slovenské republice žalován u soudu místa v České republice, kde závazek, o nějž se jedná, měl být splněn. V daném případě bylo místem plnění závazku určeno P. Věcně příslušným je v dané věci krajský soud. Jako místně příslušný tak je určen Krajský soud v Hradci Králové.
+Při určení místně příslušného soudu vycházel Nejvyšší soud především z výše uvedených hledisek a proto vzhledem k nim podle § 11 odst. 3 o. s. ř. určil, že místně příslušným k projednání a rozhodnutí věci je Krajský soud v Hradci Králové.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 30. července 2009
+Předseda senátu:
+JUDr. Petr Šabata
