@@ -1,0 +1,37 @@
+23 Cdo 2904/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Dese a soudců JUDr. Kateřiny Hornochové a JUDr. Pavla Příhody ve věci žalobce J. J., zastoupeného JUDr. B. Š., advokátkou, proti žalovanému S. – O. P., státní podnik v likvidaci, o zaplacení částky 786.240,- Kč, o dovolání žalobce proti usnesení Vrchního soudu v Praze ze dne 29. března 2001, č. j. 3 Cmo 48/2001-81, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Vrchní soud v Praze usnesením ze dne 29. března 2001, č. j. 3 Cmo 48/2001-81, k odvolání žalobce potvrdil usnesení Krajského obchodního soudu v Praze ze dne 29. září 2000, č. j. 13 Cm 137/98-68, jímž byla žalobci uložena povinnost zaplatit JUDr. J. K., správci konkursní podstaty úpadce S. – O. P., státní podnik v likvidaci, jako žalovanému na náhradu nákladů řízení částku 14.675,- Kč (výrok pod bodem I), a rozhodl o náhradě nákladů odvolacího řízení (výrok pod bodem II).
+Odvolací soud se ztotožnil se závěrem soudu prvního stupně, že žalobce nezaplacením soudního poplatku z návrhu na zahájení řízení z procesního hlediska zavinil, že řízení ve věci bylo zastaveno, proto je žalobce podle ustanovení § 146 odst. 2, věty první, občanského soudního řádu (dále též jen „o. s. ř.) povinen nahradit náklady, které v řízení vznikly žalovanému.
+Toto usnesení odvolacího soudu napadl žalobce dovoláním, jehož důvodnost spatřoval v tom, že napadené rozhodnutí spočívá na nesprávném právním posouzení věci (§ 241a odst. 2 písm. b) o. s. ř.). Namítl, že zastavení řízení nezavinil; s poukazem na svou tíživou majetkovou situaci požádal o osvobození od soudních poplatků, nebylo mu však vyhověno. Odvolací soud měl aplikovat ustanovení § 146 odst. 1 písm. c) o. s. ř., popřípadě ustanovení § 150 o. s. ř., nebo jsou dány důvody zvláštního zřetele hodné, aby mu povinnost k náhradě nákladů nebyla uložena.
+Žalovaný navrhl, aby dovolání bylo jako zjevně bezdůvodné odmítnuto.
+Ze spisu vyplývá, že usnesením Krajského obchodního soudu v Praze ze dne 31. května 2000, č. j. 95 K 44/2000-3, byl na majetek žalovaného státního podniku S. – O. P., státní podnik v likvidaci, prohlášen konkurs. Protože žalobcem uplatněná pohledávka je pohledávkou, kterou je nutno přihlásit v konkursu, bylo prohlášením konkursu řízení v této věci podle ustanovení § 14 odst. 1 písm. c) zákona č. 328/1991 Sb., o konkursu a vyrovnání, ze zákona přerušeno a po dobu trvání konkurzu v něm nebylo možno pokračovat. Usnesením Městského soudu v Praze ze dne 20. srpna 2007, č. j. 95 K 44/2000-425, které nabylo právní moci dne 16. 10. 2007, byl konkurs na majetek žalovaného zrušen po splnění rozvrhového usnesení podle ustanovení § 44 odst. 1 písm. b) zákona č. 328/1991 Sb. Zrušením konkursu zanikly podle ustanovení § 45 odst. 1 tohoto zákona mimo jiné též účinky prohlášení konkursu uvedené v ustanovení § 14 odst. 1 písm. c) tohoto zákona (srov. v té souvislosti přechodné ustanovení v § 432 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení), tj. v řízení bylo možno pokračovat.
+Napadené rozhodnutí odvolacího soudu bylo sice vydáno po 1. lednu 2001, kdy nabyla účinnosti novela občanského soudního řádu provedená zákonem č. 30/2000 Sb., bylo však vydáno po řízení provedeném podle dosavadních právních předpisů, Nejvyšší soud České republiky (dále jen „Nejvyšší soud“) proto vzhledem k čl. 17 hlavy I, části dvanácté (Přechodná a závěrečná ustanovení) zákona č. 30/2000 Sb. projednal dovolání a rozhodl o něm podle občanského soudního řádu ve znění účinném do 31. prosince 2000.
+Nejvyšší soud jako soud dovolací po zjištění, že dovolání bylo podáno ve lhůtě stanovené v § 240 odst. 1 o. s. ř. oprávněnou osobou (účastníkem řízení) řádně zastoupenou advokátem, jímž bylo dovolání též sepsáno (§ 241 odst. 1, 4 o. s. ř.), se zabýval nejdříve otázkou, zda je dovolání v této věci přípustné, neboť toliko z podnětu přípustného dovolání lze přezkoumat správnost napadeného rozhodnutí z hlediska uplatněných dovolacích důvodů.
+Dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští (§ 236 odst. 1 o. s. ř.). Přípustnost dovolání je upravena v ustanoveních §§ 237 až 239 o. s. ř.
+Podle ustanovení § 237 odst. 1 o. s. ř. je dovolání přípustné proti rozhodnutí odvolacího soudu, jestliže
+a) bylo rozhodnuto ve věci, která nenáleží do pravomoci soudů,
+b) ten, kdo v řízení vystupoval jako účastník, neměl způsobilost být účastníkem řízení, c) účastník řízení neměl procesní způsobilost a nebyl řádně zastoupen,
+d) v téže věci bylo již dříve pravomocně rozhodnuto nebo v téže věci bylo již dříve zahájeno řízení,
+e) nebyl podán návrh na zahájení řízení, ačkoli podle zákona ho bylo třeba,
+f) účastníku řízení byla v průběhu řízení nesprávným postupem soudu odňata možnost jednat před soudem,
+g) rozhodoval vyloučený soudce nebo byl soud nesprávně obsazen, ledaže místo samosoudce rozhodoval senát.
+V posuzované věci se o žádný z těchto případů nejedná.
+Přípustnost dovolání proti usnesení odvolacího soudu, jímž se nerozhoduje ve věci samé, je upravena v ustanovení § 238a odst. 1 o. s. ř., a to tak, že dovolání je přípustné proti usnesení odvolacího soudu, jímž bylo
+a) změněno usnesení soudu prvního stupně; to neplatí, jde-li o usnesení o nákladech řízení, o příslušnosti, o předběžném opatření, o přerušení řízení, o pořádkové pokutě, o znalečném, o tlumočném, o soudním poplatku, o osvobození od soudních poplatků, o ustanovení zástupce účastníku nebo jeho odvolání, o nepřipuštění zastoupení, o odměně notáře za prováděné úkony soudního komisaře a jeho hotových výdajích, o odměně správce dědictví a jeho hotových výdajích,
+b) rozhodnuto tak, že se zpětvzetí návrhu nepřipouští, nebo tak, že se zpětvzetí návrhu připouští, rozhodnutí soudu prvního stupně zrušuje a řízení zastavuje (§ 208); to neplatí o věcech, v nichž bylo rozhodnuto o peněžitém plnění nepřevyšujícím 20 000 Kč a v obchodních věcech 50 000 Kč,
+c) rozhodnutí soudu prvního stupně zrušeno a řízení zastaveno, popřípadě věc byla postoupena orgánu, do jehož pravomoci náleží,
+d) odvolacím soudem potvrzeno usnesení soudu prvního stupně, jímž bylo řízení zastaveno pro nedostatek pravomoci soudu,
+e) odvolání odmítnuto,
+f) odvolací řízení zastaveno.
+Rozhodnutí, proti nimž je dovolání přípustné, jsou v tomto ustanovení vypočtena taxativně a rozhodnutí o náhradě nákladů řízení mezi nimi není; naopak, z textu pod písmenem a) je patrno, že proti usnesení odvolacího soudu o nákladech řízení není dovolání přípustné ani tam, kde jde o rozhodnutí měnící, tím méně pak tam, kde o rozhodnutí potvrzující, o něž jde v posuzované věci.
+Lze tedy uzavřít, že dovolání proti napadenému usnesení odvolacího soudu není (podle právní úpravy účinné do 31. 12. 2000) přípustné.
+Dovolací soud proto dovolání podle ustanovení § 243b odst. 5, věty první, a § 218 písm. c) o. s. ř. jako nepřípustné odmítl, aniž se mohl zabývat jeho důvodností.
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5, věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř. Žalobce, jehož dovolání bylo odmítnuto, by byl podle těchto ustanovení povinen zaplatit žalovanému účelně vynaložené náklady, které mu vznikly v dovolacím řízení. Protože však žalovanému podle obsahu spisu žádné takové náklady nevznikly, rozhodl Nejvyšší soud tak, že žádný z účastníků nemá na náhradu nákladů dovolacího řízení právo.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 30. července 2009
+JUDr. Zdeněk D e s
+předseda senátu
