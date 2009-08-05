@@ -1,0 +1,14 @@
+11 Tcu 72/2009
+U S N E S E N Í
+Nejvyšší soud České republiky projednal dne 5. srpna 2009 v neveřejném zasedání žádost Ministerstva spravedlnosti Slovenské republiky o povolení průvozu předávaného MUDr . M. S. státního občana Slovenské republiky, a rozhodl podle § 422 odst. 1 tr. řádu t a k t o :
+I. Povoluje se průvoz předávaného MUDr. M. S. územím České republiky při předání jmenovaného ze Španělska do Slovenské republiky, a to za účelem konání trestního řízení pro spáchání trestného činu zpronevěry podle ust. § 248 odst. 1, odst. 4 písm. c) Trestního zákona Slovenské republiky.
+II. Po dobu průvozu bude předávaná osoba držena ve vazbě.
+O d ů v o d n ě n í :
+Ministerstvo spravedlnosti Slovenské republiky požádalo dne 4. 8. 2009, pod sp. zn. 29564/2009/8305-MO o povolení průvozu občana Slovenské republiky MUDr. M. S. územím České republiky. Průvoz se má uskutečnit v termínu od 11. 8. do 12. 8. 2009 v rámci předání jmenovaného ze Španělské republiky na území Slovenské republiky, za účelem konání trestního řízení.
+Slovenská strana k žádosti doložila opis Evropského zatýkajícího rozkazu, vydaného Okresním soudem Malacky, sp. zn. 0 Tp 242/09 ze dne 18. 6. 2009, pro trestný čin zpronevěry, posuzovaného podle § 248 odst. 1, odst. 4 písm. c) Trestního zákona Slovenské republiky. Jmenovaný se dopustil trestného jednání tím, že v období od roku 1995 do 5. 10. 2000 jako náčelník zdravotní služby 71. záchranné brigády civilní obrany Malacky neoprávněně pro sebe a své rodinné příslušníky použil finanční prostředky S. z. p., a. s., které byly určeny na zdravotní zabezpečení vojáků a pojištěnců civilní ochrany Malacky v celkové výši 1.173.624,33 Sk (38.957,19 EUR) na nákup zboží a služeb, které nesouviselo se zdravotním pojištěním pojištěnců. Jednalo se např. o jazykové kurzy, mobilní telefony, spotřební elektroniku, obuv a textilní výrobky, dále kosmetiku, čistící a dezinfekční prostředky. Rovněž zakoupil zdravotnický materiál v celkové hodnotě 122.956,45 Sk (4.081,41 EUR), který nezaevidoval v evidenčních listech a poté jej použil pro svoji potřebu. V uvedeném období rovněž realizoval prostřednictvím lékařských předpisů, které osobně vystavil, z rozpočtových prostředků v celkovém objemu 177.065,50 Sk (5.677,50 EUR) nákupy léků a dalších doplňků nad rámec zdravotní péče, čímž způsobil S. z. p., a. s., škodu v celkové výši 1.173.624,33 Sk (38.957,19 EUR) a Ministerstvu vnitra SR škodu ve výši 300.021,95 Sk (9.958,90 EUR).
+Na základě předložené žádosti a přiloženého opisu Evropského zatýkacího rozkazu vydaného dne 18. 6. 2009 Okresním soudem Malacky Nejvyšší soud konstatuje, že podmínky pro povolení průvozu předpokládané § 422 odst. 1 tr. řádu jsou splněny, a proto průvoz předávané osoby povolil.
+Po dobu průvozu bude předávaná osoba držena ve vazbě.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 5. srpna 2009
+Předseda senátu:
+JUDr. Stanislav Rizman
