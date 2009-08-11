@@ -1,0 +1,16 @@
+29 Cdo 3359/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Krčmáře a soudců JUDr. Petra Gemmela a Mgr. Petra Šuka rozhodl v konkursní věci úpadkyně V. k. z., veřejné obchodní společnosti, vedené u Krajského soudu v Hradci Králové pod sp. zn. 40 K 8/2001, o návrhu úpadkyně na zrušení konkursu, o dovolání úpadkyně a K. P., proti usnesení Vrchního soudu v Praze ze dne 24. dubna 2008, č. j. 1 Ko 18/2008 - 530, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Usnesením ze dne 21. listopadu 2007, č. j. 40 K 8/2001-506, zamítl Krajský soud v Hradci Králové návrh na zrušení konkursu na majetek úpadkyně (obsažený v podání č. l. 236-248).
+K odvolání úpadkyně a K. P. Vrchní soud v Praze v záhlaví uvedeným usnesením potvrdil usnesení soudu prvního stupně (první výrok) a určil, že soudkyně Mgr. V. Š. není vyloučena z projednávání a rozhodování věci vedené u Krajského soudu v Hradci Králové pod sp. zn. 40 K 8/2001 (druhý výrok).
+Dovolání úpadkyně a K. P. (č. l. 556-575) proti prvnímu výroku usnesení odvolacího soudu, opírající se o existenci dovolacích důvodů uvedených v § 241a odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu (dále též jen „o. s. ř.“), jež může být přípustné, jen podle § 237 odst. 1 písm. c/ ve spojení s § 238a odst. 1 písm. a/ o. s. ř. (ve znění účinném do 31. prosince 2007) Nejvyšší soud odmítl podle § 243b odst. 5 a § 218 písm. c/ o. s. ř. (ve znění účinném do 31. prosince 2007) jako nepřípustné.
+Podstata dovolání tkví v nesouhlasu se závěrem soudů, že předpoklady pro zrušení konkursu ve smyslu § 44 odst. 1 písm. a/ zákona č. 328/1991 Sb., o konkursu a vyrovnání (ve znění účinném do 31. prosince 2007) pro tvrzenou absenci přihlášených věřitelů nejsou dány, jelikož do konkursu se přihlásilo celkem 7 věřitelů, jejichž pohledávky byly zjištěny v rozsahu převyšujícím 5 milionů Kč a dále v reprodukci průběhu řízení a stavu řízení jež se týkají jednak prohlášení konkursu na majetek úpadkyně, jednak žalob vedených u Krajského soudu v Hradci Králové pod sp. zn. 40 Cm 17/2004 a 42 Cm 64/2007.
+Nejvyšší soud napadenému rozhodnutí nepřisuzuje zásadní právní význam, když v mezích podaného dovolání se mu žádná otázka zásadního významu k řešení nepředkládá. Ač dovolání výslovně odhlašuje, že se neuplatňuje dovolací důvod dle § 241a odst. 3 o. s. ř., ve skutečnosti jiné než skutkové argumenty neobsahuje (polemika se závěrem o přihlášených věřitelích je polemikou skutkovou), přičemž představa dovolatelů, že v takovém případě by bylo nutné podřadit posledně označený dovolací důvod vadám řízení, je zjevně nepřiléhavá.
+K prověření skutkových argumentů pak dovolání podle § 237 odst. 1 písm. c/ připustit nelze (srov. shodně i usnesení Ústavního soudu ze dne 7. března 2006, sp. zn. III. ÚS 10/06, uveřejněné v časopise Soudní judikatura číslo 9, ročník 2006, pod číslem 130).
+Rozhodné znění občanského soudního řádu a zákona o konkursu a vyrovnání (do 31. prosince 2007) plyne z § 432 odst. 1, § 433 bodu 1. a § 434 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenčního zákona).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 11. srpna 2009
+JUDr. Zdeněk K r č m á ř
+předseda senátu
