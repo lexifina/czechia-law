@@ -1,0 +1,29 @@
+28 Cdo 5013/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy
+JUDr. Ludvíka Davida, CSc., a soudců JUDr. Josefa Rakovského a JUDr. Jana Eliáše, Ph.D., v právní věci žalobců a) JUDr. J. H., b) J. F., a c) M. F., žalobci b) a c) zastoupeni žalobkyní a) JUDr. J. H., advokátkou, proti žalovanému: m. Z. H., zastoupené advokátem, o určení vlastnictví, vedené u Okresního soudu v Jeseníku pod sp. zn. 6 C 133/2006, o dovolání žalobkyně a) proti rozsudku Krajského soudu v Ostravě – pobočky v Olomouci ze dne 3.6.2008, č.j. 69 Co 274/2008-74, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Rozsudkem Krajského soudu v Ostravě – pobočky v Olomouci ze dne 3.6.2008, č.j. 69 Co 274/2008-74, byl v odvoláním napadené části, tj. ve výroku II. a III. soudu prvního stupně, potvrzen rozsudek Okresního soudu v Jeseníku ze dne 6.12.2007, č.j.
+6 C 133/2006-41. Tímto rozsudkem byla zamítnuta žaloba, jíž se žalobkyně a) domáhala určení, že je vlastníkem jedné poloviny pozemků p.č. 164 – zahrada o výměře 148 m2
+a p.č. 165 – zastavěná plocha a nádvoří, zbořeniště o výměře 154 m2, zapsaných na listu vlastnictví č. 10001 pro o. Z. H. a katastrální území O. v J. u Katastrálního úřadu pro O. k., katastrální pracoviště J.
+Ve vztahu k žalobcům b) a c) bylo řízení zastaveno již soudem prvního stupně, neboť v této části byla žaloba vzata zpět a žalovaný s tímto postupem vyslovil souhlas. Je tedy nutno předeslat, že není důvodu, proč by měla první žalobkyně – a současně advokátka – označovat své nynější podání jako „dovolání žalobců“. Jde o její dovolání a takto je Nejvyšší soud procesně posuzoval (viz též níže).
+Odvolací soud dospěl k závěru, že žalobkyně a) nemůže mít naléhavý právní zájem na požadovaném určení, že je podílovou spoluvlastnictví shora uvedených nemovitostí; v daném případě nebyly sporné nemovitosti dosud předmětem řízení o dědictví po JUDr. J. F., zemřelém manželu žalobkyně a). Odvolací soud se v dané věci ztotožnil mimo jiné též se závěrem soudu prvního stupně, že rozhodnutí, jímž by bylo ve sporném řízení podle § 80 písm. c/ o. s. ř. určeno, že žalobkyně a) je vlastníkem spoluvlastnického podílu na předmětných nemovitostech, by v podstatě nahrazovalo usnesení vydané v řízení o dědictví podle § 175q odst. 1 o. s. ř., což je v rozporu s platnou právní úpravou.
+Proti rozsudku odvolacího soudu podala žalobkyně a) dovolání, ve kterém namítala zejména to, že odvolací soud ve shodě se soudem prvního stupně neřešil otázku vydržení vlastnického práva a zabýval se pouze neprokázáním naléhavého právního zájmu ve smyslu § 80 písm. c/ o. s. ř. Navrhla proto, aby Nejvyšší soud zrušil rozsudky soudů obou stupňů a věc vrátil soudu prvního stupně k dalšímu řízení.
+Žalovaný se k dovolání nevyjádřil.
+Nejvyšším soudem bylo zjištěno, že dovolání bylo podáno v zákonné lhůtě osobou s právnickým vzděláním (§ 240 odst. 1, § 241 odst. 2 písm. a/ o. s. ř.). Přípustnost dovolání byla žalobkyní a) dovozována z ustanovení § 237 odst. 1 písm. c/, odst. 3 o. s. ř. Uplatněné dovolací důvody lze podřadit pod § 241a odst. 2 písm. a/, b/
+o. s. ř.
+Pro shledání přípustnosti dovolání ve smyslu výše citovaných ustanovení by dovolací soud musel dospět k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam. Uvedené podmínky však rozhodnutí odvolacího soudu ve spojení s dovoláním žalobkyně a) nesplňuje.
+Za problém zásadního právního významu nelze považovat takovou otázku, která byla v napadeném rozhodnutí vyřešena v souladu s ustálenou soudní praxí, navíc za skutkově jedinečné situace ve vztahu ke konkrétnímu rozhodnutí. Nejvyšší soud se již ve své rozhodovací činnosti zabýval právními otázkami předestřenými jak
+v předmětném dovolání, tak i v rozhodnutí odvolacího soudu, které je v tomto případě plně souladné s jeho závěry. Jedná se především o usnesení ze dne 13.3.2007, sp. zn.
+30 Cdo 51/2007, ve kterém se Nejvyšší soud vyjádřil v tom směru, že ,,ani jediný dědic se nemůže s úspěchem domáhat žalobou podle § 80 písm. c/ o. s. ř. určení, že je vlastníkem věci náležející do dědictví, pokud tato věc nebyla předmětem řízení
+o dědictví a ohledně této věci mu nebylo potvrzeno nabytí dědictví“.
+Dále je třeba upozornit na rozsudek Nejvyššího soudu ze dne 5.12. 2000, sp. zn. 22 Cdo 2902/99, v němž byl učiněn závěr, že z hlediska dodatečného projednání dědictví naléhavý právní zájem na určení vlastnictví (v jiném řízení) dán bez dalšího není, neboť pro účely dědického řízení je rozhodující, zda v době smrti zůstavitele byly sporné nemovitosti v jeho vlastnictví či nikoli.
+K otázce dodatečného projednání dědictví lze též uvést, že dědické právo k předmětným pozemkům bude možné projednat teprve tehdy, pokud obecný soud určí, že zůstavitel má k projednávaným věcem vlastnické právo. V daném případě by tedy bylo na místě podat žalobu o určení, že zůstavitel byl ke dni své smrti podílovým spoluvlastníkem nemovitostí (viz např. usnesení Nejvyššího soudu ze dne 1.3.2007, sp. zn. 29 Odo 208/2005). I proto – v mezidobí po rozhodnutí odvolací instance (6. 8. 2008) – rozhodl Okresní soud v Opavě pod sp. zn. 30 D 262/2008 nepříznivě ve vztahu vůči dovolatelce (srov. zejména str. 2 první odst. shora).
+Z výše uvedeného vyplývá, že nebylo možné dovodit přípustnost dovolání podle ustanovení § 237 odst. 1 písm. c/, odst. 3 o. s. ř. Nejvyšší soud proto dovolání žalobkyně a) podle ustanovení § 243b odst. 5 věty první a § 218 písm. c/ o. s. ř. jako nepřípustné odmítl.
+Žalobkyně a) nebyla v dovolacím řízení úspěšná, žalovanému však v souvislosti s podaným dovoláním žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 13. srpna 2009
+JUDr. Ludvík David, CSc., v. r.
+předseda senátu
