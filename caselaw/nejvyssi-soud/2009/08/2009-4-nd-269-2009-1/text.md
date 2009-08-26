@@ -1,0 +1,17 @@
+4 Nd 269/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Danuše Novotné a soudců JUDr. Františka Hrabce a JUDr. Petra Šabaty v právní věci oprávněného Ing. P. Z. , zastoupeného Mgr. M. R. , advokátem, proti povinnému S. O. , o návrhu na nařízení exekuce povinného, vedené u Okresního soudu v Pardubicích pod sp. zn. 36 Nc 12845/2009, o určení místní příslušnosti podle § 11 odst. 3 o. s. ř., t a k t o :
+Věc, vedou u Okresního soudu v Pardubicích pod sp. zn. 36 Nc 12845/2009, projedná a rozhodne Okresní soud v Pardubicích.
+O d ů v o d n ě n í :
+Okresní soud v Pardubicích usnesením ze dne 28. 7. 2009, sp. zn. 36 Nc 12845/2009 vyslovil svoji místní nepříslušnost a rozhodl, že věc se předkládá podle § 11 odst. 3 o. s. ř. Nejvyššímu soudu ČR k rozhodnutí o určení místně příslušného soudu.
+V odůvodnění uvedl, že oprávněný podal Okresnímu soudu v Pardubicích návrh na nařízení exekuce na majetek povinného, přičemž jako bydliště povinného označil adresu O. , P.
+Vzhledem k tomu, že bylo zjištěno, že povinný je na výše uvedené adrese hlášen k trvalému pobytu, byla věc postoupena Obvodnímu soudu pro Prahu 4. Ten vyslovil s tímto postoupením nesouhlas, který byl usnesením Městského soudu v Praze ze dne 3. 4. 2009 sp. zn. 1 Nc 617/2009 označen jako důvodný, neboť v dané věci nebylo spolehlivě zjištěno, že výše uvedená adresa je skutečným bydlištěm povinného, zvláště když se jedná o adresu sídla Úřadu Městské části Praha 11.
+Okresní soud v Pardubicích proto věc předložil Nejvyššímu soudu k rozhodnutí, který soud věc projedná a rozhodne.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Podle § 45 odst. 2 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti a o změně dalších zákonů (exekuční řád), místně příslušným exekučním soudem je soud, v jehož obvodu má bydliště povinný, je-li fyzickou osobou, a nemá-li bydliště, soud, v jehož obvodu se zdržuje. Má-li povinný, který je fyzickou osobou, bydliště na více místech, jsou místně příslušnými všechny soudy, v jejichž obvodu bydlí s úmyslem zdržovat se tam trvale. Nemá-li povinný bydliště v České republice ani se v ní nezdržuje, je příslušným soud, v jehož obvodu má povinný majetek; má-li majetek v obvodu více soudů, je příslušným soud, kterému byla jako prvnímu doručena žádost exekutora o udělení pověření nebo návrh na provedení exekuce. Je-li povinný právnickou osobou, je místně příslušným soud, v jehož obvodu má povinný sídlo.
+V daném případě není zpochybněno, že věc patří do pravomoci českých soudů a je zřejmé, že nelze určit soud povinného ve smyslu § 45 odst. 2 exekučního řádu, neboť není známo, kde se a zda vůbec se zdržuje v České republice, a není ani známo místo, kde má nějaký majetek postižitelný exekucí.
+Protože jsou splněny předpoklady stanovené v § 11 odst. 3 o. s. ř., při určení místní příslušnosti rozhodl Nejvyšší soud tak, že věc projedná a rozhodne ten soud, v jehož obvodu je sídlo oprávněného. Nejvyšší soud proto podle ustanovení § 11 odst. 3 o. s. ř. určil Okresní soud v Pardubicích tím soudem, který výše označenou věc projedná a rozhodne.
+P o u č e n í : Proti tomuto usnesení n e n í přípustný opravný prostředek.
+V Brně dne 26. srpna 2009
+Předsedkyně senátu:
+JUDr. Danuše Novotná
