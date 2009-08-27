@@ -1,0 +1,13 @@
+26 Cdo 2898/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marie Rezkové a soudců JUDr. Miroslava Feráka a Doc. JUDr. Věry Korecké, CSc., ve věci žalobkyně M. K., zastoupené advokátem, proti žalovaným: 1) Ing. J. M., 2) J. M. a 3) Ing. arch. J. M., zastoupeným advokátem, o určení neplatnosti výpovědi z nájmu bytu, vedené u Okresního soudu Plzeň-město pod sp. zn. 12 C 179/2007, o dovolání žalovaných proti usnesení Krajského soudu v Plzni ze dne 25. března 2009, č. j. 61 Co 154/2009-147, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Plzni usnesením ze dne 25. 3. 2009, č. j. 61 Co 154/2009-147, výrokem pod bodem I. potvrdil usnesení Okresního soudu Plzeň-město (dále „soud prvního stupně“) ze dne 21. listopadu 2008, č. j. 12 C 179/2007-123, ve výrocích pod body I. a II., jimiž byl zrušen rozsudek soudu prvního stupně ze dne 3. 7. 2008, č. j. 12 C 179/2007-100, a řízení zastaveno pro zpětvzetí žaloby podle § 96 občanského soudního řádu, výrokem pod bodem II. jej změnil ve výroku pod bodem III., kterým bylo rozhodnuto o nákladech řízení, a výrokem pod bodem III. rozhodl o nákladech odvolacího řízení.
+Podle čl. II bodu 12 věty před středníkem zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb. ve znění pozdějších předpisů a další související zákony, dovolání proti rozhodnutím odvolacího soudu vyhlášeným (vydaným) přede dnem účinnosti tohoto zákona (tj. před 1. červencem 2009) se projednají a rozhodnou podle dosavadních právních předpisů. Bylo-li napadené rozhodnutí vydáno 25. 3. 2009, Nejvyšší soud České republiky jako soud dovolací projednal a rozhodl o něm podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění před novelou provedenou zákonem č. 7/2009 Sb. (dále „o. s. ř.“).
+Dovolání, které žalovaní podali proti rozhodnutí odvolacího soudu včas, není přípustné (k tomu srovnej usnesení Nejvyššího soudu z 30. 4. 2002, sp. zn. 29 Odo 285/2002, publikované pod č. 103 v časopise Soudní judikatura 6/2002, a usnesení Nejvyššího soudu z 31. 1. 2002, sp. zn. 29 Odo 874/2001, uveřejněné pod č. 4 ve Sbírce soudních rozhodnutí a stanovisek, ročník 2003), a proto bylo podle § 234b odst. 5 a § 218 písm. c) o. s. ř. odmítnuto.
+Výrok o náhradě nákladů dovolacího řízení vychází z toho, že dovolání žalovaných bylo odmítnuto a žalobkyni náklady nevznikly (§ 243b odst. 5, § 224 odst. l a § 146 odst. 3 o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 27. srpna 2009
+JUDr. Marie Rezková,v. r. předsedkyně senátu
