@@ -1,0 +1,33 @@
+30 Cdo 3385/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy
+JUDr. Pavla Pavlíka a soudců JUDr. Karla Podolky a JUDr. Pavla Vrchy v právní věci žalobkyně S., spol.s.r.o., zastoupené advokátkou, proti žalované K. K.-R., zastoupené advokátem, o zaplacení částky 106.187,50 Kč s příslušenstvím, vedené u Obvodního soudu v pro Prahu 8 pod sp. zn. 13 C 379/99, o dovolání žalované proti rozsudku Městského soudu v Praze ze dne 17. října 2006, č.j. 30 Co 351/2006-112 (správně 312), takto:
+I. Dovolání žalované se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění podle § 243c odst. 2 o.s.ř.:
+Obvodní soud pro Prahu 8 rozsudkem ze dne 19. prosince 2005, č.j. 13 C 379/99-276, výrokem I. zastavil řízení ohledně částky 734,- Kč, výrokem II. uložil žalované zaplatit žalobci částku 54.000,- Kč spolu s 8% ročním úrokem z prodlení
+od 26. ledna 2001 do zaplacení, výrokem III. zamítl žalobu, aby žalovaná zaplatila žalobkyni
+-částku 27.000,- Kč s příslušenstvím
+-částku 15.696,50 Kč s příslušenstvím
+-částku 8.757,- Kč s příslušenstvím
+-poplatek z prodlení ve výši 2,5 promile denně z částky 734,- Kč od 1.7.1999
+do zaplacení
+-poplatek z prodlení ve výši 2,5 promile denně z částky 27.000,- Kč
+od 16.10.1998 do 25.l.2001 v celém rozsahu a od 26. 1. 2001 do zaplacení v rozsahu převyšujícím 8% úrok ročně z částky 27.000,- Kč
+-poplatek z prodlení ve výši 2,5 promile denně z částky 27.000,- Kč od 16.11.1998 do 25.1.2001 v celém rozsahu a od 26. 1. 2001 do zaplacení v rozsahu převyšujícím 8% úrok ročně z částky 27.000,- Kč. Výroky IV. – VI. rozhodl o náhradě nákladů řízení a náhradě nákladů placených státem.
+K odvolání obou účastníků Městský soud v Praze rozsudkem ze dne 17. října 2006, č.j. 30 Co 351/2006-112 (správně 312), ve vyhovujícím výroku o věci samé zrušil rozsudek soudu prvního stupně ohledně 8% úroku z prodlení z částky 54.000,- Kč od 26. 1. 2001 do zaplacení a řízení v tomto rozsahu zastavil, jinak jej v tomto výroku potvrdil. V zamítavém výroku o věci samé rozsudek soudu prvního stupně s výjimkou výroku ohledně poplatku z prodlení z částky 734,- Kč změnil tak, že žalovaná je povinna zaplatit žalobkyni částku 11.724,90 Kč spolu s 12% úrokem z prodlení z částky 4.644,50 Kč od 1. 7. 1999 do zaplacení a s 8,5 % úrokem z prodlení z částky 7.080,40 Kč od 24. 8. 2001 do zaplacení, jinak jej v tomto výroku potvrdil. Rozhodl dále
+o náhradě nákladů řízení a náhradě nákladů placených státem před soudem prvního stupně a o náhradě nákladů odvolacího řízení.
+Proti výroku rozsudku odvolacího soudu, kterým byl potvrzen rozsudek soudu prvního stupně, pokud jím bylo uloženo žalované zaplatit žalobkyni částku 54.000,- Kč podala žalovaná dovolání. Jeho přípustnost dovozuje podle ustanovení § 237 odst. 1 písm. c) o.s.ř. a uplatňuje dovolací důvod podle ustanovení § 241a odst. 2 písm. b) o.s.ř. Předkládá otázky zásadního právního významu,
+- zda byt, který je užíván uživatelem bez právního důvodu je k dispozici oprávněné osobě (vlastníkovi bytu) dnem, kdy oprávněná osoba zjistí, že byt je fakticky volný, nebo dnem předání klíčů nájemcem od vchodových dveří do bytu
+- zda stanovení výše bezdůvodného obohacení za užívání bytu v případě, že nájemní smlouva k bytu je absolutně neplatná (neplatnost přitom způsobil pronajímatel),
+a v době užívání bytu bez právního důvodu platil cenový předpis o výši nájemného, se řídí výše bezdůvodného obohacení za užívání bytu podle výše nájemného určeného znaleckým posudkem, nebo podle cenového předpisu platného v době, kdy byl byt užíván bez právního důvodu.
+Dovolatelka současně napadá výrok, kterým v rámci změny rozsudku soudu prvního stupně jí byla uložena povinnost zaplatit žalobkyni částku 11.724,90 Kč s příslušenstvím, když přípustnost dovolání v tomto případě dovozuje z ustanovení
+§ 237 odst. 1 písm. a) o.s.ř. Odvolacímu soudu vytýká nesprávné zjištění aktivní legitimace žalobkyně.
+Dovolatelka navrhla, aby dovolací soud rozsudek odvolacího soudu zrušil a věc vrátil tomuto soudu k dalšímu řízení.
+Dovolací soud po té, co přihlédl k čl. II bodu 12. zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, konstatuje, že dovolání, pokud směřuje do potvrzující části rozsudku odvolacího soudu, není přípustné podle ustanovení § 237 odst. 1 písm. b) o.s.ř. (soud prvního stupně v předchozích a později zrušených rozsudcích rozhodl shodně) a nebylo shledáno přípustným ani podle ustanovení § 237 písm. c) téhož zákona, neboť rozhodnutí odvolacího soudu ve věci samé nelze posuzovat jako rozhodnutí mající po právní stránce zásadního významu ve smyslu ustanovení § 237 odst. 3 o.s.ř. Otázku výkladu ustanovení § 451 násl. o.z. odvolací soud posoudil náležitě a současně v souladu s judikaturou dovolacího soudu (analogicky srovnej např. stanovisko Nejvyššího soudu ČR ze dne 30. prosince 1983, sp.zn. Cpj 40/83 a rozsudek téhož soudu ze dne 6. listopadu 2001, sp.zn. 29 Cdo 2235/2000). Jestliže z obsahu dovolání vyplývá též dovolací důvod podle ustanovení § 241a odst. 2 písm. a) o.s.ř., nesměřuje k podmínce existence právní otázky zásadního významu, a jestliže lze z dovolání dovodit (§ 41 odst. 2 o.s.ř.) též uplatnění dovolacího důvodu podle ustanovení § 241a odst. 3 o.s.ř., nemohlo k němu být při posouzení, zda je dovolání přípustné podle § 237 odst. 1 písm. c) o.s.ř., přihlédnuto (srovnej např. usnesení Nejvyššího soudu ČR ze dne 29. června 2004, sp.zn. 21 Cdo 541/2004, uveřejněné pod č. 132 v časopisu Soudní judikatura, ročník 2004, nebo v usnesení Ústavního soudu ČR ze dne 7. března 2006, sp.zn. III. ÚS 10/06, uveřejněné pod č. 130 v časopise Soudní judikatura, ročník 2006). Dovolání bylo proto v této části odmítnuto jako nepřípustné podle § 243b odst. 5 o.s.ř. ve spojení s § 218 písm. c/ téhož zákona.
+Pokud dovolání směřuje proti výroku rozsudku odvolacího soudu, kterým byl změněn zamítavý výrok rozsudku soudu prvního stupně tak, že žalované bylo uloženo zaplatit žalobkyni 11.724,90 Kč s příslušenstvím, není přípustné podle § 237 odst. 1 písm. a) o.s.ř., neboť dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 20.000,- Kč (§ 237 odst. 2 písm. a/ o.s.ř.). I v této části proto bylo třeba dovolání odmítnout (§ 243b odst. 5 o.s.ř. ve spojení s § 218 písm. c/ téhož zákona).
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 5 věta prvá o.s.ř. ve spojení s § 224 odst. 1, § 151 o.s.ř., neboť žalovaná s ohledem na výsledek řízení nemá na náhradu svých nákladů právo a žalobkyni v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 31. srpna 2009
+JUDr. Pavel Pavlík, v. r.
+předseda senátu
