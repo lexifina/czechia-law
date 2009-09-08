@@ -1,0 +1,26 @@
+28 Cdo 2996/2009
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy JUDr. Ludvíka Davida, CSc., a soudců JUDr. Josefa Rakovského a JUDr. Jana Eliáše, PhD., v právní věci žalobkyně: S.U.R., zastoupené advokátem, proti žalovanému Mgr. M. F., správci konkurzní podstaty úpadce R., spol. s r. o., o uložení povinnosti vymáhat společnou pohledávku, vedené u Okresního soudu v Opavě pod sp. zn. 25 C 128/2006, o dovolání žalobkyně proti rozsudku Krajského soudu v Ostravě ze dne 26. 3. 2009, č. j. 8 Co 113/2009-49, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Rozsudkem Krajského soudu v Ostravě výše označeným byl potvrzen rozsudek Okresního soudu v Opavě ze dne 25.11.2008, č.j. 25 C 128/2006-29, kterým byla zamítnuta žaloba, jíž se žalobkyně domáhala, aby byla žalovanému uložena povinnost, že veškeré (i budoucí) pohledávky ,,Sdružení“ (nezaplacené faktury vedené v účetních knihách ,,Sdružení“, úroky z prodlení, náhrady škod, smluvní pokuty) a především pak pohledávku, která je vymáhána v řízení vedeném u Okresního soudu v Nymburce pod sp. zn. 9 C 249/2006, je s odvoláním na znění článku I. smlouvy o ,,Sdružení“ Mgr. M. F. jako správce konkurzní podstaty úpadce R., spol. s r. o., povinen po dlužnících, zejména pak vůči společenství vlastníků ,,S. S. čp. 560“, vymáhat u soudů společně s žalobkyní jako společnou pohledávku obou subjektů dle § 91 odst. 2 o. s. ř.
+Odvolací soud dospěl ve shodě se soudem prvního stupně k závěru, že žádný právní předpis ani smlouva žalovanému neukládá povinnost jednat způsobem výše uvedeným.
+Proti rozsudku odvolacího soudu podala žalobkyně dovolání, ve kterém se soustředila zejména na zevrubné shrnutí skutkového stavu věci. Právní otázku zásadního významu ve svém podání nevymezila. Navrhla, aby dovolací soud zrušil rozsudky soudů obou stupňů a vrátil věc soudu prvního stupně k dalšímu řízení.
+Žalovaný se k podanému dovolání nevyjádřil.
+Nejvyšším soudem bylo zjištěno, že dovolání bylo podáno v zákonné lhůtě, osobou k tomu oprávněnou – účastníkem řízení, řádně zastoupeným advokátem (§ 240 odst. 1 o. s. ř., § 241 odst. 1 o. s. ř.).
+Přípustnost dovolání byla žalobkyní dovozována z ustanovení § 237 odst. 1 písm. c/ a odst. 3 o. s. ř. Uplatněný dovolací důvod lze pak podřadit pod § 241a odst. 2 písm. b/ o. s. ř., tj. tvrzené nesprávné právní posouzení věci.
+Dovolání není přípustné.
+Pro shledání přípustnosti dovolání ve smyslu výše citovaných ustanovení by dovolací soud musel dospět k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam. Uvedené podmínky však rozhodnutí odvolacího soudu ve spojení s dovoláním žalobkyně nesplňuje.
+Předpokládá se totiž, že dovolatel jasně vymezí právní otázku, která má být ze strany dovolacího soudu posouzena. Jestliže tak žalobkyně v daném případě neučinila, nemohla očekávat, že by Nejvyšší soud přezkoumal věc bez přihlédnutí k zákonným omezením vyjádřeným především v ustanovení § 242 o. s. ř.
+K otázce přípustnosti dovolání lze dále upozornit na usnesení Nejvyššího soudu ze dne 15.2.2001, sp. zn. 22 Cdo 1731/99, v němž se dovozuje, že „pokud je řešení konkrétní právní otázky spojeno s posuzováním jedinečného skutkového základu, nečiní to rozhodnutí odvolacího soudu rozhodnutím po právní stránce zásadního významu.“
+Z hmotněprávního hlediska byl daný případ zcela správně podřazen pod ustanovení § 513 obč. zák., ve kterém je zohledněna situace, kdy je dlužník zavázán ke stejnému plnění několika věřitelům, kteří jsou podle smlouvy vůči němu oprávněni společně a nerozdílně. V takovém případě může kdokoli z věřitelů žádat celé plnění a dlužník je povinen splnit v celém rozsahu tomu, kdo o plnění požádá první.
+Dále je vhodné uvést, že se v této věci nejedná o žalobkyní proklamovaný případ nerozlučného společenství účastníků řízení ve smyslu ustanovení § 91 odst. 2 o. s. ř. Pokud by byla dána existence tohoto procesněprávního institutu i v projednávané kauze, bylo by nutné, aby na straně žalobce vystupovali oba účastníci uzavřené smlouvy o sdružení. Nicméně je třeba mít na paměti, že ani za takové situace by žalovaný nemohl být nucen k tomu, aby předmětné pohledávky vymáhal spolu se žalobkyní. S takovým postupem by totiž musel projevit souhlas.
+.
+Požadavek žalobkyně tedy nemá oporu ani po hmotněprávní, ani po procesní stránce, a proto bylo jeho zamítnutí ze strany nižších instancí logickým a zcela pochopitelným důsledkem.
+S ohledem na výše uvedené není možné usoudit na jakýkoli judikatorní přesah projednávané věci a nelze tudíž ani dovodit přípustnost dovolání ve smyslu ustanovení § 237 odst. 1 písm. c/ o. s. ř. Nejvyšší soud proto dovolání žalobkyně dle ustanovení § 243b odst. 5, § 218 písm. c/ a za použití § 243c odst. 2 o. s. ř. jako nepřípustné odmítl.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 o. s. ř. za použití § 224 odst. 1 o. s. ř., § 151 odst. 1 o. s. ř., § 142 odst. 1 o. s. ř. a § 146 odst. 3 o. s. ř. Žalobkyně nebyla v dovolacím řízení úspěšná, žalovanému však v souvislosti s podaným dovoláním žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 8. září 2009
+JUDr. Ludvík D a v i d, CSc., v. r.
+předseda senátu
