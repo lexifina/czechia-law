@@ -1,0 +1,23 @@
+30 Cdo 4005/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy
+JUDr. Pavla Pavlíka a soudců JUDr. Karla Podolky a JUDr. Pavla Vrchy v právní věci žalobce J. Č., zastoupeného advokátkou, proti žalovanému M. J., zastoupenému
+advokátkou, o zaplacení částky 260.000,- Kč s příslušenstvím, vedené u Okresního soudu v Rychnově nad Kněžnou pod sp. zn. 7 C 237/2002, o dovolání žalovaného proti rozsudku Krajského soudu v Hradci Králové ze dne 20. června 2007, č.j.
+24 Co 58/2007-205, takto:
+I. Dovolání žalovaného se odmítá.
+II. Žádný z účastníků nemá nárok na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění
+(§ 243c odst. 2 o.s.ř.):
+Okresní soud v Rychnově nad Kněžnou rozsudkem ze dne 2. listopadu 2006, č.j. 7 C 237/2002-157, uložil žalovanému povinnost zaplatit žalobci z titulu vydání bezdůvodného obohacení částku 260.000,- Kč s 6,25% úrokem z prodlení
+od 12.10. 2001 do zaplacení. Současně rozhodl o náhradě nákladů řízení a
+o povinnosti zaplatit soudní poplatek.
+Krajský soud v Hradci Králové k odvolání žalovaného rozsudkem ze dne
+20. června 2007, č.j. 24 Co 58/2007-205, rozsudek soudu prvního stupně podle ustanovení § 219 občanského soudního řádu (dále jen „o.s.ř.“) potvrdil a rozhodl
+o náhradě nákladů odvolacího řízení.
+Proti tomuto rozsudku odvolacího soudu podal žalovaný prostřednictvím své advokátky včasné dovolání, jehož přípustnost dovozuje z § 237 odst. 1 písm. b) a c) o.s.ř. Namítá, že řízení, které předcházelo vydání napadeného rozhodnutí je postiženo vadou, která mohla mít za následek nesprávné rozhodnutí ve věci [§ 241a odst. 2 písm.a) o.s.ř.], že rozhodnutí spočívá na nesprávném právním posouzení věci [§ 241a odst. 2 písm. b) o.s.ř.] a že vychází ze skutkového zjištění, které nemá podle obsahu spisu v podstatné části oporu v provedeném dokazování (§ 241a odst. 3 o.s.ř.). Podle dovolatele soud prvního stupně rozsudkem ze dne 2. listopadu 2006, č.j. 7 C 237/2002-157, rozhodl ve věci samé jinak než v dřívějším rozhodnutí proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil. Kromě toho se domnívá, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam, když v praxi soudů dosud nebyla vyřešena otázka, jaké kvality nebo druhu musí být důkazy, jestliže jimi má být zpochybněna věrohodnost důkazních prostředků, na nichž spočívá rozhodnutí soudu prvního stupně. Navrhl, aby Nejvyšší soud České republiky dovoláním napadené rozhodnutí odvolacího soudu i rozhodnutí soudu prvního stupně zrušil a věc vrátil k dalšímu řízení Okresnímu soudu v Rychnově nad Kněžnou.
+Dovolací soud po té, co přihlédl k čl. II bodu 12. zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, konstatuje, že ve věci nejsou naplněny předpoklady přípustnosti dovolání podle ustanovení § 237 odst. 1 písm. a) a b) o.s.ř. Napadeným rozsudkem především nebyl změněn rozsudek soudu prvního stupně ve výrocích ve věci samé. Pokud rozsudku soudu prvního stupně předcházel jiný, a odvolacím soudem později zrušený rozsudek téhož soudu, jímž byla žaloba zamítnuta, pak důvodem jeho zrušení byla v prvé řadě nepřezkoumatelnost původního rozhodnutí, resp. též nedostatky ve skutkových zjištěních. Jestliže proto soud prvního stupně dalším rozsudkem žalobě vyhověl, nestalo se tak z důvodu vázanosti právním názorem odvolacího soudu. Námitkami proti hodnocení důkazů soudy obou stupňů žalovaný uplatňuje dovolací důvod podle ustanovení § 241a odst. 3 o.s.ř., k němuž nemohlo být při posouzení, zda je dovolání přípustné podle § 237 odst. 1 písm. c) o.s.ř., přihlédnuto (srovnej např. usnesení Nejvyššího soudu ČR ze dne 29. června 2004, sp.zn. 21 Cdo 541/2004, uveřejněné pod č. 132 v časopisu Soudní judikatura, ročník 2004, nebo v usnesení Ústavního soudu ČR ze dne 7. března 2006, sp. zn. III. ÚS 10/06, uveřejněné pod č. 130 v časopise Soudní judikatura, ročník 2006). Obdobně, pokud je v dovolání uplatněn dovolací důvod podle § 241a odst. 2 písm. a) o.s.ř., nesměřuje k podmínce existence právní otázky zásadního významu. Dovolání bylo proto odmítnuto jako nepřípustné podle § 243b odst. 5 o.s.ř. ve spojení s § 218 písm. c) téhož zákona.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 5 věta prvá o.s.ř. ve spojení s § 224 odst. 1, § 151 o.s.ř., neboť žalovaný s ohledem na výsledek řízení nemá na náhradu svých nákladů právo a žalobci v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 9. září 2009
+JUDr. Pavel Pavlík, v. r.
+předseda senátu
