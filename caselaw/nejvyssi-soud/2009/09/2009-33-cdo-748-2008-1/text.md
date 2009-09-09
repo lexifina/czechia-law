@@ -1,0 +1,28 @@
+33 Cdo 748/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně
+JUDr. Blanky Moudré a soudců JUDr. Ivany Zlatohlávkové a JUDr. Pavla Krbka ve věci žalobce R. M., zastoupeného advokátem, proti žalovanému B. Š., zastoupenému advokátkou, o zaplacení částky 959.417,- Kč s příslušenstvím, vedené u Okresního soudu v Prostějově pod sp. zn. 5 C 2/2002, o dovolání žalovaného proti rozsudku Krajského soudu v Brně ze dne 5. května 2005, č. j. 14 Co 162/2004-125, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Okresní soud v Prostějově rozsudkem ze dne 16. října 2003, č. j. 5 C 2/2002-102, uložil žalovanému povinnost zaplatit žalobci do 15 dnů od právní moci rozsudku částku 959.417,- Kč s 12% úrokem z prodlení z částky 723.417,- Kč od 1. 8. 1999
+do zaplacení a úrok z prodlení ve výši 10% ročně z částky 236.000,- Kč od 1. 1. 2000
+do zaplacení (výrok I.) a rozhodl o nákladech řízení (výrok II.).
+Krajský soud v Brně rozsudkem ze dne 5. května 2005, č. j. 14 Co 162/2004-125, rozsudek soudu prvního stupně v části výroku I., jíž byla žalovanému uložena povinnost zaplatit žalobci částku 931.182,- Kč, potvrdil, v části výroku I., jíž byla žalovanému uložena povinnost zaplatit žalobci částku 28.235,- Kč a 12% úrok z částky 723.417,- Kč od 1. 8. 1999 do zaplacení a 10% úrok z částky 236.000,- Kč od 1. 1. 2000 do zaplacení, a ve výroku II. o náhradě nákladů řízení zrušil a v tomto rozsahu jej vrátil soudu prvního stupně k dalšímu řízení.
+Rozsudek odvolacího soudu v celém rozsahu napadl žalovaný dovoláním, jehož přípustnost opřel o § 237 odst. 1 písm. c/ o. s. ř., a označil v něm dovolací důvody podle § 241a odst. 2 písm. a/ a b/ o. s. ř. Vadu řízení, která mohla mít za následek nesprávné rozhodnutí ve věci, spatřuje v tom, že ačkoli žalobce zprvu (v žalobě) požadoval žalovanou částku z titulu nezaplacené kupní ceny a posléze (v podání ze dne 4. 12. 2002) z titulu nedoplatku půjčky, soud prvního stupně rozhodl ve věci, aniž o změně žaloby rozhodl, a odvolací soud v jeho postupu pochybení neshledal s odůvodněním, že podání žalobce ze dne 4. 12. 2002 změnu žaloby neobsahovalo. Žalovaný má naopak za to, že podání bylo změnou žaloby, neboť žalobce sice požadoval stejné plnění, avšak na základě jiného skutkového stavu, a že bylo povinností soudu prvního stupně o změně žaloby rozhodnout. Jeho námitka promlčení by tak byla důvodná a nárok by nemohl být žalobci přiznán.
+V řízení o dovolání bylo postupováno podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění do 31. 3. 2005 - dále opět jen „o. s. ř.“ (srovnej článek II bod 2. a 3. obsahující přechodná ustanovení zákona č. 59/2005 Sb., kterým byla s účinností ke dni 1. 4. 2005 provedena novela občanského soudního řádu).
+Přípustnost dovolání žalovaného směřující proti části rozsudku odvolacího soudu, jíž byl částečně zrušen rozsudek soudu prvního stupně a věc mu byla v tomto rozsahu vrácena k dalšímu řízení, nelze dovodit z žádného ustanovení § 237 až § 239
+o. s. ř.; nejedná se o rozhodnutí měnící či potvrzující a ani o žádné rozhodnutí vyjmenované v § 238 až § 239 o. s. ř.
+Dovolání žalovaného proti části rozsudku odvolacího soudu, jíž byl částečně potvrzen rozsudek soudu prvního stupně, není přípustné podle § 237 odst. 1 písm. b/
+o. s. ř., a nebylo shledáno přípustným ani podle § 237 odst. 1 písm. c/ o. s. ř., neboť napadený rozsudek odvolacího soudu nemá po právní stránce zásadní význam (§ 237 odst. 3 o. s. ř.).
+Protože je přípustnost dovolání v posuzované věci spjata se závěrem o zásadním právním významu napadeného rozhodnutí, je dovolací přezkum otevřen zásadně
+pro posouzení otázek právních; způsobilým dovolacím důvodem je tudíž pouze důvod podle § 241a odst. 2 písm. b/ o. s. ř., jímž lze vytýkat, že rozhodnutí spočívá
+na nesprávném právním posouzení věci. Žalovaný sice použití tohoto dovolacího důvodu avizoval, ve skutečnosti jej však v dovolání (posuzováno podle obsahu - § 41 odst. 2 o. s. ř.) neuplatnil.
+Námitkou, že soud prvního stupně nerozhodl o změně žaloby, ač tak podle § 95 o. s. ř. učinit měl, a že odvolací soud nenapravil pochybení soudu prvního stupně a
+ve shodě s ním neposoudil podání ze dne 4. 12. 2002 jako změnu žaloby, uplatnil žalovaný dovolací důvod podle § 241a odst. 2 písm. a/ o. s. ř., který ovšem v posuzovaném případě není způsobilý přípustnost dovolání podle § 237 odst. 1 písm. c/ o. s. ř. založit. Tato tvrzená vada řízení totiž nemůže být otázkou zásadního právního významu podle § 237 odst. 3 o. s. ř., jelikož nejde o otázku výkladu procesního práva, která nebyla v rozhodování dovolacího soudu dosud řešena nebo je odvolacími soudy nebo dovolacím soudem řešena rozdílně; nelze přehlédnout, že posouzení otázky, zda měl soud prvního stupně v konkrétní věci připustit změnu žaloby, postrádá i potřebný judikatorní přesah (srovnej nález Ústavního soudu ze dne 9. 1. 2008, sp. zn. II. ÚS 650/06, usnesení Ústavního soudu ze dne 17. 5. 2007, sp. zn. IV. ÚS 804/07, ze dne 28. 2. 2008, sp. zn. III. ÚS 1970/07, a ze dne 9. 7. 2009, sp. zn. II. ÚS 944/09).
+Lze uzavřít, že dovolání směřuje proti rozsudku odvolacího soudu, proti němuž není tento mimořádný opravný prostředek přípustný. Nejvyšší soud je proto podle
+§ 243b odst. 5 věty první a § 218 písm. c/ o. s. ř. odmítl.
+O nákladech dovolacího řízení Nejvyšší soud nerozhodoval, jelikož jeho rozhodnutím řízení nekončí; ve věci bude vydáno ještě konečné rozhodnutí o části uplatněného nároku s příslušenstvím a o nákladech řízení - včetně nákladů dovolacího řízení (§ 243b odst. 5 věta první, § 224 odst. 1 a § 151 odst. 1 o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 9. září 2009
+JUDr. Blanka Moudrá, v. r.
+předsedkyně senátu
