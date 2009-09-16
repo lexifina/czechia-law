@@ -1,0 +1,22 @@
+28 Cdo 2708/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně
+JUDr. Ivy Brožové a soudců JUDr. Josefa Rakovského a JUDr. Jana Eliáše, Ph.D., v právní věci žalobců a) D. Ch., a b) J. Ch., zastoupených advokátem, proti žalované
+T. J. B. P., zastoupené advokátkou, o zaplacení částky 1.532.766,80 Kč s příslušenstvím, vedené u Okresního soudu v Příbrami pod sp. zn. 12 C 99/2006, o dovolání žalované proti rozsudku Krajského soudu v Praze ze dne 17. února 2009, č. j. 22 Co 565, 566/2008-260, takto:
+I. Dovolání se odmítá.
+II. Žalovaná je povinna zaplatit žalobcům na náhradě nákladů dovolacího řízení částku 26.640,50 Kč do tří dnů od právní moci tohoto rozsudku k rukám advokáta.
+O d ů v o d n ě n í :
+(§ 243c odst. 2 o.s.ř.)
+Krajský soud v Praze v záhlaví citovaným rozsudkem potvrdil rozsudek Okresního soudu v Příbrami ze dne 2. května 2008, č.j. 12 C 99/2006-210, kterým byla žalovaná uznána povinnou zaplatit žalobcům částku 1.532.766,80 Kč s příslušenstvím. Uzavřel, že žalovaná se na úkor žalobců bezdůvodně obohatila tím, že bez právního důvodu užívala pozemky ve vlastnictví žalobců a bránila jim v užívání tenisových kurtů, které jsou částí předmětného pozemku. Podle odvolacího soudu měla žalovaná námitku vydržení práva odpovídajícího věcnému břemenu uplatnit již v řízení vedeném
+u Okresního soudu v Příbrami pod sp. zn. 9 C 37/2005, v němž bylo pravomocně rozhodnuto, že na předmětném pozemku věcné břemeno užívání nevázne.
+Za situace, kdy odvolací soud potvrdil první rozhodnutí soudu prvního stupně v projednávané věci, může být dovolání shledáno přípustným jen při splnění předpokladů uvedených v § 237 odst. 1 písm. c) o.s.ř. Zásadní právní význam spatřuje žalovaná v otázce, zda její právo trvalého užívání ve smyslu § 70 zákona č. 109/1964 Sb., hospodářského zákoníku, zaniklo zrušením dopisem Okresního úřadu v P. ze dne 19. 1. 1994, č.j. Fin.72.2-S/OÚ-19/93.
+Podle § 70 odst. 1 hosp. zák., ve znění ke dni 31.12.1991 (jehož se s ohledem na § 763 odst. 1 obch. zák. použije na právní vztahy vzniklé před 1.1.1992), části národního majetku mohou být odevzdány bezplatně do trvalého užívání jiným organizacím než státním, zejména družstevním, nebo občanským sdružením. Podle odst. 3 téhož ustanovení majetek odevzdaný do trvalého užívání může být organizaci odňat, neplní-li své povinnosti trvalého uživatele; jinak jen tehdy, vyžaduje-li to vyšší společenský zájem.
+V projednávané věci vycházely soudy nižších stupňů z tvrzení žalované, že právo trvalého užívání pozemku bylo zrušeno dopisem Okresního úřadu v P.
+ze dne 19. 1. 1994, č.j. Fin.72.2-S/OÚ-19/93, a to na její vlastní žádost ze dne 18.1.1994. Z předeslaného dopisu nelze dovodit, že by ke zrušení práva trvalého užívání pozemku došlo v rozporu s ustanovením § 70 hospodářského zákoníku, neboť v projednávané věci se nejednalo o odnětí práva podle odst. 3 citovaného ustanovení, nýbrž o zrušení práva na žádost oprávněné, tj. dohodou. Pokud žalovaná v dovolání tvrdí, že dopisem ze dne 28.12.1993 požádala Okresní úřad v P. o zrušení práva trvalého užívání za podmínky, že pozemek bude prodán T. P.za odhadní cenu a žalované bude zřízeno věcné břemeno, jedná se o novou skutečnost a nově uplatněný důkaz (dopis ze dne 28.12.1993 nebyl v předchozím řízení navrhován k důkazu), které podle
+§ 241a odst. 4 o.s.ř. v dovolání uplatnit nelze.
+Protože žádná ze vznesených dovolacích námitek nezakládá závěr o zásadním právním významu dovoláním napadeného rozhodnutí, dovolací soud podané dovolání podle § 243b odst. 5 věta první a § 218 písm. c) o.s.ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o.s.ř. Žalované, jejíž dovolání bylo odmítnuto, uložil dovolací soud povinnost zaplatit žalobcům účelně vynaložené náklady, které jim vznikly v souvislosti s podáním vyjádření k dovolání prostřednictvím advokáta. Tyto náklady sestávají z odměny advokáta ve výši 22.087,- Kč (§ 10 odst. 3, § 10 odst. 1, § 15, § 18 odst. 1 věta první a § 19a vyhlášky č. 484/2000 Sb., v platném znění), z paušální částky náhrad hotových výdajů za jeden úkon právní služby ve výši 300,- Kč (§ 2 odst. 1, § 13 odst. 1, 3 vyhlášky č. 177/1996 Sb., v platném znění) a 19 % DPH ve výši 4.253,50 Kč. Platební místo a lhůta ke splnění uložené povinnosti byly stanoveny podle § 149 odst. 1 a § 160 odst. 1 o.s.ř.
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 16. září 2009
+JUDr. Iva Brožová, v. r.
+předsedkyně senátu
