@@ -1,0 +1,28 @@
+6 Tdo 1141/2009
+U S N E S E N Í
+Nejvyšší soud České republiky projednal v neveřejném zasedání konaném dne 24. září 2009 dovolání, která v trestní věci obviněného A. L., podaly poškozené společnosti A. S., sídlem B., H. a A. T. L., sídlem C. B. C. L., L. H., A. P., L., proti usnesení Vrchního soudu v Praze ze dne 26. 3. 2009, sp. zn. 4 To 105/2008, jako soudu odvolacího v trestní věci vedené u Městského soudu v Praze pod sp. zn. 49 T 14/2007, a rozhodl t a k t o :
+Podle § 265i odst. 1 písm. c) tr. ř. se dovolání poškozených společností A. S., sídlem B., H. a A. T. L., sídlem C. B. C. L., L. H., A. P., L., o d m í t a j í .
+O d ů v o d n ě n í :
+Rozsudkem Městského soudu v Praze ze dne 1. 10. 2008, sp. zn. 49 T 14/2007, byl obviněný A. L. uznán vinným trestným činem podvodu podle § 250 odst. 1, 4 tr. zák., a to na podkladě skutkového zjištění, jak je v rozhodnutí uvedeno. Za tento trestný čin byl obviněný odsouzen podle § 250 odst. 4 tr. zák. za použití § 35 odst. 2 tr. zák. k souhrnnému trestu odnětí svobody v trvání pěti roků, pro jehož výkon byl podle § 39a odst. 3 tr. zák. zařazen do věznice s dozorem. Podle § 35 odst. 2 tr. zák. byl současně zrušen výrok o trestu z trestního příkazu Obvodního soudu pro Prahu 5 ze dne 30. 10. 2005, sp. zn. 30 T 186/2006, jakož i všechna další rozhodnutí na tento výrok obsahově navazující, pokud vzhledem ke změně, k níž došlo zrušením, pozbyla podkladu.
+Podle § 228 odst. 1 tr. ř. a § 229 odst. 2 tr. ř. bylo rozhodnuto o uplatněných nárocích poškozených subjektů specifikovaných na str. 4 rozsudku na náhradu škody.
+Podle § 229 odst. 1 tr. ř. byly poškozené společnosti A. S., sídlem B., H. a A. T. L., sídlem C. B. C. L., L. H., A. P., L., registrovaná v A., odkázány se svými nároky na náhradu škody na řízení ve věcech občanskoprávních.
+Vůči konstatovanému rozsudku podaly obě v předchozím odstavci tohoto rozhodnutí označené poškozené společnosti odvolání.
+Usnesením Vrchního soudu v Praze ze dne 26. 3. 2009, sp. zn. 4 To 105/2008, bylo rozhodnuto:
+Podle § 253 odst. 1 tr. ř. bylo zamítnuto odvolání poškozené společnosti A. S., sídlem B., H.
+Podle § 256 tr. ř. bylo zamítnuto odvolání poškozené společnosti A. T. L., sídlem C. B. C. L., L. H., A. P., L.
+Citované usnesení, a to výroky, jimiž bylo zamítnuto jejich odvolání, napadly poškozené společnosti A. S. a A. T. L. dovoláním.
+V samostatných podáních vyslovily obě poškozené společnosti zásadní nesouhlas s rozhodnutími soudů obou stupňů, s argumentací a nedostatečným odůvodněním těchto rozhodnutí, pokud byly se svými nároky na náhradu škody vůči obviněnému odkázány na občanskoprávní řízení. Zejména v podrobnostech namítly, že tento závěr nemá oporu v provedených důkazech a odporuje zákonu.
+Z popsaných důvodů obě poškozené společnosti shodně navrhly, aby Nejvyšší soud zrušil napadené usnesení odvolacího soudu, jakož i předcházející rozsudek prvostupňového soudu a vrátil věc Městskému soudu v Praze k novému projednání a rozhodnutí.
+K podaným dovoláním se ve smyslu znění § 265h odst. 2 věty první tr. ř. písemně vyjádřil státní zástupce Nejvyššího státního zastupitelství.
+Státní zástupce připomněl dosavadní průběh řízení. Konstatoval, že proti rozhodnutí odvolacího soudu podaly obě poškozené společnosti samostatnými podáními dovolání, v jejichž textu není uvedeno, o který dovolací důvod podle § 265b tr. ř. jsou opřena. Současně poukázal na ustanovení § 265d odst. 1 písm. a), b) tr. ř., podle kterých mohou dovolání podat pouze nejvyšší státní zástupce a obviněný. V návaznosti na to zdůraznil, že poškozený není osobou oprávněnou podat dovolání. V dovolacím řízení tudíž není nutné ani možné zabývat se nejen námitkami uplatněnými v dovoláních, ale ani otázkou, zda tato dovolání splňují všechny formální obsahové náležitosti uvedené v § 265f odst. 1 tr. ř.
+Závěrem vyjádření státní zástupce navrhl, aby Nejvyšší soud podle § 265b odst. 1 písm. c) tr. ř. dovolání poškozených společností A. T. L. a A. S. odmítl, protože byla podána osobami neoprávněnými a rozhodnutí učinil podle § 265r odst. 1 písm. a) tr. ř. v neveřejném zasedání. Pro případ, že by dovolací soud dospěl k závěru, že je namístě rozhodnout jiným způsobem, než je navrhován, vyslovil podle § 265r odst. 1 písm. c) tr. ř. souhlas s rozhodnutím věci v neveřejném zasedání.
+Nejvyšší soud jako soud dovolací (§ 265c tr. ř.) při posuzování podaných dovolání shledal, že v předmětné trestní věci je sice dovolání přípustné [§ 265a odst. 1, 2 písm. h) tr. ř.], avšak v daném případě nebyla dovolání podána oprávněnými osobami.
+Podle § 265d odst. 1 písm. a), b) tr. ř. platí, že dovolání mohou podat
+a) nejvyšší státní zástupce na návrh krajského nebo vrchního státního zástupce anebo i bez takového návrhu pro nesprávnost kteréhokoli výroku rozhodnutí soudu, a to ve prospěch i v neprospěch obviněného,
+b) obviněný pro nesprávnost výroku rozhodnutí soudu, který se ho bezprostředně dotýká.
+Z citovaných zákonných ustanovení vyplývá, že dovolání mohou podat pouze zde taxativně uvedené osoby, tj. nikoli poškozený. Současně je zjevné, že v dané trestní věci byla dovolání podána jinými než v zákoně oprávněnými osobami.
+Z těchto jen stručně popsaných důvodů (§ 265i odst. 2 tr. ř.) Nejvyšší soud podle § 265i odst. 1 písm. c) tr. ř. dovolání poškozených společností A. S., sídlem B., H. a A. T. L., sídlem C. B. C. L., L. H., A. P., L., odmítl, neboť byla podána osobami neoprávněnými. Proto nemohl postupovat podle § 265i odst. 3 tr. ř. (věc meritorně přezkoumat), přičemž rozhodnutí učinil v souladu s ustanovením § 265r odst. 1 písm. a) tr. ř. v neveřejném zasedání.
+P o u č e n í : Proti rozhodnutí o dovolání není s výjimkou obnovy řízení opravný prostředek přípustný (§ 265n tr. ř.).
+V Brně dne 24. září 2009
+Předseda senátu:
+JUDr. Jiří H o r á k
