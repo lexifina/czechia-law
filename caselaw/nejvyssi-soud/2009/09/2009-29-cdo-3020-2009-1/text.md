@@ -1,0 +1,16 @@
+29 Cdo 3020/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudců JUDr. Ivany Štenglové a Mgr. Petra Šuka v právní věci žalobce D. L., zastoupeného JUDr. J. R., advokátem, proti žalovanému Ing. J. Š., o zaplacení částky 53.389,95 Kč s příslušenstvím, vedené u Okresního soudu v Příbrami pod sp. zn. 16 C 34/2007, o dovolání žalovaného proti rozsudku Krajského soudu v Praze ze dne 17. března 2009, č. j. 21 Co 56/2009-161, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalovaný podal 10. června 2009 dovolání (č.l. 170) proti v záhlaví označenému rozsudku, jímž Krajský soud v Praze změnil rozsudek Okresního soudu v Příbrami ze dne 8. října 2008, č. j. 16 C 34/2007-130, tak, že žalovanému uložil zaplatit žalobci částku 53.389,95 Kč s 29% úrokem z prodlení z částky 50.154,42 Kč od 8. září 2005 do zaplacení.
+Podle ustanovení § 241 občanského soudního řádu (dále jen „o. s. ř.“), není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními právními předpisy (odstavec 1). Odstavec 1 neplatí, a) je-li dovolatelem fyzická osoba, která má právnické vzdělání, b) je-li dovolatelem právnická osoba, stát, obec nebo vyšší územně samosprávný celek, jedná-li za ně osoba uvedená v § 21, § 21a anebo v § 21b, která má právnické vzdělání (odstavec 2). Odstavec 1 neplatí také tehdy, je-li dovolatelem obec, kterou zastupuje stát podle § 26a, jedná-li jménem státu za zastoupenou obec osoba uvedená v § 26a odst. 3, která má právnické vzdělání (odstavec 3). Dovolání musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem, notářem nebo osobou uvedenou v § 21, § 21a, § 21b, anebo v § 26a odst. 3, která má právnické vzdělání (odstavec 4).
+Jelikož dovolatel v dovolacím řízení není zastoupen advokátem a z obsahu spisu nevyplývá, že by měl právnické vzdělání, soud prvního stupně ho v souladu s ustanovením § 241b odst. 2 a § 104 odst. 2 o. s. ř. vyzval (usnesením ze dne 11. června 2009, č. j. 16 C 34/2007-172, které bylo odvolateli doručeno 23. června 2009), aby nedostatek povinného zastoupení v určené patnáctidenní lhůtě odstranil. Současně ho poučil o následcích případné nečinnosti.
+Povinné zastoupení dovolatele podle ustanovení § 241 o. s. ř. je zvláštní podmínkou dovolacího řízení, týkající se účastníka řízení (dovolatele), bez jejíhož splnění nelze vydat - s výjimkou usnesení, jímž se dovolací řízení zastavuje nebo usnesení, jímž se dovolání odmítá - rozhodnutí, kterým se dovolací řízení končí.
+V situaci, kdy dovolatel na výzvu soudu prvního stupně nijak nereagoval, Nejvyšší soud dovolací řízení podle ustanovení § 104 odst. 2 a § 241b odst. 2 o. s. ř. zastavil.
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 2 věty první o. s. ř., když dovolatel zavinil, že dovolací řízení bylo zastaveno a žalobci v dovolacím řízení podle obsahu spisu náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 29. září 2009
+JUDr. Petr G e m m e l
+předseda senátu
