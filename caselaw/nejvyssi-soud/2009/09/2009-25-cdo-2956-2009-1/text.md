@@ -1,0 +1,18 @@
+25 Cdo 2956/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Vojtka a soudců JUDr. Marty Škárové a JUDr. Roberta Waltra v právní věci žalobce J. F., proti žalované České republice – Ministerstvu spravedlnosti, o náhradu škody, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 16 C 57/2008, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 3. března 2009, č. j. 20 Co 77/2009-17, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Praze usnesením ze dne 3. 3. 2009, č. j. 20 Co 77/2009-17, k odvolání žalobce potvrdil usnesení ze dne 20. 1. 2009, č. j. 16 C 57/2008-10, jímž Obvodní soud pro Prahu 2 odmítl podání (žalobu) ze dne 10. 1. 2008, a to postupem podle ustanovení § 43 odst. 2 o.s.ř. pro neodstranění vad podání.
+Proti tomuto usnesení podal žalobce vlastnoručně psané dovolání.
+Nejvyšší soud jako soud dovolací vzhledem k ustanovení článku II bodu 12. zákona č. 7/2009 Sb. o dovolání rozhodoval podle občanského soudního řádu ve znění účinném do 30. 6. 2009 (dále jen „o.s.ř.“), a po zjištění, že dovolání, které bylo proti pravomocnému usnesení odvolacího soudu podáno oprávněnou osobou (účastníkem řízení) ve lhůtě uvedené v ustanovení § 240 odst. 1 o.s.ř., dospěl k závěru, že v dané věci brání rozhodnutí o dovolání nedostatek podmínky dovolacího řízení.
+Podle § 241 odst. 1 věty první o.s.ř. není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Podle § 241 odst. 2 o.s.ř. odstavec 1 neplatí, a) je-li dovolatelem fyzická osoba, která má právnické vzdělání, b) je-li dovolatelem právnická osoba, stát, obec nebo vyšší územně samosprávný celek, jedná-li za ně osoba uvedená v § 21, 21a, anebo v § 21b, která má právnické vzdělání. Podle odst. 4 dovolání musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem, notářem nebo osobou uvedenou v § 21, 21a, 21b, anebo v § 26a odst. 3, která má právnické vzdělání.
+Pro podání dovolání, které je mimořádným opravným prostředkem, zákon stanoví požadavek, aby účastník řízení, který podává dovolání, měl buď sám právnické vzdělání, nebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc. Ustanovení § 241 o.s.ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejího splnění nelze o dovolání rozhodnout.
+V posuzované věci žalobce podal vlastnoručně psané dovolání, aniž byl při tomto úkonu zastoupen advokátem, a nebylo prokázáno (ani tvrzeno), že by sám měl právnické vzdělání. Usnesením Obvodního soudu pro Prahu 2 ze dne 1. 6. 2009, č. j. 16 C 57/2008-22 (stejnopis doručen dne 26. 6. 2009), byl žalobce vyzván, aby si pro podání dovolání zvolil zástupce z řad advokátů, jehož prostřednictvím podá řádné dovolání; byl zároveň poučen, že nebude-li ve lhůtě 10 dnů ode dne doručení tohoto usnesení předložena plná moc zvoleného advokáta a jím sepsané dovolání, Nejvyšší soud dovolací řízení zastaví. Žalobce na tuto výzvu nereagoval a nedostatek povinného zastoupení ani do současné doby neodstranil, ačkoliv byl poučen o povinném právním zastoupení v dovolacím řízení i o důsledcích nesplnění této podmínky.
+Nejvyšší soud proto dovolací řízení podle § 243c odst. 1 a § 104 odst. 2 věty třetí o.s.ř. zastavil, aniž se mohl zabývat otázkou dalších náležitostí podaného dovolání.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 věty první a § 146 odst. 1 písm. c) o.s.ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 29. září 2009
+JUDr. Petr Vojtek, v. r.
+předseda senátu
