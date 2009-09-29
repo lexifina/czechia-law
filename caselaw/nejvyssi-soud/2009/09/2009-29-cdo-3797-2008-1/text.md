@@ -1,0 +1,17 @@
+29 Cdo 3797/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivany Štenglové a soudců Mgr. Petra Šuka a Mgr. Filipa Cilečka v právní věci navrhovatele Ing. L. N., zastoupeného JUDr. P. Z., advokátem, za účasti P. s. a v. s., a. s., , o vyslovení neplatnosti usnesení valné hromady, vedené u Městského soudu v Praze pod sp. zn. 16 Cm 168/2005, o dovolání navrhovatele proti usnesení Vrchního soudu v Praze ze dne 26. září 2007, č. j. 14 Cmo 154/2007-95, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+V záhlaví označeným usnesením potvrdil Vrchní soud v Praze k odvolání navrhovatele usnesení ze dne 30. října 2006, č. j. 16 Cm 168/2005-72, jímž Městský soud v Praze zamítl návrh na vyslovení neplatnosti usnesení valné hromady P. s. a v. s., a.s. (dále jen „společnost“), konané dne 15. srpna 2005, o přechodu všech účastnických cenných papírů společnosti, které nejsou ve vlastnictví hlavního akcionáře, na hlavního akcionáře postupem podle ustanovení § 183i a násl. zákona č. 513/1991 Sb., obchodního zákoníku (dále jen „obch. zák.“).
+Proti usnesení odvolacího soudu podal navrhovatel dovolání, jež Nejvyšší soud podle ustanovení § 243b odst. 5, § 218 písm. c/ zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), odmítl.
+Učinil tak proto, že dovolání proti potvrzujícímu výroku usnesení ve věci samé může být přípustné pouze podle ustanovení § 237 odst. 1 písm. c/ o. s. ř. (o situaci předvídanou v ustanovení § 237 odst. 1 písm. b/ o. s. ř. nejde), tedy tak, že dovolací soud - jsa přitom vázán obsahem dovolání (§ 242 odst. 3 o. s. ř.) - dospěje k závěru, že napadené rozhodnutí má po právní stránce zásadní význam. Otázky, jež dovolatel předkládá Nejvyššímu soudu, však napadené usnesení zásadně právně významným nečiní.
+Souladem ustanovení § 183i až § 183n obch. zák. s ústavním pořádkem se zabýval Ústavní soud již v nálezu ze dne 27. března 2008, sp. zn. Pl ÚS 56/2005, uveřejněném pod číslem 257/2008 Sb., jímž zamítl i návrh na zrušení těchto ustanovení ve znění před novelou provedenou zákonem č. 377/2005 Sb. (tj. ve zněním rozhodném pro projednávanou věc), původně vedený pod sp. zn. Pl ÚS 53/2005 (viz odst. 1 až 3 označeného nálezu).
+Posouzení, k jakému dni má znalec v posudku, vypracovaném pro účely výkupu účastnických cenných papírů, stanovit výši protiplnění v penězích, pak nemůže mít žádný význam pro řízení o vyslovení neplatnosti usnesení valné hromady konané podle ustanovení § 183i a násl. obch. zák. Určení výše protiplnění k nesprávnému dni může vést toliko k závěru o nepřiměřenosti výše protiplnění, jež však důvodem pro vyslovení neplatnosti usnesení valné hromady není (§ 183k odst. 5 obch. zák.). Nemůže-li se řešení této otázky projevit v poměrech dovolatele (tj. nemůže-li zvrátit rozhodnutí o zamítnutí jeho návrhu), nelze pro její posouzení dovolání připustit (srov. usnesení uveřejněné pod číslem 27/2001 Sbírky soudních rozhodnutí a stanovisek).
+Důvod připustit dovolání podle § 237 odst. 1 písm. c/ o. s. ř. proto Nejvyšší soud neměl a podle jiných ustanovení občanského soudního řádu dovolání přípustné není.
+Výrok o nákladech řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání navrhovatele bylo odmítnuto a společnosti žádné náklady v souvislosti s dovolacím řízením podle obsahu spisu nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 29. září 2009
+JUDr. Ivana Š t e n g l o v á
+předsedkyně senátu
