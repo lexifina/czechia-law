@@ -1,0 +1,20 @@
+29 Cdo 4285/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Krčmáře a soudců JUDr. Petra Gemmela a JUDr. Ivany Štenglové v právní věci žalobce Ing. J. N., zastoupeného JUDr. O. F., advokátem, proti žalovanému Ing. O. K., jako správci konkursní podstaty úpadkyně S. p. R., a. s., zastoupenému JUDr. R. K., advokátem, o určení pravosti pohledávky, vedené u Krajského soudu v Ústí nad Labem pod sp. zn. 45 Cm 84/2004, o dovolání žalobce proti rozsudku Vrchního soudu v Praze ze dne 10. května 2007, č. j. 15 Cmo 54/2007-114, takto:
+I. Dovolání se odmítá.
+II. Žalobce je povinen zaplatit žalovanému na náhradě nákladů dovolacího řízení částku 3.034,50 Kč, do tří dnů od právní moci tohoto rozhodnutí, k rukám zástupce žalovaného JUDr. R. K.
+O d ů v o d n ě n í:
+Rozsudkem ze dne 15. prosince 2006, č. j. 45 Cm 84/2004-77, zamítl Krajský soud v Ústí nad Labem žalobu, kterou se žalobce Ing. J. N. domáhal vůči žalovanému Ing. V. K. jako správci konkursní podstaty úpadkyně S. p. R., a. s. určení pravosti své pohledávky za úpadkyní ve výši 866.900,- Kč.
+K odvolání žalobce Vrchní soud v Praze v záhlaví označeným rozsudkem potvrdil rozsudek soudu prvního stupně.
+Odvolací soud již o věci jednal a rozhodl o ní vůči novému žalovanému Ing. O. K., jenž byl po smrti původního žalovaného ustaven (usnesením Krajského soudu v Ústí nad Labem ze dne 11. ledna 2007, č. j. 45 K 16/2001-1261) novým správcem konkursní podstaty úpadkyně.
+Dovolání žalobce (uplatňujícího dovolací důvod uvedený v § 241a odst. 2 písm. b/ zákona č. 99/1963 Sb., občanského soudního řádu - dále též jen „o. s. ř.“), jež může být v této věci přípustné jen podle § 237 odst. 1 písm. c/ o. s. ř., Nejvyšší soud odmítl podle § 243b odst. 5 a § 218 písm. c/ o. s. ř. jako nepřípustné.
+Podstata dovolací argumentace je shodná s argumentací v typově shodné věci vedené u Nejvyššího soudu pod sp. zn. 29 Cdo 4284/2007, v níž se další z celkem pěti osob, jež byly v rozhodné době akcionáři i členy představenstva pozdější úpadkyně, domáhala rovněž určení pravosti své pohledávky, jež měla vzniknout stejně jako pohledávka dovolatele v této věci v důsledku rozhodnutí mimořádné valné hromady pozdější úpadkyně z 1. listopadu 2002.
+Právní otázky, pro jejichž řešení přisuzuje dovolatel napadenému rozhodnutí ve věci samé zásadní význam po stránce právní, Nejvyšší soud zodpověděl právě v rozsudku ze dne 30. září 2009, sp. zn. 29 Cdo 4284/2007 (jenž je veřejnosti k dispozici na webových stránkách Nejvyššího soudu), na který v podrobnostech odkazuje a s jehož závěry je napadené rozhodnutí v souladu.
+Výrok o nákladech řízení je ve smyslu § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř. odůvodněn tím, že dovolání žalobce bylo odmítnuto, takže žalovanému vzniklo právo na náhradu účelně vynaložených nákladů dovolacího řízení.
+Ty sestávají z odměny za zastupování advokátem za řízení v jednom stupni (za dovolací řízení), jež podle § 8 ve spojení s § 10 odst. 3, § 14 odst. 1 a § 15 vyhlášky č. 484/2000 Sb. (dále jen „vyhláška“) činí 4.500,- Kč. Takto určená sazba se podle § 18 odst. 1 vyhlášky snižuje o 50 % na částku 2.250,- Kč, jelikož advokát žalovaného učinil v dovolacím řízení pouze jediný úkon právní služby (vyjádření k dovolání). S náhradou hotových výdajů dle § 13 odst. 3 vyhlášky č. 177/1996 Sb. ve znění pozdějších předpisů ve výši 300,- Kč tak jde o částku 2.550,- Kč. Spolu s náhradou za devatenáctiprocentní daň z přidané hodnoty ve výši 484,50 Kč proto dovolací soud přiznal žalovanému k tíži žalobce celkem 3.034,50 Kč.
+Rozhodné znění občanského soudního řádu při rozhodování sporu vyvolaného konkursem podle zákona č. 328/1991 Sb. v dovolacím řízení (do 31. prosince 2007) plyne z § 432 odst. 1, § 433 bodu 1. a § 434 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenčního zákona).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+Nesplní-li povinný dobrovolně, co mu ukládá vykonatelné rozhodnutí, může se oprávněný domáhat výkonu rozhodnutí.
+V Brně 30. září 2009
+JUDr. Zdeněk K r č m á ř
+předseda senátu
