@@ -1,0 +1,12 @@
+32 Cdo 3221/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Františka Faldyny, CSc., a JUDr. Hany Gajdziokové v právní věci žalobkyně A. R., k.s., zastoupené JUDr. P. V., advokátem, proti žalovaným 1) Ing. J. K. s.r.o., a 2) J. B., o 11 612 751,58 Kč s příslušenstvím, vedené u Krajského soudu v Brně pod sp. zn. 34 Cm 48/2006, o dovolání žalovaného 2) proti usnesení Vrchního soudu v Olomouci ze dne 22. března 2007, č. j. 2 Cmo 101/2007-174, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í :
+Žalovaný 2) podal dovolání proti v záhlaví označenému rozhodnutí, jímž Vrchní soud v Olomouci potvrdil usnesení ze dne 6. února 2007, č. j. 34 Cm 48/2006-166, kterým Krajský soud v Brně vyhověl návrhu žalobkyně, aby do řízení na místo původně žalovaného 2) J. B., a žalované 3) J. B., vstoupil J. B.
+Dovolatel, který je fyzickou osobou, nebyl při podání dovolání zastoupen advokátem, dovolání nebylo advokátem sepsáno a nebylo prokázáno (a ani tvrzeno), že by dovolatel měl právnické vzdělání. Dovolatel ani přes výzvu soudu, která mu byla doručena dne 19. února 2009 (srov. doručenku na č. l. 199 spisu verte), neodstranil nedostatek podmínky dovolacího řízení podle ustanovení § 241 občanského soudního řádu (dále též jen „o. s. ř.“), ačkoli byl o důsledcích své nečinnosti poučen. Dovolatel si sice zvolil pro dovolací řízení zástupcem advokáta, jehož plná moc je založena na č. l. 201 spisu, ze spisu se však již dále nepodává, že by zvolený zástupce již učiněné dovolání dovolatele nahradil či doplnil vlastním podáním nebo že by alespoň písemně nebo ústně do protokolu soudu sdělil, že se s podáním zastoupeného účastníka ztotožňuje (srov. shodně právní závěry usnesení Nejvyššího soudu ze dne 27. května 1999, sp. zn. 26 Cdo 1121/99, uveřejněného v časopise Soudní judikatura č. 6, ročník 2000, pod číslem 64) .
+Protože podmínka povinného zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – kromě usnesení, kterým se dovolací řízení právě pro neodstranění tohoto nedostatku zastavuje – vydání rozhodnutí, jímž se řízení končí (§ 241 odst. 1 o. s. ř.), a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu nedošlo, Nejvyšší soud řízení o dovolání – aniž by se mohl zabývat dalšími okolnostmi – podle § 104 odst. 2 a § 243c odst. 1 o. s. ř. zastavil.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 14. října 2009
+JUDr. Miroslav Gallus
+předseda senátu
