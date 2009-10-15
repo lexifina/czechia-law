@@ -1,0 +1,36 @@
+28 Cdo 4085/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně
+JUDr. Ivy Brožové a soudců JUDr. Jana Eliáše, Ph.D., a JUDr. Josefa Rakovského, v právní věci žalobkyně D. K., zastoupené advokátem, proti žalovanému M. F., zastoupenému advokátem, o zaplacení částky 100.000,- Kč s příslušenstvím, vedené u Okresního soudu v Třebíči pod sp. zn. 10 C 150/2006, o dovolání žalobkyně proti rozsudku Krajského soudu v Brně ze dne 17. 6. 2009, č. j. 12 Co 344/2008-153, takto:
+I. Dovolání se odmítá
+II. Žalobkyně je povinna zaplatit žalovanému náklady dovolacího řízení ve výši 7.590,- Kč, a to do 3 dnů od právní moci tohoto usnesení k rukám advokáta.
+O d ů v o d n ě n í (§ 243c odst. 2 o.s.ř.):
+Dovolání proti v záhlaví citovanému rozsudku, kterým odvolací soud potvrdil rozsudek Okresního soudu v Třebíči ze dne 11. 12. 2007, č. j. 10 C 150/2006-127, jako první rozsudek soudu prvního stupně v projednávané věci, může být shledáno přípustným jen při splnění předpokladů uvedených v § 237 odst. 1 písm. c) o.s.ř.
+Přípustným však podle uvedeného ustanovení není, neboť dovolatelkou vznesené námitky nemohou založit zásadní právní význam napadeného rozhodnutí.
+Konkrétně dovolatelka v dovolání ze dne 14. 8. 2009 namítala, že
+a) odvolací soud nepostupoval v souladu s ust. § 212 o.s.ř., když věc neprojednal v mezích, ve kterých se domáhala přezkoumání rozhodnutí,
+b) unesla důkazní břemeno, když předložila řádně vyplněný příjmový pokladní doklad.
+Dle vyjádření žalovaného není hodnocení důkazů provedené soudem otázkou zásadního právního významu a dovolání by proto mělo být jako nepřípustné odmítnuto.
+K námitce ad a) týkající se rozsahu přezkumné činnosti odvolacího soudu
+Podle ust. § 212 o.s.ř. odvolací soud projedná věc v mezích, ve kterých se odvolatel domáhá přezkoumání rozhodnutí. Tímto rozsahem není vázán
+a) ve věcech, v nichž lze zahájit řízení bez návrhu,
+b) v případech, kdy na rozhodnutí o napadeném výroku je závislý výrok, který odvoláním nebyl dotčen,
+c) v případech, kde jde o taková společná práva nebo povinnosti, že se rozhodnutí musí vztahovat na všechny účastníky, kteří vystupují na jedné straně, a kde platí úkony jednoho z nich i pro ostatní (§ 91 odst. 2), třebaže odvolání podal jen některý
+z účastníků,
+d) jestliže z právního předpisu vyplývá určitý způsob vypořádání vztahu mezi účastníky.
+V odvolacím řízení z uplatnění dispoziční zásady kromě jiného vyplývá, že odvolací soud věc projedná v mezích, v nichž se odvolatel domáhá přezkumu rozhodnutí soudu prvního stupně. Určením rozsahu napadení rozhodnutí soudu prvního stupně odvolatel nejen vymezuje, ohledně jakých výroků rozhodnutí soudu prvního stupně nastane suspensivní účinek odvolání, ale současně stanoví meze, v nichž je odvolací soud oprávněn a povinen (po stránce kvantitativní) rozhodnutí soudu prvního stupně přezkoumat. V odvolacím řízení tedy nelze přezkoumat výroky rozhodnutí soudu prvního stupně, na něž nedopadly suspensivní účinky odvolání a které tedy nabyly samostatně právní moci (srov. srov. Bureš, J., Drápal, L., Krčmář, Z., a kol., Občanský soudní řád. Komentář. II. díl, 7. vydání, C.H.Beck v Praze r. 2006, s. 1117).
+Dovolatelka ve svém odvolání proti rozsudku Okresního soudu v Třebíči ze dne 11. 12. 2007, č. j. 10C 150/2006-127 ze dne 29. 2. 2008 podala odvolání do všech výroků, tj. do výroku, kterým byla zamítnuta žaloba a dvou akcesorických výroků týkajících se nákladů řízení. Odvolací soud v tomto rozsahu odvolání projednal
+a potvrdil rozsudek odvolacího soudu. Je tedy zřejmé, že soud postupoval v souladu s ust. § 212 o.s.ř.
+K námitce ad b) týkající se příjmového pokladního dokladu.
+Podle ust. § 132 obč. zák. soud hodnotí důkazy podle své úvahy, a to každý důkaz jednotlivě a všechny důkazy v jejich vzájemné souvislosti; přitom pečlivě přihlíží ke všemu, co vyšlo za řízení najevo, včetně toho, co uvedli účastníci.
+Hodnocením důkazů se rozumí myšlenková činnost soudu, kterou je provedeným důkazům přisuzována hodnota závažnosti (důležitosti) pro rozhodnutí, hodnota zákonnosti a posléze hodnota pravdivosti. Pro hodnocení důkazů z hlediska jejich pravdivosti (věrohodnosti) zákon nepředepisuje formální postup a ani neurčuje váhu jednotlivých důkazů tím, že by některým důkazům přiznával vyšší pravdivostní hodnotu, nebo naopak určitým důkazním prostředkům důkazní sílu zcela nebo zčásti odpíral. Na rozdíl od tzv. legální (formální) důkazní teorie, která – důsledně vzato – znamenala zmechanizování procesu hodnocení důkazů, neboť předem stanovila jejich hierarchii a způsob hodnocení, ponechává ustanovení § 132 o.s.ř. postup při hodnocení důkazů úvaze soudu. Z popsané zásady volného hodnocení důkazů, jež je projevem ústavního principu nezávislosti soudů podle čl. 82 Ústavy ČR a součástí práva na spravedlivý proces podle čl. 36 odst. 1 Listiny základních práva a svobod, přitom vyplývá, že dovolací soud nemůže předepisovat soudům nižších stupňů pravidla, z nichž by měl při hodnocení důkazů vycházet (srov. Bureš, J., Drápal, L., Krčmář, Z., a kol., Občanský soudní řád. Komentář. I díl, 7. vydání, C.H.Beck v Praze r. 2006, s. 609 an.).
+Dospěl-li proto odvolací soud po provedení důkazů svědeckých výpovědí, znaleckého posudku z oboru písmoznalectví a dalších důkazů k závěru, že žalobkyně důkazní břemeno na podporu svých tvrzení neunesla, protože sice předložila vyplněný příjmový pokladní doklad, nicméně neprokázala, že by byl podepsán žalovaným nebo na jeho příkaz, není na dovolacím soudu přezkoumávat hodnocení důkazů provedené odvolacím soudem, protože by tím dovolací soud předepisoval soudu nižšího stupně, jak má prováděné důkazy hodnotit.
+Pokud dovolatelka v dovolání uvádí, že prvoinstanční soud správně zjistil skutkový stav, ale rozhodl nesprávně, když rozhodl, že se jí nepodařilo unést důkazní břemeno, zaměňuje skutkové a právní skutečnosti.
+Z důvodů shora uvedených dovolací soud dospěl k závěru, že napadené rozhodnutí nemá zásadní právní význam, neboť je v souladu se zákonem a ustálenou judikaturou dovolacího i Ústavního soudu. Vycházeje z toho, že obsah rozsudků soudů obou stupňů i obsah dovolání a vyjádření žalovaného k němu jsou účastníkům známy
+a jsou součástí procesního spisu vedeného soudem prvního stupně, dovolání podle
+§ 243b odst. 5 věty první a § 218 písm. c) o.s.ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 142 odst. 1 o. s. ř. Žalobkyni, jejíž dovolání bylo odmítnuto, uložil dovolací soud povinnost zaplatit žalovanému účelně vynaložené náklady, které mu vznikly v souvislosti s podáním vyjádření k dovolání prostřednictvím advokáta. Tyto náklady se sestávají z odměny advokáta ve výši 7.590,- Kč (§ 10 odst. 3, § 3 odst. 1 bod 4, § 15, § 14, § 18 odst. 1 věta první vyhlášky č. 484/2000 Sb.) a z paušální částky náhrady hotových výdajů za jeden úkon právní služby ve výši 300,- Kč (§ 2 odst. 1, § 13 odst. 1, 3 vyhlášky č. 177/1996 Sb.) vše zvýšeno o DPH ve výši 19 %. Platební místo a lhůta ke splnění uložené povinnosti byly stanoveny podle § 149 odst. 1 a § 160 odst. 1 o. s. ř.
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 15. října 2009
+JUDr. Iva Brožová, v. r.
+předsedkyně senátu
