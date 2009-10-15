@@ -1,0 +1,20 @@
+20 Cdo 2656/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Vladimíra Mikuška a soudkyň JUDr. Olgy Puškinové a JUDr. Miroslavy Jirmanové v exekuční věci oprávněných a) H. S. a b) H. J. S., proti povinným 1. P. M. a 2. M. M., zastoupeným advokátem, vyklizením, vedené u Okresního soudu v Karlových Varech pod sp. zn. 24 Nc 2962/2006, o dovolání povinných proti usnesení Krajského soudu v Plzni z 20.12.2007, č.j. 12 Co 668/2007-40, takto:
+Dovolání se odmítá.
+Odůvodnění:
+Shora označeným rozhodnutím krajský soud odmítl podle § 44 odst. 10 exekučního řádu odvolání povinných proti usnesení z 20.4.2007, č.j. 24 Nc 2962/2006-12, kterým okresní soud nařídil exekuci, jejímž provedením pověřil navrženého soudního exekutora.
+Pravomocné usnesení odvolacího soudu napadli povinní dovoláním datovaným 8.1.2008 (č.l. 43), v němž nespecifikovali žádný z dovolacích důvodů taxativně vyjmenovaných v § 241a odst. 2 a 3 zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů (dále jen „o.s.ř.“). Usnesením okresního soudu z 20.11.2008 (na č.l. 87), které nabylo právní moci 14.2.2009, byl povinným ustanoven zástupce pro řízení o dovolání advokát JUDr. K. K. Vady dovolání však byly náležitým způsobem doplněny až podáním z 27.5.2009 (na č.l. 100), které bylo podáno k poštovní přepravě 28.5.2009.
+Podle ustanovení § 43 odst. 2, věty první, o.s.ř., které platí i pro řízení u dovolacího soudu (§ 243c odst. 1 o.s.ř.), není-li přes výzvu předsedy senátu podání řádně opraveno nebo doplněno a v řízení nelze pro tento nedostatek pokračovat, soud usnesením podání, kterým se zahajuje řízení, odmítne.
+Podle ustanovení § 241a odst. 1 o.s.ř. musí být vedle obecných náležitostí (§ 42 odst. 4 o.s.ř.) v dovolání uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu a z jakých důvodů se toto rozhodnutí napadá, popřípadě které důkazy by měly být provedeny k prokázání důvodu dovolání, a čeho se dovolatel domáhá (dovolací návrh).
+Podle ustanovení § 241b odst. 3, věty první, o.s.ř., dovolání, které neobsahuje údaje o tom, v jakém rozsahu nebo z jakých důvodů se rozhodnutí odvolacího soudu napadá, může být o tyto náležitosti doplněno jen po dobu trvání lhůty k dovolání.
+Podle ustanovení § 241b odst. 3, věty druhé za středníkem, o.s.ř. požádal-li však dovolatel před uplynutím lhůty o ustanovení zástupce (§ 30), běží lhůta podle věty první znovu až od právní moci usnesení, kterým bylo o této žádosti rozhodnuto.
+Podle § 240 odst. 1, věty první, o.s.ř. může účastník podat dovolání do dvou měsíců od doručení rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni.
+Z výše uvedeného plyne, že dovolání, které neobsahuje údaj o tom, v jakém rozsahu nebo z jakých důvodů se rozhodnutí odvolacího soudu napadá, je vadným podáním; vady mohou dovolatelé odstranit z vlastní iniciativy nebo na výzvu soudu jen do uplynutí dvouměsíční lhůty k podání dovolání. Marným uplynutím prekluzivní lhůty podle ustanovení § 241b odst. 3 o.s.ř. se původně odstranitelné vady dovolání stávají neodstranitelnými (srov. usnesení Nejvyššího soudu ze dne 5.2.2003, sp. zn. 21 Cdo 1730/2002, usnesení Nejvyššího soudu ze dne 27.1.2005, sp. zn. 29 Odo 1060/2003, usnesení Nejvyššího soudu ze dne 18.6.2003, sp. zn. 29 Odo 108/2002, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek 3/2004 pod poř. č. 21).
+V projednávané věci nabylo usnesení okresního soudu, jímž byl povinným ustanoven zástupce pro řízení o dovolání, právní moci 14.2.2009, takže poslední den lhůty, kdy bylo možno doplnit dovolání o důvody, z jakých se rozhodnutí odvolacího soudu napadá, bylo úterý 14.4.2009 (§ 240 odst. 1, věta první, § 241b odst. 3, věta první, § 243c odst. 1, § 57 odst. 2 o.s.ř.).
+Dovolací soud proto k opožděně učiněnému doplnění dovolání podanému 28.5.2009 nepřihlížel a vadné dovolání odmítl (§ 43 odst. 2 o.s.ř.).
+O případných nákladech exekuce bude rozhodnuto podle ustanovení hlavy VI. exekučního řádu.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 15. října 2009
+JUDr. Vladimír Mikušek, v. r.
+předseda senátu
