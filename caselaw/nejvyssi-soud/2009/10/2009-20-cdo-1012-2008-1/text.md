@@ -1,0 +1,21 @@
+20 Cdo 1012/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové a soudců JUDr. Vladimíra Mikuška a JUDr. Olgy Puškinové ve věci výkonu rozhodnutí oprávněné L. B., zastoupené advokátkou, proti povinné Mgr. G. T., za účasti manžela povinné Ing. P. T., pro 4 300 Kč s příslušenstvím, zřízením soudcovského zástavního práva, vedené u Okresního soudu v Jihlavě pod sp. zn. 12 E 62/2007, o dovolání manžela povinné proti usnesení Krajského soudu v Brně ze dne 12.10. 2007, č. j. 13 Co 418/2007-28, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Jihlavě nařídil usnesením ze dne 24. 7. 2007, č. j. 12 E 62/2007-12 (ve znění opravného usnesení téhož soudu ze dne 15. 1. 2008, č. j. 12 E 62/2007-41), k uspokojení pohledávky oprávněné 4 300 Kč výkon rozhodnutím zřízením soudcovského zástavního práva na nemovitostech, ve výroku I. uvedených, ve společném jmění povinné a jejího manžela. Současně mimo jiné povinné uložil nahradit oprávněné na nákladech výkonu rozhodnutí 3 900 Kč.
+Krajský soud v Brně napadeným rozhodnutím usnesení okresního soudu potvrdil (výrok I.), povinnou zavázal nahradit oprávněné náklady odvolacího řízení 1 800 Kč k rukám její zástupkyně (výrok II.) a dále rozhodl, že ve vztahu mezi oprávněnou a manželem povinné nemá žádný z nich právo na náhradu nákladů odvolacího řízení (výrok III.).
+Rozhodnutí odvolacího soudu – výrok III. ¬- napadl dovoláním manžel povinné. Namítá, že rozhodnutí postrádá výrok o náhradě nákladů odvolacího řízení mezi ním a povinnou a nesouhlasí se závěrem odvolacího soudu, že s ohledem na jeho procesní postavení sdílí v řízení osud povinné, a proto je také vyloučeno přiznat mu náhradu nákladů řízení vůči ní. Považuje jednání povinné za účelové, nesouhlasí s ním, a proto se domnívá, že soud může povinnou zavázat k náhradě jeho nákladů odvolacího řízení. Uvedl, že soudy v jiných věcech mu náhradu nákladů přiznaly a že v tomto směru je soudní praxe nejednotná. Navrhl, aby dovolací soud rozhodnutí odvolacího soudu v napadeném výroku III. zrušil a věc mu vrátil k dalšímu řízení.
+Dovolací soud rozhodl o dovolání podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 30. 6. 2009, dále jen „o. s. ř.“ (srov. čl. II Přechodných ustanovení, bod 12, zákona č. 7/2009 Sb.).
+Podle ustanovení § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti usnesení upravují ustanovení § 237 až § 239 o. s. ř.
+Ustanovení § 238, § 238a a § 239 o. s. ř. přípustnost dovolání nezakládají, protože rozhodnutí o nákladech řízení v jejich taxativních výčtech uvedeno není.
+Dovolání není přípustné ani podle § 237 odst. 1 o. s. ř., neboť usnesení o nákladech exekuce (kromě toho, že není měnícím ani potvrzujícím) není rozhodnutím ve věci samé (k pojmu „věc sama“ srov. usnesení Nejvyššího soudu z 2. 12. 1997, sp. zn. 2 Cdon 774/97, publikované ve Sbírce soudních rozhodnutí a stanovisek č. 10/1998 pod poř. č. 61, případně usnesení téhož soudu z 28. 8. 1997, sp. zn. 2 Cdon 484/97, uveřejněné v časopise Soudní judikatura č. 11/1997 pod poř. č. 88).
+Jestliže dovolání může směřovat jen proti pravomocnému rozhodnutí odvolacího soudu, resp. jeho výrokům, je pojmově vyloučeno, aby směřovalo proti „nevydání rozhodnutí“ o nákladech řízení mezi povinnou a jejím manželem (srov. komentář Bureš, J., Drápal, L., Krčmář, Z. a kol. Občanský soudní řád. Komentář. I. díl. 7 vydání. Praha: C. H. Beck, 2006, str. 757).
+Nejvyšší soud proto bez nařízení jednání (§ 243a odst. 1 věta první o. s. ř.), dovolání podle ustanovení § 243b odst. 5 a § 218 písm. c) o. s. ř. odmítl.
+Dovolání bylo odmítnuto, oprávněné, jež by jinak měla na náhradu nákladů dovolacího řízení právo, tyto náklady (podle obsahu spisu) nevznikly; této procesní situaci odpovídá ve smyslu ustanovení § 146 odst. 3, § 224 odst. 1 a § 243b odst. 5 o. s. ř. výrok, že na náhradu nákladů tohoto řízení nemá právo žádný z účastníků.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 20. října 2009
+JUDr. Miroslava Jirmanová, v. r.
+předsedkyně senátu
