@@ -1,0 +1,15 @@
+20 Cdo 2892/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedkyně JUDr.Miroslavy Jirmanové a soudců JUDr. Olgy Puškinové a JUDr. Vladimíra Mikuška ve věci výkonu rozhodnutí oprávněných a) J. P., zastoupené advokátem; b) Ing. D. R.; c) H. T.; d) P. O.; e) Ing. H. R., zastoupené advokátem; f) H. F., s. s r. o.; g) J. D. – D., zastoupeného advokátkou; h) J. S.; i) Č. s. s. z.; j) Č. s. s. z.; k) V. z. p. Č. r., l) České republiky – Finančního úřadu v K.; m) České republiky – Okresního soudu v K., proti povinnému M. R., za účasti vydražitelů JUDr. B. J. a I. J., prodejem nemovitosti, vedené u Okresního soudu v Kolíně pod sp. zn. 41 E 595/97, o dovolání H. F., s. s r. o., proti usnesení Krajského soudu v Praze ze dne 24. 10. 2008, č. j. 20 Co 478/2008-751, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Shora označené rozhodnutí, jímž Krajský soud v Praze zrušil usnesení soudu I. stupně ze dne 1. 7. 2008, č. j. 41 E 595/97-708, a vrátil věc tomuto soudu k dalšímu řízení, napadla obchodní společnost H. F., s. s r. o. prostřednictvím svého právního zástupce dovoláním.
+Z ustanovení § 103 a § 104 odst. 1, věty první, ve spojení s § 243c odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů (dále jen „o. s. ř.“), vyplývá, že za dovolacího řízení přihlíží dovolací soud k tomu, zda jsou splněny podmínky, za nichž může rozhodnout ve věci samé (podmínky řízení); jde-li o takový nedostatek podmínky řízení, který nelze odstranit, dovolací řízení zastaví. Jestliže účastník ztratí po zahájení dovolacího řízení způsobilost být účastníkem řízení dříve, než bylo dovolací řízení skončeno, posoudí dovolací soud podle povahy věci, zda v dovolacím řízení může pokračovat. Neumožňuje-li povaha věci v řízení pokračovat, dovolací soud dovolací řízení zastaví (§ 107 odst. 1 věta první a odst. 5 věta první ve spojení s § 243c odst. 1 o. s. ř.).
+Ze spisu se podává, že dovolací řízení bylo zahájeno podáním ze dne 22. 12. 2008 (§ 82 odst. 1 ve spojení s § 243c odst. 1 o. s. ř.). Z výpisu z obchodního rejstříku, vedeného Krajským soudem v Brně, oddílu C, vložky 10140, dovolací soud zjistil, že dovolatel byl usnesením Krajského soudu v Brně vymazán z obchodního rejstříku ke dni nabytí právní moci tohoto rozhodnutí (10. 6. 2009) poté, co usnesením téhož soudu ze dne 9. 3. 2009, č. j. KSBR 27 INS 634/2009-A-4, které nabylo právní moci dne 1. 4. 2009, byl zamítnut insolvenční návrh dlužníka H. F., s. s r. o. v likvidaci pro nedostatek majetku.
+Protože dovolatel zanikl bez právního nástupce ve smyslu § 107 odst. 3 o. s. ř., nezbylo dovolacímu soudu, než dovolací řízení podle ustanovení § 107 odst. 5 věty první ve spojení s § 243c odst. 1 o. s. ř. zastavit. Proto se již dovolací soud ani nezabýval případnou otázkou přípustnosti dovolání.
+Výrok o nákladech dovolacího řízení se opírá o ustanovení § 243b odst. 5 větu první, § 224 odst. 1 a § 146 odst. 1 písm. c) o. s. ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 20. října 2009
+JUDr. Miroslava Jirmanová, v. r.
+předsedkyně senátu
