@@ -1,0 +1,22 @@
+30 Cdo 524/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy
+JUDr. Pavla Pavlíka a soudců JUDr. Karla Podolky a JUDr. Pavla Vrchy v právní věci žalobkyně J. K., zastoupené advokátkou, proti žalované obchodní společnosti S., s.r.o., zastoupené advokátem, o zaplacení částky 2.000.000,- Kč s příslušenstvím, vedené u Městského soudu v Praze pod sp. zn. 34 C 107/2004, o dovolání žalobkyně proti rozsudku Vrchního soudu v Praze ze dne 23. ledna 2007, č.j. 3 Co 36/2006-122, takto:
+I. Dovolání žalobkyně se odmítá.
+II. Žalobkyně je povinna zaplatit žalované na náhradu nákladů dovolacího řízení 4.819,50 Kč do tří dnů od právní moci tohoto usnesení k rukám advokáta.
+Stručné odůvodnění
+(§ 243c odst. 2 o. s. ř.):
+Vrchní soud v Praze rozsudkem ze dne 23. ledna 2007, č.j. 3 Co 36/2006-122, odmítl odvolání žalobkyně proti výroku I. rozsudku Městského soudu v Praze ze dne
+2. února 2006, č.j. 34 C 107/2004-95, kterým bylo žalované uloženo zaplatit žalobkyni částku 50.000,- Kč s 2,5% úrokem z prodlení od 23.7.2004 do zaplacení a potvrdil shora uvedený rozsudek ve výroku II., jímž byla zamítnuta žaloba, aby žalovaná byla uznána povinnou zaplatit žalobkyni dalších 1.950.000,- Kč s příslušenstvím, a ve výrocích VII. a VIII. o náhradě nákladů řízení a náhradě nákladů placených státem. Současně rozhodl o náhradě nákladů odvolacího řízení.
+Proti rozsudku odvolacího soudu podala žalobkyně dovolání, jehož přípustnost vyvozuje z ustanovení § 237 odst. 1 písm. c) občanského soudního řádu (dále jen „o.s.ř.“). Vytýká soudům obou stupňů zejména nesprávné hodnocení důkazů a z toho vyplývající nesprávné právní hodnocení věci. Podrobněji pak připomíná konkrétní skutkové okolnosti případu. Fakticky uplatňuje dovolací důvody podle ustanovení
+§ 241a odst. 2 písm. b) a odst. 3 o.s.ř. Navrhuje zrušení napadeného rozsudku a vrácení věci odvolacímu soudu k dalšímu řízení.
+K dovolání se písemně vyjádřila žalovaná, která navrhla, aby bylo odmítnuto, resp. zamítnuto.
+Dovolací soud přihlédl k čl. II bodu 12. zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony a konstatuje, že ve věci nejsou naplněny předpoklady přípustnosti dovolání podle ustanovení § 237 odst. 1 písm. a) a b) o.s.ř. Námitkami proti hodnocení důkazů odvolacím soudem žalobkyně uplatňuje dovolací důvod podle ustanovení § 241a odst. 3 o.s.ř., k němuž nemohlo být při posouzení, zda je dovolání přípustné podle § 237 odst. 1 písm. c) o.s.ř., přihlédnuto (srovnej např. usnesení Nejvyššího soudu ČR ze dne 29. června 2004, sp.zn. 21 Cdo 541/2004, uveřejněné pod č. 132 v časopisu Soudní judikatura, ročník 2004, nebo v usnesení Ústavního soudu ČR ze dne 7. března 2006, sp. zn. III. ÚS 10/06, uveřejněné pod č. 130 v časopise Soudní judikatura, ročník 2006). Uplatněný dovolací důvod ve smyslu ustanovení § 241a odst. 2 písm. b) o.s.ř. dovolatelka v zásadě nikterak nekonkretizuje a uvádí jej pouze jako důsledek vad skutkových zjištění.
+Ustanovení § 236 až § 239 o.s.ř. případnou přípustnost dovolání proti rozhodnutí odvolacího soudu, kterým bylo odvolání odmítnuto, neupravuje (ve smyslu ustanovení
+§ 229 odst. 4 o.s.ř. může jít o důvod případné žaloby pro zmatečnost). Dovolání proti uvedenému rozsudku proto bylo odmítnuto jako nepřípustné podle § 243b odst. 5 o.s.ř. ve spojení s § 218 písm. c) téhož zákona.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 5 věta prvá o.s.ř. ve spojení s § 224 odst. 1, § 151 a 146 odst. 3 o.s.ř., když
+v dovolacím řízení žalované vznikly náklady spojené s jejím zastoupením advokátem, spočívající v paušální odměně ve výši 3.750,- Kč [srov. § 2 odst. 1, § 6 odst. 1 písm. b), § 10 odst. 3, § 14 odst. 1, § 15, § 16 odst. 2 a § 18 odst. 1 vyhlášky č. 484/2000 Sb. ve znění po novele provedené vyhláškou č. 277/2006 Sb. účinné od 1. 9. 2006] a v paušální náhradě hotových výloh advokátovi v částce 300,- Kč (§ 13 odst. 3 vyhlášky č. 177/1996 Sb. ve znění po novele provedené vyhláškou č. 276/2006 Sb.). Celkem výše přisouzené náhrady nákladů dovolacího řízení činí 4.050,- Kč, která je po úpravě o 19% daň z přidané hodnoty, jejímž plátcem je zástupce žalovaného, představována částkou 4.819,50 Kč (§ 137 odst. 3 o.s.ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 22. října 2009
+JUDr. Pavel P a v l í k , v. r.
+předseda senátu
