@@ -1,0 +1,16 @@
+20 Cdo 3782/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Olgy Puškinové a soudců JUDr. Vladimíra Mikuška a JUDr. Miroslavy Jirmanové ve věci výkonu rozhodnutí oprávněné V. z. p. Č. r., proti povinnému B. B., pro 123.424,- Kč, vedené u Okresního soudu v Pardubicích pod sp. zn. 37 E 319/2007, o dovolání povinného proti usnesení Krajského soudu v Hradci Králové - pobočky v Pardubicích ze dne 29. ledna 2009, č. j. 22 Co 15/2009 - 20, takto:
+Dovolací řízení se zastavuje.
+Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.):
+Shora označeným usnesením krajský soud potvrdil usnesení ze dne 30. 3. 2007, č. j. 37 E 319/2007 - 6, jímž okresní soud nařídil podle vykonatelných platebních výměrů V. z. p. Č. r., Územní pracoviště VZP ČR P., ze dne 6. 12. 2004, č. a č., k uspokojení pohledávky oprávněné ve výši 123.424,- Kč výkon rozhodnutí prodejem movitých věcí povinného a kterým rozhodl o nákladech řízení, a rozhodl o nákladech odvolacího řízení.
+Proti tomuto usnesení odvolacího soudu podal povinný dovolání, aniž byl při tomto úkonu zastoupen advokátem, a toto jeho podání ani nesplňovalo náležitosti uvedené v § 241a odst. 1 o. s. ř.
+Pro podání dovolání, které je mimořádným opravným prostředkem, zákon stanoví požadavek, aby účastník řízení, který podává dovolání, měl buď sám právnické vzdělání, nebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc. Ustanovení § 241 o. s. ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejího splnění nelze o dovolání rozhodnout.
+V dané věci podal povinný proti usnesení odvolacího soudu dovolání, aniž byl při tomto úkonu zastoupen advokátem, a nebylo ani tvrzeno, že by měl právnické vzdělání. Usnesením soudu prvního stupně ze dne 5. 5. 2009, č. j. 37 E 319/2007 - 29, byl povinný vyzván, aby si pro podání dovolání v této věci zvolil zástupcem advokáta a aby jeho prostřednictvím podal řádné dovolání proti usnesení Krajského soudu v Hradci Králové, pobočka v Pardubicích, ze dne 29. 1. 2009, č. j. 22 Co 15/2009 - 20, a současně byl poučen o tom, že nebude-li do 15 dnů ode dne doručení tohoto usnesení předložena podepsanému soudu plná moc zvoleného advokáta a jím sepsané dovolání, Nejvyšší soud dovolací řízení zastaví. Toto usnesení povinný převzal osobně dne 2. 6. 2009, na výzvu okresního soudu však nereagoval.
+Vzhledem k tomu, že dovolatel podal dovolání proti rozhodnutí odvolacího soudu, aniž byl při tomto úkonu zastoupen advokátem a aniž by doložil, že má právnické vzdělání, nebyl nedostatek podmínky dovolacího řízení podle § 241 odst. 1 věty první o. s. ř. ani přes poučení soudu odstraněn. Nejvyšší soud proto dovolací řízení proti usnesení odvolacího soudu podle § 243c odst. 1 a § 104 odst. 2 věty třetí o. s. ř. zastavil.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 1 písm. c) o. s. ř., když žádnému z účastníků náklady v tomto stadiu řízení podle obsahu spisu nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 22. října 2009
+JUDr. Olga Puškinová, v. r.
+předsedkyně senátu
