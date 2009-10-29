@@ -1,0 +1,15 @@
+11 Tcu 92/2009
+U S N E S E N Í
+Nejvyšší soud České republiky projednal žádost Švédského království - Švédské národní kriminální policie o povolení průvozu K. R., státního občana Slovenské republiky, a rozhodl v neveřejném zasedání dne 29. října 2009, podle § 422 tr. ř. t a k t o :
+Povoluje se p r ů v o z předávané osoby K. R., státního občana Slovenské republiky, územím České republiky do Švédského království pro účely trestního stíhání pro trestný čin obchodování s lidmi podle kapitoly 4 odst. 1 trestního zákona Švédského království.
+Po dobu průvozu bude předávaná osoba držena ve vazbě.
+O d ů v o d n ě n í :
+Švédská národní kriminální policie požádala dne 28. října 2009 pod č. j. SCH 2009-020626, na základě čl. 25 Rámcového rozhodnutí Rady Evropské unie ze dne 13. června 2002, o evropském zatýkacím rozkazu a o předávání mezi členskými státy Evropské unie, o povolení průvozu slovenského státního občana K. R. územím České republiky. Průvoz se má uskutečnit v rámci předání jmenovaného ze Slovenské republiky do Švédského království na základě evropského zatýkacího rozkazu vydaného dne 2. července 2009 Státním zastupitelstvím v Malmö, Švédské království, k trestnímu stíhání pro trestný čin obchodování s lidmi podle kapitoly 4 odst. 1 trestního zákona Švédského království, za který předávanému hrozí maximální trest odnětí svobody v trvání deseti let, a to leteckou cestou s mezipřistáním v P., která se má uskutečnit dne 30. října 2009.
+Uvedené trestné činnosti se měl předávaný dopustit v podstatě tím, že v období od 1. do 24. dubna 2009 společně s dalšími blíže nezjištěnými osobami, nezjištěným způsobem vylákal v té době nezletilou poškozenou B. K. na cestu ze Slovenské republiky do Švédského království, kde ji ubytoval ve svém domě, a tím že jí neposkytl žádné finanční prostředky, neumožnil jí kontakt s rodinou ani svobodný pohyb, nad ní získal kontrolu, které následně využil k příležitostným pohlavním stykům s poškozenou a poškozenou také podněcoval a využíval k poskytování pohlavních styků za úplatu, přičemž předávaný byl osobou, která poškozené zprostředkovávala styk se „zákazníky“ a inkasovala od nich peníze.
+Nejvyšší soud České republiky projednal žádost Švédského království - Švédské národní kriminální policie z hlediska splnění právních podmínek a náležitostí vyžadovaných vnitrostátní úpravou (§ 422 tr. ř.). Zjistil, že v posuzovaném případě jde o předání ze Slovenské republiky do Švédského království za účelem trestního stíhání ve Švédském království. Z výpisu z centrální evidence obyvatel je pak zřejmé, že předávaná osoba není státním občanem České republiky.
+Jelikož nebyly zjištěny žádné právní překážky, které by bránily povolení průvozu předávaného územím České republiky pro účely jeho trestního stíhání ve Švédském království, tak Nejvyšší soud České republiky předmětné žádosti vyhověl.
+Zároveň rozhodl o nutném opatření omezujícím osobní svobodu vydávané osoby v době průvozu územím České republiky.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 29. října 2009
+Předseda senátu:
+JUDr. Antonín Draštík
