@@ -1,0 +1,17 @@
+11 Tcu 93/2009
+U S N E S E N Í
+Nejvyšší soud České republiky projednal žádost Ministerstva spravedlnosti Slovenské republiky o povolení průvozu odsouzeného R. H., roz. C., a rozhodl v neveřejném zasedání konaném dne 10. listopadu 2009 podle § 423 odst. 1 tr. ř. a čl. 21 Evropské úmluvy o vydávání (publikované pod č. 549/1992 Sb.) t a k t o :
+I.Povoluje se průvoz odsouzeného R. H., roz. C., územím České republiky ze Švýcarska do Slovenské republiky pro účely předání jmenovaného k výkonu trestu odnětí svobody v trvání pěti měsíců, uloženého mu trestním příkazem Okresního soudu v Žiari nad Hronom, Slovenská republika, ze dne 28. 11. 2007, sp. zn. 1 T 219/07.
+II.Po dobu průvozu bude předávaná osoba držena ve vazbě.
+O d ů v o d n ě n í :
+Ministerstvo spravedlnosti Slovenské republiky požádalo dne 9. 11. 2009, č. j. 15873/2009-8305, o povolení průvozu slovenského občana R. H. územím České republiky.
+Průvoz se má uskutečnit v rámci předání jmenovaného na základě Mezinárodního zatýkacího rozkazu vydaného Okresním soudem v Žiari nad Hronom dne 9. 4. 2008, sp. zn. 1 T 219/07, ze Švýcarska pro účely výkonu trestu odnětí svobody v trvání pěti měsíců, uloženého mu trestním příkazem Okresního soudu v Žiari nad Hronom, Slovenská republika, ze dne 28. 11. 2007, sp. zn. 1 T 219/07, za trestný čin maření výkonu úředního rozhodnutí podle § 348 odst. 1 písm. d) slovenského trestního zákona.
+Trestné činnosti se předávaný dopustil tím, že dne 21. 5. 2007 asi ve 20.35 hod. řídil osobní motorové vozidlo zn. BMW 318 Cabrio, po silnici ve směru H. – Ž. n. H., přičemž na 201,04. kilometru způsobil malou dopravní nehodu, a to přesto, že mu byl rozhodnutím Okresního dopravního inspektorátu Žiar nad Hronom číslo ORP-SK-348/DI-2006 ze dne 1. 12. 2006 uložen mimo jiné zákaz činnosti řídit motorová vozidla jakéhokoli druhu na dobu 12 měsíců ode dne 1. 12. 2006.
+Nejvyšší soud České republiky projednal žádost Ministerstva spravedlnosti Slovenska z hlediska splnění právních podmínek vyžadovaných vnitrostátní úpravou, to znamená § 423 tr. ř., který byl aplikován ve smyslu § 424 tr. ř. obdobně. Při obdobné aplikaci § 423 tr. ř. vycházel Nejvyšší soud rovněž z čl. 25 odst. 5 Rámcového rozhodnutí Rady Evropské unie ze dne 13. června 2002, o evropském zatýkacím rozkazu a postupech předávání mezi členskými státy (dále jen „Rámcové rozhodnutí“), který pro případ průvozu osoby z třetí země do členského státu stanoví obdobné použití čl. 25 Rámcového rozhodnutí. Tento čl. 25 je pak do české právní úpravy implementován zejména § 422 tr. ř. Vzhledem k tomu, že § 423 tr. ř. nestanoví podmínky, za kterých může být průvoz povolen, dospěl Nejvyšší soud k závěru, že s ohledem na účel právní úpravy vyjádřený v Rámcovém rozhodnutí je třeba v tomto případě postupovat způsobem popsaným v § 422 tr. ř. a čl. 25 Rámcového rozhodnutí.
+Dále Nejvyšší soud zjistil z výpisu z centrální evidence obyvatel, že předávaná osoba není občanem České republiky.
+Jelikož nebyly zjištěny žádné právní překážky, které by bránily povolení průvozu předávaného R. H. územím České republiky pro účely výkonu trestu ve Slovenské republice, vyhověl Nejvyšší soud České republiky žádosti Ministerstva spravedlnosti Slovenska.
+Zároveň rozhodl o nutném opatření omezujícím osobní svobodu předávané osoby v době průvozu územím České republiky.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 10. listopadu 2009
+Předseda senátu:
+JUDr. Karel Hasch
