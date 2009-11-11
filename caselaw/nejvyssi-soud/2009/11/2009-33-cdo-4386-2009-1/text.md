@@ -1,0 +1,19 @@
+33 Cdo 4386/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně
+JUDr. Ivany Zlatohlávkové a soudců JUDr. Blanky Moudré a JUDr. Pavla Krbka
+ve věci žalobkyně E., s.r.o. zastoupené advokátem, proti žalovanému Z. S., zastoupenému advokátem, o zaplacení 105.188,- Kč s příslušenstvím, vedené u Okresního soudu v Uherském Hradišti pod sp. zn. 12 C 2/2005, o dovolání žalovaného proti rozsudku Krajského soudu v Brně-pobočky ve Zlíně ze dne 14. května 2009, č. j. 60 Co 8/2008-109, takto:
+Dovolání se odmítá.
+Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Dovolání žalovaného proti rozsudku Krajského soudu v Brně-pobočky ve Zlíně ze dne 14. května 2009, č. j. 60 Co 8/2008-109, kterým byl ve věci samé potvrzen rozsudek Okresního soudu v Uherském Hradišti ze dne 5. června 2007, č. j.
+12 C 2/2005-76, není přípustné podle § 237 odst. 1 písm. b/ o. s. ř. a nebylo shledáno přípustným ani podle § 237 odst. 1 písm. c/ o. s. ř., neboť napadený rozsudek odvolacího soudu nemá po právní stránce zásadní význam (§ 237 odst. 3 o. s. ř).
+Rozhodnutí odvolacího soudu má po právní stránce zásadní význam zejména tehdy, řeší-li právní otázku, která v rozhodování dovolacího soudu dosud nebyla vyřešena, nebo která je odvolacími soudy nebo dovolacím soudem rozhodována rozdílně, nebo řeší-li právní otázku v rozporu s hmotným právem. Z toho, že přípustnost dovolání podle § 237 odst. 1 písm. c/ o. s. ř. je spjata se závěrem o zásadním významu rozhodnutí po stránce právní, vyplývá, že dovolací přezkum se otevírá pouze pro posouzení otázek právních. Způsobilým dovolacím důvodem je tudíž jen důvod podle § 241a odst. 2 písm. b/ o. s. ř., jímž lze namítat, že rozhodnutí spočívá na nesprávném právním posouzení věci. V dovolání – jak vyplývá z jeho obsahu – byl však uplatněn výlučně dovolací důvod uvedený v § 241a odst. 3 o. s. ř. mířící na pochybení při zjišťování skutkového stavu věci. Podstatu dovolacích námitek totiž tvoří výtky týkající se nesprávně a neúplně zjištěného skutkového stavu věci, resp. vadného hodnocení provedených důkazů, při němž soud určuje, jaký význam mají jednotlivé důkazy pro jeho rozhodnutí a zda o ně může opřít svá skutková zjištění
+(tj. zda jsou použitelné pro zjištění skutkového stavu a v jakém rozsahu, případně v jakém směru). Je-li argumentováno nesprávným právním posouzením věci, pak pouze v tom směru, že pokud by odvolací soud (stejně jako před ním soud prvního stupně) nepochybil ve svých skutkových závěrech a uvěřil jeho obraně, že účastníci žádnou smlouvu o dílo neuzavřeli, musel by návazně dospět i k odlišnému právnímu posouzení věci, tedy dovodit, že mu povinnost zaplatit cenu díla nevznikla a žalobu by musel zamítnout. Jinak řečeno, výtka nesprávnosti právního posouzení věci je založena výlučně na kritice správnosti a úplnosti skutkových zjištění. Dovolací důvod podle
+§ 241a odst. 3 o. s. ř. nelze v případě dovolání přípustného podle § 237 odst. 1 písm. c/ o. s. ř. použít, neboť neslouží k řešení právních otázek, nýbrž k nápravě případného pochybení spočívajícího v tom, že rozhodnutí odvolacího soudu vychází ze skutkového zjištění, které nemá v podstatné části oporu v provedeném dokazování.
+Protože dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný, dovolací soud je – aniž se mohl věcí dále zabývat – podle § 243b odst. 5 věty první a § 218 písm. c/ o. s. ř. odmítl.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř. za situace, kdy žalobkyni, která by jinak měla právo na jejich náhradu, v této fázi řízení žádné náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 11. listopadu 2009
+JUDr. Ivana Zlatohlávková, v. r.
+předsedkyně senátu
