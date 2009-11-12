@@ -1,0 +1,17 @@
+32 Cdo 4830/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Františka Faldyny, CSc., a JUDr. Pavla Koláře v právní věci žalobce J. K., zastoupeného JUDr. L.. F., advokátem proti žalované K.b., a.s., o 980 500 068,63 Kč, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 17 C 206/2006, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 7. května 2008, č. j. 62 Co 569/2007-88, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalobce podal dovolání proti v záhlaví označenému rozsudku, jímž Městský soud v Praze zrušil rozsudek Obvodního soudu pro Prahu 1 ze dne 29. června 2007, č. j. 17 C 206/2006-69, v zamítavém výroku ve věci samé ohledně částky 346 148 382 Kč a řízení v tomto rozsahu zastavil, potvrdil ho v zamítavém výroku ve věci samé v rozsahu částky 634 651 686,63 Kč a ve výroku o nákladech řízení (výrok I.) a rozhodl o nákladech odvolacího řízení (výrok II.).
+V podaném dovolání dovolatel odvolacímu soudu vytkl, že jeho rozsudek spočívá na nesprávném právním posouzení věci, aniž však jakkoli vymezil, v jakém rozsahu toto rozhodnutí napadá.
+Se zřetelem k době vydání rozsudku odvolacího soudu se uplatní pro dovolací řízení – v souladu s bodem 12. čl. II. přechodných ustanovení zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony – občanský soudní řád ve znění účinném do 30. června 2009 (dále též jen „o. s. ř.“).
+Nejvyšší soud již opakovaně ve svých rozhodnutích (srov. například usnesení Nejvyššího soudu ze dne 18. června 2003, sp. zn. 29 Odo 108/2002, publikované pod číslem 21/2004 Sbírky soudních rozhodnutí a stanovisek) dovodil, že dovolání, které nebylo v propadné (prekluzivní) lhůtě podle § 241b odst. 3 o. s. ř. doplněno o náležitosti uvedené v § 241a odst. 1 o. s. ř., bude dovolacím soudem odmítnuto podle § 43 odst. 2 o. s. ř.
+Od tohoto závěru nemá Nejvyšší soud důvod se odchýlit ani v projednávané věci. Z obsahu spisu (srov. doručenku na č. l. 90 spisu verte) se podává, že rozsudek odvolacího soudu byl dovolateli doručen dne 31. července 2008. Dále z něho vyplývá, že soud prvního stupně dovolatele k doplnění dovolání nevyzval a že dovolatel z vlastní iniciativy své podání o chybějící náležitost nedoplnil. Pakliže rozsah, ve kterém se rozhodnutí odvolacího soudu napadá, nelze seznat ani z obsahu dovolání, došlo dnem 30. září 2008 k marnému uplynutí zákonné lhůty stanovené v § 241b odst. 3 o. s. ř. k případnému doplnění dovolání, vada dovolání spočívající v neuvedení rozsahu napadeného rozsudku se stala neodstranitelnou a dovolání žalobce trpí vadou, která brání dalšímu pokračování dovolacího řízení.
+Nejvyšší soud proto, aniž nařizoval jednání (§ 243a odst. 1 věta první o. s. ř.), dovolání žalobce proti napadenému rozsudku odvolacího soudu odmítl pro vady podaného dovolání podle § 243c odst. 1 o. s. ř. za přiměřeného použití § 43 odst. 2 věty první o. s. ř.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanoveními § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 3 o. s. ř. Dovolání žalobce bylo odmítnuto, žalované však podle obsahu spisu žádné prokazatelné náklady v souvislosti s dovolacím řízením nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 12. listopadu 2009
+JUDr. Miroslav G a l l u s
+předseda senátu
