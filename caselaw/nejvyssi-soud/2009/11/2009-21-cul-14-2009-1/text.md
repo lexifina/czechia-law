@@ -1,0 +1,19 @@
+21 Cul 14/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Romana Fialy a soudců JUDr. Ljubomíra Drápala a JUDr. Mojmíra Putny o návrhu J. K., podaném proti Vrchnímu soudu v Praze na určení lhůt k provedení procesních úkonů ve věcech vedených pod sp.zn. 2 Ko 23/2009, 2 Ko 24/2009, 2 Ko 25/2009, 2 Ko 26/2009, 2 Ko 27/2009, 2 Ko 28/2009, 2 Ko 29/2009, 2 Ko 52/2009, 2 Ko 54/2009, 2 Ko 55/2009, 2 Ko 56/2009, 2 Ko 57/2009 a Nco 108/2009, takto:
+I. Návrh na určení lhůt Vrchnímu soudu v Praze k rozhodnutí ve věcech vedených pod sp.zn. 2 Ko 23/2009, 2 Ko 24/2009, 2 Ko 25/2009, 2 Ko 26/2009, 2 Ko 27/2009, 2 Ko 28/2009, 2 Ko 29/2009, 2 Ko 52/2009, 2 Ko 54/2009, 2 Ko 55/2009, 2 Ko 56/2009, 2 Ko 57/2009 a Nco 108/2009, se zamítá.
+II. Navrhovatel nemá právo na náhradu nákladů řízení.
+Odůvodnění:
+Ve výše uvedených věcech vznesl J. K. podáním ze dne 9.6.2009 námitku podjatosti ve vztahu k soudcům Vrchního soudu v Praze příslušným k projednání jeho konkursní věci vedené pod sp.zn. 52 K 92/97 u Městského soudu v Praze. Současně navrhl přikázání věci jinému vrchnímu soudu z důvodu vhodnosti podle § 12 odst. 2 o.s.ř.
+Nejvyšší soud ČR, kterému bylo uvedené podání postoupeno, usneseními ze dne 29.7.2009, sp.zn. 4 Nd 215/2009, 4 Nd 226/2009 a 4 Nd 200/2009, rozhodl o tom, že soudci Vrchního soudu v Praze nejsou vyloučeni z projednávání a rozhodnutí výše uvedených věcí, nerozhodl však výslovně o návrhu J. K. na delegaci podle § 12 odst. 2 o.s.ř.
+J. K. podáním ze dne 2.9.2009 na vznesené námitce podjatosti soudců Vrchního soudu v Praze i na návrhu přikázání věci jinému vrchnímu soudu trval.
+Jelikož z podání J. K. ze dne 9.6.2009 nebyly zřejmé důvody, pro něž by měly být věci příslušející Vrchnímu soudu v Praze jako soudu odvolacímu delegovány k projednání a rozhodnutí z důvodu vhodnosti jinému vrchnímu soudu, Vrchní soud v Praze usnesením ze dne 7.9.2009 vyzval J. K. k doplnění jeho návrhu ze dne 9.6.2009 a k zaplacení soudního poplatku.
+Podáním ze dne 29.10.2009 se poté J. K. domáhal, aby Nejvyšší soud ČR uložil Vrchnímu soudu v Praze ve výše uvedených věcech povinnost rozhodnout o jeho návrhu na delegaci jinému vrchnímu soudu z důvodu vhodnosti podle § 12 odst. 2 o.s.ř.
+Podle ustanovení § 174a odst. 1 zákona č. 6/2002 Sb., o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích), ve znění pozdějších předpisů (dále jen „zákon o soudech a soudcích“), má-li účastník nebo ten, kdo je stranou řízení, za to, že v tomto řízení dochází k průtahům, může podat návrh soudu, aby určil lhůtu pro provedení procesního úkonu, u kterého podle jeho názoru dochází k průtahům v řízení (dále jen „návrh na určení lhůty“).
+Podle ustanovení § 174a odst. 7 zákona o soudech a soudcích pokud soud, vůči němuž návrh na určení lhůty směřuje, již procesní úkon, u kterého jsou v návrhu namítány průtahy v řízení, učinil, příslušný soud návrh zamítne; stejně tak postupuje, dospěje-li k závěru, že k průtahům v řízení nedochází.
+Vzhledem k tomu, že – jak z obsahu spisu vyplynulo – J. K. na výzvu Vrchního soudu v Praze ze dne 7.9.2009 k doplnění jeho návrhu ze dne 9.6.2009 podle § 42 odst. 4 a § 43 odst. 1 o.s.ř. nereagoval a Vrchní soud v Praze proto k jeho návrhu dále nepřihlížel (§ 43 odst. 2 o.s.ř.), nedošlo v uvedených věcech k navrhovatelem namítaným průtahům, Nejvyšší soud ČR návrh J. K. na určení lhůt k provedení procesních úkonů v těchto věcech zamítl (srov. § 174a odst. 7 zákona o soudech a soudcích).
+O náhradě nákladů řízení bylo rozhodnuto podle ustanovení § 174a odst. 5 věty druhé zákona o soudech a soudcích a § 151 odst. 1 o.s.ř., neboť navrhovatel nemá ve smyslu ustanovení § 174a odst. 8 věty druhé zákona o soudech a soudcích právo, aby mu stát nahradil náklady, které mu v tomto řízení vznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 20. listopadu 2009
+JUDr. Roman Fiala, v. r.
+předseda senátu
