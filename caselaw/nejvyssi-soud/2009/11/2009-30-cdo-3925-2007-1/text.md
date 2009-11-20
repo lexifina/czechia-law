@@ -1,0 +1,16 @@
+30 Cdo 3925/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy
+JUDr. Karla Podolky a soudců JUDr. Pavla Vrchy a JUDr. Pavla Pavlíka ve věci žalobců 1) F. Č., 2) P. B., 3) M. K., 4) J. L., a 5) S. D., zastoupených advokátem, proti žalované M. J., zastoupené advokátem, o ochranu osobnosti, vedené u Městského soudu v Praze pod sp. zn. 34 C 51/2004, o dovolání žalobců proti rozsudku Vrchního soudu v Praze ze dne 14. března 2006, č.j. 1 Co 349/2005-110, takto:
+Dovolání žalobců se odmítá.
+Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst. 2 o.s.ř.):
+Při posuzování tohoto dovolání vycházel dovolací soud z ustanovení části první Čl. II, bodu 12 zákona č. 7/2009 Sb., jímž byl změněn občanský soudní řád (zákon č. 99/1963 Sb.), podle něhož dovolání proti rozhodnutím odvolacího soudu vyhlášeným (vydaným) přede dnem nabytí účinnosti tohoto zákona se projednají a rozhodnou podle dosavadních právních předpisů, tj. podle občanského soudního řádu ve znění účinném do 30. června 2009; užití nového ustanovení § 243c odst. 2 tím není dotčeno.
+Vrchní soud v Praze rozsudkem ze dne 14. března 2006, č.j. 1 Co 349/2005-110, potvrdil rozsudek Městského soudu v Praze ze dne 2. června 2005, č.j. 34 C 51/2004-84, ve věci samé a ve výroku o náhradě nákladů řízení.
+Proti tomuto rozsudku podali žalobci dovolání. Jeho přípustnost dovozují z ustanovení § 237 odst. 1 písm. c) o.s.ř. a podávají je z důvodu, že rozhodnutí spočívá na nesprávném právním posouzení věci podle ustanovení § 241a odst. 2 písm. b) o.s.ř.
+Z obsahu samotného dovolání (z vylíčení důvodu dovolání) vyplývá, že žalobci nenapadají rozhodnutí odvolacího soudu z důvodu nesprávného právního posouzení věci odvolacím soudem, ale podrobují kritice skutková zjištění, z nichž rozsudek odvolacího soudu vychází. Podstatou jejich námitek je nesouhlas s tím, ke kterým důkazům odvolací soud přihlížel a jak tyto důkazy hodnotil, a také skutečnost, že odvolací soud nevzal v úvahu všechny skutkové okolnosti, které jsou podle názoru žalobců pro posouzení věci významné. Žalobci tedy uplatňují dovolací důvod podle ustanovení § 241a odst. 3 o.s.ř. Správnost rozsudku odvolacího soudu z hlediska tohoto dovolacího důvodu nemohl dovolací soud přezkoumat, neboť skutečnost, že rozsudek odvolacího soudu eventuálně vychází ze skutkového zjištění, které nemá podle obsahu spisu v podstatné části oporu v provedeném dokazování, nezakládá přípustnost dovolání podle ustanovení § 237 odst. 1 písm. c) o.s.ř. (srov. usnesení Nejvyššího soudu ČR ze dne 29.6.2004, sp.zn. 21 Cdo 541/2004, uveřejněné v časopise Soudní judikatura pod číslem 132, ročník 2004, nebo usnesení Ústavního soudu ČR ze dne 7. 3. 2006, sp. zn. III. ÚS 10/06, uveřejněné v časopise Soudní judikatura, pod číslem 130, ročník 2006). Nejvyšší soud proto dovolání žalobců podle ustanovení § 243b odst.5 věty první a § 218 písm.c) o.s.ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1, § 146 odst. 3 o.s.ř. s tím, že žalované podle obsahu spisu žádné náklady dovolacího řízení nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 20. listopadu 2009
+JUDr. Karel Podolka, v. r.
+předseda senátu
