@@ -1,0 +1,19 @@
+29 Cdo 3924/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně doc. JUDr. Ivany Štenglové a soudců Mgr. Petra Šuka a Mgr. Filipa Cilečka v právní věci žalobce Ing. J. J., jako správce konkursní podstaty úpadce P. V., proti žalovanému Ing. I. H., zastoupenému Mgr. P. Š., advokátem, o zaplacení 691.959,30 Kč s příslušenstvím, vedené u Okresního soudu v Semilech pod sp. zn. 8 C 23/2008, o dovolání žalovaného proti rozsudku Krajského soudu v Hradci Králové ze dne 1. dubna 2009, č. j. 24 Co 38/2009-87, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+V záhlaví označeným rozsudkem potvrdil odvolací soud rozsudek ze dne 21. října 2008, č. j. 8 C 23/2008-58, kterým Okresní soud v Semilech uložil žalovanému zaplatit žalobci do konkursní podstaty úpadce P. V. 824.409,30 Kč spolu s 15% úrokem z prodlení z částky 691.959,30 Kč od 16. března 1996 do zaplacení s tím, že žalobce je oprávněn domáhat se plnění nejvýše do částky 2.861.540,- Kč.
+Proti rozsudku odvolacího soudu podal žalovaný dovolání, jež Nejvyšší soud podle ustanovení § 243b odst. 5, § 218 písm. c/ zákona č. 99/1963 Sb., občanského soudního řádu (dále jen o. s. ř.), odmítl.
+Učinil tak proto, že dovolání proti potvrzujícímu výroku usnesení ve věci samé může být přípustné pouze podle ustanovení § 237 odst. 1 písm. c/ o. s. ř. (o situaci předvídanou v ustanovení § 237 odst. 1 písm. b/ o. s. ř. nejde), tedy tak, že dovolací soud - jsa přitom vázán obsahem dovolání (§ 242 odst. 3 o. s. ř.) - dospěje k závěru, že napadené rozhodnutí má po právní stránce zásadní význam.
+Dovolatel přitom Nejvyššímu soudu žádné otázky, z nichž by bylo možno usuzovat na zásadní právní význam napadeného rozhodnutí, k řešení nepředkládá.
+Svými námitkami, podle nichž soudy nesprávně hodnotily důkazy, „nevyrovnaly se s dodatky, které předcházely uzavření dodatku ze dne 12. prosince 2005“ ani „s předloženým důkazem o vypořádání pohledávky“, vystihuje dovolací důvod vymezený v ustanovení § 241a odst. 3 o. s. ř., jenž u dovolání, jehož přípustnost může být založena toliko prostřednictvím ustanovení § 237 odst. 1 písm. c) o. s. ř., nemá k dispozici a z nějž závěr o přípustnosti dovolání neplyne (srov. výslovné znění označeného ustanovení).
+Námitka, podle které dovolatel nebyl v rozporu s ustanovením § 118a odst. 3 o. s. ř. vyzván k navržení potřebných důkazů k prokázání všech sporných tvrzení a nebyl poučen o následcích nesplnění této výzvy, je podřaditelná dovolacímu důvodu vymezenému v ustanovení § 241a odst. 2 písm. a) o. s. ř., jehož prostřednictvím na přípustnost dovolání podle ustanovení § 237 odst. 1 písm. c) o. s. ř. taktéž usuzovat nelze (srov. usnesení Nejvyššího soudu uveřejněné pod číslem 48/2006 Sbírky soudních rozhodnutí a stanovisek nebo usnesení Ústavního soudu ze dne 7. března 2006, sp. zn. III. ÚS 10/06, uveřejněné v časopise Soudní judikatura číslo 9, ročník 2006, pod číslem 130).
+Konečně posouzení, zda dodatek ke kupní smlouvě ze dne 7. ledna 2002, uzavřený dne 12. prosince 2005, je neplatný pro rozpor s dobrými mravy (nehledě k tomu, že dovolatel neuvádí žádné argumenty pro jím podporovaný závěr o platnosti označeného dodatku), je odvislé od konkrétních okolností projednávané věci a je významné pouze pro ni. Postrádá tudíž potřebný judikatorní přesah a připustit dovolání pro jeho přezkoumání nelze.
+Důvod připustit dovolání podle § 237 odst. 1 písm. c) o. s. ř. proto Nejvyšší soud neměl a podle jiných ustanovení občanského soudního řádu dovolání přípustné není.
+Výrok o nákladech řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalovaného bylo odmítnuto a žalobci podle obsahu spisu žádné náklady v souvislosti s dovolacím řízením nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 24. listopadu 2009
+Doc. JUDr. Ivana Štenglová
+předsedkyně senátu
