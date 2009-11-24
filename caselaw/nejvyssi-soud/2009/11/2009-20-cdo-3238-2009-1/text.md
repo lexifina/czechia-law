@@ -1,0 +1,16 @@
+20 Cdo 3238/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové a soudců JUDr. Olgy Puškinové a JUDr. Vladimíra Mikuška v exekuční věci oprávněné Č. p. a. s., zastoupené advokátem, proti povinnému P. B., pro 1.002,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 6 pod sp. zn. 34 Nc 5511/2008, o dovolání povinného proti usnesení Městského soudu v Praze ze dne 27. 8. 2008, č. j. 69 Co 373/2008-14, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Shora označené rozhodnutí, jímž odvolací soud odmítl podle § 44 odst. 10 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění pozdějších předpisů (dále jen zákon č. 120/2001 Sb.), odvolání povinného proti usnesení ze dne 12. 3. 2008, č. j. 34 Nc 5511/2008-3, o nařízení exekuce pro peněžité plnění a o pověření soudního exekutora Mgr. D. K., napadl povinný dovoláním, podaným k poštovní přepravě dne 29. 4. 2009.
+Dovolání je opožděné.
+Účastník může podat dovolání do dvou měsíců od doručení rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni, popřípadě u odvolacího nebo dovolacího soudu (§ 240 odst. 1, věta první, odst. 2, věta druhá, zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů, dále jen „o. s. ř.“). Neobsahuje-li rozhodnutí poučení o dovolání, o lhůtě k dovolání nebo o soudu, u něhož se podává, nebo obsahuje-li nesprávné poučení o tom, že dovolání není přípustné, lze podat dovolání do čtyř měsíců od doručení (§ 240 odst. 3, věta druhá, o. s. ř.). Lhůta k podání dovolání je lhůtou procesní a zákonnou, jejíž zmeškání nelze prominout (§ 240 odst. 2, věta první, o. s. ř.). Ve smyslu ustanovení § 57 odst. 2, věty první a druhé, o. s. ř. končí běh lhůty k podání dovolání uplynutím toho dne, který se svým označením shoduje se dnem, kdy došlo ke skutečnosti určující počátek lhůty, a není-li ho v měsíci, posledním dnem měsíce; připadne-li konec lhůty na sobotu, neděli nebo svátek, je posledním dnem lhůty nejblíže následující pracovní den. Lhůta je zachována, je-li posledního dne lhůty učiněn úkon u soudu nebo podání odevzdáno orgánu, který má povinnost je doručit (§ 57 odst. 3 o. s. ř.).
+V projednávané věci byl stejnopis písemného vyhotovení usnesení odvolacího soudu, obsahující řádné poučení o možnosti podat dovolání, doručen povinnému dne 9. 2. 2009. Dovolání, adresované soudu prvního stupně, jmenovaný podal k poštovní přepravě dne 29. 4. 2009.
+Posledním dnem lhůty, v níž mohl dovolání učinit u soudu, popřípadě podat k přepravě orgánu, který má povinnost je doručit, byl čtvrtek 9. 4. 2009; dovolání tedy bylo podáno po uplynutí lhůty stanovené v § 240 odst. 3, větě druhé, o. s. ř. Na tomto závěru nic nezmění ani to, byl-li dovolatel následně soudem vyzýván usnesením ze dne 18. 5. 2009 na čl. 20 k doplnění svého podání a zvolení advokáta.
+Nejvyšší soud proto dovolání jako opožděné odmítl (§ 243b odst. 5, věta první, § 218a o. s. ř.).
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 24. listopadu 2009
+JUDr. Miroslava Jirmanová , v. r.
+předsedkyně senátu
