@@ -1,0 +1,16 @@
+30 Cdo 4376/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Karla Podolky a soudců JUDr. Pavla Vrchy a JUDr. Pavla Pavlíka ve věci navrhovatele M. V., zbaveného způsobilosti k právním úkonům, zastoupeného opatrovníkem obcí Č., o vrácení způsobilosti k právním úkonům, vedené u Okresního soudu v Chomutově pod sp. zn. 14 P 111/2003, o dovolání Milana Vaňka proti rozsudku Krajského soudu v Ústí nad Labem ze dne 10. března 2009, č.j. 11 Co 266/2008-600, t a k t o :
+Dovolací řízení se zastavuje.
+Stručné odůvodnění (§ 243c odst. 2 o.s.ř.):
+Proti v záhlaví citovanému rozsudku, kterým krajský soud potvrdil rozsudek Okresního soudu v Chomutově ze dne 13. listopadu 2007, č.j. 14 P 111/2003-453, jímž bylo ve věci rozhodnuto, že „Návrh pana M. V., na nové přezkoumání způsobilosti k právním úkonům se zamítá.“, a dále rozhodnuto, že „Náklady řízení hradí stát“, podal M. V. (dále již „dovolatel“), aniž by byl zastoupen advokátem, dovolání.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) po zjištění,
+že dovolání proti pravomocnému rozsudku odvolacího soudu bylo podáno včas osobou k tomu oprávněnou – účastníkem řízení (§ 240 odst. 1 o.s.ř.), shledal, že nejsou splněny podmínky pro jeho věcné projednání.
+Podle § 241 odst. 1 věty první o.s.ř. není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Odstavec první citovaného ustanovení neplatí, je-li dovolatel fyzická osoba, která má právnické vzdělání [§ 241 odst. 2 písm. a) o.s.ř.]. Podle odstavce 4 téhož ustanovení dovolání fyzické osoby musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem nebo notářem. Povinné zastoupení je tak zvláštní podmínkou dovolacího řízení týkající se dovolatele, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění není možno vydat rozhodnutí, jímž se řízení končí. Podle § 104 odst. 2 o.s.ř. jde-li o nedostatek podmínky řízení, který lze odstranit, učiní k tomu soud vhodná opatření. Nezdaří-li se nedostatek podmínky řízení odstranit, řízení zastaví.
+Dovolatel, který nebyl při podání dovolání zastoupen advokátem, byl proto usnesením okresního soudu ze dne 17. srpna 2009, č.j. 13 P 111/2003-627, prostřednictvím svého opatrovníka (obec Č.) vyzván, aby si pro dovolací řízení zvolil ve stanovené lhůtě advokáta a jeho prostřednictvím podal řádné dovolání. Současně byl poučen, že když tak neučiní, bude dovolací řízení zastaveno. Usnesení obsahující výzvu bylo opatrovníku dovolatele doručeno dne 27. srpna 2009, nedostatek advokátního zastoupení ovšem dosud odstraněn nebyl.
+Z výše uvedeného plyne, že přes opatření provedená soudem prvního stupně dovolatel nesplnil zákonem stanovenou podmínku dovolacího řízení ve smyslu § 241 odst. 1 věty první a odst. 4 o.s.ř. Dovolací soud proto řízení o dovolání zastavil (§ 241b odst. 2 část věty před středníkem a § 104 odst. 2 věta třetí o.s.ř.).
+O náhradě nákladů dovolacího řízení Nejvyšší soud České republiky nerozhodoval, neboť v tomto řízení je jediným účastníkem pouze dovolatel, takže náhrada nákladů řízení mezi účastníky navzájem zde pojmově nepřichází v úvahu.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 30.listopadu 2009
+JUDr. Karel P o d o l k a , v.r.
+předseda senátu
