@@ -1,0 +1,18 @@
+30 Cdo 3145/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Karla Podolky a soudců JUDr. Pavla Vrchy a JUDr. Pavla Pavlíka v právní věci žalobkyně I. P. s.r.o., proti žalované S. s.r.o., zastoupené advokátkou, za účasti J. J., zastoupeného advokátkou, jako vedlejšího účastníka řízení na straně žalobkyně, o určení vlastnického práva k nemovitostem, vedené u Obvodního soudu pro Prahu 3 pod sp. zn. 8 C 229/2004, o dovolání žalobkyně a vedlejšího účastníka proti usnesení Městského soudu v Praze ze dne 16. února 2008, č.j. 36 Co 119/2008-173, t a k t o :
+Dovolání vedlejšího účastníka se odmítá.
+Řízení o dovolání žalobkyně se zastavuje.
+Ve vztahu mezi žalovanou a vedlejším účastníkem nemá žádný z nich právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.):
+Proti v záhlaví citovanému usnesení Městského soudu v Praze, kterým bylo potvrzeno usnesení Obvodního soudu pro Prahu 3 ze dne 15. května 2008, č.j. 8 C 299/2004-157, jímž soud prvního stupně podle ustanovení § 107 odst. 5 o. s. ř. zastavil řízení vzhledem ke zjištění, že v průběhu řízení došlo k zániku žalobkyně bez právního nástupce, podala žalobkyně, jakož i vedlejší účastník na její straně, dovolání.
+Dovolání podané vedlejším účastníkem proti shora označenému usnesení odvolacího soudu Nejvyšší soud České republiky odmítl podle § 243b odst. 5 a § 218 písm. b) o.s.ř., neboť zákon vedlejšímu účastníkovi oprávnění podat dovolání nedává (k tomu srovnej usnesení Nejvyššího soudu České republiky ze dne 27. května 2003, sp. zn. 25 Cdo 162/2003, publikované pod č. 3 ve Sbírce soudních rozhodnutí a stanovisek, ročník 2004).
+Pokud jde o dovolání žalobkyně, zde Nejvyššímu soudu České republiky nezbylo, než dovolací řízení o tomto dovolání zastavit.
+Podle ustanovení § 241 odst. 1 o. s. ř. musí být dovolatel zastoupen advokátem, jestliže nemá právnické vzdělání buď sám, nebo jeho zaměstnanec (člen), který za něj jedná. Advokátka, která v daném případě v tvrzeném zastoupení žalobkyně dovolání podala, neprokázala, že by byla k jeho podání žalobkyní zmocněna; nemohla tak ostatně ani objektivně učinit, neboť podle dovolacího soudu žalobkyně byla již ke dni 12. března 2008 vymazána z obchodního rejstříku, tedy jako subjekt práva zanikla bez právního nástupce a proto jí ani nebylo možno k odstranění nedostatku povinného zastoupení vyzvat.
+Protože povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, bez jejíhož splnění nelze vydat – s výjimkou usnesení, jímž se dovolací řízení pro tento nedostatek zastavuje – rozhodnutí, kterým se řízení končí, a protože ke zhojení tohoto nedostatku nedošlo, resp. v popsané procesní situaci ani dojít nemohlo, Nejvyšší soud České republiky podle § 104 odst. 2 poslední věty a § 241b odst. 2 o. s. ř. dovolací řízení zastavil (srovnej k tomu též závěry obsažené v usnesení Nejvyššího soudu České republiky pod číslem 30/2003 Sbírky soudních rozhodnutí a stanovisek).
+O nákladech dovolacího řízení ve vztahu mezi vedlejším účastníkem a žalovanou bylo rozhodnuto podle § 243b odst. 4 o. s. ř. v návaznosti na ust. § 224 odst. 1 a § 146 odst. 1 písm. c) o. s. ř. (per analogiam) tak, že žádný z těchto účastníků nemá právo na jejich úhradu, a to proto, že vedlejší účastník z procesního hlediska sice zavinil odmítnutí dovolání, avšak žalované podle spisu žádné účelně vynaložené náklady v tomto řízení nevznikly.
+Vzhledem k tomu, že žalobkyně jako subjekt práva zanikla, nepřicházelo v úvahu rozhodovat o náhradě nákladů dovolacího řízení mezi „dovolatelkou“ a žalovanou.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 30. listopadu 2009
+JUDr. Karel P o d o l k a , v.r.
+předseda senátu
