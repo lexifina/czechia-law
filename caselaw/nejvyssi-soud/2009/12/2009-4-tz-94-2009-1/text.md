@@ -1,0 +1,697 @@
+4 Tz 94/2009
+U S N E S E N Í
+Nejvyšší soud České republiky projednal v neveřejném zasedání konaném dne 8. prosince 2009 stížnost pro porušení zákona, kterou podala ministryně spravedlnosti České republiky v neprospěch obviněného S. J., proti pravomocnému rozsudku Krajského soudu v Hradci Králové ze dne 18. 6. 2009, sp. zn. 6 T 11/2008, a rozhodl t a k t o :
+Podle § 268 odst. 1 písm. c) tr. ř. se stížnost pro porušení zákona z a m í t á .
+Odůvodnění:
+Rozsudkem Krajského soudu v Hradci Králové ze dne 18. 6. 2009, sp. zn. 6 T 11/2008, byl obviněný S. J. podle § 226 písm. b) tr. ř. zproštěn obžaloby Krajského státního zastupitelství v Hradci Králové ze dne 8. 12. 2008, sp. zn. 2 KZV 11/2008, pro trestný čin podvodu podle § 250 odst. 1, odst. 4 tr. zák., kterého se měl dopustit tím, že:
+v období od měsíce února 2002 do měsíce ledna 2004 včetně na celém území České republiky se zaměřením na oblast bývalého V. k. v postavení jednatele a i jediného společníka firmy J. s., s.r.o., se sídlem v H. T., ul. N., vědom si stavu zadlužení dané firmy, spočívající v neexistenci potřebné finanční hotovosti k úhradě závazků firmy v době jejich splatnosti, a to již nejméně od data 31. 12. 2001 (tedy tzv. prvotní platební neschopnosti), odebíral sám či prostřednictvím svých zaměstnanců zboží či nechal poskytovat služby pro firmu J. &#61478; s., s.r.o., od níže uvedených firem, společností nebo jinak označených subjektů v rámci obchodních styků, kteří o pravém stavu finanční situace u firmy J. &#61478; s., s.r.o., neměli žádného povědomí, čehož se dopustil v následujících případech:
+1.
+firma J. K. – T., se sídlem D. n. O., V., u které v sídle firmy odebral a v době splatnosti neuhradil zboží uvedené v daňovém dokladu:
+fa. č. 200202544 ze dne 1.8.2002 znějící na částku 11.121,90 Kč s datem splatnosti 11.8.2002, čímž způsobil dané firmě škodu ve výši 11.121,90 Kč,
+2.
+P. B., sdružení fyzických osob, s.r.o., se sídlem B., u které v sídle firmy v době od října 2002 do prosince 2003 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 3142 ze dne 10.10.2002 znějící na částku 21.459,-- Kč s datem splatnosti 27.10.2002,
+fa. č. 3365 ze dne 31.10.2002 znějící na částku 21.654,-- Kč s datem splatnosti 16.11.2002,
+fa. č. 3588 ze dne 20.11.2002 znějící na částku 21.735,-- Kč s datem splatnosti 6.12.2002,
+fa. č. 3698 ze dne 30.11.2002 znějící na částku 21.023,75 Kč s datem splatnosti 16.12.2002,
+fa. č. 3920 ze dne 20.12.2002 znějící na částku 22.635,-- Kč s datem splatnosti 5.1.2003,
+fa. č. 4002 ze dne 31.12.2002 znějící na částku 23.084,-- Kč s datem splatnosti 16.1.2003,
+fa. č. 1380 ze dne 10.5.2003 znějící na částku 13.934,-- Kč s datem splatnosti 28.5.2003,
+fa. č. 1485 ze dne 20.5.2003 znějící na částku 17.170,80 Kč s datem splatnosti 5.6.2003,
+fa. č. 1588 ze dne 31.5.2003 znějící na částku 20.594,-- Kč s datem splatnosti 16.6.2003,
+fa. č. 1691 ze dne 12.6.2003 znějící na částku 16.977,-- Kč s datem splatnosti 26.6.2003,
+fa. č. 1796 ze dne 20.6.2003 znějící na částku 18.896,-- Kč s datem splatnosti 6.7.2003,
+fa. č. 1901 ze dne 30.6.2003 znějící na částku 16.390,-- Kč s datem splatnosti 16.7.2003,
+fa. č. 2003 ze dne 10.7.2003 znějící na částku 18.904,-- Kč s datem splatnosti 26.7.2003,
+fa. č. 2100 ze dne 20.7.2003 znějící na částku 16.118,40 Kč s datem splatnosti 6.8.2006,
+fa. č. 2196 ze dne 31.7.2003 znějící na částku 21.001,-- Kč s datem splatnosti 16.8.2003,
+fa. č. 2297 ze dne 10.8.2003 znějící na částku 9.153,-- Kč s datem splatnosti 26.8.2003,
+fa. č. 2398 ze dne 20.8.2003 znějící na částku 10.966,-- Kč s datem splatnosti 5.9.2003,
+fa. č. 2499 ze dne 31.8.2003 znějící na částku 10.481,-- Kč s datem splatnosti 16.9.2003,
+fa. č. 2602 ze dne 10.9.2003 znějící na částku 11.228,-- Kč s datem splatnosti 26.9.2003,
+fa. č. 2706 ze dne 20.9.2003 znějící na částku 10.394,-- Kč s datem splatnosti 8.10.2003,
+fa. č. 2807 ze dne 30.9.2003 znějící na částku 9.750,-- Kč s datem splatnosti 16.10.2003,
+fa. č. 2908 ze dne 10.10.2003 znějící na částku 10.847,-- Kč s datem splatnosti 26.10.2003,
+fa. č. 3008 ze dne 20.10.2003 znějící na částku 9.516,-- Kč s datem splatnosti 5.11.2003,
+fa. č. 3110 ze dne 31.10.2003 znějící na částku 10.731,-- Kč s datem splatnosti 19.11.2003,
+fa. č. 3213 ze dne 10.11.2003 znějící na částku 9.495,-- Kč s datem splatnosti 26.11.2003,
+fa. č. 3314 ze dne 20.11.2003 znějící na částku 10.728,-- Kč s datem splatnosti 7.12.2003,
+fa. č. 3418 ze dne 30.11.2003 znějící na částku 10.455,-- Kč s datem splatnosti 17.12.2003,
+fa. č. 3521 ze dne 10.12.2003 znějící na částku 10.754,-- Kč s datem splatnosti 26.12.2003,
+fa. č. 3621 ze dne 20.12.2003 znějící na částku 10.871,-- Kč s datem splatnosti 7.1.2004,
+fa. č. 3711 ze dne 31.12.2003 znějící na částku 12.891,-- Kč s datem splatnosti 16.1.2004,
+čímž způsobil P. B., s.r.o., celkovou škodu ve výši 449.837,-- Kč,
+3.
+I. P., s.r.o., se sídlem H., ul. R., u které v sídle společnosti v době od října 2002 do ledna 2003 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 222002473 ze dne 25.10.2002 znějící na částku 3.993,-- Kč s datem splatnosti 8.11.2002,
+fa. č. 222002496 ze dne 31.10.2002 znějící na částku 5.638,-- Kč s datem splatnosti 14.11.2002,
+fa. č. 222002507 ze dne 1.11.2002 znějící na částku 3.200,-- Kč s datem splatnosti 15.11.2002,
+fa. č. 222002677 ze dne 6.11.2002 znějící na částku 6.435,-- Kč s datem splatnosti 20.11.2002,
+fa. č. 222002697 ze dne 13.11.2002 znějící na částku 7.702,-- Kč s datem splatnosti 27.11.2002,
+fa. č. 222002740 ze dne 20.11.2002 znějící na částku 8.919,-- Kč s datem splatnosti 4.12.2002,
+fa. č. 222002778 ze dne 28.11.2002 znějící na částku 6.660,-- Kč s datem splatnosti 12.12.2002,
+fa. č. 222002800 ze dne 29.11.2002 znějící na částku 6.370,-- Kč s datem splatnosti 13.12.2002,
+fa. č. 222002950 ze dne 4.12.2002 znějící na částku 7.152,-- Kč s datem splatnosti 18.12.2002,
+fa. č. 222002966 ze dne 6.12.2002 znějící na částku 3.906,-- Kč s datem splatnosti 20.12.2002,
+fa. č. 223000087 ze dne 20.1.2003 znějící na částku 4.035,-- Kč s datem splatnosti 4.2.2003,
+čímž způsobil firmě I. P., s.r.o., celkovou škodu ve výši 64.010,-- Kč, když až dne 31.12.2006 z faktury č. 222002496 byla uhrazena suma 5.219,-- Kč,
+4.
+G. S., spol. s r.o., se sídlem S., ul. T., u které v sídle společnosti v době od listopadu 2002 do prosince 2003 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 120338 ze dne 6.11.2002 znějící na částku 2.697,-- Kč s datem splatnosti 28.11.2002,
+fa. č. 130006 ze dne 8.1.2003 znějící na částku 1.539,-- Kč s datem splatnosti 31.1.2003,
+fa. č. 130025 ze dne 22.1.2003 znějící na částku 788,-- Kč s datem splatnosti 14.2.2003,
+fa. č. 130038 ze dne 5.2.2003 znějící na částku 918,-- Kč s datem splatnosti 27.2.2003,
+fa. č. 130055 ze dne 20.2.2003 znějící na částku 2.300,-- Kč s datem splatnosti 17.3.2003,
+fa. č. 130067 ze dne 5.3.2003 znějící na částku 2.027,-- Kč s datem splatnosti 27.3.2003,
+fa. č. 130085 ze dne 19.3.2003 znějící na částku 1.531,-- Kč s datem splatnosti 10.4.2003,
+fa. č. 130104 ze dne 2.4.2003 znějící na částku 2.706,-- Kč s datem splatnosti 28.4.2003,
+fa. č. 130115 ze dne 16.4.2003 znějící na částku 1.306,-- Kč s datem splatnosti 9.5.2003,
+fa. č. 130134 ze dne 30.4.2003 znějící na částku 3.436,-- Kč s datem splatnosti 23.5.2003,
+fa. č. 130147 ze dne 14.5.2003 znějící na částku 2.224,-- Kč s datem splatnosti 5.6.2003,
+fa. č. 130163 ze dne 28.5.2003 znějící na částku 1.518,-- Kč s datem splatnosti 19.6.2003,
+fa. č. 130184 ze dne 11.6.2003 znějící na částku 2.638,-- Kč s datem splatnosti 4.7.2003,
+fa. č. 130202 ze dne 25.6.2003 znějící na částku 1.189,-- Kč s datem splatnosti 21.7.2003,
+fa. č. 130211 ze dne 2.7.2003 znějící na částku 655,-- Kč s datem splatnosti 28.7.2003,
+fa. č. 130215 ze dne 9.7.2003 znějící na částku 1.564,-- Kč s datem splatnosti 1.8.2003,
+fa. č. 130245 ze dne 30.7.2003 znějící na částku 1.970,-- Kč s datem splatnosti 26.8.2003,
+fa. č. 130263 ze dne 20.8.2003 znějící na částku 3.090,-- Kč s datem splatnosti 15.9.2003,
+fa. č. 130274 ze dne 3.9.2003 znějící na částku 1.548,-- Kč s datem splatnosti 26.9.2003,
+fa. č. 130289 ze dne 17.9.2003 znějící na částku 1.752,-- Kč s datem splatnosti 13.10.2003,
+fa. č. 130303 ze dne 1.10.2003 znějící na částku 1.990,-- Kč s datem splatnosti 27.10.2003,
+fa. č. 130318 ze dne 22.10.2003 znějící na částku 1.410,-- Kč s datem splatnosti 14.11.2003,
+fa. č. 130331 ze dne 5.11.2003 znějící na částku 3.250,-- Kč s datem splatnosti 28.11.2003,
+fa. č. 130344 ze dne 19.11.2003 znějící na částku 650,-- Kč s datem splatnosti 15.12.2003,
+fa. č. 130364 ze dne 11.12.2003 znějící na částku 3.298,-- Kč s datem splatnosti 2.1.2004,
+fa. č. 130369 ze dne 19.12.2003 znějící na částku 5.996,-- Kč s datem splatnosti 12.1.2004,
+čímž způsobil firmě G. S., spol. s r.o., celkovou škodu ve výši 53.990,-- Kč,
+5.
+S. U., se sídlem U., u které v sídle firmy v době od listopadu 2002 do prosince 2003 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 2001435 ze dne 8.11.2002 znějící na částku 1.689,-- Kč s datem splatnosti 21.11.2002,
+fa. č. 200101519 ze dne 29.11.2002 znějící na částku 1.740,-- Kč s datem splatnosti 10.12.2002,
+fa. č. 2001560 ze dne 10.12.2002 znějící na částku 1.732,-- Kč s datem splatnosti 20.12.2002,
+fa. č. 2001603 ze dne 20.12.2002 znějící na částku 1.914,-- Kč s datem splatnosti 30.12.2002,
+fa. č. 2030001 ze dne 10.1.2003 znějící na částku 1.496,-- Kč s datem splatnosti 20.1.2003,
+fa. č. 2300056 ze dne 20.1.2003 znějící na částku 1.360,-- Kč s datem splatnosti 30.1.2003,
+fa. č. 2300097 ze dne 31.1.2003 znějící na částku 2.100,-- Kč s datem splatnosti 10.2.2003,
+fa. č. 2300138 ze dne 10.2.2003 znějící na částku 1.133,-- Kč s datem splatnosti 20.2.2003,
+fa. č. 2300179 ze dne 20.2.2003 znějící na částku 1.801,-- Kč s datem splatnosti 2.3.2003,
+fa. č. 2300220 ze dne 28.2.2003 znějící na částku 1.632,-- Kč s datem splatnosti 10.3.2003,
+fa. č. 2300259 ze dne 10.3.2003 znějící na částku 1.321,-- Kč s datem splatnosti 20.3.2003,
+fa. č. 2300299 ze dne 20.3.2003 znějící na částku 1.624,-- Kč s datem splatnosti 31.3.2003,
+fa. č. 2300339 ze dne 31.3.2003 znějící na částku 1.906,-- Kč s datem splatnosti 10.4.2003,
+fa. č. 20300381 ze dne 10.4.2003 znějící na částku 1.648,-- Kč s datem splatnosti 20.4.2003,
+fa. č. 2300425 ze dne 18.4.2003 znějící na částku 1.821,-- Kč s datem splatnosti 30.4.2003,
+fa. č. 2300465 ze dne 30.4.2003 znějící na částku 1.523,-- Kč s datem splatnosti 10.5.2003,
+fa. č. 2300508 ze dne 9.5.2003 znějící na částku 1.436,-- Kč s datem splatnosti 20.5.2003,
+fa. č. 2300548 ze dne 20.5.2003 znějící na částku 1.887,-- Kč s datem splatnosti 30.5.2003,
+fa. č. 2300589 ze dne 30.5.2003 znějící na částku 1.947,-- Kč s datem splatnosti 10.6.2003,
+fa. č. 2300632 ze dne 10.6.2003 znějící na částku 1.749,-- Kč s datem splatnosti 20.6.2003,
+fa. č. 2300674 ze dne 20.6.2003 znějící na částku 1.934,-- Kč s datem splatnosti 30.6.2003,
+fa. č. 2300719 ze dne 30.6.2003 znějící na částku 1.146,-- Kč s datem splatnosti 10.7.2003,
+fa. č. 2300757 ze dne 10.7.2003 znějící na částku 1.787,-- Kč s datem splatnosti 20.7.2003,
+fa. č. 2300797 ze dne 18.7.2003 znějící na částku 1.676,-- Kč s datem splatnosti 30.7.2003,
+fa. č. 2300841 ze dne 31.7.2003 znějící na částku 2.020,-- Kč s datem splatnosti 10.8.2003,
+fa. č. 2300882 ze dne 8.8.2003 znějící na částku 1.814,-- Kč s datem splatnosti 20.8.2003,
+fa. č. 2300920 ze dne 20.8.2003 znějící na částku 1.881,-- Kč s datem splatnosti 30.8.2003,
+fa. č. 2300962 ze dne 29.8.2003 znějící na částku 1.672,-- Kč s datem splatnosti 10.9.2003,
+fa. č. 2301003 ze dne 10.9.2003 znějící na částku 1.842,-- Kč s datem splatnosti 21.9.2003,
+fa. č. 2301045 ze dne 19.9.2003 znějící na částku 1.724,-- Kč s datem splatnosti 30.9.2003,
+fa. č. 2301087 ze dne 30.9.2003 znějící na částku 1.710,-- Kč s datem splatnosti 10.10.2003,
+fa. č. 2301132 ze dne 10.10.2003 znějící na částku 1.856,-- Kč s datem splatnosti 20.10.2003,
+fa. č. 2301175 ze dne 20.10.2003 znějící na částku 1.408,-- Kč s datem splatnosti 30.10.2003,
+fa. č. 2301216 ze dne 31.10.2003 znějící na částku 1.856,-- Kč s datem splatnosti 10.11.2003,
+fa. č. 2301257 ze dne 10.11.2003 znějící na částku 1.651,-- Kč s datem splatnosti 20.11.2003,
+fa. č. 2301298 ze dne 20.11.2003 znějící na částku 1.817,-- Kč s datem splatnosti 30.11.2003,
+fa. č. 2301348 ze dne 28.11.2003 znějící na částku 1.581,-- Kč s datem splatnosti 8.12.2003,
+fa. č. 2301385 ze dne 10.12.2003 znějící na částku 1.835,-- Kč s datem splatnosti 20.12.2003,
+fa. č. 2301423 ze dne 19.12.2003 znějící na částku 1.867,-- Kč s datem splatnosti 30.12.2003,
+fa. č. 2301456 ze dne 31.12.2003 znějící na částku 1.303,-- Kč s datem splatnosti 10.1.2004,
+čímž způsobil firmě S. U. celkovou škodu ve výši 67.844,10 Kč,
+6.
+F., s.r.o., se sídlem P., ul. B., u které v sídle společnosti v době od listopadu 2002 do srpna 2003 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 20880 ze dne 7.11.2002 znějící na částku 8.108,-- Kč s datem splatnosti 7.12.2002,
+fa. č. 21353 ze dne 4.12.2002 znějící na částku 4.560,-- Kč s datem splatnosti 3.1.2003,
+fa. č. 20149 ze dne 16.1.2003 znějící na částku 8.533,-- Kč s datem splatnosti 16.2.2003,
+fa. č. 20132 ze dne 15.1.2003 znějící na částku 8.920,-- Kč s datem splatnosti 14.2.2003,
+fa. č. 20376 ze dne 30.1.2003 znějící na částku 8.347,-- Kč s datem splatnosti 1.3.2003,
+fa. č. 20648 ze dne 20.2.2003 znějící na částku 4.342,-- Kč s datem splatnosti 22.3.2003,
+fa. č. 20649 ze dne 20.2.2003 znějící na částku 7.152,-- Kč s datem splatnosti 22.3.2003,
+fa. č. 2731 ze dne 27.2.2003 znějící na částku 6.223,-- Kč s datem splatnosti 29.3.2003,
+fa. č. 27875 ze dne 24.7.2003 znějící na částku 10.192,-- Kč s datem splatnosti 23.8.2003,
+fa. č. 28242 ze dne 28.8.2003 znějící na částku 5.554,-- Kč s datem splatnosti 27.9.2003,
+čímž způsobil firmě F., s.r.o., celkovou škodu ve výši 71.931,-- Kč,
+7.
+Z. z. a n., a.s., Ch., ul. D., u které v sídle společnosti v době od dubna 2002 do února 2003 odebral a v době splatnosti neuhradil zboží a služby uvedené v následujících daňových dokladech:
+fa. č. 1450002/03 ze dne 23.1.2003 znějící na částku 4.170,-- Kč s datem splatnosti 6.2.2003,
+fa. č. 145004/03 ze dne 6.2.2003 znějící na částku 2.070,-- Kč s datem splatnosti 20.2.2003,
+fa. č. 145005/03 ze dne 24.2.2003 znějící na částku 2.770,-- Kč s datem splatnosti 10.3.2003,
+fa. č. 6/03 ze dne 26.2.2003 znějící na částku 2.070,-- Kč s datem splatnosti 12.3.2003,
+čímž způsobil firmě E. E. R., spol. s r.o., T. n. S., ul. D., která dne 22.12.2006 od Z., a.s., Ch. postoupením převzala danou pohledávku, celkovou škodu ve výši 11.080,-- Kč,
+8.
+G. B. CR, s.r.o., se sídlem P. – V., ul. K., u které v sídle společnosti odebral a v době splatnosti neuhradil zboží uvedené v daňovém dokladu:
+fa. č. 800317322 ze dne 24.2.2003 znějící na částku 38.416,60 Kč s datem splatnosti 10.3.2003,
+čímž způsobil dané firmě škodu ve výši 38.416,60 Kč, když až ve dnech 19.11.2003 a 19.12.2003 byla dle splátkového kalendáře, uzavřeného dne 22.10.2003, uhrazena toliko částka 10.000,-- Kč,
+9.
+firma E. F. – A. se sídlem P., T. n. O., u které v místě firmy v době od března 2003 do června 2003 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 3039 ze dne 6.3.2003 znějící na částku 1.367,80 Kč s datem splatnosti 16.3.2003,
+fa. č. 3061/1 ze dne 10.4.2003 znějící na částku 4.130,60 Kč s datem splatnosti 20.4.2003,
+fa. č. 3084/1 ze dne 15.5.2003 znějící na částku 3.283,70 Kč s datem splatnosti 25.5.2003,
+fa. č. 3103 ze dne 10.6.2003 znějící na částku 1.625,80 Kč s datem splatnosti 20.6.2003,
+fa. č. 3107/1 ze dne 17.6.2003 znějící na částku 4.697,80 Kč s datem splatnosti 27.6.2003,
+fa. č. 3114 ze dne 25.6.2003 znějící na částku 1.628,40 Kč s datem splatnosti 5.7.2003,
+čímž způsobil firmě E. F. – A. celkovou škodu ve výši 16.734,10 Kč,
+10.
+L. H., spol. s r.o., se sídlem H. K., ul. S., u které v místě společnosti v době od března 2003 do prosince 2003 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 370482 ze dne 19.3.2003 znějící na částku 5.171,70 Kč s datem splatnosti 29.3.2003,
+fa. č. 370588 ze dne 2.4.2003 znějící na částku 2.878,-- Kč s datem splatnosti 12.4.2003,
+fa. č. 370821 ze dne 14.5.2003 znějící na částku 3.155,80 Kč s datem splatnosti 24.5.2003,
+fa. č. 370958 ze dne 4.6.2003 znějící na částku 3.214,20 Kč s datem splatnosti 14.6.2003,
+fa. č. 370954 ze dne 4.6.2003 znějící na částku 5.499,-- Kč s datem splatnosti 14.6.2003,
+fa. č. 371578 ze dne 23.9.2003 znějící na částku 4.098,20 Kč s datem splatnosti 4.10.2003,
+fa. č. 371588 ze dne 24.9.2003 znějící na částku 1.274,70 Kč s datem splatnosti 5.10.2003,
+fa. č. 371674 ze dne 8.10.2003 znějící na částku 793,-- Kč s datem splatnosti 18.10.2003,
+fa. č. 371671 ze dne 8.10.2003 znějící na částku 4.461,10 Kč s datem splatnosti 18.10.2003,
+fa. č. 371723 ze dne 16.10.2003 znějící na částku 8.626,30 Kč s datem splatnosti 26.10.2003,
+fa. č. 371724 ze dne 16.10.2003 znějící na částku 1.827,-- Kč s datem splatnosti 26.10.2003,
+fa. č. 371763 ze dne 22.10.2003 znějící na částku 755,40 Kč s datem splatnosti 1.11.2003,
+fa. č. 371803 ze dne 30.10.2003 znějící na částku 8.725,40 Kč s datem splatnosti 9.11.2003,
+fa. č. 371825 ze dne 5.11.2003 znějící na částku 2.126,50 Kč s datem splatnosti 15.11.2003,
+fa. č. 371835 ze dne 6.11.2003 znějící na částku 3.686,-- Kč s datem splatnosti 16.11.2003,
+fa. č. 371881 ze dne 13.11.2003 znějící na částku 5.096,50 Kč s datem splatnosti 23.11.2003,
+fa. č. 371904 ze dne 19.11.2003 znějící na částku 5.995,50 Kč s datem splatnosti 29.11.2003,
+fa. č. 371911 ze dne 20.11.2003 znějící na částku 3.143,-- Kč s datem splatnosti 30.11.2003,
+fa. č. 371964 ze dne 27.11.2003 znějící na částku 2.427,50 Kč s datem splatnosti 7.12.2003,
+fa. č. 372003 ze dne 3.12.2003 znějící na částku 945,-- Kč s datem splatnosti 13.12.2003,
+fa. č. 372056 ze dne 11.12.2003 znějící na částku 2.652,-- Kč s datem splatnosti 21.12.2003,
+čímž způsobil firmě L. H., spol. s r.o., celkovou škodu ve výši 76.551,80 Kč,
+11.
+E. S. H. a spol., s.r.o., se sídlem P., ul. Ž. p., u které odebral a v době splatnosti neuhradil službu uvedenou v daňovém dokladu:
+fa. č. 2301100552 ze dne 4.4.2003 znějící na částku 854,-- Kč s datem splatnosti 11.4.2003,
+čímž způsobil dané firmě škodu ve výši 854,-- Kč,
+12.
+P. P., a.s., se sídlem P., ul. P., u které v místě společnosti v měsíci dubnu 2003 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 1002422106 ze dne 1.4.2003 znějící na částku 4.358,-- Kč s datem splatnosti 16.4.2003,
+fa. č. 1002422249 ze dne 8.4.2003 znějící na částku 1.798,-- Kč s datem splatnosti 23.4.2003,
+fa. č. 1002422366 ze dne 15.4.2003 znějící na částku 2.258,-- Kč s datem splatnosti 1.5.2003,
+fa. č. 1002422528 ze dne 24.4.2003 znějící na částku 4.288,-- Kč s datem splatnosti 9.5.2003,
+čímž způsobil P. P., a.s., celkovou škodu ve výši 12.702,-- Kč,
+13.
+R., s.r.o., se sídlem P., R. n. L., g. S., u které v místě společnosti v době od května 2003 do ledna 2004 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 531030712 ze dne 11.5.2003 znějící na částku 9.059,30 Kč s datem splatnosti 23.5.2003,
+fa. č. 531032794 ze dne 18.5.2003 znějící na částku 6.215,20 Kč s datem splatnosti 30.5.2003,
+fa. č. 531034875 ze dne 25.5.2003 znějící na částku 6.940,70 Kč s datem splatnosti 6.6.2003,
+fa. č. 531036986 ze dne 31.5.2003 znějící na částku 8.626,80 Kč s datem splatnosti 13.6.2003,
+fa. č. 531039160 ze dne 8.6.2003 znějící na částku 6.153,20 Kč s datem splatnosti 20.6.2003,
+fa. č. 531041305 ze dne 15.6.2003 znějící na částku 6.257,10 Kč s datem splatnosti 27.6.2003,
+fa. č. 531043455 ze dne 22.6.2003 znějící na částku 6.983,80 Kč s datem splatnosti 4.7.2003,
+fa. č. 531045630 ze dne 30.6.2003 znějící na částku 8.447,90 Kč s datem splatnosti 14.7.2003,
+fa. č. 531047865 ze dne 6.7.2003 znějící na částku 5.568,30 Kč s datem splatnosti 18.7.2003,
+fa. č. 531050045 ze dne 13.7.2003 znějící na částku 5.813,40 Kč s datem splatnosti 28.7.2003,
+fa. č. 531052263 ze dne 20.7.2003 znějící na částku 5.742,90 Kč s datem splatnosti 1.8.2003,
+fa. č. 531054488 ze dne 26.7.2003 znějící na částku 6.084,30 Kč s datem splatnosti 9.8.2003,
+fa. č. 531056718 ze dne 31.7.2003 znějící na částku 4.865,10 Kč s datem splatnosti 15.8.2003,
+fa. č. 531058985 ze dne 10.8.2003 znějící na částku 8.883,90 Kč s datem splatnosti 22.8.2003,
+fa. č. 531061234 ze dne 17.8.2003 znějící na částku 5.670,80 Kč s datem splatnosti 29.8.2003,
+fa. č. 531063468 ze dne 24.8.2003 znějící na částku 6.554,70 Kč s datem splatnosti 5.9.2003,
+fa. č. 531065725 ze dne 31.8.2003 znějící na částku 8.160,80 Kč s datem splatnosti 12.9.2003,
+fa. č. 531068023 ze dne 7.9.2003 znějící na částku 7.241,80 Kč s datem splatnosti 19.9.2003,
+fa. č. 531070270 ze dne 14.9.2003 znějící na částku 6.330,30 Kč s datem splatnosti 26.9.2003,
+fa. č. 531072498 ze dne 21.9.2003 znějící na částku 6.646,60 Kč s datem splatnosti 3.10.2003,
+fa. č. 531300111 ze dne 30.9.2003 znějící na částku 9.862,80 Kč s datem splatnosti 18.10.2003,
+fa. č. 531301301 ze dne 12.10.2003 znějící na částku 11.383,-- Kč s datem splatnosti 24.10.2003,
+fa. č. 531302444 ze dne 19.10.2003 znějící na částku 9.263,-- Kč s datem splatnosti 31.10.2003,
+fa. č. 531303591 ze dne 26.10.2003 znějící na částku 8.051,-- Kč s datem splatnosti 7.11.2003,
+fa. č. 5313047748 ze dne 31.10.2003 znějící na částku 8.194,-- Kč s datem splatnosti 14.11.2003,
+fa. č. 531305923 ze dne 9.11.2003 znějící na částku 8.745,-- Kč s datem splatnosti 21.11.2003,
+fa. č. 531307067 ze dne 16.11.2003 znějící na částku 7.447,-- Kč s datem splatnosti 28.11.2003,
+fa. č. 531308212 ze dne 23.11.2003 znějící na částku 6.632,-- Kč s datem splatnosti 5.12.2003,
+fa. č. 531309363 ze dne 30.11.2003 znějící na částku 9.969,-- Kč s datem splatnosti 12.12.2003,
+fa. č. 531310542 ze dne 7.12.2003 znějící na částku 6.780,-- Kč s datem splatnosti 19.12.2003,
+fa. č. 531311707 ze dne 14.12.2003 znějící na částku 6.680,-- Kč s datem splatnosti 26.12.2003,
+fa. č. 531312854 ze dne 21.12.2003 znějící na částku 7.888,-- Kč s datem splatnosti 13.1.2004,
+fa. č. 531314004 ze dne 31.12.2003 znějící na částku 8.342,-- Kč s datem splatnosti 16.1.2004,
+fa. č. 541300111 ze dne 11.1.2004 znějící na částku 9.119,-- Kč s datem splatnosti 23.1.2004,
+čímž způsobil firmě P. G., s.r.o., P., ul. H., coby nástupnické firmě po R., s.r.o., celkovou škodu ve výši 254.602,70 Kč, když až dne 29.12.2005 byla uhrazena suma 76.560,50 Kč,
+14.
+A. – M. T. se sídlem V., ul. S., u které v místě firmy v době od června do října 2003 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 203012712 ze dne 24.6.2003 znějící na částku 4.214,80 Kč s datem splatnosti 8.7.2003,
+fa. č. 203014196 ze dne 2.10.2003 znějící na částku 2.420,50 Kč s datem splatnosti 14.11.2003,
+čímž způsobil firmě A. – M. T. celkovou škodu ve výši 6.635,30 Kč,
+15.
+P., spol. s r.o., se sídlem O. n. L., ul. J., u které v místě společnosti v době od června 2003 do ledna 2004 odebral a v době splatnosti neuhradil služby a zboží uvedené v následujících daňových dokladech:
+fa. č. 200302154 ze dne 6.7.2003 znějící na částku 4.721,10 Kč s datem splatnosti 20.7.2003,
+fa. č. 200302984 ze dne 8.9.2003 znějící na částku 4.840,60 Kč s datem splatnosti 22.9.2003,
+fa. č. 200303387 ze dne 5.10.2003 znějící na částku 3.715,10 Kč s datem splatnosti 19.10.2003,
+fa. č. 2003303967 ze dne 2.11.2003 znějící na částku 1.305,60 Kč s datem splatnosti 16.11.2003,
+fa. č. 200303773 ze dne 2.11.2003 znějící na částku 3.346,50 Kč s datem splatnosti 16.11.2003,
+fa. č. 200304384 ze dne 7.12.2003 znějící na částku 1.693,-- Kč s datem splatnosti 21.12.2003,
+fa. č. 200304193 ze dne 7.12.2003 znějící na částku 4.841,-- Kč s datem splatnosti 21.12.2003,
+fa. č. 200304782 ze dne 4.1.2004 znějící na částku 1.173,-- Kč s datem splatnosti 18.1.2004,
+fa. č. 200304599 ze dne 4.1.2004 znějící na částku 3.755,-- Kč s datem splatnosti 18.1.2004,
+čímž způsobil firmě P., spol. s r.o., celkovou škodu ve výši 29.390,-- Kč,
+16.
+E. M., s.r.o., se sídlem O., ul. P., u které v místě společnosti v době od června 2003 do září 2003 odebral a v době splatnosti neuhradil zboží a služby uvedené v následujících daňových dokladech:
+fa. č. 30100893 ze dne 16.6.2003 znějící na částku 9.161,50 Kč s datem splatnosti 30.6.2003,
+fa. č. 30101170 ze dne 18.8.2003 znějící na částku 6.007,40 Kč s datem splatnosti 1.9.2003,
+fa. č. 30101200 ze dne 22.8.2003 znějící na částku 3.574,60 Kč s datem splatnosti 5.9.2003,
+fa. č. 30101324 ze dne 24.9.2003 znějící na částku 5.304,30 Kč s datem splatnosti 8.10.2003,
+čímž způsobil firmě E. M., s.r.o., celkovou škodu ve výši 24.047,80 Kč,
+17.
+K. – K. D., spol. s r.o., se sídlem V. M., ul. G. S., u které v místě společnosti v době od června do listopadu 2003 odebral a v době splatnosti neuhradil zboží a služby uvedené v následujících daňových dokladech:
+fa. č. 341007573 ze dne 16.6.2003 znějící na částku 17.373,-- Kč s datem splatnosti dne 30.6.2003,
+fa. č. 341008160 ze dne 30.6.2003 znějící na částku 6.037,-- Kč s datem splatnosti 14.7.2003,
+fa. č. 341008156 ze dne 30.6.2003 znějící na částku 5.695,-- Kč s datem splatnosti 14.7.2003,
+fa. č. 341014169 ze dne 25.11.2003 znějící na částku 4.966,-- Kč s datem splatnosti 9.12.2003,
+fa. č. 341014170 ze dne 25.11.2003 znějící na částku 13.515,-- Kč s datem splatnosti 9.12.2003,
+čímž způsobil firmě K. – K. D., spol. s r.o., celkovou škodu ve výši 47.586,-- Kč,
+18.
+firma J. B., se sídlem S., ul. H., u které v sídle firmy odebral a v době splatnosti neuhradil zboží uvedené v daňovém dokladu:
+fa. č. 16403 ze dne 21.3.2003 znějící na částku 1.587,40 Kč s datem splatnosti 31.7.2003,
+čímž způsobil dané firmě škodu ve výši 1.587,40 Kč,
+19.
+Z. d. R. u Ch., u kterého v sídle firmy v době od června 2003 do prosince 2003 odebral a době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 120800 ze dne 6.6.2002 znějící na částku 69,80 Kč s datem splatnosti 6.7.2002,
+fa. č. 120799 ze dne 6.6.2002 znějící na částku 2.890,70 Kč s datem splatnosti 6.7.2002,
+fa. č. 300529 ze dne 12.3.2003 znějící na částku 4.154,70 Kč s datem splatnosti 26.3.2003,
+fa. č. 300787 ze dne 6.5.2003 znějící na částku 3.358,60 Kč s datem splatnosti 20.5.2003,
+fa. č. 301005 ze dne 11.6.2003 znějící na částku 3.365,90 Kč s datem splatnosti 25.6.2003,
+fa. č. 301057 ze dne 24.6.2003 znějící na částku 3.638,70 Kč s datem splatnosti 8.7.2003,
+fa. č. 301108 ze dne 3.7.2003 znějící na částku 3.986,70 Kč s datem splatnosti 17.7.2003,
+fa. č. 301162 ze dne 10.7.2003 znějící na částku 2.354,60 Kč s datem splatnosti 24.7.2003,
+fa. č. 301180 ze dne 10.7.2003 znějící na částku 1.576,10 Kč s datem splatnosti 24.7.2003,
+fa. č. 301227 ze dne 20.7.2003 znějící na částku 1.800,80 Kč s datem splatnosti 6.8.2003,
+fa. č. 301209 ze dne 23.7.2003 znějící na částku 3.894,30 Kč s datem splatnosti 6.8.2003,
+fa. č. 301278 ze dne 31.7.2003 znějící na částku 1.907,90 Kč s datem splatnosti 14.8.2003,
+fa. č. 301257 ze dne 31.7.2003 znějící na částku 3.576,60 Kč s datem splatnosti 14.8.2003,
+fa. č. 301330 ze dne 11.8.2003 znějící na částku 1.576,10 Kč s datem splatnosti 25.8.2003,
+fa. č. 301312 ze dne 11.8.2003 znějící na částku 4.022,80 Kč s datem splatnosti 25.8.2003,
+fa. č. 301360 ze dne 21.8.2003 znějící na částku 3.565,20 Kč s datem splatnosti 4.9.2003,
+fa. č. 301377 ze dne 21.8.2003 znějící na částku 1.742,-- Kč s datem splatnosti 4.9.2003,
+fa. č. 301429 ze dne 1.9.2003 znějící na částku 1.742,-- Kč s datem splatnosti 15.9.2003,
+fa. č. 301409 ze dne 1.9.2003 znějící na částku 4.175,50 Kč s datem splatnosti 15.9.2003,
+fa. č. 301465 ze dne 10.9.2003 znějící na částku 3.355,20 Kč s datem splatnosti 24.9.2003,
+fa. č. 301483 ze dne 10.9.2003 znějící na částku 1.824,90 Kč s datem splatnosti 24.9.2003,
+fa. č. 301515 ze dne 20.9.2003 znějící na částku 4.721,50 Kč s datem splatnosti 4.10.2003,
+fa. č. 301533 ze dne 20.9.2003 znějící na částku 1.742,-- Kč s datem splatnosti 4.10.2003,
+fa. č. 301586 ze dne 30.9.2003 znějící na částku 1.602,60 Kč s datem splatnosti 14.10.2003,
+fa. č. 301565 ze dne 30.9.2003 znějící na částku 3.166,40 Kč s datem splatnosti 14.10.2003,
+fa. č. 301640 ze dne 10.10.2003 znějící na částku 1.742,-- Kč s datem splatnosti 24.10.2003,
+fa. č. 301691 ze dne 20.10.2003 znějící na částku 1.493,10 Kč s datem splatnosti 3.11.2003,
+fa. č. 301673 ze dne 20.10.2003 znějící na částku 3.874,30 Kč s datem splatnosti 3.11.2003,
+fa. č. 301746 ze dne 1.11.2003 znějící na částku 1.907,90 Kč s datem splatnosti 15.11.2003,
+fa. č. 301725 ze dne 1.11.2003 znějící na částku 3.569,20 Kč s datem splatnosti 15.11.2003,
+fa. č. 301785 ze dne 14.11.2003 znějící na částku 5.169,-- Kč s datem splatnosti 28.11.2003,
+fa. č. 301803 ze dne 14.11.2003 znějící na částku 1.493,10 Kč s datem splatnosti 28.11.2003,
+fa. č. 301854 ze dne 20.11.2003 znějící na částku 1.776,-- Kč s datem splatnosti 4.12.2003,
+fa. č. 301837 ze dne 20.11.2003 znějící na částku 3.646,-- Kč s datem splatnosti 4.12.2003,
+fa. č. 301909 ze dne 30.11.2003 znějící na částku 1.776,-- Kč s datem splatnosti 14.12.2003,
+fa. č. 301889 ze dne 30.11.2003 znějící na částku 4.645,-- Kč s datem splatnosti 14.12.2003,
+fa. č. 301965 ze dne 11.12.2003 znějící na částku 1.962,-- Kč s datem splatnosti 25.12.2003,
+fa. č. 301948 ze dne 11.12.2003 znějící na částku 4.210,-- Kč s datem splatnosti 25.12.2003,
+fa. č. 302018 ze dne 22.12.2003 znějící na částku 1.962,-- Kč s datem splatnosti 5.1.2004,
+fa. č. 302002 ze dne 22.12.2003 znějící na částku 4.966,-- Kč s datem splatnosti 5.1.2004,
+fa. č. 302066 ze dne 31.12.2003 znějící na částku 2.655,-- Kč s datem splatnosti 14.1.2004,
+fa. č. 302049 ze dne 31.12.2003 znějící na částku 8.993,-- Kč s datem splatnosti 14.1.2004,
+čímž způsobil Z. R. u Ch. celkovou škodu ve výši 125.651,20 Kč,
+20.
+firma K. B. – V., se sídlem H. K., ul. B. Š., u které v sídle firmy v době od června 2003 do prosince 2003 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 2315398 ze dne 17.6.2003 znějící na částku 7.407,90 Kč s datem splatnosti 1.7.2003,
+fa. č. 2316826 ze dne 1.7.2003 znějící na částku 13.281,50 Kč s datem splatnosti 15.7.2003,
+fa. č. 2322128 ze dne 26.8.2003 znějící na částku 6.111,40 Kč s datem splatnosti 9.9.2003,
+fa. č. 2324251 ze dne 15.9.2003 znějící na částku 2.600,80 Kč s datem splatnosti 29.9.2003,
+fa. č. 2325716 ze dne 29.9.2003 znějící na částku 3.015,50 Kč s datem splatnosti 13.10.2003,
+fa. č. 2326476 ze dne 6.10.2003 znějící na částku 20.271,70 Kč s datem splatnosti 20.10.2003,
+fa. č. 2326716 ze dne 9.10.2003 znějící na částku 1.453,40 Kč s datem splatnosti 23.10.2003,
+fa. č. 2326910 ze dne 10.10.2003 znějící na částku 18.168,30 Kč s datem splatnosti 10.1.2004,
+fa. č. 2327318 ze dne 13.10.2003 znějící na částku 2.917,90 Kč s datem splatnosti 27.10.2003,
+fa. č. 2329624 ze dne 4.11.2003 znějící na částku 1.612,-- Kč s datem splatnosti 18.11.2003,
+fa. č. 2329925 ze dne 4.11.2003 znějící na částku 650,-- Kč s datem splatnosti 18.11.2003,
+fa. č. 2332909 ze dne 2.12.2003 znějící na částku 4.039,-- Kč s datem splatnosti 16.12.2003,
+fa. č. 2335992 ze dne 22.12.2003 znějící na částku 1.042,-- Kč s datem splatnosti 5.1.2004,
+čímž způsobil firmě K. B. – V. celkovou škodu ve výši 82.571,30 Kč,
+21.
+firma Ing. P. P. – E., se sídlem L., ul. H., u které v sídle firmy v době od srpna do prosince 2003 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 40153303 ze dne 8.8.2003 znějící na částku 18.497,-- Kč s datem splatnosti 22.8.2003,
+fa. č. 40218303 ze dne 17.10.2003 znějící na částku 14.923,-- Kč s datem splatnosti 31.10.2003,
+fa. č. 40219703 ze dne 17.10.2003 znějící na částku 7.362,-- Kč s datem splatnosti 31.10.2003,
+fa. č. 40244003 ze dne 14.11.2003 znějící na částku 17.553,-- Kč s datem splatnosti 28.11.2003,
+fa. č. 40257703 ze dne 28.11.2003 znějící na částku 6.348,-- Kč s datem splatnosti 12.12.2003,
+fa. č. 40280603 ze dne 20.12.2003 znějící na částku 12.334,-- Kč s datem splatnosti 3.1.2004,
+čímž způsobil firmě Ing. P. P. – E. celkovou škodu ve výši 77.017,-- Kč,
+22.
+firma L. B. - obchodní činnost, se sídlem P., u které v době od srpna 2003 do října 2003 v sídle firmy odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 2003-963 ze dne 22.8.2003 znějící na částku 5.162,-- Kč s datem splatnosti 13.9.2003,
+fa. č. 2003-1070 ze dne 14.10.2003 znějící na částku 575,-- Kč s datem splatnosti 1.11.2003,
+čímž způsobil dané firmě celkovou škodu ve výši 5.737,-- Kč,
+23.
+firma M. R., se sídlem J. n. O., U L., u které v době od srpna 2003 do prosince 2003 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 30965 ze dne 21.8.2003 znějící na částku 3.969,50 Kč s datem splatnosti 4.9.2003,
+fa. č. 31042 ze dne 9.9.2003 znějící na částku 3.363,20 Kč s datem splatnosti 23.9.2003,
+fa. č. 32230 ze dne 22.10.2003 znějící na částku 5.226,-- Kč s datem splatnosti 5.11.2003,
+fa. č. 31319 ze dne 5.11.2003 znějící na částku 4.943,-- Kč s datem splatnosti 19.11.2003,
+fa. č. 31391 ze dne 19.11.2003 znějící na částku 3.028,-- Kč s datem splatnosti 3.12.2003,
+fa. č. 31487 ze dne 4.12.2003 znějící na částku 1.922,-- Kč s datem splatnosti 18.12.2003,
+čímž způsobil firmě M. R. celkovou škodu ve výši 22.451,70 Kč,
+24.
+V. s p. – V., spol. s r.o., se sídlem M., u které v sídle společnosti v době od září 2003 do prosince 2003 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 26079 ze dne 10.9.2003 znějící na částku 900,-- Kč s datem splatnosti 21.9.2003,
+fa. č. 34070 ze dne 2.12.2003 znějící na částku 680,-- Kč s datem splatnosti 13.12.2003,
+fa. č. 34417 ze dne 3.12.2003 znějící na částku 2.269,-- Kč s datem splatnosti 14.12.2003,
+fa. č. 34174 ze dne 3.12.2003 znějící na částku 4.374,-- Kč s datem splatnosti 14.12.2003,
+fa. č. 34958 ze dne 10.12.2003 znějící na částku 1.586,-- Kč s datem splatnosti 20.12.2003,
+fa. č. 35074 ze dne 10.12.2003 znějící na částku 1.266,-- Kč s datem splatnosti 21.12.2003,
+fa. č. 34907 ze dne 10.12.2003 znějící na částku 3.210,-- Kč s datem splatnosti 21.12.2003,
+fa. č. 35597 ze dne 16.12.2003 znějící na částku 1.166,-- Kč s datem splatnosti 27.12.2003,
+fa. č. 35403 ze dne 16.12.2003 znějící na částku 1.769,-- Kč s datem splatnosti 27.12.2003,
+fa. č. 35687 ze dne 17.12.2003 znějící na částku 2.336,-- Kč s datem splatnosti 28.12.2003,
+fa. č. 35496 ze dne 17.12.2003 znějící na částku 9.940,-- Kč s datem splatnosti 28.12.2003,
+fa. č. 35895 ze dne 19.12.2003 znějící na částku 550,-- Kč s datem splatnosti 30.12.2003,
+fa. č. 35950 ze dne 19.12.2003 znějící na částku 1.133,-- Kč s datem splatnosti 30.12.2003,
+fa. č. 36105 ze dne 23.12.2003 znějící na částku 1.918,-- Kč s datem splatnosti 3.1.2004,
+fa. č. 35995 ze dne 23.12.2003 znějící na částku 1.404,-- Kč s datem splatnosti 3.1.2004,
+fa. č. 36207 ze dne 30.12.2003 znějící na částku 367,-- Kč s datem splatnosti 10.1.2004,
+fa. č. 36147 ze dne 30.12.2003 znějící na částku 920,-- Kč s datem splatnosti 10.1.2004,
+čímž způsobil firmě V., spol. s r.o., celkovou škodu ve výši 35.788,-- Kč,
+25.
+M. D., se sídlem Č. H., u které v sídle společnosti v době od srpna 2003 do prosince 2003 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 2003417 ze dne 29.8.2003 znějící na částku 25.025,90 Kč s datem splatnosti 12.9.2003,
+fa. č. 2003560 ze dne 14.11.2003 znějící na částku 11.648,-- Kč s datem splatnosti 28.11.2003,
+fa. č. 2003581 ze dne 28.11.2003 znějící na částku 11.662,-- Kč s datem splatnosti 12.12.2003,
+fa. č. 2003603 ze dne 12.12.2003 znějící na částku 16.377,-- Kč s datem splatnosti 26.12.2003,
+čímž způsobil firmě M. D. celkovou škodu ve výši 64.712,90 Kč,
+26.
+P. V. a spol., v.o.s., se sídlem H., ul. K., u které v sídle společnosti v době od září 2003 do prosince 2003 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 31731 ze dne 10.9.2003 znějící na částku 7.518,-- Kč s datem splatnosti 19.9.2003,
+fa. č. 31904 ze dne 30.9.2003 znějící na částku 7.046,-- Kč s datem splatnosti 9.10.2003,
+fa. č. 31976 ze dne 10.10.2003 znějící na částku 7.363,-- Kč s datem splatnosti 21.10.2003,
+fa. č. 32041 ze dne 20.10.2003 znějící na částku 6.261,-- Kč s datem splatnosti 29.10.2003,
+fa. č. 32128 ze dne 31.10.2003 znějící na částku 7.667,-- Kč s datem splatnosti 11.11.2003,
+fa. č. 32199 ze dne 10.11.2003 znějící na částku 6.282,-- Kč s datem splatnosti 19.11.2003,
+fa. č. 32262 ze dne 20.11.2003 znějící na částku 8.905,-- Kč s datem splatnosti 29.11.2003,
+fa. č. 32347 ze dne 30.11.2003 znějící na částku 7.164,-- Kč s datem splatnosti 9.12.2003,
+fa. č. 32398 ze dne 10.12.2003 znějící na částku 8.442,-- Kč s datem splatnosti 19.12.2003,
+fa. č. 32463 ze dne 20.12.2003 znějící na částku 9.737,-- Kč s datem splatnosti 30.12.2003,
+fa. č. 32546 ze dne 31.12.2003 znějící na částku 9.313,-- Kč s datem splatnosti 11.11.2004,
+čímž způsobil P. V. a spol., v.o.s., celkovou škodu ve výši 85.698,-- Kč,
+27.
+firma N. - pekařství a prodej se sídlem S., ul. T.G. M., u které v sídle společnosti v době od září 2003 do prosince 2003 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 1217 ze dne 10.9.2003 znějící na částku 2.377,50 Kč s datem splatnosti 24.9.2003,
+fa. č. 1292 ze dne 19.9.2003 znějící na částku 2.283,80 Kč s datem splatnosti 4.10.2003,
+fa. č. 1367 ze dne 30.9.2003 znějící na částku 1.770,-- Kč s datem splatnosti 14.10.2003,
+fa. č. 1443 ze dne 10.10.2003 znějící na částku 2.349,-- Kč s datem splatnosti 24.10.2003,
+fa. č. 1518 ze dne 20.10.2003 znějící na částku 1.615,-- Kč s datem splatnosti 3.11.2003,
+fa. č. 1590 ze dne 31.10.2003 znějící na částku 1.971,-- Kč s datem splatnosti 14.11.2003,
+fa. č. 1670 ze dne 10.11.2003 znějící na částku 1.291,-- Kč s datem splatnosti 24.11.2003,
+fa. č. 1744 ze dne 20.11.2003 znějící na částku 1.656,-- Kč s datem splatnosti 4.12.2003,
+fa. č. 1822 ze dne 30.11.2003 znějící na částku 1.250,-- Kč s datem splatnosti 14.12.2003,
+fa. č. 1898 vystavená po dni 30.11.2003 znějící na částku 1.646,-- Kč s datem splatnosti po dni 14.12.2003,
+fa. č. 1969 ze dne 19.12.2003 znějící na částku 1.662,-- Kč s datem splatnosti 3.1.2004,
+fa. č. 2036 ze dne 23.12.2003 znějící na částku 2.477,-- Kč s datem splatnosti 14.1.2004,
+čímž způsobil firmě N. – p. a prodej celkovou škodu ve výši 22.148,30 Kč,
+28.
+A., s.r.o., se sídlem P., ul. T. N., u které v sídle společnosti v době od září do prosince 2003 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 300803249 ze dne 2.9.2003 znějící na částku 15.992,-- Kč s datem splatnosti 12.9.2003,
+fa. č. 100903259 ze dne 12.9.2003 znějící na částku 19.267,-- Kč s datem splatnosti 22.9.2003,
+fa. č. 200903261 ze dne 23.9.2003 znějící na částku 15.435,-- Kč s datem splatnosti 3.10.2003,
+fa. č. 200903260 ze dne 23.9.2003 znějící na částku 7.275,-- Kč s datem splatnosti 3.10.2003,
+fa. č. 300903266 ze dne 2.10.2003 znějící na částku 11.848,-- Kč s datem splatnosti 13.10.2003,
+fa. č. 300903265 ze dne 2.10.2003 znějící na částku 9.016,-- Kč s datem splatnosti 13.10.2003,
+fa. č. 101003262 ze dne 14.10.2003 znějící na částku 21.047,-- Kč s datem splatnosti 24.10.2003,
+fa. č. 101003261 ze dne 14.10.2003 znějící na částku 9.106,-- Kč s datem splatnosti 24.10.2003,
+fa. č. 201003246 ze dne 22.10.2003 znějící na částku 9.999,-- Kč s datem splatnosti 3.11.2003,
+fa. č. 201003245 ze dne 22.10.2003 znějící na částku 7.598,-- Kč s datem splatnosti 3.11.2003,
+fa. č. 301003262 ze dne 4.11.2003 znějící na částku 16.734,-- Kč s datem splatnosti 14.11.2003,
+fa. č. 301003261 ze dne 4.11.2003 znějící na částku 11.098,-- Kč s datem splatnosti 14.11.2003,
+fa. č. 101103232 ze dne 12.11.2003 znějící na částku 5.204,-- Kč s datem splatnosti 24.11.2003,
+fa. č. 101103233 ze dne 12.11.2003 znějící na částku 13.391,-- Kč s datem splatnosti 24.11.2003,
+fa. č. 201103243 ze dne 24.11.2003 znějící na částku 19.187,-- Kč s datem splatnosti 4.12.2003,
+fa. č. 201103242 ze dne 24.11.2003 znějící na částku 12.447,-- Kč s datem splatnosti 4.12.2003,
+fa. č. 301103245 ze dne 2.12.2003 znějící na částku 7.294,-- Kč s datem splatnosti 12.12.2003,
+fa. č. 301103246 ze dne 2.12.2003 znějící na částku 14.391,-- Kč s datem splatnosti 12.12.2003,
+čímž způsobil firmě A., s.r.o., celkovou škodu ve výši 226.329,-- Kč,
+29.
+spol. S. – v. d. k., s.r.o., se sídlem C., u které v sídle společnosti v době od října 2003 do ledna 2004 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 118464 ze dne 31.10.2003 znějící na částku 1.814,40 Kč s datem splatnosti 14.11.2003,
+fa. č. 118465 ze dne 31.10.2003 znějící na částku 2.721,60 Kč s datem splatnosti 14.11.2003,
+fa. č. 120349 ze dne 28.11.2003 znějící na částku 2.951,-- Kč s datem splatnosti 12.12.2003,
+fa. č. 120350 ze dne 28.11.2003 znějící na částku 1.510,80 Kč s datem splatnosti 12.12.2003,
+fa. č. 122232 ze dne 29.12.2003 znějící na částku 2.067,70 Kč s datem splatnosti 11.1.2004,
+fa. č. 122234 ze dne 30.12.2003 znějící na částku 2.704,-- Kč s datem splatnosti 12.1.2004,
+čímž způsobil firmě S. – v. d. k., s.r.o., celkovou škodu ve výši 13.769,50 Kč,
+30.
+N., a.s., se sídlem V. M., n. P. K., u které v sídle společnosti v době od září 2003 do ledna 2004 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 218944 ze dne 30.9.2003 znějící na částku 43.333,-- Kč s datem splatnosti 11.10.2003,
+fa. č. 219191 ze dne 10.10.2003 znějící na částku 14.808,50 Kč s datem splatnosti 23.10.2003,
+fa. č. 219192 ze dne 10.10.2003 znějící na částku 47.074,20 Kč s datem splatnosti 23.10.2003,
+fa. č. 219420 ze dne 20.10.2003 znějící na částku 37.982,60 Kč s datem splatnosti 31.10.2003,
+fa. č. 219649 ze dne 3.11.2003 znějící na částku 14.951,50 Kč s datem splatnosti 13.11.2003,
+fa. č. 219650 ze dne 3.11.2003 znějící na částku 49.894,40 Kč s datem splatnosti 13.11.2003,
+fa. č. 219651 ze dne 3.11.2003 znějící na částku 10.321,10 Kč s datem splatnosti 13.11.2003,
+fa. č. 219882 ze dne 11.11.2003 znějící na částku 15.203,10 Kč s datem splatnosti 21.11.2003,
+fa. č. 219883 ze dne 11.11.2003 znějící na částku 46.491,40 Kč s datem splatnosti 21.11.2003,
+fa. č. 220109 ze dne 21.11.2003 znějící na částku 14.221,70 Kč s datem splatnosti 1.12.2003,
+fa. č. 220110 ze dne 21.11.2003 znějící na částku 48.360,-- Kč s datem splatnosti 1.12.2003,
+fa. č. 220111 ze dne 21.11.2003 znějící na částku 10.175,70 Kč s datem splatnosti 1.12.2003,
+fa. č. 220333 ze dne 1.12.2003 znějící na částku 14.362,60 Kč s datem splatnosti 11.12.2003,
+fa. č. 220334 ze dne 1.12.2003 znějící na částku 50.383,60 Kč s datem splatnosti 11.12.2003,
+fa. č. 220335 ze dne 1.12.2003 znějící na částku 10.877,50 Kč s datem splatnosti 11.12.2003,
+fa. č. 220336 ze dne 1.12.2003 znějící na částku 3.903,70 Kč s datem splatnosti 11.12.2003,
+fa. č. 220570 ze dne 11.12.2003 znějící na částku 14.013,20 Kč s datem splatnosti 21.12.2003,
+fa. č. 220571 ze dne 11.12.2003 znějící na částku 60.107,50 Kč s datem splatnosti 21.12.2003,
+fa. č. 220572 ze dne 11.12.2003 znějící na částku 8.971,60 Kč s datem splatnosti 21.12.2003,
+fa. č. 220803 ze dne 22.12.2003 znějící na částku 13.968,50 Kč s datem splatnosti 1.1.2004,
+fa. č. 220804 ze dne 22.12.2003 znějící na částku 55.409,60 Kč s datem splatnosti 10.1.2004,
+fa. č. 220805 ze dne 22.12.2003 znějící na částku 8.553,90 Kč s datem splatnosti 1.1.2004,
+fa. č. 220806 ze dne 22.12.2003 znějící na částku 5.232,90 Kč s datem splatnosti 1.1.2004,
+fa. č. 220985 ze dne 5.1.2004 znějící na částku 12.498,80 Kč s datem splatnosti 15.1.2004,
+fa. č. 220986 ze dne 5.1.2004 znějící na částku 60.185,90 Kč s datem splatnosti 15.1.2004,
+fa. č. 220987 ze dne 5.1.2004 znějící na částku 8.651,60 Kč s datem splatnosti 15.1.2004,
+fa. č. 220988 ze dne 5.1.2004 znějící na částku 4.209,20 Kč s datem splatnosti 15.1.2004,
+čímž způsobil firmě N., a.s., celkovou škodu ve výši 684.547,30 Kč,
+31.
+„Z.“, spol. s r.o., se sídlem T., ul. V. N., u které v sídle společnosti v době od října 2003 do listopadu 2003 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 143033 ze dne 6.10.2003 znějící na částku 50.041,-- Kč s datem splatnosti 20.11.2003,
+fa. č. 143524 ze dne 27.10.2003 znějící na částku 13.679,-- Kč s datem splatnosti 15.12.2003,
+fa. č. 144124 ze dne 20.11.2003 znějící na částku 24.974,-- Kč s datem splatnosti 5.1.2004,
+čímž způsobil firmě „Z.“, spol. s r.o., celkovou škodu ve výši 88.694,-- Kč, když poté jím nezjištěného dne byla uhrazena částka 41.018,-- Kč,
+32.
+firma Š. v.-m. s. a v., S. F., Č., K. n. O., u které v sídle firmy v době od října do listopadu 2003 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 30/2003 ze dne 12.10.2003 znějící na částku 5.456,80 Kč s datem splatnosti 16.10.2003,
+fa. č. 36/2003 ze dne 10.11.2003 znějící na částku 9.938,20 Kč s datem splatnosti 22.11.2003,
+čímž způsobil firmě Š. celkovou škodu ve výši 15.395,-- Kč,
+33.
+B. C., s.r.o., se sídlem H. L., u které v sídle společnosti v měsíci říjnu 2003 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 02/1355/03 ze dne 1.10.2003 znějící na částku 7.747,20 Kč s datem splatnosti 15.10.2003,
+fa. č. 02/1356/03 ze dne 1.10.2003 znějící na částku 13.520,80 Kč s datem splatnosti 15.10.2003,
+fa. č. 02/1359/03 ze dne 1.10.2003 znějící na částku 4.098,60 Kč s datem splatnosti 15.10.2003,
+fa. č. 02/1522/03 ze dne 31.10.2003 znějící na částku 5.190,-- Kč s datem splatnosti 14.11.2003,
+čímž způsobil firmě B. C., s.r.o., celkovou škodu ve výši 30.556,60 Kč,
+34.
+K., v.o.s., se sídlem P., u které v sídle společnosti v době od října 2003 do prosince 2003 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 579903 ze dne 31.10.2003 znějící na částku 6.645,20 Kč s datem splatnosti 19.11.2003,
+fa. č. 600803 ze dne 11.11.2003 znějící na částku 1.898,50 Kč s datem splatnosti 25.11.2003,
+fa. č. 614403 ze dne 19.11.2003 znějící na částku 5.104,30 Kč s datem splatnosti 3.12.2003,
+fa. č. 634903 ze dne 24.11.2003 znějící na částku 5.026,70 Kč s datem splatnosti 8.12.2003,
+fa. č. 649303 ze dne 29.11.2003 znějící na částku 2.639,20 Kč s datem splatnosti 16.12.2003,
+fa. č. 649403 ze dne 29.11.2003 znějící na částku 2.209,60 Kč s datem splatnosti 16.12.2003,
+fa. č. 665603 ze dne 8.12.2003 znějící na částku 1.561,40 Kč s datem splatnosti 22.12.2003,
+fa. č. 687503 ze dne 16.12.2003 znějící na částku 2.452,80 Kč s datem splatnosti 30.12.2003,
+fa. č. 687603 ze dne 16.12.2003 znějící na částku 1.601,50 Kč s datem splatnosti 30.12.2003,
+fa. č. 704503 ze dne 22.12.2003 znějící na částku 3.167,80 Kč s datem splatnosti 5.1.2004,
+fa. č. 704603 ze dne 22.12.2003 znějící na částku 693,40 Kč s datem splatnosti 5.1.2004,
+fa. č. 727003 ze dne 31.12.2003 znějící na částku 1.199,-- Kč s datem splatnosti 18.1.2004,
+čímž způsobil firmě K., v.o.s., celkovou škodu ve výši 34.199,40 Kč,
+35.
+M. A., s.r.o., se sídlem Ch., ul. P., u které v sídle společnosti odebral a neuhradil zboží uvedené v daňovém dokladu:
+fa. č. 25030827 ze dne 19.11.2003 znějící na částku 19.354,-- Kč s datem splatnosti 3.12.2003,
+čímž způsobil firmě M. A., s.r.o., škodu ve výši 19.354,-- Kč,
+36.
+N. C. R., s.r.o., K. n. V., V R. ú., u které v sídle společnosti v době od listopadu 2003 do prosince 2003 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 730552583 ze dne 5.11.2003 znějící na částku 26.995,10 Kč s datem splatnosti 5.12.2003,
+fa. č. 730554192 ze dne 6.11.2003 znějící na částku 3.473,60 Kč s datem splatnosti 6.12.2003,
+fa. č. 730554201 ze dne 6.11.2003 znějící na částku 186,20 Kč s datem splatnosti 6.12.2003,
+fa. č. 730554190 ze dne 6.11.2003 znějící na částku 615,-- Kč s datem splatnosti 6.12.2003,
+fa. č. 730558137 ze dne 7.11.2003 znějící na částku 3.541,40 Kč s datem splatnosti 7.12.2003,
+fa. č. 730563207 ze dne 11.11.2003 znějící na částku 1.134,-- Kč s datem splatnosti 11.12.2003,
+fa. č. 730578046 ze dne 20.11.2003 znějící na částku 7.547,-- Kč s datem splatnosti 20.12.2003,
+fa. č. 730581697 ze dne 21.11.2003 znějící na částku 15.731,70 Kč s datem splatnosti 21.12.2003,
+fa. č. 730581687 ze dne 21.11.2003 znějící na částku 68,40 Kč s datem splatnosti 21.12.2003,
+fa. č. 730581678 ze dne 21.11.2003 znějící na částku 9.486,40 Kč s datem splatnosti 21.12.2003,
+fa. č. 730584997 ze dne 25.11.2003 znějící na částku 1.480,50 Kč s datem splatnosti 25.12.2003,
+fa. č. 730598818 ze dne 2.12.2003 znějící na částku 18.759,10 Kč s datem splatnosti 1.1.2004,
+fa. č. 730597573 ze dne 2.12.2003 znějící na částku 2.891,10 Kč s datem splatnosti 1.1.2004,
+fa. č. 730603873 ze dne 4.12.2003 znějící na částku 5.761,10 Kč s datem splatnosti 3.1.2004,
+fa. č. 730607863 ze dne 5.12.2003 znějící na částku 6.026,20 Kč s datem splatnosti 4.1.2004,
+fa. č. 730616339 ze dne 11.12.2003 znějící na částku 337,40 Kč s datem splatnosti 10.1.2004,
+fa. č. 730616341 ze dne 11.12.2003 znějící na částku 778,20 Kč s datem splatnosti 10.1.2004,
+fa. č. 730620104 ze dne 12.12.2003 znějící na částku 4.078,30 Kč s datem splatnosti 11.1.2004,
+fa. č. 730627767 ze dne 17.12.2003 znějící na částku 13.181,50 Kč s datem splatnosti 16.1.2004,
+fa. č. 730628872 ze dne 18.12.2003 znějící na částku 221,60 Kč s datem splatnosti 17.1.2004,
+fa. č. 730628869 ze dne 18.12.2003 znějící na částku 1.694,80 Kč s datem splatnosti 17.1.2004,
+fa. č. 730631357 ze dne 19.12.2003 znějící na částku 4.403,-- Kč s datem splatnosti 18.1.2004,
+fa. č. 730637709 ze dne 23.12.2003 znějící na částku 1.809,60 Kč s datem splatnosti 22.1.2004,
+fa. č. 730637708 ze dne 23.12.2003 znějící na částku 2.052,-- Kč s datem splatnosti 22.1.2004,
+fa. č. 730638268 ze dne 23.12.2003 znějící na částku 24.894,30 Kč s datem splatnosti 22.1.2004,
+fa. č. 730642585 ze dne 30.12.2003 znějící na částku 3.854,-- Kč s datem splatnosti 29.1.2004,
+čímž způsobil P. A. C. I. N.V., se sídlem P., S., která uhradila danou škodu firmě N. C. R., s.r.o., na základě mezi nimi uzavřené pojistné smlouvy, celkovou škodu ve výši 161.002,40 Kč,
+37.
+firma J. N. – P., se sídlem Ch., M., u které v sídle firmy v době od listopadu do prosince 2003 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 1879203 ze dne 28.11.2003 znějící na částku 989,-- Kč s datem splatnosti 10.12.2003,
+fa. č. 1886803 ze dne 31.12.2003 znějící na částku 1.581,-- Kč s datem splatnosti 10.1.2004,
+čímž způsobil firmě J. N. – P. celkovou škodu ve výši 2.570,-- Kč,
+38.
+U. a.s., závod O. se sídlem K. H., ul. H., u které v sídle společnosti v době od listopadu 2003 do prosince 2003 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 5920319162/004 ze dne 12.11.2003 znějící na částku 24.339,-- Kč s datem splatnosti 1.1.2004,
+fa. č. 5920319231/003 ze dne 13.11.2003 znějící na částku 22.129,-- Kč s datem splatnosti 2.1.2004,
+fa. č. 5920319232/003 ze dne 13.11.2003 znějící na částku 123.445,-- Kč s datem splatnosti 2.1.2004,
+fa. č. 5920319806/000 ze dne 21.11.2003 znějící na částku 25.177,-- Kč s datem splatnosti 12.1.2004,
+fa. č. 5920320098/004 ze dne 27.11.2003 znějící na částku 28.188,-- Kč s datem splatnosti 15.1.2004,
+fa. č. 5920320100/000 ze dne 27.11.2003 znějící na částku 7.951,-- Kč s datem splatnosti 15.1.2004,
+fa. č. 5920320120/001 ze dne 27.11.2003 znějící na částku 7.615,-- Kč s datem splatnosti 15.1.2004,
+fa. č. 5920320131/003 ze dne 27.11.2003 znějící na částku 166.450,-- Kč s datem splatnosti 15.1.2004,
+fa. č. 5920320218/003 ze dne 28.11.2003 znějící na částku 22.642,-- Kč s datem splatnosti 16.1.2004,
+fa. č. 5920320621/000 ze dne 4.12.2003 znějící na částku 22.922,-- Kč s datem splatnosti 26.1.2004,
+fa. č. 5920320636/001 ze dne 4.12.2003 znějící na částku 2.249,-- Kč s datem splatnosti 26.1.2004,
+fa. č. 5920321034/001 ze dne 11.12.2003 znějící na částku 3.777,-- Kč s datem splatnosti 30.1.2004,
+fa. č. 5920321039/003 ze dne 11.12.2003 znějící na částku 179.458,-- Kč s datem splatnosti 30.1.2004,
+fa. č. 5920321040/000 ze dne 11.12.2003 znějící na částku 22.084,-- Kč s datem splatnosti 30.1.2004,
+fa. č. 5920321041/004 ze dne 11.12.2003 znějící na částku 52.156,-- Kč s datem splatnosti 30.1.2004,
+fa. č. 5920321416/001 ze dne 18.12.2003 znějící na částku 1.164,-- Kč s datem splatnosti 11.2.2004,
+fa. č. 5920321444/003 ze dne 18.12.2003 znějící na částku 79.130,-- Kč s datem splatnosti 11.2.2004,
+fa. č. 5920321492/000 ze dne 18.12.2003 znějící na částku 22.322,-- Kč s datem splatnosti 12.2.2004,
+fa. č. 5920321503/004 ze dne 18.12.2003 znějící na částku 5.621,-- Kč s datem splatnosti 12.2.2004,
+čímž způsobil firmě U., a.s., celkovou škodu ve výši 818.819,-- Kč, když poté jím nejpozději do 4.5.2004 byla uhrazena částka 21.083,-- Kč,
+39.
+T. V., a.s., se sídlem V. M., ul. H., u které v sídle společnosti v době od listopadu 2003 do prosince 2003 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 4212847 ze dne 4.11.2003 znějící na částku 2.994,-- Kč s datem splatnosti 14.11.2003,
+fa. č. 4212872 ze dne 6.11.2003 znějící na částku 2.853,-- Kč s datem splatnosti 16.11.2003,
+fa. č. 4212874 ze dne 6.11.2003 znějící na částku 1.412,-- Kč s datem splatnosti 16.11.2003,
+fa. č. 4212918 ze dne 11.11.2003 znějící na částku 3.060,-- Kč s datem splatnosti 21.11.2003,
+fa. č. 4212921 ze dne 11.11.2003 znějící na částku 1.834,-- Kč s datem splatnosti 21.11.2003,
+fa. č. 4212943 ze dne 13.11.2003 znějící na částku 2.053,-- Kč s datem splatnosti 23.11.2003,
+fa. č. 4212969 ze dne 18.11.2003 znějící na částku 2.296,-- Kč s datem splatnosti 28.11.2003,
+fa. č. 4212978 ze dne 18.11.2003 znějící na částku 1.142,-- Kč s datem splatnosti 28.11.2003,
+fa. č. 4213011 ze dne 20.11.2003 znějící na částku 1.984,-- Kč s datem splatnosti 30.11.2003,
+fa. č. 4213015 ze dne 20.11.2003 znějící na částku 1.463,-- Kč s datem splatnosti 30.11.2003,
+fa. č. 4213042 ze dne 25.11.2003 znějící na částku 752,-- Kč s datem splatnosti 5.12.2003,
+fa. č. 4213054 ze dne 25.11.2003 znějící na částku 1.821,-- Kč s datem splatnosti 5.12.2003,
+fa. č. 4213056 ze dne 25.11.2003 znějící na částku 1.957,-- Kč s datem splatnosti 5.12.2003,
+fa. č. 4213086 ze dne 27.11.2003 znějící na částku 1.593,-- Kč s datem splatnosti 7.12.2003,
+fa. č. 4213124 ze dne 2.12.2003 znějící na částku 810,-- Kč s datem splatnosti 12.12.2003,
+fa. č. 4213129 ze dne 2.12.2003 znějící na částku 2.456,-- Kč s datem splatnosti 12.12.2003,
+fa. č. 4213131 ze dne 2.12.2003 znějící na částku 948,-- Kč s datem splatnosti 12.12.2003,
+fa. č. 4213155 ze dne 4.12.2003 znějící na částku 1.357,-- Kč s datem splatnosti 14.12.2003,
+fa. č. 4213160 ze dne 4.12.2003 znějící na částku 1.299,-- Kč s datem splatnosti 14.12.2003,
+fa. č. 4213194 ze dne 9.12.2003 znějící na částku 725,-- Kč s datem splatnosti 19.12.2003,
+fa. č. 4213191 ze dne 9.12.2003 znějící na částku 2.068,-- Kč s datem splatnosti 19.12.2003,
+fa. č. 4213200 ze dne 9.12.2003 znějící na částku 606,-- Kč s datem splatnosti 19.12.2003,
+fa. č. 4213236 ze dne 11.12.2003 znějící na částku 1.823,-- Kč s datem splatnosti 21.12.2003,
+fa. č. 4213264 ze dne 16.12.2003 znějící na částku 641,-- Kč s datem splatnosti 26.12.2003,
+fa. č. 4213276 ze dne 16.12.2003 znějící na částku 3.327,-- Kč s datem splatnosti 26.12.2003,
+fa. č. 4213305 ze dne 18.12.2003 znějící na částku 2.683,-- Kč s datem splatnosti 28.12.2003,
+fa. č. 4213307 ze dne 18.12.2003 znějící na částku 873,-- Kč s datem splatnosti 28.12.2003,
+fa. č. 4213332 ze dne 23.12.2003 znějící na částku 777,-- Kč s datem splatnosti 2.1.2004,
+fa. č. 4213335 ze dne 23.12.2003 znějící na částku 5.494,-- Kč s datem splatnosti 2.1.2004,
+fa. č. 4213336 ze dne 23.12.2003 znějící na částku 1.159,-- Kč s datem splatnosti 2.1.2004,
+fa. č. 4213360 ze dne 30.12.2003 znějící na částku 3.736,-- Kč s datem splatnosti 9.1.2004,
+fa. č. 4213363 ze dne 30.12.2003 znějící na částku 378,-- Kč s datem splatnosti 9.1.2004,
+čímž způsobil firmě T. V., a.s., celkovou škodu ve výši 58.374,-- Kč,
+40.
+A. F., a.s., se sídlem P. – K., ul. Č., u které v sídle společnosti v době v měsíci listopadu 2003 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 103116810 ze dne 25.11.2003 znějící na částku 35.659,-- Kč s datem splatnosti 5.12.2003,
+fa. č. 103119281 ze dne 2.12.2003 znějící na částku 7.151,-- Kč s datem splatnosti 12.12.2003,
+fa. č. 103119282 ze dne 2.12.2003 znějící na částku 5.534,-- Kč s datem splatnosti 12.12.2003,
+čímž způsobil firmě A. F., a.s., celkovou škodu ve výši 48.344,-- Kč,
+41.
+L., spol. s r.o., se sídlem R., ul. R., u které v sídle společnosti v měsíci prosinci 2003 odebral a v době splatnosti neuhradil zboží uvedené v daňovém dokladu:
+fa. č. 238367 ze dne 10.12.2003 znějící na částku 9.627,50 Kč s datem splatnosti 31.12.2003,
+čímž způsobil dané firmě škodu ve výši 9.627,50 Kč, když vzájemným zápočtem pohledávek ze dne 10.3.2004 byla uhrazena částka ve výši 1.899,-- Kč,
+42.
+T. s. H., s.r.o., se sídlem H., ul. S., u které v sídle společnosti odebral a v době splatnosti neuhradil služby uvedené v daňovém dokladu:
+fa. č. 640583/03 ze dne 31.12.2003 znějící na částku 2.300,-- Kč s datem splatnosti 16.1.2004,
+čímž způsobil dané firmě škodu ve výši 2.300,-- Kč,
+43.
+M., spol. s r.o., se sídlem S., ul. N. V., u které v sídle společnosti v prosinci 2003 odebral a v době splatnosti neuhradil zboží uvedené v daňovém dokladu:
+fa. č. 03/60/2716 ze dne 5.12.2003 znějící na částku 683,20 Kč s datem splatnosti 14.1.2004,
+čímž způsobil dané firmě škodu ve výši 683,20 Kč,
+44.
+firma O. - Ing. V. J., se sídlem Ch. u Ch., ul. U V., u které v sídle firmy v době od prosince 2003 do ledna 2004 odebral a v době splatnosti neuhradil služby uvedené v následujících daňových dokladech:
+fa. č. 2003169 ze dne 2.12.2003 znějící na částku 4.509,30 Kč s datem splatnosti 10.1.2004,
+fa. č. 2004002 ze dne 14.1.2004 znějící na částku 196,90 Kč s datem splatnosti 28.1.2004,
+čímž způsobil dané firmě celkovou škodu ve výši 4.706,20 Kč,
+45.
+Q. C., s.r.o., P. - provozovna S., M. H., u které v sídle společnosti v měsíci prosinec 2003 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 357992003 ze dne 5.12.2003 znějící na částku 42.171,-- Kč s datem splatnosti 12.12.2003,
+fa. č. 362372003 ze dne 10.12.2003 znějící na částku 25.539,-- Kč s datem splatnosti 12.12.2003,
+fa. č. 362452003 ze dne 10.12.2003 znějící na částku 18.087,-- Kč s datem splatnosti 17.12.2003,
+fa. č. 364972003 ze dne 12.12.2003 znějící na částku 293.947,-- Kč s datem splatnosti 14.12.2003,
+fa. č. 368782003 ze dne 17.12.2003 znějící na částku 523.667,-- Kč s datem splatnosti 19.12.2003,
+fa. č. 368812003 ze dne 17.12.2003 znějící na částku 43.859,-- Kč s datem splatnosti 19.12.2003,
+fa. č. 371492003 ze dne 19.12.2003 znějící na částku 593.861,-- Kč s datem splatnosti 21.12.2003,
+fa. č. 372752003 ze dne 22.12.2003 znějící na částku 267.763,-- Kč s datem splatnosti 24.12.2003,
+fa. č. 372762003 ze dne 22.12.2003 znějící na částku 51.057,-- Kč s datem splatnosti 29.12.2003,
+fa. č. 374952003 ze dne 29.12.2003 znějící na částku 277.317,-- Kč s datem splatnosti 31.12.2003,
+čímž způsobil firmě Q. C., s.r.o., celkovou škodu ve výši 2.139.268,-- Kč, když poté v období od 12.1.2004 do prosince 2005 bylo jím uhrazeno celkem 767.763,-- Kč,
+46.
+M. B, s.r.o., se sídlem M. – T., u které v sídle společnosti v době od prosince 2003 do ledna 2004 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 23112269 ze dne 12.12.2003 znějící na částku 9.734,-- Kč s datem splatnosti 29.12.2003,
+fa. č. 23112270 ze dne 12.12.2003 znějící na částku 10.411,-- Kč s datem splatnosti 29.12.2003,
+fa. č. 23212239 ze dne 22.12.2003 znějící na částku 10.147,-- Kč s datem splatnosti 5.1.2004,
+fa. č. 23212240 ze dne 22.12.2003 znějící na částku 14.728,-- Kč s datem splatnosti 5.1.2004,
+fa. č. 23312150 ze dne 2.1.2004 znějící na částku 2.204,-- Kč s datem splatnosti 16.1.2004,
+fa. č. 23312151 ze dne 2.1.2004 znějící na částku 10.333,-- Kč s datem splatnosti 16.1.2004,
+čímž způsobil firmě M. B, s.r.o., celkovou škodu ve výši 57.557,-- Kč,
+47.
+firma Z. K. – v. m. v., se sídlem Č. M., ul. J. F., u které v sídle firmy v prosinci 2003 odebral a v době splatnosti neuhradil zboží uvedené v následujících daňových dokladech:
+fa. č. 130011506 ze dne 2.12.2003 znějící na částku 27.270,-- Kč s datem splatnosti 18.12.2003,
+fa. č. 130011773 ze dne 9.12.2003 znějící na částku 14.919,-- Kč s datem splatnosti 29.12.2003,
+fa. č. 130012053 ze dne 16.12.2003 znějící na částku 23.866,-- Kč s datem splatnosti 2.1.2004,
+fa. č. 130012218 ze dne 19.12.2003 znějící na částku 4.521,-- Kč s datem splatnosti 6.1.2004,
+fa. č. 130012219 ze dne 19.12.2003 znějící na částku 6.045,-- Kč s datem splatnosti 6.1.2004,
+fa. č. 130012347 ze dne 23.12.2003 znějící na částku 7.275,-- Kč s datem splatnosti 13.1.2004,
+fa. č. 130012348 ze dne 23.12.2003 znějící na částku 16.153,-- Kč s datem splatnosti 13.1.2004,
+fa. č. 130012349 ze dne 23.12.2003 znějící na částku 2.270,-- Kč s datem splatnosti 13.1.2004,
+fa. č. 130012467 ze dne 30.12.2003 znějící na částku 4.556,-- Kč s datem splatnosti 19.1.2004,
+fa. č. 130012468 ze dne 30.12.2003 znějící na částku 22.746,-- Kč s datem splatnosti 19.1.2004,
+fa. č. 130012469 ze dne 30.12.2003 znějící na částku 5.828,-- Kč s datem splatnosti 19.1.2004,
+čímž způsobil firmě Z. K. – v. m. v. celkovou škodu ve výši
+135.449,-- Kč,
+přičemž výše vyjmenovaným poškozeným subjektům měla být způsobena škoda v souhrnné výši 6.312.242,20 Kč.
+Současně byli podle § 229 odst. 3 tr. ř. poškození odkázání se svými nároky na náhradu škody na řízení ve věcech občanskoprávních.
+Rozsudek Krajského soudu v Hradci Králové ze dne 18. 6. 2009, sp. zn. 6 T 11/2008, nabyl právní moci dne 18. 6. 2009.
+Následně proti pravomocnému rozsudku Krajského soudu v Hradci Králové ze dne 18. 6. 2009, sp. zn. 6 T 11/2008, podala ministryně spravedlnosti České republiky stížnost pro porušení zákona v neprospěch obviněného S. J. Vytkla v ní, že napadeným rozsudkem a v řízení předcházejícím byl porušen zákon v ustanoveních § 2 odst. 5, 6, § 226 b) a § 125 tr. ř. ve prospěch obviněného S. J.
+V odůvodnění stížnosti pro porušení zákona ministryně spravedlnosti namítla, že nalézací soud zcela volnou úvahou dospěl k závěru, že nebylo prokázáno, že by měl obviněný úmysl, byť jen eventuální, jednotlivé odběratele podvést v době, kdy od nich zboží odebíral, aniž by za něj zaplatil. Obžaloba přitom vycházela ze závěrů znalce z oboru ekonomiky a účetní evidence Ing. R. v tom smyslu, že společnost, v níž byl obviněný v postavení jednatele a jediného společníka, už v roce 2001 neměla dostatek likvidní hotovosti, aby byla schopna průběžně splácet své závazky. Znalec při hlavním líčení uvedl, že už na přelomu let 2001 a 2002 činila zadluženost společnosti obviněného kolem 94% (vypočteno podle aktiv k závazkům) s tím, že teorie připouští maximálně 50% zadluženost, aby byla zachována reálnost hospodářské prosperity obchodního subjektu. Ministryně spravedlnosti dále uvedla, že podstatou obhajoby obviněného byla jistá prezentace víry obviněného ve vlastní dokonalost a neomylný podnikatelský úsudek a jediné, čeho se bál, byla narůstající konkurence supermarketů, které vznikaly v místech, kde vykrýval poptávku svými prodejnami. Dle názoru ministryně spravedlnosti orgány činné v trestním řízení pochybily v předmětné věci v tom, že v průběhu přípravného řízení ani při hlavním líčení nebyly bližším způsobem zjišťovány majetkové poměry obviněného (např. jaká měl vydání na osobní potřebu), ač byl to měl význam pro ucelený závěr ohledně míry zavinění obviněného.
+Ministryně spravedlnosti ve stížnosti pro porušení zákona rovněž vytkla nalézacímu soudu, že provedl rozbor důkazního stavu věci stručně až heslovitě, v rozporu s § 125 odst. 1 tr. ř. a že z odůvodnění rozhodnutí nalézacího soudu nevyplývá vztah mezi skutkovými zjištěními a úvahami při hodnocení důkazů na straně jedné a právními závěry soudu na straně druhé. Ze závěrů znaleckého posudku vyplývá, že obviněný o beznadějné zadluženosti věděl, rozhodující soud však k této skutečnosti nepřihlédl. Dle názoru ministryně spravedlnosti měl nalézací soud hodnotit provedené důkazy odlišným způsobem s tím, že zásadní otázkou bylo při důkazním hodnocení věci určení doby, kdy si podnikání obviněného ještě podrželo svůj „přirozený smysl“, tj. vytváření regulérního zisku a kdy se již stalo jednáním kriminálním. S ohledem na princip in dubio pro reo bylo možno trestnou činnost časově redukovat, což by se patrně promítlo i do právní kvalifikace jednání obviněného a nic by také nebránilo tomu, aby nalézací soud rozhodl o náhradě škody (byť v redukované podobě). Ministryně spravedlnosti se dále domnívá, že pokud soud neshledal na straně obviněného podvodný úmysl, měl blíže zkoumat, zda jednáním obviněného nebyl naplněn trestný čin předlužení podle § 256c odst. 1 písm. e) tr. zák., popř. podle § 256c odst. 2 tr. zák. (obojí ve vyšším odstavci).
+Závěrem stížnosti pro porušení zákona ministryně spravedlnosti navrhla, aby Nejvyšší soud České republiky tzv. akademickým výrokem podle § 268 odst. 2 tr. ř. vyslovil, že rozsudkem Krajského soudu v Hradci Králové ze dne 18. 6. 2009, sp. zn. 6 T 11/2008, byl porušen zákon ve prospěch obviněného S. J. ve vytýkaném směru.
+Obviněný S. J. prostřednictvím svého obhájce navrhl stížnost pro porušení zákona zamítnout především z důvodu nenaplnění zákonných znaků subjektivní stránky trestného činu podvodu podle § 250 tr. zák.
+Nejvyšší soud České republiky podle § 267 odst. 3 tr. ř. přezkoumal zákonnost a odůvodněnost těch výroků rozhodnutí, proti nimž byla stížnost pro porušení zákona podána, v rozsahu a z důvodů v ní uvedených, jakož i řízení napadené části rozhodnutí předcházející, a dospěl k závěru, že zákon porušen nebyl.
+Po prostudování předmětného spisového materiálu Nejvyšší soud České republiky zjistil, že obviněný S. J. od roku 2001 podnikal ve společnosti J. & s., s.r.o. Toto podnikání probíhalo na několika provozovnách (prodejnách), zejména ve S. a H. T. Z předmětného dokazování podle závěru Krajského soudu v Hradci Králové vyplynulo, že obviněný přecenil své předpoklady rozsah svého podnikání, neměl potřebné zkušenosti a nedokázal zabezpečit chod společnosti z hlediska organizačního ani z hlediska účetního. Obviněný zmocnil jednotlivé vedoucí prodejen k objednávkám zboží, on sám o tom však centrálně neměl přehled a nevydal žádné podrobnější pokyny k tomu, jakým způsobem mají objednávky probíhat ani jakým způsobem mají být hrazeny. Sám měl potom na základě obratů na prodejnách z hlediska toho, jakým způsobem si vedl doklady o příjmech, výdajích, o pohledávkách, mylnou představu o tom, v jaké situaci se jeho společnost nachází, když si myslel, že tato je v mírném přebytku, ale ve skutečnosti tomu tak nebylo a společnost byla v mínusu. Obviněný se rozhodl přestat podnikat ke konci roku 2003 z toho důvodu, že chtěl změnit předmět podnikání. Vzhledem k charakteru podnikání, kdy zde byl neustálý obrat zboží a docházelo k jeho neustálým dodávkám do prodejen, pak došlo k tomu, že jednotliví dodavatelé začali uplatňovat nezaplacené faktury. Obviněný ve své výpovědi uvedl, že rozhodně nechtěl zůstat nikomu nic dlužný a nechtěl končit s podnikáním jako takovým, chtěl podnikat v jiné činnosti (provoz a servis hracích a výherních automatů). Obviněný si z hlediska počtu dodavatelů, kteří chtěli všichni náhle zaplatit, pozdě uvědomil obtížnost své situace, proto se obrátil na osobu Ing. K. F., který mu měl vše pomoci řešit, tak společnost směřovala do vstupu do likvidace k 9. 2. 2004. Od tohoto data převzal likvidátor Ing. F. práva a povinnosti týkající se společnosti. Situaci se vyřešit nepodařilo, následně byl podán návrh na prohlášení konkurzu, který byl zamítnut pro nedostatek finančních prostředků. Obviněný v řadě případů uznal dluh vůči jednotlivým subjektům, zaplatil i některé splátky ze splátkových kalendářů, které uzavřel. Toto dle něho bylo přerušeno až na doporučení likvidátora Ing. F. z toho důvodu, aby neupřednostnil některé dlužníky.
+Z výpisů z účtu náležející firmě J. & s.od roku 2002 do března 2004 (č. l. 2428-2429 spisu) vyplývá, že na účty dané společnosti přicházely prostředky, které dostávala společnost od svých odběratelů, na druhou stranu zde docházelo i k platbám společnosti. Obviněný sám ve své výpovědi specifikoval i řadu plateb a účtů z tohoto výpisu a doložil i doklady o platbách, které zde proběhly, z nichž je patrné, že i zejména v závěrečném období roku 2003 (říjen, listopad, prosinec) docházelo k větším úhradám plateb ze strany společnosti obviněného, než činily odběry společnosti za předmětné měsíce od jednotlivých dodavatelů, takže se i dluh společnosti v tomto období snižoval (č. l. 2729-2823 spisu).
+V předmětné věci byly vypracovány znalecké posudky z oboru ekonomiky – odvětví účetní evidence ze dne 29. 12. 2006 a 11. 2. 2008, které vypracoval znalec Ing. M. R. a ze kterých vyplynulo, že ekonomická situace firmy J. & s., s.r.o., se od roku 2001 postupně zhoršovala, přičemž již k datu 31. 12. 2001 se firma nacházela ve stádiu tzv. prvotní platební neschopnosti, tj. ve stavu, kdy nebyla schopna rychle hradit své splatné závazky z důvodu nedostatku finančních prostředků. Dle znalce po datu 31. 12. 2001 mohla daná společnost fakticky fungovat pouze díky značné benevolenci svých věřitelů a ke dni 31. 12 2002 pak společnost neměla dostatek finančních prostředků na úhradu závazků.
+Podle ustanovení § 250 odst. 1, 4 tr. zák. se trestného činu podvodu dopustí ten, kdo ke škodě cizího majetku sebe nebo jiného obohatí tím, že uvede někoho v omyl nebo využije něčího omylu, a způsobí tak na cizím majetku škodu nikoli nepatrnou. Odnětím svobody na pět až dvanáct let bude pachatel potrestán, způsobí-li činem uvedeným v odstavci 1 škodu velkého rozsahu.
+Zákonným znakem trestného činu podvodu je tedy mimo jiné i takové jednání pachatele, kdy jeho úmyslem je sebe nebo jiného ke škodě cizího majetku obohatit.
+Z výše uvedených skutečností je však zřejmé, že v průběhu řízení nebylo prokázáno, že by obviněný měl úmysl podvést své dodavatele a nezaplatit jim za dodané zboží. Není pochyb o tom, že obviněný měl mít povědomost o stavu své společnosti na základě kontroly výsledků hospodaření, na základě účetnictví, kdy by měl vědět o stavu finančních prostředků, závazků a hotovosti v pokladnách i na účtech. Obviněný měl povinnost vést účetnictví společnosti řádně a zabezpečit chod na jednotlivých provozovnách z hlediska vedení dokladů i přejímání zboží. V průběhu řízení vyšlo najevo, že obviněný postupoval při uvedených činnostech velmi neodborně, současně však ale nebylo prokázáno, že by tak činil s úmyslem poškodit jednotlivé dodavatele. Většina neuhrazených faktur za zboží pochází z roku 2003, zejména ze druhé poloviny tohoto roku. Tehdy obviněný nepochybně zjistil špatný finanční stav své společnosti, na který reagoval tak, že v řadě případů uznal dluh vůči jednotlivým subjektům, zaplatil i některé splátky ze splátkových kalendářů, které uzavřel, zvláště koncem roku 2003 (v měsících říjnu, listopadu a prosinci) se obviněný snažil dluh své společnosti vůči dodavatelům alespoň částečně splatit, což vyplývá z platebních dokladů založených ve spise (č. l. 2729-2823 spisu). Nakonec obviněný sám navrhl vstup společnosti do likvidace. Ze všech uvedených skutečností je dle názoru Nejvyššího soudu České republiky zřejmé, že obviněný nejednal v úmyslu odběratele podvést v době, kdy od nich jednotlivé zboží bylo odebíráno, a za zboží nezaplatit.
+Je pravdou, že nalézací soud nevěnoval odpovídající pozornost rozboru a hodnocení znaleckých posudků v předmětné věci, avšak závěry znaleckých posudků je nutno hodnotit v kontextu s dalšími shora uvedenými důkazy. A právě na základě takovéhoto hodnocení důkazů obviněnému S. J. podvodný úmysl (byť nepřímý) prokázán nebyl.
+Nejvyšší soud České republiky se proto ztotožnil s názorem soudu prvního stupně rozhodujícího ve věci v tom, že v průběhu řízení nebyl obviněnému prokázán úmysl sebe nebo jiného ke škodě cizího majetku obohatit, což je podstatný znak pro naplnění skutkové podstaty trestného činu podvodu podle ustanovení § 250 odst. 1, 4 tr. zák.
+Vzhledem k uvedeným skutečnostem tak není možno shledávat obviněného S. J. vinným trestným činem podvodu, a to ať s přímým nebo nepřímým úmyslem, neboť jednání obviněného nemá znaky trestného činu. Krajský soudu v Hradci Králové jako soud prvního stupně rozhodující ve věci proto rozhodl v souladu se zákonem, když obviněného S. J. podle § 226 písm. b) tr. řádu předmětné obžaloby zprostil.
+Nejvyšší soud České republiky pro úplnost poznamenává, že z jeho dosavadní rozhodovací praxe vyplývá, že „jestliže soud prvního stupně postupoval při hodnocení důkazů důsledně podle § 2 odst. 6 tr. ř., tzn. že je hodnotil podle vnitřního přesvědčení založeného na pečlivém uvážení všech okolností případu jednotlivě i v jejich souhrnu a učinil logicky odůvodněná úplná skutková zjištění, nemůže odvolací soud podle § 258 odst. 1 písm. b) tr. ř. napadený rozsudek zrušit jen proto, že sám na základě svého přesvědčení hodnotí tytéž důkazy s jiným v úvahu přicházejícím výsledkem. V takovém případě totiž nelze napadenému rozsudku vytknout žádnou vadu ve smyslu uvedeného ustanovení“ (srov. rozhodnutí Nejvyššího soudu České republiky uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod č. R 53/1992 – I).
+Pokud tedy Nejvyšší soud České republiky dospěl k závěru, že soud prvního stupně postupoval při projednávání a rozhodování předmětné věci správně a důsledně, důkazy hodnotil podle vnitřního přesvědčení založeného na pečlivém uvážení všech okolností případu jednotlivě i v jejich souhrnu a učinil logicky odůvodněná úplná skutková zjištění, tím spíše je třeba aplikovat výše citované rozhodnutí na řízení o stížnosti pro porušení zákona. Nejvyšší soud České republiky nemůže v řízení o stížnosti pro porušení zákona sám bez dalšího hodnotit předmětné důkazy s jiným v úvahu přicházejícím výsledkem – tj. v daném případě konstatovat, že obviněný se svým jednáním dopustil spáchání trestného činu.
+K názoru ministryně spravedlnosti uvedenému ve stížnosti pro porušení zákona, že pokud rozhodující soud neshledal na straně obviněného podvodný úmysl, měl blíže zkoumat, zda jednáním obviněného nebyl naplněn trestný čin předlužení podle § 256c odst. 1 písm. e) tr. zák., popř. podle § 256c odst. 2 tr. zák. (obojí ve vyšším odstavci), Nejvyšší soud České republiky uvádí následující.
+Podle ustanovení § 256c odst. 1 tr. zák. kdo, byť i z vědomé nedbalosti [§ 5 písm. a)], si přivodí předlužení tím, že
+a)činí vydání hrubě nepřiměřená svým majetkovým poměrům,
+b)spravuje svůj majetek způsobem, který neodpovídá zákonem mu uloženým nebo smluvně
+převzatým povinnostem nebo je s nimi v hrubém nepoměru,
+c) užívá poskytnutý úvěr v rozporu nebo hrubém nepoměru s jeho účelem,
+d) poskytuje ze svého majetku půjčky nebo úvěry jiným osobám, ač to je v hrubém nepoměru k jeho majetkovým poměrům, nebo
+e) učiní nad rámec obvyklého podnikatelského rizika obchod nebo operaci, která nenáleží k jeho pravidelné podnikatelské činnosti nebo je v hrubém nepoměru k jeho majetkovým poměrům.
+bude potrestán odnětím svobody až na jeden rok nebo zákazem činnosti nebo peněžitým trestem.
+Podle ustanovení § 256c odst. 2 tr. zák. bude stejně potrestán ten, kdo, byť i z vědomé nedbalosti [ § 5 písm. a)], ač ví, že je předlužen, přijme nový závazek nebo zřídí zástavu.
+Trestný čin předlužení patří mezi tzv. úpadkové delikty a objektem tohoto trestného činu je ochrana majetkových práv věřitelů. Podle prvního odstavce citovaného zákonného ustanovení se musí pachatel dostat do stavu předlužení některým z taxativně vyjmenovaných jednání, přičemž v daném případě nebylo prokázáno, že by se obviněný do stavu předlužení dostal některým z těchto jednání.
+Podle druhého odstavce uvedeného ustanovení jedná pachatel za stavu, kdy už je předlužen a nerozhoduje, jak se do tohoto stavu dostal. K podmínce předlužení musí však z hlediska trestní odpovědnosti přistoupit ještě další ze dvou taxativně vyjmenovaných a alternativně stanovených okolností, přičemž postačí kterákoli z nich, tj. pachatel přijme nový závazek, nebo zřídí zástavu. Ke zřízení zástavy obviněným v projednávané věci nedošlo a co se týče přijetí nového závazku, zde je podstatné, aby takový závazek významnějším způsobem negativně ovlivnil majetkovou situaci dlužníka, který je předlužen, tak, aby byl dán i potřebný stupeň společenské nebezpečnosti činu pro společnost. Z tohoto hlediska je třeba posuzovat též okolnost, jaký efekt (zejména finanční) mělo přijetí nového závazku dlužníkem, tj. zda směřovalo k vytvoření příznivějších podmínek k postupnému odstranění stavu předlužení a k vypořádání závazků vůči věřitelům (zde by trestní postih nebyl na místě) anebo zda jde naopak o investici, která znamená jen účelový přesun majetku, a to případně i na úkor věřitelů (zde by byl trestní postih důvodný) – takový účelový přesun majetku u obviněného S. J. prokázán nebyl.
+V případě projednávané věci bylo prokázáno, že obviněný si velmi neodborně vedl doklady o příjmech, výdajích, o pohledávkách a na základě toho měl mylnou představu o tom, v jaké situaci se jeho společnost nachází, když si myslel, že tato je v mírném přebytku, ale ve skutečnosti tomu tak nebylo a společnost byla v mínusu. Jak již bylo uvedeno výše, obviněný si z hlediska počtu dodavatelů, kteří chtěli všichni náhle zaplatit, pozdě uvědomil obtížnost své situace a ke konci roku 2003, když zjistil, že společnost je předlužena, se rozhodl přestat podnikat, sám navrhl likvidaci společnosti a snažil se situaci řešit - chtěl změnit předmět podnikání, aby mohl splatit své závazky, snažil se dohodnout s věřiteli na splátkových kalendářích, některé závazky uhradil. Dle názoru Nejvyššího soudu České republiky je třeba jednání obviněného považovat za jednání, které směřovalo k vytvoření příznivějších podmínek k postupnému odstranění stavu předlužení a k vypořádání závazků vůči věřitelům, tedy jednání, kterým nebyl naplněn trestný čin předlužení ani podle § 256c odst. 1 písm. e) tr. zák. ani podle § 256c odst. 2 tr. zák.
+V návaznosti na výše uvedené skutečnosti je tedy možno učinit závěr, že Krajský soud v Hradci Králové rozsudkem ze dne 18. 6. 2009, sp. zn. 6 T 11/2008, neporušil zákon v ustanoveních § 2 odst. 5, 6, § 226 b) a § 125 tr. ř. ve prospěch obviněného S. J.
+Nejvyšší soud České republiky proto podle § 268 odst. 1 písm. c) tr. ř. stížnost pro porušení zákona zamítl.
+Poučení: Proti tomuto rozhodnutí není opravný prostředek přípustný.
+V Brně dne 8. prosince 2009
+Předseda senátu:
+JUDr. J. P.
