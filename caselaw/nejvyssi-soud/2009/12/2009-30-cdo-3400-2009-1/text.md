@@ -1,0 +1,64 @@
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy
+JUDr. Pavla Pavlíka a soudců JUDr. Karla Podolky a JUDr. Pavla Vrchy ve věci žalobce S. M., bytem v D., zastoupeného advokátem, proti žalované České republice – Okresnímu státnímu zastupitelství v Š., o ochranu osobnosti, vedené u Krajského soudu v Ostravě, pod sp. zn. 23 C 173/1998, o dovolání žalobce proti usnesení Vrchního soudu v Olomouci ze dne 30. července 2008, č.j.
+1 Co 183/2008-66, t a k t o :
+Usnesení Vrchního soudu v Olomouci ze dne 30. července 2008, č.j.
+1 Co 183/2008-66, a usnesení Krajského soudu v Ostravě ze dne 6. května 2008, č.j.
+23 C 173/1998-56, se zrušují a věc se vrací soudu prvního stupně k dalšímu řízení.
+O d ů v o d n ě n í :
+Žalobou doručenou Krajskému soudu v Ostravě se žalobce domáhal ochrany svých osobnostních práv s tím, „že došlo k narušení jeho osobnostní sféry porušením zákonných předpisů žalovaným v trestním řízení a požadoval uhradit majetkovou
+a nemajetkovou újmu“.
+Usnesením ze dne 29. března 1999, č.j. 23 C 173/98-4, Krajský soud v Ostravě přerušil v této věci řízení do skončení řízení vedeného u Okresního soudu v Šumperku sp. zn. P 335/88 ve věci návrhu na změnu omezení způsobilosti k právním úkonům žalobce, příp. o zbavení způsobilosti k právním úkonům žalobce. Usnesením ze dne
+30. října 2007, č.j. 23 C 173/1998-25, Krajský soud v Ostravě rozhodl o pokračování v řízení. Současně přiznal žalobci osvobození od soudních poplatků a zástupcem
+pro řízení mu ustanovil Mgr. P. F., advokátku.
+K odvolání žalobce (ve kterém nesouhlasil s ustanovením Mgr. P. F.
+a žádal, aby mu byl ustanoven jako zástupce JUDr. T. S., advokát), Vrchní soud v Olomouci usnesením ze dne 29. ledna 2008, č.j.
+1 Co 310/2007-36, usnesení soudu prvního stupně v napadené části týkající
+se ustanovení zástupce zrušil a v tomto rozsahu věc vrátil soudu prvního stupně k dalšímu řízení. Soud prvního stupně současně zavázal, aby v dalším řízení nejprve postupem podle § 43 odst. 1 občanského soudního řádu (dále jen „o.s.ř.“) vyzval žalobce k odstranění vad žaloby spočívající v nedostatečných skutkových tvrzeních
+a v žalobním petitu tak, aby bylo možno posoudit, zda je ustanovení zástupce žalobci zapotřebí k ochraně jeho práv a zda by zástupcem měl být advokát. Pokud žalobce vytýkané vady žaloby zhojí, vyzve jej soud, pokud to sám žalobce dobrovolně neučiní, k doplnění skutkových tvrzení o jeho majetkových a osobních poměrech a k jejich doložení, aby posoudil, zda nedošlo k jejich změně. Teprve poté rozhodne o žádosti žalobce o ustanovení zástupce.
+Poté Krajský soud v Ostravě usnesením ze dne 5. března 2008, č.j. 23 C 173/1998-41, vyzval žalobce, aby ve lhůtě čtrnácti dnů odstranil vady své žaloby ze dne 23. prosince 1998 s poučením, že soud žalobu odmítne, pokud nebude opravena. Žalobce reagoval na výzvu přípisem ze dne 26. března 2008, ve kterém žádal, aby mu byl pro řízení ustanoven jako zástupce advokát JUDr. T. S., a aby mu bylo přiznáno osvobození od soudních poplatků.
+Krajský soud v Ostravě (aniž by rozhodl o výše uvedené žádosti ze dne
+26. března 2008) usnesením ze dne 6. května 2008, č.j. 23 C 173/1998-56, žalobu
+ze dne 23. prosince 1998 podle § 43 odst. 2 o.s.ř. odmítl a rozhodl o náhradě nákladů řízení.
+K odvolání žalobce Vrchní soud v Olomouci usnesením ze dne 30. července 2008, č.j. 1 Co 183/2008-66, usnesení soudu prvního stupně podle § 219 o.s.ř. potvrdil
+a rozhodl o náhradě nákladů odvolacího řízení. Věc posoudil podle ustanovení § 30 odst. 1 o.s.ř. a připomněl, že při rozhodování o ustanovení zástupcem advokáta, soud přihlíží nejen k majetkovým a sociálním poměrům žadatele, k výši soudního poplatku, ale i k povaze uplatněného nároku, to znamená i ke skutečnosti, zda ve věci nejde
+o svévolné nebo zřejmě bezúspěšné uplatňování nebo bránění práva. O zřejmé bezúspěšné uplatňování práva půjde tehdy, jestliže již ze skutkových tvrzení žadatele, aniž by bylo třeba provádět dokazování, je nepochybné, že mu ve věci nemůže být vyhověno. Za tímto účelem žalobce musí v návrhu uvést alespoň elementární skutkové okolnosti, z nichž by bylo možno zjistit, čeho a na jakém základě se žalobce žalobou domáhá. Pokud takové minimální náležitosti žalobce v podání neuvede, nejsou splněny procesní podmínky pro vyhovění návrhu na ustanovení právního zástupce. Odvolací soud se ztotožnil se závěrem soudu prvního stupně, že žalobce přes výzvu soudu ze dne 5. března 2008, č.j. 23 C 173/1998-41, neuvedl, na jakém konkrétním základě a čeho se žalobou domáhá, přičemž vyslovil přesvědčení, že každý žalobce obvykle nepochybně disponuje takovými schopnostmi, aby jeho žaloba elementárním zákonným náležitostem vyhověla. Konstatoval, že žalobce bez zjevných příčin takovou žalobu nepodal a soudu znemožnil posoudit, zda ve věci jde či nejde o zjevně bezúspěšné uplatňování práva. Odvolací soud (stejně jako soud prvního stupně) uzavřel, že žádosti žalobce
+o ustanovení zástupcem advokáta proto nebylo možno vyhovět a že žaloba zůstala neprojednatelnou.
+Usnesení odvolacího soudu bylo doručeno žalobci dne 14. srpna 2008 a téhož dne nabylo právní moci.
+Proti usnesení Vrchního soudu v Olomouci podal žalobce dne 28. srpna 2008 dovolání - doplněné jeho zástupcem, který mu byl ustanoven soudem pro dovolací řízení - podáním ze dne 18. května 2009. Přípustnost dovolání dovozuje z ustanovení § 239 odst. 3 o.s.ř. a uplatňuje dovolací důvody ve smyslu ustanovení § 241a odst. 2 písm. a)
+a b) o.s.ř., když má za to, že řízení je postiženo vadou, která mohla mít za následek nesprávné rozhodnutí ve věci, a že rozhodnutí spočívá na nesprávném právním posouzení věci. Poukazuje na to, že mu bylo v daném řízení odňato právo jednat před soudem, že soud nenařídil ve věci samé jednání, nepředvolal účastníky a neprovedl dokazování. Domnívá se také, že již od počátku řízení mu měl být na jeho opakované žádosti ustanoven zástupce k ochraně jeho zájmů.
+K dovolání nebylo podáno vyjádření.
+Při posuzování tohoto dovolání dovolací soud vycházel z ustanovení čl. II bodu 12. zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád,
+ve znění pozdějších předpisů, a další související zákony, a konstatuje, že dovolání bylo podáno oprávněnou osobou, řádně zastoupenou advokátem podle ustanovení § 241
+odst. 1 o.s.ř., stalo se tak ve lhůtě vymezené ustanovením § 240 odst. 1 o.s.ř.,
+je charakterizováno obsahovými i formálními znaky požadovanými ustanovením § 241a odst. 1 o.s.ř. a je přípustné podle ustanovení § 239 odst. 3 o.s.ř.
+Nejvyšší soud ČR jako soud dovolací (§ 10a o.s.ř.) poté usnesení Vrchního soudu v Olomouci přezkoumal v souladu s ustanovením § 242 odst. 1 až 3 o.s.ř.
+a dospěl k závěru, že toto dovolání je důvodné.
+Z ustanovení § 242 o.s.ř. vyplývá, že právní úprava institutu dovolání obecně vychází ze zásady vázanosti dovolacího soudu podaným dovoláním. Dovolací soud
+je přitom vázán nejen rozsahem dovolacího návrhu, ale i uplatněným dovolacím důvodem. Současně je však v případech, je-li dovolání přípustné, povinen přihlédnout
+i k vadám uvedeným v ustanovení § 229 odst. 1, § 229 odst. 2 písm. a) a b) a § 229
+odst. 3 o.s.ř., jakož i k jiným vadám řízení, které mohly mít za následek nesprávné rozhodnutí ve věci. Jak vyplývá z obsahu spisu a z napadeného rozhodnutí, právě tato vada poznamenala předmětné řízení.
+Podle ustanovení § 30 odst. 1 věty první o.s.ř. účastníku, u něhož jsou předpoklady, aby byl soudem osvobozen od soudních poplatků (§ 138 téhož zákona), předseda senátu ustanoví na jeho žádost zástupce, jestliže je to třeba k ochraně jeho zájmů.
+Podle ustanovení § 138 o.s.ř. na návrh může předseda senátu přiznat účastníkovi zcela nebo zčásti osvobození od soudních poplatků, odůvodňují-li to poměry účastníka
+a nejde-li o svévolné nebo zřejmě bezúspěšné uplatňování nebo bránění práva. Nerozhodne-li předseda senátu jinak, vztahuje se osvobození na celé řízení a má
+i zpětnou účinnost; poplatky zaplacené před rozhodnutím o osvobození se však nevracejí (odst. 1). Přiznané osvobození předseda senátu kdykoli za řízení odejme, popřípadě i se zpětnou účinností, jestliže se do pravomocného skončení řízení ukáže,
+že poměry účastníka osvobození neodůvodňují, popřípadě neodůvodňovaly (odst. 2). Byl-li účastníku osvobozenému od soudních poplatků ustanoven zástupce, vztahuje se osvobození v rozsahu, v jakém bylo přiznáno, i na hotové výdaje zástupce a na odměnu za zastupování (odst. 3).
+Z obsahu spisu vyplývá, že – jak již bylo zmíněno výše – žalobce požádal
+o přiznání osvobození od soudních poplatků a o ustanovení zástupce ve věci.
+Soud prvního stupně poté, co jeho původní usnesení o osvobození žalobce
+od soudních poplatků a o ustanovení zástupce bylo odvolacím soudem zrušeno, již
+o této jeho žádosti nerozhodl, stejně tak ani o jeho nové žádosti ze dne 16. dubna 2008. Pouze vyzval žalobce k opravě a doplnění jeho podání, a následně pak výše citovaným usnesením návrh na zahájení řízení odmítl.
+Jestliže účastník řízení podá v zahájeném řízení žádost o ustanovení zástupce
+ve smyslu ustanovení § 30 o.s.ř., soud o ní musí rozhodnout před tím, než učiní další úkony v řízení. Protože soud prvního stupně žádost žalobce o ustanovení zástupce pominul a pro nedostatky žaloby, jež ani přes výzvu doručenou žalobci nebyly odstraněny, jeho žalobu odmítl (byť v zásadě vycházel z právního názoru odvolacího soudu obsaženého v citovaném zrušovacím rozhodnutí), zatížil tak řízení vadou, která mohla mít za následek nesprávné rozhodnutí ve věci ve smyslu ustanovení § 241a odst. 2 písm. a) o.s.ř. Jak vyplývá z odůvodnění napadeného usnesení Vrchního soudu v Olomouci, odvolací soud tento nesprávný postup soudu prvního stupně aproboval (srov. též usnesení Nejvyššího soudu ze dne 25.2.2004, sp. zn. 25 Cdo 63/2004, uveřejněné v Souboru civilních rozhodnutí a stanovisek Nejvyššího soudu pod číslem
+C 2319, ročník 2004, nebo obdobně usnesení téhož soudu ze dne 3. června 2008, sp.zn. 30 Cdo 2629/2006). Zde dovolací soud vyslovuje přesvědčení, že soudy obou stupňů takto zřejmě nepřiléhavě fakticky vyložily zásadu vyjádřenou v usnesení Nejvyššího soudu ČR ze dne 19. května 2005, sp.zn. 25 Cdo 218/2005, podle níž, jestliže soud
+v souladu s procesními předpisy odmítl vadné podání účastníka, aniž rozhodl o jeho žádosti o ustanovení zástupce za situace, kdy předpoklady pro takový postup nebyly splněny z důvodu svévolného nebo zřejmě bezúspěšného uplatňování či bránění práva (§ 138 o.s.ř.), nejde o vadu řízení, která mohla mít za následek nesprávné rozhodnutí
+ve věci [§ 241a odst.2 písm. a) o.s.ř.]. V souzeném případě však soudy obou stupňů, jak ostatně samy konstatují, věc takto neposuzovaly s tím, že obsahová úroveň žaloby takovéto zhodnocení vylučuje. Je tedy zcela zřejmé, že domnělou příčinou, proč soudy
+o návrhu na osvobození od soudních poplatků a o ustanovení zástupce pro řízení nerozhodly, nebylo eventuální zjištění, že by se jednalo o svévolné nebo zřejmě bezúspěšné uplatňování či bránění práva, jak má na mysli ustanovení § 138 o.s.ř.,
+ale důvod zcela jiný, který proto bylo třeba posoudit v rámci samostatného rozhodnutí podle § 30 odst. 1 o.s.ř. Soudy obou stupňů uváděné důvody, proč podle jejich názoru nebylo třeba o žádosti žalobce o ustanovení zástupce pro řízení rozhodovat, proto vybočují z rámce úpravy obsažené v § 30 a § 138 odst. 1 o.s.ř.
+Z uvedeného vyplývá, že v daném případě byl naplněn dovolací důvod podle ustanovení § 241a odst. 2 písm. a) o.s.ř. Nejvyšší soud proto napadené rozhodnutí odvolacího soudu zrušil (§ 243b odst. 2 věta za středníkem o.s.ř.). Protože dovolací důvody, pro které bylo zrušeno rozhodnutí odvolacího soudu, platí i na rozhodnutí soudu prvního stupně, dovolací soud zrušil i toto rozhodnutí a věc vrátil Krajskému soudu v Ostravě k dalšímu řízení (§ 243b odst. 3 věta druhá o.s.ř.). K projednání věci nebylo nařízeno jednání (§ 243a odst. 1 o.s.ř.).
+Odvolací soud (soud prvního stupně) je vázán právním názorem dovolacího soudu (§ 243d odst. 1 věta první o.s.ř. ve spojení s § 226 odst. 1 téhož zákona).
+O náhradě nákladů řízení včetně nákladů dovolacího řízení soud rozhodne v novém rozhodnutí o věci (§ 243d odst. 1 věta druhá o.s.ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 9. prosince 2009
+JUDr. Pavel P a v l í k , v. r.
+předseda senátu
