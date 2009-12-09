@@ -1,0 +1,18 @@
+29 Cdo 5316/2007
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Krčmáře a soudců JUDr. Petra Gemmela a JUDr. Ivany Štenglové v právní věci žalobce J. G., zastoupeného JUDr. J. O., advokátem, proti žalované JUDr. J. B., advokátce, jako správkyni konkursní podstaty úpadkyně J. M. spol. s r. o., o vyloučení nemovitostí ze soupisu majetku konkursní podstaty úpadkyně, vedené u Krajského soudu v Ostravě pod sp. zn. 12 Cm 131/2004, o dovolání žalobce proti rozsudku Vrchního soudu v Olomouci ze dne 30. května 2007, č. j. 9 Cmo 105/2006-77, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Rozsudkem ze dne 30. června 2006, č. j. 12 Cm 131/2004-51, zamítl Krajský soud v Ostravě žalobu, kterou se žalobce (Josef Grochol) domáhal vůči žalované správkyni konkursní podstaty úpadkyně J. M. spol. s r. o. vyloučení ve výroku označených nemovitostí (pozemku a stavby) ze soupisu majetku konkursní podstaty úpadkyně (bod I. výroku) a rozhodl o nákladech řízení (bod II. výroku).
+K odvolání žalobce Vrchní soud v Olomouci v záhlaví označeným rozsudkem potvrdil rozsudek soudu prvního stupně (první výrok) a rozhodl o nákladech odvolacího řízení (druhý výrok).
+Dovolání žalobce proti rozsudku odvolacího soudu (výslovně směřující proti oběma jeho výrokům), opírající se o existenci dovolacího důvodu uvedeného v § 241a odst. 2 písm. b/ zákona č. 99/1963 Sb., občanského soudního řádu (dále též jen „o. s. ř.“), jímž se dovolatel dožaduje zrušení rozhodnutí soudů obou stupňů a vrácení věci soudu prvního stupně k dalšímu řízení, Nejvyšší soud odmítl podle § 243b odst. 5 a § 218 písm. c/ o. s. ř. (ve znění účinném do 31. prosince 2007) jako nepřípustné.
+Ve vztahu ke druhému výroku (o nákladech odvolacího řízení) a k té části prvního výroku, kterou odvolací soud potvrdil rozsudek soudu prvního stupně ve výroku o nákladech řízení, je dovolání objektivně nepřípustné (srov. i usnesení Nejvyššího soudu uveřejněné pod číslem 4/2003 Sbírky soudních rozhodnutí a stanovisek).
+Dovolání proti té části prvního výroku, kterou odvolací soud potvrdil rozsudek soudu prvního stupně v zamítavém výroku o věci samé může být v této věci přípustné jen podle § 237 odst. 1 písm. c/ o. s. ř., přičemž Nejvyšší soud nepřisuzuje napadenému rozhodnutí zásadní právní význam.
+Podstata dovolání tkví v polemice se závěrem soudů nižších stupňů, že obě nemovitosti byly do konkursní podstaty úpadkyně sepsány (jako majetek úpadkyně) právem, jelikož kupní smlouva ze dne 21. září 2001, kterou pozdější úpadkyně převedla nemovitosti na dovolatele, je (pro rozpor s ustanovením § 169 písm. e/ zákona č. 40/1964 Sb., občanského zákoníku) absolutně neplatným právním úkonem, neboť ve skutečnosti jde o zákonem zakázané ujednání o tzv. propadné zástavě.
+V rovině těchto závěrů je ovšem rozhodovací praxe soudu již ustálena rozhodnutími Nejvyššího soudu a Ústavního soudu citovanými v rozsudcích soudů nižších stupňů. Přiléhavý výčet těchto rozhodnutí lze doplnit o rozsudky Nejvyššího soudu uveřejněné pod čísly 15/2007 a 45/2009 Sbírky soudních rozhodnutí a stanovisek, které doplňují výklad týkající se tzv. propadných zástav i ve vztahu ke smlouvě o postoupení pohledávky a k institutu zajišťovacího převodu práva. Napadené rozhodnutí je s ustálenou judikaturou označených soudů v souladu.
+Výrok o nákladech dovolacího řízení je odůvodněn ustanoveními § 243b odst. 5, § 224 a § 146 odst. 3 o. s. ř., tedy tím, že dovolání bylo odmítnuto a tím, že u žalované žádné prokazatelné náklady tohoto řízení zjištěny nebyly
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 9. prosince 2009
+JUDr. Zdeněk K r č m á ř
+předseda senátu
