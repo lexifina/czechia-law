@@ -1,0 +1,16 @@
+11 Tcu 102/2009
+U S N E S E N Í
+Nejvyšší soud České republiky projednal žádost Ministerstva spravedlnosti Rumunské republiky o povolení průvozu odsouzeného G. I. a rozhodl v neveřejném zasedání konaném dne 15. prosince 2009 podle §§ 423 a 424 tr. ř. t a k t o :
+Povoluje se průvoz odsouzeného G. I., státního občana Rumunska, územím České republiky z Ukrajiny do Rumunska pro účely předání jmenovaného k výkonu trestu odnětí svobody v trvání tří let uloženého mu trestním rozsudkem Soudu v Constanta č. 798 ze dne 7. 4. 2004, sp. zn. 1879/2003.
+Po dobu průvozu bude předávaná osoba držena ve vazbě.
+O d ů v o d n ě n í :
+Ministerstvo spravedlnosti Rumunska požádalo dne 14. 12. 2009, č. j. 80069/2009, na základě čl. 25 Rámcového rozhodnutí Rady Evropské unie ze dne 13. června 2002, o evropském zatýkacím rozkazu a postupech předávání mezi členskými státy, o povolení průvozu rumunského občana G. I. územím České republiky. Průvoz se má uskutečnit v rámci předání jmenovaného z Ukrajiny pro účely výkonu trestu odnětí svobody v trvání tří let uloženého mu trestním rozsudkem Soudu v Constanta č. 798 ze dne 7. 4. 2004, sp. zn. 1879/2003, za trestný čin těžké krádeže podle čl. 208 odst. 1, čl. 209 odst. 1 (g) a (i) za použití čl. 37 (a) rumunského trestního zákoníku.
+Tohoto trestného činu se předávaný G. I. dopustil tím, že v noci ze 13. na 14. 12. 2006 v C. poté, co rozbil jedno z přístupových oken restaurace S., vstoupil dovnitř a ukradl odsud zboží v hodnotě 1 399,04 RON a zlaté náušnice a náhrdelník patřící poškozené barmance M. S.
+Nejvyšší soud České republiky projednal žádost Ministerstva spravedlnosti Rumunska z hlediska splnění právních podmínek vyžadovaných vnitrostátní úpravou, to znamená § 423 tr. ř., který byl aplikován ve smyslu § 424 tr. ř. obdobně. Při obdobné aplikaci § 423 tr. ř. vycházel Nejvyšší soud rovněž z čl. 25 odst. 5 Rámcového rozhodnutí Rady Evropské unie ze dne 13. června 2002, o evropském zatýkacím rozkazu a postupech předávání mezi členskými státy (dále jen „Rámcové rozhodnutí“), který pro případ průvozu osoby z třetí země do členského státu stanoví obdobné použití čl. 25 Rámcového rozhodnutí. Tento čl. 25 je pak do české právní úpravy implementován zejména § 422 tr. ř. Vzhledem k tomu, že § 423 tr. ř. nestanoví podmínky, za kterých může být průvoz povolen, dospěl Nejvyšší soud k závěru, že s ohledem na účel právní úpravy vyjádřený v Rámcovém rozhodnutí je třeba v tomto případě postupovat způsobem popsaným v § 422 tr. ř. a čl. 25 Rámcového rozhodnutí.
+Nejvyšší soud zjistil, že v posuzovaném případě jde o předání z Ukrajiny do Rumunska, tedy z třetího státu do země Evropské unie, za účelem výkonu trestu odnětí svobody. Dále zjistil z výpisu z centrální evidence obyvatel, že předávaná osoba není občanem České republiky.
+Jelikož nebyly zjištěny žádné právní překážky, které by bránily povolení průvozu předávaného G. I. územím České republiky pro účely výkonu trestu v Rumunsku, vyhověl Nejvyšší soud České republiky žádosti Ministerstva spravedlnosti Rumunska.
+Zároveň rozhodl o nutném opatření omezujícím osobní svobodu předávané osoby v době průvozu územím České republiky.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 15. prosince 2009
+Předseda senátu:
+JUDr. Karel Hasch
