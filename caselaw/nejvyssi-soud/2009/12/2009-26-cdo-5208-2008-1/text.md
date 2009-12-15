@@ -1,0 +1,23 @@
+26 Cdo 5208/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy
+JUDr. Miroslava Feráka a soudkyň Doc. JUDr. Věry Korecké, CSc., a JUDr. Marie Rezkové ve věci žalobců a/ J. H. a b/ B. K., zastoupených advokátkou, proti žalovanému B. d. K. 19, zastoupenému advokátem, o určení neplatnosti výpovědi z nájmu bytu, vedené u Okresního soudu v Ostravě pod sp. zn. 25 C 216/2007, o dovolání žalovaného proti rozsudku Krajského soudu v Ostravě ze dne 9. července 2008, č. j. 42 Co 271/2008-107, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Ostravě (soud prvního stupně) rozsudkem ze dne 5. prosince 2007, č. j. 25 C 216/2007-90, vyhověl žalobě a určil, že je neplatná výpověď žalovaného ze dne 28. června 2007 z nájmu žalobců k „bytu č. 6 ve 3. patře domu č. p. 2628/19 na ulici K. v O. – M. O. a P.“ (dále jen „předmětný byt“, resp. „byt“); současně rozhodl o nákladech řízení účastníků.
+K odvolání žalovaného Krajský soud v Ostravě jako soud odvolací rozsudkem ze dne 9. července 2008, č. j. 42 Co 271/2008-107, citovaný rozsudek soudu prvního stupně potvrdil a rozhodl o nákladech odvolacího řízení účastníků.
+Proti rozsudku odvolacího soudu podal žalovaný dovolání.
+Podle čl. II bodu 12 věty první zákona č. 7/2009 Sb., kterým se mění zákon
+č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, dovolání proti rozhodnutím odvolacího soudu vyhlášeným (vydaným) přede dnem nabytí účinnosti tohoto zákona (tj. před 1. červencem 2009) se projednají
+a rozhodnou podle dosavadních právních předpisů. Bylo-li napadené rozhodnutí vydáno dne 9. července 2008, Nejvyšší soud České republiky jako soud dovolací dovolání projednal a o něm rozhodl podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění před novelou provedenou zákonem č. 7/2009 Sb. (dále jen „o.s.ř.”)
+Protože ustanovení § 237 odst. 1 písm. b/ o.s.ř. přípustnost dovolání nezakládá (rozsudek soudu prvního stupně, potvrzený napadeným rozsudkem, byl jeho prvním rozhodnutím ve věci), zabýval se dovolací soud přípustností dovolání podle § 237 odst. 1 písm. c/ o.s.ř.
+Napadený rozsudek je založen na právním názoru, že je neplatná podle § 39 zákona č. 40/1964 Sb., občanský zákoník, ve znění po novele provedené zákonem
+č. 107/2006 Sb. (dále jen „obč. zák.“), výpověď žalovaného ze dne 28. června 2007 z nájmu žalobců k předmětnému bytu z důvodu podle § 711 odst. 2 písm. b/ obč. zák., neobsahuje-li v rozporu s ustanovením § 711 odst. 3 obč. zák. závazek žalovaného (pronajímatele bytu) zajistit žalobcům (společným nájemcům bytu) odpovídající bytovou náhradu, tj. v daném případě přístřeší jako bytovou náhradu svého druhu.
+Nejvyšší soud České republiky v řadě svých rozhodnutí dovodil, že přístřeší je bytovou náhradou svého druhu (srov. rozsudky Nejvyššího soudu ze dne 17. července 1997, sp. zn. 2 Cdon 568/97, a ze dne 27. října 1999, sp. zn. 2 Cdon 1401/97, uveřejněné pod č. 60 v sešitě č. 8 z roku 1997 a pod č. 68 v sešitě č. 6 z roku 2000 časopisu Soudní judikatura, dále ze dne 29. března 2001, sp. zn. 20 Cdo 2482/2000, a ze dne 18. prosince 2002, sp. zn. 26 Cdo 1674/2002, uveřejněné pod C 381 a pod C 1630 v Souboru rozhodnutí Nejvyššího soudu). V rozsudku ze dne 13. srpna 2008, sp. zn. 26 Cdo 1720/2008, přijatém na zasedání občanskoprávního a obchodního kolegia Nejvyššího soudu České republiky konaném dne 11. února 2009 k uveřejnění ve Sbírce soudních rozhodnutí a stanovisek, Nejvyšší soud dovodil, že výpověď z nájmu bytu podle § 711 odst. 2 písm. b/ obč. zák. je neplatná pro neurčitost, není-li v ní závazek pronajímatele zajistit nájemci odpovídající bytovou náhradu konkretizován údajem o formě bytové náhrady. Nejvyšší soud zastává názor, že tím spíše je neplatná výpověď, která vůbec neobsahuje závazek pronajímatele zajistit vypovídanému nájemci (odpovídající) bytovou náhradu.
+Se zřetelem k řečenému lze uzavřít, že dovolání není přípustné ani podle § 237 odst. 1 písm. c/ o.s.ř. Dovolací soud proto, aniž nařizoval jednání (§ 243a odst. 1 věta první o.s.ř.), dovolání podle § 243b odst. 5 věty první a § 218 písm. c/ o.s.ř. odmítl.
+Dovolatel z procesního hlediska zavinil, že jeho dovolání bylo odmítnuto, avšak žalobcům nevznikly v dovolacím řízení žádné náklady, na jejichž náhradu by jinak měli proti dovolateli právo. Této procesní situaci odpovídá výrok, že žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení (§ 243b odst. 5 věta první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o.s.ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 15. prosince 2009
+JUDr. Miroslav Ferák, v. r.
+předseda senátu
