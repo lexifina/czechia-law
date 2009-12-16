@@ -1,0 +1,24 @@
+26 Cdo 2689/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně
+Doc. JUDr. Věry Korecké, CSc., a soudců JUDr. Miroslava Feráka a JUDr. Marie Rezkové ve věci žalobců a) A. H., a b) H. H., zastoupených advokátem, proti žalovaným 1) L. I., a 2) M. I., o zaplacení částky 93.864,- Kč s příslušenstvím a o přivolení k výpovědi z nájmu bytu, vedené u Okresního soudu ve Vyškově pod sp.zn. 10 C 1110/2004, o dovolání žalobců proti usnesení Krajského soudu v Brně ze dne 27. února 2009, č.j. 19 Co 344/2008-193, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud ve Vyškově (soud prvního stupně) rozsudkem ze dne 6. 12. 2007, č.j. 10 C 1110/2004-152, zastavil řízení ohledně zaplacení částky 3.084,- Kč, zamítl žalobu na přivolení k výpovědi z nájmu žalovaných k bytu v rozsudku specifikovanému a žalobu na zaplacení částky 90.816,- Kč s příslušenstvím vůči žalované 1) a na zaplacení částky 73.816,- Kč s příslušenstvím vůči žalovanému 2), a uložil žalovanému 2) zaplatit žalobcům, oprávněným společně a nerozdílně částku 16.964,- Kč; současně rozhodl o nákladech řízení.
+Krajský soud v Brně (soud odvolací) usnesením ze dne 27. 2. 2009, č.j. 19 Co 344/2008-193, odvolání žalobců a) a b) proti rozsudku soudu prvního stupně odmítl (neboť jejich odvolání postrádají náležitosti stanovené v ustanovení § 205 odst. 1 o.s.ř., a pro tento nedostatek nelze v odvolacím řízení pokračovat) a rozhodl o nákladech odvolacího řízení.
+Proti usnesení odvolacího soudu podali žalobci a) a b) – nezastoupeni advokátem – dovolání, v němž vyjadřují nesouhlas s napadeným rozhodnutím a namítají zejména, že jejich odvolání mají všechny zákonem stanovené náležitosti. Navrhli, aby napadené rozhodnutí bylo zrušeno a věc byla vrácena odvolacímu soudu k dalšímu řízení.
+Podle čl. II bodu 12. věty před středníkem zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, dovolání proti rozhodnutím odvolacího soudu vyhlášeným (vydaným) přede dnem nabytí účinnosti tohoto zákona (tj. před 1. červencem 2009) se projednají a rozhodnou podle dosavadních právních předpisů. Bylo-li napadené rozhodnutí vydáno dne 27. února 2009, Nejvyšší soud České republiky jako soud dovolací dovolání projednal a o něm rozhodl podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění před novelou provedenou zákonem č. 7/2009 Sb. (dále opět jen „o.s.ř.”).
+Nejvyšší soud shledal, že dovolání bylo podáno včas a osobami k tomu oprávněnými (§ 240 odst. 1 o.s.ř.). Poté se zabýval otázkou přípustnosti tohoto mimořádného opravného prostředku.
+Podle § 236 odst. 1 o.s.ř. dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti usnesení odvolacího soudu je upravena v ustanoveních § 237, § 238, § 238a a také v § 239 o.s.ř.
+Přípustnost dovolání podle § 237 o.s.ř. není dána, neboť napadeným usnesením odvolacího soudu nebylo změněno (§ 237 odst. 1 písm. a/ o.s.ř.) či potvrzeno (§ 237 odst. 1 písm. b/ a c/ o.s.ř.) rozhodnutí soudu prvního stupně, kterým bylo rozhodnuto o věci samé.
+Dovolání není přípustné ani podle § 238, § 238a odst. 1 a § 239 odst. 1 a 2 o.s.ř., protože nejde o žádný z případů v citovaných ustanovení uvedených.
+Přípustnost dovolání není možno dovodit ani z ustanovení § 239 odst. 3 o.s.ř., neboť podle tohoto ustanovení je dovolání přípustné proti usnesení odvolacího soudu, kterým bylo potvrzeno usnesení soudu prvního stupně o odmítnutí návrhu (žaloby), nikoli proti usnesení odvolacího soudu, kterým bylo odmítnuto odvolání.
+Z uvedeného vyplývá, že přípustnost dovolání nelze opřít o žádné v úvahu přicházející ustanovení. Lze proto uzavřít, že dovolání proti usnesení, jímž odvolací soud ve smyslu § 43 odst. 2 a § 211 o.s.ř. odmítl odvolání pro vady, které brání jeho projednání, není přípustné; mimořádným opravným prostředkem proti takovému rozhodnutí je podle § 229 odst. 4 o.s.ř. žaloba pro zmatečnost (srov. usnesení Nejvyššího soudu ze dne 10. 3. 2005, sp.zn. 29 Odo 837/2003, a ze dne 27. 9. 2007, sp.zn. 29 Odo 407/2007).
+Za této situace Nejvyšší soud dovolání podle § 243b odst. 5 věty první a § 218 písm. c/ o.s.ř. pro nepřípustnost odmítl, aniž se zabýval nedostatkem povinného advokátního zastoupení dovolatelů (§ 241 odst. 4 o.s.ř.).
+Výrok o nákladech dovolacího řízení se opírá o ustanovení § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o.s.ř. a o skutečnost, že žalovaným nevznikly (dle obsahu spisu) žádné náklady, na jejichž náhradu by jinak měli proti dovolatelům právo.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 16. prosince 2009
+Doc. JUDr. Věra Korecká, CSc., v. r.
+předsedkyně senátu
