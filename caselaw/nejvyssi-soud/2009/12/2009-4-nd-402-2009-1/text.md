@@ -1,0 +1,19 @@
+4 Nd 402/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Danuše Novotné a soudců JUDr. Františka Hrabce a JUDr. Petra Šabaty v právní věci žalobce Ing. P. K., bytem Královopolské Vážany 188, Rousínov, zastoupeného JUDr. Petrem Bokotejem, advokátem, proti žalovanému Česká republika – Ministerstvo spravedlnosti ČR, Vyšehradská 16, Praha 2, o zaplacení částky 300.000,- Kč, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 14 C 185/2007, o návrhu na přikázání věci z důvodu vhodnosti podle § 12 odst. 2, 3 o. s. ř., t a k t o :
+Věc vedená u Obvodního soudu pro Prahu 2 pod sp. zn. 14 C 185/2007, se nepřikazuje k projednání a rozhodnutí Okresnímu soudu ve Žďáru nad Sázavou.
+O d ů v o d n ě n í :
+V označené právní věci podal žalobce přípisem ze dne 15. 10. 2009, návrh na delegaci věci z důvodu vhodnosti k Okresnímu soudu ve Žďáru nad Sázavou.
+Návrh odůvodnil tím, že „zdejším soudem zjevně šikanózním postupem došlo na znovuvyžadování podkladů, již se ve spise nacházejících“ s tím, že obdobné šikanování hrozí i nadále.
+Žalovaný svým přípisem ze dne 13. 11. 2009 vylovil svůj nesouhlas s návrhem na delegaci věci k Okresnímu soudu ve Žďáru nad Sázavou, který odůvodnil tím, že žalobce neuvedl žádné podstatné skutečnosti, které by umožňovaly hospodárnější, rychlejší, spolehlivější nebo důkladnější projednání tímto soudem.
+Podle ustanovení § 12 odst. 2 o. s. ř. věc může být přikázána jinému soudu téhož stupně z důvodu vhodnosti.
+Podle ustanovení § 12 odst. 3 věty první o. s. ř. o přikázání věci rozhoduje soud, který je nejblíže společně nadřízen příslušnému soudu a soudu, jemuž má být věc přikázána. Podle ustanovení § 12 odst. 3 věty druhé o. s. ř. účastníci mají právo se vyjádřit k tomu, kterému soudu má být věc přikázána, a v případě odstavce 2 též k důvodu, pro který by věc měla být přikázána.
+Nejvyšší soud České republiky jako soud nejblíže společně nadřízený příslušnému soudu a soudu, jemuž má být věc přikázána, návrh na přikázání věci Okresnímu soudu ve Žďáru nad Sázavou projednal a dospěl k závěru, že v posuzovaném případě nejsou splněny zákonné podmínky k tomu, aby věc byla tomuto soudu přikázána.
+Předpokladem přikázání věci jinému soudu z důvodu vhodnosti podle ustanovení § 12 odst. 2 o. s. ř. je především existence okolností, jež umožňují hospodárnější a rychlejší projednání věci. Pokud soud přikáže věci jinému soudu podle ustanovení § 12 odst. 2 o. s. ř., aniž by pro takové rozhodnutí byly splněny podmínky, poruší tím ústavně zaručené právo zakotvené v čl. 38 odst. 1 Listiny základních práv a svobod, podle kterého nikdo nesmí být odňat svému zákonnému soudci a příslušnost soudu a soudce stanoví zákon.
+V posuzovaném případě nepovažuje Nejvyšší soud za vhodné věc přikázat Okresnímu soudu ve Žďáru nad Sázavou z důvodu vhodnosti dle § 12 odst. 2 o. s. ř. z toho důvodu, že taková delegace by zcela zjevně nemohla přispět k rychlejšímu a hospodárnějšímu projednání věci.
+Ze samotného návrhu je zřejmé, že žalobce se dožaduje přikázání věci jinému soudu toliko z důvodu své nespokojenosti s dosavadním procesním postupem Obvodního soudu pro Prahu 2, který označuje za „šikanozní“. Nejvyšší soud však z takto odůvodněného návrhu, jakož ani ze stavu projednávané věci dle obsahu spisu nedospěl k závěru, že by navrhovaná delegace mohla zjevně přispět k rychlejšímu a hospodárnějšímu projednání věci a odůvodňovala tak výjimku ze shora uvedeného ústavního principu.
+Nejvyšší soud České republiky z výše uvedených důvodů návrhu na přikázání věci Okresnímu soudu ve Žďáru nad Sázavou z důvodu vhodnosti nevyhověl a věc podle ustanovení § 12 odst. 2 o. s. ř. Okresnímu soudu ve Žďáru nad Sázavou nepřikázal.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 16. prosince 2009
+Předsedkyně senátu:
+JUDr. Danuše Novotná
