@@ -1,0 +1,16 @@
+29 Cdo 80/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Hany Gajdziokové a soudců JUDr. Petra Gemmela a Mgr. Filipa Cilečka v právní věci žalobce J. B., zastoupeného JUDr. I. W., advokátem, proti žalované JUDr. J.T., advokátce, jako správkyni konkursní podstaty úpadce Z. d.V. - v likvidaci, o určení pravosti pohledávky, vedené u Krajského soudu v Brně pod sp. zn. 15/40 Cm 6/2000, o dovolání žalobce proti rozsudku Vrchního soudu v Olomouci ze dne 5. září 2007, č. j. 9 Cmo 14/2007-177, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Vrchní soud v Olomouci v záhlaví označeným rozsudkem změnil rozsudek Krajského soudu v Brně ze dne 15. září 2006, č. j. 15/40 Cm 6/2000-147, ve výrocích, jimiž soud prvního stupně určil, že žalobce má za úpadcem Z. d. V. - v likvidaci, (dále jen „úpadce“) pohledávku z nezaplacených úroků z prodlení ve výši 1,768.382,- Kč a pohledávku z titulu náhrady škody ve výši 1,690.000,- Kč, tak, že žalobu zamítl.
+Proti rozsudku odvolacího soudu podal žalobce dovolání, odkazuje co do důvodu na ustanovení § 241a odst. 2 písm. b) občanského soudního řádu (dále jen „o. s. ř.“) a vytýkaje odvolacímu soudu nesprávnost závěru, podle něhož lhůta k podání žaloby o určení pravosti pohledávky je lhůtou hmotněprávní. Dovolatel namítá, že „přístup odvolacího soudu je v této věci výrazem právního přepjatého formalismu“ a odvolací soud pochybil, nezabýval-li se otázkou, „od kdy reálně mohl žalobce žalobu o popření pravosti pohledávek skutečně podat“. Navrhuje, aby Nejvyšší soud rozsudek odvolacího soudu zrušil a věc mu vrátil k dalšímu řízení.
+Dovolání, jež je přípustné podle ustanovení § 237 odst. 1 písm. a) o. s. ř., Nejvyšší soud odmítl podle ustanovení § 243b odst. 5 a § 218 o. s. ř. jako bezpředmětné.
+Učinil tak proto, že v průběhu dovolacího řízení Krajský soud v Brně usnesením ze dne 21. listopadu 2008, č. j. 40 K 6/99-454, které nabylo právní moci 28. srpna 2009, zrušil konkurs na majetek úpadce proto, že majetek konkursní podstaty nepostačuje k úhradě nákladů konkursu [§ 44 odst. 1 písm. d) zákona č. 328/1991 Sb., o konkursu a vyrovnání, ve znění účinném do 31. prosince 2007].
+Dovolání se tak stalo bezpředmětným v důsledku okolností nastalých po vydání napadeného rozhodnutí a je tudíž namístě jeho odmítnutí (srov. shodně usnesení Nejvyššího soudu ze dne 30. září 2009, sp. zn. 29 Cdo 917/2008, jež je veřejnosti k dispozici na webových stránkách Nejvyššího soudu), neboť i kdyby Nejvyšší soud toto přípustné dovolání věcně přezkoumal a napadené rozhodnutí případně zrušil, výsledky dovolacího přezkumu by se nemohly již v žádném směru projevit v konkursu, jímž (a pro který jedině) byl tento spor vyvolán (k tomu srov. výklad podaný ve stanovisku občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne 13. června 2007, Opjn 8/2006, uveřejněném pod číslem 74/2007 Sbírky soudních rozhodnutí a stanovisek).
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalobce bylo odmítnuto a žalované podle obsahu spisu v dovolacím řízení náklady nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 16. prosince 2009
+JUDr. Hana G a j d z i o k o v á
+předsedkyně senátu
