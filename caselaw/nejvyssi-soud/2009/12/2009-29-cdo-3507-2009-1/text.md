@@ -1,0 +1,16 @@
+29 Cdo 3507/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedkyně doc. JUDr. Ivany Štenglové a soudců Mgr. Filipa Cilečka a Mgr. Petra Šuka v právní věci navrhovatelky Utopená s. r. o. - v likvidaci, se sídlem v Praze 8 - Karlíně, Pobřežní 78/34, PSČ 186 00, identifikační číslo 40 76 70 43, zastoupené JUDr. Ilonou Pokornou, advokátkou, se sídlem v Brně, Jakubská 1, PSČ 602 00, proti Ing. I. J., o zaplacení 4,440.000,- Kč, vedené u Městského osudu v Praze pod sp. zn. 34 Cm 15/98, o dovolání navrhovatelky proti rozsudku Vrchního soudu v Praze ze dne 16. ledna 2007, č. j. 14 Cmo 239/2006 – 206, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů odvolacího řízení.
+O d ů v o d n ě n í:
+Napadeným rozsudkem potvrdil odvolací soud rozsudek Městského soudu v Praze ze dne 25. srpna 2004, č. j. 34 Cm 15/98 – 139, kterým tento soud zamítl návrh na zaplacení 4,440.000,- Kč s 18% úrokem z prodlení z částky 1,100.000,- Kč od 1. ledna 1995 do zaplacení, s 18% úrokem z prodlení z částky 1,110.000,- Kč od 1. ledna 1996 do zaplacení, s 18% úrokem z prodlení z částky 1,110.000,- Kč od 1. ledna 1997 do zaplacení a s 18% úrokem z prodlení z částky 1,110.000,- Kč od 1. ledna 1998 do zaplacení a uložil žalované zaplatit Ing. I. J. na nákladech řízení 98.550,- Kč.
+Proti rozsudku odvolacího soudu podala navrhovatelka dovolání, jež Nejvyšší soud podle ustanovení § 243b odst. 5, § 218 písm. c) zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), odmítl.
+Učinil tak proto, že dovolání proti potvrzujícímu výroku rozhodnutí ve věci samé může být přípustné pouze podle ustanovení § 237 odst. 1 písm. c) o. s. ř. [o situaci předvídanou v ustanovení § 237 odst. 1 písm. b) o. s. ř. nejde], tedy tak, že dovolací soud – jsa přitom vázán obsahem dovolání (§ 242 odst. 3 o. s. ř.) – dospěje k závěru, že napadené rozhodnutí má po právní stránce zásadní význam. Otázky, jež dovolatelka předkládá Nejvyššímu soudu, však napadený rozsudek zásadně právně významným nečiní.
+Tvrzeními, jimiž vytýká odvolacímu soudu, že nesprávně posoudil obsah jejího procesního úkonu – doplnění skutkových tvrzení – jako změnu návrhu, popřípadě že nesprávně posoudil splnění podmínek pro změnu návrhu, kterými vystihuje dovolací důvod vymezený v ustanovení § 241a odst. 2 písm. a) o. s. ř. jenž nemá u dovolání přípustného toliko podle ustanovení § 237 odst. 1 písm. c) o. s. ř. zásadně k dispozici (srov. shodně usnesení Ústavního soudu ze dne 7. března 2006, sp. zn. III. ÚS 10/06, uveřejněné v časopise Soudní judikatura číslo 9, ročník 2006, pod číslem 130 a ze dne 15. listopadu 2007, sp. zn. III. ÚS 372/06), přípustnost dovolání v projednávané věci založit nelze.
+Důvod připustit dovolání podle § 237 odst. 1 písm. c) o. s. ř. proto Nejvyšší soud neměl a podle jiných ustanovení občanského soudního řádu dovolání přípustné není.
+O náhradě nákladů dovolacího řízení Nejvyšší soud rozhodl podle ustanovení § 243b odst. 5, věty první, § 224 odst. 1, § 146 odst. 3 o. s. ř., neboť dovolatelka s ohledem na výsledek řízení na jejich náhradu nemá právo a Ing. I. J. v dovolacím řízení náklady nevznikly.
+Proti tomuto rozhodnutí není opravný prostředek přípustný.
+V Brně dne 16. prosince 2009
+doc. JUDr. Ivana Š t e n g l o v á
+předsedkyně senátu
