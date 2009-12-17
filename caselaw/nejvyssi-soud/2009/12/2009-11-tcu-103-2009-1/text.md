@@ -1,0 +1,16 @@
+11 Tcu 103/2009
+U S N E S E N Í
+Nejvyšší soud České republiky projednal žádost Rumunska o povolení průvozu S. I., a rozhodl v neveřejném zasedání dne 17. prosince 2009 podle § 423 a § 424 tr. ř. t a k t o :
+Povoluje se p r ů v o z vydávané osoby S. I., státního občana Rumunska, územím České republiky do Rumunska pro účely trestního stíhání pro trestný čin vraždy podle čl. 37a, 174 odst. 1, čl. 175 odst. 1 písm. c) trestního zákona Rumunska.
+Po dobu průvozu bude vydávaná osoba držena ve vazbě.
+O d ů v o d n ě n í :
+Ministerstvo spravedlnosti Rumunska požádalo dne 14. prosince 2009, pod č. j. 27354/2009, na základě čl. 25 Rámcového rozhodnutí Rady Evropské unie ze dne 13. června 2002, o evropském zatýkacím rozkazu a postupech předávání mezi členskými státy, o povolení průvozu rumunského občana S. I. územím České republiky. Průvoz se má uskutečnit v rámci vydání jmenovaného z Norského království do Rumunska k trestnímu stíhání pro trestný čin vraždy podle čl. 37a, 174 odst. 1, čl. 175 odst. 1 písm. c) trestního zákona Rumunska, a to leteckou cestou s mezipřistáním v Praze dne 18. prosince 2009.
+Trestní stíhání vydávaného se vztahuje k trestné činnosti spočívající v podstatě v tom, že v noci ze 16. na 17. dubna 2008 svému otci D. S., s nímž byl v dlouhodobém konfliktu, tupými předměty opakovaně zasadil rány do různých částí těla, a to i do oblastí, v nichž jsou uloženy orgány zajišťující základní životní funkce, a způsobil mu tak pohmoždění hrudníku a břicha, zlomeniny žeber a roztržení sleziny, v důsledku nichž poškozený zemřel.
+Nejvyšší soud České republiky projednal žádost Ministerstva spravedlnosti Rumunska z hlediska splnění právních podmínek vyžadovaných vnitrostátní úpravou, to znamená § 423 tr. ř., který byl aplikován ve smyslu § 424 tr. ř. obdobně. Při obdobné aplikaci § 423 tr. ř. vycházel Nejvyšší soud rovněž z čl. 25 odst. 5 Rámcového rozhodnutí Rady Evropské unie ze dne 13. června 2002, o evropském zatýkacím rozkazu a postupech předávání mezi členskými státy (dále jen „Rámcové rozhodnutí“), který pro případ průvozu osoby z třetí země do členského státu stanoví obdobné použití čl. 25 Rámcového rozhodnutí. Tento čl. 25 je pak do české právní úpravy implementován zejména § 422 tr. ř. Vzhledem k tomu, že § 423 tr. ř. nestanoví podmínky, za kterých může být průvoz povolen, dospěl Nejvyšší soud k závěru, že s ohledem na účel právní úpravy vyjádřený v Rámcovém rozhodnutí je třeba v tomto případě postupovat způsobem popsaným v § 422 tr. ř. a čl. 25 Rámcového rozhodnutí.
+Nejvyšší soud zjistil, že v posuzovaném případě jde o vydání z Norského království do Rumunska, tedy z třetího státu do země Evropské unie, za účelem trestního stíhání. Dále zjistil z výpisu z centrální evidence obyvatel, že vydávaná osoba není občanem České republiky.
+Jelikož nebyly zjištěny žádné právní překážky, které by bránily povolení průvozu vydávaného S. I. územím České republiky pro účely jeho trestního stíhání v Rumunsku, Nejvyšší soud České republiky žádosti Ministerstva spravedlnosti Rumunska vyhověl.
+Zároveň rozhodl o nutném opatření omezujícím osobní svobodu vydávané osoby v době průvozu územím České republiky.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 17. prosince 2009
+Předseda senátu:
+JUDr. Antonín Draštík
