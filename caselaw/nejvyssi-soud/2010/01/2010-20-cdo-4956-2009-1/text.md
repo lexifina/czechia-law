@@ -1,0 +1,15 @@
+20 Cdo 4956/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Olgy Puškinové a soudců JUDr. Vladimíra Mikuška a JUDr. Miroslavy Jirmanové v exekuční věci oprávněného T. O. C. R., a.s., zastoupeného advokátkou, proti povinnému Bc. L. R., zastoupenému advokátkou, pro 11.845,- Kč, vedené u Okresního soudu ve Frýdku-Místku pod sp. zn. 26 Nc 6997/2005, o dovolání povinného proti usnesení Krajského soudu v Ostravě ze dne 19. prosince 2008, č. j. 66 Co 1183/2008 - 56, a proti usnesení Okresního soudu ve Frýdku-Místku ze dne 17. října 2008, č. j. 26 Nc 6997/2005 - 48, takto:
+I. Řízení o dovolání proti usnesení Okresního soudu ve Frýdku-Místku ze dne 17. října 2008, č. j. 26 Nc 6997/2005 - 48, se zastavuje.
+II. Dovolání proti usnesení Krajského soudu v Ostravě ze dne 19. prosince 2008, č. j. 66 Co 1183/2008 - 56, se odmítá.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.):
+Shora označeným usnesením krajský soud potvrdil usnesení ze dne 17. 10. 2008, č. j. 26 Nc 6997/2005 - 48, jímž Okresní soud ve Frýdku-Místku zprostil JUDr. V. B., advokáta, povinnosti zastupovat povinného.
+V podání ze dne 31. 3. 2009, doručeném okresnímu soudu dne 6. 4. 2009, nazvaném jako „dovolání ve věci zrušení zastupování advokátem JUDr. V. B.“, povinný (který toto podání sepsal a podepsal) brojil proti usnesením soudů obou stupňů.
+Dovolání proti usnesení, kterým odvolací soud potvrdil usnesení, jímž soud prvního stupně zprostil advokáta povinnosti zastupovat povinného, občanský soudní řád ve znění po novele provedené zákonem č. 30/2000 Sb. nepřipouští (srov. § 236 - § 239 o. s. ř.). Nejvyšší soud proto, aniž zohledňoval nedostatek nuceného zastoupení dovolatele v dovolacím řízení (srov. § 241b odst. 2 o. s. ř.), dovolání povinného proti usnesení Krajského soudu v Ostravě ze dne 19. 12. 2008, č. j. 66 Co 1183/2008 - 56, podle § 243b odst. 5, věty první, a § 218 písm. c) o. s. ř. odmítl.
+Usnesení soudu prvního stupně dovoláním úspěšně napadnout nelze. Z ustanovení § 236 odst. 1 o. s. ř., plyne, že dovolání je mimořádným opravným prostředkem proti pravomocnému rozhodnutí odvolacího soudu. Opravným prostředkem pro přezkoumání rozhodnutí soudu prvního stupně je podle § 201 o. s. ř. odvolání, pokud to zákon nevylučuje. Občanský soudní řád proto také neupravuje funkční příslušnost soudu pro projednání dovolání proti rozhodnutí soudu prvního stupně. Jelikož nedostatek funkční příslušnosti je neodstranitelným nedostatkem podmínky řízení, Nejvyšší soud řízení o „dovolání“, pokud směřuje proti usnesení soudu prvního stupně, podle § 243c odst. 1 a § 104 odst. 1, věty první, o. s. ř. zastavil (srov. usnesení Nejvyššího soudu ze dne 31. 8. 1999, sp. zn. 20 Cdo 1574/99, uveřejněné v časopise Soudní judikatura 4/2000 pod č. 45).
+O případných nákladech dovolacího řízení bude rozhodnuto podle ustanovení hlavy VI. exekučního řádu.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 20. ledna 2010
+JUDr. Olga Puškinová, v. r.
+předsedkyně senátu
