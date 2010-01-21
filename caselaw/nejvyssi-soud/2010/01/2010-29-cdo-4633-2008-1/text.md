@@ -1,0 +1,20 @@
+29 Cdo 4633/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Krčmáře a soudců Mgr. Filipa Cilečka a JUDr. Petra Gemmela ve věci žalobkyně h.cz a. s., zastoupené JUDr. PhDr. O. Ch., advokátem, proti žalované JUDr. K. M., advokátce, jako správkyni konkursní podstaty úpadce A. B., zastoupené Mgr. L. P., advokátem, se o vyloučení nemovitostí ze soupisu majetku konkursní podstaty úpadce, vedené u Krajského soudu v Ostravě pod sp. zn. 20 Cm 7/99, o dovolání žalobkyně proti rozsudku Vrchního soudu v Olomouci ze dne 27. května 2008, č. j. 6 Cmo 27/2007-376, takto:
+I. Dovolání se odmítá.
+II. Žalobkyně je povinna zaplatit žalované na náhradu nákladů dovolacího řízení částku 3.060,- Kč, do tří dnů od právní moci tohoto usnesení, k rukám zástupce žalované.
+O d ů v o d n ě n í :
+Vrchní soud v Olomouci v záhlaví označeným rozsudkem potvrdil rozsudek ze dne 21. prosince 2006, č. j. 20 Cm 7/99-338, kterým Krajský soud v Ostravě zamítl žalobu, jíž se žalobkyně proti žalované domáhala vyloučení ve výroku specifikovaných nemovitostí ze soupisu majetku konkursní podstaty úpadce.
+Žalobkyně podala proti rozsudku odvolacího soudu dovolání, majíc je za přípustné pro řešení otázky platnosti úkonu, kterým vlastník - po předchozím souhlasu navrhovatele předběžného opatření - nakládal s nemovitostmi, ohledně nichž soud předběžným opatřením jakoukoli dispozici zakázal.
+Nejvyšší soud dovolání podle ustanovení § 243b odst. 5 věty první a § 218 písm. c/ zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“) odmítl.
+Učinil tak proto, že dovolatelka polemikou se skutkovým závěrem odvolacího soudu, podle něhož souhlas navrhovatele předběžného opatření k dispozici s předmětnými nemovitostmi dán nebyl, vystihuje dovolací důvod vymezený v ustanovení § 241a odst. 3 o. s. ř., jenž nemá u dovolání přípustného toliko podle ustanovení § 237 odst. 1 písm. c/ o. s. ř. k dispozici (srov. usnesení Nejvyššího soudu uveřejněné pod číslem 48/2006 Sbírky soudních rozhodnutí a stanovisek nebo usnesení Ústavního soudu ze dne 7. března 2006, sp. zn. III. ÚS 10/06, uveřejněné v časopise Soudní judikatura číslo 9 ročník 2006, pod číslem 130 a ze dne 15. listopadu 2007, sp. zn. III. ÚS 372/06).
+Dále pak proto, že odvolací soud založil své rozhodnutí na závěru formulovaném a odůvodněném již v rozsudku uveřejněném pod číslem 59/2001 Sbírky soudních rozhodnutí a stanovisek, podle něhož je kupní smlouva, kterou prodávající porušil zákaz převodu věci (nemovitosti) uložený mu vykonatelným předběžným opatřením ve smyslu § 76 odst. 1 písm. e/ o. s. ř., absolutně neplatná pro rozpor se zákonem.
+K tomuto závěru, jenž - jak správně uvedl odvolací soud - vychází z výkladu občanského soudního řádu v době, kdy ještě taková jednání nesankcionoval neplatností výslovně (srov. ustanovení § 76f odst. 1 o. s. ř.), se Nejvyšší soud přihlásil i v rozsudku uveřejněném pod číslem 30/2005 Sbírky soudních rozhodnutí a stanovisek.
+Od uvedených závěrů se Nejvyšší soud nemá důvod odchýlit ani v projednávané věci.
+Důvod připustit dovolání podle § 237 odst. 1 písm. c/ o. s. ř. proto Nejvyšší soud neměl a podle jiných ustanovení občanského soudního řádu dovolání přípustné být nemůže.
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalobkyně bylo odmítnuto a žalované vzniklo právo na náhradu nákladů dovolacího řízení. Náklady žalované sestávají z paušální odměny advokáta za řízení v jednom stupni (za dovolací řízení) určené podle ustanovení § 8, § 10 odst. 3, § 14 odst. 1, § 15 a § 18 odst. 1 vyhlášky č. 484/2000 Sb. ve výši 2.250,- Kč a z paušální částky náhrady hotových výdajů ve výši 300,- Kč za jeden úkon právní služby (vyjádření k dovolání) podle ustanovení § 13 odst. 3 vyhlášky č. 177/1996 Sb., a celkem s připočtením náhrady za 20 % daň z přidané hodnoty činí 3.060,- Kč.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+Nesplní-li povinná dobrovolně, co jí ukládá vykonatelné rozhodnutí, může se oprávněná domáhat výkonu rozhodnutí.
+V Brně 21. ledna 2010
+JUDr. Zdeněk K r č m á ř
+předseda senátu
