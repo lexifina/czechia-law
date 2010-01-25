@@ -1,0 +1,18 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+23 Cdo 3688/2009-242
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedkyně JUDr. Kateřiny Hornochové a soudců JUDr. Pavla Příhody a JUDr. Ing. Jana Huška ve věci žalobkyně G. a.s., proti žalované A., spol. s r.o., o zaplacení 86 179,20 Kč s příslušenstvím, vedené u Krajského soudu v Brně pod sp. zn. 49/43 Cm 57/2000, o dovolání žalované proti rozsudku Vrchního soudu v Olomouci ze dne 29. května 2006, č. j. 2 Cmo 1/2004-159, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í :
+Vrchní soud v Olomouci rozsudkem ze dne 29. května 2006, č. j. 2 Cmo 1/2004-159, výrokem II. potvrdil rozsudek Krajského soudu v Brně ze dne 26. září 2003, č.j. 49/43 Cm 57/2000-100, ve výroku III. ohledně povinnosti žalované zaplatit žalobkyni 86 179,20 Kč se 17% úrokem z prodlení od 15.2.2000 do zaplacení.
+Proti rozsudku odvolacího soudu ve výroku II. ohledně zaplacení 86 179,20 Kč s příslušenstvím podala žalovaná dovolání, v němž namítá nesprávné právní posouzení nároku žalobkyně na doplacení zbývající ceny díla ve výši 86 179,20 Kč bez DPH na základě smlouvy o dílo ze dne 2.2.1996. Má za to, že nebylo dostatečně prokázáno, kdo je objednatelem díla a kdo dílo převzal a je povinen dílo zaplatit.
+Podle článku II. bodu 12 zákona č. 7/2009 Sb., obsahujícího přechodná ustanovení k novele občanského soudního řádu provedené tímto zákonem, dovolání proti rozhodnutím odvolacího soudu vyhlášeným (vydaným) přede dnem nabytí účinnosti tohoto zákona (t. j. před 1.7.2009) se projednají a rozhodnou podle dosavadních právních předpisů. S ohledem na den, kdy bylo vydáno rozhodnutí odvolacího soudu (29.5.2006), bylo tedy v řízení o dovolání postupováno podle občanského soudního řádu ve znění před novelou provedenou zákonem č. 7/2009 Sb. (dále jen „o. s. ř.“).
+Z obchodního rejstříku vedeného Krajským soudem v Brně, v oddíle C, vložce 4374, Nejvyšší soud České republiky (dále jen „Nejvyšší soud“) jako soud dovolací (§ 10a o. s. ř.) zjistil, že žalovaná byla ke dni 18. července 2008 vymazána z obchodního rejstříku bez právního nástupce po zamítnutí návrhu na prohlášení konkursu pro nedostatek majetku žalované společnosti.
+Z ustanovení § 107 zákona č. 99/1963 Sb. o. s. ř. vyplývá, že jestliže účastník ztratí po zahájení řízení způsobilost být účastníkem řízení dříve, než bylo řízení pravomocně skončeno, posoudí soud podle povahy věci, zda v řízení může pokračovat. Není-li možné v řízení ihned pokračovat, soud řízení přeruší. O tom, s kým bude v řízení pokračováno, soud rozhodne usnesením (odstavec 1). Ztratí-li způsobilost být účastníkem řízení právnická osoba a umožňuje-li povaha věci pokračovat v řízení, jsou jejím procesním nástupcem, nestanoví-li zákon jinak, ti, kteří po zániku právnické osoby vstoupili do jejích práv a povinností, popřípadě ti, kteří po zániku právnické osoby převzali práva a povinnosti, o něž v řízení jde (odstavec 3). Neumožňuje-li povaha věci v řízení pokračovat, soud řízení zastaví (odstavec 5 věta první).
+Protože žalovaná společnost výmazem z obchodního rejstříku ke dni výmazu z obchodního rejstříku zanikla (§ 68 odst. 1 zákona č. 513/1991 Sb., obchodního zákoníku) a ztratila tak způsobilost mít práva a povinnosti a rovněž způsobilost být účastníkem řízení (§ 19 o. s. ř.), a není zde právního nástupce, Nejvyšší soud dovolací řízení podle ustanovení § 243c a § 107 o. s. ř. zastavil.
+O nákladech řízení nebylo rozhodnuto, protože po zániku žalované zde není subjekt, jemuž (případně v jehož prospěch) by bylo možné náhradu nákladů řízení uložit.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 25. ledna 2010
+JUDr. Kateřina H o r n o c h o v á
+předsedkyně senátu
