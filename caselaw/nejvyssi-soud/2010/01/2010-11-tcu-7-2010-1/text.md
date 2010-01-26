@@ -1,0 +1,15 @@
+11 Tcu 7/2010
+U S N E S E N Í
+Nejvyšší soud České republiky projednal žádost Rumunska o povolení průvozu C. S. , státního občana Rumunska, a rozhodl v neveřejném zasedání dne 26. ledna 2010 podle § 422 tr. ř. t a k t o :
+Povoluje se p r ů v o z předávané osoby C. S. , státního občana Rumunska, územím České republiky z Finské republiky do Rumunska pro účely výkonu trestu odnětí svobody v trvání dvou roků a osmi měsíců, který mu byl uložen rozsudkem Soudu první instance v Roman ze dne 26. června 2007, č. 316, Rumunsko.
+Po dobu průvozu bude předávaná osoba držena ve vazbě.
+O d ů v o d n ě n í :
+Ministerstvo spravedlnosti Rumunska požádalo dne 22. ledna 2010 na základě čl. 25 Rámcového rozhodnutí Rady Evropské unie ze dne 13. června 2002, o evropském zatýkacím rozkazu a o předávání mezi členskými státy Evropské unie, o povolení průvozu rumunského státního občana C. S. územím České republiky. Průvoz se má uskutečnit v rámci předání jmenovaného z Finské republiky do Rumunska na základě evropského zatýkacího rozkazu vydaného dne 7. 3. 2008 Soudem první instance v Roman, Rumunsko, k výkonu trestu odnětí svobody v trvání dvou roků a osmi měsíců, a to pro trestný čin nedovoleného překročení státní hranice podle čl. 70 odst. 1 vládního nařízení č. 105/2001 a čl. 37 písm. a) trestního zákona Rumunska, trestný čin neoprávněného průchodu cizím státem podle čl. 1 odst. 1 vládního nařízení č. 112/2001 a čl. 41 odst. 2, čl. 42 a čl. 37 písm. a) trestního zákona Rumunska, a trestný čin padělání osobních údajů podle čl. 293 odst. 1, čl. 37 písm. a) a čl. 83 odst. 1 trestního zákona Rumunska. Průvoz se má uskutečnit leteckou cestou s mezipřistáním v P. dne 29. ledna 2010.
+Uvedené trestné činnosti se měl předávaný dopustit v podstatě tím, že během měsíce září 2005 i přes zákaz nelegálně vycestoval do Italské republiky, když v nočních hodinách neoprávněně překročil v oblasti J. státní hranici s Republikou Srbsko a pokračoval dále do Chorvatské republiky, Republiky Slovinsko a Italské republiky, kde se usadil v městě M. Když se ho italské orgány snažily později vyhostit, prokázal se falešnými osobními doklady.
+Nejvyšší soud České republiky projednal předloženou žádost z hlediska splnění právních podmínek a náležitostí vyžadovaných vnitrostátní úpravou (§ 422 tr. ř.). Zjistil, že v posuzovaném případě jde o předání z Finské republiky do Rumunska za účelem výkonu trestu odnětí svobody v Rumunsku. Z výpisu z centrální evidence obyvatel je pak zřejmé, že předávaná osoba není státním občanem České republiky a na jejím území nemá hlášen ani trvalý pobyt.
+Jelikož nebyly zjištěny žádné právní překážky, které by bránily povolení průvozu předávaného C. S. územím České republiky pro účely výkonu trestu odnětí svobody v Rumunsku, tak Nejvyšší soud České republiky žádosti Rumunska vyhověl.
+Zároveň rozhodl o nutném opatření omezujícím osobní svobodu vydávané osoby v době průvozu územím České republiky.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 26. ledna 2010
+Předseda senátu:
+JUDr. Antonín Draštík
