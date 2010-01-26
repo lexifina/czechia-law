@@ -1,0 +1,16 @@
+11 Tcu 87/2009
+U S N E S E N Í
+Nejvyšší soud České republiky projednal dne 26. ledna 2010 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na zápis odsouzení cizozemským soudem do evidence Rejstříku trestů, a rozhodl t a k t o :
+Zamítá se návrh Ministerstva spravedlnosti České republiky na zaznamenání údajů do evidence Rejstříku trestů o odsouzení občana České republiky L. B. rozsudkem Obvodového soudu v Plauen, Spolková republika Německo, ze dne 28. 4. 2004, sp. zn. 5 Ls 550 Js 3041/04.
+O d ů v o d n ě n í :
+Výše uvedeným rozsudkem Obvodového soudu v Plauen, Spolková republika Německo, který nabyl právní moci dne 6. 5. 2004, byl L. B. uznán vinným trestným činem krádeže se zbraní a pokusem trestného činu krádeže se zbraní podle § 242 odst. 1, § 244 odst. 1 č. 1a a odst. 2, § 22, § 23 a § 53 trestního zákona Spolkové republiky Německo a odsouzen k trestu odnětí svobody v trvání dvou let a pěti měsíců.
+Uvedené trestné činnosti se odsouzený dopustil podle zjištění soudu následujícím způsobem:
+Dne 27. 1. 2004, po 17:00 hod., pronikl po prolomení vstupních dveří do lovecké chaty poškozeného S. K. K. v R. S., M., Spolková republika Německo, a poté co v chatě hledal vhodné předměty k odcizení a přenocoval v ní, z chaty odcizil láhev sektu a dvě láhve tvrdého alkoholu v celkové hodnotě 20 EUR, přičemž prolomením dveří způsobil věcnou škodu ve výši 30 EUR. Při tomto činu měl u sebe nůž o délce 24 cm.
+Dne 28. 1. 2004, ve večerních hodinách, pronikl po rozbití okna zadní stěny do prostor myčky J. v E. S., M., Spolková republika Německo, a odcizil zde různé nástroje a potraviny v celkové hodnotě 1 675,39 EUR, přičemž na budově způsobil věcnou škodu ve výši 700 EUR. Rovněž při tomto činu měl u sebe nůž o délce 24 cm.
+Dne 29. 1. 2004, v ranních hodinách, se pokusil odcizit osobní vůz zn. Renault 19, patřící poškozené S. W., který byl odstaven ve shora uvedené myčce J., a to tím způsobem, že odmontoval obložení kolem řízení, aby se dostal k zámku zapalování a mohl vůz nastartovat, přičemž způsobil škodu ve výši 200 EUR. Stejně jako v předchozích případech měl i při tomto činu u sebe nůž o délce 24 cm.
+Ministerstvo spravedlnosti České republiky podalo dne 1. 10. 2009, pod č. j. 321/2009–MOT–T/9, podle § 4 odst. 2 zákona č. 269/1994 Sb., o Rejstříku trestů (dále jen „zákon“), Nejvyššímu soudu České republiky (dále jen „Nejvyšší soud“) návrh na zapsání výše uvedeného odsouzení německým soudem do evidence Rejstříku trestů České republiky.
+Nejvyšší soud České republiky věc přezkoumal a shledal, že nejsou splněny zákonné podmínky pro zápis odsouzení cizozemským soudem do evidence Rejstříku trestů. V posuzovaném případě Nejvyšší soud zjistil, že v dané věci již jednou rozhodl usnesením ze dne 18. 1. 2006, sp. zn. 11 Tcu 156/2005, a to na návrh Ministerstva spravedlnosti České republiky ze dne 15. 11. 2005, doručený Nejvyššímu soudu dne 22. 11. 2005, č. j. 4621/2001–MO–M. Tímto usnesením Nejvyšší soud návrhu vyhověl a rozhodl, že se údaje o shora citovaném odsouzení do evidence Rejstříku trestů České republiky zaznamenají.
+Z uvedených důvodů proto Nejvyšší soud nyní projednávanému návrhu Ministerstva spravedlnosti České republiky nevyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 26. ledna 2010
+Předseda senátu: JUDr. Karel Hasch
