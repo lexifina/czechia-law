@@ -1,0 +1,19 @@
+20 Cdo 656/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Vladimíra Mikuška a soudkyň JUDr. Olgy Puškinové a JUDr. Miroslavy Jirmanové v exekuční věci oprávněné P. p., a. s., proti povinnému L. B., zastoupenému advokátkou , pro částku 6.277,90 Kč s příslušenstvím, o zastavení exekuce, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 13 Nc 16800/2003, o dovolání povinného proti usnesení Městského soudu v Praze z 13. 7. 2007, č. j. 15 Co 289/2007-24, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Shora označeným rozhodnutím městský soud potvrdil usnesení z 12. 4. 2007, č. j. 13 Nc 16800/2003-15, jímž obvodní soud zamítl návrh povinného na zastavení exekuce. Odvolací soud své rozhodnutí odůvodnil závěrem, že exekuce byla provedena pouze částečně, jelikož částka dosud povinným uhrazená představuje pouze vymáhanou pohledávku s příslušenstvím a náklady oprávněného, nikoli však již náklady exekuce, které tedy dosud uhrazeny nebyly. Kromě toho z vyjádření exekutora (č. l. 9) plyne, že povinný plnil v rámci exekuce k rukám exekutora, nikoli tedy mimo exekuci, takže jeho plnění nelze považovat za dobrovolné.
+V dovolání – aniž se zabývá otázkou jeho přípustnosti – povinný bez specifikace dovolacího důvodu stejně jako v odvolání namítá, že „na základě jediné kalkulace, kterou od soudního exekutora obdržel, řádně uhradil jím požadovanou částku 14.988,- Kč v hotovosti dne 27. 2. 2004. Částka 34.238,- Kč je zcela v rozporu s vyúčtováním jemu předaným a jím v dobré víře uhrazeným“. Náklady exekuce měly být podle jeho názoru obsaženy v onom vyúčtování, nelze tedy po něm dodatečně požadovat jakékoli další plnění.
+Nejvyšší soud věc projednal podle občanského soudního řádu ve znění účinném do 30.6.2009 (čl. II Přechodných ustanovení, bod 12, zákona č. 7/2009 Sb.).
+Dovolání není přípustné.
+Podle ustanovení § 236 odst. 1 o.s.ř. lze dovoláním napadnout jen pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Ve smyslu ustanovení § 237 odst. 1 písm. c) o.s.ř. – jež podle § 238a odst. 2 o.s.ř. platí obdobně a podle něhož je přípustnost dovolání nutno v předmětné věci posuzovat vedle ustanovení § 238a odst. 1 písm. c) o.s.ř. – je dovolání proti potvrzujícímu usnesení odvolacího soudu, kterému nepředcházelo kasační rozhodnutí, přípustné jen, dospěje-li dovolací soud k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam; ten je dán zejména tehdy, řeší-li rozhodnutí odvolacího soudu právní otázku, která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo která je odvolacími soudy nebo dovolacím soudem rozhodována rozdílně, nebo řeší-li ji v rozporu s hmotným právem (§ 237 odst. 3 o.s.ř.).
+Z toho, že přípustnost dovolání je ve smyslu shora citovaných ustanovení spjata se závěrem o zásadním významu rozhodnutí ve věci samé po právní stránce, vyplývá, že také dovolací přezkum se otevírá pro posouzení otázek právních, navíc otázek zásadního významu. Důvodem způsobilým založit přípustnost dovolání je tudíž jen důvod podle § 241a odst. 2 písm. b) o.s.ř., jímž lze namítat, že rozhodnutí spočívá na nesprávném právním posouzení věci.
+Povinný však tento jediný k založení přípustnosti dovolání podle § 237 odst. 1 písm. c) o.s..ř způsobilý dovolací důvod neuplatnil (jeho námitka, že uhradil exekutorem požadovanou částku 14.988,- Kč, a že tudíž po něm nelze dodatečně požadovat jakékoli další plnění, není dokonce uplatnitelná žádným z taxativně vymezených dovolacích důvodů).
+Poněvadž tedy dovolání není přípustné podle žádného z výše uvedených ustanovení, Nejvyšší soud je bez nařízení jednání (§ 243a odst. 1 věta první o.s.ř.) podle ustanovení § 243b odst. 5, § 218 písm. c) o.s.ř. odmítl.
+O případné náhradě nákladů dovolacího řízení bude rozhodnuto v režimu hlavy VI exekučního řádu.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 27. ledna 2010
+JUDr. Vladimír M i k u š e k , v. r.
+předseda senátu
