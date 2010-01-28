@@ -1,0 +1,22 @@
+33 Cdo 132/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Václava Dudy a soudců JUDr. Blanky Moudré a JUDr. Pavla Krbka v právní věci žalobce M. P., zastoupeného advokátem, proti žalované A. N., o zaplacení 1,255.609,55 Kč s příslušenstvím, za účasti vedlejšího účastníka na straně žalované Ing. V. N., vedené u Městského soudu v Praze pod sp. zn. 33 Cm 52/2003, o dovolání žalované a vedlejšího účastníka proti rozsudku Městského soudu v Praze ze dne 9. března 2006 č. j. 33 Cm 52/2003-76, a proti usnesení Vrchního soudu v Praze ze dne 17. července 2007, č. j. 6 Cmo 112/2007-145, takto:
+I. Řízení o dovolání žalované a vedlejšího účastníka proti rozsudku Městského soudu v Praze ze dne 9. března 2006 č. j. 33 Cm 52/2003-76, se zastavuje.
+II. Dovolání žalované a vedlejšího účastníka proti usnesení Vrchního soudu v Praze ze dne 17. července 2007, č. j. 6 Cmo 112/2007-145, se odmítá.
+III. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Praze (dále jen „soud prvního stupně“) rozsudkem ze dne 9. března 2006, č. j. 33 Cm 52/2003-76, uložil žalované povinnost zaplatit žalobci 1,255.609,55 Kč s 18 % úrokem z prodlení od 17. 3. 1992 až do zaplacení; zároveň rozhodl o nákladech řízení.
+Proti tomuto rozsudku podali žalovaná a vedlejší účastník vystupující v řízení na její straně - Ing. V. N. – odvolání. Řízení o jejich odvoláních bylo usnesením Městského soudu v Praze ze dne 25. července 2006, č. j. 33 Cm 52/2003-107, pro nezaplacení soudního poplatku z odvolání, zastaveno. Odvolání jen vedlejšího účastníka proti tomuto usnesení Městský soud v Praze usnesením ze dne 11. října 2006, č. j. 33 Cm 52/2003-118, pro opožděnost odmítl. Vrchní soud v Praze usnesením ze dne 17. července 2007, č. j. 6 Cmo 112/2007-145, usnesení Městského soudu v Praze ze dne 11. října 2006, č. j. 33 Cm 52/2003-118, potvrdil a rozhodl o nákladech odvolacího řízení.
+Žalovaná a vedlejší účastník - každý samostatně - podali proti rozsudku Městského soudu v Praze ze dne 9. března 2006, č. j. 33 Cm 52/2003-76, a proti usnesení Vrchního soudu v Praze ze dne 17. července 2007, č. j. 6 Cmo 112/2007-145, dovolání.
+Dovolání je mimořádným opravným prostředkem, jímž lze napadnout výhradně rozhodnutí odvolacího soudu. Občanský soudní řád tudíž ani neupravuje funkční příslušnost soudu pro projednání dovolání proti rozhodnutí soudu prvního stupně. Nedostatek funkční příslušnosti je takovým nedostatkem podmínky řízení, který nelze odstranit. Nejvyšší soud ČR proto podle § 104 odst. 1 věty prvé ve spojení s § 243c odst. 1 o. s. ř. řízení o dovolání žalované i vedlejšího účastníka směřujícím proti rozsudku Městského soudu v Praze jako soudu prvního stupně zastavil (blíže srovnej např. usnesení Nejvyššího soudu ČR ze dne 31. srpna 1999, sp. zn. 20 Cdo 1574/99, publikované v časopise Soudní judikatura pod č. 45/2000).
+Vzhledem k tomu, že v zákoně je výslovně upravena legitimace vedlejšího účastníka pouze k podání odvolání, žaloby na obnovu řízení a žaloby pro zmatečnost (srov. ustanovení § 203 odst. 1 a § 231 odst. 1 o. s. ř.), zatímco o jeho oprávnění podat dovolání zákon nic neuvádí, je třeba dovodit, že mu zákon oprávnění podat dovolání nedává (k tomu srovnej usnesení Nejvyššího soudu ČR ze dne 27. 5. 2003, sp. zn. 25 Cdo 162/2003, publikované ve Sbírce soudních rozhodnutí a stanovisek pod R 3/2004).
+Jelikož v posuzovaném případě podal dovolání proti usnesení Vrchního soudu v Praze ze dne 17. července 2007, č. j. 6 Cmo 112/2007-145, vedlejší účastník na straně žalované, který k tomu není oprávněn, Nejvyšší soud jeho dovolání podle ustanovení § 243b odst. 5 věty první a § 218 písm. b) o. s. ř. odmítl.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti usnesení odvolacího soudu upravují ustanovení § 237 až § 239 o. s. ř.
+Dovolání žalované není přípustné podle § 237 o. s. ř., neboť usnesení, kterým odvolací soud potvrdil rozhodnutí soudu prvního stupně o odmítnutí odvolání pro opožděnost, není rozhodnutím ve věci samé.
+Přípustnost dovolání nelze dovodit ani z § 238, § 238a a § 239 o. s. ř., jelikož napadené usnesením nelze podřadit pod žádný z případů v těchto ustanoveních taxativně vypočtených.
+Nejvyšší soud proto dovolání žalované odmítl [§ 243b odst. 5 věta první, § 218 písm. c) o. s. ř.].
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 28. ledna 2010
+JUDr. Václav D u d a, v. r.
+předseda senátu
