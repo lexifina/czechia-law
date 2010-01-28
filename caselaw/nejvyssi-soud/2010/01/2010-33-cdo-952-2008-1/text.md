@@ -1,0 +1,15 @@
+33 Cdo 952/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Václava Dudy a soudkyň JUDr. Blanky Moudré a JUDr. Ivany Zlatohlávkové ve věci žalobců 1) B. Ř. a 2) M. Ř., zastoupených advokátem, proti žalovanému P. Ř., zastoupenému advokátem, o určení splatnosti, vedené u Okresního soudu v Písku pod sp. zn. 8 C 89/2006, o dovolání žalobců proti rozsudku Krajského soudu v Českých Budějovicích ze dne 22. října 2007, č. j. 6 Co 1546/2007-150, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Dovolání proti rozsudku Krajského soudu v Českých Budějovicích ze dne 22. října 2007, č. j. 6 Co 1546/2007-150, kterým byl ve výroku o věci samé potvrzen rozsudek Okresního soudu v Písku ze dne 23. března 2007, č. j. 8 C 89/2006-88, jímž byla zamítnuta žaloba o určení, že „žalovaný je povinen zaplatit žalobcům, jež jsou oprávněni společně a nerozdílně, do 30. 4. 2007 částku 140.000,- Kč“, není přípustné podle § 237 odst. 1 písm. b) občanského soudního řádu ve znění účinném do 30. 6. 2009 (čl. II, bod 12. zákona č. 7/2009 Sb., dále jen „o. s. ř.“), a nebylo shledáno přípustným ani podle § 237 odst. 1 písm. c) o. s. ř., neboť napadený rozsudek nemá ve věci samé po právní stránce zásadní význam (§ 237 odst. 3 o. s. ř.).
+Podle obsahu (§ 41 odst. 2 o. s. ř.) dovolatelé nevymezili v dovolání žádnou otázku zásadního právního významu, kterou řešil odvolací soud v napadeném rozsudku (k tomu srovnej usnesení Nejvyššího soudu ze dne 29. června 2004, sp. zn. 21 Cdo 541/2004, a implicite též nález Ústavního soudu ze dne 20. února 2003, sp. zn. IV. ÚS 414/01, publikovaný ve Sbírce nálezů a usnesení Ústavního soudu sv. 29, č. 23).
+Přestože žalobci ohlašují dovolací důvod uvedený v § 241a odst. 2 písm. b) o. s. ř., ve skutečnosti – jak vyplývá z obsahu dovolání – jej neuplatnili. Podstatu jejich dovolacích námitek totiž tvoří výhrada vůči závěru o existenci dluhu žalovaného. Uvedená námitka vystihuje dovolací důvod podle § 241a odst. 3 o. s. ř., jenž míří na pochybení soudu ve zjištění skutkového stavu věci (srov. důvody rozsudku Nejvyššího soudu ze dne 21. října 1999, sp. zn. 2 Cdon 1548/97, uveřejněného ve Sbírce soudních rozhodnutí a stanovisek 10/2000 pod č. 73); v řízení o dovolání přípustném jen podle § 237 odst. 1 písm. c) o. s. ř. je tato námitka bezcenná. Skutkový základ sporu nelze při zvažování přípustnosti dovolání podle § 237 odst. 1 písm. c) o. s. ř. zpochybnit; pro dovolací soud je závazný (srov. § 241a odst. 3 o. s. ř.).
+Nejvyšší soud proto dovolání žalobců odmítl [§ 243b odst. 5, věta první, § 218 písm. b), c) o. s. ř.].
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř. za situace, kdy žalovanému, který by jinak měl právo na jejich náhradu, v této fázi řízení žádné účelně vynaložené náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 28. ledna 2010
+JUDr. Václav D u d a
+předseda senátu
