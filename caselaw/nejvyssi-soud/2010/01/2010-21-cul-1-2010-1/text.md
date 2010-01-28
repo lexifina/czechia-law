@@ -1,0 +1,16 @@
+21 Cul 1/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Novotného a soudců JUDr. Ljubomíra Drápala a JUDr. Mojmíra Putny o návrhu L. Č. r., s.p., podaném proti Nejvyššímu soudu České republiky v Brně, na určení lhůty k provedení procesního úkonu ve věci vedené pod sp. zn. 28 Cdo 2292/2007, takto:
+I. Návrh navrhovatele L. Č. r., s.p. na určení lhůty Nejvyššímu soudu České republiky v Brně k rozhodnutí o dovolání žalované L. S., s.r.o., proti rozsudku Krajského soudu v Brně ze dne 21. března 2007 č.j. 16 Co 101/2004-107, se zamítá.
+II. Navrhovatel nemá právo na náhradu nákladů řízení.
+O d ů v o d n ě n í :
+Proti rozsudku Krajského soudu v Brně ze dne 21.3.2007 č.j. 16 Co 101/2004-107, kterým byl změněn rozsudek Okresního soudu Brno-venkov ze dne 3.12.2003 č.j. 12 C 72/2002-65 podala dovolání žalovaná společnost L. S., s.r.o. Věc byla soudem prvního stupně předložena Nejvyššímu soudu ČR dne 24.5.2007.
+Návrhem ze dne 20.10.2009 se navrhovatel domáhá, aby Nejvyšší soud ČR určil „lhůtu 2 měsíců pro rozhodnutí o věci samé v řízení č.j. 28 Cdo 2292/2007 o dovolání společnosti L. S., s.r.o., proti rozsudku Krajského soudu v Brně ze dne 21.3.2007 č.j. 16 Co 101/2004-107“. Návrh zdůvodnil zejména tím, že přes stížnosti směřované na předsedkyni Nejvyššího soudu dochází v řízení o dovolání k „prokazatelným průtahům“.
+Nejvyšší soud České republiky (jeho senát příslušný podle rozvrhu práce - § 174a odst. 4 část druhé věty za středníkem zákona č. 6/2002 Sb., o soudech a soudcích, ve znění pozdějších předpisů - dále jen „zákon o soudech a soudcích“, jemuž byla věc předložena dne 16.1.2010) dospěl k závěru, že návrh navrhovatele L. Č. r., s.p., není důvodný.
+Příslušný soud rozhoduje o návrhu na určení lhůty usnesením. Návrh odmítne, byl-li podán někým, kdo není k jeho podání oprávněn, anebo jestliže navrhovatel neopravil nebo nedoplnil řádně návrh v určené lhůtě, jinak o něm rozhodne bez jednání do 20 pracovních dnů ode dne, kdy mu byla věc předložena nebo kdy byl návrh řádně opraven nebo doplněn (§ 174a odst. 6 zákona o soudech a soudcích). Pokud soud, vůči němž návrh na určení lhůty směřuje, již procesní úkon, u kterého jsou v návrhu namítány průtahy v řízení, učinil, příslušný soud návrh zamítne (§ 174a odst. 7, část věty před středníkem zákona o soudech a soudcích). Nestanoví-li zákon o soudech a soudcích jinak, použijí se pro řízení o návrhu na určení lhůty přiměřeně ustanovení části první a části třetí občanského soudního řádu (§ 174a odst. 5 věta druhá zákona o soudech a soudcích).
+V posuzované věci – jak vyplývá z obsahu spisu - bylo ještě před předložením příslušnému senátu rozhodnuto o dovolání žalované rozsudkem ze dne 4. ledna 2010 č.j. 28 Cdo 2292/2007-163, a proto byl návrh podle ustanovení § 174a odst. 7, části věty před středníkem zákona o soudech a soudcích, zamítnut.
+O náhradě nákladů řízení bylo rozhodnuto podle ustanovení § 174a odst. 5 věty druhé zákona o soudech a soudcích a § 151 odst. 1 části věty před středníkem o.s.ř., neboť navrhovatelka nemá ve smyslu ustanovení § 174a odst. 8 věty druhé zákona o soudech a soudcích právo, aby jí stát nahradil náklady, které jí v tomto řízení vznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 28. ledna 2010
+JUDr. Zdeněk Novotný , v. r.
+předseda senátu
