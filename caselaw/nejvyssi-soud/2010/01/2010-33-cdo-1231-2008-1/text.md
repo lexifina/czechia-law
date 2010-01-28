@@ -1,0 +1,14 @@
+33 Cdo 1231/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Václava Dudy a soudců JUDr. Blanky Moudré a JUDr. Pavla Krbka v právní věci žalobkyně D., a. s. proti žalovanému Ing. J. M., zastoupenému advokátem, o zaplacení částky 664.224,- Kč s příslušenstvím, vedené u Okresního soudu v Blansku pod sp. zn. 5 C 958/99, o dovolání žalovaného proti rozsudku Krajského soudu v Brně ze dne 21. srpna 2007, č. j. 27 Co 248/2006-194, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Dovolání žalovaného proti rozsudku Krajského soudu v Brně ze dne 21. srpna 2007, č. j. 27 Co 248/2006-194, kterým byl potvrzen rozsudek Okresního soudu v Blansku (dále jen „soud prvního stupně“) ze dne 25. května 2005, č. j. 5 C 958/99-169, jímž mu byla uložena povinnost zaplatit žalobkyni částku 664.224,- Kč, není přípustné podle § 237 odst. 1 písm. b) občanského soudního řádu, ve znění účinném do 30. 6. 2009 (čl. II, bod 12. zákona č. 7/2009 Sb., dále jen „o. s. ř.“), a nebylo shledáno přípustným ani podle § 237 odst. 1 písm. c) o. s. ř.; přestože předchozí rozsudek ze dne 27. března 2001, č. j. 5 C 958/99-43, byl usnesením Krajského soudu v Brně ze dne 31. května 2004, č. j. 27 Co 34/2002-61, zrušen, rozhodl soud prvního stupně v rozsahu uvedené jistiny rozsudkem ze dne 25. května 2005, č. j. 5 C 958/99-169, shodně jako v původním rozsudku.
+Zbývá tedy zvážit přípustnost dovolání v intencích § 237 odst. 1 písm. c) o. s. ř.
+Podle § 237 odst. 3 o. s. ř. má rozhodnutí odvolacího soudu po právní stránce zásadní význam zejména tehdy, řeší-li právní otázku, která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo která je odvolacími soudy nebo dovolacím soudem rozhodována rozdílně, nebo řeší-li právní otázku v rozporu s hmotným právem. Způsobilým dovolacím důvodem je tudíž pouze důvod uvedený v § 241a odst. 2 písm. b) o. s. ř., jímž lze vytýkat, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci.
+Bezcenná je tudíž výhrada dovolatele, že odvolací soud nesprávně hodnotil jím blíže označené listinné důkazy, a námitka vůči závěru, že byla uzavřena dohoda, na jejímž základě společnost D. S. B. a. s. uhradila za žalobkyni dluh žalovanému ve sporné výši, neboť vystihují dovolací důvod podle § 241a odst. 3 o. s. ř., jehož uplatnění je zde vyloučeno [srov. výslovné znění § 241a odst. 3 o. s. ř., omezujícího tento dovolací důvod na dovolání přípustná podle § 237 odst. 1 písm. a) a b) o. s. ř.].
+Z uvedeného vyplývá, že dovolání žalovaného směřuje proti rozhodnutí odvolacího soudu, proti němuž není tento mimořádný opravný prostředek přípustný. Za této situace Nejvyššímu soudu nezbylo, než jeho dovolání podle § 243b odst. 5 a § 218 písm. c) o. s. ř. odmítnout.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 28.ledna 2010
+JUDr. Václav D u d a, v.r.
+předseda senátu
