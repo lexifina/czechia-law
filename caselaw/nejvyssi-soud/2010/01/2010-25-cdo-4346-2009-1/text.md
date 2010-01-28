@@ -1,0 +1,20 @@
+25 Cdo 4346/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Roberta Waltra a soudců JUDr. Marty Škárové a JUDr. Petra Vojtka v právní věci žalobkyně V. z. p. České republiky, proti žalovanému K. K., za účasti Č. p., a.s., jako vedlejšího účastníka na straně žalovaného, o 463.337,- Kč s příslušenstvím, vedené u Okresního soudu v Mělníku pod sp. zn. 10 C 141/2008, o dovolání vedlejšího účastníka proti rozsudku Krajského soudu v Praze ze dne 2. června 2009, č.j. 31 Co 27/2009-97, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Mělníku rozsudkem ze dne 9. 10. 2008, č. j. 10 C 141/2008-51, zastavil řízení do částky 344.635,- Kč, uložil žalovanému zaplatit žalobci 463.337,- Kč s příslušenstvím, zamítl žalobu ohledně částky 346.274,- Kč a rozhodl o náhradě nákladů řízení a o soudním poplatku.
+K odvolání žalovaného a vedlejšího účastníka Krajský soud v Praze rozsudkem ze dne 2. 6. 2009, č. j. 31 Co 27/2009-97, rozsudek soudu prvního stupně ve vyhovujícím výroku do částky 3.823,-Kč zrušil a řízení v tomto rozsahu zastavil, dále rozsudek změnil ve výroku o soudním poplatku a jinak jej potvrdil.
+Proti rozsudku odvolacího soudu – potvrzující části – podal vedlejší účastník na straně žalované dovolání, jehož přípustnost dovozuje z ustanovení § 237 odst. 1 písm. c) občanského soudního řádu (dále jen „o.s.ř.“), v němž uplatňuje dovolací důvody dle § 241a odst. 2 písm. b) o.s.ř. Navrhl, aby dovolací soud rozsudek odvolacího soudu zrušil a vrátil mu věc k dalšímu řízení.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) dospěl k závěru, že dovolání podala osoba, která k tomu není oprávněna.
+Dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští (§ 236 odst. 1 o.s.ř.).
+Podle ustanovení § 240 odst. 1 věty první o.s.ř. účastník může podat dovolání do dvou měsíců od doručení rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni.
+Podle ustanovení § 93 odst. 3 o.s.ř. v řízení má vedlejší účastník stejná práva a povinnosti jako účastník. Jedná však toliko sám za sebe. Jestliže jeho úkony odporují úkonům účastníka, kterého v řízení podporuje, posoudí je soud po uvážení všech okolností.
+Vedlejší účastník má podle této úpravy zásadně stejná práva a povinnosti jako účastník řízení a jeho postavení se odvíjí od účastníka, na jehož podporu vystupuje; není však oprávněn provádět úkony znamenající dispozici s řízením, s předmětem řízení nebo s úkony, které učinil sám účastník. Zákon přitom nestanoví, zda je vedlejší účastník oprávněn podat dovolání. Vzhledem k tomu, že v zákoně je výslovně upravena legitimace vedlejšího účastníka pouze k podání odvolání, žaloby na obnovu řízení a žaloby pro zmatečnost při současném vymezení podmínek, za nichž může tyto opravné prostředky uplatnit (srov. ustanovení § 203 odst. 1 a § 231 odst. 1 o.s.ř. ve znění účinném od 1. 1. 2001), zatímco o oprávnění vedlejšího účastníka podat dovolání zákon nic neuvádí, je třeba dovodit, že zákon vedlejšímu účastníku oprávnění podat dovolání nedává. Tento výklad je zastáván v právní literatuře (srov. Drápal, L., Bureš, J. a kol. Občanský soudní řád II, komentář, 1. vydání, Praha: C. H. Beck, 2009, s. 1908, bod 2) i v soudní praxi (srov. usnesení Nejvyššího soudu ČR ze dne 27. 5. 2003, sp. zn. 25 Cdo 162/2003, publikované pod č. 3 ve Sbírce soudních rozhodnutí a stanovisek, ročník 2004).
+Z uvedených důvodů Nejvyšší soud dovolání vedlejšího účastníka podle § 243b odst. 5 věty první a § 218 písm. b) o.s.ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o.s.ř., neboť vedlejší účastník s ohledem na výsledek dovolacího řízení nemá na náhradu nákladů dovolacího řízení právo a žalobkyni (ani žalovanému) v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 28. ledna 2010
+JUDr. Robert Waltr, v. r.
+předseda senátu
