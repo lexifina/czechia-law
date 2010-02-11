@@ -1,0 +1,13 @@
+20 Cdo 3944/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové a soudců JUDr. Vladimíra Mikuška a JUDr. Olgy Puškinové v exekuční věci oprávněné Č. o.b., a. s., proti povinnému D. S., zastoupenému advokátem, pro 14 946,34 Kč s příslušenstvím, vedené u Okresního soudu v Lounech pod sp. zn. 11 Nc 4243/2007, o dovolání povinného proti usnesení Krajského soudu v Ústí nad Labem ze dne 24. 6. 2008, č. j. 14 Co 117/2008-40, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í :
+Krajský soud napadeným rozhodnutím potvrdil usnesení ze dne 13. 12. 2007, č. j. 11 Nc 4243/2007-18, kterým okresní soud nařídil podle platebního rozkazu Okresního soudu v Novém Jičíně ze dne 6. 9. 2001, sp. zn. 60 Ro 1624/2001, k uspokojení pohledávky oprávněné ve výši 14 946,34 Kč s 18 % úroky z prodlení od 20. 3. 1998 do zaplacení, pro náklady nalézacího řízení 600,- Kč a pro náklady exekuce, exekuci na majetek povinného a jejím provedením pověřil Mgr. J. K., soudního exekutora. Dospěl k závěru, že exekuční titul je vykonatelný, neboť byl povinnému doručen do vlastních rukou 9. 5. 2002 a nebyl proti němu podán odpor. Oprávněná je ve věci také aktivně legitimována, neboť exekuční titul svědčí v její prospěch.
+Rozhodnutí odvolacího soudu napadl povinný dovolání, jež vykazovalo nedostatky bránící dalšímu pokračování dovolacího řízení, a nebylo ani sepsáno advokátem. K žádosti povinného mu soud usnesením ze dne 11. 5. 2009, č. j. 11 Nc 4243/2007-65, ustanovil zástupcem advokáta. Usnesení, resp. výrok II. o ustanovení zástupce, nabylo právní moc 2. 7. 2009. Ustanovený advokát zůstal nečinný a dovolání sepsané dovolatelem nedoplnil, nenahradil a ani nesdělil, že se s ním ztotožňuje.
+Protože podmínka povinného zastoupení dovolatele v dovolacím řízení, k jejímuž splnění je třeba i sepisu dovolání advokátem (viz usnesení Nejvyššího soudu z 27. 5. 1999, sp. zn. 26 Cdo 1121/99, uveřejněné v časopise Soudní judikatura 6/2000 pod č. 64), je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – vyjma usnesení, jímž se dovolací řízení právě pro jeho neodstranění zastavuje – vydání rozhodnutí, kterým se řízení končí (§ 241 odst. 1 o. s. ř.), a protože ke zhojení uvedeného nedostatku přes opatření soudu nedošlo, Nejvyšší soud dovolací řízení zastavil (§ 104 odst. 2, § 243c odst. 1 o.s.ř.).
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 11. února 2010
+JUDr. Miroslava Jirmanová, v. r.
+předsedkyně senátu
