@@ -1,0 +1,14 @@
+30 Cdo 260/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z JUDr. Pavla Pavlíka a soudců JUDr. Pavla Vrchy a JUDr. Karla Podolky ve věci zbaveného způsobilosti k právním úkonům Ing. J. M., zastoupeného opatrovníkem Statutárním městem Olomouc, se sídlem v Olomouci, Horní náměstí 1, za účasti PhDr. A. M., zastoupené JUDr. Petrem Ritterem, advokátem se sídlem v Olomouci, Riegrova 12, o změnu opatrovníka, vedené u Okresního soudu v Olomouci pod sp. zn. 0 P 465/2007, o dovolání PhDr. A. M. proti usnesení Krajského soudu v Ostravě ze dne 4. června 2009, sp. zn. 56 Co 99/2009-215, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst. 2 o.s.ř.):
+Proti v záhlaví označenému usnesení Krajského soudu v Ostravě, jímž bylo potvrzeno usnesení Okresního soudu v Olomouci ze dne 10. února 2009, č.j. 0 P 465/2007-117 [kterým byl zamítnut návrh navrhovatelky PhDr. A. M. na změnu (stálého) opatrovníka Ing. J. M. a rozhodnuto o nákladech řízení], a dále rozhodnuto, že žádný z účastníků nemá právo na náhradu nákladů odvolacího řízení, není dovolání přípustné, neboť směřuje proti rozhodnutí odvolacího soudu, proti němuž tento mimořádný opravný prostředek žádné z ustanovení § 237 až § 239 o.s.ř. nezakládá (k tomu srov. např. usnesení Nejvyššího soudu České republiky ze dne 30. září 2008, sp. zn. 30 Cdo 3378/2008, in www.nsoud.cz).
+Nejvyšší soud České republiky proto podané dovolání, aniž ve věci nařizoval jednání (§ 243a odst. 1, věta první, o. s. ř.), usnesením odmítl pro nepřípustnost [§ 243b odst. 5 věta první a § 218 písm. c) o. s. ř.].
+Na tomto závěru nemůže nic změnit ani nesprávné poučení odvolacího soudu zformulované tak, že proti jeho usnesení je dovolání přípustné jen dospěje-li dovolací soud k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam (§ 237 odst. 1 o.s.ř.). Podle § 236 odst. 1 o. s. ř. lze totiž dovoláním napadnout pravomocná rozhodnutí odvolacího soudu pouze tehdy, pokud to zákon připouští; jestliže tedy možnost podat dovolání není v zákoně (v § 237 až 239 o. s. ř.) stanovena, pak jde vždy – a bez zřetele k tomu, jakého poučení se účastníkům řízení ze strany soudu dostalo – o dovolání nepřípustné (shodně srov. též usnesení Nejvyššího soudu zveřejněné pod číslem 51/2003 Sbírky soudních rozhodnutí a stanovisek, dále např. usnesení Nejvyššího soudu ze dne 24. dubna 2002, sp. zn. 26 Cdo 707/2002, usnesení Nejvyššího soudu ze dne 3. března 2005, sp. zn. 29 Odo 958/2003, in www.nsoud.cz).
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 a § 146 odst. 1 písm. a) o. s. ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 18. února 2010
+JUDr. Pavel P a v l í k , v. r.
+předseda senátu
