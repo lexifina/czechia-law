@@ -1,0 +1,24 @@
+32 Cdo 522/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobkyně Československé obchodní banky, a. s., se sídlem v Praze 5, Radlická 333/150, PSČ 150 57, identifikační číslo 00 00 13 50, proti žalované H. H., zastoupené JUDr. Pavlem Sokolem, advokátem se sídlem v Táboře, Nerudova 3078, PSČ 390 02, o návrhu žalované na obnovu řízení, vedené u Krajského soudu v Českých Budějovicích pod sp. zn. 13 Cm 759/2007, o dovolání žalované proti usnesení Vrchního soudu v Praze ze dne 3. června 2008, č. j. 5 Cmo 218/2008-48, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Českých Budějovicích usnesením ze dne 5. března 2008, č. j. 13 Cm 759/2007-33, zamítl návrh žalované na obnovu řízení vedeného u téhož soudu pod sp. zn. 12 Cm 44/1996 jako opožděný [§ 233 odst. 2 občanského soudního řádu (dále též jen „o. s. ř.“)].
+K odvolání žalované Vrchní soud v Praze v záhlaví označeným usnesením potvrdil usnesení soudu prvního stupně potvrdil (první výrok) a rozhodl o nákladech odvolacího řízení (druhý výrok).
+Proti usnesení odvolacího soudu podala žalovaná dovolání, odkazujíc co do jeho přípustnosti na ustanovení § 238 o. s. ř. a namítajíc, že napadené rozhodnutí spočívá na nesprávném právním posouzení věci, protože podle jejího názoru podmínky, za nichž je možno povolit obnovu řízení, byly splněny. Navrhuje, aby Nejvyšší soud napadené usnesení odvolacího soudu zrušil a věc vrátil tomuto soudu k dalšímu řízení.
+Dovolání není přípustné.
+Podle bodu 17., hlavy I., části dvanácté zákona č. 30/2000 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů a některé další zákony, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů (tj. podle občanského soudního řádu ve znění účinném před 1. lednem 2001). Taková situace nastala i v této věci, poněvadž odvolací soud posoudil návrh žalované na obnovu řízení ve shodě s bodem 15., hlavy I., části dvanácté zákona č. 30/2000 Sb. rovněž podle občanského soudního řádu ve znění účinném před 1. lednem 2001, jak výslovně zmínil v odůvodnění napadeného usnesení.
+Podle ustanovení § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání je vymezena v ustanoveních § 237 až § 239 o. s. ř.
+Podle ustanovení § 237 o. s. ř. dovolání přípustné není, protože dovolatelka nenamítá žádnou z vad řízení tam uvedených (tzv. zmatečností) a takové vady, k nimž přihlédne, i když nejsou v dovolání namítány (§ 242 odst. 3 o. s. ř.), dovolací soud nezjistil ani z obsahu spisu.
+Přípustnost dovolání nelze dovodit ani podle ustanovení § 238 o. s. ř., podle něhož je dovolání přípustné proti rozsudkům odvolacího soudu, kdežto v této věci odvolací soud rozhodoval usnesením.
+Rovněž podle ustanovení § 238a o. s. ř. přípustnost dovolání být dána nemůže, protože napadené rozhodnutí není rozhodnutím měnícím uvedeným pod bodem a) tohoto ustanovení, a nejde o žádné z rozhodnutí vyjmenovaných zde pod body b) až f).
+Konečně ani podle ustanovení § 239 odst. 1 o. s. ř. přípustnost dovolání dovodit nelze, protože rozhodnutí o návrhu na obnovu řízení není rozhodnutím ve věci samé, a takovým rozhodnutím proto nemůže být ani rozhodnutí odvolacího soudu (srov. např. usnesení Nejvyššího soudu ze dne 2. prosince 1997, sp. zn. 2 Cdon 774/1997, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod číslem 61/1998).
+Jelikož přípustnost dovolání nelze dovodit ze žádného ustanovení občanského soudního řádu, dovolací soud je bez nařízení jednání (§ 243a odst. 1 o. s. ř.) v souladu s ustanovením § 243b odst. 4 věty první o. s. ř. a § 218 odst. 1 písm. c) o. s. ř. odmítl.
+Dovolací soud pro úplnost dodává, že nesprávné poučení odvolacího soudu o lhůtě k podání dovolání nemělo vliv na včasnost dovolání, neboť dovolání bylo podáno v dvouměsíční lhůtě v něm uvedené. Proto nemůže být odmítnuto jako opožděné, byť podle ustanovení § 240 odst. 1 o. s. ř. ve znění účinném do 1. ledna 2001 bylo možno podat dovolání do jednoho měsíce od právní moci rozhodnutí odvolacího soudu (k tomu srov. usnesení Nejvyššího soudu ze dne 17. prosince 2002, sp. zn. 35 Odo 317/2001). Přitom nesprávné poučení o tom, že dovolání je přípustné, jeho přípustnost nezakládá, jak Nejvyšší soud dovodil v usnesení ze dne 30. ledna 2003, sp. zn. 29 Odo 937/2002.
+O nákladech dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 4 věty první, § 224 odst. 1 a § 146 odst. 2 věty první o. s. ř., neboť žalovaná, jejíž dovolání bylo odmítnuto, nemá na jejich náhradu právo a žalobkyni v souvislosti s tímto řízením podle obsahu spisu žádné prokazatelné náklady nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 22. února 2010
+JUDr. Hana G a j d z i o k o v á
+předsedkyně senátu
