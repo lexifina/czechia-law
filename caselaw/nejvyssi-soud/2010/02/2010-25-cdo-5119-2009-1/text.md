@@ -1,0 +1,30 @@
+25 Cdo 5119/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marty Škárové a soudců JUDr. Petra Vojtka a JUDr. Roberta Waltra v právní věci žalobkyně M. K., proti žalované České republice – Ministerstvu financí, se sídlem v Praze 1, Letenská 15, o náhradu škody ve výši 5.000,- Kč, vedené u Okresního soudu v České Lípě pod sp. zn. 8 C 49/2004, o dovolání žalobkyně proti usnesení Krajského soudu v Ústí nad Labem – pobočka v Liberci ze dne 21. 3. 2008, č.j. 35 Co 791/2007-52, takto:
+I. Řízení o dovolání žalobkyně ze dne 18. 9. 2008 se zastavuje.
+II. Dovolání žalobkyně ze dne 23. 10. 2008 se odmítá.
+III. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v České Lípě usnesením ze dne 20. 7. 2007, č. j. 8 C 49/2004-38, zamítl návrh žalobkyně, aby do řízení namísto dosavadní žalované České republiky jako žalovaný vstoupilo město Nový Bor, Základní škola Nový Bor a Krajský úřad Libereckého kraje.
+K odvolání žalobkyně Krajský soud v Ústí nad Labem – pobočka v Liberci usnesením ze dne 21. 3. 2008, č.j. 35 Co 791/2007-52, usnesení soudu prvního stupně potvrdil.
+Žalobkyně – zastoupena obecným zmocněncem – podala proti usnesení odvolacího soudu tzv. banketní dovolání ze dne 18. 9. 2008 a následně napadla usnesení odvolacího soudu vlastním podáním ze dne 23. 10. 2008.
+Nejvyšší soud jako soud dovolací (§ 10a občanského soudního řádu ve znění účinném od 1. 7. 2009) shledal, že dovolání žalobkyně podané prostřednictvím jejího zmocněnce Ing. J. K. dne 18. 9. 2008 bylo podáno včas, osobou k tomu oprávněnou - účastnicí řízení (§ 240 odst. 1 o. s. ř.), avšak nejsou splněny podmínky dovolacího řízení.
+Podle § 241 odst. 1, 2 a 4 o. s. ř. musí být dovolatel, který je fyzickou osobou, v dovolacím řízení zastoupen advokátem nebo (v rozsahu oprávnění stanoveného notářským řádem) notářem, jímž musí být dovolání též sepsáno; to neplatí, má-li dovolatel právnické vzdělání [§ 241 odst. 2 písm. a) o. s. ř.].
+Není-li splněna podmínka uvedená v § 241 o. s. ř., postupuje soud obdobně podle § 104 odst. 2 o. s. ř. (§ 241b odst. 2 o. s. ř.) a učiní vhodná opatření k odstranění nedostatku podmínky řízení. Nezdaří-li se nedostatek podmínky řízení odstranit, řízení zastaví.
+Usnesením ze dne 23. 9. 2008, č. j. 8 C 49/2004-81 (doručeným dovolatelce dne 10. 10. 2008), soud prvního stupně vyzval dovolatelku, aby si ve lhůtě 14 dnů od doručení usnesení zvolila pro dovolací řízení zástupcem advokáta a jeho prostřednictvím podala řádné dovolání, a poučil ji, že pokud tak neučiní, dovolací soud řízení zastaví.
+Dovolatelka požádala o ustanovení zástupce z řad advokátů pro podání dovolání, Okresní soud v České Lípě usnesením ze dne 15. 12. 2008, č. j. 8 C 49/2004-102, jí osvobození od soudních poplatků nepřiznal a její odvolání proti tomuto usnesení odmítnul pro opožděnost usnesením ze dne 4. 2. 2009, č.j. 8 C 49/2004-110; k odvolání žalobkyně Krajský soud v Ústí nad Labem – pobočka v Liberci usnesením ze dne 2. 11. 2009, č. j. 35 Co 220/2009-136, usnesení okresního soudu ze dne 4. 2. 2009 potvrdil.
+Návrh žalobkyně na prominutí zmeškání lhůty k podání odvolání proti rozhodnutí Okresního soudu v České Lípě ze dne 15. 12. 2008, č. j. 8 C 49/2004-102, byl zamítnut (usnesením téhož soudu ze dne 7. 4. 2009, č. j. 8 C 49/2004-121, jež bylo potvrzeno usnesením Krajského soudu v Ústí nad Labem – pobočka v Liberci ze dne 2. 11. 2009, č.j. 35 Co 219/2009-133).
+Jelikož nedostatek podmínky povinného zastoupení v dovolacím řízení nebyl ve stanovené lhůtě ani dodatečně odstraněn, Nejvyšší soud řízení o dovolání žalobkyně ze dne 18. 9. 2008 podle § 243c odst. 1 a § 104 odst. 2 o. s. ř. zastavil.
+Dovolání žalobkyně ze dne 23. 10. 2008 je opožděné.
+Podle ustanovení § 240 odst. 1 o. s. ř. účastník může podat dovolání do dvou měsíců od doručení rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Bylo-li odvolacím soudem vydáno opravné usnesení, běží tato lhůta od doručení opravného usnesení.
+Podle ustanovení § 240 odst. 2 o. s. ř. zmeškání lhůty uvedené v odstavci 1 nelze prominout; lhůta je však zachována, bude-li dovolání podáno ve lhůtě u dovolacího nebo odvolacího soudu.
+Podle ustanovení § 240 odst. 3 o. s. ř. lhůta je zachována také tehdy, jestliže dovolání bylo podáno po uplynutí dvouměsíční lhůty proto, že se dovolatel řídil nesprávným poučením soudu o dovolání. Neobsahuje-li rozhodnutí poučení o dovolání, o lhůtě k dovolání nebo o soudu, u něhož se podává, nebo obsahuje-li nesprávné poučení o tom, že dovolání není přípustné, lze podat dovolání do čtyř měsíců od doručení.
+Podle ustanovení § 57 odst. 2 o. s. ř. se lhůty určené podle týdnů, měsíců nebo let končí uplynutím toho dne, který se svým označením shoduje se dnem, kdy došlo ke skutečnosti určující počátek lhůty, a není-li ho v měsíci, posledním dnem měsíce. Připadne-li konec lhůty na sobotu, neděli nebo svátek, je posledním dnem lhůty nejblíže následující pracovní den.
+Podle ustanovení § 57 odst. 3 o. s. ř. je lhůta zachována, je-li posledního dne lhůty učiněn úkon u soudu nebo podání odevzdáno orgánu, který má povinnost je doručit.
+Usnesení odvolacího soudu, jež obsahuje správné poučení, o tom, že lze dovolání proti němu podat do dvou měsíců od doručení, bylo řádně doručeno zmocněnci žalobkyně dne 21. 7. 2008. Opravné usnesení vydáno nebylo. Žalobkyně podala dovolání proti usnesení odvolacího soudu osobně do podatelny soudu prvního stupně dne 24.10.2008. Z uvedeného je zřejmé, že zákonná dvouměsíční lhůta dodržena nebyla (po lhůtě bylo ostatně dovolání i vyhotoveno).
+Protože dovolání žalobkyně bylo podáno až po marném uplynutí lhůty k dovolání, jejíž zmeškání nelze prominout, bylo podle ust. § 243b odst. 5, věty první, a § 218a o. s. ř. odmítnuto.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, věty první, § 224 odst. 1 a § 146 odst. 3 o. s. ř., neboť žalovaná nemá na náhradu nákladů dovolacího řízení právo a žalobkyni náklady v dovolacím řízení nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 23. února 2010
+JUDr. Marta Škárová, v. r.
+předsedkyně senátu
