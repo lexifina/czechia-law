@@ -1,0 +1,22 @@
+25 Cdo 455/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marty Škárové a soudců JUDr. Petra Vojtka a JUDr. Roberta Waltra v právní věci žalobce P. P., proti žalovaným 1) Česká republika – Ministerstvo spravedlnosti, se sídlem v Praze 2, Vyšehradská 16, 2) Květoslava Krocová, soudce Obvodního soudu pro Prahu 5, se sídlem Praha 5, nám. Kinských 5, 3) Helena Lišková, soudce Městského soudu v Praze, se sídlem Praha 2, Spálená 2, 4) Hana Čvančarová, soudce Městského soudu v Praze, se sídlem Praha 2, Spálená 2, 5) Blanka Chlostová, soudce Městského soudu v Praze, se sídlem Praha 2, Spálená 2, o náhradu škody, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 10 C 42/2007, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 21. ledna 2009, č. j. 15 Co 23/2009-117, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 2 usnesením ze dne 5. 6. 2008, č. j. 10 C 42/2007-92, odmítl podání žalobce ze dne 12. 2. 2007 a rozhodl o náhradě nákladů řízení.
+K odvolání žalobce Městský soud v Praze usnesením ze dne 21. 1. 2009, č. j. 15 Co 23/2009-117, usnesení soudu prvního stupně potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Proti rozhodnutí odvolacího soudu podal žalobce dovolání, v němž uvádí, že usnesení odvolacího soudu je v rozporu s právem EU, zákony České republiky, ale také s pravidly logického myšlení. Podle dovolatele obsahovala žaloba a všechna jeho další podání požadavky stanovené občanským soudním řádem.
+Nejvyšší soud jako soud dovolací (§ 10a o. s. ř.) dospěl k závěru, že nejsou splněny podmínky dovolacího řízení.
+Podle ust. § 241 odst. l, věty první, o. s. ř. není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem.
+Podle ust. § 241 odst. 2 o. s. ř. odstavec 1 neplatí, a) je-li dovolatelem fyzická osoba, která má právnické vzdělání, b) je-li dovolatelem právnická osoba, stát, obec nebo vyšší územně samosprávný celek, jedná-li za ně osoba uvedená v § 21, 21a, anebo v § 21b, která má právnické vzdělání.
+Podle ust. § 241 odst. 4 o. s. ř. dovolání musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem, notářem nebo osobou uvedenou v § 21, 21a, 21b, anebo v § 26a odst. 3, která má právnické vzdělání.
+Pro podání dovolání, které je mimořádným opravným prostředkem, zákon stanoví požadavek, aby účastník řízení, který podává dovolání, měl buď sám právnické vzdělání, nebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc, a dovolání bylo touto osobou sepsáno. Ustanovení § 241 o. s. ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění nelze o dovolání rozhodnout.
+V dané věci žalobce podal dovolání, aniž byl při tomto úkonu zastoupen advokátem, a nebylo prokázáno (ani tvrzeno), že by sám měl právnické vzdělání. Jeho žádosti o ustanovení zástupce pro dovolací řízení nebylo vyhověno (usnesení Obvodního soudu pro Prahu 2 ze dne 18. 8. 2009, č. j. 10 C 42/2007-166, ve spojení s usnesením Městského soudu v Praze ze dne 5. 11. 2009, č. j. 15 Co 493/2009-192). Usnesením Obvodního soudu pro Prahu 2 ze dne 5. 1. 2010, č. j. 10 C 42/2007-195, jehož stejnopis byl žalobci doručen dne 13. 1. 2010, byl žalobce vyzván, aby si ve lhůtě 10 dní od doručení tohoto usnesení zvolil zástupcem advokáta a předložil jím sepsané dovolání, s poučením, že pokud tak neučiní, bude dovolací řízení zastaveno. Žalobce si však v takto určené lhůtě ani dodatečně advokáta pro dovolací řízení nezvolil.
+Vzhledem k tomu, že žalobce si dosud zástupce pro dovolací řízení nezvolil a nedostatek povinného zastoupení ani dodatečně neodstranil, ačkoliv byl poučen o povinném zastoupení v dovolacím řízení i o důsledcích nesplnění této podmínky, Nejvyšší soud řízení o dovolání žalobce podle § 243c odst. 1 a § 104 odst. 2, věty třetí, o. s. ř. zastavil, aniž se zabýval otázkou dalších náležitostí podaného dovolání.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, věty první, § 224 odst. l a § 146 odst. 2, věty první, o. s. ř., když žalobce nemá na náhradu nákladů dovolacího řízení právo a žalovaným náklady v dovolacím řízení nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 24. února 2010
+JUDr. Marta Š k á r o v á , v. r.
+předsedkyně senátu
+Z
