@@ -1,0 +1,15 @@
+33 Cdo 4222/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudců JUDr. Ivany Zlatohlávkové a JUDr. Václava Dudy ve věci žalobce Ing. J. V., zastoupeného JUDr. Miroslavou Fialovou, advokátkou se sídlem v Liberci 3, Jánská 864/4, proti žalovanému M. M., zastoupenému JUDr. Zdeňkem Mikou, advokátem se sídlem v Mladé Boleslavi, Kalefova 404, o 25.244,- USD s příslušenstvím, vedené u Krajského soudu v Ústí nad Labem pod sp. zn. 26 Cm 817/96, o dovolání žalobce proti rozsudku Vrchního soudu v Praze ze dne 31. 1. 2008, č.j. 8 Cmo 182/2007-422, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Dovolání žalobce proti rozsudku Vrchního soudu v Praze ze dne 31. 1. 2008, č.j. 8 Cmo 182/2007-422, kterým byl ve věci samé potvrzen v pořadí druhý (opět žalobu zamítající) rozsudek Krajského soudu v Ústí nad Labem ze dne 28. 6. 2006, č.j. 26 Cm 817/96-361, není přípustné podle § 237 odst. 1 písm. b/ zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 30. 6. 2009 (čl. II, bod 12. zákona č. 7/2009 Sb., dále jen „o.s.ř.“), a nebylo shledáno přípustným ani podle § 237 odst. 1 písm. c/ o.s.ř., neboť napadený rozsudek odvolacího soudu nemá po právní stránce zásadní význam (§ 237 odst. 3 o.s.ř).
+Přestože žalobce v dovolání ohlašuje uplatnění dovolacího důvodu podle ustanovení § 241a odst. 2 písm. b/ o.s.ř., jímž lze vytýkat, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci, ve skutečnosti uplatnil – jak vyplývá z obsahu podání – dovolací důvod uvedený v § 241a odst. 3 o.s.ř., mířící na pochybení při zjišťování skutkového stavu věci; ten však nelze v případě dovolání přípustného podle § 237 odst. 1 písm. c/ o.s.ř. použít.
+Dovolatel totiž nesouhlasí se zjištěními týkajícími se obsahu smlouvy o postoupení pohledávky z 30. 10. 1995 a okolností, za nichž žalovaný hradil platby; namítá-li nesprávné právní posouzení věci, pak jen v tom směru, že pokud by odvolací soud (stejně jako před ním soud prvního stupně) nepochybil ve svých skutkových závěrech, musel by návazně dospět i k odlišnému právnímu posouzení věci, tedy dovodit, že smlouva o postoupení pohledávek je platná, resp. že žalovaný závazek uznal. Jinak řečeno, námitka nesprávnosti právního posouzení věci je založena výlučně na kritice skutkových závěrů, k nimž soudy obou stupňů dokazováním dospěly.
+Protože dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný, dovolací soud je podle § 243b odst. 5, věty první, a § 218 písm. c/ o.s.ř. odmítl.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o.s.ř. za situace, kdy žalovanému, který by jinak měl právo na jejich náhradu, v této fázi řízení žádné náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 25. února 2010
+JUDr. Pavel K r b e k, v. r.
+předseda senátu
