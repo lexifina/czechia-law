@@ -1,0 +1,15 @@
+4 Nd 45/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jiřího Pácala a soudců JUDr. Františka Hrabce a JUDr. Petra Šabaty v právní věci žalobkyně T. H., zast. zmocněncem Vítem Lehkým, bytem Mutěnická 15, 629 00 Brno, proti žalovanému Ing. P. K. , o zaplacení 600.000,- Kč s příslušenstvím, o určení místní příslušnosti soudu podle § 11 odst. 3 o. s. ř., t a k t o :
+Výše uvedenou věc projedná a rozhodne Okresní soud v Přerově.
+O d ů v o d n ě n í :
+Žalobkyně podala podáním ze dne 1. 2. 2010 (doručeno dne 9. 2. 2010) u Nejvyššího soudu České republiky návrh na zahájení řízení ve výše uvedené věci spolu s návrhem na určení místně příslušného soudu podle ustanovení § 11 odst. 3 o. s. ř. s odůvodněním, že dne 12. 11. 2007 v O. uzavřela s žalovaným, který má bydliště na území Slovenské republiky, písemnou smlouvu o půjčce, která obsahuje i ujednání o pravomoci soudů České republiky pro případ sporu. Žalobkyně rovněž poukázala na rozhodnutí Nejvyššího soudu České republiky ze dne 25. 4. 2008, sp. zn. 4 Nd 95/2008, na základě kterého soudem místně příslušným k projednání a rozhodnutí věci podle § 11 odst. 3 o. s. ř. může být určen soud, v jehož obvodu má sídlo (bydliště) žalobce, proto navrhla, aby věc byla přikázána Okresnímu soudu v Přerově, v jehož obvodu má bydliště ona sama i případní svědci.
+Podle § 84 odst. 1 o. s. ř. je k řízení místně příslušný obecný soud účastníka, proti němuž návrh směřuje, není-li stanoveno jinak. Podle § 85 odst. 1, věty první, o. s. ř. je obecným soudem fyzické osoby okresní soud, v jehož obvodu má bydliště a nemá-li bydliště, okresní soud, v jehož obvodu se zdržuje.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Z dosavadní rozhodovací praxe Nejvyššího soudu České republiky vyplývá, že dohoda, kterou účastníci řízení zakládají pravomoc soudu určitého státu, nemusí obsahovat označení místně příslušného soudu určeného státu. Jestliže strany dohodou založily pravomoc českých soudů, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, postupuje se podle citovaného § 11 odst. 3 o. s. ř. (srov. usnesení Nejvyššího soudu České republiky ze dne 28. 8. 2002, sp. zn. 29 Odo 524/2002).
+Vzhledem ke skutečnostem, že žalovaný nemá bydliště v České republice a že z obsahu předmětné smlouvy o půjčce vyplývá ujednání o pravomoci soudů České republiky v případě sporu, dospěl Nejvyšší soud České republiky k závěru, že v daném případě jsou splněny podmínky ustanovení § 11 odst. 3 o. s. ř. k určení místně příslušného soudu Nejvyšším soudem České republiky.
+Z důvodu hospodárnosti řízení rozhodl Nejvyšší soud České republiky tak, že předmětná věc bude projednána a rozhodnuta Okresním soudem v Přerově, neboť v obvodu tohoto soudu má sídlo žalobkyně.
+P o u č e n í : Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. února 2010
+Předseda senátu:
+JUDr. Jiří Pácal
