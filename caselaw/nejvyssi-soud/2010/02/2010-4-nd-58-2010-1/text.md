@@ -1,0 +1,17 @@
+4 Nd 58/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jiřího Pácala a soudců JUDr. Františka Hrabce a JUDr. Petra Šabaty v právní věci oprávněné P. C. C., a. s., proti povinnému P. Š., o návrhu na nařízení exekuce a pověření soudního exekutora, vedené u Okresního soudu v Šumperku pod sp. zn. 14 Nc 1704/2009, o návrhu na určení místní příslušnosti soudu podle ustanovení § 11 odst. 3 o. s. ř., t a k t o :
+Věc vedená u Okresního soudu v Šumperku pod sp. zn. 14 Nc 1704/2009 se přikazuje k projednání a rozhodnutí Okresnímu soudu v Šumperku.
+O d ů v o d n ě n í :
+Podáním ze dne 23. 3. 2009 (soudu doručeno dne 14. 4. 2009) podala oprávněná u Okresního soudu v Šumperku návrh na nařízení exekuce na majetek povinného.
+Okresní soud v Šumperku následně usnesením ze dne 22. 1. 2010, sp. zn. 14 Nc 1704/2009, vyslovil svoji místní nepříslušnost v předmětné věci s tím, že po právní moci tohoto usnesení bude věc předložena Nejvyššímu soudu České republiky k určení, který soud věc projedná a rozhodne.
+Podle ustanovení § 11 odst. 1 o. s. ř. se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení.
+Podle ustanovení § 105 odst. 1 o. s. ř. soud zkoumá místní příslušnost před tím, než začne jednat o věci samé. Příslušnost se určuje podle okolností, které jsou tu v době zahájení řízení a trvá až do jeho skončení. Zkoumání místní příslušnosti se tedy soustřeďuje jen na začátek řízení.
+Podle ustanovení § 45 odst. 1 zák. č. 120/2001 Sb., exekučního řádu, je věcně příslušným exekučním soudem v prvním stupni okresní soud. Podle ustanovení § 45 odst. 2 exekučního řádu je místně příslušným exekučním soudem soud, v jehož obvodu má bydliště povinný, je-li fyzickou osobou, a nemá-li bydliště, soud, v jehož obvodu se zdržuje. Nemá-li povinný bydliště v České republice ani se v ní nezdržuje, je příslušným soud, v jehož obvodu má povinný majetek.
+Podle ustanovení § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Po prostudování předmětného spisového materiálu Nejvyšší soud České republiky zjistil, že rozhodujícímu soudu se nepodařilo zjistit bydliště povinného ani v době zahájení řízení ani v době současné. V předmětném návrhu oprávněného na zahájení exekučního řízení je uvedena adresa povinného T., O. Z obsahu spisu lze dále dovodit, že v době zahájení řízení měl povinný dle centrální evidence obyvatel trvalé bydliště na adrese O. – N. U., O. Ze zpráv Č. p., s. p., ze dnů 18. 8. 2009 a 9. 9. 2009 a z výsledku šetření provedeného vykonavatelem Okresního soudu v Olomouci dne 16. 9. 2009 však vyplývá, že povinný se ke dni podání návrhu na nařízení exekuce nezdržoval ani na jedné z uvedených adres.
+Vzhledem ke skutečnosti, že se nepodařilo zjistit místo, kde měl povinný v době zahájení řízení bydliště, kde se zdržoval ani kde měl majetek, rozhodl Nejvyšší soud České republiky podle ustanovení § 11 odst. 3 o. s. ř. s přihlédnutím k zásadě hospodárnosti řízení tak, že jako místně příslušný soud v dané věci určil soud, u něhož bylo řízení zahájeno, tj. Okresní soudu v Šumperku.
+P o u č e n í : Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. února 2010
+JUDr. Jiří Pácal
+předseda senátu
