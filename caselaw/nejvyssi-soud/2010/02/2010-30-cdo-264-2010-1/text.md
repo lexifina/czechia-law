@@ -1,0 +1,17 @@
+30 Cdo 264/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Pavlíka a soudců JUDr. Pavla Vrchy a JUDr. Karla Podolky ve věci žadatele J. K., o ustanovení zástupce, vedené u Okresního soudu ve Frýdku-Místku pod sp. zn. 12 Nc 3352/2008, o dovolání žadatele proti usnesení Krajského soudu v Ostravě ze dne 22. října 2009, č.j. 8 Co 641/2009-51, takto:
+Dovolání se odmítá.
+Stručné odůvodnění (§ 243c odst. 2 o.s.ř.):
+Okresní soud ve Frýdku-Místku (dále již „soud prvního stupně“) usnesením ze dne 10. září 2009, č.j. 12 Nc 3352/2008-41, odmítl pro opožděnost (§ 208 odst. 1 o.s.ř.) odvolání žadatele proti usnesení téhož soudu prvního stupně ze dne 15. července 2009, č.j. 12 Nc 3352/2008-31.
+Krajský soud v Ostravě (dále již „odvolací soud“) usnesením ze dne 22. října 2009, č.j. 8 Co 641/2009-51, potvrdil usnesení soudu prvního stupně, neboť se ztotožnil s jeho závěrem, že odvolání žadatele bylo podáno opožděně; ač v tomto řízení procesně vystupuje toliko žadatel, citovaným usnesením bylo současně rozhodnuto, že žadatel nemá právo na náhradu nákladů odvolacího řízení.
+Žadatel podal proti uvedenému usnesení odvolacího soudu dovolání, v němž polemizuje se závěry odvolacího soudu a poukazuje na soudní spory a exekuce, které jsou vedeny proti němu, resp. jeho rodině.
+Nejvyšší soud České republiky (dále již „Nejvyšší soud“) jako soud dovolací (§ 10a o.s.ř.) po zjištění, že dovolání proti pravomocnému usnesení odvolacího soudu bylo podáno včas a k tomu oprávněným subjektem, dospěl k závěru, že dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný.
+Podle § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+V posuzovaném případě žadatel dovoláním napadá usnesení odvolacího soudu, kterým bylo potvrzeno usnesení soudu prvního stupně o odmítnutí odvolání pro opožděnost. Přípustnost dovolání podle § 237 o.s.ř. tu není dána, a to již proto, že usnesením odvolacího soudu nebylo potvrzeno usnesení soudu prvního stupně, kterým by bylo rozhodnuto ve věci samé (k pojmu „věc sama“ srovnej usnesení dovolacího soudu ze dne 2. prosince 1997, sp. zn. 2 Cdon 774/97, publikované ve Sbírce soudních rozhodnutí a stanovisek pod R 61/1998). Dovolání není přípustné ani podle § 238, § 238a a § 239 odst. 1 a 2 o.s.ř., protože napadeným usnesením nebylo rozhodnuto ve věcech v těchto ustanoveních taxativně vyjmenovaných. Přípustnost dovolání nevyplývá ani z § 239 odst. 3 o.s.ř., jelikož podle tohoto ustanovení lze podat dovolání jen tehdy, bylo-li potvrzeno usnesení soudu prvního stupně, jímž byla postupem podle § 43 o.s.ř. odmítnuta žaloba (příp. jiný návrh na zahájení řízení), a nikoli odmítl-li soud prvního stupně odvolání pro opožděnost podle § 208 odst. 1 o.s.ř. (jako v posuzovaném případě). Obdobné závěry zaujal dovolací soud již ve svém usnesení ze dne 20. listopadu 2001, sp. zn. 21 Cdo 1124/2001, publikovaném ve Sbírce soudních rozhodnutí a stanovisek pod R 41/2003).
+Dovolací soud proto dovolání žadatele pro jeho nepřípustnost odmítl [§ 243b odst. 5 věta první a § 218 písm. c) o.s.ř.].
+O náhradě nákladů dovolacího řízení Nejvyšší soud nerozhodoval, neboť v tomto řízení je jediným účastníkem pouze žadatel, takže náhrada nákladů řízení mezi účastníky navzájem zde pojmově nepřichází v úvahu.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 25. února 2010
+JUDr. Pavel P a v l í k , v. r.
+předseda senátu
