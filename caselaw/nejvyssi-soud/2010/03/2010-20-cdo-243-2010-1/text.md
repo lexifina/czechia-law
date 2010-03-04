@@ -1,0 +1,16 @@
+20 Cdo 243/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové a soudců JUDr. Vladimíra Mikuška a JUDr. Olgy Puškinové v exekuční věci oprávněného CORSAIR (Luxembourg) N°11 S. A., se sídlem v Lucemburku, Boulevard Konrad Adenauer 2, L-1115, Lucemburské velkovévodství, zastoupeného Mgr. Soňou Bernardovou, advokátkou se sídlem v Brně, Koliště 55, s adresou pro doručování Brno, Boženy Antonínové 2a, proti povinnému V. B., pro 192.690,- Kč, vedené u Okresního soudu ve Frýdku-Místku pod sp. zn. 30 Nc 6442/2005, o dovolání povinného proti usnesení Krajského soudu v Ostravě ze dne 31. 10. 2006, č. j. 56 Co 401/2006-46, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í :
+Povinný napadl dovoláním v záhlaví uvedené rozhodnutí, kterým krajský soud potvrdil usnesení ze dne 9. 11. 2005, č. j. 30 Nc 6442/2005-23, jímž okresní soud nařídil exekuci vykonatelného rozsudku Krajského obchodního soudu v Ostravě ze dne 12. 10. 1998, sp. zn. 24 Cm 51/97, a provedením exekuce pověřil JUDr. Juraje Podkonického, soudního exekutora.
+Je-li dovolatelem – jako v projednávaném případě – fyzická osoba, je nezbytné, aby (nemá-li právnické vzdělání) byla zastoupena advokátem (notářem), jímž musí být dovolání i sepsáno (srov. § 241 odst. 1, odst. 2 písm. a/ a odst. 4 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů, dále též jen „o. s. ř.“).
+Při podání dovolání, doručeného soudu dne 2. 2. 2007, nebyl povinný zákonem stanoveným způsobem zastoupen a z obsahu spisu nevyplývá, že by měl právnické vzdělání.
+Usnesením ze dne 24. 6. 2009, č. j. 30 Nc 6442/2005-118, soud prvního stupně proto dovolatele vyzval, aby si ve lhůtě dvaceti dnů od doručení usnesení zvolil zástupcem advokáta a jeho prostřednictvím podal řádné dovolání; současně jej poučil, že jinak bude dovolací řízení zastaveno.
+Na výzvu, kterou osobně převzal dne 10. 7. 2009, dovolatel reagoval novou žádostí o ustanovení zástupce pro dovolací řízení, ačkoli o jeho předchozí žádosti o ustanovení advokáta již rozhodl pravomocně okresní soud zamítavým usnesením ze dne 29. 1. 2008, č.j. 30 Nc 6442/2005-82, ve spojení s potvrzujícím usnesením odvolacího soudu ze dne 28. 4. 2008, č.j. 9 Co 314/2008-88 a usnesením Nejvyššího soudu ČR ze dne 14. 4. 2009, č.j. 20 Cdo 4775/2008-107. Proto okresní soud usnesením ze dne 10. 8. 2009, č.j. 30 Nc 6442/2005-121, v právní moci dne 30. 9. 2009, řízení o žádosti zastavil. Dovolatel ani poté vytýkaný nedostatek neodstranil.
+Jelikož povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – vyjma usnesení, jímž se dovolací řízení právě pro jeho neodstranění zastavuje – vydání rozhodnutí, kterým se řízení končí (§ 241 o.s.ř.), a protože ke zhojení uvedeného nedostatku přes opatření soudu nedošlo, Nejvyšší soud dovolací řízení zastavil (§ 104 odst. 2, § 243c odst. 1 o.s.ř.).
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 4. března 2010
+JUDr. Miroslava J i r m a n o v á , v. r.
+předsedkyně senátu
