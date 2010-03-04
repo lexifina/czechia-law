@@ -1,0 +1,16 @@
+20 Cdo 5274/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové a soudců JUDr. Vladimíra Mikuška a JUDr. Olgy Puškinové v právní věci žalobce J. H., proti žalovaným 1) České spořitelně a. s., se sídlem v Praze 4, Olbrachtova 1929/62, a 2) České republice – Ministerstvu financí, se sídlem v Praze 1, Letenská 15, o obnovu řízení, vedené u Okresního soudu ve Frýdku-Místku pod sp. zn. 19 C 322/2007, o dovolání žalobce proti usnesení Krajského soudu v Ostravě ze dne 30. 5. 2008, č. j. 11 Co 260/2008-51, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalobce napadl dovoláním v záhlaví uvedené rozhodnutí, kterým krajský soud změnil usnesení okresního soudu ze dne 14. 3. 2008, č. j. 19 C 322/2007-27, tak, že žalobu na obnovu řízení vedeného u Okresního soudu ve Frýdku-Místku pod sp. zn. 29 Nc 6286/2005 (v němž je nařízena exekuce oprávněné AB – CREDIT a. s. proti povinnému J. H. k uspokojení pohledávky 1.500.000,- Kč s příslušenstvím) zamítl a žádnému z účastníků nepřiznal právo na náhradu nákladů řízení.
+Je-li dovolatelem – jako v projednávaném případě – fyzická osoba, je nezbytné, aby (nemá-li právnické vzdělání) byla zastoupena advokátem (notářem), jímž musí být dovolání i sepsáno (srov. § 241 odst. 1, odst. 2 písm. a/ a odst. 4 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů, dále též jen „o. s. ř.“).
+Při podání dovolání nebyl žalobce zákonem stanoveným způsobem zastoupen a z obsahu spisu nevyplývá, že by měl právnické vzdělání.
+Usnesením ze dne 19. 11. 2008, č. j. 19 C 322/2007-81, soud prvního stupně proto dovolatele vyzval, aby si ve lhůtě čtrnácti dnů od doručení zvolil zástupcem advokáta a jeho prostřednictvím podal řádné dovolání. Zároveň jej poučil, že nemá-li sám právnické vzdělání, musí být v dovolacím řízení zastoupen advokátem, jímž musí být dovolání i sepsáno, a že nebude-li tento nedostatek odstraněn, dovolací soud řízení zastaví. Dovolatel však vytčený nedostatek dosud neodstranil, přestože soud jeho žádosti o ustanovení zástupce pro dovolací řízení nevyhověl (viz usnesení ze dne 17. 2. 2009 na čl. 105, potvrzené usnesením odvolacího soudu ze dne 30. 6. 2009, na čl. 123, a pravomocné ke dni 4. 8. 2009).
+Jelikož povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – vyjma usnesení, jímž se dovolací řízení právě pro jeho neodstranění zastavuje – vydání rozhodnutí, kterým se řízení končí (§ 241 o. s. ř.), a protože ke zhojení uvedeného nedostatku přes opakovaná opatření soudu nedošlo, Nejvyšší soud dovolací řízení zastavil (§ 104 odst. 2, § 243c odst. 1 o. s. ř.).
+Žalobce z procesního hlediska zavinil zastavení dovolacího řízení, žalovaným však v tomto stádiu řízení podle obsahu spisu žádné náklady nevznikly. Tomu odpovídá výrok, že žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení (§ 146 odst. 2 věta první, § 224 odst. 1, § 243b odst. 5 o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 4. března 2010
+JUDr. Miroslava J i r m a n o v á , v. r.
+předsedkyně senátu
