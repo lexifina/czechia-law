@@ -1,0 +1,17 @@
+32 Cdo 2740/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Pavla Koláře a JUDr. Hany Gajdziokové v právní věci žalobkyně GE Money Bank, a.s., se sídlem v Praze 4, Michle, Vyskočilova 1422/1a, PSČ 140 28, IČ 25672720, zastoupené JUDr. Tomášem Sokolem, advokátem se sídlem v Praze 2, Sokolská třída 60, proti žalovanému J. K., o 25 395,62 Kč, vedené u Okresního soudu v Prostějově pod sp. zn. 8 C 8/2004, o dovolání žalovaného proti rozsudku Krajského soudu v Brně ze dne 15. prosince 2008, č. j. 28 Co 102/2007-94, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Dovolání (formálně označené jako stížnost) podané žalovaným proti rozsudku ze dne 15. prosince 2008, č. j. 28 Co 102/2007-94, jímž Krajský soud v Brně potvrdil rozsudek pro uznání ze dne 1. prosince 2006, č. j. 8 C 8/2004-68, v rozsahu, v němž Okresní soud v Prostějově uložil žalovanému zaplatit žalobkyni 25 392,62 Kč a náklady řízení (výrok I.), odmítl odvolání žalovaného proti rozsudku soudu prvního stupně ve výroku o vrácení přeplatku na soudním poplatku žalobkyni (výrok II.) a dále rozhodl o nákladech odvolacího řízení (výrok III.), není přípustné.
+Se zřetelem k době vydání rozsudku odvolacího soudu se uplatní pro dovolací řízení – v souladu s bodem 12. čl. II. přechodných ustanovení zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony – občanský soudní řád ve znění účinném do 30. června 2009 (dále též jen „o. s. ř.“).
+Podle ustanovení § 236 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Jde-li o rozsudek, jímž byl odvolacím soudem potvrzen v pořadí první rozsudek soudu prvního stupně ve věci samé (jak tomu bylo i v posuzovaném případě), je předpokladem přípustnosti dovolání podle ustanovení § 237 odst. 1 písm. c) o. s. ř., o které lze obecně přípustnost dovolání opřít, skutečnost, že dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění převyšujícím 20 000 Kč a v obchodních věcech 50 000 Kč, přičemž k příslušenství pohledávky se nepřihlíží [srov. § 237 odst. 2 písm. a) o. s. ř.].
+V předmětném sporu jde nepochybně o obchodní věc (spor o úhradu pohledávek vzniklých ze smlouvy o úvěru uzavřené mezi účastníky podle obchodního zákoníku), v níž bylo dovoláním dotčeným potvrzujícím výrokem rozsudku odvolacího soudu rozhodnuto ve věci samé o peněžitém plnění ve výši 25 395,62 Kč, tedy o plnění nepřevyšujícím 50 000 Kč. Jedná se tudíž ve smyslu § 237 odst. 2 písm. a) o. s. ř. o věc, u níž není dovolání přípustné.
+Je třeba uzavřít, že dovolání žalovaného směřuje proti rozhodnutí odvolacího soudu, proti němuž není tento mimořádný opravný prostředek přípustný. Nejvyšší soud proto podané dovolání, aniž ve věci nařizoval jednání (§ 243a odst. 1 věta první o. s. ř.), usnesením odmítl pro nepřípustnost [§ 243b odst. 5 věta první a § 218 písm. c) o. s. ř.].
+O nákladech dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 3 o. s. ř., neboť žalovaný, jehož dovolání bylo odmítnuto, nemá na náhradu svých nákladů právo a žalobkyni podle obsahu spisu žádné prokazatelné náklady dovolacího řízení nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 11. března 2010
+JUDr. Miroslav Gallus
+předseda senátu
