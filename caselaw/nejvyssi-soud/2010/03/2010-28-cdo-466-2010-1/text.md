@@ -1,0 +1,20 @@
+28 Cdo 466/2010
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy JUDr. Ludvíka Davida, CSc., a soudců JUDr. Jana Eliáše, Ph.D., a Mgr. Petra Krause v právní věci žalobkyně O. N., zastoupené JUDr. Ladislavem Krymem, advokátem v Praze 1, Národní tř. 43, proti žalovaným 1) ČEDOKINVEST, s. p. v likvidaci, posledně se sídlem v Praze 1, Na Příkopě 18, 2) České republice – Ministerstvu financí, se sídlem v Praze 1, Letenská 15, za níž jedná Úřad pro zastupování státu ve věcech majetkových, se sídlem v Praze 2, Rašínovo nábř. 42, o vydání věci a zaplacení 23.000.000,- Kč, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 12 C 145/2004, o dovolání žalobkyně proti usnesení Městského soudu v Praze ze dne 23. 10. 2009, č.j. 20 Co 435/2009-384, takto:
+I. Dovolání se zamítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů řízení o dovolání.
+O d ů v o d n ě n í :
+Městský soud v Praze jako soud odvolací potvrdil usnesením shora uvedeným usnesení Obvodního soudu pro Prahu 1 ze dne 25. 8. 2009, č.j. 12 C 145/2004-375, kterým bylo ve výroku I. rozhodnuto o pokračování v řízení a výrokem II. bylo řízení o žalobním nároku na uzavření dohody o vydání pozemku p.č. 596 v k.ú. N. M. v P. 1 proti žalovanému 1) zastaveno. Žalobkyně a žalovaný 1) nebyli navzájem zavázáni k náhradě nákladů odvolacího řízení.
+Odvolací soud konstatoval, že za situace, kdy žalovaný 1) byl po provedené likvidaci bez právního nástupce vymazán z obchodního rejstříku ke dni 9. 9. 2006, přičemž podle usnesení Městského soudu v Praze ze dne 25. 6. 2008, č.j. 74 Cmo 133/2008-7, které nabylo právní moci dne 22. 4. 2009, nebylo vyhověno návrhu žalobkyně na zrušení zápisu o výmazu tohoto žalovaného na obnovení jeho likvidace, pak žalovaný 1) zanikl jako subjekt práva a zanikla též jeho způsobilost být účastníkem řízení.
+Proti usnesení odvolacího soudu podala žalobkyně dovolání. Tvrdila, že odvolací soud měl vyčkat rozhodnutí o dovolání ve věci obnovy likvidace žalovaného 1) a v řízení do vydání tohoto rozhodnutí nepokračovat. Vytýkala též odvolacímu soudu, že doposud docházelo k zamítnutí žaloby žalobkyně výhradně z formálních důvodů, aniž by bylo prováděno dokazování ke zjištění podstaty sporu. Navrhla, aby dovolací soud zrušil dovoláním napadené usnesení odvolacího soudu, příp. i usnesení soudu prvního stupně, a věc vrátil tomuto soudu k dalšímu řízení.
+Žalovaní se k podanému dovolání nevyjádřili.
+Nejvyšší soud jako soud dovolací zjistil, že dovolání bylo podáno včas a podala je osoba s právnickým vzděláním (§ 240 odst. 1, § 241 odst. 1 o. s. ř.). Dovolání je přípustné podle ustanovení § 239 odst. 2 písm. a) o. s. ř. Uplatněné dovolací důvody byly označeny podle § 241a odst. 2 písm. a), b) o. s. ř.
+Dovolání není důvodné.
+Jde-li o takový nedostatek podmínky řízení, který nelze odstranit, soud řízení zastaví (§ 104 odst. 1 věta první o. s. ř.). Jde-li o nedostatek podmínky řízení, který lze odstranit, učiní soud k tomu vhodná opatření, přitom zpravidla může pokračovat v řízení, ale nesmí rozhodnout o věci samé. Nezdaří-li se nedostatek podmínky řízení odstranit, řízení zastaví (§ 104 odst. 2 o. s. ř.).
+V projednávané věci došlo v průběhu řízení k výmazu žalovaného 1) z obchodního rejstříku, a to po provedené likvidaci podle zákona č. 77/1997 Sb., o státním podniku, za použití § 70 a násl. obchodního zákoníku bez právního nástupce. Tento nedostatek podmínky pro pokračování v předmětném řízení nebyl odstraněn ani v řízení o návrhu žalobkyně na zrušení zápisu o výmazu tohoto žalovaného a na obnovení jeho likvidace. Žalovaný 1) tak ke dni výmazu z obchodního rejstříku ztratil způsobilost být účastníkem řízení. Nejvyšší soud konstatuje, že soudy nižších instancí postupovaly v souladu s ustanovením § 104 odst. 1 o. s. ř. (s přihlédnutím k ustanovení § 107 odst. 5 o. s. ř.) a řízení zastavily.
+Dovolání bylo podle § 243b odst. 2 věty před středníkem o. s. ř. zamítnuto.
+Protistraně nevznikly v řízení žádné náklady.
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 17. března 2010
+JUDr. Ludvík David, CSc., v. r.
+předseda senátu
