@@ -1,0 +1,20 @@
+20 Cdo 1265/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové a soudců JUDr. Vladimíra Mikuška a JUDr. Olgy Puškinové v exekuční věci oprávněného města Beroun, proti povinnému P. C., pro 1746,- Kč s příslušenstvím, vedené u Okresního soudu v Berouně pod sp. zn. 11 Nc 3964/2005, o dovolání soudního exekutora Mgr. Pavla Dolanského, zastoupeného Mgr. Davidem Řehákem, advokátem se sídlem v Praze 2, Slavíkova 15, proti usnesení Krajského soudu v Praze ze dne 28. 6. 2007, č. j. 27 Co 30/2007-52, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Berouně usnesením ze dne 29. 4. 2006, č. j. 11 Nc 3964/2005-8, nařídil podle vykonatelného platebního rozkazu téhož soudu ze dne 15. 6. 2004, č. j. 7 C 206/2003-37, k vymožení pohledávky 1.746,- Kč s 3,5 % úroky z prodlení od 13. 3. 1999 do zaplacení, náklady nalézacího řízení 600,- Kč a náklady exekuce, exekuci a jejím provedením pověřil Mgr. Pavla Dolanského, soudního exekutora, Exekutorský úřad Beroun.
+Krajský soud v Praze napadeným rozhodnutím usnesení soudu I. stupně zrušil a řízení zastavil (v důsledku zpětvzetí návrhu). Rozhodl, že žádný z účastníků nemá právo na náhradu nákladů řízení před soudy obou stupňů a dále rozhodl, že soudní exekutor nemá právo na odměnu a že se mu nepřiznává náhrada výdajů. Právo na odměnu a na náhradu výdajů soudnímu exekutorovi nepřiznal s odůvodněním, že ten zastavení řízení zavinil, neboť vydal exekuční příkaz, v němž označil za povinného P. C., tedy jinou povinnou osobu než je uvedena v exekučním titulu.
+Soudní exekutor napadl usnesení krajského soudu, a to výrok o zrušení usnesení soudu I. stupně a zastavení řízení a výrok, jímž mu nebylo přiznáno právo na odměnu a náhradu výdajů, dovoláním. Namítal v něm, že exekucí postihl jinou osobu na základě pochybení okresního soudu, který v usnesení o nařízení exekuce označil povinného v rozporu s návrhem oprávněného. Navrhl, aby dovolací soud usnesení odvolacího soudu zrušil a věc mu vrátil k dalšímu řízení.
+Dovolací soud rozhodl o dovolání podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 30. 6. 2009, dále jen „o. s. ř.“ (srov. čl. II Přechodných ustanovení, bod 12, zákona č. 7/2009 Sb.).
+Dovolání proti usnesení odvolacího soudu, jímž bylo rozhodnutí soudu prvního stupně zrušeno a řízení zastaveno, je přípustné podle § 239 odst. l písm. a) o. s. ř.
+Z ustanovení § 240 odst. 1 o. s. ř. však plyne, že dovolání může podat jen účastník řízení. Exekutor má postavení účastníka exekučního řízení v části, v níž se jedná o jeho nárocích na náklady exekuce. Není proto legitimován k podání mimořádného opravného prostředku proti usnesení, kterým bylo usnesení soudu prvního stupně zrušeno a řízení zastaveno.
+Dovolání proti výroku o nákladech exekuce není přípustné.
+Podle ustanovení § 238, § 238a a § 239 o. s. ř. není dovolání přípustné proto, že usnesení o nákladech řízení, a tedy ani o nákladech exekuce, v jejich taxativních výčtech uvedeno není. Přípustnost dovolání nelze opřít ani o ustanovení § 237 odst. 1 o. s. ř., neboť usnesení o nákladech exekuce (stejně jako usnesení o nákladech řízení) není rozhodnutím ve věci samé (srov. usnesení Nejvyššího soudu ze dne 22. 3. 2005, sp. zn. 20 Cdo 2740/2004, uveřejněné v časopise Soudní judikatura č. 5, ročník 2005, pod poř. č. 70, usnesení Nejvyššího soudu ze dne 31. 1. 2002, sp. zn. 29 Odo 874/2001, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek č. 1, ročník 2003, pod č. 4).
+Nejvyšší soud proto dovolání soudního exekutora podle § 243b odst. 5, věty první, a § 218 písm. c) o. s. ř. odmítl.
+Výrok o nákladech dovolacího řízení je odůvodněn § 243b odst. 5, větou první, § 224 odst. 1, § 146 odst. 3 o. s. ř., (exekutor na jejich náhradu právo nemá a účastníkům nevznikly).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 17. března 2010
+JUDr. Miroslava Jirmanová,v.r.
+předsedkyně senátu
