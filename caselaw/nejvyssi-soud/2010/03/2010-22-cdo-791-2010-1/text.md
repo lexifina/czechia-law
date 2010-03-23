@@ -1,0 +1,21 @@
+22 Cdo 791/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jiřího Spáčila, CSc., a soudců Mgr. Michala Králíka, Ph.D., a JUDr. Františka Baláka ve věci žalobce K. N., za účasti 1) Krajského úřadu Olomouckého kraje, Odboru strategického rozvoje kraje, se sídlem v Olomouci, Jeremenkova 40a, a 2) Ředitelství silnic a dálnic ČR, státní příspěvkové organizace se sídlem v Praze 4, Na Pankráci 546/56, o žalobě proti rozhodnutí Krajského úřadu Olomouckého kraje, Odboru strategického rozvoje, č. j. KUOK/83575/2008-2/767, vedené u Krajského soudu v Ostravě pod sp. zn. 23 C 8/2009, o dovolání žalobce proti usnesení Vrchního soudu v Olomouci ze dne 24. září 2009, č. j. 1 Co 121/2009-19, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Podle § 243c odst. 2 občanského soudního řádu (dále jen „o. s. ř.“) v usnesení, jímž bylo dovolání odmítnuto nebo jímž bylo zastaveno dovolací řízení, dovolací soud pouze stručně vyloží důvody, pro které je dovolání opožděné, nepřípustné, zjevně bezdůvodné nebo trpí vadami, jež brání pokračování v dovolacím řízení, nebo pro které muselo být dovolací řízení zastaveno.
+Krajský soud v Ostravě (dále jen „soud prvního stupně“) usnesením ze dne 26. ledna 2009, č. j. 23 C 8/2009-5, zastavil řízení pro překážku zahájeného řízení, rozhodl o náhradě nákladů řízení a o vrácení soudního poplatku žalobci.
+Vrchní soud v Olomouci (dále jen „odvolací soud“) usnesením ze dne 24. září 2009, č. j. 1 Co 121/2009-19, usnesení soudu prvního stupně potvrdil v části týkající se zastavení řízení, odmítl odvolání směřující proti odůvodnění usnesení soudu prvního stupně a rozhodl o náhradě nákladů odvolacího řízení.
+Proti tomuto usnesení odvolacího soudu podal žalobce včasné dovolání.
+Nejvyšší soud České republiky jako soud dovolací po přezkoumání věci dospěl k závěru, že v posuzovaném případě brání meritornímu rozhodnutí o dovolání nesplnění podmínky povinného zastoupení žalobce.
+Podle § 241 odst. 1 věty první o. s. ř. není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními právními předpisy (§ 241 odst. 1 věty druhé o. s. ř.).
+Podle § 241 odst. 2 o. s. ř. odstavec 1 neplatí, a) je-li dovolatelem fyzická osoba, která má právnické vzdělání, b) je-li dovolatelem právnická osoba, stát, obec nebo vyšší územně samosprávný celek, jedná-li za ně osoba uvedená v § 21, § 21a, anebo v § 21b, která má právnické vzdělání.
+Podle § 241 odst. 4 o. s. ř. dovolání musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem, notářem nebo osobou uvedenou v § 21, § 21a, § 21b, anebo v § 26a odst. 3, která má právnické vzdělání.
+V posuzovaném případě podal žalobce dovolání proti usnesení odvolacího soudu, aniž by při tomto úkonu byl zastoupen advokátem (zastoupení notářem v této věci nepřipadá v úvahu), a nebylo ani prokázáno, že by měl právnické vzdělání. K odstranění uvedeného nedostatku jej soud prvního stupně usnesením ze dne 15. ledna 2010, č. j. 23 C 8/2009-25, vyzval, aby si ve lhůtě čtrnácti dnů ode dne doručení usnesení zvolil pro zastupování v dovolacím řízení zástupcem advokáta a aby jeho prostřednictvím podal řádné dovolání; zároveň jej poučil, že dovolací řízení bude zastaveno, nebude-li výzvě ve stanovené lhůtě vyhověno. Toto usnesení bylo žalobci doručeno dne 21. ledna 2010. Ve stanovené lhůtě (a ani později) žalobce na uvedenou výzvu soudu prvního stupně žádným způsobem nereagoval.
+Z uvedeného je zřejmé, že dovolatel nesplnil zákonem stanovenou podmínku povinného zastoupení a přes výzvy a poučení o důsledcích své nečinnosti nedostatek podmínky dovolacího řízení podle § 241 o. s. ř. neodstranil. Dovolací soud proto řízení o dovolání žalobce podle § 243b odst. 5 věty druhé, § 241b odst. 2 a § 104 odst. 2 věty třetí o. s. ř. zastavil.
+Výrok o náhradě nákladů dovolacího řízení vychází z § 243b odst. 5, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 2 věta první o. s. ř. a skutečnosti, že úspěšným žalovaným v dovolacím řízení náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 23. března 2010
+JUDr. Jiří Spáčil, CSc., v. r.
+předseda senátu
