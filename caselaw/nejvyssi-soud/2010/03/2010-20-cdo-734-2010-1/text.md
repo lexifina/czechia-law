@@ -1,0 +1,17 @@
+20 Cdo 734/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Olgy Puškinové a soudců JUDr. Vladimíra Mikuška a JUDr. Miroslavy Jirmanové v exekuční věci oprávněného PROFI CREDIT Czech, a.s. (dříve Profireal, a.s.), se sídlem v Pardubicích, Staré Město, Pernštýnské nám. č.p. 80, IČ 618 60 069, proti povinnému J. P., zastoupenému JUDr. Karlem Hubálkem, advokátem se sídlem v Žamberku, 28. října 160, pro 58.916,- Kč s příslušenstvím, vedené u Okresního soudu v Ústí nad Orlicí pod sp. zn. 0 Nc 5801/2005, o dovolání povinného proti usnesení Krajského soudu v Hradci Králové ze dne 24. července 2009, č. j. 19 Co 274/2009 - 25, takto:
+Dovolání se odmítá.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.):
+Shora označeným usnesením krajský soud odmítl podle § 44 odst. 10 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, odvolání povinného proti usnesení ze dne 28. 2. 2005, č. j. 0 Nc 5801/2005 - 5, jímž okresní soud nařídil podle vykonatelného směnečného platebního rozkazu Krajského soudu v Hradci Králové ze dne 8. 1. 2002, č. j. Sm 1125/2001 - 6, k uspokojení pohledávky oprávněného v částce 58.916,- Kč s 6 % úrokem z prodlení od 18. 9. 2001 do zaplacení, jakož i nákladů předcházejícího řízení v částce 20.930,- Kč, nákladů této exekuce a nákladů oprávněného, které budou v průběhu řízení stanoveny, exekuci na majetek povinného, jejímž provedením pověřil soudního exekutora Mgr. Martina Tunkla, Exekutorský úřad Plzeň-město.
+Usnesení odvolacího soudu napadl povinný dovoláním, v němž odvolacímu soudu vytýká, že se nezabýval jeho nepříznivou sociální situací, ani posouzením, zda výkon práva oprávněného není v rozporu s dobrými mravy.
+Dovolací soud vzhledem k článku II., bodu 12., části první zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, a s ohledem na skutečnost, že napadené rozhodnutí bylo vydáno dne 24. července 2009, o dovolání rozhodl podle občanského soudního řádu ve znění účinném od 1. července 2009, a neshledal je přípustným.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Ve věcech výkonu rozhodnutí (v exekučních věcech) lze dovolání podat jen v případech uvedených v § 238a odst. 1 písm. c) až f) o. s. ř. S účinností od 1. 7. 2009 již toto ustanovení s možností podat dovolání proti usnesení odvolacího soudu, jímž bylo potvrzeno nebo změněno usnesení soudu prvního stupně, kterým bylo rozhodnuto o návrhu na nařízení výkonu rozhodnutí (exekuce), a stejně ani proti usnesení odvolacího soudu, kterým bylo podle § 44 odst. 10 exekučního řádu odmítnuto odvolání, nepočítá [srov. § 238a odst. 1 písm. c) ve znění účinném do 30. 6. 2009, usnesení Nejvyššího soudu ].
+Nejvyšší soud ČR proto dovolání povinného podle § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl.
+Pouze pro úplnost dovolací soud podotýká, že nesprávné poučení odvolacího soudu o přípustnosti dovolání přípustnost dovolání nezakládá (srov. např. rozhodnutí Nejvyššího soudu ČR ze dne 30. 1. 2003, sp. zn. 29 Odo 937/2002).
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 24. března 2010
+JUDr. Olga Puškinová, v. r.
+předsedkyně senátu
