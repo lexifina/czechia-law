@@ -1,0 +1,19 @@
+11 Td 8/2010
+U S N E S E N Í
+Nejvyšší soud v trestní věci odsouzeného T. K., vedené u Okresního soudu v Domažlicích pod sp. zn. 1 T 2/2009 rozhodl v neveřejném zasedání konaném dne 25. března 2010 o příslušnosti soudu t a k t o :
+Podle § 24 odst. 1 tr. řádu j e k projednání trestní věci odsouzeného T. K. p ř í s l u š n ý Okresní soud v Domažlicích.
+O d ů v o d n ě n í :
+Odsouzený T. K. byl trestním příkazem Okresního soudu v Domažlicích ze dne 2. 1. 2009, sp. zn. 1 T 2/2009, uznán vinným ze spáchání trestného činu maření výkonu úředního rozhodnutí podle § 171 odst. 1 písm. a) tr. zákona účinného do 31. 12. 2009 a byl odsouzen k trestu obecně prospěšných prací ve výměře 200 hodin. Zároveň mu byl uložen trest zákazu pobytu na okrese Domažlice na dobu dvou let. Trestní příkaz nabyl právní moci téhož dne.
+Usnesením Okresního soudu v Bruntále ze dne 8. 9. 2009, sp. zn. 0 Nt 1406/2009, byl odsouzenému T. K. podle 336 odst. 2 tr. řádu ve znění do 31. 12. 2009, nařízen výkon obecně prospěšných prací ve městě Horní Benešov. Výkon tohoto trestu zahájil odsouzený dne 2. 11. 2009.
+S poukazem na novelu § 336 odst. 2 trestního řádu, účinnou od 1. 1. 2010, vrátil Okresní soud v Bruntále spis odsouzeného T. K., sp. zn. 0 Nt 1406/2009, Okresnímu soudu v Domažlicích.
+Usnesením Okresního soudu v Domažlicích ze dne 16. 2. 2010, sp. zn. 1 T 2/2009, byla trestní věc odsouzeného T. K. předložena podle § 314c odst. 1 písm. a) za použití § 188 odst. 1 písm. a) tr. řádu Vrchnímu soudu v Praze, k rozhodnutí o příslušnosti soudu, neboť Okresní soud v Domažlicích není k jejímu projednání příslušný.
+Trestní věc odsouzeného T. K. byla dne 8. 3. 2010 postoupena Vrchním soudem v Praze Nejvyššímu soudu s tím, že Vrchní soud v Praze není k jejímu projednání a rozhodnutí ve smyslu § 24 odst. 1 tr. řádu příslušný.
+Nejvyšší soud zhodnotil důkazy a dospěl k tomuto závěru.
+Odsouzenému T. K. byl uložen trest obecně prospěšných prací Okresním soudem v Domažlicích. Pokud Okresní soud v Bruntále dne 8. 9. 2009 nařídil a potom i nadále sledoval výkon trestu obecně prospěšných prací u odsouzeného T. K., postupoval v souladu s tehdy platným ustanovením § 336 tr. řádu, a to vzhledem k místu bydliště odsouzeného. Výkon tohoto trestu odsouzený nastoupil v místě svého bydliště a v současné době ho stále vykonává. Vzhledem k tomu, že ustanovení § 336 tr. řádu bylo později novelizováno, náleží v současné době podle § 336 odst. 2 tr. řádu úkon nařízení výkonu trestu obecně prospěšných prací soudu, který tento trest uložil.
+Nejvyšší soud zhodnotil důkazy použitelné k rozhodnutí podle § 24 tr. řádu a dospěl k závěru, že se nelze ve vztahu k novelizaci ustanovení § 336 odst. 2 tr. řádu, účinného od 1. 1. 2010, ztotožnit s názorem Okresního soudu v Domažlicích, tedy že toto ustanovení se týká pouze dosud nenařízených trestů obecně prospěšných prací, ale nikoliv i příslušnosti ke sledování průběhu výkonu či přeměny tohoto trestu v nepodmíněný, tedy pokud již došlo u obecně prospěšných prací k pravomocnému postupu podle dříve platného ustanovení § 336 tr. řádu.
+V případě, že tedy byl trest obecně prospěšných prací již nařízen, je ke kontrole jeho dalšího výkonu i případné přeměny v trest nepodmíněný příslušný soud, který trest obecně prospěšných prací uložil, a to i v souladu s ustanovením § 337 tr. řádu, který shodně se zněním účinným do 31. 12. 2009 stanoví, že o výkonu tohoto trestu či o neplnění povinností ze strany odsouzeného je informován soud, který trest obecně prospěšných prací nařídil, čímž je podle novely trestního řádu účinné od 1. 1. 2010 soud, který trest obecně prospěšných prací uložil.
+Z těchto důvodů bylo rozhodnuto, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 25. března 2010
+Předseda senátu:
+JUDr. Pavel Kučera v. r.
