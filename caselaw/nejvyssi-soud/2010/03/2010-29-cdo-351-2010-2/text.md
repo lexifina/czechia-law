@@ -1,0 +1,15 @@
+29 Cdo 351/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně doc. JUDr. Ivany Štenglové a soudců Mgr. Filipa Cilečka a JUDr. Petra Šuka v právní věci žalobkyně PRVNÍ PEKÁRENSKÉ KROMĚŘÍŽ, spol. s r. o. v likvidaci, se sídlem v Praze 5, Na Vidouli 1, okres Praha 4, PSČ 158 08, identifikační číslo 16 19 36 36, zastoupené JUDr. Luďkem Trundou, advokátem, se sídlem v Praze 4, Na Nivách 24, PSČ 140 00, proti žalovanému Místnímu bytovému podniku v Praze 4 Jižním Městě - Chodově, státnímu podniku v likvidaci, identifikační číslo 00 40 74 61, za účasti Obce hl. m. Praha, Městské části Praha – Jižní Město, se sídlem v Praze 4 – Jižním Městě, Svítkova 672, jako vedlejšího účastníka na straně žalovaného, zastoupené JUDr. Tomášem Pohlem, advokátem, se sídlem v Praze 2 – Vinohradech., Šafaříkova 1, PSČ 120 00, o zaplacení částky 5,342.803,20 Kč s příslušenstvím, vedené u Krajského soudu v Praze pod sp. zn. 5 Cm 175/94, o dovolání žalovaného proti usnesení Vrchního soudu v Praze ze dne 30. května 2001, č. j. 3 Cmo 205/2000 – 125, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Vrchní soud v Praze usnesením ze dne 30. května 2001, č. j. 3 Cmo 205/2000 - 125, odmítl odvolání vedlejší účastnice do rozsudku ve věci samé (výrok I.), odmítl odvolání původního správce konkursní podstaty úpadce Místního bytového podniku v Praze 4 Jižním Městě - Chodově, státního podniku v likvidaci, Mgr. D.V. (výrok II.) a zrušil rozsudek Městského soudu v Praze ze dne 10. září 1999, č. j. 5 Cm 175/94 – 90, v části týkající se nákladů řízení a v tomto rozsahu vrátil věc zpět soudu prvního stupně k dalšímu řízení (výrok III.).
+Proti usnesení odvolacího soudu podal žalovaný dovolání, domáhaje se zrušení rozhodnutí odvolacího soudu a vrácení věci tomuto soudu k dalšímu řízení.
+Zkoumaje podmínky řízení (§ 103 občanského soudního řádu – dále jen „o. s. ř.) Nejvyšší soud z obchodního rejstříku, vedeného Městským soudem v Praze, oddílu ALXI, vložky 144, zjistil, že usnesením Městského soudu v Praze č. j. 80 K 75/99 – 267 byl zrušen konkurs na majetek úpadce Místního bytového podniku v Praze 4 Jižním městě – Chodově, státního podniku v likvidaci. Usnesení nabylo právní moci dne 21. dubna 2009. Usnesením č. j. 80 K 75/99 - 276, které nabylo právní moci dne 12. června 2009, Městský soud v Praze zprostil funkce správce konkursní podstaty a následně ke dni 23. února 2010 byl úpadce vymazán z obchodního rejstříku bez právního nástupce [§ 68 odst. 1 a 3 písm. f) obchodního zákoníku].
+Jelikož v průběhu dovolacího řízení byl úpadce vymazán z obchodního rejstříku bez právního nástupce, Nejvyšší soud dovolací řízení podle ustanovení § 107 odst. 5 a § 243c o. s. ř. zastavil.
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 1 písm. c) o. s. ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 30. března 2010
+doc. JUDr. Ivana Š t e n g l o v á
+předsedkyně senátu
