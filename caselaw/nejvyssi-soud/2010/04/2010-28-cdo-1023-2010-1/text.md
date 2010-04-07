@@ -1,0 +1,19 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY 28 Cdo 1023/2010-188
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Ludvíka Davida, CSc., a soudců Mgr. Petra Krause a JUDr. Josefa Rakovského ve věci žalobce: U svatého Michala, a.s., IČ: 27149820, se sídlem v Praze 1, Václavské náměstí 1601/47, zastoupeného JUDr. Tomášem Rybářem, advokátem se sídlem v Praze 1, Václavské náměstí 1601/47, proti žalovanému: Arch. P. H., zastoupený JUDr. Martinem Kölblem, advokátem se sídlem v Praze 1, Štěpánská 39, o zaplacení 512.255,55 Kč, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 11 C 63/2006, o dovolání žalovaného proti usnesení Městského soudu v Praze ze dne 18. listopadu 2009, č. j. 19 Co 410/2009-174, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í
+Shora označeným usnesením Městský soud v Praze jako soud odvolací odmítl odvolání žalovaného proti rozsudku Obvodního soudu pro Prahu 1 ze dne 12. listopadu 2008, č. j. 11 C 63/2006-119 (výrok I) a žádnému z účastníků nepřiznal právo na náhradu nákladů odvolacího řízení (výrok II). Dospěl k závěru, že jde o odvolání neurčité, postrádající náležitosti vyžadované ustanovením § 205 odst. 1 občanského soudního řádu (o. s. ř.). Jeho vady, které žalovaný neodstranil ani po výzvě soudu prvního stupně ze dne 28. 7. 2009, brání pokračování v odvolacím řízení (§ 43 odst. 2, § 211 o. s. ř.).
+Proti usnesení odvolacího soudu podal žalovaný dovolání.
+Nejvyšší soud jako soud dovolací (§ 10a o. s. ř.) postupoval v dovolacím řízení podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném od 1. 7. 2009, neboť dovoláním bylo napadeno rozhodnutí odvolacího soudu, které bylo vydáno po 30. 6. 2009 (srov. článek II, bod 12 zákona č. 7/2009 Sb., jímž se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů a další související zákony). Po zjištění, že dovolání proti pravomocnému usnesení odvolacího soudu bylo podáno oprávněnou osobou (účastníkem řízení) v zákonné lhůtě (§ 240 odst. 1 o. s. ř.), se zabýval otázkou přípustnosti dovolání.
+Dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští (§ 236 odst. 1 o. s. ř.).
+V posuzovaném případě žalovaný dovoláním napadá usnesení odvolacího soudu, kterým bylo odmítnuto jeho odvolání proti usnesení soudu prvního stupně pro vady odvolání (srov. § 43 odst. 2, § 209 a § 211 o. s .ř.).
+Přípustnost dovolání podle ustanovení § 237 o. s. ř. není dána, a to již proto, že usnesením odvolacího soudu nebylo potvrzeno nebo změněno usnesení soudu prvního stupně, kterým by bylo rozhodnuto ve věci samé. Dovolání není přípustné ani podle ustanovení § 238, § 238a a § 239 o. s. ř., protože usnesením odvolacího soudu nebylo potvrzeno nebo změněno usnesení soudu prvního stupně ve věcech, které jsou taxativně vyjmenovány v ustanoveních § 238 a § 238a o. s. ř., a nejde rovněž o žádný z případů procesních rozhodnutí uvedených v ustanovení § 239 o. s. ř. (srov. usnesení Nejvyššího soudu ze dne 9. 12. 2004, sp. zn. 29 Odo 829/2003, uveřejněné v časopise Soudní judikatura pod č. 72, ročník 2005).
+Z uvedeného vyplývá, že dovolání směřuje proti rozhodnutí odvolacího soudu, proti němuž není tento mimořádný opravný prostředek přípustný. Nejvyšší soud proto dovolání žalovaného podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a §146 odst. 1 o. s. ř. za situace, kdy žalobci, který by měl na náhradu nákladů tohoto řízení jinak zásadně právo, v dovolacím řízení náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 7. dubna 2010
+JUDr. Ludvík David, CSc., v. r.
+předseda senátu
