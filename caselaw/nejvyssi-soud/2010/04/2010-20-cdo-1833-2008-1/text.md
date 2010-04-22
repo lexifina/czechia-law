@@ -1,0 +1,34 @@
+20 Cdo 1833/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Vladimíra Mikuška a soudkyň JUDr. Olgy Puškinové a JUDr. Miroslavy Jirmanové v exekuční věci oprávněné GE Money Multiservis, a.s., se sídlem v Praze 4 – Michli, Vyskočilova 1422/1a, IČ 49241150, zastoupené JUDr. Vladislavem Cilínkem, advokátem se sídlem v Praze 2, Římská 36, proti povinnému I. P., pro 32.222,- Kč s příslušenstvím, vedené u Okresního soudu ve Svitavách pod sp. zn. 4 Nc 3148/2006, o dovolání povinného proti usnesení Krajského soudu v Hradci Králové – pobočky v Pardubicích z 27. 9. 2006, č. j. 22 Co 367/2006-23, takto:
+Usnesení Krajského soudu v Hradci Králové – pobočky v Pardubicích z 27. 9. 2006, č. j. 22 Co 367/2006-23, se ruší a věc se tomuto soudu vrací k dalšímu řízení.
+O d ů v o d n ě n í :
+Usnesením z 20. 6. 2006, č. j. 4 Nc 3148/2006-13, okresní soud zamítl návrh na nařízení exekuce s odůvodněním, že nařízení bylo navrženo proti I. P., zatímco exekuční titul (ač žaloba byla podána proti I. P.) „zní proti J. P..“
+Krajský soud k odvolání oprávněné změnil usnesení soudu prvního stupně tak, že exekuci nařídil. Své rozhodnutí odůvodnil závěrem, že usnesením ze 16. 8. 2006, č. j. 14 C 1143/2003-69, bylo k návrhu oprávněné záhlaví exekučního titulu (rozsudku Okresního soudu Brno – venkov ze 14. 10. 2003, č. j. 14 C 1143/2003-58) opraveno tak, že jako žalovaný byl označen I. P., že tedy bylo nařízení exekuce navrženo proti osobě, proti níž směřoval exekuční titul.
+Proti tomuto rozhodnutí podal dovolání povinný, jenž ohlásil všechny tři dovolací důvody (§ 241a odst. 2 písm. a/, b/ a odst. 3 o. s. ř.). Aniž specifikuje, v čem spatřuje naplnění každého z nich, namítá především, že k exekuci navržený rozsudek nebyl doručen do vlastních rukou jeho opatrovníka (ustanoveného mu podle § 29 odst. 3 o. s. ř.), tedy Mgr. Jitce Stráníkové, tehdejší justiční čekatelce Okresního soudu ve Svitavách, nýbrž paní Daně Romportlové jakožto zmocněnkyni Okresního soudu ve Svitavách k přebírání pošty. Z uvedeného povinný dovozuje, že zde není vykonatelný exekuční titul a navrhuje zrušení napadeného rozhodnutí.
+Oprávněná navrhla odmítnutí dovolání.
+Dovolání, přípustné podle § 238a odst. 1 písm. c), odst. 2 o. s. ř. ve spojení s ustanovením § 237 odst. 1 písm. a) o. s. ř., je důvodné.
+Podle § 242 odst. 3 věty druhé o. s. ř., je-li dovolání přípustné, dovolací soud přihlédne též k vadám uvedeným v § 229 odst. 1, § 229 odst. 2 písm. a) a b) a § 229 odst. 3 o. s. ř., jakož i k jiným vadám řízení, které mohly mít za následek nesprávné rozhodnutí ve věci, i když nebyly v dovolání uplatněny.
+A právě takovou jinou vadou (ve smyslu ustanovení § 241a odst. 2 písm. a/ o. s. ř.) trpí dané řízení. Při nařízení exekuce totiž soud zkoumá především, zda existuje exekuční titul vykonatelný po formální i materiální stránce.
+Závěr o vykonatelnosti titulu je závěrem právním, jehož přezkum je v dovolacím řízení možný v intencích dovolacího důvodu podle § 241a odst. 2 písm. b/ o.s.ř., aby však mohl soud k takovému závěru dospět, musí učinit potřebná skutková zjištění. V projednávané věci šlo především o zjištění, zda k exekuci navržený rozsudek byl povinnému, resp. v souzené věci jeho opatrovníkovi, řádně doručen. Nesprávnost, případně neúplnost těchto skutkových zjištění pak lze namítat prostřednictvím dovolacích důvodů podle § 241a odst. 3, resp. § 241a odst. 2 písm. a/ o.s.ř. Za použití druhého (posuzováno podle obsahu dovolání) z uvedených důvodů dovolatel vytýká, že odvolací soud okolnost, zda mu byl exekuční titul řádně doručen, nezjišťoval.
+Jak plyne z doručenky na č. l. 59 připojeného spisu nalézacího soudu Brno – venkov, sp. zn. 14 C 1143/2003, byl k exekuci navržený rozsudek doručen vskutku Daně Romportlové, nikoli justiční čekatelce Mgr. Jitce Stráníkové jakožto soudem ustanovenému opatrovníkovi povinného. Tato skutečnost přitom neplyne jen z podpisu a otisku služebního razítka uvedené pracovnice soudu pověřené k přebírání zásilek určených soudu (k doručování zásilek adresovaných soudu viz odůvodnění usnesení Nejvyššího soudu z 29. 6. 2004, sp. zn. 29 Odo 1106/2003, uveřejněného v časopise Soudní judikatura č. 7, ročník 2004, pod poř. č. 133), ale také z vadného označení adresáta zásilky spočívajícího v nesprávném pořadí údajů na doručence.
+Podle ustanovení § 5 odst. 1 vyhlášky č. 28/2001 Sb., ministerstva dopravy a spojů, účinné od 25. 1. 2001 do 7. 5. 2004 (tedy i v době doručování předmětného rozsudku), musí být adresa adresáta uvedena tak přesně, aby nevznikly pochybnosti, kde a komu má držitel poštovní licence dodat poštovní zásilku nebo vyplatit poukázanou peněžní poukázku.
+Podle § 5 odst. 2 citovaného zákona adresa v následujícím pořadí obsahuje
+a) označení adresáta – u fyzické osoby její jméno a příjmení, k nimž může být připojeno i její rodné číslo nebo datum narození; u právnické osoby její název nebo obchodní firma, popřípadě i označení příslušné organizační složky,
+b) má-li být poštovní zásilka nebo poštovní poukaz adresátovi dodán prostřednictvím jiné fyzické nebo právnické osoby, i její dostatečné přesné označení,
+c) místo dodání – název ulice, náměstí apod.; číslo domu, popřípadě i číslo bytu; název obce, její části apod.
+Takovýmto zákonem předepsaným způsobem však adresát zásilky, v níž byl doručován vykonávaný rozsudek, označen nebyl. Jak plyne z doručenky, jako adresát byl označen
+Okresní soud Svitavy
+Mgr. Jitka Stráníková
+justiční čekatelka
+Dimitrovova 33
+568 19 Svitavy.
+V souladu s takovýmto – ovšem z hlediska, komu měl být ve skutečnosti vykonávaný rozsudek doručen, nesprávným – označením pak došlo k tomu, že místo opatrovnice povinného, jež měla vykonávaný rozsudek převzít do vlastních rukou, tento rozsudek převzala pracovnice soudu (na doručence označeného jako adresát) pověřená přebíráním pošty.
+Z uvedeného plyne, že odvolací exekuční soud, jestliže uvedené pochybení nalézacího soudu při doručování exekučního titulu přehlédl a jestliže tedy řádně nezjistil, že titul byl doručen osobě jiné než zástupci povinného, zatížil řízení vadou, jež mohla mít – a v daném případě měla – za následek nesprávné rozhodnutí ve věci.
+Vzhledem k výše uvedenému Nejvyšší soud napadené rozhodnutí bez jednání (§ 243a odst. 1 o. s. ř.) podle ustanovení § 243b odst. 2 věty za středníkem o.s.ř. zrušil a věc podle první věty třetího odstavce téhož ustanovení vrátil odvolacímu soudu k dalšímu řízení.
+Právní názor dovolacího soudu je pro soud odvolací závazný (§ 243d odst. 1, část první věty za středníkem o. s. ř.).
+V novém usnesení odvolací soud rozhodne nejen o nákladech dalšího řízení, ale znovu i o nákladech řízení původního, tedy i dovolacího (§ 243d odst. 1 věta druhá o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 22. dubna 2010
+JUDr. Vladimír Mikušek, v. r.
+předseda senátu
