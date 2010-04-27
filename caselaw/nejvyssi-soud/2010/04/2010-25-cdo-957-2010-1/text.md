@@ -1,0 +1,15 @@
+25 Cdo 957/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Vojtka a soudců JUDr. Marty Škárové a JUDr. Roberta Waltra v právní věci žalobce D. M., proti žalovaným 1) T. M., 2) Z. R., a 3) Bc. M. P., o žalobě na určení, vedené u Městského soudu v Brně pod sp. zn. 43 C 43/2009, o dovolání žalobce proti usnesení Krajského soudu v Brně ze dne 22. září 2009, č.j. 44 Co 261/2009-74, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá nárok na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Brně usnesením ze dne 17. 2. 2009, č. j. 43 C 43/2009-42, zamítl návrh žalobce na ustanovení zástupce, odmítl žalobu ze dne 9. 1. 2008 a rozhodl o náhradě nákladů řízení a o vrácení soudního poplatku. Krajský soud v Brně usnesením ze dne 22. 9. 2009, č.j. 44 Co 261/2009-74, potvrdil usnesení soudu prvního stupně v zamítavém výroku, odmítl odvolání žalobce proti výroku o odmítnutí žaloby a rozhodl o náhradě nákladů řízení před soudy obou stupňů.
+Žalobce – nezastoupen advokátem – podal proti usnesení odvolacího soudu dovolání, v němž namítá, že mu měl být „dle zákona ustanoven právní zástupce“.
+Nejvyšší soud jako soud dovolací (§ 10a o.s.ř.) po zjištění, že dovolání bylo podáno včas, osobou oprávněnou - účastníkem řízení, dospěl k závěru, že v daném případě dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný. Dovolatel není zastoupen advokátem, ani nedoložil, že by měl sám právnické vzdělání, avšak vzhledem k tomu, že dovolání je nepřípustné, není nedostatek podmínky dovolacího řízení důvodem k zastavení řízení podle § 104 odst. 2 o.s.ř. (srov. ustanovení § 241b odst. 2 o.s.ř.).
+Přípustnost dovolání nelze vyvozovat z § 237 odst. 1 o.s.ř., neboť usnesení o odvolání žalobce proti rozhodnutí soudu prvního stupně není rozhodnutím ve věci samé, ani z ustanovení § 238, § 238a odst. 1 a § 239 o.s.ř., neboť napadené rozhodnutí nelze podřadit žádnému z tam taxativně vyjmenovaných případů. Dovolání proti usnesení, jímž odvolací soud potvrdil usnesení soudu prvního stupně o zamítnutí návrhu na ustanovení zástupce z řad advokátů, tak není přípustné (srov. např. usnesení Nejvyššího soudu ČR ze dne 4. 9. 2003, sp. zn. 29 Odo 265/2003, uveřejněné pod č. 47 ve Sbírce soudních rozhodnutí a stanovisek, ročník 2006), stejně jako dovolání proti usnesení, jímž odvolací soud odmítl odvolání (srov. usnesení téhož soudu ze dne 28. 6. 2006, sp. zn. 29 Odo 381/2005, publikované pod C 4704 v Souboru civilních rozhodnutí NS, C. H. BECK). Nejvyšší soud je proto odmítl podle § 243b odst. 5 věty první a § 218 písm. c) o.s.ř.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o.s.ř. za situace, kdy dovolání žalobce bylo odmítnuto a žalovaným žádné náklady dovolacího řízení nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 27. dubna 2010
+JUDr. Petr V o j t e k , v. r.
+předseda senátu
