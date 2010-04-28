@@ -1,0 +1,20 @@
+25 Cdo 955/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marty Škárové a soudců JUDr. Petra Vojtka a JUDr. Roberta Waltra v právní věci Ing. Z. P., o náhradu škody – nejasné podání, vedené u Okresního soudu v Šumperku pod sp. zn. 16 Nc 411/2008, o dovolání Ing. Z. P. proti usnesení Krajského soudu v Ostravě - pobočka v Olomouci ze dne 18. 12. 2008, sp. zn. 12 Co 601/2008-32, takto :
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Ostravě – pobočka v Olomouci usnesením ze dne 18. 12. 2008, č. j. 12 Co 601/2008-32, potvrdil usnesení ze dne 8. 10. 2008, č. j. 16 Nc 411/2008-23, jímž Okresní soud v Šumperku odmítl podání Ing. Z. P. ze dne 18. 8. 2008, kterým se domáhala náhrady škody, a rozhodl o náhradě nákladů odvolacího řízení.
+Proti tomuto usnesení odvolacího soudu podala Ing. Z. P. vlastnoručně psané dovolání.
+Nejvyšší soud jako soud dovolací (§ 10a o. s. ř.) dospěl k závěru, že nejsou splněny podmínky dovolacího řízení.
+Podle ust. § 241 odst. 1 věty první o. s. ř. není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem.
+Podle ust. § 241 odst. 2 o. s. ř. odstavec 1 neplatí, a) je-li dovolatelem fyzická osoba, která má právnické vzdělání, b) je-li dovolatelem právnická osoba, stát, obec nebo vyšší územně samosprávný celek, jedná-li za ně osoba uvedená v § 21, 21a, anebo v § 21b, která má právnické vzdělání.
+Podle ust. § 241 odst. 4 o. s. ř. dovolání musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem, notářem nebo osobou uvedenou v § 21, 21a, 21b, anebo v § 26a odst. 3, která má právnické vzdělání.
+Pro podání dovolání, které je mimořádným opravným prostředkem, zákon stanoví požadavek, aby účastník řízení, který podává dovolání, měl buď sám právnické vzdělání, anebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc, a dovolání bylo touto osobou sepsáno. Ustanovení § 241 o. s. ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění nelze o dovolání věcně rozhodnout.
+V dané věci Ing. Z. P. podala vlastnoručně psané dovolání, aniž byla při tomto úkonu zastoupena advokátem, a nebylo prokázáno (ani tvrzeno), že by sama měla právnické vzdělání. Její žádosti o ustanovení zástupce pro dovolací řízení nebylo vyhověno (usnesení Okresního soudu v Šumperku ze dne 15. 5. 2009, č. j. 16 Nc 411/2008-45, ve spojení s usnesením Krajského soudu v Ostravě – pobočka v Olomouci ze dne 31. 8. 2009, č. j. 12 Co 249/2009-52). Usnesením Okresního soudu v Šumperku ze dne 19. 11. 2009, č. j. 16 Nc 411/2008-55, jehož stejnopis jí byl doručen dne 26. 11. 2009, byla Ing. P. vyzvána, aby si ve lhůtě 14 dnů od doručení tohoto usnesení zvolila právního zástupce – advokáta a předložila jím doplněné dovolání s poučením, že pokud tak neučiní, dovolací soud dovolací řízení zastaví. Na tuto výzvu Ing. Z. P. reagovala přípisem doručeným soudu dne 11. 12. 2009, v němž opakuje některá svá předešlá tvrzení a dále uvádí, že z důvodu nedostatku finančních prostředků nemůže předložit plnou moc udělenou právnímu zástupci pro dovolací řízení a znovu požádala o jeho ustanovení na náklady státu.
+Přestože byla Ing. P. o povinném právním zastoupení v dovolacím řízení poučena, advokáta si ani dodatečně nezvolila a netvrdí ani nedoložila, že by sama měla právnické vzdělání. Vzhledem k tomu, že nedostatek podmínky dovolacího řízení podle ust. § 241 odst. 1 věty první o. s. ř. nebyl ani přes poučení odstraněn, Nejvyšší soud řízení o dovolání Ing. Z. P. podle § 243c odst. 1 a § 104 odst. 2 věty třetí o. s. ř. zastavil, aniž bylo třeba se zabývat otázkou dalších náležitostí podaného dovolání.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 2 věty prvé o. s. ř. s tím, že v dovolacím řízení Ing. P. žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 28. dubna 2010
+JUDr. Marta Škárová, v. r.
+předsedkyně senátu
