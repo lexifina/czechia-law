@@ -1,0 +1,18 @@
+20 Cdo 1215/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Olgy Puškinové a soudců JUDr. Vladimíra Mikuška a JUDr. Miroslavy Jirmanové ve věci výkonu rozhodnutí oprávněného Finančního úřadu v Šumperku, se sídlem v Šumperku, Gen. Svobody 38, proti povinnému S. M., zastoupenému Mgr. Helenou Kučerovou, advokátkou se sídlem v Šumperku, Hlavní třída 904/8, za účasti manželky povinného H. M., pro 2.309.950,- Kč, zřízením soudcovského zástavního práva, vedené u Okresního soudu v Šumperku pod sp. zn. 22 E 298/2008, o dovolání povinného proti usnesení Krajského soudu v Ostravě - pobočky v Olomouci ze dne 28. srpna 2009, č. j. 40 Co 148/2009 - 31, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.):
+Shora označeným usnesením krajský soud změnil usnesení ze dne 9. 1. 2009, č. j. 22 E 298/2008 - 14, jímž Okresní soud v Šumperku zamítl návrh na nařízení výkonu rozhodnutí zřízením soudcovského zástavního práva na nemovitostech ve vlastnictví H. M. ve výroku tohoto usnesení blíže specifikovaných a kterým rozhodl, že žádný z účastníků nemá právo na náhradu nákladů řízení, tak, že nařídil podle vykonatelných výkazů nedoplatků Finančního úřadu v Šumperku ze dne 19. 7. 2006, č. j. 82849/06/398911/0626, ze dne 24. 1. 2007, č. j. 6890/07/398911/0626, ze dne 27. 5. 2008, č. j. 71139/08/398911/3128, a ze dne 8. 12. 2008, č. j. 117251/08/398911803128, k uspokojení pohledávky oprávněného v celkové výši 2.309.950,- Kč, výkon rozhodnutí zřízením soudcovského zástavního práva na předmětných nemovitostech s tím, že nařízení výkonu rozhodnutí se vztahuje na označené nemovitosti i s jejich součástmi a příslušenstvím, přičemž pro pořadí soudcovského zástavního práva je rozhodující doba, kdy soudu došel návrh na zřízení soudcovského zástavního práva, to je 18. 12. 2008; dále rozhodl o nákladech řízení před soudy obou stupňů.
+Usnesení odvolacího soudu napadl povinný dovoláním.
+Dovolací soud vzhledem k článku II., bodu 12., části první zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, a s ohledem na skutečnost, že napadené rozhodnutí bylo vydáno dne 28. srpna 2009, o dovolání rozhodl podle občanského soudního řádu ve znění účinném od 1. července 2009, a neshledal je přípustným.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Ve věcech výkonu rozhodnutí lze dovolání podat jen v případech uvedených v § 238a odst. 1 písm. c) až f) o. s. ř. S účinností od 1. 7. 2009 již toto ustanovení s možností podat dovolání proti usnesení odvolacího soudu, jímž bylo potvrzeno nebo změněno usnesení soudu prvního stupně, kterým bylo rozhodnuto o návrhu na nařízení výkonu rozhodnutí (zřízením soudcovského zástavního práva), nepočítá [srov. § 238a odst. 1 písm. c) ve znění účinném do 30. 6. 2009].
+Nejvyšší soud ČR proto dovolání povinného podle § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl.
+Pouze pro úplnost dovolací soud podotýká, že nesprávné poučení odvolacího soudu o přípustnosti dovolání jeho přípustnost nezakládá (srov. např. rozhodnutí Nejvyššího soudu ČR ze dne 30. 1. 2003, sp. zn. 29 Odo 937/2002).
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, § 224 odst. 1 a § 151 odst. 1 o. s. ř., neboť oprávněnému v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 28. dubna 2010
+JUDr. Olga Puškinová , v. r.
+předsedkyně senátu
