@@ -1,0 +1,17 @@
+29 Cdo 4727/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudců JUDr. Petra Šuka a Mgr. Jiřího Zavázala v právní věci žalobce A. V., zastoupeného JUDr. Gabrielou Lyžbickou, advokátkou, se sídlem v Mladé Boleslavi, Smetanova 834, PSČ 293 01, proti žalovanému M. S., zastoupenému JUDr. Jiřinou Smrkovskou, advokátkou, se sídlem v Praze 3, Lucemburská 1599/13, PSČ 130 00, o námitkách proti směnečnému platebnímu rozkazu, vedené u Krajského soudu v Praze pod sp. zn. 49 Cm 41/2007, o dovolání žalovaného proti rozsudku Vrchního soudu v Praze ze dne 4. listopadu 2008, č. j. 5 Cmo 367/2008-76, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Vrchní soud v Praze k odvolání žalovaného rozsudkem ze dne 4. listopadu 2008, č. j. 5 Cmo 367/2008-76, potvrdil rozsudek ze dne 29. října 2007, č. j. 49 Cm 41/2007-23, jímž Krajský soud v Praze ponechal v celém rozsahu v platnosti směnečný platební rozkaz ze dne 20. března 2007, č. j. 61 Sm 27/2007-13, kterým žalovanému uložil zaplatit žalobci částku 310.000,- Kč s 6% úrokem od 1. ledna 2007 do zaplacení a náklady řízení.
+Odvolací soud přitakal závěru soudu prvního stupně, podle něhož na povinnost žalovaného (výstavce vlastní směnky) zaplatit žalobci (remitentovi) směnečnou sumu včetně shora uvedeného 6% úroku nemá vliv argumentace žalovaného, že směnku nemohl zaplatit v důsledku nesprávného postupu „exekutora a exekučního soudu“.
+Proti rozsudku odvolacího soudu podal žalovaný dovolání, které má za přípustné podle ustanovení § 237 odst. 1 písm. c) občanského soudního řádu (dále jen „o. s. ř.“), spatřuje zásadní právní význam rozhodnutí odvolacího soudu v řešení otázky, jak postupovat v případě, kdy žalobce se oprávněně u soudu domáhá svého práva, ale žalovaný – povinný, ač právo žalobce uznává, nemůže plnit, jelikož „jiný soud a orgán soudem pověřený“ porušují jeho vlastnické právo, když „porušují ustanovení občanského soudního řádu“. Současně zdůrazňuje, že soudy nedostatečně hodnotily okolnosti případu, nepřihlédly k jeho tvrzením a nezohlednily okolnosti, které on sám nezavinil; celé řízení je tak – pokračuje dovolatel – postiženo vadou, která má za následek nesprávné rozhodnutí ve věci a rozhodnutí samotné spočívá na nesprávném právním posouzení věci.
+Dovolání žalovaného proti potvrzujícímu výroku rozsudku odvolacího soudu ve věci samé, které není přípustné podle ustanovení § 237 odst. 1 písm. b) o. s. ř., Nejvyšší soud neshledal přípustným ani podle ustanovení § 237 odst. 1 písm. c) o. s. ř.; proto je podle ustanovení § 243b odst. 5 a § 218 písm. c) o. s. ř. odmítl.
+Učinil tak proto, že výhrady žalovaného založené na tvrzení, podle něhož nemohl na směnku plnit v důsledku protiprávního jednání třetí osoby (zde exekutora a exekučního soudu), jsou ve vztahu k řešení otázky, zda byl směnečný platební rozkaz vydán po právu či nikoli, bez právního významu.
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalovaného bylo odmítnuto a žalobci podle obsahu spisu v dovolacím řízení náklady nevznikly.
+Rozhodné znění občanského soudního řádu se podává z bodu 12., části první, článku II. zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 29. dubna 2010
+JUDr. Petr Gemmel
+předseda senátu
