@@ -1,0 +1,20 @@
+33 Cdo 1501/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivany Zlatohlávkové a soudců JUDr. Pavla Krbka a JUDr. Václava Dudy ve věci žalobkyně G. V., zastoupené Mgr. Markem Czivišem, advokátem se sídlem v Praze 3, Přemyslovská 13, proti žalované Telefónica O2 Czech Republic, a.s., se sídlem v Praze 4, Michli, Za Brumlovkou 266/2, o zrušení rozhodnutí ČTÚ, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 20 C 70/2004, o dovolání žalované proti rozsudku Městského soudu v Praze ze dne 22. října 2007, č. j. 39 Co 125/2007-70, takto:
+I. Dovolání se odmítá.
+II. Žádná z účastnic nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Obvodní soud pro Prahu 1 (soud prvního stupně) rozsudkem ze dne 22. listopadu 2007, č. j. 20 C 70/2004-51, zastavil řízení o změně rozhodnutí ČTÚ (tj. Českého telekomunikačního úřadu) č.j. 8408/2004-603 ve spojení s rozhodnutími č.j. 009383/2003-631/Hrd/F a č.j. 011694/2003-631/Hrd/F o námitkách proti vyúčtování za telekomunikační služby za období od 11. 12. 2002 do 10. 1. 2003 v rozsahu 24,- Kč a za období od 11. 1. 2003 do 10. 2. 2003 v rozsahu 140,- Kč (výrok I.), změnil rozhodnutí ČTÚ č.j. 8408/2004-603 ve spojení s rozhodnutími č.j. 009383/2003-631/Hrd/F a č.j. 011694/2003-631/Hrd/F tak, že jsou důvodné námitky žalobkyně proti vyřízení reklamace vyúčtování cen za telekomunikační služby u telefonní stanice číslo 224826105 za zúčtovací období od 11. 12. 2002 do 10. 1. 2003 v rozsahu částky 1.671,75 Kč a za zúčtovací období od 11. 1. 2003 do 10. 2. 2003 v rozsahu částky 9.934,75 Kč (výrok II.), a rozhodl o nákladech řízení (výrok III.).
+K odvolání žalované Městský soud v Praze jako soud odvolací rozsudkem ze dne 22. října 2007, č. j. 39 Co 125/2007-70, rozsudek soudu prvního stupně ve výroku o věci samé potvrdil, ve výroku o nákladech řízení jej změnil a rozhodl o nákladech odvolacího řízení.
+Proti rozsudku odvolacího soudu, podala žalovaná dovolání, jehož přípustnost dovozuje z ustanovení § 237 odst. 1 písm. c/ o. s. ř. Odvolacímu soudu vytýká nesprávné právní posouzení věci a navrhuje jeho rozsudek zrušit a věc mu vrátit k dalšímu řízení.
+V řízení o dovolání bylo postupováno podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění do 30. 6. 2009 – dále jen „o. s. ř.“ (srovnej článek II bod 12 zákona č. 7/2009 Sb.).
+Podle § 245 o. s. ř. není-li v části týkající se řízení ve věcech, o nichž bylo rozhodnuto jiným orgánem (tak jako v posuzované věci) uvedeno jinak, užijí se přiměřeně ustanovení části první až čtvrté tohoto zákona.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Dovolání bylo podáno včas k tomu oprávněnou osobou (žalovanou), není však v dané věci přípustné.
+Přípustnost dovolání proti rozhodnutím odvolacího soudu ve věci samé je upravena v § 237 odst. 1 o. s. ř. Podle § 237 odst. 2 písm. a/ o. s. ř. však není dovolání podle odst. 1 přípustné ve věcech, v nichž dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 20.000,- Kč a v obchodních věcech 50.000,- Kč; k příslušenství pohledávky se přitom nepřihlíží.
+Dovolání žalované směřuje proti rozsudku, jímž odvolací soud potvrdil rozsudek soudu prvního stupně ohledně reklamace vyúčtování cen za telekomunikační služby v rozsahu částky 1.671,75 Kč a v rozsahu částky 9.934,75 Kč; směřuje tak proti rozsudku odvolacího soudu, jímž bylo rozhodnuto o částce nepřevyšující 20.000,- Kč, a není tudíž ve smyslu § 237 odst. 2 písm. a/ o. s. ř. přípustné. Dovolacímu soudu proto nezbylo, než dovolání podle § 243b odst. 5 věty první o. s. ř. ve spojení s § 218 písm. c/ o. s. ř. odmítnout.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř. za situace, kdy žalobkyni v souvislosti s dovolacím řízením nevznikly žádné náklady, na jejichž náhradu by jinak měla vůči žalované právo.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 19. května 2010
+JUDr. Ivana Z l a t o h l á v k o v á, v. r.
+předsedkyně senátu
