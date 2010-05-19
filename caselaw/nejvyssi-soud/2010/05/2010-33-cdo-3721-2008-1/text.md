@@ -1,0 +1,14 @@
+33 Cdo 3721/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivany Zlatohlávkové a soudců JUDr. Pavla Krbka a JUDr. Václava Dudy ve věci žalobce Bytového družstva Ke kurtům 376 se sídlem v Praze 4, Písnice, Ke Kurtům 376/17, zastoupeného JUDr. Martinem Doubravou, advokátem se sídlem v Praze 6, U 1. Baterie 1/643, proti žalované ČEZ, a. s., se sídlem v Praze 4, Duhová 2/1444, o uložení povinnosti uzavřít kupní smlouvu o převodu nemovitosti, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 39 C 584/2003, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 4. června 2008, č. j. 58 Co 176/2008-112, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 4. června 2008, č. j. 58 Co 176/2008-112, kterým byl potvrzen rozsudek Obvodního soudu pro Prahu 4 ze dne 27. listopadu 2007, č. j. 39 C 584/2003-91, jímž byla zamítnuta žaloba na uložení povinnosti žalované uzavřít se žalobcem ve výroku specifikovanou smlouvu o prodeji nemovitosti, je přípustné podle ustanovení § 237 odst. 1 písm. b/ o. s. ř., je však zjevně bezdůvodné.
+Nejvyšší soud České republiky již ve svém rozsudku ze dne 15. 2. 2001, sp. zn. 25 Cdo 368/99, publikovaném v časopise Soubor rozhodnutí Nejvyššího soudu vydávaném nakladatelství C. H. Beck pod označením C 201, uzavřel, že „byla-li nabídka prodávajícího na uzavření písemné kupní smlouvy obsahující její podstatné náležitosti podepsána jen kupujícím a nikoliv též prodávajícím, je třeba takto vyhotovenou listinu považovat za návrh kupujícího na uzavření kupní smlouvy ve smyslu § 43a odst. 1 obč. zák., neboť pouze on tento návrh jako kupující podepsal“. V posuzované věci předložila žalovaná žalobci jí nepodepsanou listinu obsahující text smlouvy, kterou žalobce podepsal a odeslal zpět žalované; ta však listinu již nepodepsala, resp. odmítá podepsat. Dovoláním zpochybněný závěr odvolacího soudu, že ze strany žalované se nejednalo o závaznou nabídku, jejíž akceptací ze strany žalobce vznikla perfektní smlouva a že platnou nabídkou na uzavření smlouvy se stal teprve text smlouvy (tj. vrácený návrh) podepsaný žalobcem, je tudíž správný a je v souladu s již ustálenou judikaturou Nejvyššího soudu.
+Z uvedeného vyplývá, že dovolání žalobce je zjevně bezdůvodné; dovolací soud je proto podle § 243b odst. 1 a 5 věty prvé a § 218 písm. c/ o. s. ř. odmítl, přičemž v souladu s § 243c odst. 2 stručně vyložil důvody jeho zjevné bezdůvodnosti.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř. za situace, kdy žalované v souvislosti s dovolacím řízením nevznikly žádné náklady, na jejichž náhradu by jinak měla vůči žalobci právo.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 19. května 2010
+JUDr. Ivana Z l a t o h l á v k o v á, v. r.
+předsedkyně senátu
