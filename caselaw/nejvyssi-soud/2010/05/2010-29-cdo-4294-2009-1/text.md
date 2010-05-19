@@ -1,0 +1,19 @@
+29 Cdo 4294/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Petra Gemmela a soudců Mgr. Filipa Cilečka a JUDr. Petra Šuka v právní věci žalobkyně BEMOINVEST spol. s r. o., se sídlem v Benešově u Prahy, Na Bezděkově 2056, identifikační číslo 45 14 50 91, proti žalovanému Mgr. M. S., jako správci konkursní podstaty úpadkyně ESPE spol. s r. o. v likvidaci, identifikační číslo 16 19 34 74, za účasti společnosti CORSAIR (Luxembourg) No 11 S. A., se sídlem v Lucemburku, Boulevard Konrad Adenauer 2, L-111 5, Lucemburské velkovévodství, zastoupené Mgr. Soňou Bernardovou, advokátkou, se sídlem v Brně, Koliště 55, PSČ 602 00, jako vedlejší účastnice na straně žalovaného, o vyloučení věci ze soupisu majetku konkursní podstaty úpadkyně, vedené u Městského soudu v Praze pod sp. zn. 58 Cm 50/2007, o dovolání žalovaného a vedlejší účastnice proti rozsudku Vrchního soudu v Praze ze dne 8. dubna 2009, č. j. 13 Cmo 271/2008-127, takto:
+I. Dovolání vedlejší účastnice a žalovaného se odmítají.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Vrchní soud v Praze v záhlaví označeným rozsudkem potvrdil rozsudek ze dne 26. června 2008, č. j. 58 Cm 50/2007-76, kterým Městský soud v Praze vyloučil ze soupisu konkursní podstaty úpadkyně letadlo Cessna C 172 N, výrobního čísla 17271299, imatrikulační značky OK-IKQ, roku výroby 1978.
+Proti tomuto rozhodnutí odvolacího soudu podala vedlejší účastnice a podáním ze dne 13. července 2009 podaným k poštovní přepravě dne 14. července 2009 taktéž žalovaný dovolání.
+Dovolání vedlejší účastnice Nejvyšší soud podle ustanovení § 243b odst. 5 věty první a § 218 písm. b/ zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), odmítl, neboť bylo podáno osobou, která k dovolání není oprávněna.
+Již v rozhodnutí uveřejněném ve Sbírce soudních rozhodnutí a stanovisek pod číslem 3/2004 totiž Nejvyšší soud uzavřel, že vedlejší účastník není osobou oprávněnou k podání dovolání (přestože má zásadně stejná práva a povinnosti jako účastník řízení a jeho postavení se odvíjí od účastníka, na jehož podporu v řízení vystupuje), neboť zákon tuto možnost – na rozdíl od jeho oprávnění podat odvolání, žalobu pro zmatečnost či žalobu na obnovu řízení – nepředpokládá ( k tomu srov. dále důvody usnesení Ústavního soudu ze dne 14. května 2007, sp. zn. IV. ÚS 615/2007).
+Dovolání žalovaného Nejvyšší soud podle ustanovení § 243b odst. 5 věty první a § 218a o. s. ř. odmítl jako opožděné.
+Podle ustanovení § 240 o. s. ř. může účastník podat dovolání do dvou měsíců od doručení rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Bylo-li odvolacím soudem vydáno opravné usnesení, běží tato lhůta od doručení opravného usnesení (odstavec 1). Zmeškání lhůty uvedené v odstavci 1 nelze prominout. Lhůta je však zachována, bylo-li dovolání podáno ve lhůtě u odvolacího nebo dovolacího soudu (odstavec 2).
+Z obsahu spisu je zřejmé, že napadené rozhodnutí odvolacího soudu obsahuje řádné poučení o lhůtě, v níž je možné dovolání podat, i o soudu, u něhož se podává. Z doručenky (č. l. 138 spisu) přitom vyplývá, že zásilka obsahující napadené rozhodnutí byla žalovanému doručena poštovní přepravou dne 13. května 2009.
+Podal-li žalovaný dovolání k poštovní přepravě až dne 14. července 2009 (jak se podává z obálky založené na č. l. 161 spisu), učinil tak po uplynutí zákonem stanovené dvouměsíční lhůty k dovolání. Posledním dnem lhůty bylo totiž s ohledem na § 57 odst. 2 o. s. ř. pondělí 13. července 2009; podané dovolání je tudíž opožděné.
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalovaného i vedlejší účastnice byla odmítnuta a žalobkyni podle obsahu spisu v dovolacím řízení náklady nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 19. května 2010
+JUDr. Petr G e m m e l
+předseda senátu
