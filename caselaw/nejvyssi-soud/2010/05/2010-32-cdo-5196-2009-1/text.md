@@ -1,0 +1,13 @@
+32 Cdo 5196/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Hany Gajdziokové a JUDr. Pavla Koláře v právní věci žalobkyně GE Money Bank, a.s., se sídlem v Praze 4, Michli, Vyskočilova 1422/1a, PSČ 140 28, IČ 25672720, proti žalované Ing. J. V., zastoupené JUDr. Josefem Augustinem, advokátem se sídlem v Prostějově, Dukelská brána 4, PSČ 796 01, o zaplacení částky 870.000,- Kč s příslušenstvím, vedené u Okresního soudu v Prostějově pod sp. zn. 6 C 234/2006, o dovolání žalované proti usnesení Krajského soudu v Brně ze dne 8. ledna 2009, č. j. 47 Co 230/2008-45, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Žalovaná podala dovolání proti usnesení Krajského soudu v Brně označenému v záhlaví, jímž bylo potvrzeno usnesení Okresního soudu v Prostějově ze dne 25. února 2008, č. j. 6 C 234/2008-36, kterým soud prvního stupně připustil v souladu s ustanovením § 107a občanského soudního řádu (dále rovněž jen „o. s. ř.“), aby na místo dosavadní žalobkyně vstoupila do řízení společnost SLAVIA INVEST a.s., IČ 25874501.
+Podle doručenky, nacházející se na č. l. 47 spisu, bylo dovoláním napadené usnesení adresované žalované dne 18. února 2009 uloženo na poště. Protože nešlo o písemnost, která má být doručena do vlastních rukou [§ 45b odst. 1 o. s. ř. ve znění účinném do 30. června 2009 (srov. bod 12. čl. II. přechodných ustanovení zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád ve znění pozdějších předpisů a další související zákony)], a nedošlo k jejímu vyzvednutí žalovanou do tří dnů od uložení, v souladu s ustanovením § 50c odst. 4 o. s. ř. ve znění účinném do 30. června 2009 se poslední den uvedené lhůty považuje za den doručení. Tímto dnem bylo pondělí 23. února 2009. Od tohoto dne počala běžet dvouměsíční lhůta k podání dovolání určená podle ustanovení § 240 odst. 1 o. s. ř., bez ohledu na to, že žalovaná písemnost fakticky převzala teprve dne 2. března 2010. Lhůta k podání dovolání skončila dne 23. dubna 2009, dovolání však bylo podáno u soudu teprve dne 30. dubna 2009.
+Dovolací soud proto, aniž nařizoval jednání (§ 243a odst. 1 první věta o. s. ř.), podle shora zmíněných ustanovení občanského soudního řádu dovolání žalované jako opožděné odmítl.
+O nákladech dovolacího řízení dovolací soud nerozhodoval, protože dovoláním napadené usnesení není rozhodnutím, jímž se řízení končí, ale bude o nich rozhodnuto v rozhodnutí o věci samé (srov. usnesení Nejvyššího soudu ze dne 23. července 2002, sp. zn. 20 Cdo 970/2001, uveřejněné pod číslem 48/2003 ve Sbírce soudních rozhodnutí a stanovisek).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. května 2010
+JUDr. Miroslav G a l l u s .
+předseda senátu
