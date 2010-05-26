@@ -1,0 +1,15 @@
+26 Cdo 1473/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marie Rezkové a soudců JUDr. Miroslava Feráka a Doc. JUDr. Věry Korecké, CSc., ve věci žalobce MUDr. T. Š., zastoupeného Mgr. Pavlem Střelečkem, advokátem se sídlem v Hradci Králové, Na Střezině 943, proti žalovaným: 1) J. Ch. a 2) J. Ch., zastoupeným JUDr. Zdeňkem Nezhybou, advokátem se sídlem v Hranicích, Jaselská 1613, o částky 15.000,- Kč a 19.999,- Kč s příslušenstvím, vedené u Okresního soudu v Přerově pod sp. zn. 15 C 130/2007, o dovolání žalobce proti rozsudku Krajského soudu v Ostravě – pobočky v Olomouci ze dne 15. října 2009, č. j. 12 Co 199/2009-138, takto:
+I. Dovolání se odmítá.
+II. Žalobce je povinen zaplatit žalovaným, oprávněným společně a nerozdílně, na náhradě nákladů dovolacího řízení částku 5.888,- Kč k rukám JUDr. Zdeňka Nezhyby, advokáta se sídlem v Hranicích, Jaselská 1613, do tří dnů od právní moci tohoto usnesení.
+O d ů v o d n ě n í :
+Krajský soud v Ostravě – pobočka v Olomouci jako soud odvolací rozsudkem z 15. 10. 2009, č. j. 12 Co 199/2009-138, změnil rozsudek Okresního soudu v Přerově (dále „soud prvního stupně“) z 30. 1. 2009, č. j. 15 C 130/2007-112, ve výroku pod bodem I. tak, že zamítl žalobu, aby „žalovaní 1) a 2) byli zavázáni zaplatit žalobci společně a nerozdílně částky 15.000,- Kč a 19.999,- Kč s požadovaným úrokem z prodlení“, potvrdil rozhodnutí soudu prvního stupně ve výroku pod bodem II., jímž bylo rozhodnuto poplatku z prodlení, a rozhodl o nákladech řízení před soudy obou stupňů.
+Proti rozhodnutí odvolacího soudu podal žalobce včas dovolání, které však není přípustné, neboť jím bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50.000,- Kč [§ 237 odst. 2 písm. a) zákona č. 99/1963 Sb., občanského soudního řádu, ve znění novely provedené zákonem č. 7/2009 Sb. (dále „o. s. ř.“)].
+Nejvyšší soud proto dovolání podle § 243b odst. 5 a § 218 písm. c) o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení dovolací soud rozhodl podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a 146 odst. 3 o. s. ř. a zavázal žalobce, který zavinil, že jeho dovolání muselo být odmítnuto, k náhradě nákladů dovolacího řízení, které žalovaným vznikly v souvislosti s podáním vyjádření k dovolání prostřednictvím advokáta. Tyto náklady sestávají z odměny advokáta v částce 4.307,- Kč (§ 2 odst. 1, § 3 odst. 1 bod 4 a odst. 3 ve spojení s § 10 odst. 3, § 14 odst. 1 ve spojení s § 15, § 16 odst. 2, § 18 odst. 1 a § 19a vyhlášky č. 484/2000 Sb. v platném znění), z paušální částky náhrad hotových výdajů ve výši 2x 300,- Kč (§ 2 odst. 1 ve spojení s § 13 odst. 1 a 3 vyhlášky č. 177/1996 Sb. v platném znění) a činí celkem včetně daně z přidané hodnoty ve výši 20% (§ 137 odst. 3 o. s. ř.) 5.888,- Kč. Platební místo a lhůta k plnění vyplývají z § 149 odst. 1 a § 160 odst. 1 o. s. ř.
+Nesplní-li žalobce dobrovolně povinnost uloženou mu tímto rozhodnutím, mohou žalovaní podat návrh na výkon rozhodnutí.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. května 2010
+JUDr. Marie Rezková, v. r.
+předsedkyně senátu
