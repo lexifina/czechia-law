@@ -1,0 +1,14 @@
+30 Cdo 2518/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Pavlíka a soudců JUDr. Pavla Vrchy a JUDr. Miloše Holečka v právní věci žalobce Finančního úřadu v Mikulově, se sídlem v Mikulově, Gagarinova 9, proti žalovanému A. H., zastoupenému Mgr. Vladimírou Borskou, advokátkou se sídlem v Brně, nám. 28. dubna 26, o určení neúčinnosti darovací smlouvy, vedené u Okresního soudu v Břeclavi pod sp. zn. 10 C 259/2005, o dovolání žalobce proti usnesení Krajského soudu v Brně ze dne 17. října 2008, č.j. 14 Co 306/2007-85, takto:
+I. Řízení o dovolání žalobce se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst. 2 o.s.ř.):
+Při posuzování tohoto dovolání vycházel dovolací soud z ustanovení části první Čl. II, bodu 12 zákona č. 7/2009 Sb., jímž byl změněn občanský soudní řád (zákon č. 99/1963 Sb.), podle něhož dovolání proti rozhodnutím odvolacího soudu vyhlášeným (vydaným) přede dnem nabytí účinnosti tohoto zákona se projednají a rozhodnou podle dosavadních právních předpisů, tj. podle občanského soudního řádu ve znění účinném do 30. června 2009; užití nového ustanovení § 243c odst. 2 tím není dotčeno.
+Krajský soud v Brně v záhlaví označeným usnesením zrušil rozsudek Okresního soudu v Břeclavi ze dne 13. dubna 2007, č.j. 10 C 259/2005-75, kterým byla zamítnuta, žaloba o určení, že darovací smlouva ze dne 21.9.2005 uzavřená mezi Ing. M. H. jako dárcem a žalovaným jako obdarovaným, kterou mu byly darovány v rozsudečném výroku blíže označené nemovitosti, je vůči žalobci právně neúčinná a rozhodnuto o náhradě nákladů řízení. Krajský soud v Brně současně řízení zastavil (výrok I.) a rozhodl o náhradě nákladů řízení před soudy obou stupňů (výrok II.). Proti tomuto usnesení odvolacího soudu podal žalobce dovolání.
+Žalobce, který je organizační složkou státu, pověřil jednáním jejím jménem svého zaměstnance JUDr. R. F., avšak podané dovolání proti rozsudku odvolacího soudu nebylo jmenovanou pověřenou osobou sepsáno (tedy podepsáno), a nebylo prokázáno, že by osoba, která dovolání podepsala, měla právnické vzdělání. Žalobce ani přes výzvu soudu, která mu byla doručena dne 15.5.2009, neodstranil nedostatek podmínky dovolacího řízení podle ustanovení § 241 o.s.ř., ačkoliv byl o důsledcích své nečinnosti poučen. Nejvyšší soud proto řízení o dovolání žalobce – aniž by se mohl zabývat dalšími okolnostmi – podle ustanovení § 241b a § 104 odst. 2 věty třetí o.s.ř. zastavil.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 1 písm. c) o.s.ř., neboť žalobce, který z procesního hlediska zavinil, že dovolací řízení muselo být zastaveno, na náhradu nákladů řízení nemá právo a žalovanému podle obsahu spisu žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 27. května 2010
+JUDr. Pavel Pavlík,v.r.
+předseda senátu
