@@ -1,0 +1,15 @@
+11 Tcu 39/2010
+U S N E S E N Í
+Nejvyšší soud České republiky projednal žádost Ministerstva spravedlnosti Bulharské republiky o povolení průvozu odsouzeného R. K. P. a rozhodl v neveřejném zasedání konaném dne 1. června 2010 podle § 423 odst. 1 trestního řádu a čl. 16 Úmluvy o předávání odsouzených osob (publikovaná pod č. 553/1992 Sb.) t a k t o :
+I. Povoluje se průvoz odsouzeného R. K. P. územím České republiky z Norska do Bulharské republiky pro účely předání jmenovaného k výkonu trestu odnětí svobody uloženého mu rozsudkem Okresního soudu ve Stavangeru, Norské království, ze dne 9. 2. 2009, sp. zn. 08-134059MED-STAV.
+II. Po dobu průvozu bude předávaná osoba držena ve vazbě.
+O d ů v o d n ě n í :
+Ministerstvo spravedlnosti Bulharské republiky požádalo dopisem ze dne 17. 5. 2010, č. j. 99-H-T-78/09, na základě čl. 16 Úmluvy o předávání odsouzených osob ze dne 21. 3. 1983, publikované pod č. 553/1992 Sb. (dále jen „Úmluva“) o povolení průvozu státního občana Bulharské republiky Ra. K. P. územím České republiky.
+Průvoz se má uskutečnit v rámci předání jmenovaného z Norska do Bulharska k výkonu nepodmíněného trestu odnětí svobody v trvání tří let a pěti měsíců, který mu byl uložen rozsudkem Okresního soudu ve Stavangeru, Norské království, ze dne 9. 2. 2009, sp. zn. 08-134059MED-STAV, za trestný čin nelegálního dovozu většího množství narkotik podle čl. 162 odst. 1, 3 norského trestního zákona. Za tento trestný čin byl shora jmenovanému uložen trest odnětí svobody v trvání tří let a pěti měsíců a dále mu bylo uloženo propadnutí věci – automobilu Renault Laguna.
+Shora uvedené trestné činnosti se odsouzený dopustil podle zjištění norského Okresního soudu ve Stavanger tím, že dne 18. 6. 2008 převážel v autě přes hraniční přechod S. ze Švédska do Norska celkem 3,978 kg amfetaminu, které dovezl z A. přes Německo a měl je dovézt do S. pro společně stíhanou osobu.
+Nejvyšší soud České republiky projednal shora uvedenou žádost Ministerstva spravedlnosti Bulharské republiky z hlediska splnění právních podmínek vyžadovaných jak vnitrostátní právní úpravou (§ 423 tr. ř.), tak i mezinárodní právní úpravou (čl. 16 Úmluvy). Zjistil, že v posuzovaném případě jde o předání k výkonu trestu odnětí svobody, který byl odsouzenému uložen za čin, který vykazuje znaky trestného činu i podle právního řádu České republiky (trestný čin nedovolené výroby a jiného nakládání s omamnými a psychotropními látkami a s jedy podle § 283 tr. zákoníku), přičemž předávaná osoba není státním občanem České republiky (čl. 16 Úmluvy).
+Jelikož nebyly zjištěny žádné právní překážky, které by bránily povolení průvozu odsouzeného R. K. P. územím České republiky pro účely předání k výkonu výše uvedeného nepodmíněného trestu odnětí svobody v Bulharsku, vyhověl Nejvyšší soud České republiky žádosti Ministerstva spravedlnosti Bulharské republiky. Zároveň rozhodl o nutném opatření omezujícím osobní svobodu předávané osoby v době průvozu územím České republiky.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 1. června 2010
+Předseda senátu:
+JUDr. Karel Hasch
