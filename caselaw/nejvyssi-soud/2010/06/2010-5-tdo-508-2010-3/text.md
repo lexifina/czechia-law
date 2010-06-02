@@ -1,0 +1,14 @@
+5 Tdo 508/2010-II.
+U S N E S E N Í
+Nejvyšší soud rozhodl v neveřejném zasedání konaném dne 2. června 2010 v trestní věci obviněných MVDr. J. M. , a J. S. , vedené u Krajského soudu v Brně pod sp. zn. 1 T 4/2007, v řízení o dovolání obviněného MVDr. J. M. proti rozsudku Vrchního soudu v Olomouci ze dne 10. 11. 2009, sp. zn. 2 To 75/2009, t a k t o :
+Podle § 265l odst. 4 tr. ř. se obviněný MVDr. J. M. , n e b e r e do vazby.
+O d ů v o d n ě n í
+Obviněný MVDr. J. M. podal prostřednictvím obhájce v zákonné lhůtě dovolání proti rozsudku Vrchního soudu v Olomouci ze dne 10. 11. 2009, sp. zn. 2 To 75/2009, jímž byl částečně zrušen rozsudek Krajského soudu v Brně ze dne 26. 6. 2009, sp. zn. 1 T 4/2007, podle § 258 odst. 1 písm. b), f), odst. 2 tr. ř. v části výroku o náhradě škody týkající se deseti poškozených, přičemž ohledně zrušené části výroku o náhradě škody vrchní soud rozhodl nově podle § 259 odst. 3 tr. ř. a § 229 odst. 2 tr. ř.
+Usnesením ze dne 2. 6. 2010, sp. zn. 5 Tdo 508/2010, rozhodl Nejvyšší soud o podaném dovolání tak, že podle § 265k odst. 1 tr. ř. ohledně obviněného MVDr. J. M. zrušil rozsudek Vrchního soudu v Olomouci ze dne 10. 11. 2009, sp. zn. 2 To 75/2009. Protože důvod, pro který bylo učiněno toto rozhodnutí, prospíval i spoluobviněnému, zrušil dovolací soud podle § 265k odst. 2 tr. ř. s přiměřeným použitím § 261 tr. ř. tento rozsudek Vrchního soudu v Olomouci také ohledně obviněného J. S. Současně byla podle § 265k odst. 2 tr. ř. zrušena také další rozhodnutí na zrušené rozhodnutí obsahově navazující, pokud vzhledem ke změně, k níž došlo zrušením, pozbyla podkladu, a podle § 265l odst. 1 tr. ř. bylo Vrchnímu soudu v Olomouci přikázáno, aby věc v potřebném rozsahu znovu projednal a rozhodl.
+Vzhledem k tomu, že obviněný MVDr. J. M. vykonává trest odnětí svobody, který mu byl uložen výše uvedeným rozsudkem Krajského soudu v Brně, bylo nutné po zrušení napadeného rozhodnutí rozhodnout o vazbě obviněného ve smyslu ustanovení § 265l odst. 4 tr. ř. (ve znění zákona č. 200/2002 Sb.).
+Nejvyšší soud přitom dospěl k závěru, že v současném stadiu trestního řízení není u obviněného dána konkrétní skutečnost vzbuzující důvodnou obavu ve smyslu § 67 písm. a) až c) tr. ř., tedy že obviněný uprchne nebo se bude skrývat, aby se trestnímu stíhání nebo trestu vyhnul, že bude působit na dosud nevyslechnuté svědky nebo spoluobviněné nebo jinak mařit objasňování skutečností závažných pro trestní stíhání, nebo že by opakoval trestnou činnost, pro niž je stíhán. V dosavadním trestním řízení nebyl obviněný ve vazbě a v průběhu dovolacího řízení rovněž nenastala žádná skutečnost zakládající důvodnost vazby.
+Nejvyšší soud proto rozhodl podle § 265l odst. 4 tr. ř. tak, že se obviněný MVDr. J. M. nebere do vazby.
+Poučení : Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 2. června 2010
+Předsedkyně senátu:
+JUDr. Blanka Roušalová
