@@ -1,0 +1,15 @@
+11 Tcu 42/2010
+U S N E S E N Í
+Nejvyšší soud České republiky projednal žádost Slovenské republiky o povolení průvozu M. S. a rozhodl v neveřejném zasedání dne 4. června 2010 podle § 422 tr. ř. t a k t o :
+Povoluje se p r ů v o z předávané osoby M. S., státní občanky Slovenské republiky, územím České republiky z Italské republiky do Slovenské republiky pro účely trestního stíhání pro trestný čin podvodu podle § 250 odst. 1, 3 trestního zákona Slovenské republiky.
+Po dobu průvozu bude předávaná osoba držena ve vazbě.
+O d ů v o d n ě n í :
+Ministerstvo spravedlnosti Slovenské republiky požádalo dne 28. května 2010 na základě čl. 25 Rámcového rozhodnutí Rady Evropské unie ze dne 13. června 2002, o evropském zatýkacím rozkazu a o předávání mezi členskými státy Evropské unie, o povolení průvozu slovenské státní občanky M. S. územím České republiky. Průvoz se má uskutečnit v rámci předání jmenované z Italské republiky do Slovenské republiky na základě evropského zatýkacího rozkazu vydaného dne 26. února 2010 Okresním soudem v Bánské Bystrici, Slovenská republika, k trestnímu stíhání pro trestný čin podvodu podle § 250 odst. 1, 3 trestního zákona Slovenské republiky, za který předávané hrozí maximální trest odnětí svobody v trvání pěti roků, a to leteckou cestou s přistáním v P.
+Uvedené trestné činnosti se měla předávaná dopustit v podstatě tím, že dne 8. června 2005 uzavřela s poškozenou společností ČSOB Leasing, a. s., se sídlem Praha 4, na Pankráci 60, leasingovou smlouvu, a při jejím uzavírání předložila potvrzení o výši příjmu ze dne 7. června 2005 z hotelu V., L., Š. m., Česká republika, podle nějž její čistý měsíční příjem činil částku 19 350,- Kč, což neodpovídalo skutečnosti, a na základě popsané leasingové smlouvy převzala do užívání osobní motorové vozidlo značky Chevrolet Lacetti sedan, 1.4, v pořizovací ceně 352 055,- Kč, na vozidlo však neplatila měsíční leasingové splátky, proto poškozená společnost ke dni 5. ledna 2006 od leasingové smlouvy odstoupila a předávanou vyzvala, aby vrátila vozidlo, jež na základě leasingové smlouvy užívala. To však předávaná neučinila a poškozené tím způsobila škodu ve výši 352 055,- Kč (15 168,54 EUR).
+Nejvyšší soud České republiky projednal předloženou žádost z hlediska splnění právních podmínek a náležitostí vyžadovaných vnitrostátní úpravou (§ 422 tr. ř.). Zjistil, že v posuzovaném případě jde o předání z Italské republiky do Slovenské republiky za účelem trestního stíhání ve Slovenské republice. Z výpisu z centrální evidence obyvatel je pak zřejmé, že předávaná osoba není státním občanem České republiky
+Jelikož nebyly zjištěny právní překážky, které by bránily povolení průvozu předávané M. S. územím České republiky pro účely jejího trestního stíhání ve Slovenské republice, tak Nejvyšší soud České republiky žádosti Slovenské republiky vyhověl.
+Zároveň rozhodl o nutném opatření omezujícím osobní svobodu předávané osoby v době průvozu územím České republiky.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 4. června 2010
+Předseda senátu:
+JUDr. Antonín Draštík
