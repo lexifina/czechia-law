@@ -1,0 +1,20 @@
+20 Cdo 4912/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové a soudců JUDr. Olgy Puškinové a JUDr. Vladimíra Mikuška v exekuční věci oprávněné DAG 007 s.r.o., se sídlem v Praze, Karlíně, Sokolovská 428/130, zastoupené Mgr. Petrem Čechurou, advokátem se sídlem v Plzni, Palackého tř. 1, proti povinné TAKENAKA EUROPE GmbH, se sídlem v Düsseldorfu, Oststrasse 10, Spolková republika Německo, podnikající na území České republiky prostřednictvím TAKENAKA EUROPE GmbH – odštěpný závod, se sídlem v Praze 1, Národní 138/10, zastoupené JUDr. Magdou Pištorovou, advokátkou se sídlem v Praze 1, Národní třída 10, pro 10.184.068,19 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 49 Nc 363/2009, o dovolání oprávněné proti usnesení Městského soudu v Praze ze dne 7. 8. 2009, č. j. 18 Co 326/2009-65, takto:
+I. Dovolání se odmítá.
+II. Oprávněná je povinna zaplatit povinné na nákladech dovolacího řízení 12.360,- Kč k rukám JUDr. Magdy Pištorové do tří dnů od právní moci tohoto usnesení.
+O d ů v o d n ě n í :
+Městský soud napadeným rozhodnutím změnil usnesení ze dne 16. 4. 2009, č. j. 49 Nc 363/2009-8 (jímž soud prvního stupně nařídil podle rozhodnutí Městského soudu v Praze ze dne 12. 12. 2008, č. j. 61 Ro 1543/2008-16, exekuci na majetek povinné a jejím provedením pověřil JUDr. Jitku Wolfovou, soudní exekutorku Exekutorského úřadu Plzeň-město), tak, že návrh na nařízení exekuce na majetek povinné zamítl a oprávněnou zavázal k zaplacení nákladů řízení povinné i nákladů exekuce.
+Oprávněná podala proti usnesení městského soudu dovolání.
+Dovolání není přípustné.
+Podle ustanovení § 236 odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů (dále jen ,,o. s. ř.“), lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Podle čl. II Přechodných ustanovení bodu 12. zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, dovolání proti rozhodnutím odvolacího soudu, vyhlášeným (vydaným) přede dnem nabytí účinnosti tohoto zákona, se projednávají a rozhodnou podle dosavadních právních předpisů; užití nového znění § 243c odst. 2 tím není dotčeno. Zákon nabyl účinnosti 1. 7. 2009.
+Z uvedeného ustanovení vyplývá, že dovolání proti rozhodnutím odvolacího soudu vydaným (vyhlášeným) po 1. 7. 2009 se projednávají a rozhodnou podle příslušných ustanovení občanského soudního řádu, upravujících dovolací řízení ve znění účinném od 1. 7. 2009.
+Z ustanovení § 238a odst. 1 o. s. ř. dále vyplývá, že od 1. 7. 2009 již není dovolání přípustné proti usnesením odvolacího soudu, jimiž bylo potvrzeno nebo změněno usnesení soudu prvního stupně, kterým bylo rozhodnuto o návrhu na nařízení výkonu rozhodnutí (exekuce).
+Jestliže tedy v souzené věci odvolací soud rozhodl o odvolání oprávněné 7. 8. 2009, dovolání proti tomuto rozhodnutí není přípustné.
+Nejvyšší soud proto, aniž ve věci nařizoval jednání (§ 243a odst. 1, věta první o. s. ř.) dovolání odmítl (§ 243b odst. 5, § 218 písm. c/ o. s. ř.).
+Výrok o nákladech dovolacího řízení je odůvodněn § 243b odst. 5, větou první, § 224 odst. 1 a § 146 odst. 3 o. s. ř. Náklady povinné v celkové výši 12.360,- Kč tvoří odměna advokátky 10.000,- Kč (srov. § 3 odst. 1, § 12 odst. 1, § 14 odst. 1, § 15, § 18 odst. 1 vyhlášky č. 484/2000 Sb., ve znění pozdějších předpisů) a paušální náhrada hotových výdajů za jeden úkon právní služby ve výši 300,- Kč (srov. § 13 odst. 3 vyhlášky č. 177/1996 Sb. o odměnách advokátů a náhradách advokátů za poskytování právních služeb /advokátní tarif/, ve znění pozdějších předpisů), a částka 2.060,- Kč odpovídající dani z přidané hodnoty ve výši 20 %, kterou bude advokátka povinna z odměny a z náhrad odvést a která podle ustanovení § 137 odst. 3 o. s. ř. rovněž patří k nákladům řízení.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 9. června 2010
+JUDr. Miroslava J i r m a n o v á , v. r.
+předsedkyně senátu
