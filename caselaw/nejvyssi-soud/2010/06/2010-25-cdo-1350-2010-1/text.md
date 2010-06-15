@@ -1,0 +1,20 @@
+25 Cdo 1350/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marty Škárové a soudců JUDr. Petra Vojtka a JUDr. Roberta Waltra v právní věci žalobce S. M., zastoupeného opatrovníkem obcí Bohuslavice, se sídlem úřadu Dubicko, Bohuslavice 2, proti žalované České republice – 1) Ministerstvu spravedlnosti, se sídlem Praha 2, Vyšehradská 16, - 2) Krajskému státnímu zastupitelství v Ostravě, se sídlem Ostrava, na Hradbách 21, 3) Okresnímu státnímu zastupitelství v Olomouci, se sídlem Olomouc, třída 17. listopadu 44, o návrhu na povolení obnovy řízení, o žalobě pro zmatečnost, o žádosti o osvobození od soudních poplatků a o ustanovení zástupce, vedené u Okresního soudu v Olomouci pod sp. zn. 13 Nc 110/2005, k dovolání žalobce proti usnesení Krajského soudu v Ostravě - pobočky v Olomouci ze dne 28. 1. 2010, č. j. 12 Co 9/2010-321, takto:
+Dovolání se odmítá.
+Odůvodnění:
+Okresní soud v Olomouci usnesením ze dne 2. 11. 2009, č. j. 13 Nc 110/2005-301, nepřiznal žalobci osvobození od soudních poplatků a zamítl jeho žádost o ustanovení zástupce z řad advokátů.
+K odvolání žalobce Krajský soud v Ostravě - pobočka v Olomouci usnesením ze dne 28. 1. 2010, č. j. 12 Co 9/2010-321, usnesení soudu prvního stupně potvrdil a k námitkám žalobce uvedl, že soud prvního stupně bezchybně a úplně zjistil skutkový stav věci a také z nich přesvědčivě vyvodil právní závěry.
+Proti rozhodnutí odvolacího soudu podal žalobce dovolání v němž uvedl, že soud porušil jeho práva zaručená Ústavou ČR, která mají přednost před zákonem, a navrhl, aby ho Nejvyšší soud ČR osvobodil od soudních poplatků a ustanovil mu zástupcem z řad advokátů Mgr. Františka Drlíka, advokáta v Šumperku.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) dospěl k závěru, že dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný.
+Dovolatel sice není zastoupen advokátem ani nedoložil, že by měl právnické vzdělání, avšak vzhledem k tomu, že jeho dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný, není tento nedostatek podmínky dovolacího řízení důvodem k jeho zastavení podle § 104 odst. 2 o. s. ř. Podle ustanovení § 241b odst. 2 o. s. ř. totiž platí, že není-li splněna podmínka uvedená v § 241 o. s. ř., postupuje se obdobně podle § 104 odst. 2 o. s. ř.; to neplatí, bylo-li dovolání podáno opožděně, někým, kdo k dovolání není oprávněn, nebo směřuje-li proti rozhodnutí, proti němuž není dovolání přípustné.
+Přípustnost dovolání proti usnesení upravují ustanovení § 237 až § 239 o. s. ř.
+Žalobce dovoláním napadá usnesení odvolacího soudu, jímž bylo potvrzeno usnesení soudu prvního stupně o nepřiznání osvobození od soudních poplatků a o zamítnutí žádosti o ustanovení zástupce z řad advokátů. Do výčtu rozhodnutí odvolacího soudu, proti nimž je dovolání přípustné, nelze takové rozhodnutí přiřadit.
+Přípustnost dovolání podle ustanovení § 237 o. s. ř. není dána, protože usnesení soudu prvního stupně, jež bylo odvolacím soudem potvrzeno, není rozhodnutím ve věci samé. Za věc samu se pokládá nárok uplatněný žalobou, o němž má být v příslušném řízení věcně rozhodnuto - § 79 odst. 1 o. s. ř. Usnesení o nepřiznání osvobození od soudních poplatků a o zamítnutí žádosti o ustanovení zástupce z řad advokátů neřeší věc samu (vymezenou návrhem na zahájení řízení, resp. žalobou).
+Dovolání není přípustné ani podle ustanovení § 238, § 238a a § 239 o. s. ř., protože usnesením soudu prvního stupně nebylo rozhodnuto ve věcech, které jsou taxativně vyjmenovány v ustanoveních § 238 a § 238a o. s. ř., a nejde rovněž o žádný z případů procesních rozhodnutí uvedených v ustanovení § 239 o. s. ř.
+Nejvyšší soud proto dovolání odmítl podle § 243b odst. 5 věty první a § 218 písm. c) o. s. ř.
+Protože tímto rozhodnutím dovolacího soudu se řízení o věci nekončí, bude rozhodnuto i o náhradě nákladů dovolacího řízení v konečném rozhodnutí (§ 243c, § 151 odst. 1 o. s. ř.).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 15. června 2010
+JUDr. Marta Škárová , v. r.
+předsedkyně senátu
