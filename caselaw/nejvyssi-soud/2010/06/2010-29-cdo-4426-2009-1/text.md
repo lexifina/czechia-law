@@ -1,0 +1,20 @@
+29 Cdo 4426/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedkyně doc. JUDr. Ivany Štenglové a soudců Mgr. Filipa Cilečka a JUDr. Petra Šuka v právní věci žalobce M. K., zastoupeného prof. JUDr. Zbyňkem Kiesewetterem, DrSc., advokátem, se sídlem v Praze 6, Zavadilova 1888/22, PSČ 160 00, proti žalovanému Stavebnímu bytovému družstvu Vyšehrad, se sídlem v Praze 4, Sinkulova 83, PSČ 140 00, identifikační číslo 00 03 28 75, zastoupenému JUDr. Janem Fričem, advokátem, se sídlem v Praze 5, Štefánikova 65, PSČ 150 00, o obnovu řízení, vedené u Městského soudu v Praze pod sp. zn. 19 Cm 280/2006, o dovolání žalobce proti usnesení Vrchního soudu v Praze ze dne 2. března 2009, č. j. 14 Cmo 122/2008-48, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Vrchní soud v Praze v záhlaví označeným usnesením potvrdil usnesení ze dne 24. října 2007, č. j. 19 Cm 280/2006-29 (ve znění opravného usnesení ze dne 1. února 2008, č. j. 19 Cm 280/2006-38), kterým Městský soud v Praze zamítl žalobu na obnovu řízení vedeného u téhož soudu pod sp. zn. 19 Cm 199/2004.
+Žalobce napadl rozhodnutí odvolacího soudu dovoláním, jehož přípustnost opírá o ustanovení § 238 odst. 1 písm. a/ ve spojení s § 237 odst. 1 písm. c/ zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), navrhuje, aby rozhodnutí soudů obou stupňů byla zrušena a věc byla vrácena soudu prvního stupně k dalšímu řízení.
+Dovolání žalobce Nejvyšší soud podle ustanovení § 243b odst. 5 a § 218 písm. c/ o. s. ř. odmítl.
+Učinil tak proto, že dovolání proti potvrzujícímu výroku usnesení odvolacího soudu ve věci samé může být přípustné pouze podle ustanovení § 238 odst. 1 písm. a/ o. s. ř. ve spojení s § 237 odst. 1 písm. c/ o. s. ř. (o situaci předvídanou v ustanovení § 237 odst. 1 písm. b/ o. s. ř. nejde), tedy tak, že dovolací soud - jsa přitom vázán uplatněnými dovolacími důvody včetně jejich obsahového vymezení (§ 242 odst. 3 o. s. ř.) - dospěje k závěru, že napadené rozhodnutí má po právní stránce zásadní význam. Dovolatel přitom Nejvyššímu soudu žádné otázky, z nichž by bylo možno usuzovat na zásadní právní význam napadeného rozhodnutí, k řešení nepředkládá.
+Nejvyšší soud již v usnesení uveřejněném ve Sbírce soudních rozhodnutí a stanovisek pod číslem 48/2006 uzavřel, že spočívá-li rozsudek, jímž odvolací soud potvrdil rozsudek soudu prvního stupně, na posouzení vícero právních otázek, z nichž každé z nich samo o sobě vede k zamítnutí žaloby, není dovolání ve smyslu § 237 odst. 1 písm. c/ o. s. ř. přípustné, jestliže řešení některé z těchto otázek nebylo dovoláním zpochybněno.
+Závěr odvolacího soudu (jakož i soudu prvního stupně), podle něhož žaloba na obnovu řízení byla podána opožděně, nebyl dovolatelem nijak zpochybněn; již z tohoto důvodu jsou jakékoliv další námitky bezpředmětné, neboť přípustnost dovolání v projednávané věci založit nemohou.
+Poukazuje-li dovolatel na to, že v předchozím řízení měly být „zohledněny“ skutečnosti zjištěné v jiných soudních řízeních (z nichž konkrétně odkazuje pouze na rozsudek Městského soudu v Praze ze dne 13. března 1996, sp. zn. 23 Co 469/95), nejde – již s ohledem na datum vyhlášení tohoto rozsudku - o „novou“ skutečnost ve smyslu § 228 odst. 1 písm. a/ o. s. ř. Jak správně uzavřel odvolací soud, na tyto skutečnosti mohl dovolatel poukázat již během původního řízení.
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5,
+§ 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalobce bylo odmítnuto a žalovanému podle obsahu spisu v dovolacím řízení náklady nevznikly.
+Rozhodné znění občanského soudního řádu (do 30. června 2009) se podává z bodu 12., části první, článku II. zákona č. 7/2009 sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 15. června 2010
+doc. JUDr. Ivana Š t e n g l o v á
+předsedkyně senátu
