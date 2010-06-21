@@ -1,0 +1,10 @@
+4 Tdo 531/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v neveřejném zasedání konaném dne 21. června 2010 v řízení o dovolání obviněného W. H., alias W. H. L. a obviněné Ch. W., alias J. J., proti rozsudku Krajského soudu v Ústí nad Labem ze dne 21. 3. 2008, sp. zn. 6 To 3/2008, jako soudu odvolacího v trestní věci vedené u Okresního soudu v Chomutově pod sp.zn. 6 T 110/2006, t a k t o :
+Podle § 23 odst. 1 tr. ř. věc obviněné Ch. W. s e v y l u č u j e ze společného řízení vedeného u Nejvyššího soudu pod sp. zn. 4 Tdo 531/2010 k samostatnému řízení a dále bude vedena pod sp. zn. 4 Tdo 754/2010.
+O d ů v o d n ě n í :
+K Nejvyššímu soudu byl dne 4. 5. 2010 Okresním soudem v Chomutově předložen spis sp. zn. 6 T 110/2006 s dovoláními shora jmenovaných obviněných, stíhaných v téže trestní věci. Po přezkoumání zda jsou splněny veškeré formální procesní podmínky pro rozhodnutí Nejvyššího soudu bylo zjištěno, že obviněné Ch. W. nebylo doposud doručeno rozhodnutí Krajského soudu v Ústí nad Labem ze dne 21. 3. 2008, sp. zn. 6 To 3/2008, který v dané věci rozhodoval jako soud odvolací, což ve smyslu § 265e odst. 1, 2 a § 265h odst. 2 tr. ř. brání v rozhodnutí o dovolání ohledně této obviněné. Podle zjištění z centrální evidence vězňů obviněná uložený trest odnětí svobody dosud nenastoupila. Z obsahu spisu dále vyplývá, že obviněná měla v mezidobí odcestovat do Číny. Bude proto třeba zjišťovat místo jejího skutečného pobytu a v případě nutnosti provést doručení rozsudku odvolacího soudu do ciziny prostřednictvím mezinárodní právní pomoci. S ohledem na předpokládanou časovou náročnost doručování prostřednictvím mezinárodní právní pomoci bylo rozhodnuto o vyloučení trestní věci obviněné Ch. W. ze společného řízení o dovolání k samostatnému projednání a rozhodnutí s tím, že spis bude po rozhodnutí o dovolání obviněného W. H. vrácen Okresnímu soudu v Chomutově k odstranění shora uvedeného procesního nedostatku a teprve poté může být znovu předložen Nejvyššímu soudu s dovoláním obviněné.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 21. června 2010
+Předseda senátu
+JUDr. František Hrabec
