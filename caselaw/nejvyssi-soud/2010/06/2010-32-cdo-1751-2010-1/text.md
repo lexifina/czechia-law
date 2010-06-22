@@ -1,0 +1,15 @@
+32 Cdo 1751/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Hany Gajdziokové a JUDr. Pavla Příhody ve věci žalobce J. Š., proti žalovaným 1) R. V., zastoupenému JUDr. Jaroslavou Vodáčkovou, advokátkou, se sídlem v Brně, Ponávka 2, a 2) České pojišťovně a. s., se sídlem v Praze 1, Spálená 75/16, PSČ 113 04, IČ 45272956, o zaplacení částky 20.000,- Kč s příslušenstvím, vedené u Okresního soudu v Olomouci pod sp. zn. 17 C 54/2006, o dovolání žalobce proti rozsudku Krajského soudu v Ostravě – pobočky v Olomouci ze dne 15. prosince 2009, č. j. 69 Co 364/2009-280, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Dovolání žalobce proti té části výroku pod bodem I v záhlaví označeného rozsudku odvolacího soudu, jímž byl potvrzen rozsudek Okresního soudu v Olomouci ze dne 14. dubna 2009, č. j. 17 C 54/2006-209, ve výroku pod bodem I, kterým byl zamítnut návrh, aby žalovaným byla uložena povinnost zaplatit žalobci částku 20.000,- Kč s 2 % úrokem z prodlení od 19. 2. 2004 do zaplacení, není přípustné, neboť podle ustanovení § 237 odst. 2 písm. a) občanského soudního řádu, ve znění novely provedené s účinností od 1. 7. 2009 zákonem č. 7/2009 Sb. (dále též jen „o. s. ř.“), dovolání není přípustné ve věcech, v nichž dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50.000,- Kč a v obchodních věcech 100.000,- Kč; k příslušenství pohledávky se přitom nepřihlíží. V posuzované věci, jež není věcí obchodní, bylo rozhodnutím odvolacího soudu vydaným po dni 1. 7. 2009 (srov. bod 12 přechodných ustanovení v čl. II zákona č. 7/2009 Sb.) rozhodnuto o peněžitém plnění v částce 20.000,- Kč.
+Protože dovolání není přípustné ani v části směřující proti rozhodnutí odvolacího soudu o nákladech řízení (srov. usnesení Nejvyššího soudu uveřejněné pod č. 4 Sbírky soudních rozhodnutí a stanovisek, ročník 2003), nelze než uzavřít, že dovolání směřuje proti rozhodnutí odvolacího soudu, proti němuž není tento mimořádný opravný prostředek přípustný. O těchto skutečnostech byl ostatně žalobce správně poučen odvolacím soudem.
+Nejvyšší soud proto, aniž nařizoval jednání (§ 243a odst. 1, věta první, o. s. ř.), dovolání podle ustanovení § 243b odst. 5 ve spojení s § 218 písm. c) o. s. ř. odmítl.
+Žalobce nesplňoval podmínku povinného zastoupení dovolatele v dovolacím řízení (§ 241 o. s. ř.), vzhledem k ustanovení § 241b odst. 2, část věty za středníkem, o. s. ř. však nebyl důvod činit opatření k odstranění tohoto nedostatku podmínky dovolacího řízení.
+Rozhodnutí o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř. Žalovaným, kteří by podle těchto ustanovení měli vůči žalobci právo na tuto náhradu, podle obsahu spisu v dovolacím řízení náklady nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 22. června 2010
+JUDr. Miroslav Gallus
+předseda senátu
