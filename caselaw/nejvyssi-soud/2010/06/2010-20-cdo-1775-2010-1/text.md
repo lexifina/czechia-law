@@ -1,0 +1,19 @@
+20 Cdo 1775/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Olgy Puškinové a soudců JUDr. Vladimíra Mikuška a JUDr. Miroslavy Jirmanové ve věci výkonu rozhodnutí oprávněné České republiky – Okresního soudu v Děčíně, se sídlem v Děčíně, Masarykovo nám. 1, proti povinnému: J. D. H., zastoupenému JUDr. Klárou A. Veselou - Samkovou, Ph.D., advokátkou se sídlem v Praze 2, Španělská 6, pobočka v Děčíně, Labské nábřeží 43, vedené u Okresního soudu v Děčíně pod sp. zn. 21 E 31/2008, o dovolání povinného proti usnesení Krajského soudu v Ústí nad Labem - pobočky v Liberci ze dne 15. ledna 2009, č. j. 29 Co 690/2008 - 28, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Shora označeným usnesením krajský soud potvrdil usnesení Okresního soudu v Děčíně ze dne 23. 5. 2008, č. j. 21 E 31/2008 - 14, jímž byl podle vykonatelných usnesení téhož soudu ze dne 22. 7. 2005, č. j. 7 E 886/2005 - 15, ze dne 22. 7. 2005, č. j. 7 E 893/2005 - 14, ze dne 28. 6. 2005, č. j. 8 E 1224/2005 - 21, ve spojení s usnesením Krajského soudu v Ústí nad Labem - pobočky v Liberci ze dne 25. 11. 2005, č. j. 30 Co 629/2005 - 40, a ze dne 17. 8. 2005, č. j. 8 E 1225/2005 - 27, ve spojení s usnesením Krajského soudu v Ústí nad Labem - pobočky v Liberci ze dne 25. 11. 2005, č. j. 30 Co 686/2005 - 48, k uspokojení pohledávky oprávněné v celkové výši 300.000,- Kč nařízen výkon rozhodnutí prodejem tam specifikovaných nemovitostí povinného, a rozhodl o nákladech odvolacího řízení.
+Proti usnesení odvolacího soudu podal povinný dne 10. 4. 2009 dovolání, doručené soudu prvního stupně dne 14. 4. 2009.
+Nejvyšší soud ČR jako soud dovolací (§ 10a o. s. ř.) dospěl po přezkoumání věci k závěru, že dovolání bylo podáno opožděně.
+Podle § 240 odst. 1 o. s. ř. účastník může podat dovolání do dvou měsíců od doručení rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Bylo-li odvolacím soudem vydáno opravné usnesení, běží tato lhůta od doručení opravného usnesení.
+Podle § 240 odst. 2 o. s. ř. zmeškání lhůty uvedené v odstavci 1 nelze prominout; lhůta je však zachována, bude-li dovolání podáno ve lhůtě u dovolacího nebo odvolacího soudu.
+Podle § 57 odst. 2 o. s. ř. lhůty určené podle týdnů, měsíců nebo let se končí uplynutím toho dne, který se svým označením shoduje se dnem, kdy došlo ke skutečnosti určující počátek lhůty, a není-li ho v měsíci, posledním dnem měsíce. Připadne-li konec lhůty na sobotu, neděli nebo svátek, je posledním dnem lhůty nejblíže následující pracovní den. Podle § 57 odst. 3 o. s. ř. lhůta je zachována, je-li posledního dne lhůty učiněn úkon u soudu nebo podání odevzdáno orgánu, který má povinnost je doručit.
+Z obsahu spisu - zejména dokladu o doručení usnesení odvolacího soudu - plyne, že povinnému bylo usnesení Krajského soudu v Ústí nad Labem - pobočky v Děčíně ze dne 15. 1. 2009, č. j. 29 Co 690/2008 - 28, doručeno dne 9. 2. 2009 (§ 50c odst. 4 o. s. ř. ve znění účinném do 30. 6. 2009). Dovolání proti usnesení odvolacího soudu předal povinný k poštovní přepravě dne 10. 4. 2009.
+V dané věci běžela lhůta k podání dovolání ode dne doručení usnesení odvolacího soudu povinnému (nebylo vydáno opravné usnesení), tj. od 9. 2. 2009 (pondělí), a skončila dne 9. 4. 2009 (čtvrtek). Je tedy zřejmé, že dvouměsíční lhůta dodržena nebyla, neboť dovolání povinného bylo podáno až po marném uplynutí zákonné lhůty k dovolání. Proto bylo dovolání podle § 243b odst. 5, věty první a § 218a o. s. ř. odmítnuto.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, věta první, § 224 odst. 1 a § 151 odst. 1 o. s. ř., neboť povinný s ohledem na výsledek dovolacího řízení nemá na náhradu svých nákladů právo a oprávněné v tomto řízení žádné náklady nevznikly.
+Proti tomuto usneseni není přípustný opravný prostředek.
+V Brně dne 23. června 2010
+JUDr. Olga Puškinová, v. r.
+předsedkyně senátu
