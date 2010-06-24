@@ -1,0 +1,17 @@
+4 Nd 234/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jiřího Pácala a soudců JUDr. Františka Hrabce a JUDr. Petra Šabaty v právní věci oprávněného Hlavního města Prahy, se sídlem Mariánské nám. 2, Praha 1, IČ 00064581, proti povinnému H. P. D., o návrhu na nařízení exekuce se žádostí o pověření soudního exekutora, vedené u Okresního soudu v Teplicích pod sp. zn. 49 EXE 477/2010, o návrhu na určení místní příslušnosti podle ustanovení § 11 odst. 3 o.s.ř., t a k t o :
+Věc vedená u Okresního soudu v Teplicích pod sp. zn. 49 EXE 477/2010 se přikazuje k projednání a rozhodnutí Okresnímu soudu v Teplicích.
+O d ů v o d n ě n í :
+Podáním ze dne 17. 3. 2010 podal oprávněný u Okresního soudu v Teplicích návrh na nařízení exekuce.
+Okresní soud v Teplicích následně usnesením ze dne 24. 5. 2010, sp. zn. 49 EXE 477/2010, vyslovil svoji místní nepříslušnost v předmětné věci s tím, že po právní moci tohoto usnesení bude věc předložena Nejvyššímu soudu České republiky k určení, který soud věc projedná a rozhodne.
+Podle ustanovení § 11 odst. 1 o.s.ř. se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení.
+Podle ustanovení § 105 odst. 1 o.s.ř. soud zkoumá místní příslušnost před tím, než začne jednat o věci samé. Příslušnost se určuje podle okolností, které jsou tu v době zahájení řízení a trvá až do jeho skončení. Zkoumání místní příslušnosti se tedy soustřeďuje jen na začátek řízení.
+Podle ustanovení § 45 odst. 1 zák. č. 120/2001 Sb., exekučního řádu, je věcně příslušným exekučním soudem v prvním stupni okresní soud. Podle ustanovení § 45 odst. 2 exekučního řádu je místně příslušným exekučním soudem soud, v jehož obvodu má bydliště povinný, je-li fyzickou osobou, a nemá-li bydliště, soud, v jehož obvodu se zdržuje. Nemá-li povinný bydliště v České republice ani se v ní nezdržuje, je příslušným soud, v jehož obvodu má povinný majetek.
+Podle ustanovení § 11 odst. 3 o.s.ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Po prostudování předmětného spisového materiálu Nejvyšší soud České republiky zjistil, že rozhodujícímu soudu se nepodařilo zjistit bydliště povinného ani v době zahájení řízení ani v době současné. Bylo zjištěno, že povinný se nezdržuje na adrese uvedené v návrhu na zahájení řízení (tj. M. t., Teplice), nepodařilo se zjistit ani jiné místo pobytu povinného a z úřední činnosti příslušného soudu není známo, že by se v obvodu Okresního soudu v Teplicích nacházel majetek povinného. Soudu je známa pouze adresa vyplývající z centrální evidence obyvatel (tj. N., Praha 4 - Michle), ale na té se povinný nezdržuje a nikdy nezdržoval, což vyplývá ze zprávy Policie České republiky ze dne 31. 3. 2010
+Vzhledem ke skutečnosti, že se nepodařilo zjistil místo, kde měl povinný v době zahájení řízení bydliště, kde se zdržoval ani kde měl majetek, rozhodl Nejvyšší soud České republiky podle ustanovení § 11 odst. 3 o.s.ř. s přihlédnutím k zásadě hospodárnosti řízení tak, že jako místně příslušný soud v dané věci určil soud, u něhož bylo řízení zahájeno, tj. Okresní soud v Teplicích.
+P o u č e n í : Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 24. června 2010
+JUDr. Jiří Pácal
+předseda senátu
