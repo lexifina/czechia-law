@@ -1,0 +1,17 @@
+21 Cdo 3168/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Ljubomíra Drápala a soudců JUDr. Romana Fialy a JUDr. Zdeňka Novotného v právní věci žalobce PROLUX Consulting Int. s.r.o. se sídlem v Praze 1, Václavské náměstí č. 819, IČ 26731908, proti žalovanému M. L., zastoupenému JUDr. Davidem Mášou, advokátem se sídlem v Praze 1, Štupartská č. 599/4, o 276.000,- Kč s příslušenstvím, o dovolání žalovaného proti rozhodčímu nálezu rozhodce JUDr. Bc. Martina Kulhánka, Ph.D. ze dne 23. března 2009 sp. zn. 11088/09-17, takto:
+I. Řízení o podání žalovaného proti rozhodčímu nálezu rozhodce JUDr. Bc. Martina Kulhánka, Ph.D. ze dne 23. března 2009 sp. zn. 11088/09-17
+označeném jako "dovolání" se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů řízení.
+O d ů v o d n ě n í :
+Rozhodčím nálezem ze dne 23. března 2009 sp.zn. 11088/09-17 vydaným rozhodcem JUDr. Bc. Martin Kulhánek, Ph.D. bylo žalovanému uloženo, aby zaplatil žalobci 276.000,- Kč s úroky z prodlení, které byly vyčísleny, a zamítnuta žaloba o zaplacení dalšího úroku z prodlení z částky 276.000,- Kč ve výši 10,5% ročně od 11. 3. 2008 do 14. 3. 2008; současně bylo rozhodnuto, že žalovaný je povinen zaplatit žalobci na náhradě nákladů řízení 62.111,60 Kč k rukám advokátky JUDr. Jany Kudrnové, Ph.D.
+Uvedený rozhodčí nález žalovaný napadl podáním, které učinil dne 29. 7. 2009 u Nejvyššího soudu ČR a které označil jako "dovolání". Uvedl v něm mimo jiné, že "řízení je postiženo vadou, která mohla mít za následek nesprávné rozhodnutí ve věci" a že "rozhodnutí spočívá na naprosto nesprávném právním posouzení věci", a dovozuje, že "dovolání je obecně přípustné podle § 236 - 240 o. s. ř. proti takovým rozhodnutím, která nebyla přezkoumávána jiným opravným prostředkem, nebo tento opravný prostředek nemohl být dostatečně účinný" a že tedy "analogicky by mělo být možné podat dovolání i v případě rozhodčího nálezu". Z důvodů, které blíže rozvádí, žalovaný navrhl, aby Nejvyšší soud ČR "rozhodčí nález rozhodce JUDr. Bc. Martina Kulhánka, Ph.D., datovaný dnem 23. 3. 2009 sp. zn. 11088/09" zrušil.
+Dovolání je mimořádný opravný prostředek v občanském soudním řízení, které lze podat proti pravomocnému rozhodnutí odvolacího soudu, pokud to zákon připouští (§ 236 odst.1 o. s. ř.). O dovoláních proti rozhodnutím krajských nebo vrchních soudů jako soudů odvolacích rozhoduje Nejvyšší soud ČR (§ 10a o. s. ř.).
+Rozhodčí nález, vydaný rozhodcem ve smyslu zákona č. 216/1994 Sb., o rozhodčím řízení a výkonu rozhodčích nálezů, ve znění pozdějších předpisů není rozhodnutím odvolacího soudu, a proto proti němu nelze podat dovolání, a to ani postupem podle ustanovení § 236 a násl. o. s. ř., ani jejich "analogickým" užitím. Zákon proto neupravuje rovněž to, který soud by byl funkčně příslušným k rozhodnutí o podání, kterým by bylo uplatněno proti rozhodčímu nálezu "dovolání".
+Vzhledem k tomu, že nedostatek funkční příslušnosti soudů je neodstranitelným nedostatkem podmínky řízení, Nejvyšší soud ČR řízení o podání žalovaného, označeném jako "dovolání" proti rozhodčímu nálezu rozhodce podle ustanovení § 104 odst. 1 o. s. ř. zastavil.
+O náhradě nákladů řízení bylo rozhodnuto podle ustanovení § 151 odst.1 části věty před středníkem o. s. ř., neboť žalovaný s ohledem na výsledek řízení na náhradu svých nákladů nemá právo a žalobci v řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 30. června 2010
+JUDr. Ljubomír Drápal, v. r.
+předseda senátu
