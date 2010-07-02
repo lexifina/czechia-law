@@ -1,0 +1,17 @@
+4 Nd 169/2010-I.
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Danuše Novotné a soudců JUDr. Františka Hrabce a JUDr. Petra Šabaty v právní věci návrhu M. O. , zastoupeného Mgr. Davidem Purmenským, advokátem se sídlem 702 00 Ostrava – Moravská Ostrava, 28. října 3117/61, na úpravu práv a povinností k nezletilému dítěti – nezl. S. T. O. , – po dobu po rozvodu manželství M. O. , a D. O. , Spolková republika Německo, t a k t o :
+Návrh M. O. na úpravu práv a povinností k nezletilému dítěti S. T. O. , na dobu po rozvodu manželství M. O. a D. O. p r o j e d n á a r o z h o d n e Okresní soud v Ostravě.
+O d ů v o d n ě n í :
+Podáním ze dne 11. 5. 2010 byl prostřednictvím právního zástupce M. O. podán návrh, aby Nejvyšší soud podle § 11 odst. 3 o. s. ř. rozhodl, který soud České republiky upraví práva a povinnosti k nezletilému dítěti S. T. O. , V odůvodnění tohoto návrhu uvedl, že u Okresního soudu v Ostravě bude podána žaloba o rozvod manželství M. O. a D. O. , přičemž příslušnost tohoto soudu pro řízení o rozvod manželství je dána § 88 písm. a) o. s. ř. Příslušnost soudu v opatrovnické věci ve vztahu k nezletilému synovi však nelze určit, neboť ten se nezdržuje v České republice. Navrhovatel uvedl, že jako nejvhodnější se mu jeví projednání úpravy práv a povinností k nezletilému dítěti Okresním soudem v Ostravě, neboť tento soud je soudem místně příslušným pro řízení o rozvod manželství.
+Na základě usnesení předsedkyně senátu Nejvyššího soudu ze dne 2. 7. 2010, sp. zn. 4 Nd 169/2010, byl tento návrh doplněn podáním ze dne 26. 7. 2010 o konkrétní návrh otce na úpravu práv a povinností k nezletilému dítěti po dobu po rozvodu manželství.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Návrh na toto určení může podat účastník ještě před podáním žaloby nebo jiného návrhu na zahájení řízení; věc může Nejvyššímu soudu předložit i soud po vyslovení své místní nepříslušnosti za podmínek stanovených v § 105 odst. 1 a 2 o. s. ř.
+V posuzovaném případě se jedná o návrh účastníka na určení soudu, který rozhodne o úpravě práv a povinností k nezletilému dítěti po dobu po rozvodu manželství.
+Soudem místně příslušným podle § 88 písm. a) o. s. ř. pro řízení o rozvodu manželství bude v posuzovaném případě Okresní soud v Ostravě. Pro účely řízení o úpravu práv a povinností k nezletilému dítěti však podmínky místní příslušnosti chybějí, neboť se jedná o dítě, které nemá své bydliště na území České republiky a pro určení místní příslušnosti tedy nelze použít ustanovení § 88 písm. c) o. s. ř.
+Jelikož v posuzované věci je dána pravomoc soudů České republiky, avšak podmínky místní příslušnosti chybějí, jsou splněny podmínky dle § 11 odst. 3 o. s. ř. a Nejvyššímu soudu tedy přísluší rozhodnutí, který soud věc projedná a rozhodne.
+S ohledem na skutečnost, že se jedná o návrh na úpravu práv a povinností k nezletilému dítěti po dobu rozvodu manželství, kdy místně příslušným soudem v řízení o rozvod manželství bude Okresní soud v Ostravě, neshledal Nejvyšší soud žádného důvodu, aby tento soud rozhodl rovněž o úpravě práv a povinností k nezletilému dítěti dle předloženého návrhu a věc proto tomuto soudu přikázal k projednání a rozhodnutí.
+Poučení : Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 11. srpna 2010
+Předsedkyně senátu:
+JUDr. Danuše Novotná
