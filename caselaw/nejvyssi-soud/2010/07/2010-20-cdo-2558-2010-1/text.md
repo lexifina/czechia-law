@@ -1,0 +1,15 @@
+20 Cdo 2558/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Olgy Puškinové a soudců JUDr. Vladimíra Mikuška a JUDr. Miroslavy Jirmanové ve věci výkonu rozhodnutí oprávněného D. D., proti povinné L. S., pro 8.455,50 Kč, vedené u Okresního soudu ve Frýdku-Mísku pod sp. zn. 31 E 31/2008, o dovolání povinné proti usnesení Krajského soudu v Ostravě ze dne 31. března 2009, č. j. 9 Co 1199/2008 - 26, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.):
+Shora označeným usnesením Krajský soud v Ostravě potvrdil usnesení ze dne 22. 10. 2008, č. j. 31 E 31/2008 - 15, jímž Okresní soud ve Frýdku-Místku nařídil podle vykonatelného rozsudku Okresního soudu v Bruntále, pobočka v Krnově, ze dne 26. 10. 2004, č. j. 15 C 161/99 - 209, potvrzeného rozsudkem Krajského soudu v Ostravě ze dne 19. 5. 2006, č. j. 57 Co 122/2005 - 310, k uspokojení nepřednostní pohledávky oprávněného ve výši 8.455,50 Kč výkon rozhodnutí srážkami z důchodu povinné, který jí přísluší u České správy sociálního zabezpečení, Křížová 25, Praha 5, a kterým dále rozhodl mj. o náhradě nákladů výkonu rozhodnutí, a rozhodl o nákladech odvolacího řízení.
+Proti tomuto usnesení podala povinná dovolání, aniž byla při tomto úkonu zastoupena advokátem.
+Pro podání dovolání, které je mimořádným opravným prostředkem, stanoví § 241 o. s. ř. požadavek, aby účastník řízení, jenž podává dovolání, měl buď sám právnické vzdělání, nebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc. Ustanovení § 241 o. s. ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejího splnění nelze o dovolání rozhodnout.
+Usnesením soudu prvního stupně ze dne 13. 7. 2009, č. j. 31 E 31/2008 - 36, byla dovolatelka mj. vyzvána, aby ve lhůtě 10 dnů od doručení tohoto usnesení „předložila soudu plnou moc pro advokáta, který ji bude v řízení o dovolání zastupovat, a aby prostřednictvím tohoto advokáta podala řádné dovolání“; současně byla poučena o tom, že nebudou-li vady podání v naznačeném směru odstraněny a doplněny, dovolací soud dovolání „odmítne“. O žádosti povinné o ustanovení zástupce pro podání dovolání rozhodl okresní soud usnesením ze dne 25. 1. 2010, č. j. 31 E 31/2008 - 53, (pravomocným dne 20. 2. 2010) tak, že ji zamítl. Protože dovolatelka dosud výzvě okresního soudu nevyhověla a ani netvrdila, že má právnické vzdělání, Nejvyšší soud dovolací řízení podle § 243c odst. 1 a § 104 odst. 2 věty třetí o. s. ř. zastavil.
+Dovolatelka z procesního hlediska zavinila, že dovolací řízení bylo zastaveno, oprávněnému však prokazatelné náklady tohoto řízení, na jejichž náhradu by jinak měl podle § 146 odst. 2 věty první, § 224 odst. 1 a § 243b odst. 5 věty první o. s. ř. právo, nevznikly; této procesní situaci odpovídá výrok, že na náhradu nákladů dovolacího řízení nemá právo žádný z účastníků.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 14. července 2010
+JUDr. Olga P u š k i n o v á, v. r.
+předsedkyně senátu
