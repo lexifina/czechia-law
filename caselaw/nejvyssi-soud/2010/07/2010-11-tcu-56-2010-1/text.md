@@ -1,0 +1,19 @@
+11 Tcu 56/2010
+U S N E S E N Í
+Nejvyšší soud České republiky projednal dne 16. července 2010 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na zápis odsouzení cizozemským soudem do evidence Rejstříku trestů a rozhodl t a k t o :
+Podle § 4 odst. 2 zák. č. 269/1994 Sb. s e do evidence Rejstříku trestů zaznamenají údaje o odsouzení občana České republiky P. I. rozsudkem Obvodového soudu v Bayreuth, Spolková republika Německo, ze dne 22. 1. 2010, sp. zn. 7 Ds 228 Js 11588/09, a to pro trestný čin krádeže podle § 242 odst. 1, § 243 odst. 1 č. 3, § 25 odst. 2 a § 53 trestního zákona Spolkové republiky Německo, k trestu odnětí svobody v trvání 1 (jednoho) roku.
+O d ů v o d n ě n í :
+Výše uvedeným rozsudkem Obvodového soudu v Bayreuth, Spolková republika Německo, jenž nabyl právní moci dne 24. března 2010, byl P. I. uznán vinným trestným činem krádeže podle shora uvedených ustanovení právních předpisů Spolkové republiky Německo a odsouzen k trestu odnětí svobody v trvání jednoho roku.
+Podle zjištění cizozemského soudu se odsouzený P. I. dopustil trestné činnosti v podstatě tím, že:
+- dne 13. října 2009 v 18.20 hod. společně s odsouzenou K. P. odcizil z prostor společnosti Saturn GmbH na Webergasse 1, Drážďany, Spolková republika Německo, celkem 22 ks USB flash disků v hodnotě celkem 719,78 EUR,
+- dne 23. října 2009 ve 14.10 hod. společně s odsouzenou K. P. odcizil z prostor společnosti Media-Markt ve Spinnereistrasse 4, Bayreuth, Spolková republika Německo, celkem sedm her PS3 v hodnotě celkem 454,93 EUR.
+Ministerstvo spravedlnosti České republiky podalo podle § 4 odst. 2 zák. č. 269/1994 Sb., o Rejstříku trestů (dále jen „zákon“), Nejvyššímu soudu České republiky návrh na zapsání výše označeného odsouzení německého soudu do evidence Rejstříku trestů České republiky.
+Nejvyšší soud České republiky věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro zápis odsouzení cizozemským soudem do evidence Rejstříku trestů.
+Především je třeba uvést, že podle § 4 odst. 2 zákona může Nejvyšší soud České republiky na návrh Ministerstva spravedlnosti České republiky rozhodnout, že se do evidence Rejstříku trestů zaznamenají údaje o odsouzení občana České republiky cizozemským soudem, jestliže se týká činu, který je trestným i podle právního řádu České republiky a zápis do evidence je odůvodněn závažností činu a druhem trestu, který za něj byl uložen. Dále je nutno připomenout, že pokud Nejvyšší soud rozhodne o zaznamenání údajů o odsouzení do evidence Rejstříku trestů, hledí se na takové odsouzení cizozemským soudem jako na odsouzení soudem České republiky (§ 4 odst. 4 zákona).
+Z podaného návrhu a z obsahu připojeného spisového materiálu vyplývá, že odsouzený je státním občanem České republiky, který byl odsouzen cizozemským soudem, přičemž odsouzení se týká skutku, který vykazuje znaky trestného činu i podle příslušných právních předpisů České republiky (trestný čin krádeže podle § 205 trestního zákoníku). Tím jsou splněny formální podmínky ustanovení § 4 odst. 2 zákona.
+V posuzované věci jsou ovšem dány i podmínky materiální povahy. Odsouzený P. I. se pro finanční prospěch dopustil majetkové trestné činnosti, kterou způsobil nezanedbatelnou škodu na cizím majetku. Společenská škodlivost jeho trestné činnosti je zvyšována i tím, že se trestné činnosti dopustil dvěma útoky. Odsouzený tedy jednal v rozsahu, pro který lze tuto jeho činnost označit za závažnou ve smyslu § 4 odst. 2 zákona. Pokud jde o druh trestu, byl mu uložen již výraznější nepodmíněný trest odnětí svobody. Lze tedy dovodit, že podmínky ustanovení § 4 odst. 2 zákona týkající se závažnosti činu a druhu uloženého trestu jsou splněny.
+Z uvedených důvodů proto Nejvyšší soud České republiky návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 16. července 2010
+Předseda senátu:
+JUDr. Antonín Draštík
