@@ -1,0 +1,21 @@
+22 Cdo 2159/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jiřího Spáčila, CSc., a soudců Mgr. Michala Králíka, Ph.D., a JUDr. Františka Baláka ve věci žalobce P. Č., proti žalovanému označenému jako provozovna Pošta č. 1 České pošty, se sídlem v Českých Budějovicích, Senovážné náměstí 1, o návrhu na nařízení předběžného opatření, vedené u Okresního soudu v Českých Budějovicích pod sp. zn. 34 Nc 4001/2009, o dovolání žalobce proti usnesení Krajského soudu v Českých Budějovicích ze dne 20. listopadu 2009, č. j. 8 Co 2927/2009-9, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Podle § 243c odst. 2 občanského soudního řádu (dále jen „o. s. ř.“) v usnesení, jímž bylo dovolání odmítnuto nebo jímž bylo zastaveno dovolací řízení, dovolací soud pouze stručně vyloží důvody, pro které je dovolání opožděné, nepřípustné, zjevně bezdůvodné nebo trpí vadami, jež brání pokračování v dovolacím řízení, nebo pro které muselo být dovolací řízení zastaveno.
+Okresní soud v Českých Budějovicích (dále jen „soud prvního stupně“) usnesením ze dne 9. října, č. j. 34 Nc 4001/2009-3, zastavil řízení o návrhu P. Č. na vydání předběžného opatření.
+Krajský soud v Českých Budějovicích (dále jen „odvolací soud“) usnesením ze dne 20. listopadu 2009, č. j. 8 Co 2927/2009-9, k odvolání žalobce usnesení soudu prvního stupně ve věci samé potvrdil.
+Proti tomuto usnesení odvolacího soudu podal žalobce dovolání.
+Nejvyšší soud České republiky dospěl k závěru, že v posuzovaném případě brání rozhodnutí o dovolání nesplnění podmínky povinného zastoupení dovolatele.
+Dovolání je mimořádný opravný prostředek, kterým lze napadnout pravomocné rozhodnutí odvolacího soudu, pokud to zákon připouští. Mimořádnost tohoto opravného prostředku odůvodňuje požadavek, aby účastník řízení (osoba uvedená v § 21, 21a, 21b, anebo v § 26a odst. 3, která za něj jedná), který se rozhodl dovolání uplatnit, měl právnické vzdělání nebo, aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc [advokátem nebo - jde-li o věci uvedené v § 3 odst. 1 písm. b) a § 3 odst. 2 zákona č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), ve znění pozdějších předpisů - notářem], jestliže sám nebo osoba uvedená v § 21, 21a, 21b, anebo v § 26a odst. 3, která za něj jedná, takového vzdělání nedosáhla.
+Z ustanovení § 241 o. s. ř. vyplývá, že dovolatel - pokud nemá právnické vzdělání buď sám nebo osoba uvedená v § 21, 21a, 21b, anebo v § 26a odst. 3, která za něj jedná - musí být nejen při podání dovolání zastoupen advokátem (notářem), ale i požadavek, že tento procesní úkon může učinit jen prostřednictvím takového zmocněnce. Citované ustanovení představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit.
+V posuzovaném případě podal žalobce dovolání proti usnesení odvolacího soudu, aniž by při tomto úkonu byl zastoupen advokátem (zastoupení notářem v této věci nepřipadá v úvahu), a nebylo ani prokázáno, že by měl právnické vzdělání. K odstranění uvedeného nedostatku jej soud prvního stupně usnesením ze dne 10. března 2010, č. j. 22 C 4001/2009-25, vyzval ho, aby si ve lhůtě třiceti dnů ode dne doručení usnesení zvolil v dovolacím řízení pro podání dovolání zástupcem advokáta s uloženou povinností k předložení plné moci pro zastupování v dovolacím řízení, a zároveň jej poučil, že nebude-li ve stanovené lhůtě předložena plná moc zvoleného advokáta a jím sepsané dovolání, Nejvyšší soud České republiky dovolací řízení zastaví.
+Toto usnesení bylo žalobci doručeno dne 18. března 2010. Ve stanovené lhůtě (a ani později) žalobce na uvedenou výzvu nereagoval.
+Z uvedeného je zřejmé, že dovolatel nesplnil zákonem stanovenou podmínku povinného zastoupení a přes výzvy a poučení o důsledcích své nečinnosti nedostatek podmínky dovolacího řízení neodstranil. Dovolací soud proto řízení o dovolání žalobce podle § 243b odst. 5 věty druhé, § 241b odst. 2 a § 104 odst. 2, věty třetí o. s. ř. zastavil.
+Výrok o náhradě nákladů dovolacího řízení vychází z § 243b odst. 4 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 1 písm. c) o. s. ř.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 19. července 2010
+JUDr. Jiří Spáčil, CSc. , v. r.
+předseda senátu
