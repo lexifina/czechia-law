@@ -1,0 +1,15 @@
+29 Cdo 440/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudců doc. JUDr. Ivany Štenglové a Mgr. Jiřího Zavázala v právní věci žalobkyně PPF banky a. s., se sídlem v Praze 6, Evropská 2690/17, PSČ 160 41, identifikační číslo 47 11 61 29, zastoupené Mgr. Jiřím Vrbou, advokátem, se sídlem v Praze 1, Mezibranská 19, PSČ 115 02, proti žalovanému Ing. M. T., zastoupenému Mgr. Tomášem Pelikánem, advokátem, se sídlem v Praze 1 – Malé Straně, Tyršův dům, Újezd 450/40, PSČ 118 01, o námitkách proti směnečnému platebnímu rozkazu, vedené u Krajského soudu v Ústí nad Labem pod sp. zn. 24 Cm 403/2009, o dovolání žalovaného proti usnesení Vrchního soudu v Praze ze dne 2. prosince 2009, č. j. 6 Cmo 300/2009-126, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Vrchní soud v Praze k odvolání žalovaného v záhlaví označeným usnesením potvrdil usnesení ze dne 14. srpna 2009, č. j. 24 Cm 403/2009-111, kterým Krajský soud v Ústí nad Labem – odkazuje na ustanovení § 107a občanského soudního řádu (dále jen „o. s. ř.“) – připustil, aby do řízení na místo dosavadní žalobkyně vstoupila společnost BLACKSTRAIT LIMITED, se sídlem Omirou 20, 5th floor, P. C. 1097 Nicosia, Kyperská republika (dále jen „společnost“).
+Proti usnesení odvolacího soudu podal žalovaný dovolání, namítaje, že soudy obou stupňů byl nesprávně zjištěn skutkový stav (potud polemizuje se skutkovým závěrem ohledně předání směnky společnosti), že řízení je postiženo vadou, která mohla mít za následek nesprávné rozhodnutí ve věci (její existenci spatřuje v tom, že soud prvního stupně dospěl k nesprávným skutkovým zjištěním a odvolací soud „tyto vady řízení“ neodstranil) a že rozhodnutí spočívá na nesprávném právním posouzení věci (zápis vyhotovený na rubové straně směnky není formálně v pořádku a nejde tak o indosament, kterým by došlo k indosaci směnky ze žalobkyně na společnost).
+Požaduje, aby Nejvyšší soud rozhodnutí soudů nižších stupňů zrušil.
+Dovolání žalovaného, které je přípustné podle ustanovení § 239 odst. 2 písm. b) o. s. ř., Nejvyšší soud podle ustanovení § 243b odst. 1 o. s. ř. odmítl jako zjevně bezdůvodné.
+Učinil tak proto, že s výjimkou níže uvedenou dovolatel (posuzováno podle obsahu) výhradou ohledně (ne)předání směnky ve skutečnosti uplatňuje dovolací důvod podle ustanovení § 241a odst. 3 o. s. ř., který u dovolání, jehož přípustnost je založena ustanovením § 239 o. s. ř., k dispozici nemá (srov. ustanovení § 241a odst. 3 o. s. ř., jakož i důvody usnesení Nejvyššího soudu ze dne 28. srpna 2008, sp. zn. 29 Cdo 252/2008). Navíc v poměrech dané věci není pochyb o tom, že k předání směnky došlo.
+Ve shora zmíněném rozhodnutí přitom Nejvyšší soud současně dovodil, že neodůvodněná výhrada, podle níž nejde o řádný indosament, není způsobilá zpochybnit závěr odvolacího soudu o převodním účinku rubopisu (čl. I § 11 odst. 1 a § 14 odst. 1 zákona č. 191/1950 Sb.); ani námitka „formální nesprávnosti“ rubopisu tak není z hlediska správnosti dovoláním napadeného rozhodnutí významná.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 27. července 2010
+JUDr. Petr G e m m e l
+předseda senátu
