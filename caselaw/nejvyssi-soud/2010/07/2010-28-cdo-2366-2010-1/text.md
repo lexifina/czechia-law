@@ -1,0 +1,17 @@
+28 Cdo 2366/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivy Brožové a soudců JUDr. Jana Eliáše, Ph.D., a JUDr. Josefa Rakovského v právní věci žalobce Lidové bytové družstvo Praha 8, sídlem Praha 8, V Zahradách 21/786, zastoupené JUDr. Danem Holubkovem, advokátem se sídlem Praha 1, Dlouhá 16, proti žalovanému M. P., zastoupeného Mgr. Eduardem Benešem, advokátem se sídlem Praha 9, Na Rozcestí 6, o zaplacení částky 81 604,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 8 pod sp. zn. 11 C 41/2008, o dovolání žalovaného proti usnesení Městského soudu v Praze ze dne 29. 10. 2009, č. j. 29 Co 335/2009 - 73, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění (§ 243c odst. 2 o.s.ř.):
+Městský soudu v Praze usnesením ze dne 29. 10. 2009, č. j. Co 335/2009-73, změnil rozsudek Obvodního soudu pro Prahu 8 ze dne 20. 4. 2009, č. j. 11 C 41/2008-61, ve výroku označeném IV. tak, že se opatrovníku žalovaného Mgr. E. B. přiznává odměna a náhrada hotových výdajů ve výši 2 142,- Kč, a ve výroku označeném V. tak, že žalovaný je povinen zaplatit České republice na nákladech řízení 2 142,- Kč do tří dnů od právní moci usnesení.
+Dle odvolacího soudu při určování částky, která přísluší na nákladech řízení opatrovníku žalovaného, jehož pobyt není znám, a jenž mu byl ustanoven podle ust. § 29 o.s.ř., přehlédl soud prvního stupně § 9 odst. 5 vyhlášky č. 177/1996 Sb. Odvolací soud dále uvedl, že advokát má nárok na úhradu hotových výdajů podle § 13 odst. 3 vyhlášky č. 177/1996 Sb. a jelikož je Mgr. B. plátcem daně z přidané hodnoty, také přiznání částky 342,- Kč a 2 142,- Kč.
+Žalovaný podal proti rozhodnutí odvolacího soudu dovolání, jehož přípustnost blíže nespecifikuje a jehož důvodnost spatřuje v § 241a odst. 2 písm. a) a b) o. s. ř.
+Nejvyšší soud jako soud dovolací (§ 10a o. s. ř.) po zjištění, že dovolání bylo podáno proti pravomocnému rozhodnutí odvolacího soudu oprávněnou osobou (účastníkem řízení) ve lhůtě uvedené v § 240 odst. 1 o. s. ř., dospěl k závěru, že v daném případě dovolání směřuje proti rozhodnutí, proti němuž není přípustné.
+Dovolání není přípustné podle § 237 o.s.ř., neboť usnesením odvolacího soudu nebylo potvrzeno nebo změněno usnesení soudu prvního stupně, kterým by bylo rozhodnuto ve věci samé, a nebylo shledáno přípustným ani podle ustanovení § 238, § 238a a § 239 o.s.ř., protože usnesením soudu prvního stupně nebylo rozhodnuto ve věcech, které jsou taxativně vyjmenovány v ustanoveních § 238 a § 238a o.s.ř., a nejde rovněž o žádný z případů procesních rozhodnutí uvedených v ustanovení § 239 o. s. ř. (srov. usnesení Nejvyššího soudu ze dne 4. 3. 2008, sp. zn. 30 Cdo 160/2008, či usnesení Nejvyššího soudu ze dne 25. 8. 2008, sp. zn. 33 Cdo 2858/2008).
+Z uvedeného vyplývá, že dovolání žalovaného směřuje proti rozhodnutí odvolacího soudu, proti němuž tento mimořádný opravný prostředek není přípustný. Nejvyšší soud proto dovolání podle ust. § 243b odst. 5, věty první, a § 218 písm. c) o. s. ř. jako nepřípustné odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř., neboť žalovaný nemá s ohledem na výsledek dovolacího řízení na náhradu nákladů právo a žalobci žádné náklady nevznikly.
+Proti tomuto rozhodnutí není opravný prostředek přípustný.
+V Brně dne 27. července 2010
+JUDr. Iva B r o ž o v á, v. r.
+předsedkyně senátu
