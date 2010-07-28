@@ -1,0 +1,17 @@
+33 Cdo 1094/2010-154
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivany Zlatohlávkové a soudců JUDr. Blanky Moudré a JUDr. Pavla Krbka ve věci žalobkyně RWE Energie, a.s. se sídlem v Ústí nad Labem, Klíšská 940, zastoupené Mgr. Kamilem Stypou, advokátem se sídlem v Praze 4, Vyskočilova 1481/4, proti žalovaným 1) P. O., zastoupenému JUDr. Jaroslavem Červinkou, advokátem se sídlem v Praze 7, Výstaviště 67, a 2) O. O., o zaplacení částky 48.814,81 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 4, pod sp. zn. 11 C 179/2006, o dovolání žalovaného proti rozsudku Městského soudu v Praze ze dne 3. června 2009 č. j. 18 Co 225/2009-134, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 4 (soud prvního stupně) rozsudkem ze dne 2. září 2008, č. j. 11 C 179/2006-102, uložil žalovaným povinnost do tří dnů od právní moci rozsudku zaplatit žalobkyni částku 48.814,81 Kč se zde specifikovaným příslušenstvím a rozhodl o nákladech řízení.
+Městský soud v Praze jako soud odvolací rozsudkem ze dne 3. června 2009 č. j. 18 Co 225/2009-134, rozsudek soudu prvního stupně potvrdil s tím, že žalovaní jsou povinni plnit společně a nerozdílně, a rozhodl o nákladech odvolacího řízení.
+Proti rozsudku odvolacího soudu podal žalovaný dovolání, ve kterém namítá, že soudy při rozhodování pochybily a tím žalované poškodi.
+V řízení o dovolání bylo postupováno podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění do 30. 6. 2009 – dále jen „o. s. ř.“ (srovnej článek II bod 12. zákona č. 7/2009 Sb.).
+Podle § 240 o. s. ř. může účastník podat dovolání do dvou měsíců od doručení rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Bylo-li odvolacím soudem vydáno opravné usnesení, běží tato lhůta od doručení opravného usnesení (odst. 1). Zmeškání lhůty uvedené v odstavci 1 nelze prominout. Lhůta je však zachována, bude-li dovolání podáno ve lhůtě u odvolacího nebo dovolacího soudu (odst. 2). Lhůta je zachována také tehdy, jestliže dovolání bylo podáno po uplynutí dvouměsíční lhůty proto, že se dovolatel řídil nesprávným poučením soudu o dovolání. Neobsahuje-li rozhodnutí poučení o dovolání, o lhůtě k dovolání nebo o soudu, u něhož se podává, nebo obsahuje-li nesprávné poučení o tom, že dovolání není přípustné, lze podat dovolání do čtyř měsíců od doručení (odst. 3).
+Z obsahu spisu vyplývá, že rozsudek Městského soudu v Praze ze dne 3. 6. 2009 č. j. 18 Co 225/2009-134, byl zástupci žalovaného JUDr. Jaroslavu Červinkovi, advokátu se sídlem v Praze 7, Výstaviště 67, doručen dne 20. 7. 2009. Poslední den lhůty k podání dovolání připadl na pondělí 21. 9. 2009 (viz. § 57 odst. 2 o. s. ř.). Podal-li žalovaný dovolání proti tomuto rozsudku k poštovní přepravě dne 13. 10. 2009 (a doplnil jej prostřednictvím jemu ustanoveného advokáta podáním z 19. 1. 2010), učinil tak po uplynutí zákonem stanovené lhůty, jejíž zmeškání nelze prominout. Nejvyšší soud proto - aniž nařizoval jednání - opožděné dovolání podle § 243b odst. 5 věta první, § 218 odst. 1 o. s. ř. odmítl
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř. za situace, kdy žalobkyni nevznikly v této fázi řízení žádné náklady, na jejichž náhradu by jinak měl vůči žalovanému právo.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 28. července 2010
+JUDr. Ivana Zlatohlávková, v. r.
+předsedkyně senátu
