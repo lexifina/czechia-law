@@ -1,0 +1,21 @@
+30 Cdo 1230/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Pavla Pavlíka a soudců JUDr. Miloše Holečka a JUDr. Pavla Vrchy v právní věci žalobce Ing. L. M., proti žalované České republice - Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 16, o zaplacení 450.000,- Kč s přísl., vedené u Obvodního soudu pro Prahu 2 pod sp.zn. 12 C 37/2007, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 4. listopadu 2009, č.j. 23 Co 441/2009-41, takto:
+I. Dovolání žalobce se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í
+(§ 243c odst. 2 o.s.ř.):
+Obvodní soud pro Prahu 2 rozsudkem ze dne 24. dubna 2009, č.j. 12 C 37/2007-29, přiznal žalobci právo na přiměřené zadostiučinění za nemajetkovou újmu vzniklou průtahy v soudním řízení podle § 13 odst.1 a § 31a zákona č. 82/1998 Sb., o odpovědnosti za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo nesprávným úředním postupem a o změně zákona České národní rady č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), ve znění pozdějších předpisů, ve výši 12.500,-Kč s přísl., a žalobu na zaplacení 437.500,- Kč s přísl. zamítl.
+K odvolání, které podal žalobce proti zamítavému výroku rozsudku soudu prvního stupně a domáhal se jím proti žalované zaplacení dalších 45.000,- Kč s přísl., Městský soud v Praze rozsudkem ze dne 4. listopadu 2009, č.j. 23 Co 441/2009-41, rozsudek soudu prvního stupně v zamítavém výroku o věci samé ohledně částky 35.000,- Kč s přísl. potvrdil (výrok I.) a dále rozsudek soudu prvního stupně v zamítavém výroku o věci samé změnil tak, že přiznal žalobci proti žalované právo na zaplacení 10.000,- Kč s přísl. (výrok II.) a rozhodl o náhradě nákladů řízení (výrok III.).
+Proti rozsudku odvolacího soudu podal žalobce, nezastoupený advokátem, včas jako osoba oprávněná dovolání a navrhl zrušení rozsudků soudů obou stupňů a vrácení věci soudům nižších stupňů k dalšímu řízení. Dovolatel dovozuje přípustnost dovolání z ustanovení § 237 odst. 1 písm. c) o.s.ř. a dovolací důvod spatřuje v naplnění předpokladů uvedených v ustanovení § 241a odst. 2 písm. a) o.s.ř.
+Strana žalovaná nepodala k dovolání vyjádření.
+Dovolatel sice není zastoupen advokátem, ani nedoložil, že by měl sám právnické vzdělání, avšak vzhledem k tomu, že jeho dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný, není tento nedostatek podmínky dovolacího řízení důvodem k zastavení řízení podle § 104 odst. 2 o. s. ř. Podle ustanovení § 241b odst. 2 o. s. ř. totiž platí, že není-li splněna podmínka uvedená v § 241 o. s. ř., postupuje se obdobně podle § 104 odst. 2 o. s. ř.; to neplatí, bylo-li dovolání podáno opožděně, někým, kdo k dovolání není oprávněn, nebo směřuje-li proti rozhodnutí, proti němuž není dovolání přípustné.
+Dovolací soud poté, co přihlédl k čl. II bodům 1. a 12. zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, z nichž vyplývá, že v tomto dovolacím řízení se použije § 237 odst. 2 písm. a) o.s.ř., účinný od 1.7. 2009, dospěl k závěru, že dovolání není přípustné.
+Podle § 237 odst. 2 písm. a) o.s.ř. dovolání není přípustné ve věcech, v nichž dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50 000 Kč a v obchodních věcech 100 000 Kč; k příslušenství pohledávky se přitom nepřihlíží.
+V rozsudku Městského soudu v Praze ze dne 4. listopadu 2009, č. j. 23 Co 441/2009- 41, odvolací soud rozhodl o částce 35.000,- Kč s příslušenstvím (resp. o částce 45.000,- Kč s přísl.) a dovolání proti tomuto rozsudku odvolacího soudu není proto přípustné.
+Z uvedeného důvodu Nejvyšší soud jako soud dovolací (§ 10a o.s.ř.) dovolání žalobce odmítl podle § 243b odst. 5 věty první a § 218 písm. c) o.s.ř., aniž se mohl věcí zabývat z hlediska uplatněných dovolacích důvodů.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 3 o. s. ř., neboť žalobce nemá na náhradu nákladů dovolacího řízení právo a žalovanému náklady v dovolacím řízení nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 30. července 2010
+JUDr. Pavel Pavlík,v.r.
+předseda senátu
