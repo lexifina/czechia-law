@@ -1,0 +1,12 @@
+21 Cdo 2609/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a JUDr. Zdeňka Novotného v právní věci žalobce O. L., proti žalovanému TŘINECKÉ ŽELEZÁRNY, a. s. se sídlem v Třinci-Starém Městě, Průmyslová č. 1000, IČ 18050646, zastoupenému JUDr. Stanislavem Kadlubiecem, advokátem se sídlem v Třinci-Starém Městě, Husova č. 401, o 47.832,- Kč, vedené u Okresního soudu ve Frýdku – Místku pod sp. zn. 17 C 117/2006, o dovolání žalobce proti rozsudku Krajského soudu v Ostravě ze dne 8. ledna 2009, č. j. 16 Co 299/2008-192, takto:
+I. Řízení o dovolání žalobce se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.):
+Řízení o dovolání žalobce proti rozsudku Krajského soudu v Ostravě ze dne 8. 1. 2009, č. j. 16 Co 299/2008-192, jímž byl rozsudek Okresního soudu ve Frýdku - Místku ze dne 23. 6. 2008, č. j. 17 C 117/2006-144, v části výroku I. změněn tak, že žalovaný je povinen zaplatit žalobci částku 1.056,- Kč, v části výroku I., pokud byla žaloba na zaplacení částky 46.776,- Kč zamítnuta, potvrzen a rozhodnuto, že žalobce je povinen zaplatit žalovanému na nákladech řízení před soudem prvního stupně 1.103,- Kč a na nákladech odvolacího řízení 540,- Kč k rukám advokáta JUDr. Stanislava Kadlubiece, Nejvyšší soud České republiky podle ustanovení § 241b odst. 2 a § 104 odst. 2 věty třetí zákona č. 99/1963 Sb., občanský soudní řád [ve znění do 30. 6. 2009 (dále jen „o. s. ř.“), neboť dovoláním je napadeno usnesení odvolacího soudu, které bylo vydáno před 1. 7. 2009 (srov. Čl. II bod 12 zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., ve znění pozdějších předpisů a další související zákony] zastavil, neboť dovolatel nesplnil zákonem stanovenou podmínku povinného zastoupení v dovolacím řízení a přes řádně doručenou výzvu a poučení soudu o důsledcích své nečinnosti ve stanovené lhůtě (ani dosud) nedostatek podmínky dovolacího řízení podle ustanovení § 241 o. s. ř. neodstranil.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 části věty před středníkem o. s. ř., neboť žalobce s ohledem na výsledek řízení na náhradu svých nákladů nemá právo a žalovanému v dovolacím řízení žádné účelně vynaložené náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 10. srpna 2010
+JUDr. Mojmír Putna, v. r.
+předseda senátu
