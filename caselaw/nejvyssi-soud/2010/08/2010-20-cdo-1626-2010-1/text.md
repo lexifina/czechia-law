@@ -1,0 +1,17 @@
+20 Cdo 1626/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové a soudců JUDr. Vladimíra Mikuška a JUDr. Olgy Puškinové v exekuční věci oprávněné Všeobecné zdravotní pojišťovny České republiky, se sídlem v Praze 3, Orlická 4/2020, proti povinnému J. H., zastoupenému Mgr. Čestmírem Sekaninou, advokátem se sídlem v Boskovicích, 17. listopadu 19, pro 40.083,- Kč, vedené u Okresního soudu v Blansku pod sp. zn. 9 Nc 2822/2008, o dovolání povinného proti usnesení Krajského soudu v Brně ze dne 23. 4. 2009, č. j. 12 Co 270/2009-10, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Krajský soud napadeným rozhodnutím odmítl odvolání povinného proti usnesení ze dne 19. 8. 2008, č. j. 9 Nc 2822/2008-2, kterým okresní soud nařídil podle platebních výměrů VZP ČR, ÚP Blansko, č. 4240800390, 2140800389 ze dne 20. 3. 2008, k uspokojení pohledávky 40.083,- Kč a pro náklady exekuce, jejichž výše bude stanovena exekutorem, exekuci, a jejím provedením pověřil soudního exekutora JUDr. Josefa Vránu. Dospěl k závěru, že povinný nezpochybnil žádnou ze skutečností rozhodných pro nařízení exekuce.
+Povinný napadl rozhodnutí krajského soudu dovoláním. K jeho žádosti mu Okresní soud v Blansku usnesením ze dne 10. 9. 2010, č. j. 9 Nc 2822/2008-16, ustanovil pro dovolací řízení advokáta Mgr. Čestmíra Sekaninu. Usnesení nabylo právní moci dne 15. 10. 2009.
+Podle § 241b odst. 3 zákona č. 99/1963 Sb., občanský soud řád, ve znění pozdějších předpisů (dále též jen „o. s. ř.“), dovolání, které neobsahuje údaje o tom, v jakém rozsahu nebo z jakých důvodů se rozhodnutí odvolacího soudu napadá, může být o tyto náležitosti doplněno jen po dobu trvání lhůty k dovolání. Nebyla-li v době podání dovolání splněna podmínka uvedená v § 241 o. s. ř., běží tato lhůta až do uplynutí lhůty, která byla dovolateli určena ke splnění této podmínky; požádá-li však dovolatel před uplynutím lhůty o ustanovení zástupce (§ 30 o. s. ř.), běží lhůta podle věty první znovu až od právní moci usnesení, kterým bylo o této žádosti rozhodnuto.
+Podle § 241a odst. 1 o. s. ř. v dovolání musí být vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu a z jakých důvodů se toto rozhodnutí napadá, popřípadě které důkazy by měly být provedeny k prokázání důvodu dovolání a čeho se dovolatel domáhá (dovolací návrh).
+Z uvedených ustanovení Nejvyšší soud již v několika rozhodnutích dovodil, že dovolání, které nebylo o uvedené náležitosti doplněno v propadné (prekluzívní) lhůtě určené ustanovením § 241b odst. 3 o. s. ř., bude dovolacím soudem odmítnuto podle § 43 odst. 2 o. s. ř. (srov. usnesení Nejvyššího soudu z 18. 6. 2003, sp. zn. 29 Odo 108/2002, publikované ve Sbírce soudních rozhodnutí a stanovisek č. 3, ročník 2004 pod poř. č. 21, nebo usnesení Nejvyššího soudu z 27. 1. 2005, sp. zn. 29 Odo 1060/2003, uveřejněné v časopise Soudní judikatura č. 3, ročník 2005 pod poř. č. 31).
+Soudem ustanovený advokát doplnil dovolání povinného až podáním ze dne 12. 1. 2010, ačkoliv lhůta k jeho doplnění uplynula dnem 15. 12. 2009.
+Vzhledem k uvedenému Nejvyšší soud podle ustanovení § 43 odst. 2 ve spojení s § 243c odst. 1 o. s. ř. dovolání odmítl.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 11. srpna 2010
+JUDr. Miroslava Jirmanová, v. r.
+předsedkyně senátu
