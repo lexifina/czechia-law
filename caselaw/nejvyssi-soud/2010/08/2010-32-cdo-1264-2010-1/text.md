@@ -1,0 +1,19 @@
+32 Cdo 1264/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Ing. a JUDr. Hany Gajdziokové v právní věci žalobkyně Ing. L. M., zastoupené Mgr. Elinou Yurchykovou, advokátkou se sídlem v Chomutově, Školní 5335, proti žalované COFIDIS s.r.o., se sídlem v Praze 5, Bucharova 1423/6, PSČ 158 00, IČ 27179907, zastoupené Mgr. Eliškou Barthelemy, advokátkou se sídlem v Praze 1, Voršilská 10, o splnění podmínek úvěrové smlouvy, vedené u Obvodního soudu pro Prahu 5 pod sp. zn. 34 C 76/2007, o dovolání žalobkyně proti usnesení Městského soudu v Praze ze dne 15. dubna 2009, č. j. 36 Co 47/2009-67, 36 Co 52/2009, takto:
+I. Dovolání se odmítá.
+II. Žalobkyně je povinna zaplatit žalované na náhradě nákladů dovolacího řízení částku 960 Kč do tří dnů od právní moci tohoto usnesení, k rukám její zástupkyně Mgr. Elišky Barthelemy.
+O d ů v o d n ě n í :
+Dovolání žalobkyně proti v záhlaví označenému usnesení v rozsahu, v němž Městský soud v Praze odmítl odvolání žalobkyně proti usnesení Obvodního soudu pro Prahu 5 ze dne 15. listopadu 2007, č. j. 34 C 76/2007-48, ve spojení s opravným usnesením ze dne 28. ledna 2009, č. j. 34 C 76/2007-58 (výrok I.) a dále potvrdil usnesení Obvodního soudu pro Prahu 5 ze dne 17. prosince 2008, č. j. 34 C 76/2007-50, o zastavení řízení, ve spojení s opravným usnesením ze dne 14. ledna 2009, č. j. 34 C 76/2007-55 (výrok II.), není přípustné.
+Se zřetelem k době vydání usnesení odvolacího soudu se uplatní pro dovolací řízení – v souladu s bodem 12. čl. II. přechodných ustanovení zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony – občanský soudní řád ve znění účinném do 30. června 2009 (dále též jen „o. s. ř.“).
+Podle ustanovení § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti usnesení odvolacího soudu upravují ustanovení § 237 až § 239 o. s. ř.
+Usnesení odvolacího soudu, jímž bylo odmítnuto odvolání proti usnesení soudu prvního stupně a dále bylo potvrzeno usnesení soudu prvního stupně o zastavení řízení, nelze podřadit žádnému z usnesení, proti nimž zákon připouští dovolání v ustanoveních § 238, § 238a a § 239 o. s. ř.
+Oproti očekávání dovolatelky není dovolání přípustné ani podle ustanovení § 237 o. s. ř. upravujícího přípustnost dovolání rovněž proti usnesení (a rozsudku) odvolacího soudu, ovšem pouze za podmínky, že jím bylo rozhodnuto ve věci samé. Protože napadené usnesení odvolacího soudu nemá povahu rozhodnutí ve věci samé, není dovolání přípustné ani podle § 237 o. s. ř.
+Tento závěr s sebou nese konečné posouzení podaného dovolání jako nepřípustného. Nejvyšší soud je proto, aniž ve věci nařizoval jednání (§ 243a odst. 1 věta první o. s. ř.), usnesením odmítl [§ 243b odst. 5 věta první a § 218 písm. c) o. s. ř.].
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanoveními § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 3 o. s. ř. Žalobkyně, jejíž dovolání bylo odmítnuto, nemá na náhradu svých nákladů právo a je povinna nahradit žalované účelně vynaložené náklady dovolacího řízení. Náklady žalované sestávají ze sazby odměny za zastupování advokátem v částce 500 Kč podle § 14 odst. 3, § 15 a § 18 odst. 1 vyhlášky č. 484/2000 Sb., v platném znění, a z paušální částky 300 Kč za jeden úkon právní služby (vyjádření k dovolání) podle § 13 odst. 3 vyhlášky č. 177/1996 Sb., v platném znění, při připočtení 20% daně z přidané hodnoty ve výši 160 Kč.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+Nesplní-li povinná, co jí ukládá vykonatelné rozhodnutí, může se oprávněná domáhat výkonu rozhodnutí.
+V Brně 24. srpna 2010
+JUDr. Miroslav Gallus
+předseda senátu
