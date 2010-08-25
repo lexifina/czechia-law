@@ -1,0 +1,16 @@
+29 Cdo 2585/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně doc. JUDr. Ivany Štenglové a soudců JUDr. Petra Šuka a Mgr. Filipa Cilečka v právní věci žalobce Společenství vlastníků Nad Kotlářkou pro domy č. 2556, 1913 a 2557, se sídlem v Praze 6, Dejvicích, Zengrova 1913/15, PSČ 160 00, identifikační číslo 26 46 78 10, zastoupeného JUDr. Ladislavem Vostárekem, advokátem, se sídlem v Praze 6, Mickiewiczova 17, PSČ 160 00, proti žalované J. H., o zaplacení 42.376,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 6 pod sp. zn. 21 C 81/2006, o dovolání žalované proti rozhodnutí Městského soudu v Praze ze dne 3. září 2008, č. j. 18 Co 196/2008-154, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Proti v záhlaví označenému rozhodnutí odvolacího soudu podala žalovaná dovolání.
+Podle ustanovení § 241 zákona č. 99/1963 Sb., občanského soudního řádu (dále též jen „o. s. ř.“), není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními právními předpisy (odstavec 1). Odstavec 1 neplatí, je-li dovolatelem fyzická osoba, která má právnické vzdělání (odstavec 2 písm. a/). Dovolání musí být (v případě dovolatelů - fyzických osob) sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a/, advokátem nebo notářem (odstavec 4).
+Z podaného dovolání zastoupení dovolatelky advokátem nevyplývá, proto ji Obvodní soud pro Prahu 6 usnesením ze dne 12. ledna 2009, č. j. 21 C 81/2006-177, doručeným dovolatelce dne 2. března 2009 (viz č. l. 178 spisu) vyzval, aby v určené patnáctidenní lhůtě odstranila nedostatek povinného zastoupení tak, že si pro podání dovolání zvolí zástupce z řad advokátů a jeho prostřednictvím podá dovolání, popř. prokáže, že má právnické vzdělání. Současně jí poučil o důsledcích nesplnění výzvy.
+Dovolatelka podáním ze dne 5. března 2009 (č. l. 179 a 180 spisu) požádala o ustanovení advokáta zástupcem pro podání dovolání. Obvodní soud pro Prahu 6 usnesením ze dne 1. února 2010, č. j. 21 C 81/2006-203, její návrh na ustanovení advokáta zástupcem zamítl. Městský soud v Praze k odvolání dovolatelky usnesením ze dne 15. dubna 2010, č. j. 18 Co 179/2010-211, rozhodnutí soudu prvního stupně potvrdil; usnesení odvolacího soudu bylo dovolatelce doručeno dne 18. května 2010 (č. l. 212 spisu).
+Protože povinné zastoupení dovolatelky v dovolacím řízení je podmínkou týkající se účastníka řízení, bez jejíhož splnění nelze dovolání meritorně projednat, a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu prvního stupně do dnešního dne nedošlo, Nejvyšší soud dovolací řízení podle § 104 odst. 2 a § 243c o. s. ř. zastavil.
+O náhradě nákladů řízení rozhodl dovolací soud podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 2 věty první o. s. ř. tak, jak se uvádí ve výroku, neboť dovolatelka zavinila, že řízení muselo být zastaveno a žalobci náklady dovolacího řízení nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 25. srpna 2010
+doc. JUDr. Ivana Š t e n g l o v á
+předsedkyně senátu
