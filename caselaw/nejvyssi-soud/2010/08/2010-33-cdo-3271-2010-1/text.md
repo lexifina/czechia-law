@@ -1,0 +1,13 @@
+33 Cdo 3271/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Václava Dudy a soudkyň JUDr. Blanky Moudré a JUDr. Ivany Zlatohlávkové ve věci žalobkyně O. Š., zastoupené JUDr. Pavlínou Pomijovou, advokátkou se sídlem v Českých Budějovicích, Riegrova 2668/c, proti žalované Z. V., zastoupené JUDr. Václavem Kaskou, advokátem se sídlem v Českých Budějovicích, Žižkova 1, o zaplacení částky 30.000,- Kč s příslušenstvím oproti vydání věci, vedené u Okresního soudu v Českých Budějovicích pod sp. zn. 10 C 324/2007, o dovolání žalované proti rozsudku Krajského soudu v Českých Budějovicích ze dne 9. března 2010, č. j. 19 Co 238/2010-167, takto:
+I. Dovolání se odmítá.
+II. Žalovaná je povinna zaplatit žalobkyni na náhradě nákladů dovolacího řízení 4.080,- Kč do tří dnů od právní moci tohoto usnesení k rukám JUDr. Pavlíny Pomijové, advokátky se sídlem v Českých Budějovicích, Riegrova 2668/c.
+O d ů v o d n ě n í :
+Dovolání žalované proti v záhlaví citovanému rozsudku, kterým krajský soud ve věci samé potvrdil rozsudek Okresního soudu v Českých Budějovicích ze dne 15. září 2009, č. j. 10 C 324/2007-112, ve spojení s doplňujícím usnesením ze dne 19. listopadu 2009, č. j. 10 C 324/2007-123, není podle § 237 odst. 2 písm. a) zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů (čl. II. bod 1. zákona č. 7/2009 Sb., dále jen „o. s. ř.“), přípustné, neboť dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím částku 50.000,- Kč (srov. usnesení Nejvyššího soudu ze dne 30. listopadu 2006, sp. zn. 33 Odo 1495/2006, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek 7/2008 pod č. 68).
+Podle § 243b odst. 5 věty prvé, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř. je žalovaná, jejíž dovolání bylo odmítnuto, povinna nahradit žalobkyni náklady dovolacího řízení. Tyto náklady představuje odměna za vyjádření k dovolání sepsané advokátem [§ 11 odst. 1 písm. k) vyhlášky č. 177/1996 Sb.], stanovená podle § 3 odst. 1 bod 4., § 10 odst. 3, § 14 odst. 1, § 15 a § 18 odst. 1 vyhlášky č. 484/2000 Sb. částkou 3.100,- Kč, paušální částka náhrady výdajů podle § 13 odst. 1 a 3 vyhlášky č. 177/1996 Sb. ve výši 300,- Kč a 20 % DPH ve výši 680,- Kč. Platební místo a lhůta ke splnění uložené povinnosti vyplývají z § 149 odst. 1 a § 160 odst. 1 o. s. ř.
+Proti tomuto usnesení není opravný prostředek přípustný.
+Nesplní-li žalovaná dobrovolně, co jí ukládá vykonatelné rozhodnutí, může žalobkyně podat návrh na soudní výkon rozhodnutí (exekuci).
+V Brně 31. srpna 2010
+JUDr. Václav D u d a , v. r.
+předseda senátu
