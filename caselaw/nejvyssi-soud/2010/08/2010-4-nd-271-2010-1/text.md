@@ -1,0 +1,19 @@
+4 Nd 271/2010-43
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Danuše Novotné a soudců JUDr. Františka Hrabce a JUDr. Petra Šabaty v právní věci žalobkyně P. J. , proti žalovanému Z. F. , o určení otcovství, vedené u Okresního soudu v Ostravě pod sp. zn. 60 C 401/2008, o návrhu na přikázání věci z důvodu vhodnosti podle § 12 odst. 2, 3 o. s. ř., takto:
+Věc vedená u Okresního soudu v Ostravě pod sp. zn. 60 C 401/2008, s e n e p ř i k a z u j e k projednání a rozhodnutí Okresnímu soudu v Berouně.
+O d ů v o d n ě n í :
+V označené právní věci požádala žalobkyně o přikázání věci z důvodu vhodnosti Okresnímu soudu v Berouně. Návrh odůvodnila tím, že v obvodu tohoto soudu má přechodné bydliště, v současné době pečuje o dvě malé děti a cesta do Ostravy by pro ni byla časově nemožná a finančně náročná.
+Žalovaný s návrhem na delegaci věci nesouhlasil, přičemž podle jeho názoru by věc měl projednat a rozhodnout soud příslušný dle místa trvalého bydliště žalované a jejího nezletilého syna D. J. , které je ve F. pod R.
+Podle ustanovení § 12 odst. 2 o. s. ř. věc může být přikázána jinému soudu téhož stupně z důvodu vhodnosti.
+Podle ustanovení § 12 odst. 3 věty první o. s. ř. o přikázání věci rozhoduje soud, který je nejblíže společně nadřízen příslušnému soudu a soudu, jemuž má být věc přikázána. Podle ustanovení § 12 odst. 3 věty druhé o. s. ř. účastníci mají právo se vyjádřit k tomu, kterému soudu má být věc přikázána, a v případě odstavce 2 též k důvodu, pro který by věc měla být přikázána.
+Nejvyšší soud České republiky jako soud nejblíže společně nadřízený příslušnému soudu a soudu, jemuž má být věc přikázána, návrh na přikázání věci Okresnímu soudu v Berouně projednal a dospěl k závěru, že v posuzovaném případě nejsou splněny zákonné podmínky k tomu, aby věc byla tomuto soudu přikázána.
+Předpokladem přikázání věci jinému soudu z důvodu vhodnosti podle ustanovení § 12 odst. 2 o. s. ř. je především existence okolností, jež umožňují hospodárnější a rychlejší projednání věci. Pokud soud přikáže věci jinému soudu podle ustanovení § 12 odst. 2 o. s. ř., aniž by pro takové rozhodnutí byly splněny podmínky, poruší tím ústavně zaručené právo zakotvené v čl. 38 odst. 1 Listiny základních práv a svobod, podle kterého nikdo nesmí být odňat svému zákonnému soudci a příslušnost soudu a soudce stanoví zákon.
+V posuzovaném případě je z obsahu návrhu žalobkyně zjevné, že jediným důvodem návrhu na delegaci věci je skutečnost, že v současné době přechodně bydlí v B. a z tohoto důvodu a vzhledem k péči o dvě děti, je pro ni případné projednání věci Okresním soudem v Berouně finančně i časově výhodnější. Žádný jiný důvod k delegaci věci jinému soudu žalobkyně neuvedla a z obsahu spisu ani žádný jiný důvod k takové delegaci nevyplývá.
+Důvody, které žalobkyně ve svém návrhu uvedla, neshledal Nejvyšší soud natolik závažnými, aby s ohledem na ně rozhodl o přikázání věci jinému než místně příslušnému soudu. Nejvyšší soud rovněž nemohl přehlédnout, že projednání věci jiným něž místně příslušným soudem by mohlo na druhé straně být finančně i časově náročnější z hlediska druhého účastníka řízení, tedy žalovaného.
+Nejvyšší soud ani z obsahu spisu neshledal žádné okolnosti, které by odůvodňovaly delegaci věci jinému soudu z důvodu vhodnosti, tedy především okolnosti svědčící o rychlejším a hospodárnějším projednání a rozhodnutí věci Okresním soudem v Berouně, tak aby tyto okolnosti odůvodňovaly výjimku z výše uvedeného ústavního principu.
+Nejvyšší soud České republiky z výše uvedených důvodů návrhu na přikázání věci Okresnímu soudu v Berouně z důvodu vhodnosti nevyhověl a věc podle ustanovení § 12 odst. 2 o. s. ř. Okresnímu soudu v Berouně nepřikázal.
+Poučení : Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 31. srpna 2010
+Předsedkyně senátu:
+JUDr. Danuše Novotná
