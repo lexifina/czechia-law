@@ -19,6 +19,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | --- | --- | --- | --- |
 | 2013-11-27 | 1/0 | Zpráva a jiné | [t0001000008.md](t0001000008.md), [t0001000009.md](t0001000009.md), [t0001000010.md](t0001000010.md), [t0001000011.md](t0001000011.md), [t0001000012.md](t0001000012.md), [t0001000013.md](t0001000013.md), [t0001000014.md](t0001000014.md), [t0001000015.md](t0001000015.md), [t0001000016.md](t0001000016.md), [t0001000017.md](t0001000017.md), [t0001000032.md](t0001000032.md) |
 | 2010-06-16 | 1/1 | Stanovisko NKÚ k návrhu státního závěrečného účtu České republiky za rok 2009 | [t000101p100.md](t000101p100.md) |
+| 2010-09-15 | 1/2 | Usnesení rozpočtového výboru č. 40 ze dne 15. září 2010 k návrhu státního závěrečného účtu České republiky za rok 2009 | [t000102.md](t000102.md), [t000102p100.md](t000102p100.md) |
 
 ## Files
 
@@ -38,6 +39,8 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t0001000017.md](t0001000017.md) | 1/0 | Zpráva a jiné | [t0001000017.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=62871) | pymupdf / pdftotext 1.0000 |
 | [t0001000032.md](t0001000032.md) | 1/0 | Zpráva a jiné | [t0001000032.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=62886) | pymupdf / pdftotext 1.0000 |
 | [t000101p100.md](t000101p100.md) | 1/1 | Stanovisko NKÚ k návrhu státního závěrečného účtu České republiky za rok 2009 | [t000101p100.doc](https://www.psp.cz/sqw/text/orig2.sqw?idd=63432) | libreoffice / antiword 1.0000 |
+| [t000102.md](t000102.md) | 1/2 | Usnesení rozpočtového výboru č. 40 ze dne 15. září 2010 k návrhu státního závěrečného účtu České republiky za rok 2009 | [t000102.doc](https://www.psp.cz/sqw/text/orig2.sqw?idd=63834) | libreoffice / antiword 1.0000 |
+| [t000102p100.md](t000102p100.md) | 1/2 | Usnesení rozpočtového výboru č. 40 ze dne 15. září 2010 k návrhu státního závěrečného účtu České republiky za rok 2009 | [t000102p100.doc](https://www.psp.cz/sqw/text/orig2.sqw?idd=64264) | libreoffice / antiword 1.0000 |
 
 ## Not held as text
 
