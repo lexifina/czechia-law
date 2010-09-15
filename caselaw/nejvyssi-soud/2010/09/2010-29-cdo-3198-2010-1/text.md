@@ -1,0 +1,15 @@
+29 Cdo 3198/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně doc. JUDr. Ivany Štenglové a soudců JUDr. Petra Šuka a Mgr. Filipa Cilečka v právní věci navrhovatelky Ing. B. K., zastoupené Mgr. Tomášem Rašovským, advokátem, se sídlem v Brně, Kotlářská 51a, PSČ 602 00, za účasti 1) MVDr. D. K., zastoupeného JUDr. Margitou Beranovou, advokátkou, se sídlem v Brně, Rooseveltova 6/8, PSČ 602 00, a 2) F. B., zastoupeného Mgr. Ivanem Nezvalem, advokátem, se sídlem v Brně, Rooseveltova 6/8, PSČ 602 00, o určení neplatnosti smlouvy o převodu části obchodního podílu vedené u Okresního soudu v Břeclavi pod sp. zn. 8 C 246/2007, o dovolání navrhovatelky proti usnesení Krajského soudu v Brně ze dne 13. října 2009, č. j. 14 Co 888/2008-181, ve znění opravného usnesení ze dne 13. dubna 2010, č. j. 14 Co 888/2008-228, takto:
+I. Dovolání se odmítá.
+II. Navrhovatelka je povinna zaplatit F. B. na náhradě nákladů dovolacího řízení 800,- Kč, do tří dnů od právní moci tohoto rozhodnutí, k rukám jeho zástupce.
+O d ů v o d n ě n í :
+V záhlaví označeným usnesením Krajský soud v Brně zrušil rozsudek Okresního soudu v Břeclavi ze dne 1. července 2008, č. j. 8 C 246/2007-105, ve spojení s doplňujícím usnesením ze dne 14. července 2008, č. j. 8 C 246/2007-120, řízení ve vztahu mezi navrhovatelkou a F. B. zastavil a ve vztahu mezi navrhovatelkou a D. K. rozhodl o tom, že věc bude po právní moci napadeného usnesení postoupena Krajskému soudu v Brně (výrok I.). Současně výrokem II. rozhodl o náhradě nákladů řízení před soudy obou stupňů ve vztahu mezi navrhovatelkou a F. B.
+Proti výroku II. (o náhradě nákladů řízení) usnesení odvolacího soudu podala navrhovatelka dovolání, jež Nejvyšší soud odmítl podle § 243b odst. 5 a § 218 písm. c/ občanského soudního řádu (dále jen „o. s. ř.“), neboť proti výroku náhradě nákladů řízení není dovolání přípustné (srov. usnesení Nejvyššího soudu uveřejněné pod číslem 4/2003 Sbírky soudních rozhodnutí a stanovisek).
+Výrok o nákladech dovolacího řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání navrhovatelky bylo odmítnuto a F. B. vzniklo právo na náhradu účelně vynaložených nákladů dovolacího řízení. Ty se v dané věci sestávají z odměny za zastupování advokátem za řízení v jednom stupni (dovolací řízení) ve výši 500,- Kč (určené dle ustanovení § 14 odst. 3, § 15 a § 18 vyhlášky č. 484/2000 Sb.) a náhrady hotových výdajů dle § 13 odst. 3 vyhlášky č. 177/1996 Sb. ve výši 300,- Kč. Celkem tak dovolací soud přiznal F. B. k tíži dovolatelky 800,- Kč.
+Rozhodné znění občanského soudního řádu, podle kterého Nejvyšší soud dovolání projednal a rozhodl o něm (od 1. července 2009) se podává z bodu 12., části první, článku II. zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+Nesplní-li povinná dobrovolně, co jí ukládá vykonatelné rozhodnutí, může se oprávněný domáhat výkonu rozhodnutí.
+V Brně 15. září 2010
+doc. JUDr. Ivana Štenglová
+předsedkyně senátu
