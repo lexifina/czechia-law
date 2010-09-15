@@ -1,0 +1,18 @@
+26 Cdo 3507/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marie Rezkové a soudců JUDr. Miroslava Feráka a Doc. JUDr. Věry Korecké, CSc., ve věci žalobce Bytového družstva 1810 A/B, se sídlem v Praze 3, Biskupcova 43/1810, IČ: 27865916, proti žalovanému L. Š., o vyklizení bytu, vedené u Obvodního soudu pro Prahu 3 pod sp. zn. 12 C 77/2009, o dovolání žalovaného proti rozsudku Městského soudu v Praze ze dne 6. května 2010, č. j. 70 Co 177/2010-32, t a k t o :
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Městský soud v Praze jako soud odvolací rozsudkem z 6. 5. 2010, č. j. 70 Co 177/2010-32, potvrdil rozsudek Obvodního soudu pro Prahu 3 (dále „soud prvního stupně“) z 5. 10. 2009, č. j. 12 C 77/2009-14, jímž byla žalovanému uložena povinnost „vyklidit a žalobci předat byt č. 315 v domě č. p. 1810 v P., Biskupcova 43, který se skládá z kuchyně, předsíně, koupelny s WC a pokoje, to vše do 15-ti dnů od přidělení přístřeší“, a rozhodnuto o nákladech řízení. Odvolací soud rozhodl také o nákladech odvolacího řízení.
+Proti rozsudku odvolacího soudu podal žalovaný včas dovolání. Protože nebyl zastoupen advokátem a z obsahu spisu nevyplývalo, že by sám měl právnické vzdělání, byl výzvou (usnesením) soudu prvního stupně z 29. 6. 2010 upozorněn na podmínku povinného zastoupení advokátem s tím, že nebude-li nedostatek uvedené podmínky dovolacího řízení ve stanovené lhůtě odstraněn, Nejvyšší soud řízení zastaví. Žalovaný v uvedené lhůtě ani později nedoložil, že by si pro dovolací řízení zvolil advokáta nebo že by měl právnické vzdělání.
+Protože žalovaný dovoláním napadl rozsudek Městského soudu v Praze z 6. 5. 2010, č. j. 70 Co 177/2010-32, tj. rozhodnutí vydané po 1. červenci 2009, Nejvyšší soud České republiky jako soud dovolací projednal dovolání a rozhodl o něm podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění novely provedené zákonem č. 7/2009 Sb. (čl. XXVII zákona č. 7/2009 Sb., dále jen „o.s.ř.“).
+Podle § 241 odst. 1 a 2 o.s.ř. dovolatel musí být zastoupen advokátem nebo notářem; to neplatí, má-li dovolatel právnické vzdělání, popřípadě jedná-li za něj osoba uvedená v § 21 nebo v § 21a anebo v § 21b, která má právnické vzdělání. Notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními předpisy. Nejde ani o případ, kdy podmínka zastoupení advokátem nemusí být ve smyslu § 241b odst. 2 o.s.ř. splněna, neboť nejde o dovolání podané opožděně nebo někým, kdo k tomu nebyl oprávněn, ani o dovolání nepřípustné.
+Povinné zastoupení dovolatele je zvláštní podmínkou dovolacího řízení týkající se dovolatele, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění nelze vydat rozhodnutí, jímž se řízení končí.
+Podle § 104 odst. 2 o.s.ř., jde-li o nedostatek podmínky řízení, který lze odstranit, učiní k tomu soud vhodná opatření. Nezdaří-li se nedostatek podmínky řízení odstranit, řízení zastaví.
+V dané věci žalovaný přes řádnou výzvu soudu prvního stupně uvedený nedostatek do dnešního dne neodstranil. Proto Nejvyšší soud České republiky dovolací řízení pro nedostatek uvedené podmínky řízení podle § 241b odst. 2 a § 104 odst. 2 o.s.ř. zastavil.
+Protože žalovaný nebyl v dovolacím řízení úspěšný a žalobci v tomto řízení žádné náklady nevznikly, bylo rozhodnuto podle § 243b odst. 5, § 224 odst. 1 a § 146 odst. 1 písm. c) o.s.ř. tak, že žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 15. září 2010
+JUDr. Marie Rezková, v. r.
+předsedkyně senátu
