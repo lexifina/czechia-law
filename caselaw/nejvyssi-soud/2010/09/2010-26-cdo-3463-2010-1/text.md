@@ -1,0 +1,13 @@
+26 Cdo 3463/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marie Rezkové a soudců JUDr. Miroslava Feráka a Doc. JUDr. Věry Korecké, CSc., ve věci žalobkyně A - Trading, a. s., IČ: 48289540, se sídlem v Praze 3, Písecká 9/1968, zastoupené JUDr. Petrem Voříškem, Ph.D., LL.M., advokátem se sídlem v Praze 7, Argentinská 38/286, proti žalované M. S., zastoupené Mgr. Pavlem Čižinským, advokátem se sídlem v Praze 2, Ječná 548/7, o vyklizení bytu, vedené u Okresního soudu v Kolíně pod sp. zn. 8 C 352/2009, o dovolání žalované proti rozsudku Krajského soudu v Praze ze dne 28. dubna 2010, č. j. 26 Co 135/2010-70, takto:
+I. Dovolání se odmítá.
+II. Žádná z účastnic nemá právo na náhradu nákladů řízení.
+O d ů v o d n ě n í :
+Protože žalovaná dovoláním napadla rozsudek Krajského soudu v Praze z 28. 4. 2010, č. j. 26 Co 135/2010-70, tj. rozhodnutí vydané po 1. červenci 2009, Nejvyšší soud České republiky jako soud dovolací projednal dovolání a rozhodl o něm podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění novely provedené zákonem č. 7/2009 Sb. (čl. XXVII zákona č. 7/2009 Sb., dále jen „o. s. ř.“).
+Dovolání proti rozsudku odvolacího soudu, který jí byl doručen 24. 5. 2010, podala žalovaná včas dne 23. 7. 2010. Neuplatnila však řádně žádný dovolací důvod, neboť pouze uvedla, že „dovolání je podáváno z důvodu dle § 241a odst. 2 písm. a), b) o. s. ř.“ a že bude odůvodněno ve lhůtě 14 dnů. Nejvyšší soud již v usnesení z 27. 1. 2005, sp. zn. 29 Odo 1060/2003, uveřejněném v časopise Soudní judikatura pod č. 31 v sešitě č. 3 z roku 2005, dospěl k závěru, že pouhá citace ustanovení § 241a odst. 2 písm. a) a b), odst. 3 o. s. ř. – bez údajů o tom, z jakých konkrétních důvodů se rozhodnutí odvolacího soudu napadá – není řádným uplatněním dovolacích důvodů. Dvouměsíční dovolací lhůta, ve které mohla žalovaná vady dovolání odstranit uplynula v pondělí 26. 7. 2010. Vzhledem k tomu, že se jejím marným uplynutím původně odstranitelné vady dovolání staly neodstranitelnými a brání tomu, aby dovolání mohlo být projednáno, Nejvyšší soud dovolání žalované podle § 241b odst. 3 a § 43 odst. 2 o. s. ř. odmítl (srov. usnesení Nejvyššího soudu ze dne 18. 6. 2003, sp. zn. 29 Odo 108/2002, uveřejněné pod č. 21 ve Sbírce soudních rozhodnutí a stanovisek, ročník 2004).
+Výrok o náhradě nákladů dovolacího řízení vychází z toho, že dovolání žalované bylo odmítnuto a žalobkyni účelně vynaložené náklady dovolacího řízení nevznikly (§ 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 22. září 2010
+JUDr. Marie R e z k o v á, v. r.
+předsedkyně senátu
