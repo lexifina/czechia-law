@@ -1,0 +1,17 @@
+4 Nd 313/2010-48
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Danuše Novotné a soudců JUDr. Františka Hrabce a JUDr. Petra Šabaty v právní věci žalobce SPEDITION FEICO, spol. s. r. o., se sídlem Háj 358, 798 12 Kralice na Hané, IČ: 60734426, zastoupeného JUDr. Viktorem Kvíčalou, advokátem se sídlem T. G. Masaryka 18, 796 01 Prostějov, proti žalovanému Tomolik Euro – Trans Kft., se sídlem Kossuth L. út. 14, 7025 Bölcske, Maďarská republika, IČ: 12504305, o zaplacení částky 1.310,- EUR s příslušenstvím (dříve o 5.450,- EUR s příslušenstvím), vedené u Krajského soudu v Brně pod sp. zn. 17 Cm 150/2009, o určení příslušnosti soudu podle § 11 odst. 3 o. s. ř. t a k t o :
+Věc, vedenou u Krajského soudu v Brně pod sp. zn. 17 Cm 150/2009, p r o j e d n á a r o z h o d n e Krajský soud v Brně.
+O d ů v o d n ě n í :
+Krajský soud v Brně usnesením ze dne 25. 1. 2010 sp. zn. 17 Cm 150/2009, vyslovil svoji místní nepříslušnost a rozhodl, že po právní moci tohoto usnesení bude věc předložena Nejvyššímu soudu k určení, který soud věc projedná a rozhodne.
+Vyslovení své místní nepříslušnosti odůvodnil tím, že dle přepravní smlouvy v mezinárodní silniční a nákladní dopravě (CMR) (dále jen Úmluva CMR) ve spojení s čl. 71 Nařízení Rady ES č. 44/2001 o příslušnosti a uznávání a výkonu soudních rozhodnutí v občanských a obchodních věcech (dále jen Nařízení Brusel I.) jsou české soudy pravomocné k rozhodování tohoto sporu (v části, které nebyla vyloučena předchozím usnesením Krajského soudu v Brně č. j. 17 Cm 150/2009-10).
+S ohledem na skutečnost, že Úmluva CMR určuje pouze mezinárodní pravomoc, bez toho, že by určovala i místní příslušnost, nelze v tomto případě určit podmínky místní příslušnosti a proto Krajský soud v Brně po právní moci usnesení o místní nepříslušnosti předložil věc Nejvyššímu soudu k určení podle § 11 odst. 3 o. s. ř., který soud věc projedná a rozhodne.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Z obsahu spisu vyplývá, že návrhem na vydání platebního rozkazu (žalobou) ze dne 7. 10. 2009 se žalobce domáhal zaplacení částky 5.450,- EUR.
+Krajský soud v Brně usnesením ze dne 3. 12. 2009, sp. zn. 17 Cm 150/2009, vyloučil do samostatného řízení nadále vedeného pod sp. zn. 17 Cm 182/2009, nárok žalobce na zaplacení částky 4.140,- EUR s příslušenstvím, s odůvodněním, že požadavek žalobce je v této části v otázce pravomoci a mezinárodní příslušnosti českých soudů u předmětných přeprav sporný a tato otázka bude řešena po právní moci tohoto usnesení. Ve zbývající části byla věc nadále vedená pod sp. zn. 17 Cm 150/2009, předložena Nejvyššímu soudu dle shora označeného usnesení ze dne 25. 1. 2010.
+V posuzovaném případě jsou podmínky pro rozhodnutí Nejvyššího soudu dle § 11 odst. 3 o. s. ř. splněny, neboť se jedná o věc patřící do pravomoci soudů České republiky, nicméně podmínky místní příslušnosti chybějí.
+S ohledem na požadavek hospodárnosti řízení Nejvyšší soud dospěl k závěru, že není vhodné určit jako místně příslušný jiný soud, než ten, u kterého byla podána žaloba a zahájeno řízení. Nejvyšší soud proto podle ustanovení § 11 odst. 3 o. s. ř. určil Krajský soud v Brně tím soudem, který věc projedná a rozhodne.
+P o u č e n í : Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 22. září 2010
+JUDr. Danuše N o v o t n á
+předsedkyně senátu
