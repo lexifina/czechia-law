@@ -1,0 +1,15 @@
+29 Cdo 2986/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně doc. JUDr. Ivany Štenglové a soudců JUDr. Petra Gemmela a Mgr. Jiřího Zavázala v právní věci žalobkyně České spořitelny, a. s., sídlem v Praze 4, Olbrachtova 1929/62, PSČ 140 00, identifikační číslo 45 24 47 82, proti žalované V. P. (dříve L.), o 4.368,50 Kč s příslušenstvím a vyklizení bezpečnostní schránky, vedené u Městského soudu v Brně pod sp. zn. 29 C 36/2005, o dovolání žalované proti neoznačenému usnesení Městského soudu v Brně, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Žalovaná podáními doručenými Nejvyššímu soudu dne 4. června 2009 (č. l. 69 a násl.) a soudu prvního stupně dne 5. června 2009 (č. l. 65 a násl. ) podala dovolání proti blíže neoznačenému rozhodnutí Městského soudu v Brně.
+Protože při podání dovolání nebyla dovolatelka zastoupena advokátem, ani nedoložila, že má sama odpovídající právnické vzdělání (§ 241 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů - dále též jen „o. s. ř.“), soud prvního stupně ji usnesením ze dne 7. září 2009, č. j. 29 C 36/2005-78, doručeným postupem dle ustanovení § 50 odst. 2 o. s. ř. vyvěšením na úřední desce soudu dne 26. dubna 2010, vyzval, aby ve stanovené lhůtě odstranila vady dovolání spočívající v tom, že neoznačila, proti kterému rozhodnutí dovolání podává a aby odstranila nedostatek povinného zastoupení. Současně jí ve smyslu § 30 odst. 1 a 2 o. s. ř. poskytl poučení o možnosti požádat o ustanovení zástupce z řad advokátů.
+Dovolatelka na výzvu soudu nijak nereagovala a nedostatek povinného zastoupení neodstranila. Nejvyšší soud proto podle ustanovení § 241b odst. 2 a § 104 odst. 2 o. s. ř. dovolací řízení zastavil.
+Pro úplnost Nejvyšší soud dodává, že dovolání v projednávané věci, ať již směřovalo proti kterémukoli rozhodnutí soudu prvního stupně je objektivně nepřípustné. Z ustanovení § 236 odst. 1 o. s. ř. vyplývá, že dovolání je mimořádným opravným prostředkem, kterým lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Naproti tomu opravným prostředkem, kterým může účastník napadnout rozhodnutí soudu prvního stupně (pokud to zákon nevylučuje), je odvolání (§ 201 o. s. ř.). Občanský soudní řád proto neupravuje funkční příslušnost soudu pro projednání dovolání proti rozhodnutí soudu prvního stupně; příslušným soudem tedy není Nejvyšší soud České republiky (jemuž žalovaná své podání adresovala) a jemuž dle ustanovení § 10a o. s. ř. svěřuje příslušnost rozhodovat o dovoláních proti pravomocným rozhodnutím krajských nebo vrchních soudů jako soudů odvolacích.
+Výrok o nákladech řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 1 věty prvé o. s. ř. a o skutečnost, že žalobkyni nevznikly v řízení prokazatelné náklady, k jejichž úhradě by jinak byla povinna žalovaná, nesoucí procesní zavinění na tom, že řízení muselo být zastaveno.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 29. září 2010
+doc. JUDr. Ivana Š t e n g l o v á
+předsedkyně senátu
