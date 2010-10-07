@@ -1,0 +1,11 @@
+23 Cdo 4172/2008-
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Ing. Janem Huškem v právní věci žalobkyně GE Money Auto, a. s., se sídlem v Praze 4, Vyskočilova 1422/1a, IČ: 601 12 743, zast. JUDr. Miroslavem Nyplem, advokátem se sídlem v Hradci Králové, Dukelská 15, proti žalovanému V. P., zast. JUDr. Zuzanou Zlatohlávkovou, advokátkou se sídlem v Hradci Králové, Riegrovo nám. 1493, o zaplacení 223.000,- Kč s přísl., vedené u Okresního soudu v Hradci Králové pod sp. zn. 20 C 29/2004, o dovolání žalovaného proti rozsudku Krajského soudu v Hradci Králové ze dne 21. května 2008, č. j. 25 Co 114/2008-280, o opravě rozsudku, takto:
+V záhlaví rozsudku Nejvyššího soudu České republiky ze dne 31. 8. 2010, č. j. 23 Cdo 4172/2008-310, se příjmení právního zástupce žalobkyně uvedené jako „JUDr. M. N., advokát se sídlem v Hradci Králové, Dukelská 15“ nahrazuje správným „JUDr. M. N., advokát se sídlem v Hradci Králové, Dukelská 15“.
+O d ů v o d n ě n í :
+V písemném vyhotovení shora specifikovaného rozsudku Nejvyššího soudu České republiky, jímž bylo dovolání směřující proti odst. II výroku rozsudku Krajského soudu v Hradci Králové ze dne 21. května 2008, č. j. 25 Co 114/2008-280, jímž byl rozsudek Okresního soudu v Hradci Králové ze dne 15. ledna 2008, č. j. 20 C 29/2004-249, ve věci samé potvrzen, zamítnuto, dále dovolání směřující proti odst. III. výroku rozsudku Krajského soudu v Hradci Králové ze dne 21. května 2008, č. j. 25 Co 114/2008-280, jímž bylo rozhodnuto o náhradě nákladů odvolacího řízení tak, že žalovaný je povinen na jejich náhradu žalobkyni zaplatit částku 50.646,- Kč do tří dnů od právní moci tohoto rozsudku k rukám jejího advokáta, odmítnuto, a konečně rozhodnuto o náhradě nákladů dovolacího řízení tak, že žalovaný je povinen zaplatit žalobkyni na náhradě nákladů dovolacího řízení 21.180,- Kč do 3 dnů od právní moci tohoto usnesení k rukám jejího advokáta JUDr. Miroslava Nypla, došlo v záhlaví rozsudku k chybě při psaní příjmení uvedeného advokáta žalobkyně, když místo „JUDr. M. Nl“ bylo nesprávně uvedeno „JUDr.M. N.“.
+Protože jde o zjevnou nesprávnost, byla tato chyba v záhlaví citovaného rozsudku postupem podle § 243c odst. 1 a § 164 o.s.ř. napravena.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 7. října 2010
+JUDr. Ing. Jan H u š e k
+předseda senátu
