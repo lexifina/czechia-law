@@ -1,0 +1,16 @@
+22 Cdo 3473/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jiřího Spáčila, CSc., a soudců JUDr. Františka Baláka a Mgr. Michala Králíka, Ph.D., ve věci žalobkyně M. Ř., proti žalovaným 1) Ing. V. Š. a 2) Doc. JUDr. O. E., CSc., o vypořádání majetku, vedené u Okresního soudu v Hodoníně pod sp. zn. 5 Nc 111/2009, o dovolání žalobkyně proti usnesení Krajského soudu v Brně ze dne 8. března 2010, č. j. 38 Co 43/2010-16, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Hodoníně („soud prvního stupně“) usnesením ze dne 30. listopadu 2009, č. j. 5 Nc 111/2009-10, odmítl podání ze dne 17. 8. 2009, doplněné podáním ze dne 9. 10. 2009 s odůvodněním, že uvedená podání žalobkyně postrádají potřebné náležitosti žaloby a žalobkyně přes výzvu soudu údaje nedoplnila tak, aby bylo jasné o čem a na jakém podkladě má soud rozhodnout. Dále rozhodl o náhradě nákladů řízení.
+Krajský soud v Brně jako soud odvolací k odvolání žalobkyně usnesením ze dne 8. března 2010, č. j. 38 Co 43/2010-16, které nabylo právní moci dne 17. 5. 2010, potvrdil výše uvedené usnesení soudu prvního stupně a rozhodl o náhradě nákladů odvolacího řízení.
+Dne 22. 5. 2010 žalobkyně doručila soudu prvního stupně podání označené jako dovolání, jímž napadla usnesení odvolacího soudu, které však nemělo všechny potřebné náležitosti a nebylo sepsáno advokátem.
+Soud prvního stupně usnesením ze dne 10. června 2010, č. j. 5 Nc 111/2009-25, které doručil žalobkyni dne 17. 6. 2010, žalobkyni vyzval, aby ve lhůtě 10 dnů ode dne doručení tohoto usnesení odstranila chybějící náležitosti dovolání, zejména nedostatek povinného zastoupení advokátem. Žalobkyni poučil o následcích neodstranění uvedených vad dovolání i o možnosti požádat o osvobození od soudních poplatků a o ustanovení zástupce na náklady státu. Vzhledem k tomu, že žalobkyně svým podáním ze dne 23. 6. 2010 neodstranila vady dovolání a nezvolila si ke svému zastoupení v dovolacím řízení advokáta ani se nedomáhala osvobození od soudních poplatků a ustanovení advokáta soudem, předložil soud prvního stupně její dovolání Nejvyššímu soudu ČR.
+Nejvyšší soud dovolání žalobkyně posoudil z hlediska § 241 občanského soudního řádu (dále jen „o. s. ř.“), podle kterého dovolatel musí být v dovolacím řízení zastoupen advokátem, jestliže sám nemá právnické vzdělání. Z podaného dovolání zastoupení advokátem nevyplývá a jiné listiny toto zastoupení nebo právnické vzdělání žalobkyně prokazující nebyly předloženy. Dovolatelka přes výzvu soudu prvního stupně nedostatek povinného zastoupení neodstranila, ačkoliv byla o následcích nesplnění této povinnosti poučena. Povinné zastoupení v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání vydání rozhodnutí ve věci samé (§ 241 odst. 1 o. s. ř.). Vzhledem k tomu, že tento nedostatek nebyl odstraněn, Nejvyšší soud dovolací řízení podle § 243c odst. 1 a § 104 odst. 2 o. s. ř. zastavil.
+Výrok o náhradě nákladů dovolacího řízení odpovídá § 243b odst. 5, § 224 odst. 1 a § 146 odst. 1 písm. c) o. s. ř.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 18. října 2010
+JUDr. Jiří Spáčil, CSc., v. r.
+předseda senátu
