@@ -1,0 +1,16 @@
+32 Cdo 1632/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Pavla Příhody a JUDr. Ing. Pavla Horáka, Ph.D. v právní věci žalobkyně České pojišťovny a.s., se sídlem v Praze 1, Spálená 75/16, PSČ 113 04, IČ 45272956, zastoupené JUDr. Ing. Petrem Tomaštíkem, advokátem se sídlem v Praze 3, Jeseniova 245/1, proti žalovanému JUDr. V. N., o 2 617 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 25 C 26/2006, o dovolání žalovaného proti usnesení Městského soudu v Praze ze dne 15. září 2008, č. j. 58 Co 424/2008-99, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Dovolání žalovaného proti v záhlaví označenému usnesení, jímž Městský soud v Praze potvrdil usnesení Obvodního soudu pro Prahu 4 ze dne 28. března 2008, č. j. 25 C 26/2006-86, kterým nebylo žalovanému přiznáno osvobození od soudního poplatku pro odvolací řízení, není přípustné.
+Se zřetelem k době vydání usnesení odvolacího soudu se uplatní pro dovolací řízení – v souladu s bodem 12. čl. II. přechodných ustanovení zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony – občanský soudní řád ve znění účinném do 30. června 2009 (dále též jen „o. s. ř.“).
+Dovolatel sice není zastoupen advokátem, ani nedoložil, že by měl sám právnické vzdělání, avšak vzhledem k tomu, že jeho dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný, není tento nedostatek podmínky dovolacího řízení důvodem k jeho zastavení podle § 104 odst. 2 o. s. ř. Podle ustanovení § 241b odst. 2 o. s. ř. totiž platí, že není-li splněna podmínka uvedená v § 241 o. s. ř., postupuje se obdobně podle § 104 odst. 2 o. s. ř.; to neplatí, bylo-li dovolání podáno opožděně, někým, kdo k dovolání není oprávněn, nebo směřuje-li proti rozhodnutí, proti němuž není dovolání přípustné.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Přípustnost dovolání proti usnesení odvolacího soudu upravují ustanovení § 237 až § 239 o. s. ř.
+Usnesení odvolacího soudu, jímž bylo potvrzeno usnesení soudu prvního stupně o zamítnutí žádosti o osvobození od soudních poplatků, nelze podřadit žádnému z usnesení, proti nimž zákon připouští dovolání v ustanoveních § 238, § 238a a § 239 o. s. ř.
+Dovolání není přípustné ani podle ustanovení § 237 o. s. ř. upravujícího přípustnost dovolání rovněž proti usnesení (a rozsudku) odvolacího soudu, ovšem pouze za podmínky, že jím bylo rozhodnuto ve věci samé. Protože napadené usnesení odvolacího soudu nemá povahu rozhodnutí ve věci samé, není dovolání přípustné ani podle § 237 o. s. ř.
+Tento závěr s sebou nese konečné posouzení podaného dovolání jako nepřípustného. Nejvyšší soud je proto, aniž ve věci nařizoval jednání (§ 243a odst. 1 věta první o. s. ř.), usnesením odmítl [§ 243b odst. 5 věta první a § 218 písm. c) o. s. ř.]. O náhradě nákladů dovolacího řízení nebylo v řízení rozhodováno, protože rozhodnutím o dovolání řízení ve věci nekončí (srov. § 151 odst. 1 o. s. ř.).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 19. října 2010
+JUDr. Miroslav Gallus
+předseda senátu
