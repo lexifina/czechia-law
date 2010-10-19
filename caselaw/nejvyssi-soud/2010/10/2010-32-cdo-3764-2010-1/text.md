@@ -1,0 +1,22 @@
+32 Cdo 3764/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Hany Gajdziokové a soudců JUDr. Miroslava Galluse a JUDr. Pavla Příhody, v právní věci žalobkyně Český inkasní kapitál, a. s., se sídlem v Praze 1, Novém Městě, Václavské nám. 808/66, PSČ 110 00, identifikační číslo 27 64 67 51, zastoupené JUDr. Romanem Majerem, advokátem, se sídlem v Praze 1, Krakovská 1256/24, PSČ 110 00, proti žalovanému J. P., zastoupenému JUDr. PhDr. Oldřichem Choděrou, advokátem, se sídlem v Praze 2, Jugoslávská 12, PSČ 120 00, o zaplacení částky 117.829,26 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 24 C 1010/2007, o dovolání žalovaného proti rozsudku Městského soudu v Praze ze dne 13. dubna 2010, č. j. 15 Co 107/2010-78, takto:
+I. Dovolání se odmítá.
+II. Žalovaný je povinen zaplatit žalobkyni na náhradu nákladů dovolacího řízení částku 7.629,- Kč do tří dnů od právní moci tohoto usnesení k rukám jejího zástupce.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 4 rozsudkem ze dne 8. prosince 2009, č. j. 24 C 1010/2007-50, uložil žalovanému zaplatit žalobkyni částku 99.560,38 Kč s úrokem z prodlení specifikovaným ve výroku, žalobu co do částky 18.268,88 Kč zamítl a rozhodl o nákladech řízení.
+K odvolání žalovaného Městský soud v Praze v záhlaví označeným rozsudkem potvrdil rozsudek soudu prvního stupně a rozhodl o nákladech odvolacího řízení.
+Proti rozsudku odvolacího soudu podal žalovaný dovolání, odkazuje co do jeho přípustnosti na ustanovení § 237 odst. 1 písm. c) občanského soudního řádu (dále též jen „o. s. ř.“) a namítaje, že rozhodnutí spočívá na nesprávném právním posouzení věci. Dovolatel snáší argumenty na podporu uplatněného dovolacího důvodu a navrhuje, aby Nejvyšší soud rozhodnutí soudů nižších stupňů zrušil a věc vrátil soudu prvního stupně k dalšímu řízení.
+Žalobkyně považuje rozhodnutí odvolacího soudu za správné a navrhuje, aby dovolací soud rozhodnutí „potvrdil“.
+S přihlédnutím k článku II bodu 12. části první zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, Nejvyšší soud dovolání projednal a rozhodl o něm podle občanského soudního řádu ve znění účinném od 1. července 2009.
+Dovolání není přípustné.
+Podle ustanovení § 236 odst. 1 o. s. ř. dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti rozsudku upravuje ustanovení § 237 o. s. ř.
+Podle ustanovení § 237 odst. 2 písm. a) o. s. ř. dovolání podle odstavce 1 není přípustné ve věcech, v nichž dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50.000,- Kč a v obchodních věcech 100.000,- Kč; k příslušenství pohledávky se přitom nepřihlíží.
+V projednávané věci jde o nárok ze smlouvy o úvěru uzavřené podle ustanovení § 497 a násl. obchodního zákoníku (dále jen „obch. zák.“), přitom závazkový vztah založený smlouvou o úvěru je podle ustanovení § 261 odst. 3 písm. d) obch. zák. závazkovým vztahem obchodním bez ohledu na povahu účastníků, a z procesního hlediska jde o obchodní věc (k tomu srov. např. důvody rozhodnutí uveřejněných pod čísly 1/2000 a 16/2005 Sbírky soudních rozhodnutí a stanovisek). Dovolání žalovaného tak není podle ustanovení § 237 odst. 2 písm. a) o. s. ř. přípustné, když dovoláním napadeným výrokem bylo rozhodnuto o zaplacení částky 99.560,38 Kč (zahrnující nároky ze smlouvy o úvěru vzniklé po odstoupení věřitele od smlouvy o úvěru) s úrokem z prodlení uvedeným ve výroku. Nejvyšší soud proto dovolání podle ustanovení § 243b odst. 5 a § 218 písm. c) o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5, 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalovaného bylo odmítnuto a žalovanému vznikla povinnost hradit žalobkyni její náklady řízení. Náklady dovolacího řízení vzniklé žalobkyni sestávají ze sazby odměny za zastupování advokátem v částce 6.057,50 Kč podle ustanovení § 3 odst. 1 bodu 4, § 10 odst. 3, § 14 odst. 1, § 15 a § 18 odst. 1 vyhlášky č. 484/2000 Sb., z paušální náhrady 300,- Kč za jeden úkon právní služby (vyjádření k dovolání) podle ustanovení § 13 odst. 3 vyhlášky č. 177/1996 Sb., z náhrady za 20% daň z přidané hodnoty 1.271,- Kč a celkem činí 7.629,- Kč.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+Nesplní-li povinný, co mu ukládá vykonatelné rozhodnutí, může se oprávněná domáhat výkonu rozhodnutí.
+V Brně 19. října 2010
+JUDr. Hana Gajdzioková
+předsedkyně senátu
