@@ -1,0 +1,26 @@
+30 Cdo 3477/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Pavlíka a soudců JUDr. Lubomíra Ptáčka, Ph.D. a JUDr. Pavla Vrchy v právní věci žalobce Ing. B. V., zastoupeného JUDr. Vladimírem Zavadilem, advokátem se sídlem v Praze 1, Revoluční č. 3, proti žalovanému V. V., zastoupenému JUDr. Michalem Pacovským, advokátem se sídlem v Praze 8, Nad Rokoskou č. 38, o ochranu osobnosti, vedené u Městského soudu v Praze pod sp. zn. 37 C 168/2004, o dovolání žalovaného proti rozsudku Vrchního soudu v Praze ze dne 16. března 2010, č.j. 1 Co 337/2006-182, takto:
+I. Dovolání žalovaného se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů řízení.
+Stručné odůvodnění
+(§ 243c odst. 2 o.s.ř.):
+Městský soud v Praze rozsudkem ze dne 16. června 2006, č.j. 37 C 168/2004-110 výrokem I. žalovanému uložil zřetelně do mikrofonu na nejbližším zasedání zastupitelstva Městské části Praha 1 pronést omluvu ve znění: „Omlouvám se členu zastupitelstva Městské části Praha 1, panu Ing. B. V., za svůj nepravdivý výrok pronesený dne 8. listopadu 2004 při jednání zastupitelstva Městské části Praha 1, kterým jsem za jeho bývalou profesi uvedl profesi StB.“. Výrokem II. žalobu zamítl (pokud omluva měla obsahovat slova), „že zároveň se panu Ing. B. V. omlouvám za újmu, která mu pronesením tohoto mého nepravdivého výroku vznikla. Tvrzení, že pan Ing. B. V. byl před rokem 1989 zaměstnán, resp. byl ve služebním poměru ke Státní bezpečnosti, se nezakládá na pravdě“; zároveň byla žaloba zamítnuta, pokud žalobce požadoval, aby žalovaný uveřejnil na vlastní náklady přesné znění omluvy v nejbližším vydání měsíčníku Městské části Praha 1. Výrokem III. zamítl žalobu, pokud se žalobce domáhal zaplacení částky 200.000,- Kč z titulu náhrady nemajetkové újmy v penězích podle ustanovení § 13 odst. 2 občanského zákoníku (dále jen „o.z.“). Výrokem IV. rozhodl o náhradě nákladů řízení.
+O odvolání obou sporných stran rozhodl dne 10. května 2007 pod č.j. 1 Co 337/2006-135 Vrchní soud v Praze rozsudkem, kterým rozsudek soudu prvního stupně v napadených výrocích ve věci samé (výroky I. a III.) změnil tak, že žalovaný je povinen zaplatit žalobci 50.000,- Kč; jinak jej potvrdil. Rozhodl též o náhradě nákladů řízení před soudy obou stupňů. Toto rozhodnutí však bylo ve výroku, kterým byl rozsudek soudu prvního stupně změněn tak, že žalovanému bylo uloženo zaplatit žalobci 50.000,- Kč a ve výrocích o náhradě nákladů řízení, zrušeno rozsudkem Nejvyššího soudu ČR ze dne 12. listopadu 2009, sp.zn. 30 Cdo 135/2008, a věc byla v uvedeném rozsahu vrácena odvolacímu soudu k dalšímu řízení.
+Vrchní soud v Praze pak ve věci opětovně rozhodl rozsudkem ze dne 16. března 2010, č.j. 1 Co 337/2006-182, kterým rozsudek soudu prvního stupně ve výroku III. změnil tak, že žalovaný je povinen zaplatit žalobci z titulu náhrady nemajetkové újmy v penězích podle ustanovení § 13 odst. 2 o.z. částku 50.000,- Kč a rozhodl též o náhradě nákladů řízení před soudy obou stupňů a před dovolacím soudem.
+Proti rozsudku odvolacího soudu podal žalovaný dne 24. června 2010 dovolání s tím, že Vrchní soud v Praze se při svém rozhodování především neřídil závazným právním názorem dovolacího soudu. Navrhl, aby dovolací soud rozsudek odvolacího soudu zrušil, a věc vrátil tomuto soudu k dalšímu řízení.
+Dovolací soud za situace, kdy napadené rozhodnutí odvolacího soudu bylo vydáno dne 16. března 2010, přihlédl k čl. II bodu 12. zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, a vyšel tak ze znění tohoto procesního předpisu účinného od. 1. července 2009.
+Podle ustanovení § 237 odst. 1 o.s.ř. je dovolání přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího soudu,
+a) jimiž bylo změněno rozhodnutí soudu prvního stupně ve věci samé,
+b) jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně
+rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení) proto, že byl vázán
+právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil,
+c) jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není
+přípustné podle písmena b) a dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam.
+Podle ustanovení § 237 odst. 2 písm. a) o.s.ř. není dovolání podle § 237 odst. 1 o.s.ř. přípustné ve věcech, v nichž dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50.000 Kč a v obchodních věcech 100.000 Kč; k příslušenství pohledávky se přitom nepřihlíží.
+Jak vyplývá z výroku napadeného rozsudku Vrchního soudu v Praze, bylo jím rozhodnuto (ve věci nikoliv obchodní) o peněžitém plnění nepřevyšujícím částku 50.000,- Kč. Nejvyššímu soudu ČR proto nezbylo, než dovolání odmítnout jako nepřípustné podle § 243b odst. 5 o.s.ř. ve spojení s § 218 písm. c) téhož zákona, aniž se tak mohl zabývat důvody tohoto dovolání.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 5 věta prvá o.s.ř. ve spojení s § 224 odst. 1, § 151 o.s.ř., neboť žalovaný s ohledem na výsledek řízení nemá na náhradu svých nákladů právo a žalobci v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 19. října 2010
+JUDr. Pavel P a v l í k, v. r.
+předseda senátu
