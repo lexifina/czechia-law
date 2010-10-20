@@ -1,0 +1,16 @@
+29 Cdo 2090/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedkyně doc. JUDr. Ivany Štenglové a soudců Mgr. Filipa Cilečka a JUDr. Petra Šuka v právní věci navrhovatele R. G., zastoupeného JUDr. Petrem Čichovským, advokátem se sídlem v Týnci Nad Sázavou, Družstevní 411, PSČ 257 41, za účasti B. T. G. s. r. o., se sídlem v Praze 1, Senovážné náměstí 870/27, PSČ 110 00, identifikační číslo 61 50 40 09, zastoupené Dr. Michaelou Jorgensen, advokátkou se sídlem v Praze 1, Senovážné náměstí 870/27, PSČ 110 00, o neplatnost usnesení valné hromady, vedené u Městského soudu v Praze pod sp. zn. 44 cm 91/2002, o dovolání navrhovatele proti usnesení Vrchního soudu v Praze ze dne 7. srpna 2008, č. j. 7 Cmo 179/2008 - 190, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Napadeným usnesením potvrdil odvolací soud usnesení Městského soudu v Praze ze dne 9. září 2004, č. j. 44 Cm 91/2002 – 83, kterým tento soud zamítl návrh na vyslovení neplatnosti usnesení valné hromady společnosti B. T. G. s. r. o., (dále též jen „společnost“), konané dne 29. července 2002. Přitom šlo v pořadí již o druhé rozhodnutí odvolacího soudu, když předchozí ze dne 13. října 2005, č. j. 7 Cmo 172/2005 – 123, Nejvyšší soud usnesením ze dne 11. prosince 2007, č. j. 29 Odo 346/2006 – 161 zrušil.
+Proti usnesení odvolacího soudu podal navrhovatel dovolání, jež Nejvyšší soud podle ustanovení § 243b odst. 5 a § 218 písm. c) zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), odmítl.
+Učinil tak proto, že dovolání proti potvrzujícímu výroku usnesení ve věci samé může být přípustné pouze podle ustanovení § 237 odst. 1 písm. c) o. s. ř. [o situaci předvídanou v ustanovení § 237 odst. 1 písm. b) o. s. ř. nejde], tedy tak, že dovolací soud – jsa přitom vázán obsahem dovolání (§ 242 odst. 3 o. s. ř.) – dospěje k závěru, že napadené rozhodnutí má po právní stránce zásadní význam. Otázka, již dovolatel předkládá Nejvyššímu soudu, však napadené usnesení zásadně právně významným nečiní, neboť ji Nejvyšší soud vyřešil již v usnesení, kterým zrušil první rozhodnutí odvolacího soudu.
+K tomu dovolací soud podotýká, že závěr o možnosti vydržet obchodní podíl založil na analogickém použití úpravy vydržení věcí movitých. Poukazuje-li pak dovolatel na to, že Nejvyšší soud „rozhodl nad rámec platných zákonných ustanovení“, přehlíží, že ustanovení § 853 občanského zákoníku, které se podle ustanovení § 1 odst. 2 obchodního zákoníku uplatní i v obchodních vztazích, použití analogie výslovně připouští.
+Podle ustanovení § 237 odst. 1 písm. c) o. s. ř. proto dovolání přípustné není. Protože dovolací soud neshledal ani jiný důvod přípustnosti dovolání podle ustanovení § 243b odst. 5 a § 218 písm. c) o. s. ř. je odmítl.
+O náhradě nákladů řízení rozhodl podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 3 o. s. ř., neboť navrhovatel s ohledem na výsledek řízení na náhradu svých nákladů nemá právo a společnosti dle obsahu spisu žádné náklady dovolacího řízení nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 20. října 2010
+doc. JUDr. Ivana Š t e n g l o v á
+předsedkyně senátu
