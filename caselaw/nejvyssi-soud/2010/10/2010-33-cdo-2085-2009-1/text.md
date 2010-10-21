@@ -1,0 +1,14 @@
+33 Cdo 2085/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudců JUDr. Ivany Zlatohlávkové a JUDr. Václava Dudy ve věci žalobce R. S., zastoupeného JUDr. Josefem Nováčkem, advokátem se sídlem v Jindřichově Hradci, Sládkova 351/II, proti žalovanému Z. L., o zaplacení 23.464,- Kč s příslušenstvím, vedené u Okresního soudu v Táboře pod sp. zn. 12 C 84/2008, o dovolání žalobce proti rozsudku Krajského soudu v Českých Budějovicích – pobočky v Táboře ze dne 27. 1. 2009, č.j. 15 Co 796/2008-45, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í
+Dovolání žalobce proti v záhlaví citovanému rozsudku, jímž krajský soud ve věci samé potvrdil rozsudek Okresního soudu v Táboře ze dne 9. 10. 2008, č.j. 12 C 84/2008-30, není přípustné podle § 237 odst. 1 písm. b) zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 30. 6. 2009 (čl. II, bod 12. zákona č. 7/2009 Sb., dále jen „o.s.ř.“), a nebylo shledáno přípustným ani podle § 237 odst. 1 písm. c) o.s.ř., neboť hodnocením v dovolání obsažené argumentace nelze dospět k závěru, že napadený rozsudek odvolacího soudu má po právní stránce zásadní význam (§ 237 odst. 3 o.s.ř).
+Dovolatel zejména namítá, že odvolací soud pominul, že žalovaný svémocně odvezl vozidlo před dokončením opravy, resp. pochybil, pokud takové chování nevyložil jako odstoupení od smlouvy. Uvedená námitka však vystihuje dovolací důvod podle § 241a odst. 3 o.s.ř., jehož užití je v případě dovolání přípustného jen podle § 237 odst. 1 písm. c) o.s.ř. vyloučeno; skutkový základ sporu (odvolací soud ve shodě se soudem prvního stupně neshledal na straně žalovaného vůli odstoupit od smlouvy) nelze při zvažování přípustnosti takového dovolání zpochybnit, pro dovolací soud je závazný (srov. znění § 241a odst. 3 o.s.ř.). I zbývající námitky dovolatele (že žalovaný předstíral souhlas s rozsahem opravy, přislíbil podepsat zakázkový list a dokončení opravy urgoval, čímž zastíral svoji skutečnou vůli obohatit se na úkor žalobce) jsou podřaditelné dovolacímu důvodu podle § 241a odst. 3 o.s.ř. Pro účely daného dovolacího přezkumu jsou proto bezcenné i právní závěry, které dovolatel s odkazem na judikaturu Nejvyššího soudu na uvedených skutkových výhradách založil (že žalovaný je povinen zaplatit mu částku připadající na práce již vykonané a nahradit účelně vynaložené náklady).
+Nepřípustné dovolání Nejvyšší soud odmítl (§ 243b odst. 5, věta první, § 218 písm. c/ o. s. ř.).
+O náhradě nákladů dovolacího řízení dovolací soud rozhodl podle § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o.s.ř. Žalovanému, který by na jejich náhradu jinak měl právo, náklady v tomto stadiu řízení podle obsahu spisu nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 21. října 2010
+JUDr. Pavel K r b e k, v. r.
+předseda senátu
