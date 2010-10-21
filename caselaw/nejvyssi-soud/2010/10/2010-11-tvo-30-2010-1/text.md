@@ -1,0 +1,17 @@
+11 Tvo 30/2010
+U S N E S E N Í
+Nejvyšší soud projednal v neveřejném zasedání konaném dne 21. 10. 2010 stížnost obviněného P. P. K. proti usnesení Vrchního soudu v Praze ze dne 14.6.2010, sp. zn. 2 To 72/2010, a rozhodl t a k t o :
+Podle § 148 odst. 1 písm. c) tr. řádu se stížnost obviněného P. P. K. z a m í t á .
+O d ů v o d n ě n í :
+Rozsudkem Městského soudu v Praze ze dne 23. 4. 2010, sp. zn. 42 T 4/2010, byl obviněný P. P. K. uznán vinným trestným činem loupeže podle § 234 odst. 1, 2 písm. b) tr. zákona, a trestným činem braní rukojmí podle § 234a odst. 1 tr. zákona a odsouzen k úhrnnému trestu odnětí svobody v trvání osmi let, pro jehož výkon byl zařazen do věznice s ostrahou.
+Proti tomuto rozsudku podal obviněný P. P. K. odvolání a trestní věc se v době rozhodování o vazbě obviněného P. P. K. nacházela ve stadiu odvolacího řízení před Vrchním soudem v Praze.
+Vrchní soud v Praze usnesením ze dne 14. 6. 2010, sp. zn. 2 To 72/2010, podle § 72 odst. 3 tr. řádu zamítl žádost obviněného P. P. K. o propuštění z vazby na svobodu, podle § 73 odst. 1 písm. b) tr. řádu nepřijal nabízený písemný slib obviněného a podle § 73a odst. 2 písm. b) tr. řádu nepřijal nabídku peněžité záruky.
+Proti tomuto usnesení podal obviněný P. P. K. stížnost s tím, že se domnívá, že vrchní soud měl jeho žádosti o propuštění na svobodu vyhovět, jelikož u něj nejsou dány důvody vazby uvedené v § 67 písm. c) tr. řádu. Trestní stíhání před Okresním soudem v Plzni mu nelze přičítat k tíži, jelikož tato trestní věc dosud nebyla pravomocně skončena a je otázkou, jak bude v této věci rozhodnuto. Pokud vrchní soud poukazuje na jeho nedobrou finanční situaci, tak zdůraznil, že toto není nijak odůvodněno a napadené rozhodnutí je tudíž nepřezkoumatelné. Podrobně není ani odůvodněno, proč nelze přijmout peněžitou záruku. Závěrem obviněný P. P. navrhl, aby napadené usnesení bylo zrušeno, soud přijal písemný slib obviněného ve smyslu § 73 odst. 1 písm. b) tr. řádu, a i peněžitou záruku dle § 73a tr. řádu a bylo rozhodnuto o jeho propuštění z vazby.
+Nejvyšší soud z podnětu podané stížnosti přezkoumal podle § 147 odst. 1 tr. řádu správnost napadeného rozhodnutí i řízení, které mu předcházelo, a dospěl k tomuto závěru.
+O důvodnosti vazby obviněného P. P. K. bylo v průběhu dosavadního řízení několikrát rozhodováno, naposledy napadeným usnesením vrchního soudu. Rozsudkem soudu prvního stupně byl obviněný uznán vinným zvlášť závažným trestným činem, za který mu byl uložen přísný nepodmíněný trest odnětí svobody. S ohledem na charakter žalované trestné činnosti byl v jeho případě dán důvod vazby podle § 67 písm. c) tr. řádu, tedy obava z opakování trestné činnosti, přičemž tato obava byla natolik důvodná, že vazební důvod nemohl být nahrazen písemným slibem nebo peněžitou zárukou. V tomto směru je možno odkázat na předchozí vazební rozhodnutí i na odůvodnění napadeného usnesení, se kterými se Nejvyšší soud plně ztotožňuje, a proto se nemohla stížnost obviněného P. P. K. setkat s úspěchem a nezbylo, než rozhodnout, jak je ve výroku tohoto usnesení uvedeno.
+V současné době jsou ovšem veškeré úvahy o důvodnosti další vazby obviněného P. P. K. bezpředmětné, protože usnesením Vrchního soudu v Praze ze dne 26. 8. 2010, sp. zn. 2 To 72/2010, byla trestní věc obviněného pravomocně skončena a nástupem do výkonu trestu vazba obviněnému končí.
+Ze všech těchto důvodů bylo rozhodnuto, jak je uvedeno ve výroku tohoto usnesení.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 21. října 2010
+Předseda senátu:
+JUDr. Pavel Kučera
