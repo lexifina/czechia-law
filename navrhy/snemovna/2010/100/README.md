@@ -18,6 +18,7 @@ Each version is one commit (`Kind: draft`, no `In-force:` trailer), dated the da
 | Day | Print | What | Files |
 | --- | --- | --- | --- |
 | 2010-09-23 | 100/0 | Návrh zákona | [t010000.md](t010000.md), [t01000pz.md](t01000pz.md), [t01003pz.md](t01003pz.md), [t01004pz.md](t01004pz.md) |
+| 2010-10-22 | 100/1 | Stanovisko vlády k návrhu poslanců Jana Hamáčka, Bohuslava Sobotky, Jeronýma Tejce a dalších na vydání zákona, kterým se mění zákon č. 38/1994 Sb., o zahraničním obchodu s vojenským materiálem a o doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, a zákona č. 140/1961 Sb., trestní zákon, ve znění pozdějších předpisů, ve znění pozdějších předpisů |  |
 
 ## Files
 
@@ -29,5 +30,11 @@ Text as published by psp.cz, extracted from the official file and checked agains
 | [t01000pz.md](t01000pz.md) | 100/0 | Návrh zákona | [t01000pz.doc](https://www.psp.cz/sqw/text/orig2.sqw?idd=89322) | libreoffice / antiword 0.9990 |
 | [t01003pz.md](t01003pz.md) | 100/0 | Návrh zákona | [t01003pz.doc](https://www.psp.cz/sqw/text/orig2.sqw?idd=89320) | libreoffice / antiword 1.0000 |
 | [t01004pz.md](t01004pz.md) | 100/0 | Návrh zákona | [t01004pz.doc](https://www.psp.cz/sqw/text/orig2.sqw?idd=89543) | libreoffice / antiword 0.9955 |
+
+## Not held as text
+
+| Print | Document | Official file | Why |
+| --- | --- | --- | --- |
+| 100/1 | Stanovisko vlády k návrhu poslanců Jana Hamáčka, Bohuslava Sobotky, Jeronýma Tejce a dalších na vydání zákona, kterým se mění zákon č. 38/1994 Sb., o zahraničním obchodu s vojenským materiálem a o doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, a zákona č. 140/1961 Sb., trestní zákon, ve znění pozdějších předpisů, ve znění pozdějších předpisů | [t010001.pdf](https://www.psp.cz/sqw/text/orig2.sqw?idd=64774) | scanned, no text layer (OCR pending) |
 
 Návrh / draft: not law. This text was never in force as written here; see the act it became, if any.
