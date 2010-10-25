@@ -1,0 +1,17 @@
+4 Nd 354/2010-35
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Danuše Novotné a soudců JUDr. Františka Hrabce a JUDr. Jiřího Pácala v právní věci oprávněného Česká republika – Okresní soud v Děčíně, proti povinnému J. Ch., o zaplacení částky 8.775,00 Kč, vedené u Okresního soudu v Chomutově pod sp. zn. 38 E 131/2009, o určení příslušnosti soudu podle § 11 odst. 3 o. s. ř. takto:
+Věc, vedenou u Okresního soudu v Chomutově pod sp. zn. 38 E 131/2009, p r o j e d n á a r o z h o d n e Okresní soud v Liberci.
+O d ů v o d n ě n í :
+Okresní soud v Chomutově usnesením ze dne 22. 3. 2010, sp. zn. 38 E 131/2009, vyslovil svoji místní nepříslušnost a rozhodl, že po právní moci tohoto usnesení bude věc postoupena Okresnímu soudu v České Lípě jako soudu místně příslušnému, a to vzhledem k tomu, že ke dni podání návrhu na výkon rozhodnutí prodejem movitých věcí měl povinný trvalý pobyt v obvodu Okresního soudu v České Lípě.
+Okresní soud v České Lípě s postoupením věci nesouhlasil, neboť v průběhu řízení bylo zjištěno, že povinný nebydlí v obvodu působnosti tohoto soudu, nýbrž v obvodu působnosti Okresního soudu v Liberci.
+Tento nesouhlas s postoupením věci označil Krajský soudu v Ústí nad Labem – pobočka v Liberci usnesením ze dne 30. 8. 2010, sp. zn. 36 Nc 153/2010 za důvodný.
+Okresní soud v Chomutově novým usnesením ze dne 9. 9. 2010, sp. zn. 38 E 131/2009, opět vyslovil svou místní nepříslušnost s tím, že po právní moci tohoto usnesení bude věc předložena Nejvyššímu soudu podle § 11 odst. 3 o. s. ř. k rozhodnutí, který soud věc projedná a rozhodne.
+Vyslovení své místní nepříslušnosti opět odůvodnil tím, že v den zahájení řízení neměl povinný bydliště v obvodu tohoto soudu, přičemž podle § 11 odst. 1 o. s. ř. pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které jsou tu v době jeho zahájení. Protože v době zahájení řízení neměl povinný bydliště v obvodu Okresního soudu v Chomutově a nesouhlas s postoupením věci Okresnímu soudu v České Lípě označil Krajský soud v Ústí nad Labem – pobočka v Liberci za důvodný, dospěl Okresní soud v Chomutově k závěru, že podmínky místní příslušnosti chybějí a proto rozhodl po právní moci usnesení o místní nepříslušnosti předložit věc Nejvyššímu soudu k rozhodnutí podle § 11 odst. 3 o. s. ř.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+V dané právní věci z obsahu spisu zřejmé, že v době zahájení řízení povinný nebydlel ani v obvodu Okresního soudu v Chomutově, přičemž se nepodařilo průkazným způsobem zjistit, jaké bylo skutečné bydliště povinného v rozhodné době. Z obsahu spisu vyplývá, že faktické bydliště povinného je v současné době na adrese ... Liberec, tedy v obvodu Okresního soudu v Liberci. Současně není pochybností o tom, že věc patří do pravomoci soudů České republiky.
+Podmínky rozhodnutí podle § 11 odst. 3 o. s. ř. jsou tedy v daném případě splněny. S ohledem na požadavek procesní efektivity a rozumné uspořádání daného právního vztahu Nejvyšší soud shledal jako nejvhodnější provedení řízení tím soudem, v jehož obvodu se nachází současné bydliště povinného, tedy Okresním soudem v Liberci. Proto podle § 11 odst. 3 o. s. ř. určil Okresní soud v Liberci tím soudem, který věc projedná a rozhodne.
+Poučení: Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. října 2010
+JUDr. Danuše N o v o t n á
+předsedkyně senátu
