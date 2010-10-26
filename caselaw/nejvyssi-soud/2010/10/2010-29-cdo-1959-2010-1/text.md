@@ -1,0 +1,16 @@
+29 Cdo 1959/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci navrhovatele Ing. A. H., zastoupeného Mgr. Lukášem Zscherpem, advokátem, se sídlem v Plzni, Lochotínská 18, PSČ 301 00, za účasti SVA, a. s., se sídlem v Holýšově, Tovární č. p. 108, PSČ 345 62, identifikační číslo 45 35 89 58, o vyslovení neplatnosti usnesení valné hromady, konané dne 27. prosince 1999, vedené u Krajského soudu v Plzni pod sp. zn. 43 Cm 13/2000, o dovolání navrhovatele proti usnesení Vrchního soudu v Praze ze dne 18. února 2010, č. j. 14 Cmo 625/2008 – 213, takto:
+I. Dovolání se zamítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Napadeným usnesením změnil odvolací soud usnesení Krajského soudu v Plzni ze dne 23. listopadu 2001, č.j. 43 Cm 13/2000 – 59, tak, že zamítl návrh na vyslovení neplatnosti všech usnesení mimořádné valné hromady společnosti SVA, a. s. (dále též jen „společnost“ (výrok I.) a navrhovatele zavázal k náhradě nákladů řízení před soudy obou stupňů (výrok II.). Přitom šlo o v pořadí již čtvrté rozhodnutí odvolacího soudu.
+Proti usnesení odvolacího soudu podal navrhovatel dovolání, přípustné podle ustanovení § 238a odst. 1 písm. a) občanského soudního řádu, ve znění účinném do 31. prosince 2000 (dále jen „o. s. ř.“), jež Nejvyšší soud podle ustanovení § 243b odst. 1 o. s. ř., zamítl.
+Učinil tak proto, že již v rozsudku ze dne 8. prosince 1997, sp. zn. 3 Cdon 1374/96, uveřejněném v časopise Soudní judikatura č. 2, ročník 1998, pod číslem 17, Nejvyšší soud dovodil, že založil-li odvolací soud závěr o nedůvodnosti uplatněného nároku současně na dvou na sobě nezávislých důvodech, pak sama okolnost, že jeden z nich neobstojí, nemůže mít na správnost tohoto závěru vliv, jestliže obstojí důvod druhý. To platí i tehdy, nemohl-li být druhý důvod podroben dovolacímu přezkumu proto, že nebyl dovoláním dotčen. V takovém případě není ani zapotřebí se správností důvodu, jenž naopak dovoláním napaden byl, zabývat, neboť na celkový závěr odvolacího soudu o nedůvodnosti uplatněného nároku to nemůže mít vliv.
+V projednávané věci odvolací soud založil napadené rozhodnutí jednak na právním posouzení způsobu uveřejnění pozvánky na valnou hromadu, jednak na tom, že neplatnost usnesení nelze vyslovit z důvodů uvedených v ustanovení § 131 odst. 3 písm. a) a b) obchodního zákoníku (dále jen „obch. zák.“).
+Dovolatel napadá závěry odvolacího soudu týkající se způsobu uveřejnění pozvánky na valnou hromadu a rovněž jeho závěry, týkající se naplnění důvodu podle § 131 odst. 1 písm. a) obch. zák. Závěr odvolacího soudu týkající se naplnění důvodu podle § 131 odst. 1 písm. b) obch. zák. (tj. že neplatnost usnesení valné hromady nelze vyslovit proto, že postupem podle § 131 odst. 1 obch. zák. by došlo k podstatnému zásahu do práv získaných v dobré víře třetími osobami) však nenapadá a dovolacímu přezkumu jej tak neotevírá (§ 242 odst. 3 o. s. ř.).
+O náhradě nákladů dovolacího řízení rozhodl podle ustanovení § 243b odst. 4 věty první, § 224 odst. 1 a § 142 odst. 1 o. s. ř., neboť navrhovatel s ohledem na výsledek řízení na náhradu svých nákladů nemá právo a společnosti žádné náklady dovolacího řízení nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 26. října 2010
+doc. JUDr. Ivana Š t e n g l o v á
+předsedkyně senátu
