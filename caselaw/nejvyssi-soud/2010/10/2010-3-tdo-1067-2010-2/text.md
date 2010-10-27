@@ -1,0 +1,15 @@
+3 Tdo 1067/2010-43
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v neveřejném zasedání konaném dne 27. října 2010 ve věci dovolání obviněného M. P. Š., proti usnesení Krajského soudu v Ostravě ze dne 24. 11. 2009, sp. zn. 3 To 767/2009, jako soudu odvolacího v trestní věci vedené u Okresního soudu v Ostravě pod sp. zn. 71 T 93/2007, podle § 31 odst. 1 tr. ř., takto:
+Podle § 30 odst. 1 tr. ř. je soudce Nejvyššího soudu České republiky JUDr. E. T. vyloučen z vykonávání úkonů trestního řízení ve věci vedené u tohoto soudu pod sp. zn. 3 Tdo 1067/2010.
+O d ů v o d n ě n í :
+Obviněný M. P. Š. podal prostřednictvím svého obhájce dovolání proti usnesení Krajského soudu v Ostravě ze dne 24. 11. 2009, sp. zn. 3 To 767/2009, jímž bylo rozhodnuto o jeho odvolání proti rozsudku Okresního soudu v Ostravě ze dne 7. 1. 2008, sp. zn. 71 T 93/2007.
+Dovolacím soudem je podle § 265c tr. ř. Nejvyšší soud České republiky (dále jen „Nejvyšší soud“), u něhož je předmětná trestní věc vedena pod sp. zn. 3 Tdo 1067/2010. Podle rozvrhu práce Nejvyššího soudu byla věc obviněného M. P. Š. k projednání a rozhodnutí senátu č. 3, jehož členem (předsedou) je soudce JUDr. E. T.
+Z předloženého spisu je zároveň zřejmé, že v dané trestní věci u Krajského soudu v Ostravě, který byl ve věci činný jako soud druhého stupně, spolurozhodovala soudkyně (členka senátu) JUDr. D. T. Soudce Nejvyššího soudu JUDr. E. T. ve svém písemném vyjádření sdělil, že s JUDr. D. T. žije ve společné domácnosti, spojují je rodičovské povinnosti i vzájemné blízké vztahy.
+Z ustanovení § 30 odst. 1 tr. ř. mj. vyplývá, že z vykonávání úkonů trestního řízení je vyloučen soudce, u něhož lze mít pochybnosti, že pro poměr k jinému orgánu činnému v trestním řízení nemůže nestranně rozhodovat. Účelem citovaného ustanovení je upevnit důvěru procesních stran i veřejnosti v nestrannost soudního rozhodování. To znamená, že zákon v taxativně vymezených případech připouští výjimku ze zásady, že nikdo nesmí být odňat svému zákonnému soudci tak, jak je uvedeno v čl. 38 odst. 1 Listiny základních práv a svobod. Na principu zákonného soudce by nepochybně nebylo možné trvat v případě, že by mohly vzniknout pochybnosti o nezaujatém a nestranném (spravedlivém) rozhodování.
+V posuzovaném případě dospěl Nejvyšší soud k závěru, že blízký vztah mezi soudkyní krajského soudu a předsedou senátu Nejvyššího soudu rozhodujícími v téže trestní věci je současně poměrem mezi orgány činnými v trestním řízení předpokládaným ustanovením § 30 odst. 1 tr. ř. a v tomto smyslu i důvodem vyloučení soudce z vykonávání úkonů trestního řízení.
+S přihlédnutím ke shora uvedeným skutečnostem rozhodl Nejvyšší soud podle § 31 odst. 1 tr. ř. tak, že předseda senátu tohoto soudu JUDr. E. T. je z důvodu uvedeného v ustanovení § 30 odst. 1 tr. ř. vyloučen z vykonávání úkonů trestního řízení ve věci obviněného M. P. Š. vedené u Nejvyššího soudu pod sp. zn. 3 Tdo 1067/2010.
+P o u č e n í : Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 27. října 2010
+Předseda senátu:
+JUDr. Petr Šabata
