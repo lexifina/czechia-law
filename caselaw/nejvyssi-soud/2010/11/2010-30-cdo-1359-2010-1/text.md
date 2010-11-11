@@ -1,0 +1,22 @@
+30 Cdo 1359/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Pavlíka a soudců JUDr. Lubomíra Ptáčka, Ph.D., a JUDr. Pavla Vrchy v právní věci žalobce L. H., zastoupeného JUDr. Zdeňkou Jedličkovou, advokátkou se sídlem v Brně, Pekařská č. 21, proti žalované společnosti MAFRA, a.s. IČO: 45313351, se sídlem v Praze 5, Karla Engliše 519/11, zastoupené JUDr. Hanou Křížovou, advokátkou se sídlem v Praze 1, Dlouhá 13, o ochranu osobnosti, vedené u Krajského soudu v Brně pod sp. zn. 24 C 19/2001, o dovolání žalobce proti rozsudku Vrchního soudu v Olomouci ze dne 11. listopadu 2009, č.j. 1 Co 363/2008-320, ve znění usnesení téhož soudu ze dne 11. listopadu 2009, č.j. 1 Co 363/2008-325, takto:
+I. Dovolání žalobce se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění
+(§ 243c odst. 2 o.s.ř.):
+Krajský soud v Brně rozsudkem ze dne 27. března 2008, č.j. 24 C 19/2001-294, ve znění usnesení ze dne 27. března 2008, č.j. 24 C 19/2001-298, a usnesení ze dne 12. září 2008, č.j. 24 C 19/2001-307, a 24 C 19/2001-308, uložil žalované zaplatit žalobci 50.000,- Kč jako náhradu nemajetkové újmy podle § 13 odst. 2 občanského zákoníku (dále jen „o.z.“), co do částky 200.000,- Kč žalobu zamítl a rozhodl o náhradě nákladů řízení.
+Vrchní soud v Olomouci rozsudkem ze dne ze dne 11. listopadu 2009, č.j. 1 Co 363/2008-320, ve znění usnesení ze dne 11. listopadu 2009, č.j. 1 Co 363/2008-325, výrokem I. rozsudek soudu prvního stupně v napadené části, kterou bylo uloženo žalované zaplatit částku 50.000,- Kč změnil tak, že návrh zamítl, výrokem II. rozsudek krajského soudu ve zbývající napadené části, kterou byla žaloba co do částky 200.000,- Kč zamítnuta, potvrdil. Výrokem III. rozhodl o náhradě nákladů řízení před soudy obou stupňů.
+Proti rozsudku odvolacího soudu podal žalobce dne 8. března 2010 dovolání směřující do výroku I. a III. rozhodnutí odvolacího soudu. Navrhl, aby dovolací soud rozsudek odvolacího soudu v napadených výrocích zrušil, a věc vrátil tomuto soudu k dalšímu řízení.
+Dovolací soud za situace, kdy napadené rozhodnutí odvolacího soudu bylo vydáno dne 11. listopadu 2010, přihlédl k čl. II bodu 12. zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, a vyšel tak ze znění tohoto procesního předpisu účinného od. 1. července 2009.
+Podle ustanovení § 237 odst. 1 o.s.ř. je dovolání přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího soudu,
+a) jimiž bylo změněno rozhodnutí soudu prvního stupně ve věci samé,
+b) jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil,
+c) jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není přípustné podle písmena b) a dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam.
+Podle ustanovení § 237 odst. 2 písm. a) o.s.ř. není dovolání podle § 237 odst. 1 o.s.ř. přípustné ve věcech, v nichž dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50.000 Kč a v obchodních věcech 100.000 Kč; k příslušenství pohledávky se přitom nepřihlíží.
+Jak vyplývá z výroku napadeného rozsudku Vrchního soudu v Olomouci, bylo jím rozhodnuto (ve věci nikoliv obchodní) o peněžitém plnění nepřevyšujícím částku 50.000,- Kč, takže ve smyslu již uvedeného není proti tomuto výroku ve věci samé dovolání přípustné. Dovolatel výslovně svým dovoláním napadl i výrok III. rozsudku odvolacího soudu o nákladech řízení. Ustanovení § 236 a § 239 o.s.ř. však přípustnost tohoto mimořádného opravného prostředku proti takovémuto výroku nezakládají. Nejvyššímu soudu ČR proto ze všech uvedených důvodů nezbylo, než dovolání odmítnout jako nepřípustné podle § 243b odst. 5 o.s.ř. ve spojení s § 218 písm. c) téhož zákona, aniž se tak mohl zabývat důvody tohoto dovolání.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 5 věta prvá o.s.ř. ve spojení s § 224 odst. 1, § 151 o.s.ř., neboť žalobce s ohledem na výsledek řízení nemá na náhradu svých nákladů právo a žalované v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 11. listopadu 2010
+JUDr. Pavel Pavlík, v. r.
+předseda senátu
