@@ -1,0 +1,13 @@
+28 Cdo 1995/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Ludvíka Davida, CSc., a soudců JUDr. Josefa Rakovského a Mgr. Petra Krause v právní věci žalobce Plynofikace – sdružení obcí Křižínkov, Katov, Kuřimská Nová Ves, Kuřimské Jestřabí, se sídlem Katov 27, Dolní Loučky, proti žalované obci Kuřimská Nová Ves, se sídlem Kuřimská Nová Ves 50, Dolní Loučky, zastoupené JUDr. Zdeňkou Tučkovou, advokátkou se sídlem Sadová 531, Velká Bíteš, o 350.000,- Kč, vedené u Okresního soudu ve Žďáře nad Sázavou pod sp. zn. 9 C 191/2008, o dovolání žalované proti rozsudku Krajského soudu v Brně, pobočka v Jihlavě, ze dne 23. 2. 2010, č. j. 54 Co 1039/2009-167, takto:
+I. Řízení o dovolání se zastavuje.
+II. Žádný z účastníků řízení nemá právo na náhradu nákladů řízení o dovolání.
+O d ů v o d n ě n í :
+Ve výše uvedené právní věci rozhodoval Krajský soud v Brně, pobočka v Jihlavě, o podaném odvolání žalované proti rozsudku Okresního soudu ve Žďáře nad Sázavou ze dne 6. 5. 2009, č.j. 9 C 191/2008-125 (ve znění doplňujícího rozsudku). Odvolací soud přezkoumal napadené rozhodnutí a ačkoli dospěl k odlišnému právnímu závěru, totiž že na závazky sdružení obcí se nepoužije úprava občanského zákoníku o spoluvlastnictví, ale úprava zájmových sdružení právnických osob obsažená v § 20f a násl. obč. zák., jiné právní posouzení věci nezvrátilo rozhodnutí soudu prvního stupně. Odvolací soud proto rozsudkem výše označeným rozsudek soudu prvního stupně potvrdil a žalovanou zavázal k náhradě nákladů odvolacího řízení ve výši 26.940,- Kč.
+Proti rozsudku odvolacího soudu podala žalovaná dovolání telegraficky ve lhůtě dne 15. 3. 2010 a doplnila jej podáním daným k poštovní přepravě dne 18. 3. 2010. Usnesením soudu prvního stupně z 20. 4. 2010 však byla žalovaná vyzvána, aby ve lhůtě 10 dnů doplnila dovolání podle § 241a odst. 1 o. s. ř. tak, aby z něj bylo patrné, v jakém rozsahu a z jakých důvodů podle § 241a odst. 2 o. s. ř. se toto rozhodnutí napadá, jaké případné důkazy by měly být provedeny k prokázání důvodů dovolání a čeho se dovolatelka domáhá (dovolací návrh). Dovolatelka byla prostřednictvím advokátky poučena, že doplnění dovolání má právní účinky jen do konce běhu dovolací lhůty a že v případě nesplnění pokynu soudu prvního stupně dovolací soud toto řízení zastaví (§ 241 odst. 3, § 242 odst. 4 o. s. ř.).
+Poněvadž žalovaná ve lhůtě nedoplnila dovolání, Nejvyšší soud dovolací řízení podle § 243c odst. 1 a § 104 odst. 2 o. s. ř. zastavil.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 11. listopadu 2010
+JUDr. Ludvík D a v i d, CSc., v. r.
+předseda senátu
