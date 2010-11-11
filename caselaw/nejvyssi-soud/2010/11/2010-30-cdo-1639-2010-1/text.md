@@ -1,0 +1,23 @@
+30 Cdo 1639/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Pavlíka a soudců JUDr. Pavla Vrchy a JUDr. Lubomíra Ptáčka, Ph.D., v právní věci žalobců a) J. P., b) L. B., c) M. B. a d) B. V., všech zastoupených JUDr. Ludvíkem Ševčíkem mladším, advokátem se sídlem v Brně, Kobližná č. 19, proti žalovanému Ing. P. K., zastoupenému JUDr. Zdeňkem Bauerem, advokátem se sídlem v Brně, Kotlářská 34, o ochranu osobnosti, vedené u Krajského soudu v Brně pod sp. zn. 24 C 73/2008, o dovolání žalovaného proti rozsudku Vrchního soudu v Olomouci ze dne 25. listopadu 2009, č.j. 1 Co 185/2009-81, takto:
+I. Dovolání žalovaného se o d m í t á.
+II. Žalovaný je povinen zaplatit každému z žalobců na náhradu nákladů dovolacího řízení částku 7.860,- Kč do tří dnů od právní moci tohoto usnesení k rukám JUDr. Ludvíka Ševčíka mladšího, advokáta se sídlem v Brně, Kobližná č. 19.
+Stručné odůvodnění
+(§ 243c odst. 2 o.s.ř.):
+Krajský soud v Brně rozsudkem ze dne 6. května 2009, č.j. 24 C 73/2008-51, uložil žalovanému zaplatit každému ze žalobců částku 50.000,- Kč jako náhradu nemajetkové újmy podle § 13 odst. 2 občanského zákoníku (dále jen „o.z.,“) a rozhodl o náhradě nákladů řízení.
+Vrchní soud v Olomouci rozsudkem ze dne ze dne 25. listopadu 2009, č.j. 1 Co 185/2009-81, rozsudek soudu prvního stupně podle § 219 občanského soudního řádu (dále jen „o.s.ř.“) potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Proti rozsudku odvolacího soudu podal žalovaný dne 5. března 2010 dovolání, jehož přípustnost opírá o ustanovení § 237 odst. 1 písm. c) o.s.ř., přičemž jako dovolací důvod uvádí, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci ve smyslu ustanovení § 241a odst. 2 písm. b) o.s.ř. Navrhuje, aby dovolací soud rozsudky soudů obou stupňů zrušil a věc vrátil soudu prvního stupně k dalšímu řízení.
+K podanému dovolání se vyjádřili žalobci a navrhli jeho odmítnutí pro nepřípustnost.
+Dovolací soud za situace, kdy napadené rozhodnutí odvolacího soudu bylo vydáno dne 25. listopadu 2009, přihlédl k čl. II bodu 12. zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, a vyšel tak ze znění tohoto procesního předpisu účinného od. 1. července 2009.
+Podle ustanovení § 237 odst. 1 o.s.ř. je dovolání přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího soudu,
+a) jimiž bylo změněno rozhodnutí soudu prvního stupně ve věci samé,
+b) jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil,
+c) jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není přípustné podle písmena b) a dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam.
+Podle ustanovení § 237 odst. 2 písm. a) o.s.ř. není dovolání podle § 237 odst. 1 o.s.ř. přípustné ve věcech, v nichž dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50.000 Kč a v obchodních věcech 100.000 Kč; k příslušenství pohledávky se přitom nepřihlíží,
+Jak vyplývá z výroku napadeného rozsudku Vrchního soudu v Olomouci, bylo jím rozhodnuto (ve věci nikoliv obchodní) o peněžitém plnění nepřevyšujícím částku 50.000,- Kč u nároku každého žalobců. Nejvyššímu soudu ČR proto nezbylo, než dovolání odmítnout jako nepřípustné podle § 243b odst. 5 o.s.ř. ve spojení s § 218 písm. c) téhož zákona, aniž se tak mohl zabývat důvody tohoto dovolání.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 5 věta prvá o.s.ř. ve spojení s § 224 odst. 1, § 151 a 146 odst. 3 o.s.ř., když v dovolacím řízení žalobcům vznikly náklady spojené s jejich zastoupením advokátem, spočívající v paušální odměně ve výši 6.250,- Kč u každého z žalobců [srov. § 2 odst. 1, § 6 odst. 1. písm. a), § 10 odst. 3, § 14 odst. 1, a § 17 písm. b) a § 18 odst. 1 vyhlášky č. 484/2000 Sb. ve znění po novele provedené vyhláškou č. 277/2006 Sb. účinné od 1. 9. 2006] a v paušální náhradě hotových výloh advokátovi v částce 300,- Kč (§ 13 odst. 3 vyhlášky č. 177/1996 Sb. ve znění po novele provedené vyhláškou č. 276/2006 Sb.). Celkem výše přisouzené náhrady nákladů dovolacího řízení činí u každého z žalobců 6.550,- Kč, která je po úpravě o 20% daň z přidané hodnoty představována částkou 7.860.- Kč (§ 137 odst. 3 o.s.ř.), což činí v případě všech čtyř žalobců dohromady celkem 31.440,- Kč.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 11. listopadu 2010
+JUDr. Pavel P a v l í k, v. r.
+předseda senátu
