@@ -1,0 +1,17 @@
+20 Cdo 4262/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Olgy Puškinové a soudců JUDr. Miroslavy Jirmanové a JUDr. Pavlíny Brzobohaté v exekuční věci oprávněného Ing. J. U., proti povinným 1) IN RE SYSTEM spol. s r.o. „v likvidaci“, se sídlem v Ostravě, Porubě, Hlavní třída 854/44, identifikační číslo osoby 253 73 528, a 2) P. Ř., zastoupené Mgr. Vladanou Pščolkovou, advokátkou se sídlem v Ostravě, Sokolská třída 451/11, pro 448.395,79 Kč s příslušenstvím, vedené u Okresního soudu v Ostravě pod sp. zn. 94 Nc 10482/2008, o dovolání oprávněného proti usnesení Krajského soudu v Ostravě ze dne 8. března 2010, č. j. 9 Co 98/2010 - 73, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.):
+Okresní soud v Ostravě usnesení ze dne 15. 10. 2009, č. j. 94 Nc 10482/2008 - 55, zastavil exekuci nařízenou usnesením téhož soudu ze dne 1. 4. 2008, č. j. 94 Nc 10482/2008 - 4 (výrok I.); současně rozhodl o nákladech řízení ve vztahu mezi účastníky a o nákladech soudního exekutora.
+Krajský soud v Ostravě shora označeným usnesením usnesení soudu prvního stupně ve výrocích o zastavení exekuce a o nákladech exekuce potvrdil a dále rozhodl o nákladech odvolacího řízení.
+Usnesení odvolacího soudu napadl oprávněný dovoláním, aniž byl při tomto úkonu zastoupen advokátem.
+Pro podání dovolání, které je mimořádným opravným prostředkem, zákon stanoví požadavek, aby účastník řízení, který podává dovolání, měl buď sám právnické vzdělání, nebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc. Ustanovení § 241 o. s. ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejího splnění nelze o dovolání rozhodnout.
+V dané věci podal povinný dovolání proti usnesení odvolacího soudu, aniž byl při tomto úkonu zastoupen advokátem, a ani netvrdil, že by měl právnické vzdělání. Usnesením ze dne 4. 8. 2010, č. j. 94 Nc 10482/2008 - 80, vyzval soud prvního stupně oprávněného, aby „ve lhůtě 10 dnů sdělil soudu jméno a příjmení advokáta - právního zástupce, kterého si zvolil pro podání dovolání u Nejvyššího soudu, a aby doložil soudu plnou moc právního zástupce, popřípadě aby doložil, že má právnické vzdělání; současně byl poučen o tom, že „není-li přes výzvu předsedy senátu podání doplněno nebo nebude-li předložena plná moc právního zástupce, Nejvyšší soud dovolací řízení zastaví“. Toto usnesení bylo oprávněnému doručeno dne 8. 9. 2010, na výzvu okresního soudu však nereagoval.
+Vzhledem k tomu, že dovolatel podal dovolání proti rozhodnutí odvolacího soudu, aniž by při tomto úkonu byl zastoupen advokátem a aniž by doložil, že má právnické vzdělání, nebyl nedostatek podmínky dovolacího řízení podle § 241 odst. 1 věty první o. s. ř. ani přes poučení odstraněn. Nejvyšší soud proto dovolací řízení podle § 243c odst. 1 a § 104 odst. 2 věty třetí o. s. ř. zastavil.
+Oprávněný z procesního hlediska zavinil, že dovolací řízení bylo zastaveno, ostatním účastníkům však v tomto stádiu řízení náklady nevznikly; tomu odpovídá výrok, že na náhradu nákladů dovolacího řízení nemá žádný z nich právo (§ 243b odst. 5, věta první, § 224 odst. 1, § 146 odst. 2, věta první, o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 24. listopadu 2010
+JUDr. Olga Puškinová, v. r.
+předsedkyně senátu
