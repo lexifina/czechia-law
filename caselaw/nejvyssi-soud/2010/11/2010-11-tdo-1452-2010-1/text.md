@@ -1,0 +1,13 @@
+11 Tdo 1452/2010 - 34
+U S N E S E N Í
+Předseda senátu Nejvyššího soudu České republiky rozhodl dne 30. 11. 2010 ve věci dovolání obviněné Ž. D. proti rozsudku Krajského soudu v Ostravě, sp. zn. 3 To 31/2009 ze dne 10. 2. 2010, jako soudu odvolacího, v trestní věci vedené u Okresního soudu v Ostravě pod sp. zn. 74 T 169/2009 ze dne 5. 11. 2009 takto :
+Podle § 265g odst. 2 tr. řádu bere předseda senátu na vědomí zpětvzetí dovolání obv. Ž. D.
+Odůvodnění :
+Rozsudkem Okresního soudu v Ostravě ze dne 5. 11. 2009, sp. zn. 74 T 169/2009, byla obviněná Ž. D. uznána vinnou ze spáchání trestného činu týrání osoby žijící ve společně obývaném bytě nebo domě dle § 215a odst. 1, 2 písm. b) tr. zák. a pokusu trestného činu ublížení na zdraví dle § 8 odst. 1 k § 222 odst. 1 tr. zák., za které byla odsouzena podle § 222 odst. 1 tr. zák. za použití § 35 odst. 2 tr. zák. k souhrnnému trestu odnětí svobody v trvání 4 (čtyř) roků a 6 (šesti) měsíců a pro výkon uloženého trestu byla podle § 39a odst. 2 písm. c) tr. zák. zařazena do věznice s ostrahou.
+Proti tomuto rozsudku podala obviněná v zákonné lhůtě odvolání, o kterém rozhodl Krajský soud v Ostravě tak, že napadený rozsudek v celém rozsahu zrušil a nově uznal obviněnou vinnou ze spáchání trestného činu týrání osoby žijící ve společně obývaném bytě nebo domě podle § 215a odst. 1, 2 písm. b) tr. zák., za což byla v souladu s ust. § 215a odst. 2 tr. zák. odsouzena k trestu odnětí svobody v trvání 2 (dvou) roků a 6 (šesti) měsíců. Pro výkon uloženého trestu byla obviněná v souladu s ust. § 215a odst. 2 tr. zák. zařazena do věznice s ostrahou.
+Proti tomuto rozsudku obviněná podala na Okresním soudu v Ostravě ke dni 19. 7. 2010 dovolání, které následně dne 13. 10. 2010 doplnila a odkázala v něm na ust. § 265b odst. 1 písm. g) tr. zák., neboť dle jejího názoru tento rozsudek spočíval na nesprávném právním posouzení skutku nebo jiném nesprávném hmotněprávním posouzení.
+Poté dne 18. 11. 1020 obdržel Nejvyšší soud ČR písemné vyjádření odsouzené Ž. D., ve kterém požádala předsedu senátu o to, aby její dovolání z 19. 7. 2010 nebylo projednáno. Vzhledem k tomu, že dovolatelka relevantně vyjádřila své rozhodnutí nepokračovat v započatém dovolacím řízení, předseda senátu v souladu s ust. § 265g odst. 2 tr. zák. vzal toto její rozhodnutí na vědomí.
+(Pokud bylo v textu použito termínu „trestní zákon“ nebo zkratky „tr. zák.“, má se na mysli zákon č. 140/1961 Sb.)
+Poučení : Proti tomuto usnesení není s výjimkou obnovy řízení opravný prostředek přípustný (viz. § 265n tr. řádu).
+V Brně dne 30. listopadu 2010
+Předseda senátu: JUDr. Stanislav Rizman
