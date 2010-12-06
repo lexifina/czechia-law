@@ -1,0 +1,15 @@
+4 Nd 433/2010-57
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Danuše Novotné a soudců JUDr. Františka Hrabce a JUDr. Jiřího Pácala v právní věci žalobkyně: Beneficial Finance, a. s., IČ: 26697068, se sídlem Praha 1, V Celnici 1028/10, proti žalovanému : M. S., o zaplacení částky 19.498,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 16 C 376/2008, o určení příslušnosti soudu podle § 11 odst. 3 o. s. ř. takto:
+Věc, vedenou u Obvodního soudu pro Prahu 1 pod sp. zn. 16 C 376/2008, p r o j e d n á a r o z h o d n e Obvodní soud pro Prahu 1.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 1 usnesením ze dne 25. 8. 2010, sp. zn. 16 C 376/2008, vyslovil svoji místní nepříslušnost a rozhodl, že po právní moci tohoto usnesení bude věc předložena Nejvyššímu soudu České republiky k určení, který soud označenou věc projedná a rozhodne.
+V předmětné věci se žalobkyně v soudním řízení domáhá na žalovaném zaplacení částky 19.498,- Kč s příslušenstvím z titulu nesplacení úvěru poskytnutého žalovanému na základě Smlouvy o osobním úvěru. Žalobkyně připojila k žalobě neověřenou kopii Smlouvy o úvěru a neověřenou kopii Obchodních podmínek bez data platnosti, resp. účinnosti. Dle těchto dokladů se smluvní strany dohodly na místní příslušnosti Obvodního soudu pro Prahu 1 jako soudu prvního stupně.
+S ohledem na ustanovení § 89a o. s. ř. ve znění účinném ke dni zahájení řízení, dle kterého smlouva nebo její ověřený opis musí být doloženy již v žalobě (návrhu na zahájení řízení), dospěl Obvodní soud pro Prahu 1 k závěru, že v daném případě nebyla dohoda účastníků o místní příslušnosti soudu řádně doložena, přičemž tento nedostatek nelze odstranit postupem podle § 43 odst. 1 o. s. ř.
+Obvodní soud pro Prahu 1 dále zjistil, že se obviněný na adrese svého trvalého bydliště v obvodu Okresního soudu v Pardubicích nezdržuje, jiná adresa pobytu žalovaného zjištěna nebyla. Obvodní soud pro Prahu 1 proto předložil věc podle § 11 odst. 3 o. s. ř. k určení, který soud věc projedná a rozhodne.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+V posuzovaném případě jsou předpoklady pro rozhodnutí podle § 11 odst. 3 o. s. ř. naplněny, neboť věc spadá do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí, resp. se je nepodařilo zjistit.
+S ohledem na požadavek hospodárnosti řízení Nejvyšší soud dospěl k závěru, že není důvodu určit jako soud, který věc projedná a rozhodne, jiný soud, než ten, u něhož bylo na základě žaloby zahájeno řízení a u něhož lze předpokládat, že jeho místní příslušnost byla de facto založena dohodou účastníků, byť tato dohoda nebyla řádně doložena při podání žaloby. Proto podle ustanovení § 11 odst. 3 o. s. ř. určil Obvodní soud pro Prahu 1 tím soudem, který věc projedná a rozhodne.
+Poučení : Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 6. prosince 2010
+JUDr. Danuše N o v o t n á předsedkyně senátu
