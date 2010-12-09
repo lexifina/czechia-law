@@ -1,0 +1,14 @@
+4 Nd 430/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Danuše Novotné a soudců JUDr. Františka Hrabce a JUDr. Jiřího Pácala v exekuční věci oprávněné České podnikatelské pojišťovny, a.s., Vienna Insurance Group, IČ 639 98 530, se sídlem Budějovická 5, 140 21 Praha 4, zastoupené JUDr. Pavlem Novákem, advokátem se sídlem Bohuslava Martinů 1051, 140 00 Praha 4, proti povinnému R. R., pro uspokojení pohledávky oprávněné 1.545,- Kč s příslušenstvím, vedené u Okresního soudu v Jablonci nad Nisou pod sp. zn. 16 Nc 6344/2009, o určení příslušnosti soudu podle § 11 odst. 3 o. s. ř. t a k t o :
+Věc, vedenou u Okresního soudu v Jablonci nad Nisou pod sp. zn. 16 Nc 6344/2009, projedná a rozhodne Okresní soud v Jablonci nad Nisou.
+O d ů v o d n ě n í :
+Okresní soud v Jablonci nad Nisou ze dne 20. 10. 2010 sp. zn. 16 Nc 6344/2009 vyslovil svoji místní nepříslušnost a rozhodl, že věc bude předložena Nejvyššímu soudu České republiky k určení, který soud označenou věc projedná a rozhodne.
+V předmětné věci se jedná o návrh oprávněného na nařízení exekuce proti povinnému pro výše uvedenou pohledávku s příslušenstvím. Usnesením ze dne 27. 8. 2009 Okresní soud v Jablonci nad Nisou vyslovil svou místní nepříslušnost a postoupil věc Okresnímu soudu v Náchodě, o němž měl za to, že je místně příslušný, neboť dle centrální evidence obyvatel měl povinný od 20. 6. 2005 bydliště v obvodu tohoto soudu. K nesouhlasu Okresního soudu v Náchodě s postoupením věci rozhodl Krajský soud v Hradci Králové usnesením ze dne 8. 1. 2010 tak, že tento nesouhlas je důvodný, neboť adresu v obvodu Okresního soudu v Náchodě nelze považovat za bydliště, ve kterém by povinný bydlel v úmyslu se tam trvale zdržovat. Následným šetřením se Okresnímu soudu v Jablonci nad Nisou nepodařilo zjistit skutečné bydliště povinného, proto výše uvedeným usnesením znovu vyslovil svou místní nepříslušnost a věc předložil Nejvyššímu soudu k rozhodnutí podle § 11 odst. 3 o. s. ř.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+V posuzovaném případě jsou předpoklady pro rozhodnutí podle § 11 odst. 3 o. s. ř. naplněny, neboť věc spadá do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí, resp. je nepodařilo zjistit.
+S ohledem na požadavek hospodárnosti řízení Nejvyšší soud dospěl k závěru, že není důvodu určit jako soud, který věc projedná a rozhodne, jiný soud, než ten, u něhož byl podán návrh na nařízení exekuce. Proto podle ustanovení § 11 odst. 3 o. s. ř. určil Okresní soud v Jablonci nad Nisou tím soudem, který věc projedná a rozhodne.
+P o u č e n í : Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 9. prosince 2010
+JUDr. Danuše Novotná
+předsedkyně senátu
