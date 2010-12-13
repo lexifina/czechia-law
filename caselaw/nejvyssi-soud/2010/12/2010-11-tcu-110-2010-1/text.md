@@ -1,0 +1,15 @@
+11 Tcu 110/2010-18
+U S N E S E N Í
+Nejvyšší soud České republiky projednal žádost Ministerstva spravedlnosti Bulharské republiky o povolení průvozu odsouzené E. V. D. , státní občanky Bulharské republiky, a rozhodl v neveřejném zasedání dne 13. prosince 2010 podle § 424 a § 423 odst. 1 trestního řádu a čl. 16 Úmluvy o předávání odsouzených osob (uveřejněna pod č. 553/1992 Sb.) t a k t o :
+Povoluje se p r ů v o z odsouzené E. V. D. , státní občanky Bulharské republiky, územím České republiky do Bulharské republiky pro účely předání k výkonu trestu odnětí svobody uloženého jí rozsudkem Leninova regionálního soudu – Minsk, Běloruská republika, ze dne 18. června 2009.
+Po dobu průvozu bude předávaná osoba držena ve vazbě.
+O d ů v o d n ě n í :
+Ministerstvo spravedlnosti Bulharské republiky dne 25. listopadu 2010, č. j. 99-N-T-81/09, požádalo na základě čl. 16 Úmluvy o předávání odsouzených osob (č. 553/1992 Sb. – dále jen Úmluva) o povolení průvozu bulharské státní občanky E. V. D. územím České republiky. Průvoz se má uskutečnit v rámci předání jmenované z Běloruské republiky k dalšímu výkonu nepodmíněného trestu odnětí svobody do Bulharské republiky (leteckou cestou s mezipřistáním v P. ), a to trestu odnětí svobody v trvání pěti let a jednoho měsíce, který jí byl uložen rozsudkem Leninova regionálního soudu – Minsk, Běloruská republika, ze dne 18. června 2009, pro trestný čin krádeže a trestný čin padělání platebního certifikátu, jichž se dopustila jako člen organizované skupiny, podle části 4 čl. 212 a podle části 2 čl. 380 trestního zákona Běloruské republiky.
+Uvedené trestné činnosti se měla předávaná dopustit v podstatě tím, že v období od 10. – 22. října 2008 v M. , Běloruská republika, společně s jinak odsouzeným S. O. A. –G. , jako členka organizované skupiny, v celkem padesáti případech neoprávněně vyzvedla z bankomatů pomocí falešných bankovních karet velké finanční obnosy.
+Nejvyšší soud České republiky projednal žádost Ministerstva spravedlnosti Bulharské republiky z hlediska splnění právních podmínek vyžadovaných jak vnitrostátní úpravou (§ 423 tr. ř., § 424 tr. ř.), tak výše již uvedenou Úmluvou. Zjistil, že v posuzovaném případě jde o předání k výkonu trestu odnětí svobody, který byl odsouzené uložen za čin, který vykazuje zákonné znaky trestného činu i podle právního řádu České republiky (přinejmenším trestný čin neoprávněného opatření, padělání a pozměnění platebního prostředku podle § 234 tr. zákoníku), přičemž předávaná osoba není státní občankou České republiky (srov. čl. 16 Úmluvy).
+Jelikož nebyly zjištěny žádné právní překážky, které by bránily povolení průvozu odsouzené E. V. D. územím České republiky pro účely předání k výkonu výše uvedeného nepodmíněného trestu odnětí svobody v Bulharské republice, tak Nejvyšší soud České republiky žádosti Ministerstva spravedlnosti Bulharské republiky vyhověl.
+Zároveň rozhodl o nutném opatření omezujícím osobní svobodu předávané osoby v době průvozu územím České republiky.
+Poučení : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 13. prosince 2010
+Předseda senátu:
+JUDr. Antonín Draštík
