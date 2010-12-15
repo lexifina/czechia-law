@@ -1,0 +1,17 @@
+20 Cdo 3771/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové a soudců JUDr. Pavlíny Brzobohaté a JUDr. Vladimíra Mikuška v exekuční věci oprávněné GE Money Multiservis, a. s., se sídlem v Praze 4, Vyskočilova 1422/1a, identifikační číslo 492 41 150, proti povinné R. G., zastoupené JUDr. Františkem Siegelem, advokátem se sídlem v Karlových Varech, Dr. Davida Bechera 19, pro 16 091,- Kč s příslušenstvím, vedené u Okresního soudu v Karlových Varech pod sp. zn. 24 Nc 2185/2009, o dovolání povinné proti usnesení Krajského soudu v Plzni ze dne 27. 5. 2009, č. j. 56 Co 308/2009-17, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Krajský soud napadeným rozhodnutím odmítl odvolání povinné proti usnesení ze dne 4. 2. 2009, č. j. 24 Nc 2185/2009-6, kterým okresní soud nařídil podle rozsudku téhož soudu ze dne 19. 9. 2006, č. j. 10 C 233/2006-28, k vymožení pohledávky oprávněné ve výši 16 091,- Kč s vyčísleným příslušenstvím exekuci na majetek povinné, jejímž provedením pověřil soudního exekutora JUDr. Ivo Luhana.
+Usnesení odvolacího soudu napadla povinná dovoláním, v němž uvedla, že nemá žádný majetek a nemá ani žádný příjem, a navrhla, aby byla exekuce zrušena. K její žádosti jí byl usnesením Okresního soudu v Karlových Varech ze dne 17. 9. 2009, č. j. 24 Nc 2185/2009-29, ustanoven zástupce JUDr. František Siegel; v tomto výroku usnesení nabylo právní moc 23. 10. 2009.
+Podle § 241b odst. 3 zákona č. 99/1963 Sb., občanský soud řád, ve znění pozdějších předpisů (dále též jen „o. s. ř.“), dovolání, které neobsahuje údaje o tom, v jakém rozsahu nebo z jakých důvodů se rozhodnutí odvolacího soudu napadá, může být o tyto náležitosti doplněno jen po dobu trvání lhůty k dovolání. Nebyla-li v době podání dovolání splněna podmínka uvedená v § 241 o. s. ř., běží tato lhůta až do uplynutí lhůty, která byla dovolateli určena ke splnění této podmínky; požádá-li však dovolatel před uplynutím lhůty o ustanovení zástupce (§ 30 o. s. ř.), běží lhůta podle věty první znovu až od právní moci usnesení, kterým bylo o této žádosti rozhodnuto.
+Podle § 241a odst. 1 o. s. ř. v dovolání musí být vedle obecných náležitostí (§ 42 odst. 4 o. s. ř.) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu a z jakých důvodů se toto rozhodnutí napadá, popřípadě které důkazy by měly být provedeny k prokázání důvodu dovolání a čeho se dovolatel domáhá (dovolací návrh).
+Z uvedených ustanovení Nejvyšší soud již v několika rozhodnutích dovodil, že dovolání, které nebylo o uvedené náležitosti doplněno v propadné (prekluzivní) lhůtě určené ustanovením § 241b odst. 3 o. s. ř., bude dovolacím soudem odmítnuto podle § 43 odst. 2 o. s. ř. (srov. usnesení Nejvyššího soudu ze dne 18. června 2003, sp. zn. 29 Odo 108/2002, nebo usnesení Nejvyššího soudu ze dne 27. ledna 2005, sp. zn. 29 Odo 1060/2003).
+Soudem ustanovený advokát dovolání v zákonné lhůtě dvou měsíců nedoplnil, ale učinil tak až podáním z 14. 6. 2010, ačkoli lhůta k doplnění dovolání uplynula již dne 23. 12. 2009.
+Vzhledem k uvedenému Nejvyšší soud podle ustanovení § 43 odst. 2 ve spojení s § 243c odst. 1 o. s. ř. dovolání odmítl.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 15. prosince 2010
+JUDr. Miroslava J i r m a n o v á, v. r.
+předsedkyně senátu
