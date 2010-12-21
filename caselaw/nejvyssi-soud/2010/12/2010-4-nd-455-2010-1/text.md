@@ -1,0 +1,17 @@
+4 Nd 455/2010-65
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jiřího Pácala a soudců JUDr. Františka Hrabce a JUDr. Danuše Novotné v právní věci žalobkyně UPC Česká republika, a.s., se sídlem Praha 4 – Nusle, Závišova 5, zastoupené M. R. , proti žalovanému B. K. , o zaplacení 10.000,- Kč s příslušenstvím, vedené u Okresního soudu v Hradci Králové pod sp. zn. 13 C 16/2010, o návrhu na určení místní příslušnosti soudu podle ustanovení § 11 odst. 3 o. s. ř., t a k t o :
+Věc vedenou u Okresního soudu v Hradci Králové pod sp. zn. 13 C 16/2010 projedná a rozhodne Okresní soud v Hradci Králové.
+O d ů v o d n ě n í :
+Podáním ze dne 22. 7. 2009 podala žalobkyně ve výše uvedené věci u Okresního soudu v Hradci Králové návrh na zahájení řízení.
+Okresní soud v Hradci Králové následně usnesením ze dne 20. 10. 2009, sp. zn. 13 Ec 18/2009, vyslovil mimo jiné i svou místní nepříslušnost ve věci s tím, že po právní moci tohoto usnesení bude věc postoupena Okresnímu soudu v Náchodě jako soudu místně příslušnému.
+Okresní soud v Náchodě však vyslovil nesouhlas s postoupením věci, o kterém rozhodl Krajský soud v Hradci Králové usnesením ze dne 26. 1. 2010, sp. zn. 1 Nc 2614/2010, tak, že je důvodný.
+Okresní soud v Hradci Králové poté usnesením ze dne 11.10.2010, sp. zn. 13 C 16/2010, vyslovil svou místní nepříslušnost v předmětné věci s tím, že po právní moci tohoto usnesení bude věc předložena Nejvyššímu soudu České republiky k rozhodnutí ve smyslu ustanovení § 11 odst. 3 o. s. ř.
+Z ustanovení § 11 odst. 3 o. s. ř. vyplývá, že jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Podle ustanovení § 11 odst. 1 o. s. ř. se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení. Podle § 84 o.s.ř. je k řízení příslušný obecný soud účastníka, proti němuž návrh směřuje (žalovaného), není-li stanoveno jinak. Podle § 85 odst. 1 o. s. ř. nestanoví-li zákon jinak, je obecným soudem fyzické osoby okresní soud, v jehož obvodu má bydliště a nemá-li bydliště, okresní soud, v jehož obvodu se zdržuje. Bydlištěm ve smyslu ustanovení § 85 odst. 1 o. s. ř. se rozumí místo, kde se fyzická osoba zdržuje s úmyslem zdržovat se zde trvale.
+Po prostudování předmětného spisového materiálu Nejvyšší soud České republiky zjistil, že žalovaný je dle výpisu z centrální evidence obyvatel od 1. 12. 2004 hlášen k pobytu na adrese N. , N. R. , což je adresa ohlašovny městského úřadu, na které se žalovaný nezdržuje ani se zde nezdržoval v době zahájení řízení. Jiné místo bydliště žalovaného (tj. ani v době zahájení řízení ani v době současné) se příslušnému soudu zjistit nepodařilo.
+Je tedy možno uzavřít, že rozhodujícímu soudu se nepodařilo zjistit ani místo bydliště žalovaného ani místo, kde se žalovaný zdržoval v době podání návrhu na zahájení. Nejvyšší soud České republiky proto shledal podmínky pro určení místně příslušného soudu ve smyslu § 11 odst. 3 o. s. ř. a s ohledem na zásadu rychlosti a hospodárnosti řízení rozhodl tak, že jako soud příslušným k projednání a rozhodnutí předmětné věci určil Okresní soud v Hradci Králové, u něhož bylo řízení zahájeno.
+P o u č e n í : Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 21. prosince 2010
+JUDr. Jiří Pácal
+předseda senátu
