@@ -1,0 +1,19 @@
+20 Cdo 4858/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně
+JUDr. Olgy Puškinové a soudců JUDr. Vladimíra Mikuška a JUDr. Miroslavy Jirmanové v exekuční věci oprávněné LOANINVEST LIMITED, se sídlem Walkers SPV Limited, Walker House, Mary Street, PO Box 908GT, Georgie Town, Grand Cayman, Kajmanské ostrovy, registrační číslo 127383, zastoupené JUDr. Janem Rudolfem, advokátem se sídlem v Praze 1, Jungmannova 34, proti povinným: 1) E. F., 2) E. F., 3) M. D., zastoupenému opatrovníkem Městskou částí Praha 14, se sídlem v Praze 9, Bratří Venclíků 1073/8, 4) L. B., zastoupené JUDr. Miloslavem Topinkou, advokátem se sídlem v Praze 2, Wenzigova 5, 5) M.V., 6) Z. F., pro 104.100,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 9 pod sp. zn. 73 Nc 1138/2005, o dovolání soudního exekutora Mgr. Otakara Kořínka, Exekutorský úřad Praha 3, proti usnesení Městského soudu v Praze ze dne 9. března 2010, č. j. 18 Co 79/2010 - 100, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.):
+Obvodní soud pro Prahu 9 usnesením ze dne 23. 10. 2009, č. j. 73 Nc 1138/2005 - 79, rozhodl, že exekuce nařízená usnesením Obvodního soudu pro Prahu 9 ze dne 15. 9. 2005, č. j. 73 Nc 1138/2005 - 17, ve spojení s usnesením Městského soudu v Praze ze dne 21. 8. 2006, č. j. 18 Co 429/2006 - 47, se částečně zastavuje ve vztahu k povinným 1), 2), 3), 5) a 6) co do 19 % úroku z prodlení z částky 104.000,- Kč od 17. 9. 1992 do 9. 2. 1993 a co do nákladů předchozího řízení ve výši 4.164,- Kč (výrok I.) a současně zamítl návrh povinné 4) L. B. na zastavení exekuce (výrok II.).
+Městský soud v Praze usnesením ze dne 9. 3. 2010, č. j. 18 Co 79/2010 - 100, usnesení soudu prvního stupně v napadeném výroku II. [o zamítnutí návrhu povinné 4) na zastavení exekuce] zrušil a řízení mezi oprávněnou a povinnou 4) zastavil, dále rozhodl o náhradě nákladů řízení mezi oprávněnou a povinnou 4) před soudy obou stupňů a soudnímu exekutorovi Mgr. Otakaru Kořínkovi, Exekutorský úřad Praha 3, nepřiznal náhradu nákladů exekuce.
+Proti výroku, jímž odvolací soud nepřiznal soudnímu exekutorovi náhradu nákladů exekuce, podal soudní exekutor dovolání z důvodu nesprávného právního posouzení věci, neboť má za to, že odvolací soud měl povinnost k úhradě nákladů exekuce uložit povinné 4). Navrhl, aby dovolací soud usnesení odvolacího soudu v napadeném výroku zrušil a věc „vrátil soudu k opětovnému rozhodnutí“.
+Dovolací soud dovolání projednal a rozhodl o něm podle občanského soudního řádu ve znění účinném od 1. 7. 2010 (srov. článek II, bod 12. části první zákona č. 7/2009 Sb.) a dospěl k závěru, že dovolání není přípustné.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Podle § 238, § 238a a § 239 o. s. ř. není dovolání přípustné proto, že usnesení o nákladech řízení, a tedy ani o nákladech exekuce, v jejich taxativních výčtech uvedeno není. Přípustnost dovolání nelze dovodit ani o § 237 odst. 1 o. s. ř., neboť usnesení o nákladech exekuce (stejně jako usnesení o nákladech řízení) není rozhodnutím ve věci samé (srov. usnesení Nejvyššího soudu ze dne 22. 3. 2005, sp. zn. 20 Cdo 2740/2004, uveřejněné v časopise Soudní judikatura č. 5, ročník 2005, pod poř. č. 70, usnesení Nejvyššího soudu ze dne 31. 1. 2002, sp. zn. 29 Odo 874/2001, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek č. 1, ročník 2003, pod č. 4).
+Nejvyšší soud ČR proto dovolání soudního exekutora podle § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, § 224 odst. 1 a § 151 odst. 1 o. s. ř., neboť účastníkům v tomto řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 6. ledna 2011
+JUDr. Olga Puškinová, v. r.
+předsedkyně senátu
