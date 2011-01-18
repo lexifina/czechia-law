@@ -1,0 +1,12 @@
+21 Cdo 420/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a JUDr. Romana Fialy ve věci péče o nezletilou M. S., bytem u matky, zastoupenou Městskou částí Praha 4 se sídlem Úřadu městské části v Praze 4, Táborská č. 350, jako opatrovníkem, dceru E. M., zastoupené Mgr. Klárou Zemanovou, advokátkou se sídlem v Praze 8, Prosecká č. 20, a JUDr. V. S., o návrhu matky na zvýšení výživného a o návrhu otce na změnu výchovy a úpravu styku, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 0P 260/2005, o dovolání otce proti usnesení Městského soudu v Praze ze dne 22. října 2007, č. j. 23 Co 438/2007-220, takto :
+Dovolání otce se odmítá.
+S t r u č n é o d ů v o d n ě n í (§ 243c odst. 2 o. s. ř.):
+Dovolání otce proti usnesení Městského soudu v Praze ze dne 22. 10. 2007, č. j. 23 Co 438/2007-220, jímž bylo potvrzeno usnesení Obvodního soudu pro Prahu 4 ze dne 17. 5. 2007, č. j. P 260/2005-195, kterým byla zamítnuta námitka místní nepříslušnosti (vznesená otcem), není přípustné podle ustanovení § 237 zákona č. 99/1963 Sb., občanský soudní řád [ve znění do 30. 6. 2009 (dále jen „o. s. ř.“), když dovoláním je napadeno usnesení odvolacího soudu, které bylo vydáno před 1. 7. 2009 (srov. Čl. II bod 12 zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., ve znění pozdějších předpisů a další související zákony)], neboť usnesením odvolacího soudu nebylo potvrzeno usnesení soudu prvního stupně, kterým by bylo rozhodnuto ve věci samé, a nebylo shledáno přípustným ani podle ustanovení § 238, § 238a a § 239 o. s. ř., protože usnesením soudu prvního stupně nebylo rozhodnuto ve věcech, které jsou taxativně vyjmenovány v ustanoveních § 238 a § 238a o. s. ř., a nejde rovněž o žádný z případů procesních rozhodnutí uvedených v ustanovení § 239 o. s. ř.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) proto dovolání otce podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. – aniž by se mohl věcí dále zabývat - odmítl.
+Vzhledem k tomu, že tímto rozhodnutím dovolacího soudu se řízení o věci nekončí, bude rozhodnuto i o náhradě nákladů vzniklých v tomto dovolacím řízení v konečném rozhodnutí soudu prvního stupně, popřípadě soudu odvolacího (§ 243c odst. 1, § 151 odst. 1 o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 18. ledna 2011
+JUDr. Mojmír Putna, v. r.
+předseda senátu
