@@ -1,0 +1,18 @@
+11 Tcu 8/2011-33
+U S N E S E N Í
+Nejvyšší soud České republiky projednal žádost Ministerstva spravedlnosti Rumunské republiky o povolení průvozu předávaných C. I. , státního občana Rumunska, a I. Ch. , státního občana Rumunska, a rozhodl v neveřejném zasedání dne 18. ledna 2011 podle § 422 tr. ř. t a k t o :
+I. Povoluje se průvoz předávaného C. I. , státního občana Rumunska, územím České republiky ze Slovinska do Rumunska pro účely výkonu trestu odnětí svobody v trvání dvou let a 437 dnů uloženého mu trestním rozsudkem č. 44 Obvodního soudu v Călăraşi ze dne 27. 5. 2010, který nabyl právní moci dne 15. 6. 2010, a to na základě evropského zatýkacího rozkazu č. 3 vydaného Obvodním soudem v Călăraşi dne 21. 6. 2010 a žádosti Ministerstva spravedlnosti Rumunska ze dne 14. 1. 2011.
+II. Povoluje se průvoz předávaného I. Ch. , státního občana Rumunska, územím České republiky ze Slovinska do Rumunska pro účely výkonu trestu odnětí svobody v trvání dvanácti let uloženého mu trestním rozsudkem č. 122/F/04.03.2009 Obvodního soudu v Ialomiţa, a to na základě evropského zatýkacího rozkazu č. 10 vydaného Obvodním soudem v Ialomiţa dne 9. 12. 2010 a žádosti Ministerstva spravedlnosti Rumunska ze dne 14. 1. 2011.
+III. Po dobu průvozu budou předávané osoby drženy ve vazbě.
+O d ů v o d n ě n í :
+Ministerstvo spravedlnosti Rumunska požádalo dne 17. 1. 2011 žádostí datovanou dnem 14. 1. 2011 na základě čl. 25 Rámcového rozhodnutí Rady Evropské unie ze dne 13. června 2002, o evropském zatýkacím rozkazu a postupech předávání mezi členskými státy, o povolení průvozu C. I. , a I. Ch. , obou státních občanů Rumunska, územím České republiky.
+Průvoz se má uskutečnit v rámci předání jmenovaných osob realizovaného na základě evropského zatýkacího rozkazu č. 3 vydaného Obvodním soudem v Călăraşi dne 21. 6. 2010 (C. I. ) a evropského zatýkacího rozkazu č. 10 vydaného Obvodním soudem v Ialomiţa dne 9. 12. 2010 (I. Ch. ) ze Slovinska k výkonu trestu v trvání dvou let a 437 dnů (C. I. ) a dvanácti let (I. Ch. ) v Rumunsku, a to leteckou cestou s mezipřistáním v Praze.
+Trestné činnosti se předávaný C. I. dopustil tím, že v noci ze 4. na 5. ledna 2005 společně s dalšími sedmi osobami sešplhal a vloupal se do jednoho ze skladů sila v B. , kde ukradli 3520 kg slunečnice. Způsobili tak škodu 9639.38 RON (nový lei) obchodní společnosti SC Intercereal SA Feteşti.
+Předávaný I. Ch. se trestné činnosti dopustil tím, že opakovaně od konce roku 2007 do poloviny roku 2008 znásilňoval svoji dceru, poškozenou N. A. Ch. (mladší 15 let). I. Ch. dále v listopadu 2007 vyhrožoval slečně V. D. C. smrtí a zapálením.
+Nejvyšší soud České republiky projednal předloženou žádost z hlediska splnění právních podmínek a náležitostí vyžadovaných vnitrostátní úpravou (§ 422 tr. ř.). Zjistil, že v posuzovaném případě jde o předání ze Slovinska do Rumunska za účelem výkonu trestu odnětí svobody. Jak je zřejmé z výpisu z centrální evidence obyvatel, předávané osoby nejsou státními občany České republiky a nemají ani na území České republiky trvalý pobyt.
+Jelikož tedy nebyly zjištěny žádné právní překážky, které by bránily povolení průvozu předávaných C. I. a I. Ch. územím České republiky pro účely výkonu shora uvedených trestů, vyhověl Nejvyšší soud České republiky citované žádosti a rozhodl tak, jak je uvedeno ve výroku tohoto usnesení.
+Zároveň Nejvyšší soud České republiky rozhodl o nutném opatření omezujícím osobní svobodu předávaných osob v době průvozu územím České republiky.
+Poučení : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 18. ledna 2011
+Předseda senátu:
+JUDr. Karel Hasch
