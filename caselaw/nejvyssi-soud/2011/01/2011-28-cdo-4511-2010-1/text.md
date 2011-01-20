@@ -1,0 +1,16 @@
+28 Cdo 4511/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivy Brožové a JUDr. Jana Eliáše, Ph.D, a JUDr. Josefa Rakovského, v právní věci žalobce Statutárního města Plzeň, se sídlem v Plzni, Nám. Republiky 1, proti žalovaným 1) P. S., 2) M. K., zastoupeným JUDr. Pavlem Reiserem, advokátem se sídlem v Plzni, Mikulášská třída 9, o vydání bezdůvodného obohacení ve výši 278 400,- Kč, vedené u Okresního soudu v Plzni pod sp. zn. 11 C 207/2008, o dovolání druhého žalovaného proti rozsudku Krajského soudu v Plzni ze dne 14. 4. 2010, č. j. 15 Co 109/2010-213, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í (§ 243c odst. 2 o.s.ř.):
+Dovolání proti rozsudku Krajského soudu v Plzni ze dne 14. 4. 2010, č. j. 15 Co 109/2010-213, kterým odvolací soud potvrdil rozsudek Okresního soudu v Plzni ze dne 3. 6. 2009, č. j. 11 C 207/2008-159, jako první rozsudek soudu prvního stupně v projednávané věci, může být shledáno přípustným jen při splnění předpokladů uvedených v § 237 odst. 1 písm. c) o. s. ř., tedy pokud dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam. Rozhodnutí odvolacího soudu má podle § 237 odst. 3 o. s. ř. po právní stránce zásadní význam zejména tehdy, řeší-li právní otázku, která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo která je soudy rozhodována rozdílně, nebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak; k okolnostem uplatněným dovolacími důvody podle § 241a odst. 2 písm. a) a § 241a odst. 3 se nepřihlíží.
+Přípustným však podle uvedeného ustanovení není, neboť dovolateli vznesené námitky nemohou založit zásadní právní význam napadeného rozhodnutí.
+Podstatou dovolání druhého žalovaného ze dne 16. 6. 2010 je polemika se závěry znaleckého posudku zpracovaného Ing. Čiperou, dle kterého obvyklé roční nájemné za metr čtvereční pozemku užívaného bez právního důvodu žalovanými činí 2 300,- Kč. Dovolatel nesouhlasí s výší obvyklého nájemného, ke které znalec dospěl, což odůvodňuje především tím, že v Plzni neexistuje relevantní trh s nájmy. Ve skutečnosti tedy dovolatel napadá rozsudek odvolacího soudu v otázce skutkového zjištění týkajícího se výše obvyklého nájmu, nikoliv pro samotné právní posouzení věci, přičemž opomíjí, že přípustnost dovolání podle § 237 odst. 1 písm. c) o.s.ř. může být založena výhradně dovolacím důvodem podle § 241a odst. 2 písm. b), tj. pokud rozhodnutí spočívá na nesprávném právním posouzením věci, a že je vyloučeno, aby přípustnosti dovolání mohla být založena uplatněním dovolacího důvodu mířícího proti skutkovým zjištěním (§ 241a odst. 3 o. s. ř.).
+Žalobce se k dovolání nevyjádřil.
+Z důvodů shora uvedených dovolací soud dospěl k závěru o nepřípustnosti dovolání. Vycházeje z toho, že obsah rozsudků soudů obou stupňů i obsah dovolání žalovaného jsou účastníkům známy a jsou součástí procesního spisu vedeného soudem prvního stupně, dovolání podle § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení je dán tím, že žalobci prokazatelné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 20. ledna 2011
+JUDr. Iva B r o ž o v á, v. r.
+předsedkyně senátu
