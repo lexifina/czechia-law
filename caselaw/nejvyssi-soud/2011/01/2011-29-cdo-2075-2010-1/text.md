@@ -1,0 +1,16 @@
+29 Cdo 2075/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudců JUDr. Zdeňka Krčmáře a Mgr. Jiřího Zavázala v právní věci žalobkyně ČSOB Factoring, a. s., se sídlem v Praze 10, Vinohradech, Benešovská 2538/40, PSČ 101 00, identifikační číslo osoby 45 79 42 78, zastoupené Mgr. Nadeždou Priečinskou, advokátkou, se sídlem v Praze 5, Zborovská 49, PSČ 150 00, proti žalované Ing. J. R., narozené 4. září 1957, bytem v Praze 4, Petržílkova 3295/3, zastoupené JUDr. Lukášem Kuboněm, advokátem, se sídlem v Chotči 64, PSČ 252 26, o žalobě žalované na obnovu řízení, vedené u Městského soudu v Praze pod
+sp. zn. 30 Cm 40/2006, o dovolání žalobkyně proti usnesení Vrchního soudu v Praze ze dne 2. března 2010, č. j. 5 Cmo 346/2007-77, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Vrchní soud v Praze k odvolání žalované usnesením ze dne 2. března 2010, č. j. 5 Cmo 346/2007-77, potvrdil usnesení ze dne 1. března 2007, č. j. 30 Cm 40/2006-14, jímž Městský soud v Praze zamítl návrh žalované na obnovu řízení vedeného u Městského soudu v Praze pod sp. zn. 30 Sm 217/2005. Učinil tak poté, co jeho předchozí usnesení ze dne 2. října 2007, č. j. 5 Cmo 346/2007-34, jímž rozhodnutí soudu prvního stupně změnil tak, že „obnovu řízení povolil“, Nejvyšší soud usnesením ze dne 19. září 2009, č. j. 29 Cdo 1227/2008-61, zrušil a věc vrátil odvolacímu soudu k dalšímu řízení.
+Dovolání žalované proti tentokrát potvrzujícímu usnesení odvolacího soudu, které není přípustné podle ustanovení § 238 odst. 1 písm. a) a odst. 2, ve spojení s ustanovením § 237 odst. 1 písm. a) a b) zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), Nejvyšší soud neshledal přípustným ani podle ustanovení § 238 odst. 1 písm. a) a odst. 2, ve spojení s ustanovením § 237 odst. 1 písm. c) o. s. ř.; proto je podle ustanovení § 243b odst. 5 a § 218 písm. c) o. s. ř. odmítl.
+Učinil tak proto, že zcela setrvává na závěru formulovaném ve výše uvedeném kasačním usnesení ze dne 19. září 2009, sp. zn. 29 Cdo 1227/2008, k němuž se posléze přihlásil i v usnesení ze dne 24. února 2010, sp. zn. 29 Cdo 4231/2009 a ze dne
+24. února 2010, sp. zn. 29 Cdo 2043/2008, a podle něhož soud prvního stupně sice pochybil, rozhodl-li ve věci směnečným platebním rozkazem, aniž byly splněny předpoklady pro jeho vydání (rozuměj aniž žalobkyně doložila prvopis směnky), nicméně nebyl splněn předpoklad, podle něhož žalovaná nemohla zmíněnou skutečnost bez své viny v původním řízení použít [srov. ustanovení § 228 odst. 1 písm. a) o. s. ř. ve spojení s ustanovením § 175 odst. 1 o. s. ř. a ustanovením § 173 odst. 1 Instrukce č. 505/2001-Org., Ministerstva spravedlnosti, kterou se vydává vnitřní a kancelářský řád pro okresní, krajské a vrchní soudy].
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalované bylo odmítnuto a žalobkyni podle obsahu spisu v dovolacím řízení náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 20. ledna 2011
+JUDr. Petr G e m m e l
+předseda senátu
