@@ -1,0 +1,27 @@
+29 Cdo 785/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Zdeňka Krčmáře a soudců Mgr. Filipa Cilečka a Mgr. Jiřího Zavázala v právní věci žalobkyně BAZEMA AG, se sídlem v Montlingenu, Postfach 68, CH-9462, Švýcarská konfederace, zastoupené JUDr. Vladislavem Kusalou, advokátem, se sídlem v Hradci Králové, Gočárova třída 1105/36, PSČ 500 02, proti žalovaným 1/ A&CE Audit, s. r. o., se sídlem v Brně, Ptašínského 4, PSČ 602 00, identifikační číslo osoby 41 60 14 16, 2/ A&CE Consulting, s. r. o., se sídlem v Brně, Ptašínského 307/4, PSČ 602 00, identifikační číslo osoby 44 11 90 97, 3/ A&CE Global Finance, a. s., se sídlem v Brně, Ptašínského 4, PSČ 602 00, identifikační číslo osoby 26 25 75 30, a 4/ JUDr. J. O., jako správci konkursní podstaty úpadkyně TEXLEN, a. s., identifikační číslo osoby 15 03 70 45, zastoupenému JUDr. Kamilem Podroužkem, advokátem, se sídlem v Hradci Králové, Fráni Šrámka 1139, PSČ 500 02, o určení pravosti pohledávky, vedené u Krajského soudu v Hradci Králové pod sp. zn. 40 Cm 74/2007, o dovolání žalobkyně proti rozsudku Vrchního soudu v Praze ze dne 1. října 2009, č. j. 15 Cmo 116/2009-61, takto:
+I. Dovolání se odmítá.
+II. Ve vztahu mezi žalobkyní a první, druhou a třetí žalovanou nemá žádný z účastníků právo na náhradu nákladů dovolacího řízení.
+III. Žalobkyně je povinna zaplatit čtvrtému žalovanému na náhradu nákladů dovolacího řízení částku 3.060,- Kč, do tří dnů od právní moci tohoto usnesení, k rukám zástupce čtvrtého žalovaného.
+O d ů v o d n ě n í:
+Vrchní soud v Praze v záhlaví označeným rozsudkem potvrdil výrok I. rozsudku
+ze dne 4. března 2009, č. j. 40 Cm 74/2007-41, kterým Krajský soud v Hradci Králové zamítl žalobu o určení pravosti pohledávky ve výši 5,012.193,65 Kč (výrok první), změnil výroky II. a III. tohoto rozsudku, jimiž soud prvního stupně rozhodl o náhradě nákladů řízení
+(výrok druhý a třetí), a rozhodl o nákladech odvolacího řízení (výrok čtvrtý).
+Žalobkyně napadla rozhodnutí odvolacího soudu v celém rozsahu dovoláním, opírajíc jeho přípustnost o ustanovení § 237 odst. 1 písm. c/ zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), uplatňujíc dovolací důvod dle § 241a odst. 2 písm. b/
+o. s. ř. a navrhujíc, aby rozhodnutí odvolacího soudu bylo zrušeno a věc byla vrácena tomuto soudu k dalšímu řízení.
+Dovolání žalobkyně Nejvyšší soud podle ustanovení § 243b odst. 5 a § 218
+písm. c/ o. s. ř. odmítl.
+V rozsahu, ve kterém dovolání směřuje i proti výroku druhému a třetímu napadeného rozsudku, jimiž odvolací soud změnil rozsudek soudu prvního stupně ve výrocích o nákladech řízení, a proti čtvrtému výroku rozsudku o nákladech odvolacího řízení, je objektivně nepřípustné (srov. k tomu i usnesení Nejvyššího soudu uveřejněné pod číslem 4/2003 Sbírky soudních rozhodnutí a stanovisek).
+Dovolání proti potvrzujícímu výroku rozsudku odvolacího soudu ve věci samé může být přípustné pouze podle ustanovení § 237 odst. 1 písm. c/ o. s. ř. (o situaci předvídanou v ustanovení § 237 odst. 1 písm. b/ o. s. ř. nejde), tedy tak, že dovolací soud - jsa přitom vázán uplatněnými dovolacími důvody včetně jejich obsahového vymezení (§ 242 odst. 3 o. s. ř.) - dospěje k závěru, že napadené rozhodnutí má po právní stránce zásadní význam. Dovolatelka přitom Nejvyššímu soudu žádné otázky, z nichž by bylo možno usuzovat na zásadní právní význam napadeného rozhodnutí, k řešení nepředkládá.
+Závěr, podle něhož je lhůta k podání žaloby o určení pravosti, výše nebo pořadí nevykonatelné pohledávky dle § 23 odst. 4 zákona č. 328/1991 Sb., o konkursu a vyrovnání, lhůtou hmotněprávní, a pro její zachování je tudíž nezbytné, aby byla žaloba nejpozději posledního dne lhůty doručena soudu, vyplývá z konstantní judikatury Nejvyššího soudu, zejména z rozsudku Nejvyššího soudu ze dne 26. září 2001, sp. zn. 29 Cdo 2226/99, uveřejněného pod číslem 44/2002 Sbírky soudních rozhodnutí a stanovisek, z jehož závěrů vyšel Nejvyšší soud např. i v usnesení uveřejněném pod číslem 37/2003 Sbírky soudních rozhodnutí a stanovisek nebo v usneseních ze dne 19. července 2006,
+sp. zn. 29 Odo 920/2005, či ze dne 15. srpna 2007, sp. zn. 29 Cdo 2834/2007, která jsou veřejnosti k dispozici na webových stránkách Nejvyššího soudu; o otázku zásadního právního významu proto nejde.
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5,
+§ 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalobkyně bylo odmítnuto a žalovaným vzniklo právo na náhradu nákladů dovolacího řízení. Z obsahu spisu vyplývá, že náklady dovolacího řízení vznikly pouze čtvrtému žalovanému. Ty sestávají z odměny advokáta
+za řízení v jednom stupni (dovolací řízení) určené podle ustanovení § 8, § 10 odst. 3, § 14 odst. 1, § 15 a § 18 odst. 1 vyhlášky č. 484/2000 Sb. ve výši 2.250,- Kč a z paušální částky náhrady hotových výdajů ve výši 300,- Kč za jeden úkon právní služby (vyjádření k dovolání) podle ustanovení § 13 odst. 3 vyhlášky č. 177/1996 Sb. Náhrada nákladů za dovolací řízení tedy s připočtením náhrady za 20% daň z přidané hodnoty ve výši 510,- Kč celkem činí 3.060,- Kč.
+Rozhodné znění občanského soudního řádu (do 31. prosince 2007) plyne z § 432
+odst. 1, § 433 bodu 1. a § 434 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenčního zákona).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 20. ledna 2011
+JUDr. Zdeněk K r č m á ř
+předseda senátu
