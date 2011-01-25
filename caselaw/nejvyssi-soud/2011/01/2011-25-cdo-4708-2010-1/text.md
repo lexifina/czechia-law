@@ -1,0 +1,21 @@
+25 Cdo 4708/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Roberta Waltra a soudců JUDr. Marty Škárové a JUDr. Petra Vojtka ve věci žalobce: P. P., proti žalovaným: 1) Česká republika – Ministerstvo spravedlnosti, se sídlem v Praze 2, Vyšehradská 16, 2) Z. D., soudce Obvodního soudu pro Prahu 2, se sídlem v Praze 2, Francouzská 19, 3) I. Z., soudkyně Městského soudu v Praze, se sídlem v Praze 2, Spálená 2, 4) V. S., soudce Městského soudu v Praze, se sídlem v Praze 2, Spálená 2, 5) E. Š., soudkyně Městského soudu v Praze, se sídlem v Praze 2, Spálená 2, o 5.000.000,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 10 C 248/2008, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 26. 4. 2010, č.j. 28 Co 196/2010-126, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 2 usnesením ze dne 18. 3. 2010, č.j. 10 C 248/2008-116, odmítl návrh, jímž se žalobce domáhal náhrady škody ve výši 5.000.000,- Kč, a rozhodl o náhradě nákladů řízení.
+K odvolání žalobce Městský soud v Praze usnesením ze dne 26. 4. 2010, č.j. 28 Co 196/2010-126, usnesení soudu prvního stupně potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Proti rozhodnutí odvolacího soudu podal žalobce dovolání s odůvodněním, že žaloba nevykazovala žádné vady, věc byla nesprávně právně posouzena a že usnesení odvolacího soudu je zmatečné.
+Nejvyšší soud jako soud dovolací (§ 10a o. s. ř.) dospěl k závěru, že nejsou splněny podmínky dovolacího řízení.
+Podle ustanovení § 241 odst. 1, věty první, o. s. ř., není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem.
+Podle ustanovení § 241 odst. 2 o. s. ř. odstavec 1 neplatí, a) je-li dovolatelem fyzická osoba, která má právnické vzdělání, b) je-li dovolatelem právnická osoba, stát, obec nebo vyšší územně samosprávný celek, jedná-li za ně osoba uvedená v § 21, 21a, anebo v § 21b, která má právnické vzdělání.
+Podle ustanovení § 241 odst. 4 o. s. ř. dovolání musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem, notářem nebo osobou uvedenou v § 21, 21a, 21b, anebo v § 26a odst. 3, která má právnické vzdělání.
+Pro podání dovolání, které je mimořádným opravným prostředkem, zákon stanoví požadavek, aby účastník řízení, který podává dovolání, měl buď sám právnické vzdělání, nebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc a dovolání bylo touto osobou sepsáno. Ustanovení § 241 o. s. ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění nelze o dovolání rozhodovat.
+V dané věci žalobce podal dovolání, aniž by byl při tomto úkonu zastoupen advokátem, a nebylo prokázáno (ani tvrzeno), že by sám měl právnické vzdělání. Jeho žádosti o ustanovení zástupce pro dovolací řízení nebylo vyhověno (usnesení Obvodního soudu pro Prahu 2 ze dne 12. 8. 2010, č.j. 10 C 248/2008-137). Usnesením Obvodního soudu pro Prahu 2 ze dne 4. 10. 2010, č.j. 10 C 248/2008-139, jehož stejnopis byl žalobci doručen vyvěšením dne 25. 10. 2010, byl žalobce vyzván, aby si ve lhůtě 10 dní od doručení tohoto usnesení zvolil právního zástupce – advokáta, a předložil jím doplněné dovolání s poučením, že pokud tak neučiní, bude dovolací řízení zastaveno. Žalobce si však v takto určené lhůtě ani dodatečně advokáta pro dovolací řízení nezvolil.
+Vzhledem k tomu, že žalobce nedostatek povinného zastoupení ani dodatečně neodstranil, ačkoliv byl poučen o povinném právním zastoupení v dovolacím řízení i o důsledcích nesplnění této podmínky, Nejvyšší soud řízení o dovolání žalobce podle § 243c odst. 1 a § 104 odst. 2, věty třetí, o. s. ř. zastavil, aniž se zabýval otázkou dalších náležitostí podaného dovolání.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, věty první, § 224 odst. 1 a § 146 odst. 2, věty první, o. s. ř., když žalobce nemá na náhradu nákladů dovolacího řízení právo a žalovaným náklady v dovolacím řízení nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. ledna 2011
+JUDr. Robert Waltr, v. r.
+předseda senátu
