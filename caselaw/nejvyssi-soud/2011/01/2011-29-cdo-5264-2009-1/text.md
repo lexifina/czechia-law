@@ -1,0 +1,24 @@
+29 Cdo 5264/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Petra Šuka a soudců Mgr. Filipa Cilečka a doc. JUDr. Ivany Štenglové v právní věci navrhovatelů a/ F. V., a b/ V. V., obou zastoupených JUDr. Miroslavem Muchnou, advokátem, se sídlem v Klatovech 1, Vídeňská 181, PSČ 339 01, za účasti Monos Plzeň, státního podniku – v likvidaci, naposledy se sídlem v Plzni, Částkova 73, identifikační číslo osoby 00 17 29 52, o návrhu na zrušení zápisu o výmazu státního podniku z obchodního rejstříku, vedené u Krajského soudu v Plzni pod sp. zn. 41 Cm 7/2002, o dovolání navrhovatelů proti usnesení Vrchního soudu v Praze ze dne 27. května 2008, č. j. 14 Cmo 300/2007-88, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Vrchní soud v Praze v záhlaví označeným usnesením potvrdil usnesení ze dne
+19. dubna 2007, č. j. 41 Cm 7/2002-63, kterým Krajský soud v Plzni zamítl návrh na zrušení zápisu o výmazu státního podniku Monos Plzeň, státní podnik - v likvidaci (dále jen „státní podnik“) z obchodního rejstříku a obnovení jeho likvidace, a rozhodl o nákladech odvolacího řízení.
+Navrhovatelé napadli rozhodnutí odvolacího soudu v celém rozsahu dovoláním, opírajíce jeho přípustnost o ustanovení § 237 odst. 1 písm. c/ zákona č. 99/1963 Sb., občanského soudního řádu (dále též jen „o. s. ř.“), uplatňujíce dovolací důvod dle § 241a odst. 2 písm. b/ o. s. ř. a navrhujíce, aby rozhodnutí soudů obou stupňů byla zrušena a věc byla vrácena soudu prvního stupně k dalšímu řízení.
+Rozhodné znění občanského soudního řádu (do 30. června 2009) se podává z bodu 12., části první, článku II. zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony.
+Dovolání navrhovatelů Nejvyšší soud podle ustanovení § 243b odst. 5 a § 218 písm. c/ o. s. ř. odmítl jako nepřípustné.
+V rozsahu, ve kterém dovolání směřuje proti té části výroku napadeného usnesení, jíž odvolací soud rozhodl o nákladech odvolacího řízení, je objektivně nepřípustné (srov. k tomu i usnesení Nejvyššího soudu uveřejněné pod číslem 4/2003 Sbírky soudních rozhodnutí a stanovisek).
+Dovolání proti potvrzujícímu výroku usnesení odvolacího soudu ve věci samé může být přípustné pouze podle ustanovení § 237 odst. 1 písm. c/ o. s. ř. (o situaci předvídanou v ustanovení § 237 odst. 1 písm. b/ o. s. ř. nejde), tedy tak, že dovolací soud - jsa přitom vázán uplatněnými dovolacími důvody včetně jejich obsahového vymezení (§ 242 odst. 3 o. s. ř.) - dospěje k závěru, že napadené rozhodnutí má po právní stránce zásadní význam. Dovolatelé přitom Nejvyššímu soudu žádné otázky, z nichž by bylo možno usuzovat na zásadní právní význam napadeného rozhodnutí, k řešení nepředkládají.
+Z obsahu spisu je zřejmé, že dovolatelé svůj návrh na zrušení zápisu o výmazu státního podniku z obchodního rejstříku odůvodňují tím, že od roku 2003 vedou se státním podnikem soudní spor o „vydání“ několika pozemků v katastrálním území Špičák, jež mají představovat dosud neznámý majetek ve smyslu § 75b odst. 2 zákona č. 513/1991 Sb., obchodního zákoníku (dále jen „obch. zák.“).
+Nejvyšší soud přitom již v usnesení ze dne 27. ledna 2009, sp. zn. 29 Cdo 1664/2007, formuloval a odůvodnil závěr, podle něhož majetek, o který společnost vymazaná z obchodního rejstříku v době výmazu vedla spor, za dosud neznámý majetek ve smyslu § 75b odst. 2 obch. zák. zásadně považovat nelze. K tomuto závěru se pak přihlásil i v usnesení ze dne 24. listopadu 2009, sp. zn. 29 Cdo 5033/2008 (obě rozhodnutí jsou veřejnosti dostupná na webových stránkách Nejvyššího soudu).
+Z uvedeného je zřejmé, že posouzení otázek, zda lze ustanovení § 75b odst. 2 obch. zák. vůbec aplikovat na státní podnik a zda věřitelem ve smyslu § 75b odst. 2 obch. zák. může být taktéž restituent, který řádně uplatnil svůj restituční nárok, avšak nebylo o něm dosud pravomocně rozhodnuto, se v poměrech dovolatelů nemůže projevit, neboť majetek, pro jehož „zjištění“ se domáhají zrušení zápisu o výmazu státního podniku z obchodního rejstříku, není dosud neznámým majetkem ve smyslu § 75b odst. 2 obch. zák.
+Ani v případě akceptace názoru dovolatelů by tudíž jejich návrhu nemohlo být vyhověno. Posouzení otázek předkládaných dovolateli tak napadené usnesení zásadně právně významným nečiní (srov. usnesení Nejvyššího soudu uveřejněná ve Sbírce soudních rozhodnutí a stanovisek pod číslem 27/2001 a 48/2006).
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5,
+§ 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání navrhovatelů bylo odmítnuto
+a ostatním účastníkům podle obsahu spisu v dovolacím řízení náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. ledna 2011
+JUDr. Petr Š u k
+předseda senátu
