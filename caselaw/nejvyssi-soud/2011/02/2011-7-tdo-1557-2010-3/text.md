@@ -1,0 +1,12 @@
+7 Tdo 1557/2010-II.
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v neveřejném zasedání dne 9. února 2011 v trestní věci obviněného M. B., proti usnesení Krajského soudu v Ostravě ze dne 23. 6. 2010, sp. zn. 6 To 351/2010, který rozhodl jako soud odvolací v trestní věci vedené u Okresního soudu v Opavě pod sp. zn. 27 T 36/2010 t a k t o :
+Podle § 265l odst. 4 tr. ř. se obviněný M. B. nebere do vazby.
+O d ů v o d n ě n í :
+Rozsudkem Okresního soudu v Opavě ze dne 4. 5. 2010, sp. zn. 27 T 36/2010, byl obviněný M. B. (dále jen „obviněný“) uznán vinným přečinem nedovolené výroby a jiného nakládání s omamnými a psychotropními látkami a s jedy podle § 283 odst. 1 tr. zákoníku a pomocí ke zločinu nedovolené výroby a jiného nakládání s omamnými a psychotropními látkami a s jedy podle § 24 odst. 1 písm. c) tr. zákoníku, § 283 odst. 1, 2 písm. c) tr. zákoníku a za tyto trestné činy byl odsouzen podle § 283 odst. 2 tr. zákoníku a § 43 odst. 1 tr. zákoníku k úhrnnému trestu odnětí svobody v trvání dvou roků a šesti měsíců. Podle § 56 odst. 2 písm. b) tr. zákoníku byl pro výkon trestu zařazen do věznice s dozorem. Odvolání obviněného proti tomuto rozsudku bylo usnesením Krajského soudu v Ostravě ze dne 23. 6. 2010, sp. zn. 6 To 351/2010, podle § 253 odst. 1 tr. ř. zamítnuto, neboť bylo podáno opožděně.
+Usnesením Nejvyššího soudu České republiky ze dne 9. 2. 2011, sp. zn. 7 Tdo 1557/2010-I., bylo podle § 265k odst. 1 tr. ř. zrušeno usnesení Krajského soudu v Ostravě ze dne 23. 6. 2010, sp. zn. 6 To 351/2010. Podle § 265k odst. 2 tr. ř. byla zrušena také další rozhodnutí na zrušené rozhodnutí obsahově navazující, pokud vzhledem ke změně, k níž došlo zrušením, pozbyla podkladu. Podle § 265l odst. 1 tr. ř. Nejvyšší soud České republiky přikázal Krajskému soudu v Ostravě, aby věc v potřebném rozsahu znovu projednal a rozhodl. V důsledku tohoto rozhodnutí není výše uvedený rozsudek ve výroku o trestu v právní moci a další výkon trestu odnětí svobody je nepřípustný.
+Obviněný M. B. vykonává trest odnětí svobody ve Věznici v P. Podle § 265l odst. 4 tr. ř. vykonává-li se na obviněném trest odnětí svobody uložený mu původním rozsudkem a Nejvyšší soud k dovolání výrok o tomto trestu zruší, rozhodne zároveň o vazbě. Při posouzení, zda jsou u obviněného dány důvody vazby podle § 67 písm. a) až c) tr. ř. Nejvyšší soud neshledal žádné důvody vazby, proto rozhodl tak, že obviněný M. B. se nebere do vazby.
+P o u č e n í : Proti tomuto rozhodnutí není stížnost přípustná.
+V Brně dne 9. února 2011
+Předseda senátu
+JUDr. Jindřich Urbánek
