@@ -1,0 +1,18 @@
+20 Cdo 3539/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové a soudců JUDr. Pavla Krbka a JUDr. Vladimíra Mikuška ve věci výkonu rozhodnutí oprávněné CIDEM Hranice, a. s., se sídlem v Hranicích, Skalní 1088, identifikační číslo 146 17 081, proti povinnému M. B., zastoupenému JUDr. Janou Bambasovou, advokátkou se sídlem v Hranicích, Teplická 33, pro 44.916,- Kč s příslušenstvím, srážkami ze mzdy, vedené u Okresního soudu v Přerově pod sp. zn. 19 E 958/2001, o dovolání povinného proti usnesení Krajského soudu v Ostravě – pobočky v Olomouci ze dne 19. 12. 2008, č. j. 40 Co 1219/2008-147, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud napadeným rozhodnutím k odvolání povinného potvrdil usnesení ze dne 10. 11. 2008, č. j. 9 E 958/2001-142, v napadené části výroku odst. II. a III., v nichž okresní soud zamítl návrh povinného na zastavení výkonu rozhodnutí a nepřiznal žádnému z účastníků právo na náhradu nákladů řízení o zastavení výkonu rozhodnutí. Krajský soud taktéž žádnému z účastníků nepřiznal právo na náhradu nákladů odvolacího řízení.
+Povinný napadl rozhodnutí krajského soudu dovoláním, v němž současně požádal o přidělení právního zástupce. Proto mu byla usnesením krajského soudu ze dne 28. 1. 2010, č. j. 40 Co 84/2010-197, jež nabylo právní moci 11. 3. 2010, k ochraně jeho zájmů ustanovena advokátka JUDr. Jana Bambasová.
+Podle § 241b odst. 3 zákona č. 99/1963 Sb., občanský soud řád, ve znění pozdějších předpisů (dále též jen „o. s. ř.“), dovolání, které neobsahuje údaje o tom, v jakém rozsahu nebo z jakých důvodů se rozhodnutí odvolacího soudu napadá, může být o tyto náležitosti doplněno jen po dobu trvání lhůty k dovolání. Nebyla-li v době podání dovolání splněna podmínka uvedená v § 241 o. s. ř., běží tato lhůta až do uplynutí lhůty, která byla dovolateli určena ke splnění této podmínky; požádá-li však dovolatel před uplynutím lhůty o ustanovení zástupce (§ 30 o. s. ř.), běží lhůta podle věty první znovu až od právní moci usnesení, kterým bylo o této žádosti rozhodnuto.
+Podle § 241a odst. 1 o. s. ř. v dovolání musí být vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu a z jakých důvodů se toto rozhodnutí napadá, popřípadě které důkazy by měly být provedeny k prokázání důvodu dovolání a čeho se dovolatel domáhá (dovolací návrh).
+Z uvedených ustanovení Nejvyšší soud již v několika rozhodnutích dovodil, že dovolání, které nebylo o uvedené náležitosti doplněno v propadné (prekluzívní) lhůtě určené ustanovením § 241b odst. 3 o. s. ř., bude dovolacím soudem odmítnuto podle § 43 odst. 2 o. s. ř. (srov. usnesení Nejvyššího soudu z 18. 6. 2003, sp. zn. 29 Odo 108/2002, publikované pod č. 21/2004 Sbírky soudních rozhodnutí a stanovisek, nebo usnesení Nejvyššího soudu z 27. 1. 2005, sp. zn. 29 Odo 1060/2003).
+Soudem ustanovená advokátka doplnila dovolání povinného až podáním ze dne 21. 7. 2010, ačkoliv lhůta k jeho doplnění uplynula dnem 11. 5. 2010.
+Vzhledem k uvedenému Nejvyšší soud podle ustanovení § 43 odst. 2 ve spojení s § 243c odst. 1 o. s. ř. dovolání odmítl.
+Povinný se svým dovoláním úspěšný nebyl, oprávněné náklady v dovolacím řízení (podle obsahu spisu) nevznikly. Tomu odpovídá výrok, že žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení (§243b odst. 5 věta první, § 224 odst. 1, § 146 odst. 3 o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 21. února 2011
+JUDr. Miroslava Jirmanová, v. r.
+předsedkyně senátu
