@@ -1,0 +1,19 @@
+28 Cdo 4106/2010
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy JUDr. Ludvíka Davida, CSc., a soudců JUDr. Josefa Rakovského a JUDr. Jana Eliáše, Ph.D., v právní věci žalobce Mgr. V. B., adresou pro doručování: Bystřice, K Líšnu 232, proti žalované České republice – Ministerstvu spravedlnosti ČR, se sídlem v Praze 2, Vyšehradská 16, o zrušení soudních rozhodnutí, vedené u Okresního soudu v Benešově pod sp. zn. 6 C 74/2006, o dovolání žalobce proti usnesení Krajského soudu v Praze ze dne 17. 2. 2009, č. j. 27 Co 10/2009-90, takto:
+I. Dovolání se zamítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů řízení o dovolání.
+O d ů v o d n ě n í :
+Usnesením Krajského soudu v Praze shora označeným byl v celém rozsahu zrušen rozsudek soudu prvního stupně ze dne 16. 11. 2007, č.j. 6 C 74/2006-61 (kterým byla ve výroku I. předmětná žaloba zamítnuta), a řízení o žalobě na zrušení rozsudku Okresního soudu v Benešově ze dne 8. 9. 1998, č.j. 4 C 229/98-19, usnesení Krajského soudu v Praze, sp. zn. 29 Co 412/98, rozsudku Okresního soudu v Benešově ze dne 28. 6. 2002, č.j. 4 C 229/98-120, ve spojení s rozsudkem Krajského soudu v Praze ze dne 4. 2. 2004, č.j. 29 Co 744/2003-231, bylo zastaveno (výrok I.). Odvolacím soudem nebylo žádnému z účastníků přiznáno právo na náhradu nákladů řízení před soudem prvního stupně, jakož i před soudem odvolacím (výrok II.).
+Proti usnesení odvolacího soudu podal žalobce dovolání. Právní otázku zásadního významu v dovolání nevymezil. Dovolatel žádal, aby dovolací soud zrušil usnesení odvolacího soudu a věc vrátil tomuto soudu k dalšímu řízení, a současně odvolací instanci nařídil, aby tato zrušila rozsudek soudu prvního stupně a věc mu přikázala k novému rozhodnutí.
+Vyjádření k dovolání nebylo podáno.
+Nejvyšší soud zjistil, že žalobce (jakožto osoba s právnickým vzděláním) podal dovolání v zákonné lhůtě (§ 240 odst. 1, § 241 odst. 2 písm. a) o. s. ř.). Žalobce dovozoval přípustnost dovolání z ustanovení § 239 odst. 1 písm. a) o. s. ř. a dovolací důvody, které by dovolací soud přezkoumal v případě přípustnosti dovolání, byly uplatněny podle § 241a odst. 2 písm. a) o. s. ř., tedy pro vadu, jež mohla mít za následek nesprávné rozhodnutí ve věci, a dále ve smyslu ustanovení § 241a odst. 2 písm. b) o. s. ř., tj. pro tvrzené nesprávné právní posouzení věci.
+Přípustnost dovolání podle § 239 odst. 1 písm. a) o. s. ř., tj. proti usnesení odvolacího soudu, kterým bylo rozhodnutí soudu prvního stupně zrušeno a řízení zastaveno, je dána.
+Dovolání však není důvodné.
+V dané věci se žalobce domáhal zrušení jím specifikovaných pravomocných (překážka rei iudicatae) soudních rozhodnutí, avšak nikoli cestou řádných či mimořádných opravných prostředků proti nim směřujících, nýbrž v rámci samostatného občanského soudního řízení. Odvolací soud tudíž s ohledem na skutečnost, že ke zrušení rozhodnutí může dojít pouze na základě zákonem vymezených procesních institutů, správně dovodil, že v takovém případě nebyla na straně nižších instancí ve smyslu ustanovení § 7 o. s. ř. dána pro předmětné řízení pravomoc. Jelikož je tuto okolnost nutno kvalifikovat jakožto neodstranitelný nedostatek podmínky řízení, nezbylo odvolací instanci, než rozsudek soudu prvního stupně podle ustanovení § 219a odst. 1 písm. a) o. s. ř. zrušit a na základě ustanovení § 221 odst. 1 písm. c) pak řízení zastavit (ve spojení s aplikací § 104 odst. 1 o. s. ř.).
+Ze všech výše uvedených důvodů proto dovolací soud podle § 243b odst. 2 věty před středníkem o. s. ř. dovolání žalobce zamítl.
+O nákladech řízení bylo rozhodnuto podle § 243b odst. 5 o. s. ř., a to tak, že žádný z účastníků nemá na jejich náhradu nárok, neboť žalobce nebyl v dovolacím řízení úspěšný a žalované v tomto řízení žádné prokazatelné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 23. února 2011
+JUDr. Ludvík D a v i d, CSc., v. r.
+předseda senátu
