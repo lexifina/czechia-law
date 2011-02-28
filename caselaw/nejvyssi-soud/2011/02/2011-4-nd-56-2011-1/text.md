@@ -1,0 +1,17 @@
+4 Nd 56/2011-37
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Danuše Novotné a soudců JUDr. Františka Hrabce a JUDr. Jiřího Pácala v právní věci žalobce J. B., zastoupeného Mgr. Alešem Čápem, advokátem se sídlem Divadelní 8, Jihlava, proti žalovaným Ing. J. B. a L. B., zastoupeným Mgr. Pavlem Dvořákem, advokátem se sídlem Strojírenská 2269, Žďár nad Sázavou, o vydání klíčů od nemovitosti, vedené u Okresního soudu v Jihlavě pod sp. zn. 12 C 133/2010, o návrhu na přikázání věci z důvodu vhodnosti podle § 12 odst. 2, 3 o. s. ř., t a k t o :
+Věc vedená u Okresního soudu v Jihlavě pod sp. zn. 12 C 133/2010, s e n e p ř i k a z u j e k projednání a rozhodnutí Okresnímu soudu v Pelhřimově.
+O d ů v o d n ě n í :
+Ve shora označeném řízení podal žalobce návrh na přikázání věci z důvodu vhodnosti Okresnímu soudu v Pelhřimově, aniž by tento návrh odůvodnil. Právní zástupce žalobce sdělil soudu přípisem ze dne 18. 10. 2010, že předmětný návrh učinil žalobce bez konzultace s ním, a že žalobce poučil o nutnosti návrh zdůvodnit. Žalobce přesto na svém podání trvá.
+Žalovaní prostřednictvím svého právního zástupce podáním ze dne 25. 1. 2011 sdělili, že s přikázáním věci Okresnímu soudu v Pelhřimově nesouhlasí, neboť pro to nejsou zákonné důvody.
+Podle ustanovení § 12 odst. 2 o. s. ř. věc může být přikázána jinému soudu téhož stupně z důvodu vhodnosti.
+Podle ustanovení § 12 odst. 3 věty první o. s. ř. o přikázání věci rozhoduje soud, který je nejblíže společně nadřízen příslušnému soudu a soudu, jemuž má být věc přikázána. Podle ustanovení § 12 odst. 3 věty druhé o. s. ř. účastníci mají právo se vyjádřit k tomu, kterému soudu má být věc přikázána, a v případě odstavce 2 též k důvodu, pro který by věc měla být přikázána.
+Nejvyšší soud České republiky jako soud nejblíže společně nadřízený příslušnému soudu a soudu, jemuž má být věc přikázána, návrh na přikázání věci Okresnímu soudu v Pelhřimově projednal a dospěl k závěru, že v posuzovaném případě nejsou splněny zákonné podmínky k tomu, aby věc byla tomuto soudu přikázána.
+Předpokladem přikázání věci jinému soudu z důvodu vhodnosti podle ustanovení § 12 odst. 2 o. s. ř. je především existence okolností, jež umožňují hospodárnější a rychlejší projednání věci. Pokud soud přikáže věci jinému soudu podle ustanovení § 12 odst. 2 o. s. ř., aniž by pro takové rozhodnutí byly splněny podmínky, poruší tím ústavně zaručené právo zakotvené v čl. 38 odst. 1 Listiny základních práv a svobod, podle kterého nikdo nesmí být odňat svému zákonnému soudci a příslušnost soudu a soudce stanoví zákon.
+V posuzovaném případě z dostupného spisového materiálu ani ze samotného návrhu žalobce nikterak nevyplývá, že by přikázání věci Okresnímu soudu v Pelhřimově pozitivně ovlivnilo rychlost a hospodárnost řízení. Žalobce svůj návrh na přikázání věci jinému než místně příslušnému soudu neodůvodnil žádnými skutečnostmi, které by takový návrh činily opodstatněným. V posuzovaném případě je s ohledem na vyjádření žalovaných zjevné, že mezi účastníky nepanuje na otázku opodstatněnosti návrhu na přikázání věci jinému soudu shoda.
+Nejvyšší soud České republiky z výše uvedených důvodů návrhu na přikázání věci Okresnímu soudu v Pelhřimově z důvodu vhodnosti nevyhověl a věc podle ustanovení § 12 odst. 2 o. s. ř. Okresnímu soudu v Pelhřimově nepřikázal.
+P o u č e n í : Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 28. února 2011
+JUDr. Danuše N o v o t n á
+předsedkyně senátu
