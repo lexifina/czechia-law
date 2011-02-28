@@ -1,0 +1,17 @@
+4 Nd 55/2011-27
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Danuše Novotné a soudců JUDr. Františka Hrabce a JUDr. Jiřího Pácala v právní věci žalobkyně Ing. K. Ř., proti žalovanému M. Ř., o stanovení výživného, vedené u Okresního soudu Brno-venkov pod sp. zn. 11 C 20/2011, o návrhu na přikázání věci z důvodu vhodnosti podle § 12 odst. 2, 3 o. s. ř., t a k t o :
+Věc vedená u Okresního soudu Brno-venkov pod sp. zn. 11 C 20/2011 s e n e p ř i k a z u j e k projednání a rozhodnutí Okresnímu soudu v Mělníku.
+O d ů v o d n ě n í :
+Ve shora označeném řízení podala žalobkyně K. Ř. návrh na přikázání věci z důvodu vhodnosti Okresnímu soudu v Mělníku. Návrh odůvodnila svým zdravotním stavem (blíže nespecifikovaným) a svou finanční situací, kdy poté, co jí byl rozhodnutím ČSSZ v květnu 2010 zrušen invalidní důchod, je bez příjmů.
+Žalobce podáním ze dne 14. 10. 2010 vyslovil s návrhem na přikázáním věci Okresnímu soudu v Mělníku svůj nesouhlas. Ve svém písemném vyjádření uvedl, že žalovaná ve svém návrhu neuvedla, zda má nějaký pracovní příjem či zda pobírá podporu v nezaměstnanosti apod. Návrh žalobkyně označil za ryze účelový s tím, že nejsou ani v nejmenším naplněny podmínky pro změnu příslušnosti soudu a proto navrhl návrhu nevyhovět.
+Podle ustanovení § 12 odst. 2 o. s. ř. věc může být přikázána jinému soudu téhož stupně z důvodu vhodnosti.
+Podle ustanovení § 12 odst. 3 věty první o. s. ř. o přikázání věci rozhoduje soud, který je nejblíže společně nadřízen příslušnému soudu a soudu, jemuž má být věc přikázána. Podle ustanovení § 12 odst. 3 věty druhé o. s. ř. účastníci mají právo se vyjádřit k tomu, kterému soudu má být věc přikázána, a v případě odstavce 2 též k důvodu, pro který by věc měla být přikázána.
+Nejvyšší soud České republiky jako soud nejblíže společně nadřízený příslušnému soudu a soudu, jemuž má být věc přikázána, návrh na přikázání věci Okresnímu soudu v Mělníku projednal a dospěl k závěru, že v posuzovaném případě nejsou splněny zákonné podmínky k tomu, aby věc byla tomuto soudu přikázána.
+Předpokladem přikázání věci jinému soudu z důvodu vhodnosti podle ustanovení § 12 odst. 2 o. s. ř. je především existence okolností, jež umožňují hospodárnější a rychlejší projednání věci. Pokud soud přikáže věci jinému soudu podle ustanovení § 12 odst. 2 o. s. ř., aniž by pro takové rozhodnutí byly splněny podmínky, poruší tím ústavně zaručené právo zakotvené v čl. 38 odst. 1 Listiny základních práv a svobod, podle kterého nikdo nesmí být odňat svému zákonnému soudci a příslušnost soudu a soudce stanoví zákon.
+V posuzovaném případě z dostupného spisového materiálu ani ze samotného návrhu žalobkyně nikterak nevyplývá, že by přikázání věci Okresnímu soudu v Mělníku pozitivně ovlivnilo rychlost a hospodárnost řízení. Důvody, kterými byl návrh na přikázání věci Okresnímu soudu v Mělníku odůvodněn, považuje Nejvyšší soud za zcela nedostatečné. V posuzovaném případě je s ohledem na vyjádření žalovaného zjevné, že mezi účastníky nepanuje na otázku opodstatněnosti návrhu na přikázání věci jinému soudu shoda.
+Nejvyšší soud České republiky z výše uvedených důvodů návrhu na přikázání věci Okresnímu soudu v Mělníku z důvodu vhodnosti nevyhověl a věc podle ustanovení § 12 odst. 2 o. s. ř. Okresnímu soudu v Mělníku nepřikázal.
+P o u č e n í : Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 28. února 2011
+Předsedkyně senátu:
+JUDr. Danuše N o v o t n á
