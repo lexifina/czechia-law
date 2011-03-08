@@ -1,0 +1,17 @@
+32 Cdo 4984/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Pavla Příhody a JUDr. Hany Gajdziokové v právní věci žalobkyně PEDOTHERM Moravia spol. s r. o., se sídlem v Ostravě - Porubě, Studentská 1772/4, PSČ 708 00, identifikační číslo osoby 46578676, zastoupené JUDr. Romanem Nováčkem, advokátem se sídlem v Ostravě, Sokolská třída 1758/4, proti žalované PEDOTHERM MORAVIA I, spol. s r.o., se sídlem v Brně, Poděbradova 4, PSČ 612 00, identifikační číslo osoby 48911496, zastoupené JUDr. Pavlem Fojtou, advokátem se sídlem v Brně, Drobného 34, o zaplacení 51 168 Kč s příslušenstvím, vedené u Městského soudu v Brně pod sp. zn. 45 C 132/2007, o dovolání žalované proti rozsudku Krajského soudu v Brně ze dne 12. srpna 2010, č. j. 27 Co 148/2009-103, takto:
+I. Dovolání se odmítá.
+II. Žalovaná je povinen zaplatit žalobkyni na náhradě nákladů dovolacího řízení částku 5 055 Kč do tří dnů od právní moci tohoto usnesení k rukám jejího zástupce JUDr. Romana Nováčka.
+O d ů v o d n ě n í :
+Dovolání žalované proti v záhlaví označenému rozsudku, jímž Krajský soud v Brně potvrdil rozsudek Městského soudu v Brně ze dne 25. listopadu 2008, č. j. 45 C 132/2007-80, ve znění opravného usnesení ze dne 12. června 2009, č. j. 45 C 132/2007-95, ve vyhovujícím výroku ve věci samé, jímž bylo žalované uloženo zaplatit žalobkyni 49 109,30 Kč s příslušenstvím, a rozhodl o nákladech za řízení před soudy obou stupňů, není přípustné.
+Podle ustanovení § 236 odst. 1 občanského soudního řádu (dále též jen „o. s. ř.“) dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti rozsudku upravuje ustanovení § 237 o. s. ř.
+Podle ustanovení § 237 odst. 2 písm. a) o. s. ř. dovolání podle odstavce 1 není přípustné ve věcech, v nichž dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50 000 Kč a v obchodních věcech 100 000 Kč; k příslušenství pohledávky se přitom nepřihlíží.
+V předmětném sporu jde nepochybně o obchodní věc (spor mezi podnikateli o zaplacení kupní ceny dodaného zboží), v níž bylo dovoláním dotčeným potvrzujícím výrokem rozsudku odvolacího soudu rozhodnuto ve věci samé o peněžitém plnění ve výši 49 109,30 Kč s příslušenstvím. Jedná se tudíž ve smyslu ustanovení § 237 odst. 2 písm. a) o. s. ř. o věc, u níž není dovolání přípustné. Nejvyšší soud je proto, aniž ve věci nařizoval jednání (§ 243a odst. 1 věta první o. s. ř.), usnesením odmítl pro nepřípustnost [§ 243b odst. 5 věta první a § 218 písm. c) o. s. ř.].
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanoveními § 243b odst. 5 věty první, § 224 odst. 1. a § 146 odst. 3 o. s. ř. Žalovaná, jejíž dovolání bylo odmítnuto, nemá na náhradu svých nákladů právo a je povinna nahradit žalobkyni účelně vynaložené náklady dovolacího řízení, které sestávají ze sazby odměny za zastupování advokátem v částce 3 912,50 Kč podle § 3 odst. 1, § 10 odst. 3, § 14 odst. 1, § 15 a § 18 odst. 1 vyhlášky č. 484/2000 Sb., ve znění pozdějších předpisů, a z paušální částky 300 Kč za jeden úkon právní služby (vyjádření k dovolání) podle § 13 odst. 3 vyhlášky č. 177/1996 Sb., ve znění pozdějších předpisů, při připočtení 20% daně z přidané hodnoty ve výši 842,50 Kč.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+Nesplní-li povinná dobrovolně, co jí ukládá vykonatelné rozhodnutí, může se oprávněná domáhat výkonu rozhodnutí.
+V Brně dne 8. března 2011
+JUDr. Miroslav Gallus
+předseda senátu
