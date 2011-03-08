@@ -1,0 +1,19 @@
+11 Tcu 29/2011-17
+U S N E S E N Í
+Nejvyšší soud České republiky projednal žádost Ministerstva spravedlnosti Rumunské republiky o povolení průvozu odsouzeného M. R. , státního občana Moldavské republiky, a rozhodl v neveřejném zasedání konaném dne 8. března 2011 podle §§ 423 a 424 tr. ř. t a k t o :
+I. Povoluje se průvoz odsouzeného M. R. , státního občana Moldavska, územím České republiky z Běloruska do Rumunska pro účely předání jmenovaného k výkonu trestu odnětí svobody v trvání tří let uloženého mu trestním rozsudkem Soudu v Oradea č. 2013 ze dne 6. 12. 2002, sp. zn. 6952/2000.
+II. Po dobu průvozu bude předávaná osoba držena ve vazbě.
+O d ů v o d n ě n í :
+Ministerstvo spravedlnosti Rumunska požádalo dne 3. 3. 2011, č. j. 82219/2010/28.02.2011, na základě čl. 21 Evropské úmluvy o vydávání (č. 549/1992 Sb.) o povolení průvozu moldavského občana M. R. územím České republiky. Průvoz se má uskutečnit v rámci předání jmenovaného z Běloruska pro účely výkonu trestu odnětí svobody v trvání tří let uloženého mu trestním rozsudkem Soudu v Oradea č. 2013 ze dne 6. 12. 2002, sp. zn. 6952/2000, za trestný čin kvalifikované krádeže podle čl. 208 odst. 1, čl. 209 písm. a, e, g, i za použití čl. 71 a čl. 64 rumunského trestního zákoníku.
+Tohoto trestného činu se předávaný M. R. dopustil tím, že
+1. v noci ze 29. na 30. 5. 2000 se spoluobviněný M. B. pokusil násilím odemknout zámek předních pravých dveří osobního auta zn. Dacia 1310 L, zaparkovaného v ulici S. v O. , a protože se mu nepodařilo odemknout dveře, rozbil okno a poté spolu s odsouzeným M. R. vnikli do osobního auta, odkud odcizili radiopřijímač a jeden box. Na vozidle způsobili škodu ve výši 5 mil. Ronů, která byla nahrazena vrácením odcizených předmětů.
+2. v noci z 29. na 30. 5. 2000 se stejným spolupachatelem rozbili okno předních levých dveří osobního auta poškozené strany G. N. zaparkovaného v ulici S. před domem a odcizili z něj boxy zn. Pioneer, taxametr, anténu a košili, vše v hodnotě 3 mil. Ronů.
+V citované trestní věci byl dne 17. 7. 2008 vydán evropský zatýkací rozkaz č. 30/E/2008 a dne 26. 9. 2008 mezinárodní zatýkací rozkaz č. 30/I/26.09.2008.
+Nejvyšší soud České republiky projednal žádost Ministerstva spravedlnosti Rumunska z hlediska splnění právních podmínek vyžadovaných vnitrostátní úpravou, to znamená § 423 tr. ř., který byl aplikován ve smyslu § 424 tr. ř. obdobně. Při obdobné aplikaci § 423 tr. ř. vycházel Nejvyšší soud rovněž z čl. 25 odst. 5 Rámcového rozhodnutí Rady Evropské unie ze dne 13. června 2002, o evropském zatýkacím rozkazu a postupech předávání mezi členskými státy (dále jen „Rámcové rozhodnutí“), který pro případ průvozu osoby z třetí země do členského státu stanoví obdobné použití čl. 25 Rámcového rozhodnutí. Tento čl. 25 je pak do české právní úpravy implementován zejména § 422 tr. ř. Vzhledem k tomu, že § 423 tr. ř. pro takový případ nestanoví podmínky, za kterých může být průvoz povolen, dospěl Nejvyšší soud k závěru, že s ohledem na účel právní úpravy vyjádřený v Rámcovém rozhodnutí je třeba v tomto případě postupovat způsobem popsaným v § 422 tr. ř. a čl. 25 Rámcového rozhodnutí.
+Nejvyšší soud zjistil, že v posuzovaném případě jde o předání z Běloruska do Rumunska, tedy z třetího státu do země Evropské unie, za účelem výkonu trestu odnětí svobody. Dále zjistil z výpisu z centrální evidence obyvatel, že předávaná osoba není občanem České republiky.
+Jelikož nebyly zjištěny žádné právní překážky, které by bránily povolení průvozu předávaného M. R. územím České republiky pro účely výkonu trestu v Rumunsku, vyhověl Nejvyšší soud České republiky žádosti Ministerstva spravedlnosti Rumunska.
+Zároveň rozhodl o nutném opatření omezujícím osobní svobodu předávané osoby v době průvozu územím České republiky.
+Poučení : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 8. března 2011
+Předseda senátu:
+JUDr. Antonín Draštík
