@@ -1,0 +1,12 @@
+22 Cdo 1028/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci žalobkyně UNIMEX-INVEST, s. r. o., se sídlem v Ostravě, Poruba, Svojsíkova 2/1596, IČ 25872117, zastoupené Mgr. Gabrielou Nejedlíkovou, advokátkou se sídlem v Ostravě, Husova 2, proti žalovaným: 1) MANHATTAN Development, s. r. o., se sídlem v Praze 8, U Libeňského pivovaru 63/2, IČ 28227948, zastoupené Mgr. Milanem Partíkem, advokátem se sídlem v Praze 2, Slezská 949/32 a 2) CREDITEX HOLDING, a. s., se sídlem v Praze 2, Anny Letenské 34/7, IČ 16193938, zastoupené JUDr. Petrem Hromkem, Ph.D., advokátem se sídlem v Praze 2, Vinohradská 30, o určení neexistence věcného břemene, o vyklizení nemovitosti a o určení neplatnosti nájemní smlouvy, vedené u Okresního soudu v Písku pod sp. zn. 7 C 130/2006, o dovolání žalobkyně a žalované 2) proti rozsudku Krajského soudu v Českých Budějovicích ze dne 28. srpna 2008, č. j. 6 Co 967/2008-254, ve znění opravného usnesení ze dne 2. prosince 2008, č. j. 6 Co 967/2008-284, takto:
+Usnesení Nejvyššího soudu České republiky ze dne 14. prosince 2010, č. j. 22 Cdo 1028/2009-367, se v záhlaví opravuje tak, že forma rozhodnutí správně zní: „Rozsudek“.
+O d ů v o d n ě n í :
+Usnesením Nejvyššího soudu České republiky ze dne 14. prosince 2010, č. j. 22 Cdo 1028/2009-367, vyhověl Nejvyšší soud dovoláním obou stran, zrušil rozsudky odvolacího soudu i soudu prvního stupně a věc vrátil soudu prvního stupně k dalšímu řízení. V záhlaví písemného vyhotovení rozhodnutí však byla nesprávně označena forma rozhodnutí jako „usnesení“.
+Podle § 164 o. s. ř. předseda senátu opraví v rozsudku kdykoliv i bez návrhu chyby v psaní a v počtech, jakož i jiné zjevné nesprávnosti. Týká-li se oprava výroku rozhodnutí nebo není-li možné provést opravu ve stejnopisech rozhodnutí, vydá o tom opravné usnesení, které doručí účastníkům; jde-li o opravu výroku rozhodnutí, může odložit vykonatelnost rozsudku na dobu, dokud opravné usnesení nenabude právní moci.
+Podle § 243b odst. 6 o. s. ř. platí, že dovolací soud rozhoduje rozsudkem, jestliže rozsudek odvolacího soudu ruší. V dané věci došlo administrativním pochybením při písemném vyhotovení rozhodnutí a jeho stejnopisů k tomu, že namísto správného „rozsudek“ bylo rozhodnutí označeno v záhlaví jako „usnesení“. Protože jde zjevnou nesprávnost, bylo rozhodnuto o opravě tak, jak je uvedeno shora.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 15. března 2011
+JUDr. Jiří Spáčil, CSc., v. r.
+předseda senátu
