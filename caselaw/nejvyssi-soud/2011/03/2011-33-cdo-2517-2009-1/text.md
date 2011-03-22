@@ -1,0 +1,16 @@
+33 Cdo 2517/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Blanky Moudré a soudců JUDr. Václava Dudy a JUDr. Pavla Krbka ve věci žalobce J. V., DiS, zastoupeného JUDr. Zuzanou Hudečkovou, advokátkou se sídlem Praha 1, Týnská 1053/21, proti žalované H. C., o zaplacení 40.370,- Kč s příslušenstvím, vedené u Okresního soudu Praha-západ pod sp. zn. 6 C 276/2007, o dovolání žalobce proti rozsudku Krajského soudu v Praze ze dne 4. února 2009, č. j. 20 Co 490/2008-86, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Dovolání žalobce proti rozsudku ze dne 4. února 2009, č. j. 20 Co 490/2008-86, kterým Krajský soud v Praze potvrdil rozsudek Okresního soudu Praha-západ ze dne 12. června 2008, č. j. 6 C 276/2007-47, jímž byla zamítnuta žaloba o zaplacení 40.370,- Kč s příslušenstvím, není přípustné podle § 237 odst. 1 písm. b/ zákona č. 99/1963 Sb., občanského soudního řádu, ve znění do 30. 6. 2009 - dále jen „o. s. ř.“, a nebylo shledáno přípustným ani podle § 237 odst. 1 písm. c/ o. s. ř., neboť rozsudek odvolacího soudu nemá ve věci samé po právní stránce zásadní význam.
+Žalobce sice v dovolání avizuje použití dovolacího důvodu podle § 241a odst. 2 písm. b/ o. s. ř., z obsahu jeho dovolacích námitek však vyplývá, že žádný právní závěr odvolacího soudu ve skutečnosti nenapadá.
+Výtky, že soud prvního stupně měl rozhodnout rozsudkem pro uznání, neboť žalovaná se po výzvě podle § 114b o. s. ř. kvalifikovaně nevyjádřila, že odůvodnění rozsudků soudů obou stupňů jsou nedostatečná, a že se soudy nevypořádaly s jeho tvrzeními a námitkami, které uvedl během řízení, vystihují dovolací důvod podle § 241a odst. 2 písm. a/ o. s. ř. K okolnostem uplatněným v rámci tohoto dovolacího důvodu, tj. že řízení je postiženo vadou, která mohla mít za následek nesprávné rozhodnutí ve věci, však dovolací soud při posouzení přípustnosti dovolání podle § 237 odst. 1 písm. c/ o. s. ř. přihlížet nemůže, až na případ (a o ten zde nejde), kdy samotná vada řízení splňuje podmínku zásadního právního významu, tedy kdy jde o tzv. spor o právo ve smyslu sporného výkladu či aplikace procesních předpisů.
+Ani námitky naplňující dovolací důvod podle § 241a odst. 3 o. s. ř., že odvolací soud ani soud prvního stupně nehodnotil důkazy ve smyslu § 132 o. s. ř., a že nepřihlédl k tomu, že žalovaná půjčku od H. Š. převzala a také půjčku zpočátku splácela, nejsou způsobilé založit přípustnost dovolání podle § 237 odst. 1 písm. c/ o. s. ř. (srovnej usnesení Nejvyššího soudu ze dne 29. 6. 2004, sp. zn. 21 Cdo 541/2004, a usnesení Ústavního soudu ze dne 7. 3. 2006, sp. zn. III. ÚS 10/06, uveřejněná v časopise Soudní judikatura pod označením SJ 132/2004 a SJ 130/2006).
+Protože žalobce neotevřel k dovolacímu přezkumu žádnou otázku zásadního právního významu, dovolací soud jeho dovolání odmítl (§ 243b odst. 5 věta první a § 218 písm. c/ o. s. ř.).
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř. za situace, kdy žalované v tomto řízení nevznikly žádné náklady, na jejichž náhradu by jinak měla proti žalobci právo.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 22. března 2011
+JUDr. Blanka Moudrá, v. r.
+předsedkyně senátu
