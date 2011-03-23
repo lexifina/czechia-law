@@ -1,0 +1,16 @@
+7 Tdo 329/2011-105
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl dne 23. března 2011 v Brně v neveřejném zasedání o dovolání obviněného Z. S. proti rozsudku Krajského soudu v Ostravě ze dne 24. 5. 2010, sp. zn. 3 To 165/2010, v trestní věci vedené u Okresního soudu v Ostravě pod sp. zn. 12 T 61/2009, t a k t o :
+Podle § 265i odst. 1 písm. c) tr. ř. se dovolání o d m í t á .
+O d ů v o d n ě n í :
+Z podnětu odvolání obviněného Z. S. Krajský soud v Ostravě rozsudkem ze dne 24. 5. 2010, sp. zn. 3 To 165/2010, zrušil podle § 258 odst. 1 písm. b) tr. ř. rozsudek Okresního soudu v Ostravě ze dne 29. 9. 2009, sp. zn. 12 T 61/2009, v celém rozsahu a podle § 259 odst. 3 tr. ř. nově rozhodl o jeho vině a trestu.
+Proti tomuto rozhodnutí odvolacího soudu podal obviněný dovolání.
+Nejvyšší státní zastupitelství k dovolání uvedlo, že se k němu nebude věcně vyjadřovat.
+Nejvyšší soud předně zkoumal, zda jsou splněny procesní podmínky pro meritorní přezkoumání napadeného rozsudku odvolacího soudu na podkladě podaného dovolání. Zjistil přitom, že tyto podmínky splněny nebyly, protože dovolání bylo podáno opožděně.
+Podle § 265e odst. 1 tr. ř. se dovolání podává u soudu, který rozhodl ve věci v prvním stupni, do dvou měsíců od doručení rozhodnutí, proti kterému dovolání směřuje. Podle § 265e odst. 2 tr. ř. jestliže se rozhodnutí doručuje jak obviněnému, tak i jeho obhájci a zákonnému zástupci, běží lhůta od toho doručení, které bylo provedeno nejpozději. Rovněž je potřebné uvést, že podle § 265e odst. 3 tr. ř. je lhůta k podání dovolání zachována také tehdy, je-li dovolání podáno ve lhůtě u Nejvyššího soudu nebo u soudu, který rozhodl ve věci ve druhém stupni, anebo je-li podání, jehož obsahem je dovolání, dáno ve lhůtě na poštu a adresováno soudu, u něhož má být podáno nebo který má ve věci rozhodnout.
+Nejvyšší soud zjistil z tzv. dodejky založené na č. l. 2054 p. v. tr. spisu Okresního soudu v Ostravě vedeného pod sp. zn. 12 T 61/2009, že obviněný Z. S. převzal opis rozhodnutí odvolacího soudu dne 26. 8. 2010. Obhájce obviněného JUDr. Daniel Tomíček převzal opis rozhodnutí soudu II. stupně podle dodejky na č. l. 2054 p. v. dne 27. 10. 2010. Podle ustanovení § 265e odst. 1, 2 tr. ř. to znamená, že zákonná dvouměsíční lhůta k podání dovolání uplynula dne 27. 12. 2010.
+Ze spisu č. l. 2073 Nejvyšší soud také zjistil, že obviněný prostřednictvím obhájce podal dovolání dne 4. 1. 2011 elektronickou poštou k Okresnímu soudu v Ostravě. Lhůta k podání dovolání však uplynula dne 27. 12. 2010 a dovolatel proto podal dovolání po marném uplynutí této lhůty. Rovněž nenastala žádná situace, předpokládaná v § 265e odst. 3 tr. ř., která by obviněnému zachovala lhůtu k podání dovolání. Podle § 265e odst. 4 tr. ř. navrácení lhůty k podání dovolání zákon nepřipouští. Z výše rozvedeného je zřejmé, že obviněný podal dovolání opožděně.
+Nejvyšší soud proto odmítl dovolání obviněného Z. S. podle § 265i odst. 1 písm. c) tr. ř. jako opožděné, aniž by z podnětu dovolání přezkoumal napadené rozhodnutí a předcházející řízení z hledisek stanovených v § 265i odst. 3 tr. ř.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 23. března 2011
+Předseda senátu: JUDr. Michal Mikláš
