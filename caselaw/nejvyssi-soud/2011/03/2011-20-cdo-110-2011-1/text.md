@@ -1,0 +1,13 @@
+20 Cdo 110/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové a soudců JUDr. Olgy Puškinové a JUDr. Vladimíra Mikuška v exekuční věci oprávněné MOSTECKÁ BYTOVÁ, a. s., se sídlem v Mostě, J. Skupy 2522, identifikační číslo osoby 254 38 832, proti povinným 1/ M. N., a 2/ O. N., pro 33.484,- Kč s příslušenstvím, vedené u Okresního soudu v Mostě pod sp. zn. 21 Nc 8887/2005, o dovolání povinného O. N. proti usnesení Krajského soudu v Ústí nad Labem ze dne 18. 12. 2006, č. j. 9 Co 1143/2006-24, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í :
+Krajský soud napadeným rozhodnutím potvrdil usnesení ze dne 28. 12. 2005, č. j. 21 Nc 8887/2005-3, kterým Okresní soud v Mostě nařídil podle rozsudku téhož soudu ze dne 23. 11. 2000, č. j. 14 C 4219/2000-25, k uspokojení pohledávky oprávněné ve výši 33 484,- Kč s vyčísleným poplatkem z prodlení, nákladů předcházejícího řízení 6 405,- Kč a nákladů exekuce, které budou v průběhu řízení stanoveny, exekuci, jejímž provedením pověřil soudního exekutora JUDr. Jiřího Doležala, Exekutorský úřad Plzeň.
+Povinný O. N. napadl usnesení odvolacího soudu dovoláním, jež vykazovalo nedostatky bránící dalšímu pokračování dovolacího řízení a nebylo ani sepsáno advokátem, přičemž ze spisu nevyplývalo, že by byl povinný právnicky vzdělán. Usnesením ze dne 7. 6. 2007, č. j. 21 Nc 8887/2005-50, vyzval okresní soud povinného, aby si ve lhůtě 30 dnů zvolil zástupcem advokáta a jeho prostřednictvím podal řádné dovolání; zároveň jej poučil, že nevyhoví-li výzvě, Nejvyšší soud dovolací řízení zastaví. Usnesení povinný převzal 11. 9. 2007. Okresní soud dále usnesením ze dne 9. 6. 2010, č. j. 21 Nc 8887/2005-85, rozhodl, že se povinnému v předmětném řízení neustanovuje zástupce. Toto usnesení bylo povinnému doručeno 3. 9. 2010 (vyvěšením na úřední desce soudu (§ 50 odst. 2 o. s. ř. ve znění od 1. 7. 2009). Povinný však ani poté vytčený nedostatek neodstranil.
+Jelikož povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – kromě usnesení, kterým se dovolací řízení právě pro neodstranění tohoto nedostatku zastavuje – vydání rozhodnutí, jímž se řízení končí (§ 241 o. s. ř.), a protože ke zhojení tohoto nedostatku přes opatření soudu nedošlo, Nejvyšší soud řízení o dovolání podle § 104 odst. 2 a § 243c odst. 1 o. s. ř. zastavil.
+O nákladech dovolacího řízení rozhodne soudní exekutor (§ 87 a násl. zákona č. 120/2001 Sb.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 23. března 2011
+JUDr. Miroslava J i r m a n o v á , v. r.
+předsedkyně senátu
