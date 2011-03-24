@@ -1,0 +1,15 @@
+6 Tdo 346/2011-I-15
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v rámci neveřejného zasedání konaného dne 24. března 2011 o dovolání, které podal obviněný J. P., proti usnesení Krajského soudu v Brně ze dne 3. 2. 2010, sp. zn. 5 To 589/2009, jako soudu odvolacího v trestní věci vedené u Okresního soudu v Blansku pod sp. zn. 1 T 162/2008 t a k t o :
+Podle § 265l odst. 4 tr. ř. se obviněný n e b e r e do vazby.
+O d ů v o d n ě n í :
+Rozsudkem Okresního soudu v Blansku ze dne 7. 9. 2009, sp. zn. 1 T 162/2008, byl obviněný J.P.(dále jen „obviněný“) uznán vinným (v bodě 1/) trestným činem neoprávněného užívání cizí věci podle § 249 odst. 1 zákona č. 140/1961 Sb., trestního zákona ve znění pozdějších předpisů (dále jen „tr. zák.“) a (v bodě 2/) trestným činem porušování domovní svobody podle § 238 odst. 1, 2 tr. zák. Za tyto trestné činy byl obviněný podle § 238 odst. 2 tr. zák. za použití § 35 odst. 1 tr. zák. odsouzen k úhrnnému trestu odnětí svobody v trvání deseti měsíců, pro jehož výkon byl podle § 39a odst. 2 písm. c) tr. zák. zařazen do věznice s ostrahou. Podle § 228 odst. 1 tr. ř. byl obviněný zavázán k povinnosti uhradit na náhradě škody poškozené A. F. částku 8.081,- Kč, přičemž podle § 229 odst. 2 tr. ř. byla jmenovaná poškozená odkázána se zbytkem svého nároku na náhradu škody na řízení ve věcech občanskoprávních.
+O odvolání, které proti tomuto rozsudku podal obviněný, rozhodl ve druhém stupni Krajský soud v Brně usnesením ze dne 3. 2. 2010, sp. zn. 5 To 589/2009, jímž podle § 256 tr. ř. toto odvolání zamítl.
+Usnesením Nejvyššího soudu České republiky (dále jen „Nejvyšší soud“) ze dne 24. 3. 2011, sp. zn. 6 Tdo 346/2011, bylo z podnětu dovolání obviněného podle § 265k odst. 1, 2 tr. ř. zrušeno usnesení Krajského soudu v Brně ze dne ze dne 3. 2. 2010, sp. zn. 5 To 589/2009, a současně také další rozhodnutí na zrušené rozhodnutí obsahově navazující, pokud vzhledem ke změně, k níž došlo zrušením, pozbyla podkladu. Podle § 265l odst. 1 tr. ř. bylo Krajskému soudu v Brně přikázáno, aby věc v potřebném rozsahu znovu projednal a rozhodl.
+Podle § 265l odst. 4 tr. ř. vykonává-li se na obviněném trest odnětí svobody uložený původním rozsudkem a Nejvyšší soud k dovolání výrok o tomto trestu zruší, rozhodne zároveň o vazbě.
+Protože se na obviněném vykonává trest odnětí svobody, který mu byl uložen shora citovaným rozsudkem soudu prvního stupně ve spojení s uvedeným usnesením soudu druhého stupně a Nejvyšší soud k dovolání předmětné rozhodnutí odvolacího soudu zrušil, stal se další výkon trestu na podkladě těchto rozhodnutí nepřípustným. Nejvyšší soud proto rozhodl ve smyslu citovaného ustanovení § 265l odst. 4 tr. ř. zároveň o vazbě. Přitom v současném stadiu řízení neshledal u obviněného žádný z důvodů vazby podle § 67 tr. ř.
+Vzhledem k tomu Nejvyšší soud rozhodl podle § 265l odst. 4 tr. ř., že se obviněný do vazby nebere.
+P o u č e n í : Proti tomuto rozhodnutí není stížnost přípustná.
+V Brně dne 24. března 2011
+Předseda senátu:
+JUDr. Vladimír Veselý
