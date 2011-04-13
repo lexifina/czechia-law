@@ -1,0 +1,25 @@
+11 Td 14/2011-7
+U S N E S E N Í
+Nejvyšší soud České republiky v trestní věci obviněného J. V., vedené u Obvodního soudu pro Prahu 8 pod sp. zn. 2 T 14/2011 rozhodl v neveřejném zasedání konaném dne 13. dubna 2011 o příslušnosti soudu t a k t o :
+Podle § 24 odst. 1 tr. ř. j e k projednání trestní věci obviněného J. V.
+p ř í s l u š n ý Obvodní soud pro Prahu 5.
+O d ů v o d n ě n í :
+Státní zástupce Obvodního státního zastupitelství pro Prahu 8 podal dne 9. 2. 2011 Obvodnímu soudu pro Prahu 8 obžalobu na obviněného J. V. pro přečin zpronevěry podle § 206 odst. 1, 3 tr. zákoníku, kterého se měl dopustit tím, že „jako zaměstnanec společnosti PFM.CZ, s. r .o., ve funkci obchodního zástupce s podepsanou dohodu o hmotné zodpovědnosti, na různých místech Prahy
+I.
+1. dne 30. 7. 2009 v P., ul. V., v sídle společnosti Aleco, s.r.o. převzal od společnosti Aleco, s. r. o. finanční hotovost ve výši 3.965,-Kč jako platbu za zboží od společnosti PFM.CZ, s. r. o. dle faktury číslo …,
+2. dne 18. 11. 2009 v B., ul. Š., v sídle společnosti Golf Brno Gastronomy, s. r. o. převzal od společnosti Golf Brno Gastronomy, s. r. o. finanční hotovost ve výši 5.000,-Kč jako zálohu na zboží od společnosti PFM.CZ, s. r. o. dle faktury číslo …,
+3. dne 23. 11. 2009 v P., T. nám., v restauraci K., převzal od společnosti L. B. IČ … finanční hotovost ve výši 31.082,-Kč jako platbu za zboží od společnosti PFM.CZ, s. r. o. dle faktury číslo …,
+4. dne 27. 11. 2009 v P., U P. b., v sídle společnosti Aon Benfield Praha, a. s. převzal od společnosti Aon Benfield Praha, a. s. finanční hotovost ve výši 4.084,-Kč jako platbu za zboží od společnosti PFM.CZ, s. r. o., dle faktury číslo …,
+5. dne 30. 11. 2009 v P., R. v restauraci L.-C. převzal od společnosti Callipous, s. r. o. finanční hotovost ve výši 19.697,-Kč jako platbu za zboží od společnosti PFM.CZ, s. r. o. dle faktury číslo …,
+6. dne 2. 12. 2009 v B. n. L., ul. I. O. v restauraci V. u z. převzal od společnosti Š. B., IČ …, finanční hotovost ve výši 13.836,-Kč jako platbu za zboží od společnosti PFM.CZ, s. r. o. dle faktury číslo …,
+7. dne 29. 1. 2010 v P., ul. V., v restauraci K. O., převzal od společnosti Gastro Újezd s. r. o. finanční hotovost ve výši 26.928,- Kč jako platbu za zboží od společnosti PFM.CZ, s. r. o. dle faktury číslo …,
+přičemž veškeré shora uvedené finanční částky si ponechal a použil pro vlastní potřebu a tímto jednáním způsobil poškozené společnosti PFM.CZ, s. r. o., se sídlem Praha 5, Na Celné 11/1391, IČ: 27569829, škodu ve výši 104.592,- Kč,
+II.
+dne 1. 12. 2008 v P., N. C., v sídle společnosti PFM.CZ, s. r. o. převzal pro výkon svého zaměstnání služební notebook Fujitsu Siemens, blíže nezjištěného typu který i po skončení pracovního poměru dne 8. 2. 2010 nevrátil společnosti PFM.CZ, s. r. o., přístroj si ponechal pro svoji potřebu a tímto jednáním způsobil poškozené společnosti PFM.CZ, s. r. o., se sídlem Praha 5, Na Celné 11/1391, IČ: 27569829, škodu ve výši 2.000,- Kč.“
+Usnesením Obvodního soudu pro Prahu 8 ze dne 28. 2. 2011, sp. zn. 2 T 14/2011, byla podle § 314c odst. 1 písm. a) tr. ř. za použití § 188 odst. 1 písm. a) tr. ř. trestní věc obviněného předložena Nejvyššímu soudu k rozhodnutí o místní příslušnosti s tím, že Obvodní soud pro Prahu 8 není místně příslušný k projednání a rozhodnutí této trestní věci. Podle citovaného usnesení totiž z popisu skutku uvedeného v obžalobě vyplývá, že obviněný se jednání dopustil jednak v obvodu Prahy 1, Prahy 5, města Brna a města Brandýs nad Labem. Usnesení dále odkazuje na rozhodnutí Nejvyššího soudu ve věci sp. zn. 11 Td 20/2005 s tím, že značná část soudní praxe považuje za místo spáchání přečinu zpronevěry také bydliště nebo sídlo poškozeného, které se v tomto případě nachází v obvodu Prahy 5. Bydliště obviněného se nachází na adrese B., P., což je v obvodu Okresního soudu Praha-východ.
+Nejvyšší soud zhodnotil důkazy použitelné k rozhodnutí podle § 24 tr. ř. a dospěl k závěru, že je nutno přisvědčit důvodům uvedeným v usnesení Obvodního soudu pro Prahu 8. Podle § 18 odst. 1 tr. ř. koná řízení soud, v jehož obvodu byl trestný čin spáchán. Za místo spáchání trestného činu je třeba obecně považovat místo, kde došlo k jednání pachatele, naplňujícímu objektivní stránku trestného činu, i místo, kde nastal nebo měl nastat následek trestného činu. V daném případě je zřejmé, že se obviněný měl dopouštět popsané trestné činnosti na různých i navzájem vzdálených místech České republiky. Podobně jako v citovaném rozhodnutí Nejvyššího soudu ze dne 29. 8. 2005, sp. zn. 11 Td 20/2005, i zde se proto jeví spolehlivější určit místní příslušnost soudu, podle místa, kde nastal následek trestného činu. V tomto případě je takovým místem sídlo poškozené společnosti PFM.CZ, s. r. o., Praha 5, Na Celné 11/1391. Věc proto projedná Obvodní soud pro Prahu 5, v jehož obvodu navíc také došlo ke dvěma dílčím útokům posuzovaného trestného činu.
+Z těchto důvodů bylo ve sporu o příslušnost podle § 24 tr. ř. rozhodnuto, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 13. dubna 2011
+Předseda senátu:
+JUDr. Karel Hasch
