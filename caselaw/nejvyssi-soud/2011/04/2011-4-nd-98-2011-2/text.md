@@ -1,0 +1,20 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY 4 Nd 98/2011- 42
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce V. S., proti žalované České republice, o náhradu škody ve výši 18.000.000,- Kč a zadostiučinění ve výši 10.500.000,- Kč, podle ustanovení § 43 odst. 1 o. s. ř., t a k t o :
+Žalobce se vyzývá, aby v návrhu na zahájení řízení doplnil:
+- datum podání (návrhu na zahájení řízení),
+- označení důkazů, jichž se dovolává,
+- označení žalovaného o organizační složku (včetně adresy a sídla), která je příslušná za stát v předmětné věci vystupovat,
+a to ve lhůtě 1 měsíce s tím, že nebude-li podání ve stanovené lhůtě doplněno o požadované náležitosti, bude příslušný návrh na zahájení řízení usnesením odmítnut.
+O d ů v o d n ě n í :
+Dne 24. 3. 2011 bylo Nejvyššímu soudu České republiky doručeno podání žalobce označené jako „Žaloba o náhradu škody způsobené pochybením Krajského soudu v Ústí nad Labem“ včetně příloh. Jako žalovaná byla v daném podání uvedena Česká republika a podání nebylo datováno.
+Podle ustanovení § 42 odst. 4, věta první, o. s. ř. pokud zákon pro podání určitého druhu nevyžaduje další náležitosti, musí být z podání patrno, kterému soudu je určeno, kdo je činí, které věci se týká a co sleduje, a musí být podepsáno a datováno.
+Podle ustanovení § 79 odst. 1 o. s. ř. se řízení zahajuje na návrh. Návrh musí kromě obecných náležitostí (§ 42 odst. 4 o. s. ř.) obsahovat jméno, příjmení, bydliště účastníků, popřípadě rodná čísla účastníků (obchodní firmu nebo název a sídlo právnické osoby, označení státu a příslušné organizační složky státu, která za stát před soudem vystupuje), popřípadě též jejich zástupců, vylíčení rozhodujících skutečností, označení důkazů, jichž se navrhovatel dovolává, a musí být z něj patrno, čeho se navrhovatel domáhá. Ve věcech vyplývajících z obchodních vztahů musí návrh dále obsahovat identifikační číslo právnické osoby, identifikační číslo fyzické osoby, která je podnikatelem, popřípadě další údaje potřebné k identifikaci účastníků řízení. Tento návrh, týká-li se dvoustranných právních vztahů mezi žalobcem a žalovaným (§ 90 o. s. ř.), se nazývá žalobou.
+Z citovaných zákonných ustanovení je zřejmé, že účastníci řízení musí být v návrhu označeni tak, aby bylo nepochybné, kdo se má řízení účastnit, aby nebylo možno je zaměnit s někým jiným (s jinými osobami) a aby s nimi soud mohl jednat. Stát se jako účastník řízení označuje uvedením jeho názvu (tj. Česká republika) a toho, kdo je oprávněn za stát před soudem vystupovat, tj. buď Úřadu pro zastupování státu ve věcech majetkových v případech stanovených podle zvláštního právního předpisu nebo organizační složky, která je příslušná za stát před soudem vystupovat, a adresy sídla této složky (§ 21a odst. 1 o. s. ř.).
+Podle ustanovení § 43 odst. 1 o. s. ř. předseda senátu usnesením vyzve účastníka, aby bylo opraveno nebo doplněno podání, které neobsahuje všechny stanovené náležitosti nebo které je nesrozumitelné nebo neurčité. K opravě nebo doplnění podání určí lhůtu a účastníka poučí, jak je třeba opravu nebo doplnění provést. Podle druhého odstavce daného ustanovení není-li přes výzvu předsedy senátu podání řádně opraveno nebo doplněno a v řízení nelze pro tento nedostatek pokračovat, soud usnesením podání, kterým se zahajuje řízení, odmítne. K ostatním podáním soud nepřihlíží, dokud nebudou řádně opravena nebo doplněna. O těchto následcích musí být účastník poučen.
+V návaznosti na výše uvedené skutečnosti Nejvyšší soud České republiky vyzval žalobce, aby v daném návrhu na zahájení řízení doplnil datum, označení důkazů, jichž se dovolává, a označení žalovaného o organizační složku (včetně adresy a sídla), která je příslušná za stát v předmětné věci vystupovat, a to ve lhůtě 1 měsíce s tím, že nebude-li podání ve stanovené lhůtě doplněno o požadované náležitosti, bude příslušný návrh na zahájení řízení usnesením odmítnut.
+P o u č e n í : Proti tomuto usnesení není podle § 202 odst. 1 písm. d) o. s. ř. odvolání přípustné.
+V Brně dne 14. dubna 2011
+JUDr. Jiří P á c a l
+předseda senátu
