@@ -1,0 +1,11 @@
+22 Cdo 5267/2008
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu Mgr. Michalem Králíkem, Ph.D., ve věci žalobce Ing. P. S., zastoupeného JUDr. Ludvíkem Röschem, advokátem se sídlem v Plzni, Malá 6, proti žalovaným: 1) JUDr. I. S., zastoupené JUDr. Miloslavou Wipplingerovou, advokátkou se sídlem v Plzni, Pražská 45, 2) IDM ECONOMY s. r. o., se sídlem v Plzni, Přeštická 2, zastoupené Mgr. Lukášem Kulajdou, advokátem se sídlem v Plzni, U Zvonu 11, o určení vlastnictví k nemovitostem a určení neplatnosti kupní smlouvy, vedené u Okresního soudu Plzeň-město pod sp. zn. 20 C 88/99, o dovolání žalobce a první žalované proti rozsudku Krajského soudu v Plzni ze dne 16. července 2008, č. j. 12 Co 151/2008-1670, takto:
+I. Záhlaví rozsudku Nejvyššího soudu České republiky ze dne 24. února 2011, č. j. 22 Cdo 5267/2008–1732, se opravuje tak, že adresa bydliště žalované 1) správně zní „…“.
+II. Výrok pod bodem II. rozsudku Nejvyššího soudu České republiky ze dne 24. února 2011, č. j. 22 Cdo 5267/2008-1732, se opravuje tak, že správně zní: „Rozsudek Krajského soudu v Plzni ze dne 16. července 2008, č. j. 12 Co 151/2008–1670, se k dovolání žalobce ve výrocích III., IV., V., VI., VII., VIII., IX. ruší a věc se vrací tomuto soudu v uvedeném rozsahu k dalšímu řízení“.
+O d ů v o d n ě n í:
+Vzhledem k tomu, že v záhlaví rozsudku Nejvyššího soudu České republiky ze dne 24. února 2011, č. j. 22 Cdo 5267/2008-1732, došlo ke zjevné nesprávnosti, spočívající v chybném uvedení bydliště žalované 1) jako „…“ namísto správného „…“, a že ve výroku po bodem II. uvedeného rozsudku bylo nesprávně uvedeno, že „rozsudek Krajského soudu v Plzni ze dne 16. července 2008, č. j. 12 Co 151/2008–1670, se k dovolání žalobce ve výrocích II., III., IV., V., VI., VII., VIII., IX. ruší a věc se vrací tomuto soudu v uvedeném rozsahu k dalšímu řízení“ namísto správného znění, podle něhož „rozsudek Krajského soudu v Plzni ze dne 16. července 2008, č. j. 12 Co 151/2008–1670, se k dovolání žalobce ve výrocích III., IV., V., VI., VII., VIII., IX. ruší a věc se vrací tomuto soudu v uvedeném rozsahu k dalšímu řízení“, vydal dovolací soud podle § 164 a § 243c odst. 1 občanského soudního řádu toto opravné usnesení.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 21. dubna 2011
+Mgr. Michal Králík, Ph. D., v. r.
+předseda senátu
