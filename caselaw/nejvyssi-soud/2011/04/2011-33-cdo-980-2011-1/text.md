@@ -1,0 +1,13 @@
+33 Cdo 980/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Blanky Moudré a soudců JUDr. Václava Dudy a JUDr. Pavla Krbka ve věci žalobkyně CK HELLAS TOUR s. r. o. se sídlem Prostějov, Netušilova 1623/1, zastoupené JUDr. Taťánou Hyndrichovou, advokátkou se sídlem Prostějov, Sušilova 8, proti žalované L. S. K., zastoupené Mgr. Alenou Vallovou, Ph.D., advokátkou se sídlem Zlín, Kvítková 4703, o zaplacení částky 22.164,- Kč s příslušenstvím, vedené u Okresního soudu ve Zlíně pod sp. zn. 26 C 307/2009, o dovolání žalobkyně proti rozsudku Krajského soudu v Brně-pobočky ve Zlíně ze dne 29. září 2010, č. j. 59 Co 206/2010-108, takto:
+I. Dovolání se odmítá.
+II. Žalobkyně je povinna zaplatit žalované do tří dnů od právní moci tohoto usnesení na nákladech dovolacího řízení částku 3.684,- Kč k rukám Mgr. Aleny Vallové, Ph.D., advokátky se sídlem Zlín, Kvítková 4703.
+O d ů v o d n ě n í :
+Přípustnost dovolání žalobkyně proti rozsudku ze dne 29. září 2010, č. j. 59 Co 206/2010-108, kterým Krajský soud v Brně-pobočka ve Zlíně změnil rozsudek Okresního soudu ve Zlíně ze dne 17. února 2010, č. j. 26 C 307/2009-74, tak, že zamítl žalobu o zaplacení 22.164,- Kč se specifikovaným příslušenstvím, je vyloučena podle § 237 odst. 2 písm. a/ zákona č. 99/1963 Sb., občanského soudního řádu, v platném znění - dále jen „o. s. ř.“ (srovnej čl. II bod 1. zákona č. 7/2009 Sb.), neboť dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50.000,- Kč.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř. a žalobkyni byla uložena povinnost zaplatit žalované náklady, které jí vznikly v souvislosti s podáním vyjádření k dovolání prostřednictvím advokátky. Tyto náklady sestávají z odměny advokátky ve výši 2.770,- Kč (§ 2 odst. 1, § 3 bod 4. ve spojení s § 10 odst. 3, § 15 ve spojení s § 14 odst. 1, § 16 odst. 2 a § 18 odst. 1 vyhlášky č. 484/2000 Sb., v platném znění), z paušální částky náhrad hotových výdajů ve výši 300,- Kč (§ 2 odst. 1, § 13 odst. 1 a 3 vyhlášky č. 177/1996 Sb., v platném znění) a z částky 614,- Kč odpovídající dani z přidané hodnoty, kterou je advokát povinen z odměny za zastupování a náhrad odvést podle zákona č. 235/2004 Sb., o dani z přidané hodnoty (§ 137 odst. 3 o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+Nesplní-li povinná dobrovolně, co jí ukládá vykonatelné rozhodnutí, může oprávněná podat návrh na soudní výkon rozhodnutí (exekuci).
+V Brně 26. dubna 2011
+JUDr. Blanka M o u d r á, v. r.
+předsedkyně senátu
