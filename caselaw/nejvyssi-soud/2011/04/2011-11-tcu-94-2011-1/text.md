@@ -1,0 +1,15 @@
+11 Tcu 94/2011-51
+U S N E S E N Í
+Nejvyšší soud České republiky projednal žádost Ministerstva spravedlnosti Státu Izrael o povolení průvozu odsouzeného N. Y. K., a odsouzeného S. Y., a rozhodl v neveřejném zasedání konaném dne 27. dubna 2011 podle § 423 odst. 1 tr. ř. a čl. 16 Úmluvy o předávání odsouzených osob (publikovaná pod č. 553/1992 Sb.) t a k t o :
+I. Povoluje se p r ů v o z odsouzeného N. Y. K., státního občana Izraele, územím České republiky z Estonska do Izraele pro účely předání jmenovaného k výkonu trestu odnětí svobody uloženého mu rozsudkem Okresního soudu v Harju, Estonsko, ze dne 24. 10. 2008.
+II. Povoluje se p r ů v o z odsouzeného S. Y., státního občana Izraele, územím České republiky z Estonska do Izraele pro účely předání jmenovaného k výkonu trestu odnětí svobody uloženého mu rozsudkem Okresního soudu v Harju, Estonsko, ze dne 24. 10. 2008.
+III. Po dobu průvozu budou předávané osoby drženy ve vazbě.
+O d ů v o d n ě n í :
+Ministerstvo spravedlnosti Státu Izrael požádalo dne 13. 4. 2011 na základě čl. 16 Úmluvy o předávání odsouzených osob ze dne 21. 3. 1983, publikované pod č. 553/1992 Sb. (dále jen „Úmluva“) o povolení průvozu izraelských státních občanů N. Y. K., a S. Y., územím České republiky.
+Průvoz se má uskutečnit v rámci předání jmenovaných z Estonska do Izraele v případě obviněného N. Y. K. k výkonu nepodmíněného trestu odnětí svobody v trvání devíti let a v případě obviněného S. Y. k výkonu nepodmíněného trestu odnětí svobody v trvání jedenácti let, které jim byly uloženy rozsudkem Okresního soudu v Harju, Estonsko, ze dne 24. 10. 2008, za trestný čin nezákonného držení nadměrného množství omamných látek a jejich převozu přes hranice Estonské republiky a přes hranice celní zóny ES podle § 184 par. 21 cl. 1, § 392 par. 2 cl. 2 estonského trestního zákona.
+Nejvyšší soud České republiky projednal shora uvedenou žádost Ministerstva spravedlnosti Státu Izrael z hlediska splnění právních podmínek vyžadovaných jak vnitrostátní právní úpravou (§ 423 tr. ř.), tak i mezinárodní právní úpravou (čl. 16 Úmluvy). Zjistil, že v posuzovaném případě jde o předání k výkonu trestů odnětí svobody, které byly odsouzeným uloženy za činy, které vykazují znaky trestných činů i podle právního řádu České republiky (trestný čin nedovolené výroby a jiného nakládání s omamnými a psychotropními látkami a jedy podle § 283 tr. zákoníku), přičemž předávané osoby nejsou státními občany České republiky (čl. 16 Úmluvy).
+Jelikož nebyly zjištěny žádné právní překážky, které by bránily povolení průvozu odsouzených N. Y. K. a S. Y. územím České republiky pro účely předání k výkonu výše uvedených nepodmíněných trestů odnětí svobody v Izraeli, vyhověl Nejvyšší soud České republiky žádosti Ministerstva spravedlnosti státu Izrael. Zároveň rozhodl o nutném opatření omezujícím osobní svobodu předávaných osob v době průvozu územím České republiky.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 27. dubna 2011
+Předseda senátu:
+JUDr. Karel Hasch
