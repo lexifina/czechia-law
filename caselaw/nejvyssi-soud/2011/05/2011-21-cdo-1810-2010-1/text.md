@@ -1,0 +1,13 @@
+21 Cdo 1810/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Ljubomíra Drápala a soudců JUDr. Romana Fialy a JUDr. Mojmíra Putny v právní věci žalobkyně České republiky - Úřadu pro zastupování státu ve věcech majetkových, v Praze 2, Rašínovo nábřeží č. 42, Územního pracoviště v Ostravě - Radvanicích, Lihovarská č. 1335/9, proti žalovanému Stavebnímu bytovému družstvu Vítkovice, družstvu se sídlem v Ostravě - Mariánských Horách, Daliborova č. 54, IČO 00050806, zastoupenému JUDr. Miroslavem Pavelkou, advokátem se sídlem v Petřvaldě č. 352, o 333.913,- Kč s příslušenstvím, vedené u Okresního soudu v Ostravě pod sp. zn. 57 C 52/2009, o dovolání žalobkyně proti rozsudku Krajského soudu v Ostravě ze dne 22. září 2009 č.j. 11 Co 559/2009-69, takto:
+I. Dovolání žalobkyně se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst.2 o.s.ř.):
+Dovolání žalobkyně proti rozsudku Krajského soudu v Ostravě ze dne 22.9.2009 č.j. 11 Co 559/2009-69, kterým byl potvrzen rozsudek Okresního soudu v Ostravě ze dne 3.6.2009 č.j. 57 C 52/2009-29 ve věci samé (ve výroku o zamítnutí žaloby o zaplacení 333.913,- Kč s příslušenstvím), není přípustné podle ustanovení § 237 odst.1 písm.b) o.s.ř. a nebylo shledáno přípustným ani podle ustanovení § 237 odst.1 písm.c) o.s.ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou judikaturou soudů (srov. usnesení Nejvyššího soudu ze dne 17.12.2009 sp. zn. 21 Cdo 4498/2008, které bylo uveřejněno pod č. 9 ve Sbírce soudních rozhodnutí a stanovisek, roč. 2011) a nemá tedy po právní stránce zásadní význam. Protože členství (členská práva a povinnosti) v bytovém družstvu a nájem družstevního bytu přešly na žalobkyni, které podle výsledku dědického řízení připadl členský podíl v družstvu, nemůže žalobkyně požadovat po žalovaném vyplacení hodnoty členského podílu, a soudy proto správně (i když z nikoliv zcela přiléhavých důvodů) rozhodly, když žalobu o zaplacení "členského podílu k družstevnímu bytu" zamítly.
+Nejvyšší soud proto dovolání žalobkyně podle ustanovení § 243b odst.5 věty první a § 218 písm.c) o.s.ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 části věty před středníkem o.s.ř., neboť žalobkyně s ohledem na výsledek řízení nemá na náhradu svých nákladů právo a žalovanému v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. května 2011
+JUDr. Ljubomír Drápal, v. r.
+předseda senátu
