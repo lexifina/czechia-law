@@ -1,0 +1,18 @@
+33 Cdo 1464/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivany Zlatohlávkové a soudců JUDr. Blanky Moudré a JUDr. Václava Dudy ve věci žalobkyně A. N., proti žalovaným 1) A. S. a 2) P. Ch., o zaplacení 88.000,- Kč s příslušenstvím, vedené u Okresního soudu v Jihlavě pod sp. zn. 5 C 243/2009, o dovolání žalobkyně proti rozsudku Krajského soudu v Brně - pobočky v Jihlavě ze dne 25. ledna 2011, č. j. 54 Co 1146/2010-69, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Jihlavě rozsudkem ze dne 7. října 2010, č. j. 5 C 243/2009-53, zamítl žalobu, jíž se žalobkyně domáhala po každém z žalovaných zaplacení 44.000,- Kč s 5% ročním úrokem z prodlení od 15. 3. 2006 do zaplacení, a rozhodl o nákladech řízení.
+Krajský soud v Brně - pobočka v Jihlavě rozsudkem ze dne 25. ledna 2011, č. j. 54 Co 1146/2010-69, rozsudek soudu prvního stupně potvrdil a rozhodl o nákladech odvolacího řízení.
+Proti rozsudku odvolacího soudu podala žalobkyně dovolání, v němž vytýká soudům, že rozhodly v její nepřítomnosti, aniž vyslechly všechny navržené svědky, kteří by podpořili její tvrzení, že peníze žalovaným skutečně půjčila.
+Dovolání bylo podáno včas k tomu legitimovaným subjektem (žalobkyní), nejsou však splněny podmínky pro jeho věcné projednání.
+Podle § 241 odst. 1 věty první o. s. ř. musí být dovolatel zastoupen advokátem nebo notářem; to neplatí, má-li dovolatel právnické vzdělání, popřípadě jedná-li za něj osoba uvedená v § 21 nebo v § 21a anebo v § 21b, která má právnické vzdělání. Notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními předpisy. Podle § 241 odst. 4 o. s. ř. nemá-li dovolatel právnické vzdělání, musí být dovolání sepsáno advokátem, notářem nebo osobou uvedenou v § 21 nebo § 21a anebo § 21b, která má právnické vzdělání. Citované ustanovení představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit; bez jejího splnění však nelze vydat rozhodnutí, kterým se řízení končí (rozhodnutí ve věci samé).
+Protože z dovolání ani z obsahu spisu nevyplývalo, že by žalobkyně byla v dovolacím řízení zastoupena advokátem, případně že by sama měla právnické vzdělání, soud prvního stupně ji usnesením ze dne 14. února 2011, č. j. 5 C 243/2009-75, správně vyzval, aby si pro podání dovolání zvolila zástupcem advokáta a jeho prostřednictvím podala ve lhůtě jednoho měsíce od doručení tohoto usnesení řádné dovolání; současně ji poučil o právních následcích neuposlechnutí této výzvy, jakož i ve smyslu ustanovení § 30 o. s. ř. Na výzvu, která jí byla doručena 17. 2. 2011, žalobkyně již dále nereagovala
+Podmínka povinného zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – kromě usnesení, kterým se dovolací řízení právě pro neodstranění tohoto nedostatku zastavuje, a případů uvedených v § 241b odst. 2 větě za středníkem o. s. ř. – vydání rozhodnutí, jímž se řízení končí (§ 241 odst. 1 o. s. ř.). Protože v posuzovaném případě ke zhojení tohoto nedostatku přes řádnou výzvu soudu nedošlo, dovolací soud řízení o dovolání podle § 104 odst. 2 a § 241b odst. 2 části věty před středníkem o. s. ř. zastavil.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a 146 odst. 2 o. s. ř. za situace, kdy žalobkyně sice z procesního hlediska zavinila, že dovolací řízení bylo zastaveno, žalovaným však v souvislosti s dovolacím řízením náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 26. května 2011
+JUDr. Ivana Zlatohlávková, v. r.
+předsedkyně senátu
