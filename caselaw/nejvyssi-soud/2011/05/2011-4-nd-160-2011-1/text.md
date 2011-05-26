@@ -1,0 +1,14 @@
+4 Nd 160/2011-34
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Danuše Novotné a soudců JUDr. Františka Hrabce a JUDr. Jiřího Pácala v právní věci žalobce Plzeňské městské dopravní podniky, a. s., Denisovo nábř. 920/12, 303 23 Plzeň, IČ 25220683, zastoupeného Mgr. Martinem Zikmundem, advokátem se sídlem Perlová 14, 301 00 Plzeň, proti žalované M. Ř., o zaplacení částky 1.012,- s příslušenstvím, vedené u Okresního soudu v Ústí nad Labem pod sp. zn. 9 C 467/2009, o určení příslušnosti soudu podle § 11 odst. 3 o. s. ř. t a k t o :
+Věc, vedenou u Okresního soudu v Ústí nad Labem pod sp. zn. 9 C 467/2009, p r o j e d n á a r o z h o d n e Okresní soud Plzeň-město.
+O d ů v o d n ě n í :
+Okresní soud v Ústí nad Labem usnesením ze dne 15. 2. 2010, sp. zn. 9 C 467/2009, vyslovil svoji místní nepříslušnost v označené věci a po právní moci tohoto rozhodnutí věc postoupil Okresnímu soudu v Nymburce jako soudu místně příslušnému, neboť z údajů evidence obyvatel zjistil, že žalovaná má bydliště v obvodu tohoto soudu.
+Okresní soud v Nymburce s tímto postoupením věci nesouhlasil a Krajský soud v Praze usnesením ze dne 18. 10. 2010, sp. zn. 25 Nc 641/2010, rozhodl, že nesouhlas tohoto soudu s postoupením věci je důvodný, neboť trvalý pobyt žalované na adrese spadající do působnosti Okresního soudu v Nymburce neodpovídá jejímu skutečnému bydlišti, kde by žalovaná bydlela s úmyslem se zde trvale zdržovat.
+Protože se nepodařilo zjistit skutečné bydliště žalované, Okresní soud v Ústí nad Labem usnesením ze dne 15. 2. 2011 znovu vyslovil svou místní nepříslušnost a po právní moci tohoto usnesení věc předložil Nejvyššímu soudu podle § 11 odst. 3 o. s. ř.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Podmínky rozhodnutí podle § 11 odst. 3 o. s. ř. jsou v daném případě splněny, neboť věc spadá do pravomoci soudů České republiky ale podmínky místní příslušnosti soudu nelze zjistit.
+S přihlédnutím k tomu, že není žádného důvodu, aby věc byla projednána a rozhodnuta Okresním soudem v Ústí nad Labem, v jehož obvodu se žalovaná nezdržuje v úmyslu zde trvale bydlet a v jehož obvodu nemá sídlo ani žalobce a projednávaná věc nemá žádný vztah k obvodu tohoto soudu, dospěl Nejvyšší soud k závěru, že k projednání a rozhodnutí věci bude z hlediska rychlosti a hospodárnosti řízení vhodné určit Okresní soud Plzeň-město, v jehož obvodu je sídlo žalobce. Proto podle § 11 odst. 3 o. s. ř. určil Okresní soud Plzeň-město tím soudem, který věc projedná a rozhodne.
+P o u č e n í : Proti tomuto usnesení n e n í přípustný opravný prostředek.
+V Brně dne 26. května 2011
+JUDr. Danuše N o v o t n á předsedkyně senátu
