@@ -20,6 +20,7 @@ text_url: "https://sbirkapp.gov.cz/detail/SPP6RUGJAVG3DSGO/text"
 soubor: "nm-3-2007-text.doc"
 soubor_sha256: "eb89d7acc3a28e8a35810b38766eb412b375eadd9f6df10d555116a83a2155cb"
 ziskani_textu: "doc"
+zmeneno: "Nařízení statutárního města Ústí nad Labem č. 1/2011 (účinnost 2011-06-04, https://sbirkapp.gov.cz/detail/SPPRL55K2T5BJJ3Y)"
 ---
 
 # kterým se vydává tržní řád
