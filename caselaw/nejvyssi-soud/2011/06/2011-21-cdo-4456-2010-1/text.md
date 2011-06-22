@@ -1,0 +1,13 @@
+21 Cdo 4456/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Ljubomíra Drápala a soudců JUDr. Romana Fialy a JUDr. Mojmíra Putny ve věci žalobce Mgr. R. N., zastoupeného JUDr. Zbigniewem Sychrou, advokátem se sídlem v Ostravě - Přívoze, Špálova č. 80/9, proti žalovaným 1) D. U., zastoupenému Mgr. Pavlem Štembrokem, advokátem se sídlem v Brně, Čechyňská č. 14a, 2) J. Ch., a 3) Ing. V. Z., o určení vlastnického práva, vedené u Městského soudu v Brně pod sp. zn. 30 C 79/2008, o dovolání žalobce proti rozsudku Krajského soudu v Brně ze dne 9. června 2010 č.j. 19 Co 8/2010-73, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst. 2 o.s.ř.):
+Proti rozsudku Krajského soudu v Brně ze dne 9.6.2010 č.j. 19 Co 8/2010-73, kterým byl potvrzen rozsudek Městského soudu v Brně ze dne 17.9.2009 č.j. 30 C 79/2008-51, jímž byla zamítnuta žaloba o určení, že vlastníkem garáže bez čísla popisného umístěné na pozemku parc. č. 6620/1 a pozemku parc. č. 6620/2 v k.ú. Bystrc, obec Brno, zapsané na LV 3134 u Katastrálního úřadu pro Jihomoravský kraj, Katastrální pracoviště Brno-město je žalobce, jímž bylo určeno, že žalovaný 1) je vlastníkem garáže bez čísla popisného umístěné na pozemku parc. č. a pozemku parc. č. v k.ú. Bystrc, obec Brno, zapsané na LV u Katastrálního úřadu pro Jihomoravský kraj, Katastrální pracoviště Brno-město a jímž bylo rozhodnuto, že žalobce a žalovaní 1), 2) a 3) nemají vůči sobě navzájem právo na náhradu nákladů řízení, že žalobce je povinen zaplatit "ČR - Městskému soudu v Brně" doplatek soudního poplatku ve výši 2.000,-Kč a že žalovaný 1) je povinen zaplatit "ČR - Městskému soudu v Brně" soudní poplatek ve výši 3.000,-Kč, a kterým bylo odmítnuto odvolání žalobce v části týkající se povinnosti žalovaného 1) zaplatit soudní poplatek a kterým bylo rozhodnuto, že žádný z účastníků nemá právo na náhradu nákladů odvolacího řízení, podal žalobce dovolání, které podáním ze dne 14.1.2011 vzal zpět.
+Protože dovolání bylo vzato zcela zpět, Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř) podle ustanovení § 243b odst.5 věty druhé o.s.ř. dovolací řízení zastavil.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 části věty před středníkem o.s.ř., neboť žalobce s ohledem na výsledek řízení nemá na náhradu svých nákladů právo, žalovaný 1) se nároku na náhradu nákladů dovolacího řízení podáním ze dne 14.1.2011 vzdal a žalovaným 2) a 3) v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 22. června 2011
+JUDr. Ljubomír Drápal, v. r.
+předseda senátu
