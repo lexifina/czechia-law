@@ -1,0 +1,14 @@
+11 Tcu 126/2011 - 26
+U S N E S E N Í
+Nejvyšší soud České republiky projednal žádost Rumunska o povolení průvozu J. J. J. E. M. a rozhodl v neveřejném zasedání dne 29. června 2011 podle § 422 tr. ř. t a k t o :
+Povoluje se p r ů v o z předávaného J. J. J. E. M. územím České republiky ze Švédského království do Rumunska pro účely výkonu trestu odnětí svobody, který mu byl uložen rozsudkem Soudu v Bihoru, Rumunsko, ze dne 3. července 2007, č. 208/P, ve věci sp. zn. 5542/111/2006.
+Po dobu průvozu bude předávaná osoba držena ve vazbě.
+O d ů v o d n ě n í :
+Ministerstvo spravedlnosti Rumunska požádalo dne 24. června 2011 na základě čl. 25 Rámcového rozhodnutí Rady Evropské unie ze dne 13. června 2002, o evropském zatýkacím rozkazu a o předávání mezi členskými státy Evropské unie, o povolení průvozu J. J. J. E. M. územím České republiky. Průvoz se má uskutečnit v rámci předání jmenovaného ze Švédského království do Rumunska na základě evropského zatýkacího rozkazu vydaného dne 15. června 2009 Soudem v Bihoru, Rumunsko, k výkonu trestu odnětí svobody v trvání šesti let, uloženého mu rozsudkem Soudu v Bihoru, Rumunsko, ze dne 3. července 2007, č. 208/P, ve věci sp. zn. 5542/111/2006, a to pro trestný čin podvodu podle § 215 odst. 1, 2 a 3 trestního zákona Rumunska, pro trestný čin falšování úředních dokumentů podle § 291 trestního zákona Rumunska a pro trestný čin podněcování k vydávání nepravdivých úředních dokumentů podle § 288 odst. 1 trestního zákona Rumunska, jichž se měl dopustit v podstatě tím, že v letech 1999 a 2000, společně s M. M. S. a W. A. S. M., uvedl v omyl studenty Lékařské fakulty univerzity v Oradea i samotnou fakultu tím, že neoprávněně vybral školné od celkem dvaceti zahraničních studentů a vydával k tomu falešné příjmové doklady o jeho zaplacení, a dále s těmito úmysly podněcoval i D. E. M., S. S. a S. H. S., aby doklady o zaplacení falšovali. Průvoz se má uskutečnit leteckou cestou s přistáním v P. dne 1. července 2011.
+Nejvyšší soud České republiky projednal předloženou žádost z hlediska splnění právních podmínek a náležitostí vyžadovaných vnitrostátní úpravou (§ 422 tr. ř.). Zjistil, že v posuzovaném případě jde o předání ze Švédského království do Rumunska pro účely výkonu trestu odnětí svobody v Rumunsku. Z výpisu z centrální evidence obyvatel je pak zřejmé, že předávaná osoba není státním občanem České republiky
+Jelikož nebyly zjištěny právní překážky, které by bránily povolení průvozu předávaného J. J. J. E. M. územím České republiky pro účely výkonu trestu odnětí svobody v Rumunsku, tak Nejvyšší soud České republiky žádosti Rumunska vyhověl.
+Zároveň rozhodl o nutném opatření omezujícím osobní svobodu předávaného v době průvozu územím České republiky.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 29. června 2011
+Předseda senátu:
+JUDr. Antonín Draštík
