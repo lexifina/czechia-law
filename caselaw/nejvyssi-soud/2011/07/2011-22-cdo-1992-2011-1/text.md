@@ -1,0 +1,16 @@
+22 Cdo 1992/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Baláka a soudců JUDr. Jiřího Spáčila, CSc., a Mgr. Michala Králíka, Ph.D., ve věci žalobce Dipl. Ing., Mgr. V. V., proti žalované Mgr. V. V., zastoupené JUDr. Ludvíkem Ševčíkem, advokátem se sídlem v Brně, Kobližná 19, o určení, že zůstavitel byl ke dni smrti vlastníkem movitých věcí, vedené u Městského soudu v Brně pod sp. zn. 34 C 71/2007, o dovolání žalobce proti usnesení Krajského soudu v Brně ze dne 6. ledna 2011, č. j. 20 Co 1110/2010-176, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í:
+Krajský soud v Brně jako soud odvolací k odvolání žalobce usnesením ze dne 6. ledna 2011, č. j. 20 Co 1110/2010-176, potvrdil usnesení Městského soudu v Brně (dále „soud prvního stupně“) ze dne 16. června 2009, č. j. 34 C 71/2007-113, kterým nebyla připuštěna „změna žaloby navržená žalobcem v podání čl. 103, 104 spisu.“
+Proti usnesení Krajského soudu v Brně ze dne 6. ledna 2011, č. j. 20 Co 1110/2010-176, podal žalobce dne 18. března 2011 podání, nazvané „stížnost a odvolání“, nikoli však prostřednictvím advokáta. Soud prvního stupně žalobce usnesením ze dne 23. března 2011, č. j. 34 C 71/2007-191, vyzval, aby své podání doplnil, především aby soudu sdělil, proti jakému rozhodnutí konkrétně směřuje, zda mínil podat dovolání a pokud hodlal podat dovolání, aby je doplnil o další podstatné náležitosti. Současně jej upozornil, že pro podání i sepsání dovolání musí být zastoupen advokátem, proto je třeba, aby do 30 dnů ode dne doručení usnesení podání doplnil advokát nebo notář, nebo aby ho doplnil sám a současně soudu prokázal, že má vysokoškolské právnické vzdělání. Dovolatel výzvě nevyhověl.
+Podle § 243c odst. 2 občanského soudního řádu (dále „o. s. ř.“) v usnesení, jímž bylo dovolání odmítnuto nebo jímž bylo zastaveno dovolací řízení, dovolací soud pouze stručně vyloží důvody, pro které je dovolání opožděné, nepřípustné, zjevně bezdůvodné nebo trpí vadami, jež brání pokračování v dovolacím řízení, nebo pro které muselo být dovolací řízení zastaveno.
+Podle § 241 odst. 1 věta prvá o. s. ř. není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Podle § 241 odst. 2 písm. a) o. s. ř. odstavec 1 neplatí, je li dovolatelem fyzická osoba, která má právnické vzdělání. Podle § 241 odst. 4 o. s. ř. dovolání musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem, notářem nebo osobou uvedenou v § 21, 21a, 21b, anebo v § 26a odst. 3, která má právnické vzdělání.
+Povinné zastoupení dovolatele je tak zvláštní podmínkou dovolacího řízení týkající se dovolatele, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění nelze vydat rozhodnutí, jímž se končí řízení ve věci samé.
+Podle § 104 odst. 2 o. s. ř. jde-li o nedostatek podmínky řízení, který lze odstranit, učiní k tomu soud vhodná opatření. Nezdaří-li se nedostatek podmínky řízení odstranit, řízení zastaví.
+V dané věci dovolatel, který nemá právnické vzdělání, přes výzvu soudu prvního stupně nedostatek zastoupení neodstranil. Proto Nejvyšší soud dovolací řízení pro nedostatek uvedené podmínky řízení podle § 243c odst. 1 a § 104 odst. 2 o. s. ř. zastavil.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 12. června 2011
+JUDr. František B a l á k, v. r.
+předseda senátu
