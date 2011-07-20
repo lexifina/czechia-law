@@ -1,0 +1,16 @@
+11 Td 33/2011-15
+U S N E S E N Í
+Nejvyšší soud České republiky v trestní věci obviněné O. R. , projednal v neveřejném zasedání konaném dne 20. července 2011 návrh obviněné na odnětí a přikázání věci a rozhodl takto:
+Podle § 25 tr. ř. s e návrh na odnětí věci vedené u Okresního soudu ve Strakonicích pod sp. zn. 5 T 39/2011 a její přikázání jinému soudu z a m í t á .
+O d ů v o d n ě n í :
+Dne 21. března 2011 podala okresní státní zástupkyně Okresního státního zastupitelství ve Strakonicích návrh na potrestání obviněné O. R. , pro přečin zanedbání povinné výživy podle § 196 odst. 1 tr. zákoníku, jehož se měla dopustit způsobem podrobně popsaným v tomto návrhu.
+Podáním ze dne 11. května 2011 navrhla obviněná O. R. , aby její trestní věc byla Okresnímu soudu ve Strakonicích odňata, a aby byla „přeložena“ k Okresnímu soudu v Třebíči s odůvodněním, že není schopna zajistit hlídání pro své tři děti a navíc k 12. květnu 2011 nastupuje do práce.
+Nejvyšší soud podle § 25 tr. ř. zhodnotil předložený návrh a dospěl k následujícímu závěru.
+Podle § 25 tr. řádu může být věc z důležitých důvodů odňata příslušnému soudu a přikázána jinému soudu téhož druhu a stupně. Pojem „důležité důvody“ sice není v zákoně blíže definován, ale je nepochybné, že se musí jednat o skutečnosti, jež budou svojí povahou výjimečné, neboť ustanovení § 25 tr. řádu, dle něhož lze v určitých případech věc delegovat k jinému soudu, je zákonným průlomem do zásady, že nikdo nesmí být odňat svému zákonnému soudci, vyjádřené v čl. 38 odst. 1 Listiny základních práv a svobod. Důvody pro odnětí věci příslušnému soudu a její přikázání jinému soudu musí být natolik významné, aby dostatečně odůvodňovaly vybočení z výše citovaného ústavního principu.
+Skutečnost, že se obviněná společně se svou rodinou po spáchání trestného činu přestěhovala do obvodu jiného soudu, kde si našla zaměstnání, a tedy by jí i z hlediska zajištění péče o její děti a z hlediska dojezdnosti lépe vyhovovalo, pokud by trestní řízení probíhalo u soudu v místě jejího současného bydliště, sama o sobě není takovým vážným důvodem pro postup podle § 25 tr. ř. Z obsahu spisu nadto nevyplývá, a ani obviněnou nebyly předloženy takové podklady, z nichž by vyplývalo, jak intenzivní péči (např. vzhledem k jejich věku a zdravotnímu stavu) děti obviněné v současné době vyžadují, popřípadě, zda obviněná je jedinou osobou, která jim tuto péči může poskytnout, a není ani zřejmé, zda současné bydliště obviněné, za které označuje obec N. S. v okrese Třebíč, je bydlištěm trvalého nebo alespoň dlouhodobého charakteru. Z podkladů, které si k věci opatřil Nejvyšší soud je zřejmé, že obviněná má trvalý pobyt stále hlášen na adrese N. , P.
+Nejvyššímu soudu za této situace nezbylo než návrh obviněné na postup podle § 25 tr. ř. zamítnout.
+Pro úplnost je ovšem třeba dodat, že toto rozhodnutí Nejvyššího soudu nezakládá při změněných skutkových okolnostech překážku věci rozhodnuté. Prokáže-li tedy obviněná, že na její straně jsou dány takové důvody, které postup podle § 25 tr. ř. opodstatňují, pak není vyloučeno, aby soud návrh obviněné na postup podle § 25 tr. ř. opět projednal a aby jejímu návrhu, bude-li opodstatněný, vyhověl.
+Poučení : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 20. července 2011
+Předseda senátu:
+JUDr. Antonín Draštík
