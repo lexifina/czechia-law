@@ -1,0 +1,20 @@
+29 Cdo 1939/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Šuka a soudců JUDr. Filipa Cilečka a doc. JUDr. Ivany Štenglové v právní věci žalobce Statutárního města Ostravy, Městského obvodu Ostrava – Jih, se sídlem v Ostravě - Moravská Ostravě, Prokešovo nám. 8, PSČ 729 30, identifikační číslo osoby 00845451, proti žalované Ing. J. S., zastoupené Mgr. Petrem Kaustou, advokátem, se sídlem v Ostravě - Moravské Ostravě, Čs. Legií 5, PSČ 702 00, o zaplacení částky 9.530,- Kč s příslušenstvím, vedené u Okresního soudu v Ostravě pod sp. zn. 29 C 112/2001, o dovolání žalované proti rozsudku Krajského soudu v Ostravě ze dne 18. května 2009, č. j. 11 Co 587/2008-474, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+V záhlaví označeným rozsudkem potvrdil odvolací soud k odvolání žalované rozsudek soudu prvního stupně ze dne 29. srpna 2006, č. j. 29 C 112/2001-260, ve znění doplňujícího rozsudku ze dne 29. července 2008, č. j. 29 C 112/2001-413, jímž Okresní soud v Ostravě uložil žalované povinnost zaplatit žalobci částku 2.427,- Kč s příslušenstvím a postupem podle ustanovení § 96 odst. 1 a odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu (dále též jen „o. s. ř.“) zastavil řízení co do částky 7.103,- Kč s příslušenstvím a co do úroků z prodlení z částky 2.427,- Kč za dobu od 11. listopadu 1999 do 30. června 2003.
+Proti rozsudku odvolacího soudu podala žalovaná dovolání, jež Nejvyšší soud podle ustanovení § 243b odst. 5, § 218 písm. c/ o. s. ř. odmítl jako nepřípustné.
+Podle ustanovení § 236 odst. 1 o. s. ř. lze dovoláním - jakožto mimořádným opravným prostředkem - napadnout pravomocná rozhodnutí odvolacího soudu pouze tehdy, připouští-li to zákon.
+Přípustnost dovolání proti rozsudku odvolacího soudu upravuje ustanovení § 237 o. s. ř.
+Podle § 237 odst. 1 o. s. ř. dovolání je přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího soudu, a/ jimiž bylo změněno rozhodnutí soudu prvního stupně ve věci samé, b/ jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil, a c/ jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není přípustné podle písmena b/ a dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam.
+Podle § 237 odst. 2 písm. a/ o. s. ř. dovolání podle odstavce 1 není přípustné ve věcech, v nichž dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 20.000,- Kč a v obchodních věcech 50.000,- Kč; k příslušenství pohledávky se přitom nepřihlíží.
+Dovolání žalované v rozsahu, v němž směřuje proti té části výroku I. napadeného rozhodnutí, jímž bylo potvrzeno rozhodnutí soudu prvního stupně ve věci samé, není přípustné podle § 237 odst. 2 písm. a/ o. s. ř.
+V rozsahu, v němž směřuje proti té části výroku I. napadeného rozhodnutí, jímž bylo potvrzeno rozhodnutí soudu prvního stupně ve výrocích o zastavení řízení pro částečné zpětvzetí žaloby a o nákladech řízení, a proti výroku II. napadeného rozhodnutí o nákladech odvolacího řízení, pak dovolání není přípustné ani podle ustanovení § 237 o. s. ř. (neboť nejde o rozhodnutí ve věci samé), ani podle ustanovení § 238 až 239 o. s. ř. (neboť je nelze podřadit pod žádné z tam vyjmenovaných případů).
+Výrok o nákladech dovolacího řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalované bylo odmítnuto a žalobci podle obsahu spisu žádné náklady v dovolacím řízení nevznikly.
+Rozhodné znění občanského soudního řádu, podle kterého Nejvyšší soud o podaném dovolání rozhodl (do 30. června 2009), se podává z bodu 12., části první, článku II. zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 27. července 2011
+JUDr. Petr Š u k
+předseda senátu
