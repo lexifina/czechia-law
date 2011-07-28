@@ -1,0 +1,13 @@
+33 Cdo 2746/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Václava Dudy a soudců JUDr. Pavla Krbka a JUDr. Blanky Moudré ve věci žalobkyně Komerční banky, a. s. se sídlem v Praze 1, Na Příkopě 33/969, zastoupené JUDr. Josefem Kešnerem, advokátem se sídlem v Praze 9, Lukavecká 1732, proti žalované M. H., zastoupené JUDr. Zdeňkou Kaňkovou, advokátkou se sídlem v Hořicích, Husova 345, o zaplacení 121.980,60 Kč s příslušenstvím, vedené u Okresního soudu v Jičíně pod sp. zn. 3 C 18/2009, o dovolání žalované proti usnesení Krajského soudu v Hradci Králové ze dne 25. března 2010, č. j. 38 Co 208/2009-111, takto:
+I. Dovolání se odmítá.
+II. Žalovaná je povinna zaplatit žalobkyni na náhradě nákladů dovolacího řízení 960,- Kč do tří dnů od právní moci tohoto usnesení k rukám JUDr. Josefa Kešnera, advokáta se sídlem v Praze 9, Lukavecká 1732.
+O d ů v o d n ě n í :
+Dovolání žalované obsahově (§ 41 odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů – dále jen „o. s. ř.“) směřující jen proti výroku usnesení Krajského soudu v Hradci Králové ze dne 25. března 2010, č. j. 38 Co 208/2009-111, kterým bylo rozhodnuto o nákladech řízení před soudem prvního stupně a o nákladech odvolacího řízení, není přípustné (srovnej usnesení Nejvyššího soudu ČR ze dne 31. 1. 2002, sp. zn. 29 Odo 874/2001, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod R 4/2003); okolnost, že napadené usnesení obsahuje nesprávné poučení o přípustnosti dovolání založené na úvaze dovolacího soudu, bez dalšího přípustnost dovolání nezakládá (srovnej např. usnesení Nejvyššího soudu ČR ze dne 29. srpna 2002, sp. zn. 29 Odo 523/2002, publikované pod C 1457/21 v Souboru rozhodnutí Nejvyššího soudu ČR vydávaném nakladatelstvím C. H. Beck).
+Nejvyšší soud České republiky proto dovolání podle § 243b odst. 5 věty prvé a § 218 písm. c) o. s. ř. odmítl.
+Podle § 243b odst. 5 věty prvé, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř. je žalovaná, jejíž dovolání bylo odmítnuto, povinna nahradit žalobkyni náklady dovolacího řízení. Tyto náklady představuje odměna za vyjádření k dovolání sepsané advokátem [§ 11 odst. 1 písm. k) vyhlášky č. 177/1996 Sb.], podle § 10 odst. 3, § 14 odst. 3, § 15 a § 18 odst. 1 vyhlášky č. 484/2000 Sb. ve výši 500,- Kč, paušální částka náhrady výdajů podle § 13 odst. 1 a 3 vyhlášky č. 177/1996 Sb. ve výši 300,- Kč a 20 % DPH ve výši 160,- Kč. Platební místo a lhůta ke splnění uložené povinnosti vyplývají z § 149 odst. 1 a § 160 odst. 1 o. s. ř.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 28. července 2011
+JUDr. Václav Duda, v. r.
+předseda senátu
