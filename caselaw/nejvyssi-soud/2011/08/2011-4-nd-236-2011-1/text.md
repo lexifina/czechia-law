@@ -1,0 +1,17 @@
+4 Nd 236/2011-27
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jiřího Pácala a soudců JUDr. Františka Hrabce a JUDr. Danuše Novotné v právní věci oprávněné Kooperativy pojišťovny, a. s., Vienna Insurance Group, IČ 47116617, se sídlem Praha 1, Templová 747, zast. Mgr. Karlem Ležatkou, advokátem se sídlem Sokolská tř. 966/22, Ostrava-Moravská Ostrava, proti povinné A. B., o návrhu na nařízení exekuce pro 526,- Kč s příslušenstvím, vedené u Okresního soudu v Teplicích pod sp. zn. 49 EXE 1967/2010, o návrhu na určení místní příslušnosti soudu podle ustanovení § 11 odst. 3 o. s. ř., t a k t o :
+Věc vedená u Okresního soudu v Teplicích pod sp. zn. 49 EXE 1967/2010 se přikazuje k projednání a rozhodnutí Okresnímu soudu v Teplicích.
+O d ů v o d n ě n í :
+Dne 25. 10. 2010 podala oprávněná u Okresního soudu v Teplicích ve výše uvedené věci návrh na nařízení exekuce na majetek povinné.
+Okresní soud v Teplicích následně usnesením ze dne 26. 5. 2011, sp. zn. 49 EXE 1967/2010, vyslovil svoji místní nepříslušnost v předmětné věci s tím, že po právní moci tohoto usnesení bude věc předložena Nejvyššímu soudu České republiky k určení, který soud věc projedná a rozhodne.
+Podle ustanovení § 11 odst. 1 o. s. ř. se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení.
+Podle ustanovení § 105 odst. 1 o. s. ř. soud zkoumá místní příslušnost před tím, než začne jednat o věci samé. Příslušnost se určuje podle okolností, které jsou tu v době zahájení řízení a trvá až do jeho skončení. Zkoumání místní příslušnosti se tedy soustřeďuje jen na začátek řízení.
+Podle ustanovení § 45 odst. 1 zák. č. 120/2001 Sb., exekučního řádu, je věcně příslušným exekučním soudem v prvním stupni okresní soud. Podle ustanovení § 45 odst. 2 exekučního řádu je místně příslušným exekučním soudem soud, v jehož obvodu má bydliště povinný, je-li fyzickou osobou, a nemá-li bydliště, soud, v jehož obvodu se zdržuje. Nemá-li povinný bydliště v České republice ani se v ní nezdržuje, je příslušným soud, v jehož obvodu má povinný majetek.
+Podle ustanovení § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Po prostudování předmětného spisového materiálu Nejvyšší soud České republiky zjistil, že rozhodujícímu soudu se nepodařilo zjistit bydliště povinné ani v době zahájení řízení ani v době současné. Příslušný soud šetření u České pošty, s. p., OSSZ Náchod, Úřadu práce v Náchodě, Městského úřadu Náchod a Městského úřadu Jaroměř zjistil, že povinná se nezdržuje ani na adrese uvedené v návrhu na zahájení řízení (tj. Teplice) ani na adrese vyplývající z centrální evidence obyvatel (tj. Broumov). Jiné místo pobytu povinné se Okresnímu soudu v Teplicích nepodařilo zjistit.
+Vzhledem ke skutečnosti, že se nepodařilo zjistit místo, kde měla povinná v době zahájení řízení bydliště, kde se zdržovala ani kde měla majetek, rozhodl Nejvyšší soud České republiky podle ustanovení § 11 odst. 3 o. s. ř. s přihlédnutím k zásadě hospodárnosti řízení tak, že jako místně příslušný soud v dané věci určil soud, u něhož bylo řízení zahájeno, tj. Okresní soud v Teplicích.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 3. srpna 2011
+JUDr. Jiří Pácal
+předseda senátu
