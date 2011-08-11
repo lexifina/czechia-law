@@ -1,0 +1,52 @@
+26 Cdo 2431/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně
+Doc. JUDr. Věry Korecké, CSc., a soudců JUDr. Miroslava Feráka a JUDr. Pavlíny Brzobohaté ve věci žalobkyně Mgr. I. Z., bytem O., zastoupené Jiřím Drápalem, advokátem se sídlem Vsetín, Horní náměstí 5/12, proti žalovanému J. V., bytem V., o určení neplatnosti výpovědi z nájmu, vedené u Okresního soudu ve Vsetíně pod sp.zn. 11 C 161/2007, o dovolání žalobkyně proti rozsudku Okresního soudu ve Vsetíně ze dne 6. června 2008, č. j.
+11 C 161/2007-52, a proti rozsudku Krajského soudu v Ostravě ze dne 23. prosince 2008,
+č. j. 57 Co 605/2008-69, takto:
+I. Řízení o dovolání proti rozsudku Okresního soudu ve Vsetíně ze dne 6. června 2008, č. j. 11 C 161/2007-52, se zastavuje.
+II. Dovolání proti rozsudku Krajského soudu v Ostravě ze dne 23. prosince 2008, č. j. 57 Co 605/2008-69, se odmítá.
+III. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Okresní soud ve Vsetíně (soud prvního stupně) rozsudkem ze dne 6. 6. 2008, č. j.
+11 C 161/2007-52, zamítl žalobu, aby bylo určeno, že „výpověď nájmu rodinného domu
+č. p. 115 na pozemku ve V. (dále „předmětný dům“, resp. dům“) ze dne 6. 5. 2007, je neplatná“; dále rozhodl o nákladech řízení.
+Krajský soud v Ostravě (soud odvolací) rozsudkem ze dne 23. 12. 2008, č. j.
+57 Cdo 605/2008-69, rozsudek soudu prvního stupně potvrdil a rozhodl o nákladech odvolacího řízení.
+Odvolací soud vzal ve shodě se soudem prvního stupně za prokázáno, že žalovaný je zapsán v katastru nemovitostí jako vlastník předmětného domu, že dne 25. 6. 2006 uzavřeli účastníci smlouvu o nájmu domu (dále též „Smlouva“) se všemi jeho součástmi a příslušenstvím, že Smlouva byla uzavřena na dobu neurčitou, že roční výše nájemného činila 10.350,- Kč s tím, že je splatné v měsíčních splátkách 862,50 Kč, a že dopisem ze dne 6. 5. 2007 dal žalovaný žalobkyni výpověď z nájemní smlouvy (dále též „Výpověď“). Přisvědčil závěru soudu prvního stupně, že žalobkyně má na požadovaném určení naléhavý právní zájem (§ 80 písm. c/ o. s. ř.), neboť bez tohoto určení by se stalo její právní postavení nejistým. Shledal správným i jeho závěr, že Smlouva není smlouvou o nájmu bytu (§ 685 a násl. občanského zákoníku ve znění po novele provedené zákonem č. 107/2006 Sb.
+– dále jen „obč. zák.“), ale že jde o nájemní smlouvu ve smyslu ustanovení § 663 a násl. obč. zák., jejímž předmětem byl předmětný dům jako celek (se všemi součástmi a příslušenstvím), nikoliv byt v něm situovaný. Zánik nájmu výpovědí se řídí obecným ustanovením § 677
+obč. zák., neboť se zde neuplatní úprava zvláštní a v řízení nebylo tvrzeno, že by účastnící uzavřeli dohodu, v níž by upravili zánik nájmu odlišně od zákona. Na základě toho shledal Výpověď platnou, neboť vyhovuje ustanovení § 677 obč. zák.
+Proti rozsudku odvolacího soudu a výslovně též i proti rozsudku soudu prvního stupně podala žalobkyně dovolání, jehož přípustnost odůvodnila tím, že napadená rozhodnutí mají po právní stránce zásadní význam. Za „stěžejní otázku sporu“ označuje otázku, co je v dané věci předmětem nájmu a zda jde o pronájem rodinného domu, jehož součástí jsou bytové prostory. Dovolatelka vyjadřuje přesvědčení, že byt v právním slova smyslu tvoří rodinný dům jako celek a že v dané věci bylo „smluvním stranám jasné …., že předmětem nájmu je byt ve smyslu ustanovení § 685 OZ, když je dům pronajímán za účelem bydlení“. Navrhla, aby napadené rozsudky byly zrušeny a věc byla vrácena soudu prvního stupně k dalšímu řízení.
+Vyjádření k dovolání nebylo podáno.
+Podle čl. II bodu 12. věty před středníkem zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, dovolání proti rozhodnutím odvolacího soudu vyhlášeným (vydaným) přede dnem nabytí účinnosti tohoto zákona (tj. před 1. červencem 2009) se projednají a rozhodnou podle dosavadních právních předpisů. Bylo-li napadené rozhodnutí vydáno
+dne 23. prosince 2008, Nejvyšší soud České republiky jako soud dovolací dovolání projednal a o něm rozhodl podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění před novelou provedenou zákonem č. 7/2009 Sb. (dále opět jen „o. s. ř.”).
+V projednávané věci dovolatelka výslovně napadá též rozsudek soudu prvního stupně.
+Podle § 236 odst. 1 o. s. ř. je dovolání mimořádným opravným prostředkem proti pravomocnému rozhodnutí odvolacího soudu. Opravným prostředkem pro přezkoumání rozhodnutí soudu prvního stupně je odvolání (§ 201 o. s. ř. ) a občanský soudní řád
+proto také neupravuje funkční příslušnost soudu k projednání dovolání proti rozhodnutí soudu prvního stupně. Nedostatek funkční příslušnosti soudu je neodstranitelným nedostatkem podmínky řízení, a proto Nejvyšší soud řízení o „dovolání“ žalobkyně proti rozsudku Okresního soudu ve Vsetíně ze dne 6. 6. 2008, č.j. 11 C 161/2007-52, zastavil (§ 104 odst. 1 ve spojení s § 243c odst. 1 o. s. ř.).
+Dovolatelka rovněž napadá potvrzující rozsudek odvolacího soudu.
+Nejvyšší soud po zjištění, že dovolání bylo podáno včas, osobou k tomu oprávněnou
+- účastnicí řízení (§ 240 odst. 1 o. s. ř.), za splnění podmínky advokátního zastoupení dovolatelky (§ 241 odst. 1 a 4 o.s.ř.), se zabýval jeho přípustností.
+Přípustnost dovolání proti potvrzujícímu rozsudku odvolacího soudu upravuje ustanovení § 237 odst. 1 písm. b) a c) o. s. ř.
+Ustanovení § 237 odst. 1 písm. b) o. s. ř. přípustnost dovolání nezakládá
+již z toho důvodu, že rozhodnutí soudu prvního stupně, potvrzené napadeným rozsudkem odvolacího soudu, bylo jeho prvním rozhodnutím ve věci.
+Podle § 237 odst. 1 písm. c) o. s. ř. je dovolání přípustné proti rozhodnutí odvolacího soudu, jímž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není přípustné podle písmena b) a dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam.
+Podle ustanovení § 237 odst. 3 o. s. ř. má rozhodnutí odvolacího soudu po právní stránce zásadní význam zejména tehdy, řeší-li právní otázku, která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo která je odvolacími soudy nebo dovolacím soudem rozhodována rozdílně, nebo řeší-li právní otázku v rozporu s hmotným právem.
+V soudní praxi není pochyb (a to i proto, že ustanovení § 685 a 686 obč. zák. jiný vyklad ani nepřipouští) o tom, že předmětem právního vztahu (ve smyslu § 118 odst. 2 obč. zák.) nájmu bytu upraveného v ustanoveních § 685 a násl. obč. zák. je byt jako celek (srov. odůvodnění rozsudku ze dne 7. 2. 2000, sp. zn. 26 Cdo 1616/98, uveřejněného
+pod č. 53 ve Sbírce soudních rozhodnutí a stanovisek, ročník 2003). Tomuto názoru koresponduje i vymezení pojmu „byt“ v rozhodnutích Nejvyššího soudu, např. v rozsudku
+ze dne 22. 10. 1999, sp. zn. 2 Cdon 1010/97, z něhož vyplývá, že vymezení bytu
+jako předmětu občanskoprávních vztahů ve smyslu § 118 odst. 2 obč. zák. zásadně předpokládá pravomocné rozhodnutí stavebního úřadu o tom, že soubor místností (popřípadě jednotlivá místnost) je způsobilý k trvalému užívání a je určen k trvalému bydlení. Dále lze poukázat na rozsudek Nejvyššího soudu ze dne 29. 1. 2002, sp. zn. 26 Cdo 400/2000, uveřejněný pod č. 90 ve Sbírce soudních rozhodnutí a stanovisek, ročník 2003, a na rozsudky z 17. 7. 2003, sp. zn. 26 Cdo 2317/2002, z 8. 6. 2004, sp. zn. 26 Cdo 1158/2003,
+a z 12. 4. 2007, sp. zn. 26 Cdo 1983/2006.
+Jestliže tedy v projednávané věci byl Smlouvou přenechán do nájmu předmětný dům jako celek (se všemi součástmi a příslušenstvím), což ostatně dovolatelka ani nezpochybňuje, nelze již z tohoto důvodu hovořit o smlouvě o nájmu bytu ve smyslu ustanovení § 685 a násl. obč. zák. V tomto směru tudíž odpovídá právní názor odvolacího soudu ustálené judikatuře a pro řešení otázky označené v dovolání nelze shledat dovolání přípustným podle § 237 odst. 1 písm. c) o. s. ř.
+V projednávané věci šlo o určení neplatnosti Výpovědi z nájmu domu, tedy o žalobu určovací ve smyslu ustanovení § 80 písm. c) o. s. ř. Judikatura dovolacího soudu
+(srov. např. rozsudky z 24. 4. 2002, sp.zn. 22 Cdo 2179/2001, z 11. 7. 2002, sp. zn.
+22 Cdo 543/2001, a z 19. 4. 2003, sp.zn. 21 Cdo 58/2003, uveřejněný pod č. 2 ve Sbírce soudních rozhodnutí a stanovisek, ročník 2004, a usnesení ze dne 24. 1. 2005, sp. zn.
+22 Cdo 586/2004, a ze dne 30. 5. 2006, sp.zn. 26 Cdo 1554/2005) je ustálena v názoru,
+podle něhož jestliže právní otázka (platnost smlouvy), o níž má být rozhodnuto, má povahu předběžné otázky ve vztahu k existenci práva nebo právního vztahu, není dán právní zájem na určení této předběžné otázky, lze-li žalovat přímo na určení existence práva nebo právního vztahu. V posléze uvedeném rozhodnutí pak Nejvyšší soud konstatoval, že o takový případ se jedná i tehdy, je-li posouzení platnosti právního úkonu otázkou předběžnou ve vztahu k řešení otázky (ne)existence práva nebo právního vztahu, který měl být tímto právním úkonem založen, změněn nebo naopak ukončen, pak na takovém určení není dán naléhavý právní zájem. Jelikož má platnost výpovědi pro řešení otázky (ne)existence práva nebo právního vztahu povahu otázky předběžné, nevedlo by požadované určení k odstranění právní nejistoty, neboť by z něho nevyplynulo, zda právo nájmu existovalo též ke dni rozhodnutí soudu; nájemní vztah by totiž mohl v případě neplatnosti výpovědi v mezidobí zaniknout jiným způsobem. Rovněž tak by neposkytovalo odpověď na otázku, zda právo nájmu vůbec vzniklo, neboť samotné určení, že je neplatná výpověď z nájmu, nemůže přímo vést k posouzení nájemní smlouvy jako platné.
+I když je tedy dovolací soud toho názoru, že žalobkyně neměla na požadovaném určení naléhavý právní zájem (což mělo samo o sobě vést k zamítnutí žaloby, aniž by se jí soud zabýval po stránce věcné – srov. např. již citované usnesení sp. zn. 26 Cdo 1554/2005, a rozsudek z 15. 7. 2010, sp. zn. 26 Cdo 2076/2009), je jeho zamítavý rozsudek v konečném výsledku správný.
+Lze tedy uzavřít, že dovolání žalobkyně proti potvrzujícímu rozsudku odvolacího soudu není přípustné; Nejvyšší soud je proto podle ustanovení § 243b odst. 5 věty první
+a § 218 písm. c) o. s. ř. odmítl.
+Výrok o náhradě nákladů řízení se opírá o ustanovení § 243b odst. 5 větu první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř. s přihlédnutím k tomu, že žalovanému nevznikly (dle obsahu spisu) v dovolacím řízení prokazatelné náklady, na jejichž náhradu by jinak měl proti dovolatelce právo.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 11. srpna 2011
+Doc. JUDr. Věra Korecká, CSc.
+předsedkyně senátu
