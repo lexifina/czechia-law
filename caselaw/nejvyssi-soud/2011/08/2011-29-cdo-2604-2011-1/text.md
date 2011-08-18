@@ -1,0 +1,21 @@
+29 Cdo 2604/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Šuka a soudců JUDr. Filipa Cilečka a doc. JUDr. Ivany Štenglové v právní věci žalobkyně Správy nemovitostí Hradec Králové, příspěvkové organizace, se sídlem v Hradci Králové, Kydlinovská 1521, PSČ 501 52, identifikační číslo osoby 64811069, proti žalované M. K., o zaplacení částky 13.795,- Kč s příslušenstvím, vedené u Okresního soudu v Hradci Králové pod sp. zn. 114 C 151/2009, o dovolání žalované proti rozsudku Krajského soudu v Hradci Králové ze dne 14. února 2011, č. j. 21 Co 375/2010-116, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+V záhlaví označeným rozsudkem potvrdil odvolací soud k odvolání žalované napadené výroky I. a III rozsudku soudu prvního stupně ze dne 17. února 2010, č. j. 114 C 151/2009-60, jímž Okresní soud v Hradci Králové uložil žalované povinnost zaplatit žalobkyni částku 8.959,- Kč s příslušenstvím (výrok I.), zamítl žalobu co do částky 4.836,- Kč s příslušenstvím (výrok II.) a rozhodl o nákladech řízení (výrok III.).
+Proti rozsudku odvolacího soudu brojila žalovaná podáními ze dne 25. března 2011 a ze dne 18. května 2011, jež Nejvyšší soud posoudil podle obsahu (§ 41 odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu – dále též jen „o. s. ř.“) jako dovolání.
+Nejvyšší soud dovolání žalované podle ustanovení § 243b odst. 5, § 218 písm. c/ o. s. ř., odmítl jako nepřípustné, aniž se zabýval tím, zda je splněna podmínka povinného zastoupení dovolatelky (srov. ustanovení § 241b odst. 2 část věty za středníkem o. s. ř.).
+Podle ustanovení § 236 odst. 1 o. s. ř. lze dovoláním - jakožto mimořádným opravným prostředkem - napadnout pravomocná rozhodnutí odvolacího soudu pouze tehdy, připouští-li to zákon.
+Přípustnost dovolání proti rozsudku odvolacího soudu upravuje ustanovení § 237 o. s. ř.
+Podle § 237 odst. 1 o. s. ř. dovolání je přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího soudu, a/ jimiž bylo změněno rozhodnutí soudu prvního stupně ve věci samé, b/ jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil, a c/ jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není přípustné podle písmena b/ a dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam.
+Podle § 237 odst. 2 písm. a/ o. s. ř. dovolání podle odstavce 1 není přípustné ve věcech, v nichž dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50.000,- Kč a v obchodních věcech 100.000,- Kč; k příslušenství pohledávky se přitom nepřihlíží.
+Dovolání žalované v rozsahu, v němž směřuje proti té části výroku I. napadeného rozhodnutí, jímž bylo potvrzeno rozhodnutí soudu prvního stupně ve věci samé, není přípustné podle § 237 odst. 2 písm. a/ o. s. ř.
+V rozsahu, v němž směřuje proti té části výroku I. napadeného rozhodnutí, jímž bylo potvrzeno rozhodnutí soudu prvního stupně ve výroku o nákladech řízení, a proti výroku II. napadeného rozhodnutí o nákladech odvolacího řízení, pak dovolání není přípustné ani podle ustanovení § 237 o. s. ř. (neboť nejde o rozhodnutí ve věci samé), ani podle ustanovení § 238 až 239 o. s. ř. (neboť je nelze podřadit pod žádný z tam vyjmenovaných případů) [srov. shodně např. usnesení Nejvyššího soudu uveřejněné pod číslem 4/2003 Sbírky soudních rozhodnutí a stanovisek].
+Výrok o nákladech dovolacího řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalované bylo odmítnuto a žalobkyni podle obsahu spisu žádné náklady v dovolacím řízení nevznikly.
+Rozhodné znění občanského soudního řádu, podle kterého Nejvyšší soud o podaném dovolání rozhodl (od 1. července 2009), se podává z bodu 12., části první, článku II. zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 18. srpna 2011
+JUDr. Petr Šuk
+předseda senátu
