@@ -1,0 +1,13 @@
+32 Cdo 2467/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Hany Gajdziokové a soudců JUDr. Miroslava Galluse a JUDr. Pavla Příhody v právní věci žalobkyně GE Money Multiservis, a. s., se sídlem v Praze 4, Vyskočilova 1422/1a, PSČ 140 28, identifikační číslo osoby 49 24 11 50, zastoupené JUDr. Marií Cilínkovou, advokátkou, se sídlem v Praze 1, Bolzanova 1, proti žalovanému J. R., o zaplacení částky 42.120,- Kč s příslušenstvím, vedené u Okresního soudu v Uherském Hradišti pod sp. zn. 5 C 22/2005, o dovolání žalovaného proti usnesení Krajského soudu v Brně ze dne 12. listopadu 2010, č. j. 28 Co 332/2009-62, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í :
+Krajský soud v Brně v záhlaví označeným usnesením rozhodl, že v řízení bude na straně žalobkyně pokračováno se společností GE Money Bank, a. s., se sídlem v Praze 4, Vyskočilova 1422/1a, identifikační číslo osoby 25 67 27 20.
+Proti usnesení odvolacího soudu podal žalovaný dovolání, přičemž při jeho podání nebyl zastoupen advokátem, ani nedoložil, že má právnické vzdělání. Soud prvního stupně usnesením ze dne 28. března 2011, č. j. 5 C 22/2005-91, doručeným 22. dubna 2011, vyzval žalovaného k odstranění nedostatku povinného zastoupení, s tím, že nebude-li v určené lhůtě tento nedostatek odstraněn, soud dovolací řízení zastaví. Žádost žalovaného o ustanovení zástupce pro dovolací řízení z řad advokátů a o osvobození od soudního poplatku z dovolání byla usnesením Okresního soudu v Uherském Hradišti ze dne 24. května 2011, č. j. 5 C 22/2005-97, zamítnuta.
+Podle ustanovení § 241 občanského soudního řádu (dále jen „o. s. ř.“), není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními právními předpisy (odstavec 1). Odstavec 1 neplatí, je-li dovolatelem fyzická osoba, která má právnické vzdělání [odstavec 2 písm. a)]. Dovolání musí být, s výjimkou fyzických osob majících právnické vzdělání, advokátem či notářem také sepsáno (odstavec 4).
+Jelikož povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, bez jejíhož splnění nelze dovolání meritorně projednat, přičemž ke zhojení tohoto nedostatku přes řádnou výzvu soudu prvního stupně do dnešního dne nedošlo, Nejvyšší soud dovolací řízení podle ustanovení § 104 odst. 2 a § 241b odst. 2 o. s. ř. zastavil.
+O nákladech dovolacího řízení nebylo rozhodnuto, protože nejde o rozhodnutí, jímž se řízení končí.
+V Brně 29. srpna 2011
+JUDr. Hana Gajdzioková
+předsedkyně senátu
