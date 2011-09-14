@@ -1,0 +1,16 @@
+28 Cdo 1485/2011
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy JUDr. Ludvíka Davida, CSc., a soudců JUDr. Josefa Rakovského a JUDr. Jana Eliáše, Ph.D., ve věci žalobce: K. N., za účasti dalších účastníků řízení Ředitelství silnic a dálnic ČR s. p. o., se sídlem v Praze 4, Na Pankráci 546/56, zastoupeného JUDr. Josefem Fikáčkem, advokátem se sídlem v Ostravě, Na Hradbách 2632/18, a Dubické zemědělské a. s., se sídlem Dubicko, Družstevní 5, o žalobě proti rozhodnutí Městského úřadu v Zábřehu, stavebního úřadu č. j. 2008/457/SU-MUZB-11 ze dne 11. 7. 2008 ve spojení s rozhodnutím Krajského úřadu Olomouckého kraje, odboru strategického rozvoje kraje sp. zn. KUOK/83574/2008-2/767 ze dne 29. 10. 2008 a nahrazení rozhodnutí správních orgánů rozhodnutím soudu, vedené u Krajského soudu v Ostravě pod sp. zn. 23 C 266/2008, o dovolání žalobce proti rozsudku Vrchního soudu v Olomouci ze dne 29. 9. 2010, č. j. 1 Co 89/2010-112, takto
+I. Řízení o dovolání se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Rozsudkem Vrchního soudu v Olomouci výše označeným byly ve výroku I. potvrzeny výroky I. a III. rozsudku Krajského soudu v Ostravě ze dne 21. 12. 2009, č. j. 23 C 266/2008-55. Ve výroku II. rozsudku odvolacího soudu byl změněn výrok II. rozsudku soudu prvního stupně tak, že ve vztahu mezi žalobcem a vedlejším účastníkem Ředitelství silnic a dálnic ČR s. p. o. nemá žádný z účastníků právo na náhradu nákladů řízení před soudem prvního stupně. Ve výrocích III. a IV. rozsudku odvolacího soudu bylo rozhodnuto o nákladech odvolacího řízení tak, že žádný z účastníků nemá právo na jejich náhradu.
+Ve vztahu k rozhodnutí odvolacího soudu zaslal žalobce dne 11. 1. 2011 podání, které tituloval jako dovolání k Nejvyššímu soudu. Uvedl v něm, že žádá soud prvního stupně o přiměřené prodloužení lhůty k doložení dalšího, neboť mu měly vzniknout problémy s konáním právníka Mgr. Š, který jej v předchozím řízení zastupoval; žalobce vypověděl advokátovi plnou moc k jeho zastupování a jednání před soudy v předmětné věci.
+Krajský soud v Ostravě dne 7. 2. 2011 vydal usnesení č. j. 23 C 266/2008-126, ve kterém žalobce vyzval, aby si pro podání dovolání ve věci zvolil zástupcem advokáta a aby jeho prostřednictvím podal řádné dovolání. Současně stanovil žalobci lhůtu 10 dnů ode dne doručení usnesení (11. 2. 2011) k doložení plné moci zvoleného advokáta a jím sepsané dovolání. Na závěr upozornil žalobce na možnost podání žádosti na ustanovení zástupce z řad advokátů na náklady státu, případně žádosti o osvobození od soudních poplatků, a to včetně uvedení příslušných náležitostí a podmínek.
+Žalobce na výzvu soudu nereagoval a nebyl tak odstraněn nedostatek řízení spočívající v absenci právního zastoupení žalobce v dovolacím řízení, popř. doložení právního vzdělání žalobce (§ 241 odst. 1, 2 o. s. ř.).
+Z důvodu uvedených výše Nejvyšší soud rozhodl na základě ustanovení § 241b odst. 2 a § 104 odst. 2 o. s. ř. o zastavení dovolacího řízení ve věci.
+Z dosavadního průběhu dovolacího řízení nelze identifikovat žádné náklady, které by snad měly být někomu k náhradě přisouzeny.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 14. září 2011
+JUDr. Ludvík D a v i d
+předseda senátu
