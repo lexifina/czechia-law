@@ -1,0 +1,19 @@
+20 Cdo 1361/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové a soudců JUDr. Olgy Puškinové a JUDr. Vladimíra Mikuška v exekuční věci oprávněné Západočeská plynárenská, a.s., se sídlem v Plzni, E. Beneše 70-72, zaniklé dne 1. 9. 2009, proti povinnému O. P., zastoupenému Mgr. Miroslavem Šipkou, advokátem se sídlem v Sokolově, ul. Jednoty 1628, pro 48 922,70 Kč s příslušenstvím, vedené u Okresního soudu v Sokolově pod sp. zn. 17 Nc 2365/2004, o dovolání povinného proti usnesení Krajského soudu v Plzni ze dne 14. 1. 2010, č. j. 14 Co 4/2010-54, takto:
+I. Dovolací řízení se zastavuje.
+II. Povinný nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Krajský soud potvrdil napadeným rozhodnutím usnesení ze dne 3. 11. 2009, č. j. 17 Nc 2365/2004-49, kterým soud prvního stupně zamítl návrh povinného na zastavení exekuce a žádnému z účastníků nepřiznal právo na náhradu nákladů řízení, a dále rozhodl tak, že žádný z účastníků nemá právo na náhradu nákladů odvolacího řízení. Uzavřel, že důvod k zastavení exekuce není dán, protože dohodu o splátkách vymáhané pohledávky účastníci uzavřeli před vydáním exekučního titulu, po jeho vydání již další dohoda uzavřena nebyla.
+Usnesení odvolacího soud napadl povinný dovoláním z důvodu, že rozhodnutí je postiženo vadou, která mohla mít za následek nesprávné rozhodnutí ve věci (§ 241a odst. 2 písm. a/ zákona č. 99/1963 Sb., občanský soudní řád ve znění pozdějších předpisů, dále též jen „o. s. ř.“). Namítá, že podpis na doručence ze dne 18. 7. 2001 není jeho a že mu dosud nebyl platební rozkaz, na základě něhož byla exekuce nařízena, účinně doručen. Navrhl proto, aby dovolací soud usnesení odvolacího soudu a rovněž usnesení soudu prvního stupně zrušil a věc vrátil soudu prvního stupně k dalšímu řízení.
+Podle § 243c o. s. ř. pro řízení u dovolacího soudu platí přiměřeně ustanovení o řízení před soudem prvního stupně, pokud není stanoveno něco jiného; ustanovení § 92 a 95 až 99 a 107a o. s. ř. však pro řízení u dovolacího soudu neplatí.
+Podle § 103 o. s. ř. soud kdykoli za řízení přihlíží k tomu, zda jsou splněny podmínky, za nichž může rozhodnout ve věci samé (podmínky řízení).
+Podle § 107 odst. 1 o. s. ř. jestliže účastník ztratí po zahájení řízení způsobilost být účastníkem řízení dříve, než řízení bylo pravomocně skončeno, posoudí soud podle povahy věci, zda v řízení může pokračovat. Není-li možné v řízení ihned pokračovat, soud řízení přeruší. O tom, s kým bude v řízení pokračováno, soud rozhodne usnesením.
+Dovolací soud zjistil z výpisu z obchodního rejstříku vedeného u Krajského soudu v Plzni, odddíl B, vložka 365, že oprávněná Západočeská plynárenská, a. s. zanikla sloučením se společností Severočeská plynárenská, a.s. (nyní RWE Energie, a.s.), se sídlem v Ústí nad Labem, Klíšská 940, a k 1. 9. 2009 byla vymazána z obchodního rejstříku.
+Ač účastník na straně oprávněné ještě dříve, než rozhodl soud prvního stupně o návrhu na zastavení exekuce, zanikl, ani odvolací soud se v průběhu odvolacího řízení, ještě předtím, než ve věci rozhodl, otázkou procesního nástupnictví nezabýval a nápravu nezjednal. Dovolací soud však k vydání usnesení podle § 107 o. s. ř. v dovolacím řízení již není v daném případě oprávněn. Jedná se o překážku dovolacího řízení, neboť dovolací řízení nelze vést se subjektem, o jehož právním nástupnictví nebylo rozhodnuto, a ani s původním účastníkem řízení na straně oprávněné, která již zanikla.
+Ve smyslu § 104 odst. 1 o. s. ř. se jedná tedy o takový nedostatek podmínky řízení, který nelze odstranit, proto Nejvyšší soud ČR řízení podle § 243c o. s. ř. ve spojení s § 104 odst. 1 o. s. ř. zastavil.
+Výrok o nákladech dovolacího řízení je odůvodněn § 146 odst. 1 písm. c), § 224 odst. 1 a § 243b odst. 5 o. s. ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 20. září 2011
+JUDr. Miroslava Jirmanová, v. r.
+předsedkyně senátu
