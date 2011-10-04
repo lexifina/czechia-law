@@ -1,0 +1,18 @@
+21 Cul 8/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Ljubomíra Drápala a soudců JUDr. Zdeňka Novotného a JUDr. Mojmíra Putny o návrhu J. K., podaném proti Vrchnímu soudu v Praze, na určení lhůty k provedení procesního úkonu ve věci vedené pod sp. zn. 10 Cmo 63/2011, takto:
+I. Návrh navrhovatele J. K. na určení lhůty Vrchnímu soudu v Praze k rozhodnutí o odvolání podaném žalobcem JUDr. O. K. proti usnesení Městského soudu v Praze ze dne 22.dubna 2011 č.j. 26 Cm 182/2010-268 se zamítá.
+II. Navrhovatel nemá právo na náhradu nákladů řízení.
+Odůvodnění:
+Městský soud v Praze usnesením ze dne 22.4.2011 č.j. 26 Cm 182/2010-268 zastavil řízení o žalobě, jíž se právní předchůdkyně žalobce JUDr. O. K. Banka Bohemia, a.s. v likvidaci domáhala proti žalovaným JUDr. J. Š. jako správkyni konkursní podstaty úpadce J. K. a JUDr. B. K. jako insolvenčnímu správci dlužnice LUPEMI, s.r.o. určení pravosti pohledávky ve výši 23.475.637,-Kč, kterou přihlásila do konkursního řízení vedeného u tamního soudu pod sp. zn. 52 K 92/97 ve věci úpadce J. K.
+Proti tomuto usnesení podal žalobce JUDr. O. K. odvolání a požadoval, aby odvolací soud napadené usnesení soudu prvního stupně zrušil.
+Návrhem podaným dne 17.8.2011 u Vrchního soudu v Praze se navrhovatel J. K. domáhal, aby "příslušný soud" uložil Vrchnímu soudu v Praze "povinnost odstranit dosavadní průtahy v odvolacím řízení vedeném pod sp.zn. 10 Cmo 63/2011".
+Nejvyšší soud České republiky, který je příslušný k projednání návrhu (§ 174a odst.4 část věty před středníkem zákona č. 6/2002 Sb., o soudech a soudcích, ve znění pozdějších předpisů - dále jen "zákon o soudech a soudcích"), dospěl k závěru, že návrh navrhovatele J. K. není důvodný.
+Podle ustanovení § 174a odst. 1 zákona o soudech a soudcích má-li účastník nebo ten, kdo je stranou řízení, za to, že v tomto řízení dochází k průtahům, může podat návrh soudu, aby určil lhůtu pro provedení procesního úkonu, u kterého podle jeho názoru dochází k průtahům v řízení (dále jen "návrh na určení lhůty").
+Příslušný soud rozhoduje o návrhu na určení lhůty usnesením. Návrh odmítne, byl-li podán někým, kdo není k jeho podání oprávněn, anebo jestliže navrhovatel neopravil nebo nedoplnil řádně návrh v určené lhůtě, jinak o něm rozhodne bez jednání do 20 pracovních dnů ode dne, kdy mu byla věc předložena nebo kdy byl návrh řádně opraven nebo doplněn (§ 174a odst. 6 zákona o soudech a soudcích). Pokud soud, vůči němuž návrh na určení lhůty směřuje, již procesní úkon, u kterého jsou v návrhu namítány průtahy v řízení, učinil, příslušný soud návrh zamítne (§ 174a odst.7 část věty před středníkem zákona o soudech a soudcích). Nestanoví-li zákon o soudech a soudcích jinak, použijí se pro řízení o návrhu na určení lhůty přiměřeně ustanovení části první a části třetí občanského soudního řádu (§ 174a odst.5 věta druhá zákona o soudech a soudcích).
+V posuzované věci - jak vyplývá z obsahu spisu - bylo rozhodnuto o odvolání žalobce JUDr. O. K. usnesením Vrchního soudu v Praze ze dne 31. srpna 2011 č.j. 10 Cmo 63/2011-292, a proto byl návrh podle ustanovení § 174a odst. 7, části věty před středníkem zákona o soudech a soudcích, zamítnut.
+O náhradě nákladů řízení bylo rozhodnuto podle ustanovení § 174a odst. 5 věty druhé zákona o soudech a soudcích a § 151 odst. 1 části věty před středníkem o.s.ř., neboť navrhovatel nemá ve smyslu ustanovení § 174a odst. 8 věty druhé zákona o soudech a soudcích právo, aby mu stát nahradil náklady, které mu v tomto řízení vznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 4. října 2011
+JUDr. Ljubomír Drápal, v. r.
+předseda senátu
