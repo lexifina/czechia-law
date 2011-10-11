@@ -1,0 +1,20 @@
+32 Cdo 1867/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Pavla Příhody a JUDr. Hany Gajdziokové v právní věci žalobkyně MODŘANY Power, a.s., se sídlem v Praze 4-Modřanech, Komořanská 326/63, PSČ 143 14, identifikační číslo osoby 49240005, zastoupené JUDr. Tomášem Leuchterem, advokátem se sídlem v Praze 1, Na Poříčí 1079/3a, proti žalovanému Ing. J. R., o 470 429,10 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 5 pod sp. zn. 35 C 239/2006, o dovolání žalovaného proti usnesení Městského soudu v Praze ze dne 26. dubna 2010, č. j. 53 Co 143/2010-338, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalovaný podal blanketní dovolání proti v záhlaví označenému usnesení, jímž Městský soud v Praze potvrdil usnesení ze dne 8. prosince 2009, č. j. 35 C 239/2006-331, kterým Obvodní soud pro Prahu 5 odmítl pro opožděnost odvolání žalovaného proti svému rozsudku ze dne 29. září 2009, č. j. 35 C 239/2006-321, a rozhodl o nákladech řízení (výrok I.), a dále rozhodl o nákladech odvolacího řízení (výrok II.).
+Podle výpisu z obchodního rejstříku vedeného Městským soudem v Praze – oddíl B, vložka 1945, byla ke dni 1. dubna 2011 vymazána stávající obchodní firma žalobkyně Modřanská potrubní, a.s. a k témuž dni zapsána její nová obchodní firma MODŘANY Power, a.s. Dovolací soud proto jednal v dovolacím řízení s takto označenou žalobkyní.
+Podle ustanovení § 236 odst. 1 občanského soudního řádu (dále též jen „o. s. ř.“) lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti usnesení odvolacího soudu upravují ustanovení § 237 až § 239 o. s. ř.
+Usnesení odvolacího soudu, jímž bylo potvrzeno usnesení soudu prvního stupně o odmítnutí odvolání, nelze podřadit žádnému z usnesení, proti nimž zákon připouští dovolání v ustanoveních § 238, § 238a a § 239 o. s. ř.
+Dovolání není přípustné ani podle ustanovení § 237 o. s. ř. upravujícího přípustnost dovolání rovněž proti usnesení (a rozsudku) odvolacího soudu, ovšem pouze za podmínky, že jím bylo rozhodnuto ve věci samé. Protože napadené usnesení odvolacího soudu nemá povahu rozhodnutí ve věci samé, není dovolání přípustné ani podle § 237 o. s. ř.
+Tento závěr s sebou nese konečné posouzení podaného dovolání jako nepřípustného. Nejvyšší soud je proto, aniž ve věci nařizoval jednání (§ 243a odst. 1 věta první o. s. ř.), usnesením odmítl pro nepřípustnost [§ 243b odst. 5 věta první a § 218 písm. c) o. s. ř.].
+Na tomto závěru nemůže nic změnit ani nesprávné poučení odvolacího soudu o možnosti podat dovolání, neboť nesprávné poučení odvolacího soudu o tom, že dovolání je přípustné, přípustnost dovolání nezakládá. Podle již citovaného § 236 odst. 1 o. s. ř. lze totiž dovoláním napadnout pravomocná rozhodnutí odvolacího soudu pouze tehdy, pokud to zákon připouští; jestliže tedy možnost podat dovolání není v zákoně (v § 237 až 239 o. s. ř.) stanovena, pak jde vždy – a bez zřetele k tomu, jakého poučení se účastníkům řízení ze strany soudu dostalo – o dovolání nepřípustné (shodně srov. též usnesení Nejvyššího soudu zveřejněné pod číslem 51/2003 Sbírky soudních rozhodnutí a stanovisek, dále například usnesení Nejvyššího soudu ze dne 24. dubna 2002, sp. zn. 26 Cdo 707/2002, usnesení Nejvyššího soudu ze dne 3. března 2005, sp. zn. 29 Odo 958/2003).
+Žalovaný nesplňoval podmínku povinného zastoupení dovolatele v dovolacím řízení (§ 241 o. s. ř.), vzhledem k ustanovení § 241b odst. 2 části věty za středníkem o. s. ř. však nebyl důvod činit opatření k odstranění tohoto nedostatku podmínky dovolacího řízení.
+O nákladech dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 3 o. s. ř., neboť žalovaný, jehož dovolání bylo odmítnuto, nemá na náhradu svých nákladů právo a žalobkyni podle obsahu spisu žádné prokazatelné náklady dovolacího řízení nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 11. října 2011
+JUDr. Miroslav Gallus
+předseda senátu
