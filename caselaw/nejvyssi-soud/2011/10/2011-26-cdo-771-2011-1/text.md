@@ -1,0 +1,19 @@
+26 Cdo 771/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně Doc. JUDr. Věry Korecké, CSc., a soudců JUDr. Miroslava Feráka a JUDr. Pavlíny Brzobohaté ve věci žalobce L. E., proti žalovaným 1) V. K., 2) P. G., a 3) K. M., o zaplacení nájemného s příslušenstvím, vedené u Okresního soudu v Hodoníně pod sp. zn. 7 C 266/2008, o dovolání žalobce proti usnesení Krajského soudu v Brně ze dne 22. ledna 2010, č. j. 38 Co 420/2009-56, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Krajský soud v Brně (soud odvolací) usnesením ze dne 22. 1. 2010, č.j. 38 Co 420/2009-56, potvrdil usnesení Okresního soudu v Hodoníně (soudu prvního stupně) ze dne 2. 9. 2009, č.j. 7 C 266/2008-25, ve spojení s doplňujícím usnesením ze dne 26. 11. 2009, č.j. 7 C 266/2008-53, kterým bylo odmítnuto podání žalobce ze dne 16. 7. 2008 a rozhodnuto o nákladech řízení; dále odvolací soud rozhodl o nákladech odvolacího řízení.
+Proti usnesení odvolacího soudu podal žalobce (nezastoupen advokátem) dovolání.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) shledal, že dovolání bylo podáno včas, osobou k tomu oprávněnou – účastníkem řízení (§ 240 odst. 1 o.s.ř.), že však nejsou dány podmínky pro jeho věcné projednání.
+Podle § 241 odst. 1 o.s.ř., není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. To neplatí, je-li dovolatelem fyzická osoba, která má právnické vzdělání (§ 241 odst. 2 písm. a/ o.s.ř.), anebo je-li dovolatelem právnická osoba, stát, obec nebo vyšší územně samosprávný celek, jedná-li za ně osoba uvedená v § 21, § 21a, anebo v § 21b, která má právnické vzdělání (§ 241 odst. 2 písm. b/ o.s.ř.), popřípadě je-li dovolatelem obec, kterou zastupuje stát podle § 26a, jedná-li jménem státu za zastoupenou obec osoba uvedená v § 26a odst. 3 o.s.ř., která má právnické vzdělání (§ 241 odst. 3 o.s.ř.). Dovolání musí být sepsáno, s výjimkou případu uvedeného v § 241 odst. 2 písm. a) o.s.ř., advokátem, notářem nebo osobou uvedenou v § 21, § 21a, § 21b, anebo v § 26a odst. 3 o.s.ř., která má právnické vzdělání (§ 241 odst. 4 o.s.ř.).
+Povinné zastoupení je zvláštní podmínkou dovolacího řízení týkající se dovolatele, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění není možno o dovolání věcně rozhodnout. Podle § 104 odst. 2 věty první a třetí o.s.ř. jde-li o nedostatek podmínky řízení, který lze odstranit, učiní k tomu soud vhodná opatření. Nezdaří-li se nedostatek podmínky řízení odstranit, řízení zastaví.
+Vzhledem k tomu, že dovolatel, který je fyzickou osobou, nebyl zastoupen advokátem a z obsahu spisu nevyplývalo, že by sám měl právnické vzdělání, byl soudem prvního stupně (usneseními ze dne 21. 5. 2010, č.j. 7 C 266/2008-117, a ze dne 4. 1. 2011, č.j. 7 C 266/2008-121) vyzván, aby ve stanovené lhůtě předložil plnou moc, kterou udělil advokátu pro dovolací řízení s tím, že nevyhoví-li této výzvě, bude dovolací řízení zastaveno. Nedostatek povinného zastoupení dovolatel dosud neodstranil.
+Z uvedeného vyplývá, že zákonem stanovená podmínka dovolacího řízení podle § 241 odst. 1 věty první o.s.ř. ve spojení s § 241 odst. 4 o.s.ř. nebyla, přes soudem prvního stupně provedená opatření, ve stanovené lhůtě (ani do dnešního dne) splněna.
+Nejvyšší soud proto dovolací řízení pro nedostatek uvedené podmínky řízení podle § 243c odst. 1 a § 104 odst. 2 věty třetí o.s.ř. zastavil.
+Výrok o nákladech řízení se opírá o ustanovení § 243b odst. 5 věty první, § 224 odst. 1, § 146 odst. 2 věty první o.s.ř. a o skutečnost, že žalovaným nevznikly (podle obsahu spisu) v dovolacím řízení náklady, na jejichž náhradu by jinak měli proti dovolateli právo.
+Proti tomuto usnesení není přípustný opravný prostředek
+V Brně dne 12. října 2011
+Doc. JUDr. Věra Korecká, CSc., v. r.
+předsedkyně senátu
