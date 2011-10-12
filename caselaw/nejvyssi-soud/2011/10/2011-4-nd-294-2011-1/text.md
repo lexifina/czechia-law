@@ -1,0 +1,19 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY 4 Nd 294/2011- 38
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Danuše Novotné a soudců JUDr. Františka Hrabce a JUDr. Jiřího Pácala v právní věci oprávněného Pojišťovna České spořitelny, a. s., Vienna Insurance Group, se sídlem Pardubice, nám. Republiky 115, 530 02 Pardubice, IČ: 47452820, zastoupeného JUDr. Petrem Gallatem, advokátem se sídlem Vážní 906, 500 03 Hradec Králové, proti povinné K. K., pro zaplacení pohledávky ve výši 2.439,- Kč s příslušenstvím, vedené u Okresního soudu v Chomutově pod sp. zn. 26 Nc 8851/2009, o určení příslušnosti soudu podle § 11 odst. 3 o. s. ř. takto:
+Věc, vedenou u Okresního soudu v Chomutově pod sp. zn. 26 Nc 8851/2009, p r o j e d n á a r o z h o d n e Okresní soud v Chomutově.
+O d ů v o d n ě n í :
+Dle návrhu oprávněného ze dne 21. 10. 2009 je u Okresního soudu v Chomutově vedeno řízení o nařízení exekuce vůči povinné, a to na základě exekučního titulu – rozsudku Okresního soudu v Chomutově ze dne 4. 5. 2009, sp. zn. 20 C 83/2005, který nabyl právní moci dne 23. 6. 2009.
+Okresní soud v Chomutově usnesením ze dne 4. 8. 2011 sp. zn. 26 Nc 8851/2009, podle § 105 odst. 2 o. s. ř. vyslovil svoji místní nepříslušnost v označené věci a předložil věc Nejvyššímu soudu podle § 11 odst. 3 o. s. ř. k určení, který soud věc projedná a rozhodne.
+V odůvodnění tohoto usnesení uvedl, že povinná má dle výpisu z centrální evidence obyvatel bydliště v obvodu Obvodního soudu pro Prahu 5. K nesouhlasu Obvodního soudu pro Prahu 5 s postoupením věci na základě usnesení Okresního soudu v Chomutově ze dne 25. 11. 2009,sp. zn. 26 Nc 8851/2009 však Městský soud v Praze usnesením ze dne 28. 5. 2010, sp. zn. 1 Nc 1644/2010, rozhodl, že nesouhlas obvodního soudu je důvodný.
+Šetřením provedeným jak Okresním soudem v Chomutově, tak Obvodním soudem pro Prahu 5 se nepodařilo zjistit skutečné bydliště povinné.
+Podle § 45 odst. 1 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti a o změně dalších zákonů (exekuční řád) je věcně příslušným exekučním soudem v prvním stupni okresní soud.
+Podle § 45 odst. 2 exekučního řádu místně příslušným exekučním soudem je soud, v jehož obvodu má bydliště povinný, je-li fyzickou osobou, a nemá-li bydliště, soud, v jehož obvodu se zdržuje. Má-li povinný, který je fyzickou osobou, bydliště na více místech, jsou místně příslušnými všechny soudy, v jejichž obvodu bydlí s úmyslem zdržovat se tam trvale. Nemá-li povinný bydliště v České republice ani se v ní nezdržuje, je příslušným soud, v jehož obvodu má povinný majetek; má-li majetek v obvodu více soudů, je příslušným soud, kterému byla jako prvnímu doručena žádost exekutora o udělení pověření nebo návrh na provedení exekuce. Je-li povinný právnickou osobou, je místně příslušným soud, v jehož obvodu má povinný sídlo.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+V daném případě není zpochybněno, že věc patří do pravomoci českých soudů a je zřejmé, že nelze určit soud povinné ve smyslu § 45 odst. 2 exekučního řádu, neboť není známo, kde se zdržuje v České republice v úmyslu zde trvale bydlet.
+V návaznosti na výše uvedené skutečnosti rozhodl Nejvyšší soud České republiky podle ustanovení § 11 odst. 3 o. s. ř. s přihlédnutím k zásadě hospodárnosti řízení tak, že jako soud, který výše označenou věc projedná a rozhodne, určil soud, který je s dosavadním průběhem řízení dostatečně obeznámen a vydal k uspokojení pohledávky oprávněného výše označený rozsudek, tj. Okresní soud v Chomutově.
+Poučení: Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 12. října 2011
+JUDr. Danuše N o v o t n á
+předsedkyně senátu
