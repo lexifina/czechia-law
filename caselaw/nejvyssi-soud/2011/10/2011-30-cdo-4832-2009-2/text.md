@@ -1,0 +1,15 @@
+30 Cdo 4832/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Pavlíka a soudců JUDr. Pavla Vrchy a JUDr. Lubomíra Ptáčka Ph.D., v právní věci žalobců a) F. V., b) R. U. a c) A. V., zastoupených Mgr. Eduardem Benešem, advokátem se sídlem v Praze 9, Na rozcestí 6/1434, proti žalovaným 1) H. K., zastoupené JUDr. Václavem Vlkem, advokátem se sídlem v Praze 8, Sokolovská 22 a 2) E. M., zastoupené Mgr. Danielou Přikrylovou, advokátkou se sídlem v Praze 2, Koubkova 1726/8, pro určení neúčinnosti právních úkonů, vedené u Obvodního soudu pro Prahu 9 pod sp. zn. 5 C 188/2004, o dovolání žalobců proti rozsudku Městského soudu v Praze ze dne 22. dubna 2008, č.j. 55 Co 53/2008-262, takto:
+I. Dovolání se odmítá.
+II. Žalobci jsou povinni zaplatit první žalované společně a nerozdílně na náhradu nákladů dovolacího řízení částku 960,- Kč k rukám JUDr.Václava Vlka, advokáta se sídlem v Praze 8, Sokolovská 22, do tří dnů od právní moci tohoto usnesení.
+Stručné odůvodnění
+(243 odst. 2 o.s.ř.):
+Žalobci podali dovolání proti výroku II. rozsudku Městského soudu v Praze ze dne 22. dubna 2008, č.j. 55 Co 53/2008-262, jímž bylo rozhodnuto o nákladech řízení.
+První žalovaná se k podanému dovolání vyjádřila prostřednictvím svého advokáta a uvedla, že proti výroku o nákladech řízení není dovolání přípustné, a navrhla, aby bylo odmítnuto.
+Nejvyšší soud jako soud dovolací po zjištění, že dovolání bylo podáno včas, oprávněnými osobami řádně zastoupenými advokátem, dovolání odmítl podle § 243b odst. 5 a § 218 písm. c) zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 30. 6. 2009 (čl. II, bod 12. zákona č. 7/2009 Sb., dále jen „o.s.ř.“), neboť dovolání proti výroku rozsudku odvolacího soudu o nákladech řízení, které má povahu usnesení (§ 167 odst. 1 o.s.ř.) občanský soudní řád nepřipouští (srovnej § 236 až § 239 o.s.ř., a dále např. usnesení Nejvyššího soudu České republiky ze dne 31.1. 2002, sp. zn. 29 Odo 874/2001, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod č. 4, ročník 2003).
+O náhradě nákladů dovolacího řízení dovolací soud rozhodl podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o.s.ř. a zavázal žalobce k náhradě nákladů dovolacího řízení, které sestávají z paušální odměny za zastupování advokátem v dovolacím řízení ve výši 500,- Kč (§ 14 odst. 3, § 15 a § 18 odst. 1 vyhlášky č. 484/2000 Sb.), a dále z náhrady hotových výdajů podle § 13 odst. 3 vyhlášky č. 177/1996 Sb. ve výši 300,- Kč, tj. činí celkem 800,- Kč, přičemž po úpravě o 20% daň z přidané hodnoty (§ 137 odst. 3 o.s.ř. a § 47 odst. 1 zákona č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů) je náhrada nákladů řízení představována částkou 960,- Kč, kterou jsou dovolatelé povinni zaplatit společně a nerozdílně první žalované k rukám jejího advokáta (§ 149 odst. 1 o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 13. října 2011
+JUDr. Pavel P a v l í k, v. r.
+předseda senátu
