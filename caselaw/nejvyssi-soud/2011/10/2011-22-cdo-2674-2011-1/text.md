@@ -1,0 +1,20 @@
+22 Cdo 2674/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jiřího Spáčila, CSc., a soudců JUDr. Františka Baláka a Mgr. Michala Králíka, Ph.D., ve věci žalobců a) MUDr. J. J., a b) E. J., obou zastoupených Mgr. Vítem Reichmannem, advokátem se sídlem v Brně, Radnická 1, proti žalovaným 1) D. S., a 2) V. S., o určení vlastnického práva a vyklizení, vedené u Okresního soudu ve Frýdku-Místku pod sp. zn. 41 C 112/2009, o dovolání žalobců proti rozsudku Krajského soudu v Ostravě ze dne 3. května 2011, č. j. 57 Co 49/2010-135, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Podle § 243c odst. 2 občanského soudního řádu (dále jen „o. s. ř.“) v usnesení, jímž bylo dovolání odmítnuto nebo jímž bylo zastaveno dovolací řízení, dovolací soud pouze stručně vyloží důvody, pro které je dovolání opožděné, nepřípustné, zjevně bezdůvodné nebo trpí vadami, jež brání pokračování v dovolacím řízení, nebo pro které muselo být dovolací řízení zastaveno.
+Okresní soud ve Frýdku-Místku („soud prvního stupně“) rozsudkem ze dne 26. listopadu 2009, č. j. 41 C 112/2009-42, zamítl žalobu, jíž se žalobci domáhali určení, že jsou podílovými spoluvlastníky původní parcely č. 82/2, nyní parcely č. 47/3 v k. ú. F., obec Frýdek-Místek, a současně vyklizení tohoto pozemku žalovanými. Dále rozhodl o náhradě nákladů řízení.
+Krajský soud v Ostravě jako soud odvolací k odvolání žalobců rozsudkem ze dne 3. května 2011, č. j. 57 Co 49/2010-135, rozsudek soudu prvního stupně v napadené části, kterou byla zamítnuta žaloba na určení jejich vlastnictví k uvedenému pozemku, potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Rozsudek odvolacího soudu napadli žalobci dovoláním, jehož přípustnost opírají o § 237 odst. 1 písm. c) o. s. ř. a uplatňují dovolací důvody uvedené v § 241a odst. 2 písm. b) o. s. ř.
+Žalovaní se k dovolání nevyjádřili.
+Obsah rozsudků soudů obou stupňů i obsah dovolání jsou účastníkům známy, a proto na ně dovolací soud pro stručnost odkazuje.
+Dovolání žalobců je sice přípustné podle § 237 odst. 1 písm. a) o. s. ř. (jde o tzv. skrytou diformitu), je však zjevně bezdůvodné.
+V dané věci připadal do úvahy jen přezkum zamítavého rozhodnutí o určení vlastnického práva, protože rozhodnutí soudu prvního stupně o vyklizení pozemku nabylo právní moci a odvolací soud o něm nerozhodoval. Dovolatelům lze přisvědčit v tom, že žalobce má naléhavý právní zájem na určení tvrzeného vlastnického práva k nemovitosti, není-li jako vlastník zapsán v katastru nemovitostí; současně však platí, že naléhavý právní zájem ve smyslu § 80 písm. c) o. s. ř. naopak nemůže být dán, jestliže žaloba o určení vlastnictví nesměřuje proti osobě (příp. všem osobám), která je jako vlastník zapsána v katastru nemovitostí (srov. např. rozsudek Nejvyššího soudu ze dne 17. února 2009, sp. zn. 30 Cdo 620/2008, Soubor civilních rozhodnutí a stanovisek Nejvyššího soudu č. C 6995, rozsudek Nejvyššího soudu ze dne 19. prosince 2002, sp. zn. 30 Cdo 1333/2002, Soubor civilních rozhodnutí a stanovisek Nejvyššího soudu č. C 1637, rozsudek Nejvyššího soudu ze dne 26. června 1997, sp. zn. 3 Cdon 1319/96, publikovaný v informačním systému ASPI). Protože dovolatelé přes poučení nenavrhli, aby soud rozhodl o procesním nástupnictví osoby, na kterou žalovaní pozemek převedli (§ 107a o. s. ř.), je rozhodnutí odvolacího soudu v souladu s judikaturou dovolacího soudu.
+Z uvedeného vyplývá, že dovolání žalobců je zjevně bezdůvodné, dovolací soud je proto podle § 243b odst. 1 o. s. ř. odmítl a v souladu s § 243c odst. 2 o. s. ř. stručně vyložil důvody zjevné bezdůvodnosti.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř. za situace, kdy žalovaným v souvislosti s dovolacím řízením nevznikly žádné náklady, na jejichž náhradu by jinak měli vůči žalobcům právo.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 13. října 2011
+JUDr. Jiří Spáčil, CSc., v. r.
+předseda senátu
