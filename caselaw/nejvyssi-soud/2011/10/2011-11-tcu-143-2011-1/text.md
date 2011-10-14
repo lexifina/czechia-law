@@ -1,0 +1,15 @@
+11 Tcu 143/2011
+U S N E S E N Í
+Nejvyšší soud České republiky projednal žádost Ministerstva spravedlnosti Rumunské republiky o povolení průvozu odsouzeného R. G. a rozhodl v neveřejném zasedání konaném dne 14. října 2011 podle § 423 odst. 1 tr. ř. a čl. 16 Úmluvy o předávání odsouzených osob (publikovaná pod č. 553/1992 Sb.) t a k t o :
+I. Povoluje se průvoz odsouzeného R. G. územím České republiky z Norska do Rumunské republiky pro účely předání jmenovaného k výkonu trestu odnětí svobody uloženého mu rozsudkem Okresního soudu ve Fredrikstad, Norské království, ze dne 6. března 2009 ve spojení s rozsudkem Odvolacího soudu v Borgartingu ze dne 23. 6. 2009.
+II. Po dobu průvozu bude předávaná osoba držena ve vazbě.
+O d ů v o d n ě n í :
+Ministerstvo spravedlnosti Rumunské republiky požádalo u Ministerstva spravedlnosti České republiky dne 4. 10. 2011, č. j. 50680/2010, na základě čl. 16 Úmluvy o předávání odsouzených osob ze dne 21. 3. 1983, publikované pod č. 553/1992 Sb. (dále jen „Úmluva“) o povolení průvozu státního občana Rumunské republiky R. G. územím České republiky. Ministerstvo spravedlnosti České republiky předložilo podanou žádost Nejvyššímu soudu dne 12. 10. 2011.
+Průvoz se má uskutečnit v rámci předání jmenovaného z Norska do Rumunska k výkonu nepodmíněného trestu odnětí svobody v trvání osmi let, který mu byl uložen rozsudkem Okresního soudu ve Fredrikstad ze dne 6. března 2009 v trvání devíti let a následně o jeden rok snížen rozsudkem Odvolacího soudu v Borgartingu ze dne 23. 6. 2009, za trestný čin pašování omamných látek podle čl. 162 odst. 1, 3 odrážka první norského trestního zákona.
+Shora uvedené trestné činnosti se odsouzený R. G. podle zjištění Okresního soudu ve Fredrikstad dopustil tím, že se dne 28. 9. 2008 při cestě vlakem ze Švédského království z města G. do Norského království do F. pokusil převézt ve svém batohu 2,5 kg heroinu.
+Nejvyšší soud České republiky projednal shora uvedenou žádost Ministerstva spravedlnosti Rumunské republiky z hlediska splnění právních podmínek vyžadovaných jak vnitrostátní právní úpravou (§ 423 tr. ř.), tak i mezinárodní právní úpravou (čl. 16 Úmluvy). Zjistil, že v posuzovaném případě jde o předání k výkonu trestu odnětí svobody, který byl odsouzenému uložen za čin, který vykazuje znaky trestného činu i podle právního řádu České republiky (trestný čin nedovolené výroby a jiného nakládání s omamnými a psychotropními látkami a s jedy podle § 283 tr. zákoníku), přičemž předávaná osoba není státním občanem České republiky (čl. 16 Úmluvy).
+Jelikož nebyly zjištěny žádné právní překážky, které by bránily povolení průvozu odsouzeného R. G. územím České republiky pro účely předání k výkonu výše uvedeného nepodmíněného trestu odnětí svobody v Rumunsku, vyhověl Nejvyšší soud České republiky žádosti Ministerstva spravedlnosti Rumunské republiky. Zároveň rozhodl o nutném opatření omezujícím osobní svobodu předávané osoby v době průvozu územím České republiky.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 14. října 2011
+Předseda senátu:
+JUDr. Karel Hasch
