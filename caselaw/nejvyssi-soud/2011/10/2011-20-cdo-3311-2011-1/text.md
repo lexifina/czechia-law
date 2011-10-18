@@ -1,0 +1,18 @@
+20 Cdo 3311/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Olgy Puškinové a soudců JUDr. Miroslavy Jirmanové a JUDr. Vladimíra Mikuška ve věci výkonu rozhodnutí oprávněného S. K., zastoupeného Mgr. René Gemmelem, advokátem se sídlem v Ostravě - Moravské Ostravě, Poštovní 2, proti povinnému A. K., pro 9.888,- Kč, zřízením soudcovského zástavního práva, vedené u Okresního soudu v Bruntále pod sp. zn. 35 E 1053/2010, o dovolání povinného proti usnesení Krajského soudu v Ostravě ze dne 31. března 2011, č. j. 66 Co 216/2011 - 43, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.):
+Okresní soud v Bruntále usnesením ze dne 10. 12. 2010, č. j. 32 E 1053/2010 - 26, částečně zastavil ohledně nákladů předcházejícího řízení ve výši 9.888,- Kč výkon rozhodnutí zřízením soudcovského zástavního práva nařízený usnesením téhož soudu ze dne 18. 8. 2010, č. j. 32 E 1053/2010 - 7, (výrok I.), návrh povinného na zastavení výkonu v celém rozsahu zamítl (výrok II.), dále rozhodl o nákladech řízení o zastavení výkonu rozhodnutí (výrok III.) a současně uložil povinnému zaplatit České republice - Okresnímu soudu v Bruntále soudní poplatek ve výši 1.000,- Kč do tří dnů od právní moci usnesení (výrok IV.).
+Krajský soud v Ostravě usnesením ze dne 31. 3. 2011, č. j. 66 Co 216/2011 - 43, usnesení soudu prvního stupně v odvoláním napadené části, tj. ve výrocích I., II. a III. změnil tak, že návrh povinného na zastavení výkonu rozhodnutí zamítl a současně rozhodl o náhradě nákladů řízení před soudy obou stupňů.
+Usnesení odvolacího soudu napadl povinný dovoláním, aniž byl při tomto úkonu zastoupen advokátem, a jeho podání ani nesplňovalo náležitosti tohoto mimořádného opravného prostředku.
+Pro podání dovolání, které je mimořádným opravným prostředkem, zákon stanoví
+v § 241 o. s. ř. požadavek, aby účastník řízení, který podává dovolání, měl buď sám právnické vzdělání, nebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc. Ustanovení § 241 o. s. ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejího splnění nelze o dovolání rozhodnout.
+Usnesením soudu prvního stupně ze dne 29. 6. 2011, č. j. 32 E 1053/2010 - 54, byl povinný vyzván, aby si pro podání dovolání v této věci zvolil zástupcem advokáta a aby jeho prostřednictvím podal řádné dovolání proti usnesení Krajského soudu v Ostravě ze dne 31. 3. 2011, č. j. 66 Co 216/2011 - 43, a současně byl poučen o tom, že nebude-li do 15 dnů ode dne doručení tohoto usnesení předložena podepsanému soudu plná moc zvoleného advokáta a jím sepsané dovolání, Nejvyšší soud dovolací řízení zastaví. Toto usnesení bylo povinnému doručeno dne 12. 7. 2011, na výzvu soudu prvního stupně však dosud nereagoval.
+Z uvedeného vyplývá, že nedostatek podmínky dovolacího řízení podle § 241 odst. 1 věty první o. s. ř. nebyl ani přes poučení odstraněn. Nejvyšší soud proto dovolací řízení podle § 243c odst. 1 a § 104 odst. 2 věty třetí o. s. ř. zastavil.
+Dovolatel z procesního hlediska zavinil, že dovolací řízení bylo zastaveno, oprávněnému však prokazatelné náklady tohoto řízení, na jejichž náhradu by jinak měl podle § 146 odst. 2 věty první, § 224 odst. 1 a § 243b odst. 5 věty první o. s. ř. právo, podle obsahu spisu nevznikly; této procesní situaci odpovídá výrok, že na náhradu nákladů dovolacího řízení nemá právo žádný z účastníků.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 18. října 2011
+JUDr. Olga Puškinová, v. r.
+předsedkyně senátu
