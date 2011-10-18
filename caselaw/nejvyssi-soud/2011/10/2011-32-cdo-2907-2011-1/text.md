@@ -1,0 +1,16 @@
+32 Cdo 2907/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Příhody a soudců JUDr. Hany Gajdziokové a JUDr. Miroslava Galluse ve věci žalobkyně Profidebt, s. r. o., se sídlem v Praze 1, Jindřišská 24/941, PSČ 110 00, identifikační číslo osoby 27221971, proti žalované S. D., o zaplacení částky 119.254,59 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 61 C 2356/2010, o dovolání žalované proti usnesení Městského soudu v Praze ze dne 20. prosince 2010, č. j. 25 Co 439/2010-20, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Městský soud v Praze v záhlaví označeným usnesením potvrdil rozsudek Obvodního soudu pro Prahu 1 ze dne 5. listopadu 2010, č. j. 61 C 2356/2010-12, v odvoláním napadené části o lhůtě k plnění uložené povinnosti a ve výroku o nákladech řízení; současně rozhodl o nákladech odvolacího řízení.
+Usnesení odvolacího soudu žalovaná napadla opravným prostředkem, který označila jako odvolání, které však podle obsahu (§ 41 odst. 2 občanského soudního řádu, dále též jen „o. s. ř.“) nemůže být ničím jiným než dovoláním, když odvolání proti rozhodnutí odvolacího soudu podat nelze (srov. § 201 o. s. ř.). Dovolatelka namítá, že vzhledem ke svým poměrům není schopna zaplatit přisouzenou pohledávku ve stanovené třídenní lhůtě běžící od právní moci rozhodnutí (odvoláním se neúspěšně domáhala povolení splátek).
+Proti rozhodnutí odvolacího soudu potvrzujícímu rozsudek soudu prvního stupně v části, jíž byla v souvislosti s uložením povinnosti k plnění ve věci samé určena lhůta k tomuto plnění, však dovolání přípustné není; dovolatelka byla v tomto ohledu odvolacím soudem poučena správně.
+Podle ustanovení § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Z ustanovení § 237 odst. 1 o. s. ř. přípustnost dovolání nevyplývá, jelikož usnesení o lhůtě k plnění uložené povinnosti není rozhodnutím ve věci samé. Přípustnost dovolání proti napadenému usnesení nelze vyvodit ani z ustanovení § 238, § 238a a § 239 o. s. ř., neboť rozhodnutí o lhůtě k plnění mezi tam taxativně vyjmenovanými usneseními, proti nimž je dovolání přípustné, uvedeno není (srov. např. usnesení Nejvyššího soudu ze dne 22. května 2003, sp. zn. 28 Cdo 567/2003, uveřejněné v Souboru civilních rozhodnutí a stanovisek Nejvyššího soudu, C. H. Beck, pod C 1928, z pozdější doby např. usnesení Nejvyššího soudu ze dne 4. listopadu 2010, sp. zn. 22 Cdo 234/2009, in www.nsoud.cz).
+Nejvyšší soud proto, aniž se za těchto okolností zabýval důsledky nedostatku povinného zastoupení dovolatelky advokátem (srov. § 241b odst. 2 část věty za středníkem o. s. ř.), dovolání podle ustanovení § 243b odst. 5 věty první ve spojení s § 218 písm. c) o. s. ř. odmítl.
+O nákladech dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř.; žalobkyni, která by měla na jejich náhradu právo, podle obsahu spisu takové náklady nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 18. října 2011
+JUDr. Pavel Příhoda
+předseda senátu
