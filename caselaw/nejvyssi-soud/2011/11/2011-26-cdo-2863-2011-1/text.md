@@ -1,0 +1,19 @@
+26 Cdo 2863/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Feráka a soudkyň JUDr. Pavlíny Brzobohaté a Doc. JUDr. Věry Korecké, CSc., ve věci žalobce D. D., proti žalovaným 1/ Bytovému družstvu Polní 1814/12, se sídlem v Českém Těšíně, Polní 1814/12, IČ: 26829533, a 2/ D. Č., o obnovu řízení, vedené u Okresního soudu v Karviné – pobočky v Havířově pod sp. zn. 23 C 85/2006, o dovolání žalobce proti usnesení Krajského soudu v Ostravě ze dne 14. dubna 2011, č. j. 11 Co 142/2011-729, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Okresní soud v Karviné – pobočka v Havířově (dále též jen „soud prvního stupně“) usnesením ze dne 18. února 2011, č. j. 23 C 85/2006-715, odmítl žalobu na obnovu řízení podanou žalobcem dne 18. ledna 2011 ve věci vedené u tohoto soudu pod sp. zn. 23 C 85/2006 a rozhodl o nákladech řízení účastníků.
+K odvolání žalobce Krajský soud v Ostravě jako soud odvolací usnesením ze dne 14. dubna 2011, č. j. 11 Co 142/2011-729, citované usnesení soudu prvního stupně potvrdil a rozhodl o nákladech odvolacího řízení účastníků.
+Proti usnesení odvolacího soudu podal žalobce – nezastoupen advokátem – dovolání.
+Nejvyšší soud shledal, že dovolání bylo podáno včas osobou k tomu oprávněnou – účastníkem řízení (§ 240 odst. 1 zákona č. 99/1963 Sb., občanský soudní řád, ve znění po novele provedené zákonem č. 7/2009 Sb. – dále jen „o.s.ř.“), avšak nejsou dány podmínky pro jeho věcné projednání.
+Podle § 241 odst. 1 o.s.ř. není-li dále stanoveno jinak, musí být dovolatel (fyzická osoba), nemá-li právnické vzdělání, zastoupen advokátem (případně notářem), jímž musí být také dovolání sepsáno. Povinné zastoupení je zvláštní podmínkou dovolacího řízení týkající se dovolatele, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění není možno vydat rozhodnutí, jímž se řízení končí.
+Podle § 104 odst. 2 o.s.ř. jde-li o nedostatek podmínky řízení, který lze odstranit, učiní k tomu soud vhodná opatření. Nezdaří-li se nedostatek podmínky řízení odstranit, řízení zastaví.
+Protože žalobce nebyl zastoupen advokátem a z obsahu spisu nevyplývalo, že by sám měl právnické vzdělání, byl usnesením soudu prvního stupně ze dne 4. července 2011, č. j. 23 C 85/2006-736, vyzván, aby si ve lhůtě patnácti dnů od doručení tohoto usnesení zvolil pro podání dovolání v této věci zástupcem advokáta a aby dovolání jeho prostřednictvím doplnil; současně byl poučen o možnosti požádat soud v uvedené lhůtě o osvobození od soudních poplatků a o ustanovení zástupce pro dovolací řízení. Dostalo se mu rovněž poučení, že dovolací řízení bude zastaveno, nebude-li výzvě vyhověno. Ačkoli bylo usnesení s výzvou žalobci doručeno (obálkou III. – viz § 2 instrukce ministerstva spravedlnosti ze dne 27. května 2009, č. j. 58/2009-OD-Org., uveřejněné pod č. 10., ročník 2009 Sbírky instrukcí a sdělení ministerstva spravedlnosti České republiky) dne 11. července 2011 (§ 45 odst. 3 písm. a/, § 49 odst. 1 o.s.ř.), ve stanovené lhůtě a ani dosud výzvě nevyhověl.
+Z uvedeného vyplývá, že zákonem stanovená podmínka dovolacího řízení podle § 241 odst. 1 věty první o.s.ř. ve spojení s ustanovením § 241 odst. 4 o.s.ř. nebyla přes opatření provedené soudem prvního stupně do současné doby splněna. Nejvyšší soud proto dovolací řízení pro nedostatek uvedené podmínky řízení podle § 243c odst. 1 a § 104 odst. 2 o.s.ř. zastavil.
+Výrok o nákladech dovolacího řízení odpovídá situaci, kdy žalovaným v dovolacím řízení nevznikly žádné náklady, na jejichž úhradu by jinak měli právo proti dovolateli, který zavinil zastavení dovolacího řízení (§ 243b odst. 5 věta první, § 224 odst. 1, § 146 odst. 2 věta první a § 151 odst. 1 o.s.ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 16. listopadu 2011
+JUDr. Miroslav Ferák, v. r.
+předseda senátu
