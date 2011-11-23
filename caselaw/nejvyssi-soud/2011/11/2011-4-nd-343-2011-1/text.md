@@ -1,0 +1,17 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY 4 Nd 343/2011-40
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně senátu JUDr. Danuše Novotné a soudců JUDr. Františka Hrabce a JUDr. Jiřího Pácala ve věci žalobce INSOLV, v.o.s., se sídlem Praha 1, Růžová 1416/17, insolvenční správce společnosti Michálek logistic s.r.o., se sídlem Dolní Beřkovice, Mělnická 80, zastoupeného Mgr. Ing. Jakubem Antošem, advokátem se sídlem v Praze 1, Růžová 17, proti žalovanému FITOR – Comphania Portuguesa de Texteis, S.A., se sídlem Aptdo 32, Estrada Nacional 204-5, Avidos, Vila Nova de Famalicao, 4761-918, Portugalsko, o zaplacení částky 37.533,60 Kč s příslušenstvím, vedené u Okresního soudu v Bruntále pod sp. zn. 19 C 85/2011, o určení příslušného soudu Nejvyšším soudem podle § 11 odst. 3 o.s.ř., takto:
+Věc, dosud vedenou u Okresního soudu v Bruntále pod sp. zn. 19 C 85/2011, projedná a rozhodne Okresní soud v Bruntále.
+O d ů v o d n ě n í :
+Usnesením ze dne 19. 5. 2011, sp. zn 19 C 85/2011, vyslovil Okresní soud v Bruntále svou místní nepříslušnost ve věci a po právní moci tohoto usnesení věc předložil podle § 11 odst. 3 o.s.ř. Nejvyššímu soudu k určení, který soud věc projedná a rozhodne.
+V odůvodnění usnesení Okresní soud v Bruntále uvedl, že v označené právní věci se žalobce domáhá proti žalovanému, který je právnickou osobou se sídlem v Portugalsku, zaplacení ceny za přepravu. Ve věci je dána mezinárodní příslušnost soudu České republiky podle čl. 31 odst. 2 písm. b) Úmluvy o přepravní smlouvě v mezinárodní silniční nákladní dopravě, avšak toto ustanovení neupravuje místní příslušnost soudu daného státu, která není založena ani žádným z ustanovení upravujících místní příslušnost dle § 84 a násl. o.s.ř.
+Vzhledem k tomu, že nelze stanovit místně příslušný soud České republiky, vyslovil Okresní soud v Bruntále usnesením svou místní nepříslušnost a po právní moci toho usnesení věc předložil podle § 11 odst. 3 o.s.ř. Nejvyššímu soudu k určení, který soud věc projedná a rozhodne.
+Podle § 11 odst. 3 o.s.ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Podmínky rozhodnutí podle § 11 odst. 3 o.s.ř. jsou v daném případě splněny, neboť věc spadá do pravomoci soudů České republiky ale podmínky místní příslušnosti soudu chybějí.
+V žalobě ze dne 29. 4. 2011 žalobce uvedl, že pravomoc a příslušnost Okresního soudu v Bruntále dovozuje z ustanovení čl. 31 bod 1. písm. b) Úmluvy o přepravní smlouvě v mezinárodní silniční nákladní dopravě (CMR), avšak aplikace tohoto ustanovení umožňuje dovodit pouze pravomoc soudů České republiky, nikoli však místní příslušnost konkrétního soudu (v daném případě Okresního soudu v Bruntále), byť v obvodu tohoto soudu se nachází místo, kde byla zásilka převzata k přepravě nebo místo určené k jejímu vydání.
+Nejvyšší soud však k místu, které bylo určeno k vydání předmětné zásilky, přesto přihlédl, neboť neshledal žádného důvodu, aby věc byla projednána a rozhodnuta jiným soudem než Okresním soudem v Bruntále, v jehož obvodu působnosti se toto místo nachází a u něhož bylo na podkladě podání žaloby zahájeno řízení a z hlediska rychlosti a hospodárnosti řízení tedy určil podle § 11 odst. 3 o.s.ř. právě Okresní soud v Bruntále tím soudem, který věc projedná a rozhodne.
+Poučení: Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 23. listopadu 2011
+JUDr. Danuše N o v o t n á
+předsedkyně senátu
