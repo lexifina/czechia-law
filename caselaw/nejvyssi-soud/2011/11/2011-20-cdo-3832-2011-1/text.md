@@ -1,0 +1,15 @@
+20 Cdo 3832/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Olgy Puškinové a soudců JUDr. Vladimíra Mikuška a JUDr. Miroslavy Jirmanové v exekuční věci oprávněné IMPER, s.r.o., se sídlem v Českých Budějovicích, Husova 11, identifikační číslo osoby 608 49 631, zastoupené JUDr. Zdeňkem Drtinou, advokátem se sídlem v Českých Budějovicích, nám. Přemysla Otakara II., proti povinnému M. H., pro 12.105,- Kč s příslušenstvím, vedené u Okresního soudu v Chomutově pod sp. zn. Nc 6084/2004, o dovolání povinného proti usnesení Krajského soudu v Ústí nad Labem ze dne 28. února 2006, č. j. 9 Co 629/2005 - 30, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá nárok na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.):
+Shora označeným usnesením Krajský soud v Ústí nad Labem potvrdil usnesení Okresního soudu v Chomutově ze dne 28. 6. 2004, č. j. Nc 6084/2004 - 6, jímž okresní soud nařídil na majetek povinného exekuci podle vykonatelného platebního rozkazu téhož soudu ze dne 11. 2. 1999, č. j. 10 C 21/99 - 8, ve spojení s opravným usnesením téhož soudu ze dne 28. 4. 1999, č. j. 10 C 21/99 - 10.
+Proti tomuto usnesení podal povinný dovolání, aniž byl při tomto úkonu zastoupen advokátem.
+Pro podání dovolání, které je mimořádným opravným prostředkem, stanoví § 241 o. s. ř. požadavek, aby účastník řízení, jenž podává dovolání, měl buď sám právnické vzdělání, nebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc. Ustanovení § 241 o. s. ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejího splnění nelze o dovolání rozhodnout.
+Usnesením soudu prvního stupně ze dne 4. 8. 2006, č. j. 50 Nc 6084/2004 - 35, byl dovolatel vyzván, aby si pro podání dovolání v této věci zvolil zástupcem advokáta a jeho prostřednictvím podal řádné dovolání, s poučením, že nebude-li do 15-ti dnů ode dne doručení usnesení soudu předložena plná moc zvoleného advokáta a jím sepsané dovolání, bude dovolací řízení zastaveno, a současně byl poučen o možnosti požádat o ustanovení zástupce pro dovolací řízení. Dovolatel následně požádal o ustanovení zástupce pro dovolací řízení, jeho žádost však byla usnesením Okresního soudu v Chomutově ze dne 19. 2. 2009, č. j. 50 Nc 6084/2004 - 52, zamítnuta. Toto usnesení nabylo právní moci dne 18. 3. 2009. Lhůta pro odstranění nedostatku povinného zastoupení a k doplnění dovolání tak uplynula dnem 18. 5. 2009 (§ 241b odst. 3 o. s. ř.), avšak dovolatel nedostatek povinného zastoupení v dovolacím řízení neodstranil a ani netvrdil, že by měl právnické vzdělání. Dovolací soud proto řízení podle § 243c odst. 1 a § 104 odst. 2 věty třetí o. s. ř. zastavil.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, § 224 odst. 1 a § 151 odst. 1 o. s. ř., neboť účastníkům v tomto řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 24. listopadu 2011
+JUDr. Olga P u š k i n o v á, v. r.
+předsedkyně senátu
