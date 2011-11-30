@@ -1,0 +1,18 @@
+8 Tdo 1487/2011
+U S N E S E N Í
+Nejvyšší soud České republiky jako soud pro mládež rozhodl v senátě složeném z předsedkyně JUDr. Milady Šámalové a soudců JUDr. Věry Kůrkové a JUDr. Jana Bláhy, ve věci dítěte mladšího patnácti let „karafiát“*), o dovolání matky S. M., podaném proti usnesení Krajského soudu v Praze – soudu pro mládež ze dne 25. 5. 2010, sp. zn. 13 Rodo 2/2010, jako soudu odvolacího ve věci vedené u Okresního soudu v Mělníku – soudu pro mládež pod sp. zn. 14 Rod 10/2009, t a k t o :
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Praze – soud pro mládež usnesením ze dne 25. 5. 2010, sp. zn. 13 Rodo 2/2010, potvrdil rozsudek Okresního soudu v Mělníku – soudu pro mládež ze dne 16. 12. 2009, sp. zn. 14 Rod 10/2009, jímž byl nezletilému „karafiátu“ uložen podle § 93 odst. 1 písm. a) zákona č. 218/2003 Sb. dohled probačního úředníka, a bylo rozhodnuto o nákladech řízení.
+Proti rozsudku odvolacího soudu podala matka nezletilého dítěte S. M. včasné dovolání. Jelikož však při podání dovolání nebyla zastoupena advokátem a uvedla, že podrobné odůvodnění dovolání bude učiněno do jednoho měsíce právním zástupcem, soud prvního stupně ji měl vyzvat k odstranění vad, což však neučinil a dovolání předložil Nejvyššímu soudu. Tento soud jako dovolací soud poté, co mu byla předmětná věc předložena, věc bez přezkoumání dovolání vrátil Okresnímu soudu v Mělníku s přípisem, v němž nařídil, aby byly odstraněny formální nedostatky spočívající v porušení podmínek stanovených v § 241 odst. 1 o. s. ř., a teprve poté, aby věc znovu předložil Nejvyššímu soudu (viz č. l. 116).
+I přesto, že soud prvního stupně uvedený požadavek a z něho vyplývající postup splnil, když usnesením ze dne 21. 6. 2011, sp. zn. 14 Rod 10/2009, doručeným dne 24. 6. 2011 (č. l. 117), vyzval dovolatelku k odstranění nedostatku povinného zastoupení obhájcem ve lhůtě do 30 dnů od doručení usnesení, k předmětné nápravě nedošlo, a Nejvyššímu soudu bylo dovolání znovu předloženo jen ve verzi, kterou si sepsala sama matka dítěte mladšího patnácti let.
+Podle § 241 odst. 1 o. s. ř. není-li stanoveno jinak, musí být dovolatel, jde-li o fyzickou osobu bez právnického vzdělání, zastoupen advokátem nebo notářem. Podle § 241 odst. 4 o. s. ř. musí být dovolání sepsáno advokátem, notářem nebo osobou uvedenou v § 21, § 21a, § 21b anebo v § 26a odst. 3 tr. ř., která má právnické vzdělání.
+Jak je ze shora uvedených skutečností patrné, matka nezletilého je fyzickou osobou bez právnického vzdělání, a proto nebyly splněny podmínky v ustanovení § 241 o. s. ř. vymezené.
+Protože povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, bez jejíhož splnění nelze vydat – s výjimkou usnesení, jímž se dovolací řízení pro tento nedostatek zastavuje – rozhodnutí, kterým se řízení končí, a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu prvního stupně do dnešního dne nedošlo, Nejvyšší soud dovolací řízení podle § 104 odst. 2 o. s. ř. a § 243c o. s. ř. zastavil.
+Dovolatelka z procesního hlediska zavinila, že dovolací řízení bylo zastaveno, účastníkům řízení ve stádiu dovolacího řízení náklady nevznikly. Této procesní situaci odpovídá ve smyslu § 146 odst. 2, věty první, § 224 odst. 1 a § 243b odst. 4 o. s. ř. výrok o tom, že na náhradu nákladů dovolacího řízení nemá žádný z nich právo.
+P o u č e n í : Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 30. listopadu 2011
+Předsedkyně senátu:
+JUDr. Milada Šámalová
+*) byl použit pseudonym ve smyslu zák. č. 218/2003 Sb.
