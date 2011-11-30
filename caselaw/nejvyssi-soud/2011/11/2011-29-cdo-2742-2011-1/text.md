@@ -1,0 +1,14 @@
+29 Cdo 2742/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Šuka, a soudců JUDr. Filipa Cilečka a doc. JUDr. Ivany Štenglové v právní věci navrhovatelů a) Ing. T. V., zastoupeného Mgr. Michalem Poupětem, advokátem, se sídlem v Praze 1, Štěpánská 27/1742, PSČ 110 00, a b) Ing. T. K., zastoupeného JUDr. Josefem Skácelem, advokátem, se sídlem v Praze 2, Londýnská 674/55, PSČ 120 21, za účasti 1) OKD, a. s., se sídlem v Ostravě, Moravská Ostrava, Prokešovo náměstí 6/2020, PSČ 728 30, identifikační číslo osoby 26863154, a 2) RPG INDUSTRIES SE, se sídlem 199 Arch. Makarios Avenue, NEOCLEOUS BUILDING, 3030 Limasol, Kypr, obou zastoupených JUDr. Pavlem Dejlem Ph.D., LL. M, advokátem, se sídlem v Praze – Novém Městě, Jungmannova 24, PSČ 110 00, o přezkoumání přiměřenosti protiplnění, vedené u Krajského soudu v Ostravě pod sp. zn. 26 Cm 114/2005, o dovolání navrhovatele b) a R. M., obou zastoupených JUDr. Josefem Skácelem, advokátem, se sídlem v Praze 2, Londýnská 674/55, PSČ 120 21, proti přípisu Vrchního soudu v Olomouci ze dne 8. dubna 2011, č. j. 8 Cmo 145/2009-824, takto:
+Řízení o „dovolání“ proti přípisu Vrchního soudu v Olomouci ze dne 8. dubna 2011, č. j. 8 Cmo 145/2009-824, se zastavuje.
+O d ů v o d n ě n í:
+Navrhovatel b) Ing. T. K. a R. M. podali dovolání proti v záhlaví označenému přípisu Vrchního soudu v Olomouci, jímž odvolací soud sdělil zástupci obou dovolatelů, že s R. M. nebude jako s účastníkem řízení na straně navrhovatele v řízení pokračováno.
+Dovolání je ve smyslu ustanovení § 236 odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“) mimořádným opravným prostředkem, kterým lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Z uvedeného vyplývá, že dovoláním nelze napadnout přípis odvolacího soudu, který nemá povahu rozhodnutí.
+Občanský soudní řád proto také neupravuje funkční příslušnost soudu pro projednání dovolání proti takovému úkonu soudu. Jelikož nedostatek funkční příslušnosti je neodstranitelným nedostatkem podmínky řízení, Nejvyšší soud řízení o „dovolání” proti přípisu odvolacího soudu, které touto vadou trpí, podle ustanovení § 104 odst. 1 o. s. ř. zastavil (srov. obdobně např. důvody usnesení Nejvyššího soudu ze dne 4. září 2003, sp. zn. 29 Odo 265/2003, uveřejněné pod číslem 47/2006 Sbírky soudních rozhodnutí a stanovisek).
+K poukazu dovolatelů na závěry formulované Nejvyšším soudem v usnesení ze dne 16. listopadu 2010, sp. zn. 29 Cdo 2403/2010 (jímž zrušil usnesení Vrchního soudu v Olomouci ze dne 21. ledna 2010, č. j. 8 Cmo 145/2009-797, o zamítnutí návrhu na procesní nástupnictví na straně navrhovatelů), Nejvyšší soud podotýká, že odvolací soud postupoval v intencích označeného rozhodnutí Nejvyššího soudu.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 30. listopadu 2011
+JUDr. Petr Š u k
+předseda senátu
