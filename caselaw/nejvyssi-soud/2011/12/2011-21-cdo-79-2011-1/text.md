@@ -1,0 +1,13 @@
+21 Cdo 79/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a JUDr. Romana Fialy v právní věci žalobkyně M. K., proti žalované E. K., o 1.700,- Kč, o žalobách na obnovu řízení a pro zmatečnost podaných žalobkyní proti rozsudku Okresního soudu v Ostravě ze dne 9. března 2006, č. j. 82 C 338/2002-106, a usnesení Krajského soudu v Ostravě ze dne 22. května 2006, č. j. 8 Co 355/2006-116, vedené u Okresního soudu v Ostravě pod sp. zn. 82 C 286/2006, o dovolání žalobkyně proti usnesení Krajského soudu v Ostravě ze dne 20. února 2009, č. j. 57 Co 62/2009-122, takto:
+I. Dovolání žalobkyně se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.):
+Dovolání žalobkyně proti usnesení Krajského soudu v Ostravě ze dne 20. 2. 2009, č. j. 57 Co 62/2009-122, kterým bylo potvrzeno usnesení Okresního soudu v Ostravě ze dne 8. 10. 2008, č. j. 82 C 286/2006-84, jímž soud prvního stupně žalobkyni odňal osvobození od soudních poplatků a zrušil usnesení Okresního soudu v Ostravě, č. j. 82 C 286/2006-24, ve spojení s usnesením Krajského soudu v Ostravě, č. j. 57 Co 681/2007-48, kterým byl žalobkyni ustanoven zástupcem advokát Mgr. Tomáš Gurecký se sídlem v Ostravě, Josefa Skupy č. 1639/21, není přípustné podle ustanovení § 237 zákona č. 99/1963 Sb., občanský soudní řád [ve znění do 30. 6. 2009 (dále jen „o. s. ř.“), neboť dovoláním je napadeno usnesení odvolacího soudu, které bylo vydáno před 1. 7. 2009 (srov. Čl. II bod 12 zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., ve znění pozdějších předpisů a další související zákony)], a to již proto, že usnesením odvolacího soudu nebylo potvrzeno nebo změněno usnesení soudu prvního stupně, kterým by bylo rozhodnuto ve věci samé, a jeho přípustnost nevyplývá ani z ustanovení § 238, § 238a a § 239 o. s. ř.; usnesením soudu prvního stupně nebylo rozhodnuto ve věcech, které jsou taxativně vyjmenovány v ustanoveních § 238 a § 238a o. s. ř., a nejde rovněž o žádný z případů procesních rozhodnutí uvedených v ustanovení § 239 o. s. ř.
+Nejvyšší soud České republiky proto dovolání žalobkyně – aniž by se mohl věcí dále zabývat - podle ustanovení § 243b odst.5 věty první a § 218 písm.c) o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 části věty před středníkem o. s. ř., neboť žalobkyně s ohledem na výsledek řízení nemá na náhradu svých nákladů právo a žalované v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 15. prosince 2011
+JUDr. Mojmír Putna, v. r.
+předseda senátu
