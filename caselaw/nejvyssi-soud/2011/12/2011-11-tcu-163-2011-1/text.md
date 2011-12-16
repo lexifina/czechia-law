@@ -1,0 +1,16 @@
+11 Tcu 163/2011-12
+U S N E S E N Í
+Nejvyšší soud České republiky projednal žádost Ministerstva spravedlnosti Slovenské republiky o povolení průvozu předávaného P. L., a rozhodl v neveřejném zasedání dne 16. prosince 2011 podle § 422 tr. ř. t a k t o :
+I. Povoluje se průvoz předávaného P. L., státního občana Slovenské republiky, územím České republiky z Belgického království do Slovenské republiky pro účely trestního stíhání pro trestný čin neodvedení daně a pojistného podle § 148a odst. 1, 4 slovenského trestního zákona č. 140/1961 Zb., a to na základě evropského zatýkacího rozkazu vydaného Okresním soudem v Nitře dne 28. 11. 2011 a žádosti Ministerstva spravedlnosti Slovenské republiky ze dne 9. 12. 2011.
+II. Po dobu průvozu bude předávaná osoba držena ve vazbě.
+O d ů v o d n ě n í :
+Ministerstvo spravedlnosti Slovenské republiky požádalo dne 9. 12. 2011 na základě čl. 25 Rámcového rozhodnutí Rady Evropské unie ze dne 13. června 2002, o evropském zatýkacím rozkazu a postupech předávání mezi členskými státy, o povolení průvozu P. L., Slovensko, státního občana Slovenské republiky, územím České republiky.
+Průvoz se má uskutečnit v rámci předání jmenované osoby realizovaného na základě evropského zatýkacího rozkazu vydaného Okresním soudem v Nitře dne 28. 11. 2011 z Belgického království k trestnímu stíhání pro trestný čin neodvedení daně a pojistného podle § 148a odst. 1, 4 slovenského trestního zákona č. 140/1961 Zb., za který předávanému hrozí trest odnětí svobody v trvání pěti až dvanácti let. Průvoz se má uskutečnit leteckou cestou s mezipřistáním v Praze.
+Uvedené trestné činnosti se měl předávaný P. L. dopustit tím, že jako jednatel společnosti REAL DANUBE, spol. s r. o., se sídlem Hlavná č. 24, Trnava, podal na Finančním úřadě v Trnavě daňová přiznání k dani z přidané hodnoty za zdaňovací období květen 2002, červen 2002 a srpen 2002 podložená fiktivními dodavatelskými fakturami různých společností, ve kterých neoprávněně uplatnil nárok na vrácení nadměrného odpočtu DPH v celkové výši 7 668 468 Sk (254 547 €) na základě deklarovaného, avšak neuskutečněného přijatého zdanitelného plnění v úmyslu opatřit sobě a jinému neoprávněný prospěch odčerpáním finančních prostředků v uvedené výši ze státního rozpočtu SR.
+Nejvyšší soud České republiky projednal předloženou žádost z hlediska splnění právních podmínek a náležitostí vyžadovaných vnitrostátní úpravou (§ 422 tr. ř.). Zjistil, že v posuzovaném případě jde o předání z Belgického království do Slovenské republiky za účelem trestního stíhání. Jak je zřejmé z výpisu z centrální evidence obyvatel, předávaná osoba není státním občanem České republiky a nemá ani na území České republiky trvalý pobyt.
+Jelikož tedy nebyly zjištěny žádné právní překážky, které by bránily povolení průvozu předávaného P. L. územím České republiky pro účely výkonu shora uvedeného trestu, vyhověl Nejvyšší soud České republiky citované žádosti a rozhodl tak, jak je uvedeno ve výroku tohoto usnesení.
+Zároveň Nejvyšší soud České republiky rozhodl o nutném opatření omezujícím osobní svobodu předávané osoby v době průvozu územím České republiky.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 16. prosince 2011
+Předseda senátu:
+JUDr. Karel Hasch
