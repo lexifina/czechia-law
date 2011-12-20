@@ -1,0 +1,16 @@
+20 Cdo 4133/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové a soudců JUDr. Olgy Puškinové a JUDr. Vladimíra Mikuška ve věci výkonu rozhodnutí oprávněného Kubík a. s., se sídlem v Praze 1, U Prašné brány 1090/2, identifikační číslo osoby 259 28 082, zastoupeného Mgr. Alešem Velcem, advokátem se sídlem v Litomyšli, Ropkova 51, proti povinnému M. M., za účasti I. M. a vydražitelky H. K., pro 54 730,- Kč s příslušenstvím, prodejem nemovitostí, o udělení příklepu, vedené u Okresního soudu v Ústí nad Orlicí pod sp. zn. 15 E 721/2002, o dovolání povinného a jeho manželky proti usnesení Krajského soudu v Hradci Králové ze dne 10. 2. 2011, č. j. 19 Co 500/2010-334, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Povinný a jeho manželka napadli dovoláním v záhlaví uvedené rozhodnutí, kterým odvolací soud potvrdil usnesení ze dne 20. 8. 2010, č. j. 15 E 721/2002-309, jímž okresní soud udělil příklep k blíže označeným nemovitostem ve společném jmění manželů M. a nacházejících se v katastrálním území Litice nad Orlicí (rekreační chata a pozemky) a dále k pozemku povinného se všemi jeho součástmi a příslušenstvím a nacházejícím se v témže katastrálním území. Odvolací soud žádnému z účastníků nepřiznal právo na náhradu nákladů odvolacího řízení.
+Je-li dovolatelem – jako v projednávaném případě – fyzická osoba, je nezbytné, aby (nemá-li právnické vzdělání) byla zastoupena advokátem (notářem), jímž musí být dovolání i sepsáno (srov. § 241 odst. 1, odst. 2 písm. a/ a odst. 4 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů, dále též jen „o. s. ř.“).
+Dovolatelé při podání dovolání nebyli zákonem stanoveným způsobem zastoupeni a z obsahu spisu nevyplývá, že by kterýkoli z nich měl právnické vzdělání.
+Usnesením ze dne 20. 4. 2011, č. j. 15 E 721/2002-344, soud prvního stupně proto dovolatele vyzval, aby si ve lhůtě třiceti dnů od doručení usnesení zvolili zástupcem advokáta a jeho prostřednictvím podali řádné dovolání. Současně je poučil, že jinak bude dovolací řízení zastaveno. Výzvě, která jim byla doručena dne 29. 4. 2011, dovolatelé nevyhověli, a to ani poté, co jim soud usnesením ze dne 9. 9. 2011, č. j. 15 E 721/2002-366 (v právní moci 1. 10. 2011), zástupce z řad advokátů pro zastupování v dovolacím řízení neustanovil.
+Jelikož povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – vyjma usnesení, jímž se dovolací řízení právě pro jeho neodstranění zastavuje – vydání rozhodnutí, kterým se řízení končí (§ 241 o. s. ř.), a protože ke zhojení uvedeného nedostatku přes opatření soudu nedošlo, Nejvyšší soud dovolací řízení zastavil (§ 104 odst. 2, § 243c odst. 1 o. s. ř.).
+Výrok o nákladech je odůvodněn § 243b odst. 5 větou první, § 224 odst. 1 a § 146 odst. 2 větou první o. s. ř.; žádnému z účastníků, jenž by měl na jejich náhradu právo, náklady v této fázi řízení podle obsahu spisu nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 20. prosince 2011
+JUDr. Miroslava Jirmanová, v. r.
+předsedkyně senátu
