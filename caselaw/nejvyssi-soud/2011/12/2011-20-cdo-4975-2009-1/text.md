@@ -1,0 +1,13 @@
+20 Cdo 4975/2009
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové a soudců JUDr. Olgy Puškinové a JUDr. Vladimíra Mikuška v exekuční věci oprávněného Property Professional Investment Limited, se sídlem 2nd Floor, Hygeia House, 66 College Road, Harrow, Middlesex HA1 1BE, Spojené království Velké Británie a Severního Irska, číslo společnosti 6982554, adresa pro doručování v ČR: OMNIA-ITAZ, a. s., Property Professional Investment Limited, PO BOX 2, Vlašim, proti povinnému Slovnaft a. s., se sídlem v Bratislavě, Vlčie Hrdlo 1, Slovenská republika, identifikační číslo osoby 31322832, zastoupenému JUDr. Dušanem Srpem Ph.D., advokátem se sídlem v Praze 1, Palác Myslbek, Ovocný Trh 8/1096, o nařízení exekuce pro 15,689.041,- USD s příslušenstvím, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 13 Nc 15698/2005, o dovolání povinného proti usnesení Městského soudu v Praze ze dne 24. 2. 2009, č. j. 16 Co 412/2008-689, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Praze jako soud odvolací v záhlaví uvedeným rozhodnutím (po předchozím zrušení usnesení odvolacího soudu ze dne 17. 4. 2006, č. j. 18 Co 586/2005-534, usnesením Nejvyššího soudu ČR ze dne 18. 6. 2008, č. j. 20 Cdo 942/2007-621) potvrdil usnesení ze dne 16. 9. 2005, č. j. 13 Nc 15698/2005-16, jímž soud prvního stupně nařídil podle rozhodčího nálezu ze dne 15. 4. 1996, č. 347/1995, vydaného Mezinárodním obchodním arbitrážním soudem při Obchodní a průmyslové komoře Ruské federace k uspokojení pohledávky oprávněného exekuci a jejím provedením pověřil JUDr. Zdeňka Zítku, soudního exekutora Exekutorského úřadu Plzeň-město.
+Povinný podal proti usnesení odvolacího soudu dovolání, které vzal svým podáním doručeným soudu dne 23. 11. 2011 zpět. Nejvyšší soud proto dovolací řízení podle § 243b odst. 5 věty druhé zákona č. 99/1963 Sb., občanského soudního řádu (dále též jen „o. s. ř.“), zastavil.
+Protože exekuční řízení již bylo zastaveno (viz usnesení soudního exekutora z 25. 10. 2011, sp. zn. 108 EX 06470/05, v právní moci 19. 11. 2011), rozhodl Nejvyšší soud i o nákladech dovolacího řízení. Oprávněnému podle obsahu spisu v dovolacím řízení žádné náklady nevznikly, tomu odpovídá výrok, že žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení (§ 146 odst. 2 věta první, § 224 odst. 1 a § 243b odst. 5 o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 20. prosince 2011
+JUDr. Miroslava J i r m a n o v á, v. r.
+předsedkyně senátu
