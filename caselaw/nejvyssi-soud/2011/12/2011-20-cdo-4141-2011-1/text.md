@@ -1,0 +1,14 @@
+20 Cdo 4141/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Olgy Puškinové a soudců JUDr. Vladimíra Mikuška a JUDr. Miroslavy Jirmanové v exekuční věci oprávněné Dopravní společnost Zlín-Otrokovice, s.r.o., se sídlem ve Zlíně, Podvesná XVII/3833, identifikační číslo osoby 607 30 153, proti povinnému J. Ž., pro 242,- Kč s příslušenstvím, vedené u Okresního soudu ve Zlíně pod sp. zn. 23 Nc 693/2003, o dovolání povinného proti usnesení Krajského soudu v Brně ze dne 30. července 2007, č. j. 26 Co 885/2006 - 10, takto:
+Dovolací řízení se zastavuje.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.):
+Shora označeným usnesením Krajský soud v Brně odmítl podle ustanovení § 44 odst. 10 zákona č. 120/2001 Sb., ve znění účinném do 31. 10. 2009, odvolání povinného proti usnesení Okresního soudu ve Zlíně ze dne 29. 10. 2003, č. j. 23 Nc 693/2003 - 3, jímž okresní soud nařídil podle platebního rozkazu téhož soudu ze dne 30. 4. 1996, č. j. 1743/95 - 3a, k uspokojení pohledávky oprávněné ve výši 242,- Kč a nákladů řízení ve výši 550,- Kč, a dále pro náklady exekuce, které budou v průběhu řízení stanoveny, exekuci na majetek povinného a jejím provedením pověřil soudního exekutora JUDr. Martina Růžičku, Exekutorský úřad Zlín.
+Proti tomuto usnesení podal povinný dovolání, aniž byl při tomto úkonu zastoupen advokátem.
+Pro podání dovolání, které je mimořádným opravným prostředkem, stanoví § 241 o. s. ř. požadavek, aby účastník řízení, jenž podává dovolání, měl buď sám právnické vzdělání, nebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc. Ustanovení § 241 o. s. ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejího splnění nelze o dovolání rozhodnout.
+Usnesením soudu prvního stupně ze dne 5. 10. 2011, č. j. 23 Nc 693/2003 - 43, byl dovolatel vyzván, aby si pro podání dovolání v této věci zvolil zástupcem advokáta a jeho prostřednictvím podal řádné dovolání, s poučením, že nebude-li do 15-ti dnů od doručení usnesení soudu předložena plná moc zvoleného advokáta a jím sepsané dovolání, bude dovolací řízení zastaveno, a současně byl poučen o možnosti požádat o ustanovení zástupce pro dovolací řízení. Toto usnesení bylo povinnému doručeno dne 11. 10. 2011, lhůta pro odstranění nedostatku povinného zastoupení a k doplnění dovolání tak uplynula dnem 26. 10. 2011 (§ 241b odst. 3 o. s. ř.), avšak dovolatel nedostatek povinného zastoupení v dovolacím řízení neodstranil, o ustanovení zástupce nepožádal a ani netvrdil, že by měl právnické vzdělání. Dovolací soud proto řízení podle § 243c odst. 1 a § 104 odst. 2 věty třetí o. s. ř. zastavil.
+O případných nákladech dovolacího řízení rozhodne soudní exekutor (§ 88 odst. 1 zákona č. 120/2001 Sb.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 21. prosince 2011
+JUDr. Olga P u š k i n o v á, v. r.
+předsedkyně senátu
