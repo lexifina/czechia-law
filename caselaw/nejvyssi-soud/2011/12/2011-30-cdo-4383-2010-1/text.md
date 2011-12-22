@@ -1,0 +1,16 @@
+30 Cdo 4383/2010
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátu složeném z předsedy JUDr. Pavla Pavlíka a soudců JUDr. Lubomíra Ptáčka a JUDr. Pavla Vrchy, v právní věci žalobce PROTV, s.r.o., se sídlem v Praze 1, Malá Strana, Újezd 428/34, identifikační číslo osoby 26478561, zastoupeného Mgr. Lubošem Havlem, advokátem se sídlem v Praze 4 –Nusle, Na Pankráci 30a/404, proti žalovaným 1) TV PRODUKCE a.s., se sídlem v Praze 8, Libeň, Na Žertvách 24/132, identifikační číslo osoby 26227011, zastoupené Mgr. Ludmilou Kutějovou, advokátkou se sídlem v Praze 8, Sokolovská 49/5, 2) FTV Prima, spol. s r.o., se sídlem v Praze 8, Libeň, Na Žertvách 24/132, identifikační číslo osoby 48115908, zastoupené Mgr. Ludmilou Kutějovou, advokátkou se sídlem v Praze 8, Sokolovská 49/5, o zdržení se činností a zaplacení částky 34.268.168,- Kč s příslušenstvím, vedené u Městského soudu v Praze pod sp.zn. 37 Cm 2/2007, o dovolání žalobce proti rozsudku Vrchního soudu v Praze ze dne 11. května 2010, č.j. 3 Cmo 300/2009-143, takto:
+I. Dovolací řízení se zastavuje.
+II. Žalobce je povinen zaplatit žalovaným na náhradu nákladů dovolacího řízení 15.960,- Kč, do tří dnů od právní moci usnesení, k rukám Mgr. Ludmily Kutějové, advokátky se sídlem v Praze 8, Sokolovská 49/5.
+Stručné odůvodnění
+(§ 243c odst. 2 o.s.ř.):
+Vrchní soud v Praze rozsudkem ze dne 11. května 2010, č.j. 3 Cmo 300/2009-143, potvrdil rozsudek Městského soudu v Praze ze dne 17. února 2009, č.j. 37 Cm 2/2007-106, kterým byla (ve výroku I. bod 3) zamítnuta žaloba, aby žalované společně a nerozdílně do tří dnů od právní moci rozsudku zaplatily žalobci částku 34.268.168,- Kč, s příslušenstvím v tomto výroku specifikovaným. Dále potvrdil rozsudek Městského soudu v Praze ve výroku o povinnosti zaplatit soudní poplatek a změnil jej toliko ve výroku o nákladech řízení před Městským soudem v Praze. Konečně rozhodl o nákladech odvolacího řízení.
+Rozsudek Vrchního soudu v Praze napadl dovoláním žalobce, které však podáním ze dne 12. prosince 2011 vzal zpět.
+Podle ustanovení § 243b odst. 5 věta druhá o. s. ř. vezme-li dovolatel dovolání zcela zpět, dovolací soud řízení zastaví.
+S ohledem na uvedený procesní úkon žalobce, jímž vzal dovolání podané v této věci zpět, Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) řízení zastavil.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 5 věta prvá o. s. ř. ve spojení s § 224 odst. 1, § 151 a § 146 odst. 2 věta první o. s. ř., když dovolatel procesně zavinil, že dovolací řízení muselo být zastaveno, a žalovaným v dovolacím řízení vznikly náklady právního zastoupení, představované odměnou za vyjádření k dovolání sepsané advokátkou žalovaných ve výši 13.000,- Kč (§ 14 odst. 1, § 15, § 18 odst. 1, § 19a vyhlášky č. 484/2000 Sb.) ve znění po novele provedené vyhláškou č. 277/2006 Sb. účinné od 1. 9. 2006) a v paušální náhradě hotových výloh advokátovi v částce 300,- Kč (§ 13 odst. 3 vyhlášky č. 177/1996 Sb. ve znění po novele provedené vyhláškou č. 276/2006 Sb.). Celkem výše přisouzené náhrady nákladů dovolacího řízení činí 13.300,- Kč, která je po úpravě o 20 % daň z přidané hodnoty představována částkou 15.960,- Kč (§ 137 odst. 3 o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 22. prosince 2011
+JUDr. Pavel P a v l í k, v. r.
+předseda senátu
