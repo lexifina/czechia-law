@@ -1,0 +1,17 @@
+21 Cdo 4855/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Novotného a soudců JUDr. Ljubomíra Drápala a JUDr. Mojmíra Putny v právní věci žalobce Ing. J. N., proti žalovanému Českému vysokému učení technickému, vysoká škola se sídlem v Praze 6, Zikova č. 1903/4, IČO 68407700, zastoupenému JUDr. Michalem Korčákem, advokátem se sídlem v Praze 6, Milady Horákové č. 101, o náhradu mzdy, vedené u Obvodního soudu pro Prahu 6 pod sp. zn. 19 C 69/2005, o dovolání žalovaného proti rozsudku Městského soudu v Praze ze dne 12. května 2010 č.j. 62 Co 503/2009-195, takto:
+I. Dovolání žalovaného se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í (§ 243c odst.2 o.s.ř.) :
+Proti rozsudku Městského soudu v Praze ze dne 12.5.2010 č.j. 62 Co 503/2009-195, kterým byl potvrzen rozsudek Obvodního soudu pro Prahu 6 ze dne 21.5.2009 č.j. 19 C 69/2005-170 v napadené části výroku, jímž bylo žalovanému uloženo, aby zaplatil žalobci náhradu mzdy ve výši 11.758,50 Kč, podal žalovaný včasné dovolání.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) po přezkoumání napadeného pravomocného rozsudku odvolacího soudu, které provedl bez nařízení jednání (§ 243a odst. 1 věta první o.s.ř.), dospěl k závěru, že dovolání žalovaného směřuje proti rozhodnutí, proti němuž není přípustné.
+Dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští (§ 236 odst. 1 o.s.ř.).
+Dovolání je přípustné proti rozsudku odvolacího soudu, jímž bylo změněno rozhodnutí soudu prvního stupně ve věci samé [§ 237 odst.1 písm.a) o.s.ř.] nebo jímž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil [§ 237 odst.1 písm.b) o.s.ř.], anebo jímž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není přípustné podle ustanovení § 237 odst. 1 písm. b) o.s.ř. a dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam [§ 237 odst.1 písm.c) o.s.ř.]; to neplatí ve věcech, v nichž dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50.000,- Kč a v obchodních věcech 100.000,- Kč, přičemž se nepřihlíží k příslušenství pohledávky [§ 237 odst.2 písm.a) o.s.ř.].
+V posuzované věci bylo dovoláním dotčeným rozsudkem rozhodnuto o peněžitém plnění nepřevyšujícím částku 50.000,- Kč, a proto dovolání žalovaného do potvrzujícího výroku rozsudku odvolacího soudu o věci samé není v posuzovaném případě podle hledisek uvedených v ustanovení § 237 o.s.ř. přípustné.
+Protože dovolání žalovaného proti rozhodnutí odvolacího soudu není přípustné, Nejvyšší soud České republiky je - aniž by se mohl věcí dále zabývat - podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 části věty před středníkem o.s.ř., neboť žalovaný, který z procesního hlediska zavinil, že dovolání bylo odmítnuto, na náhradu nákladů řízení nemá právo a žalobci v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 5. ledna 2012
+JUDr. Zdeněk N o v o t n ý, v. r.
+předseda senátu
