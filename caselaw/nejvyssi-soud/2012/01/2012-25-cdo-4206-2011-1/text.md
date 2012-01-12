@@ -1,0 +1,21 @@
+25 Cdo 4206/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marty Škárové a soudců JUDr. Petra Vojtka a JUDr. Roberta Waltra v právní věci žalobce S. M., zastoupeného opatrovníkem obcí Bohuslavice, se sídlem úřadu Dubicko, Bohuslavice 2, proti žalované České republice, 1) Ministerstvo spravedlnosti České republiky, se sídlem Praha 2, Vyšehradská 16, 2) Krajské státní zastupitelství v Ostravě, se sídlem Ostrava, na Hradbách 21, a 3) Okresní státní zastupitelstvím v Olomouci, se sídlem Olomouc, třída 17. listopadu 44, o žalobě na obnovu řízení a pro zmatečnost, vedené u Okresního soudu v Olomouci pod sp. zn. 13 Nc 110/2005, k dovolání žalobce proti usnesení Krajského soudu v Ostravě - pobočky v Olomouci ze dne 30. 9. 2011, č. j. 12 Co 303/2011-412, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Okresní soud v Olomouci usnesením ze dne 23. 6. 2011, č. j. 13 Nc 110/2005-393, odmítl podání žalobce došlé soudu dne 25. 6. 2008, označené jako „Žaloba na obnovu řízení a pro zmatečnost“ a rozhodl o náhradě nákladů řízení.
+Usnesením ze dne 30. 9. 2011, č. j. 12 Co 303/2011-412, Krajský soud v Ostravě - pobočka v Olomouci, odmítl odvolání žalobce pro nedostatek jeho náležitostí postupem podle ust. § 43 odst. 2 o. s. ř. ve spojení s § 211 o. s. ř. a rozhodl o náhradě nákladů odvolacího řízení, neboť odvolání postrádalo základní náležitosti ve smyslu ustanovení § 205 odst. 1 a 2 o. s. ř. a tento nedostatek nebyl odstraněn ani podáním žalobce ze dne 29. 7. 2011, kterým reagoval na usnesení Okresního soudu v Olomouci ze dne 20. 7. 2011, č. j. 13 Nc 110/2005-402, jímž jej soud podle ust. § 43 odst. 1 o. s. ř. vyzval k odstranění vad podání a poučil jej o následcích nesplnění výzvy.
+Proti rozhodnutí odvolacího soudu podal žalobce dovolání, v němž uvedl, že již od počátku řízení je mu odepřeno právo na soudní proces a právo na advokáta. Navrhl, aby ho Nejvyšší soud ČR osvobodil od soudních poplatků a ustanovil mu zástupcem z řad advokátů Mgr. Františka Drlíka, advokáta v Šumperku.
+Nejvyšší soud jako soud dovolací (§ 10a o. s. ř.) dospěl k závěru, že dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný.
+Dovolatel sice není zastoupen advokátem ani nedoložil, že by měl právnické vzdělání, avšak vzhledem k tomu, že jeho dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný, není tento nedostatek podmínky dovolacího řízení důvodem k jeho zastavení podle § 104 odst. 2 o. s. ř. Podle ustanovení § 241b odst. 2 o. s. ř. totiž platí, že není-li splněna podmínka uvedená v § 241 o. s. ř., postupuje se obdobně podle § 104 odst. 2 o. s. ř.; to neplatí, bylo-li dovolání podáno opožděně, někým, kdo k dovolání není oprávněn, nebo směřuje-li proti rozhodnutí, proti němuž není dovolání přípustné.
+Přípustnost dovolání proti usnesení upravují ustanovení § 237 až § 239 o. s. ř.
+Dovolání v této věci není přípustné podle ustanovení § 237 odst. 1 o. s. ř., neboť usnesení o odmítnutí odvolání není rozhodnutím ve věci samé.
+Ustanovení § 238, § 238a a § 239 o. s. ř. nezakládají přípustnost dovolání proto, že rozhodnutí o odmítnutí odvolání v jejich taxativních výčtech uvedeno není, a ustanovení § 239 odst. 3 o. s. ř. se nevztahuje na případy, kdy usnesením odvolacího soudu byl odmítnut návrh na zahájení odvolacího řízení (odvolání).
+Z uvedeného vyplývá, že dovolání proti usnesení, jímž odvolací soud ve smyslu ustanovení § 43 odst. 2 a § 211 o. s. ř. odmítl odvolání pro vady, které brání jeho projednání, není přípustné; mimořádným opravným prostředkem proti takovému rozhodnutí je žaloba pro zmatečnost - § 229 odst. 4 o. s. ř. (srov. např. usnesení Nejvyššího soudu ze dne 9. 12. 2004, sp. zn. 29 Odo 829/2003, publikované v časopise Soudní judikatura, roč. 2005, č. 72).
+Nejvyšší soud proto dovolání žalobce odmítl podle § 243b odst. 5 věty první a § 218 písm. c) o. s. ř.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 3 o. s. ř., neboť žalobce nemá na náhradu nákladů dovolacího řízení právo a žalované v dovolacím řízení náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 12. ledna 2012
+JUDr. Marta Škárová
+předsedkyně senátu
