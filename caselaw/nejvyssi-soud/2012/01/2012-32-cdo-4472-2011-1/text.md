@@ -1,0 +1,15 @@
+32 Cdo 4472/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Příhody a soudců JUDr. Hany Gajdziokové a JUDr. Miroslava Galluse ve věci navrhovatelky TEMPLUM – společenské hry s. r. o., se sídlem v Praze 5, Radlická 49, PSČ 150 00, identifikační číslo osoby 25776941, za účasti 1) PREdistribuce, a. s., se sídlem v Praze 5, Svornosti 3199/19a, PSČ 150 00, identifikační číslo osoby 27376516, a 2) Pražská energetika, a. s., se sídlem v Praze 10, Na Hroudě 1492/4, PSČ 100 05, identifikační číslo osoby 60193913, o nařízení předběžného opatření, vedené u Obvodního soudu pro Prahu 5 pod sp. zn. 15 Nc 902/2010, o dovolání navrhovatelky proti usnesení Městského soudu v Praze ze dne 21. února 2010, č. j. 20 Co 31/2011-47, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Dovolání navrhovatelky proti v záhlaví označenému usnesení, jímž Městský soud v Praze potvrdil usnesení Obvodního soudu pro Prahu 5 ze dne 17. prosince 2010, č. j. 15 Nc 902/2010-37, kterým byl podle ustanovení § 75b občanského soudního řádu (dále též jen „o. s. ř.“) odmítnut návrh na nařízení předběžného opatření, není přípustné podle ustanovení § 237 o. s. ř., neboť usnesením odvolacího soudu nebylo potvrzeno nebo změněno usnesení soudu prvního stupně, kterým bylo rozhodnuto ve věci samé (srov. mutatis mutandis právní názor vyjádřený v usnesení Nejvyššího soudu ze dne 22. ledna 2002, sp. zn. 26 Cdo 1533/2001, uveřejněném pod číslem 62/2002 Sbírky soudních rozhodnutí a stanovisek a dále též např. v usnesení Nejvyššího soudu ze dne 30. června 2004, sp. zn. 29 Odo 201/2003, uveřejněném v časopise Soudní judikatura, ročník 2004, pod číslem 166).
+Dovolání není přípustné ani podle ustanovení § 238 a § 238a o. s. ř., protože usnesením soudu prvního stupně nebylo rozhodnuto ve věcech, které jsou taxativně vyjmenovány v těchto ustanoveních.
+Přípustnost dovolání pak nevyplývá ani z ustanovení § 239 o. s. ř., neboť nejde o žádný z případů procesních rozhodnutí uvedených v ustanovení § 239 odst. 1 a 2 o. s. ř. a ustanovení § 239 odst. 3 věty první o. s. ř., stanovící přípustnost dovolání proti usnesení odvolacího soudu, kterým bylo potvrzeno usnesení soudu prvního stupně o odmítnutí návrhu (žaloby), výslovně určuje, že to neplatí, jestliže byl odmítnut návrh na předběžné opatření podle § 75a a § 75b o. s. ř.
+Nejvyšší soud proto, aniž se za těchto okolností zabýval důsledky nedostatku povinného zastoupení dovolatelky advokátem (srov. § 241b odst. 2 část věty za středníkem o. s. ř.), dovolání podle ustanovení § 243b odst. 5 věty první ve spojení s § 218 písm. c) o. s. ř. odmítl.
+O nákladech dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř.; účastníkům 1) a 2), kteří by měli podle těchto ustanovení na jejich náhradu právo, podle obsahu spisu takové náklady nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 17. ledna 2012
+JUDr. Pavel Příhoda
+předseda senátu
