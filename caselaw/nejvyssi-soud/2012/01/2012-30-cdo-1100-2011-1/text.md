@@ -1,0 +1,18 @@
+30 Cdo 1100/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Vrchy a soudců JUDr. Pavla Pavlíka a JUDr. Lubomíra Ptáčka, Ph.D., v právní věci žalobců: a) Z. K., a b) N. K., obou zastoupených Mgr. Petrem Kaustou, advokátem se sídlem v Ostravě-Moravské Ostravě, Čs. legií 5, proti žalované S. S., zastoupené Mgr. Matějem Kopřivou, advokátem se sídlem v Ostravě-Mariánských Horách, 28. října 219/438, o určení vlastnictví, vedené u Okresního soudu ve Vsetíně - pobočky ve Valašském Meziříčí pod sp. zn. 18 C 197/2006, o dovolání žalované proti rozsudku Krajského soudu v Ostravě ze dne 12. července 2010, č.j. 11 Co 9/2010-414, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění
+(§ 243c odst. 2 o.s.ř.):
+Okresní soud ve Vsetíně - pobočka ve Valašském Meziříčí rozsudkem ze dne 11. září 2009, č.j. 18 C 197/2006-377, určil, že „žalobci a) a b) jsou v rámci společného jmění manželů vlastníky nemovitostí a to: pozemku p.č. 846/1 o výměře 20 m2 - zastavěná plocha a nádvoří, pozemku p.č. 896 o výměře 308 m2 - zastavěná plocha a nádvoří, pozemku p. č. 239/2 o výměře 848 m2 - zahrada, pozemku p. č. 243 o výměře 47 m2 - zahrada, všech zapsaných na LV č. 861 u Katastrálního úřadu pro Zlínský kraj, Katastrální pracoviště Valašské Meziříčí, pro k.ú. a obec V.“ (výrok I.), dále určil, že „žalobce a) je vlastníkem nemovitostí: pozemku p.č. st. 88 o výměře 390 m2 - zastavěná plocha a nádvoří, pozemku p. č. st. 89 o výměře 25 m2 - zastavěná plocha a nádvoří, pozemku p. č. st. 846/2 o výměře 18 m2 - zastavěná plocha a nádvoří, pozemku p.č. 241 o výměře 179 m2 - travní porost, pozemku p. č. 242/1 o výměře 74 m2 - zahrada, pozemku p. č. 244 o výměře 367 m2 - ostatní plocha, rodinného domu č.p. 31 na pozemku p. č. st. 88, zemědělského stavení bez čp/če na pozemku p. č. st. 89, jiné stavby na pozemku p.č. 846/1, zapsané na LV č. 861, a na pozemku p. č. 846/2, jiné stavby bez čp/če na pozemku p. č. 896, zapsané na LV č. 861 všech zapsaných na LV č. 84 u Katastrálního úřadu pro Zlínský kraj, Katastrální pracoviště Valašské Meziříčí, pro k. ú. obec V.“ (výrok II.). Zároveň rozhodl o náhradě nákladů řízení (výroky III. a IV.)
+K odvolání žalované Krajský soud v Ostravě rozsudkem ze dne 12. července 2010, č. j. 11 Co 9/2010-414, potvrdil rozsudek soudu I. stupně ve věci samé (výrok I.) a rozhodl o náhradě nákladů odvolacího řízení (výroky II. a III.).
+Toto rozhodnutí odvolacího soudu žalovaná napadla dne 4. listopadu 2010 dovoláním.
+Podáním ze dne 29. prosince 2011 (doručeným Nejvyššímu soudu dne 2. ledna 2012) vzala žalovaná své dovolání, dříve než o něm bylo dovolacím soudem rozhodnuto, v celém rozsahu zpět z důvodu, že „nemovitosti, o jejichž vlastnictví ve sporu šlo, byly v mezidobí prodány v dražbě u soudního exekutora JUDr. T. V. v rámci exekuce vedené na majetek žalobce a) Z. K. pod spis. zn. 103 Ex 06973/10.“
+Podle ustanovení § 243b odst. 5 věta druhá o. s. ř. vezme-li dovolatel dovolání zcela zpět, dovolací soud řízení zastaví.
+S ohledem na uvedený procesní úkon žalované, jímž vzala dovolání v této věci zpět, Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) řízení zastavil.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5, věty první, § 224 odst. 1 a § 146 odst. 1 písm. c) o. s. ř. (per analogiam), když podmínky pro aplikaci § 146 odst. 2, věty první, o. s. ř. (vzhledem k tomu, že žalobcům v tomto dovolacím řízení žádné náklady nevznikly).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 18. ledna 2011
+JUDr. Pavel Vrcha, v. r.
+předseda senátu
