@@ -1,0 +1,16 @@
+21 Nd 8/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Ljubomíra Drápala a soudců JUDr. Zdeňka Novotného a JUDr. Mojmíra Putny v exekuční věci oprávněné Web Site Design s.r.o. se sídlem v Bratislavě, Sibirska č. 23 Slovenská republika, IČO 35749890, zastoupené JUDr. Michalem Luknárem, advokátem se sídlem v Nitře, Zvolenská č. 8, Slovenská republika, proti žalovanému D. B., pro 6.297,- Euro s příslušenstvím, vedené u Okresního soudu v Rakovníku pod sp. zn. 23 EXE 1279/2011, o určení místní příslušnosti soudu, takto:
+Věc, vedenou u Okresního soudu v Rakovníku pod sp. zn. 23 EXE 1279/2011, projedná a rozhodne Obvodní soud pro Prahu 6.
+O d ů v o d n ě n í :
+Oprávněná se domáhala nařízení exekuce podle zákona č. 120/2001 Sb. proti povinnému s tím, že povinný se zdržuje v České republice na adrese Rakovník, Vysoká 110, kde má i majetek. Návrh na nařízení exekuce byl podán u Exekutorského úřadu Praha 6 dne 8.3.2011.
+Okresní soud v Rakovníku usnesením ze dne 21.4.2011 č.j. 23 EXE 1279/2011-32 vyslovil svou místní nepříslušnost a rozhodl, že věc bude postoupena Obvodnímu soudu pro Prahu 6 jako soudu místně příslušnému. Z provedených šetření dospěl k závěru, že povinný se na adrese R., V. nezdržuje, že se nezdržuje ani na adrese S., okres R., a že se vrátil na Slovensko, že je však jediným společníkem obchodní firmy META TRANS group, s.r.o. se sídlem v Praze 6, Potoční 120.
+Městský soud v Praze usnesením ze dne 26.7.2011 č.j. 1 Nc 2080/2011-38 rozhodl, že nesouhlas Obvodního soudu pro Prahu 6 s postoupením věci podle usnesení Okresního soudu v Rakovníku ze dne 21.4.2011 č.j. 23 EXE 1279/2011-32 je důvodný. Dospěl k závěru, že nejsou dány podmínky pro postoupení věci Obvodnímu soudu pro Prahu 6, neboť v jeho obvodu se povinný nezdržuje, že se odstěhoval na Slovensko, kam se mu podařilo doručit i soudní zásilky, a že na adrese Praha 6, Potoční 120 není povinný znám ani jeho firma.
+Okresní soud v Rakovníku usnesením ze dne 29.11.2011 č.j. 23 EXE 1279/2011-59 znovu vyslovil svou místní nepříslušnost a rozhodl, že "po uplynutí 15 denní lhůty od doručení tohoto usnesení oprávněné" bude věc postoupena Nejvyššímu soudu ČR, aby ve smyslu ustanovení § 11 odst. 3 o.s.ř. určil místně příslušný soud, který ve věci rozhodne. Dospěl k závěru, že věc patří do pravomoci soudů České republiky, neboť povinný má majetek v České republice, minimálně vlastní obchodní podíl společnosti, která má sídlo na území České republiky.
+Podle ustanovení § 11 odst. 1 o.s.ř. se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení.
+Podle ustanovení § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Nejvyšší soud České republiky po předložení věci Okresním soudem v Rakovníku (§ 105 odst.2 o.s.ř.) podle ustanovení § 11 odst.3 o.s.ř., přihlížeje k zásadě hospodárnosti a k zapsanému sídlu obchodní společnosti, které je povinný společníkem, určil, že věc projedná a rozhodne Obvodní soud pro Prahu 6.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 19. ledna 2012
+JUDr. Ljubomír Drápal, v. r.
+předseda senátu
