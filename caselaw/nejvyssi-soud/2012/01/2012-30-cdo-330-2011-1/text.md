@@ -1,0 +1,21 @@
+30 Cdo 330/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Ištvánka a soudců JUDr. Pavla Pavlíka a JUDr. Pavla Vrchy ve věci žalobce J. N., zastoupeného JUDr. Květuší Blaškovičovou, advokátkou se sídlem v Plzni, Pod Vinicemi 2, proti žalované České republice – Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 16, o 2,000.000,- Kč s příslušenstvím, vedené u Okresního soudu Plzeň – město pod sp. zn. 39 C 29/2010, o dovolání žalobce proti rozsudku Krajského soudu v Plzni ze dne 29. 6. 2010, č. j. 11 Co 264/2010 – 60, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Odvolací soud v záhlaví identifikovaným rozsudkem potvrdil rozsudek soudu prvního stupně, kterým tento soud zamítl žalobu, prostřednictvím, níž se žalobce domáhal, aby žalované byla uložena povinnost zaplatit mu částku 2,000.000,- Kč, a to včetně příslušenství. Uvedené částky se žalobce domáhal jakožto náhrady nemajetkové újmy, která mu dle jeho tvrzení měla být způsobena usnesením Okresního soudu Plzeň – město ze dne 9. 4. 2009, č. j. 73 Nc 428/2008 – 75, jímž byl zamítnut žalobcův návrh na zastavení exekuce. Toto usnesení bylo posléze k návrhu žalobce zrušeno odvolacím soudem, z čehož žalobce dovozoval, že uvedené usnesení je nezákonným rozhodnutím ve smyslu § 8 odst. 1 zákona č. 82/1998 Sb., o odpovědnosti za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo nesprávným úředním postupem a o změně zákona České národní rady č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád) – dále jen „OdpŠk“.
+Odvolací soud se ztotožnil jak se skutkovými, tak i s právními závěry soudu prvního stupně. V předchozím řízení, v němž se žalobce domáhal zastavení exekuce, došlo k chybnému postupu ze strany soudu prvního stupně, nicméně tato nesprávnost byla napravena tím, že rozhodnutí soudu prvního stupně bylo zrušeno soudem odvolacím. Nedošlo však k naplnění podmínky § 8 odst. 1 OdpŠk, tedy ke zrušení rozhodnutí, které by bylo pravomocné.
+Proti rozsudku odvolacího soudu podal žalobce dovolání, v němž namítá nesprávné právní posouzení věci spočívající v tom, že odvolací soud nevzal v potaz ustanovení § 8 odst. 2 OdpŠk (ve znění účinném do 24. 6. 2006 odst. 3), které dopadá právě na jeho případ. Žalobce navrhl, aby z tohoto důvodu dovolací soud rozsudek soudu odvolacího zrušil a věc vrátil tomuto soudu k dalšímu řízení.
+Nejvyšší soud v dovolacím řízení postupoval a o dovolání rozhodl podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném od 1. 7. 2009 (viz čl. II., bod 12 zákona č. 7/2009 Sb.) – dále jen „o. s. ř.“
+Dospěl k závěru, že dovolání není přípustné.
+V daném případě by dovolání mohlo být shledáno přípustným jen tehdy, jestliže by dovolací soud dospěl k závěru, že napadené rozhodnutí odvolacího soudu je po právní stránce ve věci samé zásadně významné (§ 237 odst. 1 písm. c/ o. s. ř.).
+Dovolatel ovšem dovolacímu soudu žádnou právní otázku zásadního významu, pro níž by dovolání mohlo být shledáno přípustným, nepřekládá.
+Pokud dovolatel namítá, že v daném případě měl odvolací soud aplikovat § 8 odst. 3 (resp. odst. 2) OdpŠk, nelze tomuto argumentu přisvědčit. Usnesení o zastavení výkonu rozhodnutí je sice vykonatelné doručením, ledaže je v něm výslovně stanoveno jinak, v daném případě však soud návrh na zastavení výkonu rozhodnutí zamítl, a nebylo tudíž co vykonávat. Podání návrhu na zastavení výkonu rozhodnutí žalobcem nemělo v daném případě ani odkladný účinek (viz § 266 odst. 1 a 2 o. s. ř. a contrario), tudíž žalobci zamítnutím návrhu soudem prvního stupně nemohla být způsobena škoda.
+Z tohoto důvodu tedy odvolací soud správně uzavřel, že v daném případě nedošlo k vydání nezákonného rozhodnutí, kterak má namysli § 8 odst. 1 OdpŠk. Nebyly tak naplněny podmínky odpovědnosti státu za škodu.
+Nejvyšší soud proto dovolání žalobce jako nepřípustné odmítl (§ 243b odst. 5 a § 218 písm. c/ o. s. ř.).
+Při rozhodování o náhradě nákladů řízení vycházel dovolací soud z toho, že žalobce, jehož dovolání bylo odmítnuto, nemá na náhradu nákladů řízení právo a žalované v dovolacím řízení žádné účelně vynaložené náklady nevznikly.
+Proti tomuto usnesení nejsou opravné prostředky přípustné.
+V Brně 25. ledna 2012
+JUDr. František I š t v á n e k, v. r.
+předseda senátu
