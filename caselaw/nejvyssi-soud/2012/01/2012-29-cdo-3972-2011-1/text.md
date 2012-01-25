@@ -1,0 +1,18 @@
+29 Cdo 3972/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Šuka a soudců JUDr. Petra Gemmela a Mgr. Jiřího Zavázala v právní věci žalobkyně KM - PRONA, a. s., se sídlem v Rynolticích 215, PSČ 463 55, identifikační číslo osoby 25479733, zastoupené Mgr. Ing. Martinem Pintou, advokátem, se sídlem v Liberci, Mozartova 679/21, PSČ 460 01, proti žalovanému M. K., zastoupenému JUDr. Františkem Řezankou, advokátem, se sídlem v Praze 9, Vašátkova 1012, PSČ 198 00, o zaplacení 895.282,- Kč s postižními právy ze směnky, vedené u Krajského soudu v Ústí nad Labem – pobočky v Liberci pod sp. zn. 37 Cm 81/2011, o dovolání žalovaného proti usnesení Vrchního soudu v Praze ze dne 20. července 2011, č. j. 8 Cmo 257/2011-56, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+V záhlaví označeným usnesením potvrdil Vrchní soud v Praze k odvolání žalovaného usnesení ze dne 2. června 2011, č. j. 37 Cm 81/2011-37, jímž Krajský soud v Ústí nad Labem – pobočka v Liberci zamítl návrh žalovaného na vyslovení neúčinnosti doručení směnečného platebního rozkazu Krajského soudu v Ústí nad Labem – pobočky v Liberci ze dne 22. března 2011, č. j. 37 Cm 81/2011-9 (výrok I.), a na odklad vykonatelnosti směnečného platebního rozkazu (výrok II.), a odmítl námitky žalovaného proti směnečnému platebnímu rozkazu (výrok III.).
+Proti usnesení odvolacího soudu podal žalovaný dovolání, jež Nejvyšší soud podle ustanovení § 243b odst. 5, § 218 písm. c/ zákona č. 99/1963 Sb., občanského soudního řádu (dále též jen o. s. ř.), odmítl. Učinil tak proto, že dovolání proti shora označenému usnesení není přípustné podle žádného ustanovení občanského soudního řádu.
+Podle ustanovení § 236 odst. 1 o. s. ř. lze dovoláním – jakožto mimořádným opravným prostředkem – napadnout pravomocná rozhodnutí odvolacího soudu pouze tehdy, připouští-li to zákon.
+Přípustnost dovolání proti usnesení odvolacího soudu upravují ustanovení § 237 až § 239 o. s. ř.
+Podle ustanovení § 237 odst. 1 o. s. ř. není dovolání přípustné, neboť ve všech případech přípustnosti dovolání upravených v tomto ustanovení musí jít o dovolání proti usnesení ve věci samé. Usnesení odvolacího soudu, jímž bylo potvrzeno usnesení soudu prvního stupně o zamítnutí návrhu na vyslovení neúčinnosti doručení směnečného platebního rozkazu a o zamítnutí návrhu na odklad vykonatelnosti směnečného platebního rozkazu, však usnesením ve věci samé není. Stejný závěr, totiž že nejde o usnesení ve věci samé, pak platí i pro usnesení odvolacího soudu, jímž odvolací soud potvrdil usnesení soudu prvního stupně o odmítnutí námitek proti směnečnému platebnímu rozkazu, (srov. usnesení Nejvyššího soudu uveřejněné pod číslem 86/2003 Sbírky soudních rozhodnutí a stanovisek).
+Ustanovení § 238, § 238a a § 239 o. s. ř. pak nezakládají přípustnost dovolání proto, že napadené usnesení nelze podřadit žádnému z tam vyjmenovaných případů.
+Výrok o nákladech řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalovaného bylo odmítnuto a žalobkyni podle obsahu spisu žádné náklady v dovolacím řízení nevznikly.
+Rozhodné znění občanského soudního řádu, podle kterého Nejvyšší soud dovolání projednal a rozhodl o něm (od 1. července 2009) se podává z bodu 12., části první, článku II. zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 25. ledna 2012
+JUDr. Petr Šuk
+předseda senátu
