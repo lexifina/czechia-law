@@ -1,0 +1,22 @@
+30 Cdo 4428/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Pavlíka a soudců JUDr. Lubomíra Ptáčka, Ph.D. a JUDr. Pavla Vrchy v právní věci žalobkyně Mgr. D. G., zastoupené obecným zmocněncem Ing. V. G., bytem tamtéž a dále zastoupené advokátem JUDr. Petrem Crhou, se sídlem v Mostě, Obchodní 41, s pobočkou v Břeclavi, náměstí T.G. Masaryka 2957/9A, proti žalovanému M. J., o ochraně osobnosti, vedené u Krajského soudu v Brně, pod sp.zn. 24 C 27/2007, o dovolání žalobkyně proti rozsudku Vrchního soudu v Olomouci ze dne 10. listopadu 2010, č.j. 1 Co 211/2010 – 92, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění
+(§ 243c odst. 2 o.s.ř.):
+Krajský soud v Brně (dále jen „soud prvního stupně“) rozsudkem ze dne 25. června 2010, č.j. 24 C 27/2007 – 50, zamítl žalobu o zaplacení náhrady nemajetkové újmy ve výši 50.000,- Kč (výrok I) a zároveň rozhodl, že žádný z účastníků nemá právo na náhradu nákladů řízení (výrok II).
+Vrchní soud v Olomouci (dále jen „odvolací soud“) rozhodl dne 10. listopadu 2010, č.j. 1 Co 212/2010-92 tak, že potvrdil rozsudek Krajského soudu v Brně (výrok I) a dále stanovil, že žalobkyně je povinna zaplatit žalovanému na náhradě nákladů odvolacího řízení částku 1.442,- Kč do tří dnů od právní moci rozsudku (výrok II).
+Proti tomuto rozsudku podala žalobkyně dne 28. února 2011, doplněné o podání ze dne 28. března 2011, dovolání k Nejvyššímu soudu ČR, jehož přípustnost opírá o ustanovení § 237 odst. 1 písm. c) o.s.ř., přičemž jako dovolací důvod uvádí, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci ve smyslu ustanovení § 241a odst. 2 písm. b) o.s.ř. Navrhla, aby dovolací soud zrušil rozsudek odvolacího soudu i soudu prvního stupně a vrátil věc soudu prvního stupně k dalšímu projednání.
+Nejvyšší soud jako soud dovolací (§ 10a o. s. ř.) přihlédl k čl. II bodu 12. zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů a další související zákony (rozsudek odvolacího soudu byl vyhlášen dne 10. listopadu 2010, takže tento procesní předpis je aplikován ve znění účinném od 1. 7. 2009).
+Nejvyšší soud jako soud dovolací (§ 10a o. s. ř.) dospěl k závěru, že v daném případě dovolání směřuje proti rozhodnutí, proti němuž není přípustné.
+Podmínky přípustnosti dovolání proti rozsudku odvolacího soudu upravuje ustanovení § 237 o. s. ř.
+Podle § 237 odst. 1 o. s. ř. je dovolání přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího soudu, jimiž bylo změněno rozhodnutí soudu prvního stupně ve věci samé [písm. a)], jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil [písm. b)], jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není přípustné podle písmena b) a dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam [písm. c)].
+Podle § 237 odst. 2 písm. a) o. s. ř. (ve znění účinném po 1. 7. 2009 – srov. bod 12. čl. II zákona č. 7/2009 Sb.) není dovolání podle odstavce 1 přípustné ve věcech, v nichž dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50.000,- Kč a v obchodních věcech 100.000,- Kč; k příslušenství pohledávky se přitom nepřihlíží.
+Potvrzujícím výrokem rozsudku odvolacího soudu bylo rozhodnuto o peněžité částce nepřevyšující 50.000,- Kč (bylo-li požadováno právě 50.000,- Kč za přiměřené zadostiučinění). Přípustnost dovolání proti potvrzujícímu výroku rozsudku odvolacího soudu, jež se řídí podle § 237 odst. 1 písm. c) o. s. ř., tak s ohledem na ustanovení § 237 odst. 2 písm. a) o. s. ř. nemůže být dána.
+Z uvedeného vyplývá, že dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný. Nejvyšší soud proto dovolání žalobkyně odmítl podle § 243b odst. 5, věty první, a § 218 písm. c) o. s. ř., aniž se mohl zabývat věcí z hlediska námitek uplatněných v dovolání.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 o. s. ř., neboť dovolatelka nemá na náhradu těchto nákladů nárok, zatímco ostatním účastníkům v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 31. ledna 2012
+JUDr. Pavel Pavlík, v. r.
+předseda senátu
