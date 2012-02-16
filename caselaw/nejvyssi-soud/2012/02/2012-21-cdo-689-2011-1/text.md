@@ -1,0 +1,13 @@
+21 Cdo 689/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a JUDr. Zdeňka Novotného v právní věci žalobkyně M. K., proti žalované České republice – Ministerstvu financí se sídlem v Praze 1, Letenská č. 15, zastoupené JUDr. Alanem Korbelem, advokátem se sídlem v Praze 1, Vodičkova č. 17/736, o 14.949,10 Kč s úrokem z prodlení, vedené u Okresního soudu v České Lípě pod sp. zn. 36 C 114/2010 (dříve sp. zn. 7 C 364/2000), o dovolání žalobkyně proti usnesení Krajského soudu v Ústí nad Labem – pobočky v Liberci ze dne 10. června 2010, č. j. 73 Co 597/2009-184, takto :
+I. Dovolání žalobkyně se odmítá.
+II. Žádná z účastnic nemá právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í (§ 243c odst. 2 o. s. ř.):
+Dovolání žalobkyně proti usnesení Krajského soudu v Ústí nad Labem – pobočky v Liberci ze dne 10. 6. 2010, č. j. 73 Co 597/2009-184, jímž byla podle ustanovení § 218 odst. 1 písm. c) o. s. ř. odmítnuta odvolání žalobkyně „okresnímu soudu doručená dne 19. 8. 2008 a dne 13. 3. 2009 proti výrokům II., III. a IV. rozsudku Okresního soudu v České Lípě ze dne 1. října 2002, č. j. 7 C 364/2000-89, ve spojení s usnesením Okresního soudu v České Lípě ze dne 7. listopadu 2002, č. j. 7 C 364/2000-96, ve spojení s rozsudkem Krajského soudu v Ústí na Labem – pobočka Liberec ze dne 27. května 2004, č. j. 29 Co 583/2002-125, a ve spojení s usnesením Okresního soudu v České Lípě ze dne 11. července 2008, č. j. 7 C 364/2000-141“, a rozhodnuto, že žádný z účastníků nemá právo na náhradu nákladů odvolacího řízení, není přípustné podle ustanovení § 237, § 238, § 238a o. s. ř., neboť se nejedná o rozhodnutí ve věci samé, a nejde rovněž o žádný z případů procesních rozhodnutí uvedených v ustanovení § 239 o. s. ř. (srov. též usnesení Nejvyššího soudu ze dne 28. 6. 2005, sp. zn. 29 Odo 381/2005, které bylo uveřejněno pod č. 174 v časopise Soudní judikatura, roč. 2006).
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) proto dovolání žalobkyně podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. – aniž by se mohl věcí dále zabývat – odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 části věty před středníkem o. s. ř., neboť žalobkyně s ohledem na výsledek dovolacího řízení nemá na náhradu svých nákladů právo a žalované v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 16. února 2012
+JUDr. Mojmír Putna, v. r.
+předseda senátu
