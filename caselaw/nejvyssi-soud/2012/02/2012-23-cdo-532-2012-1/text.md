@@ -1,0 +1,15 @@
+23 Cdo 532/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Dese a soudců JUDr. Kateřiny Hornochové a JUDr. Ing. Pavla Horáka, Ph.D. ve věci žalobce Š. R., proti žalovanému P. Č., o zaplacení částky 161.205,- Kč s příslušenstvím, vedené u Krajského soudu v Praze pod sp. zn. 46 Cm 312/2009, o dovolání žalovaného proti rozsudku Vrchního soudu v Praze ze dne 4. října 2011, č. j. 1 Cmo 149/2011-76, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Vrchní soud v Praze jako soud odvolací rozsudkem v záhlaví uvedeným potvrdil rozsudek pro uznání Krajského soudu v Praze ze dne 14. ledna 2011, č. j. 46 Cm 312/2009-55, jímž byla žalovanému uložena povinnost zaplatit žalobci částku 161.205,- Kč spolu s úroky z prodlení a nahradit žalobci náklady řízení ve výši 6.450,- Kč (bod I. výroku), a dále rozhodl o nákladech odvolacího řízení.
+Dne 8. prosince 2011 bylo soudu prvního stupně doručeno podání ze dne 5. prosince 2011 označené jako dovolání, jímž byl napaden výše uvedený rozsudek odvolacího soudu, které však nemělo potřebné náležitosti a nebylo sepsáno advokátem.
+Soud prvního stupně usnesením ze dne 17. ledna 2012, č. j. 46 Cm 312/2009-85, doručeným žalovanému dne 23. ledna 2012, žalovaného vyzval, aby ve lhůtě 15 dnů ode dne doručení tohoto usnesení odstranil vady svého dovolání. Poskytl žalovanému podrobné poučení o chybějících náležitostech. Dále ho vyzval, aby v určené patnáctidenní lhůtě doložil plnou moc advokáta, kterého si sám zvolí pro zastoupení v dovolací řízení, a splnil tak podmínku povinného zastoupení.
+Nejvyšší soud České republiky (dále jen „Nejvyšší soud“) dovolání žalovaného posoudil z hlediska § 241 občanského soudního řádu (dále jen „o. s. ř.“), podle kterého dovolatel - fyzická osoba - musí být v dovolacím řízení (nemá-li sám právnické vzdělání) zastoupen advokátem (notářem), jímž musí být dovolání též sepsáno. Z podaného dovolání zastoupení advokátem nevyplývá a jiné listiny prokazující toto zastoupení nebo právnické vzdělání žalovaného nebyly předloženy. Dovolatel přes výzvu soudu prvního stupně nedostatek povinného zastoupení (stejně jako i další nedostatky dovolání) neodstranil, ačkoliv byl soudem o následcích nesplnění této povinnosti poučen. Povinné zastoupení v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání vydání rozhodnutí ve věci samé (§ 241 odst. 1 o. s. ř.). Vzhledem k tomu, že tento nedostatek nebyl odstraněn, Nejvyšší soud dovolací řízení podle ustanovení § 104 odst. 2 a § 241b odst. 2 o. s. ř. zastavil.
+O nákladech dovolacího řízení bylo rozhodnuto podle ustanovení 243b odst. 5, § 224 odst. 1 a § 146 odst. 2 věty první o. s. ř. tak, že žádný z účastníků nemá právo na jejich náhradu, neboť žalovaný z procesního hlediska zavinil, že řízení o dovolání bylo zastaveno a žalobci podle obsahu spisu v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 28. února 2012
+JUDr. Zdeněk Des
+předseda senátu
