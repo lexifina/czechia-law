@@ -1,0 +1,19 @@
+20 Cdo 238/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Olgy Puškinové a soudců JUDr. Miroslavy Jirmanové a JUDr. Vladimíra Mikuška v exekuční věci oprávněné PPF B1 B.V., soukromé společnosti s ručením omezeným, se sídlem Strawinskylaan 933, WTC Twr B, 1077XX, Amsterodam, Nizozemské království, identifikační číslo osoby 34192873, zastoupené JUDr. Vladimírem Muzikářem, advokátem se sídlem v Brně, Havlíčkova 13, proti povinnému P. U., za účasti manželky povinného J. U. a zástavní věřitelky Komerční banky, a.s., se sídlem v Praze 1, Na Příkopě 33 čp. 969, identifikační číslo osoby 453 17 054, pro 10.754,77 Kč s příslušenstvím, vedené u soudního exekutora JUDr. Igora Olmy, Exekutorský úřad Svitavy, pod sp. zn. 111 EX 2087/10, o dovolání zástavní věřitelky proti usnesení Krajského soudu v Hradci Králové - pobočky v Pardubicích ze dne 26. října 2011, č. j. 23 Co 354/2011 - 60, takto:
+Dovolání se odmítá.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.):
+Usnesením ze dne 25. 6. 2011, č. j. 111 EX 2087/10 - 48, soudní exekutor JUDr. Igor Olma (pověřený provedením exekuce na majetek povinného na základě usnesení Okresního soudu v Pardubicích ze dne 27. 4. 2010, č. j. 16 EXE 25676/2010 - 12) nařídil podle § 336b odst. 1 a 2 o. s. ř. elektronické dražební jednání na 15. 9. 2011 v 8:00 hodin.
+Krajský soud v Hradci Králové - pobočka v Pardubicích usnesením ze dne 26. 10. 2011, č. j. 23 Co 354/2011 - 60, odvolání zástavní věřitelky, směřující proti výrokům usnesení soudního exekutora o výsledné ceně nemovitostí a o nejnižším podání a dále proti znaleckému posudku Ing. Rudolfa Junkera ze dne 22. 2. 2011, jenž byl podkladem pro stanovení ceny nemovitostí, podle § 218 písm. c) o. s. ř. jako nepřípustné odmítl a rozhodl o nákladech odvolacího řízení.
+Usnesení odvolacího soudu ve výroku o odmítnutí odvolání napadla zástavní věřitelka dovoláním, v němž se domáhala, aby v tomto výroku bylo zrušeno a věc mu byla v tomto rozsahu vrácena k dalšímu řízení.
+Dovolací soud vzhledem k článku II., bodu 12., části první zákona č. 7/2009 Sb. o dovolání rozhodl podle občanského soudního řádu ve znění účinném od 1. 7. 2009 a neshledal je přípustným.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti usnesení upravují ustanovení § 237 až § 239 o. s. ř.
+Z ustanovení § 237 odst. 1 o. s. ř. přípustnost dovolání vyvozovat nelze, neboť rozhodnutí, jímž odvolací soud odmítl odvolání proti usnesení soudního exekutora o nařízení dražebního jednání, není rozhodnutím ve věci samé (k pojmu „věc sama“ srov. usnesení Nejvyššího soudu ze dne 2. prosince 1997, sp. zn. 2 Cdon 774/97, publikované pod číslem 61/1998 Sbírky soudních rozhodnutí a stanovisek, případně usnesení téhož soudu ze dne 28. srpna 1997, sp. zn. 2 Cdon 484/97, uveřejněné v časopise Soudní judikatura číslo 11, ročníku 1997, pod číslem 88).
+Protože přípustnost dovolání nevyplývá ani z ustanovení § 238 a § 238a o. s. ř. (nejde o věci v nich uvedené), zabýval se dovolací soud již jen přípustností podle ustanovení § 239 odst. 1, 2 a 3 o. s. ř., které taxativně vyjmenovává nemeritorní rozhodnutí odvolacího soudu, jež může účastník napadnout dovoláním; rozhodnutí, kterým odvolací soud odmítl odvolání proti usnesení o nařízení dražebního jednání, v něm však uvedeno není.
+Lze tedy uzavřít, že dovolání není přípustné podle žádného v úvahu připadajícího ustanovení občanského soudního řádu. Nejvyšší soud je proto bez jednání (§ 243a odst. 1 o. s. ř.) usnesením odmítl [§ 243b odst. 5 věta první, § 218 písm. c) o. s. ř.].
+O případných nákladech dovolacího řízení bude rozhodnuto podle ustanovení hlavy VI. zákona č. 120/2001 Sb.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 6. března 2012
+JUDr. Olga Puškinová, v. r.
+předsedkyně senátu
