@@ -1,0 +1,17 @@
+32 Cdo 148/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Pavla Příhody a JUDr. Hany Gajdziokové v právní věci žalobkyně TEMPLUM-společenské hry s.r.o., se sídlem v Praze 5, Radlická 49, PSČ 150 00, identifikační číslo osoby 25776941, proti žalované Pražská energetika, a.s., se sídlem v Praze 10, Na Hroudě 1492/4, PSČ 100 05, identifikační číslo osoby 60193913, o nařízení předběžného opatření v řízení o určení neplatnosti, neúčinnosti a irelevantnosti výpovědi smlouvy, vedené u Obvodního soudu pro Prahu 10 pod sp. zn. 26 C 353/2010, o dovolání žalobkyně proti usnesení Městského soudu v Praze ze dne 21. ledna 2011, č. j. 25 Co 4/2011-40, takto:
+Dovolání se odmítá.
+Odůvodnění:
+Dovolání žalobkyně proti v záhlaví označenému unesení, jímž Městský soud v Praze jednak potvrdil usnesení Obvodního soudu pro Prahu 10 ze dne 12. listopadu 2010, č. j. 26 C 353/2010-30, o odmítnutí návrhu žalobkyně na nařízení v rozhodnutí specifikovaného předběžného opatření, a dále rozhodl, že JUDr. Š. D., soudkyně Obvodního soudu pro Prahu 10, není vyloučena z projednání a rozhodnutí věci, není přípustné.
+Podle ustanovení § 236 odst. 1 občanského soudního řádu (dále též jen „o. s. ř.“) dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti usnesení odvolacího soudu upravují ustanovení § 237 až 239 o. s. ř.
+Usnesení, jímž odvolací soud potvrdil usnesení soudu prvního stupně, kterým bylo rozhodnuto o odmítnutí návrhu na nařízení předběžného opatření, a dále rozhodl o návrhu na vyloučení soudce z projednání a rozhodnutí věci, nelze podřadit žádnému z usnesení, proti nimž zákon připouští dovolání v ustanoveních § 238, § 238a a § 239 o. s. ř.
+Dovolání není přípustné ani podle § 237 o. s. ř., upravujícího přípustnost dovolání rovněž proti usnesení odvolacího soudu, ovšem pouze za podmínky, že jde o usnesení ve věci samé. Protože usnesení o nařízení předběžného opatření, které zpravidla meritornímu rozhodnutí soudu předchází, nemůže mít (již s ohledem na svůj účel) povahu rozhodnutí ve věci samé, není dovolání přípustné ani podle § 237 o. s. ř., a to bez ohledu na to, zda odvolací soud usnesení, jímž soud prvního stupně rozhodl o návrhu na předběžné opatření, změnil či potvrdil (srov. shodně například usnesení Nejvyššího soudu zveřejněné pod číslem 62/2002 Sbírky soudních rozhodnutí a stanovisek). Pokud jde o rozhodnutí odvolacího soudu o vyloučení soudce z projednání a rozhodnutí věci, není dovolání proti němu podle § 237 o. s. ř. přípustné již z toho důvodu, že uvedenému rozhodnutí odvolacího soudu žádné rozhodnutí soudu prvního stupně nepředcházelo.
+Tento závěr s sebou nese konečné posouzení podaného dovolání jako nepřípustného. Nejvyšší soud je proto, aniž ve věci nařizoval jednání (§ 243a odst. 1 věta první o. s. ř.), usnesením odmítl pro nepřípustnost [§ 243b odst. 5 věta první a § 218 písm. c) o. s. ř.].
+Žalobkyně nesplňovala podmínku povinného zastoupení dovolatelky v dovolacím řízení (§ 241 o. s. ř.), vzhledem k ustanovení § 241b odst. 2 části věty za středníkem o. s. ř. však nebyl důvod činit opatření k odstranění tohoto nedostatku podmínky dovolacího řízení.
+O náhradě nákladů dovolacího řízení nebylo v řízení rozhodováno, protože rozhodnutím o dovolání řízení ve věci nekončí (srov. § 151 odst. 1 o. s. ř.).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 13. března 2012
+JUDr. Miroslav Gallus
+předseda senátu
