@@ -1,0 +1,19 @@
+25 Cdo 4497/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marty Škárové a soudců JUDr. Petra Vojtka a JUDr. Roberta Waltra v právní věci žalobce M. K., zastoupeného JUDr. Vladimírem Pouchou, advokátem se sídlem Litoměřice, Dalimilova 1, proti žalovaným 1) Telefónica Czech Republic, a.s., se sídlem Praha 4, Michle, Za Brumlovkou 266/2, IČ 60193336, a 2) SLAMONT Štětí, spol. s r.o., se sídlem Štětí, 1. máje 596, IČ 41326784, zastoupenému JUDr. Petrem Zikmundem, advokátem se sídlem Mělník, Macharova 376, o náhradu škody, o ustanovení právního zástupce pro odvolací řízení, vedené u Okresního soudu v Litoměřicích pod sp. zn. 16 C 173/2006, k dovolání žalobce proti usnesení Krajského soudu v Ústí nad Labem ze dne 29. 4. 2008, č. j. 12 Co 921/2007-74, takto:
+Dovolání se odmítá.
+Odůvodnění:
+Okresní soud v Litoměřicích usnesením ze dne 26. 6. 2007, č. j. 16 C 173/2006-38, zamítl žádost žalobce na přidělení právního zástupce pro odvolací řízení.
+K odvolání žalobce Krajský soud v Ústí nad Labem usnesením ze dne 29. 4. 2008, č. j. 12 Co 921/2007-74, usnesení soudu prvního stupně potvrdil.
+Proti rozhodnutí odvolacího soudu podal žalobce tzv. blanketní dovolání, v němž označil pouze napadené usnesení, a aniž vymezil rozsah dovolání a dovolací důvody, žádal o poučení ve věci námitky promlčení a prvního podání.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) dospěl k závěru, že dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný. Vzhledem k tomu, že dovoláním napadený rozsudek byl vydán dne 29. 4. 2008, Nejvyšší soud dovolání projednal a rozhodl o něm podle dosavadních předpisů (tj. podle občanského soudního řádu ve znění účinném před 1. 7. 2009 – srov. bod 12. čl. II zákona č. 7/2009 Sb.).
+Dovolatel sice není zastoupen advokátem ani nedoložil, že by měl právnické vzdělání, avšak vzhledem k tomu, že jeho dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný, není tento nedostatek podmínky dovolacího řízení důvodem k jeho zastavení podle § 104 odst. 2 o. s. ř. Podle ustanovení § 241b odst. 2 o. s. ř. totiž platí, že není-li splněna podmínka uvedená v § 241 o. s. ř., postupuje se obdobně podle § 104 odst. 2 o. s. ř.; to neplatí, bylo-li dovolání podáno opožděně, někým, kdo k dovolání není oprávněn, nebo směřuje-li proti rozhodnutí, proti němuž není dovolání přípustné.
+Přípustnost dovolání proti usnesení upravují ustanovení § 237 až § 239 o. s. ř. Žalobce dovoláním napadá usnesení odvolacího soudu, jímž byla zamítnuta žádost o ustanovení zástupce z řad advokátů. Do výčtu rozhodnutí odvolacího soudu, proti nimž je dovolání přípustné, nelze takové rozhodnutí přiřadit.
+Přípustnost dovolání podle ustanovení § 237 o. s. ř. není dána, protože usnesení soudu prvního stupně, jež bylo odvolacím soudem potvrzeno, není rozhodnutím ve věci samé. Za věc samu se pokládá nárok uplatněný žalobou, o němž má být v příslušném řízení věcně rozhodnuto - § 79 odst. 1 o. s. ř. Usnesení o zamítnutí žádosti o ustanovení zástupce z řad advokátů neřeší věc samu (vymezenou žalobou).
+Dovolání není přípustné ani podle ustanovení § 238, § 238a a § 239 o. s. ř., protože usnesením soudu prvního stupně nebylo rozhodnuto ve věcech, které jsou taxativně vyjmenovány v ustanoveních § 238 a § 238a o. s. ř., a nejde rovněž o žádný z případů procesních rozhodnutí uvedených v ustanovení § 239 o. s. ř.
+Nejvyšší soud proto dovolání odmítl podle § 243b odst. 5 věty první a § 218 písm. c) o. s. ř.
+Protože tímto rozhodnutím dovolacího soudu se řízení o věci nekončí, o náhradě nákladů dovolacího řízení bude rozhodnuto v konečném rozhodnutí (§ 243c, § 151 odst. 1 o. s. ř.).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 14. března 2012
+JUDr. Marta Škárová, v. r.
+předsedkyně senátu
