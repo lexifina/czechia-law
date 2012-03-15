@@ -1,0 +1,17 @@
+30 Cdo 208/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Ištvánka a soudců JUDr. Pavla Simona a JUDr. Lubomíra Ptáčka, Ph.D., ve věci žalobce P. S., zastoupeného JUDr. Janou Jakoubkovou, advokátkou se sídlem v Brně, Banskobystrická 68, proti žalované České republice - Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 16, o zaplacení částky 100.000,- Kč, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 11 C 63/2009, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 4. 5. 2010, č. j. 55 Co 27/2010-79, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Praze napadeným rozsudkem potvrdil rozsudek Obvodního soudu pro Prahu 2 ze dne 30. 11. 2009, č. j. 11 C 63/2009-45, kterým byla zamítnuta žaloba na zaplacení náhrady nemajetkové újmy ve výši 100.000,- Kč, jež měla být žalobci způsobena nesprávným úředním postupem Městského soudu v Brně ve věci pod sp. zn. 35 C 1/2003 (dále jen „původní řízení“), spočívajícím v jeho nepřiměřené délce.
+Proti rozsudku odvolacího soudu podal žalobce dovolání, jež však Nejvyšší soud podle ustanovení § 243b odst. 5, § 218 písm. c) o. s. ř. odmítl jako nepřípustné.
+Dovolání proti potvrzujícímu výroku rozhodnutí ve věci samé může být přípustné pouze podle ustanovení § 237 odst. 1 písm. c) o. s. ř. - se zřetelem k nálezu Ústavního soudu ČR ze dne 28. 2. 2012, sp. zn. Pl. ÚS 29/11, je zrušeno uplynutím doby dne 31. 12. 2012 - (o situaci předvídanou v ustanovení § 237 odst. 1 písm. b/ o. s. ř. nejde), tedy tak, že dovolací soud - jsa přitom vázán uplatněnými dovolacími důvody včetně jejich obsahového vymezení (§ 242 odst. 3 o. s. ř.) - dospěje k závěru, že napadené rozhodnutí má po právní stránce zásadní význam (§ 237 odst. 3 o. s. ř.).
+Dovolatel vymezil obsahově dovolací důvod tak, že dosavadní soudní praxe není jednotná, neboť ve věci vedené Obvodním soudem pro Prahu 2 pod sp. zn. 41 C 297/2009 mu byla přiznána v prakticky totožné věci částka 45.000,- Kč, aniž by soud danou částku snižoval pro složitost jednání, zatímco v této věci mu bylo soudem přiznáno zadostiučinění jen do částky 9.000,- Kč. Skutečnost, že v různých řízeních bylo o „prakticky totožných nárocích“ rozhodnuto odlišně, však nezakládá zásadní právní význam napadeného rozsudku. Ten by zakládalo pouze odlišné posouzení konkrétní právní otázky, jak z § 237 odst. 3 o. s. ř. vyplývá, kterou však žalobce ve svém dovolání nevymezuje.
+Přípustnost dovolání nemůže založit ani pouhý nesouhlas žalobce s výší přisouzeného zadostiučinění za nemajetkovou újmu způsobenou mu nepřiměřenou délkou posuzovaného řízení, neboť ta se odvíjí od okolností každého konkrétního případu a sama o sobě nemůže představovat jiné řešení ve smyslu § 237 odst. 3 o. s. ř. (srov. rozsudek Nejvyššího soudu ze dne 15. 12. 2010, sp. zn. 30 Cdo 4462/2009).
+Dovolací soud nemohl přihlédnout k tvrzením žalobce ohledně zhoršení jeho zdravotního stavu v důsledku délky posuzovaného řízení a na jejich podporu předloženým zprávám ze dne 20. 5. 2010 a 9. 9. 2010 (viz § 241a odst. 4 o. s. ř.).
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ust. § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 3 o. s. ř., neboť žalované v dovolacím řízení náklady nevznikly a žalobce nemá s ohledem na výsledek dovolacího řízení na náhradu svých nákladů právo.
+Proti tomuto usnesení nejsou opravné prostředky přípustné.
+V Brně dne 15. března 2012
+JUDr. František Ištvánek, v. r.
+předseda senátu
