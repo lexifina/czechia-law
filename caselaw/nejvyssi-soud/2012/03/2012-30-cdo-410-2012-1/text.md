@@ -1,0 +1,15 @@
+30 Cdo 410/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Ištvánka a soudců JUDr. Pavla Simona a JUDr. Pavla Pavlíka ve věci žalobce B. V., proti žalované České republice – Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 16, o 2.000.000,- Kč a 25.000,- Kč měsíčně, vedené u Okresního soudu Praha – západ pod sp. zn. 9 C 1347/98, o dovolání žalobce proti rozsudku Krajského soudu v Praze ze dne 24. 6. 2010, č. j. 19 Co 202/2010 - 206, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+V záhlaví uvedeným rozsudkem potvrdil Krajský soud v Praze rozsudek Okresního soudu Praha - západ ze dne 19. 11. 2009, č. j. 9 C 1347/98 – 181, kterým soudem prvního stupně zamítl žalobu na zaplacení částky 2.000.000,- Kč a měsíční rentu ve výši 25.000,- Kč splatnou od 4. 8. 1991.
+Proti rozsudku odvolacího soudu podal žalobce včasné dovolání. Při podání dovolání nebyl zastoupen advokátem, žalobcovu žádost o ustanovení zástupce (podanou dne 29. 11. 2010) soud prvního stupně zamítl usnesením ze dne 22. 6. 2011, č. j. 9 C 1347/98-227, jež potvrdil odvolací soud usnesením ze dne 22. 7. 2011, č. j. 19 Co 306/2011-231. O opětovné žádosti žalobce (doručené soudu dne 14. 9. 2011) o ustanovení zástupce soud prvního stupně rozhodl usnesením ze dne 15. 9. 2011, č. j. 9 C 1347/98 - 236, tak, že ji zamítl, což potvrdil soud odvolací usnesením ze dne 27. 10. 2011, č. j. 19 Co 429/2011. Usnesením ze dne 3. 1. 2012, č. j. 9 C 1347/98 - 244, doručeným mu dne 9. 1. 2012, soud prvního stupně vyzval žalobce k odstranění nedostatku povinného zastoupení ve lhůtě 14 dnů od doručení usnesení, avšak marně.
+Dle ustanovení § 241 odst. 1 občanského soudního řádu (dále jen „o. s. ř.“) dovolatel musí být zastoupen advokátem, jestliže nemá právnické vzdělání. Z dovolání zastoupení dovolatele nevyplývá a jiné listiny, toto zastoupení nebo právnické vzdělání dovolatele prokazující, nebyly předloženy. Dovolatel pak nedostatek povinného zastoupení neodstranil, ač byl o procesních následcích nesplnění této podmínky poučen.
+Protože povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, bez jejíhož splnění nelze vydat - s výjimkou usnesení, jímž se dovolací řízení pro tento nedostatek zastavuje - rozhodnutí, kterým se řízení končí, a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu prvního stupně do dnešního dne nedošlo, Nejvyšší soud dovolací řízení podle § 104 odst. 2 a § 243c o. s. ř. zastavil.
+Dovolatel z procesního hlediska zavinil, že dovolací řízení bylo zastaveno, ostatním účastníkům ve stádiu dovolacího řízení náklady nevznikly. Této procesní situaci odpovídá ve smyslu ustanovení § 146 odst. 2, věty první, § 224 odst. 1 a § 243b odst. 4 o. s. ř. výrok o tom, že na náhradu nákladů dovolacího řízení nemá pak žádný z nich právo.
+Proti tomuto usnesení nejsou přípustné opravné prostředky.
+V Brně 15. března 2012
+JUDr. František I š t v á n e k, v. r.
+předseda senátu
