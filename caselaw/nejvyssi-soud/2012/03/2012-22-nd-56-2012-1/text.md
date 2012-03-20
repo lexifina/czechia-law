@@ -1,0 +1,17 @@
+22 Nd 56/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Baláka a soudců JUDr. Zdeňka Pulkrábka, Ph.D., a Mgr. Michala Králíka, Ph.D., ve věci žalobce Ing. J. D., proti žalované DIRECT Pojišťovně, a. s., se sídlem v Praze 7, Jankovcova 1566/2b, identifikační číslo osoby 27441831, o určení zániku pojištění odpovědnosti, vedené u Obvodního soudu pro Prahu 7 pod sp. zn. 31 C 64/2011, o návrhu žalobce na přikázání věci z důvodu vhodnosti Okresnímu soudu v Ostravě, takto:
+Věc vedená u Obvodního soudu pro Prahu 7 pod sp. zn. 31 C 64/2011, se nepřikazuje k projednání a rozhodnutí Okresnímu soudu v Ostravě.
+O d ů v o d n ě n í :
+Žalobce u Okresního soudu v Ostravě podal žalobu o určení zániku pojištění odpovědnosti za škodu způsobenou provozem vozidla. Okresní soud v Ostravě usnesením ze dne 16. srpna 2010, č. j. 32 C 172/2010-5, vyslovil svoji místní nepříslušnost a věc postoupil Obvodnímu soudu pro Prahu 7.
+Žalobce navrhl, aby věc byla přikázána Okresnímu soudu v Ostravě, který je blíže jeho bydlišti. Návrh odůvodnil špatným zdravotním stavem. Žalovaná se k návrhu nevyjádřila. Místně příslušný soud předložil návrh podle § 12 odst. 3 občanského soudního řádu (dále „o. s. ř.“) Nejvyššímu soudu.
+Podle § 12 odst. 2 o. s. ř. věc může být jinému soudu téhož stupně přikázána z důvodu vhodnosti. Podle § 12 odst. 3 věty první o. s. ř. o přikázání věci rozhoduje soud, který je nejblíže společně nadřízen příslušnému soudu a soudu, jemuž má být věc přikázána.
+Nejvyšší soud jako soud nejblíže společně nadřízený Okresnímu soudu v Ostravě a Obvodnímu soudu pro Prahu 7 návrh na přikázání věci projednal a dospěl k závěru, že není důvodný.
+Předpokladem přikázání věci jinému soudu z důvodu vhodnosti podle § 12 odst. 2 o. s. ř. je především existence okolností, jež umožňují hospodárnější a rychlejší projednání věci. Přitom je třeba mít na zřeteli, že místní příslušnost soudu, který má věc projednat, je zásadou. Přikázání věci jinému než příslušnému soudu je výjimkou z této zásady a jako takovou je třeba ji vykládat restriktivně. Pokud by soud přikázal věc jinému soudu, aniž by pro to byly splněny podmínky, porušil by tím ústavně zaručené právo zakotvené v čl. 38 odst. 1 Listiny základních práv a svobod, kde je stanoveno, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon.
+Důvody vhodnosti podle § 12 odst. 2 o. s. ř. mohou být různé v závislosti na předmětu řízení, postavení účastníků i jiných okolnostech. Půjde zejména o skutečnosti, z nichž lze dovodit, že jiným než příslušným soudem bude věc projednána rychleji a hospodárněji.
+Skutečnost uváděná žalobcem ovšem není natolik významná a výjimečná, aby dostatečně odůvodnila průlom do zásady zákonného soudce (srov. usnesení Nejvyššího soudu ze dne 8. února 2001, sp. zn. 7 Nd 43/2001, uveřejněné v Souboru civilních rozhodnutí a stanovisek Nejvyššího soudu, C. H. Beck, pod č. C 186, podle něhož odkaz na špatný zdravotní stav nemůže být důvodem k tomu, aby věc byla přikázána jinému soudu). Okolnost, že cesta k příslušnému soudu je pro účastníka spojena s různými obtížemi, je spíše běžná a nemůže sama o sobě přikázání věci jinému soudu přesvědčivě odůvodnit.
+Nejvyšší soud proto návrhu na přikázání věci z důvodu vhodnosti nevyhověl a věc Okresnímu soudu v Ostravě nepřikázal.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 20. března 2012
+JUDr. František Balák
+předseda senátu
