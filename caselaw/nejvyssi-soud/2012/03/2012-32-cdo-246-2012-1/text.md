@@ -1,0 +1,18 @@
+32 Cdo 246/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Pavla Příhody a JUDr. Hany Gajdziokové v právní věci žalobce JUDr. M. O., zastoupeného Mgr. Emílií Haškovou, advokátkou se sídlem v Kladně, Saskova 1479, proti žalované E LINKX a.s., se sídlem v Ostravě-Mariánských Horách, Novoveská 1262/95, PSČ 709 00, identifikační číslo osoby 25847180, zastoupené Mgr. Jakubem Vyroubalem, advokátem se sídlem v Ostravě-Moravské Ostravě, Škroupova 1114/4, o zaplacení 52 336 Kč s příslušenstvím, vedené u Okresního soudu v Ostravě pod sp. zn. 33 C 311/2007, o dovolání žalobce proti rozsudku Krajského soudu v Ostravě ze dne 7. dubna 2011, č. j. 15 Co 338/2010-286, takto:
+I. Dovolání se odmítá.
+II. Žalobce je povinen zaplatit žalované na náhradě nákladů dovolacího řízení částku 5 220 Kč do tří dnů od právní moci tohoto usnesení k rukám jejího zástupce Mgr. Jakuba Vyroubala.
+O d ů v o d n ě n í :
+Žalobce napadl dovoláním v záhlaví označený rozsudek, jímž Krajský soud v Ostravě změnil rozsudek Okresního soudu v Ostravě ze dne 11. listopadu 2009, č. j. 33 C 311/2007-174, ve spojení s usnesením ze dne 30. března 2010, č. j. 33 C 311/2007-187, usnesením ze dne 21. dubna 2010, č. j. 33 C 311/2007-199, a usnesením ze dne 31. května 2010, č. j. 33 C 311/2007-203, ve vyhovujícím výroku ve věci samé tak, že zamítl žalobu o zaplacení 52 336 Kč oproti povinnosti žalobce vydat žalované v rozhodnutí specifikovaný počítač, a rozhodl o nákladech za řízení před soudy obou stupňů.
+Dovolání v této věci není přípustné.
+Podle ustanovení § 236 občanského soudního řádu (dále též jen „o. s. ř.“) lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon (v ustanoveních § 237 až 239 o. s. ř.) připouští.
+Přípustnost dovolání proti rozsudku upravuje ustanovení § 237 o. s. ř.
+Podle ustanovení § 237 odst. 2 písm. a) o. s. ř. dovolání podle odstavce 1 není přípustné ve věcech, v nichž dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50 000 Kč a v obchodních věcech 100 000 Kč; k příslušenství pohledávky se přitom nepřihlíží.
+V předmětném sporu jde nepochybně o obchodní věc (spor mezi podnikateli o vrácení kupní ceny dodaného zboží oproti jeho vydání dle kupní smlouvy uzavřené podle obchodního zákoníku), v níž bylo dovoláním dotčeným měnícím výrokem rozsudku odvolacího soudu rozhodnuto ve věci samé o peněžitém plnění ve výši 52 336 Kč s příslušenstvím. Jedná se tudíž ve smyslu ustanovení § 237 odst. 2 písm. a) o. s. ř. o věc, u níž není dovolání přípustné. Nejvyšší soud je proto, aniž ve věci nařizoval jednání (§ 243a odst. 1 věta první o. s. ř.), usnesením odmítl pro nepřípustnost [§ 243b odst. 5 věta první a § 218 písm. c) o. s. ř.].
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanoveními § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 3 o. s. ř. Žalobce, jehož dovolání bylo odmítnuto, nemá na náhradu svých nákladů právo a je povinen nahradit žalované účelně vynaložené náklady dovolacího řízení, které sestávají ze sazby odměny za zastupování advokátem v částce 4 050 Kč podle § 3 odst. 1, § 10 odst. 3, § 14 odst. 1, § 15 a § 18 odst. 1 vyhlášky č. 484/2000 Sb., ve znění pozdějších předpisů, a z paušální částky 300 Kč za jeden úkon právní služby (vyjádření k dovolání) podle § 13 odst. 3 vyhlášky č. 177/1996 Sb., ve znění pozdějších předpisů, při připočtení 20% daně z přidané hodnoty ve výši 870 Kč.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+Nesplní-li povinný dobrovolně, co mu ukládá vykonatelné rozhodnutí, může se oprávněná domáhat výkonu rozhodnutí.
+V Brně 27. března 2012
+JUDr. Miroslav Gallus
+předseda senátu
