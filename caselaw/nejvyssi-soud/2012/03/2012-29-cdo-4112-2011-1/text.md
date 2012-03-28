@@ -1,0 +1,14 @@
+29 Cdo 4112/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudců Mgr. Jiřího Zavázala a Mgr. Milana Poláška v právní věci žalobce Ing. O. K., zastoupeného JUDr. Jáchymem Kanarkem, advokátem, se sídlem v Brně, Smetanova 17, PSČ 602 00, proti žalovaným 1) Ing. T. P., jako správci konkursní podstaty úpadce Ing. O. K., zastoupenému Mgr. Tomášem Vybíralem, advokátem, se sídlem v Brně, Rybníček 4, PSČ 602 00, 2) ROYAL SEAL, s. r. o., se sídlem v Brně, Merhautova 1037/173, PSČ 613 00, identifikační číslo osoby 26 21 85 69, zastoupené Mgr. Alešem Krochmalným, advokátem, se sídlem v Brně, Těsnohlídkova 9, PSČ 613 00 a 3) FERMI, s. r. o., se sídlem v Brně, Mlýnská 326/13, PSČ 602 00, identifikační číslo osoby 47 90 10 80, zastoupené JUDr. Radkem Machem, advokátem, se sídlem v Brně, Mendlovo náměstí 2a, PSČ 603 00, o určení vlastnictví k nemovitostem, vedené u Městského soudu v Brně pod sp. zn. 43 C 289/2006, o dovolání žalobce proti rozsudku Krajského soudu v Brně ze dne 20. prosince 2010, č. j. 44 Co 367/2010-90, takto:
+I. Dovolací řízení se zastavuje.
+II. Žalobce je povinen zaplatit každému ze žalovaných na náhradě nákladů dovolacího řízení částku 6.360,- Kč, do tří dnů od právní moci tohoto rozhodnutí, k rukám jejich zástupců.
+Odůvodnění:
+Proti v záhlaví označenému rozsudku Krajského soudu v Brně podal žalobce dovolání, které podáním ze dne 15. září 2011, doručeným soudu prvního stupně dne 20. září 2011, vzal v celém rozsahu zpět.
+Nejvyšší soud proto dovolací řízení podle ustanovení § 243b odst. 5 věty druhé zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), zastavil.
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5 větu první, § 224 odst. 1 a § 146 odst. 2 větu první o. s. ř., když žalobce (zpětvzetím dovolání) procesně zavinil, že dovolací řízení bylo zastaveno a vznikla mu tak povinnost hradit žalovaným jejich náklady řízení. Ty v dané věci sestávají u každého z nich z paušální odměny advokáta za řízení v jednom stupni (za dovolací řízení) určené podle vyhlášky č. 484/2000 Sb., která podle ustanovení § 5 písm. b), § 10 odst. 3, § 14 odst. 1, § 15, § 18 odst. 1 činí 5000,- Kč a z paušální částky náhrady hotových výdajů ve výši 300,- Kč za jeden úkon právní služby (vyjádření k dovolání) podle ustanovení § 13 odst. 3 vyhlášky č. 177/1996 Sb. Celkem s připočtením náhrady za 20% daň z přidané hodnoty (§ 137 odst. 3 o. s. ř.) ve výši 1.060,- Kč činí náhrada nákladů řízení přiznaná každému ze žalovaných k tíži žalobce částku 6.360,- Kč.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+Nesplní-li povinný dobrovolně, co mu ukládá vykonatelné rozhodnutí, mohou se oprávnění domáhat výkonu rozhodnutí.
+V Brně 28. března 2012
+JUDr. Petr Gemmel
+předseda senátu
