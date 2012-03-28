@@ -1,0 +1,14 @@
+21 Nd 51/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Ljubomíra Drápala a soudců JUDr. Zdeňka Novotného a JUDr. Mojmíra Putny v právní věci žalobkyně Pražské plynárenské, a.s. se sídlem v Praze 1 - Nové Město, Národní č. 37, IČO 60193492, zastoupené JUDr. Petrem Santarem, advokátem se sídlem v Praze 5, Ostrovského č. 253, proti žalovanému L. Č., o 1.221,50 Kč s příslušenstvím, vedené u Okresního soudu v Lounech pod sp. zn. 25 C 1307/2009, o určení místní příslušnosti soudu, takto:
+Věc, vedenou u Okresního soudu v Lounech pod sp. zn. 25 C 1307/2009, projedná a rozhodne Obvodní soud pro Prahu 9.
+Odůvodnění:
+Žalobkyně se žalobou podanou u Okresního soudu v Lounech dne 18.6.2009 domáhala, aby jí žalovaný zaplatil za dodávku plynu v době od května 2006 do září 2007 1.221,50 Kč s úroky z prodlení.
+Okresní soud v Lounech - poté, co zrušil svůj platební rozkaz ze dne 2.11.2009 č.j. 25 C 1307/2009-13, neboť se ho nepodařilo doručit do vlastních rukou žalovaného - usnesením ze dne 18.1.2012 č.j. 25 C 1307/2009-81 vyslovil svou místní nepříslušnost a rozhodl, že po právní moci usnesení bude věc předložena Nejvyššímu soudu ČR k určení, který "okresní soud věc projedná a rozhodne". Z provedeného šetření zjistil, že žalovaný má evidovaný v "centrální evidenci obyvatel" pobyt na adrese v P. do 16.1.2008 a od tohoto data na adrese L., že v živnostenském rejstříku je zapsané bydliště žalovaného a místo podnikání v období od 23.3.1994 do 31.3.2010 na adrese Praha 6 - Řepy, Socháňova 1131/11, že žalovaný byl veden v evidenci uchazečů o zaměstnání u Úřadu práce v Mostě od 11.6.2008 do 2.7.2008 a že pobírá starobní a vdovecký důchod, jehož výplata je zařízena na adresu P. a který je dosílán poštou na adresu P. Dospěl k závěru, že se mu nepodařilo zjistit místo, kde se žalovaný zdržoval v době podání žaloby (ke dni 18.6.2009), ani místo jeho posledního známého bydliště, že není místně příslušným k projednání a rozhodnutí věci a že je třeba, aby Nejvyšší soud podle ustanovení § 11 odst.3 o.s.ř. určil, který soud věc projedná a rozhodne.
+Podle ustanovení § 11 odst. 1 o.s.ř. se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení.
+Podle ustanovení § 11 odst. 3 o.s.ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Protože z obsahu spisu je zřejmé, že obecným soudem žalovaného je Obvodní soud pro Prahu 9, Nejvyšší soud České republiky po předložení věci Okresním soudem v Lounech (§ 105 odst.2 o.s.ř.) podle ustanovení § 11 odst.3 o.s.ř. určil, že věc projedná a rozhodne Obvodní soud pro Prahu 9.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 28. března 2012
+JUDr. Ljubomír Drápal, v. r.
+předseda senátu
