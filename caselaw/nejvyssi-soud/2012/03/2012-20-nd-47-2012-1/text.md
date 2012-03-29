@@ -1,0 +1,15 @@
+20 Nd 47/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové a soudců JUDr. Zbyňka Poledny a JUDr. Vladimíra Mikuška ve věci žalobkyně LBBW Bank a. s., se sídlem v Praze 5, Vítězná 1/126, identifikační číslo osoby 14893649, zastoupené Mgr. Veronikou Nedbalovou, advokátkou se sídlem v Praze - Braník, Novodvorská 994, proti žalovanému J. V., o 269.514,94 Kč s příslušenstvím, vedené u Okresního soudu ve Zlíně pod sp. zn. 28EC 44/2010, o určení příslušnosti soudu podle § 11 odst. 3 občanského soudního řádu, takto:
+Věc, vedenou u Okresního soudu ve Zlíně pod sp. zn. 28EC 44/2010, projedná a rozhodne Okresní soud v Uherském Hradišti.
+Odůvodnění:
+Okresní soud ve Zlíně usnesením ze dne 10. 10. 2010, č. j. 28EC 44/2010-83, ve spojení s usnesením téhož soudu ze dne 5. 11. 2010, č.j. 28EC 44/2010-87, podle § 105 odst. 2 zákona č. 99/1963 Sb., občanský soud řád, ve znění pozdějších předpisů (dále též jen „o.s. ř.“), vyslovil svoji místní nepříslušnost ve shora označené věci a rozhodl o postoupení věci Okresnímu soudu v Hodoníně. Tento soud předložil věc k rozhodnutí o svém nesouhlasu s postoupením věci Krajskému soudu v Brně. Nadřízený soud (§ 105 odst. 3 o. s. ř.) rozhodl usnesením ze dne 3. 10. 2011, č.j. 47Nc 149/2011-101, že nesouhlas Okresního soudu v Hodoníně s postoupením věci je důvodný, neboť sám žalovaný Policii ČR sdělil, že na adrese, se zdržuje pouze občas u své přítelkyně, a jako adresu svého bydliště označil.
+Po rozhodnutí krajského soudu Okresní soud ve Zlíně věc předložil Nejvyššímu soudu podle § 11 odst. 3 o. s. ř. k rozhodnutí o místní příslušnosti, jelikož „se jedná o věc náležející do pravomoci soudů České republiky a nelze zjistit podmínky příslušnosti, neboť žalovaný přes výzvu soudu nesdělil, na jaké adrese se zdržoval v době zahájení řízení s úmyslem zdržovat se zde trvale“.
+Žalobkyně ve vyjádření k postupu soudu prvého stupně uvedla, že by měl být místně příslušným Okresní soud ve Zlíně.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Podmínky rozhodnutí podle § 11 odst. 3 o. s. ř. jsou v daném případě splněny, neboť věc spadá do pravomoci soudů České republiky, ale podmínky místní příslušnosti soudu nelze zjistit, protože žalovaný na výzvu soudu prvého stupně, na jaké adrese měl bydliště ke dni podání návrhu ( t. j. dne 30. 3. 2010) v této věci, nereagoval.
+S přihlédnutím k tomu, že sám žalovaný označil Polici ČR jako adresu svého bydliště adresu evidovanou v technologickém centru evidence obyvatel (t. j. od 26. 8. 2009), tj. , kde má umístěnou i schránku pro doručování pošty (viz doručenky adresované žalovanému, jež jsou připojeny ve spise na č. l. 88 p.v. a 99 p. v.), Nejvyšší soud podle § 11 odst. 3 o. s. ř. rozhodl, že věc projedná a rozhodne o ní Okresní soud v Uherském Hradišti.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 29. března 2012
+JUDr. Miroslava Jirmanová, v. r.
+předsedkyně senátu
