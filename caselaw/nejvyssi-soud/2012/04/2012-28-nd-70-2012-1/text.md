@@ -1,0 +1,14 @@
+28 Nd 70/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jana Eliáše, Ph.D., a soudců Mgr. Petra Krause a JUDr. Josefa Rakovského v právní věci oprávněné Dopravního podniku hl. m. Prahy, akciové společnosti, IČ 00005886, se sídlem v Praze 9, Sokolovská 217/42, zastoupené JUDr. Tomášem Sokolem, advokátem se sídlem v Praze 2, Sokolská 60, proti povinnému R. S., t. č. neznámého pobytu, o nařízení exekuce, vedené u Okresního soudu v Teplicích pod sp. zn. 56 EXE 940/2011, o určení místní příslušnosti podle § 11 odst. 3 o. s. ř., takto:
+Věc vedenou u Okresního soudu v Teplicích pod sp. zn. 56 EXE 940/2011 projedná a rozhodne Okresní soud v Teplicích.
+O d ů v o d n ě n í :
+Okresní soud v Teplicích usnesením ze dne 24. 11. 2011, č. j. 56 EXE 940/2011-32, vyslovil svoji místní nepříslušnost a rozhodl, že věc se předkládá podle § 11 odst. 3 o. s. ř. Nejvyššímu soudu k určení místně příslušného soudu k projednání a rozhodnutí věci. V odůvodnění uvedl, že nelze určit místní příslušnost soudu, neboť především místo pobytu povinného není známo, proto rozhodl podle § 105 odst. 2 o. s. ř.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Podle § 45 odst. 2 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, je místně příslušným exekučním soudem soud, v jehož obvodu má bydliště povinný, je-li fyzickou osobou, a nemá-li bydliště, soud, v jehož obvodu se zdržuje. Má-li povinný, který je fyzickou osobou, bydliště na více místech, jsou místně příslušnými všechny soudy, v jejichž obvodu bydlí s úmyslem zdržovat se tam trvale. Je-li povinný právnickou osobou, je místně příslušným soud, v jehož obvodu má povinný sídlo. Nemá-li povinný, který je fyzickou osobou, bydliště v České republice, ani se v ní nezdržuje, nebo nemá-li povinný, který je právnickou osobou, sídlo v České republice, je místně příslušným soud, v jehož obvodu má povinný majetek; má-li majetek v obvodu více soudů, je příslušným soud, kterému byla jako prvnímu doručena žádost exekutora o udělení pověření.
+V daném případě není zpochybněno, že věc patří do pravomoci českých soudů, a je zřejmé, že nelze zjistit soud povinného ve smyslu § 45 odst. 2 exekučního řádu, neboť není známo bydliště povinného ani místo, kde se zdržuje v České republice, ani jeho majetek.
+Protože jsou splněny předpoklady stanovené v § 11 odst. 3 o. s. ř. pro určení místní příslušnosti, rozhodl Nejvyšší soud s přihlédnutím k zásadě hospodárnosti řízení tak, že místně příslušným určil soud, u něhož bylo řízení zahájeno a v jehož obvodu je povinný stále hlášen k trvalému pobytu.
+Proti tomuto rozhodnutí není opravný prostředek přípustný.
+V Brně dne 3. dubna 2012
+JUDr. Jan E l i á š, Ph.D., v. r.
+předseda senátu
