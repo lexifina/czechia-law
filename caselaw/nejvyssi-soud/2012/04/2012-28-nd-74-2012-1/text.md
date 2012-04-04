@@ -1,0 +1,23 @@
+28 Nd 74/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivy Brožové a soudců JUDr. Jana Eliáše, Ph.D., a JUDr. Josefa Rakovského v právní věci žalobce J. S., proti žalované České pojišťovně, a. s., IČ: 45272956, se sídlem v Praze 1, Spálená 75/16, ve věci určení věcné příslušnosti soudu podle § 104a odst. 4 o. s. ř. pro žalobu o zaplacení částky 450.000,- Kč, takto:
+I. K projednání a rozhodnutí věci v prvním stupni jsou příslušné okresní soudy.
+II. Po právní moci tohoto usnesení bude věc postoupena k dalšímu řízení Obvodnímu soudu pro Prahu 1.
+O d ů v o d n ě n í :
+Nejvyššímu soudu bylo dne 15. 3. 2012 doručeno podání žalobce Jiřího Surovce označené jako žaloba o 450.000,- Kč. V předmětném podání žalobce uvedl, že nárokovanou částku požaduje „na pokrytí dluhu, který vznikl na základě chyb špatně vyškolených zaměstnanců žalované.“ Dále žalobce uvedl, že poté, co se žalovanou v roce 2005 uzavřel smlouvu o povinném ručení a byl ze strany žalované ujištěn, že „vše má v pořádku a zaplaceno tak, jak se dohodl,“ havaroval dne 5. 5. 2006 se svým automobilem v K. s tím, že žalovaná následně přislíbila pomoc při dalším postupu, což neučinila.
+Jelikož je ve věci dán cizí prvek (žalobce má bydliště v jiném státě) Nejvyšší soud nejprve zkoumal otázku mezinárodní příslušnosti soudů České republiky. Z předeslaného obsahu podání vyplývá, že se jedná o občanskoprávní věc (majetkoprávní spor - žaloba na peněžité plnění), kdy žalobcem je fyzická osoba s bydlištěm ve Spojeném království a žalovanou je právnická osoba se sídlem v České republice. Nejvyšší soud proto postupoval podle Nařízení Rady (ES) č. 44/2001, ze dne 22. 12. 2000, o příslušnosti a uznávání a výkonu soudních rozhodnutí v občanských a obchodních věcech (dále jen „Nařízení Rady (ES) č. 44/2001“).
+Podle čl. 9 odst. 1 písm. a) Nařízení Rady (ES) č. 44/2001 „[p]ojistitel, který má bydliště na území některého členského státu, může být žalován u soudů členského státu, v němž má bydliště.“
+Podle čl. 10 Nařízení Rady (ES) č. 44/2001 „[v]e věcech pojištění odpovědnosti nebo pojištění nemovitostí může být pojistitel kromě toho žalován u soudu místa, v němž nastala škodná událost.“
+V souladu s čl. 2 odst. 1 Nařízení Rady (ES) č. 44/2001 subsidiárně platí, že „[n]estanoví-li toto nařízení jinak, mohou být osoby, které mají bydliště na území některého členského státu, bez ohledu na svou státní příslušnost žalovány u soudů tohoto členského státu.“
+Ačkoliv z obsahu předmětného podání nelze jednoznačně určit, zda žalobce uplatňuje nárok z pojistné smlouvy či z jiného právního titulu (především z titulu odpovědnosti za škodu), dospěl Nejvyšší soud k závěru, že nárok uplatněný žalobcem lze podřadit pod některé z výše citovaných ustanovení Nařízení Rady (ES) č. 44/2001. Ve všech těchto případech je přitom dána mezinárodní příslušnost českých soudů k projednání věci.
+Nejvyšší soud se dále zabýval určením věcné příslušnosti soudů podle českého práva (lex fori), tj. zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů.
+Podle § 104a odst. 4 o. s. ř. „[b]ylo-li řízení zahájeno u Nejvyššího soudu nebo byla-li věc Nejvyššímu soudu předložena vrchním soudem, Nejvyšší soud rozhodne, které soudy jsou k projednání a rozhodnutí věci příslušné v prvním stupni, není-li sám věcně příslušný.“
+Po přezkoumání obsahu podání dospěl Nejvyšší soud k závěru, že se jedná o žalobu na peněžité plnění ve výši 450.000,- Kč podanou nepodnikající fyzickou osobou vůči právnické osobě. Tyto skutečnosti má Nejvyšší soud přitom dostačující pro určení věcné příslušnosti okresních soudů.
+Podle § 9 odst. 1 o. s. ř. „[n]estanoví-li zákon jinak, jsou k řízení v prvním stupni příslušné okresní soudy.“
+Protože věcnou příslušnost v souzené věci nelze dovodit podle § 9 odst. 5 o. s. ř. ve vztahu k Nejvyššímu soudu, a jelikož žalobou uplatněný nárok nelze zjevně podřadit ani pod výčet obsažený v ustanoveních § 9 odst. 2 až 4 o. s. ř, upravujících věcnou příslušnost krajských soudů, Nejvyšší soud dospěl k závěru, že věcně příslušnými k projednání a rozhodnutí ve věci jsou v souladu s § 9 odst. 1 o. s. ř. okresní soudy.
+Při určení okresního soudu, kterému bude věc postoupena, pak Nejvyšší soud vycházel z ustanovení § 84 ve spojení s § 85 odst. 3 o. s. ř., a následně dovodil, že místně příslušným bude soud, v jehož obvodu má žalovaná sídlo; další posuzování místní příslušnosti (ve smyslu § 84 a násl. o. s. ř.) však není dotčeno.
+P o u č e n í :
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 4. dubna 2012
+JUDr. Iva B r o ž o v á, v. r.
+předsedkyně senátu
