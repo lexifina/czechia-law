@@ -1,0 +1,21 @@
+25 Cdo 324/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Roberta Waltra a soudců JUDr. Marty Škárové a JUDr. Petra Vojtka v právní věci žalobkyně E. S., proti žalované ČEZ Distribuce, a.s., IČO 27232425, se sídlem Děčín IV - Podmokly, Teplická 874/8, o náhradu škody, vedené u Okresního soudu v Hradci Králové pod sp. zn. 9 C 125/2003, o dovolání žalobkyně proti usnesení Krajského soudu v Hradci Králové ze dne 28. června 2004, č.j. 21 Co 306/2004-47, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Hradci Králové usnesením ze dne 28. června 2004, č.j. 21 Co 306/2004-47, potvrdil usnesení Okresního soudu v Hradci Králové ze dne 9. dubna 2004, č.j. 9 C 125/2003-37, jímž soud prvního stupně odmítl žalobu došlou dne 28. 11. 2002, jíž se žalobkyně domáhá náhrady škody, a rozhodl o náhradě nákladů řízení. Odvolací soud se ztotožnil s argumentací soudu prvního stupně, že předmětná žaloba vykazuje vady, spočívající v nedostatečném vylíčení rozhodujících skutečností a v neurčitosti žalobního petitu, přičemž předmětné nedostatky nebyly odstraněny ani na výzvu soudu, proto bylo na místě postupovat podle ustanovení § 43 odst. 2 o. s. ř. a žalobu odmítnout; odvolací soud dále rozhodl o náhradě nákladů odvolacího řízení.
+Žalobkyně napadla usnesení soudu prvního stupně a usnesení soudu odvolacího dovoláním, doručeným Nejvyššímu soudu dne 14. 10. 2004. Žádá v něm, aby Nejvyšší soud rozhodl o žalobě na náhradu škody ve výši 220.000,- Kč ve prospěch žalobkyně, a tím zabránil vzniku vyšší škody.
+Nejvyšší soud jako soud dovolací (§ 10a o. s. ř.) dospěl k závěru, že nejsou splněny podmínky dovolacího řízení.
+Pro podání dovolání, které je mimořádným opravným prostředkem, zákon stanoví požadavek, aby účastník řízení, který podává dovolání, měl buď sám právnické vzdělání, nebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc, a dovolání bylo touto osobou sepsáno (§ 241 odst. 1 věta první, odst. 2, odst. 4 o. s. ř.). Ustanovení § 241 o. s. ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění nelze o dovolání rozhodnout.
+V dané věci podala žalobkyně dovolání, aniž by byla zastoupena advokátem, a nebylo prokázáno ani tvrzeno, že by sama měla právnické vzdělání.
+Okresní soud v Hradci Králové usnesením ze dne 1. dubna 2008, č.j. 9 C 125 125/2003-65, vyzval žalobkyni, aby ve lhůtě jednoho měsíce ode dne doručení tohoto usnesení předložila plnou moc udělenou zvolenému advokátu pro řízení o dovolání s poučením, že v případě nesplnění této podmínky Nejvyšší soud řízení zastaví.
+Žalobkyně si však dosud zástupce pro dovolací řízení nezvolila.
+Dovolatelka výslovně napadá „dovoláním“ též usnesení Okresního soudu v Hradci Králové ze dne 9. 4. 2004, č.j. 9 C 125/2003-37, který ve věci rozhodoval jako soud prvního stupně. Občanský soudní řád nepředpokládá, že by dovoláním bylo možno napadnout též rozhodnutí soudu prvního stupně, proto ani neupravuje funkční příslušnost určitého soudu k projednání dovolání, je-li přesto proti takovému rozhodnutí podáno.
+Jestliže žalobkyně výslovně napadla dovoláním též usnesení soudu prvního stupně, pominula tak uvedenou podmínku dovolacího řízení. Za tohoto stavu nedostatek funkční příslušnosti představuje neodstranitelný nedostatek podmínky řízení. O zastavení tohoto „dovolacího“ řízení rozhoduje Nejvyšší soud, neboť je vrcholným článkem soustavy obecných soudů, který je nadto nadán pravomocí k rozhodování o dovoláních proti rozhodnutím odvolacích soudů (srov. usnesení Nejvyššího soudu ze dne 31. 5. 2001, sp. zn. 20 Cdo 1535/99).
+Nejvyšší soud řízení o dovolání žalobkyně z výše uvedených důvodů podle § 243c odst. 1 a § 104 odst. 1, odst. 2 věty třetí o. s. ř. zastavil, aniž bylo třeba se zabývat splněním dalších náležitostí podaného dovolání.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 2 věty první o. s. ř., kdy žalobkyně nemá na náhradu nákladů dovolacího řízení právo a žalované náklady v dovolacím řízení nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 5. dubna 2012
+JUDr. Robert Waltr, v. r.
+předseda senátu
