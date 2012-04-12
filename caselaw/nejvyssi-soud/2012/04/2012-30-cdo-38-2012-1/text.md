@@ -1,0 +1,20 @@
+30 Cdo 38/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Ištvánka a soudců JUDr. Pavla Vrchy a JUDr. Pavla Simona, ve věci žalobce M. Š., proti žalované České republice – Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 16, o zaplacení částky 1,057.025,- Kč, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 20 C 117/2009, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 19. 10. 2010, č. j. 30 Co 382/2010-251, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění
+(§ 243c odst. 2 o. s. ř.):
+Odvolací soud potvrdil rozsudek soudu prvního stupně, jímž byla zamítnuta žaloba, prostřednictvím které se žalobce domáhal po žalované zaplacení částky 57.025,- Kč jako náhrady škody a částky 1,000.000,- Kč jako náhrady nemajetkové újmy za nesprávný úřední postup v řízení vedeném u Okresního soudu v Příbrami pod sp. zn. 21 E 304/2004.
+Žalobce podal proti v záhlaví označenému rozsudku Městského soudu v Praze včasné dovolání, aniž by byl zastoupen advokátem. Na výzvu soudu ke zvolení právního zástupce ze dne 23. 2. 2011 požádal žalobce o ustanovení právního zástupce z důvodu, že v jeho okolí vhodného právního zástupce nenašel (žije v malé obci na Jičínsku), avšak je schopen hradit náklady právního zastoupení. Obvodní soud pro Prahu 2 usnesením ze dne 12. 4. 2011, č. j. 20 C 117/2009-278, návrh žalobce na ustanovení právního zástupce zamítl. K odvolání žalobce bylo napadené rozhodnutí usnesením Městského soudu v Praze ze dne 5. 8. 2011, č. j. 30 Co 351/2011-401, potvrzeno.
+Usnesením Obvodního soudu pro Prahu 2 ze dne 24. 10. 2011, č. j. 20 C 117/2009-403, doručeným žalobci dne 1. 11. 2011, byl žalobce vyzván, aby si ve lhůtě 20 dnů ode dne doručení tohoto usnesení zvolil k podání dovolání zástupcem advokáta a jeho prostřednictvím podal řádné dovolání, a zároveň byl poučen o následcích nesplnění této výzvy.
+Žalobce přípisem ze dne 1. 12. 2011 podaným v elektronické podobě avšak bez zaručeného elektronického podpisu sdělil Obvodnímu soudu pro Prahu 2, že bere zpět návrh na zahájení dovolacího řízení.
+Podle § 42 odst. 3 o. s. ř. podání obsahující návrh ve věci samé učiněné telegraficky je třeba písemně doplnit nejpozději do tří dnů, je-li písemné podání učiněno telefaxem nebo v elektronické podobě, je třeba v téže lhůtě jej doplnit předložením jeho originálu, případně písemným podáním shodného znění. K těmto podáním, pokud nebyla ve stanovené lhůtě doplněna, soud nepřihlíží. Stanoví-li to předseda senátu, je účastník povinen soudu předložit originál (písemné podání shodného znění) i jiných podání učiněných telefaxem.
+Podle § 42 odst. 5 o. s. ř. v případě podání v elektronické podobě opatřeného zaručeným elektronickým podpisem založeným na kvalifikovaném certifikátu vydaném akreditovaným poskytovatelem certifikačních služeb se nevyžaduje doplnění podání předložením jeho originálu podle odstavce 3.
+Jelikož žalobce podání zaručeným elektronickým podpisem neopatřil ani ve lhůtě 3 dnů písemné elektronické podání nedoplnil předložením originálu nebo písemným podáním shodného znění, nemohl dovolací soud ke zpětvzetí dovolání žalobce přihlédnout.
+Žalobce však zároveň do dnešního dne nesplnil podmínku povinného zastoupení dovolatele v dovolacím řízení, přestože byl o následcích nesplnění této výzvy soudem prvního stupně poučen, proto postupoval dovolací soud dle ustanovení § 241b odst. 2 o. s. ř. ve spojení s ustanovením § 104 odst. 2 o. s. ř. a dovolací řízení zastavil.
+Dovolatel z procesního hlediska zavinil, že dovolací řízení bylo zastaveno, účastníkům však ve stádiu dovolacího řízení náklady nevznikly. Této procesní situaci odpovídá ve smyslu ustanovení § 146 odst. 2, věty první, § 224 odst. 1 a § 243b odst. 5, věty první, o. s. ř. výrok o tom, že na náhradu nákladů dovolacího řízení nemá žádný z nich právo.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 12. dubna 2012
+JUDr. František Ištvánek, v. r.
+předseda senátu
