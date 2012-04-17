@@ -1,0 +1,17 @@
+32 Nd 38/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Příhody a soudců JUDr. Hany Gajdziokové a JUDr. Miroslava Galluse ve věci žalobkyně A. J., proti žalované VB Leasing CZ, spol. s r. o., se sídlem v Brně, Heršpická 813/5, okres Brno – město, PSČ 639 00, identifikační číslo osoby 60751606, o zaplacení částky 2.460.000,- Kč s příslušenstvím, vedené u Krajského soudu v Brně pod sp. zn. 7 Cm 51/2011, o návrhu žalobkyně na přikázání věci Krajskému soudu v Plzni z důvodu vhodnosti, takto:
+Věc vedená u Krajského soudu v Brně pod sp. zn. 7 Cm 51/2011 se nepřikazuje Krajskému soudu v Plzni.
+O d ů v o d n ě n í :
+Žalobkyně se žalobou podanou u Městského soudu v Brně domáhala po žalované náhrady škody ve výši 2.460.000,- Kč, která jí měla vzniknout v důsledku vad zemědělského stroje, jenž koupila (formou leasingu, jak uvedla) od žalované.
+Usnesením Krajského soudu v Brně, jako soudu odvolacího, ze dne 11. března 2011, č. j. 27 Co 426/2009-22, bylo mimo jiné rozhodnuto o postoupení věci Krajskému soudu v Brně jako soudu věcně příslušnému k řízení v prvním stupni, neboť se jedná o obchodní věc ve sporu o pohledávku přesahující částku 100.000,- Kč.
+Žalobkyně v podání ze dne 8. června 2011 (v odvolání proti usnesení Krajského soudu v Brně ze dne 17. května 2011) navrhla, aby věc byla přikázána Krajskému soudu v Plzni, a to z toho důvodu, že je nemocná a cestování do Olomouce, případně do Brna je pro ni velkou zátěží. Svůj zdravotní stav doložila kopií lékařské zprávy endokrinologické ambulance v Sokolově ze dne 10. října 2011, z níž vyplývá, že pacientka je v péči této ambulance, v době vystavení zprávy se subjektivně cítí dobře, její zdravotní stav však vyžaduje trvalé užívání léků tam uvedených.
+Žalovaná ve vyjádření k návrhu žalobkyně uvedla, že dle jejího názoru důvody pro přikázání věci jinému soudu nejsou dány a posouzení zdravotní indispozice žalobkyně ponechává na uvážení soudu, neboť o zdravotním stavu žalobkyně nemá žádné informace.
+Podle ustanovení § 12 odst. 2 občanského soudního řádu může být přikázána věc jinému soudu téhož stupně z důvodu vhodnosti.
+Delegace vhodná je výjimkou z ústavně zaručené zásady, že nikdo nesmí být odňat svému zákonnému soudci, a proto k ní lze přistoupit pouze v těch ojedinělých případech, v nichž by projednání věci jiným než místně příslušným soudem znamenalo z komplexního pohledu hospodárnější, rychlejší či po skutkové stránce spolehlivější a důkladnější posouzení věci. Není přitom vyloučeno přihlédnout k mimořádným poměrům účastníků řízení, k obtížím, s nimiž je pro ně spojeno dosažení místně příslušného soudu apod., avšak při úvaze, do jaké míry je vhodné vyhovět návrhu opřenému o takové důvody, je třeba stejně pečlivě posuzovat, zda delegováním věci jinému soudu nedojde pouze k tomu, že se obdobným způsobem ztíží postavení druhého účastníka (srov. shodně Drápal, L., Bureš, J. a kol. Občanský soudní řád I. Komentář. 1. vydání. Praha : C. H. Beck, 2009, s. 72).
+Z předložené lékařské zprávy nevyplývá takový poznatek o zdravotním stavu žalobkyně, jenž by vedl k závěru, že v jeho důsledku by dosažení místně příslušného soudu bylo pro žalobkyni spojeno s podstatnými potížemi opodstatňujícími odnětí věci zákonnému soudci.
+Nejvyšší soud proto návrhu žalobkyně na přikázání věci Krajskému soudu v Plzni nevyhověl.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 17. dubna 2012
+JUDr. Pavel Příhoda
+předseda senátu
