@@ -1,0 +1,17 @@
+28 Cdo 914/2012
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy JUDr. Ludvíka Davida, CSc., a soudců JUDr. Josefa Rakovského a Mgr. Zdeňka Sajdla v právní věci žalobce V. D., bytem v O., proti žalované České republice - Ministerstvu spravedlnosti ČR, se sídlem v Praze 2, Vyšehradská 16, o zaplacení částky 421.154,20 Kč, vedené u Okresního soudu v Ostravě pod sp. zn. 25 C 87/2005, o dovolání žalobce proti usnesení Krajského soudu v Ostravě ze dne 26. 1. 2012, č. j. 8 Co 60/2012-478, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Usnesením Krajského soudu v Ostravě shora označeným bylo potvrzeno usnesení Okresního soudu v Ostravě ze dne 23. 12. 2011, č. j. 25 C 87/2005-464, kterým byla zamítnuta žádost JUDr. P. K. a žádost žalobce o zrušení ustanovení JUDr. P. K. opatrovníkem žalobce. Odvolací soud se ztotožnil se závěrem soudu prvního stupně, že advokát, který byl usnesením soudu ustanoven opatrovníkem podle § 29 o. s. ř., je povinen tuto funkci vykonávat, ledaže má důvod, pro který by byl ve vztahu k dotčenému účastníku povinen odmítnout poskytnutí právních služeb podle § 19 zákona č. 85/1996 Sb. ve znění pozdějších předpisů, o advokacii. Podle odvolacího soudu soud prvního stupně správně odkazem na ustanovení § 12 odst. citovaného zákona za podstatné pro rozhodnutí o žádosti o zrušení ustanovení opatrovníkem považoval skutečnost, že opatrovník ani žalobce tvrzení o ztrátě důvěry nijak blíže neodůvodnil. Zaujal názor, že v dané věci nelze dovodit, že by ustanovený opatrovník v řízení konal v rozporu s ustanovením § 16 a násl. zákona č. 85/1996 Sb. ve znění pozdějších předpisů.
+Proti usnesení odvolacího soudu (chybně označenému v dovolání jako rozsudku) podal žalobce sám dovolání, jehož přípustnost blíže nespecifikoval. Tvrdil, že k advokátovi jako opatrovníkovi nemá důvěru, je bez právního zastoupení a žádá o ustanovení advokáta. Navrhl zrušení usnesení odvolacího soudu.
+Dovolání není přípustné.
+Podle ustanovení § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti usnesení odvolací instance upravují ustanovení § 237 až § 239 o. s. ř.
+Podle ustanovení § 238, § 238a a § 239 o. s. ř. není dovolání přípustné, protože usnesení o zrušení ustanovení zástupce opatrovníkem v jejich taxativních výčtech uvedeno není. Přípustnost dovolání není dána ani ustanovením § 237 odst. 1 o. s. ř., jelikož napadené rozhodnutí není usnesením ve věci samé (k pojmu „věc sama“ srov. usnesení Nejvyššího soudu ze dne 2. 12. 1997, sp. zn. 2 Cdon 774/97, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod č. 61/1998, příp. usnesení téhož soudu ze dne 28. 8. 1997, sp. zn. 2 Cdon 484/97, uveřejněné v časopise Soudní judikatura pod č. 88/1997). Přípustnost dovolání tedy nebylo možno dovodit z žádného ustanovení platného procesního práva.
+Nejvyšší soud proto, aniž vyžadoval splnění podmínky obligatorního zastoupení (§ 241b odst. 2 o. s. ř.), dovolání žalobce podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl.
+O nákladech dovolacího řízení nebylo rozhodováno, neboť dovoláním napadené rozhodnutí odvolacího soudu není rozhodnutím, jímž se řízení ve věci končí (viz např. usnesení Nejvyššího soudu ze dne 23. 7. 2002, sp. zn. 20 Cdo 970/2001, publikované pod č. 48/2003 Sbírky soudních rozhodnutí a stanovisek).
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 17. dubna 2012
+JUDr. Josef Rakovský
+předseda senátu
