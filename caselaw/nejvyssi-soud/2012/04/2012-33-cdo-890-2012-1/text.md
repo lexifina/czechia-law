@@ -1,0 +1,16 @@
+33 Cdo 890/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Blanky Moudré a soudců JUDr. Václava Dudy a JUDr. Pavla Krbka ve věci žalobce JUDr. P. M., Ph.D., zastoupeného JUDr. PhDr. Jaromírem Saxlem, advokátem se sídlem Brno, Údolní 33, proti žalovanému Mgr. J. T., o obnovu řízení, vedené u Krajského soudu v Brně pod sp. zn. 13 Co 326/2010, o odvolání žalovaného proti usnesení Vrchního soudu v Olomouci ze dne 22. září 2011, č. j. Nco 55/2011-245, takto:
+Řízení se zastavuje.
+O d ů v o d n ě n í:
+Vrchní soud v Olomouci usnesením ze dne 22. září 2011, č. j. Nco 55/2011-245, rozhodl o námitce podjatosti žalovaného tak, že soudkyně Krajského soudu v Brně JUDr. P. L. a JUDr. D. V. nejsou vyloučeny z projednávání a rozhodnutí věci vedené u Krajského soudu v Brně pod sp. zn. 13 Co 326/2010.
+Uvedené usnesení napadl žalovaný podáním, jež označil jako odvolání a které adresoval Nejvyššímu soudu České republiky. Vyjádřil v něm výhrady k závěru, že nebyly shledány důvody pro vyloučení shora uvedených soudkyň z projednávání a rozhodnutí věci, a navrhl napadené usnesení zrušit.
+Podle § 201 o. s. ř. platí, že účastník může napadnout rozhodnutí okresního soudu nebo rozhodnutí krajského soudu vydané v řízení v prvním stupni odvoláním, pokud to zákon nevylučuje.
+Protože usnesení, jímž vrchní soud rozhodl v intencích § 16 odst. 1 o. s. ř. o námitce podjatosti, není rozhodnutím vydaným v prvním stupni, nelze je napadnout odvoláním. Občanský soudní řád proto také neupravuje funkční příslušnost soudu pro projednání odvolání proti takovému rozhodnutí. Jelikož nedostatek funkční příslušnosti je neodstranitelným nedostatkem podmínky řízení, Nejvyšší soud řízení o odvolání proti rozhodnutí Vrchního soudu v Olomouci, které touto vadou trpí, podle § 243c odst. 1 a § 104 odst. 1 věty první o. s. ř. zastavil.
+Pro úplnost lze uvést, že nedostatkem funkční příslušnosti by řízení bylo postiženo i v případě, že by podání žalovaného mělo být dovoláním.
+Dovolání je ve smyslu § 236 odst. 1 o. s. ř. mimořádným opravným prostředkem, kterým lze napadnout pravomocná rozhodnutí odvolacího soudu. Ve shodě s dikcí § 16 odst. 1 o. s. ř. bylo ovšem napadené usnesení, jímž bylo rozhodnuto o námitce podjatosti soudkyň Krajského soudu v Brně, rozhodnutím nadřízeného vrchního soudu.
+Pojem „nadřízený soud”, je-li použit občanským soudním řádem k určení věcné příslušnosti soudu, vychází z organizačních vztahů uvnitř soustavy soudů, nikoli ze vztahů instančních a s pojmem „odvolací soud” jej tudíž zaměňovat nelze (srovnej stanovisko pléna Nejvyššího soudu z 27. 6. 1996, Plsn 1/96, uveřejněné pod číslem 48/1996 Sbírky soudních rozhodnutí a stanovisek). Rozhoduje-li tedy vrchní soud o vyloučení soudců krajského soudu, není jeho rozhodnutí rozhodnutím odvolacího soudu; vydání takového rozhodnutí ostatně žádné rozhodnutí soudu prvního stupně, jež by bylo možno napadnout odvoláním, nepředchází. Funkční příslušnost k projednání dovolání proti takovému rozhodnutí občanský soudní řád neupravuje; řízení by proto muselo být i v tomto případě zastaveno podle § 104 odst. 1 o. s. ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 24. dubna 2012
+JUDr. Blanka Moudrá, v. r.
+předsedkyně senátu
