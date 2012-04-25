@@ -1,0 +1,14 @@
+20 Cdo 955/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové a soudců JUDr. Olgy Puškinové a JUDr. Vladimíra Mikuška ve věci výkonu rozhodnutí oprávněné Všeobecné zdravotní pojišťovny České republiky, se sídlem v Praze 3, Orlická 4/2020, identifikační čilo osoby 411 97 518, s adresou pro doručování Územní pracoviště VZP ČR v Rychnově nad Kněžnou, Palackého 698, proti povinnému P. K., pro 22.222,- Kč, zřízením soudcovského zástavního práva na nemovitostech, vedené u Okresního soudu v Rychnově nad Kněžnou pod sp. zn. E 2837/2004, o dovolání povinného proti usnesení Krajského soudu v Hradci Králové ze dne 2. 7. 2007, č. j. 24 Co 451/2006-76, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Krajský soud v záhlaví označeným rozhodnutím potvrdil usnesení ze dne 29. 4. 2004, č. j. E 2837/2004-8, kterým okresní soud nařídil podle platebního výměru VZP ČR, Okresní pojišťovny Rychnov nad Kněžnou, ze dne 19. 7. 1999, č. 4249900016, výkon rozhodnutí zřízením soudcovského zástavního práva na označených nemovitostech povinného; současně žádnému z účastníků nepřiznal právo na náhradu nákladů odvolacího řízení a povinnému uložil nahradit České republice – Okresnímu soudu v Rychnově nad Kněžnou náklady řízení 1.154,- Kč.
+Povinný podal k soudu dne 14. 9. 2010 dovolání. Z obsahu podání Nejvyšší soud dovodil, že dovolání směřuje proti rozhodnutí krajského soudu ze dne 2. 7. 2007, č. j. 24 Co 451/2006-76 (viz č. l. 133 spisu, v jehož záhlaví se odkazuje na rozhodnutí s č. j. 24 Co 451/2006-76). Ze soudního spisu se také podává, že o dovolání proti rozhodnutí Krajského soudu v Hradci Králové ze dne 2. 7. 2007, č. j. 24 Co 451/2006-76, Nejvyšší soud již pravomocně rozhodl usnesením ze dne 15. 4. 2008, č. j. 20 Cdo 628/2008-120.
+Nejvyšší soud již v rozhodnutí z 29. 4. 2003, sp. zn. 28 Cdo 724/2003, uvedl, že překážka věci pravomocně rozhodnuté (res judicata) patří mezi podmínky řízení, k nimž soud přihlíží kdykoliv za řízení (§ 103 o. s. ř.), a představuje neodstranitelný nedostatek procesní podmínky, který je důvodem k zastavení řízení (§ 104 odst. 1 o. s. ř.). Předpokladem je, že jde o totožnou pravomocně rozsouzenou věc. Totožnost věci je dána totožností účastníků řízení a totožností předmětu řízení. Protože novému projednání v posuzovaném případě brání překážka věci pravomocně rozsouzené (§ 159a odst. 5 o. s. ř.), Nejvyšší soud řízení o dovolání zastavil.
+Výrok o nákladech řízení je odůvodněn § 243b odst. 5 větou první, § 224 odst. 1 a § 146 odst. 2 větou první o. s. ř.; oprávněné, jež by měla na jejich náhradu právo, náklady v této fázi řízení podle obsahu spisu nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. dubna 2012
+JUDr. Miroslava Jirmanová, v. r.
+předsedkyně senátu
