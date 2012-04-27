@@ -1,0 +1,17 @@
+30 Cdo 3691/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Ištvánka a soudců JUDr. Pavla Simona a JUDr. Pavla Pavlíka ve věci žalobce J. N., zastoupeného JUDr. Květuší Blaškovičovou, advokátkou se sídlem v Plzni, Pod Vinicemi 2, proti žalované České republice - Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 16, o 10.000.000,- Kč, vedené u Okresního soudu Plzeň - město pod sp. zn. 17 C 973/2010, o dovolání žalobce proti rozsudku Krajského soudu v Plzni ze dne 20. 7. 2011, č. j. 12 Co 298/2011-49, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Plzni napadeným rozsudkem potvrdil rozsudek Okresního soudu Plzeň - město ze dne 10. 3. 2011, č. j. 17 C 973/2010-34, kterým byla zamítnuta žaloba na přiznání zadostiučinění ve výši 10.000.000,- Kč za nemajetkovou újmu, která měla žalobci vzniknout v souvislosti s usnesením Ústavního soudu ze dne 25. 8. 2010, sp. zn. I. ÚS 1755/10.
+Proti rozsudku odvolacího soudu podal žalobce dovolání, jež však Nejvyšší soud podle ustanovení § 243b odst. 5, § 218 písm. c) občanského soudního řádu (dále jen „o. s. ř.“) odmítl jako nepřípustné.
+Dovolání proti potvrzujícímu výroku rozhodnutí ve věci samé může být přípustné pouze podle ustanovení § 237 odst. 1 písm. c) o. s. ř. (se zřetelem k nálezu Ústavního soudu ČR ze dne 28. 2. 2012, sp. zn. Pl. ÚS 29/11, je zrušeno uplynutím doby dne 31. 12. 2012), přičemž o situaci předvídanou v ustanovení § 237 odst. 1 písm. b) o. s. ř. nejde, tedy tak, že dovolací soud - jsa přitom vázán uplatněnými dovolacími důvody včetně jejich obsahového vymezení (§ 242 odst. 3 o. s. ř.) - dospěje k závěru, že napadené rozhodnutí má po právní stránce zásadní význam (§ 237 odst. 3 o. s. ř.).
+Žalobce, ač zastoupen pro dovolací řízení advokátkou, ve svém dovolání Nejvyššímu soudu nepředkládá žádnou otázku (natož pak zásadního právního významu), pro niž by dovolání mohlo být shledáno přípustným. Dovolatel nijak nenapadá závěr, na němž je rozhodnutí odvolacího soudu založeno, tedy že v daném případě nebylo vydáno nezákonné rozhodnutí, ani nedošlo k nesprávnému úřednímu postupu, to znamená, že nebyly splněny základní podmínky pro poskytnutí odškodnění za nemajetkovou újmu dle zákona č. 82/1998 Sb., o odpovědnosti za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo nesprávným úředním postupem a o změně zákona České národní rady č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), ve znění zák. č. 160/2006 Sb.
+Přípustnost dovolání nemůže založit pouhý nesouhlas žalobce se skutkovými zjištěními odvolacího soudu a předkládání vlastní skutkové verze, s níž se oba předchozí soudy náležitě vypořádaly (dovolací důvod podle § 241a odst. 3 o. s. ř.), neboť k těmto námitkám nelze v souladu s § 237 odst. 3 o. s. ř. při zkoumání přípustnosti dovolání podle
+§ 237 odst. 1 písm. c) o. s. ř. přihlédnout (srov. též usnesení Ústavního soudu ze dne 7. března 2006, sp. zn. III. ÚS 10/06, uveřejněné v časopise Soudní judikatura číslo 9, ročník 2006, pod číslem 130).
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ust. § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 3 o. s. ř., neboť žalované v dovolacím řízení žádné náklady nevznikly a žalobce nemá s ohledem na výsledek dovolacího řízení na náhradu svých nákladů právo.
+Proti tomuto usnesení nejsou opravné prostředky přípustné.
+V Brně dne 27. dubna 2012
+JUDr. František Ištvánek, v. r.
+předseda senátu
