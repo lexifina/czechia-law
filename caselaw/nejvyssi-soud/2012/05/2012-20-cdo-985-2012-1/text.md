@@ -1,0 +1,20 @@
+20 Cdo 985/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Olgy Puškinové a soudců JUDr. Miroslavy Jirmanové a JUDr. Vladimíra Mikuška ve věci výkonu rozhodnutí oprávněné České republiky - Okresního soudu v Ostravě, se sídlem v Ostravě-Porubě, U soudu č. 6187/4, proti povinnému V. S., pro 7.350,- Kč, srážkami ze mzdy a jiných příjmů, vedené u Okresního soudu v Ostravě pod sp. zn. 90 E 143/2011, o dovolání povinného proti usnesení Krajského soudu v Ostravě ze dne 22. července 2011, č. j. 66 Co 438/2011 - 26, a proti usnesení Okresního soudu v Ostravě ze dne 14. dubna 2011, č. j. 90 E 143/2011 - 11, takto:
+I. Řízení o dovolání proti usnesení Okresního soudu v Ostravě ze dne 14. dubna 2011, č. j. 90 E 143/2011 - 11, se zastavuje.
+II. Dovolací řízení o dovolání proti usnesení Krajského soudu v Ostravě ze dne 22. července 2011, č. j. 66 Co 438/2011 - 26, se zastavuje.
+III. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.):
+Okresní soud v Ostravě usnesením ze dne 14. 4. 2011, č. j. 90 E 143/2011 - 11, zamítl návrh povinného na zastavení výkonu rozhodnutí podle § 290 odst. 1 a § 268 odst. 1 písm. c) o. s. ř. (nařízený usnesením téhož soudu ze dne 15. 2. 2011, č. j. 90 E 143/2011 - 4) a rozhodl o nákladech tohoto řízení.
+Krajský soud v Ostravě usnesením ze dne 22. 7. 2011, č. j. 66 Co 438/2011 - 26, usnesení soudu prvního stupně potvrdil a rozhodl o nákladech odvolacího řízení.
+Usnesení odvolacího soudu a výslovně také usnesení soudu prvního stupně napadl povinný dovoláním, aniž byl při tomto úkonu zastoupen advokátem.
+Pro podání dovolání, které je mimořádným opravným prostředkem, zákon stanoví
+v § 241 o. s. ř. požadavek, aby účastník řízení, který podává dovolání, měl buď sám právnické vzdělání, nebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc. Ustanovení § 241 o. s. ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejího splnění nelze o dovolání rozhodnout.
+Usnesením soudu prvního stupně ze dne 26. 10. 2011, č. j. 90 E 143/2011 - 34, byl povinný vyzván, aby si pro podání dovolání v této věci zvolil zástupcem advokáta a aby jeho prostřednictvím podal řádné dovolání proti usnesení Krajského soudu v Ostravě ze dne 22. 7. 2011, č. j. 66 Co 438/2011 - 26, a současně byl poučen o tom, že nebude-li do 30 dnů ode dne doručení tohoto usnesení předložena podepsanému soudu plná moc zvoleného advokáta a jím sepsané dovolání, Nejvyšší soud dovolací řízení zastaví. Toto usnesení převzal povinný osobně dne 12. 12. 2011, na výzvu soudu prvního stupně však dosud nereagoval.
+Vzhledem k tomu, že dovolatel podal dovolání proti rozhodnutí odvolacího soudu, aniž byl při tomto úkonu zastoupen advokátem a aniž by doložil, že má právnické vzdělání, nebyl nedostatek podmínky dovolacího řízení podle § 241 odst. 1 věty první o. s. ř. ani přes poučení soudu odstraněn. Nejvyšší soud proto dovolací řízení proti usnesení odvolacího soudu podle § 243c odst. 1 a § 104 odst. 2 věty třetí o. s. ř. zastavil.
+Opravným prostředkem pro přezkoumání rozhodnutí soudu prvního stupně je odvolání (viz § 201 o. s. ř.); občanský soudní řád proto také ani neupravuje funkční příslušnost soudu pro projednání dovolání proti takovému rozhodnutí. Tím, že dovolatel směřuje „dovolání“ přímo proti rozhodnutí soudu prvního stupně, uvedenou podmínku dovolacího řízení opomíjí. Nedostatek funkční příslušnosti je neodstranitelným nedostatkem podmínky řízení; Nejvyšší soud proto řízení o „dovolání“ proti usnesení soudu prvního stupně, které touto vadou trpí, rovněž zastavil (§ 104 odst. 1 o. s. ř.).
+O nákladech dovolacího řízení rozhodl dovolací soud podle ustanovení § 243b odst. 5, věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 1 písm. c) o. s. ř. (žádnému z účastníků náklady v tomto stadiu řízení podle obsahu spisu nevznikly).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 2. května 2012
+JUDr. Olga Puškinová, v. r.
+předsedkyně senátu
