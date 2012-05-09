@@ -1,0 +1,15 @@
+11 Tcu 84/2012-34
+U S N E S E N Í
+Nejvyšší soud České republiky projednal žádost Rumunska o povolení průvozu D. Ch. , státního občana Rumunska, a rozhodl v neveřejném zasedání dne 9. května 2012 podle § 422 tr. ř. t a k t o :
+Povoluje se p r ů v o z předávané osoby D. Ch. , státního občana Rumunska, územím České republiky ze Spolkové republiky Německo do Rumunska pro účely výkonu trestu odnětí svobody v trvání dvou let, uloženého mu rozsudkem Okresního soudu v Braila č. 1294 ze dne 16. 6. 2011 vydaného ve věci sp. zn. 17911/196/2010, ve spojení s rozhodnutím Odvolacího soudu v Galati č. 1484/28.09.2011.
+Po dobu průvozu bude předávaná osoba držena ve vazbě.
+O d ů v o d n ě n í :
+Rumunsko požádalo dne 7. května 2012 na základě čl. 25 Rámcového rozhodnutí Rady Evropské unie ze dne 13. června 2002, o evropském zatýkacím rozkazu a o předávání mezi členskými státy Evropské unie, o povolení průvozu rumunského státního občana D. Ch. územím České republiky. Průvoz se má uskutečnit v rámci předání jmenovaného ze Spolkové republiky Německo do Rumunska na základě evropského zatýkacího rozkazu č. 48 vydaného dne 16. 11. 2011 Okresním soudem v Braila k výkonu trestu odnětí svobody v trvání dvou let uloženého mu výše označeným rozhodnutím rumunského soudu, a to pro kvalifikovaný trestný čin krádeže podle čl. 20 rumunského trestního zákona za použití čl. 208 odst. 1 a čl. 209 odst. 1 písm. g) a i) rumunského trestního zákona za současného použití čl. 99 odst. 3 rumunského trestního zákona a dále trestného činu pokračování v kvalifikovaném trestném činu krádeže podle čl. 208 odst. 1 a čl. 209 odst. 1 písm. a), g) a i) rumunského trestního zákona a za současného použití čl. 41 odst. 2 rumunského trestního zákona. Průvoz se má uskutečnit leteckou cestou s mezipřistáním v Praze dne 10. května 2012.
+Uvedené trestné činnosti se měl předávaný dopustit v podstatě tím, že v noci ze dne 28. na 29. 6. 2008 vyšplhal a vniknul na dvůr poškozeného Barbu M. s cílem ukrást zboží, a dále tím, že v noci ze dne 24. na 25. 7. 2010 společně s obviněným Ch. D. S. , vyšplhal a vniknul na dvůr poškozeného Barbu M. , kde ukradl zboží za RON 520.
+Nejvyšší soud České republiky projednal předloženou žádost z hlediska splnění právních podmínek a náležitostí vyžadovaných vnitrostátní úpravou (§ 422 tr. ř.). Zjistil, že v posuzovaném případě jde o předání ze Spolkové republiky Německo do Rumunska pro účely výkonu trestu odnětí svobody v Rumunsku. Z výpisu z centrální evidence obyvatel je pak zřejmé, že předávaný není státním občanem České republiky.
+Jelikož nebyly zjištěny právní překážky, které by bránily povolení průvozu předávaného D. Ch. územím České republiky pro účely výkonu trestu odnětí svobody v Rumunsku, tak Nejvyšší soud České republiky žádosti Rumunska vyhověl.
+Zároveň rozhodl o nutném opatření omezujícím osobní svobodu předávané osoby v době průvozu územím České republiky.
+Poučení : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 9. května 2012
+Předseda senátu:
+JUDr. Antonín Draštík
