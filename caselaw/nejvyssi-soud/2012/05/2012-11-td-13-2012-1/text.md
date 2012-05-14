@@ -1,0 +1,15 @@
+11 Td 13/2012-6
+U S N E S E N Í
+Nejvyšší soud České republiky v trestní věci obviněného P. N. projednal v neveřejném zasedání konaném dne 14. května 2012 návrh na odnětí a přikázání věci podle § 25 tr. ř. a rozhodl t a k t o :
+Návrh na odnětí věci Krajskému soudu v Hradci Králové – pobočka v Pardubicích vedené pod sp. zn. 13 To 254/2010 a její přikázání Krajskému soudu v Brně – pobočka ve Zlíně podle § 25 tr. řádu se z a m í t á.
+O d ů v o d n ě n í :
+Dne 11. 4. 2012 bylo Nejvyššímu soudu České republiky (dále jen „Nejvyšší soud“) předloženo podání obviněného P. N., datované dnem 27. 2. 2012, jímž se postupem podle § 25 tr. ř. domáhal odnětí své trestní věci vedené u Krajského soudu v Hradci Králové – pobočka v Pardubicích pod sp. zn. 13 To 254/2010 a její přikázání Krajskému soudu v Brně – pobočka ve Zlíně.
+Důvody pro tento postup obviněný spatřoval v tom, že jeho trestní věc se nachází ve stadiu odvolacího řízení proti rozsudku Okresního soudu v Pardubicích ze dne 16. 4. 2010, sp. zn. 2 T 62/2009, a nyní je vedena u odvolacího Krajského soudu v Hradci Králové – pobočka v Pardubicích pod sp. zn. 13 To 254/2010. Pro nepříznivý zdravotní stav obviněného muselo být odvolací řízení (veřejné zasedání o odvolání) již opakovaně odročeno, neboť zdravotní potíže mu neumožňovaly dostavit se k odvolacímu soudu. Obviněný podrobně popsal svůj aktuální zdravotní stav a poukázal i na špatný zdravotní stav několika svědků. Proto navrhl, aby Nejvyšší soud podle § 25 tr. ř. trestní věc vedenou u Krajského soudu v Hradci Králové – pobočka v Pardubicích pod sp. zn. 13 To 254/2010 tomuto soudu odňal a přikázal ji Krajskému soudu v Brně – pobočka ve Zlíně.
+Nejvyšší soud, ještě předtím než mohl posoudit předložený návrh z hledisek uvedených v § 25 tr. ř., zjistil, že v současné době vůbec nepřichází v úvahu postup předvídaný tímto ustanovením.
+Z předloženého spisového materiálu bylo totiž zjištěno, že odvolací řízení ve věci Okresního soudu v Pardubicích, sp. zn. 2 T 62/2009, bylo již pravomocně skončeno, a to rozsudkem Krajského soudu v Hradci Králové – pobočka v Pardubicích jako odvolacího soudu, ze dne 28. 2. 2012, sp. zn. 13 To 254/2010.
+I když obviněný podal návrh na odnětí věci příslušnému odvolacímu soudu a její přikázání jinému odvolacímu soudu den před konáním veřejného zasedání odvolacího soudu, tj. dne 27. 2. 2012 (návrh byl Nejvyššímu soudu řádně předložen dne 11. 4. 2012), tak za procesní situace, kdy se už žádné odvolací řízení v této trestní věci nekoná, tedy ani neexistuje předmětné řízení, jehož se týká návrh na odnětí věci a její přikázání jinému soudu, nelze rozhodnout o změně příslušnosti soudu ve smyslu § 25 tr. ř. a nebylo tak možno návrhu obviněného P. N. vyhovět.
+Toto rozhodnutí nebrání tomu, aby v případě, že např. z důvodů úspěšného uplatnění mimořádných opravných prostředků bude pokračováno v trestním stíhání obviněného, byl obviněným případně učiněn znovu návrh na postup podle § 25 tr. ř.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 14. května 2012
+Předseda senátu:
+JUDr. Antonín Draštík
