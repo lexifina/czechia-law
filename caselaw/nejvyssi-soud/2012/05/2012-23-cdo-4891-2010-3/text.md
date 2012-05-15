@@ -1,0 +1,13 @@
+23 Cdo 4891/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Zdeňkem Desem ve věci žalobkyně ELQA, s.r.o., se sídlem v Kuřimi, Blanenská 1856, PSČ 664 34, IČO 49977121, zastoupené JUDr. Petrem Fialou, advokátem, se sídlem v Brně, Mezníkova 273/13, proti žalované AGROAD, s.r.o., se sídlem v Kuřimi, Blanenská 1338, PSČ 664 34, IČO 63468638, o zaplacení částky 300 000 Kč s příslušenstvím, vedené u Krajského soudu v Brně pod sp. zn. 43 Cm 101/2008, o dovolání žalobkyně proti rozsudku Vrchního soudu v Olomouci ze dne 25. srpna 2010, č. j. 14 Cmo 117/2010-85, takto:
+Výrok rozsudku Nejvyššího soudu České republiky ze dne 26. ledna 2012, č. j. 23 Cdo 4891/2010–114, pod bodem I se opravuje tak, že jeho sedmý řádek správně zní: „… do 30. 6. 2008, s 10,75% úrokem z prodlení od 1. 7. 2008 do 30. 12. 2008 a dále s úrokem …“.
+O d ů v o d n ě n í:
+Podáním ze dne 21. února 2012 došlým Nejvyššímu soudu dne 29. února 2012 upozornil Krajský soud v Brně, že ve výroku rozsudku Nejvyššího soudu České republiky ze dne 26. ledna 2012, č. j. 23 Cdo 4891/2010–114, pod bodem I došlo k chybě v psaní na sedmém řádku tohoto výroku, kde je namísto správného data 1. 7. 2008 uvedeno nesprávně 1. 7. 2007.
+Podle § 164 občanského soudního řádu (dále jen „o. s. ř.“) je namístě v rozhodnutí opravit kdykoliv i bez návrhu chyby v psaní a počtech, jakož i jiné zjevné nesprávnosti. K provedení opravy zákon nestanoví žádnou lhůtu; soud tak může učinit kdykoli, i po právní moci rozhodnutí.
+V daném případě došlo ve výroku rozsudku Nejvyššího soudu České republiky ze dne 26. ledna 2012, č. j. 23 Cdo 4891/2010-114, ke zjevné nesprávnosti, neboť z obsahu spisu vyplývá, že Vrchní soud v Olomouci rozsudkem ze dne 25. srpna 2010, č. j. 14 Cmo 117/2010-85, změnil rozsudek soudu prvního stupně tak, že žaloba, aby byla žalovaná povinna zaplatit žalobkyni částku ve výši 300 000 Kč s 9,5% úrokem z prodlení od 1. 4. 2007 do 30. 6. 2007, s 9,75% úrokem z prodlení od 1. 7. 2007 do 31. 12. 2007, s 10,5% úrokem z prodlení od 1. 1. 2008 do 30. 6. 2008, s 10,75% úrokem z prodlení od 1. 7. 2008 do 30. 12. 2008 a dále s úrokem z prodlení ve výši odpovídající procentní výši reposazby stanovené Českou národní bankou a platné vždy pro první den kalendářního pololetí, v němž prodlení dlužníka trvá, zvýšené o 7 procentních bodů od 1. 1. 2009 do zaplacení, se zamítá.
+Nejvyšší soud České republiky proto podle ustanovení § 243c odst. 1 a § 164 o. s. ř. vydal toto opravné usnesení, jímž tuto zjevnou nesprávnost napravil.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 15. května 2012
+JUDr. Zdeněk Des
+předseda senátu
