@@ -1,0 +1,24 @@
+30 Cdo 1166/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Ištvánka a soudců JUDr. Pavla Vrchy a JUDr. Lubomíra Ptáčka, Ph.D., věci žalobce JUDr. K. F., CSc., proti žalované České republice – Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 16, o zaplacení částky 75.000,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 12 C 404/2009, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 17. 10. 2011, č. j. 68 Co 177/2011-81, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 2 rozsudkem ze dne 15. 10. 2010, č. j. 12 C 404/2009-35, uložil žalované povinnost zaplatit žalobci částku 24.750,- Kč s úrokem z prodlení, co do částky 50.250,- Kč s příslušenstvím žalobu zamítl, a uložil žalované povinnost zaplatit žalobci náklady řízení.
+Městský soud v Praze rozsudkem ze dne 17. 10. 2011, č. j. 68 Co 177/2011-81, změnil zamítavý výrok II. rozsudku soudu prvního stupně ve věci samé tak, že žalovaná je povinna zaplatit žalobci dalších 13.750,- Kč s úrokem z prodlení, ve zbývající části zamítavý výrok soudu prvního stupně potvrdil, a přiznal žalobci náhradu nákladů řízení před soudy obou stupňů.
+Rozsudek odvolacího soudu v rozsahu výroků I. a II. napadl žalobce dovoláním, kterým se domáhá zrušení rozsudku odvolacího soudu a vrácení věci tomuto soudu k dalšímu řízení.
+Nejvyšší soud v dovolacím řízení postupoval a o dovolání rozhodl podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném od 1. 7. 2009 (viz čl. II., bod 12 zákona č. 7/2009 Sb.) – dále jen „o. s. ř.“
+Dovolání bylo podáno včas, osobou k tomu oprávněnou, jež má právnické vzdělání (§ 241 odst. 2 písm. a) o. s. ř.), dovolací soud se proto zabýval přípustností dovolání.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, jestliže to zákon připouští.
+Posouzení, zda dovolání je objektivně přípustné podle ustanovení § 237 o. s. ř., předchází – ve smyslu ustanovení § 243b odst. 4, § 240 odst. 1 a § 218 písm. b) o. s. ř. - posuzování tzv. subjektivní přípustnosti dovolání. K podání dovolání je subjektivně oprávněn pouze účastník, v jehož poměrech rozhodnutím odvolacího soudu nastala újma odstranitelná tím, že dovolací soud toto rozhodnutí zruší. Zrušení části výroku I. odvolacího soudu, kterým odvolací soud změnil rozhodnutí soudu prvního stupně jen tak, že žalobci přiznal zadostiučinění o 13.750,- Kč vyšší, by ovšem nevedlo ke stavu pro žalobce příznivějšímu, potud tedy nemohla být odvolacím rozhodnutím žalobci způsobena žádná újma, jíž by bylo možno zhojit v dovolacím řízení. Žalobce proto není subjektivně oprávněn k podání dovolání proti měnící části výroku I. rozsudku odvolacího soudu.
+Podle § 237 odst. 2 písm. a) o. s. ř. dovolání není přípustné ve věcech, v nichž dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50.000,- Kč a v obchodních věcech 100.000,- Kč; k příslušenství pohledávky se přitom nepřihlíží.
+V rozsahu, ve kterém se dovolatel domáhá zrušení potvrzující části výroku I. rozsudku odvolacího soudu, se jedná o peněžité plnění ve výši 36.500,- Kč, neboť z žalobcem požadované celkové částky 75.000,- Kč bylo žalobci rozhodnutím soudu prvního a druhého stupně přiznáno zadostiučinění v celkové výši 38.500,- Kč.
+Jelikož dovoláním dotčeným potvrzujícím výrokem nebylo rozhodnuto o peněžitém plnění převyšujícím 50.000,- Kč (§ 237 odst. 2 písm. a) o. s. ř.), není dovolání ani v tomto rozsahu přípustné.
+Přípustnost dovolání nemůže založit ani nesprávné poučení odvolacího soudu o tom, že dovolání je přípustné (srov. např. usnesení Nejvyššího soudu uveřejněná pod čísly 73/2001 a 51/2003 Sbírky soudních rozhodnutí a stanovisek, nebo nález Ústavního soudu ze dne 2. 12. 2008, sp. zn. II. ÚS 323/2007).
+Dovolání žalobce proti výroku II. o určení výše nákladů řízení není přípustné, neboť rozhodnutí o nákladech řízení má vždy povahu usnesení, přestože je začleněno do rozsudku a stává se tak formálně jeho součástí (§ 167 odst. 1 o. s. ř.). Přípustnost usnesení o nákladech řízení tak nemůže být dána podle § 237 o. s. ř., neboť se nejedná o rozhodnutí ve věci samé, a nemůže být založena ani § 238, § 238a a § 239 o. s. ř., jelikož nákladové výroky nelze podřadit pod žádný z tam taxativně uvedených případů.
+Dovolací soud proto dovolání podle § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ust. § 243b odst. 5, věty první, § 224 odst. 1 a § 146 odst. 3 o. s. ř., neboť žalované v dovolacím řízení náklady nevznikly a žalobce nemá s ohledem na výsledek dovolacího řízení na náhradu svých nákladů právo.
+Proti tomuto usnesení nejsou opravné prostředky přípustné.
+V Brně dne 6. června 2012
+JUDr. František Ištvánek, v. r.
+předseda senátu
