@@ -1,0 +1,18 @@
+20 Cdo 1475/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Olgy Puškinové a soudců JUDr. Vladimíra Mikuška a JUDr. Zbyňka Poledny v exekuční věci oprávněného Dragon Internet a.s., se sídlem v Kosmonosech, Pod Loretou 883, identifikační číslo osoby 272 37 800, zastoupeného JUDr. Danou Musalovou, advokátkou se sídlem v Mladé Boleslavi, Palackého čp. 267, proti povinnému GRADACE, spol. s r.o., se sídlem v Jičíně - Valdickém Předměstí, Jungmannova 134, identifikační číslo osoby 620 29 835, zastoupenému Helenou Dvornou, advokátkou se sídlem v Praze 4 - Krči, Hurbanova 11, pro 529.683,- Kč s příslušenstvím, vedené u Okresního soudu v Jičíně pod sp. zn. 16 EXE 165/2010, o dovolání povinného proti usnesení Krajského soudu v Hradci Králové ze dne 30. září 2010, č. j. 25 Co 213/2010 - 47, takto:
+Dovolání se o d m í t á.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.):
+Okresní soud v Jičíně usnesením ze dne 2. 3. 2010, č. j. 16 EXE 165/2010 - 22, ve znění opravného usnesení ze dne 14. 6. 2010, č. j. 16 EXE 165/2010 - 39, nařídil podle „pravomocného a vykonatelného rozhodnutí Českého telekomunikačního úřadu, odboru pro východočeskou oblast, ze dne 20. 11. 2008, č. j. 80678/2008-636/IV.vyř, ve znění rozhodnutí předsedy Rady Českého telekomunikačního úřadu ze dne 20. 11. 2008, č. j. 6461/2009-603, ve znění opravného rozhodnutí č. j. 6461/2009-603/II.vyř.,“ k uspokojení pohledávky oprávněného ve výši 529.683,- Kč spolu se specifikovanými úroky z prodlení, dále pro specifikované smluvní pokuty, náklady předcházejícího řízení ve výši 28.825,- Kč a pro náklady exekuce, které budou v průběhu řízení stanoveny, exekuci na majetek povinného, jejímž provedením pověřil soudního exekutora Mgr. Michala Rudého, Exekutorský úřad v Praze 8.
+Krajský soud v Hradci Králové shora označeným usnesením k odvolání povinného usnesení soudu prvního stupně potvrdil.
+Usnesení odvolacího soudu napadl povinný dovoláním, v němž zejména namítl, že v usnesení o nařízení exekuce není v souladu s exekučním titulem u jednotlivých pohledávek uvedeno číslo smlouvy a číslo vyúčtování. Navrhl, aby dovolací soud usnesení odvolacího soudu zrušil a věc mu vrátil k dalšímu řízení.
+Oprávněný v písemném vyjádření k dovolání označil argumentaci povinného za účelovou a zcela bez právního významu. Navrhl, aby dovolání povinného bylo odmítnuto, případně zamítnuto.
+Dovolací soud vzhledem k článku II., bodu 12. části první zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů a další související zákony, a s ohledem na skutečnost, že napadené rozhodnutí bylo vydáno dne 30. září 2010, o dovolání rozhodl podle občanského soudního řádu ve znění účinném od 1. července 2009, a neshledal je přípustným.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Ve věcech výkonu rozhodnutí (exekuce) lze dovolání podat jen v případech uvedených v § 238a odst. 1 písm. c) až f) o. s. ř. S účinností od 1. 7. 2009 již toto ustanovení s možností podat dovolání proti usnesení odvolacího soudu, jímž bylo potvrzeno nebo změněno usnesení soudu prvního stupně, kterým bylo rozhodnuto o návrhu na nařízení výkonu rozhodnutí (exekuce), nepočítá [srov. § 238a odst. 1 písm. c) ve znění účinném do 30. 6. 2009].
+Nejvyšší soud ČR proto dovolání povinného podle § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 14. června 2012
+JUDr. Olga Puškinová
+předsedkyně senátu
