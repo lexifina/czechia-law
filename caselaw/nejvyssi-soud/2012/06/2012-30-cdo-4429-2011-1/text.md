@@ -1,0 +1,23 @@
+30 Cdo 4429/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Pavlíka a soudců JUDr. Pavla Vrchy a JUDr. Lubomíra Ptáčka, Ph.D., v právní věci žalobkyně P. V., zastoupené JUDr. Petrem Kotkem, advokátem se sídlem v Praze 2, Anny Letenské č. 7, proti žalovanému M. B., zastoupenému Mgr. Tomášem Vašíčkem, advokátem se sídlem v Praze 6, Liborova č. 405/14, o ochranu osobnosti, vedené u Městského soudu v Praze pod sp. zn. 34 C 73/2009, o dovolání žalovaného proti rozsudku Vrchního soudu v Praze ze dne 31. května 2011, č.j. 1 Co 34/2011-86, takto:
+I. Dovolání žalovaného se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Praze rozsudkem ze dne 5. srpna 2010, č.j. 34 C 73/2009-58, zamítl žalobu, aby žalovaný byl uznán povinným zaslat žalobkyni doporučený dopis s omluvou ve znění uvedeném ve výroku zmíněného rozsudku (výrok I.); současně (výrokem II.) zamítl žalobu, aby žalovaný byl povinen zaplatil žalobkyni požadovanou náhradu nemajetkové újmy podle § 13 odst. 2 občanského zákoníku (dále jen „obč. zák.“) ve výši 250.000,- Kč. Rozhodl též o náhradě nákladů řízení (výrok III.).
+K odvolání žalobkyně rozhodl ve věci Vrchní soud v Praze rozsudkem ze dne 31. května 2011, č.j. 1 Co 34/2011-86, který odvolací řízení zastavil co do částky 200.000,- Kč (výrok I.), výrokem II. rozsudek soudu prvního stupně ve věci samé změnil tak, že žalovanému uložil zaplatit žalobkyni částku 50.000,- Kč náhrady nemajetkové újmy v penězích, zatímco v ostatním uvedené rozhodnutí potvrdil. Rozhodl též o náhradě nákladů řízení před soudy obou stupňů.
+Rozsudek odvolacího soudu byl doručen zástupci žalovaného dne 9. srpna 2011 přičemž téhož dne nabyl právní moci.
+Proti rozsudku Vrchního soudu v Praze podal žalovaný dne 6. října 2011 včasné dovolání, a to konkrétně proti jeho výroku II. kdy požaduje, aby dovolací soud toto rozhodnutí zrušil, a aby věc vrátil uvedenému soudu k dalšímu řízení. K dovolání nebylo podáno případné vyjádření.
+Dovolací soud přihlédl k čl. II bodu 12. zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony a vyšel tak ze znění tohoto procesního předpisu účinného od 30. června 2009. Poté se zabýval otázkou přípustnosti tohoto dovolání.
+Podle ustanovení § 237 odst. 1 o.s.ř. je dovolání přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího soudu,
+a) jimiž bylo změněno rozhodnutí soudu prvního stupně ve věci samé,
+b) jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil,
+c) jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není přípustné podle písmena b) a dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam (§ 237 odst. 1 písm. c/ o.s.ř.).
+Podle ustanovení § 237 odst. 2 písm. a) o.s.ř. však dovolání podle ustanovení § 237 odst. 1 téhož zákona není přípustné ve věcech, v nichž dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50.000,- Kč a v obchodních věcech 100.000,- Kč, přičemž k příslušenství pohledávky se přitom nepřihlíží.
+Jak vyplývá z napadeného rozsudku odvolacího soudu výrokem, kterým byl změněn rozsudek soudu prvního stupně ve výroku o náhradě nemajetkové újmy v penězích, odvolací soud rozhodoval o peněžitém plnění, které nepřevyšovalo v daném případě částku 50.000,- Kč zmiňovanou v ustanovení § 237 odst. 2 písm. a) o.s.ř. S ohledem na výše uvedené ustanovení procesního předpisu tak proto není u tohoto výroku dána přípustnost dovolání. Dovolatel ovšem zcela zřejmě současně přehlédl i skutečnost, že v rámci výroku II. byl potvrzen rozsudek soudu prvního stupně ve výroku I., jímž byla žaloba vůči němu zamítnuta. V této části tak žalovaný nebyl k dovolání legitimován (§ 240 odst. 1 o.s.ř.), protože tímto rozhodnutím nebyl nikterak dotčen na svých právech.
+Dovolání žalovaného proto bylo odmítnuto, zčásti jako nepřípustné a zčásti též jako podané někým, kdo k dovolání nebyl oprávněn, podle § 243b odst. 5 o.s.ř. ve spojení s § 218 písm. c) a b) téhož zákona.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243b odst. 5 věta prvá o.s.ř. ve spojení s § 224 odst. 1 a § 151 o.s.ř. za situace když žalovaný nemá na náhradu těchto nákladů právo, zatímco žalobkyni v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 14. června 2012
+JUDr. Pavel Pavlík, v. r.
+předseda senátu
