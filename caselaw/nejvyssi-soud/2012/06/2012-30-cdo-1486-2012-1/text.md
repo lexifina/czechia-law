@@ -1,0 +1,20 @@
+30 Cdo 1486/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Ištvánka a soudců JUDr. Lubomíra Ptáčka, Ph.D., a JUDr. Pavla Simona ve věci žalobkyně PhDr. H. P., zastoupené JUDr. Janou Kašpárkovou, advokátkou se sídlem v Olomouci, Blanická 19, proti žalované České republice – Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 16, o náhradu nemajetkové újmy, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 10 C 185/2007, o dovolání žalobkyně proti rozsudku Městského soudu v Praze ze dne 1. 12. 2011, č. j. 53 Co 268/2011 – 222, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Odvolací soud v záhlaví uvedeným rozsudkem potvrdil rozsudek soudu prvního stupně, jímž byla zamítnuta žaloba pro 30.000,- Kč, a rozhodl o náhradě nákladů odvolacího řízení. Účastníky odvolací soud poučil, že proti jeho rozsudku není dovolání přípustné, ledaže dovolací soud na základě včasného dovolání dospěje k závěru, že rozsudek odvolacího soudu má ve věci samé po právní stránce zásadní význam.
+Rozsudek odvolacího soudu byl žalobkyni doručen dne 12. 1. 2012.
+Žalobkyně podáním doručeným soudu prvního stupně dne 12. 1. 2012 podala proti rozsudku odvolacího soudu „ve smyslu poučení“ dovolání a požádala o ustanovení zástupce z řad advokátů pro řízení před Nejvyšším soudem. Tuto žádost soud prvního stupně usnesením ze dne 15. 2. 2012 zamítl s tím, že žalobkyně ani na výzvu soudu nedoložila své „osobní, majetkové a výdělkové poměry“. Usnesením ze dne 7. 3. 2012 pak soud prvního stupně žalobkyni vyzval, aby ve stanovené lhůtě předložila soudu plnou moc pro zvoleného advokáta a jím sepsané dovolání. Žalobkyni poučil, že jinak Nejvyšší soud řízení o dovolání zastaví.
+Žalobkyně uvedené výzvě vyhověla podáním doručeným soudu dne 27. 3. 2012. V doplnění dovolání sepsaným a podepsaným advokátkou uvedla, že dovolání je podle jejího názoru nepřípustné, a to s ohledem na znění § 237 odst. 2 písm. a) zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů (dále též jen „o. s. ř.“). Tuto skutečnost však měl podle názoru žalobkyně vyslovit již soud prvního stupně k žádosti žalobkyně o ustanovení zástupce z řad advokátů, nikoliv dále směřovat žalobkyni k úkonům, které „nemají smysl“. Za této situace je nadbytečné dovolaní doplňovat věcnými argumenty, jestliže musí být pro nepřípustnost odmítnuto.
+Nejvyšší soud v dovolacím řízení postupoval a o dovolání rozhodl podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném od 1. 7. 2009 (viz čl. II., bod 12 zákona č. 7/2009 Sb.) – dále jen „o. s. ř.“
+Dovolání by mohlo být shledáno přípustným jen za předpokladu, že by dovolací soud dospěl k závěru, že napadené rozhodnutí odvolacího soudu je po právní stránce ve věci samé zásadně významné, a zároveň za předpokladu, že dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění převyšujícím 50.000,- Kč (§ 237 odst. 2 písm. a/ o. s. ř.).
+Druhá podmínka nebyla v daném případě zjevně naplněna, a proto nezbývalo než uzavřít, že dovolání přípustné není.
+Je však nutno poznamenat, že žalobkyně se v daném případě řídila nesprávným poučením odvolacího soudu o přípustnosti dovolání. Nesprávné poučení odvolacího soudu o tom, že dovolání je přípustné, ovšem přípustnost dovolání nezakládá (usnesení Nejvyššího soudu ze dne 20. 5. 2003, sp. zn. 29 Odo 10/2003, publikované v Soudní judikatuře jako SJ 118/2003, číslo sešitu 7/2003, veřejnosti dostupné též na internetových stránkách Nejvyššího soudu, www.nsoud.cz).
+Z výše vyložených důvodů dovolací soud postupoval podle § 243b odst. 5 a § 218 písm. c) o. s. ř. a dovolání odmítl.
+Při rozhodování o náhradě nákladů řízení vycházel dovolací soud z toho, že žalobkyně, jejíž dovolání bylo odmítnuto, nemá na náhradu nákladů řízení právo a žalované v dovolacím řízení žádné účelně vynaložené náklady nevznikly.
+Proti tomuto usnesení nejsou opravné prostředky přípustné.
+V Brně 27. června 2012
+JUDr. František I š t v á n e k, v. r.
+předseda senátu
