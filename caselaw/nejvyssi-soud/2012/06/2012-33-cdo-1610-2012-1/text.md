@@ -1,0 +1,15 @@
+33 Cdo 1610/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivany Zlatohlávkové a soudců JUDr. Blanky Moudré a JUDr. Václava Dudy ve věci žalobců a) H. Š. a b) J. B., zastoupených Mgr. Miroslavem Zemanem, advokátem se sídlem v Praze 5, Blattného 2315, proti žalované Moravské stavební - INVEST, a.s. se sídlem v Brně, Koliště 1912, identifikační číslo 25544756, zastoupené Zdeňkem Machálkem, advokátem se sídlem v Uherském Hradišti, Růžová 1254, o bezplatné odstranění vad díla, eventuelně o zaplacení 80.000,- Kč s příslušenstvím, vedeném u Městského soudu v Brně, pod sp. zn. 61 C 436/2004, o dovolání žalobců proti rozsudku Krajského soudu v Brně ze dne 1. listopadu 2011, č. j. 37 Co 371/2009-224, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Dovolání žalobců proti rozsudku Krajského soudu v Brně ze dne 1. listopadu 2011, č. j. 37 Co 371/2009-224, kterým byl ve věci samé potvrzen rozsudek Městského soudu v Brně ze dne 11. září 2008, č. j. 61 C 436/2004-156, není přípustné podle § 237 odst. 1 písm. b/ zákona č. 99/1963 Sb., o. s. ř., a nebylo shledáno přípustným ani podle § 237 odst. 1 písm. c/ o. s. ř., neboť napadený rozsudek odvolacího soudu nemá po právní stránce zásadní význam (§ 237 odst. 3 o. s. ř).
+Rozhodnutí odvolacího soudu má po právní stránce zásadní význam zejména tehdy, řeší-li právní otázku, která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo která je soudy rozhodována rozdílně, nebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak; k okolnostem uplatněným dovolacími důvody podle § 241a odst. 2 písm. a) a § 241a odst. 3 o. s. ř. se nepřihlíží.
+Přestože žalobci v dovolání avizují uplatnění dovolacích důvodů podle § 241a odst. 2 písm. a/ a b/ o. s. ř., ve skutečnosti uplatnili výlučně dovolací důvod uvedený v § 241a odst. 3 o. s. ř., který je - jak je již výše zmíněno - v případě přípustnosti dovolání podle § 237 odst. 1 písm. c/ o. s. ř. výslovně zapovězen. Soudům totiž vytýkají pouze nesprávně a neúplně zjištěný skutkový stav věci, resp. vadné hodnocení provedených důkazů, při němž soud určuje, jaký význam mají jednotlivé důkazy pro jeho rozhodnutí a zda o ně může opřít svá skutková zjištění (tj. zda jsou použitelné pro zjištění skutkového stavu a v jakém rozsahu, případně v jakém směru) ústící ve skutkový závěr, že žalobci v řízení existenci jimi vytčených vad díla neprokázali.
+Lze uzavřít, že dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný; dovolací soud je proto podle § 243b odst. 5 věty první a § 218 písm. c/ o. s. ř. odmítl.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř. za situace, kdy žalobci, jejichž dovolání bylo odmítnuto, nemají na náhradu těchto nákladů právo a žalované náklady v souvislosti s dovolacím řízením nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 27. června 2012
+JUDr. Ivana Zlatohlávková, v. r.
+předsedkyně senátu
