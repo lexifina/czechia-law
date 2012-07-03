@@ -1,0 +1,15 @@
+30 Cdo 1653/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Vrchy a soudců JUDr. Pavla Pavlíka a JUDr. Lubomíra Ptáčka, Ph.D., v právní věci žalobkyně MARATHON, a. s., se sídlem v Praze 3, Husitská 65/80, identifikační číslo osoby 250 62 166, zastoupené Mgr. Ondřejem Malinou, advokátem se sídlem v Praze 7, Komunardů 36, proti žalovaným: 1) TECHNOEXPORT, a. s., se sídlem v Praze 10, Třebohostická 3069/14, PSČ 100 31, identifikační číslo osoby 000 00 84, zastoupené Dr. JUDr. Miroslavem Zámiškou, advokátem Advokátní kanceláře Bakeš & partneři, se sídlem v Praze 1, Na Příkopě 23, a 2) STROJIMPORT, a.s., IČ: 000 00 795, se sídlem v Praze 3, U Nákladového nádraží 6, zastoupené JUDr. Miroslavou Otčenáškovou, advokátkou se sídlem v Praze 3, Velehradská 26, o určení vlastnictví, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 24 C 230/2009, o dovolání žalobkyně proti usnesení Městského soudu v Praze ze dne 31. srpna 2011, č.j. 12 Co 44/2011-159, takto:
+Dovolání se odmítá.
+S t r u č n é o d ů v o d n ě n í
+(§ 243c odst. 2 o. s. ř.):
+V záhlaví označeným usnesením potvrdil Městský soud v Praze (dále již „odvolací soud“) k odvolání žalobkyně usnesení Obvodního soudu pro Prahu 1 ze dne 10. listopadu 2010, č. j. 24 C 230/2009-130, jímž uvedený soud nepřipustil vstup společnosti Koruna Palace Assets, a. s., se sídlem v Praze 1, Václavské náměstí 846/1, identifikační číslo osoby 24720640, do řízení na straně žalované.
+Proti usnesení odvolacího soudu podala žalobkyně dovolání, jímž se (z důvodů v dovolání podrobně rozvedených) domáhá zrušení rozhodnutí obou soudů.
+Dovolání, jež je přípustné podle § 239 odst. 2 písm. b) o. s. ř., Nejvyšší soud České republiky (dále již „Nejvyšší soud“) odmítl podle § 243b odst. 1 o. s. ř. jako zjevně bezdůvodné.
+Nejvyšší soud tak učinil proto, že v procesní situaci, kdy sama žalobkyně ve svém podání ze dne 9. září 2010 (č.l. 122) uvedla, že „Nemovitosti, jichž se toto řízení týká... byly po podání žaloby...vloženy do základního kapitálu nástupnické společnosti Koruna Palace Assets, a. s....“, očividně nebyly splněny podmínky (jak správně zdůraznily soudy obou stupňů ve svých rozhodnutích) pro žalobkyní sledovaný postup podle § 92 odst. 1 o. s. ř. (přistoupení dalšího účastníka na stranu žalovanou). Jestliže pak žalobkyně v podaném dovolání setrvává na této své zjevně nesprávné právní konstrukci (k otázce okruhu účastníků srov. např. rozsudek Nejvyššího soudu ze dne 26. ledna 2010, sp. zn. 30 Cdo 3659/2008, in www.nsoud.cz), nelze jinak, než její dovolání považovat za zjevně bezdůvodné.
+Vzhledem k tomu, že tímto rozhodnutím dovolacího soudu se řízení o věci nekončí, bude rozhodnuto i o náhradě nákladů vzniklých v tomto dovolacím řízení v konečném rozhodnutí soudu prvního stupně, popřípadě soudu odvolacího (§ 243c odst. 1, § 151 odst. 1 část věty před středníkem o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 3. července 2012
+JUDr. Pavel Vrcha, v. r.
+předseda senátu
