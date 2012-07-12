@@ -1,0 +1,15 @@
+26 Nd 192/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně Doc. JUDr. Věry Korecké, CSc., a soudců JUDr. Pavlíny Brzobohaté a JUDr. Miroslava Feráka v exekuční věci oprávněného ANDRA AGENCY, s.r.o., se sídlem v Moutnici 319, identifikační číslo osoby 26974533, zastoupeného JUDr. Ludmilou Lejnarovou, advokátkou se sídlem v Praze 4, Na Dlouhé mezi 996/16, proti povinnému R. Ř., o nařízení exekuce, vedené u Okresního soudu Brno-venkov pod sp. zn. 19 EXE 425/2011, o návrhu na určení místní příslušnosti soudu, takto:
+Věc vedená u Okresního soudu Brno-venkov pod sp. zn. 19 EXE 425/2011, se přikazuje Okresnímu soudu Brno-venkov.
+O d ů v o d n ě n í :
+Exekutorka JUDr. Dagmar Kuželová podala dne 14. 2. 2011 Okresnímu soudu Brno - venkov žádost o pověření k provedení exekuce na majetek povinného pro vymožení pohledávky oprávněného ve výši 1.000,- Kč s příslušenstvím.
+Okresní soud Brno-venkov usnesením ze dne 20. 5. 2011, č. j. 19 EXE 425/2011-12, vyslovil svoji místní nepříslušnost a věc postoupil Městskému soudu v Brně, v jehož obvodu se nachází bydliště povinného, které označil v návrhu na nařízení exekuce oprávněný. S postoupením věci nesouhlasil Městský soud v Brně, neboť zjistil, že povinný se na adrese uváděné oprávněným (B., A.) nezdržuje. Krajský soud v Brně usnesením ze dne 12. 9. 2011, č. j. 20 Nc 939/2011-23, jeho nesouhlasu vyhověl.
+Okresní soud Brno-venkov po té usnesením ze dne 17. 5. 2012, č. j. 19 EXE 425/2011-30, vyslovil (opět), že není exekučním soudem a rozhodl, že po doručení usnesení oprávněnému bude věc předložena Nejvyššímu soudu k určení, který soud věc projedná a rozhodne. Dospěl k závěru, že bydliště povinného v době zahájení exekučního řízení nelze bez nepřiměřených nákladů a průtahů zjistit, povinný je hlášen k trvalému pobytu v L., N., což je adresa Úřadu městyse Lomnice.
+Podle ustanovení § 11 odst. 1 zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů (dále jen „o. s. ř.“), se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení.
+Podle ustanovení § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+V daném případě je dána pravomoc soudů České republiky, ale s ohledem na neznámé místo, kde se povinný zdržuje nebo kde má majetek, nelze zjistit podmínky pro určení místní příslušnosti exekučního soudu (§ 45 odst. 2 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti, ve znění pozdějších předpisů). Nejvyšší soud proto podle ustanovení § 11 odst. 3 o. s. ř., přihlížeje k zásadě hospodárnosti a k sídlu oprávněného, určil, že věc projedná a rozhodne Okresní soud Brno-venkov, u něhož bylo řízení zahájeno.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 12. července 2012
+Doc. JUDr. Věra Korecká, CSc., v. r.
+předsedkyně senátu
