@@ -1,0 +1,13 @@
+21 Cdo 4315/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Ljubomíra Drápala a soudců JUDr. Mojmíra Putny a JUDr. Jiřího Doležílka v právní věci žalobce B. V., proti žalované České republice - Ministerstvu školství, mládeže a tělovýchovy v Praze 1, Karmelitská č. 7, o 500.000,- Kč s příslušenstvím, o žalobě pro zmatečnost podané žalobcem proti usnesení Městského soudu v Praze ze dne 1. června 2007 č.j. 1 Nc 478/2007-12, vedené u Obvodního soudu pro Prahu 1 pod sp.zn. 20 C 120/2007, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 17. května 2011 č.j. 51 Co 180/2011-63, takto:
+I. Dovolání žalobce se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst.2 o.s.ř.):
+Dovolání žalobce proti usnesení Městského soudu v Praze ze dne 17.5.2011 č.j. 51 C 180/2011-63, jímž bylo potvrzeno usnesení Obvodního soudu pro Prahu 1 ze dne 14.3.2011 č.j. 20 C 120/2007-59, kterým bylo zastaveno řízení o žalobě pro zmatečnost pro nezaplacení soudního poplatku a kterým bylo rozhodnuto, že žádný z účastníků nemá právo na náhradu nákladů řízení, a jímž bylo rozhodnuto, že žádný z účastníků nemá právo na náhradu nákladů odvolacího řízení a že "soudkyně Obvodního soudu pro Prahu 1 Mgr. Kateřina Kozáková není vyloučena z projednávání a rozhodnutí této právní věci", není přípustné podle ustanovení § 238a odst.1 písm.b) a § 237 o.s.ř., neboť usnesením odvolacího soudu nebylo potvrzeno nebo změněno usnesení soudu prvního stupně, kterým by bylo rozhodnuto ve věci samé, a není přípustné ani podle ustanovení § 239 o.s.ř., neboť nejde o žádný z případů přípustného dovolání uvedených v tomto ustanovení; dovolání proti usnesení odvolacího soudu, kterým bylo potvrzeno usnesení soudu prvního stupně o zastavení řízení pro nezaplacení soudního poplatku, není přípustné (srov. právní názor vyjádřený v usnesení Nejvyššího soudu ze dne 28.3.2002 sp. zn. 29 Odo 205/2002, uveřejněném pod č. 102 v časopise Soudní judikatura, roč. 2002).
+Protože dovolání žalobce směřuje proti rozhodnutí odvolacího soudu, proti němuž není tento mimořádný opravný prostředek přípustný, Nejvyšší soud České republiky je proto podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o.s.ř. - aniž by se mohl věcí dále zabývat - odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 části věty před středníkem o.s.ř., neboť žalobce s ohledem na výsledek řízení nemá na náhradu svých nákladů právo a žalované v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 12. července 2012
+JUDr. Ljubomír Drápal
+předseda senátu
