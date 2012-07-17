@@ -1,0 +1,16 @@
+20 Cdo 1698/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Olgy Puškinové a soudců JUDr. Vladimíra Mikuška a JUDr. Zbyňka Poledny v exekuční věci oprávněné České pojišťovny a.s., se sídlem v Praze 1, Spálená 75/16, identifikační číslo osoby 452 72 956, zastoupené JUDr. Karlem Valdaufem, advokátem se sídlem v Praze 1, Královodvorská 16, proti povinnému L. Z., pro 1.690,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 5 pod sp. zn. 39 Nc 1260/2007, o dovolání povinného proti usnesení Městského soudu v Praze ze dne 17. října 2008, č. j. 29 Co 359/2008 - 10, takto:
+Dovolací řízení se zastavuje.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.):
+Obvodní soud pro Prahu 5 usnesením ze dne 17. 9. 2007, č. j. 39 Nc 1260/2007 - 2, nařídil podle vykonatelného rozhodčího nálezu ze dne 26. 2. 2007, č. j. P/2006/04074, vydaného rozhodcem JUDr. Petrem Medunou v sídle Společnosti pro rozhodčí řízení a.s., Sokolská tř. 60, Praha 2, exekuci k vymožení pohledávky oprávněné ve výši 1.690,- Kč se 7 % úrokem z prodlení od 2. 7. 2006 do zaplacení, pro náklady předcházejícího řízení ve výši 8.568,- Kč a dále pro náklady této exekuce a náklady oprávněné, které budou určeny v příkazu k úhradě nákladů exekuce, jejímž provedením pověřil soudního exekutora Mgr. Davida Koncze, Exekutorský úřad Cheb.
+Shora označeným usnesením Městský soud v Praze usnesení soudu prvního stupně potvrdil.
+Proti tomuto usnesení podal povinný dovolání, aniž byl při tomto úkonu zastoupen advokátem.
+Dovolací soud vzhledem k článku II., bodu 12. části první zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů a další související zákony, a s ohledem na skutečnost, že napadené rozhodnutí bylo vydáno dne 17. října 2008, o dovolání rozhodl podle občanského soudního řádu ve znění účinném do 30. 6. 2009.
+Pro podání dovolání, které je mimořádným opravným prostředkem, stanoví § 241 o. s. ř. požadavek, aby účastník řízení, jenž podává dovolání, měl buď sám právnické vzdělání, nebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc. Ustanovení § 241 o. s. ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejího splnění nelze o dovolání rozhodnout.
+Usnesením Obvodního soudu pro Prahu 5 ze dne 14. 1. 2010, č. j. 39 Nc 1260/2007 - 23, byl dovolatel vyzván, aby do 15-ti dnů od jeho doručení předložil plnou moc zvoleného advokáta a jím sepsané dovolání. Dovolatel požádal o ustanovení zástupce pro dovolací řízení, jeho žádost však byla usnesením Obvodního soudu pro Prahu 5 ze dne 23. 4. 2010, č. j. 39 Nc 1260/2007 - 36, zamítnuta. Toto usnesení nabylo právní moci dne 19. 5. 2010, lhůta pro odstranění nedostatku povinného zastoupení a k doplnění dovolání tak uplynula dnem 19. 7. 2010, avšak dovolatel nedostatek povinného zastoupení v dovolacím řízení neodstranil. Dovolací soud proto řízení podle § 243c odst. 1 a § 104 odst. 2 věty třetí o. s. ř. zastavil.
+O případných nákladech dovolacího řízení rozhodne soudní exekutor (§ 88 odst. 1 zákona č. 120/2001 Sb.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 17. července 2012
+JUDr. Olga Puškinová, v. r.
+předsedkyně senátu
