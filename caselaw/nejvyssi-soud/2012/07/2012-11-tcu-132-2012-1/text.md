@@ -1,0 +1,16 @@
+11 Tcu 132/2012-22
+U S N E S E N Í
+Nejvyšší soud České republiky projednal dne 25. července 2012 v neveřejném zasedání žádost Ministerstva spravedlnosti Rumunské republiky o povolení průvozu předávaného E. B. , občana Rumunské republiky, Sibiu, přes území České republiky ze Švédského království do Rumunské republiky, k výkonu trestu odnětí svobody v délce 1 (jednoho) roku a 1 (jednoho) měsíce, v souladu s ust. § 422 odst. 1 tr. řádu takto:
+I. Povoluje se průvoz předávaného E. B. , přes území České republiky, ze Švédského království do Rumunské republiky, k výkonu trestu odnětí svobody v délce 1 (jednoho) roku a 1 (jednoho) měsíce, který mu byl uložen odsuzujícím rozsudkem č. 7/2012 ze dne 14. 5. 2012, a který nabyl účinnosti rozhodnutím odvolacího soudu v Alba Iulia č. 645/2012, dne 14. 5. 2012.
+II. Po dobu průvozu bude předávaná osoba držena ve vazbě.
+O d ů v o d n ě n í :
+Ministerstvo spravedlnosti Rumunské republiky žádostí č. 71088/SM/2012 ze dne 23. 7. 2012 požádalo Nejvyšší soud ČR (v souladu s čl. 25 Rámcového rozhodnutí Rady Evropské unie ze dne 13. června 2002, o Evropském zatýkacím rozkazu a postupech při předávání mezi členskými státy) o povolení průvozu rumunského státního občana přes území České republiky. Průvoz se uskuteční v rámci předání jmenovaného ze Švédského království do Rumunska s plánovaným mezipřistáním v Praze dne 27. 7. 2012.
+Rumunská strana doložila svou žádost kopií Evropského zatýkacího rozkazu č. 1/2012 ze dne 12. 6. 2012, vydaného Obvodním soudem Agnita, na základě odsuzujícího rozsudku č. 7/2012 ze dne 14. 2. 2012, který vydal Okresní soud v Agnita ve věci sp. zn. 996/174/011.
+Z něho vyplývá, že jmenovaný byl na základě ustanovení čl. 85 odst. 1 vládního nařízení č. 195/2002 a čl. 320, 37 písm. b) rumunského Trestního řádu a čl. 39 odst. 4 rumunského Trestního zákona odsouzen za spáchání trestného činu řízení neregistrovaného vozidla na veřejných silnicích, za který byl odsouzen k trestu odnětí svobody v délce 11 měsíců. Současně byl podle čl. 86, odst. 1 nařízení vlády č. 195/2002 a čl. 320, 37 písm. b) rumunského Trestního řádu a čl. 39 odst. 4 rumunského Trestního zákona odsouzen za spáchání trestného činu řízení na veřejných silnicích bez řidičského oprávnění, za který byl odsouzen k trestu odnětí svobody v délce 1 rok a 1 měsíc. Následně mu byl podle čl. 33 písm. b) a čl. 34 rumunského Trestního zákona E. B. udělen úhrnný trest odnětí svobody v délce 1 (jeden) rok a 1 (jeden) měsíc.
+Výše uvedených trestných činů se předávaný E. B. se dopustil tím, že si zakoupil ojeté vozidlo značky Fiat 154 a dne 25. dubna 2011 toto vozidlo s dočasnou státní poznávací značkou (s platností uplynulou již k 12. únoru 2012) řídil bez řidičského oprávnění. Ve vozidle bylo několik dalších lidí.
+Na základě předložené žádosti rumunské strany i kopie doloženého Evropského zatýkacího rozkazu č. 1/2012 ze dne 12. 6. 2012, vydaného Obvodním soudem v Agnita, Nejvyšší soud konstatuje, že podmínky pro povolení průvozu, předpokládané ust. § 422 odst. 1 tr. řádu jsou splněny, a proto průvoz předávané osoby povolil.
+Po dobu průvozu bude předávaná osoba držena ve vazbě.
+Poučení : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 25. července 2012
+Předseda senátu:
+JUDr. Stanislav Rizman
