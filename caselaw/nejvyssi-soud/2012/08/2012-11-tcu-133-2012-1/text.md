@@ -1,0 +1,15 @@
+11 Tcu 133/2012-18
+U S N E S E N Í
+Nejvyšší soud České republiky projednal žádost Ministerstva spravedlnosti Rumunské republiky o povolení průvozu odsouzeného M. B. a rozhodl v neveřejném zasedání konaném dne 6. srpna 2012 podle § 423 odst. 1 tr. ř. a čl. 16 Úmluvy o předávání odsouzených osob (publikovaná pod č. 553/1992 Sb.) t a k t o :
+I. Povoluje se průvoz odsouzeného M. B. územím České republiky z Dánska do Rumunské republiky pro účely předání jmenovaného k výkonu trestu odnětí svobody uloženého mu rozsudkem Odvolacího soudu západního regionu, Dánské království, ze dne 15. 11. 2010.
+II. Po dobu průvozu bude předávaná osoba držena ve vazbě.
+O d ů v o d n ě n í :
+Ministerstvo spravedlnosti Rumunské republiky požádalo dne 26. 7. 2012, č. j. 72471/2012, na základě čl. 16 Úmluvy o předávání odsouzených osob ze dne 21. 3. 1983, publikované pod č. 553/1992 Sb. (dále jen „Úmluva“) o povolení průvozu státního občana Rumunské republiky M. B. územím České republiky.
+Průvoz se má uskutečnit v rámci předání jmenovaného z Dánska do Rumunska k výkonu nepodmíněného trestu odnětí svobody v trvání deseti let, který mu byl uložen rozsudkem Odvolacího soudu západního regionu, Dánské království, ze dne 15. 11. 2010, za trestné činy těžkého ublížení na zdraví, zvláště nebezpečného útoku, loupeže a krádeže podle čl. 246, čl. 245 odst. 1, čl. 288 odst. 2 a čl. 276 dánského trestního zákona.
+Shora uvedené trestné činnosti se odsouzený M. B. podle zjištění Odvolacího soudu západního regionu dopustil tím, že se v noci 2. 10. 2008 spolu s dalšími osobami vloupal do residence manželů N., které fyzicky napadl a následně se v jejich bytě dopustil loupeže. Poškozená osoba jménem K. K. N. v důsledku fyzického napadení zemřela. Dle stejného rozsudku se jmenovaný dále v letech 2007 – 2008 spolu s dalšími osobami dopustil vloupání do několika residencí na území Dánska, ze kterých odcizil různé předměty, zejména elektroniku, oděvy a šperky.
+Nejvyšší soud České republiky projednal shora uvedenou žádost Ministerstva spravedlnosti Rumunské republiky z hlediska splnění právních podmínek vyžadovaných jak vnitrostátní právní úpravou (§ 423 tr. ř.), tak i mezinárodní právní úpravou (čl. 16 Úmluvy). Zjistil, že v posuzovaném případě jde o předání k výkonu trestu odnětí svobody, jež byl odsouzenému uložen za čin, který vykazuje znaky trestného činu i podle právního řádu České republiky (trestný čin loupeže podle § 173 tr. zákoníku), přičemž předávaná osoba není státním občanem České republiky (čl. 16 Úmluvy).
+Jelikož nebyly zjištěny žádné právní překážky, které by bránily povolení průvozu odsouzeného M. B. územím České republiky pro účely předání k výkonu výše uvedeného nepodmíněného trestu odnětí svobody v Rumunsku, vyhověl Nejvyšší soud České republiky žádosti Ministerstva spravedlnosti Rumunské republiky. Zároveň rozhodl o nutném opatření omezujícím osobní svobodu předávané osoby v době průvozu územím České republiky.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 6. srpna 2012
+Předseda senátu:
+JUDr. Karel Hasch
