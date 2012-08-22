@@ -1,0 +1,18 @@
+26 Cdo 1382/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Feráka a soudkyň Doc. JUDr. Věry Korecké, CSc., a JUDr. Pavlíny Brzobohaté ve věci žalobce JUDr. L. C., zastoupeného JUDr. Věrou Chandryckou, advokátkou se sídlem v Praze 2 – Vinohradech, Slezská 11, proti žalovanému J. P., zastoupenému Mgr. JUDr. Jaroslavem Grincem, Ph.D., advokátem se sídlem v Praze 2, Mikovcova 10/476, o vyklizení bytu a garáže a o zaplacení částky 22.824,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 5 pod sp. zn. 16 C 274/2010, o dovolání žalovaného proti usnesení Městského soudu v Praze ze dne 9. prosince 2011, č. j. 21 Co 563/2011-54, takto:
+I. Dovolání se odmítá.
+II. Žalovaný je povinen zaplatit žalobci na náhradě nákladů dovolacího řízení částku 840,- Kč k rukám JUDr. Věry Chandrycké, advokátky se sídlem v Praze 2 – Vinohradech, Slezská 11, do tří dnů od právní moci tohoto usnesení.
+Odůvodnění:
+K odvolání žalovaného Městský soud v Praze jako soud odvolací usnesením ze dne 9. prosince 2011, č. j. 21 Co 563/2011-54, potvrdil usnesení ze dne 31. srpna 2011, č. j. 16 C 274/2010-46, jímž Obvodní soud pro Prahu 5 (soud prvního stupně) zamítl návrh žalovaného na určení neúčinnosti doručení předvolání k jednání ve věci sp. zn. 16 C 274/2010, které mu bylo doručeno náhradně dne 23. října 2010.
+Proti usnesení odvolacího soudu podal žalovaný dovolání, k němuž se žalobce prostřednictvím své zástupkyně písemně vyjádřil.
+Dovolání není přípustné.
+Podle § 236 odst. 1 zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů (dále jen „o.s.ř.“), lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+V projednávané věci není dovolání přípustné podle § 237 odst. 1 o.s.ř., neboť zde nejde o rozhodnutí ve věci samé (k pojmu „věc sama“ srov. též usnesení Nejvyššího soudu uveřejněné pod číslem 61/1998 Sbírky soudních rozhodnutí a stanovisek, příp. ze dne 28. srpna 1997, sp. zn. 2 Cdon 484/97, uveřejněné pod č. 88 v sešitě č. 11 z roku 1997 časopisu Soudní judikatura). Přípustnost dovolání nelze dovodit ani z ustanovení § 238, § 238a a § 239 o.s.ř., neboť v jejich taxativních výčtech není vyjmenováno usnesení, kterým odvolací soud rozhodl o odvolání proti usnesení, jímž byl zamítnut návrh žalovaného na určení neúčinnosti doručení předvolání k jednání.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) proto bez jednání (§ 243a odst. 1 věta první o.s.ř.) dovolání podle § 243b odst. 5 věty první a § 218 písm. c/ o.s.ř. odmítl pro nepřípustnost.
+O náhradě nákladů dovolacího řízení dovolací soud rozhodl podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o.s.ř. a zavázal dovolatele, který zavinil, že jeho dovolání bylo odmítnuto, k náhradě nákladů dovolacího řízení vzniklých žalobci v souvislosti s podáním vyjádření k dovolání prostřednictvím advokátky. Tyto náklady sestávají z odměny advokátky v částce 400,- Kč (§ 2 odst. 1, § 15 ve spojení s § 14 odst. 1 a 3 a § 18 odst. 1 vyhlášky č. 484/2000 Sb., ve znění před novelou provedenou vyhláškou č. 64/2012 Sb.), z paušální částky náhrad hotových výdajů ve výši 300,- Kč, jež stojí vedle odměny (srov. § 2 odst. 1, § 13 odst. 1 a 3 vyhlášky č. 177/1996 Sb., ve znění pozdějších předpisů), a z částky 140,- Kč představující 20 % DPH (§ 137 odst. 3 o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+Nesplní-li povinný dobrovolně, co mu ukládá vykonatelné rozhodnutí, může oprávněný podat návrh na soudní výkon rozhodnutí.
+V Brně dne 22. srpna 2012
+JUDr. Miroslav Ferák, v. r.
+předseda senátu
