@@ -1,0 +1,18 @@
+23 Cdo 1307/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Horáka, Ph.D. a soudců JUDr. Zdeňka Dese a JUDr. Kateřiny Hornochové ve věci žalobkyně Kubín TRANSPORT s.r.o., se sídlem v Šumperku, Zábřežská 658/73, PSČ 787 01, identifikační číslo osoby 27766098, proti žalované HÁTLE MIROSLAV s.r.o., se sídlem v Holíně 123, Jičín, PSČ 506 01, identifikační číslo osoby 25997483, o zaplacení částky 126.839,90 Kč s příslušenstvím, vedené u Krajského soudu v Hradci Králové pod sp. zn. 43 Cm 45/2008, o odvolání žalobkyně proti usnesení Nejvyššího soudu České republiky ze dne 20. prosince 2011, č. j. 23 Cdo 4117/2011-192, takto:
+I. Řízení o odvolání žalobkyně proti usnesení Nejvyššího soudu České republiky ze dne 20. prosince 2011, č. j. 23 Cdo 4117/2011-192, se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů řízení.
+O d ů v o d n ě n í :
+Nejvyšší soud České republiky (dále jen „Nejvyšší soud“) usnesením ze dne 20. prosince 2011, č. j. 23 Cdo 4117/2011-192, odmítl dovolání žalobkyně proti rozsudku Vrchního soudu v Praze ze dne 8. června 2011, č. j. 12 Cmo 13/2011-156.
+Uvedené usnesení Nejvyššího soudu napadla žalobkyně nejasným podáním ze dne 10. února 2012, označeným jako „Odvolání k Nejvyššímu soudu České republiky č. j. 23 Cdo 4117/2011-192“. Na tom, že její podání má být posuzováno jako odvolaní proti výše citovanému rozhodnutí Nejvyššího soudu, žalobkyně setrvala i přes poučení, jehož se jí dostalo v písemném vyhotovení usnesení Krajského soudu v Hradci Králové ze dne 2. dubna 2012, č. j. 43 Cm 45/2008-207.
+Nejvyšší soud po přezkoumání věci dospěl k závěru, že řízení o podání žalobkyně ze dne 10. února 2012 musí být pro neodstranitelný nedostatek podmínek řízení zastaveno.
+Podle ustanovení § 201 zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů (dále jen „o. s. ř.“), účastník může napadnout rozhodnutí okresního soudu nebo rozhodnutí krajského soudu vydané v řízení v prvním stupni odvoláním, pokud to zákon nevylučuje. Krajské soudy rozhodují o odvoláních proti rozhodnutím okresních soudů; o odvoláních proti rozhodnutím krajských soudů jako soudů prvního stupně rozhoduje vrchní soud (§ 10 o. s. ř.).
+Nejvyšší soud rozhoduje v občanském soudním řízení o mimořádném opravném prostředku - dovolání - proti pravomocnému rozhodnutí odvolacího soudu (srov. § 10a, § 236 odst. 1 o. s. ř.).
+Funkční příslušnost soudu pro projednání odvolání proti rozhodnutí Nejvyššího soudu jako soudu dovolacího občanský soudní řád neupravuje; nedostatek funkční příslušnosti je přitom neodstranitelným nedostatkem podmínky řízení, jehož důsledkem je vždy zastavení řízení (srov. § 104 odst. 1 věta první o. s. ř.). Řízení o odvolání proti rozhodnutí dovolacího soudu zastaví Nejvyšší soud jako vrcholný článek soustavy obecných soudů (srov. např. usnesení Nejvyššího soudu ze dne 31. května 2001, sp. zn. 20 Cdo 1535/99, uveřejněné v časopise Soudní judikatura pod číslem 85, ročník 2001, nebo usnesení Nejvyššího soudu ze dne 27. června 2002, sp. zn. 29 Odo 433/2002, uveřejněné v časopise Soudní judikatura pod číslem 139, ročník 2002).
+Protože zde není - jak výše uvedeno - soudu, který by byl funkčně příslušný k rozhodnutí o odvolání žalobkyně proti usnesení Nejvyššího soudu ze dne 20. prosince 2011, č. j. 23 Cdo 4117/2011-192, Nejvyšší soud řízení o tomto podání žalobkyně zastavil (§ 243c odst. 1, § 104 odst. 1 věta první o. s. ř.).
+O náhradě nákladů řízení bylo rozhodnuto podle ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 1 písm. c) o. s. ř., neboť účastníkům žádné náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 28. srpna 2012
+JUDr. Pavel Horák, Ph.D.
+předseda senátu
