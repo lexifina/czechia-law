@@ -1,0 +1,21 @@
+20 Nd 90/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Vladimíra Mikuška a soudců JUDr. Olgy Puškinové a JUDr. Zbyňka Poledny ve věci žalobce D. K., proti žalovaným: 1) Statutárnímu městu Frýdek – Místek, Radniční 1148, identifikační číslo osoby 00296643, 2) JUDr. R. G., Okresní soud ve Frýdku – Místku, Frýdek – Místek, Na Poříčí 3206, 3) Všeobecné zdravotní pojišťovně České republiky, Krajská pobočka pro Moravskoslezský kraj, Územní pracoviště Frýdek - Místek, na Poříčí 3208, identifikační číslo osoby 41197518, v exekučních věcech vedených u Okresního soudu ve Frýdku - Místku pod sp. zn. 26 E 65/2003 a 34 E 1098/2008, o „žalobě pro opakované zneužití pravomoci veřejného činitele“, takto:
+I. K projednání a rozhodnutí této věci jsou příslušné okresní soudy.
+II. Po právní moci tohoto usnesení bude věc postoupena k dalšímu řízení Okresnímu soudu ve Frýdku - Místku.
+O d ů v o d n ě n í :
+Žalobce se podáním označeným jako „žaloba pro zneužití pravomoci veřejného činitele“ ze 17. 11. 2008 u Krajského soudu v Ostravě domáhal:
+1. „zrušení usnesení Okresního soudu ve Frýdku – Místku z 22. 10. 2003, č. j. 26E 65/2003-6a, a 34E 1098/2008-3“ (v uvedených vykonávacích řízeních je povinným žalobcův bratr J. K.),
+2. „finančního vyrovnání ve výši 2 x 400.000,- Kč“
+3. „výmazu dluhu, který je uveden v Katastru nemovitostí, na nemovitost v Polní ul. č. p. 540 ve Frýdku – Místku“.
+Ve věci vedené pod sp. zn. 14C 5/2009, v níž Okresní soud v Frýdku-Místku rozhodoval o výše uvedeném podání ze 17. 11. 2008, měl Krajský soud v Ostravě zato, že není věcně příslušný k projednání a rozhodnutí ve věci, neboť nešlo o žádnou z věcných příslušností krajského soudu jako soudu I. stupně uvedenou ustanovení § 9 odst. 2 a 3 zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů (dále jen „o. s. ř.“), proto věc předložil Vrchnímu soudu v Olomouci k rozhodnutí, který soud je věcně příslušný věc projednat a rozhodnout jako soud I. stupně (viz č. l. 6 ve spise vedeném pod sp. zn. 14 C 5/2009 u Okresního soudu ve Frýdku – Místku).
+Vrchní soud v Olomouci usnesením z 29. 1. 2009, č. j. Ncp 23/2009-11, rozhodl, že věc bude postoupena k dalšímu řízení Okresnímu soudu ve Frýdku – Místku.
+Usnesením z 13. 5. 2009, č. j. 14C 5/2009-16, Okresní soud ve Frýdku – Místku podání (žalobu „pro zneužití pravomoci veřejného činitele“ ze 17. 11. 2008) podle § 43 odst. 2 o. s. ř. odmítl.
+Žalobce dne 26. 3. 2012 Nejvyššímu soudu doručil podání (téměř identické s podáním ze 17. 11. 2008) označené jako „Žaloba pro opakované zneužití pravomoci veřejného činitele proti zdravotně poškozenému, postiženému a hluchému J. K. Žaloba ve věci poškození cizího majetku – rodinný dům, Frýdek – Místek,“ v němž mimo jiné uvedl, že pro podjatost Okresního soudu ve Frýdku – Místku a odvolacího soudu v Ostravě žádá o jednání v Brně.
+Každé podání nebo jiný úkon účastníka soud posuzuje ve smyslu ustanovení § 41 odst. 2 o. s. ř. podle jeho obsahu. Z žalobcova podání z 23. 3. 2012, adresovaného Nejvyššímu soudu, plyne, že podle jeho obsahu nejde o dovolání jakožto mimořádný opravný prostředek proti rozhodnutí odvolacího soudu (§ 10a o. s. ř.); i když podání nemá všechny potřebné náležitosti předepsané ustanovením § 42 odst. 4 o. s. ř., je z jeho obsahu nepochybné, že jde o žalobu podle ustanovení § 79 odst. 1 o. s. ř.
+Podle § 104a odst. 4 o. s. ř. bylo-li řízení zahájeno u Nejvyššího soudu nebo byla-li věc Nejvyššímu soudu předložena vrchním soudem, Nejvyšší soud rozhodne, které soudy jsou k projednání a rozhodnutí věci příslušné v prvním stupni, není-li sám věcně příslušný.
+K projednání a rozhodnutí o výše uvedené žalobě z 23. 3. 2012 jsou věcně příslušné okresní soudy (§ 9 odst. 1 o. s. ř.). Nejvyšší soud České republiky proto ve smyslu ustanovení § 104a odst. 4 o. s. ř. rozhodl o věcné příslušnosti okresních soudů. Po právní moci usnesení bude věc postoupena Okresnímu soudu ve Frýdku-Místku (§ 104a odst. 6 o. s. ř.), neboť z obsahu spisu je zřejmé, že tento soud je obecným soudem žalovaných (§ 84 o. s. ř.). V dalším řízení bude třeba odstranit vady podání žalobce.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 28. srpna 2012
+JUDr. Vladimír Mikušek
+předseda senátu
