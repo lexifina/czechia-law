@@ -1,0 +1,17 @@
+29 Cdo 1591/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Filipa Cilečka a soudců doc. JUDr. Ivany Štenglové a JUDr. Petra Šuka v právní věci navrhovatele R. Ř., zastoupeného Mgr. Lucií Benešovou, advokátkou, se sídlem v Praze 1, Palackého 15/715, PSČ 110 00, za účasti společnosti GENESIS – SOEX CZ s. r. o., se sídlem v Praze 5 – Barandově, Borského 989/1, PSČ 152 00, identifikační číslo osoby 26913844, o vyslovení neplatnosti usnesení valné hromady, vedené u Městského soudu v Praze pod sp. zn. 75 Cm 78/2009, 75 Cm 84/2009, o dovolání společnosti proti usnesení Vrchního soudu v Praze ze dne 24. ledna 2011, č. j. 14 Cmo 555/20009-80, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Vrchní soud v Praze usnesením ze dne 24. ledna 2011, č. j. 14 Cmo 555/2009-80, zamítl návrh na vyslovení neplatnosti usnesení valné hromady společnosti GENESIS – SOEX CZ s. r. o. (dále jen „společnost“) konané dne 7. dubna 2009 a vyslovil neplatnost usnesení valné hromady společnosti konané dne 4. května 2009.
+Proti usnesení odvolacího soudu podala společnost dovolání, domáhajíc se jeho zrušení a vrácení věci odvolacímu soudu k dalšímu řízení.
+Zkoumaje podmínky řízení (viz § 103 zákona č. 99/1963 Sb., občanského soudního řádu; dále jen „o. s. ř.“), Nejvyšší soud z obchodního rejstříku, vedeného Městským soudem v Praze, oddílu C, vložky 105059, zjistil, že usnesením Městského soudu v Praze ze dne 5. dubna 2012, č. j. MSPH 79 INS 5062/2009-B-4180 K 75/99 – 267, které nabylo právní moci dne 27. dubna 2012, byl zrušen konkurs na majetek společnosti z důvodu, že pro uspokojení věřitelů je majetek dlužníka zcela nepostačující (§ 308 odst. 1 písm. d/ zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení /insolvenčního zákona/).
+Následně ke dni 18. srpna 2012 byla společnost vymazána z obchodního rejstříku bez právního nástupce (§ 68 odst. 1 a 3 písm. f/ zákona č. 513/1991 Sb., obchodního zákoníku /dále jen „obch. zák.“/, a § 312 odst. 3 insolvenčního zákona).
+Z ustanovení § 107 o. s. ř. vyplývá, že ztratí-li účastník po zahájení řízení způsobilost být účastníkem řízení dříve, než bylo řízení pravomocně skončeno, posoudí soud podle povahy věci, zda v řízení může pokračovat. Není-li možné v řízení ihned pokračovat, soud řízení přeruší. O tom, s kým bude v řízení pokračováno, soud rozhodne usnesením (odstavec 1). Ztratí-li způsobilost být účastníkem řízení právnická osoba a umožňuje-li povaha věci pokračovat v řízení, jsou jejím procesním nástupcem, nestanoví-li zákon jinak, ti, kteří po zániku právnické osoby vstoupili do jejích práv a povinností, popřípadě ti, kteří po zániku právnické osoby převzali práva a povinnosti, o něž v řízení jde (odstavec 3). Neumožňuje-li povaha věci v řízení pokračovat, soud řízení zastaví (odstavec 5 věta první).
+Protože společnost výmazem z obchodního rejstříku ztratila způsobilost mít práva a povinnosti (§ 68 odst. 1 věta první obch. zák.) a rovněž způsobilost být účastníkem řízení (§ 19 o. s. ř.) a není zde právního nástupce, Nejvyšší soud dovolací řízení podle ustanovení § 243c odst. 1 a § 107 o. s. ř. zastavil.
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 1 písm. c/ o. s. ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 18. září 2012
+JUDr. Filip C i l e č e k
+předseda senátu
