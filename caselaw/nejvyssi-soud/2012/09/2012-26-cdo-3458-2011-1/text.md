@@ -1,0 +1,21 @@
+26 Cdo 3458/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně Doc. JUDr. Věry Korecké, CSc., a soudců JUDr. Miroslava Feráka a JUDr. Pavlíny Brzobohaté ve věci žalobkyně K. F., bytem O., proti žalovanému M. Ř., bytem O., o vyklizení rodinného domu, vedené u Okresního soudu v Ostravě pod sp. zn. 60 C 325/2008, o dovolání žalovaného proti rozsudku Krajského soudu v Ostravě ze dne 12. ledna 2010, č. j. 11 Co 716/2009-77, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Krajský soud v Ostravě (soud odvolací) rozsudkem ze dne 12. 1. 2010, č. j. 11 Co 716/2009-77, potvrdil rozsudek ze dne 30. 6. 2009, č. j. 60 C 325/2008-53, kterým Okresní soud v Ostravě (soud prvního stupně) uložil žalovanému vyklidit do 30 dnů od právní moci rozsudku dům v O. a rozhodl o nákladech řízení; dále odvolací soud rozhodl o nákladech odvolacího řízení.
+Proti rozsudku odvolacího soudu podal žalovaný (nezastoupen advokátem) blanketní dovolání, v němž uvedl, že jej „řádně doplní ve lhůtě 14 dnů a v téže lhůtě si zvolí právního zástupce, aby splnil zákonné předpoklady pro podání mimořádného opravného prostředku“.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) shledal, že dovolání bylo podáno včas, osobou k tomu oprávněnou – účastníkem řízení (§ 240 odst. 1 o. s. ř.), že však nejsou dány podmínky pro jeho věcné projednání.
+Z ustanovení § 241 odst. 1, 2 písm. a), odst. 4 o. s. ř. plyne, že dovolatel (fyzická osoba), nemá-li právnické vzdělání, musí být zastoupen advokátem (příp. notářem), jenž musí dovolání také sepsat.
+Povinné zastoupení je zvláštní podmínkou dovolacího řízení týkající se dovolatele, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění není možno o dovolání věcně rozhodnout. Podle § 104 odst. 2 věty první a třetí o. s. ř. jde-li o nedostatek podmínky řízení, který lze odstranit, učiní k tomu soud vhodná opatření. Nezdaří-li se nedostatek podmínky řízení odstranit, řízení zastaví.
+Jestliže si dovolatel zvolí advokáta (popř. jestliže je mu advokát ustanoven soudem) až poté, co sám podal dovolání, je nezbytné ke splnění požadavku povinného advokátního zastoupení, aby advokát již učiněné podání nahradil nebo doplnil vlastním podáním či se s původním podáním alespoň písemně nebo ústně do protokolu ztotožnil (srov. usnesení Nejvyššího soudu z 27. 5. 1999, sp. zn. 26 Cdo 1121/99, uveřejněné pod číslem 64 v časopise Soudní judikatura 6/2000). Pokud se tak nestane, podmínka povinného advokátního zastoupení není splněna.
+Vzhledem k tomu, že dovolatel, který je fyzickou osobou, nebyl zastoupen advokátem a z obsahu spisu nevyplývalo, že by sám měl právnické vzdělání, byl usnesením ze dne 4. 6. 2010, č. j. 60 C 325/2008-90, soudem prvního stupně vyzván, aby si ve lhůtě 30 dnů od jeho doručení zvolil zástupce z řad advokátů a jeho prostřednictvím podal řádné dovolání; současně byl poučen, že nevyhoví-li této výzvě, bude dovolací řízení zastaveno. Označené usnesení s výzvou bylo žalovanému doručeno dne 14. 6. 2010, v této lhůtě však výzvě nevyhověl.
+Vzhledem k tomu, že vady dovolání se mj. týkaly rozsahu a důvodů dovolání, bylo v daném případě nutné vady odstranit ve stanovené lhůtě (§ 241b odst. 3, 2. věty o. s. ř.). Tato lhůta je lhůtou zákonnou a soud ji nemůže ani na žádost dovolatele prodloužit. Jejím marným uplynutím se původně odstranitelné vady dovolání stávají vadami neodstranitelnými; dovolací soud tak nemůže k opožděnému doplnění dovolání přihlížet z úřední povinnosti.
+Z obsahu spisu vyplývá, že právní zástupce žalovaného doplnil dovolání až podáním ze dne 18. 8. 2010, tedy po uplynutí lhůty stanovené v § 241b odst. 3 o. s. ř. a tím nebyla splněna podmínka povinného zastoupení advokátem v dovolacím řízení.
+Nejvyšší soud proto dovolací řízení pro nedostatek uvedené podmínky řízení podle § 243c odst. 1 a § 104 odst. 2 věty druhé o. s. ř. zastavil.
+Výrok o nákladech řízení se opírá o ustanovení § 243b odst. 5 věty první, § 224 odst. 1, § 146 odst. 2 věty první o. s. ř. a o skutečnost, že žalobkyni nevznikly (podle obsahu spisu) v dovolacím řízení náklady, na jejichž náhradu by jinak měla proti dovolateli právo.
+Proti tomuto usnesení není přípustný opravný prostředek
+V Brně dne 19. září 2012
+Doc. JUDr. Věra Korecká, CS.
+předsedkyně senátu
