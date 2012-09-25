@@ -1,0 +1,18 @@
+30 Nd 282/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Ištvánka a soudců JUDr. Pavla Pavlíka a JUDr. Pavla Simona, ve věci žalobce Ing. T. P., proti žalované CARNOVA s. r. o., se sídlem v Brně, Hněvkovského 603/81, zastoupené JUDr. Rudolfem Skoupým, advokátem se sídlem ve Svitavách, Soudní 1, o zaplacení částky 459.500,- Kč s přísl. a náhrady škody ve výši 10.750,- Kč, vedené u Městského soudu v Brně pod sp. zn. 32 C 36/2012, o návrhu žalované na přikázání věci z důvodu vhodnosti, takto:
+Věc vedená u Městského soudu v Brně pod sp. zn. 32 C 36/2012 se nepřikazuje z důvodu vhodnosti Okresnímu soudu ve Svitavách.
+O d ů v o d n ě n í:
+Městský soud v Brně předložil podle ustanovení § 12 odst. 3 o. s. ř. Nejvyššímu soudu návrh žalované, aby věc – řízení o zaplacení peněžité částky, která je u tohoto soudu vedena pod sp. zn. 32 C 36/2012, byla přikázána Okresnímu soudu ve Svitavách.
+Žalovaná návrh odůvodnila tím, že v obvodu Okresního soudu ve Svitavách se nachází provozovna žalované, která je s předmětem sporu nejblíže spjata, neboť prostřednictvím této provozovny došlo k prodeji předmětného vozidla. Též možní svědkové mají bydliště v obvodu Okresního soudu ve Svitavách.
+Návrh žalované byl zaslán žalobci k vyjádření. Žalobce ve vyjádření uvedl, že s postoupením věci Okresnímu soudu ve Svitavách nesouhlasí, a že žalovaná žádné relevantní tvrzení nebo důkazy o vhodnosti řízení u Okresního soudu ve Svitavách nepředložila. Postoupení věci Okresnímu soudu ve Svitavách by mohlo vytvořit nerovné postavení účastníků řízení nebo prostor pro případnou zaujatost soudu z důvodu možného vlivu ať už samotné žalované nebo jejího právního zástupce.
+Nejvyšší soud jako soud nejblíže společně nadřízený příslušnému soudu (Městský soud v Brně) a soudu, jemuž má být věc přikázána (Okresní soud ve Svitavách), přezkoumal podaný návrh a shledal, že v posuzovaném případě nejsou splněny zákonné podmínky na přikázání věci.
+Podle § 12 odst. 2 o. s. ř. může být jinému soudu téhož stupně věc přikázána z důvodu vhodnosti.
+Tyto důvody vhodnosti musí být takové povahy, aby z nich jednoznačně plynulo, že jiným než příslušným soudem bude věc projednána rychleji a hospodárněji. Při posuzování podmínek delegace věci a podmínek vhodnosti má pak zásadní význam i stanovisko účastníků řízení. Nelze rovněž nezdůraznit, že postup podle § 12 odst. 2 o. s. ř. je výjimkou ze zásady, že řízení koná soud, jehož příslušnost je určena zákonem a kterou je právě proto, že jde o výjimku, nutno vykládat restriktivně.
+Z tohoto důvodu se musí skutečnosti, které jsou podkladem pro delegaci, vyznačovat určitou mimořádností. Okolnost uváděná žalovanou, tj. že se v místě Okresního soudu ve Svitavách nachází provozovna, ve které došlo k prodeji předmětného vozidla, není natolik výjimečnou skutečností, která by sama o sobě mohla prolomit jeden ze stěžejních právních principů – právo na projednání věci zákonným soudcem. Případnou nezbytnou osobní účast svědků při určitém úkonu (účastnické výpovědi apod.) je možno řešit dožádáním podle § 39 o. s. ř. (srov. usnesení Nejvyššího soudu ze dne 30. 1. 2008, sp. zn. 29 Nd 312/2007, uveřejněné v Souboru rozhodnutí Nejvyššího soudu pod C 5918). V uváděné okolnosti proto nelze bez dalšího spatřovat důvod k přikázání věci.
+Dále je též nutno přihlédnout k tomu, že žalobce s návrhem na přikázání věci nesouhlasil.
+Nejvyšší soud z uvedených důvodů návrhu žalované nevyhověl a předmětnou věc Okresnímu soudu ve Svitavách ve smyslu § 12 odst. 2 o. s. ř. nepřikázal.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 25. září 2012
+JUDr. František I š t v á n e k, v. r.
+předseda senátu
