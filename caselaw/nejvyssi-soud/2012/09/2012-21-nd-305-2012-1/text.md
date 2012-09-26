@@ -1,0 +1,17 @@
+21 Nd 305/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Ljubomíra Drápala a soudců JUDr. Mojmíra Putny a JUDr. Jiřího Doležílka v právní věci žalobkyně J. Č., proti žalované HANZELLI, a.s. se sídlem v Praze 8, Kandertova č. 1885/1, IČO 25078119, zastoupené JUDr. Jindřichem Vítkem, Ph.D., advokátem se sídlem v Praze 2, Nad Petruskou č. 1, o určení spoluvlastnictví k nemovitostem, vedené u Okresního soudu v Blansku pod sp. zn. 11 C 92/2012, o přikázání věci z důvodu vhodnosti, takto:
+Věc, vedená u Okresního soudu v Blansku pod sp. zn. 11 C 92/2012, se nepřikazuje Okresnímu soudu Praha - východ.
+Odůvodnění:
+Žalobkyně se žalobou podanou u Okresního soudu Praha - východ domáhala určení, že je spoluvlastnicí nemovitostí nacházejících se v několika katastrálních územích, které jsou v obvodu více krajských soudů v ČR. Uvedla, že zvolila z důvodu vhodnosti Okresní soud Praha - východ, v jehož obvodu se nachází část nemovitostí, má zde sídlo žalovaná a bydliště žalobkyně.
+Okresní soud Praha - východ - poté, co vyloučil řízení ve věci určení spoluvlastnictví k nemovitostem nacházejícím se v k. ú. Blansko, k. ú. Kunštát na Moravě a k. ú. Brumov u Lomnice k samostatnému řízení - usnesením ze dne 31.5.2012 č. j. 7 C 134/2012-19 vyslovil ve věci místní nepříslušnost s tím, že věc bude po právní moci usnesení postoupena Okresnímu soudu v Blansku, který je ve věci místně příslušný podle ustanovení § 88 písm. i) o. s. ř.
+Žalobkyně poté uvedla, že trvá na svém návrhu na přikázání věci Okresnímu soudu Praha - východ z důvodu vhodnosti, který učinila již v žalobě.
+Žalovaná s přikázáním věci z důvodu vhodnosti Okresnímu soudu Praha - východ nesouhlasila. Uvedla, že věcně i místně příslušným podle § 9 odst. 1 a § 88 písm. i) o. s. ř. je Okresní soud v Blansku a že projednání věci u Okresního soudu Praha - východ by nebylo v zájmu hospodárnosti řízení a neznamenalo by rychlejší a po skutkové stránce spolehlivější a důkladnější posouzení věci.
+Podle ustanovení § 12 odst. 2 o. s. ř. věc může být přikázána jinému soudu téhož stupně z důvodu vhodnosti.
+Důvod vhodnosti pro přikázání věci jinému soudu téhož stupně ve smyslu ustanovení § 12 odst. 2 o. s. ř. představují takové okolnosti, které umožní hospodárnější, rychlejší nebo zejména po skutkové stránce spolehlivější a důkladnější projednání věci jiným než příslušným soudem. Současně je třeba přihlížet k tomu, že místní příslušnost soudu, který má podle zákona věc projednat, je základní zásadou, a že případné přikázání věci jinému soudu představuje výjimku z této zásady, kterou je nutno - právě proto, že jde o výjimku - vykládat restriktivně.
+V posuzovaném případě se řízení týká práva k nemovitostem. Místně příslušným k projednání a rozhodnutí této věci proto není obecný soud žalované, ale soud, v jehož obvodu jsou nemovitosti, k nimž má být podle žaloby určeno spoluvlastnictví žalobkyně [srov. § 88 písm. i) o. s. ř.]; tímto soudem je Okresní soud v Blansku. Přikázáním věci Okresnímu soudu Praha - východ, v jehož obvodu má žalovaná sídlo a žalobkyně bydliště a s nímž žalovaná nesouhlasí, nemůže být dosaženo hospodárnější, rychlejší a ani po skutkové stránce spolehlivější a důkladnější projednání věci.
+Nejvyšší soud České republiky proto návrhu na přikázání věci Okresnímu soudu Praha - východ podle ustanovení § 12 odst. 2 o. s. ř. nevyhověl.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. září 2012
+JUDr. Ljubomír Drápal, v. r.
+předseda senátu
