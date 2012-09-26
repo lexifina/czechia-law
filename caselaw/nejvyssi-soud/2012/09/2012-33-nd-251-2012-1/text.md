@@ -1,0 +1,16 @@
+33 Nd 251/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivany Zlatohlávkové a soudců JUDr. Pavla Krbka a JUDr. Václava Dudy ve věci žalobkyně K. L., proti žalovanému J. L., o zvýšení výživného, vedené u Okresního soudu v Břeclavi pod sp. zn. 7 C 330/2008, o přikázání věci z důvodu vhodnosti, t a k t o:
+Věc vedená u Okresního soudu v Břeclavi sp. zn. 7 C 330/2008 se přikazuje k projednání a rozhodnutí Okresnímu soudu v Sokolově.
+O d ů v o d n ě n í :
+Okresní soud v Břeclavi předložil dne 23. 7. 2012 Nejvyššímu soudu České republiky (dále jen „Nejvyšší soud“) předmětný spis s podnětem na přikázání této věci Okresnímu soudu v Sokolově z důvodu vhodnosti (§ 12 odst. 2 o. s. ř.). Důvody pro navrhovaný postup spatřuje v tom, že oba účastníci řízení mají v obvodu Okresního soudu v Sokolově bydliště, takže řízení zde by bylo hospodárnější.
+Účastníci řízení se k návrhu soudu na delegaci věci nevyjádřili, přestože byli poučeni, že pokud zůstanou nečinní, bude se ve smyslu § 101 odst. 4 o. s. ř. předpokládat, že nemají námitky.
+Nejvyšší soud České republiky jako soud nejblíže společně nadřízený příslušnému soudu, tj. Okresnímu soudu v Břeclavi a Okresnímu soudu v Sokolově, jemuž má být věc přikázána, dospěl k závěru, že v posuzovaném případě jsou splněny podmínky k přikázání věci jinému soudu z důvodu vhodnosti podle § 12 odst. 2 o. s. ř.
+Podle § 12 odst. 2 o. s. ř. může být věc přikázána jinému soudu z důvodu vhodnosti. Podle § 12 odst. 3 věty druhé o. s. ř. mají účastníci právo se vyjádřit, kterému soudu má být věc přikázána a v případě druhého odstavce citovaného ustanovení též k důvodu, pro který by měla být přikázána.
+Důvody vhodnosti podle citovaného ustanovení mohou být různé v závislosti na předmětu řízení, postavení účastníků i jiných okolnostech. Jde zejména o skutečnosti, z nichž lze dovodit, že jiným než příslušným soudem bude věc projednána rychleji a hospodárněji. K přikázání věci jinému než příslušnému soudu by však mělo docházet jen mimořádně ze závažných důvodů, neboť je uplatňováno jako výjimka z ústavně zaručené zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon (čl. 38 Listiny základních práv a svobod publikované pod č. 2/1993 Sb., ve znění ústavního zákona č. 162/1998 Sb.). Důvody pro odnětí věci příslušnému soudu musí být natolik významné, aby dostatečně odůvodňovaly průlom do výše citovaného ústavního principu. Zákon přitom výslovně zakotvuje právo účastníků vyjádřit se k důvodu delegace i k soudu, k němuž má být věc delegována, aby vhodnost takového postupu mohla být zvážena i z pohledu jejich poměrů; delegací nesmí být totiž navozen stav, který by se v poměrech některého z účastníků projevil zásadně nepříznivě.
+Postup navržený Okresním soudem v Břeclavi akcentuje zásadu hospodárnosti řízení. Protože účastníci řízení k navrhovanému postupu nevznesli žádné námitky, lze předpokládat, že s ním souhlasí, neboť je výhodný i z hlediska jejich poměrů.
+Nejvyšší soud proto věc vedenou u Okresního soudu v Břeclavi pod sp. zn. 7 C 330/2008 podle ustanovení § 12 odst. 2 o. s. ř. přikázal Okresnímu soudu v Sokolově.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 26. září 2012
+JUDr. Ivana Zlatohlávková, v. r.
+předsedkyně senátu
