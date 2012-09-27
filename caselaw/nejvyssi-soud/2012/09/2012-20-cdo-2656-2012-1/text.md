@@ -1,0 +1,16 @@
+20 Cdo 2656/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové a soudců JUDr. Olgy Puškinové a JUDr. Vladimíra Mikuška v exekuční věci oprávněného GE Money Bank a. s., se sídlem v Praze 4 - Michli, Vyskočilova 1422/1a, identifikační číslo osoby 256 72 720, zastoupeného JUDr. Jiřím Novákem, advokátem se sídlem v Praze 2, Sokolská 60, proti povinné J. K., za účasti manžela povinné R. K., jako povinná, pro 4.214,89 Kč s příslušenstvím, vedené u Okresního soudu v Přerově pod sp. zn. 28 Nc 1251/2009, o dovolání povinné a jejího manžela proti usnesení Krajského soudu v Ostravě – pobočky v Olomouci ze dne 27. 9. 2011, č. j. 40 Co 726/2011-87, takto:
+I. Dovolání R. K. se odmítá.
+II. Řízení o dovolání povinné se zastavuje.
+Odůvodnění:
+Krajský soud napadeným rozhodnutím potvrdil usnesení ze dne 19. 5. 2011, č. j. 28 Nc 1251/2009-74, kterým okresní soud zamítl návrh povinné na zastavení exekuce v části týkající se prodeje blíže označené nemovitosti ve společném jmění povinné a jejího manžela.
+Povinná i její manžel napadli usnesení krajského soudu dovoláním.
+Dovolání povinné vykazovalo nedostatky bránící dalšímu pokračování dovolacího řízení a nebylo ani sepsáno advokátem, přičemž ze spisu nevyplývalo, že by byla dovolatelka právnicky vzdělána. Usnesením z 21. 5. 2012 soud vyzval dovolatelku, aby si ve lhůtě dvaceti dnů od doručení zvolila zástupcem advokáta a jeho prostřednictvím podala řádné dovolání; zároveň ji poučil, že nevyhoví-li výzvě, dovolací řízení bude zastaveno. Usnesení bylo dovolatelce doručeno 5. 6. 2012. Ta však na výzvu nereagovala a vytčený nedostatek neodstranila.
+Jelikož povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – kromě usnesení, kterým se dovolací řízení právě pro neodstranění tohoto nedostatku zastavuje – vydání rozhodnutí, jímž se řízení končí (§ 241 o. s. ř.), a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu nedošlo, Nejvyšší soud řízení o dovolání povinné podle § 104 odst. 2 a § 243c odst. 1 o. s. ř. zastavil.
+Z obecného závěru, že k dovolání jsou legitimováni účastníci řízení (§ 240 odst. 1 věta první o. s. ř.), nelze dovozovat, že by dovolání s předpokládanými účinky mohl podat kterýkoli z nich. Z povahy dovolání jakožto mimořádného opravného prostředku totiž plyne, že oprávnění je podat svědčí toliko účastníku, kterému nebylo rozhodnutím odvolacího soudu plně vyhověno, popř. kterému byla tímto rozhodnutím způsobena na jeho právech určitá újma, již lze odstranit zrušením napadeného rozhodnutí (srov. usnesení Nejvyššího soudu ze dne 30. 8. 2000, sp. zn. 2 Cdon 1648/97, uveřejněné v časopise Soudní judikatura č. 12/2000 pod č. 138). Protože manžel povinné není osobou, jíž napadeným rozhodnutím nebylo vyhověno (odvolání proti usnesení ze dne 19. 5. 2011 podala pouze povinná), nebyl k podání dovolání oprávněn a Nejvyšší soud jeho dovolání podle § 243b odst. 5 věty první a § 218 písm. b) o. s. ř. odmítl.
+O nákladech dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 27. září 2012
+JUDr. Miroslava Jirmanová, v. r.
+předsedkyně senátu
