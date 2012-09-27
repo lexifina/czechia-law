@@ -1,0 +1,14 @@
+20 Cdo 2604/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové a soudců JUDr. Olgy Puškinové a JUDr. Vladimíra Mikuška v exekuční věci oprávněného Vodňanská drůbež, a. s., se sídlem ve Vodňanech, Radomilická 886, identifikační číslo osoby 25396480, zastoupeného Mgr. Pavlem Piňosem, advokátem se sídlem v Přerově, Čechova 2, proti povinné V. H., pro 53.371,- Kč s příslušenstvím, vedené u Okresního soudu v Karviné pod sp. zn. 48 Nc 957/2003, o dovolání povinné proti usnesení Krajského soudu v Ostravě ze dne 14. 6. 2011, č. j. 9 Co 446/2011-87, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Krajský soud napadeným rozhodnutím potvrdil usnesení ze dne 8. 4. 2011, č. j. 024 EX 1328/03-79, kterým soudní exekutorka Mgr. Pavla Fučíková, Exekutorský úřad Ostrava, rozhodla, že insolvenčnímu správci JUDr. Alicji Klimešové, se sídlem Horní 2a/1433, Havířov - Město, se po odpočtu nákladů exekuce ve výši 5.468,40 Kč vydává do majetkové podstaty insolvenčního řízení vedeného u Krajského soudu v Ostravě pod sp. zn. KSOS 8 INS 2746/2008 výtěžek exekuce ve výši 944,30 Kč.
+Povinná napadla usnesení krajského soudu dovoláním, jež vykazovalo nedostatky bránící dalšímu pokračování dovolacího řízení a nebylo ani sepsáno advokátem, přičemž ze spisu nevyplývalo, že by byla dovolatelka právnicky vzdělána. Usnesením z 4. 10. 2011 soud vyzval dovolatelku, aby si ve lhůtě dvaceti dnů od doručení zvolila zástupcem advokáta a jeho prostřednictvím podala řádné dovolání; zároveň ji poučil, že nevyhoví-li výzvě, nebude možno v řízení pro tento nedostatek pokračovat. Poté, co návrh povinné na ustanovení advokáta pro dovolací řízení soud zamítl, učinila soudní exekutorka novou výzvu k odstranění vad dovolání usnesením ze dne 4. 7. 2012, 024 EX 1328/03-119, jež bylo doručeno 16. 7. 2012 povinné, avšak ta nijak nereagovala a vytčený nedostatek neodstranila.
+Jelikož povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – kromě usnesení, kterým se dovolací řízení právě pro neodstranění tohoto nedostatku zastavuje – vydání rozhodnutí, jímž se řízení končí (§ 241 o. s. ř.), a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu nedošlo, Nejvyšší soud řízení o dovolání podle § 104 odst. 2 a § 243c odst. 1 o. s. ř. zastavil.
+Exekuce byla zastavena (usnesení z 4. 7. 2012, č. j. 024 EX 1328/03-120), dovolací soud rozhodl i o nákladech dovolacího řízení. Výrok o nákladech řízení je odůvodněn § 243b odst. 5 větou první, § 224 odst. 1 a § 146 odst. 2 větou první o. s. ř.; oprávněnému, jenž by měl na jejich náhradu právo, náklady v této fázi řízení podle obsahu spisu nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 27. září 2012
+JUDr. Miroslava Jirmanová, v. r.
+předsedkyně senátu
