@@ -1,0 +1,17 @@
+26 Cdo 2191/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Feráka a soudkyň JUDr. Pavlíny Brzobohaté a Doc. JUDr. Věry Korecké, CSc., ve věci žalobce Ing. R. H., bytem v P. 8, n. D. H. 1056/15, zastoupeného JUDr. Janem Pöslem, advokátem se sídlem v Praze 1, Tržiště 369/7, proti žalovanému Ing. P. H., bytem v P. 8, B. 528/4, zastoupenému Mgr. Jaroslavem Fialou, advokátem se sídlem v Praze 1, Jakubská 2, o zaplacení 1.264.400,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 8 pod sp. zn. 9 C 138/2007, o dovolání žalovaného proti usnesení Městského soudu v Praze ze dne 25. ledna 2012, č. j. 54 Co 14/2012-287, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Praze (odvolací soud) usnesením ze dne 25. 1. 2012, č. j. 54 Co 14/2012-287, potvrdil usnesení Obvodního soudu pro Prahu 8 (soud prvního stupně) ze dne 12. 9. 2011, č. j. 9 C 138/2007-267, jímž zastavil odvolací řízení pro nezaplacení soudního poplatku z odvolání, a rozhodl o náhradě nákladů řízení; současně rozhodl o náhradě nákladů odvolacího řízení.
+Proti usnesení odvolacího soudu podal žalovaný, zastoupen advokátem, dovolání, jehož přípustnost opřel o ustanovení § 237 odst. 1 písm. c) „s použitím“ § 239 odst. 2 písm. a) zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů, dále též jen „o. s. ř.“.
+Dovolání není přípustné.
+Podle ustanovení § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Dovolání není přípustné podle ustanovení § 237 odst. 1 o. s. ř., neboť se nejedná o rozhodnutí ve věci samé (k pojmu „věc sama“ srov. též usnesení Nejvyššího soudu uveřejněné pod číslem 61/1998 Sbírky soudních rozhodnutí a stanovisek, příp. usnesení Nejvyššího soudu ze dne 28. 8. 1997, sp. zn. 2 Cdon 484/97, uveřejněné v časopise Soudní judikatura číslo 11, ročník 1997, pod č. 88). Přípustnost dovolání nezakládá ani § 238, § 238a a § 239 o. s. ř., protože usnesení, jímž odvolací soud potvrdil usnesení soudu prvního stupně o zastavení odvolacího řízení pro nezaplacení soudního poplatku z odvolání, v jejich taxativních výčtech není vyjmenováno (srovnej např. usnesení Nejvyššího soudu ze dne 28. 3. 2002, sp. zn. 29 Odo 205/2002, uveřejněné v časopise Soudní judikatura číslo 6, ročník 2002, pod číslem 102). Nelze přisvědčit dovolateli, že by přípustnost dovolání zakládalo ustanovení § 239 odst. 2 písm. a) o. s. ř., neboť toto ustanovení zakládá přípustnost dovolání jen proti usnesení odvolacího soudu, kterým bylo potvrzeno usnesení soudu prvního stupně o zastavení řízení podle § 104 odst. 1 o. s. ř., tedy z důvodu nedostatku podmínky řízení, který nelze odstranit (např. nedostatek pravomoci soudu, nedostatek věcné příslušnosti soudu, překážka litispendence a rei iudicatae či nedostatek způsobilosti být účastníkem řízení v den zahájení řízení).
+Dovolací soud proto bez jednání (§ 243a odst. 1 věta první o. s. ř.) dovolání podle § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl pro nepřípustnost.
+Výrok o nákladech dovolacího řízení se opírá o ustanovení § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř. a o skutečnost, že žalobci podle obsahu spisu nevznikly v dovolacím řízení žádné náklady, na jejichž náhradu by jinak měl proti dovolateli právo.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 2. října 2012
+JUDr. Miroslav Ferák
+předseda senátu
