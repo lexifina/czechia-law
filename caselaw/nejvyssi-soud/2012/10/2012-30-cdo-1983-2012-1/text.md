@@ -1,0 +1,15 @@
+30 Cdo 1983/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Ištvánka a soudců JUDr. Pavla Simona a JUDr. Pavla Vrchy, ve věci žalobce L. D., proti žalované České republice – Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 16, o zaplacení částky 650.000,- Kč, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 12 C 205/2010, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 4. 10. 2011, č. j. 25 Co 351/2011 – 167, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+V záhlaví uvedeným rozsudkem potvrdil Městský soud v Praze rozsudek Obvodního soudu pro Prahu 2 ze dne 23. 3. 2011, č. j. 12 C 205/2010 – 143, jímž soud prvního stupně zamítl žalobu na zaplacení částky 650.000,- Kč.
+Proti rozsudku odvolacího soudu podal dovolání Mgr. Jaroslav Vašek, advokát se sídlem Frýdek – Místek, Lískovecká 2089, který byl ustanoven zástupcem žalobce usnesením Obvodního soudu pro Prahu 2 ze dne 10. 9. 2009, č. j. 32 Nc 1121/2009 – 37. Protože z daného usnesení nevyplývalo, že by se ustanovení zástupce vztahovalo na jiné řízení, než řízení před soudem prvního stupně a soudem odvolacím, zaniklo v souladu s § 31 odst. 2 a § 28 odst. 6 občanského soudního řízenu (dále jen „o. s. ř.“) zastoupení žalobce Mgr. Jaroslavem Vaškem právní mocí rozsudku odvolacího soudu v této věci a pro dovolací řízení již jím žalobce zastoupen nebyl.
+Obvodní soud pro Prahu 2 proto usnesením ze dne 6. 2. 2012, č. j. 12 C 205/2010 – 177a, vyzval žalobce, aby ve lhůtě 3 dnů od doručení tohoto usnesení (žalobci bylo doručeno dne 10. 2. 2012) předložil plnou moc, která by Mgr. Jaroslava Vaška opravňovala jej v dovolacím řízení zastupovat, přičemž byl poučen, že nebude-li ve stanovené lhůtě plná moc předložena, soud dovolací řízení zastaví. Žalobce však na tuto výzvu nereagoval a tím neodstranil nedostatek povinného zastoupení.
+Protože povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, bez jejíhož splnění nelze vydat - s výjimkou usnesení, jímž se dovolací řízení pro tento nedostatek zastavuje - rozhodnutí, kterým se řízení končí, a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu do dnešního dne nedošlo, Nejvyšší soud dovolací řízení podle § 104 odst. 2 a § 243c občanského soudního řádu (dále jen o. s. ř.) zastavil (srov. usnesení Nejvyššího soudu ze dne 29. 8. 2002, sp. zn. 29 Odo 733/2011, publikovaný pod č. R 30/2003 civ., č. sešitu 4/2003, Sbírka soudních rozhodnutí a stanovisek).
+Dovolatel z procesního hlediska zavinil, že dovolací řízení bylo zastaveno, žalovaným v dovolacím řízení náklady nevznikly. Této procesní situaci odpovídá ve smyslu ustanovení § 146 odst. 2, věty první, § 224 odst. 1 a § 243b odst. 4 o. s. ř. výrok o tom, že na náhradu nákladů dovolacího řízení žádný z účastníků právo nemá.
+Proti tomuto usnesení nejsou přípustné opravné prostředky.
+V Brně 9. října 2012
+JUDr. František I š t v á n e k
+předseda senátu
