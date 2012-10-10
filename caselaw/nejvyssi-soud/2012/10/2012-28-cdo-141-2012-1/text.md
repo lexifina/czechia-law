@@ -1,0 +1,21 @@
+28 Cdo 141/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jana Eliáše, Ph.D., a soudců JUDr. Ludvíka Davida, CSc., a Mgr. Zdeňka Sajdla v právní věci žalobce J. K., bytem v J., zastoupeného Mgr. Davidem Raifem, advokátem se sídlem v Jeseníku, Krameriova 503, proti žalované České republice – Ministerstvu dopravy se sídlem v Praze 1, Nábřeží Ludvíka Svobody 1222/12, o zaplacení částky 125.522,- Kč s příslušenstvím, vedené u Okresního soudu ve Svitavách pod sp. zn. 105 C 235/2009, o dovolání žalobce proti rozsudku Krajského soudu v Hradci Králové – pobočka v Pardubicích ze dne 28. července 2011, č. j. 22 Co 242/2011-74, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud ve Svitavách rozsudkem ze dne 21. 2. 2011, č. j. 105 C 235/2009-41, zamítl žalobu, jíž se žalobce domáhal, aby byla žalované uložena povinnost zaplatit mu částku 125.522,- Kč s příslušenstvím (výrok I.), a rozhodl o náhradě nákladů řízení mezi účastníky (výrok II.).
+K odvolání žalobce přezkoumal uvedené rozhodnutí Krajský soud v Hradci Králové – pobočka v Pardubicích, jenž je rozsudkem ze dne 28. 7. 2011, č. j. 22 Co 242/2011-74, potvrdil (výrok I.) a rozhodl o náhradě nákladů odvolacího řízení (výrok II.).
+Proti rozsudku odvolacího soudu podal žalobce prostřednictvím svého advokáta dovolání.
+Podle § 240 odst. 1, věty prvé, o. s. ř. účastník může podat dovolání do dvou měsíců od doručení rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni.
+Podle § 241a odst. 1 o. s. ř. v dovolání musí být vedle obecných náležitostí (§ 42 odst. 4 o. s. ř.) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu a z jakých důvodů se toto rozhodnutí napadá, popřípadě které důkazy by měly být provedeny k prokázání důvodu dovolání, a čeho se dovolatel domáhá (dovolací návrh).
+Podle § 241b odst. 3, věty prvé, o. s. ř. dovolání, které neobsahuje údaje o tom, v jakém rozsahu nebo z jakých důvodů se rozhodnutí odvolacího soudu napadá, může být o tyto náležitosti doplněno jen po dobu trvání lhůty k dovolání.
+Z obsahu spisu se podává, že rozsudek odvolacího soudu byl žalobci doručen dne 17. 8. 2011. Dovolání proti němu podal žalobce dne 6. 10. 2011, aniž by toto dovolání obsahovalo, byť v náznaku, vymezení, z jakých důvodů tak činí (jednalo se o tzv. blanketní dovolání). O zákonné náležitosti doplnil žalobce dovolání až elektronicky podaným doplněním dovolání dne 9. 11. 2011.
+Dovolání, které neobsahuje údaje o tom, v jakém rozsahu nebo z jakých důvodů se rozhodnutí odvolacího soudu napadá, je vadným podáním, které – jak je z výše citovaných ustanovení zákona patrno – může dovolatel doplnit jen do uplynutí dvouměsíční lhůty k podání dovolání. Ustanovení § 241b odst. 3 o. s. ř. zde zamezuje tomu, aby podáním tzv. banketních dovolání docházelo k faktickému prodlužování dovolací lhůty. Lhůta určená tímto ustanovením je lhůtou propadnou, jejímž marným uplynutím se (původně odstranitelné) vady řízení-dovolání stávají neodstranitelnými; dovolací soud, který k pozdějšímu doplnění dovolání již nemůže přihlížet, tedy musí dovolání nezpůsobilé zahájit dovolací řízení odmítnout za přiměřeného použití ustanovení § 43 odst. 2, věty první, o. s. ř. (srov. např. usnesení Nejvyššího soudu ze dne 18. 6. 2003, sp. zn. 29 Odo 108/2002, publikované ve Sbírce soudních rozhodnutí a stanovisek pod č. 21, svazek 3/2004, či usnesení Nejvyššího soudu ze dne 13. 3. 2007, sp. zn. 21 Cdo 1514/2006).
+V posuzované věci lhůta k doplnění dovolání o chybějící dovolací důvody žalobci marně uplynula dne 17. 10. 2011 (pondělí). K později došlému podání žalobce již co do uvedených dovolacích důvodů – jak z výše podaného výkladu ustanovení § 241b odst. 3 o. s. ř. vyplývá – dovolací soud přihlédnout nemohl.
+Nejvyšší soud proto dovolání odmítl (§ 241b odst. 3, věta první, § 43 odst. 2 o. s. ř.).
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, věty první, § 224 odst. 1, § 151 odst. 1, části věty před středníkem, a § 146 odst. 3 o. s. ř. za situace, kdy žalované, která by jinak měla na náhradu nákladů dovolacího řízení právo, v tomto řízení náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 10. října 2012
+JUDr. Jan Eliáš, Ph.D.
+předseda senátu
