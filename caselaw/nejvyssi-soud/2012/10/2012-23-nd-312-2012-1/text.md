@@ -1,0 +1,15 @@
+23 Nd 312/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Ing. Jana Huška a soudců JUDr. Zdeňka Dese a JUDr. Ing. Pavla Horáka, Ph.D. ve věci žalobců a) V. N., a b) D. N., oba zastoupeni JUDr. Evou Janíkovou, advokátkou, se sídlem ve Frýdku-Místku, Farní 19, proti žalovanému Ekonomické stavby, s. r. o., se sídlem ve Zruči-Senci, Ke Křižovatce 466, IČ 252 244 76, zastoupené JUDr. Hanou Kapitánovou, advokátkou, se sídlem v Plzni, Sady 5. května 36, o zaplacení 81.900,- Kč s přísl., vedené u Okresního soudu v Plzeň-sever pod sp. zn. 3 C 95/2012, o návrhu soudu na přikázání věci jinému soudu takto:
+Věc vedená u Okresního soudu v Plzeň-sever pod sp. zn. 3 C 95/2012 se nepřikazuje Okresnímu soudu ve Frýdku-Místku.
+O d ů v o d n ě n í :
+V záhlaví označené věci Okresní soud Plzeň-sever podáním ze dne 14. 9. 2012 navrhl, aby tato věc byla přikázána z důvodu vhodnosti podle ust. § 12 odst. 2 o. s. ř. k projednání a rozhodnutí Okresnímu soudu ve Frýdku-Místku. Návrh byl odůvodněn tím, že oba žalobci mají bydliště v obvodu soudu, jemuž má být věc přikázána, je zde sídlo jejich právní zástupkyně, nachází se zde i stavba, které se spor týká a v obvodu tohoto soudu je i stavební úřad.
+Žalovaný v podání ze dne 21. 8. 2012 s přikázaním věci Okresnímu soudu ve Frýdku-Místku nesouhlasil s tím, že nejsou dány pro delegaci žádné důvody.
+Podle § 12 odst. 2 o. s. ř. může být věc přikázána jinému soudu téhož stupně z důvodů vhodnosti.
+Důvody vhodnosti podle citovaného ustanovení mohou být různé v závislosti na předmětu řízení, postavení účastníků i jiných okolnostech. Jde zejména o skutečnosti, z nichž lze dovodit, že jiným než příslušným soudem bude věc projednána rychleji a hospodárněji. K přikázání věci jinému než příslušnému soudu by však mělo docházet pouze výjimečně, a to ze závažných důvodů, neboť je uplatňováno jako výjimka z ústavně zaručené zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon (čl. 38 odst. 1 Listiny základních práv a svobod, publikované pod č. 2/1993 Sb.). Důvody pro odnětí věci příslušnému soudu a její přikázání soudu jinému tedy musí být natolik významné, aby dostatečně odůvodňovaly průlom do výše citovaného ústavního principu. Zákon přitom výslovně zakotvuje právo účastníků vyjádřit se k důvodu delegace i k soudu, k němuž má být věc delegována, aby vhodnost takového postupu mohla být zvážena i z pohledu jejich poměrů; delegací totiž nesmí být navozen stav, který by se v poměrech některého z účastníků projevil zásadně nepříznivě.
+Okolnosti, pro něž Okresní soud Plzeň-sever navrhl přikázání věci jinému soudu nejsou natolik závažné, aby dostatečně odůvodňovaly tento postup, zejména z hlediska projednání věci rychleji a hospodárněji. K tomu je nutné dodat, že event. lze využít institut dožádání (§ 39, § 122 odst. 2 o. s. ř. a bylo nutné též přihlédnout k negativnímu stanovisku žalovaného).
+Nejvyšší soud proto podle § 12 odst. 3 o. s. ř. rozhodl tak, jak je uvedeno ve výroku tohoto usnesení.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 16. října 2012
+JUDr. Ing. Jan Hušek
+předseda senátu
