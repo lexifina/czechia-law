@@ -1,0 +1,13 @@
+21 Cdo 130/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a Mgr. Davida Havlíka v exekuční věci oprávněného Stavebního bytového družstva SIGMA se sídlem v Olomouci, Černá cesta č. 6, IČO 0495069, proti povinné J. B., pro 6.881,- Kč s příslušenstvím, o žalobě pro zmatečnost podané povinnou proti usnesení Krajského soudu v Ostravě-pobočky v Olomouci ze dne 29. ledna 2009, č. j. 40 Co 2/2009-406, vedené u Okresního soudu v Olomouci pod sp. zn. 51 Nc 5426/2006 (u Krajského soudu v Ostravě-pobočky v Olomouci pod sp. zn. 40 Co 2/2009), o dovolání povinné proti usnesení Vrchního soudu v Olomouci ze dne 3. března 2011, č. j. 14 Cmo 274/2010-509, takto:
+I. Řízení o dovolání povinné se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.):
+Řízení o dovolání povinné proti usnesení Vrchního soudu v Olomouci ze dne 3. 3. 2011, č. j. 14 Cmo 274/2010-509, jímž bylo potvrzeno usnesení Krajského soudu v Ostravě-pobočky v Olomouci ze dne 19. 5. 2010, č. j. 40 Co 2/2009-497 (kterým bylo postupem podle ustanovení § 43 o. s. ř. odmítnuto podání povinné „ve věci žaloby pro zmatečnost“ a rozhodnuto, že žádný z účastníků nemá právo na náhradu nákladů řízení), a rozhodnuto, že žádný z účastníků nemá právo na náhradu nákladů odvolacího řízení, Nejvyšší soud České republiky zastavil podle ustanovení § 241b odst. 2 a § 104 odst. 2 věty třetí o. s. ř., neboť dovolatelka nesplnila zákonem stanovenou podmínku povinného zastoupení v dovolacím řízení a přes výzvu a poučení soudu o důsledcích své nečinnosti (které jí bylo poskytnuto v usnesení Krajského soudu v Ostravě-pobočky v Olomouci ze dne 1. 6. 2011, č. j. 40 Co 2/2009-537) ve stanovené lhůtě (ani dosud) nedostatek podmínky dovolacího řízení podle ustanovení § 241 o. s. ř. neodstranila.
+Žádosti povinné o ustanovení zástupce pro podání dovolání z řad advokátů (§ 30 odst. 1 a 2 o. s. ř.) soudy - jak vyplývá z usnesení Krajského soudu v Ostravě-pobočky v Olomouci ze dne 1. 6. 2011, č. j. 40 Co 2/2009-534, které bylo potvrzeno usnesením Vrchního soudu v Olomouci ze dne 18. 8. 2011, č. j. 14 Cmo 90/2011-547, a nabylo právní moci dne 21. 9. 2011 - nevyhověly.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 části věty před středníkem o. s. ř., neboť povinná s ohledem na výsledek řízení nemá na náhradu svých nákladů právo a oprávněnému v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 17. října 2012
+JUDr. Mojmír Putna
+předseda senátu
