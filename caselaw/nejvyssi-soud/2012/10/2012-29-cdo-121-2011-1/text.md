@@ -1,0 +1,17 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+29 Cdo 121/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Šuka a soudců JUDr. Filipa Cilečka a doc. JUDr. Ivany Štenglové v právní věci žalobkyně M. M., zastoupené JUDr. Jindřichem Zadinou, advokátem, se sídlem v Praze 2, Sokolská 1662/35, PSČ 120 00, proti žalovanému Mgr. Z. H., zastoupenému Mgr. Stanislavem Němcem, advokátem, se sídlem v Postupicích, Postupice 58, PSČ 257 01, o nahrazení projevu vůle, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 23 C 139/2004, o dovolání žalobkyně proti rozsudku Městského soudu v Praze ze dne 2. prosince 2009, č. j. 23 Co 474/2009-81, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+V záhlaví označeným rozsudkem Městský soud v Praze potvrdil k odvolání žalobkyně rozsudek ze dne 24. dubna 2009, č. j. 23 C 139/2004-54, ve výroku ve věci samé, jímž Obvodní soud pro Prahu 4 zamítl žalobu o uložení povinnosti žalovanému učinit ve výroku specifikované prohlášení vlastníka (dále jen „prohlášení vlastníka“) a přijmout návrh žalobkyně na uzavření ve výroku popsané smlouvy o převodu bytové jednotky (dále jen „kupní smlouva“), a změnil výrok o nákladech řízení (první výrok) a rozhodl o nákladech odvolacího řízení (druhý výrok).
+Proti rozsudku odvolacího soudu podala žalobkyně dovolání, jež Nejvyšší soud podle ustanovení § 243b odst. 5, § 218 písm. c/ zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), odmítl jako nepřípustné.
+Dovolání proti potvrzujícímu výroku rozhodnutí ve věci samé může být přípustné pouze podle ustanovení § 237 odst. 1 písm. c/ o. s. ř. (o situaci předvídanou v ustanovení § 237 odst. 1 písm. b/ o. s. ř. nejde), tedy tak, že dovolací soud – jsa přitom vázán uplatněnými dovolacími důvody včetně jejich obsahového vymezení (§ 242 odst. 3 o. s. ř.) – dospěje k závěru, že napadené rozhodnutí má po právní stránce zásadní význam. Dovolatelka přitom Nejvyššímu soudu žádnou otázku, jež by napadené rozhodnutí činila zásadně úprávně významným, nepředkládá.
+Dovoláním zpochybněný závěr, podle něhož smlouva o smlouvě budoucí uzavřená podle § 50a zákona č. 40/1964 Sb., občanského zákoníku, je účinná jen mezi účastníky této smlouvy, a pokud jeden z nich převede vlastnické právo k nemovitosti, jejíž zamýšlený převod je obsahem smlouvy o smlouvě budoucí, na osobu třetí, zaniknou práva a povinnosti ze smlouvy o smlouvě budoucí pro nemožnost plnění, je v souladu s označeným ustanovením i ustálenou judikaturou Nejvyššího soudu (srov. např. rozsudek ze dne 29. října 1997, sp. zn. 2 Cdon 1505/97, uveřejněný v časopise Soudní judikatura číslo 3, ročník 1998, pod číslem 22, rozsudek ze dne 30. května 2001, sp. zn. 33 Cdo 2390/2000, rozsudek ze dne 15. ledna 2009, sp. zn. 30 Cdo 226/2007, či rozsudek velkého senátu Občanskoprávního a obchodního kolegia ze dne 15. června 2011, sp. zn. 31 Cdo 4308/2009, uveřejněný pod číslem 143/2011 Sbírky soudních rozhodnutí a stanovisek); důvod připouštět dovolání k jeho opětovnému formulování Nejvyšší soud neshledává.
+Výrok o nákladech řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalobkyně bylo odmítnuto a žalovanému podle obsahu spisu žádné náklady v dovolacím řízení nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 24. října 2012
+JUDr. Petr Šuk
+předseda senátu
