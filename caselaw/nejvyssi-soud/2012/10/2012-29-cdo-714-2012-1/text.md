@@ -1,0 +1,19 @@
+29 Cdo 714/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Filipa Cilečka a soudců doc. JUDr. Ivany Štenglové a JUDr. Petra Šuka v právní věci žalobkyně SUVERETO s. r. o., se sídlem v Praze 3, Slezská 1124/61, PSČ 130 00, identifikační číslo osoby 61055930, zastoupené JUDr. Petrem Kališem, advokátem, se sídlem v Praze 7, Nad Královskou Oborou 11, PSČ 170 00, proti žalovanému V. S., zastoupenému JUDr. Petrem Gracíkem, advokátem, se sídlem v Novém Bydžově, Masarykovo náměstí 1144, PSČ 504 01, o zaplacení 1,213.333,30 Kč, vedené u Krajského soudu v Praze pod sp. zn. 50 Cm 163/2006, o dovolání žalobkyně proti rozsudku Vrchního soudu v Praze ze dne 27. října 2011, č. j. 11 Cmo 170/2011-194, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Rozsudkem ze dne 14. března 2011, 50 Cm 163/2006-140, Krajský soud v Praze zavázal žalovaného zaplatit žalobkyni 1,040.000,- Kč (výrok I.), zamítl žalobu o zaplacení částky 173.333,33 Kč (výrok II.), zastavil řízení ohledně příslušenství z částky 1,213.333,33 Kč (výrok III.) a rozhodl o nákladech řízení (výrok IV.).
+V záhlaví označeným rozsudkem Vrchní soud v Praze k odvolání žalobkyně i žalovaného výroky II. a IV. rozsudku soudu prvního stupně potvrdil.
+Napadený rozsudek byl zástupci dovolatelky doručen dne 25. listopadu 2011. Posledním dnem dvouměsíční lhůty k podání dovolání (§ 240 odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu /dále jen o. s. ř./) tedy byla středa 25. ledna 2012 (§ 57 odst. 2 o. s. ř.).
+Dovolatelka podala prostřednictvím svého zástupce tzv. blanketní dovolání, v němž v rozporu s ustanovením § 241a odst. 1 o. s. ř. neuvedla, z jakých důvodů toto rozhodnutí napadá, dne 23. ledna 2012 (pouhá citace textu ustanovení § 241a odst. 2 písm. a/ a b/ o. s. ř. řádným uplatněním dovolacího důvodu není; k čemuž srov. usnesení Nejvyššího soudu ze dne 27. ledna 2005, sp. zn. 29 Odo 1060/2003, uveřejněné v časopise Soudní judikatura číslo 3, ročník 2005, pod číslem 31), přičemž současně uvedla, že řádné odůvodnění dovolání doručí ve lhůtě 10 dnů. Následně podáním ze dne 7. února 2012 své dovolání doplnila.
+Dovolání, které neobsahuje údaj o tom, v jakém rozsahu nebo z jakých důvodů se rozhodnutí odvolacího soudu napadá, je vadným podáním, které může dovolatel doplnit o chybějící náležitosti jen do uplynutí dovolací lhůty (§ 241b odst. 3 věta první o. s. ř.). Jejím marným uplynutím se původně odstranitelné vady dovolání stávají neodstranitelnými; dovolací soud, který k pozdějšímu doplnění dovolání již nemůže přihlížet z úřední povinnosti, tedy musí dovolání nezpůsobilé zahájit dovolací řízení odmítnout, a to za přiměřeného použití ustanovení § 43 odst. 2 věty první o. s. ř. (srov. usnesení Nejvyššího soudu uveřejněné pod číslem 21/2004 Sbírky soudních rozhodnutí a stanovisek).
+Na výše uvedeném závěru přitom nemůže ničeho změnit ani to, že usnesením ze dne 2. února 2012, č. j. 50 Cm 163/2006-208, soud prvního stupně dovolatelku vyzval, aby ve lhůtě 10 dnů konkretizovala, z jakých důvodů rozhodnutí odvolacího soudu napadá; lhůta určená k doplnění chybějících náležitostí dovolání vymezená ustanovením § 241b odst. 3 o. s. ř. je totiž lhůtou zákonnou a prekluzivní, na jejíž běh nemá vliv ani nesprávný postup (výzva) soudu prvního stupně.
+Nejvyšší soud proto dovolání žalobkyně pro vady spočívající v absenci důvodů, pro něž je rozsudek odvolacího soudu napadán, odmítl (§ 245 a § 43 odst. 2 věta první o. s. ř.).
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5,
+§ 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalobkyně bylo odmítnuto, žalovanému však podle obsahu spisu v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 24. října 2012
+JUDr. Filip C i l e č e k
+předseda senátu
