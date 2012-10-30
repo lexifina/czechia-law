@@ -1,0 +1,13 @@
+21 Cdo 2954/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a JUDr. Zdeňka Novotného v právní věci žalobce I. K., zastoupeného JUDr. Jaroslavem Poredským, advokátem se sídlem v Břeclavi, Národních hrdinů č. 5, proti žalované Ing. M. M., zastoupené JUDr. Jaromírem Josefem, advokátem se sídlem v Hodoníně, Velkomoravská č. 378/1, o určení trvání pracovního poměru, vedené u Okresního soudu v Břeclavi pod sp. zn. 6 C 737/2004, o dovolání žalobce proti rozsudku Krajského soudu v Brně ze dne 3. listopadu 2010, č. j. 49 Co 440/2007-84, ve znění usnesení ze dne 3. listopadu 2010, č. j. 49 Co 440/2007-86, takto:
+I. Dovolání žalobce se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í (§ 243c odst. 2 o. s. ř.):
+Dovolání žalobce proti výroku rozsudku Krajského soudu v Brně ze dne 3. 11. 2010, č. j. 49 Co 440/2007-84, ve znění usnesení ze dne 3. 11. 2010, č. j. 49 Co 440/2007-86, kterým byl potvrzen rozsudek Okresního soudu v Břeclavi ze dne 11. 6. 2007, č. j. 6 C 737/2004-66, ve věci samé (ve výroku, jímž byla zamítnuta žaloba na určení trvání pracovního poměru žalobce u žalované) není přípustné podle ustanovení § 237 odst. 1 písm. b) o. s. ř. (ve věci nebylo soudem prvního stupně vydáno rozhodnutí, které by odvolací soud zrušil) a nebylo shledáno přípustným ani podle ustanovení § 237 odst. 1 písm. c) o. s. ř., neboť napadený rozsudek odvolacího soudu nemůže mít po právní stránce – s ohledem na to, že v dovolání byl uplatněn, jak výslovně uvádí dovolatel a vyplývá z jeho obsahu (§ 41 odst. 2 o. s. ř.), dovolací důvod podle ustanovení § 241a odst. 2 písm. a) o. s. ř.; při posuzování přípustnosti dovolání proti potvrzujícímu rozsudku odvolacího soudu se však k okolnostem uplatněným dovolacími důvody podle § 241a odst. 2 písm. a) a § 241a odst. 3 o. s. ř. nepřihlíží (srov. § 237 odst. 3 větu za středníkem o. s. ř.).
+Protože dovolání žalobce směřuje proti rozhodnutí odvolacího soudu, proti němuž není tento mimořádný opravný prostředek přípustný, Nejvyšší soud České republiky dovolání žalobce – aniž by se mohl věcí dále zabývat – podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl.
+O náhradě nákladů řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 části věty před středníkem o. s. ř., neboť žalobce s ohledem na výsledek řízení nemá na náhradu svých nákladů právo a žalované v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 30. října 2012
+JUDr. Mojmír Putna, v. r.
+předseda senátu
