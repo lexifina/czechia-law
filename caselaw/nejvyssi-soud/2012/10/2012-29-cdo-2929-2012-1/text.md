@@ -1,0 +1,19 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+29 Cdo 2929/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudců Mgr. Jiřího Zavázala a JUDr. Petra Šuka v právní věci žalobkyně České konsolidační agentury, se sídlem v Praze 7, Janovského 438/2, PSČ 170 06, identifikační číslo osoby 70 10 99 66, proti žalovaným 1) CONTACT SHOPPING, s. r. o., se sídlem v Krnově, Říční okruh 12, PSČ 794 01, identifikační číslo osoby 61 97 72 76, 2) J. K., zastoupenému JUDr. Hanou Reclíkovou, advokátkou, se sídlem v Opavě – Kylešovicích, Bílovecká 62, PSČ 747 06 a 3) CONTACT CITY a. s., se sídlem v Opavě, U Cukrovaru 6, identifikační číslo osoby 60 79 25 91, o námitkách proti směnečnému platebnímu rozkazu, vedené u Krajského soudu v Ostravě pod sp. zn. 23 Cm 19/2001, o dovolání první žalované proti usnesení Vrchního soudu v Olomouci ze dne 22. září 2004, č. j. 7 Cmo 287/2004-147, 7 Cmo 288/2004, takto:
+I. V řízení bude na místě České konsolidační agentury pokračováno s Českou republikou – Ministerstvem financí, se sídlem v Praze 1, Letenská 525/15, PSČ 118 10.
+II. Dovolací řízení se zastavuje.
+O d ů v o d n ě n í :
+Vrchní soud v Olomouci v záhlaví označeným usnesením – odkazuje na ustanovení § 107a zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“) – připustil, aby do řízení na místo dosavadní žalobkyně vstoupila společnost REALIS-INVEST, s. r. o., identifikační číslo osoby 25 87 24 78.
+Proti rozhodnutí odvolacího soudu podala první žalovaná dovolání, domáhajíc se jeho zrušení.
+Podle ustanovení § 20 zákona č. 239/2001 Sb., o České konsolidační agentuře a o změně některých zákonů, zanikla Česká konsolidační agentura dnem 31. prosince 2007 bez likvidace. Jejím právním nástupcem je stát, zastoupený Ministerstvem financí, na který přecházejí práva a závazky ke dni jejího zániku.
+V situaci, kdy v průběhu dovolacího řízení ztratila žalobkyně Česká konsolidační agentura způsobilost být účastníkem řízení, Nejvyšší soud ve smyslu ustanovení § 107 odst. 1 a 3 o. s. ř. rozhodl, že v řízení bude pokračováno s její univerzální nástupkyní, Českou republikou – Ministerstvem financí.
+Nejvyšší soud dále z úplného výpisu z obchodního rejstříku, vedeného Krajským soudem v Ostravě, oddílu C, vložky 12418, zjistil, že usnesením ze dne 2. prosince 2008, č. j. 38 K 49/2004-337, které nabylo právní moci 30. prosince 2008, byl po splnění rozvrhového usnesení zrušen konkurs prohlášený na majetek první žalované. Ke dni 17. června 2009 pak byla první žalovaná z uvedeného důvodu vymazána z obchodního rejstříku bez právního nástupce (§ 68 odst. 1 a 3 písm. f/ zákona č. 513/1991 Sb., obchodního zákoníku).
+Z ustanovení § 107 o. s. ř. vyplývá, že ztratí-li účastník po zahájení řízení způsobilost být účastníkem řízení dříve, než bylo řízení pravomocně skončeno, posoudí soud podle povahy věci, zda v řízení může pokračovat. Není-li možné v řízení ihned pokračovat, soud řízení přeruší. O tom, s kým bude v řízení pokračováno, soud rozhodne usnesením (odstavec 1). Ztratí-li způsobilost být účastníkem řízení právnická osoba a umožňuje-li povaha věci pokračovat v řízení, jsou jejím procesním nástupcem, nestanoví-li zákon jinak, ti, kteří po zániku právnické osoby vstoupili do jejích práv a povinností, popřípadě ti, kteří po zániku právnické osoby převzali práva a povinnosti, o něž v řízení jde (odstavec 3). Neumožňuje-li povaha věci v řízení pokračovat, soud řízení zastaví (odstavec 5 věta první).
+Protože první žalovaná výmazem z obchodního rejstříku ztratila způsobilost mít práva a povinnosti (§ 68 odst. 1 obchodního zákoníku) a rovněž způsobilost být účastníkem řízení (§ 19 o. s. ř.) a není zde právního nástupce, s nímž by bylo možné pokračovat v řízení, Nejvyšší soud dovolací řízení podle ustanovení § 243c odst. 1 a § 107 o. s. ř. zastavil.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 30. října 2012
+JUDr. Petr Gemmel
+předseda senátu
