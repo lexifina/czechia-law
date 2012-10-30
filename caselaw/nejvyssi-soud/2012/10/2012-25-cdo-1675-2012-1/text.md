@@ -1,0 +1,20 @@
+25 Cdo 1675/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marty Škárové a soudců JUDr. Petra Vojtka a JUDr. Roberta Waltra v právní věci žalobce Z. Č., proti žalovanému Správnímu bytovému družstvu Rozvoj, se sídlem Praha 4, Jihlavská 1276/17, IČO 00033006, o náhradu škody, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 12 C 90/2007, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 24. 9. 2010, č. j. 11 Co 86/2010-172, ve spojení s usnesením ze dne 16. 12. 2010, č. j. 11 Co 86/2010-179, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Praze usnesením ze dne 24. 9. 2010, č. j. 11 Co 86/2010-172, ve spojení s usnesením ze dne 16. 12. 2010, č. j. 11 Co 86/2010-179, k odvolání žalobce potvrdil usnesení Obvodního soudu pro Prahu 4 ze dne 6. 11. 2009, č. j. 12 C 90/2007-118, ve znění usnesení ze dne 12. 1. 2009 (zřejmě správně 12. 1. 2010), č. j. 12 C 90/2007-145, ve výroku o odmítnutí žaloby, ve výroku o náhradě nákladů řízení je změnil tak, že uložil žalobci povinnost zaplatit žalovanému 74.100,- Kč do tří dnů od právní moci usnesení k rukám JUDr. Ireny Malcové, advokátky, a rozhodl o náhradě nákladů odvolacího řízení.
+Rozsudek odvolacího soudu napadl žalobce dovoláním nejasného obsahu.
+Nejvyšší soud jako soud dovolací (§ 10a o. s. ř.) dospěl k závěru, že nejsou splněny podmínky dovolacího řízení.
+Podle ust. § 241 odst. l, věty první, o. s. ř. není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem.
+Podle ust. § 241 odst. 2 o. s. ř. odstavec 1 neplatí, a) je-li dovolatelem fyzická osoba, která má právnické vzdělání, b) je-li dovolatelem právnická osoba, stát, obec nebo vyšší územně samosprávný celek, jedná-li za ně osoba uvedená v § 21, § 21a, anebo v § 21b, která má právnické vzdělání.
+Podle ust. § 241 odst. 4 o. s. ř. dovolání musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem, notářem nebo osobou uvedenou v § 21, § 21a, § 21b, anebo v § 26a odst. 3, která má právnické vzdělání.
+Pro podání dovolání, které je mimořádným opravným prostředkem, zákon stanoví požadavek, aby účastník řízení, který podává dovolání, měl buď sám právnické vzdělání, nebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc, a dovolání bylo touto osobou sepsáno. Ustanovení § 241 o. s. ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění nelze o dovolání rozhodnout.
+V dané věci žalobce podal dovolání, aniž byl při tomto úkonu zastoupen advokátem, a nebylo prokázáno (ani tvrzeno), že by sám měl právnické vzdělání. Obvodní soud pro Prahu 4 vyzval žalobce, aby si ve lhůtě 15 dnů zvolil právního zástupce - advokáta s poučením, že pokud tak neučiní, bude dovolací řízení zastaveno. Toto usnesení ze dne 8. 4. 2011, č. j. 12 C 90/2007-202, (spolu s výzvou k doplnění dovolání ze dne 8. 4. 2011, č. j. 12 C 90/2007-203) bylo žalobci doručeno dne 15. 4. 2011. Ačkoliv žádosti žalobce o ustanovení zástupce pro dovolací řízení nebylo vyhověno (usnesení Obvodního soudu pro Prahu 4 ze dne 15. 8. 2011, č. j. 12 C 90/2007-216, ve spojení s usnesením Městského soudu v Praze ze dne 2. 3. 2012, č. j. 11 Co 57/2012-241), žalobce si v určené lhůtě ani dodatečně advokáta pro dovolací řízení nezvolil.
+Vzhledem k tomu, že žalobce nedostatek povinného zastoupení ani dodatečně neodstranil, ačkoliv byl poučen o povinném právním zastoupení v dovolacím řízení i o důsledcích nesplnění této podmínky, Nejvyšší soud řízení o dovolání žalobce podle § 243c odst. 1 a § 104 odst. 2 věty třetí o. s. ř. zastavil, aniž se zabýval otázkou dalších náležitostí podaného dovolání.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. l a § 146 odst. 2 věty první o. s. ř., když žalobce nemá na náhradu nákladů dovolacího řízení právo a žalovanému náklady v dovolacím řízení nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 30. října 2012
+JUDr. Marta Škárová
+předsedkyně senátu
