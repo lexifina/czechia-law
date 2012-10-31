@@ -1,0 +1,16 @@
+33 Cdo 1389/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudců JUDr. Blanky Moudré a JUDr. Václava Dudy ve věci žalobce J. S., zastoupeného JUDr. Ervínem Perthenem, advokátem se sídlem v Hradci Králové, Velké náměstí 135/19, proti žalovanému J. V., o 110.000,- Kč s příslušenstvím, vedené u Okresního soudu v Hradci Králové pod sp. zn. 7 C 69/2006, o dovolání žalobce proti rozsudku Krajského soudu v Hradci Králové ze dne 6. 12. 2010, č.j. 21 Co 258/2010-514, takto :
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Dovolání proti v záhlaví citovanému rozhodnutí, kterým krajský soud potvrdil ve věci samé rozsudek ze dne 18. 1. 2010, č.j. 7 C 69/2006-478, jímž Okresní soud v Hradci Králové zamítl žalobu, kterou se žalobce po žalovaném domáhal zaplacení 110.000,- Kč s 3% úroky z prodlení od 10. 8. 2004 do zaplacení, není přípustné podle § 237 odst. 1 písm. b/ zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů (dále jen „o.s.ř.“), a nebylo shledáno přípustným ani podle § 237 odst. 1 písm. c/ o.s.ř. (toto ustanovení bylo nálezem Ústavního soudu ze dne 21. 2. 2012, sp. zn. Pl. ÚS 29/11, zrušeno až uplynutím 31. 12. 2012); užití nezpůsobilého dovolacího důvodu totiž neumožňuje přijmout závěr o zásadním významu napadeného rozsudku po stránce právní.
+Zásadní právní význam je spjat zejména s právními otázkami, které v rozhodování dovolacího soudu nebyly dosud vyřešeny nebo které soudy posuzují rozdílně, anebo hodlá-li dovolací soud již vyřešenou právní otázku posoudit jinak (srov. § 237 odst. 3 o.s.ř.). Z uvedeného vyplývá, že dovolacím důvodem, který je žalobci k dispozici, je pouze důvod podle § 241a odst. 2 písm. b/ o.s.ř. (rozhodnutí spočívá na nesprávném právním posouzení věci), jemuž však nelze podřadit žádnou jeho argumentaci.
+Podle ustanovení § 237 odst. 3, části věty za středníkem, o.s.ř. nepřihlíží dovolací soud k okolnostem uplatněným dovolacími důvody podle § 241a odst. 2 písm. a/ a § 241a odst. 3 o.s.ř.
+Bezcenná (a k založení přípustnosti dovolání nezpůsobilá) je proto námitka, že odvolací soud nevyvodil důsledky z toho, že rozsudek soudu prvního stupně je – podle názoru žalobce – nepředvídatelný. Zásadu předvídatelnosti měl soud porušit tím, že vzal za prokázané tvrzení žalovaného, ačkoliv ho opakovaně poučil podle § 118a odst. 3 o.s.ř. (aby označil důkazy k prokázání toho, že částku 110.000,- Kč vrátil), čímž prezentoval „svůj právní názor, který poté změnil, aniž by účastníky na změnu svého právního názoru upozornil,“ a že po poučení prováděl obsáhlé dokazování „ohledně dalšího tvrzení žalovaného v rámci jeho procesní obrany.“ Procesní námitkou je i žalobcova výtka, že nebyl poučen podle § 118a o.s.ř.
+Nepřípustné dovolání Nejvyšší soud odmítl (§ 243b odst. 5, věta první, § 218 písm. c/ o.s.ř.).
+O nákladech dovolacího řízení rozhodl dovolací soud podle § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o.s.ř. (žalovanému, který by měl právo na jejich náhradu, v tomto stadiu řízení žádné náklady podle obsahu spisu nevznikly).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 31. října 2012
+JUDr. Pavel Krbek, v. r.
+předseda senátu
