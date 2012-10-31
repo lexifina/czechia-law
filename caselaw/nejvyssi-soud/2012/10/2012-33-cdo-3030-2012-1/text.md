@@ -1,0 +1,15 @@
+33 Cdo 3030/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudkyň JUDr. Blanky Moudré a JUDr. Ivany Zlatohlávkové ve věci žalobkyně Ing. H. Ch., zastoupené Mgr. Martinem Zobačem, advokátem se sídlem ve Žďáru nad Sázavou, Strojírenská 527/1, proti žalovanému P. Š., zastoupenému JUDr. Štefánií Fajmonovou, advokátkou se sídlem ve Žďáru nad Sázavou, V Lískách 1065/31, o 323.810,- Kč s příslušenstvím, vedené u Okresního soudu ve Žďáru nad Sázavou pod sp. zn. 14 C 2/2010, o dovolání žalovaného proti rozsudku Krajského soudu v Brně - pobočky v Jihlavě ze dne 6. 12. 2011, č.j. 54 Co 626/2011-89, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Dovolání žalovaného proti v záhlaví citovanému rozsudku v části, jíž krajský soud ve věci samé potvrdil rozsudek Okresního soudu ve Žďáru nad Sázavou ze dne 21. 3. 2011, č.j. 14 C 2/2010-73, není přípustné podle § 237 odst. 1 písm. b) zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů (dále jen „o.s.ř.“), a nebylo shledáno přípustným ani podle § 237 odst. 1 písm. c) o.s.ř., neboť hodnocením v dovolání obsažené argumentace nelze dospět k závěru, že napadený rozsudek odvolacího soudu má po právní stránce zásadní význam (§ 237 odst. 3 o.s.ř).
+Dovolatel sice ohlásil uplatnění dovolacího důvodu podle § 241a odst. 2 písm. b) o.s.ř., jímž lze vytýkat, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci, ve skutečnosti však uplatnil dovolací důvod uvedený v § 241a odst. 3 o.s.ř. mířící na pochybení při zjišťování skutkového stavu věci, jehož užití je v případě dovolání přípustného jen podle § 237 odst. 1 písm. c) o.s.ř. vyloučeno (srov. § 241a odst. 3 o.s.ř.). Namítl, že nebylo objasněno, kdy k podpisu smlouvy a předání peněz došlo a zejména nebylo prokázáno, že od žalobkyně půjčku převzal. Pokud je v dovolání argumentováno nesprávným právním posouzením věci, pak pouze v tom směru, že pokud by odvolací soud - stejně jako před ním soud prvního stupně - nepochybil ve svých skutkových závěrech, musel by návazně dospět i k odlišnému právnímu posouzení věci, tedy dovodit, že nedošlo k uzavření smlouvy o půjčce. Jelikož je kritika právního posouzení věci založena výlučně na námitkách nesprávnosti skutkových zjištění, je pro účely daného dovolacího přezkumu bezcenná.
+Dovolání proti nákladovým výrokům rozhodnutí odvolacího soudu není objektivně přípustné (srov. usnesení Nejvyššího soudu ze dne 31. 1. 2002, sp. zn. 29 Odo 874/2001, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek 1/2003 pod č. 4).
+Nejvyšší soud proto dovolání odmítl (§ 243b odst. 5, věta první, § 218 písm. c/ o. s. ř.).
+O náhradě nákladů dovolacího řízení dovolací soud rozhodl podle § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o.s.ř. Náklady, které vznikly žalobkyni, nelze považovat za účelně vynaložené, neboť vyjádření k dovolání vůbec nevystihuje důvod odmítnutí dovolání.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 31. října 2012
+JUDr. Pavel Krbek, v. r.
+předseda senátu
