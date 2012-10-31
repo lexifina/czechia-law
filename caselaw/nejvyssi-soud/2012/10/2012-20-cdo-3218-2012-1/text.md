@@ -1,0 +1,14 @@
+20 Cdo 3218/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové, Ph.D. a soudců JUDr. Olgy Puškinové a JUDr. Vladimíra Mikuška v exekuční věci oprávněného Dopravního podniku hl. m. Prahy, akciová společnost, se sídlem v Praze 9, Sokolovská 217/42, identifikační číslo osoby 000 05 886, zastoupeného JUDr. Tomášem Sokolem, advokátem se sídlem v Praze 2, Sokolská 60, proti povinnému P. Š., pro 208,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 7 pod sp. zn. 151 Nc 2518/2009, o dovolání povinného proti usnesení Městského soudu v Praze ze dne 6. 12. 2011, č. j. 69 Co 397/2011-73, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Městský soud napadeným rozhodnutím potvrdil usnesení ze dne 4. 8. 2011, č. j. 151 Nc 2518/2009-46, kterým soud prvního stupně zamítl návrh povinného na zastavení exekuce.
+Povinný napadl usnesení městského soudu dovoláním, jež vykazovalo nedostatky bránící dalšímu pokračování dovolacího řízení a nebylo ani sepsáno advokátem, přičemž ze spisu nevyplývalo, že by byl dovolatel právnicky vzdělán. Usnesením ze dne 6. 2. 2012, č. j. 151 Nc 2518/2009-78, soud vyzval dovolatele, aby si ve lhůtě čtrnácti dnů od doručení zvolil zástupcem advokáta a jeho prostřednictvím podal řádné dovolání; zároveň jej poučil, že nevyhoví-li výzvě, soud řízení zastaví. Usnesení bylo dovolateli doručeno 14. 2. 2012, ten však vytčený nedostatek neodstranil, a to ani poté, co soud usnesením ze dne 11. 7. 2012, č. j. 151 Nc 2518/2009-87, rozhodl, že povinnému se zástupce z řad advokátů neustanovuje.
+Jelikož povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – kromě usnesení, kterým se dovolací řízení právě pro neodstranění tohoto nedostatku zastavuje – vydání rozhodnutí, jímž se řízení končí (§ 241 o. s. ř.), a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu nedošlo, Nejvyšší soud řízení o dovolání podle § 104 odst. 2 a § 243c odst. 1 o. s. ř. zastavil.
+Exekuce skončila (oznámení z 27. 1. 2012 na č. l. 75), dovolací soud tedy rozhodl i o nákladech dovolacího řízení. Výrok o nákladech je odůvodněn § 243b odst. 5 větou první, § 224 odst. 1 a § 146 odst. 2 větou první o. s. ř.; oprávněnému, jenž by měl na jejich náhradu právo, náklady v této fázi řízení podle obsahu spisu nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 31. října 2012
+JUDr. Miroslava Jirmanová, Ph.D., v. r.
+předsedkyně senátu
