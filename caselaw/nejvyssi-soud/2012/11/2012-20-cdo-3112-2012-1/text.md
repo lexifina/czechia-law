@@ -1,0 +1,17 @@
+20 Cdo 3112/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Olgy Puškinové a soudců JUDr. Miroslavy Jirmanové, Ph. D. a JUDr. Vladimíra Mikuška v exekuční věci oprávněné České republiky - Ministerstva financí ČR, se sídlem v Praze 1, Letenská 15, identifikační číslo osoby 000 06 947, proti povinnému VAKAM AGRO, spol. s r. o., se sídlem v Praze 7 - Letné, Na Výšinách 901/6, identifikační číslo osoby 624 18 025, zastoupenému JUDr. Martou Ustrnulovou, advokátkou se sídlem v Praze 9, Boušova 792, adresa pro doručování: Praha 3, Husitská 63, pro 28.025.228,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 7 pod sp. zn. 147 EXE 1576/2011, o dovolání povinného proti usnesení Městského soudu v Praze ze dne 18. dubna 2012, č. j. 72 Co 148/2012 - 66, takto:
+Dovolání se odmítá.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.):
+Obvodní soud pro Prahu 7 usnesením ze dne 16. 6. 2011, č. j. 147 EXE 1576/2011 - 32, nařídil podle pravomocných a vykonatelných rozhodnutí, a to 1) směnečného platebního rozkazu Krajského obchodního soudu v Praze ze dne 20. 1. 1997, č. j. Sm 719/96 - 19, ve spojení s rozsudkem Městského soudu v Praze ze dne 3. 8. 2005, č. j. 47 Cm 96/2004 - 76, k uspokojení pohledávky oprávněného ve výši 28.000.000,- Kč, úroku ve výši 6 % p.a. z částky 28.000.000,- Kč od 15. 10. 1995 do zaplacení, odměny ve výši 93.333,- Kč, nákladů předcházejícího (nalézacího) řízení ve výši 1.000.000,- Kč, a 2) rozsudku Obvodního soudu pro Prahu 7 ze dne 30. 4. 2008, č. j. 52 C 116/2007 - 42, ve spojení s usneseními téhož soudu ze dne 25. 8. 2008, č. j. 52 C 116/2007 - 45, a ze dne 25. 11. 2008, č. j. 52 C 116/2007 - 59, ve spojení s rozsudkem Městského soudu v Praze ze dne 19. 6. 2009, č. j. 51 Co 78,93/2009 - 77, k uspokojení pohledávky oprávněného v částce 25.228,- Kč, a pro náklady exekučního řízení, jejichž výše bude určena v příkazu k úhradě nákladů exekuce, exekuci na majetek povinného, a jejím provedením pověřil soudního exekutora Mgr. Daniela Vlčka, Exekutorský úřad Praha 7.
+Městský soud v Praze usnesením ze dne 18. 4. 2012, č. j. 72 Co 148/2012 - 66, usnesení soudu prvního stupně potvrdil.
+Proti usnesení odvolacího soudu podal povinný dovolání.
+Dovolací soud vzhledem k článku II., bodu 12. části první zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů a další související zákony, a s ohledem na skutečnost, že napadené rozhodnutí bylo vydáno dne 18. dubna 2012, o dovolání rozhodl podle občanského soudního řádu ve znění účinném od 1. července 2009, a neshledal je přípustným.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Ve věcech výkonu rozhodnutí (exekuce) lze dovolání podat jen v případech uvedených v § 238a odst. 1 písm. c) až f) o. s. ř. S účinností od 1. 7. 2009 již toto ustanovení s možností podat dovolání proti usnesení odvolacího soudu, jímž bylo potvrzeno nebo změněno usnesení soudu prvního stupně, kterým bylo rozhodnuto o návrhu na nařízení výkonu rozhodnutí (exekuce), nepočítá [srov. § 238a odst. 1 písm. c) o. s. ř. ve znění účinném do 30. 6. 2009].
+Nejvyšší soud ČR proto dovolání povinného podle § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl.
+O nákladech dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 21. listopadu 2012
+JUDr. Olga Puškinová, v. r.
+předsedkyně senátu
