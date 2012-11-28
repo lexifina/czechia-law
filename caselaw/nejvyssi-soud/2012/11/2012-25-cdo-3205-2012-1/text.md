@@ -1,0 +1,19 @@
+25 Cdo 3205/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marty Škárové a soudců JUDr. Petra Vojtka a JUDr. Roberta Waltra v právní věci žalobkyně I. K., zastoupené JUDr. Milošem Macků, advokátem se sídlem v Blansku, Mahenova 13, proti žalovanému A. P., o 123.574,- Kč, vedené u Okresního soudu v Blansku pod sp. zn. 12 C 120/2006, o dovolání žalovaného proti rozsudku Krajského soudu v Brně ze dne 15. 6. 2011, č. j. 44 Co 227/2010-169, takto:
+Dovolací řízení se zastavuje.
+Odůvodnění:
+Okresní soud v Blansku rozsudkem ze dne 12. 1. 2010, č. j. 12 C 120/2006-152, zamítl žalobu na zaplacení částky 123.574,- Kč a rozhodl o náhradě nákladů řízení mezi účastníky i vůči státu. K odvolání žalobkyně Krajský soud v Brně rozsudkem ze dne 15. 6. 2011, č. j. 44 Co 227/2010-169, rozsudek soudu prvního stupně změnil tak, že základ nároku žalobkyně je dán v rozsahu 2/3; zrušil jej ve výroku o výši nároku, náhradě nákladů řízení mezi účastníky a vůči státu a věc v tomto rozsahu vrátil soudu prvního stupně k dalšímu řízení.
+Rozsudek odvolacího soudu napadl žalovaný dovoláním, ve kterém trvá na správnosti rozsudku soudu prvního stupně a navrhuje zrušení rozhodnutí soudu odvolacího.
+Nejvyšší soud jako soud dovolací (§ 10a o. s. ř.) dospěl k závěru, že nejsou splněny podmínky dovolacího řízení.
+Podle ust. § 241 odst. l, věty první, o. s. ř. není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem.
+Podle ust. § 241 odst. 2 o. s. ř. odstavec 1 neplatí, a) je-li dovolatelem fyzická osoba, která má právnické vzdělání, b) je-li dovolatelem právnická osoba, stát, obec nebo vyšší územně samosprávný celek, jedná-li za ně osoba uvedená v § 21, § 21a, anebo v § 21b, která má právnické vzdělání.
+Podle ust. § 241 odst. 4 o. s. ř. dovolání musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem, notářem nebo osobou uvedenou v § 21, § 21a, § 21b, anebo v § 26a odst. 3, která má právnické vzdělání.
+Pro podání dovolání, které je mimořádným opravným prostředkem, zákon stanoví požadavek, aby účastník řízení, který podává dovolání, měl buď sám právnické vzdělání, nebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc, a dovolání bylo touto osobou sepsáno. Ustanovení § 241 o. s. ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění nelze o dovolání rozhodnout.
+V dané věci žalovaný podal dovolání, aniž byl při tomto úkonu zastoupen advokátem, a nebylo prokázáno (ani tvrzeno), že by sám měl právnické vzdělání. Okresní soud v Blansku vyzval žalovaného, aby si ve lhůtě 10 dnů zvolil právního zástupce - advokáta s poučením, že pokud tak neučiní, bude dovolací řízení zastaveno. Toto usnesení ze dne 24. 1. 2012, č. j. 12 C 120/2006-180, bylo žalovanému doručeno dne 27. 1. 2012. Ačkoliv žádosti žalovaného o ustanovení zástupce pro dovolací řízení nebylo vyhověno (usnesení Okresního soudu v Blansku ze dne 12. 4. 2012, č. j. 12 C 120/2006-195), žalovaný si v určené lhůtě ani dodatečně na základě výzvy ze dne 3. 9. 2012, č. j. 12 C 120/2006-205, advokáta pro dovolací řízení nezvolil.
+Vzhledem k tomu, že žalovaný nedostatek povinného zastoupení ani dodatečně neodstranil, ačkoliv byl poučen o povinném právním zastoupení v dovolacím řízení i o důsledcích nesplnění této podmínky, Nejvyšší soud řízení o dovolání žalovaného podle § 243c odst. 1 a § 104 odst. 2 věty třetí o. s. ř. zastavil, aniž se zabýval otázkou dalších náležitostí podaného dovolání.
+O nákladech řízení dovolací soud nerozhodoval, neboť řízení ve věci není dosud skončeno a o náhradě nákladů řízení, včetně řízení dovolacího, bude rozhodnuto v rozhodnutí, jímž se řízení končí (§ 151 odst. 1 o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 28. listopadu 2012
+JUDr. Marta Škárová, v. r.
+předsedkyně senátu
