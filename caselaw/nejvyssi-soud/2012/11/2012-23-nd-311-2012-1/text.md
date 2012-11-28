@@ -1,0 +1,17 @@
+23 Nd 311/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Ing. Pavla Horáka, Ph.D a soudců JUDr. Zdeňka Dese a JUDr. Kateřiny Hornochové, v právní věci žalobkyně ČEZ Prodej, s.r.o., se sídlem v Praze 4, Duhová 1/425, PSČ 140 53, identifikační číslo osoby 27232433, zastoupené JUDr. Danielem Volopichem, advokátem, se sídlem v Plzni, Vlastina 23, proti žalovanému J. M. K., o zaplacení částky 24.436,- Kč s příslušenstvím, vedené u Okresního soudu v Lounech pod sp. zn. 25 EC 888/2010, o určení místní příslušnosti soudu, takto:
+Věc, vedenou u Okresního soudu v Lounech pod sp. zn. 25 EC 888/2010, projedná a rozhodne Okresní soud Plzeň-sever.
+O d ů v o d n ě n í :
+Žalobkyně se návrhem na vydání elektronického platebního rozkazu doručeným Okresnímu soudu v Lounech dne 6. dubna 2010 domáhala vydání rozhodnutí, kterým by byla žalovanému uložena povinnost zaplatit žalobkyni částku 24.436,- Kč včetně úroků z prodlení a nákladů řízení, s odůvodněním, že žalovaný neuhradil žalobkyni za dodávku elektrické energie částku 21.578,- Kč dle faktury č. 00000001032732173, částku 2.833,- Kč dle faktury č. 0000001005882774 a smluvní pokutu ve výši 25,- Kč.
+Ve věci vydaný elektronický platební rozkaz byl zrušen, neboť se jej nepodařilo doručit do vlastních rukou žalovaného.
+Okresní soud v Lounech usnesením ze dne 31. července 2012, č. j. 25 EC 888/2010-56, vyslovil svoji místní nepříslušnost a rozhodl, že po právní moci tohoto usnesení bude věc předložena Nejvyššímu soudu České republiky (dále jen „Nejvyšší soud“) k určení místně příslušného soudu. Dospěl k závěru, že v daném případě se nepodařilo zjistit skutečnosti rozhodné pro určení místní příslušnosti, neboť se nepodařilo zjistit místo, v jehož obvodu se žalovaný zdržoval v době podání žaloby (tj. ke dni 6. dubna 2010).
+Podle ustanovení § 11 odst. 1 o. s. ř. se řízení koná u soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení.
+Podle ustanovení § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Z ustanovení § 11 odst. 3 o. s. ř. vyplývá, že Nejvyšší soud rozhoduje o určení místní příslušnosti ve věcech patřících do pravomoci soudů České republiky (§ 7 o. s. ř.) jen za splnění dalšího předpokladu, že podmínky místní příslušnosti nejsou dány buď vůbec (chybějí), nebo je nelze zjistit. Místní příslušnost soudů je upravena v ustanoveních § 84 až 89a o. s. ř.
+Z obsahu spisu vyplývá, že věc patří do pravomoci českých soudů, že však není známo, kde měl žalovaný v době zahájení řízení (ke dni 6. dubna 2010) své bydliště ve smyslu ustanovení § 85 odst. 1 o. s. ř. (tj. místo pobytu, kde se zdržoval s úmyslem zdržovat se tam trvale) nebo kde se v té době zdržoval.
+Nejvyšší soud České republiky po předložení věci Okresním soudem v Lounech (§ 105 odst. 2 o. s. ř.) proto podle ustanovení § 11 odst. 3 o. s. ř. rozhodl s ohledem na zásadu hospodárnosti řízení, že věc projedná a rozhodne Okresní soud Plzeň-sever, v jehož obvodu má žalovaný v centrální evidenci obyvatel evidovaný pobyt a kde si i fakticky vyzvedává písemnosti, jak vyplývá ze zjištění Okresního soudu v Lounech.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 28. listopadu 2012
+JUDr. Ing. Pavel Horák, Ph.D.
+předseda senátu
