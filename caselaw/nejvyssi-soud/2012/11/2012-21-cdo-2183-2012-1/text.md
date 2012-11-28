@@ -1,0 +1,13 @@
+21 Cdo 2183/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Ljubomíra Drápala a soudců Mgr. Davida Havlíka a JUDr. Mojmíra Putny v právní věci žalobce K. M., zastoupeného Mgr. Miloslavem Jančíkem, advokátem se sídlem ve Zlíně, Růžová č. 307, proti žalovanému "Ministerstvu spravedlnosti ČR se sídlem v Praze, Vyšehradská 16", o "povinnost ČR chránit občany, prosadit jejich práva zaručená mezinárodní Úmluvou, která je součástí Ústavy ČR", o návrhu žalobce na osvobození od soudních poplatků a o ustanovení zástupce, vedené u Okresního soudu ve Zlíně pod sp. zn. 6 Nc 405/2010, o dovolání žalobce proti usnesení Krajského soudu v Brně - pobočky ve Zlíně ze dne 24. května 2011 č.j. 59 Co 101/2011-23, takto:
+I. Dovolání žalobce se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.):
+Dovolání žalobce proti usnesení Krajského soudu v Brně - pobočky ve Zlíně ze dne 24.5.2011 č.j. 59 Co 101/2011-23, jímž bylo potvrzeno usnesení Okresního soudu ve Zlíně ze dne 22.2.2011 č.j. 6 Nc 405/2010-10 ve výroku, kterým byl zamítnut návrh žalobce na ustanovení zástupce pro řízení, není přípustné podle ustanovení § 237 o.s.ř., neboť usnesením odvolacího soudu nebylo potvrzeno usnesení soudu prvního stupně, kterým by bylo rozhodnuto ve věci samé (rozhodnutí o zamítnutí návrhu na ustanovení zástupce není rozhodnutím ve věci samé, nýbrž jde o rozhodnutí jen procesní povahy), a nebylo shledáno přípustným ani podle ustanovení § 238, § 238a a § 239 o.s.ř., protože usnesením soudu prvního stupně nebylo rozhodnuto ve věcech, které jsou taxativně vyjmenovány v ustanoveních § 238 a § 238a o.s.ř., a nejde rovněž o žádný z případů procesních rozhodnutí uvedených v ustanovení § 239 o.s.ř. (srov. například právní názor vyjádřený v usnesení Nejvyššího soudu ČR ze dne 14.2.2012 sp. zn. 21 Cdo 242/2010 nebo v usnesení Nejvyššího soudu ČR ze dne 4.9.2003 sp. zn. 29 Odo 265/2003, které bylo uveřejněno pod č. 47 ve Sbírce soudních rozhodnutí a stanovisek, roč. 2006).
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) proto dovolání žalobce podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o.s.ř. - aniž by se mohl věcí dále zabývat - odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 věty první o. s. ř., neboť žalobce s ohledem na výsledek řízení na náhradu svých nákladů nemá právo a žalovanému v dovolacím řízení žádné účelně vynaložené náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 28. listopadu 2012
+JUDr. Ljubomír Drápal, v. r.
+předseda senátu
