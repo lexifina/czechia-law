@@ -1,0 +1,19 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+23 Cdo 2561/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Kateřiny Hornochové a soudců JUDr. Zdeňka Dese a JUDr. Ing. Jana Huška, ve věci žalobkyně Diners Club Czech, s. r. o., se sídlem v Praze 1, Široká č. 5, IČO 257 03 369, zastoupené JUDr. Jaroslavou Mackovou, advokátkou se sídlem v Praze 4, Kloboukova č. 2191, proti žalovanému E. M. A., o zaplacení částky 1,443.118,55 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 9 pod sp. zn. 52 C 307/2005, o dovolání žalovaného proti usnesení Městského soudu v Praze ze dne 15. prosince 2009, č. j. 19 Co 487/2009-397, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Městský soud v Praze usnesením ze dne 15. prosince 2009, č. j. 19 Co 487/2009-397, potvrdil usnesení Obvodního soudu ze dne 27. května 2009, č. j. 52 C 307/2005-370, kterým nebylo žalovanému přiznáno osvobození od soudních poplatků v řízení o zaplacení částky 1,443.118,55 Kč s příslušenstvím, neboť soud neshledal podmínky pro postup podle § 138 občanského soudního řádu (dále jen „o. s. ř.“).
+Přes poučení, že proti rozhodnutí není dovolání přípustné, napadl žalovaný usnesení odvolacího soudu dovoláním, ve kterém nesouhlasí s právními závěry odvolacího soudu a soudu prvního stupně.
+Nejvyšší soud České republiky jako soud dovolací po zjištění, že dovolání proti pravomocnému usnesení odvolacího soudu bylo podáno ve lhůtě uvedené v § 240 odst. 1 o. s. ř. a k tomu oprávněným subjektem (žalovaným), dospěl k závěru, že dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný.
+Podle § 236 odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů (dále též jen „o. s. ř.“), lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Přípustnost dovolání proti usnesení odvolacího soudu upravují ustanovení § 237 až § 239 o. s. ř.
+Všem třem případům přípustnosti dovolání podle § 237 odst. 1 o. s. ř. je společné, že musí jít o rozhodnutí ve věci samé; napadené rozhodnutí jím ale není. Pojem „věc samá“ je právní teorií i soudní praxí vykládán jednotně jako věc, která je tím předmětem řízení, pro nějž se řízení vede. Jde-li o spor mezi účastníky, kteří proti sobě stojí v postavení žalobce a žalovaný, je „věcí samou“ nárok uplatněný v žalobě - § 79 odst. 1 o. s. ř. (srov. usnesení Nejvyššího soudu ze dne 2. prosince 1997, sp. zn. 2 Cdon 774/97, uveřejněné pod č. 61 ve Sbírce soudních rozhodnutí a stanovisek, ročník 1998, příp. usnesení téhož soudu ze dne 28. srpna 1997, sp. zn. 2 Cdon 484/97, uveřejněné v časopise Soudní judikatura č. 11, ročník 1997 pod poř. č. 88). Dovoláním napadeným usnesením však odvolací soud nerozhodoval o žalobkyní uplatněném nároku 1,443.118,55 Kč s příslušenstvím, nýbrž potvrdil usnesení soudu prvního stupně, kterým nebylo přiznáno žalovanému osvobození od soudních poplatků. Přípustnost dovolání proto nelze posoudit podle ustanovení § 237 o. s. ř.
+Přípustnost dovolání proti výrokům usnesení odvolacího soudu upravují ustanovení § 238, 238a a § 239. Ustanovení § 238, § 238a a § 239 o. s. ř. zakládají přípustnost dovolání proti usnesení odvolacího soudu pouze v případech, které výslovně zmiňují. Žádné z těchto ustanovení však nezakládá přípustnost dovolání proti usnesení odvolacího soudu, jímž bylo potvrzeno usnesení soudu prvního stupně, kterým nebylo přiznáno žalovanému osvobození od soudních poplatků.
+Nejvyšší soud České republiky proto dovolání žalovaného podle § 243b odst. 5 a § 218 písm. c) o. s. ř. jako nepřípustné bez jednání odmítl, aniž se jím mohl dále zabývat.
+O nákladech řízení, včetně řízení dovolacího, rozhodne soud v rozhodnutí, jímž se řízení končí (§ 151 odst. 1 o. s. ř.).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 29. listopadu 2012
+JUDr. Kateřina H o r n o c h o v á
+předsedkyně senátu
