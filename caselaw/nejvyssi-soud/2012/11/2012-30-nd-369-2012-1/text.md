@@ -1,0 +1,15 @@
+30 Nd 369/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Pavlíka a soudců JUDr. Pavla Vrchy a JUDr. Lubomíra Ptáčka, Ph.D., ve věci žalobce M. S., proti žalovanému M. D., zastoupenému JUDr. Tomášem Hrdličkou, advokátem se sídlem v Brně, Údolní 53, o ochranu osobnosti, vedené u Krajského soudu v Brně pod sp. zn. 24 C 42/2011, o vyloučení soudců, takto:
+Soudci Vrchního soudu v Olomouci JUDr. Vojtěch Brhel, JUDr. Táňa Šimečková a JUDr. Jaroslav Hikl nejsou vyloučeni z projednávání a rozhodnutí věci vedené u Vrchního soudu v Olomouci pod sp. zn. 1Co 221/2012.
+O d ů v o d n ě n í :
+Ve shora uvedené věci vznesl žalobce v podání ze dne 28. června 2012 námitku podjatosti soudců Vrchního soudu v Olomouci JUDr. Vojtěcha Brhela, JUDr. Táni Šimečkové a JUDr. Jaroslava Hikla. Namítá, že JUDr. Brhel usnesením ze dne 8. února 2012, sp. zn. 1 Co 24/12, nevyhověl jeho odvolání proti zamítavému rozhodnutí Krajského soudu v Brně o jeho žádosti o ustanovení zástupce pro řízení, i když v jiné věci senát soudce Brhela přidělil bezplatného zástupce žalobkyni, která má čistý příjem kolem 16.000,- Kč. Žalobce k tomu dodává, že jako občanský aktivista usiluje o dekomunizaci českých soudů.
+Dotčení soudci JUDr. Vojtěch Brhel, JUDr. Táňa Šimečková a JUDr. Jaroslav Hikl se shodně vyjádřili, že nemají žádný vztah k věci, k účastníkům ani k zástupci a účastníky řízení ani zástupce neznají.
+Podle § 14 odst. 1 o.s.ř. jsou soudci a přísedící vyloučení z projednávání a rozhodnutí věci, jestliže se zřetelem na jejich poměr k věci, k účastníkům nebo k jejich zástupcům je tu důvod pochybovat o jejich nepodjatosti.
+Podle § 14 odst. 4 o.s.ř. důvodem k vyloučení soudce (přísedícího) nejsou okolnosti, které spočívají v postupu soudce (přísedícího) v řízení o projednávané věci nebo v jeho rozhodování v jiných věcech.
+Nejvyšší soud po posouzení důvodů, s nimiž žalobce spojuje vyloučení soudců Vrchního soudu v Olomouci (vyjmenovaných ve výroku tohoto usnesení) z projednávání a rozhodnutí věci, a s přihlédnutím k obsahu spisu, dospěl k závěru, že podmínky ustanovení § 14 odst. 1 o.s.ř. naplněny nejsou. Soudce lze vyloučit z projednávání a rozhodnutí přidělené věci jen z důvodů, které mu brání věc projednat a rozhodnout v souladu se zákonem, nezaujatě a spravedlivě. Důvodem k vyloučení soudce nemohou být okolnosti, které spočívají v postupu soudce v řízení o projednávané věci nebo v jeho rozhodování v jiných věcech (srovnej usnesení Nejvyššího soudu ze dne 25. 1. 2001, sp. zn. 5 Nd 427/2001, uveřejněné v Souboru civilních rozhodnutí a stanovisek Nejvyššího soudu pod č. C 73).
+Nejvyšší soud ČR proto rozhodl, že soudci Vrchního soudu v Olomouci, jimž podle rozvrhu práce přísluší ve věci rozhodnout, JUDr. Vojtěch Brhel, JUDr. Táňa Šimečková a JUDr. Jaroslav Hikl nejsou v souzené věci vyloučeni z projednávání a rozhodnutí věci.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 29. listopadu 2012
+JUDr. Pavel Pavlík, v. r.
+předseda senátu
