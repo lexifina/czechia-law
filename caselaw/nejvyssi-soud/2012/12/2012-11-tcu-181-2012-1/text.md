@@ -1,0 +1,15 @@
+11 Tcu 181/2012-6
+U S N E S E N Í
+Nejvyšší soud České republiky projednal dne 14. prosince 2012 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na přijetí rozhodnutí ve věci občana České republiky, obv. M. M., podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl t a k t o :
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení M. M., rozsudkem Zemského soudu Vídeň - Nové město ze dne 30. 3. 2011, sp. zn. 51 Hv 8/11b, pro pokus o spáchání trestného činu loupeže, za který mu byl uložen podle § 15, § 142 odst. 1 rakouského tr. zákona, trest odnětí svobody v trvání 2 a ½ (dva a půl) roku, hledí jako na odsouzení soudem České republiky.
+O d ů v o d n ě n í :
+Rozsudkem Zemského soudu Vídeň-Nové město ze dne 30. 3. 2011, sp. zn. 51 Hv 8/11b byl obv. M. M. uznán vinným ze spáchání výše uvedeného trestného činu a následně odsouzen k trestu odnětí svobody v trvání 2 a ½ (dvou a půl) let, za současného zrušení prominutí podmíněných trestů uložených Zemským soudem Eisenstadt dne 11. 10. 2006, sp. zn. 11 Hv 129/06a a dne 16. 2. 2009, sp. zn. 8 Hv 212/08p, jakož i Zemským soudem pro věci trestní Vídeň dne 7. 12. 2010, sp. zn. 113 Hv 45/2010f.
+Podle skutkových zjištění Zemského soudu ve Vídni - Nové město obv. M. použil násilí proti Mgr. I. P. tím, že ji několikrát silně udeřil, přivodil pád a následně se jí pokusil odcizit její movité věci - dvě tablety Substitolu v celkové hodnotě 6,80 € s úmyslem se neoprávněně obohatit.
+Ministerstvo spravedlnosti České republiky podalo dopisem pod sp. zn. 680/2011-MOT-T/9 ze dne 14. 11. 2012 Nejvyššímu soudu České republiky (dále jen „Nejvyšší soud“) návrh na přijetí rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů (dále jen „zákon“). Tento návrh byl doručen Nejvyššímu soudu dne 20. 11. 2012.
+Podle § 4a odst. 3 může Nejvyšší soud na návrh Ministerstva spravedlnosti ČR rozhodnout, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Nejvyšší soud věc přezkoumal a shledal, že odsouzený M. M. je občanem České republiky, byl odsouzen cizozemským soudem a odsouzení se týká skutků, které vykazují znaky trestného činu i podle příslušných právních předpisů České republiky (trestný čin loupeže podle § 173 tr. zákoníku). Pokud jde o druh a závažnost uděleného trestu, ze spisového materiálu vyplynulo, že odsouzenému byl uložen trest, který odpovídá závažnosti spáchaného trestného činu.
+Z toho vyplývá, že jsou splněny všechny podmínky pro to, aby se na výše uvedené odsouzení obv. M. M. hledělo jako na odsouzení soudem České republiky, a proto Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 14. prosince 2012
+Předseda senátu:
+JUDr. Stanislav Rizman
