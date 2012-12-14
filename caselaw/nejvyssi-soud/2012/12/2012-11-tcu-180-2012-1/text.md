@@ -1,0 +1,22 @@
+11 Tcu 180/2012-7
+U S N E S E N Í
+Nejvyšší soud České republiky projednal dne 14. prosince 2012 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na přijetí rozhodnutí ve věci občana České republiky, obv. F. V. , podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl t a k t o :
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení F. V., rozsudkem Okresního soudu v Hannoveru ze dne 15. 3. 2011, sp. zn. 241 Ls 2393 Js 69535/10 (415/10), pro spáchání trestného činu krádeže, z toho v jednom případě v jednotě činu s pozměňováním listin za který mu byl uložen podle § 242 odst. 1, § 243 odst. 1 věta 2 bod 1, 3, § 267 odst. 1, § 52, § 53 německého tr. zákona trest odnětí svobody v trvání 2 (dva) roky a 3 (tři) měsíce, hledí jako na odsouzení soudem České republiky.
+O d ů v o d n ě n í :
+Rozsudkem Okresního soudu v Hannoveru ze dne 15. 3. 2011, sp. zn. 241 Ls 2393 Js 69535/10 (415/10) byl obv. F. V. uznán vinným ze spáchání výše uvedeného trestného činu a následně odsouzen k trestu odnětí svobody v trvání 2 (dvou) let a 3 (tří) měsíců.
+Podle skutkových zjištění Okresního soudu v Hannoveru se obv. V. v období mezi 23. 4. a 11. 5. 2010 celkem osmkrát jinému odcizil cizí movité věci s úmyslem si tyto věci protiprávně přivlastnit pro sebe nebo třetí osobu, přičemž obviněný se v případech 1 - 4 vloupal do budov, místností či nějakého uzavřeného prostoru, ve všech případech jednal výdělečně a v jednom případě k zastření právního styku vyrobil nepravou listinu a tu použil. Konkrétně:
+1. mezi 23. 4. a 11. 5. 2010 vypáčil osobní vozidlo VW Golf, zaparkované řádně v H., připevnil na ně reg. zn. ..., přidělenou jinému řádně přihlášenému osobnímu vozidlu a odjel s osobním vozem m. j. do O., kde ho nechal stát,
+2. dne 28. 4. 2010 se vloupal do obytného automobilu Peugeot, reg. zn. ...I. K., řádně zaparkovaného v W. před domem č. ..., a odcizil z jeho interiéru cestovní tašku s oblečením, dva šroubováky a dva ploché líče v hodnotě cca 100,- €,
+3. dne 28. 4. 2010 se vloupal do osobního vozu VW Polo, reg. zn. ... B. P., řádně zaparkovaného ve W. před domem č. ... a odcizil z jeho interiéru dámskou kabelku s papíry a 50,- € v hotovosti,
+4. mezi 27. 4. a 28. 4. 2010 vnikl do zahrádkářské kolonie S. v P.-S.-W. na pozemky s pěti zahradními domky, aby si odnesl hodnotné předměty, konkrétně odnesl tyto:
+a) ze zahradního domku K.-H. W. cédéčka a HiFi zařízení,
+b) z pozemku se zahradním domkem M. K. vozík se zahradní hadicí a slunečník v hodnotě 150,- €,
+c) z pozemku se zahradním domkem M. F. zahradnické kolečko v hodnotě 100 €, židle v hodnotě cca 300,- €,
+d) z pozemku se zahradním domkem H. K. vodní čerpadlo a rybářské pruty v hodnotě cca 500,- €.
+Ministerstvo spravedlnosti České republiky podalo dopisem pod sp. zn. 1362/2011-MOT-T/9 ze dne 13. 11. 2012 Nejvyššímu soudu České republiky (dále jen „Nejvyšší soud“) návrh na přijetí rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů (dále jen „zákon“). Tento návrh byl doručen Nejvyššímu soudu dne 20. 11. 2012.
+Podle § 4a odst. 3 může Nejvyšší soud na návrh Ministerstva spravedlnosti ČR rozhodnout, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Nejvyšší soud věc přezkoumal a shledal, že odsouzený F. V. je občanem České republiky, byl odsouzen cizozemským soudem a odsouzení se týká skutků, které vykazují znaky trestného činu i podle příslušných právních předpisů České republiky (trestný čin krádeže podle § 205 a trestný čin padělání a pozměnění veřejné listiny podle § 348 tr. zákoníku). Pokud jde o druh a závažnost uděleného trestu, ze spisového materiálu vyplynulo, že odsouzenému byl uložen trest odpovídající závažnosti předmětného trestného činu.
+Z toho vyplývá, že jsou splněny všechny podmínky pro to, aby se na výše uvedené odsouzení obv. F. V. hledělo jako na odsouzení soudem České republiky, a proto Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 14. prosince 2012
+Předseda senátu: JUDr. Stanislav Rizman
