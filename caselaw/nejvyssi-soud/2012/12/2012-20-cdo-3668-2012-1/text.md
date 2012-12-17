@@ -1,0 +1,15 @@
+20 Cdo 3668/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové, Ph.D. a soudců JUDr. Olgy Puškinové a JUDr. Vladimíra Mikuška ve věci výkonu rozhodnutí oprávněné V. F., proti povinné Best 4 Home s. r. o. „v likvidaci“, zaniklé 30. 10. 2012, naposledy se sídlem v Ludgeřovicích, Nad Tratí 744/5, identifikační číslo osoby 27607119, pro 29.990,- Kč s příslušenstvím, prodejem movitých věcí, vedené u Okresního soudu v Opavě pod sp. zn. 21 E 309/2011, o dovolání oprávněné proti usnesení Krajského soudu v Ostravě ze dne 28. 6. 2012, č. j. 10 Co 325/2012-48, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Krajský soud napadeným rozhodnutím potvrdil usnesení ze dne 7. 3. 2012, č. j. 21 E 309/2011-38, kterým okresní soud zastavil výkon rozhodnutí prodejem movitých věcí, nařízený svým usnesením z 30. 5. 2011, č. j. 21 E 309/2011-13 a žádnému z účastníků nepřiznal právo na náhradu nákladů řízení. Krajský soud žádnému z účastníků nepřiznal právo na náhradu nákladů odvolacího řízení.
+Z ustanovení § 103 a § 104 odst. 1 věty první, ve spojení s § 243c odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů (dále jen „o. s. ř.“), vyplývá, že za dovolacího řízení přihlíží dovolací soud k tomu, zda jsou splněny podmínky, za nichž může rozhodnout ve věci samé (podmínky řízení); jde-li o takový nedostatek podmínky řízení, který nelze odstranit, dovolací řízení zastaví. Jestliže účastník ztratí po zahájení dovolacího řízení způsobilost být účastníkem řízení dříve, než bylo dovolací řízení skončeno, posoudí dovolací soud podle povahy věci, zda v řízení může pokračovat. Neumožňuje-li povaha věci v řízení pokračovat, dovolací soud dovolací řízení zastaví (§ 107 odst. 1 věta první a odst. 5 věta první ve spojení s § 243c odst. 1 o. s. ř.).
+Ze spisu se podává, že dovolací řízení bylo zahájeno dne 4. 10. 2012 (§ 82 odst. 1 ve spojení s § 243c odst. 1 o. s. ř.). Z výpisu z obchodního rejstříku, vedeného Krajským soudem v Ostravě, oddílu C, vložky 36082, dovolací soud zjistil, že povinná společnost byla vymazána z obchodního rejstříku ke dni 30. 10. 2012 na návrh likvidátora poté, co Krajský soud v Ostravě usnesením z 14. 6. 2012, č. j. KSOS 25 INS 11963/2012-A11, které nabylo právní moci 30. 6. 2012, zamítl insolvenční návrh pro nedostatek majetku dlužníka.
+Protože povinná zanikla bez právního nástupce ve smyslu § 107 odst. 3 o. s. ř., nezbylo dovolacímu soudu, než dovolací řízení podle ustanovení § 107 odst. 5 věty první, ve spojení s § 243c odst. 1 o. s. ř. zastavit. Proto se dovolací soud již ani nezabýval otázkou povinného zastoupení dovolatelky v dovolacím řízení.
+Výrok o nákladech řízení se opírá o ustanovení § 243b odst. 5 větu první, § 224 odst. 1 a § 146 odst. 1 písm. c) o. s. ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 17. prosince 2012
+JUDr. Miroslava Jirmanová, Ph.D., v. r.
+předsedkyně senátu
