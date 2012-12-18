@@ -1,0 +1,17 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY
+29 Cdo 805/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Šuka a soudců JUDr. Filipa Cilečka a doc. JUDr. Ivany Štenglové v právní věci žalobce J. K., zastoupeného JUDr. Zdeňkem Veberem, advokátem, se sídlem v Plzni, Purkyňova 10, PSČ 301 00, proti žalovaným 1) J. V., 2) společnosti EMMKA spol. s r.o., se sídlem v Klatovech, Vídeňská 190/1, PSČ 339 01, identifikační číslo osoby 16735439, 3) společnosti ELIKA spol. s r.o., se sídlem v Horažďovicích, Strakonická 363, PSČ 341 01, identifikační číslo osoby 00870081, 4) V. B., a 5) E. B., všem zastoupeným JUDr. Evou Kabelkovou, advokátkou, se sídlem v Plzni - Východním Předměstí, Kamenická 1, PSČ 301 00, o určení vlastnictví k nemovitostem, vedené u Okresního soudu v Klatovech pod sp. zn. 7 C 175/2007, o dovolání žalobce proti rozsudku Krajského soudu v Plzni ze dne 16. září 2010, č. j. 14 Co 639/2009-373, takto:
+I. Dovolání se odmítá.
+II. Žalobce je povinen zaplatit žalovaným k ruce společné a nerozdílné na náhradě nákladů dovolacího řízení 8.100,- Kč, do tří dnů od právní moci tohoto rozhodnutí, k rukám jejich zástupkyně.
+O d ů v o d n ě n í:
+V záhlaví označeným rozsudkem potvrdil Krajský soud v Plzni k odvolání žalobce rozsudek ze dne 20. května 2009, č. j. 7 C 175/2007-322, jímž Okresní soud v Klatovech zamítl žalobu o určení, že vlastnicí ve výroku specifikovaných nemovitostí (dále jen „sporné nemovitosti“) je druhá žalovaná.
+Proti rozhodnutí odvolacího soudu podal žalobce dovolání, jež Nejvyšší soud podle ustanovení § 243b odst. 5, § 218 písm. c/ zákona č. 99/1963 Sb., občanského soudního řádu (dále též jen „o. s. ř.“), odmítl jako nepřípustné.
+Učinil tak proto, že dovolání, které není přípustné podle § 237 odst. 1 písm. a/ nebo písm. b/ o. s. ř., Nejvyšší soud neshledal – s ohledem na závěry, jež učinil v rozsudku ze dne 24. června 2008, sp. zn. 29 Odo 1012/2006 (uveřejněném v časopise Soudní judikatura číslo 2, ročník 2009, pod číslem 26) a usnesení ze dne 18. května 2010, sp. zn. 29 Cdo 1885/2009 (dostupném na webových stránkách Nejvyššího soudu) ve věcech, jejichž účastníkem byl i dovolatel – přípustným ani podle ustanovení § 237 odst. 1 písm. c/ o. s. ř.
+Výrok o nákladech řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalobce bylo odmítnuto a žalovaným vzniklo právo na náhradu účelně vynaložených nákladů. Ty sestávají z odměny za zastupování advokátkou za řízení v jednom stupni (dovolací řízení), jejíž výše se určuje podle vyhlášky č. 484/2000 Sb., ve znění účinném do 29. února 2012 (dále jen „vyhláška“), a z náhrady hotových výdajů. Podle ustanovení § 8, § 10 odst. 3, § 14 odst. 1, § 15 a § 19a vyhlášky činí sazba odměny 13.000,- Kč. Jelikož zástupkyně žalovaných učinila v dovolacím řízení pouze jediný úkon právní služby (vyjádření k dovolání), snižuje se takto stanovená odměna o 50 %, tj. na částku 6.500,- Kč. Spolu s náhradou hotových výdajů dle § 13 odst. 3 vyhlášky č. 177/1996 Sb. ve výši 300,- Kč a náhradou za 20 % daň z přidané hodnoty (§ 137 odst. 3 o. s. ř.) ve výši 1.300,- Kč tak dovolací soud přiznal žalovaným k tíži dovolatele celkem 8.100,- Kč.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+Nesplní-li povinný, co mu ukládá vykonatelné rozhodnutí, mohou se oprávnění domáhat výkonu rozhodnutí.
+V Brně dne 18. prosince 2012
+JUDr. Petr Šuk
+předseda senátu
