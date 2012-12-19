@@ -1,0 +1,19 @@
+25 Nd 356/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Roberta Waltra a soudců JUDr. Marty Škárové a JUDr. Petra Vojtka v právní věci žalobkyně Komerční banky, a.s., IČO 45317054, se sídlem Praha 1, Na Příkopě 33/969, zastoupené JUDr. Jiřím Vlasákem, advokátem se sídlem Praha 7, Jankovcova 1518/2, proti žalovaným: 1) M. V., zastoupenému Mgr. Janem Farkačem, advokátem se sídlem Brno, Střední 595/26, a 2) M. L., o zaplacení 82.060,70 Kč s příslušenstvím, vedené u Městského soudu v Praze pod sp. zn. 56 Cm 79/2011, o návrhu žalovaného 1) na přikázání věci Krajskému soudu v Brně z důvodu vhodnosti podle § 12 odst. 2 o. s. ř., takto:
+Věc vedená u Městského soudu v Praze pod sp. zn. 56 Cm 79/2011 se nepřikazuje k projednání a rozhodnutí Krajskému soudu v Brně.
+Odůvodnění:
+Žalobkyně se návrhem na vydání směnečného platebního rozkazu, podaným u Městského soudu v Praze dne 3. 2. 2011, domáhá po žalovaných plnění ze směnky v částce 82.060,70 Kč s příslušenstvím.
+V průběhu řízení, v němž Městský soud v Praze rozsudkem ze dne 1. června 2011, č.j. 56 Cm 79/2011-24, ponechal v platnosti směnečný platební rozkaz č.j. 56 Cm 79/2011-8 vydaný Městským soudem v Praze dne 10. 2. 2011 vůči žalovanému 1) a nepřiznal žádnému z účastníků právo na náhradu nákladů námitkového řízení. Proti tomuto rozhodnutí podal žalovaný 1) odvolání.
+Městský soud v Praze věc předložil Nejvyššímu soudu s návrhem žalovaného 1) na přikázání věci jinému soudu z důvodu vhodnosti podle § 12 odst. 2 o. s. ř., a to Krajskému soudu v Brně.
+Návrh odůvodňuje žalovaný 1) tím, že v Praze nemá trvalé ani přechodné bydliště, nemá zde své stálé ani příležitostné pracoviště, nepodniká zde, a ani zde nemá žádný majetek, žalovanému 1) tak vznikají v řízení zcela nepřiměřené komplikace, související zejména s ekonomickou stránkou věci a s hospodárností řízení.
+Žalobkyně ve vyjádření k návrhu uvádí, že v případě změny místní příslušnosti by se jen zbytečně zvýšily náklady za cestovné a promeškaný čas.
+Podle § 12 odst. 2 o. s. ř. věc může být přikázána jinému soudu téhož stupně z důvodu vhodnosti.
+Podle § 12 odst. 3 o. s. ř. o přikázání věci rozhoduje soud, který je nejblíže společně nadřízen příslušnému soudu a soudu, jemuž má být věc přikázána.
+Důvod vhodnosti pro přikázání věci jinému soudu téhož stupně ve smyslu ustanovení § 12 odst. 2 o. s. ř. představují takové okolnosti, které umožní hospodárnější, rychlejší a zejména po skutkové stránce spolehlivější a důkladnější projednání věci jiným než místně příslušným soudem. Přitom je ale třeba mít na zřeteli, že obecná místní příslušnost soudu, který má věc projednat, je zásadou základní, a případná delegace příslušnosti jinému soudu je toliko výjimkou z této zásady, kterou je třeba – jako výjimku – vykládat restriktivně (viz např. nález Ústavního soudu ze dne 15. 11. 2001, sp. zn. I. ÚS 144/2000).
+Z tohoto pohledu jsou skutečnosti tvrzené žalovaným 1) nedostatečné a delegaci věci jinému soudu (Krajskému soudu v Brně) neodůvodňují. To platí jak o okolnosti, že žalovaný 1) nemá žádný vztah (osobní, pracovní) k místu, kde je rozhodováno (což není nijak výjimečné), tak o tvrzené skutečnosti, že žalovanému 1) vznikají v řízení nepřiměřené komplikace související se zvýšenými náklady; z nich lze usoudit tolik, že projednání věci Krajským soudem v Brně by snad mohlo být pro žalovaného 1) komfortnější, nikoliv však ve svém výsledku (posuzováno se zřetelem k zájmům všech účastníků řízení) hospodárnější a rychlejší, a to i s přihlédnutím ke skutečnosti, že Městským soudem v Praze bylo již ve věci rozhodováno, přičemž proti předmětnému rozhodnutí bylo žalovaným 1) podáno odvolání.
+Proto Nejvyšší soud – jako soud nejblíže společně nadřízený oběma dotčeným soudům (§ 12 odst. 3 o. s. ř.) – rozhodl, že se věc Krajskému soudu v Brně nepřikazuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 19. prosince 2012
+JUDr. Robert Waltr, v. r.
+předseda senátu
