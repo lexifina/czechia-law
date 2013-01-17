@@ -1,0 +1,21 @@
+30 Cdo 3727/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Vrchy a soudců JUDr. Pavla Pavlíka a JUDr. Lubomíra Ptáčka, Ph.D., v právní věci žalobkyně PILI spol. s.r.o., se sídlem v Litoměřicích, Křižíkova 713/3, identifikační číslo osoby 49101021, zastoupené JUDr. Zuzanou Kudrnovou, advokátkou se sídlem v Žitenicích, Litoměřická 24, proti žalované RAVEL spol. s. r. o., se sídlem v Ústí nad Labem, Textilní 191/1, identifikační číslo osoby 47282312, zastoupené JUDr. Rostislavem Sochorem, advokátem se sídlem v Ústí nad Labem, Klíšská 1432/18, o nařízení předběžného opatření, vedené u Okresního soudu v Ústí nad Labem pod sp. zn. 42 Nc 515/2012, o dovolání žalobkyně proti usnesení Krajského soudu v Ústí nad Labem ze dne 27. srpna 2012, č.j. 9 Co 724/2012-75, takto:
+I. Dovolání žalobkyně se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení
+S t r u č n é o d ů v o d n ě n í
+(§ 243c odst. 2 o. s. ř.):
+Úvodem Nejvyšší soud České republiky (dále již „Nejvyšší soud“) předesílá, že se zřetelem k době vydání dovoláním napadeného (v záhlaví označeného) usnesení Krajského soudu v Ústí nad Labem (dále již „odvolací soud“) se uplatní pro dovolací řízení – v souladu s bodem 7. článku II., části první, přechodných ustanovení zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony – občanský soudní řád ve znění účinném do 31. prosince 2012 (dále již „o. s. ř.“).
+Okresní soud v Ústí nad Labem (dále „soud prvního stupně„) usnesením ze dne 26. dubna 2012, č. j. 42 Nc 515/2012-25, nařídil (před zahájením řízení) předběžné opatření, jímž zakázal žalované jakékoliv nakládání s nemovitostmi specifikovanými ve výroku I. rozhodnutí, a současně výrokem II. rozhodl o povinnosti žalované zaplatit soudní poplatek.
+Odvolací soud v záhlaví citovaným usnesením změnil usnesení soudu prvního stupně tak, že návrh na nařízení předběžného opatření zamítl a rozhodl o náhradě nákladů řízení.
+Proti usnesení odvolacího soudu podala žalobkyně dovolání.
+Žalovaná navrhla odmítnutí dovolání jako bezdůvodné nebo jeho zamítnutí. Souhlasila se závěry odvolacího soudu a polemizovala, resp. nesouhlasila s dovolací argumentací žalobkyně.
+Dovolání není přípustné.
+Podle § 236 odst. 1 o. s. ř., lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Dovolání proti rozhodnutí odvolacího soudu, jímž bylo změněno rozhodnutí soudu prvního stupně, je přípustné za naplnění předpokladů uvedených v § 237 odst. 1 písm. a) vyjma věcí uvedených v § 237 odst. 2, a dále uvedených v § 238 odst. 1, § 238a odst. 1 a § 239 odst. 2 písm. b) o. s. ř. Dovolání proti usnesení odvolacího soudu, kterým bylo změněno usnesení soudu prvního stupně o předběžném opatření, nelze podřadit pod žádný z případů uvedených v § 238 odst. 1, § 238a odst. 1 a § 239 odst. 2 písm. b) o. s. ř., kdy zákon dovolání výslovně připouští. Přípustnost dovolání v dané věci nelze vyvodit ani z § 237 odst. 1 písm. a) o. s. ř., podle kterého předpokladem přípustnosti dovolání proti usnesení odvolacího soudu, jímž bylo změněno rozhodnutí soudu prvního stupně je, že jím bylo rozhodnuto ve věci samé. Rozhodnutí soudu prvního stupně o nařízení předběžného opatření však rozhodnutím ve věci samé není. Dovolací soud v tomto směru odkazuje na právní závěr vyplývající z jeho rozhodnutí – rozsudku ze dne 27. listopadu 2001, sp. zn. 22 Cdo 1925/2001, publikovaného pod C 867, v Souboru civilních rozhodnutí Nejvyššího soudu vydávaného nakladatelstvím C. H. Beck, podle kterého platí, že proti rozhodnutí odvolacího soudu o předběžném opatření není dovolání přípustné.
+Dovolací soud proto podle § 243b odst. 5 a § 218 odst. 1 písm. c) o. s. ř. dovolání jako nepřípustné odmítl.
+Výrok o náhradě nákladů dovolacího řízení vychází z toho, že dovolání žalobkyně bylo odmítnuto a náklady žalované nelze považovat za účelně vynaložené, neboť navrhla, aby dovolání bylo odmítnuto pro bezdůvodnost nebo zamítnuto, ač postačilo namítnout pouze jeho nepřípustnost ze zákona (§ 243b odst. 5, § 224 odst. 1, § 151 odst. 1 a § 142 odst. 1 o. s. ř. a contrario).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 17. ledna 2013
+JUDr. Pavel Vrcha, v. r.
+předseda senátu
