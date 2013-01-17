@@ -1,0 +1,14 @@
+30 Cdo 2448/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Vrchy a soudců JUDr. Pavla Pavlíka a JUDr. Lubomíra Ptáčka, Ph.D., v právní věci žalobkyně České půjčovny, a. s., se sídlem v Praze 4, Branická 43, identifikační číslo osoby 26509369, zastoupené JUDr. Michalem Doležalem, advokátem se sídlem v Praze 2, Helénská 1799/4, proti žalovaným 1) Hlavnímu městu Praha, se sídlem v Praze 1, Mariánské nám. 2, identifikační číslo osoby 00064581, zastoupenému JUDr. Janem Mikšem, advokátem se sídlem v Praze 2, Na Slupi 15, a 2) Starochodovské a. s., se sídlem v Praze 4, Šebkova 1241/7, identifikační číslo osoby 24685852, zastoupené Mgr. Josefem Březinou, advokátem se sídlem v Praze 2, Americká 35, o určení vlastnictví, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 57 C 197/2010, o dovolání žalobkyně proti rozsudku Městského soudu v Praze, ze dne 29. listopadu 2011, č.j. 12 Co 384/2011-153, takto:
+I. Dovolání žalobkyně se odmítá.
+II. Žádný z účastníků nemá právo na náhradu dovolacího řízení.
+O d ů v o d n ě n í :
+Úvodem Nejvyšší soud České republiky (dále již „Nejvyšší soud“) předesílá, že se zřetelem k době vydání dovoláním napadeného rozsudku odvolacího soudu se uplatní pro dovolací řízení – v souladu s bodem 7. článku II., části první, přechodných ustanovení zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony – občanský soudní řád ve znění účinném do 31. prosince 2012 (dále již „o. s. ř.“).
+Dovolání žalobkyně proti v záhlaví citovanému rozsudku Městského soudu v Praze, kterým byl potvrzen rozsudek Obvodního soudu pro Prahu 4 ze dne 11. dubna 2011, č.j., 57 C 197/2010-95, ve věci samé, není přípustné podle ustanovení § 237 odst.1 písm. b) o. s. ř. a nebylo shledáno přípustným ani podle ustanovení § 237 odst.1 písm. c) o. s. ř., neboť napadené rozhodnutí bylo posouzeno v souladu s ustanoveními § 35 a § 36 zák. č. 131/2000 Sb., o hlavním městě v Praze a s judikaturou dovolacího soudu (srov. např. usnesení Nejvyššího soudu ze dne 5. 5. 2010, sp. zn. 28 Cdo 1383/2010, jež je veřejnosti k dispozici na webových stránkách Nejvyššího soudu www.nsoud.cz).
+Nejvyšší soud proto dovolání žalované podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení je důsledkem aplikace § 243b odst. 5 věty první, § 224 odst. 1, § 151 a § 146 odst. 1 písm. c) o. s. ř. per analogiam, neboť žalobkyně s ohledem na výsledek tohoto dovolacího řízení nemá na náhradu nákladů dovolacího řízení právo a žalovaným podle obsahu spisu v tomto řízení žádné účelně vynaložené náklady nevznikly, takže podmínky pro aplikaci § 146 odst. 3 o. s. ř. v daném případě splněny nebyly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 17. ledna 2013
+JUDr. Pavel Vrcha, v. r.
+předseda senátu
