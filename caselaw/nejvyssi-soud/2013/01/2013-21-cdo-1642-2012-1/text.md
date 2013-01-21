@@ -1,0 +1,14 @@
+21 Cdo 1642/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Novotného a soudců JUDr. Ljubomíra Drápala a JUDr. Mojmíra Putny v právní věci žalobce F. F., proti žalované České republice – Ministerstvu vnitra se sídlem v Praze 7, Nad Štolou č. 936/3, IČO 00007064, o mimosoudní rehabilitaci v oblasti pracovněprávních vztahů, vedené u Obvodního soudu pro Prahu 7 pod sp. zn. 7 C 161/2006, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 30. července 2010 č.j. 69 Co 481/2007-90 takto:
+I. Řízení o dovolání žalobce se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst. 2 o.s.ř.):
+Proti rozsudku Městského soudu v Praze ze dne 30.7.2010 č.j. 69 Co 481/2007-90, kterým byl potvrzen rozsudek Obvodního soudu pro Prahu 7 ze dne 4.4.2007 č.j. 7 C 161/2006-29 ve věci samé, tj. ve výroku, jímž soud prvního stupně zamítl žalobu, „kterou se žalobce domáhal určení, že důvodem skončení jeho služebního poměru k žalované v roce 1974 byly okolnosti uvedené v § 21 odst. 1, písm. e) zákona č. 87/1991 Sb., v platném znění“, podal žalobce dovolání.
+Nejvyšší soud České republiky věc projednal podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31.12.2012 (dále jen „o.s.ř“), neboť dovoláním je napaden rozsudek odvolacího soudu, který byl vydán před 1.1.2013 (srov. čl. II, bod 7 zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony).
+Žalobce, který je fyzickou osobou, nebyl při podání dovolání proti rozsudku odvolacího soudu zastoupen advokátem, dovolání nebylo advokátem sepsáno a nebylo prokázáno (a ani tvrzeno), že by žalobce měl právnické vzdělání. Protože žalobce přes výzvu soudu prvního stupně usnesením ze dne 12.10.2011 č.j. 7 C 161/2006-98 (která mu byla doručena dne 1.3.2012), a ani poté, co mu usnesením soudu prvního stupně ze dne 6.4.2012 č.j. 7 C 161/2006-103 byla poskytnuta dodatečná lhůta ke zvolení advokáta a podání řádného dovolání, neodstranil nedostatek podmínky dovolacího řízení podle ustanovení § 241 o.s.ř., ačkoliv byl o důsledcích své nečinnosti poučen, Nejvyšší soud České republiky řízení o dovolání žalobce - aniž by se mohl zabývat dalšími okolnostmi - podle ustanovení § 241b odst. 2 a § 104 odst. 2 věty třetí o.s.ř. zastavil.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 části věty před středníkem o.s.ř., neboť žalobce s ohledem na výsledek řízení nemá na náhradu svých nákladů právo a žalované v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 21. ledna 2013
+JUDr. Zdeněk Novotný, v. r.
+předseda senátu
