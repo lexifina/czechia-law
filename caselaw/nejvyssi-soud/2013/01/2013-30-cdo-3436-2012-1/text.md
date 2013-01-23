@@ -1,0 +1,15 @@
+30 Cdo 3436/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Vrchy a soudců JUDr. Pavla Pavlíka a JUDr. Lubomíra Ptáčka, Ph.D., v právní věci žalobce A. J., zastoupeného Mgr. Janem Hrazdirou, advokátem Advokátní kanceláře HKDW Legal, s. r. o., se sídlem v Praze 1, Na Příkopě 15, proti žalované BAU-STAV a. s., se sídlem v Karlových Varech, Loketská 344/12, identifikační číslo osoby 14705877, zastoupené JUDr. Pavlem Tomkem, advokátem se sídlem v Karlových Varech, Polská 4, o určení vlastnického práva k nemovitosti a o vzájemné žalobě o určení vlastnického práva k nemovitosti, vedené u Okresního soudu v Karlových Varech pod sp. zn. 19 C 134/2010, o dovolání žalobce proti rozsudku Krajského soudu v Plzni ze dne 12. dubna 2012, č.j. 56 Co 500/2011-541, takto:
+I. Dovolání žalobce se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění
+(§ 243c odst. 2 o.s.ř.):
+Úvodem Nejvyšší soud České republiky (dále již „Nejvyšší soud“ nebo „dovolací soud“) předesílá, že se zřetelem k době vydání dovoláním napadeného rozsudku odvolacího soudu se uplatní pro dovolací řízení – v souladu s bodem 7. článku II., části první, přechodných ustanovení zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony – občanský soudní řád ve znění účinném do 31. prosince 2012 (dále již „o. s. ř.“).
+Dovolací soud konstatuje, že dovolání žalobce proti v záhlaví citovanému rozsudku Krajského soudu v Praze, kterým byl potvrzen rozsudek Okresního soudu v Karlových Varech ze dne 25. července 2011, č.j. 19 C 134/2010-437, ve věci samé, není přípustné podle ustanovení § 237 odst.1 písm. b) o. s. ř. a nebylo shledáno přípustným ani podle ustanovení § 237 odst.1 písm. c) o. s. ř., neboť rozhodnutí odvolacího soudu ve věci samé nemá po právní stránce zásadní význam ve smyslu ustanovení § 237 odst. 3 o.s.ř. Napadené rozhodnutí bylo posouzeno v souladu s ustálenou judikaturou dovolacího soudu (srov. např. rozsudek Vrchního soudu ze dne 31. ledna 1994, sp. zn. 3 Cdo 95/92, uveřejněný v Právních rozhledech č. 4/1994, rozsudek Nejvyššího soudu ze dne 5. února 2002, sp. zn. 22 Cdo 2534/2000, uveřejněný v Souboru civilních rozhodnutí Nejvyššího soudu, vydávaného nakladatelstvím C. H. Beck, pod C 1008, a rozsudek Nejvyššího soudu ze dne 30. 9. 1998, sp. zn. 33 Cdo 111/98, publikovaný v Soudních rozhledech č. 12/1998).
+Nejvyšší soud proto dovolání žalobce podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení je důsledkem aplikace § 243b odst. 5 věty první, § 224 odst. 1, § 151 a § 146 odst. 1 písm. c) o. s. ř. per analogiam, neboť žalobce s ohledem na výsledek tohoto dovolacího řízení nemá na náhradu nákladů dovolacího řízení právo a žalované podle obsahu spisu v tomto řízení žádné účelně vynaložené náklady nevznikly, takže podmínky pro aplikaci § 146 odst. 3 o. s. ř. v daném případě splněny nebyly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 23. ledna 2013
+JUDr. Pavel Vrcha, v. r.
+předseda senátu
