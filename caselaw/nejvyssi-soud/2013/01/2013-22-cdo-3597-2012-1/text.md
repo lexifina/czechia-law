@@ -1,0 +1,19 @@
+22 Cdo 3597/2012
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy Mgr. Michala Králíka, Ph.D., a soudců JUDr. Jiřího Spáčila, CSc., a Mgr. Davida Havlíka ve věci žalobců 1) A. N., 2) A. N., obou bytem v K., proti žalovaným a) Ing. I. N., b) A. N., oběma bytem v K., o určení právního vztahu, vedené u Okresního soudu ve Zlíně pod sp. zn. 10 C 157/2011, o dovolání žalobců proti usnesení Vrchního soudu v Olomouci ze dne 31. března 2011, č. j. Ncd 7/2011-85, takto:
+Řízení o dovolání žalobců proti usnesení Vrchního soudu v Olomouci ze dne 31. března 2011, č. j. Ncd 7/2011-85, se zastavuje.
+O d ů v o d n ě n í :
+Podle § 243c odst. 2 občanského soudního řádu (dále jen „o. s. ř.“) v odůvodnění usnesení, jímž bylo dovolání odmítnuto nebo jímž bylo zastaveno dovolací řízení, dovolací soud pouze stručně vyloží důvody, pro které je dovolání opožděné, nepřípustné, zjevně bezdůvodné nebo trpí vadami, jež brání pokračování v dovolacím řízení, nebo pro které muselo být dovolací řízení zastaveno.
+Vrchní soud v Olomouci usnesením ze dne 31. března 2011, č. j. Ncd 7/2011-85, přikázal věc vedenou u Okresního soudu v Kroměříži pod sp. zn. 16 C 367/2010 z důvodu nutnosti k projednání a rozhodnutí Okresnímu soudu ve Zlíně.
+Žalobci podali proti shora uvedenému usnesení Vrchního soudu v Olomouci ,,odvolání“ ze dne 5. května 2011, které adresovali „Okresnímu soudu v Kroměříži prostřednictvím Nejvyššího soudu“. Své podání doplnili ,,dovoláním“ ze dne 15. června 2011, které rovněž adresovali „Okresnímu soudu v Kroměříži prostřednictvím Nejvyššího soudu“.
+Podle článku II. – Přechodná ustanovení, bodu 7. zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, účinného od 1. ledna 2013, Dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona se projednají a rozhodnou podle dosavadních právních předpisů, s výjimkou § 243c odst. 3 zákona, který se užije ve znění účinném ode dne nabytí účinnosti tohoto zákona.
+Protože napadené rozhodnutí Vrchního soudu v Praze bylo vydáno dne 31. března 2011, projednal a rozhodl dovolací soud o dovolání dovolatelů podle občanského soudního řádu ve znění účinném do 31. prosince 2012.
+Podle § 12 odst. 1 o. s. ř. nemůže-li příslušný soud o věci jednat, protože jeho soudci jsou vyloučeni (§ 14, § 15 odst. 2 a § 16a), musí být věc přikázána jinému soudu téhož stupně.
+Podle § 12 odst. 3 o. s. ř. o přikázání věci rozhoduje soud, který je nejblíže společně nadřízen příslušnému soudu a soudu, jemuž má být věc přikázána.
+Pojem „nadřízený soud“, je-li použit občanským soudním řádem k určení věcné příslušnosti soudu, vychází z organizačních vztahů uvnitř soustavy soudů, a nikoliv ze vztahů instančních (srovnej též stanovisko pléna Nejvyššího soudu ze dne 27. června 1996, Plsn 1/96, uveřejněné pod číslem 48/1996 Sbírky soudních rozhodnutí a stanovisek).
+Ačkoliv žalobci své podání označili ,,odvolání“, posléze pak ,,dovolání“, v daném kontextu nepřichází řádný i mimořádný opravný prostředek proti usnesení, kterým vrchní soud s odkazem na § 12 odst. 1 o. s. ř. rozhodl o přikázání věci z důvodu nutnosti, v úvahu vzhledem ke skutečnosti, že jde o rozhodnutí společně nadřízeného soudu, a nikoli o rozhodnutí odvolacího soudu nebo soudu prvního stupně.
+Nedostatek funkční příslušnosti k projednání dovolání je neodstranitelným nedostatkem podmínky řízení (srovnej též usnesení Nejvyššího soudu ze dne 31. července 1997, sp. zn. 2 Cdon 30/97, uveřejněné v časopise Soudní judikatura č. 14, ročník 1997, pod pořadovým číslem 112); Nejvyšší soud proto řízení o dovolání žalobců proti usnesení Vrchního soudu v Olomouci ze dne 31. března 2011, č. j. Ncd 7/2011-85, zastavil (§ 104 odst. 1, § 243c o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 24. ledna 2013
+Mgr. Michal Králík, Ph. D.
+předseda senátu
