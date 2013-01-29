@@ -1,0 +1,17 @@
+11 Tcu 187/2012-7
+U S N E S E N Í
+Nejvyšší soud České republiky projednal dne 29. ledna 2013 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl t a k t o :
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení občana České republiky J. A., rozsudkem Obvodního soudu v Drážďanech ze dne 30. 8. 2010, sp. zn. 202 Ls 320 Js 28647/10, Spolková republika Německo, hledí jako na odsouzení soudem České republiky.
+O d ů v o d n ě n í :
+Rozsudkem Obvodního soudu v Drážďanech ze dne 30. 8. 2010, sp. zn. 202 Ls 320 Js 28647/10, který nabyl právní moci dne 30. 8. 2010, byl J. A. uznán vinným trestným činem krádeže v devíti případech a trestným činem krádeže se zbraní ve čtyřech případech, podle německého trestního zákona, a následně odsouzen k úhrnnému trestu odnětí svobody v trvání 1 (jednoho) roku a 8 (osmi) měsíců.
+Podle skutkových zjištění Obvodního soudu v Drážďanech se J. A. dopustil trestné činnosti popsané v bodě II. l – 13) rozsudku v podstatě tím, že v období od 9. 4. 2010 do 24. 6. 2010 ve třinácti případech odcizil v Drážďanech v drogerii na P. S., v obchodním domě Karstadt, v obchodech Conrad Electronics, F.-L.-P., Saturn - Markt v A. W. a Esprit, P. S. různé zboží v celkové hodnotě asi 2552,- Eur, s úmyslem si toto trvale ponechat, přičemž ve čtyřech případech (bod II – 1, 11, 12, 13) měl při spáchání činu u sebe nůžky, štípací nůž a štípací kleště.
+Ministerstvo spravedlnosti České republiky podalo ve shora uvedené věci návrh Nejvyššímu soudu České republiky (dále jen „Nejvyšší soud“) na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů (dále jen „zákon“).
+Nejvyšší soud věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro rozhodnutí podle § 4a odst. 3 zákona.
+Především je třeba uvést, že podle § 4a odst. 3 zákona může Nejvyšší soud na návrh Ministerstva spravedlnosti ČR rozhodnout, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Z podaného návrhu a z obsahu připojeného spisu vyplývá, že odsouzený J. A. je občanem České republiky, byl odsouzen cizozemským soudem a odsouzení se týká skutku, který vykazuje znaky trestného činu i podle příslušných právních předpisů České republiky (přečinu krádeže podle § 205 tr. zákoníku). Tím jsou splněny formální podmínky ustanovení § 4a odst. 3 zákona.
+V posuzované věci jsou ovšem dány i podmínky materiální povahy. Odsouzený J. A. se dopustil majetkové trestné činnosti, kterou způsobil škodu na cizím majetku. Společenská škodlivost jeho trestné činnosti je zvyšována způsobem provedení a rovněž i množstvím útoků. Pokud jde o druh uloženého trestu, ze spisového materiálu vyplynulo, že odsouzenému byl již uložen nepodmíněný trest odnětí svobody. Lze tedy dovodit, že jsou splněny všechny podmínky pro to, aby se na výše uvedené odsouzení J. A. hledělo jako na odsouzení soudem České republiky.
+Z uvedených důvodů proto Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 29. ledna 2013
+Předseda senátu:
+JUDr. Antonín Draštík
