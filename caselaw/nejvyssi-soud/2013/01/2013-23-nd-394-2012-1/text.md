@@ -1,0 +1,17 @@
+23 Nd 394/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Ing. Jana Huška a soudců JUDr. Zdeňka Dese a JUDr. Ing. Pavla Horáka, Ph.D. v právní věci žalobce TRANSKOREKTA, spol. s ručením omezeným, se sídlem v Praze 5, Plaská 622/3, zast. JUDr. Vladimírem Doleželem, advokátem, se sídlem v Praze 7, Dobrovského 10, proti žalovaným 1) Státnímu fondu životního prostředí ČR, se sídlem v Praze 11, Kaplanova 1931/1, IČ 00020729, 2) Gomanold, a. s., se sídlem v Praze 8, Pobřežní 297/14, IČ 27931536, 3) STRODEN MANAGEMENT LIMITED, reg. No. 117862, se sídlem PAROU 1A, P. C. 6035, CARNACA, Kyperská republika, zast. JUDr. Petrem Voříškem, advokátem, se sídlem v Praze 7, Argentinská 38/286, o určení práva na oddělené uspokojení, vedené u Krajského soudu v Ostravě pod sp. zn. 9 Cm 12/2001, o návrhu žalobce na přikázání věci jinému soudu z důvodu nutnosti, takto:
+Věc vedená u Krajského soudu v Ostravě pod sp. zn. 9 Cm 12/2001 se nepřikazuje jinému soudu.
+O d ů v o d n ě n í:
+Žalobce v podání ze dne 9. 12. 2011 navrhl, aby Nejvyšší soud s odkazem na ust. § 12 odst. 1 o. s. ř. přikázal projednání a rozhodnutí věci vedené dosud u Krajského soudu v Ostravě pod sp. zn. 9 Cm 12/20001 jinému soudu, a to Krajskému soudu v Plzni.
+V odůvodnění návrhu žalobce zejména uvedl, že podjatou je soudkyně tohoto soudu Mgr. Jana Martínková, neboť vydala rozhodnutí (usnesení ze dne 24. 11. 2011, č. j. 9 Cm 12/2011-18), jímž zamítla návrh na předběžné opatření, v jehož odůvodnění fakticky rozhodla ve věci samé, a to bez nařízení jednání, ukončení dokazování, vyhlášení rozhodnutí atd., tím vyjádřila svůj poměr k věci i účastníkům,
+Podle žalobce je též podjatý Krajský soud v Ostravě jako celek, neboť nezákonně prostřednictvím masmédií informoval účastníky řízení (žalované) o podání návrhu na vydání předběžného opatření.
+Nejvyšší soud jako soud nejblíže společně nadřízený příslušenému soudu a soudu, jemuž má být věc přikázána (Krajskému soudu v Plzni) z důvodu nutnosti, návrh žalobce na přikázání věci projednal a dospěl k závěru, že nejsou splněny podmínky k tomu, aby věc byla přikázána jinému soudu.
+Podle § 12 odst. 1 o. s. ř. nemůže-li příslušný soud o věci jednat, protože jeho soudci jsou vyloučení (§ 14, § 15 odst. 2, § 16a o. s. ř.), musí být věc přikázána jinému soudu téhož stupně.
+V posuzovaném případě Vrchní soud v Olomouci usnesením ze dne 20. 9. 2012, č. j. NCo 37/2012-89 rozhodl, že soudkyně Krajského soudu v Ostravě, Mgr. Jana Martínková není vyloučena z projednávání a rozhodnutí věci vedené u Krajského soudu v Ostravě pod sp. zn. 9 Cm 12/2011.
+Za situace, kdy soudci (soudce) vůči nimž byla vznesena námitka podjatosti, nejsou vyloučeni z projednávání a rozhodování věci, nemůže přicházet v úvahu delegace nutná (srov. např. rozhodnutí Nejvyššího soudu sp. zn. 5 Nd 14/2001). Přikázání věci jinému soudu přichází totiž v úvahu, jak to vyplývá z ust. § 12 odst. 1 o. s. ř., až poté, co bylo pravomocně rozhodnuto, že z projednávání a rozhodnutí v dané věci jsou vyloučeni všichni soudci příslušeného soudu, a proto tento soud nemůže o věci jednat (srov. též rozhodnutí Nejvyššího soudu sp. zn. 5 Nd 335/2001).
+Nejvyšší soud s ohledem na shora uvedené skutečnosti neshledal, že by byly naplněny podmínky stanovené v ust. § 12 odst. 1 o. s. ř. k tomu, aby věc přikázal jinému soudu, a proto návrhu žalobce nevyhověl a věc jinému soudu nepřikázal.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 29. ledna 2013
+JUDr. Ing. Jan H u š e k
+předseda senátu
