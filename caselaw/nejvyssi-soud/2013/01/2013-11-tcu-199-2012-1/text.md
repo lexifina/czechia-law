@@ -1,0 +1,17 @@
+11 Tcu 199/2012 - 7
+U S N E S E N Í
+Nejvyšší soud České republiky projednal dne 29. ledna 2013 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl t a k t o :
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení občana České republiky V. Ž. , rozsudkem Obvodního soudu Lipsko, Spolková republika Německo, ze dne 27. 4. 2011, sp. zn. 201 Ls 131 Js 52323/10, hledí jako na odsouzení soudem České republiky.
+O d ů v o d n ě n í :
+Výše uvedeným rozsudkem Obvodního soudu Lipsko ze dne 27. 4. 2011 byl V. Ž. uznán vinným trestnými činy nedovoleného držení omamných látek v nikoli nepatrném množství a pomoci k nedovolenému obchodování s omamnými látkami v nikoli nepatrném množství a byl odsouzen k trestu odnětí svobody v trvání tří let.
+Shora uvedené trestné činnosti se odsouzený dopustil podle zjištění Obvodního soudu Lipsko tím, že dne 27. 10. 2010 převážel spolu s dalším spolupachatelem ve vozidle Mercedes-Benz Sprinter s českou poznávací značkou asi 13 kg čerstvě sklizené marihuany z vietnamské pěstírny v bytovém domě na adrese H. , do L. , kde byli v ulici M. zadrženi policií. Marihuana měla po vysušení hmotnost 3 980 g s obsahem účinné látky 568 g THC.
+Ministerstvo spravedlnosti České republiky podalo ve shora uvedené věci návrh Nejvyššímu soudu České republiky (dále jen „Nejvyšší soud“) na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů (dále jen „zákon“).
+Nejvyšší soud věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro rozhodnutí podle § 4a odst. 3 zákona.
+Především je třeba uvést, že podle § 4a odst. 3 zákona může Nejvyšší soud na návrh Ministerstva spravedlnosti ČR rozhodnout, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky, a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Z podaného návrhu a z obsahu připojeného spisového materiálu vyplývá, že odsouzený V. Ž. je občanem České republiky, který byl odsouzen soudem jiného členského státu Evropské unie, přičemž se odsouzení týká skutku, který vykazuje znaky trestného činu i podle příslušných právních předpisů České republiky (trestný čin nedovolené výroby a jiného nakládání s omamnými a psychotropními látkami a s jedy podle § 283 tr. zákoníku). Tím jsou splněny formální podmínky ustanovení § 4a odst. 3 zákona.
+V posuzované věci jsou dány i podmínky materiální povahy. Odsouzený se dopustil úmyslné trestné činnosti směřující proti zájmu společnosti na ochraně před možným nebezpečím vyplývajícím z nekontrolovaného nakládání s omamnými a psychotropními látkami. Jednal přitom v takovém rozsahu (zejména se pokud jde o množství převážené látky), že již lze tuto trestnou činnost označit za závažnou ve smyslu § 4a odst. 3 zákona. Pokud jde o druh trestu, byl mu uložen citelný trest odnětí svobody. Lze tedy dovodit, že podmínky ustanovení § 4a odst. 3 zákona týkající se závažnosti činu a druhu uloženého trestu jsou splněny.
+Z uvedených důvodů proto Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+Poučení : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 29. ledna 2013
+Předseda senátu:
+JUDr. Karel Hasch
