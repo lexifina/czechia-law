@@ -1,0 +1,15 @@
+33 Cdo 122/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivany Zlatohlávkové a soudců JUDr. Pavla Krbka a JUDr. Václava Dudy ve věci žalobce Ing. P. B., zastoupeného JUDr. Josefem Jurasem, advokátem se sídlem v Moravské Ostravě, Jiráskovo náměstí 8, proti žalovanému K. G., zastoupenému JUDr. Juditou Naglíkovou, advokátkou se sídlem v Ostravě, Mírové náměstí 519/3, o zaplacení 420.000,- Kč s příslušenstvím, vedené u Okresního soudu v Novém Jičíně, pod sp. zn. 18 C 117/2007, o dovolání žalovaného proti rozsudku Krajského soudu v Ostravě ze dne 6. března 2012, č. j. 11 Co 508/2011-283, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů řízení
+O d ů v o d n ě n í:
+Dovolání proti v záhlaví označenému rozsudku, jímž Krajský soud v Ostravě potvrdil rozsudek Okresního soudu v Novém Jičíně ze dne 25. listopadu 2010, č. j. 18 C 117/2007-226, ukládající žalovanému povinnost zaplatit žalobci 420.000,- Kč se specifikovaným úrokem z prodlení, není přípustné podle § 237 odst. 1 písm. b/ zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2012 [srov. část první, čl. II, bod 7. zákona č. 404/2012 Sb. (dále jen „o. s. ř.“)], a nebylo shledáno přípustným ani podle § 237 odst. 1 písm. c/ o. s. ř.; úvaha dovolacího soudu o zásadním právním významu napadeného rozhodnutí je vyloučena, protože žalovaný - jak vyplývá z obsahu dovolání - v něm neuplatnil dovolací důvod uvedený v § 241a odst. 2 písm. b/ o. s. ř., jímž lze vytýkat nesprávné právní posouzení věci.
+Proti skutkovému závěru soudu prvního stupně, který odvolací soud převzal, že z půjčky ve výši 470.000,- Kč, kterou mu žalobce poskytl dne 3. 2. 1997, dosud 420.000,- Kč dluží, staví žalovaný vlastní skutkovou verzi, že „všechny půjčky žalobci již beze zbytku uhradil“. Výtky směřující proti skutkovým zjištěním však nejsou s to přípustnost dovolání založit; dovolací soud je povinen vycházet ze skutkového stavu, který byl podkladem pro právní posouzení věci odvolacím soudem a který je v poměrech přípustnosti dovolání podle § 237 odst. 1 písm. c/ o. s. ř. nezpochybnitelný (§ 237 odst. 3 část věty za středníkem, § 214a odst. 3 o. s. ř.).
+Regulérní není ani výtka žalovaného, že v řízení nebyly provedeny další jím navržené důkazy (především písemné potvrzení o úhradě 390.000,- Kč ze dne 15. 5. 1999, jež dohledal až po rozhodnutí soudu prvního stupně), podřaditelná výhradně dovolacímu důvodu uvedenému § 241a odst. 2 písm. a/ o. s. ř., neboť k okolnostem uplatněným tímto dovolacím důvodem se nepřihlíží (srov. § 237 odst. 3 část věty za středníkem o. s. ř.).
+Nepřípustné dovolání Nejvyšší soud odmítl (§ 243b odst. 5 věta první o. s. ř.).
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř. za situace, kdy žalobci v souvislosti s dovolacím řízením nevznikly žádné náklady, na jejichž náhradu by jinak měl vůči žalovanému právo.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 30. ledna 2013
+JUDr. Ivana Zlatohlávková, v. r.
+předsedkyně senátu
