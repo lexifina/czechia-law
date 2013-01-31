@@ -1,0 +1,16 @@
+33 Cdo 3936/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudců JUDr. Blanky Moudré a JUDr. Václava Dudy ve věci žalobkyně Kobližná 21 s. r. o. se sídlem v Brně - Brně městě, Sukova 49/4 (identifikační číslo 27688534), zastoupené JUDr. Janou Bednářovou, advokátkou se sídlem v Praze 3, Šrobárova 2391/23, proti žalované České spořitelně a. s. se sídlem v Praze 4, Olbrachtova 1929/62 (identifikační číslo 45244782), zastoupené Mgr. Martinem Bělinou, advokátem se sídlem v Praze 5, Karla Engliše 3201/6, o 36.014.000,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 9 C 129/2010, o dovolání TECHMALS s. r. o. se sídlem v Olomouci, Sokolská 548/44 (identifikační číslo 28655681), zastoupené JUDr. Janou Bednářovou, advokátkou se sídlem v Praze 3, Šrobárova 2391/23, proti rozsudku Městského soudu v Praze ze dne 7. 6. 2011, č.j. 30 Co 205/2011-58, takto:
+I. Dovolání se odmítá.
+II. Žádná z účastnic nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Městský soud v Praze rozsudkem ze dne 7. 6. 2011, č.j. 30 Co 205/2011-58, potvrdil rozsudek ze dne 23. 11. 2010, č.j. 9 C 129/2010-29, jímž Obvodní soud pro Prahu 4 zamítl žalobu, kterou se žalobkyně domáhala po žalované zaplacení částky 36.014.000,- Kč s příslušenstvím.
+Rozhodnutí odvolacího soudu napadla dovoláním TECHMALS s. r. o.; legitimaci k jeho podání doložila smlouvou o postoupení pohledávky z 9. 9. 2011, kterou v postavení postupníka uzavřela s žalobkyní jako postupitelem.
+Podle § 236 odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu ve znění účinném do 31. 12. 2012, srov. část první, čl. II, bod 7. zákona č. 404/2012 Sb. (dále jen „o.s.ř.“), lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Podle § 240 odst. 1 o.s.ř. může dovolání podat účastník řízení. Tím však dovolatelka není a nestala se jím ani tím, že 9. 9. 2011, po té, co rozsudek odvolacího soudu nabyl právní moci, uzavřela se žalobkyní smlouvu o postoupení pohledávky, jejíž vymožení bylo předmětem řízení. Vstup dovolatelky do řízení na místo žalobkyně by byl možný jen postupem podle § 107a o.s.ř.; takovému návrhu, který ostatně nebyl podán, lze vyhovět jen za předpokladu, že řízení u odvolacího soudu neskončilo (srov. usnesení Vrchního soudu v Praze ze dne 15. 1. 2004, sp. zn. 9 Cmo 568/2003, uveřejněné v časopise Soudní judikatura 5/2004 pod č. 87). Podle § 243c odst. 1 o.s.ř. platí pro řízení u dovolacího soudu přiměřeně ustanovení o řízení před soudem prvního stupně, pokud není stanoveno něco jiného; ustanovení § 92 a § 95 až § 99 a § 107a o.s.ř. však pro řízení u dovolacího soudu neplatí.
+Jestliže se tedy TECHMALS s. r. o. účastnicí řízení postupem podle § 107a o.s.ř. nestala, lze uzavřít, že dovolání podala osoba, která k tomu nebyla oprávněna; Nejvyšší soud je proto podle § 243b odst. 5, věty první, a § 218 písm. b/ o.s.ř. odmítl.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o.s.ř.; účastnicím žádné náklady v dané fázi řízení nevznikly a dovolatelka na jejich náhradu právo nemá.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 31. ledna 2013
+JUDr. Pavel K r b e k, v. r.
+předseda senátu
