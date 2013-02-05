@@ -1,0 +1,23 @@
+32 Cdo 3675/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Příhody a soudců JUDr. Hany Gajdziokové a JUDr. Miroslava Galluse ve věci žalobkyně PP Hospitals, s. r. o., se sídlem v Brandýse nad Labem – Staré Boleslavi, Brázdimská 1000, PSČ 250 01, identifikační číslo osoby 26085011, zastoupené JUDr. Pavlem Bergerem, advokátem, se sídlem v Praze 10, Bělocerkevská 1037/38, PSČ 100 00, proti žalované VŠEOBECNÉ ZDRAVOTNÍ POJIŠŤOVNĚ ČESKÉ REPUBLIKY, se sídlem v Praze 3 – Vinohradech, Orlická 4/2020, PSČ 130 00, identifikační číslo 41197518, o zaplacení částky 12.799.925,58 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 3 pod sp. zn. 12 C 129/2012, o dovolání žalobkyně proti usnesení Městského soudu v Praze ze dne 23. srpna 2012, č. j. 11 Co 359/2012-75, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Se zřetelem k době vydání napadeného rozhodnutí odvolacího soudu se uplatní pro dovolací řízení - v souladu s bodem 7. článku II., části první, přechodných ustanovení zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony - občanský soudní řád ve znění účinném do 31. prosince 2012 (dále též jen „o. s. ř.“).
+Žalobkyně se žalobou podanou dne 29. května 2012 domáhala zaplacení částky 12.799.925,58 Kč se zákonným úrokem z prodlení za zdravotní péči poskytnutou pojištěncům žalované v období leden až prosinec 2011 a leden až březen 2012. Spolu s žalobou podala s odkazem na ustanovení § 102 odst. 1 o. s. ř. návrh na nařízení předběžného opatření, jímž by bylo žalované uloženo platit žalobkyni měsíční předběžné úhrady za zdravotní péči poskytnutou jejím pojištěncům v kalendářním roce 2012 ve výši 7.108.909,- Kč. Požadavek zatímní úpravy poměrů účastníků odůvodnila potřebou zajistit řádný provoz zdravotnického zařízení.
+Obvodní soud pro Prahu 3 usnesením ze dne 30. května 2012, č. j. 12 C 129/2012-16, řízení o návrhu na nařízení předběžného opatření zastavil podle ustanovení § 104 odst. 1 o. s. ř. pro překážku věci rozsouzené, s odůvodněním, že návrh na nařízení předběžného opatření stejného znění se stejným, leč stručnějším odůvodněním, žalobkyně podala již dne 20. dubna 2012 a tento návrh byl zamítnut usnesením č. j. 12 Nc 4903/2012-35, které nabylo právní moci dne 16. května 2012.
+Městský soud v Praze v záhlaví označeným rozhodnutím usnesení soudu prvního stupně potvrdil.
+Proti usnesení odvolacího soudu podala žalobkyně dne 12. listopadu 2012 dovolání, namítajíc, že odvolací soud nesprávně posoudil otázku totožnosti předmětu řízení, a navrhujíc, aby Nejvyšší soud napadené usnesení odvolacího soudu i jemu předcházející rozhodnutí soudu prvního stupně zrušil a věc vrátil soudu prvního stupně k dalšímu řízení.
+Žalovaná se k dovolání nevyjádřila.
+Věc byla dovolacímu soudu předložena dne 29. listopadu 2012.
+Dovolání, které je přípustné podle ustanovení § 239 odst. 2 písm. a) o. s. ř., Nejvyšší soud odmítl jako bezpředmětné (§ 243b odst. 5 a § 218 o. s. ř.).
+Učinil tak ze dvou důvodů, z nichž každý by obstál sám o sobě.
+Především řízení ve věci samé bylo v důsledku zpětvzetí žaloby zastaveno usnesením soudu prvního stupně ze dne 18. září 2012, č. j. 12 C 129/2012-84, které nabylo právní moci dne 5. října 2012. V ustanovení § 77 odst. 1 písm. b) o. s. ř. je přitom určeno, že předběžné opatření zanikne, jestliže nebylo návrhu ve věci samé vyhověno. Poté, co bylo řízení ve věci samé zastaveno, by tedy již v žádném případě nebylo možno návrhu na vydání předběžného opatření vyhovět (srov. obdobně závěry vyjádřené Nejvyšším soudem např. v usnesení ze dne 21. října 1999, sp. zn. 20 Cdo 1223/99, a v usnesení ze dne 25. února 2009, sp. zn. 29 Cdo 59/2009, která jsou, stejně jako ostatní rozhodnutí Nejvyššího soudu zde citovaná, k dispozici na jeho webových stránkách).
+Kromě toho období, během něhož měla žalovaná podle návrhu na vydání předběžného opatření předběžně poskytovat žalobkyni měsíční platby k zajištění řádného provozu zdravotnického zařízení, ke dni rozhodnutí dovolacího soudu již uplynulo.
+Stane-li se dovolání bezpředmětným, dovolací soud je odmítne podle ustanovení § 243b odst. 5 a § 218 o. s. ř. (srov. usnesení Nejvyššího soudu ze dne 30. září 2004, sp. zn. 29 Odo 611/2002).
+O nákladech dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 3 o. s. ř.; žalobkyně, jejíž dovolání bylo odmítnuto, nemá na náhradu svých nákladů právo a žalované podle obsahu spisu v dovolacím řízení náklady nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 5. února 2013
+JUDr. Pavel P ř í h o d a
+předseda senátu
