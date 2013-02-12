@@ -1,0 +1,13 @@
+21 Cdo 2583/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Jiřího Doležílka a JUDr. Zdeňka Novotného v právní věci žalobkyně J. V., proti žalovaným 1) J. V., 2) J. V. a 3) J. M., o nařízení předběžného opatření, vedené u Okresního soudu v Berouně pod sp. zn. 23 Nc 72/2012, o dovolání žalobkyně proti usnesení Krajského soudu v Praze ze dne 21. června 2012, č. j. 32 Co 321/2012-19, takto:
+I. Dovolání žalobkyně se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.):
+Dovolání žalobkyně proti usnesení Krajského soudu v Praze ze dne 21. 6. 2012, č. j. 32 Co 321/2012-19, kterým bylo potvrzeno usnesení Okresního soudu v Berouně ze dne 11. 4. 2012, č. j. 23 Nc 72/2012-8, jímž byl zamítnut návrh žalobkyně na nařízení předběžného opatření, není přípustné podle ustanovení § 237 zákona č. 99/1963 Sb., občanský soudní řád [ve znění do 31. 12. 2012 (dále jen „o. s. ř.“), když dovoláním je napadeno usnesení odvolacího soudu, které bylo vydáno před 1. 1. 2013 (srov. Čl. II bod 7. zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., ve znění pozdějších předpisů a další související zákony)], neboť usnesením odvolacího soudu nebylo potvrzeno nebo změněno usnesení soudu prvního stupně, kterým by bylo rozhodnuto ve věci samé, a není přípustné ani podle ustanovení § 238, § 238a a § 239 o. s. ř., protože usnesením soudu prvního stupně nebylo rozhodnuto ve věcech, které jsou taxativně vyjmenovány v ustanoveních § 238 a § 238a o.s.ř., a nejde rovněž o žádný z případů procesních rozhodnutí uvedených v ustanovení § 239 o. s. ř. (srov. právní názor vyjádřený v usnesení Nejvyššího soudu ze dne 22. 1. 2002, sp. zn. 26 Cdo 1533/2001, uveřejněném pod č. 62 ve Sbírce soudních rozhodnutí a stanovisek, roč. 2002, a v usnesení Nejvyššího soudu ze dne 30. 6. 2004, sp. zn. 29 Odo 201/2003, uveřejněném pod č. 166 v časopise Soudní judikatura, roč. 2004).
+Protože dovolání žalobkyně směřuje proti rozhodnutí odvolacího soudu, proti němuž není tento mimořádný opravný prostředek přípustný, Nejvyšší soud České republiky je podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o.s.ř. - aniž by se mohl věcí dále zabývat - odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 části věty před středníkem o.s.ř., neboť žalobkyně s ohledem na výsledek řízení nemá na náhradu svých nákladů právo a žalovaným v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 12. února 2013
+JUDr. Mojmír Putna
+předseda senátu
