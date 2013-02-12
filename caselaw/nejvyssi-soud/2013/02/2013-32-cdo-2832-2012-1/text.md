@@ -1,0 +1,19 @@
+32 Cdo 2832/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Hany Gajdziokové a soudců JUDr. Pavla Příhody a JUDr. Miroslava Galluse ve věci žalobkyně Komerční banky, a.s., se sídlem v Praze 1, Na Příkopě 33 čp. 969, PSČ 114 07, identifikační číslo osoby 45 31 70 54, zastoupené JUDr. Petrem Balcarem, advokátem se sídlem v Praze 1, Revoluční 15, proti žalovaným 1) L. F., a 2) L. F., o zaplacení částky 148.134,88 Kč s příslušenstvím, vedené u Okresního soudu v Karviné pod sp. zn. 27 C 239/2009, o „odvolání“ žalovaných proti usnesení Krajského soudu v Ostravě ze dne 5. června 2012, č. j. 15 Co 665/2012-192, takto:
+I. Řízení o „odvolání“ žalovaných proti usnesení Krajského soudu v Ostravě ze dne 5. června 2012, č. j. 15 Co 665/2012-192, se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů řízení.
+Odůvodnění:
+Okresní soud v Karviné usnesením ze dne 6. ledna 2012, č. j. 27 C 239/2009-180, odmítl podání žalovaných z 10. října 2011, doplněné podáním ze 14. prosince 2011, v části označené jako dovolání proti rozsudku Krajského soudu v Ostravě ze dne 16. června 2010, č. j. 51 Co 145/2010-95, pro opožděnost podle ustanovení § 241b odst. 1 a § 208 odst. 1 občanského soudního řádu (výrok I.) a rozhodl o nákladech řízení (výrok II.).
+Krajský soud v Ostravě v záhlaví označeným usnesením potvrdil usnesení soudu prvního stupně (první výrok) a rozhodl o nákladech odvolacího řízení (druhý výrok).
+Žalovaní, nezastoupeni advokátem, se podáním ze dne 13. července 2012 adresovaným Okresnímu soudu v Karviné a označeným jako „podání odvolání proti rozhodnutí č. j.: 15 Co 665/2012-192 v bodě č. I a to ve smyslu“ domáhají toho, aby soud vydal rozhodnutí o umožnění splátek ve výši 8,000,- Kč měsíčně.
+Podle ustanovení § 236 odst. 1 občanského soudního řádu (dále též jen „o. s. ř.“) dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Podle ustanovení § 201 o. s. ř. účastník může napadnout rozhodnutí okresního soudu nebo rozhodnutí krajského soudu vydané v řízení v prvním stupni odvoláním, pokud to zákon nevylučuje.
+Opravným prostředkem pro přezkoumání rozhodnutí odvolacího soudu soudem vyššího stupně (Nejvyšším soudem) je dovolání (srov. § 236 odst. 1 o. s. ř.); občanský soudní řád proto také ani neupravuje funkční příslušnost soudu pro projednání „odvolání” proti rozhodnutí odvolacího soudu. Tím, že žalovaní napadají rozhodnutí odvolacího soudu „odvoláním”, uvedenou podmínku dovolacího řízení opomíjí. Nedostatek funkční příslušnosti je neodstranitelným nedostatkem podmínky řízení; Nejvyšší soud proto řízení o „odvolání“ žalovaných proti usnesení odvolacího soudu, které touto vadou trpí, podle ustanovení § 104 odst. 1 o. s. ř. zastavil (srov. důvody usnesení Nejvyššího soudu ze dne 29. července 1999, sp. zn. 2 Cdon 1579/97, které je veřejnosti k dispozici na jeho webových stránkách).
+Za těchto okolností nebyl důvod vyvozovat procesní důsledky též z té skutečnosti, že nebyla splněna podmínka povinného zastoupení advokátem stanovená v § 241 o. s. ř., jež je podmínkou dovolacího řízení, a že nebyl zaplacen soudní poplatek za dovolání.
+Pro úplnost Nejvyšší soud uvádí, že i kdyby podání žalovaných bylo dovoláním proti rozhodnutí odvolacího soudu, bylo by jako nepřípustné odmítnuto (poté, co by byla splněna poplatková povinnost žalovaných), poněvadž dovolání proti usnesení, kterým odvolací soud potvrdil usnesení soudu prvního stupně o odmítnutí dovolání pro opožděnost, není přípustné.
+Výrok o náhradě nákladů řízení se opírá o ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 2 věty první o. s. ř., když žalovaní z procesního hlediska zavinili, že řízení o odvolání bylo zastaveno, a žalobkyni podle obsahu spisu v tomto řízení náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 12. února 2013
+JUDr. Hana Gajdzioková
+předsedkyně senátu
