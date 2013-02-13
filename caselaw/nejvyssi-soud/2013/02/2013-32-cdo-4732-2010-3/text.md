@@ -1,0 +1,11 @@
+32 Cdo 4732/2010
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Pavlem Příhodou ve věci žalobkyně České republiky – Ministerstva financí, se sídlem v Praze 1, Letenská 15, PSČ 118 10, identifikační číslo osoby 00006947, zastoupené JUDr. Petrem Vackem, advokátem, se sídlem v Praze 6, Čsl. armády 33, PSČ 160 00, proti žalovanému Ing. T. R., zastoupenému JUDr. Milanem Jebavým, advokátem, se sídlem v Praze 2, Italská 1274/8, PSČ 120 00, o zaplacení částky 8.067.139,- Kč, vedené u Městského soudu v Praze pod sp. zn. 49 Cm 164/2000, o dovoláních žalobkyně a žalovaného proti rozsudku Vrchního soudu v Praze ze dne 18. května 2010, č. j. 1 Cmo 295/2009-330, takto:
+Výrok rozsudku Nejvyššího soudu České republiky ze dne 28. listopadu 2012, č. j. 32 Cdo 4732/2010-365, se opravuje tak, že zní:
+Rozsudek Vrchního soudu v Praze ze dne 18. května 2010, č. j. 1 Cmo 295/2009-330, ve výrocích pod body I, II a IV a rozsudek Městského soudu v Praze ze dne 10. února 2009, č. j. 49 Cm 164/2000-264, ve výrocích pod body I a III, se zrušují a věc se v tomto rozsahu vrací soudu prvního stupně k dalšímu řízení.
+O d ů v o d n ě n í:
+Rozsudkem ze dne 28. listopadu 2012, č. j. 32 Cdo 4732/2010-365, Nejvyšší soud zrušil rozsudek Vrchního soudu v Praze ze dne 18. května 2010, č. j. 1 Cmo 295/2009-330, ve výrocích pod body I, II a IV a rozsudek Městského soudu v Praze ze dne 10. února 2009, č. j. 49 Cm 164/2000-264, ve výrocích pod body I a III. Ve výroku rozsudku dovolacího soudu zjevným nedopatřením bylo uvedeno, že věc se v tomto rozsahu vrací k dalšímu řízení odvolacímu soudu (srov. k tomu část odůvodnění na straně 6 rozsudku odkazující na ustanovení § 243b odst. 3 věty druhé občanského soudního řádu, ve znění účinném do 31. prosince 2012). Proto bylo vydáno toto opravné usnesení (§ 243c, § 164 a § 167 občanského soudního řádu ve znění účinném do 31. prosince 2012 dle bodu 7. článku I., části první, přechodných ustanovení zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 13. února 2013
+JUDr. Pavel P ř í h o d a
+předseda senátu
