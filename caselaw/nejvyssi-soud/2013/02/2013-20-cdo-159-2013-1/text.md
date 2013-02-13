@@ -1,0 +1,15 @@
+20 Cdo 159/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Olgy Puškinové a soudců JUDr. Miroslavy Jirmanové, Ph. D., a JUDr. Vladimíra Mikuška v exekuční věci oprávněného OSPEN s.r.o., se sídlem v Přelouči, Hradecká 1383, identifikační číslo osoby 252 62 823, zastoupeného JUDr. Martinem Michňákem, advokátem se sídlem v Kolíně, Jiráskovo náměstí 1487, proti povinné H. R., pro 2.906,81 Kč s příslušenstvím, vedené u Okresního soudu v Prachaticích pod sp. zn. 8 EXE 1627/2012, o dovolání povinné proti usnesení Krajského soudu v Českých Budějovicích ze dne 20. září 2012, č. j. 24 Co 2357/2012 - 122, takto:
+Dovolací řízení se zastavuje.
+Odůvodnění:
+Okresní soud v Prachaticích usnesením ze dne 10. 8. 2012, č. j. 8 EXE 1627/2012 - 113, zamítl návrhy povinné (ze dne 10. 5., 24. 5., 18. 7. a 8. 8. 2012) na zastavení a na odklad exekuce nařízené usnesením téhož soudu ze dne 30. 3. 2012, č. j. 8 EXE 1627/2012 - 8.
+Shora označeným usnesením Krajský soud v Českých Budějovicích usnesení soudu prvního stupně potvrdil.
+Proti tomuto usnesení podala povinná dovolání, aniž byla při tomto úkonu zastoupena advokátem.
+Pro podání dovolání, které je mimořádným opravným prostředkem, stanoví § 241 o. s. ř. požadavek, aby účastník řízení, jenž podává dovolání, měl buď sám právnické vzdělání, nebo aby byl zastoupen osobou, která je podle zákona povolána poskytovat právní pomoc. Ustanovení § 241 o. s. ř. představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, avšak bez jejího splnění nelze o dovolání rozhodnout.
+Usnesením Okresního soudu v Prachaticích ze dne 13. 12. 2012, č. j. 8 EXE 1627/2012 - 128, byla dovolatelka vyzvána, aby si pro podání dovolání v této věci zvolila zástupcem advokáta a jeho prostřednictvím podala řádné dovolání, s poučením o možnosti požádat o ustanovení advokáta soud a že nebude-li do 14-ti dnů ode dne doručení tohoto usnesení předložena soudu plná moc zvoleného advokáta a jím sepsané dovolání, Nejvyšší soud dovolací řízení zastaví. Toto usnesení bylo povinné doručeno dne 18. 12. 2012, lhůta pro odstranění nedostatku povinného zastoupení a k doplnění dovolání tak uplynula dnem 2. 1. 2013, avšak dovolatelka nedostatek povinného zastoupení v dovolacím řízení neodstranila, o ustanovení zástupce nepožádala, ani netvrdila, že by měla právnické vzdělání. Dovolací soud proto řízení podle § 243c odst. 1 a § 104 odst. 2 věty třetí o. s. ř. ve znění účinném od 1. 7. 2009 do 31. 12. 2012 (viz čl. II., bod 12. části první zákona č. 7/2009 Sb. a čl. II., bod 7. části první zákona č. 404/2012 Sb.) zastavil. Pro úplnost dovolací soud poznamenává, že dovolání proti výroku usnesení odvolacího soudu, jímž potvrdil výrok usnesení soudu prvního stupně o zamítnutí návrhu na odklad exekuce, občanský soudní řád nepřipouští (srov. § 236 až § 239 o. s. ř. ).
+O nákladech dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 13. února 2013
+JUDr. Olga Puškinová
+předsedkyně senátu
