@@ -1,0 +1,19 @@
+28 Cdo 1523/2012
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy JUDr. Ludvíka Davida, CSc., a soudců JUDr. Josefa Rakovského a JUDr. Jana Eliáše, Ph.D., v právní věci žalobce J. V., (jako právního nástupce původního žalobce J. V., zemřelého), zastoupeného JUDr. Ludmilou Krejčí, advokátkou v Brně, Starobrněnská 13, proti žalovanému Kovopodniku města Brna, státnímu podniku – v likvidaci, IČ: 00100706, se sídlem v Brně, Dominikánské nám. 2, o vydání věcí, vedené u Městského soudu v Brně pod sp. zn. 39 C 226/95, o dovolání žalobce proti usnesení Krajského soudu v Brně ze dne 27. 10. 2011, č. j. 13 Co 213/2011-215, takto:
+I. Řízení o dovolání se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Krajský soud v Brně usnesením shora označeným (výrokem I.) změnil rozsudek Městského soudu v Brně ze dne 10. 12. 2010, č. j. 39 C 226/95-177, ve znění opravného usnesení ze dne 21. 1. 2011, č. j. 39 C 226/95-187, tak, že zamítl návrh žalobce na změnu rozsudku Městského soudu v Brně ze dne 27. 10. 1993, č. j. 39 C 109/92-31, ve spojení s rozsudkem Krajského soudu v Brně ze dne 6. 4. 1994, č. j. 19 Co 639/93-49. Současně rozhodl o nákladech řízení před soudy obou stupňů (výrok II.).
+Proti usnesení odvolacího soudu podal žalobce dovolání, které odůvodnil nesprávným právním posouzením věci. Navrhl, aby Nejvyšší soud rozhodnutí odvolacího soudu zrušil a věc mu vrátil k dalšímu řízení.
+Podle článku II. bodu 7. přechodných ustanovení zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, účinného od 1. 1. 2013, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona se projednají a rozhodnou podle dosavadních právních předpisů, s výjimkou § 243c odst. 3 zákona, který se užije ve znění účinném ode dne nabytí účinnosti tohoto zákona.
+Protože napadené rozhodnutí Krajského soudu v Brně bylo vydáno dne 27. 10. 2011, rozhodl dovolací soud podle občanského soudního řádu ve znění účinném do 31. 12. 2012.
+Nejvyšší soud v řízení o dovolání nejprve zkoumal (§ 103 o. s. ř.), zda jsou splněny podmínky, za nichž lze o věci rozhodnout (podmínky řízení). Shledal, že rozhodnutí ve věci brání nedostatek podmínky dovolacího řízení v podobě zániku způsobilosti být účastníkem řízení na straně žalované.
+Podle § 104 odst. 1 věty první o. s. ř. jde-li o takový nedostatek podmínky řízení, který nelze odstranit, soud řízení zastaví.
+Ztratí-li účastník řízení způsobilost být účastníkem řízení v době po zahájení řízení do jeho pravomocného skončení, posoudí soud podle povahy věci, zda má řízení zastavit nebo přerušit anebo zda v něm může pokračovat. Pro nedostatek způsobilosti být účastníkem řízení v den jeho zahájení může soud řízení jedině zastavit (viz např. usnesení Nejvyššího soudu ze dne 13. 3. 1998, sp. zn. 2 Cdon 1056/96, publikované v časopise Soudní judikatura pod č. 111, sv. 16, ročník 1998).
+Z obsahu spisu plyne (viz přípis na č. l. 230), že po právní moci napadeného rozhodnutí odvolacího soudu došlo ke dni 18. 1. 2012 k zániku žalovaného výmazem z obchodního rejstříku. Dovolání bylo žalobcem ve věci podáno dne 3. 2. 2012 (s právními účinky k datu 6. 2. 2012). Ke dni zahájení dovolacího řízení již tedy žalovaný nebyl nadán způsobilostí být účastníkem řízení a není proto splněna podmínka řízení nezbytná k tomu, aby Nejvyšší soud mohl o věci rozhodnout. Vzhledem k tomu, že se jedná o neodstranitelný nedostatek podmínky řízení, nezbylo dovolacímu soudu než řízení o dovolání žalobce zastavit podle § 243c odst. 1 a § 104 odst. 1 věty první o. s. ř.
+Výrok o náhradě nákladů dovolacího řízení vychází z ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 1 písm. c) o. s. ř.
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 13. února 2013
+JUDr. Ludvík D a v i d, CSc.
+předseda senátu
