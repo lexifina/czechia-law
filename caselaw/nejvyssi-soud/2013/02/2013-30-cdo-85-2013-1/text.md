@@ -1,0 +1,15 @@
+30 Cdo 85/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Vrchy a soudců JUDr. Pavla Pavlíka a JUDr. Lubomíra Ptáčka, Ph.D., ve věci nezvěstného J. M., v řízení zastoupeného opatrovnicí JUDr. Janou Kümmelovou, advokátkou se sídlem v Praze 5, Štefánikova 65, o návrhu K. M., zastoupené JUDr. Mgr. Michaelou Zdvihalovou Lorencovou, advokátkou se sídlem v Praze 6, Na Čihadle 61, za účasti 1) nezletilé K. M., zastoupené městskou částí Praha 5, se sídlem v Praze 5, nám. 14. října 1381/4, jako opatrovníkem pro řízení, 2) J. M., zastoupeného JUDr. Václavem Markem, advokátem se sídlem v Praze 6, Nad lávkou 5, 3) R. M., a 4) Městského státního zastupitelství, se sídlem v Praze 5, nám. 14. října 2188/9, o prohlášení za mrtvého, vedené u Obvodního soudu pro Prahu 5 pod sp. zn. 50 Nc 1582/2009, o dovolání J. M. proti rozsudku Městského soudu v Praze ze dne 15. května 2012, č.j. 25 Co 408/2011-335, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í
+(§ 243c odst. 2 o. s. ř.):
+Úvodem Nejvyšší soud České republiky (dále již „Nejvyšší soud“) předesílá, že se zřetelem k době vydání dovoláním napadeného (v záhlaví označeného) rozsudku Městského soudu v Praze se uplatní pro dovolací řízení - v souladu s bodem 7. článku II., části první, přechodných ustanovení zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony - občanský soudní řád ve znění účinném do 31. prosince 2012 (dále již „o. s. ř.“).
+Dovolání J. M. (otce J. M., níže cit. rozhodnutími prohlášeného za mrtvého) proti rozsudku Městského soudu v Praze ze dne 15. května 2012, č.j. 25 Co 408/2011-335, kterým byl potvrzen rozsudek Obvodního soudu pro Prahu 5 ze dne 6. května 2011, č.j. 50 Nc 1582/2009-197, ve věci samé, není přípustné ve smyslu § 237 odst. 1 písm. b) o. s. ř. a nebylo shledáno přípustným ani podle § 237 odst. 1 písm. c) o. s. ř. Na závěr, zda má napadené rozhodnutí odvolacího soudu ve věci samé zásadní význam po právní otázce (§ 237 odst. 3 o. s. ř.), lze usuzovat jen z okolností, uplatněných dovolacím důvodem podle § 241a odst. 2 písm. b) o. s. ř. Dovolatel v podaném dovolání žádnou hmotněprávní otázku, jejíž řešení by mohlo navodit zásadní právní význam napadeného rozhodnutí a tedy i přípustnost dovolání, nevymezil. Z obsahu dovolání vyplývá (§ 41 odst. 2 o. s. ř.), že dovolatel uplatnil dovolací důvod ve smyslu § 241a odst. 2 písm. a) o. s. ř., jehož prostřednictvím ovšem přípustnost dovolání posuzovat nelze, neboť podle § 237 odst. 3, věty za středníkem, o. s. ř., k okolnostem uplatněným dovolacími důvody podle § 241a odst. 2 písm. a) a § 241a odst. 3 se nepřihlíží.
+Nejvyšší soud proto dovolání dovolatele podle § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1, § 146 odst. 1 písm. a) o. s. ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 20. února 2013
+JUDr. Pavel Vrcha, v. r.
+předseda senátu
