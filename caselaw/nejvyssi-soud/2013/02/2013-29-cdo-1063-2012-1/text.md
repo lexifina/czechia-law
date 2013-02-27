@@ -1,0 +1,17 @@
+29 Cdo 1063/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Filipa Cilečka a soudců Mgr. Milana Poláška a JUDr. Petra Šuka ve věci navrhovatelky COBRAS, s. r. o. „v likvidaci“, se sídlem v Praze 5, Trávníčkova 1766, PSČ 155 00, identifikační číslo osoby 63666022, o výmaz z obchodního rejstříku, vedené u Městského soudu v Praze pod sp. zn. C 37311, o dovolání navrhovatelky proti usnesení Vrchního soudu v Praze ze dne 28. listopadu 2011, č. j. 14 Cmo 426/2010-116, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í:
+Vrchní soud v Praze v záhlaví označeným usnesením potvrdil usnesení ze dne 5. srpna 2010, č. j. F 80171/2010, F 88222/2010, F 89540/2010, F 96315/2010, C 37311-104, kterým Městský soud v Praze zamítl návrh na výmaz navrhovatelky z obchodního rejstříku.
+Proti usnesení odvolacího soudu podala navrhovatelka dovolání, jež Nejvyšší soud podle ustanovení § 243b odst. 5, § 218 písm. c/ zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), odmítl jako nepřípustné.
+Dovolání proti potvrzujícímu výroku rozhodnutí ve věci samé může být přípustné pouze podle ustanovení § 237 odst. 1 písm. c/ o. s. ř. (o situaci předvídanou v ustanovení § 237 odst. 1 písm. b/ o. s. ř. nejde), tedy tak, že dovolací soud – jsa přitom vázán uplatněnými dovolacími důvody včetně jejich obsahového vymezení (§ 242 odst. 3 o. s. ř.) – dospěje k závěru, že napadené rozhodnutí má po právní stránce zásadní význam. Dovolací soud však důvody pro připuštění dovolání neshledal.
+Jak Nejvyšší soud již opakovaně vysvětlil, rozhodnutí odvolacího soudu nečiní zásadně právně významným otázka, jejíž řešení je zcela zjevné a jež nečiní v soudní praxi výkladové těžkosti (srov. např. usnesení Nejvyššího soudu ze dne 29. ledna 2001, sp. zn. 22 Cdo 1603/99, a ze dne 30. května 2006, sp. zn. 29 Odo 462/2005, ze dne 24. května 2007, sp. zn. 29 Cdo 48/2007, či ze dne 9. prosince 2009, sp. zn. 29 Cdo 5295/2008). Tak je tomu přitom i v projednávané věci.
+Nejvyšší soud považuje za zcela zjevné, že jednou z listin, kterou je nezbytné doložit k návrhu na výmaz společnosti s ručením omezeným zanikající bez právního nástupce z obchodního rejstříku, je souhlas správce daně, u kterého je společnost jako daňový subjekt registrována, s ukončením činnosti. Tuto povinnost společnosti v době podání návrhu v projednávané věci výslovně ukládal § 35 odst. 2 zákona č. 337/1992 Sb., o správě daní a poplatků; s účinností od 1. ledna 2011 je zakotvena v ustanovení § 238 odst. 1 zákona č. 280/2009 Sb., daňového řádu.
+Z § 32 odst. 2 zákona č. 513/1991 Sb., obchodního zákoníku, a z § 200da odst. 1 o. s. ř. se pak zřetelně podává, že není-li souhlas správce daně doložen nebo nebyl-li - jako v projednávané věci - udělen, nemůže rejstříkový soud návrhu na výmaz společnosti z obchodního rejstříku vyhovět. Skutečnost, že daňový subjekt existenci a výši daňových pohledávek rozporuje, je pro řízení ve věcech obchodního rejstříku bez významu.
+Uvedený závěr považuje Nejvyšší soud za natolik jednoznačný, že neshledává důvodu k jeho potvrzení připustit v projednávané věci dovolání podle § 237 odst. 1 písm. c/ o. s. ř.
+Rozhodné znění občanského soudního řádu pro dovolací řízení (do 31. prosince 2012) se podává z bodu 7., článku II., zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 27. února 2013
+JUDr. Filip C i l e č e k
+předseda senátu
