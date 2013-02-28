@@ -1,0 +1,15 @@
+30 Cdo 511/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Pavlíka a soudců JUDr. Lubomíra Ptáčka, Ph.D., a JUDr. Pavla Vrchy, v právní věci žalobce JUDr. et Ing. P. G., Ph.D., proti žalovaným označeným: 1) Ing. V. K., 2) JUDr. V. C., 3) JUDr. J. P., 4) Mgr. R. J., 5) JUDr. M. V., 6) JUDr. T. N., 7) JUDr. P. S., 8) České republice, zastoupené Kanceláří prezidenta republiky, Praha 1, Pražský hrad, 9) JUDr. M. K., 10) České republice, zastoupené Ministerstvem spravedlnosti, se sídlem Praha 2, Vyšehradská 16, 11) České republice, zastoupené Ministerstvem vnitra, se sídlem v Praze 7, Nad Štolou 3, 12) JUDr. D. S., 13) JUDr. J. L., 14) Advokátní kanceláři Kříž a Bělina, s.r.o., Praha 1, Dlouhá 13, IČ 28524021, 15) JUDr. J. K., 16) „všem žalovaným Úředním osobám dle § 127 TZ se stálým pracovištěm u Vrchního soudu v Praze“, Praha 4, nám. Hrdinů 1300, 17) „všem žalovaným úředním osobám dle § 127 TZ se stálým pracovištěm na Krajském soudu v Praze“, Praha 5, nám. Kinských 5, a 18) „všem žalovaným úředním osobám dle § 127 TZ se stálým pracovištěm na Městském soudu v Praze“, Praha 1, Spálená 2, agenda občanskoprávní, vedené u Městského soudu v Praze pod sp. zn. 66 C 61/2010, o „adhezní žalobě na ochranu osobnosti Soudcovské funkce Městského soudu v Praze s odškodněním 400.000.000,- Kč s příslušenstvím“, o dovolání žalobce proti usnesení Vrchního soudu v Praze ze dne 4. září 2012, č.j. 1 Co 125/2012-88, takto:
+I. Dovolání žalobce se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění
+(§ 243c odst. 2 o.s.ř.):
+Vrchní soud v Praze usnesením ze dne 4. září 2012, č.j. 1 Co 125/2012-88, podle ustanovení § 207 odst. 1 o.s.ř. zastavil v důsledku zpětvzetí odvolání opatrovníkem žalobce v označené věci odvolací řízení proti usnesení Městského soudu v Praze ze dne 11. dubna 2012, č.j. 66 C 61/2010-78, a rozhodl o náhradě nákladů řízení. Toto usnesení odvolacího soudu napadl žalobce vlastnoručně sepsaným dovoláním. K dovolání nebylo podáno vyjádření.
+Nejvyšší soud ČR jako soud dovolací (§ 10a o.s.ř.) přihlédl k čl. II bodu 7. zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony a vyšel tak ze znění tohoto procesního předpisu účinného do 31. prosince 2012.
+Dovolání žalobce proti uvedenému usnesení Vrchního soudu v Praze, kterým bylo zastaveno odvolací řízení, není přípustné podle žádného z ustanovení § 236 až § 239 o.s.ř. upravujících předpoklady přípustnosti dovolání proti rozhodnutím odvolacích soudů. Nejvyšší soud ČR proto dovolání žalobce podle § 243b odst. 5 věty první a § 218 písm. c) o.s.ř. z důvodu jeho nepřípustnosti odmítl.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn § 243b odst. 5 věty první o.s.ř. ve spojení s § 224 odst. 1 a § 151 odst. 2 o.s.ř., neboť žalobce nemá na jejich náhradu nárok, zatímco žalobcem označeným žalovaným v tomto řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 28. února 2013
+JUDr. Pavel Pavlík, v. r.
+předseda senátu
