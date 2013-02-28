@@ -1,0 +1,19 @@
+25 Cdo 1499/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Roberta Waltra a soudců JUDr. Marty Škárové a JUDr. Petra Vojtka ve věci žalobce J. K., proti žalovaným 1) statutárnímu městu Chomutov, IČO 002 61 891, se sídlem úřadu Chomutov, Zborovská 4602, a 2) Kooperativa pojišťovně, a. s., Vienna Insurance Group, IČO 471 16 617, se sídlem Praha 8, Pobřežní 665/21, o náhradu škody na zdraví, vedené u Okresního soudu v Chomutově pod sp. zn. 28 C 125/2006, o dovolání žalobce proti rozsudku Krajského soudu v Ústí nad Labem ze dne 26. října 2010, č.j. 9 Co 437/2010-78, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Krajský soud v Ústí nad Labem rozsudkem ze dne 26. 10. 2010, č.j. 9 Co 437/2010-78, potvrdil rozsudek Okresního soudu v Chomutově ze dne 25. 1. 2010, č.j. 28 C 125/2006-51, jímž soud prvního stupně zamítl žalobu, kterou se žalobce domáhal náhrady škody na zdraví, a rozhodl o náhradě nákladů řízení; odvolací soud dále rozhodl o náhradě nákladů odvolacího řízení.
+Žalobce – nezastoupen advokátem – napadl rozsudek odvolacího soudu podáním adresovaným Nejvyššímu soudu, které je podle svého obsahu dovoláním.
+Jelikož žalobce nebyl ve smyslu ustanovení § 241 odst. 1 a 4 občanského soudního řádu (dále jen „o. s. ř.“) zastoupen advokátem a jeho podání neobsahovalo náležitosti zákonem stanovené pro dovolání (§ 241a odst. 1 o. s. ř.), soud prvního stupně usnesením ze dne 13. 4. 2011, č.j. 28 C 125/2006-85, žalobce vyzval, aby nedostatek podmínky povinného zastoupení v dovolacím řízení odstranil a prostřednictvím zvoleného advokáta podal řádné dovolání, a poučil jej o následcích nevyhovění výzvě.
+Žádost žalobce ze dne 19. 5. 2011 o ustanovení zástupce z řad advokátů pro podání dovolání byla pravomocně zamítnuta usnesením soudu prvního stupně ze dne 4. 8. 2011, č.j. 28 C 125/2006-109, potvrzeným usnesením odvolacího soudu ze dne 23. 3. 2012, č.j. 9 Co 29/2012-123. Následně soud prvního stupně usnesením ze dne 25. 8. 2012, č.j. 28 C 125/2006-128, žalobce opětovně vyzval k odstranění nedostatku podmínky povinného zastoupení v dovolacím řízení, stanovil mu k tomu lhůtu jeden měsíc od doručení usnesení a poučil jej o následcích nevyhovění výzvě.
+Nejvyšší soud jako soud dovolací (§ 10a o. s. ř.) posoudil dovolání – v souladu s čl. II. bodem 7 zákona č. 404/2012 Sb. – podle ustanovení občanského soudního řádu ve znění účinném do 31. 12. 2012 (dále opět jen „o. s. ř.“) a shledal, že dovolání bylo podáno včas, osobou k tomu oprávněnou - účastníkem řízení (§ 240 odst. 1 o. s. ř.), avšak nejsou dány podmínky pro jeho věcné projednání.
+Podle § 241 odst. 1, 2 a 4 o. s. ř. musí být dovolatel, který je fyzickou osobou, v dovolacím řízení zastoupen advokátem nebo (v rozsahu oprávnění stanoveného notářským řádem) notářem, jímž musí být dovolání též sepsáno; to neplatí, má-li takový dovolatel právnické vzdělání [§ 241 odst. 2 písm. a) o. s. ř.].
+Není-li splněna podmínka uvedená v § 241 o. s. ř., postupuje soud obdobně podle § 104 odst. 2 o. s. ř. (§ 241b odst. 2 o. s. ř.) a učiní vhodná opatření k odstranění nedostatku podmínky řízení. Nezdaří-li se nedostatek podmínky řízení odstranit, řízení zastaví.
+Jelikož dovolatel výzvě soudu ve stanovené lhůtě ani později nevyhověl a nedostatek podmínky povinného zastoupení v dovolacím řízení neodstranil, Nejvyšší soud dovolací řízení podle § 243c odst. 1 a § 104 odst. 2 o. s. ř. zastavil.
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5 větu první, § 224 odst. 1, § 146 odst. 2 větu první o. s. ř. a o skutečnost, že žalovaným nevznikly v dovolacím řízení náklady, na jejichž náhradu by jinak měli proti dovolateli právo.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 28. února 2013
+JUDr. Robert Waltr, v. r.
+předseda senátu
