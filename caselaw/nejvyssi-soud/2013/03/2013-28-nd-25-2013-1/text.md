@@ -1,0 +1,16 @@
+28 Nd 25/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Ludvíka Davida, CSc., a soudců JUDr. Josefa Rakovského a JUDr. Jana Eliáše, Ph.D., v právní věci žalobkyně L. H., zastoupené JUDr. Jaroslavem Poláčkem, advokátem v Pardubicích, nám. Republiky 53, proti žalované LIKO ICE, s. r. o., se sídlem v Otrokovicích, Nádražní 300, o zrušení rozhodčího nálezu, vedené u Okresního soudu v Olomouci pod sp. zn. 21 C 300/2012, o návrhu žalobkyně na delegaci, takto:
+Věc vedená u Okresního soudu v Olomouci pod sp. zn. 21 C 300/2012 se nepřikazuje k projednání a rozhodnutí Okresnímu soudu v Pardubicích.
+O d ů v o d n ě n í:
+Žalobkyně podala dne 8. 10. 2012 (s účinky ke dni 9. 10. 2012) k Okresnímu soudu v Olomouci žalobu o zrušení rozhodčího nálezu ze dne 17. 2. 2009, značka OZ 2566/2008, vydaného rozhodcem Mgr. Zdeňkem Kučerou, se sídlem v Olomouci, Mahlerova 19. Součástí žaloby učinila též návrh na přikázání shora označené věci z důvodu vhodnosti Okresnímu soudu v Pardubicích, poukazujíc na svou invaliditu s tím, že je starobní důchodkyní (č. l. 3).
+Vyjádření k návrhu na delegaci nebylo podáno.
+Nejvyšší soud jako soud nejblíže společně nadřízený příslušnému soudu (Okresnímu soudu v Olomouci) a Okresnímu soudu v Pardubicích, jemuž má být podle návrhu věc přikázána (§ 12 odst. 3 o. s. ř.), dospěl k závěru, že nejsou splněny podmínky pro přikázání věci jinému soudu z důvodu vhodnosti podle ustanovení § 12 odst. 2 o. s. ř.
+Podle § 12 odst. 2 o. s. ř. může být věc přikázána jinému soudu téhož stupně z důvodu vhodnosti.
+Důvod vhodnosti ve smyslu ustanovení § 12 odst. 2 o. s. ř. představují takové okolnosti, které umožní hospodárnější, rychlejší nebo zejména po skutkové stránce spolehlivější a důkladnější projednání věci jiným než příslušným soudem. Přitom je ale třeba mít na zřeteli, že obecná místní příslušnost soudu, který má podle zákona věc projednat, je základní zásadou, a že případná delegace této příslušnosti jinému soudu je toliko výjimkou z této zásady, kterou je nutno vykládat restriktivně (srov. nález Ústavního soudu ze dne 15. 11. 2001, sp. zn. I. ÚS 144/2000, uveřejněný ve Sbírce nálezů a usnesení ÚS, sv. 24, roč. 2001, poř. č. 172; dále k tomu např. usnesení Nejvyššího soudu ze dne 8. 2. 2001, sp. zn. 7 Nd 43/2001, usnesení téhož soudu ze dne 15. 7. 2008, sp. zn. 29 Nd 241/2008).
+Skutečnost a odkaz na špatný zdravotní stav či invaliditu není obecným důvodem k tomu, aby věc byla přikázána jinému soudu. Argumentace, kterou použila žalobkyně, není v tomto případě dostačující pro odůvodnění vhodnosti projednání věci jiným soudem než soudem, jehož příslušnost vyplývá ze zákona. Přikázáním věci Okresnímu soudu v Pardubicích patrně nemůže být dosaženo hospodárnějšího, rychlejšího a po skutkové stránce spolehlivějšího a důkladnějšího projednání věci. Ani případný výslech žalobkyně, jejíž bydliště se nachází v obvodu soudu, jemuž má být věc podle návrhu přikázána (Okresní soud v Pardubicích), není postačujícím důvodem pro delegaci věci (lze ji vyslechnout dožádaným soudem ve smyslu § 39 o. s. ř.).
+Nejvyšší soud proto návrhu žalobkyně na přikázání věci Okresnímu soudu v Pardubicích podle ustanovení § 12 odst. 2 o. s. ř. nevyhověl.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 13. března 2013
+JUDr. Ludvík D a v i d, CSc., v. r.
+předseda senátu
