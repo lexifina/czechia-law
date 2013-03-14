@@ -1,0 +1,17 @@
+11 Tcu 27/2013-9
+U S N E S E N Í
+Nejvyšší soud České republiky projednal dne 14. března 2013 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl t a k t o :
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení občanky České republiky, P. P. (alias A. V.), rozsudkem Soudu v Padově, Italská republika, ze dne 18. 1. 2000, sp. zn. 60/2000, ve spojení s rozsudkem Odvolacího soudu v Benátkách ze dne 19. 7. 2005, sp. zn. 1077/2000, hledí jako na odsouzení soudem České republiky.
+O d ů v o d n ě n í :
+Rozsudkem Soudu v Padově, Italská republika, ze dne 18. 1. 2000, sp. zn. 60/2000, ve spojení s rozsudkem Odvolacího soudu v Benátkách ze dne 19. 7. 2005, sp. zn. 1077/2000, který nabyl právní moci dne 20. 2. 2007, byla P. P. uznána vinnou trestným činem zneužívání prostituce a odsouzena k nepodmíněnému trestu odnětí svobody v trvání 3 (tří) roků.
+Podle skutkových zjištění cizozemských soudů se P. P. dopustila trestné činnosti v podstatě tím, že v Padově a přilehlých oblastech od července 1997 do ledna 2000 si nechávala denně vyplácet výnosy z prostituce od A. I., Z. M. a M. G., přičemž A. I. a Z. M. byly mladší 21 let.
+Ministerstvo spravedlnosti České republiky podalo ve shora uvedené věci návrh Nejvyššímu soudu České republiky (dále jen „Nejvyšší soud“) na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů (dále jen „zákon“).
+Nejvyšší soud věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro rozhodnutí podle § 4a odst. 3 zákona.
+Především je třeba uvést, že podle § 4a odst. 3 zákona může Nejvyšší soud na návrh Ministerstva spravedlnosti ČR rozhodnout, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Z podaného návrhu a z obsahu připojeného spisu vyplývá, že odsouzená P. P. je občankou České republiky, byla odsouzena cizozemským soudem a odsouzení se týká skutku, který vykazuje znaky trestného činu i podle příslušných právních předpisů České republiky (trestného činu kuplířství podle § 189 tr. zákoníku). Tím jsou splněny formální podmínky ustanovení § 4a odst. 3 zákona.
+V posuzované věci jsou ovšem dány i podmínky materiální povahy. Odsouzená P. P. se dopustila činnosti, k jejímuž postihu Českou republiku zavazuje i mezinárodní úmluva (Mezinárodní smlouva o potlačování a zrušení obchodu s lidmi a vykořisťování prostituce jiného ze dne 2. 12. 1949). Společenská škodlivost její trestné činnosti je zvyšována i tím, že se této trestné činnosti dopustila vůči více osobám, a tuto páchala po dobu dvou a půl roku. Pokud jde o druh uloženého trestu, ze spisového materiálu vyplynulo, že odsouzené byl již uložen citelný trest odnětí svobody. Lze tedy dovodit, že jsou splněny všechny podmínky pro to, aby se na výše uvedené odsouzení P. P. hledělo jako na odsouzení soudem České republiky.
+Z uvedených důvodů proto Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 14. března 2013
+Předseda senátu:
+JUDr. Antonín Draštík
