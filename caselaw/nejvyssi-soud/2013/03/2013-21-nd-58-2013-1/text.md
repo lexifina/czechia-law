@@ -1,0 +1,18 @@
+21 Nd 58/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Jiřího Doležílka a soudců JUDr. Ljubomíra Drápala a JUDr. Zdeňka Novotného v právní věci žalobkyně J. Č., proti žalovanému HANZELLI, a. s. se sídlem v Praze 1 – Starém Městě, Revoluční č. 762/13, IČO 25078119, zastoupenému JUDr. Jindřichem Vítkem, Ph. D., advokátem se sídlem v Praze 2, Nad Petruskou č. 1, o určení spoluvlastnictví k nemovitostem, vedené u Okresního soudu ve Vyškově pod sp. zn. 6 C 207/2012, o přikázání věci z důvodu vhodnosti, takto:
+Věc, vedená u Okresního soudu ve Vyškově pod sp. zn. 6 C 207/2012, se nepřikazuje k projednání a rozhodnutí Obvodnímu soudu pro Prahu 8.
+Odůvodnění:
+Žalobkyně se žalobou podanou u Okresního soudu Praha-východ domáhala určení, že je spoluvlastnicí nemovitostí nacházejících se v několika katastrálních územích, které jsou v obvodu více krajských soudů v České republice. Uvedla, že zvolila z důvodu vhodnosti Okresní soud Praha-východ, v jehož obvodu se nachází část nemovitostí a jehož sídlo je v obvodu hlavního města Prahy, kde má sídlo žalovaný a kde má žalobkyně bydliště.
+Okresní soud Praha-východ – poté, co vyloučil řízení ve věci určení spoluvlastnictví k nemovitostem nacházejícím se v katastrálním území a obci Lovčičky k samostatnému řízení - usnesením ze dne 31. 5. 2012 č. j. 7 C 148/2012-19 vyslovil ve věci místní nepříslušnost s tím, že věc bude po právní moci usnesení postoupena Okresnímu soudu ve Vyškově, který je ve věci místně příslušný podle ustanovení § 88 písm. i) o. s. ř.
+Okresní soud ve Vyškově má za to, že jsou dány důvody vhodnosti pro přikázání věci Obvodnímu soudu pro Prahu 8, neboť v obvodu tohoto soudu se nachází sídlo žalovaného a žalobkyně má v Praze bydliště.
+Žalobkyně s přikázáním věci Obvodnímu soudu pro Prahu 8 souhlasí.
+Žalovaný s přikázáním věci Obvodnímu soudu pro Prahu 8 nesouhlasí, neboť projednání věci tímto soudem by nebylo v zájmu hospodárnosti řízení a neznamenalo by z „komplexního pohledu“ rychlejší či po skutkové stránce spolehlivější a důkladnější posouzení věci; v řízení bude „využita svědecká výpověď“ původního vlastníka nemovitosti, jehož bydliště se nachází v obvodu Okresního soudu ve Vyškově.
+Podle ustanovení § 12 odst. 2 o. s. ř. věc může být přikázána jinému soudu téhož stupně z důvodu vhodnosti.
+Důvod vhodnosti pro přikázání věci jinému soudu téhož stupně ve smyslu ustanovení § 12 odst. 2 o. s. ř. představují takové okolnosti, které umožní hospodárnější, rychlejší nebo zejména po skutkové stránce spolehlivější a důkladnější projednání věci jiným než příslušným soudem. Současně je třeba přihlížet k tomu, že místní příslušnost soudu, který má podle zákona věc projednat, je základní zásadou, a že případné přikázání věci jinému soudu představuje výjimku z této zásady, kterou je nutno - právě proto, že jde o výjimku - vykládat restriktivně.
+V posuzovaném případě se řízení týká práva k nemovitostem. Místně příslušným k projednání a rozhodnutí této věci proto není obecný soud žalovaného, ale soud, v jehož obvodu jsou nemovitosti, k nimž má být podle žaloby určeno spoluvlastnictví žalobkyně [srov. § 88 písm. i) o. s. ř.]; tímto soudem je Okresní soud ve Vyškově. Přikázáním věci Obvodnímu soudu pro Prahu 8, v jehož obvodu měl žalovaný v době zahájení řízení sídlo, se kterým žalovaný nesouhlasí, nemůže být dosaženo hospodárnějšího, rychlejšího a ani po skutkové stránce spolehlivějšího a důkladnějšího projednání věci.
+Nejvyšší soud proto podle ustanovení § 12 odst. 2 o. s. ř. rozhodl, že věc se nepřikazuje k projednání a rozhodnutí Obvodnímu soudu pro Prahu 8.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 19. března 2013
+JUDr. Jiří Doležílek, v. r.
+předseda senátu
