@@ -1,0 +1,16 @@
+20 Cdo 3065/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Vladimíra Mikuška a soudkyň JUDr. Olgy Puškinové a JUDr. Miroslavy Jirmanové, Ph.D. v exekuční věci oprávněného J. H., proti povinnému P. S., pro 5.000,- Kč s příslušenstvím, vedené u Okresního soudu v Chomutově pod sp. zn. 44NC 7964/2008, o dovolání oprávněného proti usnesení Krajského soudu v Ústí nad Labem ze 7. března 2012, č. j. 14Co 133/2012-20, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Proti shora označenému rozhodnutí, jímž krajský soud změnil usnesení soudního exekutora JUDr. Jana Parasky, Exekutorský úřad Most, z 30. 9. 2011, č. j. 130 EX 3531/08-15/E 1, tak, že se exekuce nařízená usnesením Okresního soudu v Chomutově z 20. 11. 2008, č. j. 44 Nc 7964/2008-6, nezastavuje, podal oprávněný dovolání.
+Nejvyšší soud věc projednal podle občanského soudního řádu ve znění účinném od 1. 7. 2009 do 31. 12. 2012 (čl. II Přechodných ustanovení, bod 12, zákona č. 7/2009 Sb., a čl. II Přechodných ustanovení, bod 7, zákona č. 404/2012 Sb.).
+Jelikož dovolání mělo nedostatky bránící dalšímu pokračování dovolacího řízení (spočívající v absenci náležitostí dovolání podle § 241a odst. 1 o. s. ř.) a nebylo ani sepsáno advokátem, soudní exekutor dovolatele usnesením z 24. 7. 2012, č. j. 130 EX 3531/08-29/E 1, doručeným mu 27. 7. 2012, vyzval, aby ve lhůtě 15 dnů od doručení usnesení nedostatky podání odstranil a zvolil si zástupcem advokáta, jehož prostřednictvím podá řádné dovolání. Zároveň ho poučil, že nevyhoví-li výzvě, bude dovolací řízení zastaveno. Na výzvu dovolatel reagoval podáním ze 30.7.2012, avšak vytčené nedostatky neodstranil.
+Z ustanovení § 241 odst. 1, 2 písm. a), odst. 4 o. s. ř. plyne, že dovolatel (fyzická osoba), nemá-li právnické vzdělání, musí být zastoupen advokátem (příp. notářem), jenž musí dovolání také sepsat. Zvolí-li si advokáta až poté, co sám podal dovolání, je ke splnění podmínky zastoupení dovolatele nezbytné, aby zmocněnec (advokát) jím dříve učiněné podání nahradil nebo doplnil vlastním, popř. sdělil soudu, že se s již učiněným podáním ztotožňuje.
+Protože podmínka povinného zastoupení dovolatele v dovolacím řízení (k jejímuž splnění je třeba i sepisu dovolání advokátem, viz usnesení Nejvyššího soudu z 27. května 1999, sp. zn. 26 Cdo 1121/99, uveřejněné v časopise Soudní judikatura č. 6, ročník 2000 pod poř. č. 64) je podmínkou týkající se účastníků řízení, jejíž nedostatek brání - kromě usnesení, kterým se dovolací řízení právě pro neodstranění tohoto nedostatku zastavuje - vydání rozhodnutí, jímž se řízení končí (§ 241 odst. 1 o. s. ř.), a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu nedošlo, Nejvyšší soud řízení o dovolání podle § 104 odst. 2 a § 243c odst. 1 o. s. ř. zastavil.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn skutečností, že povinnému, jenž by jinak měl na tuto náhradu právo podle ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 2 věty první o. s. ř., náklady tohoto řízení prokazatelně (podle obsahu spisu) nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 19. března 2013
+JUDr. Vladimír Mikušek
+předseda senátu
