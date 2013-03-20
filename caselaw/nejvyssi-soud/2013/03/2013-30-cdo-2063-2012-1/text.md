@@ -1,0 +1,20 @@
+30 Cdo 2063/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Ištvánka a soudců JUDr. Lubomíra Ptáčka, Ph.D., a JUDr. Pavla Simona ve věci žalobkyně PhDr. H. P., zastoupené JUDr. Janou Kašpárkovou, advokátkou se sídlem v Olomouci, Blanická 917/19, proti žalované České republice - Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 16, o náhradu nemajetkové újmy, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 22 C 188/2008, o dovolání žalobkyně proti rozsudku Městského soudu v Praze ze dne 30. 9. 2011, č. j. 13 Co 249/2011-136, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Odvolací soud potvrdil rozsudek soudu prvního stupně, jímž byla zamítnuta žaloba o celkem 90.000,- Kč, a rozhodl o náhradě nákladů odvolacího řízení.
+Této částky se žalobkyně po žalované domáhala z titulu přiměřeného zadostiučinění za tvrzený nesprávný úřední postup, jenž měl spočívat jednak v tom, že Obvodní soud pro Prahu 1 v řízení vedeném pod sp. zn. 23 C 11/2006 nevydal rozsudek pro uznání, ačkoliv pro to byly splněny zákonné podmínky (z tohoto titulu požadovala žalobkyně 50.000,- Kč), a jednak tím, že nebyla dodržena zákonná lhůta k vyřízení žádosti žalobkyně o určení lhůty k provedení procesního úkonu (z tohoto důvodu požadovala zaplacení 40.000,- Kč).
+Soudy žalobu v obou částech zamítly, neboť neshledaly, že by v daných případech došlo k nesprávnému úřednímu postupu ve smyslu § 13 odst. 1 zákona č. 82/1998 Sb., odpovědnosti za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo nesprávným úředním postupem a o změně zákona České národní rady č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), ve znění pozdějších předpisů.
+Proti rozsudku odvolacího soudu podala žalobkyně dovolání, jehož přípustnost dovozovala ze zásadního právního významu napadeného rozhodnutí. Důvodnost dovolání pak spatřovala v nesprávném právním posouzení věci. Navrhla, aby dovolací soud zrušil rozsudky soudů obou stupňů a věc vrátil soudu prvního stupně k dalšímu řízení.
+Nejvyšší soud jakožto soud dovolací při projednání dovolání a rozhodnutí o něm postupoval podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2012 (viz přechodné ustanovení čl. II, bod 7, zákona č. 404/2012 Sb.) - dále jen „o. s. ř.“, jakož i se zřetelem k nálezům Ústavního soudu ze dne 28. 2. 2012, sp. zn. Pl. ÚS 29/11, a ze dne 6. 3. 2012, sp. zn. IV. ÚS 1572/11, dostupným na internetových stránkách Ústavního soudu, http://nalus.usoud.cz).
+Dospěl k závěru, že dovolání bylo podáno včas, osobou k tomu oprávněnou, zastoupenou advokátem. Proto se dále zabýval jeho přípustností.
+Dospěl k závěru, že dovolání není přípustné, neboť dovoláním dotčeným výrokem nebylo rozhodnuto o peněžitém plnění převyšujícím 50.000,- Kč (§ 237 odst. 2 písm. a/ o. s. ř.). Oba žalobou uplatněné nároky vychází z odlišného skutkového základu, a pro účely přípustnosti dovolání je proto bylo třeba posuzovat zvláště. V jednom případě se jedná o peněžitý nárok ve výši 50.000,- Kč a ve druhém případě o peněžitý nárok ve výši 40.000,- Kč.
+Je však nutno poznamenat, že žalobkyně se v daném případě řídila nesprávným poučením odvolacího soudu o přípustnosti dovolání. Nesprávné poučení odvolacího soudu o tom, že dovolání je přípustné, ovšem přípustnost dovolání nezakládá (usnesení Nejvyššího soudu ze dne 20. 5. 2003, sp. zn. 29 Odo 10/2003, publikované v Soudní judikatuře jako SJ 118/2003, číslo sešitu 7/2003, veřejnosti dostupné též na internetových stránkách Nejvyššího soudu, www.nsoud.cz).
+Dovolací soud proto dovolání podle § 243b odst. 5 a § 218 písm. c) o. s. ř. odmítl.
+Při rozhodování o náhradě nákladů řízení vycházel dovolací soud z toho, že žalobkyně, jejíž dovolání bylo odmítnuto, nemá na náhradu nákladů řízení právo a žalované v dovolacím řízení žádné účelně vynaložené náklady nevznikly.
+Proti tomuto usnesení nejsou opravné prostředky přípustné.
+V Brně dne 20. března 2013
+JUDr. František Ištvánek, v. r.
+předseda senátu
