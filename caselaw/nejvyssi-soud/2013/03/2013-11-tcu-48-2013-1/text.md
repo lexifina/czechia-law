@@ -1,0 +1,19 @@
+11 Tcu 48/2013-8
+U S N E S E N Í
+Nejvyšší soud České republiky projednal dne 21. března 2013 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na přijetí rozhodnutí ve věci občana České republiky, obv. P. L. , Česká republika, podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl t a k t o :
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení P. L. , rozsudkem Zemského soudu Salzburg ze dne 5. 12. 2011, sp. zn. 37 Hv 115/2011f, pro spáchání zločinu pokusu o opakovanou těžkou krádež podle § 15 odst. 1, § 127, § 128 odst. 1 č. 4, § 130 3. případ rakouského tr. zákoníku, za který mu byl uložen trest odnětí svobody v trvání 15 (patnácti) měsíců, hledí jako na odsouzení soudem České republiky.
+O d ů v o d n ě n í :
+Rozsudkem Zemského soudu Salzburg (Rakouská republika) ze dne 5. 12. 2011, sp. zn. 37 Hv 115/2011f, který nabyl právní moci téhož dne, byl obv. P. L. uznán vinným ze spáchání výše uvedeného trestného činu a následně odsouzen k trestu odnětí svobody v trvání 15 (patnácti) měsíců.
+Podle skutkových zjištění Zemského soudu Salzburg:
+dne 12. 9. 2011 se obv. P. L. v S. pokusil dále uvedeným osobám odcizit movité věci v celkové hodnotě cca 30.000,- EUR s úmyslem se jejich nezákonným přivlastněním obohatit, přičemž jednal se záměrem obstarat si opakovaným pácháním těžkých krádeží příjem. Konkrétně obv. L. odcizil
+a) neznámé osobě bílý osobní automobil zn. Ford Mondeo v neznámé, avšak minimálně 3.000,- EUR přesahující hodnotě,
+b) neznámé osobě stříbrně zbarvený osobní automobil VW Passat v neznámé, avšak minimálně 3.000,- EUR přesahující hodnotě,
+c) osobě s dispozičním oprávněním Spolkového ministerstva vnitra modré služební vozidlo VW Passat v hodnotě cca 18.000,- EUR.
+Ministerstvo spravedlnosti České republiky podalo dopisem pod sp. zn. 367/2012-MOT-T/10 ze dne 5. 3. 2013, Nejvyššímu soudu České republiky (dále jen „Nejvyšší soud“) návrh na přijetí rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů (dále jen „zákon“). Tento návrh byl doručen Nejvyššímu soudu dne 7. 3. 2013.
+Podle § 4a odst. 3 může Nejvyšší soud na návrh Ministerstva spravedlnosti ČR rozhodnout, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Nejvyšší soud věc přezkoumal a shledal, že odsouzený P. L. je občanem České republiky, byl odsouzen soudem jiného členského státu Evropské unie a odsouzení se týká skutků, které vykazují znaky trestného činu i podle příslušných právních předpisů České republiky (trestné činy krádeže podle § 205 tr. zákoníku). Tím jsou splněny formální podmínky § 4a odst. 3 zákona.
+Co se týče závažnosti spáchaných skutků, odsouzený se dopustil závažné pokračující majetkové trestné činnosti, při které se pokusil odcizit majetek v celkové hodnotě cca 30.000,- EUR, aby si tak obstaral významnou finanční částku. Tomu také odpovídá druh a výměra uděleného trestu odnětí svobody – ze spisového materiálu vyplynulo, že odsouzenému byl uložen trest, který zcela odpovídá závažnosti spáchaných trestných činů, tj. trest odnětí svobody v trvání, která byla uložena v trvání 15 (patnácti) měsíců.
+Z toho vyplývá, že jsou splněny všechny podmínky pro to, aby se na výše uvedené odsouzení obv. P. L. hledělo jako na odsouzení soudem České republiky, a proto Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 21. března 2013
+Předseda senátu: JUDr. Stanislav Rizman
