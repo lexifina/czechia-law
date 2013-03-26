@@ -1,0 +1,20 @@
+20 Cdo 273/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Olgy Puškinové a soudců JUDr. Vladimíra Mikuška a JUDr. Miroslavy Jirmanové,Ph. D., v exekuční věci oprávněné Sto s.r.o., se sídlem v Čestlicích 271 - pošta Dobřejovice, PSČ 251 70, identifikační číslo osoby 639 07 135, zastoupené Mgr. Ing. Markem Vrbickým, advokátem se sídlem v Praze 1, V Jámě 1, proti povinné RaMiStav, s.r.o., se sídlem v Plzni-Východním Předměstí, Denisovo nábřeží 2568/6, identifikační číslo osoby 281 84 530, vedené u Okresního soudu Plzeň-město pod sp. zn. 75 EXE 1120/2012, pro 109.237,50 Kč s příslušenstvím, o dovolání oprávněné proti usnesení Krajského soudu v Plzni ze dne 19. září 2012, č. j. 14 Co 484/2012 - 34, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Shora označeným usnesením Krajský soud v Plzni potvrdil usnesení ze dne 13. 7. 2012, č. j. 75 EXE 1120/2012 - 21, jímž Okresní soud Plzeň-město zamítl návrh oprávněné na nařízení exekuce podle vykonatelného rozhodčího nálezu Rozhodčího soudu při hospodářské a agrární komoře České republiky sp. zn. Rsp 1090/11 ze dne 8. 12. 2011 k uspokojení pohledávky oprávněné proti povinné v částce 109.237,50 Kč s příslušenstvím.
+Proti tomuto usnesení podala oprávněná dne 27. 12. 2012 dovolání.
+Nejvyšší soud ČR jako soud dovolací (§ 10a o. s. ř.) dospěl po přezkoumání věci k závěru, že dovolání bylo podáno opožděně.
+Podle § 240 odst. 1 o. s. ř. účastník může podat dovolání do dvou měsíců od doručení rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Bylo-li odvolacím soudem vydáno opravné usnesení, běží tato lhůta od doručení opravného usnesení.
+Podle § 240 odst. 2 o. s. ř. zmeškání lhůty uvedené v odstavci 1 nelze prominout; lhůta je však zachována, bude-li dovolání podáno ve lhůtě u dovolacího nebo odvolacího soudu.
+Podle § 240 odst. 3 o. s. ř. lhůta je zachována také tehdy, jestliže dovolání bylo podáno po uplynutí dvouměsíční lhůty proto, že se dovolatel řídil nesprávným poučením soudu o dovolání. Neobsahuje-li rozhodnutí poučení o dovolání, o lhůtě k dovolání nebo o soudu, u něhož se podává, nebo obsahuje-li nesprávné poučení o tom, že dovolání není přípustné, lze podat dovolání do čtyř měsíců od doručení.
+Podle obsahu spisu bylo usnesení odvolacího soudu oprávněné doručeno dne 16. 10. 2012. V dané věci tedy běžela lhůta k podání dovolání ode dne doručení usnesení odvolacího soudu oprávněné (nebylo vydáno opravné usnesení), tj. od 16. 10. 2012 a skončila dne 17. 12. 2012. Je tedy zřejmé, že dvouměsíční lhůta k podání dovolání nebyla dodržena, neboť dovolání oprávněné bylo podáno až po marném uplynutí zákonné dvouměsíční lhůty k dovolání (dne 27. 12. 2012). O žádnou ze situací uvedených v § 240 odst. 3 o. s. ř. se v daném případě nejedná (jak se dovolatelka nesprávně domnívá).
+Pro úplnost dovolací soud uvádí, že i kdyby bylo dovolání v posuzované věci podáno včas, muselo by být jako ze zákona nepřípustné odmítnuto [ve věcech výkonu rozhodnutí (exekuce) lze dovolání podat jen v případech uvedených v § 238a odst. 1 písm. c) až f) o. s. ř.; s účinností od 1. 7. 2009 již toto ustanovení s možností podat dovolání proti usnesení odvolacího soudu, jímž bylo potvrzeno nebo změněno usnesení soudu prvního stupně, kterým bylo rozhodnuto o návrhu na nařízení výkonu rozhodnutí (exekuce), nepočítá - srov. § 238a odst. 1 písm. c) o. s. ř. ve znění účinném do 30. 6. 2009].
+Dovolání oprávněné bylo proto podle § 243b odst. 5, věty první a § 218a o. s. ř. ve znění účinném od 1. 7. 2009 do 31. 12. 2012 (viz článek II, bod 12. části první zákona č. 7/2009 Sb. a článek II, bod 7. části první zákona č. 404/2012 Sb.) odmítnuto.
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, věta první, § 224 odst. 1 a § 151 odst. 1 o. s. ř., neboť oprávněná nemá na náhradu nákladů právo a povinné v tomto řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. března 2013
+JUDr. Olga Puškinová
+předsedkyně senátu
