@@ -1,0 +1,14 @@
+33 Cdo 549/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Blanky Moudré a soudců JUDr. Václava Dudy a JUDr. Pavla Krbka ve věci žalobce R. J., zastoupeného Mgr. Radimem Struminským, advokátem se sídlem Havířov-Město, Svornosti 2, proti žalované P. J., zastoupené Mgr. Markétou Tylečkovou, advokátkou se sídlem Havířov-Město, Svornosti 2, o zaplacení 45.200,- Kč s příslušenstvím a o vzájemné žalobě o zaplacení 3.394,- Kč s příslušenstvím, vedené u Okresního soudu v Karviné-pobočky v Havířově pod sp. zn. 112 C 86/2010, o dovolání žalované proti rozsudku Krajského soudu v Ostravě ze dne 11. května 2012, č. j. 57 Co 404/2011-117, takto:
+I. Dovolání se odmítá.
+II. Žalovaná je povinna zaplatit České republice do tří dnů od právní moci tohoto usnesení na náhradě nákladů dovolacího řízení žalovaného částku 3.921,- Kč na účet Okresního soudu v Karviné-pobočky v Havířově.
+O d ů v o d n ě n í :
+Přípustnost dovolání žalované proti rozsudku ze dne 11. května 2012, č. j. 57 Co 404/2011-117, kterým Krajský soud v Ostravě potvrdil rozsudek Okresního soudu v Karviné-pobočky v Havířově ze dne 18. dubna 2011, č. j. 112 C 86/2010-91, ve výrocích II. až IV., jimiž soud prvního stupně uložil žalované povinnost zaplatit žalobci částku 45.200,- Kč se specifikovanými úroky z prodlení a zamítl vzájemnou žalobu o zaplacení částky 3.394,- Kč se specifikovanými úroky z prodlení a rozhodl o nákladech řízení, je vyloučena podle § 237 odst. 2 písm. a/ zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2012 - dále jen „o. s. ř.“ (srovnej článek II bod 7. zákona č. 404/2012 Sb.), neboť ani jedním z dovoláním dotčených výroků nebylo rozhodnuto o peněžitém plnění převyšujícím limit 50.000,- Kč.
+Nejvyšší soud České republiky proto dovolání žalované odmítl (§ 243b odst. 5 věta první, § 218 písm. c/ o. s. ř.).
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř. za stavu, kdy České republice vznikly náklady v souvislosti s podáním vyjádření k dovolání advokáta ustanoveného žalobci k ochraně jeho zájmů v dovolacím řízení. Náklady tvoří mimosmluvní odměna ustanoveného advokáta ve výši 2.940,- Kč (§ 1 odst. 3, § 6 odst. 1, § 7 bod 5, § 8 odst. 3 vyhlášky č. 177/1996 Sb., v rozhodném znění), náhrada hotových výdajů ve výši 300,- Kč (§ 13 odst. 1 a 3 vyhlášky 177/1996 Sb.) a částka 681,- Kč odpovídající dani z přidané hodnoty, kterou je advokát povinen z odměny za zastupování a náhrad odvést podle zákona č. 235/2004 Sb., o dani z přidané hodnoty, v platném znění (§ 137 odst. 3 o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+Nesplní-li povinná dobrovolně, co jí ukládá vykonatelné rozhodnutí, může oprávněný podat návrh na soudní výkon rozhodnutí (exekuci).
+V Brně dne 27. března 2013
+JUDr. Blanka Moudrá, v. r.
+předsedkyně senátu
