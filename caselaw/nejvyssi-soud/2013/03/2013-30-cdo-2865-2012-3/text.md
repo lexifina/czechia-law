@@ -1,0 +1,12 @@
+30 Cdo 2865/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Pavlem Pavlíkem ve věci vyšetřované R. H., zastoupené opatrovnicí L. B., a opatrovníkem pro řízení Mgr. Ing. Markem Luhanem, advokátem se sídlem v Lysé nad Labem, Masarykova l250/50, za účasti navrhovatele Domova pro osoby se zdravotním postižením v Lubech, se sídlem Luby-Horní Luby 731, a za účasti Okresního státního zastupitelství v Chebu, o navrácení způsobilosti k právním úkonům, vedené u Okresního soudu v Chebu pod sp. zn. 19 P 36/2000, o dovolání vyšetřované proti rozsudku Krajského soudu v Plzni ze dne 23. května 2012, č.j. 18 Co 562/2011-247, takto:
+Rozsudek Nejvyššího soudu České republiky ze dne 22. listopadu 2012, č.j. 30 Cdo 2865/2012-275, se v odůvodnění opravuje tak, že druhá věta třetího odstavce na čísle listu 7 správně zní: “Z tohoto důvodu Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) rozsudek odvolacího soudu s přihlédnutím k ustanovení § 243b odst. 2 a 3 o.s.ř. zrušil a věc vrátil uvedenému soudu k dalšímu řízení.“ Následující třetí a čtvrtá věta téhož odstavce se vypouštějí.
+O d ů v o d n ě n í :
+Nejvyšší soud České republiky v označené věci podle ustanovení § 243b odst. 2 a 3 občanského soudního řádu (dále jen "o.s.ř."), s ohledem na aplikaci ustanovení § 10 odst. 1 a 2 občanského zákoníku (dále jen „obč. zák.“) rozsudkem ze dne 22. listopadu 2012, č.j. 30 Co 2865/2012-275, vyslovil, že se zrušuje rozsudek Krajského soudu v Plzni ze dne 23. května 2012, č.j. 18 Co 562/2011-247, a věc se v tomto rozsahu vrací tomuto soudu k dalšímu řízení. Soud v tomto případě v důsledku úpravy obsažené v článku II. bodu 12. zákona č. 7/2009 Sb., kterým se mění zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, ve věci postupoval podle znění o.s.ř. účinného od 1. července 2009.
+Podle ustanovení § 164 odst. 1 o.s.ř. předseda senátu opraví v rozsudku kdykoliv i bez návrhu chyby v psaní a v počtech, jakož i jiné zjevné nesprávnosti.
+V odůvodnění rozhodnutí došlo ke zjevné nesprávnosti, když byla užita ve třetím odstavci na č.l.7 třetí a čtvrtá věta, které neodpovídají vyhlášenému výroku. Z tohoto důvodu se v rámci opravy této zjevné nesprávnosti třetí a čtvrtá věta vypouštějí a současně byla opravena věta druhá v souladu s vyhlášeným výrokem.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 27. března 2013
+JUDr. Pavel P a v l í k
+předseda senátu
