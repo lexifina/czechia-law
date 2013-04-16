@@ -1,0 +1,17 @@
+20 Cdo 586/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové, Ph.D. a soudců JUDr. Olgy Puškinové a JUDr. Vladimíra Mikuška v exekuční věci oprávněné Česká voda, s. r. o., se sídlem v Praze 5 - Smíchov, U Nikolajky 1085/15, identifikační číslo osoby 251 11 817, zastoupené JUDr. Tomášem Ficnerem, Ph.D., advokátem se sídlem v Karlových Varech, Bělehradská 1042/14, proti povinné České minerální vody, spol. s r. o., se sídlem v Karlových Varech, Sportovní 574/15, identifikační číslo osoby 635 08 605, pro 6,162.625,- Kč s příslušenstvím, vedené u Okresního soudu v Karlových Varech pod sp. zn. 25 EXE 1928/2012, o dovolání oprávněné proti usnesení Krajského soudu v Plzni ze dne 27. 9. 2012, č. j. 13 Co 607/2012-21, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.):
+Odvolací soud napadeným rozhodnutím potvrdil usnesení ze dne 9. 8. 2012, č. j. 25 EXE 1928/2012-9, kterým soud prvního stupně zamítl návrh na nařízení exekuce k vymožení povinnosti ze směnečného platebního rozkazu Krajského soudu v Plzni ze dne 9. 6. 1998, č. j. 28 Cm 996/97, a na pověření soudního exekutora. Rozhodnutí odvolacího soudu napadla oprávněná, ač řádně poučena o jeho nepřípustnosti, dovoláním.
+Nejvyšší soud dovolání projednal a rozhodl o něm podle zákona č. 99/1963 Sb., občanský soudní řád ve znění účinném od 1. 7. 2009 do 31. 12. 2012 (viz. Čl. II Přechodných ustanovení, bod 12. části první zákona č. 7/2009 Sb. a článek II, bod 7. části první zákona č. 404/2012 Sb.), dále jen „o. s. ř.“.
+Dovolání není přípustné.
+Podle ustanovení § 236 odst. l o. s. ř., lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Podle Části první, Čl. II Přechodná ustanovení, bodu 12 zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, dovolání proti rozhodnutím odvolacího soudu vyhlášeným (vydaným) před dnem nabytí účinnosti tohoto zákona se projednají a rozhodnou podle dosavadních právních předpisů; užití nového znění § 243c odst. 2 tím není dotčeno. Zákon nabyl účinnosti 1. 7. 2009. Z uvedeného ustanovení vyplývá, že dovolání proti rozhodnutím odvolacího soudu (vyhlášeným) vydaným po 1. 7. 2009 se projednají a rozhodnou podle příslušných ustanovení občanského soudního řádu upravujících dovolací řízení již ve znění účinném od 1. 7. 2009.
+Z ustanovení § 238a odst. 1 o. s. ř. dále vyplývá, že od 1. 7. 2009 již není dovolání přípustné proti usnesením odvolacího soudu, jimiž bylo rozhodnuto o odvolání proti usnesení soudu prvního stupně o návrhu na nařízení výkonu rozhodnutí (exekuce). Jestliže tedy v souzené věci odvolací soud rozhodl o odvolání povinné 27. 9. 2012, dovolání proti tomuto rozhodnutí není již přípustné.
+Nejvyšší soud proto, aniž ve věci nařizoval jednání (§ 243a odst. l věta první o. s. ř.), dovolání odmítl (§ 243b odst. 5, § 218 písm. c/ o. s. ř.).
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 3 o. s. ř. Oprávněná na náhradu nákladů řízení nemá právo a povinné v dovolacím řízení podle obsahu spisu žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 16. dubna 2013
+JUDr. Miroslava Jirmanová, Ph.D., v. r.
+předsedkyně senátu
