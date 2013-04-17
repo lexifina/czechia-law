@@ -1,0 +1,14 @@
+26 Nd 72/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Pavlíny Brzobohaté a soudců JUDr. Miroslava Feráka a JUDr. Jitky Dýškové v právní věci žalobce Ing. F. P., bytem v P., proti žalovanému V. K., bytem v P., o zrušení a vypořádání podílového spoluvlastnictví, vedené u Okresního soudu v České Lípě pod sp. zn. 15 C 320/2011, o „odvolání“ žalovaného proti usnesení Krajského soudu v Ústí nad Labem, pobočky v Liberci ze dne 15. listopadu 2012, č. j. 29 Nc 740/2012-244, takto:
+Řízení o „odvolání“ žalovaného proti usnesení Krajského soudu v Ústí nad Labem, pobočky v Liberci ze dne 15. listopadu 2012, č. j. 29 Nc 740/2012-244, se zastavuje.
+O d ů v o d n ě n í:
+Napadeným usnesením Krajský soud v Ústí nad Labem, pobočka v Liberci jako soud nadřízený Okresnímu soudu v České Lípě (§ 16 odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění do 31. 12. 2012 /čl. II bodu 7 zákona č. 404/2012 Sb., kterým se mění o. s. ř./, dále jen „o. s. ř.“) rozhodl, že soudkyně Okresního soudu v České Lípě JUDr. Alena Divíšková není vyloučena z projednávání a rozhodování věci vedené u Okresního soudu v České Lípě pod sp. zn. 15 C 320/2011.
+Podáním označeným jako odvolání (č. l. 250-252, 263-268) napadl žalovaný správnost tohoto usnesení.
+Odvoláním lze napadnout jen rozhodnutí soudu prvního stupně (§ 201 o. s. ř.). O tom, zda je soudce vyloučen, rozhoduje nadřízený soud (§ 16 odst. 1 o. s. ř.), pojem „nadřízený soud” je však použit občanským soudním řádem k určení věcné příslušnosti soudu, rozhoduje-li krajský soud o vyloučení soudců okresního soudu, není toto jeho rozhodnutí rozhodnutím soudu prvního stupně (srovnej usnesení Nejvyššího soudu ze dne 8. 12. 2000, sp. zn. 31 Cdo 1425/98).
+Občanský soudní řád neupravuje funkční příslušnost soudu pro projednání odvolání nebo dovolání proti usnesení, jímž nadřízený krajský soud rozhoduje o vyloučení soudce (srovnej např. usnesení Nejvyššího soudu ze dne 25. 09. 2012, sp. zn. 29 Cdo 2588/2012, ze dne 24. 3. 1999, sp. zn. 31 Cdo 2420/98, a ze dne 23. 11. 2011, sp. zn. 32 Cdo 3115/2011). Nedostatek funkční příslušnosti je neodstranitelným nedostatkem podmínky řízení, Nejvyšší soud (jako vrcholný článek soustavy soudů) proto řízení o podání žalovaného zastavil podle § 104 odst. 1 o. s. ř., aniž by se mohl zabývat jeho námitkou, že napadené usnesení vydali soudci, u nichž je důvod pochybovat o jejich nepodjatosti.
+O náhradě nákladů tohoto řízení Nejvyšší soud nerozhodoval, neboť jím řízení nekončí, o nákladech bude rozhodnuto v konečném rozhodnutí (srovnej usnesení Nejvyššího soudu ze dne 23. července 2002, sp. zn. 20 Cdo 970/2001, uveřejněné pod č. 48/2003 Sbírky soudních rozhodnutí a stanovisek).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 17. dubna 2013
+JUDr. Pavlína Brzobohatá
+předsedkyně senátu
