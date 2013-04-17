@@ -1,0 +1,26 @@
+6 Tdo 300/2013-16
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v neveřejném zasedání konaném dne 17. dubna 2013 o dovolání, které podal odsouzený R. Z., proti usnesení Vrchního soudu v Olomouci ze dne 6. 12. 2012, sp. zn. 5 To 102/2012, jako soudu druhého stupně v trestní věci vedené u Krajského soudu v Ostravě pod sp. zn. 34 T 1/2010, t a k t o :
+Podle § 265i odst. 1 písm. a) tr. ř. se dovolání o d m í t á .
+O d ů v o d n ě n í :
+Usnesením Krajského soudu v Ostravě ze dne 1. 11. 2012, sp. zn. 34 T 1/2010, byl podle § 283 písm. d) tr. ř. zamítnut návrh odsouzeného R. Z. (dále jen „odsouzený“) na povolení obnovy řízení směřující proti výroku pravomocného rozsudku Krajského soudu v Ostravě ze dne 23. 4. 2010, sp. zn. 34 T 1/2010, ve spojení s usnesením Vrchního soudu v Olomouci ze dne 30. 6. 2010, sp. zn. 5 To 49/2010.
+O stížnosti, kterou proti tomuto usnesení podal odsouzený, rozhodl ve druhém stupni Vrchní soud v Olomouci usnesením ze dne 6. 12. 2012, sp. zn. 5 To 102/2012, tak, že ji podle § 148 odst. 1 písm. c) tr. ř. zamítl.
+Citované rozhodnutí Vrchního soudu v Olomouci následně odsouzený napadl dovoláním podaným prostřednictvím své obhájkyně, přičemž uplatnil dovolací důvod uvedený v § 265b odst. 1 písm. g) tr. ř. s tím, že napadené rozhodnutí spočívá na nesprávném právním posouzení skutku. Nejvyššímu soudu České republiky (dále jen „Nejvyšší soud“) navrhl, aby „obě napadená rozhodnutí“ zrušil a aby přikázal krajskému soudu věc v potřebném rozsahu znovu projednat a rozhodnout.
+K tomuto dovolání se v souladu s ustanovením § 265h odst. 2 tr. ř. vyjádřil státní zástupce Nejvyššího státního zastupitelství (dále jen „státní zástupce“). Zdůraznil, že usnesení, kterým bylo rozhodnuto o návrhu na povolení obnovy řízení podle § 283 tr. ř. není uvedeno v ustanovení § 265a odst. 2 písm. a) - h) tr. ř., kde jsou taxativně vyjmenována rozhodnutí, která zákon považuje za rozhodnutí ve věci samé a proti nimž je možno dovolání podat. Proto navrhl, aby Nejvyšší soud v neveřejném zasedání [§ 265r odst. 1 písm. a) tr. ř.] podané dovolání jako nepřípustné podle § 265i odst. 1 písm. a) tr. ř. odmítl. Pro případ, že by Nejvyšší soud shledal podmínky pro jiné než navrhované rozhodnutí, vyslovil ve smyslu § 265r odst. 1 písm. c) tr. ř. souhlas s rozhodnutím věci v neveřejném zasedání i jiným než navrženým způsobem.
+Nejvyšší soud jako soud dovolací (§ 265c tr. ř.) nejprve zkoumal, zda jsou v posuzované věci splněny podmínky přípustnosti dovolání podle ustanovení § 265a tr. ř.
+Podle § 265a odst. 1 tr. ř. lze dovoláním napadnout pravomocné rozhodnutí soudu ve věci samé, jestliže soud rozhodl ve druhém stupni a zákon to připouští. V odst. 2 ustanovení § 265a tr. ř. pak zákonodárce vymezil, co se rozumí rozhodnutím ve věci samé. Tímto rozhodnutím je:
+a) rozsudek, jímž byl obviněný uznán vinným a uložen mu trest, popřípadě ochranné opatření nebo bylo upuštěno od potrestání,
+b) rozsudek, jímž byl obviněný obžaloby zproštěn,
+c) usnesení o zastavení trestního stíhání,
+d) usnesení o postoupení věci jinému orgánu,
+e) usnesení, jímž bylo uloženo ochranné opatření,
+f) usnesení o podmíněném zastavení trestního stíhání,
+g) usnesení o schválení narovnání, nebo
+h) rozhodnutí, jímž byl zamítnut nebo odmítnut řádný opravný prostředek proti rozsudku nebo usnesení uvedenému pod písmeny a) až g).
+Jelikož jde o taxativní výčet rozhodnutí, která je možné považovat za rozhodnutí ve věci samé, proti nimž je přípustné dovolání, nelze považovat za rozhodnutí ve věci samé pro účely dovolání žádné jiné (další) rozhodnutí, které do uvedeného okruhu nepatří. Proto za rozhodnutí ve věci samé nelze považovat usnesení soudu druhého stupně, kterým v dané věci byla zamítnuta stížnost odsouzeného směřující proti usnesení soudu prvního stupně, jímž bylo podle § 283 písm. d) tr. ř. rozhodnuto o zamítnutí návrhu na povolení obnovy řízení, ani toto rozhodnutí nalézacího soudu (k tomu viz usnesení Nejvyššího soudu ze dne 3. 9. 2002, sp. zn. 3 Tdo 438/2002, publikované pod č. 36/2003 Sb. rozh. tr.).
+Dovolání jako další mimořádný opravný prostředek bylo zavedeno do českého trestního řádu novelou provedenou zákonem č. 265/2001 Sb. s účinností od 1. ledna 2002. Jelikož bylo koncipováno jako specifický mimořádný opravný prostředek, který umožňuje průlom do právní moci rozhodnutí, byla současně striktně omezena přípustnost jeho podání pouze a jen na ta rozhodnutí ve věci samé, která byla citována shora. Usnesení, jimiž bylo soudy obou stupňů rozhodnuto ve věci odsouzeného výše popsaným způsobem, mezi nimi uvedena nejsou.
+Za tohoto stavu Nejvyšší soud shledal, že v dané věci nebyly splněny podmínky, jež by zakládaly přípustnost podaného dovolání odsouzeného podle ustanovení § 265a odst. 1, 2 tr. ř. Proto v neveřejném zasedání [§ 265r odst. 1 písm. a) tr. ř.] rozhodl, že se toto dovolání podle § 265i odst. 1 písm. a) tr. ř. odmítá, neboť není přípustné, aniž by se zabýval tím, zda dovolání splňuje obsahové náležitosti podle § 265f odst. 1 tr. ř., nebo přezkoumáním věci po meritorní stránce.
+P o u č e n í : Proti rozhodnutí o dovolání není s výjimkou obnovy řízení opravný prostředek přípustný (§ 265n tr. ř.).
+V Brně dne 17. dubna 2013
+Předseda senátu:
+JUDr. Vladimír Veselý
