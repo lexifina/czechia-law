@@ -1,0 +1,20 @@
+29 Cdo 946/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Filipa Cilečka a soudců JUDr. Petra Šuka a Mgr. Milana Poláška v právní věci žalobce Sebeobrana akcionářů – organizační jednotka Dřevostroj Čkyně, se sídlem v Brně, Bratislavská 212/29, PSČ 602 00, identifikační číslo osoby 22824120, zastoupeného Mgr. Ing. Antonínem Továrkem, advokátem, se sídlem v Brně, třída Kapitána Jaroše 1844/28, PSČ 602 00, proti žalovaným 1/ A. P., 2/ Ing. P. T., 3/ Ing. M. M., 4/ JUDr. V. Ch., 5/ Ing. R. Š., 6/ Ing. J. F., 7/ Ing. J. R., 8/ D. H., a 9/ Dřevostroj Čkyně, a. s., se sídlem ve Čkyni, PSČ 384 81, identifikační číslo osoby 45021112, o zaplacení 6,334.200,- Kč, vedené u Krajského soudu v Českých Budějovicích pod sp. zn. 13 Cm 2659/2009, o dovolání žalobce proti usnesení Vrchního soudu v Praze ze dne 7. listopadu 2011, č. j. 7 Cmo 112/2011-340, takto:
+Usnesení Vrchního soudu v Praze ze dne 7. listopadu 2011, č. j. 7 Cmo 112/2011-340, se ruší a věc se vrací tomuto soudu k dalšímu řízení.
+O d ů v o d n ě n í:
+Usnesením ze dne 28. ledna 2011, č. j. 13 Cm 2659/2009-328, rozhodl Krajský soud v Českých Budějovicích, že v řízení bude na místě prvního žalovaného A. P. pokračovat s jeho dědici J. (správně J.) P., Mgr. V. P. a E. K.
+K odvolání jmenovaných dědiců Vrchní soud v Praze ve výroku označeným usnesením usnesení soudu prvního stupně zrušil a řízení proti prvnímu žalovanému zastavil.
+Odvolací soud, vycházeje z toho, že dle § 66 odst. 2 věty druhé zákona č. 513/1991 Sb., obchodního zákoníku (dále jen „obch. zák.“), je závazek k výkonu funkce (člena) statutárního orgánu společnosti závazkem osobní povahy, uzavřel, že takový závazek nemůže přecházet na dědice, též s ohledem na to, že důkazní břemeno ohledně skutečnosti, že svou povinnost (závazek osobní povahy) jednat s péčí řádného hospodáře neporušil, nese výlučně žalovaný člen představenstva, a nelze jej proto z povahy věci přenášet na jeho dědice. Rozhodl proto o zastavení řízení podle § 107 odst. 5 zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), neboť povaha věci neumožňuje v řízení pokračovat s právními nástupci (dědici) zemřelého žalovaného.
+Žalobce napadl rozhodnutí odvolacího soudu dovoláním, jehož přípustnost se opírá o ustanovení § 239 odst. 1 písm. a/ o. s. ř., uplatňuje dovolací důvod dle § 241a odst. 2 písm. b/ o. s. ř. a navrhuje, aby rozhodnutí odvolacího soudu bylo zrušeno a věc byla vrácena odvolacímu soudu k dalšímu řízení.
+Dovolatel oponuje závěru, podle něhož je závazek k náhradě škody způsobené společnosti při výkonu funkce (člena) statutárního orgánu závazkem osobní povahy, pročež nepřechází na dědice škůdce. Domnívá se, že závazkem osobní povahy je pouze závazek vykonávat funkci (člena) statutárního orgánu společnosti, nikoli závazek z odpovědnostního vztahu. Závazek k náhradě škody přechází na dědice jako na universální právní nástupce zůstavitele.
+Dovolání je přípustné podle § 239 odst. 1 písm. a/ o. s. ř. a je i důvodné.
+Závěr, podle něhož je v řízení o náhradu škody způsobené akciové společnosti členem jejího představenstva při výkonu funkce, v případě smrti žalovaného člena představenstva, možné pokračovat s jeho dědici (§ 107 odst. 2 o. s. ř.), totiž Nejvyšší soud formuloval a odůvodnil již v usnesení ze dne 30. ledna 2013, sp. zn. 29 Cdo 5/2012, jež je veřejnosti dostupné na webových stránkách tohoto soudu.
+Právní posouzení věci odvolacím soudem tudíž není správné a dovolací důvod
+dle § 241a odst. 2 písm. b/ o. s. ř. byl uplatněn právem, pročež Nejvyšší soud usnesení odvolacího soudu podle § 243b odst. 2 věty za středníkem a odst. 3 o. s. ř. zrušil a věc vrátil tomuto soudu k dalšímu řízení (§ 243b odst. 3 věta druhá o. s. ř.).
+Právní názor dovolacího soudu je pro odvolací soud závazný (§ 243d odst. 1 věta první a § 226 odst. 1 o. s. ř.).
+V novém rozhodnutí odvolací soud znovu rozhodne i o nákladech řízení, včetně nákladů řízení dovolacího (§ 243d odst. 1 věta druhá o. s. ř.).
+Proti tomuto rozhodnutí není opravný prostředek přípustný.
+V Brně 18. dubna 2013
+JUDr. Filip C i l e č e k
+předseda senátu
