@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 7",
+  "ecli": "ECLI:CZ:OSPH07:2013:5.C.107.2012.1",
+  "docket": "5 C 107/2012-43",
+  "date": "2013-04-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2024-03-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a06e9110-deea-4765-aca6-39eb870e2f6f",
+  "source_sha256": "3fcca16ba741262f6e59ae6bc9d473f53aa055ff20f1fdd5d07a9b478c328189",
+  "source_id": "a06e9110-deea-4765-aca6-39eb870e2f6f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 107/2012-43",
+    "soud": "Obvodní soud pro Prahu 7",
+    "autor": "Mgr. Pavel Punčochář",
+    "ecli": "ECLI:CZ:OSPH07:2013:5.C.107.2012.1",
+    "predmetRizeni": "Návrh na zrušení rozhodčího nálezu, včetně žádosti o odložení vykonatelnosti rozhodčího nálezu",
+    "datumVydani": "2013-04-22",
+    "datumZverejneni": "2024-03-08",
+    "klicovaSlova": [
+      "rozhodčí doložka",
+      "rozhodčí řízení",
+      "smlouva o úvěru",
+      "zajištění závazku",
+      "zajištění závazku převodem práva"
+    ],
+    "zminenaUstanoveni": [
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 39 z. č. 89/2012 Sb.",
+      "§  z. č. 216/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a06e9110-deea-4765-aca6-39eb870e2f6f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
