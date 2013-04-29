@@ -1,0 +1,22 @@
+11 Tcu 47/2013-8
+U S N E S E N Í
+Nejvyšší soud České republiky projednal dne 29. dubna 2013 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl t a k t o :
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení občanů České republiky J. M. a J. R., rozsudkem Obvodového soudu Mnichov, Spolková republika Německo, ze dne 11. 8. 2011, sp. zn. 1116 Ds 252 Js 111396/11, ve spojení s rozsudkem Zemského soudu Mnichov I ze dne 23. 11. 2011, sp. zn. 18 Ns 252 Js 111396/11, hledí jako na odsouzení soudem České republiky.
+O d ů v o d n ě n í :
+Výše uvedeným rozsudkem Obvodového soudu Mnichov ve spojení s výše uvedeným rozsudkem Zemského soudu Mnichov I byli J. M. a J. R. uznáni vinnými trestnými činy společné krádeže v pěti případech , z toho v jednom případě ve stadiu pokusu, a byli odsouzeni každý k trestu odnětí svobody v trvání jednoho roku a dvou měsíců.
+Shora uvedené trestné činnosti se odsouzení dopustili podle zjištění Obvodového soudu Mnichov tím, že od 1. 2. 2011 do 4. 2. 2011 spáchali v celkem minimálně pěti případech kapesní krádež na linkách mnichovské podzemní dráhy. Konkrétně se jednalo o následující případy:
+1. Dne 1. 2. 2011 kolem 16:30 hod. na lince ... podzemní dráhy, směr M. v oblasti stanice G., Mnichov, odcizili poškozené H. peněženku včetně obsahu. Způsobená škoda činila přibližně 80,- euro.
+2. Dne 2. 2. 2011 mezi 7.50 hod. a 8.10 hod. na lince ... podzemní dráhy mezi stanicemi P. a K., Mnichov, odcizili poškozené B. peněženku včetně obsahu. Způsobená škoda činila přibližně 95,- euro.
+3. Dne 3. 2. 2011 kolem 8.22 hod. na lince ... podzemní dráhy mezi stanicemi S. T. s M., Mnichov, odcizili poškozené Q. peněženku včetně obsahu. Způsobená škoda činila přibližně 200,- euro.
+4. Dne 3. 2. 2011 kolem 9.00 hod. na lince .... podzemní dráhy v úrovni stanice S. T., Mnichov, odcizili poškozenému R. peněženku včetně obsahu. Způsobená škoda činila přibližně 40,- euro.
+5. Dne 4. 2. 2011 kolem 8.40 hod. na lince .... podzemní dráhy mezi stanicemi U. s O. Mnichov, se odsouzený M. pokusil ve spolupráci s odsouzeným R. odcizit peněženku včetně obsahu neznámé poškozené. Odsouzení však byli při páchání činu sledováni vrchním komisařem M., konání proto přerušili a následně byli zatčeni.
+Ministerstvo spravedlnosti České republiky podalo ve shora uvedené věci návrh Nejvyššímu soudu České republiky (dále jen „Nejvyšší soud“) na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů (dále jen „zákon“).
+Nejvyšší soud věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro rozhodnutí podle § 4a odst. 3 zákona.
+Především je třeba uvést, že podle § 4a odst. 3 zákona může Nejvyšší soud na návrh Ministerstva spravedlnosti České republiky rozhodnout, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky, a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Z podaného návrhu a z obsahu připojeného spisového materiálu vyplývá, že odsouzení jsou občany České republiky, kteří byli odsouzeni soudem jiného členského státu Evropské unie, přičemž se odsouzení týká skutku, který vykazuje znaky trestného činu i podle příslušných právních předpisů České republiky (trestný čin krádeže podle § 205 tr. zákoníku). Tím jsou splněny formální podmínky ustanovení § 4a odst. 3 zákona.
+V posuzované věci jsou dány i podmínky materiální povahy. Odsouzení se dopustili úmyslné trestné činnosti směřující proti zájmu společnosti na ochraně vlastnického práva. Jednali přitom v takovém rozsahu (zejména se dopustili trestné činnosti opakovaně), že již lze tuto trestnou činnost označit za závažnou ve smyslu § 4a odst. 3 zákona. Pokud jde o druh trestu, byly jim uloženy citelné tresty odnětí svobody. Lze tedy dovodit, že podmínky ustanovení § 4a odst. 3 zákona týkající se závažnosti činu a druhu uloženého trestu jsou splněny.
+Z uvedených důvodů proto Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 29. dubna 2013
+Předseda senátu:
+JUDr. Karel Hasch
