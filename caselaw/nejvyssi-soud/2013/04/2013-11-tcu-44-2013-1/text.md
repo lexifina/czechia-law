@@ -1,0 +1,17 @@
+11 Tcu 44/2013 - 7
+U S N E S E N Í
+Nejvyšší soud České republiky projednal dne 29. dubna 2013 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl t a k t o :
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení občana České republiky Z. H. , rozsudkem Obvodového soudu Mnichov, Spolková republika Německo, ze dne 13. 1. 2010, sp. zn. 845 Ls 315 Js 45488/09, hledí jako na odsouzení soudem České republiky.
+O d ů v o d n ě n í :
+Výše uvedeným rozsudkem Obvodového soudu Mnichov ze dne 13. 1. 2010 byl Z. H. uznán vinným trestným činem závažné krádeže ve spolupachatelství a byl odsouzen k trestu odnětí svobody v trvání dvou let a tří měsíců.
+Shora uvedené trestné činnosti se odsouzený dopustil podle zjištění Obvodového soudu Mnichov tím, že dne 19. 8. 2009 přibližně v 15:30 hod. vstoupil společně s druhým neznámým pachatelem do obchodních prostor společnosti L. B. na adrese M. , M. Neznámý pachatel ponechal v převlékací kabině čtyři bundy v celkové hodnotě 526.95,- eur, odsouzený následně vstoupil do kabiny, uložil bundy do připraveného batohu a pak opustil obchodní prostory společnosti L. B. Téhož dne, tj. 19. 8. 2009, přibližně v 17:20 hod. odsouzený a stejný neznámý spolupachatel opět vstoupili do obchodních prostor L. B. a odcizili stejným postupem bundy v hodnotě 399,- eur.
+Ministerstvo spravedlnosti České republiky podalo ve shora uvedené věci návrh Nejvyššímu soudu České republiky (dále jen „Nejvyšší soud“) na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů (dále jen „zákon“).
+Nejvyšší soud věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro rozhodnutí podle § 4a odst. 3 zákona.
+Především je třeba uvést, že podle § 4a odst. 3 zákona může Nejvyšší soud na návrh Ministerstva spravedlnosti České republiky rozhodnout, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky, a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Z podaného návrhu a z obsahu připojeného spisového materiálu vyplývá, že odsouzený Z. H. je občanem České republiky, který byl odsouzen soudem jiného členského státu Evropské unie, přičemž se odsouzení týká skutku, který vykazuje znaky trestného činu i podle příslušných právních předpisů České republiky (trestný čin krádeže podle § 205 tr. zákoníku). Tím jsou splněny formální podmínky ustanovení § 4a odst. 3 zákona.
+V posuzované věci jsou dány i podmínky materiální povahy. Odsouzený se dopustil úmyslné trestné činnosti směřující proti zájmu společnosti na ochraně vlastnického práva. Jednal přitom v takovém rozsahu (zejména se dopustil trestné činnosti opakovaně a s dalším spolupachatelem), že již lze tuto trestnou činnost označit za závažnou ve smyslu § 4a odst. 3 zákona. Pokud jde o druh trestu, byl mu uložen citelný trest odnětí svobody. Lze tedy dovodit, že podmínky ustanovení § 4a odst. 3 zákona týkající se závažnosti činu a druhu uloženého trestu jsou splněny.
+Z uvedených důvodů proto Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 29. dubna 2013
+Předseda senátu:
+JUDr. Karel Hasch
