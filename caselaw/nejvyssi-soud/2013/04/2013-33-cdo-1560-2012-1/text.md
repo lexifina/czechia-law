@@ -1,0 +1,15 @@
+33 Cdo 1560/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Václava Dudy a soudců JUDr. Pavla Krbka a JUDr. Ivany Zlatohlávkové ve věci žalobce Ing. V. Š., zastoupeného JUDr. Jiřím Kuncem, advokátem se sídlem v Praze 1, Štěpánská 63, proti žalované D. P., zastoupené JUDr. Josefem Soukupem, advokátem se sídlem v Praze 4, Otakarova 5, o zrušení rozhodčího nálezu, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 18 C 192/2008, o dovolání žalované proti rozsudku Městského soudu v Praze ze dne 29. června 2010, č. j. 21 Co 202/2010-66, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Dovolání proti v záhlaví uvedenému rozsudku Městského soudu v Praze, kterým byl potvrzen rozsudek Obvodního soudu pro Prahu 1 ze dne 18. září 2009, č. j. 18 C 192/2008-46, jímž byl zrušen „rozhodčí nález Rozhodčího orgánu jmenovaného Sdružením nezávislých rozhodců ČR o. s. jednajícího rozhodcem P. O., ř. j. 25R017/2008-3, ze dne 17. června 2008“, a bylo rozhodnuto o nákladech řízení, není přípustné podle § 237 odst. 1 písm. b) zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2012 (čl. II. bod 7. zákona č. 404/2012 Sb., dále jen „o. s. ř.“), a nebylo shledáno přípustným ani podle § 237 odst. 1 písm. c) o. s. ř., neboť napadený rozsudek nemá ve věci samé po právní stránce zásadní význam (§ 237 odst. 3 o. s. ř.).
+Žalovaná odvolacímu soudu vytýká chybný závěr o určitosti (a potažmo včasnosti) námitky nedostatku pravomoci rozhodce, který vedl ke zrušení rozhodčího nálezu, z toho důvodu, že účastníci neuzavřeli rozhodčí smlouvu ani nedohodli rozhodčí doložku.
+Výklad obsahu dotčeného procesního úkonu v řízení před rozhodcem, jak jej provedly soudy nižších stupňů, plně odpovídá ustanovení § 41 odst. 2 o. s. ř. (se zřetelem k § 30 zákona č. 216/1994 Sb., o rozhodčím řízení a o výkonu rozhodčích nálezů), jakož i závěrům formulovaným v rozhodnutí uveřejněném pod číslem 11/2006 Sbírky soudních rozhodnutí a stanovisek, podle kterých: a) každý procesní úkon je nutno posuzovat podle toho, jak byl navenek projeven, nikoli podle toho, jestli mezi projeveným procesním úkonem a vnitřní vůlí jednajícího je skutečný souhlas a b) ani podstatný omyl účastníka mezi tím, co procesním úkonem projevil a tím, co jím projevit chtěl, nemá na procesní úkon a jeho účinnost žádný vliv (srov. také usnesení velkého senátu občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne 14. března 2012, sp. zn. 31 Cdo 2847/2011, uveřejněné pod číslem 72/2012 Sbírky soudních rozhodnutí a stanovisek, které z R 11/2006 argumentačně vychází).
+Nepřípustné dovolání Nejvyšší soud odmítl [§ 243b odst. 5, věta první, § 218 písm. c) o. s. ř.].
+O náhradě nákladů dovolacího řízení dovolací soud rozhodl podle § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř. Žalobci žádné účelně vynaložené náklady v tomto stadiu řízení podle obsahu spisu nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 30. dubna 2013
+JUDr. Václav Duda
+předseda senátu
