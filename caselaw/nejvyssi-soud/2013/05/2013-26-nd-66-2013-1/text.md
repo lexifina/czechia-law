@@ -1,0 +1,15 @@
+26 Nd 66/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Pavlíny Brzobohaté a soudkyň Doc. JUDr. Věry Korecké, CSc., a JUDr. Jitky Dýškové v právní věci žalobkyně městské části Praha 14, se sídlem v Praze 9, Bří Venclíků 1073, zastoupené Mgr. Alexandrem Klimešem, advokátem se sídlem v Mělníku, Jiráskova 228, proti žalované Rokospol a.s., se sídlem v Praze - Novém Městě, Krakovská 1346/15, IČ 25521446, zastoupené Mgr. Ivanou Mičkeovou, advokátkou se sídlem v Praze, Kmochova 517/2, o zaplacení částky 236.455,77 Kč s příslušenstvím, vedené u Okresního soudu v Uherském Hradišti pod sp. zn. 11 C 557/2009, o návrhu na přikázání věci jinému soudu z důvodu vhodnosti, takto:
+Věc vedená u Okresního soudu v Uherském Hradišti pod sp. zn. 11 C 557/2009 se nepřikazuje Obvodnímu soudu pro Prahu 1.
+O d ů v o d n ě n í:
+Žalovaná podala návrh na přikázání věci Obvodnímu soudu pro Prahu 1, s tím, že žádá o delegaci z důvodu vhodnosti (rychlosti a hospodárnosti řízení), neboť sídlo obou účastníků řízení je v Praze (žalobkyně – v Praze 9, žalovaná – v Praze 1), kde bydlí rovněž svědci i ustanovený znalec.
+Podle ustanovení § 12 odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění do 31. 12. 2012 (bod 7., článek II., zákona č. 404/2012 Sb.), dále jen „o. s. ř.“, věc může být jinému soudu téhož stupně přikázána také z důvodu vhodnosti.
+Důvod vhodnosti pro přikázání věci jinému soudu téhož stupně ve smyslu ustanovení § 12 odst. 2 o. s. ř. představují takové okolnosti, které umožní hospodárnější, rychlejší a zejména po skutkové stránce spolehlivější a důkladnější projednání věci jiným než místně příslušným soudem. Přitom je třeba mít na zřeteli, že obecná místní příslušnost soudu, který má věc projednat, je zásadou základní a případná delegace příslušnosti jinému soudu je toliko výjimkou z této zásady, kterou je třeba – jako výjimku – vykládat restriktivně (k tomu srov. např. nález Ústavního soudu ze dne 15. listopadu 2001, sp. zn. I. ÚS 144/2000).
+Nejvyšší soud po zvážení rozhodných skutečností dospěl závěru, že důvod vhodnosti podle ustanovení § 12 odst. 2 o. s. ř. není dán.
+K prolomení zásady vyjádřené v čl. 38 odst. 1 Listiny základních práv a svobod, podle níž nikdo nesmí být odňat svému zákonnému soudci a příslušnost soudu i soudce stanoví zákon, nepostačuje jen to, že sídlo navrhovatelky se nyní nachází v Praze, kde má sídlo i žalobkyně a kde bydlí svědci i znalec.
+Z obsahu spisu vyplývá, že soud prvního stupně již ve věci jednal, prováděl dokazování a také rozhodl, jeho rozsudek ze dne 10. 3. 2010, č. j. 11 C 557/2009-99, však odvolací soud zrušil usnesením ze dne 29. 9. 2010, č. j. 59 Co 230/2010-148, a věc mu vrátil k dalšímu řízení. Nemůže proto ani obstát tvrzení navrhovatelky, že řízení u jiného soudu, který není s věcí (na rozdíl od procesního soudu) obeznámen, by bylo rychlejší a hospodárnější.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 2. května 2013
+JUDr. Pavlína B r z o b o h a t á
+předsedkyně senátu
