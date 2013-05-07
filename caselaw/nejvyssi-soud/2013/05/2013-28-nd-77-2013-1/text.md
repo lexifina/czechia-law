@@ -1,0 +1,18 @@
+28 Nd 77/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jana Eliáše, Ph.D., a soudců JUDr. Ludvíka Davida, CSc., a Mgr. Zdeňka Sajdla ve věci žalobkyně Intrum Justitia, s.r.o., IČ 250 83 236, se sídlem v Praze 9, Prosecká 851/64, zastoupené Mgr. Jiřím Sitou, advokátem se sídlem v Praze 1, Rybná 682/14, proti žalovanému M. L., bytem v O., H. K. 2004/5, o částku 20.212,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 5 pod sp. zn. 21 C 76/2011, o návrhu žalovaného na přikázání věci jinému soudu z důvodu vhodnosti, takto:
+Věc vedená u Obvodního soudu pro Prahu 5 pod sp. zn. 21 C 76/2011 se nepřikazuje k projednání a rozhodnutí Okresnímu soudu v Ostravě.
+O d ů v o d n ě n í :
+Žalobkyně podala u Obvodního soudu pro Prahu 5 žalobu, jíž se po žalovaném domáhala zaplacení dlužných úvěrových splátek a smluvních pokut společně s úrokem z prodlení, na něž jí dle jejího tvrzení vznikl nárok na základě smlouvy o úvěru, od níž pro neplnění smluvních povinností žalovaným právní předchůdkyně žalobkyně odstoupila.
+Žalovaný ve svém odvolání proti rozsudku pro zmeškání soudu prvního stupně žádal, aby s ohledem na jeho nepříznivou majetkovou situaci bylo o věci rozhodováno soudem v místě jeho bydliště.
+Žalobkyně ve svém vyjádření zpochybnila opodstatněnost žalovaným tvrzených důvodů, pro něž by měla být věc delegována, a uvedla, že trvá na tom, aby věc byla projednána Obvodním soudem pro Prahu 5.
+Soud návrh žalovaného posoudil jako žádost o delegaci vhodnou, pročež poté, co byl odvolacím soudem zrušen rozsudek pro zmeškání, jakož i následně vydané usnesení soudu prvního stupně o vyslovení místní nepříslušnosti, spis předložil k rozhodnutí Nejvyššímu soudu s návrhem, aby věc projednal Okresní soud v Ostravě jako soud nejlépe dostupný žalovanému.
+Podle § 12 odst. 2 o. s. ř. věc může být přikázána jinému soudu téhož stupně z důvodu vhodnosti.
+Předpokladem přikázání věci z důvodu vhodnosti podle § 12 odst. 2 o. s. ř. je existence okolností, které umožňují hospodárnější a rychlejší projednání věci. Přitom je ale třeba mít na zřeteli, že obecná místní příslušnost soudu, který má podle zákona věc projednat, je základní zásadou a že případná delegace této příslušnosti jinému soudu je toliko výjimkou z této zásady, kterou je nutno - právě proto, že jde o výjimku - vykládat restriktivně (srov. nález Ústavního soudu České republiky ze dne 15. 11. 2001, sp. zn. I. ÚS 144/2000).
+K přikázání věci jinému než příslušnému soudu by tak mělo docházet pouze výjimečně, a to ze závažných důvodů, neboť je uplatňováno jako výjimka z ústavně zaručené zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon (čl. 38 odst. 1 Listiny základních práv a svobod). Důvody pro odnětí věci příslušnému soudu a její přikázání jinému soudu tedy musí být natolik významné, aby dostatečně odůvodňovaly průlom do citovaného ústavního principu.
+O takový případ se v projednávané věci nejedná, neboť přikázáním věci Okresnímu soudu v Ostravě, v jehož obvodu má žalovaný bydliště, nemůže být dosaženo hospodárnější, rychlejší ani po skutkové stránce spolehlivější a důkladnější projednání věci. Pokud bude nutné ve věci provést důkazy v obvodu Okresního soudu v Ostravě, nic nebrání tomu, aby žalovaný byl ve věci vyslechnut a s provedenými důkazy nebo jinými výsledky řízení seznámen prostřednictvím dožádaného soudu (§ 39 a § 122 odst. 2 o. s. ř.).
+Nejvyšší soud České republiky proto návrhu na přikázání věci Okresnímu soudu v Ostravě podle ustanovení § 12 odst. 2 o. s. ř. nevyhověl.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 7. května 2013
+JUDr. Jan E l i á š, Ph.D.
+předseda senátu
