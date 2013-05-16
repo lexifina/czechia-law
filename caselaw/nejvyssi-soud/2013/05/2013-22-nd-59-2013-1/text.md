@@ -1,0 +1,15 @@
+22 Nd 59/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jiřího Spáčila, CSc., a soudců Mgr. Michala Králíka, Ph.D., a Mgr. Davida Havlíka, ve věci oprávněné Intrum Justicia, s. r. o. se sídlem v Praze 9, Prosecká 851/64, identifikační číslo osoby 250 83 236, zastoupené Mgr. Robertem Lukešem, advokátem se sídlem v Praze 4, ul. 7. května 1109/26, proti povinné E. O. R., bytem v B., Z. 2517/18, o 6.542,- Kč s příslušenstvím, vedené u Okresního soudu v Břeclavi pod sp. zn. 41 EXE 1221/2012, o návrhu na určení místní příslušnosti soudu, takto:
+Věc vedená u Okresního soudu v Břeclavi pod sp. zn. 41 EXE 1221/2012 se přikazuje k projednání a rozhodnutí Okresnímu soudu v Chebu.
+O d ů v o d n ě n í :
+Soudní exekutor Mgr. David Koncz požádal 12. 7. 2012 Okresní soud v Břeclavi o pověření k provedení exekuce na majetek povinné pro pohledávku oprávněné 6.542,- Kč s příslušenstvím. Rozhodnutím Českého telekomunikačního úřadu, odboru pro východočeskou oblast ze dne 24. srpna 2007, č. j. 42007/2007-636/VI vyř., které nabylo právní moci 3. 10. 2007, bylo povinné uloženo, aby uvedenou částku zaplatila společnosti T-Mobile Czech Republic a. s., která postoupila pohledávku oprávněné smlouvou z 27. 5. 2009. Návrh na nařízení exekuce byl doručen dne 18. června 2012 Exekutorskému úřadu Cheb.
+Okresní soud v Břeclavi usnesením ze dne 14. ledna 2013, č. j. 41 EXE 1221/2012-16, vyslovil podle § 105 odst. 2 občanského soudního řádu („o. s. ř.“) svou místní nepříslušnost v exekuční věci a rozhodl, že „po marném uplynutí lhůty k podání odvolání oprávněnou věc podle § 11 odst. 3 o. s. ř. předloží Nejvyššímu soudu.“
+Rozhodnutí odůvodnil tím, že podmínky místní příslušnosti nelze zjistit. Z návrhu vyplývá, že povinná má bydliště v B., Z. čp. 2517, v Centrální evidenci obyvatel České republiky je však uvedeno, že ukončila trvalý pobyt České republice 19. 12. 2008. Ze spisu sp. zn. 53 EXE 935/2010 téhož soudu bylo zjištěno, že povinná uvádí současnou adresu W., H. 4/18, a některé zásilky převzala na adrese B., Z. 2517/18 (bydliště bývalého manžela a tchýně).
+Podle § 11 odst. 1 o. s. ř. se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Nejvyšší soud České republiky, přihlížeje k zásadě hospodárnosti, rozhodl, že věc projedná a rozhodne soud, v jehož obvodu je sídlo exekutora, který by podle návrhu oprávněné měl být pověřen provedením exekuce (srov. též např. usnesení Nejvyššího soudu ze dne 31. srpna 2006, sp. zn. 25 Nd 55/2006, a usnesení ze dne 15. dubna 2008, sp. zn. 4 Nd 113/2008).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 16. května 2013
+JUDr. Jiří S p á č i l, CSc.
+předseda senátu
