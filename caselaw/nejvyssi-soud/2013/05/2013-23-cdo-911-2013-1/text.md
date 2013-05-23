@@ -1,0 +1,24 @@
+23 Cdo 911/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Kateřiny Hornochové a soudců JUDr. Zdeňka Dese a JUDr. Ing. Jana Huška ve věci žalobkyně Allianz pojišťovna, a. s., se sídlem v Praze 8, Ke Štvanici č. 656/3, PSČ 186 00, IČO 47115971, zastoupené Mgr. Romanem Ambrožem, advokátem se sídlem v Praze 3 - Žižkově, Táboritská č. 23/1000, PSČ 130 00 proti žalovanému J. L., o zaplacení částky 3.000,- Kč s příslušenstvím, vedené u Okresního soudu pro Prahu – západ pod sp. zn. 8 C 37/2011, o dovolání žalovaného proti rozsudku Krajského soudu v Praze ze dne 28. listopadu 2012, č. j. 29 Co 541/2012 –70, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Praze rozsudkem ze dne 28. listopadu 2012, č. j. 29 Co 541/2012 - 70, potvrdil rozsudek Okresního soudu Praha – západ ze dne 5. září 2011, č. j. 8 C 37/2011 - 27, kterým byla žalovanému uložena povinnost zaplatit žalobkyni částku 3.000,- Kč s příslušenstvím a rozhodl o náhradě nákladů odvolacího řízení.
+Proti rozsudku odvolacího soudu podal žalovaný dovolání. Odvolacímu soudu vytýká, že rozhodnutí spočívá na nesprávném právním posouzení věci a navrhuje, aby dovolací soud rozsudek odvolacího soudu zrušil.
+V řízení o dovolání bylo postupováno podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2012 - dále opět jen „o. s. ř.“ (srovnej článek II bod 7. přechodných ustanovení zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony).
+Nejvyšší soud České republiky jako soud dovolací (§ 10a zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. července 2009, tj. ve znění novely provedenou zák. č, 7/2009) po zjištění, že dovolání proti pravomocnému rozsudku odvolacího soudu bylo podáno ve lhůtě uvedené v § 240 odst. 1 o. s. ř. a k tomu oprávněným subjektem (žalovanou), dospěl k závěru, že dovolání v dané věci směřuje proti rozhodnutí odvolacího soudu, proti němuž není přípustné.
+Dovolání je mimořádným opravným prostředkem; dovolací soud se proto vždy musí v prvé řadě zabývat jeho přípustností.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+V posuzovaném případě odvolací soud potvrdil odvoláním napadený rozsudek soudu prvního stupně ve věci samé, kterým byla uložena povinnost žalovaného zaplatit žalobkyni částku 3.000,- Kč s příslušenstvím.
+Jde-li o rozhodnutí odvolacího soudu jímž bylo potvrzeno rozhodnutí soudu prvního stupně ve věci samé, je přípustnost dovolání založena § 237 odst. 1 písm. c) o. s. ř. I při splnění uvedeného předpokladu přípustnosti však není dovolání přípustné, bylo-li dovoláním dotčeným výrokem rozhodnuto o peněžitém plnění nepřevyšujícím 50.000,- Kč a v obchodních věcech 100.000,- Kč; k příslušenství pohledávky se přitom nepřihlíží (§ 237 odst. 2 písm. a/ o. s. ř.).
+Vzhledem k tomu, že dovoláním dotčeným výrokem rozsudku odvolacího soudu bylo rozhodováno o věci samé o peněžitém plnění ve výši 3.000,-Kč jedná se ve smyslu ustanovení § 237 odst. 2 písm. a) o. s. ř. o věc, u níž není dovolání přípustné.
+Přípustnost dovolání proti výrokům rozsudku odvolacího soudu, jimiž bylo rozhodnuto o nákladech řízení, nepřichází v úvahu (§ 236 odst. 1 o. s. ř.). Rozhodnutí o nákladech řízení má, jde-li o jeho formu, povahu usnesení, byť je začleněno do rozsudku soudu, a stává se proto formálně jeho součástí (§ 167 odst. 1 o. s. ř. ve spojení s § 211 o. s. ř.). Přípustnost dovolání proti usnesení upravují ustanovení § 237 až § 239 o. s. ř.
+Přípustnost dovolání podle § 237 odst. 1 o. s. ř. dána není, neboť usnesení o nákladech řízení není rozhodnutím ve věci samé (srovnej usnesení Nejvyššího soudu ČR ze dne 31. ledna 2002 sp. zn. 29 Odo 874/2001, uveřejněné pod R 4/2003 ve Sbírce soudních rozhodnutí a stanovisek).
+Přípustnost dovolání není založena ani ustanoveními § 238, 238a a § 239 o. s. ř., neboť napadené výroky rozhodnutí nelze podřadit žádnému z tam taxativně vyjmenovaných případů.
+Za dané procesní situace, kdy nejsou splněny předpoklady přípustnosti dovolání upravené v § 237 až 239 o. s. ř., Nejvyšší soud České republiky podle § 243b odst. 5 věty prvé o. s. ř ve spojení s § 218 odst. 1 písm. c) o. s. ř. dovolání žalované jako nepřípustné bez jednání odmítl, aniž se jím mohl věcně zabývat.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanoveními § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 3 o. s. ř., neboť žalovaný, jehož dovolání bylo odmítnuto, nemá na náhradu těchto nákladů právo a žalobkyni v souvislosti s dovolacím řízením podle obsahu spisu žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 23. května 2013
+JUDr. Kateřina Hornochová
+předsedkyně senátu
