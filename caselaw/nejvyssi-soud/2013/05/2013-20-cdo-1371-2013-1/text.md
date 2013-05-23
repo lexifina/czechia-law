@@ -1,0 +1,16 @@
+20 Cdo 1371/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové, Ph.D. a soudců JUDr. Olgy Puškinové a JUDr. Vladimíra Mikuška v exekuční věci oprávněné GTS Czech s. r. o., se sídlem v Praze 3, Přemyslovská 2845/43, identifikační číslo osoby 28492170, zastoupené JUDr. Petrem Hostašem, advokátem se sídlem v Praze 1, Na Struze 1740/7, proti povinné Teplotechna – Prima s. r. o., se sídlem v Teplicích, J. K. Tyla 1, identifikační číslo osoby 41327888, zastoupené Mgr. Ivou Dvořákovou, LL.M., advokátkou se sídlem v Teplicích, Baarova 1594/16, pro 191.066,40 Kč s příslušenstvím, vedené u Okresního soudu v Teplicích pod sp. zn. 48 EXE 1293/2010, o dovolání povinné proti usnesení Krajského soudu v Ústí nad Labem ze dne 3. 10. 2012, č. j. 12 Co 231/2011-96, takto:
+Dovolání se odmítá.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.):
+Krajský soud napadeným rozhodnutím potvrdil usnesení ze dne 12. 11. 2010, č. j. 48 EXE 1293/2010-45, kterým okresní soud nařídil exekuci na majetek povinné a jejím provedením pověřil Mgr. Michala Rudého, soudního exekutora Exekutorského úřadu Praha 8. Rozhodnutí odvolacího soudu, ač řádně poučena o jeho nepřípustnosti, napadla povinná dovoláním.
+Nejvyšší soud dovolání projednal a rozhodl o něm podle zákona č. 99/1963 Sb., občanský soudní řád ve znění účinném od 1. 7. 2009 do 31. 12. 2012 (viz. Čl. II Přechodných ustanovení, bod 12. části první zákona č. 7/2009 Sb. a článek II, bod 7. části první zákona č. 404/2012 Sb.), dále jen „o. s. ř.“.
+Dovolání není přípustné.
+Podle ustanovení § 236 odst. l o. s. ř., lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Podle Části první, Čl. II Přechodná ustanovení, bodu 12 zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, dovolání proti rozhodnutím odvolacího soudu vyhlášeným (vydaným) před dnem nabytí účinnosti tohoto zákona se projednají a rozhodnou podle dosavadních právních předpisů; užití nového znění § 243c odst. 2 tím není dotčeno. Zákon nabyl účinnosti 1. 7. 2009. Z uvedeného ustanovení vyplývá, že dovolání proti rozhodnutím odvolacího soudu (vyhlášeným) vydaným po 1. 7. 2009 se projednají a rozhodnou podle příslušných ustanovení občanského soudního řádu upravujících dovolací řízení již ve znění účinném od 1. 7. 2009.
+Z ustanovení § 238a odst. 1 o. s. ř. dále vyplývá, že od 1. 7. 2009 již není dovolání přípustné proti usnesením odvolacího soudu, jimiž bylo rozhodnuto o odvolání proti usnesení soudu prvního stupně o nařízení výkonu rozhodnutí (exekuce). Jestliže tedy v souzené věci odvolací soud rozhodl o odvolání povinné 3. 10. 2012, dovolání proti tomuto rozhodnutí není již přípustné.
+Nejvyšší soud proto, aniž ve věci nařizoval jednání (§ 243a odst. l věta první o. s. ř.), dovolání odmítl (§ 243b odst. 5, § 218 písm. c/ o. s. ř.).
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 23. května 2013
+JUDr. Miroslava Jirmanová, Ph.D.
+předsedkyně senátu
