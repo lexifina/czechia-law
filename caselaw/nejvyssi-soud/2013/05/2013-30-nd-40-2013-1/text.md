@@ -1,0 +1,18 @@
+30 Nd 40/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Ištvánka a soudců JUDr. Pavla Simona a JUDr. Pavla Pavlíka ve věci žalobkyně K. K., proti žalovanému J. K., zastoupenému JUDr. Vlastou Němcovou, advokátkou se sídlem v Blansku, Nádražní 2369/10, o zvýšení výživného, vedené u Okresního soudu v Blansku pod sp. zn. 6 C 105/2012, o návrhu žalobkyně na přikázání věci z důvodu vhodnosti, takto:
+Věc vedená u Okresního soudu v Blansku pod sp. zn. 6 C 105/2012 se nepřikazuje z důvodu vhodnosti Obvodnímu soudu pro Prahu 4.
+O d ů v o d n ě n í :
+Okresní soud v Blansku předložil podle ustanovení § 12 odst. 3 zák. č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“) Nejvyššímu soudu návrh žalobkyně, aby věc - řízení o zvýšení výživného, která je u tohoto soudu vedena pod sp. zn. 6 C 105/2012, byla přikázána Obvodnímu soudu pro Prahu 4.
+Žalobkyně v návrhu uvedla, že trvale bydlí v P. - Z., a studuje v Praze na Lékařské fakultě Univerzity Karlovy 1. ročník oboru stomatologie. Vzhledem ke svému časovému vytížení při studiu a zdravotnímu stavu, kdy po nezdařené operaci kolene je žalobkyně nucena pravidelně navštěvovat rehabilitace, by pro ni bylo absolvování cesty k Okresnímu soudu v Blansku velice náročné, a proto žádá o postoupení řízení o zvýšení výživného k Obvodnímu soudu pro Prahu 4.
+Návrh žalobkyně byl zaslán žalovanému k vyjádření. Žalovaný ve vyjádření uvedl, že s postoupením věci Obvodnímu soudu pro Prahu 4 nesouhlasí a žádá, aby celou věc projednal místně i věcně příslušný Okresní soud v Blansku.
+Nejvyšší soud jako soud nejblíže společně nadřízený příslušnému soudu (Okresní soud v Blansku) a soudu, jemuž má být věc přikázána (Obvodní soud pro Prahu 4), přezkoumal podaný návrh a shledal, že v posuzovaném případě nejsou splněny zákonné podmínky na přikázání věci.
+Podle § 12 odst. 2 o. s. ř. může být jinému soudu téhož stupně věc přikázána z důvodu vhodnosti.
+Tyto důvody vhodnosti musí být takové povahy, aby z nich jednoznačně plynulo, že jiným než příslušným soudem bude věc projednána rychleji a hospodárněji. Při posuzování podmínek delegace věci a podmínek vhodnosti má pak zásadní význam i stanovisko účastníků řízení. Nelze rovněž nezdůraznit, že postup podle § 12 odst. 2 o. s. ř. je výjimkou ze zásady, že řízení koná soud, jehož příslušnost je určena zákonem a kterou je právě proto, že jde o výjimku, nutno vykládat restriktivně.
+Z tohoto důvodu se musí skutečnosti, které jsou podkladem pro delegaci, vyznačovat určitou mimořádností. Okolnosti uváděné žalobkyní, tj. že v místě Obvodního soudu pro Prahu 4 trvale bydlí a studuje a že po prodělaném úrazu musí docházet na rehabilitace (žalobkyně ani netvrdí, že její zdravotní stav je trvale nepříznivý a že vylučuje její účast při jednání u místně příslušného soudu) a absolvování cesty na Okresní soud v Blansku by pro ni bylo velice náročné, není natolik výjimečnou skutečností, která by sama o sobě mohla prolomit jeden ze stěžejních právních principů - právo na projednání věci zákonným soudcem. Žalobkyně navíc tvrzené skutečnosti nijak nedoložila, a to ani po výzvě Nejvyššího soudu k doložení tvrzených skutečností, která jí byla doručena dne 26. 2. 2013. V uváděných okolnostech proto nelze bez dalšího spatřovat důvod k přikázání věci.
+Dále je též nutno přihlédnout k tomu, že žalovaný s návrhem na přikázání věci nesouhlasil.
+Nejvyšší soud z uvedených důvodů návrhu žalobkyně nevyhověl a předmětnou věc Obvodnímu soudu pro Prahu 4 ve smyslu § 12 odst. 2 o. s. ř. nepřikázal.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 28. května 2013
+JUDr. František Ištvánek
+předseda senátu
