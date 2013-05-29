@@ -1,0 +1,20 @@
+32 Cdo 1263/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Příhody a soudců JUDr. Hany Gajdziokové a JUDr. Miroslava Galluse ve věci žalobkyně Frivent CZ s. r. o., se sídlem v Českých Budějovicích, Novohradská 40, PSČ 370 01, identifikační číslo osoby 25159429, proti žalované Progresklima CZ s. r. o., se sídlem v Brně, Holandská 2, PSČ 639 00, identifikační číslo osoby 60707780, zastoupené JUDr. Romanem Vaňkem, Ph.D., advokátem, se sídlem v Brně, Těsnohlídkova 943/9, PSČ 613 00, o zaplacení částky 1,210.969,- Kč s příslušenstvím a o vzájemném návrhu na zaplacení částky 3,301.045,42 Kč s příslušenstvím, vedené u Krajského soudu v Brně pod sp. zn. 7 Cm 173/2005, o dovolání žalované proti rozsudku Krajského soudu v Brně ze dne 25. dubna 2012, č. j. 7 Cm 173/2005-162, a proti rozsudku Vrchního soudu v Olomouci ze dne 7. února 2013, č. j. 4 Cmo 444/2012-213, takto:
+I. Řízení o „dovolání“ proti rozsudku Krajského soudu v Brně ze dne 25. dubna 2012, č. j. 7 Cm 173/2005-162, se zastavuje.
+II. Dovolání proti rozsudku Vrchního soudu v Olomouci ze dne 7. února 2013, č. j. 4 Cmo 444/2012-213, se odmítá.
+III. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Se zřetelem k době vydání napadeného rozhodnutí odvolacího soudu se uplatní pro dovolací řízení - v souladu s bodem 7. článku II., části první, přechodných ustanovení zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony - občanský soudní řád ve znění účinném od 1. ledna 2013 (dále též jen „o. s. ř.“).
+Rozhodnutí soudu prvního stupně dovoláním napadnout nelze (srov. § 236 odst. 1 o. s. ř.). Nejvyšší soud proto řízení o „dovolání“ žalované proti rozsudku Krajského soudu v Brně pro nedostatek funkční příslušnosti k jeho projednání, z důvodů vyložených v usnesení Nejvyššího soudu uveřejněném pod číslem 10/2001 Sbírky soudních rozhodnutí a stanovisek, podle ustanovení § 243b ve spojení s ustanovením § 104 odst. 1 věty první o. s. ř. zastavil.
+Dovolání proti rozsudku odvolacího soudu trpí vadami, neboť dovolatelka v dovolání oproti požadavkům stanoveným pro obsah dovolání v § 241a odst. 2 o. s. ř. neuvedla, v čem spatřuje splnění předpokladů přípustnosti dovolání (srov. § 237 o. s. ř.), a nevymezila důvod dovolání způsobem splňujícím požadavky stanovené v § 241a odst. 3 o. s. ř.
+V čem spatřuje splnění předpokladů přípustnosti dovolání, dovolatelka neuvedla vůbec.
+Právní posouzení, které pokládá za nesprávné, dovolatelka uvedla a vyložila, v čem spočívá jeho nesprávnost (srov. § 241 a odst. 3 o. s. ř.), pouze v rámci námitky, že se odvolací soud nevypořádal řádně s otázkou ukončení smluvního vztahu mezi ní a žalobkyní, neboť tento vztah zanikl pro „následnou“ nemožnost plnění. Ani touto námitkou však podle jejího obsahu nezpochybňuje právní posouzení odvolacího soudu, nýbrž zjištěný skutkový stav věci, neboť svou argumentaci opírá o jiný skutkový základ, než z něhož ve svých právních závěrech vychází odvolací soud.
+Obsahem ostatních dovolacích námitek je polemika se skutkovým stavem věci, zjištěným soudy nižších stupňů, a námitky vad řízení při dokazování, nezahrnující právní otázku. Dovolání lze však podat pouze z toho důvodu, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci (§ 241a odst. 1 o. s. ř.).
+Tyto nedostatky nelze již odstranit, neboť lhůta pro podání dovolání, během níž tak bylo možno učinit (srov. § 241b odst. 3 větu první o. s. ř.), uplynula dne 14. května 2013. Jedná se přitom o takové vady, jež brání pokračování v dovolacím řízení, neboť v důsledku absence uvedených náležitostí nelze posoudit přípustnost dovolání a nebylo by ostatně ani možno přezkoumat napadené rozhodnutí (srov. § 242 odst. 3 věta první o. s. ř.).
+Nejvyšší soud proto dovolání proti rozsudku odvolacího soudu podle ustanovení § 243c odst. 1 o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 29. května 2013
+JUDr. Pavel P ř í h o d a
+předseda senátu
