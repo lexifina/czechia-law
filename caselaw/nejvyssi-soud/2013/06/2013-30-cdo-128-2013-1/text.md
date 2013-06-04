@@ -1,0 +1,17 @@
+30 Cdo 128/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Lubomíra Ptáčka, Ph.D. a soudců JUDr. Pavla Pavlíka a JUDr. Františka Ištvánka v právní věci žalobkyně L. L., proti žalovaným 1) Česká republice – Ministerstvu vnitra, se sídlem v Praze 7, Nad Štolou 3, 2) České republice – Ministerstvu spravedlnosti, se sídlem Praha 2, Vyšehradská 16, 3) P. K., 4) R. D., o zaplacení částky 1,700.000,- Kč, ve věci vedené u Obvodního soudu pro Prahu 7 vedené pod sp. zn. 10 C 201/2006, o dovolání žalobkyně proti rozsudku Městského soudu v Praze ze dne 20. ledna 2011, č.j. 22 Co 514/2010 – 146, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění
+(§ 243c odst. 2 o.s.ř.):
+Obvodní soud pro Prahu 7 (dále jen „soud prvního stupně“) dne 24. června 2010, č.j. 10 C 201/2006 – 121, zamítl žalobu se žalobním návrhem, aby žalovaní byli povinni zaplatit žalobkyni společně na nerozdílně částku 1,700.000,- Kč s příslušenstvím a současně rozhodl že žádný z účastníků nemá právo na náhradu nákladů řízení. Žalobkyně se uvedeného plnění domáhala s odkazem na ustanovení § 5 zák. č. 82/1998 Sb.
+Městský soud v Praze (dále jen „odvolací soud“) dne 20. ledna 2011, č.j. 22 Co 514/2010 – 146, potvrdil rozsudek soudu prvního stupně a rozhodl o náhradě nákladů odvolacího řízení.
+Proti rozhodnutí odvolacího soudu podala žalobkyně dovolání, doručené dne 1. července 2011 a následně včas doplněné podáním advokáta ze dne 9. srpna 2011. Z usnesení č.j. 13 D 131/2012 – 33, ze dne 23. dubna 2012, které nabylo právní moci téhož dne, vyplývá, že dovolatelka zemřela a jedinou univerzální dědičkou a právní nástupnicí se stala její dcera M. D. Dne 18. 12 2012, se dostavila M. D. před soud prvního stupně a uvedla do protokolu, že v řízení nechce pokračovat a dovolání vzala výslovně zpět (č.l. 192, 193 spisu).
+Právo na náhradu nemajetkové újmy v penězích podle § 13 odst. 2 obč. zák. je svou povahou velmi úzce spjato s postiženou fyzickou osobou. Osobní charakter má především proto, že jeho cílem je přiměřeně vyvážit a zmírnit nemajetkovou újmu vzniklou fyzické osobě na její osobnosti, proto není-li fyzické osobě poskytnuta náhrada ještě za jejího života, nemůže po její smrti již plnit svůj účel. Z toho se dovozuje, že smrtí oprávněné osoby právo na peněžité zadostiučinění zaniká a na dědice nepřechází. Zadostiučinění za vzniklou nemajetkovou újmu se může domáhat pouze ten, jemuž byla nepřiměřeně dlouhým řízením nemajetková újma způsobena, tedy účastník původního řízení (srov. rozsudek Nejvyššího soudu ze dne 23. 5. 2012, sp. zn. 30 Cdo 2243/2011, a usnesení Nejvyššího soudu ze dne 26. 1. 2011 sp. zn. 30 Cdo 3394/2010).
+Protože z výše vyložených důvodů právo na náhradu nemajetkové újmy nepřešlo na univerzální dědičku žalobkyně a ta tak do právního postavení původní žalobkyně nenastoupila, nepříslušelo jí ani právo vzít podané dovolání zpět. Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) proto podle ustanovení § 104 odst. 1 věty prvé o.s.ř. a § 243c odst. 1, věty před středníkem, o.s.ř. ve znění účinném do 31. 12. 2012 (srov. čl. II., bod 7 zák. č. 404/2012 Sb.) dovolací řízení zastavil, aniž ve věci nařizoval jednání (§ 243a odst. 1 věta prvá o.s.ř.).
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5, věty první, § 224 odst. 1 a § 146 odst. 1 písm. a) o.s.ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 4. června 2013
+JUDr. Lubomír Ptáček, Ph. D.
+předseda senátu
