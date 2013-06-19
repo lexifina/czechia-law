@@ -1,0 +1,19 @@
+33 Cdo 1541/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudkyň JUDr. Blanky Moudré a JUDr. Ivany Zlatohlávkové ve věci žalobkyně Czasch spol. s r.o., se sídlem v Bruntále, Opavská 1174/8, zastoupené JUDr. Milanem Schwarzem, advokátem se sídlem v Bruntále, Mánesova 975/6, proti žalovanému MUDr. A. V., zastoupenému JUDr. Leošem Viktorinem, advokátem se sídlem v Olomouci, Riegrova 376/12, o 151.235,20 Kč s příslušenstvím, vedené u Okresního soudu v Olomouci pod sp. zn. 11 C 100/2006, o dovolání žalobkyně proti usnesení Krajského soudu v Ostravě - pobočky v Olomouci ze dne 28. 5. 2012, č.j. 12 Co 114/2012-283, takto:
+I. Dovolání se odmítá.
+II. Žalobkyně je povinna zaplatit žalovanému na náhradě nákladů dovolacího řízení 9.051,- Kč do tří dnů od právní moci usnesení k rukám JUDr. Leoše Viktorina, advokáta.
+O d ů v o d n ě n í :
+Žalobkyně podala dovolání, které směřuje (hodnoceno podle obsahu) proti výroku I. v záhlaví citovaného rozhodnutí, kterým krajský soud potvrdil usnesení ze dne 21. 12. 2011, č.j. 11 C 100/2006-266, v části, jíž okresní soud zastavil řízení, a proti výroku II. v záhlaví citovaného rozhodnutí, jímž krajský soud změnil uvedené usnesení okresního soudu ve výroku o nákladech řízení.
+Nejvyšší soud věc projednal podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2012 (srov. čl. II, bod 7. zákona č. 404/2012 Sb., dále též jen „o.s.ř.“).
+Podle § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Zkoumání, zda je dovolání objektivně přípustné, předchází posouzení, zda je podal účastník k tomu subjektivně oprávněný. K podání dovolání je oprávněn (tzv. subjektivní přípustnost) pouze ten účastník, v jehož poměrech rozhodnutím odvolacího soudu nastala újma odstranitelná tím, že dovolací soud toto rozhodnutí zruší (srov. usnesení Nejvyššího soudu ze dne 30. 10. 1997, sp. zn. 2 Cdon 1363/96, uveřejněné v časopise Soudní judikatura 3/1998 pod č. 28). Jestliže odvolací soud výrokem I. svého rozhodnutí potvrdil usnesení soudu prvního stupně, kterým bylo v důsledku dispozitivního úkonu
+žalobkyně - zpětvzetí žaloby - řízení zastaveno, pak svým rozhodnutím žalobkyni újmu nezpůsobil, a dovolání je v této části tudíž subjektivně nepřípustné.
+Dovolání proti nákladovému výroku II. rozhodnutí odvolacího soudu není přípustné objektivně (srov. usnesení Nejvyššího soudu ze dne 31. 1. 2002, sp. zn. 29 Odo 874/2001, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek 1/2003 pod č. 4).
+Nepřípustné dovolání Nejvyšší soud odmítl (§ 243b odst. 5, věta první, § 218 písm. b/ o.s.ř.).
+O náhradě nákladů dovolacího řízení rozhodl dovolací soud podle ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o.s.ř. Žalobkyně má právo na náhradu účelně vynaložených nákladů, jež sestávají z odměny za zastupování advokátem v dovolacím řízení. Poté, co Ústavní soud zrušil vyhlášku č. 484/2000 Sb. (srov. nález ze dne 17. 4. 2013, sp. zn. Pl.ÚS 25/12, publikovaný ve Sbírce zákonů České republiky pod č. 116/2013), výši mimosmluvní odměny dovolací soud určil podle ustanovení § 1 odst. 1, 2, § 2, § 6 odst. 1, § 7 bodu 5, § 8 odst. 1 a § 11 odst. 1 písm. k/ vyhlášky č. 177/1996 Sb., o odměnách advokátů a náhradách advokátů za poskytování právních služeb, v rozhodném znění (dále jen „advokátní tarif“), tj. částkou 7.180,- Kč. Součástí nákladů je paušální částka náhrady za úkon právní služby (vyjádření k dovolání) ve výši 300,- Kč (§ 13 odst. 1, 3 advokátního tarifu) a částka 1.571,- Kč odpovídající 21% dani z přidané hodnoty (§ 137 odst. 3, § 151 odst. 2 o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+Nesplní-li žalobkyně dobrovolně, co mu ukládá vykonatelné rozhodnutí, může žalovaný podat návrh na soudní výkon rozhodnutí (exekuci).
+V Brně dne 19. června 2013
+JUDr. Pavel Krbek
+předseda senátu
