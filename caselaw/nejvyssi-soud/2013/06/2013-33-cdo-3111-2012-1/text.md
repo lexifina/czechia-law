@@ -1,0 +1,17 @@
+33 Cdo 3111/2012
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudkyň JUDr. Blanky Moudré a JUDr. Ivany Zlatohlávkové ve věci žalobce Z. K., zastoupeného JUDr. Ing. Jaroslavem Hostinským, advokátem se sídlem v Praze 3, Vinohradská 2134/126, proti žalovanému Ing. M. K., zastoupenému JUDr. Hanou Kadlecovou, advokátkou se sídlem v Praze 10, Vršovická 927/56, o obnovu řízení, vedené u Obvodního soudu pro Prahu 10 pod sp. zn. 34 C 380/2007, o dovolání žalovaného proti usnesení Městského soudu v Praze ze dne 4. 1. 2010, č.j. 18 Co 563/2009-93, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Dovolání žalovaného proti v záhlaví citovanému rozhodnutí, jímž městský soud potvrdil usnesení ze dne 17. 6. 2009, č.j. 34 C 380/2007-63, kterým Obvodní soud pro Prahu 10 zamítl návrh žalovaného na obnovu řízení, není přípustné podle § 238 odst. 1 písm. a), odst. 2 a § 237 odst. 1 písm. b) zákona č. 99/1963 Sb., občanského soudního řádu ve znění účinném do 31. 12. 2012 (dále též jen „o.s.ř.“, srov. čl. II, bod 7. zákona č. 404/2012 Sb.), a nebylo shledáno přípustným ani podle § 238 odst. 1 písm. a), odst. 2 a § 237 odst. 1 písm. c) o.s.ř., neboť napadené rozhodnutí nemá po právní stránce zásadní význam.
+Dovolatel zpochybnil závěr odvolacího soudu, že žaloba byla podána opožděně (13. 8. 2007), ať již počala tříměsíční subjektivní lhůta podle § 233 odst. 1 o.s.ř. plynout od doručení napadeného rozsudku pro zmeškání, respektive ode dne, kdy nabyl právní moci (1.11.2006), či ode dne jeho faktického převzetí (20. 11. 2006). Oproti tomu dovolatel prosazuje, že uvedená lhůta počala běžet ode dne 16. 7. 2007, kdy mu bylo doručeno usnesení ze dne 20. 6. 2007, č.j. 19 Co 209/2007-76, jímž Městský soud v Praze potvrdil usnesení, kterým obvodní soud pro opožděnost odmítl odvolání žalovaného proti rozsudku pro zmeškání.
+Nejvyšší soud však již v usnesení ze dne 6. 12. 2010, sp. zn. 28 Cdo 3735/2010, dospěl k závěru, že okamžik doručení (ani nabytí právní moci) rozhodnutí odvolacího soudu, jímž je potvrzeno usnesení soudu prvního stupně o odmítnutí odvolání podle § 208 odst. 1 o.s.ř. nemá žádný vliv na lhůtu (její běh) zakotvenou v § 233 odst. 1 o.s.ř.
+Námitky dovolatele ohledně nesplnění předpokladů pro vydání rozsudku pro zmeškání, ohledně nesprávnosti rozsudku pro zmeškání či o jeho nevykonatelnosti jsou pro účely daného dovolacího přezkumu bez významu, neboť nesouvisí s vyřešením otázky včasnosti (respektive opožděnosti) žaloby, která byla pro rozhodnutí odvolacího soudu určující.
+Dovolání proti nákladovým výrokům rozhodnutí odvolacího soudu není objektivně přípustné, a to bez ohledu na to, zda jde o potvrzující rozhodnutí o nákladech řízení (před soudem prvního stupně) či o rozhodnutí o nákladech řízení odvolacího, jež není rozhodnutím měnícím ani potvrzujícím (srov. usnesení Nejvyššího soudu ze dne 31. 1. 2002, sp. zn. 29 Odo 874/2001, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek 1/2003 pod č. 4).
+Nepřípustné dovolání Nejvyšší soud odmítl (§ 243b odst. 5, věta první, § 218 písm. c/ o. s. ř.).
+O náhradě nákladů dovolacího řízení dovolací soud rozhodl podle § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o.s.ř. Žalobci, který by na jejich náhradu jinak měl právo, náklady v tomto stadiu řízení podle obsahu spisu nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 19. června 2013
+JUDr. Pavel K r b e k
+předseda senátu
