@@ -1,0 +1,14 @@
+21 Nd 150/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Novotného a soudců JUDr. Ljubomíra Drápala a JUDr. Mojmíra Putny v právní věci žalobce P. N., zastoupeného Mgr. Bc. Lubošem Klimentem, advokátem se sídlem ve Žďáru nad Sázavou, Nádražní č. 21, proti žalované TRANSCO SLOVAKIA s.r.o. se sídlem v Bratislavě, Kopčianska č. 94/A, Slovenská republika, IČO 36697648, o 320,- € s příslušenstvím, vedené u Okresního soudu v Ústí nad Labem pod sp. zn. 22 C 30/2012, o určení místní příslušnosti soudu, takto:
+Věc vedenou u Okresního soudu v Ústí nad Labem pod sp. zn. 22 C 30/2012 projedná a rozhodne Okresní soud v Ústí nad Labem.
+Odůvodnění:
+Žalobce se návrhem na vydání platebního rozkazu podaným u Okresního soudu v Ústí nad Labem dne 19.3.2012 domáhal, aby byla žalované uložena povinnost zaplatit mu 320,- € s úroky z prodlení, jako dlužnou částku za přepravu zboží z místa nakládky v Ústí nad Labem do místa vykládky v Senci, Slovenská republika sjednanou na základě smlouvy o přepravě, uzavřené ve formě objednávky č. 4100947 dne 23.8.2011. Cenu přepravy žalobce vyúčtoval žalované fakturou č. 1 11 1409 vystavenou dne 25.8.2011 a splatnou dne 4.10.2011.
+Okresní soud v Ústí nad Labem usnesením ze dne 19.3.2013 č. j. 22 C 30/2012-8, vyslovil svou místní nepříslušnost a rozhodl, že „po právní moci tohoto usnesení bude věc postoupena Nejvyššímu soudu České republiky k určení místně příslušného soudu“. Dospěl k závěru, že v posuzované věci je dána pravomoc soudů České republiky, neboť „z mezinárodního nákladního listu č. CZ RV 2870531 vyplývá, že zboží bylo převzato k přepravě v Ústí nad Labem“, avšak „místní příslušnost v této věci nevyplývá ze žádného ustanovení občanského soudního řádu“, neboť žalovaná nemá sídlo v České republice, ani ze spisu nevyplývá, že by měla v České republice majetek, podnik nebo svou organizační složku.
+Podle ustanovení § 11 odst. 1 o.s.ř. se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení.
+Podle ustanovení § 11 odst. 3 o.s.ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Nejvyšší soud České republiky po předložení věci Okresním soudem v Ústí nad Labem (§ 105 odst. 2 o.s.ř.) podle ustanovení § 11 odst. 3 o.s.ř., přihlížeje k zásadě hospodárnosti, především k místu nakládky zboží v „STZ a.s. sklad drogerie, Žukovova 1000, CZ – 401 29 Ústí nad Labem“, ale rovněž i vzhledem k místu bydliště jednatele žalované Mgr. M. H. v Děčíně, rozhodl, že věc projedná a rozhodne Okresní soud v Ústí nad Labem.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 21. června 2013
+JUDr. Zdeněk Novotný
+předseda senátu
