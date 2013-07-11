@@ -1,0 +1,14 @@
+21 Cdo 3085/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Jiřího Doležílka a soudců JUDr. Romana Fialy a JUDr. Ljubomíra Drápala v právní věci žalobce J. S., proti žalovaným 1) Katastrálnímu úřadu pro Ústecký kraj, Katastrálnímu pracovišti Chomutov, Školní č. 5335, Chomutov, a 2) Zeměměřickému a katastrálnímu inspektorátu v Liberci, Rumjancevova č. 10, Liberec, o „opravu chyby v katastru nemovitostí“, vedené u Okresního soudu v Chomutově pod sp. zn. 23 C 19/2007, o dovolání žalobce proti usnesení Krajského soudu v Ústí nad Labem ze dne 30. května 2011 č. j. 14 Co 244/2011-78, takto:
+I. Řízení o dovolání žalobce se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst. 2 občanského soudního řádu):
+Krajský soud v Ústí nad Labem usnesením ze dne 30. 5. 2011 č. j. 14 Co 244/2011-78 potvrdil usnesení Okresního soudu v Chomutově ze dne 15. 3. 2011 č. j. 23 C 19/2007-60, kterým bylo odmítnuto „podání žalobce ze dne 18. 1. 2007 došlé soudu dne 19. 1. 2007 a doplněné podáním žalobce ze dne 21. 11. 2010 došlým soudu dne 22. 11. 2010, podáním ze dne 21. 1. 2011 došlým soudu dne 24. 11. 2011 a podáním ze dne 31. 1. 2011 došlým soudu dne 1. 2. 2011“ a kterým bylo rozhodnuto, že žalovaným se nepřiznává právo na náhradu nákladů řízení, a rozhodl, že žádný z účastníků nemá právo na náhradu nákladů odvolacího řízení.
+Proti tomuto usnesení odvolacího soudu podal žalobce dovolání.
+Žalobce, který je fyzickou osobou, nebyl při podání dovolání proti usnesení odvolacího soudu zastoupen advokátem, dovolání nebylo advokátem sepsáno a nebylo prokázáno (a ani tvrzeno), že by žalobce měl právnické vzdělání. Protože žádost žalobce o ustanovení zástupce z řad advokátů byla pravomocně zamítnuta a protože žalobce přes výzvu soudu neodstranil nedostatek podmínky dovolacího řízení podle ustanovení § 241 zákona č. 99/1963 Sb., občanský soudní řád [ve znění účinném do 31. 12. 2012 (dále jen „o. s. ř.“), neboť dovoláním napadené usnesení odvolacího soudu bylo vydáno před 1. 1. 2013 (srov. Čl. II bod 7. zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony)], ačkoliv byl o důsledcích své nečinnosti poučen, Nejvyšší soud České republiky řízení o dovolání žalobce – aniž by se mohl zabývat dalšími okolnostmi – podle ustanovení § 241b odst. 2 a § 104 odst. 2 věty třetí o. s. ř. zastavil.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 části věty před středníkem o. s. ř., neboť žalobce s ohledem na výsledek řízení nemá na náhradu svých nákladů právo a žalovaným v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 11. července 2013
+JUDr. Jiří Doležílek
+předseda senátu
