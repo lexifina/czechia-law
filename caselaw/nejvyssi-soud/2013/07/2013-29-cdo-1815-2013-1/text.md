@@ -1,0 +1,14 @@
+29 Cdo 1815/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudců JUDr. Jiřího Zavázala a JUDr. Filipa Cilečka v právní věci žalobkyně Československé obchodní banky, a. s., se sídlem v Praze 5, Radlická 333/150, PSČ 150 57, identifikační číslo osoby 00 00 13 50, proti žalovaným 1) ST PROGRESS, spol. s r. o. v likvidaci, se sídlem v Děčíně, Masarykovo nám. 3/3, PČ 405 02, identifikační číslo osoby 25 26 37 06, zastoupené Mgr. Ladislavem Kočkou, advokátem, se sídlem v Praze 1, Vodičkova 709/33, PSČ 110 00 a 2) Ing. L. N., narozenému …, bytem …, zastoupenému JUDr. Kamilem Podroužkem, advokátem, se sídlem v Hradci Králové, Fráni Šrámka 1139/2, PSČ 500 02, o námitkách proti směnečnému platebnímu rozkazu, vedené u Krajského soudu v Hradci Králové - pobočky v Pardubicích pod sp. zn. 52 Cm 355/2011, o dovolání druhého žalovaného proti rozsudku Vrchního soudu v Praze ze dne 13. února 2013, č. j. 6 Cmo 426/2012-187, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Vrchní soud v Praze k odvolání druhého žalovaného rozsudkem ze dne 13. února 2013, č. j, 6 Cmo 426/2012-187, potvrdil ve vztahu mezi žalobkyní a druhým žalovaným rozsudek ze dne 5. června 2012, č. j. 52 Cm 355/2011-141, jímž Krajský soud v Hradci Králové - pobočka v Pardubicích ponechal v platnosti směnečný platební rozkaz ze dne 1. června 2011, č. j. 52 Cm 355/2011-15, a to co do částky 5,222.993,11 Kč s 6% úrokem z částky 5,412.309,89 Kč od 22. dubna 2011 do 5. ledna 2012, z částky 5,235,591,47 Kč od 6. ledna 2012 do 1. února 2012, z částky 5,222.993,11 Kč od 2. února 2012 do zaplacení, směnečné odměny v částce 17,410,- Kč a částky 217.222,- Kč z titulu nákladů řízení a rozhodl, že žádný z účastníků nemá právo na náhradu nákladů námitkového řízení.
+Proti rozsudku odvolacího soudu podal druhý žalovaný dovolání, jehož přípustnost opírá o ustanovení § 237 zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), namítaje, že spočívá na nesprávném právním posouzení věci (§ 241a odst. 1 o. s. ř.) a požaduje, aby Nejvyšší soud zrušil rozhodnutí soudů nižších stupňů a věc vrátil soudu prvního stupně k dalšímu řízení.
+Nejvyšší soud dovolání druhého žalovaného podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl, neboť neobsahuje údaje o tom, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 241a odst. 2 a § 241b odst. 3 o. s. ř.) a v dovolacím řízení nelze pro tuto vadu pokračovat.
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243c odst. 3, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání druhého žalovaného Nejvyšší soud odmítl a žalobkyni podle obsahu spisu v dovolacím řízení náklady nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 31. července 2013
+JUDr. Petr Gemmel
+předseda senátu
