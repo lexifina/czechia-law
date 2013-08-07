@@ -1,0 +1,18 @@
+32 Cdo 1674/2013
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy JUDr. Pavla Příhody a soudců JUDr. Hany Gajdziokové a JUDr. Miroslava Galluse ve věci žalobkyně MULGORE TAUREN Group s. r. o., se sídlem v Ostravě - Mariánských Horách, Novinářská 1113/3, PSČ 709 00, identifikační číslo osoby 28615280, zastoupené Mgr. Vladimírem Soukupem, advokátem, se sídlem v Ostravě – Porubě, Francouzská 6167, PSČ 708 00, proti žalovanému VDI Meta – výrobnímu družstvu invalidů, se sídlem v Ostravě – Vítkovicích, 1. máje 670/128, PSČ 703 00, identifikační číslo osoby 25861808, zastoupenému JUDr. Jarmilou Lipnickou Pešlovou, advokátkou, se sídlem v Ostravě, Přívozská 703/10, PSČ 702 00, o zaplacení částky 6,184.580,- Kč s příslušenstvím, vedené u Krajského soudu v Ostravě pod sp. zn. 4 Cm 45/2011, o dovolání žalovaného proti rozsudku Vrchního soudu v Olomouci ze dne 5. února 2013, č. j. 8 Cmo 268/2012-121, takto:
+I. Dovolání se odmítá.
+II. Žalovaný je povinen zaplatit žalobkyni na náhradu nákladů dovolacího řízení částku 33.360,- Kč, a to do tří dnů od právní moci tohoto usnesení k rukám jejího advokáta Mgr. Vladimíra Soukupa, se sídlem v Ostravě – Porubě, Francouzská 6167, PSČ 708 00.
+O d ů v o d n ě n í :
+Se zřetelem k době vydání napadeného rozhodnutí odvolacího soudu se uplatní pro dovolací řízení - v souladu s bodem 7. článku II., části první, přechodných ustanovení zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony - občanský soudní řád ve znění účinném od 1. ledna 2013 (dále též jen „o. s. ř.“).
+Dovolání proti rozsudku odvolacího soudu trpí vadami, neboť dovolatel v dovolání oproti požadavkům stanoveným pro obsah dovolání v § 241a odst. 2 o. s. ř. především nevymezil žádný z předpokladů přípustnosti dovolání uvedených v § 237 o. s. ř. a neformuloval ani příslušnou otázku hmotného nebo procesního práva, a dále nevymezil důvod dovolání splňující požadavky stanovené v § 241a odst. 3 o. s. ř.
+Výhradu, že řešená právní otázka má být posouzena jinak, než jak ji posoudil odvolací soud, pod žádný z předpokladů přípustnosti dovolání taxativně vypočtených v § 237 o. s. ř. podřadit nelze; právní otázkou, jež má být posouzena jinak, se má oproti očekávání dovolatele na mysli toliko právní otázka vyřešená dovolacím soudem v jeho dosavadní rozhodovací praxi, od jejíhož řešení by se měl dovolací soud odklonit (posoudit tuto otázku jinak).
+Otázka, zda usnesení podle ustanovení § 114b odst. 1 o. s. ř. může být obsaženo ve výroku platebního rozkazu, byla vyřešena rozsudkem Nejvyššího soudu ze dne 16. září 2003, sp. zn. 32 Odo 616/2003, uveřejněným pod číslem 56/2005 Sbírky soudních rozhodnutí a stanovisek, a to tím způsobem, jímž ji řešil odvolací soud.
+Závěr odvolacího soudu, podle něhož se dovolateli nepodařilo prokázat, že soudu prvního stupně bylo doručeno jeho podání s žádostí o prodloužení lhůty k podání vyjádření, je závěrem skutkovým, nikoliv právním
+Tyto nedostatky nelze již odstranit, neboť lhůta pro podání dovolání, během níž tak bylo možno učinit (srov. § 241b odst. 3 větu první o. s. ř.), uplynula dne 25. dubna 2013. Jedná se přitom o takové vady, jež brání pokračování v dovolacím řízení, neboť v důsledku absence uvedených náležitostí nelze posoudit přípustnost dovolání a nebylo by ostatně ani možno přezkoumat napadené rozhodnutí (srov. § 242 odst. 3 věta první o. s. ř.).
+Nejvyšší soud proto dovolání podle ustanovení § 243c odst. 1 o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 7. srpna 2013
+JUDr. Pavel P ř í h o d a
+předseda senátu
