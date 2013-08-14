@@ -1,0 +1,13 @@
+20 Cdo 1706/2013
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové, Ph.D. a soudců JUDr. Olgy Puškinové a JUDr. Vladimíra Mikuška v exekuční věci oprávněných a) J. Š. a b) A. Š., zastoupených Mgr. Ing. Miroslavem Šipkou, advokátem se sídlem v Sokolově, Jednoty 1628, proti povinným 1. M. D. a 2. E. P. – D., zastoupeným JUDr. Petrem Orctem, advokátem se sídlem v Karlových Varech, Na Vyhlídce 53, pro 98.355,42 Kč s příslušenstvím, vedené u Okresního soudu v Sokolově pod sp. zn. 28EXE 2725/2011, o dovolání povinných proti usnesení Krajského soudu v Plzni ze dne 5. února 2013, č. j. 12Co 732/2012-72, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Krajský soud v záhlaví uvedeným rozhodnutím k odvolání oprávněných i povinných zrušil I. a IV. výrok usnesení okresního soudu z 15. srpna 2012, č. j. 28 EXE 2725/2011-45 (výrokem I), III. výrok usnesení okresního soudu změnil tak, že nařízenou exekuci zastavil (výrokem II), V. výrok usnesení okresního soudu změnil tak, že oprávněné zavázal společně a nerozdílně k úhradě nákladů řízení o zastavení exekuce 3509,- Kč k rukám advokáta povinných (výrokem III) a oprávněné dále zavázal společně a nerozdílně k úhradě nákladů odvolacího řízení 3509,- Kč k rukám advokáta povinných (výrokem IV). Povinní (posuzováno podle obsahu podání a s ohledem na to, že výroky II - IV usnesení krajského soudu vyzněly ve prospěch povinných) napadli dovoláním část výroku I, jímž odvolací soud zrušil výrok IV usnesení okresního soudu, zavazujícího exekutora vrátit povinným, kteří jsou oprávněni společně a nerozdílně, náklady řízení 8868,- Kč do tří dnů od právní moci usnesení.
+Nejvyšší soud dovolání projednal a rozhodl o něm podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném od 1. ledna 2013 (srovnej čl. II bod 7. zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony - dále jen „o. s. ř.“).
+Dovolání není přípustné, protože směřuje proti výroku odvolacího soudu, jímž bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50.000,- Kč (§ 238 odst. 1 písm. d/ o. s. ř.). Nejvyšší soud tedy dovolání odmítl (§ 243c odst. 1 o. s. ř.). Přípustnost dovolání nezakládá ani nesprávné poučení odvolacího soudu, že dovolání je přípustné (srov. usnesení Nejvyššího soudu uveřejněné pod číslem 51/2003 Sbírky soudních rozhodnutí a stanovisek). Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 14. srpna 2013
+JUDr. Miroslava Jirmanová, Ph. D.
+předsedkyně senátu
