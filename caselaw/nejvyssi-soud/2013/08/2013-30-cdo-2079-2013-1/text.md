@@ -1,0 +1,20 @@
+30 Cdo 2079/2013
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy JUDr. Františka Ištvánka a soudců JUDr. Lubomíra Ptáčka, Ph.D., a JUDr. Pavla Simona ve věci žalobce B. V., proti žalované České republice – Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 16, o náhradu škody, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 20 C 15/98, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 12. 6. 2012, č. j. 35 Co 228/2012 – 272, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Odvolací soud v záhlaví uvedeným usnesením ve výroku I. potvrdil usnesení soudu prvního stupně, kterým bylo odmítnuto podání žalobce ze dne 9. 6. 1991, ve spojení s podáním ze dne 25. 1. 2012, a ve výroku II. rozhodl o náhradě nákladů odvolacího řízení.
+Proti usnesení odvolacího soudu podal žalobce dovolání, aniž byla splněna podmínka zastoupení podle § 241 odst. 1 o. s. ř. Žádost žalobce o ustanovení advokáta pro dovolací řízení byla zamítnuta usnesením Obvodního soudu pro Prahu 2 ze dne 24. 8. 2012, č. j. 20 C 15/98 – 284, ve spojení s usnesením Městského soudu v Praze ze dne 18. 12. 2012, č. j. 35 Co 547/2012 – 298.
+Usnesením Obvodního soudu pro Prahu 2 ze dne 16. 1. 2013, č. j. 20 C 15/98 – 300, byl žalobce vyzván, aby si pro dovolací v této věci zvolil zástupcem advokáta, tuto skutečnost soudu doložil a aby jeho prostřednictvím podal řádné dovolání. Žalobci bylo dáno poučení, že nebude-li soudu do dvaceti dnů od doručení tohoto usnesení předložena plná moc pro zvoleného advokáta a jím sepsané dovolání, Nejvyšší soud dovolací řízení zastaví. Toto usnesení bylo žalobci doručeno dne 17. 1. 2013.
+Na to žalobce podal novou žádost o ustanovení zástupce z řad advokátů pro dovolací řízení, neboť dle jeho tvrzení se v mezidobí výrazně změnily jeho majetkové poměry. Řízení o této žádosti bylo zastaveno usnesením Obvodního soudu pro Prahu 2 ze dne 14. 2. 2013, č. j. 20 C 15/98 – 304, a toto usnesení bylo potvrzeno usnesením Městského soudu v Praze ze dne 17. 5. 2013, č. j. 35 Co 165/2013 – 323.
+Na to byl žalobce usnesením Obvodního soudu pro Prahu 2 ze dne 7. 6. 2013, č. j. 20 C 15/98 – 326, znovu poučen o nutnosti zvolit si do 20 dnů od doručení právního zástupce z řad advokátů, a to i s příslušným poučením o následcích nedodržení této výzvy. Usnesení bylo žalobci doručeno dne 13. 6. 2013. Na tuto výzvu již žalobce nereagoval.
+Nejvyšší soud jakožto soud dovolací při projednání dovolání a rozhodnutí o něm postupoval podle občanského soudního řádu, ve znění účinném do 31. 12. 2012 (viz přechodné ustanovení čl. II, bod 7, zákona č. 404/2012 Sb.), jakož i se zřetelem k nálezům Ústavního soudu ze dne 28. 2. 2012, sp. zn. Pl. ÚS 29/11, a ze dne 6. 3. 2012, sp. zn. IV. ÚS 1572/11, dostupným na internetových stránkách Ústavního soudu, http://nalus.usoud.cz).
+Dovolání bylo podáno včas, osobou k tomu oprávněnou, která ovšem není zastoupena.
+Dle ustanovení § 241 odst. 1 o. s. ř. musí být dovolatel zastoupen advokátem nebo notářem. Soud prvního stupně přitom dovolatele náležitě poučil (dokonce opakovaně) s tím, že musí být v dovolacím řízení zastoupen (viz výše). Z obsahu spisu vyplývá, že k napravení nedostatku právního zastoupení ze strany dovolatele nedošlo.
+Protože dovolatel není právně zastoupen, a tak není splněna jedna z podmínek dovolacího řízení, postupoval dovolací soud podle § 241b odst. 2 o. s. ř. ve spojení s § 104 odst. 2 o. s. ř. a dovolací řízení zastavil.
+Žalobce sice z procesního hlediska zavinil, že dovolací řízení bylo zastaveno, avšak žalované nevznikly v dovolacím řízení žádné účelně vynaložené náklady, na jejichž náhradu by jinak měla vůči žalobci právo. Této procesní situaci odpovídá výrok, že žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení (§ 243b odst. 5 věta první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 21. srpna 2013
+JUDr. František I š t v á n e k
+předseda senátu
