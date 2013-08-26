@@ -1,0 +1,18 @@
+22 Cdo 1657/2013
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy JUDr. Jiřího Spáčila, CSc., a soudců Mgr. Michala Králíka, Ph.D., a Mgr. Davida Havlíka ve věci žalobkyně J. Š., bytem ve Z., Č. a. 496, zastoupené JUDr. Helenou Ottovou, advokátkou se sídlem v Plzni, sady Pětatřicátníků 31, proti žalovanému R. Š., bytem ve Z., Č. a. 496, zastoupenému JUDr. Zdeňkem Koschinem, advokátem se sídlem v Praze 5, Štefánikova 48, o vypořádání zaniklého společného jmění manželů, vedené u Okresního soudu v Rokycanech pod sp. zn. 4 C 23/2012, o dovolání žalovaného proti rozsudku Krajského soudu v Plzni ze dne 13. února 2013, č. j. 18 Co 713/2012-68, takto:
+Dovolání se odmítá.
+Stručné odůvodnění
+(§ 243f odst. 3 občanského soudního řádu):
+Krajský soud v Plzni jako soud odvolací k odvolání žalovaného rozsudkem ze dne 13. února 2013, č. j. 18 Co 713/2012-68, potvrdil mezitímní rozsudek Okresního soudu v Rokycanech ze dne 17. října 2012, č. j. 4 C 23/2012-52, kterým soud prvního stupně určil, že nárok žalobkyně na vypořádání společného jmění manželů, které nabyla s žalovaným, je dán.
+Proti rozsudku odvolacího soudu podává žalovaný dovolání, jehož přípustnost opírá o § 237 občanského soudního řádu („o. s. ř.“) a uplatňuje dovolací důvod uvedený v § 241a odst. 1 o. s. ř.
+Obsah rozsudků soudů obou stupňů a obsah dovolání jsou účastníkům známy, a proto na ně dovolací soud pro stručnost odkazuje. Dovolací soud přezkoumal přípustnost dovolání jen z hledisek v něm uvedených (§ 242 odst. 3 o. s. ř.).
+Dovolání není přípustné.
+Není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak (§ 237 o. s. ř.). V dané věci nebyly podmínky tohoto ustanovení naplněny; rozhodnutí je v souladu s judikaturou dovolacího soudu a není důvod pro to, aby právní otázka byla řešena jinak.
+Žalovaný nesouhlasí s právním posouzením odvolacího soudu, který zaujal názor, že dohodu o vypořádání společného jmění manželů uzavřenou pro účely nesporného rozvodu manželství podle § 24a zákona o rodině, kterou nebyl vypořádán celý rozsah jmění rozvedených manželů, je nutné považovat za dohodu pouze o částečném vypořádání, která nebrání tomu, aby zbylý nevypořádaný majetek byl ve lhůtách a za podmínek stanovených v občanském zákoníku v ustanoveních § 143 a násl. následně vypořádán dohodou účastníků nebo rozhodnutím soudu, případně o něm bude platit nevyvratitelná domněnka ve smyslu § 150 odst. 4 občanského zákoníku („obč. zák.“). Žalovaný zastává názor, že dohodu uzavřenou v rámci rozvodového řízení podle § 24a zákona o rodině nelze návrhem podaným k soudu již jakkoliv doplňovat.
+Dovolání není podle § 237 o. s. ř. přípustné, neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí Nejvyššího soudu, která konstantně připouští, že společné jmění manželů může být vypořádáno na základě více právních skutečností (srov. rozhodnutí Nejvyššího soudu ze dne 21. srpna 2012, sp. zn. 22 Cdo 1475/2010 a ze dne 19. září 2012, sp. zn. 22 Cdo 4632/2010, týkající se i dohody podle § 24a zákona o rodině), a není důvodu, aby rozhodná právní otázka byla posuzována jinak.
+Nejvyšší soud proto dovolání žalovaného podle § 243c odst. 1 věty první odmítl.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. srpna 2013
+JUDr. Jiří S p á č i l, CSc.
+předseda senátu
