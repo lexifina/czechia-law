@@ -1,0 +1,12 @@
+22 Cdo 2095/2013
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy JUDr. Jiřího Spáčila, CSc., a soudců Mgr. Davida Havlíka a Mgr. Michala Králíka, Ph.D., ve věci žalobkyň: a) R. N., bytem v S., a b) D. K., bytem ve V., obou zastoupených JUDr. Petrem Jaškem, advokátem se sídlem v Šumperku, Hlavní třída 11/7, proti žalované I. M., bytem v S., zastoupené JUDr. Josefem Sedláčkem, advokátem se sídlem v Šumperku, nám. Míru 9, o zřízení věcného břemene, vedené u Okresního soudu v Šumperku pod sp. zn. 9 C 285/2010, o dovolání žalobkyň proti rozsudku Krajského soudu v Ostravě – pobočce v Olomouci ze dne 29. ledna 2013, č. j. 69 Co 644/2012-113, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.) :
+Rozsudek Krajského soudu v Ostravě – pobočky v Olomouci ze dne 29. ledna 2013, č. j. 69 Co 644/2012-113, byl doručen zástupci žalobkyň JUDr. Petru Jaškovi dne 18. 3. 2013. Žalobkyně podaly proti rozsudku blanketní dovolání ze dne 15. 5. 2013, které bylo doručeno Okresnímu soudu v Šumperku (dále jen „soud prvního stupně“) dne 16. 5. 2013. Dovolání neobsahovalo údaje o tom, v jakém rozsahu se rozhodnutí odvolacího soudu napadá, v čem dovolatelky spatřují splnění předpokladů přípustnosti dovolání ani vymezení důvodu dovolání. Doplnění dovolání bylo soudu prvního stupně doručeno až dne 4. 6. 2013. Protože podle § 241b odst. 3 občanského soudního řádu (dále jen „o. s. ř.“) dovolání, které neobsahuje údaje o tom, v jakém rozsahu se rozhodnutí odvolacího soudu napadá, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a o. s. ř.) nebo které neobsahuje vymezení důvodu dovolání, může být o tyto náležitosti doplněno jen po dobu trvání lhůty k dovolání, nemohl dovolací soud k doplnění dovolání přihlížet. Nejvyšší soud proto dovolání žalobkyň proti rozsudku Krajského soudu v Ostravě – pobočce v Olomouci ze dne 29. ledna 2013, č. j. 69 Co 644/2012-113, podle § 243c odst. 1 věty první o. s. ř. odmítl, neboť trpí vadami (§ 241a odst. 2 o. s. ř.), jež nebyly ve lhůtě (§ 241b odst. 3 o. s. ř.) odstraněny, a v dovolacím řízení proto nelze pokračovat.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 o. s. ř.).
+Proti tomuto rozhodnutí není opravný prostředek přípustný.
+V Brně dne 26. srpna 2013
+JUDr. Jiří Spáčil, CSc.
+předseda senátu
