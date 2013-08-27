@@ -1,0 +1,17 @@
+20 Cdo 2240/2013
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové, Ph.D. a soudců JUDr. Olgy Puškinové a JUDr. Vladimíra Mikuška ve věci výkonu rozhodnutí oprávněné České republiky – Okresního soudu v Ostravě, se sídlem v Ostravě – Porubě, U Soudu 4/6187, proti povinnému Ing. J. K., pro 11 000,- Kč, srážkami z příjmu, vedené u Okresního soudu v Ostravě pod sp. zn. 51E 102/2010, o dovolání povinného proti usnesení Krajského soudu v Ostravě ze dne 29. června 2012, č. j. 66 Co 561/2012-72, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.):
+Krajský soud napadeným rozhodnutím odmítl podle § 254 odst. 5 zákona č. 99/1963 Sb., občanský soudní řád ve znění od 1. července 2009, odvolání povinného proti usnesení ze dne 12. února 2010, č. j. 51E 102/2010-4, kterým okresní soud k uspokojení pohledávky oprávněné ve výši 11 000,- Kč nařídil výkon rozhodnutí srážkami z příjmu, který přísluší povinnému od České správy sociálního zabezpečení. Rozhodnutí odvolacího soudu, ač řádně poučen o jeho nepřípustnosti, napadl povinný dovoláním.
+Nejvyšší soud dovolání projednal a rozhodl o něm podle zákona č. 99/1963 Sb., občanský soudní řád ve znění účinném od 1. července 2009 do 31. prosince 2012 (viz. článek II Přechodných ustanovení, bod 12. části první zákona č. 7/2009 Sb. a článek II, bod 7. části první zákona č. 404/2012 Sb.), dále jen „o. s. ř.“.
+Dovolání není přípustné.
+Podle ustanovení § 236 odst. l o. s. ř., lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Podle Části první, Čl. II Přechodná ustanovení, bodu 12 zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, dovolání proti rozhodnutím odvolacího soudu vyhlášeným (vydaným) před dnem nabytí účinnosti tohoto zákona se projednají a rozhodnou podle dosavadních právních předpisů; užití nového znění § 243c odst. 2 tím není dotčeno. Zákon nabyl účinnosti 1. července 2009. Z uvedeného ustanovení vyplývá, že dovolání proti rozhodnutím odvolacího soudu (vyhlášeným) vydaným po 1. červenci 2009 se projednají a rozhodnou podle příslušných ustanovení občanského soudního řádu upravujících dovolací řízení již ve znění účinném od 1. července 2009.
+Z ustanovení § 238a odst. 1 o. s. ř. dále vyplývá, že od 1. července 2009 (do 31. 12. 2012) již nebylo dovolání přípustné proti usnesením odvolacího soudu, jimiž bylo rozhodnuto o odvolání proti usnesení soudu prvního stupně o nařízení výkonu rozhodnutí. Jestliže tedy v souzené věci odvolací soud rozhodl o odvolání povinného 29. června 2012, dovolání povinného proti tomuto rozhodnutí není přípustné.
+Nejvyšší soud tedy dovolání - aniž ve věci nařizoval jednání (§ 243a odst. l věta první o. s. ř.) a aniž zkoumal splnění podmínky povinného zastoupení v dovolacím řízení - podle ustanovení § 243b odst. 5, věty první, a § 218 písm. c) o. s. ř. odmítl.
+Dovolání povinného bylo odmítnuto, oprávněné náklady v dovolacím řízení podle obsahu spisu nevnikly. Tomu odpovídá výrok, že žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení (§ 146 odst. 3, § 224 odst. 1, § 243c odst. 1 o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 27. srpna 2013
+JUDr. Miroslava J i r m a n o v á, Ph.D.
+předsedkyně senátu
