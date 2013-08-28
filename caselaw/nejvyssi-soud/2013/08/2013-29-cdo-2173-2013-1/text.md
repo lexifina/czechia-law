@@ -1,0 +1,17 @@
+29 Cdo 2173/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudců JUDr. Jiřího Zavázala a JUDr. Petra Šuka v právní věci žalobkyně Melbera a. s., se sídlem v Praze 4 – Hodkovičkách, Na Lysinách 457/20, PSČ 147 00, identifikační číslo osoby 28 11 67 80, zastoupené JUDr. Janem Kubálkem, advokátem, se sídlem v Praze 1, Kaprova 42/14, PSČ 110 00, proti žalované I. T., zastoupené Mgr. Petrem Nesporým, advokátem, se sídlem v Českých Budějovicích, Puklicova 1069/52, PSČ 370 04, o námitkách proti směnečnému platebnímu rozkazu, vedené u Krajského soudu v Českých Budějovicích pod sp. zn. 13 Cm 810/2010, o dovolání žalované proti rozsudku Vrchního soudu v Praze ze dne 11. února 2013, č. j. 6 Cmo 275/2012-116, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Vrchní soud v Praze k odvolání žalované rozsudkem ze dne 11. února 2013, č. j. 6 Cmo 275/2012-116, potvrdil rozsudek ze dne 22. února 2012, č. j. 13 Cm 810/2010-76, jímž Krajský soud v Českých Budějovicích ponechal v platnosti směnečný platební rozkaz ze dne 22. června 2010, č. j. 13 Cm 810/2010-5, kterým (mimo jiné) uložil žalované, aby zaplatila žalobkyni částku 125.000,- Kč s 6% úrokem od 3. března 2010 do zaplacení a náklady řízení.
+Proti rozsudku odvolacího soudu podala žalovaná dovolání, majíc za to, že má zásadní právní význam, když se odchyluje od závěrů obsažených v rozhodnutí Ústavního soudu sp. zn. III. ÚS 3300/07 a požadujíc, aby Nejvyšší soud zrušil rozhodnutí soudů nižších stupňů a věc vrátil soudu prvního stupně k dalšímu řízení.
+Nejvyšší soud dovolání žalované podle ustanovení § 243c odst. 1 věty první zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), odmítl.
+Podle ustanovení § 237 o. s. ř., není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+Podle ustanovení § 241a odst. 2 o. s. ř. v dovolání musí být vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu se rozhodnutí napadá, vymezení důvodu dovolání, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až § 238a) a čeho se dovolatel domáhá (dovolací návrh).
+Z obsahu dovolání je zjevné, že neobsahuje údaj o tom, v čem dovolatelka spatřuje splnění předpokladů přípustnosti dovolání (§ 241a odst. 2 o. s. ř.) [dovolatelkou tvrzený rozpor s označeným rozhodnutím Ústavního soudu požadavku plynoucímu z ustanovení § 237 o. s. ř. nevyhovuje]; o tuto náležitost přitom mohlo být dovolání doplněno jen po dobu trvání lhůty k dovolání (§ 241b odst. 3 o. s. ř.). O tom, že pro uvedenou vadu nelze v dovolacím řízení pokračovat, pochyb není.
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243c odst. 3, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalované Nejvyšší soud odmítl a žalobkyni podle obsahu spisu v dovolacím řízení náklady nevznikly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 28. srpna 2013
+JUDr. Petr G e m m e l
+předseda senátu
