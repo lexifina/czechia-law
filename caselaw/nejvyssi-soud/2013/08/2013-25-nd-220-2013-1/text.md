@@ -1,0 +1,14 @@
+25 Nd 220/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Vojtka a soudců JUDr. Marty Škárové a JUDr. Roberta Waltra v právní věci žalobkyně Komerční banky, a. s., se sídlem v Praze 1, Na Příkopě 969/33, IČO 45317054, zastoupené JUDr. Jiřím Vlasákem, advokátem se sídlem v Praze 7, Jankovcova 1518/2, proti žalovanému M. Č., o 158.717,28 Kč s příslušenstvím, vedené u Okresního soudu v Písku pod sp. zn. 16 EC 800/2011, o určení místní příslušnosti podle § 11 odst. 3 o. s. ř., takto:
+Věc vedenou u Okresního soudu v Písku pod sp. zn. 16 EC 800/2011 projedná a rozhodne Okresní soud v Českých Budějovicích.
+Odůvodnění:
+Okresní soud v Písku usnesením ze dne 30. 5. 2012, č. j. 16 EC 800/2011-39, zrušil elektronický platební rozkaz ze dne 30. 5. 2012, č. j. 16 EC 800/2011-33, a vyslovil svou místní nepříslušnost s tím, že po právní moci bude věc postoupena Okresnímu soudu v Českých Budějovicích, který je místně příslušným k projednání a rozhodnutí věci podle čl. 5 Nařízení Rady (ES) č. 44/2001, o příslušnosti a uznávaní a výkonu soudních rozhodnutí v občanských a obchodních věcech (dále též jen „Nařízení“), neboť v řízení vymáhaná částka vyplývá ze smlouvy o poskytnutí úvěru, jež byla uzavřena dne 22. 10. 2007 na pobočce žalobkyně v Českých Budějovicích.
+Krajský soud v Českých Budějovicích usnesením ze dne 9. 5. 2013, č. j. 22 Nc 1126/2012-46, vyslovil, že nesouhlas Okresního soudu v Českých Budějovicích s postoupením věci je důvodný. V řízení nebylo možno vyslovit místní nepříslušnost za situace, kdy bydliště žalovaného nebylo zjištěno, a podle Nařízení nelze vést řízení proti osobě neznámého pobytu. Okresní soud v Písku proto věc podle § 11 odst. 3 o.s.ř. předložil Nejvyššímu soudu k určení, který soud věc projedná a rozhodne.
+V průběhu řízení vyšlo najevo, že žalovaný je slovenským státním příslušníkem a jeho bydliště je neznámé. Poslední známý pobyt v České republice měl na adrese R. t., Č. B., žalobkyně jako doručovací adresu uvedla adresu R., Č. B.
+Podle § 11 odst. 3 o.s.ř., jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Pravomoc soudů České republiky je ve smyslu čl. 23 Nařízení dána ujednáním podle čl. XVII. úvěrových podmínek pro fyzické osoby podnikatele a právnické osoby, kterou jsou nedílnou součástí smlouvy o poskytnutí úvěru. Nejvyšší soud, veden zásadou rychlosti a hospodárnosti řízení, proto rozhodl, že věc projedná a rozhodne Okresní soud v Českých Budějovicích, v jehož obvodu byla uzavřena smlouva o poskytnutí úvěru, kde se nacházelo poslední místo pobytu žalovaného a kde měly být doručovány všechny písemnosti a realizovány další kontakty mezi žalobkyní a žalovaným.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 28. srpna 2013
+JUDr. Petr Vojtek
+předseda senátu
