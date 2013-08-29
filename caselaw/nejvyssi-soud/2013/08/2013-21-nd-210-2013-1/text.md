@@ -1,0 +1,14 @@
+21 Nd 210/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Novotného a soudců JUDr. Ljubomíra Drápala a JUDr. Jiřího Doležílka v právní věci žalobkyně Efrema Business, a.s. se sídlem v Praze 3 - Žižkově, Husitská č. 107/3, IČO 24711306, zastoupené JUDr. Adamem Wilkem, Ph.D., advokátem se sídlem v Boskovicích, Masarykovo náměstí č. 36/35, proti žalovanému K. B., zastoupenému opatrovníkem Mgr. Bc. Michalem Březovjákem, advokátem se sídlem ve Zlíně, Vavrečkova č. 5262, o 2.281,40 Kč s příslušenstvím, vedené u Okresního soudu ve Zlíně pod sp. zn. 26 EC 228/2011, o určení místní příslušnosti soudu, takto:
+Věc vedenou u Okresního soudu ve Zlíně pod sp. zn. 26 EC 228/2011 projedná a rozhodne Okresní soud ve Zlíně.
+Odůvodnění:
+Žalobkyně se návrhem na vydání elektronického platebního rozkazu podaným u Okresního soudu ve Zlíně dne 22.7.2011 domáhala, aby byla žalovanému uložena povinnost zaplatit jí 2.281,40 Kč s úroky z prodlení, jako dlužnou částku z poskytnutých finančních prostředků prostřednictvím sporožirového účtu zřízeného žalovanému Českou spořitelnou, a.s.. Česká spořitelna, a.s. postoupila dne 1.6.2011 tuto svou pohledávku vůči žalovanému na žalobkyni.
+Okresní soud ve Zlíně usnesením ze dne 7.6.2013 č. j. 26 EC 228/2011-73 vyslovil svou místní nepříslušnost a rozhodl, že „po právní moci tohoto usnesení bude věc předložena Nejvyššímu soudu České republiky k rozhodnutí dle § 11 odst. 3 o.s.ř.“. Dospěl k závěru, že v posuzované věci není dána „žádná okolnost, která by podle § 85 odst. 1 o.s.ř. založila místní příslušnost Okresního soudu ve Zlíně“, a že z obsahu spisu ani nebylo zjištěno, že by měl žalovaný bydliště nebo že by se zdržoval na „jiné adrese v ČR, jež by zakládala místní příslušnost jiného okresního soudu v ČR“. V době podání žaloby měl totiž žalovaný již téměř devět let zrušen pobyt na území České republiky a „bydliště nemohl mít ani na adresách uvedených ve smlouvách, protože takovéto adresy se v obci O. vůbec nenacházejí“.
+Podle ustanovení § 11 odst. 1 o.s.ř. se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení.
+Podle ustanovení § 11 odst. 3 o.s.ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Nejvyšší soud České republiky po předložení věci Okresním soudem ve Zlíně (§ 105 odst. 2 o.s.ř.) podle ustanovení § 11 odst. 3 o.s.ř., přihlížeje k zásadě hospodárnosti, rozhodl, že věc projedná a rozhodne Okresní soud ve Zlíně, u něhož bylo řízení zahájeno.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 29. srpna 2013
+JUDr. Zdeněk Novotný
+předseda senátu
