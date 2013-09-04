@@ -1,0 +1,13 @@
+21 Cdo 3780/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Jiřího Doležílka a soudců JUDr. Zdeňka Novotného a JUDr. Ljubomíra Drápala v právní věci žalobce Paradise Casino Admiral, a. s. se sídlem v Komořanech č. 146, IČO 25336991, proti žalované J. K. (dříve M.), zastoupené JUDr. Jiřím Bílým, advokátem se sídlem ve Znojmě, Rudoleckého č. 25, o 16.125,- Kč s úroky z prodlení, vedené u Okresního soudu ve Znojmě pod sp. zn. 11 C 492/2005, o dovolání žalované proti rozsudku Krajského soudu v Brně ze dne 23. května 2012 č. j. 49 Co 4/2011-183, takto:
+I. Dovolání žalované se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.) :
+Dovolání žalované proti rozsudku Krajského soudu v Brně ze dne 23. 5. 2012 č. j. 49 Co 4/2011-183, kterým byl potvrzen rozsudek Okresního soudu ve Znojmě ze dne 7. 9. 2010 č. j. 11 C 492/2005-125, jímž bylo žalované uloženo, aby žalobci zaplatila 16.125,- Kč s úrokem z prodlení ve výši „dvojnásobku diskontní sazby stanovené ČNB k datu 10. 10. 2004, a to od tohoto data do zaplacení“, a jímž byla žalované uložena povinnost zaplatit žalobci na náhradě nákladů řízení 1.950,- Kč, a kterým bylo rozhodnuto, že žádný z účastníků nemá právo na náhradu nákladů odvolacího řízení, není vzhledem k ustanovení § 237 odst. 2 písm. a) zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů účinném do 31. 12. 2012 (dále jen „o. s. ř.“), který je třeba při projednání tohoto dovolání a při rozhodnutí o něm použít i v současné době, neboť napadený rozsudek odvolacího soudu byl vydán v době do 31. 12. 2012 (srov. Čl. II bod 7 zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony), přípustné, neboť - i kdyby rozsudek odvolacího soudu měl mít po právní stránce zásadní význam - dovoláním napadeným výrokem rozsudku odvolacího soudu bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50.000,- Kč (k příslušenství pohledávky se nepřihlíží).
+Nejvyšší soud České republiky proto dovolání žalované - aniž by se mohl věcí dále zabývat - podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 části věty před středníkem o. s. ř., neboť žalovaná s ohledem na výsledek dovolacího řízení na náhradu nákladů nemá právo a žalobci v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 4. září 2013
+JUDr. Jiří Doležílek
+předseda senátu
