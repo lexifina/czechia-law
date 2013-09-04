@@ -1,0 +1,12 @@
+23 Cdo 3072/2010
+U S N E S E N Í
+Nejvyšší soud rozhodl předsedou senátu JUDr. Pavlem Horákem, Ph.D. v právní věci žalobkyně AUTOIMPEX spol. s r. o., se sídlem ve Velké Bíteši, Kpt. Jaroše 79, PSČ 595 01, identifikační číslo osoby 44015500, zastoupené JUDr. Janem Dědičem, advokátem, se sídlem v Praze 1, Jungmannova 24, proti žalovaným 1. MAXTRANS spol. s r.o. v likvidaci, se sídlem ve Vodňanech, Stožická 840, PSČ 389 01, identifikační číslo osoby 41914597, 2. České republice – Ministerstvu financí ČR, se sídlem v Praze 1, Letenská 15, PSČ 118 10, identifikační číslo osoby 00006947, zastoupené JUDr. Ivanou Seifertovou, advokátkou, se sídlem v Praze 1, Masarykovo nábřeží 246/12, 3. DOPRAVA ZÁRUBA M & K s.r.o., se sídlem ve Vodňanech, Stožická 840, okres Strakonice, identifikační číslo osoby 62909649, zastoupené JUDr. Markem Šťastným, advokátem, se sídlem v Horažďovicích, Ševčíkova 38, o zaplacení částky 2 264 461,42 Kč s příslušenstvím, vedené u Krajského soudu v Českých Budějovicích pod sp. zn. 13 Cm 592/1995, o dovolání žalobkyně a třetí žalované proti rozsudku Vrchního soudu v Praze ze dne 14. dubna 2009, č. j. 2 Cmo 256/2008-393, takto:
+Rozsudek Nejvyššího soudu ze dne 25. dubna 2013, č. j. 23 Cdo 3072/2010-426, se v bodě I. výroku opravuje tak, že nesprávné označení rušeného výroku o náhradě nákladů řízení „pod bodem VII“ se nahrazuje správným „pod bodem VI“.
+Odůvodnění:
+Rozsudkem Nejvyššího soudu ze dne 25. dubna 2013, č. j. 23 Cdo 3072/2010-426, byl výrokem I. zrušen rozsudek Vrchního soudu v Praze ze dne 14. dubna 2009, č. j. 2 Cmo 256/2008-393, ve výroku pod bodem II a v závislém výroku o náhradě nákladů řízení, který byl označen bodem VII. Došlo tak ke zřejmé nesprávnosti, když závislým nákladovým výrokem, který je rušen, je ten pod označením VI.
+Podle ustanovení § 164 zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů (dále jen „o. s. ř.“), předseda senátu opraví v rozsudku kdykoliv i bez návrhu chyby v psaní a v počtech, jakož i jiné zjevné nesprávnosti. Týká-li se oprava výroku rozhodnutí nebo není-li možné provést opravu ve stejnopisech rozhodnutí, vydá o tom opravné usnesení, které doručí účastníkům; jde-li o opravu výroku rozhodnutí, může odložit vykonatelnost rozsudku na dobu, dokud opravné usnesení nenabude právní moci.
+Jelikož jde o zjevnou nesprávnost ve smyslu ustanovení § 164 o. s. ř., bylo rozhodnuto tak, jak je uvedeno ve výroku tohoto rozhodnutí.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 4. září 2013
+JUDr. Pavel Horák, Ph.D.
+předseda senátu
