@@ -1,0 +1,14 @@
+22 Cdo 2162/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jiřího Spáčila, CSc., a soudců Mgr. Michala Králíka, Ph.D., a Mgr. Davida Havlíka ve věci žalobkyně Ing. R. Š., zastoupené JUDr. Hanou Lisou, advokátkou se sídlem v Praze 3, Koněvova 1107/54, proti žalovanému Mgr. V. F., zastoupenému Mgr. Stanislavem Němcem, advokátem se sídlem v Praze 2, Vinohradská 1215/32, o vydání klíčů a listin dokládajících ekonomickou a technickou správu domu, vedené u Obvodního soudu pro Prahu 3 pod sp. zn. 17 C 291/2010, o dovolání žalobkyně proti rozsudku Městského soudu v Praze ze dne 25. října 2011, č. j. 14 Co 347/2011-101, takto:
+I. Dovolací řízení se zastavuje.
+II. Žalobkyně je povinna zaplatit žalovanému na náhradě nákladů dovolacího řízení částku 3.146,- Kč do tří dnů od právní moci tohoto usnesení k rukám advokáta Mgr. Stanislava Němce.
+O d ů v o d n ě n í :
+Žalobkyně vzala zpět dovolání, které podala proti v záhlaví označenému rozsudku Městského soudu v Praze.
+Nejvyšší soud proto dovolací řízení zastavil podle § 243b odst. 5 věty druhé zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2012 (srov. čl. II. bod 7 zákona č. 404/2012 Sb.) – dále „o. s. ř.“.
+Protože zpětvzetím dovolání žalobkyně zavinila zastavení dovolacího řízení, Nejvyšší soud jí podle § 243b odst. 5, § 224 odst. 1, § 151 odst. 1 a 2 a § 146 odst. 2 věty první o. s. ř. uložil, aby žalovanému nahradila náklady řízení, které mu v tomto řízení vznikly za zastoupení advokátem. Vyhláška č. 484/2000 Sb., kterou byly stanoveny paušální sazby výše odměny za zastupování advokátem v občanském soudním řízení a kterou byla původně změněna vyhl. č. 177/1996 Sb., byla zrušena nálezem Ústavního soudu ze dne 17. dubna 2013, sp. zn. Pl. ÚS 26/12, s účinností ke dni 7. května 2013, kdy byl publikován ve Sbírce zákonů pod č. 116/2013. Náklady tak sestávají z odměny advokáta za dva úkony (převzetí věci a sepis vyjádření) podle § 11 odst. 1 a) a k) vyhl. č. 177/1996 Sb., o odměnách advokátů a náhradách advokátů za poskytování právních služeb (advokátní tarif), ve znění vyhl. č. 399/2010 Sb., neboť úkon byl učiněn před 1. 1. 2013, kdy nabyla účinnosti vyhl. č. 486/2012 Sb., kterou se mění vyhláška č. 177/1996 Sb. (srov. Čl. II a Čl. III vyhl. č. 486/2012 Sb.) ve výši 2000,- Kč (2 x 1000,- Kč podle § 9 odst. 1 a § 7 bod 3 vyhlášky), a paušální náhrady hotových výdajů advokáta 2 x 300,- Kč podle § 13 odst. 3 vyhlášky. S připočtením náhrady za 21 % daň z přidané hodnoty ve výši 546 Kč (§ 137 odst. 3 o. s. ř.) činí celkem 3.146,- Kč.
+Proti tomuto usnesení není opravný prostředek přípustný.
+Nesplní-li žalobkyně dobrovolně povinnost uloženou jí tímto rozhodnutím, může žalovaný podat návrh na výkon rozhodnutí nebo exekuci.
+V Brně dne 11. září 2013
+JUDr. Jiří S p á č i l, CSc.
+předseda senátu
