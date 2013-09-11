@@ -1,0 +1,18 @@
+29 Cdo 1595/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Filipa Cilečka a soudců Mgr. Milana Poláška a JUDr. Petra Šuka v právní věci navrhovatele V. M., zastoupeného Mgr. Ing. Kateřinou Melichovou, advokátkou, se sídlem v Praze 10, Nad Primaskou 138/8, PSČ 100 00, za účasti Krušnohor bytového družstva, se sídlem v Teplicích – Řetenicích, Duchcovská 412, PSČ 415 03, identifikační číslo osoby 25027981, zastoupeného JUDr. Ivo Koulou, advokátem, se sídlem v Teplicích, Krupská 28/30, PSČ 415 01, o prohlášení rozhodnutí shromáždění delegátů o vyloučení z družstva za neplatné, vedené u Krajského soudu v Ústí nad Labem pod sp. zn. 71 Cm 53/2008, o dovolání družstva proti usnesení Vrchního soudu v Praze ze dne 9. ledna 2013, č. j. 14 Cmo 270/2011-142, takto:
+I. Dovolání se odmítá.
+II. Krušnohor bytové družstvo je povinno zaplatit navrhovateli na náhradu nákladů dovolacího řízení 4.114,- Kč, a to do tří dnů od právní moci tohoto usnesení, k rukám jeho zástupkyně.
+O d ů v o d n ě n í:
+Vrchní soud v Praze v záhlaví označeným usnesením potvrdil usnesení ze dne 26. listopadu 2010, č. j. 71 Cm 53/2008-102, ve výroku, kterým Krajský soud v Ústí nad Labem prohlásil rozhodnutí shromáždění delegátů ze dne 24. listopadu 2007 o vyloučení navrhovatele z Krušnohor bytového družstva (dále jen „družstvo“) za neplatné (první část výroku), a rozhodl o nákladech odvolacího řízení (druhá část výroku).
+Družstvo napadlo rozhodnutí odvolacího soudu dovoláním, které Nejvyšší soud odmítl podle ustanovení § 243c odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), jako nepřípustné, neboť v něm byl uplatněn jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o. s. ř., a v dovolacím řízení nelze pro tento nedostatek pokračovat.
+Námitkou, podle níž odvolací soud věc projednal a rozhodl, přestože takovému postupu bránila překážka věci pravomocně rozhodnuté, totiž dovolatel z obsahového hlediska uplatňuje tzv. zmatečnostní vadu řízení podle ustanovení § 229 odst. 2 písm. b/ o. s. ř., která není způsobilým dovolacím důvodem (k jejímu prověření slouží žaloba pro zmatečnost) a pro jejíž posouzení přípustnost dovolání založit nelze (k tomu usnesení Nejvyššího soudu ze dne 29. srpna 2002, sp. zn. 29 Odo 523/2002, uveřejněné pod číslem 32/2003 Sbírky soudních rozhodnutí a stanovisek, jehož závěry se prosadí i v režimu občanského soudního řádu ve znění účinném od 1. ledna 2013).
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243c odst. 3, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání družstva bylo odmítnuto, takže navrhovateli vzniklo právo na náhradu účelně vynaložených nákladů dovolacího řízení.
+Náklady navrhovatele v dovolacím řízení činí celkem částku 4.114,- Kč (viz § 6 odst. 1, § 7 bod 5, § 9 odst. 4 písm. c/, § 11 odst. 1 písm. k/ a § 13 odst. 3 vyhlášky č. 177/1996 Sb., advokátního tarifu a § 137 odst. 3 o. s. ř.).
+K důvodům, pro které byla odměna za zastupování určena podle advokátního tarifu, srov. např. rozsudek velkého senátu občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne 15. května 2013, sp. zn. 31 Cdo 3043/2010.
+Rozhodné znění občanského soudního řádu pro dovolací řízení (od 1. ledna 2013) se podává z bodů 1. a 7., článku II., zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony.
+Proti tomuto usnesení není přípustný opravný prostředek.
+Nesplní-li povinné, co mu ukládá vykonatelné rozhodnutí, může se oprávněný domáhat výkonu rozhodnutí.
+V Brně 11. září 2013
+JUDr. Filip Cileček
+předseda senátu
