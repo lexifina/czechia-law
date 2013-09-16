@@ -1,0 +1,22 @@
+22 Nd 349/2012
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy Mgr. Michala Králíka, Ph.D., a soudců JUDr. Jiřího Spáčila, CSc., a Mgr. Davida Havlíka ve věci žalobců a) V. E., b) Mgr. M. Č., proti žalovanému JUDr. Tomáši Krejčímu, advokátu se sídlem v Brně, Špitálka 23b, zaplacení 3 600.000,- Kč a příslušenstvím a 20 000.000,- Kč, takto:
+I. K projednání a rozhodnutí žaloby o zaplacení 3 600.000,- Kč s příslušenstvím jsou v prvním stupni příslušné okresní soudy.
+II. Po právní moci tohoto usnesení bude věc o zaplacení 3 600.000,- Kč s příslušenstvím postoupena Městskému soudu v Brně.
+III. K projednání a rozhodnutí ve věci o zaplacení 20 000.000,- Kč jsou v prvním stupni příslušné krajské soudy.
+IV. Po právní moci tohoto usnesení bude věc o zaplacení 20 000.000,- Kč postoupena k dalšímu řízení Krajskému soudu v Brně.
+O d ů v o d n ě n í :
+Žalobci adresovali Nejvyššímu soudu žalobní návrh ve výše uvedené věci. Předmětem žaloby jsou dva nároky – nárok na náhradu škody způsobenou tvrzeným protiprávním jednáním žalovaného v souvislosti s uzavřením smlouvy o půjčce mezi žalobci a klientkou žalovaného ve výši 3 600.000,- Kč a nárok na peněžité plnění za zásah do osobních a osobnostních práv ve výši 20 000.000,- Kč, který je požadován jako kompenzace za psychickou újmu celé rodině žalobkyně a) a kompenzace psychické újmy způsobené žalobci b).
+Podle § 11 odst. 1, 2 občanského soudního řádu (dále jen „o. s. ř.“) řízení se koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení. Věcně a místně příslušným je vždy také soud, jehož příslušnost již není možné podle zákona zkoumat nebo jehož příslušnost byla určena pravomocným rozhodnutím příslušného soudu. Je-li místně příslušných několik soudů, může se řízení konat u kteréhokoli z nich.
+Podle § 9 odst. 1 o. s. ř., nestanoví-li zákon jinak, jsou k řízení v prvním stupni příslušné okresní soudy. Podle § 9 odst. 5 o. s. ř. Nejvyšší soud rozhoduje jako soud prvního stupně, stanoví-li tak právní předpis.
+V dané věci nerozhoduje Nejvyšší soud jako soud prvého stupně podle § 9 odst. 5 o. s. ř., a není tedy oprávněn rozhodnout o předmětné žalobě, která mu byla žalobcem podána jako soudu nepříslušnému.
+Podle ustanovení § 104a odst. 4 o. s. ř. bylo-li řízení zahájeno u Nejvyššího soudu nebo byla-li věc Nejvyššímu soudu předložena vrchním soudem, Nejvyšší soud rozhodne, které soudy jsou k projednání a rozhodnutí věci příslušné v prvním stupni, není-li sám věcně příslušný.
+Vzhledem k tomu, že předmětem žaloby jsou dva nároky se samostatným skutkovým základem, je třeba zkoumat věcnou příslušnost soudu u každého zvlášť.
+Podle ustanovení § 9 odst. 2 písm. a) o. s. ř. krajské soudy rozhodují jako soudy prvního stupně ve věcech ochrany osobnosti podle občanského zákoníku a ochrany práv třetích osob, popřípadě ochrany práv třetích osob podle právních předpisů o hromadných informačních prostředcích.
+Podle ustanovení § 84 o. s. ř. je k řízení příslušný obecný soud účastníka, proti němuž návrh směřuje (žalovaného), není-li stanoveno jinak.
+Podle ustanovení § 85 odst. 1 o. s. ř. nestanoví-li zákon jinak, je obecným soudem fyzické osoby okresní soud, v jehož obvodu má bydliště, a nemá-li bydliště, okresní soud, v jehož obvodu se zdržuje.
+V návaznosti na výše uvedené skutečnosti bylo podle ustanovení § 104a odst. 4 o. s. ř. ve spojení s § 85 odst. 1 o. s. ř. rozhodnuto tak, že k projednání a rozhodnutí sporu o náhradu škody ve výši 3 600.000,- Kč s příslušenstvím jsou věcně příslušné okresní soudy a k projednání a rozhodnutí sporu o nároku na peněžité plnění za zásah do osobních a osobnostních práv ve výši 20 000.000,- Kč jsou věcně příslušné krajské soudy. Současně Nejvyšší soud rozhodl, že jednotlivé věci o zaplacení 3 600.000,- Kč s příslušenstvím a 20 000.000,- Kč budou po právní moci tohoto usnesení postoupeny k dalšímu řízení Městskému soudu v Brně, resp. Krajskému soudu v Brně, v jejichž obvodech má žalovaný své sídlo.
+Žalobci mimo jiné v žalobě požádali Nejvyšší soud, aby věc přidělil ,,soudům mimo území Moravy vzhledem k společenskému postavení žalovaného“. Obsahem tohoto návrhu, který zřejmě míří k aplikaci ustanovení § 12 občanského soudního řádu, se bude věcně zabývat věcně a místně příslušný soud.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 16. září 2013
+Mgr. Michal Králík, Ph.D. předseda senátu
