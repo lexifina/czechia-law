@@ -1,0 +1,16 @@
+33 Cdo 1602/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Blanky Moudré a soudců JUDr. Václava Dudy a JUDr. Ivany Zlatohlávkové ve věci žalobkyně České republiky - Ministerstva zemědělství ČR se sídlem Praha 1, Těšnov 17, zastoupené JUDr. Jarmilou Veselou, advokátkou se sídlem Praha 3, Hradecká 3, proti žalované HMO logistika Olomouc, a. s., identifikační číslo: 476 75 918, posledně sídlem Olomouc - Holice, Hamerská 624/19, zaniklé dne 5. 2. 2013, o zaplacení 5,518.513,- Kč, vedené u Okresního soudu v Olomouci pod sp. zn. 23 C 55/99, o dovolání žalobkyně proti rozsudku Krajského soudu v Ostravě - pobočky v Olomouci ze dne 13. září 2006, č. j. 40 Co 258/2006-298, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í:
+Krajský soud v Ostravě - pobočka v Olomouci rozsudkem ze dne 13. září 2006, č. j. 40 Co 258/2006-298, potvrdil rozsudek ze dne 18. dubna 2003, č. j. 23 C 55/99-197, jímž Okresní soud v Olomouci zamítl žalobu o zaplacení 5,518.513,- Kč a rozhodl o nákladech řízení účastníků, státu a o poplatkové povinnosti; současně rozhodl o nákladech odvolacího řízení.
+Proti rozsudku odvolacího soudu podala žalobkyně dovolání.
+V dovolacím řízení bylo postupováno podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění do 30. 6. 2009 - dále jen „o. s. ř.“ (srovnej čl. II bod 12. zákona č. 7/2009 Sb.).
+V průběhu dovolacího řízení Krajský soud v Ostravě usnesením ze dne 26. 2. 2008, sp. zn. 33 K 78/2007, prohlásil na majetek dlužníka (žalované) konkurs. Usnesením téhož soudu ze dne 28. 3. 2012, č. j. 33 K 78/2007-207, byl konkurs prohlášený na majetek žalované zrušen po splnění rozvrhového usnesení a žalovaná byla ke dni 5. 2. 2013 vymazána z obchodního rejstříku (viz výpis z obchodního rejstříku, vedeného Krajským soudem v Ostravě, oddílu B, vložky 760).
+Podle § 107 odst. 1 o. s. ř. jestliže účastník ztratí po zahájení řízení způsobilost být účastníkem řízení dříve, než řízení bylo pravomocně skončeno, posoudí soud podle povahy věci, zda v řízení může pokračovat, a to s procesním nástupcem účastníka (§ 107 odst. 1 věta třetí o. s. ř.), jímž je v případě právnické osoby podle § 107 odst. 3 o. s. ř. (nestanoví-li zákon jinak) ten, kdo po zániku právnické osoby vstoupil do jejích práv a povinností, popřípadě převzal práva a povinnosti, o něž v řízení jde. Podle § 107 odst. 5 věty první o. s. ř. neumožňuje-li povaha věci v řízení pokračovat, soud řízení zastaví. Ustanovení § 107 o. s. ř. přitom platí přiměřeně pro řízení u dovolacího soudu (srov. § 243c odst. 1 o. s. ř.).
+Protože žalovaná výmazem z obchodního rejstříku ztratila způsobilost mít práva a povinnosti (§ 68 odst. 1 obchodního zákoníku) a rovněž způsobilost být účastníkem řízení (§ 19 občanského zákoníku), a to bez právního nástupce (§ 107 odst. 3 o. s. ř.), dovolací soud dovolací řízení zastavil (§ 107 odst. 5 věta první o. s. ř. ve spojení s § 243c odst. 1 o. s. ř.).
+O nákladech dovolacího řízení nebylo rozhodnuto, protože po zániku žalované zde není subjekt, jemuž (případně, v jehož prospěch) by bylo možné náhradu nákladů řízení uložit.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 17. září 2013
+JUDr. Blanka Moudrá
+předsedkyně senátu
