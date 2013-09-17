@@ -1,0 +1,17 @@
+32 Cdo 1781/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Hany Gajdziokové a soudců JUDr. Miroslava Galluse a JUDr. Pavla Příhody v právní věci žalobkyně Stavební spořitelny České spořitelny, a.s., se sídlem v Praze 3, Vinohradská 1632, PSČ 130 11, identifikační číslo osoby 60 19 76 09, zastoupené Mgr. Markem Lošanem, advokátem se sídlem v Praze 1-Starém Městě, Týn 1049/3, proti žalovaným 1) Mgr. J. A. E. K., a 2) L. O., zastoupené JUDr. Milanem Milerem, advokátem se sídlem v Praze 1-Novém Městě, Na Příkopě 859/22, o zaplacení částky 766.170,50 Kč s příslušenstvím, vedené u Okresního soudu v Benešově pod sp. zn. 114 EC 176/2011, o dovolání žalovaných proti usnesení Krajského soudu v Praze ze dne 31. ledna 2013, č. j. 21 Co 556/2012-154, takto:
+I. Dovolání se odmítá.
+II. Žádná z účastnic nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Benešově usnesením ze dne 3. září 2012, č. j. 114 EC 176/2011-142, zamítl žádost žalovaných o osvobození od povinnosti zaplatit část soudního poplatku ve výši 8.310,- Kč za odvolání podané proti rozsudku pro uznání (výrok I.), řízení o odvolání proti rozsudku o uznání zastavil podle ustanovení § 9 odst. 1 zákona č. 579/1991 Sb., o soudních poplatcích (výrok II.), žalovaným uložil zaplatit společně a nerozdílně část soudního poplatku za odvolání ve výši 1.662,- Kč (výrok III.) a rozhodl o nákladech odvolacího řízení (výrok IV.).
+Krajský soud v Praze v záhlaví označením usnesením potvrdil usnesení soudu prvního stupně ve výrocích I. a II., změnil je ve výroku III. tak, že žalovaným se povinnost zaplatit část soudních poplatku ve výši 1.662,- Kč neukládá (první výrok), a rozhodl o nákladech odvolacího řízení (druhý výrok).
+Proti tomuto usnesení odvolacího soudu podaly žalované dovolání v rozsahu prvního výroku, v němž bylo potvrzeno usnesení soudu prvního stupně, odkazujíce co do přípustnosti na ustanovení § 237 odst. 1 písm. a) a c) občanského soudního řádu (dále též jen „o. s. ř.“) a co do důvodů na ustanovení § 241a odst. 2 písm. a) a b) a odst. 3 o. s. ř.
+Se zřetelem k datu vydání napadeného rozhodnutí odvolacího soudu se uplatní pro dovolací řízení - v souladu s čl. II, bodem 7. přechodných ustanovení části první zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony - občanský soudní řád ve znění účinném od 1. ledna 2013.
+Dovolání proti usnesení odvolacího soudu trpí vadami, neboť dovolatelky oproti požadavkům vymezeným pro obsah dovolání v ustanovení § 241a odst. 2 o. s. ř. neuvedly, v čem spatřují splnění předpokladů přípustnosti dovolání (srov. § 237 o. s. ř.), a neuvedly důvod dovolání způsobem splňujícím požadavky vyžadované ustanovením § 241a odst. 3 o. s. ř.
+Uvedené nedostatky dovolání nelze již odstranit, neboť lhůta pro podání dovolání, během níž tak bylo možno učinit (srov. ustanovení § 241b odst. 3 větu první o. s. ř.) dovolatelkám uplynula dne 9. května 2013. Jde přitom o vady, jež brání pokračování v dovolacím řízení, neboť v důsledku absence uvedených náležitostí nelze posoudit přípustnost ani důvodnost dovolání. Nejvyšší soud proto dovolání odmítl podle ustanovení § 243c odst. 1 o. s. ř.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (srov. ustanovení § 243f odst. 3 větu druhou o. s. ř.).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 17. září 2013
+JUDr. Hana Gajdzioková
+předsedkyně senátu
