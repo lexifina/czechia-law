@@ -1,0 +1,14 @@
+25 Cdo 1242/2012
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedkyně JUDr. Marty Škárové a soudců JUDr. Petra Vojtka a JUDr. Roberta Waltra v právní věci žalobců a) J. B., b) P. I., a c) P. M., všech zastoupených Mgr. Janou Syrovátkovou, advokátkou se sídlem Praha 2, Bělehradská 568/92, proti žalovanému Družstvu pro rekreační bydlení, se sídlem Praha 5 - Lahovice, Lahovská 117, IČO 00056227, zastoupenému JUDr. Luďkem Trundou, advokátem se sídlem Praha 4, Na nivách 1019/25, o náhradu škody, vedené u Obvodního soudu pro Prahu 5 pod sp. zn. 11 C 297/2005, o dovolání žalovaného proti rozsudku Městského soudu v Praze ze dne 25. 4. 2007, č. j. 23 Co 90/2007-149, takto:
+Žalovaný je povinen zaplatit žalobcům na náhradě nákladů dovolacího řízení částku 34.960,- Kč k rukám Mgr. Jany Syrovátkové, advokátky se sídlem v Praze 2, Bělehradská 568/92, do tří dnů od právní moci tohoto usnesení.
+Odůvodnění:
+Nejvyšší soud usnesením ze dne 15. 12. 2009, č. j. 25 Cdo 4483/2007-170, odmítl dovolání žalovaného proti rozsudku Městského soudu v Praze ze dne 25. 4. 2007, č. j. 23 Co 90/2007-149, neboť dovolání proti rozhodnutí, proti němuž směřovalo, není přípustné, a rozhodl, že žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Výrok o náhradě nákladů řízení byl nálezem Ústavního soudu ze dne 22. 7. 2010, sp. zn. III. ÚS 844/10, zrušen a Nejvyšší soud vzhledem k nepřípustnosti dovolání a k obsahu podaného vyjádření rozhodl o náhradě nákladů dovolacího řízení znovu tak, že žádný z účastníků nemá právo na náhradu nákladů řízení žalobců.
+Ústavní soud nálezem ze dne 3. 4. 2012, sp. zn. IV. ÚS 2119/11, toto usnesení zrušil s tím, že náklady žalobců spojené s podáním jejich vyjádření k dovolání byly účelně vynaloženy.
+Nejvyšší soud proto znovu rozhodl o náhradě nákladů dovolacího řízení podle § 243b odst. 5 věty první, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 3 o. s. ř. Vzhledem k tomu, že dovolání žalovaného bylo odmítnuto, mají žalobci právo na náhradu nákladů, které sestávají z odměny advokátky ve výši 34.660,- Kč podle § 1 odst. 2, § 6 odst. 1, § 7 bod 6, § 8 odst. 1 a § 11 odst. 1 písm. k) vyhlášky č. 177/1996 Sb. za jeden úkon právní služby, spočívající ve vyjádření se k dovolání žalovaného, a z náhrady hotových výdajů ve výši 300,- Kč podle § 2 odst. 1 a § 13 odst. 3 této vyhlášky, celkem tedy 34.960,- Kč.
+Odměna advokátky byla určena podle vyhlášky č. 177/1996 Sb. ve znění pozdějších předpisů vzhledem k tomu, že vyhláška č. 484/2000 Sb., podle níž se dosud odměna za zastupování v soudním řízení zásadně určovala, byla nálezem Ústavního soudu ze dne 17. 4. 2013, sp. zn. Pl. ÚS 25/12, zrušena dnem vyhlášení nálezu ve Sbírce zákonů (7. 5. 2013).
+Proti tomuto usnesení není přípustný opravný prostředek podle občanského soudního řádu.
+V Brně dne 17. září 2013
+JUDr. Marta Škárová
+předsedkyně senátu
