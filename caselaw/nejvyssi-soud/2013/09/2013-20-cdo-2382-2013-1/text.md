@@ -1,0 +1,16 @@
+20 Cdo 2382/2013
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedkyně JUDr. Olgy Puškinové a soudců JUDr. Vladimíra Mikuška a JUDr. Zbyňka Poledny, v exekuční věci oprávněného Vodafone Czech Republic a.s., se sídlem v Praze 10, Vinohradská 167, identifikační číslo osoby 257 88 001, proti povinnému J. K., pro 5.231,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 3 pod sp. zn. 35 EXE 31074/2011, o dovolání povinného proti usnesení Městského soudu v Praze ze dne 7. září 2012, č. j. 17 Co 266/2012 - 57, takto:
+Dovolání se odmítá.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.):
+Shora označeným usnesením městský soud potvrdil usnesení ze dne 30. 4. 2012, č. j. 35 EXE 31074/2011 - 41, jímž Obvodní soud pro Prahu 3 podle § 208 odst. 1 o. s. ř. odmítl odvolání povinného proti „usnesení o nařízení exekuce ze dne 3. 6. 2011, č. j. 35 EXE 31074/2011 - 12“.
+Proti tomuto usnesení odvolacího soudu podal povinný dovolání, aniž byl při tomto úkonu zastoupen advokátem.
+Dovolací soud s ohledem na skutečnost, že napadené rozhodnutí bylo vydáno dne 7. 9. 2012, o dovolání rozhodl podle občanského soudního řádu ve znění účinném od 1. 7. 2009 do 31. 12. 2012 (viz článek II, bod 12. části první zákona č. 7/2009 Sb. a článek II, bod 7. části první zákona č. 404/2012 Sb.) a neshledal je přípustným.
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Přípustnost dovolání proti usnesení, jímž odvolací soud potvrdil usnesení soudu prvního stupně, kterým bylo pro opožděnost odmítnuto odvolání povinného (proti usnesení o nařízení exekuce), nezakládají ustanovení § 238, § 238a a § 239 odst. 1 a 2 o. s. ř. zcela zjevně, neboť nejde o rozhodnutí v nich vyjmenovaná. Přípustnost dovolání nelze dovozovat ani z § 239 odst. 3 o. s. ř., neboť napadeným usnesením nebylo potvrzeno usnesení soudu prvního stupně o odmítnutí žaloby nebo jiného návrhu na zahájení řízení podle § 43 odst. 2 o. s. ř., nýbrž usnesení soudu prvního stupně o odmítnutí odvolání pro opožděnost podle § 208 odst. 1 o. s. ř. (srov. usnesení Nejvyššího soudu ze dne 20. listopadu 2001, sp. zn. 21 Cdo 1124/2001, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod číslem 41/2003). Ustanovení § 237 odst. 1 o. s. ř. pak upravuje (pozitivně) přípustnost dovolání jen proti těm rozhodnutím, jež jsou rozhodnutími ve věci samé; usnesení, jímž soud prvního stupně odmítl odvolání jako opožděné, a tudíž ani rozhodnutí, jímž odvolací soud takové usnesení potvrdil, však rozhodnutím ve věci samé není (k pojmu „věc sama“ srov. např. usnesení Nejvyššího soudu ze dne 2. prosince 1997, sp. zn. 2 Cdon 774/97, publikované ve Sbírce soudních rozhodnutí a stanovisek pod číslem 61/1998, případně usnesení téhož soudu ze dne 28. srpna 1997, sp. zn. 2 Cdon 484/97, uveřejněné v časopise Soudní judikatura číslo 11, ročníku 1997, pod číslem 88).
+Nejvyšší soud proto dovolání povinného podle § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl, aniž zohledňoval nedostatek nuceného zastoupení dovolatele v dovolacím řízení (srov. § 241b odst. 2 o. s. ř.).
+O případných nákladech dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb.)
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 24. září 2013
+JUDr. Olga Puškinová
+předsedkyně senátu
