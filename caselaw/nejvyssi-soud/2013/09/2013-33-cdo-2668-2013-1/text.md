@@ -1,0 +1,16 @@
+33 Cdo 2668/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivany Zlatohlávkové a soudců JUDr. Pavla Krbka a JUDr. Václava Dudy ve věci žalobce V. F., zastoupeného JUDr. Antonínem Šolcem, advokátem se sídlem v Karlových Varech, Jugoslávská 1311/14, proti žalovanému R. V., zastoupenému Mgr. Marcelou Valtrovou, advokátkou se sídlem v Praze 2, Rubešova 83/10, o zaplacení 1,500.000,- Kč s příslušenstvím, vedené u Okresního soudu v Karlových Varech pod sp. zn. 13 C 88/2011, o dovolání žalovaného proti usnesení Krajského soudu v Plzni ze dne 19. března 2013, č. j. 11 Co 306/2012-116, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Karlových Varech rozsudkem ze dne 18. srpna 2011, č. j. 13 C 88/2011-44, uložil žalovanému povinnost zaplatit žalobci do tří dnů od právní moci rozsudku 1,500.000,- Kč se specifikovaným příslušenstvím (úrokem z prodlení) a rozhodl o nákladech řízení.
+Krajský soud v Plzni rozsudkem ze dne 19. března 2013, č. j. 11 Co 306/2012-116, změnil rozsudek soudu prvního stupně pouze tak, že k zaplacení částky 1,500.000,- Kč s příslušenstvím stanovil lhůtu jednoho roku od právní moci rozsudku; jinak jej potvrdil. Současně rozhodl o nákladech odvolacího řízení.
+Proti rozsudku odvolacího soudu podal žalovaný dovolání, které není podle § 237 zákona č. 99/1963 Sb., občanského soudního řádu ve znění účinném od 1. 1. 2013 (srov. čl. II bod 1 a 7 zákona č. 404/2012 Sb. - dále jen „o. s. ř.“), přípustné.
+Podle 241a o. s. ř. lze dovolání podat pouze z důvodu, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci. Žalovaný v dovolání tento jediný způsobilý dovolací důvod neuplatnil, neboť dovolací námitky ve skutečnosti nesměřují proti právnímu posouzení věci, nýbrž soudům je vytýkána nesprávnost skutkových zjištění, na nichž je založen závěr, že žalovaný nesplnil svůj závazek ze smlouvy o půjčce. Oproti odvolacímu soudu nadále prosazuje názor, že částka 1,500.000,- Kč mu byla poskytnuta (předána do jeho dispozice) nikoli 24. 8. 2009, nýbrž až 25. 8. 2009 připsáním na jím určený účet JUDr. H. („v jeho prospěch“) a nebyla mu poukazována a jím přebírána jako půjčka, nýbrž jako vnos do společného podnikání. Pokud je v dovolání argumentováno nesprávným právním posouzením věci, pak pouze v tom smyslu, že pokud by odvolací soud (stejně jako před ním soud prvního stupně) vyšel ze správně zjištěného skutkového stavu věci (tedy z jím tvrzeného skutku), musel by nutně dospět k odlišnému právnímu posouzení věci, tedy nemohl by věc poměřovat ustanovením § 657 obč. zák. Nesprávná skutková zjištění nejsou podle současné právní úpravy způsobilým dovolacím důvodem (viz § 241a odst. 1 o. s. ř. a contrario).
+Vzhledem k tomu, že dovolání směřuje proti rozhodnutí odvolacího soudu, proti němuž není tento mimořádný opravný prostředek přípustný, Nejvyšší soud je podle § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o nákladech dovolacího řízení nemusí být odůvodněn (§ 243f odst. 3 věta druhá o. s. ř.)
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 25. září 2013
+JUDr. Ivana Zlatohlávková
+předsedkyně senátu
