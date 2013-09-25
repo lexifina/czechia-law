@@ -1,0 +1,17 @@
+30 Cdo 1357/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Lubomírem Ptáčkem, Ph.D., v právní věci žalobce F. H., proti žalovaným 1) P. O., předsedovi představenstva SBD Nová Huť, se sídlem Ostrava – Výškovice, Hýlova 26/40 a 2) R. P., řediteli SBD Nová Huť, se sídlem Ostrava – Výškovice, Hýlova 26/40, o ochranu osobnosti a náhrady nemajetkové újmy v penězích, ve věci vedené u Krajského soudu v Ostravě pod sp. zn. 23 C 135/2008, o dovolání žalobce proti usnesení Vrchního soudu v Olomouci ze dne 28. února 2013, č.j. 1 Co 336/2012 – 241, takto:
+I. Řízení o dovolání žalobce se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Žalobce (dále jen „dovolatel“) podal proti usnesení Vrchního soudu ze dne 11. srpna 2011, č.j. 1 Co 199/2011 – 149, včasné dovolání. Protože dovolání, směřující pouze proti rozhodnutí odvolacího soudu jen procesní povahy, podléhá poplatkové povinnosti, jak vyplývá z rozhodnutí Nejvyššího soudu ze dne 3. 10. 2011, sp. zn. 29 NSČR 53/2011 uveřejněném ve Sbírce rozhodnutí a soudních stanovisek pod č. 17/2012, bylo dovolání vráceno soudu prvního stupně, aby žalobce dodatečně vyzval k úhradě soudního poplatku a poučil dovolatele o následcích v případě nezaplacení soudního poplatku.
+Jelikož dovolatel ve stanovené době vyměřený soudní poplatek neuhradil, Krajský soud v Ostravě dne 1. 10. 2012, č.j. 23 C 135/2008 – 221, řízení zastavil a Vrchní soud v Olomouci následně dne 28. února 2013, č.j. 1 Co 336/2012 – 241, toto usnesení potvrdil.
+Dovolatel podal proti potvrzujícímu usnesení odvolacího soudu dovolání k Nejvyššímu soudu, kdy se domáhá spravedlivého a veřejného projednání v jeho věci a uvádí, že je nedůstojné a neslušné žádat od žalobce žádat soudní poplatek.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a občanského soudního řádu, dále jen „o.s.ř.“) věc projednal podle hlavy třetí, části čtvrté o.s.ř. (ve znění účinném od 1. 1. 2013, bod 1. čl. II zákona č. 404/2012 Sb.) bez nařízení jednání (§ 243a odst. 1 věta prvá o.s.ř.) a po zjištění, že dovolání proti pravomocnému usnesení odvolacího soudu bylo podáno oprávněnou osobou (účastníkem řízení) v zákonné lhůtě (§ 240 odst. 1 o.s.ř.) dospěl k závěru, že věcnému rozhodnutí o dovolání brání nedostatek podmínky dovolacího řízení.
+Poplatková povinnost spojená s podáním mimořádného opravného prostředku, je jednou z odstranitelných podmínek řízení. Nedostatek podmínky řízení, který lze odstranit, soud řeší v závislosti na povaze podmínky řízení; nezdaří-li se za použití vhodných opatření tento nedostatek odstranit, soud řízení také zastaví. Soud prvního stupně učinil všechna vhodná opatření pro odstranění nedostatku podmínky řízení a po jejich bezvýslednosti zastavil.
+Vzhledem k tomu, že nebyly splněny podmínky dovolacího řízení, tj. nebyl uhrazen soudní poplatek a nadto účastník ani nebyl zastoupen právním zástupcem, Nejvyšší soud proto postupoval podle ustanovení § 241b odst. 2 věta před středníkem a § 104 odst. 2 věty třetí o.s.ř. a řízení zastavil. Nadto je třeba poznamenat, že ani u současného dovolání dovolatel (setrvávaje zřejmě na stejném závěru o „neslušnosti“ poplatkové povinnosti) neuhradil žádný soudní poplatek.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 věta druhá o.s.ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 25. září 2013
+JUDr. Lubomír P t á č e k, Ph.D.
+předseda senátu
