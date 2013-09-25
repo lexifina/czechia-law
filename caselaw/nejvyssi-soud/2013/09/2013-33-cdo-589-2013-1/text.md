@@ -1,0 +1,16 @@
+33 Cdo 589/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudců JUDr. Blanky Moudré a JUDr. Václava Dudy ve věci žalobce Ing. J. K., zastoupeného JUDr. Janem Sukem, advokátem se sídlem v Praze 2, Na Slupi 134/15, proti žalovaným 1) V. H. a 2) L. H., zastoupeným Mgr. Helenou Kalabisovou, advokátkou se sídlem v Praze 4, Východní náměstí 851/1, o 9.331.118,80 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 3 pod sp. zn. 18 C 109/2003, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 11. 9. 2012, č.j. 15 Co 12/2012-452, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Dovolání proti v záhlaví citovanému rozsudku v části, jíž městský soud ve věci samé potvrdil zamítavý rozsudek Obvodního soudu pro Prahu 3 ze dne 28. 1. 2011, č.j. 18 C 109/2003-322, není přípustné podle § 237 odst. 1 písm. b/ zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2012 (srov. část první, čl. II bod 7 zákona č. 404/2012 Sb., dále jen „o.s.ř.“), a nebylo shledáno přípustným ani podle § 237 odst. 1 písm. c/ o.s.ř., které ji spojuje se závěrem dovolacího soudu, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam. O takový případ jde zejména tehdy, řeší-li právní otázku, která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo která je soudy rozhodována rozdílně, nebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak; k okolnostem uplatněným dovolacími důvody podle § 241a odst. 2 písm. a/ a § 241a odst. 3 se nepřihlíží (srov. § 237 odst. 3 o.s.ř.)
+Žalobce spatřuje zásadní právní význam napadeného rozhodnutí v tom, že soudy obou stupňů se dopustily svévole tím, že jejich rozhodnutí včetně zdůvodnění vycházelo ze skutečností, které neměly oporu v provedených důkazech; má za to, že Nejvyšší soud „dosud nepublikoval žádné sjednocující judikáty v otázce rozhodování obecných soudů, vycházejících ze skutečností, které neměly oporu v provedených důkazech.“
+Okolnost, že rozhodnutí vychází ze skutkového zjištění, které nemá podle obsahu spisu v podstatné části oporu v provedeném dokazování, je dovolacím důvodem podle § 241a odst. 3 o.s.ř.; užití takového důvodu je v případě dovolání, jehož přípustnost je zvažována podle § 237 odst. 1 písm. c/ o.s.ř., vyloučeno (srov. § 241a odst. 3, § 237 odst. 3, část věty za středníkem, o.s.ř.). Námitky dovolatele proto nejsou s to přípustnost dovolání založit.
+Dovolání proti potvrzujícímu výroku o nákladech řízení před soudem prvního stupně a proti výroku o nákladech odvolacího řízení není objektivně přípustné (srov. usnesení Nejvyššího soudu ze dne 31. 1. 2002, sp. zn. 29 Odo 874/2001, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek 1/2003 pod č. 4).
+Nepřípustné dovolání Nejvyšší soud odmítl (§ 243b odst. 5, věta první, § 218 písm. c/ o. s. ř.).
+O náhradě nákladů dovolacího řízení dovolací soud rozhodl podle § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o.s.ř. Náklady, které vznikly žalovaným, nelze považovat za účelně vynaložené, neboť vyjádření k dovolání vůbec nevystihuje důvod jeho odmítnutí.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 25. září 2013
+JUDr. Pavel K r b e k
+předseda senátu
