@@ -1,0 +1,16 @@
+20 Cdo 2596/2013
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedkyně JUDr. Olgy Puškinové a soudců JUDr. Vladimíra Mikuška a JUDr. Zbyňka Poledny ve věci výkonu rozhodnutí oprávněné CCRB a.s., se sídlem v Praze, Olivova 948/6, identifikační číslo osoby 247 23 576, zastoupené Mgr. Martinem Strakou, advokátem se sídlem v Praze 2, Londýnská 674/55, proti povinnému M. D´A., zastoupenému Mgr. Vladimírem Pospíšilem, advokátem se sídlem v Praze 1, Mezibranská 5, pro 538.051,75 Kč s příslušenstvím, zřízením soudcovského zástavního práva na nemovitostech, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 34 E 431/2012, o dovolání povinného proti usnesení Městského soudu v Praze ze dne 27. září 2012, č. j. 14 Co 321/2012 - 99, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.):
+Obvodní soud pro Prahu 1 usnesením ze dne 13. 4. 2012, č. j. 34 E 431/2012 - 58, ve znění opravného usnesení ze dne 28. 5. 2012, č. j. 34 E 431/2012 - 76, nařídil na základě vykonatelného rozhodčího nálezu, vydaného rozhodcem JUDr. Janem Brožem dne 20. 2. 2012 pod sp. zn. A/2011/01008, který nabyl právní moci dne 30. 3. 2012, k vymožení pohledávky oprávněné ve výši 538.051,75 Kč s tam specifikovaným úrokem a pro náhradu nákladů rozhodčího řízení ve výši 76.611,60 Kč výkon rozhodnutí zřízením soudcovského zástavního práva na tam specifikovaných nemovitostech povinného v k.ú. N. M., obec P.
+Městský soud v Praze usnesením ze dne 27. 9. 2012, č. j. 14 Co 321/2012 - 99, k odvolání povinného usnesení soudu prvního stupně ve znění opravného usnesení potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Proti usnesení odvolacího soudu, podal povinný dovolání.
+Nálezem Ústavního soudu ze dne 6. 3. 2013, sp. zn. IV. ÚS 4709/12, bylo dovoláním napadené usnesení odvolacího soudu zrušeno.
+Za tohoto stavu věci Nejvyšší soud dovolání [jež by ani jinak nebylo podle občanského soudního řádu ve znění účinném od 1. 7. 2009 do 31. 12. 2012 přípustné, neboť s účinností od 1. 7. 2009 do 31. 12. 2012 ustanovení § 238a odst. 1 o. s. ř. s možností podat dovolání proti usnesení odvolacího soudu, jímž bylo potvrzeno nebo změněno usnesení soudu prvního stupně, kterým bylo rozhodnuto o návrhu na nařízení výkonu rozhodnutí (exekuce), nepočítalo (srov. § 238a odst. 1 písm. c/ o. s. ř. ve znění účinném do 30. 6. 2009)] ve smyslu ustanovení § 243b odst. 5 a § 218 o. s. ř. odmítl, protože se v důsledku okolností nastalých po vydání napadeného rozhodnutí stalo bezpředmětným. Právní teorie i soudní praxe se přitom shoduje v tom, že v takovém případě nejsou předpoklady pro meritorní projednání opravného prostředku, přičemž rovnocenným řešením je vedle odmítnutí opravného prostředku i zastavení řízení o opravném prostředku podle § 104 odst. 1 o. s. ř. (srov. např. usnesení Nejvyššího soudu ze dne 30. září 2004, sp. zn. 29 Odo 611/2002, či jeho usnesení ze dne 18. 12. 2007, sp. zn. 29 Cdo 4808/2007).
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243b odst. 5, § 224 odst. 1 a § 151 odst. 1 o. s. ř., neboť oprávněné v tomto řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. září 2013
+JUDr. Olga Puškinová
+předsedkyně senátu
