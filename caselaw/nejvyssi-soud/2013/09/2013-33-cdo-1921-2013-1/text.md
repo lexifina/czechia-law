@@ -1,0 +1,16 @@
+33 Cdo 1921/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Václava Dudy a soudkyň JUDr. Blanky Moudré a JUDr. Ivany Zlatohlávkové v právní věci žalobce V. H., zastoupeného Mgr. Janem Harcubou, advokátem se sídlem v Mladé Boleslavi, Okružní 280, proti žalovanému Š. S., o zaplacení smluvní pokuty, vedené u Okresního soudu v Mladé Boleslavi pod sp. zn. 12 C 256/2011, o dovolání žalobce proti rozsudku Krajského soudu v Praze ze dne 9. ledna 2013, č. j. 29 Co 565/2012-90, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Podle § 241a odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu v platném znění (bod 1. článek II., zákona č. 404/2012 Sb. – dále jen „o. s. ř.“), v dovolání musí být vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu se rozhodnutí napadá, vymezení důvodu dovolání, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) a čeho se dovolatel domáhá (dovolací návrh).
+Podle § 237 o. s. ř. není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+Požadavek dovolatele, „že je třeba dovolacím soudem posoudit vyřešenou právní otázku jinak“, není řádným vymezením přípustnosti dovolání v režimu § 237 o. s. ř., neboť významově neodpovídá tomu, aby „dovolacím soudem (již dříve) vyřešená právní otázka byla (dovolacím soudem) posouzena jinak“ (shodně např. usnesení Nejvyššího soudu ze dne 30. května 2013, sp. zn. 29 Cdo 1172/2013, které je dostupné veřejnosti na webových stránkách Nejvyššího soudu).
+Podle § 241a odst. 2 o. s. ř. je dovolatel povinen v dovolání uvést, v čem spatřuje splnění předpokladů přípustnosti dovolání. Může-li být dovolání přípustné jen podle § 237 o. s. ř., musí dovolatel vymezit, které z tam uvedených hledisek považuje za splněné, přičemž k projednání dovolání nestačí pouhá citace ustanovení § 237 o. s. ř. (či jeho části). Spatřuje-li dovolatel přípustnost dovolání v tom, že „dovolacím soudem vyřešená právní otázka má být posouzena jinak“, musí být z dovolání zřejmé, od kterého svého řešení otázky hmotného nebo procesního práva se má (podle mínění dovolatele) dovolací soud odchýlit (srov. usnesení Nejvyššího soudu ze dne 27. srpna 2013, sen. zn. 29 NSČR 55/2013).
+Jelikož dovolatel podle obsahu dovolání (§ 41 odst. 2 o. s. ř.) shora uvedenému požadavku nedostál, Nejvyšší soud jeho dovolání odmítl podle § 243c odst. 1 věty první o. s. ř., neboť v dovolacím řízení nelze pro tuto vadu pokračovat (viz usnesení Nejvyššího soudu ze dne 11. července 2013, sen. zn. 29 NSČR 51/2013).
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 26. září 2013
+JUDr. Václav D u d a
+předseda senátu
