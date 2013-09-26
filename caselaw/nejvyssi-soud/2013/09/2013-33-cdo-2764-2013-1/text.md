@@ -1,0 +1,14 @@
+33 Cdo 2764/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Blanky Moudré a soudců JUDr. Pavla Krbka a JUDr. Ivany Zlatohlávkové ve věci žalobkyně Lžičař & Partners s. r. o. se sídlem Hradec Králové, Postranní 663, zastoupené Mgr. Markem Hylenou, advokátem se sídlem Česká Třebová, Staré náměstí 15, proti žalované D. K., zastoupené JUDr. Jiřím Slezákem, advokátem se sídlem Hradec Králové, Ulrichovo nám. 737/4, o 79.500,- Kč, vedené u Okresního soudu v Hradci Králové pod sp. zn. 110 C 85/2011, o dovolání žalobkyně proti rozsudku Krajského soudu v Hradci Králové ze dne 27. března 2013, č. j. 21 Co 102/2013-84, takto:
+I. Dovolání se odmítá.
+II. Žádná z účastnic nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Dovolání žalobkyně proti rozsudku ze dne 27. března 2013, č. j. 21 Co 102/2013-84, kterým Krajský soud v Hradci Králové změnil rozsudek Okresního soudu v Hradci Králové ze dne 23. října 2012, č. j. 110 C 85/2011-56, tak, že žalobu o zaplacení 79.500,- Kč zamítl, a rozhodl o nákladech řízení, není přípustné podle § 237 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění od 1. 1. 2013 (srovnej článek II., bod 1. přechodných ustanovení zákona č. 404/2012 Sb.), neboť napadené rozhodnutí nezávisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně, a nejedná se ani o případ, kdy má být dovolacím soudem vyřešená právní otázka posouzena jinak (§ 237 o. s. ř.).
+Žalobkyní nastolená právní otázka, zda lze ve zprostředkovatelské smlouvě uzavřené ve smyslu § 774 obč. zák. platně sjednat smluvní pokutu pro případ, kdy zájemce neuzavře kupní smlouvu s třetí osobou, kterou zprostředkovatel vyhledal, již byla dovolacím soudem vyřešena a odvolací soud se od ustálené praxe Nejvyšší soudu neodchýlil (srovnej rozsudky ze dne 26. 7. 2010, sp. zn. 33 Cdo 498/2009, a ze dne 28. 2. 2008, sp. zn. 33 Cdo 3053/2007, v nichž Nejvyšší soud formuloval a odůvodnil názor, podle něhož závazek uzavřít kupní smlouvu s třetí osobou nelze zajistit smluvní pokutou ve smlouvě o zprostředkování, neboť smluvní pokutu si mohou sjednat pouze věřitel a dlužník daného závazkového vztahu k zajištění povinnosti vyplývající z tohoto vztahu; jinými slovy řečeno, závazek k uzavření kupní smlouvy si mohou zajistit pouze její smluvní strany); v dané věci není důvod, aby bylo rozhodováno jinak.
+Nejvyšší soud nepřípustné dovolání odmítl (§ 243c odst. 1 věta první o. s. ř.).
+Bylo-li dovolání odmítnuto, nemusí být rozhodnutí o náhradě nákladů dovolacího řízení odůvodněno (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 26. září 2013
+JUDr. Blanka Moudrá
+předsedkyně senátu
