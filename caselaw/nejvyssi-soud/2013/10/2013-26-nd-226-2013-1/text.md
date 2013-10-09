@@ -1,0 +1,13 @@
+26 Nd 226/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Pavlíny Brzobohaté a soudců JUDr. Miroslava Feráka a JUDr. Jitky Dýškové v exekuční věci oprávněného P. D., zastoupeného Mgr. Alexandrou Juráčkovou, advokátkou se sídlem v Praze 6, Markétská 1, proti povinnému STAY ACTIVE INC., se sídlem v Capital City, Independence Avenue, P. O. Box 1312, Victoria, Mahé, Seychelská republika, o nařízení exekuce, vedené u Okresního soudu v Litoměřicích pod sp. zn. 25 EXE 5596/2013, o určení místní příslušnosti soudu, takto:
+Věc vedená u Okresního soudu v Litoměřicích pod sp. zn. 25 EXE 5596/2013 se přikazuje Okresnímu soudu v Litoměřicích.
+O d ů v o d n ě n í :
+Exekutor JUDr. Jiří Bulvas, se sídlem v Praze 9, Jablonecká 322, podal dne 13. 5. 2013 Okresnímu soudu v Litoměřicích žádost o pověření a nařízení exekuce na majetek povinného pro vymožení pohledávky oprávněného ve výši 12.936,-Kč.
+Okresní soud v Litoměřicích usnesením ze dne 30. 5. 2013, č. j. 25 EXE 5596/2013-9, vyslovil svou místní nepříslušnost a rozhodl o předložení věci Nejvyššímu soudu k určení, který soud věc projedná a rozhodne, neboť zjistil, že povinný je zahraniční právnickou osobou, která nemá sídlo v České republice a soud není povolán zkoumat, zda a kde má povinný majetek.
+Podle ustanovení § 11 odst. 3 zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů (dále jen „o. s. ř.“) jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+V daném případě je dána pravomoc soudů České republiky, protože však povinný (který je právnickou osobou) nemá sídlo v České republice a nebyl doposud ani zjištěn žádný jeho majetek v České republice (exekuční soud před nařízením exekuce a pověřením exekutora jejím provedením existenci majetku povinného nezjišťuje – viz usnesení Nejvyššího soudu ze dne 12. 9. 2012, sp. zn. 31 Nd 200/2012, uveřejněné pod č. 4/2013 Sbírky soudních rozhodnutí a stanovisek), nelze zjistit podmínky pro určení místní příslušnosti exekučního soudu (§ 45 odst. 2 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti, ve znění pozdějších předpisů). Nejvyšší soud proto podle ustanovení § 11 odst. 3 o. s. ř., přihlížeje k zásadě hospodárnosti určil, že věc projedná a rozhodne Okresní soud v Litoměřicích, u něhož bylo řízení zahájeno a v jehož obvodu je sídlo exekutora, který by měl být podle návrhu oprávněného pověřen provedením exekuce.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 9. října 2013
+JUDr. Pavlína B r z o b o h a t á
+předsedkyně senátu
