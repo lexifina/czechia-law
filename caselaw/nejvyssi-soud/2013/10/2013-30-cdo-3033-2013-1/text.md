@@ -1,0 +1,15 @@
+30 Cdo 3033/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Vrchy a soudců JUDr. Pavla Pavlíka a JUDr. Lubomíra Ptáčka, Ph.D., v právní věci žalobkyně České účetní rady, se sídlem v Praze 3, Olšanská 1a, identifikační číslo osoby 26983567, zastoupené JUDr. Jiřím Ponížilem, advokátem se sídlem v Brně, Kobližná 19, proti žalované Internet Retail, a. s., se sídlem v Praze 9, Skorkovská 1511, identifikační číslo osoby 26430240, zastoupené JUDr. Dušanem Dvořákem, advokátem se sídlem v Brně, Hlinky 505/118, o určení neplatnosti smlouvy, vedené u Městského soudu v Brně pod sp. zn. 42 C 256/2009, o dovolání žalobkyně proti rozsudku Krajského soudu v Brně ze dne 30. října 2012, č. j. 37 Co 515/2010-68, takto:
+I. Dovolání žalobkyně se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í
+(§ 243c odst. 2 o. s. ř.):
+Dovolání žalobkyně (dále již „dovolatelka“) proti rozsudku Krajského soudu v Brně ze dne 30. října 2012, č. j. 37 Co 515/2010-68, není přípustné ve smyslu § 237 odst. 3 o. s. ř. již z toho důvodu, že v dovolání není vymezen dovolací důvod, a to z hlediska konkretizace, při řešení které konkrétní otázky hmotného nebo procesního práva se odvolací soud odchýlil od ustálené rozhodovací práce dovolacího soudu nebo která konkrétní právní otázka, na jejímž vyřešení závisí rozhodnutí odvolacího soudu dosud nebyla v rozhodování dovolacího soudu vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo jaká již dovolacím soudem vyřešená právní otázka má být podle názoru dovolatele posouzena jinak.
+Z obsahu dovolání totiž vyplývá, že dovolatelka oponuje právnímu názoru odvolacího soudu stran nedostatku jejího naléhavého právního zájmu na určení neplatnosti předmětné smlouvy, přičemž svou dovolací argumentaci konstruuje ze skutkových okolností, které podle názoru dovolatelky odvolací soud při rozhodování nezohlednil, resp. pominul; tím ovšem dovolatelka v dovolání uplatňuje okolnosti vymezující dovolací důvod ve smyslu § 241a odst. 3 o. s. ř., k nimž se ovšem při posuzování přípustnosti dovolání nepřihlíží (srov. § 237 odst. 3 o. s. ř.). Přitom skutkové okolnosti, za kterých odvolací soud rozhodl o podaném odvolání proti rozsudku soudu prvního stupně, umožňovaly odvolacímu soudu přistoupit k učiněnému právně kvalifikačnímu závěru o absenci naléhavého právního zájmu dovolatelky na předmětné určovací žalobě. Dovolacímu soudu přitom nepřísluší revidovat skutkový rámec věci a zabývat se přípustností dovolání nad rozsah vymezeného dovolacího důvodu.
+Dovolání dovolatelky proti rozsudku odvolacího soudu proto Nejvyšší soud podle § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení je důsledkem aplikace § 243b odst. 5 věty první „ § 151a a § 146 odst. 1 písm. c) o. s. ř. (per anallogiam), když podmínky pro aplikaci § 146 odst. 2 věty první o.s.ř. splněny nebyly.“
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 10. října 2013
+JUDr. Pavel Vrcha
+předseda senátu
