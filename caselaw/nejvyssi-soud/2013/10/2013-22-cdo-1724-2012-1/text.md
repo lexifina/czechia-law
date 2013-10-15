@@ -1,0 +1,21 @@
+22 Cdo 1724/2012
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy JUDr. Jiřího Spáčila, CSc., a soudců JUDr. Jiřího Doležílka a Mgr. Davida Havlíka ve věci žalobců: a) I. Š., a b) L. J., zastoupených Mgr. Markétou Vojtáškovou, advokátkou se sídlem ve Zlíně, Kvítková 124, proti žalovaným: 1) A. Z., a 2) J. Z., a 3) J. O., o určení vlastnictví k pozemku, vedené u Okresního soudu ve Zlíně pod sp. zn. 6 C 161/2006, o dovolání žalobců proti rozsudku Krajského soudu v Brně, pobočka ve Zlíně, ze dne 26. října 2010, č. j. 60 Co 240/2010-729, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné o d ů v o d n ě n í
+(§ 243c odst. 2 o. s. ř.):
+Okresní soud ve Zlíně (soud prvního stupně) rozsudkem ze dne 24. února 2010, č. j. 6 C 161/2006-632, zamítl žalobu na určení, že „žalobci jsou podílovými spoluvlastníky pozemku parc. č. 617/6 trvalý porost o výměře 685 m2, zapsaného na LV č. 911 pro obec a k. ú. B. u. Z., s tím, že spoluvlastnický podíl žalobkyně a) činí ½ a spoluvlastnický podíl žalobce b) činí ½“ (výrok I.), a rozhodl o náhradě nákladů řízení (výroky II. a III.). Krajský soud v Brně, pobočka ve Zlíně, k odvolání žalobců rozsudkem označeným shora v záhlaví tohoto rozhodnutí rozsudek soudu prvního stupně potvrdil ve výrocích I. a II., změnil ve výroku III. a rozhodl o náhradě nákladů odvolacího řízení.
+Proti rozsudku odvolacího soudu podali žalobci dovolání.
+Obsah rozsudků soudů obou stupňů a obsah dovolání jsou účastníkům známy, a proto na ně dovolací soud pro stručnost odkazuje.
+Dovolací soud postupoval podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2012 (viz čl. II. bod 7 zákona č. 404/2012 Sb.) – dále „o. s. ř.“
+Dovolání není přípustné.
+V dané věci by připadala přípustnost dovolání do úvahy jen podle § 237 odst. 1 písm. c) o. s. ř., tedy v případě, že by dovolací soud dospěl k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam. Rozhodnutí odvolacího soudu má po právní stránce zásadní význam zejména tehdy, řeší-li právní otázku, která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo která je soudy rozhodována rozdílně, nebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak; k okolnostem uplatněným dovolacími důvody podle § 241a odst. 2 písm. a) a § 241a odst. 3 se nepřihlíží [§ 237 odst.. 3 o. s. ř.]. Napadený rozsudek však takovým rozhodnutím není.
+Rozhodnutí odvolacího soudu je v souladu s judikaturou soudu dovolacího. Dovolatelé nepopírají, že smlouvu o převodu pozemku uzavřeli v roce 1981 jen v ústní formě a že smlouva nebyla registrována státním notářstvím. Jestliže se poté ujali držby v právním omylu, že jsou vlastníky pozemku, mohlo by jít o držbu oprávněnou jen v případě, že by jejich právní omyl byl omluvitelný. Tak tomu rozhodně nebylo. „Právní omyl vycházející z neznalosti jednoznačně formulovaného ustanovení občanského zákoníku platného v době, kdy se držitel ujímá držby, není omluvitelný. Držitel nemohl být se zřetelem ke všem okolnostem v dobré víře, že je vlastníkem nemovitosti, jejíž držby se chopil na základě smlouvy o jejím převodu, která nebyla v době, kdy to zákon vyžadoval, registrována státním notářstvím“ (rozsudek Nejvyššího soudu ze dne 10. října 2002, sp. zn. 22 Cdo 490/2001). Pokud se někdo uchopí držby nemovitosti na základě ústní smlouvy o jejím převodu, nemůže být vzhledem ke všem okolnostem v dobré víře, že je vlastníkem věci, a to ani v případě, že je přesvědčen, že taková smlouva k nabytí vlastnictví nemovitosti postačuje (usnesení Nejvyššího soudu ze dne 20. března 2003, sp. zn. 22 Cdo 432/2003).
+Doplnění dovolání z 22. 1. 2012 podle obsahu vytýká jen procesní vady, nezakládající dovolací důvod podle § 241a odst. 2 písm. b) o. s. ř., a tím i možnou přípustnost dovolání.
+Vzhledem k tomu, že dovolání v dané věci není přípustné, dovolací soud je podle § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 věty první a § 146 odst. 3 o. s. ř., neboť dovolatelé s ohledem na výsledek řízení na náhradu nákladů nemají právo a žalovaným náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 15. října 2013
+JUDr. Jiří S p á č i l, CSc.
+předseda senátu
