@@ -1,0 +1,31 @@
+29 Cdo 301/2011
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Krčmáře a soudců Mgr. Milana Poláška a JUDr. Jiřího Zavázala v konkursní věci úpadce TESLA - ELEKTRONICKÉ SOUČÁSTKY, koncern Rožnov „v likvidaci“, státního podniku, se sídlem v Rožnově pod Radhoštěm, identifikační číslo osoby 00435155, o schválení konečné zprávy o zpeněžování majetku konkursní podstaty a o vyúčtování odměny a výdajů správce konkursní podstaty, vedené u Krajského soudu v Ostravě pod sp. zn. 13 K 1/93, o dovolání JUDr. J. Č., proti usnesení Vrchního soudu v Olomouci ze dne 1. září 2010, č. j. 2 Ko 10/2010-726, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í:
+Usnesením ze dne 6. listopadu 2009, č. j. 13 K 1/93-713, Krajský soud v Ostravě (dále též jen „konkursní soud“):
+I. Schválil konečnou zprávu a vyúčtování odměny a výdajů správců konkursní podstaty JUDr. L. S. (dále jen „L. S“) a JUDr. J. Č. (dále jen „J. Č.“), ze dne 21. února 2007, ve znění aktualizace ze dne 4. listopadu 2007 (dále též jen „konečná zpráva“), podle které příjmy podstaty činí 19.069.467,85 Kč.
+II. Schválil odměnu za výkon funkce správce konkursní podstaty v celkové výši 2.189.355,12 Kč, s tím, že z této částky činí
+1/ částka 117.492,20 Kč, včetně daně z přidané hodnoty, odměnu správkyně konkursní podstaty L. S,
+2/ částka 2.071.862,92 Kč, včetně daně z přidané hodnoty, odměnu bývalého správce konkursní podstaty J. Č.
+III. Z celkových výdajů podstaty ve výši 15.580.243,19 Kč
+1/ neschválil výdaje J. Č. ve výši 5.164.679,- Kč,
+2/ neschválil výdaje J. Č. ve výši 2.071.862,92 Kč,
+3/ schválil výdaje J. Č. ve výši 5.551.330,49 Kč,
+4/ schválil výdaje L. S. ve výši 2,792.370,78 Kč, z toho její hotové výdaje ve výši 59.534,70 Kč, včetně daně z přidané hodnoty.
+IV. Určil, že neschválené výdaje J. Č. ve výši 2.071.862,92 Kč jsou nadále považovány za zálohy vyčerpané na uspokojení odměn JUDr. J. Č. ve výši 2.071.862,92 Kč.
+Konkursní soud uzavřel, že výdaje ve výši 5.164.679,- Kč J. Č. nedoložil. Z dalších výdajů J. Č. ve výši 7.623.1933,41 Kč uznal konkursní soud jako důvodné výdaje ve výši 5.551.330,49 Kč a neschválil výdaje ve výši 2.071.862,92 Kč, s tím, že ty J. Č. neobjasnil, ani nedoložil.
+K odvolání J. Č. Vrchní soud v Olomouci v záhlaví označeným usnesením potvrdil usnesení konkursního soudu v bodech I., III. a IV. výroku.
+Odvolací soud uzavřel, že odvolání není opodstatněné, když konkursnímu soudu nelze vytýkat, že při přezkoumání konečné zprávy, včetně vyúčtování odměny a nákladů vycházel z dostupných, avšak nedostatečných podkladů doložených samotným odvolatelem.
+Proti usnesení odvolacího soudu podal J. Č. dovolání, jehož přípustnost opírá o ustanovení § 237 odst. 1 písm. c/, odst. 3 zákona č. 99/1963 Sb., občanského soudního řádu (dále též jen „o. s. ř.“) namítaje, že jsou dány dovolací důvody uvedené v § 241a odst. 2 o. s. ř., tedy, že řízení je postiženo vadou, která mohla mít za následek nesprávné rozhodnutí ve věci (odstavec 2 písm. a/) a že napadené rozhodnutí spočívá na nesprávném právním posouzení věci (odstavec 2 písm. b/) a požaduje, aby Nejvyšší soud zrušil rozhodnutí soudů obou stupňů a věc vrátil soudu prvního stupně k dalšímu řízení.
+Nejvyšší soud odmítl dovolání podle § 243b odst. 5 a § 218 písm. c/ o. s. ř. jako nepřípustné.
+Učinil tak proto, že dovolání v této věci může být přípustné jen podle ustanovení § 238a odst. 1 písm. a/ o. s. ř. ve spojení s ustanovením § 237 odst. 1 písm. c/ o. s. ř. (tedy tak, že dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam). Důvod připustit dovolání však Nejvyšší soud nemá, když dovolatel mu nepředkládá k řešení žádnou otázku, z níž by bylo možno usuzovat, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam.
+Podstatu dovolací argumentace tvoří výhrada, podle níž soudy při svém rozhodování vyšly z auditu vytvořeného zakázkou L. S., jenž nemůže být věrohodným důkazem.
+Potud ovšem dovolatel (posuzováno z obsahového hlediska) uplatňuje dovolací důvod dle § 241a odst. 3 o. s. ř., jenž u dovolání, jež může být přípustné jen prostřednictvím § 237 odst. 1 písm. c/ o. s. ř., nemá k dispozici (srov. přímo dikce § 241a odst. 3 o. s. ř.). Samotné hodnocení důkazů (opírající se o zásadu volného hodnocení důkazů zakotvenou v ustanovení § 132 o. s. ř.) nelze úspěšně napadnout žádným dovolacím důvodem (srov. např. důvody usnesení Nejvyššího soudu ze dne 17. února 2011, sen. zn. 29 NSČR 29/2009, uveřejněného pod číslem 108/2011 Sbírky soudních rozhodnutí a stanovisek, včetně tam zmíněného odkazu na nález Ústavního soudu ze dne 6. ledna 1997, sp. zn. IV. ÚS 191/96, uveřejněný pod číslem 1/1997 Sbírky nálezů a usnesení Ústavního soudu).
+Otázku zásadního právního významu neotevírá ani námitka, že dosud není ukončen spor o platnosti pohledávky ve výši 5.164.679,- Kč, který proti němu u konkursního soudu pod sp. zn. 8 Cm 89/2001 vedla nejprve L. S. a následně (po postoupení pohledávky) společnost FOCUS-Metal, s. r. o. a výsledek sporu je významný pro vypracování konečné zprávy, neboť jde o pohledávky spojené s konkursním řízením úpadce.
+Srov. v tomto ohledu např. důvody usnesení Vrchního soudu v Praze ze dne 17. ledna 2007, sp. zn. 15 Cmo 178/2007, uveřejněného pod číslem 35/2009 Sbírky soudních rozhodnutí a stanovisek, jež vychází z toho, že k posouzení, zda konkursní podstatě vznikla škoda jednáním bývalého správce konkursní podstaty, je třeba sestavit konečnou zprávu, o níž konkursní soud rozhodne postupem podle § 29 zákona č. 328/1991 Sb., o konkursu a vyrovnání (dále též jen „ZKV“). To rovněž odpovídá závěrům vyjádřeným v rozsudku Nejvyššího soudu ze dne 31. října 2012, sp. zn. 29 Cdo 4201/2010, uveřejněném pod číslem 22/2013 Sbírky soudních rozhodnutí a stanovisek, z nichž se podává, že tím, kdo konečným způsobem rozhoduje v režimu § 29 ZKV o konkursní odměně a mutatis mutandis též o (ne)schválení výdajů správce konkursní podstaty, je konkursní soud.
+Rozhodné znění občanského soudního řádu pro dovolací řízení (do 31. prosince 2007) plyne z § 432 odst. 1, § 433 bodu 1. a § 434 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenčního zákona).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 17. října 2013
+JUDr. Zdeněk Krčmář
+předseda senátu
