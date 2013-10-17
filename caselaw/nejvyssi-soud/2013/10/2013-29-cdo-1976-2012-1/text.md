@@ -1,0 +1,21 @@
+29 Cdo 1976/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Krčmáře a soudců Mgr. Milana Poláška a JUDr. Jiřího Zavázala v právní věci žalobce JUDr. J. Č., proti žalované České republice - Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 16, PSČ 128 10, o zaplacení částky 2.071.862,92 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 15 C 262/2010, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 7. března 2012, č. j. 28 Co 453/2011-85, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Rozsudkem ze dne 14. července 2011, č. j. 15 C 262/2010-53 (ve znění usnesení ze dne 7. prosince 2011, č. j. 15 C 262/2010-74), Obvodní soud pro Prahu 2:
+1/ Zamítl žalobu, kterou se žalobce (JUDr. J. Č.) domáhal vůči žalované (České republice - Ministerstvu spravedlnosti) zaplacení částky 2.046.862,92 Kč s příslušenstvím tvořeným specifikovanými zákonnými úroky z prodlení za dobu od 1. ledna 2010 do zaplacení (bod I. výroku).
+2/ Zastavil (pro částečné zpětvzetí žaloby) řízení ohledně požadavku na zaplacení částky 25.000,- Kč s příslušenstvím tvořeným specifikovanými zákonnými úroky z prodlení za dobu od 1. ledna 2010 do zaplacení (bod II. výroku).
+3/ Rozhodl o nákladech řízení (bod III. výroku).
+K odvolání žalobce (jež zjevně nesměřovalo proti výroku o zastavení řízení) Městský soud v Praze v záhlaví označeným rozsudkem potvrdil rozsudek soudu prvního stupně (první výrok) a rozhodl o nákladech odvolacího řízení (druhý výrok).
+Dovolání žalobce proti rozsudku odvolacího soudu Nejvyšší soud odmítl podle § 243b odst. 5 a § 218 písm. c/ zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. prosince 2012 (dále též jen „o. s. ř.“) jako nepřípustné.
+Učinil tak proto, že dovolání v této věci může být přípustné jen podle ustanovení § 238a odst. 1 písm. a/ o. s. ř. ve spojení s ustanovením § 237 odst. 1 písm. c/ o. s. ř. (tedy tak, že dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam). Důvod připustit dovolání však Nejvyšší soud nemá, když dovolatel mu (oproti svému mínění) nepředkládá k řešení žádnou otázku, z níž by bylo možno usuzovat, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam.
+V posouzení povahy pravomocného usnesení, jímž konkursní soud schválil konečnou zprávu o zpeněžování majetku z konkursní podstaty a o vyúčtování odměny a výdajů správce konkursní podstaty, je napadené rozhodnutí v souladu se závěry obsaženými v rozsudku Nejvyššího soudu ze dne 31. října 2012, sp. zn. 29 Cdo 4201/2010, uveřejněném pod číslem 22/2013 Sbírky soudních rozhodnutí a stanovisek (dále jen „dále jen „R 22/2013“). Úvaha, podle které nelze částky, které konkursní soud takto nepřiznal (rozhodnutím, jež nebylo zrušeno pro nezákonnost) bývalému správci konkursní podstaty úpadce, vymoci postupem podle zákona č. 82/1998 Sb., o odpovědnosti za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo nesprávným úředním postupem a o změně zákona České národní rady č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), je s argumentací plynoucí z R 22/2013 v souladu.
+Jen pro úplnost (bez vlivu na výsledek dovolacího řízení v této věci) Nejvyšší soud podotýká, že dovolání žalobce proti usnesení ze dne 1. září 2010, č. j. 2 Ko 10/2010-726, jímž Vrchní soud v Olomouci potvrdil (dovoláním v této věci kritizované) usnesení Krajského soudu v Ostravě ze dne 6. listopadu 2009, č. j. 13 K 1/93-713, odmítl Nejvyšší soud usnesením ze dne 17. října 2013, sp. zn. 29 Cdo 301/2011.
+Výrok o nákladech dovolacího řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalobce bylo odmítnuto a u žalované žádné prokazatelné náklady dovolacího řízení nebyly zjištěny.
+Rozhodné znění občanského soudního řádu pro dovolací řízení (do 31. prosince 2012) se podává z bodu 7., článku II., zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 17. října 2013
+JUDr. Zdeněk Krčmář
+předseda senátu
