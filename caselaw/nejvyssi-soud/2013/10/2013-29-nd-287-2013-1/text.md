@@ -1,0 +1,15 @@
+29 Nd 287/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudců JUDr. Zdeňka Krčmáře a JUDr. Petra Šuka v právní věci žalobkyně Generali Pojišťovna a. s., se sídlem v Praze 2, Bělehradská 132, identifikační číslo 61 85 98 69, zastoupené Mgr. Davidem Jüngerem, advokátem, se sídlem v Ostravě – Mariánských Horách, 28. října 438/219, PSČ 709 00, proti žalovanému I. M., o zaplacení částky 2.855,- Kč s příslušenstvím, vedené u Okresního soudu v Lounech pod sp. zn. 25 EC 3848/2010, o určení místní příslušnosti soudu, takto:
+Věc vedenou u Okresního soudu v Lounech pod sp. zn. 25 EC 3848/2010 projedná a rozhodne Okresní soud v Lounech.
+Odůvodnění:
+Návrhem na vydání elektronického platebního rozkazu, došlým Okresnímu soudu v Lounech dne 11. listopadu 2010, se žalobkyně domáhala po žalovaném (státním občanu Ukrajiny) zaplacení částky 2.855,- Kč s příslušenstvím z titulu pojistné smlouvy.
+Okresní soud v Lounech usnesením ze dne 30. srpna 2013, č. j. 25 EC 3848/2010-54, cituje ustanovení § 11 odst. 1 a 3, § 84, § 85 odst. 1 a § 105 odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“) a ustanovení čl. 48 bodu 5 Smlouvy mezi Českou republikou a Ukrajinou o právní pomoci v občanských věcech, uveřejněné pod č. 123/2002 Sbírky mezinárodních smluv a vycházeje z toho, že žalovaný se na území České republiky zdržuje, vyslovil svou místní nepříslušnost a rozhodl, že po právní moci usnesení bude věc předložena Nejvyššímu soudu k rozhodnutí o místní příslušnosti.
+Podle ustanovení § 11 odst. 3 o. s. ř., jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Podle ustanovení § 85 odst. 1 o. s. ř., nestanoví-li zákon jinak, je obecným soudem fyzické osoby okresní soud, v jehož obvodu má bydliště, a nemá-li bydliště, okresní soud, v jehož obvodu se zdržuje. Má-li fyzická osoba bydliště na více místech, jsou jejím obecným soudem všechny okresní soudy, v jejichž obvodu bydlí s úmyslem zdržovat se tam trvale.
+Podle čl. 48 bodu 5. Smlouvy mezi Českou republikou a Ukrajinou o právní pomoci v občanských věcech, uveřejněné pod č. 123/2002 Sbírky mezinárodních smluv, pravomoc k řízení o sporu ze smluvního závazku má justiční orgán té smluvní strany, na jejímž území má odpůrce bydliště, pobyt, sídlo anebo se zde nalézá sporný nemovitý majetek.
+V situaci, kdy Okresní soud v Lounech dospěl k „závěru“, že se žalovaný zdržuje na území České republiky, a současně se mu nepodařilo zjistit, kde se zdržoval (respektive kde měl bydliště) v době „podání žaloby“, Nejvyšší soud (s přihlédnutím k zásadě hospodárnosti řízení – viz ustanovení § 6 o. s. ř.), určil, že místně příslušným k projednání a rozhodnutí výše označené věci je Okresní soud v Lounech, u něhož bylo řízení zahájeno.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 23. října 2013
+JUDr. Petr Gemmel
+předseda senátu
