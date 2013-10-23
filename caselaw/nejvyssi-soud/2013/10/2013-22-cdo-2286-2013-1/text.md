@@ -1,0 +1,18 @@
+22 Cdo 2286/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy Mgr. Michala Králíka, Ph.D., a soudců Mgr. Davida Havlíka a JUDr. Jiřího Spáčila, CSc., ve věci žalobkyně A. K., bytem v P., zastoupené JUDr. Věnceslavou Holubovou, advokátkou se sídlem v Praze 5, Renoirova 624, proti žalovanému P. R., bytem v P., o vypořádání společného jmění manželů, vedené u Obvodního soudu pro Prahu 5 pod sp. zn. 5 C 285/2004, o dovolání žalobkyně proti usnesení Městského soudu v Praze ze dne 26. června 2013, č. j. 25 Co 254/2013-329, takto:
+Dovolání se odmítá.
+S t r u č n é o d ů v o d n ě n í
+(§ 243f odst. 3 o. s. ř.) :
+Žalobkyně podala dovolání proti usnesení Městského soudu v Praze ze dne 26. června 2013, č. j. 25 Co 254/2013-329, kterým bylo potvrzeno usnesení Obvodního soudu pro Prahu 5 ze dne 18. dubna 2013, č. j. 5 C 285/2004-320, jímž Obvodní soud pro Prahu 5 žalobkyni nepřiznal osvobození od soudních poplatků.
+Podle článku II. – Přechodná ustanovení, bodu 7. zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, účinného od 1. ledna 2013, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona se projednají a rozhodnou podle dosavadních právních předpisů, s výjimkou § 243c odst. 3 zákona, který se užije ve znění účinném ode dne nabytí účinnosti tohoto zákona.
+Protože napadené rozhodnutí odvolacího soudu bylo vydáno dne 26. června 2013, projednal a rozhodl dovolací soud o dovolání dovolatelky podle občanského soudního řádu ve znění účinném od 1. ledna 2013.
+Podle § 243f odst. 2 občanského soudního řádu (dále jen „o. s. ř.“) v odůvodnění usnesení, jímž bylo dovolání odmítnuto nebo jímž bylo zastaveno dovolací řízení, dovolací soud pouze stručně uvede, proč je dovolání opožděné, nepřípustné nebo trpí vadami, jež brání pokračování v dovolacím řízení, nebo proč muselo být dovolací řízení zastaveno. Bylo-li dovolání odmítnuto nebo bylo-li dovolací řízení zastaveno, nemusí být rozhodnutí o náhradě nákladů dovolacího řízení odůvodněno.
+Podle § 237 o. s. ř. není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+Podle § 241a odst. 1 – 3 o. s. ř. dovolání lze podat pouze z důvodu, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci. V dovolání musí být vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu se rozhodnutí napadá, vymezení důvodu dovolání, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) a čeho se dovolatel domáhá (dovolací návrh). Důvod dovolání se vymezí tak, že dovolatel uvede právní posouzení věci, které pokládá za nesprávné, a že vyloží, v čem spočívá nesprávnost tohoto právního posouzení.
+Dovolatelka v dané věci nevymezila, v čem konkrétně spatřuje splnění předpokladů přípustnosti dovolání ve smyslu § 237 až 238a o. s. ř. Pouhý nesouhlas s rozhodnutím odvolacího soudu nestačí.
+Protože dovolání neobsahuje údaj o tom, v čem dovolatelka spatřuje splnění předpokladů přípustnosti dovolání (§ 241a odst. 2 o. s. ř.), Nejvyšší soud dovolání podle § 243c odst. 1 o. s. ř. odmítl.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 23. října 2013
+Mgr. Michal K r á l í k, Ph.D.
+předseda senátu
