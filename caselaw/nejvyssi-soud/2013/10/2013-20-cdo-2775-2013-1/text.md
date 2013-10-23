@@ -1,0 +1,13 @@
+20 Cdo 2775/2013
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové, Ph.D. a soudců JUDr. Olgy Puškinové a JUDr. Vladimíra Mikuška v exekuční věci oprávněné České průmyslové zdravotní pojišťovny, se sídlem v Ostravě – Vítkovicích, Jeremenkova 11, identifikační číslo osoby 47672234, proti povinné J. H., pro 41.636,- Kč, vedené u Okresního soudu v Berouně pod sp. zn. 11 Nc 4465/2006, o dovolání povinné proti usnesení Krajského soudu v Praze ze dne 22. listopadu 2012, č. j. 28 Co 610/2012-31, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í :
+Krajský soud v záhlaví označeným rozhodnutím potvrdil usnesení ze dne 10. 10. 2012, sp. zn. 108 EX 08151/06, kterým pověřený soudní exekutor JUDr. Zdeněk Zítka rozhodl, že na místo dosavadního oprávněného Zdravotní pojišťovny Metal-Aliance, IČ 48703893, se sídlem Čermákova 1951, Kladno, bude v řízení pokračováno s novým oprávněným Česká průmyslová zdravotní pojišťovna, IČ 47672234, se sídlem Jeremenkova 11, Ostrava, Vítkovice.
+Povinná napadla usnesení krajského soudu dovoláním, které vykazovalo nedostatky bránící dalšímu pokračování dovolacího řízení a nebylo sepsáno advokátem. Protože ze spisu nevyplývalo, že by byla dovolatelka právnicky vzdělána, soud ji usnesením ze dne 2. 4. 2013, č. j. 11 Nc 4465/2006-37, vyzval, aby si ve lhůtě dvaceti dnů od doručení zvolila advokáta, který dovolání sepíše; zároveň ji poučil, že nevyhoví-li výzvě, dovolací soud řízení zastaví. Usnesení bylo dovolatelce doručeno 26. 6. 2013, ta však vytčený nedostatek neodstranila a na výzvu soudu nereagovala.
+Jelikož povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – kromě usnesení, kterým se dovolací řízení právě pro neodstranění tohoto nedostatku zastavuje – vydání rozhodnutí, jímž se řízení končí, a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu nedošlo, Nejvyšší soud řízení o dovolání podle § 104 odst. 2 a § 243c odst. 1 zákona č. 99/1963 Sb., občanský soudní řád ve znění účinném od 1. 7. 2009 do 31. 12. 2012 (viz. Čl. II Přechodných ustanovení, bod 12. části první zákona č. 7/2009 Sb. a článek II, bod 7. části první zákona č. 404/2012 Sb.), zastavil.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 23. října 2013
+JUDr. Miroslava J i r m a n o v á , Ph.D.
+předsedkyně senátu
