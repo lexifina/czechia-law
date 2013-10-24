@@ -1,0 +1,17 @@
+23 Cdo 1740/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Horáka, Ph.D. a soudců JUDr. Zdeňka Dese a JUDr. Kateřiny Hornochové ve věci žalobkyň a) BONGRAIN S.A., se sídlem Viroflay, 42 rue Rieussec, Francouzská republika a b) TPK, spol. s r.o., se sídlem v Hodoníně, Velkomoravská č.p. 2714, č.o. 28, PSČ 695 19, identifikační číslo osoby 44965117, zastoupených JUDr. Karlem Čermákem, advokátem, se sídlem v Praze 5, Elišky Peškové 15, proti žalované BEL Sýry Česko a.s., se sídlem Želetava, Pražská 218, PSČ 675 26, identifikační číslo osoby 60714603, zastoupené JUDr. Michalem Růžičkou, advokátem, se sídlem v Praze 2, Vinohradská 37, o ochranu proti porušování ochranných známek a ochranu před nekalou soutěží, vedené u Krajského soudu v Brně pod sp. zn. 41 Cm 231/2006, o dovolání žalované proti usnesení Vrchního soudu v Olomouci ze dne 7. února 2013, č. j. 4 Cmo 458/2012-327, takto:
+Dovolání žalované se odmítá.
+O d ů v o d n ě n í :
+Krajský soud v Brně usnesením, v pořadí druhým, ze dne 19. září 2012, č. j. 41 Cm 231/2006-267, připustil přistoupení společnosti TPK, spol. s r.o., Velkomoravská 2714, Hodonín, IČ 44965117, do řízení na stranu žalobce.
+K odvolání žalované odvolací soud usnesením v záhlaví uvedeným usnesení soudu prvního stupně potvrdil.
+Proti usnesení odvolacího soudu podala žalovaná dovolání, jehož přípustnost opírá o ustanovení § 237 odst. 1 písm. b), c) a § 239 odst. 2 písm. b) zákona č. 99/1963 Sb., občanského soudního řádu (dále též jen „o. s. ř.“), uplatňujíc dovolací důvody s odkazem na § 241a o. s. ř. s tím, že rozhodnutí obou soudů spočívá na nesprávném právním posouzení věci.
+Pro dovolací řízení v této věci je pak rozhodný občanský soudní řád v aktuálním znění (účinném od 1. ledna 2013), což se podává z bodů 1. a 7., článku II., zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony.
+Dovolatelka zjevně zakládá přípustnost dovolání na textu občanského soudního řádu ve znění účinném do 31. prosince 2012 (od 1. ledna 2013 se ustanovení § 237 a § 239 o. s. ř. nečlení na odstavce a písmena). Zjevně i proto dovolání neobsahuje žádný údaj o tom, v čem dovolatelka spatřuje splnění předpokladů přípustnosti dovolání dle ustanovení § 237 o. s. ř., ve znění účinném od 1. ledna 2013 (§ 241a odst. 2 o. s. ř.).
+Požadavek, aby dovolatelka uvedla v dovolání, v čem spatřuje splnění předpokladů přípustnosti dovolání, je podle § 241a odst. 2 o. s. ř. obligatorní náležitostí dovolání. Může-li být dovolání přípustné jen podle § 237 o. s. ř., je dovolatelka povinna v dovolání vymezit, které z tam uvedených hledisek považuje za splněné. Vymezení důvodu přípustnosti dovolání provedené v dané věci dovolatelkou přitom požadavku plynoucímu z ustanovení § 241a odst. 2 o. s. ř. zjevně nevyhovuje.
+Nejvyšší soud České republiky dovolání odmítl podle § 243c odst. 1 věty první o. s. ř., neboť neobsahuje údaje o tom, v čem dovolatelka spatřuje splnění předpokladů přípustnosti dovolání (§ 241a odst. 2 o. s. ř.) a v dovolacím řízení nelze pro tuto vadu pokračovat.
+O náhradě nákladů dovolacího řízení nebylo rozhodnuto, neboť nejde o rozhodnutí, jímž se řízení končí (§ 151 odst. 1 část věty před středníkem o. s. ř.).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 24. října 2013
+JUDr. Pavel H o r á k, Ph.D.
+předseda senátu
