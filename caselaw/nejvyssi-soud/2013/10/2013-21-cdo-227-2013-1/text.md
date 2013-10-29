@@ -1,0 +1,14 @@
+21 Cdo 227/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Jiřího Doležílka a soudců JUDr. Mojmíra Putny a JUDr. Ljubomíra Drápala v právní věci žalobců a) Ing. J. S., a b) M. S., obou zastoupených JUDr. Tomášem Chovancem, advokátem se sídlem v Ostravě - Moravské Ostravě, Dlouhá č. 53/6, proti žalovaným 1) FREN byty s. r. o. se sídlem v Ostravě – Svinově, Nad Porubkou č. 1195/34B, IČO 27773787, zastoupenému Mgr. Evou Budínovou, advokátkou se sídlem ve Frýdku – Místku, Dobrovského č. 724, a 2) České spořitelně, a. s. se sídlem v Praze 4, Olbrachtova č. 1929/62, IČO 45244782, o poskytnutí součinnosti pro zajištění výmazu zástavního práva a vydání potvrzení o zániku zástavního práva, vedené u Okresního soudu v Ostravě pod sp. zn. 84 C 209/2010, o dovolání žalobců proti rozsudku Krajského soudu v Ostravě ze dne 21. září 2012 č. j. 71 Co 165/2012-160, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Žalobci podali dne 21. 12. 2012 dovolání proti rozsudku Krajského soudu v Ostravě ze dne 21. 9. 2012 č. j. 71 Co 165/2012-160, které vzali podáním ze dne 11. 3. 2013 zcela zpět.
+Protože dovolání bylo vzato zcela zpět, Nejvyšší soud České republiky jako soud dovolací (§ 10a občanského soudního řádu) dovolací řízení podle ustanovení § 243b odst. 5 věty druhé zákona č. 99/1963 Sb., občanský soudní řád [ve znění účinném do 31. 12. 2012 (dále jen „o. s. ř.“), neboť dovoláním napadený rozsudek odvolacího soudu byl vydán před 1. 1. 2013 (srov. Čl. II bod 7. zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů a některé další zákony)], zastavil.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 části věty před středníkem o. s. ř., neboť žalobci s ohledem na výsledek řízení nemají na náhradu svých nákladů právo a žalovaným v dovolacím řízení žádné náklady nevznikly.
+O návrhu žalovaného 2) ze dne 22. 8. 2013, aby na jeho místo ve smyslu ustanovení § 107a občanského soudního řádu vstoupil do řízení K. B., kterému smlouvou ze dne 22. 8. 2013 postoupil pohledávku zajištěnou zástavním právem k nemovitostem žalobců, dovolací soud nerozhodoval, neboť ustanovení § 107a občanského soudního řádu pro řízení u dovolacího soudu neplatí (srov. § 243c odst. 1 část věty za středníkem o. s. ř.), nehledě k tomu, že návrh, aby nabyvatel práva nebo povinnosti vstoupil do řízení na místo dosavadního účastníka, může podat – jak vyplývá z ustanovení § 107a odst. 1 občanského soudního řádu – pouze žalobce a nikoliv žalovaný.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 29. října 2013
+JUDr. Jiří Doležílek
+předseda senátu
