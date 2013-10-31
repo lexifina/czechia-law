@@ -1,0 +1,16 @@
+20 Cdo 3101/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl z předsedy JUDr. Vladimíra Mikuška a soudkyň JUDr. Olgy Puškinové a JUDr. Miroslavy Jirmanové, Ph.D. ve věci žalobkyně V. V., proti žalované České republice – Okresnímu soudu v Šumperku, se sídlem v Šumperku, M. R. Štefánika 784/12, identifikační číslo osoby 00025283, o vydání věcí vyloučených z výkonu rozhodnutí, vedené u Okresního soudu v Šumperku pod sp. zn. 9C 70/2011, o dovolání žalobkyně proti usnesení Krajského soudu v Ostravě – pobočky v Olomouci z 25. července 2012, č. j. 69Co 500/2011-39, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Proti shora označenému rozhodnutí, jímž krajský soud potvrdil usnesení ze 17. 6. 2011, č. j. 9C 70/2011-7, kterým okresní soud zastavil řízení o vydání věcí vyloučených z výkonu rozhodnutí, podala žalobkyně dovolání.
+Nejvyšší soud věc projednal podle občanského soudního řádu ve znění účinném od 1. 7. 2009 do 31. 12. 2012 (čl. II Přechodných ustanovení, bod 12, zákona č. 7/2009 Sb., a čl. II Přechodných ustanovení, bod 7, zákona č. 404/2012 Sb.).
+Jelikož dovolání mělo nedostatky bránící dalšímu pokračování dovolacího řízení (spočívající v absenci náležitostí dovolání podle § 241a odst. 1 o. s. ř.) a nebylo ani sepsáno advokátem, soud dovolatelku usnesením z 12. 8. 2013 (na č. l. 77) doručeným jí 15. 8. téhož roku, vyzval, aby ve lhůtě 14 dnů od doručení usnesení nedostatky podání odstranila a zvolila si zástupcem advokáta, jehož prostřednictvím podá řádné dovolání. Zároveň ji poučil, že nevyhoví-li výzvě, bude dovolací řízení zastaveno. Dovolatelka však vytčené nedostatky neodstranila.
+Z ustanovení § 241 odst. 1, 2 písm. a), odst. 4 o. s. ř. plyne, že dovolatel (fyzická osoba), nemá-li právnické vzdělání, musí být zastoupen advokátem (příp. notářem), jenž musí dovolání také sepsat. Zvolí-li si advokáta až poté, co sám podal dovolání, je ke splnění podmínky zastoupení dovolatele nezbytné, aby zmocněnec (advokát) jím dříve učiněné podání nahradil nebo doplnil vlastním, popř. sdělil soudu, že se s již učiněným podáním ztotožňuje.
+Protože podmínka povinného zastoupení dovolatele v dovolacím řízení (k jejímuž splnění je třeba i sepisu dovolání advokátem, viz usnesení Nejvyššího soudu z 27. května 1999, sp. zn. 26 Cdo 1121/99, uveřejněné v časopise Soudní judikatura č. 6, ročník 2000 pod poř. č. 64) je podmínkou týkající se účastníků řízení, jejíž nedostatek brání - kromě usnesení, kterým se dovolací řízení právě pro neodstranění tohoto nedostatku zastavuje - vydání rozhodnutí, jímž se řízení končí (§ 241 odst. 1 o. s. ř.), a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu nedošlo, Nejvyšší soud řízení o dovolání podle § 104 odst. 2 a § 243c odst. 1 o. s. ř. zastavil.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn skutečností, že žalované, jež by jinak měla na tuto náhradu právo podle ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 2 věty první o. s. ř., náklady tohoto řízení prokazatelně (podle obsahu spisu) nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 31. října 2013
+JUDr. Vladimír Mikušek
+předseda senátu
