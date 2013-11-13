@@ -1,0 +1,16 @@
+20 Cdo 3420/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové, Ph.D., a soudců JUDr. Zbyňka Poledny a JUDr. Vladimíra Mikuška v exekuční věci oprávněné M. Z., zastoupené Mgr. Janem Vargou, advokátem se sídlem v Praze 8, Davídkova 654/27, proti povinnému JUDr. T. Ch., za účasti manželky povinného Mgr. L. Ch., pro 900.000,- Kč s příslušenstvím, vedené u Obvodního soudu v pro Prahu 5 pod sp. zn. 43EXE 580/2011, o dovolání povinného a jeho manželky proti usnesení Městského soudu v Praze ze dne 8. 1. 2013, č. j. 21Co 518/2012-88, takto:
+I. Dovolání povinného se odmítá.
+II. Řízení o dovolání manželky povinného se zastavuje.
+O d ů v o d n ě n í :
+Shora označeným rozhodnutím krajský soud potvrdil usnesení ze dne 17. 10. 2011, č. j. 43EXE 580/2011-16, jímž Obvodní soud pro Prahu 5 nařídil podle vykonatelného směnečného platebního rozkazu Městského soudu v Praze ze dne 12. 4. 2011, č. j. 24Cm 429/2010-15, k vymožení povinnosti povinného zaplatit oprávněné směnečný peníz ve výši 900.000,- Kč s 6% úrokem z této částky ode dne 31. 12. 2009 do zaplacení, dále směnečnou odměnu ve výši 3.000,- Kč, náhradu nákladů předcházejícího řízení ve výši 103.272,- Kč, jakož i pro náklady tohoto řízení, exekuci na majetek povinného.
+Rozhodnutí odvolacího soudu napadl dovoláním povinný, ve kterém pouze uvedl, že důvody dovolání doplní do 15ti dnů (č. l. 97 spisu), a dále i jeho manželka.
+Nejvyšší soud dovolání projednal a rozhodl o něm podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném od 1. 1. 2013 (srovnej čl. II bod 7. zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony - dále jen „o. s. ř.“), protože odvolací soud ve věci rozhodl dne 8. 1. 2013.
+Povinný v dovolání neuvedl, v jakém rozsahu rozhodnutí odvolacího soudu napadá, nevymezil důvod dovolání ani v čem spatřuje jeho přípustnost. Dovolání proto neobsahuje podstatné náležitosti uvedené v § 241a odst. 2 o. s. ř. a dovolatelem v dovolací lhůtě nebylo o ně doplněno. Protože dovolání trpí vadami, pro které nelze v dovolacím řízení pokračovat, Nejvyšší soud postupoval podle § 243c odst. 1 o. s. ř. a dovolání povinného odmítl.
+Dovolání manželky povinného vykazovalo nedostatek bránící pokračování dovolacího řízení (nebylo sepsáno advokátem). Protože přes výzvu soudu dovolatelka vytčený nedostatek ve stanovené 10 ti denní lhůtě neodstranila (usnesení ze dne 29. 8. 2013, č. j. 43EXE 580/2011-114, jí bylo doručeno 5. 9. 2013) a na výzvu soudu reagovala pouze žádostí o prodloužení lhůty, které bylo soudem prvního stupně vyhověno, a k zastupování v dovolacím řízení si advokáta nezvolila a ani neprokázala, že by měla právnické vzdělání, Nejvyšší soud řízení o dovolání manželky povinného podle § 104 odst. 2 věty třetí a § 243f odst. 2 o. s. ř., zastavil.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 13. listopadu 2013
+JUDr. Miroslava Jirmanová, Ph.D.
+předsedkyně senátu
