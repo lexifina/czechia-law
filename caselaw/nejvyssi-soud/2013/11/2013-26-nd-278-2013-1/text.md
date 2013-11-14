@@ -1,0 +1,13 @@
+26 Nd 278/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Pavlíny Brzobohaté a soudců Doc. JUDr. Věry Korecké, CSc., a JUDr. Miroslava Feráka v právní věci oprávněné Všeobecné zdravotní pojišťovny České republiky, se sídlem Praha 3, Orlická 4/2010, s adresou pro doručování Všeobecná zdravotní pojišťovna ČR, Regionální pobočka Brno, pobočka pro Jihomoravský kraj a Kraj Vysočina, Břeclav, 17. listopadu 14, IČO: 41197518, proti povinné I. V., o nařízení exekuce, vedené u Okresního soudu v Břeclavi pod sp. zn. 53 EXE 396/2013, o určení místní příslušnosti, takto:
+Věc vedená u Okresního soudu v Břeclavi pod sp. zn. 53 EXE 396/2013 se přikazuje Okresnímu soudu v Břeclavi.
+O d ů v o d n ě n í :
+Exekutor Mgr. Kamil Brančík, se sídlem v Hodoníně, Sadová 15, podal dne 27. 2. 2013 Okresnímu soudu v Břeclavi žádost o pověření a nařízení exekuce na majetek povinné pro vymožení pohledávky ve výši 12.863,- Kč.
+Okresní soud v Břeclavi usnesením ze dne 9. 8. 2013, č. j. 53 EXE 396/2013-10, vyslovil svou místní nepříslušnost a rozhodl o předložení věci Nejvyššímu soudu k určení, který soud věc projedná a rozhodne, neboť zjistil, že povinná měla poslední bydliště v České republice na adrese B., k 31. 8. 2005 jí však byl ukončen pobyt občana ČR a poštu v roce 2012 přebírala ve Španělsku.
+Podle ustanovení § 11 odst. 3 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších přepisů (dále jako „o. s. ř.“), jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+V daném případě je dána pravomoc soudů České republiky, protože však povinná (ač je občanem ČR) nemá v České republice místo trvalého pobytu a nebyl doposud ani zjištěn žádný její majetek v České republice (exekuční soud před nařízením exekuce a pověřením exekutora jejím provedením existenci majetku povinného nezjišťuje – viz usnesení Nejvyššího soudu ze dne 12. 9. 2012, sp. zn. 31 Nd 200/2012, uveřejněné pod č. 4/2013 Sbírky soudních rozhodnutí a stanovisek), nelze zjistit podmínky pro určení místní příslušnosti exekučního soudu (§ 45 odst. 2 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti, ve znění pozdějších předpisů). Nejvyšší soud proto podle ustanovení § 11 odst. 3 o. s. ř., přihlížeje k zásadě hospodárnosti určil, že věc projedná a rozhodne Okresní soud v Břeclavi, u něhož bylo řízení zahájeno.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 14. listopadu 2013
+JUDr. Pavlína B r z o b o h a t á
+předsedkyně senátu
