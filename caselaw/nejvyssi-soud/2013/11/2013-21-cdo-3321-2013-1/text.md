@@ -1,0 +1,14 @@
+21 Cdo 3321/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a JUDr. Zdeňka Novotného v právní věci žalobce Ing. F. K., zastoupeného JUDr. Miroslavem Zemanem, advokátem se sídlem v Praze 5, Lidická č. 336/28, proti žalovanému Czech Accounting Services s. r. o. se sídlem v Praze 1, Novém Městě, Klimentská č. 1216/46, IČO 25657631, zastoupenému Mgr. Petrem Slabým, LL.M., advokátem se sídlem v Praze 6, Komornická č. 560/14, o neplatnost výpovědi z pracovního poměru, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 42 C 284/2010, o dovolání žalovaného proti rozsudku Městského soudu v Praze ze dne 26. června 2013, č. j. 62 Co 252/2013-134, takto:
+I. Dovolání žalovaného se odmítá.
+II. Žalovaný je povinen zaplatit žalobci na náhradě nákladů dovolacího řízení 3.388,- Kč do 3 dnů od právní moci tohoto usnesení k rukám JUDr. Miroslava Zemana, advokáta se sídlem v Praze 5, Lidická č. 28.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalovaného proti rozsudku Městského soudu v Praze ze dne 26. 6. 2013, č. j. 62 Co 252/2013-134, není přípustné podle ustanovení § 237 o. s. ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu [k otázce výkladu pojmu soustavné méně závažné porušení povinnosti vyplývající z právních předpisů vztahujících se k zaměstnancem vykonávané práci ve smyslu ustanovení § 52 písm. g) části věty za středníkem zákoníku práce srov. rozsudek býv. Nejvyššího soudu ze dne 28. 4. 1992, sp. zn. 6 Cdo 1/92, uveřejněný pod č. 52 ve Sbírce soudních rozhodnutí a stanovisek, roč. 1994, nebo rozsudek Nejvyššího soudu ze dne 12. 4. 2001, sp. zn. 21 Cdo 3019/2000, uveřejněný pod č. 56 v časopise Soudní judikatura, roč. 2003, a k otázce vázanosti soudu tím, jak zaměstnavatel ve svém pracovním řádu (nebo jiném interním předpise) hodnotí určité jednání zaměstnance, srov. rozsudek Nejvyššího soudu ze dne 19. 1. 2000, sp. zn. 21 Cdo 1228/99, uveřejněný pod č. 21 ve Sbírce soudních rozhodnutí a stanovisek, roč. 2001, které se vztahují k obsahově shodné dřívější právní úpravě a na jejichž závěrech dovolací soud i nadále setrvává] a není důvod, aby rozhodné právní otázky byly posouzeny jinak.
+V části, v níž dovolatel uplatnil jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o. s. ř. (zpochybňuje-li skutková zjištění, která byla pro právní posouzení věci odvolacím soudem rozhodující), dovolání trpí vadami, pro které nelze v dovolacím řízení pokračovat.
+Nejvyšší soud České republiky proto dovolání žalovaného podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 18. listopadu 2013
+JUDr. Mojmír Putna
+předseda senátu
