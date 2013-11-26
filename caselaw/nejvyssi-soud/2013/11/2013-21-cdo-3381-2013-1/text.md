@@ -1,0 +1,13 @@
+21 Cdo 3381/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a JUDr. Zdeňka Novotného v právní věci žalobce Ing. R. B., zastoupeného JUDr. Zuzanou Šloufovou, advokátkou se sídlem v Plzni, Prešovská č. 201/4, proti žalované DIAMONDS INTERNATIONAL CORPORATION - D.I.C. a. s. se sídlem v Praze 1, Široká č. 124/15, IČO 26399946, zastoupené JUDr. Martinem Alešem, advokátem se sídlem v Plzni, Houškova č. 524/30, o neplatnost výpovědi z pracovního poměru, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 42 C 300/2010, o dovolání žalované proti usnesení Městského soudu v Praze ze dne 27. června 2013, č. j. 23 Co 127/2013-87, takto:
+I. Dovolání žalované se odmítá.
+II. Žalovaná je povinna zaplatit žalobci na náhradě nákladů dovolacího řízení 1.573,- Kč do 3 dnů od právní moci tohoto usnesení k rukám JUDr. Zuzany Šloufové, advokátky se sídlem v Plzni, Prešovská č. 201/4.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky dovolání žalované proti usnesení Městského soudu v Praze ze dne 27. 6. 2013, č. j. 23 Co 127/2013-87, jímž byl rozsudek Obvodního soudu pro Prahu 1 ze dne 21. 12. 2012, č. j. 42 C 300/2010-56, ve výroku o nákladech řízení změněn tak, že žalovaná je povinna zaplatit žalobci na nákladech řízení 37.051,- Kč k rukám advokátky JUDr. Zuzany Šloufové, a rozhodnuto, že žalovaná je povinna zaplatit žalobci na nákladech odvolacího řízení 3.533,- Kč k rukám advokátky JUDr. Zuzany Šloufové, podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl, neboť není přípustné, protože směřuje proti usnesení odvolacího soudu, kterým bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50.000,- Kč [§ 238 odst. 1 písm. d) o. s. ř.].
+K výkladu ustanovení § 238 odst. 1 písm. d) o. s. ř. byl dovolacím soudem přijat názor (srov. usnesení Nejvyššího soudu ze dne 30. 5. 2013, sp. zn. 29 Cdo 1172/2013), že peněžité plnění přiznané výrokem o nákladech řízení nelze označit pro účely posouzení přípustnosti dovolání za plnění ze vztahu ze spotřebitelské smlouvy, z pracovněprávního vztahu nebo z věci uvedené v § 120 odst. 2 o. s. ř., ani když je výrok o nákladech řízení akcesorickým výrokem v rozhodnutí, jež se (co do „merita“) takového „vztahu“ nebo takové „věci“ týkalo (ve výroku o nákladech řízení se zvláštní povaha těchto vztahů a věcí dovolující prolomení stanoveného limitu nijak neprojevuje).
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. listopadu 2013
+JUDr. Mojmír Putna
+předseda senátu
