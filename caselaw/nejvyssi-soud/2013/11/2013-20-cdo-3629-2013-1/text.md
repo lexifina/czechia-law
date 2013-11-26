@@ -1,0 +1,12 @@
+20 Cdo 3629/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové, Ph.D. a soudců JUDr. Zbyňka Poledny a JUDr. Vladimíra Mikuška v exekuční věci oprávněného Dopravního podniku hl. m. Prahy, akciová společnost, se sídlem v Praze 9, Sokolovská 217/42, identifikační číslo osoby 00005886, zastoupeného JUDr. Tomášem Sokolem, advokátem se sídlem v Praze 2, Sokolská 60, proti povinnému L. T., pro 964,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 10 pod sp. zn. 54 EXE 3088/2012, o dovolání povinného proti usnesení Městského soudu v Praze ze dne 4. března 2013, č. j. 51 Co 37/2013-22, takto:
+Dovolání se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Odvolací soud v záhlaví označeným rozhodnutím odmítl odvolání (§ 44 odst. 7 zákona č. 120/2001 Sb. ve znění od 1. 11. 2009 do 31. 12. 2012) proti usnesení z 7. 6. 2012, č. j. 54 EXE 3088/2012-6, jímž obvodní soud nařídil exekuci k uspokojení pohledávky oprávněného ve výši 964,- Kč, nákladů nalézacího řízení, nákladů exekuce a oprávněného, které budou určeny exekutorem. Povinný napadl usnesení odvolacího soudu dovoláním.
+Nejvyšší soud dovolání projednal a rozhodl o něm podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2013 (srovnej čl. II bod 7. zákona č. 404/2012 Sb.), dále jen „o. s. ř.“. Dovolání není přípustné, protože směřuje proti výroku odvolacího soudu, jímž bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50.000,- Kč (§ 238 odst. 1 písm. d/ o. s. ř.). Nejvyšší soud tedy (aniž zkoumal splnění podmínky povinného zastoupení dovolatelky v dovolacím řízení) dovolání odmítl (§ 243c odst. 1 o. s. ř.).
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. listopadu 2013
+JUDr. Miroslava Jirmanová, Ph.D.
+předsedkyně senátu
