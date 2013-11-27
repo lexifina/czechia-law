@@ -1,0 +1,21 @@
+30 Cdo 4027/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Lubomíra Ptáčka, Ph.D a soudců JUDr. Pavla Pavlíka a JUDr. Pavla Vrchy, v právní věci péče o původně nezletilého P. N., syna matky M. K. a otce P. N., o zrušení dohledu a určení výživného matce, vedené u Okresního soudu v Chomutově pod sp. zn. 15 P 16/2008, o dovolání matky proti rozsudku Krajského soudu v Ústí nad Labem ze dne 29. března 2012, č. j. 13 Co 725/2010-538, takto :
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění
+(§ 243c odst. 2 o. s. ř.):
+Okresní soud v Chomutově (dále jen „soud prvního stupně“) rozsudkem ze dne 6. 10. 2010, č. j. 15 P 16/2008-502, uložil matce povinnost přispívat počínaje dnem 1. 1. 2008 na výživu nezletilého P. měsíčně 500,- Kč, vždy do každého 15. dne v měsíci předem, k rukám otce (výrok I.). Nedoplatek na výživném za období od 1. 1. 2008 do 30. 9. 2010 v celkové výši 16 500,- Kč matce uložil zaplatit v měsíčních splátkách po 250,- Kč, spolu s běžným výživným, počínaje dnem 1. 12. 2010, pod ztrátou výhody splátek (výrok II.). Řízení o návrhu otce na zrušení dohledu zastavil (výrok III.) a konečně bylo rozhodnuto, že žádný z účastníků nemá právo na náhradu nákladů řízení (výrok IV.).
+Krajský soud v Ústí nad Labem, jako soud odvolací, rozsudkem ze dne 29. března 2012, č. j. 13 Co 725/2010-538, rozsudek soudu prvního stupně ve výroku I. potvrdil a ve výroku II. změnil tak, že dluh na výživném za období od 1. 1. 2008 do 31. 3. 2012 ve výši 25 500,- Kč je matka povinna zaplatit ve lhůtě tří měsíců od právní moci tohoto rozsudku, k rukám otce.
+Proti rozsudku odvolacího soudu podala dovolání matka (dále též „dovolatelka“).
+Nejvyšší soud jako soud dovolací (§ 10a o.s.ř.) přihlédl k čl. II bodu 12. zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony (rozsudek odvolacího soudu byl vyhlášen dne 29. 3. 2012, takže tento procesní předpis je aplikován ve znění účinném do 31. 12. 2012).
+Podle § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Podle § 237 odst. 1 o.s.ř dovolání je přípustné proti rozsudku odvolacího soudu a proti usnesení odvolacího soudu, a) jimiž bylo změněno rozhodnutí soudu prvního stupně ve věci samé, b) jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, kterým soud prvního stupně rozhodl ve věci samé jinak než v dřívějším rozsudku (usnesení) proto, že byl vázán právním názorem odvolacího soudu, který dřívější rozhodnutí zrušil, c) jimiž bylo potvrzeno rozhodnutí soudu prvního stupně, jestliže dovolání není přípustné podle písmena b) a dovolací soud dospěje k závěru, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam.
+Podle § 237 odst. 2 písm. b) o.s.ř. dovolání podle odstavce 1 není přípustné ve věcech upravených zákonem o rodině, ledaže jde o rozsudek o omezení nebo zbavení rodičovské zodpovědnosti nebo pozastavení jejího výkonu, o určení (popření) rodičovství nebo o nezrušitelné osvojení.
+Přípustnost dovolání proti rozsudku odvolacího soudu ve věci samé podle § 237 o. s. ř. není v posuzovaném případě dána, a to již proto, že dovolatelka dovoláním napadá rozsudek odvolacího soudu ve věci upravené ustanovením § 43 odst. 1 písm. b) a §§ 85, 96 zákona o rodině (zákon č. 94/1963 Sb., o rodině, ve znění pozdějších předpisů), přičemž se nejedná o žádnou z výjimek uvedených v § 237 odst. 2 písm. b) o. s. ř., která by přípustnost dovolání v taxativně vypočtených věcech upravených zákonem o rodině, zakládala.
+Nejvyšší soud ČR proto dovolání matky směřující proti tomuto rozsudku podle § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl, aniž by se mohl věcně zabývat posouzením otázek, vymezených dovolatelkou v dovolání, včasností podaného dovolání, a aniž by se dále zabýval podmínkou nuceného zastoupení v dovolacím řízení.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 o. s. ř., neboť ostatním účastníkům v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 27. listopadu 2013
+JUDr. Lubomír P t á č e k, Ph.D.
+předseda senátu
