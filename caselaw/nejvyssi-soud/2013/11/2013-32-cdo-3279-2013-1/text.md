@@ -1,0 +1,17 @@
+32 Cdo 3279/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Hany Gajdziokové a soudců JUDr. Miroslava Galluse a JUDr. Pavla Příhody v právní věci žalobkyně České spořitelny, a. s., se sídlem v Praze 4, Olbrachtova 1929/62, PSČ 140 00, identifikační číslo osoby 45 24 47 82, proti žalovaným 1) J. K., 2) M. K., 3) P. K., 4) Z. B., a 5) A. B., o zaplacení částky 883.046,75 Kč s příslušenstvím, vedené u Okresního soudu ve Frýdku-Místku pod sp. zn. 40 C 20/2005, o dovolání žalované 2) proti rozsudku Krajského soudu v Ostravě ze dne 2. srpna 2011, č. j. 51 Co 70/2011-401, takto:
+I. Dovolání se odmítá.
+II. Žalobkyně a žalovaná 2) nemají vzájemně právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Okresní soud ve Frýdku-Místku rozsudkem ze dne 16. října 2009, č. j. 40 C 20/2005-293, uložil všem žalovaným společně a nerozdílně zaplatit žalobkyni částku 883.046,75 Kč s 12,1% úrokem z prodlení z částky 778.245,81 Kč od 11. června 2004 do zaplacení a rozhodl o nákladech řízení.
+Krajský soud v Ostravě k odvolání žalovaných 4) a 5) rozsudkem označeným v záhlaví potvrdil rozsudek soudu prvního stupně ve vztahu k těmto žalovaným a rozhodl o nákladech odvolacího řízení ve vztahu mezi žalobkyní a žalovanými 4) a 5).
+Proti rozsudku odvolacího soudu podala žalovaná 2) dovolání, v němž zpochybňuje právo žalobkyně na zaplacení žalované částky.
+Vzhledem k datu vydání rozsudku odvolacího soudu se uplatní pro dovolací řízení - v souladu s bodem 7. čl. II přechodných ustanovení části první zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony - občanský soudní řád ve znění účinném do 31. prosince 2012 (dále též jen „o. s. ř.“).
+Dovolání v této věci není přípustné.
+Podle ustanovení § 240 odst. 1 o. s. ř. může dovolání podat účastník řízení. Z povahy dovolání jako opravného prostředku přitom plyne, že k dovolání je oprávněna jen ta strana (účastník řízení), které nebylo rozhodnutím odvolacího soudu plně vyhověno, případně které byla tímto rozhodnutím způsobena určitá újma na jejich právech - v konstantní judikatuře se tato legitimace k dovolání označuje též jako subjektivní přípustnost dovolání. Výrokem rozsudku odvolacího soudu, kterým byl potvrzen rozsudek soudu prvního stupně ve vztahu mezi žalobkyní a žalovanými 4) a 5), a bylo rozhodnuto o nákladech odvolacího řízení mezi těmito účastníky, nemohla být dovolatelce způsobena žádná újma na jejích právech, kterou by bylo možno zhojit v dovolacím řízení, neboť jí nebyla uložena žádná povinnost, rozsudek se jí netýká. Dovolání tak bylo podáno někým, kdo k dovolání není oprávněn (shodně srov. např. usnesení Nejvyššího soudu ze dne 29. července 1999, sp. zn. 20 Cdo 1760/98, uveřejněné v časopise Soudní judikatura číslo 1, ročník 2000, pod číslem 7). S přihlédnutím k tomuto závěru a k ustanovení § 241b odst. 2 části věty za středníkem o. s. ř. se Nejvyšší soud nezabýval otázkou, zda u dovolatelky byla splněna podmínka povinného zastoupení, a dovolání žalované 2) odmítl podle ustanovení § 243b odst. 5 věty první a § 218 písm. b) o. s. ř.
+O nákladech dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 3 o. s. ř., neboť žalovaná 2), jejíž dovolání bylo odmítnuto, nemá na náhradu nákladů právo a žalobkyni podle obsahu spisu náklady v dovolacím řízení nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 27. listopadu 2013
+JUDr. Hana Gajdzioková
+předsedkyně senátu
