@@ -1,0 +1,12 @@
+21 Cdo 2628/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Jiřího Doležílka a soudců JUDr. Romana Fialy a JUDr. Ljubomíra Drápala v právní věci žalobce Ing. T. Z., zastoupeného JUDr. Janou Kopáčkovou, advokátkou se sídlem v Praze 5 - Smíchově, Kroftova č. 329/1, za účasti OPZ PLUS, a. s. se sídlem v Praze 1, Hradební č. 3, IČO 45274835, o zápis práva odpovídajícího věcnému břemenu do katastru nemovitostí vkladem, vedené u Městského soudu v Praze pod sp. zn. 27 C 1/2012, o dovolání žalobce proti rozsudku Vrchního soudu v Praze ze dne 4. dubna 2013 č. j. 4 Co 18/2013-116, takto:
+I. Dovolání žalobce se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalobce proti rozsudku Vrchního soudu v Praze ze dne 4. 4. 2013 č. j. 4 Co 18/2013-116 není přípustné podle ustanovení § 237 o. s. ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu [k otázce, kdy lze pokládat za splněnou podmínku vkladu uvedenou v ustanovení § 5 odst. 1 písm. e) zákona č. 265/1992 Sb. (ve znění pozdějších předpisů), srov. například stanovisko občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne 28. 6. 2000 sp. zn. Cpjn 38/98, které bylo uveřejněno pod č. 44 ve Sbírce soudních rozhodnutí a stanovisek, roč. 2000, nebo odůvodnění rozsudku Nejvyššího soudu ze dne 23. 11. 2011 sp. zn. 21 Cdo 4044/2010, uveřejněného pod č. 15 v časopise Soudní judikatura, roč. 2013, a k otázce dobré víry osoby, vycházející ze stavu zápisu v katastru nemovitostí učiněného po 1. 1. 1993, srov. například odůvodnění rozsudku Nejvyššího soudu ze dne 15. 12. 2011 sp. zn. 21 Cdo 648/2011 nebo rozsudku Nejvyššího soudu ze dne 18. 12. 2012 sp. zn. 21 Cdo 656/2012] a není důvod, aby rozhodné právní otázky byly posouzeny jinak. V části, v níž žalobce vytýká odvolacímu soudu neúplná skutková zjištění, a v níž tedy uplatnil jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o. s. ř., dovolání trpí vadami, pro které nelze v dovolacím řízení pokračovat.
+Nejvyšší soud České republiky proto dovolání žalobce podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 27. listopadu 2013
+JUDr. Jiří Doležílek předseda senátu
