@@ -1,0 +1,17 @@
+29 Cdo 3105/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jiřího Zavázala a soudců JUDr. Petra Gemmela a JUDr. Filipa Cilečka v právní věci žalobkyně DAHANAX, s. r. o., se sídlem v Ostravě – Slezské Ostravě, Hradní 27/37, PSČ 710 00, identifikační číslo osoby 28 56 88 42, zastoupené JUDr. Miluší Kulhavou, advokátkou, se sídlem v Bruntále, Sladovnická 274/16, PSČ 792 01, proti žalovanému Ing. T. E., zastoupenému JUDr. Jiřím Černoškem, advokátem, se sídlem v Prostějově, Komenského 1586/23, PSČ 796 01, o námitkách proti směnečnému platebnímu rozkazu, vedené u Krajského soudu v Ostravě – pobočky v Olomouci pod sp. zn. 6 Cm 505/2011, o dovolání žalovaného proti rozsudku Vrchního soudu v Olomouci ze dne 17. května 2012, č. j. 4 Cmo 140/2012-72, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Vrchní soud v Olomouci k odvolání žalovaného v záhlaví označeným rozsudkem potvrdil rozsudek ze dne 26. ledna 2012, č. j. 6 Cm 505/2011-40, jímž Krajský soud v Ostravě – pobočka v Olomouci ponechal v platnosti směnečný platební rozkaz ze dne 7. října 2011, č. j. 6 Cm 505/2011-12, v části, v níž žalovanému uložil zaplatit žalobkyni částku 7.260.421,60 Kč s 6% úrokem od 15. srpna 2009 do zaplacení, směnečnou odměnu ve výši 24.200,- Kč a náhradu nákladů řízení ve výši 538.134,- Kč.
+Dovolání žalovaného proti potvrzujícímu výroku rozsudku odvolacího soudu ve věci samé, které mohlo být přípustné pouze podle ustanovení § 237 odst. 1 písm. c) zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), Nejvyšší soud jako nepřípustné podle ustanovení § 243b odst. 5 a § 218 písm. c) o. s. ř. odmítl.
+Učinil tak proto, že dovolatel mu nepředkládá k řešení žádnou otázku, z níž by bylo možno usuzovat, že napadené rozhodnutí má ve věci samé po právní stránce zásadní význam.
+Jakkoli dovolatel avizuje uplatnění dovolacího důvodu podle ustanovení § 241a odst. 2 písm. b) o. s. ř., ve skutečnosti (posuzováno podle obsahu) závěry, na nichž právní posouzení věci odvolacím soudem spočívá, nenapadá.
+Námitkou, podle které „částka, na niž byl podán směnečný a šekový platební rozkaz, měla být ponížena o částku 3.275.963,- Kč“, představující pojistné plnění poskytnuté původnímu směnečnému věřiteli, dovolatel polemizuje s opačným skutkovým závěrem soudů nižších stupňů, podle něhož směnka, o jejíž úhradě bylo v posuzované věci rozhodnuto směnečným platebním rozkazem, nezajišťovala pohledávku remitenta z „úvěrové smlouvy č. 550/07/014“, na kterou bylo pojišťovnou „plněno“. Uplatňuje tak dovolací důvod vymezený v ustanovení § 241a odst. 3 o. s. ř., jenž u dovolání, jehož přípustnost může být založena toliko prostřednictvím ustanovení § 237 odst. 1 písm. c) o. s. ř., nemá k dispozici a z nějž závěr o přípustnosti dovolání dovodit nelze (srov. výslovné znění označeného ustanovení).
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalovaného bylo odmítnuto a žalobkyni podle obsahu spisu v dovolacím řízení náklady nevznikly.
+Rozhodné znění občanského soudního řádu pro dovolací řízení (do 31. prosince 2012) se podává z bodu 7., části první, článku II. zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 28. listopadu 2013
+JUDr. Jiří Zavázal
+předseda senátu
