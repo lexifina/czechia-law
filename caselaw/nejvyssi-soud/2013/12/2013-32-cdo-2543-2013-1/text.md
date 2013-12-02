@@ -1,0 +1,15 @@
+32 Cdo 2543/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Pavla Příhody a JUDr. Hany Gajdziokové v právní věci žalobkyně MIGO, s.r.o., se sídlem v Praze 5 - Hlubočepích, Štěpařská 809/24, PSČ 152 00, identifikační číslo osoby 64939235, zastoupené JUDr. Davidem Černým, advokátem se sídlem v Praze - Kobylisích, U Nádrže 625/6, proti žalované K. S., zastoupené JUDr. Dagmar Friedlovou, advokátkou se sídlem v Praze, Werichova 1145/29, o zaplacení 330 218 Kč s příslušenstvím, vedené u Krajského soudu v Praze pod sp. zn. 48 Cm 142/2007, o dovolání žalobkyně proti rozsudku Vrchního soudu v Praze ze dne 10. dubna 2013, č. j. 4 Cmo 50/2011-226, takto:
+I. Dovolání se odmítá.
+II. Žádná z účastnic nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalobkyně podala dovolání proti v záhlaví označenému rozsudku, jímž Vrchní soud v Praze změnil rozsudek Krajského soudu v Praze ze dne 1. prosince 2010, č. j. 48 Cm 142/2007-122, v napadené části vyhovujícího výroku ve věci samé tak, že žalobu v rozsahu částky 200 000 Kč s příslušenstvím zamítl, a dále rozhodl o nákladech mezi účastnicemi za řízení před soudy obou stupňů.
+Dovolání, z jehož obsahu lze dovodit, že směřuje proti napadenému rozhodnutí v rozsahu jeho měnícího výroku ve věci samé, trpí vadou, neboť dovolatelka v dovolání oproti požadavkům vymezeným pro obsah dovolání v ustanovení § 241a odst. 2 občanského soudního řádu (dále též jen „o. s. ř.“) neuvedla, v čem spatřuje splnění předpokladů přípustnosti dovolání (srov. ustanovení § 237 o. s. ř.). Této náležitosti dovolání dovolatelka nedostála, jestliže mylně odkázala na ustanovení § 237 odst. 1 písm. a) o. s. ř., které bylo s účinností od 1. ledna 2013 zrušeno zákonem č. 404/2012 Sb., jímž byl zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, novelizován. Dovolatelka tak patrně přehlédla, že s ohledem na datum vydání napadeného rozhodnutí se na projednání a rozhodnutí o dovolání uplatní – v souladu s bodem 7. článku II., části první, přechodných ustanovení zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony – občanský soudní řád ve znění účinném od 1. ledna 2013.
+Uvedený nedostatek nelze již odstranit, neboť lhůta pro podání dovolání, během níž tak bylo možno učinit (srov. ustanovení § 241b odst. 3 větu první o. s. ř.), dovolatelce uplynula dne 10. července 2013 (srov. ustanovení § 57 odst. 2 větu první o. s. ř.). Jde přitom o takovou vadu, jež brání pokračování v dovolacím řízení, neboť v důsledku absence uvedené náležitosti nelze posoudit přípustnost dovolání.
+Nejvyšší soud proto dovolání podle ustanovení § 243c odst. 1 o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (srov. ustanovení § 243f odst. 3 větu druhou o. s. ř.).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 2. prosince 2013
+JUDr. Miroslav G a l l u s
+předseda senátu
