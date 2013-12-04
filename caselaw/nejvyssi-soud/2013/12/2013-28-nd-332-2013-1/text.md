@@ -1,0 +1,13 @@
+28 Nd 332/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jana Eliáše, Ph.D., a soudců JUDr. Josefa Rakovského a Mgr. Zdeňka Sajdla ve věci žalobkyně STAY ACTIVE INC. se sídlem v Seychelské republice, Capital City 1312, Indipendente Avenue, Vicoria, Mahé, P.O. BOX 1312, zastoupené JUDr. Vladimírem Řičicou, advokátem se sídlem v Praze 4, Voráčovská 937/14, proti žalovanému J. J., o zaplacení 13.350,- Kč s příslušenstvím, vedené u Okresního soudu Lounech pod sp. zn. 25 EC 2997/2011, o určení místní příslušnosti, takto:
+Věc vedená u Okresního soudu v Lounech pod sp. zn. 25 EC 2997/2011 se přikazuje k projednání a rozhodnutí Okresnímu soudu v Lounech.
+O d ů v o d n ě n í :
+Okresní soud v Lounech usnesením ze dne 1. 10. 2013, č. j. 25 EC 2997/2011-35, vyslovil svou místní nepříslušnost a rozhodl o předložení věci Nejvyššímu soudu k určení místně příslušného soudu k projednání a rozhodnutí dané věci. V odůvodnění uvedl, že nelze určit místně příslušný soud, neboť místo pobytu žalovaného není známo. Žalovanému se nepodařilo doručit elektronický platební rozkaz na adresu uvedenou v žalobě – N., okres R. Následné šetření přitom nevedlo ke zjištění místa, na kterém se žalovaný zdržoval v době podání žaloby, ani místa jeho posledního známého bydliště. Okresní soud v Lounech tedy s ohledem na uvedené neshledal, že by byl soudem místně příslušným ve smyslu § 85 o. s. ř., aniž by však dovodil místní příslušnost jiného soudu, pročež podle § 105 odst. 2 o. s. ř. a § 11 odst. 3 o. s. ř. rozhodl o předložení věci Nejvyššímu soudu k určení soudu, který věc projedná a rozhodne.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+V daném případě není zpochybněno, že věc patří do pravomoci českých soudů, a je zřejmé, že nelze stanovit místní příslušnost soudu dle § 85 o. s. ř., neboť není známo bydliště žalovaného, ani místo, kde se zdržuje v České republice. Vzhledem k tomu, že okresní soud nemohl dospět k závěru, že by žalovaný v době zahájení řízení vůbec neměl obecný soud, nebylo možné bez dalšího postupovat při určení místní příslušnosti podle § 86 o. s. ř.
+Jelikož jsou splněny předpoklady stanovené v ustanovení § 11 odst. 3 o. s. ř. pro určení místní příslušnosti, rozhodl Nejvyšší soud s přihlédnutím k zásadě hospodárnosti řízení tak, že místně příslušným určil soud, u něhož bylo řízení zahájeno.
+Proti tomuto rozhodnutí není opravný prostředek přípustný.
+V Brně dne 4. prosince 2013
+JUDr. Jan E l i á š, Ph.D.
+předseda senátu
