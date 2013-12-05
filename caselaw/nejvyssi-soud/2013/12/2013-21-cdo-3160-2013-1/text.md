@@ -1,0 +1,11 @@
+21 Cdo 3160/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Jiřím Doležílkem v právní věci žalobce Ing. M. Š., zastoupeného JUDr. Kateřinou Skálovou, advokátkou se sídlem v Jihlavě, Bezručova č. 1580/7, proti žalovanému Automotive Lighting s. r. o. se sídlem v Jihlavě, Pávov č. 113, IČO 25133152, zastoupenému JUDr. Miroslavem Novákem, advokátem se sídlem v Jihlavě, Matky Boží č. 1920/6, o ochranu před diskriminací v pracovněprávních vztazích, vedené u Okresního soudu v Jihlavě pod sp. zn. 12 C 23/2012, o dovolání žalobce proti usnesení Krajského soudu v Brně ze dne 28. února 2013 č. j. 49 Co 60/2013-68, takto:
+Dovolání žalobce se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky dovolání žalobce proti usnesení Krajského soudu v Brně ze dne 28. 2. 2013 č. j. 49 Co 60/2013-68 podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl, neboť dovolání trpí vadami [zejména neobsahuje vymezení dovolacího důvodu způsobem uvedeným v ustanovení § 241a odst. 3 o. s. ř. (k podání ze dne 10. 5. 2013, v němž žalobce vymezil důvody dovolání, aniž by byla splněna podmínka povinného zastoupení dovolatele advokátem stanovená v § 241 o. s. ř., nelze vzhledem k ustanovení § 241a odst. 5 o. s. ř. přihlédnout)], které nebyly odstraněny ve lhůtě uvedené v ustanovení § 241b odst. 3 o. s. ř. a pro které nelze v dovolacím řízení pokračovat (k podání ze dne 5. 9. 2013, sepsanému zástupkyní žalobce, která mu byla ustanovena soudem, a podanému osobně u soudu prvního stupně dne 13. 9. 2013, rovněž nelze přihlížet, neboť dovolání jím bylo doplněno až po uplynutí dvouměsíční lhůty vyplývající z ustanovení § 241b odst. 3 části druhé věty za středníkem o. s. ř., která začala běžet dnem 5. 7. 2013, kdy nabylo právní moci usnesení o ustanovení zástupkyně žalobci).
+Vzhledem k tomu, že tímto rozhodnutím dovolacího soudu se řízení o věci nekončí, bude rozhodnuto i o náhradě nákladů vzniklých v tomto dovolacím řízení v konečném rozhodnutí soudu prvního stupně, popřípadě soudu odvolacího (§ 243b, § 151 odst. 1 o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 5. prosince 2013
+JUDr. Jiří Doležílek
+předseda senátu
