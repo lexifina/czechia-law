@@ -1,0 +1,18 @@
+25 Nd 272/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marty Škárové a soudců JUDr. Petra Vojtka a JUDr. Roberta Waltra v právní věci žalobkyně APOREAL, a. s., se sídlem v Praze 10, Na Vinici 31/882, IČO 28185609, zastoupené Mgr. Jindřichem Lvem, advokátem se sídlem v Praze 10, Murmanská 1475/4, proti žalované P. D., o 1.140,- Kč s příslušenstvím, vedené u Okresního soudu v Hodoníně pod sp. zn. 107 EC 295/2011, o návrhu na přikázání věci z důvodu vhodnosti podle § 12 odst. 2 o. s. ř., takto:
+Věc vedená u Okresního soudu v Hodoníně pod sp. zn. 107 EC 295/2011 se nepřikazuje k projednání a rozhodnutí Obvodnímu soudu pro Prahu 10.
+Odůvodnění:
+Žalobkyně se návrhem na vydání elektronického platebního rozkazu, podaným u Okresního soudu v Hodoníně dne 25. 8. 2011, domáhá po žalované zaplacení 1.140,- Kč s příslušenstvím z titulu nezaplacených regulačních poplatků.
+Okresní soud v Hodoníně dne 22. 11. 2011 vydal platební rozkaz č. j. 107 EC 295/2011-6, který však následně usnesením ze dne 24. 7. 2012, č. j. 107 EC 295/2011-10, zrušil podle § 173 odst. 2 o. s. ř.
+Okresní soud v Hodoníně věc předložil Nejvyššímu soudu s návrhem na přikázání věci jinému soudu z důvodu vhodnosti podle § 12 odst. 2 a 3 o. s. ř., a to Obvodnímu soudu pro Prahu 10. Návrh odůvodnil tím, že žalobkyně má v Praze sídlo a žalovaná bydliště a rovněž událost, ze které je požadováno zaplacení, se stala v Praze, kde se nachází i veškeré důkazy. Věc předkládá i z důvodů ekonomických (důkazy a eventuální výslechy svědků).
+Žalobkyně ve vyjádření k návrhu uvedla, že proti postoupení spisu z důvodu vhodnosti Obvodnímu soudu pro Prahu 10 nemá námitky. Žalovaná se k přikázání věci nevyjádřila.
+Nejvyšší soud jako soud nejblíže společně nadřízený příslušnému soudu (Okresnímu soudu v Hodoníně) a Obvodnímu soudu pro Prahu 10, jemuž má být podle návrhu věc přikázána (§ 12 odst. 3 o. s. ř.), dospěl k závěru, že nejsou splněny podmínky pro přikázání věci jinému soudu z důvodu vhodnosti podle ustanovení § 12 odst. 2 o. s. ř.
+Podle § 12 odst. 2 o. s. ř. věc může být přikázána jinému soudu téhož stupně z důvodu vhodnosti.
+Důvod vhodnosti pro přikázání věci jinému soudu téhož stupně ve smyslu ustanovení § 12 odst. 2 o. s. ř. představují takové okolnosti, které umožní hospodárnější, rychlejší a zejména po skutkové stránce spolehlivější a důkladnější projednání věci jiným než místně příslušným soudem. Přitom je ale třeba mít na zřeteli, že obecná místní příslušnost soudu, který má věc projednat, je zásadou základní, a případná delegace příslušnosti jinému soudu je toliko výjimkou z této zásady, kterou je třeba – jako výjimku – vykládat restriktivně (viz např. nález Ústavního soudu ze dne 15. 11. 2001, sp. zn. I. ÚS 144/2000).
+V posuzované věci nejsou v návrhu na přikázání věci Obvodnímu soudu pro Prahu 10 uvedeny žádné skutečnosti, které by umožnily hospodárnější, rychlejší, spolehlivější nebo důkladnější projednání věci. Ze spisu je patrno, že žalovaná je sice hlášena k trvalému pobytu na adrese Praha 10, zde se však nezdržuje a Okresní soud v Hodoníně neučinil jiná další vhodná opatření ke zjištění jejího faktického pobytu. Rovněž skutečnost, že žalobkyně má sídlo v Praze, že zde došlo k události, ze které je požadováno zaplacení, a nachází se zde důkazy, nemůže být důvodem, aby věc byla přikázána z důvodu vhodnosti Obvodnímu soudu pro Prahu 10.
+Proto Nejvyšší soud – jako soud nejblíže společně nadřízený oběma dotčeným soudům (§ 12 odst. 3 o. s. ř.) – rozhodl, že se věc Obvodnímu soudu pro Prahu 10 nepřikazuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 17. prosince 2013
+JUDr. Marta Škárová
+předsedkyně senátu
