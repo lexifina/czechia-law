@@ -1,0 +1,17 @@
+7 Tdo 1359/2013-41
+U S N E S E N Í
+Nejvyšší soud rozhodl v neveřejném zasedání dne 10. 12. 2013 o dovolání obviněné E. V., proti rozsudku Okresního soudu v Pardubicích ze dne 27. 3. 2013, sp. zn. 3 T 212/2012, t a k t o :
+Podle § 265i odst. 1 písm. a) tr. ř. se dovolání obviněné E. V. o d m í t á .
+O d ů v o d n ě n í :
+Obviněná E. V. podala prostřednictvím obhájkyně dovolání proti rozsudku Okresního soudu v Pardubicích ze dne 27. 3. 2013, sp. zn. 3 T 212/2012, jímž byla uznána vinnou zločinem pojistného podvodu podle § 210 odst. 1, 5 písm. c) tr. zákoníku a odsouzena k nepodmíněnému trestu odnětí svobody na tři roky se zařazením do věznice s dozorem a k trestu zákazu činnosti na pět let (kromě toho bylo rozhodnuto také ohledně dalšího obviněného, jímž byl M. V.). Obviněná se s odkazem na důvod dovolání uvedený v § 265b odst. l písm. g) tr. ř. domáhala toho, aby Nejvyšší soud ohledně ní zrušil rozsudek Okresního soudu v Pardubicích a aby přikázal tomuto soudu nové projednání a rozhodnutí věci.
+Nejvyšší soud shledal, že dovolání není přípustné.
+Podle § 265a odst. l tr. ř. dovoláním lze napadnout pravomocné rozhodnutí soudu ve věci samé, jestliže soud rozhodl ve druhém stupni a zákon to připouští. Co se rozumí „rozhodnutím ve věci samé“, je stanoveno v § 265a odst. 2 písm. a) až h) tr. ř.
+Z uvedeného vymezení přípustnosti dovolání vyplývá nejen to, že rozhodnutí, proti kterému směřuje dovolání, musí být v právní moci, ale také to, že napadené rozhodnutí musí být rozhodnutím soudu d r u h é h o stupně.
+Rozsudek Okresního soudu v Pardubicích je rozhodnutím, které ve vztahu k obviněné nabylo právní moci tím, že usnesením Krajského soudu v Hradci Králové – pobočka v Pardubicích ze dne 30. 7. 2013, sp. zn. 14 To 166/2013, bylo podle § 256 tr. ř. zamítnuto její odvolání. Druhá podmínka přípustnosti dovolání, totiž že dovolání musí být podáno proti rozhodnutí soudu druhého stupně, nebyla v posuzované věci splněna.
+Z podání, jehož obsahem je dovolání, vyplývá, že obviněná napadla rozsudek Okresního soudu v Pardubicích, tedy rozhodnutí soudu prvního stupně. Podání obviněné bylo označeno jako „Dovolání proti rozsudku Okresního soudu v Pardubicích č. j. 3 T 212/2012-578 ze dne 27. 3. 2013“. V následujícím textu bylo výslovně uvedeno, že obviněná napadá „shora uvedený rozsudek“. Pokud obviněná v textu dovolání použila dikci „napadený rozsudek“, citovala v tomto kontextu obsah rozsudku Okresního soudu v Pardubicích. V závěru dovolání obviněná znovu označila rozsudek Okresního soudu v Pardubicích za rozhodnutí napadené dovoláním a navrhla zrušení tohoto rozsudku. Nevyvstávají tedy žádné pochybnosti o tom, že obviněná podala dovolání proti rozsudku Okresního soudu v Pardubicích. Takové dovolání není z hlediska ustanovení § 265a odst. l tr. ř. přípustné.
+Pro úplnost pokládá Nejvyšší soud za nutné konstatovat, že obviněná byla v usnesení, jímž bylo rozhodnuto o jejím odvolání, poučena výslovně a v souladu se zákonem o tom, že může podat dovolání proti „tomuto rozhodnutí“, tj. proti usnesení Krajského soudu v Hradci Králové – pobočka v Pardubicích. Tímto poučením se obviněná neřídila a podala dovolání proti rozsudku Okresního soudu v Pardubicích.
+Nejvyšší soud proto nepřípustné dovolání obviněné podle § 265i odst. l písm. a) tr. ř. odmítl, aniž z jeho podnětu přezkoumal napadený rozsudek a předcházející řízení.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 10. prosince 2013
+Předseda senátu:
+JUDr. Petr Hrachovec
