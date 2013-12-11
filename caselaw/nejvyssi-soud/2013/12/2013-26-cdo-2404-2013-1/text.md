@@ -1,0 +1,14 @@
+26 Cdo 2404/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Pavlíny Brzobohaté a soudkyň Doc. JUDr. Věry Korecké, CSc., a JUDr. Jitky Dýškové v právní věci žalobkyň: a) MUDr. D. S., b) PhDr. I. M., zastoupené Miriam Parimuchovou, bytem v Praze 2, Španělská 742/6, proti žalované: J. L., zastoupená JUDr. Pavlem Čadrou, advokátem se sídlem v Praze 2, Náplavní 2013/1, o 76.300,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 41 C 214/2010, o dovolání žalované proti usnesení Městského soudu v Praze ze dne 23. ledna 2013, č. j. 39 Co 491/2012-68, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalovaná napadla dovoláním usnesení Městského soudu v Praze (odvolací soud) ze dne 23. 1. 2013, č. j. 39 Co 491/2012-68, kterým potvrdil výrok usnesení Obvodního soudu pro Prahu 2 (soud prvního stupně) ze dne 20. 3. 2012, č. j. 41 C 214/2010-50, ve znění usnesení ze dne 15. 8. 2012, č. j. 41 C 214/2010-61, jímž rozhodl, že žádný z účastníků nemá právo na náhradu nákladů řízení (soud prvního stupně dále rozhodl o zastavení řízení, o vrácení soudního poplatku a o náhradě nákladů řízení vzniklých státu, tyto výroky nebyly odvoláním napadeny). Navrhla, aby jí byly přiznány náklady řízení ve výši celkem 21. 180,- Kč, a to odměna podle vyhlášky č. 484/2000 Sb. ve výši 20.280,- Kč a 3 x režijní paušál po 300,- Kč podle vyhlášky č. 177/1996 Sb.
+Dovolání není přípustné (§ 237, § 238 odst. 1 písm. d/ zákona č. 99/1963 Sb., občanského soudního řádu, ve znění zákona č. 404/2012 Sb., dále jen „o. s. ř.“), neboť napadeným rozhodnutím bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50.000,- Kč. V řízení před soudem prvního stupně učinil zástupce žalované 2 úkony právní služby, v řízení před odvolacím soudem jeden úkon, odměna podle vyhlášky č. 484/2000 Sb. (řízení bylo pravomocně skončeno před vydáním nálezu Ústavního soudu č. 116/2013 Sb., kterým byla vyhláška zrušena) by tak celkem nepřesáhla částku 28.920,- Kč a podle vyhlášky č. 177/1996 Sb. částku 12.540,- Kč, k níž by dále náležela jen náhrada za režijní paušály ve výši celkem 900,- Kč, neboť podle obsahu spisu jiné náklady žalované a jejímu zástupci nevznikly, a nejednalo se o vztahy ze spotřebitelských smluv, o pracovněprávní vztahy nebo o věci uvedené v § 120 odst. 2 (viz např. usnesení Nejvyššího soudu ze dne 26. 9. 2013, sen. zn. 29 ICdo 34/2013, usnesení téhož soudu ze dne 30. 5. 2013, sp. zn. 29 Cdo 1172/2013).
+Nejvyšší soud proto dovolání podle § 243c odst. 1, 2 o. s. ř. (ve spojení s § 243f odst. 3) odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 11. prosince 2013
+JUDr. Pavlína B r z o b o h a t á
+předsedkyně senátu
