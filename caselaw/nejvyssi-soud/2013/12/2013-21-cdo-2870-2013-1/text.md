@@ -1,0 +1,14 @@
+21 Cdo 2870/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Jiřího Doležílka a soudců JUDr. Zdeňka Novotného a JUDr. Ljubomíra Drápala v právní věci žalobce Ing. V. P., zastoupeného JUDr. Adamem Batunou, advokátem se sídlem v Praze 1 – Novém Městě, Panská č. 895/6, proti žalovanému CET 21 spol. s r. o. se sídlem v Praze 5, Kříženeckého nám. č. 1078/5, IČO 45800456, zastoupenému JUDr. Petrem Kotrlíkem, advokátem se sídlem v Praze 1 – Novém Městě, Jungmannova č. 36/31, o neplatnost okamžitého zrušení pracovního poměru, vedené u Obvodního soudu pro Prahu 5 pod sp. zn. 15 C 317/2011, o dovolání žalovaného proti rozsudku Městského soudu v Praze ze dne 17. dubna 2013 č. j. 62 Co 20/2013-281, takto:
+I. Dovolání žalovaného se odmítá.
+II. Žalovaný je povinen zaplatit žalobci na náhradě nákladů dovolacího řízení 3.388,- Kč do tří dnů od právní moci tohoto usnesení k rukám JUDr. Adama Batuny, advokáta se sídlem v Praze 1 – Novém Městě, Panská č. 895/6.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalovaného proti rozsudku Městského soudu v Praze ze dne 17. 4. 2013 č. j. 62 Co 20/2013-281 není přípustné podle ustanovení § 237 o. s. ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu (k podmínkám, za kterých může zaměstnavatel přistoupit k okamžitému zrušení pracovního poměru, srov. při obdobné právní úpravě v předchozím zákoníku práce například odůvodnění rozsudku Vrchního soudu v Praze ze dne 28. 6. 1995 sp. zn. 6 Cdo 53/94, který byl uveřejněn v časopise Práce a mzda č. 7-8, roč. 1995, nebo odůvodnění rozsudku Nejvyššího soudu ze dne 9. 3. 2006 sp. zn. 21 Cdo 1218/2005, který byl uveřejněn pod č. 32 ve Sbírce soudních rozhodnutí a stanovisek, roč. 2007; ke způsobu a formě určení doby čerpání dovolené zaměstnance zaměstnavatelem srov. například rozsudek Krajského soudu v Ústí nad Labem ze dne 25. 1. 1968 sp. zn. 8 Co 26/68, uveřejněný pod č. 11 ve Sbírce soudních rozhodnutí a stanovisek, roč. 1969, nebo odůvodnění rozsudku Nejvyššího soudu ze dne 27. 9. 2001 sp. zn. 21 Cdo 2795/2000) a není důvod, aby rozhodné právní otázky byly posouzeny jinak.
+Namítá-li žalovaný, že skutková zjištění odvolacího soudu nemají oporu v provedeném dokazování, že se odvolací soud ve svém rozsudku nevypořádal se všemi námitkami žalovaného uplatněnými v jeho odvolání proti rozsudku soudu prvního stupně a že neprovedl důkaz výslechem svědkyně V. R., uplatňuje tím jiné dovolací důvody než ten, který je uveden v ustanovení § 241a odst. 1 o. s. ř., a v dovolacím řízení nelze pro tento nedostatek pokračovat.
+Nejvyšší soud České republiky proto dovolání žalovaného podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 12. prosince 2013
+JUDr. Jiří Doležílek
+předseda senátu
