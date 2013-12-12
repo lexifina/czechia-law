@@ -1,0 +1,20 @@
+29 Cdo 3748/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v právní věci žalobce Slévárna Liberec, a. s., se sídlem v Brně, Šumavská 524/31, PSČ 602 00, identifikační číslo osoby 46708022, proti žalovanému České republice - Ministerstvu financí, se sídlem v Praze 1, Letenská 15, PSČ 118 10, o zaplacení částky 45.066.888,- Kč s příslušenstvím, vedené u Městského soudu v Praze pod sp. zn. 9 Cm 174/96, o dovolání žalobce proti rozsudku Vrchního soudu v Praze ze dne 26. března 2002, č. j. 1 Cmo 63/2001-98, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Rozsudkem ze dne 14. dubna 2000, č. j. 9 Cm 174/96-51, zamítl Krajský obchodní soud v Praze žalobu, kterou se žalobce (Slévárna Liberec, a. s.) domáhal vůči žalovanému (Fondu národního majetku České republiky) zaplacení částky 45.066.888,- Kč s příslušenstvím tvořeným sedmnáctiprocentním úrokem z prodlení za dobu od 25. května 1994 do zaplacení (bod I. výroku) a rozhodl o nákladech řízení (bod II. výroku).
+K odvolání žalobce Vrchní soud v Praze v záhlaví označeným rozsudkem potvrdil rozsudek soudu prvního stupně (první výrok) a rozhodl o nákladech odvolacího řízení (druhý výrok).
+Proti rozsudku odvolacího soudu podal žalobce dovolání, jehož přípustnost opírá o ustanovení § 237 odst. 1 písm. c/ zákona č. 99/1963 Sb., občanského soudního řádu (dále též jen „o. s. ř.“), ve znění účinném od 1. ledna 2001, namítaje, že je dán dovolací důvod uvedený v § 241a odst. 2 písm. b/ o. s. ř. a požaduje, aby Nejvyšší soud zrušil rozhodnutí soudů obou stupňů a věc vrátil soudu prvního stupně k dalšímu řízení.
+V průběhu dovolacího řízení ztratil žalovaný způsobilost být účastníkem řízení, přičemž na základě usnesení Nejvyššího soudu ze dne 11. prosince 2013, sp. zn. 29 Cdo 3748/2013, se jeho procesním nástupcem stala Česká republika - Ministerstvo financí,
+Podle bodu 17., hlavy první, části dvanácté, zákona č. 30/2000 Sb. dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona nebo vydaným po řízení provedeném podle dosavadních právních předpisů se projednají a rozhodnou podle dosavadních právních předpisů (tj. podle občanského soudního řádu ve znění účinném před 1. lednem 2001). O takový případ jde i v této věci, jelikož odvolací soud ve shodě s bodem 15., hlavy první, části dvanácté zákona č. 30/2000 Sb. odvolání rovněž projednal a rozhodl o něm (jak se výslovně podává z odůvodnění napadeného rozhodnutí) podle občanského soudního řádu ve znění účinném před 1. lednem 2001.
+Dovolání v této věci není přípustné.
+Přípustnost dovolání proti rozsudku upravují ustanovení § 237, § 238 a § 239 o. s. ř.
+Vady řízení ve smyslu § 237 odst. 1 o. s. ř., k nimž je dovolací soud povinen přihlížet z úřední povinnosti (§ 242 odst. 3 o. s. ř.) a jejichž existence činí zmatečným (s výjimkami zakotvenými v ustanovení § 237 odst. 2 o. s. ř.) každé rozhodnutí odvolacího soudu, dovoláním namítány nejsou a ze spisu se rovněž nepodávají. Podmínky stanovené v § 239 o. s. ř. daná věc také nesplňuje, neboť odvolací soud výrokem svého rozhodnutí přípustnost dovolání nevyslovil (odstavec 1) a žalobce v řízení o odvolání proti rozsudku ze dne 14. dubna 2000 návrh na vyslovení přípustnosti dovolání nepodal (odstavec 2). Podle § 238 odst. 1 písm. a/ o. s. ř. pak dovolání není přípustné proto, že rozsudek odvolacího soudu nebyl rozsudkem měnícím, nýbrž potvrzujícím a o případ podle § 238 odst. 1 písm. b/ o. s. ř. též nejde.
+Nejvyšší soud proto odmítl dovolání podle § 243b odst. 4 a § 218 odst. 1 písm. c/ o. s. ř. jako nepřípustné.
+Dovolatel z procesního hlediska zavinil, že dovolání bylo odmítnuto, u žalovaného však žádné prokazatelné náklady dovolacího řízení zjištěny nebyly. Této procesní situaci odpovídá ve smyslu ustanovení § 146 odst. 2 věty první (per analogiam), § 224 odst. 1 a § 243b odst. 4 o. s. ř. výrok o tom, že na náhradu nákladů dovolacího řízení nemá právo žádný z účastníků.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 12. prosince 2013
+JUDr. Zdeněk Krčmář
+předseda senátu
