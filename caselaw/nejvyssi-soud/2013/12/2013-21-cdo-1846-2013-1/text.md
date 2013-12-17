@@ -1,0 +1,13 @@
+21 Cdo 1846/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Jiřího Doležílka a soudců JUDr. Romana Fialy a JUDr. Ljubomíra Drápala v právní věci žalobce Ing. T. Z., zastoupeného JUDr. Tomášem Leuchterem, advokátem se sídlem v Praze 1, Na Poříčí č. 1079/3a, za účasti OPZ PLUS, a. s. se sídlem v Praze 1, Hradební č. 3, IČO 45274835, o zápis práva odpovídajícího věcnému břemenu do katastru nemovitostí vkladem, za účasti vedlejšího účastníka na straně OPZ PLUS, a. s., JUDr. Jiřiny Lužové, advokátky se sídlem v Praze 1, Dušní č. 22, jako správkyně konkurzní podstaty úpadce OPZ PLUS, a. s., vedené u Městského soudu v Praze pod sp. zn. 26 C 3/2011, o dovolání žalobce proti rozsudku Vrchního soudu v Praze ze dne 14. března 2013 č. j. 4 Co 91/2012-201, takto:
+I. Dovolání žalobce se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalobce proti rozsudku Vrchního soudu v Praze ze dne 14. 3. 2013 č. j. 4 Co 91/2012-201 není přípustné podle ustanovení § 237 o. s. ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu [srov. například rozsudek Nejvyššího soudu ze dne 23. 11. 2011 sp. zn. 21 Cdo 4044/2010, který byl uveřejněn pod č. 15 v časopise Soudní judikatura, roč. 2013, a v jehož odůvodnění byl vysloven názor, že při zkoumání podmínky vkladu práva uvedené v ustanovení § 5 odst. 1 písm. e) zákona č. 265/1992 Sb. (ve znění pozdějších předpisů) katastrální úřad (soud v řízení podle části páté občanského soudního řádu) přihlédne - podle stavu ke dni podání návrhu na vklad - k takovým právním skutečnostem, které mají vliv na oprávnění účastníků řízení nakládat s předmětem právního úkonu a které jsou současně evidentní a jejichž pominutí by představovalo jen vysoce formální postup, a nález Ústavního soudu ze dne 29. 11. 1999 sp. zn. IV. ÚS 211/98, který byl uveřejněn pod č. 170 ve Sbírce nálezů a usnesení Ústavního soudu, roč. 1999] a není důvod, aby rozhodná právní otázka byla posouzena jinak. V části, v níž žalobce uplatnil jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o. s. ř. (tj. v části, ve které zpochybňuje skutkové zjištění odvolacího soudu, že Ing. V. N. a P. N. nebyli v době podání návrhu na vklad členy představenstva OPZ PLUS, a. s.), dovolání trpí vadami, pro které nelze v dovolacím řízení pokračovat.
+Nejvyšší soud České republiky proto dovolání žalobce podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 17. prosince 2013
+JUDr. Jiří Doležílek
+předseda senátu
