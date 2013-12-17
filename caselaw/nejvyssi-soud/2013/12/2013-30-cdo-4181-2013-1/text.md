@@ -1,0 +1,19 @@
+30 Cdo 4181/2013
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy JUDr. Františka Ištvánka a soudců JUDr. Lubomíra Ptáčka, Ph.D., a JUDr. Pavla Simona ve věci žalobce B. V., proti žalované České republice - Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 16, o zaplacení 150.000,- Kč, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 10 C 292/2011, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 4. 10. 2013, č. j. 54 Co 444/2013-60, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Odvolací soud v záhlaví uvedeným usnesením potvrdil usnesení soudu prvního stupně, jímž byla zamítnuta žádost žalobce o ustanovení právního zástupce z řad advokátů pro dovolací řízení proti usnesení Městského soudu v Praze ze dne 17. 12. 2013.
+Proti tomuto usnesení odvolacího soudu podal žalobce dovolání, aniž byl zastoupen podle § 241 odst. 1 o. s. ř.
+Nejvyšší soud jakožto soud dovolací při projednání dovolání a rozhodnutí o něm postupoval podle občanského soudního řádu, ve znění účinném od 1. 1. 2013 (viz přechodné ustanovení čl. II, bod 7, zákona č. 404/2012 Sb.) - dále jen „o. s. ř.“
+Podle § 241 odst. 1 věty první o. s. ř. „Není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem.“ Povinné zastoupení dovolatele stanoví zákon pro dovolací řízení z toho důvodu, že sepis dovolání a zastoupení dovolatele v řízení o tomto mimořádném opravném prostředku, vyžaduje skutečně kvalifikovanou právní pomoc, neboť na dovolání klade zákon zvýšené požadavky jak formální, tak obsahové, obzvláště po novele dovolacího řízení účinné od 1. 1. 2013.
+Nejvyšší soud však nemohl přehlédnout, že v posuzované věci dovolání žalobce směřuje proti rozhodnutí odvolacího soudu, kterým žalobci nebyl ustanoven advokát pro dovolací řízení. V takovém případě by trvání na podmínce povinného zastoupení pro dovolací řízení, která je sama o sobě předmětem dovolacího řízení, vedlo k popření smyslu a cíle žalobcem podaného dovolání, a ve svém důsledku k popření práva žalobce na přístup k soudu. Povaha rozhodnutí, proti němuž dovolání směřuje, tak vylučuje, aby bylo možno dovolací řízení pro nedostatek podmínky povinného zastoupení zastavit dle ustanovení § 241b odst. 2 o. s. ř. ve spojení s ustanovením § 104 odst. 2 o. s. ř. (viz též usnesení Nejvyššího soudu ze dne 26. 11. 2013, sp. zn. 30 Cdo 3465/2013, dostupné též na internetových stránkách Nejvyššího soudu, www.nsoud.cz).
+Dovolací soud proto přistoupil k dovolacímu přezkumu, jehož předmětem měl být závěr odvolacího soudu o tom, že žalobce právo na ustanovení zástupce nemá, přestože není zastoupen advokátem ani sám nemá právnické vzdělání.
+Podle § 241a odst. 1 o. s. ř. „Dovolání lze podat pouze z důvodu, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci.“
+Podle § 241a odst. 2 o. s. ř. „V dovolání musí být vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu se rozhodnutí napadá, vymezení důvodu dovolání, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) a čeho se dovolatel domáhá (dovolací návrh).“
+Dovolání žalobce však zákonem vyžadované náležitosti nesplňuje, neboť dovolatel neuvedl, v čem spatřuje splnění předpokladů přípustnosti dovolání ani nevymezil důvody dovolání, a po obsahové stránce vůbec neuvedl, v čem by mělo spočívat nesprávné právní posouzení věci odvolacím soudem, respektive proč mu dle jeho názoru měl být ustanoven zástupce.
+Nejvyšší soud proto dovolání podle § 243c odst. 1 o. s. ř. odmítl, neboť trpí vadami, pro něž nelze v dovolacím řízení pokračovat, a tyto vady nebyly dovolatelem odstraněny (§ 241b odst. 3 o. s. ř. a § 243b o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 17. prosince 2013
+JUDr. František Ištvánek
+předseda senátu
