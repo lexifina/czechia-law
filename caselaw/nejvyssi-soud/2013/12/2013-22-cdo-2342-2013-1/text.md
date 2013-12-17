@@ -1,0 +1,23 @@
+22 Cdo 2342/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jiřího Spáčila, CSc., a soudců Mgr. Michala Králíka, Ph.D., a Mgr. Davida Havlíka ve věci žalobců: a) J. B., a b) J. B., B., zastoupených JUDr. Alešem Pillerem, advokátem se sídlem v Brně, Veselá 237/37, proti žalovaným: 1) J. J., a 2) D. J., P., zastoupeným JUDr. Jiřím Kozákem, advokátem se sídlem v Pelhřimově, Příkopy 25, o určení vlastnického práva k pozemku, vedené u Okresního soudu v Pelhřimově pod sp. zn. 4 C 126/2011, o dovolání žalobců proti rozsudku Krajského soudu v Českých Budějovicích – pobočka v Táboře ze dne 31. ledna 2013, č. j. 15 Co 860/2012-188, takto:
+I. Dovolání se odmítá.
+II. Žalobci jsou povinni zaplatit společně a nerozdílně žalovaným na nákladech dovolacího řízení 3.630,- Kč do tří dnů od právní moci tohoto usnesení k rukám advokáta JUDr. Jiřího Kozáka.
+O d ů v o d n ě n í:
+Okresní soud v Pelhřimově („soud prvního stupně“) rozsudkem ze dne 20. září 2012, č. j. 4 C 126/2011-161, zamítl návrh na určení, že žalobci manželé J. a J. B. mají ve společném jmění manželů nemovitost parc. č. 175/2 – zastavěná plocha a nádvoří o výměře 32 m2, v k. ú. H. C., tak jak je tento pozemek označený v geometrickém plánu č. 647-7/2006, ze dne 15. 2. 2006, zpracovaném Ing. Marcelem Sedláčkem. Dále soud rozhodl o náhradě nákladů řízení.
+Krajský soud v Českých Budějovicích – pobočka v Táboře jako soud odvolací k odvolání žalobců rozsudkem ze dne 31. ledna 2013, č. j. 15 Co 860/2012-188, rozsudek soudu prvního stupně ve věci samé potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Proti rozsudku odvolacího soudu podávají žalobci dovolání, jehož přípustnost opírají o § 237 občanského soudního řádu („o. s. ř.“) a uplatňují dovolací důvod uvedený v § 241a o. s. ř.
+Obsah rozsudků soudů obou stupňů, obsah dovolání i vyjádření, které k němu bylo podáno, jsou účastníkům známy, a proto na ně dovolací soud pro stručnost odkazuje.
+Nejvyšší soud projednal a rozhodl o dovolání podle zákona č. 99/1963 Sb. ve znění novely provedené zákonem č.404/2012 Sb., účinné od 1. 1. 2013 (dále jen „o. s. ř.“).
+Dovolání není přípustné.
+Podle § 237 o. s. ř. není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak. V dané věci dovolání přípustné není.
+Podle § 241a odst. 1 o. s. ř. dovolání lze podat pouze z důvodu, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci; z toho vplývá, že v dovolání nelze uplatňovat skutkové námitky; občanský soudní řád již neupravuje dovolací důvod, že rozhodnutí odvolacího soudu nemá v podstatné části oporu v provedeném dokazování. Dovolací soud tak musí vycházet ze skutkového stavu zjištěného soudy v nalézacím řízení.
+V dovolání musí být vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu se rozhodnutí napadá, vymezení důvodu dovolání, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) a čeho se dovolatel domáhá (dovolací návrh). Důvod dovolání se vymezí tak, že dovolatel uvede právní posouzení věci, které pokládá za nesprávné, a že vyloží, v čem spočívá nesprávnost tohoto právního posouzení.
+V dané věci dovolatel výslovně nevymezil právní posouzení věci, které pokládá za nesprávné, a nevyložil, v čem spočívá nesprávnost tohoto právního posouzení; uvedl pouze, že „bez provedeného úplného dokazování se odvolací soud dopustil nesprávného právního posouzení věci“. Dovolání tak spočívá v polemice s hodnocením důkazů, resp. s postupem soudu při dokazování; jde tedy v podstatě o uplatnění dovolacího důvodu, odpovídajícího § 241a odst. 3 o. s. ř. ve znění před novelou provedenou zákonem č.404/2012 Sb., tedy o nepřípustné námitky proti skutkovým zjištěním. Ani z obsahu dovolání se nepodává právní otázka, která by měla podrobena dovolacímu přezkumu.
+Vzhledem k tomu, že dovolání v dané věci není přípustné, dovolací soud je podle § 243c odst. 2 a § 218 písm. c) o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+Nesplní-li žalobci dobrovolně povinnost uloženou jim tímto rozhodnutím, mohou žalovaní podat návrh na výkon rozhodnutí.
+V Brně dne 17. prosince 2013
+JUDr. Jiří Spáčil, CSc.
+předseda senátu
