@@ -1,0 +1,14 @@
+33 Cdo 3530/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudkyň JUDr. Ivany Zlatohlávkové a JUDr. Blanky Moudré ve věci žalobce Mgr. J. M., advokáta se sídlem v Kladně, Pekařská 658, zastoupeného Mgr. Evou Veltrubskou, advokátkou se sídlem v Kladně, Pekařská 658, proti žalovanému D. A., zastoupenému JUDr. Robertem Matasem, advokátem se sídlem v Praze 1, Masarykovo nábřeží 247/14, o 84.288,- Kč s příslušenstvím, vedené u Okresního soudu v Berouně pod sp. zn. 118 C 39/2011, o dovolání žalobce proti rozsudku Krajského soudu v Praze ze dne 28. 3. 2013, č.j. 19 Co 14/2013-217, takto :
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Nejvyšší soud dovolání žalobce proti rozsudku Krajského soudu v Praze ze dne 28. 3. 2013, č.j. 19 Co 14/2013-217, podle § 243c odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném od 1. 1. 2013 (viz čl. II., bod 1 zák. č. 404/2012 Sb., dále jen „o.s.ř.“), odmítl, neboť neobsahuje náležitosti vyžadované § 241a odst. 2 o.s.ř., přičemž tuto vadu, pro niž nelze v dovolacím řízení pokračovat, žalobce včas (po dobu trvání lhůty k dovolání) neodstranil (§ 241b odst. 3 o.s.ř.). Konkrétně dovolání neobsahuje řádnou specifikaci údajů o tom, v čem žalobce spatřuje splnění předpokladů přípustnosti dovolání, tedy které z hledisek uvedených v ustanovení § 237 o.s.ř. považuje za splněné.
+Žalobce vycházel ve svém dovolání z nesprávného očekávání, že věc bude posuzována podle občanského soudního řádu ve znění účinném do 31. 12. 2012. Uvádí, že „napadené rozhodnutí má po právní stránce zásadní význam ve smyslu ustanovení § 237 odst. 1 písm. c/ o.s.ř.“ a že „odvolací soud věc nesprávně právně posoudil podle ustanovení § 241a odst. 2 písm. b/ o.s.ř.“, přičemž obě ustanovení, na která odkazuje, občanský soudní řád ve znění účinném od 1. 1. 2013 již nezná. V důsledku nesprávné domněnky o použití občanského soudního řádu ve znění účinném do 31. 12. 2012 žalobce předpoklady přípustnosti taxativně uvedené v § 237 o.s.ř. řádně nevymezil.
+Nad rámec uvedeného je nutné konstatovat, že předpoklady přípustnosti dovolání podle § 237 o.s.ř. nejsou splněny i proto, že žalobce podle obsahu dovolání (§ 41 odst. 2 o.s.ř.) ve skutečnosti neuplatnil důvod nesprávného právního posouzení věci (§ 241a odst. 1 o.s.ř.). V dovolání uplatněné námitky totiž směřují proti správnosti skutkového zjištění, na němž soudy obou stupňů právní posouzení věci založily, a vytýkají vady, jež mohly mít za následek nesprávné rozhodnutí ve věci.
+Výrok o náhradě nákladů dovolacího řízení nemusí být odůvodněn (§ 243f odst. 3, věta druhá, o.s.ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 18. prosince 2013
+JUDr. Pavel Krbek
+předseda senátu
