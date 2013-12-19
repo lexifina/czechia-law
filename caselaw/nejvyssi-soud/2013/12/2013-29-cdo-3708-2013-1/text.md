@@ -1,0 +1,19 @@
+29 Cdo 3708/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudců JUDr. Jiřího Zavázala a JUDr. Petra Šuka v právní věci žalobce J. J., zastoupeného JUDr. Oldřichem Voženílkem, advokátem, se sídlem v Rumburku, U Jiskry 114/1, PSČ 408 01, proti žalovanému J. V., zastoupenému Mgr. Michalem Krčmou, advokátem, se sídlem v Praze 2, Malá Štěpánská 1932/3, PSČ 120 00, o zaplacení 40.000,- Kč s postižními právy ze směnky, vedené u Krajského soudu v Praze pod sp. zn. 47 Cm 51/2003, o dovolání žalobce proti usnesení Vrchního soudu v Praze ze dne 22. května 2013, č. j. 5 Cmo 189/2013-15, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Vrchní soud v Praze k odvolání žalovaného usnesením ze dne 22. května 2013, č. j. 5 Cmo 189/2013-15, změnil ve výroku o náhradě nákladů řízení směnečný platební rozkaz ze dne 25. března 2013, č. j. 47 Cm 51/2003-7, jímž Krajský soud v Praze uložil žalovanému zaplatit žalobci částku 40.000,- Kč se 6 % úrokem od 7. června 2012 do zaplacení, směnečnou odměnu 133,- Kč a náklady řízení ve výši 15.240,- Kč, tak, že žádnému z účastníků nepřiznal právo na náhradu nákladů řízení (první výrok) a uložil žalobci nahradit žalovanému náklady odvolacího řízení ve výši 4.710,- Kč (druhý výrok).
+Proti usnesení odvolacího soudu podal žalobce dovolání, které má za přípustné podle ustanovení § 237 zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), namítaje nesprávnou aplikaci ustanovení § 142a odst. 1 o. s. ř. ve vazbě na ustanovení § 175 odst. 1 o. s. ř. a požaduje, aby Nejvyšší soud rozhodnutí odvolacího soudu změnil a náhradu nákladů řízení před soudy obou stupňů dovolateli přiznal.
+Žalovaný navrhuje, aby Nejvyšší soud dovolání odmítl, popř. jako nedůvodné zamítl.
+Nejvyšší soud dovolání žalobce podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Podle ustanovení § 237 o. s. ř., není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+Podle ustanovení § 238 odst. 1 písm. d) o. s. ř., dovolání podle § 237 není přípustné proti rozsudkům a usnesením, v nichž dovoláním napadeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50.000,- Kč, ledaže jde o vztahy ze spotřebitelských smluv, o pracovněprávní vztahy nebo o věci uvedené v § 120 odst. 2 o. s. ř.; k příslušenství pohledávky se přitom nepřihlíží.
+O tom, že v poměrech projednávané věci dovoláním napadenými výroky usnesení odvolacího soudu bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50.000,- Kč, pochyb není (k tomu srov. usnesení Nejvyššího soudu ze dne 30. května 2013, sp. zn. 29 Cdo 1172/2013, uveřejněné pod číslem 80/2013 Sbírky soudních rozhodnutí a stanovisek).
+Výrok o nákladech dovolacího řízení se opírá o ustanovení § 243c odst. 3, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalobce bylo odmítnuto a žalovanému podle obsahu spisu v dovolacím řízení účelně vynaložené náklady nevznikly.
+Byť žalovaný podal vyjádření k dovolání, které (obecně vzato) je ve smyslu ustanovení § 11 odst. 1 písm. k/ vyhlášky č. 177/1996 Sb., o odměnách advokátů a náhradách advokátů za poskytování právních služeb (advokátní tarif), úkonem právní služby, z obsahu zmíněného podání neplynou – z hlediska důvodů, pro které Nejvyšší soud dovolání žalobce odmítl – žádné právně významné skutečnosti.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 19. prosince 2013
+JUDr. Petr Gemmel
+předseda senátu
