@@ -1,0 +1,20 @@
+22 Cdo 4416/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Jiřím Spáčilem, CSc., ve věci žalobců: a) L. D., a b) P. D., zastoupených JUDr. Ondřejem Mörtlem, advokátem se sídlem v Milevsku, Masarykova 186, za účasti MUDr. J. K., jako vedlejšího účastníka na straně žalobců, zastoupeného Mgr. Martinem Kašparem, advokátem se sídlem v Praze 8, Nad Šutkou 1811, proti žalované M. T., zastoupené JUDr. Tatianou Poupovou, advokátkou se sídlem v Praze 4, Antala Staška 80, o odstranění stavby a vyslovení povinnosti zdržet se užívání pozemku, vedené u Okresního soudu Praha-západ pod sp. zn. 10 C 176/2008, o dovolání vedlejšího účastníka proti rozsudku Krajského soudu v Praze ze dne 10. července 2013, č. j. 25 Co 324/2012-247, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í
+(§ 243f odst. 3 o. s. ř.):
+Krajský soud v Praze jako soud odvolací k odvolání žalované rozsudkem ze dne 10. července 2013, č. j. 25 Co 324/2012-247, změnil rozsudek Okresního soudu Praha-západ ze dne 12. září 2011, č. j. 10 C 176/2008-154, tak, že zamítl žalobu, kterou se žalobci domáhali stanovení povinnosti žalované odstranit z pozemku žalobců parc. č. 2701/8 zapsaného v katastru nemovitostí u Katastrálního úřadu pro Středočeský kraj, katastrální pracoviště Praha-západ na LV č. 2667 pro obec a katastrální území Č., oplocení s podezdívkou, a kterou se dále domáhali zdržení se užívání tohoto pozemku žalovanou. Dále rozhodl o náhradě nákladů řízení před soudy obou stupňů.
+Proti rozsudku odvolacího soudu podává vedlejší účastník na straně žalobců dovolání, jehož přípustnost opírá o § 237 občanského soudního řádu („o. s. ř.“) a uplatňuje dovolací důvod uvedený v § 241a odst. 1 o. s. ř.
+Nejvyšší soud rozhodl o dovolání podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění novely provedené zákonem č. 404/2012 Sb., která nabyla účinnosti 1. 1. 2013, neboť dovolání bylo podáno proti rozsudku odvolacího soudu vydanému po tomto datu (č. II bod 1 zákona č. 404/2012 Sb.).
+Dovolání není přípustné.
+Dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští (§ 236 odst. 1 o. s. ř.).
+Podle ustanovení § 93 odst. 3 o. s. ř. má vedlejší účastník v řízení stejná práva a povinnosti jako účastník. Jedná však toliko sám za sebe. Jestliže jeho úkony odporují úkonům účastníka, kterého v řízení podporuje, posoudí je soud po uvážení všech okolností.
+Vedlejší účastník má podle této úpravy zásadně stejná práva a povinnosti jako účastník řízení a jeho postavení se odvíjí od účastníka, na jehož podporu vystupuje; není však oprávněn provádět úkony znamenající dispozici s řízením, s předmětem řízení nebo s úkony, které učinil sám účastník. Zákon přitom neuvádí, zda je vedlejší účastník oprávněn podat dovolání. Vzhledem k tomu, že v zákoně je výslovně upravena legitimace vedlejšího účastníka pouze k podání odvolání, žaloby na obnovu řízení a žaloby pro zmatečnost, při současném vymezení podmínek, za nichž může tyto opravné prostředky uplatnit (§ 203 odst. 1 a § 231 odst. 1 o. s. ř.), zatímco o oprávnění vedlejšího účastníka podat dovolání zákon nic neuvádí, je třeba dovodit, že zákon vedlejšímu účastníku oprávnění podat dovolání nepřiznává. V tomto směru Nejvyšší soud odkazuje na usnesení ze dne 27. května 2004, sp. zn. 25 Cdo 162/2003, uveřejnění pod číslem 3/2004 ve Sbírce soudních rozhodnutí a stanovisek, a tento výklad je zastáván i v právní teorii (Bureš, J., Drápal, L., Mazanec, M.: Občanský soudní řád, komentář, 5. Vydání, Praha C. H. Beck, 2001, s. 995, bod 2.).
+V posuzované věci podal dovolání vedlejší účastník na straně žalobců, tedy osoba, která k tomu není oprávněná. Dovolání tedy není přípustné, proto je dovolací soud podle § 243c odst. 1 a § 218 písm. b) a 243f odst. 2 o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení vychází z § 243c odst. 3, § 224 odst. 1 a § 146 odst. 3 o. s. ř. a je odůvodněn tím, že žalované v dovolacím řízení náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 9. ledna 2014
+JUDr. Jiří S p á č i l, CSc.
+předseda senátu
