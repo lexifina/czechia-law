@@ -1,0 +1,14 @@
+21 Cdo 3384/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Jiřího Doležílka a soudců JUDr. Zdeňka Novotného a JUDr. Ljubomíra Drápala v právní věci žalobce R. V., zastoupeného Mgr. Marcelou Valtrovou, advokátkou se sídlem v Praze 2 – Vinohradech, Rubešova č. 83/10, proti žalovanému MEDARD Active, s. r. o. se sídlem v Božím Daru č. 49E, IČO 29092281, zastoupenému Mgr. Romanem Bělohlavým, advokátem se sídlem v Karlových Varech, Moskevská č. 1461/66, o určení neplatnosti rozvázání pracovního poměru, eventuelně o určení, že pracovní poměr trvá, vedené u Okresního soudu v Karlových Varech pod sp. zn. 13 C 229/2011, o dovolání žalobce proti rozsudku Krajského soudu v Plzni ze dne 30. dubna 2013 č. j. 14 Co 280/2012-104, takto:
+I. Dovolání žalobce se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalobce proti rozsudku Krajského soudu v Plzni ze dne 30. 4. 2013 č. j. 14 Co 280/2012-104 není přípustné podle ustanovení § 237 o. s. ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu (k závěru odvolacího soudu, že na základě žaloby o určení, že pracovní poměr mezi žalobcem a žalovaným trvá, nelze posuzovat otázku platnosti okamžitého zrušení pracovního poměru dopisem žalovaného ze dne 16. 2. 2012, srov. například rozsudek Nejvyššího soudu ze dne 29. 8. 2001 sp. zn. 21 Cdo 1618/2000, publikovaný ve Sbírce soudních rozhodnutí a stanovisek pod č. 51/2002, a k závěru odvolacího soudu, že činnost ředitele žalovaného, která byla „v zásadě shodná“ s činností jednatele žalovaného, nemohl žalobce vykonávat v pracovním poměru, srov. například rozsudek Vrchního soudu v Praze ze dne 21. 4. 1993 sp. zn. 6 Cdo 108/92, který byl uveřejněn pod č. 13 ve Sbírce soudních rozhodnutí a stanovisek, roč. 1995, nebo rozsudek Nejvyššího soudu ze dne 29. 9. 2004 sp. zn. 21 Cdo 894/2004) a není důvod, aby rozhodné právní otázky byly posouzeny jinak.
+Vytýká-li žalobce odvolacímu soudu nesprávnost skutkového zjištění o shodné povaze činností žalobce jako jednatele a ředitele žalovaného a namítá-li, že odvolací soud se v odůvodnění rozsudku nevypořádal se všemi námitkami uplatněnými v odvolání žalobce, že jej nepoučil podle ustanovení § 118a odst. 2 a § 213b o. s. ř. a že neprovedl důkazy navržené žalobcem k prokázání odlišnosti činností jednatele a ředitele žalovaného, uplatňuje tím jiné dovolací důvody než ten, který je uveden v ustanovení § 241a odst. 1 o. s. ř., a v dovolacím řízení nelze pro tento nedostatek pokračovat.
+Nejvyšší soud České republiky proto dovolání žalobce podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 9. ledna 2014
+JUDr. Jiří Doležílek
+předseda senátu
