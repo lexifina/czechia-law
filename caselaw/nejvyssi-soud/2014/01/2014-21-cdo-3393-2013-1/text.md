@@ -1,0 +1,11 @@
+21 Cdo 3393/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Ljubomírem Drápalem v právní věci žalobce P. L., zastoupeného JUDr. Michalem Kačmaříkem, advokátem se sídlem v Ostravě, Poštovní č. 2, za účasti 1) A. H. a 2) Statutárního města Ostravy se sídlem v Ostravě, Prokešovo náměstí č. 8, o vyvlastnění nemovitostí, vedené u Krajského soudu v Ostravě pod sp. zn. 23 C 33/2012, o dovolání žalobce proti rozsudku Vrchního soudu v Olomouci ze dne 19. června 2013 č.j. 1 Co 167/2013-81, takto:
+Dovolání žalobce se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Nejvyšší soud České republiky dovolání žalobce proti rozsudku Vrchního soudu v Olomouci ze dne 19.6.2013 č.j. 1 Co 167/2013-81, jímž byl potvrzen rozsudek Krajského soudu v Ostravě ze dne 15.3.2013 č.j. 23 C 33/2012-56 o zamítnutí žaloby "v části, kterou se žalobce domáhá zamítnutí návrhu vyvlastnitele Statutárního města Ostravy na vyvlastnění nemovitostí, a to: části pozemku p.č. 191/1 - vodní plocha, nově označeného jako pozemek p.č. 191/4 - vodní plocha, části pozemku p.č. 191/2 - orná půda, nově označeného jako pozemek p.č. 191/6 - orná půda, části pozemku p.č. 195/12 - orná půda, nově označeného jako pozemek p.č. 195/12 - orná půda, vše v katastrálním území N. v. u O., v podílovém spoluvlastnictví žalobce P. L. v rozsahu podílu 1/2 a A. H. v rozsahu podílu 1/2", podle ustanovení § 243c odst. 1 věty první o.s.ř. - při vědomí toho, že předmětem řízení není spoluvlastnický podíl A. H. na uvedených nemovitostech, neboť A. H. žalobu nepodal a žalobou podanou P. L. není dotčeno rozhodnutí o vyvlastnění spoluvlastnického podílu A. H. na uvedených nemovitostech - odmítl, neboť v něm byl uplatněn jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o.s.ř., a v dovolacím řízení nelze pro tento nedostatek pokračovat.
+Protože tímto rozhodnutím dovolacího soudu se řízení o věci nekončí, bude rozhodnuto i o náhradě nákladů vzniklých v tomto dovolacím řízení v konečném rozhodnutí soudu prvního stupně, popřípadě soudu odvolacího (§ 243b, § 151 odst. 1 o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 10. ledna 2014
+JUDr. Ljubomír Drápal
+předseda senátu
