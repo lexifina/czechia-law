@@ -1,0 +1,13 @@
+21 Cdo 3944/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Jiřího Doležílka a soudců JUDr. Zdeňka Novotného a JUDr. Ljubomíra Drápala v právní věci žalobkyň a) L. B., b) O. P., c) J. P., a d) A. G., všech zastoupených Mgr. Romanou Mrózkovou, advokátkou se sídlem v Havířově - Městě, Národní třída č. 856/1, proti žalovanému J. K., zastoupenému Mgr. Lukášem Kratochvílem, advokátem se sídlem v Ostravě – Moravské Ostravě, Solná č. 1472/5, o mzdu a odstupné, vedené u Okresního soudu v Karviné pod sp. zn. 24 C 83/2011, o dovolání žalobkyň proti usnesení Krajského soudu v Ostravě ze dne 26. června 2013 č. j. 16 Co 123/2013-75, takto:
+I. Dovolání žalobkyň se odmítá.
+II. Každá žalobkyně je povinna zaplatit žalovanému na náhradě nákladů dovolacího řízení 847,- Kč do tří dnů od právní moci tohoto usnesení k rukám Mgr. Lukáše Kratochvíla, advokáta se sídlem v Ostravě – Moravské Ostravě, Solná č. 1472/5.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalobkyň proti usnesení Krajského soudu v Ostravě ze dne 26. 6. 2013 č. j. 16 Co 123/2013-75, kterým byl změněn rozsudek Okresního soudu v Karviné ze dne 21. 3. 2013 č. j. 24 C 83/2011-63 ve výroku o náhradě nákladů řízení tak, že žalobkyně jsou povinny zaplatit žalovanému na náhradě nákladů řízení před soudem prvního stupně částky 16.100,- Kč [žalobkyně a)], 16.550,- Kč [žalobkyně b)], 16.860,- Kč [žalobkyně c)] a 17.480,- Kč [žalobkyně d)], a kterým bylo každé žalobkyni uloženo zaplatit žalovanému na náhradě nákladů odvolacího řízení 1.240,- Kč, není vzhledem k ustanovení § 238 odst. 1 písm. d) o. s. ř. přípustné, protože směřuje proti usnesení odvolacího soudu, kterým bylo ve vztahu ke každé žalobkyni rozhodnuto o peněžitém plnění nepřevyšujícím 50.000,- Kč (tento limit je třeba posuzovat u každé žalobkyně samostatně, neboť v tomto řízení jedná každá z nich sama za sebe ve smyslu ustanovení § 91 odst. 1 o. s. ř.), a protože peněžité plnění přiznané výrokem o náhradě nákladů řízení nelze označit pro účely posouzení přípustnosti dovolání za plnění z pracovněprávního vztahu, o který šlo ve věci samé, neboť ve výroku o náhradě nákladů řízení se zvláštní povaha tohoto vztahu dovolující prolomení stanoveného limitu nijak neprojevuje (srov. též odůvodnění usnesení Nejvyššího soudu ze dne 30. 5. 2013 sp. zn. 29 Cdo 1172/2013).
+Nejvyšší soud České republiky proto dovolání žalobkyň podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 21. ledna 2014
+JUDr. Jiří Doležílek
+předseda senátu
