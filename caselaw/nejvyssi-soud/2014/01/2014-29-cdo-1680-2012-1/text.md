@@ -1,0 +1,16 @@
+29 Cdo 1680/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudců JUDr. Jiřího Zavázala a JUDr. Petra Šuka v právní věci žalobkyně Frenn Trading B. V., se sídlem v Nizozemí, Aarle-Rixtelseweg 14, 5707 GL Helmond, registrační číslo 16039519, zastoupené prof. JUDr. Miroslavem Bělinou, CSc., advokátem, se sídlem v Praze 8, Pobřežní 370/4, PSČ 186 00, proti žalovaným 1) Ing. arch. P. S., a 2) Ing. arch. H. S., oběma zastoupeným JUDr. Evou Doležalovou, advokátkou, se sídlem v Trutnově, Horská 888, PSČ 541 01, o námitkách proti směnečnému platebnímu rozkazu, vedené u Krajského soudu v Hradci Králové pod sp. zn. 34 Cm 42/2008, o dovolání žalovaných proti rozsudku Vrchního soudu v Praze ze dne 17. března 2011, č. j. 5 Cmo 417/2010-296, takto:
+I. Dovolací řízení se zastavuje.
+II. Žalovaní jsou povinni zaplatit žalobkyni na náhradu nákladů dovolacího řízení společně a nerozdílně částku 81.021,60 Kč do tří dnů od právní moci tohoto usnesení, k rukám jejího zástupce.
+Odůvodnění:
+Proti v záhlaví označenému rozsudku Vrchního soudu v Praze podali žalovaní dovolání, které podáním ze dne 13. prosince 2013, došlým Nejvyššímu soudu 7. ledna 2014, vzali zpět.
+Nejvyšší soud vzhledem k výše uvedenému dispozitivnímu úkonu dovolatelů dovolací řízení podle ustanovení § 243b odst. 5 věty druhé zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“) zastavil.
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. a § 146 odst. 2 věty první o. s. ř., když vzhledem k dispozitivnímu úkonu žalovaných bylo dovolací řízení zastaveno a žalobkyni tak vzniklo vůči žalovaným právo na náhradu nákladů dovolacího řízení. Ty v daném případě sestávají z mimosoudní odměny za zastoupení advokátem za jeden úkon právní služby (vyjádření k dovolání datované 22. července 2011), která podle ustanovení § 7 bodu 7, § 8 odst. 1 a § 11 odst. 1 písm. k) vyhlášky Ministerstva spravedlnosti č. 177/1996 Sb., o odměnách advokátů a náhradách advokátů za poskytování právních služeb (advokátní tarif), ve znění účinném do 31. prosince 2012, činí z tarifní hodnoty ve výši 55,870.562,91 Kč [směnečná suma (32,355.244,35 Kč) + kapitalizovaný 6% úrok od 1. července 1999 do 22. července 2011 (23,407.467,76 Kč) + 107.850,80 Kč (směnečná odměna)] částku 66.660,- Kč, dále z paušální částky náhrady hotových výdajů ve výši 300,- Kč za jeden úkon právní služby (§ 13 odst. 3 advokátního tarifu) a z náhrady za 21% daň z přidané hodnoty (§ 137 odst. 1 a 3 o. s. ř.) a celkem činí 81.021,60 Kč.
+K určení výše odměny za zastupování advokátem podle advokátního tarifu srov. důvody rozsudku velkého senátu občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne 15. května 2013, sp. zn. 31 Cdo 3043/2010, uveřejněného pod číslem 73/2013 Sbírky soudních rozhodnutí a stanovisek.
+Rozhodné znění občanského soudního řádu pro dovolací řízení (do 31. prosince 2012) se podává z bodu 7, části první, článku II. zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve v znění pozdějších předpisů, některé další zákony.
+Proti tomuto usnesení není přípustný opravný prostředek.
+Nesplní-li povinní dobrovolně, co jim ukládá vykonatelné rozhodnutí, může se oprávněná domáhat výkonu rozhodnutí.
+V Brně 22. ledna 2014
+JUDr. Petr Gemmel
+předseda senátu
