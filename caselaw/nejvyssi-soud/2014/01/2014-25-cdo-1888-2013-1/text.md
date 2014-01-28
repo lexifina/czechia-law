@@ -1,0 +1,13 @@
+25 Cdo 1888/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Vojtka a soudců JUDr. Roberta Waltra a Mgr. Miloše Póla, v právní věci žalobkyně DME, a. s., se sídlem v Praze 9, V Soudním 774, IČO 25099825, zastoupené JUDr. Pavlem Sedláčkem, advokátem, se sídlem v Praze 1, Dlouhá 16, proti žalované ABLO Property, s. r. o., se sídlem v Praze 5, Štefánikova 248/32, IČO 26424886, zastoupené Mgr. Jiřím Fialou, advokátem, se sídlem v Praze 1, Jungmannova 24, o 3.042.431,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 22 C 261/2007 o dovolání žalobkyně proti rozsudku Městského soudu v Praze ze dne 14. 3. 2013, č. j. 20 Co 3/2013-236, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalobkyně proti rozsudku Městského soudu v Praze ze dne 14. 3. 2013, č. j. 20 Co 3/2013-236, není přípustné podle ustanovení § 237 o.s.ř., neboť uplatněné námitky nesměřují proti otázce hmotného nebo procesního práva, na jejímž vyřešení závisí napadené rozhodnutí. Dovolatelka pouze prezentuje vlastní interpretaci vztahu příčinné souvislosti mezi škodou, která jí vznikla, a tvrzeným konáním či opomenutím žalované. Neuplatňuje tak dovolací důvod týkající se řešení otázky právní, nýbrž skutkového zjištění, na němž jsou závěry odvolacího soudu postaveny (srov. např. rozsudek Nejvyššího soudu ze dne 21. 2. 2022, sp. zn. 21 Cdo 300/2001, publikovaný pod C 1025 v Souboru rozhodnutí Nejvyššího soudu, nebo rozsudek Nejvyššího soudu ze dne 6. 11. 2007, sp. zn. 25 Cdo 3334/2006). S námitkami dovolatelky k posouzení otázky porušení právní povinnosti (většinou rekapitulují námitky již dříve uplatněné) se soudy obou stupňů dostatečně vypořádaly, aniž by se odchýlily od rozhodovací praxe Nejvyššího soudu či od jeho předchozího rozhodnutí v této věci pod sp. zn. 25 Cdo 3907/2009. Ostatně není-li prokázána příčinná souvislost mezi tvrzenou škodou a činností škůdce, není právní kvalifikace škodné události pro rozhodnutí významná (srov. usnesení Nejvyššího soudu ze dne 28. 8. 2013, sp. zn. 25 Cdo 119/2012).
+Nejvyšší soud proto dovolání žalobkyně podle § 243c odst. 1 věty první o.s.ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení nemusí být odůvodněn (§ 243f odst. 3 věta druhá o. s. ř.), lze k němu jen dodat, že náklady spojené s podáním vyjádření, jehož argumentace je ve vztahu k výsledku řízení bez významu, nelze pokládat za účelné.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 28. ledna 2014
+JUDr. Petr Vojtek
+předseda senátu
