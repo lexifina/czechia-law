@@ -1,0 +1,17 @@
+30 Cdo 3656/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Simona a soudců JUDr. Františka Ištvánka a JUDr. Lubomíra Ptáčka, Ph.D., ve věci žalobců a) K. C. a b) E. C., zastoupených JUDr. Radomírem Šimáčkem, advokátem se sídlem v Klatovech, Vídeňská 9, proti žalované České republice - Ministerstvu financí ČR, se sídlem v Praze 1, Letenská 15, jednající Úřadem pro zastupování státu ve věcech majetkových, se sídlem v Praze 2, Rašínovo nábřeží 42, o zaplacení částky 1.352.896,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 18 C 233/2009, o dovolání žalobců proti rozsudku Městského soudu v Praze ze dne 10. 4. 2013, č. j. 18 Co 102/2013-166, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalobci se domáhali částky 1.352.896,- Kč s příslušenstvím jako náhrady škody vzniklé nesprávným úředním postupem a nezákonným rozhodnutím žalované. Škoda měla žalobcům vzniknout, když zakoupili nemovitost, která byla později v restituci vydána jiným osobám.
+Soud prvního stupně rozhodl mezitimním rozsudkem ze dne 26. 10. 2012, č. j. 18 C 233/2009-142, že podaná žaloba je co do svého základu důvodná. Odvolací soud napadeným rozhodnutím změnil rozsudek soudu prvního stupně tak, že žalobu zamítl.
+Rozsudek odvolacího soudu napadli žalobci v celém jeho rozsahu dovoláním, jež však Nejvyšší soud shledal nepřípustným a jako takové je odmítl podle ustanovení § 243c odst. 1 zák. č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2013 - viz čl. II bod 7. zákona č. 404/2012 Sb. (dále jen „o. s. ř.“).
+Odvolací soud založil napadené rozhodnutí především na názoru, že stát za škodu vzniklou žalobcům neodpovídá, neboť odpovědnost státu nastupuje subsidiárně až v případě, kdy by žalobci nebyli úspěšní se svým nárokem proti osobám, které se na jejich úkor přímo obohatily. V této otázce, kterou učinili žalobci předmětem svého dovolání, odpovídá napadený rozsudek ustálené judikatuře Nejvyššího soudu, na níž nemá Nejvyšší soud důvod cokoli měnit (srov. usnesení Nejvyššího soudu ze dne 4. 11. 2004, sp. zn. 25 Cdo 1404/2004 a rozsudek Nejvyššího soudu ze dne 25. 8. 2010, sp. zn. 25 Cdo 2601/2010, uveřejněný pod číslem 48/2011 Sbírky soudních rozhodnutí a stanovisek, nebo rozsudek Nejvyššího soudu ze dne 2. 5. 2012, sp. zn. 28 Cdo 1512/2011 - rozhodnutí Nejvyššího soudu jsou dostupná veřejnosti na webových stránkách Nejvyššího soudu www.nsoud.cz).
+Pro úplnost Nejvyšší soud dodává, že obava žalobců z aplikace § 457 zákona č. 40/1964 Sb., občanský zákoník, je lichá (srov. rozsudek Nejvyššího soudu ze dne 26. 4. 2005, sp. zn. 32 Odo 1142/2004).
+Jestliže obstál hlavní důvod, pro nějž odvolací soud nároku žalobců nevyhověl, nemůže žádný další dovolací důvod naplnit podmínky přípustnosti dovolání podle § 237 o. s. ř., neboť ani odlišné vyřešení takto vymezeného předmětu dovolacího řízení by se nemohlo v poměrech žalobců nijak projevit. Tato skutečnost činí dovolání i ve zbylém rozsahu nepřípustným (srov. usnesení Nejvyššího soudu ze dne 27. 10. 2005, sp. zn. 29 Odo 663/2003, uveřejněné pod č. 48/2006 Sbírky soudních rozhodnutí a stanovisek).
+Nákladový výrok není třeba odůvodňovat (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení nejsou přípustné opravné prostředky.
+V Brně dne 28. ledna 2014
+JUDr. Pavel Simon
+předseda senátu
