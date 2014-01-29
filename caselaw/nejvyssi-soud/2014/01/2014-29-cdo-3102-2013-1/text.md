@@ -1,0 +1,21 @@
+29 Cdo 3102/2013
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátu složeném z předsedy JUDr. Petra Šuka a soudců JUDr. Filipa Cilečka a Mgr. Milana Poláška v právní věci žalobkyně MA projekt, spol. s r. o., se sídlem v Praze 6, Patkočkova 1638/67, PSČ 169 00, identifikační číslo osoby 28436318, zastoupené Mgr. Liborem Buchtou, advokátem, se sídlem v Praze 7, Dukelských hrdinů 23, PSČ 170 00, proti žalované L. M., zastoupené Mgr. Petrem Svobodou, advokátem, se sídlem v Praze 8, V Holešovičkách 1579/24, PSČ 180 00, o zaplacení částky 200.000,- Kč, vedené u Krajského soudu v Praze pod sp. zn. 46 Cm 225/2006, o dovolání žalované proti rozsudku Vrchního soudu v Praze ze dne 26. září 2012, č. j. 14 Cmo 142/2011-134, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Praze rozsudkem ze dne 30. dubna 2010, č. j. 46 Cm 225/2006-107, uložil žalované zaplatit žalobkyni 200.000,- Kč a rozhodl o náhradě nákladů řízení.
+V záhlaví označeným rozsudkem Vrchní soud v Praze k odvolání žalované rozsudek soudu prvního stupně potvrdil a rozhodl o nákladech odvolacího řízení.
+Proti rozsudku odvolacího soudu podala žalovaná dovolání, a to výslovně „proti všem výrokům“, jež Nejvyšší soud podle ustanovení § 243b odst. 5, § 218 písm. c/ zákona č. 99/1963 Sb., občanského soudního řádu (dále též jen „o. s. ř.“), odmítl jako nepřípustné.
+Opírá-li dovolatelka přípustnost dovolání o ustanovení občanského soudního řádu ve znění účinném od 1. ledna 2013, přehlíží ustanovení části první, čl. II, bodu 7 zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, podle něhož se dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona (tj. před 1. lednem 2013) projednají a rozhodnou podle dosavadních právních předpisů (tedy podle občanského soudního řádu ve znění účinném do 31. prosince 2012).
+V rozsahu, ve kterém dovolání směřuje i proti té části prvního výroku napadeného rozsudku, jíž odvolací soud potvrdil rozsudek soudu prvního stupně i ve výroku o nákladech řízení, a proti druhému výroku rozsudku o nákladech odvolacího řízení, je objektivně nepřípustné (srov. usnesení Nejvyššího soudu ze dne 31. ledna 2002, sp. zn. 29 Odo 874/2001, uveřejněné pod číslem 4/2003 Sbírky soudních rozhodnutí a stanovisek).
+Dovolání proti potvrzujícímu výroku rozsudku ve věci samé může být přípustné pouze podle ustanovení § 237 odst. 1 písm. c/ o. s. ř. (o situaci předvídanou v ustanovení § 237 odst. 1 písm. b/ o. s. ř. nejde), tedy tak, že dovolací soud – jsa přitom vázán uplatněnými dovolacími důvody včetně jejich obsahového vymezení (§ 242 odst. 3 o. s. ř.) – dospěje k závěru, že napadené rozhodnutí má po právní stránce zásadní význam.
+Dovolatelka přitom Nejvyššímu soudu žádnou otázku, z níž by bylo možno usuzovat na zásadní právní význam napadeného rozhodnutí, k řešení nepředkládá.
+Námitkami, podle nichž soudy nerozhodly o změně žaloby a neprovedly jí navrhované důkazy, které žádnou otázku zásadního právního významu nezahrnují, dovolatelka vystihuje dovolací důvod vymezený v ustanovení § 241a odst. 2 písm. a/ o. s. ř., jenž však u dovolání, jehož přípustnost může být založena toliko postupem podle § 237 odst. 1 písm. c/ o. s. ř., k dispozici nemá a k jehož přezkoumání dovolání připustit nelze (srov. § 237 odst. 3 o. s. ř.).
+Taktéž výtka, že odvolací soud „nevzal v potaz“ námitku promlčení, žádnou otázku, jež by napadené rozhodnutí činila zásadně právně významným, nezahrnuje.
+Konečně námitka neplatnosti „současnou žalobkyní založených postupních smluv“ pro jejich neurčitost napadené rozhodnutí nečiní zásadně právně významným již proto, že dovolatelce (jakožto dlužnici) nepřísluší (srov. rozsudek velkého senátu Občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne 9. prosince 2009, sp. zn. 31 Cdo 1328/2007, uveřejněný pod číslem 61/2010 Sbírky soudních rozhodnutí a stanovisek).
+Výrok o nákladech řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalované bylo odmítnuto a žalobkyni podle obsahu spisu náklady dovolacího řízení nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 29. ledna 2014
+JUDr. Petr Š u k
+předseda senátu
