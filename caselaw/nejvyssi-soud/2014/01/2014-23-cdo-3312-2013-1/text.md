@@ -1,0 +1,16 @@
+23 Cdo 3312/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Kateřiny Hornochové a soudců JUDr. Zdeňka Dese a JUDr. Hany Lojkáskové v právní věci žalobce JUDr. M. K., proti žalované CIB GROUP, a.s., se sídlem Praha 1, Václavské náměstí 823/33, PSČ 110 00, identifikační číslo osoby 27211185, zastoupené Mgr. Kateřinou Korpasovou, advokátkou se sídlem v Liberci, Mozartova 21, o zaplacení 86 400 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 25 C 106/2011, o dovolání žalované proti rozsudku Městského soudu v Praze ze dne 27. března 2013, č. j. 69 Co 92/2013-90, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění:
+(§ 243f odst. 3 občanského soudního řádu – dále jen „o. s. ř.“)
+Dovolání žalované proti rozsudku Městského soudu v Praze ze dne 27. března 2013, č. j. 69 Co 92/2013-90, není přípustné podle § 237 o. s. ř., neboť rozhodnutí odvolacího soudu není v rozporu s ustálenou judikaturou. Poukazuje-li dovolatelka na rozhodnutí Nejvyššího soudu České republiky (dále jen „Nejvyšší soud“) ze dne 22. 4. 2010, sp. zn. 21 Cdo 5429/2007, je toto rozhodnutí nepřiléhavé k posouzení dané věci a navíc rozhodnutím velkého senátu Nejvyššího soudu ze dne 16. 1. 2013, sp. zn. 31 Cdo 2038/2013, veřejnosti dostupné na webových stránkách Nejvyššího soudu – www.nsoud.cz, se Nejvyšší soud odchýlil od svého právního názoru vysloveného v uvedeném poukazovaném rozhodnutí.
+Odvolací soud správně na základě skutkových zjištění dovodil, že mezi účastníky došlo k uzavření dvou mandátních smluv ke stejnému datu, k němuž byly dány žalovanou žalobci, jako advokátu, dvě plné moci k zastupování žalované ve dvou právních věcech v souvislosti s výkonem podnikatelské činnosti žalované, a u nichž byla dána souvislost s rámcovou smlouvou o poskytování právních služeb ze dne 1. 4. 2010, na kterou oba dokumenty odkazují; žádná ze stran přitom netvrdila existenci další rámcové smlouvy. Správný je rovněž závěr odvolacího soudu o oprávněnosti uplatněného nároku na požadovanou odměnu, bylo-li prokázáno, že žalobce skutečně provedl pro žalovanou právní služby ve dvou právních věcech ohledně neoprávněného užívání pozemků dvěma určitými subjekty. Nutno zdůraznit, že smlouva mandátní je ve smyslu § 566 obchodního zákoníku (dále jen „obch. zák.“) smlouvou o činnosti a nikoliv smlouvou o výsledku, kdy předmětem mandátní smlouvy může být v souladu se zákonem i uskutečňování právních úkonů mandatářem jménem a na účet mandanta na základě plné moci (§ 568 obch. zák.), jako to bylo v posuzované věci.
+Nejvyšší soud již v rozhodnutí ze dne 15. 3. 2005, sp. zn. 32 Odo 1056/2004, judikoval, že jedinou podmínkou pro vznik nároku mandatáře na úplatu je, není-li účastníky ve smlouvě dohodnuto jinak, jen jím řádně vykonaná činnost (srov. též rozhodnutí Nejvyššího soudu ze dne 20. 12. 2011, sp. zn. 23 Cdo 3992/2011).
+Nejvyšší soud z uvedených důvodů dovolání žalované podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 30. ledna 2014
+JUDr. Kateřina H o r n o c h o v á
+předsedkyně senátu
