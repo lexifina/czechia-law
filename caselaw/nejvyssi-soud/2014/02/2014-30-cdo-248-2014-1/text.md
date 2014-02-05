@@ -1,0 +1,14 @@
+30 Cdo 248/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Vrchy a soudců JUDr. Pavla Pavlíka a JUDr. Lubomíra Ptáčka, Ph.D., v právní věci J. J., osoby omezené ve svéprávnosti, zastoupeného opatrovníkem městem Krásná Lípa, se sídlem v Krásné Lípě, Masarykova 246/6, identifikační číslo osoby 00261459, zastoupeným JUDr. Evou Ruthovou, advokátkou se sídlem ve Varnsdorfu, Říční 1774, o změnu opatrovníka, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. P 229/2009, o dovolání opatrovníka proti usnesení Městského soudu v Praze ze dne 27. května 2013, č. j. 64 Co 106/2013-116, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í
+(§ 243f odst. 3 o. s. ř.):
+Dovolání opatrovníka v záhlaví označené osoby omezené ve svéprávnosti [srov. k tomu § 3032 odst. 2 obč. zák. (zák. č. 89/2012 Sb.)] proti usnesení Městského soudu v Praze (dále již „odvolací soud“) ze dne 27. května 2013, č. j. 64 Co 106/2013-116, není přípustné podle § 237 o. s. ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí Nejvyššího soudu České republiky [srov. např. usnesení Nejvyššího soudu České republiky (dále již „Nejvyšší soud“ nebo „dovolací soud“) ze dne 31. srpna 2012, sp. zn. 30 Cdo 3616/2010, které je veřejnosti přístupné na webových stránkách Nejvyššího soudu http://nsoud.cz], jakož i judikaturou Ústavního soudu České republiky (k tomu srov. usnesení Ústavního soudu České republiky (dále již „Ústavní soud“) ze dne 10. července 2007, sp. zn. II. ÚS 995/07, publikovaného na webových stránkách Ústavního soudu http://nalus.usoud.cz), přičemž není důvod, aby rozhodná právní otázka (ustanovení opatrovníka osobě omezené ve způsobilosti k právním úkonům, resp. od 1. 1. 2014 osobě omezené ve svéprávnosti, kterou odvolací soud rozhodl v souladu s judikaturou Nejvyššího soudu a Ústavního soudu) byla řešena jinak. K problematice financování činnosti tzv. veřejného opatrovníka, která je v dovolání ve vazbě na shora cit. rozhodnutí Ústavního soudu rozvinuta, nezbývá dovolacímu soudu, než setrvat na závěru, jenž zaujal v obdobné věci vedené pod sp. zn. 30 Cdo 57/2014, totiž, že „obecné soudy nemohou nahrazovat činnost zákonodárce, ani se ve svých rozhodnutích vyjadřovat k problematice, jež by podle jejich názoru měla být (příp. jakým způsobem) pro futuro právně reglementována.“
+Nejvyšší soud proto dovolání opatrovníka podle § 243c odst. 1 věty první o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 a § 146 odst. 1 písm. a) (per analogiam) o. s. ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 5. února 2014
+JUDr. Pavel V r c h a
+předseda senátu
