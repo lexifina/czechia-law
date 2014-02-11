@@ -1,0 +1,14 @@
+25 Cdo 3386/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Roberta Waltra a soudců JUDr. Marty Škárové a JUDr. Petra Vojtka v právní věci žalobců: a) P. O., b) V. O., c) P. O., všech zastoupených JUDr. Zuzanou Špitálskou, advokátkou se sídlem Praha 5, Plzeňská 4, proti žalované Kooperativě pojišťovně, a.s., Vienna Insurance Group, IČO 47116617, se sídlem Praha 8, Pobřežní 665/21, zastoupené JUDr. Antonínem Mokrým, advokátem se sídlem Praha 1, U Prašné brány 3, o pojistné plnění, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 12 C 163/2007, o dovolání žalované proti rozsudku Městského soudu v Praze ze dne 24. 4. 2013, č. j. 19 Co 408/2011-383, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalovaná podala dovolání proti rozsudku Městského soudu v Praze ze dne 24. 4. 2013, č. j. 19 Co 408/2011-383, kterým byl potvrzen rozsudek soudu prvního stupně ve výroku o přiznání mimořádného zvýšení náhrady za ztížení společenského uplatnění v rozsahu 2.244.000 Kč a ve výrocích o nákladech řízení a bylo rozhodnuto o náhradě nákladů odvolacího řízení. Přípustnost dovolání dovozuje z ustanovení § 237 o. s. ř. s odůvodněním, že napadený rozsudek závisí na vyřešení otázky hmotného práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu, zejména tím, že žalobci a) přiznal nepřiměřeně vysoké odškodnění za ztížení společenského uplatnění.
+Dovolání není podle § 237 o. s. ř. přípustné, neboť odvolací soud, vázán právním názorem vysloveným v předchozím zrušujícím rozsudku Nejvyššího soudu ze dne 31. 1. 2013, č.j. 25 Cdo 1225/2012-363, posoudil věc v souladu s dosavadní judikaturou a zohlednil všechny okolnosti případu, jež vedly k přiznání mimořádného zvýšení odškodnění za ztížení společenského uplatnění podle § 7 odst. 3 vyhlášky č. 440/2001 Sb. v celkové výši 5.049.000,- Kč, jež není zjevně nepřiměřená. Z odůvodnění rozsudku odvolacího soudu nevyplývá opodstatněnost dovolatelovy námitky, že odvolací soud považoval za důvod k mimořádnému zvýšení odškodnění jeho krácení z důvodu spoluzavinění. Srovnání s věcí Nejvyššího soudu sp. zn. 25 Cdo 975/2012 nedokládá rozpor s judikaturou vzhledem k odlišným skutkovým okolnostem obou případů (věk poškozené ve srovnávané věci byl výrazně vyšší – 30 let a žalobce v projednávané věci je zvlášť tíživě poškozen kombinovaným postižením horních i dolních končetin). Není tak naplněn dovolací důvod způsobilý založit přípustnost dovolání, totiž nesprávné právní posouzení věci (srov. § 241a odst. 1 o. s. ř.).
+Nejvyšší soud proto dovolání žalované podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 11. února 2014
+JUDr. Robert Waltr
+předseda senátu
