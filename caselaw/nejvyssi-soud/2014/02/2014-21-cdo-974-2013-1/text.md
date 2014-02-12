@@ -1,0 +1,13 @@
+21 Cdo 974/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Jiřího Doležílka a soudců JUDr. Zdeňka Novotného a JUDr. Ljubomíra Drápala v právní věci žalobce OKD, a. s. se sídlem v Karviné, Stonavská č. 2179, IČO 26863154, proti žalovanému Š. B., o 49.204,- Kč s úroky z prodlení, vedené u Okresního soudu v Teplicích pod sp. zn. 41 C 59/2005, o dovolání žalobce proti rozsudku Krajského soudu v Ústí nad Labem ze dne 20. září 2012 č. j. 9 Co 929/2012-243, takto:
+I. Dovolání žalobce se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.) :
+Dovolání žalobce proti rozsudku Krajského soudu v Ústí nad Labem ze dne 20. 9. 2012 č. j. 9 Co 929/2012-243, kterým byl potvrzen rozsudek Okresního soudu v Teplicích ze dne 16. 3. 2012 č. j. 41 C 59/2005-218, jímž byla zamítnuta žaloba o 49.204,- Kč s 3 % úrokem z prodlení od 16. 10. 2004 do zaplacení a jímž byla žalobci uložena povinnost zaplatit České republice – Okresnímu soudu v Teplicích „plnou náhradu nákladů řízení žalovaného, jejíž výše bude určena v samostatném usnesení,“ a kterým bylo rozhodnuto, že žalobce je povinen zaplatit České republice – Okresnímu soudu v Teplicích náhradu nákladů odvolacího řízení „v plné výši, tak jak bude určena v samostatném usnesení,“ není vzhledem k ustanovení § 237 odst. 2 písm. a) zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů účinném do 31. 12. 2012 (dále jen „o. s. ř.“), který je třeba při projednání tohoto dovolání a při rozhodnutí o něm použít i v současné době, neboť napadený rozsudek odvolacího soudu byl vydán v době do 31. 12. 2012 (srov. Čl. II bod 7 zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony), přípustné, neboť - i kdyby rozsudek odvolacího soudu měl mít po právní stránce zásadní význam - dovoláním napadeným výrokem rozsudku odvolacího soudu bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50.000,- Kč (k příslušenství pohledávky se nepřihlíží).
+Nejvyšší soud České republiky proto dovolání žalobce - aniž by se mohl věcí dále zabývat - podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 části věty před středníkem o. s. ř., neboť žalobce s ohledem na výsledek dovolacího řízení na náhradu nákladů nemá právo a žalovanému v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 12. února 2014
+JUDr. Jiří Doležílek
+předseda senátu
