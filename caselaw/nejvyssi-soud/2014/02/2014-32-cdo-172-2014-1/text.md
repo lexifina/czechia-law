@@ -1,0 +1,17 @@
+32 Cdo 172/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Hany Gajdziokové a soudců JUDr. Miroslava Galluse a JUDr. Pavla Příhody v právní věci žalobkyně M. M., zastoupené JUDr. Jaroslavem Mejzlíkem, advokátem se sídlem v Třebíči, Bráfova tř. 531/37, proti žalované AD Trade spol. s r.o., se sídlem v Třebíči, Sedlákova 1, identifikační číslo osoby 25 51 55 43, zastoupené Mgr. Janou Zilvarovou, advokátkou se sídlem v Praze 10, Hradešínská 2362/29, o zaplacení částky 16.800,- Kč s příslušenstvím, vedené u Okresního soudu v Třebíči pod sp. zn. 13 C 360/2011, o dovolání žalobkyně proti usnesení Krajského soudu v Brně ze dne 10. června 2013, č. j. 27 Co 229/2012-103, takto:
+I. Dovolání se odmítá.
+II. Žalobkyně je povinna zaplatit žalované na náhradu nákladů dovolacího řízení částku 2.400,- Kč do tří dnů od právní moci tohoto rozhodnutí k rukám její zástupkyně.
+Odůvodnění:
+Dovolání žalobkyně proti výrokům v záhlaví označeného usnesení, jimiž Krajský soud v Brně uložil žalobkyni nahradit žalované náklady řízení před soudem prvního stupně ve výši 20.531,78 Kč a náklady odvolacího řízení ve výši 4.160,- Kč, není přípustné.
+Přípustnost dovolání proti napadenému rozhodnutí odvolacího soudu by v obecné rovině přicházela v úvahu podle ustanovení § 237 občanského soudního řádu (dále jen „o. s. ř.“).
+Podle ustanovení § 238 odst. 1 písm. d) o. s. ř. dovolání podle § 237 není přípustné proti rozsudkům a usnesením, v nichž dovoláním napadeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50 000 Kč, ledaže jde o vztahy ze spotřebitelských smluv, o pracovněprávní vztahy nebo o věci uvedené v § 120 odst. 2; k příslušenství pohledávky se přitom nepřihlíží.
+Dovolání žalobkyně proti v záhlaví označenému usnesení odvolacího soudu není podle ustanovení § 238 odst. 1 písm. d) o. s. ř. přípustné, neboť směřuje proti rozhodnutí, v němž oběma dovoláním napadenými výroky bylo rozhodnuto o povinnosti žalobkyně k náhradě nákladů řízení ve výši 20.531,78 Kč a 4.160,- Kč, tedy o peněžitém plnění nepřevyšujícím částku 50.000 Kč, přičemž nejde o nárok ze vztahů uvedených v citovaném ustanovení, neboť peněžité plnění přiznané výrokem o nákladech řízení nelze označit pro účely posouzení přípustnosti dovolání za plnění ze vztahu ze spotřebitelské smlouvy, z pracovněprávního vztahu nebo z věci uvedené v ustanovení § 120 odst. 2 o. s. ř. (k tomu srov. usnesení Nejvyššího soudu uveřejněné pod číslem 80/2013 Sbírky soudních rozhodnutí a stanovisek).
+Na tomto závěru nemůže nic změnit ani nesprávné poučení odvolacího soudu o možnosti podat dovolání, neboť nesprávné poučení odvolacího soudu, že dovolání je přípustné, přípustnost dovolání nezakládá. Podle ustanovení § 236 odst. 1 o. s. ř. dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu pouze tehdy, pokud to zákon připouští. Není-li možnost podat dovolání v zákoně stanovena, pak jde vždy - bez zřetele k tomu, jakého poučení se účastníkům řízení ze strany soudu dostalo - o dovolání nepřípustné (srov. usnesení Nejvyššího soudu uveřejněné pod číslem 51/2003 Sbírky soudních rozhodnutí a stanovisek).
+Nejvyšší soud proto dovolání odmítl pro nepřípustnost podle ustanovení § 243c odst. 1 o. s. ř.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 17. února 2014
+JUDr. Hana Gajdzioková
+předsedkyně senátu
