@@ -1,0 +1,13 @@
+33 Cdo 136/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Pavlem Krbkem ve věci žalobkyně P. Ž., zastoupené JUDr. Světlanou Pecháčkovou, advokátkou se sídlem v Pardubicích - Staré Město, Pernštýnská 15, proti žalované PROFI CREDIT Czech, a.s. se sídlem v Praze 1 - Nové Město, Klimentská 1216/46 (identifikační číslo osoby 61860069), zastoupené JUDr. Ervínem Perthenem, advokátem se sídlem v Hradci Králové, Velké náměstí 135/19, o zrušení rozhodčího nálezu, vedené u Okresního soudu v Pardubicích pod sp. zn. 5 C 46/2012, o dovolání žalobkyně proti rozsudku Krajského soudu v Hradci Králové ze dne 25. 3. 2013, č.j. 18 Co 138/2013-107, takto :
+I. Dovolání se odmítá.
+II. Žalobkyně je povinna zaplatit žalované na náhradě nákladů dovolacího řízení 1.573,- Kč do tří dnů od právní moci usnesení k rukám JUDr. Ervína Perthena, advokáta.
+O d ů v o d n ě n í:
+Dovolání proti v záhlaví uvedenému rozhodnutí neobsahuje obligatorní náležitost, a sice vymezení toho, v čem žalobkyně spatřuje splnění předpokladů přípustnosti dovolání (srov. § 241a odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném od 1. 1. 2013 /viz čl. II., bod 1 zák. č. 404/2012 Sb./, dále jen „o.s.ř.“), a v dovolacím řízení pro tuto vadu nelze pokračovat. Může-li být dovolání přípustné jen podle § 237 o.s.ř. (jako v této věci), je dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné, přičemž nepostačuje pouhý odkaz na ustanovení zákona. Uvádí-li žalobkyně, že „dovolání je přípustné podle ustanovení § 237 odst. 1 písm. a/ o.s.ř. a je podáno z důvodu podle § 241a odst. 2 písm. b/ o.s.ř., neboť rozhodnutí odvolacího soudu vychází z nesprávného právního posouzení věci“, přípustnost dovolání nevymezuje; uvedené sdělení významově neodpovídá žádnému ze čtyř kritérií uvedených v § 237 o.s.ř., a to ani poslednímu z nich, podle něhož je dovolání přípustné, má-li být dovolacím soudem již dříve Nejvyšším soudem vyřešená právní otázka posouzena jinak. K řádnému vymezení tohoto hlediska přípustnosti musí být nadto z dovolání zřejmé, od kterého řešení otázky hmotného nebo procesního práva se má podle názoru dovolatele dovolací soud v dané věci odchýlit (srov. usnesení Nejvyššího soudu ze dne 29. 8. 2013, sp. zn. 29 Cdo 2488/2013); tomuto požadavku žalobkyně v dovolání (posouzeném z obsahového hlediska i v jiných jeho částech) nedostála.
+Z uvedených důvodů Nejvyšší soud dovolání odmítl (§ 243c odst. 1, věta první, o.s.ř.).
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 17. února 2014
+JUDr. Pavel K r b e k
+předseda senátu
