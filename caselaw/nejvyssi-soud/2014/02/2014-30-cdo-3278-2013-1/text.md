@@ -1,0 +1,35 @@
+30 Cdo 3278/2013
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy JUDr. Pavla Pavlíka a soudců JUDr. Lubomíra Ptáčka, PhD., a JUDr. Pavla Vrchy, v právní věci žalobce P. S., zastoupeného Mgr. Barborou Krásovou, advokátkou se sídlem v Praze 2, Záhřebská 154/30, proti žalovanému P. S., zastoupenému Mgr. Jiřím Payerem, advokátem se sídlem v Praze 2, Korunní 957/35, o ochranu osobnosti, vedené u Městského soudu v Praze pod sp. zn. 32C 75/2011, o dovolání žalobce proti rozsudku Vrchního soudu v Praze ze dne 9. dubna 2013, č.j. 1 Co 81/2013-94, takto:
+I. Dovolání žalobce se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění
+(§ 243f odst. 3 o.s.ř.):
+Městský soud v Praze rozsudkem ze dne 21. listopadu 2012, č.j. 32C 75/2011-55, zamítl žalobu, aby žalovaný zaplatil žalobci 2 miliony Kč jako náhradu nemajetkové újmy podle ustanovení § 13 odst. 2 občanského zákoníku (dále jen obč. zák.) a rozhodl o náhradě nákladů řízení.
+K odvolání žalobce Vrchní soud v Praze rozsudkem ze dne 9. dubna 2013, č.j. 1 Co 81/2013-94, potvrdil podle § 219 občanského soudního řádu (dále jen „o.s.ř.“) rozsudek soudu prvního stupně ve věci samé, ve výroku o náhradě nákladů řízení jej změnil a rozhodl o náhradě nákladů odvolacího řízení. Odvolací soud se ztotožnil se skutkovým zjištěním a právním posouzení věci soudem prvního stupně. Neshledal neoprávněný zásah do osobnostních práv žalobce, jako předpoklad odpovědnosti žalovaného podle § 13 obč. zák. Shodně se soudem prvního stupně uzavřel, že mezi účastníky jsou dlouhodobě narušeny osobní vztahy v souvislosti s podílovým spoluvlastnictvím nemovitosti, přitom nebyly prokázány žádné dehonestující výroky či chování žalovaného vůči žalobci, naopak proti žalobci bylo vedeno několik přestupkových řízení na návrh žalovaného nebo jeho syna.
+Rozsudek Vrchního soudu v Praze byl doručen zástupci žalobce dne 27. května 2013 a právní moci nabyl téhož dne.
+Proti rozhodnutí odvolacího soudu podal žalobce dne 25. července 2013 včasné dovolání. Jeho přípustnost dovozuje z ustanovení § 237 o.s.ř., neboť má za to, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci (§ 241a odst. 1 o.s.ř.). Domnívá se, že v napadeném rozhodnutí je otázka, která nebyla dosud v rozhodování dovolacího soudu vyřešena a že ji odvolací soud vyřešil v rozporu s hmotným právem, když nesprávně interpretoval příslušný právní předpis. Otázka zní:
+- Zda je možné dlouhotrvající pravidelné útoky různé intenzity jedné osoby vůči osobě druhé považovat za porušení práva na ochranu osobnosti ve smyslu § 11 obč. zák. v platném znění, a odůvodnit právo takto postižené osoby na náhradu nemajetkové újmy v penězích.
+Dovolatel se domnívá, že především dlouhodobost, opakování a četnost drobných „schválností“ ve svém souhrnu značně zasahují do osobnostní sféry žalobce, neboť trvale ničí život a štěstí žalobce.
+Z uvedených důvodů proto dovolatel navrhl, aby dovolací soud rozsudek Vrchního soudu v Praze zrušil a vrátil mu věc „se závaznými pokyny“ k dalšímu řízení.
+K dovolání se žalovaný nevyjádřil.
+Nejvyšší soud jako soud dovolací (§ 10a o.s.ř.) přihlédl k čl. II bodu 7. zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, a vyšel tak ze znění tohoto procesního předpisu účinného od 1. ledna 2013.
+Podle ustanovení § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak (§ 237 o.s.ř.).
+Dovolání lze podat pouze z důvodu, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci (§ 241a odst. 1 o.s.ř.).
+Rozhodnutí odvolacího soudu lze přezkoumat jen z důvodu vymezeného v dovolání (§ 242 odst. 3 věta první o.s.ř.).
+Aby dovolání v projednávané věci mohlo být kvalifikováno jako přípustné, muselo by být ve smyslu ustanovení § 237 o.s.ř. ve vztahu k dovoláním napadenému rozhodnutí odvolacího soudu shledáno, že nastala jedna z těchto okolností, tj., že napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva,
+- při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo
+- která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo
+- je dovolacím soudem rozhodována rozdílně anebo
+- má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+Ač dovolatel ve svém dovolání uvádí, že je podává z důvodu podle ustanovení § 241a odst. 1 o.s.ř., tj. pro to, že má za to, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci, podstatná část tohoto dovolání nepřípustně směřuje pouze do oblasti konkrétních skutkových zjištění.
+Pokud pak dovolatel skutečně v zásadě polemizuje v podaném dovolání s právním posouzením věci, pak neuvádí takové skutečnosti, které by umožňovaly napadené rozhodnutí podřadit po některou z alternativ, o kterých se zmiňuje ustanovení § 237 o.s.ř.
+Je jistě skutečností, že neoprávněným zásahem do práva na ochranu osobnosti může být jakékoliv jednání směřující proti osobní, i mravní integritě fyzické osoby (obdobně srovnej rozsudek NS ČR ze dne 1. října 2002, sp.zn. 28 Cdo 983/2002 z 1. 10. 2002). Podle § 13 obč. zák. ke vzniku občanskoprávních sankcí za nemajetkovou újmu způsobenou zásahem do osobnosti fyzické osoby musí být jako předpoklad odpovědnosti splněna podmínka existence zásahu objektivně způsobilého vyvolat nemajetkovou újmu spočívající buď v porušení nebo jen ohrožení osobnosti fyzické osoby v její fyzické a morální integritě. Tento zásah musí být neoprávněný (protiprávní) a musí zde být zjištěna existence příčinné souvislosti mezi takovým zásahem a dotčením osobnostní sféry fyzické osoby. Neoprávněným zásahem je zásah do osobnosti fyzické osoby, který je v rozporu s objektivním právem, t.j. s právním řádem (obdobně srovnej rozsudek NS ČR ze dne 12. dubna 2011, sp.zn. 30 Cdo 1975/2009).
+Z napadeného rozhodnutí vyplývá, že odvolací soud se s uvedenými zásadami nedostal do kontroverze. Důvodem zamítnutí žaloby pak bylo, že tvrzení žalobce o jednání žalovaného uvedená v žalobě nebyla v řízení prokázána, přičemž žalobce k nim ani v žalobě, ani k výzvě soudu, žádné důkazy nenavrhl.
+Jestliže takto nebylo naplněno žádné z hledisek přípustnosti dovolání obsažených v ustanovení § 237 o.s.ř Nejvyšší soud za tohoto stavu proto s přihlédnutím k ustanovení § 243c odst. 1 a 2 o.s.ř. dovolání žalobce odmítl.
+U výroku o náhradě nákladů dovolacího řízení se odkazuje na ustanovení § 243f odst. 3 věta druhá o.s.ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 19. února 2014
+JUDr. Pavel Pavlík
+předseda senátu
