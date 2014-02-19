@@ -1,0 +1,19 @@
+30 Cdo 493/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Pavlem Vrchou v právní věci žalobce P. Ž., proti žalovanému D. Ž., zastoupenému Martinou Žilkovou, bytem shodně s žalovaným, o návrhu žalobce na opravu usnesení, vedené u Okresního soudu v Českých Budějovicích pod sp. zn. 21 C 75/2013, o odvolání žalobce proti usnesení Krajského soudu v Českých Budějovicích ze dne 20. listopadu 2013, č. j. 6 Co 1728/2013-45, takto:
+I. Řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů řízení před dovolacím soudem.
+S t r u č n é o d ů v o d n ě n í
+(§ 243f odst. 3 o. s. ř.):
+Krajský soud v Českých Budějovicích (dále již „krajský soud“) v záhlaví označeným usnesením zamítl návrh žalobce na opravu odůvodnění usnesení téhož soudu ze dne 16. srpna 2013, č. j. 6 Co 1728/2013-33, jímž bylo potvrzeno usnesení Okresního soudu v Českých Budějovicích (dále již „soud prvního stupně“) ze dne 16. dubna 2013, č. j. 21 C 75/2013-15, kterým bylo zastaveno řízení o zrušení vyživovací povinnosti žalobce vůči žalovanému.
+Dne 17. ledna 2014 bylo soudu prvního stupně doručeno podání žalobce ze dne 16. ledna 2014, z něhož vyplývá, že žalobce proti označenému usnesení krajského soudu podává (z důvodů v tomto podání dále rozvedených) „odvolání“, když má za to, „že by o tom měl rozhodnout nadřízený Vrchní soud v Praze, protože usnesení o zamítnutí opravy vydal Krajský soud jako soud I. stupně, což by mělo připouštět odvolání.“
+Odvolání je podle § 201 o. s. ř. opravným prostředkem, jímž může účastník napadnout rozhodnutí soudu prvního stupně, pokud to zákon nevylučuje. O odvoláních proti rozhodnutím okresních soudů rozhodují soudy krajské; vrchní soudy jsou sice též soudy odvolacími, avšak jen v případě odvolání proti rozhodnutím krajských soudů jako soudů prvního stupně (tento předpoklad v dané věci splněn není, neboť krajský soud rozhodoval jako soud odvolací).
+Oproti tomu pravomocné rozhodnutí odvolacího soudu lze napadnout, je-li to zákonem připuštěno, dovoláním (§ 236 odst. 1 o. s. ř.), a soudem příslušným k rozhodování o dovoláních proti rozhodnutím krajských nebo vrchních soudů jako soudů odvolacích je Nejvyšší soud (§ 10a o. s. ř.).
+Jelikož tedy opravným prostředkem pro přezkoumání rozhodnutí odvolacího soudu není odvolání nýbrž dovolání, občanský soudní řád - k projednání odvolání proti takovému rozhodnutí - neupravuje ani funkční příslušnost určitého soudu. Tím, že žalobce „odvolání“ přesto podal, uvedenou podmínku odvolacího řízení pominul. Nedostatek funkční příslušnosti je však neodstranitelným nedostatkem podmínky řízení, pročež řízení o takovém „odvolání“, které touto vadou trpí, nelze než podle ustanovení § 104 odst. 1 o. s. ř. zastavit.
+Přestože k rozhodování o odvolání proti rozhodnutí krajského soudu jako soudu odvolacího není příslušný vrchní ani Nejvyšší soud České republiky (dále již „Nejvyšší soud“) a ani žádný jiný soud, je třeba dovodit, že k rozhodnutí o zastavení řízení o odvolání, podaném proti rozhodnutí odvolacího soudu, je povolán Nejvyšší soud, a to zejména proto, že je vrcholným článkem soustavy obecných soudů a je funkčně příslušný k rozhodování o opravném prostředku proti rozhodnutí odvolacích soudů (srov. usnesení Nejvyššího soudu ze dne 31. května 2001, sp. zn. 20 Cdo 1535/99, publikované v časopise Soudní judikatura pod č. 85, roč. 2001).
+Proto Nejvyšší soud z důvodu neodstranitelného nedostatku podmínky řízení, spočívajícího v nedostatku funkční příslušnosti soudu, řízení o odvolání žalobce proti usnesení krajského soudu vydanému v odvolacím řízení bez jednání (§ 243 písm. a/ o. s. ř.) zastavil (§ 104 odst. 1, § 241b odst. 2 a za užití § 243f odst. 2 o. s. ř.).
+Výrok o náhradě nákladů řízení před dovolacím soudem se neodůvodňuje (§ 243f odst. 3 poslední věta o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 19. února 2014
+JUDr. Pavel V r c h a
+předseda senátu
