@@ -1,0 +1,15 @@
+26 Cdo 3953/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Pavlíny Brzobohaté a soudců JUDr. Miroslava Feráka a Doc. JUDr. Věry Korecké, CSc., v právní věci žalobce Bytového družstva F 556, se sídlem v Praze 8 - Bohnicích, Feřtekova 556, IČO: 25119788, proti žalovanému MUDr. J. H., P., zastoupenému Mgr. Jiřím Prokopem, advokátem se sídlem v Praze 6, Dejvická 664/46, o vyklizení bytu, vedené u Obvodního soudu pro Prahu 8 pod sp. zn. 25 C 466/2008, o dovolání žalovaného proti rozsudku Městského soudu v Praze ze dne 16. dubna 2013, č. j. 21 Co 347/2011-989, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 8 rozsudkem ze dne 1. 4. 2011, č. j. 25 C 466/2008-458, uložil žalovanému vyklidit byt v P., a zaplatit náklady řízení. K odvolání žalovaného odvolací soud napadeným rozsudkem potvrdil rozsudek soudu prvního stupně v části, v níž mu uložil vyklidit byt, změnil výrok o náhradě nákladů řízení, rozhodl o nákladech odvolacího řízení a o nákladech ustanoveného zástupce.
+Dovolání proti rozsudku odvolacího soudu Nejvyšší soud podle § 243c odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013 (dále jen „o. s. ř.”), odmítl, neboť neobsahuje údaj o tom, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 - § 238a o. s. ř.), což je obligatorní náležitostí dovolání (srov. § 241a odst. 2 o. s. ř.), bez jejíhož splnění nelze v dovolacím řízení pokračovat.
+Může-li být dovolání přípustné jen podle § 237 o. s. ř. (jako v této věci), je dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné, přičemž k projednání dovolání nepostačuje pouhá citace textu ustanovení § 237 o. s. ř. (viz např. usnesení Nejvyššího soudu ze dne 27. 8. 2013, sen. zn. 29 NSCR 55/2013). Z dovolání musí být také patrno, které otázky hmotného nebo procesního práva, na nichž napadené rozhodnutí závisí, nebyly v rozhodování dovolacího soudu dosud řešeny (má-li je dovolatel za dosud neřešené), případně, při jejichž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu a od které "ustálené rozhodovací praxe" se řešení této právní otázky odvolacím soudem odchyluje (srovnej usnesení Nejvyššího soudu ze dne 25. 9. 2013, sp. zn. 29 Cdo 2394/2013, které bylo na jednání občanskoprávního a obchodního kolegia Nejvyššího soudu dne 7. 1. 2014 schváleno k uveřejnění ve Sbírce soudních rozhodnutí a stanovisek).
+Dovolatel navíc uplatnil nepřípustné dovolací důvody. Podle § 241a odst. 1 o. s. ř. lze dovoláním napadnout jen nesprávné právní posouzení věci, dovolatel však ve svém dovolání namítá, že řízení bylo postiženo vadami, které měly za následek nesprávné rozhodnutí ve věci a právní posouzení věci odvolacím soudem zpochybňuje i prostřednictvím námitek skutkových.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 19. února 2014
+JUDr. Pavlína Brzobohatá
+předsedkyně senátu
