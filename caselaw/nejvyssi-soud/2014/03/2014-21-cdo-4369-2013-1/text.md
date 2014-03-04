@@ -1,0 +1,11 @@
+21 Cdo 4369/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl pověřeným členem senátu JUDr. Zbyňkem Polednou v exekuční věci oprávněné Matco, s.r.o. se sídlem v Praze 1, Letenská č. 121/8, IČO 26425033, zastoupené Mgr. Tomášem Rašovským, advokátem se sídlem v Brně, Kotlářská č. 51a, proti povinnému F. Š., zastoupenému JUDr. Juditou Jakubčíkovou, advokátkou se sídlem v Klatovech I, Krameriova č. 139, pro 110.243,- Kč s příslušenstvím, vedené u Okresního soudu v Klatovech pod sp. zn. 15 Nc 6675/2008, o dovolání povinného proti usnesení Krajského soudu v Plzni ze dne 27. května 2013 č.j. 61 Co 602/2012-43, takto:
+Dovolání se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky dovolání povinného proti usnesení Krajského soudu v Plzni ze dne 27.5.2013 č.j. 61 Co 602/2012-43 podle ustanovení § 243c odst. 1 věty první zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31.12.2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o.s.ř.“, odmítl, neboť jednak neobsahuje údaje o tom, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 241a odst. 2 o.s.ř.), když toliko odkazuje na ustanovení § 237 o.s.ř., aniž by vůbec vylíčil, proč považuje dovolání za přípustné. Dovolání povinného navíc neobsahuje vymezení dovolacího důvodu způsobem uvedeným v ustanovení § 241a odst. 3 o.s.ř. (dovolatel v dovolání opětovně pouze odkazuje na ustanovení § 241a odst. 3 o.s.ř.). Není-li dovolání o uvedené náležitosti doplněno v propadné (prekluzivní) lhůtě určené v ustanovení § 241b odst. 3 o.s.ř., v dovolacím řízení nelze pokračovat a Nejvyšší soud dovolání podle ustanovení § 243c odst. 1 o.s.ř. odmítne (srov. například usnesení Nejvyššího soudu ze dne 18.6.2003 sp. zn. 29 Odo 108/2002, uveřejněné pod číslem 21/2004 Sbírky soudních rozhodnutí a stanovisek).
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 4. března 2014
+JUDr. Zbyněk Poledna
+pověřený člen senátu
