@@ -1,0 +1,20 @@
+29 Cdo 425/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Filipem Cilečkem v právní věci žalobce ENKO, bytové družstvo, se sídlem v Praze 8, Řešovská 567, PSČ 180 00, identifikační číslo osoby 25615637, zastoupeného JUDr. Tomášem Farou, advokátem, se sídlem v Praze 4, Na Květnici 713/7, PSČ 140 00, proti žalované H. B., zastoupené JUDr. Rostislavem Dolečkem, advokátem, se sídlem v Praze 3, Seifertova 9, PSČ 130 00, o náhradu škody ve výši 77.500,- Kč s příslušenstvím, vedené u Městského soudu v Praze pod sp. zn. 71 Cm 114/2010, o dovolání žalobce proti rozsudku Vrchního soudu v Praze ze dne 30. srpna 2013, č. j. 7 Cmo 343/2012-161, takto:
+I. Dovolání se odmítá.
+II. Žalobce je povinen zaplatit žalované na náhradu nákladů dovolacího řízení 5.469,20 Kč, a to do tří dnů od právní moci tohoto rozhodnutí, k rukám zástupce žalované.
+Odůvodnění:
+Vrchní soud v Praze v záhlaví označeným rozsudkem potvrdil výroky I. a III. rozsudku Městského soudu v Praze ze dne 26. března 2012, č. j. 71 Cm 114/2010-117, a změnil výrok II. tohoto rozsudku tak, že uložil žalobci zaplatit žalované náhradu nákladů řízení ve výši 38.284,40 Kč (výrok I.), a rozhodl o nákladech odvolacího řízení (výrok II.).
+Žalobce podal proti rozsudku odvolacího soudu dovolání, které předseda senátu Nejvyššího soudu v souladu s ustanovením § 243f odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), odmítl podle § 243c odst. 1 věty první o. s. ř., neboť neobsahuje vymezení toho, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (srov. § 241a odst. 2 o. s. ř.), a v dovolacím řízení pro tuto vadu nelze pokračovat.
+Dovolatel k otázce přípustnosti dovolání uvádí toliko následující: „Přípustnost dovolání je opírána o ust. § 237 o. s. ř.“
+Požadavek, aby dovolatel v dovolání uvedl, v čem spatřuje splnění předpokladů přípustnosti dovolání, je podle § 241a odst. 2 o. s. ř. obligatorní náležitostí dovolání. Může-li být dovolání přípustné jen podle § 237 o. s. ř. (jako v této věci), byl dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné, a blíže je specifikovat, přičemž k projednání dovolání nepostačuje pouhá citace textu ustanovení § 237 o. s. ř. či jeho části (pro podrobnosti viz např. usnesení Nejvyššího soudu ze dne 27. srpna 2013, sen. zn. 29 NSČR 55/2013, nebo ze dne 29. srpna 2013, sp. zn. 29 Cdo 2488/2013, jež jsou veřejnosti dostupná, stejně jako ostatní rozhodnutí Nejvyššího soudu přijatá po 1. lednu 2001, na webových stránkách Nejvyššího soudu).
+Žádost dovolatele, podle níž „měla by být tato otázka dovolacím soudem vyřešena jinak“ významově neodpovídá (ve smyslu § 237 o. s. ř.) požadavku, aby „dovolacím soudem (již dříve) vyřešená právní otázka byla (dovolacím soudem) posouzena jinak“ (srov. shodně např. usnesení Nejvyššího soudu ze dne 30. května 2013, sp. zn. 29 Cdo 1172/2013).
+Má-li být dovolání přípustné proto, že „dovolacím soudem vyřešená právní otázka má být posouzena jinak“, jde o způsobilé vymezení přípustnosti dovolání ve smyslu § 241a odst. 2 o. s. ř., jen je-li z dovolání zřejmé, od kterého svého řešení otázky hmotného nebo procesního práva se má (podle mínění dovolatele) dovolací soud odchýlit (srov. shodně např. usnesení Nejvyššího soudu ze dne 27. srpna 2013, sen. zn. 29 NSČR 55/2013, nebo ze dne 29. srpna 2013, sp. zn. 29 Cdo 2488/2013).
+Uvedeným požadavkům na vymezení předpokladů přípustnosti dovolání dovolatel v dovolání (posouzeném z obsahového hlediska i v jiných jeho částech) v projednávané věci nedostál.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Rozhodné znění občanského soudního řádu pro dovolací řízení (od 1. ledna 2013) se podává z bodů 1. a 7., článku II., zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony.
+Proti tomuto usnesení není přípustný opravný prostředek.
+Nesplní-li povinný, co mu ukládá vykonatelné rozhodnutí, může se oprávněná domáhat výkonu rozhodnutí.
+V Brně dne 4. března 2014
+JUDr. Filip Cileček
+předseda senátu
