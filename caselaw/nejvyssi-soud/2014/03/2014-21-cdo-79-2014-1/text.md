@@ -1,0 +1,14 @@
+21 Cdo 79/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Jiřího Doležílka a soudců JUDr. Romana Fialy a JUDr. Ljubomíra Drápala v právní věci žalobců a) P. G., a b) M. G., obou zastoupených JUDr. Václavem Hochmannem, advokátem se sídlem ve Zlíně, Rašínova č. 68/3, za účasti Ředitelství silnic a dálnic ČR, státní příspěvkové organizace se sídlem v Praze 4 – Nuslích, Na Pankráci č. 546/56, IČO 65993390, zastoupeného Jiřím Drápalem, advokátem se sídlem ve Vsetíně, Horní náměstí č. 12, o náhradu za vyvlastnění nemovitostí, vedené u Krajského soudu v Brně pod sp. zn. 35 C 28/2008, o dovolání žalobců proti rozsudku Vrchního soudu v Olomouci ze dne 23. října 2013 č. j. 1 Co 210/2013-390, takto:
+I. Dovolání žalobců se odmítá.
+II. Žalobci jsou povinni společně a nerozdílně zaplatit Ředitelství silnic a dálnic ČR, státní příspěvkové organizaci na náhradě nákladů dovolacího řízení 2.800,- Kč do tří dnů od právní moci tohoto usnesení k rukám Jiřího Drápala, advokáta se sídlem ve Vsetíně, Horní náměstí č. 12.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalobců proti rozsudku Vrchního soudu v Olomouci ze dne 23. 10. 2013 č. j. 1 Co 210/2013-390 není přípustné podle ustanovení § 237 o. s. ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu (srov. například rozsudek Nejvyššího soudu ze dne 9. 11. 2011 sp. zn. 28 Cdo 691/2010 a usnesení Ústavního soudu ze dne 1. 11. 2012 sp. zn. IV. ÚS 1163/12, kterým byla odmítnuta ústavní stížnost podaná proti tomuto rozsudku, nebo usnesení Nejvyššího soudu ze dne 18. 3. 2010 sp. zn. 30 Cdo 730/2008) a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+Navrhují-li žalobci, aby Nejvyšší soud přerušil dovolací řízení a aby podle ustanovení čl. 267 Smlouvy o fungování Evropské unie požádal Soudní dvůr Evropské unie o rozhodnutí o předběžné otázce týkající se výkladu ustanovení čl. 17 odst. 1 Listiny základních práv Evropské unie, pak přehlížejí, že tato listina se stala právně závaznou až dnem 1. 12. 2009, kdy vstoupila v platnost Lisabonská smlouva pozměňující smlouvu o Evropské unii a smlouvu o založení Evropského společenství (srov. čl. 6 odst. 2 Lisabonské smlouvy uveřejněné v č. 306/2007 - C Úředního věstníku Evropské unie), a že se proto nemůže – vzhledem k tomu, že k vyvlastnění nemovitostí žalobců došlo podle zjištění odvolacího soudu rozhodnutím správního orgánu, které nabylo právní moci dne 19. 3. 2004 - na projednávanou věc vztahovat.
+Nejvyšší soud České republiky proto dovolání žalobců podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 4. března 2014
+JUDr. Jiří Doležílek
+předseda senátu
