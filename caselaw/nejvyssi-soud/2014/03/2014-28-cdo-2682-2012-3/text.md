@@ -1,0 +1,12 @@
+28 Cdo 2682/2012
+U S N E S E N Í
+Nejvyšší soud rozhodl předsedou senátu JUDr. Josefem Rakovským v právní věci žalobce Statutárního města Ústí nad Labem, IČ 0008 1531, Ústí nad Labem, Velká Hradební č. 8, zastoupeného JUDr. Lukášem Hendrychem, advokátem, 400 01 Ústí nad Labem, Vaníčkova 1112/27, proti žalovaným: 1. Tonaso Holding, a. s., IČO 2547 2704, Praha 1, Krakovská 1346/15, zastoupenému JUDr. Jiřím Tauberem, advokátem, 400 00 Ústí nad Labem, Mírové náměstí č. 34, 2. Alpari, s. r. o., Ústí nad Labem, Opletalova 140, IČO 6027890, zastoupenému JUDr. Oldřichem Vaňkem, 400 00 Ústí nad Labem, Jožky Jabůrkové 488/10, a 3. Algosu, s. r. o., IČO Ústí nad Labem, Dolní Poustevna č. 5, zastoupenému JUDr. Oldřichem Vaňkem, Ústí nad Labem, Jožky Jabůrkové 488/10, o uznání vlastnického práva k nemovitosti, vedené u Okresního soudu v Ústí nad Labem pod sp. zn. 14C 221/96, o dovolání dovolatele Statutárního města Ústí nad Labem, Velká Hradební č. 8, zastoupeného JUDr. Lubošem Hendrychem, advokátem, 400 01 Ústí nad Labem, Vaníčkova 1112/27, proti rozsudku Krajského soudu v Ústí nad Labem ze dne 29. 3. 2012, č. j. 11Co 658/2010-276, t a k t o :
+Výrok rozsudku Nejvyššího soudu ze dne 22. ledna 2014, č. j. 28 Cdo 2682/2012-296, opravuje se v odstavci I. tak, že správně zní: „Zrušuje se rozsudek Krajského soudu v Ústí nad Labem z 29. 3. 2012, sp. zn. 11Co 658/2010- 276, a to v měnících výrocích rozsudku v odstavci I. a), b) a ve výroku I. c) pokud jím byla změněna výše nákladů řízení, jakož i ve výrocích odstavce II. a III.“
+O d ů v o d n ě n í:
+V písemném vyhotovení shora uvedeného rozsudku dovolacího soudu bylo v odstavci I. nesprávně uvedeno, že se zrušuje rozsudek Krajského soudu v Ústí nad Labem z 29. 3. 2012, sp. zn. 11Co 658/2010- 276, a to v měnících výrocích rozsudku v odstavci I. a), b) a ve výroku III. c) pokud jím byla změněna výše nákladů řízení, jakož i ve výrocích odstavce II. a III.
+Přitom z obsahu odůvodnění dovolacího soudu je zřejmé, že v důsledku zrušení shora uvedeného rozsudku v měnící části výroky v odstavci I. a), b) došlo správně ke zrušení rovněž výroku uvedeného pod I. c), pokud jím byla změněna výše nákladů řízení.
+K upozornění soudu prvního stupně na tuto zřejmou nesprávnost opravil proto dovolací soud výrok svého rozsudku za použití ustanovení § 164 o. s. ř., které je použitelné i pro dovolací řízení (§ 243b o. s. ř.) shora uvedeným opravným usnesením.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 10. března 2014
+JUDr. Josef Rakovský
+předseda senátu
