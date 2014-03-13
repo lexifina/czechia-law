@@ -1,0 +1,12 @@
+25 Cdo 655/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Vojtka a soudců JUDr. Roberta Waltra a Mgr. Miloše Póla v právní věci žalobce Ing. P. K., zastoupeného JUDr. Petrem Šurkou, advokátem se sídlem v Praze 10, Morseova 253, proti žalované Ing. Š. H., zastoupené JUDr. Jaromírem Bayerem, advokátem se sídlem v Českých Budějovicích, Jeremiášova 1705/18, o 2.900.000,- Kč s příslušenstvím, vedené u Okresního soudu v Českých Budějovicích pod sp. zn. 30 C 436/2011, o dovolání žalobce proti rozsudku Krajského soudu v Českých Budějovicích ze dne 8. 10. 2013, č. j. 19 Co 2021/2013-248, takto:
+I. Dovolání žalobce se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Dovolání žalobce proti rozsudku Krajského soudu v Českých Budějovicích ze dne 8. 10. 2013, č. j. 19 Co 2021/2013-248, není přípustné, neboť uplatněné námitky se netýkají řešení otázek hmotného nebo procesního práva, uvedených v ustanovení § 237 o.s.ř. Dovolatel namítá, že odvolací soud „zcela ignoroval základní zásady vedení spravedlivého procesu“ a že se nezabýval otázkou promlčení pohledávky. Odvolací soud se ovšem promlčením zabýval, neboť právě s ohledem na důvodně uplatněnou námitku promlčení dovodil, že žalobě nelze vyhovět. Napadené rozhodnutí vychází z ustálené judikatury k počátku běhu subjektivní promlčecí doby ve smyslu § 106 odst. 1 zákona č. 40/1964 Sb., občanský zákoník (srov. např. rozsudek bývalého Nejvyššího soudu ČSR ze dne 23. 6. 1981, sp. zn. 1 Cz 18/81, uveřejněný ve Sborníku IV, str. 1130; rozsudky Nejvyššího soudu ČR ze dne 29. 9. 1999, sp. zn. 25 Cdo 998/98, a ze dne 19. 4. 2001, sp. zn. 33 Cdo 1826/99, nebo usnesení Nejvyššího soudu ČR ze dne 24. 11. 2005, sp. zn. 26 Cdo 479/2005), přičemž dovolatel neformuluje žádnou právní otázku, pro jejíž řešení by bylo možno dovodit rozpor s ustálenou rozhodovací praxí dovolacího soudu. Blíže nezdůvodněnou námitkou porušení zásad spravedlivého procesu ani polemikou se skutkovými okolnostmi ohledně okamžiku, kdy se žalobce o vzniku škody dověděl, nelze přípustnost dovolání založit (srov. § 241a odst. 1 o.s.ř.). Nejvyšší soud proto dovolání podle § 243c odst. 1 věty první o.s.ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta druhá o.s.ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 13. března 2014
+JUDr. Petr Vojtek
+předseda senátu
