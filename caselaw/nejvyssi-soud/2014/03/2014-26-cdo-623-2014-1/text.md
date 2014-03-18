@@ -1,0 +1,11 @@
+26 Cdo 623/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Pavlíny Brzobohaté a soudkyň JUDr. Jitky Dýškové a Doc. JUDr. Věry Korecké, CSc., v exekuční věci oprávněné Všeobecné zdravotní pojišťovny České republiky, se sídlem v Praze 3, Orlická 2020/4, Krajská pobočka pro Moravskoslezký kraj, Územní pracoviště Opava, adresa pro doručování: Opava, Denisovo náměstí 1, IČO 41197518, proti povinnému Ing. R. V., K., zastoupenému JUDr. Josefem Cholastou, advokátem se sídlem v Krnově, Hlavní náměstí 46/14, pro 267.480,- Kč s příslušenstvím, vedené u Okresního soudu v Bruntále, pobočky v Krnově pod sp. zn. 19 EXE 157/2012, o dovolání povinného proti usnesení Krajského soudu v Ostravě ze dne 30. srpna 2013, č. j. 66 Co 692/2013-61, takto:
+Dovolání se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud dovolání povinného proti usnesení Krajského soudu v Ostravě ze dne 30. 8. 2013, č. j. 66 Co 692/2013-61, podle ustanovení § 243c odst. 1 věty první zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2013 (srov. Čl. II, bod 2. zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dále jen „o. s. ř.“) odmítl, neboť závěr odvolacího soudu, že při nařízení exekuce se soud nezabývá promlčením vymáhané pohledávky a že námitka promlčení je relevantní a přísluší o ní rozhodovat pouze v řízení o návrhu na zastavení exekuce podle § 268 odst. 1 písm. h) o. s. ř., je v souladu s ustálenou judikaturou, od níž není důvod se odchýlit (srov. stanovisko Nejvyššího soudu ČSR ze dne 18. 2. 1981, sp. zn. Cpj 159/79, uveřejněné pod číslem 21/1981 ve Sbírce soudních rozhodnutí a stanovisek, dále např. usnesení Nejvyššího soudu ze dne 23. 10. 2007, sp. zn. 20 Cdo 642/2007, usnesení Nejvyššího soudu ze dne 30. 5. 2012, sp. zn. 20 Cdo 2277/2011).
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 18. března 2014
+JUDr. Pavlína Brzobohatá
+předsedkyně senátu
