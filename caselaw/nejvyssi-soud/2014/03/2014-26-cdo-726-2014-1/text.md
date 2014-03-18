@@ -1,0 +1,13 @@
+26 Cdo 726/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě z předsedkyně JUDr. Pavlíny Brzobohaté a soudkyň JUDr. Jitky Dýškové a Doc. JUDr. Věry Korecké, CSc., v exekuční věci oprávněné GE Money Bank, a. s., se sídlem v Praze 4, Vyskočilova 1422/1a, IČO 25672720, zastoupené JUDr. Marií Cilínkovou, advokátkou se sídlem v Praze 1, Bolzanova 1615/1, proti povinné Z. Š., O.-L., zastoupené Mgr. Marcelou Staňkovou, advokátkou se sídlem v Havířově, Dlouhá třída 470/17, pro 12.648,- Kč s příslušenstvím, vedené u Okresního soudu v Karviné, pobočky v Havířově pod sp. zn. 125 Nc 1657/2009, o dovolání povinné proti usnesení Krajského soudu v Ostravě ze dne 24. dubna 2013, č. j. 66 Co 157/2013-90, takto:
+Dovolání povinné se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Krajský soud v Ostravě (soud odvolací) usnesením ze dne 24. 4. 2013, č. j. 66 Co 157/2013-90, potvrdil usnesení Okresního soudu v Karviné, pobočka v Havířově (soud prvního stupně) ze dne 11. 1. 2013, č. j. 125 Nc 1657/2009-80, (vydané poté, co jeho předchozí usnesení ze dne 15. 8. 2011, č. j. 125 Nc 1657/2009-23, bylo zrušeno usnesením odvolacího soudu ze dne 30. 11. 2011, č. j. 66 Co 801/2011-44), jímž soud prvního stupně zamítl návrh povinné na zastavení exekuce nařízené k uspokojení pohledávky oprávněné ve výši 12.648,- Kč s úrokem z prodlení ve výši 0,1% denně z částky 8.570,- Kč od 3. 6. 2005 do zaplacení, nákladů předcházejícího řízení ve výši 8.008,- Kč a nákladů oprávněné a exekuce, které budou v průběhu řízení stanoveny.
+Dovolání povinné proti usnesení odvolacího soudu Nejvyšší soud projednal a rozhodl o něm podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013 (srov. čl. II, bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dále jen „o. s. ř.“).
+Dovolání není přípustné, protože směřuje proti usnesení odvolacího soudu, jímž bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50.000,- Kč (§ 238 odst. 1 písm. d/ o. s. ř.). Přípustnost dovolání nezakládá ani nesprávné poučení odvolacího soudu, že dovolání je přípustné (srov. usnesení Nejvyššího soudu ze dne 27. 6. 2002, sp. zn. 29 Odo 425/2002, uveřejněné pod číslem 51/2003 Sbírky soudních rozhodnutí a stanovisek). Nejvyšší soud proto dovolání podle ustanovení § 243c odst. 1 o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 18. března 2014
+JUDr. Pavlína Brzobohatá
+předsedkyně senátu
