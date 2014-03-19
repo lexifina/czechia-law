@@ -1,0 +1,12 @@
+30 Cdo 430/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové, Ph.D. a soudců JUDr. Vladimíra Mikuška a JUDr. Pavla Pavlíka v exekuční věci oprávněné CCRB, a. s., se sídlem v Praze, Olivova 948/6, identifikační číslo osoby 24723576, zastoupené JUDr. Martinem Strakou, advokátem se sídlem v Praze, Londýnská 674/55, proti povinné J. Ch., pro 122.152,41 Kč s příslušenstvím, vedené u Okresního soudu Praha - východ, pod sp. zn. 29 EXE 12863/2011, o dovolání povinné proti usnesení Krajského soudu v Praze ze dne 28. 12. 2012, č. j. 26 Co 636/2012-100, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í :
+Krajský soud v záhlaví označeným rozhodnutím potvrdil usnesení ze dne 16. 7. 2012, č. j. 29 EXE 12863/2011-69, kterým okresní soud zamítl návrh povinné na zastavení exekuce. Povinná napadla usnesení krajského soudu dovoláním, jež vykazovalo nedostatek bránící pokračování dovolacího řízení (nebylo sepsáno advokátem). Protože ze spisu nevyplývalo, že by byla dovolatelka právnicky vzdělána, soud ji usnesením ze dne 2. 5. 2013, č. j. 29 EXE 12863/2011-155, vyzval, aby si ve lhůtě 30 dnů od doručení zvolila advokáta a jeho prostřednictvím podala řádné dovolání. Zároveň ji poučil, že nevyhoví-li výzvě, dovolací soud řízení zastaví. K žádosti povinné soud usnesením ze dne 25. 9. 2013, č. j. 29 EXE 12863/2011-178 (jež nabylo právní moci dne 10. 12. 2013), zamítl návrh povinné na ustanovení zástupce z řad advokátů a dovolatelka ani poté uvedený nedostatek neodstranila.
+Jelikož povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – kromě usnesení, kterým se dovolací řízení právě pro neodstranění tohoto nedostatku zastavuje – vydání rozhodnutí, jímž se řízení končí, a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu nedošlo, Nejvyšší soud řízení o dovolání podle § 104 odst. 2 a § 243c odst. 1 zákona č. 99/1963 Sb., občanský soudní řád ve znění účinném od 1. 7. 2009 do 31. 12. 2012 (viz. čl. II Přechodná ustanovení, bod 12 části první zákona č. 7/2009 Sb. a čl. II Přechodná ustanovení, bod 7 části první zákona č. 404/2012 Sb.), zastavil.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 19. března 2014
+JUDr . Miroslava Jirmanová, Ph.D.
+předsedkyně senátu
