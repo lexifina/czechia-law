@@ -1,0 +1,12 @@
+30 Nd 304/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové, Ph.D., a soudců JUDr. Vladimíra Mikuška a JUDr. Pavla Pavlíka v právní věci žalobce Česká podnikatelská pojišťovna, a. s., Vienna Insurance Group, se sídlem v Praze 8, Pobřežní 665/23, identifikační číslo osoby 63998530, zastoupeného Mgr. Janem Ševčíkem, advokátem se sídlem v Praze 5, Na královně 862, proti žalovanému M. F., o zaplacení 2 089,- Kč s příslušenstvím, vedené u Okresního soudu v Prostějově pod sp. zn. 14 C 54/2013, o určení místní příslušnosti soudu, takto:
+Usnesení Okresního soudu v Prostějově ze dne 16. září 2013, č. j. 14 C 54/2013-31, se ruší a věc se vrací tomuto soudu k dalšímu řízení.
+O d ů v o d n ě n í :
+Žalobce se návrhem na vydání elektronického platebního rozkazu doručeným dne 14. 6. 2013 Okresnímu soudu v Prostějově domáhá vydání rozhodnutí o zaplacení 2089,- Kč s příslušenstvím z titulu neuhrazení pojistného. Okresní soud v Prostějově usnesením ze dne 16. 9. 2013, č. j. 14 C 54/2013-31, vyslovil svou místní nepříslušnost a rozhodl, že po právní moci bude věc postoupena Nejvyššímu soudu České republiky k rozhodnutí o určení místně příslušného soudu. Vyšel ze zjištění, že žalovaný se na adrese uvedené v žalobě nezdržuje, v centrálním registru obyvatel není evidován a jedná-li se o občana EU, nemá povinnost mít na území ČR upravený pobyt. Protože nemá a ani v době zahájení řízení neměl v ČR bydliště a nezdržuje se zde, nemá v České republice obecný soud a podmínky určení místní příslušnosti soudu chybějí.
+Podle § 11 odst. 3 zákona č. 99/1963 Sb., občanský soudní řád ve znění do 31. 12. 2013 (dále jen „o. s. ř.“), jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Z odůvodnění usnesení ze dne 16. září 2013, č. j. 14 C 54/2013-31, však nevyplývá, že se Okresní soud v Prostějově zabýval též posouzením otázky, zda je vůbec dána pravomoc soudů České republiky, případně jaké skutečnosti by tuto pravomoc zakládaly. Protože bez tohoto závěru nejsou splněny podmínky pro přijetí rozhodnutí podle § 11 odst. 3 o. s. ř., Nejvyšší soud České republiky usnesení okresního soudu zrušil a věc mu vrátil k dalšímu řízení.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 19. března 2014
+JUDr. Miroslava Jirmanová, Ph.D.
+předsedkyně senátu
