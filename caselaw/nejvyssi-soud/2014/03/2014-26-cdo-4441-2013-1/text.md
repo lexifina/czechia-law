@@ -1,0 +1,11 @@
+26 Cdo 4441/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně Doc. JUDr. Věry Korecké, CSc., a soudkyň JUDr. Jitky Dýškové a JUDr. Pavlíny Brzobohaté, ve věci žalobců: a) M. Š., b) MUDr. L. K., c) MUDr. J. K., zastoupených JUDr. Milanem Chmelíkem, advokátem se sídlem v Hradci Králové, Velké náměstí 135/19, proti žalované J. V., zastoupené JUDr. Gabrielou Vilímkovou, advokátkou se sídlem v Hradci Králové, Orlická 163, o zaplacení částky 538.095,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 8 pod sp. zn. 109 EC 8/2012, o dovolání žalobce a) proti usnesení Městského soudu v Praze ze dne 27. srpna 2013, č. j. 25 Co 340/2013-105, takto:
+Dovolání se odmítá.
+S t r u č n é o d ů v o d n ě n í (§ 243f odst. 3 o. s. ř.):
+Dovolání žalobce a) proti usnesení Městského soudu v Praze ze dne 27. 8. 2013, č. j. 25 Co 340/2013-105, jímž bylo potvrzeno usnesení Obvodního soudu pro Prahu 8 (soud prvního stupně) ze dne 8. 7. 2013, č. j. 109 EC 8/2012-97, o zamítnutí návrhu žalobce a) na osvobození od soudních poplatků, není přípustné podle ustanovení § 237 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013 (srov. čl. II bod 2 zákona č. 293/2013 Sb. – dále jen „o. s. ř.“), neboť rozhodnutí odvolacího soudu je v souladu s aktuální rozhodovací praxí dovolacího soudu (usnesení Nejvyššího soudu ze dne 17. 7. 2013, sp. zn. 29 Cdo 1301/2013, uveřejněném pod číslem 99/2013 Sbírky soudních rozhodnutí a stanovisek, usnesení Nejvyššího soudu ze dne 18. 9. 2013, sp. zn. 30 Cdo 2643/2013) a není důvod, aby rozhodná právní otázka [že žalobce a) nesplňuje podmínky podle § 138 odst. 1 o. s. ř. pro přiznání osvobození od soudních poplatků] byla posouzena jinak. Z uvedené judikatury plyne, že objektivní schopnost účastníka uhradit soudní poplatek je třeba posoudit v celkovém kontextu, což odvolací soud (i soud prvního stupně) učinil.
+Protože tímto rozhodnutím dovolacího soudu se řízení o věci nekončí, bude rozhodnuto i o náhradě nákladů vzniklých v tomto dovolacím řízení v konečném rozhodnutí soudu prvního stupně, popřípadě soudu odvolacího (§ 243b, § 151 odst. 1 o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 20. března 2014
+Doc. JUDr. Věra K o r e c k á, CSc.
+předsedkyně senátu
