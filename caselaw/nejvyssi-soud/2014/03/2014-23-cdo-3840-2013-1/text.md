@@ -1,0 +1,22 @@
+23 Cdo 3840/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Horáka, Ph.D. a soudců JUDr. Zdeňka Dese a JUDr. Kateřiny Hornochové ve věci žalobkyně ExaSoft Czech a.s., se sídlem v Havířově - Podlesí, Dlouhá třída 1226/44, PSČ 736 01, identifikační číslo osoby 27855872, zastoupené JUDr. Jaromírem Kremerem, advokátem, se sídlem Orlová - Lutyně, Úzká 1108, proti žalované ANGELINA LIMI s.r.o., se sídlem v Havířově - Šumbark, Ostravská 586/4, PSČ 736 01, identifikační číslo osoby 27848531, zastoupené JUDr. Hanou Reclíkovou, advokátkou, se sídlem v Opavě, Bílovecká 62, o zaplacení částky 167.512,- Kč s příslušenstvím, vedené u Okresního soudu v Karviné - pobočka v Havířově pod sp. zn. 169 C 431/2010, o dovolání žalobkyně proti rozsudku Krajského soudu v Ostravě ze dne 30. května 2013, č. j. 15 Co 1047/2012-149, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Karviné - pobočka v Havířově, rozsudkem ze dne 18. července 2012, č. j. 169 C 431/2010-111, ve znění opravného usnesení téhož soudu ze dne 10. srpna 2012, č. j. 169 C 431/2010-115, zamítl žalobu v rozsahu požadavku na zaplacení částky 155.159,- Kč se zákonným úrokem z prodlení za dobu od 14. května 2010 do zaplacení (bod I. výroku), dále uložil žalované povinnost zaplatit žalobkyni částku 12.353,- Kč s příslušenstvím v tomto výroku blíže specifikovaným (bod II. výroku) a rozhodl o náhradě nákladů řízení (bod III. výroku).
+K odvolání žalobkyně (proti zamítavému výroku) odvolací soud rozsudkem v záhlaví uvedeným rozsudek soudu prvního stupně v napadeném výroku o nákladech řízení změnil tak, že uložil žalobkyni povinnost zaplatit žalované na náhradu nákladů řízení částku 42.125,30 Kč (první výrok), v napadeném zamítavém výroku jej potvrdil (druhý výrok) a rozhodl o náhradě nákladů odvolacího řízení (druhý výrok).
+Proti meritornímu výroku II. (a proti ostatním závislým výrokům o náhradě nákladů řízení) rozsudku odvolacího soudu podala žalobkyně dovolání, uplatňujíc dovolací důvod nesprávného právního posouzení věci.
+Žalovaná se k dovolání žalobkyně dle obsahu spisu nevyjádřila.
+Rozhodné znění občanského soudního řádu pro dovolací řízení (od 1. ledna 2013) se podává z bodů 1. a 7., článku II., zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony.
+Podle § 243c odst. 1 (ve spojení s § 243f odst. 2, 3) o. s. ř. dovolací soud dovolání odmítl, neboť má vady, pro něž nelze v dovolacím řízení pokračovat.
+Přípustnost dovolání proti rozhodnutím odvolacího soudu, jimiž se odvolací řízení končí, upravuje § 237 a § 238 o. s. ř., náležitosti dovolání pak § 241a o. s. ř.
+Podle § 241a odst. 1 o. s. ř. může být dovolacím důvodem jen nesprávné právní posouzení věci. K náležitostem dovolání patří mj. i vymezení důvodu dovolání (§ 241a odst. 3 o. s. ř.), tj. z dovolání musí vyplývat, které otázky hmotného či procesního práva, na nichž napadené rozhodnutí spočívá, vyřešil odvolací soud chybně, a proč tyto závěry považuje dovolatel za nesprávné. Dovolatel musí (§ 241a odst. 2 o. s. ř.) rovněž uvést, v čem spatřuje splnění předpokladů přípustnosti dovolání, tedy které z hledisek uvedených v § 237 o. s. ř. považuje za splněné.
+Požadavek, aby dovolatelka uvedla v dovolání, v čem spatřuje splnění předpokladů přípustnosti dovolání, je podle § 241a odst. 2 o. s. ř. obligatorní náležitostí dovolání. Může-li být dovolání přípustné jen podle § 237 o. s. ř., je dovolatelka povinna v dovolání vymezit, které z tam uvedených hledisek považuje za splněné.
+Dovolatelka však v dovolání neuvedla, v čem spatřuje splnění předpokladů přípustnosti dovolání.
+Dovolání, které neobsahuje vylíčení, v čem dovolatelka spatřuje splnění předpokladů přípustnosti dovolání (§ 241a odst. 2 o. s. ř.), je vadným podáním, které může dovolatelka doplnit o chybějící náležitosti jen do uplynutí dovolací lhůty (§ 241b odst. 3 věta první, § 243b o. s. ř.). Protože tak dovolatelka neučinila a v dovolacím řízení nelze pro tento nedostatek pokračovat, dovolací soud dovolání odmítl (§ 243c odst. 1, § 243f odst. 2 o. s. ř.).
+Výrok o náhradě nákladů dovolacího řízení nemusí být odůvodněn (§ 243f odst. 3 věta druhá o. s. ř).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 21. března 2014
+JUDr. Pavel Horák, Ph.D.
+předseda senátu
