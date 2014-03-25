@@ -1,0 +1,14 @@
+30 Cdo 1517/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v exekuční věci oprávněné A – MODA Invest s. r. o., se sídlem v Praze 2, Italská 1202/12, identifikační číslo osoby 27373720, zastoupené Mgr. Janem Stínkou, advokátem se sídlem v Kladně, Průchodní 346, proti povinným 1) J. F., a 2) M. F., pro 1,700.000,- Kč s příslušenstvím, vedené u JUDr. Milana Usnula, soudního exekutora Exekutorského úřadu Praha 9, Bryksova 763/46 pod sp. zn. 098EX 01627/09, o dovolání vydražitele J. H., zastoupeného Mgr. Ondřejem Malinou, advokátem se sídlem v Praze 7, Komunardů 36, proti usnesení Krajského soudu v Brně, pobočky ve Zlíně z 26. ledna 2012, č. j. 58Co 618/2011-114:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í :
+Proti shora označenému rozhodnutí, jímž krajský soud k odvolání oprávněné změnil usnesení soudního exekutora z 27. 7. 2011, č. j. 098EX 01627/09-091, o udělení příklepu tak, že vydražiteli J. H. se příklep neuděluje, podal vydražitel (vlastnoručně sepsané) dovolání.
+Nejvyšší soud věc projednal podle občanského soudního řádu ve znění účinném od 1. 7. 2009 do 31. 12. 2012 (čl. II Přechodných ustanovení, bod 12, zákona č. 7/2009 Sb., a čl. II Přechodných ustanovení, bod 7, zákona č. 404/2012 Sb.).
+Z ustanovení § 241 odst. 1, 2 písm. a), odst. 4 o. s. ř. plyne, že dovolatel (fyzická osoba), nemá-li právnické vzdělání, musí být zastoupen advokátem (příp. notářem), jenž musí dovolání také sepsat. Zvolí-li si advokáta až poté, co sám podal dovolání, je ke splnění podmínky dovolatelova zastoupení nezbytné, aby zmocněnec (advokát) jím dříve učiněné podání nahradil nebo doplnil vlastním, popř. sdělil soudu, že se s již učiněným podáním ztotožňuje.
+Protože podmínka povinného zastoupení dovolatele v dovolacím řízení (k jejímuž splnění je třeba i sepisu dovolání advokátem, viz usnesení Nejvyššího soudu z 27. 5. 1999, sp. zn. 26 Cdo 1121/99, uveřejněné v časopise Soudní judikatura č. 6, ročník 2000 pod poř. č. 64) je podmínkou týkající se účastníka řízení, jejíž nedostatek brání - kromě usnesení, kterým se dovolací řízení právě pro neodstranění tohoto nedostatku zastavuje - vydání rozhodnutí, jímž se řízení končí (§ 241 odst. 1 o. s. ř.), a protože ke zhojení tohoto nedostatku nedošlo ani přesto, že dovolateli byl pro účely dovolacího řízení ustanoven zástupce z řad advokátů Mgr. Ondřej Malina (jenž však dovolání sepsané vydražitelem nedoplnil vlastním podáním ani soudu nedoručil podání, jímž by se alespoň s dovoláním vydražitele ztotožnil), Nejvyšší soud řízení o dovolání podle § 104 odst. 2 a § 243c odst. 1 o. s. ř. zastavil.
+O případných nákladech dovolacího řízení bude rozhodnuto podle ustanovení Hlavy VI. exekučního řádu.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. března 2014
+JUDr. Vladimír Mikušek
+předseda senátu
