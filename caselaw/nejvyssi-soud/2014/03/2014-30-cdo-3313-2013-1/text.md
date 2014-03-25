@@ -1,0 +1,19 @@
+30 Cdo 3313/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Vladimíra Mikuška a soudců JUDr. Miroslavy Jirmanové, Ph.D., a JUDr. Pavla Pavlíka ve věci výkonu rozhodnutí oprávněné PaedDr. M. W., proti povinné UNIMEX-INVEST, s. r. o., se sídlem v Ostravě - Porubě, Svojsíkova 2/1596, identifikační číslo osoby 25872117, zastoupené Mgr. Gabrielou Nejedlíkovou, advokátkou se sídlem v Ostravě – Moravské Ostravě, Husova 2, o provedení prací a výkonů, vedené u Okresního soud v Ostravě pod sp. zn. 91 E 810/2008, o dovolání povinné proti usnesení Krajského soudu v Ostravě z 28. února 2013, č. j. 10 Co 1082/2012-253, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Shora uvedeným rozhodnutím krajský soud potvrdil usnesení z 18. září 2012, č.j. 91 E 810/2008-232, jímž okresní soud podle § 351 odst. 1 o. s. ř. uložil povinné k vymožení její povinnosti obnovit nepřetržitou dodávku vody další pokutu, nyní v částce 150.000,- Kč.
+V dovolání, jehož přípustnost dovozuje z ustanovení § 237 o. s. ř. („napadeným rozhodnutím je řešena mimo jiné otázka procesního práva, u níž povinná předpokládá jiné právní posouzení dovolacím soudem“) dovolatelka „namítá a poukazuje na pochybení, kterých se dopustily soudy obou stupňů, když s ní jednaly za situace, kdy neměla statutární orgán“.
+Nejvyšší soud dovolání projednal a rozhodl o něm podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném od 1. 1. 2013 do 31. 12. 2013 (srovnej čl. II, bod 7. zákona č. 404/2012 Sb. a část první, čl. II, bod 2. zákona č. 293/2013 Sb.).
+Podle § 241a odst. 2 o. s. ř. v dovolání musí být vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu se rozhodnutí napadá, vymezení důvodu dovolání, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) a čeho se dovolatel domáhá (dovolací návrh).
+Podle první věty ustanovení § 241b odst. 3 o. s. ř. dovolání, které neobsahuje údaje o tom, v jakém rozsahu se rozhodnutí odvolacího soudu napadá, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 237a) nebo které neobsahuje vymezení důvodu dovolání, může být o tyto náležitosti doplněno jen po dobu trvání lhůty k dovolání.
+V souzené věci dovolatelka sice uvedla, v čem spatřuje splnění předpokladů přípustnosti dovolání, jestliže se však omezila pouze na kusou formulaci, že napadeným rozhodnutím je řešena mimo jiné otázka procesního práva, u níž povinná předpokládá jiné právní posouzení dovolacím soudem, svou povinnost uloženou jí ustanovením § 241a odst. 2 nesplnila.
+V usnesení z 25. září 2013, sp. zn. 29 Cdo 2394/2013, publikovaném ve Sbírce rozhodnutí a stanovisek Nejvyšší soud uzavřel, že má-li být dovolání přípustné proto, že „dovolacím soudem vyřešená právní otázka má být posouzena jinak“, jde o způsobilé vymezení přípustnosti dovolání ve smyslu § 241a odst. 2 o. s. ř., jen je-li z dovolání zřejmé, od kterého svého řešení otázky hmotného nebo procesního práva se má (podle mínění dovolatele) dovolací soud odchýlit (srov. shodně např. usnesení Nejvyššího soudu ze dne 27. srpna 2013, sen. zn. 29 NSČR 55/2013, nebo ze dne 29. srpna 2013, sp. zn. 29 Cdo 2488/2013).
+Protože povinná uvedeným požadavkům na vymezení předpokladů přípustnosti dovolání nedostála, Nejvyšší soud je – aniž nařídil jednání (§ 243a odst. 1 věta první o. s. ř.) –jako nepřípustné podle ustanovení § 243c odst. 1 o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn skutečností, že oprávněné, jež by jinak měla na tuto náhradu právo podle ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., náklady tohoto řízení prokazatelně (podle obsahu spisu) nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 27. března 2014
+JUDr. Vladimír M i k u š e k
+předseda senátu
