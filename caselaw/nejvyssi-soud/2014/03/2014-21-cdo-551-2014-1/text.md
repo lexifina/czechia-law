@@ -1,0 +1,15 @@
+21 Cdo 551/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Romana Fialy a soudců JUDr. Jiřího Doležílka a JUDr. Ljubomíra Drápala v právní věci žalobkyně M. H., zastoupené JUDr. Ing. Pavlem Habětínem, advokátem se sídlem v Praze 6, Výhledské náměstí č. 1016/2, proti žalovaným 1) L. H., a 2) T. H., oběma zastoupeným JUDr. Miroslavem Novotným, advokátem se sídlem v Praze 3, Husinecká č. 567/3, o určení dědického práva, vedené u Okresního soudu Praha - západ pod sp. zn. 15 C 179/2011, o dovolání žalovaných 1) a 2) proti rozsudku Krajského soudu v Praze ze dne 11. července 2013, č. j. 24 Co 278/2013-305, takto:
+I. Řízení o dovolání žalovaných 1) a 2) proti rozsudku Okresního soudu Praha - západ ze dne 28. února 2013, č.j. 15 C 179/2011-264, se zastavuje; jinak se dovolání žalovaných 1) a 2) odmítá.
+II. Žalovaní 1) a 2) jsou povinni zaplatit žalobkyni společně a nerozdílně na náhradě nákladů dovolacího řízení 4.900,50 Kč do 3 dnů od právní moci tohoto usnesení k rukám JUDr. Ing. Pavla Habětína, advokáta se sídlem v Praze 6, Výhledské náměstí č. 1016/2.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Dovolání žalovaných 1) a 2) proti rozsudku Krajského soudu v Praze ze dne 11.7.2013, č.j. 24 Co 278/2013-305, není přípustné podle ustanovení § 237 o.s.ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu (k otázce náležitostí znaleckého posudku a hodnocení důkazu znaleckým posudkem srov. například rozsudek Nejvyššího soudu ČSSR ze dne 29.12.1966, sp. zn. 5 Cz 144/66, uveřejněný ve Sbírce soudních rozhodnutí a stanovisek pod č. 44, ročník 1967; zprávu Nejvyššího soudu ČSR ze dne 23.12.1980, sp. zn. Cpj 161/79, uveřejněnou ve Sbírce soudních rozhodnutí a stanovisek pod č. 1, ročník 1981; rozsudek Nejvyššího soudu ČR ze dne 15.2.2012, sp. zn. 30 Cdo 1560/2011) a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+V části, v níž dovolatelé uplatnili jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o.s.ř. (pokud vznáší výhrady proti správnosti a úplnosti skutkových zjištění a namítají jiné vady řízení, které mohly mít za následek nesprávné rozhodnutí ve věci), dovolání trpí vadami, pro které nelze v dovolacím řízení pokračovat.
+Nejvyšší soud České republiky proto dovolání žalovaných 1) a 2) proti rozsudku odvolacího soudu podle ustanovení § 243c odst. 1 věty první o.s.ř. odmítl.
+Současně Nejvyšší soud České republiky zastavil řízení o dovolání žalovaných 1) a 2) proti rozsudku Okresního soudu Praha - západ ze dne 28.2.2013, č.j. 15 C 179/2011-264, podle ustanovení § 243b a § 104 odst. 1 věty první o.s.ř. z důvodu nedostatku funkční příslušnosti Nejvyššího soudu ČR (srov. usnesení Nejvyššího soudu ČR ze dne 31. 8. 1999, sp. zn. 20 Cdo 1574/99, uveřejněné v časopise Soudní judikatura pod č. 45, ročník 2000).
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 věta druhá o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. března 2014
+JUDr. Roman Fiala
+předseda senátu
