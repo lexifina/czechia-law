@@ -1,0 +1,16 @@
+33 Cdo 675/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivany Zlatohlávkové a soudců JUDr. Blanky Moudré a JUDr. Václava Dudy ve věci žalobců a) MUDr. M. K. a b) Ing. P. K., zastoupených JUDr. Radkou Konečnou, advokátkou se sídlem v Praze 1, Široká 36/5, proti žalované STAVOPLAST KL spol. s r.o. se sídlem Stachy 266, identifikační číslo 40740056, zastoupené JUDr. Miroslavem Zámiškou, advokátem se sídlem v Praze 1, Na Příkopě 957/23, o zaplacení 330.180,- Kč s příslušenstvím, vedené u Okresního soudu v Prachaticích pod sp. zn. 20 C 1038/2009, o dovolání žalované proti rozsudku Krajského soudu v Českých Budějovicích ze dne 22. října 2013, č. j. 19 Co 1999/2013-555, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Okresní soud v Prachaticích (soud prvního stupně) rozsudkem ze dne 25. června 2013, č. j. 20 C 1038/2009-514, uložil žalované povinnost zaplatit žalobcům 330.180,- Kč se specifikovanými úroky z prodlení, žalobu o zaplacení dalších 87.934,- Kč s příslušenstvím zamítl a rozhodl o nákladech řízení. Rozhodl tak poté, co jeho předchozí rozhodnutí ve věci ze dne 5. září 2011, č. j. 20 C 1038/2009-311, ve znění doplňujícího rozsudku ze dne 15. února 2012, č. j. 20 C 1038/2009-357, Krajský soud v Českých Budějovicích usnesením ze dne 27. dubna 2012, č. j. 19 Co 836/2012-383, zrušil a věc mu vrátil k dalšímu řízení.
+Rozsudkem ze dne 22. října 2013, č. j. 19 Co 1999/2013-555, Krajský soud v Českých Budějovicích (v pořadí druhý) rozsudek soudu prvního stupně potvrdil a rozhodl o nákladech odvolacího řízení.
+Proti rozsudku odvolacího soudu podala žalovaná dovolání, které není přípustné podle § 237 zákona č. 99/1963 Sb., občanského soudního řádu, v platném znění, neboť napadené rozhodnutí nezávisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně, a nejedná se ani o případ, kdy má být dovolacím soudem vyřešená právní otázka posouzena jinak (§ 237 o. s. ř.).
+Podle 241a o. s. ř. lze dovolání podat pouze z důvodu, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci. Žalovaná v dovolání tento jediný způsobilý dovolací důvod neuplatnila, neboť její dovolací námitky ve skutečnosti nesměřují proti právnímu posouzení věci, nýbrž soudům je vytýkána nesprávnost skutkových zjištění, na nichž je založen právní závěr, že právo žalobců na slevu z kupní ceny není promlčeno. Oproti odvolacímu soudu totiž žalovaná prosazuje názor, že vada reklamovaná dne 3. 1. 2007 je shodná s již dříve reklamovanou vadou (řečeno jinak, že vytýkán byl stále týž nedostatek rodinného domu). Nesprávná skutková zjištění nejsou podle současné právní úpravy způsobilým dovolacím důvodem (viz § 241a odst. 1 o. s. ř. a contrario).
+Nejvyšší soud proto dovolání podle § 243c odst. 1 o. s. ř. jako nepřípustné odmítl.
+Bylo-li dovolání odmítnuto, nemusí být rozhodnutí o náhradě nákladů dovolacího řízení odůvodněno (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 26. března 2014
+JUDr. Ivana Zlatohlávková
+předsedkyně senátu
