@@ -1,0 +1,12 @@
+21 Cdo 602/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Romana Fialy a soudců JUDr. Jiřího Doležílka a JUDr. Ljubomíra Drápala ve věci žalobce O. V., zastoupeného JUDr. Jaroslavou Krybusovou, advokátkou se sídlem v Českých Budějovicích, Nám. Přemysla Otakara II. č. 58/16, proti žalovaným 1) M. V. a 2) O. V., oběma zastoupeným JUDr. Petrem Říhou, advokátem se sídlem v Třeboni, Palackého nám. č. 106, o určení dědického práva, vedené u Okresního soudu v Jindřichově Hradci pod sp. zn. 9 C 156/2012, o dovolání žalovaných 1) a 2) proti usnesení Krajského soudu v Českých Budějovicích ze dne 30. srpna 2013, č. j. 7 Co 1606/2013-34, takto:
+Dovolání žalovaných 1) a 2) se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Dovolání žalovaných 1) a 2) proti usnesení Krajského soudu v Českých Budějovicích ze dne 30.8.2013, č.j. 7 Co 1606/2013-34, není přípustné podle ustanovení § 237 o.s.ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu (k závěru odvolacího soudu o poučovací povinnosti soudu podle § 43 odst. 1 o.s.ř. srov. například usnesení Nejvyššího soudu ČR ze dne 20.8.2003, sp. zn. 21 Cdo 909/2003, které bylo uveřejněno pod č. 152 v časopise Soudní judikatura, ročník 2003; rozsudek Nejvyššího soudu ČR ze dne 9.5.2006, sp. zn. 21 Cdo 2660/2005, a rozsudek Nejvyššího soudu ČR ze dne 15.2.2007, sp. zn. 21 Cdo 1207/2006); za situace, kdy odkaz učiněný soudem v řízení o dědictví neodpovídá požadavkům ustanovení § 175k odst. 2 o.s.ř. (dědický soud nepoučil žalobce o tom, proti komu má být žaloba podána), je v souladu s ustálenou rozhodovací praxí dovolacího soudu rovněž závěr odvolacího soudu, že soud ve sporném řízení je povinen poučit žalobce podle ustanovení § 175k odst. 2 o.s.ř. (srov. například rozsudek Nejvyššího soudu ČR ze dne 22.3.2013, sp. zn. 21 Cdo 4240/2011, a usnesení Nejvyššího soudu ČR ze dne 16.11.2012, sp. zn. 21 Cdo 3845/2010), a není důvod, aby rozhodné právní otázky byly posouzeny jinak.
+Nejvyšší soud České republiky proto dovolání žalovaných 1) a 2) podle ustanovení § 243c odst. 1 věty první o.s.ř. odmítl.
+Protože tímto rozhodnutím dovolacího soudu se řízení o věci nekončí, bude rozhodnuto i o náhradě nákladů vzniklých v tomto dovolacím řízení v konečném rozhodnutí soudu prvního stupně, popřípadě odvolacího soudu (§ 243b a § 151 odst. 1 o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. března 2014
+JUDr. Roman Fiala
+předseda senátu
