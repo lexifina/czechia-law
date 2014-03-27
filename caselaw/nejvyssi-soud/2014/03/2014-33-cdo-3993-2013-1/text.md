@@ -1,0 +1,14 @@
+33 Cdo 3993/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Václava Dudy a soudců JUDr. Pavla Krbka a JUDr. Ivany Zlatohlávkové ve věci žalobce Š. Š., zastoupeného Mgr. Šimonou Maškovou, advokátkou se sídlem v Praze 9, Boušova 792, proti žalovanému Bc. Bc. L. N., zastoupenému JUDr. Pavlem Musilem, Ph.D., advokátem se sídlem v Praze 1, Hellichova 1, o 202.976,- Kč s příslušenstvím, vedené u Okresního soudu Praha-západ pod sp. zn. 5 C 282/2011, o dovolání žalobce proti rozsudku Krajského soudu v Praze ze dne 28. března 2013, č. j. 21 Co 10/2013-86, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalobce podal dovolání proti v záhlaví označenému rozhodnutí, jímž krajský soud potvrdil rozsudek ze dne 20. června 2012, č. j. 5 C 282/2011-59, kterým Okresní soud Praha-západ zamítl žalobu o zaplacení částky 202.976,- Kč s blíže specifikovaným úrokem z prodlení. Přípustnost dovolání dovozuje z ustanovení § 237 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném od 31. 12. 2013 (srov. čl. II. bod 1. zákona č. 404/2012 Sb. a čl. II. bod 2. zákona č. 293/2013 Sb. - dále jen „o. s. ř.“), neboť má za to, že napadené rozhodnutí závisí na otázkách hmotného a procesního práva, při jejichž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu, a „právní otázka má být dovolacím soudem vyřešena odlišně od řešení odvolacího soudu.“
+Předpoklady přípustnosti podle § 237 o. s. ř. nejsou splněny, neboť žalobce podle obsahu podání (§ 41 odst. 2 o. s. ř.) neuplatnil důvod nesprávného právního posouzení věci (§ 241a odst. 1 o. s. ř.). Dovoláním uplatněné námitky nesměřují proti právnímu posouzení, nýbrž vytýkají nesprávnost a neúplnost skutkových zjištění, na nichž je založen právní závěr o zániku závazku žalovaného splněním dluhu. Odvolací soud měl podle žalobce právně posuzovat jiný skutkový stav, neboť poskytnutým plněním žalovaný plnil na jiný dluh a nikoli na dluh, který byl předmětem tohoto sporu; uplatněním způsobilého dovolacího důvodu ve smyslu § 241a odst. 1 o. s. ř. není zpochybnění právního posouzení věci, vychází-li z jiného skutkového stavu, než z jakého vyšel při posouzení věci odvolací soud; samotné hodnocení důkazů odvolacím soudem (opírající se o zásadu volného hodnocení důkazů zakotvenou v ustanovení § 132 o. s. ř.) nelze (ani v režimu dovolacího řízení podle občanského soudního řádu ve znění účinném od 1. ledna 2013) úspěšně napadnout dovolacím důvodem podle § 241a odst. 1 o. s. ř.
+Nepřípustné dovolání Nejvyšší soud odmítl (§ 243c odst. 1, věta první o. s. ř.).
+Výrok o náhradě nákladů dovolacího řízení nemusí být odůvodněn (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 27. března 2014
+JUDr. Václav Duda
+předseda senátu
