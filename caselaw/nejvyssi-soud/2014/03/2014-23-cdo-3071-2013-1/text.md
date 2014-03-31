@@ -1,0 +1,17 @@
+23 Cdo 3071/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Dese a soudců JUDr. Kateřiny Hornochové a JUDr. Ing. Pavla Horáka, Ph.D., ve věci žalobkyně Compromis Czech s.r.o., se sídlem v Sušicích, Hrádecká 493, PSČ 342 01, IČO 28067487, zastoupené Mgr. Janem Hoškem, advokátem, se sídlem ve Strakonicích, Sokolovská 980, PSČ 386 01, proti žalovanému T. K., zastoupenému JUDr. Tomášem Samkem, advokátem, se sídlem v Příbrami, Pražská 140, PSČ 261 01, o zaplacení částky 135 863,84 Kč s příslušenstvím, vedené u Okresního soudu v Prachaticích pod sp. zn. 20 C 259/2009, o dovolání žalovaného proti rozsudku Krajského soudu v Českých Budějovicích ze dne 19. března 2013, č. j. 22 Co 2852/2012-299, takto:
+I. Dovolání se odmítá.
+II. Žalovaný je povinen zaplatit žalobkyni na náhradu nákladů dovolacího řízení částku 8 276 Kč do tří dnů od právní moci tohoto usnesení k rukám Mgr. Jana Hoška, advokáta, se sídlem ve Strakonicích, Sokolovská 980, PSČ 386 01.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.) :
+Nejvyšší soud České republiky (dále jen „Nejvyšší soud“) dovolání žalovaného proti rozsudku Krajského soudu v Českých Budějovicích ze dne 19. března 2013, č. j. 22 Co 2852/2012-299, odmítl podle § 243c odst. 1 o. s. ř., a to z několika níže uvedených důvodů.
+Otázka navozená dovolatelem jako první v pořadí nemůže vyvolat přípustnost dovolání podle § 237 o. s. ř. Dovolatel odkazuje na ustanovení smlouvy o dílo, která nebyla předmětem skutkových zjištění soudu prvního stupně a soudu odvolacího, tudíž k nim dovolací soud ve smyslu ustanovení § 241a odst. 6 o. s. ř. přihlížet nemůže. Totéž platí pro tvrzení dovolatele ohledně převzetí projektové dokumentace železobetonových stropů.
+Ohledně „otázky“ dovolatelem navozené jako druhé v pořadí nebylo vymezeno, v čem dovolatel spatřuje důvod přípustnosti dovolání (§ 241a odst. 2 o. s. ř.), když z obsahu dovolání není patrno, o kterou otázku hmotného nebo procesního práva má jít a od které „ustálené rozhodovací praxe“ se řešení této právní otázky odvolacím soudem odchyluje (srov. usnesení Nejvyššího soudu ze dne 25. září 2013, sp. zn. 29 Cdo 2394/2013, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod číslem 4/2014). Ohledně této otázky tedy dovolání trpí vadou, která nebyla ve lhůtě podle § 241b odst. 3 o. s. ř. odstraněna a nelze pro ni v dovolacím řízení pokračovat.
+Třetí dovolatelem navozená otázka sice splňuje podmínku vymezení důvodu přípustnosti dovolání, avšak přípustnost dovolání není způsobilá vyvolat. Otázka konkrétního postupu znalce je otázkou hodnocení souladu zadání znaleckého úkolu a znaleckého posudku, tedy otázkou hodnocení důkazů jakožto činnosti vedoucí ke zjištění skutkového stavu. Dovolací soud je však vázán skutkovými zjištěními soudů v předchozím řízení. Dovolání tak z tohoto důvodu nemůže být podle § 237 o. s. ř. přípustné.
+V pořadí poslední otázkou navozenou dovolatelkou se dovolací soud nemohl zabývat, neboť se týkala vady řízení, ke které by dovolací soud za určitých podmínek mohl přihlédnout pouze v případě přípustnosti dovolání (§ 243 odst. 2 o. s. ř.). Samotná vada řízení však přípustnost dovolání podle § 237 o. s. ř. vyvolat nemůže.
+Výrok o náhradě nákladů řízení se v souladu s § 243f odst. 3 o. s. ř. neodůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+Nesplní-li žalovaný dobrovolně, co mu ukládá toto vykonatelné rozhodnutí, může žalobkyně podat návrh na výkon rozhodnutí (exekuci).
+V Brně dne 31. března 2014
+JUDr. Zdeněk Des
+předseda senátu
