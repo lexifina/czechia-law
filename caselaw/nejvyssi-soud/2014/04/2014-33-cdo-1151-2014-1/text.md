@@ -1,0 +1,19 @@
+33 Cdo 1151/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu JUDr. Ivanou Zlatohlávkovou ve věci žalobkyně České republiky - Krajského ředitelství policie kraje Vysočina, se sídlem úřadu v Jihlavě, Vrchlického 2627, proti žalovanému M. K., o zaplacení 1.575,- Kč s příslušenstvím, vedené u Okresního soudu v Pelhřimově pod sp. zn. EPR 67500/2012 (6 C 55/2013), o dovolání žalovaného proti usnesení Krajského soudu v Českých Budějovicích - pobočky v Táboře ze dne 27. června 2013, č. j. 15 Co 439/2013-55, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Okresní soud v Pelhřimově usnesením ze dne 2. května 2013, č. j. EPR 67500/2012-14, rozhodl, že zpětvzetí návrhu žalobkyně na zahájení řízení ve věci o zaplacení 1.575,- Kč s příslušenstvím, doručené soudu dne 18. 3. 2013, není účinné, neboť návrh byl vzat zpět až poté, co rozhodnutí ve věci již nabylo právní moci (§ 96 odst. 5 o. s. ř.).
+Krajský soud v Českých Budějovicích - pobočka v Táboře usnesením ze dne 27. června 2013, č. j. 15 Co 439/2013-55, usnesení soudu prvního stupně potvrdil.
+Proti usnesení odvolacího soudu podal žalovaný dne 25. 9. 2013 dovolání (nesprávně označené jako „odvolání“).
+Dovolání bylo podáno včas k tomu legitimovaným subjektem (žalovaným), nejsou však dány podmínky pro jeho věcné projednání.
+Podle § 241 odst. 1 věty první zákona č. 99/1963 Sb., občanského soudního řádu, v platném znění (dále jen „o. s. ř.“), musí být dovolatel zastoupen advokátem nebo notářem; to neplatí, má-li dovolatel právnické vzdělání, popřípadě jedná-li za něj osoba uvedená v § 21 nebo v § 21a anebo v § 21b, která má právnické vzdělání. Notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními předpisy. Podle § 241 odst. 4 o. s. ř. nemá-li dovolatel právnické vzdělání, musí být dovolání sepsáno advokátem, notářem nebo osobou uvedenou v § 21 nebo § 21a anebo § 21b, která má právnické vzdělání. Citované ustanovení představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit; bez jejího splnění však nelze vydat rozhodnutí, kterým se řízení končí (rozhodnutí ve věci samé).
+Protože z dovolání ani z obsahu spisu nevyplývalo, že by žalovaný byl v dovolacím řízení zastoupen advokátem, případně že by sám měl právnické vzdělání, soud prvního stupně jej usnesením ze dne 8. listopadu 2013, 6 C 55/2013-62, správně vyzval, aby si pro podání dovolání zvolil zástupcem advokáta a jeho prostřednictvím podal ve lhůtě deseti dnů od doručení tohoto usnesení řádné dovolání; současně jej poučil, že pokud tak ve stanovené lhůtě neučiní, tj. nebude-li soudu předložena plná moc zvoleného advokáta a jím sepsané dovolání, bude dovolací řízení zastaveno (odmítnuto). Na tuto výzvu, která byla žalovanému doručena dne 19. 11. 2013, žalovaný nereagoval.
+Podmínka povinného zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání - kromě usnesení, kterým se dovolací řízení právě pro neodstranění tohoto nedostatku zastavuje, a případů uvedených v § 241b odst. 2 větě za středníkem o. s. ř. - vydání rozhodnutí, jímž se řízení končí (§ 241 odst. 1 o. s. ř.). Protože v posuzovaném případě ke zhojení tohoto nedostatku přes řádnou výzvu soudu nedošlo, dovolací soud dovolací řízení zastavil (§ 241b odst. 2 část věty před středníkem a § 104 odst. 2 věta třetí o. s. ř.).
+Jen pro úplnost dovolací soud považuje za vhodné uvést, že dovolatel v dovolání nevymezil jeho důvod a ani v něm neuvedl, v čem spatřuje splnění předpokladů jeho přípustnosti; argumentuje výlučně tím, že žalovanou částku s příslušenstvím po vydání elektronického platebního rozkazu již zaplatil.
+Výrok o náhradě nákladů dovolacího řízení nemusí být odůvodněn (§ 243f odst. 3 věta druhá o. s. ř.)
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 4. dubna 2014
+JUDr. Ivana Zlatohlávková
+předsedkyně senátu
