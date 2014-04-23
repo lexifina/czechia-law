@@ -1,0 +1,18 @@
+30 Cdo 4294/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Vladimíra Mikuška a soudkyň JUDr. Miroslavy Jirmanové, Ph.D., a JUDr. Lenky Dopitové v exekuční věci oprávněných a) Z. M., a b) J. M., proti povinným 1) J. Š., 2) F. Š., zastoupeným JUDr. Juditou Jakubčíkovou, advokátkou se sídlem v Klatovech, Krameriova č. 139, pro částku 202.895,- Kč s příslušenstvím, vedené u Okresního soudu v Klatovech pod sp. zn. 15 Nc 3174/2005, a u JUDr. Dalimila Miky, LL.M., soudního exekutora Exekutorského úřadu v Klatovech, Za Beránkem 836, pod sp. zn. 120 EX 285/05, o dovolání povinných proti usnesení Krajského soudu v Plzni z 29. srpna 2013, sp. zn. 56 Co 399/2013, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Usnesením z 12. listopadu 2012, č.j. 120 EX 285/05-62, soudní exekutor ve vztahu k 1. povinné exekuci zastavil a rozhodl, že „exekuce bude nadále vedena již jen proti 2. povinnému F. Š..“ Proti usnesení soudního exekutora podali oba povinní odvolání.
+Napadeným usnesením krajský soud odvolání 1. povinné pro subjektivní nepřípustnost podle § 218 písm. b) o. s. ř. odmítl a o odvolání 2. povinného nerozhodl.
+Proti rozhodnutí odvolacího soudu podali oba povinní dovolání, jehož přípustnost dovozují z ustanovení § 237 o. s. ř. (avšak bez specifikace, který ze čtyř jednotlivých důvodů přípustnosti dovolání v uvedeném ustanovení vymezených má být dán).
+Dovolací soud, jenž vzhledem k článku II., bodu 7., části první zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, a části první, článku II, bodu 2. zákona č. 293/2013 Sb., jakož i s ohledem na skutečnost, že napadené rozhodnutí bylo vydáno 29. srpna 2013, o dovolání rozhodl podle občanského soudního řádu ve znění účinném od 1. ledna do 31. prosince 2013, se zabýval nejprve otázkou přípustnosti dovolání a v tomto směru dospěl k závěru, že dovolání přípustné není.
+Podle ustanovení § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Dovolání 1. povinné je nepřípustné proto, že směřuje proti usnesení, proti němuž je přípustná žaloba pro zmatečnost podle § 229 odst. 4 o. s. ř. (viz ustanovení § 238 odst. 1 písm. f/ o. s. ř. ).
+Pokud pak jde o dovolání 2. povinného, to je nepřípustné proto, že pojmově není možno podat dovolání proti rozhodnutí, které nebylo vydáno. K tomu lze dodat, že obecně platí, že není pojmově možné uvažovat ani o odvolání (a tedy i dovolání) proti výroku (jeho části), který nebyl vydán (viz např. usnesení Nejvyššího soudu sp. zn. 20 Cdo 2288/2005, případně 20 Cdo 3818/2013, nebo z literatury např. Drápal, L., Bureš, J. a kol. Občanský soudní řád II., § 1-200za. Komentář. 1. vydání. Praha: C.H.Beck, 2009, 1126 s.). Podání účastníka, které obsahuje námitky proti chybějícímu rozhodnutí, je zpravidla namístě posoudit jako návrh na vydání doplňujícího rozhodnutí. V souzené věci by však beztak doplňující usnesení vydáno být nemohlo, neboť návrh na jeho vydání do patnácti dnů od doručení usnesení odvolacího soudu účastníkům řízení podán nebyl (§ 166 odst. 1 ve spojení s ustanovením § 167 odst. 2 o. s. ř.).
+Protože, jak plyne z výše uvedeného, o žádný z případů přípustnosti dovolání vymezených ustanovením § 237 o. s. ř. nejde, Nejvyšší soud dovolání jako nepřípustné podle § 243c odst. 1 o. s. ř. odmítl.
+O případné náhradě nákladů dovolacího řízení bude rozhodnuto podle ustanovení Hlavy VI. exekučního řádu.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 23. dubna 2014
+JUDr. Vladimír Mikušek
+předseda senátu
