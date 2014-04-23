@@ -1,0 +1,21 @@
+30 Cdo 599/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové, Ph. D. a soudců JUDr. Vladimíra Mikuška a JUDr. Lenky Dopitové v exekuční věci oprávněné ABEWY EXE GROUP, s. r. o., se sídlem v Praze 3, Táboritská 1000/23, identifikační číslo osoby 27944514, zastoupené JUDr. Pavlem Bergerem, advokátem se sídlem v Praze 10, Bělocerkevská 1037/38, proti povinnému T. J., pro 88.290,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 8 pod sp. zn. 15 EXE 2406/2011, o dovolání oprávněné proti usnesení Městského soudu v Praze ze dne 12. listopadu 2013, č. j. 21 Co 290/2013-207, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů řízení před dovolacím soudem.
+O d ů v o d n ě n í :
+Usnesením ze dne 27. 7. 2011, č. j. 15 EXE 2406/2011-47, nařídil soud podle vykonatelného rozhodčího nálezu ze dne 25. 9. 2009, sp. zn. R/292/2009, exekuci k uspokojení pohledávky oprávněné ve výši 88.290,- Kč s příslušenstvím a jejím provedením pověřil JUDr. Vladimíra Plášila, Exekutorský úřad Praha 7. V průběhu řízení navrhl povinný zastavení exekuce. Usnesením ze dne 3. 5. 2013, č. j. 15 EXE 2406/2011-144, soud prvního stupně návrh zamítl.
+Odvolací soud v záhlaví označeným rozhodnutím změnil usnesení soudu prvního stupně tak, že se nařízená exekuce prohlašuje za nepřípustnou a zastavuje se (výrok I.), že oprávněná je povinna zaplatit náklady exekuce ve výši 4.235,- Kč soudnímu exekutorovi (výrok II.) a že žádný z účastníků nemá právo na náhradu nákladů řízení před soudy obou stupňů (výrok III.).
+Proti usnesení odvolacího soudu podala oprávněná dovolání, jehož přípustnost dovozuje z § 237 odst. 1 písm. a) o. s. ř. a namítá, že rozhodnutí odvolacího soudu spočívá „v nesprávném právním posouzení věci, je postiženo vadou a vychází ze skutkového zjištění, které nemá ve spise oporu a řízení je postiženo vadou, která mohla mít za následek nesprávné rozhodnutí ve věci“. Dále uvedla, proč nesouhlasí se závěry odvolacího soudu. Navrhla, aby dovolací soud usnesení odvolacího soudu zrušil a věc mu vrátil k dalšímu řízení.
+Povinný ve vyjádření k dovolání uvedl, že argumentace oprávněné je účelová a irelevantní a považuje závěr odvolacího soudu za správný.
+Nejvyšší soud dovolání projednal a rozhodl o něm podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném od 1. 1. 2013 do 31. 12. 2013 (srovnej čl. II, bod 7. zákona č. 404/2012 Sb. a dále část první, čl. II, bod 2. zákona č. 293/2013 Sb.).
+Dovolání není přípustné.
+Z § 241a odst. 2 o. s. ř. vyplývá, že v dovolání musí být vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu se rozhodnutí napadá, vymezení důvodu dovolání, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) a čeho se dovolatel domáhá (dovolací návrh).
+Podle § 237 o. s. ř. je dovolání přípustné proti rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+Podle § 241b odst. 3 o. s. ř. dovolání, které neobsahuje údaje o tom, v jakém rozsahu se rozhodnutí odvolacího soudu napadá, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) nebo které neobsahuje vymezení důvodu dovolání, může být o tyto náležitosti doplněno jen po dobu trvání lhůty k dovolání.
+Z obsahu dovolání je zřejmé, že oprávněná dovozovala přípustnost dovolání z § 237 ve znění účinném do 31. 12. 2012 a opírala ho o dovolací důvody uvedené v 241a odst. 2 písm. a), b) a § odst. 3 o. s. ř. ve znění účinném do 31. 12. 2012. Protože dovolatelka přípustnost dovolání ve smyslu § 237 o. s. ř. ve znění účinném od 1. 1. 2013 nevymezila, Nejvyšší soud postupoval podle § 243c odst. 1 o. s. ř. a dovolání odmítl.
+Výrok o nákladech řízení nemusí být podle § 243f odst. 3 o. s. ř. odůvodněn.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 23. dubna 2014
+JUDr. Miroslava Jirmanová, Ph.D.
+předsedkyně senátu
