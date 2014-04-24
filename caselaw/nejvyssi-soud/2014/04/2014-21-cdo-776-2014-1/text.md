@@ -1,0 +1,14 @@
+21 Cdo 776/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a JUDr. Zdeňka Novotného v právní věci žalobce Z. P., zastoupeného JUDr. Jaroslavem Hrouzkem, CSc., advokátem se sídlem v Praze 1, Panská č. 895/6, proti žalovanému BETONBAU, s. r. o. se sídlem v Praze 10 - Malešicích, Průmyslová č. 698/5a, IČO 49614819, zastoupenému JUDr. Dominikem Brůhou, advokátem se sídlem v Praze 3, Koněvova č. 1107/54, o neplatnost okamžitého zrušení pracovního poměru, vedené u Obvodního soudu pro Prahu 10 pod sp. zn. 13 C 151/2009, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 11. dubna 2013, č. j. 29 Co 376/2010-147, takto:
+I. Dovolání žalobce se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 11. 4. 2013, č. j. 29 Co 376/2010 - 147, není přípustné podle ustanovení § 237 o. s. ř., neboť rozhodnutí odvolacího soudu vychází ze závazného právního názoru dovolacího soudu, který byl – přímo v této věci - vyjádřen v předchozím rozsudku Nejvyššího soudu ze dne 17. 10. 2012, č. j. 21 Cdo 2596/2011-127 (§ 243g odst. 1 věta první, § 226 odst. 1 o. s. ř.), a je v souladu s ustálenou rozhodovací praxí dovolacího soudu [k otázce výkladu ustanovení § 55 odst. 1 písm. b) zákoníku práce z hlediska naplnění míry intenzity porušení povinnosti zaměstnance vyplývající z právních předpisů vztahujících se k jím vykonávané práci a způsobu hodnocení míry této intenzity srov. (ve vztahu k obsahově shodné dřívější právní úpravě) rozsudek Vrchního soudu v Praze ze dne 28. 6. 1995, sp. zn. 6 Cdo 53/94, uveřejněný v časopise Práce a mzda č. 7-8, roč. 1996, rozsudek Nejvyššího soudu České republiky ze dne 19. 1. 2000, sp. zn. 21 Cdo 1228/99, uveřejněný ve Sbírce soudních rozhodnutí a stanovisek pod č. 21, roč. 2001, nebo právní názor uvedený v rozsudku Nejvyššího soudu ze dne 6. 2. 2001, sp. zn. 21 Cdo 379/2000]; není proto důvod, aby rozhodná právní otázka byla posouzena jinak.
+V části, v níž dovolatel uplatnil jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o. s. ř. (zpochybňuje-li skutková zjištění a polemizuje-li s tím, ke kterým hlediskům odvolací soud při posuzování intenzity porušení povinnosti žalobcem přihlížel a jak tato hlediska hodnotil, případně namítá-li jiné vady řízení), dovolání trpí nedostatkem, pro který nelze v dovolacím řízení pokračovat.
+Nejvyšší soud České republiky proto dovolání žalobce podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 24. dubna 2014
+JUDr. Mojmír Putna
+předseda senátu
