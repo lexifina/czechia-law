@@ -1,0 +1,16 @@
+21 Nd 122/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a JUDr. Olgy Puškinové ve věci dědictví po E. P., za účasti D. K., zastoupené advokátem JUDr. Janem Vodičkou se sídlem v Liberci II, Valdštejnská č. 381/6, a P. P., vedené u Okresního soudu v Liberci pod sp. zn. 35 D 234/2012, o přikázání věci z důvodu vhodnosti, takto:
+Věc, vedená u Okresního soudu v Liberci pod sp. zn. 35 D 234/2012, se nepřikazuje Okresnímu soudu v Uherském Hradišti.
+O d ů v o d n ě n í :
+Okresní soud v Liberci usnesením ze dne 16. 2. 2012, č. j. 35 D 234/2012-3 zahájil řízení o dědictví po E. P., zemřelé dne 26. ledna 2012. Provedením úkonů v řízení o dědictví pověřil soudního komisaře JUDr. Marcelu Fianovou se sídlem v Liberci, Revoluční č. 17 .
+V průběhu řízení P. P., syn zemřelé, navrhl, aby věc byla z důvodu vhodnosti přikázána Okresnímu soudu v Uherském Hradišti. Návrh zdůvodnil tím, že má plánovanou operaci kolena v průběhu ledna 2014.
+D. K., dcera zemřelé, s delegací dědického řízení k Okresnímu soudu v Uherském Hradišti nesouhlasila.
+Podle ustanovení § 12 odst. 2 o. s. ř. věc může být jinému soudu téhož stupně přikázána také z důvodu vhodnosti.
+Důvod vhodnosti pro přikázání věci jinému soudu téhož stupně ve smyslu ustanovení § 12 odst. 2 o. s. ř. představují takové okolnosti, které umožní hospodárnější, rychlejší nebo zejména po skutkové stránce spolehlivější a důkladnější projednání věci jiným než místně příslušným soudem. Uvedené ustanovení je zároveň zákonem určenou výjimkou ze zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon (srov. čl. 38 odst. 1 Listiny základních práv a svobod, vyhlášené usnesením předsednictva České národní rady pod č. 2/1993 Sb. jako součást ústavního pořádku); důvody pro přikázání věci jinému než příslušnému soudu tedy musí být natolik významné, aby dostatečně odůvodňovaly průlom do výše uvedeného ústavního principu.
+V posuzované věci P. P. neuvádí v návrhu na přikázání věci Okresnímu soudu v Uherském Hradišti žádné skutečnosti, které by umožnily hospodárnější, rychlejší, spolehlivější nebo důkladnější projednání věci. Skutečnost, že P. P. má plánovanou operaci kolena v lednu 2014, nemůže být - sama o sobě - důvodem, aby věc byla přikázána z důvodu vhodnosti Okresnímu soudu v Uherském Hradišti. Neumožňují-li P. P. jeho osobní nebo finanční poměry osobní účast při jednání u místně příslušného Okresního soudu v Liberci, nic nebrání tomu, aby byl vyslechnut jako účastník řízení prostřednictvím dožádaného soudu (srov. § 39 o. s. ř.); ostatně - jak vyplývá z protokolu sepsaného Okresním soudem v Uherském Hradišti ze dne 4. 12. 2013 – P. P. již v této věci jako účastník řízení prostřednictvím dožádaného soudu vyslechnut byl.
+Nejvyšší soud České republiky jako soud nejblíže společně nadřízený příslušnému soudu a soudu, jemuž má být věc přikázána (§ 12 odst. 3 věta první o. s. ř.), proto věc, vedenou u Okresního soudu v Liberci pod sp. zn. 35 D 234/2012, Okresnímu soudu v Uherském Hradišti podle ustanovení § 12 odst. 2 o. s. ř. nepřikázal.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 24. dubna 2014
+JUDr. Mojmír Putna
+předseda senátu
