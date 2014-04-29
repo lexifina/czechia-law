@@ -1,0 +1,17 @@
+11 Tcu 30/2014-10
+U S N E S E N Í
+Nejvyšší soud projednal dne 29. dubna 2014 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl t a k t o :
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení občana České republiky P. S. rozsudkem Obvodového soudu Tiergarten, Spolková republika Německo, ze dne 8. 1. 2013, sp. zn. 222 Js 2209/12 Ls 14/12, hledí jako na odsouzení soudem České republiky.
+O d ů v o d n ě n í :
+Rozsudkem Obvodového soudu Tiergarten, Spolková republika Německo, ze dne 8. 1. 2013, sp. zn. 222 Js 2209/12 Ls 14/12, který nabyl právní moci dne 16. 1. 2013, byl P. S. uznán vinným trestným činem těžkého žhářství, podle německého trestního zákona, a odsouzen k nepodmíněnému trestu odnětí svobody v trvání 1 (jednoho) roku a 6 (šesti) měsíců.
+Podle skutkových zjištění cizozemského soudu se odsouzený P. S. dopustil trestné činnosti v podstatě tím, že dne 11. 11. 2012 po předchozí konzumaci alkoholických nápojů se rozhodl založit požár budovy, nacházející se v objektu bývalé nemocnice N., M. W., B., kterou společně s dalšími osobami – převážně bezdomovci, nelegálně obýval. Za tímto účelem zapálil asi ve 14.20 hod. zapalovačem ve dvou místnostech celkem tři matrace poté, co předtím vykázal všechny další osoby z jejich pokojů. Pouze díky včasnému zásahu požárníků na budově nevznikla větší škoda.
+Ministerstvo spravedlnosti České republiky podalo ve shora uvedené věci Nejvyššímu soudu návrh na přijetí rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů (dále jen „zákon“).
+Nejvyšší soud věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro rozhodnutí podle § 4a odst. 3 zákona.
+Především je třeba uvést, že podle § 4a odst. 3 zákona rozhodne Nejvyšší soud na návrh Ministerstva spravedlnosti České republiky, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Z podaného návrhu a z obsahu připojeného spisu vyplývá, že odsouzený P. S. je občanem České republiky, byl odsouzen cizozemským soudem a odsouzení se týká skutku, který vykazuje znaky trestného činu i podle příslušných právních předpisů České republiky (obecné ohrožení podle § 272 tr. zákoníku). Tím jsou splněny formální podmínky ustanovení § 4a odst. 3 zákona.
+V posuzované věci jsou ovšem dány i podmínky materiální povahy. Odsouzený P. S. se dopustil zavrženíhodného jednání, kterým chtěl způsobit škodu na cizím majetku, a jehož společenská škodlivost je zvyšována zejména způsobem jeho provedení. Z obsahu spisového materiálu rovněž vyplývá, že byl již v minulosti vícekráte odsouzen pro majetkovou trestnou činnost. Pokud jde o druh uloženého trestu, ze spisového materiálu vyplynulo, že odsouzenému byl již uložen nezanedbatelný trest odnětí svobody. Lze tedy dovodit, že jsou splněny všechny podmínky pro to, aby se na výše uvedené odsouzení P. S. hledělo jako na odsouzení soudem České republiky.
+Z uvedených důvodů proto Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 29. dubna 2014
+Předseda senátu:
+JUDr. Antonín Draštík
