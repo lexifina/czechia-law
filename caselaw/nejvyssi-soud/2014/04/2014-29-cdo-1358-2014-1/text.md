@@ -1,0 +1,15 @@
+29 Cdo 1358/2014
+U S N E S E N Í
+Nejvyšší soud rozhodl České republiky rozhodl v senátě složeném z předsedy Mgr. Milana Poláška a soudců JUDr. Zdeňka Krčmáře a soudců a JUDr. Petra Gemmela v konkursní věci úpadce PRIMONA, a. s., se sídlem v České Třebové, Dr. E. Beneše 125, PSČ 560 81, identifikační číslo osoby 00174181, vedené u Krajského soudu v Hradci Králové pod sp. zn. 43 K 2/2003, o zproštění výkonu funkce správce konkursní podstaty, o dovolání JUDr. Jaromíra Vániše, advokáta, se sídlem v Přelouči, Sluneční 1421, PSČ 535 01, jako správce konkursní podstaty úpadce, zastoupeného Mgr. Martinem Červinkou, advokátem, se sídlem v České Třebové, Čechova 396, PSČ 560 02, proti usnesení Vrchního soudu v Praze ze dne 19. srpna 2013, č. j. 3 Ko 49/2012-3029, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Usnesením ze dne 30. května 2012, č. j. 43 K 2/2003-2812, Krajský soud v Hradci Králové zprostil JUDr. Jaromíra Vániše výkonu funkce správce konkursní podstaty úpadce (bod I. výroku), ustavil nového správce konkursní podstaty úpadce (bod II. výroku) a dosavadnímu správci konkursní podstaty uložil, aby do 15 dnů ode dne doručení tohoto usnesení předal nově ustavenému správci svoji funkci (bod III. výroku).
+Vrchní soud v Praze v záhlaví označeným usnesením potvrdil usnesení soudu prvního stupně.
+Proti usnesení odvolacího soudu podal JUDr. Jaromír Vániš dovolání, jež má za přípustné podle ustanovení § 237 zákona č. 99/1963 Sb., občanského soudního řádu (dále též jen „o. s. ř.“).
+Rozhodné znění občanského soudního řádu pro dovolací řízení (do 31. prosince 2007) plyne z § 432 odst. 1, § 433 bodu 1. a § 434 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenčního zákona). Srov. i usnesení Nejvyššího soudu ze dne 10. září 2008, sp. zn. 29 Cdo 3409/2008, uveřejněné pod číslem 16/2009 Sbírky soudních rozhodnutí a stanovisek, které je – stejně jako další rozhodnutí Nejvyššího soudu uvedená níže – dostupné i na webových stránkách Nejvyššího soudu.
+Dovolání proti usnesení, kterým odvolací soud potvrdil usnesení, jímž soud prvního stupně zprostil správce konkursní podstaty výkonu funkce, a ustavil nového správce konkursní podstaty úpadce, není přípustné (srovnej i přiléhavé poučení odvolacího soudu v napadeném usnesení). Nejde o žádný z případů popsaných v ustanoveních § 237 až § 239 o. s. ř., což Nejvyšší soud vysvětlil v řadě svých rozhodnutí (srov. mutatis mutandis usnesení Nejvyššího soudu ze dne 31. července 2002, sp. zn. 29 Odo 478/2002, uveřejněné pod číslem 52/2003 Sbírky soudních rozhodnutí a stanovisek, dále usnesení Nejvyššího soudu ze dne 28. listopadu 2002, sp. zn. 29 Odo 719/2002, uveřejněné v časopise Soudní judikatura číslo 1, ročník 2003, pod číslem 11 nebo usnesení Nejvyššího soudu ze dne 4. září 2003, sp. zn. 29 Odo 586/2003, uveřejněné v témže časopise v čísle 9 téhož ročníku, pod číslem 155).
+Nevyšší soud proto odmítl dovolání podle § 243b odst. 5 věty první a § 218 písm. c/ o. s. ř.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 29. dubna 2014
+Mgr. Milan P o l á š e k
+předseda senátu
