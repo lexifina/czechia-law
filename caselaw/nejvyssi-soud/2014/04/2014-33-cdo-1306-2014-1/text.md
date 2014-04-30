@@ -1,0 +1,14 @@
+33 Cdo 1306/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Blanky Moudré a soudců JUDr. Václava Dudy a JUDr. Ivany Zlatohlávkové ve věci žalobkyně Vysoké školy báňské - Technické univerzity Ostrava se sídlem Ostrava - Poruba, 17. listopadu 2172/15, proti žalovanému Z. Š., o zaplacení 6.800,- Kč s příslušenstvím, vedené u Okresního soudu v Opavě pod sp. zn. 113 C 25/2013, o dovolání žalobkyně proti usnesení Krajského soudu v Ostravě ze dne 10. ledna 2014, č. j. 71 Co 504/2013-32, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Ostravě usnesením ze dne 10. ledna 2014, č. j. 71 Co 504/2013-32, potvrdil usnesení ze dne 9. září 2013, č. j. 113 C 25/2013-6, jímž Okresní soud v Opavě zastavil řízení s tím, že po právní moci tohoto usnesení bude věc postoupena Vysoké škole báňské - Technické univerzitě Ostrava, a rozhodl o nákladech řízení a o vrácení soudního poplatku; současně rozhodl o nákladech odvolacího řízení. Odvolací soud přisvědčil soudu prvního stupně, že rozhodování o poplatcích za delší studium nepatří do pravomoci soudů, neboť se nejedná o věc vyplývající ze vztahů vyjmenovaných v § 7 odst. 1 o. s. ř.; projednání a rozhodování ve věci vyměření poplatků za delší studium podle § 58 odst. 3 zákona č. 111/1998 Sb., o vysokých školách, není ve smyslu § 7 odst. 3 o. s. ř. svěřena soudu, nýbrž děkanovi vysoké školy (§ 6 odst. 1 písm. e/ zákona č. 111/1998 Sb.). Takové rozhodnutí je titulem pro výkon rozhodnutí ve smyslu § 274 odst. 1 písm. f/ o. s. ř., resp. exekučním titulem ve smyslu § 40 odst. 1 exekučního řádu. Odkázal přitom na rozhodnutí Nejvyššího soudu sp. zn. 20 Cdo 2386/2012.
+Proti rozhodnutí odvolacího soudu podala žalobkyně dovolání, které není přípustné podle § 237 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013 (čl. II bod 2. zákona č. 293/2013 Sb. - dále opět jen „o. s. ř.“), neboť napadené rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu (srovnej například rozhodnutí Nejvyššího soudu ze dne 28. 3. 2013, sp. zn. 33 Cdo 186/2013, ze dne 25. 9. 2012, sp. zn. 20 Cdo 2386/2012, které je uveřejněno ve Sbírce soudních rozhodnutí a stanovisek pod číslem 15/2013, a ze dne 8. 4. 2014, sp. zn. 33 Cdo 1112/2014), a není důvod, aby bylo rozhodováno jinak. Okolnost, že účastníci uzavřeli dohodu o splátkách, nemůže změnit závěr o nedostatku pravomoci soudů v této věci, poněvadž dohoda o plnění ve splátkách není samostatným zavazovacím důvodem.
+Nejvyšší soud proto dovolání odmítl (§ 243c odst. 1 věta první o. s. ř.).
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 30. dubna 2014
+JUDr. Blanka Moudrá
+předsedkyně senátu
