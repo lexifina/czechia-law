@@ -1,0 +1,17 @@
+29 Cdo 1257/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Filipa Cilečka a soudců Mgr. Ing. Davida Bokra a Mgr. Milana Poláška v právní věci navrhovatele L. M., zastoupeného JUDr. Stanislavem Hospůdkou, advokátem, se sídlem v Ústí nad Labem, Masarykova 1047/35, PSČ 400 01, za účasti Stavebního bytového družstva Krušnohor, se sídlem v Mostě, třída Československé armády 1766, PSČ 434 01, identifikační číslo osoby 00043257, zastoupeného JUDr. Václavem Valným, advokátem, se sídlem v Mostě, Československé armády 1766/84, PSČ 434 01, o neplatnost usnesení shromáždění delegátů, vedené u Krajského soudu v Ústí nad Labem pod sp. zn. 71 Cm 283/2007, o dovolání navrhovatele proti usnesení Vrchního soudu v Praze ze dne 22. června 2011, č. j. 14 Cmo 145/2010-154, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Usnesením ze dne 17. září 2009, č. j. 71 Cm 283/2007-104, Krajský soud v Ústí nad Labem zamítl návrh na vyslovení neplatnosti usnesení shromáždění delegátů Stavebního bytového družstva Krušnohor (dále jen „družstvo“) konaného 15. června 2006, blíže specifikovaného ve výroku rozhodnutí (výrok I.), a rozhodl o nákladech řízení (výrok II.).
+K odvolání navrhovatele Vrchní soud v Praze v záhlaví označeným usnesením usnesení soudu prvního stupně potvrdil (první výrok) a rozhodl o nákladech odvolacího řízení (druhý výrok).
+Proti usnesení odvolacího soudu podal navrhovatel dne 4. října 2011 dovolání a současně požádal o ustanovení zástupce pro dovolací řízení. Usnesením ze dne 30. září 2013, č. j. 71 Cm 283/2007-268, soud prvního stupně ustanovil navrhovateli podle § 30 odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), zástupcem pro dovolací řízení advokáta JUDr. Stanislava Hospůdku. Toto usnesení nabylo právní moci dne 25. října 2013.
+Usnesením ze dne 13. února 2014, č. j. 71 Cm 283/2007-269, soud prvního stupně uložil navrhovateli, aby ve lhůtě 10 dní od doručení daného usnesení doplnil dovolání ze dne 4. října 2011 tak, aby splňovalo podmínky řádného dovolání podle § 241b o. s. ř., a to tak, že ustanovený advokát musí předmětné dovolání podepsat, vlastnoručně podaným (správně podepsaným) podáním se s ním ztotožnit, případně je nahradit podáním vlastním. Současně dovolatele poučil, že nebude-li v uvedené lhůtě soudu předloženo dovolání podepsané ustanoveným advokátem včetně souhlasného stanoviska advokáta s tímto dovoláním, Nejvyšší soud dovolací řízení zastaví. Dané usnesení bylo zástupci dovolatele doručeno 18. února 2014.
+Nedostatek povinného zastoupení dovolatel uvedeným způsobem neodstranil ve stanovené lhůtě ani později; Nejvyšší soud proto podle ustanovení § 241b odst. 2 a § 104 odst. 2 o. s. ř. řízení o jeho dovolání zastavil.
+Výrok o náhradě nákladů dovolacího řízení se opírá o ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 2 věty první o. s. ř., když dovolateli, který z procesního hlediska zavinil zastavení dovolacího řízení, právo na náhradu nákladů nevzniklo a družstvu podle obsahu spisu v dovolacím řízení žádné náklady nevznikly.
+Rozhodné znění občanského soudního řádu pro dovolací řízení (do 31. prosince 2012) se podává z bodu 7., článku II., zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 6. května 2014
+JUDr. Filip C i l e č e k
+předseda senátu
