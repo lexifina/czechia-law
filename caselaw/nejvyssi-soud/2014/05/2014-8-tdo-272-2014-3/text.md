@@ -1,0 +1,15 @@
+8 Tdo 272/2014-I-64
+U S N E S E N Í
+Nejvyšší soud rozhodl v neveřejném zasedání konaném dne 7. května 2014 k dovolání obviněného R. S., proti rozsudku Krajského soudu v Ostravě ze dne 22. 7. 2013, sp. zn. 3 To 204/2013, jako soudu odvolacího v trestní věci vedené u Okresního soudu v Ostravě pod sp. zn. 5 T 11/2010, o vazbě obviněného t a k t o :
+Podle § 265l odst. 4 tr. ř. se obviněný R. S. n e bere do vazby.
+O d ů v o d n ě n í :
+Obviněný R. S. v současné době vykonává ve věznici s ostrahou úhrnný trest odnětí svobody v trvání osmi měsíců, který mu byl uložen rozsudkem Okresního soudu v Ostravě ze dne 14. 3. 2013, sp. zn. 5 T 11/2010, ve spojení s rozsudkem Krajského soudu v Ostravě ze dne 22. 7. 2013, sp. zn. 3 To 204/2013, za přečiny podvodu podle § 209 odst. 1 tr. zákoníku, zpronevěry podle § 206 odst. 1 tr. zákoníku a krádeže podle § 205 odst. 2 tr. zákoníku.
+Nejvyšší soud projednal v neveřejném zasedání konaném dne 7. 5. 2014 dovolání obviněného R. S. podané proti rozsudku Krajského soudu v Ostravě ze dne 22. 7. 2013, sp. zn. 3 To 204/2013, jako soudu odvolacího v trestní věci vedené u Okresního soudu v Ostravě pod sp. zn. 5 T 11/2010, a rozhodl tak, že podle § 265k odst. 1, 2 tr. ř. zrušil rozsudek Krajského soudu v Ostravě ze dne 22. 7. 2013, sp. zn. 3 To 204/2013, ve výroku o trestu, jakož i další rozhodnutí na zrušený výrok obsahově navazující, pokud vzhledem ke změně, k níž došlo zrušením, pozbyla podkladu, a poté podle § 265l odst. 1 tr. ř. Krajskému soudu v Ostravě přikázal, aby věc v potřebném rozsahu znovu projednal a rozhodl.
+Vzhledem k tomu, že Nejvyšší soud v souvislosti se shora uvedeným usnesením zrušil rozsudek, na jehož podkladě obviněný uvedený trest odnětí svobody vykonává, byl povinen podle § 265l odst. 4 tr. ř. zároveň rozhodnout o vazbě.
+Při zkoumání okolností významných pro takové rozhodnutí Nejvyšší soud z Centrální evidence vězňů zjistil, že obviněný R. S. nastoupil dne 10. 3. 2014 výkon trestu odnětí svobody v trvání osmi měsíců, který mu byl uložen v této trestní věci, a nyní se nachází ve výkonu tohoto trestu ve V. P. Tento trest nastoupil dobrovolně v přiměřené době k tomuto nástupu soudem určené.
+Nejvyšší soud v tomto stadiu trestního řízení zkoumal, zda jsou v projednávané věci dány důvody vazby podle § 67 písm. a) až c) tr. ř. a z obsahu spisového materiálu shledal, že v průběhu přípravného řízení vedeného v této trestní věci u Okresního soudu v Ostravě nebyly dány důvody vazby a obviněný byl poté, co dne 6. 2. 2013 vykonal trest odnětí svobody v trestní věci vedené u Okresního soudu ve Zlíně pod sp. zn. 31 T 56/2012, po zbývající část řízení před soudy prvního a druhého stupně na svobodě.
+Ze všech takto zjištěných skutečností Nejvyšší soud v současném stadiu řízení o mimořádném opravném prostředku shledal, že nejsou známy žádné okolnosti, které by svědčily o důvodné obavě naplňující některý z důvodů vazby podle § 67 písm. a), b) nebo c) tr. ř., a proto ve smyslu § 265l odst. 4 tr. ř. rozhodl, že se obviněný R. S. do vazby nebere.
+P o u č e n í : Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 7. května 2014
+Předsedkyně senátu:
+JUDr. Milada Šámalová
