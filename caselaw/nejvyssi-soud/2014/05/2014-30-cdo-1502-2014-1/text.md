@@ -1,0 +1,12 @@
+30 Cdo 1502/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní JUDr. Miroslavou Jirmanovou, Ph.D., v exekuční věci oprávněného města Lišov, se sídlem v Lišově, tř. 5. května 139, identifikační číslo osoby 00245178, zastoupeného JUDr. Rudolfem Hrubým, advokátem se sídlem v Lišově, nám. Míru 140, proti povinnému J. F., o vyklizení, vedené u Okresního soudu v Českých Budějovicích pod sp. zn. 48 EXE 1740/2013, o dovolání povinného proti usnesení Krajského soudu v Českých Budějovicích ze dne 1. října 2013, č. j. 24 Co 2159/2013-25, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í :
+Krajský soud v záhlaví označeným rozhodnutím potvrdil usnesení ze dne 24. 7. 2013, č. j. 48 EXE 1740/2013-15, kterým okresní soud zamítl návrh povinného na zastavení exekuce. Povinný napadl usnesení krajského soudu dovoláním, jež vykazovalo nedostatek bránící pokračování dovolacího řízení (nebylo sepsáno advokátem). Protože ze spisu nevyplývalo, že by byl dovolatel právnicky vzdělán, soud jej usnesením ze dne 3. 12. 2013, č. j. 48 EXE 1740/2013-34, vyzval, aby si ve lhůtě 20 dnů od doručení zvolil advokáta a jeho prostřednictvím podal řádné dovolání; zároveň jej poučil, že nevyhoví-li výzvě, dovolací soud řízení zastaví. Žádost povinného o ustanovení zástupce z řad advokátů zamítl okresní soud usnesením ze dne 8. 1. 2014, č. j. 48 EXE 1740/2013-55, ve spojení s usnesením krajského soudu ze dne 11. 2. 2014, č. j. 24 Co 282/2014-62. Přestože usnesení nabylo právní moci dne 4. 3. 2014, dovolatel vytčený nedostatek neodstranil.
+Jelikož povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – kromě usnesení, kterým se dovolací řízení právě pro neodstranění tohoto nedostatku zastavuje – vydání rozhodnutí, jímž se řízení končí, a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu nedošlo, Nejvyšší soud řízení o dovolání podle § 104 odst. 2 věty třetí a § 241b odst. 2 zákona č. 99/1963 Sb., občanský soudní řád ve znění účinném od 1. 1. 2013 do 31. 12. 2013 (srov. část první, čl. II, bod 7 zákona č. 404/2012 Sb. a část první, čl. II, bod 2 zákona č. 293/2013 Sb.), zastavil.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 12. května 2014
+JUDr. Miroslava Jirmanová, Ph.D.
+předsedkyně senátu
