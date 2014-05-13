@@ -1,0 +1,14 @@
+21 Cdo 755/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Zdeňka Novotného a soudců JUDr. Ljubomíra Drápala a JUDr. Mojmíra Putny v právní věci žalobce M. G., zastoupeného Mgr. Vojtěchem Veverkou, advokátem se sídlem v Kladně, Hajnova č. 40, proti žalovaným Českým aeroliniím, a.s. se sídlem v Praze 6, Jana Kašpara č. 1069/1, IČO 457 95 908, zastoupeným Mgr. Michalem Vepřekem, advokátem se sídlem v Praze 1, Husova č. 242/9, o neplatnost výpovědi z pracovního poměru, vedené u Obvodního soudu pro Prahu 6 pod sp. zn. 8 C 168/2011, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 29. května 2013 č. j. 62 Co 169/2013-88, takto:
+I. Dovolání žalobce se odmítá.
+II. Žalobce je povinen zaplatit žalované na náhradě nákladů dovolacího řízení 3.388,- Kč do tří dnů od právní moci tohoto usnesení k rukám Mgr. Michala Vepřeka, advokáta se sídlem v Praze 1, Husova č. 242/9.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 29. 5. 2013 č. j. 62 Co 169/2013-88 není přípustné podle ustanovení § 237 o.s.ř., neboť rozhodnutí odvolacího soudu o tom, že v posuzované věci byla nadbytečnost zaměstnance – žalobce v příčinné souvislosti s přijatou organizační změnou, je v souladu s ustálenou rozhodovací praxí dovolacího soudu (srov. např. právní názor vyjádřený v rozsudku Nejvyššího soudu ze dne 27.4.2004 sp. zn. 21 Cdo 2204/2003, který byl uveřejněn pod č. 54 ve Sbírce soudních rozhodnutí a stanovisek, roč. 2005; a k otázce výběru nadbytečného zaměstnance např. odůvodnění rozsudku Nejvyššího soudu ze dne 25. 8. 1998 sp. zn. 2 Cdon 1130/97, který byl uveřejněn v časopise Soudní rozhledy č. 11, ročník 1999, s. 374) a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+Namítá-li žalobce v dovolání rovněž, že soudy obou stupňů neprovedly řadu jím navrhovaných důkazů, čímž zpochybňuje skutková zjištění, která byla pro právní posouzení věci odvolacím soudem rozhodující, uplatňuje jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o.s.ř., a dovolání proto trpí vadami, pro které nelze v dovolacím řízení pokračovat.
+Nejvyšší soud České republiky proto dovolání žalobce podle ustanovení § 243c odst. 1 věty první o.s.ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 věty druhé o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 13. května 2014
+JUDr. Zdeněk Novotný
+předseda senátu
