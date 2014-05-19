@@ -1,0 +1,19 @@
+32 Cdo 1663/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Hany Gajdziokové a soudců JUDr. Pavla Příhody a JUDr. Miroslava Galluse v právní věci žalobkyně Český Triangl, a.s., se sídlem v Brně, Heršpická 800/6, PSČ 639 00, identifikační číslo osoby 25 86 41 06, zastoupené JUDr. Josefem Čejkou, advokátem se sídlem v Otrokovicích, nám. 3. května 1606, proti žalovanému D. K., o zaplacení částky 3.856,- Kč s příslušenstvím, vedené u Okresního soudu v Kolíně pod sp. zn. 113 C 12/2013, o dovolání žalovaného proti usnesení Krajského soudu v Praze ze dne 21. června 2013, č. j. 29 Co 326/2013-33, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+V záhlaví označeným usnesením Krajský soud v Praze potvrdil rozsudek Okresního soudu v Kolíně ze dne 17. dubna 2013, č. j. 113 C 12/2013-25, ve výroku, kterým bylo žalovanému uloženo zaplatit žalobkyni na náhradu nákladů řízení částku 6.391,76 Kč, a rozhodl o nákladech odvolacího řízení tak, že žádný z účastníků nemá právo na jejich náhradu.
+Proti usnesení odvolacího soudu podal žalovaný dovolání, v němž uvedl, že se nachází ve velmi tísnivé finanční situaci, a proto žádá „o prominutí náhrady nákladů řízení“. V důsledku neproplácení faktur od odběratelů je již delší dobu bez příjmu a dostal se do druhotné platební neschopnosti. Navrhuje, aby Nejvyšší soud posoudil jeho případ a zvážil možnost odpuštění náhrady nákladů řízení.
+Přípustnost dovolání proti napadenému rozhodnutí odvolacího soudu by v obecné rovině přicházela v úvahu podle ustanovení § 237 občanského soudního řádu (dále jen „o. s. ř.“).
+Podle ustanovení § 238 odst. 1 písm. d) o. s. ř. dovolání podle § 237 není přípustné proti rozsudkům a usnesením, v nichž dovoláním napadeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50 000 Kč, ledaže jde o vztahy ze spotřebitelských smluv, o pracovněprávní vztahy nebo o věci uvedené v § 120 odst. 2; k příslušenství pohledávky se přitom nepřihlíží.
+Dovolání žalovaného proti v záhlaví označenému usnesení odvolacího soudu není podle ustanovení § 238 odst. 1 písm. d) o. s. ř. přípustné, neboť směřuje proti rozhodnutí, v němž dovoláním napadeným výrokem bylo rozhodnuto o povinnosti žalovaného k náhradě nákladů řízení ve výši 6.391,76 Kč, tedy o peněžitém plnění nepřevyšujícím částku 50.000,- Kč, přičemž nejde o nárok ze vztahů uvedených v citovaném ustanovení, neboť peněžité plnění přiznané výrokem o nákladech řízení nelze označit pro účely posouzení přípustnosti dovolání za plnění ze vztahu ze spotřebitelské smlouvy, z pracovněprávního vztahu nebo z věci uvedené v ustanovení § 120 odst. 2 o. s. ř. (k tomu srov. usnesení Nejvyššího soudu uveřejněné pod číslem 80/2013 Sbírky soudních rozhodnutí a stanovisek).
+Na tomto závěru nemůže nic změnit ani nesprávné poučení odvolacího soudu o možnosti podat dovolání, neboť nesprávné poučení odvolacího soudu, že dovolání je přípustné, přípustnost dovolání nezakládá. Podle ustanovení § 236 odst. 1 o. s. ř. dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu pouze tehdy, pokud to zákon připouští. Není-li možnost podat dovolání v zákoně stanovena, pak jde vždy - bez zřetele k tomu, jakého poučení se účastníkům řízení ze strany soudu dostalo - o dovolání nepřípustné (srov. usnesení Nejvyššího soudu uveřejněné pod číslem 51/2003 Sbírky soudních rozhodnutí a stanovisek).
+Nejvyšší soud proto dovolání odmítl pro nepřípustnost podle ustanovení § 243c odst. 1 o. s. ř.
+Vzhledem k nepřípustnosti dovolání se Nejvyšší soud nezabýval splněním podmínky povinného zastoupení dovolatele (srov. § 241b odst. 2 část věty za středníkem o. s. ř.).
+Výrok o nákladech dovolacího řízení se neodůvodňuje (srov. § 243f odst. 3 o. s. ř.).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 19. května 2014
+JUDr. Hana Gajdzioková
+předsedkyně senátu
