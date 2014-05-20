@@ -1,0 +1,17 @@
+11 Tcu 29/2014-12
+U S N E S E N Í
+Nejvyšší soud projednal dne 20. května 2014 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl t a k t o :
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení občanů České republiky O. C. a Z. V., rozsudkem Soudu v Termini Imerse, Italská republika, ze dne 28. 1. 2011, sp. zn. 69/2011 Reg. Sent., 493/2010 Reg. Gen. Trib., hledí jako na odsouzení soudem České republiky.
+O d ů v o d n ě n í :
+Výše uvedeným rozsudkem Soudu v Termini Imerse byli O. C. a Z. V. uznáni vinnými trestným činem podle § 110 italského trestního zákoníku a § 73 odst. 1 dekretu prezidenta republiky 309/90, pozměněného zákonným nařízením č. 272/2005 na zákon č. 49/2006 a trestným činem podle § 110 italského trestního zákoníku a § 4 zákona 110/75 a byli odsouzeni k trestu odnětí svobody v trvání šesti let a dvou měsíců.
+Shora uvedené trestné činnosti se odsouzení dopustili podle zjištění Soudu v Termini Imerse tím, že v C. dne 16. 1. 2007 ve spolčení drželi za účelem distribuce 8 g marihuany s obsahem účinné látky THC 9,7 %, z níž bylo možné získat 29 průměrných dávek, a současně bez oprávněného důvodu vynesli mimo svoje obydlí dva nože.
+Ministerstvo spravedlnosti České republiky podalo ve shora uvedené věci návrh Nejvyššímu soudu na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů (dále jen „zákon“).
+Nejvyšší soud věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro rozhodnutí podle § 4a odst. 3 zákona.
+Podle § 4a odst. 3 zákona Nejvyšší soud na návrh Ministerstva spravedlnosti ČR rozhodne, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky, a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Z podaného návrhu a z obsahu připojeného spisového materiálu vyplývá, že odsouzení jsou občany České republiky, kteří byli odsouzeni soudem jiného členského státu Evropské unie, přičemž se odsouzení týká skutků, které vykazují znaky trestného činu i podle příslušných právních předpisů České republiky (trestný čin nedovolené výroby a jiného nakládání s omamnými a psychotropními látkami a s jedy podle § 283 tr. zákoníku). Tím jsou splněny formální podmínky ustanovení § 4a odst. 3 zákona.
+V posuzované věci jsou dány i podmínky materiální povahy. Odsouzení se dopustili úmyslné trestné činnosti směřující proti zájmu společnosti na ochraně před možným nebezpečím vyplývajícím z nekontrolovaného nakládání s omamnými a psychotropními látkami. Jednali přitom v takovém rozsahu (zejména pokud jde o množství látky), že již lze tuto trestnou činnost označit za závažnou ve smyslu § 4a odst. 3 zákona. Pokud jde o druh trestu, byly jim uloženy citelné tresty odnětí svobody. Lze tedy dovodit, že podmínky ustanovení § 4a odst. 3 zákona týkající se závažnosti činu a druhu uloženého trestu jsou splněny.
+Z uvedených důvodů proto Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 20. května 2014
+Předseda senátu:
+JUDr. Karel Hasch
