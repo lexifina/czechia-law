@@ -1,0 +1,16 @@
+30 Nd 107/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Simona a soudců JUDr. Lenky Dopitové a JUDr. Františka Ištvánka ve věci žalobce J. S., proti žalované OUR MEDIA, a. s., IČ 28876890, se sídlem v Praze 3, Vinohradská 1597/174, o ochranu osobnosti, vedené u Městského soudu v Praze pod sp. zn. 66 C 143/2013, o námitce podjatosti soudkyň Vrchního soudu v Praze takto:
+Soudkyně Vrchního soudu v Praze JUDr. Ludmila Říhová a Mgr. Dagmar Javůrková nejsou vyloučeny z projednávání a rozhodnutí věci vedené u Vrchního soudu v Praze pod sp. zn. 1 Co 337/2013.
+O d ů v o d n ě n í :
+Ve shora uvedené věci vznesl žalobce podáním ze dne 24. 2. 2014 námitku podjatosti soudkyň Vrchního soudu v Praze, JUDr. Ludmily Říhové a Mgr. Dagmar Javůrkové. Žalobce uvádí, že uvedené soudkyně jednaly nedůstojně, nečestně a nevhodně v řízení vedeném u téhož soudu pod sp. zn. 1 Co 119/2013, kdy si při vyhlášení rozsudku dělaly ze žalobce „legrácky“.
+JUDr. Říhová k námitce žalobce uvedla, že k věci ani k účastníkům řízení nemá žádný vztah a na výsledku řízení nemá zájem. Žalobce je účastníkem mnoha řízení, na jejichž rozhodování se podílela, rozsudek ve věci sp. zn. 1 Co 119/2013 byl vyhlášen, aniž by si dělala ze žalobce „legrácky“.
+Mgr. Javůrková uvedla, že jí nejsou známy žádné okolnosti, které by odůvodňovaly pochybnosti o její nepodjatosti. K věci a účastníkům nemá žádný vztah, žalobce zná pouze jako účastníka mnoha řízení, v nichž rozhodovala.
+Podle § 14 odst. 1 zákona č. 99/1963 Sb., občanský soudní řád, dále jen „o. s. ř.“, jsou soudci a přísedící vyloučeni z projednávání a rozhodnutí věci, jestliže se zřetelem na jejich poměr k věci, k účastníkům nebo k jejich zástupcům je tu důvod pochybovat o jejich nepodjatosti.
+Podle § 14 odst. 4 o. s. ř. důvodem k vyloučení soudce (přísedícího) nejsou okolnosti, které spočívají v postupu soudce (přísedícího) v řízení o projednávané věci nebo v jeho rozhodování v jiných věcech.
+Nejvyšší soud po posouzení důvodů, s nimiž žalobce spojuje vyloučení soudkyň Vrchního soudu v Praze JUDr. Ludmily Říhové a Mgr. Dagmar Javůrkové z projednávání a rozhodnutí věci, a s přihlédnutím k obsahu spisu dospěl k závěru, že podmínky aplikace § 14 odst. 1 o. s. ř. splněny nejsou. Z obsahu spisu nevyplývají žádné skutečnosti, jež by zakládaly důvod pochybovat o nepodjatosti soudkyň. Rozhodnutí o vyloučení soudce podle § 14 o. s. ř. představuje výjimku z ústavní zásady, podle níž nikdo nesmí být odňat svému zákonnému soudci (čl. 38 odst. 1 Listiny základních práv a svobod). Vzhledem k tomu lze vyloučit soudce z projednávání a rozhodování přidělené věci jen výjimečně a ze skutečně závažných důvodů, které mu zcela zjevně brání rozhodnout v souladu se zákonem nezaujatě a spravedlivě (srov. usnesení Nejvyššího soudu ze dne 25. 1. 2001, sp. zn. 5 Nd 427/2001, uveřejněné v Souboru civilních rozhodnutí a stanovisek Nejvyššího soudu pod č. C 73).
+Nejvyšší soud proto rozhodl, že soudkyně Vrchního soudu uvedené ve výroku tohoto usnesení, jimž podle rozvrhu práce přísluší ve věci rozhodnout, nejsou v souzené věci vyloučeny z projednávání a rozhodnutí věci.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 20. května 2014
+JUDr. Pavel Simon
+předseda senátu
