@@ -1,0 +1,12 @@
+30 Cdo 1627/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní JUDr. Miroslavou Jirmanovou, Ph.D., v exekuční věci oprávněné Vojenské nemocnice Olomouc, příspěvkové organizace, se sídlem v Olomouci, Sušilovo náměstí 5, identifikační číslo osoby 60800691, zastoupené JUDr. Lubomírem Minaříkem, advokátem se sídlem v Olomouci, Vídeňská 8, proti povinnému Z. H., pro 2.500,- Kč s příslušenstvím, vedené u Okresního soudu v Přerově pod sp. zn. 28 EXE 2183/2012, o dovolání povinného proti usnesení Krajského soudu v Ostravě – pobočky v Olomouci ze dne 29. srpna 2013, č. j. 40 Co 471/2013-54, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í :
+Krajský soud v záhlaví označeným rozhodnutím potvrdil výroky III., IV., V. a VII. usnesení ze dne 10. 5. 2013, č. j. 169 EX 1824/12-45, kterým soudní exekutorka Mgr. Lucie Valentová, Exekutorský úřad Brno-město, pověřená provedením exekuce usnesením Okresního soudu v Přerově ze dne 17. 10. 2012, č. j. 28 EXE 2183/2012-16, v rámci prodeje nemovitostí vydala dražební vyhlášku, kterou nařídila elektronickou dražbu na den 17. 7. 2013 v 8:30 hodin a stanovila podmínky, do kdy se dražba koná, dále specifikovala dražené nemovitosti, výslednou cenu nemovitostí, nejnižší podání, výši jistoty a způsob jejího zaplacení, práva a závady váznoucí na nemovitostech včetně těch, které prodejem nezaniknou, a dále poskytla příslušná poučení související s dražbou.
+Povinný napadl usnesení krajského soudu dovoláním, jež vykazovalo nedostatek bránící pokračování dovolacího řízení (nebylo sepsáno advokátem). Protože přes výzvu soudu dovolatel vytčený nedostatek ve stanovené lhůtě neodstranil (usnesení ze dne 17. 2. 2014, č. j. 169 EX 1824/12-95, mu bylo doručeno 21. 2. 2014) a na výzvu nereagoval, Nejvyšší soud řízení o dovolání podle § 104 odst. 2 věty třetí a § 241b odst. 2 zákona č. 99/1963 Sb., občanský soudní řád ve znění účinném od 1. 1. 2013 do 31. 12. 2013 (srov. část první, čl. II, bod 7 zákona č. 404/2012 Sb. a část první, čl. II, bod 2 zákona č. 293/2013 Sb.), zastavil.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 20. května 2014
+JUDr. Miroslava Jirmanová, Ph.D.
+předsedkyně senátu
