@@ -1,0 +1,18 @@
+22 Cdo 1377/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jiřího Spáčila, CSc., a soudců Mgr. Michala Králíka, Ph.D., a Mgr. Davida Havlíka ve věci žalobkyně O. W., proti žalovanému J. W., o vypořádání společného jmění manželů, vedené u Okresního soudu v Karviné pod sp. zn. 16 C 93/2008, o dovolání žalobkyně proti usnesení Krajského soudu v Ostravě ze dne 10. ledna 2013 č. j. 8 Co 24/2013-360, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í (§ 243f odst. 3 o. s. ř.):
+Krajský soud v Ostravě jako soud odvolací usnesením ze dne 10. ledna 2013 č. j. 8 Co 24/2013-360, potvrdil usnesení Okresního soudu v Karviné ze dne 20. listopadu 2012, č. j. 16 C 93/2008-355, kterým soud prvního stupně rozhodl, že se žalobkyni nepřiznává osvobození od soudních poplatků a neustanovuje se jí zástupce pro dovolací řízení. Uvedeným rozhodnutím soud prvního stupně rozhodoval již o druhé žádosti žalobkyně o osvobození od placení soudních poplatků a o ustanovení zástupce pro dovolací řízení. Odvolací soud se ztotožnil s jeho závěrem, že od doby posledního rozhodnutí o téže otázce nedošlo u žalobkyně ke změně poměrů. Soudní poplatek z dovolání mohla zaplatit z podílu ve výši 64.704,- Kč, potom, co jí ho žalobce vyplatil z vypořádaného společného jmění manželů na základě povinnosti stanovené mu rozsudkem Krajského soudu v Ostravě ze dne 29. června 2011 č. j. 42 Co 220/2010-320(312). Navíc ani v dovolání neuvedla, jak s tímto podílem naložila. Vzhledem k tomu, že žalobkyni nebylo přiznáno osvobození od soudních poplatků, nebylo jí možné ustanovit zástupce pro dovolací řízení podle § 30 o. s. ř.
+Proti rozhodnutí odvolacího soudu podala žalobkyně dovolání.
+Žalobkyně sice nesplňuje podmínku zastoupení advokátem v tomto dovolacím řízení a sama rovněž nemá právnické vzdělání (§ 241 o. s. ř.), povaha rozhodnutí, proti němuž dovolání směřuje, však vylučuje, aby v posuzované věci bylo možno nedostatek podmínky povinného zastoupení považovat za překážku, jež by bránila vydání rozhodnutí, kterým se dovolací řízení končí (srov. usnesení Nejvyššího soudu z 28. dubna 1997, sp. zn. 2 Cdon 609/97, publikované v časopise Soudní judikatura, 1997, č. 80).
+Nejvyšší soud posoudil dovolání žalobkyně podle občanského soudního řádu, ve znění účinném do 31. 12. 2013 (čl. II. bod 2. Přechodná ustanovení zákona č. 293/2013 sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony), protože napadené rozhodnutí bylo vydáno 10. ledna 2013.
+Dovolání není přípustné.
+V daném případě by dovolání bylo přípustné podle § 237 o. s. ř. za předpokladu, že by žalobkyně označila otázku hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu, nebo která v rozhodování dovolacího soudu nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně, případně má být vyřešena jinak. Dovolání lze podat pouze z důvodu, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci (§ 241a odst. 1 o. s. ř.). Námitky žalobkyně však napadají nesprávné skutkové zjištění odvolacího soudu. To však není důvodem, pro který by bylo možné podat dovolání. Mimo to úvahy odvolacího soudu nelze považovat za zjevně nepřiměřené.
+Vzhledem k tomu, že žalobkyně v dovolání neoznačila právní otázku, pro jejíž řešení by bylo dovolání přípustné, Nejvyšší soud její dovolání jako nepřípustné podle § 243c odst. 1 o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (243f odst. 3 o. s. ř.).
+Proti tomuto usnesení není opravný prostředek.
+V Brně dne 21. května 2014
+JUDr. Jiří Spáčil, CSc.
+předseda senátu
