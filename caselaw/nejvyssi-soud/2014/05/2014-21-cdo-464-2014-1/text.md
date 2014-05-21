@@ -1,0 +1,12 @@
+21 Cdo 464/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Ljubomíra Drápala a soudců JUDr. Zbyňka Poledny a JUDr. Mojmíra Putny v exekuční věci oprávněných a) J. N., b) M. N., obou zastoupených JUDr. Stanislavem Juránkem, advokátem se sídlem v Moravských Budějovicích, Husova č. 800, proti povinné J. N., pro 119.330,- Kč s příslušenstvím, vedené u Městského soudu v Brně pod sp. zn. 78 Nc 1342/2009, o dovolání povinné proti usnesení Krajského soudu v Brně ze dne 20. července 2011 č.j. 20 Co 638/2010-56, takto:
+Dovolání povinné se odmítá.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.):
+Dovolání povinné proti usnesení Krajského soudu v Brně ze dne 20.7.2011 č.j. 20 Co 638/2010-56, jímž bylo odmítnuto odvolání povinné proti usnesení Městského soudu v Brně ze dne 18.2.2010 č.j. 78 Nc 1342/2009-28, kterým bylo odmítnuto pro opožděnost odvolání povinné proti "usnesení Městského soudu v Brně č.j. 78 Nc 1342/2009-7", není přípustné podle ustanovení § 237 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů účinném do 31.12.2012 (dále jen "o.s.ř."), které je třeba při projednání dovolání povinné a při rozhodnutí o něm použít, neboť napadené usnesení odvolacího soudu bylo vydáno v době do 31.12.2012 (srov. čl. II bod 7 zákona č. 404/2012 Sb.), a to z důvodu, že usnesením odvolacího soudu nebylo potvrzeno usnesení soudu prvního stupně, kterým by bylo rozhodnuto ve věci samé, a nebylo shledáno přípustným ani podle ustanovení § 238, § 238a a § 239 o.s.ř., protože usnesením soudu prvního stupně nebylo rozhodnuto ve věcech, které jsou taxativně vyjmenovány v ustanoveních § 238 a § 238a o.s.ř., a nejde rovněž o žádný z případů procesních rozhodnutí uvedených v ustanovení § 239 o.s.ř. (srov. obdobně právní názor vyjádřený v usnesení Nejvyššího soudu ze dne 9.12.2004 sp. zn. 29 Odo 829/2003, které bylo uveřejněno pod č. 72 v časopise Soudní judikatura, roč. 2005).
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o.s.ř.) proto dovolání povinné podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o.s.ř. - aniž by se mohl věcí dále zabývat - odmítl.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (hlava VI. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 21. května 2014
+JUDr. Ljubomír Drápal
+předseda senátu
