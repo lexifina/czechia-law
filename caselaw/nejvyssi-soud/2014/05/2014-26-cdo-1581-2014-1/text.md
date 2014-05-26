@@ -1,0 +1,13 @@
+26 Cdo 1581/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Jitky Dýškové a soudkyň Doc. JUDr. Věry Korecké, CSc., a JUDr. Pavlíny Brzobohaté ve věci oprávněné B. D., proti povinnému P. B., o pomoc soudu před nařízením výkonu rozhodnutí (exekuce), vedené u Okresního soudu v Ostravě pod sp. zn. 52 EXE 1133/2013, o dovolání oprávněné proti usnesení Krajského soudu v Ostravě ze dne 14. listopadu 2013, č. j. 9 Co 786/2013-24, takto:
+Dovolání oprávněné se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Oprávněná napadla včasným dovoláním usnesení Krajského soudu v Ostravě ze dne 14. 11. 2013, č. j. 9 Co 786/2013-24, kterým odvolací soud potvrdil usnesení Okresního soudu v Ostravě ze dne 1. 8. 2013, č. j. 52 EXE 1133/2013-17, jímž soud prvního stupně přiznal oprávněné osvobození od soudních poplatků ve výši 90% a zamítl její návrh na ustanovení zástupce.
+Dovolatelka sice není zastoupena advokátem a sama rovněž nemá právnické vzdělání (srov. § 241 odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013, dále jen „o. s. ř.”), povaha rozhodnutí, proti němuž dovolání směřuje, však vylučuje, aby v posuzované věci bylo možno nedostatek podmínky povinného zastoupení považovat za překážku, jež by bránila vydání rozhodnutí, jímž se dovolací řízení končí. Za situace, kdy předmětem dovolacího přezkumu je rozhodnutí, jímž nebylo vyhověno žádosti účastnice o ustanovení zástupce z řad advokátů (§ 30 o. s. ř.), by trvání na podmínce povinného zastoupení vedlo k vlastnímu popření cíle, jenž účastnice podáním žádosti sledovala a k popření vlastního smyslu dovolacího řízení, v němž má být závěr o tom, že účastník právo na ustanovení zástupce nemá, zkoumán (srov. usnesení Nejvyššího soudu ze dne 28. 4. 1997, sp. zn. 2 Cdon 609/97, uveřejněné v časopise Soudní judikatura číslo 10, ročníku 1997, pod číslem 97, usnesení Nejvyššího soudu ze dne 19. 3. 2014, sp. zn. 26 Cdo 395/2014).
+Nejvyšší soud České republiky dovolání oprávněné proti usnesení odvolacího soudu podle § 243c odst. 1 o. s. ř. odmítl, neboť jednak neobsahuje údaje o tom, v čem dovolatelka spatřuje splnění předpokladů přípustnosti dovolání (§ 241a odst. 2 o. s. ř.), jednak v něm byl uplatněn jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o. s. ř., a v dovolacím řízení nelze pro tento nedostatek pokračovat.
+O nákladech dovolacího řízení dovolací soud nerozhodoval (srov. usnesení Nejvyššího soudu ze dne 23. 7. 2002, sp. zn. 20 Cdo 970/2001, uveřejněné pod číslem 48/2003 Sbírky soudních rozhodnutí a stanovisek).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 26. května 2014
+JUDr. Jitka Dýšková
+předsedkyně senátu
