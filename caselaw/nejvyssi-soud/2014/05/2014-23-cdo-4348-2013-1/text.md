@@ -1,0 +1,22 @@
+23 Cdo 4348/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Dese a soudců JUDr. Kateřiny Hornochové a JUDr. Ing. Pavla Horáka, Ph.D., ve věci žalobkyně KOVOSVIT MAS, a.s., se sídlem v Sezimově Ústí II, nám. Tomáše Bati 419, PSČ 391 02, IČO 26047284, zastoupené JUDr. Ivo Beránkem, advokátem, se sídlem v Praze 8, Sokolovská 47/73, PSČ 186 00, proti žalovanému A. B., zastoupenému Mgr. Janem Turkem, advokátem, se sídlem v Praze 1, Na Florenci 2116/15, PSČ 110 00, o zaplacení částky 5 096,20 EUR s příslušenstvím, vedené u Krajského soudu v Českých Budějovicích pod sp. zn. 13 Cm 918/2008, o dovolání žalobkyně proti usnesení Vrchního soudu v Praze ze dne 26. srpna 2013, č. j. 8 Cmo 260/2013-299, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění:(§ 243f odst. 3 o. s. ř.) :
+Krajský soud v Českých Budějovicích usnesením ze dne 10. dubna 2013, č. j. 13 Cm 918/2008-288, zastavil řízení (výrok pod bodem I) a rozhodl o náhradě nákladů řízení (výrok pod bodem II).
+K odvolání žalobkyně Vrchní soud v Praze usnesením ze dne 26. srpna 2013, č. j. 8 Cmo 260/2013-299, potvrdil usnesení soudu prvního stupně ve výroku pod bodem I, změnil je ve výroku pod bodem II (výrok pod bodem I) a rozhodl o náhradě nákladů odvolacího řízení (výrok pod bodem II).
+Proti usnesení odvolacího soudu podala žalobkyně dovolání, v němž napadá právní posouzení věci a procesní postup odvolacího soudu.
+Nejvyšší soud České republiky (dále jen „Nejvyšší soud“) jakožto soud dovolací věc projednal a rozhodl podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění dotčeném novelou provedenou zákonem č. 404/2012 Sb., účinnou od 1. ledna 2013 (dále opět jen „o. s. ř.“).
+Podle ustanovení § 237 o. s. ř. platí, že není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+Podle ustanovení § 241a odst. 2 o. s. ř. v dovolání musí být vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu se rozhodnutí napadá, vymezení důvodu dovolání, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) a čeho se dovolatel domáhá (dovolací návrh).
+Podle § 241b odst. 3 prvé věty o. s. ř. dovolání, které neobsahuje údaje o tom, v jakém rozsahu se rozhodnutí odvolacího soudu napadá, v čem odvolatel spatřuje splnění předpokladu přípustnosti dovolání (§ 237 až 238a) nebo které neobsahuje vymezení důvodu dovolání, může být o tyto náležitosti doplněno jen po dobu trvání lhůty k dovolání.
+Ustanovení § 238a o. s. ř. pak určuje, že dovolání je dále přípustné proti usnesení odvolacího soudu, kterým bylo v průběhu odvolacího řízení rozhodnuto o tom, kdo je procesním nástupcem účastníka, o vstupu do řízení na místo dosavadního účastníka (§ 107a), o přistoupení dalšího účastníka (§ 92 odst. 1) a o záměně účastníka (§ 92 odst. 2).
+Požadavek, aby dovolatel v dovolání uvedl, v čem spatřuje splnění předpokladů přípustnosti dovolání, je podle § 241a odst. 2 o. s. ř. obligatorní náležitostí dovolání. Může-li být dovolání přípustné jen podle § 237 o. s. ř., je dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné, přičemž k projednání dovolání nepostačuje pouhá citace textu ustanovení § 237 o. s. ř.
+Dovolatelka ve svém dovolání (posouzeném i podle jeho obsahu) však požadavku § 241a odst. 2 o. s. ř. nevyhověla, když z obsahu dovolání není patrno, v čem dovolatelka spatřuje splnění předpokladu přípustnosti dovolání. To, že má dovolatelka jiný názor na právní závěry odvolacího soudu a nesouhlasí s jeho procesním postupem, nepředstavuje způsobilé vymezení přípustnosti dovolání v režimu § 237 o. s. ř.
+Nejvyšší soud proto dovolání podle § 243c odst. 1 věty první o. s. ř. odmítl, neboť v dovolacím řízení nelze pro uvedenou vadu pokračovat.
+Výrok o náhradě nákladů řízení se v souladu s § 243f odst. 3 o. s. ř. neodůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 27. května 2014
+JUDr. Zdeněk D e s
+předseda senátu
