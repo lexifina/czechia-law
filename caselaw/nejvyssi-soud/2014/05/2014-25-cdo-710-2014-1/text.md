@@ -1,0 +1,16 @@
+25 Cdo 710/2014
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy JUDr. Roberta Waltra a soudců JUDr. Marty Škárové a JUDr. Petra Vojtka ve věci žalobkyně G. K., zastoupené JUDr. Klárou Kořínkovou, Ph.D., advokátkou, se sídlem Praha 2, Fügnerovo náměstí 1808/3, proti žalované Kooperativa pojišťovně, a. s., Vienna Insurance Group, IČO 471 16 617, se sídlem Praha 8, Pobřežní 665/23, o zaplacení 4.561.627,- Kč s příslušenstvím, vedené u Okresního soudu v Mladé Boleslavi pod sp. zn. 12 C 313/2009, o dovolání žalobkyně proti usnesení Krajského soudu v Praze ze dne 31. července 2013, č. j. 25 Co 364,365/2013-733, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Žalobkyně napadla dovoláním usnesení Krajského soudu v Praze ze dne 31. 7. 2013, č. j. 25 Co 364,365/2013-733, ve výroku II, pokud jím bylo usnesení Okresního soudu v Mladé Boleslavi ze dne 30. 4. 2013, č. j. 12 C 313/2009-689, změněno tak, že je žalobkyně povinna zaplatit 5 % nákladů řízení státu, jejichž výše bude specifikována samostatným usnesením soudu prvního stupně. Podle dovolatelky se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu ve smyslu § 237 o. s. ř., když nezohlednil její objektivní schopnost zaplatit náklady řízení státu a existenci závažných důvodů. Dovolatelka poukázala na svůj zhoršující se zdravotní stav, a na skutečnost, že se do tíživé osobní a sociální situace dostala zcela bez svého zavinění; je vdovou pobírající plný invalidní důchod, tudíž je zcela vyloučeno, že by v budoucnosti mohlo dojít k vylepšení její nízké životní úrovně.
+Předpoklady přípustnosti dovolání podle § 237 o. s. ř. splněny nejsou. Námitky týkající se předpokladů osvobození žalobkyně od soudních poplatků jsou irelevantní, neboť usnesení odvolacího soudu bylo výslovně napadeno pouze ve výroku o náhradě nákladů řízení státu, pouze změny tohoto výroku se dovolatelka domáhá a rozhodnutí o osvobození od soudních poplatků napadeno dovoláním nebylo. V dovolání pak nebyla zpochybněna správnost závěru odvolacího soudu, že byla-li žalobkyně osvobozena od soudních poplatků v rozsahu 95 %, je povinna zaplatit náhradu nákladů řízení státu v rozsahu 5 %, tedy výklad § 148 odst. 1 o. s. ř. Dovolání tedy postrádá logickou argumentaci odůvodňující přípustnost dovolání i formulaci konkrétních způsobilých dovolacích důvodů.
+Odkaz na judikaturu Ústavního soudu zabývající se výkladem zavinění na zastavení řízení v procesním smyslu je nepřiléhavý, neboť se netýká výkladu § 148 odst. 1 o. s. ř., který byl při rozhodování o náhradě nákladů řízení státu (správně) použit.
+Námitky spočívající v tom, že dle názoru žalobkyně v řízení byla prokázána existence závažných okolností znemožňujících žalobkyni úhradu nákladů řízení, jsou navíc námitkami proti správnosti skutkových zjištění, které přípustnost dovolání nezakládají.
+Jelikož dovolání žalobkyně směřuje proti rozhodnutí odvolacího soudu, proti němuž není tento mimořádný opravný prostředek přípustný, Nejvyšší soud je podle § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. věta druhá o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 27. května 2014
+JUDr. Robert Waltr
+předseda senátu
