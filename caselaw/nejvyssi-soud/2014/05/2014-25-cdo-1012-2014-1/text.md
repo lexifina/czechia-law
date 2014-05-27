@@ -1,0 +1,14 @@
+25 Cdo 1012/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marty Škárové a soudců JUDr. Petra Vojtka a Mgr. Miloše Póla v právní věci žalobkyně M. Š., proti žalovanému L. V., zastoupenému Mgr. Jaroslavem Salajkou, advokátem se sídlem v Brně, Malinovského náměstí 603/4, o náhradu škody, vedené u Městského soudu v Brně pod sp. zn. 63 C 266/2008, o dovolání žalobkyně proti usnesení Krajského soudu v Brně ze dne 31. 10. 2013, č. j. 44 Co 354/2013-114, takto:
+Dovolání se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 občanského soudního řádu):
+Krajský soud v Brně usnesením ze dne 31. 10. 2013, č. j. 44 Co 354/2013-114, potvrdil usnesení Městského soudu v Brně ze dne 14. 8. 2013, č. j. 63 C 266/2008-103, ve výroku o odnětí osvobození žalobkyni od soudních poplatků se zpětnou účinností a změnil jej ve výroku II. tak, že zastoupení Mgr. P. P. se žalobkyni odnímá. Toto usnesení odvolacího soudu napadla žalobkyně včasným dovoláním.
+Dovolatelka sice není zastoupena advokátem a sama nemá právnické vzdělání (§ 241 odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013, dále jen „o. s. ř.”), povaha rozhodnutí, proti němuž dovolání směřuje, však vylučuje, aby v posuzované věci bylo možno nedostatek podmínky povinného zastoupení považovat za překážku, jež by bránila vydání rozhodnutí, jímž se dovolací řízení končí. Za situace, kdy předmětem dovolacího přezkumu je rozhodnutí, jímž byl účastníku odňat zástupce z řad advokátů, by trvání na podmínce povinného zastoupení vedlo k popření cíle, jenž účastník podáním dovolání sledoval a k popření vlastního smyslu dovolacího řízení (srov. např. usnesení Nejvyššího soudu ze dne 28. 4. 1997, sp. zn. 2 Cdon 609/97, uveřejněné v časopise Soudní judikatura číslo 10, ročníku 1997, pod číslem 97).
+Otázkou, zda má být dovolatelce ustanoven zástupce a přiznáno osvobození od soudních poplatků, se však dovolací soud nemohl zabývat, neboť z obsahu dovolání (§ 41 odst. 2 o. s. ř.) je zřejmé, že dovolatelka nezpochybňuje právní posouzení věci (splnění podmínek pro ustanovení zástupce podle § 30 o. s. ř. a pro osvobození od soudních poplatků podle § 138 o. s. ř.). Její námitka se vztahuje jen k věci samé s tím, že nemá prostředky k najmutí právního zástupce a uhrazení poplatků, avšak neuvádí, které závěry odvolacího soudu týkající se odnětí osvobození od soudních poplatků a právního zástupce považuje za nesprávné.
+Dovolání má tak vady, pro něž nelze v dovolacím řízení pokračovat, a proto ho Nejvyšší soud podle § 243c odst. 1 o. s. ř. (§ 243f odst. 3 o. s. ř.) odmítl.
+O nákladech dovolacího řízení dovolací soud nerozhodoval (viz usnesení Nejvyššího soudu ze dne 23. 7. 2002, sp. zn. 20 Cdo 970/2001, uveřejněné pod číslem 48/2003 Sbírky soudních rozhodnutí a stanovisek).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 27. května 2014
+JUDr. Marta Škárová
+předsedkyně senátu
