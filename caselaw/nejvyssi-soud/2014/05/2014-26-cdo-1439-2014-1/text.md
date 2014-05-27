@@ -1,0 +1,18 @@
+26 Cdo 1439/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Feráka a soudkyň JUDr. Pavlíny Brzobohaté a JUDr. Jitky Dýškové ve věci žalobce K. S., zastoupeného JUDr. Petrem Cembisem, advokátem se sídlem v Brně – Zábrdovicích, Ponávka 185/2, proti žalovanému statutárnímu městu Brnu, městské části Brno-jih, se sídlem v Brně, Mariánské náměstí 13, zastoupenému JUDr. Františkem Mozgou, advokátem se sídlem v Brně, Špitálka 113/41, o určení neplatnosti výpovědi z nájmu bytu, vedené u Městského soudu v Brně pod sp. zn. 49 C 135/2011, o dovolání žalovaného proti rozsudku Krajského soudu v Brně ze dne 8. ledna 2014, č. j. 19 Co 301/2013-68, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Městský soud v Brně (soud prvního stupně) rozsudkem ze dne 21. května 2013, č. j. 49 C 135/2011-40, výrokem I. zamítl žalobu na určení, že je neplatná výpověď žalovaného ze dne 3. června 2011 z nájmu žalobce k „bytu č. 7 nacházejícímu se v B., II. poschodí, sestávajícímu ze dvou pokojů, kuchyně a příslušenství“ (dále jen „Výpověď“ a „předmětný byt“, resp. „byt“); současně rozhodl o nákladech řízení účastníků (výrok II.).
+K odvolání žalobce Krajský soud v Brně jako soud odvolací rozsudkem ze dne 8. ledna 2014, č. j. 19 Co 301/2013-68, rozsudek soudu prvního stupně změnil ve výroku I. tak, že určil, že výpověď je neplatná; zároveň ho změnil i nákladovém výroku II. a rozhodl o nákladech odvolacího řízení účastníků.
+Proti rozsudku odvolacího soudu podal žalovaný (dovolatel) včasné dovolání, jehož přípustnost opřel o ustanovení § 237 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. prosince 2013 (čl. II bod 2. zákona č. 293/2013 Sb.) – dále jen „o. s. ř.“ Nejvyšší soud České republiky jako soud dovolací však dospěl k závěru, že z posléze uvedených příčin není dovolání podle citovaného ustanovení přípustné.
+Především nelze přehlédnout, že vedle způsobilého dovolacího důvodu nesprávného právního posouzení věci (§ 241a odst. 1 a 3 o. s. ř.) dovolatel uplatnil rovněž nezpůsobilý dovolací důvod, jehož prostřednictvím se pokusil zpochybnit správnost zjištěného skutkového stavu.
+Při posuzování dovolacích námitek podřaditelných pod způsobilý dovolací důvod podle § 241a odst. 1 a 3 o. s. ř. dovolací soud postupoval podle dosavadních právních předpisů (§ 3076 zákona č. 89/2012 Sb., občanský zákoník).
+Výrazem ustálené rozhodovací praxe dovolacího soudu jsou právní názory, že Výpověď je neplatná pro neurčité skutkové vymezení uplatněného výpovědního důvodu podle § 711 odst. 2 písm. d/ zákona č. 40/1964 Sb., občanský zákoník, ve znění účinném v době dání Výpovědi (dále jen „obč. zák.“), a že citované ustanovení upravuje „dvě“ skutkové podstaty zde uvedeného výpovědního důvodu, a to jednak situaci, kdy nájemce byt „neužívá“, jednak situaci, kdy jej „užívá jen občas“ (srov. např. rozsudky Nejvyššího soudu z 24. září 2009, sp. zn. 26 Cdo 4548/2008, tj. rozhodnutí, na nějž už v žalobě poukázal žalobce, z 15. července 2010, sp. zn. 26 Cdo 2950/2009, ze 14. listopadu 2011, sp. zn. 26 Cdo 2831/2010, a z 16. května 2012, sp. zn. 26 Cdo 2039/2011). Dovolací soud nemá důvod se od těchto názorů odchýlit ani v poměrech souzené věci.
+Za této situace není dovolání přípustné podle § 237 o. s. ř., a proto je dovolací soud podle § 243c odst. 1 o. s. ř. odmítl – se souhlasem všech členů senátu (§ 243c odst. 2 o. s. ř.) – pro nepřípustnost.
+Bylo-li dovolání odmítnuto, nemusí být rozhodnutí o náhradě nákladů dovolacího řízení odůvodněno (srov. § 243f odst. 3 větu druhou o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 27. května 2014
+JUDr. Miroslav Ferák
+předseda senátu
