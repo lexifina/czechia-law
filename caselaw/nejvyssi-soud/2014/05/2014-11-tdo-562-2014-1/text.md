@@ -1,0 +1,18 @@
+11 Tdo 562/2014-42
+U S N E S E N Í
+Nejvyšší soud projednal v neveřejném zasedání konaném dne 27. května 2014 dovolání podané obviněným M. L. , roz. S. , proti rozsudku Krajského soudu v Plzni ze dne 24. 10. 2013, sp. zn. 7 To 329/2013, jako soudu odvolacího, v trestní věci vedené u Okresního soudu Plzeň-jih pod sp. zn. 1 T 101/2011, a rozhodl t a k t o :
+Podle § 265i odst. 1 písm. c) tr. ř. s e dovolání obviněného M. L.
+o d m í t á .
+O d ů v o d n ě n í :
+Rozsudkem Okresního soudu Plzeň-jih ze dne 17. 7. 2013, sp. zn. 1 T 101/2011, byl obviněný M. L. uznán vinným přečinem vyhrožování s cílem působit na úřední osobu podle § 326 odst. 1 písm. b) tr. zákoníku a přečinem výtržnictví podle § 358 odst. 1 tr. zákoníku, za které byl podle § 326 odst. 1 za použití § 43 odst. 1 tr. zákoníku odsouzen k úhrnnému trestu odnětí svobody v trvání šesti měsíců, jehož výkon byl podmíněně odložen na zkušební dobu v trvání třiceti měsíců.
+Proti tomuto rozsudku podal obviněný odvolání, na jehož základě Krajský soud v Plzni rozsudkem ze dne 24. 10. 2013, sp. zn. 7 To 329/2013, podle § 258 odst. 1 písm. e), odst. 2 tr. ř. zrušil rozsudek soudu prvního stupně ve výroku o trestu a podle § 259 odst. 3 tr. ř. znovu rozhodl tak, že obviněnému podle § 326 odst. 1 za použití § 43 odst. 1 tr. zákoníku uložil úhrnný trest odnětí svobody v trvání šesti měsíců, jehož výkon podmíněně odložil na zkušební dobu v trvání jednoho roku.
+Proti rozhodnutí odvolacího soudu podal obviněný dovolání prostřednictvím svého obhájce Mgr. Lukáše Hegnera.
+Nejvyšší soud shledal, že dovolání bylo podáno opožděně.
+Podle § 265e odst. 1 tr. ř. se dovolání podává u soudu, který rozhodl ve věci v prvním stupni, do dvou měsíců od doručení rozhodnutí, proti kterému dovolání směřuje. Podle § 265e odst. 2 tr. ř. jestliže se rozhodnutí doručuje jak obviněnému, tak i jeho obhájci, běží lhůta od toho doručení, které bylo provedeno nejpozději.
+Napadený rozsudek byl obviněnému doručen dne 28. 11. 2013, v té době nebyl obviněný zastoupen obhájcem (ustanovení obhájce bylo dne 19. 9. 2013 zrušeno v souvislosti s propuštěním obviněného z vazby a obviněný si jiného obhájce do doby veřejného zasedání o jeho odvolání nezvolil). Lhůta k podání dovolání, počítaná podle § 60 odst. 2 tr. ř., tedy obviněnému uplynula dne 28. 1. 2014.
+V průběhu lhůty podle § 265e odst. 1 tr. ř. byl obviněnému k posouzení právního stavu pro podání dovolání Českou advokátní komorou přidělen advokát Mgr. Lukáš Hegner, který za obviněného dne 28. 3. 2014 u Okresního soudu Plzeň-jih podal dovolání. V jeho textu uvádí, že mu napadený rozsudek byl podle § 130 tr. ř. doručen dne 28. 1. 2014, je proto přesvědčen o včasnosti dovolání. Tento názor je nesprávný. V případě, že obviněný neměl obhájce v době, kdy řízení pravomocně skončilo rozhodnutím soudu druhého stupně, neboť si jej sám nezvolil a nebyl ani dán žádný důvod nutné obhajoby, pak se opis rozhodnutí soudu druhého stupně doručuje pouze obviněnému, a to i v případě, jestliže ke zvolení nebo ustanovení obhájce došlo v průběhu dovolací lhůty. Z hlediska běhu dovolací lhůty je tak bez významu, zda a kdy byl doručen opis napadeného rozhodnutí takto zvolenému nebo ustanovenému obhájci (srov. č. 10/2013 Sb. rozh. tr.). V rozsudku Krajského soudu v Plzni přitom bylo uvedeno řádné poučení o zákonné dovolací lhůtě.
+Nejvyšší soud proto opožděné dovolání obviněného podle § 265i odst. 1 písm. c) tr. ř. odmítl, aniž z jeho podnětu přezkoumal napadené usnesení a předcházející řízení z hledisek uvedených v § 265i odst. 3 tr. ř.
+P o u č e n í : Proti rozhodnutí o dovolání není s výjimkou obnovy řízení opravný prostředek přípustný (§ 265n tr. ř.).
+V Brně dne 27. května 2014
+Předseda senátu:
+JUDr. Karel Hasch
