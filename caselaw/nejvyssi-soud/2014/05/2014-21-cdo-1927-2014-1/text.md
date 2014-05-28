@@ -1,0 +1,11 @@
+21 Cdo 1927/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu JUDr. Olgou Puškinovou v exekuční věci oprávněné Raiffeisen stavební spořitelny a.s., se sídlem v Praze 3, Koněvova č. 2747/99, IČO 49241257, proti povinným 1) Z. M., a 2) Z. M., oběma zastoupeným JUDr. Jiřím Dobišarem, advokátem se sídlem v Břeclavi, Smetanovo nábřeží č. 6, pro 187.005,31 Kč s příslušenstvím, vedené u Okresního soudu v Břeclavi pod sp. zn. 53 EXE 1331/2011, o dovolání povinných proti usnesení Krajského soudu v Brně ze dne 27. června 2013 č. j. 26 Co 172/2013 - 63, takto:
+Dovolání povinných se odmítají.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky dovolání povinných proti usnesení Krajského soudu v Brně ze dne 27. 6. 2013, č. j. 26 Co 172/2013 - 63, podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl, neboť dovolání trpí vadami [zejména neobsahují údaje o tom, v čem dovolatelé spatřují splnění předpokladů přípustnosti dovolání (§ 241a odst. 2 o. s. ř.), ani vymezení dovolacího důvodu způsobem uvedeným v ustanovení § 241a odst. 3 o. s. ř. (k podáním ze dne 14. 10. 2013, v nichž povinní vymezili důvody dovolání, aniž by byla splněna podmínka povinného zastoupení dovolatelů advokátem stanovená v § 241 o. s. ř., nelze vzhledem k ustanovení § 241a odst. 5 o. s. ř. přihlédnout)], které nebyly odstraněny ve lhůtě uvedené v ustanovení § 241b odst. 3 o. s. ř. a pro které nelze v dovolacím řízení pokračovat (k podání ze dne 30. 1. 2014, sepsanému zástupcem povinných, který jim byl ustanoven soudem, a podanému osobně u soudu prvního stupně dne 30. 1. 2014, rovněž nelze přihlížet, neboť dovolání jím byla doplněna až po uplynutí dvouměsíční lhůty vyplývající z ustanovení § 241b odst. 3 části druhé věty za středníkem o. s. ř., která začala běžet dnem 28. 11. 2013, kdy nabylo právní moci usnesení o ustanovení zástupce povinným).
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu [§ 87 a následující zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění pozdějších předpisů].
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 28. května 2014
+JUDr. Olga Puškinová
+předsedkyně senátu
