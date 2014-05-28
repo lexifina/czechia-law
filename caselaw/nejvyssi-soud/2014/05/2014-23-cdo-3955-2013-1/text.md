@@ -1,0 +1,19 @@
+23 Cdo 3955/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Horáka, Ph.D. a soudců JUDr. Zdeňka Dese a JUDr. Kateřiny Hornochové ve věci žalobkyně BULANA společnost s ručením omezeným, se sídlem v Novém Jičíně, K nemocnici 9, PSČ 741 01, identifikační číslo osoby 47666757, zastoupené JUDr. Jiřím Ptáčkem, advokátem, se sídlem v Brně, Masarykova 2, proti žalovanému Ing. L. H., zastoupeného JUDr. Vítem Pošvářem, advokátem, se sídlem v Jindřichově Hradci, Masarykovo náměstí 1/II, za účasti vedlejšího účastníka na straně žalovaného HR a VA s.r.o., se sídlem v Kardašově Řečici, ul. Míru 235, identifikační číslo osoby 62503171, o zaplacení 1,524.332,20 Kč s příslušenstvím, o návrhu žalovaného na osvobození od soudních poplatků a ustanovení zástupce, vedené u Okresního soudu v Jindřichově Hradci pod sp. zn. 18 C 799/2011, o dovolání žalovaného proti usnesení Krajského soudu v Českých Budějovicích ze dne 22. ledna 2013, č. j. 7 Co 134/2013-113, takto:
+Dovolání žalovaného se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Okresní soud v Jindřichově Hradci usnesením ze dne 5. prosince 2012, č. j. 18 C 799/2011-106, zamítl návrh žalovaného na osvobození od soudních poplatků ze dne 8. února 2012 (bod I. výroku). Stejně tak zamítl návrh žalovaného na ustanovení zástupce pro řízení ze dne 8. února 2012 (bod II. výroku).
+K odvolání žalovaného i vedlejšího účastníka na straně žalovaného odvolací soud usnesením v záhlaví uvedeným usnesení soudu prvního stupně potvrdil.
+Proti usnesení odvolacího soudu podal žalovaný dovolání s tím, že jeho přípustnost dovozuje z ustanovení § 237 zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů (dále jen „o. s. ř.“).
+K dovolání žalovaného se žalobkyně dle obsahu spisu nevyjádřila.
+Rozhodné znění občanského soudního řádu pro dovolací řízení (do 31. prosince 2013) se podává z bodů 1. a 7., článku II., zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony.
+Dle ustanovení § 237 o. s. ř. platí, že není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+Dovolání žalovaného není přípustné podle § 237 o. s. ř., neboť napadené rozhodnutí nezávisí na vyřešení otázky hmotného nebo procesního práva ve smyslu § 237 o. s. ř.
+Vytýká-li dovolatel odvolacímu soudu, že nevyhověl návrhu žalovaného na osvobození od soudních poplatků a jeho žádosti o ustanovení zástupce pro řízení, ačkoli zákonné podmínky vyplývající z ustanovení § 138 o. s. ř. byly splněny, přičemž poukazuje na konstantní judikaturu Nejvyššího soudu (aniž by ji však konkrétně specifikoval), pak touto námitkou přípustnost dovolání nezakládá. Napadené rozhodnutí odvolacího soudu totiž je (oproti mínění dovolatele) v souladu s ustálenou rozhodovací praxí dovolacího soudu (srov. např. usnesení Nejvyššího soudu ze dne 7. července 2013, sp. zn. 29 Cdo 1301/2013, či ze dne 18. září 2013, sp. zn. 30 Cdo 2643/2013) a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+Nejvyšší soud České republiky proto dovolání žalovaného podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+O náhradě nákladů řízení, včetně nákladů dovolacího řízení rozhodnou soudy nižších stupňů v rozhodnutí, jímž se řízení končí (§ 243c odst. 3 věty první, § 224 odst. 1 a § 151 odst. 1 části věty před středníkem o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 28. května 2014
+JUDr. Pavel Horák, Ph.D.
+předseda senátu
