@@ -1,0 +1,14 @@
+33 Cdo 1100/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Václava Dudy a soudců JUDr. Pavla Krbka a JUDr. Blanky Moudré ve věci žalobce JUDr. V. K., advokáta se sídlem v Hradci Králové, třída SNP 733, proti žalovanému V. V., zastoupenému JUDr. Jiřím Králíkem, advokátem se sídlem v Hradci Králové, Labská louka 650, o 185.920,- Kč s příslušenstvím, vedené u Okresního soudu v Hradci Králové pod sp. zn. 15 C 342/2012, o dovolání žalobce proti rozsudku Krajského soudu v Hradci Králové ze dne 30. září 2013, č. j. 24 Co 338/2013-101, takto:
+I. Dovolání se odmítá.
+II. Žalobce je povinen zaplatit žalovanému na náhradě nákladů dovolacího řízení 10.696,40 Kč do tří dnů od právní moci tohoto usnesení k rukám JUDr. Jiřího Králíka, advokáta.
+O d ů v o d n ě n í :
+Žalobce podal dovolání proti v záhlaví označenému rozhodnutí, jímž krajský soud potvrdil rozsudek ze dne 13. března 2013, č. j. 15 C 342/2012-68, kterým Okresní soud v Hradci Králové zamítl žalobu o zaplacení částky 185.920,- Kč s blíže specifikovaným úrokem z prodlení. Přípustnost dovolání dovozuje z ustanovení § 237 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013 (srov. čl. II. bod 1. zákona č. 404/2012 Sb. a čl. II. bod 2. zákona č. 293/2013 Sb. - dále jen „o. s. ř.“), neboť má za to, že napadené rozhodnutí závisí na otázkách hmotného a procesního práva, při jejichž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu, resp. „má být posouzena otázka, která je dovolacím soudem rozhodována rozdílně od odvolacího soudu.“
+Předpoklady přípustnosti podle § 237 o. s. ř. nejsou splněny, neboť žalobce podle obsahu podání (§ 41 odst. 2 o. s. ř.) neuplatnil důvod nesprávného právního posouzení věci (§ 241a odst. 1 o. s. ř.). Dovoláním uplatněné námitky nesměřují proti právnímu posouzení, nýbrž vytýkají nesprávnost a neúplnost skutkových zjištění, na nichž je založen právní závěr o promlčení práva na zaplacení odměny advokáta. Žalobce odvolacímu soudu vytýká, že nepřezkoumal veškerá jeho tvrzení a předložené důkazy o tom, že účastníci uzavřeli ústně dohodu o odkladu splatnosti odměny. Uplatněním způsobilého dovolacího důvodu ve smyslu § 241a odst. 1 o. s. ř. není zpochybnění právního posouzení věci, vychází-li z jiného skutkového stavu, než z jakého vyšel při posouzení věci odvolací soud; samotné hodnocení důkazů odvolacím soudem (opírající se o zásadu volného hodnocení důkazů zakotvenou v ustanovení § 132 o. s. ř.) nelze (ani v režimu dovolacího řízení podle občanského soudního řádu ve znění účinném od 1. ledna 2013) úspěšně napadnout dovolacím důvodem podle § 241a odst. 1 o. s. ř.
+Nepřípustné dovolání Nejvyšší soud odmítl [§ 243c odst. 1 o. s. ř.].
+Výrok o náhradě nákladů dovolacího řízení nemusí být odůvodněn (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 29. května 2014
+JUDr. Václav D u d a
+předseda senátu
