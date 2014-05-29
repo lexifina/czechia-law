@@ -1,0 +1,19 @@
+30 Cdo 1888/2014
+U S N E S E N Í
+Nejvyšší soud rozhodl předsedou senátu JUDr. Pavlem Pavlíkem v právní věci žalobce V. P., proti žalovanému Veřejnému ochránci práv se sídlem v Brně, Údolní 39, o ochranu osobnosti, vedené u Krajského soudu v Brně pod sp. zn. 24 C 74/2008, o dovolání žalobce proti usnesení Vrchního soudu v Olomouci ze dne 27. dubna 2009, č.j. 1 Co 13/2009-19, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění
+(§ 243c odst. 2 o.s.ř.):
+Vrchní soud v Olomouci usnesením ze dne 27. dubna 2009, č.j. 1 Co 13/2009-19, potvrdil usnesení Krajského soudu v Brně ze dne 27. října 2008, č.j. 24 C 74/2008-11, v části, kterou byla odmítnuta žaloba na uložení povinnosti „vybavit nové vyřízení podnětu“ žalobce, písemně se omluvit za tvrzení obsažená ve sdělení žalovaného z 10. 8. 2007 a zaslat opravený text vyřízeného podnětu.
+Proti rozhodnutí odvolacího soudu podal žalobce dovolání, aniž by byl zastoupen advokátem, ve kterém žádal soud o ustanovení zástupce pro dovolací řízení.
+Usnesením Krajského soudu v Brně ze dne 9. dubna 2013, č.j. 24 C 74/2008-126, byla žádost žalobce o ustanovení zástupce pro dovolací řízení zamítnuta. K odvolání žalobce Vrchní soud v Olomouci usnesením ze dne 19. února 2014, č.j. 1 Co 7/2014-178, usnesení krajského soudu potvrdil.
+Krajský soud v Brně poté usnesením ze dne 20. března 2014, č.j. 24 C 74/2008-181, vyzval žalobce, aby si pro podání dovolání zvolil zástupcem advokáta s poučením o tom, že nebude-li ve stanovené lhůtě výzvě vyhověno, bude dovolací řízení zastaveno. Usnesení bylo dovolateli doručeno dne 13. dubna 2014 (vyvěšením na úřední i elektronické desce), avšak nedostatek povinného zastoupení nebyl dovolatelem do současné doby odstraněn.
+Dovolací soud za situace, kdy napadené rozhodnutí odvolacího soudu bylo vydáno dne 27. dubna 2009, přihlédl k bodu 7. článku II., části první, přechodných ustanovení zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony a vyšel tak ze znění tohoto procesního předpisu účinného do 31. prosince 2012.
+Konstatuje, že podle § 241 o.s.ř. musí být dovolatel zastoupen advokátem nebo notářem (který však může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními předpisy), jestliže sám nemá právnické vzdělání; je-li dovolatelem právnická osoba, stát, obec nebo vyšší územně samosprávný celek, jedná za ní osoba uvedená v § 21 nebo § 21a anebo v § 21b o.s.ř., pokud má právnické vzdělání. Nemá-li dovolatel právnické vzdělání, musí být dovolání sepsáno advokátem, notářem nebo osobou uvedenou v § 21 nebo § 21a, v § 21b, anebo v § 26a odst. 3 o.s.ř., která má právnické vzdělání. V tomto případě se jedná o úpravu tzv. povinného zastoupení dovolatele v dovolacím řízení, které je chápáno jako zvláštní podmínka dovolacího řízení týkající se dovolatele, jejíž nedostatek lze sice odstranit, bez jejíhož splnění však nelze vydat rozhodnutí ve věci samé. Nedostatek v zastoupení dovolatele musí být proto řešen postupem podle ustanovení § 241b odst. 2 o.s.ř. ve spojení s § 104 odst. 2 téhož zákona.
+Dovolací soud je nucen konstatovat, že dovolatel výše uvedené výzvě soudu nevyhověl a pro dovolací řízení si nezvolil ve stanovené lhůtě (resp. ani později) zástupce z řad advokátů, aniž by případně doložil, že splňuje podmínku získání právnického vzdělání, jak je předpokládána ustanovením § 241 odst. 2 písm. a) o.s.ř. Protože tak nebyla naplněna tato zvláštní podmínka dovolacího řízení, dovolacímu soudu nezbylo, než podle již uvedených ustanovení dovolací řízení zastavit.
+Výrok o náhradě nákladů dovolacího řízení není odůvodněn (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 29. května 20141
+JUDr. Pavel P a v l í k
+předseda senátu
