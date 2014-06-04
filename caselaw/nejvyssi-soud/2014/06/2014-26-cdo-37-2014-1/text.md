@@ -1,0 +1,14 @@
+26 Cdo 37/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu Doc. JUDr. Věrou Koreckou, CSc., ve věci žalobkyně M. P., zastoupené JUDr. Petrem Lindenthalem, advokátem se sídlem Jindřichov 476, proti žalovanému M. K., zastoupenému Mgr. Petrem Drapákem, advokátem se sídlem Praha 2, Malá Štěpánská 1932/3, o zaplacení částky 180.000,- Kč s příslušenstvím, vedené u Okresního soudu v Kladně pod sp. zn. 116 C 41/2009, o dovolání žalovaného proti rozsudku Krajského soudu v Praze ze dne 11. dubna 2013, č. j. 24 Co 114/2012-185, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů řízení.
+O d ů v o d n ě n í:
+Proti rozsudku Krajského soudu v Praze ze dne 11. 4. 2013, č. j. 24 Co 114/2012-185, podal žalovaný (dovolatel) dovolání, k němuž se žalobkyně prostřednictvím svého advokáta písemně vyjádřila. Již na tomto místě lze však předeslat, že vyjádření se minulo důvody, pro které bylo dovolání posléze odmítnuto, a bylo proto bezvýznamné pro rozhodnutí o dovolání.
+Nejvyšší soud České republiky dovolání odmítl podle § 243c odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění od 1. 1. 2013 do 31. 12. 2013 (srov. článek II., bod 1. Přechodných ustanovení zákona č. 404/2012 Sb., a část první, článek II. bod 2 zákona č. 293/2013 Sb.) – dále jen „o. s. ř.“, neboť neobsahuje náležitosti vyžadované ustanovením § 241a odst. 2 o. s. ř. a tyto vady (nedostatky), pro něž nelze v dovolacím řízení pokračovat, dovolatel včas (po dobu trvání lhůty k dovolání) neodstranil (§ 241b odst. 3 o. s. ř.).
+Konkrétně dovolání neobsahuje údaje o tom, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a o. s. ř.), a není v něm – způsobem uvedeným v ustanovení § 241a odst. 3 o. s. ř. – vymezen ani dovolací důvod. Přípustnost dovolání dovozoval z ustanovení „§ 236 an. o. s. ř.“ a uvedl, že „tato otázka je dovolacím soudem rozhodována rozdílně“; uvedenou právní otázku však nijak nespecifikoval a ani neoznačil rozhodovací praxi dovolacího soudu takovým způsobem, že by v ní bylo možno identifikovat rozporná řešení právě takové konkrétní právní otázky. Jde-li o dovolací důvod, uvedl sice, že „napadený rozsudek spočívá na nesprávném právním posouzení věci“, avšak takto obecně uplatněný dovolací důvod podle § 241a odst. 1 o. s. ř. nevymezil způsobem naznačeným v ustanovení § 241a odst. 3 o. s. ř. Kromě toho – s přihlédnutím k charakteru uplatněných dovolacích námitek – nelze ani ztratit ze zřetele, že vady řízení a nesprávná skutková zjištění (dovolatelem ve skutečnosti uplatněná) nejsou podle současné právní úpravy způsobilým dovolacím důvodem (srov. § 241a odst. 1 o. s. ř.).
+Bylo-li dovolání odmítnuto, nemusí být rozhodnutí o náhradě nákladů dovolacího řízení odůvodněno (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 4. června 2014
+Doc. JUDr. Věra Korecká, CSc.
+předsedkyně senátu
