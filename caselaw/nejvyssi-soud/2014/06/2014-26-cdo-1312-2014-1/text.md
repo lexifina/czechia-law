@@ -1,0 +1,15 @@
+26 Cdo 1312/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně Doc. JUDr. Věry Korecké, CSc., a soudců JUDr. Miroslava Feráka a JUDr. Pavlíny Brzobohaté ve věci žalobců a) J. H., a b) M. H., zastoupených Mgr. Lucií Benešovou, advokátkou se sídlem Praha 1 – Nové Město, Palackého 715/15, proti žalované HPI HEBERGER PROJEKT INVESTMENT, s. r. o., se sídlem Praha 10 – Malešice, Teplárenská 608/11, IČO 25108506, zastoupené Mgr. Jiřím Naušem, advokátem se sídlem Praha 8 – Karlín, Peckova 280/9, o určení neplatnosti výpovědi z nájmu bytu, vedené u Obvodního soudu pro Prahu 10 pod sp. zn. 8 C 265/2009, o dovolání žalobců proti usnesení Městského soudu v Praze ze dne 12. února 2013, č. j. 13 Co 57/2013, 13 Co 58/2013-73, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Městský soud v Praze (odvolací soud) usnesením ze dne 12. 2. 2013, č. j. 13 Co 57/2013, 13 Co 58/2013-73, výrokem I. změnil rozsudek Obvodního soudu pro Prahu 10 (soud prvního stupně) ze dne 11. 4. 2012, č. j. 8 C 265/2009-55, ve znění opravného usnesení ze dne 17. 7. 2012, č. j. 8 C 265/2009-62, ve výroku o nákladech řízení, jímž soud prvního stupně uložil žalované povinnost nahradit žalobcům náklady řízení ve výši 9.280,- Kč, tak, že žádný z účastníků nemá právo na náhradu nákladů řízení (dále jen „měnící výrok“) a výrokem II. rozhodl o nákladech odvolacího řízení.
+Proti měnícímu výroku citovaného usnesení odvolacího soudu podali žalobci dovolání, které je však objektivně nepřípustné, neboť jím bylo rozhodnuto o peněžitém plnění (částce 9.280,- Kč) nepřevyšujícím 50.000,- Kč (§ 238 odst. 1 písm. d/ zákona č. 99/1963 Sb., občanského soudního řádu, ve znění od 1. 1. 2013 do 31. 12. 2013 – dále jen „o. s. ř.“ /srov. článek II., bod 1. přechodných ustanovení zákona č. 404/2012 Sb., a část první, článek II. bod 2 zákona č. 293/2013 Sb./ - viz usnesení Nejvyššího soudu ze dne 26. 9. 2013, sen. zn. 29 ICdo 34/2013, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod č. 5/2014), jež nelze označit pro účely posouzení přípustnosti dovolání za plnění ze vztahu ze spotřebitelské smlouvy, z pracovněprávního vztahu nebo z věci uvedené v § 120 odst. 2 o.s.ř. (srov. usnesení Nejvyššího soudu z 30. 5. 2013, sp. zn. 29 Cdo 1172/2013, uveřejněné pod č. 80/2013 ve Sbírce soudních rozhodnutí a stanovisek).
+Pro úplnost lze dodat, že přípustnost dovolání nezakládá nesprávné poučení odvolacího soudu o tom, že dovolání může být – v případě splnění v poučení uvedených podmínek – přípustné (srov. např. usnesení Nejvyššího soudu z 27. 6. 2002, sp. zn. 29 Odo 425/2002, uveřejněné pod č. 51/2003 ve Sbírce soudních rozhodnutí a stanovisek).
+Nejvyšší soud proto dovolání jako nepřípustné odmítl (§ 243c odst. 1 věta první o. s. ř.).
+Bylo-li dovolání odmítnuto, nemusí být rozhodnutí o náhradě nákladů dovolacího řízení odůvodněno (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 4. června 2014
+Doc. JUDr. Věra Korecká, CSc.
+předsedkyně senátu
