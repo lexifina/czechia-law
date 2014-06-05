@@ -1,0 +1,14 @@
+26 Cdo 1693/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu Doc. JUDr. Věrou Koreckou, CSc., ve věci žalobce ROZVOJ, stavebního bytového družstva, se sídlem Prostějov, Wolkerova 1578/15, IČO 00049891, proti žalovaným 1) L. Š., a 2) A. Š., zastoupeným JUDr. Ladislavem Skulníkem, advokátem se sídlem Prostějov, Poděbradovo nám. 1374/8a, o vyklizení bytu, vedené u Okresního soudu v Prostějově pod sp. zn. 7 C 226/2012, o dovolání žalovaných proti rozsudku Krajského soudu v Brně ze dne 13. listopadu 2013, č.j. 19 Co 193/2013-69, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů řízení.
+O d ů v o d n ě n í:
+Žalovaní (zastoupeni advokátem) podali včasné dovolání proti rozsudku ze dne 13. 11. 2013, č. j. 19 Co 193/2013-69, kterým Krajský soud v Brně (odvolací soud) potvrdil rozsudek Okresního soudu v Prostějově (soud prvního stupně) ze dne 6. 3. 2013, č. j. 7 C 226/2012-42, jímž byla žalovaným uložena povinnost vyklidit tam specifikovaný byt do 15 dnů po zajištění přístřeší a rozhodl o nákladech řízení; současně rozhodl o nákladech odvolacího řízení.
+Dovolání proti rozsudku odvolacího soudu Nejvyšší soud podle § 243c odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění od 1. 1. 2013 do 31. 12. 2013 (srov. článek II., bod 1. přechodných ustanovení zákona č. 404/2012 Sb., a část první, článek II. bod 2 zákona č. 293/12013 Sb.) – dále jen „o. s. ř.“, odmítl, neboť neobsahuje údaj o tom, v čem dovolatelé spatřují splnění předpokladů přípustnosti dovolání (§ 237 - § 238a o. s. ř.), což je obligatorní náležitostí dovolání (srov. § 241a odst. 2 o. s. ř.), bez jejíhož splnění nelze v dovolacím řízení pokračovat.
+Může-li být dovolání přípustné jen podle § 237 o. s. ř. (jako v této věci), je dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné, přičemž k projednání dovolání nepostačuje pouhá citace textu ustanovení § 237 o. s. ř. (viz např. usnesení Nejvyššího soudu ze dne 27. 8. 2013, sp. zn. 29 NSČR 55/2013). Z dovolání musí být také patrno, které otázky hmotného nebo procesního práva, na nichž napadené rozhodnutí závisí, nebyly v rozhodování dovolacího soudu dosud řešeny (má-li je dovolatel za dosud neřešené), případně, při jejichž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu a od které "ustálené rozhodovací praxe" se řešení této právní otázky odvolacím soudem odchyluje (srovnej usnesení Nejvyššího soudu ze dne 25. 9. 2013, sp. zn. 29 Cdo 2394/2013, publikované pod číslem 4/2014 Sbírky soudních rozhodnutí a stanovisek).
+Bylo-li dovolání odmítnuto, nemusí být rozhodnutí o náhradě nákladů dovolacího řízení odůvodněno (srov. § 243f odst. 3 větu druhou o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 5. června 2014
+Doc. JUDr. Věra Korecká, CSc.
+předsedkyně senátu
