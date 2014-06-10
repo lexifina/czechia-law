@@ -1,0 +1,13 @@
+21 Cdo 1183/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a JUDr. Zdeňka Novotného v právní věci žalobce M. G., zastoupeného JUDr. Milošem Slabým, advokátem se sídlem v Mohelnici, Nádražní č. 381/9, proti žalovanému J. D., zastoupenému JUDr. Petrem Grobelným, advokátem se sídlem v Ostravě-Moravské Ostravě, Sokolská třída č. 936/21, o odškodnění pracovního úrazu, vedené u Okresního soudu v Ostravě pod sp. zn. 85 C 129/2010, o dovolání žalovaného proti rozsudku Krajského soudu v Ostravě ze dne 18. září 2013, č. j. 16 Co 139/2013-160, takto:
+Dovolání žalovaného se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalovaného proti rozsudku Krajského soudu v Ostravě ze dne 18. 9. 2013, č. j. 16 Co 139/2013-160, není přípustné podle ustanovení § 237 o. s. ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu [k otázce, zda činnost žalobce dne 25. 6. 2009, při které utrpěl poškození zdraví (úraz), lze považovat za plnění jeho pracovních úkolů, zejména, zda z hlediska místního, časového a především věcného (vnitřního účelového) šlo objektivně o činnost konanou pro zaměstnavatele, srov. závěry býv. Nejvyššího soudu ze dne 18. 11. 1970, Cpj 87/70, uveřejněné pod č. 55 ve Sbírce soudních rozhodnutí a stanovisek, roč. 1971, nebo rozsudek Nejvyššího soudu ze dne 14. 1. 2003, sp. zn. 21 Cdo 454/2002, uveřejněný pod č. 79 v časopise Soudní judikatura, ročník 2003, které se vztahují k obsahově shodné dřívější právní úpravě] a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+V části, v níž dovolatel uplatnil jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o. s. ř. (zpochybňuje-li skutková zjištění, která byla pro právní posouzení věci odvolacím soudem rozhodující, nesouhlasí-li s tím, ke kterým důkazům odvolací soud přihlížel a jak tyto důkazy hodnotil, a předestírá-li opačné skutkové závěry, na nichž buduje své vlastní a od odvolacího soudu odlišné právní posouzení věci) dovolání trpí nedostatkem, pro který nelze v dovolacím řízení pokračovat.
+Nejvyšší soud České republiky proto dovolání žalovaného podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Protože tímto rozhodnutím dovolacího soudu se řízení o věci nekončí, bude rozhodnuto i o náhradě nákladů vzniklých v tomto dovolacím řízení v konečném rozhodnutí soudu prvního stupně, popřípadě soudu odvolacího (§ 243b, § 151 odst. 1 o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 10. června 2014
+JUDr. Mojmír Putna
+předseda senátu
