@@ -1,0 +1,18 @@
+30 Nd 169/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Vrchy a soudců JUDr. Pavla Pavlíka a JUDr. Lubomíra Ptáčka, Ph.D., v právní věci žalobce L. K., proti žalované ESSOX s. r. o., se sídlem v Českých Budějovicích, Senovážné nám. 231/7, identifikační číslo osoby 26764652, o obnovení pojištění úvěru, vedené u Okresního soudu v Českých Budějovicích pod sp. zn. 27 C 42/2014, o návrhu žalobce na přikázání věci jinému soudu, takto:
+Věc vedená u Okresního soudu v Českých Budějovicích pod sp. zn. 27 C 42/2014, se nepřikazuje k projednání a rozhodnutí Okresnímu soudu v Ostravě.
+O d ů v o d n ě n í :
+Dne 14. února 2013 byla k Okresnímu soudu v Ostravě podána žaloba na vydání rozhodnutí, kterým by žalované byla uložena povinnost obnovit ve prospěch žalobce pojištění úvěru.
+Okresní soud v Ostravě vydal dne 14. května 2013 pod č. j. 61 Nc 1/2013-13, usnesení, jímž ve výroku I. vyslovil svou místní nepříslušnost. Ve výroku II. pak rozhodl o postoupení věci Okresnímu soudu v Českých Budějovicích.
+K odvolání žalobce Krajský soud v Ostravě usnesením ze dne 29. listopadu 2013, č. j. 11 Co 658/2013-29, usnesení Okresního soudu v Ostravě ze dne 14. května 2013, č. j. 61 Nc 1/2013-13, potvrdil.
+Dne 22. dubna 2014 podal žalobce návrh na delegaci k Okresnímu soudu v Ostravě a to z důvodu vhodnosti. Uvedl, že těžce onemocněl a není schopen delší chůze.
+Žalovaná k návrhu žalobce uvedla, že se domnívá, že v této věci je místně příslušný Okresní soud v Českých Budějovicích.
+Okresní soud v Českých Budějovicích věc předložil podle ustanovení § 12 odst. 3 o. s. ř. Nejvyššímu soudu České republiky (dále již „Nejvyšší soud“) k rozhodnutí.
+Důvody vhodnosti podle § 12 odst. 2 o. s. ř. mohou být různé v závislosti na předmětu řízení, postavení účastníků i jiných okolnostech. K přikázání věci jinému než příslušnému soudu by mělo docházet pouze výjimečně a jen ze závažných důvodů, kdy důvody pro odnětí věci příslušnému soudu a její přikázání soudu jinému musí být natolik významné, aby dostatečně odůvodňovaly průlom do ústavně zaručené zásady zakotvené v čl. 38 odst. 1 Listiny základních práv a svobod, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon. Nejvyšší soud např. v usnesení ze dne 22. června 2005, sp. zn. 20 Nd 105/2005 (které je veřejnosti přístupné na webových stránkách Nejvyššího soudu www.nsoud.cz) vyložil a odůvodnil právní názor, že vzdálenost bydliště účastníka (zástupce) od sídla procesního soudu a jeho nepříznivý zdravotní stav samy o sobě přikázání věci jinému soudu neodůvodňují, je-li k dispozici institut dožádání (kdy účastník může být vyslechnut soudem jiným než procesním).
+Důvody pro odnětí věci příslušnému soudu a její přikázání jinému soudu tedy musí být natolik významné, aby dostatečně odůvodňovaly průlom do citovaného ústavního principu. O takový případ se v dané věci ovšem nejedná, neboť okolnosti tohoto případu nejsou natolik zásadní, aby v ní bylo bez dalšího možno spatřovat důvod k přikázání věci z důvodu vhodnosti. Nepříznivý zdravotní stav žalobce (jeho snížená pohyblivost) není věcí výjimečnou ale spíše běžnou a nemůže sám o sobě přesvědčivě odůvodňovat přikázání věci jinému soudu.
+Vzhledem k tomu, že okolnosti nejsou natolik výjimečné, aby ospravedlňovaly přikázání věci jinému soudu a s přihlédnutím k názoru žalované, ze kterého vyplývá, že s navrhovanou delegací nesouhlasí, Nejvyšší soud návrhu na přikázání věci Okresnímu soudu v Ostravě z důvodu vhodnosti nevyhověl a věc podle ustanovení § 12 odst. 2 o. s. ř. tomuto soudu nepřikázal.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 11. června 2014
+JUDr. Pavel V r c h a
+předseda senátu
