@@ -1,0 +1,12 @@
+30 Cdo 1752/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové, Ph. D. a soudců JUDr. Vladimíra Mikuška a JUDr. Lenky Dopitové v exekuční věci oprávněné AB - CREDIT a. s., se sídlem v Praze 4, Na Pankráci 1658/121, identifikační číslo osoby 40522610, zastoupené JUDr. Miroslavem Janstou, advokátem se sídlem v Praze 1, Těšnov 1/1059, proti povinnému Bc. P. Z., pro 40.000,- Kč s příslušenstvím, vedené Okresním soudem v Ústí nad Labem pod sp. zn. 53 EXE 247/2012, pověřeným soudním exekutorem JUDr. Jurajem Podkonickým, Ph. D., Exekutorský úřad Praha 5, o dovolání povinného proti usnesení Krajského soudu v Ústí nad Labem ze dne 30. září 2013, č. j. 9Co 1013/2013-40, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Odvolací soud v záhlaví označeným rozhodnutím odmítl odvolání povinného proti usnesení ze dne 15. 2. 2013, č. j. 53 EXE 247/2012-13, jímž soud prvního stupně nařídil dle vykonatelného rozsudku Okresního soudu v Ústí nad Labem ze dne 18. 3. 2010, č. j. 37 EC 578/2009-84, exekuci na majetek povinného k uspokojení pohledávky oprávněné ve výši 40.000,- Kč se zákonným úrokem z prodlení z této částky od 1. 1. 2009 do zaplacení, jakož i pro náklady předcházejícího řízení ve výši 18.440,- Kč a pro náklady exekuce, jak budou v průběhu řízení stanoveny. Provedením exekuce soud pověřil soudního exekutora JUDr. Juraje Podkonického, Ph. D., Exekutorský úřad Praha 5. Povinný napadl usnesení odvolacího soudu dovoláním. Nejvyšší soud dovolání projednal a rozhodl o něm podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2013 do 31. 12. 2013 (srovnej čl. II bod 7. zákona č. 404/2012 Sb. a část první, čl. II, bod 2 zákona č. 293/2013 Sb.), dále jen „o. s. ř.“.
+Dovolání není přípustné, protože směřuje proti výroku odvolacího soudu, jímž bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50.000,- Kč (§ 238 odst. 1 písm. d/ o. s. ř.). Nejvyšší soud tedy dovolání, aniž se zabýval nedostatkem povinného zastoupení dovolatele (§ 241b odst. 2 o. s. ř.), odmítl (§ 243c odst. 1 o. s. ř.).
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 12. června 2014
+JUDr. Miroslava J i r m a n o v á, Ph. D.
+předsedkyně senátu
