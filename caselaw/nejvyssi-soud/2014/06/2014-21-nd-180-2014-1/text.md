@@ -1,0 +1,15 @@
+21 Nd 180/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Jiřího Doležílka a soudců JUDr. Olgy Puškinové a JUDr. Ljubomíra Drápala v právní věci žalobkyně K. M., proti žalovanému M. M., o výživné, vedené u Okresního soudu ve Frýdku-Místku pod sp. zn. 40 C 13/2014, o návrhu žalobkyně na přikázání věci jinému soudu z důvodu vhodnosti, takto:
+Věc, vedená u Okresního soudu ve Frýdku – Místku pod sp. zn. 40 C 13/2014, se nepřikazuje Okresnímu soudu Plzeň – město.
+Odůvodnění:
+Žalobkyně se žalobou podanou u Okresního soudu ve Frýdku – Místku domáhala, aby žalovanému, který je jejím otcem, bylo uloženo platit žalobkyni výživné ve výši 5.000,- Kč měsíčně. Současně navrhla, aby věc byla „vzhledem k vysokým nákladům na dopravu do Frýdku – Místku a časové náročnosti“ přikázána Okresnímu soudu Plzeň – město.
+Žalovaný k návrhu žalobkyně na přikázání věci Okresnímu soudu Plzeň – město uvedl, že „věc by měla být projednávána u soudu Frýdek – Místek z důvodu bydliště žalovaného“.
+Podle ustanovení § 12 odst. 2 o. s. ř. věc může být přikázána jinému soudu téhož stupně z důvodu vhodnosti.
+Důvod vhodnosti pro přikázání věci jinému soudu téhož stupně ve smyslu ustanovení § 12 odst. 2 o. s. ř. představují takové okolnosti, které umožní hospodárnější, rychlejší nebo zejména po skutkové stránce spolehlivější a důkladnější projednání věci jiným než příslušným soudem. Současně je třeba přihlížet k tomu, že místní příslušnost soudu, který má podle zákona věc projednat, je základní zásadou a že případné přikázání věci jinému soudu představuje výjimku z této zásady, kterou je nutno - právě proto, že jde o výjimku - vykládat restriktivně.
+V posuzovaném případě důvody pro přikázání věci Okresnímu soudu Plzeň - město uvedené žalobkyní nepředstavují okolnosti, které by umožnily hospodárnější, rychlejší, spolehlivější nebo důkladnější projednání věci Okresním soudem Plzeň - město oproti jejímu projednání Okresním soudem ve Frýdku - Místku, který je soudem místně příslušným. Relativně vysoké náklady na dopravu spojenou s účastí žalobkyně u jednání u Okresního soudu ve Frýdku - Místku a „časová náročnost“ této dopravy nemohou být důvodem, aby věc byla přikázána z důvodu vhodnosti Okresnímu soudu Plzeň - město, neboť žalobkyně se jednání u Okresního soudu ve Frýdku - Místku může účastnit prostřednictvím zástupce, kterého si zvolí nebo který jí může být na její žádost ustanoven soudem, a její případný výslech jako účastníka řízení může být proveden prostřednictvím dožádaného soudu (§ 39, § 122 odst. 2 o. s. ř.). Ekonomická zátěž spojená s dosažením místně příslušného soudu by se v případě přikázání věci Okresnímu soudu Plzeň - město pouze přesunula ze žalobkyně na žalovaného, a delegace by proto nemohla vést k celkovým úsporám na nákladech řízení účastníků.
+Nejvyšší soud České republiky proto návrhu žalobkyně na přikázání věci Okresnímu soudu Plzeň – město podle ustanovení § 12 odst. 2 o. s. ř. nevyhověl.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 17. června 2014
+JUDr. Jiří Doležílek
+předseda senátu
