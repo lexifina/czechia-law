@@ -1,0 +1,13 @@
+26 Cdo 1850/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Jitky Dýškové a soudců JUDr. Miroslava Feráka a JUDr. Pavlíny Brzobohaté v právní věci žalobce J. S., zastoupeného opatrovníkem Ing. J. S., zastoupeného Mgr. Ing. Martinem Říčkou, advokátem se sídlem v Brně, Vídeňská 240/23, proti žalovanému městu Znojmu, se sídlem ve Znojmě, Obroková 10/12, IČO 00293881, zastoupenému Mgr. Robertem Valou, advokátem se sídlem ve Znojmě, Fischerova 770/12, o určení neplatnosti výpovědi z nájmu bytu, vedené u Okresního soudu ve Znojmě pod sp. zn. 23 C 69/2012, o dovolání žalobce proti rozsudku Krajského soudu v Brně ze dne 8. ledna 2014, č. j. 19 Co 189/2013-118, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud dovolání žalobce proti rozsudku Krajského soudu v Brně ze dne 8. 1. 2014, č. j. 19 Co 189/2013-118, podle ustanovení § 243c odst. 1 věty první zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2013 (dále jen „o. s. ř.“) odmítl, neboť neobsahuje údaj o tom, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 - § 238a o. s. ř.), jenž je podle § 241a odst. 2 o. s. ř. obligatorní náležitostí dovolání (srov. např. usnesení Nejvyššího soudu ze dne 29. 8. 2013, sp. zn. 29 Cdo 2488/2013, usnesení Nejvyššího soudu ze dne 25. 9. 2013, sp. zn. 29 Cdo 2394/2013, uveřejněné pod č. 4/2014 ve Sbírce soudních rozhodnutí a stanovisek), a není v něm vymezen dovolací důvod způsobem uvedeným v ustanovení § 241a odst. 3 o. s. ř. Dovolatel totiž namítá, že řízení je zatíženo vadou a zpochybňuje správnost zjištěného skutkového stavu, avšak svou argumentací neotevírá žádnou otázku procesního nebo hmotného práva, jež by měla vliv na správnost napadeného rozhodnutí (právní posouzení věci, na kterém napadené rozhodnutí spočívá, dovolání nezpochybňuje - srov. usnesení Nejvyššího soudu ze dne 30. 5. 2013, sp. zn. 29 Cdo 1172/2013, uveřejněné pod č. 80/2013 ve Sbírce soudních rozhodnutí a stanovisek, usnesení Nejvyššího soudu ze dne 25. 9. 2013, sp. zn. 29 Cdo 2394/2013, uveřejněné pod č. 4/2014 ve Sbírce soudních rozhodnutí a stanovisek). Pro uvedené nedostatky nelze v dovolacím řízení pokračovat.
+O návrhu na odklad vykonatelnosti (§ 243 o. s. ř.), jenž neshledal důvodným, dovolací soud v souladu se svou ustálenou praxí nerozhodoval.
+Bylo-li dovolání odmítnuto, nemusí být rozhodnutí o náhradě nákladů dovolacího řízení odůvodněno (srov. § 243f odst. 3 větu druhou o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 17. června 2014
+JUDr. Jitka Dýšková
+předsedkyně senátu
