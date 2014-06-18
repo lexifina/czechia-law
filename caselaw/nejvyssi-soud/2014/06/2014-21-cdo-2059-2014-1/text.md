@@ -1,0 +1,12 @@
+21 Cdo 2059/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Jiřím Doležílkem v právní věci žalobce CDV-2, LTD., se sídlem Peterborough Court, 133 Fleet Street, London, EC4A 2BB, Spojené Království Velké Británie a Severního Irska, registrační číslo 4434554, zastoupeného JUDr. Petrem Balcarem, advokátem se sídlem v Praze 1 – Starém Městě, Revoluční č. 763/15, proti žalované Z. H., zastoupené JUDr. Jaroslavem Kolářem, advokátem se sídlem v Dobříši, 28. října č. 661, o určení neúčinnosti darovací smlouvy, vedené u Okresního soudu v Příbrami pod sp. zn. 16 C 180/2008, o dovolání žalované proti rozsudku Krajského soudu v Praze ze dne 11. prosince 2013 č. j. 30 Co 175/2010-737, takto:
+I. Dovolání žalované se odmítá.
+II. Žalovaná je povinna zaplatit žalobci na náhradě nákladů dovolacího řízení 3.388,- Kč do tří dnů od právní moci tohoto usnesení k rukám JUDr. Petra Balcara, advokáta se sídlem v Praze 1 – Starém Městě, Revoluční č. 763/15.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky dovolání žalované proti rozsudku Krajského soudu v Praze ze dne 11. 12. 2013 č. j. 30 Co 175/2010-737 podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl, neboť jednak neobsahuje způsobilé vymezení předpokladů přípustnosti dovolání ve smyslu ustanovení § 241a odst. 2 o. s. ř. [takovým vymezením není pouhá citace ustanovení § 237 o. s. ř., aniž by bylo z dovolání zřejmé, který z předpokladů přípustnosti dovolání uvedených alternativně v tomto ustanovení je podle mínění dovolatelky splněn (srov. například odůvodnění usnesení Nejvyššího soudu ze dne 29. 8. 2013 sp. zn. 29 Cdo 2488/2013 nebo usnesení Nejvyššího soudu ze dne 25. 9. 2013 sp. zn. 29 Cdo 2394/2013, které bylo uveřejněno pod č. 4 ve Sbírce soudních rozhodnutí a stanovisek, roč. 2014)], a jednak v něm byl uplatněn jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o. s. ř. (podstatou námitek dovolatelky je její nesouhlas se skutkovým závěrem odvolacího soudu, že dlužnice J. P. v době uzavření odporované darovací smlouvy nevlastnila kromě nemovitostí darovaných žalované další majetek, jehož hodnota by postačovala k uspokojení pohledávky žalobce vzhledem k její výši v době uzavření darovací smlouvy), a v dovolacím řízení nelze pro tyto nedostatky pokračovat.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 18. června 2014
+JUDr. Jiří Doležílek
+předseda senátu
