@@ -1,0 +1,20 @@
+29 Nd 195/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Filipa Cilečka a soudců JUDr. Petra Šuka a Mgr. Ing. Davida Bokra v právní věci navrhovatelky V. B., za účasti J. H., o určení otcovství k nezletilé A. B., zastoupené Městským úřadem Třebíč, se sídlem v Třebíči, Karlovo nám. 104/55, PSČ 674 01, jako opatrovníkem, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 28 C 465/2013, o přikázání věci z důvodu vhodnosti jinému soudu, takto:
+Věc vedená u Obvodního soudu pro Prahu 4 pod sp. zn. 28 C 465/2013 se podle § 12 odst. 2 občanského soudního řádu přikazuje k projednání a rozhodnutí Okresnímu soudu v Třebíči.
+O d ů v o d n ě n í :
+Návrhem ze dne 23. srpna 2013 se V. B. domáhá určení, že J. H. je otcem nezletilé A. B. K žalobě připojila žádost, aby byla ve věci vyslechnuta Okresním soudem v Třebíči, neboť pečuje o nezletilou, kterou kojí.
+Na to soud účastníky vyzval, aby se vyjádřili, zda souhlasí s přikázáním věci Okresnímu soudu v Třebíči, což odůvodnil výše uvedenou žádostí navrhovatelky a dále tím, že nezletilé musí být tamním soudem ustanoven opatrovník.
+J. H. se k návrhu soudu vyjádřil přípisem podaným u soudu dne 16. října 2013, v němž uvedl pouze: „Nesouhlasím s přikázáním věci Okresnímu soudu v Třebíči/Prachaticích z důvodu námitky podjatosti – osobních vazeb rodiny žalované na tamní soud.“
+Soud poté předložil věc Nejvyššímu soudu k rozhodnutí o přikázání věci jinému soudu z důvodu vhodnosti.
+Nejvyšší soud věc soudu bez věcného vyřízení vrátil s tím, že je potřeba ustanovit nezletilému dítěti jakožto účastníku řízení opatrovníka a vyzvat jej, aby se vyjádřil k tomu, kterému soudu má být věc přikázána, případně též k důvodu, pro který by měla být věc přikázána jinému soudu. Dále Nejvyšší soud soudu uložil, aby vedl J. H. k odstranění vad jeho podání ze dne 16. října 2013 tím, že jej vyzve, aby důvody svého nesouhlasu s přikázáním věci Okresnímu soudu v Třebíči (tvrzenou osobní vazbu rodiny navrhovatelky na tamní soud) konkretizoval tak, aby bylo možno posoudit její opodstatněnost.
+Usnesením Okresního soudu v Třebíči ze dne 26. února 2014, č. j. 18 Nc 1002/2014-3, byl Městský úřad Třebíč jmenován opatrovníkem nezletilé A B. pro řízení v předmětné věci; k výzvě soudu opatrovník s přikázáním věci Okresnímu soudu v Třebíči souhlasil.
+J. H. se k výzvě soudu, aby konkretizoval důvody svého nesouhlasu, nikterak nevyjádřil.
+Podle § 12 odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), může být věc přikázána z důvodu vhodnosti jinému soudu téhož stupně.
+Důvody vhodnosti podle tohoto ustanovení mohou být různé v závislosti na předmětu řízení, postavení účastníků i jiných okolnostech. Jde zejména o skutečnosti, z nichž lze dovodit, že jiným než příslušným soudem bude věc projednána rychleji a hospodárněji. K přikázání věci jinému než příslušnému soudu by však mělo docházet jen výjimečně ze závažných důvodů, neboť je uplatňováno jako výjimka z ústavně zaručené zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon (čl. 38 Listiny základních práv a svobod, publikované pod č. 2/1998 Sb., ve znění ústavního zákona č. 162/1998 Sb.). Důvody pro odnětí věci příslušnému soudu musí být natolik významné, aby dostatečně odůvodňovaly průlom do citovaného ústavního principu.
+Vzhledem ke skutečnosti, že navrhovatelka se trvale zdržuje v obvodu Okresního soudu v Třebíči (kde pečuje o nezletilou), že opatrovníkem nezletilé byl jmenován Městský úřad Třebíč, který v zastoupení zájmů nezletilé s přikázáním věci Okresnímu soudu v Třebíči souhlasí, a že J. H. na výzvu soudu ke konkretizaci důvodů svého nesouhlasu s přikázáním věci jinému soudu nikterak nereagoval (pročež nelze jím deklarovaný zcela nekonkrétní nesouhlas přezkoumat), je dán předpoklad, že řízení bude probíhat rychleji a hospodárněji u Okresního soudu v Třebíči.
+Nejvyšší soud proto návrhu na přikázání předmětné věci z důvodu vhodnosti Okresnímu soudu v Třebíči podle § 12 odst. 2 o. s. ř. vyhověl.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 18. června 2014
+JUDr. Filip C i l e č e k
+předseda senátu
