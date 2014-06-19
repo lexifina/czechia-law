@@ -1,0 +1,19 @@
+33 Cdo 1953/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Blanky Moudré a soudců JUDr. Václava Dudy a JUDr. Ivany Zlatohlávkové ve věci žalobkyně České televize se sídlem Praha 4, Na Hřebenech II 1132/4, identifikační číslo 00027383, zastoupené JUDr. Daliborem Kalcso, advokátem se sídlem Hradec Králové, Škroupova 719/7, proti žalovanému R. T., o zaplacení 1.725,- Kč s příslušenstvím, vedené u Okresního soudu v Chomutově pod sp. zn. 23 C 91/2014, o dovolání žalobkyně proti usnesení Krajského soudu v Ústí nad Labem ze dne 3. prosince 2013, č. j. 10 Co 163/2013-13, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í
+Okresní soud v Chomutově elektronickým platebním rozkazem ze dne 12. února 2013, č. j. EPR 19669/2013-7, uložil žalovanému povinnost zaplatit žalobkyni 1.725,- Kč s kapitalizovaným úrokem ve výši 128,91 Kč (výrok I.) a zaplatit jí náhradu nákladů řízení ve výši 5.663,50 Kč k rukám jejího právního zástupce (výrok II.).
+Krajský soud v Ústí nad Labem usnesením ze dne 3. prosince 2013, č. j. 10 Co 163/2013-13, rozhodnutí soudu prvního stupně v odvoláním napadeném nákladovém výroku změnil tak, že žalovanému uložil zaplatit žalobkyni na náhradě nákladů řízení 400,- Kč, a rozhodl o nákladech odvolacího řízení tak, že žádný z účastníků nemá právo na jejich náhradu.
+Žalobkyně napadla dovoláním výrok usnesení odvolacího soudu, jímž bylo rozhodnuto o náhradě nákladů řízení.
+Podle § 237 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013 - dále jen „o. s. ř.“ (srovnej čl. II bod 1. zákona č. 404/2012 Sb., čl. II. bod 2. zákona č. 293/2013 Sb.), který je namístě aplikovat, je dovolání přípustné též proti akcesorickým výrokům rozhodnutí odvolacího soudu, jímž se odvolací řízení končí, včetně výroků o nákladech řízení (srovnej usnesení Nejvyššího soudu ze dne 30. 5. 2013, sp. zn. 29 Cdo 1172/2013, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod č. 80/2013).
+I pro nákladové výroky rozhodnutí odvolacího soudu platí omezení přípustnosti dovolání podle § 238 odst. 1 písm. d/ o. s. ř., jež určuje, že dovolání podle § 237 není přípustné (také) proti rozsudkům a usnesením, v nichž dovoláním napadeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50.000,- Kč, ledaže jde o vztahy ze spotřebitelských smluv, o pracovněprávní vztahy nebo o věci uvedené v § 120 odst. 2; k příslušenství pohledávky se přitom nepřihlíží.
+Peněžité plnění přiznané výrokem o nákladech řízení pak nelze označit pro účely posouzení přípustnosti dovolání za plnění ze vztahu ze spotřebitelské smlouvy, z pracovněprávního vztahu nebo z věci uvedené v § 120 odst. 2 o. s. ř., ani když je výrok o nákladech řízení akcesorickým výrokem v rozhodnutí, jež se (co do „merita“) takového „vztahu“ nebo takové „věci“ týká (ve výroku o nákladech řízení se zvláštní povaha těchto vztahů a věcí dovolující prolomení stanoveného limitu nijak neprojevuje); srovnej k tomu již zmíněné usnesení Nejvyššího soudu sp. zn. 29 Cdo 1172/2013.
+Protože v posuzovaném případě žalobkyní požadovaná částka nákladů řízení, kterou vynaložila za právní zastupování před soudem prvního stupně a jejíž náhrada jí nebyla přiznána, nepřevyšuje limit 50.000,- Kč, nemůže být dovolání podle § 237 o. s. ř. přípustné z důvodu uvedeného v § 238 odst. 1 písm. d/ o. s. ř. Přípustnost dovolání přitom není způsobilé založit nesprávné poučení odvolacího soudu o tom, že dovolání je přípustné (srovnej usnesení Nejvyššího soudu ze dne 27. 6. 2002, sp. zn. 29 Odo 425/2002, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod č. 51/2003).
+Nepřípustné dovolání dovolací soud odmítl podle §243c odst. 1 věty první o. s. ř.
+Výrok o nákladech dovolacího řízení nemusí být odůvodněn (§ 243f odst. 3 o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 19. června 2014
+JUDr. Blanka Moudrá
+předsedkyně senátu
