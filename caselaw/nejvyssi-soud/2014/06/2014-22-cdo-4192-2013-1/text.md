@@ -1,0 +1,19 @@
+22 Cdo 4192/2013
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy JUDr. Jiřího Spáčila, CSc., a soudců Mgr. Michala Králíka, Ph.D., a Mgr. Davida Havlíka ve věci žalobkyně Mgr. J. R., zastoupené Mgr. Lukášem Pechem, advokátem se sídlem v Praze 1, Jungmannova 742/22, proti žalované Ing. A. R., zastoupené Mgr. Josefem Spolkem, advokátem se sídlem v Praze 6, Na dlouhém lánu 30/12, o určení majetku ve společném jmění manželů, vedené u Obvodního soudu pro Prahu 5 pod sp. zn. 13 C 101/2009, o dovolání žalované proti rozsudku Městského soudu v Praze ze dne 13. června 2013, č. j. 36 Co 20/2013-171, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í (§ 243f odst. 3 o. s. ř.):
+Obvodní soud pro Prahu 5 („soud prvního stupně“) rozsudkem ze dne 19. prosince 2012, č. j. 13 C 101/2009-154, výrokem pod bodem I. určil, že ke dni úmrtí Ing. Č. R., tj. ke dni 1. 1. 2007, měla žalovaná spolu s Ing. Č. R., ve společném jmění manželů finanční hotovost 937.770,66 Kč. Výrokem pod bodem II. zastavil řízení v části, ve které se žalobkyně domáhala určení, že k uvedenému datu měla spolu s Ing. Č. R. ve společném jmění manželů hotovost ve výši 1.145.819,34 Kč. Dále soud rozhodl o náhradě nákladů řízení.
+Městský soud v Praze jako soud odvolací k odvolání žalované rozsudkem ze dne 13. června 2013, č. j. 36 Co 20/2013-171, potvrdil rozsudek soudu prvního stupně v napadeném výroku ad I. ve znění, že se určuje, že ke dni úmrtí Ing. Č. R., tj. ke dni 1. 1. 2007, měla žalovaná spolu s Ing. Č. R., ve společném jmění manželů finanční částku odpovídající výběrům žalované z účtu u Komerční banky, a. s., a to z účtu 511703740667 dne 19. 12. 2006 ve výši 656.304,36 Kč a z účtu 511704020637 dne 19. 12. 2006 ve výši 281.466,30 Kč. Ve výrocích o nákladech řízení odvolací soud rozsudek soudu prvního stupně potvrdil a rozhodl o náhradě nákladů řízení před odvolacím soudem.
+Proti rozsudku odvolacího soudu podává žalovaná dovolání, jehož přípustnost opírá o § 237 občanského soudního řádu („o. s. ř.“) a uplatňuje dovolací důvod uvedený v § 241a odst. 1 o. s. ř.. Popírá existenci naléhavého právního zájmu žalobkyně na požadovaném určení s tím, že sporný majetek nebyl v žalobě dostatečně určen.
+Obsah rozsudků soudů obou stupňů a obsah dovolání jsou účastníkům známy, a proto na ně dovolací soud pro stručnost odkazuje.
+Nejvyšší soud přihlédl k čl. II bodu 2. zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, a vyšel tak ze znění tohoto procesního předpisu účinného do 31. 12. 2013.
+Dovolání není přípustné.
+Dovolací soud nepochybuje o tom, že účastník dědického řízení má naléhavý právní zájem na podání žaloby na určení, že zůstavitel měl ke dni svého úmrtí spolu s pozůstalou manželkou určitý majetek, v tomto případě určitou peněžní částku (k tomu viz např. rozsudek Nejvyššího soudu ze dne 7. října 2011, sp. zn. 22 Cdo 3726/2009, usnesení Nejvyššího soudu ze dne 24. listopadu 2010, sp. zn. 22 Cdo 2625/2009). Tento naléhavý právní zájem nelze zaměňovat s povinností tvrzení a s důkazním břemenem ohledně existence tohoto majetku; pokud se v průběhu řízení nepodaří ani za splnění vysvětlovací povinnosti strany nezatížené důkazním břemenem (k tomu viz např. rozsudek Nejvyššího soudu ze dne 29. ledna 2014, sp. zn. 22 Cdo 2851/2013) existence takového majetku prokázat, bude žaloba zamítnuta nikoliv pro nedostatek naléhavého právního zájmu na určení, ale ze skutkových důvodů.
+Vzhledem k tomu, že dovolání není přípustné podle ustanovení § 237 o. s. ř., neboť odvolací soud se neodchýlil od ustálené rozhodovací praxe, Nejvyšší soud dovolání podle § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. června 2014
+JUDr. Jiří Spáčil, CSc.
+předseda senátu
