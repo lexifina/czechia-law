@@ -1,0 +1,23 @@
+23 Cdo 2174/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Dese a soudců JUDr. Kateřiny Hornochové a JUDr. Ing. Pavla Horáka, Ph.D., ve věci žalobkyně Euroclaim Praha s. r. o., se sídlem v Praze 10 – Vinohrady, Korunní 810/104A, PSČ 101 00, IČO 27380050, zastoupené Mgr. Ivanem Courtonem, advokátem, se sídlem v Praze 10, Minská 546/15, PSČ 101 00, proti žalované MANA - obchody s.r.o., se sídlem v Praze 3, Jičínská 29, PSČ 130 00, IČO 62416529, zastoupené JUDr. Evou Pelikánovou, advokátkou, se sídlem v Praze 2, Slovenská 955/7, PSČ 120 00, o zaplacení částky 150 066 Kč s příslušenstvím, vedené u Městského soudu v Praze pod sp. zn. 52 Cm 111/2011, o dovolání žalobkyně proti rozsudku Vrchního soudu v Praze ze dne 16. ledna 2014, č. j. 11 Cmo 67/2013-348, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Dovolání žalobkyně proti rozsudku Vrchního soudu v Praze ze dne 16. ledna 2014, č. j. 11 Cmo 67/2013-348, není přípustné podle ustanovení § 237 občanského soudního řádu (dále jen „o. s. ř.“), neboť rozhodnutí odvolacího soudu nezávisí na vyřešení otázky hmotného nebo procesního práva ve smyslu § 237 o. s. ř.
+Žalobkyně dovozuje přípustnost dovolání z nezbytnosti vyřešení otázky, „zda poté, co došlo k vymožení žalované částky v rámci exekučního řízení, přičemž následně byl původní exekuční titul na podkladě rozhodnutí dovolacího soudu zrušen, aniž by žalobce vzal žalobu zpět, lze v nalézacím řízení projednat, zda žalobcův nárok je po právu“. Podle žalobkyně nebyla tato otázka v rozhodování dovolacího soudu dosud vyřešena.
+Tato otázka však v rozhodování dovolacího soudu již vyřešena byla.
+Nejvyšší soud České republiky (dále jen „Nejvyšší soud“) v usnesení ze dne 16. května 2013, sp. zn. 22 Cdo 932/2013, učinil závěr, že pokud se v řízení, v němž se rozhoduje o uložení povinnosti k požadovanému plnění, zjistí, že toto plnění bylo již poskytnuto, odpadá samotná podstata sporu a rozhodování soudu nemůže vést k předpokládanému účelu; za této situace musí soud žalobu (pokud ji žalobce nevezme zpět) zamítnout bez ohledu na to, nakolik je nebo alespoň byl uplatněný nárok odůvodněn.
+K obdobným závěrům dospěl Nejvyšší soud například také ve svém usnesení ze dne 16. září 1999, sp. zn. 25 Cdo 1792/99, nebo v usnesení ze dne 1. dubna 2014, sp. zn. 23 Cdo 342/2014.
+V rozsudku velkého senátu občanskoprávního a obchodního kolegia ze dne 23. dubna 2014, sp. zn. 31 Cdo 3309/2011, Nejvyšší soud dovodil, že pokud žalovaný – ať již dobrovolně nebo ve vykonávacím řízení – splní na základě pravomocného rozsudku uloženou povinnost, pak v případě, že tato povinnost podle hmotného práva skutečně existovala, zaniká splněním. Jestliže tato povinnost neexistovala, získává žalobce na úkor žalovaného bezdůvodné obohacení. To platí bez ohledu na to, jaký motiv (pohnutka) vede žalovaného ke splnění uložené povinnosti.
+Jestliže tedy odvolací soud uzavřel, že se žalobkyně nemůže domáhat toho, aby žalovaná byla podruhé odsouzena zaplatit předmětnou částku žalobkyni, byť byl původní rozsudek, na jehož základě plnila, zrušen, s odůvodněním, že otázka, zda přijetím předmětného plnění vzniklo žalobkyni bezdůvodné obohacení, může být řešena pouze v jiném samostatném řízení, neboť nemůže představovat ani otázku prejudicielní, nezbytnou pro přijetí rozhodnutí v nyní posuzované věci, postupoval v souladu s touto judikaturou Nejvyššího soudu.
+Z výše uvedeného vyplývá, že nebyly naplněny podmínky přípustnosti dovolání stanovené v § 237 o. s. ř.
+Žalobkyně podala dovolání výslovně proti všem výrokům rozsudku odvolacího soudu, tedy i proti výroku rozsudku odvolacího soudu pod bodem II o náhradě nákladů řízení.
+Podle ustanovení § 241a odst. 2 o. s. ř. musí být v dovolání mj. uvedeno, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání podle § 237 až 238a o. s. ř. Požadavek, aby dovolatel v dovolání uvedl, v čem spatřuje splnění předpokladů přípustnosti dovolání, je podle § 241a odst. 2 o. s. ř. obligatorní náležitostí dovolání.
+Tomuto požadavku však dovolatelka v rozsahu, ve kterém dovolání směřovalo proti výroku rozsudku odvolacího soudu pod bodem II, nevyhověla.
+Ze shora uvedených důvodů Nejvyšší soud dovolání žalobkyně proti výroku odvolacího soudu pod bodem I i ve výroku pod bodem II podle § 243c odst. 1 věty první, odst. 3 a § 218 písm. b) o. s. ř. odmítl.
+V souladu s § 243f odst. 2 věta druhá o. s. ř. rozhodnutí o náhradě nákladů dovolacího řízení neobsahuje odůvodnění.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 25. června 2014
+JUDr. Zdeněk Des
+předseda senátu
