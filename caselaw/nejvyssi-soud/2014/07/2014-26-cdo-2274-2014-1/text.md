@@ -1,0 +1,17 @@
+26 Cdo 2274/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu JUDr. Pavlínou Brzobohatou v exekuční věci oprávněné Tomiha s. r. o., se sídlem v Ostravě - Mariánských Horách, 28. října 438/219, IČO 29446767, proti povinné I. Ž., pro 12.121,- Kč s příslušenstvím, vedené u Okresního soudu ve Frýdku – Místku pod sp. zn. 29 Nc 6833/2009, o dovolání povinné proti usnesení Krajského soudu v Ostravě ze dne 23. srpna 2013, č. j. 10 Co 527/2013-26, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í :
+Krajský soud v Ostravě (soud odvolací) usnesením ze dne 23. 8. 2013, č. j. 10 Co 527/2013-26, potvrdil usnesení soudního exekutora JUDr. Petra Kociána ze dne 1. 6. 2013, č. j. 137 EX 12852/09-17, kterým rozhodl podle § 107 odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013 (čl. II bod 2. zákona č. 293/2013 Sb.), dále jen „o. s. ř.“ (ve spojení s § 52 odst. 1 zákona č. 120/2001 Sb., exekuční řád), že v řízení bude namísto povinného R. Ž., jenž zemřel dne 1. 7. 2009, pokračováno s I. Ž.
+Proti usnesení odvolacího soudu podala I. Ž. (povinná), nezastoupena advokátem, včasné dovolání.
+Nejvyšší soud jako soud dovolací shledal, že dovolání bylo podáno včas, osobou k tomu oprávněnou – účastnicí řízení (§ 240 odst. 1 o. s. ř.), nejsou však dány podmínky pro jeho věcné projednání.
+Podle § 241 odst. 1 o. s. ř. není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními právními předpisy. Ustanovení § 241 odst. 1 o. s. ř. neplatí mimo jiné tehdy, je-li dovolatelem fyzická osoba, která má právnické vzdělání (§ 241 odst. 2 písm. a/ o. s. ř.). Dovolání musí být sepsáno, s výjimkou případu uvedeného v § 241 odst. 2 písm. a) o. s. ř., advokátem nebo notářem.
+Povinné advokátní zastoupení je zvláštní podmínkou dovolacího řízení týkající se dovolatele (v daném případě fyzické osoby, která nemá podle obsahu spisu právnické vzdělání), jejíž nedostatek lze odstranit, avšak bez jejíhož splnění není možno o dovolání věcně rozhodnout. Podle § 104 odst. 2 o. s. ř. jde-li o nedostatek podmínky řízení, který lze odstranit, učiní k tomu soud vhodná opatření. Nezdaří-li se nedostatek podmínky řízení odstranit, řízení zastaví.
+Protože povinná nebyla zastoupena advokátem a z obsahu spisu nevyplývalo, že by sama měla právnické vzdělání, byla usnesením soudního exekutora ze dne 18. 2. 2014, č. j. 137 EX 12852/09-38, vyzvána, aby si ve lhůtě patnácti dnů od doručení usnesení zvolila pro podání dovolání v této věci zástupcem advokáta. Dostalo se jí rovněž poučení, že dovolací řízení bude zastaveno, nebude-li výzvě řádně a včas vyhověno a že si může, jsou-li u ní předpoklady pro osvobození od soudních poplatků, požádat, aby jí byl zástupce ustanoven. Výzva jí byla doručena dne 21. 2. 2014, zástupce si však nezvolila, a ani nepožádala o jeho ustanovení.
+Zákonem stanovená podmínka dovolacího řízení podle § 241 odst. 1 věty první o. s. ř. ve spojení s § 241 odst. 4 o. s. ř. tak nebyla přes opatření provedené soudem prvního stupně do současné doby splněna. Nejvyšší soud proto dovolací řízení podle § 243b a § 104 odst. 2 o. s. ř. zastavil.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. exekučního řádu).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 2. července 2014
+JUDr. Pavlína Brzobohatá
+předsedkyně senátu
