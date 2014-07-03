@@ -1,0 +1,14 @@
+26 Cdo 2262/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Pavlíny Brzobohaté a soudců JUDr. Miroslava Feráka a JUDr. Jitky Dýškové v exekuční věci oprávněné JUDr. B. P., zastoupené JUDr. Milošem Červinkou, advokátem se sídlem v Praze 1, Haštalská 27, proti povinné Mgr. D. K., pro 7.408,- Kč, vedené u Okresního soudu v Karviné – pobočky v Havířově pod sp. zn. 125 Nc 1684/2008, o dovolání povinné proti usnesení Krajského soudu v Ostravě ze dne 29. ledna 2013, č. j. 10 Co 1060/2012-115, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Povinná napadla včasným dovoláním usnesení Krajského soudu v Ostravě ze dne 29. 1. 2013, č. j. 10 Co 1060/2012-115, kterým potvrdil usnesení Okresního soudu v Karviné – pobočky v Havířově ze dne 9. 10. 2012, č. j. 125 Nc 1684/2008-62, jímž nepřiznal povinné osvobození od soudních poplatků a neustanovil jí zástupce.
+Dovolatelka, ač sama nemá právnické vzdělání, nemusí být v dovolacím řízení zastoupena advokátem (srovnej usnesení Nejvyššího soudu ze dne 28. 4. 1997, sp. zn. 2 Cdon 609/97, uveřejněné v časopise Soudní judikatura číslo 10, ročníku 1997, pod číslem 97, usnesení téhož soudu ze dne 28. 5. 2014, sp. zn. 26 Cdo 1311/2014), a z takového dovolání se ani neplatí soudní poplatek (srovnej usnesení Nejvyššího soudu ze dne 16. 4. 2014, sp. zn. 29 Cdo 1031/2014).
+Z obsahu dovolání (§ 41 odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013 - viz čl. II bod 2. zákona č. 293/2013 Sb. - dále jen „o. s. ř.”) je zřejmé, že dovolatelka nezpochybňuje závěr odvolacího soudu, že jí nelze přiznat osvobození od soudních poplatků, neboť jde o zřejmě bezúspěšné uplatňování (bránění) práva. Poukazuje-li dovolatelka v dovolání na své poměry, které podle ní osvobození od soudních poplatků odůvodňují, přehlíží, že na této otázce napadené rozhodnutí nespočívá. Odvolací soud (shodně se soudem prvního stupně) jí totiž nepřiznal osvobození od soudních poplatků nikoliv proto, že by to neodůvodňovaly její poměry, ale jen proto, že dospěl k závěru, že jde o o zřejmě bezúspěšné uplatňování (bránění) práva.
+Dovolatelka tak žádnou otázku procesního práva, na jejímž řešení napadené rozhodnutí závisí a jež dosud nebyla Nejvyšším soudem řešena (nebo na kterou se vztahují další kriteria přípustnosti dovolání vymezená ustanovením § 237 o. s. ř.), k posouzení neotevírá, a proto ho Nejvyšší soud podle § 243c odst. 1 o. s. ř. (§ 243f odst. 3 o. s. ř.) odmítl.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 3. července 2014
+JUDr. Pavlína Brzobohatá
+předsedkyně senátu
