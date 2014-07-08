@@ -1,0 +1,13 @@
+21 Cdo 1186/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Novotného a soudců JUDr. Ljubomíra Drápala a JUDr. Mojmíra Putny v právní věci žalobce J. S., zastoupeného JUDr. Davidem Mášou, advokátem se sídlem v Praze 2, Na Zderaze č. 1275/15, proti žalované K-PROTOS, a.s. se sídlem v Kralupech nad Vltavou, O. Wichterleho č. 810, IČO 256 17 214, zastoupené JUDr. Wandou Krygielovou, advokátkou se sídlem v Praze 6, V. P. Čkalova č. 478/18, o 2.088.000,- Kč, za účasti Kooperativy pojišťovny, a.s., Vienna Insurance Group, se sídlem v Praze 8, Pobřežní č. 665/21, IČO 471 16 617, jako vedlejšího účastníka na straně žalované, vedené u Okresního soudu v Mělníku pod sp. zn. 5 C 268/2011, o dovolání žalobce proti rozsudku Krajského soudu v Praze ze dne 15. října 2013 č.j. 23 Co 353/2013-186, takto:
+I. Dovolání žalobce se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Nejvyšší soud České republiky dovolání žalobce proti rozsudku Krajského soudu v Praze ze dne 12.11.2013 č.j. 23 Co 415/2013-189 podle ustanovení § 243c odst. 1 věty první o.s.ř. odmítl, neboť v něm byl uplatněn jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o.s.ř. [dovolání ve věci samé není přípustné, neboť nesměřuje proti právnímu posouzení věci].
+Namítá-li žalobce v dovolání, že bodové ohodnocení bolestného provedené znalcem neodpovídá vytrpěným a přetrvávajícím bolestem, pak žalobce zpochybňuje hodnocení důkazu soudem a z toho vyplývající skutková zjištění soudu, a nikoliv nesprávné právní posouzení věci], a v dovolacím řízení nelze pro tento nedostatek pokračovat. Namítá-li dále, že odvolací soud při úvaze o možnosti zvýšení náhrady za ztížení společenského uplatnění nad přiznaný dvojnásobek „nebral v potaz celou šíři žalobcova omezení“, a zdůrazňuje-li, že odvolací soud nezahrnul do rámce rozhodných úvah (na konkrétní případ blíže nespecifikovanou) „potencionalitu“, pak opomíjí, že ta se podle ustálené judikatury neuplatní paušálně, nýbrž jen u těch poškozených, jejichž schopnosti s ohledem na nízký věk, v němž poškození zdraví utrpěli, dosud neměly možnost se rozvinout (srov. též dovolatelem uváděný rozsudek Nejvyššího soudu ze dne 28.3.2013 sp. zn. 21 Cdo 4138/2011). Odvolacímu soudu tedy nelze vytýkat, že se odchýlil od ustálené rozhodovací praxe, a dovolání není ani v této nastolené otázce podle ustanovení § 237 o.s.ř. přípustné.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 8. července 2014
+JUDr. Zdeněk Novotný
+předseda senátu
