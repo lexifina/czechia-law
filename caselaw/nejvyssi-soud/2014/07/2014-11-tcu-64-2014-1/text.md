@@ -1,0 +1,15 @@
+11 Tcu 64/2014-18
+U S N E S E N Í
+Nejvyšší soud projednal dne 16. července 2014 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na zápis odsouzení cizozemským soudem do evidence Rejstříku trestů a rozhodl t a k t o :
+Návrh Ministerstva spravedlnosti České republiky podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, ohledně odsouzení občana České republiky J. N., rozsudkem Zemského soudu v Klagenfurtu, Rakouská republika, ze dne 26. 3. 2008, sp. zn. 18 Hv 30/08g, se zamítá.
+O d ů v o d n ě n í :
+Výše uvedeným rozsudkem Zemského soudu v Klagenfurtu, Rakouská republika, ze dne 26. 3. 2008, sp. zn. 18 Hv 30/08g, který nabyl právní moci dne 1. 4. 2008, byl J. N. uznán vinným trestným činem závažné řemeslným způsobem a vloupáním spáchané krádeže podle rakouského trestního zákoníku, a odsouzen k trestu odnětí svobody v trvání 2 (dvou) let.
+Ministerstvo spravedlnosti České republiky podalo dne 9. 7. 2014 ve shora uvedené věci Nejvyššímu soudu návrh na přijetí rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů (dále jen „zákon“).
+Nejvyšší soud věc přezkoumal a dospěl k těmto závěrům:
+Především je třeba uvést, že podle § 4a odst. 3 zákona Nejvyšší soud na návrh Ministerstva spravedlnosti ČR rozhodne, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Nejvyšší soud zjistil, že ve vztahu k osobě odsouzeného J. N., roz. K., již dříve k návrhu Ministerstva spravedlnosti ČR o zaznamenání údajů o výše uvedeném odsouzení rozsudkem Zemského soudu v Klagenfurtu, Rakousko, ze dne 26. 3. 2008, sp. zn. 18 Hv 30/08g, který nabyl právní moci dne 1. 4. 2008, do evidence Rejstříku trestů, rozhodl podle tehdy platného ustanovení § 4 odst. 2 zák. č. 269/1994 Sb., a to usnesením ze dne 24. listopadu 2008, sp. zn. 11 Tcu 55/2008.
+Jelikož tak o zaznamenání údajů o cizozemském odsouzení jmenovaného v dané věci do evidence Rejstříku trestů již bylo rozhodnuto tak, že se toto uznává na území České republiky, jak vyplývá i z opisu z evidence Rejstříku trestů ze dne 14. 7. 2014, kde je již toto odsouzení evidováno, nelze návrhu Ministerstva spravedlnosti ČR na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů vyhovět, neboť toto má stejné právní důsledky jako již výše citované rozhodnutí Nejvyššího soudu učiněné podle tehdy platného ustanovení § 4 odst. 2 zák. č. 269/1994 Sb. Protože by tímto došlo k duplicitě záznamů ohledně stejného cizozemského odsouzení v Rejstříku trestů, z uvedených důvodů Nejvyšší soud návrhu Ministerstva spravedlnosti nevyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 16. července 2014
+Předseda senátu:
+JUDr. Antonín Draštík
