@@ -1,0 +1,17 @@
+11 Tcu 70/2014-22
+U S N E S E N Í
+Nejvyšší soud projednal dne 16. července 2014 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl t a k t o :
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení občana České republiky, D. H., rozsudkem Obvodového soudu Tribunal Correctionnel v Aix-en-Provence, Francouzská republika, ze dne 8. 8. 2012, sp. zn. 1230302405, hledí jako na odsouzení soudem České republiky.
+O d ů v o d n ě n í :
+Rozsudkem Obvodového soudu Tribunal Correctionnel v Aix-en-Provence, Francouzská republika, ze dne 8. 8. 2012, sp. zn. 1230302405, který nabyl právní moci dne 29. 8. 2012, byl D. H. uznán vinným trestnými činy nedovoleného převozu, držení a nabytí omamných prostředků a nedeklarovaného dovozu zakázaných věcí podle francouzského trestního zákona a odsouzen k nepodmíněnému trestu odnětí svobody v trvání 18 (osmnácti) měsíců a k peněžitému trestu ve výši 74.000,- Euro.
+Podle skutkových zjištění cizozemského soudu se D. H. dopustil trestné činnosti v podstatě tím, že dne 27. 6. 2012 v L. d. P., F., nabyl, dovezl, přechovával a převážel bez správního povolení 5,7 kg amfetaminu, což je látka nebo rostlina zařazená mezi omamné látky.
+Ministerstvo spravedlnosti České republiky podalo ve shora uvedené věci Nejvyššímu soudu návrh na přijetí rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů (dále jen „zákon“).
+Nejvyšší soud věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro rozhodnutí podle § 4a odst. 3 zákona.
+Především je třeba uvést, že podle § 4a odst. 3 zákona rozhodne Nejvyšší soud na návrh Ministerstva spravedlnosti České republiky, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Z podaného návrhu a z obsahu připojeného spisu vyplývá, že odsouzený D. H. je občanem České republiky, byl odsouzen cizozemským soudem a odsouzení se týká skutku, který vykazuje znaky trestného činu i podle příslušných právních předpisů České republiky (trestného činu nedovolené výroby a jiného nakládání s omamnými a psychotropními látkami a s jedy podle § 283 tr. zákoníku). Tím jsou splněny formální podmínky ustanovení § 4a odst. 3 zákona.
+V posuzované věci jsou ovšem dány i podmínky materiální povahy. Odsouzený D. H. se pro svůj finanční prospěch podílel na obchodování s omamnými látkami (amfetaminem), když tyto bez povolení nabyl, držel a neoprávněně provážel. Dopustil se trestné činnosti, k jejímuž stíhání je Česká republika zavázána i mezinárodními úmluvami. Společenská škodlivost jeho trestné činnosti je zvyšována množstvím a druhem nalezené drogy. Pokud jde o druh uloženého trestu, ze spisového materiálu vyplynulo, že odsouzenému byl již uložen nezanedbatelný trest odnětí svobody a citelný peněžitý trest. Lze tedy dovodit, že jsou splněny všechny podmínky pro to, aby se na výše uvedené odsouzení D. H. hledělo jako na odsouzení soudem České republiky.
+Z uvedených důvodů proto Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 16. července 2014
+Předseda senátu:
+JUDr. Antonín Draštík
