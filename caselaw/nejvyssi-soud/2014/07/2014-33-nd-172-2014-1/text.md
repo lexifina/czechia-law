@@ -1,0 +1,14 @@
+33 Nd 172/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudců JUDr. Ivany Zlatohlávkové a JUDr. Václava Dudy v exekuční věci oprávněného města Břeclav zastoupeného Mgr. Filipem Lederem, advokátem se sídlem v Praze - Novém Městě, Opletalova 1284/37, proti povinnému D. K., pro 1.000,- Kč s příslušenstvím, vedené u Okresního soudu v Břeclavi pod sp. zn. 55 EXE 659/2011, o návrhu na určení místní příslušnosti soudu, takto:
+Exekuční věc vedenou u Okresního soudu v Břeclavi pod sp. zn. 55 EXE 659/2011 projedná a rozhodne Okresní soud v Břeclavi.
+O d ů v o d n ě n í :
+Soudní exekutor Mgr. Ing. Jiří Prokeš požádal Okresní soud v Břeclavi o pověření k provedení exekuce na majetek povinného podle pokutového bloku vydaného Městskou policií Břeclav dne 1. 12. 2008, č.j. OA/2007 A 0700124.
+Okresní soud v Břeclavi usnesením ze dne 23. 1. 2012, č.j. 55 EXE 659/2011-11, vyslovil – s odůvodněním, že povinný má bydliště na Slovensku, v centrální evidenci obyvatel České republiky není zapsán a ze systému ISAS okresního soudu bylo pouze zjištěno, že písemnosti zasílané mu v jiném exekučním řízení vedeném u téhož soudu na slovenskou adresu povinný převzal – svoji místní nepříslušnost a věc předložil Nejvyššímu soudu, aby určil, který soud věc projedná a rozhodne (§ 11 odst. 3, § 105 odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů, dále jen „o.s.ř.“).
+Místně příslušným exekučním soudem je soud, v jehož obvodu má bydliště povinný, je-li fyzickou osobou, a nemá-li bydliště, soud, v jehož obvodu se zdržuje. Nemá-li povinný, který je fyzickou osobou, bydliště v České republice, ani se v ní nezdržuje, je místně příslušným exekučním soudem soud, v jehož obvodu má povinný majetek; má-li majetek v obvodu více soudů, je příslušným soud, kterému byla jako prvnímu doručena žádost exekutora o udělení pověření (srov. § 45 odst. 2 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti a o změně dalších zákonů /exekuční řád/, ve znění účinném do 31. 12. 2012, srov. čl. IV bod 1. zákona č. 396/2012 Sb., dále jen „zákon č. 120/2001 Sb.“).
+Podle ustanovení § 11 odst. 3 o.s.ř., které se použije i pro exekuční řízení (§ 52 odst. 1 zákona č. 120/2001 Sb.), jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Protože jsou splněny předpoklady stanovené v § 11 odst. 3 o.s.ř., Nejvyšší soud – přihlížeje k zásadě hospodárnosti – určil, že věc projedná a rozhodne Okresní soud v Břeclavi, u něhož bylo řízení dosud vedeno a v jehož obvodu má sídlo oprávněné město.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 21. července 2014
+JUDr. Pavel Krbek
+předseda senátu
