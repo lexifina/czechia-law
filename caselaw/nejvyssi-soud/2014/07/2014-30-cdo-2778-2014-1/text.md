@@ -1,0 +1,18 @@
+30 Cdo 2778/2014
+U S N E S E N Í
+Nejvyšší soud rozhodl předsedou senátu JUDr. Pavlem Pavlíkem v právní věci žalobkyně A. N. – J., o nejasné podání, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 32 Nc 1272/2013, o dovolání žalobkyně proti usnesení Městského soudu v Praze ze dne 19. března 2013 (správně 2014), čj. 30 Co 80/2014-72, takto:
+I. Dovolací řízení se zastavuje.
+II. Žalobkyně nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění
+(§ 243f odst. 3 o.s.ř.):
+Městský soud v Praze usnesením ze dne 19. března 2013 (správně 2014), čj. 30 Co 80/2014-72, potvrdil usnesení Obvodního soudu pro Prahu 2 ze dne 20. května 2013, č.j. 32 Nc 1272/2013-16, kterým soud odmítl s odkazem na § 43 odst. 2 občanského soudního řádu (dále jen „o.s.ř.) podání žalobkyně ze dne 12. 4. 2013, doplněné podáním žalobkyně ze dne 13. 5. 2013, kterými se domáhá náhrady škody ve výši 100,000.000,- Kč, dále „vydání spravedlivého rozhodnutí (kde bude uvedena celá pravda týkající se jí a těch jejich případů)“ a o přiznání do osobního vlastnictví domu, jako byl C. č.l, okres Č. K. a rozhodl o náhradě nákladů řízení. Odvolací soud též rozhodl o náhradě nákladů odvolacího řízení.
+Proti rozhodnutí odvolacího soudu podala žalobkyně dovolání, doplněné podáním doručeným soudu 23. června 2014, aniž by byla zastoupena advokátem.
+Soud prvního stupně vyzval žalobkyni usnesením ze dne 3. června 2014, č.j. 32 Nc 1272/2013-90, aby si pro podání dovolání zvolila zástupcem advokáta a aby jeho prostřednictvím podala řádné dovolání s poučením o tom, že nebude-li ve stanovené lhůtě výzvě vyhověno, bude dovolací řízení zastaveno. Usnesení bylo dovolatelce doručeno dne 5. června 2014. Na toto usnesení reagovala žalobkyně podáním, ve kterém mimo jiné uvedla, že nechce, aby ji zastupovali advokáti, kteří „nám jen škodí“. Výše uvedený nedostatek povinného zastoupení tak nebyl do současné doby odstraněn.
+Nejvyšší soud jako soud dovolací (§ 10a o.s.ř.) přihlédl k čl. II bodu 7. zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, a dále čl. II bodu 2. zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, a vyšel tak ze znění tohoto procesního předpisu účinného od. 1. ledna 2014.
+Podle § 241 odst. 1 věty první o.s.ř., není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Odstavec první citovaného ustanovení neplatí, je-li dovolatel fyzická osoba, která má právnické vzdělání [§ 241 odst. 2 písm. a) o.s.ř.]. Podle odstavce 4 téhož ustanovení dovolání fyzické osoby musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem nebo notářem. Povinné zastoupení je tak zvláštní podmínkou dovolacího řízení týkající se dovolatele, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění není možno vydat rozhodnutí, jímž se řízení končí. Podle § 104 odst. 2 o.s.ř., jde-li o nedostatek podmínky řízení, který lze odstranit, učiní k tomu soud vhodná opatření. Nezdaří-li se nedostatek podmínky řízení odstranit, řízení zastaví.
+Z uvedeného plyne, že přes opatření provedená soudem prvního stupně dovolatelka nesplnila zákonem stanovenou podmínku dovolacího řízení ve smyslu § 241 odst. 1 věty první a odst. 4 o.s.ř. Dovolací soud proto řízení o dovolání zastavil (§ 241b odst. 2 část věty před středníkem a § 104 odst. 2 věta třetí o.s.ř.).
+U výroku o náhradě nákladů dovolacího řízení se odkazuje na ustanovení § 243f odst. 3 věta druhá o.s.ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 23. července 2014
+JUDr. Pavel P a v l í k
+předseda senátu
