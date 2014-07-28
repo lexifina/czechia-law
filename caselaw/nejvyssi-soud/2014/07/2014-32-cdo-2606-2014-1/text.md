@@ -1,0 +1,16 @@
+32 Cdo 2606/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Příhody a soudců JUDr. Hany Gajdziokové a JUDr. Miroslava Galluse ve věci žalobkyně České spořitelny, a. s., se sídlem v Praze 4, Olbrachtova 1929/62, PSČ 140 00, identifikační číslo osoby 45244782, zastoupené JUDr. Romanem Majerem, advokátem se sídlem v Praze 4 – Michle, Vyskočilova 1326/5, PSČ 140 00, proti žalovaným 1) L. Z., a 2) A. K., o zaplacení částky 175.875,77,- Kč s příslušenstvím, vedené u Okresního soudu v Hodoníně pod sp. zn. 406 EC 77/2012, o dovolání žalovaných proti usnesení Krajského soudu v Brně ze dne 12. března 2014, č. j. 27 Co 171/2013-117, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Brně jako soud odvolací usnesením označeným v záhlaví potvrdil rozsudek Okresního soudu v Hodoníně ze dne 12. prosince 2012, č. j. 406 EC 77/2012-100, ve výroku pod bodem I, kterým bylo rozhodnuto o lhůtě k plnění, změnil jej ve výroku pod bodem II o nákladech řízení a ve výroku pod bodem III rozhodl o nákladech odvolacího řízení.
+Proti tomuto usnesení podali žalovaní dovolání. Protože dovolatelé nedoložili, že mají právnické vzdělání, a při podání tohoto opravného prostředku nebyli zastoupeni advokátem, jímž by bylo dovolání sepsáno (§ 241 o. s. ř.), soud prvního stupně je usnesením ze dne 2. května 2014, č. j. 406 EC 77/2012-122, doručeným dne 23. května 2014 vyzval k odstranění nedostatku povinného zastoupení, tj. aby si v této věci zvolili zástupcem advokáta a jeho prostřednictvím podali řádné dovolání. Současně dovolatele poučil o následcích nevyhovění této výzvě. Dovolatelé na výzvu ve stanovené sedmidenní lhůtě nereagovali a neučinili tak ani později.
+Podle ustanovení § 241 o. s. ř. není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními právními předpisy (odstavec 1). Odstavec 1 neplatí, je-li dovolatelem fyzická osoba, která má právnické vzdělání [odstavec 2 písm. a)]. Dovolání musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem, notářem nebo osobou uvedenou v § 21, 21a, 21b, anebo v § 26a odst. 3, která má právnické vzdělání (odstavec 4).
+Podle ustanovení § 241b odst. 2 části věty před středníkem o. s. ř. není-li splněna podmínka uvedená v § 241, postupuje se obdobně podle § 104 odst. 2.
+Podle ustanovení § 104 odst. 2 o. s. ř. jde-li o nedostatek podmínky řízení, který lze odstranit, učiní soud k tomu vhodná opatření. Nezdaří-li se nedostatek podmínky řízení odstranit, řízení zastaví.
+Jelikož povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, bez jejíhož splnění nelze dovolání meritorně projednat, přičemž ke zhojení tohoto nedostatku přes řádnou výzvu soudu prvního stupně do dnešního dne nedošlo, Nejvyšší soud dovolací řízení podle ustanovení § 241b odst. 2 o. s. ř. ve spojení s § 104 odst. 2 o. s. ř. zastavil.
+Rozhodnutí o nákladech dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+V Brně 28. července 2014
+JUDr. Pavel P ř í h o d a
+předseda senátu
