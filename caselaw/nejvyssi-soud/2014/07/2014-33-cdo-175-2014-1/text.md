@@ -1,0 +1,16 @@
+33 Cdo 175/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Václava Dudy a soudců JUDr. Pavla Krbka a JUDr. Ivany Zlatohlávkové ve věci žalobce Bc. R. S., zastoupeného JUDr. Zdeňkem Karfíkem, CSc., advokátem se sídlem v Praze 1, Vladislavova 46/3, proti žalované RCI Financial Services, s. r. o., se sídlem v Praze 4, Želetavská 1525/1, identifikační číslo 25722328, zastoupené Mgr. Petrem Šabatkou, advokátem se sídlem v Praze 1, Václavské náměstí 823/33, o zrušení rozhodčího nálezu, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 22 C 9/2010, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 16. dubna 2013, č. j. 16 Co 117/2013-78, ve znění opravného usnesení ze dne 7. listopadu 2013, č. j. 16 Co 117/2013-96, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalobce podal dovolání proti v záhlaví označenému rozhodnutí, jímž Městský soud v Praze potvrdil rozsudek Obvodního soudu pro Prahu 1 ze dne 10. prosince 2012, č. j. 22 C 9/2010-64, zamítající žalobu o zrušení rozhodčího nálezu pro opožděnost, a rozhodl o nákladech odvolacího řízení.
+Podle § 237 zákona č. 99/1963 Sb., občanského soudního řádu ve znění účinném do 31. 12. 2013 (čl. II. bod 2. zákona č. 293/2013 Sb. - dále jen „o. s. ř.“), není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+Podle § 241a odst. 2 o. s. ř. je dovolatel povinen v dovolání uvést, v čem spatřuje splnění předpokladů přípustnosti dovolání. Může-li být dovolání přípustné jen podle § 237 o. s. ř., musí dovolatel vymezit, které z tam uvedených hledisek považuje za splněné, přičemž k projednání dovolání nestačí pouhá citace ustanovení § 237 o. s. ř. (či jeho části). Požadavek, aby dovolatel vymezil, v čem spatřuje splnění předpokladů přípustnosti dovolaní, znamená, že je povinen uvést, od řešení jaké otázky hmotného nebo procesního práva se odvolací soud a) odchýlil od „ustálené rozhodovací praxe“ dovolacího soudu nebo b) která taková otázka v rozhodování dovolacího soudu dosud nebyla vyřešena nebo c) která otázka hmotného nebo procesního práva je dovolacím soudem rozhodována rozdílně, d) popř. která taková právní otázka (již dříve vyřešená) má být dovolacím soudem posouzena jinak.
+Dovolatel podle obsahu dovolání (§ 41 odst. 2 o. s. ř.) uvedenému požadavku nedostál.
+Nejvyšší soud proto jeho dovolání odmítl podle § 243c odst. 1 věty první o. s. ř., neboť v dovolacím řízení nelze pro tuto vadu pokračovat (viz usnesení Nejvyššího soudu ze dne 11. července 2013, sen. zn. 29 NSČR 51/2013).
+Výrok o náhradě nákladů dovolacího řízení nemusí být odůvodněn (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 30. července 2014
+JUDr. Václav Duda
+předseda senátu
