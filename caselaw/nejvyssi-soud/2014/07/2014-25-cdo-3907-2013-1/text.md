@@ -1,0 +1,12 @@
+25 Cdo 3907/2013
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marty Škárové a soudců Mgr. Miloše Póla a JUDr. Petra Vojtka v právní věci žalobce RNDr. J. B., CSc., zastoupeného JUDr. Zdeňkem Kovářem, advokátem se sídlem v Praze 4, V Horkách 1388/9, proti žalovaným 1) Československé obchodní bance, a. s., se sídlem v Praze 5, Radlická 333/150, IČO 00001350, a 2) KT-ROS Prachatice, s. r. o., se sídlem v Prachaticích, Žernovická 257, IČO 25161164, zastoupené Mgr. Martinem Chludem, advokátem se sídlem v Chrudimi, Palackého třída 802, o zaplacení 150.000,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 11 C 127/2006, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 25. 6. 2013, č. j. 30 Co 241/2013-282, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Nejvyšší soud dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 25. 6. 2013, č. j. 30 Co 241/2013-282, odmítl podle ustanovení § 243c odst. 1 věty první o. s. ř., neboť neobsahuje zákonem požadované údaje o tom, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 241a odst. 2 o. s. ř.), a v dovolacím řízení proto nelze pokračovat. Argumentace dovolatele, která se vztahuje k napadenému rozhodnutí, pouze zpochybňuje jednotlivá skutková zjištění týkající se existence a obsahu dohod mezi spornými stranami, ovšem žádným způsobem konkrétně nevymezuje, od které ustálené rozhodovací praxe dovolacího soudu se odvolací soud při řešení dané právní otázky odchýlil, případně zda v rozhodovací praxi dovolacího soudu ještě nebyla daná právní otázka vyřešena, je rozhodována rozdílně anebo má být posouzena jinak. Může-li být dovolání přípustné jen podle ustanovení § 237 o. s. ř., je dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné, přičemž k projednání dovolání nepostačuje pouhá citace byť i jen části textu tohoto ustanovení (srov. usnesení Nejvyššího soudu ze dne 25. 9. 2013, sp. zn. 29 Cdo 2394/2013, publikováno pod č. 4/2014 Sbírky soudních rozhodnutí a stanovisek).
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 31. července 2014
+JUDr. Marta Škárová
+předsedkyně senátu
