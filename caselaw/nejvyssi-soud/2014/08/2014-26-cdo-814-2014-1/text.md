@@ -1,0 +1,13 @@
+26 Cdo 814/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Pavlíny Brzobohaté a soudců JUDr. Miroslava Feráka a JUDr. Jitky Dýškové v exekuční věci oprávněného K. M., zastoupeného JUDr. Jáchymem Kanarkem, advokátem se sídlem v Brně, Smetanova 757/17, proti povinnému Ing. V. P., zastoupenému Mgr. Markem Vlkem, advokátem se sídlem v Přerově, Č. Drahlovského 871/17, pro nezastupitelné plnění, vedené u Okresního soudu v Přerově pod sp. zn. 28 Nc 2106/2009, o dovolání povinného proti usnesení Krajského soudu v Ostravě – pobočky v Olomouci ze dne 28. listopadu 2013, č. j. 40 Co 706/2013-209, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Dovolání povinného proti usnesení odvolacího soudu, jímž potvrdil usnesení soudu prvního stupně, kterým zamítl jeho návrh na zastavení exekuce, není přípustné podle ustanovení § 237 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013, dále jen „o. s. ř.“ (čl. II bod 2. zákona č. 293/2013 Sb.), neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu (k otázce materiální vykonatelnosti rozhodnutí, zejména k vymezení rozsahu a obsahu povinností, k jejichž splnění byl výkon rozhodnutí /exekuce/ nařízen srovnej např. usnesení Nejvyššího soudu ze dne 24. 4. 2008, sp. zn. 20 Cdo 3386/2006, ze dne 30. 6. 2004, sp. zn. 20 Cdo 965/2003, k otázce vázaností obsahem vykonávaného rozhodnutí a přezkoumávání jeho věcné správnosti srovnej např. usnesení Nejvyššího soudu ze dne 14. 4. 1999, sp. zn. 21 Cdo 2020/98, uveřejněné pod číslem 4/2000 Sbírky soudních rozhodnutí a stanovisek) a není důvod, aby rozhodné právní otázky byly posouzeny jinak.
+Námitkami, že oprávněný neosvědčil připravenost splnit svou povinnost, uplatnil dovolatel jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o. s. ř. Navíc přehlíží, že napadené rozhodnutí odvolacího soudu spočívá na závěru, že není důvod pro zastavení exekuce, neboť povinný nesplnil svou povinnost uloženou exekučním titulem (nenabídl oprávněnému tam specifikovaný automobil), nikoliv proto, že by mu oprávněný neposkytl součinnost či nesplnil (nebyl připraven splnit) svou povinnost při výměně automobilu uloženou vykonávaným rozsudkem.
+Nejvyšší soud České republiky proto dovolání povinného podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., exekuční řád, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 1. srpna 2014
+JUDr. Pavlína Brzobohatá
+předsedkyně senátu
