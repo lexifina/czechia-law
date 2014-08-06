@@ -1,0 +1,18 @@
+11 Tcu 60/2014-24
+U S N E S E N Í
+Nejvyšší soud projednal dne 6. srpna 2014 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na přijetí rozhodnutí ve věci občana České republiky, obv. P. N. , podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl t a k t o :
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení P. N. , rozsudkem Řádného soudu v Pordenone ze dne 28. 9. 2009, sp. zn. 656/09, kterým byl uznán vinným ze spáchání trestného činu krádeže ve zvlášť těžkém případě podle § 628 odst. 2, § 61 odst. 2, § 81, § 582 italského trestního zákoníku, za který mu byl uložen trest odnětí svobody v trvání 1 (jednoho) roku a 6 (šesti) měsíců, hledí jako na odsouzení soudem České republiky.
+O d ů v o d n ě n í :
+Rozsudkem Řádného soudu v Pordenone ze dne 28. 9. 2009, sp. zn. 656/09, byl P. N. uznán vinným ze spáchání výše uvedeného trestného činu a následně odsouzen k trestu odnětí svobody v trvání 1 (jednoho) roku a 6 (šesti) měsíců.
+Podle skutkových zjištění Řádného soudu v Pordenone obv. P. N. :
+1. za účelem dosažení neoprávněného zisku si přivlastnil benzín v hodnotě 49,23 EUR tím, že do svého vozidla natankoval 39,5 l benzínu z čerpacího stojanu benzínového čerpadla Esso v P. , a bezprostředně po načerpání použil násilí a výhrůžky vůči poškozenému U. M. , který mu bránil v odjezdu z místa činu,
+2. při spáchání trestného činu v bodě 1. způsobil zranění poškozenému U. M. , který se zavěsil na zadní dveře motorového vozidla řízeného obviněným, a ten pak v reakci na to prudce nastartoval, jezdil sem a tam ve snaze shodit U. z vodila za jízdy a po nárazu vozidla do podjezdu tento poškozený utrpěl zranění, které si vyžádalo léčení do deseti dnů.
+Ministerstvo spravedlnosti České republiky podalo dopisem pod č. j. MSP-130/2014-MOT-T/8 ze dne 7. 7. 2014 Nejvyššímu soudu návrh na přijetí rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů. Tento návrh byl doručen Nejvyššímu soudu dne 9. 7. 2014.
+Podle § 4a odst. 3 tohoto zákona může Nejvyšší soud na návrh Ministerstva spravedlnosti ČR rozhodnout, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Nejvyšší soud věc přezkoumal a shledal, že odsouzený P. N. je občanem České republiky, byl odsouzen soudem jiného členského státu EU a odsouzení se týká skutků, které vykazují znaky trestného činu i podle příslušných právních předpisů České republiky (trestný čin krádeže podle § 205 tr. zákoníku, ublížení na zdraví podle § 146 tr. zákoníku).
+Závažnost jednání odsouzeného je dána nejen hodnotou benzinu, který si neoprávněně přivlastnil, ale zejména brutalitou jeho jednání, které se dopustil vůči poškozenému v průběhu, resp. bezprostředně po činu, při kterém mu způsobil zranění, které si vyžádalo deset dnů léčení. Trest odnětí svobody ve výměře 1 (jednoho) roku a 6 (šesti) měsíců rovněž odůvodňuje závěr, aby se na toto odsouzení hledělo jako na odsouzení soudem České republiky.
+Z výše uvedeného vyplývá, že jsou splněny všechny podmínky pro to, aby se na výše uvedené odsouzení obv. P. N. hledělo jako na odsouzení soudem České republiky, a proto Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 6. srpna 2014
+Předseda senátu:
+JUDr. Stanislav Rizman
