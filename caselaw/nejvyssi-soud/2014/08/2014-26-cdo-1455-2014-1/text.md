@@ -1,0 +1,16 @@
+26 Cdo 1455/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Pavlíny Brzobohaté a soudců JUDr. Miroslava Feráka a Doc. JUDr. Věry Korecké, CSc., ve věci žalobce J. M., zastoupeného Mgr. Markem Bukovským, advokátem se sídlem ve Vsetíně, Na Příkopě 814, proti žalované V. J., zastoupené Mgr. Ivanou Quittovou, advokátkou se sídlem v Novém Jičíně, Msgr. Šrámka 1183/20, o vyklizení nemovitostí, vedené u Okresního soudu ve Vsetíně - pobočky ve Valašském Meziříčí pod sp. zn. 22 C 60/2012, o dovolání žalované proti rozsudku Krajského soudu v Ostravě ze dne 12. září 2013, č. j. 8 Co 581/2013-163, takto:
+I. Dovolání se odmítá.
+II. Žalovaná je povinna zaplatit žalobci na náhradě nákladů dovolacího řízení 1.800,- Kč k rukám Mgr. Marka Bukovského, advokáta se sídlem ve Vsetíně, Na Příkopě 814, do tří dnů od právní moci tohoto usnesení.
+O d ů v o d n ě n í :
+Dovolání žalované proti napadenému rozsudku odvolacího soudu, není přípustné podle ustanovení § 237 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013, dále jen „o. s. ř.“ (čl. II bod 2. zákona č. 293/2013 Sb.), neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu (k otázce odepření výkonu vlastnického práva realizovaného žalobou na vyklizení nemovitosti sloužící k bydlení pro rozpor s dobrými mravy srovnej např. stanovisko Nejvyššího soudu ze dne 14. 10. 2009, sp. zn. Cpjn 6/2009, uveřejněné pod číslem 6/2010 Sbírky soudních rozhodnutí a stanovisek) a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+V souladu s judikaturou Nejvyššího soudu se odvolací soud zabýval okolnostmi, které by mohly vést k závěru, že výkon vlastnického práva realizovaný žalobou na vyklizení nemovitosti je uplatňován v rozporu s dobrými mravy, přihlédl ke všem zjištěným skutečnostem, a to jak na straně dovolatelky, tak i na straně žalobce, poměřoval práva a právem chráněné zájmy R. H., nezl. V. a P. J. (původně žalovaní 1/, 3/, 4/), kteří ztratili vlastnické právo k domu, ve kterém bydlí, s právem vlastníka na ochranu proti tomu, kdo do jeho práva neoprávněně zasahuje, zvažoval, zda v důsledku vyklizení domu neztratí žalovaná a její rodina jakoukoliv lidsky důstojnou možnost bydlení (viz např. rozsudky Nejvyššího soudu ze dne 28. 7. 2003, sp. zn. 22 Cdo 1630/2002, ze dne 1. 12. 2011, sp. zn. 22 Cdo 4113/2009, na něž poukazovala i dovolatelka), vycházel přitom z konkrétních zjištění učiněných v dané věci a jeho úvaha není zjevně nepřiměřená. Ke všem zjištěným skutečnostem přihlédl i při rozhodování, zda má být vyklizení žalovaných vázáno na zajištění bytové náhrady, a pokud jim s ohledem na učiněná zjištění bytovou náhradu odepřel, není ani tato úvaha zjevně nepřiměřená.
+Námitkami, jimiž zpochybňovala skutková zjištění odvolacího soudu, pak dovolatelka uplatnila jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o. s. ř.
+Nejvyšší soud České republiky proto dovolání žalované podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+Nesplní-li povinná dobrovolně, co jí ukládá vykonatelné rozhodnutí, může oprávněný podat návrh na exekuci (soudní výkon rozhodnutí).
+V Brně dne 12. srpna 2014
+JUDr. Pavlína Brzobohatá
+předsedkyně senátu
