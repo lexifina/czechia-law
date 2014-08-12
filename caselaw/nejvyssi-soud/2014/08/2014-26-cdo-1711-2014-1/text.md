@@ -1,0 +1,15 @@
+26 Cdo 1711/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Pavlíny Brzobohaté a soudců JUDr. Miroslava Feráka a Doc. JUDr. Věry Korecké, CSc., ve věci žalobce Lidového bytového družstva Praha 8, se sídlem v Praze 8 – Libni, V Zahradách 21/čp. 786, IČO 48030601, zastoupeného JUDr. Danem Holubkovem, advokátem se sídlem v Praze 1, Dlouhá 705/16, proti žalovanému J. P., o vyklizení bytu, vedené u Obvodního soudu pro Prahu 8 pod sp. zn. 9 C 164/2010, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 16. října 2013, č. j. 54 Co 356/2013-163, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Napadeným rozsudkem odvolací soud změnil rozsudek soudu prvního stupně tak, že žalobu o vyklizení žalovaného z bytu č. 1078/6 v domě čp., Praze 8 – Libni, zamítl. Dovolání žalobce není přípustné podle ustanovení § 237 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013, dále jen „o. s. ř.“ (čl. II bod 2. zákona č. 293/2013 Sb.), neboť rozhodnutí odvolacího soudu je v souladu s výslovnou úpravou skončení nájmu bytu (§ 710 odst. 1 zákona č. 40/1964 Sb., občanský zákoník ve znění účinném do 31. 12. 2013, dále jen „obč. zák.“ (§ 243f odst. 1 o. s. ř.), i s ustálenou rozhodovací praxí dovolacího soudu (k otázce důvodů zániku nájmu bytu srovnej např. rozsudek Nejvyššího soudu ze dne 13. srpna 2008, sp. zn. 26 Cdo 3083/2007) a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+Závěr odvolacího soudu, že žalovaný neužívá byt bez právního důvodu, neboť jeho nájem trvá, protože listina ze dne 9. 4. 2013 nazvaná „uznání dluhu a dohoda o úhradě dluhu ve splátkách č. 6/2013“ neobsahuje ani dohodu o ukončení nájmu předmětného bytu, ani výpověď žalobce nebo žalovaného z tohoto nájmu, a nájem nezanikl ani jiným způsobem stanoveným zákonem (např. splynutím podle § 584 obč. zák., odstoupení pronajímatele v § 679 odst. 3 obč. zák.), je v souladu s ustálenou soudní praxí.
+Námitkami směřujícími proti nesprávně zjištěnému skutkovému stavu (že soud nesprávně zjistil obsah listiny ze dne 9. 4. 2013 „uznání dluhu a dohoda o úhradě dluhu ve splátkách č. 6/2013“), uplatnil dovolatel podle obsahu dovolání (§ 41 odst. 2 o. s. ř.) nepřípustný dovolací důvod (§ 241a odst. 1 o. s. ř.), neboť i v případě, že soud zjišťuje obsah listiny nebo vůli účastníků, jde o skutkové zjištění (srov. odůvodnění rozsudku Nejvyššího soudu ze dne 21. 10. 1999, sp. zn. 2 Cdon 1548/1997, uveřejněného pod č. 73/2000 Sbírky soudních rozhodnutí a stanovisek, ze dne 31. 10. 2001, sp. zn. 20 Cdo 2900/99, uveřejněného v časopise Soudní judikatura číslo 3, ročníku 2002, pod číslem 46, a usnesení ze dne 7. 10. 2004, sp. zn. 26 Cdo 1881/2003).
+Nejvyšší soud České republiky proto dovolání žalobce podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 12. srpna 2014
+JUDr. Pavlína Brzobohatá
+předsedkyně senátu
