@@ -1,0 +1,14 @@
+30 Cdo 2629/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu JUDr. Miroslavou Jirmanovou, Ph. D. v exekuční věci oprávněné Všeobecné zdravotní pojišťovny České republiky, se sídlem v Praze 3, Orlická 2020/4, identifikační číslo osoby 41197518, proti povinnému V. Š., pro 78.534,- Kč s příslušenstvím, vedené Okresním soudem Praha - západ pod sp. zn. 216 EXE 5658/2013, o dovolání povinného proti usnesení Krajského soudu v Praze ze dne 30. prosince 2013, č. j. 26Co 580/2013-43, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í :
+Krajský soud v záhlaví označeným rozhodnutím potvrdil usnesení ze dne 1. 10. 2013, č. j. 216 EXE 5658/2013-24, kterým okresní soud odmítl návrh povinného na zastavení exekuce. Podle názoru odvolacího soudu je návrh povinného na zastavení exekuce nesrozumitelný a neurčitý, když v něm povinný neuvádí žádné skutečnosti, které by mohly vést k závěru, že je zde některý ze zákonem předpokládaných důvodů zastavení exekuce, a proto odvolací soud postupoval podle § 219 ve spojení s § 254 odst. 1 a § 52 odst. 1 exekučního řádu.
+Povinný napadl usnesení krajského soudu dovoláním, jež vykazovalo nedostatek bránící pokračování dovolacího řízení (nebylo sepsáno advokátem). Protože ze spisu nevyplývalo, že dovolatel je právnicky vzdělán, soud jej usnesením ze dne 5. 3. 2014, č. j. 216 EXE 5658/2013-68 (doručeným dne 8. 4. 2014), vyzval, aby si ve lhůtě patnácti dnů od doručení usnesení zvolil advokáta a jeho prostřednictvím podal řádné dovolání. Zároveň ho poučil, že nevyhoví-li výzvě, dovolací soud řízení zastaví.
+Na základě přípisu povinného z 13. 4. 2014 okresní soud usnesením ze dne 19. 5. 2014, č. j. 216 EXE 5658/2013-82, rozhodl, že žádost povinného o ustanovení zástupce se zamítá. Přestože usnesení nabylo právní moci dne 11. 6. 2014, dovolatel vytčený nedostatek neodstranil.
+Jelikož povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – kromě usnesení, kterým se dovolací řízení právě pro neodstranění tohoto nedostatku zastavuje – vydání rozhodnutí, jímž se řízení končí, a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu nedošlo, Nejvyšší soud dovolací řízení podle § 104 odst. 2 věty třetí a § 241b odst. 2 zákona č. 99/1963 Sb., občanský soudní řád ve znění účinném od 1. 1. 2013 do 31. 12. 2013 (srov. část první, čl. II, bod 7 zákona č. 404/2012 Sb. a část první, čl. II, bod 2 zákona č. 293/2013 Sb.), zastavil.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 14. srpna 2014
+JUDr. Miroslava Jirmanová, Ph.D.
+předsedkyně senátu
