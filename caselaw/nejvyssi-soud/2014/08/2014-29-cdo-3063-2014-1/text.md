@@ -1,0 +1,17 @@
+29 Cdo 3063/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Filipa Cilečka a soudců JUDr. Petra Šuka a Mgr. Ing. Davida Bokra v právní věci navrhovatele J. K., zastoupeného Mgr. Jiřím Douskem, advokátem, se sídlem v Liberci, 8. března 21/13, PSČ 460 05, za účasti Bytového družstva KOLEKTIV, se sídlem v Jablonci nad Nisou, Hřbitovní 3479/39, PSČ 466 01, identifikační číslo osoby 62739735, zastoupeného JUDr. Jiřím Ondrouškem, advokátem, se sídlem v Praze 1, Senovážné nám. 978/23, PSČ 110 00, o prohlášení rozhodnutí členské schůze o vyloučení člena z družstva za neplatné, vedené u Krajského soudu v Ústí nad Labem – pobočky v Liberci pod sp. zn. 39 Cm 24/2011, o dovolání Bytového družstva KOLEKTIV proti usnesení Vrchního soudu v Praze ze dne 16. ledna 2014, č. j. 14 Cmo 248/2013-135, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í:
+Vrchní soud v Praze v záhlaví označeným usnesením odmítl podle § 218 písm. b) zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), odvolání Bytového družstva KOLEKTIV (dále jen „družstvo“) proti výroku III. usnesení ze dne 8. dubna 2013, č. j. 39 Cm 24/2011-118, jímž Krajský soud v Ústí nad Labem – pobočka v Liberci ustanovil navrhovateli procesního opatrovníka Mgr. Jiřího Douska.
+Proti usnesení odvolacího soudu podalo družstvo dovolání.
+Podle § 238 odst. 1 písm. f) o. s. ř. není dovolání přípustné podle § 237 proti usnesením, proti nimž je přípustná žaloba pro zmatečnost podle § 229 odst. 4 o. s. ř.
+Právě o tento případ jde v posuzované věci. Usnesení, jímž odvolací soud odmítl odvolání družstva, je sice usnesením, jímž se odvolací řízení končí, ale podle § 229 odst. 4 o. s. ř. může účastník napadnout žalobou pro zmatečnost též pravomocné usnesení odvolacího soudu, kterým bylo odmítnuto odvolání (k tomu srov. obdobně i důvody usnesení Nejvyššího soudu ze dne 22. května 2013, sen. zn. 29 NSČR 35/2013, uveřejněného v časopise Soudní judikatura číslo 5, ročníku 2014, pod číslem 62, usnesení Nejvyššího soudu ze dne 30. května 2013, sen. zn. 29 NSČR 36/2013, či usnesení Nejvyššího soudu ze dne 17. října 2013, sp. zn. 29 Cdo 3290/2013).
+Na závěru o nepřípustnosti dovolání nemůže nic změnit ani nesprávné poučení poskytnuté účastníkům odvolacím soudem v písemném vyhotovení jeho rozhodnutí (k tomu srov. obdobně usnesení Nejvyššího soudu ze dne 26. září 2001, sp. zn. 29 Odo 62/2001, a ze dne 27. června 2002, sp. zn. 29 Odo 425/2002, uveřejněná pod čísly 73/2001 a 51/2003 Sbírky soudních rozhodnutí a stanovisek, jakož i důvody nálezu Ústavního soudu ze dne 2. prosince 2008, sp. zn. II. ÚS 323/07, uveřejněného pod číslem 210/2008 Sbírky nálezů a usnesení Ústavního soudu).
+Nejvyšší soud proto dovolání družstva podle § 243c odst. 1 o. s. ř. odmítl.
+K absenci výroku o nákladech dovolacího řízení srov. usnesení Nejvyššího soudu ze dne 23. července 2002, sp. zn. 20 Cdo 970/2001, uveřejněné pod číslem 48/2003 Sbírky soudních rozhodnutí a stanovisek. Rozhodnout o těchto nákladech bude úkolem soudu prvního stupně (odvolacího soudu) v konečném rozhodnutí o zbývající části předmětu řízení.
+Rozhodné znění občanského soudního řádu, podle kterého Nejvyšší soud dovolání projednal a rozhodl o něm (do 31. prosince 2013), se podává z článku II. bodu 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 20. srpna 2014
+JUDr. Filip C i l e č e k
+předseda senátu
