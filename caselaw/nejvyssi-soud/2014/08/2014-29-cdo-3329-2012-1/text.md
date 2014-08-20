@@ -1,0 +1,21 @@
+29 Cdo 3329/2012
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Petra Šuka a soudců JUDr. Filipa Cilečka a Mgr. Ing. Davida Bokra v právní věci žalobce JUDr. Ing. J. H., zastoupeného JUDr. Ing. Janem Matysem, advokátem, se sídlem v Praze 8, Sokolovská 351/25, PSČ 186 00, proti žalované UniCredit Bank Czech Republic and Slovakia, a. s., se sídlem v Praze 4, Želetavská 1525/1, PSČ 140 92, identifikační číslo osoby 64948242, o zaplacení 12.353,- EUR s příslušenstvím, vedené u Městského soudu v Praze pod sp. zn. 23 Cm 57/2008, o dovolání žalobce proti rozsudku Vrchního soudu v Praze ze dne 16. července 2012, č. j. 5 Cmo 202/2012-122, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Městský soud v Praze rozsudkem ze dne 16. února 2012, č. j. 23 Cm 57/2008-101, zamítl žalobu o zaplacení 12.353,- EUR s příslušenstvím (výrok I.) a rozhodl o náhradě nákladů soudního řízení (výrok II.).
+V záhlaví označeným rozsudkem Vrchní soud v Praze k odvolání žalobce potvrdil rozsudek soudu prvního stupně (první výrok) a rozhodl o náhradě nákladů odvolacího řízení (druhý výrok).
+Proti rozsudku odvolacího soudu podal žalobce dovolání, jež Nejvyšší soud odmítl podle § 243b odst. 5, § 218 písm. c) zákona č. 99/1963 Sb., občanského soudního řádu (dále též jen „o. s. ř.“), jako nepřípustné.
+Dovolání proti potvrzujícímu výroku rozsudku odvolacího soudu ve věci samé může být přípustné pouze podle § 237 odst. 1 písm. c) o. s. ř. [o situaci předvídanou v § 237 odst. 1 písm. b) o. s. ř. nejde], tedy tak, že dovolací soud – jsa přitom vázán uplatněnými dovolacími důvody včetně jejich obsahového vymezení (§ 242 odst. 3 o. s. ř.) – dospěje k závěru, že napadené rozhodnutí má po právní stránce zásadní význam.
+Dovolatel však Nejvyššímu soudu žádnou právní otázku, natož pak otázku, jež by napadené rozhodnutí činila zásadně právně významným, k řešení nepředkládá.
+Namítá-li, že informace poskytnuté bankou byly zavádějící a neodpovídající, brojí proti opačným skutkovým zjištěním soudů nižších stupňů, podle nichž byly podílové listy nabízeny s tím, že zajištění rizika do výše 20 % se vztahuje k podkladovému aktivu.
+Proti skutkovým zjištěním odvolacího soudu lze brojit pouze prostřednictvím dovolacího důvodu vymezeného v § 241a odst. 3 o. s. ř., který však dovolatel k dispozici nemá a k jehož přezkoumání dovolání postupem podle § 237 odst. 1 písm. c) o. s. ř. připustit nelze (srov. § 237 odst. 3 a § 241a odst. 3 o. s. ř.). Proto již Nejvyšší soud neposuzoval, zda námitky snášené dovolatelem lze dovolacímu důvodu podle § 241a odst. 3 o. s. ř. podřadit (srov. v tomto směru např. důvody rozsudku Nejvyššího soudu ze dne 25. června 1998, sp. zn. 3 Cdon 117/96 uveřejněného pod číslem 27/1999 Sbírky soudních rozhodnutí a stanovisek, či rozsudku Nejvyššího soudu ze dne 26. října 2010, sp. zn. 29 Cdo 1628/2009, jenž je veřejnosti k dispozici na webových stránkách Nejvyššího soudu).
+Žádnou právní otázku pak nezahrnuje ani výtka, podle níž soudy „nedocenily“ okolnost, že žalovaná banka doporučila koupi podílových listů emitenta, který neměl oprávnění je nabízet na území České republiky. Odvolací soud se přitom s uvedenou skutečností vypořádal (viz odůvodnění napadeného rozhodnutí, strana 4); dovolatel však jeho závěry nenapadá a dovolacímu přezkumu je neotevírá (srov. § 242 odst. 3 o. s. ř. a např. důvody nálezu Ústavního soudu ze dne 11. listopadu 2009 sp. zn. IV. ÚS 560/08).
+Konečně námitka, podle níž „žalobce měnil podmínky soutěže během jejího trvání“, se zjevně míjí se skutkovými i právními aspekty projednávané věci; žádnou otázku, jež by napadené rozhodnutí činila zásadně právně významným, neotevírá a dovolání přípustným nečiní.
+Výrok o nákladech řízení se opírá o § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 o. s. ř., když dovolání žalobce bylo odmítnuto a žalované podle obsahu spisu v dovolacím řízení žádné náklady nevznikly.
+Rozhodné znění občanského soudního řádu pro dovolací řízení (do 31. prosince 2012) se podává z bodu 7., článku II., zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 20. srpna 2014
+JUDr. Petr Š u k
+předseda senátu
