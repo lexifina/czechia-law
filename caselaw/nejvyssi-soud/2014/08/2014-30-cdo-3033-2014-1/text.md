@@ -1,0 +1,14 @@
+30 Cdo 3033/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové, Ph. D., a soudců JUDr. Vladimíra Mikuška a Mgr. Víta Bičáka v exekuční věci oprávněné Kooperativa pojišťovna a. s., Vienna Insurance Group se sídlem v Praze 8, Pobřežní 665/21, identifikační číslo osoby 47116617, zastoupené JUDr. Michalem Marcinkou, advokátem se sídlem v Olomouci, Ladova 389/10, proti povinnému O. Ch., zastoupenému Mgr. Janem Boučkem, advokátem se sídlem v Praze 1, Opatovická 4, pro příslušenství pohledávky, o zastavení exekuce, vedené Obvodním soudem v pro Prahu 10 pod sp. zn. 49 EXE 944/2013, o dovolání povinného proti usnesení Městského soudu v Praze ze dne 13. března 2014, č. j. 53Co 14/2014-78, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Odvolací soud v záhlaví označeným rozhodnutím potvrdil usnesení ze dne 13. 11. 2013, č. j. 49 EXE 944/2013-65, kterým Obvodní soud pro Prahu 10 zamítl návrh povinného na zastavení exekuce (nařízené pro úrok z prodlení ve výši 302,48 Kč, náklady nalézacího řízení 10.520,- Kč, a dále náklady oprávněného a náklady exekuce, které budou stanoveny v průběhu exekuce). Ze spisu vyplývá, že usnesením ze dne 8. 4. 2013, č. j. 139 EX 01956/13-018, pověřený soudní exekutor Mgr. Marcel Kubis (částečně) zastavil exekuční řízení na návrh oprávněné pro částku 10.828,- Kč, neboť povinný zcela uhradil úrok z prodlení a náklady nalézacího řízení, a dále náklady oprávněného v exekučním řízení ve výši 5,52. Předmětem exekuce tudíž zůstaly pouze náklady oprávněné v exekučním řízení a náklady exekuce (náklady oprávněné byly příkazem k úhradě ze dne 3. 5. 2013, č. j. 139 EX 01956/13-033, stanoveny částkou 5.348,20 Kč, avšak příkaz byl usnesením Obvodního soudu pro Prahu 10 z 2. 9. 2013, č. l. 49 EXE 944/2013-38, zrušen; náklady exekuce soudní exekutor předběžně vyčíslil částkou 7865,- Kč – viz č. l. 24 spisu). Účastníci činí z hlediska povinnosti platit tyto náklady sporným posouzení, zda byla exekuce zahájena důvodně či nikoli.
+Povinný napadl usnesení odvolacího soudu dovoláním.
+Nejvyšší soud dovolání projednal a rozhodl o něm podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2013 do 31. 12. 2013 (srovnej čl. II, bod 7. zákona č. 404/2012 Sb. a část první, čl. II, bod 2. zákona č. 293/2013 Sb.), dále jen „o. s. ř.“.
+Dovolání není přípustné, protože směřuje proti výroku odvolacího soudu, jímž bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50 000,- Kč (§ 238 odst. 1 písm. d/ o. s. ř.). Nejvyšší soud tedy dovolání odmítl (§ 243c odst. 1 o. s. ř.).
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 21. srpna 2014
+JUDr. Miroslava Jirmanová, Ph.D.
+předsedkyně senátu
