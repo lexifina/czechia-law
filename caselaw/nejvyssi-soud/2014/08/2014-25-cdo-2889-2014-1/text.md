@@ -1,0 +1,15 @@
+25 Cdo 2889/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Vojtka a soudců JUDr. Roberta Waltra a Mgr. Miloše Póla v právní věci žalobkyně J. Š., zastoupené JUDr. Jiřím Slezákem, advokátem se sídlem v Hradci Králové, Ulrichovo náměstí 737/3, proti žalované Kooperativa pojišťovně, a. s., Vienna Insurance Group, se sídlem v Praze 8, Pobřežní 665/21, IČO 47116617, zastoupené JUDr. Antonínem Mokrým, advokátem se sídlem v Praze 1, U Prašné brány 1079/3, o zaplacení 329.520,- Kč s příslušenstvím, vedené u Okresního soudu v Trutnově pod sp. zn. 109 C 86/2010, o dovolání žalobkyně proti rozsudku Krajského soudu v Hradci Králové ze dne 23. 1. 2014, č. j. 25 Co 545/2013-198, takto:
+I. Dovolání se odmítá.
+II. Žalobkyně je povinna zaplatit žalované na náhradě nákladů dovolacího řízení částku 11.761,20 Kč do tří dnů od právní moci tohoto rozhodnutí k rukám JUDr. Antonína Mokrého, advokáta se sídlem v Praze 1, U Prašné brány 1079/3.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Dovolání žalobkyně proti rozsudku Krajského soudu v Hradci Králové ze dne 23. 1. 2014, č. j. 25 Co 545/2013-198, není přípustné podle ustanovení § 237 o.s.ř., neboť uplatněné námitky nesměřují proti otázce hmotného nebo procesního práva, na jejímž vyřešení závisí napadené rozhodnutí.
+Argumentace dovolatelky, která se vztahuje k rozhodnutí odvolacího soudu, spočívá především v odlišném hodnocení důkazů a ve výhradách ke způsobu dokazování znaleckými posudky, a její námitky tak nesměřují proti právnímu posouzení věci, nýbrž proti zjištěnému skutkovému stavu; tím však nelze přípustnost dovolání jakožto mimořádného opravného prostředku podle § 237 o.s.ř. založit. Namítá-li dovolatelka, že odvolací soud neprovedl navržené důkazy, uplatňuje námitku, že řízení je postiženo vadou, která mohla mít za následek nesprávné rozhodnutí ve věci, k níž by však mohl dovolací soud přihlédnout jen tehdy, je-li dovolání obecně přípustné (§ 242 odst. 3 o.s.ř.). Obdobné platí i pro výtku dovolatelky, že jí soudy nepřiznaly úroky z prodlení z částky 47.691,- Kč, neboť je v žalobě nepožadovala.
+Nejvyšší soud proto dovolání žalobkyně podle § 243c odst. 1 o.s.ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b odst. 5 věty první, § 224 odst. 1, § 146 odst. 3 o.s.ř. Žalovaná má právo na náhradu nákladů, které se skládají z odměny advokáta ve výši 9.420,- Kč podle § 1 odst. 2, § 6 odst. 1, § 7 bod 6, § 8 odst. 1 a § 11 odst. 1 písm. k) vyhlášky č. 177/1996 Sb. za jeden úkon právní služby, spočívající ve vyjádření se k dovolání žalobkyně, a z náhrady hotových výdajů ve výši 300,- Kč podle § 2 odst. 1 a § 13 odst. 3 vyhlášky č. 177/1996 Sb., to vše zvýšeno o náhradu za daň z přidané hodnoty podle § 137 odst. 3 o.s.ř., celkem tedy 11.761,20 Kč.
+Proti tomuto usnesení není opravný prostředek přípustný.
+Nesplní-li povinný dobrovolně, co mu ukládá vykonatelné rozhodnutí, může oprávněný podat návrh na výkon rozhodnutí.
+V Brně dne 26. srpna 2014
+JUDr. Petr Vojtek
+předseda senátu
