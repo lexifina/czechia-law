@@ -1,0 +1,13 @@
+25 Cdo 2839/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Robertem Waltrem v právní věci žalobce P. Č., proti žalovanému JUDr. Jiřímu Šmrhovi, advokátovi se sídlem ve Strakonicích, Plánkova 600, o zaplacení 102,- Kč, vedené u Okresního soudu ve Strakonicích pod sp. zn. 8 C 107/2012, o dovolání žalobce proti usnesení Krajského soudu v Českých Budějovicích ze dne 12. 2. 2013, č.j. 5 Co 22/2013-39, takto:
+Dovolací řízení se zastavuje.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.) :
+Krajský soud v Českých Budějovicích usnesením ze dne 12. 2. 2013, č.j. 5 Co 22/2013-39, potvrdil usnesení Okresního soudu ve Strakonicích ze dne 8. 11. 2012, č.j. 8 C 107/2012-32, a to ve výrocích I a II o neúčinnosti doručení písemností, ve výroku III pak usnesení soudu prvního stupně změnil tak, že zamítl žádost žalobce o osvobození od soudního poplatku ze žaloby. Žalobce napadl usnesení odvolacího soudu dovoláním v té části, kterou byla zamítnuta jeho žádost o osvobození od soudního poplatku.
+Žalobce však pro dovolací řízení nebyl zastoupen advokátem (§ 241 o. s. ř.). Dovolatel ani přes výzvu soudu vytčený nedostatek ve stanovené lhůtě neodstranil a jeho žádost o ustanovení advokáta pro dovolací řízení byla zamítnuta (usnesení Okresního soudu ve Strakonicích ze dne 20. 9. 2013, č.j. 8 C 107/2012-81, potvrzené usnesením Krajského soudu v Českých Budějovicích ze dne 5. 5. 2014, č.j. 5 Co 829/2014-107).
+Nejvyšší soud dovolací řízení zastavil, jelikož dovolací řízení trpí nedostatkem podmínky řízení (absence povinného právního zastoupení dovolatele), který se nepodařilo odstranit (§ 243c odst. 3, § 241b odst. 2 a § 104 odst. 2 věta třetí o. s. ř.). Nejvyšší soud dále považuje za nutné zdůraznit, že v daném případě se jedná o dovolání proti rozhodnutí o žádosti o osvobození od soudního poplatku, nikoli o dovolání proti rozhodnutí o žádosti o ustanovení zástupce z řad advokátů, absence povinného zastoupení tak představuje překážku bránící vydání rozhodnutí v dovolacím řízení. Na předmětný případ tedy nelze aplikovat závěr vyslovený v usnesení Nejvyššího soudu ze dne 28. 4. 1997, sp. zn. 2 Cdon 609/97, uveřejněném v časopise Soudní judikatura číslo 10, ročníku 1997, pod číslem 97 (viz také usnesení Nejvyššího soudu ze dne 28. 5. 2014, sp. zn. 26 Cdo 1311/2014, veřejnosti dostupné na webových stránkách Nejvyššího soudu – www.nsoud.cz).
+Protože tímto rozhodnutím dovolacího soudu se řízení o věci nekončí, bude rozhodnuto i o náhradě nákladů případně vzniklých v tomto dovolacím řízení v konečném rozhodnutí soudu prvního stupně, popřípadě soudu odvolacího (§ 243b, § 151 odst. 1 o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 26. srpna 2014
+JUDr. Robert Waltr
+předseda senátu
