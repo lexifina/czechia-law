@@ -1,0 +1,14 @@
+23 Cdo 1073/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Horáka, Ph.D. a soudců JUDr. Zdeňka Dese a JUDr. Kateřiny Hornochové ve věci žalobkyně AGROFERT, a. s., se sídlem v Praze 4, Pyšelská 2327/2, identifikační číslo osoby 26 18 56 10, zastoupeného JUDr. Jiřím Voršilkou, advokátem se sídlem v Praze 1, Opletalova 4, proti žalované CORRAL, a. s., se sídlem v Praze 1, Biskupský dvůr 2095/8, identifikační číslo osoby 60 79 27 10, zastoupené JUDr. Václavem Luťchou, advokátem se sídlem v Praze 3 – Vinohrady, Náměstí Jiřího z Lobkovic 2406/9, o zaplacení částky 8,000.200,52 Kč s příslušenstvím, ve věci vedené Krajským soudem v Ostravě pod sp. zn. 11 Cm 126/2010, o dovolání žalobkyně proti rozsudku Vrchního soudu v Olomouci ze dne 19. září 2013, č. j. 4 Cmo 164/2013-462, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalobkyně proti rozsudku Vrchního soudu v Olomouci ze dne 19. září 2013, č. j. 4 Cmo 164/2013-462, není přípustné podle ustanovení § 237 o. s. ř., neboť napadené rozhodnutí nezávisí na vyřešení otázky hmotného nebo procesní práva ve smyslu citovaného ustanovení, při jejímž řešení by se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která by v rozhodování dovolacího soudu dosud nebyla vyřešena nebo byla dovolacím soudem rozhodována rozdílně anebo měla by být dovolacím soudem vyřešená právní otázka posouzena jinak. Není tomu tak ani v případě dovolacích námitek dovolatelky směřujících k posouzení prodlení věřitele podle § 370 a násl. obchodního zákoníku, když otázku prodlení věřitele posoudil odvolací soud v intencích předchozího zrušujícího rozsudku Nejvyššího soudu ze dne 29. června 2010, sp. zn. 23 Cdo 808/2009, od jehož závěrů nemá dovolací soud důvod se odchýlit ani v tomto projednávání věci. Přípustnost dovolání nezakládá ani dovolatelkou předestřená otázka nutnosti doručení odstoupení od smlouvy u vícestranné smlouvy ostatním stranám smlouvy, když odvolací soudu tuto otázku posoudil v souladu s judikaturou Nejvyššího soudu (např. rozsudkem ze dne 17. února 2000, sp. zn. 22 Cdo 578/98).
+Dalšími námitkami konstruujícími skutková zjištění o tom, zdali se odstoupení od smlouvy dostalo do sféry dispozice právního předchůdce žalobkyně, uplatňuje dovolatelka jiný dovolací důvod než podle § 241a odst. 1 o. s. ř., proto ani tyto námitky přípustnost dovolání založit nemohou.
+Nejvyšší soud České republiky proto dovolání žalobkyně podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů řízení se neodůvodňuje (§ 243f odst. 3 o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. srpna 2014
+JUDr. Pavel H o r á k, Ph.D.
+předseda senátu
