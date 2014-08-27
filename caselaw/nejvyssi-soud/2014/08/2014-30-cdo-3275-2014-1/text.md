@@ -1,0 +1,19 @@
+30 Cdo 3275/2014
+U S N E S E N Í
+Nejvyšší soud rozhodl předsedou senátu JUDr. Pavlem Pavlíkem v právní věci žalobkyně B. J., proti žalované M. N., zastoupené JUDr. Antonií Zichovou, advokátkou se sídlem v Přerově, Jiráskova 7, o ochranu osobnosti, vedené u Krajského soudu v Ostravě – pobočka v Olomouci pod sp. zn. 74 C 23/2013, o dovolání žalobkyně proti rozsudku Vrchního soudu v Olomouci ze dne 29. ledna 2014, č.j. 1 Co 504/2013-87, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění
+(§ 243f odst. 3 o.s.ř.):
+Vrchní soud v Olomouci rozsudkem ze dne 29. ledna 2014, č.j. 1 Co 504/2013-87, výrokem I. podle § 219 občanského soudního řádu (dále jen „o.s.ř.“) potvrdil ve výroku II. rozsudek Krajského soudu v Ostravě – pobočka v Olomouci ze dne 18. října 2013, č.j. 74 C 23/2013-68, a výroky II. a III. rozhodl o náhradě nákladů řízení před soudy obou stupňů.
+Proti rozhodnutí odvolacího soudu podala žalobkyně vlastnoručně sepsané dovolání.
+K výzvě soudu o doplnění náležitostí dovolání sepsaného vlastnoručně žalobkyní tato sdělila opakovaně soudu, že si nepřeje být zastoupena advokátem, a že trvá na svém dovolání v celém rozsahu.
+Nejvyšší soud jako soud dovolací (§ 10a o.s.ř.) přihlédl k čl. II bodu 2. zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, a vyšel tak ze znění tohoto procesního předpisu účinného od 1. ledna 2014.
+Podle § 241 odst. 1 věty první o.s.ř., není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Odstavec první citovaného ustanovení neplatí, je-li dovolatel fyzická osoba, která má právnické vzdělání [§ 241 odst. 2 písm. a) o.s.ř.]. Podle odstavce 4 téhož ustanovení dovolání fyzické osoby musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem nebo notářem. Povinné zastoupení je tak zvláštní podmínkou dovolacího řízení týkající se dovolatele, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění není možno vydat rozhodnutí, jímž se řízení končí. Podle § 104 odst. 2 o.s.ř., jde-li o nedostatek podmínky řízení, který lze odstranit, učiní k tomu soud vhodná opatření. Nezdaří-li se nedostatek podmínky řízení odstranit, řízení zastaví.
+Požadavek povinného zastoupení platí jen pro podání dovolání, přičemž však tuto část dovolacího řízení je třeba chápat v širším smyslu tak, že zahrnuje nejen podání dovolání samotného, ale vztahuje se i k podání, kterým se dovolání doplňuje nebo omezuje, nebo podání, kterým se disponuje rozsahem dovolání, jeho důvody nebo dovolacím návrhem. Pokud dovolatel podá dovolání sám, je nezbytné ke splnění požadavku nuceného zastoupení vyplývajícího ze zmíněného ustanovení, aby jeho zástupce učiněné podání nahradil nebo doplnil vlastním podáním nebo aby alespoň písemně nebo ústně do protokolu sdělil soudu, že se s dovolatelem učiněným podáním ztotožňuje. Nestane-li se tak, není požadavku povinného zastoupení vyhověno (obdobně srovnej JUDr. Jaroslav Bureš, JUDr. Ljubomír Drápal, JUDr. Zdeněk Krčmář, JUDr. Michal Mazanec, Občanský soudní řád, Komentář, 6. vydání, Praha 2003, II. díl, str. 1064 až 1065).
+Z výše uvedeného plyne, že přes opatření provedená soudem prvního stupně dovolatelka nesplnila zákonem stanovenou podmínku dovolacího řízení ve smyslu § 241 odst. 1 věty první a odst. 4 o.s.ř. Dovolací soud proto řízení o dovolání zastavil pro nesplnění uvedené zvláštní podmínky dovolacího řízení (§ 241b odst. 2 část věty před středníkem a § 104 odst. 2 věta třetí o.s.ř.).
+U výroku o náhradě nákladů dovolacího řízení se odkazuje na ustanovení § 243f odst. 3 věta druhá o.s.ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 27. srpna 2014
+JUDr. Pavel Pavlík
+předseda senátu
