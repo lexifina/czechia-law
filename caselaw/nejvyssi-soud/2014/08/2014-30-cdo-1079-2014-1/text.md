@@ -1,0 +1,16 @@
+30 Cdo 1079/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Simona a soudců Mgr. Víta Bičáka a JUDr. Františka Ištvánka v právní věci žalobce J. M., zastoupeného JUDr. Jiřím Vlasákem, advokátem se sídlem v Plzni, nám. Republiky 2, proti žalované České republice – Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 424/16, o zaplacení 255.000,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 17 C 187/2011, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 9. 10. 2013, č. j. 72 Co 301/2013 - 33, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Napadeným rozhodnutím Městský soud v Praze jako soud odvolací potvrdil rozsudek soudu prvního stupně ze dne 30. 10. 2012, č. j. 17 C 187/2011-50, kterým byla zamítnuta žaloba na náhradu škody ve výši 255.000,- Kč s příslušenstvím. Škoda měla žalobci vzniknout v důsledku nesprávného úředního postupu Policie ČR.
+Rozsudek odvolacího soudu napadl žalobce v celém rozsahu dovoláním, jež však Nejvyšší soud podle ustanovení § 243c odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném od 1. 1. 2013 (viz čl. II. bod 7 zákona č. 404/2012 Sb.), dále jen „o. s. ř.“, odmítl jako nepřípustné.
+Žalobce v dovolání namítal, že pochybení policie spočívající ve zmaření důkazu, by nemělo být posouzeno jako nezákonné rozhodnutí dle § 8 zákona č. 82/1998 Sb., o odpovědnosti za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo nesprávným úředním postupem a o změně zákona České národní rady č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), ve znění zák. č. 160/2006 Sb. (dále jen „OdpŠk“), ale jako nesprávný úřední postup dle § 13 OdpŠk. Svůj názor odůvodňuje tím, že v případě posuzování pochybení dle § 8 OdpŠk, by v tomto konkrétním případě nemohla být podmínka pro náhradu škody splněna a škoda způsobená nedostatky v postupu policejního orgánu, by nemohla být nahrazena.
+Judikatura Nejvyššího soudu se ustálila v názoru, že případná pochybení a nedostatky spočívající v tom, že v řízení předcházejícím rozhodnutí o odložení věci si orgán činný v trestním řízení neopatřil dostatek skutkových podkladů pro rozhodnutí nebo že nesprávně hodnotil důkazy, nepředstavují nesprávný úřední postup ve smyslu § 13 odst. 1 zákona č. 82/1998 Sb. (srov. např. usnesení ze dne 28. 7. 2004, sp. zn. 25 Cdo 633/2004, ze dne 16. 8. 2006, sp. zn. 25 Cdo 3029/2005, ze dne 18. 1. 2007, sp. zn. 25 Cdo 295/2005, nebo ze dne 1. 9. 2009, sp. zn. 25 Cdo 2303/2009). Závěr odvolacího soudu, proti němuž směřuje námitka dovolatele, odpovídá výše uvedené rozhodovací praxi. Z výše uvedeného důvodu proto nemůže dovolatelem vymezená otázka založit přípustnost dovolání ve smyslu § 237 o. s. ř.
+Dovolání do výroku, jímž odvolací soud rozhodl o náhradě nákladů řízení, bylo rovněž odmítnuto, neboť žalobce nevymezil, v čem spatřuje splnění předpokladů přípustnosti dovolání proti němu a dovolání tak postrádá povinnou náležitost (srov. ustanovení § 241a odst. 2 o. s. ř.).
+Nákladový výrok netřeba odůvodňovat (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení nejsou přípustné opravné prostředky.
+V Brně dne 27. srpna 2014
+JUDr. Pavel Simon
+předseda senátu
