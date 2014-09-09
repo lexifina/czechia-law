@@ -1,0 +1,21 @@
+22 Cdo 2064/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jiřího Spáčila, CSc., a soudců Mgr. Michala Králíka, Ph.D., a Mgr. Davida Havlíka ve věci žalobkyně M. S., proti žalované L. V., o určení vlastnického práva, vedené u Okresního soudu v Hodoníně pod sp. zn. 4 C 227/2006, o dovolání žalobkyně proti usnesení Krajského soudu v Brně ze dne 23. srpna 2013 č. j. 38 Co 103/2013-299, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í (§ 243f odst. 3 o. s. ř.) :
+Krajský soud v Brně jako soud odvolací usnesením ze dne 23. srpna 2013 č. j. 38 Co 103/2013-299, potvrdil usnesení Okresního soudu v Hodoníně ze dne 21. listopadu 2012, č. j. 4 C 227/2006-239, kterým soud prvního stupně výrokem pod bodem I. zamítl žádost žalobkyně na ustanovení zástupce z řad advokátů, výrokem pod bodem II. odmítl podání žalobkyně z 29. 5. 2012 doplněné podáním ze dne 19. 6. 2012, podáním z 5. 9. 2012 a podáním z 5. 11. 2012. Dále rozhodl o náhradě nákladů řízení.
+Proti rozhodnutí odvolacího soudu podala žalobkyně dovolání.
+Žalobkyně sice nesplňuje podmínku zastoupení advokátem v tomto dovolacím řízení a sama rovněž nemá právnické vzdělání (§ 241 o. s. ř.), povaha rozhodnutí, proti němuž dovolání směřuje, však vylučuje, aby v posuzované věci bylo možno nedostatek podmínky povinného zastoupení považovat za překážku, jež by bránila vydání rozhodnutí, kterým se dovolací řízení končí (srov. usnesení Nejvyššího soudu z 28. dubna 1997, sp. zn. 2 Cdon 609/97, publikované v časopise Soudní judikatura, 1997, č. 80).
+Nejvyšší soud posoudil dovolání žalobkyně podle občanského soudního řádu (o. s. ř.), ve znění účinném do 31. 12. 2013 (čl. II. bod 2. Přechodná ustanovení zákona č. 293/2013 sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony).
+Dovolání není přípustné.
+V daném případě by dovolání bylo přípustné podle § 237 o. s. ř. za předpokladu, že by žalobkyně označila otázku hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu, nebo která v rozhodování dovolacího soudu nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně, případně má být vyřešena jinak. Dovolání lze podat pouze z důvodu, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci (§ 241a odst. 1 o. s. ř.).
+Dovolání žalobkyně nesplňuje předpoklady přípustnosti dovolání podle § 237 o. s. ř. Žalobkyně ani po výzvě soudu nevymezila, v jakém rozsahu rozhodnutí odvolacího soudu napadá, v čem spatřuje splnění předpokladů přípustnosti dovolání podle § 237 o. s. ř. a v čem spočívá nesprávné právní posouzení věci. Doplnila pouze údaje o účastnících řízení. Dovolání tak trpí vadami, které nebyly v soudem stanovené lhůtě odstraněny (§ 241b odst. 3 o. s. ř.). Tyto skutečnosti jsou důvodem pro odmítnutí dovolání.
+Dovolací soud přesto přezkoumal napadené rozhodnutí odvolacího soudu se zjištěním, že úvaha odvolacího soudu o tom, že podání žalobkyně ze dne 29. 5. 2012 doplněné podáním ze dne 19. 6. 2012, podáním ze dne 5. 9. 2012 a podáním ze dne 5. 11. 2012 jsou natolik nesrozumitelná, že nesplňují požadavky řádného opravného prostředku, je správná. Přitom, i kdyby uvedená podání splňovala náležitosti opravného prostředku proti usnesení soudu prvního stupně ze dne 4. května 2010, č. j. 4C 227/2006-170, nebo proti usnesení odvolacího soudu ze dne 18. října 2010, č. j. 38 Co 372/2010-193, bylo by odvolání či dovolání žalobkyně subjektivně nepřípustné, neboť soud zastavil řízení po zpětvzetí žaloby žalobkyní, které učinila prostřednictvím svého advokáta.
+Z výše uvedeného vychází rovněž správný závěr odvolacího soudu, že žalobkyně nesplňuje předpoklady pro osvobození od soudních poplatků, a proto ani předpoklad pro ustanovení zástupce z řad advokátů, neboť jde o zjevně bezúspěšné uplatňování práva.
+Vzhledem k tomu, že dovolání není přípustné, Nejvyšší soud je podle § 243c odst. 1 o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 9. září 2014
+JUDr. Jiří Spáčil, CSc.
+předseda senátu
