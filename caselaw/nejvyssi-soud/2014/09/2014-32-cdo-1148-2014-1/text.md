@@ -1,0 +1,16 @@
+32 Cdo 1148/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Pavla Příhody a JUDr. Hany Gajdziokové v právní věci žalobkyně Stavitelství B + H, spol. s r. o., se sídlem Struhadlo 7, PSČ 340 41, identifikační číslo osoby 61169609, zastoupené JUDr. Rostislavem Netrvalem, Ph.D., advokátem se sídlem v Klatovech, Zlatnická 78/1, proti žalovanému J. H., zastoupenému Mgr. Pavlem Hubálkem, advokátem se sídlem v Praze 1, Na Příkopě 1047/17, o zaplacení 1 807 242 Kč s příslušenstvím, vedené u Městského soudu v Praze pod sp. zn. 36 Cm 50/2004, o dovolání žalobkyně proti usnesení Vrchního soudu v Praze ze dne 31. října 2013, č. j. 1 Cmo 112/2013-228, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalobkyně podala dovolání proti v záhlaví označenému usnesení, jímž Vrchní soud v Praze potvrdil usnesení ze dne 18. února 2013, č. j. 36 Cm 50/2004-218, jímž Městský soud v Praze zastavil odvolací řízení, rozhodl o vrácení soudního poplatku žalobkyni a nepřiznal žalovanému právo na náhradu nákladů odvolacího řízení.
+Vzhledem k datu vydání usnesení odvolacího soudu se uplatní pro dovolací řízení
+– v souladu s bodem 7. čl. II přechodných ustanovení části první zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, a s bodem 2. čl. II přechodných ustanovení části první zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony – občanský soudní řád ve znění účinném od 1. ledna 2013 do 31. prosince 2013 (dále jen „o. s. ř.“).
+Podle doručenky, nacházející se na č. l. 230 spisu, bylo dovoláním napadené usnesení doručeno žalobkyni (jejímu právnímu zástupci) dne 5. prosince 2013. Podala-li proto žalobkyně dovolání datované dnem 5. února 2014 elektronicky až dne 6. února 2014, učinila tak po 5. únoru 2014 (srov. § 57 odst. 2 větu první o. s. ř.), kdy jí marně uplynula dvouměsíční lhůta k podání dovolání určená podle ustanovení § 240 odst. 1 věty první o. s. ř.
+Nejvyšší soud uzavřel, že žalobkyně podala dovolání opožděně, byť se tak stalo o jeden den. Proto ho bez nařízení jednání (§ 243a odst. 1 věta první o. s. ř.) podle ustanovení § 243c odst. 3 věty první a § 218a o. s. ř. pro opožděnost odmítl. I kdyby však dovolatelka podala dovolání včas, bylo by třeba ho odmítnout pro vady podle ustanovení § 243c odst. 1 o. s. ř., neboť dovolatelka v něm oproti požadavkům vymezeným pro obsah dovolání v ustanovení § 241a odst. 2 o. s. ř. neuvedla, v čem spatřuje splnění předpokladů přípustnosti dovolání (srov. § 237 o. s. ř.).
+O nákladech dovolacího řízení bylo rozhodnuto podle ustanovení § 243c odst. 3 věty první, § 224 odst. 1, § 151 odst. 1 části věty před středníkem a § 146 odst. 3 o. s. ř. Dovolatelka sice neměla se svým dovoláním úspěch, vyjádření žalovaného k podanému dovolání však nebylo možno zohlednit jako úkon právní služby ve smyslu ustanovení § 11 odst. 1 až 3 vyhlášky č. 177/1996 Sb., v rozhodném znění.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 17. září 2014
+JUDr. Miroslav G a l l u s
+předseda senátu
