@@ -1,0 +1,14 @@
+30 Cdo 1640/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Simona a soudců Mgr. Víta Bičáka a JUDr. Františka Ištvánka v právní věci žalobce Z. P., zastoupeného JUDr. Soňou Průšovou, advokátkou se sídlem v Liberci, 1. máje 97/25, proti žalované České republice – Ministerstvu financí, se sídlem v Praze 1, Letenská 15 o zaplacení 35.683.721,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 21 C 23/2010, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 16. 1. 2014, č. j. 39 Co 18/2014 – 97, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í:
+Napadeným rozhodnutím Městský soud v Praze jako soud odvolací potvrdil usnesení soudu prvního stupně ze dne 16. 10. 2013, č. j. 21 C 23/2010-85, kterým byl zamítnut nárok na vydání rozsudku pro uznání.
+Usnesení odvolacího soudu napadl žalobce v celém rozsahu dovoláním, jež však Nejvyšší soud podle ustanovení § 243c odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném od 1. 1. 2013 (viz čl. II. bod 7 zákona č. 404/2012 Sb.), dále jen „o. s. ř.“, odmítl jako nepřípustné.
+Nejvyšší soud ve své konstantní judikatuře zastává názor, že soud může vydat v souladu se zákonem usnesení podle § 114b odst. 1 o. s. ř., jen jestliže byly splněny podmínky řízení a jestliže žaloba netrpí takovými vadami, které by bránily pokračování v řízení. Jen v takovém případě je totiž možné na jeho základě řádně připravit jednání a jen za těchto okolností mohou být též splněny podmínky, za nichž se má za to, že žalovaný uznal nárok, který je proti němu uplatňován žalobou (viz rozsudky Nejvyššího soudu ze dne 12. 8. 2003, sp. zn. 21 Cdo 968/2003, a ze dne 22. 1. 2013, sp. zn. 26 Cdo 2758/2012, či usnesení Nejvyššího soudu ze dne 31. 8. 2009, sp. zn. 33 Cdo 2411/2007). Odvolací soud tak rozhodl v souladu s judikaturou Nejvyššího soudu, pokud dospěl k závěru, že výzva podle § 114b odst. 1 o. s. ř. neměla být v dané věci vůbec vydána a dovolací soud neshledal důvod, proč by se v daném případě měl od této judikatury odchýlit.
+Za situace, kdy nelze podrobit přezkumu jeden z důvodů, pro který odvolací soud nároku žalobce nevyhověl, nemohou žádné další dovolací důvody (námitky neprokázání důvodu, pro který se žalovaná nemohla k výzvě soudu ve stanovené lhůtě vyjádřit a námitky nedostatečného oprávnění osoby jednající za stát), naplnit podmínky přípustnosti dovolání podle § 237 o. s. ř., neboť ani odlišné vyřešení takto vymezeného předmětu dovolacího řízení by se nemohlo v poměrech žalobce nijak projevit, což činí jeho dovolání ve zbylém rozsahu nepřípustným (srov. usnesení Nejvyššího soudu ze dne 27. 10. 2005, sp. zn. 29 Odo 663/2003, uveřejněné pod č. 48/2006 Sbírky soudních rozhodnutí a stanovisek).
+O nákladech dovolacího řízení rozhodne soud v rámci rozhodnutí o věci samé.
+Proti tomuto usnesení nejsou přípustné opravné prostředky.
+V Brně dne 29. září 2014
+JUDr. Pavel Simon
+předseda senátu
