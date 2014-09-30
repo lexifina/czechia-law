@@ -1,0 +1,17 @@
+25 Nd 248/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Vojtka a soudců JUDr. Marty Škárové a Mgr. Miloše Póla v opatrovnické věci M. K., omezené ve svéprávnosti, zastoupené opatrovnicí V. S., o změnu opatrovníka, vedené u Okresního soudu v Prachaticích pod sp. zn. 23 P 49/2014, o návrhu opatrovnice na přikázání věci Okresnímu soudu ve Vsetíně z důvodu vhodnosti podle ustanovení § 12 odst. 2 o.s.ř., takto:
+Věc, vedená u Okresního soudu v Prachaticích pod sp. zn. 23 P 49/2014, se nepřikazuje podle § 12 odst. 2 o.s.ř. Okresnímu soudu ve Vsetíně.
+Odůvodnění:
+U Okresního soudu v Prachaticích je pod sp. zn. 23 P 49/2014 vedeno řízení o návrhu R. M., na změnu opatrovníka M. K., která byla rozsudkem Okresního soudu ve Vsetíně ze dne 14. 10. 2013, č. j. 0 Nc 2872/2012-37, omezena ve svéprávnosti a byla jí ustanovena opatrovnice V. S. Příslušnost k posouzení a rozhodnutí věci byla na Okresní soud v Prachaticích přenesena usnesením Okresního soudu ve Vsetíně ze dne 7. 2. 2014, č. j. 0 P 160/2013-57.
+Nejvyššímu soudu byl Okresním soudem v Prachaticích předložen spis sp. zn. 23 P 49/2014 spolu s návrhem opatrovnice V. S. na přikázání věci Okresnímu soudu ve Vsetíně, odůvodněný tím, že je důchodkyně a vzhledem ke vzdálenosti je pro ni částka za jízdné, ubytování a stravu dosti vysoká, kromě toho u Okresního soudu ve Vsetíně lze vyslechnout svědky, kteří by objasnili pravý stav věcí.
+Navrhovatelka R. M. s tímto návrhem nesouhlasila, neboť M. K. má bydliště v obvodu Okresního soudu v Prachaticích.
+Nejvyšší soud jako soud nejblíže společně nadřízený příslušnému soudu a soudu, jemuž má být věc přikázána (§ 12 odst. 3 o.s.ř.), dospěl k závěru, že návrh není důvodný.
+Podle § 12 odst. 2 o.s.ř. věc může být přikázána jinému soudu téhož stupně z důvodu vhodnosti.
+Důvod vhodnosti pro přikázání věci jinému soudu téhož stupně ve smyslu ustanovení § 12 odst. 2 o.s.ř. představují takové okolnosti, které umožní hospodárnější, rychlejší nebo zejména po skutkové stránce spolehlivější a důkladnější projednání věci jiným než příslušným soudem. Současně je třeba přihlížet k tomu, že místní příslušnost soudu, který má podle zákona věc projednat, je základní zásadou, a že případné přikázání věci jinému soudu představuje výjimku z této zásady, kterou je nutno – právě proto, že jde o výjimku – vykládat restriktivně.
+V posuzovaném případě důvody pro přikázání věci Okresnímu soudu ve Vsetíně uvedené opatrovnicí nepředstavují okolnosti, které by umožnily hospodárnější, rychlejší, spolehlivější nebo důkladnější projednání věci tímto soudem oproti jejímu projednání Okresním soudem v Prachaticích. Uvádí-li opatrovnice, že vzdálenost Okresního soudu v Prachaticích jí přináší zvýšené náklady, platí to tím spíše pro samotnou M. K. a zároveň i pro navrhovatelku R. M., pokud by byla věc přikázána Okresnímu soudu ve Vsetíně. Obtíže s případným výslechem navrhovaných svědků pak lze řešit prostřednictvím institutu dožádání podle § 39 o.s.ř. Byla-li již místní příslušnost ve smyslu ustanovení § 5 zákona č. 292/2013 Sb., o zvláštních řízeních soudních, přenesena na Okresní soud v Prachaticích, je v zájmu plynulosti řízení, aby v něm bylo pokračováno u tohoto soudu.
+Nejvyšší soud proto návrhu opatrovnice na přikázání věci Okresnímu soudu ve Vsetíně podle ustanovení § 12 odst. 2 o.s.ř. nevyhověl.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 30. září 2014
+JUDr. Petr Vojtek
+předseda senátu
