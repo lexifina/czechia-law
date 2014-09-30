@@ -1,0 +1,18 @@
+30 Cdo 3113/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové, Ph.D., a soudců JUDr. Vladimíra Mikuška a Mgr. Víta Bičáka v exekuční věci oprávněného Ing. J. S., proti povinné Mgr. D. Š., zastoupené JUDr. Vojtěchem Filipem, advokátem se sídlem v Českých Budějovicích, Čéčova 11, pro 270.000,- Kč s příslušenstvím, vedené pověřeným soudním exekutorem JUDr. Milanem Broncem, Exekutorský úřad České Budějovice, pod sp. zn. 8 EX 115/10, o dovolání povinné proti usnesení Krajského soudu v Českých Budějovicích ze dne 11. 3. 2014, č. j. 8 Co 426/2014-182, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Odvolací soud v záhlaví označeným rozhodnutím potvrdil usnesení ze dne 5. 2. 2014, č. j. 8 EX 115/10-173, ve výroku I. (jímž soudní exekutor udělil příklep na vydražené nemovitosti za nejvyšší podání 466.666,- Kč Mgr. vydržiteli Ing. R. K.) a odvolání povinné proti výroku II., III. a IV. téhož usnesení (jímž exekutor stanovil lhůtu k zaplacení nejvyššího podání, vydražitelem složenou dražební jistotu započetl na nejvyšší podání a rozhodl o vrácení dražební jistoty složené ostatními dražiteli) odmítl.
+Usnesení odvolacího soudu napadla povinná dovoláním. Namítá, že dovolání připouští § 237 o. s. ř., a je na dovolacím soudu, aby posoudil, zda nejde o věc zásadního významu a zda se v tomto případě odvolací soud neodchýlil od ustálené rozhodovací praxe. Vytýká soudu, že nelze postihnout exekucí nemovitost, která je z exekuce vyloučena pravomocným rozsudkem, proto v této věci podala taktéž žalobu o určení neplatnosti dražby a žádost o odstranění zřejmé nesprávnosti (nesprávného označení nemovitosti vyloučené z exekuce). Navrhla, aby dovolací soud rozhodnutí odvolacího soudu i soudního exekutora zrušil a vrátil věc k dalšímu řízení.
+Nejvyšší soud dovolání projednal a rozhodl o něm podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2013 do 31. 12. 2013 (srov. část první, čl. II bod 7 zákona č. 404/2012 Sb. a část první, čl. II, bod 2 zákona č. 293/2013 Sb.), dále jen „o. s. ř.“.
+Dovolání není přípustné.
+Z § 241a odst. 2 o. s. ř. vyplývá, že v dovolání musí být vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu se rozhodnutí napadá, vymezení důvodu dovolání, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) a čeho se dovolatel domáhá (dovolací návrh).
+Nejvyšší soud ve svém usnesení uveřejněném pod číslem 4/2014 Sbírky soudních rozhodnutí a stanovisek přijal závěr, že má-li být dovolání přípustné podle ustanovení § 237 o. s. ř. ve znění účinném od 1. 1. 2013 proto, že napadené rozhodnutí závisí na řešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu, musí být z obsahu dovolání patrno, o kterou otázku hmotného nebo procesního práva jde a od které „ustálené rozhodovací praxe“ se řešení této právní otázky odvolacím soudem odchyluje.
+Protože dovolatelka neuvedla, od které ustálené praxe dovolacího soudu se podle jejího názoru měl odvolací soud odchýlit, a to ani sdělením spisových značek v minulosti vydaných rozhodnutí dovolacího soudu (případně čísla, pod nímž tato rozhodnutí měla být publikována ve Sbírce soudních rozhodnutí a stanovisek) či jiným konkrétním způsobem, Nejvyšší soud postupoval podle § 243c odst. 1 o. s. ř. (§ 243f odst. 3 o. s. ř.) a dovolání odmítl.
+Výrok o nákladech řízení nemusí být odůvodněn (§ 243f odst. 3 druhá věta o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 30. září 2014
+JUDr. Miroslava Jirmanová, Ph.D.
+předsedkyně senátu
