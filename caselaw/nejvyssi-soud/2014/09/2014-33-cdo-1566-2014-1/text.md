@@ -1,0 +1,18 @@
+33 Cdo 1566/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Václavem Dudou ve věci žalobkyně Ing. L. M., zastoupené JUDr. Julií Šindelářovou, advokátkou se sídlem v Plzni, Mikulášská třída 9, proti žalovaným 1) Ing. J. M., zastoupenému Mgr. Robertem Kaše, advokátem se sídlem v Plzni, Pražská 43, a 2) PharmDr. M. M., o 215.500,- Kč s příslušenstvím, vedené u Okresního soudu Plzeň-město pod sp. zn. 30 C 615/2010, o dovolání žalobkyně proti rozsudku Krajského soudu v Plzni ze dne 25. září 2013, č. j. 12 Co 302/2013-193, takto:
+I. Dovolání se odmítá.
+II. Žalobkyně je povinna zaplatit žalovanému na náhradě nákladů dovolacího řízení 11.470,80 Kč k rukám Mgr. Roberta Kaše, advokáta.
+III. Ve vztahu mezi žalobkyní a žalovanou nemá žádná z nich právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalobkyně podala dovolání proti shora uvedenému rozsudku, kterým krajský soud potvrdil rozsudek Okresního soudu Plzeň-město ze dne 2. dubna 2013, č. j. 30 C 615/2010-169, jímž byla zamítnuta žaloba o zaplacení 215.500,- Kč s blíže specifikovaným úrokem z prodlení, a rozhodl o nákladech řízení.
+Podle § 241a odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění do 31. 12. 2013 (srovnej čl. II bod 2. zákona č. 293/2013 Sb. - dále jen „o. s. ř.“), v dovolání musí být vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu se rozhodnutí napadá, vymezení důvodu dovolání, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) a čeho se dovolatel domáhá (dovolací návrh).
+Podle § 237 o. s. ř. není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+Podle § 241a odst. 2 o. s. ř. je dovolatel povinen v dovolání uvést, v čem spatřuje splnění předpokladů přípustnosti dovolání. Může-li být dovolání přípustné jen podle § 237 o. s. ř., musí dovolatel vymezit, které z tam uvedených hledisek považuje za splněné, přičemž k projednání dovolání nestačí pouhá citace ustanovení § 237 o. s. ř. (či jeho části). Požadavek, aby dovolatel vymezil, v čem spatřuje splnění předpokladů přípustnosti dovolaní, znamená, že je povinen uvést, od řešení jaké otázky hmotného nebo procesního práva se odvolací soud a) odchýlil od „ustálené rozhodovací praxe“ dovolacího soudu nebo b) která taková otázka v rozhodování dovolacího soudu dosud nebyla vyřešena nebo c) která otázka hmotného nebo procesního práva je dovolacím soudem rozhodována rozdílně, d) popř. která taková právní otázka (již dříve vyřešená) má být dovolacím soudem posouzena (opět, ale) jinak.
+Posuzováno podle obsahu dovolání (§ 41 odst. 2 o. s. ř.) žalobkyně shora uvedenému požadavku nedostála. Nejvyšší soud proto její dovolání odmítl podle § 243c odst. 1 věty první o. s. ř., neboť v dovolacím řízení nelze pro tuto vadu pokračovat (viz usnesení Nejvyššího soudu ze dne 11. července 2013, sen. zn. 29 NSČR 51/2013).
+Výrok o náhradě nákladů dovolacího řízení nemusí být odůvodněn (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+Nesplní-li povinná dobrovolně, co jí ukládá vykonatelné rozhodnutí, může oprávněný podat návrh na soudní výkon rozhodnutá (exekuci).
+V Brně dne 30. září 2014
+JUDr. Václav Duda
+předseda senátu
