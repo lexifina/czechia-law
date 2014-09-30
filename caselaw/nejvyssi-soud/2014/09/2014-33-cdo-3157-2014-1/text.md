@@ -1,0 +1,13 @@
+33 Cdo 3157/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Pavlem Krbkem ve věci žalobce Z. Ž., zastoupeného Mgr. Jakubem Kratochvílem, advokátem se sídlem v Praze 1, Novomlýnská 1238/3, proti žalovanému V. K., zastoupenému JUDr. Evou Kabelkovou, advokátkou se sídlem v Plzni, Kamenická 2378/1, o zaplacení 120.000,- Kč s příslušenstvím, vedené u Okresního soudu Plzeň – sever pod sp. zn. 3 C 82/2009, o dovolání žalovaného proti usnesení Krajského soudu v Plzni ze dne 4. 3. 2014, č.j. 18 Co 396/2013-211, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Dovolání žalovaného proti v záhlaví citovanému usnesení, kterým krajský soud zrušil rozsudek okresního soudu ze dne 5. 3. 2013, č.j. 3 C 82/2009-159, neobsahuje obligatorní náležitost dovolání, a sice způsobilé vymezení toho, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (srov. § 241a odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů, dále jen „o.s.ř.“), o tuto náležitost již dovolání nemůže být doplněno (srov. § 241b odst. 3, věta první, o.s.ř.) a v dovolacím řízení pro tuto vadu nelze pokračovat.
+Může-li být dovolání přípustné jen podle § 237 o.s.ř. (jako v této věci), je dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné. Dovolatel k otázce přípustnosti dovolání uvedl, že se krajský soud odchýlil od „rozhodovací praxe vyšších soudů“. Tím nebylo vymezeno žádné ze čtyř kritérií uvedených v § 237 o.s.ř., a to ani to, podle něhož je dovolání přípustné, závisí-li napadené rozhodnutí na řešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu. K řádnému vymezení tohoto hlediska přípustnosti je třeba, aby bylo z dovolání patrno, od které ustálené rozhodovací praxe dovolacího soudu se řešení nastolené právní otázky odvolacím soudem odchyluje (srov. usnesení Nejvyššího soudu ze dne 25. 9. 2013, sp. zn. 29 Cdo 2394/2013, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod č. 4/2014). Tomuto požadavku dovolatel v dovolání (posouzeném z obsahového hlediska ve všech jeho částech) nedostál, v textu dovolání odvolacímu soudu vytýká výlučně odklon od judikatury Ústavního soudu.
+Z uvedených důvodů Nejvyšší soud dovolání odmítl (§ 243c odst. 1, věta první, o.s.ř.).
+O náhradě nákladů dovolacího řízení dovolací soud nerozhodoval, neboť tímto rozhodnutím řízení nekončí a o nákladech bude rozhodnuto v konečném rozhodnutí.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 30. září 2014
+JUDr. Pavel Krbek
+předseda senátu
