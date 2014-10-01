@@ -1,0 +1,18 @@
+32 Cdo 1203/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Pavla Příhody a JUDr. Hany Gajdziokové v právní věci žalobkyně BDSTAV MORAVA s.r.o., se sídlem v Bruzovicích 88, PSČ 739 36, identifikační číslo osoby 26807947, zastoupené Mgr. Radimem Kubicou, advokátem se sídlem
+ve Frýdku-Místku, O. Lysohorského 702, proti žalovanému STAVEBNÍ BYTOVÉ DRUŽSTVO SVORNOST., se sídlem v Karviné-Mizerově, Na Kopci 2059/4, PSČ 734 01, identifikační číslo osoby 13642928, zastoupenému JUDr. Martinem Schulhauserem, advokátem se sídlem v Kraviné-Fryštátu, Karola Sliwky 125/20, o zaplacení 2 999 922 Kč s příslušenstvím, vedené u Krajského soudu v Ostravě pod sp. zn. 15 Cm 173/2012, o dovolání žalovaného proti usnesení Vrchního soudu v Olomouci ze dne 5. března 2013, č. j. 5 Cmo 78/2013-41, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalovaný podal dovolání proti v záhlaví označenému usnesení, jímž Vrchní soud v Olomouci potvrdil usnesení Krajského soudu v Ostravě ze dne 10. ledna 2013, č. j. 15 Cm 173/2012-24, jímž byl zamítnut návrh na prominutí zmeškání lhůty k podání odporu ze dne 7. ledna 2013.
+Vzhledem k datu vydání usnesení odvolacího soudu se uplatní pro dovolací řízení – v souladu s bodem 7. čl. II přechodných ustanovení části první zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, a s bodem 2. čl. II přechodných ustanovení části první zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony – občanský soudní řád ve znění účinném od 1. ledna 2013 do 31. prosince 2013 (dále jen „o. s. ř.“).
+Dovolání trpí vadou, neboť dovolatel v dovolání oproti požadavkům vymezeným pro obsah dovolání v ustanovení § 241a odst. 2 o. s. ř. neuvedl, v čem spatřuje splnění předpokladů přípustnosti dovolání (srov. ustanovení § 237 o. s. ř.).
+Požadavek, aby dovolatel v dovolání konkrétně popsal, v čem spatřuje splnění předpokladů přípustnosti dovolání, je obligatorní náležitostí dovolání. Pouhý odkaz na § 237 o. s. ř., jak učinil dovolatel, není postačující, a to již proto, že v tomto zákonném ustanovení jsou uvedeny celkem čtyři rozdílné předpoklady přípustnosti dovolání. Může-li být dovolání přípustné jen podle § 237 o. s. ř. (jako v této věci), je dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné (srov. shodně např. usnesení Nejvyššího soudu ze dne 29. srpna 2013, sp. zn. 29 Cdo 1983/2013, jež je veřejnosti k dispozici in www.nsoud.cz), přičemž musí být z obsahu dovolání patrno, o kterou otázku hmotného nebo procesního práva jde (srov. shodně např. usnesení Nejvyššího soudu uveřejněné pod číslem 4/2014 Sbírky soudních rozhodnutí a stanovisek).
+Uvedený nedostatek nelze již odstranit, neboť lhůta pro podání dovolání, během níž tak bylo možno učinit (srov. ustanovení § 241b odst. 3 větu první o. s. ř.), dovolateli uplynula dne 3. července 2013 (srov. ustanovení § 57 odst. 2 větu první o. s. ř.). Jde přitom o takovou vadu, jež brání pokračování v dovolacím řízení, neboť v důsledku absence uvedené náležitosti nelze posoudit přípustnost dovolání.
+Nejvyšší soud proto dovolání podle ustanovení § 243c odst. 1 o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (srov. ustanovení § 243f odst. 3 větu druhou o. s. ř.).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 1. října 2014
+JUDr. Miroslav G a l l u s
+předseda senátu
