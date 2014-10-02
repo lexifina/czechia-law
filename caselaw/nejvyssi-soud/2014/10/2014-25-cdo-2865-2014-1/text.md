@@ -1,0 +1,12 @@
+25 Cdo 2865/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Vojtka a soudců JUDr. Marty Škárové a JUDr. Roberta Waltra v právní věci žalobce P. M., zastoupeného Mgr. Petrem Šmídkem, advokátem se sídlem v Liberci, Jestřábí 974/1, proti žalovanému L. J., za účasti České podnikatelské pojišťovny, a. s., Vienna Insurance Group, se sídlem v Praze 8, Pobřežní 665/23, IČO 63998530, jako vedlejší účastnice řízení na straně žalovaného, o 404.774,- Kč s příslušenstvím, vedené u Okresního soudu v Liberci pod sp. zn. 17 C 158/2004, o dovolání žalobce proti rozsudku Krajského soudu v Ústí nad Labem – pobočka v Liberci ze dne 25. 3. 2014, č. j. 36 Co 384/2013-322, takto:
+Dovolání se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Dovolání žalobce proti rozsudku Krajského soudu v Ústí nad Labem – pobočka v Liberci ze dne 25. 3. 2014, č. j. 36 Co 384/2013-322, není přípustné podle ustanovení § 237 o.s.ř., neboť uplatněné námitky nesměřují proti otázce hmotného nebo procesního práva, na jejímž vyřešení závisí napadené rozhodnutí. Odvolací soud své rozhodnutí v dovoláním napadené části založil na závěru o neexistenci příčinné souvislosti mezi dopravní nehodou a vzniklou škodou spočívající v ušlém zisku žalobce, neboť příčinou, proč odmítl pracovní zakázky, bylo žalobcovo svobodné rozhodnutí starat se o manželku po dobu její pracovní neschopnosti, ačkoli utrpěla jen lehká zranění, která nevyžadovala péči třetí osoby. Dovolatel však pouze namítá, že na nemožnosti realizovat následné pracovní zakázky, které by jinak nepochybně vykonal, nebýt škodné události, doba léčení jeho manželky neměla vliv. Uplatněné námitky tak bez ohledu na svou stručnost nesměřují proti právnímu posouzení věci, nýbrž proti zjištěnému skutkovému stavu (srov. např. rozsudky Nejvyššího soudu ze dne 21. 2. 2002, sp. zn. 21 Cdo 300/2001, a ze dne 6. 11. 2007, sp. zn. 25 Cdo 3334/2006, publikované pod C 1025 a C 5514 v Souboru rozhodnutí Nejvyššího soudu, C. H. Beck), čímž však nelze přípustnost dovolání podle § 237 o.s.ř. založit.
+Nejvyšší soud proto dovolání žalobce podle § 243c odst. 1 věty první o.s.ř. odmítl.
+O náhradě nákladů dovolacího řízení nebylo rozhodováno, neboť po částečném zrušení rozsudku soudu prvního stupně odvolacím soudem řízení pokračuje a bude v něm rozhodnuto o všech nákladech řízení.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 2. října 2014
+JUDr. Petr Vojtek
+předseda senátu
