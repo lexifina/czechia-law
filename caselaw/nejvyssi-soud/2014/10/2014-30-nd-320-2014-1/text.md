@@ -1,0 +1,19 @@
+30 Nd 320/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Lubomíra Ptáčka, Ph.D., a soudců JUDr. Pavlíka a JUDr. Pavla Vrchy, ve věci žalobce P. K., proti žalované České republice – České správě sociálního zabezpečení, se sídlem v Praze, Křížova 25, identifikační číslo organizace 000 06 963, o náhradě škody způsobené nezákonným rozhodnutím a nesprávným úředním postupem státních orgánů, vedené u Krajského soudu v Praze pod sp. zn. 37 C 5/2014, a u Vrchního soudu v Praze jako soudu odvolacího pod sp. zn. 1 Co 195/2014, o námitce podjatosti, takto:
+Soudkyně Vrchního soudu v Praze Mgr. Dagmar Javůrková není vyloučena z projednávání odvolání žalobce proti usnesení Krajského soudu v Praze ze dne 29. května 2014, č. j. 34 37 C 5/2014-35, a rozhodnutí o něm.
+O d ů v o d n ě n í :
+Ve shora uvedené věci žalobce v podání ze dne 28. srpna 2014 uvedl, že nesouhlasí, aby soudkyně Mgr. Dagmar Javůrková rozhodovala v jeho věci vedené u Vrchního soudu v Praze jako u soudu odvolacího pod sp. zn. 1 Co 195/2014. Vrchní soud v Praze usnesením ze dne 5. září 2014, č. j. 1 Co 195/2014-70, vyzval žalobce, aby doplnil podání tak, že uvede nejen, vůči komu směřuje, ale i proč, tedy údaje o konkrétních skutečnostech, které zakládají důvod jeho pochybnosti o nepodjatosti konkrétní soudkyně.
+K výzvě soudu doplnil žalobce své podání tak, že namítá podjatost soudkyně Mgr. Dagmar Javůrkové rozhodující ve věci vedené u Vrchního soudu v Praze pod sp. zn. 1 Co 195/2014 z důvodu průtahů v řízení, neboť její omluvu, že toho má moc považuje za nedostatečnou, neodůvodnitelnou a nezákonnou.
+Výše uvedenou námitku podjatosti spolu se spisem předložil Vrchní soud v Praze dne 18. září 2014 Nejvyššímu soudu.
+K námitce podjatosti se vyjádřila soudkyně Vrchního soudu v Praze Mgr. Dagmar Javůrková.
+K námitce podjatosti uvedla, že k účastníkům, jejich zástupcům a k projednávané věci nemá žádný vztah, nemá zájem na výsledku řízení, a proto není dán důvod pochybovat o její nepodjatosti. Dále uvedla, že žalobce ji opakovaně telefonicky kontaktoval a urgoval vyřízení jeho věci a z její strany byl pouze seznámen s tím, že věci jsou vyřizovány v pořadí, v jakém napadly.
+Podle § 14 odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“) jsou soudci vyloučeni z projednávání a rozhodování věci, jestliže se zřetelem na jejich poměr k věci, k účastníkům řízení nebo k jejich zástupcům je tu důvod pochybovat o jejich nepodjatosti.
+Podle § 14 odst. 4 o. s. ř. důvodem pro vyloučení soudce nejsou okolnosti, které spočívají v postupu soudce v řízení o projednávané věci nebo v jeho rozhodování v jiných věcech.
+Nejvyšší soud dospěl k závěru, že pro vyloučení soudkyně Vrchního soudu v Praze Mgr. Dagmar Javůrkové z projednání a rozhodnutí dané věci nejsou naplněny důvody.
+V posuzovaném případě z obsahu spisu nevyplývá, že by soudkyně Mgr. Dagmar Javůrková měla poměr k projednávané věci, k účastníkům či jejich zástupcům ve smyslu § 14 odst. 1 o. s. ř., a žalobce ani žádné konkrétní skutečnosti, které by svědčily pro závěr opačný, netvrdil. Žalobce svoji námitku podjatosti vůči soudkyni Vrchního soudu v Praze Mgr. Dagmar Javůrkové odůvodnil pouze skutečnostmi, které zákon v § 14 odst. 4 o. s. ř. jako důvod k vyloučení soudce výslovně vylučuje. Jinými slovy řečeno, námitka podjatosti je založena na nesouhlasu žalobce s dobou, po kterou je jeho věc před odvolacím soudem řešena, taková okolnost však ve smyslu ustanovení § 14 odst. 4 o. s. ř. není způsobilým důvodem k vyloučení soudce z projednávané věci.
+Protože nebyly shledány zákonné předpoklady pro rozhodnutí o vyloučení soudkyně Vrchního soudu v Praze Mgr. Dagmar Javůrkové z projednávání a rozhodování věci, nebylo námitce podjatosti, kterou vznesl žalobce, vyhověno.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 15. října 2014
+JUDr. Lubomír Ptáček, Ph.D.
+předseda senátu
