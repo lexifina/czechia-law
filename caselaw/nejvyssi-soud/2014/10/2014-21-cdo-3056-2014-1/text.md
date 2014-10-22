@@ -1,0 +1,15 @@
+21 Cdo 3056/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a JUDr. Zdeňka Novotného v právní věci žalobce M. R., zastoupeného Mgr. Radkem Jamborem, advokátem se sídlem v Jihlavě, Telečská č. 1720/7, proti žalované PERI, spol. s r.o. se sídlem v Jesenici u Prahy, Průmyslová č. 392, IČO 45787948, zastoupené JUDr. Miroslavem Cejnarem, advokátem se sídlem v Praze 1, Novotného lávka č. 200/5, o neplatnost výpovědi z pracovního poměru, vedené u Okresního soudu Praha-západ pod sp. zn. 7 C 13/2013, o dovolání žalované proti rozsudku Krajského soudu v Praze ze dne 25. února 2014, č. j. 23 Co 13/2014-128, takto:
+I. Dovolání žalované se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalované proti rozsudku Krajského soudu v Praze ze dne 25. 2. 2014, č. j. 23 Co 13/2014-128, není přípustné podle ustanovení § 237 o. s. ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu [k otázce konkretizace (skutkového vymezení) důvodu výpovědi z pracovního poměru dané zaměstnavatelem podle ustanovení § 52 písm. g) zákona č. 262/2006 Sb., zákoníku práce, a ke způsobu výkladu tohoto projevu vůle srov. při obdobné právní úpravě v předchozím zákoníku práce (zákon č. 65/1965 Sb.) rozsudek Nejvyššího soudu ze dne 14. 10. 1996, sp. zn. 3 Cdon 946/96, uveřejněný pod č. 29 ve Sbírce soudních rozhodnutí a stanovisek, ročník 1997, nebo - ve vztahu k vymezení důvodu okamžitého zrušení pracovního poměru - rozsudek Nejvyššího soudu ze dne 21. 11. 1996, sp. zn. 2 Cdon 198/96, uveřejněný pod č. 35 v časopisu Soudní judikatura, roč. 1998] a není důvod, aby rozhodná právní otázka byla posouzen jinak.
+Namítá-li dovolatelka s poukazem na „rozhodnutí NS ČR 1524/98“ (tj. na rozsudek Nejvyššího soudu ze dne 3. 11. 1998, sp. zn. 21 Cdo 1524/98, uveřejněný pod č. 11 v časopise Soudní judikatura, ročník 1999), že se odvolací soud při řešení otázky neplatnosti výpovědi z pracovního poměru odchýlil od ustálené rozhodovací praxe dovolacího soudu (§ 237 o. s. ř.), přehlíží, že soudy v jí zmiňované věci vycházely z jiného skutkového stavu (skutkového děje) než v projednávané věci a že proto právní závěr přijatý v uvedeném rozhodnutí na posuzovanou věc nedopadá.
+Ostatními námitkami v dovolání žalovaná uplatnila jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o. s. ř. (podrobuje kritice skutková zjištění odvolacího soudu, z nichž napadený rozsudek vychází, a současně předestírá opačné skutkové závěry, na nichž pak buduje své vlastní a od odvolacího soudu odlišné právní posouzení věci); v této části dovolání trpí nedostatkem, pro který nelze v dovolacím řízení pokračovat.
+Nejvyšší soud České republiky proto dovolání žalované podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 22. října 2014
+JUDr. Mojmír Putna
+předseda senátu
