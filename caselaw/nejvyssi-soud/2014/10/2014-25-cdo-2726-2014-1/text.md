@@ -1,0 +1,13 @@
+25 Cdo 2726/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marty Škárové a soudců JUDr. Petra Vojtka a JUDr. Roberta Waltra v právní věci žalobce J. K., zastoupeného Mgr. Robertem Tschöplem, advokátem se sídlem v Praze 4, Pod Křížkem 428/4, proti žalované JUDr. A. K., zastoupené JUDr. Jaroslavem Svejkovským, advokátem se sídlem v Plzni, Kamenická 2378/1, za účasti Generali Pojišťovny, a. s., IČO 61859869, se sídlem v Praze 2, Bělehradská 132, jako vedlejšího účastníka na straně žalované, o 631.575,- Kč s příslušenstvím, vedené u Okresního soudu Plzeň-město pod sp. zn. 18 EC 222/2010, o dovolání žalované proti usnesení Krajského soudu v Plzni ze dne 17. října 2013, č. j. 13 Co 142/2013-176, takto:
+Dovolání se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalované proti usnesení Krajského soudu v Plzni ze dne 17. října 2013, č. j. 13 Co 142/2013-176, není přípustné podle ustanovení § 237 o. s. ř., neboť uplatněné námitky nesměřují proti otázce hmotného nebo procesního práva, na jejímž vyřešení závisí napadené rozhodnutí, nýbrž se týkají zejména správnosti skutkových zjištění ohledně průběhu poskytování právní pomoci žalobci v jeho pracovněprávním soudním sporu, v němž ho žalovaná zastupovala. Dovolatelka sice v obecné poloze formuluje právní otázku (odpovědnost advokáta za škodu a příčinná souvislost mezi jejím jednáním a žalobcem tvrzenou škodou), avšak řešení této otázky konstruuje na základě poněkud jiných skutkových okolností, než těch, na nichž je právní závěr odvolacího soudu založen. Skutkovými námitkami však přípustnost dovolání založit nelze (§ 241a odst. 1 o. s. ř.).
+Pokud jde o právní posouzení, odvolací soud se při posouzení rozsahu povinností advokáta vůči jeho klientovi ve smyslu § 16 zákona č. 85/1996 Sb. neodchýlil od ustálené rozhodovací praxe dovolacího soudu (srov. např. rozsudek Nejvyššího soudu ze dne 10. 1. 2007, sp. zn. 25 Cdo 2679/2006, podle kterého je povinností advokáta uplatnit veškeré dostupné zákonné prostředky, jež mohou sloužit k ochraně zájmů klienta ve věci, která je předmětem smlouvy o poskytnutí právní pomoci) a v daném případě se nejedná ani o právní otázku, která by nebyla v rozhodnutích Nejvyššího soudu řešena, jak v dovolání dovolatelka namítá.
+Vzhledem k tomu, že není naplněn dovolací důvod způsobilý založit přípustnost dovolání a nejsou splněny podmínky přípustnosti uvedené v ust. § 237 o. s. ř., Nejvyšší soud dovolání podle § 243c odst. 1 věty první o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení bude rozhodnuto v konečném rozhodnutí o věci.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 22. října 2014
+JUDr. Marta Škárová
+předsedkyně senátu
