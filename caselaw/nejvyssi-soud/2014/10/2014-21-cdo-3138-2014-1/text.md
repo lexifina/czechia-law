@@ -1,0 +1,13 @@
+21 Cdo 3138/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a JUDr. Zdeňka Novotného v právní věci žalobce B. C., zastoupeného Mgr. Martinem Chrásteckým, advokátem se sídlem ve Zlíně, třída Tomáše Bati č. 1560, proti žalované JASY Vsetín s. r. o. se sídlem ve Vsetíně, 4. května č. 353, IČO 25860852, zastoupené JUDr. Naděždou Zetkovou, advokátkou se sídlem Vidče č. 509, o 97.242,- Kč s úrokem z prodlení, vedené u Okresního soudu ve Vsetíně pod sp. zn. 9 C 74/2011, o dovolání žalované proti rozsudku Krajského soudu v Ostravě ze dne 10. září 2013, č. j. 16 Co 120/2013-188, takto:
+I. Dovolání žalované se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalované proti rozsudku Krajského soudu v Ostravě ze dne 10. 9. 2013, č. j. 16 Co 120/2013-188, není přípustné podle ustanovení § 237 o. s. ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu [k otázce dovolání se tzv. relativní neplatnosti právního úkonu ve tříleté objektivní promlčecí lhůtě a včasného podání žaloby o určení neplatnosti právního úkonu o rozvázání pracovního poměru ve smyslu ustanovení § 72 zákona č. 262/2006 Sb., zákoníku práce, srov. rozsudek Nejvyššího soudu ze dne 27. 7. 2010, sp. zn. 21 Cdo 660/2009, uveřejněný pod č. 20 v časopisu Soudní judikatura, ročník 2011, k důsledkům nepodání žaloby o neplatnost rozvázání pracovního poměru okamžitým zrušením podle ustanovení § 56 písm. b) zákona č. 262/2006 Sb., zákoníku práce, srov. při obdobné právní úpravě v předchozím zákoníku práce (zákon č. 65/1965 Sb.) rozsudek Nejvyššího soudu ze dne 19. 3. 1997, sp. zn. 2 Cdon 475/96, který byl uveřejněn pod č. 75 v časopise Soudní judikatura, ročník 1997, a k otázce výkladu jednání v rozporu s dobrými mravy a k závěru odvolacího soudu, že „chování směřující k zákonnému výsledku není zásahem bez právního důvodu do práv a chráněných zájmů jiného (není zneužitím práva), i když je jeho vedlejším následkem vznik majetkové, popř. nemajetkové újmy na straně dalšího účastníka právního vztahu“, srov. rozsudek Nejvyššího soudu ČR ze dne 28. 6. 2000, sp. zn. 21 Cdo 992/99, uveřejněný pod č. 126 v časopise Soudní judikatura, ročník 2000] a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+Nejvyšší soud České republiky proto dovolání žalované podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 22. října 2014
+JUDr. Mojmír Putna
+předseda senátu
