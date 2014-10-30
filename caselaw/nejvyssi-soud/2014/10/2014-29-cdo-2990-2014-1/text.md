@@ -1,0 +1,15 @@
+29 Cdo 2990/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Petra Šuka a soudců Mgr. Ing. Davida Bokra a JUDr. Filipa Cilečka v právní věci žalobkyně SONITA – TECHNOS s. r. o. "v likvidaci", se sídlem v Praze 10, Nosická 2386/18, PSČ 100 00, identifikační číslo osoby 26452553, zastoupené JUDr. Jiřím Holomčíkem, advokátem, se sídlem v Praze 6, Uralská 770/6, PSČ 160 00, proti žalovanému Ing. P. M., zastoupenému JUDr. Andreou Vrzáňovou, advokátkou, se sídlem v Praze 6, Dejvická 664/46, PSČ 160 00, o zaplacení 2.100.000,- Kč s příslušenstvím, vedené u Městského soudu v Praze pod sp. zn. 74 Cm 196/2012, o dovolání Ing. P. M., zastoupeného JUDr. Františkem Novotným, advokátem, se sídlem v Praze 1, Purkyňova 74/2, PSČ 110 00, proti usnesení Vrchního soudu v Praze ze dne 13. února 2014, č. j. 14 Cmo 352/2013-77, takto:
+Dovolání se odmítá.
+Odůvodnění:
+Vrchní soud v Praze v záhlaví označeným usnesením potvrdil k odvolání Ing. P. M. usnesení ze dne 6. června 2013, č. j. 74 Cm 196/2012-59, jímž Městský soud v Praze nepřipustil jeho přistoupení jako vedlejšího účastníka do řízení na straně žalovaného.
+Proti usnesení odvolacího soudu podal Ing. P. M. dovolání, jež Nejvyšší soud podle § 243c odst. 1 a 2 zákona č. 99/1963 Sb., občanského soudního (dále též jen „o. s. ř.“) odmítl.
+Učinil tak proto, že dovolání, které není přípustné podle § 238a o. s. ř., neshledal přípustným ani podle § 237 o. s. ř. Dovoláním zpochybněný závěr odvolacího soudu, podle něhož musí mít osoba usilující o postavení vedlejšího účastníka právní zájem na výsledku řízení (tedy rozhodnutím ve věci musí být dotčena její práva a povinnosti plynoucí z hmotného práva), jednoznačně vyplývá jak z dikce § 93 odst. 1 o. s. ř., tak i judikatury Nejvyššího soudu (srov. usnesení Nejvyššího soudu ze dne 22. září 2010, sp. zn. 25 Cdo 2829/2008, či ze dne 30. června 2014, sp. zn. 32 Cdo 263/2014, jež jsou veřejnosti dostupná na webových stránkách Nejvyššího soudu). Námitka dovolatele, že žalobkyně v řízení uvádí nepravdivá tvrzení o jeho osobě a „obviňuje“ jej „v téměř identickém rozsahu jako žalovaného“, nezakládá jeho právní zájem na výsledku řízení o zaplacení peněžité částky. Případný morální či jiný neprávní zájem k založení vedlejšího účastenství nepostačuje.
+K legitimaci Ing. P. M. podat dovolání proti rozhodnutí, jímž nebylo připuštěno jeho vedlejšího účastenství na straně žalovaného, srov. obdobně usnesení Nejvyššího soudu ze dne 23. dubna 2014, sp. zn. 25 Cdo 644/2014, uveřejněné pod číslem 94/2014 Sbírky soudních rozhodnutí a stanovisek.
+O nákladech dovolacího řízení rozhodne soud prvního stupně v rozhodnutí, jímž se řízení končí (§ 151 odst. 1 o. s. ř.).
+Rozhodné znění občanského soudního řádu, podle kterého Nejvyšší soud dovolání projednal a rozhodl o něm (do 31. prosince 2013) se podává z článku II. bodu 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 30. října 2014
+JUDr. Petr Šuk
+předseda senátu
