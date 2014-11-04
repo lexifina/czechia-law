@@ -1,0 +1,12 @@
+21 Cdo 4247/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl pověřeným členem senátu JUDr. Zbyňkem Polednou v právní věci žalobce J. K., zastoupeného Mgr. Jaroslavem Erhardem, advokátem se sídlem v Plzni, Pražská č. 38/43, proti žalovanému I. P., IČO 69274665, místem podnikání v Klatovech, Hlávkova č. 761, o žalobě pro zmatečnost, vedené u Krajského soudu v Plzni pod sp. zn. 11 Co 435/2010, o dovolání žalobce proti usnesení Vrchního soudu v Praze ze dne 20. března 2014, č. j. 4 Co 226/2013-149, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky dovolání žalobce proti usnesení Vrchního soudu v Praze ze dne 20. 3. 2014, č. j. 4 Co. 226/2013-149, podle ustanovení § 243c odst. 1 věty první zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, odmítl, neboť neobsahuje údaje o tom, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 241a odst. 2 o. s. ř.). Jím vymezená otázka přípustnosti dovolání (zda za situace, kdy podání trpí vadami, které i přes výzvu soudu podle ustanovení § 43 odst. 1 o. s. ř. nebyly navrhovatelem odstraněny, má přednost odmítnutí tohoto vadného podání podle ustanovení § 43 odst. 2 o. s. ř., nebo dispoziční úkon navrhovatele v podobě včasného zpětvzetí takového podání) přípustnost dovolání založit nemůže, neboť její právní posouzení není významné pro věc samu, když se řešení této otázky nemůže projevit v poměrech dovolatele, jehož postavení vůči druhé straně zůstane ve vztahu k žalovanému nezměněno (k tomu srov. usnesení Nejvyššího soudu ze dne 27. 5. 1999, sp. zn. 2 Cdon 808/97, uveřejněné pod číslem 27/2001 Sbírky soudních rozhodnutí a stanovisek). Pro dovolací řízení je proto dovolatelem vymezená otázka bez významu. V dovolacím řízení tedy nelze pokračovat.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 části věty před středníkem o. s. ř., neboť žalobce s ohledem na výsledek řízení nemá na náhradu svých nákladů právo a ostatním účastníkům v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 4. listopadu 2014
+JUDr. Zbyněk Poledna
+pověřený člen senátu
