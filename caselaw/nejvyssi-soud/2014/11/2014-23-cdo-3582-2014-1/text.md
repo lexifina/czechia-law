@@ -1,0 +1,17 @@
+23 Cdo 3582/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedkyně JUDr. Kateřiny Hornochové a soudců JUDr. Zdeňka Dese a JUDr. Ing. Pavla Horáka, Ph.D. v právní věci žalobkyně E. O., zastoupené JUDr. Karlem Zuskou, advokátem, se sídlem v Praze 5, Radlická 1c/3185, PSČ 150 00, proti žalovaným 1) Ing. J. K., 2) J. K., zastoupenému Mgr. Martinem Vovsíkem, advokátem, se sídlem v Plzni, Malá 43/6, o zaplacení 38 800 000 Kč s příslušenstvím, vedené u Krajského soudu v Plzni pod sp. zn. 49 Cm 87/2013, o dovolání druhého žalovaného proti usnesení Vrchního soudu v Praze ze dne 5. června 2014, č. j. 8 Cmo 148/2014-134, takto:
+Dovolání druhého žalovaného se odmítá.
+O d ů v o d n ě n í :
+Krajský soud v Plzni usnesením ze dne 19. března 2014, č. j. 49 Cm 87/2013-118, žalobkyni nepovolil osvobození od placení soudních poplatků za dovolací řízení.
+Vrchní soud v Praze usnesením ze dne 5. června 2014, č. j. 8 Cmo 148/2014-134, uvedené usnesení Krajského soudu v Plzni změnil tak, že žalobkyni přiznal částečné osvobození od soudního poplatku, a to na částku 10 000 Kč.
+Proti citovanému usnesení Vrchního soudu v Praze podal druhý žalovaný dovolání, které Nejvyšší soud České republiky (dále jen „Nejvyšší soud“) odmítl podle ustanovení § 243c odst. 1 a 3 ve spojení s § 218 písm. b) zákona č. 99/1963 Sb., občanského soudního řádu (dále též jen „o. s. ř.“) pro subjektivní nepřípustnost dovolání.
+Zkoumání, zda dovolání je objektivně přípustné, totiž předchází – ve smyslu ustanovení § 243c odst. 3 a § 218 písm. b) o. s. ř. – posuzování tzv. subjektivní přípustnosti dovolání.
+Je tomu tak proto, že k podání dovolání je oprávněn pouze ten účastník, v jehož poměrech rozhodnutím odvolacího soudu nastala újma (jakkoli nepatrná) odstranitelná tím, že dovolací soud toto rozhodnutí zruší (srov. např. usnesení Nejvyššího soudu ze dne 29. července 1999, sp. zn. 20 Cdo 1760/98, uveřejněné v časopise Soudní judikatura číslo 1, ročník 2000, pod označením 7/2000, a též rozhodnutí ze dne 21. srpna 2003, sp. zn. 29 Cdo 2290/2000, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod číslem 38/2004, či ze dne 30. června 2004, sp. zn. 29 Odo 198/2003, uveřejněné v časopise Soudní judikatura číslo 8, ročník 2004, pod označením 158/2004).
+Při posuzování subjektivní přípustnosti dovolání nelze přehlédnout, že dovolatel není účastníkem právního vztahu mezi státem a žalobkyní, jakožto poplatnicí soudního poplatku (srov. např. stanovisko Nejvyššího soudu ČSR ze dne 29. září 1988, sp. zn. Cpj 257/87, publikované ve Sbírce soudních rozhodnutí a stanovisek pod číslem 2/89, či obdobně při výkladu ustanovení § 138 o. s. ř. nález Ústavního soudu ze dne 17. května 2011, sp. zn. IV. ÚS 121/11, publikované ve Sbírce nálezů a usnesení Ústavního soudu pod číslem 96/2011). Druhému žalovanému proto nepřísluší jakkoliv brojit proti posouzení výše soudního poplatku za podaný návrh (žalobu), resp. namítat, že stát (příslušný soud – § 3 zákona o soudních poplatcích) vyměřil žalobkyni soudní poplatek v nesprávné výši.
+Rozhodnutí odvolacího soudu o poplatkové povinnosti žalobkyně se nijak nedotýká poměrů druhého žalovaného a jeho dovolání proto není subjektivně přípustné.
+O nákladech dovolacího řízení, tedy i o nákladech žalobkyně spojených podáním vyjádření k dovolání druhého žalovaného, rozhodne soud prvního stupně v rozhodnutí, jímž se řízení končí (§ 151 odst. 1 o. s. ř.).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 4. listopadu 2014
+JUDr. Kateřina H o r n o c h o v á
+předsedkyně senátu
