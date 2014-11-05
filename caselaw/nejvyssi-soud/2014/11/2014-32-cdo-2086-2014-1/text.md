@@ -1,0 +1,17 @@
+32 Cdo 2086/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Pavla Příhody a JUDr. Hany Gajdziokové v právní věci žalobkyně G. O., zastoupené Mgr. Pavlem Čálkem, advokátem se sídlem v Praze 4, Hornokrčská 707/7, proti žalované Kooperativa pojišťovna, a.s., Vienna Insurance Group, se sídlem v Praze 8, Pobřežní 665/21, PSČ 186 00, identifikační číslo osoby 47116617, o zaplacení 386 649 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 27 C 133/2010, o dovolání žalobkyně proti rozsudku Městského soudu v Praze ze dne 10. prosince 2013, č. j. 16 Co 406/2013-99, takto:
+I. Dovolání se odmítá.
+II. Žádná z účastnic nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalobkyně podala dovolání proti v záhlaví označenému rozsudku, jímž Městský soud v Praze potvrdil zamítavý rozsudek Obvodního soudu pro Prahu 1 ze dne 21. března 2013, č. j. 27 C 133/2010-76 (výrok I.), a rozhodl o nákladech odvolacího řízení (výrok II.).
+Vzhledem k datu vydání rozsudku odvolacího soudu se uplatní pro dovolací řízení – v souladu s bodem 7. čl. II přechodných ustanovení části první zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, a s bodem 2. čl. II přechodných ustanovení části první zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony – občanský soudní řád ve znění účinném od 1. ledna 2013 do 31. prosince 2013 (dále jen „o. s. ř.“).
+Dovolání trpí vadou, neboť dovolatelka v dovolání oproti požadavkům vymezeným pro obsah dovolání v ustanovení § 241a odst. 2 o. s. ř. nijak neuvedla, v čem spatřuje splnění předpokladů přípustnosti dovolání (srov. ustanovení § 237 o. s. ř.).
+Nejvyšší soud ve své rozhodovací praxi opakovaně zdůrazňuje, že požadavek, aby dovolatel v dovolání konkrétně popsal, v čem spatřuje splnění předpokladů přípustnosti dovolání, je podle ustanovení § 241a odst. 2 o. s. ř. obligatorní náležitostí dovolání. Může-li být dovolání přípustné jen podle § 237 o. s. ř. (jako je tomu v projednávané věci), je dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné (srov. shodně např. usnesení Nejvyššího soudu ze dne 29. srpna 2013, sp. zn. 29 Cdo 1983/2013, jež je veřejnosti k dispozici in www.nsoud.cz), přičemž musí být z obsahu dovolání patrno, o kterou otázku hmotného nebo procesního práva jde (srov. shodně např. usnesení Nejvyššího soudu uveřejněné pod číslem 4/2014 Sbírky soudních rozhodnutí a stanovisek).
+Uvedený nedostatek nelze již odstranit, neboť lhůta pro podání dovolání, během níž tak bylo možno učinit (srov. ustanovení § 241b odst. 3 větu první o. s. ř.), dovolatelce uplynula dne 10. března 2014 (srov. § 57 odst. 2 větu první a druhou o. s. ř.). Jde přitom o takovou vadu, jež brání pokračování v dovolacím řízení, neboť v důsledku absence uvedené náležitosti nelze posoudit přípustnost dovolání.
+Nejvyšší soud proto dovolání podle ustanovení § 243c odst. 1 o. s. ř. pro vady odmítl, a to s tím, že dovolatelce rovněž vytkl nedostatek péče při sepisu dovolání i po stránce formální, když dovolání je na mnoha místech zahlceno nesrozumitelnými symboly (znaky).
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (srov. ustanovení § 243f odst. 3 větu druhou o. s. ř.).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 5. listopadu 2014
+JUDr. Miroslav G a l l u s
+předseda senátu
