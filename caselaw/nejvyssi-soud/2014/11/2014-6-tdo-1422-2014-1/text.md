@@ -1,0 +1,28 @@
+6 Tdo 1422/2014-14
+U S N E S E N Í
+Nejvyšší soud rozhodl v neveřejném zasedání konaném dne 13. listopadu 2014 o dovolání, které podal K. K. , proti usnesení Krajského soudu v Hradci Králové ze dne 18. 6. 2014, sp. zn. 10 To 184/2014, jako soudu stížnostního v trestní věci vedené u Okresního soudu v Jičíně pod sp. zn. 25 Nt 1115/2013, takto:
+Podle § 265i odst. 1 písm. a) tr. ř. se dovolání o d m í t á .
+O d ů v o d n ě n í :
+Usnesením Okresního soudu v Jičíně ze dne 5. 6. 2014, sp. zn. 25 Nt 1115/2013, bylo K. K. (dále též „dovolatel“) podle § 99 odst. 5 tr. zákoníku za použití § 351a odst. 1 tr. ř. přeměněno ochranné psychiatrické léčení ambulantní, uložené usnesením Okresního soudu v Jičíně ze dne 20. 1. 2014, č. j. 25 Nt 1115/2013-17, na ochranné psychiatrické léčení ve formě ústavní.
+O stížnosti, kterou proti tomuto usnesení podal dovolatel, rozhodl v druhém stupni Krajský soud v Hradci Králové usnesením ze dne 18. 6. 2014, sp. zn. 10 To 184/2014, jímž podle § 148 odst. 1 písm. c) tr. ř. toto odvolání zamítl.
+Proti citovanému usnesení Krajského soudu v Hradci Králové podal K. K. dovolání, přičemž uplatnil dovolací důvod podle § 265b odst. 1 písm. g), j) tr. ř.
+V odůvodnění svého mimořádného opravného prostředku uvedl (stručně shrnuto), že nebyly splněny podmínky pro přeměnu jeho ambulantní léčby na léčbu ústavní. Zdůraznil přitom mimo jiné, že ochranné léčení porušil pouze v jediném případě, léky pak nebral z důvodu zdravotních problémů po jejich požití, nebyl nikomu nebezpečný, nikoho neobtěžoval, ambulantní léčení dodržoval a jeho rodiče na něj v tomto směru také dohlížejí. Dodal, že zdravotnické zařízení nepopsalo průběh a výsledky dosavadního léčení a že „účinná ochrana společnosti“ nespočívá v tom, že bude umístěn do léčebny pouze proto, že odmítne léky, po kterých trpí nevolností a učiní tak v rozrušení, k němuž jej dovedl sám sociální pracovník.
+Dovolatel proto navrhl, aby dovolací soud tímto dovoláním napadené rozhodnutí krajského soudu ve spojení s rozhodnutím okresního soudu (výše specifikovaným) zrušil a vrátil věc k novému projednání.
+K tomuto dovolání se ve smyslu § 265h odst. 2 tr. ř. vyjádřil státní zástupce Nejvyššího státního zastupitelství (dále jen „státní zástupce“). Uvedl, že vzhledem k tomu, že v předmětné věci bylo soudem k návrhu ošetřující lékařky rozhodováno o přeměně ochranného léčení ve smyslu § 99 odst. 5 tr. zákoníku, nelze napadené rozhodnutí považovat za rozhodnutí ve věci samé ve smyslu § 265a odst. 1, 2 tr. ř., a to ani za usnesení, jímž bylo uloženo ochranné opatření (srov. rozhodnutí publikované pod č. 19/2014 Sb. rozh. tr. a usnesení Nejvyššího soudu ze dne 30. 7. 2014 sp. zn. 7 Tdo 934/2014), a tudíž proti němu není dovolání přípustné.
+Z výše uvedených důvodů navrhl, aby Nejvyšší soud v neveřejném zasedání [§ 265r odst. 1 písm. a) tr. ř. ] předmětné dovolání odmítl podle § 265i odst. 1 písm. a) tr. ř. Pro případ, že by Nejvyšší soud hodlal učinit jiné rozhodnutí, vyjádřil souhlas i ve smyslu § 265r odst. 1 písm. c) tr. ř. s projednáním věci v neveřejném zasedání.
+Nejvyšší soud jako soud dovolací (§ 265c tr. ř.) nejprve zkoumal, zda jsou v dané věci splněny podmínky přípustnosti dovolání podle ustanovení § 265a tr. ř.
+Podle § 265a odst. 1 tr. ř. lze dovoláním napadnout pravomocné rozhodnutí soudu ve věci samé, jestliže soud rozhodl ve druhém stupni a zákon to připouští. V odst. 2 ustanovení § 265a tr. ř. pak zákonodárce vymezil, co se rozumí rozhodnutím ve věci samé. Tímto rozhodnutím je:
+a) rozsudek, jímž byl obviněný uznán vinným a uložen mu trest, popřípadě ochranné opatření nebo bylo upuštěno od potrestání,
+b) rozsudek, jímž byl obviněný obžaloby zproštěn,
+c) usnesení o zastavení trestního stíhání,
+d) usnesení o postoupení věci jinému orgánu,
+e) usnesení, jímž bylo uloženo ochranné opatření,
+f) usnesení o podmíněném zastavení trestního stíhání,
+g) usnesení o schválení narovnání, nebo
+h) rozhodnutí, jímž byl zamítnut nebo odmítnut řádný opravný prostředek proti rozsudku nebo usnesení uvedenému pod písmeny a) až g).
+Jelikož jde o taxativní výčet rozhodnutí, která je možné považovat za rozhodnutí ve věci samé, proti nimž je přípustné dovolání, nelze považovat za rozhodnutí ve věci samé pro účely dovolání žádné jiné (další) rozhodnutí, které do uvedeného okruhu nepatří. Za rozhodnutí ve věci samé ve smyslu citovaného zákonného ustanovení nelze považovat rozhodnutí o přeměně ochranného léčení podle § 99 odst. 5 tr. zákoníku, neboť nejde o rozhodnutí, jímž bylo uloženo ochranné opatření. Dovolání lze podat jen proti rozhodnutí o uložení ochranného opatření, nikoliv proti rozhodnutí o prodlužování a změně forem ochranných opatření, v tomto případě ochranného léčení (srov. usnesení Nejvyššího soudu ze dne 29. 5. 2013, sp. zn. 3 Tdo 523/2013 publikované pod č. 19/2014 Sb. rozh. tr., a usnesení Nejvyššího soudu ze dne 30. 7. 2014, sp. zn. 7 Tdo 934/2014). Obviněný tedy napadá dovoláním rozhodnutí, u něhož to zákon nepřipouští.
+Za tohoto stavu Nejvyšší soud shledal, že v dané věci nebyly splněny podmínky, jež by zakládaly přípustnost podaného dovolání obviněného podle ustanovení § 265a odst. 1, odst. 2 tr. ř. Proto v neveřejném zasedání [§ 265r odst. 1 písm. a) tr. ř.] rozhodl, že se toto dovolání podle § 265i odst. 1 písm. a) tr. ř. odmítá, neboť není přípustné, aniž by se zabýval tím, zda dovolání splňuje obsahové náležitosti podle § 265f odst. 1 tr. ř., nebo přezkoumáním věci po meritorní stránce.
+P o u č e n í : Proti rozhodnutí o dovolání není s výjimkou obnovy řízení opravný prostředek přípustný (§ 265n tr. ř.).
+V Brně dne 13. listopadu 2014
+Předseda senátu:
+JUDr. Vladimír Veselý
