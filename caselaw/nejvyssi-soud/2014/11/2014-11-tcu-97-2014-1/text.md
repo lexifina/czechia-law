@@ -1,0 +1,27 @@
+11 Tcu 97/2014-41
+U S N E S E N Í
+Nejvyšší soud projednal dne 13. listopadu 2014 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl t a k t o :
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení občana České republiky L. P., rozsudkem Obvodového soudu Löbau, Spolková republika Německo, ze dne 16. 9. 2010, sp. zn. 3a Ds 420 Js 12962/09, který nabyl právní moci téhož dne, zahrnující tresty uložené mu rozsudkem Obvodového soudu Zittau ze dne 12. 1. 2010, sp. zn. 4 Ds 420 Js 2160/09, a Obvodového sudu Pirna ze dne 17. 3. 2010, sp. zn. 22 Ds 150 Js 34093/09, hledí jako na odsouzení soudem České republiky.
+O d ů v o d n ě n í :
+L. P. byl výše uvedeným rozsudkem Obvodového soudu Löbau ze dne 16. 9. 2010 uznán vinným trestnými činy krádeže a porušení pečeti a byl odsouzen k souhrnnému trestu odnětí svobody v trvání dvou let, při zahrnutí trestů uložených mu rozsudky Obvodového soudu Zittau ze dne 12. 1. 2010 a Obvodového sudu Pirna ze dne 17. 3. 2010. Současně byl zrušen souhrnný trest uložený mu rozsudkem Zemského soudu Dresden ze dne 7. 7. 2010, sp. zn. 12 Ns 150 Js 34093/09.
+Trestné činnosti, pro kterou byl odsouzen rozsudkem Obvodového soudu Löbau, se dopustil podle zjištění jmenovaného soudu tím, že
+1. Dne 19. 7. 2008 mezi 16.50 a 20.20 hod. odcizil jízdní kolo v hodnotě cca 360 € poškozeného A. H., které bylo zajištěné pomocí zámku se spirálovým lankem, jež odsouzený přeštípl, odstaveno u nádraží v G.
+2. Dne 13. 3. 2009 kolem 15.00 hod. odstranil policejní pečeť na svém osobním voze Nissan Cherry, české r. z. ....., který byl odstaven v L., H.
+3. Dne 10. 7 2009 kolem 21.00 hod. po vypáčení uzamčené brány odcizil z garáže v N., ul. S., dvě sekačky zn. Honda a Alko v celkové hodnotě 1 200 €.
+4. Dne 8. 10. 2009 odcizil (přičemž při páchání činu měl v kapse nůž „Survival“ s 21 cm dlouhou čepelí) v 9.45 z pobočky obchodu Kik v E., U. K., dvě pánské košile v celkové hodnotě 19,98 € a kolem 10.10 hod. z pobočky obchodu Aldi v E., U. K., potraviny v celkové hodnotě 2,63 €.
+Trestné činnosti, pro kterou byl odsouzen rozsudkem Obvodového soudu Zittau ze dne 12. 1. 2010, se dopustil podle zjištění tohoto soudu tím, že se dne 12. 9. 2008 okolo 21.00 hod. pokusil odcizit horské kolo s dětským přívěsem v hodnotě 500 € odstavené v Z., J., a to tak, že nejprve začal ukládat věci z dětského přívěsu do svého batohu, přičemž byl vyrušen svědkem B. a dal se na útěk.
+Trestné činnosti, pro kterou byl odsouzen rozsudkem Obvodového soudu Pirna ze dne 17. 3. 2010, se dopustil podle zjištění tohoto soudu tím, že
+1. Dne 7. 5. 2009 mezi 18.44 a 19.00 hod. na parkovišti obchodního domu Aldi v N./S., městská část L., odcizil dámské kolo zajištěné lankovým zámkem, stříbrné barvy, zakoupené v roce 2006 za 290 €.
+2. Dne 8. 5. 2009 mezi 16.00 a 18.00 hod. ve dvoře budovy na K.-L.-S., N./S., odcizil horské kolo 26, zajištěné zámkem ze spirálového lana, bílo-modro-černé barvy, zakoupené v březnu 2009 za 350 €.
+3. Dne 28. 4. 2009 mezi 21.00 a 22.00 hod. z jídelny objektu chráněného bydlení a pečovatelské služby K. V., ul. D., N./S., odcizil černý batoh s modrou vnější kapsou, v níž se nacházel svazek klíčů, poškozeného D. M.
+Ministerstvo spravedlnosti České republiky podalo ve shora uvedené věci návrh Nejvyššímu soudu na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů (dále jen „zákon“).
+Nejvyšší soud věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro rozhodnutí podle § 4a odst. 3 zákona.
+Především je třeba uvést, že podle § 4a odst. 3 zákona Nejvyšší soud na návrh Ministerstva spravedlnosti ČR rozhodne, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky, a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Z podaného návrhu a z obsahu připojeného spisového materiálu vyplývá, že odsouzený je občanem České republiky, který byl odsouzen soudem jiného členského státu Evropské unie, přičemž se odsouzení týkají skutků, které vykazují znaky trestných činů i podle příslušných právních předpisů České republiky (trestný čin krádeže podle § 205 tr. zákoníku a trestný čin maření výkonu úředního rozhodnutí a vykázání podle § 337 tr. zákoníku). Tím jsou splněny formální podmínky ustanovení § 4a odst. 3 zákona.
+V posuzované věci jsou dány i podmínky materiální povahy. Odsouzený se dopustil úmyslné trestné činnosti směřující proti zájmu společnosti na ochraně cizího majetku a dále proti zájmu na řádném výkonu rozhodnutí soudů a dalších orgánů veřejné moci a vykázání. Jednal přitom v takovém rozsahu (zejména se dopustil trestné činnosti opakovaně), že již lze tuto trestnou činnost označit za závažnou ve smyslu § 4a odst. 3 zákona.
+Pokud jde o druh trestu, byl mu uložen citelný trest odnětí svobody. Lze tedy dovodit, že podmínky ustanovení § 4a odst. 3 zákona týkající se závažnosti činu a druhu uloženého trestu jsou splněny.
+Z uvedených důvodů proto Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 13. listopadu 2014
+Předseda senátu:
+JUDr. Karel Hasch
