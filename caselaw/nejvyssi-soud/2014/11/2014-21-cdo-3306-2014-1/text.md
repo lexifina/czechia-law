@@ -1,0 +1,11 @@
+21 Cdo 3306/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Mojmíra Putny a soudců JUDr. Zbyňka Poledny a JUDr. Jiřího Doležílka v exekuční věci oprávněného I. D., zastoupeného Mgr. Janem Krátkým, advokátem se sídlem v Mladé Boleslavi, Na Kozině č. 1438, proti povinným 1) T. P., 2) R. P., a 3) Z. P., zastoupeným Mgr. Milošem Znojemským, advokátem se sídlem v Hradci Králové, Velké náměstí č. 29/39, pro 4.032.225,- Kč s příslušenstvím, vedené u Okresního soudu v Hradci Králové pod sp. zn. 0 Nc 8582/2005, o dovolání povinných proti usnesení Krajského soudu v Hradci Králové ze dne 24. března 2014, č. j. 21 Co 568/2013-295, takto:
+Dovolání povinných se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání povinných proti usnesení Krajského soudu v Hradci Králové ze dne 24. 3. 2014, č. j. 21 Co 568/2013-295, není přípustné podle ustanovení § 237 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu [k otázce důkazního břemene ve sporu o půjčce peněz uznané dlužníkem co do důvodu i výše (§ 558 zákona č. 40/1964, občanský zákoník, ve znění účinném do 31. 12. 2013) v době uznání zakládající vyvratitelnou domněnku existujícího závazku srov. ve vztahu k obsahově obdobnému ustanovení § 323 odst. 1 věta první zákona č. 513/1991 Sb., obchodní zákoník, ve znění účinném do 31. 12. 2013, rozsudek Nejvyššího soudu ze dne 29. 8. 2012, sp. zn. 29 Cdo 3664/2011, uveřejněný v časopise Soudní judikatura, ročník 2013, pod číslem 44] a není důvod, aby rozhodná právní otázka byla posouzena jinak. Nejvyšší soud České republiky proto dovolání povinných podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 18. listopadu 2014
+JUDr. Mojmír Putna
+předseda senátu
