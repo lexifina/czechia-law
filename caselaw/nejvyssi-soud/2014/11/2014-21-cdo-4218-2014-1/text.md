@@ -1,0 +1,11 @@
+21 Cdo 4218/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Mojmíra Putny a soudců JUDr. Zbyňka Poledny a JUDr. Jiřího Doležílka v exekuční věci oprávněné AMANA s.r.o. se sídlem v Černošicích, Husova č. 883, IČO 25079093, proti povinnému F. K., zastoupenému Mgr. Hubertem Müllerem, advokátem se sídlem ve Znojmě, Pražská č. 3546/46, za účasti manželky povinného L. K., pro 187.866,- Kč s příslušenstvím, vedené u soudního exekutora Mgr. Vojtěcha Jaroše, Exekutorský úřad Znojmo, pod sp. zn. 133 EX 1645/10, o dovolání povinného proti usnesení Krajského soudu v Brně ze dne 15. července 2014, sp. zn. 26 Co 91/2014, takto:
+Dovolání se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání povinného proti usnesení Krajského soudu v Brně ze dne 15. 7. 2014, sp. zn. 26 Co 91/2014, není přípustné podle ustanovení § 237 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, neboť rozhodnutí odvolacího soudu je v otázce postupu znalce při oceňování nemovitosti v nepřítomnosti povinného, který však byl o datu a místu konání místního šetření znalcem předem písemně vyrozuměn, v souladu s ustálenou rozhodovací praxí dovolacího soudu [k tomuto srov. například odůvodnění usnesení Nejvyššího soudu ze dne 8. 4. 2014, sp. zn. 21 Cdo 73/2014] a není důvod, aby rozhodná právní otázka byla posouzena jinak. Bez významu jsou námitky dovolatele o nesouladu popisu a charakteristiky oceňované nemovitosti se skutečným stavem spočívajícím v tom, že znalec při oceňování nemovitosti například nezohlednil inženýrské sítě či sklepní prostory oceňované nemovitosti, neboť se jedná o nové skutečnosti, které v dovolání nelze uplatnit (§ 241a odst. 6 o. s. ř.). Nejvyšší soud České republiky proto dovolání povinného podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. ex. řádu).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 18. listopadu 2014
+JUDr. Mojmír Putna
+předseda senátu
