@@ -1,0 +1,14 @@
+26 Cdo 4076/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně Doc. JUDr. Věry Korecké, CSc., a soudců JUDr. Miroslava Feráka a JUDr. Jitky Dýškové ve věci žalobce J. Z., zastoupeného Mgr. Vojtěchem Veverkou, advokátem se sídlem Kladno, Hajnova 40, proti žalované Vodafone Czech Republic a.s., se sídlem Praha 10, Vinohradská 167, IČO 25788001, zastoupené JUDr. Ing. Adamem Černým, LL.M., advokátem se sídlem Praha 2, Dřevná 382/2, o vyklizení nemovitosti, vedené u Okresního soudu v Lounech pod sp.zn. 5 C 49/2011, o dovolání žalované proti usnesení Krajského soudu v Ústí nad Labem ze dne 27. listopadu 2013, č.j. 11 Co 774/2013-68, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í:
+Krajský soud v Ústí nad Labem (soud odvolací) usnesením ze dne 27. 11. 2013, č.j. 11 Co 774/2013-68, zrušil rozsudek Okresního soudu v Lounech (soudu prvního stupně) ze dne 21. 5. 2012, č.j. 5 C 49/2011-42, a věc mu vrátil k dalšímu řízení.
+Proti rozsudku odvolacího soudu podala žalovaná včasné dovolání, které však není přípustné podle § 237 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění od 1. 1. 2013 do 31. 12. 2013 (srov. článek II., bod 1. přechodných ustanovení zákona č. 404/2012 Sb., a část první, článek II. bod 2 zákona č. 293/12013 Sb. – dále jen „o.s.ř.“), neboť napadené rozhodnutí nezávisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu, jak se mylně domnívá dovolatelka (§ 237 o.s.ř.), má-li za to, že odvolací soud postupoval v rozporu s rozsudkem Nejvyššího soudu ze dne 19. 6. 2001, sp.zn. 22 Cdo 2695/99. Nejde ani o případ, kdy by napadené rozhodnutí záviselo na vyřešení otázky hmotného nebo procesního práva, která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně, ani o případ, kdy má být dovolacím soudem vyřešená právní otázka posouzena jinak (což ostatně dovolatelé ani netvrdí).
+Podle § 241a odst. 1 o.s.ř. lze dovolání podat pouze z důvodu, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci. Z toho vyplývá, že důvody zmatečnosti, jiné vady řízení či pochybení ve zjištění skutkového stavu věci nelze pokládat za způsobilé dovolací důvody.
+Dovolatelka sice výslovně uplatňuje dovolací důvod nesprávného právního posouzení věci a dovozuje nesprávnost napadeného rozhodnutí (jakož i odklon od výše označeného judikátu dovolacího soudu), obsahově tak však činí prostřednictvím namítaných vad řízení, jež nejsou podle současné právní úpravy způsobilým dovolacím důvodem.
+Nejvyšší soud proto dovolání jako nepřípustné odmítl (§ 243c odst. 1 věta první o.s.ř.).
+Nejvyšší soud nerozhoduje o nákladech dovolacího řízení, nejde-li o rozhodnutí, jímž se řízení končí.
+V Brně dne 24. listopadu 2014
+Doc. JUDr. Věra Korecká, CSc.
+předsedkyně senátu
