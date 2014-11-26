@@ -1,0 +1,17 @@
+11 Tcu 156/2014-21
+U S N E S E N Í
+Nejvyšší soud projednal dne 26. listopadu 2014 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na přijetí rozhodnutí ve věci občana České republiky, obv. M. C h . podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl t a k t o :
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení M. Ch., rozsudkem Obvodního soudu Bamberg ze dne 7. 11. 2013, sp. zn. 10 Ls 2110 Js 3986/13, kterým byl uznán vinným ze spáchání trestného činu závažné krádeže v organizované zločinecké skupině v souběhu dvou skutků podle § 242 odst. 1, § 243 odst. 1 věta 2., č. 3, § 244 odst. 1 č. 2, § 244a odst. 1, § 53 německého trestního zákoníku, za který mu byl uložen trest odnětí svobody v trvání 1 (jeden) rok a 9 (devět) měsíců, hledí jako na odsouzení soudem České republiky.
+O d ů v o d n ě n í :
+Rozsudkem Obvodního soudu Bamberg ze dne 7. 11. 2013, sp. zn. 10 Ls 2110 Js 3986/13, který nabyl právní moci dne 7. 11. 2013, byl obv. M. Ch. uznán vinným ze spáchání výše uvedeného trestného činu a následně odsouzen k trestu odnětí svobody v trvání 1 (jeden) rok a 9 (devět) měsíců.
+Podle skutkových zjištění Obvodního soudu Bamberg bylo zjištěno, že:
+dne 27. 3. 2013 obv. M. Ch., společně se spoluobviněnými P. H., V. M. a R. Z. provedli předem smluvené krádeže v obchodech na území SRN, aby si následným prodejem zcizených věcí zajistil průběžný zdroj příjmů. Konkrétně:
+1. dne 27. 3. 2013 kolem 16,00 hod. odcizili v obchodě ULTIMO fashion GmbH ve městě H. bundu zn. N-Zealand za cenu 209,95 EUR, bundu typu NZA za cenu 239,95 EUR a šál zn. Scotch & Soda za cenu 49,95 EUR,
+2. dne 27. 3. 2013 mezi 9,00 a 18,45 hod. odcizili v obchodě Reno Schuhcentrum Gmbh v H. tři páry sportovních bot zn. Neon Adidas za celkovou cenu 179,85 EUR.
+Ministerstvo spravedlnosti České republiky podalo dopisem pod sp. zn. MSP-304/2014-MOT-T/7 ze dne 5. 11. 2014 Nejvyššímu soudu návrh na přijetí rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů. Tento návrh byl doručen Nejvyššímu soudu dne 7. 11. 2014.
+Podle § 4a odst. 3 tohoto zákona může Nejvyšší soud na návrh Ministerstva spravedlnosti ČR rozhodnout, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Nejvyšší soud věc přezkoumal a shledal, že odsouzený M. Ch. je občanem České republiky, byl odsouzen soudem jiného členského státu EU a odsouzení se týká skutku, který vykazuje znaky trestného činu i podle příslušných právních předpisů České republiky (trestný čin krádeže podle § 205 tr. zákoníku). Závažnost spáchaného skutku spočívá v opakované krádeži, kterou byla dvěma poškozeným způsobena škoda v celkové výši 678,- EUR. Tomu odpovídá druh a výměra uloženého trestu odnětí svobody, která je shodná s českou právní úpravou.
+Z výše uvedeného vyplývá, že jsou splněny všechny podmínky pro to, aby se na výše uvedené odsouzení obv. M. Ch. hledělo jako na odsouzení soudem České republiky, a proto Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 26. listopadu 2014
+Předseda senátu: JUDr. Stanislav Rizman
