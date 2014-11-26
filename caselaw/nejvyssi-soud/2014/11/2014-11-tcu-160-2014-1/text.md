@@ -1,0 +1,17 @@
+11 Tcu 160/2014-17
+U S N E S E N Í
+Nejvyšší soud projednal dne 26. listopadu 2014 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl t a k t o :
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení občana České republiky R. R., rozsudkem Zemského soudu Korneuburg, Rakouská republika, ze dne 13. 3. 2014, sp. zn. 505 Hv 3/14g, hledí jako na odsouzení soudem České republiky.
+O d ů v o d n ě n í :
+Rozsudkem Zemského soudu Korneuburg, Rakouská republika, ze dne 13. 3. 2014, sp. zn. 505 Hv 3/14g, který nabyl právní moci téhož dne, byl R. R. uznán vinným pokusem trestného činu krádeže vloupáním, podle rakouského trestního zákona, a odsouzen k nepodmíněnému trestu odnětí svobody v trvání 18 (osmnácti) měsíců.
+Podle skutkových zjištění cizozemského soudu odsouzený R. R. spáchal trestnou činnost skutky v podstatě tím, že dne 12. 1. 2014 v R. v úmyslu přivlastněním si cizí věci se neoprávněně obohatit, se pokusil odcizit G. K. movité věci, a sice různé cennosti v přesně nezjištěné hodnotě nepřesahující 3.000,- euro, a to za použití násilí tak, že rozbil okno jejího domu a pokusil se do něj vniknout.
+Ministerstvo spravedlnosti České republiky podalo ve shora uvedené věci Nejvyššímu soudu návrh na přijetí rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů (dále jen „zákon“).
+Nejvyšší soud věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro rozhodnutí podle § 4a odst. 3 zákona.
+Především je třeba uvést, že podle § 4a odst. 3 zákona rozhodne Nejvyšší soud na návrh Ministerstva spravedlnosti ČR, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Z podaného návrhu a z obsahu připojeného spisu vyplývá, že odsouzený R. R. je občanem České republiky, byl odsouzen cizozemským soudem a odsouzení se týká skutku, který vykazuje znaky trestného činu i podle příslušných právních předpisů České republiky (pokusu krádeže podle § 21 tr. zákoníku k § 205 tr. zákoníku). Tím jsou splněny formální podmínky ustanovení § 4a odst. 3 zákona.
+V posuzované věci jsou ovšem dány i podmínky materiální povahy. Odsouzený R. R. se z důvodů vlastního obohacení pokusil násilným způsobem vniknout do uzavřeného prostoru, kde hodlal způsobit škodu na cizím majetku. Společenská škodlivost jeho trestné činnosti je zvyšována zejména způsobem jejího provedení. Z obsahu spisového materiálu rovněž vyplývá, že byl již v minulosti odsouzen pro majetkovou trestnou činnost spáchanou v České republice i v Rakousku. Pokud jde o druh uloženého trestu, ze spisového materiálu vyplynulo, že odsouzenému byl již uložen nezanedbatelný trest odnětí svobody. Lze tedy dovodit, že jsou splněny všechny podmínky pro to, aby se na výše uvedené odsouzení R. R. hledělo jako na odsouzení soudem České republiky.
+Z uvedených důvodů proto Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 26. listopadu 2014
+Předseda senátu:
+JUDr. Antonín Draštík
