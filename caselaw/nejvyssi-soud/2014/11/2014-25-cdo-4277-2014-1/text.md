@@ -1,0 +1,12 @@
+25 Cdo 4277/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Petrem Vojtkem v právní věci žalobkyně TEMPLUM–společenské hry, s. r. o., se sídlem v Praze 5, Radlická 49, IČO 25776941, zastoupené Mgr. Alenou Novákovou, advokátkou se sídlem v Praze 2, Blanická 25, proti žalované Telefónica Czech Republic, a. s., se sídlem v Praze 4, Za Brumlovkou 266/2, IČO 60193336, o 54.186,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 30 C 102/2010, o dovolání žalobkyně proti usnesení Městského soudu v Praze ze dne 23. 4. 2013, č. j. 55 Co 56/2013-187, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Nejvyšší soud odmítl dovolání žalobkyně proti usnesení Městského soudu v Praze ze dne 23. 4. 2013, č. j. 55 Co 56/2013-187, podle ustanovení § 243c odst. 1 věty první o.s.ř., neboť neobsahuje vymezení dovolacího důvodu způsobem uvedeným v ustanovení § 241a odst. 3 o.s.ř. ani zákonem požadované údaje o tom, v čem dovolatelka spatřuje splnění předpokladů přípustnosti dovolání (§ 241a odst. 2 o.s.ř.); v dovolacím řízení tak nelze pokračovat, neboť v důsledku absence uvedených náležitostí nelze posoudit přípustnost dovolání. Dovolatelka vůbec nevymezuje, v jakých otázkách a z jakých důvodů považuje právní posouzení věci za nesprávné. Neuvádí ani, od konkrétně jaké ustálené rozhodovací praxe dovolacího soudu se odvolací soud při řešení rozhodné právní otázky odchýlil, případně zda v rozhodovací praxi dovolacího soudu ještě nebyla vyřešena, je rozhodována rozdílně anebo má být posouzena jinak. Může-li být přitom dovolání přípustné jen podle § 237 o.s.ř., je dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné, přičemž k projednání dovolání nepostačuje pouhá citace byť i jen části textu tohoto ustanovení (srov. např. usnesení Nejvyššího soudu ze dne 25. 9. 2013, sp. zn. 29 Cdo 2394/2013, publikované pod č. 4/2014 Sbírky soudních rozhodnutí a stanovisek, nebo usnesení Ústavního soudu ze dne 21. 1. 2014, sp. zn. I. ÚS 3524/13, ze dne 17. 4. 2014, sp. zn. III. ÚS 695/14, a ze dne 24. 6. 2014, sp. zn. IV. ÚS 1407/14).
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta druhá o.s.ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 28. listopadu 2014
+JUDr. Petr Vojtek
+předseda senátu
