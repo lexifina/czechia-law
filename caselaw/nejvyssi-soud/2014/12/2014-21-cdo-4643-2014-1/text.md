@@ -1,0 +1,12 @@
+21 Cdo 4643/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Mojmíra Putny a soudců JUDr. Zbyňka Poledny a JUDr. Jiřího Doležílka v právní věci žalobkyně Ing. L. H. J., zastoupené JUDr. Marcelou Kolibovou, advokátkou se sídlem v Praze 8, Třeboradická č. 755/9, proto žalované CBA International Corp. se sídlem v Akara Bldg., 24 De Castro Street, Wickham Cay I, Road Town, Tortola, Britské Panenské ostrovy, zastoupené Mgr. Janem Jandou, advokátem se sídlem v Praze 1, Revoluční č. 762/13, o vyloučení věcí z exekuce, vedené u Okresního soudu v Hodoníně pod sp. zn. 16 C 138/2012, o dovolání žalované proti rozsudku Krajského soudu v Brně ze dne 29. května 2014, č. j. 38 Co 158/2013-156, takto:
+I. Dovolání se odmítá.
+II. Žalovaná je povinna zaplatit žalobkyni na náhradu nákladů dovolacího řízení 15.300,- Kč do tří dnů od právní moci tohoto usnesení k rukám JUDr. Marcely Kolibové, advokátky se sídlem v Praze 8, Třeboradická č. 755/9.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalované proti rozsudku Krajského soudu v Brně ze dne 29. 5. 2014, č. j. 38 Co 158/2013-156, není přípustné podle ustanovení § 237 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu [k otázce použití majetku nacházejícího se v bezpodílovém spoluvlastnictví bývalých manželů k uspokojení pohledávky, která vznikla věřiteli vůči jednomu z bývalých manželů až po rozvodu manželství, avšak ještě předtím, než bylo rozvodem zaniklé majetkové společenství manželů vypořádáno, srov. například rozsudek Nejvyššího soudu ze dne 28. 5. 2009, sp. zn. 29 Cdo 1134/2007; k otázce částečného či úplného nepřiznání náhrady nákladů řízení podle ustanovení § 150 o. s. ř. v řízení o vyloučení věcí z exekuce srov. odůvodnění rozsudku Krajského soudu v Hradci Králové ze dne 24. 2. 2011, sp. zn. 23 Co 35/2011, uveřejněného pod číslem 21/2012 Sbírky soudních rozhodnutí a stanovisek] a není důvod, aby rozhodné právní otázky byly posouzeny jinak. Nejvyšší soud České republiky proto dovolání žalované podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 4. prosince 2014
+JUDr. Mojmír Putna
+předseda senátu
