@@ -1,0 +1,14 @@
+25 Cdo 3682/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu JUDr. Martou Škárovou v právní věci žalobkyně FERRARA MASSIMO, s. r. o., se sídlem v Duchcově, Tyršova 542, IČO 25424335, zastoupené JUDr. Janem Hajným, advokátem se sídlem v Teplicích, Masarykova třída 1208, proti žalovanému P. P., s místem podnikání v Bílině, Opletalova 19/4, IČO 62747908, zastoupeného JUDr. Dominikem Hinerem, advokátem se sídlem v Hrobě, Duchcovská 247, za účasti Allianz pojišťovny, a. s., se sídlem v Praze 8, Ke Štvanici 656/3, IČO 47115971, jako vedlejšího účastníka na straně žalovaného, o 188.016,- Kč, vedené u Krajského soudu v Ústí nad Labem pod sp. zn. 20 Cm 245/2009, o dovolání žalovaného proti rozsudku Vrchního soudu v Praze ze dne 24. února 2014, č. j. 6 Cmo 345/2013-249, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Přípustnost dovolání žalovaného proti rozsudku Vrchního soudu v Praze ze dne 24. února 2014, č. j. 6 Cmo 345/2013-249, se řídí podle § 237 o. s. ř. ve znění účinném od 1. 1. 2013. Má-li být dovolání přípustné, je dovolatel povinen vymezit, které ze zákonných hledisek v tomto ustanovení uvedených považuje za splněné. Z dovolání musí být proto patrno, kterou otázku hmotného či procesního práva, na jejímž řešení napadené rozhodnutí závisí, má dovolatel za nesprávně vyřešenou, od které ustálené rozhodovací praxe dovolacího soudu se při řešení této otázky odvolací soud odchyluje, nebo zda otázka dovolacím soudem dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má být dovolacím soudem vyřešená právní otázka posouzena jinak (srov. např. usnesení Nejvyššího soudu České republiky ze dne 25. září 2013, sp. zn. 29 Cdo 2394/2013, uveřejněné na internetových stránkách Nejvyššího soudu – www.nsoud.cz).
+Z obsahového hlediska dovolání žalovaného nesplňuje shora uvedené požadavky na vymezení předpokladů jeho přípustnosti. Uplatněné dovolací námitky nesměřují proti otázce hmotného nebo procesního práva, na jejímž vyřešení závisí napadené rozhodnutí, nýbrž zpochybňují zejména skutková zjištění ohledně průběhu nehodového děje (poškození mramorových desek), namítá nedostatek skutkových zjištění a neprovedení všech důkazů a ve své podstatě pouze rozporuje skutkový stav, z něhož vychází rozhodnutí odvolacího soudu. Žalovaný se v podstatě domáhá přezkumu rozsudku odvolacího soudu a soudům vytýká nesprávné hodnocení provedených důkazů.
+Nejvyšší soud dovolání odmítl podle § 243c odst. 1 věty první o. s. ř., neboť v dovolacím řízení nelze pro uvedený nedostatek pokračovat (srov. např. usnesení Nejvyššího soudu ze dne 11. července 2013, sen. zn. 29 NS ČR 51/2013).
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 10. prosince 2014
+JUDr. Marta Škárová
+předsedkyně senátu
