@@ -1,0 +1,18 @@
+32 Cdo 2641/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Pavla Příhody a JUDr. Hany Gajdziokové v právní věci žalobkyně GE Money Bank, a.s., se sídlem v Praze 4 - Michle, Vyskočilova 1422/1a, PSČ 140 28, identifikační číslo osoby 25672720, zastoupené JUDr. Marií Cilínkovou, advokátkou se sídlem v Praze 1, Bolzanova 1615/1, proti žalovanému P. B., zastoupenému Mgr. Alexandrou Juráčkovou, advokátkou se sídlem v Praze 6, Markétská 1/28, o zaplacení 99 244 Kč s příslušenstvím, vedené u Okresního soudu v Litoměřicích pod sp. zn. 8 C 191/2008, o dovolání žalovaného proti usnesení Krajského soudu v Ústi nad Labem ze dne 3. března 2014, č. j. 17 Co 706/2013-274, takto:
+I. Dovolání se odmítá.
+II. Žalovaný je povinen zaplatit žalobkyni na náhradě nákladů dovolacího řízení částku 3 385,50 Kč do tří dnů od právní moci tohoto usnesení k rukám její zástupkyně JUDr. Marie Cilínkové.
+Odůvodnění:
+Žalovaný podal dovolání proti v záhlaví označenému usnesení, jímž Krajský soud v Ústí nad Labem potvrdil usnesení Okresního soudu v Litoměřicích ze dne 12. srpna 2013, č. j. 8 C 191/2008-263, jímž byl zamítnut návrh žalovaného, aby soud rozhodl o neúčinnosti doručení rozsudku Okresního soudu v Litoměřicích ze dne 8. června 2011, č. j. 8 C 191/2008-211, a bylo rozhodnuto o nákladech řízení (výrok I.), a dále rozhodl o nákladech odvolacího řízení (výrok II.).
+Nejvyšší soud projednal dovolání a rozhodl o něm – v souladu s bodem 7. čl. II přechodných ustanovení části první zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, a s bodem 2. čl. II přechodných ustanovení části první zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony – podle občanského soudního řádu ve znění účinném od 1. ledna 2013 do 31. prosince 2013 (dále jen „o. s. ř.“).
+Dovolání trpí vadou, neboť dovolatel v dovolání oproti požadavkům vymezeným pro obsah dovolání v ustanovení § 241a odst. 2 o. s. ř. neuvedl, v čem spatřuje splnění předpokladů přípustnosti dovolání (srov. ustanovení § 237 o. s. ř.).
+Požadavek, aby dovolatel v dovolání konkrétně popsal, v čem spatřuje splnění předpokladů přípustnosti dovolání, je obligatorní náležitostí dovolání. Může-li být dovolání přípustné jen podle § 237 o. s. ř. (jako v této věci), je dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné (srov. shodně např. usnesení Nejvyššího soudu ze dne 29. srpna 2013, sp. zn. 29 Cdo 1983/2013, jež je veřejnosti k dispozici in www.nsoud.cz), přičemž musí být z obsahu dovolání patrno, o kterou otázku hmotného nebo procesního práva jde (srov. shodně např. usnesení Nejvyššího soudu uveřejněné pod číslem 4/2014 Sbírky soudních rozhodnutí a stanovisek).
+Uvedený nedostatek nelze již odstranit, neboť lhůta pro podání dovolání, během níž tak bylo možno učinit (srov. ustanovení § 241b odst. 3 větu první o. s. ř.), dovolateli uplynula dne 2. června 2014 (srov. § 57 odst. 2 větu první a druhou o. s. ř.). Jde přitom o takovou vadu, jež brání pokračování v dovolacím řízení, neboť v důsledku absence uvedené náležitosti nelze posoudit přípustnost dovolání.
+Nejvyšší soud proto dovolání podle ustanovení § 243c odst. 1 o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (srov. ustanovení § 243f odst. 3 větu druhou o. s. ř.).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+Nesplní-li povinný dobrovolně, co mu ukládá vykonatelné rozhodnutí, může se oprávněná domáhat výkonu rozhodnutí.
+V Brně dne 11. prosince 2014
+JUDr. Miroslav Gallus
+předseda senátu
