@@ -1,0 +1,14 @@
+28 Cdo 4763/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu Mgr. Petra Krause a soudců JUDr. Jana Eliáše, Ph.D., a Mgr. Miloše Póla ve věci žalobkyně obce Držovice, IČ: 750 82 144, se sídlem v Držovicích, ul. SNP 37, zastoupené Mgr. Janou Zwyrtek Hamplovou, advokátkou se sídlem v Mohelnici, Olomoucká 36, proti žalovanému statutárnímu městu Prostějov, IČ: 002 88 659, se sídlem v Prostějově, T. G. Masaryka 130/14, „o určení výše doplatku“ a o zaplacení částky 5.421.439,29 Kč s příslušenstvím“, vedené u Okresního soudu v Prostějově pod sp. zn. 8 C 37/2008, o dovolání žalobce proti usnesení Krajského soudu v Brně ze dne 9. července 2014, č. j. 17 Co 458/2012
+-336, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalobkyně podala dovolání proti shora označenému usnesení Krajského soudu v Brně, jímž tento soud zrušil rozsudek Okresního soudu v Prostějově ze dne 20. května 2011, č. j. 8 C 37/2008-255, ve výrocích I, II a III a v tomto rozsahu řízení zastavil.
+Nejvyšší soud odmítl podané dovolání podle ustanovení § 243c odst. 1, věta první, zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), neboť dovolání nemá náležitosti vyžadované § 241a odst. 2 o. s. ř., zejména v něm není uved údaj o tom, v čem dovolatelka spatřuje splnění předpokladů přípustnosti dovolání (k tomu srov. k tomu např. usnesení Nejvyššího soudu ze dne 25. září 2013, sp. zn. 29 Cdo 2394/2013, uveřejněné pod číslem 4/2014 Sbírky soudních rozhodnutí a stanovisek, usnesení Nejvyššího soudu ze dne 28. listopadu 2013, sen. zn. 29 ICdo 43/2013, či usnesení Nejvyššího soudu ze dne 29. srpna 2013, sp. zn. 29 Cdo 2488/2013 – spolu s ostatními rozhodnutími Nejvyššího soudu dostupné na www.nsoud.cz; nebo důvody usnesení Ústavního soudu ze dne 21. ledna 2014, sp. zn. I. ÚS 3524/13 /jímž odmítl ústavní stížnost proti usnesení Nejvyššího soudu sp. zn. 29 Cdo 2488/2013, přisvědčuje pod bodem 14 odůvodnění závěru Nejvyššího soudu o důvodech odmítnutí dovolání/, usnesení Ústavního soudu ze dne 2. února 2014, sp. zn. IV. ÚS 3982/13, či usnesení Ústavního soudu ze dne 17. dubna 2014, sp. zn. III. ÚS 695/14 – jež jsou veřejnosti dostupná na webových stránkách Ústavního soudu). Zmíněné vady dovolání, pro něž nelze v dovolacím řízení pokračovat, nebyly dovolatelkou v zákonem stanovené lhůtě pro podání dovolání odstraněny (srov. § 241b odst. 3, § 243b o. s. ř.).
+Právo na náhradu nákladů dovolacího řízení nebyly přiznány žádnému z účastníků, neboť k náhradě oprávněnému žalovanému (srov. § 243c odst. 3 věty první, § 224 odst. 1, § 151 odst. 1 části věty před středníkem a § 146 odst. 3 o. s. ř.) v tomto řízení náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 11. prosince 2014
+Mgr. Petr Kraus
+předseda senátu
