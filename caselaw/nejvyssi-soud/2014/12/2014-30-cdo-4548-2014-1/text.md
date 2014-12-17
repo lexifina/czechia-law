@@ -1,0 +1,14 @@
+30 Cdo 4548/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Vrchy a soudců JUDr. Pavla Pavlíka a JUDr. Lubomíra Ptáčka, PhD., v právní věci žalobce M. F., zastoupeného, Mgr. Janem Soukupem, advokátem se sídlem v Praze 1, Konkviktská 12, proti žalovanému J. F., zastoupenému JUDr. Hanou Lisou, advokátkou se sídlem v Praze 3, Koněvova 1107/54, o určení vlastnického práva k nemovitostem, vedené u Obvodního soudu pro Prahu 5 pod sp. zn. 13 C 21/2011, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 5. února 2014, č. j. 19 Co 464/2013-88, takto:
+I. Dovolání žalobce se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í
+(§ 243f odst. 3 o. s. ř.):
+Dovolání žalobce (dále již „dovolatel“) proti rozsudku Městského soudu v Praze (dále již „odvolací soud“) ze dne 5. února 2014, č. j. 19 Co 464/2013-88, jímž byl ve věci samé potvrzen rozsudek Obvodního soudu pro Prahu 5 ze dne 27. února 2012, č. j. 13 C 21/2011-37, kterým byla zamítnuta žaloba na určení, že dovolatel je spoluvlastníkem v rozsahu id. 1/6 specifikovaných nemovitostí, je třeba podle § 243c odst. 1 o. s. ř. odmítnout, neboť odvolací soud při řešení právní otázky vymezené v dovolání (týkající se platnosti právního úkonu učiněného povinným po doručení usnesení o nařízení exekuce na jeho majetek) se nijak neodchýlil od judikatury Nejvyššího soudu. Velký senát občanskoprávního a obchodního kolegia totiž v rozsudku ze dne 9. března 2011, sp. zn. 31 Cdo 4545/2008 (publikovaném ve Sbírce soudních rozhodnutí a stanovisek pod č. 84/2011, který je veřejnosti přístupný také na webových stránkách Nejvyššího soudu http://www.nsoud.cz), zaujal právní názor, že je-li zastavena exekuce, aniž jí byl postižen majetek, s nímž povinný nakládal v rozporu s generálním inhibitoriem ve smyslu ustanovení § 44 odst. 7 zákona č. 120/2001 Sb. ve znění účinném do 31. 10. 2009, považují se úkony, jimiž povinný s tímto majetkem nakládal za trvání exekuce, za platné), přičemž není důvod, aby předmětná právní otázka byla řešena jinak. Dovolatelem v dovolání označená rozhodnutí přitom nijak nenarušují právní dosah uvedeného rozhodnutí velkého senátu Nejvyššího soudu, přičemž samotná dovolatelova právní polemika s rozhodnutím velkého senátu přirozeně přípustnost dovolání nezakládá. Lze tedy uzavřít, že odvolací soud napadeným rozsudkem rozhodl v souladu s ustálenou judikaturou Nejvyššího soudu, od níž není důvod se ani v této věci jakkoli odchylovat.
+Nejvyšší soud proto dovolání dovolatele podle § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta poslední o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 17. prosince 2014
+JUDr. Pavel Vrcha
+předseda senátu
