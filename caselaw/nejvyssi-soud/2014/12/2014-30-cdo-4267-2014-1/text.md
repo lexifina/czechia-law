@@ -1,0 +1,15 @@
+30 Cdo 4267/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Vrchy a soudců JUDr. Pavla Pavlíka a JUDr. Lubomíra Ptáčka, Ph.D., v právní věci žalobkyně Vigor Invest, s. r. o., se sídlem v Kralicích nad Oslavou, identifikační číslo osoby 262 87 242, zastoupené JUDr. MgA. Michalem Šalomounem, Ph.D., advokátem se sídlem v Třebíči, Bráfova 52, proti žalované České republice – Ministerstvu dopravy, se sídlem v Praze 1, nábřeží Ludvíka Svobody 1222/12, o zaplacení částky 2.481.838,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 31 C 67/2012, o dovolání žalobkyně proti rozsudku Městského soudu v Praze ze dne 22. května 2014, č. j. 29 Co 112/2014-77, takto:
+I. Dovolání žalobkyně se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í
+(§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky (dále již „Nejvyšší soud“ nebo „dovolací soud“) konstatuje, že dovolání žalobkyně (dále již „dovolatelka“) proti shora v záhlaví citovaného rozsudku Městského soudu v Praze (dále již „odvolací soud“), není přípustné podle ustanovení § 237 o. s. ř.
+Polemizuje-li dovolatelka ve svém dovolání se závěry soudů obou stupňů, dle nichž ze strany státu nedošlo ve vztahu k ní k nesprávnému úřednímu postupu ve smyslu zákona č. 82/1998 Sb., pak nelze souhlasit s tím, že by její námitky nastolovaly takovou právní otázku, která by byla způsobilá založit přípustnost dovolání. Její posouzení ze strany odvolacího soudu zcela odpovídá dosavadní judikatuře Nejvyššího soudu i soudu Ústavního soudu České republiky (srov. např. usnesení Ústavního soudu ze dne 15. září 2005, sp. zn. III. ÚS 134/05, usnesení Ústavního soudu ze dne 9. dubna 1998, sp. zn. III. ÚS 380/97, nález Ústavního soudu ze dne 3. října 2001, sp. zn. II. ÚS 93/99, jež jsou veřejnosti k dispozici na webových stránkách Ústavního soudu www.nalus.usoud.cz, rozsudek Nejvyššího soudu ze dne 2. září 2004, sp. zn. 25 Cdo 1971/2003, usnesení Nejvyššího soudu ze dne 19. února 2009, sp. zn. 30 Cdo 4863/2008, rozsudek Nejvyššího soudu ze dne 28. ledna 2004, sp. zn. 25 Cdo 2222/2002, publikovaný v Souboru civilních rozhodnutí Nejvyššího soudu pod C 2391, sešit 28/2004, usnesení Nejvyššího soudu ze dne 8. července 2011, sp. zn. 28 Cdo 425/2010, jež jsou veřejnosti k dispozici na webových stránkách Nejvyššího soudu http://www.nsoud.cz), podle níž za výkon veřejné moci není považováno, pokud stát v soukromoprávních právních vztazích vystupuje vůči jednotlivcům, sociálním skupinám i celé společnosti v rovném postavení, při němž vůči nim nedochází ze strany státu k vynucování vůle vyjadřující veřejný (státní či obecní) zájem a k rozhodování o právech, právem chráněných zájmech či povinnostech těchto subjektů.
+Nejvyšší soud proto dovolání žalobkyně podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta poslední o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 17 prosince 2014
+JUDr. Pavel V r c h a
+předseda senátu
