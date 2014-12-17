@@ -1,0 +1,16 @@
+30 Cdo 5003/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Lubomírem Ptáčkem, Ph.D., v právní věci žalobce R. T., t.č. ve věznici v Karviné, PS 42, Karviná, zastoupeného obecným zmocněncem Janem Krupičkou, trvale bytem Panenský Týnec 33, Louny, proti žalované České republice – Ministerstvu spravedlnosti, identifikační číslo osoby 000 25 429, se sídlem Praha 2, Vyšehradská 16, o zaplacení 3,700.000,- Kč, ve věci vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 13 C 80/2012, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 12. prosince 2013, č.j. 35 Co 510/2013 – 64, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Žalobce (dále jen „dovolatel“) podal dne 12. března 2014 dovolání proti usnesení Městského soudu v Praze (dále jen „odvolacího soudu“) ze dne 12. prosince 2013, č.j. 35 Co 510/2013 – 64, jímž bylo potvrzeno Obvodního soudu pro Prahu 2 ze dne 10. října 2013, č.j. 13 C 80/2012 – 55, kterým bylo rozhodnuto, že se žalobci nepřiznává osvobození od soudních poplatků.
+Nejvyšší soud České republiky jako soud dovolací (§ 10a občanského soudního řádu, dále jen „o. s. ř.“) věc projednal podle hlavy třetí, části čtvrté o. s. ř. (ve znění účinném od 1. 1. 2013, bod 1. čl. II zákona č. 404/2012 Sb.) bez nařízení jednání (§ 243a odst. 1 věta prvá o. s. ř.) a po zjištění, že dovolání proti pravomocnému usnesení odvolacího soudu bylo podáno oprávněnou osobou (účastníkem řízení) v zákonné lhůtě (§ 240 odst. 1 o. s. ř.) dospěl k závěru, že věcnému rozhodnutí o dovolání brání nedostatek podmínky dovolacího řízení.
+Ustanovení § 241 o. s. ř., které určuje tzv. povinné (nucené) zastoupení dovolatele při podání dovolání, představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit (postupem uvedeným v ustanovení § 241b odst. 2 o. s. ř.), bez jejíhož splnění však nelze meritorně (věcně) rozhodnout o dovolání.
+V posuzované věci podal dne 12. března 2014 dovolatel skrze svého obecného zmocněnce, pana J. K., včasné dovolání proti usnesení odvolacího soudu, aniž by při tomto úkonu byl zastoupen advokátem. Dovolání nebylo advokátem sepsáno a nebylo prokázáno (a ani tvrzeno), že by žalobce měl právnické vzdělání [§ 241 odst. 2 písm. a), § 241 odst. 4 o. s. ř.]. Usnesením Obvodního soudu pro Prahu 2 ze dne 11. září 2014, č.j. 13 C 80/2012 – 78, byl žalobce vyzván, aby si v 15-ti denní lhůtě zvolil advokáta pro dovolání a předložil soudu jeho plnou moc, přičemž byl poučen o následcích v případě, že tuto plnou moc nepředloží. Usnesení bylo doručeno dne 29. září 2014; dovolatel na tuto výzvu nijak nereagoval a plnou moc pro dovolací řízení nepředložil.
+Z uvedeného je zřejmé, že dovolatel nesplnil zákonem stanovenou podmínku, že dovolání bude sepsáno advokátem podle ustanovení § 241 odst. 4 o. s. ř., a proto Nejvyšší soud řízení o dovolání žalobce – aniž by se mohl zabývat dalšími okolnostmi – podle ustanovení § 241b odst. 2 věta před středníkem a § 104 odst. 2 věty třetí o. s. ř. zastavil.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 17. prosince 2014
+JUDr. Lubomír Ptáček, Ph.D.
+předseda senátu
