@@ -1,0 +1,16 @@
+30 Cdo 4846/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl ve věci oprávněné TARXAN CONSULTING s. r. o., se sídlem v Českých Budějovicích, Jizerská 1076/2, identifikační číslo osoby 28127978, proti povinné A. N., o procesní nástupnictví, vedené u Okresního soudu v Českých Budějovicích pod sp. zn. 49EXE 1808/2013, o dovolání oprávněné proti usnesení Krajského soudu v Českých Budějovicích ze 4. září 2014, č. j. 22Co 1590/2014-109, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Proti shora označenému rozhodnutí, jímž krajský soud potvrdil usnesení z 8. července 2014, č. j. 49 EXE 1808/2013-90, kterým okresní soud rozhodl, že v exekučním řízení bude nadále pokračováno na straně povinného s A. N., podala oprávněná dovolání.
+Dovolací soud vzhledem k ustanovení článku II., bodů 1. a 7., části první zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, o dovolání rozhodl podle občanského soudního řádu ve znění účinném od 1. ledna do 31. prosince 2013.
+Podle ustanovení § 241a odst. 2 o. s. ř. musí být vedle obecných náležitostí (§ 42 odst. 4 o. s. ř.) v dovolání uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu se rozhodnutí napadá, vymezení důvodu dovolání, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) a čeho se dovolatel domáhá (dovolací návrh).
+Dovolání, které neobsahuje údaje o tom, v jakém rozsahu se rozhodnutí odvolacího soudu napadá, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání nebo které neobsahuje vymezení důvodu dovolání, může být o tyto náležitosti doplněno jen v průběhu trvání lhůty k dovolání.
+Z uvedeného vyplývá, že neobsahuje-li dovolání údaj o tom, v jakém rozsahu nebo z jakých důvodů se rozhodnutí odvolacího soudu napadá, jde o vadu podání, kterou může dovolatel odstranit z vlastní iniciativy nebo na výzvu soudu jen do uplynutí dvouměsíční lhůty k podání dovolání. Marným uplynutím propadné (prekluzívní) lhůty se původně odstranitelné vady dovolání stávají neodstranitelnými
+V souzené věci dovolací lhůta uplynula 15. prosince 2014. Dovolatel své vlastnoručně sepsané dovolání z 15. 10. 2014 řádně nedoplnil, je tedy třeba toto dovolání, které je nezpůsobilé zahájit dovolací řízení, za přiměřeného použití ustanovení § 43 odst. 2, věty první, o. s. ř. - aniž se Nejvyšší soud zabýval nedostatkem povinného zastoupení dovolatele (§ 241b odst. 2 o. s. ř.) - odmítnout (srov. usnesení Nejvyššího soudu ze dne 5. 2. 2003, sp. zn. 21 Cdo 1730/2002, usnesení Nejvyššího soudu ze dne 27. 1. 2005, sp. zn. 29 Odo 1060/2003, usnesení Nejvyššího soudu ze dne 18. 6. 2003, sp. zn. 29 Odo 108/2002, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek 3/2004 pod č. 21).
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn skutečností, že povinnému, jenž by jinak měl na tuto náhradu právo podle ustanovení § 243b odst. 5, § 224 odst. 1 a § 146 odst. 3 věty první o.s.ř., náklady tohoto řízení prokazatelně (podle obsahu spisu) nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 18. prosince 2014
+JUDr. Vladimír Mikušek předseda senátu
