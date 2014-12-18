@@ -1,0 +1,16 @@
+25 Cdo 4634/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marty Škárové a soudců JUDr. Petra Vojtka a JUDr. Roberta Waltra v právní věci žalobce TEMPLUM-společenské hry s.r.o., Praha 5, Radlická 49, PSČ 15000, IČO: 257 76 941, proti žalovaným 1) České republice – Ministerstvu spravedlnosti, se sídlem Vyšehradská 16, Praha 2, IČO: 000 25 429, 2) JUDr. I. S., soudkyni Městského soudu v Praze, Spálená 4, Praha 2, 3) JUDr. I. K., soudkyni Městského soudu v Praze, Spálená 4, Praha 2, 4) JUDr. Z. S., soudkyni Městského soudu v Praze, Spálená 4, Praha 2, o 208.262 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 25 C 108/2012, o odvolání žalobce proti usnesení Vrchního soudu v Praze ze dne 18. srpna 2014, č. j. Nco 99/2014-186, takto:
+Řízení se zastavuje.
+Odůvodnění:
+Usnesením ze dne 18. srpna 2014, č. j. Nco 99/2012-186, Vrchní soud v Praze rozhodl, že soudci JUDr. J. K., JUDr. R. Š. a JUDr. A.V., členové senátu 30 Co Městského soudu v Praze, nejsou vyloučení z projednání a rozhodování ve věci vedené u tohoto soudu pod sp. zn. 30 Co 274/2014.
+Žalobce se domáhá, aby Nejvyšší soud uvedené usnesení zrušil. Vedle tvrzení, že vrchní soud rozhodl o jím uplatněné námitce podjatosti nesprávně, žalobce také mimo jiné uvádí, že poučení o nepřípustnosti podání opravného prostředku, obsažené v napadeném usnesení, nepovažuje za správné.
+Podle ustanovení § 16 odst. 1 o.s.ř. o tom, zda je soudce vyloučen, rozhodne nadřízený soud. Odvolání je ovšem opravným prostředkem proti rozhodnutí soudu prvního stupně (§ 201 o.s.ř.).
+Pojem „nadřízený soud“ je-li použit občanským soudním řádem k určení věcné příslušnosti soudu, vychází z organizačních vztahů uvnitř soustavy soudů, nikoli ze vztahů instančních a s pojmem „soud prvního stupně“ jej tudíž zaměňovat nelze (srovnej též stanovisko pléna Nejvyššího soudu z 27. června 1996, Plsn 1/96, publikované ve Sbírce soudních rozhodnutí a stanovisek č. 8, ročník 1996, pod pořadovým číslem 48). Rozhoduje - li tedy vrchní soud o vyloučení soudců krajského soudu, není toto jeho rozhodnutí rozhodnutím soudu prvního stupně.
+Funkční příslušnost soudu pro projednání odvolání proti takovému rozhodnutí občanský soudní řád ani neupravuje; nepočítá s jinými odvolacími soudy, než s krajskými soudy rozhodují-li o odvoláních proti rozhodnutím okresních soudů a vrchními soudy, rozhodují-li o odvoláních proti rozhodnutím krajských soudů jako soudů prvního stupně (k tomu usnesení Nejvyššího soudu ze dne 8.prosince 2000, sp. zn. 31 Cdo 1425/98).
+Podání žalobce nemůže být projednáno ani jako dovolání; to je totiž mimořádným opravným prostředkem proti pravomocnému rozhodnutí odvolacího soudu (§ 236 odst. 1 o.s.ř.), jímž není ani rozhodnutí nadřízeného soudu (srov. usnesení Nejvyššího soudu ze dne 31. července 1997, sp. zn. 2 Cdon 30/97, uveřejněné v časopise Soudní judikatura č. 14, ročník 1997, pod pořadovým číslem 112).
+Nedostatek funkční příslušnosti je neodstranitelným nedostatkem podmínky řízení; Nejvyšší soud proto řízení, které touto vadou trpí, zastavil (§ 104 odst. 1 o.s.ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 18. prosince 2014
+JUDr. Marta Škárová
+předsedkyně senátu
