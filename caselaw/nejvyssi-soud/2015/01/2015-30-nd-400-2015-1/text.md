@@ -1,0 +1,21 @@
+30 Nd 400/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Pavla Pavlíka a soudců JUDr. Pavla Vrchy a JUDr. Pavla Vlacha, v právní věci žalobce F. K., zastoupeného JUDr. Milanem Hoke, advokátem se sídlem v Benešově, Tyršova 2071, proti žalovanému R. K., o náhradu újmy, vedené u Okresního soudu v Benešově pod sp. zn. 14 C 48/2015, o návrhu žalovaného na přikázání věci jinému soudu, takto:
+Věc vedená u Okresního soudu v Benešově pod sp. zn. 14 C 48/2015 se nepřikazuje k projednání a rozhodnutí Okresnímu soudu v Ostravě.
+O d ů v o d n ě n í :
+Žalobce se domáhá žalobou ze dne 4. června 2015 u Okresního soudu v Benešově, jako soudu příslušného podle § 87 odst. 1 písm. b) občanského soudního řádu (dále jen „o.s.ř.“), náhrady škody způsobené ublížením na zdraví.
+Žalovaný navrhl, aby věc byla z důvodu vhodnosti přikázána Okresnímu soudu v Ostravě, neboť má, a vždy měl, trvalé bydliště v O., a proto Okresní soud v Ostravě je i podle ustanovení § 85 odst. 1 o.s.ř. věcně i místně příslušný k projednání předmětné věci, z čehož lze spatřovat i zájem zákonodárce, aby věc byla projednána soudem, v jehož obvodu má žalovaný – fyzická osoba, adresu svého trvalého bydliště.
+Žalobce s návrhem na delegaci nesouhlasil.
+Okresní soud v Benešově věc předložil k rozhodnutí Nejvyššímu soudu.
+Podle § 11 odst. 1 o.s.ř. se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení.
+Podle § 11 odst. 2 o.s.ř. je-li místně příslušných několik soudů, může se řízení konat u kteréhokoli z nich.
+Podle § 12 odst. 2 o.s.ř. věc může být jinému soudu téhož stupně přikázána také z důvodu vhodnosti.
+Nejvyšší soud České republiky jako soud nejblíže společně nadřízený soudu, u něhož se řízení vede, tj. Obvodnímu soudu v Benešově, a Okresnímu soudu v Ostravě, jemuž má být věc podle návrhu žalobce přikázána (§ 12 odst. 3 věta první o.s.ř.), dospěl k závěru, že v posuzovaném případě nejsou podmínky pro přikázání věci jinému soudu z důvodu vhodnosti podle ustanovení § 12 odst. 2 o.s.ř. splněny.
+Důvod vhodnosti pro přikázání věci jinému soudu téhož stupně ve smyslu výše citovaného ustanovení § 12 odst. 2 o.s.ř. představují takové okolnosti, které umožní hospodárnější, rychlejší nebo zejména po skutkové stránce spolehlivější a důkladnější projednání věci jiným než příslušným soudem. Přitom je ale třeba mít na zřeteli, že obecná místní příslušnost soudu, který má podle zákona věc projednat, je základní zásadou, a že případná delegace této příslušnosti jinému soudu je toliko výjimkou z této zásady, kterou je nutno - právě proto, že jde o výjimku - vykládat restriktivně (srov. např. nález Ústavního soudu České republiky ze dne 15. listopadu 2001, sp. zn. I. ÚS 144/2000, uveřejněný ve Sbírce nálezů a usnesení Ústavního soudu, svazku 24, ročníku 2001, části I., pod pořadovým číslem 172).
+Přikázání věci jinému soudu je výjimkou z ústavně zaručené zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon (článek 38 Listiny základních práv a svobod). Důvody pro odnětí věci příslušnému soudu a její přikázání jinému soudu musí být natolik významné, aby dostatečně odůvodňovaly průlom do výše citovaného ústavního principu (k tomu srov. též usnesení Nejvyššího soudu ze dne 31. srpna 2011, sen. zn. 29 NSČR 33/2010, uveřejněné pod číslem 3/2012 Sbírky soudních rozhodnutí a stanovisek).
+Žalobcem uváděný důvod podle Nejvyššího soudu není způsobilý prolomit výše popsané ústavní principy, protože neuplatňuje žádné okolnosti, na jejichž základě by bylo možné usuzovat, že hospodárnější, rychlejší či po skutkové stránce spolehlivější a důkladnější by bylo projednání dané věci jiným než příslušným soudem. Takové okolnosti neplynou ani z obsahu spisu. Nejvyšší soud rovněž při úvahách o možném postupu podle § 12 odst. 2 o.s.ř. nemohl přehlédnout nesouhlasné stanovisko žalobce, který s přikázáním věci Okresnímu soudu v Ostravě nesouhlasí.
+Nejvyšší soud proto návrhu žalovaného nevyhověl a věc podle ustanovení § 12 odst. 2 o.s.ř. Okresnímu soudu v Ostravě nepřikázal.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 6. ledna 2015
+JUDr. Pavel Pavlík
+předseda senátu
