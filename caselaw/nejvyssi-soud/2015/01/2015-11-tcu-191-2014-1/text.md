@@ -1,0 +1,17 @@
+11 Tcu 191/2014-19
+U S N E S E N Í
+Nejvyšší soud projednal dne 7. ledna 2015 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl t a k t o :
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení státního občana České republiky P. J. , rozsudkem Soudu v Sala Consilina, Italská republika, ze dne 17. 2. 2009, sp. zn. 42/2009, hledí jako na odsouzení soudem České republiky.
+O d ů v o d n ě n í :
+Rozsudkem Soudu v Sala Consilina, Italská republika, ze dne 17. 2. 2009, sp. zn. 42/2009, který nabyl právní moci dne 13. 3. 2009, byl P. J. uznán vinným trestným činem použití násilí proti operativní jednotce karabiníků, podle italského trestního zákona, a byl odsouzen k nepodmíněnému trestu odnětí svobody v trvání 1 (jednoho) roku a 20 (dvaceti) dnů.
+Podle skutkových zjištění cizozemského soudu se P. J. dopustil trestné činnosti v podstatě tím, že dne 2. 2. 2009 v S. , v kanceláři karabiníků App. Sc. P. S. a Car. Sc. C. D. , v době výkonu jejich služby v souvislosti s jimi prováděnou identifikací osoby odsouzeného, tyto opakovaně fyzicky napadal cloumáním, kopáním a údery pěstmi, v důsledku čehož způsobil App. Sc. P. S. pohmožděniny v pravé části zad s předpokládanou délkou léčby cca 5ti dnů a Car. Sc. C. D. pohmožděniny mezi lopatkami s předpokládanou délkou léčby cca 5ti dnů.
+Ministerstvo spravedlnosti České republiky podalo ve shora uvedené věci návrh Nejvyššímu soudu na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů (dále jen „zákon“).
+Nejvyšší soud věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro rozhodnutí podle § 4a odst. 3 zákona.
+Především je třeba uvést, že podle § 4a odst. 3 zákona Nejvyšší soud na návrh Ministerstva spravedlnosti České republiky rozhodne, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Z podaného návrhu a z obsahu připojeného spisu vyplývá, že odsouzený P. J. je občanem České republiky, byl odsouzen cizozemským soudem a odsouzení se týká skutku, který vykazuje znaky trestného činu i podle příslušných právních předpisů České republiky (násilí proti úřední osobě podle § 325 tr. zákoníku). Tím jsou splněny formální podmínky ustanovení § 4a odst. 3 zákona.
+V posuzované věci jsou ovšem dány i podmínky materiální povahy. Odsouzený P. J. se dopustil trestné činnosti směřující proti nerušenému výkonu pravomoci úřední osoby. Společenská škodlivost jeho trestné činnosti je zvyšována i tím, že jeho útoky směřovaly proti dvěma příslušníkům bezpečnostního sboru Italské republiky. Z obsahu spisového materiálu rovněž vyplývá, že byl v Italské republice již pro obdobnou trestnou činnost odsouzen. Pokud jde o druh uloženého trestu, odsouzenému byl uložen nezanedbatelný nepodmíněný trest odnětí svobody. Lze tedy dovodit, že jsou splněny všechny podmínky pro to, aby se na výše uvedené odsouzení P. J. hledělo jako na odsouzení soudem České republiky.
+Z uvedených důvodů proto Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 7. ledna 2015
+Předseda senátu:
+JUDr. Antonín Draštík
