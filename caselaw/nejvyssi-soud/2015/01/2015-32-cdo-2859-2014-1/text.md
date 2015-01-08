@@ -1,0 +1,18 @@
+32 Cdo 2859/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Pavla Příhody a JUDr. Hany Gajdziokové v právní věci žalobkyně ROMZA - Nedvězí, spol. s r.o., se sídlem v Olomouci, U Romzy 118/21, PSČ 772 00, identifikační číslo osoby 47973595, zastoupené JUDr. Pavlem Lidmanským, advokátem se sídlem v Bystrovanech, Jeseniova 25/13, proti žalovanému Zemědělskému družstvu Hněvotín, se sídlem v Hněvotíně 90, PSČ 783 47, identifikační číslo osoby 00147362, zastoupenému JUDr. Lubomírem Minaříkem, advokátem se sídlem v Olomouci, Vídeňská 635/8, o zaplacení 773 571 Kč s příslušenstvím, vedené u Krajského soudu v Ostravě – pobočky v Olomouci pod sp. zn. 19 Cm 66/2011, o dovolání žalobkyně proti usnesení Vrchního soudu v Olomouci ze dne 16. ledna 2014, č. j. 8 Cmo 453/2013-112, takto:
+I. Dovolání se odmítá.
+II. Žalobkyně je povinna zaplatit žalovanému na náhradě nákladů dovolacího řízení částku 7 272 Kč do tří dnů od právní moci tohoto usnesení k rukám jeho zástupce JUDr. Lubomíra Minaříka.
+Odůvodnění:
+Žalobkyně podala dovolání proti v záhlaví označenému usnesení, jímž Vrchní soud v Olomouci potvrdil usnesení Krajského soudu v Ostravě – pobočky v Olomouci ze dne 16. října 2013, č. j. 19 Cm 66/2011-101, jímž bylo řízení zastaveno a bylo rozhodnuto o nákladech řízení a o vrácení zaplaceného soudního poplatku žalobkyni (výrok I.), a dále rozhodl o nákladech odvolacího řízení (výrok II.).
+Nejvyšší soud projednal dovolání a rozhodl o něm – v souladu s bodem 7. čl. II přechodných ustanovení části první zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, a s bodem 2. čl. II přechodných ustanovení části první zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony – podle občanského soudního řádu ve znění účinném od 1. ledna 2013 do 31. prosince 2013 (dále jen „o. s. ř.“).
+Dovolání trpí vadou, neboť dovolatelka v dovolání oproti požadavkům vymezeným pro obsah dovolání v ustanovení § 241a odst. 2 o. s. ř. neuvedla, v čem spatřuje splnění předpokladů přípustnosti dovolání (srov. ustanovení § 237 o. s. ř.).
+Požadavek, aby dovolatel v dovolání konkrétně popsal, v čem spatřuje splnění předpokladů přípustnosti dovolání, je obligatorní náležitostí dovolání. Může-li být dovolání přípustné jen podle § 237 o. s. ř. (jako v této věci), je dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné (srov. shodně např. usnesení Nejvyššího soudu ze dne 29. srpna 2013, sp. zn. 29 Cdo 1983/2013, jež je veřejnosti k dispozici in www.nsoud.cz), přičemž musí být z obsahu dovolání patrno, o kterou otázku hmotného nebo procesního práva jde (srov. shodně např. usnesení Nejvyššího soudu uveřejněné pod číslem 4/2014 Sbírky soudních rozhodnutí a stanovisek).
+Uvedený nedostatek nelze již odstranit, neboť lhůta pro podání dovolání, během níž tak bylo možno učinit (srov. ustanovení § 241b odst. 3 větu první o. s. ř.), dovolatelce uplynula dne 21. dubna 2014 (srov. § 57 odst. 2 větu první a druhou o. s. ř.). Jde přitom o takovou vadu, jež brání pokračování v dovolacím řízení, neboť v důsledku absence uvedené náležitosti nelze posoudit přípustnost dovolání.
+Nejvyšší soud proto dovolání podle ustanovení § 243c odst. 1 o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (srov. ustanovení § 243f odst. 3 větu druhou o. s. ř.).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+Nesplní-li povinná dobrovolně, co jí ukládá vykonatelné rozhodnutí, může se oprávněný domáhat výkonu rozhodnutí.
+V Brně dne 8. ledna 2015
+JUDr. Miroslav Gallus
+předseda senátu
