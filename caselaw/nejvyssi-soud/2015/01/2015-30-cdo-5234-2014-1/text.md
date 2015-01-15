@@ -1,0 +1,12 @@
+30 Cdo 5234/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu JUDr. Miroslavou Jirmanovou, Ph.D., v exekuční věci oprávněné JOKA Agentura s. r. o., se sídlem v Praze 8, Střížkovská 8/9, identifikační číslo osoby 25143956, zastoupené JUDr. Zdeňkem Juřinou, advokátem se sídlem v Praze 9, Krausova 605, proti povinnému M. B., vedené u Obvodního soudu pro Prahu 6 pod sp. zn. 34 Nc 5579/2006, pro 55 174,63 Kč s příslušenstvím, o dovolání oprávněné proti usnesení Obvodního soudu pro Prahu 6 ze dne 31. 10. 2014, č. j. 34 Nc 5579/2006-165, ve znění opravného usnesení ze dne 13. 11. 2014, č. j. 34Nc 5579/2006-173, takto:
+Řízení o dovolání se zastavuje.
+Odůvodnění:
+Obvodní soud pro Prahu 6 v záhlaví označeným rozhodnutím, ve spojení se svým opravným usnesením ze dne 13. 11. 2014, č. j. 34 Nc 5579/2006-173, změnil příkaz k úhradě nákladů exekuce JUDr. Ingrid Švecové, soudní exekutorky Exekutorského úřadu Praha 3 ze dne 30. 9. 2014, č. j. 091 EX 00452/06-087, ve výroku II. tak, že náklady oprávněné v exekučním řízení se určují částkou 34 811,70 Kč; v ostatním ponechal příkaz nezměněn a rozhodl, že žádný z účastníků nemá právo na náhradu nákladů námitkového řízení.
+Oprávněná napadla usnesení obvodního soudu dovoláním. Nejvyšší soud dovolání projednal a rozhodl o něm podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2013 do 31. 12. 2013 (srov. část první, čl. II, bod 7. zákona č. 404/2012 Sb. a část první, čl. II, bod 2. zákona č. 293/2013 Sb.).
+Podle § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští. Rozhodnutí soudu prvního stupně tedy nelze úspěšně dovoláním napadnout; funkční příslušnost soudu pro projednání dovolání proti rozhodnutí soudu prvního stupně proto ani o. s. ř. neupravuje. Funkční nepříslušnost je přitom neodstranitelným nedostatkem podmínky řízení, jehož důsledkem je vždy zastavení řízení (srov. § 104 odst. 1, věta první o. s. ř.). Nejvyšší soud proto řízení o dovolání podle § 243b, § 104 odst. 1, věty první a § 243f odst. 2 o. s. ř. zastavil.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 15. ledna 2015
+JUDr. Miroslava Jirmanová, Ph.D. předsedkyně senátu
