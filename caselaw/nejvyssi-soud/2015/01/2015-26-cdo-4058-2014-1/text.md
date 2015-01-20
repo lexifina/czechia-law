@@ -1,0 +1,15 @@
+26 Cdo 4058/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Pavlíny Brzobohaté a soudkyň Doc. JUDr. Věry Korecké, CSc., a JUDr. Jitky Dýškové v právní věci žalobce: JUDr. Tomáš Pelikán, se sídlem v Praze 1, Dušní 22, jako insolvenční správce dlužníka Pražského stavebního bytového družstva, se sídlem v Praze 5, Na Hutmance 7/300, identifikační číslo 00033243, zastoupeného Mgr. Karlem Volfem, advokátem se sídlem v Praze 5, Jindřicha Plachty 3163/28, proti žalovaným: 1. Mgr. T. D., a 2. Ing. S. D., zastoupeným Mgr. Danielem Šimánkem, advokátem se sídlem v Čelákovicích, Vašátkova 176, o vyklizení bytu, vedené u Obvodního soudu pro Prahu 5 pod sp. zn. 5 C 51/2009, o dovolání žalovaných proti rozsudku Městského soudu v Praze ze dne 22. května 2014, č. j. 64 Co 101/2014-143, takto:
+I. Dovolání se odmítá.
+II. Žalovaní jsou povinni zaplatit žalobci společně a nerozdílně na náhradě nákladů dovolacího řízení částku 2.178,- Kč k rukám JUDr. Karla Volfa, advokáta se sídlem v Praze 5, Jindřicha Plachty 3163/28, a to do tří dnů od právní moci tohoto usnesení.
+Odůvodnění:
+Žalovaní napadli dovoláním rozsudek Městského soudu v Praze ze dne 22. 5. 2014, č. j. 64 Co 101/2014-143, kterým potvrdil (poté, co jeho předcházející rozsudek ze dne 3. 11. 2011, č. j. 64 Co 125/2011-67, včetně rozsudku soudu prvního stupně ze dne 2. 11. 2010, č. j. 5 C 51/2009-24, zrušil Nejvyšší soud rozsudkem ze dne 2. 5. 2013, č. j. 26 Cdo 1706/2012-99, a věc vrátil soudu prvního stupně k dalšímu řízení), rozsudek Obvodního soudu pro Prahu 5 ze dne 1. 10. 2013, č. j. 5 C 51/2009-111, ve znění usnesení ze dne 11. 11. 2013, č. j. 5 C 51/2009-118, jímž uložil žalovaným vyklidit tam označenou bytovou jednotku do patnácti dnů od zajištění náhradního bytu.
+Dovolání žalovaných není přípustné podle ustanovení § 237 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013, dále jen „o. s. ř.“ (čl. II bod 2. zákona č. 293/2013 Sb.), neboť odvolací soud posoudil otázku aplikace § 3 odst. 1 zákona č. 40/1964 Sb., občanský zákoník, ve znění do 31. 12. 2013 (§ 243f odst. 1 o. s. ř.) a možného odepření výkonu vlastnického práva realizovaného žalobou na vyklizení bytu pro rozpor s dobrými mravy v souladu s ustálenou rozhodovací praxí dovolacího soudu (viz např. stanovisko Nejvyššího soudu ze dne 14. 10. 2009, sp. zn. Cpjn 6/2009, uveřejněné pod číslem 6/2010 Sbírky soudních rozhodnutí a stanovisek) a není důvod, aby rozhodná právní otázka byla posouzena jinak. Přihlédl ke všem zjištěným skutečnostem, a to jak na straně dovolatelů, tak i na straně žalobce, vycházel přitom z konkrétních zjištění učiněných v dané věci a jeho úvaha není zjevně nepřiměřená.
+Nejvyšší soud České republiky proto dovolání žalovaných podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+Nesplní-li povinní dobrovolně, co jim ukládá vykonatelné rozhodnutí, může oprávněný podat návrh na exekuci (soudní výkon rozhodnutí).
+V Brně dne 20. ledna 2015
+JUDr. Pavlína Brzobohatá
+předsedkyně senátu
