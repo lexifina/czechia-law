@@ -1,0 +1,16 @@
+29 Cdo 3863/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Filipa Cilečka a soudců JUDr. Marka Doležala a JUDr. Petra Šuka v právní věci navrhovatele D. Č., za účasti Bytového družstva obyvatel 1883/4, se sídlem v Ostravě – Porubě, Ludvíka Podéště 1883, PSČ 708 00, identifikační číslo osoby 25372912, o prohlášení rozhodnutí členské schůze o vyloučení navrhovatele z družstva za neplatné, o ustanovení zástupce pro řízení, vedené u Krajského soudu v Ostravě pod sp. zn. 41 Cm 93/2012, o dovolání navrhovatele proti usnesení Vrchního soudu v Olomouci ze dne 15. října 2013, č. j. 5 Cmo 394/2013-42, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+K odvolání navrhovatele Vrchní soud v Olomouci usnesením ze dne 15. října 2013, č. j. 5 Cmo 394/2013-42, potvrdil usnesení Krajského soudu v Ostravě ze dne 20. srpna 2013, č. j. 41 Cm 93/2012-31, kterým tento soud nepřiznal navrhovateli osvobození od soudních poplatků (výrok I.) a neustanovil navrhovateli zástupce „z řad advokátů“ (výrok II.).
+Dovolání navrhovatele, směřující toliko proti té části usnesení odvolacího soudu, kterou bylo potvrzeno rozhodnutí soudu prvního stupně o neustanovení zástupce „z řad advokátů“, Nejvyšší soud podle ustanovení § 243c odst. 1 věty první zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), odmítl jako bezpředmětné.
+Učinil tak proto, že ještě před tím, než navrhovatel dne 28. listopadu 2013 dovolání podal, Krajský soud v Ostravě usnesením ze dne 15. listopadu 2013, č. j. 41 Cm 93/2012-47, řízení ve věci pro nezaplacení soudního poplatku zastavil (výrok I.) a rozhodl o nákladech řízení (výrok II.). K odvolání navrhovatele proti usnesení soudu prvního stupně o zastavení řízení (podanému 6. prosince 2013) Vrchní soud v Olomouci usnesením ze dne 27. února 2014, č. j. 5 Cmo 39/2014-61, toto usnesení potvrdil (první výrok) a rozhodl o nákladech odvolacího řízení (druhý výrok). Usnesení Vrchního soudu bylo navrhovateli doručeno a nabylo právní moci dne 31. března 2014. Navrhovatel jej dovoláním nenapadl.
+Dovolání navrhovatele se tudíž stalo bezpředmětným v důsledku okolností nastalých po vydání dovoláním napadeného rozhodnutí (k postupu soudu při bezpředmětnosti opravného prostředku, srov. např. usnesení Nejvyššího soudu ze dne 30. září 2004, sp. zn. 29 Odo 611/2002, jež je veřejnosti k dispozici na webových stránkách Nejvyššího soudu). Řešení dovoláním otevřených otázek, jimiž dovolatel brojí proti závěrům učiněným odvolacím soudem při posuzování předpokladů pro ustanovení zástupce pro řízení, se poté, kdy řízení bylo pravomocně zastaveno pro nezaplacení soudního poplatku, nemůže projevit v poměrech dovolatele založených napadeným usnesením.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Rozhodné znění občanského soudního řádu pro dovolací řízení (do 31. prosince 2013) se podává z článku II. bodu 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 21. ledna 2015
+JUDr. Filip Cileček
+předseda senátu
