@@ -1,0 +1,11 @@
+26 Cdo 113/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Zbyňkem Polednou v exekuční věci oprávněné GE Money Bank, a. s. se sídlem v Praze 4, Vyskočilova č. 1422/1a, IČO 25672720, zastoupené JUDr. Marií Cilínkovou, advokátkou se sídlem v Praze 1, Bolzanova č. 1615/1, proti povinnému Bc. L. R., pro 18.725,- Kč s příslušenstvím, vedené u Okresního soudu ve Frýdku-Místku pod sp. zn. 28 EXE 4792/2010, o dovolání povinného proti usnesení Krajského soudu v Ostravě ze dne 28. února 2013, č. j. 10 Co 1/2013-82, takto:
+Dovolací řízení se zastavuje.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky řízení o dovolání povinného proti usnesení Krajského soudu v Ostravě ze dne 28. 2. 2013, č. j. 10 Co 1/2013-82, podle ustanovení § 241b odst. 2 a § 104 odst. 2 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, zastavil, neboť dovolatel nesplnil podmínku povinného zastoupení v dovolacím řízení (§ 241 o. s. ř.) a nedostatek povinného (nuceného) zastoupení neodstranil ani na výzvu soudu prvního stupně, která mu byla doručena dne 9. 10. 2013. Vzhledem k tomu, že se povinný soustavně domáhá ustanovení zástupce z řad advokátů, dovolací soud sám posoudil, zda povinný splňuje předpoklady uvedené v ustanovení § 30 a § 138 o. s. ř. (srov. usnesení Nejvyššího soudu ze dne 23. 7. 2014, sen. zn. 29 NSČR 82/2014), přičemž dospěl k závěru, že povinný hodnověrným způsobem neprokázal své majetkové poměry tak, aby bylo možno posoudit, zda splňuje podmínky pro přiznání osvobození od soudních poplatků ve smyslu ustanovení § 138 o. s. ř., a že proto nelze pokládat předpoklady pro ustanovení zástupce z řad advokátů ve smyslu ustanovení § 30 o. s. ř. za splněné. Námitky povinného v dovolání se vztahují k nařízení exekuce, nikoliv k závěrům odvolacího soudu týkajících se neustanovení zástupce.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. ex. řádu).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 21. ledna 2015
+JUDr. Zbyněk Poledna
+předseda senátu
