@@ -1,0 +1,17 @@
+29 Nd 365/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Petra Šuka a soudců JUDr. Filipa Cilečka a JUDr. Marka Doležala v právní věci žalobkyně AB 5 B.V., soukromá společnost s ručením omezeným, se sídlem v Amsterdamu, Strawinskylaan 933, WTC Twr B, 1077XX, Nizozemí, registrační číslo 34192873, zastoupené JUDr. Vladimírem Muzikářem, advokátem, se sídlem v Brně, Havlíčkova 127/13, PSČ 602 00, proti žalovanému R. R., o zaplacení částky 36.631,68 Kč s příslušenstvím, vedené u Městského soudu v Brně pod sp. zn. 234 C 184/2011, o návrhu na přikázání věci jinému soudu z důvodu vhodnosti, takto:
+Věc vedená u Městského soudu v Brně pod sp. zn. 234 C 184/2011 se nepřikazuje k projednání a rozhodnutí jinému soudu.
+O d ů v o d n ě n í :
+Městský soud v Brně uložil žalovanému platebním rozkazem ze dne 7. března 2014, č. j. 234 C 184/2011-21, zaplatit žalobkyni částku 36.631,68 Kč s příslušenstvím a náhradu nákladů řízení.
+Žalovaný proti platebnímu rozkazu podal odpor datovaný dne 31. března 2014, a následně, žádostí ze dne 15. července 2014, požádal o „převedení soudního řízení“ do České Lípy z důvodu velké vzdálenosti a „finanční nákladnosti“.
+Žalobkyně vyslovila nesouhlas s přikázáním věci jinému soudu, neboť konstatování žalovaného, že cesta do Brna je dlouhá a finančně nákladná, nezakládá důvod k delegaci z důvodu vhodnosti podle § 12 odst. 2 zákona č. 99/1963 Sb., občanský soudní řád (dále též jen „o. s. ř.“).
+Městský soud v Brně poté věc předložil Nejvyššímu soudu k rozhodnutí o jejím přikázání Okresnímu soudu v České Lípě z důvodu vhodnosti.
+Podle § 12 o. s. ř. věc může být jinému soudu téhož stupně přikázána také z důvodu vhodnosti (odstavec 2). O přikázání věci rozhoduje soud, který je nejblíže společně nadřízen příslušnému soudu a soudu, jemuž má být věc přikázána. Účastníci mají právo se vyjádřit k tomu, kterému soudu má být věc přikázána, a v případě odstavce 2 též k důvodu, pro který by věc měla být přikázána (odstavec 3).
+Důvod vhodnosti pro přikázání věci jinému soudu téhož stupně ve smyslu § 12 odst. 2 o. s. ř. představují takové okolnosti, které umožní hospodárnější a rychlejší projednání věci jiným než příslušným soudem. Přitom je ale třeba mít na zřeteli, že obecná místní příslušnost soudu, který má podle zákona věc projednat, je základní zásadou, a že přikázání věci jinému soudu je výjimkou z ústavně zaručené zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon (článek 38 odst. 1 Listiny základních práv a svobod). Důvody pro odnětí věci příslušnému soudu a její přikázání jinému soudu musí být natolik významné, aby dostatečně odůvodňovaly průlom do výše citovaného ústavního principu; srov. nález Ústavního soudu České republiky ze dne 15. listopadu 2001, sp. zn. I. ÚS 144/2000, uveřejněný pod číslem 172/2001 Sbírky nálezů a usnesení Ústavního soudu, jakož např. i usnesení Nejvyššího soudu ze dne 31. srpna 2011, sen. zn. 29 NSČR 33/2010, uveřejněné pod číslem 3/2012 Sbírky soudních rozhodnutí a stanovisek.
+Vzdálenost mezi místem bydliště jednoho z účastníků a sídlem místně příslušného soudu ani výše nákladů na dopravu nepředstavují samy o sobě (nejsou-li doplněny dalšími okolnostmi) důvod pro přikázání věci jinému soudu podle § 12 odst. 2 o. s. ř.
+Nejvyšší soud proto rozhodl tak, že se projednávaná věc Okresnímu soudu v České Lípě nepřikazuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 28. ledna 2015
+JUDr. Petr Š u k
+předseda senátu
