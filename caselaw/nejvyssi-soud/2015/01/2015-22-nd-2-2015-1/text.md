@@ -1,0 +1,14 @@
+22 Nd 2/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy Mgr. Michala Králíka, Ph.D., a soudců JUDr. Jiřího Spáčila, CSc., a Mgr. Davida Havlíka ve věci oprávněné Zdravotní pojišťovny ministerstva vnitra České republiky, se sídlem v Praze 10, Kodaňská 1441/46, IČO: 47114304, proti povinnému G. P., neznámého pobytu, naposledy T., o nařízení exekuce, vedené u Okresního soudu v Břeclavi pod sp. zn. 53 EXE 2288/2014, o návrhu na určení místní příslušnosti, takto:
+Věc, vedenou u Okresního soudu v Břeclavi pod sp. zn. 53 EXE 2288/2014, projedná a rozhodne Okresní soud v Břeclavi.
+O d ů v o d n ě n í :
+Okresní soud v Břeclavi usnesením ze dne 14. listopadu 2014, č. j. 53 EXE 2288/2014-13, podle § 105 odst. 2 občanského soudního řádu (dále jen „o. s. ř.“) vyslovil svou místní nepříslušnost ve shora označené věci. V odůvodnění usnesení soud uvedl, že z návrhu nevyplývá, kde má povinný trvalé bydliště, ani jaké je národnosti. Povinný neprochází "CEO" ani registrem obyvatel. Ze systému "ISAS OS Břeclav" nebylo o povinném nic zjištěno. Již samotný exekuční titul byl povinnému doručen uložením. Zásilka oprávněného se z dané adresy vrátila s tím, že adresát je na uvedené adrese neznámý. Nařízení exekuce na základě platebního rozkazu zdravotní pojišťovny je v pravomoci soudů České republiky. Podmínku místní příslušnosti ale nelze zjistit, proto soud vyslovil svou místní nepříslušnost a věc postoupil Nejvyššímu soudu, aby určil soud, který věc projedná a rozhodne.
+Podle § 11 odst. 1 občanského soudního řádu (dále jen „o. s. ř.“) se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Podmínky rozhodnutí podle § 11 odst. 3 o. s. ř. jsou v daném případě splněny, neboť věc spadá do pravomoci soudů České republiky, ale podmínky místní příslušnosti soudu nelze zjistit.
+S přihlédnutím k tomu, že řízení bylo zahájeno u Okresního soudu v Břeclavi a že pobočka oprávněné, která byla určena k vymožení exekučního titulu, jakož i sídlo soudního exekutora Mgr. Jana Krejsty, který má být provedením exekuce pověřen, se rovněž nachází v blízkosti obvodu tohoto soudu, dospěl Nejvyšší soud k závěru, že k projednání a rozhodnutí věci bude z hlediska rychlosti a hospodárnosti řízení vhodné určit Okresní soud v Břeclavi. Proto podle § 11 odst. 3 o. s. ř. určil Okresní soud v Břeclavi tím soudem, který věc projedná a rozhodne.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 22. ledna 2015
+Mgr. Michal Králík, Ph. D.
+předseda senátu
