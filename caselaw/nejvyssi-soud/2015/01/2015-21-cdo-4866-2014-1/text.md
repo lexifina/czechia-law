@@ -1,0 +1,15 @@
+21 Cdo 4866/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Jiřího Doležílka a soudců JUDr. Zdeňka Novotného a JUDr. Ljubomíra Drápala v právní věci žalobkyně Mgr. L. F., zastoupené JUDr. Ervínem Perthenem, advokátem se sídlem v Hradci Králové, Velké náměstí č. 135/19, proti žalované Mateřské škole, Hradec Králové, Třebechovická 837 se sídlem v Hradci Králové, Třebechovická č. 837, IČO 71000712, o neplatnost výpovědi z pracovního poměru, vedené u Okresního soudu v Hradci Králové pod sp. zn. 10 C 38/2013, o dovolání žalobkyně proti rozsudku Krajského soudu v Hradci Králové ze dne 15. května 2014 č. j. 19 Co 81/2014-98, takto:
+I. Dovolání žalobkyně se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalobkyně proti rozsudku Krajského soudu v Hradci Králové ze dne 15. 5. 2014 č. j. 19 Co 81/2014-98 není přípustné podle ustanovení § 237 o. s. ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu a není důvod, aby rozhodné právní otázky byly posouzeny jinak.
+Závěr odvolacího soudu, že pracovní smlouva ze dne 12. 4. 2012, podle níž měla žalobkyně vykonávat u žalované ode dne 1. 8. 20012 práci učitelky mateřské školy v pracovním poměru na dobu neurčitou a kterou žalobkyně uzavřela (podepsala) jak na straně zaměstnavatele (jako ředitelka žalované jmenovaná na toto vedoucí pracovní místo zřizovatelem žalované na dobu od 1. 8. 2010 do 31. 7. 2012), tak na straně zaměstnankyně, je absolutně neplatným právním úkonem, a že proto mezi účastnicemi nebyl v době po 31. 7. 2012 pracovní poměr, se kterým dovolatelka nesouhlasí, odpovídá ustálené judikatuře, v níž dovolací soud vyslovil názor, že rozdílnost zájmů zaměstnavatele a zaměstnance při uzavření smlouvy (dohody), která směřuje ke vzniku pracovního poměru nebo jiného pracovněprávního vztahu, k jejich změně nebo zániku, vylučuje, aby jménem zaměstnavatele učinila takový právní úkon stejná fyzická osoba, která je druhým účastníkem smlouvy (dohody) jako zaměstnanec, neboť nemůže odpovídajícím způsobem „současně“ hájit své zájmy jako zaměstnance a zájmy zaměstnavatele (srov. například rozsudek Nejvyššího soudu ze dne 4. 11. 2004 sp. zn. 21 Cdo 1634/2004, rozsudek Nejvyššího soudu ze dne 13. 12. 2007 sp. zn. 21 Cdo 313/2007 nebo rozsudek Nejvyššího soudu ze dne 22. 11. 2011 sp. zn. 21 Cdo 3061/2010).
+Namítá-li žalobkyně, že odvolací soud, dospěl-li k závěru o věcné správnosti rozhodnutí soudu prvního stupně na základě jiného právního posouzení, ji měl „se svým právním názorem předem seznámit (§ 118a občanského soudního řádu)“, uplatnila tím jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o. s. ř., a v dovolacím řízení nelze pro tento nedostatek pokračovat.
+Nejvyšší soud České republiky proto dovolání žalobkyně podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 29. ledna 2015
+JUDr. Jiří Doležílek
+předseda senátu
