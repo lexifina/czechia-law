@@ -1,0 +1,13 @@
+25 Cdo 4235/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Robertem Waltrem v právní věci žalobce L. K., zastoupeného JUDr. Janou Mikulovou, advokátkou se sídlem Ostrava-Poruba, Hlavní třída 1023/55, proti žalovaným 1) M. B., 2) F. D., o náhradu škody, vedené u Okresního soudu v Ostravě pod sp. zn. 124 C 146/2012-62, o dovolání žalobce proti rozsudku Krajského soudu v Ostravě ze dne 11. 6. 2014, č.j. 71 Co 239/2014-119, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalobce proti rozsudku Krajského soudu v Ostravě ze dne 11. 6. 2014, č.j. 71 Co 239/2014-119, neobsahuje všechny zákonné náležitosti ve smyslu § 241a odst. 2 o. s. ř., neboť v něm dovolatel nevymezil, v čem spatřuje splnění předpokladů přípustnosti dovolání. Nezbytnou podmínkou projednatelnosti dovolání je vymezení jeho přípustnosti, přičemž dovolání musí být formulováno tak, aby z něj bylo přesně patrné, které z hledisek vyjmenovaných v § 237 o. s. ř. má dovolatel za splněné a v jakých konkrétních okolnostech naplnění předpokladů přípustnosti spatřuje, přičemž nepostačuje pouhá citace textu ustanovení § 237 o. s. ř.; ostatně ani tu dovolání žalobce neobsahuje (k tomu srovnej např. usnesení Nejvyššího soudu ze dne 25. 9. 2013, sp. zn. 29 Cdo 2394/2013, uveřejněné pod číslem 4/2014 Sbírky soudních rozhodnutí a stanovisek, dále usnesení ze dne 29. 8. 2013, sp. zn. 29 Cdo 2488/2013, nebo usnesení ze dne 27. 8. 2013, sen. zn. 29 NSČR 55/2013, uveřejněná na webových stránkách Nejvyššího soudu). Souladnost této judikatury dovolacího soudu s ústavním pořádkem potvrdil Ústavní soud např. v usneseních ze dne 15. 10. 2014, sp. zn. IV. ÚS 2901/14, ze dne 8. 7. 2014, sp. zn. II. ÚS 4031/13, ze dne 26. 6. 2014, sp. zn. III. ÚS 1675/14, nebo ze dne 21. 1. 2014, sp. zn. I. ÚS 3524/13, uveřejněná na webových stránkách Ústavního soudu).
+Jelikož dovolatel nevymezil, v čem spatřuje splnění předpokladů přípustnosti dovolání podle § 237 až 238a o. s. ř., trpí dovolání vadou, pro kterou nelze v dovolacím řízení pokračovat a tato vada nebyla v průběhu trvání lhůty k dovolání odstraněna (§ 241b odst. 3 věta první o. s. ř.). Z ustanovení § 243b o. s. ř. přitom vyplývá, že soud dovolatele k odstranění vad dovolání nevyzývá. Nejvyšší soud proto dovolání podle § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 2. února 2015
+JUDr. Robert Waltr
+předseda senátu
