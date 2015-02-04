@@ -1,0 +1,14 @@
+26 Nd 403/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Pavlíny Brzobohaté a soudců Doc. JUDr. Věry Korecké, CSc., a JUDr. Miroslava Feráka v právní věci žalobkyně Alvico s. r. o., se sídlem v Praze 10, V Olšinách 12, IČO 25113071, proti žalovanému A. H., podnikateli se sídlem podnikání ve Vranově 67, zastoupenému JUDr. Pavlem Ryšem, advokátem se sídlem v Blansku, Mahenova 1220/13, o zaplacení částky 548.413,- Kč s příslušenstvím, vedené u Okresního soudu Brno – venkov pod sp. zn. 5 C 820/99, o návrhu na přikázání jinému soudu z důvodu vhodnosti, takto:
+Věc vedená u Okresního soudu Brno – venkov pod sp. zn. 5 C 820/99 se nepřikazuje Obvodnímu soudu pro Prahu 10.
+O d ů v o d n ě n í :
+Žalobkyně podala návrh na přikázání věci Obvodnímu soudu pro Prahu 10, s tím, že žádá o delegaci z důvodu vhodnosti, neboť v průběhu velmi dlouho trvajícího řízení se zhoršil zdravotní stav jejího jednatele (bydlícího v P.), jenž mu neumožňuje dojíždět na jednání do B.
+Podle ustanovení § 12 odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013 /srovnej čl. II bod 2. zákona č. 293/2013 Sb./, dále jen „o. s. ř.”)., věc může být jinému soudu téhož stupně přikázána také z důvodu vhodnosti.
+Důvod vhodnosti pro přikázání věci jinému soudu téhož stupně ve smyslu ustanovení § 12 odst. 2 o. s. ř. představují takové okolnosti, které umožní hospodárnější, rychlejší a zejména po skutkové stránce spolehlivější a důkladnější projednání věci jiným než místně příslušným soudem. Přitom je třeba mít na zřeteli, že obecná místní příslušnost soudu, který má věc projednat, je zásadou základní a případná delegace příslušnosti jinému soudu je toliko výjimkou z této zásady, kterou je třeba – jako výjimku – vykládat restriktivně (k tomu srov. např. nález Ústavního soudu ze dne 15. listopadu 2001, sp. zn. I. ÚS 144/2000).
+Nejvyšší soud po zvážení rozhodných skutečností dospěl závěru, že důvod vhodnosti podle ustanovení § 12 odst. 2 o. s. ř. není dán.
+Žalovaný s delegací věci jinému soudu nesouhlasí, z obsahu spisu vyplývá, že soud prvního stupně již ve věci jednal, prováděl dokazování a také rozhodl, jeho rozsudek však odvolací soud zrušil a věc mu vrátil k dalšímu řízení. Řízení u jiného soudu, který není s věcí (na rozdíl od procesního soudu) obeznámen, by nebylo rychlejší a hospodárnější. K prolomení zásady vyjádřené v čl. 38 odst. 1 Listiny základních práv a svobod, podle níž nikdo nesmí být odňat svému zákonnému soudci a příslušnost soudu i soudce stanoví zákon, nepostačuje jen to, že v průběhu řízení se zdravotní stav jednatele žalobce zhoršil (srovnej např. usnesení Nejvyššího soudu ze dne 20. 5. 2013, sp. zn. 22 Nd 111/2013).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 4. února 2015
+JUDr. Pavlína Brzobohatá
+předsedkyně senátu
