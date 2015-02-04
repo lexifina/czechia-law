@@ -1,0 +1,22 @@
+{
+  "record_type": "case-law",
+  "court": "Nejvyšší správní soud",
+  "jurisdiction": "CZ",
+  "date": "2015-02-04",
+  "date_basis": "Official NSS open-data column Datum rozhodnutí (decision date).",
+  "ecli": "ECLI:CZ:NSS:2015:Pst.11.2014.33",
+  "docket": "Pst 11/2014",
+  "movement_type": "spisovna",
+  "case_type": "Politické strany a hnutí - rozpuštění, pozastavení nebo znovuobnovení činnosti",
+  "proceeding_type": null,
+  "decision_type": "Meritorní",
+  "form": "Rozsudek",
+  "outcome": "jiný výsledek",
+  "published_collection": "06.02.2015",
+  "source": "http://vyhledavac.nssoud.cz/GetContent?ECLI=ECLI:CZ:NSS:2015:Pst.11.2014.33",
+  "source_page": "https://www.nssoud.cz/informace-pro-verejnost/otevrena-data-k-soudni-cinnosti",
+  "bulk_source": "https://www.nssoud.cz/fileadmin/user_upload/dokumenty/Otevrena_data/Data_2026/Listopad/otevrena_data_NSS.xlsx",
+  "bulk_source_sha256": "42660df274be1e4c5002d5aaf97a7271931d81b99585ce9a33ddfb0fa79eedaa",
+  "xlsx_row": 47397,
+  "text_status": "metadata-only; official decision text link retained for later text import"
+}
