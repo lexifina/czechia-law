@@ -1,0 +1,11 @@
+26 Cdo 232/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Zbyňkem Polednou v exekuční věci oprávněné AR Development s.r.o. se sídlem v Brně, Veselá č. 5, IČO 27702413, proti povinnému D. M., zastoupenému JUDr. Martinem Hádkem, advokátem se sídlem v Praze 4, Trnková č. 1864/22, pro 1.210.000,- Kč s příslušenstvím a smluvní pokutu, vedené u Okresního soudu ve Zlíně pod sp. zn. 22 EXE 1761/2012, o dovolání povinného proti usnesení Krajského soudu v Brně – pobočky ve Zlíně ze dne 20. června 2013, č. j. 58 Co 30/2013-57, takto:
+Dovolání se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky dovolání povinného proti usnesení Krajského soudu v Brně – pobočky ve Zlíně ze dne 20. 6. 2013, č. j. 58 Co 30/2013-57, podle ustanovení § 243c odst. 3 věty první zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, ustanovení 243f odst. 2 o. s. ř. a ustanovení § 218a o. s. ř. jako opožděné odmítl, neboť bylo podáno po uplynutí lhůty uvedené v ustanovení § 240 odst. 1 o. s. ř. [podle ustanovení § 49 odst. 4 o. s. ř. se napadené rozhodnutí považuje za doručené 10. dnem ode dne, kdy písemnost byla připravena k vyzvednutí, i když se adresát (povinný) o uložení nedozvěděl, v posuzované věci dne 5. 8. 2013. Vzhledem k tomu, že napadené rozhodnutí odvolacího soudu nebylo možné po uplynutí 10 dnů vložit do schránky adresáta (povinného), doručovaná písemnost se vrátila Exekutorskému úřadu Brno-venkov, pověřeného soudního exekutora JUDr. Lubomíra Zálešáka, který o tom na úřední desce vyvěsil sdělení. Lhůta pro podání dovolání skončila v pondělí 7. 10. 2013 (ustanovení § 57 odst. 2 o. s. ř.). Podal-li dovolatel dovolání prostřednictvím datové schránky svého právního zástupce dne 15. 5. 2014, učinil tak opožděně].
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 10. února 2015
+JUDr. Zbyněk Poledna
+předseda senátu
