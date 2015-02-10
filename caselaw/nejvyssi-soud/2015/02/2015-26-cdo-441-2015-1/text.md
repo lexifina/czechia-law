@@ -1,0 +1,12 @@
+26 Cdo 441/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Zbyňkem Polednou v exekuční věci oprávněné Home Credit a. s. se sídlem v Brně, Nové sady č. 996/25, IČO 26978636, zastoupené JUDr. Vladimírem Muzikářem, advokátem se sídlem v Brně, Havlíčkova č. 127/13, proti povinným 1) M. L., P., zastoupené Mgr. Blankou Severovou, advokátkou se sídlem v Pelhřimově, Karlovo náměstí č. 167, 2) P. L., P., a 3) R. L., P., pro 28.534,60 Kč s příslušenstvím, vedené u soudního exekutora JUDr. Víta Novozámského, Exekutorský úřad Brno-město, pod sp. zn. 56 EX 4688/05, o dovolání povinné 1) proti usnesení Krajského soudu v Českých Budějovicích – pobočky v Táboře ze dne 27. února 2013, č. j. 15 Co 49/2013-137, takto:
+Dovolání se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky dovolání povinné 1) proti usnesení Krajského soudu v Českých Budějovicích – pobočky v Táboře ze dne 27. 2. 2013, č. j. 15 Co 49/2013-137, podle ustanovení § 243c odst. 3 věty první zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, ustanovení 243f odst. 2 o. s. ř. a ustanovení § 218a o. s. ř. jako opožděné odmítl, neboť bylo podáno po uplynutí lhůty uvedené v ustanovení § 240 odst. 1 o. s. ř. [podle ustanovení § 49 odst. 4 o. s. ř. nevyzvedne-li si adresát písemnost ve lhůtě 10 dnů ode dne, kdy byla připravena k vyzvednutí (zde dne 12. 3. 2013), považuje se písemnost posledním dnem této lhůty za doručenou, i když se adresát o uložení nedozvěděl. v posuzované věci dne 22. 3. 2013. Lhůta pro podání dovolání tak skončila dne 22. 5. 2013. Podala-li povinná 1) bez právního zastoupení dovolání společně s žádostí o ustanovení zástupce dne 23. 5. 2013, učinila tak opožděně. K nesplnění povinnosti povinného zastoupení dovolatelky se za této situace podle ustanovení § 241b odst. 2 o. s. ř. nepřihlíží, dovolací soudu proto nevycházel z doplnění dovolání ze dne 15. 1. 2015 učiněného právní zástupkyní dovolatelky].
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně
+dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 10. února 2015
+JUDr. Zbyněk Poledna
+předseda senátu
