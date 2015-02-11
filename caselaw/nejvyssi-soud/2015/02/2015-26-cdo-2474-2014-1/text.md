@@ -1,0 +1,16 @@
+26 Cdo 2474/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně Doc. JUDr. Věry Korecké, CSc., a soudců JUDr. Miroslava Feráka a JUDr. Jitky Dýškové ve věci žalobce M. K., proti žalovanému P. Č., zastoupenému JUDr. Soňou Illner Pajerovou, advokátkou se sídlem Praha 1, Dlouhá 16, o určení neplatnosti výpovědi z užívání části rodinného domu, vedené u Obvodního soudu pro Prahu 6 pod sp. zn. 28 C 215/2011, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 13. ledna 2014, č. j. 21 Co 528/2013-180, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í:
+Městský soud v Praze (soud odvolací) usnesením ze dne 13. 1. 2014, č. j. 21 Co 528/2013-180, potvrdil usnesení ze dne 15. 11. 2013, č. j. 28 C 215/2011-174, kterým Obvodní soud pro Prahu 6 (soud prvního stupně) neustanovil žalobci zástupce pro dovolací řízení.
+Proti usnesení odvolacího soudu podal žalobce dovolání, poukazoval na to, že nebyl vyzván k doplnění a vysvětlení otázek zmíněných v rozhodnutí soudu prvního stupně a požádal o „řešení otázky poplatků a právního zastoupení“.
+Dovolatel sice není v dovolacím řízení zastoupen advokátem a sám rovněž nemá právnické vzdělání (srovnej § 241 odst. 1 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2013, dále jen „o. s. ř.”), povaha rozhodnutí, proti němuž dovolání směřuje, však vylučuje, aby v posuzované věci bylo možno nedostatek podmínky povinného zastoupení považovat za překážku, jež by bránila vydání rozhodnutí v dovolacím řízení. Za situace, kdy předmětem dovolacího přezkumu je rozhodnutí, jímž nebylo vyhověno žádosti účastníka o ustanovení zástupce z řad advokátů (§ 30 o. s. ř.), by trvání na podmínce povinného zastoupení vedlo k vlastnímu popření cíle, jenž účastník podáním žádosti sledoval a k popření vlastního smyslu dovolacího řízení, v němž má být zkoumán závěr o tom, že účastník nemá právo na ustanovení zástupce (srovnej usnesení Nejvyššího soudu ze dne 28. 4. 1997, sp.zn. 2 Cdon 609/97, uveřejněné pod č. 97 v časopise Soudní judikatura 10/1997).
+Nejvyšší soud v souladu s čl. II bod 2. zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, projednal dovolání a rozhodl o něm podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2013 (dále opět jen „o. s. ř.”).
+I když soudní praxe umožňuje, aby účastník řízení ve shora uvedeném případě sepsal dovolání bez odborné právní pomoci, i takové dovolání musí splňovat náležitosti dané zákonem, tj. především ustanovením § 241a o. s. ř. Dovolání žalobce, podané na poštu dne 26. 2. 2014, všechny zákonem vyžadované náležitosti (srov. § 241a odst. 2 o. s. ř.) neobsahuje, neboť v něm dovolatel neuvedl, v čem spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a o. s. ř.), a nevymezil dovolací důvod ve smyslu § 241a odst. 1 a 3 o. s. ř.
+Protože uvedený nedostatek nebyl ve lhůtě odstraněn, trpí dovolání vadou, pro kterou nelze v dovolacím řízení pokračovat. Nejvyšší soud proto dovolání podle § 243c odst. 1 věty první o. s. ř. odmítl.
+Dovolací soud nerozhoduje o nákladech dovolacího řízení, nejde-li o rozhodnutí, jímž se řízení končí.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 11. února 2015
+Doc. JUDr. Věra Korecká, CSc.
+předsedkyně senátu
