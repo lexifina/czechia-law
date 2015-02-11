@@ -1,0 +1,13 @@
+26 Cdo 416/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu JUDr. Miroslavou Jirmanovou, Ph.D., v exekuční věci oprávněného T. P., V. n. L., zastoupeného JUDr. Janou Macháčkovou, advokátkou se sídlem v Táboře, Purkyňova 1199/10, proti povinnému V. D., H., za účasti vydražitele K. Ř., Č., pro 100.000 Kč s příslušenstvím, vedené soudní exekutorkou Mgr. Martinou Douchovou, Exekutorský úřad Tábor, pod sp. zn. 017 EX 478/12, o dovolání povinného proti usnesení Krajského soudu v Českých Budějovicích ze dne 24. 1. 2014, č. j. 24 Co 109/2014-92, takto:
+Dovolací řízení se zastavuje.
+Odůvodnění:
+Krajský soud v Českých Budějovicích v záhlaví označeným rozhodnutím potvrdil usnesení ze dne 5. 12. 2013, č. j. 017 EX 478/12-86, kterým soudní exekutorka Mgr. Martina Douchová, Exekutorský úřad Tábor, udělila příklep vydražiteli na vydražených nemovitých věcech, v usnesení blíže specifikovaných.
+Povinný napadl usnesení odvolacího soudu dovoláním, které vykazovalo nedostatek bránící pokračování dovolacího řízení (nebylo sepsáno advokátem), přičemž ze spisu nevyplývalo, že by za povinný měl právnické vzdělání. Proto ho soudní exekutorka usnesením ze dne 20. 2. 2014, č. j. EX 478/12-98 (doručeným povinnému dne 24. 2. 2014), vyzvala, aby doplnil své dovolání ve lhůtě 15 dnů od doručení tak, že bude sepsáno advokátem; přípisem ze dne 15. 8. 2014, č. j. 017 EX 478/12-115 (doručeným povinnému dne 20. 8. 2014) dále povinného poučila, že může požádat o ustanovení zástupce z řad advokátů a poskytla mu lhůtu k podání žádosti v délce 14 dní od doručení. Povinný však ve stanovené lhůtě dovolání požadovaným způsobem nedoplnil, ani nepožádal o ustanovení zástupce z řad advokátů.
+Jelikož povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – kromě usnesení, kterým se dovolací řízení právě pro neodstranění tohoto nedostatku zastavuje – vydání rozhodnutí, jímž se řízení končí, a protože ke zhojení tohoto nedostatku přes řádnou výzvu nedošlo, Nejvyšší soud dovolací řízení podle § 104 odst. 2 věty třetí, § 241b odst. 2 a § 243f odst. 2 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2013 do 31. 12. 2013 (srov. část první, čl. II, bod 7. zákona č. 404/2012 Sb. a část první, čl. II, bod 2. zákona č. 293/2013 Sb.), zastavil.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 11. února 2015
+JUDr. Miroslava Jirmanová, Ph.D.
+předsedkyně senátu
