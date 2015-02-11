@@ -1,0 +1,18 @@
+30 Cdo 3550/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Simona a soudců Mgr. Víta Bičáka a JUDr. Františka Ištvánka v právní věci žalobce M. T., zastoupeného JUDr. Lubomírem Švábem, advokátem se sídlem v Děčíně, Masarykovo náměstí 2/2, proti žalované České republice – Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 424/16, o zaplacení 165.000,- Kč, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 10 C 181/2012, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 6. 5. 2014, č. j. 17 Co 10/2014-58, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalobce se domáhal částky 165.000,- Kč jako zadostiučinění za nemajetkovou újmu, která mu měla vzniknout v důsledku nepřiměřené délky řízení vedeného u Okresního soudu v Děčíně pod sp. zn. 13 C 306/2006. Obvodní soud pro Prahu 2 jako soud prvního stupně rozsudkem ze dne 4. 11. 2013, č. j. 10 C 181/2012-41, žalobu zamítl. Městský soud v Praze jako soud odvolací napadeným rozsudkem rozsudek soudu prvního stupně potvrdil.
+Nejvyšší soud podle § 243c odst. 1 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2013 do 31. 12. 2013 (viz čl. II bod 7. zákona č. 404/2012 Sb. a čl. II bod 2 zákona č. 293/2013 Sb.), dále jen o. s. ř., dovolání žalobce odmítl jako nepřípustné.
+Námitky žalobce, podle kterých řízení trvalo nepřiměřeně dlouhou dobu, soudy v něm nepostupovaly koncentrovaně a provedení důkazu znaleckým posudkem bylo nadbytečné, nemohou přípustnost dovolání založit, neboť se jedná o pouhá obecná tvrzení, která nejsou bez dalšího s to vyvrátit závěry, na nichž odvolací soud založil napadené rozhodnutí. Žalobce neuvedl žádný konkrétní případ průtahů v posuzovaném řízení, ani neuvedl, z jakého důvodu považuje provedení důkazu znaleckým posudkem za nadbytečné, když soud prvního stupně, s jehož posouzením věci se ztotožnil i soud odvolací, ve svém rozsudku uzavřel, že ustanovení soudního znalce bylo nutné k určení pravosti podpisu a písma druhého účastníka posuzovaného řízení, neboť soudu byly předloženy dvě výpovědi nájemní smlouvy a soud musel zjišťovat, která z nich je pravá.
+Co se týče námitky nadbytečnosti provedení důkazu výslechem matrikářky, jedná se o nepřípustné uplatnění nové skutečnosti v dovolání ve smyslu ustanovení § 241a odst. 6 o. s. ř., dovolací soud se proto uvedenou námitkou nezabýval.
+Namítá-li žalobce, že se nepodílel na délce soudního řízení, napadá tak skutkové závěry soudu prvního stupně, převzaté soudem odvolacím, (podle kterých žalobce např. nedodržel lhůtu stanovenou k provedení úkonu atd.). Jedná se proto o uplatnění nezpůsobilého dovolacího důvodu (srov. § 241a odst. 1 o. s. ř.).
+Otázku, zda se jednalo o řízení složité, posoudil soud odvolací v souladu s judikaturou, když uvedl, že řízení bylo komplikované, neboť věc byla projednávána na dvou stupních soudní soustavy a bylo nutno vypracovat znalecký posudek (srov. stanovisko občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne 13. 4. 2011, sp. zn. Cpjn 206/2010, uveřejněné pod číslem 58/2011 Sbírky soudních rozhodnutí a stanovisek, část IV., odstavec ad a/).
+Napadá-li žalobce rozsudek odvolacího soudu rovněž v rozsahu, v němž bylo rozhodnuto o náhradě nákladů řízení, neobsahuje dovolání v této části zákonné náležitosti (§ 241a odst. 2 o. s. ř.) a v dovolacím řízení proto nelze pro vady dovolání v uvedeném rozsahu pokračovat.
+Nákladový výrok netřeba odůvodňovat (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení nejsou přípustné opravné prostředky.
+V Brně dne 11. února 2015
+JUDr. Pavel Simon
+předseda senátu
