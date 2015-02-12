@@ -1,0 +1,13 @@
+26 Cdo 313/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zbyňka Poledny a soudců JUDr. Miroslavy Jirmanové, Ph.D., a JUDr. Vladimíra Mikuška v exekuční věci oprávněné MIDESTA, s.r.o. se sídlem v Brně, Čechyňská č. 419/14a, IČO 27685098, zastoupené Mgr. Markem Indrou, advokátem se sídlem Brně, Čechyňská č. 361/16, proti povinné A. M., zastoupené JUDr. Jaroslavem Skoupým, advokátem se sídlem v Rakovníku, Havlíčkova č. 584, za účasti manžela povinné J. M., pro 237.201,68 Kč s příslušenstvím, vedené u Okresního soudu v Rakovníku pod sp. zn. 26 EXE 1109/2013, o dovoláních povinné a manžela povinné proti usnesení Krajského soudu v Praze ze dne 28. srpna 2014, č. j. 27 Co 332/2014-193, takto:
+I. Dovolání povinné se odmítá.
+II. Dovolání manžela povinné se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání povinné a jejího manžela proti usnesení Krajského soudu v Praze ze dne 28. 8. 2014, č. j. 27 Co 332/2014-193, kterým bylo potvrzeno usnesení soudu prvního stupně, jímž byl zamítnut návrh na zastavení exekuce podaný povinnou dne 11. 3. 2013, návrh na zastavení exekuce podaný povinnou a jejím manželem dne 12. 3. 2013 a návrh na zastavení exekuce podaný manželem povinné dne 19. 4. 2013, doplněný dne 13. 12. 2013 a dne 19. 3. 2014, nejsou přípustná podle ustanovení § 237 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, neboť rozhodnutí odvolacího soudu je v otázce splnění podmínek pro zastavení exekuce v souladu s ustálenou rozhodovací praxí dovolacího soudu [k tomuto srov. například odůvodnění usnesení Nejvyššího soudu ze dne 26. 9. 2012, sp. zn. 20 Cdo 4465/2010 nebo usnesení Nejvyššího soudu ze dne 31. 10. 2006, č. j. 20 Cdo 1062/2015] a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+S ohledem na výše uvedené jsou bez významu námitky dovolatelky o nesrozumitelné a neurčité formulaci usnesení o schválení smíru, které je v dané věci exekučním titulem, neboť se jedná o nové skutečnosti, které v dovolání nelze uplatnit (§ 241a odst. 6 o. s. ř.). Nejvyšší soud České republiky proto dovolání povinné a dovolání manžela povinné podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 12. února 2015
+JUDr. Zbyněk Poledna
+předseda senátu
