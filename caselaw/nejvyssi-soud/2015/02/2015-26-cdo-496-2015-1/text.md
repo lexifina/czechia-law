@@ -1,0 +1,11 @@
+26 Cdo 496/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Zbyňkem Polednou v exekuční věci oprávněné D & s group, a. s. se sídlem ve Žďírci nad Doubravou, Chrudimská č. 162, IČO 25987054, zastoupené Slavomírem Teclem, advokátem se sídlem v Havlíčkově Brodě, Kalinovo nábřeží č. 605, proti povinným 1) PhDr. A. K., P., 2) E. K., H. L., zastoupeným JUDr. Petrem Šádou, advokátem se sídlem v Moravanech, Slunečná č. 243, pro 384.337,80 Kč s příslušenstvím, vedené u Okresního soudu v Ústí nad Orlicí, sp. zn. 0 EXE 2526/2011, o dovolání povinného 1) proti usnesení Krajského soudu v Hradci Králové ze dne 20. října 2014, č. j. 24 Co 337/2014-201, takto:
+Dovolání se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky dovolání povinného 1) proti usnesení Krajského soudu v Hradci Králové ze dne 20. 10. 2014, č. j. 24 Co 337/2014-201, podle ustanovení § 243c odst. 1 věty první zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, odmítl, neboť dovolání nesplňuje obligatorní náležitosti dovolání uvedené v ustanovení § 241a odst. 2 o. s. ř., když především neobsahuje údaj o tom, v čem přesně dovolatel spatřuje splnění předpokladů přípustnosti dovolání. V dovolání jsou navíc uplatněny jiné dovolací důvody než ten, který je uveden v ustanovení § 241a odst. 1 o. s. ř. (podstatou námitek dovolatele je jeho nesouhlas se skutkovými závěry odvolacího soudu, že povinní neprokázali zánik pohledávky uhrazením dlužné částky, a s hodnocením provedených důkazů, především znaleckého posudku, na základě něhož odvolací soud k tomuto skutkovému závěru dospěl). V dovolacím řízení proto nelze pokračovat.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 17. února 2015
+JUDr. Zbyněk Poledna
+předseda senátu
