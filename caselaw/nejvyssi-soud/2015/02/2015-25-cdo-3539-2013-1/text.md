@@ -1,0 +1,13 @@
+25 Cdo 3539/2013
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedkyně JUDr. Marty Škárové a soudců JUDr. Petra Vojtka a JUDr. Roberta Waltra v právní věci žalobce J. P., zastoupeného Mgr. Pavlem Rybářem, advokátem se sídlem v Sokolově, Slovenská 2136, proti žalovaným 1) M. S., a 2) P. S., oběma zastoupeným JUDr. Václavem Krondlem, advokátem se sídlem v Karlových Varech, Jiráskova 1343/2, o 123.151,- Kč s příslušenstvím, vedené u Okresního soudu v Sokolově pod sp. zn. 12 C 210/2010, o dovolání žalobce proti rozsudku Krajského soudu v Plzni ze dne 26. června 2013, č. j. 12 Co 289/2013-194, takto:
+I. Dovolání se odmítá.
+II. Žalobce je povinen zaplatit žalovaným na náhradě nákladů dovolacího řízení částku 12.095,- Kč k rukám JUDr. Václava Krondla, advokáta se sídlem v Karlových Varech, Jiráskova 1343/2, do tří dnů od právní moci tohoto usnesení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalobce proti rozsudku Krajského soudu v Plzni ze dne 26. června 2013, č. j. 12 Co 289/2013-194, není podle ustanovení § 237 o. s. ř. přípustné, neboť nejsou splněny podmínky přípustnosti v tomto ustanovení uvedené. Pokud dovolatel namítá, že se odvolací soud ve svém rozhodnutí odchýlil od ustálené judikatury dovolacího soudu, konkrétně od rozhodnutí sp. zn. 25 Cdo 2264/2000, nelze mu přisvědčit. Kromě závěru, že prevenční povinností ve smyslu § 415 obč. zák. je též provedení opatření zamezujících či snižujících možnost sesuvu sněhu a pádu se střechy domu na veřejně přístupná místa (vozovka, chodník apod.) nebo alespoň upozornění na možnost takového nebezpečí v daném místě, z uvedeného rozhodnutí zároveň vyplývá, že pro posouzení podílu poškozeného na vzniku škody podle § 441 obč. zák. má význam okolnost, zda v místě, kde došlo ke škodě na zaparkovaném voze, bylo stání vozidel dovoleno či zakázáno. V daném případě ke škodě došlo pádem sněhu na soukromý pozemek, na němž žalobce parkoval svůj vůz, aniž by k tomuto místu měl jakýkoliv vztah opravňující ho k užívání pozemku či k odstavení vozidla. Nelze dovodit, že odvolací soud při právním posouzení věci se odchýlil od ustálené rozhodovací praxe dovolacího soudu, když uzavřel, že žalobce si škodu vzniklou na svém automobilu způsobil sám, když svůj automobil neoprávněně zaparkoval na pozemku žalovaných v blízkosti domu, v němž bydlel, přestože si musel být vědom hrozby sesuvu sněhu se střechy domu.
+Nejvyšší soud proto dovolání jako nepřípustné podle § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 18. února 2015
+JUDr. Marta Škárová
+předsedkyně senátu
