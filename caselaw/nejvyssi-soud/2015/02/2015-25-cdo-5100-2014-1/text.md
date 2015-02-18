@@ -1,0 +1,13 @@
+25 Cdo 5100/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Vojtka a soudců JUDr. Aleše Zezuly a JUDr. Marty Škárové v právní věci žalobce J. Š., zastoupeného JUDr. Julií Šindelářovou, advokátkou se sídlem v Plzni, Mikulášská 455/9, proti žalované Kooperativa pojišťovně, a.s., Vienna Insurance Group, se sídlem v Praze 8, Pobřežní 665/21, IČO 47116617, o 1.716.000,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 8 pod sp. zn. 23 C 253/2012, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 12. června 2014, č. j. 17 Co 229/2014-102, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.) :
+Žalobce ve svém dovolání ze dne 10. 10. 2014 napadl část odstavce prvního výroku rozsudku Městského soudu v Praze ze dne 12. 6. 2014, č. j. 17 Co 229/2014-102, kterou byl změněn rozsudek Obvodního soudu pro Prahu 8 ze dne 10. 10. 2013, č. j. 23 C 253/2012-74, tak, že žaloba se co do částky 396.000,- Kč s úroky z prodlení z částky 1.716.000,- Kč od 7. 8. 2012 zamítá. K důvodu dovolání s odkazem na § 241a odst. 1 občanského soudního řádu (zákona č. 99/1963 Sb. ve znění účinném ke dni vydání napadeného rozsudku, dále jen „o. s. ř.“ – viz čl. II. bod 7 zákona č. 404/2012 Sb., kterým se mění o. s. ř.) namítl, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci, „a to stanovení výše bodového ohodnocení náhrady za ZSU a tomu odpovídající finanční protiplnění“. Současně odvolacímu soudu vytkl, že „neadekvátně odůvodnil své rozhodnutí“ ohledně zvýšení náhrady za ztížení společenského uplatnění „toliko v základní bodové výměře“.
+Nejvyšší soud jako soud dovolací (§ 10a o. s. ř.) dovolání žalobce dle § 243c odst. 1 o. s. ř. odmítl pro vady, které nebyly v rámci dovolací lhůty (§ 240 a § 241b odst. 3 o. s. ř.) odstraněny a jejichž existence brání pokračování v dovolacím řízení. Dovolatel toliko vyjádřil dovolací důvod podle § 241a odst. 1 o. s. ř., avšak zcela pominul uvést, v čem spatřuje splnění předpokladů přípustnosti dovolání ve smyslu § 237 až § 238a o. s. ř. V důsledku toho podání žalobce postrádá zákonem stanovenou náležitost dovolání dle § 241a odst. 2 o. s. ř., a proto je nelze věcně projednat (srov. usnesení Nejvyššího soudu ze dne 25. 9. 2013, sp. zn. 29 Cdo 2394/2013, uveřejněné pod č. 4/2014 Sbírky soudních rozhodnutí a stanovisek).
+V případě odmítnutí dovolání se výrok o náhradě nákladů dovolacího řízení nezdůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 18. února 2015
+JUDr. Petr Vojtek
+předseda senátu
