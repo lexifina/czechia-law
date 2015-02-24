@@ -1,0 +1,14 @@
+22 Nd 393/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy Mgr. Davida Havlíka a soudců JUDr. Jiřího Spáčila, CSc., a Mgr. Michala Králíka, Ph.D., v exekuční věci oprávněného města Turnov, IČO: 00276227, se sídlem úřadu v Turnově, Antonína Dvořáka 335, zastoupeného Mgr. Lukášem Zscherpem, advokátem se sídlem v Plzni, Lochotínská 1108, proti povinnému P. S., M., pro 1.500,- Kč, vedené u Okresního soudu v Břeclavi pod sp. zn. 18 EXE 504/2014, o návrhu na určení místní příslušnosti soudu, takto:
+Věc vedenou u Okresního soudu v Břeclavi pod sp. zn. 18 EXE 504/2014 projedná a rozhodne Okresní soud Plzeň - město.
+O d ů v o d n ě n í :
+Soudní exekutor Mgr. Ing. Jiří Prošek se sídlem v Plzni, Rychtaříkova 2173, podal dne 12. srpna 2014 k Okresnímu soudu v Břeclavi žádost o pověření a nařízení exekuce na majetek povinného pro vymožení pohledávky oprávněného ve výši 1.500,- Kč.
+Okresní soud v Břeclavi usnesením ze dne 11. září 2014, č. j. 18 EXE 504/2014-10, vyslovil podle § 105 odst. 2 občanského soudního řádu (dále „o. s. ř.“) svou místní nepříslušnost v exekuční věci a rozhodl, že po marném uplynutí lhůty k odvolání oprávněného věc předloží dle § 11 odst. 3 o. s. ř. Nejvyššímu soudu České republiky, aby určil, který soud věc projedná a rozhodne. V odůvodnění usnesení uvedl, že nařízení exekuce na základě rozhodnutí Městského úřadu Turnov je v pravomoci soudů ČR, avšak podmínky místní příslušnosti nelze zjistit, neboť „v návrhu je povinný označen bytem v M., českým registrem obyvatel však tato osoba neprochází. Z návrhu ani exekučního titulu není patrno, z jakého dokladu povinného bylo jeho bydliště zjištěno. Ze systému ISAS OS Břeclav nebylo o povinném nic zjištěno“.
+Podle § 11 odst. 1 občanského soudního řádu (dále jen „o. s. ř.“) se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Nejvyšší soud po předložení věci Okresním soudem v Břeclavi podle ustanovení § 11 odst. 3 o. s. ř., přihlížeje k zásadě hospodárnosti řízení, k sídlu advokáta zastupujícího město Turnov, na základě jehož rozhodnutí o uložení pokuty za spáchání přestupku bylo navrženo nařízení exekuce, a k sídlu exekutora pověřeného provedením exekuce rozhodl, jak uvedeno ve výroku (k tomu srovnej např. usnesení velkého senátu občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne 12. září 2012, sp. zn. 31 Nd 200/2012).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 24. února 2015
+Mgr. David Havlík
+předseda senátu
