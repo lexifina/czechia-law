@@ -1,0 +1,14 @@
+26 Cdo 4975/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu JUDr. Jitkou Dýškovou v exekuční věci oprávněného Dopravního podniku Ostrava a.s., se sídlem v Ostravě – Moravské Ostravě, Poděbradova 494/2, IČO 61974757, zastoupeného Mgr. Martinem Brudným, advokátem se sídlem v Ostravě - Moravské Ostravě, Škroupova 1114/4, proti povinnému J. S., pro 3.021,- Kč s příslušenstvím, vedené u Okresního soudu v Ostravě pod sp. zn. 98 Nc 11925/2008, o dovolání povinného proti usnesení Krajského soudu v Ostravě ze dne 29. listopadu 2010, č. j. 9 Co 1064/2010-25, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í (§ 243c odst. 2 o. s. ř.):
+Povinný napadl dovoláním usnesení Krajského soudu v Ostravě ze dne 29. 11. 2010, č. j. 9 Co 1064/2010-25, jímž odvolací soud odmítl jeho odvolání proti usnesení Okresní soud v Ostravě ze dne 5. 9. 2008, č. j. 98 Nc 11925/2008-3, kterým soud prvního stupně nařídil exekuci na majetek povinného pro částku 3.021,- Kč s příslušenstvím podle rozsudku Okresního soudu v Ostravě ze dne 30. 8. 2005, č. j. 84 C 186/2004-23, a jejím provedením pověřil soudního exekutora JUDr. Jana Grosama, Exekutorský úřad Praha 6 se sídlem Bělohorská 17/270, Praha 6 – Břevnov.
+Po podání dovolání soudní exekutor Exekutorského úřadu Praha 6 usnesením ze dne 5. 3. 2013, č. j. 025 Ex 14317/2008-21, exekuci na majetek povinného, nařízenou usnesením Okresního soudu v Ostravě ze dne 5. 9. 2008, č. j. 98 Nc 11925/2008-3, zastavil a rozhodl o nákladech účastníků a exekutora. Toto rozhodnutí nabylo ve výroku o zastavení exekuce právní moci dne 28. 3. 2013.
+Za stavu, kdy exekuce na majetek povinného byla zastavena, je z povahy věci bezpředmětné rozhodovat o jeho dovolání proti usnesení odvolacího soudu o odmítnutí jeho odvolání proti usnesení o nařízení exekuce, jehož účinky zastavením exekuce pominuly. Nejvyšší soud České republiky proto dovolací řízení podle ustanovení § 243c odst. 1 a § 104 odst. 1 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2012 (srov. čl. II, bod 7 zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dále jen „o. s. ř.“) zastavil, aniž se zabýval nedostatkem advokátního zastoupení dovolatele ve smyslu § 241 o. s. ř. (srov. obdobně usnesení Nejvyššího soudu ze dne 16. 9. 2014, sp. zn. 26 Cdo 2479/2014).
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 1písm. c) o. s. ř., neboť povinný s ohledem na výsledek řízení na náhradu svých nákladů nemá právo a oprávněnému v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 24. února 2015
+JUDr. Jitka Dýšková
+předsedkyně senátu
