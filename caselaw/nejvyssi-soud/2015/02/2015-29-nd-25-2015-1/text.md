@@ -1,0 +1,15 @@
+29 Nd 25/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Filipa Cilečka a soudců Mgr. Milana Poláška a JUDr. Petra Šuka v právní věci oprávněné Plzeňské městské dopravní podniky, a. s., se sídlem v Plzni, Denisovo nábřeží 920/12, PSČ 301 00, identifikační číslo osoby 25220683, zastoupené Mgr. Martinem Zikmundem, advokátem, se sídlem v Plzni, Šafaříkovy sady 2455/5, PSČ 301 00, proti povinné A. M., o pověření exekutora a nařízení exekuce, vedené u Okresního soudu v Uherském Hradišti pod sp. zn. 25 EXE 814/2014, o určení místní příslušnosti soudu, takto:
+Věc vedenou u Okresního soudu v Uherském Hradišti pod sp. zn. 25 EXE 814/2014 projedná a rozhodne Okresní soud v Uherském Hradišti.
+O d ů v o d n ě n í :
+Návrhem ze dne 4. listopadu 2014, podaným u soudní exekutorky JUDr. Venduly Flajšhansové, se oprávněná vůči povinné domáhá nařízení exekuce k vymožení pohledávky přiznané jí rozsudkem Okresního soudu v Uherském Hradišti ze dne 6. prosince 2013, č. j. 315 C 58/2012-79, ve výši 1.012,- Kč s příslušenstvím, s tím, aby provedením exekuce byla pověřena soudní exekutorka JUDr. Vendula Flajšhansová.
+Okresní soud v Uherském Hradišti usnesením ze dne 23. prosince 2014, č. j. 25 EXE 814/2014-17, vyslovil svou místní nepříslušnost a věc předložil Nejvyššímu soudu k určení, který soud věc projedná a rozhodne.
+Soud uvedl, že povinná má od roku 1992 ukončený pobyt občana České republiky. Ohledně majetku povinné nejsou soudu ani oprávněnému známy žádné informace a soud je ani nezjišťoval, neboť tyto skutečnosti vyjdou najevo až prováděním exekuce pověřeným soudním exekutorem. Podmínky místní příslušnosti tak nelze zjistit.
+Podle § 11 odst. 3 zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Místní příslušnost soudu v exekučním řízení upravuje § 45 odst. 2 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekučního řádu), podle něhož je místně příslušným exekučním soudem soud, v jehož obvodu má povinný, je-li fyzickou osobou, místo svého trvalého pobytu, popřípadě místo pobytu na území České republiky podle druhu pobytu cizince. Je-li povinný právnickou osobou, je místně příslušným soud, v jehož obvodu má povinný sídlo. Nemá-li povinný, který je fyzickou osobou, v České republice místo trvalého pobytu nebo místo pobytu podle věty první, nebo nemá-li povinný, který je právnickou osobou, sídlo v České republice, je místně příslušným soud, v jehož obvodu má povinný majetek.
+Protože kritéria § 45 odst. 2 exekučního řádu se v projednávané věci nemohou uplatnit, určil (s přihlédnutím k zásadě hospodárnosti řízení vyjádřené v § 6 o. s. ř.) Nejvyšší soud podle § 11 odst. 3 o. s. ř. pro rozhodnutí o návrhu místně příslušným Okresní soud v Uherském Hradišti, u něhož bylo řízení zahájeno (a u kterého proběhlo i nalézací řízení).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 25. února 2015
+JUDr. Filip C i l e č e k
+předseda senátu
