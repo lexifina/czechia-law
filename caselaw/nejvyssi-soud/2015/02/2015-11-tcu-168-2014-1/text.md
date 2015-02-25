@@ -1,0 +1,17 @@
+11 Tcu 168/2014-23
+U S N E S E N Í
+Nejvyšší soud projednal dne 25. února 2015 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl takto:
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení státní občanky České republiky M. B. (S.), roz. M., rozsudkem Trestního soudu v Algeciras, Španělské království, ze dne 11. 2. 2013, sp. zn. 427/12, hledí jako na odsouzení soudem České republiky.
+Odůvodnění:
+Rozsudkem Trestního soudu v Algeciras, Španělské království, ze dne 11. 2. 2013, sp. zn. 427/12, který nabyl právní moci dne 11. 2. 2013, byla M. B. (S.), roz. M., uznána vinnou trestným činem ohrožení veřejného zdraví podle článků 368 a 369 odst. 5 trestního zákoníku Španělského království, a byla odsouzena k nepodmíněnému trestu odnětí svobody v trvání 3 (tří) let a 1(jednoho dne).
+Podle skutkových zjištění cizozemského soudu se M. B. dopustila trestné činnosti tím, že po příjezdu z T. nesla pod oblečením a v útrobách svého těla hašiš o hmotnosti 4 576 gramů s obsahem THC vyšším než 24 %, v hodnotě 7 051,62 eur, přičemž tato látka byla určena pro pozdější distribuci třetím osobám a byla přistižena policejními orgány v přístavu v T.
+Ministerstvo spravedlnosti České republiky podalo dopisem pod sp. zn. MSP-453/2014-MOT-T/7 ze dne 11. 11. 2014 návrh na přijetí rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů ve znění pozdějších předpisů (dále jen „zákon“). Tento návrh byl doručen Nejvyššímu soudu dne 13. 11. 2014.
+Nejvyšší soud věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro rozhodnutí podle § 4a odst. 3 zákona.
+Především je třeba uvést, že podle § 4a odst. 3 zákona může Nejvyšší soud na návrh Ministerstva spravedlnosti České republiky rozhodnout, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se odsouzení týká činu, který je trestný i podle právního řádu České republiky a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Z podaného návrhu a z obsahu připojeného spisu vyplývá, že odsouzená je občankou České republiky, byla odsouzena soudem jiného členského státu Evropské unie a odsouzení se týká skutku, který vykazuje znaky trestného činu i podle příslušných právních předpisů České republiky (trestný čin nedovolené výroby a jiného nakládání s omamnými a psychotropními látkami a s jedy podle § 283 tr. zákoníku). Tím jsou splněny formální podmínky ustanovení § 4a odst. 3 zákona.
+V posuzované věci jsou dány i podmínky materiální povahy. Odsouzená se dopustila úmyslné trestné činnosti směřující proti zájmu společnosti na ochraně před možným nebezpečím vyplývajícím z nekontrolovaného nakládání s omamnými a psychotropními látkami. Jednala přitom v takovém rozsahu (zejména pokud jde o množství látky), že již lze tuto trestnou činnost označit za závažnou ve smyslu § 4a odst. 3 zákona. Pokud jde o druh trestu, byl jí uložen nezanedbatelný nepodmíněný trest odnětí svobody. Lze tedy dovodit, že podmínky ustanovení § 4a odst. 3 zákona týkající se závažnosti činu a druhu uloženého trestu jsou splněny.
+Z uvedených důvodů proto Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 25. února 2015
+Předseda senátu:
+JUDr. Stanislav Rizman
