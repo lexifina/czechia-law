@@ -1,0 +1,15 @@
+33 Cdo 5353/2014
+U S N E S E N Í
+Nejvyšší soud rozhodl předsedou senátu JUDr. Václavem Dudou ve věci žalobkyně E. S., zastoupeného JUDr. Josefem Doubkem, advokátem se sídlem v Pelhřimově, Tylova 242, proti žalovanému S. P., s místem podnikání v Praze - Žižkově, Fibichova 1586/11, zastoupenému JUDr. Zuzanou Suchánkovou, advokátkou se sídlem v Praze 1, 28. října 1001/3, o 74.000,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 3 pod sp. zn. 5 C 232/2012, o dovolání žalobkyně proti rozsudku Městského soudu v Praze ze dne 7. května 2014, č. j. 72 Co 92/2014-179, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Dovolání proti v záhlaví uvedenému rozhodnutí neobsahuje obligatorní náležitost, a sice vymezení toho, v čem žalobkyně spatřuje splnění předpokladů přípustnosti dovolání [§ 241a odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013 (srov. čl. II bod 1, 7 zákona č. 404/2012 Sb., čl. II bod 2 zákona č. 293/2013 Sb.) - dále jen „o. s. ř.“]; o tuto náležitost již dovolání nemůže být doplněno (§ 241b odst. 3 o. s. ř.) a v dovolacím řízení pro tuto vadu nelze pokračovat.
+Obsahově (§ 41 odst. 2 o. s. ř.) dovolatelka pouze polemizuje s tím, jak odvolací soud rozhodl, přičemž dovolacímu přezkumu nepředkládá žádnou otázku hmotného či procesního práva která: a) v rozhodovací činnosti Nejvyššího soudu nebyla dosud vyřešena, nebo b) při jejímž řešení se měl odvolací soud odchýlit od „ustálené rozhodovací praxe“ (srovnej usnesení Nejvyššího soudu ze dne 25. září 2013, sp. zn. 29 Cdo 2394/2013, publikované jako R 4/2014 ve Sbírce soudních rozhodnutí a stanovisek), c) je dovolacím soudem rozhodována rozdílně, popř. otázku, d) jež byla dovolacím soudem již vyřešena, avšak má být posouzena opětovně, ale jinak (srov. usnesení Nejvyššího soudu ze dne 27. srpna 2013, sen. zn. 29 NSČR 55/2013 a usnesení Nejvyššího soudu ze dne 30. května 2013, sp. zn. 29 Cdo 1172/2013, která jsou dostupná veřejnosti na webových stránkách Nejvyššího soudu). Pouhá citace textu ustanovení § 237 o. s. ř. přitom není způsobilým vymezením přípustnosti dovolání.
+Pro úplnost nutno uvést, že uplatněním způsobilého dovolacího důvodu ve smyslu § 241a odst. 1 o. s. ř. není zpochybnění právního posouzení věci, vychází-li z jiného skutkového stavu, než z jakého vyšel při posouzení věci odvolací soud, a že samotné hodnocení důkazů soudem (opírající se o zásadu volného hodnocení důkazů zakotvenou v ustanovení § 132 o. s. ř.) nelze (ani v režimu dovolacího řízení podle občanského soudního řádu ve znění účinném od 1. ledna 2013) úspěšně napadnout dovolacím důvodem podle § 241a odst. 1 o. s. ř.
+Z uvedených důvodů Nejvyšší soud dovolání odmítl (§ 243c odst. 1, věta první, o. s. ř.).
+Výrok o náhradě nákladů dovolacího řízení nemusí být odůvodněn (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. února 2015
+JUDr. Václav Duda
+předseda senátu
