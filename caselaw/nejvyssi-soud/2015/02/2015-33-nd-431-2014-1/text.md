@@ -1,0 +1,16 @@
+33 Nd 431/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Václava Dudy a soudkyň JUDr. Ivany Zlatohlávkové a JUDr. Blanky Moudré ve věci oprávněného města Žďáru nad Sázavou, se sídlem městského úřadu ve Žďáru nad Sázavou, Žižkova 227/1, proti povinnému D.-D. S., o nařízení exekuce, vedené u Okresního soudu ve Žďáru nad Sázavou pod sp. zn. 13 EXE 6/2014, o určení místní příslušnosti podle § 11 odst. 3 občanského soudního řádu, takto:
+Věc vedená u Okresního soudu ve Žďáru nad Sázavou pod sp. zn. 13 EXE 6/2014 se přikazuje k projednání a rozhodnutí Okresnímu soudu ve Žďáru nad Sázavou.
+O d ů v o d n ě n í :
+Okresní soud ve Žďáru nad Sázavou usnesením ze dne 19. listopadu 2014, č. j. 13 EXE 6/2004-31, vyslovil svoji místní nepříslušnost s tím, že po právní moci tohoto usnesení bude věc předložena Nejvyššímu soudu k určení, který soud ji projedná a rozhodne. Konstatoval, že povinný nemá na území České republiky povolen žádný druh pobytu, nebylo zjištěno, že by zde měl nějaký majetek, přičemž nyní patrně pobývá na území Rumunska.
+Podle § 11 odst. 1 o. s. ř. se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení.
+Podle § 105 odst. 1 o. s. ř. soud zkoumá místní příslušnost před tím, než začne jednat o věci samé. Příslušnost se určuje podle okolností, které jsou tu v době zahájení řízení a trvá až do jeho skončení. Zkoumání místní příslušnosti se tedy soustřeďuje jen na začátek řízení.
+Místně příslušným exekučním soudem je soud, v jehož obvodu má bydliště povinný, je-li fyzickou osobou, a nemá-li bydliště, soud, v jehož obvodu se zdržuje. Nemá-li povinný, který je fyzickou osobou, bydliště v České republice, ani se v ní nezdržuje, je místně příslušným exekučním soudem soud, v jehož obvodu má povinný majetek; má-li majetek v obvodu více soudů, je příslušným soud, kterému byla jako prvnímu doručena žádost exekutora o udělení pověření [srov. § 45 odst. 2 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti a o změně dalších zákonů (exekuční řád)].
+Podle § 11 odst. 3 o. s. ř., které se použije i pro exekuční řízení (§ 52 odst. 1 exekučního řádu), jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Skutečnost, zda povinný má exekučně postižitelný majetek na území České republiky, který by mohl být po nařízení exekuce soudním exekutorem zajištěn a zpeněžen, vyjde najevo až činností soudem pověřeného soudního exekutora v rámci provádění exekuce.
+Protože jsou splněny předpoklady stanovené v § 11 odst. 3 o. s. ř., Nejvyšší soud určil, s přihlédnutím k zásadě hospodárnosti, že věc projedná a rozhodne Okresní soud ve Žďáru nad Sázavou, v jehož obvodu má sídlo exekutor, kterého pověřením provedení exekuce oprávněný navrhl (srovnej usnesení Nejvyššího soudu ze dne 12. září 2012, sp. zn. 31 Nd 200/2012, publikované pod č. 4/2013 ve Sbírce soudních rozhodnutí a stanovisek).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. února 2015
+JUDr. Václava Duda
+předseda senátu
