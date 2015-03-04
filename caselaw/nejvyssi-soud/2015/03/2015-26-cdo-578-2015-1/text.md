@@ -1,0 +1,17 @@
+26 Cdo 578/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu JUDr. Jitkou Dýškovou v právní věci žalobce města Trutnov, se sídlem v Trutnově, Slovanské nám. 165, IČO 278360, zastoupenému JUDr. Blankou Mourovou, advokátkou se sídlem v Trutnově, U Nemocnice 83, proti žalovaným 1) M. P., 2) M. P., o zaplacení 14.099,- Kč s příslušenstvím, o žalobě 2) žalované na obnovu řízení, vedené u Okresního soudu v Trutnově pod sp. zn. 130 EC 612/2011, o dovolání 2) žalované proti usnesení Krajského soudu v Hradci Králové ze dne 3. listopadu 2014, č. j. 24 Co 407/2014-46, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Druhá žalovaná (nezastoupena advokátem) napadla dovoláním usnesení Krajského soudu v Hradci Králové ze dne 3. 11. 2014, č. j. 24 Co 407/2014-46, kterým odvolací soud potvrdil usnesení Okresního soudu v Trutnově ze dne 3. 9. 2014, č. j. 130 EC 612/2011-40, jímž bylo zastaveno řízení o žalobě 2) žalované na obnovu řízení a rozhodnuto o náhradě nákladů řízení, a kterým současně rozhodl o náhradě nákladů odvolacího řízení.
+Nejvyšší soud jako soud dovolací shledal, že dovolání bylo podáno včas, osobou k tomu oprávněnou – účastnicí řízení (§ 240 odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013 /čl. II bod 2. zákona č. 293/2013 Sb./, dále jen „o. s. ř.“), nejsou však dány podmínky pro jeho věcné projednání.
+Podle § 241 odst. 1 o. s. ř. není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními právními předpisy. Ustanovení § 241 odst. 1 o. s. ř. neplatí mimo jiné tehdy, je-li dovolatelem fyzická osoba, která má právnické vzdělání (§ 241 odst. 2 písm. a/ o. s. ř.). Dovolání musí být sepsáno, s výjimkou případu uvedeného v § 241 odst. 2 písm. a/ o. s. ř., advokátem nebo notářem.
+Povinné advokátní zastoupení je zvláštní podmínkou dovolacího řízení týkající se dovolatele (v daném případě fyzické osoby, která nemá podle obsahu spisu právnické vzdělání), jejíž nedostatek lze odstranit, avšak bez jejíhož splnění není možno o dovolání věcně rozhodnout. Podle § 104 odst. 2 o. s. ř. jde-li o nedostatek podmínky řízení, který lze odstranit, učiní k tomu soud vhodná opatření. Nezdaří-li se nedostatek podmínky řízení odstranit, řízení zastaví.
+Protože 2) žalovaná nebyla zastoupena advokátem a z obsahu spisu nevyplývalo, že by sama měla právnické vzdělání, byla usnesením soudu prvního stupně ze dne 21. 1. 2015, č. j. 130 EC 612/2011-54, vyzvána, aby si ve lhůtě deseti dnů od doručení usnesení zvolila pro podání dovolání v této věci zástupcem advokáta a jeho prostřednictvím podala řádné dovolání. Dostalo se jí rovněž poučení, že dovolací řízení bude zastaveno, nebude-li výzvě řádně a včas vyhověno. Výzva jí byla doručena dne 23. 1. 2015, zástupce si však nezvolila.
+Zákonem stanovená podmínka dovolacího řízení podle § 241 odst. 1 věty první o. s. ř. ve spojení s § 241 odst. 4 o. s. ř. tak nebyla přes opatření provedené soudem prvního stupně do současné doby splněna. Nejvyšší soud proto dovolací řízení podle § 243b a § 104 odst. 2 o. s. ř. zastavil.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 4. března 2015
+JUDr. Jitka Dýšková
+předsedkyně senátu
