@@ -1,0 +1,12 @@
+25 Cdo 3314/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Vojtka a soudců JUDr. Marty Škárové a JUDr. Aleše Zezuly v právní věci žalobců a) Ing. B. T., b) Ing. J. P. a c) M. P., všech zastoupených JUDr. Viktorem Pakem, advokátem se sídlem v Praze 1, Politických vězňů 21, proti žalované Nemocnici Sušice o.p.s., se sídlem v Sušicích, Pod nemocnicí 116, IČO 25224301, zastoupené JUDr. Jiřím Štanclem, advokátem se sídlem v Klatovech, Čs. legií 172, za účasti Kooperativy pojišťovny, a.s., Vienna Insurance Group, se sídlem v Praze 8, Pobřežní 21, IČO 47116617, o 720.000,- Kč s příslušenstvím, vedené u Okresního soudu v Klatovech pod sp. zn. 7 C 245/2010, o dovolání žalované proti rozsudku Krajského soudu v Plzni ze dne 6. 3. 2014, č. j. 10 Co 1/2014-375, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Dovolání žalované proti rozsudku Krajského soudu v Plzni ze dne 6. 3. 2014, č. j. 10 Co 1/2014-375, není přípustné podle § 237 o.s.ř., neboť uplatněné námitky nesměřují proti otázce hmotného nebo procesního práva, na jejímž vyřešení závisí napadené rozhodnutí. Dovolatelka vytýká odvolacímu soudu vady řízení, a to konkrétně při dokazování. Dovolání je však mimořádným opravným prostředkem a dovolací přezkum je vyhrazen zásadně k řešení právních otázek, včetně procesních (srov. § 241a odst. 1 a § 242 odst. 3 o.s.ř.). Námitky proti skutkovému zjištění, o něž opřel odvolací soud své závěry, nepředstavují proto způsobilý dovolací důvod, jímž by bylo možno založit přípustnost dovolání, nejde-li o procesní otázku, kterou by odvolací soud řešil výkladem procesních norem. Dovolání nepředkládá žádnou právní otázku hmotného nebo procesního práva, při jejímž řešení by se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která by v rozhodování dovolacího soudu dosud nebyla vyřešena nebo by byla dovolacím soudem rozhodována rozdílně anebo by měla být posouzena jinak, a kterou by tudíž mohl v dovolacím řízení Nejvyšší soud řešit. Proto bylo dovolání žalované podle § 243c odst. 1 věty první o.s.ř. odmítnuto.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta druhá o.s.ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 12. března 2015
+JUDr. Petr Vojtek
+předseda senátu
