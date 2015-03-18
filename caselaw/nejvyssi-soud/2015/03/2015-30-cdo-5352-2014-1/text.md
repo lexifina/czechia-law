@@ -1,0 +1,18 @@
+30 Cdo 5352/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Pavlem Vrchou v právní věci žalobce A. Ž., zastoupeného Mgr. Ondřejem Dlouhým advokátem se sídlem v Praze 2, Šafaříkova 201/17, proti žalované České republice – Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 16, o zaplacení částky 120.000,- Kč a kompenzaci 2.500,- Kč měsíčně od 1. ledna 2001, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 17 C 162/2011, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 2. června 2014, č. j. 15 Co 261/2014-65, takto:
+Dovolání se odmítá.
+S t r u č n é o d ů v o d n ě n í
+(§ 243f odst. 3 o. s. ř.):
+Městský soud v Praze (dále již „odvolací soud“) usnesením ze dne 2. června 2014, č. j. 15 Co 261/2014-65, potvrdil dle § 219 o. s. ř. usnesení Obvodního soudu pro Prahu 2 ze dne 13. března 2014, č. j. 17 C 162/2011-57, kterým byl zamítnut návrh žalobce na přiznání osvobození od soudních poplatků.
+Proti uvedenému rozhodnutí odvolacího soudu podal žalobce dovolání, které sám sepsal (aniž by tvrdil, že má právnické vzdělání), a jež bylo později nahrazeno podáním jeho advokáta, kterého žalobci pro zastupování v dovolacím řízení ustanovil soud prvního stupně usnesením ze dne 30. října 2014, č. j. 17 C 162/2011-84.
+Z obsahu podaného (advokátem žalobce sepsaného) dovolání však není zřejmé, v čem žalobce spatřuje splnění předpokladů přípustnosti dovolání. Může-li být totiž dovolání přípustné jen podle § 237 o. s. ř. (jako je tomu v tomto případě), je dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné.
+Podle § 241a odst. 1 o. s. ř. může být dovolacím důvodem jen nesprávné právní posouzení věci. K náležitostem dovolání patří mimo jiné i vymezení dovolání (§ 241a odst. 3 o. s. ř.), tj. z dovolání musí vyplývat, které otázky hmotného či procesního práva, na nichž napadené rozhodnutí spočívá, vyřešil odvolací soud chybně, a proč tyto závěry považuje dovolatel za nesprávné. Dovolatel musí (§ 241a odst. 2 o. s. ř.) rovněž uvést, v čem spatřuje splnění předpokladů přípustnosti dovolání, tedy které z hledisek uvedených v § 237 o. s. ř. považuje za splněné.
+Jak se podává z obsahu podaného dovolání, žalobce prostřednictvím svého advokáta nevymezil žádné ze čtyř kritérií přípustnosti dovolání taxativně vymezených v § 237 o. s. ř.; neuvedl okolnosti, z nichž by bylo možné usuzovat, že by v souzené věci šlo (mělo jít) o případ (některý ze čtyř v úvahu přicházejících), v němž napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva: 1) při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo 2) která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo 3) která je dovolacím soudem rozhodována rozdílně anebo 4) má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+Jelikož v dovolání absentuje vymezení, v čem spatřuje žalobce splnění předpokladů přípustnosti dovolání, přičemž uvedený nedostatek nebyl ani v průběhu dovolací lhůty odstraněn (§ 241b odst. 3 o. s. ř.), trpí dovolání vadou, pro kterou nelze v dovolacím řízení pokračovat a dovolání věcně projednat.
+Nejvyšší soud proto dovolání podle § 243c odst. 1 věty první o. s. ř. odmítl.
+Vzhledem k tomu, že tímto rozhodnutím dovolacího soudu se řízení o věci nekončí, bude rozhodnuto i o náhradě nákladů vzniklých v tomto dovolacím řízení v konečném rozhodnutí soudu prvního stupně, popřípadě odvolacího soudu (§ 243c odst. 1, § 151 odst. 1 o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 18. března 2015
+JUDr. Pavel Vrcha
+předseda senátu
