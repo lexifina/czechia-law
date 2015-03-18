@@ -1,0 +1,20 @@
+11 Tcu 4/2015-23
+U S N E S E N Í
+Nejvyšší soud projednal dne 18. března 2015 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl takto:
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení státního občana České republiky P. B., rozsudkem Obvodního soudu Tiergarten, Spolková republika Německo, ze dne 28. 5. 2013, sp. zn. (258 Ds) 271 Js 1103/13 (74/13), a to pro trestný čin krádeže a krádeže vloupáním do obydlí, podle § 242, § 243 odst. 1 čís. 1 § 244 odst. 1 č. 3, § 21, § 53 trestního zákoníku Spolkové republiky Německo, k nepodmíněnému úhrnnému trestu odnětí svobody v trvání 1 (jednoho) roku a 2 (dvou) měsíců, hledí jako na odsouzení soudem České republiky.
+O d ů v o d n ě n í :
+Rozsudkem Obvodního soudu Tiergarten, Spolková republika Německo, ze dne 28. 5. 2013, sp. zn. (258 Ds) 271 Js 1103/13 (74/13), který nabyl právní moci, byl P. B. (alias P. B.) uznán vinným trestným činem krádeže a krádeže vloupáním podle trestního zákoníku Spolkové republiky Německo a odsouzen k úhrnnému nepodmíněnému trestu odnětí svobody v trvání 1 (jednoho) roku a 2 (dvou) měsíců.
+Podle skutkových zjištění Obvodního soudu Tiergarten se P. B. dopustil trestné činnosti v podstatě tím, že
+1. mezi 3. dubnem 2013 a 4. dubnem 2013 rozbil okno osobního vozidla Ford svědka G. zaparkovaného v B.-S. a vzal z vozidla bundu svědka G., která měla malou hodnotu, aby ji použil pro sebe,
+2. dne 4. dubna 2013 prolezl otevřenou ventilačkou do ložnice rodinného domu svědků J. v B.-S. a odcizil odsud kreolu svědkyně J., aby si předmět ponechal pro sebe.
+Odsouzený byl v době spáchání obou trestných činů pravděpodobně pod vlivem omamných a psychotropních látek nebo trpěl abstinečním syndromem.
+Ministerstvo spravedlnosti České republiky podalo dopisem pod sp. zn. MSP-411/2014-MOT-T/8 ze dne 15. 1. 2015, Nejvyššímu soudu návrh na přijetí rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů (dále jen „zákon“). Tento návrh byl doručen Nejvyššímu soudu dne 21. 1. 2015.
+Nejvyšší soud věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro rozhodnutí podle § 4a odst. 3 zákona.
+Především je třeba uvést, že podle § 4a odst. 3 zákona může Nejvyšší soud na návrh Ministerstva spravedlnosti České republiky rozhodnout, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Z podaného návrhu a připojeného spisu vyplývá, že odsouzený P. B. je občanem České republiky, byl odsouzen soudem jiného členského státu Evropské unie a odsouzení se týká skutku, který vykazuje znaky trestného činu i podle příslušných právních předpisů České republiky (krádež podle § 205 odst. 1 písm. b/ tr. zákoníku). Tím jsou splněny formální podmínky ustanovení § 4a odst. 3 zákona.
+V posuzované věci jsou dány i podmínky materiální povahy. Odsouzený se dopustil trestné činnosti směřující proti zájmu společnosti na ochraně vlastnického práva. Ze spisového materiálu rovněž vyplývá, že odsouzený byl již za obdobnou trestnou činnost třikrát trestně stíhán a odsouzen. Odsouzený byl v době spáchání obou trestných činů pravděpodobně pod vlivem omamných a psychotropních látek nebo trpěl abstinenčním syndromem. Pokud jde o druh trestu, odsouzenému byl uložen nezanedbatelný nepodmíněný trest odnětí svobody. Lze tedy dovodit, že jsou splněny všechny podmínky pro to, aby se na výše uvedené odsouzení P. B. hledělo jako na odsouzení soudem České republiky.
+Z uvedených důvodů proto Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 18. března 2015
+Předseda senátu:
+JUDr. Stanislav Rizman
