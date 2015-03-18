@@ -1,0 +1,17 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY 26 Cdo 3149/2014-169
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně Doc. JUDr. Věry Korecké, CSc., a soudců JUDr. Miroslava Feráka a JUDr. Jitky Dýškové ve věci žalobců a) L. Š., P. a b) D. Š., tamtéž, zastoupených JUDr. Zdeňkem Stárkem, advokátem se sídlem Plzeň, Františkánská 7, proti žalovanému M. R., IČO 71989242, s místem podnikání Rokycany, Pražská 805, zastoupenému Mgr. Jitkou Stránskou, advokátkou se sídlem Praha 1, Perlová 5, o vyklizení nebytových prostor, vedené u Okresního soudu Plzeň – město pod sp. zn. 18 C 225/2011, o dovolání žalovaného proti rozsudku Krajského soudu v Plzni ze dne 26. března 2014, č. j. 18 Co 370/2013-129, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Krajský soud v Plzni (soud odvolací) rozsudkem ze dne 26. 3. 2014, č. j. 18 Co 370/2013-129, potvrdil rozsudek ze dne 5. 4. 2013, č. j. 18 C 225/2011-89, kterým Okresní soud Plzeň – město (soud prvního stupně) uložil žalovanému povinnost vyklidit do 15-ti dnů od právní moci rozsudku zde specifikované nebytové prostory (dále též „předmětné nebytové prostory“) a rozhodl o nákladech řízení; dále odvolací soud rozhodl o nákladech odvolacího řízení.
+Proti rozsudku odvolacího soudu podal žalovaný včasné dovolání (k němuž nebylo podáno vyjádření), které však není přípustné podle § 237 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění od 1. 1. 2013 do 31. 12. 2013 (srov. článek II., bod 1. přechodných ustanovení zákona č. 404/2012 Sb., a část první, článek II. bod 2 zákona č. 293/12013 Sb. – dále jen „o. s. ř.“), neboť napadené rozhodnutí nezávisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu, jak se mylně domnívá dovolatel (§ 237 o. s. ř.), má-li za to, že odvolací soud postupoval v rozporu se zde označenými rozhodnutími Nejvyššího soudu. Nejde ani o případ, kdy by napadené rozhodnutí záviselo na vyřešení otázky hmotného nebo procesního práva, která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně, ani o případ, kdy má být dovolacím soudem vyřešená právní otázka posouzena jinak (což ostatně dovolatel ani netvrdí).
+Podle § 241a odst. 1 o. s. ř. lze dovolání podat pouze z důvodu, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci. Z toho vyplývá, že pochybení ve zjištění skutkového stavu věci nelze pokládat za způsobilý dovolací důvod.
+Dovolatel sice výslovně uplatňuje dovolací důvod nesprávného právního posouzení věci a dovozuje nesprávnost napadeného rozhodnutí (jakož i odklon od označených judikátů dovolacího soudu), obsahově tak však činí poukazem na to, co bylo obsahem vůle účastníků projevené v listině (nájemní smlouvě) a jak měla být tato vůle interpretována, resp. polemizuje s hodnocením důkazů. Tím napadá správnost skutkového (nikoli právního) závěru odvolacího soudu, resp. namítá vady řízení, a uplatňuje tak nezpůsobilé dovolací důvody.
+Nejvyšší soud proto dovolání jako nepřípustné odmítl (§ 243c odst. 1 věta první o. s. ř.).
+Bylo-li dovolání odmítnuto, nemusí být rozhodnutí o náhradě nákladů dovolacího řízení odůvodněno (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 18. března 2015
+Doc. JUDr. Věra Korecká, CSc.
+předsedkyně senátu
