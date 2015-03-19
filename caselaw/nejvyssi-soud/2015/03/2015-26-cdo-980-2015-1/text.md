@@ -1,0 +1,12 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY 26 Cdo 980/2015-302
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Zbyňkem Polednou v exekuční věci oprávněné O2 Czech Republic a. s. se sídlem v Praze 4, Za Brumlovkou č. 266/2, IČO 60193336, proti povinné A. H., pro 100.542,70 Kč s příslušenstvím, vedené u Okresního soudu v Jičíně pod sp. zn. 12 Nc 5730/2008, o dovolání povinné proti usnesení Krajského soudu v Hradci Králové ze dne 25. března 2013, č. j. 21 Co 737/2012-215, takto:
+Dovolání se odmítá.
+S t r u č n é o d ů v o d n ě n í (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky dovolání povinné proti usnesení Krajského soudu v Hradci Králové ze dne 25. 3. 2013, č. j. 21 Co 737/2012-215, kterým bylo potvrzeno usnesení Okresního soudu v Jičíně ze dne 27. 6. 2012, č. j. 12 Nc 5730/2008-168, o zamítnutí návrhu povinné na osvobození od soudních poplatků a na ustanovení zástupce z řad advokátů, podle ustanovení § 243c odst. 3 věty první zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, ustanovení 243f odst. 2 o. s. ř. a ustanovení § 218a o. s. ř. jako opožděné odmítl, neboť bylo podáno po uplynutí lhůty uvedené v ustanovení § 240 odst. 1 o. s. ř. [napadené usnesení odvolacího soudu bylo povinné doručeno dne 22. 5. 2013, lhůta pro podání dovolání skončila dne 23. 7. 2013. Podala-li dovolatelka dovolání k poštovní přepravě dne 23. 8. 2013, učinila tak opožděně. Na uvedeném nic nemění ani to, že povinná podáním ze dne 23. 3. 2013, tj. ještě před vydáním rozhodnutí odvolacího soudu, opětovně požádala o osvobození od soudních poplatků a ustanovení zástupce z řad advokátů soudem, neboť tak učinila mimo jiné v souvislosti s žalobou na obnovu řízení a zmatečnost v exekučním řízení, jíž se domáhá zrušení, prohlášení nicotnosti a odkladu vykonatelnosti usnesení Vrchního soudu v Praze ze dne 19. 2. 2013, č. j. Nco 11/2013-206. Ustanovení § 241b odst. 3 o. s. ř. se nepoužije].
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 19. března 2015
+JUDr. Zbyněk Poledna
+předseda senátu
