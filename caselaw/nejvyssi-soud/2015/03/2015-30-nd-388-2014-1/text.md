@@ -1,0 +1,17 @@
+30 Nd 388/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Simona a soudců Mgr. Víta Bičáka a JUDr. Františka Ištvánka ve věci žalobkyně JARMES spol. s r. o., IČ 48953261, se sídlem v Kropáčově Vrutici, Krpy 13, Česká republika, zastoupené Mgr. Pavlem Motlem, advokátem se sídlem v Mladé Boleslavi, Jaselská 1391, proti žalované BANPLAST s. r. o., se sídlem v Banské Bystrici, Námestie SNP 16, Slovenská republika, o zaplacení 1.300,- EUR s příslušenstvím, vedené u Okresního soudu v Ústí nad Labem pod sp. zn. 22 C 66/2012, o určení místní příslušnosti takto:
+Věc vedenou u Okresního soudu v Ústí nad Labem pod sp. zn. 22 C 66/2012 projedná a rozhodne Okresní soud v Ústí nad Labem.
+Odůvodnění:
+Žalobou došlou soudu dne 12. 6. 2012 se žalobkyně domáhá na žalované zaplacení částky 1.300,- EUR s příslušenstvím z titulu zprostředkovatelské smlouvy o přepravě č. 421/2011, kterou měly uzavřít žalobkyně jako dopravce a žalovaná. Místo nakládky zboží podle smlouvy bylo v B. ve Velké Británii, místo vykládky v T. v České republice.
+Okresní soud v Ústí nad Labem vyslovil usnesením ze dne 17. 5. 2013, č. j. 22 C 66/2012 – 12, svou místní nepříslušnost (výrok I) a rozhodl, že věc bude po právní moci uvedeného usnesení postoupena Nejvyššímu soudu k určení místně příslušného soudu. Okresní soud v Ústí nad Labem uvedl, že ve věci je dán mezinárodní prvek. V souladu s ustanovením čl. 71 odst. 1 nařízení Rady (ES) č. 44/2001, o příslušnosti a uznávání a výkonu soudních rozhodnutí v občanských a obchodních věcech (nařízení Brusel I), aplikoval v dané věci Úmluvu o přepravní smlouvě v mezinárodní silniční nákladní dopravě (CMR), (vyhlášenou vyhláškou ministra zahraničních věcí č. 11/1975 Sb.), dále také jen „Úmluva CMR“. Podle článku 31 odst. 1 uvedené úmluvy spory vzniklé z přeprav podléhajících uvedené úmluvě může žalobce vést, pokud je nevede u soudů smluvních států určených dohodou stran, u soudů toho státu, na jehož území
+a) má žalovaný trvalé bydliště, hlavní sídlo podniku nebo pobočku anebo jednatelství, jejichž prostřednictvím byla přepravní smlouva uzavřena, nebo
+b) leží místo, kde byla zásilka převzata k přepravě nebo místo určené k jejímu vydání.
+U jiných soudů nemůže žalobce spor vést.
+Vzhledem k výše uvedenému Okresní soud v Ústí nad Labem uzavřel, že ve věci je dána pravomoc soudů České republiky, neboť místo vydání zásilky bylo podle zprostředkovatelské smlouvy o přepravě v T. v České republice. Místní příslušnost konkrétního soudu v České republice však nevyplývá z žádného ustanovení občanského soudního řádu. Okresní soud v Ústí nad Labem proto věc postoupil Nejvyššímu soudu.
+Nejvyšší soud se ztotožnil se závěrem Okresního soudu v Ústí nad Labem, podle kterého nelze místní příslušnost určit podle ustanovení § 84 až § 89a občanského soudního řádu. Místní příslušnost není upravena ani žádným ustanovením Úmluvy CMR. Aplikace čl. 5 nařízení Brusel I, kterým je upravena nejen mezinárodní příslušnost soudů některého členského státu, ale které svěřuje příslušnost soudu určitého místa, je v posuzovaném případě vyloučena (srov. čl. 71 odst. 1 nařízení Brusel I).
+Nejvyšší soud proto postupoval podle ustanovení § 11 odst. 3 občanského soudního řádu a určil, že věc projedná a rozhodne Okresní soud v Ústí nad Labem. V obvodu tohoto soudu se nachází místo vydání zásilky podle zprostředkovatelské smlouvy o přepravě a k tomuto soudu byla navíc žaloba podána.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 19. března 2015
+JUDr. Pavel Simon
+předseda senátu
