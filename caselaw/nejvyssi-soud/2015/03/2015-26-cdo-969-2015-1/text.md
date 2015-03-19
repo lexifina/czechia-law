@@ -1,0 +1,12 @@
+26 Cdo 969/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Zbyňka Poledny a soudkyň JUDr. Miroslavy Jirmanové, Ph.D., a JUDr. Pavlíny Brzobohaté v exekuční věci oprávněné Raiffeisenbank a.s., se sídlem v Praze 4, Hvězdova č. 1716/2b, IČO 49240901, proti povinným 1) VUNGR s. r. o., se sídlem v Oldřichově, Jeníkov č. 4, IČO 25497952, 2) V. U., 3) V. U., zastoupeným Mgr. Markem Andráškem, advokátem se sídlem v Teplicích 1, Aloise Jiráska č. 1367/1, pro 451.756,19 Kč s příslušenstvím, vedené u Okresního soudu v Teplicích pod sp. zn. 49 EXE 1304/2011, o dovolání povinných 2) a 3) proti usnesení Krajského soudu v Ústí nad Labem, ze dne 24. ledna 2012, č. j. 9 Co 658/2011-75, takto:
+Dovolání povinných 2) a 3) se odmítá.
+Stručné odůvodnění (§ 243c odst. 2 občanského soudního řádu):
+Dovolání povinných 2) a 3) proti usnesení Krajského soudu v Ústí nad Labem, ze dne 24. 1. 2012, č. j. 9 Co 658/2011-75, kterým bylo potvrzeno usnesení Okresního soudu v Teplicích ze dne 2. 5. 2011, č. j. 49 EXE 1304/2011-14, jímž byla nařízena exekuce na majetek povinných k uspokojení pohledávky oprávněné ve výši 451.756,19 Kč s 29 % úrokem od 2. 3. 2011 do zaplacení, úroku ve výši 26.489,45 Kč, úroku z prodlení ve výši 31.024,93 Kč a pro náklady exekuce, jejímž provedením byl pověřen soudní exekutor JUDr. Dalimil Mika, LL.M., Exekutorský úřad Klatovy, není přípustné, neboť z ustanovení § 238a odst. 1 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2012, které je třeba v projednávané věci - jak vyplývá z ustanovení čl. II bodu 7 zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony - použít, neboť usnesení odvolacího soudu bylo vydáno v době do 31. 12. 2012 (dále jen „o. s. ř."), vyplývá, že nelze (již od 1.7.2009) podat dovolání proti usnesení odvolacího soudu, potvrzujícím nebo měnícím usnesení soudu prvního stupně, jímž bylo rozhodnuto o návrhu na nařízení exekuce (výkonu rozhodnutí).
+Nejvyšší soud proto dovolání povinných 2) a 3) podle ustanovení § 243b odst. 5 věty první a § 218 písm. c) o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 19. března 2015
+JUDr. Zbyněk Poledna
+předseda senátu
