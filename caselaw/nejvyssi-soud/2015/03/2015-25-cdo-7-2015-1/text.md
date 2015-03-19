@@ -1,0 +1,14 @@
+25 Cdo 7/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Vojtka a soudců JUDr. Roberta Waltra a JUDr. Aleše Zezuly v právní věci žalobce J. H., zastoupeného JUDr. Liborem Holemým, advokátem se sídlem v Rožnově pod Radhoštěm, Meziříčská 774, proti žalované České republice – Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 16, o obnovu řízení, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 26 C 180/2012, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 4. 7. 2013, č. j. 64 Co 190/2013-49, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Dovolání žalobce proti usnesení Městského soudu v Praze ze dne 4. 7. 2013, č. j. 64 Co 190/2013-49, není přípustné podle ustanovení § 237 o.s.ř. Výklad, z jakých důvodů lze podat žalobu na obnovu řízení i po uplynutí tříleté objektivní lhůty, plyne bezpochyby přímo z jednoznačné dikce ustanovení § 233 odst. 2 o.s.ř. a nevzbuzuje v soudní praxi žádné pochybnosti (srov. např. usnesení Nejvyššího soudu ze dne 29. 8. 2013, sp. zn. 28 Cdo 1100/2013, publikované pod C 12755 v Souboru civilních rozhodnutí Nejvyššího soudu, C. H. Beck). Není tak důvodu, aby právní otázka včasnosti podání žaloby na obnovu řízení po uvedené lhůtě byla posouzena jinak, netvrdí-li dovolatel, že podmínky v tomto ustanovení uvedené jsou splněny; vytýká totiž předchozímu řízení vady spočívající v účasti podjaté soudkyně a ve ztrátě materiálů ze spisu, a nejde tedy o okolnosti, s nimiž zákon spojuje výjimečnou možnost podat mimořádný opravný prostředek po uplynutí objektivní lhůty.
+Nejvyšší soud navíc pro úplnost poznamenává, že podle § 235 odst. 1 o.s.ř. není přípustné ani prominutí zmeškání lhůt k žalobě na obnovu řízení. I to je výrazem principu, že respektování procesních předpisů, včetně dodržení zákonných lhůt pro uplatnění řádných i mimořádných opravných prostředků (tedy i žaloby na obnovu řízení), je součástí postupu stanoveného pro uplatnění práva na soudní ochranu ve smyslu čl. 36 Listiny základních práv a svobod a nelze je považovat za porušení práva na spravedlivý proces ve smyslu čl. 38 odst. 2 Listiny (srov. např. usnesení Ústavního soudu ze dne 5. 11. 2003, sp. zn. II. ÚS 750/02), a že přísné podmínky pro uplatnění mimořádných opravných prostředků, včetně dodržení zákonných lhůt, jsou odůvodněny požadavkem právní jistoty (srov. usnesení Ústavního soudu ze dne 20. 4. 2006, sp. zn. I. ÚS 294/05).
+Nejvyšší soud proto dovolání žalobce podle § 243c odst. 1 věty první o.s.ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta druhá o.s.ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 19. března 2015
+JUDr. Petr Vojtek
+předseda senátu
