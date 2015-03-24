@@ -1,0 +1,19 @@
+25 Nd 59/2015-52
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marty Škárové a soudců JUDr. Petra Vojtka a JUDr. Roberta Waltra ve věci dědictví po zůstaviteli J. T., zemřelém 19. září 2013, vedené u Obvodního soudu pro Prahu 5 pod sp. zn. 32 D 769/2014, o návrhu J. T., na přikázání věci z důvodu vhodnosti, takto:
+Věc vedená u Obvodního soudu pro Prahu 5 pod sp. zn. 32 D 769/2014 se nepřikazuje k projednání Okresnímu soudu ve Vsetíně.
+Odůvodnění:
+U Obvodního soudu pro Prahu 5 je pod sp. zn. 32 D 769/2014 vedeno řízení o dědictví po zůstaviteli J. T. Provedením úkonů v řízení o dědictví byl pověřen soudní komisař JUDr. Jiří Svoboda, notář se sídlem v Praze 1, Dlouhá třída 16.
+Nejvyššímu soudu byl Obvodním soudem pro Prahu 5 předložen spis sp. zn. 32 D 769/2014 s návrhem J.T., bratra zůstavitele, na přikázání věci z důvodu vhodnosti Okresnímu soudu ve Vsetíně. Návrh odůvodnil svým nepříznivým zdravotním stavem.
+Mgr. D. Ř., dědička ze závěti, s ohledem na své bydliště v P. vyjádřila nesouhlas s přikázáním věci z důvodu vhodnosti, jak navrhuje J.T.
+Podle zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád (dále jen „o. s. ř.“), ve znění pozdějších předpisů, a některé další zákony, čl. II., bodu 3., se řízení o dědictví upravené v zákoně č. 99/1963 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto zákona, použije na projednání dědictví v případech, kdy smrt zůstavitele nastala do 31. prosince 2013.
+Podle ustanovení § 12 odst. 2 o. s. ř. věc může být jinému soudu téhož stupně přikázána také z důvodu vhodnosti.
+Podle ustanovení § 88 písm. j) o. s. ř. namísto obecného soudu, popřípadě namísto soudu uvedeného v § 85a o. s. ř., je k řízení příslušný soud, v jehož obvodu měl zůstavitel naposledy bydliště, a neměl-li bydliště nebo nelze-li bydliště zjistit, v jehož obvodu měl naposledy pobyt; není-li takový soud, je příslušný soud, v jehož obvodu je zůstavitelův majetek, popřípadě mezi několika takto příslušnými soudy ten z nich, který první provedl úkon, jde-li o řízení o dědictví.
+Předpokladem přikázání věci z důvodu vhodnosti podle ustanovení § 12 odst. 2 o. s. ř. je typicky existence okolností, jež umožňují hospodárnější a rychlejší projednání věci. Je však třeba mít na zřeteli, že obecná místní příslušnost soudu, který má věc projednat, je zásadou základní, a případné přikázání věci k projednání a rozhodnutí jinému soudu je toliko výjimkou z této zásady, kterou je třeba vykládat restriktivně.
+Nejvyšší soud jako soud nejblíže společně nadřízený příslušnému soudu a soudu, jemuž má být věc přikázána (§ 12 odst. 3 o. s. ř.), dospěl k závěru, že návrh není důvodný.
+Jakkoli bratr zůstavitele uvádí, že jeho zdravotní stav je nepříznivý, tato skutečnost sama o sobě nemůže být důvodem přikázání věci soudu jinému, pokud nelze dovodit, že řízení bude vedeno hospodárněji a rychleji. Provedením všech potřebných úkonů v řízení o dědictví byl pověřen notář JUDr. Jiří Svoboda, se sídlem v Praze 1, který by i po případném přikázání věci jinému soudu byl ve věci činný, a soud by vydal závěrečné rozhodnutí, jehož podklady vzejdou z úkonů soudního komisaře dle ust. § 175zd o. s. ř. (k tomu blíže usnesení Nejvyššího soudu ze dne 27. května 2014, sp. zn. 25 Nd 84/2014). Ostatně v případě, že zdravotní stav dědice by neumožnil jeho účast u jednání u místně příslušného soudu, je zde možnost postupovat prostřednictvím dožádaného soudu dle ust. § 122 odst. 2 občanského soudního řádu.
+V daném případě, kdy v řízení byla provedena řada úkonů, by přikázání věci jinému soudu nevedlo k jejímu rychlejšímu a hospodárnějšímu projednání. Nejvyšší soud proto návrhu na přikázání věci z důvodu vhodnosti nevyhověl.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 24. března 2015
+JUDr. Marta Škárová
+předsedkyně senátu
