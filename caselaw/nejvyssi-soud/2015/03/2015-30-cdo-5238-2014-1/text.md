@@ -1,0 +1,18 @@
+30 Cdo 5238/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Vrchy a soudců JUDr. Pavla Pavlíka a Mgr. Víta Bičáka, v právní věci žalobce, F. J., zastoupeného Mgr. Ivanou Palánovou, advokátkou se sídlem v Plzni, Bezručova 33, proti žalované České republice – Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 16, o zaplacení částky 300.000,- Kč s příslušenstvím, vedené u Okresního soudu Plzeň – město pod sp. zn. 34 C 476/2012, o dovolání žalobce proti rozsudku Krajského soudu v Plzni ze dne 20. srpna 2014, č. j. 12 Co 296/2014-105, takto:
+I. Dovolání žalobce se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í
+(§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky jako soud dovolací (§ 10a o. s. ř.) konstatuje, že dovolání žalobce proti shora v záhlaví citovanému rozsudku Krajského soudu v Plzni (dále již „odvolací soud“), kterým byl ve věci samé dle § 219 o. s. ř. potvrzen rozsudek Okresního soudu Plzeň-město (dále již „soud prvního stupně“) ze dne 28. dubna 2014, č. j. 34 C 476/2012-81, jímž byla zamítnuta žaloba o zaplacení částky 300.000,- Kč se specifikovaným příslušenstvím, není přípustné podle ustanovení § 237 o. s. ř.
+Z obsahu spisu vyplývá, že podanou žalobou se žalobce domáhal přiměřeného zadostiučinění v penězích za nemajetkovou újmu dle ustanovení § 31a zák. č. 82/1998 Sb. (OdpŠk), způsobenou mu údajně nesprávným úředním postupem Nejvyššího státního zastupitelství v Brně, které mělo ve věci vedené pod sp. zn. 9 NZN 744/201 porušit povinnost „učinit právní úkon ve smyslu trestního zákona a trestního řádu“ ve věci zákonnosti postupu Krajského státního zastupitelství v Plzni ohledně podání žalobce ze dne 2. 7. 2008.
+Odvolací soud se zcela ztotožnil se skutkovým závěrem soudu prvního stupně, že Nejvyšší státní zastupitelství bezodkladně podněty žalobce postoupilo orgánu příslušnému k jeho řešení. Odvolací soud shledal správné i právní posouzení soudu prvního stupně, který věc posoudil dle zák. č. 283/1993 Sb., o státním zastupitelství a podle OdpŠk a uzavřel, že Nejvyšší státní zastupitelství při vyřizování podání žalobce nepochybilo, postupovalo v souladu se zákonem, a zdůraznil, že žalobci v uvedené souvislosti žádná nemajetková újma nevznikla a proto soud prvního stupně správně žalobu jako nedůvodnou zamítl.
+Námitku žalobce, že odvolací soud se nezabýval předmětem řízení, tak jak byl vymezen v žalobě, a odvolacími důvody, nelze považovat za opodstatněnou. Z odůvodnění rozsudku odvolacího soudu vyplývá, jak již uvedeno shora, že odvolací soud se zcela ztotožnil se závěry rozsudku soudu prvního stupně. Z jeho odůvodnění a z obsahu spisu je zřejmé, že žalobce podal celou řadu podání vytýkajících nezákonnost a nesprávný úřední postup krajskému a Nejvyššímu státnímu zastupitelství, když s těmito námitkami se soud prvního stupně řádně a vyčerpávajícím způsobem vypořádal. Lze tedy uzavřít, že napadené rozhodnutí odvolacího soudu je v souladu s ustálenou judikaturou Nejvyššího soudu (viz např. stanovisko občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne 13. dubna 2011, sp. zn. Cpjn 206/2010, uveřejněné pod č. 58/2011 Sbírky soudních rozhodnutí a stanovisek).
+Z hlediska výše uvedeného nelze souhlasit s tím, že by námitky žalobce nastolovaly takovou právní otázku, která by byla způsobilá založit přípustnost dovolání.
+Nejvyšší soud proto dovolání žalobce podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. března 2015
+JUDr. Pavel Vrcha
+předseda senátu
