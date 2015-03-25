@@ -1,0 +1,19 @@
+30 Cdo 1144/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Pavlem Pavlíkem ve věci J. K., omezené ve svéprávnosti, zastoupené opatrovníkem obcí Vlkov, se sídlem ve Vlkově č. 104, o změně opatrovníka, vedené u Okresního soudu ve Žďáře nad Sázavou pod sp. zn. 4 P 297/2008, o dovolání obce Vlkov proti usnesení Krajského soudu v Brně ze dne 8. července 2013, č. j. 54 Co 627/2013-93, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění
+(§ 243f odst. 3 o.s.ř.):
+Okresní soud ve Žďáru nad Sázavou usnesením ze dne 16. května 2013, č.j. P 297/2008-85, výrokem I. zahájil řízení o změně opatrovníka J. K., výrokem II. zprostil J. K. z funkce opatrovníka J. K. a vyzval ho k předložení závěrečného účtu ze správy majetku opatrovanky, výrokem III. ustanovil opatrovníkem J. K. obec Vlkov a výroky IV. a V. stanovil povinnosti opatrovníka.
+K odvolání opatrovníka Obce Vlkov Krajský soud v Brně usnesením ze dne 8. července 2013, č. j. 54 Co 627/2013-93, usnesení soudu prvního stupně podle § 219 občanského soudního řádu (dále jen „o.s.ř.“) potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Proti usnesení odvolacího soudu podal opatrovník obec Vlkov dne 4. září 2013 dovolání aniž by byl zastoupen advokátem, resp. aniž by byla naplněna podmínka právnického vzdělání za obec jednající osoby ve smyslu ustanovení § 241 odst. 2 písm. b) os.ř. ve spojení s § 21b téhož zákona.
+Soud prvního stupně poté vyzval dovolatele k odstranění nedostatku povinného zastoupení usneseními ze dne 12. září 2013, č.j. P 297/2008-108, a ze dne 27. února 2015, č.j. 4 P 297/2008-129, s poučením o tom, že nebude-li ve stanovené lhůtě výzvě vyhověno, bude dovolací řízení zastaveno. Usnesení byla dovolateli doručena dne 24. září 2013 a 27. února 2015, avšak tento nedostatek nebyl do současné doby odstraněn.
+Nejvyšší soud jako soud dovolací (§ 10a o.s.ř.) přihlédl k čl. II bodu 7. zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, a dále čl. II bodu 2. zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, a vyšel tak ze znění tohoto procesního předpisu účinného od. 1. ledna 2013 do 31. prosince téhož roku.
+Nejvyšší soud konstatuje, že podle § 241 o.s.ř. musí být dovolatel zastoupen advokátem nebo notářem (který však může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními předpisy), jestliže sám nemá právnické vzdělání; je-li dovolatelem právnická osoba, stát, obec nebo vyšší územně samosprávný celek, jedná za ní osoba uvedená v § 21 nebo § 21a anebo v § 21b o.s.ř., pokud má právnické vzdělání. Nemá-li dovolatel právnické vzdělání, musí být dovolání sepsáno advokátem, notářem nebo osobou uvedenou v § 21 nebo § 21a, v § 21b, anebo v § 26a odst. 3 o.s.ř., která má právnické vzdělání. V tomto případě se jedná o úpravu tzv. povinného zastoupení dovolatele v dovolacím řízení, které je chápáno jako zvláštní podmínka dovolacího řízení týkající se dovolatele, jejíž nedostatek lze sice odstranit, bez jejíhož splnění však nelze vydat rozhodnutí ve věci samé. Nedostatek v zastoupení dovolatele musí být proto řešen postupem podle ustanovení § 241b odst. 2 o.s.ř. ve spojení s § 104 odst. 2 téhož zákona.
+Z uvedeného plyne, že přes opatření provedená soudem prvního stupně dovolatel nesplnil zákonem stanovenou podmínku dovolacího řízení ve smyslu § 241 odst. 1 věty první a odst. 4 o.s.ř. Dovolací soud proto řízení o dovolání zastavil (§ 241b odst. 2 část věty před středníkem a § 104 odst. 2 věta třetí o.s.ř.).
+U výroku o náhradě nákladů dovolacího řízení se odkazuje na ustanovení § 243f odst. 3 věta druhá o.s.ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. března 2015
+JUDr. Pavel Pavlík
+předseda senátu
