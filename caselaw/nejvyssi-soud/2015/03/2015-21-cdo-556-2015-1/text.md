@@ -1,0 +1,14 @@
+21 Cdo 556/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a JUDr. Romana Fialy právní věci žalobce JUDr. J. V., proti žalovanému DELL Computer, spol. s r. o. se sídlem v Praze 11-Chodově, V Parku č. 2325/16, IČO 45272808, zastoupenému JUDr. Richardem Wagnerem, advokátem se sídlem v Praze 1, Karoliny Světlé č. 301/8, o 187.541,- Kč s příslušenstvím proti vydání věci, o žalobě pro zmatečnost podané žalobcem proti rozsudku Městského soudu v Praze ze dne 11. ledna 2012, č. j. 39 Co 345/2010-295, vedené u Městského soudu v Praze pod sp. zn. 39 Co 345/2010 (u Obvodního soudu pro Prahu 4 pod sp. zn. 30 C 214/2008), o dovolání žalobce proti usnesení Vrchního soudu v Praze ze dne 6. března 2014, č. j. 4 Co 179/2013-457, takto:
+I. Dovolání žalobce se odmítá.
+II. Žalobce je povinen zaplatit žalovanému na náhradě nákladů dovolacího řízení 3.388,- Kč do tří dnů od právní moci tohoto usnesení k rukám JUDr. Richarda Wagnera, advokáta se sídlem v Praze 1, Karoliny Světlé č. 301/8.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalobce proti rozsudku Vrchního soudu v Praze ze dne 6. 3. 2014, č. j. 4 Co 179/2013-457, není přípustné podle ustanovení § 237 o. s. ř., neboť rozhodnutí odvolacího soudu (jeho závěr, že žalobou pro zmatečnost napadený rozsudek není postižen zmatečností podle ustanovení § 229 odst. 3 o. s. ř.) je v souladu s ustálenou rozhodovací praxí dovolacího soudu (k výkladu ustanovení § 101 odst. 3 o. s. ř. srov. například usnesení Nejvyššího soudu ze dne 19. 8. 2008, sp. zn. 21 Cdo 3358/2007, které bylo uveřejněno pod č. 21 v časopise Soudní judikatura, roč. 2009, v němž byl vysloven právní názor, že důležitost důvodu, pro který účastník řízení žádá o odročení jednání, soud posuzuje vždy s přihlédnutím ke všem okolnostem konkrétního případu a že, i když účastník řízení ve své žádosti uvádí důvod jinak způsobilý vést k závěru o odročení jednání (dalšího jednání), není soud vždy povinen takový důvod akceptovat, a to zejména tehdy, není-li využíván v souladu se smyslem a účelem ustanovení § 101 odst. 3 o. s. ř., ale k záměrným procesním obstrukcím, sledujícím především bezdůvodné protahování občanského soudního řízení a zvyšování nákladů s tím spojených); není tedy důvod, aby rozhodná právní otázka byla posouzena jinak.
+S tímto právním názorem nejsou v rozporu ani závěry uvedené v rozhodnutích Nejvyššího soudu, sp. zn. 20 Cdo 2056/2000 a 28 Cdo 1226/20012, na které poukazuje dovolatel.
+Nejvyšší soud České republiky proto dovolání žalobce podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. března 2015
+JUDr. Mojmír Putna
+předseda senátu
