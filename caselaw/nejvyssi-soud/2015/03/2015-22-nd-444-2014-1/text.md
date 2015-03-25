@@ -1,0 +1,14 @@
+22 Nd 444/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy Mgr. Davida Havlíka a soudců JUDr. Jiřího Spáčila, CSc., a Mgr. Michala Králíka, Ph.D., v exekuční věci oprávněné Všeobecné zdravotní pojišťovny České republiky, IČO: 41197518, se sídlem v Praze 3, Orlická 4/2020, adresou pro doručování: Všeobecná zdravotní pojišťovna ČR, Krajská pobočka pro Jihomoravský kraj, Územní pracoviště Břeclav, 17. listopadu 14, proti povinnému E. D. Z., pro 4 704,- Kč, vedené u Okresního soudu v Břeclavi pod sp. zn. 18 EXE 1304/2014, o návrhu na určení místní příslušnosti soudu, takto:
+Věc vedenou u Okresního soudu v Břeclavi pod sp. zn. 18 EXE 1304/2014 projedná a rozhodne Okresní soud v Břeclavi.
+O d ů v o d n ě n í :
+Soudní exekutor Mgr. Kamil Brančík se sídlem v Hodoníně, Sadová 3887/15, podal dne 21. října 2014 k Okresnímu soudu v Břeclavi žádost o pověření a nařízení exekuce na majetek povinného pro vymožení pohledávky oprávněné ve výši 4 704,- Kč.
+Okresní soud v Břeclavi usnesením ze dne 28. listopadu 2014, č. j. 18 EXE 1304/2014-13, vyslovil podle § 105 odst. 2 občanského soudního řádu (dále „o. s. ř.“) svou místní nepříslušnost v exekuční věci a rozhodl, že po marném uplynutí lhůty k odvolání oprávněné věc předloží dle § 11 odst. 3 o. s. ř. Nejvyššímu soudu České republiky, aby určil, který soud věc projedná a rozhodne. V odůvodnění usnesení uvedl, že nařízení exekuce na základě platebních výměrů zdravotní pojišťovny je v pravomoci soudů ČR, avšak podmínky místní příslušnosti nelze zjistit, neboť povinný „neprochází centrální evidencí obyvatel ani registrem obyvatel, ze systému ISAS Okresního soudu v Břeclavi nebylo o povinném nic zjištěno a na adrese uvedené v živnostenském rejstříku, L., N. T., je adresát dle zásilek zasílaných oprávněnou neznámý“.
+Podle § 11 odst. 1 o. s. ř. se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Nejvyšší soud po předložení věci Okresním soudem v Břeclavi podle ustanovení § 11 odst. 3 o. s. ř., přihlížeje k zásadě hospodárnosti řízení, k sídlu Územního pracoviště Všeobecné zdravotní pojišťovny České republiky, Krajské pobočky pro Jihomoravský kraj a k poslední známé adrese povinného rozhodl, jak uvedeno ve výroku (k tomu srovnej např. usnesení velkého senátu občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne 12. září 2012, sp. zn. 31 Nd 200/2012, publikované ve Sbírce soudních rozhodnutí a stanovisek pod č. 4/2013, uveřejněné též na internetových stránkách Nejvyššího soudu www.nsoud.cz).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. března 2015
+Mgr. David Havlík
+předseda senátu
