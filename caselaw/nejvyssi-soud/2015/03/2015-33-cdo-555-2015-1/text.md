@@ -1,0 +1,16 @@
+33 Cdo 555/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu JUDr. Blankou Moudrou, ve věci žalobkyně NOMINAL 27 s. r. o. se sídlem Český Těšín, Dr. Slámy 293/7, zastoupené JUDr. Radkem Hudečkem, advokátem se sídlem Ostrava - Moravská Ostrava, Škroupova 1114/4, proti žalované I. S., o 3.689.500,- Kč s příslušenstvím, vedené u Okresního soudu v Karviné pod sp. zn. 18 C 273/2013, o dovolání žalobkyně proti usnesení Krajského soudu v Ostravě ze dne 30. 7. 2014, č. j. 57 Co 216/2014-77, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í:
+Krajský soud v Ostravě usnesením ze dne 30. 7. 2014, č. j. 57 Co 216/2014-77, potvrdil usnesení ze dne 18. 2. 2014, kterým Okresní soud v Karviné žalobkyni (ani zčásti) nepřiznal osvobození od soudních poplatků.
+Žalobkyně proti usnesení odvolacího soudu podala blanketní dovolání, které nebylo sepsáno advokátem; ze spisu přitom nevyplývá, že by za ni jednala osoba uvedená v § 21 o. s. ř., která má právnické vzdělání. Soud prvního stupně žalobkyni usnesením ze dne 23. 12. 2014, č. j. 18 C 273/2013-91, vyzval, aby si ve lhůtě čtrnácti dnů od doručení tohoto usnesení - v případě, že V. P. jednající jejím jménem nemá právnické vzdělání - zvolila pro dovolací řízení zástupce z řad advokátů, který její dovolání doplní o chybějící náležitosti, a aby ve stanovené lhůtě předložila plnou moc opravňující advokáta zastupovat ji v dovolacím řízení. Současně ji poučil, že nevyhoví-li ve stanovené lhůtě výzvě, bude dovolací řízení zastaveno. Usnesení s výzvou bylo žalobkyni doručeno dne 5. 1. 2015. Žalobkyně v reakci na usnesení zaslala soudu prvního stupně dne 19. 1. 2015 plnou moc advokáta udělenou mu pro účely dovolacího řízení a požádala o prodloužení lhůty k doplnění dovolání advokátem o dalších 10 dnů. Následně podáním ze dne 29. 1. 2015 soudu oznámila, že zastupující advokát je „do 2. 2. 2015 mimo kancelář“. Dne 2. 2. 2015 advokát žalobkyně podal u soudu doplněné dovolání.
+Podle § 240 o. s. ř. může účastník řízení podat dovolání do dvou měsíců od doručení rozhodnutí odvolacího soudu (odst. 1věta první). Zmeškání lhůty pro podání dovolání nelze prominout (odst. 2 věta první).
+Podle § 241b odst. 3 o. s. ř. dovolání, které neobsahuje údaje o tom, v jakém rozsahu se rozhodnutí odvolacího soudu napadá, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) nebo které neobsahuje vymezení důvodu dovolání, může být o tyto náležitosti doplněno jen v průběhu trvání lhůty k dovolání. Nebyla-li v době podání dovolání splněna podmínka uvedená v § 241 o. s. ř., běží tato lhůta až do uplynutí lhůty, která byla dovolateli určena ke splnění této podmínky.
+Podle § 243c odst. 1 dovolání, které trpí vadami, jež nebyly ve lhůtě (§ 241b odst. 3) odstraněny a pro něž nelze v dovolacím řízení pokračovat, dovolací soud odmítne.
+Žalobkyně podala dovolání ve lhůtě pro podání dovolání, avšak o zákonem stanovené náležitosti je v rozporu s § 241b odst. 3 o. s. ř. doplnila až po uplynutí lhůty, kterou ji soud určil ke splnění podmínky advokátního zastoupení (§ 241 o. s. ř.).
+Jelikož v dovolacím řízení nelze pro vady dovolání, jež nebyly včas odstraněny, pokračovat, Nejvyšší soud dovolání odmítl (§ 243c odst. 1 věta první o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. března 2015
+JUDr. Blanka Moudrá
+předsedkyně senátu
