@@ -1,0 +1,19 @@
+32 Cdo 706/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Příhody a soudců JUDr. Hany Gajdziokové a JUDr. Miroslava Galluse ve věci žalobce P. N., zastoupeného JUDr. Miroslavem Bartošem, advokátem, se sídlem v Ústí nad Labem, Bílinská 1147/1, PSČ 400 01, proti žalované Česká pojišťovna a. s., se sídlem v Praze 1, Spálená 75/16, PSČ 113 04, identifikační číslo osoby 45272956, o zaplacení částky 206 000 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 30 C 90/2009, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 9. června 2014, č. j. 15 Co 239/2014-84, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Se zřetelem k době vydání napadeného rozhodnutí odvolacího soudu se uplatní pro dovolací řízení - v souladu s bodem 7. článku II., části první, přechodných ustanovení zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, a s bodem 2 článku II, části první, přechodných ustanovení zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony - občanský soudní řád ve znění účinném od 1. ledna 2013 do 31. prosince 2013 (dále též jen „o. s. ř.“).
+Podle ustanovení § 237 o. s. ř. není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+Podle § 241a odst. 2 o. s. ř. v dovolání musí být vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu se rozhodnutí napadá, vymezení důvodu dovolání, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) a čeho se dovolatel domáhá (dovolací návrh).
+Dovolatel, odkazuje co do přípustnosti dovolání na ustanovení § 237 odst. 1 písm. c) a § 239 odst. 2 písm. a) občanského soudního řádu, zřejmě přehlédl novelu občanského soudního řádu provedenou s účinností k 1. lednu 2013 zákonem č. 404/2012 Sb., v důsledku níž předpoklady přípustnosti dovolání doznaly podstatných změn.
+Může-li být dovolání přípustné jen podle ustanovení § 237 o. s. ř. (jako v této věci), je dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné (srov. shodně např. usnesení Nejvyššího soudu ze dne 27. srpna 2013, sp. zn. 29 NSČR 55/2013, uveřejněné v časopise Soudní judikatura, sešit č. 10, ročník 2014, pod číslem 116).
+Dovolatel, odvozuje přípustnost dovolání ze znění ustanovení § 237 odst. 1 písm. c) občanského soudního řádu, jež bylo účinné do 31. prosince 2012, tomuto požadavku nedostál (srov. shodně např. usnesení Nejvyššího soudu ze dne 14. dubna 2014, sp. zn. 32 Cdo 4345/2013, které je veřejnosti dostupné na webových stránkách Nejvyššího soudu).
+Uvedený nedostatek nelze již odstranit, neboť lhůta pro podání dovolání, během níž tak bylo možno učinit (srov. ustanovení § 241b odst. 3 větu první o. s. ř.), již uplynula (srov. ustanovení § 57 odst. 2 větu první a druhou o. s. ř.). Jde přitom o takovou vadu, jež brání pokračování v dovolacím řízení, neboť v důsledku absence uvedené náležitosti nelze posoudit přípustnost dovolání.
+Nejvyšší soud proto dovolání podle ustanovení § 243c odst. 1 o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (srov. ustanovení § 243f odst. 3 větu druhou o. s. ř.).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 31. března 2015
+JUDr. Pavel Příhoda
+předseda senátu
