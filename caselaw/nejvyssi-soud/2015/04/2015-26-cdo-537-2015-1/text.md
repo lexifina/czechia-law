@@ -1,0 +1,11 @@
+26 Cdo 537/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zbyňka Poledny a soudkyň JUDr. Miroslavy Jirmanové, Ph.D., a JUDr. Pavlíny Brzobohaté v exekuční věci oprávněného Města Jáchymov se sídlem v Jáchymově, náměstí Republiky č. 1, IČO 00254622, zastoupeného JUDr. Janou Wenigovou, advokátkou se sídlem v Karlových Varech, Vítězná č. 795/10, proti povinnému L. S., zastoupenému JUDr. Karlem Jelínkem, advokátem se sídlem v Karlových Varech, Bělehradská č. 2056/3a, pro 543.300,- Kč a 509.400,- Kč s příslušenstvím, vedené u Okresního soudu v Sokolově, pod sp. zn. 17 Nc 7555/2007, o dovolání oprávněného proti usnesení Krajského soudu v Plzni ze dne 9. dubna 2014, č. j. 61 Co 552/2013-256, takto:
+Dovolání oprávněného se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání oprávněného proti usnesení Krajského soudu v Plzni ze dne 9. 4. 2014, č. j. 61 Co 552/2013-256, není přípustné podle ustanovení § 237 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu [k otázce, zda ujednání v notářském zápise se svolením k vykonatelnosti (jako exekučního titulu) o smluvní pokutě je z hlediska jeho materiální vykonatelnosti (nevykonatelnosti) ve vztahu ke lhůtě k plnění smluvní pokuty jako určitého závazku, srov. například usnesení Nejvyššího soudu ze dne 24. 5. 2012, sp. zn. 20 Cdo 3719/2011; v této věci nebylo účastníky notářského zápisu dohodnuto, do kdy má povinný smluvní pokutu, ke které se zavázal pro případ nesplnění primární povinnosti (zde zaplatit doplatek kupní ceny), zaplatit] a není důvod, aby rozhodná právní otázka byla posouzena jinak. Nejvyšší soud České republiky proto dovolání oprávněného podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 1. dubna 2015
+JUDr. Zbyněk Poledna
+předseda senátu
