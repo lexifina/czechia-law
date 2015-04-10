@@ -1,0 +1,12 @@
+21 Cdo 523/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Ljubomírem Drápalem v právní věci žalobkyně V. Š., zastoupené JUDr. Lubomírem Lukšíkem, advokátem se sídlem v Ostravě - Porubě, Hlavní třída č. 1023/55, proti žalované Medi-Globe s.r.o. se sídlem v Hranicích, Olomoucká č. 306, IČO 25840037, zastoupené Mgr. Ing. Radkem Matoušem, advokátem se sídlem v Praze 1, Revoluční č. 763/15, o určení neplatnosti okamžitého zrušení pracovního poměru a o určení neplatnosti výpovědi z pracovního poměru, vedené u Okresního soudu v Novém Jičíně pod sp. zn. 6 C 410/2010, o dovolání žalobkyně proti rozsudku Krajského soudu v Ostravě ze dne 16. září 2014 č.j. 16 Co 19/2014-312, takto:
+I. Dovolání žalobkyně se odmítá.
+II. Žalobkyně je povinna zaplatit žalované na náhradě nákladů dovolacího řízení 3.388,- Kč do 3 dnů od právní moci tohoto usnesení k rukám Mgr. Ing. Radka Matouše, advokáta se sídlem v Praze 1, Revoluční č. 763/15.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Nejvyšší soud České republiky dovolání žalobkyně v části, v níž směřuje proti výroku rozsudku Krajského soudu v Ostravě ze dne 16.9.2014 č.j. 16 Co 19/2014-312, jímž změnil rozsudek Okresního soudu v Novém Jičíně ze dne 25.9.2013 č.j. 6 C 410/2010-192 tak, že se určuje, že okamžité zrušení pracovního poměru dané žalobkyni dopisem žalované ze dne 29.9.2010 je neplatné, odmítl podle ustanovení § 243c odst. 3 věty první a § 218 písm. b) o.s.ř., neboť žalobkyně není k podání dovolání oprávněna (subjektivně legitimována), protože napadeným rozhodnutím bylo dovolatelce plně vyhověno a nevznikla jí ani jiná újma, kterou by bylo možné odčinit zrušením rozhodnutí odvolacího soudu, a v části, v níž směřuje proti výroku rozsudku Krajského soudu v Ostravě ze dne 16.9.2014 č.j. 16 Co 19/2014-312, jímž změnil rozsudek Okresního soudu v Novém Jičíně ze dne 25.9.2013 č.j. 6 C 410/2010-192 tak, že zamítl žalobu o určení neplatnosti výpovědi z pracovního poměru dané žalobkyni dopisem žalované ze dne 29.9.2010, odmítl podle ustanovení § 243c odst. 1 věty první o.s.ř., neboť v něm byl uplatněn jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o.s.ř., a v dovolacím řízení nelze pro tento nedostatek pokračovat.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 10. dubna 2015
+JUDr. Ljubomír Drápal
+předseda senátu
