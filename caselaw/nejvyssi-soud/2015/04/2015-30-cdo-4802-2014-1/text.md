@@ -1,0 +1,20 @@
+30 Cdo 4802/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Ištvánka a soudců JUDr. Pavla Simona a Mgr. Víta Bičáka, ve věci žalobkyně J. H., proti žalované České republice – Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 16, o zaplacení částky 30,000.000,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 23 C 269/2012, o dovolání žalobkyně proti usnesení Městského soudu v Praze ze dne 4. 7. 2014, č. j. 51 Co 246/2014-36, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Praze v záhlaví uvedeným usnesením potvrdil usnesení soudu prvního stupně ze dne 21. 2. 2014, č. j. 23 C 269/2012 – 31, jímž byl zamítnut návrh žalobkyně na ustanovení zástupce pro dovolací řízení z důvodu, že ze strany žalobkyně jde o zřejmě bezúspěšné uplatňování práva.
+Usnesení odvolacího soudu napadla žalobkyně dovoláním, v němž požádala Nejvyšší soud, aby odvolacímu soudu nařídil bezplatné přidělení právního zástupce žalobkyni, který by žalobkyni zastupoval a profesionálně plnil požadavky soudu, čehož žalobkyně není schopna. Dále dovolatelka uvedla, že je přesvědčena, že soudci záměrně porušují její právo na spravedlivý proces.
+Nejvyšší soud v dovolacím řízení postupoval a o dovolání rozhodl podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném od 1. 1. 2013 (viz čl. II., bod 7 zák. č. 404/2012 Sb.) – dále jen „o. s. ř.“.
+Dovolání bylo podáno včas, osobou oprávněnou - účastníkem řízení (§ 240 odst. 1 o. s. ř.). Dovolatelka sice není zastoupena advokátem a sama rovněž nemá právnické vzdělání (srov. § 241 odst. 1 o. s. ř.), povaha rozhodnutí, proti němuž dovolání směřuje, však vylučuje, aby v posuzované věci bylo možno nedostatek podmínky povinného zastoupení považovat za překážku, jež by bránila vydání rozhodnutí, jímž se dovolací řízení končí. Za situace, kdy předmětem dovolacího přezkumu je rozhodnutí, jímž nebylo vyhověno žádosti účastníka o ustanovení zástupce z řad advokátů (§ 30 o. s. ř.), by trvání na podmínce povinného zastoupení vedlo k vlastnímu popření cíle, jenž účastník podáním žádosti sledoval a k popření vlastního smyslu dovolacího řízení, v němž má být závěr o tom, že účastník právo na ustanovení zástupce nemá, zkoumán (srov. usnesení Nejvyššího soudu ze dne 28. dubna 1997, sp. zn. 2 Cdon 609/97).
+Dovolací soud však dovolání podle § 243c odst. 1 o. s. ř. odmítl, neboť trpí vadami, pro něž nelze v dovolacím řízení pokračovat. Nutno upozornit, že § 43 o. s. ř. pro dovolací řízení neplatí (§ 243b o. s. ř.).
+Dle ustanovení § 241a odst. 2 o. s. ř.: „V dovolání musí být vedle obecných náležitostí (§42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu se rozhodnutí napadá, vymezení důvodu dovolání, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) a čeho se dovolatel domáhá.“
+Dle ustanovení § 237 o. s. ř.: „Není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.“
+Dle ustanovení § 241a odst. 1 o. s. ř.: „Dovolání lze podat pouze z důvodu, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci.“
+Dovolatelka v dovolání nikterak nevymezila, v čem spatřuje splnění předpokladů přípustnosti dovolání ve smyslu ustanovení § 237 o. s. ř. ani z jakého důvodu dovolání podává. Za těchto okolností dovolacímu soudu nezbylo, než dovolání odmítnout, jak bylo uvedeno výše.
+Nákladový výrok netřeba odůvodňovat (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení nejsou opravné prostředky přípustné.
+V Brně dne 11. dubna 2015
+JUDr. František Ištvánek
+předseda senátu
