@@ -1,0 +1,15 @@
+30 Cdo 4817/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Lubomíra Ptáčka, Ph.D. a soudců JUDr. Pavla Pavlíka a JUDr. Pavla Vrchy v právní věci žalobce A. Ž., zastoupeného JUDr. Lukášem Martinkem, advokátem se sídlem v Praze 10, V úžlabině 2055/16, proti žalované České republice – Ministerstvu spravedlnosti, identifikační číslo osoby 000 25 429, se sídlem v Praze 2, Vyšehradská 424/16, o náhradu nemajetkové újmy, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 15 C 139/2012, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 11. listopadu 2013, č.j. 53 Co 162/2013-103, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění
+(§ 243f odst. 3 o. s. ř.):
+Dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 11. listopadu 2013, č.j. 53 Co 162/2013-103, není přípustné podle ustanovení § 237 o. s. ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+Dovolací soud dospěl na rozdíl od dovolatele k názoru, že rozsudek odvolacího soudu je plně v souladu s dovolatelem citovaným rozsudkem Nejvyššího soudu ze dne 9. května 2012, sp. zn. 30 Cdo 178/2011, kde dovolací soud mimo jiné vyslovil, že vede-li osoba domáhající se poskytnutí přiměřeného zadostiučinění za nemajetkovou újmu způsobenou nesprávným úředním postupem ve smyslu § 13 odst. 1, věta třetí zákona č. 82/1998 Sb. (dále jen OdpŠk) více řízení, která se typově týkají podobných práv, bez dalšího to neznamená, že je tím vyvrácena domněnka o vzniku nemajetkové újmy v důsledku nepřiměřeně dlouze vedeného řízení. Dovolací soud dále odkazuje také na rozsudek Nejvyššího soud ze dne 18. února 2015, sp. zn. 30 Cdo 2681/2014, kde dovolací vyložil závěr, že ani litigiózní (sudičský) přístup žalobce nezbavuje soud povinnosti věc rozhodnout v přiměřeném čase. Pokud však soud poruší tuto svou povinnost a žalobci vznikne nemajetková újma (byť nepatrná vzhledem k významu takových řízení pro žalobce), nelze odhlédnout od toho, že žalobce opakovaně zneužívá svého práva na přístup k soudu a že rovněž v daném případě lze podání žaloby takto posoudit. I v tomto případě však stále došlo ze strany státu k porušení práva, za něž odškodnění představuje konstatování porušení práva dle § 31a odst. 2 OdpŠk. Dovolací soud dospěl k závěru, že v souladu s jeho předchozí judikaturou je zcela správným právním posouzením věci, pokud soudy přiznaly žalobci toliko odškodnění ve formě konstatování porušení práva, když přihlédly k opakovanému obstrukčnímu a litigióznímu počínání žalobce v nezměrném počtu jím vedených řízení.
+Nejvyšší soud České republiky proto dovolání podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 15. dubna 2015
+JUDr. Lubomír P t á č e k, Ph.D.
+předseda senátu
