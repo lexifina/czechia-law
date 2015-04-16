@@ -1,0 +1,17 @@
+29 Cdo 1408/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Krčmáře a soudců JUDr. Jiřího Zavázala a Mgr. Milana Poláška v konkursní věci úpadce J. K., vedené u Městského soudu v Praze pod sp. zn. 52 K 92/97, o ustanovení zástupce, o „odvolání“ úpadce proti usnesení Vrchního soudu v Praze ze dne 29. května 2014, č. j. 2 Ko 18/2013-9908, takto:
+Řízení o odvolání úpadce proti prvnímu výroku usnesení Vrchního soudu v Praze ze dne 29. května 2014, č. j. 2 Ko 18/2013-9908, se zastavuje.
+O d ů v o d n ě n í:
+Usnesením ze dne 4. října 2012, č. j. 52 K 92/97-8534, zamítl Městský soud v Praze (dále též jen „konkursní soud“) úpadcův návrh z 11. září 2012, aby správkyně konkursní podstaty úpadce byla zproštěna funkce.
+Při projednání úpadcova odvolání proti usnesení konkursního soudu Vrchní soud v Praze ve výroku označeným usnesením (žurnalizovaným původně na č. l. 9103) mimo jiné (prvním výrokem) zamítl návrh úpadce, aby mu byl ustanoven zástupce k ochraně jeho zájmů za účelem doplnění návrhu na přikázání věci vedené u tohoto soudu pod sp. zn. 2 Ko 18/2013, jinému odvolacímu soudu z důvodu vhodnosti.
+Podáním datovaným 9. června 2014 podal (nezastoupený) úpadce „odvolání“ proti onomu prvnímu výroku usnesení odvolacího soudu.
+Usnesení, jímž Vrchní soud v Praze v průběhu odvolacího řízení zamítl žádost úpadce o ustanovení zástupce, je usnesením odvolacího soudu.
+Odvolání není opravným prostředkem, který by bylo možno podat proti rozhodnutí vrchního soudu (srov. § 201 zákona č. 99/1963 Sb., občanského soudního řádu - dále též jen „o. s. ř.“), který je soudem odvolacím (§ 10 odst. 2 o. s. ř.). Tomu koresponduje i skutečnost, že Nejvyšší soud - ve shodě s tím, jak soustavu soudů vymezuje Ústava České republiky (srov. článek 91) - může být jen soudem prvního stupně nebo soudem dovolacím (srov. § 9 odst. 4 a § 10a o. s. ř.).
+Funkční příslušnost soudu pro projednání odvolání proti rozhodnutí vrchního soudu jako soudu odvolacího tedy občanský soudní řád neupravuje. Nedostatek funkční příslušnosti je pak neodstranitelným nedostatkem podmínky řízení, takže Nejvyšší soud řízení o podaném odvolání, které touto vadou trpí, zastavil (§ 104 odst. 1 o. s. ř.). Shodně srov. např. usnesení Nejvyššího soudu ze dne 27. června 2002, sp. zn. 29 Odo 433/2002, uveřejněné v časopise Soudní judikatura číslo 7, ročníku 2002, pod číslem 139.
+Pro úplnost Nejvyšší soud dodává, že ani případné posouzení opravného prostředku úpadce jako „dovolání“ by nevedlo k věcnému přezkumu prvního výroku napadeného usnesení, jelikož takové „dovolání“ není objektivně přípustné podle žádného z ustanovení občanského soudního řádu a muselo by být odmítnuto podle § 243b odst. 5 a § 218 písm. c/ o. s. ř.; nejde (totiž) o usnesení odvolacího soudu „ve věci samé“ ani o žádné z usnesení vypočtených v § 239 o. s. ř. Srov. i usnesení Nejvyššího soudu ze dne 4. září 2003, sp. zn. 29 Odo 265/2003, uveřejněné pod číslem 47/2006 Sbírky soudních rozhodnutí a stanovisek.
+Rozhodné znění občanského soudního řádu pro dovolací řízení (do 31. prosince 2007) plyne z § 432 odst. 1, § 433 bodu 1. a § 434 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenčního zákona). Srov. i usnesení Nejvyššího soudu ze dne 10. září 2008, sp. zn. 29 Cdo 3409/2008, uveřejněné pod číslem 16/2009 Sbírky soudních rozhodnutí a stanovisek.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 16. dubna 2015
+JUDr. Zdeněk K r č m á ř
+předseda senátu
