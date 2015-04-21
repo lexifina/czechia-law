@@ -1,0 +1,16 @@
+26 Nd 16/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Jitky Dýškové a soudkyň Doc. JUDr. Věry Korecké, CSc., a JUDr. Pavlíny Brzobohaté v právní věci žalobce M. H., proti žalovaným 1) V. V., 2) České republice - Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 424/16, o náhradu škody, vedené u Okresního soudu v Olomouci pod sp. zn. 17 C 372/2014, o návrhu žalobce na přikázání věci jinému soudu z důvodu vhodnosti, takto:
+Věc vedená u Okresního soudu v Olomouci pod sp. zn. 17 C 372/2014 se nepřikazuje Okresnímu soudu v Kolíně.
+O d ů v o d n ě n í :
+Žalobou podanou dne 4. 4. 2012 u Okresního soudu v Kolíně se žalobce domáhá náhrady škody. Okresní soud v Kolíně usnesením ze dne 13. 3. 2014, č. j. 9 C 58/2013-94, vyslovil svoji místní nepříslušnost a rozhodl, že po právní moci tohoto usnesení bude věc postoupena Okresnímu soudu v Olomouci jako soudu místně příslušnému. K odvolání žalobce Krajský soud v Praze usnesením ze dne 31. 7. 2014, č. j. 25 Co 324/2014-104, usnesení soudu prvního stupně potvrdil.
+Součástí odvolání žalobce proti usnesení soudu prvního stupně byl i návrh na delegaci věci Okresnímu soudu v Kolíně z důvodu vhodnosti, který žalobce odůvodnil zejména svou špatnou sociální situací.
+Žalovaní 1) a 2) se k návrhu žalobce na delegaci z důvodu vhodnosti podle § 12 odst. 2 o. s. ř. k výzvě soudu nevyjádřili.
+Podle § 12 o. s. ř. věc může být jinému soudu téhož stupně přikázána také z důvodu vhodnosti (odstavec 2). O přikázání věci rozhoduje soud, který je nejblíže společně nadřízen příslušnému soudu a soudu, jemuž má být věc přikázána. Účastníci mají právo se vyjádřit k tomu, kterému soudu má být věc přikázána, a v případě odstavce 2 též k důvodu, pro který by věc měla být přikázána (odstavec 3).
+Důvod vhodnosti pro přikázání věci jinému soudu téhož stupně ve smyslu § 12 odst. 2 o. s. ř. představují takové okolnosti, které umožní hospodárnější a rychlejší projednání věci jiným než příslušným soudem. Přitom je ale třeba mít na zřeteli, že obecná místní příslušnost soudu, který má podle zákona věc projednat, je základní zásadou, a že přikázání věci jinému soudu je výjimkou z ústavně zaručené zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon (článek 38 odst. 1 Listiny základních práv a svobod). Důvody pro odnětí věci příslušnému soudu a její přikázání jinému soudu musí být natolik významné, aby dostatečně odůvodňovaly průlom do výše citovaného ústavního principu; srov. nález Ústavního soudu České republiky ze dne 15. listopadu 2001, sp. zn. I. ÚS 144/2000, uveřejněný pod číslem 172/2001 Sbírky nálezů a usnesení Ústavního soudu, jakož např. i usnesení Nejvyššího soudu ze dne 31. srpna 2011, sen. zn. 29 NSČR 33/2010, uveřejněné pod číslem 3/2012 Sbírky soudních rozhodnutí a stanovisek.
+Vzdálenost mezi místem bydliště jednoho z účastníků a sídlem místně příslušného soudu ani výše nákladů na dopravu nepředstavují samy o sobě (nejsou-li doplněny dalšími okolnostmi) důvod pro přikázání věci jinému soudu podle § 12 odst. 2 o. s. ř.
+Nejvyšší soud proto rozhodl, že se projednávaná věc Okresnímu soudu v Kolíně nepřikazuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 21. dubna 2015
+JUDr. Jitka Dýšková
+předsedkyně senátu
