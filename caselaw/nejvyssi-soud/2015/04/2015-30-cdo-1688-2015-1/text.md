@@ -1,0 +1,11 @@
+30 Cdo 1688/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Františkem Ištvánkem ve věci žalobce P. R., proti žalované České republice – Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 16, o zaplacení částky 800 000 Kč, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 31 C 323/2014, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 15. 10. 2014, č. j. 58 Co 370/2014-51, takto:
+Dovolací řízení se zastavuje.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Žalobce podal proti v záhlaví uvedenému usnesení dovolání, přičemž dalším podáním ze dne 27. 10. 2014 požádal o osvobození od soudních poplatků a ustanovení zástupce pro dovolací řízení. Oba návrhy soud prvního stupně zamítl usnesením ze dne 30. 10. 2014, č. j. 31 C 323/2014-77, přičemž toto rozhodnutí potvrdil odvolací soud usnesením ze dne 24. 11. 2014, č. j. 58 Co 472/2014-93. Dovolání směřující proti posledně uvedenému rozhodnutí bylo dovolacím soudem odmítnuto usnesením ze dne 4. 3. 2015, č. j. 30 Cdo 57/2015-102. Usnesením ze dne 30. 3. 2015, č. j. 31 C 323/2014-118, soud prvního stupně dovolatele vyzval, aby si pro podání dovolání v této věci zvolil zástupcem advokáta a aby jeho prostřednictvím podal řádné dovolání, přičemž stanovil dovolateli lhůtu 15 dnů. Dovolatel na výzvu reagoval podáním ze dne 9. 4. 2015, v němž uvedl, že rozhodnutí dovolacího soudu napadl ústavní stížností, která byla registrována pod sp. zn. II. ÚS 795/15, z toho důvodu nelze po dovolateli požadovat splnění povinností dle učiněné výzvy. Dále dovolatel nesouhlasil s délkou poskytnuté lhůty.
+Dovolací soud řízení o dovolání žalobce podle ustanovení § 241b odst. 2 a § 104 odst. 2 o. s. ř. zastavil, neboť dovolatel nesplnil podmínku povinného zastoupení v dovolacím řízení (§ 241 o. s. ř.). Dovolací soud nemohl přihlédnout k dovolatelem namítané okolnosti, že předcházející rozhodnutí dovolacího soudu bylo napadeno ústavní stížností. Ústavní soud v řadě svých rozhodnutí uvádí, že není součástí obecné soudní soustavy. Ústavní stížnost se nikterak nedotýká právní moci napadeného rozhodnutí ani nemá sama o sobě odkladný účinek. Podání ústavní stížnosti tudíž nebrání tomu, aby v řízení bylo dále postupováno.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 22. dubna 2015
+JUDr. František Ištvánek
+předseda senátu
