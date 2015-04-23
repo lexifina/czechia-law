@@ -1,0 +1,14 @@
+30 Cdo 3722/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl senátě složeném z předsedy JUDr. Lubomíra Ptáčka, Ph.D. a soudců JUDr. Pavla Simona a JUDr. Františka Ištvánka v právní věci žalobce Ing. A. D., právně zastoupeného JUDr. Vladimírem Dvořáčkem, advokátem se sídlem v Praze 8, Sokolovská 32/22, proti žalované České republice – Ministerstvu spravedlnosti, identifikační číslo osoby 000 25 429, se sídlem v Praze 2, Vyšehradská 424/16, o zaplacení 150.000,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 12 C 139/2011, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 11. března 2014, č.j. 15 Co 476/2013 – 144, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í (§ 243f odst. 3 o. s. ř.):
+Dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 11. března 2014, č.j. 15 Co 476/2013 – 144, není přípustné podle ustanovení § 237 o. s. ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu a není důvod, aby byla rozhodná právní otázka posouzena jinak.
+Dovolací soud již dříve judikoval, že neuplatní-li žalobce svůj nárok v občanskoprávním řízení, byť z jakéhokoli důvodu, pak není možné shledat ani příčinnou souvislost mezi žalobcem tvrzenou škodou a údajným nezákonným rozhodnutím či nesprávným úředním postupem státu (srov. např. usnesení ze dne 28. července 2004, sp. zn. 25 Cdo 633/2004, uveřejněné v Souboru civilních rozhodnutí NS pod C 2823, C. H. Beck, či usnesení ze dne 16. srpna 2006, sp. zn. 25 Cdo 3029/2005, uveřejněné tamtéž pod C 4477). Dovolací soud dále konstatuje, že rozhodnutí odvolacího soudu je tak plně v souladu s ustálenou judikaturou Nejvyššího soudu i v případech obdobných nároků uplatňovaných vůči žalované dalšími věřiteli primárních škůdců, kteří uplatňovali své nároky v adhezním řízení v rámci stejného trestního stíhání a ze stejných důvodů jako žalobce (srov. např. rozsudek Nejvyššího soudu ze dne 4. září 2013, sp. zn. 30 Cdo 955/2013 nebo usnesení Nejvyššího soudu ze dne 25. září 2013, sp. zn. 30 Cdo 1157/2013, usnesení Nejvyššího soudu ze dne 27. srpna 2014, sp. zn. 30 Cdo 370/2013, usnesení Nejvyššího soudu ze dne 22. října 2014, sp. zn. 30 Cdo 4114/2013, usnesení Nejvyššího soudu ze dne 26. listopadu 2014, sp. zn. 30 Cdo 2184/2014, usnesení Nejvyššího soudu ze dne 26. listopadu 2014, sp. zn. 30 Cdo 2613/2014, či usnesení Nejvyššího soudu ze dne 26. listopadu 2014, sp. zn. 30 Cdo 2158/2014).
+Nejvyšší soud České republiky proto dovolání žalobce podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 23. dubna 2015
+JUDr. Lubomír Ptáček, Ph.D.
+předseda senátu
