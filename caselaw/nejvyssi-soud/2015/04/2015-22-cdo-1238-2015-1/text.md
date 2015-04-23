@@ -1,0 +1,19 @@
+22 Cdo 1238/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Jiřím Spáčilem, CSc., ve věci navrhovatele J. P., Ú. n. L., o návrhu na potvrzení pravosti listin, vedené u Okresního soudu v Ústí nad Labem pod sp. zn. 42 Nc 29/2012, o dovolání navrhovatele proti usnesení Krajského soudu v Ústí nad Labem ze dne 2. prosince 2013, č. j. 9 Co 1144/2013- 42, takto:
+I. Dovolací řízení se zastavuje.
+II. Navrhovatel nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Podle § 243f odst. 3 věta první občanského soudního řádu (dále jen „o. s. ř.“), ve znění po novele provedené zákonem č. 404/2012 Sb., v odůvodnění usnesení, jímž bylo dovolání odmítnuto nebo jímž bylo zastaveno dovolací řízení, dovolací soud pouze stručně uvede, proč je dovolání opožděné, nepřípustné nebo trpí vadami, jež brání pokračování v dovolacím řízení, nebo proč muselo být dovolací řízení zastaveno.
+Okresní soud v Pardubicích (dále jen „soud prvního stupně“) usnesením ze dne 19. července 2012, č. j. 42 Nc 29/2012-16, odmítl podání navrhovatele ze dne 28. 3. 2012 s odůvodněním, že ani na výzvu soudu učiněnou usnesením ze dne 24. dubna 2012, č. j. 42 Nc 29/2012-15, vady podání neodstranil, přičemž nedostatky jsou takového charakteru, že neumožňují, aby v řízení bylo pokračováno.
+K odvolání navrhovatele Krajský soud v Ústí nad Labem (dále „odvolací soud“) usnesením ze dne 2. prosince 2013, č. j. 9 Co 1114/2013-42, usnesení soudu prvního stupně potvrdil a navrhovateli nepřiznal právo na náhradu nákladů řízení.
+Proti usnesení odvolacího soudu podal navrhovatel dovolání, nikoli však prostřednictvím advokáta nebo notáře.
+Podle článku II. – Přechodná ustanovení, bodu 2. zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, pro řízení zahájená přede dnem nabytí účinnosti tohoto zákona se použije zákon č. 99/1963 Sb., ve znění účinném přede dnem nabytí účinnosti tohoto zákona.
+Podle článku II. – Přechodná ustanovení, bodu 7. zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, účinného od 1. ledna 2013, dovolání proti rozhodnutím odvolacího soudu vydaným přede dnem nabytí účinnosti tohoto zákona se projednají a rozhodnou podle dosavadních právních předpisů, s výjimkou § 243c odst. 3 zákona, který se užije ve znění účinném ode dne nabytí účinnosti tohoto zákona.
+Protože napadené rozhodnutí odvolacího soudu bylo vydáno dne 2. prosince 2013, postupoval dovolací soud podle občanského soudního řádu ve znění účinném od 1. ledna 2013 (dále jen „o. s. ř.“).
+Soud prvního stupně vyzval navrhovatele usnesením ze dne 27. února 2014, č. j. 42 Nc 29/2012-51, aby si pro podání dovolání zvolil ve lhůtě 1 měsíce zástupcem advokáta nebo notáře a aby jeho prostřednictvím podal řádné dovolání. Současně ho poučil, že pro nedostatek podmínky řízení - zákonného zastoupení může být dovolací řízení zastaveno. Usnesení bylo dovolateli doručeno 27. 6. 2014 a podáním doručeným soudu prvního stupně 25. 7. 2014 požádal o prodloužení lhůty ze zdravotních důvodů. Aniž soud prvního stupně o jeho žádosti rozhodl, v podání doručeném soudu prvního stupně 27. února 2015 navrhovatel uvedl, že žádá, aby mu byla umožněna „samostatná obhajoba“, neboť je svéprávný a může věc srozumitelně dokladovat. Dovolatel výzvě soudu prvního stupně nevyhověl, neboť si svým zástupcem advokáta nebo notáře nezvolil a jeho prostřednictvím dovolání nepodal.
+Nejvyšší soud dovolací řízení podle § 241b odst. 2 a § 104 odst. 2 o. s. ř. zastavil, neboť dovolatel nesplnil podmínku povinného zastoupení v dovolacím řízení (§ 241 o. s. ř.).
+V souladu s § 243f odst. 2 věta druhá o. s. ř. rozhodnutí o náhradě nákladů dovolacího řízení neobsahuje odůvodnění.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 23. dubna 2015
+JUDr. Jiří Spáčil, CSc. předseda senátu
