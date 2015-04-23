@@ -1,0 +1,13 @@
+26 Cdo 1179/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Jitky Dýškové a soudců JUDr. Aleše Zezuly a JUDr. Zbyňka Poledny v exekuční věci oprávněné MIDESTA, s. r. o., se sídlem v Brně, Čechyňská 419/14a, IČO 27685098, proti povinné Z. K., pro 46.454 Kč s příslušenstvím, vedené u soudního exekutora Mgr. Richarda Bednáře, Exekutorský úřad Praha 10, pod sp. zn. 003 EX 453/07, o dovolání soudního exekutora, zastoupeného Mgr. Ondřejem Malinou, advokátem se sídlem v Praze 7, Komunardů 36, proti usnesení Krajského soudu v Hradci Králové ze dne 30. prosince 2014, č. j. 20 Co 231/2014-171, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.) :
+Soudní exekutor Mgr. Richard Bednář, Exekutorský úřad Praha 10, se sídlem v Praze 10, Na Plískavě 1525/2, napadl dovoláním usnesení Krajského soudu v Hradci Králové ze dne 30. 12. 2014, č. j. 20 Co 231/2014-171, jímž bylo změněno rozhodnutí jmenovaného soudního exekutora ze dne 17. 3. 2014, č. j. 003 EX 453/2007-140, tak, že se insolvenčnímu správci (povinné) JUDr. Martinu Litvanovi, LL.M., Ph.D., se sídlem v Praze 2, Fűgnerovo náměstí 1808/3, vydává výtěžek exekuce ve výši 1.538.000 Kč.
+Nejvyšší soud dovolání soudního exekutora proti usnesení odvolacího soudu odmítl podle § 243c odst. 1 věty první občanského soudního řádu ve znění účinném do 31. 12. 2013 – dále „o. s. ř.“ (srov. čl. II. bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony), neboť závěr odvolacího soudu ohledně povinnosti soudního exekutora vydat po zahájení insolvenčního řízení na majetek povinného do majetkové podstaty úpadce jím exekučně vymožené plnění bez odpočtu nákladů exekuce je v souladu s ustálenou rozhodovací praxí dovolacího soudu, od níž není důvodu se odchýlit (viz usnesení Nejvyššího soudu ze dne 23. 10. 2014, sp. zn. 21 Cdo 3182/2014, jež bylo vydané v rámci posuzovaného exekučního řízení a je uveřejněné pod č. 32/2015 ve Sbírce soudních rozhodnutí a stanovisek). Dovolatelem označené usnesení Nejvyššího soudu ze dne 24. 1. 2012, sp. zn. 20 Cdo 3845/2011, není v rozporu s výše specifikovanou konstantní judikaturou dovolacího soudu, neboť jednak skutkově vychází z odlišného způsobu exekuce, jednak v řešené otázce ustálenou rozhodovací praxi nepopírá (tj. dochází ke konformnímu závěru).
+Výrok o náhradě nákladů dovolacího řízení nemusí být odůvodněn (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 23. dubna 2015
+JUDr. Jitka Dýšková
+předsedkyně senátu
