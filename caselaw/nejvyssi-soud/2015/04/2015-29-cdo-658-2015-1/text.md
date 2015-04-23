@@ -1,0 +1,14 @@
+29 Cdo 658/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Filipa Cilečka a soudců JUDr. Marka Doležala a JUDr. Petra Šuka v právní věci navrhovatelů a) Ing. R. P., a b) Z. H., za účasti NAVELIKO a. s., se sídlem v Plzni, Ledecká 12, PSČ 323 00, identifikační číslo osoby 46882693, zastoupené JUDr. Milanem Kittelem, advokátem, se sídlem v Plzni, 28. října 861/29, PSČ 301 00, o vyslovení neplatnosti usnesení valné hromady, vedené u Krajského soudu v Plzni pod sp. zn. 45 Cm 109/2005, o dovolání navrhovatele a) proti usnesení Vrchního soudu v Praze ze dne 13. února 2014, č. j. 14 Cmo 418/2013-256, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+V záhlaví označeným usnesením Vrchní soud v Praze k odvolání navrhovatele a) potvrdil usnesení ze dne 7. června 2013, č. j. 45 Cm 109/2005-238, kterým Krajský soud v Plzni přerušil řízení do pravomocného skončení věci vedené u téhož soudu pod sp. zn. 46 Cm 68/2002.
+Proti usnesení odvolacího soudu podal navrhovatel a) dovolání, jež Nejvyšší soud odmítl podle § 243c odst. 1 a 2 zákona č. 99/1963 Sb., občanského soudního řádu (dále též jen „o. s. ř.“). Učinil tak proto, že dovolání nesměřuje proti žádnému z usnesení vypočtených v § 238a o. s. ř. a není přípustné ani podle § 237 o. s. ř.
+Závěr odvolacího soudu, podle něhož soud prvního stupně mohl rozhodnout o přerušení řízení podle § 109 odst. 2 písm. c) o. s. ř., neboť v řízení vedeném pod sp. zn. 46 Cm 68/2002 budou řešeny otázky rozhodné pro posouzení aktivní věcné legitimace navrhovatele a) v projednávané věci, je v souladu s ustálenou judikaturou (k otázce věcné legitimace obecně srov. rozsudek Vrchního soudu v Praze ze dne 20. listopadu 1995, sp. zn. 7 Cdo 154/93, uveřejněný v časopise Právní rozhledy číslo 5, ročník 1996, s. 225; k okruhu osob legitimovaných k podání návrhu na přezkum platnosti usnesení valné hromady srov. usnesení Nejvyššího soudu ze dne 17. prosince 2013, sp. zn. 29 Cdo 1888/2012, uveřejněné v časopise Soudní Judikatura číslo 3, ročník 2015, pod číslem 29, jež je dále veřejnosti dostupné – stejně jako ostatní rozhodnutí Nejvyššího soudu přijatá po 1. lednu 2001 – na webových stránkách Nejvyššího soudu).
+Jen pro úplnost Nejvyšší soud připomíná, že dovolací soud může úvahu odvolacího soudu o přerušení řízení přezkoumat pouze v případě její zjevné nepřiměřenosti (viz shodně usnesení Nejvyššího soudu ze dne 13. srpna 2014, sp. zn. 22 Cdo 572/2014, a usnesení Nejvyššího soudu ze dne 24. února 2015, sp. zn. 22 Cdo 1868/2014).
+Rozhodné znění občanského soudního řádu pro dovolací řízení (do 31. prosince 2013) se podává z článku II. bodu 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 23. dubna 2015
+JUDr. Filip C i l e č e k
+předseda senátu
