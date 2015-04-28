@@ -1,0 +1,14 @@
+25 Cdo 2562/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marty Škárové a soudců JUDr. Petra Vojtka a JUDr. Roberta Waltra v právní věci žalobce S. Č., proti žalovanému R. Š., zastoupenému JUDr. Vladimírem Krčmou, advokátem se sídlem v Hradci Králové, Střelecká 437, o 595.962,- Kč s příslušenstvím, vedené u Okresního soudu v Hradci Králové pod sp. zn. 10 C 30/2005, o dovolání žalovaného proti usnesení Krajského soudu v Hradci Králové ze dne 31. prosince 2013, č. j. 25 Co 557/2013-419, takto:
+Dovolání se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalovaného proti usnesení Krajského soudu v Hradci Králové ze dne 31. prosince 2013, č. j. 25 Co 557/2013-419, jímž byl zrušen rozsudek Okresního soudu v Hradci Králové ze dne 4. června 2013, č. j. 10 C 30/2005-384, a věc byla vrácena Okresnímu soudu v Hradci Králové k dalšímu řízení, není přípustné podle ustanovení § 237 o. s. ř., neboť nejsou splněny podmínky přípustnosti v tomto ustanovení uvedené.
+Napadené zrušující rozhodnutí odvolacího soudu spočívá na dvou závěrech, a to že soud prvního stupně se nezabýval tvrzením žalobce, že žalovaný písemně uznal svůj dluh co do důvodu a výše, což by mělo význam z hlediska počátku a délky promlčecí doby, a dále na závěru, že se soud prvního stupně nezabýval otázkou, zda vznesená námitka promlčení není v rozporu s dobrými mravy ve smyslu § 3 odst. 1 obč. zák. (zák. č. 40/1964 Sb. ve znění pozdějších předpisů). Rozsudek soudu prvního stupně byl proto zrušen, neboť nebyly důvody pro jeho potvrzení ani pro změnu.
+Pokud dovolatel namítá, že odvolací soud se odchýlil od ustálené rozhodovací praxe dovolacího soudu, že jeho právní posouzení listiny ze 6. 5. 2005 podle § 558 obč. zák. je nesprávné a v rozporu s judikaturou dovolacího soudu a že vznesená námitka promlčení není v rozporu s dobrými mravy ve smyslu § 3 odst. 1 obč. zák., neboť nejsou splněny předpoklady k takovému závěru, nelze mu přisvědčit. Obě uvedené okolnosti (jak uznání dluhu, tak rozpor s dobrými mravy - § 110 odst. 2, § 3 odst. 1 obč. zák.) jsou po právní stránce významné pro rozhodnutí o uplatněném nároku, odvolací soud v tomto směru žádné rozhodující právní ani skutkové závěry neučinil a naopak soudu prvního stupně uložil se jimi zabývat. Odvolací soud se tedy ve svém rozhodnutí neodchýlil od judikatury dovolacího soudu a nejde ani o řešení právní otázky, která by v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má být dovolacím soudem vyřešena jinak (srov. § 237 o. s. ř.).
+Nejvyšší soud proto dovolání jako nepřípustné podle § 243c odst. 1 věty první o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení bude rozhodnuto v konečném rozhodnutí o věci.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 28. dubna 2015
+JUDr. Marta Škárová
+předsedkyně senátu
