@@ -1,0 +1,13 @@
+21 Cdo 5047/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a JUDr. Zdeňka Novotného v právní věci žalobce M. R., zastoupeného JUDr. Martinem Čonkou, advokátem se sídlem v Chebu, Komenského č. 2276/4, proti žalované Kalora a. s. se sídlem v Chebu, Baltazara Neumanna č. 1686/6, IČO 18233058, zastoupené JUDr. Františkem Grznárem, advokátem se sídlem v Horšovském Týnu, náměstí Republiky č. 108, o náhradu škody, za účasti České pojišťovny a.s., se sídlem v Praze 1, Spálená č. 75/16, IČO 45272956, jako vedlejšího účastníka na straně žalované, vedené u Okresního soudu v Chebu pod sp. zn. 15 C 129/2008, o dovolání žalobce proti rozsudku Krajského soudu v Plzni ze dne 23. července 2014, č. j. 12 Co 249/2014-406, takto:
+I. Dovolání žalobce se odmítá.
+II. Žalobce je povinen zaplatit žalované na náhradě nákladů dovolacího řízení 10.300,- Kč do tří dnů od právní moci tohoto usnesení k rukám JUDr. Františka Grznára, advokáta se sídlem v Horšovském Týnu, náměstí Republiky č. 108.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky dovolání žalobce proti rozsudku Krajského soudu v Plzni ze dne 23. 7. 2014, č. j. 12 Co 249/2014-406, podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl, neboť v něm byl uplatněn jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o. s. ř. (dovolatel zpochybňuje skutková zjištění, na nichž odvolací soud založil svůj závěr o tom, že žalobce neprokázal příčinnou souvislost mezi zraněním pravého kolene spočívající ve viklavosti a úrazem ze dne 21. 10. 2004, a že požadavek na navýšení bolestného byl žalobcem uplatněn až po uplynutí dvouleté subjektivní lhůty ode dne, kdy mohl být uplatněn poprvé, nesouhlasí s tím, ke kterým důkazům odvolací soud přihlížel a jak provedené důkazy hodnotil, předestírá vlastní skutkové závěry, na nichž pak buduje své vlastní a od odvolacího soudu odlišné právní posouzení věci), a v dovolacím řízení nelze pro tento nedostatek pokračovat.
+Dovolatel navíc opomíjí, že otázka příčinné souvislosti mezi pracovním úrazem (úrazovým dějem) a případně vzniklou škodou není otázkou právní, nýbrž otázkou skutkovou, jež nemůže být řešena obecně, ale pouze v konkrétních souvislostech (srov. například odůvodnění rozsudku Nejvyššího soudu České republiky ze dne 21. 2. 2002, sp. zn. 21 Cdo 300/2001, nebo stanovisko býv. Nejvyššího soudu ze dne 27. 1. 1975, Cpj 37/74, uveřejněné pod č. 11 ve Sbírce soudních rozhodnutí a stanovisek, ročník 1976, str. 35).
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 28. dubna 2015
+JUDr. Mojmír Putna
+předseda senátu
