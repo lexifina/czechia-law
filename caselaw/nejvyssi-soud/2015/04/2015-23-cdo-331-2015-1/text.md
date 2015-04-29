@@ -1,0 +1,21 @@
+23 Cdo 331/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Horáka, Ph.D. a soudců JUDr. Zdeňka Dese a JUDr. Kateřiny Hornochové ve věci žalobce R. K., zastoupeného JUDr. Heinzen Eflerem, advokátem, se sídlem v Žacléři, Boberská 442, proti žalované Generali Pojišťovna a.s., se sídlem v Praze 2, Bělehradská 132, identifikační číslo osoby 61859869, o zaplacení částky 480.000,- Kč, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 22 C 280/2011, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 27. května 2014, č. j. 35 Co 151/2014-163, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Obvodní soud pro Prahu 2 rozsudkem ze dne 8. ledna 2014, č. j. 22 C 280/2011-148, zamítl žalobu o zaplacení 480.000,- Kč (bod I. výroku) a rozhodl o náhradě nákladů řízení (bod II. výroku).
+K odvolání žalobce odvolací soud rozsudkem v záhlaví uvedeným rozsudek soudu prvního stupně potvrdil (první výrok) a rozhodl o náhradě nákladů odvolacího řízení (druhý výrok).
+Proti rozsudku odvolacího soudu podal žalobce dovolání s tím, že je považuje za přípustné dle ustanovení § 237 zákona č. 99/1963, občanský soudní řád, ve znění pozdějších předpisů (dále též jen „o. s. ř.“), uplatňuje dovolací důvod nesprávného právního posouzení věci.
+Žalovaná se k dovolání žalobce vyjádřila tak, že rozhodnutí soudů považuje za správná.
+Nejvyšší soud České republiky (dále jen „Nejvyšší soud“) jako soud dovolací (§ 10a o. s. ř.) přihlédl k čl. II bodu 7. zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, a dále čl. II bodu 2. zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, a vyšel tak ze znění tohoto procesního předpisu účinného od. 1. ledna 2014.
+Podle ustanovení § 236 odst. 1 o. s. ř. dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští
+Podle ustanovení § 237 o. s. ř. není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+Podle ustanovení § 241a odst. 2 o. s. ř. v dovolání musí být vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu se rozhodnutí napadá, vymezení důvodu dovolání, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) a čeho se dovolatel domáhá (dovolací návrh).
+Dovolatel neformuluje žádnou otázku hmotného nebo procesního práva, při jejímž řešení by se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně a nebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak. Nečiní tak ani polemikou o spotřebitelských smlouvách, kam řadí i pojistnou smlouvu uzavřenou mezi účastníky. Dovolatel přehlíží, že určujícím pro závěr odvolacího soudu bylo skutkové zjištění, které nelze v dovolacím řízení přezkoumávat, že k úrazu dovolatele došlo dne 6. května 2010, tedy v době, kdy dovolatel nebyl ještě pojištěn. Odvolacím soudem vyjádřený závěr pak není ani v rozporu se zákonným ustanovením § 60 odst. 2 zákona č. 37/2004 Sb., o pojistné smlouvě, podle kterého se úrazem pro účely tohoto zákona rozumí neočekávané a náhlé působení zevních sil nebo vlastní tělesné síly nezávisle na vůli pojištěného, ke kterému došlo během trvání soukromého pojištění a kterým bylo pojištěnému způsobeno poškození zdraví nebo smrt.
+Nejvyšší soud proto dovolání proti rozsudku odvolacího soudu podle ustanovení § 243c odst. 1 o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (srov. ustanovení § 243f odst. 3 větu druhou o. s. ř.).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 29. dubna 2015
+JUDr. Pavel Horák, Ph.D.
+předseda senátu
