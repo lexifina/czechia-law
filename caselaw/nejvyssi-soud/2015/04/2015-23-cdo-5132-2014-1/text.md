@@ -1,0 +1,23 @@
+23 Cdo 5132/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Horáka, Ph.D. a soudců JUDr. Zdeňka Dese a JUDr. Kateřiny Hornochové ve věci žalobce Ing. J. P., zastoupeného Mgr. Janou Koudelovou, advokátkou, se sídlem v Manětíně 89, proti žalované Základní organizace Odborového svazu ECHO SPOLANA a.s., se sídlem v Neratovicích, Práce 657, identifikační číslo osoby 18584195, zastoupené JUDr. Pavlem Alfery Hrdinou, advokátem, se sídlem v Praze 1, Václavské nám. 40, o návrhu žalobce na určení neúčinnosti doručení, vedené u Krajského soudu v Praze pod sp. zn. 46 Cm 221/2003, o dovolání žalobce proti usnesení Vrchního soudu v Praze ze dne 22. dubna 2014, č. j. 3 Cmo 469/2013-143, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Praze usnesením ze dne 29. října 2013, č. j. 46 Cm 221/2003-132, zamítl návrh žalobce na vyslovení neúčinnosti doručení usnesení Krajského soudu v Praze ze dne 21. září 2007, č. j. 46 Cm 221/2003-108.
+K odvolání žalobce odvolací soud usnesením v záhlaví uvedeným usnesení soudu prvního stupně potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Proti usnesení odvolacího soudu podal žalobce dovolání s tím, že je považuje za přípustné, uplatňuje dovolací důvod nesprávného právního posouzení věci.
+Nejvyšší soud České republiky (dále jen „Nejvyšší soud“) jako soud dovolací (§ 10a o. s. ř.) přihlédl k čl. II bodu 7. zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, a dále čl. II bodu 2. zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, a vyšel tak ze znění tohoto procesního předpisu účinného od. 1. ledna 2014.
+Podle ustanovení § 236 odst. 1 o. s. ř. dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští
+Přípustnost dovolání proti rozhodnutím odvolacího soudu, jimiž se odvolací řízení končí, upravuje § 237 a § 238 o. s. ř., náležitosti dovolání pak § 241a o. s. ř.
+Podle ustanovení § 241a odst. 2 o. s. ř. v dovolání musí být vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu se rozhodnutí napadá, vymezení důvodu dovolání, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) a čeho se dovolatel domáhá (dovolací návrh).
+Dle ustanovení § 237 o. s. ř. pak platí, že není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+Požadavek, aby dovolatel v dovolání uvedl, v čem spatřuje splnění předpokladů přípustnosti dovolání, je podle § 241a odst. 2 o. s. ř. obligatorní náležitostí dovolání. Může-li být dovolání přípustné jen podle § 237 o. s. ř. (jako v této věci), byl dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné, a blíže je specifikovat, přičemž k projednání dovolání nepostačuje pouhá citace textu ustanovení § 237 o. s. ř. či jeho části (pro podrobnosti viz např. usnesení Nejvyššího soudu ze dne 27. srpna 2013, sen. zn. 29 NSČR 55/2013, nebo ze dne 29. srpna 2013, sp. zn. 29 Cdo 2488/2013, jež jsou veřejnosti dostupná, stejně jako ostatní rozhodnutí Nejvyššího soudu přijatá po 1. lednu 2001, na webových stránkách Nejvyššího soudu).
+Uvedeným požadavkům na vymezení předpokladů přípustnosti dovolání dovolatel v dovolání (posouzeném z obsahového hlediska ve všech jeho částech) v projednávané věci nedostál, neboť v dovolání oproti obligatorním požadavkům stanoveným pro obsah dovolání v § 241a odst. 2 o. s. ř. nevymezil žádný z předpokladů přípustnosti dovolání uvedených v § 237 o. s. ř.
+Dovolací soud tedy uzavřel, že dovolání trpí vadou, jež brání pokračování v dovolacím řízení, neboť v důsledku absence uvedené náležitosti nelze posoudit přípustnost dovolání.
+Nejvyšší soud proto dovolání podle ustanovení § 243c odst. 1 o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (srov. ustanovení § 243f odst. 3 větu druhou o. s. ř.).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 29. dubna 2015
+JUDr. Pavel H o r á k, Ph.D.
+předseda senátu
