@@ -1,0 +1,15 @@
+33 Cdo 1395/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Václavem Dudou ve věci nejasného podání žalobce M. A., vedené u Obvodního soudu pro Prahu 7 pod sp. zn. 229 Nc 3808/2011, o dovolání proti usnesení Městského soudu v Praze ze dne 22. srpna 2012, č. j. 70 Co 364/2012-93, takto:
+I. Dovolací řízení se zastavuje.
+II. Žalobce nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalobce podal dovolání proti shora uvedenému usnesení Městského soudu v Praze, kterým bylo potvrzeno usnesení Obvodního soudu pro Prahu 7 (dále jen „soud prvního stupně“) ze dne 23. února 2012, č. j. 229 Nc 3808/201l-75, jímž bylo odmítnuto podání žalobce ze dne 7. listopadu 2011.
+Podle § 241 odst. 1 věty první zákona č. 99/1963 Sb., občanského soudního řádu ve znění účinném do 31. 12. 2012 (čl. II. bod 1. a 7. zákona č. 404/2012 Sb. a čl. II bod 2 zákona č. 293/2013 Sb. - dále jen „o. s. ř.“), není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Odstavec první citovaného ustanovení neplatí, je-li dovolatelem fyzická osoba, která má právnické vzdělání [§ 241 odst. 2 písm. a) o. s. ř.]. Podle odstavce 4 téhož ustanovení dovolání fyzické osoby musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem nebo notářem. Povinné zastoupení je tak zvláštní podmínkou dovolacího řízení týkající se dovolatele, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění není možno vydat rozhodnutí, jímž se řízení končí. Podle § 104 odst. 2 o. s. ř. jde-li o nedostatek podmínky řízení, který lze odstranit, učiní k tomu soud vhodná opatření. Nezdaří-li se nedostatek podmínky řízení odstranit, řízení zastaví.
+Žalobce, který nebyl při podání dovolání zastoupen advokátem (a z obsahu spisu nevyplývá, že by sám měl právnické vzdělání), soud prvního stupně vyzval usnesením ze dne 29. ledna 2013, č. j. 229 Nc 3808/2011-113, aby nedostatek povinného zastoupení ve lhůtě odstranil, současně jej poučil o následcích neuposlechnutí této výzvy. Usnesení obsahující tuto výzvu bylo žalovanému doručeno 19. 2. 2013; nedostatek povinného zastoupení žalobce dosud neodstranil. Jeho žádost o ustanovení zástupce pro dovolací řízení ze dne 5. 3. 2013 soud prvního stupně usnesením ze dne 10. května 2013, č. j. 229 Nc 3808/2011-130, zamítl; Městský soud v Praze usnesením ze dne 11. září 2013, č. j. 70 Co 378/2013-153, usnesení soudu prvního stupně potvrdil. Žalobce byl poté opětovně usnesením soudu prvního stupně ze dne 17. března 2014, č. j. 229 Nc 3808/2011-175, vyzván, aby do 15 dnů od jeho doručení prostřednictvím advokáta, jehož si pro zastoupení v dovolacím řízení zvolí, doplnil chybějící náležitosti dovolání. Toto usnesení bylo žalovanému doručeno dne 26. března 2014.
+Nejvyšší soud proto řízení o dovolání ve smyslu § 241b odst. 2 věta před středníkem a § 104 odst. 1, 2 o. s. ř. zastavil.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 30. dubna 2015
+JUDr. Václav Duda
+předseda senátu
