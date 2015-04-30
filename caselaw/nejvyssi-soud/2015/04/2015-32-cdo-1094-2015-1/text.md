@@ -1,0 +1,19 @@
+32 Cdo 1094/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Příhody a soudců JUDr. Hany Gajdziokové a JUDr. Miroslava Galluse ve věci žalobkyně D&I CONSULTING LIMITED, se sídlem 29 Juliana Close, Londýn N2 0TJ, Spojené království Velké Británie a Severního Irska, reg. č. 4867734, zastoupené Mgr. Petrem Budzińskim, advokátem, se sídlem v Praze 1, Letenská 121/8, PSČ 118 00, proti žalovaným 1) J. J. J., 2) A. J. T., 3) J. J., a 4) E. S., o zaplacení částky 6 794 Kč, vedené u Okresního soudu v Liberci pod sp. zn. 27 C 41/2006, o dovolání čtvrté žalované proti usnesení Krajského soudu v Ústí nad Labem - pobočky v Liberci ze dne 10. září 2014, č. j. 30 Co 144/2014-184, takto:
+I. Dovolání se odmítá.
+II. Žalobkyně a čtvrtá žalovaná nemají vzájemně právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Se zřetelem k době vydání napadeného rozhodnutí odvolacího soudu se uplatní pro dovolací řízení - v souladu s bodem 7. článku II, části první, přechodných ustanovení zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, a s bodem 2. článku II, části první, přechodných ustanovení zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony - občanský soudní řád ve znění účinném od 1. ledna 2013 do 31. prosince 2013 (dále též jen „o. s. ř.“).
+Okresní soud v Liberci rozsudkem pro zmeškání ze dne 11. prosince 2009, č. j. 27 C 41/2006-94, uložil původně žalovanému J. J. zaplatit žalobkyni částku 6 794 Kč a nahradit jí náklady řízení ve výši 14 025 Kč.
+Krajský soud v Ústí nad Labem – pobočka v Liberci v důsledku zpětvzetí žaloby (odůvodněného tím, že pohledávka byla 20. září 2011 uhrazena) shora označeným usnesením rozsudek soudu prvního stupně zrušil, řízení zastavil a žalovaným (dědicům zemřelého původně žalovaného) uložil povinnost zaplatit žalobkyni na náhradu nákladů řízení před soudy obou stupňů částku 13 035,75 Kč.
+Proti usnesení odvolacího soudu brojí čtvrtá žalovaná podáním označeným jako odvolání, které však podle svého obsahu (srov. § 41 odst. 2 o. s. ř.) nemůže být ničím jiným než dovoláním, když odvolání proti rozhodnutí odvolacího soudu podat nelze (srov. § 201 o. s. ř.).
+Dovolatelka neuvedla, v jakém rozsahu rozhodnutí odvolacího soudu napadá, podle uplatněné argumentace však lze usuzovat, že brojí pouze proti výroku o nákladech řízení; namítá totiž, že částku 6 794 Kč dne 20. září 2011 zaplatila, částka 14 025 Kč však mezi dluhy zůstavitele v dědickém řízení uváděna nebyla.
+Proti usnesení odvolacího soudu ve výroku o nákladech řízení však dovolání vzhledem k ustanovení § 238 odst. 1 písm. d) o. s. ř. přípustné není, neboť výše nákladů řízení, k jejichž úhradě byli žalovaní zavázáni, nepřevyšuje částku 50 000 Kč. Peněžité plnění přiznané výrokem o nákladech řízení přitom nelze pro účely posouzení přípustnosti dovolání považovat za plnění ze vztahu ze spotřebitelské smlouvy ve smyslu citovaného ustanovení, ani když je výrok o nákladech řízení akcesorickým výrokem v rozhodnutí, jež se ve věci samé takového vztahu týkalo (srov. závěry usnesení Nejvyššího soudu ze dne 30. května 2013, sp. zn. 29 Cdo 1172/2013, uveřejněného pod číslem 80/2013 Sbírky soudních rozhodnutí a stanovisek).
+Zabývat se za těchto okolností nedostatkem povinného zastoupení dovolatelky (§ 241 o. s. ř.) nebylo vzhledem k ustanovení § 241b odst. 2 o. s. ř. třeba.
+Nejvyšší soud proto dovolání jako nepřípustné podle ustanovení § 243c odst. 1 o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 30. dubna 2015
+JUDr. Pavel P ř í h o d a
+předseda senátu
