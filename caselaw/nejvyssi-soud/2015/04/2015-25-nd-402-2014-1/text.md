@@ -1,0 +1,15 @@
+25 Nd 402/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Vojtka a soudců JUDr. Marty Škárové a JUDr. Roberta Waltra v právní věci žalobce ORIFLAME Czech Republic spol. s r. o., se sídlem v Praze 10, V Olšinách 82/16, IČO 18627722, zastoupené Mgr. Jiřím Zrůstkem, advokátem se sídlem v Praze 4, Doudlebská 1699/5, proti žalované L. M. H., o 3.646,-Kč s příslušenstvím, vedené u Městského soudu v Brně pod sp. zn. 49 C 147/2014, o určení místní příslušnosti soudu podle § 11 odst. 3 o.s.ř., takto:
+Věc vedenou u Městského soudu v Brně pod sp. zn. 49 C 147/2014 projedná a rozhodne Okresní soud v Sokolově.
+Odůvodnění:
+U Městského soudu v Brně je pod sp. zn. 49 C 147/2014 vedeno řízení o zaplacení částky 3.646,- Kč s příslušenstvím. V průběhu řízení vyšlo najevo, že žalovaná, občanka České republiky, je jak na adrese uvedené v žalobě (M. L.), tak na evidované adrese trvalého pobytu (K.) „neznámá“, případně nemá označenu schránku. Adresa jiného možného pobytu žalované nebyla zjištěna, Městský soud v Brně proto usnesením ze dne 2. 9. 2014, č. j. 49 C 147/2014-28, vyslovil svoji místní nepříslušnost s tím, že věc bude předložena Nejvyššímu soudu k rozhodnutí podle § 11 odst. 3 o.s.ř.
+Nestanoví-li zákon jinak, je podle § 85 odst. 1 o.s.ř. obecným soudem fyzické osoby okresní soud, v jehož obvodu má bydliště, a nemá-li bydliště, okresní soud, v jehož obvodu se zdržuje.
+Podle § 86 odst. 1 o.s.ř. jestliže žalovaný, který je občanem České republiky, nemá obecný soud anebo nemá obecný soud v České republice, je příslušný soud, v jehož obvodu měl v České republice poslední známé bydliště.
+V dané věci nebyla příslušnost soudu určena podle § 87 o.s.ř. a na věc se neaplikuje ustanovení o výlučné místní příslušnosti § 88 (o.s.ř.).
+Podle § 11 odst. 3 o.s.ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Je-li Nejvyšší soud žádán o určení místně příslušného soudu podle § 11 odst. 3 o. s. ř. na základě pravomocného rozhodnutí, jímž soud prvního stupně vyslovil svou místní nepříslušnost a rozhodl o postoupení věci Nejvyššímu soudu za účelem určení místně příslušného soudu, Nejvyšší soud určí místně příslušný soud, aniž zkoumá (aniž je oprávněn zkoumat), zda je dána pravomoc českých soudů k projednání a rozhodnutí věci (srov. usnesení Nejvyššího soudu ze dne 12. listopadu 2014, sp. zn. 31 Nd 316/2013, uveřejněné pod č. 11/2015 Sbírky soudních rozhodnutí a stanovisek). Protože ze spisu nejsou zřejmé důvody pro to, aby byla věc vedená u Městského soudu v Brně, u kterého byla podána žaloba, a vzhledem ke skutečnosti, že tomuto soudu se nepodařilo s určitostí zjistit aktuální bydliště žalované, ani obvod ve kterém se zdržuje, určil Nejvyšší soud místní příslušnost na základě evidovaného trvalého bydliště žalované. Místně příslušným soudem pro řízení ve věci sp. zn. 49 C 147/2014 proto podle § 11 odst. 3 o.s.ř. určil Okresní soud v Sokolově.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 30. dubna 2015
+JUDr. Petr Vojtek
+předseda senátu
