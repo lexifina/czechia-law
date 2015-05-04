@@ -1,0 +1,11 @@
+26 Cdo 1560/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Zbyňkem Polednou v exekuční věci oprávněného AKCENTA, spořitelního a úvěrního družstva se sídlem v Hradci Králové, Gočárova třída č. 312/52, identifikační číslo osoby 64946851, zastoupeného Mgr. Markem Ambrožem, advokátem se sídlem v Praze 2, Fügnerovo náměstí č. 1808/3, proti povinným 1) A. T., a 2) P. T., zastoupeným JUDr. Michalem Pacovským, advokátem se sídlem v Praze 2, Čelakovského sady č. 433/10, pro 22.919.681,81 Kč s příslušenstvím, vedené u Okresního soudu Praha – východ pod sp. zn. 29 EXE 399/2013, o dovolání povinných proti usnesení Krajského soudu v Praze ze dne 2. září 2014, č. j. 17 Co 227/2014-141, takto:
+Dovolání se odmítá.
+S t r u č n é o d ů v o d n ě n í (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky dovolání povinných proti usnesení Krajského soudu v Praze ze dne 2. září 2014, č. j. 17 Co 227/2014-141, podle ustanovení § 243c odst. 1 věty první zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, odmítl, neboť dovolání nesplňuje obligatorní náležitosti dovolání uvedené v ustanovení § 241a odst. 2 o. s. ř., když především neobsahuje údaj o tom, v čem přesně dovolatelé spatřují splnění předpokladů přípustnosti dovolání. V dovolání jsou navíc uplatněny jiné dovolací důvody než ten, který je uveden v ustanovení § 241a odst. 1 o. s. ř. (podstatou námitek dovolatelů je jejich nesouhlas se skutkovými závěry odvolacího soudu, že oprávněný nepostupoval v rozporu se smlouvou o úvěru a notářským zápisem, pokud využil svého oprávnění k zajištění prostředků na účtu povinného 1) pro zaplacení pohledávek). V dovolacím řízení proto nelze pokračovat.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 4. května 2015
+JUDr. Zbyněk Poledna
+předseda senátu
