@@ -1,0 +1,16 @@
+25 Cdo 411/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Robertem Waltrem v právní věci žalobců a) J. V., zemřelého dne 25. 11. 2014 , a b) L. Š., proti žalovanému Mgr. I. T., zastoupenému JUDr. Ondřejem Michnou, advokátem se sídlem Nový Jičín, Myslbekova 1722/11, o náhradu škody, vedené u Krajského soudu v Ostravě pod sp. zn. 23 C 87/2011, o dovolání žalobkyně b) proti usnesení Vrchního soudu v Olomouci ze dne 21. 10. 2014, č.j. 1 Co 242/2014-697, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Žalobkyně b) podala dovolání proti usnesení Vrchního soudu v Olomouci ze dne 21. 10. 2014, č.j. 1 Co 242/2014-697, kterým bylo potvrzeno usnesení Krajského soudu v Ostravě ze dne 18. 8. 2014, č.j. 23 C 87/2011-640, jímž nebylo žalobcům přiznáno osvobození od soudních poplatků pro řízení o dovolání, jímž žalobci napadli usnesení Vrchního soudu v Olomouci ze dne 14. 11. 2013, č.j. 1 Co 390/2013-580.
+Rozhodné znění občanského soudního řádu pro dovolací řízení se podává z čl. II bodu 7 zákona č. 404/2012 Sb. a čl. II bodu 2 zákona č. 293/2013 Sb. Nejvyšší soud tedy o dovolání rozhodl podle ustanovení občanského soudního řádu ve znění účinném od 1. 1. 2013 do 31. 12. 2013 (dále jen „o. s. ř.“).
+Dovolání účastníka proti usnesení, jímž odvolací soud nevyhověl (ve spojení s usnesením soudu prvního stupně) žádosti účastníka o osvobození od soudních poplatků nepodléhá poplatkové povinnosti (srov. usnesení Nejvyššího soudu ze dne 16. 4. 2014, sp. zn. 29 Cdo 1031/2014, uveřejněné pod č. 73/2014 Sbírky soudních rozhodnutí a stanovisek), proto okolnost, že dovolatelka nezaplatila soudní poplatek za uvedené dovolání, nebrání v pokračování tohoto řízení.
+Jelikož žalobkyně nebyla pro dovolací řízení zastoupena advokátem, jak vyžaduje ustanovení § 241 o. s. ř. pro případ, že sama nemá právnické vzdělání (což se ze spisu nepodává), byla vyzvána (usnesením ze dne 6. 1. 2015, č.j. 23 C 87/2011-721, které jí bylo doručeno 8. 1. 2015) k odstranění uvedeného nedostatku ve lhůtě 10 dnů od doručení usnesení a byla poučena, že má-li za to, že splňuje podmínky pro osvobození od soudních poplatků, může požádat o ustanovení zástupce z řad advokátů na náklady státu. Žalobkyně však ani následně vytčený nedostatek neodstranila a sdělila soudu podáním ze dne 14. 1. 2015, že si nemůže dovolit platit služby advokáta; o ustanovení zástupce z řad advokátů nepožádala.
+Jelikož dovolací řízení trpí nedostatkem podmínky řízení, který se nepodařilo odstranit a který brání v pokračování řízení, Nejvyšší soud dovolací řízení zastavil (§ 243c odst. 3, § 241b odst. 2 a § 104 odst. 2 věta třetí o. s. ř.). Pro úplnost lze dodat, že Ústavní soud již v usnesení ve věci sp. zn. Pl. ÚS 43/2000 ze dne 14. 9. 2000 a v celé řadě dalších rozhodnutí dospěl k závěru, že institut povinného zastoupení advokátem v některých typech soudního řízení (včetně řízení o dovolání) není v rozporu s ústavním pořádkem České republiky.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 6. května 2015
+JUDr. Robert Waltr
+předseda senátu
