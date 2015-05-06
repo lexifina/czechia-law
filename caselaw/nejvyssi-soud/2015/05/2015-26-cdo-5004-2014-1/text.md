@@ -1,0 +1,13 @@
+26 Cdo 5004/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu JUDr. Pavlínou Brzobohatou v exekuční věci oprávněného J. Š., zastoupeného Mgr. Zdeňkem Machem, advokátem se sídlem v Přerově, Dr. Skaláka 10, proti povinným 1. J. H., 2. A. H., zastoupeným Mgr. Alešem Zapletalem, advokátem se sídlem v Hranicích, Masarykovo nám. 122, pro provedení prací a výkonů, vedené u Okresního soudu v Přerově pod sp. zn. 32 EXE 2519/2011, o dovolání povinných proti usnesení Krajského soudu v Ostravě – pobočky v Olomouci ze dne 30. května 2014, č. j. 40 Co 183/2014-99, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Povinní napadli dovoláním usnesení odvolacího soudu ze dne 30. 5. 2014, č. j. 40 Co 183/2014-99, kterým potvrdil usnesení Okresního soudu v Přerově ze dne 3. 12. 2013, č. j. 32 EXE 2519/2011-84, jímž zamítl návrh na zastavení exekuce.
+Dovolání povinných Nejvyšší soud odmítl podle § 243c odst. 1 (ve spojení s § 243f odst. 3) zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2013 (čl. II bod 2. zákona č. 293/2013 Sb.), dále jen „o. s. ř.”, neboť neobsahují údaj o tom, v čem dovolatelé spatřují splnění předpokladů přípustnosti dovolání (§ 237 - § 238a o. s. ř.), jenž je obligatorní náležitostí dovolání (srov. § 241a odst. 2 o. s. ř.), a v dovolacím řízení nelze pro tuto vadu pokračovat.
+Způsobilým vymezením přípustnosti dovolání není pouhá citace ustanovení § 237 o. s. ř., ani to, že „právní otázka vyřešená odvolacím soudem má být dovolacím soudem posouzena jinak“. Žádost, aby „vyřešená právní otázka v této věci byla dovolacím soudem posouzena jinak“, totiž významově neodpovídá (ve smyslu § 237 o. s. ř.) požadavku, aby dovolací soud posoudil právní otázku, na níž je rozhodnutí založeno, „jinak“ než odvolací soud (srovnej např. usnesení Nejvyššího soudu ze dne 29. 8. 2013, sp. zn. 29 Cdo 2488/2013 /ústavní stížnost proti tomuto usnesení byla odmítnuta usnesením Ústavního soudu ze dne 21. 1. 2014, sp. zn. I. ÚS 3524/2013/, ze dne 30. 5. 2013, sp. zn. 29 Cdo 1172/2013, uveřejněné pod číslem 80/2013 Sbírky soudních rozhodnutí a stanovisek). Z dovolání musí být zřejmé, od kterého svého řešení otázky hmotného nebo procesního práva se má (podle mínění dovolatele) dovolací soud odchýlit postupem podle § 20 zákona č. 6/2002 Sb., o soudech a soudcích.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., exekuční řád, ve znění pozdějších předpisů).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 6. května 2015
+JUDr. Pavlína Brzobohatá
+předsedkyně senátu
