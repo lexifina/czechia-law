@@ -1,0 +1,30 @@
+{
+  "record_type": "case-law",
+  "court": "Nejvyšší soud České republiky",
+  "date": "2015-05-07",
+  "date_basis": "Official NS database (Rozhodnutí a stanoviska Nejvyššího soudu): Datum rozhodnutí 7. 5. 2015 (decision date).",
+  "ecli": "ECLI:CZ:NS:2015:23.CDO.2929.2014.1",
+  "docket": "23 Cdo 2929/2014",
+  "decision_type": "Usnesení",
+  "source": "https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/WebSearch/F9FB30B2C7FAAC5AC1257EC4003BFDC6?openDocument",
+  "source_sha256": "d43709dbdc6c3c6d8c3794160f4b7879af88d08a1858eade3cfcfbbf1f2f1d69",
+  "source_unid": "F9FB30B2C7FAAC5AC1257EC4003BFDC6",
+  "text_status": "as-published (pseudonymised by the court)",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "fields": {
+    "Právní věta": "Podle § 174a odst. 4 o. s. ř. nelze postupovat, jestliže předcházelo vydání elektronického platebního rozkazu zrušeného následně proto, že se jej nepodařilo doručit žalovanému.",
+    "Soud": "Nejvyšší soud",
+    "Datum rozhodnutí": "7. 5. 2015",
+    "Spisová značka": "23 Cdo 2929/2014",
+    "ECLI": "ECLI:CZ:NS:2015:23.CDO.2929.2014.1",
+    "Typ rozhodnutí": "USNESENÍ",
+    "Heslo": "Elektronický platební rozkaz\nVady podání",
+    "Dotčené předpisy": "§ 174a odst. 4 o. s. ř.\n§ 43 o. s. ř.",
+    "Kategorie rozhodnutí": "A",
+    "Zveřejněno na webu": "18. 9. 2015",
+    "Publikováno ve sbírce pod číslem": "15 / 2016",
+    "Anotace": "Žalobkyně se návrhem na vydání elektronického platebního rozkazu domáhala zaplacení částky, která se odvíjela od smlouvy o pojištění motorových vozidel, když žalovaný nehradil stanovené pojistné řádně a včas. Soud prvního stupně na její návrh vydal platební rozkaz, ten se však nepodařilo žalovanému doručit do vlastních rukou, a proto následně vydal zrušující usnesení. Následně soud prvního stupně odmítl vydání platebního rozkazu, neboť jej posoudil jako neúplný co do vylíčení rozhodných skutečností a neurčitý co do požadované částky.\nK odvolání žalobkyně se odvolací soud s tímto závěrem ztotožnil a rozhodnutí soudu prvního stupně potvrdil. Soudy obou stupňů argumentovaly absencí vylíčení zcela zásadních skutečností, když se nelze spokojit s jejich nahrazením označením důkazního prostředku či odkazem na ujednání ve smlouvě nebo obchodních podmínkách bez konkretizace příslušného ustanovení a shodly se na tom, že pokud by svou činností (analýzou předložených listin) v podstatě plnily (a nahrazovaly) procesní aktivitu žalobce, došlo by k narušení zásady rovnosti účastníků.\nProti potvrzujícímu usnesení odvolacího soudu podala žalobkyně dovolání, na jehož podkladě se Nejvyšší soud zabýval otázkou, zda lze aplikovat § 174a odst. 4 o. s. ř. i v případech, kdy elektronický platební rozkaz byl vydán a následně zrušen pro nemožnost doručení žalovanému."
+  }
+}
