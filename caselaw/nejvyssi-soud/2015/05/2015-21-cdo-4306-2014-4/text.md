@@ -1,0 +1,12 @@
+21 Cdo 4306/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Zbyňka Poledny a soudců JUDr. Mojmíra Putny a JUDr. Jiřího Doležílka v exekuční věci oprávněné ULMA Construcción CZ, s. r. o. se sídlem v Benátkách nad Jizerou, Průmyslová č. 1009, IČO 48584380, zastoupené Mgr. Pavlem Vernerem, advokátem se sídlem v Turnově, Palackého č. 211, proti povinné THT – Build, s. r. o. se sídlem v Brně, Svatopetrská č. 536/20, IČO 27711285, pro 72.286,24 Kč s příslušenstvím, vedené u soudního exekutora Mgr. Aleše Bursy, Exekutorský úřad Mladá Boleslav, pod sp. zn. 172 EX 631/2013, o dovolání oprávněné proti usnesení Krajského soudu v Brně ze dne 28. července 2014, sp. zn. 20 Co 14/2014, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání oprávněné proti usnesení Krajského soudu v Brně ze dne 28. 7. 2014, sp. zn. 20 Co 14/2014, jímž mimo jiné bylo potvrzeno usnesení soudního exekutora Mgr. Aleše Bursy, Exekutorský úřad Mladá Boleslav, ze dne 3. 12. 2013, č. j. 172 EX 631/2013-10, o zamítnutí exekučního návrhu oprávněné, není přípustné podle ustanovení § 237 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu (k otázce transparentnosti způsobu výběru rozhodce právnickou osobou, která není stálým rozhodčím soudem zřízeným na základě zákona, z okruhu osob, s nimiž právnická osoba dlouhodobě spolupracuje a jejichž činnost organizačně a administrativně zajišťuje, a k otázce přezkumu pravomoci rozhodce k vydání rozhodčího nálezu vydaného od 1. 4. 2012, kdy došlo ke změně zákona č. 216/1994 Sb., o rozhodčím řízení a o výkonu rozhodčích nálezů, zákonem č. 19/2012 Sb., srov. usnesení Nejvyššího soudu ze dne 28. 4. 2015, č. j. 26 Cdo 3662/2014-51) a není důvod, aby rozhodná právní otázka byla posouzena jinak. Nejvyšší soud České republiky proto dovolání oprávněné podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 14. května 2015
+JUDr. Zbyněk Poledna
+předseda senátu
