@@ -1,0 +1,16 @@
+30 Cdo 4982/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Simona a soudců Mgr. Víta Bičáka a JUDr. Františka Ištvánka v právní věci žalobce Ing. J. V., zastoupeného Mgr. Jaroslavem Červenkou, advokátem se sídlem v Hradci Králové, Chmelova 357, proti žalované České republice – Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 16, o zaplacení 48 297 009,50 Kč, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 10 C 37/2014, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 14. srpna 2014, č. j. 28 Co 280/2014-36, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Městský soud v Praze jako soud odvolací napadeným usnesením potvrdil usnesení Obvodního soudu pro Prahu 2 jako soudu prvního stupně ze dne 21. května 2014,
+č. j. 10 C 37/2014-30, kterým byla odmítnuta žaloba ze dne 6. září 2013, doplněná (k výzvě soudu) podáním ze dne 25. března 2013. Žaloba podle obou soudů ani po doplnění neobsahovala náležitosti řádného návrhu na zahájení řízení vyžadované v ustanoveních § 42 odst. 4 a § 79 odst. 1 a 2 občanského soudního řádu a byla neprojednatelná.
+Usnesení odvolacího soudu napadl žalobce včasným dovoláním, které však Nejvyšší soud odmítl podle ustanovení § 243c odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném od 1. ledna 2013 do 31. prosince 2013 (viz čl. II bod 7 zákona č. 404/2012 Sb. a čl. II bod 2 zákona č. 293/2013 Sb.), dále jen „o. s. ř.“.
+Žalobci lze dát za pravdu v tom, že soud po něm nemůže požadovat právní kvalifikaci jeho nároku, tedy určení, zda se jedná o nesprávný úřední postup, nebo nezákonné rozhodnutí (srov. usnesení Nejvyššího soudu ze dne 4. prosince 2007, sp. zn. 22 Cdo 4457/2007). Závěr odvolacího soudu, že žaloba není projednatelná, je však přesto v souladu s judikaturou soudu dovolacího, neboť žalobce přes výzvu soudu prvního stupně neodstranil rozpor mezi celkovou částkou uplatněnou v petitu žaloby a jednotlivými dílčími nároky (srov. usnesení Nejvyššího soudu ze dne 14. října 2004, sp. zn. 25 Cdo 2295/2003, proti němuž podanou ústavní stížnost Ústavní soud odmítl usnesením ze dne 28. července 2005, sp. zn. III. ÚS 692/04). Žalobce nadto v žalobě neuvedl ohledně každého jednotlivého uplatněného nároku peněžitou částku, kterou z titulu tohoto jednotlivého nároku požaduje zaplatit (srov. usnesení Nejvyššího soudu ze dne 30. září 2003, sp. zn. 25 Cdo 1310/2003, a ze dne 21. listopadu 2013, sp. zn. 30 Cdo 1834/2013), ačkoliv k tomu byl výše uvedeným usnesením soudu prvního stupně řádně vyzván. Uvedené nedostatky pro závěr o odmítnutí žaloby podle ustanovení § 43 odst. 2 o. s. ř. postačují, Nejvyšší soud se proto dalšími dovolacími námitkami žalobce nezabýval (srov. např. rozsudek Nejvyššího soudu ze dne 8. prosince 1997, sp. zn. 3 Cdon 1374/96, nebo rozsudek Nejvyššího soudu ze dne 24. 4. 2012, sp. zn. 23 Cdo 63/2012).
+Vzhledem k výše uvedenému není dovolání žalobce přípustné.
+Nákladový výrok netřeba odůvodňovat (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení nejsou přípustné opravné prostředky.
+V Brně dne 20. května 2015
+JUDr. Pavel Simon
+předseda senátu
