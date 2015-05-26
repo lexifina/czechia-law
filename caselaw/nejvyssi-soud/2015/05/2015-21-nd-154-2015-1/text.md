@@ -1,0 +1,17 @@
+21 Nd 154/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně senátu JUDr. Olgy Puškinové a soudců JUDr. Ljubomíra Drápala a JUDr. Mojmíra Putny v právní věci žalobkyně JUDr. J. V., za účasti OPZ PLUS, a. s. se sídlem v Praze 1, Hradební č. 3, IČO 45274835, o zápis vlastnického práva do katastru nemovitostí vkladem, vedené u Městského soudu v Praze pod sp. zn. 33 C 7/2011, o návrhu žalobkyně na vyloučení soudkyně Vrchního soudu v Praze JUDr. Milady Lukáčové, takto:
+Soudkyně Vrchního soudu v Praze JUDr. Milada Lukáčová není vyloučena z projednání a rozhodnutí věci vedené u tohoto soudu pod sp. zn. 4 Co 144/2014.
+Odůvodnění:
+Žalobkyně v podání ze dne 8. 4. 2015 vznesla námitku podjatosti soudkyně Vrchního soudu v Praze JUDr. Milady Lukáčové, kterou odůvodnila tím, že za nesprávný a v rozporu s judikaturou považuje přípis této soudkyně ze dne 8. 4. 2015, v němž žalobkyni sdělila, že její žádost o odročení jednání ze dne 7. 4. 2015 nepovažuje za včasnou.
+Nejvyšší soud České republiky jako soud nadřízený (§ 16 odst. 1 o. s. ř.) dospěl k závěru, že námitka podjatosti není důvodná.
+Účastníci mají právo vyjádřit se k osobám soudců a přísedících, kteří mají podle rozvrhu práce věc projednat a rozhodnout; soudci a přísedící jsou vyloučeni z projednávání a rozhodnutí věci, jestliže se zřetelem na jejich poměr k věci, k účastníkům nebo k jejich zástupcům je tu důvod pochybovat o jejich nepodjatosti; důvodem k vyloučení soudce nebo přísedícího nejsou okolnosti, které spočívají v postupu soudce nebo přísedícího v řízení o projednávané věci nebo v jeho rozhodování v jiných věcech (srov. § 15a odst. 1 větu první, § 14 odst. 1 a § 14 odst. 4 o. s. ř.).
+Podle ustanovení § 16 odst. 1 věty první o. s. ř. o tom, zda je soudce nebo přísedící vyloučen, rozhodne nadřízený soud v senátě.
+Podle rozvrhu práce Vrchního soudu v Praze - jak vyplývá z obsahu spisu - má věc vedenou u tohoto soudu pod sp. zn. 4 Co 144/2014 projednat a rozhodnout soudní oddělení (senát) 4 Co, jehož členy jsou JUDr. Milada Lukáčová, JUDr. Eva Keményová a JUDr. Jiří Švehla.
+Soudkyně Vrchního soudu v Praze JUDr. Milada Lukáčová k námitce podjatosti vznesené žalobkyní uvedla, že jí nejsou známy žádné skutečnosti, který by byly důvodem pochybností o její nepodjatosti, a že nemá žádný vztah k projednávané věci, k účastníkům nebo k jejich zástupcům.
+V posuzovaném případě nebyly zjištěny žádné okolnosti, z nichž by bylo možné dovodit, že je tu důvod pochybovat o nepodjatosti soudkyně Vrchního soudu v Praze JUDr. Milady Lukáčové. Tato soudkyně nemá k věci, k účastníkům ani k jejich zástupcům - jak vyplývá z jejího vyjádření - žádný z hlediska ustanovení § 14 odst. 1 o. s. ř. významný vztah, který by mohl představovat důvod k jejímu vyloučení z projednávání a rozhodnutí věci. Důvodem k vyloučení soudce nejsou ve smyslu ustanovení § 14 odst. 4 o. s. ř. okolnosti, které spočívají v postupu soudce v řízení o projednávané věci nebo v jeho rozhodování v jiných věcech.
+Nejvyšší soud České republiky proto rozhodl, že soudkyně Vrchního soudu v Praze JUDr. Milada Lukáčová není vyloučena z projednání a rozhodnutí věci vedené u tohoto soudu pod sp. zn. 4 Co 144/2014. Protože nebylo prováděno dokazování, bylo o námitce podjatosti uplatněné žalobkyní rozhodnuto bez nařízení jednání (§ 16 odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. května 2015
+JUDr. Olga Puškinová
+předsedkyně senátu
