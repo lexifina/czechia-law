@@ -1,0 +1,21 @@
+30 Cdo 5209/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Pavlem Pavlíkem, v právní věci žalobkyně Ing. T. V., zastoupené Mgr. Davidem Zahumenským, advokátem se sídlem v Brně, Burešova 6, proti žalované L. R., a sídlem v Brně, Bakalovo nábřeží 1, IČO 87192969, o nařízení předběžného opatření na ochranu osobnosti, vedené u Krajského soudu v Brně pod sp. zn. 25 C 3/2013, o dovolání žalobkyně proti usnesení Vrchního soudu v Olomouci ze dne 9. dubna 2013, č.j. 1 Co 114/2013-39, takto:
+I. Dovolání žalobkyně proti usnesení Vrchního soudu v Olomouci ze dne 9. dubna 2013, č.j. 1 Co 114/2013-39, se odmítá.
+II. Řízení o dovolání proti usnesení Krajského soudu v Brně ze dne 13. února 2013, č.j. 25 C 3/2013-24, se zastavuje.
+III. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění
+(§ 243f odst. 3 o.s.ř.):
+Vrchní soud v Olomouci k odvolání žalobkyně proti usnesení Krajského soudu v Brně ze dne 13. února 2013, č.j. 25 C 3/2013-24, kterým byl zamítnut návrh na vydání předběžného opatření, usnesením ze dne 9. dubna 2013, č.j. 1 Co 114/2013-39, výrokem I. zastavil odvolací řízení v souladu s ustanovením § 75c odst. 4 a § 77 odst. 1 písm. d) občanského soudního řádu (dále jen „o.s.ř.“), neboť v době rozhodování odvolacího soudu zanikly ze zákona podmínky, za nichž mělo navrhované předběžné opatření trvat. Výrokem II. pak rozhodl o náhradě nákladů odvolacího řízení.
+Rozhodnutí odvolacího soudu bylo doručeno žalobkyni dne 22. dubna 2013 a právní moci nabylo téhož dne.
+Proti rozhodnutí odvolacího soudu podala žalobkyně dne 31. července 2014 dovolání. Toto dovolání je opožděné.
+Nejvyšší soud jako soud dovolací (§ 10a o.s.ř.) přihlédl k čl. II bodu 2. zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, a vyšel tak ze znění tohoto procesního předpisu účinného od. 1. ledna 2014.
+Ustanovení § 240 o.s.ř. stanoví k možnému podání dovolání dvouměsíční lhůtu počítanou od doručení rozhodnutí odvolacího soudu.
+Z obsahu spisu vyplývá, že rozhodnutí odvolacího soudu bylo žalobkyni doručeno dne 22. dubna 2013. Proto jestliže toto rozhodnutí napadla žalobkyně dovoláním doručeným k soudu až dne 31. července 2014, stalo se tak opožděně, neboť zákonem stanovená lhůta v tomto případě uplynula v pondělí 24. června 2013. Nejvyššímu soudu České republiky jako soudu dovolacímu (§ 10a o.s.ř.) proto nezbylo, než toto dovolání z uvedeného důvodu odmítnout (§ 218a o.s.ř. ve spojení s § 243c odst. 3 věta první téhož zákona).
+Protože žalobkyně dovoláním současně výslovně napadá i usnesení soudu prvního stupně, je třeba uvést, že podle ustanovení § 236 o.s.ř. lze v zákonem stanovených případech napadnout dovoláním pouze pravomocné rozhodnutí odvolacího soudu, o němž rozhoduje Nejvyšší soud ČR jako soud dovolací (§ 10a o.s.ř.). Procesní předpis v tomto případě nepředpokládá, že by dovoláním bylo možno napadnout též rozhodnutí soudu prvního stupně. Není-li tak k možnému přezkoumání takového rozhodnutí vyhrazeno dovolání, občanský soudní řád proto ani neupravuje funkční příslušnost určitého soudu k projednání dovolání, je-li přesto proti takovému rozhodnutí podáno.
+Jestliže žalobkyně v označené věci přesto v rozporu se zákonnou úpravou výslovně napadla dovoláním též usnesení soudu prvního stupně, pominula tak uvedenou podmínku dovolacího řízení. Za tohoto stavu nedostatek funkční příslušnosti představuje neodstranitelný nedostatek podmínky řízení. Proto nezbylo, než řízení o takovém dovolání, které trpí touto vadou, podle ustanovení § 104 odst. 1 o.s.ř. zastavit. Ač – jak již bylo uvedeno – není procesním předpisem upravena funkční příslušnost k projednání dovolání proti rozhodnutí soudu prvního stupně, o zastavení tohoto „dovolacího“ řízení rozhoduje Nejvyšší soud ČR, neboť je vrcholným článkem soustavy obecných soudů, který je nadto nadán pravomocí k rozhodování o dovoláních proti rozhodnutím odvolacích soudů (obdobně srovnej usnesení Nejvyššího soudu ČR ze dne 31. května 2001, sp.zn. 20 Cdo 1535/99).
+U výroku o náhradě nákladů dovolacího řízení se odkazuje na ustanovení § 243f odst. 3 věta druhá o.s.ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 27. května 2015
+JUDr. Pavel Pavlík
+předseda senátu
