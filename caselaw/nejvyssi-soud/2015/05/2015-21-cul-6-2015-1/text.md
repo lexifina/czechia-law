@@ -1,0 +1,16 @@
+21 Cul 6/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně senátu JUDr. Olgy Puškinové a soudců JUDr. Ljubomíra Drápala a JUDr. Mojmíra Putny o návrhu V. K., zastoupené Mgr. Martinou Pekárkovou, advokátkou se sídlem v Horoměřicích, Nebušická č. 709, proti Nejvyššímu soudu České republiky, na určení lhůty k provedení procesního úkonu ve věci vedené pod sp. zn. 29 NSČR 13/2014, takto:
+I. Návrh navrhovatelky na určení lhůty Nejvyššímu soudu České republiky „ke stanovení dne ústního jednání ve věci samé“ se zamítá.
+II. Navrhovatelka nemá právo na náhradu nákladů řízení.
+Odůvodnění:
+Podáním ze dne 10. 5. 2015, doručeným Nejvyššímu soudu dne 11. 5. 2015, se navrhovatelka V. K. domáhala, aby Nejvyššímu soudu byla určena lhůta „ke stanovení dne ústního jednání ve věci samé“. Svůj návrh odůvodnila zejména tím, že dne 13. 1. 2014 podala dovolání proti usnesení Vrchního soudu v Olomouci ze dne 8. 8. 2013, č. j. 3 VSOL 500/2013-B-54, avšak „dosud nebyl dovolacím soudem stanoven den soudního jednání“.
+Podle ustanovení § 174a odst. 1 zákona č. 6/2002 Sb., o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích), ve znění pozdějších předpisů (dále jen „zákon o soudech a soudcích“), má-li účastník nebo ten, kdo je stranou řízení, za to, že v tomto řízení dochází k průtahům, může podat návrh soudu, aby určil lhůtu pro provedení procesního úkonu, u kterého podle jeho názoru dochází k průtahům v řízení (dále jen „návrh na určení lhůty“). Návrh na určení lhůty k provedení procesního úkonu není podmíněn podáním stížnosti dle § 164.
+Příslušný soud může stanovit lhůtu jen ve vztahu k takovým procesním úkonům, o jejichž provedení soud, vůči němuž návrh směřuje, již rozhodl (a je v prodlení s jejich provedením) nebo jejichž potřeba provedení - i když o nich dosud nebylo rozhodnuto - je podle obsahu spisu a s přihlédnutím k povaze věci nepochybná a které ve věci stejně musí být podle zákona učiněny (srov. např. usnesení Nejvyššího soudu ze dne 10. září 2012, sp. zn. 21 Cul 5/2012).
+V posuzovaném případě není návrh V. K., jímž se domáhá určení lhůty Nejvyššímu soudu „ke stanovení dne ústního jednání ve věci samé“, důvodný, neboť podle ustanovení § 243a odst. 1 věty druhé o. s. ř., ve znění účinném od 1. 1. 2013, k projednání dovolání nařídí dovolací soud jednání pouze, považuje-li to za potřebné, přičemž z obsahu spisu vedeného u Nejvyššího soudu pod sp. zn. 29 NSČR 13/2014 vyplývá, že o nařízení jednání dovolacím soudem dosud nebylo rozhodnuto.
+Protože soud je zásadně vázán žalobou (návrhem) - srov. ustanovení § 153 odst. 2 o. s. ř. a § 174a odst. 5 větu druhou zákona o soudech a soudcích, Nejvyšší soud České republiky návrh na určení lhůty podle ustanovení § 174a odst. 7 části věty za středníkem zákona o soudech a soudcích zamítl.
+O náhradě nákladů řízení bylo rozhodnuto podle ustanovení § 174a odst. 5 věty druhé zákona o soudech a soudcích a § 151 odst. 1 části věty před středníkem o. s. ř., neboť navrhovatelka nemá ve smyslu ustanovení § 174a odst. 8 věty druhé zákona o soudech a soudcích na náhradu nákladů řízení právo.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 27. května 2015
+JUDr. Olga Puškinová
+předsedkyně senátu
