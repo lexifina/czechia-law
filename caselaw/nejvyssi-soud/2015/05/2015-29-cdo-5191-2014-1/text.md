@@ -1,0 +1,15 @@
+29 Cdo 5191/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Petra Šuka a soudců JUDr. Filipa Cilečka a JUDr. Marka Doležala v právní věci navrhovatele Ing. K. K., zastoupeného JUDr. Janem Holubem, LL.M., advokátem, se sídlem v Kladně, Kleinerova 1504, PSČ 272 01, za účasti Ing. V. H., zastoupeného JUDr. Kateřinou Balcarovou, advokátkou, se sídlem v Kladně, T. G. Masaryka 108, PSČ 272 01, o zaplacení 15.000.000 Kč, vedené u Krajského soudu v Praze pod sp. zn. 45 Cm 45/2011, o dovolání navrhovatele proti usnesení Vrchního soudu v Praze ze dne 29. září 2014, č. j. 7 Cmo 210/2013-396, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í:
+Vrchní soud v Praze v záhlaví označeným usnesením odmítl odvolání účastníka (první výrok) a potvrdil usnesení soudu prvního stupně ze dne 6. března 2013, č. j. 45 Cm 45/2011-356, jímž Krajský soud v Praze odňal navrhovateli osvobození od soudních poplatků (dříve přiznané v plném rozsahu) v rozsahu 20% se zpětnou účinností (druhý výrok).
+Proti druhému výroku usnesení odvolacího soudu podal navrhovatel dovolání, jež Nejvyšší soud odmítl podle § 243c odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu (dále též jen „o. s. ř.“).
+Učinil tak proto, že dovolání nesměřuje proti žádnému z usnesení vypočtených v § 238a o. s. ř. a není přípustné ani podle § 237 o. s. ř. Odvolací soud totiž při posuzování předpokladů pro částečné odnětí již přiznaného osvobození od soudních poplatků postupoval v souladu s ustálenou judikaturou Nejvyššího soudu, podle níž soudy musí celkově zhodnotit všechny okolnosti, které vypovídají o poměrech účastníka řízení, a na jejich základě zvážit, zda je schopen zaplatit soudní poplatky a nést další výdaje spojené s řízením, včetně nákladů spojených s poskytnutím právní pomoci (se zastoupením); srov. zejména důvody usnesení Nejvyššího soudu ze dne 17. července 2013, sp. zn. 29 Cdo 1301/2013, uveřejněné pod číslem 99/2013 Sbírky soudních rozhodnutí a stanovisek, usnesení Nejvyššího soudu ze dne 16. dubna 2014, sp. zn. 29 Cdo 1031/2014, uveřejněné pod číslem 73/2014 Sbírky soudních rozhodnutí a stanovisek, či usnesení Nejvyššího soudu ze dne 28. května 2014, sp. zn. 26 Cdo 2341/2013.
+Dovolání je pouhou polemikou s úvahami odvolacího soudu (které Nejvyšší soud zjevně nepřiměřenými neshledal) a dovolatel jím žádnou otázku procesního práva, na jejímž řešení napadené rozhodnutí závisí a jež dosud nebyla Nejvyšším soudem řešena (nebo na kterou se vztahují další kriteria přípustnosti dovolání vymezená ustanovením § 237 o. s. ř.), k posouzení neotevírá.
+O náhradě nákladů dovolacího řízení rozhodne soud v rozhodnutí, jímž se řízení končí (§ 151 odst. 1 o. s. ř.).
+Rozhodné znění občanského soudního řádu pro dovolací řízení (do 31. prosince 2013) se podává z článku II. bodu 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 28. května 2015
+JUDr. Petr Š u k
+předseda senátu
