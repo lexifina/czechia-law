@@ -1,0 +1,18 @@
+29 Cdo 5114/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Petra Šuka a soudců JUDr. Filipa Cilečka a JUDr. Marka Doležala v právní věci navrhovatele Dr. S. P., M. B. A., Ph.D., zastoupeného JUDr. Františkem Vavrochem, advokátem, se sídlem v Českých Budějovicích, nám. Přemysla Otakara II. 123/36, PSČ 370 01, za účasti společnosti ENVI a. s., se sídlem v Třeboni, Dukelská 145, PSČ 379 01, identifikační číslo osoby 47217731, zastoupené JUDr. Milošem Tuháčkem, advokátem, se sídlem v Táboře, Převrátilská 330/15, PSČ 390 01, o vyslovení neplatnosti usnesení valné hromady a o zaplacení 1.000.000 Kč, vedené u Krajského soudu v Českých Budějovicích pod sp. zn. 13 Cm 1427/2010, o dovolání navrhovatele proti usnesení Vrchního soudu v Praze ze dne 26. dubna 2013, č. j. 7 Cmo 134/2012-148, takto:
+I. Dovolání se odmítá.
+II. Navrhovatel je povinen zaplatit společnosti ENVI a. s. na náhradě nákladů dovolacího řízení částku 18.997 Kč, do tří dnů od právní moci tohoto usnesení, k rukám jejího zástupce.
+Odůvodnění:
+Krajský soud v Českých Budějovicích usnesením ze dne 18. května 2011, č. j. 13 Cm 1427/2010-80, zamítl „žalobu“ na vyslovení neplatnosti usnesení valné hromady společnosti ENVI, s. r. o. (nyní ENVI a. s., dále též jen „společnost“), nepřiznal navrhovateli přiměřené zadostiučinění ve výši 1.000.000 Kč (výrok I.) a rozhodl o nákladech řízení (výrok II.).
+V záhlaví označeným usnesením Vrchní soud v Praze k odvolání navrhovatele potvrdil usnesení soudu prvního stupně (první výrok) a rozhodl o nákladech odvolacího řízení (druhý výrok).
+Proti usnesení odvolacího soudu podal navrhovatel dovolání, jež Nejvyšší soud odmítl podle § 243c odst. 1 a 2 zákona č. 99/1963 Sb., občanského soudního řádu (dále též jen „o. s. ř.“).
+Učinil tak proto, že dovolání nesměřuje proti žádnému z usnesení vypočtených v § 238a o. s. ř. a není přípustné ani podle § 237 o. s. ř., neboť právní posouzení věci odvolacím soudem je v souladu s ustálenou judikaturou Nejvyššího soudu, z níž plyne, že pokud společníci nehlasují, není zde projevu vůle – usnesení valné hromady – jehož platnost by mohla být přezkoumána postupem podle § 131 odst. 1 zákona č. 513/1991 Sb., obchodního zákoníku (dále jen „obch. zák“), přičemž jedním z předpokladů pro vznik práva společníka na přiměřené zadostiučinění podle § 131 odst. 4 obch. zák. je závěr soudu o rozporu usnesení valné hromady s právními předpisy, společenskou smlouvou, zakladatelskou listinou nebo stanovami, vyjádřený v rozhodnutí o vyslovení neplatnosti usnesení valné hromady či v rozhodnutí o zamítnutí návrhu na vyslovení neplatnosti usnesení valné hromady z důvodů uvedených v § 131 odst. 3 obch. zák. (srov. usnesení Nejvyššího soudu ze dne 27. listopadu 2014, sp. zn. 29 Cdo 548/2013, přijaté ve věci týchž účastníků, jakož i judikaturu v něm citovanou).
+Za této situace je pak bez významu posouzení aktivní věcné legitimace dovolatele k podání návrhu podle § 131 odst. 1 obch. zák. poté, kdy zanikla jeho účast ve společnosti (není-li zde usnesení valné hromady, které by mohlo být napadeno cestou § 131 odst. 1 obch. zák., nelze ani uvažovat o tom, kterým osobám svědčí aktivní věcná legitimace).
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Rozhodné znění občanského soudního řádu pro dovolací řízení (do 31. prosince 2013) se podává z článku II. bodu 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+Nesplní-li povinný, co mu ukládá vykonatelné rozhodnutí, může se oprávněná domáhat výkonu rozhodnutí.
+V Brně dne 28. května 2015
+JUDr. Petr Šuk
+předseda senátu
