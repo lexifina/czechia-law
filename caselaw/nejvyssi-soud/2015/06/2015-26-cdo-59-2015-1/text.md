@@ -1,0 +1,17 @@
+26 Cdo 59/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu Doc. JUDr. Věrou Koreckou, CSc., ve věci žalobkyně městské části Praha 1, se sídlem Praha 1, Vodičkova 18, IČO 00063410, zastoupené JUDr. Jiřím Linkem, advokátem se sídlem Praha 1, Vodičkova 791/39, proti žalovanému Mgr. P. R., zastoupenému JUDr. Petrem Kužvartem, advokátem se sídlem Praha 4, Za Zelenou liškou 967/2b, o vyklizení bytu, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 27 C 137/2008, o dovolání žalovaného proti rozsudku Městského soudu v Praze ze dne 13. března 2014, č. j. 58 Co 22/2014-105, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Žalovaný (zastoupen advokátem) podal včasné dovolání proti rozsudku ze dne 13. 3. 2014, č. j. 58 Co 22/2014-105, jímž Městský soud v Praze (odvolací soud) potvrdil rozsudek Obvodního soudu pro Prahu 1 (soudu prvního stupně) ze dne 16. 5. 2013, č. j. 27 C 137/2008-70, kterým byla žalovanému uložena povinnost vyklidit byt tam specifikovaný do 15 dnů od přidělení přístřeší a rozhodnuto o nákladech řízení; současně rozhodl o nákladech odvolacího řízení.
+Dovolání proti rozsudku odvolacího soudu Nejvyšší soud podle § 243c odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění před novelou provedenou zákonem č. 293/2013 Sb. (srov. článek II. bod 2 zákona č. 293/2013 Sb.) – dále jen „o. s. ř.“, odmítl, neboť neobsahuje údaj o tom, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 - § 238a o. s. ř.), což je obligatorní náležitostí dovolání (srov. § 241a odst. 2 o. s. ř.), bez jejíhož splnění nelze v dovolacím řízení pokračovat.
+Může-li být dovolání přípustné jen podle § 237 o. s. ř. (jako v této věci), je dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné, přičemž k projednání dovolání nepostačuje pouhá citace textu ustanovení § 237 o. s. ř. (viz např. usnesení Nejvyššího soudu ze dne 27. 8. 2013, sen. zn. 29 NSCR 55/2013). Z dovolání musí být také patrno, které otázky hmotného nebo procesního práva, na nichž napadené rozhodnutí závisí, nebyly v rozhodování dovolacího soudu dosud řešeny (má-li je dovolatel za dosud neřešené), případně, při jejichž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu a od které "ustálené rozhodovací praxe" se řešení této právní otázky odvolacím soudem odchyluje (srovnej usnesení Nejvyššího soudu ze dne 25. 9. 2013, sp. zn. 29 Cdo 2394/2013, publikované pod číslem 4/2014 Sbírky soudních rozhodnutí a stanovisek).
+Prakticky jedinou dovolací námitkou, že soud prvního stupně porušil jeho právo na spravedlivý proces (ve smyslu čl. 36 odst. 1 a čl. 38 odst. 2 Listiny základních práv a svobod) tím, že jednal a o věci rozhodl v jeho nepřítomnosti, uplatnil dovolatel zmatečnostní vadu (§ 229 odst. 3 o. s. ř.), k níž může dovolací soud přihlédnout jen v případě, je-li dovolání přípustné (242 odst. 3 věta druhá o. s. ř.); sama o sobě však přípustnost dovolání založit nemůže a je řešitelná pouze cestou žaloby pro zmatečnost.
+O návrhu na odklad vykonatelnosti napadeného rozhodnutí (§ 243 písm. a/ o. s. ř.),
+který neshledal důvodným, dovolací soud v souladu se svou ustálenou praxí nerozhodoval.
+Bylo-li dovolání odmítnuto, nemusí být rozhodnutí o náhradě nákladů dovolacího řízení odůvodněno (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 8. června 2015
+Doc. JUDr. Věra Korecká, CSc.
+předsedkyně senátu
