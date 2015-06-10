@@ -1,0 +1,18 @@
+26 Cdo 5125/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně Doc. JUDr. Věry Korecké, CSc., a soudců JUDr. Miroslava Feráka a JUDr. Jitky Dýškové ve věci žalobce hlavního města Prahy, se sídlem Praha 1, Mariánské náměstí 2, zastoupeného prof. JUDr. Janem Křížem, CSc., advokátem se sídlem Praha 1 – Staré Město, Dlouhá 741/13, proti žalované euroAWK s.r.o., se sídlem Praha 10 – Vršovice, Konopišťská 739/16, IČO 43965717, zastoupené JUDr. Ondřejem Rathouským, advokátem se sídlem Praha 1 – Staré Město, Ovocný trh 1096/8, o vyklizení nemovitostí, vedené u Obvodního soudu pro Prahu 9 pod sp. zn. 60 C 10/2010, o dovolání žalované proti rozsudku Městského soudu v Praze ze dne 3. června 2014, č. j. 30 Co 216/2014-371, takto:
+I. Dovolání se odmítá.
+II. Žalovaná je povinna zaplatit žalobci na náhradě nákladů dovolacího řízení částku 2.800,- Kč, k rukám prof. JUDr. Jana Kříže, CSc., advokáta se sídlem Praha 1, Dlouhá 13, do tří dnů od právní moci tohoto usnesení.
+O d ů v o d n ě n í:
+Městský soud v Praze (soud odvolací) rozsudkem ze dne 3. 6. 2014, č. j. 30 Co 216/2014-371, potvrdil rozsudek ze dne 21. 10. 2013, č. j. 60 C 10/2010-309, kterým Obvodní soud pro Prahu 9 (soud prvního stupně) vyhověl žalobě a uložil žalované povinnost odstranit ze zde specifikovaných pozemků žalobce všechna velkoplošná reklamní zařízení a stavby pro reklamu a rozhodl o nákladech řízení; dále odvolací soud rozhodl o nákladech odvolacího řízení.
+Proti rozsudku odvolacího soudu podala žalovaná (zastoupena advokátem) včasné dovolání, které není přípustné podle § 237 občanského soudního řádu, zákona č. 99/1963 Sb., ve znění účinném do 31. 12. 2013, dále jen „o. s. ř.“ (č. II bod 2. zákona č. 293/2013 Sb.), neboť odvolací soud posoudil všechny rozhodné právní otázky v souladu s ustálenou judikaturou dovolacího soudu a není důvod, aby tyto otázky byly posouzeny jinak; napadené rozhodnutí ani nespočívá na otázkách, které nebyly v soudní praxi dovolacího soudu řešeny.
+Žalobce ve vyjádření navrhl, aby dovolání bylo odmítnuto, resp. zamítnuto.
+Pokud jde o otázku posouzení platnosti nájemní smlouvy z hlediska určitosti vymezení předmětu nájmu, lze odkázat např. na rozsudek Nejvyššího soudu ze dne 21. 2. 2013, sp. zn. 26 Cdo 3244/2012 a na jeho usnesení ze dne 11. 6. 2013, sp. zn. 26 Cdo 2946/2012, jež se týkají typově obdobných věcí a byla jimi řešena otázka (ne)platnosti obdobné nájemní smlouvy. Ústavní stížnosti, jež byly proti označeným rozhodnutím podány, Ústavní soud odmítl usneseními ze dne 4. 7. 2013, sp. zn. III. ÚS 1594/2013, a ze dne 25. 7. 2013, sp. zn. III. ÚS 2121/2013.
+V souladu s rozhodovací praxí dovolacího soudu (srov. např. jeho rozsudek ze dne 12. 8. 2003, sp. zn. 21 Cdo 926/2002) je i závěr odvolacího soudu, že výkon práva žalobce, realizovaný žalobou podanou v souzené věci, není v rozporu s dobrými mravy Při aplikaci ustanovení § 3 odst. 1 občanského zákoníku, zákona č. 40/1964 Sb., ve znění do 31. 12. 2013 (§ 243f odst. 1 o. s. ř.) přihlédl ke všem zjištěným skutečnostem, a to jak na straně dovolatelky, tak i na straně žalobce a jeho úvaha není zjevně nepřiměřená.
+Prostřednictvím námitek, jimiž je zpochybňována správnost skutkových zjištění (o obsahu vůle účastníků a jejího výkladu), resp. uplatňovány vady řízení, dovolatelka navíc uplatnila jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o. s. ř.
+O návrhu na odklad vykonatelnosti, který neshledal důvodným, dovolací soud v souladu se svou stálenou praxí nerozhodoval.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto rozhodnutí není opravný prostředek přípustný.
+V Brně dne 10. června 2015
+Doc. JUDr. Věra Korecká, CSc.
+předsedkyně senátu
