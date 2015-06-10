@@ -1,0 +1,22 @@
+30 Cdo 9/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Pavlem Simonem v právní věci žalobce Ing. L. M., zastoupeného Mgr. Lucií Brusovou, advokátkou se sídlem v Ostravě, Masná 8, proti žalované České republice – Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 424/16, o zaplacení částky 299.751 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 19 C 294/2011, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 16. května 2014, č. j. 55 Co 155/2014-80, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Praze jako soud odvolací napadeným usnesením potvrdil usnesení Obvodního soudu pro Prahu 2 jako soudu prvního stupně ze dne 30. ledna 2014, č. j. 19 C 294/2011-67, kterým byla odmítnuta žaloba ze dne 3. listopadu 2011.
+Usnesení odvolacího soudu napadl žalobce v plném rozsahu dovoláním, které však Nejvyšší soud podle § 243c odst. 1 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. ledna 2013 do 31. prosince 2013 (viz čl. II bod 7 zákona č. 404/2012 Sb. a čl. II bod 2 zákona č. 293/2013 Sb.), dále jen „o. s. ř.“, odmítl.
+Žalobce nebyl při podání dovolání zastoupen advokátem (§ 241 o. s. ř.). Soud prvního stupně žalobce usnesením vyzval, aby si pro podání dovolání zvolil zástupcem advokáta a aby jeho prostřednictvím podal řádné dovolání (č. l. 93). V plné moci ze dne 14. srpna 2014 (č. l. 95) zvolená advokátka žalobce uvedla, že se s podaným dovoláním ztotožňuje.
+Podle ustanovení § 241 o. s. ř. odst. 1 musí být dovolatel (až na výjimky uvedené v § 241 o. s. ř.) zastoupen advokátem.
+Podle ustanovení § 241a odst. 5 o. s. ř. se nepřihlíží k obsahu podání, v němž dovolatel uvedl, v jakém rozsahu napadá rozhodnutí odvolacího soudu, nebo v němž vymezil důvody dovolání, aniž by byla splněna podmínka stanovená v § 241.
+Podle ustanovení § 241b odst. 3 věty první o. s. ř. dovolání, které neobsahuje údaje o tom, v jakém rozsahu se rozhodnutí odvolacího soudu napadá, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) nebo které neobsahuje vymezení důvodu dovolání, může být o tyto náležitosti doplněno jen po dobu trvání lhůty k dovolání.
+Důvodová zpráva k novele o. s. ř. (k zákonu č. 404/2012 Sb.) k § 241a odst. 5 o. s. ř. uvádí: „V ustanovení § 241 zůstává zachováno tzv. povinné (nucené) zastoupení dovolatele, a to včetně požadavku, že dovolání musí být sepsáno tímto povinným (nuceným) zástupcem. Promítnutí tohoto principu do náležitostí dovolání znamená, že relevantní mohou být jen údaje učiněné povinným (nuceným) zástupcem dovolatele a že tedy nelze přihlížet k tomu, co o náležitostech dovolání (co do rozsahu napadeného rozhodnutí a vymezení dovolacího důvodu) uvedl sám dovolatel.“
+Z ustanovení § 241a odst. 5 o. s. ř. vyplývá, že k dodatečnému splnění podmínky povinného zastoupení dovolatele musí advokát již učiněné podání dovolatele nahradit vlastním podáním, a to alespoň pokud jde o vymezení rozsahu, v jakém se rozhodnutí odvolacího soudu napadá, a vymezení dovolacího důvodu (obdobně Pavliš, T., Deduch, J.: Ohlédnutí po roce účinnosti nové právní úpravy civilního dovolání, Právní rozhledy 5/2014, s. 153). K podání učiněnému samotným účastníkem řízení Nejvyšší soud v uvedeném rozsahu nepřihlíží.
+Jak vyplývá z výše uvedeného, vzhledem ke změně právní úpravy není již použitelná judikatura, podle které ke splnění podmínky zastoupení advokátem postačuje, aby právní zástupce dovolatele sdělil soudu, že se s podáním zastoupeného účastníka (dovolatele) ztotožňuje (srov. např. usnesení Nejvyššího soudu ze dne 27. května 1999, sp. zn. 26 Cdo 1121/99).
+Posuzované dovolání proto nesplňuje podmínku stanovenou v § 241b odst. 3 věty první o. s. ř., když ve lhůtě pro podání dovolání nebylo doplněno o údaj, v jakém rozsahu se rozhodnutí odvolacího soudu napadá, a o vymezení dovolacího důvodu. K podání samotného dovolatele ze dne 17. září 2014 nelze vzhledem k ustanovení § 241a odst. 5 o. s. ř. přihlížet (přinejmenším v částech, v nichž vymezuje dovolací důvod a rozsah, v jakém napadá rozhodnutí odvolacího soudu).
+Nejvyšší soud proto dovolání odmítl, neboť trpí vadami, které nebyly v zákonem stanovené lhůtě odstraněny a pro něž nelze v dovolacím řízení pokračovat (§ 243c odst. 1 o. s. ř.).
+Nákladový výrok netřeba odůvodňovat (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení nejsou přípustné opravné prostředky.
+V Brně dne 10. června 2015
+JUDr. Pavel Simon
+předseda senátu
