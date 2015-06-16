@@ -1,0 +1,14 @@
+21 Cdo 595/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a JUDr. Zdeňka Novotného v právní věci žalobce P. K., zastoupeného JUDr. Vladimírem Špačkem, advokátem se sídlem v Náchodě, Tyršova č. 64, proti žalovanému P-transport s. r. o. se sídlem v Broumově, Velká Ves, Dvořákova č. 339, IČO 25947249, zastoupenému JUDr. Janem Malým, advokátem se sídlem v Praze 8, Sokolovská č. 5/49, o určení neplatnosti výpovědi z pracovního poměru, vedené u Okresního soudu v Náchodě pod sp. zn. 8 C 64/2014, o dovolání žalobce proti rozsudku Krajského soudu v Hradci Králové ze dne 25. září 2014, č. j. 25 Co 291/2014-85, takto:
+I. Dovolání žalobce se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalobce proti rozsudku Krajského soudu v Hradci Králové ze dne 25. 9. 2014, č. j. 25 Co 291/2014-85, není přípustné podle ustanovení § 237 o. s. ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu [k otázce předpokladů pro podání výpovědi z pracovního poměru podle ustanovení § 52 písm. c) zákoníku práce, k formě rozhodnutí o organizační změně a k otázce příčinné souvislosti mezi rozhodnutím o organizační změně a nadbytečností zaměstnance srov. rozsudek Nejvyššího soudu ze dne 22. 2. 1968, sp. zn. 6 Cz 215/67, který byl uveřejněn pod č. 57 ve Sbírce soudních rozhodnutí a stanovisek, roč. 1968, rozsudek Nejvyššího soudu ze dne 25. 9. 1998, sp. zn. 2 Cdon 1130/97, který byl uveřejněn v č. 11 časopisu Soudní rozhledy, roč. 1999, na str. 374, rozsudek Nejvyššího soudu ze dne 27. 4. 2004, sp. zn. 21 Cdo 2204/2003, který byl uveřejněn pod č. 54 ve Sbírce soudních rozhodnutí a stanovisek, roč. 2005, rozsudek Nejvyššího soudu ze dne 12. 6. 2012, sp. zn. 21 Cdo 1506/2011 nebo rozsudek Nejvyššího soudu ze dne 15. 8. 2012, sp. zn. 21 Cdo 2536/2011 a usnesení Nejvyššího soudu ze dne 22. 5. 2012, sp. zn. 21 Cdo 2358/2011] a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+V části, v níž dovolatel uplatnil jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o. s. ř. (zpochybňuje-li skutková zjištění, která byla pro právní posouzení věci odvolacím soudem rozhodující, nesouhlasí-li s tím, ke kterým důkazům odvolací soud přihlížel a jak tyto důkazy hodnotil, a předestírá-li opačné skutkové závěry, na nichž buduje své vlastní a od odvolacího soudu odlišné právní posouzení věci) dovolání trpí nedostatkem, pro který nelze v dovolacím řízení pokračovat.
+Nejvyšší soud České republiky proto dovolání žalobce podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 16. června 2015
+JUDr. Mojmír P u t n a
+předseda senátu
