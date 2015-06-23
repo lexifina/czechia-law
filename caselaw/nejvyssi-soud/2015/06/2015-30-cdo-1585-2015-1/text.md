@@ -1,0 +1,19 @@
+30 Cdo 1585/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Pavlem Vrchou v právní věci žalobkyně H. B., zastoupené Mgr. Markétou Rájeckou, advokátkou se sídlem ve Frýdku-Místku, Zámecké náměstí 42, proti žalovaným 1) Státnímu pozemkovému úřadu, se sídlem v Praze 3, Husinecká 1024/11a, 2) B. S., a 3) J. S., oběma zastoupeným JUDr. Luďkem Zakopalem, advokátem se sídlem v Bruntále, Krnovská 1397/47, o neplatnost smluv, vedené u Okresního soudu v Opavě pod sp. zn. 17 C 5/2009, o dovolání žalobkyně proti rozsudku Krajského soudu v Ostravě ze dne 5. června 2014, č. j. 57 Co 973/2013-239, takto:
+I. Dovolání žalobkyně se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í
+(§ 243f odst. 3 o. s. ř.):
+Dovolání žalobkyně (dále též „dovolatelka“) proti v záhlaví uvedeného rozsudku Krajského soudu v Ostravě (dále již „odvolací soud“) trpí vadami, které nebyly ve lhůtě vymezené v § 241b odst. 3 o. s. ř. odstraněny a nelze pro ně v dovolacím řízení pokračovat.
+Dovolání neobsahuje obligatorní náležitost, a sice vymezení toho, v čem dovolatelka spatřuje splnění předpokladů přípustnosti dovolání (srov. § 241a odst. 2 o. s. ř.). Může-li být dovolání přípustné jen podle § 237 o. s. ř. (jako v této věci), je dovolatel povinen v dovolání vymezit, které z tam uvedených hlediska považuje za splněné.
+Jak se podává z obsahu podaného dovolání, dovolatelka prostřednictvím svého advokáta nevymezila žádné ze čtyř kritérií přípustnosti dovolání taxativně vymezených v § 237 o. s. ř.; neuvedla okolnosti, z nichž by bylo možné usuzovat, že by v souzené věci šlo (mělo jít) o případ (některý ze čtyř v úvahu přicházejících), v němž napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva: 1) při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo 2) která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo 3) která je dovolacím soudem rozhodována rozdílně anebo 4) má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+V daném případě dovolatelka v dovolání pouze namítá, že „Napadené rozhodnutí řeší dle názoru dovolatele právní otázku v rozporu s hmotným právem, přičemž tato otázka je dovolacím soudem rozhodována rozdílně.“ Dovolatelka však v dovolání již neoznačuje, která rozhodnutí dovolacího soudu a jakou právní otázku rozhodují rozdílně.
+V další části svého dovolání dovolatelka vymezuje právní otázky, na níž podle jejího názoru spočívá rozhodnutí odvolacího soudu, polemizuje s právním názorem odvolacího soudu, poukazuje na závěry v odborné literatuře a cituje rozhodnutí Ústavního soudu ve věcech sp. zn. I. ÚS 2166/10, sp. zn. IV. ÚS 358/98, nebo sp. zn. II. ÚS 252/04; ani z této části dovolání však nevyplývá právně relevantní vymezení předpokladu přípustnosti dovolání ve smyslu § 237 o. s. ř. (k tomu srov. např. usnesení Nejvyššího soudu ze dne 25. března 2015, sp. zn. 30 Cdo 1111/2015, které je veřejnosti přístupné na webových stránkách Nejvyššího soudu http://www.nsoud.cz).
+Rovněž z odkazu dovolatelky na rozhodnutí Nejvyššího soudu sp. zn. 28 Cdo 703/2014, nelze vyvodit zákonem požadované vymezení předpokladu přípustnosti dovolání ve smyslu § 237 o. s. ř.
+Z uvedených důvodů Nejvyšší soud dovolání žalobkyně odmítl (§ 243c odst. 1, věta první, § 243f odst. 2 o. s. ř.).
+I když v případě odmítnutí odvolání (jako je tomu v tomto případě) nemusí být rozhodnutí o náhradě nákladů dovolacího řízení odůvodněno (srov. § 243f odst. 3 o. s. ř.), přesto dovolací soud stručně poznamenává, že stručné vyjádření žalovaných 2) a 3) k podanému dovolání (v němž uvedení žalovaní se ztotožňují s právním posouzením věci odvolacím soudem a navrhují, aby Nejvyšší soud podané dovolání zamítl) nebylo možné považovat za účelně vynaložený výdaj jejich advokáta.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 23. června 2015
+JUDr. Pavel Vrcha
+předseda senátu
