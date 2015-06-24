@@ -1,0 +1,17 @@
+11 Tcu 41/2015-20
+U S N E S E N Í
+Nejvyšší soud projednal dne 24. června 2015 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na přijetí rozhodnutí ve věci občanky České republiky, obv. J. V., podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl takto:
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení J. V., rozsudkem Zemského soudu pro trestní věci Vídeň ze dne 23. 7. 2009, sp. zn. 51S Hv 86/09b, který nabyl právní moci dne 23. 7. 2009, kterým byla uznána vinnou ze spáchání trestného činu krádeže, částečně nedokonané a částečně dokonané vloupáním za účelem obživy podle § 127, § 129 č. 1, § 130 2. věta, 2. případ, § 15 rakouského tr. zákoníku, za který jí byl uložen trest odnětí svobody v trvání 20 (dvaceti) měsíců, hledí jako na odsouzení soudem České republiky.
+Odůvodnění:
+Rozsudkem Zemského soudu pro trestní věci Vídeň ze dne 23. 7. 2009, sp. zn. 51S Hv 86/09b, který nabyl právní moci dne 23. 7. 2009, byla obv. J. V. uznána vinnou ze spáchání výše uvedeného trestného činu a následně odsouzena k trestu odnětí svobody v trvání 20 (dvaceti) měsíců.
+Podle skutkových zjištění Zemského soudu pro trestní věci Vídeň bylo zjištěno, že J. V. (částečně ve spolupachatelství s J. B. a dalším neznámým spolupachatelem) v úmyslu neoprávněně se obohatit a zajistit si opakováním krádeží vloupáním průběžný zdroj příjmů, ke škodě níže uvedených oprávněných:
+1. odcizila cizí movité věci, od konce února do 26. 5. 2009 ve vědomé a zamýšlené součinnosti s neznámým pachatelem v nejméně 10 případech nezjištěným oprávněným autorádia a navigační přístroje v blíže nezjištěné hodnotě,
+2. se pokusila odcizit cizí movité věci, a sice dne 26. 5. 2009 navigační přístroj v blíže nezjištěné hodnotě firmě R.
+Ministerstvo spravedlnosti České republiky podalo dopisem pod sp. zn. MSP-184/2010-MOT-T/11 ze dne 4. 6. 2015 Nejvyššímu soudu návrh na přijetí rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů. Tento návrh byl doručen Nejvyššímu soudu dne 8. 6. 2015.
+Podle § 4a odst. 3 tohoto zákona může Nejvyšší soud na návrh Ministerstva spravedlnosti ČR rozhodnout, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Nejvyšší soud věc přezkoumal a shledal, že odsouzená J. V. je občankou České republiky, byla odsouzena soudem jiného členského státu EU a odsouzení se týká skutku, který vykazuje znaky trestného činu i podle příslušných právních předpisů České republiky (trestný čin krádeže podle § 205 tr. zákoníku). Závažnost předmětné trestné činnosti spočívá zejména v tom, že odsouzená opakovaně (nejméně v deseti případech) v součinnosti s dalšími spolupachateli odcizila autorádia a autonavigace, jejíž celková hodnota nebyla blíže zjištěna. Nejvyšším soudem bylo ověřeno, že druh i výměra uloženého trestu odnětí svobody je ve shodě s českou právní úpravou.
+Z výše uvedeného vyplývá, že jsou splněny všechny podmínky pro to, aby se na výše uvedené odsouzení obv. J. V. hledělo jako na odsouzení soudem České republiky, a proto Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 24. června 2015
+JUDr. Stanislav Rizman
+předseda senátu
