@@ -1,0 +1,15 @@
+33 Cdo 2554/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Pavlem Krbkem ve věci žalobce Z. O., zastoupeného Mgr. Petrem Miketou, advokátem se sídlem v Ostravě, Jaklovecká 1249/18, proti žalované M. T., zastoupené JUDr. Martinem Schulhauserem, advokátem se sídlem v Karviné, Karola Śliwky 125/20, o zaplacení 127.000,- Kč s příslušenstvím, vedené u Okresního soudu v Karviné pod sp. zn. 20 EC 711/2011, o dovolání žalobce proti rozsudku Krajského soudu v Ostravě ze dne 23. 10. 2014, č.j. 57 Co 171/2014-128, takto:
+I. Dovolání se odmítá.
+II. Žalobce je povinen zaplatit žalované na náhradě nákladů dovolacího řízení 7.841,- Kč do tří dnů od právní moci usnesení k rukám JUDr. Martina Schulhausera, advokáta.
+O d ů v o d n ě n í :
+Dovolání žalobce proti výrokům II. a III. v záhlaví citovaného rozsudku Nejvyšší soud odmítl podle ustanovení § 243c odst. 1, věty první, zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013 (srov. čl. II bod 1, 7 zákona č. 404/2012 Sb., čl. II bod 2 zákona č. 293/2013 Sb., dále jen „o.s.ř.“), neboť trpí vadami, které nebyly ve lhůtě stanovené v § 241b odst. 3 o.s.ř., odstraněny a pro něž nelze v dovolacím řízení pokračovat.
+Dovolání neobsahuje vymezení toho, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (srov. § 241a odst. 2 o.s.ř.), ani vymezení dovolacího důvodu nesprávného právního posouzení věci (§ 241a odst. 1 o.s.ř.) způsobem uvedeným v ustanovení § 241a odst. 3 o.s.ř. Ustanovený zástupce dovolatele v dvouměsíční lhůtě plynoucí od právní moci rozhodnutí, kterým byl žalobci pro dovolací řízení ustanoven, dovolání o obligatorní náležitosti nedoplnil a k podání nezastoupeného dovolatele nelze přihlížet (srov. § 241a odst. 5 o.s.ř.). Ostatně i toto podání vykazuje vady. Uvedl-li žalobce k otázce přípustnosti dovolání, že „závisí na vyřešení otázky hmotného práva, která má být dovolacím soudem posouzena jinak než v případech, jak to učinil Okresní a Krajský soud“, nejde o způsobilé vymezení přípustnosti, neboť významově neodpovídá žádnému ze čtyř kritérií uvedených v § 237 o.s.ř., a to ani poslednímu z nich, podle něhož je dovolání přípustné, má-li být dovolacím soudem (již dříve) vyřešená právní otázka (dovolacím soudem) posouzena jinak. Žalobcem užitá argumentace nadto nevystihuje jediný možný dovolací důvod nesprávného právního posouzení věci, namítá-li, že z provedených důkazů nevyplývá skutkové zjištění, z něhož vyšel odvolací soud, že se účastníci dohodli, že žalovaná bude žalobci dluh hradit měsíčními splátkami ve výši 9.000,- Kč; oproti tomu prosazuje, že způsob vrácení peněz nebyl účastníky sjednán. Proti nákladovým výrokům pak žalobce neuvedl žádnou argumentaci.
+Z uvedených důvodů Nejvyšší soud dovolání odmítl (§ 243c odst. 1, věta první, o.s.ř.).
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+Nesplní-li žalobce dobrovolně, co mu ukládá vykonatelné rozhodnutí, může žalovaná podat návrh na soudní výkon rozhodnutí (exekuci).
+V Brně dne 24. června 2015
+JUDr. Pavel Krbek
+předseda senátu
