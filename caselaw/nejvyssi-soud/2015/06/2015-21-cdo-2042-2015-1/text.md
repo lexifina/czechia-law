@@ -1,0 +1,16 @@
+21 Cdo 2042/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu JUDr. Olgou Puškinovou v exekuční věci oprávněné Všeobecné zdravotní pojišťovny České republiky se sídlem v Praze 3, Orlická č. 4/2020, IČO 41197518, proti povinnému J. Š., pro 52.448,- Kč s příslušenstvím, o žalobě pro zmatečnost podané povinným proti usnesení Krajského soudu v Hradci Králové - pobočky v Pardubicích ze dne 25. února 2014, č. j. 22 Co 80/2014-49, vedené u Okresního soudu v Chrudimi pod sp. zn. 21 E 1109/2012 a u soudního exekutora JUDr. Ladislava Navrátila, Exekutorský úřad Pardubice, pod sp. zn. 052 EX 3166/13, o dovolání povinného proti usnesení Vrchního soudu v Praze ze dne 23. října 2014, č. j. 4 Co 113/2014-90, takto:
+Řízení se zastavuje.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Vrchní soud v Praze usnesením ze dne 23. října 2014, č. j. 4 Co 113/2014-90, rozhodl, že soudce „Krajského soudu v Hradci Králové“ Mgr. Miloš Zadražil není vyloučen z projednávání a rozhodnutí věci vedené u téhož soudu pod sp. zn. 22 Co 80/2014 (výrok I.), a dále potvrdil usnesení Krajského soudu v Hradci Králové - pobočky v Pardubicích ze dne 30. 5. 2014, č. j. 22 Co 80/2014 - 80, jímž byly zamítnuty návrhy povinného na přiznání osvobození od soudních poplatků a o ustanovení advokáta k ochraně jeho zájmů v řízení o zmatečnostní žalobě (výrok II.).
+Proti výroku I. tohoto usnesení podal povinný dovolání, domáhajíc se jeho zrušení a vrácení věci jinému senátu soudu prvního stupně.
+Podle ustanovení § 236 odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Podle ustanovení § 16 odst. 1 věty první o. s. ř. o tom, zda je soudce nebo přísedící vyloučen, rozhodne nadřízený soud v senátě.
+Pojem „nadřízený soud“, je-li použit občanským soudním řádem k určení věcné příslušnosti soudu, vychází z organizačních vztahů uvnitř soustavy soudů, nikoli ze vztahů instančních a s pojmem „odvolací soud“ jej zaměňovat nelze (srov. též stanovisko pléna Nejvyššího soudu ze dne 27. června 1996, Plsn 1/96, uveřejněné pod číslem 48/1996 Sbírky soudních rozhodnutí a stanovisek). Rozhoduje-li tudíž vrchní soud o vyloučení soudce krajského soudu, není toto jeho rozhodnutí rozhodnutím odvolacího soudu. Skutečnost, že tento nadřízený soud je shodou okolností i odvolacím soudem vůči soudu, o jehož soudci rozhoduje, není rozhodná (shodně srov. např. usnesení Nejvyššího soudu ze dne 26. září 2001, sp. zn. 29 Odo 641/2001, uveřejněné v časopise Soudní judikatura č. 10, ročník 2001, pod číslem 129). Funkční příslušnost soudu pro projednání „dovolání“ proti rozhodnutí nadřízeného soudu občanský soudní řád neupravuje.
+Protože nedostatek funkční příslušnosti je neodstranitelným nedostatkem podmínky řízení, Nejvyšší soud řízení zastavil (§ 104 odst. 1, § 243b o. s. ř.).
+Nesprávné poučení v usnesení Vrchního soudu v Praze ze dne 23. října 2014, č. j. 4 Co 113/2014-90, podle něhož je dovolání (i) proti výroku I. tohoto usnesení (za určitých podmínek) přípustné, přípustnost dovolání nezakládá (srov. usnesení Nejvyššího soudu uveřejněné pod číslem 51/2003 Sbírky soudních rozhodnutí a stanovisek).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 24. června 2015
+JUDr. Olga Puškinová
+předsedkyně senátu
