@@ -1,0 +1,21 @@
+30 Cdo 1574/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Simona a soudců Mgr. Víta Bičáka a JUDr. Františka Ištvánka v právní věci žalobce MUDr. O. K., zastoupeného JUDr. Jiřím Běleckým, advokátem, se sídlem v Rakovníku, Dukelských hrdinů 59/II, proti žalované České republice – Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 16, o zaplacení 113 855,- Kč s příslušenstvím, vedené u Okresního soudu v Rakovníku pod sp. zn. 8 C 180/2014, o dovolání žalobce proti usnesení Krajského soudu v Praze ze dne 21. 1. 2015, č. j. 26 Co 12/2015-46, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Napadeným usnesením odvolací soud k odvolání žalobce potvrdil usnesení soudu prvního stupně ve výroku o nákladech řízení, kterým soud prvního stupně rozhodl, že žádný z účastníků nemá právo na náhradu nákladů řízení. Současně odvolací soud rozhodl, že žádný z účastníků nemá právo na náhradu nákladů odvolacího řízení.
+Předmětem řízení bylo zaplacení částky 113.855,- Kč s příslušenstvím jako náhrady škody vzniklé žalobci v důsledku trestního stíhání ukončeného zprošťujícím rozsudkem.
+Usnesení odvolacího soudu napadl žalobce dovoláním, neboť mu podle jeho názoru měla být přiznána náhrada nákladů řízení ve výši 28.362,- Kč, když soudy nesprávně aplikovaly ustanovení § 142a odst. 1 o. s. ř. a za předžalobní výzvu nepovažovaly uplatnění nároku u žalované postupem podle § 14 zákona č. 82/1998 Sb.
+Nejvyšší soud v dovolacím řízení postupoval a o dovolání rozhodl podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném od 1. 1. 2014 (viz čl. II bod 7 zákona č. 404/2012 Sb. a čl. II bod 2 zákona č. 293/2013 Sb.), dále jen „o. s. ř.“
+Dovolání bylo podáno včas, osobou k tomu oprávněnou, zastoupenou podle § 241 odst. 1 o. s. ř.
+Podle § 237 o. s. ř. není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+Podle § 238 odst. 1 písm. c) o. s. ř. dovolání podle § 237 není přípustné proti rozsudkům a usnesením, v nichž dovoláním napadeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50.000,- Kč, ledaže jde o vztahy ze spotřebitelských smluv a o pracovněprávní vztahy; k příslušenství pohledávky se přitom nepřihlíží.
+Dovolání žalobce do výroku o náhradě nákladů řízení, stejně jako do výroku o náhradě nákladů odvolacího řízení, není přípustné podle § 238 odst. 1 písm. c) o. s. ř., neboť dovoláním napadeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50.000,- Kč. Sám dovolatel uvádí, že mu měla být přiznána náhrada nákladů řízení ve výši 28.362,- Kč (při sazbě podle § 7 vyhlášky č. 177/1996 Sb., o odměnách advokátů a náhradách advokátů za poskytování právních služeb /advokátní tarif/, v platném znění, ve výši 5.660,- Kč za úkon, režijním paušálu podle § 13 odst. 3 vyhlášky ve výši 300,- Kč za úkon, 21% sazbě DPH a čtyřech úkonech právní pomoci podle § 11 odst. 1 písm. a/ a d/ vyhlášky - převzetí a příprava zastoupení, výzva k plnění se základním skutkovým a právním rozborem předcházející návrhu ve věci samé, žaloba a zpětvzetí žaloby). Ve vztahu k nákladům odvolacího řízení dovolatel přípustnost a důvody dovolání ani nijak nevymezuje (srov. § 241a odst. 2, § 241b odst. 3 a § 243c odst. 1 o. s. ř.).
+V případě, že dovolání není objektivně přípustné, dovolací soud se nemůže zabývat důvody, které odvolací soud vedly k vydání napadeného rozhodnutí. Na tom nic nemění ani nesprávné poučení odvolacího soudu o přípustnosti dovolání.
+Na tomto základě dovolací soud postupem podle § 243c odst. 1 o. s. ř. dovolání jako nepřípustné odmítl.
+Nákladový výrok netřeba odůvodňovat (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení nejsou opravné prostředky přípustné.
+V Brně dne 24. června 2015
+JUDr. Pavel Simon
+předseda senátu
