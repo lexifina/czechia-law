@@ -1,0 +1,16 @@
+11 Tcu 35/2015-15
+U S N E S E N Í
+Nejvyšší soud projednal dne 24. června 2015 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na přijetí rozhodnutí ve věci občana České republiky, obv. M. P., podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl takto:
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení M. P., rozsudkem Soudu pro trestní věci v Huelvě ze dne 13. 5. 2008, sp. zn. JRA - 0000020/2008, kterým byl uznán vinným ze spáchání trestného činu loupeže s použitím násilí podle čl. 237, čl. 242, čl. 27-28, čl. 110, čl. 116, č. 123 španělského tr. zákoníku, za který mu byl uložen trest odnětí svobody v trvání 2 (dvou) let, hledí jako na odsouzení soudem České republiky.
+Odůvodnění:
+Rozsudkem Soudu pro trestní věci v Huelvě ze dne 13. 5. 2008, sp. zn. JRA-0000020/2008, který nabyl právní moci téhož dne, byl obv. M. P. uznán vinným ze spáchání výše uvedeného trestného činu a následně odsouzen k trestu odnětí svobody v trvání 2 (dvou) let.
+Podle skutkových zjištění Soudu pro trestní věci v Huelvě bylo zjištěno, že:
+dne 2. 5. 2008 obv. M. P. po vzájemné dohodě s neidentifikovaným krajanem, s úmyslem bezdůvodného obohacení, v ulici C. přistoupil k 77-tileté P. M. a silným škubnutím ji strhl její kabelku a poté se dal na útěk. V zápětí jej pronásledoval vnuk oběti C. R., kterému se však postavil P. komplic, takže ten musel pronásledování zanechat. Oběť neutrpěla fyzické zranění. Obv. P. byl o několik hodin později zadržen, byla mu zabavena kabelka, ale chybělo v ní 100,- EUR a mobil zn. Nokia.
+Ministerstvo spravedlnosti České republiky podalo dopisem pod sp. zn. MSP-427/2014-MOT-T/12 ze dne 29. 5. 2015 Nejvyššímu soudu návrh na přijetí rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů. Tento návrh byl doručen Nejvyššímu soudu dne 2. 6. 2015.
+Podle § 4a odst. 3 tohoto zákona může Nejvyšší soud na návrh Ministerstva spravedlnosti ČR rozhodnout, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Nejvyšší soud věc přezkoumal a shledal, že odsouzený M. P. je občanem České republiky, byl odsouzen soudem jiného členského státu EU a odsouzení se týká skutků, které vykazují znaky trestného činu i podle příslušných právních předpisů České republiky (trestný čin loupeže podle § 173 ev. trestný čin krádeže podle § 205 tr. zákoníku). Závažnost předmětné trestné činnosti spočívá zejména v tom, že odsouzený se loupeže na 77ti-leté ženě, a to po ve spolupachatelství s dalším neustaveným spolupachatelem.
+Z výše uvedeného vyplývá, že jsou splněny všechny podmínky pro to, aby se na výše uvedené odsouzení obv. M. P. hledělo jako na odsouzení soudem České republiky, a proto Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 24. června 2015
+JUDr. Stanislav Rizman
+předseda senátu
