@@ -1,0 +1,20 @@
+11 Tcu 44/2015-60
+U S N E S E N Í
+Nejvyšší soud projednal dne 24. června 2015 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na přijetí rozhodnutí ve věci občana České republiky, obv. A. H., podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl takto:
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení A. H. rozsudkem Obvodního soudu Drážďany ze dne 27. 6. 2012, sp. zn. 214 Ls 320 Js 13728/11,
+kterým byl uznán vinným ze spáchání trestného činu krádeže podle § 242 odst. 1, § 243 odst. 1 č. 2 a 3, § 267 odst. 1, § 52, § 53 a § 74 německého tr. zákoníku,
+za který mu byl uložen – při zahrnutí trestů z rozsudků Obvodního soudu Zittau ze dne 30. 5. 2011, sp. zn. 3 Ds 420 Js 12339/10, a Zemského soudu Görlitz ze dne 6. 2. 2012, sp. zn. 5a Ns 420 Js 12339/10 – souhrnný trest odnětí svobody v trvání 1 (jednoho) roku a 10 (deseti) měsíců, hledí jako na odsouzení soudem České republiky.
+Odůvodnění:
+Rozsudkem Obvodního soudu Drážďany ze dne 27. 6. 2012, sp. zn. 214 Ls 320 Js 13728/11, který nabyl právní moci téhož dne, při zahrnutí trestů z rozsudků
+· Obvodního soudu Zittau ze dne 30. 5. 2011, sp. zn. 3 Ds 420 Js 12339/10, pravomocného ode dne 14. 2. 2012, a
+· Zemského soudu Görlitz ze dne 6. 2. 2012, sp. zn. 5a Ns 420 Js 12339/10, který nabyl právní moci dne 14. 2. 2012,
+byl obv. A. H. uznán vinným ze spáchání výše uvedeného trestného činu a následně odsouzen k souhrnnému trestu odnětí svobody v trvání 1 (jednoho) roku a 10 (deseti) měsíců.
+Podle skutkových zjištění Obvodního soudu Drážďany bylo zjištěno, že A. H. (společně se spolupachatelem M. B.) dne 21. 3. 2011 mezi 8,40 a 11,03 hod. odcizili za účelem trvalého používání dvě úřední registrační značky s držákem z osobního vozidla Toyota uživatele K. K. Poté se vydali do areálu U. D., kde do cca 13,10 hod. zcizili jízdní kolo zn. Cube v hodnotě 917,- EUR s příslušenstvím v hodnotě 230,- EUR, jízdní kolo zn. Spezialiced v hodnotě cca 400,- EUR a dále blíže neidentifikované kolo v hodnotě 512,- EUR a kolo zn. Citybike Kettler nezjištěné ceny. Dvě jízdní kola - zn. Canyon v ceně cca 400,- EUR a Focus uschovali v areálu kliniky s úmyslem později je vyzvednout.
+Ministerstvo spravedlnosti České republiky podalo dopisem pod sp. zn. MSP-1112/2012-MOT-T/13 ze dne 4. 6. 2015 Nejvyššímu soudu návrh na přijetí rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů. Tento návrh byl doručen Nejvyššímu soudu dne 9. 6. 2015.
+Podle § 4a odst. 3 tohoto zákona může Nejvyšší soud na návrh Ministerstva spravedlnosti ČR rozhodnout, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Nejvyšší soud věc přezkoumal a shledal, že odsouzený A. H. je občanem České republiky, který byl odsouzen soudem jiného členského státu EU a odsouzení se týká skutku, vykazujícího znaky trestného činu i podle příslušných právních předpisů České republiky (trestný čin krádeže podle § 205 tr. zákoníku). Závažnost předmětné trestné činnosti spočívá v tom, že odsouzený ve spolupráci s dalším spolupachatelem nejprve odcizil úřední registrační značku a poté 6 jízdních kol, z nichž dvě uschoval v areálu univerzitní kliniky, s úmyslem si je později vyzvednout. Výše škody se pohybovala kolem 2.400,- EUR. Tomu odpovídá druh a výměra uloženého trestu odnětí svobody, která je zcela ve shodě s českou právní úpravou.
+Z výše uvedeného vyplývá, že jsou splněny všechny podmínky pro to, aby se na výše uvedené odsouzení ods. A. H. hledělo jako na odsouzení soudem České republiky, a proto Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 24. června 2015
+JUDr. Stanislav Rizman
+předseda senátu
