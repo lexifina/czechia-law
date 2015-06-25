@@ -1,0 +1,15 @@
+25 Nd 168/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Vojtka a soudců JUDr. Marty Škárové a JUDr. Roberta Waltra v exekuční věci oprávněné: Raiffeisenbank a.s., se sídlem v Praze 4, Hvězdova 2b, IČO 49240901, zastoupené Janem Rudolfem, advokátem se sídlem v Praze 1, Na Příkopě 15, proti povinné: P. G. F., o 35.658,97 Kč s příslušenstvím, vedené u Okresního soudu v Šumperku pod sp. zn. 22 EXE 466/2015, o určení místní příslušnosti soudu podle § 11 odst. 3 o.s.ř., takto:
+Věc vedenou u Okresního soudu v Šumperku pod sp. zn. 22 EXE 466/2015, projedná a rozhodne Okresní soud v Šumperku.
+Odůvodnění:
+U Okresního soudu v Šumperku je pod sp. zn. 22 EXE 466/2015 vedeno řízení, v němž soudní exekutor JUDr. Petr Kocián z Exekutorského úřadu Brno se sídlem Veveří 125 požádal o pověření a nařízení exekuce k uspokojení pohledávky oprávněné.
+Soud zjistil, že povinná, státní příslušnice Polské republiky, má od 1. 4. 2011 místo pobytu v České republice na adrese bývalého sídla Odboru azylové a migrační politiky Ministerstva vnitra České republiky – Š. Místo skutečného pobytu povinné není známo. Soud vyslovil svoji místní nepříslušnost a předložil věc podle § 11 odst. 3 o.s.ř. Nejvyššímu soudu k určení, který soud věc projedná a rozhodne.
+Podle § 11 odst. 3 o.s.ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Pravomoc soudů České republiky je dána s ohledem na ustanovení kapitoly II oddíl 6 čl. 22 bod 5 Nařízení Rady (ES) č. 44/2001, o příslušnosti a uznávání a výkonu soudních rozhodnutí v občanských a obchodních věcech (dále jen „Nařízení“), podle kterého mají bez ohledu na bydliště výlučnou příslušnost pro řízení, jejichž předmětem je výkon rozhodnutí, soudy členského státu, na jehož území výkon rozhodnutí byl nebo má být proveden.
+V dané věci, ve fázi řízení před nařízením exekuce, kdy způsob jejího provedení dosud nebyl stanoven, není možné prozatím dovodit, zda povinná, státní občanka jiného členského státu Evropské unie, která nemá faktické bydliště na území České republiky, má majetek nacházející se na území České republiky, jenž by podléhal exekuci. Pravomoc českého soudu proto dosud není vyloučena a do doby, než případně bude zjištěno, že se v České republice žádný postižitelný majetek nenachází, se uplatní podmínka výlučné příslušnosti (pravomoci) podle čl. 22 bodu 5 Nařízení (srov. usnesení Nejvyššího soudu ze dne 16. května 2013, sp. zn. 22 Nd 59/2013).
+Vzhledem k tomu, že žádné skutečnosti, jež by svědčily pro přikázání věci jinému soudu, nebyly doposud zjištěny, Nejvyšší soud s přihlédnutím k zásadě rychlosti a hospodárnosti řízení podle § 11 odst. 3 o.s.ř. určil jako místně příslušný soud, u něhož bylo řízení zahájeno a který provedl prvotní úkony.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 25. června 2015
+JUDr. Petr Vojtek
+předseda senátu
