@@ -1,0 +1,16 @@
+26 Cdo 2005/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu JUDr. Miroslavou Jirmanovou, Ph.D., v exekuční věci oprávněného KREINER, spol. s r. o., se sídlem v Plzni, Tylova 710/49, identifikační číslo osoby 40526160, zastoupeného Mgr. Janem Křivánkem, advokátem se sídlem v Plzni, sady 5. května 303/46, proti povinnému P. J., pro 8 477 Kč s příslušenstvím, vedené u Okresního soudu v Mostě pod sp. zn. 43 EXE 22422/2012, o odvolání povinného proti usnesení Krajského soudu v Ústí nad Labem ze dne 25. listopadu 2014, č. j. 12 Co 551/2014-106, takto:
+Řízení o „odvolání“ proti usnesení Krajského soudu v Ústí nad Labem ze dne 25. listopadu 2014, č. j. 12 Co 551/2014-106, se zastavuje.
+Odůvodnění:
+Shora označeným rozhodnutím krajský soud odmítl odvolání povinného proti usnesení ze dne 17. 7. 2014, č. j. 43 EXE 22422/2012-64, jímž okresní soud odmítl námitky povinného z 16. 4. 2014 proti příkazu k úhradě nákladů exekuce ze dne 7. 4. 2014, č. j. 134 EX 15537/12-075, a žádnému z účastníků ani soudnímu exekutorovi nepřiznal právo na náhradu nákladů námitkového řízení.
+Rozhodnutí odvolacího soudu, vydané v rámci odvolacího řízení, napadl povinný podáním ze dne 5. 1. 2015, jež po předchozím poučení soudu výslovně označil jako odvolání.
+Odvolání však není opravným prostředkem proti rozhodnutí krajského soudu jako soudu odvolacího (srov. § 201 a § 10 o. s. ř.). Oproti tomu pravomocné rozhodnutí odvolacího soudu lze napadnout, je-li to zákonem připuštěno, dovoláním (§ 236 odst. 1 o. s. ř.), a soudem příslušným k rozhodování o dovoláních proti rozhodnutím krajských nebo vrchních soudů jako soudů odvolacích je Nejvyšší soud (§ 10a o. s. ř.).
+Jelikož tedy opravným prostředkem pro přezkoumání rozhodnutí odvolacího soudu není odvolání nýbrž dovolání, občanský soudní řád - k projednání odvolání proti takovému rozhodnutí - neupravuje ani funkční příslušnost určitého soudu. Tím, že žalobce „odvolání“ přesto podal, uvedenou podmínku odvolacího řízení pominul. Nedostatek funkční příslušnosti je neodstranitelným nedostatkem podmínky řízení, pročež řízení o takovém „odvolání“, které touto vadou trpí, nelze než podle ustanovení § 104 odst. 1 o. s. ř. zastavit.
+K rozhodování o zastavení řízení o odvolání proti rozhodnutí krajského soudu jako soudu odvolacího je povolán Nejvyšší soud jakožto vrcholný článek soustavy obecných soudů, jenž je funkčně příslušný k rozhodování o opravném prostředku proti rozhodnutí odvolacích soudů (srov. usnesení Nejvyššího soudu ze dne 31. května 2001, sp. zn. 20 Cdo 1535/99, publikované v časopise Soudní judikatura pod č. 85, roč. 2001, příp. usnesení téhož soudu z 27. června 2002, sp. zn. 29 Odo 433/2002, uveřejněné ve stejném časopise 7/2002 pod č. 139 nebo usnesení z 26. října 2011, sp. zn. 20 Cdo 3313/2011).
+Nejvyšší soud proto řízení o „odvolání,“ které shora uvedenou vadou trpí, zastavil.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 1. července 2015
+JUDr. Miroslava Jirmanová, Ph.D.
+předsedkyně senátu
