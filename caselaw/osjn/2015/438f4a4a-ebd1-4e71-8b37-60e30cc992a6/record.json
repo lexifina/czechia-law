@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2015:9.C.101.2014.1",
+  "docket": "9 C 101/2014-30",
+  "date": "2015-07-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/438f4a4a-ebd1-4e71-8b37-60e30cc992a6",
+  "source_sha256": "05f8abee96c5cde4c9cf69281219f691b984645be70c111f497d96bebc34780c",
+  "source_id": "438f4a4a-ebd1-4e71-8b37-60e30cc992a6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 101/2014-30",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "JUDr. Lucie Treglerová",
+    "ecli": "ECLI:CZ:OSJN:2015:9.C.101.2014.1",
+    "predmetRizeni": "O zaplacení 94 486 Kč s příslušenstvím",
+    "datumVydani": "2015-07-08",
+    "datumZverejneni": "2021-06-14",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 365 nař. vl. č. 33/2010 Sb.",
+      "§ 369 nař. vl. č. 33/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/438f4a4a-ebd1-4e71-8b37-60e30cc992a6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
