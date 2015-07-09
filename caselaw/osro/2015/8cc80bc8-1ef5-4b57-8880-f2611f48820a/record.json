@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2015:9.C.97.2014.1",
+  "docket": "9 C 97/2014-131",
+  "date": "2015-07-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2024-05-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8cc80bc8-1ef5-4b57-8880-f2611f48820a",
+  "source_sha256": "d192fa7abe4316a467baf41faac79189334474abdb8cb5a86ed2e16c48b4724a",
+  "source_id": "8cc80bc8-1ef5-4b57-8880-f2611f48820a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 97/2014-131",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "Mgr. Jana Kantoříková",
+    "ecli": "ECLI:CZ:OSRO:2015:9.C.97.2014.1",
+    "predmetRizeni": "",
+    "datumVydani": "2015-07-09",
+    "datumZverejneni": "2024-05-07",
+    "klicovaSlova": [
+      "smlouva příkazní",
+      "smlouva spotřebitelská",
+      "náhrada škody",
+      "zástavní právo",
+      "smlouva o půjčce",
+      "smlouva o smlouvě budoucí",
+      "platební rozkaz",
+      "bezdůvodné obohacení",
+      "dobrá víra",
+      "odstoupení od smlouvy",
+      "smlouva o dílo",
+      "předkupní právo",
+      "smlouva o úvěru",
+      "dobré mravy"
+    ],
+    "zminenaUstanoveni": [
+      "§ 39 z. č. null/null Sb.",
+      "§ 544 z. č. null/null Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8cc80bc8-1ef5-4b57-8880-f2611f48820a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
