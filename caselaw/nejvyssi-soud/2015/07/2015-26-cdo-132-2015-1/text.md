@@ -1,0 +1,14 @@
+26 Cdo 132/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně Doc. JUDr. Věry Korecké, CSc., a soudců JUDr. Miroslava Feráka a JUDr. Pavlíny Brzobohaté ve věci žalobce Mgr. M. V., zastoupeného JUDr. Tomášem Klimkem, Ph.D., advokátem se sídlem Olomouc, Novosadský dvůr 765/6, proti žalované Správě nemovitostí Olomouc, a.s., se sídlem Olomouc, Školní 202/2a, IČO: 25898736, o určení neplatnosti výpovědi z nájmu bytu, vedené u Okresního soudu v Olomouci pod sp. zn. 25 C 81/2011, o dovolání žalobce proti rozsudku Krajského soudu v Ostravě – pobočky v Olomouci ze dne 4. března 2014, č. j. 12 Co 736/2013-119, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Krajský soud v Ostravě – pobočka v Olomouci (odvolací soud) rozsudkem ze dne 4. 3. 2014, č. j. 12 Co 736/2013-119, potvrdil rozsudek ze dne 3. 6. 2013, č. j. 25 C 81/2011-85, jímž Okresní soud v Olomouci (soud prvního stupně) zamítl žalobu na určení neplatnosti výpovědi z nájmu (zde specifikovaného) bytu ze dne 14. 1. 2011, která byla žalobci doručena dne 19. 1. 2011, a rozhodl o nákladech řízení; současně rozhodl o nákladech odvolacího řízení.
+Proti rozsudku odvolacího soudu podal žalobce (zastoupen advokátem) včasné dovolání, které však není přípustné podle § 237 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění před novelou provedenou zákonem č. 293/2013 Sb. (srov. článek II. bod 2 zákona č. 293/2013 Sb.) – dále jen „o. s. ř.“, neboť napadené rozhodnutí je v souladu s ustálenou rozhodovací praxí, s níž se Nejvyšší soud ztotožňuje i v posuzovaném případě a od níž nemá důvod se – ani přes v tomto směru uplatněné dovolací námitky – odchýlit. Při řešení nastolené otázky pasivní věcné legitimace žalované totiž odvolací soud důsledně vycházel z rozhodovací praxe Nejvyššího soudu, která je ustálena v názoru, že v řízení o žalobě podle § 711 odst. 5 zákona č. 40/1964 Sb., občanského zákoníku, ve znění po novele provedené zákonem č. 107/2006 Sb., je pasivně věcně legitimován výlučně pronajímatel (srov. např. rozsudky Nejvyššího soudu z 13. 8. 2008, sp. zn. 26 Cdo 3589/2007, z 19. 4. 2011, sp. zn. 26 Cdo 4216/2009, a z 13. 3. 2012, sp. zn. 26 Cdo 1641/2010, a usnesení z 27. 11. 2012, sp. zn. 26 Cdo 4248/2011).
+S přihlédnutím k uvedenému lze uzavřít, že dovolání není přípustné podle § 237 o. s. ř., a proto je dovolací soud podle § 243c odst. 1 o. s. ř. odmítl – se souhlasem všech členů senátu (§ 243c odst. 2 o. s. ř.) – pro nepřípustnost.
+Bylo-li dovolání odmítnuto, nemusí být rozhodnutí o náhradě nákladů dovolacího řízení odůvodněno (srov. § 243f odst. 3 větu druhou o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 13. července 2015
+Doc. JUDr. Věra Korecká, CSc.
+předsedkyně senátu
