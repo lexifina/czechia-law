@@ -1,0 +1,14 @@
+26 Cdo 1104/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu JUDr. Pavlínou Brzobohatou ve věci výkonu rozhodnutí oprávněného Stavebního bytového družstva Těšíňan, se sídlem v Českém Těšíně, nábřeží Míru 1883/22b, IČ 00398675, zastoupeného JUDr. Věrou Zahradníkovou, advokátkou se sídlem v Třinci, 1. máje 540, proti povinným 1. E. F., Č. T., zastoupenému Mgr. Ludmilou Hajdukovou, advokátkou se sídlem v Ostravě, Čs. legií 1719/5, 2. K. F., Č. T., vyklizením bytu, vedené u Okresního soudu v Karviné pod sp. zn. 46 E 772/2012, o dovolání 1. povinného proti usnesení Krajského soudu v Ostravě ze dne 31. května 2013, č. j. 10 Co 326/2013-126, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+1. povinný napadl dovoláním usnesení Krajského soudu v Ostravě (odvolací soud) ze dne 31. 5. 2013, č. j. 10 Co 326/2013-126, jímž potvrdil usnesení Okresního soudu v Karviné ze dne 25. 3. 2013, č. j. 46 E 772/2012-114, kterým zamítl návrh 1. povinného na zastavení výkonu rozhodnutí.
+Nejvyšší soud České republiky řízení o dovolání 1. povinného podle ustanovení § 241b odst. 2 a § 104 odst. 2 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2013, dále jen „o. s. ř.“ (čl. II bod 2. zákona č. 293/2013 Sb.) zastavil, neboť nebyla splněna podmínka povinného zastoupení dovolatele při podání dovolání (§ 241 o. s. ř.).
+Požadavku na povinné zastoupení dovolatel, který je fyzickou osobou bez právnického vzdělání, nevyhoví již tím, že má zástupcem advokáta, ale teprve tehdy, bude-li dovolání advokátem také sepsáno (§ 241 odst. 4 o. s. ř.) – viz např. usnesení Nejvyššího soudu České republiky ze dne 27. 5. 1999, sp. zn. 26 Cdo 1121/99, uveřejněné pod č. 64/2000 časopisu Soudní judikatura.
+Dovolatel požádal o ustanovení zástupce, jeho žádost byla zamítnuta usnesením Okresního soudu v Karviné ze dne 26. 7. 2013, č. j. 46 E 772/2012-144, ve spojení s usnesením odvolacího soudu ze dne 30. 10. 2013, č. j. 10 Co 612/2013-154, které nabylo právní moci dne 6. 12. 2013. Usnesením soudu prvního soudu stupně ze dne 4. 12. 2013, č. j. 46 E 772/2012-157, byl vyzván, aby si ve lhůtě 15 dnů od doručení usnesení zvolil pro podání dovolání v této věci zástupcem advokáta, výzva mu byla doručena dne 6. 12. 2013. Dovolatel poté udělil plnou moc advokátce Mgr. Ludmile Hajdukové (která mu byla určena rozhodnutím České advokátní komory), jí doplněné dovolání však bylo soudu prvního stupně doručeno až dne 20. 5. 2014, tj. po uplynutí dvouměsíční dovolací lhůty (§ 240 odst. 1 ve spojení s ustanovením § 241b odst. 3 věty druhé za středníkem o. s. ř.), a dovolací soud proto k němu nemohl přihlížet; podmínka povinného zastoupení 1. povinného v dovolacím řízení tudíž nebyla splněna.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 14. července 2015
+JUDr. Pavlína Brzobohatá
+předsedkyně senátu
