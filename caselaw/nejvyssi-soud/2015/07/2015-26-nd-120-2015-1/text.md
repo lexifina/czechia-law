@@ -1,0 +1,13 @@
+26 Nd 120/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně Doc. JUDr. Věry Korecké, CSc., a soudců JUDr. Miroslava Feráka a JUDr. Pavlíny Brzobohaté v exekuční věci oprávněné Komerční banky, a. s., se sídlem Praha 1, Na Příkopě 33, IČO 45317054, zastoupené JUDr. Jiřím Vlasákem, advokátem se sídlem Praha 7, Jankovcova 1518/2, proti povinnému M. T., C., o 81.959,30 Kč s příslušenstvím, vedené u Okresního soudu v Ostravě pod sp. zn. 51 EXE 15813/2014, o určení místní příslušnosti soudu podle § 11 odst. 3 o. s. ř., takto:
+Věc vedenou u Okresního soudu v Ostravě pod sp. zn. 51 EXE 15813/2014 projedná a rozhodne Okresní soud v Ostravě.
+O d ů v o d n ě n í:
+Soudní exekutor Mgr. Marek Jenerál, Exekutorský úřad Zlín, se sídlem Zlín, Lešetín IV/707, podal Okresnímu soudu v Ostravě žádost o pověření a nařízení exekuce na majetek povinného pro vymožení pohledávky oprávněné ve výši 81.959,30 Kč s příslušenstvím.
+Okresní soud v Ostravě usnesením ze dne 24. 2. 2015, č. j. 51 EXE 15813/2014-26, vyslovil svou místní nepříslušnost a rozhodl, že věc bude předložena Nejvyššímu soudu k rozhodnutí o určení místní příslušnosti podle § 11 odst. 3 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů – dále jen „o. s. ř.“).
+Podle § 45 odst. 1 zákona č. 120/2001 Sb., exekuční řád, ve znění pozdějších předpisů (dále jen „exekuční řád“), věcně příslušným exekučním soudem je okresní soud. Ve smyslu § 45 odst. 2 věty první a třetí exekučního řádu je místně příslušným exekučním soudem soud, v jehož obvodu má povinný, je-li fyzickou osobou, místo svého trvalého pobytu, popřípadě místo pobytu na území České republiky podle druhu pobytu cizince. Nemá-li povinný, který je fyzickou osobou, v České republice místo trvalého pobytu nebo místo pobytu podle věty první, je místně příslušným soud, v jehož obvodu má majetek.
+Protože povinný nemá v České republice místo trvalého pobytu a nebyl zde doposud ani zjištěn žádný jeho majetek (exekuční soud před nařízením exekuce a pověřením exekutora jejím provedením existenci majetku povinného nezjišťuje – viz usnesení Nejvyššího soudu ze dne 12. 9. 2012, sp. zn. 31 Nd 200/2012, uveřejněné pod č. 4/2013 Sbírky soudních rozhodnutí a stanovisek), nelze zjistit podmínky pro určení místní příslušnosti exekučního soudu (§ 45 odst. 2 exekučního řádu). Nejvyšší soud proto podle ustanovení § 11 odst. 3 o. s. ř., přihlížeje k zásadě hospodárnosti, rozhodl, že věc projedná a rozhodne Okresní soud v Ostravě, u něhož bylo řízení zahájeno.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 20. července 2015
+Doc. JUDr. Věra Korecká, CSc.
+předsedkyně senátu
