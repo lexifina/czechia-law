@@ -1,0 +1,18 @@
+30 Nd 239/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Ištvánka a soudců JUDr. Pavla Simona a JUDr. Pavla Vlacha v právní věci oprávněné Generali Pojišťovny, a. s., identifikační číslo osoby 61859869, se sídlem v Praze 2, Bělehradská 132, zastoupené Mgr. Martinem Greplem, advokátem se sídlem v Olomouci, Sokolská 586/7, proti povinnému P. K., pro 1 014 Kč s příslušenstvím, vedené u Okresního soudu v Uherském Hradišti pod sp. zn. 25 EXE 1334/2015, o určení místní příslušnosti podle § 11 odst. 3 o. s. ř. takto:
+Věc vedenou u Okresního soudu v Uherském Hradišti pod sp. zn. 25 EXE 1334/2015 projedná a rozhodne Okresní soud v Uherském Hradišti.
+Odůvodnění:
+Okresnímu soudu v Uherském Hradišti byla dne 16. května 2015 doručena žádost soudního exekutora o pověření a nařízení exekuce na majetek povinného. Okresní soud v Uherském Hradišti usnesením ze dne 22. 5. 2015, č. j. 25 EXE 1334/2015-13, vyslovil svoji místní nepříslušnost a rozhodl, že věc bude po marném uplynutí lhůty k podání odvolání oprávněným předložena Nejvyššímu soudu k určení, který soud věc projedná a rozhodne, podle ustanovení § 11 odst. 3 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů, (dále jen „o. s. ř.“).
+Důvodem pro uvedený postup bylo zjištění, že povinný nemá hlášený pobyt na území České republiky.
+Podle ustanovení § 45 odst. 2 zákona č. 120/2001 Sb., o soudních exekutorech
+a exekuční činnosti (exekuční řád), ve znění účinném od 1. ledna 2013, (dále jen exekuční řád), je místně příslušným exekučním soudem soud, v jehož obvodu má povinný, je-li fyzickou osobou, místo svého trvalého pobytu, popřípadě místo pobytu na území České republiky podle druhu pobytu cizince. Nemá-li povinný, který je fyzickou osobou, v České republice místo trvalého pobytu nebo místo pobytu podle předchozí věty, je místně příslušným soud, v jehož obvodu má povinný majetek.
+Podle ustanovení § 52 odst. 1 exekučního řádu platí, že nestanoví-li exekuční řád jinak, použijí se pro exekuční řízení přiměřeně ustanovení občanského soudního řádu.
+Podle ustanovení § 105 odst. 2 o. s. ř. vysloví-li soud, že není příslušný, postoupí věc po právní moci tohoto usnesení příslušnému soudu nebo ji za podmínek § 11 odst. 3 předloží Nejvyššímu soudu.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Z obsahu spisu vyplývá, že povinný nemá hlášený pobyt na území České republiky. Skutečnost, zda má povinný exekučně postižitelný majetek na území České republiky, který by mohl být po nařízení exekuce soudním exekutorem zajištěn a zpeněžen, vyjde najevo až při činnosti soudem pověřeného soudního exekutora v rámci provádění exekuce. Exekuční soud proto před nařízením exekuce a pověřením exekutora jejím provedením nezjišťuje existenci majetku povinného (srov. usnesení velkého senátu občanskoprávního a obchodního kolegia Nejvyššího soudu České republiky ze dne 12. září 2012, sp. zn. 31 Nd 200/2012, uveřejněné pod č. 4/2013 Sbírky soudních rozhodnutí a stanovisek).
+Z výše uvedeného vyplývá, že jsou naplněny zákonné předpoklady pro určení místně příslušného soudu podle § 11 odst. 3 o. s. ř. Nejvyšší soud s ohledem na zásadu rychlosti a hospodárnosti řízení rozhodl tak, že jako soud příslušný k projednání a rozhodnutí předmětné věci určil Okresní soud v Uherském Hradišti, u něhož bylo řízení zahájeno.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 21. července 2015
+JUDr. František Ištvánek
+předseda senátu
