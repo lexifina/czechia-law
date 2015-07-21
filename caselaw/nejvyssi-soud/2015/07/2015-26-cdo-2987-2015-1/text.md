@@ -1,0 +1,12 @@
+26 Cdo 2987/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Zbyňkem Polednou v exekuční věci oprávněných nezletilých a) D. D., a b) T. D., zastoupených matkou A. D., právně zastoupených JUDr. Ladislavem Salvetem, advokátem se sídlem v Praze 4, Přímětická č. 1185/8, proti povinnému J. D., zastoupenému Mgr. Pavlínou Marešovou, advokátkou se sídlem v Hradci Králové, Velké náměstí č. 135/19, pro dlužné výživné 13 300 Kč a pro běžné výživné 3 500 Kč měsíčně, vedené u Okresního soudu Praha-východ pod sp. zn. 28 EXE 1840/2013, o dovolání povinného proti usnesení Krajského soudu v Praze ze dne 6. listopadu 2014, č. j. 19 Co 355/2014-92, takto:
+Dovolání povinného se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky dovolání povinného proti usnesení Krajského soudu v Praze ze dne 6. listopadu 2014, č. j. 19 Co 355/2014-92, podle ustanovení § 243c odst. 1 věty první zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. prosince 2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, odmítl, neboť v něm byly uplatněny jiné dovolací důvody než ten, který je uveden v ustanovení § 241a odst. 1 o. s. ř. (dovolatel netvrdí žádné skutečnosti rozhodné pro dovolací řízení, když podstata jeho námitek spočívá v nesouhlasu dovolatele se skutkovými závěry odvolacího soudu a nezávisí na vyřešení otázky hmotného nebo procesního práva), a v dovolacím řízení nelze pro tento nedostatek pokračovat.
+K návrhu povinného na odklad vykonatelnosti dovoláním napadeného rozhodnutí dovolací soud uvádí, že užití tohoto institutu je v exekučním řízení z povahy věci vyloučeno (srov. např. usnesení Nejvyššího soudu ze dne 23. srpna 2011, sp. zn. 20 Cdo 2395/2011). O tom, že podanému návrhu nelze vyhovět, dovolací soud nevydává zvláštní rozhodnutí (srov. např. usnesení Nejvyššího soudu ze dne 30. listopadu 2005, sp. zn. 20 Cdo 873/2005, uveřejněné v časopise Soudní judikatura č. 5/2006 pod poř. č. 73).
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 21. července 2015
+JUDr. Zbyněk Poledna
+předseda senátu
