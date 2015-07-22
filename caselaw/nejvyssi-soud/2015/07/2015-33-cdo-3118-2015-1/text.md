@@ -1,0 +1,20 @@
+33 Cdo 3118/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu JUDr. Ivanou Zlatohlávkovou ve věci žalobce M. T., proti žalovaným 1) Magistrátu města Hradec Králové se sídlem v Hradci Králové, Ulrichovo nám. 810, a 2) Městské policii Hradec Králové se sídlem v Hradci Králové, Dlouhá 211, o „odškodnění“, vedené u Okresního soudu v Hradci Králové pod sp. zn. 11 C 321/2013 (0 Nc 9569/2014), o dovolání žalobce proti usnesení Krajského soudu v Hradci Králové ze dne 30. května 2014, č. j. 17 Co 116/2014-24, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Krajský soud v Hradci Králové usnesením ze dne 30. 5. 2014, č. j. 17 Co 116/2014-24, potvrdil usnesení ze dne 19. 3. 2014, č. j. 11 C 321/2013-20, jímž Okresní soud v Hradci Králové odmítl (jako nejasné podání) žalobu, kterou žalobce k tomuto soudu podal dne 29. 8. 2013.
+Proti usnesení odvolacího soudu podal žalobce dovolání, které bylo původně vedeno jako nejasné podání.
+V dovolacím řízení bylo postupováno podle zákona č. 99/1996 Sb., občanského soudního řádu, ve znění účinném od 1. 1. 2014 (srov. čl. II bod 2 zákona č. 293/2013 Sb. – dále jen „o. s. ř.“).
+Dovolání bylo podáno k tomu legitimovaným subjektem (žalobcem), nejsou však dány podmínky pro jeho věcné projednání.
+Podle § 241 odst. 1 věty první o. s. ř. musí být dovolatel zastoupen advokátem nebo notářem; to neplatí, má-li dovolatel právnické vzdělání, popřípadě jedná-li za něj osoba uvedená v § 21 nebo v § 21a anebo v § 21b, která má právnické vzdělání. Notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními předpisy. Podle § 241 odst. 4 o. s. ř. nemá-li dovolatel právnické vzdělání, musí být dovolání sepsáno advokátem, notářem nebo osobou uvedenou v § 21 nebo § 21a anebo § 21b, která má právnické vzdělání. Citované ustanovení představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit; bez jejího splnění však nelze vydat rozhodnutí, kterým se řízení končí (rozhodnutí ve věci samé).
+Z dovolání ani z obsahu spisu nevyplývá, že by žalobce byl v dovolacím řízení zastoupen advokátem, případně že by sám měl právnické vzdělání. Jeho návrh, aby mu byl pro dovolací řízení ustanoven zástupce z řad advokátů, zdůvodněný tvrzením, že „pobývá nuceně v nežádoucím státě a tím je i bez zaměstnání a že není osobou znalou zákona a nedosahuje ani životního minima“, Okresní soud v Hradci Králové usnesením ze dne 20. 11. 2014, č. j. 11 321/2013-37, zamítl.
+Další - obsahem shodný - návrh žalobce ze dne 28. 7. 2014 doplněný 23. 2. 2015, zamítl Okresní soud v Hradci Králové usnesením ze dne 26. 2. 2015, č. j. 0 Nc 9569/2014-19, které Krajský soud v Hradci Králové usnesením ze dne 30. 4. 2015, č. j. 21 Co 147/2015-24, změnil tak, že řízení o ustanovení zástupce z řad advokátů žalobci pro řízení o jeho dovolání proti usnesení Krajského soudu v Hradci Králové ze dne 30. 5. 2014, č. j. 17 Co 116/2014-24, se (pro překážku litispendence, resp. věci rozsouzené) se zastavuje; toto rozhodnutí, které žalobce rovněž napadl dovoláním, obstálo, neboť Nejvyšší soud, který řešil otázku důvodnosti návrhu žalobce na ustanovení zástupce z řad advokátů pro dovolací řízení prejudiciálně, řízení o dovolání, vedené u něho pod sp. zn. 2700/2015, usnesením ze dne 16. 7. 2015 zastavil.
+Podmínka povinného zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání vydání rozhodnutí, jímž se řízení končí. Protože v posuzovaném případě ke zhojení tohoto nedostatku nedošlo, dovolací soud dovolací řízení zastavil (§ 241b odst. 2 část věty před středníkem a § 104 odst. 2 věta třetí o. s. ř.).
+Jen pro úplnost považuje dovolací soud za vhodné uvést, že žalobce v dovolání nevymezil jeho důvod a ani v něm neuvedl, v čem spatřuje splnění předpokladů jeho přípustnosti.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 22. července 2015
+JUDr. Ivana Z l a t o h l á v k o v á
+předsedkyně senátu
