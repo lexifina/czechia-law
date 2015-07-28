@@ -1,0 +1,17 @@
+30 Nd 213/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Lubomíra Ptáčka, Ph.D., a soudců JUDr. Pavla Vrchy a JUDr. Pavla Pavlíka ve věci žalobce a) R. S., b) A. N., a c) T. M., všichni zastoupeni Z. C., s doručovací adresou Liga lidských práv, se sídlem v Brně, Burešova 6, proti žalované České republice – Ministerstvu vnitra, identifikační číslo organizace 000 07 064, se sídlem v Praze 7, Nad Štolou 936/3, o žádosti o omluvu, ve věci vedené u Obvodního soudu pro Prahu 7 pod sp. zn. 29 C 162/2013, o návrhu na určení věcné příslušnosti, takto:
+Neurčuje se, který soud je věcně příslušný k projednání a rozhodnutí věci vedené u Obvodního soudu pro Prahu 7 pod sp. zn. 29 C 162/2013.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 7 vyzval dne 18. září 2013 žalobce i žalovanou, aby se vyjádřili k jeho záměru předložit věc Vrchnímu soudu v Praze k rozhodnutí o věcné příslušnosti, neboť má za to, že věc náleží dle ustanovení § 9 odst. 2 písm. a) o. s. ř. do věcné příslušnosti Městského soudu v Praze.
+Žalovaná se vyjádřila tak, že se domnívá, že věc by měla být přikázána podle sídla organizační složky státu - Krajského ředitelství policie Zlínského kraje - Krajskému soudu v Brně. A jelikož nejbližším společným nadřízeným soudem pro Obvodní soud v Praze 7 a Krajský soud v Brně je Nejvyšší soud, tak má za to, že by o věcné příslušnosti měl rozhodovat právě Nejvyšší soud a nikoli Vrchní soud v Praze.
+Žalobci se k návrhu nevyjádřili.
+Obvodní soud pro Prahu 7 předložil dne 12. 6. 2014 věc Nejvyššímu soudu k rozhodnutí o věcné příslušnosti.
+Podle ustanovení § 11 odst. 1 o. s. ř. se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení.
+Podle ustanovení § 104 odst. 2 o. s. ř, má-li okresní nebo krajský soud za to, že není věcně příslušný, předloží věc se zprávou o tom svému nadřízenému vrchnímu soudu, jestliže věc podle jeho názoru náleží do věcné příslušnosti okresních, krajských nebo vrchních soudů, popřípadě soudů zřízených k projednávání a rozhodování věcí určitého druhu, nebo Nejvyššímu soudu, jestliže věc podle jeho názoru náleží do věcné příslušnosti Nejvyššího soudu. Účastníci řízení mají právo se k tomuto postupu a k soudem uváděným důvodům vyjádřit. Vrchní soud (Nejvyšší soud) pak rozhodne, které soudy jsou k projednání a rozhodnutí věci příslušné v prvním stupni, není-li sám věcně příslušný.
+Z výše uvedeného vyplývá, že okresní či krajský soud není oprávněn otázku věcné příslušnosti vyřešit sám a má předložit věc po vyjádření účastníků a s uvedením svého názoru včetně odůvodnění svému nadřízenému vrchnímu soudu anebo Nejvyššímu soudu, pokud by věc měla náležet do působnosti Nejvyššího soudu.
+Obvodní soud pro Prahu 7 nepředložil věc k rozhodnutí o věcné příslušnosti svému nadřízenému vrchnímu soudu (tj. Vrchnímu soudu v Praze), nýbrž Nejvyššímu soudu, přičemž je zřejmé, že věc nepatří do věcné příslušnosti Nejvyššího soudu. Jelikož nejsou v daném případě splněny předpoklady k tomu, aby Nejvyšší soud rozhodoval o určení věcné příslušnosti soudu podle ustanovení § 104a o. s. ř., tak Nejvyšší soud rozhodl, že se neurčuje, který soud je věcně příslušný k projednání a rozhodnutí této věci.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 28. července 2015
+JUDr. Lubomír Ptáček, Ph.D.
+předseda senátu
