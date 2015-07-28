@@ -1,0 +1,18 @@
+25 Cdo 1926/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu JUDr. Martou Škárovou v právní věci žalobce Ing R. P., zastoupeného JUDr. Ivanem Peclem, advokátem se sídlem v Brně, Zábrdovická 15/16, proti žalovanému Erste Leasing, a.s., se sídlem ve Znojmě, Horní náměstí 264/18, IČO: 163 25 460, o 9 000 000 Kč s příslušenstvím, vedené u Okresního soudu ve Znojmě, pod sp. zn. 5 C 58/2014, o dovolání žalobce proti usnesení Krajského soudu v Brně ze dne 30. ledna 2015, č. j. 17 Co 221/2014-42, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í (§ 243f odst. 3 o. s. ř.):
+Krajský soud v Brně usnesením ze dne 30. ledna 2015, č. j. 17 Co 221/2014-42 potvrdil usnesení Okresního soudu ve Znojmě ze dne 5. června 2014, č. j. 5 C 58/2014-18, jímž nebylo žalobci přiznáno osvobození od soudních poplatků.
+Proti rozhodnutí Krajského soudu v Brně podal žalobce dovolání, v němž popisuje průběh řízení o žádosti o osvobození od soudních poplatků, nesouhlasí se závěry odvolacího soudu ohledně jeho majetkových poměrů a odvolacímu soudu vytýká, že pro tyto závěry neměl dostatek relevantních podkladů; dovozuje, že soudní poplatek z podané žaloby na zaplacení 9 milionů Kč nemůže uhradit. Žádá, aby posuzovaná právní otázka byla vyřešena jinak, než učinil odvolací soud, aby mu bylo osvobození přiznáno, případně aby rozhodnutí Krajského soudu v Brně bylo zrušeno a věc byla vrácena prvostupňovému soudu k dalšímu řízení.
+Podle ust. § 237 o. s. ř. není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+Podle § 241a odst. 2 o. s. ř. musí být v dovolání vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu se rozhodnutí napadá, vymezení důvodu dovolání, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) a čeho se domáhá.
+Požadavek, aby dovolatel v dovolání uvedl, v čem spatřuje splnění předpokladů přípustnosti dovolání a důvod dovolání, je jeho obligatorní náležitostí. Z obsahového hlediska však dovolání žalobce nesplňuje požadavky na vymezení předpokladů jeho přípustnosti, když rezignoval na vymezení právní otázky, při jejímž řešení se odvolací soud buď měl odchýlit od ustálené rozhodovací praxe, nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je rozhodována rozdílně anebo již vyřešená právní otázka má být posouzena jinak, a též zcela pominul uvést právní posouzení, které považuje za nesprávné, a vymezit, v čem nesprávnost právního posouzení spočívá.
+Požadavek dovolatele na odlišné posouzení věci dovolacím soudem oproti rozhodnutí soudu odvolacího vyplývá již ze samotné podstaty mimořádného opravného prostředku, není však důvodem pro jeho přípustnost.
+Nejvyšší soud proto dovolání podle § 243c odst. 1 věty první o. s. ř. odmítl, neboť v dovolacím řízení nelze pro uvedené nedostatky pokračovat (srov. usnesení Nejvyššího soudu ze dne 11. července 2013, sen. zn. 29 NSČR 51/2013).
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 28. července 2015
+JUDr. Marta Škárová
+předsedkyně senátu
