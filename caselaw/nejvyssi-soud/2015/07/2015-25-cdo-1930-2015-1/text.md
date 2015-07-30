@@ -1,0 +1,21 @@
+25 Cdo 1930/2015
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedkyně JUDr. Marty Škárové a soudců JUDr. Petra Vojtka a JUDr. Roberta Waltra v právní věci žalobce P. Č., zastoupeného JUDr. Jaroslavem Savkem, advokátem se sídlem v Teplicích, 28. října 851/26, proti žalovanému V. J., zastoupenému JUDr. Ivem Koulou, advokátem se sídlem v Teplicích, Krupská 28/30, o náhradu škody, vedené u Okresního soudu v Teplicích pod sp. zn. 24 C 242/2007, o dovolání žalobce proti rozsudku Krajského soudu v Ústí nad Labem ze dne 23. září 2010, č. j. 9 Co 424/2009-99, takto:
+I. Dovolání se odmítá.
+II. Žalobce je povinen zaplatit žalovanému na náhradě nákladů dovolacího řízení částku 6 584,40 Kč k rukám JUDr. Iva Kouly, advokáta se sídlem v Teplicích, Krupská 28/30, do tří dnů od právní moci tohoto usnesení.
+Odůvodnění:
+Okresní soud v Teplicích rozsudkem ze dne 7. dubna 2009, č. j. 24 C 242/2007-75, zamítl žalobu, jíž se žalobce domáhal náhrady škody v celkové výši 100 226,50 Kč s příslušenstvím, a rozhodl o náhradě nákladů řízení.
+K odvolání žalobce Krajský soud v Ústí nad Labem rozsudkem ze dne 23. září 2010, č. j. 9 Co 424/2009-99, rozsudek soudu prvního stupně potvrdil a rozhodl o náhradě nákladů řízení odvolacího.
+Proti tomuto rozsudku podal žalobce dovolání, jehož přípustnost dovozuje z ust. § 237 o. s. ř. s tím, že napadené rozhodnutí závisí na vyřešení otázek, jež doposud nebyly v rozhodovací praxi dovolacího soudu řešeny. Navrhl, aby dovolací soud rozsudek odvolacího soudu a soudu prvního stupně zrušil a věc vrátil okresnímu soudu k dalšímu řízení.
+Žalovaný navrhl zamítnutí dovolání, neboť již při podání žaloby muselo být žalobci známo, že žalovaný s ohledem na svou nepříčetnost za způsobenou škodu neodpovídá, a žalobce mohl svůj nárok na odškodnění uplatnit podle zákona č. 209/1997 Sb.
+Nejvyšší soud jako soud dovolací (§ 10a o. s. ř.) dospěl k závěru, že v daném případě dovolání směřuje proti rozhodnutí, proti němuž není přípustné.
+Podmínky přípustnosti dovolání proti rozsudku odvolacího soudu upravuje ustanovení § 237 o. s. ř. (ve znění účinném do 31. 12. 2012).
+Podle § 237 odst. 2 písm. a) o. s. ř. není dovolání podle odstavce 1 přípustné ve věcech, v nichž dovoláním dotčeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50 000 Kč a v obchodních věcech 100 000 Kč; k příslušenství pohledávky se přitom nepřihlíží.
+V dané věci žalobce napadá rozsudek odvolacího soudu, jímž byl potvrzen rozsudek soudu prvního stupně o zamítnutí žaloby na náhradu škody způsobené žalovaným, který pro duševní poruchu nebyl schopen ovládnout své jednání a posoudit jeho následky, a z toho důvodu bylo trestní řízení vedené proti němu zastaveno.
+Vzhledem k tomu, že žádný z nároků uplatněných ve výši 42 500 Kč (náhrada za ztrátu na výdělku), 17 400 Kč (na náhradě bolestného), 24 000 Kč (za ztížení společenského uplatnění) a 16 326,50 Kč (náklady vynaložené na léčbu) nepřevyšuje 50 000 Kč, je přípustnost dovolání vyloučena ustanovením § 237 odst. 2 písm. a) o. s. ř. (srov. např. rozsudek Nejvyššího soudu ze dne 19. prosince 2006, sp. zn. 25 Cdo 1157/2005).
+Z uvedeného vyplývá, že dovolání směřuje proti rozhodnutí, proti němuž není tento mimořádný opravný prostředek přípustný. Nejvyšší soud proto dovolání žalobce odmítl (§ 243b odst. 5 věta první, §218 písm. c) o. s. ř.).
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 146 odst. 3 o. s. ř. Dle ust. § 7 bodu 5 vyhlášky ministerstva spravedlnosti č. 177/1996 Sb., o odměnách advokátů a náhradách advokátů za poskytování právních služeb (advokátní tarif) činí sazba mimosmluvní odměny za jeden úkon právní služby z tarifní hodnoty přes 10 000 Kč do 200 000 Kč 1 500 Kč a 40 Kč za každých započatých 1 000 Kč, o které hodnota převyšuje 10 000 Kč. V daném případě činí tedy sazba mimosmluvní odměny součet částky 1 500 Kč a částky 3 640 Kč (91 x 40). V rámci dovolacího řízení učinil zástupce žalovaného jeden úkon právní služby, jehož hodnota dle ust. § 13 odst. 3 advokátního tarifu činí 300 Kč. Zástupce žalovaného je plátcem daně z přidané hodnoty, jejíž náhrada je součástí nákladů řízení. Výše odměny advokáta žalovaného tak dle advokátního tarifu činí 6 582,40 Kč.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 30. července 2015
+JUDr. Marta Škárová
+předsedkyně senátu
