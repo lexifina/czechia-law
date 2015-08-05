@@ -1,0 +1,13 @@
+21 Cdo 939/201
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Romana Fialy a soudců JUDr. Jiřího Doležílka a JUDr. Ljubomíra Drápala ve věci žalobkyně B. Š., zastoupené JUDr. Zdeňkem Pánkem, advokátem se sídlem v Děčíně, Prokopa Holého č. 130/15, proti žalované S. S., o určení dědického práva, vedené u Obvodního soudu pro Prahu 6 pod sp. zn. 18 C 79/2011, o dovolání žalobkyně proti rozsudku Městského soudu v Praze ze dne 23. dubna 2014, č. j. 39 Co 138/2014-115, takto:
+I. Dovolání žalobkyně se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í (§ 243f odst. 3 o.s.ř.):
+Dovolání žalobkyně proti rozsudku Městského soudu v Praze ze dne 23.4.2014, č. j. 39 Co 138/2014-115, není přípustné podle ustanovení § 237 o.s.ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu [k závěru odvolacího soudu o tom, že soud ve sporném řízení nebyl povinen poučit žalobkyni podle ustanovení § 175k odst. 2 o.s.ř. (ve znění účinném do 31.12.2013), neboť odkaz učiněný soudem v řízení o dědictví odpovídal požadavkům tohoto ustanovení (dědický soud správně poučil žalobkyni o tom, že žaloba má být podaná proti závětní dědičce M. S. i proti dědicům ze zákona K. K. a L. P., „přestože uznali závěti zůstavitele ze dne 23.2.2000 a ze dne 5.10.2010 za pravé a platné a přestože z dědictví nic nepožadují“, a za situace, kdy žalobkyně vzala zpět žalobu proti všem těmto účastníkům dědického řízení, nebylo další poučení ze strany soudu ve sporném řízení zapotřebí), srov. například rozsudek Nejvyššího soudu ČR ze dne 28.4.2005, sp. zn. 30 Cdo 940/2004, uveřejněný ve Sbírce soudních rozhodnutí a stanovisek pod č. 12, ročník 2006; rozsudek Nejvyššího soudu ČR ze dne 22.3.2013, sp. zn. 21 Cdo 4240/2011, uveřejněný v časopise Soudní judikatura pod č. 84, ročník 2014, nebo usnesení Nejvyššího soudu ČR ze dne 16.11.2012, sp. zn. 21 Cdo 3845/2010], jakož i judikaturou Ústavního soudu (srov. například právní názor vyjádřený v nálezu Ústavního soudu ze dne 9.5.2006, sp. zn. I. ÚS 467/04, uveřejněném ve Sbírce nálezů a usnesení Ústavního soudu pod č. 41, ročník 2006, nebo v usnesení Ústavního soudu ze dne 11.12.2008, sp. zn. II. ÚS 2553/08), a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+Nejvyšší soud České republiky proto dovolání žalobkyně podle ustanovení § 243c odst. 1 věty první o.s.ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 věta druhá o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 5. srpna 2015
+JUDr. Roman Fiala
+předseda senátu
