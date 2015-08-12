@@ -1,0 +1,15 @@
+33 Cdo 1288/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudkyň JUDr. Blanky Moudré a JUDr. Ivany Zlatohlávkové ve věci žalobkyně Městské části Praha 11, zastoupené Mgr. Karlem Fischerem, advokátem se sídlem v Praze 1, Kaprova 42/14, proti žalovaným 1) M.A.R.S., s.r.o., se sídlem v Praze 10, Sobotecká 5, PSČ 101 00 (identifikační číslo osoby 48040835), zastoupené Mgr. Dominikou Havelkovou, advokátkou se sídlem v Praze 10, Běchovická 701/26, 2) VERONEX a.s., se sídlem v Českých Budějovicích, Rudolfovská 88-202, PSČ 371 36 (identifikační číslo osoby 45273201), zastoupené Mgr. Pavlem Drumevem, advokátem se sídlem v Praze 1, Vodičkova 709/33, a 3) České poště, s.p., se sídlem v Praze 1, Politických vězňů 909/4, PSČ 225 99 (identifikační číslo osoby 47114983), o 1.151.811,34 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 10 pod sp. zn. 21 C 12/2008, o dovolání žalobkyně proti usnesení Městského soudu v Praze ze dne 8. 10. 2014, č.j. 69 Co 155/2014-458, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 10 rozsudkem ze dne 24. 10. 2013, č.j. 21 C 12/2008-425, zamítl žalobu, jíž se žalobkyně domáhala zaplacení 262.439,92 Kč s příslušenstvím po první žalované, 439.150,20 Kč s příslušenstvím po druhé žalované, 450.221,22 Kč s příslušenstvím po třetí žalované a rozhodl o náhradě nákladů řízení.
+V záhlaví uvedeným usnesením městský soud odmítl odvolání žalobkyně proti rozsudku soudu prvního stupně, a to ve vztahu k první žalované co do 238.825,64 Kč s příslušenstvím a příslušenství z částky 178.689,49 Kč, ve vztahu ke druhé žalované co do 395.079,86 Kč s příslušenstvím a ve vztahu ke třetí žalované co do 405.039,87 Kč s příslušenstvím (§ 202 odst. 2, § 218 písm. c/ zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013; viz čl. II bod 1, 7 zákona č. 404/2012 Sb., čl. II bod 2 zákona č. 293/2013 Sb., dále jen „o.s.ř.“); v rozsahu 23.614,28 Kč s příslušenstvím (proti první žalované), 44.070,34 Kč s příslušenstvím (proti druhé žalované) a 45.181,35 Kč s příslušenstvím (proti třetí žalované) a v akcesorických výrocích o nákladech řízení rozsudek soudu prvního stupně zrušil a věc mu vrátil k dalšímu řízení.
+Dovolání žalobkyně proti výrokům rozhodnutí, jimiž odvolací soud ve vztahu k žalovaným odmítl její odvolání, není přípustné proto, že směřuje proti usnesení, proti němuž je přípustná žaloba pro zmatečnost podle § 229 odst. 4 o.s.ř. (§ 238 odst. 1 písm. f/ o.s.ř.).
+Proti kasačním výrokům rozhodnutí je pak dovolání žalobkyně objektivně nepřípustné, neboť těmito výroky bylo ve vztahu ke každé z žalovaných rozhodnuto o peněžitých plněních nepřevyšujících 50.000,- Kč (§ 238 odst. 1 písm. d/ o.s.ř.).
+Nejvyšší soud proto dovolání žalobkyně odmítl (§ 243c odst. 1 o.s.ř.).
+Protože v řízení bude soud prvního stupně pokračovat, nerozhodoval dovolací soud o nákladech dovolacího řízení.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 12. srpna 2015
+JUDr. Pavel Krbek
+předseda senátu
