@@ -1,0 +1,15 @@
+33 Cdo 2963/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudkyň JUDr. Blanky Moudré a JUDr. Ivany Zlatohlávkové ve věci žalobkyně Realitní kanceláře STING, s.r.o., se sídlem v Třinci, 1. máje 540 (identifikační číslo osoby 25842625), zastoupené Mgr. Michalem Novákem, advokátem se sídlem v Olomouci, Fibichova 1141/2, proti žalované O. P., zastoupené Mgr. Martinem Zvoníčkem, advokátem se sídlem ve Zlíně, Lešetín VI 671, o 68.970,- Kč s příslušenstvím, vedené u Okresního soudu ve Zlíně pod sp. zn. 44 C 100/2014, o dovolání žalované proti rozsudku Krajského soudu v Brně, pobočky ve Zlíně, ze dne 21. 1. 2015, č.j. 59 Co 485/2014-86, takto:
+I. Dovolání se odmítá.
+II. Žádná z účastnic nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalovaná napadla dovoláním výslovně oba výroky v záhlaví citovaného rozhodnutí, jímž krajský soud změnil rozsudek Okresního soudu ve Zlíně ze dne 15. 7. 2014, č.j. 44 C 100/2014-61, ve výroku o věci samé, a rozhodl o nákladech řízení před soudy obou stupňů.
+Dovolání proti měnícímu výroku o věci samé vykazuje vady, jelikož neobsahuje způsobilé vymezení toho, v čem dovolatelka spatřuje splnění předpokladů přípustnosti dovolání (§ 241a odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném od 1. 1. 2014, viz čl. II bod 2 zákona č. 293/2013 Sb., dále jen „o.s.ř.“); o tuto obligatorní náležitost dovolání již nemůže být doplněno (§ 241b odst. 3 o.s.ř.) a v dovolacím řízení pro tuto vadu nelze pokračovat. Může-li být dovolání přípustné jen podle § 237 o.s.ř. (jako v této věci), je dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné, přičemž k projednání dovolání nepostačuje pouhá citace textu ustanovení § 237 o.s.ř. či jeho části (srov. usnesení Nejvyššího soudu ze dne 30. 5. 2013, sp. zn. 29 Cdo 1172/2013, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod č. 80/2013, usnesení Nejvyššího soudu ze dne 25. 9. 2013, sp. zn. 29 Cdo 2394/2013, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod č. 4/2014). Tomuto požadavku žalovaná – hodnoceno podle celého obsahu dovolání – nedostála, otázkou naplnění kritérií uvedených v § 237 o.s.ř. se vůbec nezabývala; uvedla pouze, že „dovolání je přípustné podle § 237 o.s.ř.“
+Dovolání proti nákladovému výroku je jednak objektivně nepřípustné (§ 238 odst. 1 písm. c/ o.s.ř.), jelikož tímto výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50.000,- Kč (srov. již výše uvedené usnesení Nejvyššího soudu ze dne 30. 5. 2013, sp. zn. 29 Cdo 1172/2013, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod č. 80/2013), jednak vadné, neboť ve vztahu k těmto výrokům dovolatelka neuvedla žádnou argumentaci (§ 241a odst. 2, § 241b odst. 3 o.s.ř.).
+Nejvyšší soud proto dovolání odmítl (§ 243c odst. 1, věta první, o.s.ř.).
+Výrok o náhradě nákladů dovolacího řízení nemusí být odůvodněn (§ 243f odst. 3, věta druhá, o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 12. srpna 2015
+JUDr. Pavel Krbek
+předseda senátu
