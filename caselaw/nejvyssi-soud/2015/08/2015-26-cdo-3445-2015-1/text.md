@@ -1,0 +1,11 @@
+26 Cdo 3445/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zbyňka Poledny a soudců JUDr. Miroslavy Jirmanové, Ph.D., a JUDr. Aleše Zezuly v exekuční věci oprávněné DIRECT pojišťovny, a. s. se sídlem v Brně, Nové sady č. 996/25, identifikační číslo osoby 25073958, zastoupené JUDr. Petrem Gallatem, advokátem se sídlem v Chrudimi, Filištínská č. 145, proti povinnému F. R., za účasti manželky povinného M. R., zastoupenými JUDr. Bedri Tomáškem, advokátem se sídlem v Kolíně, Politických vězňů č. 27, pro 820 Kč, vedené u Okresního soudu v Kolíně pod sp. zn. 36 EXE 1242/2012, o dovolání povinného a manželky povinného proti usnesení Krajského soudu v Praze ze dne 27. února 2015, č. j. 25 Co 104/2015-140, 25 Co 105/2015, takto:
+Dovolání se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky dovolání povinného a manželky povinného proti usnesení Krajského soudu v Praze ze dne 27. února 2015, č. j. 25 Co 104/2015-140, 25 Co 105/2015, podle ustanovení § 243c odst. 1 věty první zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. prosince 2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, odmítl, protože v části, v níž napadají rozhodnutí o návrzích povinného a manželky povinného na zastavení exekuce, směřuje proti usnesení odvolacího soudu, kterým bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50 000 Kč [§ 238 odst. 1 písm. d) o. s. ř., srov. shora výši částky, pro niž byla exekuce nařízena], a v části, v níž napadají rozhodnutí o návrhu manželky povinného na odklad exekuce, mimoto směřuje proti rozhodnutí odvolacího soudu, proti němuž zákon tento mimořádný opravný prostředek nepřipouští [§ 238 odst. 1 písm. e) o. s. ř.] a v dovolacím řízení proto nelze pokračovat.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 13. srpna 2015
+JUDr. Zbyněk Poledna
+předseda senátu
