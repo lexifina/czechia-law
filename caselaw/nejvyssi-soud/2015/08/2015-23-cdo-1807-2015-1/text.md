@@ -1,0 +1,24 @@
+23 Cdo 1807/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Kateřiny Hornochové a soudců JUDr. Zdeňka Dese a JUDr. Ing. Pavla Horáka, Ph.D. ve věci žalobkyně J. V., zastoupené JUDr. Petrem Poledníkem, advokátem se sídlem v Brně, Příkop 4, PSČ 604 12, proti žalované TOMANAX s.r.o., se sídlem v Brně, Údolní 567/33, PSČ 602 00, IČO 28300858, o zrušení rozhodčího nálezu, vedené u Okresního soudu v Blansku pod sp. zn. 12 C 261/2014, o dovolání žalobkyně proti usnesení Krajského soudu v Brně ze dne 22. prosince 2014, č. j. 37 Co 399/2014-34, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění:
+(§ 243f odst. 3 občanského soudního řádu, dále jen „o. s. ř.“)
+Okresní soud v Blansku usnesením ze dne 5. listopadu 2014, č. j. 12 C 261/2014-24, zamítl návrh žalobkyně na odklad vykonatelnosti rozhodčího nálezu vydaného dne 3. července 2013, sp. zn. RŘ 02/2013.
+K odvolání žalobkyně Krajský soud v Brně rozhodnutí soudu prvního stupně potvrdil usnesením ze dne 22. prosince 2014, č. j. 37 Co 399/2014-34.
+Rozhodnutí odvolacího soudu napadla žalobkyně dovoláním podle ustanovení § 237 o. s. ř. z důvodu nesprávného právního posouzení věci dle „§ 241a odst. 2 písm. a) o. s. ř.“ (dovolatelka zde odkazuje na znění o. s. ř. účinné do 31. prosince 2012, jemuž ve znění účinném od 1. ledna 2014 odpovídá § 241a odst. 1 o. s. ř.). Odvolacímu soudu vytýká, že se dostatečně nevypořádal s jejími námitkami a rozhodnutí nedostatečně odůvodnil, neboť pouze odkázal na obecná ustanovení zákona, čímž učinil rozhodnutí nepřezkoumatelným. K tomuto dovolatelka poukazuje na nález Ústavního soudu ze dne 22. května 2002, sp. zn. I. ÚS 336/2000, v němž Ústavní soud uvedl, že požadavek řádného a vyčerpávajícího zdůvodnění rozhodnutí orgánů veřejné moci je jednou ze základních podmínek ústavně souladného rozhodnutí.
+Následně dovolatelka vymezuje nesprávné právní posouzení věci, tedy dovolací důvod a vyjadřuje se k následkům provedení výkonu rozhodčího nálezu. Závěrem dovolatelka navrhuje, aby Nejvyšší soud dovolání vyhověl a odložil vykonatelnost rozhodčího nálezu.
+Žalovaná se dle obsahu spisu k dovolání nevyjádřila.
+Nejvyšší soud jako soud dovolací (§ 10a o. s. ř.) věc projednal podle zákona č. 99/1963 Sb., ve znění účinném od 1. ledna 2014 (srov. bod 2 článku II., zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony).
+Nejvyšší soud po zjištění, že dovolání bylo podáno včas (§ 240 odst. 1 o. s. ř.) oprávněným subjektem (účastnicí řízení), který je řádně zastoupen advokátem (§ 241 odst. 1 a 4 o. s. ř.), dospěl k závěru, že dovolání neobsahuje stanovené náležitosti.
+Podle ustanovení § 237 o. s. ř. není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+Podle ustanovení § 241a odst. 2 o. s. ř. musí být v dovolání vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu se rozhodnutí napadá, vymezení důvodu dovolání, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) a čeho se dovolatel domáhá (dovolací návrh).
+Požadavek, aby dovolatel v dovolání uvedl, v čem spatřuje splnění předpokladů přípustnosti dovolání, je obligatorní náležitostí dovolání. Dovolatelka však vůbec nevymezuje přípustnost dovolání a nevymezuje ani otázku hmotného nebo procesního práva, na jejímž vyřešení by napadené rozhodnutí záviselo. Blíže v dovolání specifikuje pouze dovolací důvod. Požadavku na vymezení přípustnosti dovolání žalovaná nedostála, tuto vadu neodstranila ve lhůtě pro podání dovolání (§ 241b odst. 3 o. s. ř.) a pro tuto vadu nelze pokračovat v dovolacím řízení.
+Dovolatelkou namítaná nepřezkoumatelnost rozhodnutí odvolacího soudu není způsobilá vyvolat přípustnost dovolání a dovolací soud se jí nemohl zabývat, neboť jde o vadu řízení, k níž by dovolací soud mohl za určitých podmínek přihlédnout pouze tehdy, bylo-li by dovolání přípustné (§ 242 odst. 3 o. s. ř.). Samotná vada řízení však přípustnost dovolání dle ustanovení § 237 o. s. ř. nezakládá.
+Nejvyšší soud dovolání žalované podle § 243c odst. 1 věty první o. s. ř. odmítl, neboť neobsahuje obligatorní náležitost.
+Výrok o náhradě nákladů řízení se neodůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 18. srpna 2015
+JUDr. Kateřina H o r n o ch o v á
+předsedkyně senátu
