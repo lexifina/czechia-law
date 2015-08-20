@@ -1,0 +1,14 @@
+25 Cdo 2581/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Vojtka a soudců JUDr. Marty Škárové a JUDr. Roberta Waltra v právní věci žalobkyně M. K., zastoupené JUDr. Vladimírem Papežem, advokátem se sídlem v Kroměříži, Tovačovského 3161/13, proti žalované JUDr. R. P. Z., advokátce se sídlem ve Zlíně, Mostní 5552, za účasti Generali Pojišťovny a. s., se sídlem v Praze 2, Bělehradská 132, IČO 61859869, jako vedlejší účastnice na straně žalované, o 5.675.253,- Kč s příslušenstvím, vedené u Okresního soudu ve Zlíně pod sp. zn. 46 C 47/2014, o dovolání žalobkyně proti usnesení Krajského soudu v Brně – pobočky ve Zlíně ze dne 26. 2. 2015, č. j. 59 Co 47/2015-455, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Dovolání žalobkyně proti usnesení Krajského soudu v Brně – pobočky ve Zlíně ze dne 26. 2. 2015, č. j. 59 Co 47/2015-455, není přípustné podle ustanovení § 237 o.s.ř., neboť uplatněné námitky nesměřují proti otázce hmotného nebo procesního práva, na jejímž vyřešení závisí napadené rozhodnutí (§ 241a odst. 1 o.s.ř.).
+Dovolatelka namítá, že odvolací soud ve výrocích o náhradě nákladů řízení v souvislosti se zpětvzetím žaloby pochybil tím, že nepřihlédl k důvodu, který ji původně vedl k soudnímu uplatnění nároku; je podle ní zřejmé, že žalovaná jí chybnou konstrukcí vypracované smlouvy způsobila újmu, a proto měl odvolací soud nahlížet na zpětvzetí žaloby v kontextu všech souvislostí jako na pokus vyrovnat se s chybou žalované. Této námitce nelze přisvědčit, neboť odvolací soud se okolnostmi podání žaloby i následného zpětvzetí poměrně podrobně zabýval, a neshledal-li v konkrétních poměrech projednávané věci důvody zvláštního zřetele hodné pro výjimečné použití § 150 o.s.ř., nelze dovodit nepřiměřenost této úvahy, a tedy ani přípustnost dovolání podle § 237 o.s.ř. Dovolatelka dále poukazuje na své majetkové poměry a uvádí, že napadeným rozhodnutím nebyla odstraněna nepřiměřená tvrdost a nedošlo k naplnění požadavku dosažení spravedlnosti v řízení. Tato část námitek nesměřuje proti právnímu posouzení věci odvolacím soudem, ale rozporuje jen zjištěný skutkový stav, čímž však přípustnost dovolání podle § 237 o.s.ř. nelze založit.
+Nejvyšší soud proto z těchto všech důvodů dovolání žalobkyně podle § 243c odst. 1 věty první o.s.ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243b, § 224 odst. 1 a § 146 odst. 3 o.s.ř., neboť dovolání žalobkyně bylo odmítnuto a náklady žalované i vedlejší účastnice spojené s podáním vyjádření, jejichž argumentace je ve vztahu k výsledku řízení bez významu, nelze považovat za účelně vynaložené náklady k uplatňování práva (§ 142 odst. 1 o.s.ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 20. srpna 2015
+JUDr. Petr Vojtek
+předseda senátu
