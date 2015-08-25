@@ -1,0 +1,21 @@
+22 Cdo 2684/2015
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy Mgr. Davida Havlíka a soudců JUDr. Jiřího Spáčila, CSc., a Mgr. Michala Králíka, Ph.D., ve věci žalobkyně J. M., zastoupené JUDr. Petrem Bokotejem, advokátem se sídlem v Praze 3, Táboritská 23, proti žalovanému P. M., s adresou pro doručování Na Zámecké 1518/9, Praha 4, o zaplacení 2.000.000,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 5 pod sp. zn. 34 C 270/2014, o dovolání žalobkyně proti usnesení Městského soudu v Praze ze dne 24. listopadu 2014, č. j. 68 Co 461/2014-21, takto:
+Dovolání se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.)
+Obvodní soud pro Prahu 5 (dále jen „soud prvního stupně“) usnesením ze dne 29. září 2014, č. j. 34 C 270/2014-15, rozhodl, že se žalobkyně neosvobozuje od zaplacení soudních poplatků.
+Městský soud v Praze jako soud odvolací k odvolání žalobkyně usnesením ze dne 24. listopadu 2014, č. j. 68 Co 461/2014-21, usnesení soudu prvního stupně potvrdil.
+Proti usnesení odvolacího soudu podala žalobkyně dovolání. Dle jejího názoru byly splněny zákonné podmínky pro osvobození od soudních poplatků a nalézací soudy pochybily, jestliže žalobkyni nepřiznaly osvobození od soudních poplatků alespoň z části.
+Žalovaný se k dovolání nevyjádřil.
+Obsah rozhodnutí obou stupňů i obsah dovolání jsou účastníkům známy, a proto na ně dovolací soud pro stručnost odkazuje.
+Dovolání není přípustné.
+Podle § 237 o. s. ř. není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+Podle § 241a odst. 1 - 3 o. s. ř. dovolání lze podat pouze z důvodu, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci. V dovolání musí být vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu se rozhodnutí napadá, vymezení důvodu dovolání, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) a čeho se dovolatel domáhá (dovolací návrh). Důvod dovolání se vymezí tak, že dovolatel uvede právní posouzení věci, které pokládá za nesprávné, a že vyloží, v čem spočívá nesprávnost tohoto právního posouzení.
+Požadavek, aby dovolatel v dovolání uvedl, v čem spatřuje splnění předpokladů přípustnosti dovolání, je podle § 241a odst. 2 o. s. ř. obligatorní náležitostí dovolání. Může-li být dovolání přípustné jen podle § 237 o. s. ř. (jako v této věci), je dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné, přičemž k projednání dovolání nepostačuje pouhá citace textu ustanovení § 237 o. s. ř. či jeho části (k tomu srovnej např. usnesení Nejvyššího soudu ze dne 27. srpna 2013, sp. zn. 29 NSČR 55/2013 (uveřejněné na webových stránkách Nejvyššího soudu – www.nsoud.cz).
+V dovolání není uvedeno, v čem žalobkyně spatřuje splnění předpokladů přípustnosti dovolání ani není řádně vymezen důvod dovolání. Pouhá citace textu poučení odvolacího soudu o možnosti podat proti jeho rozhodnutí dovolání nepostačuje k jeho projednání. Z těchto důvodů nebylo možno dovolání považovat za přípustné (§ 241a odst. 2 a § 243c odst. 1 o. s. ř.).
+V podstatné části dovolání žalobkyně podrobuje kritice skutková zjištění, z nichž nalézací soudy při svém rozhodování vycházely. K tomu dovolací soud poznamenává, že od 1. ledna 2013 nelze v dovolání úspěšně zpochybnit skutková zjištění odvolacího soudu; dovolací soud tak musí vycházet ze skutkových zjištění učiněných v nalézacím řízení (viz např. usnesení Nejvyššího soudu ze dne 27. března 2014, sp. zn. 28 Cdo 4295/2013, uveřejněné na webových stránkách Nejvyššího soudu – www.nsoud.cz).
+Vzhledem k tomu, že dovolání trpí vadami, pro něž nelze v řízení pokračovat, Nejvyšší soud ho podle § 243c odst. 1 věty první o. s. ř. odmítl.
+O nákladech dovolacího řízení bude rozhodnuto v konečném rozhodnutí ve věci samé.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 25. srpna 2015
+Mgr. David Havlík předseda senátu
