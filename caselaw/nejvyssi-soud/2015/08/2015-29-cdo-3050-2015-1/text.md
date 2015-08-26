@@ -1,0 +1,22 @@
+29 Cdo 3050/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudců JUDr. Jiřího Zavázala a JUDr. Petra Šuka v právní věci žalobce CACTON LIMITED, se sídlem 5th floor 86 Jermyn Street, London, SW1Y 6 A W, reg. č. 06654819, Spojené království Velké Británie a Severního Irska, zastoupeného Mgr. Jaromírem Kráčalíkem, advokátem, se sídlem v Hodoníně, Lipová alej 3205/6, PSČ 695 01, proti žalované M. D., zastoupené JUDr. Janem Hejdou, Ph.D., advokátem, se sídlem v Mostě, Bělehradská 3347/7, PSČ 434 01, o námitkách proti směnečnému platebnímu rozkazu, vedené u Krajského soudu v Ústí nad Labem pod sp. zn. 33 Cm 217/2012, o dovolání žalované proti usnesení Vrchního soudu v Praze ze dne 18. září 2013, č. j. 5 Cmo 293/2013-48, takto:
+Dovolání se odmítá.
+Odůvodnění:
+Vrchní soud v Praze usnesením ze dne 18. září 2013, č. j. 5 Cmo 293/2013-48, k odvolání žalované potvrdil usnesení ze dne 30. května 2013, č. j. 33 Cm 217/2012-37, jímž Krajský soud v Ústí nad Labem zamítl žádost žalované o ustanovení zástupce.
+Odvolací soud – cituje ustanovení § 30, § 101 a § 138 zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“) a vycházeje z obsahu spisu − ve shodě se soudem prvního stupně uzavřel, že žalovaná neprokázala „splnění předpokladů pro byť částečné osvobození od soudních poplatků“.
+Proti tomuto usnesení podala žalovaná vlastnoručně sepsané dovolání, v němž uvedla, že nemá žádný majetek; současně zaslala listiny potvrzující, jaký důchod a v jaké výši pobírá, jakož i listiny osvědčující její dluhy u označených věřitelů.
+Usnesením ze dne 2. června 2015, č. j. 29 Cdo 3791/2014-77, Nejvyšší soud ustanovil žalované pro dovolací řízení zástupce − JUDr. Jana Hejdu, Ph.D., advokáta, se sídlem v Mostě, Bělehradská 3347/7, PSČ 434 01.
+Žalovaná, prostřednictvím ustanoveného zástupce, podala (včas) dovolání proti usnesení odvolacího soudu ze dne 18. září 2013, spatřujíc důvod jeho přípustnosti v tom, že „by věc měla být po právní stránce posouzena jinak“, a namítajíc, že její majetkové poměry odůvodňují, aby jí byl (pro řízení o odvolání proti rozsudku Krajského soudu v Ústí nad Labem ze dne 7. prosince 2012, č. j. 33 Cm 217/2012-22) ustanoven zástupce.
+Rozhodné znění občanského soudního řádu pro dovolací řízení (do 31. prosince 2013) se podává z bodu 2., části první, článku II. zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony.
+Dovolání žalované Nejvyšší soud odmítl podle ustanovení § 243c odst. 1 věty první o. s. ř.
+Podle ustanovení § 241a odst. 2 o. s. ř. je obligatorní náležitostí dovolání požadavek, aby dovolatel v dovolání uvedl, v čem spatřuje splnění předpokladů přípustnosti dovolání. Může-li být dovolání přípustné jen podle § 237 o. s. ř. (jako v této věci), je dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné, přičemž k projednání dovolání nepostačuje pouhá citace textu ustanovení § 237 o. s. ř. (či jeho části).
+K vymezení přípustnosti dovolání srov. především usnesení Nejvyššího soudu ze dne 25. září 2013, sp. zn. 29 Cdo 2394/2013, uveřejněné pod číslem 4/2014 Sbírky soudních rozhodnutí a stanovisek - dále jen „R 4/2014“.
+V usnesení ze dne 29. srpna 2013, sp. zn. 29 Cdo 2488/2013 (v R 4/2014 citovaném), stejně jako v usnesení ze dne 31. března 2014, sen. zn. 29 NSČR 36/2014 nebo v usnesení ze dne 25. srpna 2014, sen. zn. 29 NSČR 88/2014, Nejvyšší soud vysvětlil, že:
+„Dovolací námitka, že ‚vyřešená právní otázka v této věci má být dovolacím soudem posouzena jinak’, není způsobilým vymezením přípustnosti dovolání ani v režimu § 238a o. s. ř., ani v režimu § 237 o. s. ř.
+Spatřuje-li dovolatel přípustnost dovolání v tom, že ‚dovolacím soudem vyřešená právní otázka má být posouzena jinak’, musí být z dovolání zřejmé, od kterého svého řešení otázky hmotného nebo procesního práva se má (podle mínění dovolatele) dovolací soud odchýlit“.
+K tomu srov. ostatně též v judikatuře Ústavního soudu usnesení ze dne 21. ledna 2014, sp. zn. I. ÚS 3524/13 (jímž Ústavní soud odmítl ústavní stížnost proti usnesení Nejvyššího soudu sp. zn. 29 Cdo 2488/2013), usnesení ze dne 17. dubna 2014, sp. zn. III. ÚS 695/14, usnesení ze dne 24. června 2014, sp. zn. IV. ÚS 1407/14, usnesení ze dne 16. prosince 2014, sp. zn. IV. ÚS 266/14 a usnesení ze dne 12. srpna 2015, sp. zn. IV. ÚS 3548/14.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. srpna 2015
+JUDr. Petr Gemmel
+předseda senátu
