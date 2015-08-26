@@ -1,0 +1,20 @@
+11 Tcu 55/2015
+U S N E S E N Í
+Nejvyšší soud projednal dne 26. srpna 2015 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl takto:
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení občana České republiky J. S., rozsudkem Zemského soudu Innsbruck, Rakouská republika, ze dne 23. 9. 2014, sp. zn. 23 Hv 86/14z, hledí jako na odsouzení soudem České republiky.
+Odůvodnění:
+Rozsudkem Zemského soudu Innsbruck, Rakouská republika, ze dne 23. 9. 2014, sp. zn. 23 Hv 86/14z, který nabyl právní moci dne 27. 9. 2014, byl J. S. uznán vinným trestným činem závažné krádeže vloupáním, podle rakouského trestního zákona, a odsouzen k nepodmíněnému trestu odnětí svobody v trvání 2 (dvou) roků.
+Podle skutkových zjištění cizozemského soudu J. S. spáchal trestnou činnost skutky pod body 1) a 2) rozsudku v podstatě tím, že po předchozí společné domluvě se S. S., a v úmyslu se trestnou činností – krádežemi, neoprávněně obohatit, dne 23. 1. 2014 a 24. 1. 2014 ve S.:
+ad 1) po rozbití okna vnikli do budovy firmy Felbermayr Bau GmbH & Co KG, kde vylomili několik vnitřních dveří, příruční pokladnu, za pomocí brusky se vloupali do trezoru, vylomili kryt na nádrž vozidla, a ke škodě oprávněných firmy odcizili hotovost ve výši 2.000,- Eur, plotter zn. HP v hodnotě 7.000,- Eur, sedm párů pracovních bot, šest bund, čtyři kusy rakouských ročních dálničních známek, dva notebooky zn. Dell, dvě tašky na notebook, mobilní telefon zn. Samsung, dva klíče od vozidla, čepici, různé nápoje a 80 litrů motorové nafty,
+ad 2) poté, co se za použití násilí vloupali do dvou uzamčených nápojových automatů, odcizili ke škodě oprávněných firmy Delikomat, Automaten-Catering und Betriebsverpflegung GesmbH, hotovost ve výši 245,- Eur,
+čímž spáchali krádež věcí, jejichž hodnota přesahuje částku 3.000,- Eur.
+Ministerstvo spravedlnosti České republiky podalo ve shora uvedené věci Nejvyššímu soudu návrh na přijetí rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů (dále jen „zákon“).
+Nejvyšší soud věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro rozhodnutí podle § 4a odst. 3 zákona.
+Především je třeba uvést, že podle § 4a odst. 3 zákona rozhodne Nejvyšší soud na návrh Ministerstva spravedlnosti ČR, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Z podaného návrhu a z obsahu připojeného spisu vyplývá, že odsouzený J. S. je občanem České republiky, byl odsouzen cizozemským soudem a odsouzení se týká skutku, který vykazuje znaky trestného činu i podle příslušných právních předpisů České republiky (přinejmenším trestného činu krádeže podle § 205 zákoníku). Tím jsou splněny formální podmínky ustanovení § 4a odst. 3 zákona.
+V posuzované věci jsou ovšem dány i podmínky materiální povahy. Odsouzený J. S. se pro svůj prospěch podílel na jednání, kterým způsobil škodu na cizím majetku. Společenská škodlivost jeho trestné činnosti je zvyšována zejména tím, že se této dopustil s další osobou, jakož i způsobem jejího provedení. Z obsahu spisového materiálu rovněž vyplynulo, že v minulosti byl v České republice již pro majetkovou trestnou činnost odsouzen. Pokud jde o druh uloženého trestu, ze spisového materiálu vyplynulo, že odsouzenému byl uložen nezanedbatelný trest odnětí svobody. Lze tedy dovodit, že jsou splněny všechny podmínky pro to, aby se na výše uvedené odsouzení J. S. hledělo jako na odsouzení soudem České republiky.
+Z uvedených důvodů proto Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 26. srpna 2015
+JUDr. Antonín Draštík
+předseda senátu
