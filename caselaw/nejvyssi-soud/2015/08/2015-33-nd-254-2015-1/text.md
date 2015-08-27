@@ -1,0 +1,15 @@
+33 Nd 254/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně senátu JUDr. Ivany Zlatohlávkové a soudců JUDr. Pavla Krbka a JUDr. Václava Dudy ve věci oprávněné České republiky – Okresní soud v Jihlavě se sídlem v Jihlavě, tř. Legionářů 9a, identifikační číslo osoby 000 25 119, proti povinné S. R., pro 18.402,- Kč, vedené u Okresního soudu v Břeclavi pod sp. zn. 55 EXE 188/2015, o určení místní příslušnosti soudu, takto:
+Věc vedenou u Okresního soudu v Břeclavi pod sp. zn. 55 EXE 188/2015 projedná a rozhodne Okresní soud v Břeclavi.
+O d ů v o d n ě n í :
+Exekutor požádal dne 16. 3. 2015 Okresní soud v Břeclavi o pověření a nařízení exekuce na majetek povinné.
+Okresní soud v Břeclavi usnesením ze dne 15. 5. 2015, č. j. 55 EXE 188/2015-8, vyslovil svou místní nepříslušnost s tím, že po marném uplynutí lhůty k podání odvolání oprávněnou bude věc podle § 11 odst. 3 zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o.s.ř.“), předložena Nejvyššímu soudu k určení, který soud věc projedná a rozhodne. Z provedeného šetření zjistil, že povinná, jejíž trvalé bydliště bylo v návrhu označeno na adrese Š., „neprochází“ Centrální evidencí obyvatel ani registrem cizinců, a tak nelze zjistit její státní příslušnost ani její trvalý pobyt. Nařízení exekuce na základě rozhodčího nálezu je v pravomoci soudů České republiky, ale podmínky místní příslušnosti zjistit nelze.
+Podle § 11 odst. 1, věty první a druhé, o.s.ř. se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení.
+Místně příslušným exekučním soudem je soud, v jehož obvodu má povinný, který je fyzickou osobou, místo svého trvalého pobytu, popřípadě místo pobytu na území České republiky podle druhu pobytu cizince. Nemá-li povinný, který je fyzickou osobou, v České republice místo trvalého pobytu nebo místo pobytu podle věty první, je místně příslušným soud, v jehož obvodu má povinný majetek (srov. § 45 odst. 2 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti a o změně dalších zákonů /exekuční řád/, ve znění pozdějších předpisů, dále jen „zákon č. 120/2001 Sb.“).
+Podle ustanovení § 11 odst. 3 o.s.ř., které se použije i pro exekuční řízení (§ 52 odst. 1 zákona č. 120/2001 Sb.), jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Protože jsou splněny předpoklady stanovené v § 11 odst. 3 o.s.ř., Nejvyšší soud – přihlížeje k zásadě hospodárnosti – určil, že věc projedná a rozhodne Okresní soud v Břeclavi, u něhož bylo řízení zahájeno (srov. usnesení velkého senátu občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne 12. 9. 2012, sp. zn. 31 Nd 200/2012, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod č. 4/2013).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 27. srpna 2015
+JUDr. Ivana Zlatohlávková
+předsedkyně senátu
