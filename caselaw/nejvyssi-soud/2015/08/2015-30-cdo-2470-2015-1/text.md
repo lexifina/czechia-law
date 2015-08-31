@@ -1,0 +1,18 @@
+30 Cdo 2470/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Vrchy a soudců JUDr. Pavla Pavlíka a JUDr. Pavla Simona, v právní věci žalobce M. P., jako soudem ustanoveným opatrovníkem, zastoupeným JUDr. Renatou Závěrkovou, advokátkou se sídlem v Semilech, Riegrovo náměstí 341, proti žalovanému Z. K., o určení vlastnického práva, vedené u Okresního soudu v Semilech pod sp. zn. 10 C 89/2012, o dovolání Ing. V. K., jako třetí osoby, která usiluje o vedlejší účastenství, proti usnesení Krajského soudu v Hradci Králové ze dne 29. srpna 2014, č. j. 25 Co 311/2014-78, takto:
+I. Řízení o dovolání žalobce se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í
+(§243f, odst. 3 o. s. ř.):
+Napadeným rozhodnutím potvrdil Krajský soud v Hradci Králové jako soud odvolací usnesení Okresního soudu v Semilech (dále již „soud prvního stupně“) ze dne 1. července 2014, č. j. 89 C 40/2012-67, kterým soud prvního stupně rozhodl, že nepřipouští vedlejší účastenství Ing. V. K.
+Proti uvedenému usnesení odvolacího soudu podal Ing. K. dovolání, aniž by byl při jeho podání zastoupen advokátem a aniž by tvrdil a doložil, že má právnické vzdělání. Ing. K. byl usnesením soudu prvního stupně ze dne 5. listopadu 2014, č. j. 10 C 89/2012-86, vyzván, aby si pro podání dovolání v dané věci ve lhůtě 30 dnů zvolil zástupcem advokáta a aby jeho prostřednictvím podal řádné dovolání proti napadenému usnesení. Podáním ze dne 10. listopadu 2014 požádal Ing. K. o ustanovení zástupce pro řízení o dovolání.
+Usnesením soudu prvního stupně ze dne 6. ledna 2015 byl zamítnut návrh Ing. K. na ustanovení právního zástupce. Proti tomuto usnesení soudu prvního stupně podal Ing. K. odvolání ke Krajskému soudu v Hradci Králové (dále již „odvolací soud“). Usnesením ze dne 26. března 2015 odvolací soud potvrdil usnesení soudu prvního stupně, kterým byl zamítnut návrh na ustanovení právního zástupce. Soud prvního stupně následně vyzval Ing. K., aby si pro podání dovolání zvolil zástupcem advokáta, a aby jeho prostřednictvím podal řádné dovolání proti usnesení odvolacího soudu ze dne 29. srpna 2014, č. j. 25 Co 311/2014-78.
+Ing. K. nedostatek povinného zastoupení v soudem stanovené lhůtě (a ani po jejím uplynutí) neodstranil.
+Nejvyšší soud v dovolacím řízení postupoval a o dovolání rozhodl podle zákona č. 99/1963 Sb., občanského soudního řádu (dále již „o. s. ř.“). Podle § 241 odst. 1 věty první o. s. ř. platí, že: „Není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem.“ Podle § 241 odst. 2 písm. a) o. s. ř. není třeba podmínku povinného zastoupení dovolatele advokátem nebo notářem splnit, je-li dovolatelem fyzická osoba, která má právnické vzdělání. Jelikož nedostatek povinného zastoupení nebyl odstraněn, tak Nejvyššímu soudu nezbývá, než řízení o dovolání podle § 104 odst. 2 věty třetí a § 243f odst. 2 zákona o. s. ř., zastavit.
+Nad rámec odůvodnění důvodu zastavení řízení je vhodné dodat, že i pokud by nedostatek právního zastoupení byl odstraněn, tak dovolání (v současné podobně) nesplňuje podmínky přípustnosti dle ust. § 237 o. s. ř. Dle § 241a odst. 2 o. s. ř. musí být v dovolání vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu se rozhodnutí napadá, vymezení důvodu dovolání, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) a čeho se dovolatel domáhá (dovolací návrh).
+Výrok o náhradě nákladů dovolacího řízení netřeba odůvodňovat (§ 243f odst. 3, věta druhá o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 31. srpna 2015
+JUDr. Pavel Vrcha
+předseda senátu
