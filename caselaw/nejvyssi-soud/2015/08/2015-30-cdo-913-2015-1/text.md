@@ -1,0 +1,21 @@
+30 Cdo 913/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Pavla Pavlíka a soudců a JUDr. Pavla Vrchy a JUDr. Pavla Vlacha, ve věci péče o J. C., zastoupenou opatrovnicí Mgr. J. C., o schválení právního jednání, vedené u Okresního soudu v Rakovníku pod sp. zn. 0 P 137/2009, o dovolání V. C., zastoupeného Mgr. Vojtěchem Veverkou, advokátem se sídlem v Kladně, náměstí starosty Pavla 40, proti usnesení Krajského soudu v Praze ze dne 27. listopadu 2014, č.j. 24 Co 411/2014-306, takto:
+I. Dovolání V. C. se odmítá.
+II. Dovolatel nemá právo na náhradu nákladů dovolacího řízení
+Stručné odůvodnění
+(§ 243f odst. 3 o.s.ř.):
+Okresní soud v Rakovníku usnesením ze dne 7. května 2014, č.j. 0 P 137/2009-110, podle § 109 odst. 2 písm. c) občanského soudního řádu (dále jen „o.s.ř.“) přerušil řízení ve věci schválení právního jednání až do právní moci rozhodnutí Okresního soudu v Rakovníku ve věci vedené pod sp. zn. 8 P a Nc 25/2014, z důvodu, že probíhá řízení, v němž je řešena otázka, která může mít význam pro rozhodnutí soudu.
+K odvolání opatrovanky Krajský soud v Praze usnesením ze dne 27. listopadu 2014, č.j. 24 Co 411/2014-306, usnesení soudu prvního stupně změnil tak, že se řízení o schválení právního jednání, kterým byla za opatrovanku uzavřena kupní smlouva o prodeji bytové jednotky v katastrálním území R. zapsané na listě vlastnictví č. 8043 u katastrálního úřadu pro Středočeský kraj, katastrální pracoviště Rakovník, nepřerušuje.
+Odvolací soud při svém rozhodování vyšel ze zjištění, že opatrovnice opatrovanky doručila soudu prvního stupně návrh na schválení úkonu, a to uzavření kupní smlouvy o prodeji bytové jednotky opatrovanky, k němuž předložila vyjádření opatrovnické rady a kupní smlouvu a svěřeneckou smlouvu o advokátní úschově. Dále zjistil, že současně probíhají řízení o návrhu V. C. na jmenování souběžného opatrovníka vedle opatrovnice Mgr. J. C. a řízení na prohlášení neplatnosti volby členů opatrovnické rady, která nejsou dosud skončena. Odvolací soud dospěl k závěru, že rozhodnutí o platnosti či neplatnosti volby opatrovnické rady ani rozhodnutí o jmenování opatrovníka nemůže mít zásadní vliv na rozhodnutí soudu o schválení již učiněného právního jednání a proto zde nejsou důvody pro přerušení řízení.
+Proti rozhodnutí odvolacího soudu podal dne 26. ledna 2015 dovolání V. C. - syn omezené ve svéprávnosti. Dovolání považuje za přípustné podle ustanovení § 237 o.s.ř. a domnívá se, že v rozhodovací praxi dovolacího soudu nebyla (vzhledem k novému občanskému zákoníku) řešena otázka, kdy má být v řízení o schválení právního jednání ustanoven opatrovanci kolizní opatrovník a jakými hledisky se má soud při schvalování právního jednání řídit – a to zejména s přihlédnutím ke znění § 467 o.z. Navrhuje proto, aby napadené usnesení odvolacího soudu bylo zrušeno a věc mu vrácena k dalšímu řízení.
+K podanému dovolání nebylo podáno vyjádření.
+Nejvyšší soud jako soud dovolací (§ 10a o.s.ř.) přihlédl k čl. II bodu 2. zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, a vyšel tak ze znění tohoto procesního předpisu účinného od 1. ledna 2014. Zabýval se pak otázkou přípustnosti tohoto dovolání.
+Podle ustanovení § 236 odst. 1 o.s.ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+K dovolání je ve smyslu ustanovení § 240 odst. 1 o.s.ř. legitimován účastník řízení. Tím ovšem dovolatel není (§ 6 zákona č. 292/2013 Sb., o zvláštních řízeních soudních). Dovolání v předmětné věci tak bylo podáno někým, kdo k dovolání nebyl oprávněn. Dovolací soud toto dovolání z uvedeného důvodu ve smyslu ustanovení § 243c odst. 3 o.s.ř. ve spojení s § 218 písm. b) téhož zákona odmítl.
+I kdyby tomu tak nebylo, samotné dovolání neuvádí, resp. nezdůvodňuje žádnou z alternativ přípustnosti dovolání, uvedených v ustanovení § 237 o.s.ř., resp. takto nereaguje na důvody, na nichž je založeno napadené rozhodnutí odvolacího soudu.
+U výroku o náhradě nákladů dovolacího řízení se odkazuje na ustanovení § 243f odst. 3 věta druhá o.s.ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 31. srpna 2015
+JUDr. Pavel P a v l í k
+předseda senátu
