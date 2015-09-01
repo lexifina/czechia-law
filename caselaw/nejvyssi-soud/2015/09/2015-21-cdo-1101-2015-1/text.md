@@ -1,0 +1,14 @@
+21 Cdo 1101/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Romana Fialy a soudců JUDr. Jiřího Doležílka a JUDr. Ljubomíra Drápala v právní věci žalobce J. Š., zastoupeného Mgr. Martinem Křivohlavým, advokátem se sídlem v České Lípě, Paní Zdislavy č. 418/8, proti žalované České republice - Úřadu pro zastupování státu ve věcech majetkových v Praze 2, Rašínovo nábřeží č. 390/42, IČO 69797111, Územnímu pracovišti Střední Čechy, Rašínovo nábřeží č. 390/42, o určení dědického práva, vedené u Okresního soudu v Kladně pod sp. zn. 17 C 107/2012, o dovolání žalované proti rozsudku Krajského soudu v Praze ze dne 18. září 2014, č. j. 24 Co 318/2014-283, takto:
+I. Dovolání žalované se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Dovolání žalované proti rozsudku Krajského soudu v Praze ze dne 18.9.2014, č.j. 24 Co 318/2014-283, není přípustné podle ustanovení § 237 o.s.ř., neboť rozhodnutí odvolacího soudu je z hlediska závěru o povaze soužití žalobce se zůstavitelem J. P., zemřelým dne 12.10.2012, tj. z hlediska aplikace i interpretace ustanovení § 115 a § 475 odst. 1 zákona č. 40/1964 Sb., občanský zákoník (ve znění účinném do 31.12.2013; srov. § 3069 zákona č. 89/2012 Sb., občanský zákoník), v souladu s ustálenou rozhodovací praxí soudů (srov. například rozhodnutí Krajského soudu v Plzni ze dne 9.3.1967, sp. zn. 5 Co 54/67, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod č. 12, ročník 1968; zprávu bývalého Nejvyššího soudu ČSR ze dne 10.6.1982, sp. zn. Cpj 163/81, uveřejněnou ve Sbírce soudních rozhodnutí a stanovisek pod č. 34, ročník 1982; rozsudek Nejvyššího soudu ČR ze dne 20.2.2002, sp. zn. 26 Cdo 463/2000, publikovaný v časopise Soudní judikatura pod č. 44, ročník 2002; usnesení Nejvyššího soudu ČR ze dne 26.8.2008, sp. zn. 21 Cdo 29/2008; rozsudek Nejvyššího soudu ČR ze dne 28.2.2012, sp. zn. 21 Cdo 4795/2009; rozsudek Nejvyššího soudu ČR ze dne 10.10.2012, sp. zn. 21 Cdo 678/2011; usnesení Nejvyššího soudu ČR ze dne 26.10.2012, sp. zn. 21 Cdo 2301/2012; usnesení Nejvyššího soudu ČR ze dne 26.6.2013, sp. zn. 21 Cdo 1884/2012, nebo usnesení Nejvyššího soudu ČR ze dne 22.4.2014, sp. zn. 21 Cdo 1203/2013) a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+V části, v níž dovolatelka uplatnila jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o.s.ř. (vznáší-li výhrady proti správnosti skutkových zjištění soudů a proti jejich hodnocení důkazů), dovolání trpí vadami, pro které nelze v dovolacím řízení pokračovat.
+Nejvyšší soud České republiky proto dovolání žalované podle ustanovení § 243c odst. 1 věty první o.s.ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 věta druhá o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 1. září 2015
+JUDr. Roman Fiala
+předseda senátu
