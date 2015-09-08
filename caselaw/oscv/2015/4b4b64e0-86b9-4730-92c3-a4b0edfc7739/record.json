@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2015:17.C.79.2011.1",
+  "docket": "17 C 79/2011-77",
+  "date": "2015-09-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4b4b64e0-86b9-4730-92c3-a4b0edfc7739",
+  "source_sha256": "76835e6b7bc0e4e86b046c94e5c643418f2491f261a9f26dd0ae977f2617f700",
+  "source_id": "4b4b64e0-86b9-4730-92c3-a4b0edfc7739",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 79/2011-77",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Hana Jakubcová",
+    "ecli": "ECLI:CZ:OSCV:2015:17.C.79.2011.1",
+    "predmetRizeni": "vrácení provize - 23.176 Kč",
+    "datumVydani": "2015-09-08",
+    "datumZverejneni": "2021-06-29",
+    "klicovaSlova": [
+      "investiční fond",
+      "peněžité plnění",
+      "pojištění majetku",
+      "smlouva o obchodním zastoupení",
+      "započtení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 573 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 261 z. č. 513/1991 Sb.",
+      "§ 45 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4b4b64e0-86b9-4730-92c3-a4b0edfc7739"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
