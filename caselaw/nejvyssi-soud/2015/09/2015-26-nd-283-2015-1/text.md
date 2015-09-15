@@ -1,0 +1,15 @@
+26 Nd 283/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zbyňka Poledny a soudců JUDr. Miroslavy Jirmanové, Ph.D., a JUDr. Aleše Zezuly v exekuční věci oprávněné Vodafone Czech Republic a.s. se sídlem v Praze 5, náměstí Junkových č. 2808/2, identifikační číslo osoby 25788001, proti povinnému J. P. O., o 1 334 Kč s příslušenstvím, vedené u Okresního soudu ve Znojmě pod sp. zn. 8 EXE 207/2015, o určení místní příslušnosti soudu, takto:
+Věc, vedenou u Okresního soudu ve Znojmě pod sp. zn. 8 EXE 207/2015, projedná a rozhodne Okresní soud ve Znojmě.
+Odůvodnění:
+Oprávněná se návrhem podaným u Okresního soudu ve Znojmě domáhala, aby byla k vymožení pohledávky přiznané vykonatelným příkazem Českého telekomunikačního úřadu, odboru pro severomoravskou oblast, č. j. ČTÚ-144 173/2011-638/IV.vyř. – WiD, ze dne 23. června 2014, nařízena exekuce na majetek povinného a aby provedením exekuce byl pověřen soudní exekutor Mgr. Jan Pekárek, Exekutorský úřad Praha 10.
+Okresní soud ve Znojmě usnesením ze dne 7. července 2015, č. j. 8 EXE 207/2015-27, vyslovil svou místní nepříslušnost k projednání věci a rozhodl, že po uplynutí odvolací lhůty oprávněnému bude věc předložena Nejvyššímu soudu ČR, jenž určí soud, který věc projedná a rozhodne. Ze sdělení Krajského ředitelství policie Jihomoravského kraje - odboru cizinecké policie zjistil, že povinný má na území České republiky od 10. července 2006 povolen trvalý pobyt – sloučení s občanem ČR, přičemž tento pobyt je platný a trvá i nadále. Povinný měl od 10. července 2006 do 29. listopadu 2009 nahlášené bydliště ve Z., N. R. Není známo, kde v současné době pobývá, neboť nenahlásil změnu adresy a na žádné z prověřovaných adres si nepřebírá poštu.
+Podle ustanovení § 11 odst. 1 o. s. ř. se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení. Věcně a místně příslušným je vždy také soud, jehož příslušnost již není možné podle zákona zkoumat nebo jehož příslušnost byla určena pravomocným rozhodnutím příslušného soudu.
+Podle ustanovení § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Z obsahu spisu vyplývá, že věc patří do pravomoci českých soudů, avšak není známo, kde měl povinný v době zahájení řízení bydliště (tj. místo, kde se naposledy zdržoval s úmyslem zdržovat se tam trvale) ani kde se zdržoval; poslední nahlášené bydliště měl na adrese N. R., Z., tj. v obvodu Okresního soudu ve Znojmě, kde se ovšem nezdržuje.
+Nejvyšší soud České republiky po předložení věci Okresním soudem v Znojmě proto podle ustanovení § 11 odst. 3 o. s. ř. určil, přihlížeje k zásadě hospodárnosti, že věc projedná a rozhodne Okresní soud ve Znojmě, v jehož obvodu měl povinný poslední známé bydliště a u něhož bylo řízení zahájeno.
+Proti tomuto usnesení není přípustný opravný prostředek
+V Brně dne 15. září 2015
+JUDr. Zbyněk Poledna
+předseda senátu
