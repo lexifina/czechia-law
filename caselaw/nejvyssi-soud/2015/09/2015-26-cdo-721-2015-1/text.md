@@ -1,0 +1,14 @@
+26 Cdo 721/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu Doc. JUDr. Věrou Koreckou, CSc., ve věci žalobkyně hl. m. Prahy, se sídlem Praha 1, Mariánské nám. 2, zastoupené prof. Dr.h.c. JUDr. Janem Křížem, CSc., advokátem se sídlem Praha 1, Dlouhá 13, proti žalovanému ORIS Praha, spol. s r.o., IČO 43004474, se sídlem Praha 10, Konopišťská 739/16, zastoupenému JUDr. Ondřejem Rathouským, advokátem se dílem Praha 1, Ovocný trh 8, o vyklizení nemovitostí, vedené u Obvodního soudu pro Prahu 5 pod sp. zn. 28 C 122/2010, o dovolání žalovaného proti rozsudku Městského soudu v Praze ze dne 16. dubna 2014, č. j. 13 Co 69/2014-267, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í:
+Žalovaný podal dovolání proti rozsudku Městského soudu v Praze (soudu odvolacího) ze dne 16. 4. 2014, č. j. 13 Co 69/2014-267.
+Nejvyšší soud dovolání podle § 243f odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění do 31. 12. 2013 (srov. článek II., bod 1. přechodných ustanovení zákona č. 404/2012 Sb., a část první, článek II. bod 2 zákona č. 293/2013 Sb.) – dále jen „o. s. ř.“, odmítl, neboť bylo podáno opožděně.
+Podle § 240 o. s. ř. může účastník podat dovolání do dvou měsíců od doručení rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni. Bylo-li odvolacím soudem vydáno opravné usnesení, běží tato lhůta od doručení opravného usnesení (odst. 1). Zmeškání lhůty uvedené v odstavci 1 nelze prominout. Lhůta je však zachována, bude-li dovolání podáno ve lhůtě u odvolacího nebo dovolacího soudu (odst. 2 věta první před středníkem o. s. ř.). Lhůta je zachována také tehdy, jestliže dovolání bylo podáno po uplynutí dvouměsíční lhůty proto, že se dovolatel řídil nesprávným poučením soudu o dovolání. Neobsahuje-li rozhodnutí poučení o dovolání nebo o soudu, u něhož se podává, nebo obsahuje-li nesprávné poučení o tom, že dovolání není přípustné, lze podat dovolání do tří měsíců od doručení (odst. 3).
+Vzhledem k tomu, že žalovaný byl o možnosti podat dovolání poučen správně, měl pro podání dovolání lhůtu dva měsíce od doručení rozhodnutí odvolacího soudu (§ 240 odst. 1 o. s. ř.). Jak je zřejmé z obsahu spisu, dovoláním napadený rozsudek byl tehdejšímu právnímu zástupci žalovaného doručen dne 23. 4. 2014 (viz č. l. 271 verte) a nabyl tohoto dne právní moci. Poslední den lhůty k podání dovolání připadl na 23. 6. 2014 (pondělí). Dovolání žalovaného adresované soudu prvního stupně, bylo dáno k poštovní přepravě dne 26. 6. 2014 (viz č. l. 311), tedy po uplynutí zákonem stanovené lhůty, jejíž zmeškání nelze prominout. Nejvyšší soud proto opožděné dovolání podle § 243b odst. 5 věty první, § 218a o. s. ř. odmítl.
+Nejvyšší soud nerozhoduje o nákladech dovolacího řízení, nejde-li o rozhodnutí, jímž se řízení končí.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 17. září 2015
+Doc. JUDr. Věra Korecká, CSc.
+předsedkyně senátu
