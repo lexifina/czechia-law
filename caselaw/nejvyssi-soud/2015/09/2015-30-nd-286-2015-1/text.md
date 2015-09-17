@@ -1,0 +1,28 @@
+30 Nd 286/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Simona a soudců JUDr. Františka Ištvánka a JUDr. Pavla Vlacha ve věci žalobkyně České spořitelny, a. s., IČ 45244782, se sídlem v Praze 4, Olbrachtova 1929/62, zastoupené JUDr. Ivem Jandou, Ph.D., advokátem se sídlem v Praze 1, Na Příkopě 854/14, proti žalované Mlyn Sládkovičovo, a. s., IČ 36244473, se sídlem v Košicích, Hlavná 25, Slovenská republika, o návrhu na určení místní příslušnosti, takto:
+Žalobu České spořitelny, a. s., o zaplacení částky 2 500 000 EUR proti žalované Mlyn Sládkovičovo, a. s., projedná a rozhodne Obvodní soud pro Prahu 4.
+Odůvodnění:
+Podáním ze dne 25. srpna 2015 učinila žalobkyně návrh, aby Nejvyšší soud podle ustanovení § 11 odst. 3 zákona č. 99/1963 Sb., občanský soudní řád (dále jen „o. s. ř.“), určil, který soud České republiky projedná a rozhodne její žalobu proti žalované Mlyn Sládkovičovo, a. s., jíž se z titulu ručení domáhá zaplacení částky 2 500 000 EUR.
+V odůvodnění návrhu na určení místně příslušného soudu žalobkyně uvedla, že ve smlouvě o poskytnutí ručení ze dne 20. října 2010 se žalovaná zavázala uspokojit na výzvu žalobkyně peněžité závazky dlužníka, společnosti EUROMILLS-TRADE, a. s., vzniklé ze smlouvy o akvizičním úvěru. Žalobkyně tvrdí, že dlužník své závazky ze smlouvy o akvizičním úvěru řádně a včas neuhradil, proto žalobkyně úvěr zesplatnila a obrátila se později na žalovanou, aby závazky dlužníka v souladu s ručitelským prohlášením uhradila. Žalovaná však podle žalobkyně částku nezaplatila.
+Podle žalobkyně je pravomoc soudů České republiky založena čl. 7.1 a 7.2 smlouvy o poskytnutí ručení, ve kterých se strany dohodly, že pravomoc pro řešení sporů vzniklých ze smlouvy mají české soudy.
+Podle ustanovení § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Nejvyšší soud nejprve zkoumal, zda je dána pravomoc českých soudů věc rozhodnout.
+Před aplikováním zákona o mezinárodním právu soukromém je třeba přihlédnout k úpravě obsažené v normách práva Evropské unie, které mají aplikační přednost před právem členských států.
+Vzhledem k tomu, že návrh na určení příslušnosti byl Nejvyššímu soudu doručen dne 25. srpna 2015, postupoval Nejvyšší soud podle nařízení Evropského parlamentu a Rady (EU) č. 1215/2012 ze dne 12. prosince 2012, o příslušnosti a uznávání a výkonu soudních rozhodnutí v občanských a obchodních věcech (přepracované znění), dále jen „nařízení Brusel I bis“ (srov. čl. 66 odst. 1 nařízení Brusel I bis, podle něhož se toto nařízení vztahuje pouze na řízení zahájená, na veřejné listiny formálně vyhotovené nebo registrované a na soudní smíry schválené či uzavřené ke dni 10. ledna 2015 nebo po něm).
+Podle čl. 25 odst. 1 nařízení Brusel I bis bez ohledu na bydliště stran, dohodnou-li se tyto strany, že v již vzniklém nebo budoucím sporu z určitého právního vztahu má příslušnost soud nebo soudy některého členského státu, je příslušný soud nebo soudy tohoto státu, pokud tato dohoda není z hlediska své věcné platnosti podle práva tohoto členského státu neplatná. Pokud se strany nedohodnou jinak, je tato příslušnost výlučná. Tato dohoda o příslušnosti musí být uzavřena:
+a) písemně nebo ústně s písemným potvrzením;
+b) ve formě, která odpovídá zvyklostem zavedeným mezi těmito stranami, nebo
+c) v mezinárodním obchodě ve formě, která odpovídá obchodním zvyklostem, které strany znaly nebo musely znát a které strany smluv tohoto druhu v daném odvětví obchodu obecně znají a pravidelně se jimi řídí.
+Z kopie smlouvy o poskytnutí ručení předložené žalobkyní Nejvyšší soud zjistil, že podle čl. 7.2 této smlouvy „veškeré spory, které vzniknou na základě nebo v souvislosti s touto smlouvou, budou s konečnou platností rozhodovány věcně a místně příslušnými soudy České republiky.“
+Vzhledem k tomu, že ve věci není dána výlučná příslušnost soudů podle čl. 24 nařízení Bruselu I bis, a strany si sjednaly mezinárodní příslušnost českých soudů postupem předvídaným v čl. 25 odst. 1 nařízení Brusel I bis, Nejvyšší soud uzavřel, že mezinárodní příslušnost soudů České republiky je dána.
+Nejvyšší soud se dále zabýval otázkou místní příslušnosti konkrétního soudu v České republice.
+Podle ustanovení § 84 o. s. ř. je k řízení příslušný obecný soud účastníka, proti němuž návrh směřuje (žalovaného), není-li stanoveno jinak.
+Podle ustanovení § 85 odst. 3 o. s. ř. je obecným soudem právnické osoby okresní soud, v jehož obvodu má sídlo.
+Podle ustanovení § 86 odst. 2 o. s. ř. proti tomu, kdo nemá jiný příslušný soud v České republice, je možno uplatnit majetková práva u soudu, v jehož obvodu má majetek. Podle odst. 3 uvedeného ustanovení lze proti zahraniční osobě podat žalobu (návrh na zahájení řízení) i u soudu, v jehož obvodu je v České republice umístěn její závod nebo organizační složka jejího závodu.
+Žalovaná je právnická osoba se sídlem na Slovensku, v České republice není umístěn její závod ani organizační složka závodu a z obsahu spisu nevyplývá, že by v České republice měla majetek.
+Z výše uvedeného je zřejmé, že jsou naplněny zákonné předpoklady pro určení místně příslušného soudu podle § 11 odst. 3 o. s. ř. Nejvyšší soud určil, že žalobu projedná a rozhodne Obvodní soud pro Prahu 4, v jehož obvodu se nachází sídlo žalobkyně, a který žalobkyně k projednání věci navrhuje. Podle smlouvy o poskytnutí ručení předložené žalobkyní byla P. rovněž místem, v němž byla smlouva podepsána.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 17. září 2015
+JUDr. Pavel Simon
+předseda senátu
