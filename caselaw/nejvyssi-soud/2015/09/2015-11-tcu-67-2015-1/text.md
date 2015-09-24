@@ -1,0 +1,17 @@
+11 Tcu 67/2015-15
+U S N E S E N Í
+Nejvyšší soud projednal dne 24. září 2015 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl takto:
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení občana České republiky A. P., rozsudkem Zemského soudu Korneuburg, Rakouská republika, ze dne 18. 8. 2014, sp. zn. 506 Hv 49/14d, hledí jako na odsouzení soudem České republiky.
+Odůvodnění:
+Rozsudkem Zemského soudu Korneuburg, Rakouská republika, ze dne 18. 8. 2014, sp. zn. 506 Hv 49/14d, který nabyl právní moci téhož dne, byl A. P. uznán vinným trestným činem krádeže vloupáním, podle rakouského trestního zákona, a odsouzen k nepodmíněnému trestu odnětí svobody v trvání 15 (patnácti) měsíců.
+Podle skutkových zjištění cizozemského soudu A. P. spáchal trestnou činnost v podstatě tím, že dne 14. 10. 2012 ve Falkensteinu, po rozbití a násilném vypáčení okna, se vloupal do kancelářských prostor vinotéky Weinkellnerei Dürnberq „Fine Wine GmbH“, odkud ke škodě oprávněné společnosti „Fine Wine GmbH“ odcizil notebook zn. EXTENSA, notebook zn. ASUS a PC zn. DELL v celkové hodnotě 1.670,48 Eur, a to v úmyslu přivlastněním si odcizených předmětů sebe neoprávněně obohatit. Výměnou poškozeného okna vznikla poškozené společnosti škoda ve výši 1.000,- Eur.
+Ministerstvo spravedlnosti České republiky podalo ve shora uvedené věci Nejvyššímu soudu návrh na přijetí rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů (dále jen „zákon“).
+Nejvyšší soud věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro rozhodnutí podle § 4a odst. 3 zákona.
+Především je třeba uvést, že podle § 4a odst. 3 zákona rozhodne Nejvyšší soud na návrh Ministerstva spravedlnosti ČR, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Z podaného návrhu a z obsahu připojeného spisu vyplývá, že odsouzený A. P. je občanem České republiky, byl odsouzen cizozemským soudem a odsouzení se týká skutku, který vykazuje znaky trestných činů i podle příslušných právních předpisů České republiky (trestných činů krádeže podle § 205 tr. zákoníku a poškození cizí věci podle § 228 tr. zákoníku). Tím jsou splněny formální podmínky ustanovení § 4a odst. 3 zákona.
+V posuzované věci jsou ovšem dány i podmínky materiální povahy. Odsouzený A. P. se dopustil majetkové trestné činnosti, kterou způsobil vyšší škodu na cizím majetku. Společenská škodlivost jeho trestné činnosti je zvyšována zejména způsobem jejího provedení. Z obsahu spisového materiálu rovněž vyplynulo, že v minulosti byl již pro majetkovou trestnou činnost odsouzen v České republice. Pokud jde o druh uloženého trestu, ze spisového materiálu vyplynulo, že odsouzenému byl uložen nezanedbatelný trest odnětí svobody. Lze tedy dovodit, že jsou splněny všechny podmínky pro to, aby se na výše uvedené odsouzení A. P. hledělo jako na odsouzení soudem České republiky.
+Z uvedených důvodů proto Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 24. září 2015
+JUDr. Antonín Draštík
+předseda senátu
