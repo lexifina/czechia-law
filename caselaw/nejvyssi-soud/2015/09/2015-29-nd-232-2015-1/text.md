@@ -1,0 +1,13 @@
+29 Nd 232/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudců JUDr. Jiřího Zavázala a Mgr. Milana Poláška v exekuční věci oprávněné E.ON Energie, a. s., se sídlem v Českých Budějovicích, F. A. Gerstnera 2151/6, PSČ 370 49, identifikační číslo osoby 26 07 82 01, zastoupené Mgr. Pavlem Vincíkem, advokátem, se sídlem v Praze 1, Ovocný trh 1096/8, PSČ 110 00, proti povinné V. H., zastoupené opatrovníkem JUDr. Jaroslavou Navrátilovou, advokátkou, se sídlem v Kroměříži, Jánská 25/1, PSČ 767 01, pro 15.971,- Kč s příslušenstvím, vedené u Okresního soudu v Kroměříži pod sp. zn. 32 EXE 786/2015, o určení místní příslušnosti soudu, takto:
+Věc vedenou u Okresního soudu v Kroměříži pod sp. zn. 32 EXE 786/2015 projedná a rozhodne Okresní soud v Kroměříži.
+Odůvodnění:
+Návrhem datovaným 27. dubna 2015, podaným u soudního exekutora JUDr. Aleny Blažkové, Ph.D., Exekutorský úřad Brno - město, se oprávněná domáhá pověření exekutora k provedení exekuce vůči povinné pro pohledávku ve výši 15.971,- Kč s příslušenstvím. Dne 28. dubna 2015 soudní exekutor požádal Okresní soud v Kroměříži o pověření a nařízení exekuce.
+Usnesením ze dne 15. května 2015, č. j. 32 EXE 786/2015-16, Okresní soud v Kroměříži vyslovil svou místní nepříslušnost s tím, že po uplynutí odvolací lhůty bude věc předložena Nejvyššímu soudu, jenž určí soud, který věc projedná a rozhodne.
+Podle ustanovení § 11 odst. 3 zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne (srov. i usnesení velkého senátu občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne 12. listopadu 2014, sp. zn. 31 Nd 316/2013, uveřejněné pod číslem 11/2015 Sbírky soudních rozhodnutí a stanovisek).
+Vzhledem k tomu, že povinná toho času není přihlášena k pobytu na území České republiky, nelze ji vyhledat přes centrální evidenci obyvatel a na uváděné adrese nebydlí, Nejvyšší soud v souladu se závěry formulovanými v usnesení velkého senátu občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne 12. září 2012, sp. zn. 31 Nd 200/2012, uveřejněném pod číslem 4/2013 Sbírky soudních rozhodnutí a stanovisek, a při respektování zásady hospodárnosti řízení rozhodl podle ustanovení § 11 odst. 3 o. s. ř. tak, že jako místně příslušný soud v dané věci určil Okresní soud v Kroměříži, u kterého bylo řízení zahájeno.
+Proti tomuto usnesení není přípustný opravný prostředek
+V Brně dne 30. září 2015
+JUDr. Petr Gemmel
+předseda senátu
