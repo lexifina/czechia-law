@@ -1,0 +1,19 @@
+30 Nd 302/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Ištvánka a soudců JUDr. Pavla Vlacha a JUDr. Pavla Simona ve věci oprávněné Všeobecné zdravotní pojišťovny České republiky, identifikační číslo osoby 41197518, se sídlem v Praze 3, Orlická 2020/4, proti povinnému H. V. T., vedené u Okresního soudu v Chomutově pod sp. zn. 26 EXE 12461/2015, o určení místní příslušnosti podle § 11 odst. 3 o. s. ř., takto:
+Věc vedenou u Okresního soudu v Chomutově pod sp. zn. 26 EXE 12461/2015 projedná a rozhodne Okresní soud v Chomutově.
+O d ů v o d n ě n í:
+Okresnímu soudu v Chomutově (dále jen „exekuční soud“) byla dne 3. 6. 2015 doručena žádost soudního exekutora o pověření a nařízení exekuce na majetek povinného.
+Exekuční soud usnesením ze dne 2. 9. 2015, č. j. 26 EXE 12461/2015-16, vyslovil svoji místní nepříslušnost a rozhodl, že věc bude po uplynutí lhůty k podání odvolání oprávněným předložena Nejvyššímu soudu k určení, který soud věc projedná a rozhodne, podle § 11 odst. 3 zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“).
+Důvodem pro uvedený postup exekučního soudu bylo zjištění, že povinný není státním občanem České republiky a nemá na území České republiky povolen pobyt.
+Podle § 45 odst. 2 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád), ve znění účinném od 1. 1. 2013 (dále jen „exekuční řád“), místně příslušným exekučním soudem je soud, v jehož obvodu má povinný, je-li fyzickou osobou, místo svého trvalého pobytu7b), popřípadě místo pobytu na území České republiky podle druhu pobytu cizince7d),7e). Je-li povinný právnickou osobou, je místně příslušným soud, v jehož obvodu má povinný sídlo. Nemá-li povinný, který je fyzickou osobou, v České republice místo trvalého pobytu nebo místo pobytu podle věty první, nebo nemá-li povinný, který je právnickou osobou, sídlo v České republice, je místně příslušným soud, v jehož obvodu má povinný majetek.
+Podle § 52 odst. 1 exekučního řádu platí, že nestanoví-li exekuční řád jinak, použijí se pro exekuční řízení přiměřeně ustanovení občanského soudního řádu.
+Podle § 105 odst. 2 o. s. ř. vysloví-li soud, že není příslušný, postoupí věc po právní moci tohoto usnesení příslušnému soudu nebo ji za podmínek § 11 odst. 3 předloží Nejvyššímu soudu.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Z obsahu spisu vyplývá, že povinný nemá na území České republiky místo pobytu ve smyslu § 45 odst. 2 věty první exekučního řádu. Skutečnost, zda má povinný na území České republiky exekučně postižitelný majetek, vyjde najevo až při činnosti soudem pověřeného soudního exekutora v rámci provádění exekuce. Exekuční soud proto před nařízením exekuce a pověřením exekutora jejím provedením nezjišťuje existenci majetku povinného (srov. usnesení velkého senátu občanskoprávního a obchodního kolegia Nejvyššího soudu České republiky ze dne 12. 9. 2012, sp. zn. 31 Nd 200/2012, uveřejněné pod č. 4/2013 Sbírky soudních rozhodnutí a stanovisek).
+Z uvedeného je zřejmé, že místně příslušný exekuční soud podle § 45 odst. 2 exekučního řádu nelze zjistit a zákonné předpoklady pro jeho určení Nejvyšším soudem podle § 11 odst. 3 o. s. ř. jsou tak naplněny.
+S ohledem na zásadu rychlosti a hospodárnosti řízení Nejvyšší soud rozhodl tak, že předmětnou věc projedná a rozhodne Okresní soud v Chomutově, u něhož bylo řízení zahájeno. Žádné okolnosti, pro něž by se jevilo vhodným určit místně příslušným exekučním soudem jiný soud než ten, u nějž bylo řízení zahájeno, v řízení najevo nevyšly.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 30. 9. 2015
+JUDr. František I š t v á n e k
+předseda senátu
