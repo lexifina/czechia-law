@@ -1,0 +1,12 @@
+26 Cdo 4082/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Zbyňkem Polednou v exekuční věci oprávněného Obec Malé Přítočno, se sídlem v Malém Přítočnu, Kladenská 10, identifikační číslo osoby 00663999, zastoupeného JUDr. Miroslavem Jirákem, advokátem se sídlem v Kladně, Saskova č. 1961, proti povinným 1) V. B., 2) M. B., zastoupeným Mgr. Ondřejem Tejnorou, advokátkou se sídlem v Praze 5, Janáčkovo nábřeží č. 57, vedené u Okresního soudu v Kladně pod sp. zn. 23 EXE 41/2013, o dovolání povinných proti usnesení Krajského soudu v Praze ze dne 18. března 2015, č. j. 30 Co 363/2014-222, takto:
+Dovolání povinných se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky dovolání povinných proti usnesení Krajského soudu v Praze ze dne 18. března 2015, č. j. 30 Co 363/2014-222, kterým potvrdil usnesení Okresního soudu v Kladně ze dne 10. července 2014, č. j. 23 EXE 41/2013-91, o zamítnutí návrhu povinných na zastavení exekuce, podle ustanovení § 243c odst. 1 věty první zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. prosince 2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, odmítl, neboť je v něm uplatněn jiný dovolací důvod než ten, který je uveden v ustanovení § 241a odst. 1 o. s. ř. (podstatou námitek dovolatelů jsou vady nalézacího řízení spočívající v nezjištění hranice mezi pozemky ve vlastnictví oprávněného a povinných, které se však, i kdyby skutečně existovaly, do exekučního řízení nepřenášejí a exekuční soud se jimi nezabývá – k tomu srov. usnesení Nejvyššího soudu ze dne 17. května 2007, sp. zn. 20 Cdo 935/2007, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod číslem 62/2004, a dále nesouhlasí se závěrem odvolacího soudu, že doposud nesplnili povinnost uloženou jim exekučním titulem; napadají proto hodnocení skutkového stavu po provedeném dokazování, které není přípustným dovolacím důvodem). S ohledem na výše uvedené v dovolacím řízení nelze pokračovat.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/
+a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 1. října 2015
+JUDr. Zbyněk Poledna
+předseda senátu
