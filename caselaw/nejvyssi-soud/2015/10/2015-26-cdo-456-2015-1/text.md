@@ -1,0 +1,11 @@
+26 Cdo 456/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Zbyňkem Polednou v exekuční věci oprávněné FRYMIS, a. s. se sídlem ve Frýdku-Místku, Slezská č. 2766, identifikační číslo osoby, zastoupené JUDr. Taťánou Přibilovou, advokátkou se sídlem v Kopřivnici, Kadláčkova č. 894/17, proti povinnému Ing. R. K., zastoupenému JUDr. Kateřinou Vodičkovou, advokátkou se sídlem v Praze 1, Vodičkova č. 792/40, pro 47 835 000 Kč s příslušenstvím, vedené u Okresního soudu v Praze – západ pod sp. zn. 216 EXE 5323/2012, o dovolání povinného proti usnesení Krajského soudu v Praze ze dne 15. března 2013, č. j. 17 Co 329/2012-114, takto:
+Dovolání se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky dovolání povinného proti usnesení Krajského soudu v Praze ze dne 15. března 2013, č. j. 17 Co 329/2012-114, kterým bylo potvrzeno usnesení Okresního soudu Praha – západ ze dne 14. února 2012, sp. zn. 216 EXE 5323/2012, o nařízení exekuce na majetek povinného, podle ustanovení § 243c odst. 1 věty první zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. prosince 2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, odmítl, neboť dovolání nesplňuje obligatorní náležitosti dovolání uvedené v ustanovení § 241a odst. 2 o. s. ř., když neobsahuje vymezení dovolacího důvodu způsobem uvedeným v ustanovení § 241a odst. 3 o. s. ř. (podstata námitek dovolatele spočívá v nesouhlasu s právním posouzením podmínek řízení, resp. místní nepříslušnosti exekučního soudu, který rozhodoval o nařízení exekuce na majetek povinného, nikoliv v nesouhlasu s právním posouzením věci, tj. samotným nařízením exekuce – k tomu srov. v obdobné věci usnesení Nejvyššího soudu ze dne 23. července 2014, sp. zn. 30 Cdo 2266/2014, a v něm citovaná rozhodnutí). V dovolacím řízení proto nelze pokračovat.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 1. října 2015
+JUDr. Zbyněk Poledna
+předseda senátu
