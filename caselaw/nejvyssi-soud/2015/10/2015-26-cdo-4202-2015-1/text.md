@@ -1,0 +1,12 @@
+26 Cdo 4202/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Zbyňkem Polednou v exekuční věci oprávněné Mercedes-Benz Financial Services Česká republika s. r. o. se sídlem v Praze 4, Daimlerova č. 229/2, zastoupené JUDr. Janem Šťovíčkem, Ph.D., advokátem se sídlem v Praze 4, Hvězdova č. 1716/2b, proti povinným 1) K. Š., 2) V. Š., za účasti vydražitele M. U., zastoupeného Mgr. Bc. Rudolfem Vinšem, advokátem se sídlem v Karlových Varech, Západní č. 1448/16, a předražitele T. K., pro 8 746 144,57 Kč s příslušenstvím, vedené u Okresního soudu v Mělníku pod sp. zn. 4 Nc 3146/2006 a u soudního exekutora JUDr. Milana Usnula, Exekutorský úřad Praha 9 pod sp. zn. 098 EX 01710/06, o dovolání vydražitele proti usnesení Krajského soudu v Praze ze dne 1. července 2015, sp. zn. 20 Co 213/2015, takto:
+I. Dovolání vydražitele se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky dovolání vydražitele proti usnesení Krajského soudu v Praze ze dne 1. července 2015, sp. zn. 20 Co 213/2015, podle ustanovení § 243c odst. 1 věty první zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen o. s. ř., odmítl, neboť dovolání především nesplňuje obligatorní náležitosti dovolání uvedené v ustanovení § 241a odst. 2 o. s. ř., když neobsahuje údaj o tom, v čem přesně dovolatel spatřuje splnění předpokladů přípustnosti dovolání uvedených v ustanovení § 237 o. s. ř., když v dovolání namítá pouze nesprávný postup odvolacího soudu při projednání jím podaného odvolání do usnesení soudního exekutora JUDr. Milana Usnula, Exekutorský úřad Praha 9, ze dne 1. dubna 2015, č. j. 098 EX 01710/06-150, o předražku, ale odvolací soud rozhodl napadeným usnesením i o usnesení téhož soudního exekutora ze dne 25. února 2015, č. j. 098 EXE 01710/06-143, o příklepu, čímž měl překročit svoji pravomoc. Tato námitka nemůže založit způsobilý dovolací důvod, protože rozhodnutí odvolací soudu je v souladu s ustanovením § 336k odst. 4 občanského soudního řádu v platném znění. V dovolacím řízení proto nelze pro tento nedostatek pokračovat.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 1. října 2015
+JUDr. Zbyněk Poledna
+předseda senátu
