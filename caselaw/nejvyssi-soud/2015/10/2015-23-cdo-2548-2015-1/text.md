@@ -1,0 +1,25 @@
+23 Cdo 2548/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Kateřiny Hornochové a soudců JUDr. Zdeňka Dese a Mgr. Miroslava Hromady, Ph.D. ve věci žalobkyně Kooperativa pojišťovna, a. s., Vienna Insurance Group, se sídlem v Praze 8, Pobřežní 665/21, PSČ 186 00, IČO 47116617, proti žalované COLT OSTRAVA, spol. s r. o., se sídlem ve Staré Vsi nad Ondřejnicí, Nad Školou 250, PSČ 739 23, IČO 47670461, o zaplacení částky 4 036 231 Kč s příslušenstvím, vedené u Krajského soudu v Ostravě pod sp. zn. 1 Cm 59/2012, o dovolání žalobkyně proti usnesení Vrchního soudu v Olomouci ze dne 6. ledna 2015, č. j. 4 Cmo 334/2014 – 67, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění:
+(§ 243f odst. 3 občanského soudního řádu, dále jen „o. s. ř.“)
+Podáním ze dne 7. září 2012 se žalobkyně domáhala po žalované zaplacení částky 4 036 231 Kč s příslušenstvím. Soud prvního stupně žalobkyni usnesením ze dne 3. dubna 2014, č. j. 1 Cm 59/2012 – 29, které bylo žalobkyni doručeno dne 3. dubna 2014, žalobkyni sdělil, že podání neobsahuje dostatečné vylíčení rozhodujících skutečností, zejména v něm není uvedeno, z jakého důvodu žalobkyně požaduje vrácení provizí v jednotlivých případech. Vyzval proto žalobkyni, aby ve lhůtě dvaceti dnů doplnila chybějící náležitosti tak, že ke každé jednotlivé smlouvě uvede, z jakého důvodu a kdy zanikl nárok na provizi, resp. proč nevznikl. Současně byla žalobkyně poučena o následcích pro případ, že výzvě včas nevyhoví (§ 43 odst. 2 o. s. ř.). Žalobkyně ve stanovené lhůtě vytýkané vady podání řádně neodstranila.
+Krajský soud v Ostravě usnesením ze dne 8. září 2014, č. j. 1 Cm 59/2012 – 36, podání žalobkyně ze dne 7. září 2012 odmítl (výrok pod bodem I), uložil žalobkyni povinnost zaplatit žalované na nákladech řízení částku 89 878,80 Kč (výrok pod bodem II) a rozhodl o vrácení soudního poplatku žalobkyni ve výši 201 810 Kč (výrok pod bodem III).
+K odvolání žalobkyně Vrchní soud v Olomouci usnesením ze dne 6. ledna 2015, č. j. 4 Cmo 334/2014 – 67, rozhodnutí soudu prvního stupně potvrdil (výrok pod bodem I) a rozhodl o náhradě nákladů odvolacího řízení (výrok pod bodem II).
+Rozhodnutí odvolacího soudu napadla žalobkyně dovoláním, které považuje za přípustné dle § 237 o. s. ř. a důvodné ve smyslu § 241a o. s. ř., neboť napadené rozhodnutí spočívá na nesprávném právním posouzení věci. Podle dovolatelky byly rozhodující skutečnosti vylíčeny dostatečně.
+Dovolatelka navrhuje, aby Nejvyšší soud napadené usnesení odvolacího soudu zrušil a věc mu vrátil k dalšímu řízení.
+Žalovaná se dle obsahu spisu k dovolání nevyjádřila.
+Nejvyšší soud jako soud dovolací (§ 10a o. s. ř.) věc projednal podle zákona č. 99/1963 Sb., ve znění účinném do 31. prosince 2013 (srov. bod 2 článku II., zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony).
+Nejvyšší soud po zjištění, že dovolání bylo podáno včas (§ 240 odst. 1 o. s. ř.) k tomu oprávněným subjektem (účastnicí řízení), který je řádně zastoupen (§ 241 odst. 2 písm. b) o. s. ř. ve spojení s § 21 odst. 1 písm. b) o. s. ř.), dospěl k závěru, že dovolání neobsahuje stanovené náležitosti.
+Dle ustanovení § 241a odst. 2 o. s. ř. musí být v dovolání vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu se rozhodnutí napadá, vymezení důvodu dovolání, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) a čeho se dovolatel domáhá (dovolací návrh).
+Požadavek, aby dovolatel v dovolání uvedl, v čem spatřuje splnění předpokladů přípustnosti dovolání, je podle § 241a odst. 2 o. s. ř. obligatorní náležitostí dovolání. Může-li být dovolání přípustné jen podle § 237 o. s. ř., je dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné, přičemž k projednání dovolání nepostačuje pouhá citace textu ustanovení § 237 o. s. ř. či jeho části.
+Tomuto požadavku však dovolatelka nedostála, pouze uvádí, že dovolání je přípustné podle ustanovení § 237 o. s. ř.
+Podle první věty § 241b odst. 3 o. s. ř. dovolání, které neobsahuje údaje o tom, v jakém rozsahu se rozhodnutí odvolacího soudu napadá, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) nebo které neobsahuje vymezení důvodu dovolání, může být o tyto náležitosti doplněno jen po dobu trvání lhůty k dovolání. Podle § 243c odst. 1 o. s. ř. dovolání, které trpí vadami, jež nebyly ve lhůtě (§ 241b odst. 3) odstraněny a pro něž nelze v dovolacím řízení pokračovat, dovolací soud odmítne.
+Nejvyšší soud proto dovolání žalobkyně podle § 243c odst. 1 věty první o. s. ř. odmítl, neboť v dovolacím řízení nelze pro uvedenou vadu pokračovat.
+Rozhodnutí o náhradě nákladů se neodůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 7. října 2015
+JUDr. Kateřina H o r n o ch o v á
+předsedkyně senátu
