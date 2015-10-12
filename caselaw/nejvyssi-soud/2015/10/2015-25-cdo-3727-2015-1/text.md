@@ -1,0 +1,11 @@
+25 Cdo 3727/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Petrem Vojtkem v právní věci žalobkyně V.D.KUKA a. s., se sídlem v Praze 2, Vinohradská 1789/40, IČO 25767593, zastoupené JUDr. Alanem Korbelem, advokátem se sídlem v Praze 1, Vodičkova 736/17, proti žalované M. Š., zastoupené JUDr. Petrem Zderčíkem, advokátem se sídlem v Praze 1, Hradčanské náměstí 63/9, o 1.862.000,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 38 C 246/2013, o dovolání žalované proti usnesení Městského soudu v Praze ze dne 14. 1. 2015, č. j. 70 Co 509/2014-53, takto:
+Dovolání se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Nejvyšší soud odmítl dovolání žalované proti usnesení Městského soudu v Praze ze dne 14. 1. 2015, č. j. 70 Co 509/2014-53, podle § 243c odst. 1 věty první o.s.ř., neboť neobsahuje zákonem požadované údaje o tom, v čem dovolatelka spatřuje splnění předpokladů přípustnosti dovolání (§ 241a odst. 2 o.s.ř.), a v dovolacím řízení nelze pokračovat, neboť v důsledku absence uvedené náležitosti nelze posoudit přípustnost dovolání. Dovolatelka namítá, že odvolací soud nesprávně aplikoval zákonnou zásadu individualizace skutkového děje prostřednictvím žalobního tvrzení účastníka, nevymezuje však vůbec, od konkrétně jaké ustálené rozhodovací praxe dovolacího soudu se odvolací soud při řešení rozhodné právní otázky odchýlil, případně zda v rozhodovací praxi dovolacího soudu ještě nebyla vyřešena, je rozhodována rozdílně anebo má být posouzena jinak. Může-li být přitom dovolání přípustné jen podle § 237 o.s.ř., je dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné (srov. např. usnesení Nejvyššího soudu ze dne 25. 9. 2013, sp. zn. 29 Cdo 2394/2013, publikované pod č. 4/2014 Sbírky soudních rozhodnutí a stanovisek, nebo usnesení Ústavního soudu ze dne 21. 1. 2014, sp. zn. I. ÚS 3524/13, ze dne 8. 7. 2014, sp. zn. II. ÚS 4031/13, ze dne 26. 6. 2014, sp. zn. III. ÚS 1675/14, a ze dne 15. 10. 2014, sp. zn. IV. ÚS 2901/14).
+O náhradě nákladů dovolacího řízení nebylo rozhodováno, neboť řízení pokračuje před soudem prvního stupně a o všech nákladech včetně řízení dovolacího bude rozhodnuto v konečném rozhodnutí.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 12. října 2015
+JUDr. Petr Vojtek
+předseda senátu
