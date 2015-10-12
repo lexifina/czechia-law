@@ -1,0 +1,13 @@
+26 Cdo 2326/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu JUDr. Jitkou Dýškovou v právní věci žalobce statutárního města Liberce, se sídlem v Liberci, nám. Dr. E. Beneše 1, IČO 00262978, proti žalovanému M. T., zastoupenému JUDr. Milošem Pleštilem, advokátem se sídlem v Liberci, Vlčí vrch 672/28, o vyklizení bytu, vedené u Okresního soudu v Liberci pod sp. zn. 29 C 181/2012, o dovolání žalovaného proti rozsudku Krajského soudu v Ústí nad Labem – pobočky v Liberci ze dne 18. prosince 2013, č. j. 35 Co 589/2013-76, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky dovolání žalovaného proti rozsudku Krajského soudu v Ústí nad Labem – pobočky v Liberci ze dne 18. prosince 2013, č. j. 35 Co 589/2013-76, odmítl podle § 243c odst. 1 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. prosince 2013 (viz čl. II bod 2. zákona č. 293/2013 Sb. – dále jen „o. s. ř.“), neboť neobsahuje náležitosti vyžadované ustanovením § 241a odst. 2 o. s. ř., přičemž tyto vady (nedostatky), pro něž nelze v dovolacím řízení pokračovat, dovolatel včas (po dobu trvání lhůty k dovolání) neodstranil (§ 241b odst. 3 o. s. ř.). Konkrétně v dovolání schází relevantní údaj o tom, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání, jež je podle § 241a odst. 2 o. s. ř obligatorní náležitostí dovolání. Z dovolání (jeho obsahu) proto musí být zřejmé, které z hledisek uvedených v ustanovení § 237 o. s. ř. považuje dovolatel pro účely přípustnosti dovolání za splněné. Skutečnost, že dovolatel nevylíčil důvody přípustnosti dovolání, vyplývá i z toho, že v dovolání odkazuje na občanský soudní řád ve znění před novelou provedenou zákonem č. 404/2012 Sb. (dále jen „o. s. ř. před novelou“) a přípustnost dovolání dovozuje z ustanovení § 237 odst. 1 písm. c) o. s. ř. před novelou, a to bez konkrétního odůvodnění. Dovolatel zřejmě přehlédl, že bylo-li napadené rozhodnutí vydáno po účinnosti zákona č. 404/2012 Sb., musí dovolání vyhovovat náležitostem kladeným na tento mimořádný opravný prostředek občanským soudním řádem ve znění účinném od 1. ledna 2013.
+Kromě toho – s přihlédnutím k charakteru uplatněných dovolacích námitek – nelze ani ztratit ze zřetele, že vady řízení nejsou podle současné právní úpravy způsobilým dovolacím důvodem (viz § 241a odst. 1 o. s. ř. a contrario).
+Bylo-li dovolání odmítnuto, nemusí být rozhodnutí o náhradě nákladů dovolacího řízení odůvodněno (srov. § 243f odst. 3 větu druhou o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 12. října 2015
+JUDr. Jitka Dýšková
+předsedkyně senátu
