@@ -1,0 +1,18 @@
+28 Nd 285/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu Mgr. Petra Krause a soudců JUDr. Jana Eliáše, Ph.D., a Mgr. Miloše Póla ve věci oprávněné: Česká spořitelna, a.s., IČO: 452 44 782, se sídlem v Praze 4, Olbrachtova 1929/62, proti povinnému: P. K., o zaplacení 225.939,67 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 5 pod sp. zn. 33 EXE 1806/2015, o návrhu na určení místně příslušného soudu, takto:
+Věc vedenou u Obvodního soudu pro Prahu 5 pod sp. zn. 33 EXE 1806/2015 projedná a rozhodne Obvodní soud pro Prahu 5.
+Odůvodnění:
+Oprávněná podala k rukám JUDr. Milana Suchánka, soudního exekutora Exekutorského úřadu Praha 9, Pod Pekárnami 245/10, exekuční návrh pro vymožení pohledávky ve výši 225.939,67 Kč s příslušenstvím, jejíž zaplacení ukládá povinnému notářský zápis ze dne 4. července 2014, sp. zn. NZ 4247/2014, N 4266/2014, sepsaný Mgr. B. S. H., notářskou kandidátkou pověřenou JUDr. Helenou Divišovou notářkou v Hradci Králové. Soudní exekutor následně požádal Obvodní soud pro Prahu 5 o pověření a nařízení exekuce.
+Usnesením ze dne 2. července 2015, č. j. 33 EXE 1806/2015-34, Obvodní soud pro Prahu 5 vyslovil svoji místní nepříslušnost a věc předložil Nejvyššímu soudu k určení místně příslušného soudu, který věc projedná a rozhodne (§ 11 odst. 3 občanského soudního řádu
+– dále jen „o. s. ř.“), se závěrem, že podmínky místní příslušnosti nelze zjistit.
+Podle ustanovení § 11 odst. 1 o. s. ř. se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení.
+Podle ustanovení § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Příslušnost exekučního soudu upravuje § 45 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád). Z ustanovení § 45 odst. 2 exekučního řádu vyplývá, že místně příslušným exekučním soudem je soud, v jehož obvodu má povinný, je-li fyzickou osobou, místo svého trvalého pobytu, popřípadě místo pobytu na území České republiky podle druhu pobytu cizince. Je-li povinný právnickou osobou, je místně příslušným soud, v jehož obvodu má povinný sídlo. Nemá-li povinný, který je fyzickou osobou, v České republice místo trvalého pobytu nebo místo pobytu podle věty první, nebo nemá-li povinný, který je právnickou osobou, sídlo v České republice, je místně příslušným soud, v jehož obvodu má povinný majetek.
+Z obsahu spisu vyplývá, že v současné době není známo místo pobytu povinného, v České republice nemá místo trvalého pobytu, resp. místo pobytu podle druhu pobytu cizince, a v dané fázi řízení není známo ani místo, kde má povinný majetek.
+S ohledem na výše uvedené Nejvyšší soud, přihlížeje k zásadě hospodárnosti řízení, rozhodl podle ustanovení § 11 odst. 3 o. s. ř. tak, že jako místně příslušný soud v dané věci určil Obvodní soud pro Prahu 5, u něhož bylo řízení zahájeno.
+Skutečnost, zda povinný má exekučně postižitelný majetek na území České republiky, který by mohl být po nařízení exekuce soudním exekutorem zajištěn a zpeněžen, vyjde najevo až činností soudem pověřeného soudního exekutora v rámci provádění exekuce (srov. v této souvislosti též důvody usnesení velkého senátu občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne 12. září 2012, sp. zn. 31 Nd 200/2012, uveřejněného pod číslem 4/2013 Sbírky soudních rozhodnutí a stanovisek).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 14. října 2015
+Mgr. Petr Kraus
+předseda senátu
