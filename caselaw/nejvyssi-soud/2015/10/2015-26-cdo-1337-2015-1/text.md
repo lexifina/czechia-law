@@ -1,0 +1,13 @@
+26 Cdo 1337/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu Doc. JUDr. Věrou Koreckou, CSc., ve věci žalobce D. Č., zastoupeného Mgr. Danielem Šimánkem, advokátem se sídlem Čelákovice, Vašátkova 176, proti žalovanému JUDr. T. P., insolvenčního správce dlužníka Pražského stavebního bytového družstva, zastoupenému Mgr. Karlem Volfem, advokátem se sídlem Praha 5, Jindřicha Plachty 3163/28, o nahrazení projevu vůle, vedené u Obvodního soudu pro Prahu 5 pod sp. zn. 21 C 237/2012, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 30. září 2014, č. j. 90 Co 294/2014-106, takto:
+I. Dovolání se odmítá.
+II. Žalobce je povinen zaplatit žalovanému na náhradě nákladů dovolacího řízení částku 3.380,- Kč, k rukám Mgr. Karla Volfa, advokáta se sídlem Praha 5, Jindřicha Plachty 3163/28, do tří dnů od právní moci tohoto usnesení.
+O d ů v o d n ě n í:
+Nejvyšší soud České republiky jako soud dovolací dovolání žalobce (dovolatele) proti rozsudku Městského soudu v Praze ze dne 30. 9. 2014, č. j. 90 Co 294/2014-106, odmítl podle § 243c odst. 1 a § 243f odst. 2 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. prosince 2013 (viz čl. II bod 2. zákona č. 293/2013 Sb. – dále jen „o.s.ř.“), neboť neobsahuje náležitosti vyžadované ustanovením § 241a odst. 2 o.s.ř., přičemž tyto vady (nedostatky), pro něž nelze v dovolacím řízení pokračovat, dovolatel včas (po dobu trvání lhůty k dovolání) neodstranil (§ 241b odst. 3 o.s.ř.). Konkrétně v dovolání schází relevantní údaje o tom, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání, tedy které z hledisek uvedených v ustanovení § 237 o.s.ř. považuje pro účely přípustnosti dovolání za splněné. Ve vztahu k přípustnosti dovolání totiž pouze uvedl, že „opírá přípustnost dovolání o ust. § 237 o.s.ř.“, aniž by vymezil, o který ze čtyř v úvahu přicházejících případů přípustnosti se jedná, tj. zda napadené rozhodnutí závistí na vyřešení otázky hmotného nebo procesního práva: 1/ při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo 2/ která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo 3/ která je dovolacím soudem rozhodována rozdílně anebo 4/ má-li být dovolacím soudem vyřešená právní otázka posouzena jinak; takovéto vymezení nelze dovodit ani z obsahu dovolání.
+Bylo-li dovolání odmítnuto, nemusí být rozhodnutí o náhradě nákladů dovolacího řízení odůvodněno (srov. § 243f odst. 3 větu druhou o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+Nesplní-li povinný dobrovolně, co mu ukládá vykonatelné soudní rozhodnutí, může se oprávněný domáhat soudního výkonu rozhodnutí (exekuce).
+V Brně dne 15. října 2015
+Doc. JUDr. Věra Korecká, CSc.
+předsedkyně senátu
