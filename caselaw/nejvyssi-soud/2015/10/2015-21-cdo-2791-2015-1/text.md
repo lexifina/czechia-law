@@ -1,0 +1,14 @@
+21 Cdo 2791/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a JUDr. Romana Fialy v právní věci žalobkyně K. S., zastoupené JUDr. Rudolfem Vaňkem, advokátem se sídlem v Liberci 3, Měsíčná č. 256/2, proti žalované AVERSEN ENTERPRISES LIMITED se sídlem Simis 12, Kiti, P.C. 7550, Larnaca, Kyperská republika, registrační číslo 107986, zastoupené Mgr. Karlem Somolem, advokátem se sídlem v Praze 1, Karlovo náměstí č. 671/24, o určení, že spoluvlastnický podíl na nemovitosti není zatížen zástavním právem, vedené u Obvodního soudu pro Prahu 3 pod sp. zn. 16 C 330/2013, o dovolání žalobkyně proti rozsudku Městského soudu v Praze ze dne 9. prosince 2014, č. j. 15 Co 267/2014-75, takto:
+I. Dovolání žalobkyně se odmítá.
+II. Žalobkyně je povinna zaplatit žalované na náhradě nákladů dovolacího řízení 2.800,- Kč do tří dnů od právní moci tohoto usnesení k rukám Mgr. Karla Somola, advokáta se sídlem v Praze 1, Karlovo náměstí č. 671/24.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalobkyně proti rozsudku Městského soudu v Praze ze dne 9. 12. 2014, č. j. 15 Co 267/2014-75, není přípustné podle ustanovení § 237 o. s. ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu [k otázce vzniku soudcovského zástavního práva k nemovitosti srov. usnesení Nejvyššího soudu ze dne 29. listopadu 2000, sp. zn. 21 Cdo 182/2000, které bylo uveřejněno pod číslem 55/2001 Sbírky soudních rozhodnutí a stanovisek, nebo usnesení Nejvyššího soudu ze dne 15. února 2005, sp. zn. 21 Cdo 1815/2004, když pořadí (vznik) soudcovského zástavního práva se řídí dnem, v němž došel soudu návrh na nařízení tohoto výkonu rozhodnutí (dnem zahájení řízení), ke změnám ve vlastnictví nemovitosti, které nastanou později (po zahájení řízení), nelze přihlédnout, a k otázce osoby pozdějšího vlastníka zástavy srov. usnesení Nejvyššího soudu ze dne 27. září 2005, sp. zn. 20 Cdo 108/2005 nebo odůvodnění rozsudku Nejvyššího soudu ze dne 21. srpna 2013, sp. zn. 21 Cdo 3771/2012, když pozdějším vlastníkem zástavy se rozumí ten, kdo nabyl své vlastnické právo k zástavě teprve poté, co již vzniklo zástavní právo, tj. ten kdo nabyl vlastnictví po osobě, jež vlastnila věc v době, kdy k ní vzniklo zástavní právo] a není důvod, aby rozhodné právní otázky byly posouzeny jinak.
+V části, v níž dovolatelka uplatnila jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o. s. ř., dovolání trpí nedostatkem, pro který nelze v dovolacím řízení pokračovat.
+Nejvyšší soud České republiky proto dovolání žalobkyně podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 15. října 2015
+JUDr. Mojmír Putna
+předseda senátu
