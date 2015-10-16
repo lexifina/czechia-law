@@ -1,0 +1,14 @@
+21 Cdo 4238/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Zdeňka Novotného a soudců JUDr. Ljubomíra Drápala a JUDr. Lubomíra Ptáčka, Ph.D. v právní věci žalobkyně V. M., zastoupené Mgr. Jiřím Kabuďou, advokátem se sídlem ve Frýdku-Místku, 1. máje č. 741, proti žalované Slezské pekárně JK s.r.o., se sídlem ve Frýdku-Místku, Slezská č. 1082, IČO 258 23 451, zastoupené Mgr. Jiřím Fialou, advokátem se sídlem ve Frýdku-Místku, Novodvorská č. 667, o neplatnost okamžitého zrušení pracovního poměru, vedené u Okresního soudu ve Frýdku-Místku pod sp. zn. 16 C 115/2013, o dovolání žalované proti rozsudku Krajského soudu v Ostravě ze dne 10. března 2015 č.j. 16 Co 233/2014-128, takto:
+I. Dovolání žalované se odmítá.
+II. Žalovaná je povinna zaplatit žalobkyni na náhradě nákladů dovolacího řízení 3.388,- Kč do tří dnů od právní moci tohoto usnesení k rukám Mgr. Jiřího Kabudi, advokáta se sídlem ve Frýdku-Místku, 1. máje č. 741.
+S t r u č n é o d ů v o d n ě n í (§ 243f odst. 3 o. s. ř.):
+Dovolání žalované proti rozsudku Krajského soudu v Ostravě ze dne 10.3.2015 č.j. 16 Co 233/2014-128, není přípustné podle ustanovení § 237 o.s.ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu [k otázce hodnocení stupně intenzity porušení povinnosti vyplývající z právních předpisů vztahujících se k zaměstnancem vykonávané práci a hledisek pro vymezení relativně neurčité hypotézy právní normy ustanovení § 55 odst. 1 písm. b) zák. práce srov. například rozsudek Nejvyššího soudu ze dne 19.1.2000 sp. zn. 21 Cdo 1228/99, uveřejněný ve Sbírce soudních rozhodnutí a stanovisek roč. 2001 pod č. 21, rozsudek Nejvyššího soudu ČR ze dne 6.2.2001 sp. zn. 21 Cdo 379/2000 a k otázce provedení dokazování odvolacím soudem usnesení Nejvyššího soudu ze dne 31.3.2015 sp. zn. 21 Cdo 1467/2014] a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+V části dovolání žalovaná uplatnila jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o.s.ř. [zpochybňuje-li skutkové zjištění, které bylo pro právní posouzení věci odvolacím soudem z hledisek vytýčených v rozsudku Nejvyššího soudu ze dne 17.10.2012 sp. zn. 21 Cdo 2596/2011 rozhodující - tj., že žalobkyně vytýkaným jednáním neporušila povinnost zaměstnance vyplývající z právních předpisů vztahujících se k jím vykonávané práci zvlášť hrubým způsobem a nebylo tedy možno s ní okamžitě zrušit pracovní poměr ve smyslu ustanovení § 55 odst. 1 písm. b) zák. práce], a proto dovolání trpí vadami, pro které nelze v dovolacím řízení pokračovat.
+Nejvyšší soud České republiky proto dovolání žalované podle ustanovení § 243c odst. 1 věty první o.s.ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 16. října 2015
+JUDr. Zdeněk Novotný
+předseda senátu
