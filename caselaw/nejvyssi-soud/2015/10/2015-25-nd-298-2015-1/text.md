@@ -1,0 +1,15 @@
+25 Nd 298/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marty Škárové a soudců JUDr. Petra Vojtka a JUDr. Roberta Waltra v právní věci žalobkyně T. R., proti žalovaným Třineckým železárnám, a. s., se sídlem v Třinci, Průmyslová 1000, IČO: 180 50 646, o náhradu škody, vedené u Okresního soudu ve Frýdku-Místku pod sp. zn. 16 C 166/2003, o návrhu žalobkyně na přikázání věci z důvodu vhodnosti takto:
+Řízení o návrhu žalobkyně na přikázání věci vedené u Okresního soudu ve Frýdku-Místku pod sp. zn. 16 C 166/2003 „Městskému soudu pro Prahu 1“ se zastavuje.
+Odůvodnění:
+U Okresního soudu ve Frýdku-Místku je pod sp. zn. 16 C 166/2003 vedeno řízení o náhradu škody. Podáním ze dne 8. 4. 2014 žalobkyně navrhla, aby byla věc z důvodu vhodnosti přikázána soudu v oblasti jejího stávajícího bydliště v Praze. Svůj návrh odůvodnila nepříznivým zdravotním stavem, údajným korupčním jednáním žalované, zaujatostí soudkyně okresního soudu vůči její osobě, neutěšenou finanční situací a průtahy v řízení.
+Žalovaná s přikázáním věci jinému soudu vyjádřila nesouhlas. Zdůraznila, že přikázání věci jinému soudu je výjimkou z ústavně zaručené zásady, že nikdo nesmí být odňat svému zákonnému soudci, a důvody pro odnětí věci místně příslušnému soudu musí být natolik významné, aby mohl být uvedený ústavní princip prolomen. Žalobkyně nedoložila své tvrzení, že pro svůj zdravotní stav není schopna cestovat, a namítané důvody pro přikázání věci jinému soudu nejsou relevantní.
+Nejvyšší soud usnesením ze dne 27. ledna 2015, sp. zn. 25 Nd 349/2014, návrhu žalobkyně nevyhověl s tím, že nejsou dány podmínky pro přikázání věci jinému soudu z důvodu vhodnosti dle ust. § 12 odst. 2 o. s. ř.
+Podáním ze dne 14. 5. 2015 žalobkyně navrhla, aby byla věc z důvodu vhodnosti přikázána soudu v místě jejího stávajícího bydliště v Praze, konkrétně „Městskému soudu pro Prahu 1“ (pravděpodobně Obvodnímu soudu pro Prahu 1). Svůj návrh opětovně odůvodnila nepříznivým zdravotním stavem, podjatostí soudkyně JUDr. Jaroslavy Volné a snížením jejích nákladů na dojíždění na jednání k Okresnímu soudu ve Frýdku-Místku.
+Vzhledem k tomu, že žalobkyně se svým podáním domáhá přikázání věci „Městskému soudu pro Prahu 1“ ze shodných důvodů (nepříznivý zdravotní stav žalobkyně, podjatost soudkyně Okresního soudu ve Frýdku-Místku, dopad na majetkové poměry žalobkyně) jako v návrhu ze dne 8. 4. 2014, kterému nebylo usnesením Nejvyššího soudu vyhověno, a výrok tohoto usnesení je závazný jak pro účastníky řízení, tak i pro soud, je nepochybné, že novému rozhodnutí o obsahově shodném návrhu na přikázání věci jinému soudu brání překážka věci pravomocně rozhodnuté (srov. usnesení Nejvyššího soudu ze dne 25. srpna 2005, sp. zn. 21 Nd 127/2005).
+Uvedený nedostatek podmínky řízení nelze odstranit, a proto Nejvyšší soud řízení o návrhu žalobkyně na přikázání věci jinému soudu z důvodu vhodnosti dle ust. § 12 odst. 2 o. s. ř. zastavil (ust. § 104 odst. 1 o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 20. října 2015
+JUDr. Marta Škárová
+předsedkyně senátu
