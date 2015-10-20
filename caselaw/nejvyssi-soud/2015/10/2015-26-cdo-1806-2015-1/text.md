@@ -1,0 +1,16 @@
+26 Cdo 1806/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Pavlíny Brzobohaté a soudců JUDr. Miroslava Feráka a Doc. JUDr. Věry Korecké, CSc. ve věci žalobce R. N., zastoupeného Mgr. Stanislavem Němcem, advokátem se sídlem v Postupicích č.p. 58, proti žalované České republice – Ministerstvu financí, se sídlem v Praze, Letenská 15, jednající Úřadem pro zastupování státu ve věcech majetkových, se sídlem v Praze 2, Rašínovo nábřeží 390/42, o zaplacení částky 2.069.685,50 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 13 C 276/2008, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 1. října 2014, č. j. 72 Co 346/2014-84, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Odvolací soud napadeným rozsudkem potvrdil výrok rozsudku Obvodního soudu pro Prahu 1 ze dne 26. 9. 2013, č. j. 13 C 276/2008-54, kterým zamítl žalobu na zaplacení částky 2.069.685,50 Kč s příslušenstvím, změnil ho ve výroku o náhradě nákladů řízení před soudem prvního stupně, a rozhodl o náhradě nákladů odvolacího řízení a o povinnosti žalobce zaplatit soudní poplatek za odvolání ve výši 103.480 Kč.
+Dovolání žalobce proti potvrzujícímu výroku napadeného rozhodnutí není přípustné podle ustanovení § 237 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013, dále jen „o. s. ř.“ (čl. II bod 2. zákona č. 293/2013 Sb.), neboť rozhodnutí odvolacího soudu je v souladu s ustálenou judikaturou dovolacího soudu a není důvodu, aby rozhodná právní otázka byla posouzena jinak. Ohledně závěru, že žalobce byl u jednání 12. 5. 2011 řádně poučen podle § 118a odst. 1, 3 o. s. ř. o své povinnosti tvrzení a důkazní
+- srovnej důvody uvedené např. v rozsudku Nejvyššího soudu ze dne 20. 6. 2012, sp. zn. 31 Cdo 619/2011, uveřejněného pod číslem 115/2012 Sbírky soudních rozhodnutí a stanovisek, rozsudku Nejvyššího soudu ze dne 29. 7. 2010, sp. zn. 21 Cdo 2604/2009), a ohledně závěru, že svou neúčastí u jednání dne 26. 9. 2013, kdy bylo jednáno v jeho nepřítomnosti v souladu s ustanovením § 101 odst. 3 o. s. ř., způsobil, že se mu nedostalo případného dalšího procesního poučení podle § 118a odst. 1 a 3 o. s. ř - srovnej např. rozsudek Nejvyššího soudu ze dne 27. 9. 2006, sp. zn. 29 Odo 832/2006.
+V souladu s ustálenou rozhodovací praxí je i rozhodnutí odvolacího soudu v části, v níž uložil žalobci povinnost zaplatit soudní poplatek za odvolání (viz např. usnesení Nejvyššího soudu ze dne 23. 7. 2014, sp. zn. 26 Cdo 1269/2014, uveřejněné pod číslem 106/2014 Sbírky soudních rozhodnutí a stanovisek). Z výslovné úpravy v zákoně č. 549/1991 Sb., o soudních poplatcích, ve znění pozdějších předpisů, pak vyplývá i postup odvolacího soudu, který začal ve věci jednat, ač žalobce (odvolatel) soudní poplatek splatný podáním odvolání [§ 4 odst. 1 písm. b) zákona č. 549/1991 Sb.] nezaplatil, proto mu musel uložit jeho zaplacení ve svém konečném rozhodnutí (§ 9 odst. 6 zákona č. 549/1991 Sb.).
+Nejvyšší soud České republiky proto dovolání žalobce podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 20. října 2015
+JUDr. Pavlína Brzobohatá
+předsedkyně senátu
