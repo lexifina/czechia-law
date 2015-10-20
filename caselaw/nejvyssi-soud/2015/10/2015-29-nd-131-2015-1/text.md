@@ -1,0 +1,15 @@
+29 Nd 131/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jiřího Zavázala a soudců Mgr. Milana Poláška a JUDr. Filipa Cilečka ve věci řízení o pozůstalosti po D. S., zemřelé 27. června 2014, vedené u Okresního soudu v Tachově pod sp. zn. 15 D 288/2014, o návrhu M. S., L. S. a J. S., na přikázání věci jinému soudu z důvodu vhodnosti, takto:
+Věc vedená u Okresního soudu v Tachově pod sp. zn. 15 D 288/2014 se nepřikazuje k projednání a rozhodnutí Městskému soudu v Brně.
+Odůvodnění:
+Podáním ze dne 19. února 2015 navrhli M. S., L. S. a J. S. (synové zůstavitelky), aby v záhlaví označená věc byla „z rodinných, zdravotních a osobních důvodů“ přikázána k projednání a rozhodnutí Městskému soudu v Brně.
+Podle ustanovení § 12 odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), věc může být jinému soudu téhož stupně přikázána také z důvodu vhodnosti.
+Důvod vhodnosti pro přikázání věci jinému soudu téhož stupně ve smyslu ustanovení § 12 odst. 2 o. s. ř. představují takové okolnosti, které umožní hospodárnější, rychlejší a zejména po skutkové stránce spolehlivější a důkladnější projednání věci jiným než místně příslušným soudem. Přitom je ale třeba mít na zřeteli, že místní příslušnost soudu, který má věc projednat, je zásadou základní, a případná delegace příslušnosti jinému soudu je toliko výjimkou z této zásady, kterou je třeba – jako výjimku – vykládat restriktivně. K tomu srov. např. nález Ústavního soudu ze dne 15. listopadu 2001, sp. zn. I. ÚS 144/2000, uveřejněný pod číslem 172/2001 Sbírky nálezů a usnesení Ústavního soudu, jakož i usnesení Nejvyššího soudu ze dne 31. srpna 2011, sen. zn. 29 NSČR 33/2010, uveřejněné pod číslem 3/2012 Sbírky soudních rozhodnutí a stanovisek.
+Obecně platí, že situace, že některý účastník musí překonat mezi místem současného bydliště a sídlem věcně a místně příslušného soudu větší vzdálenost či že je cesta k příslušnému soudu pro něj spojena s různými organizačními, finančními, zdravotními a jinými problémy, jsou spíše běžné a nemohou samy o sobě přesvědčivě odůvodnit přikázání věci jinému soudu (k tomu srov. shodně např. usnesení Nejvyššího soudu ze dne 27. září 2013, sp. zn. 29 Nd 185/2013, nebo usnesení Nejvyššího soudu ze dne 31. října 2013, sp. zn. 29 Nd 289/2013).
+V situaci, kdy navrhovatelé odůvodnili návrh na přikázání dané věci Městskému soudu v Brně jen obecným odkazem na „rodinné, zdravotní a osobní důvody“, Nejvyšší soud naplnění předpokladů pro přikázání věci k označenému soudu neshledal, když tyto skutečnosti nejsou samy o osobě způsobilé prolomit zásadu vyjádřenou v čl. 38 odst. 1 Listiny základních práv a svobod, podle kterého nikdo nesmí být odňat svému zákonnému soudci a příslušnost soudu i soudce stanoví zákon.
+Nejvyšší soud z výše uvedených důvodů návrhu na přikázání věci Městskému soudu v Brně z důvodu vhodnosti nevyhověl a věc tomuto soudu nepřikázal.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 20. října 2015
+JUDr. Jiří Zavázal
+předseda senátu
