@@ -1,0 +1,30 @@
+11 Tcu 89/2015-41
+U S N E S E N Í
+Nejvyšší soud projednal dne 21. října 2015 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl takto:
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení občana České republiky L. L., rozsudkem Zemského soudu Krems a. d. Donau, Rakouská republika, ze dne 11. 6. 2014, sp. zn. 38 Hv 33/14i, hledí jako na odsouzení soudem České republiky.
+Odůvodnění:
+Rozsudkem Zemského soudu Krems a. d. Donau, Rakouská republika, ze dne 11. 6. 2014, sp. zn. 38 Hv 33/14i, který nabyl právní moci 17. 6. 2014, byl L. L. uznán vinným trestnými činy částečně dokonané, částečně nedokonané závažné krádeže vloupáním za účelem obživy a přechovávání cizí věci, podle rakouského trestního zákona, a odsouzen k nepodmíněnému trestu odnětí svobody v trvání 31 (jedenatřiceti) měsíců.
+Podle skutkových zjištění cizozemského soudu L. L. spáchal trestnou činnost skutky v rozsudku blíže popsanými v podstatě tím, že se ve spolupachatelství s A. H. a Ch. H. H. dopouštěl opakovaných krádeží v úmyslu se touto trestnou činností neoprávněně obohatit a zajistit si nikoli přechodný zdroj příjmů, když celková hodnota odcizených věcí překročila u všech tří odsouzených 50.000,- euro, tím, že:
+I./A/1) dne 20. 10. 2013 ve Wolfshofermtu, ve spolupachatelství s A. H. a Ch. H. H., poté, co Ch. H. násilím vylomil pootevřené okno hostince Staar, vnikli odsouzený L. L. a A. H. do jeho objektu, kde odcizili cigarety v celkové hodnotě 600,- euro,
+I./B/
+1) L. L. se společně s Ch. H. H. podílel na trestné činnosti A. H. popsané pod bodem I./A/ 3), spočívající v tom, že v blíže nezjištěné době od 22. 6. do 24. 6.2013 v Groβgöpfritzu vnikla neuzamčeným dveřmi do objektu pekárny majitele F. H., kde v zásuvce psacího stolu nalezeným klíčem otevřela trezor, z něhož odcizila hotovost v celkové hodnotě 12.378,- euro, tím způsobem, že poté, co je Ch. H. dovezl osobním vozidlem na místo činu, společně s ním hlídal u vozidla, určeného k případnému úniku a odvozu kořisti.
+2) L. L. se dále podílel na trestné činnosti A. H. a Ch. H. H. popsané v bodech I./A/2) a) až f) tím způsobem, že hlídal před objekty, v nichž se A. H. a Ch. H. H. dopustili vloupání a odcizení cizích věcí skutky spočívajícími v tom, že:
+a) v nezjištěné době od 24. 5. do 25. 5. 2013 v Groβglobnitzu, vnikli do soukromých prostor budovy majitele A. M., a to za pomocí klíče, o němž odsouzená věděla, kde jej A. M. uschovává, a k jeho škodě a dalších osob odcizili příruční pokladnu a trezor s hotovostí, klenoty a zlatými mincemi v celkové hodnotě nejméně 20.300,- euro,
+b) dne 6. 7. 2013
+aa) v Groβglobnitzu násilím vylomili okno a odcizili A. M. cigarety v celkové hodnotě nejméně 164,50 euro,
+bb) v Groβgöpfritzu se ke škodě majitele pekárny F. H. pokusili pomocí přineseného páčidla násilím vypáčit dveře do prostor pekárny a odcizit zde cennosti,
+c) dne 8. 7. 2013 v Niedergrunbachu za použití násilí vypáčili dveře a prohledali prostory hostince Radinger, odkud se pokusili odcizit cennosti,
+d) dne 22. 7. 2013 v Obernondorfu, Ch. H. násilím vypáčil pootevřené okno, jímž vnikla A. H. dovnitř, poté vypáčil vnitřní dveře a ostatní vpustil dovnitř budovy, odkud Ch. a M. W. odcizili hotovost v celkové hodnotě nejméně 25.800,- euro;
+e) v době od 1. 10. do 2. 10. 2013 v Gerweisu, poté, co vylomili za pomocí přineseného páčidla dveře do diskotéky Concorde, objekt prohledali v úmyslu zde odcizit cennosti,
+f) dne 18. 12. 2013 v Niedernondorfu vnikli do objektu pekárny oknem otevřeným a nezajištěným předchozího dne, odkud F. L. odcizili hotovost a cigarety v celkové hodnotě nejméně 2.890,46 euro.
+II. L. L. v blíže nezjištěné době přijal od A. H. jako dárek cigarety a hotovost, které společně s Ch. H. H. odcizila jednáním popsaným v bodech I./A/2) g), h) rozsudku, ačkoli věděl, že pochází z krádeže.
+Ministerstvo spravedlnosti České republiky podalo ve shora uvedené věci Nejvyššímu soudu návrh na přijetí rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů (dále jen „zákon“).
+Nejvyšší soud věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro rozhodnutí podle § 4a odst. 3 zákona.
+Především je třeba uvést, že podle § 4a odst. 3 zákona rozhodne Nejvyšší soud na návrh Ministerstva spravedlnosti ČR, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky, a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Z podaného návrhu a z obsahu připojeného spisu vyplývá, že odsouzený L. L. je občanem České republiky, byl odsouzen cizozemským soudem a odsouzení se týká skutků, které vykazují znaky trestných činů i podle příslušných právních předpisů České republiky (trestných činů krádeže podle § 205 zákoníku a podílnictví podle § 214 tr. zákoníku). Tím jsou splněny formální podmínky ustanovení § 4a odst. 3 zákona.
+V posuzované věci jsou ovšem dány i podmínky materiální povahy. Odsouzený L. L. se pro svůj prospěch dopustil majetkové trestné činnosti, kterou si chtěl opatřovat nejen přechodný zdroj příjmů, a kterou způsobil vyšší škodu na cizím majetku. Společenská škodlivost jeho trestné činnosti je zvyšována jednak tím, že se této dopustil s dalšími osobami, jednak množstvím útoků i způsobem jejich provedení. Pokud jde o druh uloženého trestu, ze spisového materiálu vyplynulo, že odsouzenému byl uložen citelný trest odnětí svobody. Lze tedy dovodit, že jsou splněny všechny podmínky pro to, aby se na výše uvedené odsouzení L. L. hledělo jako na odsouzení soudem České republiky.
+Z uvedených důvodů proto Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 21. října 2015
+JUDr. Antonín Draštík
+předseda senátu
