@@ -1,0 +1,18 @@
+11 Tcu 98/2015-17
+U S N E S E N Í
+Nejvyšší soud projednal dne 21. října 2015 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl takto:
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení občana České republiky J. M., rozsudkem Soudu v Římě ze dne 3. 5. 2013, ve spojení s rozsudkem Odvolacího soudu v Římě, Italská republika, ze dne 23. 4. 2014, sp. zn. 7682/2013, hledí jako na odsouzení soudem České republiky.
+Odůvodnění:
+Rozsudkem Soudu v Římě ze dne 3. 5. 2013, ve spojení s rozsudkem Odvolacího soudu v Římě, Italská republika, ze dne 23. 4. 2014, sp. zn. 7682/2013, který nabyl právní moci dne 6. 7. 2014, byl J. M. uznán vinným trestným činem krádeže za použití násilí, podle italského trestního zákona, a odsouzen k nepodmíněnému trestu odnětí svobody v trvání 4 (čtyř) roků.
+Podle skutkových zjištění cizozemského soudu se odsouzený J. M. dopustil trestné činnosti v podstatě tím, že:
+dne 29. 3.2013 v Ř., na okruhu G., společně s I. P., v úmyslu se obohatit, zmocnili se osobního vozidla D. M. Poté, kdy je tento začal za pomoci C. F. pronásledovat, zaútočil po jejich dostižení ve snaze uniknout trestnímu postihu I. P. kopy a údery proti C. F., když J. M., který se mezitím přesunul na místo řidiče, ujel, přičemž D. M. za sebou několik metrů vlekl.
+Ministerstvo spravedlnosti České republiky podalo ve shora uvedené věci Nejvyššímu soudu návrh na přijetí rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů (dále jen „zákon“).
+Nejvyšší soud věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro rozhodnutí podle § 4a odst. 3 zákona.
+Především je třeba uvést, že podle § 4a odst. 3 zákona rozhodne Nejvyšší soud na návrh Ministerstva spravedlnosti České republiky, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Z podaného návrhu a z obsahu připojeného spisu vyplývá, že odsouzený J. M. je občanem České republiky, byl odsouzen cizozemským soudem a odsouzení se týká skutků, které vykazují znaky trestného činu i podle příslušných právních předpisů České republiky (přinejmenším trestného činů krádeže podle § 205 tr. zákoníku ve spolupachatelství podle § 23 tr. zákoníku). Tím jsou splněny formální podmínky ustanovení § 4a odst. 3 zákona.
+V posuzované věci jsou dány i podmínky materiální povahy. Odsouzený J. M. se pro svůj finanční prospěch dopustil závažné trestné činnosti, kterou způsobil vyšší škodu na cizím majetku. Společenská škodlivost jeho trestné činnosti je zvyšována zejména tím, že se této dopustil s další osobou, jakož i způsobem jejího provedení. Z obsahu spisového materiálu rovněž vyplynulo, že byl již v minulosti v České republice za majetkovou trestnou činnost odsouzen. Pokud jde o druh uloženého trestu, ze spisového materiálu vyplynulo, že odsouzenému byl uložen citelný trest odnětí svobody. Lze tedy dovodit, že jsou splněny všechny podmínky pro to, aby se na výše uvedené odsouzení J. M. hledělo jako na odsouzení soudem České republiky.
+Z uvedených důvodů proto Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 21. října 2015
+JUDr. Antonín Draštík
+předseda senátu
