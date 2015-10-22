@@ -1,0 +1,17 @@
+21 Cdo 4226/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně senátu JUDr. Olgy Puškinové a soudců JUDr. Mojmíra Putny a JUDr. Zdeňka Novotného v právní věci žalobkyně A. M., proti žalovanému Zemědělskému družstvu Dubicko se sídlem v Dubicku, Družstevní č. 5, IČO 00150096, zastoupenému Mgr. Janem Drapáčem, advokátem se sídlem v Zábřehu, náměstí Osvobození č. 255/28, o žalobách na obnovu řízení a pro zmatečnost proti usnesení Krajského soudu v Ostravě ze dne 4. března 2008, č. j. 16 Co 52/2008-30, podaných S. M., vedené u Okresního soudu v Šumperku pod sp. zn. 10 C 77/2008, o dovolání S. M. proti usnesení Krajského soudu v Ostravě ze dne 16. srpna 2012, č. j. 16 Co 43/2012-157, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.):
+S. M. podal dovolání proti usnesení Krajského soudu v Ostravě ze dne 16. 8. 2012, č. j. 16 Co 43/2012-157 [jímž bylo potvrzeno usnesení ze dne 6. 9. 2011, č. j. 10 C 77/2008-122 (kterým Okresní soud v Šumperku zamítl žaloby na obnovu řízení a pro zmatečnost a rozhodl, že žádný z účastníků nemá právo na náhradu nákladů řízení), a dále bylo rozhodnuto, že S. M. je povinen zaplatit žalovanému na náhradě nákladů řízení před soudy obou stupňů částku 15.600,- Kč], a současně požádal o osvobození od soudních poplatků a o ustanovení advokáta Mgr. Františka Drlíka pro dovolací řízení.
+Okresní soud v Šumperku usnesením ze dne 27. 10. 2014, č. j. 10 C 77/2008-212, „žalobci“ (správně dovolateli S. M.) nepřiznal osvobození od soudních poplatků z dovolání a zamítl jeho žádost o ustanovení zástupce pro dovolací řízení.
+Nejvyšší soud dovolání projednal a rozhodl o něm podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2012 - dále jen „o. s. ř.“ (viz část první, čl. II., bod 7. přechodných ustanovení zákona č. 404/2012 Sb. a část první, čl. II., bod 2. přechodných ustanovení zákona č. 293/2013 Sb.).
+Podáním dovolání vznikla dovolateli povinnost zaplatit soudní poplatek z dovolání [srov. § 4 odst. 1 písm. c) zákona č. 549/1991 Sb., o soudních poplatcích, ve znění pozdějších předpisů], který podle položky č. 23 odst. 2 Sazebníku soudních poplatků činí 2.000,- Kč. U dovolatele přitom nejsou splněny předpoklady pro osvobození od soudních poplatků podle ustanovení § 138 odst. 1 o. s. ř., neboť jde o zřejmě bezúspěšné uplatňování práva (srov. bdobně usnesení Nejvyššího soudu ze dne 10. prosince 2014, sp. zn. 21 Cdo 3336, 3338/2014).
+Dovolatel však dosud nezaplatil soudní poplatek z dovolání ani poté, co k tomu byl vyzván usnesením Okresního soudu v Šumperku ze dne 30. 5. 2014, č. j. 10 C 77/2008-203.
+Nejvyšší soud České republiky proto řízení o dovolání S. M. proti usnesení Krajského soudu v Ostravě ze dne 16. 8. 2012, č. j. 16 Co 43/2012-157, podle ustanovení § 9 odst. 1 zákona č. 549/1991 Sb., o soudních poplatcích, ve znění pozdějších předpisů, zastavil.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 části věty před středníkem o. s. ř., neboť S. M. s ohledem na výsledek řízení nemá na náhradu svých nákladů právo a nikomu jinému v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 22. října 2015
+JUDr. Olga Puškinová
+předsedkyně senátu
