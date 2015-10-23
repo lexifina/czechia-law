@@ -1,0 +1,22 @@
+{
+  "record_type": "case-law",
+  "court": "Nejvyšší správní soud",
+  "jurisdiction": "CZ",
+  "date": "2015-10-23",
+  "date_basis": "Official NSS open-data column Datum rozhodnutí (decision date).",
+  "ecli": "ECLI:CZ:NSS:2015:3.As.219.2015.8",
+  "docket": "3 As 219/2015",
+  "movement_type": "spisovna",
+  "case_type": "Pozemní komunikace",
+  "proceeding_type": "žaloba proti rozhodnutí",
+  "decision_type": "Meritorní",
+  "form": "Jinak",
+  "outcome": "jiný výsledek",
+  "published_collection": null,
+  "source": "http://vyhledavac.nssoud.cz/GetContent?ECLI=ECLI:CZ:NSS:2015:3.As.219.2015.8",
+  "source_page": "https://www.nssoud.cz/informace-pro-verejnost/otevrena-data-k-soudni-cinnosti",
+  "bulk_source": "https://www.nssoud.cz/fileadmin/user_upload/dokumenty/Otevrena_data/Data_2026/Listopad/otevrena_data_NSS.xlsx",
+  "bulk_source_sha256": "42660df274be1e4c5002d5aaf97a7271931d81b99585ce9a33ddfb0fa79eedaa",
+  "xlsx_row": 44452,
+  "text_status": "metadata-only; official decision text link retained for later text import"
+}
