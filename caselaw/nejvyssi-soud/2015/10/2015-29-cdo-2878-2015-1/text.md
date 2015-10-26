@@ -1,0 +1,19 @@
+29 Cdo 2878/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Petrem Šukem v právní věci žalobce O. N., zastoupeného Mgr. Františkem Kaletou, advokátem, se sídlem v Ostravě, Stodolní 1293/3, PSČ 702 00, proti žalované Česká spořitelna, a. s., se sídlem v Praze 4, Olbrachtova 1929/62, PSČ 140 00, identifikační číslo osoby 45244782, o výplatu dividend, vedené u Okresního soudu v Ostravě pod sp. zn. 84 C 112/2014, o dovolání žalobce proti usnesení Krajského soudu v Ostravě ze dne 19. ledna 2015, č. j. 11 Co 1/2015-30, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Ostravě usnesením ze dne 26. listopadu 2014, č. j. 84 C 112/2014-21, odmítl podání žalobce doručené uvedenému soudu dne 4. dubna 2014 (výrok I.) a rozhodl o nákladech řízení (výrok II.).
+V záhlaví označeným usnesením Krajský soud v Ostravě k odvolání žalobce potvrdil usnesení soudu prvního stupně (první výrok), a rozhodl o nákladech odvolacího řízení (druhý výrok).
+Proti usnesení odvolacího soudu podal žalobce dovolání, které Nejvyšší soud odmítl podle § 243c odst. 1 věty první a § 243f odst. 2 o. s. ř., neboť neobsahuje vymezení toho, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (srov. § 241a odst. 2 o. s. ř.), a v dovolacím řízení pro tuto vadu nelze pokračovat.
+Podle § 241a odst. 2 o. s. ř. v dovolání musí být vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu se rozhodnutí napadá, vymezení důvodu dovolání, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) a čeho se dovolatel domáhá (dovolací návrh).
+Podle § 237 o. s. ř. pak platí, že není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+Dovolatel v dovolání (posouzeném z obsahového hlediska i v jiných jeho částech) neuvádí ohledně předpokladů přípustnosti dovolání ničeho.
+Požadavek, aby dovolatel v dovolání uvedl, v čem spatřuje splnění předpokladů přípustnosti dovolání, je podle § 241a odst. 2 o. s. ř. obligatorní náležitostí dovolání. Může-li být dovolání přípustné jen podle § 237 o. s. ř. (jako v této věci), je dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné. K tomu srov. např. usnesení Nejvyššího soudu ze dne 25. září 2013, sp. zn. 29 Cdo 2394/2013, uveřejněné pod číslem 4/2014 Sbírky soudních rozhodnutí a stanovisek, usnesení velkého senátu občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne 8. dubna 2015, sen. zn. 31 NSCR 9/2015 či usnesení Nejvyššího soudu ze dne 23. října 2013, sp. zn. 29 Cdo 2649/2013, ze dne 29. srpna 2013, sp. zn. 29 Cdo 2488/2013, anebo usnesení Ústavního soudu ze dne 21. ledna 2014, sp. zn. I. ÚS 3524/13, ze dne 16. prosince 2014, sp. zn. IV. ÚS 266/14, ze dne 12. srpna 2015, sp. zn. IV. ÚS 3548/14 či ze dne 21. července 2015, sp. zn. II. ÚS 1346/15, dostupná na webových stránkách Nejvyššího a Ústavního soudu.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 234f odst. 3 věta druhá o. s. ř.).
+Rozhodné znění občanského soudního řádu pro dovolací řízení (od 1. ledna 2014) se podává z článku II. bodu 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 26. října 2015
+JUDr. Petr Š u k
+předseda senátu
