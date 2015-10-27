@@ -1,0 +1,15 @@
+23 Nd 323/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Horáka, Ph.D., a soudců JUDr. Zdeňka Dese a Mgr. Miroslava Hromady, Ph.D. v exekuční věci oprávněné Pojišťovny České spořitelny, a.s. Vienna Insurance Group, se sídlem v Pardubicích, nám. Republiky 115, identifikační číslo osoby 47452820, proti povinnému I. J., pro 4.947,- Kč s příslušenstvím, vedené u Okresního soudu v Břeclavi pod sp. zn. 55 EXE 545/2015, o určení místní příslušnosti soudu, takto:
+Věc, vedenou u Okresního soudu v Břeclavi pod sp. zn. 55 EXE 545/2015, projedná a rozhodne Okresní soud v Břeclavi.
+O d ů v o d n ě n í :
+Oprávněná navrhla v exekučním návrhu ze dne 22. května 2015, aby byl soudní exekutor JUDr. Marcel Smékal, Exekutorský úřad Praha – východ, pověřen provedením exekuce proti povinnému k vymožení částky 4.947,- Kč s příslušenstvím. Exekučním titulem je vykonatelný elektronický platební rozkaz, který vydal dne 24. září 2014 pod č. j. EPR 109494/2014-6 Okresní soud v Břeclavi. Soudní exekutor požádal Okresní soud v Břeclavi o pověření a nařízení exekuce.
+Okresní soud v Břeclavi usnesením ze dne 18. srpna 2015, č. j. 55 EXE 545/2015-11, vyslovil svou místní nepříslušnost a rozhodl, že věc bude předložena podle ustanovení § 11 odst. 3 o. s. ř. Nejvyššímu soudu České republiky. Své rozhodnutí odůvodnil tím, že povinný nebyl dohledán ani v Centrální evidenci obyvatel, ani v evidenci Czech Point, nemá žádný záznam ani v systému Okresního soudu v Břeclavi. Ačkoliv převzal exekuční titul v Kloboukách u Brna, nelze jeho bydliště určit.
+Podle ustanovení § 11 odst. 1 o. s. ř. se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení.
+Je-li povinný fyzickou osobou, pak je podle ustanovení § 45 odst. 2 exekučního řádu místně příslušným exekučním soudem soud, v jehož obvodu má povinný místo svého trvalého pobytu, popřípadě místo pobytu cizince na území České republiky podle druhu pobytu cizince. Nemá-li povinný v České republice místo trvalého pobytu nebo místo pobytu podle věty první, je místně příslušným soud, v jeho obvodu má povinný majetek.
+Podle ustanovení § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Nejvyšší soud České republiky po předložení věci Okresním soudem v Břeclavi (§ 105 odst. 2 o. s. ř.) podle ustanovení § 11 odst. 3 o. s. ř., přihlížeje k zásadě hospodárnosti určil, že věc projedná a rozhodne Okresní soud v Břeclavi, u něhož bylo zahájeno nalézací řízení a v jehož obvodu byl doručen shora uvedený exekuční titul. Z výpisu z živnostenského rejstříku se dále podává, že v obvodu téhož soudu má povinný, občan Slovenské republiky, jako podnikatel evidováno své sídlo.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 27. října 2015
+JUDr. Pavel H o r á k, Ph.D.
+předseda senátu
