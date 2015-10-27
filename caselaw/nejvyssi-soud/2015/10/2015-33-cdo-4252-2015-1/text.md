@@ -1,0 +1,20 @@
+33 Cdo 4252/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Blanky Moudré a soudců JUDr. Václava Dudy a JUDr. Ivany Zlatohlávkové ve věci žalobkyně DEKPROJEKT s. r. o. se sídlem Praha 10, Tiskařská 10/257, zastoupené Mgr. Michalem Vojáčkem, advokátem se sídlem Praha 2, Americká 17, proti žalovanému Společenství vlastníků bytových jednotek domů Běhounkova 2302-2306 se sídlem Praha 5, Běhounkova 2303/3, zastoupenému JUDr. Zdeňkem Koschinem, advokátem se sídlem Praha 5, Štefánikova 48, o zaplacení 101.280 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 5 pod sp. zn. 31 C 141/2011, o dovolání žalovaného proti rozsudku Městského soudu v Praze ze dne 15. 4. 2015, č. j. 69 Co 19/2015-222, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 5 rozsudkem ze dne 23. 9. 2014, č. j. 31 C 141/2011-166, zamítl žalobu (výrok I.) a rozhodl o náhradě nákladů řízení státu (výrok II.) a účastníků (výrok III.).
+Městský soud v Praze rozsudkem ze dne 15. 4. 2015, č. j. 69 Co 19/2015-222, rozsudek soudu prvního stupně změnil tak, že žalovaný je povinen zaplatit žalobkyni do tří dnů od právní moci rozsudku 101.280 Kč s 7,75% úrokem z prodlení z této částky ročně od 3. 3. 2011 do zaplacení (výrok I.), ve výrocích II. a III. o náhradě nákladů řízení jej zrušil a v tomto rozsahu věc vrátil soudu prvního stupně k dalšímu řízení.
+Proti rozsudku odvolacího soudu podal žalovaný dovolání, které žalobkyně navrhla pro nepřípustnost odmítnout.
+V řízení o dovolání bylo postupováno podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013 - dále jen „o. s. ř.“ (srov. čl. II bod 7. zákona č. 404/2012 Sb., čl. II bod 2. zákona č. 293/2013 Sb.).
+Podle § 237 o. s. ř. není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+Podle § 241a odst. 2 o. s. ř. v dovolání musí být vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu se rozhodnutí napadá, vymezení důvodu dovolání, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) a čeho se dovolatel domáhá (dovolací návrh).
+Podle 241a odst. 1 o. s. ř. lze dovolání podat pouze z důvodu, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci.
+Námitky žalovaného nevystihují jediný možný dovolací důvod nesprávného právního posouzení věci (§ 241a odst. 1, 3 o. s. ř.). Uplatněním dovolacího důvodu podle § 241a odst. 1 o. s. ř. není zpochybnění právního posouzení věci, vychází-li z jiného skutkového stavu, než z jakého vyšel při posouzení věci odvolací soud. Argumentace žalovaného vychází z jeho vlastní skutkové verze, že dílo předáno nebylo, neboť se jednalo pouze o jeho „pracovní versi“, a na ní teprve buduje od odvolacího soudu odlišné právní posouzení věci, že platně odstoupil od smlouvy o dílo. Odvolacímu soudu vytýká i samotné hodnocení důkazů (že soud vybočil z rámce skutkových tvrzení stran a jimi navržených a provedených důkazů); přehlíží však, že správnost skutkových zjištění v režimu dovolacího řízení podle občanského soudního řízení ve znění účinném od 1. 1. 2013 nelze úspěšně napadnout žádným dovolacím důvodem.
+Ač žalovaný v dovolání avizuje, že jím napadá rozsudek odvolacího soudu i v nákladových výrocích, ve skutečnosti žádné výhrady proti těmto výrokům nevznáší (posuzováno podle obsahu dovolání - § 41 odst. 2 o. s. ř.).
+Nejvyšší soud proto dovolání odmítl (§ 243c odst. 1 věta první o. s. ř.).
+O náhradě nákladů dovolacího řízení nebylo rozhodováno, neboť tímto rozhodnutím se řízení nekončí (§ 243b ve spojení s § 151 odst. 1 o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 27. října 2015
+JUDr. Blanka Moudrá
+předsedkyně senátu
