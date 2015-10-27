@@ -1,0 +1,19 @@
+11 Tcu 72/2015-28
+U S N E S E N Í
+Nejvyšší soud projednal dne 27. října 2015 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na přijetí rozhodnutí ve věci občana České republiky L. B., podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl takto:
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení L. B. rozsudkem Zemského soudu pro trestní věci Vídeň ze dne 8. 5. 2014, sp. zn. 31 Hv 36/14k, ve spojení s rozsudkem Vrchního zemského soudu Vídeň ze dne 21. 10. 2014, sp. zn. 22 Bs 269/14s, kterými byl uznán vinným ze spáchání trestného činu závažné krádeže vloupáním za účelem obživy podle § 127, § 128 odst. 1 č. 4, § 129 č. 1 a 3, § 130 3. a 4. případ rakouského tr. zákoníku, za který mu byl uložen trest odnětí svobody v trvání 3 (tří) let, hledí jako na odsouzení soudem České republiky.
+Odůvodnění:
+Rozsudkem Zemského soudu pro trestní věci Vídeň ze dne 8. 5. 2014, sp. zn. 31 Hv 36/14k, ve spojení s rozsudkem Vrchního soudu zemského soudu Vídeň ze dne 21. 10. 2014, sp. zn. 22 Bs 269/14s, který nabyl právní moci dne 21. 10. 2014, byl L. B. uznán vinným ze spáchání níže uvedených skutků a následně odsouzen k trestu odnětí svobody v trvání 3 (tří) let.
+Podle skutkových zjištění bylo zjištěno, že ods. L. B.:
+v noci ze dne 16. na 17. 3. 2014 ve Vídni ve vědomé a zamýšlené součinnosti se dvěma neznámými spolupachateli (§ 12 rak. tr. zákoníku) odcizil
+· Y. C. osobní motorové vozidlo Passat, reg. zn. W-602131, v hodnotě 5.500,- EUR,
+· S. G. osobní motorové vozidlo Audi, reg. zn. KS-KS-547AY, v hodnotě 7.000,- EUR.
+V obou případech se tedy jednalo o cizí movité věci, jejichž hodnota přesáhla jednotlivě i v souhrnu hraniční částku 3.000,- EUR. Obě vozidla ods. B. odcizil v úmyslu obohatit sebe nebo třetí osobu. Oba skutky spáchal odsouzený a jeho spolupachatelé tak, že nejprve násilím vylomili dveře u řidiče a následně obě vozidla uvedli manipulací s elektronikou zapalováním do provozu. Tedy – vloupáním do dopravního prostředku a vylomením zabezpečovacích zařízení, přičemž tyto závažné krádeže vloupáním spáchali v úmyslu obstarat si jejich opakováním průběžný příjem.
+Ministerstvo spravedlnosti České republiky podalo dopisem pod sp. zn. MSP-190/2015-MOT-T/8 ze dne 1. 9. 2015 Nejvyššímu soudu návrh na přijetí rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů. Tento návrh byl doručen Nejvyššímu soudu dne 3. 9. 2015.
+Podle § 4a odst. 3 tohoto zákona může Nejvyšší soud na návrh Ministerstva spravedlnosti ČR rozhodnout, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Nejvyšší soud věc přezkoumal a shledal, že odsouzený L. B. je občan České republiky, který byl odsouzen soudem jiného členského státu EU a odsouzení se týká skutků, vykazujícího znaky trestného činu i podle právních předpisů České republiky (trestný čin krádeže § 205 tr. zákoníku). Závažnost předmětné trestné činnosti spočívá v tom, že odsouzený během jedné noci ve spolupachatelství se dvěma komplici odcizil dvě motorová vozidla v celkové hodnotě 12. 500,- EUR. S tím koresponduje druh i výměra uloženého trestu odnětí svobody, který je zcela ve shodě s českou právní úpravou.
+Protože jsou splněny všechny podmínky pro to, aby se na výše uvedené odsouzení L. B. hledělo jako na odsouzení soudem České republiky, Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 27. října 2015
+JUDr. Stanislav Rizman
+předseda senátu
