@@ -1,0 +1,15 @@
+11 Tcu 69/2015-13
+U S N E S E N Í
+Nejvyšší soud projednal dne 27. října 2015 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na přijetí rozhodnutí ve věci občana České republiky J. K. podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl takto:
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení J. K. rozsudkem Zemského soudu ve Vídni ze dne 26. 8. 2014, sp. zn. 053 Hv 113/14w, byl uznán vinným ze spáchání trestného činu krádeže za účelem obživy podle § 127, § 130 1. případ rakouského tr. zákoníku, za které mu byl uložen trest odnětí svobody v trvání 22 (dvacet dva) měsíců, hledí jako na odsouzení soudem České republiky.
+Odůvodnění:
+Rozsudkem Zemského soudu ve Vídni ze dne 26. 8. 2014, sp. zn. 053 Hv 113/14w, který nabyl právní moci dne 30. 8. 2014, byl J. K. uznán vinným ze spáchání níže uvedených skutků a následně odsouzen k trestu odnětí svobody v trvání 22 (dvacet dva) měsíců.
+Podle skutkových zjištění bylo zjištěno, že J. K. odcizil oprávněným firmy Fa. Steinmüller und Stachowitsch OG cizí movité věci za účelem obživy (§ 70 rakouského tr. zákoníku) v hodnotě, která v případě pochybností nepřesahuje částku 3.000,- EUR, a to v úmyslu se jejich přivlastněním neoprávněně obohatit. Jednalo se o tři notebooky zn. Mac Book Pro v hodnotě nepřesahující 3.000,- EUR, které odcizil tak, že vstoupil do kancelářských prostor, zde přítomné notebooky vložil do batohu a prostory okamžitě opustil.
+Ministerstvo spravedlnosti České republiky podalo dopisem pod sp. zn. MSP-174/2015-MOT-T/7 ze dne 21. 8. 2015 Nejvyššímu soudu návrh na přijetí rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů. Tento návrh byl doručen Nejvyššímu soudu dne 27. 8. 2015.
+Podle § 4a odst. 3 tohoto zákona může Nejvyšší soud na návrh Ministerstva spravedlnosti ČR rozhodnout, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Nejvyšší soud věc přezkoumal a shledal, že odsouzený J. K. je občan České republiky, který byl odsouzen soudem jiného členského státu EU a odsouzení se týká skutků, vykazujících znaky trestného činu i podle právních předpisů České republiky (trestný čin krádeže § 205 tr. zákoníku). Závažnost předmětné trestné činnosti spočívá v tom, že odsouzený jednorázově odcizil v prostorách výše uvedené firmy movité věci v ceně menší než 3.000,- EUR. S touto prokázanou trestnou činností koresponduje druh i výměra uloženého trestu odnětí svobody, který je zcela ve shodě s českou právní úpravou.
+Protože jsou splněny všechny podmínky pro to, aby se na výše uvedené odsouzení J. K. hledělo jako na odsouzení soudem České republiky, Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 27. října 2015
+JUDr. Stanislav Rizman
+předseda senátu
