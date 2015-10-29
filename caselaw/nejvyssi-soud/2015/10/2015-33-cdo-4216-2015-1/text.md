@@ -1,0 +1,14 @@
+33 Cdo 4216/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudkyň JUDr. Blanky Moudré a JUDr. Ivany Zlatohlávkové ve věci žalobce F. H., zastoupeného JUDr. Ing. Pavlem Sorokáčem, MBA, advokátem se sídlem v Praze 1, Pařížská 68/9, proti žalovanému J. B., o zaplacení 215.000,- Kč s příslušenstvím, vedené u Okresního soudu v České Lípě pod sp. zn. 16 C 307/2014, o dovolání žalobce proti usnesení Krajského soudu v Ústí nad Labem – pobočky v Liberci ze dne 18. 5. 2015, č.j. 29 Co 66/2015-32, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Nejvyšší soud dovolání žalobce proti v záhlaví citovanému rozhodnutí, jímž krajský soud potvrdil usnesení ze dne 14. 1. 2015, č.j. 16 C 307/2014-23, kterým mu Okresní soud v České Lípě nepřiznal osvobození od soudních poplatků, odmítl (§ 243c odst. 1, věta první, zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném od 1. 1. 2014, srov. čl. II bod 2 zákona č. 293/2013 Sb., dále jen „o.s.ř.“); dovolatel nepředložil k řešení žádnou otázku hmotného nebo procesního práva, jež by zakládala přípustnost dovolání ve smyslu § 237 o.s.ř.
+Podle ustanovení § 237 o.s.ř. je, není-li stanoveno jinak, dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+Podle ustanovení § 239 o.s.ř. přípustnost dovolání (§ 237 až § 238a) je oprávněn zkoumat jen dovolací soud; ustanovení § 241b odst. 1 a 2 tím nejsou dotčena.
+Žalobce v dovolání poukázal na svůj nepříznivý zdravotní stav, pro který je u něj vyloučeno získání finančních prostředků výdělečnou činností, jakož i na výši svého a manželčina starobního důchodu, a zkritizoval postup soudů obou stupňů, který označil za přepjatě formalistický s tím, že má za nepředstavitelné, aby „odprodal svou střechu nad hlavou“ za účelem zaplacení soudního poplatku. Na řešení otázky v tomto smyslu však napadené rozhodnutí není založeno; z jeho odůvodnění se podává, že odvolací soud výslovně uzavřel, že rodinný dům slouží žalobci k uspokojení jeho bytové potřeby a jeho vlastnictví mu neumožňuje opatřit si příjmy (peněžní prostředky) použitelné k zaplacení soudního poplatku. Jako nevěrohodné odvolací soud zhodnotil žalobcovo tvrzení, že vyčerpal všechny své úspory.
+Vzhledem k tomu, že tímto rozhodnutím se řízení ve věci nekončí, bude i o náhradě nákladů dovolacího řízení rozhodnuto v konečném rozhodnutí soudu prvního stupně, popřípadě soudu odvolacího.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 29. října 2015
+JUDr. Pavel Krbek
+předseda senátu
