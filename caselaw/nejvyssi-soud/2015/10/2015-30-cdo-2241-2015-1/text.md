@@ -1,0 +1,19 @@
+30 Cdo 2241/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Vrchy a soudců JUDr. Pavla Pavlíka a JUDr. Pavla Vlacha, v právní věci žalobce Frenn Trading B. V., se sídlem v Amsterdamu, Strawinskilaan 965 WTC, 1077XX, Nizozemské království, registrační číslo 160 39 519, zastoupeného JUDr. Petrem Voříškem, PhD., LL.M., advokátem se sídlem v Praze 7, Přístavní 321/14, proti žalovaným 1) Ing. J. K., CSc., a 2) IN-EX tech, s. r. o., se sídlem v Havlíčkově Brodě, Vagónová 2661, identifikační číslo osoby 252 74 767, zastoupeným JUDr. Stanislavem Pavelkou, advokátem se sídlem v Praze 3, Libická 1832/5, o určení vlastnického práva k nemovitosti, vedené u Okresního soudu v Havlíčkově Brodě pod sp. zn. 3 C 22/2012, o dovolání A – Trading, a. s., se sídlem Karlova 455/48, Praha, Staré Město, identifikační číslo osoby 482 89 540, zastoupené JUDr. Petrem Voříškem, Ph.D., LL.M., advokátem se sídlem v Praze 7, Přístavní 321/14, proti rozsudku Krajského soudu v Hradci Králové ze dne 14. ledna 2015, č. j. 17 Co 309/2014-491, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í
+(§ 243f odst. 3 o. s. ř.):
+Krajský soud v Hradci Králové (dále již „odvolací soud“) rozsudkem ze dne 14. ledna 2015, č. j. 17 Co 309/2014-491, potvrdil rozsudek Okresního soudu v Havlíčkově Brodě (dále již „soud prvního stupně“) ze dne 22. července 2014, č. j. 3 C 22/2012-464, jímž soud zamítl žalobu o určení, že žalovaný 1) je vlastníkem označených nemovitostí a rozhodl o náhradě nákladů řízení; odvolací soud dále rozhodl o náhradě nákladů odvolacího řízení.
+Rozsudek odvolacího soudu napadla dovoláním A – Trading, a. s., se sídlem shora (dále též „dovolatelka“), v zastoupení advokáta JUDr. Petra Voříška, Ph.D., LL.M. Dovolatelka svou legitimaci k podání dovolání „vyvozuje ze skutečnosti, že pohledávka, jíž se předmětný spor týká, na ni byla postoupena na základě smlouvy o postoupení pohledávek ze dne 8. 1. 2013.“ Dovolatelka uvedla dovolací důvod a vymezila předpoklady přípustnosti dovolání. Navrhla, aby Nejvyšší soud České republiky (dále již „Nejvyšší soud“ nebo „dovolací soud“) zrušil rozsudky obou soudů a věc vrátil soudu prvního stupně k dalšímu řízení.
+Nejvyšší soud jako soud dovolací (§ 10a o. s. ř.) dospěl k závěru, že v daném případě nezbývá, než podané dovolání odmítnout.
+K podání dovolání proti pravomocnému rozhodnutí odvolacího soudu je oprávněn toliko účastník původního řízení (§ 240 odst. 1 věta první o. s. ř.).
+Podle § 107a o. s. ř. může žalobce, má-li za to, že po zahájení řízení nastala právní skutečnost, s níž právní předpisy spojují převod nebo přechod práva nebo povinnosti účastníka řízení, o něž v řízení jde, dříve než soud o věci rozhodne, navrhnout, aby do řízení na místo dosavadního účastníka vstoupil nabyvatel práva nebo povinnosti.
+Podle § 243b o. s. ř. se v dovolacím řízení § 107a o. s. ř. nepoužije. Soud tedy může návrhu žalobce podanému podle § 107a o. s. ř. vyhovět jen tehdy, byl-li podán za řízení, tedy před vyhlášením (vydáním) rozhodnutí odvolacího soudu, jímž se řízení končí (viz rozhodnutí Vrchního soudu v Praze ze dne 15. ledna 2004, sp. zn. 9 Cmo 568/2003, publikované v časopisu Soudní judikatura ročník 2004, sešit 5, pod č. 87). Byl-li návrh dle § 107a o. s. ř. podán po vydání rozhodnutí odvolacího soudu, dovolací soud k němu nepřihlíží (§ 41a odst. 3 o. s. ř.).
+Z uvedeného je tedy zřejmé, že dovolání proti rozsudku odvolacího soudu bylo podáno osobou, která není k podání dovolání oprávněna.
+Nejvyšší soud proto podle § 218 písm. b) ve spojení s § 243c odst. 3 o. s. ř. dovolání A – Trading, a. s., se sídlem Karlova 455/48, Praha, Staré Město, proti rozsudku odvolacího soudu odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 o. s. ř.).
+V Brně dne 29. října 2015
+JUDr. Pavel Vrcha
+předseda senátu
