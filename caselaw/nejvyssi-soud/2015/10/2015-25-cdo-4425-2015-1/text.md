@@ -1,0 +1,13 @@
+25 Cdo 4425/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Petrem Vojtkem v právní věci žalobkyně M. Š., zastoupené JUDr. Jiřím Žižkou, advokátem se sídlem v Klatovech, Vídeňská 1, proti žalovanému M. Ch., zastoupenému Mgr. Ing. Petrem Zýkou, advokátem se sídlem v Plzni, Jiráskovo náměstí 47/27, o náhradu škody, vedené u Okresního soudu Plzeň-jih pod sp. zn. 6 C 58/2013, o dovolání žalobkyně proti rozsudku Krajského soudu v Plzni ze dne 6. 10. 2014, č. j. 15 Co 290/2014-148, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Nejvyšší soud odmítl dovolání žalobkyně proti rozsudku Krajského soudu v Plzni ze dne 6. 10. 2014, č. j. 15 Co 290/2014-148, podle § 243c odst. 1 věty první o.s.ř., neboť neobsahuje zákonem požadované údaje o tom, v čem dovolatelka spatřuje splnění předpokladů přípustnosti dovolání (§ 241a odst. 2 o.s.ř.); v dovolacím řízení tak nelze pokračovat, neboť v důsledku absence uvedené náležitosti nelze posoudit přípustnost dovolání.
+Může-li být dovolání přípustné jen podle ustanovení § 237 o.s.ř., je dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné, přičemž k projednání dovolání nepostačuje pouhá citace byť i jen části textu tohoto ustanovení (srov. např. usnesení Nejvyššího soudu ze dne 25. 9. 2013, sp. zn. 29 Cdo 2394/2013, publikováno pod č. 4/2014 Sbírky soudních rozhodnutí a stanovisek, nebo usnesení Ústavního soudu ze dne 21. 1. 2014, sp. zn. I. ÚS 3524/13, ze dne 8. 7. 2014, sp. zn. II. ÚS 4031/13, ze dne 26. 6. 2014, sp. zn. III. ÚS 1675/14, a ze dne 15. 10. 2014, sp. zn. IV. ÚS 2901/14). Dovolatelka namítá, že napadené rozhodnutí závisí na vyřešení právní otázky, která by měla být dovolacím soudem vyřešena jinak „oproti řešení použitému napadeným rozhodnutím“. Takto formulovaný důvod přípustnosti dovolání neodpovídá žádnému ze zákonem stanovených důvodů, pro který lze přípustnost mimořádného opravného prostředku založit; nejvíce se mu blíží důvod, že má být dovolacím soudem vyřešená právní otázka posouzena jinak, to však nikoliv oproti dovoláním napadenému rozhodnutí, nýbrž oproti judikatuře dovolacího soudu, která má být tímto způsobem překonána. Dovolatelka ovšem konkrétní rozhodnutí neoznačuje ani nevymezuje, od konkrétně jaké ustálené rozhodovací praxe dovolacího soudu se odvolací soud při řešení rozhodné právní otázky odchýlil. Její dovolání tedy nemá zákonem požadované náležitosti.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta druhá o.s.ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 29. října 2015
+JUDr. Petr Vojtek
+předseda senátu
