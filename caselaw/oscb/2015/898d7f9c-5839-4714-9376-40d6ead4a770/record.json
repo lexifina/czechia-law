@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2015:28.C.238.2015.1",
+  "docket": "28 C 238/2015-26",
+  "date": "2015-11-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/898d7f9c-5839-4714-9376-40d6ead4a770",
+  "source_sha256": "16abc295f3f828b0ae80dd287efe3c0485549e514a525060e47881fe3da0232a",
+  "source_id": "898d7f9c-5839-4714-9376-40d6ead4a770",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 238/2015-26",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "JUDr. Eduard Levý",
+    "ecli": "ECLI:CZ:OSCB:2015:28.C.238.2015.1",
+    "predmetRizeni": "EPR [číslo] částku [částka] s příslušenstvím",
+    "datumVydani": "2015-11-02",
+    "datumZverejneni": "2021-07-12",
+    "klicovaSlova": [
+      "korporace",
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1 nař. vl. č. 142/1994 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 107 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/898d7f9c-5839-4714-9376-40d6ead4a770"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
