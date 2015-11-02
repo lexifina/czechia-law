@@ -1,0 +1,12 @@
+26 Cdo 4435/2015
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy senátu JUDr. Zbyňka Poledny a soudců JUDr. Miroslavy Jirmanové, Ph.D., a JUDr. Aleše Zezuly v exekuční věci oprávněné Československé obchodní banky, a. s. se sídlem v Praze 5, Radlická č. 333/150, identifikační číslo osoby 00001350, zastoupené Mgr. Jiřím Žákem, advokátem se sídlem v Praze 1, Národní č. 60/28, proti povinnému P. M., pro 101 652,72 Kč s příslušenstvím, vedené u soudního exekutora JUDr. Igora Ivanka, Exekutorský úřad Praha 10, pod sp. zn. 167 EX 30976/13, o dovolání soudního exekutora proti usnesení Městského soudu v Praze ze dne 2. července 2015, sp. zn. 55 Co 140/2015, takto:
+Dovolání soudního exekutora se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání soudního exekutora proti usnesení Městského soudu v Praze ze dne 2. července 2015, sp. zn. 55 Co 140/2015, jímž bylo změněno usnesení soudního exekutora ze dne 26. února 2015, č. j. 167 EX 30976/13-55, tak, že se insolvenčnímu správci Ing. Richardu Jasinskému vydává vymožené plnění v exekuci ve výši 103 106 Kč, není přípustné podle ustanovení § 237 zákona č. 99/1963, ve znění účinném do 31. prosince 2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu [k otázce, zda je soudní exekutor povinen po zahájení insolvenčního řízení na majetek v exekuci povinného vydat do majetkové podstaty úpadce jím v exekuci vymožené plnění v celém rozsahu anebo ve výši po odečtení nákladů exekuce srov. například odůvodnění usnesení Nejvyššího soudu ze dne 23. října 2014, sp. zn. 21 Cdo 3182/2014 (publikované pod číslem 32/2015 Sbírky soudních rozhodnutí a stanovisek), usnesení Nejvyššího soudu ze dne 18. března 2015, sp. zn. 21 Cdo 4599/2014 nebo usnesení Nejvyššího soudu ze dne 23. dubna 2015, sp. zn. 26 Cdo 1179/2015] a není důvod, aby rozhodná právní otázka byla posouzena jinak. Nejvyšší soud České republiky proto dovolání soudního exekutora podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl.
+zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 2. listopadu 2015
+JUDr. Zbyněk Poledna
+předseda senátu
