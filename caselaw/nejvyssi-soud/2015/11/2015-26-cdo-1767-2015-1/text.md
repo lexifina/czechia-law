@@ -1,0 +1,18 @@
+26 Cdo 1767/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně Doc. JUDr. Věry Korecké, CSc., a soudců JUDr. Miroslava Feráka a JUDr. Jitky Dýškové ve věci žalobce Družstva Kloboukova 2193 – 2195 a Hrdličkova 2196, IČO 26773023, se sídlem Praha 4, Kloboukova 2195, zastoupeného Mgr. Jiřím Sitou, advokátem se sídlem Praha 1, Rybná 14, proti žalované J. B., P., o vyklizení bytu, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 48 C 323/2009, o odvolání žalované proti rozsudku Městského soudu v Praze ze dne 14. října 2014, č. j. 30 Co 383/2014-100, takto:
+I. Řízení o odvolání žalované proti rozsudku Městského soudu v Praze ze dne 14. října 2014, č. j. 30 Co 383/2014-100, se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů řízení.
+O d ů v o d n ě n í:
+Městský soud v Praze (soud odvolací) rozsudkem ze dne 14. 10. 2014, č. j. 30 Co 383/2014-100, výrokem I. potvrdil rozsudek Obvodního soudu pro Prahu 4 (soudu prvního stupně) ze dne 19. 5. 2014, č. j. 48 C 323/2009-79, ve výroku, jímž bylo žalované uloženo vyklidit zde specifikovaný byt, výrokem II. jej změnil ve výroku o nákladech řízení a výrokem III. rozhodl o nákladech odvolacího řízení.
+Proti rozsudku odvolacího soudu podala žalovaná (osobně dne 5. 2. 2015 u soudu prvního stupně) opravný prostředek, výslovně označený jako odvolání.
+Po přezkoumání věci dospěl Nejvyšší soud k závěru, že řízení o tomto podání žalované, které lze podle jeho obsahu i výslovného označení považovat za odvolání proti rozsudku Městského soudu v Praze ze dne 14. října 2014, č. j. 30 Co 383/2014-100, (srov. § 41 odst. 2 zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů - dále jen "o. s. ř."), musí být pro neodstranitelný nedostatek podmínek řízení zastaveno.
+Krajské soudy rozhodují o odvoláních proti rozhodnutím okresních soudů (srov. § 10 odst. 1 o. s. ř.). Odvolání je podle ustanovení § 201 o. s. ř. řádným opravným prostředkem, jímž může účastník napadnout rozhodnutí soudu prvního stupně, pokud to zákon nevylučuje. Nejvyšší soud České republiky rozhoduje v občanském soudním řízení o mimořádném opravném prostředku - dovolání - proti pravomocnému rozhodnutí odvolacího soudu (srov. § 10a, § 236 odst. 1 o. s. ř.).
+Z citovaných ustanovení vyplývá, že proti rozhodnutí krajského soudu jako soudu odvolacího zákon odvolání nepřipouští. Občanský soudní řád k projednání odvolání proti takovému rozhodnutí neupravuje ani funkční příslušnost určitého soudu; nedostatek funkční příslušnosti je přitom neodstranitelným nedostatkem podmínky řízení, jehož důsledkem je vždy zastavení řízení (srov. § 104 odst. 1 věta první o. s. ř.). Řízení o odvolání proti rozhodnutí odvolacího soudu zastaví Nejvyšší soud České republiky jako vrcholný článek soustavy obecných soudů (srov. např. usnesení Nejvyššího soudu ze dne 31. 5. 2001, sp. zn. 20 Cdo 1535/99, uveřejněné v časopise Soudní judikatura číslo 7, ročník 2001, pod číslem 85, či ze dne 27. 6. 2002, sp. zn. 29 Odo 433/2002, uveřejněné pod č. 139 v časopise Soudní judikatura 7/2002.
+Nejvyšší soud proto z výše uvedených důvodů řízení o podaném odvolání pro neodstranitelný nedostatek podmínek řízení zastavil (§ 104 odst. 1, § 243b o. s. ř.).
+O náhradě nákladů řízení bylo rozhodnuto podle ustanovení § 243b, § 146 odst. 2 věty první a § 151 odst. 1 o. s. ř., neboť žalovaná, která z procesního hlediska zavinila, že řízení o jejím podání bylo zastaveno, na náhradu nákladů řízení nemá právo a žalobci žádné účelně vynaložené náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 5. listopadu 2015
+Doc. JUDr. Věra Korecká, CSc.
+podepsáno JUDr. Miroslavem Ferákem
+za nepřítomného předsedu senátu
