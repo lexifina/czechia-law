@@ -1,0 +1,14 @@
+21 Cdo 4445/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Zdeňka Novotného a soudců JUDr. Ljubomíra Drápala a JUDr. Lubomíra Ptáčka, Ph.D., v právní věci žalobce R. Š., proti žalované ORBIX s.r.o., se sídlem v Praze 1, Revoluční č. 767/25, IČO 266 94 638, zastoupené JUDr. Zdeňkem Hrouzkem, advokátem se sídlem v Brně, Pražákova č. 1008/69, o 124.321,- s příslušenstvím, vedené u Okresního soudu v Ostravě pod sp. zn. 26 C 104/2010, o dovolání žalované proti rozsudku Krajského soudu v Ostravě ze dne 22. dubna 2015 č.j. 16 Co 245/2014-754, takto:
+I. Dovolání žalované se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalované proti rozsudku Krajského soudu v Ostravě ze dne 22.4.2015 č.j. 16 Co 245/2014-754, není přípustné podle ustanovení § 237 o.s.ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu (k otázce podmínek, za kterých je třeba v odvolacím řízení zopakovat důkazy provedené soudem prvního stupně a k otázce opakování listinných důkazů srov. rozsudek Nejvyššího soudu ze dne 22.11.2011 sp. zn. 21 Cdo 3061/2010 nebo usnesení Nejvyššího soudu ze dne 18.6.2014 sp. zn. 21 Cdo 1234/2013, k otázce rozlišení, zda požadované plnění představuje mzdový nárok, který je zaměstnavatel povinen poskytnout, jestliže zaměstnanec splní sjednané předpoklady a podmínky, tj. zda jde o tzv. nárokovou složkou mzdy, nebo zda jde o takovou složku mzdy, na kterou vzniká nárok až na základě zvláštního rozhodnutí zaměstnavatele o jejím přiznání, tj. zda se jedná o tzv. nenárokovou složku mzdy srov. například rozsudek Nejvyššího soudu ze dne 24.8.2006 sp. zn. 21 Cdo 1486/2005 a rozsudek Nejvyššího soudu ze dne 12.2.2009 sp. zn. 21 Cdo 5380/2007, k otázce posouzení, kdy se nenároková složka mzdy stává složkou nárokovou srov. například rozsudek Nejvyššího soudu ze dne 8.11.2004 sp. zn. 21 Cdo 537/2004, který byl uveřejněn ve Sbírce soudních rozhodnutí a stanovisek roč. 2005, pod č. 3, k otázce posouzení provize jako složky mzdy srov. například rozsudek Nejvyššího soudu ze dne 25.9.2014 sp. zn. 21 Cdo 3167/2013) a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+V části dovolání žalovaná uplatnila jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o.s.ř., zpochybňuje-li skutkové zjištění, které bylo pro právní posouzení věci odvolacím soudem rozhodující, a proto dovolání trpí vadami, pro které nelze v dovolacím řízení pokračovat.
+Nejvyšší soud České republiky proto dovolání žalované podle ustanovení § 243c odst. 1 věty první o.s.ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 10. listopadu 2015
+JUDr. Zdeněk Novotný
+předseda senátu
