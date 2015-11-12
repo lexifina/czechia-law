@@ -1,0 +1,15 @@
+29 Nd 339/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Filipa Cilečka a soudců JUDr. Marka Doležala a JUDr. Petra Šuka v právní věci oprávněné T-Mobile Czech Republic a. s., se sídlem v Praze 4, Tomíčkova 2144/1, PSČ 148 00, identifikační číslo osoby 64949681, zastoupené Mgr. Lenkou Heřmánkovou, advokátkou, se sídlem v Praze 7, Jankovcova 1518/2, PSČ 170 00, proti povinnému L. P., o pověření exekutora a nařízení exekuce, vedené u Okresního soudu v Nymburce pod sp. zn. 21 EXE 5940/2015, o určení místní příslušnosti soudu, takto:
+Věc vedenou u Okresního soudu v Nymburce pod sp. zn. 21 EXE 5940/2015 projedná a rozhodne Okresní soud v Nymburce.
+Odůvodnění:
+Návrhem ze dne 29. června 2015, podaným u soudního exekutora JUDr. Miloslava Zwiefelhofera, Exekutorský úřad Praha 3, se oprávněná vůči povinnému domáhá nařízení exekuce k vymožení pohledávky ve výši 5.274 Kč s příslušenstvím, přiznané jí rozhodnutím Českého telekomunikačního úřadu – odborem pro oblast Praha, ze dne 27. dubna 2015, č. j. ČTÚ-102 055/2013-631/XV. vyř. – ŠtZ, vykonatelným ode dne 2. června 2015, s tím, aby provedením exekuce byl pověřen soudní exekutor JUDr. Miloslav Zwiefelhofer.
+Okresní soud v Nymburce usnesením ze dne 17. srpna 2015, č. j. 21 EXE 5940/2015-24, vyslovil svou místní nepříslušnost a věc předložil Nejvyššímu soudu k určení, který soud věc projedná a rozhodne.
+Soud uvedl, že povinný je slovenský státní příslušník, dle sdělení Ministerstva vnitra České republiky ze dne 15. srpna 2015, č. j. MV-120454-2/OAM-2015, neměl k datu 29. června 2015 na území České republiky povolen žádný druh pobytu dle zákona č. 326/1999 Sb., o pobytu cizinců na území České republiky, a současné místo pobytu povinného není známo.
+Podle § 11 odst. 3 zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Místní příslušnost soudu v exekučním řízení upravuje § 45 odst. 2 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekučního řádu), podle něhož je místně příslušným exekučním soudem soud, v jehož obvodu má povinný, je-li fyzickou osobou, místo svého trvalého pobytu, popřípadě místo pobytu na území České republiky podle druhu pobytu cizince. Je-li povinný právnickou osobou, je místně příslušným soud, v jehož obvodu má povinný sídlo. Nemá-li povinný, který je fyzickou osobou, v České republice místo trvalého pobytu nebo místo pobytu podle věty první, nebo nemá-li povinný, který je právnickou osobou, sídlo v České republice, je místně příslušným soud, v jehož obvodu má povinný majetek.
+Protože kritéria § 45 odst. 2 exekučního řádu se v projednávané věci nemohou uplatnit, určil Nejvyšší soud podle § 11 odst. 3 o. s. ř. pro rozhodnutí o návrhu místně příslušným Okresní soud v Nymburce, u něhož bylo řízení zahájeno.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 12. listopadu 2015
+JUDr. Filip Cileček
+předseda senátu
