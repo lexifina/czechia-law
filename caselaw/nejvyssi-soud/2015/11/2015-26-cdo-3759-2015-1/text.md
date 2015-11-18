@@ -1,0 +1,14 @@
+26 Cdo 3759/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Pavlíny Brzobohaté a soudkyň JUDr. Jitky Dýškové a Doc. JUDr. Věry Korecké, CSc., v exekuční věci oprávněného Společenství domu 38/1856 Ludvíka Podéště, se sídlem v Ostravě - Porubě, Ludvíka Podéště 38/1856, IČO 25878701, zastoupeného Mgr. Tomášem Gureckým, advokátem se sídlem v Ostravě - Porubě, Josefa Skupy 1639/21, proti povinnému D. B., O. – P., pro peněžité plnění, vedené u soudní exekutorky Mgr. Zuzany Sobíškové, Exekutorský úřad Praha 6, pod sp. zn. 180 EX 3983/13, o dovolání soudní exekutorky proti usnesení Krajského soudu v Ostravě ze dne 28. května 2015, č. j. 9 Co 534/2015-70, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Soudní exekutorka napadla dovoláním usnesení Krajského soudu v Ostravě (odvolacího soudu) ze dne 28. 5. 2015, č. j. 9 Co 534/2015-70, jímž změnil její usnesení ze dne 11. 2. 2015, č. j. 180 EX 3983/13-63, tak, že se celé vymožené plnění vydává insolvenční správkyni povinného.
+Dovolání proti usnesení odvolacího soudu není přípustné podle § 237 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2013 (čl. II bod 2. zákona č. 293/2013 Sb.), dále jen „o. s. ř.“, neboť napadené usnesení je v souladu s ustálenou rozhodovací praxí dovolacího soudu. Podle ní je soudní exekutor povinen vydat do majetkové podstaty dlužníka po zahájení insolvenčního řízení jím v exekuci vymožené plnění bez odpočtu nákladů exekuce (srovnej např. usnesení Nejvyššího soudu ze dne 23. října 2014, sp. zn. 21 Cdo 3182/2014, uveřejněné pod č. 32/2015 Sbírky soudních rozhodnutí a stanovisek).
+Otázka, zda je soudní exekutor povinen vydat výtěžek exekuce do majetkové podstaty dlužníka po zahájení insolvenčího řízení bez odpočtu nákladů exekuce, není ani dovolacím soudem rozhodována rozdílně (jak tvrdí dovolatelka). Poukazuje-li dovolatelka na usnesení Nejvyššího soudu ze dne 24. 1. 2012, sp. zn. 20 Cdo 3845/2011, přehlíží, že věcně se danou otázkou toto rozhodnutí nezabývá, ani nevykládá ustanovení § 46 odst. 7 zákona č. 120/2001 Sb., exekuční řád, ve znění do 31. 12. 2013. V dané věci totiž dospěl dovolací soud k závěru, že dovolání není přípustné, a proto ho – aniž by se mohl vyslovit k správnosti napadeného rozhodnutí - odmítl. Toto rozhodnutí proto nemůže být v rozporu s citovaným rozhodnutím R 32/2015. Zároveň není důvod, aby rozhodná právní otázka vymezená v dovolání byla nyní posouzena jinak.
+Nejvyšší soud proto dovolání soudní exekutorky podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., exekuční řád, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 18. listopadu 2015
+JUDr. Pavlína Brzobohatá
+předsedkyně senátu
