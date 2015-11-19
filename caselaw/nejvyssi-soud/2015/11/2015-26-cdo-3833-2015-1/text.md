@@ -1,0 +1,14 @@
+26 Cdo 3833/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Pavlíny Brzobohaté a soudců Doc. JUDr. Věry Korecké, CSc., a JUDr. Miroslava Feráka v právní věci žalobce Okresního stavebního bytového družstva Teplice, se sídlem v Teplicích, Střední ulice 1057/11, IČO 00227692, zastoupeného Mgr. Olgou Růžičkovou, advokátkou se sídlem v Teplicích, Dubská 390/4, proti žalovanému A. S., L., zastoupenému Mgr. Lukášem Slaninou, advokátem se sídlem v Hradci Králové, Komenského 266/3, o 68.386 Kč s příslušenstvím, vedené u Okresního soudu v Liberci pod sp. zn. 14 C 78/2012, o dovolání žalobce proti usnesení Krajského soudu v Ústí nad Labem - pobočky v Liberci ze dne 30. března 2015, č. j. 30 Co 428/2014-69, takto:
+I. Dovolání se odmítá.
+II. Žalobce je povinen zaplatit žalovanému na náhradě nákladů dovolacího řízení částku 4.160 Kč k rukám Mgr. Lukáše Slaniny, advokáta se sídlem v Hradci Králové, Komenského 266/3, do tří dnů od právní moci tohoto usnesení.
+O d ů v o d n ě n í :
+Dovolání žalobce proti usnesení Krajského soudu v Ústí nad Labem - pobočky v Liberci (odvolací soud) ze dne 30. 3. 2015, č. j. 30 Co 428/2014-69, kterým potvrdil usnesení Okresního soudu v Liberci ze dne 15. 8. 2014, č. j. 14 C 78/2012-63, jímž zastavil řízení dle § 111 odst. 3 věta třetí zákona č. 99/1963 Sb., občanský soudní řád, ve znění do 31. 12. 2013 (čl. II bod 2. zákona č. 293/2013 Sb.), dále jen „o. s. ř.“, není přípustné podle § 237 o. s. ř., a proto ho Nejvyšší soud podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Podání žalobce ze dne 2. 7. 2013 posoudil odvolací soud (jenž dospěl k závěru, že nešlo ani o odvolání proti usnesení o přerušení řízení, ani o návrh na pokračování v řízení podle § 111 odst. 3 o. s. ř.) nejen podle jeho označení („sdělení“), ale zejména podle jeho obsahu. Závěry odvolacího soudu se tak neodchylují od ustálené judikatury (srovnej např. usnesení Nejvyššího soudu ze dne 27. 7. 2007, sp. zn. 21 Cdo 2704/2006, ze dne 30. 6. 2004, sp. zn. 30 Cdo 721/2003), podle níž posouzení podání podle jeho obsahu soudu neumožňuje, aby určitému a srozumitelnému úkonu přikládal jiný než účastníkem sledovaný smysl. Ustanovení § 41 odst. 2 o. s. ř. soudu sice ukládá posuzovat procesní úkon účastníka bez zřetele k tomu, jak jej účastník označil nebo zda jej vůbec označil, neumožňuje mu však, aby „domýšlel“ obsah úkonu nebo z obsahu úkonu činil závěry, které z něj ve skutečnosti nevyplývají. Není ani důvod, aby rozhodná právní otázka vymezená v dovolání byla posouzena jinak.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+Nesplní-li povinný dobrovolně, co mu ukládá vykonatelné rozhodnutí, může oprávněný podat návrh na exekuci (soudní výkon rozhodnutí).
+V Brně dne 19. listopadu 2015
+JUDr. Pavlína Brzobohatá
+předsedkyně senátu
