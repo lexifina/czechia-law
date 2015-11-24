@@ -1,0 +1,11 @@
+21 Cdo 4191/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Jiřím Doležílkem v právní věci žalobkyně R. N., zastoupené JUDr. Jindřichem Vítkem, Ph.D., advokátem se sídlem v Praze 2 - Vinohradech, Šafaříkova č. 201/17, proti žalovanému MEDITERRA s. r. o. se sídlem v Praze 5, U Malvazinky č. 177, IČO 49686356, zastoupenému Mgr. Vratislavem Urbáškem, advokátem se sídlem v Praze 1 – Starém Městě, Národní č. 973/41, o 297.397,41 Kč s úroky z prodlení, vedené u Obvodního soudu pro Prahu 5 pod sp. zn. 8 C 6/2014, o dovolání žalovaného proti usnesení Městského soudu v Praze ze dne 25. března 2015 č. j. 23 Co 50/2015-249, takto:
+Dovolání žalovaného se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky dovolání žalovaného proti usnesení Městského soudu v Praze ze dne 25. 3. 2015 č. j. 23 Co 50/2015-249 podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl, neboť neobsahuje údaje o tom, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání [§ 241a odst. 2 o. s. ř.; srov. například usnesení Nejvyššího soudu ze dne 25. 9. 2013 sp. zn. 29 Cdo 2394/2013, které bylo uveřejněno pod č. 4 ve Sbírce soudních rozhodnutí a stanovisek, roč. 2014, usnesení Nejvyššího soudu ze dne 27. 8. 2013 sen. zn. 29 NSČR 55/2013 nebo usnesení Nejvyššího soudu ze dne 29. 8. 2013 sp. zn. 29 Cdo 2488/2013, z jejichž odůvodnění vyplývá, že, má-li být dovolání přípustné proto, že „dovolacím soudem vyřešená právní otázka má být posouzena jinak“, jde o způsobilé vymezení přípustnosti dovolání ve smyslu § 241a odst. 2 o. s. ř., jen je-li z dovolání zřejmé, od kterého svého řešení (nikoli řešení odvolacího soudu v napadeném rozhodnutí) otázky hmotného nebo procesního práva se má (podle mínění dovolatele) dovolací soud odchýlit], a v dovolacím řízení nelze pro tento nedostatek pokračovat.
+Vzhledem k tomu, že tímto rozhodnutím dovolacího soudu se řízení o věci nekončí, bude rozhodnuto i o náhradě nákladů vzniklých v tomto dovolacím řízení v konečném rozhodnutí soudu prvního stupně, popřípadě soudu odvolacího (§ 243b, § 151 odst. 1 o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 24. listopadu 2015
+JUDr. Jiří Doležílek
+předseda senátu
