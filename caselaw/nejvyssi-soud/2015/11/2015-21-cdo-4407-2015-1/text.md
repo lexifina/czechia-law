@@ -1,0 +1,14 @@
+21 Cdo 4407/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Jiřího Doležílka a soudců JUDr. Mojmíra Putny a JUDr. Ljubomíra Drápala v právní věci žalobce Ing. B. Z., zastoupeného Mgr. Taťánou Kolářovou, advokátkou se sídlem v Ústí nad Labem, Bělehradská č. 9, proti žalovanému Planet of Hospitality (CZ), s.r.o. se sídlem v Praze 6 - Břevnově, Vodňanského č. 538/4, IČO 27646564, zastoupenému Mgr. Michalem Balcarem, advokátem se sídlem v Praze 1 – Malé Straně, Říční č. 456/10, o neplatnost okamžitého zrušení pracovního poměru, vedené u Obvodního soudu pro Prahu 6 pod sp. zn. 18 C 2/2013, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 13. května 2015 č. j. 18 Co 119/2015-126, takto:
+I. Dovolání žalobce se odmítá.
+II. Žalobce je povinen zaplatit žalovanému na náhradě nákladů dovolacího řízení 3.388,- Kč do 3 dnů od právní moci tohoto usnesení k rukám Mgr. Michala Balcara, advokáta se sídlem v Praze 1 – Malé Straně, Říční č. 456/10.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 13. 5. 2015 č. j. 18 Co 119/2015-126 není přípustné podle ustanovení § 237 o. s. ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu [k otázce hodnocení stupně intenzity porušení povinnosti vyplývající z právních předpisů vztahujících se k zaměstnancem vykonávané práci a hledisek pro vymezení relativně neurčité hypotézy právní normy ustanovení § 55 odst. 1 písm. b) zákoníku práce srov. při obdobné právní úpravě v předchozím zákoníku práce právní názory, uvedené například v rozsudku Vrchního soudu v Praze ze dne 28. 6. 1995 sp. zn. 6 Cdo 53/94, který byl uveřejněn v časopise Práce a mzda č. 7-8, roč. 1996, v rozsudku Nejvyššího soudu ze dne 19. 1. 2000 sp. zn. 21 Cdo 1228/99, který byl uveřejněn pod č. 21 ve Sbírce soudních rozhodnutí a stanovisek, roč. 2001, nebo v rozsudku Nejvyššího soudu ze dne 9. 8. 2012 sp. zn. 21 Cdo 4851/2010] a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+V části, v níž dovolatel uplatnil jiné dovolací důvody než ten, který je uveden v ustanovení § 241a odst. 1 o. s. ř. [zpochybňuje-li skutková zjištění, která byla pro právní posouzení věci odvolacím soudem rozhodující, a předestírá-li jiné skutkové závěry, na nichž buduje své vlastní a od odvolacího soudu odlišné právní posouzení věci (že se žalobce a žalovaný dohodli na tom, že po skončení pracovní neschopnosti žalobce uzavřou dohodu o rozvázání pracovního poměru), a namítá-li vady řízení před soudy], dovolání trpí nedostatkem, pro který nelze v dovolacím řízení pokračovat.
+Nejvyšší soud České republiky proto dovolání žalobce podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 24. listopadu 2015
+JUDr. Jiří Doležílek
+předseda senátu
