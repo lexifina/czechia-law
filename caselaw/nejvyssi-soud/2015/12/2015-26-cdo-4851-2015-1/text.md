@@ -1,0 +1,12 @@
+26 Cdo 4851/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu
+JUDr. Zbyňka Poledny a soudců JUDr. Miroslavy Jirmanové, Ph.D., a JUDr. Aleše Zezuly v exekuční věci oprávněné Stavební spořitelny České spořitelny, a. s. se sídlem v Praze 3, Vinohradská č. 180/1632, identifikační číslo osoby 60197609, zastoupené JUDr. Pavlem Hráškem, advokátem se sídlem v Praze 1, Týnská č. 1053/21, proti povinným 1) L. M., a 2) Z. A., zastoupeným JUDr. Rostislavem Puklem, advokátem se sídlem ve Veselí nad Moravou, Svatoplukova č. 519, pro 262 675,80 Kč s příslušenstvím, vedené u Okresního soudu v Hodoníně pod sp. zn. 44 EXE 21/2013, o dovolání povinných proti usnesení Krajského soudu v Brně ze dne 12. června 2015, č. j. 12 Co 567/2014-195, takto:
+Dovolání povinných se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání povinných proti usnesení Krajského soudu v Brně ze dne 12. června 2015, č. j. 12 Co 567/2014-195, jímž bylo usnesení soudu prvního stupně v napadeném zamítavém výroku v jeho části ohledně úroku z prodlení ve výši 6,35 % z částky 7 828,97 Kč od 16. května 2013 do zaplacení a jistiny ve výši 29 947,08 Kč s 6,35 % úrokem z prodlení od 16. května 2013 do zaplacení změněno tak, že se exekuce nařízená usnesením Okresního soudu v Hodoníně ze dne 6. února 2013, č. j. 44 EXE 21/2013-22, zastavuje dále i ohledně úroku z prodlení ve výši 6,35 % z částky 7 828, 97 Kč od 16. května 2013 do zaplacení a jistiny ve výši 29 947,08 Kč s 6,35 % úrokem z prodlení od 16. května 2013 do zaplacení, není přípustné, protože směřuje proti usnesení odvolacího soudu, jímž bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50 000 Kč [§ 238 odst. 1 písm. d) zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. prosince 2013)]; na závěru, že dovolání je přípustné, jen jestliže napadeným rozhodnutím bylo rozhodnuto o peněžitém plnění převyšujícím částku 50 000 Kč, přitom nic nemění ani to, že předmětem exekuce je plnění z právního vztahu původně založeného spotřebitelskou smlouvou (srov. usnesení Nejvyššího soudu ze dne 11. července 2013, sp. zn. 20 Cdo 1696/2013). Nejvyšší soud proto dovolání oprávněné odmítl (§ 243c odst. 1 o. s. ř.).
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 1. prosince 2015
+JUDr. Zbyněk Poledna
+předseda senátu
