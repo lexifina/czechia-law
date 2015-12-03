@@ -1,0 +1,11 @@
+25 Cdo 5072/2014
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Petrem Vojtkem v právní věci žalobce: Ing. F. M., CSc., zastoupený JUDr. Dalilou Pelechovou, advokátkou se sídlem v Ostravě, Čs. legií 20, proti žalované: ARCIMPEX s.r.o., se sídlem ve Sviadnově, K čističce 53, IČO 15502511, zastoupená JUDr. Zdeňkou Friedelovou, advokátkou se sídlem v Ostravě, Místecká 258, o 2.621.400,- Kč s příslušenstvím, vedené u Okresního soudu ve Frýdku-Místku pod sp. zn. 140 EC 90/2012, o dovolání žalobce proti rozsudku Krajského soudu v Ostravě ze dne 19. 6. 2014, č. j. 71 Co 280/2014-236, takto:
+I. Záhlaví rozsudku Nejvyššího soudu České republiky ze dne 18. června 2015, č. j. 25 Cdo 5072/2014-265, se opravuje tak, že místo slov „Mgr. Evou Budínovou, advokátkou se sídlem ve Frýdku-Místku, Dobrovského 724“ se vkládají slova „JUDr. Dalilou Pelechovou, advokátkou se sídlem v Ostravě, Čs. legií 20“ a za označení žalované se vkládají slova „zastoupené JUDr. Zdeňkou Friedelovou, advokátkou se sídlem v Ostravě, Místecká 258“.
+II. Výrok rozsudku Nejvyššího soudu České republiky ze dne 18. června 2015, č. j. 25 Cdo 5072/2014-265, se opravuje tak, že zní: „Rozsudek Krajského soudu v Ostravě ze dne 19. června 2014, č. j. 71 Co 280/2014-236, a rozsudek Okresního soudu ve Frýdku-Místku ze dne 18. září 2013, č. j. 140 EC 90/2012-177, s výjimkou výroku I. o zastavení řízení ohledně částky 1.500.000,- Kč, se zrušují a věc se v tomto rozsahu vrací Okresnímu soudu ve Frýdku-Místku k dalšímu řízení.“
+Odůvodnění:
+V písemném vyhotovení rozsudku dovolacího soudu došlo ke zjevné nesprávnosti při označení právních zástupců stran, která proto byla podle § 164 a § 243b o.s.ř. tímto opravným usnesením napravena. Pro přehlednost došlo i k upřesnění výroku tohoto rozsudku, neboť se výslovně nevyjadřoval k výroku I. rozsudku soudu prvního stupně, jímž bylo rozhodnuto o částečném zastavení řízení v rozsahu 1.500.000,- Kč z důvodu zpětvzetí žaloby. Tento výrok nebyl napaden odvoláním, nabyl samostatně právní moci a nebyl ani předmětem dovolacího řízení, rozsudek dovolacího soudu se na něj proto nevztahuje, ač to není z formulace opravovaného výroku zřejmé.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 3. prosince 2015
+JUDr. Petr Vojtek
+předseda senátu
