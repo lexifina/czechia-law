@@ -1,0 +1,15 @@
+26 Cdo 3176/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Jitky Dýškové a soudců JUDr. Pavlíny Brzobohaté a JUDr. Miroslava Feráka v exekuční věci oprávněné Všeobecné zdravotní pojišťovny České republiky, se sídlem v Praze 3, Orlická 4/2020, IČO 41197518, proti povinné AUTOSPACE s.r.o., se sídlem v Praze 3, Prokopova 148/15, IČO 26116715, pro 2.020.651 Kč s příslušenstvím, vedené u soudního exekutora Mgr. Daniela Vlčka, Exekutorský úřad Praha 7, se sídlem v Praze 19 – Kbelých, Vrchlabská 28/17, pod sp. zn. 101 EX 3499/11, o dovolání soudního exekutora Mgr. Daniela Vlčka, zastoupeného Mgr. Matějem Harantou, advokátem se sídlem v Praze 1, Klimentská 1246/1, proti usnesení Městského soudu v Praze ze dne 14. srpna 2014, sp. zn. 11 Co 295/2014, takto:
+Dovolání se odmítá.
+S t r u č n é o d ů v o d n ě n í (§ 243f odst. 3 o. s. ř.):
+Soudní exekutor Mgr. Daniel Vlček, Exekutorský úřad Praha 7, usnesením ze dne 20. 5. 2014, č. j. 101 EX 3499/11-71, rozhodl, že náklady exekuce včetně DPH činí 46.094,95 Kč a že vymožené plnění, které po odpočtu nákladů exekuce činí 338.073,31 Kč, se vydává insolvenčnímu správci ve prospěch majetkové podstaty povinné ve věci vedené u Městského soudu v Praze pod sp. zn. MSPH 78 INS 27452/2012.
+K odvolání insolvenčního správce Městský soud v Praze usnesením ze dne 14. 8. 2014, sp. zn. 11 Co 295/2014, změnil označené usnesení soudního exekutora tak, že insolvenčnímu správci JUDr. Ing. Miroslavu Kořenářovi se do majetkové podstaty povinné ve věci vedené u Městského soudu v Praze pod sp. zn. MSPH 78 INS 27452/2012 vydává doposud nevypořádaný exekuční výtěžek z exekuce vedené u soudního exekutora pod sp. zn. 101 EX 3499/11 ve výši 384.168,26 Kč.
+Dovolání soudního exekutora proti usnesení odvolacího soudu Nejvyšší soud projednal a rozhodl o něm podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013 (srov. čl. II, bod 2. zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, dále jen „o. s. ř.“).
+V dané věci dovolatel fakticky napadá pouze tu část rozhodnutí odvolacího soudu, která se týká nákladů exekuce ve výši 46.094,95 Kč, s jejichž vydáním do majetkové podstaty povinné nesouhlasí. Dovolání tak není přípustné, protože směřuje proti té části výroku usnesení odvolacího soudu, jíž bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50.000 Kč (§ 238 odst. 1 písm. d/ o. s. ř.). Nejvyšší soud proto dovolání podle ustanovení § 243c odst. 1 o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+O návrhu na odklad vykonatelnosti, jenž neshledal důvodným, dovolací soud v souladu se svou ustálenou praxí nerozhodoval.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 8. prosince 2015
+JUDr. Jitka Dýšková
+předsedkyně senátu
