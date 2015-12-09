@@ -1,0 +1,16 @@
+26 Cdo 3289/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Miroslavem Ferákem ve věci žalobce statutárního města Děčína, se sídlem v Děčíně IV, Mírové náměstí 1175/5, zastoupeného Mgr. Narcisem Tomáškem, advokátem se sídlem v Děčíně III – Starém Městě, U Starého Mostu 111/4, proti žalovaným 1/ J. K., a 2/ M. D., zastoupené Mgr. Janem Hellingerem, advokátem se sídlem v Děčíně, Soustružnická 434/5, o vyklizení bytu, vedené u Okresního soudu v Děčíně pod sp. zn. 13 C 64/2010, o dovolání žalované proti usnesení Krajského soudu v Ústí nad Labem ze dne 20. listopadu 2013, č. j. 11 Co 1449/2013-83, takto:
+Dovolání se odmítá.
+Odůvodnění:
+Okresní soud v Děčíně (soud prvního stupně) usnesením ze dne 1. srpna 2013, č. j. 13 C 64/2010-73, zastavil řízení o odvolání žalované (pro nezaplacení soudního poplatku z odvolání) proti rozsudku téhož soudu ze dne 8. ledna 2013, č. j. 13 C 64/2010-50, a rozhodl o náhradě nákladů řízení účastníků.
+K odvolání žalované Krajský soud v Ústí nad Labem jako soud odvolací usnesením ze dne 20. listopadu 2013, č. j. 11 Co 1449/2013-83, citované usnesení soudu prvního stupně zrušil a věc mu vrátil k dalšímu řízení.
+Nejvyšší soud České republiky jako soud dovolací dovolání žalované (dovolatelky) proti usnesení odvolacího soudu projednal podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. prosince 2013 (viz čl. II bod 2. ve spojení s čl. VII. zákona č. 293/2013 Sb. – dále opět jen „o. s. ř.“) a dospěl k závěru, že z posléze uvedených příčin není dovolání subjektivně přípustné.
+Z povahy dovolání jako opravného prostředku plyne, že k jeho podání je oprávněn (tzv. subjektivní přípustnost) pouze ten účastník, v jehož poměrech nastala rozhodnutím odvolacího soudu újma odstranitelná tím, že dovolací soud toto rozhodnutí zruší (srov. např. rozhodnutí Nejvyššího soudu z 30. října 1997, sp. zn. 2 Cdon 1363/96, uveřejněné pod č. 28/1998 časopisu Soudní judikatura, a z 30. října 2012, sp. zn. 23 Cdo 2589/2010, uveřejněné pod číslem 41/2013 Sbírky soudních rozhodnutí a stanovisek). V projednávané věci nebyla napadeným rozhodnutím odvolacího soudu dovolatelce způsobena žádná procesní újma, jež by byla zhojitelná v rámci dovolacího řízení, neboť odvolací soud plně vyhověl jejímu odvolání, rozhodnutí soudu prvního stupně v celém rozsahu zrušil a věc mu vrátil k dalšímu řízení.
+Vzhledem k uvedenému lze uzavřít, že jde o dovolání, jež není subjektivně přípustné. Za této situace je Nejvyšší soud (předseda senátu - § 243f odst. 2 o. s. ř.) podle ustanovení § 243c odst. 3 věty první ve spojení s § 218 písm. b/ o. s. ř. odmítl.
+S přihlédnutím k ustanovení § 241b odst. 2 věty za středníkem o. s. ř. bylo nerozhodné, že ustanovený advokát dovolání sepsané samotnou dovolatelkou nenahradil vlastním podáním, nedoplnil je a ani se s ním písemně či ústně do protokolu neztotožnil.
+Nejvyšší soud nerozhoduje o nákladech dovolacího řízení, jestliže dovoláním napadené rozhodnutí odvolacího soudu není rozhodnutím, jímž se řízení končí, a jestliže řízení nebylo již dříve skončeno (srov. usnesení Nejvyššího soudu ze dne 23. července 2002, sp. zn. 20 Cdo 970/2001, uveřejněné pod č. 48/2003 Sbírky soudních rozhodnutí a stanovisek).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 8. prosince 2015
+JUDr. Miroslav Ferák
+předseda senátu
