@@ -1,0 +1,17 @@
+30 Cdo 4757/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Pavlem Vrchou v právní věci žalobkyně I. K., zastoupené JUDr. Davidem Mášou, advokátem, se sídlem v Praze 2, Na Zderaze 1275/15, proti žalované České republice – Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 16. o zaplacení částky 341.000,- Kč, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 16 C 139/2014, o dovolání žalobkyně proti usnesení Městského soudu v Praze ze dne 25. června 2015, č. j. 69 Co 236/2015-56, takto:
+I. Dovolání žalobkyně se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í
+(§ 243f odst. 3 o. s. ř.):
+Dovolání žalobkyně proti v záhlaví označenému usnesení Městského soudu v Praze (dále již „odvolací soud“) trpí vadou, která nebyla ve lhůtě vymezené v § 241b odst. 3 o. s. ř. odstraněna a z uvedeného důvodu nelze v dovolacím řízení pokračovat.
+V daném případě žalobkyně v podaném dovolání zákonu odpovídajícím způsobem nevymezila předpoklady přípustnosti svého dovolání. Kromě obecných údajů, vymezení dovolacího důvodu a návrhu, jak má dovolací soud rozhodnout, předpoklady přípustnosti dovolání vymezila pouze tak, že „má za to, že Nejvyšší soud řešení právní otázky dosud neřešil, nebo je tato rozhodována rozdílně, resp. pokud by Nejvyšším soudem byla řešena, má být posouzena jinak.“
+Z obsahu dovolání je sice zřejmé, kterou právní otázku považuje žalobkyně za stěžejní z hlediska rozhodnutí odvolacího soudu, nevyplývá však již z něj předpoklad, respektive předpoklady přípustnosti dovolání ve smyslu § 237 o. s. ř. Jinými slovy řečeno, žalobkyně prostřednictvím svého advokáta v podaném dovolání nevymezila žádné ze čtyř kritérií přípustnosti dovolání taxativně vymezených v § 237 o. s. ř.; neuvedla okolnosti, z nichž by bylo možné usuzovat, že by v souzené věci šlo (mělo jít) o případ (některý ze čtyř v úvahu přicházejících), v němž napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva: 1) při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu (v takovém případě je zapotřebí alespoň stručně uvést, od kterého rozhodnutí, respektive kterých rozhodnutí se konkrétně měl odvolací soud odchýlit) nebo 2) která v rozhodování dovolacího soudu dosud nebyla vyřešena (zde je třeba vymezit, která právní otázka, na níž závisí rozhodnutí odvolacího soudu, v rozhodování dovolacího soudu dosud nebyla vyřešena) nebo 3) která je dovolacím soudem rozhodována rozdílně (zde je třeba vymezit rozhodnutí dovolacího soudu, která takový rozpor v judikatuře dovolacího soudu mají podle názoru dovolatele zakládat a je tak třeba tyto rozpory odstranit) anebo 4) má-li být dovolacím soudem vyřešená právní otázka posouzena jinak (zde je zapotřebí vymezit příslušnou právní otázku, její dosavadní řešení v rozhodovací praxi dovolacího soudu a alespoň stručně uvést, pro jaké důvody by měla být dovolacím soudem posouzena jinak).
+Jelikož v daném případě dovolání postrádá obligatorní náležitosti, přičemž tento nedostatek nebyl v průběhu dovolací lhůty odstraněn (§ 241b odst. 3 o. s. ř.), trpí dovolání žalobkyně vadou, pro kterou nelze v dovolacím řízení pokračovat a dovolání věcně projednat.
+Nejvyšší soud proto dovolání žalobce podle § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta poslední o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 10. prosince 2015
+JUDr. Pavel Vrcha
+předseda senátu
