@@ -1,0 +1,13 @@
+21 Cdo 4920/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Jiřím Doležílkem v právní věci žalobců a) V. K. a b) M. K., obou zastoupených Mgr. Petrem Miketou, advokátem se sídlem v Ostravě – Slezské Ostravě, Jaklovecká č. 1249/18, proti žalovaným 1) Raiffeisen stavební spořitelna a. s. se sídlem v Praze 3, Koněvova č. 2747/99, IČO 49241257, 2) EURODRAŽBY.CZ a. s. se sídlem v Praze 8 – Čimicích, Čimická č. 780/61, IČO 25023217, zastoupenému JUDr. Petrem Kočím, Ph.D., advokátem se sídlem v Praze 1 – Novém Městě, Opletalova č. 1535/4, a 3) JUDr. Kateřině Danielové, advokátce se sídlem v Ostravě – Moravské Ostravě, Na Hradbách č. 1440/16, jako insolvenční správkyni dlužnice M. K., o nepřípustnost prodeje zástavy ve veřejné dražbě, vedené u Okresního soudu v Opavě pod sp. zn. 17 C 31/2013, o dovolání žalobců proti usnesení Krajského soudu v Ostravě ze dne 24. dubna 2015 č. j. 8 Co 160/2015-228, takto:
+I. Řízení o dovolání žalobců se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky řízení o dovolání žalobců proti usnesení Krajského soudu v Ostravě ze dne 24. 4. 2015 č. j. 8 Co 160/2015-228 podle ustanovení § 241b odst. 2 a § 104 odst. 2 o. s. ř. zastavil, neboť nebyla splněna podmínka povinného zastoupení dovolatelů při podání dovolání (§ 241 o. s. ř.).
+Požadavku na povinné zastoupení dovolatelé, kteří jsou fyzickými osobami bez dosaženého právnického vzdělání, nevyhoví již tím, že mají zástupcem advokáta (případně notáře, jde-li o věci uvedené v ustanovení § 3 zákona č. 358/1992 Sb. ve znění pozdějších předpisů), ale teprve tehdy, bude-li dovolání advokátem (nebo notářem) také sepsáno (§ 241 odst. 4 o. s. ř.). Ačkoliv byl žalobcům pravomocným usnesením Okresního soudu v Opavě ze dne 29. 7. 2015 č. j. 17 C 31/2013-270 ustanoven zástupcem advokát Mgr. Petr Miketa a ačkoliv byli žalobci (prostřednictvím ustanoveného zástupce) usnesením Okresního soudu v Opavě ze dne 29. 7. 2015 č. j. 17 C 31/2013-268 vyzváni k odstranění vad (k doplnění) dovolání, ustanovený zástupce ve stanovené lhůtě 2 měsíců „od právní moci výroku II. usnesení, kterým jim byl advokát pro podání dovolání a zastupování v dovolacím řízení ustanoven“ (a ani do současné doby) dovolání proti usnesení odvolacího soudu nesepsal; podmínka povinného zastoupení žalobců v dovolacím řízení tudíž nebyla splněna.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 10. prosince 2015
+JUDr. Jiří Doležílek
+předseda senátu
