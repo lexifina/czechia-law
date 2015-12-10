@@ -1,0 +1,16 @@
+33 Cdo 5170/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu JUDr. Ivanou Zlatohlávkovou ve věci žalobkyně Pražské plynárenské, a. s. se sídlem v Praze 1, Národní 37, identifikační číslo 601 93 492, zastoupené Mgr. Petrem Kuchařem, advokátem se sídlem v Praze 4, Na Pankráci 404/30a, proti žalované J. V., o zaplacení 2.573,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 22 C 80/2014, o dovolání žalované proti rozsudku Obvodního soudu pro Prahu 2 ze dne 18. února 2015, č. j. 22 C 80/2014-67, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádná z účastnic nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 2 rozsudkem ze dne 18. února 2015, č. j. 22 C 80/2014-67, zrušil platební rozkaz, který vydal dne 29. 4. 2014, č. j. 22 C 80/2014-39, uložil žalované povinnost zaplatit žalobkyni do tří dnů od právní moci rozsudku částku 2.573,- Kč se specifikovanými úroky z prodlení a rozhodl o nákladech řízení.
+Proti tomuto rozsudku podala žalovaná dne 27. 5. 2015 dovolání. Sděluje, že jí nebyly doručeny faktury žalobkyně, předžalobní upomínka ani žaloba, protože správce domu zásilky, které jsou jí určeny, odcizuje a úmyslně poškozuje její domovní schránku. Vytýká soudu, že nepřihlédl k jejímu vyjádření k žalobě a že rozhodl ve věci v době, kdy ještě neuplynula lhůta pro podání odvolání proti usnesení, jímž jí byl (jako účastníku řízení, který nemůže před soudem samostatně jednat) ustanoven opatrovník. Je přesvědčena, že má vůči žalobkyni pohledávku z titulu přeplatků za plyn, kterou nemohla proti pohledávce žalobkyně v důsledku nesprávného postupu soudu započíst. Namítá, že soudce JUDr. Petr Veleman, který ve věci rozhodl, byl z rozhodování vyloučen pro podjatost, neboť ji v jiné věci, v níž zastupovala svou matku, nespravedlivě vykázal ze soudní síně. Z uvedených důvodů se svá práva rozhodla bránit za použití mimořádného opravného prostředku a požádala o ustanovení zástupce z řad advokátů pro dovolací řízení.
+Usnesením ze dne 20. srpna 2015, č. j. 22 C 80/2014-85, Obvodní soud pro Prahu 2 rozhodl, že se žalované neustanovuje zástupce z řad advokátů pro podání dovolání, neboť jde o zjevně bezúspěšné uplatňování práva.
+Podle § 236 odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném od 1. 1. 2014 (srovnej čl. II bod 2. zákona č. 293/2013 Sb., dále jen „o. s. ř.“), lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Dovolání je mimořádným opravným prostředkem, jímž lze napadnout výhradně rozhodnutí odvolacího soudu. Občanský soudní řád tudíž ani neupravuje funkční příslušnost soudu pro projednání dovolání proti rozhodnutí soudu prvního stupně. Nedostatek funkční příslušnosti je takovým nedostatkem podmínky řízení, který nelze odstranit. Nejvyšší soud proto podle § 104 odst. 1 věty prvé ve spojení s § 243b o. s. ř. řízení o dovolání proti rozsudku soudu prvního stupně zastavil (blíže srovnej např. usnesení Nejvyššího soudu ze dne 31. 8. 1999, sp. zn. 20 Cdo 1574/99, publikované v časopise Soudní judikatura pod č. 45/2000).
+Výrok o náhradě nákladů dovolacího řízení nemusí být v posuzovaném případě zdůvodněn (§ 243f odst. 3 o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 10. prosince 2015
+JUDr. Ivana Zlatohlávková
+předsedkyně senátu
