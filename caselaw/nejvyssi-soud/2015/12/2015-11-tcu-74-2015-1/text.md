@@ -1,0 +1,14 @@
+11 Tcu 74/2015-20
+U S N E S E N Í
+Nejvyšší soud projednal dne 10. prosince 2015 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl t a k t o :
+Zamítá se návrh Ministerstva spravedlnosti České republiky podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, ohledně odsouzení občana České republiky J. M. , rozsudkem Zemského soudu St. Pölten, Rakousko, ze dne 29. 10. 2014, sp. zn. 35 Hv 61/14s.
+O d ů v o d n ě n í :
+Výše uvedeným rozsudkem Zemského soudu St. Pölten byl J. M. uznán vinným trestným činem obchodování s návykovými látkami a byl odsouzen k trestu odnětí svobody v trvání pěti let.
+Ministerstvo spravedlnosti České republiky podalo ve shora uvedené věci návrh Nejvyššímu soudu na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů (dále jen „zákon“).
+Nejvyšší soud věc přezkoumal a shledal, že nejsou splněny zákonné podmínky pro rozhodnutí podle § 4a odst. 3 zákona.
+Z opisu evidence Rejstříku trestů fyzických osob Nejvyšší soud zjistil, že o uznání citovaného rozsudku Zemského soudu St. Pölten rozhodl dne 23. 3. 2015 rozsudkem, sp. zn. 8 T 6/2015 Krajský soud v Praze. Rozsudek krajského soudu nabyl právní moci dne 11. 4. 2015. V důsledku uznání rozsudku Zemského soudu St. Pölten podle zákona č. 104/2013 Sb., o mezinárodní justiční spolupráci ve věcech trestních, ve znění pozdějších předpisů, se tak na citované rozhodnutí hledí jako na odsouzení soudem České republiky. Rozhodnutí Nejvyššího soudu podle § 4a odst. 3 zákona by proto bylo nadbytečné. Právní úprava zákona o Rejstříku trestů je přitom koncipována tak, aby rozhodnutí o uznání cizozemského rozhodnutí (rozhodnutí jiného členského státu Evropské unie) a rozhodnutí o zaznamenání údajů o odsouzení cizozemským soudem do evidence Rejstříku trestů, resp. rozhodnutí Nejvyššího soudu podle § 4a odst. 3 zákona, nestála vedle sebe.
+Podle § 4 odst. 4 zákona pokud byly do evidence Rejstříku trestů zaznamenány údaje o odsouzení občana České republiky, osoby bez státní příslušnosti, která má na jejím území povolen trvalý pobyt, nebo právnické osoby podle odstavce 2 nebo 3 a soud podle zákona o mezinárodní justiční spolupráci ve věcech trestních následně rozhodne o uznání takového rozhodnutí, Nejvyšší soud z podnětu tohoto soudu zruší své předchozí rozhodnutí o zaznamenání údajů o odsouzení; Rejstřík trestů v takovém případě eviduje pouze rozhodnutí o uznání rozhodnutí. V posuzovaném případě proto Nejvyšší soud postupoval analogicky podle tohoto ustanovení a návrh Ministerstva spravedlnosti České republiky zamítl.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 10. prosince 2015
+JUDr. Karel Hasch
+předseda senátu
