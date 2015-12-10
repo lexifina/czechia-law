@@ -1,0 +1,17 @@
+21 Nd 367/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně senátu JUDr. Olgy Puškinové a soudců JUDr. Ljubomíra Drápala a JUDr. Mojmíra Putny v právní věci žalobkyně H. G., zastoupené JUDr. Janou Mikulovou, advokátkou se sídlem v Ostravě-Porubě, Hlavní třída č. 1023, proti žalované T. M., vedené u Okresního soudu v Ostravě pod sp. zn. 63 C 4/2012, o 300.175,- Kč s příslušenstvím, o návrhu na přikázání věci z důvodu vhodnosti, takto:
+Věc, vedená u Okresního soudu v Ostravě pod sp. zn. 63 C 4/2012, se nepřikazuje k projednání a rozhodnutí Obvodnímu soudu pro Prahu 2.
+Odůvodnění:
+Žalobkyně se žalobou podanou u Okresního soudu v Novém Jičíně dne 22. 11. 2011, doplněnou podáním ze dne 17. 10. 2013, domáhá na žalované zaplacení částky 278.700,- Kč se 7,75 % úrokem z prodlení od 11. 9. 2010 do zaplacení, částky 21.475,- Kč s 8,05 % úrokem z prodlení „od právní moci rozsudku do zaplacení“ a nákladů řízení.
+Okresní soud v Jičíně usnesením ze dne 7. 12. 2011, č. j. 18 C 418/2011-10, vyslovil svou místní nepříslušnost a věc postoupil Okresnímu soudu v Ostravě.
+Žalovaná podala dne 30. 10. 2015 návrh, aby věc byla přikázána z důvodu vhodnosti Obvodnímu soudu pro Prahu 2, neboť od roku 2011 bydlí trvale v P., pečuje o tři nezletilé děti a „je ve finanční tísni“.
+Žalobkyně s návrhem na přikázání věci Obvodnímu soudu pro Prahu 2 nesouhlasí.
+Podle ustanovení § 12 odst. 2 o. s. ř. věc může být přikázána jinému soudu téhož stupně z důvodu vhodnosti.
+Důvod vhodnosti pro přikázání věci jinému soudu téhož stupně ve smyslu ustanovení § 12 odst. 2 o. s. ř. představují takové okolnosti, které umožní hospodárnější, rychlejší nebo zejména po skutkové stránce spolehlivější a důkladnější projednání věci jiným než místně příslušným soudem. Uvedené ustanovení je zároveň zákonem určenou výjimkou ze zásady, že nikdo nesmí být odňat svému zákonnému soudci a že příslušnost soudu a soudce stanoví zákon (srov. čl. 38 odst. 1 Listiny základních práv a svobod, vyhlášené usnesením předsednictva České národní rady pod č. 2/1993 Sb. jako součást ústavního pořádku); důvody pro přikázání věci jinému než příslušnému soudu tedy musí být natolik významné, aby dostatečně odůvodňovaly průlom do výše uvedeného ústavního principu.
+O takový případ se v projednávané věci nejedná, neboť tím, že by věc byla přikázána Obvodnímu soudu pro Prahu 2, nemůže být dosaženo hospodárnějšího, rychlejšího ani po skutkové stránce spolehlivějšího a důkladnějšího projednání věci. Řízení u Okresního soudu v Ostravě započalo téměř před čtyřmi lety, v jeho rámci soud provedl řadu procesních úkonů a nařídil dvě ústní jednání, přičemž při druhém z nich provedl řadu listinných důkazů. Neumožní-li žalované jí uváděné okolnosti osobní účast při jednáních u místně příslušného soudu, nic nebrání tomu, aby byla v projednávané věci vyslechnuta a s provedenými důkazy nebo jinými výsledky řízení seznámena prostřednictvím dožádaného soudu (§ 122 odst. 2 o. s. ř.). Žalovaná si také může k ochraně svých zájmů ve věci zvolit zástupce. Má-li za to, že jsou u ní splněny podmínky pro osvobození od soudních poplatků, může u soudu navrhnout, aby jí byl soudem na náklady státu ustanoven zástupce z řad advokátů.
+Nejvyšší soud České republiky proto návrhu na přikázání věci Obvodnímu soudu pro Prahu 2 podle ustanovení § 12 odst. 2 o. s. ř. nevyhověl.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 10. prosince 2015
+JUDr. Olga Puškinová
+předsedkyně senátu
