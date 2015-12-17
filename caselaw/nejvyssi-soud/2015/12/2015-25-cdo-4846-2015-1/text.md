@@ -1,0 +1,15 @@
+25 Cdo 4846/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Vojtka a soudců JUDr. Marty Škárové a JUDr. Roberta Waltra v právní věci žalobkyně: Mgr. D. K., zastoupená Mgr. Martinem Šedou, LL.M., advokátem se sídlem v Praze 1, Na Příkopě 1096/19, proti žalovanému: JUDr. V. F., advokát se sídlem v Brně, Pellicova 20/2c, o 313.333,- Kč s příslušenstvím, vedené u Městského soudu v Brně pod sp. zn. 38 C 47/2007, o dovolání žalobkyně proti rozsudku Krajského soudu v Brně ze dne 24. 9. 2014, č. j. 44 Co 148/2013-332, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Dovolání žalobkyně proti rozsudku Krajského soudu v Brně ze dne 24. 9. 2014, č. j. 44 Co 148/2013-332, jímž byl potvrzen zamítavý rozsudek soudu prvního stupně, není přípustné podle § 237 o.s.ř., neboť uplatněné námitky nesměřují proti otázce hmotného nebo procesního práva, na jejímž vyřešení závisí napadené rozhodnutí.
+Dovolatelka ve sporu o náhradu škody způsobené výkonem advokacie ze strany žalovaného vytýká odvolacímu soudu, že nesprávně vyložil a aplikoval ustanovení § 101 a 119 o.s.ř. a neodstranil tak nesprávnost postupu soudu prvního stupně, který jednal v její nepřítomnosti. Dále namítá, že se odvolací soud v napadeném rozhodnutí dostatečně nevypořádal s námitkou nepřezkoumatelnosti rozsudku soudu prvního stupně ve smyslu § 157 o.s.ř. pro nesrozumitelnost a nedostatečné odůvodnění. Je tedy zřejmé, že dovolatelka uplatňuje námitky, že řízení je postiženo vadami, které mohly mít za následek nesprávné rozhodnutí ve věci, k nimž lze v dovolacím řízení přihlédnout jen tehdy, je-li dovolání obecně přípustné (§ 242 odst. 3 o.s.ř.). Rozhodnutí odvolacího soudu ve věci samé je založeno jednak na závěru, že zpětvzetím dovolání, které nebylo ze zákona přípustné, neporušil advokát povinnost řádného výkonu advokacie, jednak na zjištění, že žalobkyni škoda v uplatněné výši nevznikla, protože takovou částku protistraně dosud nezaplatila. Dovolání žalobkyně ve vztahu k těmto závěrům neobsahuje argumentaci, která by mohla ve smyslu § 237 o.s.ř. založit přípustnost dovolání.
+Namítá-li dovolatelka dále, že pro přiznání náhrady nákladů řízení žalovanému nebyly splněny podmínky podle § 142 o.s.ř., neboť závěr odvolacího soudu o bezdůvodnosti žaloby a neúčelném protahování řízení ze strany žalobkyně nemá oporu ve skutkovém základu, postrádají uplatněné námitky charakter právní otázky, kterou by měl dovolací soud řešit (§ 241a odst. 1 o.s.ř.). Nesměřují proti právnímu posouzení věci odvolacím soudem, ale jen proti zjištěnému skutkovému stavu, čímž však nelze přípustnost dovolání podle § 237 o.s.ř. založit.
+Nejvyšší soud proto dovolání žalobkyně podle § 243c odst. 1 věty první o.s.ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta druhá o.s.ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 17. prosince 2015
+JUDr. Petr Vojtek
+předseda senátu
