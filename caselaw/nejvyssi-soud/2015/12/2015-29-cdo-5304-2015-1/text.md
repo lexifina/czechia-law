@@ -1,0 +1,15 @@
+29 Cdo 5304/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy Mgr. Milana Poláška a soudců JUDr. Petra Gemmela a JUDr. Jiřího Zavázala v právní věci žalobce SEZEM, s. r. o., se sídlem v Brně, Fillova 1, PSČ 638 00, identifikační číslo osoby 60739142, zastoupeného Mgr. Milanem Kvasnicou, advokátem, se sídlem v Bohumíně, Na Úvoze 392, PSČ 735 52, proti žalované Ing. P. P., o zaplacení 6 310 746,85 Kč s příslušenstvím, vedené u Krajského soudu v Brně pod sp. zn. 9 Cm 25/2013, o dovolání žalobce proti usnesení Vrchního soudu v Olomouci ze dne 2. června 2015, č. j. 8 Cmo 173/2015-81, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Usnesením ze dne 14. dubna 2015, č. j. 9 Cm 25/2013-73, nepřiznal Krajský soud v Brně žalobci osvobození od placení soudních poplatků.
+K odvolání žalobce Vrchní soud v Olomouci v záhlaví označeným usnesením potvrdil rozhodnutí soudu prvního stupně.
+Proti rozhodnutí odvolacího soudu podal žalobce dovolání, které Nejvyšší soud odmítl podle ustanovení § 243c odst. 1 a 2 zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“).
+Učinil tak proto, že dovolání, které není přípustné podle § 238a o. s. ř., neshledal přípustným ani podle § 237 o. s. ř., neboť v dovoláním otevřené otázce – zda pohledávka na náhradu škody vůči členům statutárního orgánu obchodní společnosti (způsobené porušením povinnosti péče řádného hospodáře) je součástí závodu společnosti (a řízení o jejím zaplacení tudíž je řízením týkajícím se závodu povinné ve smyslu § 338k odst. 6 o. s. ř.) – je napadené usnesení v souladu s ustálenou judikaturou Nejvyššího soudu, na kterou přiléhavě odkázal odvolací soud. K tomu srov. především rozsudek ze dne 8. prosince 2011, sp. zn. 29 Cdo 1499/2009, uveřejněný pod číslem 53/2012 Sbírky soudních rozhodnutí a stanovisek, usnesení ze dne 28. dubna 2015, sp. zn. 29 Cdo 4652/2014, a usnesení ze dne 28. dubna 2015, sp. zn. 29 Cdo 4658/2014. Od závěrů formulovaných v označených rozhodnutích nemá Nejvyšší soud důvod se odchýlit ani na základě argumentů, jež dovolatel snesl v dovolání v projednávané věci.
+Nadto nelze přehlédnout, že v projednávané věci se žalobce domáhá náhrady škody podle ustanovení § 99 zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenčního zákona). Z označeného ustanovení přitom nepochybně vyplývá, že tento nárok přísluší (jen) věřitelům právnické osoby, jejímž statutárním orgánem je (či byla) osoba, která porušila svou povinnost podat insolvenční návrh (§ 98 odst. 2 insolvenčního zákona), nikoliv této právnické osobě samotné. Jde tedy vskutku o zřejmě bezúspěšné uplatňování práva.
+Rozhodné znění občanského soudního řádu pro dovolací řízení (do 31. prosince 2013) se podává z článku II bodu 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 21. prosince 2015
+Mgr. Milan P o l á š e k
+předseda senátu
