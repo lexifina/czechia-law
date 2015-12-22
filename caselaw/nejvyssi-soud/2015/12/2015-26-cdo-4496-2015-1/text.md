@@ -1,0 +1,13 @@
+26 Cdo 4496/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu JUDr. Miroslavou Jirmanovou, Ph.D., v exekuční věci oprávněného J. Č., P., zastoupeného JUDr. Karlem Hejným, advokátem se sídlem v Praze 8, Košťálkova 1105/1, proti povinnému M. M., P., pro 460 000 Kč s příslušenstvím, vedené u soudního exekutora JUDr. Ivo Luhana, Exekutorský úřad Praha 1 pod sp. zn. 099 EX 8713/11, o dovolání povinného proti usnesení Městského soudu v Praze ze dne 10. 2. 2015, č. j. 16 Co 501/2014-195, takto:
+Dovolací řízení se zastavuje.
+Odůvodnění:
+Městský soud v Praze v záhlaví označeným rozhodnutím potvrdil usnesení ze dne 15. 5. 2014, č. j. 099 EX 8713/11-157, kterým soudní exekutor JUDr. Ivo Luhan, Exekutorský úřad Praha 1 udělil vydražitelce WINSTON WOLF s. r. o., se sídlem v Praze 2, Lužická 1693/21, identifikační číslo osoby 24206776, příklep na vydražených nemovitých věcech, v usnesení blíže specifikovaných.
+Povinný napadl usnesení odvolacího soudu dovoláním, které vykazovalo nedostatek bránící pokračování dovolacího řízení (nebylo sepsáno advokátem), přičemž ze spisu nevyplývalo, že by povinný měl právnické vzdělání. Proto jej soudní exekutor JUDr. Ivo Luhan, Exekutorský úřad Praha 1 usnesením ze dne 19. 6. 2015, č. j. 099 EX 8713/11-217, vyzval, aby si ve lhůtě 30 dnů od doručení zvolil pro dovolací řízení zástupcem advokáta a jeho prostřednictvím podal řádné dovolání; současně jej poučil, že nebude-li zastoupen advokátem, soud dovolací řízení zastaví. Usnesení bylo povinnému doručeno dne 24. 6. 2015, ve stanovené lhůtě však nedostatek povinného zastoupení neodstranil.
+Jelikož povinné zastoupení dovolatele v dovolacím řízení je podmínkou řízení týkající se účastníka řízení, jejíž nedostatek brání – kromě usnesení, kterým se dovolací řízení právě pro neodstranění tohoto nedostatku zastavuje – vydání rozhodnutí, jímž se řízení končí, a protože ke zhojení tohoto nedostatku přes řádnou výzvu nedošlo, Nejvyšší soud dovolací řízení podle § 104 odst. 2 věty třetí, § 241b odst. 2 a § 243f odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném od 1. 1. 2013 do 31. 12. 2013 (srovnej část první, čl. II, bod 7. zákona č. 404/2012 Sb. a dále část první, čl. II, bod 2. zákona č. 293/2013 Sb.), dále jen „o. s. ř.“, zastavil.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 22. prosince 2015
+JUDr. Miroslava Jirmanová, Ph. D.
+předsedkyně senátu
