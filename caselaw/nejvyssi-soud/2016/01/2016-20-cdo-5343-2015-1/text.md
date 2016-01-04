@@ -1,0 +1,13 @@
+20 Cdo 5343/2015
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy senátu JUDr. Zbyňka Poledny a soudců JUDr. Miroslavy Jirmanové, Ph.D., a JUDr. Aleše Zezuly v exekuční věci oprávněné GE Money Bank, a. s., se sídlem v Praze 4 - Michle, Vyskočilova č. 1422/1a, identifikační číslo osoby 25672720, zastoupené JUDr. Marií Cilínkovou, advokátkou se sídlem v Praze 1
+– Nové Město, Bolzanova č. 1615/1, proti povinnému R. Ř., zastoupenému JUDr. Martinem Soukupem, advokátem se sídlem v Praze 2 - Vinohrady, Římská č. 2575/31a, pro 96 702 Kč s příslušenstvím, vedené u Okresního soudu Plzeň-město pod sp. zn. 73 Nc 8536/2007, o dovolání povinného proti usnesení Krajského soudu v Plzni ze dne 21. září 2015, č. j. 15 Co 289/2015-99, takto:
+Dovolání povinného se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání povinného proti usnesení Krajského soudu v Plzni ze dne 21. září 2015, č. j. 15 Co 289/2015-99, není přípustné podle ustanovení § 237 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. prosince 2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu [k otázce zániku účinků ustanovení § 109 odst. 1 písm. c) zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), ve znění pozdějších předpisů, za situace, kdy insolvenční návrh byl podán krátce před udělením příklepu v dražbě a v průběhu odvolacího řízení pravomocně odmítnut, srov. například usnesení Nejvyššího soudu ze dne 4. května 2015, sp. zn. 26 Cdo 3544/2014] a není důvod, aby rozhodná právní otázka byla posouzena jinak. Nejvyšší soud České republiky proto dovolání povinné podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Se zřetelem k výsledku dovolacího řízení nemůže být dovolatelem uplatněný návrh na odklad právní moci a vykonatelnosti napadeného usnesení odvolacího soudu [§ 243 písm. a) o. s. ř.] důvodný, o čemž dovolací soud zvláštní zamítavé rozhodnutí nevydává (viz usnesení Nejvyššího soudu ze dne 30. listopadu 2005, sp. zn. 20 Cdo 873/2005, publikované na webových stránkách Nejvyššího soudu).
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 4. ledna 2016
+JUDr. Zbyněk Poledna
+předseda senátu
