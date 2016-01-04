@@ -1,0 +1,11 @@
+20 Cdo 4963/2015
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy senátu JUDr. Zbyňka Poledny a soudců JUDr. Miroslavy Jirmanové, Ph.D., a JUDr. Aleše Zezuly v exekuční věci oprávněné OMV Česká republika, s. r. o., se sídlem v Praze 4, Štětkova č. 1638/18, identifikační číslo osoby 48038687, zastoupené JUDr. Janem Kozubkem, advokátem se sídlem v Praze 1, U Prašné brány č. 1078/1, proti povinné HANEL GLOBAL TOYS s. r. o., se sídlem v Praze 1, Na Příkopě č. 859/22, identifikační číslo osoby 64508871, zastoupené JUDr. Ing. Václavem Školoutem, advokátem se sídlem v Praze 1, Na Příkopě č. 859/22, pro 869 557,83 Kč s příslušenstvím, vedené u Okresního soudu Praha-západ pod sp. zn. 206 EXE 8487/2013, o dovolání povinné proti usnesení Krajského soudu v Praze ze dne 10. června 2015, č. j. 28 Co 240/2015-77, takto:
+Dovolání povinné se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání povinné proti usnesení Krajského soudu v Praze ze dne 10. června 2015, č. j. 28 Co 240/2015-77, není přípustné podle ustanovení § 237 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. prosince 2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu [k otázce, zda se lze návrhem na zastavení výkonu rozhodnutí (exekuce) podle ustanovení § 268 odst. 1 písm. h) o. s. ř. úspěšně domáhat jeho zastavení z důvodu, že sepsaná movitá věc není ve vlastnictví povinného, srov. například usnesení Nejvyššího soudu ze dne 21. října 2014, sp. zn. 21 Cdo 3904/2014] a není důvod, aby rozhodná právní otázka byla posouzena jinak. Nejvyšší soud České republiky proto dovolání povinné podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 4. ledna 2016
+JUDr. Zbyněk Poledna
+předseda senátu
