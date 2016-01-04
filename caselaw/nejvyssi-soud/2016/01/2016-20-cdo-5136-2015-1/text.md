@@ -1,0 +1,11 @@
+20 Cdo 5136/2015
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy senátu JUDr. Zbyňka Poledny a soudců JUDr. Miroslavy Jirmanové, Ph.D., a JUDr. Aleše Zezuly v exekuční věci oprávněné Impex Brecka & Co. se sídlem v Curychu, Kreutzplatz č. 20, CH-8008, Švýcarská konfederace, zastoupené JUDr. Tomášem Sokolem, advokátem se sídlem v Praze 2, Sokolská č. 60, proti povinné České republice – Ministerstvo financí se sídlem v Praze 1, Letenská č. 525/15, identifikační číslo osoby 00006947, pro 320 000,50 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 48 EXE 520/2012, o dovolání povinné proti usnesení Městského soudu v Praze ze dne 26. srpna 2015, č. j. 72 Co 194/2015-150, takto:
+Dovolání povinné se odmítá.
+S t r u č n é o d ů v o d n ě n í (§ 243f odst. 3 o. s. ř.):
+Dovolání povinné proti usnesení Městského soudu v Praze ze dne 26. srpna 2015, č. j. 72 Co 194/2015-150, není přípustné podle ustanovení § 237 zákona č. 99/1963, ve znění účinném do 31. prosince 2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu [k otázce, zda v řízení o výkon rozhodnutí nebo v exekučním řízení vedeném podle vykonatelného usnesení soudu, kterým bylo státu (České republice) uloženo vrátit poplatníku soudní poplatek nebo přeplatek na soudním poplatku, vystupuje za stát (Českou republiku) Ministerstvo financí, srov. právní názor uvedený v usnesení Nejvyššího soudu ze dne 30. prosince 2014, sp. zn. 21 Cdo 1774/2013, uveřejněné pod číslem 54/2015 Sbírky soudních rozhodnutí a stanovisek] a není důvod, aby rozhodná právní otázka byla posouzena jinak. Nejvyšší soud České republiky proto dovolání povinné podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 4. ledna 2016
+JUDr. Zbyněk Poledna
+předseda senátu
