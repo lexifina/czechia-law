@@ -1,0 +1,13 @@
+26 Cdo 3179/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedkyně JUDr. Jitky Dýškové a soudců JUDr. Miroslava Feráka a JUDr. Pavlíny Brzobohaté v právní věci žalobkyně městské části Prahy 10, se sídlem v Praze 10, Vršovická 1429/68, IČO 00063941, zastoupené Mgr. Soňou Hanzalovou, Ph.D., advokátkou se sídlem v Praze 2, Šafaříkova 785/1, proti žalovanému K. R., zastoupenému JUDr. Daliborem Čertokem, advokátem se sídlem v Praze 4, Hodkovická 767/7, o vyklizení bytu, vedené u Obvodního soudu pro Prahu 10 pod sp. zn. 17 C 197/2014, o dovolání žalovaného proti rozsudku Městského soudu v Praze ze dne 24. února 2015, č. j. 30 Co 16/2015-48, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í (§ 243f odst. 3 o. s. ř.):
+Dovolání žalovaného proti rozsudku Městského soudu v Praze ze dne 24. 2. 2015, č. j. 30 Co 16/2015-48, není přípustné podle ustanovení § 237 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2014 (srov. Čl. II bod 2. zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu [k otázce vázanosti rozhodnutím soudu vydaným ve věci o neplatnost výpovědi z nájmu bytu, v němž byla vyřešena otázka existence nájmu, v řízení o vyklizení téhož bytu, srov. usnesení Nejvyššího soudu ze dne 15. 5. 2012, sp. zn. 26 Cdo 3053/2011], podle které je soud v řízení o vyklizení bytu povinen vycházet ze závěru o platnosti výpovědi, učiněné soudem v řízení o určení neplatnosti výpovědi z nájmu bytu a nemůže se tedy již zabývat okolnostmi podání výpovědi a naplněním výpovědního důvodu (k tomu obdobně též rozsudek Nejvyššího soudu ze dne 2. 5. 2013, sp. zn. 26 Cdo 2423/2012), a není důvod, aby rozhodná právní otázka byla posouzena jinak. Nejvyšší soud České republiky proto dovolání žalovaného podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Poukazuje-li žalovaný v dovolání na rozhodnutí Nejvyššího soudu ze dne 24. 6. 2008, sp. zn. 26 Cdo 3172/2006, ze dne 5. 8. 2010, sp. zn. 26 Cdo 3175/2009, a ze dne 28. 2. 2011, sp. zn. 26 Cdo 3127/2008, jde o odkaz zjevně nepřípadný, neboť v daných věcech šlo o řízení o určení neplatnosti výpovědi z nájmu bytu, nikoli o řízení o vyklizení bytu.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 6. ledna 2016
+JUDr. Jitka Dýšková
+předsedkyně senátu
