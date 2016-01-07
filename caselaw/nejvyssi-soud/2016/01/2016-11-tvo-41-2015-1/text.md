@@ -1,0 +1,15 @@
+11 Tvo 41/2015-12
+U S N E S E N Í
+Nejvyšší soud projednal v neveřejném zasedání konaném dne 7. ledna 2016 žádost o navrácení lhůty a stížnost obviněného R. S. , proti usnesení Vrchního soudu v Praze ze dne 1. 12. 2015, sp. zn. 9 To 84/2015, a rozhodl t a k t o :
+I. Podle § 61 tr. ř. s e obviněnému R. S. n e p o v o l u j e navrácení lhůty k podání stížnosti proti usnesení Vrchního soudu v Praze ze dne 1. 12. 2015, sp. zn. 9 To 84/2015.
+II. Podle § 148 odst. 1 písm. b) tr. ř. s e stížnost obviněného R. S. z a m í t á .
+O d ů v o d n ě n í :
+Vrchní soud v Praze rozhodl usnesením ze dne 1. 12. 2015, sp. zn. 9 To 84/2015, podle § 30 odst. 1 tr. ř., že členka senátu 9 To JUDr. Jana Kantorová je vyloučena z vykonávání úkonů trestního řízení ve věci obviněného J. K. a spol. vedené u Vrchního soudu v Praze pod sp. zn. 9 To 84/2015. V prvním stupni je věc vedena u Městského soudu v Praze pod sp. zn. 2 T 2/2014.
+Proti tomuto usnesení podal stížnost obviněný R. S. prostřednictvím svého obhájce Mgr. Jiřího Kokeše. Stížnost spojil se žádostí o navrácení lhůty. Obhájce obviněného ve stížnosti uvedl, že tuto odůvodní do deseti dnů. Shora uvedené usnesení mu bylo „vzhledem k chybě systému, který zpracovává datové zprávy“ doručeno až dne 21. 12. 2015, tedy nikoli dne 9. 12. 2015, jak je uvedeno v doručence. Ke zmeškání lhůty tak podle něj došlo z důležitých důvodů, které byly způsobeny technickou závadou, a o její navrácení požádal ihned po pominutí překážky, tj. dne 21. 12. 2015. Současně navrhl, aby „odvolací soud“ zrušil usnesení Vrchního soudu v Praze ze dne 1. 12. 2015, sp. zn. 9 To 84/2015.
+Nejvyšší soud zjistil, že stížnost byla podána opožděně. Podle § 143 tr. ř. se stížnost podává u orgánu, proti jehož usnesení stížnost směřuje, a to do tří dnů od oznámení usnesení. Podle § 137 tr. ř. se oznámení děje buď vyhlášením usnesení v přítomnosti toho, jemuž je třeba usnesení oznámit, anebo (jako v tomto případě) doručením opisu usnesení. Má-li osoba obhájce nebo zmocněnce a oznamuje-li se usnesení doručením opisu, doručí se jen obhájci, popřípadě zmocněnci.
+V daném případě bylo napadené usnesení doručeno do datové schránky obhájce Mgr. Jiřího Kokeše dne 9. 12. 2015 (č. l. 7205 spisu). Z doručenky vyplývá, že toho dne se do datové schránky obhájce přihlásila osoba oprávněná ve smyslu § 8 odst. 1 až 4 zákona č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů, ve znění pozdějších předpisů. Údajnou technickou závadu obhájce blíže nespecifikoval ani nijak nedoložil. Lhůta pro podání stížnosti proto uplynula v pondělí 14. 12. 2015.
+Tuto blíže nespecifikovanou technickou závadu pak nelze ani považovat za důležitý důvod ve smyslu § 61 odst. 1 tr. ř., a to jednak proto, že nebyla prokázána, ale také proto, že pokud by skutečně existovala, bylo by třeba za datum doručení považovat den 21. 12. 2015, kdy současně obviněný podal stížnost, tedy by lhůta nebyla zmeškána. K tomu však zjevně nedošlo. Nejvyššímu soudu proto nezbylo než rozhodnout, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 7. ledna 2016
+JUDr. Karel Hasch
+předseda senátu
