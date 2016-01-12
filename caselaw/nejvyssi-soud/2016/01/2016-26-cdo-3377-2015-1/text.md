@@ -1,0 +1,13 @@
+26 Cdo 3377/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Pavlíny Brzobohaté a soudců JUDr. Jitky Dýškové a JUDr. Miroslava Feráka v exekuční věci oprávněné MJM Litovel a. s., se sídlem v Litovli, Cholinská 1048/19, IČO 45193592, zastoupené Mgr. Danou Holcman, advokátkou se sídlem v Litovli, Cholinská 1048/19, proti povinné Paseka, zemědělská a. s., se sídlem v Babicích 80, pošta Mladějovice, IČO 25356411, zastoupené Mgr. Jiřím Zrůstkem, advokátem se sídlem v Praze 4 - Nuslích, Doudlebská 1699/5, pro nezastupitelné plnění, vedené u soudního exekutora JUDr. Tomáše Vrány, Exekutorský úřad Přerov, pod sp. zn. 103 EX 04410/14, o dovolání povinné proti usnesení Krajského soudu v Ostravě - pobočky v Olomouci ze dne 30. března 2015, č. j. 40 Co 117/2015-144, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Povinná napadla dovoláním usnesení Krajského soudu v Ostravě - pobočky v Olomouci (odvolacího soudu) ze dne 30. 3. 2015, č. j. 40 Co 117/2015-144, jímž potvrdil usnesení soudního exekutora JUDr. Tomáše Vrány ze dne 10. 12. 2014, č. j. 103 EX 04410/14-136, kterým rozhodl o uložení (další) pokuty povinné za nesplnění povinnosti (provést zápis oprávněné do seznamu akcionářů povinné) stanovené v tam uvedeném rozhodnutí.
+Dovolání proti usnesení odvolacího soudu není přípustné podle § 237 zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů (čl. II bod 2. zákona č. 293/2013 Sb.), dále jen „o. s. ř.“, neboť napadené usnesení je v souladu s ustálenou rozhodovací praxí dovolacího soudu (k otázce odložení vykonatelnosti exekučního titulu a provádění exekuce srovnej např. usnesení Nejvyššího soudu ze dne 5. 4. 2011, sp. zn. 20 Cdo 5248/2009, ze dne 17. 2. 2011, sen. zn. 29 NSCR 29/2009, uveřejněné pod číslem 108/2011 Sbírky soudních rozhodnutí a stanovisek) a není důvod, aby rozhodná právní otázka vymezená v dovolání byla posouzena jinak. Samotné podání žádosti o odklad vykonatelnosti rozhodnutí (exekučního titulu) nemá na nařízení a následné provádění exekuce či výkonu rozhodnutí vliv. Teprve rozhodnutí soudu o odložení vykonatelnosti rozhodnutí brání provádění exekuce do pravomocného skončení příslušného řízení (nebrání však nařízení exekuce podle tohoto rozhodnutí). V tomto případě vykonatelnost exekučního titulu odložena nebyla, tudíž zde ani nebyla žádná překážka bránící provádění exekuce.
+Nejvyšší soud proto dovolání povinné podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., exekuční řád, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 12. ledna 2016
+JUDr. Pavlína Brzobohatá
+předsedkyně senátu
