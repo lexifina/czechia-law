@@ -1,0 +1,19 @@
+30 Cdo 3167/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Simona a soudců JUDr. Bohumila Dvořáka a JUDr. Františka Ištvánka v právní věci žalobkyně JUDr. J. H., proti žalované České republice – Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 424/16, o náhradu ušlého výdělku a o zadostiučinění za nemajetkovou újmu, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 23 C 113/2013, o dovolání žalobkyně proti usnesení Městského soudu v Praze ze dne 19. února 2015, č. j. 72 Co 48/2015-58, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalobkyně se proti České republice domáhala zaplacení 23 942 000 Kč jednak jako náhrady ušlého výdělku (v částce 3 942 000 Kč), jednak jako zadostiučinění za nemajetkovou újmu (v částce 20 000 000 Kč), jež jí měla vzniknout v důsledku nepřiměřené délky řízení vedeného před Okresním soudem Brno-venkov pod sp. zn. 7 C 325/90.
+Obvodní soud pro Prahu 2 jako soud prvního stupně (dále jen „soud prvního stupně“) usnesením ze dne 18. září 2014, č. j. 23 C 113/2013-45, zamítl návrh žalobkyně na prominutí zmeškání lhůty k podání odvolání proti usnesení, jímž byla žaloba částečně odmítnuta (výrok I), a žalobkyni zároveň vyzval k odstranění vad tohoto odvolání (výrok II).
+K odvolání žalobkyně Městský soud v Praze jako soud odvolací (dále jen „odvolací soud“) v napadeném usnesení potvrdil rozhodnutí soudu prvního stupně v části, jíž byl zamítnut návrh žalobkyně na prominutí zmeškání lhůty, a v části, v níž odvolání směřovalo proti výroku II usnesení soudu prvního stupně, odvolání odmítl.
+Usnesení odvolacího soudu napadla žalobkyně v plném rozsahu včasným dovoláním, které však Nejvyšší soud podle § 243c odst. 1 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. ledna 2013 do 31. prosince 2013 (viz čl. II bod 7 zákona č. 404/2012 Sb. a čl. II bod 2 zákona č. 293/2013 Sb.), dále jen „o. s. ř.“, odmítl.
+Podle § 238 odst. 1 písm. f) o. s. ř. dovolání podle § 237 o. s. ř. není přípustné proti usnesením, proti nimž je přípustná žaloba pro zmatečnost podle § 229 odst. 4 o. s. ř.
+Podle § 229 odst. 4 o. s. ř. žalobou pro zmatečnost může účastník napadnout rovněž pravomocné usnesení odvolacího soudu, kterým bylo odmítnuto odvolání nebo kterým bylo zastaveno odvolací řízení, jakož i pravomocné usnesení odvolacího soudu, kterým bylo potvrzeno nebo změněno usnesení soudu prvního stupně o odmítnutí odvolání nebo dovolání pro opožděnost.
+Z uvedeného vyplývá, že dovolání žalobkyně v části, v níž směřuje proti pravomocnému usnesení odvolacího soudu, jímž bylo odmítnuto odvolání, není podle § 238 odst. 1 písm. f) o. s. ř. přípustné. Není přitom rozhodné, zda odvolací soud odvolání proti rozhodnutí soudu prvního stupně odmítl podle § 218 o. s. ř. pro nedostatek subjektivní nebo objektivní přípustnosti, podle § 218a o. s. ř. pro opožděnost nebo podle § 211 o. s. ř. a § 43 odst. 2 o. s. ř. pro vady odvolání (shodně Drápal, L., Bureš, J. a kol. Občanský soudní řád II. Komentář. 1. vydání. Praha: C. H. Beck, 2009, s. 1816).
+Dovolání žalobkyně není přípustné ani v části, v níž směřuje proti usnesení odvolacího soudu, kterým bylo potvrzeno usnesení soudu prvního stupně o zamítnutí návrhu na prominutí zmeškání lhůty. Námitky vznesené v tomto směru žalobkyní nespočívají v nesprávnosti právního posouzení věci odvolacím soudem, nýbrž se týkají údajných vad řízení (nečinnost obecných soudů při vznesení námitky podjatosti, nezajištění rovnosti postavení účastníků řízení), a nepředstavují tak způsobilý dovolací důvod ve smyslu ustanovení § 241a odst. 1 o. s. ř. Dovolací soud k nim proto nemohl přihlédnout.
+Nákladový výrok netřeba odůvodňovat (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení nejsou přípustné opravné prostředky.
+V Brně dne 13. ledna 2016
+JUDr. Pavel Simon
+předseda senátu
