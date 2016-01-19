@@ -1,0 +1,15 @@
+28 Cdo 5359/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jana Eliáše, Ph.D., a soudců Mgr. Miloše Póla a Mgr. Petra Krause v právní věci žalobkyně MOSTECKÉ BYTOVÉ, a.s. v likvidaci, IČ: 25438832, se sídlem v Mostě, ul. J. Skupy 2522, zastoupené JUDr. Janem Růžkem, advokátem se sídlem v Lounech, Poděbradova 751, proti žalovanému 1. J. H., 2. L. L., zastoupené Milošem Trubačem, obecným zástupcem, o zaplacení částky 9.089,- Kč s příslušenstvím a částky 39.142,- Kč s příslušenstvím, vedené u Okresního soudu v Mostě pod sp. zn. 45 C 648/2011, o dovolání žalované 2. proti usnesení Krajského soudu v Ústí nad Labem ze dne 4. listopadu 2014, č. j. 10 Co 108/2014-60, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Žalovaná 2. podala dovolání proti shora označenému usnesení Krajského soudu v Ústí nad Labem, kterým tento soud potvrdil usnesení Okresního soudu v Mostě ze dne 8. října 2013, č. j. 45 C 648/2011-45, jímž soud prvního stupně připustil, aby do řízení na straně žalovaného přistoupila jako další účastník L. L..
+Je-li dovolatelem – jako je tomu i v posuzovaném případě – fyzická osoba, je nezbytné, aby (nemá-li právnické vzdělání) byla zastoupena advokátem (notářem), jímž musí být dovolání i sepsáno [srov. § 241 odst. 1, odst. 2 písm. a) a odst. 4 o. s. ř.]. Dovolatelka při podání dovolání advokátem zastoupena nebyla.
+Vzhledem k absenci povinného zastoupení Okresní soud v Mostě usnesením ze dne 18. srpna 2015, č. j. 45 C 648/2011-98, dovolatelku vyzval, aby si ve lhůtě patnácti dnů od doručení tohoto usnesení zvolila pro dovolací řízení zástupcem advokáta a aby jeho prostřednictvím podala řádné dovolání. Současně ji poučil o následcích nesplnění této podmínky řízení, jakož i o možnosti ustanovení zástupce z řad advokátů pro podání dovolání. Usnesení bylo dovolatelce doručeno dne 21. srpna 2015, aniž na ně jakkoli reagovala. Usnesením ze dne 23. října 2015, č. j. 45 C 648/2011-100, soud prvního stupně dovolatelku dále vyzval, aby ve lhůtě patnácti dnů od doručení tohoto usnesení soudu sdělila, zda má právnické vzdělání (z předchozího obsahu spisu se taková skutečnost nepodávala), a pokud takové vzdělání má, aby tuto skutečnost soudu prokázala. Usnesení bylo dovolatelce doručeno dne 30. října 2015, ta však nijak nereagovala ani na tuto výzvu.
+Jelikož povinné zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – vyjma usnesení, jímž se dovolací řízení právě pro jeho neodstranění zastavuje – vydání rozhodnutí, kterým se řízení končí (§ 241 o. s. ř.), a protože ke zhojení uvedeného nedostatku přes opatření soudu nedošlo, Nejvyšší soud dovolací řízení zastavil (§ 104 odst. 2, § 241b odst. 2 o. s. ř.).
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3, věta druhá, o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 19. ledna 2016
+JUDr. Jan Eliáš, Ph.D.
+předseda senátu
