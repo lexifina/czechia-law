@@ -1,0 +1,16 @@
+6 Tz 3/2016
+U S N E S E N Í
+Nejvyšší soud rozhodl v neveřejném zasedání konaném dne 19. ledna 2016, v řízení o stížnosti pro porušení zákona podané ministrem spravedlnosti ve prospěch obviněného P. B. , proti usnesení Okresního soudu ve Frýdku-Místku ze dne 3. 7. 2013, č. j. 3 T 87/2002-507, t a k t o :
+Podle § 275 odst. 4 tr. ř. se obviněnému P. B. přerušuje výkon trestu odnětí svobody nařízený ve věci Okresního soudu ve Frýdku-Místku pod sp. zn. 3 T 87/2002.
+O d ů v o d n ě n í :
+Ministr spravedlnosti podal u Nejvyššího soudu ve prospěch obviněného P. B. stížnost pro porušení zákona, jíž napadl usnesení Okresního soudu ve Frýdku-Místku ze dne 3. 7. 2013, č. j. 3 T 87/2002-507, jíž bylo podle § 368 tr. ř. rozhodnuto, že obviněný je účasten amnestie prezidenta republiky ze dne 1. 1. 2013 a že se mu podle čl. III odst. 1, 2 amnestie prezidenta republiky promíjí zbytek nevykonaného trestu odnětí svobody v trvání dvou let uložený mu pravomocným rozsudkem Okresního soudu ve Frýdku-Místku ze dne 30. 10. 2002, č. j. 3 T 87/2002-359, ve spojení s pravomocným usnesením Okresního soudu ve Frýdku-Místku ze dne 10. 11. 2004, č. j. 3 T 87/2002-429, a to s podmínkou, že se nedopustí trestného činu po dobu pěti let.
+Ministr spravedlnosti na základě skutečností, které ve svém mimořádném opravném prostředku uvedl, navrhl, aby Nejvyšší soud podle § 268 odst. 2 tr. ř. vyslovil, že pravomocným usnesením Okresního soudu ve Frýdku-Místku ze dne 3. 7. 2013, č. j. 3 T 87/2002-507, byl porušen zákon v ustanoveních § 368 tr. ř. a čl. III odst. 1, 2 amnestie prezidenta republiky ze dne 1. 1. 2013 v neprospěch obviněného a podle § 269 odst. 2 tr. ř. napadené rozhodnutí zrušil a současně zrušil všechna další rozhodnutí na zrušené usnesení obsahově navazující, pokud vzhledem ke změně, k níž došlo zrušením, pozbyla podkladu.
+Současně navrhl, aby Nejvyšší soud podle § 275 odst. 4 tr. ř. před rozhodnutím o stížnosti pro porušení zákona přerušil výkon trestu odnětí svobody, který byl obviněnému uložen v trestní věci vedené u Okresního soudu ve Frýdku-Místku pod sp. zn. 3 T 87/2002.
+Podle § 275 odst. 4 tr. ř. může Nejvyšší soud před rozhodnutím o stížnosti pro porušení zákona odložit nebo přerušit výkon rozhodnutí, proti němuž byla stížnost pro porušení zákona podána.
+Aplikace citovaného ustanovení umožňuje Nejvyššímu soudu, aby v případech, kdy lze předpokládat úspěšnost stížnosti pro porušení zákona s ohledem na její argumenty a s přihlédnutím k obsahu napadeného rozhodnutí, přerušil výkon stížnosti pro porušení zákona napadeného rozhodnutí a tak předešel nepříznivým důsledkům, které by dalším výkonem rozhodnutí mohly nastat a které by bylo obtížné dodatečně napravovat.
+Takový případ nastal v posuzované věci. Jakkoliv nelze předjímat rozhodnutí Nejvyššího soudu o podané stížnosti pro porušení zákona, nelze se zřetelem k argumentaci v ní uplatněné vyloučit, že bude shledána důvodnou a věc bude posouzena a rozhodnuta způsobem, jehož se ministr spravedlnosti domáhá. V takovém případě by se stal výkon trestu, jenž byl obviněnému uložen napadeným rozhodnutím, nepřípustným.
+Nejvyšší soud proto rozhodl způsobem uvedeným ve výroku tohoto usnesení.
+P o u č e n í : Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 19. ledna 2016
+JUDr. Ivo Kouřil
+předseda senátu
