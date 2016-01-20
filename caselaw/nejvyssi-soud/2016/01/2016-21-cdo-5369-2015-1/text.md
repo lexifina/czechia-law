@@ -1,0 +1,14 @@
+21 Cdo 5369/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Karla Svobody, Ph.D., a JUDr. Lubomíra Ptáčka, Ph.D., v právní věci žalobce A. M., zastoupeného Mgr. Robertem Tschöplem, advokátem se sídlem v Praze 4, Pod křížkem č. 428/4, proti žalovanému Městu Nový Bor, se sídlem městského úřadu v Novém Boru, nám. Míru č. 1, IČO 002 60 771, zastoupenému JUDr. Jiřím Cehákem, advokátem se sídlem v Novém Boru, nám. Míru č. 1, o určení neplatnosti odvolání z funkce, vedené u Okresního soudu v České Lípě pod sp. zn. 6 C 17/2010, o dovolání žalovaného proti rozsudku Krajského soudu v Ústí nad Labem – pobočky v Liberci ze dne 25. června 2015 č.j. 36 Co 606/2014-280, takto:
+I. Dovolání žalovaného se odmítá.
+II. Žalovaný je povinen zaplatit žalobci na náhradě nákladů dovolacího řízení 3.388,- Kč do 3 dnů od právní moci tohoto usnesení k rukám Mgr. Roberta Tschöpla, advokáta se sídlem v Praze 4, Pod křížkem č. 428/4.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalovaného proti rozsudku Krajského soudu v Ústí nad Labem – pobočky v Liberci ze dne 25. 6. 2015, č. j. 36 Co 606/2014-280, není přípustné podle ustanovení § 237 o. s. ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu [srov. odůvodnění rozsudku Nejvyššího soudu ze dne 29. 5. 2013, sp. zn. 21 Cdo 2070/2012, a ve vztahu k hlediskům pro vymezení relativně neurčité (abstraktní) hypotézy právní normy - ustanovení § 12 odst. 1 písm. b) zákona č. 312/2002 Sb., o úřednících územních samosprávných celků a o změně některých zákonů - také odůvodnění rozsudku Nejvyššího soudu ze dne 5. 1. 2012, sp. zn. 21 Cdo 2514/2010] a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+V části dovolání žalovaný uplatnil jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o. s. ř. [zpochybňuje-li skutková zjištění, která byla pro právní posouzení věci odvolacím soudem rozhodující a na nichž spočívá závěr odvolacího soudu, že vytýkané jednání žalobce nelze hodnotit jako porušení zákonem stanovených povinností závažným způsobem ve smyslu ustanovení § 12 odst. 1 písm. b) zákona o úřednících územních samosprávných celků a o změně některých zákonů, polemizuje-li s tím, ke kterým hlediskům odvolací soud při posuzování intenzity porušení zákonem stanovených povinností žalobcem přihlížel, a namítá-li jiné vady řízení], a proto dovolání trpí vadami, pro které nelze v dovolacím řízení pokračovat.
+Nejvyšší soud České republiky proto dovolání žalovaného podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 20. ledna 2016
+JUDr. Mojmír Putna
+předseda senátu
