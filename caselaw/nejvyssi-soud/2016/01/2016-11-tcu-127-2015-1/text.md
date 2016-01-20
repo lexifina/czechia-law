@@ -1,0 +1,23 @@
+11 Tcu 127/2015-20
+U S N E S E N Í
+Nejvyšší soud projednal dne 20. ledna 2016 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl takto:
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení občana České republiky R. F., rozsudkem Obvodového soudu Norimberk, Spolková republika Německo, ze dne 20. 3. 2014, sp. zn. 433 Ls 354 Js 12963/13, hledí jako na odsouzení soudem České republiky.
+Odůvodnění:
+Výše uvedeným rozsudkem Obvodového soudu Norimberk byl R. F. uznán vinným trestnými činy nedovoleného obchodování s omamnými a psychotropními látkami v nikoli nepatrném množství v pěti případech, úmyslného nedovoleného nabývání omamných a psychotropních látek v nikoli nepatrném množství ve třech případech a nedovoleného držení omamných a psychotropních látek v nikoli nepatrném množství ve dvou případech a byl odsouzen k trestu odnětí svobody v trvání dvou let a deseti měsíců.
+Shora uvedené trestné činnosti se odsouzený dopustil podle zjištění Obvodového soudu Norimberk tím, že od února roku 2013 až do svého zatčení v srpnu v N. obchodoval s metamfetaminem, který nabýval vždy ve svém bytě v R. S. v N. Přinášeli mu jej odděleně stíhaný M. a S., a to vždy na základě jeho objednávky z Č. r. Celkem tak nabyl 180,4 g metamfetaminu. Konkrétně se jednalo o tyto obchody:
+1. V období od 25. 2. 2013 do 3. 3. 2013 nejméně 25 g metamfetaminu,
+2. v období od 18. 3. 2013 do 24. 3. 2013 dodali odděleně stíhaní v doprovodu s odděleně stíhaným D. J. nejméně 28 g metamfetaminu,
+3. v období od 15. 4. 2013 do 21. 4. 2013 dodali odděleně stíhaní nejméně 35 g metamfetaminu,
+4. v období od 27. 5. 2013 do 2. 6. 2013 dodali odděleně stíhaní v doprovodu s odděleně stíhaným D. J. nejméně 40 g metamfetaminu,
+5. v období od 24. 7. 2013 do 28. 7. 2013 dodali odděleně stíhaní nejméně 47,4 g metamfetaminu. Také toto množství bylo určeno k dalšímu prodeji. Z této dodávky bylo dne 12. 8. 2013 kolem 12.35 hodin zajištěno v jeho bytě ještě 37,5 g metamfetaminu (obsah účinné látky 23,5 g) a v kapse jeho kalhot dalších 7,91 g (obsah účinné látky 5,31 g).
+Odsouzený metamfetamin prodával ve svém bytě v R. S. v N., vyjma podílu nejméně 20%, který byl určen k jeho vlastní spotřebě. Metamfetamin prodával B., K., S., B. a dalším. Získával jej za 40 € za gram a prodával za 60 € za gram. Metamfetamin měl obsah účinné látky, není-li uvedeno jinak, nejméně 65% metamfetaminové báze, přičemž odsouzený kvalitu znal.
+Ministerstvo spravedlnosti České republiky podalo ve shora uvedené věci návrh Nejvyššímu soudu na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů (dále jen „zákon“).
+Nejvyšší soud věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro rozhodnutí podle § 4a odst. 3 zákona.
+Především je třeba uvést, že podle § 4a odst. 3 zákona Nejvyšší soud na návrh Ministerstva spravedlnosti České republiky rozhodne, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky, a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Z podaného návrhu a z obsahu připojeného spisového materiálu vyplývá, že odsouzený je občanem České republiky, který byl odsouzen soudem jiného členského státu Evropské unie, přičemž se odsouzení týká skutku, který vykazuje znaky trestného činu i podle příslušných právních předpisů České republiky (trestný čin nedovolené výroby a jiného nakládání s omamnými a psychotropními látkami a s jedy podle § 283 tr. zákoníku). Tím jsou splněny formální podmínky ustanovení § 4a odst. 3 zákona.
+V posuzované věci jsou dány i podmínky materiální povahy. Odsouzený se dopustil úmyslné trestné činnosti směřující proti zájmu společnosti na ochraně před možným nebezpečím vyplývajícím z nekontrolovaného nakládání s omamnými a psychotropními látkami. Jednal přitom v takovém rozsahu (zejména pokud jde o množství látky, čin spáchal opakovaně), že již lze tuto trestnou činnost označit za závažnou ve smyslu § 4a odst. 3 zákona. Pokud jde o druh trestu, byl mu uložen citelný trest odnětí svobody. Lze tedy dovodit, že podmínky ustanovení § 4a odst. 3 zákona týkající se závažnosti činu a druhu uloženého trestu jsou splněny.
+Z uvedených důvodů proto Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 20. ledna 2016
+JUDr. Karel Hasch
+předseda senátu
