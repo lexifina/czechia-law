@@ -1,0 +1,19 @@
+11 Tcu 133/2015-30
+U S N E S E N Í
+Nejvyšší soud projednal dne 20. ledna 2016 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl takto:
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení občana České republiky J. P., rozsudkem Obvodového soudu Drážďany, Spolková republika Německo, ze dne 28. 5. 2014, sp. zn. 205 Ls 318 Js 15342/14, ve spojení s rozsudkem Zemského soudu Drážďany, Spolková republika Německo, ze dne 15. 9. 2014, sp. zn. 11 Ns 318 Js 15342/14, hledí jako na odsouzení soudem České republiky.
+Odůvodnění:
+Výše uvedeným rozsudkem Obvodového soudu Drážďany byl J. P. uznán vinným trestným činem krádeže a dvojnásobným pokusem trestného činu krádeže a ve spojení s výše uvedeným rozsudkem Zemského soudu Drážďany byl odsouzen k trestu odnětí svobody v trvání jednoho roku a pěti měsíců.
+Shora uvedené trestné činnosti se odsouzený dopustil podle zjištění Obvodového soudu Drážďany tím, že:
+1. Dne 17. 3. 2014 v době od 17.30 do 21.45 hod. se vloupal do uzamčeného vozidla Škoda Octavia, poškozeného S. K., které bylo zaparkováno v B. W. v D., tak, že vylomil dveře. Poté vytáhl zámek zapalování, připojil OBD a pokusil se nastartovat vozidlo, které chtěl předat v Č. r. J. D., což se mu však nepodařilo. Vozidlo mělo hodnotu 8 000 €, vznikla škoda ve výši 500 €.
+2. Dne 20. 1. 2014 mezi 21.30 a 22.30 hod. vnikl přes okénko na straně řidiče do uzamčeného vozidla Škoda Octavia Combi 1.9 TDI, poškozeného J. G., zaparkovaného v H. v D., a odstranil zámek zapalování. Vozidlo chtěl předat v Č. r. J. D., nepodařilo se mu ho však nastartovat. Vozidlo mělo hodnotu 5 000 €, vznikla škoda ve výši 500 €.
+3. Dne 12. 3. 2014 mezi 0.00 a 6.15 hodin vnikl neznámým způsobem do uzamčeného a zámkem volantu opatřeného vozidla Škoda Octavia poškozeného O. H., zaparkovaného v E. v D., a odcizil ho, aby ho v Č. r. předal J. D. Vozidlo mělo hodnotu 9 000 €.
+Ministerstvo spravedlnosti České republiky podalo ve shora uvedené věci návrh Nejvyššímu soudu na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů (dále jen „zákon“).
+Nejvyšší soud věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro rozhodnutí podle § 4a odst. 3 zákona. Podle tohoto ustanovení Nejvyšší soud na návrh Ministerstva spravedlnosti České republiky rozhodne, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky, a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Z podaného návrhu a z obsahu připojeného spisového materiálu vyplývá, že odsouzený je občanem České republiky, který byl odsouzen soudem jiného členského státu Evropské unie, přičemž se odsouzení týká skutku, který vykazuje znaky trestného činu i podle příslušných právních předpisů České republiky (trestný čin krádeže podle § 205 tr. zákoníku). Tím jsou splněny formální podmínky ustanovení § 4a odst. 3 zákona.
+V posuzované věci jsou dány i podmínky materiální povahy. Odsouzený se dopustil úmyslné trestné činnosti směřující proti zájmu společnosti na ochraně majetku. Jednal přitom v takovém rozsahu (zejména se dopustil trestné činnosti opakovaně), že již lze tuto trestnou činnost označit za závažnou ve smyslu § 4a odst. 3 zákona. Pokud jde o druh trestu, byl mu uložen citelný trest odnětí svobody. Lze tedy dovodit, že podmínky ustanovení § 4a odst. 3 zákona týkající se závažnosti činu a druhu uloženého trestu jsou splněny.
+Z uvedených důvodů proto Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 20. ledna 2016
+JUDr. Karel Hasch
+předseda senátu
