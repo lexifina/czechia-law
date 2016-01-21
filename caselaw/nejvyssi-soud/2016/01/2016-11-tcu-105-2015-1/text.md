@@ -1,0 +1,17 @@
+11 Tcu 105/2015-28
+U S N E S E N Í
+Nejvyšší soud projednal dne 21. ledna 2016 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl takto:
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení občana České republiky F. Ch., rozsudkem Zemského soudu pro trestní věci Vídeň, Rakouská republika, ze dne 6. 12. 2013, sp. zn. 095 Hv 155/13d, hledí jako na odsouzení soudem České republiky.
+Odůvodnění:
+Výše uvedeným rozsudkem Zemského soudu pro trestní věci Vídeň byl F. Ch. uznán vinným trestným činem výdělečné krádeže a byl odsouzen k trestu odnětí svobody v trvání čtrnácti měsíců.
+Shora uvedené trestné činnosti se odsouzený dopustil podle zjištění Zemského soudu pro trestní věci Vídeň tím, že dne 5. 11. 2013 ve V. odcizil poškozené Comics Hutterer čtyři tašky vystavené mimo obchod u prodejního stánku v celkové hodnotě 108 € tak, že je vzal a pokusil se s nimi utéci.
+Ministerstvo spravedlnosti České republiky podalo ve shora uvedené věci návrh Nejvyššímu soudu na rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů (dále jen „zákon“).
+Nejvyšší soud věc přezkoumal a shledal, že jsou splněny zákonné podmínky pro rozhodnutí podle § 4a odst. 3 zákona.
+Především je třeba uvést, že podle § 4a odst. 3 zákona Nejvyšší soud na návrh Ministerstva spravedlnosti České republiky rozhodne, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky, a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Z podaného návrhu a z obsahu připojeného spisového materiálu vyplývá, že odsouzený je občanem České republiky, který byl odsouzen soudem jiného členského státu Evropské unie. Odsouzení se týká skutku, který vykazuje znaky trestného činu i podle příslušných právních předpisů České republiky, a to trestného činu krádeže podle § 205 odst. 2 tr. zákoníku ve spojení s dřívějším odsouzením rozsudkem Zemského soudu Wiener Neustadt ze dne 5. 9. 2013, sp. zn. 36 Hv 67/13x, kterým byl odsouzený uznán vinným trestným činem výdělečné krádeže v rámci zločinného spolčení spočívajícím v tom, že s dalšími spolupachateli odcizili dne 15. 7. 2013 ve V. poškozené Media Markt GmbH zrcadlovku zn. Canon EOS 600D v hodnotě 549 € a dva MP3 přehrávače zn. Sony v celkové hodnotě 478 €, v němž je možno spatřovat znaky trestného činu krádeže podle § 205 tr. zákoníku. Tím jsou splněny formální podmínky ustanovení § 4a odst. 3 zákona.
+V posuzované věci jsou dány i podmínky materiální povahy. Odsouzený se dopustil úmyslné trestné činnosti směřující proti zájmu společnosti na ochraně cizího majetku. Jednal přitom v takovém rozsahu, že již lze tuto trestnou činnost označit za závažnou ve smyslu § 4a odst. 3 zákona. Pokud jde o druh trestu, byl mu uložen citelný trest odnětí svobody. Lze tedy dovodit, že podmínky ustanovení § 4a odst. 3 zákona týkající se závažnosti činu a druhu uloženého trestu jsou splněny.
+Z uvedených důvodů proto Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 21. ledna 2016
+JUDr. Karel Hasch
+předseda senátu
