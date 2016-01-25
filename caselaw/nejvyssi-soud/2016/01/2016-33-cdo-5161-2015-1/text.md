@@ -1,0 +1,12 @@
+33 Cdo 5161/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Pavlem Krbkem ve věci žalobce J. S., zastoupeného Mgr. Karlem Volfem, advokátem se sídlem v Praze 5, Jindřicha Plachty 3163/28, proti žalované CATANY s.r.o., se sídlem v Libušíně, Libušina 203 (identifikační číslo osoby 28548108), o zaplacení 3.500.000,- Kč s příslušenstvím, vedené u Okresního soudu v Kladně pod sp. zn. 10 C 36/2015, o dovolání žalobce proti usnesení Krajského soudu v Praze ze dne 23. 9. 2015, č.j. 26 Co 376/2015-176, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Nejvyšší soud dovolání žalobce proti v záhlaví citovanému rozhodnutí, kterým krajský soud potvrdil usnesení ze dne 18. 8. 2015, č.j. 10 C 36/2015-155, jímž Okresní soud v Kladně nepřiznal žalobci osvobození od soudních poplatků, odmítl (§ 243c odst. 1, věta první, zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném od 1. 1. 2014, viz čl. II bod 2 zákona č. 293/2013 Sb., dále jen „o.s.ř.“), neboť neobsahuje způsobilé vymezení toho, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 241a odst. 2 o.s.ř.), o tuto obligatorní náležitost již nemůže být doplněno (§ 241b odst. 3 o.s.ř.) a v dovolacím řízení pro tuto vadu nelze pokračovat.
+Může-li být dovolání přípustné jen podle § 237 o.s.ř. (jako v této věci), je dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné, přičemž k projednání dovolání nepostačuje pouhá citace textu ustanovení § 237 o.s.ř. či jeho části (srov. usnesení Nejvyššího soudu ze dne 30. 5. 2013, sp. zn. 29 Cdo 1172/2013, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod č. 80/2013, usnesení Nejvyššího soudu ze dne 25. 9. 2013, sp. zn. 29 Cdo 2394/2013, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod č. 4/2014). Dovolatel uvedenému požadavku nedostál. V dovolání pouze obecně uvedl všechna čtyři kritéria uvedená v § 237 o.s.ř., odpověď na otázku, které z nich a v čem spatřuje za splněné, se však z obsahu dovolání, a to ani z dovolatelem formulovaných otázek, které „je třeba v dovolání řešit“, nepodává.
+Vzhledem k tomu, že tímto rozhodnutím se řízení ve věci nekončí, bude o náhradě nákladů dovolacího řízení rozhodnuto v konečném rozhodnutí soudu prvního stupně, popřípadě soudu odvolacího.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. ledna 2016
+JUDr. Pavel Krbek
+předseda senátu
