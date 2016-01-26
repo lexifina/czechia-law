@@ -1,0 +1,14 @@
+29 Cdo 3330/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Petra Šuka a soudců JUDr. Filipa Cilečka a JUDr. Petra Gemmela v právní věci žalobkyně Mgr. D. K., zastoupené Mgr. Jiřím Slavíkem, advokátem, se sídlem v Praze 5, Zborovská 619/49, PSČ 150 00, proti žalovaným 1) Ing. T. M., 2) MUDr. P. F., 3) Mgr. P. M., 4) Ing. P. F., a 5) Ing. Z. B., všem zastoupeným Mgr. Tomášem Roubíkem, advokátem, se sídlem v Praze 7, Dukelských hrdinů 564/34, PSČ 170 00, o zaplacení 27.537.000 Kč, vedené u Městského soudu v Praze pod sp. zn. 78 Cm 152/2009, o dovolání žalobkyně proti usnesení Vrchního soudu v Praze ze dne 1. října 2012, č. j. 3 Cmo 232/2012-287, ve znění usnesení ze dne 1. března 2013, č. j. 3 Cmo 232/2012-363, takto:
+Dovolání se odmítá.
+Odůvodnění:
+Městský soud v Praze usnesením ze dne 15. března 2012, č. j. 78 Cm 152/2009-241, zamítl námitky žalobkyně proti znění protokolu v projednávané věci (výrok I.), nepřipustil „změnu žaloby tak, aby na straně žalovaných vystupovala společnost XIO.CZ, a. s.“ (výrok II.) a připustil změnu žaloby „o rozšíření důvodu jejího podání“ (výrok III.).
+V záhlaví označeným usnesením Vrchní soud v Praze rozhodl, že soudkyně Městského soudu v Praze JUDr. Zuzana Ciprýnová není vyloučena z projednávání a rozhodnutí projednávané věci (první výrok), odvolání žalobkyně do výroku I. usnesení soudu prvního stupně odmítl (druhý výrok) a usnesení soudu prvního stupně v napadeném výroku II. potvrdil „v tom správném znění“, že přistoupení společnosti XIO.CZ, a. s. jako dalšího účastníka na straně žalující se nepřipouští (třetí výrok).
+Proti usnesení odvolacího soudu podala žalobkyně dovolání, jež Nejvyšší soud odmítl podle § 243b odst. 5, § 218 písm. c) zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. prosince 2012 (pro dovolací řízení rozhodném – srov. část první, čl. II bodu 7 zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) [dále též jen „o. s. ř.“] jako nepřípustné, aniž posuzoval splnění podmínky povinného zastoupení dovolatelky advokátem (§ 241, § 241b odst. 2 o. s. ř.).
+Učinil tak proto, že dovoláním – jakožto mimořádným opravným prostředkem – lze napadnout pravomocná rozhodnutí odvolacího soudu pouze tehdy, připouští-li to zákon (§ 236 odst. 1 o. s. ř.). Přípustnost dovolání proti rozhodnutí nadřízeného soudu o námitce podjatosti soudce (proti němuž dovolatelka – posuzováno podle obsahu – brojí), a ostatně ani proti ostatním výrokům napadeného usnesení, nezakládá žádné ustanovení občanského soudního řádu (srov. § 237 až 239 o. s. ř.).
+O náhradě nákladů dovolacího řízení rozhodne soud v rozhodnutí, jímž se řízení končí (§ 151 odst. 1 o. s. ř.).
+Proti tomuto rozhodnutí není opravný prostředek přípustný.
+V Brně dne 26. ledna 2016
+JUDr. Petr Šuk
+předseda senátu
