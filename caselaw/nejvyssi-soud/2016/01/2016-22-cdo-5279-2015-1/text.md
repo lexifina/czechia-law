@@ -1,0 +1,24 @@
+22 Cdo 5279/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy Mgr. Michala Králíka, Ph.D., a soudců JUDr. Jiřího Spáčila, CSc., a Mgr. Davida Havlíka ve věci žalobců: a) J. V. a b) S. V., obou zastoupených Mgr. Pavlem Pospíšilem, advokátem se sídlem v Mohelnici, Okružní 591/10, proti žalovaným: 1) České republice – Ministerstvu zemědělství, se sídlem v Praze 1 – Novém Městě, Těšnov 65/17, IČO: 00020478, a 2) Povodí Moravy, s. p., se sídlem v Brně Dřevařská 932/11, IČO: 70890013, o zaplacení 91 350 Kč, vedené u Městského soudu v Brně pod sp. zn. 63 C 219/2008, o dovolání žalované 1) proti rozsudku Krajského soudu v Brně ze dne 22. července 2015, č. j. 19 Co 389/2014-107, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Podle § 243f odst. 3 věty první občanského soudního řádu (dále jen „o. s. ř.“) v odůvodnění usnesení, jímž bylo dovolání odmítnuto nebo jímž bylo zastaveno dovolací řízení, dovolací soud pouze stručně uvede, proč je dovolání opožděné, nepřípustné nebo trpí vadami, jež brání pokračování v dovolacím řízení, nebo proč muselo být dovolací řízení zastaveno.
+Městský soud v Brně (dále jen „soud prvního stupně“) rozsudkem ze dne 9. prosince 2013, č. j. 63 C 219/2008-75, uložil žalované 1) povinnost zaplatit žalobcům 27 405 Kč do 3 dnů od právní moci rozsudku (výrok I.), zamítl žalobu, aby žalované 1) byla uložena povinnost zaplatit žalobcům dalších 63 945 Kč (výrok II.), zamítl žalobu, aby žalované 2) byla uložena povinnost zaplatit žalobcům 91 350 Kč (výrok III.) a rozhodl o náhradě nákladů řízení (výroky IV. a V.).
+K odvolání žalobců a žalované 1) Krajský soud v Brně (dále jen „odvolací soud“) rozsudkem ze dne 22. července 2015, č. j. 19 Co 389/2014-107, rozsudek soudu prvního stupně ve výroku I., jímž byla žalované 1) uložena povinnost zaplatit žalobcům 20 809 Kč do 3 dnů od právní moci rozsudku, a ve výroku II. potvrdil (výrok I.) a rozhodl o náhradě nákladů řízení (výroky II. a III.).
+Proti rozsudku odvolacího soudu podala žalovaná 1) dovolání, které považuje za přípustné podle § 237 o. s. ř. Navrhuje, aby dovolací soud zrušil rozhodnutí odvolacího soudu a výrok I. soudu prvního stupně a věc vrátil soudu prvního stupně k dalšímu řízení.
+Žalovaná 2) ve vyjádření podpořila dovolací argumentaci žalované 1).
+Žalobci se k dovolání žalované 1) nevyjádřili.
+Obsah rozsudků soudů obou stupňů i obsah dovolání jsou účastníkům známy a společně s vyjádřením k dovolání tvoří obsah procesního spisu, a proto na ně dovolací soud pro stručnost odkazuje.
+Protože řízení ve věci bylo zahájeno před 31. prosincem 2013, projednal dovolání a rozhodl o něm dovolací soud podle občanského soudního řádu ve znění účinném od 1. ledna 2014 (viz část první, článek II., bod 2. zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony).
+Dovolání není přípustné.
+Podle § 237 o. s. ř. není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+Podle § 238 odst. 1 písm. d) o. s. ř. dovolání podle § 237 není přípustné proti rozsudkům a usnesením, v nichž dovoláním napadeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50 000 Kč, ledaže jde o vztahy ze spotřebitelských smluv a o pracovněprávní vztahy; k příslušenství pohledávky se přitom nepřihlíží.
+Napadeným rozhodnutím odvolacího soudu byla žalované 1) potvrzena povinnost uložená soudem prvního stupně zaplatit žalobcům 20 809 Kč a potvrzen výrok II. soudu prvního stupně, kterým byla zamítnuta žaloba na zaplacení 63 945 Kč. Újma žalované 1) přitom mohla vzniknout jen uložením povinnosti zaplatit 20 809 Kč. Zde se však jedná o rozhodnutí o peněžitém plnění nepřevyšujícím 50 000 Kč, proti němuž není dovolání přípustné. Přípustnost dovolání nezakládá ani nesprávné poučení odvolacího soudu, že dovolání je přípustné [k tomu srovnej usnesení Nejvyššího soudu ze dne 27. června 2002, sp. zn. 29 Odo 425/2002 (uveřejněné pod č. 51/2003 Sbírky soudních rozhodnutí a stanovisek)].
+Jelikož dovolání žalované 1) není podle § 238 odst. 1 písm. d) o. s. ř. přípustné, Nejvyšší soud je podle § 243c odst. 1 o. s. ř. odmítl.
+V souladu s § 243f odst. 3 větou druhou o. s. ř. rozhodnutí o náhradě nákladů dovolacího řízení neobsahuje odůvodnění.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 26. ledna 2016
+Mgr. Michal Králík, Ph.D.
+předseda senátu
