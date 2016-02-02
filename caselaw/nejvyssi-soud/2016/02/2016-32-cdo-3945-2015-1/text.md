@@ -1,0 +1,25 @@
+32 Cdo 3945/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Pavla Příhody a JUDr. Hany Gajdziokové v právní věci žalobkyně ORBIT s.r.o., se sídlem v Praze – Kunraticích, Nad Akáty 1595/7, PSČ 148 00, identifikační číslo osoby 16628110, zastoupené JUDr. Ing. Lukášem Prudilem, Ph.D., advokátem se sídlem v Brně, Bašty 416/8, proti žalované České republice – Ministerstvu obrany, se sídlem v Praze 6, Tychonova 1, PSČ 160 00, identifikační číslo osoby 60162694, o zaplacení 2 146 396,94 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 6 pod sp. zn. 21 C 201/2009, o dovolání žalobkyně proti usnesení Městského soudu v Praze ze dne 9. dubna 2015, č. j. 17 Co 421/2014-223, takto:
+I. Dovolání se odmítá.
+II. Žádná z účastnic nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalobkyně se podanou žalobou domáhala zaplacení částky 2 100 000 Kč s příslušenstvím z titulu náhrady škody, kterou mu měla žalovaná způsobit nesprávným vyloučením ze soutěže o veřejnou zakázku. Po podání žaloby žalobkyně navrhla rozšíření žaloby tak, že požadovala po žalované zaplacení částky 2 146 396,94 Kč s příslušenstvím. Usnesením ze dne 12. srpna 2009, č. j. 21 C 201/2009-14, Obvodní soud pro Prahu 6 změnu žaloby připustil.
+Obvodní soud pro Prahu 6 rozsudkem ze dne 3. dubna 2014, č. j. 21 C 201/2009-173, žalobu zamítl (výrok I.) a rozhodl o nákladech řízení (výrok II.).
+Proti rozsudku soudu prvního stupně podala žalobkyně odvolání.
+Při jednání před odvolacím soudem dne 9. dubna 2015 podala žalobkyně návrh, aby odvolací soud požádal Soudní dvůr Evropské unie o rozhodnutí o předběžné otázce, zda je požadavek na absolutní jistotu v otázce příčinné souvislosti mezi protiprávním jednáním zadavatele veřejné zakázky a vznikem škody v důsledku neuzavření smlouvy z této veřejné zakázky ve světle směrnice Rady č. 1989/665/ES v souladu s unijním právem.
+Městský soud v Praze usnesením ze dne 9. dubna 2015, č. j. 17 Co 421/2014-223, návrh na přerušení řízení za účelem požádání Soudního dvora Evropské unie o rozhodnutí o předběžné otázce zamítl.
+Dovolatelka opírá přípustnost dovolání o ustanovení § 237 občanského soudního řádu (dále jen „o. s. ř.“). Dle jejího názoru „má být právní otázka vyřešena jinak.“ Dovolatelka odvolacímu soudu vytýká, že v odůvodnění svého usnesení odkázal pouze na vnitrostátní výklad práva, nikoli na rozhodnutí právní otázky v evropské judikatuře, a nevyjádřil se k argumentaci dovolatelky.
+Dovolatelka navrhla, aby dovolací soud usnesení odvolacího soudu změnil nebo zrušil a věc vrátil odvolacímu soudu k dalšímu řízení.
+Nejvyšší soud projednal dovolání a rozhodl o něm – v souladu s bodem 7. čl. II přechodných ustanovení části první zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, a s bodem 2. čl. II přechodných ustanovení části první zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony – podle občanského soudního řádu ve znění účinném od 1. ledna 2013 do 31. prosince 2013.
+Podle ustanovení § 236 odst. 1 o. s. ř. dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Podle ustanovení § 237 o. s. ř. není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+Dovolání není přípustné podle ustanovení § 237 o. s. ř., neboť ve všech případech přípustnosti dovolání upravených v tomto ustanovení musí jít o dovolání proti rozhodnutí odvolacího soudu, kterým se odvolací řízení končí. Rozhodnutí odvolacího soudu o zamítnutí návrhu na přerušení řízení podle § 109 odst. 1 písm. d) o. s. ř. takovým rozhodnutím není.
+Ani ustanovení § 238a o. s. ř. nezakládá přípustnost dovolání, neboť napadené rozhodnutí odvolacího soudu nelze podřadit pod žádný z tam vyjmenovaných případů.
+Dovolání žalobkyně tedy není přípustné. Na tomto závěru nemůže nic změnit ani nesprávné poučení odvolacího soudu, že dovolání je přípustné. Nesprávné poučení odvolacího soudu o tom, že dovolání je přípustné za splnění předpokladů vyplývajících z ustanovení § 237 o. s. ř., přípustnost dovolání nezakládá, neboť podle ustanovení § 236 odst. 1 o. s. ř. lze dovoláním napadnout pravomocná rozhodnutí odvolacího soudu pouze tehdy, pokud to zákon připouští.
+S ohledem na výše uvedené Nejvyšší soud dovolání podle ustanovení § 243c odst. 1 o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (srov. ustanovení § 243f odst. 3 větu druhou o. s. ř.).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 2. února 2016
+JUDr. Miroslav G a l l u s
+předseda senátu
