@@ -1,0 +1,14 @@
+21 Cdo 5743/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Novotného a soudců JUDr. Ljubomíra Drápala a JUDr. Lubomíra Ptáčka, Ph.D. v právní věci žalobkyně .A.S.A. České Budějovice, s.r.o. se sídlem v Českých Budějovicích, Dolní č. 876/1, IČO 251 71 941, zastoupené Mgr. Martinem Řandou, LL.M., advokátem se sídlem v Praze 1, Truhlářská č. 1104/13, proti žalovanému J. K., zastoupeném Mgr. Ing. Danielem Krajčo, advokátem se sídlem ve Českých Budějovicích, nám. Přemysla Otakara II. č. 123/36, o zaplacení částky 396.295 Kč, vedené u Okresního soudu v Českých Budějovicích pod sp. zn. 28 C 104/2014, o dovolání žalovaného proti usnesení Krajského soudu v Českých Budějovicích ze dne 6. srpna 2015 č.j. 19 Co 1174/2015-314, takto:
+I. Dovolání žalovaného se odmítá.
+II. Žalovaný je povinen zaplatit žalobkyni na náhradě nákladů dovolacího řízení 13.600,40 Kč do tří dnů od právní moci tohoto usnesení k rukám Mgr. Martina Řandy, LL.M., advokáta se sídlem v Praze 1, Truhlářská č. 1104/13.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalovaného proti usnesení Krajského soudu v Českých Budějovicích ze dne 6.8.2015 č.j. 19 Co 1174/2015-314 není přípustné podle ustanovení § 237 o.s.ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu (k otázce dobré víry zaměstnance srov. například stanovisko býv. Nejvyššího soudu k žalobám o vydání neoprávněného majetkového prospěchu ze dne 28.3.1975 sp. zn. Cpj 34/74, které bylo uveřejněno ve Sbírce soudních rozhodnutí a stanovisek soudu pod č. 26, roč. 1975 a k otázce podmínek pro vrácení neprávem vyplacených částek srov. např. rozsudek Nejvyššího soudu ze dne 20. listopadu 2013 sp. zn. 21 Cdo 1775/2013) a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+Z dovolání (jeho obsahu) vyplývá, že jsou v něm však převážně uplatněny jiné dovolací důvody, než ten, který je uveden v ustanovení § 241a odst. 1 o.s.ř. (podstatou námitek dovolatele je jeho nesouhlas se skutkovým zjištěním, které bylo na základě konkrétního posouzení okolností případu pro právní posouzení věci odvolacím soudem rozhodující, tj. že žalovaný si musel být vědom skutečnosti, že srážky na povinné odvody nebyly před vyplacením částky provedeny a nesouhlas s hodnocením důkazů, na základě něhož odvolací soud k tomuto skutkovému závěru dospěl; dovolatel předestírá své vlastní skutkové závěry, na nichž pak buduje odlišné právní posouzení věci), a v dovolacím řízení nelze pro tento nedostatek pokračovat.
+Nejvyšší soud České republiky proto dovolání žalovaného podle ustanovení § 243c odst. 1 věty první o.s.ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 věty druhé o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 2. února 2016
+JUDr. Zdeněk Novotný
+předseda senátu
