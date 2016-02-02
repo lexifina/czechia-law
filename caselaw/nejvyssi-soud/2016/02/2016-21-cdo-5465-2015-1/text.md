@@ -1,0 +1,14 @@
+21 Cdo 5465/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Novotného a soudců JUDr. Ljubomíra Drápala a JUDr. Lubomíra Ptáčka, Ph.D. v právní věci žalobce R. K., zastoupeného Mgr. Vadimem Rybářem, advokátem se sídlem v Ostravě - Moravské Ostravě, Tyršova č. 1714/27, proti žalované OKD, a.s., se sídlem v Karviné - Doly, Stonavská č. 2179, IČO 268 63 154, zastoupené Mgr. Viktorem Zelinkou, advokátem se sídlem v Ostravě - Moravské Ostravě, Českobratrská č. 2227/7, o náhradu škody, vedené u Okresního soudu v Ostravě pod sp. zn. 85 C 32/2012, o dovolání žalobce a žalované proti rozsudku Krajského soudu v Ostravě ze dne 2. července 2015 č.j. 16 Co 88/2015-328, takto:
+I. Dovolání žalobce a žalované se odmítají.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalobce a žalované proti rozsudku Krajského soudu v Ostravě ze dne 2.7.2015 č. j. 16 Co 88/2015-328 nejsou přípustná podle ustanovení § 237 o.s.ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu (k otázce vystižení újmy, která zaměstnanci vznikla v důsledku nemoci z povolání či pracovního úrazu a zjištění pravděpodobného výdělku zaměstnance srov. např. rozsudek Nejvyššího soudu ze dne 21.1.2014 sp. zn. 21 Cdo 3689/2012, popřípadě rozsudek Nejvyššího soudu ze dne 11.7.2012 sp. zn. 21 Cdo 588/2011 nebo rozsudek Nejvyššího soudu ze dne 21.11.2005 sp. zn. 21 Cdo 58/2005, uveřejněný v časopise Soudní judikatura roč. 2006 pod č. 35, k otázce podstatné změny v poměrech poškozeného srov. např. rozsudek býv. Nejvyššího soudu ze dne 30.11.1978 sp. zn. 5 Cz 54/1978, uveřejněný pod č. 29 ve Sbírce soudních rozhodnutí a stanovisek, roč. 1980 a k výpočtu náhrady za ztrátu na výdělku po skončení pracovní neschopnosti při spolupůsobení obecného onemocnění srov. např. rozsudek Nejvyššího soudu ze dne 12.3.2003 sp. zn. 21 Cdo 227/2002, uveřejněný v časopise Soudní judikatura roč. 2003 pod č. 47, k otázce výkladu přechodných ustanovení zák. práce v souvislosti s odškodněním pracovního úrazu zaměstnance nastolené žalovanou srov. rozsudek Nejvyššího soudu ze dne 7.1.2016 sp. zn. 21 Cdo 796/2014) a není důvod, aby rozhodné právní otázky byla posouzeny jinak.
+V části, v níž žalobce v dovolání uplatnil jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o.s.ř. (nesouhlasí-li s hodnocením důkazů, na nichž odvolací soud založil svůj závěr o pravděpodobném výdělku, jehož by žalobce dosahoval), dovolání trpí vadami, pro které nelze v dovolacím řízení pokračovat.
+Nejvyšší soud České republiky proto dovolání žalobce a žalované podle ustanovení § 243c odst. 1 věty první o.s.ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 věty druhé o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 2. února 2016
+JUDr. Zdeněk Novotný
+předseda senátu
