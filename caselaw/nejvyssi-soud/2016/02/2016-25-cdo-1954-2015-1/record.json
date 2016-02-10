@@ -1,0 +1,30 @@
+{
+  "record_type": "case-law",
+  "court": "Nejvyšší soud České republiky",
+  "date": "2016-02-10",
+  "date_basis": "Official NS database (Rozhodnutí a stanoviska Nejvyššího soudu): Datum rozhodnutí 10. 2. 2016 (decision date).",
+  "ecli": "ECLI:CZ:NS:2016:25.CDO.1954.2015.1",
+  "docket": "25 Cdo 1954/2015",
+  "decision_type": "Rozsudek",
+  "source": "https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/WebSearch/94BBD62DB6D5FCA2C1257FA7004725DE?openDocument",
+  "source_sha256": "d566338e634bd73559760efd180a85ee3a743606b84c025882c036843edbcd15",
+  "source_unid": "94BBD62DB6D5FCA2C1257FA7004725DE",
+  "text_status": "as-published (pseudonymised by the court)",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "fields": {
+    "Právní věta": "Upravil-li soud ve výroku rozsudku žalobní požadavek na uvedení věci do předešlého stavu tak, že stanovený rozsah prací nepostačuje k obnovení předchozího stavu, rozhodl v rozporu s § 153 o. s. ř. o jiném plnění.",
+    "Soud": "Nejvyšší soud",
+    "Datum rozhodnutí": "10. 2. 2016",
+    "Spisová značka": "25 Cdo 1954/2015",
+    "ECLI": "ECLI:CZ:NS:2016:25.CDO.1954.2015.1",
+    "Typ rozhodnutí": "ROZSUDEK",
+    "Heslo": "Náhrada škody",
+    "Dotčené předpisy": "§ 420 obč. zák.\n§ 442 odst. 2 obč. zák.\n§ 153 odst. 2 o. s. ř.",
+    "Kategorie rozhodnutí": "A",
+    "Zveřejněno na webu": "2. 5. 2016",
+    "Publikováno ve sbírce pod číslem": "54 / 2017",
+    "Anotace": "Rozsudek Nejvyššího soudu se zabývá procesní otázkou, zda formulace výroku soudu kvalitativně a kvantitativně vyjadřuje nárok požadovaný účastníkem, či nikoli. V projednávané věci se účastník domáhal naturální restituce, která byla shledána možnou a účelnou, odvolací soud však nevzal v potaz stav věci před jejím poškozením a formuloval výrok svého rozhodnutí tak, že měla být věc uvedena do stavu, aby byla zachována její minimální funkčnost, dle specifikace vodoprávního úřadu. Podstatným zjištěním pro řešení uvedené otázky bylo, zda byly splněny podmínky pro přisouzení jiného, než účastníkem požadovaného plnění."
+  }
+}
