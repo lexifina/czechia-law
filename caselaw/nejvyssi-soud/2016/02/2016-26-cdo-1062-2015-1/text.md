@@ -1,0 +1,13 @@
+26 Cdo 1062/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Feráka a soudkyň JUDr. Pavlíny Brzobohaté a JUDr. Jitky Dýškové ve věci žalobce JUDr. E. M., P., proti žalovaným 1/ městské části Praha 1, se sídlem v Praze 1 – Novém Městě, Vodičkova 681/18, a 2/ M. K., místem podnikání v Praze 9 – Hloubětíně, Poděbradská 433/65, IČO: 16896254, o určení neplatnosti smlouvy, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 17 C 23/2013, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 17. prosince 2013, č. j. 12 Co 432/2013-26, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+K odvolání žalobce Městský soud v Praze jako soud odvolací usnesením ze dne 17. prosince 2013, č. j. 12 Co 432/2013-26, potvrdil usnesení ze dne 1. srpna 2013, č. j. 17 C 23/2013-16, jímž Obvodní soud pro Prahu 1 (soud prvního stupně) nevyhověl jeho žádosti a nepřiznal mu osvobození od soudních poplatků.
+Dovolání žalobce (dovolatele) proti citovanému usnesení odvolacího soudu není přípustné podle § 237 o. s. ř. (zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. prosince 2013 /viz čl. II bod 2. ve spojení s čl. VII zákona č. 293/2013 Sb./ – dále opět jen „o. s. ř.“), neboť hlediska rozhodná pro posouzení otázky, zda jeho poměry odůvodňují přiznání (byť částečné) osvobození od soudních poplatků (§ 138 odst. 1 o. s. ř.), odvolací soud vymezil v intencích ustálené rozhodovací praxe dovolacího soudu (srov. např. odůvodnění usnesení Nejvyššího soudu České republiky ze 17. července 2013, sp. zn. 29 Cdo 1301/2013, uveřejněného pod č. 99/2013 Sbírky soudních rozhodnutí a stanovisek /proti citovanému usnesení byla podána ústavní stížnost, kterou Ústavní soud České republiky odmítl usnesením z 15. července 2014, sp. zn. IV. ÚS 2943/13/), a nelze mu úspěšně vytýkat, že považoval za nevěrohodné údaje, které dovolatel poskytl soudu prvního stupně k odůvodnění své žádosti o přiznání osvobození od soudních poplatků, jelikož jeho úvaha není – vzhledem ke skutečnostem plynoucím z obsahu spisu – zjevně nepřiměřená.
+Nejvyšší soud proto dovolání podle § 243c odst. 1 o. s. ř. odmítl – se souhlasem všech členů senátu (§ 243c odst. 2 o. s. ř.) – pro nepřípustnost.
+Nejvyšší soud nerozhoduje o nákladech dovolacího řízení, jestliže dovoláním napadené rozhodnutí není rozhodnutím, jímž se řízení končí, a jestliže řízení nebylo již dříve skončeno (srov. usnesení Nejvyššího soudu z 23. července 2002, sp. zn. 20 Cdo 970/2001, uveřejněné pod č. 48/2003 Sbírky soudních rozhodnutí a stanovisek).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 10. února 2016
+JUDr. Miroslav Ferák
+předseda senátu
