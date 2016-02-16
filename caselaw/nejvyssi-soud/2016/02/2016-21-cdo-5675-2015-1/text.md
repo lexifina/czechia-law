@@ -1,0 +1,13 @@
+21 Cdo 5675/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Jiřím Doležílkem v právní věci žalobce CASPER CONSULTING a. s. se sídlem v Praze 1, Olivova č. 2096/4, IČO 63980401, zastoupeného Mgr. Soňou Bernardovou, advokátkou se sídlem v Brně, Koliště č. 259/55, proti žalované V. H. (dříve K.), zastoupené JUDr. Petrou Carvanovou, advokátkou se sídlem v Kladně, Huťská č. 1383, o 66.852.004,16 Kč s úroky z prodlení prodejem zástavy, vedené u Okresního soudu v Teplicích pod sp. zn. 13 C 296/2006, o dovolání žalované proti rozsudku Krajského soudu v Ústí nad Labem ze dne 3. února 2014 č. j. 10 Co 563/2012-352, takto:
+I. Dovolání žalované se odmítá.
+II. Žalovaná je povinna zaplatit žalobci na náhradě nákladů dovolacího řízení 2.800,- Kč do tří dnů od právní moci tohoto usnesení k rukám Mgr. Soni Bernardové, advokátky se sídlem v Brně, Koliště č. 259/55.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky dovolání žalované proti rozsudku Krajského soudu v Ústí nad Labem ze dne 3. 2. 2014 č. j. 10 Co 563/2012-352 podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl, neboť neobsahuje údaje o tom, v čem dovolatelka spatřuje splnění předpokladů přípustnosti dovolání [§ 241a odst. 2 o. s. ř.; srov. například usnesení Nejvyššího soudu ze dne 25. 9. 2013 sp. zn. 29 Cdo 2394/2013, které bylo uveřejněno pod č. 4 ve Sbírce soudních rozhodnutí a stanovisek, roč. 2014, usnesení Nejvyššího soudu ze dne 27. 8. 2013 sen. zn. 29 NSČR 55/2013 nebo usnesení Nejvyššího soudu ze dne 29. 8. 2013 sp. zn. 29 Cdo 2488/2013, z jejichž odůvodnění vyplývá, že, má-li být dovolání přípustné proto, že „dovolacím soudem vyřešená právní otázka má být posouzena jinak“, jde o způsobilé vymezení předpokladů přípustnosti dovolání ve smyslu § 241a odst. 2 o. s. ř., jen je-li z dovolání zřejmé, od kterého svého řešení (nikoli řešení odvolacího soudu v napadeném rozhodnutí) otázky hmotného nebo procesního práva se má (podle mínění dovolatele) dovolací soud odchýlit], a v dovolacím řízení nelze pro tento nedostatek pokračovat.
+K podání F. K. ze dne 14. 4. 2014 nazvanému „Sdělení o změně v osobě žalované a doplnění dovolání žalovaného proti rozsudku Krajského soudu v Ústí nad Labem ze dne 3. 2. 2014, sp. zn. 10 Co 563/2012-352 a současně návrh na odložení vykonatelnosti napadeného rozhodnutí“ dovolací soud nepřihlížel, a to již proto, že ustanovení § 107a o. s. ř. pro řízení u dovolacího soudu neplatí (srov. § 243b o. s. ř.).
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 16. února 2016
+JUDr. Jiří Doležílek
+předseda senátu
