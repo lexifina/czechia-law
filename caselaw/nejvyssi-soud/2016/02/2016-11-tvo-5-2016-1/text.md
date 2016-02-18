@@ -1,0 +1,18 @@
+11 Tvo 5/2016-9
+U S N E S E N Í
+Nejvyšší soud projednal v neveřejném zasedání konaném dne 18. února 2016 stížnost obviněného J. H., proti usnesení Vrchního soudu v Olomouci ze dne 7. 1. 2016, sp. zn. 1 To 95/2015, a rozhodl t a k t o :
+Podle § 148 odst. 1 písm. c) tr. ř. s e stížnost obviněného J. H. z a m í t á .
+O d ů v o d n ě n í :
+Obviněný J. H. je stíhán u Krajského soudu v Brně pod sp. zn. 46 T 8/2015, proti jehož rozsudku ze dne 26. 10. 2015 podal odvolání. Dne 7. 1. 2016 Vrchní soud v Olomouci usnesením, sp. zn. 1 To 95/2015, podle § 40a tr. ř. zamítl návrh obviněného na zproštění ustanovené obhájkyně povinnosti jeho obhajování.
+Proti tomuto usnesení podal obviněný do protokolu o veřejném zasedání stížnost, kterou blíže nezdůvodnil.
+Nejvyšší soud z podnětu podané stížnosti přezkoumal podle § 147 odst. 1 tr. ř. správnost napadeného rozhodnutí i řízení, které mu předcházelo, a dospěl k závěru, že stížnost není důvodná.
+Podle § 40a odst. 1 tr. ř. z důvodů uvedených v § 37a odst. 1 nebo 2 nebo nevykonává-li ustanovený obhájce delší dobu obhajobu, předseda senátu a v přípravném řízení soudce i bez návrhu rozhodne o zproštění ustanoveného obhájce povinnosti obhajování; před rozhodnutím umožní obviněnému a obhájci, aby se k věci vyjádřili.
+Podle § 37a odst. 1 tr. ř. předseda senátu a v přípravném řízení soudce rozhodne i bez návrhu o vyloučení advokáta jako zvoleného obhájce z obhajování z důvodů uvedených v § 35 odst. 2 nebo 3, nebo jestliže se obhájce opakovaně nedostaví k úkonům trestního řízení, při nichž je jeho účast nezbytná, ani nezajistí účast svého zástupce, ačkoliv byl řádně a včas o takových úkonech vyrozuměn.
+Podle § 37a odst. 2 tr. ř. o vyloučení advokáta jako zvoleného obhájce předseda senátu a v přípravném řízení soudce rozhodne též tehdy, jestliže obhájce vykonává obhajobu dvou nebo více spoluobviněných, jejichž zájmy si v trestním řízení odporují. Obhájce, který byl z tohoto důvodu vyloučen, nemůže v téže věci dále vykonávat obhajobu žádného z obviněných.
+Podle § 35 odst. 2 tr. ř. pak obhájcem nemůže být advokát, proti kterému je nebo bylo vedeno trestní stíhání, a v důsledku toho v řízení, ve kterém by měl vykonávat obhajobu, má postavení obviněného, svědka nebo zúčastněné osoby. Podle odstavce 3 téhož ustanovení v trestním řízení nemůže být obhájcem advokát, který v něm vypovídá jako svědek, podává znalecký posudek nebo je činný jako tlumočník.
+V posuzovaném případě vrchní soud rozhodoval na základě návrhu obviněného, podle kterého během návštěv ve vazební věznici nedošlo mezi ním a obhájkyní Mgr. Marcelou Hřebíčkovou, která mu byla ustanovena soudcem Okresního soudu v Jihlavě dne 2. 4. 2015, k vytvoření potřebné důvěry. K tomu vrchní soud zjistil stanovisko obhájkyně, podle které obviněný vůči ní ztrátu důvěry nijak nedeklaroval. Poté vrchní soud zvážil všechna výše uvedená kritéria a dospěl k závěru, že žádný z těchto zákonných důvodů není dán, obhájkyně se účastnila všech úkonů přípravného řízení, obhajobu vykonávala v souladu se zákonem, s vysokým nasazením a nepřetržitě. Obviněný vůči ní nikdy dřív nevznesl výhrady. Jeho žádost tak považoval za účelovou snahu prodloužit trestní řízení.
+Uvedeným závěrům nelze nic vytknout. Ani Nejvyšší soud nezjistil, že by v daném případě byl dán některý z důvodů, s nimiž výše citovaná ustanovení trestního řádu spojují nutnost rozhodnout o zproštění ustanoveného obhájce povinnosti obhajování. Obviněný sám stížnost neodůvodnil, tedy neuvedl v tomto směru žádné námitky. Nejvyšší soud se proto ztotožňuje s napadeným rozhodnutím a nezbylo mu než rozhodnout, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 18. února 2016
+JUDr. Karel Hasch
+předseda senátu
