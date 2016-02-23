@@ -1,0 +1,16 @@
+20 Cdo 1937/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Zbyňka Poledny a soudců JUDr. Aleše Zezuly a JUDr. Miroslavy Jirmanové, Ph.D., v exekuční věci oprávněného Ing. D. H., CSc., D., zastoupeného JUDr. Dorotou Líbalovou, Ph.D., advokátkou se sídlem v Praze 2 - Vinohradech, Šubertova 1353/4, proti povinnému V. P., Š. n. V., za účasti vydražitelky IMBA reality CZ s. r. o., se sídlem v Kunčicích pod Ondřejníkem 579, identifikační číslo osoby 27819035, pro 2 000 000 Kč s příslušenstvím, vedené u soudního exekutora JUDr. Igora Ivanko, Exekutorský úřad Praha 10, se sídlem v Praze 6, Na Zátorce 590/12, pod sp. zn. 167 EX 11372/11, o dovolání Stanislava Petrů, narozeného 17. října 1950, bytem ve Štítné nad Vláří - Popově 444, zastoupeného JUDr. Renatou Kadlubcovou, advokátkou se sídlem v Českém Těšíně - Mistřovicích, Hradišťská 119, pro doručování se sídlem ve Stonavě, U Dolu ČSM, proti usnesení Krajského soudu v Brně ze dne 7. ledna 2015, č. j. 58 Co 311/2014-238, takto:
+I. Dovolání se odmítá.
+II. Dovolatel S. P. je povinen zaplatit oprávněné na náhradě nákladů dovolacího řízení částku 10 224,50 Kč do tří dnů od právní moci tohoto usnesení k rukám advokátky JUDr. Doroty Líbalové, Ph.D.
+III. Povinný a vydražitelka nemají právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.) :
+Ve shora uvedené exekuční věci Krajský soud v Brně (dále „odvolací soud“) usnesením ze dne 7. 1. 2015, č. j. 58 Co 311/2014-238, odmítl odvolání S. P., Š. n. V. (dále „dovolatel“), proti usnesení soudního exekutora JUDr. Igora Ivanko, Exekutorský úřad Praha 10, ze dne 17. 6. 2014, sp. zn. 167 EX 11372/11, jímž byl udělen příklep v dražbě nemovitých věcí vydražitelce IMBA reality CZ s. r. o., se sídlem v Kunčicích pod Ondřejníkem 579, identifikační číslo osoby 27819035.
+Dovolatel napadl usnesení odvolacího soudu dovoláním.
+Nejvyšší soud dovolání odmítá v souladu s ustanovením § 243c odst. 1 věty první zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2013 do 31. 12. 2013 (srov. část první, čl. II., bod 7. zákona č. 404/2012 Sb., a část první, čl. II., bod 2. přechodných ustanovení zákona č. 293/2013 Sb.), dále „o. s. ř.“, protože dovolání není přípustné proti usnesení odvolacího soudu, které lze napadnout žalobou pro zmatečnost (§ 238 odst. 1 písm. f/ ve spojení s § 229 odst. 4 o. s. ř.).
+S přihlédnutím k výsledku dovolacího řízení zaplatí dovolatel podle § 243c odst. 3 ve spojení s 224 odst. 1 a § 146 odst. 3 o. s. ř. oprávněné k rukám její právní zástupkyně částku 10 224,50 Kč, zahrnující odměnu advokáta za jeden úkon právní služby (vyjádření se k dovolání) ve výši 8 150 Kč (§ 7 bod 6 a § 11 odst. 2 písm. e/ vyhlášky Ministerstva spravedlnosti č. 177/1996 Sb., o odměnách advokátů a náhradách advokátů za poskytování právních služeb /advokátní tarif/, ve znění pozdějších předpisů), paušální náhradu hotových výdajů ve výši 300 Kč (§ 13 odst. 3 téhož předpisu) a 21 % daň z přidané hodnoty (§ 137 odst. 3 o. s. ř.).
+Výrok III. tohoto usnesení, o náhradě nákladů dovolacího řízení, se neodůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 23. února 2016
+JUDr. Zbyněk Poledna
+předseda senátu
