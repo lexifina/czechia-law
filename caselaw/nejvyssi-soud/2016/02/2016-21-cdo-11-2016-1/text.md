@@ -1,0 +1,13 @@
+21 Cdo 11/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Ljubomíra Drápala a soudců JUDr. Jiřího Doležílka a JUDr. Karla Svobody, Ph.D. v právní věci zástavního věřitele Moravského Peněžního Ústavu - spořitelního družstva, družstva se sídlem v Praze 1, Senovážné náměstí č. 1375/19, IČO 25307835, zastoupeného Mgr. Tomášem Kravčíkem, advokátem se sídlem v Ostravě - Slezské Ostravě, Občanská č. 1115/16, proti zástavní dlužnici R. B. (jako dědičce po Ing. F. B. zemřelém dne 1. října 2013), zastoupené JUDr. Vojtěchem Filipem, advokátem se sídlem v Českých Budějovicích, Čéčova č. 689/11, o soudní prodej zástavy, vedené u Okresního soudu v Táboře pod sp. zn. 4 C 19/2013, o dovolání zástavní dlužnice proti usnesení Krajského soudu v Českých Budějovicích - pobočky v Táboře ze dne 13. srpna 2013 č.j. 15 Co 471/2013-68, takto:
+I. Dovolání zástavní dlužnice se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Dovolání zástavní dlužnice proti usnesení Krajského soudu v Českých Budějovicích - pobočky v Táboře ze dne 13.8.2013 č.j. 15 Co 471/2013-68 není přípustné podle ustanovení § 237 o.s.ř., neboť rozhodnutí odvolacího soudu je [v otázce, co je předmětem řízení o soudním prodeji zástavy jako první fáze soudního prodeje zástavy, kdy soud zkoumá pouze to, zda zástavní věřitel doložil zajištěnou pohledávku, zástavní právo k zástavě, jejíž prodej navrhuje, a kdo je zástavním dlužníkem] v souladu s ustálenou rozhodovací praxí dovolacího soudu (srov. například usnesení Nejvyššího soudu ze dne 2.12.2004 sp. zn. 21 Cdo 1467/2004, které bylo uveřejněno pod č. 37 ve Sbírce soudních rozhodnutích a stanovisek, roč. 2005, usnesení Nejvyššího soudu ze dne 30.10.2007 sp. zn. 21 Cdo 3161/2006, které bylo uveřejněno pod č. 58 ve Sbírce soudních rozhodnutí a stanovisek, roč. 2008, usnesení Nejvyššího soudu ze dne 25.5.2011 sp. zn. 21 Cdo 3973/2009, usnesení Nejvyššího soudu ze dne 28.2.2012 sp. zn. 21 Cdo 4377/2009, usnesení Nejvyššího soudu ze dne 14.7.2010 sp. zn. 21 Cdo 1520/2009, které bylo uveřejněno pod č. 67 ve Sbírce soudních rozhodnutích a stanovisek, roč. 2011, anebo usnesení Nejvyššího soudu ze dne 28.11.2012 sp. zn. 21 Cdo 3892/2010) a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+Nejvyšší soud České republiky proto dovolání zástavní dlužnice podle ustanovení § 243c odst. 1 věty první o.s.ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 24. února 2016
+JUDr. Ljubomír Drápal
+předseda senátu
