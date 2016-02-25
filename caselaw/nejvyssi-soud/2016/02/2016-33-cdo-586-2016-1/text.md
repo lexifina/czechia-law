@@ -1,0 +1,14 @@
+33 Cdo 586/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Václavem Dudou ve věci žalobce P. Č., proti žalované ARGEMON INVEST, s. r. o. se sídlem v Českých Budějovicích, Dr. Stejskala 113/2, o určení platební neschopnosti, vedené u Okresního soudu v Českých Budějovicích pod sp. zn. 17 C 245/2014, o dovolání žalobce proti usnesení Krajského soudu v Českých Budějovicích ze dne 14. května 2015, č. j. 19 Co 1086/2015-49 takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalobce podal dovolání proti usnesení Krajského soudu v Českých Budějovicích ze dne 14. května 2015, č. j. 19 Co 1086/2015-49, kterým bylo potvrzeno usnesení Okresního soudu v Českých Budějovicích ze dne 24. listopadu 2014, č. j. 17 C 245/2014-24, o zastavení řízení pro nezaplacení soudního poplatku.
+Podle § 241 odst. 1 věty první zákona č. 99/1963 Sb., občanského soudního řádu ve znění pozdějších předpisů13 (dále jen „o. s. ř.“) není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Odstavec první citovaného ustanovení neplatí, je-li dovolatelem fyzická osoba, která má právnické vzdělání [§ 241 odst. 2 písm. a) o. s. ř.]. Podle odstavce 4 téhož ustanovení dovolání fyzické osoby musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem nebo notářem. Povinné zastoupení je tak zvláštní podmínkou dovolacího řízení týkající se dovolatele, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění není možno vydat rozhodnutí, jímž se řízení končí. Podle § 104 odst. 2 o. s. ř. jde-li o nedostatek podmínky řízení, který lze odstranit, učiní k tomu soud vhodná opatření. Nezdaří-li se nedostatek podmínky řízení odstranit, řízení zastaví.
+Žalobce, který nebyl při podání dovolání zastoupen advokátem (a z obsahu spisu nevyplývá, že by sám měl právnické vzdělání), soud prvního stupně vyzval usnesením ze dne 21. srpna 2015, č. j. 17 C 245/2014-60, aby ve lhůtě 30 dnů ode dne doručení usnesení prokázal, že má právnické vzdělání nebo aby si pro dovolací řízení zvolil zástupcem advokáta a jeho prostřednictvím podal řádné dovolání; zároveň byl poučen, že nebude-li přes tuto výzvu nedostatek povinného zastoupení advokátem v dovolacím řízení odstraněn, bude dovolací řízení zastaveno. Usnesení obsahující uvedenou výzvu bylo žalovanému doručeno 4. září 2015; žalovaný nedostatek povinného zastoupení v dovolacím řízení ve stanovené lhůtě neodstranil. Nejvyšší soud proto řízení o dovolání ve smyslu § 241b odst. 2 věta před středníkem a § 104 odst. 1, 2 o. s. ř. zastavil.
+Výrok o náhradě nákladů dovolacího řízení nemusí být odůvodněn (§ 243f odst. 3 o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 25. února 2016
+JUDr. Václav Duda
+předseda senátu
