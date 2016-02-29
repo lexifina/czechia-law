@@ -1,0 +1,19 @@
+23 Nd 58/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Dese a soudců JUDr. Kateřiny Hornochové a JUDr. Ing. Pavla Horáka, Ph.D., v exekuční věci oprávněné České republiky - Obvodního soudu pro Prahu 2, Francouzská 808/19, Praha 2, PSČ 120 00, IČO 00024392, proti povinnému M. M., o pověření a nařízení exekuce, vedené u Okresního soudu Praha – západ pod sp. zn. 206 EXE 5433/2016, o určení místní příslušnosti soudu, takto:
+Věc vedenou u Okresního soudu Praha – západ pod sp. zn. 206 EXE 5433/2016 projedná a rozhodne Okresní soud Praha – západ.
+O d ů v o d n ě n í :
+Dne 28. ledna 2016 požádal soudní exekutor Mgr. Jaroslav Homola Okresní soud Praha - západ o pověření a nařízení exekuce na majetek povinného M. M.
+Okresní soud Praha – západ usnesením ze dne 29. ledna 2016, č. j. 206 EXE 5433/2016-8, vyslovil svoji místní nepříslušnost s tím, že věc bude předložena podle § 11 odst. 3 zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), Nejvyššímu soudu České republiky (dále jen „Nejvyšší soud“) k rozhodnutí o určení místně příslušného soudu.
+Soud prvního stupně v odůvodnění uvedl, že postupoval v souladu s názorem vyjádřeným Nejvyšším soudem v jeho usnesení ze dne 12. září 2012, sp. zn. 31 Nd 200/2012.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, jež patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Podle § 45 odst. 1 exekučního řádu je věcně příslušným exekučním soudem v prvním stupni okresní soud.
+Podle § 45 odst. 2 exekučního řádu místně příslušným exekučním soudem je soud, v jehož obvodu má povinný, je-li fyzickou osobou, místo svého trvalého pobytu, popřípadě místo pobytu na území České republiky podle druhu pobytu cizince. Je-li povinný právnickou osobou, je místně příslušným soud, v jehož obvodu má povinný sídlo. Nemá-li povinný, který je fyzickou osobou, v České republice místo trvalého pobytu nebo místo pobytu podle věty první, nebo nemá-li povinný, který je právnickou osobou, sídlo v České republice, je místně příslušným soud, v jehož obvodu má povinný majetek.
+S ohledem na ustanovení § 52 odst. 1 exekučního řádu se při určení, který soud je místně příslušným exekučním soudem v řízení podle tohoto předpisu, použijí ustanovení občanského soudního řádu, neboť exekuční řád jiné ustanovení o určení místní příslušnosti v takových případech neobsahuje.
+Z ustanovení § 252 odst. 2 věty první o. s. ř. vyplývá, že nemá-li povinný obecný soud nebo jeho obecný soud není v České republice, je k nařízení a provedení výkonu rozhodnutí příslušný soud, v jehož obvodu má povinný majetek.
+Nejvyšší soud přitom v usnesení ze dne 12. září 2012, sp. zn. 31 Nd 200/2012, na něž lze v bližším rozboru dané problematiky odkázat, připomněl, že exekuční soud před nařízením exekuce a pověřením exekutora jejím provedením nezjišťuje existenci majetku povinného, neboť by to odporovalo cíli exekučního řízení – zjistit majetek dlužníka (povinného) a uspokojit z něj navrhovatele (věřitele). Není tak případné, aby již v rámci posuzování místní příslušnosti exekuční soud zjišťoval, zda a případně na jakém místě v České republice má povinný majetek.
+Za dané situace je tak na místě při určení místní příslušnosti přihlédnout k zásadě hospodárnosti řízení ve smyslu § 6 o. s. ř., jíž v tomto případě bude zjevně odpovídat, aby věc projednal soud, u nějž bylo řízení zahájeno a jenž již v dané věci činil určité úkony (podobně srov. např. usnesení Nejvyššího soudu ze dne 29. listopadu 2011, sp. zn. 4 Nd 347/2011). S ohledem na uvedené tedy Nejvyšší soud rozhodl podle § 11 odst. 3 o. s. ř. tak, že jako místně příslušný určil soud, u něhož bylo exekuční řízení zahájeno, tedy Okresní soud Praha – západ.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 29. února 2016
+JUDr. Zdeněk D e s
+předseda senátu
