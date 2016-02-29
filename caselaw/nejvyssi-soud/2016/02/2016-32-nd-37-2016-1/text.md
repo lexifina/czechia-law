@@ -1,0 +1,17 @@
+32 Nd 37/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Hany Gajdziokové a soudců JUDr. Miroslava Galluse a JUDr. Pavla Příhody v právní věci žalobce B. V., proti žalované České republice - Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 427/16, identifikační číslo osoby 00025429, o zaplacení částky 25 000 000 Kč, o zdržení se určitého jednání, o odstranění užitých následků, vedené u Krajského soudu v Praze pod sp. zn. 37 C 5/2012, o námitce podjatosti soudců Vrchního soudu v Praze, takto:
+K námitce podjatosti soudců Vrchního soudu v Praze uplatněné žalobcem se nepřihlíží.
+O d ů v o d n ě n í :
+Usnesením ze dne 29. září 2014, č. j. 37 C 5/2012-18, Krajský soud v Praze zamítl návrh žalobce na ustanovení zástupce pro odstranění vad podání.
+Podáním ze dne 6. října 2014, doručeným Krajskému soudu v Praze 7. října 2014, žalobce podal odvolání proti tomuto usnesení a namítl podjatost soudců Vrchního soudu v Praze, aniž by tuto námitku odůvodnil.
+Krajský soud v Praze usnesením ze dne 2. února 2015, č. j. 37 C 5/2012-28, zastavil řízení o odvolání zahájené podáním ze dne 6. října 2014, neboť žalobce na výzvu soudu ze dne 7. listopadu 2014, č. j. 37 C 5/2012-23, aby doplnil blanketní odvolání, učinil pouze podání dne 10. listopadu 2014, které je obsahově shodné s podáním doručeným soudu 7. října 2014, a vady odvolání neodstranil. I proti tomuto rozhodnutí podal žalobce odvolání a věc byla 30. března 2015 předložena Vrchnímu soudu v Praze k rozhodnutí o odvolání.
+Věc je vedena u Vrchního soudu v Praze pod sp. zn. 3 Co 54/2015 a 3 Co 55/2015 a rozhodnout o ní přísluší senátu 1 Co určenému rozvrhem práce Vrchního soudu v Praze pro rok 2016, složenému ze soudců JUDr. Karla Podolky, JUDr. Jitky Horové a JUDr. Leandry Zilvarové. Zastupujícím senátem je senát 3 Co, složený ze soudkyň JUDr. Mileny Opatrné, JUDr. Jitky Horové a JUDr. Leandry Zilvarové.
+Podle ustanovení § 15a odst. 3 občanského soudního řádu (dále též jen „o. s. ř.“) musí být v námitce podjatosti vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému soudci (přísedícímu) směřuje, v čem je spatřován důvod pochybnosti o jeho nepodjatosti, popřípadě kdy se o něm účastník podávající námitku dozvěděl, a jakými důkazy může být prokázán.
+Podle ustanovení § 43 o. s. ř. předseda senátu usnesením vyzve účastníka, aby bylo opraveno nebo doplněno podání, které neobsahuje všechny stanovené náležitosti nebo které je nesrozumitelné nebo neurčité. K opravě nebo doplnění podání určí lhůtu a účastníka poučí, jak je třeba opravu nebo doplnění provést (odstavec 1). Není-li přes výzvu předsedy senátu podání řádně opraveno nebo doplněno a v řízení nelze pro tento nedostatek pokračovat, soud usnesením podání, kterým se zahajuje řízení, odmítne. K ostatním podáním soud nepřihlíží, dokud nebudou řádně opravena nebo doplněna. O těchto následcích musí být účastník poučen (odstavec 2).
+Na výzvu Nejvyššího soudu k odstranění vad podání ve lhůtě 10 dnů od doručení učiněnou usnesením ze dne 3. února 2016, č. j. 32 Nd 37/2016-42, obsahující poučení o následcích nesplnění výzvy, která byla žalobci doručena dne 8. února 2016, žalobce nijak nereagoval a námitku podjatosti nedoplnil.
+Nejvyšší soud proto rozhodl podle ustanovení § 43 odst. 2 o. s. ř., že k námitce podjatosti soudců Vrchního soudu v Praze se nepřihlíží.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 29. února 2016
+JUDr. Hana G a j d z i o k o v á
+předsedkyně senátu
