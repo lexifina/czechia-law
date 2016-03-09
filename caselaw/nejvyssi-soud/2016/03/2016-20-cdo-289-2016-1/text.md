@@ -1,0 +1,11 @@
+20 Cdo 289/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Zbyňka Poledny a soudců JUDr. Miroslavy Jirmanové, Ph.D., a JUDr. Aleše Zezuly v exekuční věci oprávněné Citibank Europe plc, společnosti založené a existující podle irského práva, se sídlem v Dublinu, North Wall Quay 1, Irská republika, registrační číslo 132781, provozující svou obchodní činnost v České republice prostřednictvím odštěpného závodu pod označením Citibank Europe plc, organizační složka, se sídlem v Praze 5 – Stodůlky, Bucharova č. 2641/14, identifikační číslo osoby 28198131, zastoupené Mgr. Robertem Němcem, LL.M., advokátem se sídlem v Praze 1 – Staré Město, Jáchymova č. 26/2, proti povinné A. B., pro 24 690,27 Kč s příslušenstvím, vedené u Okresního soudu ve Svitavách pod sp. zn. 7 EXE 1107/2013, o dovolání povinné proti usnesení Krajského soudu v Hradci Králové – pobočky v Pardubicích ze dne 30. června 2015, č. j. 18 Co 338/2015-62, takto:
+Dovolání povinné se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud dovolání povinné proti usnesení Krajského soudu v Hradci Králové – pobočky v Pardubicích ze dne 30. června 2015, č. j. 18 Co 338/2015-62, podle ustanovení § 243c odst. 1 věty první zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. prosince 2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, odmítl, protože směřuje proti usnesení odvolacího soudu, kterým bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50 000 Kč [§ 238 odst. 1 písm. d) o. s. ř., srov. shora výši částky, pro niž byla exekuce nařízena], a v dovolacím řízení proto nelze pokračovat, aniž zkoumal splnění podmínky povinného zastoupení dovolatelky v dovolacím řízení (§ 241 o. s. ř.).
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 9. 3. 2016
+JUDr. Zbyněk Poledna
+předseda senátu
