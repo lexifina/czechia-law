@@ -1,0 +1,12 @@
+25 Cdo 803/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Petrem Vojtkem v právní věci žalobce MUDr. J. K., zastoupeného JUDr. Petrem Vaňkem, advokátem se sídlem v Praze 1, Na poříčí 1041/12, proti žalované Dopravní podnik hl. m. Prahy, akciová společnost, se sídlem v Praze 9, Sokolovská 217/42, IČO 00005886, za účasti Kooperativa pojišťovny, a. s., Vienna Insurance Group, se sídlem v Praze 8, Pobřežní 665/21, IČO 47116617, jako vedlejší účastnice na straně žalované, o 100.000,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 9 pod sp. zn. 19 C 197/2014, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 13. 10. 2015, č. j. 68 Co 240/2015-57, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud odmítl dovolání žalobce proti usnesení Městského soudu v Praze ze dne 13. 10. 2015, č. j. 68 Co 240/2015-57, podle § 243c odst. 1 věty první o. s. ř., neboť neobsahuje zákonem požadované údaje o tom, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 241a odst. 2 o. s. ř.), a v dovolacím řízení nelze pokračovat, neboť v důsledku absence uvedené náležitosti nelze posoudit přípustnost dovolání. Uplatněné námitky sice směřují proti právnímu závěru o překážce věci zahájené, na němž odvolací soud založil napadené rozhodnutí, nevymezují však vůbec, od konkrétně jaké ustálené rozhodovací praxe dovolacího soudu se odvolací soud při řešení rozhodné právní otázky odchýlil, případně zda v rozhodovací praxi dovolacího soudu ještě nebyla vyřešena, je rozhodována rozdílně anebo má být posouzena jinak. Může-li být přitom dovolání přípustné jen podle ustanovení § 237 o. s. ř., je dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné (srov. např. usnesení Nejvyššího soudu ze dne 25. 9. 2013, sp. zn. 29 Cdo 2394/2013, publikováno pod č. 4/2014 Sbírky soudních rozhodnutí a stanovisek, nebo usnesení Ústavního soudu ze dne 21. 1. 2014, sp. zn. I. ÚS 3524/13, ze dne 8. 7. 2014, sp. zn. II. ÚS 4031/13, ze dne 26. 6. 2014, sp. zn. III. ÚS 1675/14, a ze dne 15. 10. 2014, sp. zn. IV. ÚS 2901/14).
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243c odst. 3 věty první, § 224 odst. 1 a § 146 odst. 3 o. s. ř., neboť dovolání žalobce bylo odmítnuto a žalované žádné náklady v dovolacím řízení nevznikly.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 23. března 2016
+JUDr. Petr Vojtek
+předseda senátu
