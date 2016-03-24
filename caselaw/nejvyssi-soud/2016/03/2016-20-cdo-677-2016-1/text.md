@@ -1,0 +1,15 @@
+20 Cdo 677/2016
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy JUDr. Vladimíra Kůrky a soudců JUDr. Miroslavy Jirmanové, PhD., a JUDr. Zbyňka Poledny v exekuční věci oprávněné Dopravní podnik hl. m. Prahy, akciové společnosti, sídlem Sokolovská 217/42, 190 22 Praha 9, identifikační číslo 00005886, zastoupené JUDr. Tomášem Sokolem, advokátem, sídlem Sokolská 60, Praha 2, proti povinnému M. Z., zastoupenému JUDr. Rostislavem Kipielem, advokátem, sídlem Kladská 1489/5, Praha 2, pro 206 Kč, pro 1 170 Kč, vedené u soudní exekutorky JUDr. Jitky Wolfové, Exekutorský úřad Plzeň-město, pod sp. zn. 106 EX 5920/11, o dovolání povinného proti usnesení Krajského soudu v Praze ze dne 23. 10. 2013, č. j. 28 Co 443/2013-82, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í (stručné dle § 243f odst. 3 o. s. ř.):
+Dovoláním napadl povinný označené rozhodnutí odvolacího soudu, jímž bylo změněno usnesení Okresního soudu Praha-západ ze dne 26. 4. 2012, č. j. 6 EXE 7697/2011-39, ve znění opravného usnesení Okresního soudu Praha-západ ze dne 31. 1. 2013, č. j. 6 EXE 7697/2011-42, tak, že se exekuce nařízená usnesením Okresního soudu Praha-západ ze dne 26. 6. 2011, č. j. 6 EXE 7697/2011-7, nezastavuje a výrok o nákladech řízení vysloveným týmž usnesením se nezrušuje. Odvolací soud dospěl k závěru, že právo přiznané rozhodnutím Obvodního soudu pro Prahu 7 ze dne 15. 5. 1998, sp. zn. 13 Ro 5773/96, se dosud nepromlčelo, a v nařízeném výkonu rozhodnutí je proto třeba pokračovat.
+Nejvyšší soud dovolání projednal a rozhodl o něm podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2013, dále jen „o. s. ř.“ (srov. čl. II, bod 2 zákona č. 293/2013 Sb., resp. čl. II. bod 1 zákona č. 404/2012 Sb.), a dovolání odmítl, neboť směřuje proti usnesení odvolacího soudu, kterým bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50.000,- Kč [§ 238 odst. 1 písm. c) o. s. ř. – viz shora výši částky, pro niž byla exekuce nařízena], čímž je podle tohoto ustanovení nepřípustné.
+Vzhledem k tomu se dovolací soud podmínkami povinného zastoupení dovolatele v dovolacím řízení (§ 241 o. s. ř.) již nezabýval.
+Nejvyšší soud dovolání odmítl se stručným odůvodněním podle ustanovení § 243c odst. 1 věty první, § 243f odst. 3 o. s. ř.
+Již jen nad tento rozhodný rámec se poznamenává, že údaj o tom, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání, se z dovolání nepodává; dovolatel zjevně pomíjí změny občanského soudního řádu provedené zákonem č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, v důsledku nichž nelze mít povinnost řádně vymezit podmínky přípustnosti dovolání za splněnou, je-li dovozována pouze z toho, že odvolací soud změnil usnesení soudu prvního stupně.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 24. března 2016
+JUDr. Vladimír Kůrka
+předseda senátu
