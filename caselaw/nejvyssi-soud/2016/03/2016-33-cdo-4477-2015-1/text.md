@@ -1,0 +1,15 @@
+33 Cdo 4477/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudkyň JUDr. Blanky Moudré a JUDr. Ivany Zlatohlávkové ve věci žalobců 1) Ing. M. B., Ph.D., a 2) Ing. A. B., zastoupených JUDr. Filipem Jirouskem, advokátem se sídlem v Ostravě, Moravské Ostravě, Preslova 361/9, proti žalované AMBIT - stavby, obchod, reality, s.r.o., se sídlem v Opavě, Kylešovicích, Hlavní 266/147 (identifikační číslo osoby 46581669), zastoupené JUDr. Petrem Filipkem, advokátem se sídlem v Opavě, Dolní náměstí 117/3, o 907.556,- Kč s příslušenstvím, vedené u Okresního soudu v Opavě pod sp. zn. 137 EC 212/2009, o dovolání žalobců proti usnesení Krajského soudu v Ostravě ze dne 5. 6. 2015, č.j. 57 Co 653/2013-290, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Dovolání žalobců proti v záhlaví označenému rozhodnutí, kterým krajský soud zrušil rozsudek ze dne 22. 5. 2013, č.j. 137 EC 212/2009-215, jímž Okresní soud v Opavě uložil žalované zaplatit žalobcům oprávněným společně a nerozdílně 907.556,- Kč s příslušenstvím, není přípustné (§ 237 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013 /srov. čl. II bod 1, 7 zákona č. 404/2012 Sb., čl. II bod 2 zákona č. 293/2013 Sb./, dále jen „o.s.ř.“).
+Odvolací soud, který rozhodnutí soudu prvního stupně s konkrétními pokyny pro postup v dalším řízení zrušil (§ 219a odst. 1 písm. a/ a odst. 2 o.s.ř.), zaujal názor, podle něhož je třeba dosavadní námitky a případné další skutečnosti, které žalovaná po poučení podle § 118a odst. 1, 3 o.s.ř. vnese do řízení, poměřovat ustanovením § 545 odst. 3 zákona č. 40/1964 Sb., občanského zákoníku, ve znění účinném do 31. 12. 2013 /viz § 3028 zákona č. 89/2012 Sb./, dále jen „obč. zák.“).
+Otázky hmotného práva, o nichž se domnívají, že v rozhodování dovolacího soudu dosud nebyly vyřešeny, případně že o nich dovolací soud rozhoduje rozdílně, žalobci formulovali následovně: „ … zda-li ve smyslu ustanovení § 545 odst. 3 zákona č. 40/1964 Sb. postačí ke vzniku práva věřitele na smluvní pokutu jakékoliv zavinění dlužníka nebo pouze výlučné zavinění dlužníka, resp. zda-li je uvedené ustanovení dřívějšího občanského zákoníku nutné vykládat tak, že dlužník dosáhne exkulpace pouze v případě, že porušení povinnosti nezavinil ani zčásti …, zda-li v případě spoluzavinění věřitele dochází k dělení smluvní pokuty podle míry zavinění“. Je zjevné, že napadené (kasační) rozhodnutí odvolací soud na řešení shora uvedených otázek nezaložil.
+K vadám řízení ve smyslu § 242 odst. 3, věty druhé, o.s.ř. dovolací přihlédne jen, je-li dovolání přípustné; protože tato podmínka naplněna není, jsou bezcenné ostatní výtky dovolatelů.
+Nejvyšší soud proto dovolání odmítl (§ 243c odst. 1 o.s.ř.).
+Protože tímto rozhodnutím dovolacího soudu se řízení o věci nekončí, bude rozhodnuto i o náhradě nákladů vzniklých v tomto dovolacím řízení v konečném rozhodnutí soudu prvního stupně, popřípadě odvolacího soudu.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 24. 3. 2016
+JUDr. Pavel Krbek
+předseda senátu
