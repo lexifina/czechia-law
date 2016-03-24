@@ -1,0 +1,13 @@
+21 Cdo 695/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Zdeňka Novotného a soudců JUDr. Ljubomíra Drápala a JUDr. Lubomíra Ptáčka, Ph.D. v právní věci žalobkyně L. Z., zastoupené JUDr. Barborou Daňkovou, advokátkou se sídlem v Olomouci, Mlýnská č. 938/4, proti žalované Kaufland Česká republika v.o.s., se sídlem v Praze 6, Bělohorská č. 2428/203, IČO 251 10 161, zastoupené JUDr. Oto Kunzem, advokátem se sídlem v Praze 3, Vinohradská č. 89/90, o neplatnost výpovědi z pracovního poměru, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 10 C 110/2014, o dovolání žalované proti rozsudku Městského soudu v Praze ze dne 16. září 2015 č. j. 62 Co 254/2015-105, takto:
+I. Dovolání žalované se odmítá.
+II. Žalovaná je povinna zaplatit žalobkyni na náhradě nákladů dovolacího řízení 3.388 Kč do tří dnů od právní moci tohoto usnesení k rukám JUDr. Barbory Daňkové, advokátky se sídlem v Olomouci, Mlýnská č. 938/4.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Dovolání žalované proti rozsudku Městského soudu v Praze ze dne 16.9.2015 č. j. 62 Co 254/2015-105 není přípustné podle ustanovení § 237 o.s.ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu [k otázce hodnocení stupně intenzity porušení povinnosti vyplývající z právních předpisů vztahujících se k zaměstnancem vykonávané práci a hledisek pro vymezení relativně neurčité hypotézy právní normy ustanovení § 52 písm. g) zák. práce srov. například právní názor vyjádřený v rozsudku Nejvyššího soudu ze dne 14.2.2001 sp. zn. 21 Cdo 735/2000, který byl uveřejněn v Souboru civilních rozhodnutí a stanovisek Nejvyššího soudu pod č. C 198, sv. 2, rozsudek Nejvyššího soudu ze dne 19.1.2000 sp. zn. 21 Cdo 1228/99, uveřejněný ve Sbírce soudních rozhodnutí a stanovisek roč. 2001, pod č. 21, usnesení Nejvyššího soudu ze dne 2.8.2011 sp. zn. 21 Cdo 2172/2010, rozsudek Vrchního soudu v Praze ze dne 30.6.1995 sp. zn. 6 Cdo 45/94, uveřejněný pod č. 3 v časopise Právní rozhledy, roč. 1995 a rozsudek bývalého NS ČSR ze dne 30.3.1979 sp. zn. 5 Cz 12/1979, uveřejněný pod č. 31 ve Sbírce soudních rozhodnutí a stanovisek, roč. 1980; vymezení hypotézy právní normy závisí v každém konkrétním případě na úvaze soudu] a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+Nejvyšší soud České republiky proto dovolání žalované podle ustanovení § 243c odst. 1 věty první o.s.ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 24. března 2016
+JUDr. Zdeněk Novotný
+předseda senátu
