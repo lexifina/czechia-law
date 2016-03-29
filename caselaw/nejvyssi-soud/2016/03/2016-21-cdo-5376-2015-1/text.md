@@ -1,0 +1,12 @@
+21 Cdo 5376/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Romanem Fialou v právní věci žalobce S. Š., zastoupeného JUDr. Martinem Jurikem, advokátem se sídlem v Praze 10, Taškentská č. 1415/4, proti žalované J. N., zastoupené JUDr. Jiřím Šídlem, advokátem se sídlem v Horoměřicích, Malá č. 967, o určení dědického práva, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 28 C 204/2010, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 28. května 2015, č. j. 17 Co 85/2015-303, takto:
+I. Dovolání žalobce se odmítá.
+II. Žalobce je povinen zaplatit žalované na náhradě nákladů dovolacího řízení 4.900,50 Kč do tří dnů od právní moci tohoto usnesení k rukám JUDr. Jiřího Šídla, advokáta se sídlem v Horoměřicích, Malá č. 967.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Nejvyšší soud České republiky dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 28.5.2015, č.j. 17 Co 85/2015-303, podle ustanovení § 243c odst. 1 věty první o.s.ř. odmítl, neboť jednak neobsahuje způsobilé vymezení údaje o tom, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 241a odst. 2 o.s.ř.; k tomu srov. například usnesení Nejvyššího soudu ČR ze dne 27.8.2013, sp. zn. 29 NSCR 55/2013, publikované v časopise Soudní judikatura pod č. 116, ročník 2014; usnesení Nejvyššího soudu ČR ze dne 19.11.2015, sp. zn. 29 Cdo 4807/2015, nebo usnesení Nejvyššího soudu ČR ze dne 16.5.2013, sp. zn. 26 Cdo 1115/2013), a jednak v něm byl uplatněn jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o.s.ř. [napadá-li dovolatel hodnocení důkazů (zejména důkazu znaleckým posudkem) soudy a nesouhlasí-li s jejich skutkovým zjištěním a skutkovými závěry o absenci duševní poruchy u zůstavitele M. Š., zemřelého dne 26.10.2009, ke dni pořízení předmětné závěti sepsané ve formě notářského zápisu dne 9.3.2007, a předestírá-li vlastní (jiné) skutkové závěry a na jejich základě dovozuje vlastní (odlišný) právní názor na věc], a v dovolacím řízení tedy nelze pro uvedené nedostatky pokračovat. V této souvislosti nemůže být důvodná ani námitka porušení práva na spravedlivý proces, neboť právo na spravedlivý proces nelze interpretovat tak, že by znamenalo právo na příznivé rozhodnutí ve věci.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 věta druhá o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 29. března 2016
+JUDr. Roman Fiala
+předseda senátu
