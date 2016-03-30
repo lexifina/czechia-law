@@ -1,0 +1,20 @@
+29 Cdo 5625/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Petra Šuka a soudců JUDr. Filipa Cilečka a JUDr. Petra Gemmela v právní věci navrhovatelky REMUS s. r. o. „v likvidaci“, se sídlem v Plzni, Žlutická 9, PSČ 323 29, identifikační číslo osoby 49193694, za účasti společnosti REMUS CZ a. s., se sídlem v Plzni, Žlutická 9, PSČ 323 29, identifikační číslo osoby 26316994, zastoupené Mgr. Martinem Zikmundem, advokátem, se sídlem v Plzni, Šafaříkovy sady 2455/5, Východní Předměstí, PSČ 301 00, o zmocnění ke svolání mimořádné valné hromady společnosti, vedené u Krajského soudu v Plzni pod sp. zn. 45 Cm 96/2007, o dovolání společnosti REMUS CZ a. s. proti usnesení Vrchního soudu v Praze ze dne 10. března 2009, č. j. 3 Cmo 475/2007-122, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Krajský soud v Plzni usnesením ze dne 31. října 2007, č. j. 45 Cm 96/2007-12, zmocnil JUDr. Jana Klímu, správce konkursní podstaty úpadkyně REMUS s. r. o. „v likvidaci“, ke svolání mimořádné valné hromady společnosti REMUS CZ a. s. (dále jen „společnost“) [výrok I.], určil jejím předsedou JUDr. J. K. (výrok II.), rozhodl o nákladech konání mimořádné valné hromady společnosti (výrok III.) a o nákladech řízení (výrok IV.).
+V záhlaví označeným usnesením Vrchní soud v Praze rozhodnutí soudu prvního stupně ve výrocích I., II. a IV. potvrdil a ve výroku III. zrušil (první výrok), rozhodl o nákladech řízení (druhý výrok) a o nákladech odvolacího řízení (třetí výrok).
+Proti usnesení odvolacího soudu podala společnost dne 20. května 2009 dovolání (jež bylo Nejvyššímu soudu předloženo dne 18. prosince 2015), navrhujíc, aby Nejvyšší soud rozhodnutí odvolacího soudu zrušil a věc vrátil k dalšímu řízení.
+Z obchodního rejstříku, vedeného Krajským soudem v Plzni, oddíl C, vložka 4113, Nejvyšší soud zjistil, že Krajský soud v Plzni usnesením ze dne 26. dubna 2012, č. j. 20 K 65/2000-978, zrušil konkurs na majetek úpadkyně REMUS s. r. o. „v likvidaci“ po splnění rozvrhového usnesení. Ke dni 16. dubna 2013 byla společnost REMUS s. r. o. „v likvidaci“ vymazána z obchodního rejstříku.
+Podle § 107 zákona č. 99/1963 Sb., občanského soudního řádu (dále též jen „o. s. ř.“) ztratí-li účastník po zahájení řízení způsobilost být účastníkem řízení dříve, než bylo řízení pravomocně skončeno, posoudí soud podle povahy věci, zda v řízení může pokračovat. Není-li možné v řízení ihned pokračovat, soud řízení přeruší. O tom, s kým bude v řízení pokračováno, soud rozhodne usnesením (odstavec 1). Ztratí-li způsobilost být účastníkem řízení právnická osoba a umožňuje-li povaha věci pokračovat v řízení, jsou jejím procesním nástupcem, nestanoví-li zákon jinak, ti, kteří po zániku právnické osoby vstoupili do jejích práv a povinností, popřípadě ti, kteří po zániku právnické osoby převzali práva a povinnosti, o něž v řízení jde (odstavec 3). Neumožňuje-li povaha věci v řízení pokračovat, soud řízení zastaví (odstavec 5).
+Podle § 243c odst. 1 o. s. ř. pro řízení u dovolacího soudu platí přiměřeně ustanovení o řízení před soudem prvního stupně, pokud není stanoveno něco jiného; ustanovení § 92 a 95 až 99 a 107a však pro řízení u dovolacího soudu neplatí.
+Podle § 68 odst. 1 věta první zákona č. 513/1991 Sb., obchodního zákoníku, zaniká společnost ke dni výmazu z obchodního rejstříku.
+Jelikož navrhovatelka REMUS s. r. o. „v likvidaci“ v průběhu dovolacího řízení zanikla bez právního nástupce, Nejvyšší soud dovolací řízení podle ustanovení § 243c odst. 1 ve spojení s § 107 odst. 5 o. s. ř., zastavil.
+Výrok o nákladech řízení se opírá o § 243b odst. 5, § 224 odst. 1, § 151 odst. 1 a § 146 odst. 1 písm. c) o. s. ř.
+Rozhodné znění občanského soudního řádu pro dovolací řízení (do 30. června 2009) se podává z bodu 12., části první, článku II. zákona č. 7/2009 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 30. března 2016
+JUDr. Petr Š u k
+předseda senátu
