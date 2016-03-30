@@ -1,0 +1,14 @@
+25 Nd 14/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Roberta Waltra a soudců JUDr. Marty Škárové a JUDr. Petra Vojtka v právní věci oprávněné SMS finance s. r. o., IČO 27856712, se sídlem Třinec, Smetanova 555, zastoupené Mgr. Richardem Kolibou, advokátem se sídlem Český Těšín, Havlíčkova 12, proti povinnému J. K., pro 15 000 Kč s příslušenstvím, o pověření exekutora, vedené u Okresního soudu v Ostravě pod sp. zn. 97 EXE 13001/2015, o určení místní příslušnosti soudu podle § 11 odst. 3 o. s. ř., takto:
+Věc vedenou u Okresního soudu v Ostravě pod sp. zn. 97 EXE 13001/2015 projedná a rozhodne Okresní soud v Ostravě.
+Odůvodnění:
+U Okresního soudu v Ostravě je pod sp. zn. 97 EXE 13001/2015 vedeno řízení, v němž soudní exekutor JUDr. Tomáš Vrána, se sídlem exekutorského úřadu v Přerově, Komenského 38, požádal o pověření provedením exekuce k vymožení pohledávky oprávněné ve výši 15 000 Kč s příslušenstvím, přiznané rozsudkem Okresního soudu v Ostravě ze dne 22. 1. 2015, č.j. 136 C 42/2012-106.
+Okresní soud v Ostravě usnesením ze dne 30. 11. 2015, č.j. 97 EXE 13001/2015-23, vyslovil svou místní nepříslušnost a věc předložil Nejvyššímu soudu k určení, který soud věc projedná a rozhodne. Okresní soud v průběhu řízení zjistil, že povinný má od 28. 3. 2011 ukončený pobyt občana České republiky. Oprávněný již dále neoznačil místo pobytu povinného na území České republiky ani místo, kde má povinný na území České republiky majetek. Podmínky místní příslušnosti tak v dané věci chybí.
+Podle § 11 odst. 3 zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Místní příslušnost soudu v exekučním řízení upravuje § 45 odst. 2 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád), podle nějž je místně příslušným exekučním soudem soud, v jehož obvodu má povinný, je-li fyzickou osobou, místo svého trvalého pobytu, popřípadě místo pobytu na území České republiky podle druhu pobytu cizince. Je-li povinný právnickou osobou, je místně příslušným soud, v jehož obvodu má povinný sídlo. Nemá-li povinný, který je fyzickou osobou, v České republice místo trvalého pobytu nebo místo pobytu podle věty první, nebo nemá-li povinný, který je právnickou osobou, sídlo v České republice, je místně příslušným soud, v jehož obvodu má povinný majetek.
+Jelikož kritéria § 45 odst. 2 exekučního řádu se v projednávané věci nemohou uplatnit, určil s přihlédnutím k zásadě rychlosti a hospodárnosti řízení Nejvyšší soud podle § 11 odst. 3 o. s. ř. místně příslušným Okresní soud v Ostravě, u něhož bylo řízení zahájeno a který zároveň vydal exekuční titul.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 30. března 2016
+JUDr. Robert Waltr
+předseda senátu
