@@ -1,0 +1,15 @@
+29 Cdo 5569/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Petra Šuka a soudců JUDr. Filipa Cilečka a JUDr. Jiřího Zavázala v právní věci navrhovatelky DOMESTIK s. r. o., se sídlem v Praze 6, Křenova 438/3, PSČ 162 00, identifikační číslo osoby 26238675, zastoupené Mgr. Pavlem Čvančarou, advokátem, se sídlem v Praze 5, Vrázova 2243/7, PSČ 150 00, o návrhu na zápis změny do obchodního rejstříku, vedené u Městského soudu v Praze pod sp. zn. C 116244, o dovolání navrhovatelky proti usnesení Vrchního soudu v Praze ze dne 24. července 2015, č. j. 14 Cmo 613/2014-RD55, takto:
+Dovolání se odmítá.
+Odůvodnění:
+Městský soud v Praze usnesením ze dne 4. listopadu 2014, č. j. C 116244/RD42/MSPH, Fj 323995/2014, zastavil řízení o zápisu změny do obchodního rejstříku (výrok I.) a rozhodl o vrácení soudního poplatku ve výši 1.000 Kč (výrok II.).
+Vrchní soud v Praze v záhlaví označeným usnesením rozhodnutí soudu prvního stupně k odvolání navrhovatelky ve výroku I. potvrdil (první výrok) a ve výroku II. změnil tak, že se navrhovatelce vrací zaplacený soudní poplatek ve výši 2.000 Kč (druhý výrok).
+Proti usnesení odvolacího soudu podala navrhovatelka dovolání, jež Nejvyšší soud odmítl podle § 243c odst. 1 a 2 zákona č. 99/1963 Sb., občanského soudního řádu (dále též jen „o. s. ř.“), jako nepřípustné.
+Učinil tak proto, že dovolání nesměřuje proti žádnému z usnesení vypočtených v § 238a o. s. ř. a není přípustné ani podle § 237 o. s. ř., neboť dovoláním otevřenou otázku výmazu skutečnosti zapsané v obchodním rejstříku z „historie“ obchodního rejstříku odvolací soud vyřešil v souladu s ustálenou judikaturou Nejvyššího soudu, z níž se podává, že skutečnost, která byla do obchodního rejstříku zapsána, nelze posléze vymazat z „historie“ obchodního rejstříku, tedy tak, že by se tato skutečnost neobjevila ani v „úplném výpisu“ z obchodního rejstříku; srov. usnesení Nejvyššího soudu ze dne 23. ledna 2008, sp. zn. 29 Odo 625/2006, uveřejněné pod číslem 81/2008 Sbírky soudních rozhodnutí a stanovisek, či usnesení Nejvyššího soudu ze dne 29. dubna 2008, sp. zn. 29 Cdo 3025/2007, a ze dne 8. prosince 2011, sp. zn. 29 Cdo 3197/2010 (jež jsou veřejnosti dostupná – stejně jako ostatní rozhodnutí Nejvyššího soudu přijatá po 1. ledna 2001 – na webových stránkách Nejvyššího soudu).
+Uvedené závěry (jež obstály i v rovině přezkumu jejich souladu s ústavním pořádkem – srov. usnesení Ústavního soudu ze dne 12. února 2009, sp. zn. III. ÚS 767/08), přijaté v poměrech zákona č. 513/1991 Sb., obchodního zákoníku, se plně prosadí i při výkladu zákona č. 304/2013 Sb., o veřejných rejstřících právnických a fyzických osob, a Nejvyšší soud nevidí důvodu se od nich odchylovat ani na základě argumentace předestřené dovolatelkou v projednávané věci.
+Rozhodné znění občanského soudního řádu pro dovolací řízení (od 1. ledna 2014) se podává z článku II. bodu 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 30. března 2016
+JUDr. Petr Šuk
+předseda senátu
