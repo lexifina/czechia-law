@@ -1,0 +1,15 @@
+20 Cdo 650/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové, Ph.D., a soudců JUDr. Zbyňka Poledny a JUDr. Vladimíra Kůrky v exekuční věci oprávněného nezl. J. S., zastoupeného matkou J. S., zastoupeného Mgr. Janou Smilovou, advokátkou se sídlem v Českých Budějovicích, Žižkova 1, proti povinnému P. S., zastoupenému Mgr. Josefem Spolkem, advokátem se sídlem v Praze 6, Na Dlouhém lánu 30/12, pro výživné, vedené u soudní exekutorky JUDr. Marie Sárové, Exekutorský úřad Jihlava, pod sp. zn. 79 EX 282/15, a u Obvodního soudu pro Prahu 4 pod sp. zn. 72 EXE 1344/2015, o dovolání povinného proti usnesení Městského soudu v Praze ze dne 9. října 2015, č. j. 14 Co 303/2015-80, takto:
+Dovolání se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Odvolací soud v záhlaví označeným rozhodnutím potvrdil usnesení ze dne 10. června 2015, č. j. 72 EXE 1344/2015-35, jímž soud prvního stupně zamítl návrh povinného na zastavení exekuce a na odklad exekuce, nařízené k uspokojení pohledávky oprávněného na dlužném výživném ve výši 78 000 Kč a pro běžné výživné.
+Protože napadené rozhodnutí odvolacího soudu bylo vydáno po 1. lednu 2014, podle ustanovení § 30 odst. 1 zákona č. 292/2013 Sb., o zvláštních řízeních soudních (dále též jen „z. ř. s.“), jež nabyl účinnosti k 1. 1. 2014, dovolání proti němu není přípustné.
+Právní úprava nepřípustnosti dovolání proti rozhodnutím vydaným v řízeních podle hlavy páté části druhé zákona o zvláštních řízeních soudních se s účinností zákona o zvláštních řízeních soudních přesunula z ustanovení § 238 odst. 1 písm. a) zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2013 do 31. 12. 2013 (podle kterého dovolání podle ustanovení § 237 o. s. ř. není přípustné ve věcech upravených zákonem o rodině, ledaže jde o rozsudek o omezení nebo zbavení rodičovské odpovědnosti, pozastavení nebo omezení jejího výkonu, o určení nebo popření rodičovství nebo o nezrušitelné osvojení) do shora uvedeného § 30 z. ř. s. (k tomu srov. usnesení Nejvyššího soudu ze dne 9. dubna 2015, sp. zn. 21 Cdo 1049/2015). Vzhledem k tomu, že v posuzované věci jde o řízení o výkon rozhodnutí ve věcech výživného, upravené v části druhé hlavě páté (§ 511 a násl. z. ř. s.) tohoto zákona, a současně se nejedná o žádnou z výjimek taxativně vymezených v § 30 z. ř. s., je dovolání nepřípustné (srov. též usnesení Nejvyššího soudu ze dne 10. června 2015, sp. zn. 26 Cdo 1630/2015).
+Přípustnost dovolání nezaloží ani nesprávné poučení odvolacího soudu (srov. např. usnesení Nejvyššího soudu ze dne 30. ledna 2003, sp. zn. 29 Odo 937/2002).
+Nejvyšší soud dovolání podle § 243c odst. 1 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2014, odmítl.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 1. dubna 2016
+JUDr. Miroslava Jirmanová, Ph.D.
+předsedkyně senátu
