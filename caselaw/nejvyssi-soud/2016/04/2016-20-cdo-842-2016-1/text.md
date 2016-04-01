@@ -1,0 +1,11 @@
+20 Cdo 842/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Zbyňka Poledny a soudců JUDr. Miroslavy Jirmanové, Ph.D., a JUDr. Vladimíra Kůrky v exekuční věci oprávněné Všeobecné zdravotní pojišťovny České republiky, se sídlem v Praze 3, Orlická č. 2020/4, identifikační číslo osoby 41197518, proti povinnému Š. Ch., P., pro 203 701 Kč s příslušenstvím, vedené u soudní exekutorky JUDr. Hany Šajnerové, Exekutorský úřad Rakovník, pod sp. zn. 087 Ex 399/11, o dovolání Ivany Chromovské, narozené dne 9. srpna 1950, bytem v Praze 4, Mirotická č. 953/5, proti usnesení Krajského soudu v Praze ze dne 9. listopadu 2015, č. j. 20 Co 419/2015-35, takto:
+Dovolání se odmítá.
+Stručné o d ů v o d n ě n í (§ 243f odst. 3 o. s. ř.) :
+Nejvyšší soud dovolání I. Ch. proti usnesení Krajského soudu v Praze ze dne 9. listopadu 2015, č. j. 20 Co 419/2015-35, podle ustanovení § 243c odst. 3 věty první a § 218 písm. b) zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. prosince 2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, odmítl, aniž by se mohl věcí dále zabývat a aniž by zkoumal splnění podmínky povinného zastoupení dovolatelky v dovolacím řízení (§ 241 o. s. ř.), neboť dovolatelka není k podání dovolání oprávněna (subjektivně legitimována), protože není účastnicí exekučního řízení (§ 240 odst. 1 o. s. ř.), když předmětem exekuce je podíl na nemovité věci, jehož vlastníkem je podle údajů zapsaných v katastru nemovitostí Š. Ch. (povinný). Domnívá-li se dovolatelka, jakožto třetí osoba, že je vlastníkem exekucí postižené věci, může podat vylučovací žalobu podle ustanovení § 267 o. s. ř. Nadto je dovolaní nepřípustné i z důvodu, že směřuje proti usnesení odvolacího soudu, proti němuž je přípustná žaloba pro zmatečnost podle § 229 odst. 4 o. s. ř. [§ 238 odst. 1 písm. f) o. s. ř.].
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu [§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění pozdějších předpisů].
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 1. 4. 2016
+JUDr. Zbyněk Poledna
+předseda senátu
