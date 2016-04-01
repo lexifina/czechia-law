@@ -1,0 +1,11 @@
+20 Cdo 689/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Zbyňka Poledny a soudců JUDr. Miroslavy Jirmanové, Ph.D., a JUDr. Vladimíra Kůrky v exekuční věci oprávněné Všeobecné zdravotní pojišťovny České republiky, se sídlem v Praze 3, Orlická č. 4/2020, identifikační číslo osoby 41197518, proti povinnému R. Č., pro 102 920 Kč s příslušenstvím, vedené u soudní exekutorky JUDr. Hany Šajnerové, Exekutorský úřad v Rakovníku, pod sp. zn. 087 Ex 5050/13, o dovolání povinného proti usnesení Městského soudu v Praze ze dne 18. prosince 2015, č. j. 70 Co 475/2015-65, takto:
+Dovolání povinného se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud posoudil podání povinného ze dne 24. ledna 2016 nazvané „Odvolání proti návrhu mého odvolání proti usnesení“ jako dovolání proti usnesení Městského soudu v Praze ze dne 18. prosince 2015, č. j. 70 Co 475/2015-65, kterým odvolací soud potvrdil usnesení soudní exekutorky JUDr. Hany Šajnerové, Exekutorský úřad v Rakovníku, ze dne 25. září 2015, č. j. 087 Ex 5050/13-50 o odmítnutí návrhu povinného na odklad exekuce vedené soudní exekutorkou JUDr. Hanou Šajnerovou, Exekutorský úřad v Rakovníku, pod sp. zn. 087 Ex 5050/13, které bylo doplněno podáním ze dne 3. února 2016 nazvaným „Žádost o zrušení usnesení“. Nejvyšší soud dovolání podle ustanovení § 243c odst. 1 věty první zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. prosince 2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, odmítl, protože směřuje proti usnesení odvolacího soudu, proti němuž zákon tento mimořádný opravný prostředek nepřipouští [§ 238 odst. 1 písm. e) o. s. ř.], v dovolacím řízení proto nelze pokračovat, aniž soud zkoumal splnění podmínky povinného zastoupení dovolatele v dovolacím řízení (§ 241 o. s. ř.).
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu [§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění pozdějších předpisů].
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 1. 4. 2016
+JUDr. Zbyněk Poledna
+předseda senátu
