@@ -1,0 +1,16 @@
+20 Cdo 502/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové, Ph.D., a soudců JUDr. Zbyňka Poledny a JUDr. Vladimíra Kůrky v exekuční věci oprávněné Bohemia Faktoring, s. r. o., se sídlem v Praze 1, Letenská 121/8, identifikační číslo osoby 27242617, zastoupené Mgr. Robertem Němcem, LL. M., advokátem se sídlem v Praze 1, Jáchymova 26/2, proti povinným 1) V. K., zemřelému 1. 7. 2012, naposledy N., a 2) H. K., N., pro 34 055,05 Kč s příslušenstvím, vedené u Okresního soudu Plzeň-jih pod sp. zn. 9 Nc 2016/2007, o dovolání oprávněné proti usnesení Krajského soudu v Plzni ze dne 1. 10. 2015, č. j. 18 Co 222/2015-241, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Okresní soud v Plzeň-jih usnesením ze dne 13. 2. 2015, č. j. 9 Nc 2016/2007-178, zastavil exekuci, nařízenou usnesením ze dne 16. 3. 2007, č. j. 9 Nc 2016/2007-6 (výrok I.), žádnému z účastníků nepřiznal právo na náhradu nákladů exekuce (výrok II.) a uložil oprávněné uhradit soudnímu exekutorovi JUDr. Tomáši Vránovi, Exekutorský úřad Přerov, na náhradě nákladů exekuce částku 7 865 Kč (výrok III.).
+Krajský soud v Plzni v záhlaví označeným rozhodnutím usnesení soudu prvního stupně v jeho výroku I. v části, kterou byla zastavena exekuce proti povinnému 1), zrušil a řízení zastavil (výrok I.), oprávněné ani povinnému 1) nepřiznal právo na náhradu nákladů řízení před soudy obou stupňů (výrok II.), usnesení soudu prvního stupně v jeho výroku I. v části, kterou byla zastavena exekuce proti povinné 2), ve výroku II. v části, kterou bylo rozhodováno tak, že oprávněná a povinná 2) nemají právo na náhradu nákladů exekuce, a ve výroku III. potvrdil (výrok III.) a oprávněné ani povinné 2) nepřiznal právo na náhradu nákladů odvolacího řízení (výrok IV.).
+Oprávněná napadla usnesení odvolacího soudu dovoláním. Nejvyšší soud dovolání projednal a rozhodl o něm podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2013 do 31. 12. 2013 (srov. část první čl. II bod 7 zákona č. 404/2012 Sb. a část první čl. II bod 2 zákona č. 293/2013 Sb.), dále jen „o. s. ř.“.
+Dovolání není přípustné, neboť směřuje proti usnesení odvolacího soudu, jímž bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50 000 Kč [§ 238 odst. 1 písm. d) o. s. ř.] – odvolací soud rozhodoval ve věci zastavení exekuce nařízené k vymožení pohledávky ve výši 34 055,05 Kč s příslušenstvím (srov. usnesení Nejvyššího soudu ze dne 21. 10. 2015, sp. zn. 26 Cdo 4236/2015, či usnesení Nejvyššího soudu ze dne 31. 10. 2013, sp. zn. 20 Cdo 1977/2013, proti němuž podaná ústavní stížnost byla odmítnuta usnesením Ústavního soudu ze dne 27. 2. 2014, sp. zn. III. ÚS 346/14). Skutečnost, zda exekuční titul má svůj základ ve spotřebitelském právním vztahu, není pro posouzení přípustnosti dovolání proti usnesení vydanému v exekučním řízení podstatná (srov. usnesení Nejvyššího soudu ze dne 25. 6. 2013, sp. zn. 20 Cdo 1577/2013).
+Nejvyšší soud tedy dovolání podle § 243c odst. 1 o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 1. dubna 2016
+JUDr. Miroslava Jirmanová, Ph.D.
+předsedkyně senátu
