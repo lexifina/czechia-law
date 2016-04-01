@@ -1,0 +1,12 @@
+20 Cdo 797/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Zbyňkem Polednou v exekuční věci oprávněné SLAVIA CAPITAL Group, a. s. se sídlem v Bratislavě, Mostová č. 2, identifikační číslo osoby 31403387, zastoupené JUDr. Janem Rudolfem, advokátem se sídlem v Praze 1, Na Příkopě č. 15, proti povinné I. Š., pro 167 860 Kč s příslušenstvím, vedené u Okresního soudu ve Zlíně pod sp. zn. 22 Nc 112/2004, o dovolání povinné proti usnesení Krajského soudu v Brně – pobočky ve Zlíně ze dne 27. března 2014, č. j. 58 Co 559/2013-250, takto:
+Dovolací řízení se zastavuje.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky řízení o dovolání povinné proti usnesení Krajského soudu v Brně – pobočky ve Zlíně ze dne 27. března 2014, č. j. 58 Co 559/2013-250, kterým krajský soud ve výroku I. potvrdil usnesení Okresního soudu ve Zlíně ze dne 13. května 2013, č. j. 22 Nc 112/2004-183, jímž byl připuštěn vstup COMINVEST ASSOCIATED LIMITED se sídlem 33 Porter Road, P.O. Box 3169 PMB 103, Road Town, Tortola, Britské Panenské ostrovy, identifikační číslo osoby 626279, místo původní oprávněné Eiger Asset Management AG se sídlem Alfred Escher-Strasse 9, Curych, Švýcarsko, identifikační číslo osoby CH-0203024556-4, podle ustanovení § 241b odst. 2 a § 104 odst. 2 o. s. ř. zastavil, neboť dovolatelka nesplnila podmínku povinného zastoupení v dovolacím řízení (§ 241 o. s. ř.). Povinná v dovolání ze dne 16. června 2014 sice požádala o ustanovení advokáta pro dovolací řízení. Okresní soud ve Zlíně usnesením ze dne 30. července 2014, č. j. 22 Nc 112/2004-291, však této žádosti povinné o ustanovení advokáta nevyhověl. Povinná podmínku povinného zastoupené nesplnila ani na následnou výzvu Okresního soudu ve Zlíně ze dne 23. prosince 2015, č. j. 22 Nc 112/2004-361.
+Pro úplnost Nejvyšší soud ke shora uvedenému dodává, že usnesením ze dne 5. června 2014, č. j. 22 Nc 112/2004-282, Okresní soud ve Zlíně připustil, aby do řízení namísto dosavadní oprávněné COMINVEST ASSOCIATED LIMITED vstoupila stávající oprávněná SLAVIA CAPITAL Group, a. s. se sídlem v Bratislavě, Mostová č. 2, identifikační číslo osoby 31403387.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 1. 4. 2016
+JUDr. Zbyněk Poledna
+předseda senátu
