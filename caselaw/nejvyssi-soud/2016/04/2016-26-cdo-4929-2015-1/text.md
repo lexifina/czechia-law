@@ -1,0 +1,12 @@
+26 Cdo 4929/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu JUDr. Jitkou Dýškovou v exekuční věci oprávněné COFIDIS s.r.o., se sídlem v Praze 5, Bucharova 1423/6, IČO 27179907, zastoupené Mgr. Jiřím Sitou, advokátem se sídlem v Praze 1, Rybná 682/14, proti povinným 1) K. M., 2) M. M., pro 65.407,71 Kč s příslušenstvím, vedené u Okresního soudu ve Frýdku-Místku pod sp. zn. 26 EXE 6795/2013, o dovolání povinných proti usnesení Krajského soudu v Ostravě ze dne 29. října 2014, č. j. 66 Co 639/2014-102, takto:
+Dovolání se odmítá.
+S t r u č n é o d ů v o d n ě n í (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky dovolání povinných proti usnesení Krajského soudu v Ostravě ze dne 29. 10. 2014, č. j. 66 Co 639/2014-102, podle ustanovení § 243c odst. 1 věty první zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2013 (srov. čl. II bod 2. zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, odmítl, neboť dovolání nesplňuje obligatorní náležitosti dovolání uvedené v ustanovení § 241a odst. 2 o. s. ř., když neobsahuje údaj o tom, v čem dovolatelé spatřují splnění předpokladů přípustnosti dovolání, ani vymezení dovolacího důvodu způsobem uvedeným v ustanovení § 241a odst. 3 o. s. ř.
+Při projednání dovolání vycházel dovolací soud z obsahu dovolání sepsaného povinnými dne 20. 1. 2015, s nímž se soudem ustanovená (usnesením Okresního soudu ve Frýdku-Místku ze dne 16. 7. 2015, č. j. 26 EXE 6795/2013-156) zástupkyně povinných Mgr. E. B. ztotožnila, aniž by jej o zákonem stanovené náležitosti ve lhůtě uvedené v § 241b odst. 3 o. s. ř. doplnila. Vzhledem k tomu, že marným uplynutím uvedené lhůty se původně odstranitelné vady dovolání staly neodstranitelnými a brání tomu, aby dovolání mohlo být projednáno, Nejvyšší soud dovolání povinných podle § 243c odst. 1 věty první o. s. ř. odmítl (srov. usnesení Nejvyššího soudu ze dne 18. 6. 2003, sp. zn. 29 Odo 108/2002, které bylo uveřejněno pod č. 21/2004 Sbírky soudních rozhodnutí a stanovisek, usnesení Nejvyššího soudu ze dne 12. 10. 2010, sp. zn. 21 Cdo 2683/2009).
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 5. dubna 2016
+JUDr. Jitka Dýšková
+předsedkyně senátu
