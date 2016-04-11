@@ -1,0 +1,16 @@
+29 Nd 75/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Krčmáře a soudců Mgr. Milana Poláška a JUDr. Petra Gemmela v právní věci manželů Mgr. L. T., zastoupené Mgr. Davidem Raifem, advokátem, se sídlem v Jeseníku, Krameriova 503/9, PSČ 790 01, a J. T., o rozvod manželství, vedené u Okresního soudu v Nymburce pod sp. zn. 9 C XY, o návrhu manželky na přikázání věci jinému soudu prvního stupně z důvodu vhodnosti, takto:
+Věc vedená u Okresního soudu v Nymburce pod sp. zn. 9 C XY se nepřikazuje Okresnímu soudu v Jeseníku.
+O d ů v o d n ě n í:
+Ve shora označeném řízení L. T. (dále jen „L. T.“) spolu s návrhem na rozvod jejího manželství s J. T. (dále jen „J. T.“), podaným 29. července 2015 u Okresního soudu v Bruntále, navrhla přikázání věci Okresnímu soudu v Jeseníku. Návrh odůvodnila tím, že na adrese posledního společného bydliště účastníků v Rýmařově již nebydlí žádný z nich, takže má za to, že je vhodné přikázat věc soudu, v jehož obvodu bydlí alespoň jeden z manželů.
+K tomuto návrhu se L. T. znovu přihlásila podáním z 26. listopadu 2015 (č l. 27) poté, co Okresní soud v Bruntále usnesením ze dne 16. října 2015, č. j. 16 C XY (které nabylo právní moci dne 7. listopadu 2015), vyslovil svou místní nepříslušnost (bod I. výroku) s tím, že po právní moci usnesení bude věc postoupena Okresnímu soudu v Nymburce jako soudu místně příslušnému (bod II. výroku).
+J. T. se k návrhu na přikázání věci nevyjádřil.
+Nejvyšší soud jako soud nejblíže společně nadřízený příslušnému soudu (Okresnímu soudu v Nymburce) a Okresnímu soudu v Jeseníku, jemuž má být věc přikázána [§ 12 odst. 3 zákona č. 99/1963 Sb., občanského soudního řádu (dále též jen „o. s. ř.“)], dospěl k závěru, že nejsou splněny podmínky pro přikázání věci jinému soudu z důvodu vhodnosti podle ustanovení § 12 odst. 2 o. s. ř.
+Důvod vhodnosti pro přikázání věci jinému soudu téhož stupně ve smyslu ustanovení § 12 odst. 2 o. s. ř. představují takové okolnosti, které umožní hospodárnější, rychlejší nebo zejména po skutkové stránce spolehlivější a důkladnější projednání věci jiným než příslušným soudem. Přitom je ale třeba mít na zřeteli, že obecná místní příslušnost soudu, který má podle zákona věc projednat, je základní zásadou, a že případná delegace této příslušnosti jinému soudu je toliko výjimkou z této zásady, kterou je nutno - právě proto, že jde o výjimku - vykládat restriktivně (srov. nález Ústavního soudu České republiky ze dne 15. listopadu 2001, sp. zn. I. ÚS 144/2000, uveřejněný pod číslem 172/2001 Sbírky nálezů a usnesení Ústavního soudu, jakož i usnesení Nejvyššího soudu ze dne 31. srpna 2011, sen. zn. 29 NSČR 33/2010, uveřejněné pod číslem 3/2012 Sbírky soudních rozhodnutí a stanovisek).
+Důvod, pro který L. T. odůvodňuje návrh na přikázání věci Okresnímu soudu v Jeseníku (aby šlo o soud, v jehož obvodu bydlí alespoň jeden z manželů) byl naplněn již tím, že v rámci rozhodnutí o místní příslušnosti soudu (usnesením z 16. října 2015) byla věc postoupena k projednání a rozhodnutí Okresnímu soudu v Nymburce, coby soudu, v jehož obvodu jeden z manželů (J. T.) již bydlí.
+Nejvyšší soud proto návrhu L. T. na přikázání věci Okresnímu soudu v Jeseníku nevyhověl.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně 11. dubna 2016
+JUDr. Zdeněk K r č m á ř
+předseda senátu
