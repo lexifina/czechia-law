@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Třebíči",
+  "ecli": "ECLI:CZ:OSTR:2016:12.C.251.2014.1",
+  "docket": "12 C 251/2014-145",
+  "date": "2016-04-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c677592a-cd25-4439-b473-f0f88cb94ff3",
+  "source_sha256": "ff7d506aea5345ba66546488e3fc4a5583e145499ef3f256a99561530d5bd7b9",
+  "source_id": "c677592a-cd25-4439-b473-f0f88cb94ff3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 251/2014-145",
+    "soud": "Okresní soud v Třebíči",
+    "autor": "Mgr. Jan Coufal",
+    "ecli": "ECLI:CZ:OSTR:2016:12.C.251.2014.1",
+    "predmetRizeni": "určení neexistence zástavního práva",
+    "datumVydani": "2016-04-12",
+    "datumZverejneni": "2021-05-06",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "smlouva kupní",
+      "smlouva o smlouvě budoucí",
+      "smlouva zástavní",
+      "zástavní právo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 201 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 89/2012 Sb.",
+      "§ 35 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c677592a-cd25-4439-b473-f0f88cb94ff3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
