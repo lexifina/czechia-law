@@ -1,0 +1,18 @@
+28 Nd 69/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu Mgr. Petra Krause a soudců JUDr. Jana Eliáše, Ph.D., a Mgr. Miloše Póla ve věci oprávněné: Česká kancelář pojistitelů, IČ: 700 99 618, se sídlem v Praze 4, Na Pankráci 1724/129, proti povinnému: M. D., o zaplacení 2.921,- Kč s příslušenstvím, vedené u Okresního soudu v Břeclavi pod sp. zn. 55 EXE 357/2015, o návrhu na určení místní příslušnosti, takto:
+Věc vedenou u Okresního soudu v Břeclavi pod sp. zn. 55 EXE 357/2015 projedná a rozhodne Okresní soud v Břeclavi.
+Odůvodnění:
+Oprávněná podala k rukám JUDr. Miloslava Zwiefelhofera, soudního exekutora Exekutorského úřadu Praha 3, se sídlem v Praze 5, Strojírenská 47/18, exekuční návrh pro vymožení pohledávky ve výši 2.921,- Kč s příslušenstvím, jejíž zaplacení ukládá povinnému pravomocný a vykonatelný platební rozkaz vydaný Okresním soudem v Břeclavi dne 9. června 2014, č. j. EPR 65941/2014-7. Soudní exekutor následně požádal Okresní soud v Břeclavi o pověření a nařízení exekuce.
+Usnesením ze dne 5. června 2015, č. j. 55 EXE 357/2015-14, Okresní soud v Břeclavi vyslovil svoji místní nepříslušnost a věc předložil Nejvyššímu soudu k určení místně příslušného soudu, který věc projedná a rozhodne (§ 11 odst. 3 občanského soudního řádu
+– dále jen „o. s. ř.“), se závěrem, že podmínky místní příslušnosti nelze zjistit.
+Podle ustanovení § 11 odst. 1 o. s. ř. se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení.
+Podle ustanovení § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Příslušnost exekučního soudu upravuje § 45 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekučního řádu). Z ustanovení § 45 odst. 2 exekučního řádu vyplývá, že místně příslušným exekučním soudem je soud, v jehož obvodu má povinný, je-li fyzickou osobou, místo svého trvalého pobytu, popřípadě místo pobytu na území České republiky podle druhu pobytu cizince. Je-li povinný právnickou osobou, je místně příslušným soud, v jehož obvodu má povinný sídlo. Nemá-li povinný, který je fyzickou osobou, v České republice místo trvalého pobytu nebo místo pobytu podle věty první, nebo nemá-li povinný, který je právnickou osobou, sídlo v České republice, je místně příslušným soud, v jehož obvodu má povinný majetek.
+Z obsahu spisu vyplývá, že v současné době není známo místo pobytu povinného, v České republice nemá místo trvalého pobytu, resp. místo pobytu podle druhu pobytu cizince, a že exekuční titul si převzal dne 17. 6. 2014 na adrese Velké Pavlovice, Stará 244/30, a v dané fázi řízení není známo ani místo, kde má povinný majetek.
+S ohledem na výše uvedené Nejvyšší soud, přihlížeje k zásadě hospodárnosti řízení, rozhodl podle ustanovení § 11 odst. 3 o. s. ř. tak, že jako místně příslušný soud v dané věci určil Okresní soud v Břeclavi, u něhož bylo řízení zahájeno.
+Skutečnost, zda povinný má exekučně postižitelný majetek na území České republiky, který by mohl být po nařízení exekuce soudním exekutorem zajištěn a zpeněžen, vyjde najevo až činností soudem pověřeného soudního exekutora v rámci provádění exekuce (srov. v této souvislosti též důvody usnesení velkého senátu občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne 12. září 2012, sp. zn. 31 Nd 200/2012, uveřejněného pod číslem 4/2013 Sbírky soudních rozhodnutí a stanovisek).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 12. dubna 2016
+Mgr. Petr Kraus
+předseda senátu
