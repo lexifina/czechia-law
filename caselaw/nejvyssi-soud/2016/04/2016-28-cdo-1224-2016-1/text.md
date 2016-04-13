@@ -1,0 +1,13 @@
+28 Cdo 1224/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně senátu JUDr. Olgy Puškinové a soudců JUDr. Jana Eliáše, Ph.D., a Mgr. Petra Krause v právní věci žalobců a) A. H., b) M. J., c) V. K., d) J. P., e) V. P., f) J. Z., všech zastoupených JUDr. Františkem Mozgou, advokátem se sídlem v Brně, Špitálka 113/41, proti žalované Tělovýchovné jednotě Lokomotiva-Ingstav se sídlem v Brně, Horákova 3080/7, IČ 440 12 381, zastoupené JUDr. Ivou Kremplovou, advokátkou se sídlem v Brně, Botanická 785/9, o zaplacení částky 466.333,- Kč s příslušenstvím, vedené u Městského soudu v Brně pod sp. zn. 118 C 157/2015, o dovolání žalované proti usnesení Krajského soudu v Brně ze dne 18. září 2015, č. j. 19 Co 97/2015-22, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í (§ 243f odst. 3 o. s. ř.):
+Dovolání žalované proti usnesení Krajského soudu v Brně ze dne 18. 9. 2015, č. j. 19 Co 97/2015-22, jímž potvrdil usnesení ze dne 20. 2. 2015, č. j. EPR 239329/2014-16, kterým Městský soud v Brně odmítl (pro opožděnost) odpor žalované proti elektronickému platebnímu rozkazu vydanému Městským soudem v Brně dne 30. 1. 2015, č. j. EPR 239329/2014-13, není podle ustanovení § 238 odst. 1 písm. e) zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2014 (dále jen „o. s. ř.“), přípustné, jelikož mimořádným opravným prostředkem proti takovému rozhodnutí je žaloba pro zmatečnost (k tomu srov. např. usnesení Nejvyššího soudu ze dne 22. 1. 2014, sp. zn. 29 Cdo 2437/2013, uveřejněné pod číslem 42/2014 Sbírky soudních rozhodnutí a stanovisek, usnesení Nejvyššího soudu ze dne 27. 2. 2014, sp. zn. 29 Cdo 2744/2013, ze dne 18. 6. 2015, sp. zn. 28 Cdo 2212/2015, či ze dne 27. 2. 2014, sp. zn. 29 Cdo 2744/2013).
+Nejvyšší soud proto dovolání žalované podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243c odst. 3, § 224 odst. 1 a § 146 odst. 3 o. s. ř. tak, že na ně žádný z účastníků nemá právo. Žalobci sice podali vyjádření k dovolání, včetně jeho doplnění, čímž jim v souvislosti se zastoupením advokátem vznikly náklady, ovšem dovolací soud je nepovažuje za účelně vynaložené s ohledem na to, že námitky tam vyjádřené se zcela míjejí s důvody, pro něž bylo dovolání odmítnuto; dovolání nebylo odmítnuto pro věcné posouzení otázky týkající se doručení soudní zásilky.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 13. dubna 2016
+JUDr. Olga Puškinová
+předsedkyně senátu
