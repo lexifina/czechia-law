@@ -1,0 +1,19 @@
+26 Cdo 4965/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Jitky Dýškové a soudců JUDr. Pavlíny Brzobohaté a JUDr. Miroslava Feráka v právní věci žalobců a) M. T., b) S. T., zastoupených Mgr. Tomášem Uherkem, advokátem se sídlem v Praze 9, Jandova 208/8, proti žalovanému B. J. B., zastoupenému JUDr. Martinem Soukupem, advokátem se sídlem v Praze 2, Římská 2575/31a, o vyklizení bytu, vedené u Obvodního soudu pro Prahu 9 pod sp. zn. 10 C 156/2013, o dovolání žalovaného proti rozsudku Městského soudu Praze ze dne 29. dubna 2015, č. j. 19 Co 104/2015-177, takto:
+I. Dovolání se odmítá.
+II. Žalovaný je povinen zaplatit žalobcům, oprávněným společně a nerozdílně, na náhradě nákladů dovolacího řízení částku 3.267 Kč k rukám Mgr. Tomáše Uherka, advokáta se sídlem v Praze 9, Jandova 208/8, do tří dnů od právní moci tohoto usnesení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Obvodní soud pro Prahu 9 (soud prvního stupně) rozsudkem ze dne 22. 1. 2015, č. j. 10 C 156/2013-159 (druhým v pořadí), uložil žalovanému povinnost vyklidit tam označený byt, rozhodl o nákladech řízení a nákladech České republiky.
+Městský soud v Praze (odvolací soud) rozsudkem ze dne 29. 4. 2015, č. j. 19 Co 104/2015-177, rozsudek soudu prvního stupně potvrdil a dále rozhodl o nákladech odvolacího řízení. Dovodil, že žalovaný ani společnost BENY, spol. s r.o., jejímž je žalovaný jediným společníkem a prokuristou, nemohli nabýt vlastnické právo k předmětné bytové jednotce na základě údajně uzavřené kupní smlouvy z roku 1998, neboť tato smlouva nebyla vložena do katastru nemovitostí (§ 133 odst. 2 zákona č. 40/1964 Sb., občanského zákoníku, dále jen „obč. zák.“), ani na základě vydržení (§ 134 odst. 1 obč. zák.) s ohledem na nedostatek dobré víry na jejich straně (§ 130 odst. 1 obč. zák).
+Dovolání žalovaného proti rozsudku odvolacího soudu není podle ustanovení § 237 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013, dále jen „o. s. ř.“ (čl. II bod 2. zákona č. 293/2013 Sb.) přípustné, neboť odvolací soud posoudil dovolatelem zpochybněnou otázku vydržení vlastnického práva k nemovitosti v souladu s ustálenou rozhodovací praxí dovolacího soudu a není důvod, aby rozhodná právní otázka byla posouzena jinak (srov. např. rozsudek Nejvyššího soudu ze dne 28. 4. 1997, sp. zn. 2 Cdon 1178/96, publikovaný v časopise Právní rozhledy, ročník 1997, č. 11, str. 587, rozsudek Nejvyššího soudu ze dne 10. 2. 1999, sp. zn. 2 Cdon 568/96, publikovaný v časopise Soudní rozhledy, ročník 1999, č. 5, str. 151, usnesení Nejvyššího soudu ze dne 16. 11. 2011, sp. zn. 26 Cdo 4024/2010, nebo usnesení Nejvyššího soudu ze dne 6. 5. 2013. sp. zn. 26 Cdo 247/2013).
+Nedoložil-li žalovaný v projednávané věci žádný právní titul (byť domnělý), od něhož by mohl odvozovat své přesvědčení, že se stal vlastníkem předmětné bytové jednotky (případně že jejím vlastníkem se stala společnost BENY, spol. s r.o.), nemohl být jejím dobrověrným držitelem a nabýt vlastnictví k ní vydržením.
+Námitkami, jimiž zpochybňuje správnost skutkových zjištění, dovolatel uplatnil jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o. s. ř.
+Nejvyšší soud České republiky proto dovolání žalovaného podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+O návrhu na odklad vykonatelnosti napadeného rozhodnutí [§ 243 písm. a) o. s. ř.], který neshledal důvodným, dovolací soud v souladu se svou ustálenou praxí nerozhodoval.
+Bylo-li dovolání odmítnuto, nemusí být rozhodnutí o náhradě nákladů dovolacího řízení odůvodněno (srov. § 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+Nesplní-li povinný dobrovolně, co mu ukládá vykonatelné rozhodnutí, mohou oprávnění podat návrh na exekuci (soudní výkon rozhodnutí).
+V Brně dne 14. dubna 2016
+JUDr. Jitka Dýšková
+předsedkyně senátu
