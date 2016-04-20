@@ -1,0 +1,15 @@
+29 Cdo 1116/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Filipa Cilečka a soudců JUDr. Petra Šuka a JUDr. Jiřího Zavázala v právní věci navrhovatele Ing. P. P., zastoupeného Mgr. Hynkem Peroutkou, advokátem, se sídlem v Praze 1, Karlovo náměstí 671/24, PSČ 110 00, za účasti WPB Capital, spořitelního družstva v likvidaci, se sídlem v Brně, Kamenná 835/13, PSČ 639 00, identifikační číslo osoby 25780450, zastoupeného JUDr. Jiřím Hartmannem, advokátem, se sídlem v Praze 8, Sokolovská 5/49, PSČ 186 00, o určení neexistence členství v družstvu, vedené u Městského soudu v Praze pod sp. zn. 81 Cm 95/2012, o dovolání Management Investment Group Inc., se sídlem ve Spojených státech amerických, 161 92 Coastal Highway, Lewes, Delaware 19958, identifikační číslo 37461-80, zastoupené Mgr. Petrem Mikyskem, advokátem, se sídlem v Praze 3, Boleslavská 2178/13, PSČ 130 00, proti usnesení Vrchního soudu v Praze ze dne 21. září 2015, č. j. 7 Cmo 366/2015-175, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Městský soud v Praze usnesením ze dne 29. ledna 2015, č. j. 81 Cm 95/2012-138, nepřipustil vedlejší účastenství společnosti Management Investment Group Inc. (dále jen „společnost“) v řízení.
+K odvolání společnosti Vrchní soud v Praze v záhlaví označeným usnesením změnil usnesení soudu prvního stupně tak, že přistoupení společnosti „na straně žalovaného“ není přípustné.
+Proti usnesení odvolacího soudu podala společnost dovolání, které Nejvyšší soud odmítl podle § 243c odst. 1 a 2 zákona č. 99/1963 Sb., občanského soudního řádu (dále též jen „o. s. ř.“). Učinil tak proto, že dovolání nesměřuje proti žádnému z usnesení vypočtených v § 238a o. s. ř. a není přípustné ani podle § 237 o. s. ř.
+Závěr odvolacího soudu, podle něhož vedlejší účastenství v tzv. řízení nesporném – řízení o projednávané věci [§ 9 odst. 3 písm. g) o. s. ř.] je vedeno dle § 200e a § 120 odst. 2 o. s. ř. ve znění účinném do 31. prosince 2013 – není přípustné, je v souladu s ustálenou rozhodovací praxí dovolacího soudu (k tomu viz usnesení Nejvyššího soudu ze dne 25. února 1999, sp. zn. 20 Cdo 91/99, uveřejněné v časopise Soudní judikatura, číslo 7, ročníku 1999, pod číslem 73, ze dne 10. dubna 2008, sp. zn. 29 Odo 1019/2006, uveřejněné v časopise Soudní judikatura číslo 10, ročníku 2008, pod číslem 148, ze dne 26. listopadu 2008, sp. zn. 29 Cdo 333/2007, uveřejněné v časopise Soudní judikatura číslo 9, ročníku 2009, pod číslem 134, ze dne 25. ledna 2011, sp. zn. 29 Cdo 1259/2009, ze dne 23. února 2011, sp. zn. 29 Cdo 3880/2009, ze dne 12. února 2014, sp. zn. 29 Cdo 4161/2013, a nově ze dne 13. ledna 2016, sp. zn. 29 Cdo 5735/2015, jež jsou veřejnosti dostupná – stejně jako ostatní rozhodnutí Nejvyššího soudu přijatá po 1. lednu 2001 – na jeho webových stránkách).
+Výrok o náhradě nákladů dovolacího řízení nemusí být odůvodněn (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto rozhodnutí není opravný prostředek přípustný.
+V Brně dne 20. dubna 2016
+JUDr. Filip Cileček
+předseda senátu
