@@ -1,0 +1,14 @@
+26 Cdo 5255/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Jitky Dýškové a soudců JUDr. Miroslava Feráka a JUDr. Pavlíny Brzobohaté v právní věci žalobkyně LARUE a.s., se sídlem v Praze 4, Pod vilami 802/7, IČO 26031299, zastoupené JUDr. Markem Pavlovským, Ph.D., advokátem se sídlem v Praze 5, Plzeňská 232/4, proti žalovaným 1) Ing. K. M., 2) Ing. R. M., zastoupenému opatrovníkem H. M., oběma zastoupeným Mgr. Pavlem Hrtúsem, advokátem se sídlem v Praze 1, Klimentská 1652/36, o vyklizení nebytových prostor, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 20 C 31/2008, o dovolání žalovaných proti rozsudku Městského soudu v Praze ze dne 19. března 2015, č. j. 20 Co 54/2015-522, takto:
+I. Dovolání se odmítá.
+II. Žalovaní jsou povinni zaplatit žalobkyni na náhradě nákladů dovolacího řízení společně a nerozdílně částku 3.388 Kč do tří dnů od právní moci tohoto usnesení k rukám JUDr. Marka Pavlovského, Ph.D., advokáta se sídlem v Praze 5, Plzeňská 232/4.
+S t r u č n é o d ů v o d n ě n í (§ 243f odst. 3 o. s. ř.) :
+Dovolání žalovaných proti rozsudku Městského soudu v Praze ze dne 19. 3. 2015, č. j. 20 Co 54/2015-522, není přípustné podle ustanovení § 237 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2013 (srov. čl. II bod 2. zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, neboť rozhodnutí odvolacího soudu je v otázce vyklizení nemovitosti, která není v držbě žalovaných, v souladu s ustálenou rozhodovací praxí dovolacího soudu a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+Soudní praxe je dlouhodobě ustálena v názoru, podle něhož povinnost byt (zde nebytový prostor) je považována za splněnou v případě, že ten, kdo má byt vyklidit, se z něj odstěhuje dobrovolně a zároveň jej odevzdá oprávněné osobě (srov. stanovisko Nejvyššího soudu ČSR ze dne 30. 12. 1983, sp. zn. Cpj 40/83, uveřejněné pod č. 27/1984 ve Sbírce soudních rozhodnutí a stanovisek, rozhodnutí Nejvyššího soudu ČSR ze dne 30. 10. 1985, sp. zn. 3 Cz 28/85, uveřejněné pod č. 8/1987 ve Sbírce soudních rozhodnutí a stanovisek, a dále např. usnesení Nejvyššího soudu ze dne 26. 4. 2006, sp. zn. 26 Cdo 2716/2005). Pro projednávanou věc z toho plyne, že předmětný nebytový prostor nebyl žalovanými vyklizen, jestliže jej neopustili dobrovolně a žalobkyni jej neodevzdali.
+Bylo-li dovolání odmítnuto, nemusí být rozhodnutí o náhradě nákladů dovolacího řízení odůvodněno (srov. § 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+Nesplní-li povinní dobrovolně, co jim ukládá vykonatelné rozhodnutí, může oprávněná podat návrh na exekuci (soudní výkon rozhodnutí).
+V Brně dne 21. dubna 2016
+JUDr. Jitka Dýšková
+předsedkyně senátu
