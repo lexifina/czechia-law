@@ -1,0 +1,12 @@
+25 Cdo 1176/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Petrem Vojtkem v právní věci žalobce F. J., zastoupeného JUDr. Miroslavem Mlčákem, advokátem se sídlem v Klatovech, Pod Hůrkou 758, proti žalovanému P. P., zastoupenému JUDr. Josefem Kubíkem, advokátem se sídlem v Klatovech, Bezručova 389, o 250.000,- Kč s příslušenstvím, vedené u Okresního soudu v Klatovech pod sp. zn. 10 C 25/2013, o dovolání žalobce proti rozsudku Krajského soudu v Plzni ze dne 26. 5. 2015, č. j. 56 Co 39/2015-124, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud odmítl dovolání žalobce proti rozsudku Krajského soudu v Plzni ze dne 26. 5. 2015, č. j. 56 Co 39/2015-124, podle § 243c odst. 1 věty první o. s. ř., neboť neobsahuje zákonem požadované údaje o tom, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 241a odst. 2 o. s. ř.), a v dovolacím řízení proto nelze pokračovat. Uplatněné námitky sice směřují proti právním závěrům o promlčení žalovaného nároku a o překážce věci zahájené, na nichž odvolací soud založil napadené rozhodnutí, nevymezují však vůbec, od konkrétně jaké ustálené rozhodovací praxe dovolacího soudu se měl odvolací soud při řešení těchto rozhodných právních otázek odchýlit. Může-li být přitom dovolání přípustné jen podle § 237 o. s. ř., je dovolatel povinen v dovolání vymezit, která z tam uvedených hledisek považuje za splněná, přičemž k projednání dovolání nepostačuje pouhá citace byť i jen části textu tohoto ustanovení (srov. např. usnesení Nejvyššího soudu ze dne 25. 9. 2013, sp. zn. 29 Cdo 2394/2013, publikované pod č. 4/2014 Sbírky soudních rozhodnutí a stanovisek, nebo usnesení Ústavního soudu ze dne 21. 1. 2014, sp. zn. I. ÚS 3524/13, ze dne 8. 7. 2014, sp. zn. II. ÚS 4031/13, ze dne 26. 6. 2014, sp. zn. III. ÚS 1675/14, a ze dne 15. 10. 2014, sp. zn. IV. ÚS 2901/14). Dovolatel v obecné rovině poukazuje na rozpor napadeného rozsudku s ustálenou rozhodovací praxí dovolacího soudu, žádné konkrétní rozhodnutí Nejvyššího soudu reprezentující judikatorní praxi nezmiňuje a ani z obsahu dovolání nelze dovodit, v čem má spočívat odklon rozhodnutí odvolacího soudu; není tedy možno na takovém základě posoudit přípustnost dovolání podle § 237 o. s. ř.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 21. dubna 2016
+JUDr. Petr Vojtek
+předseda senátu
