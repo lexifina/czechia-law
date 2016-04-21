@@ -1,0 +1,13 @@
+21 Cdo 634/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a JUDr. Romana Fialy v právní věci posuzované Milady Tomkové, za účasti navrhovatele S. M., zastoupeného Mgr. Františkem Drlíkem, advokátem se sídlem v Šumperku, nám. Míru č. 137/9, o způsobilosti k právním úkonům, vedené u Městského soudu v Brně pod sp. zn. 84 Nc 915/2009, o dovolání navrhovatele proti usnesení Krajského soudu v Brně ze dne 9. října 2009, č. j. 21 Co 339/2009-19 takto:
+I. Řízení o dovolání navrhovatele S. M. se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243c odst. 2 o. s. ř.) :
+Řízení o dovolání navrhovatele S. M. proti usnesení Krajského soudu v Brně ze dne 9. 10. 2009, č. j. 21 Co 339/2009-19, jímž bylo potvrzeno usnesení Městského soudu v Brně ze dne 29. 7. 2009, č. j. 84 Nc 915/2009-10, o odmítnutí návrhu navrhovatele podle ustanovení § 43 odst. 2 o. s. ř., Nejvyšší soud České republiky zastavil podle ustanovení § 241b odst. 2 a § 104 odst. 2 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2012 (srov. Čl. II bod 7. zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, neboť nebyla splněna podmínka povinného zastoupení dovolatele při podání dovolání (§ 241 o. s. ř.).
+Požadavku na povinné zastoupení dovolatel, který je fyzickou osobou bez dosaženého právnického vzdělání, nevyhoví již tím, že má zástupcem advokáta (případně notáře, jde-li o věci uvedené v ustanovení § 3 zákona č. 358/1992 Sb. ve znění pozdějších předpisů), ale teprve tehdy, bude-li dovolání advokátem (nebo notářem) také sepsáno (§ 241 odst. 4 o. s. ř.). Ačkoliv byl navrhovateli pravomocným usnesením Městského soudu v Brně ze dne 20. 4. 2010, č. j. 84 Nc 915/2009-35, ustanoven zástupcem advokát Mgr. František Drlík a ačkoliv byl navrhovatel usnesením Městského soudu v Brně ze dne 14. 4. 2015, č. j. 84 Nc 915/2009-95, vyzván k odstranění vad (k doplnění) dovolání, ustanovený zástupce ve stanovené lhůtě (a ani do současné doby) dovolání proti usnesení odvolacího soudu nesepsal; podmínka povinného zastoupení navrhovatele v dovolacím řízení tudíž nebyla splněna.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 151 odst. 1 části věty před středníkem o. s. ř., neboť navrhovatel s ohledem na výsledek řízení nemá na náhradu svých nákladů právo a nikomu jinému v dovolacím řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 21. dubna 2016
+JUDr. Mojmír Putna
+předseda senátu
