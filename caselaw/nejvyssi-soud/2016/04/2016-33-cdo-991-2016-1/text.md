@@ -1,0 +1,19 @@
+33 Cdo 991/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Blanky Moudré a soudců JUDr. Václava Dudy a JUDr. Pavla Krbka ve věci žalobce D. B., zastoupeného JUDr. Eliškou Kadlecovou, advokátkou se sídlem Praha 3, Lucemburská 1569/47, proti žalované M. J., zastoupené Mgr. Markem Czivišem, advokátem se sídlem Praha 3, Přemyslovská 48/13, o zaplacení 350.000 Kč s příslušenstvím, vedené u Okresního soudu Praha-východ pod sp. zn. 20 C 55/2014, o dovolání žalované proti rozsudku Krajského soudu v Praze ze dne 22. 10. 2015, č. j. 24 Co 357/2015-153, takto:
+I. Dovolání se odmítá.
+II. Žalovaná je povinna zaplatit žalobci na náhradě nákladů dovolacího řízení 12.100 Kč do tří dnů od právní moci tohoto usnesení k rukám JUDr. Elišky Kadlecové, advokátky se sídlem Praha 3, Lucemburská 1569/47.
+O d ů v o d n ě n í :
+Krajský soud v Praze rozsudkem ze dne 22. 10. 2015, č. j. 24 Co 357/2015-153, potvrdil rozsudek ze dne 5. 11. 2014, č. j. 20 C 55/2014-69, kterým Okresní soud Praha-východ uložil žalované povinnost zaplatit žalobci do tří dnů od právní moci rozsudku 350.000 Kč se zákonným úrokem z prodlení ve výši 8,05% ročně z částky 350.000 Kč od 1. 1. 2014 do zaplacení a rozhodl o náhradě nákladů řízení; současně rozhodl o náhradě nákladů odvolacího řízení.
+Proti rozsudku odvolacího soudu podala žalovaná dovolání.
+Podle § 237 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů (dále jen „o. s. ř.“), není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+Podle § 241a odst. 1 o. s. ř. lze dovolání podat pouze z důvodu, že rozhodnutí spočívá na nesprávném právním posouzení věci.
+Námitky žalobkyně uplatněné v dovolání nesměřují primárně proti právnímu posouzení věci, nýbrž proti správnosti a neúplnosti skutkových zjištění, na nichž je založen zpochybňovaný právní závěr, že uzavřela se žalobcem dvě smlouvy o půjčce, na základě nichž jí poskytl v březnu 2010 částku 200.000 Kč a v srpnu 2010 částku 150.000 Kč. Uplatněním způsobilého dovolacího důvodu ve smyslu § 241a odst. 1 o. s. ř. není zpochybnění právního posouzení věci, vychází-li z jiného skutkového stavu. Odvolací soud založil právní posouzení věci na skutkovém zjištění, že žalobce žalované předal postupně celkem 350.000 Kč, které mu nevrátila. Prosazuje-li žalovaná vlastní skutkovou verzi, že žalobce jí peněžní prostředky nikdy nepředal, a napadá-li způsob hodnocení důkazů soudem, nebrojí proti správnosti právního posouzení věci odvolacím soudem a neuplatňuje tak ve skutečnosti jediný způsobilý dovolací důvod podle § 241a odst. 1 o. s. ř.
+Vzhledem k řečenému je z hlediska přípustnosti dovolání ve smyslu § 237 o. s. ř. bez významu argumentace žalované stran reálné povahy smlouvy o půjčce a poukaz na v dovolání označená rozhodnutí dovolacího soudu, v nichž byla řešena otázka povahy smlouvy o půjčce a od nichž se podle přesvědčení žalované odvolací soud v řešení otázky hmotného práva odchýlil.
+Nejvyšší soud dovolání odmítl (§ 243c odst. 1 věta první o. s. ř.); zbylými námitkami se již pro nadbytečnost nezabýval.
+Výrok o náhradě nákladů dovolacího řízení nemusí být odůvodněn (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+Nesplní-li povinná dobrovolně, co jí ukládá vykonatelné rozhodnutí, může oprávněný podat návrh na výkon rozhodnutí (exekuci).
+V Brně dne 26. dubna 2016
+JUDr. Blanka Moudrá
+předsedkyně senátu
