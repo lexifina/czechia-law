@@ -1,0 +1,16 @@
+32 Nd 64/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Hany Gajdziokové a soudců JUDr. Pavla Příhody a JUDr. Marka Doležala v právní věci žalobkyně PhDr. H. P., proti žalované České republice - Ministerstvu práce a sociálních věcí, se sídlem v Praze 2, Na Poříčním právu 376/1, identifikační číslo osoby 00551023, o zadostiučinění za nemajetkovou újmu, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 22 C 119/2012, o námitce podjatosti soudců Nejvyššího soudu, takto:
+K námitce podjatosti soudců senátu č. 30 občanskoprávního a obchodního kolegia Nejvyššího soudu uplatněné žalobkyní se nepřihlíží.
+O d ů v o d n ě n í :
+Městský soud v Praze usnesením ze dne 31. 8. 2015, č. j. 22 Co 49/2015-179, potvrdil usnesení ze dne 22. 12. 2014, č. j. 22 C 119/2012-169, kterým Obvodní soud pro Prahu 2 zamítl žádost žalobkyně o ustanovení právního zástupce.
+Proti usnesení odvolacího soudu podala žalobkyně dovolání. Věc je vedena u Nejvyššího soudu pod sp. zn. 30 Cdo 755/2016 a rozhodnout o ní přísluší senátu č. 30 občanskoprávního a obchodního kolegia tohoto soudu určenému rozvrhem práce Nejvyššího soudu pro rok 2016, složenému ze soudců JUDr. Františka Ištvánka, JUDr. Pavla Simona a Mgr. Víta Bičáka.
+Žalobkyně v podání ze dne 30. 9. 2015, doručeném téhož dne Obvodnímu soudu pro Prahu 2, vznesla námitku podjatosti „soudců NS ČR JUDr. F. Ištvánka a JUDr. P. Simona“, aniž by tuto námitku řádně odůvodnila. Toto podání doplnila přípisem ze dne 23. 2. 2016, doručeným téhož dne Nejvyššímu soudu, kterým vznesla námitku podjatosti „členů senátu 30 Cdo“, přičemž ani tuto námitku neodůvodnila.
+Podle ustanovení § 15a odst. 3 občanského soudního řádu (dále jen „o. s. ř.“) musí být v námitce podjatosti vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému soudci (přísedícímu) směřuje, v čem je spatřován důvod pochybnosti o jeho nepodjatosti, popřípadě kdy se o něm účastník podávající námitku dozvěděl, a jakými důkazy může být prokázán.
+Podle ustanovení § 43 o. s. ř. předseda senátu usnesením vyzve účastníka, aby bylo opraveno nebo doplněno podání, které neobsahuje všechny stanovené náležitosti nebo které je nesrozumitelné nebo neurčité. K opravě nebo doplnění podání určí lhůtu a účastníka poučí, jak je třeba opravu nebo doplnění provést (odstavec 1). Není-li přes výzvu předsedy senátu podání řádně opraveno nebo doplněno a v řízení nelze pro tento nedostatek pokračovat, soud usnesením podání, kterým se zahajuje řízení, odmítne. K ostatním podáním soud nepřihlíží, dokud nebudou řádně opravena nebo doplněna. O těchto následcích musí být účastník poučen (odstavec 2).
+Na výzvu Nejvyššího soudu k odstranění vad podání ve lhůtě 10 dnů od doručení učiněnou usnesením ze dne 4. 4. 2016, č. j. 32 Nd 64/2016-239, obsahující poučení o následcích nesplnění výzvy, která byla žalobkyni doručena dne 11. 4. 2016, žalobkyně nijak nereagovala a námitku podjatosti nedoplnila.
+Nejvyšší soud proto rozhodl podle ustanovení § 43 odst. 2 o. s. ř., že k námitce podjatosti soudců senátu č. 30 občanskoprávního a obchodního kolegia Nejvyššího soudu se nepřihlíží.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 26. 4. 2016
+JUDr. Hana G a j d z i o k o v á
+předsedkyně senátu
