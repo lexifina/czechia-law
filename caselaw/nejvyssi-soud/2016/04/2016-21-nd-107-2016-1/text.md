@@ -1,0 +1,15 @@
+21 Nd 107/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a JUDr. Zdeňka Novotného v exekuční věci oprávněné České republiky – Okresního soudu Praha - západ se sídlem v Praze 1, Karmelitská č. 377/9, IČO 00024589, proti povinnému M. P., pro 2.000,- Kč s příslušenstvím, vedené u Okresního soudu Praha - západ pod sp. zn. 206 EXE 8548/2015, takto:
+Věc vedenou u Okresního soudu Praha-západ pod sp. zn. 206 EXE 8548/2015 projedná a rozhodne Okresní soud Praha - západ.
+Odůvodnění:
+Soudní exekutor JUDr. Milan Makarius, Exekutorský úřad Praha-západ, podal dne 28. 12. 2015 u Okresního soudu Praha - západ spolu s exekučním návrhem oprávněné ze dne 13. 10. 2015 žádost o pověření a nařízení exekuce na majetek povinného k vymožení pohledávky oprávněného ve výši 2.000,- Kč.
+Okresní soud Praha - západ usnesením ze dne 9. 3. 2016, č. j. 206 EXE 8548/2015-14 vyslovil ve smyslu ustanovení § 105 odst. 2 občanského soudního řádu svoji místní nepříslušnost a rozhodl, že „po uplynutí odvolací lhůty oprávněného“ bude věc předložena Nejvyššímu soudu k určení, který soud věc projedná a rozhodne. V odůvodnění uvedl, že v z výpisu z centrální evidence obyvatel a z výpisu z registru obyvatel bylo zjištěno, že povinný nemá v České republice trvalý pobyt ani pobyt cizince a že soudu není znám ani žádný majetek povinného „umístěný v obvodu zdejšího soudu“.
+Podle ustanovení § 11 odst. 3 občanského soudního řádu jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud ČR, který soud věc projedná a rozhodne.
+Podle ustanovení § 105 odst. 2 občanského soudního řádu vysloví-li soud, že není příslušný, postoupí věc po právní moci tohoto usnesení příslušnému soudu nebo ji za podmínek uvedených v ustanovení § 11 odst. 3 občanského soudního řádu předloží Nejvyššímu soudu ČR.
+Nejvyšší soud ČR v usnesení velkého senátu občanskoprávního a obchodního kolegia ze dne 12. 11. 2014, sp. zn. 31 Nd 316/2013, které bylo uveřejněno pod č. 11/2015 Sbírky soudních rozhodnutí a stanovisek, vyložil a odůvodnil právní názor, že je-li Nejvyšší soud ČR žádán o určení místně příslušného soudu podle ustanovení § 11 odst. 3 občanského soudního řádu na základě pravomocného rozhodnutí, jímž soud prvního stupně vyslovil svou místní nepříslušnost a rozhodl o postoupení věci Nejvyššímu soudu ČR za účelem určení místně příslušného soudu, Nejvyšší soud ČR určí místně příslušný soud, aniž zkoumá (aniž je oprávněn zkoumat), zda je dána pravomoc českých soudů k projednání a rozhodnutí věci.
+Nejvyšší soud ČR, vycházeje z obsahu spisu a přihlížeje k zásadě hospodárnosti řízení, rozhodl tak, že jako místně příslušný soud v dané věci určil Okresní soud Praha - západ, u nějž byla žádost o pověření exekutora a nařízení exekuce na majetek povinného podána, a který ve věci provedl prvotní úkony.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 27. dubna 2016
+JUDr. Mojmír Putna
+předseda senátu
