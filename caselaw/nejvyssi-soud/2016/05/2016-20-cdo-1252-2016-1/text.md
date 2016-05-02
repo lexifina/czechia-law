@@ -1,0 +1,15 @@
+20 Cdo 1252/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Zbyňkem Polednou v exekuční věci oprávněné Ing. V. P., zastoupené Mgr. Markem Černým, advokátem se sídlem v Příbrami, Pražská č. 140, proti povinné Ing. M. C., zastoupené JUDr. Vladimírem Doležalem, advokátem se sídlem v Praze 7, Dukelských hrdinů č. 696/43, pro 241 861 Kč s příslušenstvím, vedené u Okresního soudu v Prachaticích pod sp. zn. 7 EXE 2509/2010, o dovolání povinné proti usnesení Krajského soudu v Českých Budějovicích ze dne 20. listopadu 2015, č. j. 24 Co 2102/2015-83, takto:
+Dovolání povinné se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud dovolání povinné proti usnesení Krajského soudu v Českých Budějovicích ze dne 20. listopadu 2015, č. j. 24 Co 2102/2015-83, podle ustanovení § 243c odst. 1 věty první zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. prosince 2013 (srov. čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony)
+– dále jen „o. s. ř.“, odmítl, neboť dovolání nesplňuje obligatorní náležitosti dovolání uvedené v ustanovení § 241a odst. 2 o. s. ř., když především neobsahuje údaj o tom, v čem přesně dovolatel spatřuje splnění předpokladů přípustnosti dovolání, ani vymezení dovolacího důvodu způsobem uvedeným v ustanovení § 241a odst. 3 o. s. ř.
+Podle ustanovení § 237 o. s. ř. není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+Podle ustanovení § 241a odst. 1 o. s. ř. lze dovolání podat pouze z důvodu, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci. Podle ustanovení § 241a odst. 2 o. s. ř. v dovolání musí být vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu se rozhodnutí napadá, vymezení důvodu dovolání, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) a čeho se dovolatel domáhá (dovolací návrh). Podle § 241a odst. 3 se důvod dovolání vymezí tak, že dovolatel uvede právní posouzení věci, které pokládá za nesprávné, a že vyloží, v čem spočívá nesprávnost tohoto právního posouzení.
+Dovolatelka výše uvedenému požadavku na vymezení přípustnosti dovolání a dovolacího důvodu nedostála, a dovolací soud proto dovolání povinné odmítl.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu [§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění pozdějších předpisů].
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 2. 5. 2016
+JUDr. Zbyněk Poledna
+předseda senátu
