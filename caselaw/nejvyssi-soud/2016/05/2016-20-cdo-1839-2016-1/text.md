@@ -1,0 +1,12 @@
+20 Cdo 1839/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Zbyňkem Polednou v exekuční věci oprávněného Ing. H. P., P., zastoupeného JUDr. Pavlem Jiřičkou, advokátem se sídlem v Praze 1, V Kolkovně č. 920/5, proti povinnému Ing. P. Ch., podnikajícímu pod obchodním jménem Přemysl Chmelař - TEMPLUM, se sídlem v Praze 5, Radlická č. 1359/49, identifikační číslo osoby 12496391, pro 176 478 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 5 pod sp. zn. 36 Nc 849/2006, o dovolání povinného proti usnesení Městského soudu v Praze ze dne 13. května 2009, č. j. 13 Co 219/2009, 13 Co 218/2009-24, takto:
+Dovolací řízení se zastavuje.
+Stručné o d ů v o d n ě n í (§ 243c odst. 2 o. s. ř.) :
+Nejvyšší soud řízení o dovolání povinného proti usnesení Městského soudu v Praze ze dne 13. května 2009, č. j. 13 Co 219/2009, 13 Co 218/2009-24, kterým odvolací soud potvrdil usnesení soudu prvního stupně ze dne 23. srpna 2006, č. j. 36 Nc 849/2006-4, ve znění opravného usnesení ze dne 19. dubna 2007 č. j. 36 Nc 849/2006-14, podle ustanovení § 241b odst. 2 a § 104 odst. 2 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. prosince 2012, které je třeba při projednání dovolání povinného a při rozhodnutí o něm použít, neboť napadené usnesení odvolacího soudu bylo vydáno v době do 31. prosince 2012 (srov. čl. II bod 7 zákona č. 404/2012 Sb.), zastavil, neboť dovolatel i přes výzvu Obvodního soudu pro Prahu 5 ze dne 13. dubna 2011, č. j. 36 Nc 849/2006-28, nesplnil podmínku povinného zastoupení v dovolacím řízení (§ 241 o. s. ř.). Povinný sice v podání ze dne 25. června 2009 požádal o ustanovení advokáta pro dovolací řízení, Obvodní soud pro Prahu 5 však usnesením ze dne 8. srpna 2014, č. j. 36 Nc 849/2006-51, rozhodl, že se povinnému zástupce neustanovuje. Odvolání povinného proti usnesení o neustanovení zástupce tentýž soud usnesením ze dne 20. října 2014, č. j. 36 Nc 849/2006-55, jako opožděné odmítl, což Městský soud v Praze jako soud odvolací usnesením ze dne 15. března 2016, č. j. 13 Co 111/2016-92, potvrdil.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu [§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně
+dalších zákonů, ve znění pozdějších předpisů].
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 2. května 2016
+JUDr. Zbyněk Poledna
+předseda senátu
