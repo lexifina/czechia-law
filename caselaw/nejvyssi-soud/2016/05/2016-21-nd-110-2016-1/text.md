@@ -1,0 +1,15 @@
+21 Nd 110/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Ljubomíra Drápala a soudců JUDr. Jiřího Doležílka a JUDr. Lubomíra Ptáčka, Ph.D. v právní věci oprávněné T - Mobile Czech Republic a.s. se sídlem v Praze 4, Tomíčkova č. 2144/1, IČO 64949681, zastoupené Mgr. Lenkou Heřmánkovou, advokátkou se sídlem v Praze 7, Jankovcova č. 1518/2, proti povinnému M. S., pro 2.329,- Kč s příslušenstvím, vedené u Okresního soudu Praha - západ pod sp. zn. 206 EXE 5733/2016, takto:
+Věc, vedenou u Okresního soudu Praha - západ pod sp. zn. 206 EXE 5733/2016, projedná a rozhodne Okresní soud Praha - západ.
+Odůvodnění:
+Soudní exekutor JUDr. Tomáš Vrána, Exekutorský úřad Přerov, podal dne 18.2.2016 u Okresního soudu Praha - západ spolu s exekučním návrhem oprávněné ze dne 3.2.2016 žádost o pověření a nařízení exekuce na majetek povinného k vymožení pohledávky oprávněné ve výši 2.329,- Kč, úrok z prodlení z dlužné částky ve výši 7% p.a. od 25.10.2012 do zaplacení a náhradu nákladů předcházejícího řízení ve výši 1.133,93 Kč.
+Okresní soud Praha - západ usnesením ze dne 24.2.2016 č.j. 206 EXE 5733/2016-14 vyslovil ve smyslu ustanovení § 105 o.s.ř. svou místní nepříslušnost a rozhodl o předložení věci Nejvyššímu soudu k určení, který soud věc projedná a rozhodne. V odůvodnění uvedl, že z "výpisu z Centrální evidence obyvatel" a z výpisu z registru obyvatel bylo zjištěno, že povinný v České republice nemá trvalý pobyt a ani pobyt cizince a že soudu není znám ani žádný majetek povinného, který by byl umístěný v obvodu Okresního soudu Praha - západ.
+Podle ustanovení § 11 odst. 3 o.s.ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Podle ustanovení § 105 odst. 2 o.s.ř. vysloví-li soud, že není příslušný, postoupí věc po právní moci tohoto usnesení příslušnému soudu nebo ji za podmínek uvedených v ustanovení § 11 odst. 3 o.s.ř. předloží Nejvyššímu soudu ČR.
+Nejvyšší soud ČR v usnesení velkého senátu občanskoprávního a obchodního kolegia ze dne 12.11.2014 sp. zn. 31 Nd 316/2013, které bylo uveřejněno pod č. 11 Sbírce soudních rozhodnutí a stanovisek, roč. 2015, vyložil a odůvodnil právní názor, že, je-li Nejvyšší soud ČR žádán o určení místně příslušného soudu podle ustanovení § 11 odst. 3 o.s.ř. na základě pravomocného rozhodnutí, jímž soud prvního stupně vyslovil svou místní nepříslušnost a rozhodl o postoupení věci Nejvyššímu soudu ČR za účelem určení místně příslušného soudu, Nejvyšší soud ČR určí místně příslušný soud, aniž zkoumá (aniž je oprávněn zkoumat), zda je dána pravomoc českých soudů k projednání a rozhodnutí věci.
+Nejvyšší soud ČR, vycházeje z obsahu spisu a přihlížeje k zásadě hospodárnosti řízení, rozhodl tak, že jako místně příslušný soud v dané věci určil Okresní soud Praha - západ, u nějž byla žádost o pověření exekutora a nařízení exekuce na majetek povinného podána, a který ve věci provedl prvotní úkony.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 4. května 2016
+JUDr. Ljubomír Drápal
+předseda senátu
