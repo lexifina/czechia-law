@@ -1,0 +1,17 @@
+11 Tcu 29/2016-15
+U S N E S E N Í
+Nejvyšší soud projednal dne 5. 5. 2016 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na přijetí rozhodnutí ve věci občana České republiky P. P., podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl takto:
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení P. P. rozsudkem Obvodního soudu Zwickau ze dne 5. 12. 2012, sp. zn. 6 Ls 150 Js 14839/12, kterým byl uznán vinným ze spáchání trestného činu krádeže ve dvou případech podle § 242 odst. 1, § 243 odst. 1, č. 3, § 25 odst. 2, § 53 německého tr. zákoníku, za který mu byl uložen úhrnný trest odnětí svobody v trvání 1 (jednoho) roku a 8 (osmi) měsíců, hledí jako na odsouzení soudem České republiky.
+Odůvodnění:
+Rozsudkem Obvodního soudu Zwickau ze dne 5. 12. 2012, sp. zn. 6 Ls 150 Js 14839/12, který nabyl právní moci dne 3. 1. 2013, byl P. P. uznán vinným ze spáchání trestného činu krádeže ve dvou případech a odsouzen k úhrnnému trestu odnětí svobody v trvání 1 (jednoho) roku a 8 (osmi) měsíců.
+Podle skutkových zjištění Obvodního soudu Zwickau bylo prokázáno, že P. P. (společně s odděleně stíhanými T. Z. a B. Ř.) se dopustil trestného činu krádeže, když:
+- dne 19. 7. 2012 v prodejně Netto ve W. –H. odcizil jeden DVD přehrávač, jeden akušroubovák, dvacet tři balíčků žvýkaček, dvacet tři lahviček Head and Shoulders, jedenáct lahviček péče o vlasy Syoss, jeden pár ponožek, tři lahvičky After Shave, patnáct dóz krému Nivea a deset balení pěny na holení Gillette v celkové hodnotě 294,86 EUR,
+- rovněž dne 19. 7. 2012 v prodejně REWE ve W. – H. odcizil devět balení čokolády Merci, dvě lahvičky Hemessylogs, šest balení Gillette Fusion, šest balení Gillette Fusion Proglide a ovoce v celkové hodnotě 222,80 EUR.
+Ministerstvo spravedlnosti České republiky podalo dopisem pod sp. zn. MSP-653/2011-MOT-T/10 ze dne 13. 4. 2016 Nejvyššímu soudu návrh na přijetí rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů. Tento návrh byl doručen Nejvyššímu soudu dne 15. 4. 2016.
+Podle § 4a odst. 3 tohoto zákona může Nejvyšší soud na návrh Ministerstva spravedlnosti České republiky rozhodnout, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+Nejvyšší soud věc přezkoumal a shledal, že odsouzený P. P. je občan České republiky, který byl odsouzen soudem jiného členského státu EU a odsouzení se týká skutků, které vykazují znaky trestného činu i podle právních předpisů České republiky (trestný čin krádeže podle § 205 tr. zákoníku). Závažnost předmětné trestné činnosti spočívá v opakovaných krádežích, kterými byla poškozeným společnostem způsobena škoda ve výši 517, 66 EUR. S tím proto koresponduje druh i výměra uloženého trestu odnětí svobody, který je zcela ve shodě s českou právní úpravou.
+Protože jsou splněny všechny podmínky pro to, aby se na výše uvedené odsouzení P. P. hledělo jako na odsouzení soudem České republiky, Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 5. 5. 2016
+JUDr. Stanislav Rizman
+předseda senátu
