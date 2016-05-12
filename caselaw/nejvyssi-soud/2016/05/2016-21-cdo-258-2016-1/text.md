@@ -1,0 +1,15 @@
+21 Cdo 258/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a JUDr. Romana Fialy ve věci žalobce J. B., zastoupeného JUDr. Zdeňkou Doležílkovou, advokátkou se sídlem v Ostravě-Nové Bělé, Ovesná č. 356/7, za účasti 1. Ředitelství silnic a dálnic ČR, státní příspěvkové organizace, se sídlem v Praze 4 – Nuslích, Na Pankráci č. 546/56, IČO 65993390, adresa pro doručování: Ředitelství silnic a dálnic ČR, Správa Ostrava, Ostrava-Mariánské Hory, Mojmírovců č. 5, zastoupeného JUDr. Markem Křížem, Ph.D., advokátem se sídlem v Karviné - Fryštátě, Masarykovo nám. č. 91/28, 2) O. B., 3) Z. B., 4) P. Š. a 5) K. V., o vyvlastnění nemovitostí, vedené u Krajského soudu v Ostravě pod sp. zn. 23 C 117/2011, o dovolání žalobce proti rozsudku Vrchního soudu v Olomouci, ze dne 24. června 2015, č. j. 1 Co 6/2015-297, takto:
+I. Dovolání žalobce se odmítá.
+II. Žalobce je povinen zaplatit Ředitelství silnic a dálnic ČR, státní příspěvkové organizaci na náhradě nákladů dovolacího řízení 2.800,- Kč do tří dnů od právní moci tohoto usnesení k rukám JUDr. Marka Kříže, Ph.D., advokáta se sídlem v Karviné - Fryštátě, Masarykovo nám. č. 91/28.
+III. Ve vztahu mezi žalobcem a O. B., Z. B., P. Š. a K. V. nemá žádný z účastníků právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalobce proti rozsudku Vrchního soudu v Olomouci, ze dne 24. 6. 2015, č. j. 1 Co 6/2015-297, není přípustné podle ustanovení § 237 o. s. ř., neboť rozhodnutí odvolacího soudu je (v posouzení otázky, zda ve věci měl být vypracován tzv. revizní znalecký posudek, když odvolací soud neměl pochybnosti o správnosti závěrů již vypracovaného znaleckého posudku) v souladu s ustálenou rozhodovací praxí dovolacího soudu (srov. například rozsudek Nejvyššího soudu ze dne 24. 4. 2012, sp. zn. 21 Cdo 4562/2010 nebo rozsudek Nejvyššího soudu ze dne 31. 8. 2012, sp. zn. 21 Cdo 2824/2011) a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+V části, v níž dovolatel uplatnil jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o. s. ř. (zpochybňuje-li skutková zjištění, která byla pro právní posouzení věci odvolacím soudem rozhodující, a předestírá-li opačné skutkové závěry, na nichž buduje své vlastní a od odvolacího soudu odlišné právní posouzení věci – že „nebyly splněny podmínky pro vyvlastnění podle ust. § 3 a 5 zákona č. 184/2006 Sb., neboť účastník Ředitelství silnic a dálnic ČR mohl získat pozemky dohodou, kterou mu nabízel, za splnění podmínky legalizace černé stavby komunálního odpadu a odstranění škod“), dovolání trpí nedostatkem, pro který nelze v dovolacím řízení pokračovat.
+Nejvyšší soud České republiky proto dovolání žalobce podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 12. května 2016
+JUDr. Mojmír Putna
+předseda senátu
