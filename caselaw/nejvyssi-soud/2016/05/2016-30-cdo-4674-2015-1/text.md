@@ -1,0 +1,24 @@
+30 Cdo 4674/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Simona a soudců JUDr. Bohumila Dvořáka a JUDr. Františka Ištvánka v právní věci žalobce F. F., proti žalované České republice – Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 424/16, o náhradu škody a o zadostiučinění za nemajetkovou újmu, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 22 C 177/2013, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 13. 10. 2014, č. j. 15 Co 470/2014-122, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Usnesením Obvodního soudu pro Prahu 2 (dále jen „soud prvního stupně“) ze dne 28. 8. 2014, č. j. 22 C 177/2013-112, byla odmítnuta žaloba ze dne 22. 7. 2013 (výrok I), zastaveno řízení o žádosti žalobce o ustanovení právního zástupce pro překážku věci rozhodnuté (výrok II), jakož i rozhodnuto o tom, že žádný z účastníků nemá právo na náhradu nákladů řízení (výrok III).
+Městský soud v Praze (dále jen „odvolací soud“) dovoláním napadeným usnesením odvolání žalobce proti usnesení soudu prvního stupně ze dne 28. 8. 2014, č. j. 22 C 177/2013-112 odmítl (výrok I usnesení odvolacího soudu), a rozhodl, že žádný z účastníků nemá právo na náhradu nákladů odvolacího řízení (výrok II usnesení odvolacího soudu).
+Odvolací soud vyšel v rozhodnutí z toho, že odvolání žalobce, přes výzvu soudu prvního stupně, neobsahovalo náležitosti uvedené v § 205 o. s. ř.
+Proti usnesení odvolacího soudu podal žalobce včasné dovolání, aniž však splnil podmínku zastoupení advokátem nebo notářem podle § 241 odst. 1 o. s. ř. V dovolání žalobce zároveň požádal o ustanovení zástupce pro dovolací řízení.
+Soud prvního stupně usnesením ze dne 1. 12. 2014, č. j. 22 C 177/2013-163, žádost žalobce o ustanovení zástupce pro dovolací řízení zamítl. Odvolací soud uvedené usnesení soudu prvního stupně potvrdil usnesením ze dne 17. 3. 2015, č. j. 15 Co 566/2014-169. Po doručení žalobci nabylo toto usnesení právní moci dne 3. 4. 2015.
+Proti usnesení odvolacího soudu ze dne 17. 3. 2015, č. j. 15 Co 566/2014-169, podal žalobce dne 9. 4. 2015 včasné dovolání, a to opět bez toho, že by splnil podmínku zastoupení advokátem nebo notářem podle § 241 odst. 1 o. s. ř.
+Soud prvního stupně nato vyzval žalobce usnesením ze dne 24. 9. 2015, č. j. 22 C 177/2013-178, aby si pro podání dovolání proti usnesení Městského soudu v Praze ze dne 13. 10. 2014, sp. zn. 15 Co 470/2014-122, zvolil zástupcem advokáta a aby jeho prostřednictvím podal řádné dovolání. Žalobce byl zároveň poučen, že nesplní-li výzvu do deseti dnů ode dne doručení uvedeného usnesení, dovolací soud řízení o dovolání zastaví. V reakci na uvedenou výzvu žalobce pouze zopakoval žádost o ustanovení zástupce z řad advokátů, zástupce si však nezvolil.
+Usnesením Nejvyššího soudu ze dne 20. 5. 2016, sp. zn. 30 Cdo 4975/2015, bylo toto dovolací řízení zastaveno, neboť dovolací soud dospěl k závěru, že nejsou splněny předpoklady pro to, aby byl žalobci ustanoven zástupce pro dovolací řízení.
+Nejvyšší soud v dovolacím řízení postupoval a o dovolání rozhodl podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2013 do 31. 12. 2013 (viz čl. II bod 7 zákona č. 404/2012 Sb. a čl. II bod 2 zákona č. 293/2013 Sb.), dále jen „o. s. ř.“
+Podle § 241 odst. 1 věty první o. s. ř. není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem.
+Ustanovení § 241 o. s. ř., které stanovuje tzv. povinné zastoupení dovolatele při podání dovolání, představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, bez jejíhož splnění však nelze meritorně rozhodnout o dovolání. Výjimku pro některé fyzické osoby stanovuje ustanovení § 241 odst. 2 písm. a) o. s. ř., podle kterého není třeba podmínku povinného zastoupení dovolatele advokátem nebo notářem splnit, má-li dovolatel právnické vzdělání.
+Z dovolání nevyplývá, že by žalobce jako dovolatel byl právně zastoupen, nebo že by měl právnické vzdělání. Z uvedeného je zřejmé, že žalobce nesplnil zákonem stanovenou podmínku povinného zastoupení, a to ani přes výzvu a poučení soudu o důsledcích své nečinnosti. Zamítavé rozhodnutí soudu prvního stupně o návrhu žalobce na ustanovení zástupce pro dovolací řízení bylo odvolacím soudem potvrzeno, přičemž Nejvyšší soud již rozhodl o zastavení řízení o dovolání proti usnesení odvolacího soudu, takže nelze očekávat jeho změnu.
+Nejvyšší soud proto postupoval podle ustanovení § 241b odst. 2, části věty před středníkem, a § 104 odst. 2, věty třetí, o. s. ř. a dovolací řízení zastavil.
+Výrok o náhradě nákladů dovolacího řízení netřeba odůvodňovat (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 20. května 2016
+JUDr. Pavel Simon
+předseda senátu
