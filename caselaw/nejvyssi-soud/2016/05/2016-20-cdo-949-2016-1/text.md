@@ -1,0 +1,13 @@
+20 Cdo 949/2016
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy senátu JUDr. Zbyňka Poledny a soudců JUDr. Miroslavy Jirmanové, Ph.D., a JUDr. Vladimíra Kůrky v exekuční věci oprávněné CACTON LIMITED, se sídlem v Londýně, Jermyn Street č. 86, SW1Y 6AW, Spojené království Velké Británie a Severního Irska, registrační číslo 06654819, proti povinné L. H., O., zastoupené Mgr. Marianem Babincem, advokátem se sídlem v Opavě, Růžová č. 256/14, pro 75 000 Kč s příslušenstvím, vedené u Okresního soudu v Opavě pod sp. zn. 22 EXE 2396/2013, o dovolání povinné proti usnesení Krajského soudu v Ostravě ze dne 30. září 2015, č. j. 10 Co 678/2015-102, takto:
+Dovolání povinné se odmítá.
+Stručné o d ů v o d n ě n í (§ 243f odst. 3 o. s. ř.) :
+Dovolání povinné proti usnesení Krajského soudu v Ostravě ze dne 30. září 2015, č. j. 10 Co 678/2015-102, jímž potvrdil usnesení Okresního soudu v Opavě ze dne 31. března 2015, č. j. 22 EXE 2396/2013-84, o zamítnutí návrhu povinné na zastavení exekuce vedené na její majetek u soudního exekutora JUDr. Petra Kociána pod sp. zn. 137 EX 13567/13, není přípustné podle ustanovení § 237 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. prosince 2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu [k otázce, zda lze v exekučním řízení přezkoumávat věcnou správnost exekučního titulu srov. například usnesení Nejvyššího soudu ze dne 8. srpna 2006, sp. zn. 20 Cdo 1558/2006] a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+K námitce dovolatelky, že soud prvního stupně rozhodl o návrhu na zastavení exekuce v rozporu s ustanovením § 269 odst. 2 o. s. ř. bez jednání, dovolací soud uvádí, že dovolací soud sice smí ke zmatečnostem podle § 229 odst. 1, odst. 2 písm. a) a b) a odst. 3 o. s. ř. přihlédnout (a to i kdyby v dovolání uplatněny nebyly), avšak jen tehdy, je-li dovolání přípustné (§ 242 odst. 3 věta druhá o. s. ř.). Uvedený předpoklad v projednávané věci naplněn není.
+Nejvyšší soud proto dovolání povinné podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 2. 5. 2016
+JUDr. Zbyněk Poledna
+předseda senátu
