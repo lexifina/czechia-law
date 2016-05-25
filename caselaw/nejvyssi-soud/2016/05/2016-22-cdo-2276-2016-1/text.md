@@ -1,0 +1,13 @@
+22 Cdo 2276/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu Mgr. Michalem Králíkem, Ph.D., ve věci žalobkyně MARSERVIS, s. r. o., se sídlem v Chodově, Vančurova 341, IČO: 46886061, zastoupené JUDr. Petrem Orctem, advokátem se sídlem v Karlových Varech – Dvorech, Závodní 391/96C, proti žalovanému městu Chodov, se sídlem v Chodově, Komenského 1077, IČO: 00259349, zastoupenému JUDr. Vladislavem Bílkem, advokátem se sídlem v Klatovech, Čsl. legií 143, o určení vlastnického práva, vedené u Okresního soudu v Sokolově pod sp. zn. 16 C 408/2010, o dovolání žalobkyně proti usnesení Krajského soudu v Plzni ze dne 19. února 2016, č. j. 25 Co 223/2015-635, takto:
+Dovolání se odmítá.
+Odůvodnění:
+Podle § 243f odst. 3 věty první zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2013 (viz čl. II a čl. VII zákona č. 293/2013 Sb. – dále jen „o. s. ř.“), v odůvodnění usnesení, jímž bylo dovolání odmítnuto nebo jímž bylo zastaveno dovolací řízení, dovolací soud pouze stručně uvede, proč je dovolání opožděné, nepřípustné nebo trpí vadami, jež brání pokračování v dovolacím řízení, nebo proč muselo být dovolací řízení zastaveno.
+Krajský soud v Plzni (dále jen „odvolací soud“) usnesením ze dne 19. 2. 2016, č. j. 25 Co 223/2015-635, rozhodl, že zpětvzetí žaloby učiněné žalobkyní v průběhu odvolacího řízení jejím podáním ze dne 30. 11. 2015 není účinné. Proti tomuto usnesení podala žalobkyně dovolání.
+Rozhodnutí odvolacího soudu o neúčinnosti zpětvzetí žaloby je procesním rozhodnutím odvolacího soudu, proti kterému není přípustné dovolání podle § 237 o. s. ř., neboť se jím odvolací řízení nekončí. Ustanovení § 238a o. s. ř. připouští dovolání i proti některým v tomto ustanovení taxativně uvedeným procesním rozhodnutím, byť se jimi odvolací řízení nekončí; rozhodnutí o neúčinnosti zpětvzetí žaloby v průběhu odvolacího řízení zde ovšem uvedeno není, a proto proti němu není dovolání přípustné [k tomu srovnej usnesení Nejvyššího soudu ze dne 22. 1. 2015, sp. zn. 22 Cdo 51/2015 (dostupné na www.nsoud.cz)].
+Jelikož dovolání žalobkyně proti rozhodnutí o neúčinnosti zpětvzetí žaloby v průběhu odvolacího řízení není přípustné, Nejvyšší soud dovolání podle § 243c odst. 1 o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení dovolací soud nerozhodoval, neboť řízení není doposud skončeno [srovnej usnesení Nejvyššího soudu ze dne 23. 7. 2002, sp. zn. 20 Cdo 970/2001 (uveřejněné pod číslem 48/2003 Sbírky soudních rozhodnutí a stanovisek)].
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 25. května 2016
+Mgr. Michal Králík, Ph.D. předseda senátu
