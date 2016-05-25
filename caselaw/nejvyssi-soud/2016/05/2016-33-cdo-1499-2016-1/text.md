@@ -1,0 +1,17 @@
+33 Cdo 1499/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu JUDr. Ivanou Zlatohlávkovou ve věci žalobce Ing. L. B., proti žalované Ing. B. B., o odvolání daru, vedené u Okresního soudu v Třebíči pod sp. zn. 9 C 55/2015, o dovolání žalobce proti usnesení Krajského soudu v Brně ze dne 29. října 2015, č. j. 37 Co 211/2015-83, takto:
+Dovolací řízení se zastavuje.
+O d ů v o d n ě n í:
+Okresní soud v Třebíči usnesením ze dne 9. 6. 2015, č. j. 9 C 55/2015-63, nepřiznal žalobci osvobození od placení soudního poplatku.
+Krajský soud v Brně usnesením ze dne 29. 10. 2015, č. j. 37 Co 211/2015-83, usnesení soudu prvního stupně potvrdil.
+Proti usnesení odvolacího soudu podal žalobce dovolání, v němž současně požádal o ustanovení zástupce z řad advokátů pro dovolací řízení. Okresní soud v Třebíči usnesením ze dne 12. 1. 2016, č. j. 9 C 55/2015-99, žádost žalobce o „ustanovení zástupce z řad advokátů pro účely dovolání“ zamítl a Krajský soud v Brně usnesením ze dne 29. 1. 2016, č. j. 37 Co 41/2016-113, toto usnesení soudu prvního stupně potvrdil. Okresní soud v Třebíči poté žalobce usnesením ze dne 1. 3. 2016, č. j. 9 C 55/2015-114, správně vyzval, aby si pro podání dovolání zvolil zástupcem advokáta, a aby jeho prostřednictvím podal řádné dovolání; současně ho poučil, že pokud ve lhůtě deseti dnů od doručení tohoto usnesení nebude soudu předložena plná moc zvoleného advokáta a jím sepsané dovolání, předloží dovolání Nejvyššímu soudu k rozhodnutí o zastavení řízení. Žalobce neuposlechl výzvy soudu, aby si pro podání dovolání zvolil zástupcem advokáta, a podáním ze dne 26. 3. 2016 své dovolání proti usnesení Krajského soudu v Brně ze dne 29. října 2015, č. j. 37 Co 211/2015-83, sám doplnil.
+V dovolacím řízení bylo postupováno podle zákona č. 99/1996 Sb., občanského soudního řádu, ve znění pozdějších předpisů (srov. čl. II bod 2 zákona č. 293/2013 Sb. – dále jen „o. s. ř.“).
+Dovolání bylo podáno k tomu legitimovaným subjektem (žalobcem), nejsou však dány podmínky pro jeho věcné projednání.
+Podle § 241 odst. 1 věty první o. s. ř. musí být dovolatel zastoupen advokátem nebo notářem; to neplatí, má-li dovolatel (fyzická osoba) právnické vzdělání, popřípadě jedná-li za něj (jde-li o právnickou osobu) osoba uvedená v § 21 nebo v § 21a anebo v § 21b, která má právnické vzdělání. Notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními předpisy. Podle § 241 odst. 4 o. s. ř. nemá-li dovolatel právnické vzdělání, musí být dovolání sepsáno advokátem, notářem nebo osobou uvedenou v § 21 nebo § 21a anebo § 21b, která má právnické vzdělání. Citované ustanovení představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit; bez jejího splnění však nelze vydat rozhodnutí, kterým se řízení končí (rozhodnutí ve věci samé).
+Z obsahu spisu nevyplývá, že by žalobce byl v dovolacím řízení zastoupen advokátem (jeho návrh na ustanovení zástupce z řad advokátů byl soudy pravomocně zamítnut), případně že by sám měl právnické vzdělání.
+Podmínka povinného zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání vydání rozhodnutí, jímž se řízení končí. Protože v posuzovaném případě ke zhojení tohoto nedostatku nedošlo, dovolací soud dovolací řízení zastavil (§ 241b odst. 2 část věty před středníkem a § 104 odst. 2 věta třetí o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. května 2016
+JUDr. Ivana Zlatohlávková
+předsedkyně senátu
