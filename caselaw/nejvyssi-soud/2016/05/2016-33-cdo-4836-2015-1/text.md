@@ -1,0 +1,20 @@
+33 Cdo 4836/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudců JUDr. Ivany Zlatohlávkové a JUDr. Václava Dudy ve věci žalobců a) MUDr. M. V., a b) MUDr. I. V., zastoupených JUDr. Jaroslavou Vančurovou, advokátkou se sídlem v Mšeně nad Nisou, Na Pláni 3794/2, proti žalovanému Z. H., (identifikační číslo osoby 71960830), zastoupenému Mgr. Jiřím Švehlou, advokátem se sídlem v Praze 3, Blodkova 1476/4, o 271.753,27 Kč s příslušenstvím, vedené u Okresního soudu v Jablonci nad Nisou pod sp. zn. 12 C 78/2011, o dovolání žalovaného proti rozsudku Krajského soudu v Ústí nad Labem - pobočky v Liberci, ze dne 13. 5. 2015, č.j. 36 Co 561/2014-208, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Okresní soud v Jablonci nad Nisou rozsudkem ze dne 13. 6. 2014, č.j. 12 C 78/2011-179, uložil žalovanému povinnost zaplatit žalobcům 271.753,27 Kč s úroky z prodlení a rozhodl o nákladech řízení.
+V záhlaví označeným rozsudkem krajský soud rozhodnutí soudu prvního stupně potvrdil a rozhodl o náhradě nákladů odvolacího řízení. Obrana žalovaného není z pohledu ustanovení § 642 odst. 1 zákona č. 40/1964 Sb., občanského zákoníku, ve znění účinném do 31. 12. 2013 /viz § 3028 zákona č. 89/2012 Sb./, dále jen „obč. zák.“), důvodná, neboť objednatel má právo od smlouvy o dílo odstoupit kdykoliv až do zhotovení díla, a to z jakéhokoliv důvodu nebo i bez uvedení důvodu. Na vypořádání vzájemných vztahů objednatele a zhotovitele ze zrušené smlouvy nelze aplikovat ustanovení o bezdůvodném obohacení (jak učinil soud prvního stupně), protože citované ustanovení obsahuje speciální úpravu; objednatel je povinen zaplatit zhotoviteli částku, která připadá na práce již vykonané, pokud nemůže jejich výsledek použít jinak, a nahradit mu účelně vynaložené náklady. Cena provedených prací byla podle znaleckého posudku stanovena částkou 578.246,73 Kč, žalobci, kteří od smlouvy odstoupili, zálohově zaplatili žalovanému 850.000,- Kč.
+Nejvyšší soud věc projednal podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013 (srov. čl. II bod 1, 7 zákona č. 404/2012 Sb., čl. II bod 2 zákona č. 293/2013 Sb., dále jen „o.s.ř.“).
+Podle ustanovení § 237 o.s.ř. je dovolání – není-li stanoveno jinak – přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+Přípustnost dovolání je oprávněn zkoumat jen dovolací soud (srov. § 239 o.s.ř.).
+Dovolání není přípustné; otázku předestřenou žalovaným – vypořádání právního vztahu ze smlouvy o dílo po té, co objednatel od smlouvy podle § 642 odst. 1 obč. zák. odstoupil – odvolací soud vyřešil v souladu s judikaturou Nejvyššího soudu (srov. rozsudek ze dne 18. 2. 2009, sp. zn. 28 Cdo 4820/2008, usnesení ze dne 16. 7. 2015, sp. zn. 33 Cdo 2870/2014). Částka, která připadá na práce žalovaným již vykonané a která je základem pro stanovení nároku zhotovitele, neodvisí od toho, zda účastníci sjednali cenu ve smlouvě nebo zda – jako v souzené věci – byla určující tzv. cena přiměřená (§ 634 odst. 1 obč. zák.).
+Protože k vadám řízení dovolací soud přihlédne pouze v případě, je-li dovolání přípustné (§ 242 odst. 3 o.s.ř.), jsou bezcenné námitky týkající se provádění a hodnocení důkazů.
+Ve vztahu k výrokům o náhradě nákladů řízení žalovaný žádnou argumentaci nevznesl.
+Nepředložil-li dovolatel k řešení žádnou otázku hmotného nebo procesního práva, jež by zakládala přípustnost dovolání ve smyslu § 237 o.s.ř., Nejvyšší soud je odmítl (§ 243c odst. 1 o.s.ř.).
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. května 2016
+JUDr. Pavel Krbek
+předseda senátu
