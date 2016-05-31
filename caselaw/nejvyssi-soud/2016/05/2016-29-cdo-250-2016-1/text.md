@@ -1,0 +1,17 @@
+29 Cdo 250/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Petra Šuka a soudců JUDr. Filipa Cilečka a JUDr. Jiřího Zavázala v právní věci žalobkyně Mgr. D. K., proti žalovaným 1) Ing. J. Š., zastoupenému Mgr. Zbyškem Jarošem, advokátem, se sídlem v Praze 4, Pobočná 1395/1, PSČ 141 00, 2) R. Š., a 3) SC Servis, s. r. o., se sídlem v Praze 3, Soběslavská 48, PSČ 130 00, identifikační číslo osoby 46709088, o určení práva k obchodnímu podílu, vedené u Městského soudu v Praze pod sp. zn. 21 Cm 184/2004, o dovolání žalobkyně proti usnesení Městského soudu v Praze ze dne 17. února 2012, č. j. 21 Cm 184/2004-511, a usnesení Vrchního soudu v Praze ze dne 18. května 2012, č. j. 14 Cmo 168/2012-522, takto:
+I. Řízení o „dovolání“ proti usnesení Městského soudu v Praze ze dne 17. února 2012, č. j. 21 Cm 184/2004-511, se zastavuje.
+II. Dovolání proti usnesení Vrchního soudu v Praze ze dne 18. května 2012, č. j. 14 Cmo 168/2012-522, se odmítá.
+O d ů v o d n ě n í :
+Městský soud v Praze usnesením ze dne 17. února 2012, č. j. 21 Cm 184/2004-511, zastavil řízení o dovolání žalobkyně proti usnesení Vrchního soudu v Praze ze dne 23. března 2009, č. j. 14 Cmo 125/2008-215, podle § 9 odst. 1 zákona č. 549/1991 Sb., o soudních poplatcích, pro nezaplacení soudního poplatku za dovolání (výrok I.), a rozhodl o nákladech dovolacího řízení (výrok II.).
+Vrchní soud v Praze v záhlaví označeným usnesením rozhodnutí soudu prvního stupně k odvolání žalobkyně potvrdil.
+Proti usnesení odvolacího soudu a výslovně i proti usnesení soudu prvního stupně podala žalobkyně dovolání, jež bylo Nejvyššímu soudu předloženo dne 20. ledna 2016.
+Řízení o „dovolání“ proti rozsudku soudu prvního stupně Nejvyšší soud zastavil podle § 104 odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu (dále též jen „o. s. ř.“), pro neodstranitelný nedostatek podmínek řízení, spočívající v nedostatku funkční příslušnosti soudu k projednání „dovolání“ (srov. usnesení Nejvyššího soudu ze dne 27. ledna 2000, sp. zn. 20 Cdo 2068/98, a ze dne 4. září 2003, sp. zn. 29 Odo 265/2003, uveřejněná pod čísly 10/2001 a 47/2006 Sbírky soudních rozhodnutí a stanovisek).
+Dovolání proti usnesení odvolacího soudu Nejvyšší soud odmítl podle § 243b odst. 5, § 218 písm. c) o. s. ř. jako nepřípustné, aniž posuzoval splnění podmínky povinného zastoupení dovolatelky advokátem (§ 241, § 241b odst. 2 o. s. ř.). Učinil tak proto, že dovoláním – jakožto mimořádným opravným prostředkem – lze napadnout pravomocná rozhodnutí odvolacího soudu pouze tehdy, připouští-li to zákon (§ 236 odst. 1 o. s. ř.). Přípustnost dovolání proti rozhodnutí odvolacího soudu, jímž potvrdil usnesení soudu prvního stupně o zastavení dovolacího řízení z důvodu nezaplacení soudního poplatku, nezakládá žádné ustanovení občanského soudního řádu v rozhodném znění (srov. § 237 až 239 o. s. ř.).
+K absenci výroku o nákladech dovolacího řízení srov. důvody usnesení Nejvyššího soudu ze dne 23. července 2002, sp. zn. 20 Cdo 970/2001, uveřejněného pod číslem 48/2003 Sbírky soudních rozhodnutí a stanovisek.
+Rozhodné znění občanského soudního řádu pro dovolací řízení (do 31. prosince 2012), se podává z části první, čl. II, bodu 7. zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 31. května 2016
+JUDr. Petr Š u k
+předseda senátu
