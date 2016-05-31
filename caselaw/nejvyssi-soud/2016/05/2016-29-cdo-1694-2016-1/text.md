@@ -1,0 +1,16 @@
+29 Cdo 1694/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Petra Šuka a soudců JUDr. Filipa Cilečka a Mgr. Milana Poláška v právní věci navrhovatelky CZECH BROKER COMPANY s. r. o. „v likvidaci“, se sídlem v Bruntále, Dukelská 1501/2, PSČ 792 01, identifikační číslo osoby 25867962, zastoupené JUDr. Ing. Jiřím Němcem, advokátem, se sídlem v Brně, Štefánikova 114/45, PSČ 602 00, za účasti 1) Ing. J. H., 2) J. B. a 3) J. H., o zrušení společnosti s likvidací a jmenování likvidátora, o žalobě pro zmatečnost, vedené u Krajského soudu v Ostravě pod sp. zn. 29 Cm 99/2009, o dovolání Ing. J. H. proti usnesení Vrchního soudu v Olomouci ze dne 9. prosince 2015, č. j. 5 Cmo 327/2015-358, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Krajský soud v Ostravě usnesením ze dne 3. listopadu 2015, č. j. 29 Cm 99/2009-352, zastavil řízení o odvolání Ing. J. H. proti usnesení ze dne 27. srpna 2015, č. j. 29 Cm 99/2009-326, jímž označený soud zamítl jeho žalobu pro zmatečnost (výrok I.) a rozhodl o nákladech odvolacího řízení (výrok II.).
+V záhlaví označeným usnesením Vrchní soud v Olomouci rozhodnutí soudu prvního stupně potvrdil (první výrok) a rozhodl o nákladech odvolacího řízení (druhý výrok).
+Proti usnesení odvolacího soudu podal Ing. J. H. dovolání, jež Nejvyšší soud odmítl podle § 243c odst. 1 a 2 zákona č. 99/1963 Sb., občanského soudního řádu (dále též jen „o. s. ř.“).
+Učinil tak proto, že dovolání nesměřuje proti žádnému z usnesení vypočtených v § 238a o. s. ř. a není přípustné ani podle § 237 o. s. ř. Dovoláním zpochybněný závěr odvolacího soudu, podle něhož opětovná žádost dovolatele o osvobození od soudních poplatků, založená na týchž skutkových okolnostech, ze kterých odvolací soud vycházel již v usnesení ze dne 11. listopadu 2014 (č. l. 160), jímž přiznal dovolateli osvobození od soudních poplatků v rozsahu 50 %, nepředstavuje důvodnou obranu proti následnému usnesení soudu prvního stupně o zastavení řízení pro nezaplacení soudního poplatku (založenou na argumentaci, že dovolatel předpoklady pro přiznání úplného osvobození od soudního poplatku splňuje), je v souladu s ustálenou judikaturou Nejvyššího soudu (srov. např. usnesení Nejvyššího soudu ze dne 17. července 2013, sp. zn. 29 Cdo 1301/2013, uveřejněné pod číslem 99/2013 Sbírky soudních rozhodnutí a stanovisek, ze dne 29. ledna 2014, sp. zn. 29 Cdo 4239/2013, uveřejněné pod číslem 49/2014 Sbírky soudních rozhodnutí a stanovisek, usnesení Nejvyššího soudu ze dne 29. dubna 2014, sp. zn. 29 Cdo 3632/2013, uveřejněné pod číslem 96/2014 Sbírky soudních rozhodnutí a stanovisek, či ze dne 30. března 2016, sp. zn. 29 Cdo 929/2016, jež jsou veřejnosti dostupná – stejně jako ostatní rozhodnutí Nejvyššího soudu přijatá po 1. lednu 2001 – na webových stránkách Nejvyššího soudu).
+Výrok o náhradě nákladů řízení nemusí být odůvodněn (§ 243f odst. 3 in fine o. s. ř.).
+Rozhodné znění občanského soudního řádu pro dovolací řízení (do 31. prosince 2013) se podává z článku II. bodu 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 31. května 2016
+JUDr. Petr Šuk
+předseda senátu
