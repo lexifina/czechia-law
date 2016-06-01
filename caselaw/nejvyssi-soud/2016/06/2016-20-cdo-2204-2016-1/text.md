@@ -1,0 +1,13 @@
+20 Cdo 2204/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Zbyňkem Polednou v exekuční věci oprávněné KasGroup s. r. o. se sídlem v Karlových Varech, Bulharská č. 740/5, identifikační číslo osoby 28015576, zastoupené Mgr. Michalem Vostřelem, advokátem se sídlem v Karových Varech, T. G. Masaryka č. 937/30, proti povinné P. V., pro 54 400 Kč s příslušenstvím, vedené u soudního exekutora JUDr. Ondřeje Mareše, LL. M., Exekutorský úřad Litoměřice, pod sp. zn. 124 EX 13221/13, o dovolání oprávněné proti usnesení Krajského soudu v Plzni ze dne 5. února 2016, č. j. 18 Co 202/2015-32, takto:
+I. Dovolání oprávněné se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení
+S t r u č n é o d ů v o d n ě n í (§ 243f odst. 3 o. s. ř.) :
+Nejvyšší soud České republiky dovolání oprávněné proti usnesení Krajského soudu v Plzni ze dne 5. února 2016, č. j. 18 Co 202/2015-32, jímž potvrdil usnesení soudního exekutora JUDr. Ondřeje Mareše, LL. M., Exekutorský úřad Litoměřice, ze dne 4. února 2015, č. j. 124 EX 13221/13-91, mimo jiné o zastavení exekuce, jejímž provedením byl pověřením ze dne 24. září 2013, sp. zn. 25 EXE 1835/2013, které vydal Okresní soud v Karlových Varech, tento soudní exekutor pověřen, podle ustanovení § 243c odst. 1 věty první zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. prosince 2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, odmítl, neboť v něm byly uplatněny jiné dovolací důvody než ten, který je uveden v ustanovení § 241a odst. 1 o. s. ř.
+Podle § 241a odst. 1 o. s. ř. lze dovolání podat pouze z důvodu, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci. Právní posouzení věci je nesprávné, jestliže odvolací soud posoudil věc podle právní normy, jež na zjištěný skutkový stav nedopadá, nebo právní normu určil sice správně, ale nesprávně vyložil, případně ji na daný skutkový stav nesprávně aplikoval (srov. rozsudek Nejvyššího soudu ze dne 30. ledna 2001, sp. zn. 29 Cdo 1373/2000). V projednávané věci dovolatelka netvrdí žádné skutečnosti rozhodné pro dovolací řízení, když podstata jejích námitek spočívá v nesouhlasu dovolatelky se skutkovými závěry odvolacího soudu (a s hodnocením provedených důkazů) a nezávisí tak na vyřešení otázky hmotného nebo procesního práva. V dovolacím řízení nelze pro tento nedostatek pokračovat.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 1. 6. 2016
+JUDr. Zbyněk Poledna
+předseda senátu
