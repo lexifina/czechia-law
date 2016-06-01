@@ -1,0 +1,13 @@
+20 Cdo 1283/2016
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy senátu JUDr. Zbyňka Poledny a soudců JUDr. Aleše Zezuly a JUDr. Vladimíra Kůrky v exekuční věci oprávněné České republiky - Krajského soudu v Plzni se sídlem Plzni 3, Veleslavínova č. 21/40, identifikační číslo osoby 00215694, proti povinnému M. N. K., V., zastoupenému Mgr. Lenkou Maškovou, advokátkou se sídlem v Jičíně, Šafaříkova č. 142, pro 117 238 Kč s příslušenstvím, vedené u Okresního soudu v Sokolově pod sp. zn. 28 EXE 3045/2014, o dovolání povinného proti usnesení Krajského soudu v Plzni ze dne 18. února 2015, č. j. 61 Co 478/2014-28, takto:
+Dovolání povinného se odmítá.
+Stručné o d ů v o d n ě n í (§ 243f odst. 3 o. s. ř.) :
+Dovolání povinného proti usnesení Krajského soudu v Plzni ze dne 18. února 2015, č. j. 61 Co 478/2014-28, jímž potvrdil usnesení Okresního soudu v Sokolově ze dne 22. července 2014, č. j. 28 EXE 3045/2014-16, o zamítnutí návrhu povinného na zastavení exekuce srážkami z pracovní odměny, není přípustné podle ustanovení § 237 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. ledna 2014 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu [k otázce trvání řízení o výkon rozhodnutí srážkami ze mzdy povinného srov. například usnesení Nejvyššího soudu ze dne 9. listopadu 2015, sp. zn. 26 Cdo 271/2014].
+Nejvyšší soud v uvedeném usnesení uvedl, že exekuční řízení běží, dokud nenastane některá z okolností předvídaných zákonem, na základě níž soud rozhodne o zastavení řízení. Dovolací soud neshledává důvod, aby byla rozhodná právní otázka posouzena jinak. Jestliže se v projednávané věci stal exekuční titul vykonatelným dne 4. května 2004 a výkon rozhodnutí srážkami z pracovní odměny povinného probíhal ode dne 31. května 2004 do 7. února 2013, došlo v průběhu vykonávacího řízení ke stavění promlčecí doby a dovolatel se proto mýlí, usuzuje-li, že návrh oprávněné na nařízení exekuce na majetek povinného ze dne 11. března 2014 byl podán po uplynutí šestileté promlčecí doby.
+Nejvyšší soud proto dovolání povinného podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 1. 6. 2016
+JUDr. Zbyněk Poledna
+předseda senátu
