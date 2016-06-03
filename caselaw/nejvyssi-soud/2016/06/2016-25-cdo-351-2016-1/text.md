@@ -1,0 +1,18 @@
+25 Cdo 351/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Robertem Waltrem v právní věci žalobkyně Marcott Invest s.r.o., se sídlem Praha 5, Na Bělidle 2,
+IČO 28424689, zastoupené Mgr. Pavlem Štrbíkem, advokátem se sídlem Praha 2, Podskalská 295/4, proti žalované Ing. D. H., zastoupené JUDr. Martinem Horčicem, advokátem se sídlem Kolín, Politických vězňů 27, o žalobě žalované na obnovu řízení, vedené u Obvodního soudu pro Prahu 5 pod sp. zn. 34 C 292/2009, o dovolání žalované proti usnesení Městského soudu v Praze ze dne 7. 3. 2014, č. j. 51 Co 15/2014-446, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í (§ 243f odst. 3 o. s. ř.):
+Dovolání neobsahuje vymezení toho, v čem dovolatelka spatřuje splnění předpokladů jeho přípustnosti (srov. § 241a odst. 2 o. s. ř.), a v dovolacím řízení pro tuto vadu nelze pokračovat.
+Dovoláním napadené rozhodnutí bylo vydáno až po účinnosti zákona č. 404/2012 Sb., a dovolání proto musí mít náležitosti stanovené občanským soudním řádem ve znění účinném od 1. 1. 2013 (viz čl. II. bod 7 zákona č. 404/2012 Sb.). Dovolatelka však zjevně odkazuje na občanský soudní řád ve znění účinném do 31. 12. 2012. Přípustnost dovolání dovozuje z toho, že napadené rozhodnutí má po právní stránce zásadní význam a že jde o usnesení odvolacího soudu, jímž bylo potvrzeno usnesení soudu prvního stupně, kterým bylo rozhodnuto o žalobě na obnovu řízení, přičemž odkazuje na ustanovení § 237 odst. 1 písm. c) o. s. ř. a § 238 o. s. ř., ačkoli ustanovení § 237 o. s. ř. ve znění od 1. 1. 2013 již na odstavce a písmena členěno není a předpoklady přípustnosti dovolání jsou v něm vymezeny odlišně a § 238 o. s. ř. na danou věc zjevně nedopadá. Rovněž co do dovolacích důvodů dovolatelka odkazuje na § 241a odst. 2 písm. a), b) o. s. ř., ač podle rozhodné právní úpravy je (jediný způsobilý) dovolací důvod obsažen v § 241a odst. 1 o. s. ř. Vady řízení již nejsou způsobilým dovolacím důvodem.
+Má-li být dovolání přípustné podle ustanovení § 237 o. s. ř., je dovolatelka povinna v dovolání vymezit, které z tam uvedených hledisek považuje za splněné a v čem konkrétně naplnění předpokladů přípustnosti spočívá (srov. shodně např. usnesení Nejvyššího soudu ze dne 29. 8. 2013, sp. zn. 29 Cdo 1983/2013, a ze dne 16. 9. 2013, sp. zn. 22 Cdo 1891/2013). Tomuto požadavku však dovolatelka nedostála, odvozuje-li přípustnost dovolání ze znění občanského soudního řádu, jež bylo účinné do 31. 12. 2012 a jež upravovalo přípustnost dovolání jinak (srov. shodně např. usnesení Nejvyššího soudu ze dne 14. 4. 2014, sp. zn. 32 Cdo 4345/2013, a ze dne 12. 2. 2014, sp. zn. 25 Cdo 3666/2013).
+Z obsahového hlediska dovolání nesplňuje požadavky na vymezení předpokladů jeho přípustnosti, trpí tedy vadou, pro kterou nelze v dovolacím řízení pokračovat a tato vada nebyla v průběhu trvání lhůty k dovolání odstraněna (§ 241b odst. 3 věta první o. s. ř.). Z ustanovení § 243b o. s. ř. přitom vyplývá, že soud dovolatele k odstranění vad dovolání nevyzývá.
+Na závěr dovolací soud konstatuje, že pokud dovolatelka spatřuje nesprávné právní posouzení věci v otázce splnění výzvy soudu žalovanou podle § 114b o. s. ř., činí tak na základě vlastních skutkových závěrů, odlišných od závěrů odvolacího soudu. Dovoláním však zjištěný skutkový stav úspěšně napadnout nelze.
+Nejvyšší soud proto dovolání žalované podle § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 3. června 2016
+JUDr. Robert Waltr
+předseda senátu
