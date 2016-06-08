@@ -1,0 +1,17 @@
+30 Cdo 5340/2015
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátu složeném z předsedy JUDr. Pavla Pavlíka a soudců JUDr. Pavla Vrchy a Mgr. Víta Bičáka v právní věci žalobce Ing. P. R., proti žalované České republice – Ministerstvu práce a sociálních věcí, se sídlem v Praze 2, Na Poříčním právu 1/376, o uložení povinnosti zaslat informaci, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 25 C 13/2014, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 24. února 2015, č.j. 30 Co 65/2015 - 44, takto:
+Dovolací řízení se zastavuje.
+Stručné odůvodnění
+(§ 243f odst. 3 o.s.ř.):
+Městský soud v Praze usnesením ze dne 24. února 2015, č.j. 30 Co 65/2015 - 44, potvrdil usnesení Obvodního soudu pro Prahu 2 ze dne 30. října 2014, č.j. 25 C 13/2014-30, kterým soud prvního stupně zastavil řízení s ohledem na to, že není věcně příslušný k uložení povinnosti žalované České republice - Ministerstvu práce a sociálních věcí, tedy správnímu orgánu, neboť věcně příslušné by byly krajské soudy v rámci správního soudnictví podle soudního řádu správního.
+Proti rozhodnutí odvolacího soudu podal žalobce dne 22. srpna 2015 dovolání, aniž by byl zastoupen advokátem.
+Dovolací soud podotýká, že žalobci nebylo přiznáno osvobození od soudních poplatků pro dovolací řízení, přičemž současně byl zamítnut jeho návrh, aby mu pro toto řízení byl ustanoven zástupce (rozhodnutí soudu prvního stupně ze dne 23. června 2015, č.j. 25 C 13/2014-58, bylo potvrzeno usnesením Městského soudu v Praze ze dne 18. září 2015, č.j. 30 Co 263/2015-76; proti rozhodnutí soudu druhého stupně podal žalobce dovolání, avšak dovolací řízení bylo Nejvyšším soudem pod sp. zn. 30 Cdo 114/2016 zastaveno).
+Soud prvního stupně vyzval žalobce usnesením ze dne 22. října 2015, č.j. 25 C 13/2014 - 79, aby si pro podání dovolání zvolil zástupcem advokáta a aby jeho prostřednictvím podal řádné dovolání. Usnesení bylo dovolateli doručeno dne 9. listopadu 2015, avšak výše uvedený nedostatek povinného zastoupení advokátem nebyl do současné doby odstraněn.
+Nejvyšší soud jako soud dovolací (§ 10a o.s.ř.) přihlédl k čl. II bodu 2. zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, a vyšel tak ze znění tohoto procesního předpisu účinného od 1. ledna 2014.
+Podle § 241 odst. 1 věty první o.s.ř., není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Odstavec první citovaného ustanovení neplatí, je-li dovolatel fyzická osoba, která má právnické vzdělání [§ 241 odst. 2 písm. a) o.s.ř.]. Podle odstavce 4 téhož ustanovení dovolání fyzické osoby musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem nebo notářem. Povinné zastoupení je tak zvláštní podmínkou dovolacího řízení týkající se dovolatele, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění není možno vydat rozhodnutí, jímž se řízení končí. Podle § 104 odst. 2 o.s.ř., jde-li o nedostatek podmínky řízení, který lze odstranit, učiní k tomu soud vhodná opatření. Nezdaří-li se nedostatek podmínky řízení odstranit, řízení zastaví.
+Z uvedeného plyne, že přes opatření provedená soudem prvního stupně dovolatel nesplnil zákonem stanovenou podmínku dovolacího řízení ve smyslu § 241 odst. 1 věty první a odst. 4 o.s.ř. Dovolací soud proto řízení o dovolání zastavil (§ 241b odst. 2 část věty před středníkem a § 104 odst. 2 věta třetí o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 8. června 2016
+JUDr. Pavel Pavlík
+předseda senátu
