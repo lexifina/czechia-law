@@ -1,0 +1,15 @@
+33 Cdo 2061/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Pavlem Krbkem ve věci žalobkyně Domov na Kalvárii s.r.o., se sídlem v Jaroměřicích 271 (identifikační číslo osoby 28774604), zastoupené JUDr. Pavlem Barinkou, advokátem se sídlem ve Svitavách, nám. Míru 115/42, proti žalované J. N., zastoupené Mgr. Janou Adámkovou, advokátkou se sídlem v Ústí nad Orlicí, Jana a Jos. Kovářů 773, o 131.923,40 Kč s příslušenstvím, vedené u Okresního soudu v Ústí nad Orlicí pod sp. zn. 7 C 150/2014, o dovolání žalované proti rozsudku Krajského soudu v Hradci Králové – pobočky v Pardubicích ze dne 18. 1. 2016, č.j. 18 Co 452/2015-195, takto:
+I. Dovolání se odmítá.
+II. Žalovaná je povinna zaplatit žalobkyni na náhradě nákladů dovolacího řízení 8.082,- Kč do tří dnů od právní moci usnesení k rukám JUDr. Pavla Barinky, advokáta.
+O d ů v o d n ě n í :
+Nejvyšší soud dovolání proti v záhlaví citovanému rozhodnutí, jímž krajský soud (mimo jiné) změnil rozsudek Okresního soudu v Ústí nad Orlicí ze dne 29. 4. 2015, č.j. 7 C 150/2014-116, tak, že žalované uložil zaplatit žalobkyni 131.923,40 Kč s příslušenstvím, a rozhodl o nákladech řízení před soudy obou stupňů, odmítl (§ 243c odst. 1, věta první, zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném od 1. 1. 2014, srov. čl. II bod 2 zákona č. 293/2013 Sb., dále jen „o.s.ř.“), neboť neobsahuje způsobilé vymezení toho, v čem dovolatelka spatřuje splnění předpokladů přípustnosti dovolání (§ 241a odst. 2 o.s.ř.); o tuto obligatorní náležitost již dovolání nemůže být doplněno (§ 241b odst. 3 o.s.ř.) a v dovolacím řízení pro tuto vadu nelze pokračovat.
+Může-li být dovolání přípustné jen podle § 237 o.s.ř. (jako v této věci), je dovolatel povinen v dovolání definovat, které z tam uvedených hledisek považuje za splněné, přičemž k projednání dovolání nepostačuje pouhá citace textu ustanovení § 237 o.s.ř. či jeho části. Požadavek, aby dovolatel vymezil, v čem spatřuje splnění předpokladů přípustnosti dovolaní, znamená, že je povinen uvést, při řešení jaké otázky hmotného nebo procesního práva se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která taková otázka v rozhodování dovolacího soudu dosud nebyla vyřešena nebo která otázka hmotného nebo procesního práva je dovolacím soudem rozhodována rozdílně, popř. která taková právní otázka (již dříve vyřešená) má být dovolacím soudem posouzena jinak.
+Dovolatelka otázku přípustnosti dovolání zcela pominula, naplněním kritérií uvedených v § 237 o.s.ř. se nijak nezabývala a vymezení přípustnosti nelze dovodit ani z celého obsahu dovolání; o tuto náležitost již dovolání nemůže být doplněno (srov. § 241b odst. 3, větu první, o.s.ř.).
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+Nesplní-li žalovaná dobrovolně, co jí ukládá vykonatelné rozhodnutí, může žalobkyně podat návrh na soudní výkon rozhodnutí (exekuci).
+V Brně dne 13. června 2016
+JUDr. Pavel Krbek
+předseda senátu
