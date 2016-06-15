@@ -1,0 +1,18 @@
+28 Nd 175/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu Mgr. Petra Krause a soudců JUDr. Jana Eliáše, Ph.D., a Mgr. Miloše Póla v exekuční věci oprávněného města Znojma, IČO: 002 93 881, se sídlem ve Znojmě, Obroková 1/12, zastoupeného Mgr. Robertem Valou, advokátem se sídlem ve Znojmě, Fischerova 770/12, proti povinné Z. K., o uspokojení pohledávky v částce 3 000 Kč, vedené u Okresního soudu ve Znojmě pod sp. zn. 8 EXE 87/2016, o určení místní příslušnosti soudu, takto:
+Věc vedenou u Okresního soudu ve Znojmě pod sp. zn. 8 EXE 87/2016 projedná a rozhodne Okresní soud ve Znojmě.
+Odůvodnění:
+Oprávněný podal k rukám Mgr. Vojtěcha Jaroše, soudního exekutora Exekutorského úřadu Znojmo, se sídlem ve Znojmě, Rooseveltova 2, exekuční návrh pro vymožení pohledávky ve výši 3 000 Kč a nákladů nalézacího řízení, jejichž zaplacení ukládá povinné rozhodnutí Městského úřadu Znojmo ze dne 4. listopadu 2015, sp. zn. PMUZN/6582/2015/Ošm, o uložení pokuty za spáchaný přestupek podle zákona č. 200/1990 Sb., o přestupcích. Soudní exekutor následně požádal Okresní soud ve Znojmě o pověření a nařízení exekuce.
+Usnesením ze dne 21. dubna 2016, č. j. 8 EXE 87/2016-24, Okresní soud ve Znojmě vyslovil svoji místní nepříslušnost a věc předložil Nejvyššímu soudu k určení místně příslušného soudu, který věc projedná a rozhodne (§ 11 odst. 3 občanského soudního řádu
+– dále jen „o. s. ř.“), se závěrem, že podmínky místní příslušnosti nelze zjistit.
+Podle ustanovení § 11 odst. 1 o. s. ř. se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení.
+Podle ustanovení § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Příslušnost exekučního soudu upravuje § 45 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekučního řádu). Z ustanovení § 45 odst. 2 exekučního řádu vyplývá, že místně příslušným exekučním soudem je soud, v jehož obvodu má povinný, je-li fyzickou osobou, místo svého trvalého pobytu, popřípadě místo pobytu na území České republiky podle druhu pobytu cizince. Je-li povinný právnickou osobou, je místně příslušným soud, v jehož obvodu má povinný sídlo. Nemá-li povinný, který je fyzickou osobou, v České republice místo trvalého pobytu nebo místo pobytu podle věty první, nebo nemá-li povinný, který je právnickou osobou, sídlo v České republice, je místně příslušným soud, v jehož obvodu má povinný majetek.
+Z obsahu spisu vyplývá, že v současné době není známo místo pobytu povinné, v České republice nemá místo trvalého pobytu, resp. místo pobytu podle druhu pobytu cizince, a že v dané fázi řízení není známo ani místo, kde má povinná majetek.
+S ohledem na výše uvedené Nejvyšší soud, přihlížeje k zásadě hospodárnosti řízení, rozhodl podle ustanovení § 11 odst. 3 o. s. ř. tak, že jako místně příslušný soud v dané věci určil Okresní soud ve Znojmě, u něhož bylo řízení zahájeno.
+Skutečnost, zda povinná má exekučně postižitelný majetek na území České republiky, který by mohl být po nařízení exekuce soudním exekutorem zajištěn a zpeněžen, vyjde najevo až činností soudem pověřeného soudního exekutora v rámci provádění exekuce (srov. v této souvislosti též důvody usnesení velkého senátu občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne 12. září 2012, sp. zn. 31 Nd 200/2012, uveřejněného pod číslem 4/2013 Sbírky soudních rozhodnutí a stanovisek).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 15. června 2016
+Mgr. Petr Kraus
+předseda senátu
