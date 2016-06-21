@@ -1,0 +1,14 @@
+21 Nd 156/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Ljubomíra Drápala a soudců JUDr. Jiřího Doležílka a JUDr. Lubomíra Ptáčka, Ph.D. v exekuční věci oprávněné Všeobecné zdravotní pojišťovny České republiky v Praze 3 - Vinohradech, Orlická č. 2020/4, IČO 41197518, proti povinnému M. V., pro 62.434,- Kč s příslušenstvím, vedené u Okresního soudu ve Žďáru nad Sázavou pod sp. zn. 15 EXE 356/2016, takto:
+Věc vedenou u Okresního soudu ve Žďáru nad Sázavou pod sp. zn. 15 EXE 356/2016 projedná a rozhodne Okresní soud ve Žďáru nad Sázavou.
+Odůvodnění:
+Soudní exekutor JUDr. Petr Kocián, Exekutorský úřad Brno - venkov, podal dne 2.3.2016 u Okresního soudu ve Žďáru nad Sázavou spolu s exekučním návrhem oprávněné ze dne 24.2.2016 žádost o pověření a nařízení exekuce na majetek povinného k vymožení pohledávky oprávněné v celkové výši 62.434,- Kč, z čehož 51.113,- Kč tvoří dlužné pojistné na veřejné zdravotní pojištění a 11.321,- Kč penále, které bylo povinnému uloženo zaplatit výkazem nedoplatků č. 7241503570 vydaným oprávněnou dne 1.10.2015.
+Okresní soud ve Žďáru nad Sázavou usnesením ze dne 11.4.2016 č.j. 15 EXE 356/2016-32 vyslovil ve smyslu ustanovení § 105 o.s.ř. svou místní nepříslušnost a rozhodl o předložení věci Nejvyššímu soudu k určení, který soud věc projedná a rozhodne. V odůvodnění uvedl, že výpisem z informačního systému základních registrů a na něj navazujícím dotazem u Ministerstva vnitra České republiky, odboru azylové a migrační politiky, oddělení pobytu cizinců Kraj Vysočina bylo zjištěno, že povinný je státním občanem Ukrajiny a má na území České republiky povolen trvalý pobyt, že povinný je od 9.8.2010 dosud veden v evidenci OSSZ Žďár nad Sázavou a že adresa, kterou povinný uvedl, je Ž. n. S."; na této adrese se však povinný podle zprávy Policie ČR nezdržuje a současná adresa povinného není Policii ČR známa. Povinný "nebyl nalezen" v informačním systému evidence Městského úřadu Žďár nad Sázavou a není ani veden v evidenci Úřadu práce ČR.
+Podle ustanovení § 11 odst. 3 o.s.ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Podle ustanovení § 105 odst. 2 o.s.ř. vysloví-li soud, že není příslušný, postoupí věc po právní moci tohoto usnesení příslušnému soudu nebo ji za podmínek uvedených v ustanovení § 11 odst. 3 o.s.ř. předloží Nejvyššímu soudu ČR.
+Nejvyšší soud ČR, vycházeje z obsahu spisu a přihlížeje k zásadě hospodárnosti řízení, rozhodl tak, že jako místně příslušný soud v dané věci určil Okresní soud ve Žďáru nad Sázavou, u nějž byla žádost o pověření exekutora a nařízení exekuce na majetek povinného podána, a který ve věci provedl prvotní úkony.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 21. června 2016
+JUDr. Ljubomír Drápal
+předseda senátu
