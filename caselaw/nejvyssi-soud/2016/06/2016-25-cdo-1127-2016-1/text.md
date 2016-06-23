@@ -1,0 +1,14 @@
+25 Cdo 1127/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Roberta Waltra a soudců JUDr. Marty Škárové a JUDr. Petra Vojtka v právní věci žalobce T. H., zastoupeného Mgr. René Gemmelem, advokátem se sídlem Ostrava-Moravská Ostrava, Poštovní 39/2, proti žalovaným 1) Nordex CZ, a.s., IČO 25388916, se sídlem Havířov-Prostřední Suchá, Stará 377/2, zastoupenému JUDr. Markem Jakubíkem, advokátem se sídlem Český Těšín, Havlíčkova 190/12, 2) O. Š., zastoupenému JUDr. Zdeňkem Klimešem, advokátem se sídlem Havířov-Město, Horní 1433/2a, o 1.575.400 Kč, vedené u Okresního soudu v Karviné - pobočky v Havířově pod sp. zn. 108 C 1/2012, o dovolání žalobce proti rozsudku Krajského soudu v Ostravě ze dne 30. 11. 2015, č. j. 57 Co 648/2015-273, takto:
+Dovolání se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Dovolání žalobce proti usnesení Krajského soudu v Ostravě ze dne 30. 11. 2015, č. j. 57 Co 648/2015-273, není přípustné podle ustanovení § 237 o. s. ř..
+Žadatel o přiznání osvobození od soudních poplatků je povinen soudu prokázat věrohodným způsobem své poměry, které jsou rozhodné pro posouzení důvodnosti jeho žádosti, přičemž při rozhodování o osvobození od soudních poplatků přihlíží soud (mimo jiné) k celkovým majetkovým poměrům žadatele. Takové majetkové poměry přitom nelze zkoumat pouze ve vztahu k účastníku, jenž se domáhá osvobození od soudních poplatků, ale i s přihlédnutím k poměrům v jeho rodině, např. k příjmům a majetku jeho manžela, žijí-li ve společné domácnosti, neboť i tyto poměry ovlivňují závěr, zda účastník je či není schopen zaplatit soudní poplatky a nést další výdaje spojené s řízením, včetně nákladů spojených s poskytnutím právní pomoci (srov. usnesení Nejvyššího soudu ze dne 25. 6. 2014, sp. zn. 30 Cdo 1589/2014, usnesení Nejvyššího soudu ze dne 26. 11. 2015, sp. zn. 21 Cdo 3396/2015).
+Závěr odvolacího soudu o povinnosti žadatele o přiznání osvobození od soudních poplatků prokázat věrohodným způsobem soudu své poměry (včetně poměrů členů společné domácnosti) rozhodné pro posouzení důvodnosti jeho žádosti a o následcích v případě nesplnění této povinnosti je zcela v souladu s výše uvedenou ustálenou rozhodovací praxí dovolacího soudu a není důvod, aby rozhodná právní otázka byla dovolacím soudem posouzena jinak.
+Namítá-li dovolatel, že odvolací soud bez dalšího spekuluje o finančních příjmech manželky žalobce a činí na základě toho závěry, neuplatňuje tím ve skutečnosti (jediný způsobilý) dovolací důvod nesprávného právního posouzení (§ 241a odst. 1 o. s. ř.), nýbrž nesprávnost skutkových zjištění, která způsobilým dovolacím důvodem není.
+Nejvyšší soud České republiky proto dovolání žalobce podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 23. června 2016
+JUDr. Robert Waltr
+předseda senátu
