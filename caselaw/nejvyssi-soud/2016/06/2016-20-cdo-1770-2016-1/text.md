@@ -1,0 +1,14 @@
+20 Cdo 1770/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Vladimírem Kůrkou v exekuční věci oprávněného V. P., Č. B., proti povinnému J. H., trvale J., adresa pro doručování Ž. n. S., zastoupenému JUDr. Milošem Jirmanem, advokátem se sídlem ve Žďáru nad Sázavou, Nádražní 21, o návrhu na nařízení exekuce pro 10 000 000 Kč s příslušenstvím vedené u soudní exekutorky JUDr. Moniky Elfmarkové, Exekutorský úřad Praha 4, pod sp. zn. 115 EX 393/08, o dovolání oprávněného proti usnesení Krajského soudu v Brně – pobočka v Jihlavě ze dne 21. 12. 2015, č. j. 54 Co 433/2015-865, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í (§ 243f odst. 3 o. s. ř.) :
+Nejvyšší soud řízení o dovolání oprávněného proti usnesení Krajského soudu v Brně – pobočky v Jihlavě ze dne 21. 12. 2015, č. j. 54 Co 433/2015-865, podle ustanovení § 241b odst. 2 a §104 odst. 2 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2014 (čl. II, bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – též jen „o. s. ř.“ – zastavil, neboť dovolatel nevyhověl požadavku zastoupení advokátem (§ 241 o. s. ř.) a na výzvu soudu ze dne 22. 3. 2016, doručenou dne 24. 3.2016, č. j. 11 Nc 1165/2008-1572, ve lhůtě 15 dnů tuto vadu dovolání, spočívající v nedostatku povinného zastoupení neodstranil.
+Řízení o žádosti oprávněného o ustanovení právního zástupce pro dovolací řízení a o osvobození od soudních poplatků Okresní soud ve Žďáru nad Sázavou usnesením ze dne 19. 1. 2016, č. j. 11 Nc 1165/2008-1541, zastavil, neboť šlo již o opakovanou žádost a oprávněný neuvedl žádné nové skutečnosti. Přestože Česká advokátní komora rozhodnutím ze dne 21. 3. 2016 dovolateli určila dle § 18 odst. 2 zákona č. 85/1996 Sb., o advokacii, ve znění pozdějších předpisů, pro dovolací řízení advokáta Mgr. Pavla Dvořáka (č. l. 1567) a zároveň vyhověla žádosti Mgr. Pavla Svobody o ukončení dosavadního zastupování oprávněného (č. l. 1570), k udělení plné moci pro zastupování před dovolacím soudem nedošlo, a procesní vada dle § 241 o. s. ř. (jinak odstranitelná), odstraněna nebyla.
+Rozhodnutí vydal Nejvyšší soud předsedou senátu podle ustanovení § 243f odst. 2 o. s. ř.).
+Dovolání oprávněného bylo zastaveno a povinnému vzniklo podle ustanovení § 146 odst. 3, § 224 odst. 1 a § 243b odst. 5 věty první o. s. ř. právo na náhradu účelně vynaložených nákladů dovolacího řízení. Protože mu však podle obsahu spisu v dovolacím řízení žádné náklady nevznikly, rozhodl dovolací soud tak, že žádnému z účastníků právo na náhradu nákladů nepřiznal.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 23. června 2016
+JUDr. Vladimír K ů r k a
+předseda senátu
