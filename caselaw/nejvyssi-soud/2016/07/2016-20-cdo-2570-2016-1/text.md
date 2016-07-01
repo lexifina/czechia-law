@@ -1,0 +1,11 @@
+20 Cdo 2570/2016
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy senátu JUDr. Zbyňka Poledny a soudců JUDr. Miroslavy Jirmanové, Ph.D., a JUDr. Vladimíra Kůrky v exekuční věci oprávněné Československé obchodní banky, a. s., se sídlem v Praze 5, Radlická č. 333/150, identifikační číslo osoby 00001350, proti povinné P. O., zastoupené JUDr. Markétou Krejčovou, advokátkou se sídlem ve Znojmě, Dolní Česká č. 313/1, pro 9 500 Kč s příslušenstvím, vedené u soudního exekutora JUDr. Milana Usnula, Exekutorský úřad Praha 9, pod sp. zn. 098 EX 01697/05, o dovolání soudního exekutora proti usnesení Krajského soudu v Brně ze dne 17. března 2016, sp. zn. 26 Co 379/2014, takto:
+Dovolání soudního exekutora se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání soudního exekutora proti usnesení Krajského soudu v Brně ze dne 17. března 2016, sp. zn. 26 Co 379/2014, jímž bylo změněno usnesení soudního exekutora JUDr. Milana Usnula, Exekutorský úřad Praha 9, ze dne 11. března 2014, č. j. 098 EX 01697/05-158, není přípustné podle ustanovení § 237 zákona č. 99/1963, ve znění účinném do 31. prosince 2013 (srov. čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu [k otázce, zda se pohledávka exekutora v podobě náhrady nákladů exekuce při rozvrhu rozdělované podstaty při exekuci prodejem nemovitých věcí povinného uspokojuje v první či třetí skupině, srovnej například odůvodnění usnesení Nejvyššího soudu ze dne 23. května 2013, sp. zn. 20 Cdo 2954/2012, a v něm citovaná rozhodnutí, zejména usnesení Nejvyššího soudu ze dne 10. března 2008, sp. zn. 20 Cdo 5223/2007] a není důvod, aby rozhodná právní otázka byla posouzena jinak. Nejvyšší soud České republiky proto dovolání soudního exekutora podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 1. 7. 2016
+JUDr. Zbyněk Poledna
+předseda senátu
