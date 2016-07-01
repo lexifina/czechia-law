@@ -1,0 +1,11 @@
+20 Cdo 2418/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Zbyňka Poledny a soudců JUDr. Miroslavy Jirmanové, Ph.D., a JUDr. Vladimíra Kůrky v exekuční věci oprávněné ANALYTICAL INVESTMENTS INC, se sídlem P. O. Box 1312, Victoria, Mahé, Seychelská republika, registrační číslo 000094280, zastoupené JUDr. Vladimírem Řičicou, advokátem se sídlem v Praze 4, Voráčovská č. 937/14, proti povinnému R. S., zastoupenému Mgr. Petrem Malcem, advokátem se sídlem v Praze 3, Korunní č. 2206/127, pro 13 250 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 10 pod sp. zn. 49 EXE 210/2014, o dovolání povinného proti usnesení Městského soudu v Praze ze dne 13. listopadu 2015, č. j. 64 Co 263/2015-59, takto:
+Dovolání povinného se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky dovolání povinného proti usnesení Městského soudu v Praze ze dne 13. listopadu 2015, č. j. 64 Co 263/2015-59, který změnil usnesení Obvodního soudu pro Prahu 10 ze dne 16. dubna 2015, č. j. 49 EXE 210/2014-35, tak, že exekuce se nezastavuje, podle ustanovení § 243c odst. 1 věty první zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. ledna 2014 (srov. čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, odmítl, protože směřuje proti usnesení odvolacího soudu, kterým bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50 000 Kč [§ 238 odst. 1 písm. c) o. s. ř., srov. shora výši částky, pro niž byla exekuce nařízena, byť v posuzované věci jde o návrh povinného na zastavení exekuce – srov. usnesení Nejvyššího soudu ze dne 21. října 2015, sp. zn. 26 Cdo 4236/2015, či usnesení Nejvyššího soudu ze dne 31. října 2013, sp. zn. 20 Cdo 1977/2013, proti němuž podaná ústavní stížnost byla odmítnuta usnesením Ústavního soudu ze dne 27. února 2014, sp. zn. III. ÚS 346/14], v dovolacím řízení proto nelze pokračovat.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 1. 7. 2016
+JUDr. Zbyněk Poledna
+předseda senátu
