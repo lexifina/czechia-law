@@ -1,0 +1,15 @@
+20 Cdo 2096/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové, Ph.D., a soudců JUDr. Zbyňka Poledny a JUDr. Vladimíra Kůrky v exekuční věci oprávněné PHOENIX lékárenský velkoobchod, a. s., se sídlem v Praze 10, K pérovně 945/7, identifikační číslo osoby 45359326, zastoupené JUDr. Petrem Novotným, advokátem se sídlem v Praze 1, Platnéřská 191/2, proti povinné E. B., pro 7 324 476,42 Kč s příslušenstvím, vedené soudním exekutorem JUDr. Igorem Ivankem, Exekutorský úřad Praha 10, pod sp. zn. 167 EX 550/03, o dovolání povinné proti usnesení Krajského soudu v Ústí nad Labem – pobočky v Liberci ze dne 3. 7. 2015, č. j. 30 Co 155/2015-171, takto:
+Dovolání se odmítá.
+Odůvodnění:
+Soudní exekutor JUDr. Igor Ivanko, Exekutorský úřad Praha 10, usnesením ze dne 20. 1. 2015, č. j. 167 EX 550/03-157, odmítl podání povinné doručené soudnímu exekutorovi dne 27. 11. 2013, doplněné podáním povinné ze dne 14. 1. 2015.
+K odvolání povinné Krajský soud v Ústí nad Labem – pobočka v Liberci v záhlaví označeným rozhodnutím usnesení soudního exekutora zrušil a věc mu vrátil k dalšímu řízení.
+Povinná napadla usnesení odvolacího soudu dovoláním. Nejvyšší soud dovolání projednal a rozhodl o něm podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2013 do 31. 12. 2013 (srov. část první čl. II bod 7 zákona č. 404/2012 Sb. a část první čl. II bod 2 zákona č. 293/2013 Sb.).
+Z obecného závěru, že k dovolání jsou legitimováni účastníci řízení (§ 240 odst. 1 věta první o. s. ř.), nelze dovozovat, že by dovolání s předpokládanými účinky mohl podat kterýkoli z nich. Z povahy dovolání jakožto mimořádného opravného prostředku plyne, že oprávnění je podat svědčí toliko účastníku, kterému nebylo rozhodnutím odvolacího soudu plně vyhověno, popř. kterému byla tímto rozhodnutím způsobena na jeho právech určitá újma, již lze odstranit zrušením napadeného rozhodnutí [srov. usnesení Nejvyššího soudu ze dne 30. 8. 2000, sp. zn. 2 Cdon 1648/97 (uveřejněné v časopise Soudní judikatura č. 12/2000 pod č. 138)]. Povinná v projednávané věci není shora uvedenou osobou, neboť usnesením odvolacího soudu bylo plně vyhověno jejímu odvolání proti usnesení soudního exekutora (odvolací soud usnesení soudního exekutora zrušil).
+Protože povinná k podání dovolání není oprávněna, Nejvyšší soud její dovolání odmítl [§ 243c odst. 3 věta první a § 218 písm. b) o. s. ř.], aniž se zabýval nedostatkem povinného zastoupení dovolatelky v dovolacím řízení, k jehož odstranění byla povinná vyzvána usnesením soudního exekutora ze dne 23. 2. 2016, č. j. 167 EX 550/03-215 (§ 241b odst. 2 o. s. ř.).
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu [§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění pozdějších předpisů].
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 1. července 2016
+JUDr. Miroslava Jirmanová, Ph.D.
+předsedkyně senátu
