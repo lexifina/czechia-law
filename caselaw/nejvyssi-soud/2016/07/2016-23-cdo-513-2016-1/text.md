@@ -1,0 +1,21 @@
+23 Cdo 513/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Kateřiny Hornochové a soudců JUDr. Zdeňka Dese a Mgr. Miroslava Hromady, Ph.D, ve věci žalobkyně Š. H., bytem v Brně, Ondrouškova 847/15, PSČ 635 00, zastoupené Mgr. Robertem Sedláčkem, advokátem se sídlem v Brně, Jaselská 206/27, PSČ 602 00, proti žalované Kooperativa pojišťovna, a. s., Vienna Insurance Group, se sídlem v Praze 8, Pobřežní 665/21, PSČ 186 00, IČO 47116617, o zaplacení částky 440 468 Kč, vedené u Městského soudu v Brně pod. sp. zn. 115 C 97/2012, o dovolání žalobkyně proti usnesení Krajského soudu v Brně ze dne 6. srpna 2015, č. j. 15 Co 268/2014 - 294, takto:
+Dovolání se odmítá.
+S t r u č n é o d ů v o d n ě n í :
+(§ 243f odst. 3 o.s.ř.)
+Krajský soud v Brně usnesením ze dne 6. srpna 2015, č. j. 15 Co 268/2014-294, zrušil rozsudek Městského soudu v Brně ze dne 10. března 2014, č. j. 115 C 97/2012-255 v napadeném výroku pod bodem I, kterým byla žalované uložena povinnost zaplatit žalobkyni částku 185 190,25 Kč a v napadené části výroku pod bodem II o zamítnutí žaloby pro částku 1 959 Kč měsíčně od 1.3.2014 do budoucna a v závislých výrocích pod body III až V, a věc vrátil soudu prvního stupně k dalšímu řízení.
+Proti usnesení odvolacího soudu podala žalobkyně dovolání, v němž namítá nesprávné právní posouzení otázky vzniku škody v důsledku úrazu a jeho příčinnou souvislost, které podle odvolacího soudu jsou třeba postavit najisto. Z uvedeného důvodů navrhuje dovolatelka, aby dovolací soud zrušil usnesení odvolacího soudu a věc vrátil tomuto soudu k dalšímu rozhodnutí.
+Nejvyšší soud jako soud dovolací (§ 10a o. s. ř.) věc projednal podle zákona č. 99/1963 Sb., ve znění účinném do 31. prosince 2013 (srov. bod 2 článku II., zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony).
+Podle § 237 o. s. ř. není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného práva nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+Podle § 241a odst. 2 o. s. ř. v dovolání musí být vedle obecných náležitostí (§ 42 odst. 4 o. s. ř.) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu se rozhodnutí napadá, vymezení důvodu dovolání, v čem spatřuje splnění předpokladů přípustnosti dovolání)§ 237 až 238a) a čeho se dovolatel domáhá (dovolací návrh).
+Podle § 241b odst. 3 prvé věty o. s. ř. dovolání, které neobsahuje údaje o tom, v jakém rozsahu se rozhodnutí odvolacího soudu napadá, v čem spatřuje splnění předpokladu přípustnosti dovolání (§ 237 až 238a) nebo které neobsahuje vymezení důvodu dovolání, může být o tyto náležitosti doplněno jen po dobu trvání lhůty k dovolání.
+To, že má dovolatelka jiný názor na skutkové a právní závěry odvolacího soudu, event. nesouhlasí s jeho procesními postupy, však nepředstavuje způsobilé vymezení přípustnosti dovolání.
+Požadavek, aby dovolatel v dovolání uvedl, v čem spatřuje splnění předpokladů přípustnosti dovolání, je podle § 241a odst. 2 o. s. ř. obligatorní náležitostí dovolání. Může-li být dovolání přípustné jen podle § 237 o. s. ř., je dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné, přičemž k projednání dovolání nepostačuje pouhá citace textu ustanovení § 237 o. s. ř. či jeho části ( viz usnesení Nejvyššího soudu České republiky ze dne 27. srpna 2013, sp. zn. 29 NSČR 55/2013 nebo ze dne 29. srpna 2013, sp. zn. 29 Cdo 2488/2013).
+Uvedeným požadavkům na vymezení přípustnosti dovolání dovolatelka v dovolání nedostála.
+Nejvyšší soud proto dovolání podle § 243c odst. 1 věty první o. s. ř. odmítl, neboť v dovolacím řízení nelze pro uvedenou vadu pokračovat.
+O náhradě nákladů řízení včetně nákladů dovolacího řízení rozhodne soud v novém rozhodnutí o věci.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 1. července 2016
+JUDr. Kateřina Hornochová
+předsedkyně senátu
