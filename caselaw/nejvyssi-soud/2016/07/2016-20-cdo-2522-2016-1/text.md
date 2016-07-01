@@ -1,0 +1,13 @@
+20 Cdo 2522/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Zbyňkem Polednou v právní věci oprávněného KONSTRUKTOR-INŽENJERING dioničko družstvo za graditeljstvo se sídlem ve Splitu, Svačicéva č. 4, Chorvatská republika, identifikační číslo osoby 060173315, zastoupeného Mgr. Hynkem Peroutkou, advokátem se sídlem v Praze 1, Karlovo náměstí č. 671/24, proti povinnému Ing. P. K., Z., zastoupenému JUDr. Romanem Rudolfem, advokátem se sídlem v Praze 9, Jandova č. 208/8, pro 15 000 000 Kč s příslušenstvím, vedené u Okresního soudu v Kolíně pod sp. zn. 33 EXE 1901/2014, o dovolání oprávněného proti usnesení Krajského soudu v Praze ze dne 27. října 2015, č. j. 17 Co 520/2015-145, takto:
+Dovolání oprávněného se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.) :
+Nejvyšší soud České republiky dovolání oprávněného proti usnesení Krajského soudu v Praze ze dne 27. října 2015, č. j. 17 Co 520/2015-145, jímž mimo jiné potvrdil usnesení Okresního soudu v Kolíně ze dne 16. dubna 2015, č. j. 33 EXE 1901/2014-108, o zastavení exekuce vedené u Okresního soudu v Kolíně pod sp. zn. 33 EXE 1901/2014, podle ustanovení § 243c odst. 1 věty první zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. ledna 2014 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, odmítl, neboť v něm byly uplatněny jiné dovolací důvody než ten, který je uveden v ustanovení § 241a odst. 1 o. s. ř.
+Podle § 241a odst. 1 o. s. ř. lze dovolání podat pouze z důvodu, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci. Právní posouzení věci je nesprávné, jestliže odvolací soud posoudil věc podle právní normy, jež na zjištěný skutkový stav nedopadá, nebo právní normu určil sice správně, ale nesprávně vyložil, případně ji na daný skutkový stav nesprávně aplikoval (srov. rozsudek Nejvyššího soudu ze dne 30. ledna 2001, sp. zn. 29 Cdo 1373/2000). V projednávané věci dovolatel netvrdí žádné skutečnosti rozhodné pro dovolací řízení, když podstata jeho námitek spočívá v nesouhlasu dovolatele se skutkovými závěry odvolacího soudu a nezávisí na vyřešení otázky hmotného nebo procesního práva. V dovolacím řízení nelze pro tento nedostatek pokračovat.
+Nejvyšší soud proto dovolání podle § 243c odst. 1 o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu [§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění pozdějších předpisů].
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 1. 7. 2016
+JUDr. Zbyněk Poledna
+předseda senátu
