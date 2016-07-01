@@ -1,0 +1,11 @@
+20 Cdo 2509/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Zbyňkem Polednou v exekuční věci oprávněné Český inkasní kapitál, a. s. se sídlem v Praze 1, Václavské náměstí č. 808/66, identifikační číslo osoby 27646751, zastoupené JUDr. Romanem Majerem, advokátem se sídlem v Praze 4, Vyskočilova č. 1326/5, proti povinnému R. C., zastoupenému Mgr. Eduardem Benešem, advokátem se sídlem v Praze 9, Na Rozcestí č. 1434/6, pro 126 958,21 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 66 Nc 22307/2007, o dovolání povinného proti usnesení Městského soudu v Praze ze dne 21. ledna 2015, č. j. 58 Co 5/2015-168, takto:
+Dovolání povinného se odmítá.
+S t r u č n é o d ů v o d n ě n í (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky dovolání povinného proti usnesení Městského soudu v Praze ze dne 21. ledna 2015, č. j. 58 Co 5/2015-168, jímž bylo potvrzeno usnesení Obvodního soudu pro Prahu 4 ze dne 31. ledna 2014, č. j. 66 Nc 22307/2007-90, o zamítnutí návrhu povinného na zastavení exekuce obsaženého v podáních ze dne 22. listopadu 2012 a ze dne 11. února 2013, podle ustanovení § 243c odst. 1 věty první zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. prosince 2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, odmítl, neboť dovolání nesplňuje obligatorní náležitosti dovolání uvedené v ustanovení § 241a odst. 2 o. s. ř., když především neobsahuje vymezení dovolacího důvodu způsobem uvedeným v ustanovení § 241a odst. 3 o. s. ř. V dovolání je totiž uplatněn jiný dovolací důvod než ten, který je uveden v ustanovení § 241a odst. 1 o. s. ř. (podstatou námitek odvolatele jsou případné vady nalézacího řízení, k nimž však v dovolacím řízení nelze přihlédnout – k tomu srov. například usnesení Nejvyššího soudu ze dne 25. května 2000, sp. zn. 20 Cdo 2475/98 apod.). V dovolacím řízení proto nelze pokračovat.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 1. 7. 2016
+JUDr. Zbyněk Poledna
+předseda senátu
