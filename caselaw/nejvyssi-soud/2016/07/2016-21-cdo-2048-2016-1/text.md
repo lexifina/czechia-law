@@ -1,0 +1,14 @@
+21 Cdo 2048/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Ljubomíra Drápala a soudců JUDr. Jiřího Doležílka a JUDr. Karla Svobody, Ph.D. v právní věci žalobkyň a) D. S. a b) I. H., obou zastoupených JUDr. Milošem Vorlem, advokátem se sídlem v Liberci - Perštýně, Moskevská č. 637/6, proti žalované D. M., zastoupené JUDr. Karlem Horákem, advokátem se sídlem v Praze 1 - Novém Městě, Na pořičí č. 1041/12, o neúčinnost právního úkonu, vedené u Okresního soudu v Litoměřicích pod sp. zn. 9 C 137/2014, o dovolání žalované proti rozsudku Krajského soudu v Ústí nad Labem ze dne 18. ledna 2016 č.j. 8 Co 110/2015-142, takto:
+I. Dovolání žalované se odmítá.
+II. Žalovaná je povinna zaplatit žalobkyním společně a nerozdílně na náhradě nákladů dovolacího řízení 3.388,- Kč do tří dnů od právní moci tohoto usnesení k rukám JUDr. Miloše Vorla, advokáta se sídlem v Liberci - Perštýně, Moskevská č. 637/6.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Dovolání žalované proti rozsudku Krajského soudu v Ústí nad Labem ze dne 18.1.2016 č. j. 8 Co 110/2015-142 není přípustné podle ustanovení § 237 o.s.ř., neboť rozhodnutí odvolacího soudu je [v posouzení otázky, kdo nese břemeno tvrzení a důkazní břemeno o tom, zda osoba dlužníkovi blízká nemohla úmysl dlužníka zkrátit věřitele i při náležité pečlivosti poznat ve smyslu ustanovení § 42a odst. 2 zákona č. 40/1964 Sb., občanského zákoníku, účinného do 31.12.2013] v souladu s ustálenou rozhodovací praxí dovolacího soudu (srov. právní názor uvedený v rozsudku Nejvyššího soudu ČR ze dne 23.5.2001 sp. zn. 21 Cdo 1912/2000, který byl uveřejněn pod č. 35 ve Sbírce soudních rozhodnutí a stanovisek, roč. 2002, v rozsudku Nejvyššího soudu ČR ze dne 31.5.2012 sp. zn. 30 Cdo 3624/2010, v rozsudku Nejvyššího soudu ČR ze dne 22.2.2007 sp. zn. 30 Cdo 1706/2006, v rozsudku Nejvyššího soudu ČR ze dne 30.10.2013 sp. zn. 21 Cdo 2785/2012, anebo v rozsudku Nejvyššího soudu ČR ze dne 11.3.2014 sp. zn. 21 Cdo 185/2013 a jiný právní názor nevyplývá ani z rozsudku Nejvyššího soudu ze dne 2.6.2005 sp. zn. 30 Cdo 955/2005, na který poukazuje dovolatelka, který se o rozhodné otázce zásadně nevyjadřuje) a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+Žalovaná v dovolání navíc uplatňuje jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o.s.ř. (vznáší-li výhrady proti správnosti skutkových zjištění soudů a hodnocení důkazů), a v dovolacím řízení nelze pro tento nedostatek pokračovat.
+Nejvyšší soud České republiky proto dovolání žalované podle ustanovení § 243c odst. 1 věty první o.s.ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 11. července 2016
+JUDr. Ljubomír Drápal
+předseda senátu
