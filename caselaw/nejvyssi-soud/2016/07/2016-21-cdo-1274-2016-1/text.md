@@ -1,0 +1,12 @@
+21 Cdo 1274/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Lubomírem Ptáčkem, Ph.D. v právní věci žalobce J. O., zastoupeného JUDr. Milošem Vorlem, advokátem se sídlem v Liberci, Moskevská č. 637/16, proti žalované B. O., zastoupené JUDr. Pavlem Marečkem, advokátem se sídlem v Ústí nad Labem, Centrum Vaníčkova č. 1070/29, o zrušení vyživovací povinnosti k rozvedené manželce, vedené u Okresního soudu v Liberci pod sp. zn. 12 C 174/2014, o dovolání žalobce proti usnesení Krajského soudu v Ústí nad Labem – pobočky v Liberci ze dne 26. listopadu 2015, č. j. 29 Co 455/2015-49, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky dovolání žalobce proti usnesení Krajského soudu v Ústí nad Labem – pobočky v Liberci ze dne 26. 11. 2015, č. j. 29 Co 455/2015-49, podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl, neboť neobsahuje údaje o tom, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 241a odst. 2 o.s.ř.; srov. například právní názor vyslovený v usnesení Nejvyššího soudu ze dne 27. 8. 2013 sp. zn. 29 NSČR 55/2013, které bylo uveřejněno pod č. 116 v časopise Soudní judikatura, roč. 2014, nebo v usnesení Nejvyššího soudu ze dne 29. 8. 2013 sp. zn. 29 Cdo 2488/2013, popř. usnesení Nejvyššího soudu ze dne 25. 9. 2013 sp. zn. 29 Cdo 2394/2013, které bylo uveřejněno pod č. 4 ve Sbírce soudních rozhodnutí a stanovisek, roč. 2014), a v dovolacím řízení proto nelze pokračovat. Nepostačí přitom konstatování, že se dovolatel domnívá, že se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu, ale musí být označena konkrétní rozhodnutí, od nichž se odvolací soud odchýlil. Taktéž v případě, že se dovolatel domnívá, že již vyřešená právní otázka má být vyřešena jinak, musí označit rozhodnutí, které má podle jeho názoru dovolací soud přehodnotit (srov. usnesení Nejvyššího soudu ze dne 23. 7. 2013, sp. zn. 25 Cdo 1559/2013, nebo usnesení Nejvyššího soudu ze dne 29. 8. 2013, sp. zn. 29 Cdo 2488/2013, proti němuž podaná ústavní stížnost byla odmítnuta usnesením Ústavního soudu ze dne 21. 1. 2014, sp. zn. I. ÚS 3524/13).
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 věta druhá o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 13. července 2016
+JUDr. Lubomír Ptáček, Ph.D.
+předseda senátu
