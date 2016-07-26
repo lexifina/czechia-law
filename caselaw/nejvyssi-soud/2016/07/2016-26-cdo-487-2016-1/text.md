@@ -1,0 +1,13 @@
+26 Cdo 487/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu JUDr. Jitkou Dýškovou v právní věci žalobkyně P. T., proti žalovanému J. Č., o obnovu řízení o vyklizení bytu, vedené u Okresního soudu v Šumperku pod sp. zn. 15 C 78/2007, o dovolání žalovaného proti usnesení Krajského soudu v Ostravě – pobočky v Olomouci ze dne 29. 10. 2015, č. j. 12 Co 398/2015-388, takto:
+Dovolací řízení se zastavuje.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky řízení o dovolání žalovaného proti usnesení Krajského soudu v Ostravě – pobočky v Olomouci ze dne 29. 10. 2015, č. j. 12 Co 398/2015-388, jímž bylo potvrzeno usnesení Okresního soudu v Šumperku ze dne 28. 7. 2015, č. j. 15 C 78/2007
+-375, kterým tento soud žalovanému nepřiznal osvobození od soudních poplatků a zamítl jeho žádost o ustanovení zástupce pro řízení o dovolání proti usnesení odvolacího soudu ze dne 28. 11. 2014, č. j. 12 Co 586/2014-353, podle ustanovení § 241b odst. 2 a § 104 odst. 2 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2013 (srov. čl. II bod 2. zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, zastavil, neboť dovolatel nesplnil podmínku povinného zastoupení v dovolacím řízení (§ 241 o. s. ř.), ačkoli k tomu byl Nejvyšším soudem České republiky vyzván usnesením ze dne 7. 4. 2016, č. j. 26 Cdo 487/2016-415, ve spojení s usnesením ze dne 31. 5. 2016, č. j. 26 Cdo 487/2016-423.
+Vzhledem k tomu, že se žalovaný opakovaně domáhá ustanovení zástupce z řad advokátů, dovolací soud sám posoudil, zda splňuje předpoklady uvedené v ustanovení § 30 a § 138 o. s. ř. (srov. usnesení Nejvyššího soudu ze dne 8. 4. 2015, sen. zn. 31 NSCR 9/2015, uveřejněné pod č. 78/2015 Sbírky soudních rozhodnutí a stanovisek), přičemž – s přihlédnutím k obsahu spisu – sdílí názor, který odvolací soud (i soud prvního stupně) přijal v napadeném usnesení, že ze strany dovolatele jde o zřejmě bezúspěšné uplatňování práva (srov. usnesení Nejvyššího soudu ze dne 26. 2. 2014, sp. zn. 21 Cdo 987/2013, publikované pod číslem 67/2014 Sbírky soudních rozhodnutí a stanovisek), a není proto důvod ustanovit mu advokáta pro dovolací řízení.
+O nákladech dovolacího řízení dovolací soud nerozhodoval (srov. usnesení Nejvyššího soudu ze dne 23. 7. 2002, sp. zn. 20 Cdo 970/2001, uveřejněné pod číslem 48/2003 Sbírky soudních rozhodnutí a stanovisek).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. července 2016
+JUDr. Jitka Dýšková
+předsedkyně senátu
