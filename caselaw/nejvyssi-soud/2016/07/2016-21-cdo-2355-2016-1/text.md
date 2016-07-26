@@ -1,0 +1,14 @@
+21 Cdo 2355/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Zdeňka Novotného a soudců JUDr. Ljubomíra Drápala a JUDr. Lubomíra Ptáčka, Ph.D. v právní věci žalobce A. H., zastoupeného JUDr. Ladislavem Piterkou, advokátem se sídlem v Ostravě-Vítkovicích, Ruská č. 2887/101, proti žalované Dobré stavby, s.r.o., se sídlem v Ostravě-Kunčicích, Serafinova č. 396/9, IČO 258 28 495, zastoupené JUDr. Irenou Hučkovou, advokátkou se sídlem v Ostravě-Mariánské Hory, 28. října č. 434/211, o náhradu škody, za účasti Kooperativy pojišťovny, a.s., Vienna Insurance Group, se sídlem v Praze 8, Pobřežní č. 665/21, IČO 471 16 617, jako vedlejšího účastníka na straně žalované, vedené u Okresního soudu v Ostravě pod sp. zn. 26 C 93/2012, o dovolání žalobce proti rozsudku Krajského soudu v Ostravě ze dne 16. prosince 2015 č.j. 16 Co 200/2015-250, takto:
+I. Dovolání žalobce se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í (§ 243f odst. 3 o. s. ř.):
+Dovolání žalobce proti rozsudku Krajského soudu v Ostravě ze dne 16.12.2015 č.j. 16 Co 200/2015-250 není přípustné podle ustanovení § 237 o.s.ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu (srov. k otázce předpokladů odpovědnosti zaměstnavatele za pracovní úraz například odůvodnění rozsudku Nejvyššího soudu ze dne 2.7.2009 sp. zn. 21 Cdo 2031/2008, k otázce liberace zaměstnavatele z této odpovědnosti například odůvodnění rozsudku Nejvyššího soudu ze dne 11.9.2013 sp. zn. 21 Cdo 2907/2012, usnesení Nejvyššího soudu ze dne 4.3.2009 sp. zn. 21 Cdo 576/2008, rozsudku Nejvyššího soudu ze dne 14.8.2014 sp. zn. 21 Cdo 2886/2013 a usnesení Nejvyššího soudu ze dne 17.9.2015 sp. zn. 21 Cdo 268/2015) a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+Namítá-li dovolatel, že rozsudek odvolacího soudu byl „překvapivým, nepředvídatelným rozhodnutím“, potom pomíjí, že rozhodnutí odvolacího soudu může být pro účastníka nepředvídatelné jen tehdy, kdyby odvolací soud při svém rozhodování přihlížel k něčemu jinému, než co bylo tvrzeno nebo jinak vyšlo najevo za řízení před soudem prvního stupně nebo co za odvolacího řízení uplatnili účastníci, tedy, jinak řečeno, jen kdyby vzal v úvahu něco jiného, než co je známo také účastníkům řízení (srov. rozsudek Nejvyššího soudu ze dne 16. 12. 2010 sp. zn. 21 Cdo 1037/2009). O takový případ se však v projednávané věci - jak je zřejmé z obsahu spisu a z napadeného rozsudku – nejedná.
+Nejvyšší soud České republiky proto dovolání žalobce podle ustanovení § 243c odst. 1 věty první o.s.ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. července 2016
+JUDr. Zdeněk Novotný
+předseda senátu
