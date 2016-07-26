@@ -1,0 +1,14 @@
+21 Cdo 1684/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Zdeňka Novotného a soudců JUDr. Ljubomíra Drápala a JUDr. Lubomíra Ptáčka, Ph.D. v právní věci žalobkyně Mgr. L. N., zastoupené Mgr. Alenou Šlajsovou, advokátkou se sídlem v Chrudimi, Havlíčkova č. 147, proti žalované Traťové strojní společnosti, a.s., se sídlem v Ostravě - Přívoze, Na Valše č. 676/18, IČO 049 46 685, jako právní nástupkyni původní žalované Traťové strojní společnosti, a.s., se sídlem v Ostravě - Přívoze, Na Valše č. 676/18, IČO 274 67 295, zastoupené Mgr. Karlem Ležatkou, advokátem se sídlem v Ostravě - Moravské Ostravě, 28. října č. 1610/95, o 74.690 Kč s příslušenstvím, vedené u Okresního soudu v Hradci Králové pod sp. zn. 117 C 91/2011, o dovolání žalované proti rozsudku Krajského soudu v Hradci Králové ze dne 9. prosince 2015 č.j. 21 Co 404/2015-559, takto:
+I. Dovolání žalované se odmítá.
+II. Žalovaná je povinna zaplatit žalobkyni na náhradě nákladů dovolacího řízení 5.960,- Kč do tří dnů od právní moci tohoto usnesení k rukám Mgr. Aleny Šlajsové, advokátky se sídlem v Chrudimi, Havlíčkova č. 147.
+S t r u č n é o d ů v o d n ě n í (§ 243f odst. 3 o.s.ř.):
+Dovolání žalované proti rozsudku Krajského soudu v Hradci Králové ze dne 9.12.2015 č. j. 21 Co 404/2015-559 není přípustné podle ustanovení § 237 o.s.ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu [k otázce tvrzení (břemeno tvrzení), že práce přesčas evidovaná zaměstnancem neodpovídá skutečnosti srov. např. právní názor vyslovený v rozsudku Nejvyššího soudu ze dne 20.12.2012 sp. zn. 21 Cdo 3989/2011, který byl uveřejněn pod č. 46 ve Sbírce soudních rozhodnutí a stanovisek, roč. 2013 a v rozsudku Nejvyššího soudu ze dne 28.1.2016 sp. zn. 21 Cdo 4166/2015, k otázce práva soudu určit výši nároku zaměstnance na odměnu za práci přesčas podle své úvahy ve smyslu ustanovení § 136 o.s.ř. srov. např. rozsudek Nejvyššího soudu ze dne 9.12.2010 č. j. 21 Cdo 2878/2009] a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+V části dovolání žalovaná uplatnila jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o.s.ř. (žalovaná zpochybňuje skutková zjištění, z nichž rozsudek odvolacího soudu vychází, nesouhlasí s tím, ke kterým důkazům odvolací soud přihlížel a jak tyto důkazy hodnotil, a vytýká odvolacímu soudu, že nevzal v úvahu všechny skutkové okolnosti, které jsou podle jejího názoru pro posouzení věci významné), a proto dovolání trpí vadami, pro které nelze v dovolacím řízení pokračovat.
+Nejvyšší soud České republiky proto dovolání žalované podle ustanovení § 243c odst. 1 věty první o.s.ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 26. července 2016
+JUDr. Zdeněk Novotný
+předseda senátu
