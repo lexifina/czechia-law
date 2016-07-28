@@ -1,0 +1,30 @@
+{
+  "record_type": "case-law",
+  "court": "Nejvyšší soud České republiky",
+  "date": "2016-07-28",
+  "date_basis": "Official NS database (Rozhodnutí a stanoviska Nejvyššího soudu): Datum rozhodnutí 28. 7. 2016 (decision date).",
+  "ecli": "ECLI:CZ:NS:2016:23.CDO.2907.2014.1",
+  "docket": "23 Cdo 2907/2014",
+  "decision_type": "Rozsudek",
+  "source": "https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/WebSearch/4C80F01CDEB3E807C12580480047312E?openDocument",
+  "source_sha256": "c149b75704aef433e13575bfd6b5eeddedb25ef6e3a887c3cb2e3a48554a2eff",
+  "source_unid": "4C80F01CDEB3E807C12580480047312E",
+  "text_status": "as-published (pseudonymised by the court)",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "fields": {
+    "Právní věta": "Jestliže strany uzavřely smlouvu o podřízenosti pohledávek, v níž se dohodly, že některé pohledávky mají být uspokojeny až po splnění jiného dluhu dlužníka, nemůže se věřitel podřízené pohledávky domáhat jejího uspokojení před splněním podmínek sjednaných ve smlouvě o podřízenosti pohledávek.",
+    "Soud": "Nejvyšší soud",
+    "Datum rozhodnutí": "28. 7. 2016",
+    "Spisová značka": "23 Cdo 2907/2014",
+    "ECLI": "ECLI:CZ:NS:2016:23.CDO.2907.2014.1",
+    "Typ rozhodnutí": "ROZSUDEK",
+    "Heslo": "Smlouva nepojmenovaná (inominátní)",
+    "Dotčené předpisy": "§ 51 obč. zák.\n§ 269 odst. 2 obch. zák.",
+    "Kategorie rozhodnutí": "A",
+    "Zveřejněno na webu": "10. 10. 2016",
+    "Publikováno ve sbírce pod číslem": "128 / 2017",
+    "Anotace": "Žalobce se po žalovaném domáhal plnění ze smlouvy o půjčce. Jelikož však mezi nimi a bankou, druhým věřitelem žalovaného, došlo i k uzavření dohody ve znění, že závazek ze smlouvy o půjčce bude žalobci plněn až po uhrazení úvěru poskytnutého žalovanému bankou, zabýval se Nejvyšší soud dosud v rozhodovací praxi neřešenou otázkou právních důsledků vyvolaných zmíněnou dohodou o podřízenosti pohledávek uzavřenou mezi věřitelem ze smlouvy o půjčce, věřitelem ze smlouvy o úvěru a dlužníkem."
+  }
+}
