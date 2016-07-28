@@ -1,0 +1,14 @@
+25 Cdo 2506/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Vojtka a soudců JUDr. Marty Škárové a JUDr. Roberta Waltra v právní věci žalobkyně GERIMO s.r.o., se sídlem v Táboře, U Bechyňské dráhy 2932, IČO 25286595, zastoupené JUDr. Mojmírem Ježkem, Ph.D., advokátem se sídlem v Praze 1, Betlémské náměstí 6, proti žalovanému Mysliveckému spolku Háj Košetice, se sídlem v Košeticích č. 350, IČO 27031888, zastoupenému JUDr. Jiřím Kozákem, advokátem se sídlem v Pelhřimově, Příkopy 25, o 74.272,- Kč s příslušenstvím, vedené u Okresního soudu v Pelhřimově pod sp. zn. 1 C 226/2014 o dovolání žalobkyně proti rozsudku Krajského soudu v Českých Budějovicích – pobočky v Táboře ze dne 2. 10. 2015, č. j. 15 Co 418/2015-259, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalobkyně proti rozsudku Krajského soudu v Českých Budějovicích – pobočky v Táboře ze dne 2. 10. 2015, č. j. 15 Co 418/2015-259, není přípustné podle § 238 odst. 1 písm. c) o. s. ř., neboť napadeným výrokem bylo rozhodnuto o samostatných peněžitých nárocích, přičemž výše žádného z nich nepřesahuje zákonem stanovený limit 50.000,- Kč.
+Žalobkyně podává dovolání ve sporu o náhradu škody na lesních porostech způsobené okusem lesní zvěří, nejde tedy o vztah spotřebitelský ani pracovněprávní, který by zákonné omezení vylučoval. Dovolání směřuje proti výroku, jímž odvolací soud rozhodl o peněžitém plnění v celkové výši 60.844,- Kč s příslušenstvím, které se skládá z jednotlivých dílčích nároků. Jde jednak o škodu za zničení lesního porostu ve výši 22.676,- Kč (výrok o původní částce ve výši 28.676,- Kč nebyl v rozsahu 6.000,- Kč napaden odvoláním), jednak o náhradu nákladů za mimořádná nebo nákladově náročnější opatření – cenu za vypracování znaleckého posudku ve výši 38.168,- Kč; výrok o náhradě škody za snížení přírůstku lesního porostu ve výši 7.428,- Kč nebyl rovněž předmětem odvolacího přezkumu. Vzhledem k samostatné povaze těchto nároků se i otázka přípustnosti dovolání posuzuje samostatně, a jelikož jednotlivé částky nepřesahují zákonný limit 50.000,- Kč, nebyl splněn jeden ze zákonných požadavků pro připuštění věci k dovolacímu přezkumu.
+Nejvyšší soud proto dovolání žalobkyně podle § 243c odst. 1 věty první o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle § 243c odst. 3 věty první, § 224 odst. 1 a § 142 odst. 1 o. s. ř., neboť žalobkyně s ohledem na výsledek dovolacího řízení nemá na náhradu nákladů řízení právo a vyjádření žalovaného k dovolání, jež je objektivně nepřípustné, nelze v dané věci považovat za účelně vynaložené náklady k bránění práva.
+Proti tomuto rozhodnutí není opravný prostředek přípustný.
+V Brně dne 28. července 2016
+JUDr. Petr Vojtek
+předseda senátu
