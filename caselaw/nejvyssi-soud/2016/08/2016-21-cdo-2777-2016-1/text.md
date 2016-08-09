@@ -1,0 +1,14 @@
+21 Cdo 2777/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Ljubomírem Drápalem v právní věci žalobce M. D., zastoupeného JUDr. Ivem Hamou, advokátem se sídlem v Krnově, nám. Minoritů č. 89/13, proti žalovanému P. D., zastoupenému JUDr. Ing. Danielem Tabachem, advokátem se sídlem v Krnově, Hlavní náměstí č. 104/29, o určení neplatnosti okamžitého zrušení pracovního poměru a o vzájemné žalobě o 342.904,- Kč s příslušenstvím, vedené u Okresního soudu v Bruntále pod sp. zn. 11 C 67/2014, o dovolání žalobce proti rozsudku Krajského soudu v Ostravě ze dne 10. února 2016 č.j. 16 Co 243/2015-153, takto:
+I. Dovolání žalobce se odmítá.
+II. Žalobce je povinen zaplatit žalovanému na náhradě nákladů dovolacího řízení 2.800,- Kč do tří dnů od právní moci tohoto usnesení k rukám JUDr. Ing. Daniela Tabacha, advokáta se sídlem v Krnově, Hlavní náměstí č. 104/29.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Rozsudek Krajského soudu v Ostravě ze dne 10.2.2016 č.j. 16 Co 243/2015-153 byl zástupci žalobce (advokátovi JUDr. Ivu Hamovi) doručen dne 23.2.2016 a dvouměsíční lhůta k podání dovolání žalobci uplynula (ve smyslu ustanovení § 57 odst. 2 věty druhé o.s.ř.) dnem 25.4.2016. Dovolání žalobce, které bylo podáno do datové schránky soudu prvního stupně dne 22.4.2016, neobsahovalo náležitosti předepsané ustanovením § 241a odst. 2 o.s.ř., zejména pak vymezení důvodu dovolání způsobem předepsaným v ustanovení § 241a odst.3 o.s.ř.
+Dovolání, které neobsahuje vymezení důvodu dovolání, je vadné a podle ustanovení § 241b odst. 3 o.s.ř. dovolatel může takovou vadu odstranit z vlastní iniciativy nebo na výzvu soudu jen do uplynutí lhůty k dovolání. Marným uplynutím této propadné (prekluzivní) lhůty se původně odstranitelné vady dovolání stávají neodstranitelnými (srov. například usnesení Nejvyššího soudu ze dne 18.6.2003 sp. zn. 29 Odo 108/2002, uveřejněné pod č. 21 ve Sbírce soudních rozhodnutí a stanovisek, roč. 2004, nebo usnesení Nejvyššího soudu ze dne 27.1.2005 sp. zn. 29 Odo 1060/2003, uveřejněné pod č. 31 v časopise Soudní judikatura, roč. 2005).
+Dovolání žalobce bylo doplněno podáním, které učinil jeho zástupce advokát JUDr. Ivo Hama a které bylo doručeno do datové schránky soudu prvního stupně dne 9.5.2016, tedy až po marném uplynutí lhůty uvedené v ustanovení § 241b odst. 3 o.s.ř. Protože marným uplynutím dovolací lhůty se uvedená vada dovolání stala neodstranitelnou a protože v důsledku toho dovolání trpí vadou, pro kterou nelze v dovolacím řízení pokračovat, Nejvyšší soud České republiky dovolání žalobce podle ustanovení § 243c odst. 1 věty první o.s.ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 9. srpna 2016
+JUDr. Ljubomír Drápal
+předseda senátu
