@@ -1,0 +1,15 @@
+30 Cdo 3423/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Františkem Ištvánkem ve věci žalobců A-ZETES, s. r. o "v likvidaci", identifikační číslo osoby 251 25 664, se sídlem v Praze 5 - Radotín, Karlická 910/49, Z. S., a V. S., proti žalovaným České republice – Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 6, a Úřadu pro zastupování státu ve věcech majetkových, se sídlem v Praze 2, Rašínovo nábřeží 390/42, o o náhradu škody, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 18 C 289/2010, o dovolání žalobců proti rozsudku Městského soudu v Praze ze dne 17. 8. 2015, č. j. 20 Co 295/2015-425, takto:
+I. Řízení o dovolání žalobce se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Městský soud v Praze v záhlaví uvedeným usnesením potvrdil usnesení soudu prvního stupně ze dne 12. 6. 2015, č. j. 18 C 289/2010-499, jímž byla zamítnuta žádost žalobců na ustanovení advokáta pro dovolací řízení ve věci samé. V dovolání žalobce uvedl, že bylo sepsáno JUDr. Tomášem Markem, advokátem, ustanoveným Českou advokátní komorou „pro ústavní stížnost, když po podání ústavní stížnosti bylo doručeno rozhodnutí Městského soudu v Praze 20 Co 295/2015 z 17. 8. 2015, kterým je umožněno dovolání ve věci.“ K dovolání však nebyla připojena plná moc, a to ani na výzvu obvodního soudu, dovolání nebylo advokátem podepsáno. Nelze přisvědčit názoru dovolatelů, že výše uvedený advokát je bez dalšího zmocněn i k podání dovolání, jelikož (jak sami dovolatelé uvedli) byl advokát ustanoven pouze pro podání ústavní stížnosti.
+S ohledem na žádost dovolatelů zhodnotil dovolací soud jejich žádost o ustanovení zástupce i z hlediska usnesení Nejvyššího soudu ze dne 8. 4. 2015, sp. zn. 31 NSČR 9/2015, podle kterého dospěje-li Nejvyšší soud jako soud dovolací k závěru, že v řízení o dovolání účastníka, jenž není zastoupen advokátem, ani nemá sám odpovídající právnické vzdělání, proti usnesení, jímž odvolací soud nevyhověl (ve spojení s usnesením soudu prvního stupně) žádosti účastníka o ustanovení zástupce pro řízení o dovolání proti rozhodnutí odvolacího soudu ve věci samé, jsou ve smyslu § 30 o. s. ř. splněny předpoklady pro ustanovení zástupce z řad advokátů, pak tohoto zástupce dovolateli sám ustanoví. V opačném případě, tedy dospěje-li dovolací soud k závěru, že nejsou splněny předpoklady pro ustanovení zástupce z řad advokátů, je to důvodem pro zastavení dovolacího řízení (§ 104 odst. 2, § 241 a § 241b odst. 2 o. s. ř.).
+Vzhledem ke skutkovým zjištěním soudů obou stupňů se lze ztotožnit s jejich hodnocením žádosti dovolatelů ve smyslu § 30 odst. 1 o. s. ř. a z toho důvodu nebyl dovolatelům Nejvyšším soudem zástupce z řad advokátů ustanoven.
+Dovolací soud řízení o dovolání žalobce podle ustanovení § 241b odst. 2 a § 104 odst. 2 o. s. ř. zastavil, neboť dovolatel nesplnil podmínku povinného zastoupení v dovolacím řízení (§ 241 o. s. ř.).
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 9. 8. 2016
+JUDr. František Ištvánek
+předseda senátu
