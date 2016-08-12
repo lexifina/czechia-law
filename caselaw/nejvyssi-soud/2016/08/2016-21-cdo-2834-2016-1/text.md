@@ -1,0 +1,13 @@
+21 Cdo 2834/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Zdeňka Novotného a soudců JUDr. Ljubomíra Drápala a JUDr. Lubomíra Ptáčka, Ph.D. v právní věci žalobkyně Ing. E. T., zastoupené Mgr. Daliborem Kubou, advokátem se sídlem v Opavě, Dolní náměstí č. 117/3, proti žalované BYTTEK BOHUMÍN a.s., se sídlem v Bohumíně, Bezručova č. 300, IČO 268 77 091, zastoupené Mgr. Martinem Ostrihoněm, advokátem se sídlem v Ostravě, Poděbradova č. 2738/16, o 34.464 Kč s příslušenstvím, vedené u Okresního soudu v Karviné pod sp. zn. 25 C 37/2015, o dovolání žalované proti rozsudku Krajského soudu v Ostravě ze dne 2. února 2016 č.j. 16 Co 230/2015-59, takto:
+I. Dovolání žalované se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalované proti rozsudku Krajského soudu v Ostravě ze dne 2.2.2016 č.j. 16 Co 230/2015-59 není přípustné podle ustanovení § 237 o.s.ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu [k otázce povahy vztahu mezi zaměstnancem a zaměstnavatelem poté, co se zaměstnanec vzdal svého pracovního místa srov. např. rozsudek Nejvyššího soudu ze dne 23.4.2015 sp. zn. 21 Cdo 1659/2014, k povaze vztahu zaměstnance, který se vzdal funkce a k rozhodnému období pro výpočet průměrného výdělku při obsahově nezměněné právní úpravě srov. např. rozsudek Nejvyššího soudu ze dne 29.7.2010 sp. zn. 21 Cdo 1474/2009, publikovaný v časopise Soudní judikatura pod č. 53, roč. 2011, k otázce nároku zaměstnance na náhradu mzdy při vzdání se funkce srov. rozsudek Nejvyššího soudu ze dne 8.11.2006 sp. zn. 21 Cdo 2740/2005, k otázce výpočtu náhrady mzdy též srov. obdobně odvolacím soudem zmiňovaný rozsudek Nejvyššího soudu ze dne 31.5.2002 sp. zn. 21 Cdo 991/2001. K namítané otázce rozporu s dobrými mravy v pracovněprávních vztazích pak srov. např. právní názor vyjádřený v rozsudku Nejvyššího soudu ze dne 26.6.1997 sp. zn. 3 Cdon 69/96, publikovaný v časopise Soudní judikatura pod č. 62, roč. 1997, v rozsudku Nejvyššího soudu ze dne 28.6.2000 sp. zn. 21 Cdo 992/99, publikovaný v časopise Soudní judikatura pod č. 126, roč. 2000 a v rozsudku Nejvyššího soudu ze dne 18.9.2015 sp. zn. 21 Cdo 1202/2014] a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+Nejvyšší soud České republiky proto dovolání žalované podle ustanovení § 243c odst. 1 věty první o.s.ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 12. srpna 2016
+JUDr. Zdeněk Novotný
+předseda senátu
