@@ -1,0 +1,13 @@
+21 Cdo 3069/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zdeňka Novotného a soudců JUDr. Ljubomíra Drápala a JUDr. Lubomíra Ptáčka, Ph.D. v právní věci žalobkyně E. S., zastoupené JUDr. Věrou Bognárovou, advokátkou se sídlem v Praze 2, Oldřichova č. 299/23, proti žalovanému Městu Louny, se sídlem městského úřadu v Lounech, Mírové náměstí č. 35, IČO 002 65 209, zastoupenému JUDr. Karlem Davidem, advokátem se sídlem v Lounech, Sladkovského č. 1640, o neplatnost výpovědi z pracovního poměru, vedené u Okresního soudu v Lounech pod sp. zn. 1 C 252/2013, o dovolání žalovaného proti rozsudku Krajského soudu v Ústí nad Labem ze dne 16. března 2016, č. j. 84 Co 959/2015-160, takto:
+I. Dovolání žalovaného se odmítá.
+II. Žalovaný je povinen zaplatit žalobkyni na náhradě nákladů dovolacího řízení 3.388,- Kč do 3 dnů od právní moci tohoto usnesení k rukám JUDr. Věry Bognárové, advokátky se sídlem v Praze 2, Oldřichova č. 299/23.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Nejvyšší soud České republiky dovolání žalovaného proti rozsudku Krajského soudu v Ústí nad Labem ze dne 16.3.2016 č. j. 84 Co 959/2015-160 podle ustanovení § 243c odst. 1 věty první o.s.ř. odmítl, neboť v něm byl uplatněn jiný dovolací důvod [dovolatel zpochybňuje skutková zjištění, na nichž odvolací soud založil svůj závěr o tom, že v této věci závažné porušení povinnosti vyplývající z právních přepisů vztahujících se k zaměstnancem vykonávané práci podle § 52 písm. g) zák. práce ze strany žalobkyně prokázáno nebylo], než který je uveden v ustanovení § 241a odst. 1 o.s.ř., a v dovolacím řízení nelze pro tento nedostatek pokračovat.
+Dovolání žalovaného není také přípustné podle ustanovení § 237 o.s.ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu (srov. například odůvodnění rozsudku Nejvyššího soudu ze dne 19.1.2000 sp. zn. 21 Cdo 1228/99, uveřejněný ve Sbírce soudních rozhodnutí a stanovisek roč. 2001, pod č. 21, rozsudku Nejvyššího soudu ze dne 6.3.2013 sp. zn. 21 Cdo 1405/2012, rozsudku Nejvyššího soudu ze dne 18.7.2013 sp. zn. 21 Cdo 3325/2012 a rozsudku Nejvyššího soudu ze dne 2.9.2015 sp. zn. 21 Cdo 3840/2014, vše k otázce intenzity porušení povinnosti vyplývající z právních přepisů vztahujících se k zaměstnancem vykonávané práci; vymezení hypotézy právní normy závisí v každém konkrétním případě na úvaze soudu) a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 12. srpna 2016
+JUDr. Zdeněk Novotný
+předseda senátu
