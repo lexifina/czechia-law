@@ -1,0 +1,13 @@
+20 Cdo 3336/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Zbyňkem Polednou v právní věci oprávněného L. P., zastoupeného obecnou zmocněnkyní A. J., proti povinnému L. P., zastoupenému JUDr. Tomášem Těmínem, Ph. D., advokátem se sídlem v Praze 2, Karlovo náměstí č. 559/28, výkonu rozhodnutí srážkami ze mzdy povinného, pro dlužné výživné ve výši 98 000 Kč a pro běžné výživné ve výši 5 500 Kč měsíčně, vedené u Okresního soudu v Mělníku pod sp. zn. 21 E 143/2013, o dovolání povinného proti usnesení Krajského soudu v Praze ze dne 27. října 2015, č. j. 25 Co 421/2015-137, takto:
+I. Dovolání povinného se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud dovolání povinného proti usnesení Krajského soudu v Praze ze dne 27. října 2015, č. j. 25 Co 421/2015-137, kterým změnil usnesení Okresního soudu v Mělníku ze dne 15. července 2015, č. j. 21 E 143/2013-107, tak, že exekuce nařízená usnesením téhož soudu ze dne 27. listopadu 2013, č. j. 21 E 143/2013-4, se nezastavuje, podle ustanovení § 243c odst. 1 věty první zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. ledna 2014 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, odmítl, neboť dovolání nesplňuje obligatorní náležitosti dovolání uvedené v ustanovení § 241a odst. 2 o. s. ř., když především neobsahuje údaj o tom, v čem přesně dovolatel spatřuje splnění předpokladů přípustnosti dovolání. Dovolatel sice odkazuje na tři rozhodnutí Nejvyššího soudu a namítá, že odvolací soud posuzovanou věc rozhodl v rozporu s těmito rozhodnutími, uvedená rozhodnutí však na uvedenou věc nedopadají, neboť se týkají situace, kdy výkon rozhodnutí byl nařízen, ačkoliv se exekuční titul doposud nestal formálně vykonatelný.
+I když dovolatel zpochybnil právní závěr odvolacího soudu o vykonatelnosti exekučních titulů, učinil tak nepřípustným způsobem; závěr o jejich vykonatelnosti založil na vlastních skutkových zjištěních odlišných od zjištění, k nimž dospěl soud odvolací. Podstatou námitek dovolatele tudíž není nesprávné právní posouzení, nýbrž toliko nesouhlas dovolatele se skutkovými závěry odvolacího soudu, který představuje jiný dovolací důvod než ten, který je uveden v ustanovení § 241a odst. 1 o. s. ř. V dovolacím řízení proto nelze pokračovat.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 12. 8. 2016
+JUDr. Zbyněk Poledna
+předseda senátu
