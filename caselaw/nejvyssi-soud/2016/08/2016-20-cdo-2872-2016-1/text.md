@@ -1,0 +1,11 @@
+20 Cdo 2872/2016
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy senátu JUDr. Zbyňka Poledny a soudců JUDr. Miroslavy Jirmanové, Ph.D., a JUDr. Vladimíra Kůrky v exekuční věci oprávněného soudního exekutora Mgr. R. B., Exekutorský úřad Praha 10, se sídlem v Praze 10, Na Plískavě č. 1525/2, zastoupeného Mgr. Ondřejem Malinou, advokátem se sídlem v Praze 7, Komunardů č. 1091/36, proti povinné B. S., zastoupené Mgr. Tomášem Troupem, advokátem se sídlem v Praze 9, Rubeška č. 393/7, o návrhu na vyslovení neúčinnosti doručení, vedené u Okresního soudu Plzeň-město pod sp. zn. 75 EXE 2236/2012, o dovolání povinné proti usnesení Krajského soudu v Plzni ze dne 29. září 2015, č. j. 11 Co 361/2015-142, takto:
+Dovolání povinné se odmítá.
+S t r u č n é o d ů v o d n ě n í (§ 243f odst. 3 o. s. ř.) :
+Dovolání povinné proti usnesení Krajského soudu v Plzni ze dne 29. září 2015, č. j. 11 Co 361/2015-142, není přípustné podle ustanovení § 237 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. prosince 2013 (srov. čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu [k otázce neúčinnosti doručení v případě, kdy se fyzická osoba trvale nezdržuje na doručovací adrese srov. například usnesení Nejvyššího soudu ze dne 30. října 2014, sp. zn. 29 Cdo 597/2014, usnesení Nejvyššího soudu ze dne 14. září 2015, sp. zn. 21 Cdo 30/2015, které bylo publikováno ve Sbírce soudních rozhodnutí a stanovisek pod č. 63/2016, usnesení Nejvyššího soudu ze dne 27. ledna 2016, sp. zn. 33 Cdo 1670/2015, usnesení Nejvyššího soudu ze dne 27. ledna 2016, sp. zn. 20 Cdo 3187/2015, jakož i rozhodnutí v uvedených citovaná] a není důvod, aby rozhodná právní otázka byla posouzena jinak. Nejvyšší soud proto dovolání povinné podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu [§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění pozdějších předpisů].
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 12. 8. 2016
+JUDr. Zbyněk Poledna
+předseda senátu
