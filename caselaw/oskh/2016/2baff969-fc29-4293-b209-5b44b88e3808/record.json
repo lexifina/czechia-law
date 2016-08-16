@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kutné Hoře",
+  "ecli": "ECLI:CZ:OSKH:2016:7.C.161.2016.1",
+  "docket": "7 C 161/2016-28",
+  "date": "2016-08-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2baff969-fc29-4293-b209-5b44b88e3808",
+  "source_sha256": "0b601e85d0a3fb1adfbe3fa78985ffedfe6bf87b40c1210435d1be7f7480320d",
+  "source_id": "2baff969-fc29-4293-b209-5b44b88e3808",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 161/2016-28",
+    "soud": "Okresní soud v Kutné Hoře",
+    "autor": "JUDr. Dagmar Grenarová",
+    "ecli": "ECLI:CZ:OSKH:2016:7.C.161.2016.1",
+    "predmetRizeni": "o zaplacení 6.433 Kč s přísl.",
+    "datumVydani": "2016-08-16",
+    "datumZverejneni": "2021-11-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2baff969-fc29-4293-b209-5b44b88e3808"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
