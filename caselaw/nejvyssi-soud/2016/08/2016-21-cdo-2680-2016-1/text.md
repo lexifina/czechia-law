@@ -1,0 +1,14 @@
+21 Cdo 2680/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a JUDr. Zdeňka Novotného v právní věci žalobce J. M., zastoupeného JUDr. Dominikem Brůhou, Ph.D., advokátem se sídlem v Praze 3, Koněvova č. 1107/54, proti žalovanému MAROLUX spol. s r. o. se sídlem v Praze 8 – Dolní Chabry, Dopraváků č. 3, IČO 44795220, zastoupenému JUDr. Martinem Grubnerem, advokátem se sídlem v Praze 1, Washingtonova č. 1599/17, o neplatnost okamžitého zrušení pracovního poměru, vedené u Obvodního soudu pro Prahu 8 pod sp. zn. 10 C 184/2007, o dovolání žalovaného proti rozsudku Městského soudu v Praze ze dne 6. října 2015, č. j. 35 Co 189/2009-487, ve spojení s usnesením ze dne 22. října 2015, č. j. 35 Co 189/2009-491, a s usnesením ze dne 24. listopadu 2015, č. j. 35 Co 189/2009-497, takto:
+I. Dovolání žalovaného se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalovaného proti rozsudku Městského soudu v Praze ze dne 6. 10. 2015, č. j. 35 Co 189/2009-487, ve spojení s usnesením ze dne 22. 10. 2015, č. j. 35 Co 189/2009-491 a usnesením ze dne 24. 11. 2015, č. j. 35 Co 189/2009-497, není přípustné podle ustanovení § 237 o. s. ř., neboť rozhodnutí odvolacího soudu je v souladu se závazným právním názorem dovolacího soudu, který byl - přímo v této věci - vyjádřen v předchozím rozsudku Nejvyššího soudu ze dne 26. 5. 2015, č. j. 21 Cdo 1424/2014-461 (§ 243g odst. 1 část věty první za středníkem, § 226 odst. 1 o. s. ř.), a s ustálenou rozhodovací praxí dovolacího soudu [srov. právní názor vyjádřený v rozsudku býv. Nejvyššího soudu ČSR ze dne 30. 3. 1979, sp. zn. 5 Cz 12/79, uveřejněném pod č. 31/1980 Sbírky soudních rozhodnutí a stanovisek, rozsudek Nejvyššího soudu ze dne 10. 10. 2006, sp. zn. 21 Cdo 2779/2005, rozsudek Nejvyššího soudu ze dne 17. 1. 2012, sp. zn. 21 Cdo 3805/2010, nebo rozsudek Nejvyššího soudu ze dne 18. 10. 2010, sp. zn. 21 Cdo 266/2009, uveřejněný pod č. 85/2011 v časopise Soudní judikatura] a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+V části, v níž dovolatel uplatnil jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o. s. ř. (zpochybňuje-li skutková zjištění, která byla pro právní posouzení věci odvolacím soudem rozhodující, vznáší-li výhrady proti hodnocení důkazů odvolacím soudem a předestírá-li opačné skutkové závěry, na nichž buduje své vlastní a od odvolacího soudu odlišné právní posouzení věci), dovolání trpí vadami, pro které nelze v dovolacím řízení pokračovat.
+Nejvyšší soud České republiky proto dovolání žalovaného podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 17. srpna 2016
+JUDr. Mojmír Putna
+předseda senátu
