@@ -1,0 +1,15 @@
+23 Nd 161/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Kateřiny Hornochové a soudců JUDr. Zdeňka Dese a JUDr. Ing. Pavla Horáka, Ph.D., ve věci žalobkyně Guaranteed investment a.s., se sídlem Hlinky 138/27, Staré Brno, 603 00 Brno, identifikační číslo osoby 03312682, zastoupené JUDr. Janem Havlíčkem, advokátem se sídlem Jihlava, Masarykovo náměstí 110, proti žalované Rezidence SUPERIOR, s.r.o., se sídlem Bystrc č. ev. 138, 635 00 Brno, identifikační číslo osoby 02122758, ve věci o nahrazení projevu vůle, vedené u Okresního soudu Plzeň-jih pod sp. zn. 6 C 71/2016, o návrhu na přikázání věci jinému soudu z důvodu vhodnosti, takto:
+Věc vedená u Okresního soudu Plzeň-jih pod sp. zn. 6 C 71/2016 se nepřikazuje Městskému soudu v Brně.
+Odůvodnění:
+Městský soud v Brně usnesením ze dne 10. 2. 2016, č. j. 15 C 49/2016-22, vyslovil svou nepříslušnost (výrok I.) a rozhodl, že po právní moci tohoto usnesení bude věc postoupena Okresnímu soudu Plzeň-jih jako soudu místně příslušnému (výrok II.). Rozhodnutí odůvodnil soud tím, že žalobkyně se domáhá nahrazení projevu vůle žalované podat návrh na výmaz zástavního práva váznoucího na nemovitých věcech nacházejících se v obvodu Okresního soudu Plzeň-jih, a proto podle § 105 odst. 2 občanského soudního řádu (dále jen „o. s. ř.“) rozhodl s ohledem na § 88 písm. b) o. s. ř. o své místní nepříslušnosti a postoupení věci místně příslušnému soudu.
+Okresní soud Plzeň-jih usnesením ze dne 6. 3. 2016, č. j. 6 C 71/2016-25, vyzval účastníky řízení, aby se vyjádřili k zamýšlenému postupu soudu vyslovit nesouhlas s výše uvedeným rozhodnutím Městského soudu v Brně.
+Žalobkyně podáním ze dne 12. 4. 2016 vyjádřila nesouhlas s postoupením věci Okresnímu soudu Plzeň-jih. Žalovaná se k výzvě soudu nevyjádřila.
+Okresní soud Plzeň-jih podáním ze dne 5. 5. 2016, doručeným Nejvyššímu soudu České republiky (dále jen „Nejvyšší soud“) dne 10. 5. 2016, požádal Nejvyšší soud o přikázání věci z důvodu vhodnosti podle § 12 odst. 2 o. s . ř. Městskému soudu v Brně, což odůvodnil tím, že veškeré listinné důkazy může provést a posoudit Městský soud v Brně, v jehož obvodu se nachází sídla obou účastníků a za žalobkyni jedná zástupce, který má sídlo v Jihlavě, tudíž náklady na dojíždění k Městskému soudu v Brně budou podstatně nižší, než za situace, kdy věc bude projednávat Okresní soud Plzeň-jih.
+Podle § 105 odst. 3 o. s. ř., jestliže soud, jemuž byla věc postoupena, s postoupením nesouhlasí, předloží ji k rozhodnutí, pokud otázka příslušnosti nebyla již rozhodnuta soudem odvolacím, svému nadřízenému soudu; rozhodnutím tohoto soudu je vázán i soud, který věc postoupil.
+Jestliže Okresní soud Plzeň-jih s postoupením věci nesouhlasil, měl postupovat podle ustanovení § 105 odst. 3 o. s. ř. Nejvyšší soud návrhu na přikázání věci jinému soudu z důvodu vhodnosti podle § 12 odst. 2 o. s. ř. nevyhověl a věc Městskému soudu v Brně nepřikázal.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 18. srpna 2016
+JUDr. Kateřina H o r n o c h o v á
+předsedkyně senátu
