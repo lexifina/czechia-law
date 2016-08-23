@@ -1,0 +1,14 @@
+21 Nd 255/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Ljubomíra Drápala a soudců JUDr. Jiřího Doležílka a JUDr. Lubomíra Ptáčka, Ph.D. v exekuční věci oprávněné E.ON Energie, a.s. se sídlem v Českých Budějovicích, F. A. Gerstnera č. 2151/6, IČO 26078201, zastoupené Mgr. Pavlem Vincíkem, advokátem se sídlem v Praze 1, Ovocný trh č. 1096/8, proti povinnému D. P., pro 29.383,- Kč s příslušenstvím, vedené u Okresního soudu v Kroměříži pod sp. zn. 32 EXE 922/2016, takto:
+Věc vedenou u Okresního soudu v Kroměříži pod sp. zn. 32 EXE 922/2016 projedná a rozhodne Okresní soud v Kroměříži.
+Odůvodnění:
+Soudní exekutor JUDr. Ondřej Mareš, LL.M., Exekutorský úřad Litoměřice, podal dne 25.5.2016 u Okresního soudu v Kroměříži spolu s exekučním návrhem oprávněné ze dne 28.4.2016 žádost o pověření a nařízení exekuce na majetek povinného k vymožení pohledávky oprávněné ve výši 29.383,- Kč s úrokem z prodlení ve výši 7,05% ročně z částky 29.383,- Kč od 10.5.2013 do zaplacení, soudního poplatku ve výši 1.176,- Kč a náhrady nákladů předchozího řízení ve výši 18.876,- Kč.
+Okresní soud v Kroměříži usnesením ze dne 6.6.2016 č. j. 32 EXE 922/2016-14 vyslovil ve smyslu ustanovení § 105 o.s.ř. svou místní nepříslušnost a rozhodl o předložení věci Nejvyššímu soudu k určení, který soud věc projedná a rozhodne. V odůvodnění uvedl, že v exekučním návrhu je uvedeno, že povinný má bydliště na adrese P., že však z výpisu z registru obyvatel bylo zjištěno, že povinný evidencí neprochází, a ze zprávy Ministerstva vnitra, Odboru azylové a migrační politiky se soudu nepodařilo zjistit současnou adresu povinného, že též bylo zjištěno, že povinný nemá v současné době povolený žádný pobyt na území ČR. Soud dále uvedl, že nezkoumal, zda povinný má na území ČR postižitelný majetek, a to proto, že tato skutečnost vyjde najevo až v rámci prováděné exekuce soudem pověřeným soudním exekutorem.
+Podle ustanovení § 11 odst. 3 o.s.ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Podle ustanovení § 105 odst. 2 o.s.ř vysloví-li soud, že není příslušný, postoupí věc po právní moci tohoto usnesení příslušnému soudu nebo ji za podmínek uvedených v ustanovení § 11 odst. 3 o.s.ř. předloží Nejvyššímu soudu ČR.
+Nejvyšší soud ČR, vycházeje z obsahu spisu a přihlížeje k zásadě hospodárnosti řízení, rozhodl tak, že jako místně příslušný soud v dané věci určil Okresní soud v Kroměříži, u nějž byla žádost o pověření exekutora a nařízení exekuce na majetek povinného podána, a který ve věci provedl prvotní úkony.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 23. srpna 2016
+JUDr. Ljubomír Drápal
+předseda senátu
