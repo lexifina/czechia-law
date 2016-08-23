@@ -1,0 +1,22 @@
+23 Cdo 4547/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Horáka, Ph.D., a soudců JUDr. Zdeňka Dese a Mgr. Miroslava Hromady, Ph.D., ve věci žalobce Ing. L. K., se sídlem v Plzni, Do Zámostí 340/4, identifikační číslo osoby 11620340, zastoupeného Mgr. Alicí Benešovou, advokátkou se sídlem v Rokycanech, Míru 17, proti žalované ČSOB Pojišťovna, a. s., člen holdingu ČSOB, se sídlem v Pardubicích, Masarykovo náměstí 1458, identifikační číslo osoby 45534306, o zaplacení částky 139.318 Kč s příslušenstvím, vedené u Okresního soudu v Pardubicích pod sp. zn. 108 C 159/2011, o dovolání žalované proti usnesení Krajského soudu v Hradci Králové - pobočka v Pardubicích ze dne 2. dubna 2015, č. j. 23 Co 21/2015-169, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+(dle § 243f odst. 3 o. s. ř.)
+Okresní soudu v Pardubicích rozsudkem ze dne 25. srpna 2014, č. j. 108 C 159/2011-148, zamítl návrh na zaplacení částky 139.318 Kč s příslušenstvím (bod I. výroku), žádnému z účastníků nepřiznal právo na náhradu nákladů řízení (bod II. výroku) a uložil žalobci povinnost k náhradě nákladů řízení vůči státu (bod III. výroku).
+K odvolání žalobce odvolací soud usnesením v záhlaví uvedeným rozsudek soudu prvního stupně zrušil a věc vrátil soudu prvnímu stupně k dalšímu řízení.
+Proti rozhodnutí odvolacího soudu podala žalovaná dovolání s tím, že je považuje za přípustné dle § 237 zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů (dále jen „o. s. ř.“), neboť napadené rozhodnutí spočívá na vyřešení otázky hmotného práva, která v rozhodování dovolacího soudu doposud nebyla vyřešena. Jako dovolací důvod uplatňuje dovolatelka nesprávné právní posouzení věci dle § 241a odst. 1 o. s. ř.
+Žalobce se k dovolání žalované vyjádřil s tím, že je považuje za nepřípustné a navrhuje je odmítnout, případně zamítnout.
+Nejvyšší soud České republiky (dále jen „Nejvyšší soud“) jako soud dovolací (§ 10a o. s. ř.) po zjištění, že dovolání bylo podáno řádně a včas, osobou k tomu oprávněnou a řádně zastoupenou podle § 241 odst. 1 o. s. ř., se zabýval přípustností dovolání.
+Podle ustanovení § 236 odst. 1 o. s. ř. dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Dle ustanovení § 237 o. s. ř. není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně, anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak.
+Dovolatelka předkládá dovolacímu soudu k řešení otázku „zda předložení faktury pojištěným pojistiteli za práce, které nebyly provedeny, ač z předložené faktury vyplývá, že provedeny být měly a byly označeny jako uskutečněné zdanitelné plnění, je způsobilým důvodem pro odmítnutí pojistného plnění ve smyslu ustanovení § 24 odst. 1 písm. b) zákona č. 37/2004 Sb., o pojistné smlouvě, neboť se jedná o určení rozsahu pojistné události pojištěným.“
+Dovolatelka přitom nesouhlas s právním posouzením zakládá na jiném skutkovém zjištění, než ze kterého vyšel odvolací soud. Dovolatelka uvedenou námitkou konstruuje vlastní skutkové zjištění, přičemž přehlíží, že určující pro rozhodnutí odvolacího soudu bylo vynaložení nákladů na opravu věci žalobcem v roce 2011, nikoli uvedení nepravdivých údajů o tom, že poškozená věc byla opravena (dovolatelka namítá „předložení faktury na neprovedené práce“).
+Současně dovolatelka pomíjí, že odvolací soud považoval za rozhodné rovněž znění obchodních podmínek, podle nichž pojištěný, pokud neprokáže, že poškozenou věc opravil či si pořídil věc novou ve lhůtě tří let od pojistné události, má právo na pojistné plnění v časové ceně a nikoliv ceně nové.
+Dovolací soud proto neshledal, že v projednávané věci by byl dán předpoklad přípustnosti dovolání ve smyslu ustanovení § 237 o. s. ř. Z důvodů shora uvedených dospěl dovolací soud k závěru o nepřípustnosti dovolání, a proto podle § 243c odst. 1 věty první o. s. ř. toto dovolání odmítl.
+O náhradě nákladů dovolacího řízení nebylo rozhodnuto, neboť se tímto rozhodnutím řízení nekončí (§ 151 odst. 1 část vety před středníkem o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 23. srpna 2016
+JUDr. Pavel H o r á k, Ph.D.
+předseda senátu
