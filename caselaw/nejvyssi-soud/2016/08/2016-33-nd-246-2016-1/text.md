@@ -1,0 +1,16 @@
+33 Nd 246/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudkyň JUDr. Blanky Moudré a JUDr. Ivany Zlatohlávkové ve věci oprávněné Všeobecné zdravotní pojišťovny České republiky se sídlem v Praze 3, Orlická 2020/4 (identifikační číslo osoby 41197518), proti povinnému P. M., o pověření a nařízení exekuce, vedené u Okresního soudu ve Znojmě pod sp. zn. 8 EXE 207/2016, o určení místní příslušnosti soudu, takto:
+Věc vedenou u Okresního soudu ve Znojmě pod sp. zn. 8 EXE 207/2016 projedná a rozhodne Okresní soud ve Znojmě.
+O d ů v o d n ě n í :
+Dne 30. 5. 2016 byla Okresnímu soudu ve Znojmě doručena žádost JUDr. Ivany Kozákové, soudní exekutorky, o pověření a nařízení exekuce. Jednou z příloh uvedeného podání byl výpis z Centrální evidence obyvatel, ze kterého vyplynulo, že povinný není v této evidenci veden.
+Okresní soud ve Znojmě usnesením ze dne 6. 6. 2016, č.j. 8 EXE 207/2016-14, vyslovil svou místní nepříslušnost a rozhodl o předložení věci Nejvyššímu soudu k určení, který soud věc projedná a rozhodne (§ 11 odst. 3 zákona č. 99/1963 Sb., občanského soudního řádu, dále jen „o.s.ř.“).
+Dotazem na Policii ČR - Krajské ředitelství Policie Jihomoravského kraje, Odbor cizinecké policie, Oddělení pobytových agend - pracoviště ve Znojmě, soud zjistil, že povinný je státním příslušníkem Slovenské republiky, nemá na území České republiky povolen žádný z možných druhů pobytů a jednu noc v měsíci březnu 2016 se zdržoval v Motorestu Rohlenka v Jiříkovicích, okres Brno - venkov. Soud dále nezkoumal, zda má povinný na území České republiky postižitelný majetek, neboť tato skutečnost vyjde najevo až činností soudem pověřeného soudního exekutora v rámci prováděné exekuce.
+Podle § 11 odst. 1 o.s.ř. se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení.
+Místně příslušným exekučním soudem je soud, v jehož obvodu má povinný, který je fyzickou osobou, místo svého trvalého pobytu, popřípadě místo pobytu na území České republiky podle druhu pobytu cizince. Nemá-li povinný, který je fyzickou osobou, v České republice místo trvalého pobytu nebo místo pobytu podle věty první, je místně příslušným soud, v jehož obvodu má povinný majetek (srov. § 45 odst. 2 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti a o změně dalších zákonů /exekuční řád/, ve znění pozdějších předpisů, dále jen „zákon č. 120/2001 Sb.“).
+Podle ustanovení § 11 odst. 3 o.s.ř., které se použije i pro exekuční řízení (§ 52 odst. 1 zákona č. 120/2001 Sb.), jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Protože jsou splněny předpoklady stanovené v § 11 odst. 3 o.s.ř., Nejvyšší soud – přihlížeje k zásadě hospodárnosti – určil, že věc projedná a rozhodne Okresní soud ve Znojmě, u něhož bylo řízení zahájeno (srov. usnesení velkého senátu občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne 12. 9. 2012, sp. zn. 31 Nd 200/2012, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod č. 4/2013).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 23. srpna 2016
+JUDr. Pavel Krbek
+předseda senátu
