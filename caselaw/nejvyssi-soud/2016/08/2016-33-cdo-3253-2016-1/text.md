@@ -1,0 +1,13 @@
+33 Cdo 3253/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Pavlem Krbkem ve věci žalobce I. N., zastoupeného Mgr. Ing. Lucií Turkovou Drápalovou, advokátkou se sídlem ve Valticích, Břeclavská 593, proti žalované REALITY REGION s.r.o., se sídlem v Břeclavi, třída 1. máje 519/23 (identifikační číslo osoby 28348834), o 15.110,- Kč, vedené u Okresního soudu v Břeclavi pod sp. zn. 11 C 34/2013, o dovolání žalobce proti usnesení Krajského soudu v Brně ze dne 1. 2. 2016, č.j. 14 Co 356/2015-81, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Nejvyšší soud dovolání žalobce proti v záhlaví označenému rozhodnutí, kterým krajský soud usnesení ze dne 24. 7. 2015, č.j. 11 C 34/2013-64, jímž Okresní soud v Břeclavi zastavil řízení a rozhodl, že žádný z účastníků nemá právo na náhradu nákladů řízení, potvrdil a rozhodl o nákladech odvolacího řízení, odmítl (§ 243c odst. 1, věta první, zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013, viz čl. II bod 1, 7 zákona č. 404/2012 Sb., čl. II bod 2 zákona č. 293/2013 Sb., dále jen „o.s.ř.“); podání neobsahuje obligatorní náležitosti, a sice způsobilé vymezení toho, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání, a důvodu dovolání (srov. § 241a odst. 2, 3 o.s.ř.), o tyto náležitosti již nemůže být doplněno (§ 241b odst. 3, věta první, o.s.ř.) a v dovolacím řízení pro tuto vadu nelze pokračovat.
+Uvádí-li žalobce, že „napadené rozhodnutí odvolacího soudu závisí na vyřešení otázky hmotného nebo procesního práva, přičemž tato vyřešená právní otázka má být dovolacím soudem posouzena jinak“, nenaplňuje požadavky vymezení přípustnosti, jak je již mnohokrát vymezila judikatura Nejvyššího soudu. Má-li být dovolání přípustné proto, že dovolacím soudem vyřešená právní otázka má být posouzena jinak, jde o způsobilé vymezení přípustnosti, jen je-li zřejmé, od kterého svého řešení otázky hmotného nebo procesního práva se má (podle mínění dovolatele) dovolací soud odchýlit (srov. např. usnesení ze dne 27. 8. 2013, sen. zn. 29 NSČR 55/2013, ze dne 29. 8. 2013, sp. zn. 29 Cdo 2488/2013, ze dne 26. 11. 2014, sp. zn. 33 4347/2014, ze dne 11. 12. 2014, sp. zn. 30 Cdo 4575/2014). Takovou právní otázku žalobce neidentifikoval a nelze ji dovodit ani z celého obsahu dovolání; stejné platí pro vymezení důvodu dovolání, jímž může být jen nesprávné právní posouzení věci (§ 241a odst. 1 o.s.ř.).
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. srpna 2016
+JUDr. Pavel Krbek
+předseda senátu
