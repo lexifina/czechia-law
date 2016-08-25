@@ -1,0 +1,13 @@
+21 Cdo 2979/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Zdeňka Novotného a soudců JUDr. Ljubomíra Drápala a JUDr. Lubomíra Ptáčka, Ph.D. v právní věci žalobců 1) J. D., 2) K. D., 3) F. D., všech zastoupených JUDr. Miroslavou Potočnou, advokátkou se sídlem v Praze 5, Na Zlíchově č. 233, proti žalovanému Dopravnímu podniku hl. m. Prahy, akciové společnosti, se sídlem v Praze 9, Sokolovská č. 217/42, IČO 000 05 886, o náhradu škody, vedené u Obvodního soudu pro Prahu 9 pod sp. zn. 14 C 234/2006, o dovolání žalovaného proti rozsudku Městského soudu v Praze ze dne 17. února 2016 č.j. 62 Co 65/2011-463, takto:
+I. Dovolání žalovaného se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Nejvyšší soud České republiky dovolání žalovaného proti rozsudku Městského soudu v Praze ze dne 17.2.2016 č. j. 62 Co 65/2011-463 podle ustanovení § 243c odst. 1 věty první o.s.ř. odmítl, neboť v něm byl uplatněn jiný dovolací důvod (dovolatel namítá, že při zjišťování skutkového podkladu pro výpočet průměrného výdělku měl odvolací soud přihlížet k jiným příjmům původního žalobce než přihlížel, že „bez jakýchkoli výhrad akceptoval tvrzení uvedené ve znaleckém posudku“, čímž dovolatel zpochybňuje pouze skutková zjištění, na nichž odvolací soud založil svůj závěr o výši částky, kterou je žalovaný povinen zaplatit žalobcům jako náhradu za ztrátu výdělku poškozeného za období od 7.11.2004 do 31.12.2006, dovolatel též nesouhlasí s hodnocením důkazů odvolacím soudem a předestírá své vlastní skutkové závěry, na nichž pak buduje odlišné právní posouzení věci), než který je uveden v ustanovení § 241a odst. 1 o.s.ř., a v dovolacím řízení nelze pro tento nedostatek pokračovat.
+Nastoluje-li se otázka „určení výše nároku na náhradu škody“, pak dovolání není přípustné podle ustanovení § 237 o.s.ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu [srov. např. rozsudek Nejvyššího soudu ze dne 12.3.1997 sp. zn. 3 Cdon 953/96 uveřejněný ve Sbírce soudních rozhodnutí a stanovisek Nejvyššího soudu pod č. 7, roč. 1998 k otázce ztráty na výdělku jako peněžního vyjádření veškeré újmy vzniklé v důsledku snížení (omezení) či ztráty schopnosti pracovníka vykonávat výdělečnou činnost a předchozí rozsudek Nejvyššího soudu v této věci ze dne 4.10.2011 č.j. 21 Cdo 1293/2010-358] a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 věty druhé o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 25. srpna 2016
+JUDr. Zdeněk Novotný
+předseda senátu
