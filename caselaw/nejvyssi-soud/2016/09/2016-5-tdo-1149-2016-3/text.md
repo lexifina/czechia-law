@@ -1,0 +1,13 @@
+5 Tdo 1149/2016 - II.-49
+U S N E S E N Í
+Nejvyšší soud rozhodl v neveřejném zasedání konaném dne 21. 9. 2016 v trestní věci obviněného W. J., v řízení o dovolání obviněného, které podal proti rozsudku Vrchního soudu v Praze ze dne 29. 4. 2016, sp. zn. 3 To 3/2016, jako soudu odvolacího v trestní věci vedené u Městského soudu v Praze pod sp. zn. 2 T 12/2014, t a k t o :
+Podle § 265l odst. 4 tr. řádu se obviněný W. J., n e b e r e do vazby.
+O d ů v o d n ě n í
+Obviněný W. J. vykonává trest odnětí svobody, který mu byl uložen rozsudkem Vrchního soudu v Praze ze dne 29. 4. 2016, sp. zn. 3 To 13/2016 ve výměře 6 let a 6 měsíců. Z podnětu dovolání obviněného Nejvyšší soud usnesením z 21. 9. 2016, sp. zn. 5 Tdo 1149/2016-I., zrušil podle § 265k odst. 1 tr. řádu citovaný rozsudek Vrchního soudu v Praze, jakož i jemu předcházející rozsudek Městského soudu v Praze ze dne 1. 6. 2015, sp. zn. 2 T 12/2014. Podle § 265l odst. 1 tr. řádu Nejvyšší soud přikázal Městskému soudu v Praze, aby věc v potřebném rozsahu znovu projednal a rozhodl.
+Vzhledem k tomu, že obviněný W. J. vykonává trest odnětí svobody, který mu byl uložen výše uvedeným rozsudkem Vrchního soudu v Praze, bylo nutné po zrušení napadeného rozsudku Vrchního soudu v Praze rozhodnout o vazbě obviněného ve smyslu ustanovení § 265l odst. 4 tr. řádu (ve znění zákona č. 200/2002 Sb.). Trest, který obviněný v současné době vykonává, totiž ztratil svůj zákonný podklad, neboť rozsudek, jímž byl tento trest uložen, byl usnesením Nejvyššího soudu zrušen. Vzhledem k tomu, že rozhodnutím o dovolání obviněného došlo současně ke zrušení rozsudku Městského soudu v Praze rozhodujícího ve věci v prvním stupni, bude znovu probíhat hlavní líčení před tímto soudem.
+Na podkladě obsahu trestního spisu zvažoval Nejvyšší soud otázku existence důvodů vazby, přitom dospěl k závěru, že v současném stadiu trestního řízení není u obviněného dána konkrétní skutečnost vzbuzující důvodnou obavu ve smyslu § 67 písm. a) až c) tr. řádu, tedy že obviněný uprchne nebo se bude skrývat, aby se trestnímu stíhání nebo trestu vyhnul, že bude působit na dosud nevyslechnuté svědky nebo spoluobviněné nebo jinak mařit objasňování skutečností závažných pro trestní stíhání, nebo že by opakoval trestnou činnost, pro niž je stíhán. V dosavadním trestním řízení nebyl obviněný vzat do vazby a v průběhu dovolacího řízení rovněž nenastala žádná skutečnost zakládající důvod k omezení osobní svobody obviněného.
+Nejvyšší soud proto rozhodl podle § 265l odst. 4 tr. řádu tak, že se obviněný W. J. nebere do vazby.
+P o u č e n í : Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 21. 9. 2016
+JUDr. Blanka Roušalová
+předsedkyně senátu
