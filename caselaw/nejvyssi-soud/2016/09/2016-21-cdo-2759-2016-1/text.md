@@ -1,0 +1,12 @@
+21 Cdo 2759/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Romanem Fialou v právní věci žalobců a) J. S. a b) J. S., obou zastoupených JUDr. Danielou Strakovou, advokátkou se sídlem ve Zruči – Senci, Jedlová č. 372, proti žalované České republice – Úřadu pro zastupování státu ve věcech majetkových, se sídlem v Praze 2, Rašínovo nábřeží č. 390/42, IČO 69797111, Územnímu pracovišti v Plzni, odboru Odloučeného pracoviště v Karlových Varech, Závodu míru č. 725/16, o vydání dědictví oprávněným dědicům, vedené u Okresního soudu v Karlových Varech pod sp. zn. 13 C 342/2008, o dovolání žalobců a) a b) proti rozsudku Krajského soudu v Plzni ze dne 9. února 2016, č. j. 11 Co 455/2015-303, takto:
+I. Dovolání žalobců se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Nejvyšší soud České republiky dovolání žalobců proti rozsudku Krajského soudu v Plzni ze dne 9.2.2016, č.j. 11 Co 455/2015-303, podle ustanovení § 243c odst. 1 věty první zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31.12.2013 [(dále jen „o.s.ř.“), který je třeba pro projednání dovolání a pro rozhodnutí o něm i v současné době použít, neboť řízení bylo zahájeno přede dnem 1.1.2014 (srov. Čl. II bod 2. zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony)], odmítl, neboť v něm byl uplatněn jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o.s.ř. [vznáší-li dovolatelé výhrady proti hodnocení důkazů (zejména hodnocení výpovědí svědků a znaleckého posudku Mgr. Niny Trojanové, znalkyně z oboru písmoznalectví – ruční písmo, a výslechu této znalkyně) soudy, nesouhlasí-li s jejich skutkovými zjištěními a závěrem o neunesení důkazního břemene žalobci ohledně tvrzení, že listina ze dne 20.12.1997 je pravou a platnou závětí zůstavitele S. B., zemřelého dne 20.7.2006, a činí-li z výsledků dokazování v tomto směru odlišná (jiná) skutková zjištění a na jejich základě dovozují vlastní (odlišný) názor na věc (především, že prokázali „úmysl pana B.a sepsat závěť ve prospěch žalobců“ a následně i „vlastní sepsání závěti v jejich prospěch“, a proto „unesli důkazní břemeno“)], a v dovolacím řízení nelze pro uvedený nedostatek pokračovat.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 věta druhá o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. září 2016
+JUDr. Roman Fiala
+předseda senátu
