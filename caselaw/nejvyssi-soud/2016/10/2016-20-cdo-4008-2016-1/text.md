@@ -1,0 +1,11 @@
+20 Cdo 4008/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Zbyňka Poledny a soudců JUDr. Miroslavy Jirmanové, Ph.D., a JUDr. Vladimíra Kůrky v exekuční věci oprávněné T-Mobile Czech Republic a. s., se sídlem v Praze 4, Tomíčkova č. 2144/1, identifikační číslo osoby 64949681, zastoupené Mgr. Martinem Greplem, advokátem se sídlem v Olomouci, Sokolská č. 586/7, proti povinnému Z. V., D. Ch., pro 2 266 Kč s příslušenstvím, vedené u Okresního soudu v Kolíně pod sp. zn. 34 EXE 2421/2015, o dovolání povinného proti usnesení Krajského soudu v Praze ze dne 19. dubna 2016, č. j. 21 Co 207/2016-40, takto:
+Dovolání povinného se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.) :
+Nejvyšší soud posoudil podání povinného (č. l. 49) nazvané „Věc: odvolání k Nejvyššímu soudu České republiky“ jako dovolání proti usnesení Krajského soudu v Praze ze dne 19. dubna 2016, č. j. 21 Co 207/2016-40, a podle ustanovení § 243c odst. 1 věty první zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. ledna 2014 (srov. čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, jej, aniž zkoumal splnění podmínky povinného zastoupení dovolatele v dovolacím řízení (§ 241 o. s. ř.), odmítl, protože směřuje proti usnesení odvolacího soudu, kterým bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50 000 Kč [§ 238 odst. 1 písm. c) o. s. ř., srov. shora výši částky, pro niž byla exekuce zahájena, byť v posuzované věci jde o návrh povinného na zastavení exekuce – srov. usnesení Nejvyššího soudu ze dne 21. října 2015, sp. zn. 26 Cdo 4236/2015, či usnesení Nejvyššího soudu ze dne 31. října 2013, sp. zn. 20 Cdo 1977/2013, proti němuž podaná ústavní stížnost byla odmítnuta usnesením Ústavního soudu ze dne 27. února 2014, sp. zn. III. ÚS 346/14], a dovolání proto není přípustné.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu [§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění pozdějších předpisů].
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 3. 10. 2016
+JUDr. Zbyněk Poledna
+předseda senátu
