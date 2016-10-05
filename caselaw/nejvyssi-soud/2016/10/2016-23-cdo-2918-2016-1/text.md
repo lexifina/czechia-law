@@ -1,0 +1,22 @@
+23 Cdo 2918/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Kateřiny Hornochové a soudců JUDr. Zdeňka Dese a JUDr. Ing. Pavla Horáka, Ph.D., ve věci žalobkyně Web-to-print a.s. se sídlem v Praze 1, Václavské náměstí 66/808, IČO 27164471, zastoupené Slavomírem Teclem, advokátem se sídlem v Havlíčkově Brodě, Kalinovo nábřeží 605, proti žalované EL CAMINO VERDE s.r.o. se sídlem v Praze 5, Ke Koulce 919/7, IČO 26207516, zastoupené Mgr. Denisou Valentovou, advokátkou se sídlem v Praze 5, Duškova 164/45, o zaplacení částky 321 437 Kč s příslušenstvím vedené u Obvodního soudu pro Prahu 5 pod sp. zn. 28 C 214/2014, o dovolání žalované proti rozsudku Městského soudu v Praze ze dne 23. února 2016, č. j. 93 Co 106/2015-119, takto:
+I. Dovolání žalované se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění:
+(§243f odst. 3 o. s. ř.)
+Obvodní soud pro Prahu 5 jako soud prvního stupně rozsudkem ze dne 22. prosince 2014, č. j. 28 C 214/2014-80, uložil žalované zaplatit žalobkyni částku 321 437 Kč s příslušenstvím a rozhodl o nákladech řízení.
+K odvolání žalované Městský soud v Praze jako soud odvolací rozsudkem ze dne 23. února 2016, č. j. 93 Co 106/2015-119, potvrdil rozsudek soudu prvního stupně a rozhodl o nákladech odvolacího řízení.
+Rozsudek odvolacího soudu napadla žalovaná včasně podaným dovoláním, které však není přípustné, neboť dovolatelka neuvedla, v čem spatřuje splnění předpokladů přípustnosti dovolání dle § 237 o. s. ř..
+Dovolatelka v dovolání uvedla, že dovolání je dle jejího názoru přípustné, neboť napadené rozhodnutí závisí na vyřešení otázky, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu, avšak nikde v dovolání neuvádí, jakou konkrétní relevantní právní otázku má na mysli, a ani to, od jakých rozhodnutí Nejvyššího soudu se odvolací soud odchýlil, a to ani odkazem na spisovou značku konkrétních rozhodnutí Nejvyššího soudu, ani odkazem na právní závěry judikatury Nejvyššího soudu bez uvedení konkrétních spisových značek (i takové vymezení přípustnosti by obstálo, a to ve světle judikatury Ústavního soudu, konkrétně nálezu Ústavního soudu ze dne 18. prosince 2014, sp. zn. IV. ÚS 1256/14). Dovolatelka však na ustálenou rozhodovací praxi dovolacího soudu nijak nepoukázala a veškeré její námitky směřovaly pouze proti skutkovým závěrům soudů obou stupňů.
+Nejvyšší soud se k otázce vymezení přípustnosti dovolání vyjádřil ve své rozhodovací praxi již několikrát. Dle usnesení Nejvyššího soudu ze dne 25. září 2013, sp. zn. 29 Cdo 2394/2013, má-li být dovolání přípustné podle ustanovení § 237 o. s. ř. proto, že napadené rozhodnutí závisí na řešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu, musí být z obsahu dovolání patrno, o kterou otázku hmotného nebo procesního práva jde a od které „ustálené rozhodovací praxe“ se řešení této právní otázky odvolacím soudem odchyluje.
+Dovolací soud ke skutkovým námitkám dovolatelky připomíná, že mu nepřísluší přezkum napadeného rozhodnutí po stránce skutkové, nýbrž pouze po stránce právní, což vyplývá jednak z povahy dovolání jakožto mimořádného opravného prostředku, jednak ze samotného znění § 241a odst. 1 o. s. ř., podle kterého je jediným dovolacím důvodem nesprávné právní posouzení věci.
+Jestliže dovolatelka namítala, že soudy se nevypořádaly se všemi jejími námitkami, pak se jedná o námitku vad řízení, která sama o sobě není způsobilá založit přípustnost dovolání. K vadám řízení dovolací soud přihlíží podle § 242 odst. 3 o. s. ř. pouze tehdy, je-li dovolání přípustné. Ani námitka dovolatelky ohledně procesních vad tedy nemůže založit přípustnost dovolání.
+Z výše uvedeného vyplývá, že dovolání postrádá potřebné náležitosti, neboť dovolatelka neuvedla, v čem spatřuje splnění předpokladů přípustnosti dovolání.
+Nejvyššímu soudu proto nezbylo, než dovolání odmítnout podle § 243c odst. 1 o. s. ř., neboť v dovolacím řízení nelze pokračovat pro vadu, kterou dovolatelka včas (po dobu trvání lhůty k dovolání) neodstranila.
+Rozhodnutí o náhradě nákladů dovolacího řízením se v souladu s § 243f odst. 3 větou druhou o. s. ř. neodůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 5. října 2016
+JUDr. Kateřina H o r n o c h o v á
+podepsáno JUDr. Zdeňkem Desem
+za nepřítomnou předsedkyni senátu
