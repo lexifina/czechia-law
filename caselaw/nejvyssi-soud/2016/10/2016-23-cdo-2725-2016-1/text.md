@@ -1,0 +1,23 @@
+23 Cdo 2725/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Kateřiny Hornochové a soudců JUDr. Zdeňka Dese a JUDr. Ing. Pavla Horáka, Ph.D., ve věci žalobkyně A. B., zastoupené JUDr. Tomášem Mikulíkem Hamele, Ph.D., advokátem se sídlem ve Frýdku-Místku, Pod Štandlem 2218, proti žalované Kooperativa pojišťovna, a.s., Vienna Insurance Group, se sídlem v Praze 8, Pobřežní 665/21, IČO 47116617, o zaplacení částky 177 441 Kč s příslušenstvím vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 30 C 345/2009, o dovolání žalobkyně proti rozsudku Městského soudu v Praze ze dne 19. března 2015, č. j. 58 Co 389/2014-214, takto:
+I. Dovolání žalobkyně se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění:
+(§243f odst. 3 o. s. ř.)
+Obvodní soud pro Prahu 1 jako soud prvního stupně rozsudkem ze dne 22. listopadu 2013, č. j. 30 C 345/2009-172, uložil žalované zaplatit částku 152 238, 50 Kč s příslušenstvím, ve zbytku žalobu zamítl a rozhodl o náhradě nákladů řízení.
+K odvolání žalované Městský soud v Praze jako soud odvolací rozsudkem ze dne 19. března 2015, č. j. 58 Co 389/2014-214, změnil rozsudek soudu prvního stupně tak, že se žaloba zamítá a rozhodl o nákladech řízení.
+Rozsudek odvolacího soudu napadla žalobkyně včasně podaným dovoláním, které však není přípustné, neboť dovolatelka neuvedla, v čem spatřuje splnění předpokladů přípustnosti dovolání dle § 237 o. s. ř..
+Požadavek, aby dovolatelka v dovolání uvedla, v čem spatřuje splnění předpokladů přípustnosti dovolání, je podle § 241a odst. 2 o. s. ř. obligatorní náležitostí dovolání. Může-li být dovolání přípustné jen podle § 237 o. s. ř., je dovolatelka povinna v dovolání vymezit, které z tam uvedených hledisek považuje za splněné, přičemž k projednání dovolání nepostačuje pouhá citace textu ustanovení § 237 o. s. ř. (srov. např. usnesení Nejvyššího soudu ze dne 31. října 2013, sen. zn. 29 NSCR 97/2013, jež obstálo i v ústavní rovině – ústavní stížnost proti tomuto usnesení Ústavní soud odmítl usnesením ze dne 17. dubna 2014, sp. zn. II. ÚS 383/2014, či usnesení Nejvyššího soudu ze dne 4. prosince 2013, sen. zn. 29 NSCR 114/2013, příp. usnesení Nejvyššího soudu ze dne 29. října 2015, sen. zn. 29 NSCR 104/2015).
+Dovolatelka uvedla, že dovolání je přípustné dle § 237 o. s. ř. a že jej podává je z důvodu podle § 241a odst. 2 písm. a) o. s. ř., neboť řízení je zatíženo vadou, která mohla mít za následek nesprávné rozhodnutí ve věci. Ve zbývající argumentaci dovolatelka vyložila, v čem spočívá tvrzená vada řízení, avšak nikde v dovolání nevymezila konkrétní právní otázku, na jejímž řešení by napadené rozhodnutí mělo záviset a která by splňovala jedno z kritérií přípustnosti uvedené v § 237 o. s. ř.
+K nutnosti vymezení relevantní právní otázky jakožto obsahové náležitosti dovolání se Nejvyšší soud ve své rozhodovací praxi vyjádřil již několikrát, např. v usnesení Nejvyššího soudu ze dne 30. srpna 2013, sp. zn. 30 Cdo 1853/2013, podle jehož závěru neuvede-li dovolatel v dovolání otázku, která je podstatná pro rozhodnutí soudu v posuzované věci, je dovolání nepřípustné.
+Nejvyšší soud považuje za nutné upozornit dovolatelku, že podle účinného znění občanského soudního řádu je jediným dovolacím důvodem nesprávné právní posouzení věci dle § 241a odst. 1 o. s. ř., přičemž dovolatelkou citované ustanovení § 241a odst. 2 písm. a) o. s. ř. zakotvující jako dovolací důvod rovněž vady řízení je již neúčinné, resp. bylo změněno zákonem č. 404/2012 Sb., s účinností od 1. ledna 2013.
+V současné úpravě dovolání tedy námitka procesních vad nemůže sama o sobě založit přípustnost dovolání (k tomu viz například usnesení Nejvyššího soudu ze dne 29. července 2014, sp. zn. 32 Cdo 842/2014). K vadám řízení dovolací soud přihlédne v souladu s § 242 odst. 3 o. s. ř. pouze tehdy, je-li dovolání přípustné. V řešeném případě však z výše uvedeného vyplývá, že dovolání je z důvodu chybějící obsahové náležitosti vadné, tudíž není přípustné, a dovolacímu soudu tedy nepřísluší zabývat se tvrzenou vadou řízení.
+Z výše uvedeného vyplývá, že dovolání postrádá potřebné náležitosti, neboť dovolatelka neuvedla, v čem spatřuje splnění předpokladů přípustnosti dovolání.
+Nejvyššímu soudu proto nezbylo, než dovolání odmítnout podle § 243c odst. 1 o. s. ř., neboť v dovolacím řízení nelze pokračovat pro vadu, kterou dovolatelka včas (po dobu trvání lhůty k dovolání) neodstranila.
+Rozhodnutí o náhradě nákladů dovolacího řízení se v souladu s § 243f odst. 3 větou druhou o. s. ř. neodůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 5. října 2016
+JUDr. Kateřina Hornochová
+podepsáno JUDr. Zdeňkem Desem
+za nepřítomnou předsedkyni senátu
