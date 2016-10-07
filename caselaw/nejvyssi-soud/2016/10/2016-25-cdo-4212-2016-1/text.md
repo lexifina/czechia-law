@@ -1,0 +1,14 @@
+25 Cdo 4212/2016
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy senátu JUDr. Petra Vojtka a soudců JUDr. Roberta Waltra a JUDr. Ivany Tomkové v právní věci žalobce nezletilého T. N., zastoupeného zákonnými zástupci T. N. a J. N. a JUDr. Františkem Steidlem, advokátem se sídlem v Klatovech, Randova 204, proti žalované Zdravotnické záchranné službě Plzeňského kraje, příspěvkové organizaci, se sídlem v Plzni, Klatovská třída 2960/200i, IČO 45333009, zastoupené JUDr. Jaroslavem Svejkovským, advokátem se sídlem v Plzni, Kamenická 1, o náhradu škody na zdraví, vedené u Okresního soudu Plzeň-město pod sp. zn. 18 C 566/2015, o dovolání žalobce proti rozsudku Krajského soudu v Plzni ze dne 29. 4. 2016, č. j. 11 Co 134/2016-52, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Dovolání žalobce proti rozsudku Krajského soudu v Plzni ze dne 29. 4. 2016, č. j. 11 Co 134/2016-52, nemá obligatorní zákonné náležitosti, které jsou předpokladem jeho projednatelnosti. Neobsahuje totiž vymezení toho, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (srov. § 241a odst. 2 o. s. ř.), a v dovolacím řízení pro tuto vadu nelze pokračovat. Může-li být dovolání přípustné jen podle § 237 o. s. ř. (jako v této věci), je dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné (srov. např. usnesení Nejvyššího soudu ze dne 25. 9. 2013, sp. zn. 29 Cdo 2394/2013, publikované pod č. 4/2014 Sbírky soudních rozhodnutí a stanovisek, nebo usnesení Ústavního soudu ze dne 21. 1. 2014, sp. zn. I. ÚS 3524/13, ze dne 8. 7. 2014, sp. zn. II. ÚS 4031/13, ze dne 26. 6. 2014, sp. zn. III. ÚS 1675/14, a ze dne 15. 10. 2014, sp. zn. IV. ÚS 2901/14). Nedostatek takového údaje představuje vadu dovolání, která brání rozhodnutí Nejvyššího soudu o tomto mimořádném opravném prostředku.
+Dovolatel zastoupený advokátem otázku přípustnosti dovolání zcela pominul, naplněním kritérií uvedených v § 237 o. s. ř. se nijak nezabýval, přičemž o tuto náležitost již dovolání vzhledem k uplynutí dovolací lhůty nemůže být doplněno (srov. § 241b odst. 3 věta první o. s. ř.). Vymezení přípustnosti nelze dovodit ani z obsahu dovolání, které polemizuje se závěrem, že nezletilému žalobci může být uložena povinnost hradit protistraně náklady řízení ve výši přesahující vysouzenou částku, rekapituluje průběh sporu a vysvětluje důvody, proč byla neúspěšná žaloba podávána, avšak nikterak nezdůvodňuje, čím má být založena přípustnost mimořádného opravného prostředku.
+Nejvyšší soud proto dovolání podle § 243c odst. 1 věty první o.s.ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. věta druhá o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 7. října 2016
+JUDr. Petr Vojtek
+předseda senátu
