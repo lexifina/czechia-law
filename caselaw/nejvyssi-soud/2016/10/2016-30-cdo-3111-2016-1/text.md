@@ -1,0 +1,19 @@
+30 Cdo 3111/2016
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátu složeném z předsedy JUDr. Pavla Pavlíka a soudců JUDr. Pavla Vrchy a JUDr. Bohumila Dvořáka, Ph.D., LL.M., v právní věci žalobce J. S., proti žalované CET 21, s.r.o., se sídlem v Praze 5, Kříženeckého náměstí 1078/5, IČO 45800456, o ochranu osobnosti, vedené u Městského soudu v Praze pod sp. zn. 34 C 4/2012, o dovolání žalobce proti usnesení Vrchního soudu v Praze ze dne 22. září 2015, č. j. 1 Co 250/2014-136, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění
+(§ 243f odst. 3 o.s.ř.):
+Vrchní soud v Praze (dále též „soud druhého stupně“ či „odvolací soud“) usnesením ze dne 22. září 2015, č. j. 1 Co 250/2014-136, potvrdil usnesení Městského soudu v Praze (dále „soud prvního stupně“) ze dne 24. září 2014, č.j. 34 C 4/2012-129, kterým soud prvního stupně zastavil řízení podle ustanovení § 9 odst. 1 zákona č. 549/1991 Sb., o soudních poplatcích, pro nezaplacení soudního poplatku a rozhodl o náhradě nákladů řízení.
+Žalobce proti potvrzujícímu usnesení odvolacího soudu podal dovolání, aniž by byl zastoupen advokátem; požádal též o osvobození od soudních poplatků a o ustanovení zástupce z řad advokátů.
+Usnesením ze dne 4. ledna 2016, č.j. 34 C 4/2012-157, přiznal soud prvního stupně žalobci osvobození od soudních poplatků a usnesením ze dne 29. února 2016, č.j. 34 C 4/2012-161, ustanovil žalobci k ochraně jeho zájmů v dovolacím řízení zástupce - JUDr. Lenku Radoňovou, advokátku se sídlem v Praze 5, Noutonická 520/23.
+K podání žalobce ze dne 14. 3. 2016, ve kterém žádá „o zproštění povinnosti obhajoby advokátky Mgr. Lenky Radoňové“ z důvodu ztráty důvěry v zástupkyni a oznámení, že se žalobce bude hájit sám, Městský soud v Praze usnesením ze dne 23. března 2016, č.j. 34 C 4/2012-164, výrokem I. zrušil ustanovení JUDr. Lenky Radoňové zástupcem žalobce a výrokem II. vyzval žalobce, aby si ve lhůtě 20 dnů od doručení usnesení zvolil pro podání dovolání v této věci zástupcem advokáta a aby jeho prostřednictvím podal řádné dovolání. Usnesení bylo doručeno žalobci dne 24. března 2016, nedostatek podmínky řízení však do dnešního dne nebyl odstraněn.
+Nejvyšší soud jako soud dovolací (§ 10a o.s.ř.) přihlédl k čl. II bodu 2. zákona č. 293/2013 Sb., kterým mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, a vyšel tak ze znění tohoto procesního předpisu účinného od. 1. ledna 2014.
+Podle § 241 odst. 1 věty první o.s.ř., není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Odstavec první citovaného ustanovení neplatí, je-li dovolatel fyzická osoba, která má právnické vzdělání [§ 241 odst. 2 písm. a) o.s.ř.]. Podle odstavce 4 téhož ustanovení dovolání fyzické osoby musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem nebo notářem. Povinné zastoupení je tak zvláštní podmínkou dovolacího řízení týkající se dovolatele, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění není možno vydat rozhodnutí, jímž se řízení končí. Podle § 104 odst. 2 o.s.ř., jde-li o nedostatek podmínky řízení, který lze odstranit, učiní k tomu soud vhodná opatření. Nezdaří-li se nedostatek podmínky řízení odstranit, řízení zastaví.
+Z uvedeného plyne, že přes opatření provedená soudem prvního stupně dovolatel nesplnil zákonem stanovenou podmínku dovolacího řízení ve smyslu § 241 odst. 1 věty první a odst. 4 o.s.ř. Dovolací soud proto řízení o dovolání zastavil (§ 241b odst. 2 část věty před středníkem a § 104 odst. 2 věta třetí o.s.ř.).
+Výrok o náhradě nákladů dovolacího řízení není odůvodněn s přihlédnutím k ustanovení § 243f odst. 3 věta druhá o.s.ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 19. října 2016
+JUDr. Pavel Pavlík
+předseda senátu
