@@ -1,0 +1,16 @@
+33 Cdo 4528/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Blanky Moudré a soudců JUDr. Václava Dudy a JUDr. Pavla Krbka ve věci žalobkyně FIDENTIA s. r. o. se sídlem Praha 4, U strže 401/4, identifikační číslo osoby: 242 55 921, zastoupené JUDr. Monikou Šnoblovou, advokátkou se sídlem Praha 1, Betlémské náměstí 251/2, proti žalované E. Š., zastoupené Mgr. Jaroslavem Mašínem, advokátem se sídlem Praha 2, Karlovo náměstí 285/19, o zaplacení 2.048 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 24 C 151/2014, o dovolání žalované proti rozsudku Městského soudu v Praze ze dne 1. 9. 2015, č. j. 15 Co 127/2015-94, takto
+I. Dovolání se odmítá.
+II. Žádná z účastnic nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Městský soud v Praze rozsudkem ze dne 1. 9. 2015, č. j. 15 Co 127/2015-94, potvrdil rozsudek pro uznání ze dne 20. 10. 2014, č. j. 24 C 151/2014-56, kterým Obvodní soud pro Prahu 2 uložil žalované povinnost zaplatit žalobkyni do tří dnů od právní moci rozsudku částky a/ 1.024 Kč s úrokem z prodlení za období od 15. 2. 2013 do zaplacení ve výši 7,5 % ročně, b/ 1.024 Kč s úrokem z prodlení za období od 19. 6. 2013 do zaplacení ve výši 7,5 % ročně (výrok I.), a povinnost zaplatit žalobkyni na nákladech řízení částku 4.300 Kč k rukám její právní zástupkyně, do tří dnů od právní moci rozsudku (výrok II.); současně rozhodl o nákladech odvolacího řízení tak, že žádná z účastnic nemá právo na jejich náhradu.
+Žalovaná podala proti rozsudku odvolacího soudu dovolání, které (posuzováno podle jeho obsahu - § 41 odst. 2 o. s. ř.) směřuje proti té jeho části, jíž byl potvrzen rozsudek soudu prvního stupně v nákladovém výroku II.
+Dovolání je objektivně nepřípustné, neboť napadeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50.000 Kč (§ 238 odst. 1 písm. c/ zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů; dále jen „o. s. ř.“). Peněžité plnění přiznané výrokem o nákladech řízení nelze označit pro účely posouzení přípustnosti dovolání za plnění ze vztahu ze spotřebitelské smlouvy, z pracovněprávního vztahu nebo z věci uvedené v § 120 odst. 2 o. s. ř. (srov. usnesení Nejvyššího soudu ze dne 30. 5. 2013, sp. zn. 29 Cdo 1172/2013, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod č. 80/2013).
+Nejvyšší soud dovolání odmítl (§ 243c odst. 1 věta první o. s. ř.).
+Pro úplnost se dodává, že přípustnost dovolání nezakládá nesprávné poučení odvolacího soudu o tom, že dovolání je přípustné (srov. usnesení Nejvyššího soudu ze dne 27. 6. 2002, sp. zn. 29 Odo 425/2002, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod č. 51/2003, usnesení Nejvyššího soudu ze dne 29. 8. 2002, sp. zn. 29 Odo 381/2002, uveřejněné v časopise Soudní judikatura pod č. 203/2002, usnesení Nejvyššího soudu ze dne 20. 5. 2003, sp. zn. 29 Odo 10/2003, uveřejněné v časopise Soudní judikatura pod č. 118/2003).
+O nákladech řízení bylo rozhodnuto podle § 243c odst. 3, § 224 odst. 1 a § 146 odst. 3 o. s. ř. za situace, kdy náklady, které vznikly žalobkyni, nelze považovat za účelně vynaložené, neboť vyjádření k dovolání nevystihuje důvod odmítnutí dovolání.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. října 2016
+JUD. Blanka Moudrá
+předsedkyně senátu
