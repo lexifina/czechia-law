@@ -1,0 +1,14 @@
+21 Cdo 4169/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Jiřího Doležílka a soudců JUDr. Mojmíra Putny a JUDr. Ljubomíra Drápala v právní věci žalobce Sallerova výstavba Plan V s. r. o. se sídlem v Otvicích, Obchodní zóna č. 266, IČO 27266265, zastoupeného Ass. jur. Denisem Dieterem Riedigerem, advokátem se sídlem v Praze 2 – Novém Městě, Rašínovo nábřeží č. 383/58, proti žalovaným 1) UniCredit Bank Czech Republic and Slovakia, a. s. se sídlem v Praze 4 - Michli, Želetavská č. 1525/1, IČO 64948242, a 2) UB REAL ESTATE a. s. se sídlem v Praze 5, Pekařská č. 1/598, IČO 28976231, zastoupenému JUDr. Michaelou Šerou, advokátkou se sídlem v Praze 1 – Starém Městě, Revoluční č. 1003/3, o určení, že nemovitosti nejsou zatíženy zástavním právem, vedené u Obvodního soudu pro Prahu 5 pod sp. zn. 28 C 397/2014, o dovolání žalovaného 2) proti usnesení Městského soudu v Praze ze dne 10. května 2016 č. j. 72 Co 84/2016-189, takto:
+I. Dovolání žalovaného 2) se odmítá.
+II. Žalovaný 2) je povinen zaplatit žalobci na náhradě nákladů dovolacího řízení 550 Kč do 3 dnů od právní moci tohoto usnesení k rukám Ass. jur. Denise Dietera Riedigera, advokáta se sídlem v Praze 2 – Novém Městě, Rašínovo nábřeží č. 383/58; jinak žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalovaného 2) proti usnesení Městského soudu v Praze ze dne 10. 5. 2016 č. j. 72 Co 84/2016-189 není přípustné podle ustanovení § 237 o. s. ř., neboť rozhodnutí odvolacího soudu je z hlediska uplatněného dovolacího důvodu v souladu s ustálenou rozhodovací praxí dovolacího soudu [srov. například usnesení Nejvyššího soudu ze dne 28. 1. 2016 sp. zn. 21 Cdo 1452/2015 a v něm uvedený právní názor, že předmětem řízení zahájeného žalobou o určení, že nemovitost není zatížena zástavním právem, není zajištěná pohledávka ani zástava (zastavená nemovitost), nýbrž určení, že tu zástavní právo není, a že vzhledem k tomu, že zástavní právo nemá samo o sobě žádnou vlastní majetkovou hodnotu, nelze takový předmět řízení ocenit penězi; předmětem řízení o určení, že nemovitost není zatížena zástavním právem, tedy není věc ocenitelná penězi] a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+V části, v níž žalovaný 2) uplatnil jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o. s. ř. (namítá-li vadu řízení, kterou spatřuje v tom, že usnesení odvolacího soudu je nepřezkoumatelné), dovolání trpí vadou, pro kterou nelze v dovolacím řízení pokračovat.
+Nejvyšší soud České republiky proto dovolání žalovaného 2) podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. října 2016
+JUDr. Jiří Doležílek
+předseda senátu
