@@ -1,0 +1,30 @@
+{
+  "record_type": "case-law",
+  "court": "Nejvyšší soud České republiky",
+  "date": "2016-10-31",
+  "date_basis": "Official NS database (Rozhodnutí a stanoviska Nejvyššího soudu): Datum rozhodnutí 31. 10. 2016 (decision date).",
+  "ecli": "ECLI:CZ:NS:2016:29.CDO.4123.2014.1",
+  "docket": "29 Cdo 4123/2014",
+  "decision_type": "Usnesení",
+  "source": "https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/WebSearch/989B6272540D257BC125816E00314194?openDocument",
+  "source_sha256": "2061353b06ffa5400efd6716b27cd52380f6ba92c0b2be7d8835c4114b7c61fd",
+  "source_unid": "989B6272540D257BC125816E00314194",
+  "text_status": "as-published (pseudonymised by the court)",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "fields": {
+    "Právní věta": "Účastníci řízení a soudy jsou vázáni usnesením o věcné příslušnosti nadřízeného soudu. Tato vázanost se ovšem promítá výlučně v posouzení procesní otázky řešené výrokem (§ 159a odst. 1 a 4 o. s. ř., ve znění účinném do 31. 12. 2013), tedy v posouzení, který soud je věcně příslušný k projednání a rozhodnutí věci v prvním stupni. Je naopak vyloučeno, aby nadřízený soud rozhodující o věcné příslušnosti v režimu § 104a o. s. ř. formuloval jakýkoli závazný právní názor k otázce, jak má být meritorně posouzen žalobou uplatněný nárok, nebo aby (dokonce) soud, jemuž byla věc postoupena jako soudu věcně příslušnému, nebo účastníci řízení vydávali závěry, jež nadřízený soud přijal pro účely odpovědi na otázku, který soud je v prvním stupni věcně příslušný k projednání a rozhodnutí věci, za závazný právní názor při následném rozhodování takto určeného věcně příslušného soudu o žalobou uplatněném nároku. Odpůrčí nárok podle insolvenčního zákona neztrácí tuto svou povahu jen proto, že k jeho projednání a rozhodnutí byl rozhodnutím nadřízeného soudu závazně určen jiný (než zákonem předepsaný) soud prvního stupně. I takový nárok nepochybně má (musí) být v meritorním rozhodnutí poměřován úpravou obsaženou v ustanoveních § 235 a násl. insolvenčního zákona.",
+    "Soud": "Nejvyšší soud",
+    "Datum rozhodnutí": "31. 10. 2016",
+    "Spisová značka": "29 Cdo 4123/2014",
+    "ECLI": "ECLI:CZ:NS:2016:29.CDO.4123.2014.1",
+    "Typ rozhodnutí": "USNESENÍ",
+    "Heslo": "Incidenční spory\nPříslušnost soudu věcná",
+    "Dotčené předpisy": "§ 235 IZ.\n§ 104a odst. 7 o. s. ř. ve znění do 31.12.2013\n§ 159a o. s. ř. ve znění do 31.12.2013",
+    "Kategorie rozhodnutí": "A",
+    "Zveřejněno na webu": "31. 7. 2017",
+    "Publikováno ve sbírce pod číslem": "95 / 2018",
+    "Anotace": "Nejvyšší soud v dotčeném usnesení podal výklad k otázce povahy vázanosti výroku nadřízeného soudu rozhodujícího o věcné příslušnosti soudu prvního stupně podle § 104a o. s. ř. a též se i vyjádřil k otázce závaznosti právního názoru vysloveného tímto nadřízeným soudem pro meritorní řešení věci (v posuzované věci šlo o tvrzenou neúčinnost právních úkonů dlužníka v režimu insolvenčního zákona)."
+  }
+}
