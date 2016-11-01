@@ -1,0 +1,15 @@
+20 Cdo 2469/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové, Ph.D., a soudců JUDr. Zbyňka Poledny a JUDr. Vladimíra Kůrky v exekuční věci oprávněné Všeobecné zdravotní pojišťovny České republiky, se sídlem v Praze 3, Orlická 2020/4, identifikační číslo osoby 41197518, proti povinné V. P., P., pro 23 004 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 3 pod sp. zn. 36 EXE 2974/2014, o dovolání povinné proti usnesení Městského soudu v Praze ze dne 14. 1. 2015, č. j. 16 Co 521/2014-58, takto:
+Dovolání se odmítá.
+Odůvodnění:
+V záhlaví označeným usnesením Městský soud v Praze potvrdil usnesení ze dne 23. 10. 2014, č. j. 36 EXE 2974/2014-15, kterým Obvodní soud pro Prahu 3 zamítl návrh povinné na povolení odkladu exekuce (výrok I.) a žádost o ustanovení zástupce z řad advokátů (výrok II.).
+Usnesení odvolacího soudu napadla povinná dovoláním. Nejvyšší soud dovolání projednal a rozhodl o něm podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2014 (dále jen „o. s. ř.“).
+Dovolání, jímž je napadáno rozhodnutí odvolacího soudu v části, kterou bylo potvrzeno usnesení soudu prvního stupně ve výroku I., není přípustné, neboť odvolací soud rozhodoval ve věci odkladu exekuce [§ 238 odst. 1 písm. d) o. s. ř.].
+Dovolání směřující proti usnesení odvolacího soudu v části, jíž bylo potvrzeno usnesení soudu prvního stupně ve výroku II., kterým byla zamítnuta žádost povinné o ustanovení zástupce z řad advokátů pro řízení o jejím návrhu na zastavení exekuce, se stalo bezpředmětným (srov. např. usnesení Nejvyššího soudu ze dne 30. 9. 2004, sp. zn. 29 Odo 611/2002, usnesení Nejvyššího soudu ze dne 21. 1. 2015, sp. zn. 29 Cdo 3863/2014, usnesení Ústavního soudu ze dne 9. 4. 2015, sp. zn. III. ÚS 1057/15), neboť i kdyby dovolací soud dovolání vyhověl a rozhodnutí odvolacího soudu zrušil, nemohlo by dojít k povinnou požadovanému ustanovení advokáta – řízení o návrhu povinné na zastavení exekuce, pro něž ustanovení zástupce požadovala, totiž již bylo pravomocně skončeno [viz usnesení Obvodního soudu pro Prahu 3 ze dne 10. 3. 2015, č. j. 36 EXE 2974/2014-85, ve spojení s usnesením Městského soudu v Praze ze dne 16. 7. 2015, č. j. 16 Co 234/2015-121; proti usnesení odvolacího soudu přitom není podle § 238 odst. 1 písm. c) dovolání přípustné, protože bylo rozhodováno o zastavení exekuce vedené k vymožení částky 23 004 Kč s příslušenstvím].
+Nejvyšší soud proto dovolání podle § 243c odst. 1 o. s. ř. odmítl, aniž se zabýval nedostatkem povinného zastoupení dovolatelky (§ 241 a § 241b odst. 2 o. s. ř.), k jehož odstranění byla vyzvána usnesením Obvodního soudu pro Prahu 3 ze dne 10. 9. 2015, č. j. 36 EXE 2974/2014-125.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu [§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění pozdějších předpisů].
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 1. listopadu 2016
+JUDr. Miroslava Jirmanová, Ph.D.
+předsedkyně senátu
