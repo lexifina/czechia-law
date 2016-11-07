@@ -1,0 +1,14 @@
+21 Cdo 4285/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Zdeňka Novotného a soudců JUDr. Ljubomíra Drápala a JUDr. Mojmíra Putny v právní věci žalobce D. K., zastoupeného JUDr. Ing. Janem Vychem, advokátem se sídlem v Praze 2, Lazarská č. 11/6, proti žalované HEWLETT-PACKARD s.r.o., se sídlem v Praze 4, Vyskočilova č. 1/1410, IČO 170 48 851, zastoupené Mgr. Karin Konstantinovovou, advokátkou se sídlem v Praze 1, Benediktská č. 690/7, o určení, že pracovní poměr trvá, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 10 C 104/2015, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 1. června 2016 č. j. 23 Co 136/2016-122, takto:
+I. Dovolání žalobce se odmítá.
+II. Žalobce je povinen zaplatit žalované na náhradě nákladů dovolacího řízení 3.388 Kč do tří dnů od právní moci tohoto usnesení k rukám Mgr. Karin Konstantinovové, advokátky se sídlem v Praze 1, Benediktská č. 690/7.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 1.6.2016 č. j. 23 Co 136/2016-122 není přípustné podle ustanovení § 237 o.s.ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu (k otázce nedostatku naléhavého právního zájmu na určení, zda tu právo či právní vztah je či není a s ním spojené nemožnosti žalobu přezkoumat po stránce věcné srov. například rozsudek býv. Nejvyššího soudu ČSR ze dne 24.2.1971 sp. zn. 2 Cz 8/71, uveřejněný pod č. 17 ve Sbírce soudních rozhodnutí a stanovisek, roč. 1972, rozsudek Nejvyššího soudu ze dne 27.3.1997 sp. zn. 3 Cdon 1338/96, uveřejněný pod č. 21 v časopise Soudní judikatura, roč. 1997, rozsudek Nejvyššího soudu ze dne 20.3.1996 sp. zn. II Odon 50/96, uveřejněný v časopise Soudní rozhledy č. 5, ročník 1996, usnesení Nejvyššího soudu ze dne 14.3.2007 sp. zn. 21 Cdo 939/2006 nebo rozsudek Nejvyššího soudu ze dne 29.5.2012 sp. zn. 21 Cdo 893/2011) a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+V části, v níž dovolatel uplatnil jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o.s.ř. [vznáší-li výhrady proti provádění dokazování a hodnocení důkazů odvolacím soudem (i soudem prvního stupně) a zpochybňuje-li skutková zjištění, která byla pro právní posouzení věci odvolacím soudem rozhodující], dovolání trpí vadami, pro které nelze v dovolacím řízení pokračovat. V této souvislosti nemůže být důvodná ani námitka porušení práva na spravedlivý proces, neboť právo na spravedlivý proces nelze interpretovat tak, že by znamenalo právo na příznivé rozhodnutí ve věci.
+Nejvyšší soud České republiky proto dovolání žalobce podle ustanovení § 243c odst. 1 věty první o.s.ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 věty druhé o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 7. listopadu 2016
+JUDr. Zdeněk Novotný
+předseda senátu
