@@ -1,0 +1,16 @@
+32 Cdo 3051/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Pavla Příhody a JUDr. Hany Gajdziokové v právní věci žalobkyně Stavební spořitelny České spořitelny, a.s., se sídlem v Praze 3, Vinohradská 180/1632, PSČ 130 11, identifikační číslo osoby 60197609, zastoupené Mgr. Markem Lošanem, advokátem se sídlem v Praze 1, Na Florenci 2116/15, proti žalovanému J. Ř., zastoupenému JUDr. Michaelou Pretschovou, advokátkou se sídlem ve Varnsdorfu, Pražská 2951, o zaplacení 118 578,10 Kč s příslušenstvím, vedené u Okresního soudu v Děčíně pod sp. zn. 21 C 22/2013, o dovolání žalovaného proti usnesení Krajského soudu v Ústí nad Labem ze dne 26. 6. 2014, č. j. 17 Co 340/2014-48, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Žalovaný podal dovolání proti v záhlaví označenému usnesení, jímž Krajský soud v Ústí nad Labem potvrdil usnesení Okresního soudu v Děčíně ze dne 15. 4. 2014, č. j. 21 C 22/2013-41, jímž žalovanému nebyl ustanoven zástupce z řad advokátů.
+Nejvyšší soud projednal dovolání a rozhodl o něm – v souladu s bodem 7. čl. II přechodných ustanovení části první zákona č. 404/2012 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony, a s bodem 2. čl. II přechodných ustanovení části první zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony – podle občanského soudního řádu ve znění účinném od 1. 1. 2013 do 31. 12. 2013 (dále jen „o. s. ř.“).
+Dovolání trpí vadou, neboť dovolatel v dovolání oproti požadavkům vymezeným pro obsah dovolání v § 241a odst. 2 o. s. ř. neuvedl, v čem spatřuje splnění předpokladů přípustnosti dovolání (srov. § 237 o. s. ř.).
+Požadavek, aby dovolatel v dovolání konkrétně popsal, v čem spatřuje splnění předpokladů přípustnosti dovolání, je obligatorní náležitostí dovolání. Může-li být dovolání přípustné jen podle § 237 o. s. ř. (jako v této věci), je dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné (srov. shodně například usnesení Nejvyššího soudu ze dne 29. 8. 2013, sp. zn. 29 Cdo 1983/2013, jež je veřejnosti k dispozici in www.nsoud.cz), přičemž musí být z obsahu dovolání patrno, o kterou otázku hmotného nebo procesního práva jde (srov. shodně například usnesení Nejvyššího soudu ze dne 25. 9. 2013, sp. zn. 29 Cdo 2394/2013, uveřejněné pod číslem 4/2014 Sbírky soudních rozhodnutí a stanovisek).
+Uvedený nedostatek nelze již odstranit, neboť lhůta pro podání dovolání, během níž tak bylo možno učinit (srov. § 241b odst. 3 větu první o. s. ř.), dovolateli uplynula. Jde přitom o takovou vadu, jež brání pokračování v dovolacím řízení, neboť v důsledku absence uvedené náležitosti nelze posoudit přípustnost dovolání.
+Nejvyšší soud proto dovolání podle § 243c odst. 1 o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení nebylo rozhodováno, neboť nejde o rozhodnutí, jímž se řízení končí (srov. § 151 odst. 1 o. s. ř., jakož i usnesení Nejvyššího soudu ze dne 23. 7. 2002, sp. zn. 20 Cdo 970/2001, uveřejněné pod číslem 48/2003 Sbírky soudních rozhodnutí a stanovisek).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 8. 11. 2016
+JUDr. Miroslav G a l l u s
+předseda senátu
