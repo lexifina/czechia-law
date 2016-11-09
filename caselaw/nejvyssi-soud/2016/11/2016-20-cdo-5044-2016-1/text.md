@@ -1,0 +1,12 @@
+20 Cdo 5044/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Zbyňka Poledny a soudců JUDr. Miroslavy Jirmanové, Ph.D., a JUDr. Karla Svobody, Ph.D., v exekuční věci oprávněné Bohemia Faktoring, s. r. o., se sídlem v Praze 1 – Malá Strana, Letenská č. 121/8, identifikační číslo osoby 27242617, zastoupené JUDr. Karlem Goláněm, Ph.D., advokátem se sídlem v Praze 1 – Malá Strana, Letenská č. 121/8, proti povinnému T. P., K., pro 51 267,07 Kč s příslušenstvím, vedené u soudního exekutora JUDr. Lukáše Jíchy, Exekutorský úřad Přerov, pod sp. zn. 203 Ex 20699/10, o dovolání oprávněné proti usnesení Krajského soudu v Plzni ze dne 29. prosince 2015, č. j. 64 Co 447/2015-119, takto:
+I. Dovolání oprávněné se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.) :
+Nejvyšší soud dovolání oprávněné proti usnesení Krajského soudu v Plzni ze dne 29. prosince 2015, č. j. 64 Co 447/2015-119, podle ustanovení § 243c odst. 1 věty první zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. prosince 2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, odmítl, protože směřuje proti usnesení odvolacího soudu, kterým bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50 000 Kč [§ 238 odst. 1 písm. d) o. s. ř., a v dovolacím řízení proto nelze pokračovat. Dovoláním napadeným usnesením totiž jednak bylo potvrzeno usnesení soudního exekutora JUDr. Tomáše Vrány ze dne 27. 5. 2015, č. j. 103 Ex 20699/10-109, v odvoláním napadené části, kterou byl výrok II o tom, že oprávněná je povinna nahradit exekutorovi náklady exekuce ve výši 7 865 Kč (výrok I), jednak bylo rozhodnuto, že oprávněná ve vztahu k exekutorovi nemá právo na náhradu nákladů odvolacího řízení (výrok II), když případné náklady oprávněné v odvolacím řízení by rovněž nepřesáhly částku 50 000 Kč.
+O nákladech dovolacího řízení rozhodl dovolací soud podle § 243c odst. 3, věta první, § 224 odst. 1 a § 142 odst. 1 o. s. ř., kdy dovolatelka s ohledem na výsledek řízení nemá na náhradu nákladů řízení právo, zatímco povinnému v tomto řízení žádné náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 9. listopadu 2016
+JUDr. Zbyněk Poledna
+předseda senátu
