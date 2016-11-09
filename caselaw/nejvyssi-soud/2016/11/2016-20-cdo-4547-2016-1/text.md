@@ -1,0 +1,14 @@
+20 Cdo 4547/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové, Ph.D., a soudců JUDr. Vladimíra Kůrky a JUDr. Karla Svobody, Ph.D., v exekuční věci oprávněného Eurotest s. r. o., se sídlem ve Starých Hodějovicích, Na Návsi č. 84, identifikační číslo osoby 26097036, zastoupené JUDr. Ing. Janou Šrámkovou, advokátkou se sídlem v Českých Budějovicích, Žižkova č. 309/12, proti povinné B. S., Č. B., pro 48 221 Kč s příslušenstvím, vedené u Mgr. Martina Roubala, soudního exekutora Exekutorského úřadu v Jindřichově Hradci, pod sp. zn. 188 EX 125/16, o dovolání oprávněné proti usnesení Krajského soudu v Českých Budějovicích ze dne 4. května 2016, č. j. 24 Co 933/2016-17, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Krajský soud v Českých Budějovicích v záhlaví označeným usnesením rozhodl o odvolání oprávněné do usnesení ze dne 12. 4. 2016, č. j. 188 EX 125/16-11, kterým soudní exekutor Mgr. Martin Roubal zcela zamítl exekuční návrh oprávněné, a to tak, že výrokem I. odvolací soud potvrdil napadené rozhodnutí v části, v níž byl zamítnut návrh oprávněné na nařízení a provedení exekuce pro částku 43 721 Kč se zákonným úrokem z prodlení ve výši 8,05 % z této částky od 1. 1. 2015 do zaplacení oproti odevzdání movitých věcí popsaných ve výroku I. exekučního titulu, jímž je rozsudek Okresního soudu v Českých Budějovicích ze dne 19. 11. 2015, č. j. 28 C 248/2015-25; odvolací soud naproti tomu výrokem II. dovoláním napadeného usnesení zrušil usnesení exekutora v části, v níž byl zamítnut návrh oprávněné na nařízení a provedení exekuce z výroků II. a III. téhož exekučního titulu pro 4.500,- Kč se zákonným úrokem z prodlení ve výši 8,05% ročně od 6. 5. 2015 do zaplacení, a pro pohledávku nákladů nalézacího řízení ve výši 16 823,10 Kč.
+Oprávněná napadla usnesení odvolacího soudu dovoláním směřovaným do výroku I. Nejvyšší soud dovolání projednal a rozhodl o něm podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2014, dále „o. s. ř.“.
+Dovolání není přípustné, neboť směřuje proti usnesení odvolacího soudu, jímž bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50 000 Kč [§ 238 odst. 1 písm. c) o. s. ř.] – odvolací soud rozhodoval ve věci exekuce nařízené k vymožení částky 48 221 Kč s příslušenstvím [srov. usnesení Nejvyššího soudu ze dne 31. 10. 2013, sp. zn. 20 Cdo 1977/2013 (proti němuž podaná ústavní stížnost byla odmítnuta usnesením Ústavního soudu ze dne 27. 2. 2014, sp. zn. III. ÚS 346/14)].
+Nejvyšší soud tedy dovolání podle § 243c odst. 1 o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu [§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění pozdějších předpisů].
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 9. listopadu 2016
+JUDr. Miroslava Jirmanová, Ph.D.
+předsedkyně senátu
