@@ -1,0 +1,14 @@
+20 Nd 370/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové, Ph.D., a soudců JUDr. Zbyňka Poledny a JUDr. Vladimíra Kůrky ve věci žalobkyně K. K., Č., zastoupené Mgr. Karolínou Babákovou, advokátkou se sídlem v Praze 5, Bucharova 1314/8, proti žalované FRYMIS, a. s., se sídlem ve Frýdku-Místku, Slezská 2766, identifikační číslo osoby 61974722, zastoupené JUDr. Taťánou Přibilovou, advokátkou se sídlem v Kopřivnici, Kadláčkova 894/17, o vyloučení nemovitých věcí z exekuce, vedené u Okresního soudu Praha-západ pod sp. zn. 10 C 171/2013, o návrhu žalobkyně na odklad právní moci rozsudku Krajského soudu v Praze ze dne 29. 6. 2016, č. j. 20 Co 316/2014-252, takto:
+Právní moc rozsudku Krajského soudu v Praze ze dne 29. 6. 2016, č. j. 20 Co 316/2014-252, se v části, jíž byl potvrzen rozsudek Okresního soudu Praha-západ ze dne 17. 3. 2014, č. j. 10 C 171/2013-79, odkládá do právní moci rozhodnutí o dovolání podaném proti tomuto rozhodnutí.
+O d ů v o d n ě n í :
+Žalovaná podala u Nejvyššího soudu prostřednictvím Okresního soudu Praha-západ návrh na odklad právní moci rozsudku Krajského soudu v Praze ze dne 29. 6. 2016, č. j. 20 Co 316/2014-252, který napadla dovoláním. Návrh odůvodnila tím, že předmětem tohoto řízení je návrh na vyloučení nemovitostí z exekuce, nařízené na majetek jejího manžela usnesením Okresního soudu Praha-západ ze dne 14. 2. 2012, č. j. 216 EXE 5323/2012-46, k uspokojení pohledávky žalované ve výši 47 835 000 Kč s příslušenstvím, přičemž pověřená soudní exekutorka JUDr. Alena Blažková, Ph.D., Exekutorský úřad Brno-město, usnesením ze dne 14. 9. 2016, č. j. 006 EX 1349/11-970, nařídila za účelem dražby těchto nemovitostí elektronické dražební jednání na den 22. 11. 2016.
+Nejvyšší soud rozhodl o návrhu podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2013 (srov. část první čl. II bod 2 zákona č. 293/2013 Sb.), dále jen „o. s. ř.“.
+Podle § 243 písm. b/ o. s. ř. před rozhodnutím o dovolání může dovolací soud i bez návrhu odložit právní moc napadeného rozhodnutí, je-li dovolatel závažně ohrožen ve svých právech a nedotkne-li se odklad právních vztahů jiné osoby než účastníka řízení.
+Vzhledem k tomu, že dovolatelka je realizací dražby nemovitostí, jež jsou předmětem řízení o jejím návrhu na vyloučení věcí z exekuce, závažně ohrožena ve svých právech, Nejvyšší soud (aniž by tím předjímal rozhodnutí o podaném dovolání) rozhodl, že se právní moc rozsudku Krajského soudu v Praze ze dne 29. 6. 2016, č. j. 20 Co 316/2014-252, v rozsahu vyplývajícím z výroku tohoto usnesení odkládá až do právní moci rozhodnutí o dovolání.
+Podmínky pro odklad právní moci či vykonatelnosti zbývajících výroků napadeného rozhodnutí odvolacího soudu (vzhledem k jejich povaze) nebyly shledány.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 18. listopadu 2016
+JUDr. Miroslava Jirmanová, Ph.D.
+předsedkyně senátu
