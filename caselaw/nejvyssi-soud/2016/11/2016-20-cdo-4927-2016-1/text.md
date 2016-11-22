@@ -1,0 +1,16 @@
+20 Cdo 4927/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové, Ph.D., a soudců JUDr. Ivany Kudrnové a JUDr. Zbyňka Poledny v exekuční věci oprávněné S. B., zastoupené JUDr. Ing. Pavlem Novákem, Ph.D., advokátem se sídlem v Praze 7, Komunardů č. 36, proti povinnému Ing. M. B., zastoupenému JUDr. Barborou Štěpánkovou, advokátkou se sídlem ve Svitavách, Lanškrounská 11, pro 2 000 Kč s příslušenstvím, vedené u Okresního soudu ve Svitavách pod sp. zn. 9 Nc 3885/2009, o dovolání povinného proti usnesení Krajského soudu v Hradci Králové – pobočka v Pardubicích ze dne 23. 7. 2013, č. j. 22 Co 201/2013-138, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+Okresní soud ve Svitavách usnesením ze dne 30. 5. 2011, č. j. 9 Nc 3885/2009-93, zamítl návrh povinného na zastavení exekuce (výrok I), vedené již jen pro vymožení náhrady nákladů náležejících oprávněné ve výši 4 740 Kč (výrok II) a soudnímu exekutorovi ve výši 8 340 Kč [viz příkaz k úhradě, vydaný soudním exekutorem JUDr. Ivanem Erbenem, Exekutorský úřad Praha 8, se sídlem v Praze 5, U Okrouhlíků č. 3/1820, ze dne 8. 4. 2011, sp. zn. 021 EX 3290/09 /nesprávně ve výroku uvedeno ze dne 4. 4. 2011/, na který soud odkázal]. Rozhodnutí o zamítnutí námitek povinného do zmíněného příkazu k úhradě nákladů exekuce soudnímu exekutorovi (výrok III) bylo nálezem Ústavního soudu ze dne 27. 8. 2013, sp. zn. II. ÚS 1898/11, zrušeno.
+Krajský soud v Hradci Králové – pobočka v Pardubicích v záhlaví označeným rozhodnutím usnesení okresního soudu o zamítnutí návrhu povinného na úplné zastavení exekuce (ve výroku I) potvrdil s odůvodněním, že úplnému zastavení exekuce dosud brání nevymožené náklady exekuce (§ 55a zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Povinný napadl usnesení odvolacího soudu dovoláním.
+Nejvyšší soud dovolání projednal a rozhodl o něm podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2013 do 31. 12. 2013 (srov. část první čl. II bod 7 zákona č. 404/2012 Sb. a část první čl. II bod 2 zákona č. 293/2013 Sb.), dále „o. s. ř.“.
+Dovolání proti usnesení odvolacího soudu není přípustné, neboť směřuje proti usnesení odvolacího soudu, jímž bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50 000 Kč (§ 238 odst. 1 písm. d/ o. s. ř.). Náklady oprávněné činí 4 740 Kč a náklady soudního exekutora, které s ohledem na shora citovaný nález Ústavního soudu dosud do úvahy přicházející ve výši 8 340 Kč je nemohou přesáhnout (srov. usnesení Nejvyššího soudu ze dne 21. 10. 2015, sp. zn. 26 Cdo 4236/2015, či usnesení Nejvyššího soudu ze dne 31. 10. 2013, sp. zn. 20 Cdo 1977/2013, proti němuž podaná ústavní stížnost byla odmítnuta usnesením Ústavního soudu ze dne 27. 2. 2014, sp. zn. III. ÚS 346/14).
+Nejvyšší soud tedy dovolání podle § 243c odst. 1 o. s. ř. odmítl.
+O náhradě nákladů dovolacího řízení bude rozhodováno ve zvláštním režimu ( § 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti /exekuční řád/ a o změně dalších zákonů, ve znění pozdějších předpisů).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 22. listopadu 2016
+JUDr. Miroslava Jirmanová, Ph.D.
+předsedkyně senátu
