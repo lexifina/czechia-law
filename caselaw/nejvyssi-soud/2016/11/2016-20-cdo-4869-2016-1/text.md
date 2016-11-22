@@ -1,0 +1,19 @@
+20 Cdo 4869/2016
+U S N E S E N Í
+Nejvyšší soud rozhodl předsedou senátu JUDr. Vladimírem Kůrkou v exekuční věci oprávněné České pojišťovny a. s., sídlem Spálená 75/16, 113 04 Praha 1, identifikační číslo osoby 45272956, právně zastoupené JUDr. Karlem Valdaufem, advokátem, sídlem Vinohradská 938/37, 120 00 Praha 2, proti povinnému J. S., O., zastoupenému Mgr. Ondřejem Masopustem, advokátem, sídlem Riegrova 394/17, 779 00 Olomouc, pro 1 962,- Kč s příslušenstvím, vedené u soudního exekutora Mgr. Davida Koncze, Exekutorský úřad Cheb, pod sp. zn. 074 EX 04822/11, za účasti vedlejšího účastníka – vydražitelky B. L., O., o dovolání povinného proti usnesení Krajského soudu v Ostravě – pobočka v Olomouci ze dne 27. 5. 2016, č. j. 40 Co 46/2016-162, takto:
+Dovolání se odmítá.
+Odůvodnění (stručné dle § 243f odst. 3 o. s. ř.) :
+Krajský soud v Ostravě – pobočka v Olomouci, potvrdil napadeným rozhodnutím usnesení soudního exekutora Mgr. Davida Koncze, Exekutorský úřad Cheb, ze dne 16. 12. 2015, č. j. 074 EX 04822/11-087, jímž udělil příklep na ideální spoluvlastnický podíl tam označených nemovitých věcí vydražitelce B. L., O., za nejvyšší podání 57 000,- Kč.
+Povinný ve včasném dovolání namítá, že se soudní exekutor dopouští porušení zákona tím, že pro vymožení pohledávky o výši necelých dvou tisíc korun provádí exekuci prodejem nemovitých věcí, což představuje značný nepoměr mezi dlužnou částkou a cenou exekvovaných nemovitostí a činí zvolený způsob výkonu zřejmě nevhodným. Navrhl, aby dovolací soud napadené rozhodnutí změnil tak, že se příklep na označených nemovitostech neuděluje, popř. aby je zrušil a věc vrátil odvolacímu soudu k novému projednání.
+Nejvyšší soud dovolání projednal a rozhodl o něm podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění zákona č. 404/2012 Sb. (čl. II. bod 1, a contr. bod 7., čl. II bod 2 zákona č. 293/2013 Sb.), dále jen „o. s. ř.“, a odmítl je podle ustanovení § 243c odst. 1 o. s. ř., neboť nesplňuje obligatorní náležitosti uvedené v ustanovení § 241a odst. 2 o. s. ř., jestliže – mimo jiné, zde však zvláště – neobsahuje údaj o tom, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání.
+Z ustanovení § 241a odst. 2 o. s. ř. se totiž podává, že v dovolání musí být uvedeno – krom obecných náležitostí (§ 42 odst. 4 o. s. ř.), proti kterému rozhodnutí směřuje, v jakém rozsahu se rozhodnutí napadá, vymezení důvodu dovolání a čeho se dovolatel domáhá (dovolací návrh) – také to, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a o. s. ř.).
+Řečené jest významné právě v nyní posuzovaném případě.
+Povinný totiž povýtce žádné předpoklady přípustnosti dovolání neoznačil a dovolací soud toliko – a bez dalšího – žádá, aby rozhodl jinak, než soud odvolací, resp. než pověřený soudní exekutor, čímž jest ovšem míjen účel dovolání jako specifického a mimořádného opravného prostředku.
+Již jen nad tento rozhodný rámec stojí za zaznamenání, že vhodnost soudním exekutorem zvoleného způsobu výkonu nelze nepoměřovat i tím, co se podává z přiloženého exekučního spisu, že na majetek povinného bylo do exekučního řízení přihlášeno celkem osm dalších pohledávek (č. l. 67-74), jakož i důsledky zahájeného insolvenčního řízení proti povinnému, které je vedeno u Krajského soudu v Ostravě - pobočka v Olomouci pod sp. zn. KSOL 20 INS 23070/2016.
+Jelikož má dovolání vady, pro něž nelze v dovolacím řízení pokračovat, Nejvyšší soud je podle § 243c odst. 1 o. s. ř. odmítl.
+Učinil tak rozhodnutím předsedy senátu podle ustanovení § 243f odst. 2 o. s. ř., a jen se stručným odůvodněním ve smyslu ustanovení § 243f odst. 3 o. s. ř. Zdůrazňuje se, že důvodem odmítnutí není nepřípustnost podaného dovolání, nýbrž jeho (neodstraněné) vady.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. exekučního řádu).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 22. listopadu 2016
+JUDr. Vladimír K ů r k a
+předseda senátu
