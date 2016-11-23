@@ -1,0 +1,12 @@
+22 Cdo 3669/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy Mgr. Michala Králíka, Ph.D., a soudců JUDr. Jiřího Spáčila, CSc., a Mgr. Davida Havlíka ve věci žalobkyně MARSERVIS, s. r. o., IČO: 46886061, se sídlem v Chodově, Vančurova 341, zastoupené JUDr. Michalem Zsemlerem, advokátem se sídlem v Plzni, Kardinála Berana 8, proti žalovanému městu Chodov, IČO: 259349, se sídlem v Chodově, Komenského 1077, zastoupenému JUDr. Vladislavem Bílkem, advokátem se sídlem v Klatovech, Čs. legií 143, o určení vlastnického práva, vedené u Okresního soudu v Sokolově pod sp. zn. 16 C 408/2010, o dovolání žalobce proti rozsudku Krajského soudu v Plzni ze dne 1. dubna 2016, č. j. 25 Co 223/2015-706, o odkladu právní moci rozhodnutí, takto:
+Právní moc rozsudku Krajského soudu v Plzni ze dne 1. dubna 2016, č. j. 25 Co 223/2015-706, ve spojení s rozsudkem Okresního soudu v Sokolově ze dne 30. ledna 2015, č. j. 16 C 408/2010-553, se odkládá až do právní moci rozhodnutí o dovolání podaném žalobcem v této věci.
+Odůvodnění:
+Žalobkyně podala dovolání proti ve výroku označenému rozsudku Krajského soudu v Praze, kterým byl potvrzen rozsudek Okresního soudu v Sokolově (dále jen „soud prvního stupně“) ze dne 30. ledna 2015, č. j. 16 C 408/2010-553, a tím zamítnuta její žaloba na určení, že je vlastnicí věcí označených ve výroku I. rozsudku soudu prvního stupně. Současně navrhla, aby dovolací soud odložil právní moc napadeného rozhodnutí.
+Žalovaná se k návrhu na odklad právní moci nevyjádřila.
+Podle § 243 písm. b) zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném od 1. 1. 2014 (dále jen „o. s. ř.“), před rozhodnutím o dovolání může dovolací soud i bez návrhu odložit právní moc napadeného rozhodnutí, je-li dovolatel závažně ohrožen ve svých právech a nedotkne-li se odklad právních poměrů jiné osoby než účastníka řízení.
+Vzhledem k tomu, že je dovolatelka ohrožena na svých právech s ohledem na možné zrušení licence v rámci řízení probíhajícího u Energetického regulačního úřadu, a odklad právní moci se nedotkne jiných osob než účastníků řízení, Nejvyšší soud (aniž by tím předjímal rozhodnutí o dovolání) rozhodl, že se vykonatelnost právní moc odvolacího soudu odkládá až do právní moci rozhodnutí o dovolání podaném v označené věci žalobcem [§ 243 písm. a) o. s. ř.].
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 23. listopadu 2016
+Mgr. Michal Králík, Ph.D. předseda senátu
