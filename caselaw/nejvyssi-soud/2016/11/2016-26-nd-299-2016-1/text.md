@@ -1,0 +1,12 @@
+26 Nd 299/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Pavlíny Brzobohaté a soudců JUDr. Jitky Dýškové a JUDr. Miroslava Feráka ve věci žalobkyně I. W., zastoupené JUDr. Václavem Kaskou, advokátem se sídlem v Českých Budějovicích, Žižkova tř. 1321/1, proti žalované Budějické ekoenergetice s. r. o., se sídlem v Českých Budějovicích, Dobrovodská 99/38, IČO 28094867, zastoupené JUDr. Petrem Neubauerem, advokátem se sídlem v Českých Budějovicích, Na Sadech 4/3, o přezkoumání oprávněnosti výpovědi z nájmu bytu, vedené u Okresního soudu v Českých Budějovicích pod sp. zn. 30 C 266/2015, ve věci dovolání žalobkyně proti rozsudku Krajského soudu v Českých Budějovicích ze dne 17. června 2016, č. j. 7 Co 942/2016-107, takto:
+Právní moc rozsudku Krajského soudu v Českých Budějovicích ze dne 17. června 2016, č. j. 7 Co 942/2016-107, se odkládá.
+O d ů v o d n ě n í :
+Žalobkyně napadla dovoláním rozsudek Krajského soudu v Českých Budějovicích ze dne 17. 6. 2016, č. j. 7 Co 942/2016-107, kterým mj. potvrdil výrok rozsudku Okresního soudu v Českých Budějovicích ze dne 22. 1. 2016 č. j. 30 C 266/2015-63, jímž zamítl žalobu na určení neoprávněnosti výpovědi z nájmu tam specifikovaného bytu. Zároveň požádala o odklad právní moci napadeného rozsudku, kterým bylo vážně ohroženo její právo nájmu k předmětnému bytu, v němž dlouhodobě realizuje svou bytovou potřebu a který by (s ohledem na napadený rozsudek) měla vyklidit, přičemž žalovaná také žalobu na vyklizení (s tvrzením, že nájem k bytu již skončil) podala.
+Podle § 243 písm. b) o. s. ř. před rozhodnutím o dovolání může dovolací soud i bez návrhu odložit právní moc napadeného rozhodnutí, je-li dovolatel závažně ohrožen ve svých právech a nedotkne-li se odklad právních poměrů jiné osoby než účastníka řízení.
+V řízení o dovolání žalobkyně bude řešena otázka oprávněnosti výpovědi z nájmu bytu, tedy otázka významná pro závěr, zda žalobkyně je i nadále nájemkyní předmětného bytu ve vlastnictví žalované a může ho proto dále užívat. V důsledku hrozícího vyklizení z bytu je dovolatelka závažně ohrožena ve svých právech a odklad právní moci se nedotkne právních poměrů jiné osoby než účastníka řízení, Nejvyšší soud jako soud dovolací (§ 10a o. s. ř.) do doby, než bude o dovolání rozhodnuto, právní moc napadeného rozsudku podle § 243 o. s. ř. odložil.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 23. listopadu 2016
+JUDr. Pavlína Brzobohatá
+předsedkyně senátu
