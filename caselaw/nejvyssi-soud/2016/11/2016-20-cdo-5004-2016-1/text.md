@@ -1,0 +1,11 @@
+20 Cdo 5004/2016
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy senátu JUDr. Zbyňka Poledny a soudkyň JUDr. Miroslavy Jirmanové, Ph.D., a JUDr. Ivany Kudrnové v exekuční věci oprávněné TEMPERATIOR s. r. o., se sídlem v Liberci, Kociánova č. 453/11, identifikační číslo osoby 27881369, zastoupené Mgr. Pavlem Baťkem, advokátem se sídlem v Praze 8, Sokolovská č. 394/17, proti povinné OLEO CHEMICAL, a. s., se sídlem v Praze 4, Holušická č. 2221/3, identifikační číslo osoby 27167909, zastoupené JUDr. Ing. Mgr. Pavlem Sorokáčem, MBA, advokátem se sídlem v Praze 1, Pařížská č. 68/9, pro 60 000 000 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 49 EXE 738/2012, o dovolání oprávněné proti usnesení Městského soudu v Praze ze dne 26. května 2015, č. j. 28 Co 402/2014-589, takto:
+Dovolání oprávněné se odmítá.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.) :
+Nejvyšší soud dovolání oprávněné proti usnesení Městského soudu v Praze ze dne 26. května 2015, č. j. 28 Co 402/2014-589, kterým bylo potvrzeno usnesení Obvodního soudu pro Prahu 1 ze dne 9. června 2014, č. j. 49 EXE 738/2012-451, jímž byla odložena exekuce nařízená usnesením Obvodního soudu pro Prahu 1 ze dne 5. dubna 2012, č. j. 49 EXE 738/2012-33, do doby pravomocného rozhodnutí o návrhu společnosti RAVAK a. s. (se sídlem v Příbrami, Obecnická č. 285, identifikační číslo osoby 25612492) ze dne 26. května 2014 na zastavení exekuce, podle ustanovení § 243c odst. 1 věty první zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. prosince 2013 (srov. čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř.“, odmítl, protože směřuje proti usnesení odvolacího soudu, proti němuž zákon tento mimořádný opravný prostředek nepřipouští [§ 238 odst. 1 písm. e) o. s. ř.].
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu [§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění pozdějších předpisů].
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 24. 11. 2016
+JUDr. Zbyněk Poledna
+předseda senátu
