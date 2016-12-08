@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2016:34.C.773.2023.2",
+  "docket": "34 C 773/2023-17",
+  "date": "2016-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2024-04-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8e14e4ec-3810-4bc3-ab36-eed10b9096f7",
+  "source_sha256": "b37fd0f755b530f47fc10ce524af7f48f7d9f53983c2324b2323320a5369ef80",
+  "source_id": "8e14e4ec-3810-4bc3-ab36-eed10b9096f7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 773/2023-17",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Jana Bojková",
+    "ecli": "ECLI:CZ:OSOV:2016:34.C.773.2023.2",
+    "predmetRizeni": "o zaplacení 13 680 Kč s příslušenstvím",
+    "datumVydani": "2016-12-08",
+    "datumZverejneni": "2024-04-02",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8e14e4ec-3810-4bc3-ab36-eed10b9096f7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
