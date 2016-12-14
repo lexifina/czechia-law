@@ -1,0 +1,23 @@
+33 Cdo 4753/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu JUDr. Blankou Moudrou ve věci žalobce D. P., proti žalované UPC Česká republika, s. r. o. se sídlem Praha 4, Závišova 502/5, o nesrozumitelném podání, vedené u Okresního soudu ve Zlíně pod sp. zn. 41 Nc 2/2015, o dovolání žalobce proti usnesení Krajského soudu v Brně - pobočky ve Zlíně ze dne 21. 12. 2015, č. j. 60 Co 474/2015-43, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalobce podal dne 9. 10. 2015 u Okresního soudu ve Zlíně proti žalovanému návrh, jenž vykazoval vady, které bránily pokračování v řízení. Ačkoli byl žalobce vyzván k jejich odstranění s poučením, že jeho podání bude odmítnuto, neodstraní-li vady ve stanovené lhůtě, neučinil tak.
+Okresní soud ve Zlíně usnesením ze dne 3. 11. 2015, č. j. 41 Nc 2/2015-25, návrh žalobce odmítl (§ 43 odst. 2 o. s. ř.) a rozhodl o náhradě nákladů řízení.
+Krajský soud v Brně - pobočka ve Zlíně usnesením ze dne 21. 12. 2015, č. j. 60 Co 474/2015-43, usnesení soudu prvního stupně potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Proti usnesení odvolacího soudu podal žalobce (nezastoupen advokátem) dovolání. Soud prvního stupně jej usnesením ze dne 11. 3. 2016, č. j. 41 Nc 2/2015-78, vyzval, aby si pro podání dovolání zvolil zástupcem advokáta a jeho prostřednictvím podal řádné dovolání. Současně jej poučil, že pokud nepředloží do 30 dnů ode dne doručení tohoto usnesení plnou moc zvoleného advokáta a jím sepsané dovolání, bude dovolací řízení zastaveno. Na usnesení obsahující uvedenou výzvu, jež bylo žalobci doručeno 21. 3. 2016, reagoval žádostí o přiznání osvobození od soudních poplatků a ustanovení zástupce z řad advokátů pro dovolací řízení.
+Soud prvního stupně usnesením ze dne 18. 4. 2016, č. j. 41 Nc 2/2015-110, žalobci osvobození od soudního poplatku nepřiznal a právního zástupce pro dovolací řízení mu neustanovil.
+Odvolací soud usnesením ze dne 31. 5. 2016, č. j. 59 Co 207/2016-130, usnesení soudu prvního stupně potvrdil. Ve shodě se soudem prvního stupně dovodil, že nebylo možno posoudit, zda žalobce splňuje předpoklady pro osvobození od soudních poplatků, nedoložil-li přes výzvu a poučení soudu své osobní, výdělkové a majetkové poměry; v návaznosti na to mu pak nebylo možno ustanovit zástupce pro dovolací řízení.
+Soud prvního stupně následně usnesením ze dne 26. 8. 2016, č. j. 41 Nc 2/2015-152, vyzval žalobce, aby do 30 dnů od doručení tohoto usnesení odstranil nedostatek podmínky dovolacího řízení, a to tak, že doloží soudu plnou moc zvoleného advokáta a jím sepsané dovolání. Současně jej poučil, že Nejvyšší soud dovolací řízení zastaví, nevyhoví-li ve stanovené lhůtě výzvě soudu. Přestože usnesení s výzvou bylo žalobci doručeno 5. 9. 2016, adekvátně na ně nereagoval.
+Dovolací řízení o dovolání žalobce proti usnesení odvolacího soudu ze dne 31. 5. 2016, č. j. 59 Co 207/2016-130, bylo usnesením Nejvyššího soudu ze dne 8. 12. 2016, č. j. 33 Cdo 4752/2016-163, zastaveno.
+Dovolání bylo sice podáno včas osobou k tomu legitimovanou (žalobcem), nejsou však dány podmínky pro jeho věcné projednání.
+Podle § 241 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů (dále jen „o. s. ř.“), není-li stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem; notář může dovolatele zastupovat jen v rozsahu svého oprávnění stanoveného zvláštními právními předpisy (odst. 1). To neplatí, je-li dovolatelem fyzická osoba, která má právnické vzdělání (odst. 2 písm. a/). Dovolání musí být sepsáno, s výjimkou případu uvedeného v § 241 odstavci 2 písm. a/ o. s. ř., advokátem, notářem nebo osobou uvedenou v § 21, 21a, 21b, anebo v § 26a odst. 3, která má právnické vzdělání (odst. 4).
+Povinné zastoupení je zvláštní podmínkou dovolacího řízení týkající se dovolatele (v daném případě fyzické osoby, která nemá právnické vzdělání), jejíž nedostatek lze odstranit, avšak bez jejíhož splnění není možno o dovolání věcně rozhodnout. Podle § 104 odst. 2 o. s. ř., jde-li o nedostatek podmínky řízení, který lze odstranit, učiní k tomu soud vhodná opatření; nezdaří-li se nedostatek podmínky řízení odstranit, řízení zastaví.
+Dovolací soud proto dovolací řízení zastavil (§ 241b odst. 2 část věty před středníkem, § 104 odst. 2 o. s. ř.).
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 14. prosince 2016
+JUDr. Blanka Moudrá
+předsedkyně senátu
