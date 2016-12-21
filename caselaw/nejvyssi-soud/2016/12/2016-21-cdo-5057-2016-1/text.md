@@ -1,0 +1,12 @@
+21 Cdo 5057/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Lubomírem Ptáčkem, Ph.D., v právní věci žalobce Z. K., zastoupeného Mgr. Janem Nedomou, advokátem se sídlem Novém Malíně č. 426, proti žalovanému Lesy České republiky, s.p. se sídlem v Hradci Králové, Přemyslova č. 1106/19, IČO 42196451, zastoupenému Mgr. Bohuslavem Hubálkem, advokátem se sídlem v Praze 1, Těšnov č. 1059/1, o neplatnost okamžitého zrušení pracovního poměru, vedené u Okresního soudu v Hradci Králové pod sp. zn. 10 C 41/2010, o dovolání žalobce proti rozsudku Krajského soudu v Hradci Králové ze dne 9. června 2016 č. j. 25 Co 172/2016-331, takto:
+I. Dovolání žalobce se odmítá.
+II. Žalobce je povinen zaplatit žalovanému na náhradě nákladů dovolacího řízení 3.388,- Kč do 3 dnů od právní moci tohoto usnesení k rukám Mgr. Bohuslava Hubálka, advokáta se sídlem v Praze 1, Těšnov č. 1059/1.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky dovolání žalobce proti rozsudku Krajského soudu v Hradci Králové ze dne 9. 6. 2016 č. j. 25 Co 172/2016-331 podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl, neboť jednak neobsahuje údaje o tom, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 241a odst. 2 o. s. ř.; podle ustálené judikatury dovolacího soudu způsobilým vymezením není pouhá citace ustanovení § 237 o. s. ř., aniž by bylo z dovolání zřejmé, který z předpokladů přípustnosti dovolání uvedených alternativně v tomto ustanovení je podle mínění dovolatele splněn; k tomu srov. například právní názor vyslovený v usnesení Nejvyššího soudu ze dne 27. 8. 2013 sp. zn. 29 NSČR 55/2013, které bylo uveřejněno pod č. 116 v časopise Soudní judikatura, roč. 2014, nebo v usnesení Nejvyššího soudu ze dne 29. 8. 2013 sp. zn. 29 Cdo 2488/2013 anebo v usnesení Nejvyššího soudu ze dne 25. 9. 2013 sp. zn. 29 Cdo 2394/2013, které bylo uveřejněno pod č. 4 ve Sbírce soudních rozhodnutí a stanovisek, roč. 2014), jednak v něm byl uplatněn jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o. s. ř. (podstatou námitek dovolatele je nesouhlas s tím, k jakým důkazům odvolací soud přihlížel, jak důkazy hodnotil, a jaký závěr o skutkovém stavu věci na základě těchto důkazů učinil), a v dovolacím řízení nelze pro uvedené nedostatky pokračovat.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 21. prosince 2016
+JUDr. Lubomír Ptáček, Ph.D.
+předseda senátu
