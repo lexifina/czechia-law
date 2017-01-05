@@ -1,0 +1,14 @@
+21 Cdo 4668/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Ljubomíra Drápala a soudců JUDr. Jiřího Doležílka a JUDr. Romana Fialy v právní věci žalobce I. Z., zastoupeného JUDr. Stanislavem Červencem, advokátem se sídlem v Praze 10, Bělocerkevská č. 1301/26, proti žalovaným 1) I. Z., 2) T. Z. a 3) A. Z., všem zastoupeným Mgr. Kateřinou Vaňkovou, advokátkou se sídlem v Praze 1, Loretánské náměstí č. 109/3, o určení dědického práva, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 18 C 184/2011, o dovolání žalovaných proti rozsudku Městského soudu v Praze ze dne 10. února 2016 č.j. 13 Co 439/2015-363, takto:
+I. Dovolání žalovaných se odmítá.
+II. Žalovaní jsou povinni zaplatit žalobci společně a nerozdílně na náhradě nákladů dovolacího řízení 2.800,- Kč do tří dnů od právní moci tohoto usnesení k rukám JUDr. Stanislava Července, advokáta se sídlem v Praze 10, Bělocerkevská č. 1301/26.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Dovolání žalovaných proti rozsudku Městského soudu v Praze ze dne 10.2.2016 č. j. 13 Co 439/2015-363 není přípustné podle ustanovení § 237 o.s.ř., neboť rozhodnutí odvolacího soudu je v otázce naplnění předpokladů vydědění potomka podle ustanovení § 469a odst. 1 písm. b) zákona č. 40/1964 Sb., občanský zákoník, ve znění pozdějších předpisů účinném do 31.12.2013 v souladu s ustálenou rozhodovací praxí dovolacího soudu (srov. například rozsudek Nejvyššího soudu ČR ze dne 26.9.1997 sp. zn. 2 Cdon 86/97, uveřejněný pod č. 21 v časopise Soudní judikatura, roč. 1998, rozsudek Nejvyššího soudu ČR ze dne 18.4.2000 sp. zn. 21 Cdo 2568/99, rozsudek Nejvyššího soudu ČR ze dne 20.1.2004 sp. zn. 30 Cdo 2214/2002, uveřejněný pod č. 6 ve Sbírce soudních rozhodnutí a stanovisek, roč. 2005, rozsudek Nejvyššího soudu ČR ze dne 15.5.2007 sp. zn. 21 Cdo 688/2006, uveřejněný pod č. 8 ve Sbírce soudních rozhodnutí a stanovisek, roč. 2008, rozsudek Nejvyššího soudu ČR ze dne 28.5.2008 sp. zn. 21 Cdo 1825/2007, rozsudek Nejvyššího soudu ČR ze dne 26.2.2009 sp. zn. 21 Cdo 4795/2007, usnesení Nejvyššího soudu ČR ze dne 18.10.2007 sp. zn. 21 Cdo 403/2007 nebo rozsudek Nejvyššího soudu ČR ze dne 11.5.2015 sp. zn. 21 Cdo 4512/2014) a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+V části, v níž žalovaní uplatnili jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 2 o.s.ř. (vznáší-li žalovaní výhrady proti správnosti skutkových zjištění soudů), dovolání trpí vadami, pro které nelze v dovolacím řízení pokračovat.
+Nejvyšší soud České republiky proto dovolání žalovaných podle ustanovení § 243c odst. 1 věty první o.s.ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 5. ledna 2017
+JUDr. Ljubomír Drápal
+předseda senátu
