@@ -1,0 +1,19 @@
+30 Cdo 3904/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Pavlem Vrchou v právní věci žalobce B. V., proti žalované České republice – Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 16, o žalobě pro zmatečnost, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 33 Nc 1845/2011, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 28. prosince 2015, č. j. 55 Co 454/2015-209, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í
+(§ 243f odst. 3 o. s. ř.):
+Obvodní soud pro Prahu 1 (dále již „soud prvního stupně“) usnesením ze dne 16. listopadu 2015, č. j. 33 Nc 1845/2011-204, zamítl návrh žalobce na ustanovení zástupce z řad advokátů.
+K odvolání žalobce Městský soud v Praze (dále již „odvolací soud“) usnesením ze dne 28. prosince 2015, č. j. 55 Co 454/2015-209, usnesení soudu prvního stupně potvrdil.
+Proti shora uvedenému usnesení odvolacího soudu podal sám žalobce (dále též „dovolatel“) dovolal (podáním ze dne 29. ledna 2016) a současně znovu požádal, aby mu byl pro dovolací řízení ustanoven advokát.
+Nejvyšší soud České republiky (dále již „Nejvyšší soud“ nebo „dovolací soud“) dospěl k závěru, že dovolací řízení je třeba zastavit. Nejvyšší soud v usnesení (velkého senátu občanskoprávního a obchodního kolegia Nejvyššího soudu) ze dne 8. dubna 2015, sp. zn. 31 NS ČR 9/2015 (všechna zde označená rozhodnutí Nejvyššího soudu jsou veřejnosti přístupná na internetových stránkách Nejvyššího soudu http:/nsoud.cz) vyložil a odůvodnil právní názor, že směřuje-li dovolání účastníka, jenž není zastoupen advokátem, ani nemá sám odpovídající právnické vzdělání, proti usnesení, jímž odvolací soud nevyhověl (ve spojení s usnesením soudu prvního stupně) žádosti účastníka o ustanovení zástupce pro řízení o dovolání proti rozhodnutí odvolacího soudu ve věci samé, pak je na místě, aby to, zda jsou splněny předpoklady pro ustanovení advokáta pro řízení o dovolání proti onomu usnesením odvolacího soudu, zhodnotil přímo Nejvyšší soud jako soud dovolací.
+Soud prvního stupně dovolatele sice nevyzval ke splnění podmínky povinného zastoupení podle § 241 odst. 1 o. s. ř. v řízení o dovolání proti usnesení odvolacího soudu ze dne 28. prosince 2016, č. j. 55 Co 454/2015-209, nicméně z rozhodovací činnosti je Nejvyššímu soudu známo, že v identických sporech byl dovolatel opakovaně ke splnění této podmínky vyzýván a dovolateli je známo, že v dovolacím řízení musí být zastoupen advokátem (k tomu srov. např. usnesení Ústavního soudu ze dne 8. srpna 2013, sp. zn. II. ÚS 2291/13, nebo usnesení Nejvyššího soudu ze dne 15. října 2014, sp. zn. 30 Cdo 3052/2014, in http://nalus.usoud.cz).
+Vzhledem k tomu, že skutkové okolnosti, z nichž odvolací soud vycházel při přezkumu odvoláním napadeného rozhodnutí soudu prvního stupně, jímž byl zamítnut návrh dovolatele, aby mu byl ustanoven zástupce z řad advokátů, se (vycházeje z obsahu spisu) nijak nezměnily, přičemž dovolatel ani v podaném dovolání netvrdí nové okolnosti, které by mohly vést k úvaze o relevantní změně poměrů na straně dovolatele, dovolací soud dospěl k závěru, že v daném případě nejsou splněny předpoklady k tomu, aby byl dovolateli pro toto dovolací řízení ustanoven zástupce z řad advokátů.
+V situaci, kdy Nejvyšší soud dospěl k závěru, že není důvod ustanovit dovolateli advokáta pro řízení o dovolání proti v záhlaví označenému usnesení dovolacího soudu a kdy dovolatel i přes výzvu soudu prvního stupně neodstranil nedostatek povinného zastoupení, Nejvyšší soud podle § 241b odst. 2, § 243f odst. 2 a § 104 odst. 2 o. s. ř. řízení o jeho dovolání zastavil.
+Výrok o náhradě nákladů dovolacího řízení netřeba odůvodňovat (§ 243f odst. 3, věta druhá, o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 11. ledna 2017
+JUDr. Pavel Vrcha
+předseda senátu
