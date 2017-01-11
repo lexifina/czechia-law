@@ -1,0 +1,17 @@
+30 Cdo 3123/2016
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátu složeném z předsedy JUDr. Pavla Pavlíka a soudců JUDr. Pavla Vrchy a JUDr. Bohumila Dvořáka, Ph.D., LL.M., v právní věci žalobce L. N., proti žalovanému P. B., zastoupenému Mgr. Miloslavem Jančíkem, advokátem se sídlem ve Zlíně, Růžová 307, o ochranu osobnosti, vedené u Okresního soudu ve Zlíně pod sp. zn. 28 C 139/2014, o dovolání žalobce proti rozsudku Krajského soudu v Brně ze dne 27. listopadu 2015, č.j. 70 Co 235/2015-234, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů řízení.
+Stručné odůvodnění
+(§ 243f odst. 3 o.s.ř.):
+Žalobce napadl dovoláním rozsudek Krajského soudu v Brně ze dne 27. listopadu 2015, č.j. 70 Co 235/2015-234, kterým byl potvrzen rozsudek Okresního soudu ve Zlíně ze dne 11. června 2015, č.j. 28 C 139/2014-188, jímž byla zamítnuta žaloba na ochranu osobnosti, prostřednictvím níž se žalobce domáhal vůči žalovanému přisouzení omluvy a dále náhrady nemajetkové újmy v penězích. Odvolací soud současně změnil výrok rozhodnutí soudu prvního stupně o náhradě nákladů řízení a rozhodl o náhradě nákladů odvolacího řízení. Rozhodnutí odvolacího soudu bylo žalobci doručeno dne 5. ledna 2016.
+Žalobce podal proti uvedenému rozhodnutí odvolacího soudu dne 15. února 2016 včasné dovolání, aniž by byl zastoupen advokátem; současně však požádal o osvobození od soudních poplatků a o ustanovení zástupce pro dovolací řízení. Krajský soud v Brně po té usnesením ze dne 17. května 2016, č.j. 70 Co 99/2016-286, potvrdil usnesení Okresního soudu ve Zlíně ze dne 3. března 2016, č.j. 28 C 139/2014-269, kterým uvedeným žádostem žalobce nebylo vyhověno. Po té soud prvního stupně usnesením pod č.j. 28 C 139/2014-289 žalobce jako dovolatele vyzval k zaplacení soudního poplatku z podaného dovolání. Žalobce však tento soudní poplatek do současné doby nezaplatil.
+Ve smyslu ustanovení § 16 odst. 1 věta druhá o.s.ř. jiný senát Nejvyššího soudu usnesením ze dne 30. srpna 2016, č.j. 32 Nd 273/2016-297, vyslovil, že soudci Nejvyššího soudu JUDr. Pavel Pavlík, JUDr. Pavel Vrcha a JUDr. Bohumil Dvořák, Ph.D., LL. M. nejsou vyloučeni z projednávání a rozhodování ve věci vedené u Nejvyššího soudu pod sp.zn. 30 Cdo 3123/2016. S uvážením uvedené skutečnosti Nejvyšší soud jako soud dovolací (§ 10a o.s.ř.) přihlédl k čl. II bodu 2. zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, a vyšel tak ze znění tohoto procesního předpisu účinného od. 1. ledna 2014.
+Nebyl-li poplatek za řízení splatný podáním návrhu na zahájení řízení, odvolání, dovolání nebo kasační stížnosti zaplacen, soud vyzve poplatníka k jeho zaplacení ve lhůtě, kterou mu určí; po marném uplynutí této lhůty soud řízení zastaví (§ 9 odst. 1 zákona č. 549/1991 Sb., o soudních poplatcích, ve znění pozdějších předpisů).
+S ohledem na popsané skutečnosti, resp. na fakt nezaplacení soudního poplatku z dovolání dovolatelem, dovolací soud proto řízení o dovolání proti rozsudku Krajského soudu v Brně ze dne 27. listopadu 2015, č.j. 70 Co 235/2015-234, podle výše uvedeného ustanovení zákona o soudních poplatcích zastavil (§ 241b odst. 2 část věty před středníkem a § 104 odst. 2 věta třetí o.s.ř.).
+Výrok o náhradě nákladů dovolacího řízení není odůvodňován s přihlédnutím k ustanovení § 243f odst. 3 věta druhá o.s.ř.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 11. ledna 2017
+JUDr. Pavel Pavlík
+předseda senátu
