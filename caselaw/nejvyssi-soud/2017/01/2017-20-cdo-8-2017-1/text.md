@@ -1,0 +1,13 @@
+20 Cdo 8/2017
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zbyňka Poledny a soudců JUDr. Vladimíra Kůrky a JUDr. Karla Svobody, Ph.D., ve věci výkonu rozhodnutí oprávněné nezletilé S. N., zastoupené Úřadem pro mezinárodněprávní ochranu dětí, se sídlem v Brně, Šilingrovo náměstí č. 3/4, proti povinnému P. N., pro dlužné výživné, vedené u Okresního soudu v Litoměřicích pod sp. zn. 31 E 32/2016, o dovolání oprávněné proti usnesení Krajského soudu v Ústí nad Labem ze dne 13. září 2016, č. j. 10 Co 608/2016-23, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud dovolání povinného proti usnesení Krajského soudu v Ústí nad Labem ze dne 13. 9. 2016, č. j. 10 Co 608/2016-23, kterým odvolací soud potvrdil usnesení Okresního soudu v Litoměřicích ze dne 31. 5. 2016, č. j. 31 E 32/2016-15, jímž byl zamítnut návrh oprávněné na nařízení soudního výkonu rozhodnutí s tím, že žádný z účastníků nemá právo na náhradu nákladů řízení, podle ustanovení § 243c odst. 1 věty první zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. ledna 2014 (srov. čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – dále jen „o. s. ř., ve spojení se zákonem č. 292/2013 Sb., o zvláštních řízeních soudních (dále též jen „z. ř. s.“), odmítl, protože směřuje proti usnesení odvolacího soudu, proti kterému dovolání není podle ustanovení § 30 odst. 1 z. ř. s. přípustné.
+Právní úprava nepřípustnosti dovolání proti rozhodnutím vydaným v řízeních podle hlavy páté části druhé zákona o zvláštních řízeních soudních se totiž s účinností tohoto zákona, tj. od 1. ledna 2014, přesunula z ustanovení § 238 odst. 1 písm. a) o. s. ř., ve znění účinném od 1. ledna 2013 do 31. prosince 2013 (podle kterého dovolání podle ustanovení § 237 o. s. ř. není přípustné ve věcech upravených zákonem o rodině, ledaže jde o rozsudek o omezení nebo zbavení rodičovské odpovědnosti, pozastavení nebo omezení jejího výkonu, o určení nebo popření rodičovství nebo o nezrušitelné osvojení) do ustanovení § 30 z. ř. s.“ (k tomu srov. například usnesení Nejvyššího soudu ze dne 9. dubna 2015, sp. zn. 21 Cdo 1049/2015). V posuzované věci jde o řízení ve věcech výživného (o výkon rozhodnutí ve věcech výživného) upravené primárně v hlavě páté části druhé tohoto zákona a současně se nejedná o žádnou z výjimek taxativně vymezených v ustanovení § 30 z. ř. s.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 17. 1. 2017
+JUDr. Zbyněk Poledna
+předseda senátu
