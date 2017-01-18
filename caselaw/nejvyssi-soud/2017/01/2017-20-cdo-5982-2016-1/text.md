@@ -1,0 +1,14 @@
+20 Cdo 5982/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové, Ph.D., a soudců JUDr. Zbyňka Poledny a JUDr. Karla Svobody, Ph.D., v exekuční věci oprávněné MediConsulting plus s. r. o., se sídlem v Hněvotíně 530, identifikační číslo osoby 28620216, zastoupené JUDr. Martinem Štěpánkem, advokátem se sídlem v Olomouci, Krapkova 709/4, proti povinné J. B., O., pro 28 857,37 Kč s příslušenstvím, vedené u Okresního soudu v Olomouci pod sp. zn. 48 EXE 3811/2012, o dovolání povinné proti usnesení Krajského soudu v Ostravě – pobočky v Olomouci ze dne 28. 3. 2014, č. j. 40 Co 106/2014-219, takto:
+Dovolání se odmítá.
+Odůvodnění:
+Krajský soud v Ostravě – pobočka v Olomouci v záhlaví označeným rozhodnutím potvrdil usnesení ze dne 7. 1. 2014, č. j. 48 EXE 3811/2012-204, kterým Okresní soud v Olomouci zamítl návrh povinné na částečné zastavení exekuce co do způsobu jejího provedení, konkrétně postižením vkladní knížky vedené u České spořitelny, postižené exekučním příkazem ze dne 11. 7. 2012, č. j. 169 EX 191/12-47.
+Povinná napadla usnesení odvolacího soudu dovoláním. Nejvyšší soud dovolání projednal a rozhodl o něm podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2013 do 31. 12. 2013 (srov. část první čl. II bod 7 zákona č. 404/2012 Sb. a část první čl. II bod 2 zákona č. 293/2013 Sb.), dále jen „o. s. ř.“.
+Dovolání není přípustné, neboť směřuje proti usnesení odvolacího soudu, jímž bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50 000 Kč [§ 238 odst. 1 písm. d) o. s. ř.] – odvolací soud rozhodoval ve věci zastavení exekuce nařízené k vymožení částky 28 857,37 Kč [srov. např. usnesení Nejvyššího soudu ze dne 9. 5. 2016, sp. zn. 20 Cdo 776/2016, 20 Cdo 777/2016, 20 Cdo 778/2016, 20 Cdo 779/2016, 20 Cdo 780/2016, 20 Cdo 781/2016, 20 Cdo 782/2016, 20 Cdo 783/2016, 20 Cdo 784/2016 (proti němuž podaná ústavní stížnost byla odmítnuta usnesením Ústavního soudu ze dne 6. 12. 2016, sp. zn. I. ÚS 2406/16), usnesení Nejvyššího soudu ze dne 21. 10. 2015, sp. zn. 26 Cdo 4236/2015, či usnesení Nejvyššího soudu ze dne 31. 10. 2013, sp. zn. 20 Cdo 1977/2013 (proti němuž podaná ústavní stížnost byla odmítnuta usnesením Ústavního soudu ze dne 27. 2. 2014, sp. zn. III. ÚS 346/14)].
+Nejvyšší soud proto dovolání podle § 243c odst. 1 o. s. ř. odmítl, aniž se zabýval splněním podmínky povinného zastoupení dovolatelky podle § 241 o. s. ř. (§ 241b odst. 2 o. s. ř.).
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu [§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění pozdějších předpisů].
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 18. ledna 2017
+JUDr. Miroslava Jirmanová, Ph.D.
+předsedkyně senátu
