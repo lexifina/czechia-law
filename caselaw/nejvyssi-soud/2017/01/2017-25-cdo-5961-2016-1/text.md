@@ -1,0 +1,15 @@
+25 Cdo 5961/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Marty Škárové a soudců JUDr. Ivany Tomkové a JUDr. Petra Vojtka v právní věci žalobce P. Č., proti žalovanému Mgr. J. B., advokátovi se sídlem Praha 2, Mánesova 19, o úroky z prodlení z částky 100 Kč, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 27 C 64/2013, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 6. 11. 2015, č.j. 29 Co 322/2015-68, takto:
+Dovolací řízení se zastavuje.
+Odůvodnění:
+Žalobce, nezastoupený advokátem, podal dovolání proti usnesení Městského soudu v Praze ze dne 6. 11. 2015, č.j. 29 Co 322/2015-68, kterým bylo potvrzeno usnesení Obvodního soudu pro Prahu 2 ze dne 7. 9. 2015, č.j. 27 C 64/2013-62. Tímto usnesením Obvodního soudu pro Prahu 2 bylo rozhodnuto, že žalobci se nepřiznává osvobození od soudních poplatků a zamítá se návrh žalobce ze dne 16. 3. 2015 na neúčinnost doručení.
+Podle § 241 odst. 1 věty první a odst. 2 písm. a) o. s. ř., není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem, to neplatí, je-li dovolatelem fyzická osoba, která má právnické vzdělání.
+Povinné zastoupení je zvláštní podmínkou dovolacího řízení, jejíž nedostatek lze odstranit, bez jejíhož splnění však není možno věc meritorně rozhodnout. Jak vyplývá z ustanovení § 241 odst. 4 o. s. ř., požadavek povinného zastoupení není naplněn jen tím, že si dovolatel zvolí zástupcem advokáta (popř. je mu ustanoven soudem). Součástí povinného zastoupení je i to, že dovolání musí být sepsáno tímto advokátem.
+V daném případě podal žalobce dovolání nezastoupen advokátem a ze spisu nevyplývá, že by měl právnické vzdělání. Jeho žádosti o přiznání osvobození od soudních poplatků nebylo soudy obou stupňů vyhověno a rovněž byla zamítnuta žádost žalobce o ustanovení zástupce z řad advokátů pro dovolací řízení.
+Vzhledem k tomu, že žalobce v dovolacím řízení zákonem stanoveným způsobem zastoupen není a po pravomocném zamítnutí jeho žádosti o ustanovení zástupce mu musí být dána časově ohraničená možnost, aby si zastoupení advokátem obstaral, Obvodní soud pro Prahu 2 jej usneseními ze dne 21. 10. 2016, č. j. 27 C 64/2013-104, a ze dne 10. 11. 2016, č. j. 27 C 64/2013-109, vyzval, aby si ve lhůtě do 14. 12. 2016 zvolil pro podání dovolání zástupcem advokáta, jehož prostřednictvím podá řádné dovolání. Zároveň ho poučil, že nevyhoví-li výzvě, bude dovolací řízení zastaveno. Dovolatel na výzvu soudu ve stanovené lhůtě nereagoval. K odstranění nedostatku podmínky povinného zastoupení ve smyslu ustanovení § 241 odst. 1 a odst. 4 o. s. ř. tedy nedošlo.
+Protože povinné zastoupení dovolatele je procesní podmínkou dovolacího řízení, jejíž nedostatek brání věcnému rozhodnutí o dovolání (§241 odst. 1 o. s. ř.), a protože ke zhojení tohoto nedostatku přes řádnou výzvu soudu nedošlo, Nejvyšší soud řízení o dovolání podle § 104 odst. 2 a § 241b odst. 2 o. s. ř. zastavil.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 18. ledna 2017
+JUDr. Marta Škárová
+předsedkyně senátu
