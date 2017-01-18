@@ -1,0 +1,13 @@
+21 Cdo 5509/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Zdeňka Novotného a soudců JUDr. Ljubomíra Drápala a JUDr. Mojmíra Putny v právní věci žalobce V. V., zastoupeného Mgr. Pavlou Havránkovou, advokátkou se sídlem v Havířově, Jana Švermy č. 38/8, proti žalované OKD, a.s. se sídlem v Karviné -Dolech, Stonavská č. 2179, IČO 268 63 154, zastoupené JUDr. Renatou Kadlubcovou, advokátkou se sídlem v Českém Těšíně, Hradišťská č. 119, o náhradu škody, vedené u Okresního soudu v Karviné pod sp. zn. 25 C 41/2015, o dovolání žalobce proti rozsudku Krajského soudu v Ostravě ze dne 14. června 2016 č.j. 16 Co 76/2016-39, takto:
+I. Dovolání žalobce se odmítá.
+II. Žalobce je povinen zaplatit žalované na náhradě nákladů dovolacího řízení 12.960,- Kč do tří dnů od právní moci tohoto usnesení k rukám JUDr. Renaty Kadlubcové, advokátky se sídlem v Českém Těšíně, Hradišťská č. 119.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Dovolání žalobce proti rozsudku Krajského soudu v Ostravě ze dne 14.6.2016 č. j. 16 Co 76/2016-39 není přípustné podle ustanovení § 237 o.s.ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu (k otázce rozlišení uznání závazku k náhradě škody a dohody o narovnání podle § 259 zákona č. 65/1965 Sb. výkladem ve smyslu § 240 odst. 3 zákona č. 65/1965 Sb. srov. obdobně rozhodnutí býv. NS ČSR ze dne 28.3.1968 sp. zn. 6 Cz 7/68 uveřejněné ve sbírce soudních rozhodnutí a stanovisek roč. 1968 pod č. 97, k otázce obsahu nároku na náhradu za ztrátu na výdělku po skončení pracovní neschopnosti podle § 195 zákona č. 65/1965 Sb. a za obsahově nezměněné právní úpravy podle § 371 zák. práce za situace, kdy poškozený zaměstnanec nemá možnost nastoupit vhodné zaměstnání výlučně pro nedostatek pracovních příležitostí srov. např. rozsudek Nejvyššího soudu ze dne 5.1.2010 sp. zn. 21 Cdo 4932/2008, nebo rozsudek Nejvyššího soudu ze dne 18.6.2008 sp. zn. 21 Cdo 2822/2007, rozsudek Nejvyššího soudu ze dne 11.5.2005 sp. zn. 21 Cdo 2168/2004 a rozsudek Nejvyššího soudu ze dne 1.9.2016 sp. zn. 21 Cdo 1647/2015, k otázce, zda uplatnění námitky promlčení jako takové je jednáním v rozporu s dobrými mravy srov. např. usnesení Nejvyššího soudu ze dne 13.3.2014 sp. zn. 21 Cdo 389/2013) a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+Nejvyšší soud České republiky proto dovolání žalobce podle ustanovení § 243c odst. 1 věty první o.s.ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 18. ledna 2017
+JUDr. Zdeněk Novotný
+předseda senátu
