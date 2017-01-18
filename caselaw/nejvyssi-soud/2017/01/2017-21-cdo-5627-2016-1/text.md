@@ -1,0 +1,13 @@
+21 Cdo 5627/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Zdeňka Novotného a soudců JUDr. Ljubomíra Drápala a JUDr. Mojmíra Putny v právní věci žalobce Mgr. Z. V., zastoupeného JUDr. Ilonou Křížkovou, advokátkou se sídlem v Ostravě - Moravské Ostravě, Sokolská třída č. 451/11, proti žalované Základní škole Ostrava, Nádražní 117, příspěvkové organizaci, se sídlem v Ostravě, Nádražní č. 1217/117, IČO 709 33 979, zastoupené JUDr. Evou Janíkovou, advokátkou se sídlem ve Frýdku - Místku, Farní č. 19, o neplatnost výpovědi z pracovního poměru a o náhradu platu, vedené u Okresního soudu v Ostravě pod sp. zn. 85 C 245/2014, o dovolání žalované proti rozsudku Krajského soudu v Ostravě ze dne 8. června 2016 č.j. 16 Co 72/2016-122, takto:
+I. Dovolání žalované se odmítá.
+II. Žalovaná je povinna zaplatit žalobci na náhradě nákladů dovolacího řízení 3.388,- Kč do tří dnů od právní moci tohoto usnesení k rukám JUDr. Ilony Křížkové, advokátky se sídlem v Ostravě - Moravské Ostravě, Sokolská třída č. 451/11.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Dovolání žalované proti rozsudku Krajského soudu v Ostravě ze dne 8.6.2016 č. j. 16 Co 72/2016-122 není přípustné podle ustanovení § 237 o.s.ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu [k otázce výkonu práv a povinností vyplývajících z pracovněprávních vztahů v rozporu s dobrými mravy srov. například rozsudek Nejvyššího soudu ze dne 28.6.2000 sp. zn. 21 Cdo 992/99, který byl uveřejněn pod č. 126/2000 v časopise Soudní judikatura, nebo rozsudek Nejvyššího soudu ze dne 24.6.2015 sp. zn. 21 Cdo 2388/2014 a rozsudek Nejvyššího soudu ze dne 19.8.2014 sp. zn. 21 Cdo 2305/2013, z jejichž odůvodnění vyplývá, že za výkon práva v rozporu s dobrými mravy lze považovat pouze takové jednání, jehož cílem není dosažení účelu a smyslu sledovaného právní normou, nýbrž které je v rozporu s ustálenými dobrými mravy vedeno přímým úmyslem způsobit jinému účastníku újmu a že pro použití korektivu "dobré mravy" zákon nestanoví, z jakých hledisek má soud vycházet; vymezení hypotézy právní normy (ustanovení § 3 odst. 1 občanského zákoníku) tedy závisí v každém konkrétním případě na úvaze soudu] a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+Nejvyšší soud České republiky proto dovolání žalované podle ustanovení § 243c odst. 1 věty první o.s.ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 18. ledna 2017
+JUDr. Zdeněk Novotný
+předseda senátu
