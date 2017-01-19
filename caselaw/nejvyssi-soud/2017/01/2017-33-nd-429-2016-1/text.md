@@ -1,0 +1,17 @@
+33 Nd 429/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudců JUDr. Ivany Zlatohlávkové a JUDr. Václava Dudy ve věci oprávněné Všeobecné zdravotní pojišťovny České republiky se sídlem v Praze 3, Orlická 2020/4 (identifikační číslo 41197518), proti povinnému R. J., o pověření a nařízení exekuce, vedené u Okresního soudu v Chomutově pod sp. zn. 26 EXE 18789/2016, o určení místní příslušnosti soudu, takto:
+Věc vedenou u Okresního soudu v Chomutově pod sp. zn. 26 EXE 18789/2016 projedná a rozhodne Okresní soud v Chomutově.
+O d ů v o d n ě n í :
+Soudní exekutor Mgr. Martin Svoboda podal 17. 10. 2016 Okresnímu soudu v Chomutově žádost o pověření a nařízení exekuce na majetek povinného pro vymožení pohledávky oprávněné ve výši 7.236,- Kč.
+Okresní soud v Chomutově usnesením ze dne 16. 11. 2016, č.j. 26 EXE 18789/2016-17, vyslovil svou místní nepříslušnost a věc podle § 11 odst. 3 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů (dále jen „o.s.ř.“), předložil Nejvyššímu soudu k určení, který okresní soud věc projedná a rozhodne. Z provedeného šetření zjistil, že v exekučním návrhu je povinný označen bytem v K. nad O., není ovšem uveden v Centrální evidenci obyvatel ani v Informačním systému základních registrů, a tak nelze zjistit jeho státní příslušnost ani trvalý pobyt. Dotazem na Ministerstvo vnitra České republiky soud zjistil, že nemá na území České republiky povolen žádný druh pobytu.
+Na dotaz soudu oprávněná sdělila, že trvá na nařízení exekuce a že žádné informace o současném pobytu povinného nemá.
+Jelikož podmínky místní příslušnosti nelze zjistit, vyslovil Okresní soud v Chomutově svoji místní nepříslušnost a věc postoupil Nejvyššímu soudu (§ 11 odst. 3 o.s.ř.).
+Podle § 11 odst. 1 o.s.ř. se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení.
+Podle § 45 odst. 2 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád), ve znění pozdějších předpisů, je místně příslušným exekučním soudem soud, v jehož obvodu má povinný (fyzická osoba) místo svého trvalého pobytu (popř. místo pobytu na území České republiky podle druhu pobytu cizince). Není-li tomu tak, je místně příslušným soud, v jehož obvodu má povinný majetek.
+Podle usnesení velkého senátu občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne 12. 9. 2012, sp. zn. 31 Nd 200/2012, uveřejněného ve Sbírce soudních rozhodnutí a stanovisek pod č. 4/2013, „skutečnost, zda povinný má exekučně postižitelný majetek na území České republiky, který by mohl být po nařízení exekuce soudním exekutorem zajištěn a zpeněžen, vyjde najevo až činností soudem pověřeného soudního exekutora v rámci provádění exekuce. Exekuční soud proto před nařízením exekuce a pověřením exekutora jejím provedením nezjišťuje existenci majetku povinného.“ Zjišťování existence majetku povinného exekučním soudem ještě před nařízením exekuce a pověřením exekutora by odporovalo cíli exekučního řízení.
+S ohledem na výše uvedené proto Nejvyšší soud podle § 11 odst. 3 o.s.ř., přihlížeje k zásadě hospodárnosti, rozhodl, že věc projedná a rozhodne Okresní soud v Chomutově, u něhož bylo řízení zahájeno.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 19. ledna 2017
+JUDr. Pavel Krbek
+předseda senátu
