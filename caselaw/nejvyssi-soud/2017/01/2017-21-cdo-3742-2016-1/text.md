@@ -1,0 +1,14 @@
+21 Cdo 3742/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Ljubomíra Drápala a JUDr. Romana Fialy v právní věci žalobkyně České pojišťovny a. s. se sídlem v Praze 1, Spálená č. 75/16, IČO 45272956, proti žalovaným 1) P. K., zastoupenému Mgr. Hynkem Marečkem, advokátem se sídlem v Praze 4, Jeremenkova č. 1021/70, a 2) V. O., zastoupenému JUDr. Janem Brožem, advokátem se sídlem v Praze 4, Jeremenkova č. 1021/70, o uložení povinnosti souhlasit s vydáním předmětu úschovy, vedené u Okresního soudu v Karlových Varech pod sp. zn. 16 C 243/2014, o dovolání žalovaného 1) a žalovaného 2) proti rozsudku Krajského soudu v Plzni ze dne 8. prosince 2015, č. j. 56 Co 263/2015-157, takto:
+I. Dovolání žalovaných 1) a 2) se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalovaných 1) a 2) proti rozsudku Krajského soudu v Plzni ze dne 8. 12. 2015, č. j. 56 Co 263/2015-157, není přípustné podle ustanovení § 237 o. s. ř., neboť rozhodnutí odvolacího soudu o tom, že ze strany žalovaného 1) nedošlo k vydržení vlastnického práva k předmětnému osobnímu automobilu, že vlastníkem tohoto osobního automobilu se nestal ani žalovaný 2) a že vlastnické právo k tomuto automobilu nadále svědčí společnosti D. S. Leasing, a. s., jíž byl tento automobil odcizen, je (za zjištěného skutkového stavu – srov. § 241a odst. 1 a § 242 odst. 3 o. s. ř.) v souladu s ustálenou rozhodovací praxí dovolacího soudu [srov. např. rozsudek Nejvyššího soudu ze dne 15. 12. 2011, sp. zn. 33 Cdo 5273/2009, nebo usnesení Nejvyššího soudu ze dne 10. 12. 2015, sp. zn. 28 Cdo 2923/2015, neboť v případě „nepřímého“ zastoupení nestačí jen úkon „nepřímého“ zástupce ve vztahu ke třetí osobě, nýbrž je zapotřebí dalšího úkonu, kterým tento zástupce převede nabytá práva a povinnosti na zastoupeného] a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+V části, v níž dovolatelé uplatnili jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o. s. ř. [zpochybňují-li skutková zjištění, která byla pro právní posouzení věci odvolacím soudem rozhodující, vznáší-li výhrady proti hodnocení důkazů odvolacím soudem, předestírají-li opačné skutkové závěry, na nichž budují své vlastní a od odvolacího soudu odlišné právní posouzení věci, a namítají-li jiné vady (že „odvolací soud měl z důvodu nesplnění poučovací povinnosti podle § 118a o. s. ř. soudem prvního stupně rozhodnutí soudu prvního stupně zrušit“)], dovolání trpí nedostatkem, pro který nelze v dovolacím řízení pokračovat.
+Nejvyšší soud České republiky proto dovolání žalovaných 1) a 2) podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 19. ledna 2017
+JUDr. Mojmír Putna
+předseda senátu
