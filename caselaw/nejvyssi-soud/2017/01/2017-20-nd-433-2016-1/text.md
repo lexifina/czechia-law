@@ -1,0 +1,16 @@
+20 Nd 433/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové, Ph.D., a soudců JUDr. Zbyňka Poledny a JUDr. Vladimíra Kůrky, v právní věci oprávněné UPC Česká republika s. r. o., se sídlem v Praze 4, Závišova 502/5, identifikační číslo osoby 00562262, zastoupené Mgr. Robertem Lukešem, advokátem se sídlem v Praze 4, 7. května 1109/26, proti povinnému M. T., o pověření a nařízení exekuce pro 2596 Kč s příslušenstvím, vedené u Okresního soudu Praha-západ pod sp. zn. 206 EXE 9318/2016, o návrhu na určení místní příslušnosti, takto:
+Věc vedenou u Okresního soudu Praha-západ pod sp. zn. 206 EXE 9318/2016 projedná a rozhodne Okresní soud Praha-západ.
+O d ů v o d n ě n í :
+Návrhem podaným k Okresnímu soudu Praha-západ dne 20. 10. 2016 soudní exekutor JUDr. Josef Lavička, Exekutorský úřad Cheb, žádal o pověření a nařízení exekuce. Okresní soud Praha-západ usnesením ze dne 7. 11. 2016, č. j. 206 EXE 9318/2016-9, vyslovil svou místní nepříslušnost a rozhodl o předložení věci Nejvyššímu soudu k určení, který soud věc projedná a rozhodne v souladu s § 11 odst. 3 zákona č. 99/1963 Sb., občanského soudního řádu (dále též jen „o. s. ř.“). Z obsahu spisu vyplývá, že povinný je občanem USA, v současnosti není v evidenci cizineckého informačního systému hlášen k pobytu, v ČR měl povolen přechodný pobyt pouze do 3. 11. 2013 a poslední známá adresa cizince je Ch., Z. okres P.-z.
+Dosud také nebyl zjištěn žádný majetek povinného v České republice.
+Příslušnost exekučního soudu k nařízení exekuce upravuje § 45 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekučního řádu), ve znění pozdějších předpisů. Z ustanovení § 45 odst. 2 exekučního řádu vyplývá, že místně příslušným exekučním soudem je okresní soud, v jehož obvodu má povinný, je-li fyzickou osobou, místo svého trvalého pobytu, popřípadě místo pobytu na území České republiky podle druhu pobytu cizince. Nemá-li povinný místo svého trvalého pobytu v České republice nebo místo pobytu podle věty první, je místně příslušným soud, v jehož obvodu má povinný majetek.
+Podle ustanovení § 52 odst. 1 exekučního řádu se pro exekuční řízení přiměřeně použijí ustanovení občanského soudního řádu.
+Podle § 105 odst. 2 o. s. ř. vysloví-li soud, že není místně příslušný, postoupí věc po právní moci tohoto usnesení příslušnému soudu nebo ji za podmínek § 11 odst. 3 téhož zákona předloží Nejvyššímu soudu.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne (srov. i usnesení velkého senátu občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne 12. 11. 2014, sp. zn. 31 Nd 316/2013, dostupné na webových stránkách Nejvyššího soudu).
+Vycházeje z obsahu spisu, s přihlédnutím k zásadě hospodárnosti řízení vyjádřené v § 6 o. s. ř., určil Nejvyšší soud podle § 11 odst. 3 o. s. ř. místně příslušným pro projednání a rozhodnutí výše označené věci Okresní soud Praha-západ, u nějž bylo řízení zahájeno.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 19. ledna 2017
+JUDr. Miroslava Jirmanová, Ph.D.
+předsedkyně senátu
