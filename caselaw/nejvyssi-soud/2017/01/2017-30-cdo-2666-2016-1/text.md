@@ -1,0 +1,15 @@
+30 Cdo 2666/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Simona a soudců JUDr. Bohumila Dvořáka a JUDr. Františka Ištvánka v právní věci žalobce Ing. L. B., zastoupeného Mgr. Barbarou Martinů, advokátkou se sídlem v Praze 1, Štěpánská 643/39, proti žalované České republice – Ministerstvu pro místní rozvoj, se sídlem v Praze 1, Staroměstské náměstí 932/6, o zaplacení 180 000 Kč, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 30 C 146/2012, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 25. 9. 2014, č. j. 20 Co 313/2014-63, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Městský soud v Praze jako soud odvolací napadeným rozsudkem změnil rozsudek Obvodního soudu pro Prahu 1 jako soudu prvního stupně ze dne 19. 11. 2013, č. j. 30 C 146/2012-32, ve vyhovujícím výroku tak, že se konstatuje porušení práva žalobce na projednání věci (v rozsudku blíže popsané) v přiměřené době a že se návrh na zaplacení částky 50 000 Kč zamítá (výrok I rozsudku odvolacího soudu). V zamítavém výroku odvolací soud rozsudek soudu prvního stupně potvrdil (výrok II rozsudku odvolacího soudu) a rozhodl, že žádný z účastníků nemá právo na náhradu nákladů řízení před soudy obou stupňů (výrok III rozsudku odvolacího soudu)
+Rozsudek odvolacího soudu napadl žalobce v plném rozsahu včasným dovoláním, které však Nejvyšší soud podle § 243c odst. 1 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2013 do 31. 12. 2013 (viz čl. II bod 7 zákona č. 404/2012 Sb. a čl. II bod 2 zákona č. 293/2013 Sb.), dále jen „o. s. ř.“, odmítl.
+Nejvyšší soud opakovaně konstatuje, že stanovení formy nebo výše přiměřeného zadostiučinění je především úkolem soudu prvního stupně a přezkum úvah tohoto soudu úkolem soudu odvolacího. Přípustnost dovolání nemůže založit pouhý nesouhlas s formou přisouzeného zadostiučinění, neboť ta se odvíjí od okolností každého konkrétního případu a nemůže sama o sobě představovat otázku hmotného práva ve smyslu § 237 o. s. ř. Dovolací soud při přezkumu formy zadostiučinění v zásadě posuzuje právní otázky spojené s výkladem podmínek obsažených v § 31a odst. 2 OdpŠk, přičemž zvolenou formou zadostiučinění by se zabýval jen tehdy, byla-li by vzhledem k aplikaci tohoto ustanovení na konkrétní případ zcela zjevně nepřiměřená, což v případě žalobce není (srov. obdobně rozsudek Nejvyššího soudu ze dne 15. 12. 2010, sp. zn. 30 Cdo 4462/2009, a usnesení Nejvyššího soudu ze dne 24. 2. 2016, sp. zn. 30 Cdo 5483/2015).
+Dovolání napadající rozsudek odvolacího soudu v rozsahu, v němž bylo rozhodnuto o náhradě nákladů odvolacího řízení, neobsahuje zákonné náležitosti (§ 241a odst. 2 o. s. ř.) a v dovolacím řízení proto nelze pro vady dovolání v uvedeném rozsahu pokračovat.
+Nákladový výrok netřeba odůvodňovat (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení nejsou přípustné opravné prostředky.
+V Brně dne 20. ledna 2017
+JUDr. Pavel Simon
+předseda senátu
