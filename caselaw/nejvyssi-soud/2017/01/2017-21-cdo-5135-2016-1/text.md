@@ -1,0 +1,14 @@
+21 Cdo 5135/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Ljubomíra Drápala a soudců JUDr. Zdeňka Novotného a JUDr. Mojmíra Putny v právní věci žalobkyně Ing. M. H., zastoupené JUDr. Danielou Pitínovou, advokátkou se sídlem v Praze 4, Suppého č. 532/4, proti žalované České republice - Ministerstvu životního prostředí v Praze 10, Vršovická č. 1442/65, IČO 00164801, o neplatnost výpovědi z pracovního poměru, vedené u Obvodního soudu pro Prahu 10 pod sp. zn. 26 C 53/2014, o dovolání žalobkyně proti rozsudku Městského soudu v Praze ze dne 29. června 2016 č. j. 62 Co 172/2016-215, takto:
+I. Dovolání žalobkyně se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o.s.ř.):
+Dovolání žalobkyně proti rozsudku Městského soudu v Praze ze dne 29.6.2016 č. j. 62 Co 172/2016-215 není přípustné podle ustanovení § 237 o.s.ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu [k požadavku určitosti výpovědi srov. například rozhodnutí Nejvyššího soudu ze dne 30.11.1967 sp. zn. 6 Cz 193/67, které bylo uveřejněno pod č. 34 ve Sbírce soudních rozhodnutí a stanovisek, roč. 1968; k požadavku určitosti výpovědi podle ustanovení § 52 písm. c) zákoníku práce srov. například rozsudek Nejvyššího soudu ze dne 29. 5. 2012 sp. zn. 21 Cdo 1138/2011 nebo rozsudek Nejvyššího soudu ze dne 29. 6. 1998 sp. zn. 2 Cdon 1797/97, který byl uveřejněn pod č. 54 ve Sbírce soudních rozhodnutí a stanovisek, roč. 1999; k otázce splnění předpokladů pro podání výpovědi z pracovního poměru podle ustanovení § 52 písm. c) zák. práce srov. např. rozsudek Nejvyššího soudu ze dne 15.1.2014 sp. zn. 21 Cdo 1138/2013, rozsudek Nejvyššího soudu ze dne 21.5.2013 sp. zn. 21 Cdo 2012/2012, nebo při dřívější obdobné právní úpravě například rozsudek býv. Nejvyššího soudu ze dne 22.2.1968 sp. zn. 6 Cz 215/67, uveřejněný pod č. 57 ve Sbírce soudních rozhodnutí a stanovisek, roč. 1968, rozsudek Nejvyššího soudu ze dne 25.8.1998 sp. zn. 2 Cdon 1130/97 nebo rozsudek Nejvyššího soudu ze dne 27.4.2004 sp. zn. 21 Cdo 2204/2003, uveřejněný pod č. 54 ve Sbírce soudních rozhodnutí a stanovisek, roč. 2005] a není důvod, aby rozhodné právní otázky byly posouzeny jinak.
+V části v níž dovolatelka uplatnila jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o.s.ř. (vznáší-li dovolatelka výhrady proti správnosti skutkových zjištění a proti hodnocení důkazů), trpí dovolání vadami, pro které nelze v dovolacím řízení pokračovat.
+Nejvyšší soud České republiky proto dovolání žalobkyně podle ustanovení § 243c odst. 1 věty první o.s.ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 24. ledna 2017
+JUDr. Ljubomír Drápal
+předseda senátu
