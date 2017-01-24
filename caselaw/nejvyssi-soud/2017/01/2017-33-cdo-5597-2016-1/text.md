@@ -1,0 +1,18 @@
+33 Cdo 5597/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu JUDr. Blankou Moudrou ve věci žalobkyně AB 4 B.V., soukromé společnosti s ručením omezeným se sídlem Amsterdam, Nizozemské království, kontaktní adresa Amsterdam, Strawinskylaan 933, Nizozemské království, číslo v obchodním rejstříku 341 86 049, zastoupené JUDr. Vladimírem Muzikářem, advokátem se sídlem Brno, Havlíčkova 127/13, proti žalovanému R. Z., zastoupenému JUDr. Marií Nedvědovou, advokátkou se sídlem Česká Lípa, Sokolská 295/37, o 17.533,22 Kč s příslušenstvím, vedené u Městského soudu v Brně pod sp. zn. 52 C 46/2013, o dovolání žalovaného proti rozsudku Krajského soudu v Brně ze dne 26. 5. 2016, č. j. 28 Co 263/2015-151, takto:
+I. Dovolání se odmítá.
+II. Žalovaný je povinen zaplatit žalobkyni na náhradě nákladů dovolacího řízení 2.565,20 Kč do tří dnů od právní moci usnesení k rukám JUDr. Vladimíra Muzikáře, advokáta.
+O d ů v o d n ě n í :
+Městský soud v Brně rozsudkem ze dne 31. 3. 2015, č. j. 52 C 46/2013-104, uložil žalovanému zaplatit původní žalobkyni AB 5 B.V., soukromé společnosti s ručením omezeným, se sídlem Amsterdam, Nizozemské království, číslo v obchodním rejstříku 341 92 873, částku 17.533,22 Kč se specifikovanými úroky z prodlení (výrok I.) a na nákladech řízení částku 10.159,70 Kč (výrok II.).
+Krajský soud v Brně rozsudkem ze dne 26. 5. 2016, č. j. 28 Co 263/2015-151, rozsudek soudu prvního stupně ve výroku I. potvrdil, ve výroku o nákladech řízení jej změnil jen co do výše přiznané náhrady; současně rozhodl o náhradě nákladů odvolacího řízení.
+Poté, co žalovaný napadl rozsudek odvolacího soudu dovoláním, původní žalobkyně zanikla dne 17. 10. 2016 sloučením se společností AB 4 B.V., soukromou společností s ručením omezeným, se sídlem Amsterdam, Nizozemské království, číslo v obchodním rejstříku 341 86 049. Nejvyšší soud usnesením ze dne 19. 1. 2017, č. j. 33 Cdo 5597/2016-213, rozhodl, že v řízení bude dále pokračováno na straně žalující s touto právní nástupkyní původní žalobkyně (§ 243b, § 107 odst. 1 a 3 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013; srovnej čl. II bod 1, 7 zákona č. 404/2012 Sb., čl. II bod 2 zákona č. 293/2013 Sb. - dále jen „o. s. ř.“).
+Žalobkyně navrhla dovolání odmítnout pro jeho vady, které nebyly včas odstraněny a pro něž nelze v dovolacím řízení pokračovat.
+Dovolání proti rozsudku odvolacího soudu vykazuje vady, jelikož neobsahuje způsobilé vymezení toho, v čem žalovaný spatřuje splnění předpokladů přípustnosti dovolání (§ 241a odst. 2 o. s. ř.); o tuto obligatorní náležitost již nemůže být doplněno (§ 241b odst. 3 o. s. ř.) a v dovolacím řízení tak nelze pokračovat. Může-li být dovolání přípustné jen podle § 237 o. s. ř. (jako v této věci), je dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné (srov. usnesení Nejvyššího soudu ze dne 30. 5. 2013, sp. zn. 29 Cdo 1172/2013, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod č. 80/2013, usnesení Nejvyššího soudu ze dne 25. 9. 2013, sp. zn. 29 Cdo 2394/2013, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod č. 4/2014). Tomuto požadavku žalovaný, který se otázkou naplnění kritérií uvedených v § 237 o. s. ř. nikterak nezabýval, nedostál a způsobilé vymezení přípustnosti nelze dovodit ani z celého obsahu dovolání.
+Nejvyšší soud proto dovolání odmítl (§ 243c odst. 1, věta první o. s. ř.).
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+Nesplní-li žalovaný dobrovolně, co mu ukládá vykonatelné rozhodnutí, může žalobkyně podat návrh na soudní výkon rozhodnutí (exekuci).
+V Brně dne 24. ledna 2017
+JUDr. Blanka Moudrá
+předsedkyně senátu
