@@ -1,0 +1,16 @@
+29 Cdo 5813/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudců JUDr. Jiřího Zavázala a JUDr. Petra Šuka v právní věci žalobce AVERSEN ENTERPRISES LIMITED, se sídlem v Larnace, Simis 12, KITI, P.C. 7550, Kyperská republika, registrační číslo 107986, zastoupeného Mgr. Karlem Somolem, advokátem, se sídlem v Praze, Karlovo náměstí 671/24, PSČ 110 00, proti žalovanému J. M., zastoupenému JUDr. Danou Musalovou, LL.M., advokátkou, se sídlem v Mladé Boleslavi, náměstí Míru 14, PSČ 293 01, o zaplacení částky 1,000.000,- Kč s postižními právy ze směnky, vedené u Krajského soudu v Ústí nad Labem pod sp. zn. 23 Cm 13/1999, o dovolání žalovaného proti usnesení Vrchního soudu v Praze ze dne 20. ledna 2016, č. j. 5 Cmo 458/2015-168, takto:
+Dovolání se odmítá.
+Odůvodnění:
+Vrchní soud v Praze usnesením ze dne 20. ledna 2016, č. j. 5 Cmo 458/2015-168, potvrdil usnesení ze dne 16. října 2015, č. j. 23 Cm 13/99-133, jímž Krajský soud v Ústí nad Labem – odkazuje na ustanovení § 107a zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“) – vyhověl návrhu žalobce, aby na jeho místo do řízení vstoupila Glory Daze Associated S. A., se sídlem Road Town, Tortola, Porter Road 33, P. O. Box 3169 PMB 103, Britské Panenské ostrovy, registrační číslo 584444 (dále jen „společnost“).
+Proti usnesení odvolacího soudu podal žalovaný dovolání, které má za přípustné podle ustanovení § 237 o. s. ř., namítaje, že rozhodnutí spočívá na nesprávném právním posouzení věci a požaduje, aby Nejvyšší soud toto rozhodnutí zrušil a věc vrátil odvolacímu soudu k dalšímu řízení.
+Rozhodné znění občanského soudního řádu pro dovolací řízení (do 31. prosince 2013) se podává z bodu 2., části první, článku II zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony.
+Dovolání žalovaného, které mohlo být přípustné jen podle ustanovení § 237 o. s. ř., Nejvyšší soud odmítl jako nepřípustné podle ustanovení § 243c odst. 1 a 2 o. s. ř.
+Učinil tak proto, že právní posouzení věci, na němž rozhodnutí odvolacího soudu spočívá a které bylo dovoláním zpochybněno, odpovídá závěrům formulovaným Nejvyšším soudem v důvodech rozsudků ze dne 27. října 2015, sp. zn. 29 Cdo 2344/2015 a ze dne 17. prosince 2015, sp. zn. 29 Cdo 1155/2014, uveřejněných pod čísly 105/2016 a 104/2016 Sbírky soudních rozhodnutí a stanovisek, jakož i v rozsudku ze dne 29. dubna 2015, sp. zn. 29 Cdo 2207/2014 a v usnesení ze dne 24. února 2016, sp. zn. 29 Cdo 2383/2014.
+O tom, že směnka byla společnosti předána, rovněž nemůže být žádných pochyb (k tomu srov. plné moci a substituční plné moci č. l. 119, 125, 126 a 129, jakož i úřední záznam na č. l. 124)).
+O náhradě nákladů dovolacího řízení Nejvyšší soud nerozhodoval, když rozhodnutí Nejvyššího soudu není rozhodnutím, kterým se řízení končí, a řízení nebylo již dříve skončeno (srov. např. usnesení Nejvyššího soudu ze dne 23. července 2002, sp. zn. 20 Cdo 970/2001, uveřejněné pod číslem 48/2003 Sbírky soudních rozhodnutí a stanovisek.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 25. ledna 2017
+JUDr. Petr G e m m e l
+předseda senátu
