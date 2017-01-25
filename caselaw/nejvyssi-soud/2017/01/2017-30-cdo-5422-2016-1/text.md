@@ -1,0 +1,19 @@
+30 Cdo 5422/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Pavlem Simonem v právní věci žalobce M. M., proti žalované České republice – Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 424/16, o zaplacení 1 838 000 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 25 C 113/2014, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 22. 6. 2016, č. j. 39 Co 183/2016-286, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 2 jako soud prvního stupně rozsudkem ze dne 21. 5. 2015, č. j. 25 C 113/2014-242, zamítl žalobu na zaplacení částky 1 838 000 Kč s příslušenstvím (výrok I) a dále rozhodl, že žalobce je povinen zaplatit žalované náhradu nákladů řízení ve výši 1 200 Kč (výrok II). Městský soud v Praze jako soud odvolací usnesením ze dne 11. 11. 2015, č. j. 39 Co 266/2015-280, rozsudek soudu prvního stupně zrušil a věc mu vrátil k dalšímu řízení. Soud prvního stupně poté rozsudkem ze dne 10. 2. 2016, č. j. 25 C 113/2014-242 (správně 25 C 113/2014-305), zamítl žalobu na zaplacení částky 1 838 000 Kč s příslušenstvím (výrok I) a dále rozhodl, že je žalobce povinen zaplatit žalované náhradu nákladů řízení ve výši 1 500 Kč (výrok II).
+Odvolací soud v rozsudku ze dne 22. 6. 2016, č. j. 39 Co 183/2016-286, výrokem I rozsudek soudu prvního stupně potvrdil. Výrokem II rozhodl, že žádný z účastníků nemá právo na náhradu nákladů odvolacího řízení.
+Proti výše uvedenému rozsudku odvolacího soudu (č. j. 39 Co 183/2016-286) podal žalobce tzv. blanketní dovolání ze dne 9. 10. 2016 (č. l. 296), které bylo Nejvyššímu soudu předloženo k rozhodnutí a které je předmětem tohoto dovolacího řízení. Při podání dovolání nebyl žalobce zastoupen advokátem a ani nedoložil, že má sám odpovídající právnické vzdělání.
+Soud prvního stupně usnesením ze dne 12. 10. 2016, č. j. 25 C 113/2014-298, které bylo žalobci doručeno fikcí dne 23. 10. 2016, vyzval žalobce, aby si pro podání dovolání zvolil zástupcem advokáta a aby jeho prostřednictvím podal řádné dovolání proti napadenému rozsudku odvolacího soudu ze dne 22. 6. 2016, č. j. 39 Co 183/2016-286, a současně žalobce poučil, že nebude-li do pěti dnů ode dne doručení tohoto usnesení předložena soudu plná moc zvoleného advokáta a jím sepsané dovolání, Nejvyšší soud dovolací řízení zastaví.
+Žalobce na výše uvedenou výzvu nijak nereagoval.
+Nejvyšší soud v dovolacím řízení postupoval a o dovolání rozhodl podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2014 (viz čl. II a čl. VII zákona č. 293/2013 Sb.), dále jen „o. s. ř.“
+Ustanovení § 241 o. s. ř., které stanovuje tzv. povinné zastoupení dovolatele při podání dovolání, představuje zvláštní podmínku dovolacího řízení, jejíž nedostatek lze odstranit, bez jejíhož splnění však nelze meritorně rozhodnout o dovolání. Výjimku stanovuje § 241 odst. 2 písm. a) o. s. ř., podle kterého není třeba podmínku povinného zastoupení dovolatele advokátem nebo notářem splnit, je-li dovolatelem fyzická osoba, která má právnické vzdělání.
+Z dovolání nevyplývá, že by byl žalobce právně zastoupen. Žalobce neprokázal ani netvrdil, že je zastoupen advokátem nebo že sám má právnické vzdělání. Z uvedeného je zřejmé, že žalobce nesplnil zákonem stanovenou podmínku povinného zastoupení, a to ani přes výzvu a poučení soudu o důsledcích své nečinnosti. Nejvyšší soud proto postupoval podle ustanovení § 241b odst. 2 části věty před středníkem a § 104 odst. 2 věty třetí o. s. ř. a řízení zastavil.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení nejsou přípustné opravné prostředky.
+V Brně dne 25. ledna 2017
+JUDr. Pavel Simon
+předseda senátu
