@@ -1,0 +1,16 @@
+32 Cdo 3144/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Hany Gajdziokové a soudců JUDr. Pavla Příhody a JUDr. Marka Doležala v právní věci žalobkyně AB - CREDIT a. s., se sídlem v Praze 1, Opletalova 1603/57, identifikační číslo osoby 40522610, adresa pro doručování Hráského 2331/25, Praha 4, proti žalované MT Moravia Trade, spol. s r. o. - v likvidaci, se sídlem v Brně, Jedovnická 2346/8, identifikační číslo osoby 15530761, o zaplacení částky 1 000 000 Kč s příslušenstvím, vedené u Okresního soudu v Kroměříži pod sp. zn. 5 C 57/2009, o dovolání žalované proti rozsudku Krajského soudu v Brně ze dne 21. 9. 2010, č. j. 47 Co 254/2009-160, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Krajský soud v Brně v záhlaví označeným rozsudkem potvrdil (ve správném znění) rozsudek ze dne 18. 5. 2009, č. j. 5 C 57/2009-134, kterým Okresní soud v Kroměříži uložil žalované zaplatit žalobkyni částku 1 000 000 Kč s příslušenstvím (první výrok) a dále částku 40 000 Kč na náhradu nákladů řízení (druhý výrok), a rozhodl o nákladech odvolacího řízení (třetí výrok).
+Proti rozsudku odvolacího soudu podala žalovaná dovolání. Přípustnost dovolání opírá o ustanovení § 237 odst. 1 písm. c) zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2012 (dále jen „o. s. ř.“), a namítá, že rozhodnutí spočívá na nesprávném právním posouzení věci.
+Z obchodního rejstříku vedeného Krajským soudem v Brně, oddílu C, vložky 810, dovolací soud zjistil, že žalovaná byla ke dni 22. 11. 2016 vymazána z obchodního rejstříku bez právního nástupce poté, co byl konkurs na její majetek zrušen po splnění rozvrhového usnesení. Výmazem z obchodního rejstříku žalovaná podle ustanovení § 185 zákona č. 89/2012 Sb., občanský zákoník, zanikla a podle § 19 o. s. ř. ztratila způsobilost být účastníkem řízení.
+Podle ustanovení § 107 o. s. ř. jestliže účastník ztratí po zahájení řízení způsobilost být účastníkem řízení dříve, než řízení bylo pravomocně skončeno, posoudí soud podle povahy věci, zda v řízení může pokračovat. Není-li možné v řízení ihned pokračovat, soud řízení přeruší. O tom, s kým bude v řízení pokračováno, soud rozhodne usnesením (odstavec 1). Ztratí-li způsobilost být účastníkem řízení právnická osoba a umožňuje-li povaha věci pokračovat v řízení, jsou jejím procesním nástupcem, nestanoví-li zákon jinak, ti, kteří po zániku právnické osoby vstoupili do jejích práv a povinností, popřípadě ti, kteří po zániku právnické osoby převzali práva a povinnosti, o něž v řízení jde (odstavec 3). Neumožňuje-li povaha věci v řízení pokračovat, soud řízení zastaví (odstavec 5 věta první).
+Poněvadž žalovaná výmazem z obchodního rejstříku ztratila způsobilost mít práva a povinnosti a rovněž způsobilost být účastníkem řízení a není zde právní nástupce, Nejvyšší soud řízení o dovolání žalované podle ustanovení § 243c a § 107 odst. 5 věty první o. s. ř. zastavil.
+O náhradě nákladů dovolacího řízení bylo rozhodnuto podle ustanovení § 243b odst. 5 věty první, § 224 odst. 1 a § 146 odst. 1 písm. c) o. s. ř. tak, že žádný z účastníků nemá právo na jejich náhradu.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 31. 1. 2017
+JUDr. Hana G a j d z i o k o v á
+předsedkyně senátu
