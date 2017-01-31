@@ -1,0 +1,14 @@
+33 Cdo 4431/2015
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Václavem Dudou ve věci žalobce P. Č., proti žalované České poště, s. p. se sídlem v Praze 1, Politických vězňů 909/4, identifikační číslo 47114983, o 454,- Kč s příslušenstvím, vedené u Okresního soudu v Českých Budějovicích pod sp. zn. 17 C 33/2013, o dovolání žalobce proti usnesení Krajského soudu v Českých Budějovicích ze dne 21. listopadu 2014, č. j. 5 Co 1573/2014-33, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalobce podal dovolání proti usnesení Krajského soudu v Českých Budějovicích ze dne 21. 11. 2014, č. j. 5 Co 1573/2014-33, kterým bylo potvrzeno usnesení Okresního soudu v Českých Budějovicích ze dne 19. 6. 2014, č. j. 17 C 33/2013-22, o nepřiznání osvobození od soudních poplatků.
+Podle § 241 odst. 1 věty první zákona č. 99/1963 Sb., občanského soudního řádu ve znění účinném do 31. 12. 2013 (čl. II. bod 2. zákona č. 404/2012 Sb. a čl. II bod 2 zákona č. 293/2013 Sb. - dále jen „o. s. ř.“) není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Odstavec první citovaného ustanovení neplatí, je-li dovolatelem fyzická osoba, která má právnické vzdělání [§ 241 odst. 2 písm. a) o. s. ř.]. Podle odstavce 4 téhož ustanovení dovolání fyzické osoby musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem nebo notářem. Povinné zastoupení je tak zvláštní podmínkou dovolacího řízení týkající se dovolatele, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění není možno vydat rozhodnutí, jímž se řízení končí. Podle § 104 odst. 2 o. s. ř. jde-li o nedostatek podmínky řízení, který lze odstranit, učiní k tomu soud vhodná opatření. Nezdaří-li se nedostatek podmínky řízení odstranit, řízení zastaví.
+Žalobce, který nebyl při podání dovolání zastoupen advokátem (a z obsahu spisu nevyplývá, že by sám měl právnické vzdělání), soud prvního stupně vyzval usnesením ze dne 9. 7. 2015, č. j. 17 C 33/2013-55, aby ve lhůtě 30 dnů ode dne doručení usnesení prokázal, že má právnické vzdělání nebo aby si pro dovolací řízení zvolil zástupcem advokáta a jeho prostřednictvím podal řádné dovolání; zároveň byl poučen, že nebude-li přes tuto výzvu nedostatek povinného zastoupení advokátem v dovolacím řízení odstraněn, bude dovolací řízení zastaveno. Usnesení obsahující uvedenou výzvu bylo žalovanému doručeno 13. 7. 2015; žalobce nedostatek povinného zastoupení v dovolacím řízení ve lhůtě neodstranil. Nejvyšší soud proto řízení o dovolání ve smyslu § 241b odst. 2 věta před středníkem a § 104 odst. 1, 2 o. s. ř. zastavil.
+Výrok o náhradě nákladů dovolacího řízení nemusí být odůvodněn (§ 243f odst. 3 o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 31. ledna 2017
+JUDr. Václav Duda
+předseda senátu
