@@ -1,0 +1,17 @@
+29 Cdo 5694/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Jiřím Zavázalem v právní věci žalobce FINCOM TRADE LTD., se sídlem Akara Bldg., 24 De Castro Street, Wickhams Cay 1, Road Town, Tortola, Britské Panenské ostrovy, identifikační číslo 1380699, zastoupeného Mgr. Petrem Schopfem, advokátem, se sídlem v Praze 1, Václavské náměstí 777/12, PSČ 110 00, proti žalovaným 1) Autocentrum Šumperk, s. r. o. v likvidaci, se sídlem v Brně, Mlýnská 326/13, PSČ 602 00, identifikační číslo osoby 26972301 a 2) D. P., zastoupené Mgr. Alenou Hlavešovou, advokátkou, se sídlem v Šumperku, Lidická 2567/56, PSČ 787 01, o žalobě druhé žalované na obnovu řízení, vedené u Městského soudu v Praze pod sp. zn. 55 Cm 64/2009, o dovolání druhé žalované proti usnesení Vrchního soudu v Praze ze dne 17. května 2016, č. j. 5 Cmo 39/2016-624, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Vrchní soud v Praze v záhlaví označeným usnesením k odvolání druhé žalované potvrdil usnesení ze dne 9. září 2015, č. j. 55 Cm 64/2009-594, jímž Městský soud v Praze zamítl žalobu druhé žalované na obnovu řízení vedeného u označeného soudu pod sp. zn. 55 Cm 64/2009.
+Proti rozhodnutí odvolacího soudu (doručenému jí dne 13. června 2016) podala druhá žalovaná včasné dovolání, jež vedle označení věci, soudu, jemuž je adresováno a rozhodnutí odvolacího soudu, proti němuž dovolání směřuje, obsahovalo již jen sdělení, že jej dovolatelka „dodatečně zdůvodní do deseti dnů“ (šlo o tzv. blanketní dovolání).
+Podle § 241b odst. 3 zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), dovolání, které neobsahuje údaje o tom, v jakém rozsahu se rozhodnutí odvolacího soudu napadá, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) nebo které neobsahuje vymezení důvodu dovolání, může být o tyto náležitosti doplněno jen po dobu trvání lhůty k dovolání.
+Jak je zřejmé z obsahu spisu, v dané věci připadl poslední den lhůty k podání dovolání proti shora označenému rozhodnutí odvolacího soudu na pondělí 15. srpna 2016. Jelikož dovolání druhé žalované neobsahovalo údaje o tom, v jakém rozsahu se rozhodnutí odvolacího soudu napadá, v čem dovolatelka spatřuje splnění předpokladů přípustnosti dovolání, ani vymezení důvodu dovolání, přičemž o tyto náležitosti nebylo dovolání doplněno v propadné (prekluzivní) lhůtě určené v ustanovení § 241b odst. 3 o. s. ř., Nejvyšší soud dovolání podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl, neboť trpí vadami, pro něž nelze v dovolacím řízení pokračovat.
+K doplňujícímu podání, doručenému po uplynutí lhůty stanovené v § 241b odst. 3 o. s. ř. soudu prvního stupně (učiněnému navíc samotnou dovolatelkou – viz § 241a odst. 5 o. s. ř.) již nebylo možné přihlédnout (k tomu srov. v judikatuře např. usnesení Nejvyššího soudu ze dne 18. června 2003, sp. zn. 29 Odo 108/2002, uveřejněné pod číslem 21/2004 Sbírky soudních rozhodnutí a stanovisek).
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Rozhodné znění občanského soudního řádu pro dovolací řízení (do 31. prosince 2013) se podává z bodu 2., části první, článku II zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 31. ledna 2017
+JUDr. Jiří Z a v á z a l
+předseda senátu
