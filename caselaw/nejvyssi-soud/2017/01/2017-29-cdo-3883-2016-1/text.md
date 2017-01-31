@@ -1,0 +1,17 @@
+29 Cdo 3883/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Jiřím Zavázalem v právní věci žalobkyně MERA - CZECH a. s., v likvidaci, se sídlem v Prostějově, Za Drahou 4239/2, PSČ 796 01, identifikační číslo osoby 25537211, zastoupené Mgr. Petrem Čubíkem, advokátem, se sídlem v Olomouci, Wellnerova 1322/3c, PSČ 779 00, proti žalovaným 1) JUDr. Miroslavu Müllerovi, se sídlem v Olomouci, Fibichova 1141/2, PSČ 779 00, jako správci konkursní podstaty úpadkyně MERA - CZECH a. s., v likvidaci, zastoupenému Mgr. Martinem Petrošem, advokátem, se sídlem v Praze 2, Americká 152/15, PSČ 120 00, 2) České spořitelně, a. s., se sídlem v Praze 4, Olbrachtova 1929/62, PSČ 140 00, identifikační číslo osoby 45244782 a 3) Stavebniny KOBE s. r. o. v likvidaci, se sídlem v Říčanech, Brněnská 311, PSČ 664 82, identifikační číslo osoby 60736101, o zaplacení částky 17.500.000 Kč, vedené u Okresního soudu v Olomouci pod sp. zn. 20 C 51/2013, o dovolání žalobkyně proti rozsudku Krajského soudu v Ostravě – pobočky v Olomouci ze dne 30. března 2016, č. j. 75 Co 246/2015-717, takto:
+I. Dovolací řízení se zastavuje.
+II. Žalobkyně je povinna zaplatit prvnímu žalovanému na náhradě nákladů dovolacího řízení částku 62.436 Kč, do tří dnů od právní moci tohoto usnesení, k rukám jeho zástupce.
+III. Ve vztahu mezi žalobkyní a druhou a třetí žalovanými nemá žádný z účastníků právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Proti v záhlaví označenému rozsudku Krajského soudu v Ostravě – pobočky v Olomouci podala žalobkyně dovolání, které podáním ze dne 21. prosince 2016 vzala v celém rozsahu zpět.
+Nejvyšší soud proto dovolací řízení podle ustanovení § 243c odst. 3 věty druhé zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), zastavil.
+Výrok o náhradě nákladů dovolacího řízení ve vztahu mezi žalobkyní a prvním žalovaným se opírá o ustanovení § 243c odst. 3, § 224 odst. 1 a § 146 odst. 2 věty první o. s. ř., když dovolatelka z procesního hlediska (zpětvzetím podaného dovolání) zavinila, že dovolací řízení muselo být zastaveno, čímž ji vznikla povinnost hradit prvnímu žalovanému jeho náklady řízení. Ty v daném případě sestávají z mimosmluvní odměny za zastoupení advokátem za jeden úkon právní služby (vyjádření k dovolání ze dne 24. srpna 2016), která podle ustanovení § 7 bodu 7., § 8 odst. 1 a § 11 odst. 1 písm. k) vyhlášky Ministerstva spravedlnosti č. 177/1996 Sb., o odměnách advokátů a náhradách advokátů za poskytování právních služeb (advokátní tarif), činí částku 51.300 Kč, dále z paušální částky náhrady hotových výdajů ve výši 300 Kč (§ 13 odst. 3 advokátního tarifu) a z náhrady za 21% daň z přidané hodnoty (§ 137 odst. 1, 3 o. s. ř.) ve výši 10.836 Kč. Celkem činí přiznaná náhrada nákladů dovolacího řízení částku 62.436 Kč.
+Druhé a třetí žalované pak podle obsahu spisu v dovolacím řízení žádné náklady nevznikly.
+K určení výše odměny za zastupování advokátem podle advokátního tarifu srov. důvody rozsudku velkého senátu občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne 15. května 2013, sp. zn. 31 Cdo 3043/2010, uveřejněného pod číslem 73/2013 Sbírky soudních rozhodnutí a stanovisek.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+Nesplní-li povinná, co jí ukládá vykonatelné rozhodnutí, může se oprávněný domáhat výkonu rozhodnutí.
+V Brně dne 31. ledna 2017
+JUDr. Jiří Z a v á z a l
+předseda senátu
