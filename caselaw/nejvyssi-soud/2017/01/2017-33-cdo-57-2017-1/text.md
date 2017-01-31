@@ -1,0 +1,17 @@
+33 Cdo 57/2017
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Václavem Dudou ve věci žalobce A. B., zastoupeného Mgr. Radkem Suchým, advokátem se sídlem v Praze 3, Vinohradská 2279/164, proti žalovanému Mgr. V. B., advokátovi se sídlem v Praze 6, Na Baště sv. Jiří 258/7, jako správci pozůstalosti po zemřelém D. S., zastoupenému Mgr. Radkou Dlabalovou, advokátkou se sídlem v Praze 5, Drtinova 372/24, o zaplacení 15.000.000,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 6 pod sp. zn. 19 C 233/2015, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 2. 8. 2016, č. j. 62 Co 233/2016-71, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Městský soud v Praze usnesením ze dne 2. 8. 2016, č. j. 62 Co 233/2016-71, zrušil usnesení ze dne 3. 5. 2016, č. j. 19 C 233/2015-52, jímž Obvodní soud pro Prahu 6 zastavil řízení pro nezaplacení soudního poplatku, a řízení pro zpětvzetí žaloby zastavil; zároveň rozhodl o nákladech řízení před soudy obou stupňů.
+Proti usnesení odvolacího soudu podal žalobce dne 14. 10. 2016 blanketní dovolání, které ve lhůtě pro podání dovolání nedoplnil.
+Podle § 241a odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů (dále jen „o. s. ř.“), v dovolání musí být vedle obecných náležitostí (§ 42 odst. 4) uvedeno, proti kterému rozhodnutí směřuje, v jakém rozsahu se rozhodnutí napadá, vymezení důvodu dovolání, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) a čeho se dovolatel domáhá (dovolací návrh).
+Podle § 241b odst. 3 o. s. ř. dovolání, které neobsahuje údaje o tom, v jakém rozsahu se rozhodnutí odvolacího soudu napadá, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237 až 238a) nebo které neobsahuje vymezení důvodu dovolání, může být o tyto náležitosti doplněno jen v průběhu trvání lhůty k dovolání. Nebyla-li v době podání dovolání splněna podmínka uvedená v § 241, běží tato lhůta až do uplynutí lhůty, která byla dovolateli určena ke splnění této podmínky; požádal-li však dovolatel před uplynutím lhůty o ustanovení zástupce (§ 30), běží lhůta podle věty první znovu až od právní moci usnesení, kterým bylo o této žádosti rozhodnuto.
+V posuzovaném případě bylo usnesení Městského soudu v Praze ze dne 2. 8. 2016, č. j. 62 Co 233/2016-71, advokátovi Mgr. R. S., který žalobce zastupoval na základě plné moci ze dne 25. 6. 2015, doručeno dne 16. 8. 2016. Dovolání, které proti tomuto usnesení podal žalobce prostřednictvím svého zástupce dne 14. 10. 2016, trpí vadami, pro něž nelze v dovolacím řízení pokračovat, konkrétně neobsahuje údaje o tom, v jakém rozsahu se rozhodnutí odvolacího soudu napadá, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání a postrádá rovněž vymezení důvodu dovolání (jedná se o tzv. blanketní dovolání). O chybějící obligatorní údaje nebylo dovolání ve lhůtě k podání dovolání doplněno (lhůta k podání dovolání skončila dne 17. 10. 2016 - § 57 odst. 1 a § 57 odst. 2 věta druhá o. s. ř.) a vady dovolání se staly neodstranitelnými (srov. usnesení Nejvyššího soudu ze dne 28. 2. 2001, sp. zn. 20 Cdo 738/2001).
+Nejvyšší soud dovolání podle § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o nákladech dovolacího řízení nemusí být zdůvodněn (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 31. ledna 2017
+JUDr. Václav Duda
+předseda senátu
