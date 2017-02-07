@@ -1,0 +1,18 @@
+30 Cdo 4656/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Ištvánka a soudců JUDr. Pavla Simona a JUDr. Bohumila Dvořáka, Ph.D., LL.M., v právní věci žalobce M. B., zastoupeného doc. JUDr. Alexandrem Királym, Ph.D., advokátem se sídlem v Ostravě-Porubě, Ludvíka Podéště 5, proti žalované Městské policii České Budějovice, se sídlem v Českých Budějovicích, Jaroslava Haška 2, o přiložení technického prostředku k zabránění odjezdu vozidla, vedené u Okresního soudu v Ostravě pod sp. zn. 61 C 292/2015, o dovolání žalobce proti usnesení Krajského soudu v Ostravě ze dne 30. 5. 2016, č. j. 11 Co 175/2016-12, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Napadeným usnesením Krajský soud v Ostravě jako soud odvolací potvrdil k odvolání žalobce usnesení soudu prvního stupně ze dne 24. 2. 2016, č. j. 61 C 292/2015-6, kterým soud prvního stupně řízení zastavil pro neodstranitelnou překážku řízení spočívající v tom, že Městská policie v Českých Budějovicích nemá vlastní právní subjektivitu, a nemůže proto být účastníkem soudního řízení.
+Usnesení odvolacího soudu v celém jeho rozsahu napadl žalobce dovoláním, jehož přípustnost spatřuje v tom, že napadené usnesení závisí na vyřešení právních otázek, při jejichž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu. Dovolatel formuluje následující otázky: 1) Zda okolnost, že odvolání proti usnesení soudu prvního stupně ve věci neobsahuje náležitosti uvedené v ustanovení § 205 odst. 1 o. s. ř., brání vypořádání námitek v odvolacím řízení. 2) Zda ve věci, která byla zahájena u civilního soudu, a byla u ní dána věcná příslušnost soudů jednajících a rozhodujících ve správním soudnictví, může okresní soud vyslovit absolutní soudní nepříslušnost, aniž by poučil žalobce, aby se s žalobou obrátil na krajský soud. Jako dovolací důvod dovolatel uvádí nesprávné právní posouzení věci. Dovolatel navrhuje, aby dovolací soud napadené usnesení společně s usnesením soudu prvního stupně zrušil a věc vrátil soudu prvního stupně k dalšímu řízení.
+Nejvyšší soud v dovolacím řízení postupoval a o dovolání rozhodl podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2014 (viz čl. II bod 2 zákona č. 293/2013 Sb.), dále jen „o. s. ř.“.
+Dovolání bylo podáno včas, osobou k tomu oprávněnou, řádně zastoupenou podle § 241 odst. 1 o. s. ř., dovolací soud se proto zabýval jeho přípustností.
+Dovolací soud dovolání přípustným neshledal, neboť napadené rozhodnutí na vyřešení dovolatelem vymezených otázek nezávisí. Ve vztahu k první otázce odvolací soud žalobci v odůvodnění napadeného rozhodnutí vytkl, že své odvolání nijak nezdůvodnil. Přesto odvolání žalobce neodmítl, naopak se odvoláním meritorně zabýval a následně rozhodnutí soudu prvního stupně potvrdil. První dovolací otázka tudíž vychází z procesního stavu, jenž v tomto řízení nenastal. Soudy obou stupňů postavily svá rozhodnutí na závěru, že žalovaná nemá vlastní procesní subjektivitu, což představuje neodstranitelnou překážku řízení. Řízení tudíž nebylo zastaveno pro „absolutní soudní nepříslušnost“, jak dovozuje dovolatel ve druhé dovolací otázce.
+Jelikož dovolací soud neshledal dovolání přípustným, nezabýval se případnými vadami řízení (srov. § 242 odst. 3 věta druhá o. s. ř.).
+Dovolací soud z výše uvedených důvodů dovolání podle § 243c odst. 1 věty první o. s. ř. jako nepřípustné odmítl.
+Nákladový výrok netřeba odůvodňovat (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 7. 2. 2017
+JUDr. František Ištvánek
+předseda senátu
