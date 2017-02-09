@@ -1,0 +1,20 @@
+23 Cdo 5593/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Kateřiny Hornochové a soudců JUDr. Zdeňka Dese a JUDr. Moniky Vackové ve věci žalobkyně SUNTEON a.s., se sídlem v Krásném Březně, Přístavní 483/27, PSČ 400 07 Ústí nad Labem, IČO 28880994, proti žalovanému Moravskému Peněžnímu Ústavu – spořitelnímu družstvu, se sídlem v Praze – Novém Městě, Senovážné náměstí 1375/19, PSČ 110 00, IČO 25307835, o určení neplatnosti dohody, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 14 C 100/2015, o dovolání proti usnesení Městského soudu v Praze ze dne 20. dubna 2016, č. j. 21 Co 113/2016-161, které podala Landesbank Baden – Württemberg se sídlem ve Stuttgartu, Karlsruhe, Mannheimu a Mohuči, s obchodní adresou Am Hauptbahnof 2, 70173 Stuttgart, Spolková republika Německo, zastoupená Andreasem Ueltzhöfferem, advokátem se sídlem v Praze 8, Voctářova 24, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í :
+(dle § 243f odst. 3 o. s. ř.)
+Soud prvního stupně k námitce žalované nepřipustil, aby do řízení jako vedlejší účastník vstoupila společnost EAST Portfolio s.r.o. se sídlem v Praze 5, Vítězná 125/3, IČO 02448254. Odvolací soud usnesení soudu prvního stupně potvrdil.
+Proti usnesení odvolacího soudu podala dovolání Landesbank Baden – Württemberg se sídlem ve Stuttgartu, Karlsruhe, Mannheimu a Mohuči, s obchodní adresou Am Hauptbahnof 2, 70173 Stuttgart, Spolková republika Německo.
+Žalovaný navrhl, aby dovolání odmítnuto, protože uvedená společnost není oprávněna dovolání podat.
+Nejvyšší soud České republiky (dále jen „Nejvyšší soud“) jako soud dovolací (§ 10a o. s. ř.) dospěl k závěru, že dovolání skutečně podala osoba, která k tomu není oprávněna.
+Podle ustanovení § 236 odst. 1 o. s. ř. dovoláním lze napadnout pravomocná rozhodnutí odvolacího soudu, pokud to zákon připouští.
+Podle ustanovení § 240 odst. 1 věty první o. s. ř. účastník může podat dovolání do dvou měsíců od doručení rozhodnutí odvolacího soudu u soudu, který rozhodoval v prvním stupni.
+Právě citované ustanovení výslovně vymezuje osobu, která je oprávněna podat dovolání. Touto osobou je pouze účastník řízení.
+Společnost Landesbank Baden – Württemberg podle obsahu spisu účastníkem řízení není; nebyla žalobcem, ani žalovaným a z obsahu spisu neplyne ani to, že by se v průběhu řízení před soudem prvního či druhého stupně stala právním nástupcem některého z nich. Landesbank Baden – Württemberg ohlašuje ve svém dovolání, že do řízení vstoupila dne 11. 8. 2015 jako vedlejší účastník. Ani tato skutečnost ze spisu neplyne. Do řízení vstoupila jako vedlejší účastník společnost EAST Portfolio s.r.o., jejíž účast v řízení však připuštěna nebyla. Společnosti Landesbank Baden – Württemberg, jak z jejího dovolání plyne, postoupila společnost EAST Portfolio s.r.o. pohledávky za žalobcem, z nichž dovozovala svůj právní zájem na výsledku sporu. Landesbank Baden – Württemberg se nejspíš domnívá, že se tím stala vedlejším účastníkem místo společnosti EAST Portfolio s.r.o. a je proto oprávněna dovolání podat. Tato domněnka však nemá oporu v občanském soudním řádu. Singulární sukcese a její důsledky upravené v § 107a o. s. ř. se vztahují pouze na účastníky řízení, nikoli na vedlejšího účastníka, nadto je postup podle tohoto ustanovení v dovolacím řízení zcela vyloučen ustanovením § 243b o. s. ř. Teorie i soudní praxe navíc dospěla k závěru, že ani samotný vedlejší účastník není oprávněn podat dovolání (tento závěr přijal a zdůvodnil Nejvyšší soud ve svém usnesení ze dne 27. 5. 2003, č. j. 25 Cdo 162/2003, které bylo zveřejněno ve Sbírce soudních rozhodnutí a stanovisek pod číslem 3/2004).
+Dovolání bylo podáno tím, kdo k tomu není oprávněn, Nejvyšší soud je proto odmítl podle § 243c odst. 3 věta první o. s. ř. a § 218 písm. b) o. s. ř.
+O náhradě nákladů dovolacího řízení rozhodne soud prvního stupně v rozhodnutí, jímž řízení skončí.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 9. února 2017
+JUDr. Kateřina H o r n o ch o v á
+předsedkyně senátu
