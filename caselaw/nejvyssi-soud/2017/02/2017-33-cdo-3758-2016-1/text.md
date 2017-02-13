@@ -1,0 +1,14 @@
+33 Cdo 3758/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Pavlem Krbkem ve věci žalobce M. H., zastoupeného JUDr. Jaroslavou Moravcovou, advokátkou se sídlem v Pardubicích, Semtín 81, proti žalovanému J. B., o 780.000,- Kč s příslušenstvím, vedené u Okresního soudu v Děčíně pod sp. zn. 12 C 27/2008, o dovolání žalobce proti usnesení Krajského soudu v Ústí nad Labem ze dne 25. 1. 2016, č.j. 14 Co 43/2016-207, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Dovolání, kterým žalobce napadl v záhlaví uvedené rozhodnutí, jímž Krajský soud v Ústí nad Labem potvrdil usnesení ze dne 28. 7. 2015, č.j. 12 C 27/2008-195, kterým mu Okresní soud v Děčíně nepřiznal osvobození od soudního poplatku za podané dovolání, neobsahuje způsobilé vymezení toho, v čem spatřuje splnění předpokladů přípustnosti dovolání (§ 241a odst. 2 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013 /srov. čl. II bod 1, 7 zákona č. 404/2012 Sb., čl. II bod 2 zákona č. 293/2013 Sb./, dále jen „o.s.ř.“); o tuto obligatorní náležitost již dovolání nemůže být doplněno (§ 241b odst. 3, věta první, o.s.ř.) a v dovolacím řízení pro tuto (kvalifikovanou) vadu nelze pokračovat.
+Může-li být dovolání přípustné jen podle § 237 o.s.ř. (jako v této věci), je dovolatel povinen v dovolání vymezit, které z tam taxativně vyjmenovaných hledisek považuje za splněné. Jinak vyjádřeno, z obsahu dovolání musí být patrné, zda jde (má jít) o některý ze čtyř v úvahu přicházejících případů, kdy napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo která je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak (srov. usnesení Nejvyššího soudu ze dne 30. 5. 2013, sp. zn. 29 Cdo 1172/2013, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod č. 80/2013, ze dne 25. 9. 2013, sp. zn. 29 Cdo 2394/2013, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod č. 4/2014, ze dne 27. 8. 2013, sen. zn. 29 NSČR 55/2013, ze dne 15. 10. 2013, sp. zn. 26 Cdo 2326/2013, ze dne 11. 12. 2014, sp. zn. 30 Cdo 4575/2014, a ze dne 27. 5. 2014, sp. zn. 23 Cdo 3166/2013).
+Uvádí-li žalobce k otázce přípustnosti jen to, že „přípustnost dovolání odvozujeme od ustanovení § 237 o.s.ř.,“ požadavkům na vymezení předpokladů přípustnosti nedostál a způsobilé vymezení přípustnosti nelze dovodit ani z celého obsahu dovolání.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 13. února 2017
+JUDr. Pavel Krbek
+předseda senátu
