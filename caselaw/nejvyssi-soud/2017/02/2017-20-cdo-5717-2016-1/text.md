@@ -1,0 +1,13 @@
+20 Cdo 5717/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl pověřeným členem senátu JUDr. Karlem Svobodou, Ph.D., v exekuční věci oprávněné Všeobecné zdravotní pojišťovny České republiky se sídlem v Praze 3 – Vinohradech, Orlická č. 2020/4, identifikační číslo osoby 41197518, proti povinnému M. P., za účasti manželky povinného Z. P., pro 172 996 Kč s příslušenstvím, vedené u Okresního soudu Brno - venkov pod sp. zn. 19 EXE 3885/2014, o dovolání Zuzany Pokorné proti usnesení Krajského soudu v Brně ze dne 15. dubna 2016, č. j. 26 Co 457/2015-50, takto:
+Dovolací řízení se zastavuje.
+Odůvodnění (§ 243f odst. 3 o. s. ř.) :
+Nejvyšší soud řízení o dovolání Z. P. proti usnesení Krajského soudu v Brně ze dne 15. 4. 2016, č. j. 26 Co 457/2015-50, podle ustanovení § 241b odst. 2 a § 104 odst. 2 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2014 (čl. II, bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) – též jen „o. s. ř.“ – zastavil, neboť dovolatelka nesplnila podmínku povinného zastoupení v dovolacím řízení (§ 241 o. s. ř.) a na výzvu Okresního soudu Brno - venkov ze dne 27. 7. 2016, č. j. 19 EXE 3885/2014-62, vadu dovolání spočívající v nedostatku zastoupení advokátem neodstranila.
+V podání ze dne 29. 8. 2016 dovolatelka žádala o přiznání osvobození od soudních poplatků a ustanovení zástupce pro dovolací řízení, svou žádost však vzala podáním ze dne 10. 10. 2016 zpět, proto Okresní soud Brno-venkov usnesením ze dne 20. 10. 2016, č. j. 19 EXE 3885/2014-69, řízení o žádosti Z. P. o osvobození od soudních poplatků a ustanovení zástupce pro podání dovolání proti usnesení Krajského soudu v Brně ze dne 15. 4. 2016, č. j. 26 Co 457/2015-50, zastavil. Ze spisu současně nevyplývá, že by sama dovolatelka prokázala právnické vzdělání podle § 241 odst. 2 písm. a) nebo b) o. s. ř.
+Jelikož obligatorní zastoupení dovolatele v dovolacím řízení je podmínkou týkající se účastníka řízení, jejíž nedostatek brání – kromě usnesení, kterým se dovolací řízení právě pro neodstranění tohoto nedostatku zastavuje – vydání rozhodnutí, jímž se řízení končí, a protože ke zhojení tohoto nedostatku přes řádnou výzvu dovolacího soudu nedošlo, Nejvyšší soud dovolací řízení podle § 104 odst. 2 věty třetí, § 241b odst. 2 a § 243f odst. 2 o. s. ř. zastavil.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu [§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění pozdějších předpisů].
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 15. 2. 2017
+JUDr. Karel Svoboda, Ph.D.
+pověřený člen senátu
