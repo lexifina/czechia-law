@@ -1,0 +1,15 @@
+20 Cdo 5385/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl pověřeným členem senátu JUDr. Karlem Svobodou, Ph.D., v exekuční věci oprávněných a) nezletilého F. H., b) nezletilého J. H., a c) nezletilé L. H., všech K. V., všech zastoupených Mgr. MUDr. Pavlem Strejcem, advokátem se sídlem v Sokolově, 5. května č. 655, proti povinnému Š. H., O., pro 300 000 Kč, vedené u Mgr. Ing. Jiřího Proška, soudního exekutora Exekutorského úřadu Plzeň-město, pod sp. zn. 134 EX 01749/13, o dovolání povinného proti usnesení Okresního soudu v Karlových Varech ze dne 23. září 2016, č. j. 25 EXE 699/2013-272, takto:
+Dovolací řízení se zastavuje.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.) :
+Shora označeným rozhodnutím okresní soud neshledal důvodnými námitky povinného proti příkazu k úhradě nákladů exekuce vydanému exekutorem Mgr. Ing. Jiřím Proškem, Exekutorský úřad Plzeň-město ze dne 18. 6. 2016, č. j. 134 EX 01749/13-617, a příkaz k úhradě nákladů exekuce potvrdil.
+Usnesení Okresního soudu v Karlových Varech napadl povinný dovoláním.
+Nejvyšší soud České republiky, jemuž byla věc předložena, dospěl k závěru, že v posuzovaném případě brání projednání a rozhodnutí o tomto opravném prostředku nedostatek funkční příslušnosti.
+Nejvyšší soud České republiky rozhoduje v občanském soudním řízení o mimořádném opravném prostředku – dovolání – proti pravomocnému rozhodnutí odvolacího soudu, pokud to zákon připouští [srov. § 10a, § 236 odst. 1 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2013 (srov. Čl. II bod 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony) - dále jen „o. s. ř.“].
+Z citovaných ustanovení vyplývá, že rozhodnutí soudu prvního stupně dovoláním úspěšně napadnout nelze. Opravným prostředkem pro přezkoumání rozhodnutí soudu prvního stupně je podle ustanovení § 201 o. s. ř. odvolání, pokud to zákon nevylučuje (o takovýto případ – viz ustanovení § 88 odst. 4 větu druhou exekučního řádu – jde v souzené věci); občanský soudní řád proto také neupravuje funkční příslušnost soudu pro projednání „dovolání“ proti rozhodnutí soudu prvního stupně. Tím, že povinný „dovolání“ směřuje proti rozhodnutí soudu prvního stupně, uvedenou podmínku dovolacího řízení opomíjí. Jelikož nedostatek funkční příslušnosti je neodstranitelným nedostatkem podmínky řízení, Nejvyšší soud řízení o „dovolání“ proti rozhodnutí soudu prvního stupně trpící touto vadou podle ustanovení § 104 odst. 1 věty první o. s. ř. zastavil (srov. též usnesení Nejvyššího soudu z 31. 8. 1999, sp. zn. 20 Cdo 1574/99, uveřejněné v časopise Soudní judikatura pod č. 45, ročník 2000).
+O nákladech dovolacího řízení dovolací soud nerozhodoval (srov. usnesení Nejvyššího soudu ze dne 23. července 2002, sp. zn. 20 Cdo 970/2001, uveřejněné pod číslem 48/2003 Sbírky soudních rozhodnutí a stanovisek).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 15. 2. 2017
+JUDr. Karel Svoboda, Ph. D.
+pověřený člen senátu
