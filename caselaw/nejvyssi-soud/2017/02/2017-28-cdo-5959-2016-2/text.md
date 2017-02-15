@@ -1,0 +1,18 @@
+28 Cdo 5959/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu Mgr. Petra Krause a soudců JUDr. Jana Eliáše, Ph.D., a Mgr. Miloše Póla ve věci žalobkyně A. H., proti žalovanému J. V., zastoupenému JUDr. Janem Tuláčkem, advokátem se sídlem v Praze 6, Hošťálkova 1949/29, o zaplacení částky 77 598 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 10 pod sp. zn. 35 C 37/2012, o odvolání žalobkyně proti rozsudku Městského soudu v Praze ze dne 2. srpna 2016, č. j. 30 Co 362/2015-145, takto:
+I. Dovolací řízení se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Shora označeným rozsudkem Městský soud v Praze potvrdil rozsudek Obvodního soudu pro Prahu 10 ze dne 24. června 2014, č. j. 35 C 37/2012-59, jímž byla zamítnuta žaloba o zaplacení částky 77 598 Kč se specifikovaným poplatkem z prodlení, a současně bylo rozhodnuto o nákladech řízení.
+Proti tomuto rozsudku odvolacího soudu podala žalobkyně opravný prostředek výslovně označený jako odvolání.
+Po přezkoumání věci dospěl Nejvyšší soud k závěru, že řízení o tomto podání žalobkyně, které lze podle jeho obsahu i výslovného označení považovat za odvolání proti označenému rozsudku Městského soudu v Praze (srov. § 41 odst. 2 zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů - dále jen "o. s. ř."), musí být pro neodstranitelný nedostatek podmínek řízení zastaveno.
+Krajské soudy rozhodují o odvoláních proti rozhodnutím okresních soudů (srov. § 10 odst. 1 o. s. ř.). Odvolání je podle ustanovení § 201 o. s. ř. řádným opravným prostředkem, jímž může účastník napadnout rozhodnutí soudu prvního stupně, pokud to zákon nevylučuje. Nejvyšší soud České republiky rozhoduje v občanském soudním řízení o mimořádném opravném prostředku - dovolání - proti pravomocnému rozhodnutí odvolacího soudu (srov. § 10a, § 236 odst. 1 o. s. ř.).
+Z citovaných ustanovení vyplývá, že proti rozhodnutí krajského soudu jako soudu odvolacího zákon odvolání nepřipouští. Občanský soudní řád k projednání odvolání proti takovému rozhodnutí neupravuje ani funkční příslušnost určitého soudu; nedostatek funkční příslušnosti je přitom neodstranitelným nedostatkem podmínky řízení, jehož důsledkem je vždy zastavení řízení (srov. § 104 odst. 1 věta první o. s. ř.). Řízení o odvolání proti rozhodnutí odvolacího soudu zastaví Nejvyšší soud České republiky jako vrcholný článek soustavy obecných soudů (srov. např. usnesení Nejvyššího soudu ze dne 31. 5. 2001, sp. zn. 20 Cdo 1535/99, uveřejněné v časopise Soudní judikatura číslo 7, ročník 2001, pod číslem 85, či ze dne 27. 6. 2002, sp. zn. 29 Odo 433/2002, uveřejněné pod č. 139 v časopise Soudní judikatura 7/2002).
+Proto Nejvyšší soud z výše uvedených důvodů řízení o podaném odvolání pro neodstranitelný nedostatek podmínek řízení zastavil (§ 104 odst. 1, § 243b o. s. ř.).
+Nejvyšší soud přitom nepřehlédl, že proti shora označenému rozhodnutí odvolacího soudu podala žalobkyně současně i mimořádný opravný prostředek označený jako dovolání, jež však může být projednáno dovolacím soudem až poté, co soud prvního stupně učiní přípravné úkony podle § 241b o. s. ř. a věc předloží Nejvyššímu soudu k rozhodnutí o tomto dovolání.
+O náhradě nákladů řízení bylo rozhodnuto podle ustanovení § 243b, § 146 odst. 2 věty první a § 151 odst. 1 o. s. ř., neboť žalobkyně, která z procesního hlediska zavinila, že řízení o jejím podání bylo zastaveno, na náhradu nákladů řízení nemá právo a žalovanému žádné účelně vynaložené náklady nevznikly.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 15. února 2017
+Mgr. Petr Kraus
+předseda senátu
