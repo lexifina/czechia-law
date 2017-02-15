@@ -1,0 +1,15 @@
+20 Cdo 5977/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové, Ph.D., a soudců JUDr. Ivany Kudrnové a JUDr. Zbyňka Poledny v exekuční věci oprávněné AKNELA - s. r. o., se sídlem v Kolíně, Zengrova 601, identifikační číslo osoby 27097391, zastoupené JUDr. Janem Matějíčkem, advokátem se sídlem Kolíně, Politických vězňů 98, proti povinné D. T. M., Č. T., pro 9 847 Kč, vedené u Okresního soudu v Ústí nad Labem pod sp. zn. 52 Nc 12004/2007, o dovolání povinné proti usnesení Krajského soudu v Ústí nad Labem ze dne 26. 5. 2016, č. j. 11 Co 196/2016-185, takto:
+Dovolání se odmítá.
+Odůvodnění:
+Okresní soud v Ústí nad Labem usnesením ze dne 19. 9. 2015, č. j. 52 Nc 12004/2007-166, zastavil řízení o zastavení exekuce, nařízené usnesením Krajského soudu v Ústí nad Labem ze dne 22. 2. 2011, č. j. 11 Co 770/2010-62 (výrok I.), a rozhodl, že o nákladech řízení o zastavení exekuce rozhodne exekutor příkazem k úhradě nákladů exekuce (výrok II.).
+Krajský soud v Ústí nad Labem v záhlaví označeným rozhodnutím usnesení soudu prvního stupně potvrdil, ve výroku I. pak ve správném znění, že se řízení o návrhu povinné na zastavení exekuce, datovaném dne 10. 7. 2015, doručeném soudnímu exekutorovi Mgr. Martinu Tunklovi dne 16. 7. 2015, který byl doplněn podáním datovaným dne 11. 8. 2015 a doručeným soudnímu exekutorovi Mgr. Martinu Tunklovi dne 13. 8. 2015, zastavuje.
+Povinná napadla usnesení odvolacího soudu dovoláním. Nejvyšší soud dovolání projednal a rozhodl o něm podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2013 do 31. 12. 2013 (srov. část první čl. II bod 7 zákona č. 404/2012 Sb. a část první čl. II bod 2 zákona č. 293/2013 Sb.), dále jen „o. s. ř.“.
+Dovolání není přípustné, neboť směřuje proti usnesení odvolacího soudu, jímž bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50 000 Kč [§ 238 odst. 1 písm. d) o. s. ř.] – odvolací soud rozhodoval ve věci zastavení exekuce nařízené k vymožení částky 9 847 Kč [srov. např. usnesení Nejvyššího soudu ze dne 9. 5. 2016, sp. zn. 20 Cdo 776/2016, 20 Cdo 777/2016, 20 Cdo 778/2016, 20 Cdo 779/2016, 20 Cdo 780/2016, 20 Cdo 781/2016, 20 Cdo 782/2016, 20 Cdo 783/2016, 20 Cdo 784/2016 (proti němuž podaná ústavní stížnost byla odmítnuta usnesením Ústavního soudu ze dne 6. 12. 2016, sp. zn. I. ÚS 2406/16), usnesení Nejvyššího soudu ze dne 21. 10. 2015, sp. zn. 26 Cdo 4236/2015, či usnesení Nejvyššího soudu ze dne 31. 10. 2013, sp. zn. 20 Cdo 1977/2013 (proti němuž podaná ústavní stížnost byla odmítnuta usnesením Ústavního soudu ze dne 27. 2. 2014, sp. zn. III. ÚS 346/14)].
+Nejvyšší soud proto dovolání podle § 243c odst. 1 o. s. ř. odmítl, aniž se zabýval splněním podmínky povinného zastoupení dovolatelky podle § 241 o. s. ř. (§ 241b odst. 2 o. s. ř.).
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu [§ 87 a násl. zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění pozdějších předpisů].
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 15. 2. 2017
+JUDr. Miroslava Jirmanová, Ph.D.
+předsedkyně senátu
