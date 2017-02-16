@@ -1,0 +1,19 @@
+30 Cdo 5630/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Pavla Pavlíka a soudců JUDr. Pavla Vrchy a JUDr. Bohumila Dvořáka, Ph.D. LL.M., v právní věci žalobců a) J. V., b) M. V., a c) H. V., proti žalovanému Ing. J. P., o žalobě na obnovu řízení, vedené u Krajského soudu v Brně pod sp. zn. 24 C 76/2009, o dovolání žalovaného proti usnesení Vrchního soudu v Olomouci ze dne 28. dubna 2016, č.j. 1 Co 35/2016-390, takto:
+Dovolací řízení se zastavuje.
+Stručné odůvodnění
+(§ 243f odst. 3 o.s.ř.):
+Žalovaný podal žalobu na obnovu řízení proti rozsudku Krajského soudu v Brně ze dne 26. 11. 2011, č. j. 24 C 76/2009-95, a současně požádal o osvobození od soudních poplatků.
+Krajský soud v Brně (dále též „soud prvního stupně“) usnesením ze dne 8. března 2016, č.j. 24 C 76/2009-374, nepřiznal žalovanému pro řízení o žalobě na obnovu řízení osvobození od soudních poplatků. V odůvodnění uvedl, že žalovaným uvedené a prokázané majetkové poměry by sice byly důvodem pro jeho osvobození od soudních poplatků, ovšem na druhé straně z tvrzení obsažených v jeho žalobě na obnovu řízení a z obsahu spisu lze dovodit, že žalovaným podaná žaloba je zřejmě bezúspěšným uplatňováním práva.
+K odvolání žalovaného Vrchní soud v Olomouci (dále též „odvolací soud“) usnesením ze dne 28. dubna 2016, č.j. 1 Co 35/2016-390, usnesení soudu prvního stupně potvrdil.
+Proti rozhodnutí odvolacího soudu podal žalovaný vlastnoručně sepsané dovolání, ve kterém požádal o ustanovení zástupce z řad advokátů a o osvobození od placení soudních poplatků v plném rozsahu.
+Usnesením ze dne 6. června 2016, č. j. 24 C 76/2009-401, Krajský soud v Brně výrokem I. nepřiznal žalovanému osvobození od soudních poplatků pro řízení o dovolání a výrokem II. zamítl žádost žalovaného o ustanovení zástupce pro dovolací řízení. K odvolání žalovaného Vrchní soud v Olomouci usnesením ze dne 19. července 2016, č. j. 1 Co 62/2016-421, usnesení krajského soudu potvrdil.
+Žalovaný byl vyzván usnesením Krajského soudu v Brně ze dne 16. září 2016, č.j. 24 C 76/2009-441, aby si pro podání dovolání proti usnesení Vrchního soudu v Olomouci ze dne 28. dubna 2016, č.j. 1 Co 35/2016-390, zvolil zástupce advokáta a ve lhůtě 2 měsíců podal jeho prostřednictvím řádné dovolání. V opačném případě Nejvyšší soud dovolací řízení zastaví. Usnesení bylo doručeno žalovanému dne 19. září 2016, avšak dovolatel uvedený nedostatek řízení neodstranil.
+Nejvyšší soud jako soud dovolací (§ 10a o.s.ř.) přihlédl k čl. II bodu 2. zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, a vyšel tak ze znění tohoto procesního předpisu účinného do 31. prosince 2013.
+Podle § 241 odst. 1 věty první o.s.ř., není-li dále stanoveno jinak, musí být dovolatel zastoupen advokátem nebo notářem. Odstavec první citovaného ustanovení neplatí, je-li dovolatel fyzická osoba, která má právnické vzdělání [§ 241 odst. 2 písm. a) o.s.ř.]. Podle odstavce 4 téhož ustanovení dovolání fyzické osoby musí být sepsáno, s výjimkou případu uvedeného v odstavci 2 písm. a), advokátem nebo notářem. Povinné zastoupení je tak zvláštní podmínkou dovolacího řízení týkající se dovolatele, jejíž nedostatek lze odstranit, avšak bez jejíhož splnění není možno vydat rozhodnutí, jímž se řízení končí. Podle § 104 odst. 2 o.s.ř., jde-li o nedostatek podmínky řízení, který lze odstranit, učiní k tomu soud vhodná opatření. Nezdaří-li se nedostatek podmínky řízení odstranit, řízení zastaví.
+Z uvedeného plyne, že přes opatření provedená soudem prvního stupně, dovolatel nesplnil zákonem stanovenou podmínku dovolacího řízení ve smyslu § 241 odst. 1 věty první a odst. 4 o.s.ř. Dovolací soud proto řízení o dovolání zastavil (§ 241b odst. 2 část věty před středníkem a § 104 odst. 2 věta třetí o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 16. února 2017
+JUDr. Pavel Pavlík
+předseda senátu
