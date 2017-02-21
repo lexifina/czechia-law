@@ -1,0 +1,15 @@
+26 Cdo 5207/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu JUDr. Pavlínou Brzobohatou ve věci žalobce J. H., Š., zastoupeného Mgr. Martinem Jančou, advokátem se sídlem v Plzni, Mikulášské náměstí 487/11, proti žalované Osecké zemědělské a obchodní společnosti a. s., se sídlem v Oseku č. p. 400, IČO 25211943, zastoupené Mgr. Ing. Jiřím Johánkem, advokátem se sídlem v Praze 4, Vyskočilova 1326/5, o vyklizení pozemků, vedené u Okresního soudu Plzeň-jih pod sp. zn. 4 C 124/2015, o dovolání žalobce proti rozsudku Krajského soudu v Plzni ze dne 14. června 2016, č. j. 13 Co 135/2016-142, takto:
+I. Dovolání se odmítá.
+II. Žalobce je povinen zaplatit žalované na náhradě nákladů dovolacího řízení částku 3.388 Kč k rukám Mgr. Ing. Jiřího Johánka, advokáta se sídlem v Praze 4, Vyskočilova 1326/5, do tří dnů od právní moci tohoto usnesení.
+O d ů v o d n ě n í :
+Dovolání žalobce proti napadenému rozsudku odvolacího soudu, jímž byl potvrzen rozsudek Okresního soudu Plzeň-jih ze dne 20. 1. 2016, č. j. 4 C 124/2015-122, kterým byla zamítnuta žaloba na vyklizení tam blíže specifikovaných pozemků, Nejvyšší soud podle § 243c odst. 1 (ve spojení s § 243f odst. 3) zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů (dále jen „o. s. ř.“), odmítl, neboť neobsahuje údaj o tom, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237-238a o. s. ř.), jenž je obligatorní náležitostí dovolání (srov. § 241a odst. 2 o. s. ř.) a v dovolacím řízení nelze pro tuto vadu pokračovat.
+Může-li být dovolání přípustné jen podle § 237 o. s. ř. (jako v této věci), je dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné, z dovolání musí být také patrno, které otázky hmotného nebo procesního práva, na nichž napadené rozhodnutí závisí, nebyly v rozhodování dovolacího soudu dosud řešeny (má-li je dovolatel za dosud neřešené), případně, při jejichž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu a od které „ustálené rozhodovací praxe" se řešení této právní otázky odvolacím soudem odchyluje (srovnej např. usnesení Nejvyššího soudu ze dne 25. 9. 2013, sp. zn. 29 Cdo 2394/2013, uveřejněné pod číslem 4/2014 Sbírky soudních rozhodnutí a stanovisek), nebo od kterého svého řešení otázky hmotného nebo procesního práva se má (podle mínění dovolatele) dovolací soud odchýlit postupem podle § 20 zákona č. 6/2002 Sb., o soudech a soudcích (srovnej např. usnesení Nejvyššího soudu ze dne 30. 5. 2013, sp. zn. 29 Cdo 1172/2013, uveřejněné pod číslem 80/2013 Sbírky soudních rozhodnutí a stanovisek).
+Takový údaj se však v dovolání nenachází a ani z celého jeho obsahu nelze zjistit, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+Nesplní-li povinný dobrovolně, co mu ukládá vykonatelné rozhodnutí, může oprávněná podat návrh na exekuci (soudní výkon rozhodnutí).
+V Brně dne 21. února 2017
+JUDr. Pavlína Brzobohatá
+předsedkyně senátu
