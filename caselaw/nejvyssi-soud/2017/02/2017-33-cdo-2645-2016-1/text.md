@@ -1,0 +1,21 @@
+33 Cdo 2645/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Pavlem Krbkem ve věci žalobkyně CZ IZOLACE s.r.o., se sídlem v Ostravě - Staré Bělé, Blanická 834/140 (identifikační číslo 479 73 391), zastoupené JUDr. Markem Steinerem, advokátem se sídlem v Brušperku, Fryčovická 146, proti žalované O2 Czech Republic a.s., se sídlem v Praze 4 - Michli, Za Brumlovkou 266/2 (identifikační číslo 601 93 336), o žalobě proti rozhodnutí Českého telekomunikačního úřadu, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 38 C 126/2013, o dovoláních účastnic proti rozsudku Městského soudu v Praze ze dne 14. 1. 2016, č.j. 22 Co 367/2015-103, takto:
+I. Dovolání žalobkyně se odmítá.
+II. Dovolací řízení se zastavuje.
+III. Žádná z účastnic nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 4 rozsudkem ze dne 5. 8. 2015, č.j. 38 C 126/2013-81, zamítl žalobu, jíž se žalobkyně domáhala nahrazení rozhodnutí Českého telekomunikačního úřadu „ve znění, že žalovaná … je povinna dodávat žalobkyni … služby Euro ISDN 2 pevná linka podle smlouvy z 28. 8. 2001 s dodatky a internet Broadband podle smlouvy z 1. 6. 2003 s pozdějšími dodatky“, a rozhodl o nákladech řízení.
+Rozsudkem ze dne 14. 1. 2016, č.j. 22 Co 367/2015-103, Městský soud v Praze rozhodnutí soudu prvního stupně změnil tak, že „žalovaná je povinna dodávat žalobkyni služby Euro ISDN 2 pevná linka podle smlouvy z 28. 8. 2001“ (tím nahradil rozhodnutí Českého telekomunikačního úřadu ze dne 24. 1. 2012, č.j. ČTU-85924/2011-638/VIII., ve spojení s rozhodnutím předsedy Rady Českého telekomunikačního úřadu ze dne 15. 10. 2012, č.j. ČTU-90919/2012-603), a ve zbylém rozsahu je potvrdil; současně rozhodl o náhradě nákladů odvolacího řízení.
+Rozhodnutí odvolacího soudu napadly dovoláními obě účastnice.
+Nejvyšší soud věc projednal podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013 (srov. čl. II bod 1, 7 zákona č. 404/2012 Sb., čl. II bod 2 zákona č. 293/2013 Sb., dále jen „o.s.ř.“).
+Dovolání žalobkyně proti potvrzujícímu výroku o věci samé neobsahuje způsobilé vymezení toho, v čem spatřuje splnění předpokladů přípustnosti dovolání (§ 241a odst. 2 o.s.ř.); o tuto obligatorní náležitost již dovolání nemůže být doplněno (§ 241b odst. 3, věta první, o.s.ř.) a v dovolacím řízení pro tuto (kvalifikovanou) vadu nelze pokračovat.
+Může-li být dovolání přípustné jen podle § 237 o.s.ř. (jako v této věci), je dovolatel povinen v dovolání vymezit, které z tam taxativně vyjmenovaných hledisek považuje za splněné. Jinak vyjádřeno, z obsahu dovolání musí být patrné, zda jde (má jít) o některý ze čtyř v úvahu přicházejících případů, kdy napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo která je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak (srov. usnesení Nejvyššího soudu ze dne 30. 5. 2013, sp. zn. 29 Cdo 1172/2013, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod č. 80/2013, ze dne 25. 9. 2013, sp. zn. 29 Cdo 2394/2013, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod č. 4/2014, ze dne 27. 8. 2013, sen. zn. 29 NSČR 55/2013, ze dne 15. 10. 2013, sp. zn. 26 Cdo 2326/2013, ze dne 11. 12. 2014, sp. zn. 30 Cdo 4575/2014, a ze dne 27. 5. 2014, sp. zn. 23 Cdo 3166/2013).
+Žalobkyně požadavkům na vymezení předpokladů přípustnosti nedostála (vůbec se jim nevěnovala), přičemž vymezení přípustnosti nelze dovodit ani z celého obsahu dovolání.
+Žalovaná, která napadla rozhodnutí v měnícím výroku o věci samé, podáním ze dne 21. 2. 2017 vzala své dovolání v plném rozsahu zpět.
+Nejvyšší soud proto dovolání žalobkyně odmítl (§ 243c odst. 1, věta první, o.s.ř.) a řízení o dovolání žalované v důsledku jejího dispozitivního úkonu podle § 243c odst. 3, věty druhé, o.s.ř. zastavil.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3, věta druhá, o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 23. února 2017
+JUDr. Pavel Krbek
+předseda senátu
