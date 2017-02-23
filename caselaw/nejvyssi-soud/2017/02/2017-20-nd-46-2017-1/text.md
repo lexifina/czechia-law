@@ -1,0 +1,15 @@
+20 Nd 46/2017
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Zbyňka Poledny a soudců JUDr. Ivany Kudrnové a JUDr. Miroslavy Jirmanové, Ph.D., v exekuční věci oprávněné Všeobecné zdravotní pojišťovny České republiky, se sídlem v Praze 3, Orlická č. 4/2020, identifikační číslo osoby 411 97 518, s adresou pro doručení Všeobecná zdravotní pojišťovna České republiky, Regionální pobočka Brno, pobočka pro Jihomoravský kraj a Kraj Vysočina, se sídlem v Břeclavi, 17. listopadu č. 14, proti povinné G. P., pro 72 281 Kč s příslušenstvím, vedené u Okresního soudu ve Znojmě pod sp. zn. 15 EXE 3286/2016, o určení místní příslušnosti soudu, takto:
+Věc, vedenou u Okresního soudu ve Znojmě pod sp. zn. 15 EXE 3286/2016, projedná a rozhodne Okresní soud ve Znojmě.
+O d ů v o d n ě n í :
+Oprávněná se domáhala nařízení exekuce podle zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění pozdějších předpisů, proti povinné. Návrh na nařízení exekuce byl podán prostřednictvím Exekutorského úřadu v Třebíči u Okresního soudu ve Znojmě.
+Okresní soud ve Znojmě usnesením ze dne 7. července 2015, č. j. 8 EXE 207/2015-27, vyslovil svou místní nepříslušnost k projednání věci a rozhodl, že po uplynutí odvolací lhůty oprávněnému bude věc předložena Nejvyššímu soudu ČR, jenž určí soud, který věc projedná a rozhodne. Z výpisu technologického centra MV ČR a z potvrzení Centrální evidence obyvatelstva zjistil, že povinná se narodila ve Z. a trvalý pobyt měla naposledy evidovaný do 8. 10. 2007 do 18. 1. 2008 ve Z. Dále evidencí neprochází, neboť od 18. 1. 2008 ukončila pobyt občana České republiky. Zda a kde má povinná majetek na území České republiky soud nezkoumal. Soudu není známo, kde se v současné době zdržuje.
+Okresní soudu ve Znojmě předložil věc Nejvyššímu soudu ČR, aby ve smyslu ustanovení § 11 odst. 3 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2014 (srov. článek II, bod 1. přechodných ustanovení zákona č. 139/2015 a článek II., bod 1. přechodných ustanovení zákona č. 164/2015 Sb.) – dále jen „o. s. ř.“, určil místně příslušný soud, který ve věci rozhodne.
+Podle ustanovení § 11 odst. 1 o. s. ř. se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení.
+Podle ustanovení § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Nejvyšší soud České republiky po předložení věci Okresním soudem ve Znojmě (§ 105 odst. 2 o. s. ř.) podle ustanovení § 11 odst. 3 o. s. ř., přihlížeje k zásadě hospodárnosti, k údaji o místě narození povinné a o jejím posledním trvalém bydlišti určil, že věc projedná a rozhodne Okresní soud ve Znojmě.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 23. února 2017
+JUDr. Zbyněk Poledna
+předseda senátu
