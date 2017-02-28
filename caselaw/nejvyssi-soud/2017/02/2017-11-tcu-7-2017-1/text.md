@@ -1,0 +1,16 @@
+11 Tcu 7/2017-29
+U S N E S E N Í
+Nejvyšší soud projednal dne 28. 2. 2017 v neveřejném zasedání návrh Ministerstva spravedlnosti České republiky na přijetí rozhodnutí ve věci občana České republiky J. L., podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, a rozhodl takto:
+Podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů, se na odsouzení J. L. rozsudkem Obvodního soudu Mnichov ze dne 10. 4. 2013, sp. zn. 1112 Ls 251 Js 194549/12, kterým byl uznán vinným ze spáchání trestného činu zvlášť závažné krádeže podle § 242, § 243 odst. 1 věta 2, č. 1, odst. 1 věta 2, č. 3, § 267, § 25, § 52, § 53 německého tr. zákoníku, za který mu byl uložen úhrnný trest odnětí svobody v trvání 2 (dvou) let a 2 (dvou) měsíců, hledí jako na odsouzení soudem České republiky.
+Odůvodnění:
+1. Rozsudkem Obvodního soudu Mnichov ze dne 10. 4. 2013, sp. zn. 1112 Ls 251 Js 194549/12, který nabyl právní moci 18. 4. 2013, byl J. L. uznán vinným ze spáchání trestného činu zvlášť závažné krádeže a následně odsouzen k úhrnnému trestu odnětí svobody v trvání 2 (dvou) let a 2 (dvou) měsíců.
+2. Podle skutkových zjištění je J. L. vinen tím, že: společně se S. C. v období od 2. 10. do 5. 10. 2012 odcizili v sedmi věcně souvisejících případech, ve vědomé a zamýšlené součinnosti, z vozidel a také z jednoho vnitřního dvora, různé movité věci, jejichž hodnota dosáhla výše 3.070 EUR, s úmyslem jejich následného prodeje, aby si tak obstarali nikoli zanedbatelný zdroj příjmů.
+3. Ministerstvo spravedlnosti České republiky podalo dopisem pod sp. zn. MSP-737/2013-MOT-T/20 ze dne 9. 2. 2017 Nejvyššímu soudu návrh na přijetí rozhodnutí podle § 4a odst. 3 zákona č. 269/1994 Sb., o Rejstříku trestů, ve znění pozdějších předpisů. Tento návrh byl doručen Nejvyššímu soudu dne 13. 2. 2017.
+4. Podle § 4a odst. 3 tohoto zákona může Nejvyšší soud na návrh Ministerstva spravedlnosti České republiky rozhodnout, že se na odsouzení občana České republiky soudem jiného členského státu Evropské unie hledí jako na odsouzení soudem České republiky, jestliže se týká činu, který je trestný i podle právního řádu České republiky a je-li to odůvodněno závažností činu a druhem trestu, který za něj byl uložen.
+5. Nejvyšší soud věc přezkoumal a shledal, že odsouzený J. L. je občanem České republiky, který byl odsouzen soudem jiného členského státu EU a odsouzení se týká skutků, které vykazují znaky trestného činu i podle právních předpisů České republiky (trestný čin krádeže podle § 205 tr. zákoníku).
+6. Závažnost trestné činnosti spočívá v tom, že obviněný společně se spolupachatelkou v rozmezí pouhých čtyř dní odcizil movité věci v celkové výši 3.070 EUR (což při kurzu 27 Kč za 1 Euro odpovídá částce 82.890 Kč), a to proto, aby si obstarali dostatečné množství peněz na svou obživu. S tím koresponduje druh i výměra uloženého trestu odnětí svobody, který je zcela ve shodě s českou právní úpravou.
+7. Protože jsou splněny všechny podmínky pro to, aby se na výše uvedené odsouzení J. L. hledělo jako na odsouzení soudem České republiky, Nejvyšší soud návrhu Ministerstva spravedlnosti České republiky vyhověl.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 28. 2. 2017
+JUDr. Stanislav Rizman
+předseda senátu
