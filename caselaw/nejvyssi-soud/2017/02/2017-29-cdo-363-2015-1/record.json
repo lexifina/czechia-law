@@ -1,0 +1,30 @@
+{
+  "record_type": "case-law",
+  "court": "Nejvyšší soud České republiky",
+  "date": "2017-02-28",
+  "date_basis": "Official NS database (Rozhodnutí a stanoviska Nejvyššího soudu): Datum rozhodnutí 28. 2. 2017 (decision date).",
+  "ecli": "ECLI:CZ:NS:2017:29.CDO.363.2015.1",
+  "docket": "29 Cdo 363/2015",
+  "decision_type": "Rozsudek",
+  "source": "https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/WebSearch/DC6BFCF35386AD89C125812100312359?openDocument",
+  "source_sha256": "ce8a639d25a32a4cb408592cfc9c971c24f56fd8c51211284f20c59443574dfb",
+  "source_unid": "DC6BFCF35386AD89C125812100312359",
+  "text_status": "as-published (pseudonymised by the court)",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "fields": {
+    "Právní věta": "Osobou, která ve smyslu § 237 odst. 1 insolvenčního zákona měla prospěch z dlužníkova neúčinného právního úkonu, je i osoba (věřitel), které dlužník ve smyslu § 332 odst. 1 obch. zák. splnil dluh (jako „třetí osoba“) za jejího dlužníka.",
+    "Soud": "Nejvyšší soud",
+    "Datum rozhodnutí": "28. 2. 2017",
+    "Spisová značka": "29 Cdo 363/2015",
+    "ECLI": "ECLI:CZ:NS:2017:29.CDO.363.2015.1",
+    "Typ rozhodnutí": "ROZSUDEK",
+    "Heslo": "Odporovatelnost\nInsolvence\nIncidenční spory",
+    "Dotčené předpisy": "§ 237 odst. 1 IZ.\n§ 239 odst. 1 IZ.\n§ 240 IZ.\n§ 332 odst. 1 obch. zák.\n§ 454 obč. zák.",
+    "Kategorie rozhodnutí": "A",
+    "Zveřejněno na webu": "15. 5. 2017",
+    "Publikováno ve sbírce pod číslem": "93 / 2018",
+    "Anotace": "Nejvyšší soud se ve svém rozhodnutí musel vypořádat se situací, kdy dlužník bez přiměřeného protiplnění poskytl plnění věřiteli třetí osoby a značným způsobem tak zasáhl do rozsahu majetkové podstaty. Nejvyšší soud tak musel s ohledem na argumentaci dovolatele vyřešit otázku, zda se lze za daných skutkových okolností s úspěchem domáhat navrácení převedeného majetkového substrátu do majetkové podstaty dlužníka v důsledku neúčinnosti uvedeného jednání vůči třetí osobě, či nikoli."
+  }
+}
