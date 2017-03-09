@@ -1,0 +1,16 @@
+32 Nd 34/2017
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Miroslava Galluse a soudců JUDr. Marka Doležala a JUDr. Hany Gajdziokové v právní věci žalobkyně Mgr. Bc. K. R., podnikatelky se sídlem v Mělníku, Kpt. Jaroše 317/24, identifikační číslo osoby 71471961, zastoupené Mgr. Ing. Pavlem Švecem, advokátem se sídlem v Praze 10, Průběžná 1826/63, proti žalovanému R. H., o zaplacení částky 110 045,50 Kč s příslušenstvím, vedené u Okresního soudu v Trutnově pod sp. zn. 30 C 90/2016, o určení místní příslušnosti soudu, takto:
+Věc vedenou u Okresního soudu v Trutnově pod sp. zn. 30 C 90/2016 projedná a rozhodne Okresní soud v Trutnově.
+O d ů v o d n ě n í :
+Žalobou podanou u Okresního soudu v Trutnově dne 4. 2. 2016 se žalobkyně domáhá na žalovaném zaplacení částky 110 045,50 Kč s příslušenstvím jako bezdůvodného obohacení, které na ní žalovaný podvodně vylákal coby zálohu na dodávku a montáž venkovních rolet a plastových oken na rekonstrukci domu v části obce M, když uvedl žalobkyni v omyl sdělením, že jedná za společnost ROLL & STYL, s. r. o.
+Okresní soud v Trutnově usnesením ze dne 29. 8. 2016, č. j. 30 C 90/2016-13, vyslovil svou místní nepříslušnost a po právní moci usnesení předložil věc Nejvyššímu soudu k určení, který soud věc projedná a rozhodne.
+Podle § 11 odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“) řízení se koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne (srov. i usnesení velkého senátu občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne 12. 11. 2014, sp. zn. 31 Nd 316/2013, uveřejněné pod číslem 11/2015 Sbírky soudních rozhodnutí a stanovisek).
+Podle § 85 odst. 1 o. s. ř. nestanoví-li zákon jinak, je obecným soudem fyzické osoby okresní soud, v jehož obvodu má bydliště, a nemá-li bydliště, okresní soud, v jehož obvodu se zdržuje. Má-li fyzická osoba bydliště na více místech, jsou jejím obecným soudem všechny okresní soudy, v jejichž obvodu bydlí s úmyslem zdržovat se tam trvale.
+Z obsahu spisu vyplývá, že žalovanému dne 18. 7. 2009 zanikl přechodný pobyt občana Evropské unie na území Č. r s nahlášenou adresou v H., S 3045/9. Na adrese uvedené v žalobě, tj. ve D. K. n. L., se žalovaný již cca šest let nezdržuje. V současné době žije u rodičů ve S. r., na území Č. r. nemá povolen žádný pobyt a o žádný pobytový status ani nežádá.
+S přihlédnutím k zásadě hospodárnosti řízení vyjádřené v § 6 o. s. ř. (srov. usnesení velkého senátu občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne 12. 9. 2012, sp. zn. 31 Nd 200/2012, uveřejněné pod číslem 4/2013 Sbírky soudních rozhodnutí a stanovisek) určil Nejvyšší soud podle § 11 odst. 3 o. s. ř. místně příslušným pro projednání a rozhodnutí výše označené věci Okresní soud v Trutnově, u kterého bylo řízení zahájeno a v jehož obvodu měl žalovaný poslední známé bydliště.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 9. března 2017
+JUDr. Miroslav G a l l u s
+předseda senátu
