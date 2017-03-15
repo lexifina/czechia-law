@@ -1,0 +1,16 @@
+30 Cdo 467/2017
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Františkem Ištvánkem ve věci žalobce F. F., proti žalované České republice – Ministerstvu vnitra, se sídlem v Praze 7, Nad Štolou 936/3, o zaplacení částky 50 000 000 Kč, vedené u Okresního soudu v Karviné pod sp. zn. 18 C 143/2015, o dovolání žalobce proti usnesení Krajského soudu v Ostravě ze dne 27. 4. 2016, č. j. 57 Co 177/2016 - 82, takto:
+I. Řízení o dovolání žalobce se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Okresní soud v Karviné usnesením ze dne 11. 11. 2015, č. j. 18 C 143/2015-68, zastavil řízení o žádosti žalobce o ustanovení zástupce z řad advokátů, a to z důvodu překážky věci rozsouzené, jelikož o téže žádosti žalobce bylo rozhodováno naposledy usnesením dotčeného soudu ze dne 14. 7. 2015, č. j. 18 C 143/2015 – 52, aniž by se změnily majetkové poměry žalobce. Podání žalobce hodnotil soud jako bezúspěšné uplatňování práva.
+K odvolání žalobce bylo uvedené usnesení potvrzeno v záhlaví specifikovaným usnesením odvolacího soudu, proti kterému podal žalobce dovolání, aniž splnil podmínku povinného zastoupení podle § 241 o. s. ř.
+Nejvyšší soud proto žalobce usnesením ze dne 21. 2. 2017, č. j. 30 Cdo 467/2017- 88, vyzval, aby si ve lhůtě do 15 dnů od doručení usnesení zvolil advokáta a jeho prostřednictvím předložil řádné dovolání. Zároveň poučil žalobce o důsledcích nesplnění výzvy. Žalobce na výzvu nereagoval.
+Dovolací soud při zvážení podání dovolatele ve světle usnesení Nejvyššího soudu ze dne 8. 4. 2015, sp. zn. 31 NSČR 9/2015, dospěl k závěru, že dovolateli zástupce pro dovolací řízení neustanoví, jelikož se jedná o zřejmě bezúspěšné uplatňování práva ve smyslu ustálené judikatury Nejvyššího soudu. Účastník řízení zřejmě bezúspěšně uplatňuje právo zpravidla tehdy, je-li již ze samotných údajů účastníkem tvrzených nebo z toho, co je soudu známo z obsahu spisu nebo z jiné úřední činnosti nebo co je obecně známé, bez dalšího nepochybné, že jeho požadavku nemůže být vyhověno. O zřejmě bezúspěšné uplatňování opravného prostředku se pak jedná mimo jiné tehdy, jestliže s přihlédnutím ke všemu, co je soudu známo, je bez dalšího nepochybné, že opravný prostředek nemůže být úspěšný. Je-li již ze samotných tvrzení žalobce zřejmé, že jím podané žalobě nemůže být vyhověno, jde o zřejmě bezúspěšné uplatňování práva též v odvolacím a v dovolacím řízení, aniž by bylo významné, co je vlastním předmětem přezkumu odvolacího nebo dovolacího soudu. Uvedený závěr vyplývá již ze samotné povahy věci; je-li bez dalšího nepochybné, že samotné žalobě nemůže být vyhověno, pak ani v dovolacím řízení (v nemeritorních otázkách) se nejedná o řádně uplatněné právo žalobce (srov. např. usnesení Nejvyššího soudu ze dne 26. 2. 2014, sp. zn. 21 Cdo 987/2013, publikované ve Sbírce soudních rozhodnutí a stanovisek pod číslem 67/2014).
+Jelikož dovolatel nesplnil podmínku povinného zastoupení v dovolacím řízení (§ 241 o. s. ř.), dovolací soud řízení podle ustanovení § 241b odst. 2 a § 104 odst. 2 o. s. ř. zastavil.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 15. 3. 2017
+JUDr. František Ištvánek
+předseda senátu
