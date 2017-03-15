@@ -1,0 +1,11 @@
+7 Tdo 1514/2016-I-126
+U S N E S E N Í
+V řízení o dovolání obviněných v trestní věci F. K., DiS., a spol., vedené u Nejvyššího soudu pod sp. zn. 7 Tdo 1514/2016, proti usnesení Krajského soudu v Brně ze dne 9. 6. 2016, sp. zn. 8 To 221/2016, v trestní věci vedené u Okresního soudu v Blansku pod sp. zn. 14 T 30/2015, rozhodl dne 15. března 2017 předseda senátu Nejvyššího soudu podle § 265o odst. 1 tr. ř. před rozhodnutím o dovolání takto:
+Až do rozhodnutí o dovolání se obviněnému F. K., DiS., přerušuje výkon trestu odnětí svobody, který mu byl v trvání čtyř let uložen rozsudkem Okresního soudu v Blansku ze dne 14. 1. 2016, sp. zn. 14 T 30/2015, ve spojení s usnesením Krajského soudu v Brně ze dne 9. 6. 2016, sp. zn. 8 To 221/2016.
+O d ů v o d n ě n í :
+Rozsudkem Okresního soudu v Blansku ze dne 14. 1. 2016, sp. zn. 14 T 30/2015, ve spojení s usnesením Krajského soudu v Brně ze dne 9. 6. 2016, sp. zn. 8 To 221/2016, byl obviněný F. K., DiS., uznán vinným trestnými činy přijetí úplatku podle § 331 odst. 1, odst. 3 písm. b) tr. zákoníku, zneužívání pravomoci úřední osoby podle § 329 odst. 1 písm. a), c) tr. zákoníku, a pojistného podvodu podle § 210 odst. 1 písm. c) tr. zákoníku. Za to byl odsouzen k úhrnnému nepodmíněnému trestu odnětí svobody v trvání 4 roků, se zařazením pro jeho výkon do věznice s dozorem, k peněžitému trestu ve výměře 40 000 Kč, s náhradním trestem odnětí svobody v trvání 6 měsíců a k trestu zákazu činnosti (výkonu funkce odpovědného úředníka územní samosprávy, státní správy nebo jiného orgánu veřejné moci) na dobu 4 let.
+Proti výše uvedenému usnesení krajského soudu, týkajícího se celkem čtyř obviněných, podal obviněný F. K., DiS., (také další tři obvinění) dovolání, z jehož obsahu vyplývají skutečnosti, na základě kterých nelze vyloučit, že dovolání tohoto obviněného může být po projednání senátem Nejvyššího soudu shledáno důvodným. Protože výkonem uloženého trestu odnětí svobody by v takovém případě mohlo dojít k následku, který by jen těžko bylo možno odčinit, rozhodl předseda senátu Nejvyššího soudu podle § 265o odst. 1 tr. ř. tak, jak je uvedeno ve výroku tohoto usnesení.
+P o u č e n í : Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 15. března 2017
+JUDr. Michal Mikláš
+předseda senátu
