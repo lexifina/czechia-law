@@ -1,0 +1,14 @@
+21 Cdo 155/2017
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Zdeňka Novotného a soudců JUDr. Jiřího Doležílka a JUDr. Mojmíra Putny v právní věci žalobce J. M., zastoupeného JUDr. Janou Toušovou, Ph.D., advokátkou se sídlem v Klatovech, Randova č. 204, proti žalované proHeq (CZ) s.r.o., se sídlem v Domažlicích, U Pískovny č. 308, IČO 264 10 826, zastoupené Mgr. Jiřinou Endrštovou, advokátkou se sídlem v Rakovníku, Poštovní č. 18, o náhradu škody ve výši 67.206,- Kč, vedené u Okresního soudu v Domažlicích pod sp. zn. 5 C 121/2014, o dovolání žalobce proti rozsudku Krajského soudu v Plzni ze dne 31. srpna 2016 č.j. 61 Co 206/2016-173, takto:
+I. Dovolání žalobce se odmítá.
+II. Žalobce je povinen zaplatit žalované na náhradě nákladů dovolacího řízení 5.578,10 Kč do tří dnů od právní moci tohoto usnesení k rukám Mgr. Jiřiny Endrštové, advokátky se sídlem v Rakovníku, Poštovní č. 18.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalobce proti rozsudku Krajského soudu v Plzni ze dne 31.8.2016 č.j. 61 Co 206/2016-173 není přípustné podle ustanovení § 237 o.s.ř., neboť rozhodnutí odvolacího soudu je v souladu s ustálenou rozhodovací praxí dovolacího soudu (k otázce vypracování revizního znaleckého posudku za situace, kdy žalobce nebyl se znaleckým závěrem srozuměn a kdy odvolací soud neměl pochybnosti o správnosti již vypracovaného znaleckého posudku (srov. například rozsudek Nejvyššího soudu ze dne 24.4.2012 sp. zn. 21 Cdo 4562/2010, rozsudek Nejvyššího soudu ze dne 31.8.2012 sp. zn. 21 Cdo 2824/2011) a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+V části dovolání žalobce uplatnil jiný dovolací důvod, než který je uveden v ustanovení § 241a odst. 1 o.s.ř. [zpochybňuje-li skutková zjištění, která byla pro právní posouzení věci odvolacím soudem rozhodující a na nichž spočívá závěr odvolacího soudu, že není dána příčinná souvislost mezi škodou vzniklou žalobci a pracovním úrazem žalobce, dovolatel polemizuje s tím, ke kterým znaleckým závěrům odvolací soud při posuzování vztahu příčiny a následku přihlížel a zakládá tak jiné závěry o skutkovém stavu věci a na nich buduje odlišný právní názor na věc (tvrdí, že „dokazování v daném řízení nebylo provedeno dostatečným způsobem“ a že „nový znalecký posudek ve věci měl být zpracován a soudem spravedlivě ve věci rozhodnuto mohlo být až teprve dle jeho závěrů“); nezpochybňuje tak právní posouzení věci odvolacím soudem, ale skutková zjištění, která byla pro právní posouzení věci odvolacím soudem rozhodující], a proto dovolání trpí vadami, pro které nelze v dovolacím řízení pokračovat.
+Nejvyšší soud České republiky proto dovolání žalobce podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 16. března 2017
+JUDr. Zdeněk Novotný
+předseda senátu
