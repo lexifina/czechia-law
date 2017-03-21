@@ -1,0 +1,16 @@
+8 Tdo 281/2017-28
+U S N E S E N Í
+Nejvyšší soud rozhodl dne 21. 3. 2017 předsedkyní senátu v řízení o dovolání obviněného M. L. proti rozsudku Krajského soudu v Ostravě – pobočky v Olomouci ze dne 2. 5. 2016, sp. zn. 55 To 102/2016, jako odvolacího soudu v trestní věci vedené u Okresního soudu v Šumperku pod sp. zn. 2 T 222/2015, takto:
+Podle § 265g odst. 2 tr. ř. předsedkyně senátu Nejvyššího soudu bere na vědomí zpětvzetí dovolání obviněného M. L.
+Odůvodnění:
+Rozsudkem Okresního soudu v Šumperku ze dne 9. 3. 2016, sp. zn. 2 T 222/2015, byl obviněný M. L. uznán vinným pokusem přečinu ublížení na zdraví podle § 21 odst. 1 tr. zákoníku, § 146 odst. 1 tr. zákoníku, ve spolupachatelství podle § 23 tr. zákoníku, přečinem porušování domovní svobody podle § 178 odst. 1, 2 tr. zákoníku, ve spolupachatelství podle § 23 tr. zákoníku, přečinem nebezpečného vyhrožování podle § 353 odst. 1 tr. zákoníku, ve spolupachatelství podle § 23 tr. zákoníku, zločinem týrání svěřené osoby podle § 198 odst. 1, odst. 2 písm. d) tr. zákoníku a zločinem vydírání podle § 175 odst. 1, odst. 2 písm. e) tr. zákoníku, za což byl podle § 198 odst. 2 tr. zákoníku, § 43 odst. 1 tr. zákoníku odsouzen k úhrnnému trestu odnětí svobody v trvání pěti let, pro jehož výkon byl podle § 56 odst. 2 písm. c) tr. zákoníku zařazen do věznice s ostrahou. V dalším bylo rozhodnuto o vině a trestu spoluobviněného M. R. a o nároku poškozených na náhradu škody (§ 228 odst. 1, § 229 odst. 1 tr. ř.).
+Obviněný M. L. napadl rozsudek soudu prvního stupně odvoláním směřujícím proti výroku o vině i všem na něj navazujícím výrokům. Rozsudkem Krajského soudu v Ostravě – pobočky v Olomouci ze dne 2. 5. 2016, sp. zn. 55 To 102/2016, byl z podnětu odvolání obviněného podle § 258 odst. 1 písm. b), e), odst. 2 tr. ř. rozsudek Okresního soudu v Šumperku ze dne 9. 3. 2016, sp. zn. 2 T 222/2015, zrušen v celém výroku o trestu vysloveném ohledně jmenovaného obviněného a za splnění podmínek § 259 odst. 3 tr. ř. byl tento obviněný při nezměněném výroku o vině nově odsouzen podle § 175 odst. 2 tr. zákoníku, § 43 odst. 1 tr. zákoníku k úhrnnému trestu odnětí svobody v trvání čtyř let a šesti měsíců, pro jehož výkon byl podle § 56 odst. 2 písm. c) tr. zákoníku zařazen do věznice s ostrahou. Jinak zůstal rozsudek soudu prvního stupně nezměněn.
+Proti označenému rozsudku odvolacího soudu obviněný podal v zákonné lhůtě prostřednictvím obhájkyně dovolání, v němž odkázal na důvod uvedený v § 265b odst. 1 písm. g) tr. ř.
+Nejvyššímu soudu byla věc k rozhodnutí o dovolání předložena dne 2. 3. 2017.
+Ještě před tím, než Nejvyšší soud o podaném dovolání rozhodl, obviněný M. L. elektronickým podáním doručeným Nejvyššímu soudu dne 14. 3. 2017 vzal své dovolání výslovně zpět.
+Podle § 265g odst. 2 věta první tr. ř. zpětvzetí dovolání vezme, není-li překážek, usnesením na vědomí předseda senátu Nejvyššího soudu, a nebyla-li věc dosud tomuto soudu předložena, předseda senátu soudu prvního stupně.
+Protože věc již byla Nejvyššímu soudu předložena, vzala předsedkyně senátu zpětvzetí dovolání obviněného na vědomí, neboť neshledala překážek, které by takovému postupu bránily.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 21. 3. 2017
+JUDr. Věra Kůrková
+předsedkyně senátu
