@@ -1,0 +1,15 @@
+26 Cdo 5521/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Pavlíny Brzobohaté a soudců JUDr. Jitky Dýškové a JUDr. Miroslava Feráka v právní věci žalobců a) Ing. M. B., b) doc. Ing. J. T., CSc., c) Ing. P. P., zastoupených JUDr. Jiřím Bönischem, advokátem se sídlem v Brně, Ječná 1321/29a, proti žalovanému " F ", družstvo, se sídlem v Brně, Filipova 762/9, IČO 25327721, zastoupenému JUDr. Borisem Vágnerem, advokátem se sídlem v Brně, třída Kpt. Jaroše 1936/19, o povinnosti uzavřít kupní smlouvu, vedené u Městského soudu v Brně pod sp. zn. 42 C 19/98, o dovolání žalobců proti rozsudku Krajského soudu v Brně ze dne 28. dubna 2016, č. j. 26 Co 586/2006-474, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Žalobci napadli dovoláním rozsudek Krajského soudu v Brně (odvolací soud) ze dne 28. 4. 2016, č. j. 26 Co 586/2006-474 (jednalo se o čtvrté rozhodnutí odvolacího soudu ve věci, poslední předcházející rozsudky zrušil Ústavní soud nálezem ze dne 9. 12. 2010, sp. zn. IV. ÚS 2600/09 a ze dne 1. 9. 2015, sp. zn. II. ÚS 2108/14), kterým potvrdil výrok rozsudku Městského soudu v Brně (soud prvního stupně) ze dne 25. 5. 2006, č. j. 42 C 19/98-250, jímž zamítl návrh žalobců na nahrazení projevu vůle žalovaného uzavřít tam specifikovanou kupní smlouvu, a změnil výrok o náhradě nákladů řízení tak, že žádný z účastníků nemá právo na náhradu nákladů řízení před soudy všech stupňů.
+Dovolání není podle ustanovení § 237 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2013, dále jen „o. s. ř.“ (čl. II bod 2 zákona č. 293/2013 Sb.), přípustné, neboť závěr odvolacího soudu, že soud musí při rozhodování po zrušení svého předchozího rozhodnutí Ústavním soudem respektovat rozhodnutí Ústavního soudu v dané věci, vyplývá z čl. 89 odst. 2 Ústavy České republiky a je i v souladu s ustálenou judikaturou Nejvyššího a Ústavního soudu (srovnej např. rozsudek Nejvyššího soudu ze dne 28. 8. 2006, sp. zn. 22 Cdo 2205/2005, nález Ústavního soudu ze dne 13. 11. 2007, sp. zn. IV. ÚS 301/05), a není důvod, aby rozhodná právní otázka vymezená v dovolání byla posouzena jinak.
+Námitkami, jimiž dovolatelé zpochybnili správnost skutkových zjištění a hodnocení provedeného dokazování soudem, navíc zpochybňují právní posouzení věci odvolacím (a Ústavním) soudem prostřednictvím skutkových námitek a uplatňují tak jiný dovolací důvod, než který je uveden v § 241a odst. 1 o. s. ř. Z obsahu spisu je pak zřejmé, že odvolací soud při vydání napadeného rozsudku vycházel ze stejného skutkového stavu jako Ústavní soud ve svém posledním rozhodnutí (nález sp. zn. II. ÚS 2108/14).
+Nejvyšší soud České republiky proto dovolání podle ustanovení § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto rozhodnutí není opravný prostředek přípustný.
+V Brně dne 23. března 2017
+JUDr. Pavlína Brzobohatá
+předsedkyně senátu
