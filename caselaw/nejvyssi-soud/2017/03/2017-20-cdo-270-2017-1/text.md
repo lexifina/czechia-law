@@ -1,0 +1,15 @@
+20 Cdo 270/2017
+U S N E S E N Í
+Nejvyšší soud rozhodl rozhodl v senátě složeném z předsedy JUDr. Vladimíra Kůrky a soudců JUDr. Miroslavy Jirmanové, PhD., a JUDr. Zbyňka Poledny, v exekuční věci oprávněné Tessile ditta services, a. s., sídlem Vinohrady 794/45, Štýřice, 639 00 Brno, identifikační číslo osoby 28329082, právně zastoupené Mgr. Petrem Olejárem, advokátem, sídlem Vinohrady 794/45, Štýřice, 639 00 Brno, s adresou pro doručování Táboritská 23/1000, 130 00 Praha 3, proti povinné I. V., právně zastoupené JUDr. Irenou Strakovou, advokátkou, sídlem Karlovo náměstí 287/18, Nové Město, 120 00 Praha 2, pro 968,- Kč s příslušenstvím, vedené u soudního exekutora JUDr. Juraje Podkonického, Ph.D., Exekutorský úřad Praha 5, pod sp. zn. 067 EX 22688/12, o dovolání povinné proti usnesení Městského soudu v Praze ze dne 31. 8. 2016, č. j. 22 Co 64/2016-155, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í (stručné dle § 243f odst. 3 o. s. ř.) :
+Městský soud v Praze potvrdil napadeným rozhodnutím usnesení Obvodního soudu pro Prahu 2 ze dne 13. 1. 2016, č. j. 53 EXE 372/2012-131, který zastavil řízení o návrhu povinné na zastavení exekuce, jejímž provedením byl na základě usnesení Obvodního soudu pro Prahu 2 ze dne 21. 3. 2012, č. j. 53 EXE 372/2012-15, pověřen soudní exekutor JUDr. Juraj Podkonický, Ph.D., Exekutorský úřad Praha 5, neboť stejně odůvodněný návrh povinné na zastavení exekuce byl již dříve pravomocně zamítnut, a projednání tak brání překážka věci rozsouzené.
+Povinná napadla usnesení odvolacího soudu dovoláním. Nejvyšší soud dovolání projednal a rozhodl o něm podle zákona č. 99/1963 Sb., občanský soudní řád, ve znění zákona č. 404/2012 Sb. (čl. II. bod 1, a contr. bod 7., čl. II bod 2 zákona č. 293/2013 Sb.), dále jen „o. s. ř.“, jestliže rozhodnutí odvolacího soudu bylo vydáno dne 31. 8. 2016.
+Dovolání není přípustné, neboť směřuje proti usnesení odvolacího soudu, jímž bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50 000 Kč [§ 238 odst. 1 písm. d) o. s. ř.], jestliže odvolací soud rozhodoval ve věci zastavení exekuce nařízené k vymožení pohledávky ve výši 968,- Kč s příslušenstvím (srov. usnesení Nejvyššího soudu ze dne 21. 10. 2015, sp. zn. 26 Cdo 4236/2015, či usnesení Nejvyššího soudu ze dne 31. 10. 2013, sp. zn. 20 Cdo 1977/2013, proti němuž podaná ústavní stížnost byla odmítnuta usnesením Ústavního soudu ze dne 27. 2. 2014, sp. zn. III. ÚS 346/14).
+Nad tento rozhodný rámec stojí zato poznamenat, že projednání dovolání neumožňují ani vady formální, neboť nesplňuje obligatorní náležitosti uvedené v ustanovení § 241a odst. 2 o. s. ř., jestliže – mimo jiné, zde však zvláště – neobsahuje údaj o tom, v čem dovolatelka spatřuje splnění předpokladů přípustnosti dovolání podle ustanovení § 237 o. s. ř.
+Nejvyšší soud proto dovolání podle ustanovení § 243c odst. 1 o. s. ř. odmítl, a to jen se stručným odůvodněním podle ustanovení § 243f odst. 3 o. s. ř.
+O náhradě nákladů dovolacího řízení se rozhoduje ve zvláštním režimu (§ 87 a násl. exekučního řádu).
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 23. března 2017
+JUDr. Vladimír Kůrka
+předseda senátu
