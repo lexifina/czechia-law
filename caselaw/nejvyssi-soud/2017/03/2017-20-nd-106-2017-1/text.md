@@ -1,0 +1,14 @@
+20 Nd 106/2017
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy JUDr. Vladimíra Kůrky a soudců JUDr. Miroslavy Jirmanové, Ph.D. a JUDr. Zbyňka Poledny v právní věci oprávněné Československá obchodní banka, a. s., se sídlem v Praze, Radlická 333/150, identifikační číslo osoby 00001350, zastoupené Mgr. Jiřím Žákem, advokátem se sídlem v Praze, Národní 60/28, proti povinnému Ing. V. M., pro 4 401,14 Kč s příslušenstvím, o určení místní příslušnosti, takto:
+Věc vedenou u Okresního soudu v Ostravě pod sp. zn. 48 EXE 13896/2016, projedná a rozhodne Obvodní soud pro Prahu 9.
+O d ů v o d n ě n í :
+Okresní soud v Ostravě usnesením ze dne 15. 2. 2017, č. j. 48 EXE 13896/2016-46, vyslovil svoji místní nepříslušnost k pověření soudního exekutora Mgr. Ondřeje Svobody, Exekutorský úřad Praha 9, k provedení exekuce k vymožení pohledávky povinného ve výši 4 401,14 Kč s příslušenstvím podle exekučního titulu představovaného rozsudkem Okresního soudu v Ostravě ze dne 5. 9. 2011, č. j. 130 EC 302/2010-36, ve spojení s rozsudkem Krajského soudu v Ostravě ze dne 29. 9. 2014, č. j. 15 Co 380/2014-77. Jelikož se šetřením nepodařilo zjistit místo pobytu povinného, případně existenci majetku na území České republiky, maje na zřeteli ustanovení § 11 odst. 3 o. s. ř. věc předložil Nejvyššímu soudu.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Podle ustanovení § 105 odst. 2 o. s. ř. vysloví-li soud, že není příslušný, postoupí věc po právní moci tohoto usnesení příslušnému soudu nebo ji za podmínek § 11 odst. 3 předloží Nejvyššímu soudu.
+Nejvyšší soud v usnesení velkého senátu občanskoprávního a obchodního kolegia ze dne 12. listopadu 2014, sp. zn. 31 Nd 316/2013, uveřejněném pod číslem 11/2015 Sbírky soudních rozhodnutí a stanovisek, vyložil a odůvodnil právní názor, že je-li Nejvyšší soud žádán o určení místně příslušného soudu podle ustanovení § 11 odst. 3 o. s. ř. na základě pravomocného rozhodnutí, jímž soud prvního stupně vyslovil svou místní nepříslušnost a rozhodl o postoupení věci Nejvyššímu soudu za účelem určení místně příslušného soudu, Nejvyšší soud určí místně příslušný soud, aniž zkoumá (aniž je oprávněn zkoumat), zda je dána pravomoc českých soudů k projednání a rozhodnutí věci. Ustanovení § 105 odst. 2 o. s. ř. totiž předpokládá, že se otázkou pravomoci českých soudů dostatečně a s kladným závěrem zabýval předkládající soud (srov. výše citované usnesení sp. zn. 31 Nd 316/2013).
+Nejvyšší soud České republiky rozhodl podle ustanovení § 11 odst. 3 o. s. ř., přihlížeje k zásadě hospodárnosti, tak, že věc projedná a rozhodne Obvodní soud pro Prahu 9, v jehož obvodu se nachází sídlo soudního exekutora.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 23. března 2017
+JUDr. Vladimír Kůrka
+předseda senátu
