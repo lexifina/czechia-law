@@ -1,0 +1,14 @@
+30 Cdo 4090/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Pavlem Vrchou, JUDr. Pavlem Pavlíkem a Mgr. Vítem Bičákem v právní věci žalobce T. C., zastoupeného JUDr. Sylvou Skočkovou, advokátkou se sídlem v Praze 1, Nové Město, Olivova 2096/4, proti žalované H. S., zastoupené JUDr. Klárou Mottlovou, advokátkou se sídlem v Praze 9, Freyova 27, o určení vlastnického práva k nemovitostem, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 16 C 163/2011, o přistoupení E. H. S., a J. H., na stranu žalovanou, o dovolání žalobce proti usnesení Městského soudu v Praze ze dne 18. března 2016, č. j. 58 Co 74/2016-352, takto:
+I. Dovolání žalobce se odmítá.
+II. Ve vztahu mezi žalobcem a E. H. S. a J. H. nemá žádný z účastníků právo na náhradu nákladů dovolacího řízení.
+S t r u č n é o d ů v o d n ě n í
+(§ 243f odst. 3 o. s. ř.):
+Nejvyšší soud České republiky (dále již „Nejvyšší soud“ nebo „dovolací soud“) jako soud dovolací (§ 10a o. s. ř.) konstatuje, že dovolání žalobce (dále též „dovolatel“) proti v záhlaví označenému usnesení Městského soudu v Praze (dále již „odvolací soud“), kterým bylo změněno usnesení Obvodního soudu pro Prahu 1 ze dne 20. května 2015, č. j. 16 C 163/2011-258, tak, že se „zamítá návrh žalobce, aby do řízení na straně žalované vstoupili E. H. S., a J. H., t. č. Věznice Plzeň, Klatovská 202“, a ve vztahu mezi žalobcem a E. H. a J. H. bylo rozhodnuto o náhradě nákladů řízení před soudy obou stupňů, není ve smyslu § 237 o. s. ř. přípustné. Je tomu tak z toho důvodu, že rozhodnutí odvolacího soudu jednak vychází ze skutkových zjištění, které v dovolacím řízení nelze nijak revidovat (přičemž dovolatel i v otázce skutkového závěru polemizuje s odvolacím soudem, uplatňuje svá zjištění, z nichž posléze právně argumentuje v oponentuře k rozhodnutí odvolacího soudu), především však úsudek odvolacího soudu o (ne)hospodárnosti řízení (v případě připuštění předmětného přistoupení dalších účastníků na straně žalované) je založen i na zjištění týkající se existence prohlášeného konkursu na majetek J. H. a vyhodnocení právního důsledku, jenž by nastal v případě, že by se jmenovaný stal účastníkem tohoto řízení (přerušení řízení v důsledku prohlášeného konkursu), přičemž proti této části právního posouzení dovolatel v podaném dovolání nijak nebrojí.
+Za této procesní situace proto Nejvyšší soud dovolání žalobce podle § 243c odst. 1 o. s. ř. pro jeho nepřípustnost odmítl.
+Nákladový výrok (ve vztahu mezi uvedenými účastníky ve výroku II.) netřeba odůvodňovat (§ 243f odst. 3 o. s. ř.); jinak soud v novém rozhodnutí o věci rozhodne nejen o náhradě nákladů nového řízení, ale znovu i o nákladech původního řízení (§ 243g odst. 1 o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 23. března 2017
+JUDr. Pavel Vrcha
+předseda senátu
