@@ -1,0 +1,14 @@
+26 Cdo 5703/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu JUDr. Pavlínou Brzobohatou ve věci žalobce Stavebního bytového družstva SIGMA, se sídlem v Olomouci, Černá cesta 138/6, IČO 00495069, proti žalované J. B., O., zastoupené Mgr. Jaroslavem Šrámkem, advokátem se sídlem v Olomouci, Riegrova 373/6, o 6.144,10 Kč s příslušenstvím, vedené u Okresního soudu v Olomouci pod sp. zn. 26 C 320/2008, o dovolání žalované proti usnesení Krajského soudu v Ostravě – pobočky v Olomouci ze dne 27. listopadu 2015, č. j. 12 Co 413/2015-501, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Dovolání žalované proti usnesení Krajského soudu v Ostravě – pobočky v Olomouci ze dne 27. 11. 2015, č. j. 12 Co 413/2015-501, jímž potvrdil usnesení Okresního soudu v Olomouci ze dne 31. 7. 2015, č. j. 26 C 320/2008-468, kterým žalované nepřiznal osvobození od soudních poplatků a zamítl její žádost o ustanovení zástupce z řad advokátů, Nejvyšší soud podle § 243c odst. 1 (ve spojení s § 243f odst. 3) zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném do 31. 12. 2013, dále jen „o. s. ř.“ (čl. II bod 2 zákona č. 293/2013 Sb.), odmítl, neboť neobsahuje údaj o tom, v čem dovolatel spatřuje splnění předpokladů přípustnosti dovolání (§ 237-238a o. s. ř.), jenž je obligatorní náležitostí dovolání (srov. § 241a odst. 2 o. s. ř.), a v dovolacím řízení nelze pro tuto vadu pokračovat.
+Může-li být dovolání přípustné jen podle § 237 o. s. ř. (jako v této věci), je dovolatel povinen v dovolání vymezit, které z tam uvedených hledisek považuje za splněné, z dovolání musí být také patrno, které otázky hmotného nebo procesního práva, na nichž napadené rozhodnutí závisí, nebyly v rozhodování dovolacího soudu dosud řešeny (má-li je dovolatel za dosud neřešené), případně, při jejichž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu a od které „ustálené rozhodovací praxe" se řešení této právní otázky odvolacím soudem odchyluje (srovnej např. usnesení Nejvyššího soudu ze dne 25. 9. 2013, sp. zn. 29 Cdo 2394/2013, uveřejněné pod číslem 4/2014 Sbírky soudních rozhodnutí a stanovisek), nebo od kterého svého řešení otázky hmotného nebo procesního práva se má (podle mínění dovolatele) dovolací soud odchýlit postupem podle § 20 zákona č. 6/2002 Sb., o soudech a soudcích (srovnej např. usnesení Nejvyššího soudu ze dne 30. 5. 2013, sp. zn. 29 Cdo 1172/2013, uveřejněné pod číslem 80/2013 Sbírky soudních rozhodnutí a stanovisek).
+Takový údaj se však v dovolání nenachází a ani z celého jeho obsahu nelze zjistit, v čem dovolatelka spatřuje splnění předpokladů přípustnosti dovolání.
+Výrok o nákladech dovolacího řízení se neodůvodňuje (§ 243f odst. 3 o. s. ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 23. března 2017
+JUDr. Pavlína Brzobohatá
+předsedkyně senátu
