@@ -1,0 +1,22 @@
+33 Cdo 3820/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Krbka a soudkyň JUDr. Blanky Moudré a JUDr. Ivany Zlatohlávkové ve věci žalobce K. Q., zastoupeného Mgr. Janem Vlkem, advokátem se sídlem v Praze 2, Římská 104/14, proti žalované H. E., zastoupené JUDr. Michalem Filipem, advokátem se sídlem v Praze 5, Arbesovo náměstí 257/7, o 2.794.636,- Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 4 pod sp. zn. 60 C 311/2014, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 18. 3. 2016, č.j. 14 Co 29/2016-245, takto:
+I. Dovolání se odmítá.
+II. Žalobce je povinen zaplatit žalované na náhradě nákladů dovolacího řízení 23.958 Kč do tří dnů od právní moci usnesení k rukám JUDr. Michala Filipa, advokáta.
+O d ů v o d n ě n í
+V záhlaví označeným rozhodnutím městský soud změnil rozsudek Obvodního soudu pro Prahu 4 ze dne 16. 10. 2015, č.j. 60 C 311/2014-190, tak, že žalobu, kterou se žalobce po žalované domáhal zaplacení 2.794.636 Kč s příslušenstvím, zamítl, a rozhodl o nákladech řízení před soudy obou stupňů. Odvolací soud zopakoval dokazování emailovou korespondencí účastníků (jinak vyšel ze skutkového stavu zjištěného soudem prvního stupně) a dospěl k závěru, že účastníci uzavřeli ústní formou darovací smlouvu, jejímž předmětem byla zažalovaná peněžní částka určená ke koupi bytu pro žalovanou (§ 628 odst. 1 zákona č. 40/1964 Sb., občanského zákoníku, ve znění účinném do 31. 12. 2013, viz § 3028 zákona č. 89/2012 Sb., dále jen „obč. zák.“). Žalobce poskytl žalované předmětnou peněžní částku, aniž by přitom dal jakkoli najevo úmysl požadovat ji zpět, a žalovaná peníze za těchto stejných okolností přijala.
+Dovolání, kterým rozhodnutí odvolacího soudu napadl žalobce, není přípustné.
+Nejvyšší soud věc projednal podle zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném od 1. 1. 2014 (srov. čl. II bod 2 zákona č. 293/2013 Sb., dále jen „o.s.ř.“).
+Není-li stanoveno jinak, je dovolání přípustné proti každému rozhodnutí odvolacího soudu, kterým se odvolací řízení končí, jestliže napadené rozhodnutí závisí na vyřešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu nebo která v rozhodování dovolacího soudu dosud nebyla vyřešena nebo je dovolacím soudem rozhodována rozdílně anebo má-li být dovolacím soudem vyřešená právní otázka posouzena jinak (§ 237 o.s.ř.).
+Podle § 241a odst. 1 o.s.ř. lze dovolání podat pouze z důvodu, že rozhodnutí odvolacího soudu spočívá na nesprávném právním posouzení věci.
+Přípustnost dovolání je oprávněn zkoumat jen dovolací soud (srov. § 239 o.s.ř.).
+Namítá-li žalobce, že rozhodnutí soudu prvního stupně je nepřezkoumatelné, z čehož dovozuje nesprávný procesní postup odvolacího soudu, spočívající v doplnění dokazování emailovou korespondencí účastníků, vytýká tím vady řízení, které mohly mít za následek nesprávné rozhodnutí ve věci. K takovým vadám však – pokud by jimi bylo řízení skutečně postiženo – dovolací soud přihlíží pouze v případě, jedná-li se o dovolání přípustné (§ 242 odst. 3, věta druhá, o.s.ř.); protože tento předpoklad v dané věci splněn není, dovolací soud se touto argumentací nezabýval.
+Právního posouzení věci se netýkají ani obsáhlé námitky proti hodnocení listinných důkazů (emailové korespondence) a z něho vyvozených skutkových závěrů odvolacím soudem. Uplatněním způsobilého dovolacího důvodu ve smyslu § 241a odst. 1 o.s.ř. není zpochybnění právního posouzení věci, vychází-li z jiného skutkového stavu, než z jakého vyšel při posouzení věci odvolací soud. Dovolací soud je vázán skutkovým stavem zjištěným odvolacím soudem a jeho správnost (úplnost), jakož i samotné hodnocení důkazů opírající se o zásadu volného hodnocení důkazů zakotvenou v § 132 o.s.ř., nelze úspěšně napadnout žádným dovolacím důvodem.
+Žalobce sice výslovně napadl rozhodnutí odvolacího soudu v celém rozsahu, ve vztahu k nákladovým výrokům však žádnou argumentaci nevznesl.
+Nepředložil-li dovolatel k řešení žádnou otázku hmotného nebo procesního práva, jež by zakládala přípustnost dovolání ve smyslu § 237 o.s.ř., Nejvyšší soud je odmítl (§ 243c odst. 1 o.s.ř.).
+Výrok o náhradě nákladů dovolacího řízení se nezdůvodňuje (§ 243f odst. 3 o.s.ř.).
+Proti tomuto usnesení není přípustný opravný prostředek.
+Nesplní-li žalobce dobrovolně, co mu ukládá vykonatelné rozhodnutí, může žalovaná podat návrh na soudní výkon rozhodnutí (exekuci).
+V Brně dne 23. 3. 2017
+JUDr. Pavel Krbek
+předseda senátu
