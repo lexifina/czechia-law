@@ -1,0 +1,17 @@
+29 Cdo 5802/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Petra Šuka a soudců JUDr. Filipa Cilečka a JUDr. Jiřího Zavázala v právní věci žalobce S W STEEL s. r. o., se sídlem v Praze 5, Na Cihlářce 8, PSČ 150 00, identifikační číslo osoby 25089013, zastoupeného JUDr. Václavem Mikolášem, advokátem, se sídlem v Českých Budějovicích, Dukelská 669/64, PSČ 370 01, proti žalovanému AKNEL Group a. s., se sídlem v Plané nad Lužnicí, Strkovská 1, PSČ 391 11, identifikační číslo osoby 26093260, zastoupenému Mgr. Michalem Šimků, advokátem, se sídlem v Praze 1, Šítkova 233/1, PSČ 110 00, o zaplacení 141.743 Kč s příslušenstvím, vedené u Okresního soudu v Táboře pod sp. zn. 24 C 507/2012, o dovolání žalovaného proti usnesení Krajského soudu v Českých Budějovicích – pobočky v Táboře ze dne 24. června 2016, č. j. 15 Co 333/2016-306, takto:
+Dovolání se odmítá.
+O d ů v o d n ě n í:
+Usnesením ze dne 11. května 2016, č. j. 24 C 507/2012-296, Okresní soud v Táboře ustanovil Mgr. Martina Šípa, advokáta, opatrovníkem žalobce pro toto řízení.
+V záhlaví označeným usnesením Krajský soud v Českých Budějovicích – pobočka v Táboře k odvolání žalobce usnesení soudu prvního stupně změnil tak, že se opatrovník pro toto řízení žalobci nejmenuje.
+Proti usnesení odvolacího soudu podal žalovaný dovolání.
+Zkoumání, zda je dovolání objektivně přípustné, předchází – ve smyslu § 243c odst. 3 a § 218 písm. b) zákona č. 99/1963 Sb., občanského soudního řádu (dále též jen „o. s. ř.“) − posuzování tzv. subjektivní přípustnosti dovolání.
+Je tomu tak proto, že k podání dovolání je oprávněn pouze ten účastník, v jehož poměrech nastala rozhodnutím odvolacího soudu újma (jakkoli nepatrná) odstranitelná tím, že dovolací soud toto rozhodnutí zruší (srov. např. usnesení Nejvyššího soudu ze dne 29. července 1999, sp. zn. 20 Cdo 1760/98, ze dne 21. srpna 2003, sp. zn. 29 Cdo 2290/2000, uveřejněné pod číslem 38/2004 Sbírky soudních rozhodnutí a stanovisek, ze dne 30. června 2004, sp. zn. 29 Odo 198/2003 či ze dne 25. března 2014, sp. zn. 29 Cdo 3508/2013, uveřejněné pod číslem 95/2014 Sbírky soudních rozhodnutí a stanovisek; označená rozhodnutí jsou veřejnosti dostupná – stejně jako ostatní dále citovaná rozhodnutí − na webových stránkách Nejvyššího soudu.
+Napadeným rozhodnutím, jímž odvolací soud změnil usnesení soudu prvního stupně o ustanovení opatrovníka žalobci, nebylo rozhodnuto o právech či povinnostech dovolatele. Dovolání je tudíž podané neoprávněnou osobou. Nejvyšší soud je proto podle § 243c odst. 3 věty první a § 218 písm. b) o. s. ř. odmítl (k tomu srov. např. rozsudek Nejvyššího soudu ze dne 23. srpna 2001, sp. zn. 20 Cdo 2850/99, uveřejněný pod číslem 10/2003 Sbírky soudních rozhodnutí a stanovisek či usnesení Nejvyššího soudu ze dne 26. října 2015, sp. zn. 29 Cdo 2227/2015).
+O náhradě nákladů dovolacího řízení Nejvyšší soud nerozhodoval, když rozhodnutí Nejvyššího soudu není rozhodnutím, kterým se řízení končí, a řízení nebylo již dříve skončeno (srov. např. usnesení Nejvyššího soudu ze dne 23. července 2002, sp. zn. 20 Cdo 970/2001, uveřejněné pod číslem 48/2003 Sbírky soudních rozhodnutí a stanovisek).
+Rozhodné znění občanského soudního řádu pro dovolací řízení (do 31. prosince 2013) se podává z článku II bodu 2 zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a některé další zákony.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 29. března 2017
+JUDr. Petr Š u k
+předseda senátu
