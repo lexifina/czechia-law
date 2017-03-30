@@ -1,0 +1,17 @@
+33 Nd 40/2017
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Václava Dudy a soudců JUDr. Pavla Krbka a JUDr. Blanky Moudré, ve věci oprávněné Všeobecné zdravotní pojišťovny České republiky, se sídlem v Praze 3, Orlická 4/2020, identifikační číslo 41197518, proti povinnému P. T., o pověření a nařízení exekuce, vedené u Okresního soudu Praha-západ pod sp. zn. 207 EXE 5269/2016, o určení místní příslušnosti podle § 11 odst. 3 občanského soudního řádu, takto:
+Věc vedenou u Okresního soudu Praha-západ pod sp. zn. 207 EXE 5269/2016, projedná a rozhodne Okresní soud Praha-západ.
+O d ů v o d n ě n í :
+Soudní exekutor Mgr. Kamil Brančík, Exekutorský úřad Hodonín, se sídlem v Hodoníně, Sadová 3887/15, požádal dne 12. 12. 2016 Okresní soud Praha-západ o pověření k provedení exekuce na majetek povinného pro vymožení pohledávky oprávněné ve výši 11.846,- Kč s příslušenstvím.
+Usnesením ze dne 27. 12. 2016, č. j. 207 EXE 5269/2016-13, Okresní soud Praha-západ vyslovil svoji místní nepříslušnost a rozhodl, že „po uplynutí odvolací lhůty oprávněného bude věc předložena Nejvyššímu soudu k určení, který soud věc projedná a rozhodne“. Dospěl totiž k závěru, že místní příslušnost soudu nelze určit, neboť povinný, nemá povolen žádný druh pobytu na území České republiky a soudu není znám ani majetek povinného umístěný v jeho obvodu.
+Podle § 11 odst. 3 o. s. ř., který se použije i pro exekuční řízení (§ 52 odst. 1 zákona č. 120/2000 Sb., exekuční řád, ve znění pozdějších předpisů, dále „exekuční řád“), jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+V předmětné věci je vedeno řízení o návrhu na nařízení exekuce k uspokojení pohledávky oprávněné ve výši 11.846,- Kč s příslušenstvím. Exekučním titulem je výkaz nedoplatků ze dne 3. 8. 2016, č. 8141600753, vykonatelný dnem 8. 8. 2016, jímž byla povinnému uložena povinnost zaplatit oprávněné 11.846,- Kč s příslušenstvím.
+Podle § 11 odst. 1 o. s. ř. se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení.
+Podle § 45 odst. 2 zákona č. 120/2001 Sb., exekučního řádu, místně příslušným exekučním soudem je soud, v jehož obvodu má povinný, je-li fyzickou osobou, místo svého trvalého pobytu, popřípadě místo pobytu na území České republiky podle druhu pobytu cizince. Nemá-li povinný, který je fyzickou osobou, v České republice místo trvalého pobytu nebo místo pobytu podle věty první, pak je, ve spojení s § 252 odst. 2 o. s. ř., místně příslušným soud, v jehož obvodu má povinný majetek.
+Nejvyšší soud již v usnesení ze dne 12. 9. 2012, sp. zn. 31 Nd 200/2012, publikovaném ve Sbírce soudních rozhodnutí a stanovisek pod č. 4/2013, vyložil, že skutečnost, zda povinný má exekučně postižitelný majetek na území České republiky, který by mohl být po nařízení exekuce soudním exekutorem zajištěn a zpeněžen, vyjde najevo až činností soudem pověřeného soudního exekutora v rámci provádění exekuce. Exekuční soud proto před nařízením exekuce a pověřením exekutora jejím provedením nezjišťuje existenci majetku povinného.
+Nejvyšší soud, přihlížeje k zásadě hospodárnosti, rozhodl tak, že věc projedná a rozhodne soud, v jehož obvodu měl povinný poslední známé bydliště.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 30. března 2017
+JUDr. Václav Duda
+předseda senátu
