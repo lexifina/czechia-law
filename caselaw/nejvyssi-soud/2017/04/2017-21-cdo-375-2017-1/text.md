@@ -1,0 +1,13 @@
+21 Cdo 375/2017
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Zdeňka Novotného a soudců JUDr. Mojmíra Putny a JUDr. Jiřího Doležílka v právní věci žalobce Ing. J. Z., zastoupeného JUDr. Patrikem Matyáškem, Ph.D., advokátem se sídlem v Brně, Údolní č. 567/33, proti žalované E.ON Česká republika, s.r.o., se sídlem v Českých Budějovicích, F. A. Gerstnera č. 2151/6, IČO 257 33 591, zastoupené JUDr. Jaroslavem Brožem, advokátem se sídlem v Brně, Marie Steyskalové č. 767/62, o určení neplatnosti dohody o rozvázání pracovního poměru, vedené u Okresního soudu v Českých Budějovicích pod sp. zn. 23 C 333/2006, o dovolání žalobce proti rozsudku Krajského soudu v Českých Budějovicích ze dne 27. září 2016 č.j. 19 Co 865/2016-1036, takto:
+I. Dovolání žalobce se odmítá.
+II. Žalobce je povinen zaplatit žalované na náhradě nákladů dovolacího řízení 3.388 Kč do tří dnů od právní moci tohoto usnesení k rukám JUDr. Jaroslava Brože, advokáta se sídlem v Brně, Marie Steyskalové č. 767/62.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Dovolání žalobce proti rozsudku Krajského soudu v Českých Budějovicích ze dne 27.9.2016 č.j. 19 Co 865/2016-1036 není podle ustanovení § 237 o.s.ř. přípustné, neboť jednak neobsahuje způsobilé vymezení předpokladů přípustnosti dovolání ve smyslu ustanovení § 241a odst. 2 o. s. ř. (srov. například usnesení Nejvyššího soudu ze dne 25. 9. 2013 sp. zn. 29 Cdo 2394/2013, které bylo uveřejněno pod č. 4 ve Sbírce soudních rozhodnutí a stanovisek, roč. 2014, a z něhož vyplývá, že má-li být dovolání přípustné podle ustanovení § 237 o. s. ř. proto, že napadené rozhodnutí závisí na řešení otázky hmotného nebo procesního práva, při jejímž řešení se odvolací soud odchýlil od ustálené rozhodovací praxe dovolacího soudu, musí být z obsahu dovolání patrno, o kterou otázku hmotného nebo procesního práva jde a – jak dovolatel jen paušálně namítá - od které „ustálené rozhodovací praxe“ se řešení této právní otázky odvolacím soudem odchyluje), a jednak je rozhodnutí odvolacího soudu ve vztahu k doplnění znalecké doložky v souladu s ustálenou rozhodovací praxí dovolacího soudu (k otázce obsahu znaleckého posudku a povahy znalecké doložky srov. usnesení Nejvyššího soudu ze dne 19.8.2014 sp. zn. 21 Cdo 2939/2013) a není důvod, aby rozhodná právní otázka byla posouzena jinak.
+Nejvyšší soud České republiky proto dovolání žalobce podle ustanovení § 243c odst. 1 věty první o.s.ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 13. dubna 2017
+JUDr. Zdeněk Novotný
+předseda senátu
