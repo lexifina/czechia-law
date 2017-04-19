@@ -1,0 +1,15 @@
+26 Cdo 6060/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedkyní senátu JUDr. Jitkou Dýškovou ve věci žalobkyně A. J., proti žalované A. H., zastoupené Mgr. Jiřím Trnkou, advokátem se sídlem v Praze 2, Jugoslávská 620/29, o určení neplatnosti zvýšení nájemného, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 60 C 30/2008, o dovolání žalované proti rozsudku Městského soudu v Praze ze dne 9. dubna 2014, č. j. 55 Co 49/2013, 55 Co 138/2014-295, takto:
+I. Řízení o dovolání žalované se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Stručné odůvodnění (§ 243f odst. 3 o. s. ř.):
+Žalovaná nezastoupena advokátem podala včasné dovolání proti rozsudku Městského soudu v Praze ze dne 9. 4. 2014, č. j. 55 Co 49/2013, 55 Co 138/2014-295.
+Usnesením Obvodního soudu pro Prahu 1 ze dne 18. 12. 2015, č. j. 60 C 30/2008-333, bylo žalované přiznáno osvobození od soudních poplatků (výrok I.) a byl jí ustanoven zástupcem advokát Mgr. Jiří Trnka (výrok II.). Toto usnesení ve výroku II. nabylo právní moci dnem 20. 1. 2016. Dále bylo žalované usnesením Obvodního soudu pro Prahu 1 ze dne 10. 10. 2016, č. j. 60 C 30/2008-341, uloženo, aby ve lhůtě 20 dnů ode dne doručení tohoto usnesení doplnila své dovolání ze dne 23. 7. 2014 o zákonné náležitosti.
+Požadavku na tzv. povinné (nucené) zastoupení dovolatele při podání dovolání vyhoví – jak vyplývá z ustanovení § 241 odst. 4 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013 (viz čl. II bod 2. zákona č. 293/2013 Sb.), dále jen „o. s. ř.“ – dovolatel nejen tím, že má zástupcem advokáta nebo, jde-li o věci uvedené v ustanovení § 3 zákona č. 358/1992 Sb. ve znění pozdějších předpisů, notáře, ale teprve tehdy, bude-li dovolání advokátem nebo notářem také sepsáno. Je tedy třeba, aby zástupce dovolatele (advokát nebo notář) buď sám sepsal dovolání, nebo, podal-li dovolatel dovolání již dříve sám, již učiněné podání nahradil nebo doplnil vlastním dovoláním, popřípadě alespoň písemně nebo ústně do protokolu sdělil, že se s již učiněným podáním ztotožňuje (srov. například usnesení Nejvyššího soudu ze dne 22. 10. 2008, sp. zn. 21 Cdo 4110/2007, uveřejněné pod č. 80 v časopise Soudní judikatura, roč. 2009).
+I když žalované byl v projednávané věci ustanoven pro dovolací řízení zástupce z řad advokátů, zástupce žalované – advokát Mgr. Jiří Trnka – do současné doby sám dovolání proti usnesení odvolacího soudu nesepsal, žalovanou dříve podané dovolání nenahradil (nedoplnil) svým podáním, a ani nesdělil, že by se s již učiněným dovoláním ztotožnil. Proto Nejvyšší soud České republiky řízení o dovolání žalované – aniž by se mohl zabývat dalšími okolnostmi – podle ustanovení § 241b odst. 2 a § 104 odst. 2 věty třetí o. s. ř. zastavil.
+Bylo-li dovolací řízení zastaveno, nemusí být rozhodnutí o náhradě nákladů dovolacího řízení odůvodněno (srov. § 243f odst. 3 větu druhou o. s. ř.).
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 19. dubna 2017
+JUDr. Jitka Dýšková
+předsedkyně senátu
