@@ -1,0 +1,15 @@
+29 Nd 417/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy Mgr. Milana Poláška a soudců JUDr. Zdeňka Krčmáře a JUDr. Jiřího Zavázala v exekuční věci oprávněného Stavební spořitelny České spořitelny, a. s., se sídlem v Praze 3, Vinohradská 180/1632, PSČ 130 11, identifikační číslo osoby 60197609, zastoupeného Mgr. Markem Lošanem, advokátem, se sídlem v Praze 1, Na Florenci 2116/15, PSČ 110 00, proti povinnému T. B., o pověření a nařízení exekuce, vedené u Okresního soudu v Kroměříži pod sp. zn. 32 EXE 1595/2016, o určení místní příslušnosti, takto:
+Věc vedenou u Okresního soudu v Kroměříži pod sp. zn. 32 EXE 1595/2016 projedná a rozhodne Okresní soud v Kroměříži.
+O d ů v o d n ě n í :
+Návrhem ze dne 20. září 2016, podaným u soudního exekutora JUDr. Milana Suchánka, Exekutorský úřad Praha 9, se oprávněný domáhá provedení exekuce vůči povinnému pro pohledávku ve výši 146 873,10 Kč s příslušenstvím. Dne 24. října 2016 požádal označený exekutor Okresní soud v Kroměříži (dále jen „exekuční soud“) o pověření a nařízení exekuce na majetek povinného.
+Usnesením ze dne 31. října 2016, č. j. 32 EXE 1595/2016-16, vyslovil exekuční soud svou místní nepříslušnost a rozhodl, že věc bude předložena Nejvyššímu soudu k určení, který soud věc projedná a rozhodne.
+Podle § 11 odst. 3 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů (dále jen „o. s. ř.“), jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Příslušnost exekučního soudu upravuje § 45 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekučního řádu). Z § 45 odst. 2 exekučního řádu vyplývá, že místně příslušným exekučním soudem je okresní soud, v jehož obvodu má povinný, je-li fyzickou osobou, místo svého trvalého pobytu, popřípadě místo pobytu na území České republiky podle druhu pobytu cizince. Nemá-li povinný v České republice místo trvalého pobytu nebo místo pobytu podle věty první, je místně příslušným soud, v jehož obvodu má povinný majetek.
+Podle výsledků šetření exekučního soudu má povinný od 5. května 2010 ukončen trvalý pobyt na oprávněným uváděné adrese K., V. n., v nalézacím řízení mu byl z důvodu neznámého pobytu ustanoven opatrovník z řad advokátů a dosud nebyl zjištěn žádný majetek povinného.
+Nejvyšší soud proto v souladu s usnesením velkého senátu občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne 12. listopadu 2014, sp. zn. 31 Nd 316/2013, uveřejněným pod číslem 11/2015 Sbírky soudních rozhodnutí a stanovisek, vycházeje z obsahu spisu a přihlížeje k zásadě hospodárnosti řízení, rozhodl podle § 11 odst. 3 o. s. ř. tak, že jako místně příslušný soud v dané věci určil Okresní soud v Kroměříži, u kterého bylo řízení zahájeno a v jehož obvodu se (podle exekučního titulu i podle výpisu z Centrální evidence obyvatel) nacházela poslední známá adresa bydliště povinného.
+Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 24. dubna 2017
+Mgr. Milan P o l á š e k
+předseda senátu
