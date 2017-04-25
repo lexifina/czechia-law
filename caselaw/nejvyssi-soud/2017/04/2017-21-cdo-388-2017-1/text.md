@@ -1,0 +1,12 @@
+21 Cdo 388/2017
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl předsedou senátu JUDr. Jiřím Doležílkem v právní věci žalobce R. P., o žalobě pro zmatečnost podané žalobcem proti usnesení Okresního soudu v Šumperku ze dne 1. listopadu 2013 č. j. 14 C 26/2013-29, vedené u Okresního soudu v Šumperku pod sp. zn. 8 C 205/2013, o dovolání žalobce proti usnesení Krajského soudu v Ostravě – pobočky v Olomouci ze dne 30. srpna 2016 č. j. 12 Co 243/2016-55, takto:
+Dovolací řízení se zastavuje.
+S t r u č n é o d ů v o d n ě n í (§ 243f odst. 3 o. s. ř.):
+Žalobce podal dovolání proti usnesení Krajského soudu v Ostravě – pobočky v Olomouci ze dne 30. 8. 2016 č. j. 12 Co 243/2016-55. Podáním dovolání mu vznikla povinnost zaplatit soudní poplatek za dovolání [srov. § 4 odst. 1 písm. c) zákona č. 549/1991 Sb., o soudních poplatcích, ve znění pozdějších předpisů], který činí podle položky č. 23 odst. 2 Sazebníku soudních poplatků 2 000 Kč.
+Protože dovolatel, u něhož nejsou splněny předpoklady pro osvobození od soudních poplatků podle ustanovení § 138 odst. 1 o. s. ř., neboť u něj jde o zřejmě bezúspěšné uplatňování práva [žalobce žalobou pro zmatečnost napadá usnesení Okresního soudu v Šumperku ze dne 1. 11. 2013 č. j. 14 C 26/2013-29, jímž soud vyloučil žalobu pro zmatečnost „směřující do usnesení Okresního soudu v Šumperku ze dne 4. 10. 2013 č. j. 14 C 26/2013-19“ k samostatnému řízení, které není ani rozhodnutím, jímž bylo řízení skončeno, ani rozhodnutím, kterým bylo rozhodnuto ve věci samé, a ani rozhodnutím odvolacího soudu, a které proto nelze napadnout žalobou pro zmatečnost (srov. ustanovení § 229 zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů účinném do 31. 12. 2013)], dosud nezaplatil soudní poplatek za dovolání ani poté, co k tomu byl vyzván usnesením Nejvyššího soudu ze dne 15. 2. 2017 č. j. 21 Cdo 388/2017-60 a usnesením Nejvyššího soudu ze dne 15. 3. 2017 č. j. 21 Cdo 388/2017-65, Nejvyšší soud České republiky řízení o dovolání žalobce proti usnesení Krajského soudu v Ostravě – pobočky v Olomouci ze dne 30. 8. 2016 č. j. 12 Co 243/2016-55 podle ustanovení § 9 odst. 1 zákona č. 549/1991 Sb., o soudních poplatcích, ve znění pozdějších předpisů, zastavil.
+Vzhledem k tomu, že tímto rozhodnutím dovolacího soudu se řízení o věci nekončí, bude rozhodnuto i o náhradě nákladů vzniklých v tomto dovolacím řízení v konečném rozhodnutí soudu prvního stupně, popřípadě soudu odvolacího.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 25. dubna 2017
+JUDr. Jiří Doležílek
+předseda senátu
