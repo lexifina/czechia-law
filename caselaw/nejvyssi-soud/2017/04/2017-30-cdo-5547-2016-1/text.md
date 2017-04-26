@@ -1,0 +1,19 @@
+30 Cdo 5547/2016
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátu složeném z předsedy JUDr. Pavla Pavlíka a soudců JUDr. Pavla Vrchy a JUDr. Bohumila Dvořáka, Ph.D., LL.M., v právní věci žalobce N. C., zastoupeného JUDr. Richardem Pechou, advokátem se sídlem v Praze 1, Voršilská 10, proti žalovanému J. J., zastoupenému JUDr. Jaroslavem Večeřou, advokátem se sídlem v Praze 1, Opletalova 25, o zaplacení 50 000 Kč, vedené u Městského soudu v Praze pod sp. zn. 31 C 68/2011, o dovolání žalobce proti rozsudku Vrchního soudu v Praze ze dne 7. června 2016, č. j. 3 Co 118/2014-216, t a k t o :
+I. Dovolání žalobce se odmítá.
+II. Žalobce je povinen do tří dnů od právní moci tohoto rozhodnutí zaplatit na náhradu nákladů dovolacího řízení žalovanému částku 4.114,- Kč k rukám JUDr. Jaroslava Večeři, advokáta se sídlem v Praze 1, Na Poříčí 1079/3a.
+Stručné odůvodnění
+(§ 243f odst. 3 o.s.ř.):
+Městský soud v Praze (dále též „soud prvního stupně“) rozsudkem ze dne 20. března 2014, č. j. 31 C 68/2011-187, zamítl žalobu, aby žalovaný zaplatil žalobci jako licenční odměnu částku 50 000 Kč, a rozhodl o náhradě nákladů řízení.
+K odvolání žalobce Vrchní soud v Praze (dále též „odvolací soud“) rozsudkem ze dne 7. června 2016, č. j. 3 Co 118/2014-216, rozsudek soudu prvního stupně potvrdil a rozhodl o náhradě nákladů odvolacího řízení.
+Proti rozsudku odvolacího soudu podal žalobce dovolání. Navrhl, aby dovolací soud v celém rozsahu rozsudek Vrchního soudu v Praze zrušil a věc vrátil soudu prvního stupně k dalšímu řízení.
+K dovolání se vyjádřil žalovaný a navrhl zamítnutí dovolání.
+Nejvyšší soud jako soud dovolací (§ 10a o.s.ř.) přihlédl k čl. II bodu 2. zákona č. 293/2013 Sb., kterým se mění zákon č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů, a další související zákony, a vyšel tak ze znění tohoto procesního předpisu účinného od 1. ledna 2014.
+Z ustanovení § 238 odst. 1 písm. c) o.s.ř. vyplývá, že proti rozsudkům a usnesením, v nichž dovoláním napadeným výrokem bylo rozhodnuto o peněžitém plnění nepřevyšujícím 50 000 Kč, není dovolání podle § 237 o.s.ř. přípustné, ledaže jde o vztahy ze spotřebitelských smluv a o pracovněprávní vztahy; k příslušenství pohledávky se přitom nepřihlíží.
+Z vyložených důvodů proto Nejvyšší soud dovolání žalobce proti rozsudku Vrchního soudu v Praze podle ustanovení § 243c odst. 1 věty první o.s.ř. pro nepřípustnost odmítl.
+Výrok o náhradě nákladů dovolacího řízení je odůvodněn ustanovením § 243c odst. 3 věta prvá o.s.ř. ve spojení s § 224 odst. 1, § 151 a § 146 odst. 3 o.s.ř., když v dovolacím řízení úspěšnému žalovanému vznikly účelně vynaložené náklady spojené s jeho zastoupením advokátem, v souvislosti s jedním úkonem právní služby (sepis vyjádření k dovolání). Vyhláška č. 484/2000 Sb., kterou byly stanoveny paušální sazby výše odměny za zastupování advokátem v občanském soudním řízení a kterou byla původně změněna vyhláška č. 177/1996 Sb., byla zrušena nálezem Ústavního soudu ze dne 17. dubna 2013, sp. zn. Pl. ÚS 26/12, s účinností ke dni 7. května 2013, kdy byl publikován ve Sbírce zákonů pod č. 116/2013. Odměna v částce 3.100,- Kč byla stanovena podle § 6, § 7 bod 5., § 9 odst. 4 písm. a), § 11 odst. 1 písm. k) vyhlášky č. 177/1996 Sb., o odměnách advokátů a náhradách advokátů za poskytování právních služeb (advokátní tarif) ve znění vyhlášky č. 486/2012 Sb., kterou se mění vyhláška č. 177/1996 Sb. (srov. Čl. II vyhlášky č. 486/2012 Sb.), neboť úkon byl učiněn po 1. lednu 2013. Zástupci žalovaného dále náleží náhrada hotových výdajů ve výši 300,- Kč za jeden úkon právní služby podle § 13 odst. 3 vyhlášky č. 177/1996 Sb., ve znění pozdějších předpisů, tedy celkem 3.400,- Kč. Rovněž mu náleží náhrada za daň z přidané hodnoty ve výši 21 % podle § 137 odst. 3 o.s.ř., tj. 714,- Kč. Celková výše nákladů dovolacího řízení žalovaného tak činí 4.114,- Kč.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. dubna 2017
+JUDr. Pavel Pavlík
+předseda senátu
