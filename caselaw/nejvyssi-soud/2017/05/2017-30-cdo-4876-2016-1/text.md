@@ -1,0 +1,18 @@
+30 Cdo 4876/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Ištvánka a soudců JUDr. Bohumila Dvořáka a JUDr. Pavla Simona v právní věci žalobce J. B., zastoupeného JUDr. Miroslavem Mikou, advokátem se sídlem v Praze 1, Národní 365/43, proti žalované České republice – Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 424/16, o zaplacení 720 000 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 22 C 71/2014, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 17. 5. 2016, č. j. 14 Co 123/2016-71, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Městský soud v Praze jako soud odvolací v napadeném rozsudku potvrdil rozsudek Obvodního soudu pro Prahu 2 ze dne 11. 12. 2015, č. j. 22 C 71/2014-51, kterým byla zamítnuta žaloba, kterou se žalobce po žalované domáhal zaplacení částky 720 000 Kč s příslušenstvím jako přiměřeného zadostiučinění za nemajetkovou újmu vzniklou mu nepřiměřenou délkou soudního řízení. Odvolací soud měl za to, že v daném případě postačí jako přiměřená forma zadostiučinění konstatování porušení práva, kterého se žalobci od žalované dostalo již v rámci předběžného projednání jeho nároku.
+Rozsudek odvolacího soudu napadl řádně zastoupený žalobce včasným dovoláním, které však Nejvyšší soud podle ustanovení § 243c odst. 1 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném ve znění účinném od 1. 1. 2014 (viz čl. II a čl. VII zákona
+č. 293/2013 Sb.), dále jen „o. s. ř.“, odmítl jako nepřípustné.
+Dovolací soud předesílá, že přiznanou formou zadostiučinění se zabývá až tehdy, byla-li by vzhledem k aplikaci ustanovení § 31a zákona č. 82/1998 Sb., o odpovědnosti za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo nesprávným úředním postupem a o změně zákona České národní rady č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), dále jen „OdpŠk“, na konkrétní případ zcela zjevně nepřiměřená, což v případě žalobce není (srov. např. rozsudek Nejvyššího soudu ze dne 15. 12. 2010, sp. zn. 30 Cdo 4462/2009, nebo usnesení Nejvyššího soudu ze dne 31. 8. 2011, sp. zn. 30 Cdo 3007/2010).
+Otázka, jakou váhu je potřeba přikládat jednotlivým kritériím stanoveným v § 31a odst. 3 OdpŠk, při rozhodování o přiměřené formě zadostiučinění za nepřiměřeně dlouho trvající řízení, přípustnost dovolání podle § 237 o. s. ř. nezakládá, neboť ohledně ní nepředstavuje rozsudek odvolacího soudu jiné řešení, než jakého bylo dosaženo v judikatuře Nejvyššího soudu, pokud odvolací soud s ohledem na nízký význam posuzovaného řízení pro žalobce dospěl k závěru, že žalobci nepřiměřenou délkou posuzovaného řízení vznikla zanedbatelná újma (srov. rozsudek Nejvyššího soud ze dne 18. 10. 2011, sp. zn. 30 Cdo 1313/2010, a usnesení Nejvyššího soudu ze dne 25. 6. 2014, sp. zn. 30 Cdo 4362/2013).
+Odvolací soud se neodchýlil od ustálené rozhodovací praxe dovolacího soud ani při samotném hodnocení významu řízení pro žalobce, pokud přihlédl k tomu, že žalobce byl po dobu osmi let v řízení zcela pasivní, z čehož odvolací soud dovozoval, že řízení nemělo pro žalobce valný význam [srov. rozsudek Nejvyššího soudu ze dne 19. 5. 2015, sp. zn. 30 Cdo 3694/2014 (uveřejněný pod číslem 9/2016 Sbírky soudních rozhodnutí a stanovisek)].
+Dovolací soud tak uzavírá, že řešení přijaté odvolacím soudem je v souladu s ustálenou rozhodovací praxí dovolacího soudu, od které dovolací soud neshledává na podkladě podaného dovolání důvod se odchýlit.
+Nákladový výrok netřeba odůvodňovat (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení nejsou přípustné opravné prostředky.
+V Brně dne 17. května 2017
+JUDr. František Ištvánek
+předseda senátu
