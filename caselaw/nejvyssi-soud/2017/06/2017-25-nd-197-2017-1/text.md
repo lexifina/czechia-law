@@ -1,0 +1,18 @@
+25 Nd 197/2017
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy JUDr. Roberta Waltra a soudců JUDr. Ivany Tomkové a JUDr. Petra Vojtka v právní věci oprávněné České republiky –Okresního soudu v Chomutově, se sídlem Chomutov, Na Příkopech 663/29, IČO 00024848, proti povinnému T. K., o pověření k exekuci, vedené u Okresního soudu v Chomutově pod sp. zn. 26 EXE 20102/2016, o určení místní příslušnosti, takto:
+Věc vedenou u Okresního soudu v Chomutově pod sp. zn. 26 EXE 20102/2016 projedná a rozhodne Okresní soud v Chomutově.
+Odůvodnění:
+Dne 15. 11. 2016 podal soudní exekutor JUDr. Ivo Erbert žádost o pověření k vedení exekuce vůči povinnému.
+Okresní soud v Chomutově usnesením ze dne 11. 5. 2017, č. j. 26 EXE 20102/2016-22, vyslovil svou místní nepříslušnost a rozhodl o předložení věci Nejvyššímu soudu k určení místně příslušného soudu. Okresní soud z Centrální evidence obyvatel, Informačního systému základních registrů a dotazem na Ministerstvo vnitra České republiky zjistil, že povinný není občanem České republiky a nemá na území České republiky povolen žádný druh pobytu.
+Dle exekučního návrhu má povinný být zaměstnán ve společnosti ADECCO spol.
+s r.o., což uvedená společnost popřela, dále dle sdělení Všeobecné zdravotní pojišťovny má povinný hlášenu doručovací adresu Ch., kde měl zároveň dle sdělení Ministerstva vnitra České republiky hlášen pobyt do 31. 12. 2014.
+Okresní soud v Chomutově konstatoval, že není oprávněn z vlastní iniciativy pátrat podrobněji po majetku povinného, za dané situace tedy nelze určit místní příslušnost exekučního soudu. S ohledem na nemožnost zjištění podmínek místní příslušnosti bylo v souladu s § 11 odst. 3 zákona o. s. ř. třeba předložit věc Nejvyššímu soudu k určení soudu, který věc projedná a rozhodne.
+Podle ustanovení § 52 odst. 1 exekučního řádu nestanoví-li tento zákon jinak, použijí se pro exekuční řízení přiměřeně ustanovení občanského soudního řádu.
+Podle § 11 odst. 1 o. s. ř. se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení. Podle odstavce 3 tohoto ustanovení, jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Nejvyšší soud, jenž při rozhodování o určení místně příslušného soudu není oprávněn zkoumat, zda je dána pravomoc českých soudů k projednání a rozhodnutí věci (viz např. usnesení Nejvyššího soudu ze dne 19. 2. 2015, sp. zn. 30 Nd 35/2015, ze dne 19. 3. 2015, sp. zn. 21 Nd 47/2015, či ze dne 31. 8. 2015, sp. zn. 32 Nd 92/2015), na základě obsahu spisu shledal, že v předmětném řízení zjevně nelze identifikovat místně příslušný soud ve smyslu § 45 odst. 2 exekučního řádu, neboť podle zjištění Okresního soudu v Chomutově nemá povinný trvalý pobyt na území České republiky, nelze zjistit místo jeho současného pobytu podle druhu pobytu cizince ani umístění majetku povinného.
+Jelikož byly splněny předpoklady zakotvené v ustanovení § 11 odst. 3 o. s. ř. pro určení místní příslušnosti, rozhodl Nejvyšší soud se zřetelem k zásadě hospodárnosti řízení tak, že věc projedná a rozhodne Okresní soud v Chomutově, u něhož bylo řízení zahájeno (obdobně srovnej např. usnesení Nejvyššího soudu ze dne 28. 1. 2014, sp. zn. 29 Nd 388/2013, ze dne 25. 6. 2014, sp. zn. 33 Nd 64/2014, a ze dne 17. 12. 2014, sp. zn. 22 Nd 370/2014).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 27. června 2017
+JUDr. Robert Waltr
+předseda senátu
