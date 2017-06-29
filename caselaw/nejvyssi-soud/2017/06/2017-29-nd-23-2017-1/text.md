@@ -1,0 +1,15 @@
+29 Nd 23/2017
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jiřího Zavázala a soudců JUDr. Zdeňka Krčmáře a Mgr. Milana Poláška v právní věci oprávněné Všeobecné zdravotní pojišťovny České republiky, se sídlem v Praze 3, Orlická 2020/4, PSČ 130 00, identifikační číslo osoby 41197518, proti povinnému L. B., o pověření a nařízení exekuce, vedené u Okresního soudu v Chomutově pod sp. zn. 26 EXE 19527/2016, o určení místní příslušnosti soudu, takto:
+Věc vedenou u Okresního soudu v Chomutově pod sp. zn. 26 EXE 19527/2016 projedná a rozhodne Okresní soud v Chomutově.
+Odůvodnění:
+Návrhem ze dne 31. října 2016, podaným u soudního exekutora Mgr. Martina Svobody, Exekutorský úřad Teplice, se oprávněná domáhá provedení exekuce vůči povinnému pro pohledávku ve výši 55.005 Kč s příslušenstvím. Dne 4. listopadu 2016 požádal označený exekutor o pověření a nařízení exekuce Okresní soud v Chomutově.
+Okresní soud v Chomutově usnesením ze dne 25. listopadu 2016, č. j. 26 EXE 19527/2016-15, vyslovil svou místní nepříslušnost a rozhodl, že věc bude podle ustanovení § 11 odst. 3 zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), předložena Nejvyššímu soudu k určení, který soud věc projedná a rozhodne, neboť podmínky místní příslušnosti nelze zjistit.
+Podle ustanovení § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Příslušnost exekučního soudu upravuje § 45 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekučního řádu). Z ustanovení § 45 odst. 2 exekučního řádu vyplývá, že místně příslušným exekučním soudem je okresní soud, v jehož obvodu má povinný, je-li fyzickou osobou, místo svého trvalého pobytu, popřípadě místo pobytu na území České republiky podle druhu pobytu cizince. Nemá-li povinný v České republice místo trvalého pobytu nebo místo pobytu podle věty první, je místně příslušným soud, v jehož obvodu má povinný majetek.
+Z obsahu spisu vyplývá, že v současné době není známo ani místo pobytu povinného, ani místo, kde má povinný majetek; poslední známá adresa pobytu povinného (K. n. O.) se přitom nacházela v obvodu Okresního soudu v Chomutově.
+Vzhledem k tomu, že v projednávané věci nelze zjistit skutečnosti rozhodné pro určení místní příslušnosti, Nejvyšší soud, přihlížeje k zásadě hospodárnosti řízení, rozhodl podle ustanovení § 11 odst. 3 o. s. ř. tak, že jako místně příslušný soud v dané věci určil Okresní soud v Chomutově, u něhož bylo řízení zahájeno, v jehož obvodu se nachází poslední známá adresa pobytu povinného v České republice a mohl by se zde též nacházet i případný majetek povinného, bude-li soudním exekutorem zjištěn (srov. v této souvislosti též důvody usnesení velkého senátu občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne 12. září 2012, sp. zn. 31 Nd 200/2012, uveřejněného pod číslem 4/2013 Sbírky soudních rozhodnutí a stanovisek).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 29. června 2017
+JUDr. Jiří Zavázal
+předseda senátu
