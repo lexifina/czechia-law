@@ -1,0 +1,29 @@
+30 Nd 110/2017
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Simona a soudců Mgr. Víta Bičáka a JUDr. Bohumila Dvořáka ve věci žalobkyně FEMONT OPAVA, s. r. o., IČ 47154918, se sídlem v Opavě, Vávrovická 274/90, zastoupené Mgr. Ondřejem Kurkou, advokátem se sídlem v Opavě, náměstí Republiky 679/5, proti žalované ZAKLAD REMONTOWO-BUDOWLANY „KAMPKA SPÓLKA JAWNA“ D. KAMPKA, G. KAMPKA, se sídlem v Racibórzi, Mikolowska 1, Polská republika, o návrhu na určení místní příslušnosti soudu takto:
+Návrh žalobkyně FEMONT OPAVA, s. r. o., na vydání evropského platebního rozkazu o úhradu 399 031 Kč s příslušenstvím proti žalované ZAKLAD REMONTOWO-BUDOWLANY „KAMPKA SPÓLKA JAWNA“ D. KAMPKA, G. KAMPKA, projedná a rozhodne Okresní soud v Opavě.
+Odůvodnění:
+Podáním ze dne 15. 3. 2017 učinila žalobkyně návrh, aby Nejvyšší soud podle § 11 odst. 3 zákona č. 99/1963 Sb., občanský soudní řád, dále jen „o. s. ř.“, určil, že žalobu o úhradu 399 031 Kč s příslušenstvím proti žalované a společnosti CENTERSCAPE INVESTMENTS POLAND SP Z O O, se sídlem ve Varšavě, Stawki 40, Polská republika, projedná a rozhodne Okresní soud v Opavě.
+V odůvodnění návrhu na určení místní příslušnosti žalobkyně uvedla, že ve smlouvě o dílo přiložené k návrhu na určení místní příslušnosti byla sjednána prorogační dohoda ve prospěch soudů České republiky podle ustanovení článku 25 odst. 1 nařízení Evropského parlamentu a Rady (EU) č. 1215/2012 ze dne 12. 12. 2012 o příslušnosti a uznávání a výkonu soudních rozhodnutí v občanských a obchodních věcech (přepracované znění), dále jen „nařízení Brusel I bis“. Smluvní strany si však žádný konkrétní soud, který by měl být příslušný k projednání věci, nesjednaly.
+K návrhu na určení místní příslušnosti žalobkyně podáním ze dne 10. 5. 2017 doplnila návrh na vydání evropského platebního rozkazu proti žalované a zároveň uvedla, že bere zpět návrh o určení místní příslušnosti proti společnosti CENTERSCAPE INVESTMENTS POLAND SP Z O O.
+Podle ustanovení § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Nejvyšší soud proto nejprve zkoumal, zda je dána pravomoc českých soudů věc rozhodnout.
+Před aplikováním zákona o mezinárodním právu soukromém je třeba přihlédnout k úpravě obsažené v normách práva Evropské unie, které mají aplikační přednost před právem členských států.
+Podle čl. 25 odst. 1 nařízení Brusel I bis, bez ohledu na bydliště stran, dohodnou-li se tyto strany, že v již vzniklém nebo budoucím sporu z určitého právního vztahu má příslušnost soud nebo soudy některého členského státu, je příslušný soud nebo soudy tohoto státu, pokud tato dohoda není z hlediska své věcné platnosti podle práva tohoto členského státu neplatná. Pokud se strany nedohodnou jinak, je tato příslušnost výlučná. Tato dohoda o příslušnosti musí být uzavřena:
+a) písemně nebo ústně s písemným potvrzením;
+b) ve formě, která odpovídá zvyklostem zavedeným mezi těmito stranami, nebo
+c) v mezinárodním obchodě ve formě, která odpovídá obchodním zvyklostem, které strany znaly nebo musely znát a které strany smluv tohoto druhu v daném odvětví obchodu obecně znají a pravidelně se jimi řídí.
+Z kopie smlouvy o dílo předložené žalobkyní Nejvyšší soud zjistil, že podle čl. XII odst. 11 této smlouvy „veškeré spory vzniklé z této smlouvy nebo v souvislosti s ní, které se nepodaří vyřešit jednáním mezi smluvními stranami, budou řešeny s konečnou platností obecnými soudy České republiky, při čemž právní vztahy mezi smluvními stranami vyplývající z této smlouvy se řídí českým právním řádem.“
+Vzhledem k tomu, že ve věci není dána výlučná příslušnost soudů podle čl. 24 nařízení Brusel I bis, a strany si sjednaly mezinárodní příslušnost českých soudů postupem předvídaným v čl. 25 odst. 1 nařízení Brusel I bis, Nejvyšší soud uzavřel, že mezinárodní příslušnost soudů České republiky je dána.
+Nejvyšší soud se dále zabýval otázkou místní příslušnosti konkrétního soudu v České republice.
+Podle ustanovení § 84 o. s. ř. je k řízení příslušný obecný soud účastníka, proti němuž návrh směřuje (žalovaného), není-li stanoveno jinak.
+Podle ustanovení § 85 odst. 3 o. s. ř. je obecným soudem právnické osoby okresní soud, v jehož obvodu má sídlo.
+Podle ustanovení § 86 odst. 2 o. s. ř. proti tomu, kdo nemá jiný příslušný soud v České republice, je možno uplatnit majetková práva u soudu, v jehož obvodu má majetek. Podle odst. 3 uvedeného ustanovení lze proti zahraniční osobě podat žalobu (návrh na zahájení řízení) i u soudu, v jehož obvodu je v České republice umístěn její závod nebo organizační složka jejího závodu.
+Žalovaná je právnická osoba se sídlem v Polské republice, z obsahu spisu nevyplývá a Nejvyššímu soudu není známo, že by v České republice byl umístěn její závod nebo organizační složka závodu nebo že by v České republice měla majetek. Žalovaná tedy v České republice nemá obecný soud a místně příslušný soud tak nelze určit.
+Z výše uvedeného je zřejmé, že jsou naplněny zákonné předpoklady pro určení místně příslušného soudu podle § 11 odst. 3 o. s. ř. Nejvyšší soud proto určil, že žalobu projedná a rozhodne Okresní soud v Opavě, v jehož obvodu se nachází sídlo žalobkyně a který žalobkyně k projednání a rozhodnutí věci navrhla.
+Pro úplnost Nejvyšší soud dodává, že nerozhodoval o určení místně příslušného soudu ve vztahu ke společnosti CENTERSCAPE INVESTMENTS POLAND SP Z O O, se sídlem ve Varšavě, Stawki 40, Polská republika, neboť proti ní žalobkyně žádný procesní návrh v tomto řízení neuplatnila.
+Na procesním soudu bude, aby rozhodl o změně žaloby v podání žalobkyně ze dne 26. 6. 2017.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 25. července 2017
+JUDr. Pavel Simon
+předseda senátu
