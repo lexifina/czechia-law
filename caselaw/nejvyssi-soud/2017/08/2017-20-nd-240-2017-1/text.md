@@ -1,0 +1,16 @@
+20 Nd 240/2017
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Miroslavy Jirmanové, Ph.D., a soudců JUDr. Zbyňka Poledny a JUDr. Karla Svobody, Ph.D., v exekuční věci oprávněné O2 Czech Republic a. s., se sídlem v Praze 4, Za Brumlovkou 266/2, identifikační číslo osoby 60193336, zastoupené JUDr. Janou Kubištovou CSc., advokátkou se sídlem v Praze 7 - Troji, Trojská 69/112, proti povinnému Y. B., t. č. neznámého pobytu, o nařízení exekuce pro 6 000 Kč s příslušenstvím, vedené u Okresního soudu ve Žďáru nad Sázavou pod sp. zn. 16 EXE 880/2017, o určení místní příslušnosti, takto:
+Věc vedenou u Okresního soudu ve Žďáru nad Sázavou pod sp. zn. 16 EXE 880/2017 projedná a rozhodne Okresní soud ve Žďáru nad Sázavou.
+O d ů v o d n ě n í :
+Oprávněná se návrhem podaným u Exekutorského úřadu Třebíč dne 17. 6. 2010 domáhá nařízení exekuce a pověření soudního exekutora JUDr. Jiřího Tomka jejím provedením podle rozsudku Okresního soudu ve Žďáru nad Sázavou ze dne 30. 3. 2005, č. j. 9 C 147/2004-28.
+Okresní soud ve Žďáru nad Sázavou usnesením ze dne 9. 6. 2017, č. j. 16 EXE 880/2017-34, vyslovil svou místní nepříslušnost podle § 105 odst. 2, § 11 odst. 3 a § 45 odst. 2 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, ve znění pozdějších předpisů (dále jen „e. ř.“), neboť v době zahájení řízení nebyly dány podmínky jeho místní příslušnosti a obecný soud povinného nebyl znám.
+Podle § 11 odst. 1 o. s. ř. se řízení koná u toho soudu, který je věcně a místně příslušný. Pro určení věcné a místní příslušnosti jsou až do skončení řízení rozhodné okolnosti, které tu jsou v době jeho zahájení. Věcně a místně příslušným je vždy také soud, jehož příslušnost již není možné podle zákona zkoumat nebo jehož příslušnost byla určena pravomocným rozhodnutím příslušného soudu.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Nejvyšší soud v usnesení ze dne 12. 11. 2014, sp. zn. 31 Nd 316/2013 (uveřejněném pod číslem 11/2015 Sbírky soudních rozhodnutí a stanovisek), vyložil, že má-li určit místně příslušný soud podle ustanovení § 11 odst. 3 o. s. ř., není oprávněn zkoumat, zda je dána pravomoc českých soudů k projednání a rozhodnutí věci. Ustanovení § 105 odst. 2 o. s. ř. totiž předpokládá, že se otázkou pravomoci českých soudů dostatečně a s kladným závěrem zabýval předkládající soud.
+Z obsahu spisu vyplývá, že povinný je občanem Ukrajiny, měl v České republice povolen dlouhodobý pobyt za účelem podnikání, který mu skončil dne 21. 1. 2000, a v současné době zde již žádný druh pobytu povolen nemá ani není jeho současný pobyt znám. Na posledně hlášeném místě bydliště v České republice (Jihlavská 282, Velká Bíteš) se již nezdržuje.
+Nejvyšší soud proto po předložení věci (§ 105 odst. 2 o. s. ř.) rozhodl podle § 11 odst. 3 o. s. ř., přihlížeje k zásadě hospodárnosti, tak, že věc projedná a rozhodne Okresní soud ve Žďáru nad Sázavou, u něhož byla podána žádost o pověření a nařízení exekuce.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 8. srpna 2017
+JUDr. Miroslava Jirmanová, Ph.D.
+předsedkyně senátu
