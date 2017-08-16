@@ -1,0 +1,15 @@
+33 Nd 239/2017
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně JUDr. Ivany Zlatohlávkové a soudců JUDr. Pavla Krbka a JUDr. Blanky Moudré ve věci oprávněné Kooperativy pojišťovny, a.s., Vienna Insurance Group, se sídlem v Praze 8, Pobřežní č. 665/21, identifikační číslo osoby 471 16 617, zastoupené JUDr. Zdeňkem Veselým, advokátem se sídlem v Praze 1, Panská 6, proti povinnému C. L., o pověření a nařízení exekuce, vedené u Okresního soudu ve Žďáru nad Sázavou pod sp. zn. 15 EXE 911/2017, o určení místní příslušnosti soudu, takto:
+Věc vedenou u Okresního soudu ve Žďáru nad Sázavou pod sp. zn. 15 EXE 911/2017 projedná a rozhodne Okresní soud ve Žďáru nad Sázavou.
+O d ů v o d n ě n í :
+Exekutor požádal dne 5. 5. 2017 Okresní soud ve Žďáru nad Sázavou o pověření a o nařízení exekuce na majetek povinného.
+Okresní soud ve Žďáru nad Sázavou usnesením ze dne 31. 5. 2017, č. j. 15 EXE 911/2017-28, vyslovil svou místní nepříslušnost s tím, že po marném uplynutí lhůty k podání odvolání oprávněnou bude věc podle § 11 odst. 3 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění pozdějších předpisů (dále jen „o. s. ř.“), předložena Nejvyššímu soudu k určení, který soud věc projedná a rozhodne. Povinný není občanem České republiky a v Centrální evidenci obyvatel proto není zapsán. Dotazem u Ministerstva vnitra České republiky bylo zjištěno, že povinný nemá povolený žádný druh pobytu na území České republiky, jeho pobyt zde není znám a není evidován v žádné cizinecké evidenci.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Místně příslušným exekučním soudem je soud, v jehož obvodu má povinný, který je fyzickou osobou, místo svého trvalého pobytu, popřípadě místo pobytu na území České republiky podle druhu pobytu cizince. Nemá-li povinný, který je fyzickou osobou, v České republice místo trvalého pobytu nebo místo pobytu podle věty první, je místně příslušným soud, v jehož obvodu má povinný majetek (srov. § 45 odst. 2 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti a o změně dalších zákonů /exekuční řád/, ve znění pozdějších předpisů - dále jen „zákon č. 120/2001 Sb.“).
+Podle ustanovení § 11 odst. 3 o. s. ř., které se použije i pro exekuční řízení (§ 52 odst. 1 zákona č. 120/2001 Sb.), jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Protože jsou splněny předpoklady stanovené v § 11 odst. 3 o. s. ř., Nejvyšší soud – přihlížeje k zásadě hospodárnosti – určil, že věc projedná a rozhodne Okresní soud ve Žďáru nad Sázavou, u něhož bylo řízení zahájeno (srov. usnesení velkého senátu občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne 12. 9. 2012, sp. zn. 31 Nd 200/2012, uveřejněné ve Sbírce soudních rozhodnutí a stanovisek pod č. 4/2013).
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 16. srpna 2017
+JUDr. Ivana Zlatohlávková
+předsedkyně senátu
