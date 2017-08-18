@@ -1,0 +1,15 @@
+21 Nd 247/2017
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy senátu JUDr. Mojmíra Putny a soudců JUDr. Zdeňka Novotného a JUDr. Lubomíra Ptáčka, Ph.D. v exekuční věci oprávněné GECO, a.s. se sídlem v Praze 8, Pod Čimickým hájem č. 190/11, IČO 63080737, zastoupené JUDr. Jiřím Kroulíkem, advokátem se sídlem v Praze, U Továren č. 999/31, proti povinnému J. R., pro 25.701 Kč, vedené u Okresního soudu v Nymburce pod sp. zn. 21 EXE 893/2017, o určení místní příslušnosti soudu, takto:
+Věc vedenou u Okresního soudu v Nymburce pod sp. zn. 21 EXE 893/2017 projedná a rozhodne Okresní soud v Nymburce.
+Odůvodnění:
+Soudní exekutor Mgr. Ing. Jiří Prošek, Exekutorský úřad Plzeň – město, podal dne 12. 6. 2017 u Okresního soudu v Nymburce spolu s exekučním návrhem oprávněné ze dne 9. 6. 2017 žádost o pověření a nařízení exekuce na majetek povinného k vymožení pohledávky oprávněné.
+Okresní soud v Nymburce usnesením ze dne 16. 6. 2017, č. j. 21 EXE 893/2017-17, vyslovil ve smyslu ustanovení § 105 odst. 2 občanského soudního řádu svoji místní nepříslušnost a rozhodl, že věc bude předložena Nejvyššímu soudu k určení, který soud ji projedná a rozhodne. V odůvodnění uvedl, že povinný je slovenský státní příslušník, u kterého bylo dle sdělení Krajského ředitelství Policie Středočeského kraje, odbor cizinecké policie v Kutné Hoře, realizováno vyhoštění (z území ČR vyhoštěn dne 30. 5. 2012) a více k uvedené osobě nebylo zjištěno.
+Podle ustanovení § 11 odst. 3 občanského soudního řádu jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Podle ustanovení § 105 odst. 2 občanského soudního řádu vysloví-li soud, že není příslušný, postoupí věc po právní moci tohoto usnesení příslušnému soudu nebo ji za podmínek uvedených v ustanovení § 11 odst. 3 občanského soudního řádu předloží Nejvyššímu soudu.
+Nejvyšší soud ČR v usnesení velkého senátu občanskoprávního a obchodního kolegia ze dne 12. 11. 2014, sp. zn. 31 Nd 316/2013, které bylo uveřejněno pod č. 11/2015 Sbírky soudních rozhodnutí a stanovisek, vyložil a odůvodnil právní názor, že je-li Nejvyšší soud žádán o určení místně příslušného soudu podle ustanovení § 11 odst. 3 občanského soudního řádu na základě pravomocného rozhodnutí, jímž soud prvního stupně vyslovil svou místní nepříslušnost a rozhodl o postoupení věci Nejvyššímu soudu za účelem určení místně příslušného soudu, Nejvyšší soud určí místně příslušný soud, aniž zkoumá (aniž je oprávněn zkoumat), zda je dána pravomoc českých soudů k projednání a rozhodnutí věci.
+Nejvyšší soud ČR, vycházeje z obsahu spisu a přihlížeje k zásadě hospodárnosti řízení, rozhodl tak, že jako místně příslušný soud v dané věci určil Okresní soud v Nymburce, u nějž byla žádost o pověření exekutora a nařízení exekuce na majetek povinného podána, a který ve věci provedl prvotní úkony.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 18. srpna 2017
+JUDr. Mojmír Putna
+předseda senátu
