@@ -1,0 +1,15 @@
+25 Cdo 5519/2016
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Vojtka a soudců JUDr. Marty Škárové a JUDr. Roberta Waltra v právní věci žalobkyně AGOS BIO a. s., se sídlem v Bukovině 108, IČO 60745584, zastoupené JUDr. René Huškem, advokátem se sídlem v Brně, Smetanova 1022/19, proti žalované Mendelově univerzitě v Brně, se sídlem v Brně, Zemědělská 1665/1, IČO 62156489, zastoupené JUDr. Ing. Martinem Florou, Dr., advokátem se sídlem v Brně, Lidická 710/57, o 154.350,- Kč s příslušenstvím, vedené u Městského soudu v Brně pod sp. zn. 47 C 138/2007, o dovolání žalované proti rozsudku Krajského soudu v Brně ze dne 1. 6. 2016, č. j. 44 Co 230/2015-336, takto:
+I. Dovolání se odmítá.
+II. Žalovaná je povinna zaplatit žalobkyni na náhradě nákladů dovolacího řízení částku 4.308,- Kč do tří dnů od právní moci tohoto rozhodnutí k rukám JUDr. René Huška, advokáta se sídlem v Brně, Smetanova 1022/19.
+O d ů v o d n ě n í :
+Dovolání žalované proti rozsudku Krajského soudu v Brně ze dne 1. 6. 2016, č. j. 44 Co 230/2015-336, není přípustné podle ustanovení § 237 o. s. ř., neboť uplatněné námitky nesměřují proti otázce hmotného nebo procesního práva, na jejímž vyřešení závisí napadené rozhodnutí. Dovolatelka namítá, že žalobkyně ve smyslu § 2 odst. 2 zákona č. 229/1991 Sb., o úpravě vlastnických vztahů k půdě a jinému zemědělskému majetku, neprokázala svou aktivní legitimaci k podání žaloby, protože neunesla důkazní břemeno ohledně tvrzení o nájemním vztahu k honu Z. S., kde došlo k poškození porostu ozimé pšenice. Rozporuje také výši takto vzniklé škody, neboť podle jejího názoru provedené dokazování neposkytuje žádný podklad pro závěr, že výlučnou příčinou škody bylo působení tzv. černé zvěře, kromě toho v době šetření nemohlo být patrno poškození starší pěti dnů. Je tedy zřejmé, že uplatněné námitky postrádají charakter právní otázky, kterou by měl dovolací soud řešit (§ 241a odst. 1 o. s. ř.), neboť nesměřují proti právnímu posouzení věci odvolacím soudem, ale pouze proti zjištěnému skutkovému stavu, o nějž odvolací soud své rozhodnutí opřel, čímž však nelze přípustnost dovolání podle § 237 o. s. ř. založit (srov. též § 241a odst. 1 o. s. ř.).
+Namítá-li dovolatelka, že žalobkyně označila právní důvod k užívání předmětných pozemků opožděně až v průběhu jednání odvolacího soudu, který k tomuto tvrzení ve smyslu ustanovení § 205a o. s. ř. neměl přihlédnout, uplatňuje tím námitku, že řízení je postiženo vadou, která mohla mít za následek nesprávné rozhodnutí ve věci, k níž však lze v dovolacím řízení přihlédnout jen tehdy, je-li dovolání obecně přípustné (§ 242 odst. 3 o. s. ř.).
+Nejvyšší soud proto dovolání žalované podle § 243c odst. 1 věty první o. s. ř. odmítl.
+Výrok o náhradě nákladů dovolacího řízení se neodůvodňuje (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+Nesplní-li povinný dobrovolně, co mu ukládá vykonatelné rozhodnutí, může oprávněný podat návrh na výkon rozhodnutí.
+V Brně dne 30. srpna 2017
+JUDr. Petr V o j t e k
+předseda senátu
