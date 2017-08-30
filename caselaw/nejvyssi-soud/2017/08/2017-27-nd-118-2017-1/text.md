@@ -1,0 +1,16 @@
+27 Nd 118/2017
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Filipa Cilečka a soudců JUDr. Marka Doležala a JUDr. Petra Šuka v právní věci žalobce J. V., proti žalované České republice – Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 16, PSČ 128 00, o náhradu škody způsobené při výkonu veřejné moci, takto:
+I. K projednání a rozhodnutí věci je příslušný Obvodní soud pro Prahu 2.
+II. Po právní moci tohoto usnesení bude věc postoupena Obvodnímu soudu pro Prahu 2.
+O d ů v o d n ě n í:
+Žalobce adresoval Nejvyššímu soudu podání, z jehož obsahu vyplývá, že se jím domáhá náhrady škody podle zákona č. 82/1998 Sb., o odpovědnosti za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo nesprávným úředním postupem a o změně zákona České národní rady č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), ve znění pozdějších předpisů (dále jen „OdpŠk“), která mu dle jeho tvrzení byla způsobena postupem Okresního soudu v Břeclavi a Krajského soudu v Brně v řízení ve věci vedené u Okresního soudu v Břeclavi pod sp. zn. 5 C 131/2006.
+Podle § 9 odst. 1 zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), nestanoví-li zákon jinak, jsou k řízení v prvním stupni příslušné okresní soudy.
+Podle § 84 o. s. ř. je k řízení příslušný obecný soud účastníka, proti němuž návrh směřuje (žalovaného), není-li stanoveno jinak. Z § 85 odst. 5 o. s. ř. se podává, že obecným soudem státu je okresní soud, v jehož obvodu má sídlo organizační složka státu příslušná podle zvláštního právního předpisu, a nelze-li takto místně příslušný soud určit, soud, v jehož obvodu nastala skutečnost, která zakládá uplatněné právo.
+Z § 6 OdpŠk plyne, že ve věcech náhrady škody způsobené rozhodnutím nebo nesprávným úředním postupem a o regresních úhradách jednají jménem státu ministerstva a jiné ústřední správní úřady (dále jen "úřad") [odstavec první]. Úřadem podle odstavce 1 je Ministerstvo spravedlnosti, došlo-li ke škodě v občanském soudním řízení nebo v trestním řízení, a dále v případech, kdy bylo soudem ve správním soudnictví vydáno nezákonné rozhodnutí, jímž soud rozhodl o žalobě proti rozhodnutí územního celku v samostatné působnosti, a v případech, kdy škoda byla způsobena notářem nebo soudním exekutorem [odstavec druhý písm. a)].
+Podle § 104a odst. 4 a 6 o. s. ř. bylo-li řízení zahájeno u Nejvyššího soudu nebo byla-li věc Nejvyššímu soudu předložena vrchním soudem, Nejvyšší soud rozhodne, které soudy jsou k projednání a rozhodnutí věci příslušné v prvním stupni, není-li sám věcně příslušný. V usnesení, jímž bylo rozhodnuto, že k projednání a rozhodnutí věci jsou příslušné v prvním stupni jiné soudy, než u kterých bylo řízení zahájeno, se rovněž uvede soud, jemuž bude věc postoupena k dalšímu řízení; ustanovení § 105 tím není dotčeno.
+V návaznosti na výše uvedené Nejvyšší soud podle § 104a odst. 4 a 6 o. s. ř. rozhodl, že předmětná věc bude po právní moci tohoto usnesení postoupena Obvodnímu soudu pro Prahu 2, neboť v jeho obvodu má sídlo Ministerstvo spravedlnosti České republiky, které – ve věcech náhrady škody způsobené nesprávným úředním postupem v občanském soudním řízení – jedná jménem státu.
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně dne 30. srpna 2017
+JUDr. Filip Cileček
+předseda senátu
