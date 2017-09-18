@@ -1,0 +1,13 @@
+29 Nd 289/2017-52
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudců JUDr. Zdeňka Krčmáře a Mgr. Milana Poláška v exekuční věci oprávněné UPC Česká republika, s. r. o., se sídlem v Praze 4, Závišova 502/5, PSČ 140 00, identifikační číslo osoby 00 56 22 62, proti povinnému J. S. T., pro 1.862,- Kč s příslušenstvím, vedené u Okresního soudu ve Žďáru nad Sázavou pod sp. zn. 16 EXE 1089/2017, o určení místní příslušnosti soudu, takto:
+Věc vedenou u Okresního soudu ve Žďáru nad Sázavou pod sp. zn. 16 EXE 1089/2017 projedná a rozhodne Okresní soud ve Žďáru nad Sázavou.
+O d ů v o d n ě n í :
+Návrhem datovaným 2. června 2017, podaným u soudního exekutora JUDr. Jana Fendrycha, Exekutorský úřad Praha 2, se oprávněná domáhá pověření exekutora a nařízení exekuce vůči povinnému pro pohledávku ve výši 1.862,- Kč s příslušenstvím.
+Okresní soud ve Žďáru nad Sázavou usnesením ze dne 13. července 2017, č. j. 16 EXE 1089/2017-48, vyslovil svou místní nepříslušnost, s tím, že po uplynutí lhůty k podání odvolání oprávněnou bude věc předložena Nejvyššímu soudu, jenž určí soud, který věc projedná a rozhodne.
+Podle ustanovení § 11 odst. 3 zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne (srov. usnesení velkého senátu občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne 12. listopadu 2014, sp. zn. 31 Nd 316/2013, uveřejněné pod číslem 11/2015 Sbírky soudních rozhodnutí a stanovisek).
+Vzhledem k tomu, že ze zprávy Krajského ředitelství policie kraje Vysočina, odbor cizinecké policie, oddělení pobytových agend soud prvního stupně zjistil, že povinný (státní příslušník Norského království), nemá v České republice vydáno žádné pobytové oprávnění (a jako občan Evropské unie ani nemusí mít) a ze zprávy Obecního úřadu L. vyplývá, že poslední známou adresou povinného byla adresa kde byl povinný ubytovaný jako hotelový host, Nejvyšší soud v souladu se závěry formulovanými v usnesení velkého senátu občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne 12. září 2012, sp. zn. 31 Nd 200/2012, uveřejněném pod číslem 4/2013 Sbírky soudních rozhodnutí a stanovisek, a při respektování zásady hospodárnosti řízení rozhodl podle ustanovení § 11 odst. 3 o. s. ř. tak, že jako místně příslušný soud v dané věci určil Okresní soud ve Žďáru nad Sázavou, u kterého bylo řízení zahájeno.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 18. září 2017
+JUDr. Petr Gemmel
+předseda senátu
