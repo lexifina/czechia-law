@@ -1,0 +1,12 @@
+30 Nd 290/2017
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Františka Ištvánka a soudců JUDr. Bohumila Dvořáka a JUDr. Pavla Simona v právní věci žalobkyně Intrum Justitia, s r. o., identifikační číslo osoby 250 83 236, se sídlem v Praze 9, Prosecká 851/64, zastoupené Mgr. Robertem Lukešem, advokátem se sídlem v Praze 4, ulice 7. května 1109/263, proti žalovanému J. H., o zaplacení 42 453 Kč s příslušenstvím, vedené u Okresního soudu ve Znojmě pod sp. zn. 4 C 264/2016, o návrhu soudu na určení místní příslušnosti, takto:
+Věc vedenou u Okresního soudu ve Znojmě pod sp. zn. 4 C 264/2016 projedná a rozhodne Okresní soud ve Znojmě.
+O d ů v o d n ě n í :
+V řízení zahájeném před Okresním soudem ve Znojmě se žalobce domáhal po žalovaném zaplacení shora uvedené částky. Okresní soud ve Znojmě usnesením ze dne 19. 1. 2016, č. j. EPR 8886/2016 – 6, vyslovil svou místní nepříslušnost a věc postoupil Okresnímu soudu v Děčíně. Okresní soud v Děčíně s postoupením nesouhlasil a usnesením ze dne 25. 10. 2016, č. j. 8 Nc 6602/2016 – 17, rozhodl Krajský soud v Ústí nad Labem tak, že nesouhlas Okresního soudu v Děčíně s postoupením věci je důvodný.
+Okresní soud ve Znojmě následně usnesením ze dne 10. 7. 2017, č. j. 4 C 264/2016 – 47, vyslovil místní nepříslušnost a dle § 11 odst. 3 o. s. ř. věc předložil k rozhodnutí o místní příslušnosti Nejvyššímu soudu, neboť věc patří do pravomoci soudů České republiky, avšak bydliště žalovaného se nedaří zjistit, tedy podmínky místní příslušnosti chybí či je nelze zjistit.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne. Podmínky § 11 odst. 3 o. s. ř. byly splněny, jelikož bydliště žalovaného se v České republice nepodařilo zjistit. Nejvyšší soud byl při svém rozhodnutí veden skutečností, že smluvní vztah, ze kterého vznikl tento spor, uzavřel právní předchůdce žalobce (pohledávka byla žalobci postoupena) s vědomím, že bydliště žalovaného, resp. jeho doručovací adresa, je v obvodu Okresního soudu ve Znojmě, tudíž i případný spor bude veden před jmenovaným soudem. Nejvyšší soud proto rozhodl tak, jak je uvedeno ve výroku.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. 9. 2017
+JUDr. František Ištvánek
+předseda senátu
