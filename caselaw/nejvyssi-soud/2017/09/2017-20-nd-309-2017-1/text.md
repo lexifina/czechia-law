@@ -1,0 +1,15 @@
+20 Nd 309/2017-34
+U S N E S E N Í
+Nejvyšší soud rozhodl v senátě složeném z předsedy JUDr. Vladimíra Kůrky a soudců JUDr. Miroslavy Jirmanové, Ph.D. a JUDr. Zbyňka Poledny v právní věci oprávněného J. D., O., zastoupeného JUDr. Ladislavem Šustrem Ph.D., advokátem se sídlem v Kladně, Kleinerova 24/1504, proti povinnému P. G., trvale K., t. č. ve výkonu trestu odnětí svobody ve Věznici Praha 6 – Ruzyně, o určení místní příslušnosti, takto:
+Věc vedenou u Okresního soudu v Rakovníku pod sp. zn. 28 EXE 1512/2017 projedná a rozhodne Obvodní soud pro Prahu 6.
+O d ů v o d n ě n í :
+Okresní soud v Rakovníku usnesením ze dne 27. 7. 2017, č. j. 28 EXE 1512/2017-29, vyslovil svoji místní nepříslušnost k nařízení exekuce na majetek povinného k vymožení peněžitého plnění oprávněného na základě rozsudku Krajského soudu v Praze ze dne 5. 3. 2013, č. j. 1 T 11/2013-335.
+Ze zkoumání místní příslušnosti vyšlo najevo, že povinný, který je fyzickou osobou, nemá na území České republiky trvalý pobyt, avšak z Centrální evidence vězňů se podává, že se povinný v současné době nachází ve výkonu trestu odnětí svobody ve Věznici Praha – Ruzyně, kdy má stanoven předpokládaný konec trestu na 26. 11. 2018. Podmínky místní příslušnosti pro nařízení exekuce Okresním soudem v Rakovníku chybějí, a proto po vyslovení své místní nepříslušnosti předložil věc Nejvyššímu soudu k rozhodnutí podle § 11 odst. 3 o. s. ř.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Podle ustanovení § 105 odst. 2 o. s. ř. vysloví-li soud, že není příslušný, postoupí věc po právní moci tohoto usnesení příslušnému soudu nebo ji za podmínek § 11 odst. 3 předloží Nejvyššímu soudu.
+Nejvyšší soud v usnesení velkého senátu občanskoprávního a obchodního kolegia ze dne 12. listopadu 2014, sp. zn. 31 Nd 316/2013, uveřejněném pod číslem 11/2015 Sbírky soudních rozhodnutí a stanovisek, vyložil a odůvodnil právní názor, že je-li Nejvyšší soud žádán o určení místně příslušného soudu podle ustanovení § 11 odst. 3 o. s. ř. na základě pravomocného rozhodnutí, jímž soud prvního stupně vyslovil svou místní nepříslušnost a rozhodl o postoupení věci Nejvyššímu soudu za účelem určení místně příslušného soudu, Nejvyšší soud určí místně příslušný soud, aniž zkoumá (aniž je oprávněn zkoumat), zda je dána pravomoc českých soudů k projednání a rozhodnutí věci. Ustanovení § 105 odst. 2 o. s. ř. totiž předpokládá, že se otázkou pravomoci českých soudů dostatečně a s kladným závěrem zabýval předkládající soud (srov. výše citované usnesení sp. zn. 31 Nd 316/2013).
+Nejvyšší soud České republiky po předložení věci Okresním soudem v Rakovníku (§ 105 odst. 2 o. s. ř.) rozhodl podle ustanovení § 11 odst. 3 o. s. ř., přihlížeje k zásadě hospodárnosti, tak, že věc projedná a rozhodne Obvodní soud pro Prahu 6, v jehož obvodu se povinný nachází ve výkonu trestu odnětí svobody, a který je mu nejblíže.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. září 2017
+JUDr. Vladimír Kůrka
+předseda senátu
