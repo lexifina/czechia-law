@@ -1,0 +1,31 @@
+{
+  "record_type": "case-law",
+  "court": "Nejvyšší soud České republiky",
+  "date": "2017-09-27",
+  "date_basis": "Official NS database (Rozhodnutí a stanoviska Nejvyššího soudu): Datum rozhodnutí 27. 9. 2017 (decision date).",
+  "ecli": "ECLI:CZ:NS:2017:25.CDO.1734.2016.1",
+  "docket": "25 Cdo 1734/2016",
+  "decision_type": "Rozsudek",
+  "source": "https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/WebSearch/FB63D85C04FC3AF7C12581FE004CC4A6?openDocument",
+  "source_sha256": "20c572e7ca639d0ea36b7fd58c57b7b25f8c971c83c357f8483b1ff082d231e0",
+  "source_unid": "FB63D85C04FC3AF7C12581FE004CC4A6",
+  "text_status": "as-published (pseudonymised by the court)",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "fields": {
+    "Název judikátu": "Odpovědnost advokáta za škodu při neúspěšné procesní strategii",
+    "Právní věta": "Advokát neodpovídá za škodu, jestliže na pokyn klienta, poučeného o možných důsledcích, zvolí z možných procesních strategií (kdy všechny nesou určitá rizika) tu, jež v důsledku okolností, které advokát nemohl předem znát ani ovlivnit, nevedla k úspěchu v soudním sporu.",
+    "Soud": "Nejvyšší soud",
+    "Datum rozhodnutí": "27. 9. 2017",
+    "Spisová značka": "25 Cdo 1734/2016",
+    "ECLI": "ECLI:CZ:NS:2017:25.CDO.1734.2016.1",
+    "Typ rozhodnutí": "ROZSUDEK",
+    "Heslo": "Advokacie\nNáhrada škody",
+    "Dotčené předpisy": "§ 24 odst. 1 předpisu č. 85/1996Sb.",
+    "Kategorie rozhodnutí": "A",
+    "Zveřejněno na webu": "22. 12. 2017",
+    "Publikováno ve sbírce pod číslem": "15 / 2019",
+    "Anotace": "Ve sledovaném rozhodnutí se Nejvyšší soud zabýval posouzením otázky odpovědnosti advokáta za škodu, konkrétně, zda lze dle pokynu klienta provedenou volbu (z více možných, jež všechny skýtaly jistá rizika neúspěchu) procesního postupu ve věci považovat za porušení právní povinnosti ze strany advokáta, a lze tak dovozovat jeho odpovědnost za škodu jeho klientu neúspěchem ve sporu vzniklou."
+  }
+}
