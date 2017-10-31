@@ -1,0 +1,15 @@
+NEJVYŠŠÍ SOUD
+ČESKÉ REPUBLIKY 29 Nd 286/2017-27
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jiřího Zavázala a soudců JUDr. Zdeňka Krčmáře a Mgr. Milana Poláška v právní věci oprávněné Vodafone Czech Republic a. s., se sídlem v Praze 5, náměstí Junkových 2808/2, PSČ 155 00, identifikační číslo osoby 25788001, zastoupené Mgr. Markem Lošanem, advokátem, se sídlem v Praze 1, Na Florenci 2116/15, PSČ 110 00, proti povinné M. C, o pověření a nařízení exekuce, vedené u Okresního soudu v Chomutově pod sp. zn. 11 EXE 10346/2017, o určení místní příslušnosti soudu, takto:
+Věc vedenou u Okresního soudu v Chomutově pod sp. zn. 11 EXE 10346/2017 projedná a rozhodne Okresní soud v Chomutově.
+O d ů v o d n ě n í :
+Návrhy ze dne 30. března 2017 se oprávněná domáhá provedení exekuce vůči povinné pro pohledávky ve výši 3.569 Kč s příslušenstvím a 4.963 Kč s příslušenstvím. Dne 11. dubna 2017 požádal soudní exekutor JUDr. Lukáš Jícha, Exekutorský úřad Přerov, o pověření a nařízení exekuce Okresní soud v Chomutově.
+Okresní soud v Chomutově usnesením ze dne 10. července 2017, č. j. 11 EXE 10346/2017-24, vyslovil svou místní nepříslušnost a rozhodl, že věc bude podle ustanovení § 11 odst. 3 zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), předložena Nejvyššímu soudu k určení, který soud věc projedná a rozhodne, neboť podmínky místní příslušnosti nelze zjistit.
+Podle ustanovení § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Příslušnost exekučního soudu upravuje § 45 zákona č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekučního řádu). Z ustanovení § 45 odst. 2 exekučního řádu vyplývá, že místně příslušným exekučním soudem je okresní soud, v jehož obvodu má povinný, je-li fyzickou osobou, místo svého trvalého pobytu, popřípadě místo pobytu na území České republiky podle druhu pobytu cizince. Nemá-li povinný v České republice místo trvalého pobytu nebo místo pobytu podle věty první, je místně příslušným soud, v jehož obvodu má povinný majetek.
+Jakkoli oprávněná v exekučním návrhu uvedla bydliště povinné na adrese K., podle výsledků šetření soudu prvního stupně povinná není vedena v registru obyvatel a nemá žádný povolený pobyt na území České republiky. Dosud také nebyl zjištěn žádný majetek povinné v České republice. Nejvyšší soud proto v souladu se závěry formulovanými v usnesení velkého senátu občanskoprávního a obchodního kolegia ze dne 12. září 2012, sp. zn. 31 Nd 200/2012, uveřejněném pod číslem 4/2013 Sbírky soudních rozhodnutí a stanovisek, a při respektování zásady hospodárnosti řízení rozhodl podle ustanovení § 11 odst. 3 o. s. ř. tak, že jako místně příslušný soud v dané věci určil Okresní soud v Chomutově, u kterého bylo řízení zahájeno.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 31. října 2017
+JUDr. Jiří Zavázal
+předseda senátu
