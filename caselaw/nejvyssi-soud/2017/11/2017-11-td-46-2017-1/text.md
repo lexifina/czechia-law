@@ -1,0 +1,14 @@
+11 Td 46/2017-6
+U S N E S E N Í
+Nejvyšší soud v trestní věci obviněného V. H. vedené u Krajského soudu v Ostravě pod sp. zn. 67 T 19/2017 rozhodl v neveřejném zasedání konaném dne 1. 11. 2017 o příslušnosti soudu t a k t o :
+Podle § 24 odst. 1 věty třetí tr. ř. s e trestní věc obviněného V. H. p o s t u p u j e Vrchnímu soudu v Olomouci k rozhodnutí o příslušnosti soudu.
+O d ů v o d n ě n í :
+Dne 29. 9. 2017 byl Krajskému soudu v Ostravě postoupen z Krajského soudu v Brně tamní spis, sp. zn. 11 T 16/2017, týkající se uznání rozsudku Krajského soudu v St. Pölten ze dne 22. 10. 2015, sp. zn. 36 Hv 116/14m, jakožto soudu příslušnému podle § 301 odst. 1 zákona č. 104/2013 Sb., o mezinárodní justiční spolupráci ve věcech trestních, ve znění pozdějších předpisů (dále jen ,,ZMJS“). Svůj postup však Krajský soud v Brně blíže nezdůvodnil.
+Krajský soud v Ostravě následně lustrací zjistil, že obviněný V. H. je od 27. 2. 2017 ve výkonu trestu odnětí svobody ve Věznici Kuřim, přičemž plánovaný konec výkonu trestu je 27. 4. 2022 (č. l. 44). Je tak zřejmé, že obviněný V. H. se zdržuje v obvodu Krajského soudu v Brně, v jehož obvodu se Věznice Kuřim nachází. Příslušný k projednání věci je tedy Krajský soud v Brně a s ohledem na tyto skutečnosti Krajský soud v Ostravě předložil předmětnou věc k rozhodnutí o příslušnosti Nejvyššímu soudu.
+Nejvyšší soud poté zhodnotil předloženou věc a dospěl k závěru, že ve vztahu ke Krajskému soudu v Ostravě a Krajskému soudu v Brně není soudem nejblíže společně nadřízeným ve smyslu § 24 tr. ř. V této souvislosti pak nutno připomenout, že rozhodnutí podle § 24 tr. ř. činí vrchní soud, jde- li o rozhodnutí o příslušnosti soudu, kdy je namítána okresním soudem příslušnost jiného okresního soudu v obvodu jiného krajského soudu nebo kdy je namítána krajským soudem příslušnost jiného krajského soudu v obvodu téhož vrchního soudu, anebo kdy je namítána okresním soudem příslušnost krajského soudu v obvodu téhož vrchního soudu, či kdy je namítána krajským soudem příslušnost okresního soudu v obvodu téhož vrchního soudu (srov. Šámal, P. a kol. Trestní řád I. § 1 až 156. Komentář. 7. Vydání. Praha: C. H. Beck, 2013, s. 331). Je tak zřejmé, že rozhodnutí o příslušnosti soudu v daném případě spadá do kompetence Vrchního soudu v Olomouci.
+Z dikce § 24 odst. 1 věty třetí tr. ř. pak vyplývá, že není-li soud, jemuž byla věc předložena k rozhodnutí, nadřízen soudu podle zákona příslušnému, postoupí věc k rozhodnutí o příslušnosti tomu soudu, který je společně nadřízen soudu věc předkládajícímu a soudu podle zákona příslušnému.
+Z těchto důvodů bylo ve sporu o příslušnost soudu podle § 24 odst. 1 věty třetí tr. ř. rozhodnuto, jak je ve výroku tohoto usnesení uvedeno.
+P o u č e n í : Proti tomuto usnesení není stížnost přípustná.
+V Brně dne 1. 11. 2017
+JUDr. Stanislav Rizman
+předseda senátu
