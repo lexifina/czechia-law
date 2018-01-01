@@ -1,0 +1,3231 @@
+---
+citace: "Obecně závazná vyhláška hlavního města Prahy č. 23/2017"
+nazev: "Obecně závazná vyhláška, kterou se mění obecně závazná vyhláška č. 5/2011 Sb. hl. m. Prahy, o místním poplatku za užívání veřejného prostranství, ve znění pozdějších předpisů"
+druh: "Obecně závazná vyhláška"
+cislo: "23/2017"
+vydavatel: "Hlavní město Praha"
+ico: "00064581"
+kraj: "Hlavní město Praha"
+zmocneni: ["zákon č. 565/1990 Sb., o místních poplatcích - § 14 - za užívání veřejného prostranství"]
+oblast: ["místní poplatek za užívání veřejného prostranství"]
+vydano: "2017-12-14"
+vyveseno: "2017-12-15"
+zverejneno_ve_sbirce: "2022-09-12"
+ucinnost: "2018-01-01"
+zpusob_zverejneni: "dle přechodného ustanovení (zákon č. 35/2021 Sb., § 9)"
+sppsu_id: "SPPDVVHKBUF636QE"
+verze: "1"
+url: "https://sbirkapp.gov.cz/detail/SPPDVVHKBUF636QE"
+text_url: "https://sbirkapp.gov.cz/detail/SPPDVVHKBUF636QE/text"
+soubor: "vyhlaska-c-23.pdf"
+soubor_sha256: "8c0e600fbc753fd9ca17a5a6a347fe092047446f53550271f41a4f2d45e2f2f3"
+ziskani_textu: "pdf-text"
+---
+
+# Obecně závazná vyhláška, kterou se mění obecně závazná vyhláška č. 5/2011 Sb. hl. m. Prahy, o místním poplatku za užívání veřejného prostranství, ve znění pozdějších předpisů
+
+23. OBECNĚ ZÁVAZNÁ VYHLÁŠKA,
+
+kterou se mění obecně závazná vyhláška č. 5/2011 Sb. hl. m. Prahy, o místním poplatku za užívání veřejného prostranství, ve znění pozdějších
+
+předpisů
+
+Zastupitelstvo hlavního města Prahy se usneslo dne 14. 12. 2017 vydat podle § 44 odst. 3 písm. d) zákona č. 131/2000 Sb., o hlavním městě Praze, a § 14 odst. 2 zákona č. 565/1990 Sb., o místních poplatcích, ve znění zákona č. 320/2002 Sb. a zákona č. 281/2009 Sb., tuto obecně závaznou vyhlášku:
+
+Čl. I Obecně závazná vyhláška č. 5/2011 Sb. hl. m. Prahy, o místním poplatku za užívání veřejného prostranství, ve znění obecně závazné vyhlášky č. 22/2011 Sb. hl. m. Prahy, obecně závazné vyhlášky č. 17/2013 Sb. hl. m. Prahy a obecně závazné vyhlášky č. 2/2016 Sb. hl. m. Prahy, se mění takto:
+
+1. V § 2 odst. 1 písm. d) se částka „Kč 50“ nahrazuje částkou „Kč 100“. 2. V § 2 odst. 1 písm. f) se částka „Kč 5“ nahrazuje částkou „Kč 10“.
+
+3. V § 6 odst. 1 písmeno f) zní: „sportovních akcí, na jejichž pořádání poskytuje hlavní město Praha nebo městská část hlavního města Prahy poplatníkovi finanční prostředky.“. 4. Příloha č. 1 zní: „Příloha č. 1 k obecně závazné vyhlášce č. 5/2011 Sb. hl. m. Prahy
+
+MĚSTSKÁ ČÁST PRAHA 1 1. § 2 odst. 1 písm. c) bod 1 vyhlášky a) Kč 60 KARLOVA KŘIŽOVNICKÉ NÁMĚSTÍ MALÉ NÁMĚSTÍ
+
+NA MŮSTKU NA PŘÍKOPĚ PAŘÍŽSKÁ
+
+STAROMĚSTSKÉ NÁMĚSTÍ VÁCLAVSKÉ NÁMĚSTÍ
+
+Malostranská – stanice metra trasy A, vyvýšený prostor před proskleným vestibulem stanice metra po celé délce vestibulu – č. parc. 120, 1014/1 v k. ú. Malá Strana; Muzeum – stanice metra trasy C, A – podchod, včetně všech přístupových cest do podchodu – č. parc. 2/4, 2245/1, 2306/1,  2306/7, 2306/8, 2306/9, 2523/6 v k. ú. Nové Město; Můstek – stanice metra – střed VÁCLAVSKÉHO NÁM. (trasy A, B) - podchod, včetně všech přístupových cest do podchodu – č. parc. 42/1, 574, 626, 627, 2064, 2306/1, 2306/2, 2306/5, 2306/11, 2306/12, 2306/13 v k. ú. Nové Město;
+
+2
+
+Můstek – stanice metra – dolní část VÁCLAVSKÉHO NÁM. (trasy A, B) - podchod, včetně všech přístupových cest do podchodu – č. parc. 475, 483, 484 v k. ú. Staré Město a č. parc. 582, 583, 608, 610/2, 2306/1 v k. ú. Nové Město; Můstek – stanice metra trasy B - JUNGMANNOVO NÁM. - podchod, včetně všech přístupových cest do podchodu – č. parc. 348 a 467 v k. ú. Staré Město, č. parc. 2378/2, 2386/1,  2386/3 v k. ú. Nové Město; Nám. Republiky – stanice metra trasy B - podchod, včetně všech přístupových cest do podchodu – č. parc. 1072/2 v k. ú. Staré Město, č. parc. 2372/1, 2372/2, 2372/3 v k. ú. Nové Město; Nám. Republiky – stanice metra trasy B – Masarykovo nádraží - podchod, včetně všech přístupových cest do podchodu – č. parc. 484/7, 484/13, 2334/1, 2334/2, 2334/3 v k. ú. Nové Město; Národní – stanice metra trasy B – prostranství před vstupem do stanice metra – č. parc. 724/1 v k. ú. Nové Město; Staroměstská – stanice metra trasy A – podchod včetně všech přístupových cest do podchodu – č. parc. 59 a 42 v k. ú. Staré Město a č. parc. 115/2 v k. ú. Josefov; b) Kč 50 CELETNÁ DRAŽICKÉHO
+
+NÁMĚSTÍ 28. ŘÍJNA HRADČANSKÉ
+
+NÁMĚSTÍ
+
+KARLŮV MOST MAISELOVA MALOSTRANSKÉ
+
+NÁMĚSTÍ MELANTRICHOVA MOSTECKÁ
+
+NA KAMPĚ NERUDOVA SEMINÁŘSKÁ ŽELEZNÁ
+
+c) Kč 15 ANENSKÁ ANENSKÉ NÁM. ANEŽSKÁ BARTOLOMĚJSKÁ BARVÍŘSKÁ BENEDIKTSKÁ BESEDNÍ BÍLKOVA BISKUPSKÁ BISKUPSKÝ DVŮR BOLZANOVA BORŠOV BŘETISLAVOVA ČELAKOVSKÉHO
+
+SADY – parc. č. 2519 v k. ú. Nové Město ČERNÁ ČERNÍNSKÁ DISKAŘSKÁ DIVADELNÍ DLABAČOV ELIŠKY
+
+KRÁSNOHORSKÉ
+
+GOGOLOVA HARANTOVA HAŠTALSKÁ HAVELSKÁ ULIČKA HELLICHOVA HELMOVA HLAVSOVA HOLBOVA HRADEBNÍ HROZNOVÁ CHARVÁTOVA CHOTKOVA JÁNSKÁ JÁNSKÝ VRŠEK JELENÍ JIŘÍHO ČERVENÉHO K HAŠTALU KANOVNICKÁ KAPUCÍNSKÁ KARLOVO NÁM. KAROLÍNY SVĚTLÉ KEPLEROVA KLÁŠTERSKÁ
+
+KLIMENTSKÁ KONVIKTSKÁ KOSÁRKOVO
+
+NÁBŘEŽÍ KRAKOVSKÁ KRÁLODVORSKÁ KROCÍNOVA LANNOVA LAZARSKÁ LEGEROVA LODECKÁ LODNÍ MLÝNY MAGDALENY
+
+RETTIGOVÉ MALÁ KLÁŠTERNÍ MASNÁ MEZIBRANSKÁ MLYNÁŘSKÁ NA BAŠTĚ SV.
+
+TOMÁŠE NA FLORENCI NA NÁSPU NA REJDIŠTI
+
+3
+
+NA STRUZE NA ZÁBRADLÍ NÁM. CURIEOVÝCH NAVRÁTILOVA NEBOVIDSKÁ NEKÁZANKA NOVÉ MLÝNY NOVOMLÝNSKÁ NOVÝ SVĚT OLIVOVA OPATOVICKÁ OSTROVNÍ PELCLOVA PETRSKÁ PETRSKÉ NÁM. POHOŘELEC POLITICKÝCH VĚZŇŮ PRŮCHODNÍ PŘÍČNÁ PŠTROSSOVA PURKYŇOVA PŮTOVA RŮŽOVÁ
+
+ŘÁSNOVKA ŘEZNICKÁ SAMCOVA SENOVÁŽNÉ NÁM. SOUKENICKÁ STÁRKOVA STRAHOVSKÁ STŘÍBRNÁ ŠEŘÍKOVÁ ŠÍTKOVA ŠKOLSKÁ ŠPORKOVA TEMPLOVÁ TĚŠNOV TRUHLÁŘSKÁ U BRUSKÝCH
+
+KASÁREN U BRUSNICE U BULHARA U DOBŘENSKÝCH U KASÁREN U MILOSRDNÝCH
+
+U NEMOCENSKÉ
+
+POJIŠŤOVNY U OBECNÍHO DVORA U PLOVÁRNY U PŮJČOVNY U STARÉ ŠKOLY U ZLATÉ STUDNĚ U ŽELEZNÉ LÁVKY V CÍPU V JIRCHÁŘÍCH V KOTCÍCH VE STÍNADLECH VELKOPŘEVORSKÉ
+
+NÁM. VOJTĚŠSKÁ VORŠILSKÁ WASHINGTONOVA WILSONOVA ZA HAŠTALEM ZLATÁ ZLATNICKÁ ŽITNÁ
+
+Náplavka ul. NA FRANTIŠKU, parc. č. 1006 v k. ú. Staré Město; Náplavka u DVOŘÁKOVA NÁBŘEŽÍ, parc. č. 1006 v k. ú. Staré Město; Náplavka u MASARYKOVA NÁBŘEŽÍ, parc. č. 2421/2 v k. ú. Nové Město; Náplavka u NÁBŘEŽÍ L. SVOBODY, parc. č. 2366 v k. ú. Nové Město; d) Kč 40 umístění prodejního zařízení se sortimentem květiny, tisk a tabák – všechna veřejná
+
+prostranství, mimo lokality uvedené v písmenu c); e) Kč 5 umístění zařízení před provozovnou květiny a knihy (antikvariát) – všechna veřejná  prostranství; f) Kč 40 všechna veřejná prostranství neuvedená v písmenech a), b), c), d), e) a plocha parku
+
+za Staroměstskou radnicí na STAROMĚSTSKÉM NÁMĚSTÍ – č. parc.  1/2 v k. ú. Staré Město; 2. § 2 odst. 1 písm. i) vyhlášky a) Kč 10 všechna veřejná prostranství, mimo kulturní akce uvedené v písmenu b); b) akce, na které hlavní město Praha nebo městská část Praha 1 poskytuje finanční
+
+prostředky, poplatek se nevybírá, všechna veřejná prostranství; 3. § 2 odst. 1 písm. j) vyhlášky Kč 10 mimo akce uvedené v § 6 odst. 1 písm. f) vyhlášky, všechna veřejná prostranství.
+
+4
+
+MĚSTSKÁ ČÁST PRAHA 2 1. § 2 odst. 1 písm. b) vyhlášky Kč 30 na těchto ulicích a náměstích: ALBERTOV AMERICKÁ ANNY LETENSKÉ APOLINÁŘSKÁ B. NĚMCOVÉ BALBÍNOVA BELGICKÁ BENÁTSKÁ BLANICKÁ BOTIČSKÁ BRUSELSKÁ BUDEČSKÁ ČELAKOVSKÉHO SADY ČERCHOVSKÁ ČERMÁKOVA ČIKLOVA DITTRICHOVA DŘEVNÁ FRIČOVA GORAZDOVA HÁLKOVA HELÉNSKÁ HLAVOVA HORSKÁ HOSTIVÍTOVA CHODSKÁ CHOPINOVA IBSENOVA JANA MASARYKA JENŠTEJNSKÁ K ROTUNDĚ KATEŘINSKÁ KE KARLOVU KLADSKÁ KOPERNÍKOVA KOUBKOVA KORČÁKOVA KRKONOŠSKÁ KROKOVA KUNĚTICKÁ LADOVA LAZARSKÁ LIBUŠINA LICHNICKÁ
+
+LÍPOVÁ LONDÝNSKÁ LUBLAŇSKÁ LUMÍROVA LUŽICKÁ MÁCHOVA MALÁ ŠTĚPÁNSKÁ MÁNESOVA MELOUNOVÁ MIKOVCOVA MORAVSKÁ MYSLÍKOVA NA BOJIŠTI NA DĚKANCE NA FOLIMANCE NA HRÁDKU NA HROBCI NA KLEOVCE NA KOZAČCE NA LIBUŠINCE NA MORÁNI NA POŘÍČNÍM PRÁVU NA RYBNÍČKU NA SLOVANECH NA SMETANCE NA ŠVIHANCE NA VÝTONI NA ZBOŘENCI NA ZDERAZE NAD PETRUSKOU NÁM. JIŘÍHO Z PODĚBRAD NÁM. POD EMAUZY NÁPLAVNÍ NEKLANOVA NEZAMYSLOVA ODBORŮ OLDŘICHOVA OMLADINÁŘŮ PERUCKÁ PLAVECKÁ POD KARLOVEM POD NUSELSKÝMI SCHODY POD SLOVANY
+
+POD VĚTROVEM POD ZVONAŘKOU PODSKALSKÁ POLSKÁ PŘEMYSLOVA REJSKOVA RUBEŠOVA RYBALKOVA ŘÍMSKÁ SALMOVSKÁ SARAJEVSKÁ SÁZAVSKÁ SLAVÍKOVA SLAVOJOVA SLOVENSKÁ SOBĚSLAVOVA SPÁLENÁ SPYTIHNĚVOVA STUDNIČKOVA SVATOPLUKOVA ŠAFAŘÍKOVA ŠKRÉTOVA ŠMILOVSKÉHO ŠPANĚLSKÁ ŠTĚPÁNSKÁ ŠTULCOVA ŠUBERTOVA ŠUMAVSKÁ TROJANOVA TROJICKÁ TŘEBÍZSKÉHO TYRŠOVA U HAVLÍČKOVÝCH SADŮ U KANÁLKY U NEMOCNICE U TRŽNICE U ZVONAŘKY URUGUAYSKÁ V PEVNOSTI V TŮNÍCH VÁCLAVSKÁ VARŠAVSKÁ VINAŘICKÉHO VINIČNÁ
+
+5
+
+VNISLAVOVA VOCELOVA VODIČKOVA
+
+VOTOČKOVA VOZOVÁ WENZIGOVA
+
+ZÁHOŘANSKÉHO ZÁHŘEBSKÁ
+
+v těchto parcích: ČELAKOVSKÉHO SADY SADY SVATOPLUKA ČECHA VYŠEHRADSKÉ SADY ZÍTKOVY SADY FOLIMANKA RIEGROVY SADY
+
+NÁM. MÍRU LUMÍROVY SADY TYLOVO NÁM. park KARLOVO NÁM. FÜGNEROVO NÁM. JIRÁSKOVO NÁM. KARLOVSKÉ PŘEDMOSTÍ
+
+NÁM. I. P. PAVLOVA OSTRČILOVO NÁM. PALACKÉHO NÁM. PERUCKÁ STRÁŇ SADY BRATŘÍ ČAPKŮ VÝTOŇ POD SLOVANY NA KOZAČCE 2. § 2 odst. 1 písm. c) vyhlášky Kč 10 restaurační zahrádky sloužící k občerstvení – všechna veřejná prostranství; 3. § 2 odst. 1 písm. c) bod 1 vyhlášky Kč 25 pro farmářské, vánoční, velikonoční a bleší trhy pořádané na TYLOVĚ NÁM., NÁM. MÍRU, PALACKÉHO NÁM., KARLOVĚ NÁM. a náplavce u RAŠÍNOVA NÁBŘ.; 4. § 2 odst. 1 písm. d) vyhlášky Kč 10 všechna veřejná prostranství; 5. § 2 odst. 1 písm. f) vyhlášky Kč 5 všechna veřejná prostranství; 6. § 2 odst. 1 písm. i) vyhlášky poplatek se nevybírá; 7. § 2 odst. 1 písm. j) vyhlášky poplatek se nevybírá; 8. § 2 odst. 1 písm. k) vyhlášky pro organizace zřízené nebo založené městskou částí Praha 2 - poplatek se nevybírá, všechna veřejná prostranství; 9. § 2 odst. 1 písm. n) vyhlášky volební akce v době volební kampaně - poplatek se nevybírá, všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA 3
+
+1.  § 2 odst. 1 písm. b) vyhlášky a) Kč 20 ulice; b) Kč 10 ostatní veřejná prostranství; 2.  § 2 odst. 1 písm. c) bod 1 vyhlášky Kč 10 všechna veřejná prostranství.
+
+6
+
+MĚSTSKÁ ČÁST PRAHA 4 1. § 2 odst. 1 písm. b) vyhlášky a) Kč 30 reklamní zařízení do 1 m2 všechna veřejná prostranství; b) Kč 50 reklamní zařízení od 1 do 15 m2 všechna veřejná prostranství; c) Kč 100 reklamní zařízení nad 15 m2 všechna veřejná prostranství; 2. § 2 odst. 1 písm. c) vyhlášky I. zóna Kč 25 Kačerov parc. č. 2333/5, 3256/7 v k. ú. Krč; BUDĚJOVICKÁ, ANTALA STAŠKA, NA PANKRÁCI, NA STRŽI, HVĚZDOVA, DĚKANSKÁ VINICE I, NÁM. BRATŘÍ SYNKŮ, DVORECKÁ; II. zóna Kč 15 KLOBOUČNICKÁ, NUSELSKÁ, ŠTÚROVA, THOMAYEROVA, VÍDEŇSKÁ, K PODJEZDU, TÁBORSKÁ, OTAKAROVA; III. zóna Kč 10 ostatní veřejná prostranství nezařazená do I. a II. zóny; IV. zóna Kč 25 farmářské, vánoční a velikonoční trhy pořádané před OC ARKÁDY na Pankráci a na ROZTYLSKÉM NÁMĚSTÍ na Spořilově; 3. § 2 odst. 1 písm. e) vyhlášky Kč 2 všechna veřejná prostranství; 4. § 2 odst. 1 písm. i) vyhlášky kulturní akce, na které hlavní město Praha nebo městská část Praha 4 poskytuje finanční prostředky – poplatek se nevybírá, všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA 5
+
+1.§ 2 odst. 1 písm. c) bod 1 vyhlášky Kč 80 pěší zóna Anděl (oblast vymezena příslušným dopravním značením IZ 6a a IZ 6b)
+
+a prostor před OC Nový Smíchov v ul. Plzeňská a prostor před obchodním centrem Zlatý Anděl v ul. Nádražní a dále ul. VÍTĚZNÁ a ul. ÚJEZD; Kč 40 při umístění restaurační zahrádky sloužící k občerstvení, a to i samostatně umístěné
+
+a prodejního zařízení u příležitosti konání farmářských, velikonočních, vánočních a dalších tematických trhů v souladu s platným zněním tržního řádu na Pěší zóně Anděl (oblast vymezena příslušným dopravním značením IZ 6a a IZ 6b) a prostoru před OC Nový Smíchov v ul. Plzeňská a prostoru před obchodním centrem Zlatý Anděl v ul. Nádražní a dále ul. VÍTĚZNÁ a ul. ÚJEZD; Kč 30 na prostranství ohraničeném obrubníkem přilehlého chodníku ul. MOULÍKOVA,
+
+NÁDRAŽNÍ, terminálu MHD, nástupiště železniční stanice Praha - Smíchov, lávkou přes železniční trať, ul. RADLICKÁ, PLZEŇSKÁ, KARTOUZSKÁ, DRTINOVA, HOLEČKOVA, NÁM. KINSKÝCH, ul. ROŠICKÝCH, hranicí mezi městskou částí Praha 1 a městskou částí Praha 5 a levého břehu Vltavy; s výjimkou Pěší zóny Anděl (oblastí vymezenou příslušným dopravním značením IZ 6a a IZ 6b) a prostorem před OC Nový Smíchov v ul. Plzeňská a prostorem před obchodním centrem Zlatý
+
+7
+
+Anděl v ul. Nádražní a dále ul. VÍTĚZNÁ, ul. ÚJEZD a záplavové území náplavka Hořejší nábřeží; Kč 15 při umístění prodejních zařízení u příležitosti konání farmářských, velikonočních,
+
+vánočních a dalších tematických trhů v souladu s platným zněním tržního řádu na NÁM. 14. ŘÍJNA (parc. č. 19/2, 3/4 a 2974/2 všechny k. ú. Smíchov); Kč 10 v záplavovém území náplavka Hořejší nábřeží; Kč 15 ostatní veřejná prostranství; zařízení sloužící pro poskytování prodeje, umístěná při akcích, na které hlavní město Praha nebo městská část Praha 5 poskytuje finanční prostředky – poplatek se nevybírá, všechna veřejná prostranství; 2.§ 2 odst. 1 písm. i) vyhlášky kulturní akce, na které hlavní město Praha nebo městská část Praha 5 poskytuje finanční prostředky nebo pořádané příspěvkovými organizacemi zřízenými městskou částí Praha 5 – poplatek se nevybírá, všechna veřejná prostranství; 3.§ 2 odst. 1 písm. k) vyhlášky Kč 1 v záplavovém území náplavka Hořejší nábřeží; je-li poplatníkem organizace zřízená
+
+nebo založená městskou částí Praha 5, poplatek se nevybírá, všechna veřejná prostranství; 4.§ 2 odst. 1 písm. n) vyhlášky volební kampaně, za účelem prezentace volebních kandidátů - poplatek se nevybírá, všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA 6 1. § 2 odst. 1 písm. a) vyhlášky Kč 10 za umístění stavebního zařízení u havárií inženýrských sítí, zejména energetických, telekomunikačních, tepelných a jiných vedení a pro skládky materiálů atd.; 2. § 2 odst. 1 písm. b) vyhlášky a) Kč 50 reklamní zařízení do 1 m2; b) Kč 100 reklamní zařízení nad 1 m2;
+
+3. § 2 odst. 1 písm. c) bod 1 vyhlášky a) Kč 5 za umístění restaurační zahrádky sloužící k občerstvení, a to i samostatně
+
+umístěné, všechna veřejná prostranství, pokud budou splněny následující podmínky: 1. zahrádka bude vhodně prostorově vymezena (např. podlahou, pódiem apod.), pokud neurčí orgán památkové péče jinak; 2. materiálové řešení zahrádky bude preferovat přírodní materiály s vyloučením použití plastových židlí a stolků; 3. provoz zahrádky musí být ukončen do 22.00 hod.; b) Kč 30 všechna veřejná prostranství; c) Kč 1 za umístění prodejního zařízení se sortimentem živé květiny; d) umístění prodejního zařízení v rámci akce, na kterou hlavní město Praha nebo městská
+
+část Praha 6 poskytuje finanční prostředky – poplatek se nevybírá, všechna veřejná prostranství;
+
+8
+
+4. § 2 odst. 1 písm. i) vyhlášky kulturní akce, na které hlavní město Praha nebo městská část Praha 6 poskytuje finanční prostředky – poplatek se nevybírá, všechna veřejná prostranství; 5. § 2 odst. 1 písm. n) vyhlášky volební kampaně, za účelem prezentace volebních kandidátů – poplatek se nevybírá, všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA 7
+
+1. § 2 odst. 1 písm. b) vyhlášky a) Kč 10 reklamní zařízení přenosná do 1 m2; b) Kč 100 reklamní zařízení ostatní;
+
+2. § 2 odst. 1 písm. c) bod 1 vyhlášky Kč 10 všechna veřejná prostranství; 3. § 2 odst. 1 písm. c) vyhlášky umístění prodejního zařízení v rámci akce, na kterou hlavní město Praha nebo městská část Praha 7 poskytuje finanční prostředky - poplatek se nevybírá, všechna veřejná prostranství; 4. § 2 odst. 1 písm. e) vyhlášky Kč 20 000 paušální částka za každý i započatý měsíc záboru veřejného prostranství; 5. § 2 odst. 1 písm. i) vyhlášky kulturní akce, na kterou hlavní město Praha nebo městská část Praha 7 poskytuje finanční prostředky - poplatek se nevybírá, všechna veřejná prostranství; 6.  § 2 odst. 1 písm. k) vyhlášky poplatek se nevybírá, všechna veřejná prostranství, při vyhrazení trvalého parkovacího místa pro motorová vozidla: - vozům zdravotnických a lékařských zařízení na území městské části Praha 7, pro potřeby parkování sanitních vozů a vozů pacientů; - vozům lékařů s trvalým bydlištěm v městské části Praha 7, kteří k výkonu svého povolání a k záchraně lidského života potřebují zjednodušený přístup ke svému vozidlu; - speciálně upraveným vozům, které slouží k výuce autoškoly pro těžce handicapované spoluobčany; - vozům zajišťujícím pečovatelské služby pro občany hlavního města Prahy; 7. § 2 odst. 1 písm. n) vyhlášky volební kampaně, za účelem prezentace volebních kandidátů - poplatek se nevybírá, všechna veřejná prostranství.
+
+9
+
+MĚSTSKÁ ČÁST PRAHA 8 1.  § 2 odst. 1 písm. c) bod 1 vyhlášky a) Kč 50 v ul. SOKOLOVSKÁ - lokalita FLORENC, prostor vymezený ul. KE ŠTVANICI a SOKOLOVSKÁ k rozhraní domů č. p. 69 a 45 včetně průchodu do ul. ZA POŘÍČSKOU BRANOU č. p. 26, Karlín; b) Kč 40 v areálu Ládví při ulici STŘELNIČNÁ stanice metra Florenc, Invalidovna,
+
+Křižíkova, Palmovka, Kobylisy a Ládví, včetně vestibulu, východu, podchodu a přístupových chodeb, na nárožích ul. ČIMICKÁ a K LÁDVÍ, HORŇÁTECKÁ a PŘEMYŠLENSKÁ, PRVNÍHO PLUKU a KŘIŽÍKOVA při Negrelliho viaduktu, na nárožích ul. SOKOLOVSKÁ a KARLÍNSKÉHO NÁM., v ul. ČIMICKÁ, ČUMPELÍKOVA, KE STÍRCE, KE ŠTVANICI – s výjimkou úseku mezi ul. KŘIŽÍKOVA a ZA POŘÍČSKOU BRANOU, v ul. KLAPKOVA, LODŽSKÁ, MAZURSKÁ, NA HRÁZI, nástupiště autobusového nádraží MHD Palmovka při ul. NA ŽERTVÁCH, v ul. BUDÍNOVA, NOVÁKOVÝCH, ĎÁBLICKÁ, SOKOLOVSKÁ, STŘELNIČNÁ, TANVALDSKÁ, V HOLEŠOVIČKÁCH, VOSMÍKOVÝCH, NA KORÁBĚ a ZENKLOVA - s výjimkou úseku mezi ul. NA HRÁZI a U SYNAGOGY, v ul. ZHOŘELECKÁ, POD SÍDLIŠTĚM, BUREŠOVA, KYSELOVA, plocha při ul. LODŽSKÁ, parc. č. 1307/1 v k. ú. Troja; c) Kč 30 lokalita na Palmovce v ul. NA ŽERTVÁCH - plocha vymezená ul. ZENKLOVA
+
+a NOVÁKOVÝCH k pomyslné spojnici ul. LUDMILINA a HEJDUKOVA (pěší zóna), LUDMILINA; d) Kč 20 v ul. CHLUMČANSKÉHO včetně nároží s ul. BUDÍNOVA, na nároží
+
+ul. ZENKLOVA a KOŽELUŽSKÁ, v ul. ZENKLOVA - mezi ul. NA HRÁZI a U SYNAGOGY, v ul. VOJENOVA, na spojnici mezi ul. LIBEŇSKÝ MOST a ul. ZENKLOVA, parc. č. 3952/2 v k. ú. Libeň, na spojnici mezi ul. ZENKLOVA a LIBEŇSKÝ MOST, parc. č. 3952/17, 4014/6, 4014/24 v k. ú. Libeň, v ul. ČIMICKÁ - u zastávky MHD BUS Draháň, v ul. K LÁDVÍ, KE KOUPALIŠTI, KŘIVENICKÁ, TROUSILOVA a ŽERNOSECKÁ, VRŠNÍ, plocha u stanice metra trasy B Invalidovna č. parc. 693/75, 693/163, 693/186 v k. ú. Karlín; e) Kč 10 na ELZNICOVĚ NÁM. a NÁM. DR. VÁCLAVA HOLÉHO, v ul. BŘEZINOVA, KE ŠTVANICI - úsek mezi ul. KŘIŽÍKOVA a ZA POŘÍČSKOU BRANOU a úsek od ul. SOKOLOVSKÉ, k ul. POBŘEŽNÍ, BOHNICKÁ, KREJČÍHO, KŘIŽÍKOVA, MOLÁKOVA a NA ŽERTVÁCH - s výjimkou plochy od ul. ZENKLOVA k pomyslné spojnici ul. HEYDUKOVA a LUDMILINA (pěší zóna) a ploch nástupišť autobusového nádraží MHD Palmovka, v ul. KOŽELUŽSKÁ, PIVOVARNICKÁ, PRIMÁTORSKÁ, PROSECKÁ, PRVNÍHO PLUKU - s výjimkou nároží s ul. KŘIŽÍKOVA při Negrelliho viaduktu, v ul. ŘEŠOVSKÁ, ŠALDOVA, TAUSSIGOVA, THÁMOVA, U METEORU, VÍTKOVA a ZELENOHORSKÁ, KARLÍNSKÉ NÁM., SVĚTOVA, NA POŘÍČÍ, plocha vymezená ul. NA POŘÍČÍ, NA FLORENCI, KŘIŽÍKOVA, KE ŠTVANICI (před Muzeem hlavního města Prahy), plocha mezi ul. ZENKLOVA a SOKOLOVSKÁ, č. parc. 4014/2 v k. ú. Libeň, plocha při ul. ZENKLOVA, č. parc. 3612 v k. ú. Libeň; f) Kč 10 na celém území městské části při umístění restaurační zahrádky sloužící
+
+k občerstvení, a to i samostatně umístěné;
+
+10
+
+g) Kč 15 při pořádání trhů (např. farmářské, vánoční, velikonoční), všechna veřejná
+
+prostranství; 2.  § 2 odst. 1 písm. d) vyhlášky Kč 10 všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA 9 1.  § 2 odst. 1 vyhlášky u akcí a umístění zařízení, na které městská část Praha 9 poskytuje finanční prostředky – poplatek se nevybírá, všechna veřejná prostranství; 2.  § 2 odst. 1 písm. a) vyhlášky Kč 10 za umístění stavebního zařízení u havárií inženýrských sítí, zejména energetických,
+
+telekomunikačních, tepelných a jiných vedení a pro skládky materiálů atd., všechna veřejná prostranství; 3.  § 2 odst. 1 písm. b) vyhlášky Kč 10 všechna veřejná prostranství; 4.  § 2 odst. 1 písm. c) bod 1 vyhlášky Kč  25  stanice metra Vysočanská a prostranství u stanice metra Vysočanská č. parc. 297/1
+
+a 1925/1, 118/1 v k. ú. Vysočany; Kč  30 parcely okolo metra stanic C Střížkov a Prosek parc. č. 497/1, 500/105, 500/101,
+
+833/3 v k. ú. Střížkov – v úseku od ul. VYSOČANSKÁ po ul. JABLONECKOU - v úseku od ul. VYSOČANSKÁ po ul. JABLONECKOU; část 1220 v úseku od ul. PROSECKÁ po ul. LITOMĚŘICKÁ, 643/12, 643/13, 643/17, 643/18, v k. ú. Prosek; Kč 20  ul. VYSOČANSKÁ parc. č. 1220 v k. ú. Prosek – v úseku zastávek MHD
+
+„Sídliště Prosek“ a č. parc. 500/21 v k. ú. Střížkov a 640/9, 640/36, k. ú. Prosek; Kč 15  stanice metra Českomoravská, ul. DRAHOBEJLOVA a prostranství u stanice   metra Českomoravská č. parc. 3278/1, 3278/2, 3278/3, 3278/4, 3283/1, část   3911/3 v úseku od ul. K MORAVINĚ po ul. KOVÁŘSKÁ v k. ú. Libeň; Kč 15  ul. PROSECKÁ parc. č. 1187/1, 640/34, 646/3 v k. ú. Prosek a parc. č. 1939/1
+
+v k. ú. Vysočany; Kč 15 ul. KOLBENOVA, K MORÁVINĚ, LOVOSICKÁ, POD PEKÁRNAMI, SOKOLOVSKÁ, SPOJOVACÍ, RUMBURSKÁ, TEPLICKÁ, UČŇOVSKÁ č. parc. 628/162, 628/169 v k. ú. Prosek a č. parc. 559, 560 v k. ú. Vysočany (prostor před železniční stanicí Praha - Libeň); Kč 15 ul. NOVOVYSOČANSKÁ a č. parc. 500/2 (ul. ČESKOBRODSKÁ) v k. ú. Hrdlořezy; Kč 10  ostatní veřejná prostranství;
+
+umístění restaurační zahrádky sloužící k občerstvení, a to i samostatně umístěné - poplatek se nevybírá, všechna veřejná prostranství; 5.  § 2 odst. 1 písm. d) vyhlášky Kč 0,50 všechna veřejná prostranství; 6.  § 2 odst. 1 písm. e) vyhlášky Kč 0,50 všechna veřejná prostranství;
+
+11
+
+7.  § 2 odst. 1 písm. f) vyhlášky Kč 10 všechna veřejná prostranství; 8.  § 2 odst. 1 písm. i) vyhlášky Kč 1 všechna veřejná prostranství; 9.  § 2 odst. 1 písm. j) vyhlášky Kč 1 všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA 10 1.  § 2 odst. 1 písm. b) vyhlášky Kč 10 všechna veřejná prostranství, 2.  § 2 odst. 1 písm. c) bod 1 vyhlášky Kč 70 pěší cesta od výstupu ze stanice metra Skalka ve směru k ul. GOYOVA ležící na č. parc. 3237/50 v k. ú. Strašnice, pěší cesta na ulici GOYOVA ve směru do ul. RUBENSOVA a REMBRANDTOVA ležící na č. parc. 4021/16 v k. ú. Strašnice; Kč 50 ul. STAROSTRAŠNICKÁ, u stanice metra Strašnická, č. parc. 852/2 v k. ú. Strašnice; Kč 30 prostranství u stanice metra DEPO HOSTIVAŘ, č. parc. 4058/1 v k. ú. Strašnice,
+
+KUBÁNSKÉ NÁM., ul. LITEVSKÁ, podchod a nástupní plochy autobusů stanice metra Skalka a ul. JABLOŇOVÁ před poliklinikou; Kč 20 - ostatní veřejná prostranství; - předsunutý prodej před prodejnami, místa pro nabídku zboží;
+
+Kč 10 restaurační zahrádky a příležitostný prodej sezónního zboží, všechna veřejná
+
+prostranství; 3.  § 2 odst. 1 písm. d) vyhlášky Kč 10 všechna veřejná prostranství; 4.  § 2 odst. 1 písm. i) vyhlášky kulturní akce, na jejichž pořádání poskytuje hlavní město Praha nebo městská část Praha 10 poplatníkovi finanční prostředky - poplatek se nevybírá, všechna veřejná prostranství. MĚSTSKÁ ČÁST PRAHA 11
+
+1. § 2 odst. 1 písm. a) vyhlášky Kč 1 při regeneraci panelových domů, všechna veřejná prostranství; 2. § 2 odst. 1 písm. b) vyhlášky Kč 10 na přenosná zařízení do 1 m2 - všechna veřejná prostranství; Kč 30 od 1 do 5 m2 - všechna veřejná prostranství; Kč 100 nad 5 m2 - všechna veřejná prostranství;
+
+12
+
+3. § 2 odst. 1 písm. c) bod 1 vyhlášky Kč 30 stanice metra Háje, Chodov, Opatov a Roztyly; Kč 20 prostranství u nákupních středisek, Kč 10 ostatní veřejná prostranství, Kč 10 restaurační zahrádky sloužící k občerstvení, a to i samostatně umístěné – všechna veřejná prostranství; 4. § 2 odst. 1 písm. d) vyhlášky Kč 3 všechna veřejná prostranství;
+
+5. § 2 odst. 1 písm. e) vyhlášky Kč 3 všechna veřejná prostranství; 6. § 2 odst. 1 písm. i) vyhlášky kulturní akce, na které hlavní město Praha nebo městská část Praha 11 poskytuje finanční prostředky - poplatek se nevybírá, všechna veřejná prostranství; 7. § 2 odst. 1 písm. n) vyhlášky volební akce v době volební kampaně - poplatek se nevybírá, všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA 12 1. § 2 odst. 1 písm. b) a písm. c) vyhlášky Kč 10 všechna veřejná prostranství; 2. § 2 odst. 1 písm. d) vyhlášky Kč 4 všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA 13
+
+1. § 2 odst. 1 písm. b) vyhlášky Kč 30 reklamní zařízení s reklamní plochou do 2 m2 – všechna veřejná prostranství; Kč 50 reklamní zařízení s reklamní plochou nad 2 m2 – všechna veřejná prostranství; 2. § 2 odst. 1 písm. c) vyhlášky Kč 30 mobilní prodejní zařízení - všechna veřejná prostranství; Kč 15 stabilní prodejní zařízení - všechna veřejná prostranství; Kč 10 restaurační zahrádky - všechna veřejná prostranství; Kč 20 nápojové automaty - všechna veřejná prostranství; 3. § 2 odst. 1 písm. d) vyhlášky Kč 10 všechna veřejná prostranství, 4. § 2 odst. 1 písm. e) vyhlášky Kč 2 všechna veřejná prostranství, 5. § 2 odst. 1 písm. k) vyhlášky
+
+13
+
+Kč 5 všechna veřejná prostranství, 6. § 2 odst. 1 písm. n) vyhlášky volební kampaně, za účelem prezentace volebních kandidátů - poplatek se nevybírá, všechna veřejná prostranství; 7. § 2 odst. 1 vyhlášky u akcí a umístění zařízení, na které městská část Praha 13 poskytuje finanční prostředky - poplatek se nevybírá, všechna veřejná prostranství; 8.   § 2 odst. 1 vyhlášky při umístění objektů a zařízení vybudovaných podle smlouvy, v níž se městská část Praha 13 zavázala, že tyto objekty a zařízení nebudou zatěžovány místními poplatky, poplatek se nevybírá, všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA 14
+
+1.  § 2 odst. 1 písm. b) vyhlášky Kč 10 všechna veřejná prostranství, 2.  § 2 odst. 1 písm. c) vyhlášky Kč 30   č. parc. 232/2 v k. ú. Černý most u stanice metra Černý Most, č. parc. 782/21
+
+v k. ú. Hloubětín u stanice metra Hloubětín a č. parc. 72 v k. ú. Černý most  u stanice metra Rajská zahrada; Kč 15 ul. BROUMARSKÁ, DOLEŽALOVA, KPT. STRÁNSKÉHO, GEN. JANOUŠKA, BRYKSOVA, CÍGLEROVA, ČESKOBRODSKÁ, KARDAŠOVSKÁ, KRYLOVECKÁ, MOCHOVSKÁ, OCELKOVA, PODĚBRADSKÁ, RONEŠOVA, SLÉVAČSKÁ, VAŠÁTKOVA, VYBÍRALOVA, ŽÁRSKÁ a podloubí v ul. MOCHOVSKÁ č. p. 40; Kč 10 ostatní veřejná prostranství; 3.  § 2 odst. 1 písm. d) vyhlášky Kč 10 veřejné hřiště na křižovatce ul. BRYKSOVA a OCELKOVA a plocha u vodní
+
+nádrže Aloisov u ul. POSPÍCHALOVA; Kč 2 na prostranství podél ul. BRYKSOVA č. parc. 232/7 v k. ú. Černý Most.
+
+MĚSTSKÁ ČÁST PRAHA 15
+
+1. § 2 odst. 1 písm. b), písm. c) bod 1 a písm. d) vyhlášky Kč 10 všechna veřejná prostranství, 2. § 2 odst. 1 písm. b), písm. c), písm. f), písm. h), písm. i), písm. j), písm. m) a písm. n) vyhlášky u akcí pořádaných městskou částí Praha 15 – poplatek se nevybírá, všechna veřejná prostranství; 3. § 2 odst. 1 písm. n) vyhlášky
+
+14
+
+volební kampaně za účelem prezentace politických stran a kandidátů – poplatek se nevybírá, všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA 16
+
+1.  § 2 odst. 1 písm. b) vyhlášky Kč 10 všechna veřejná prostranství, 2.  § 2 odst. 1 písm. c) bod 1 vyhlášky Kč 20 všechna veřejná prostranství, 3.  § 2 odst. 1 písm. d) vyhlášky a) Kč 10 všechna veřejná prostranství s výjimkou veřejného parkoviště u Ondřeje,
+
+č. parc. 95/1 v k. ú. Radotín; b) Kč 5 veřejné parkoviště u Ondřeje, č. parc. 95/1 v k. ú. Radotín.
+
+MĚSTSKÁ ČÁST PRAHA 17
+
+1. § 2 odst. 1 písm. a) vyhlášky Kč 3 při regeneraci panelových domů -  všechna veřejná prostranství, 2. § 2 odst. 1 písm. b) vyhlášky Kč 20 všechna veřejná prostranství, 3. § 2 odst. 1 písm. c) vyhlášky Kč 3 restaurační zahrádky sloužící k občerstvení a to i samostatně umístěné - všechna veřejná prostranství; Kč 10 ostatní způsoby užívání - všechna veřejná prostranství; 4. § 2 odst. 1 písm. e) vyhlášky Kč 1 všechna veřejná prostranství, 5. § 2 odst. 1 písm. i) vyhlášky akce, na které hlavní město Praha nebo městská část Praha 17 poskytuje finanční prostředky – poplatek se nevybírá, všechna veřejná prostranství; 6. § 2 odst. 1 písm. n) vyhlášky volební kampaně, za účelem prezentace volebních kandidátů - poplatek se nevybírá, všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA 18
+
+1. § 2 odst. 1 písm. a) vyhlášky Kč 5 všechna veřejná prostranství, 2. § 2 odst. 1 písm. b) vyhlášky Kč 10 všechna veřejná prostranství,
+
+15
+
+3. § 2 odst. 1 písm. c) vyhlášky Kč 1 všechna veřejná prostranství, 4. § 2 odst. 1 písm. m) vyhlášky Kč 5 všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA 19
+
+1. § 2 odst. 1 písm. b) vyhlášky Kč 10 reklamní zařízení s reklamní plochou do 2 m2 – všechna veřejná prostranství; Kč 70 reklamní zařízení s reklamní plochou od 2 do 15 m2 – všechna veřejná prostranství; Kč 100 reklamní zařízení s reklamní plochou nad 15 m2 – všechna veřejná prostranství; Kč 10 parc. č. 2149/1 v k. ú. Kbely; 2. § 2 odst. 1 písm. c) bod 1 vyhlášky Kč 5 restaurační zahrádky sloužící k občerstvení - všechna veřejná prostranství; Kč 20 Centrální park parc. č. 1164, 1165, 1166, 1167/1,1168/3, 1168/4, 1168/6, 2146,
+
+2154 v k. ú. Kbely, ul. ŽACLÉŘSKÁ, ŽELEZNOBRODSKÁ, volné plochy u rybníka parc. č. 2/4, 2/6 k. ú. Kbely, zahrada u Lidového domu parc. č. 868/1 v k. ú. Kbely, plocha před Lidovým domem 2068/1, prostranství mezi Billou, ul. ŽACLÉŘSKOU a ul. TAUFEROVOU; Kč 10 ostatní veřejná prostranství;
+
+3. § 2 odst. 1 písm. d) vyhlášky Kč 4 u akcí pořádaných městskou částí v Centrálním parku, při ulici ŽACLÉŘSKÁ
+
+a na prostranství vedle rybníka; Kč 10 všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA 20
+
+1. § 2 odst. 1 písm. a) vyhlášky Kč 5 všechna veřejná prostranství, 2. § 2 odst. 1 písm. b) vyhlášky Kč 10 reklamní zařízení s reklamní plochou do 1 m2, přenosné „A“ - všechna veřejná
+
+prostranství; Kč 50 reklamní zařízení s reklamní plochou nad 1 m2, pevné (s ohlášením na stavebním
+
+úřadě) – všechna veřejná prostranství; 3. § 2 odst. 1 písm. c) bod 1 vyhlášky Kč 20 všechna veřejná prostranství; Kč 10 za umístění restaurační zahrádky sloužící k občerstvení, a to i samostatně
+
+umístěné, všechna veřejná prostranství;
+
+4. § 2 odst. 1 písm. i) a j) vyhlášky akce, na které hlavní město Praha nebo městská část Praha 20 poskytuje finanční prostředky, nebo které se konají na prostranství parc. č. 1981/1, 1984, 1987/1, 1990, 1991 a 3792 v k. ú. Horní Počernice, tj. na plochách v areálu Chvalské tvrze, parc. č. 785/3,
+
+16
+
+785/4, 785/9 v k. ú. Horní Počernice, tj. v parčíku naproti Základní škole Ratibořická – poplatek se nevybírá.
+
+MĚSTSKÁ ČÁST PRAHA 21
+
+1.  § 2 odst. 1 písm. b) a d) vyhlášky Kč 10 všechna veřejná prostranství, 2.  § 2 odst. 1 písm. c) bod 1 vyhlášky Kč 15 všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA 22
+
+1. § 2 odst. 1 písm. a) vyhlášky a) za umístění stavebního zařízení pro provádění staveb a jejich změn a pro související
+
+skládky materiálu se za prvních 21 dní užívání poplatek nevybírá, všechna veřejná prostranství, pokud budou splněny následující podmínky:
+
+- investorem musí být pouze fyzická osoba nebo bytové družstvo; - jedná se pouze o stavební práce spojené s opravami stávajících objektů (např. fasády, střechy, okna), které povedou ke zlepšení vzhledu městské části Praha 22; - vlastník nemovitosti požádá minimálně 14 dnů před započetím opravy odbor dopravy Úřadu městské části Praha 22 o povolení zvláštního užívání komunikace a v případě, že stavební zařízení bude umístěno mimo komunikaci o povolení užívání veřejného prostranství; b) za umístění stavebního zařízení u havárií inženýrských sítí, zejména energetických,
+
+telekomunikačních, tepelných a jiných vedení a pro skládky materiálů atd. - poplatek se nevybírá, všechna veřejná prostranství; 2. § 2 odst. 1 písm. b), písm. c) bod 1 a písm. d) vyhlášky Kč 20 všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA-BENICE
+
+není stanovena zvláštní sazba
+
+MĚSTSKÁ ČÁST PRAHA-BĚCHOVICE
+
+§ 2 odst. 1 písm. b) vyhlášky Kč 10 všechna veřejná prostranství
+
+MĚSTSKÁ ČÁST PRAHA-BŘEZINĚVES
+
+§ 2 odst. 1 písm. b), písm. c) bod 1 a písm. d) vyhlášky Kč 10 všechna veřejná prostranství
+
+MĚSTSKÁ ČÁST PRAHA-ČAKOVICE
+
+1. § 2 odst. 1 písm. b), písm. c) bod 1 a písm. d) vyhlášky
+
+17
+
+Kč 10 všechna veřejná prostranství; 2. § 2 odst. 1 písm. i), písm. j) za užívání veřejného prostranství, které je užíváno organizacemi na akce, na které městská část Praha – Čakovice poskytuje finanční prostředky – poplatek se nevybírá, všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA-DOLNÍ CHABRY
+
+1. § 2 odst. 1 písm. a) vyhlášky za prvních 60 dní užívání veřejného prostranství se místní poplatek nevybírá, všechna veřejná prostranství, pokud budou splněny následující podmínky:
+
+- pokud je užíváno veřejné prostranství, jehož hranice je společná s nemovitostí, kde se stavební práce provádějí; - vlastník nemovitosti, kde se provádějí stavební práce, nahlásil změnu režimu provozu ulice a chodníku odboru dopravy Úřadu městské části Praha 8; - vlastník nemovitosti, kde se provádějí stavební práce, na vlastní náklady zajistí dopravní značení pro bezpečnost chodců a motoristů; - zábor veřejného prostranství požádají vlastníci nemovitostí, které stojí na pozemcích městské části Praha – Dolní Chabry č. parc. 351, 353, 355, 356, 357, 358, 359 v k. ú. Dolní Chabry v rozsahu 50 m2 a nemají připojení na komunikaci z důvodu skalnatého terénu; 2. § 2 odst. 1 písm. b) vyhlášky Kč 5 reklamní zařízení s reklamní plochou do 1 m2 a přenosná – všechna veřejná prostranství; Kč 20 reklamní zařízení s reklamní plochou nad 1 m2 – všechna veřejná prostranství; 3. § 2 odst. 1 písm. c) bod 1 vyhlášky Kč 15 všechna veřejná prostranství, v rámci akce, na kterou hlavní město Praha nebo městská část Praha – Dolní Chabry poskytuje finanční prostředky – poplatek se nevybírá, všechna veřejná prostranství; 4. § 2 odst. 1 písm. d) vyhlášky Kč 20 všechna veřejná prostranství, 5. § 2 odst. 1 písm. k) vyhlášky a) Kč 2 všechna veřejná prostranství, b) poplatek se nevybírá, všechna veřejná prostranství, při vyhrazení trvalého parkovacího
+
+místa pro motorová vozidla: - speciálně upraveným vozům, které slouží k výuce autoškoly pro těžce handicapované spoluobčany; - vozům zajišťujícím pečovatelské služby pro občany městské části Praha – Dolní Chabry; 6. § 2 odst. 1 písm. n) vyhlášky volební kampaně, za účelem prezentace volebních kandidátů - poplatek se nevybírá, všechna veřejná prostranství;
+
+18
+
+7. § 2 odst. 1 vyhlášky za užívání veřejného prostranství, které je v pronájmu trvajícím minimálně 1 rok nebo je užíváno příspěvkovými organizacemi zřízenými městskou částí Praha – Dolní Chabry se poplatek nevybírá, všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA-DOLNÍ MĚCHOLUPY
+
+§ 2 odst. 1 písm. b), písm. c) bod 1 a písm. d) vyhlášky Kč 10 všechna veřejná prostranství
+
+MĚSTSKÁ ČÁST PRAHA-DOLNÍ POČERNICE
+
+1. § 2 odst. 1 písm. b) vyhlášky Kč 5 reklamní zařízení do 1 m2 a přenosná; Kč 20 reklamní zařízení nad 1 m2; 2. § 2 odst. 1 písm. c) bod 1 vyhlášky poplatek se nevybírá – před č. p. STARÁ OBEC 6, 8 a 10, ul. BAKURINOVA před č. p. 9 a 12; Kč 20 ostatní veřejná prostranství; 3. § 2 odst. 1 písm. k) vyhlášky Kč 1 všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA-DUBEČ
+
+1. § 2 odst. 1 písm. a) vyhlášky Kč 4 za užívání veřejného prostranství se souhlasem městské části hlavního města Prahy
+
+určeného k opravě nemovitosti vlastníka (fyzické osoby) nepřesahující 8 m2, na dobu užívání do 3 dnů, všechna veřejná prostranství; za užívání veřejného prostranství se poplatek nevybírá, všechna veřejná prostranství, pokud budou splněny následující podmínky:
+
+- je užíváno veřejné prostranství, jehož hranice je společná s nemovitostí, kde se stavební práce provádějí; - vlastník nemovitosti, kde se stavební práce provádějí, nahlásil změnu režimu provozu ulice (případně chodníku) odboru dopravy Úřadu městské části Praha - Dubeč; - vlastník nemovitosti, kde se provádějí stavební práce, na vlastní náklad zajistí dopravní značení pro bezpečnost chodců a motoristů; 2. § 2 odst. 1 písm. b), písm. c) bod 1 vyhlášky Kč 10 všechna veřejná prostranství, 3. § 2 odst. 1 písm. d) a písm. e) vyhlášky Kč 1 všechna veřejná prostranství, 4. § 2 odst. 1 písm. i), j) a n) vyhlášky
+
+19
+
+za užívání veřejného prostranství, které je užíváno neziskovými organizacemi, poplatek se nevybírá, všechna veřejná prostranství; 5. § 2 odst. 1 vyhlášky u akcí, na které hlavní město Praha nebo městská část hlavního města Prahy poskytuje finanční prostředky, poplatek se nevybírá, všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA-ĎÁBLICE
+
+§ 2 odst. 1 písm. b), písm. c) bod 1 a písm. d) vyhlášky Kč 10 všechna veřejná prostranství
+
+MĚSTSKÁ ČÁST PRAHA-KLÁNOVICE
+
+1. § 2 odst. 1 písm. b) vyhlášky Kč 20 všechna veřejná prostranství; 2. § 2 odst. 1 písm. c) bod 1 a písm. d) vyhlášky Kč 10 všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA-KOLODĚJE není stanovena zvláštní sazba
+
+MĚSTSKÁ ČÁST PRAHA-KOLOVRATY 1. § 2 odst. 1 písm. b) vyhlášky u reklamních zařízení rozměrů do 1 m2 a výšky 1,3 m, poplatek se nevybírá, všechna veřejná prostranství; Kč 30 reklamní zařízení nad 1 m2 a výšku 1,3 m, všechna veřejná prostranství; 2. § 2 odst. 1 písm. c) bod 1 a písm. d) vyhlášky Kč 10 všechna veřejná prostranství; 3. § 2 odst. 1 písm. i) vyhlášky u akcí, na které hlavní město Praha nebo městská část Praha – Kolovraty poskytuje finanční prostředky, poplatek se nevybírá, všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA-KRÁLOVICE
+
+§ 2 odst. 1 písm. b), písm. c) bod 1 a písm. d) vyhlášky Kč 10 všechna veřejná prostranství
+
+MĚSTSKÁ ČÁST PRAHA-KŘESLICE 1. § 2 odst. 1 vyhlášky u akcí, na které hlavní město Praha nebo městská část Praha - Křeslice poskytuje finanční
+
+prostředky, poplatek se nevybírá, všechna veřejná prostranství;
+
+20
+
+2. § 2 odst. 1 písm. a) vyhlášky Kč 4 za užívání veřejného prostranství se souhlasem městské části Praha-Křeslice
+
+určeného k opravě nemovitosti vlastníka (fyzické osoby) nepřesahující 8 m2, na dobu užívání do 3 dnů, všechna veřejná prostranství; za užívání veřejného prostranství se poplatek nevybírá, všechna veřejná prostranství, pokud budou splněny následující podmínky:
+
+- je užíváno veřejné prostranství, jehož hranice je společná s nemovitostí, kde
+
+se stavební práce provádějí; - vlastník nemovitosti, kde se stavební práce provádějí, nahlásil změnu režimu
+
+provozu ulice (případně chodníku) odboru dopravy Úřadu městské části Praha - Křeslice; - vlastník nemovitosti, kde se provádějí stavební práce, na vlastní náklad zajistí
+
+dopravní značení pro bezpečnost chodců a motoristů; 3. § 2 odst. 1 písm. b) vyhlášky a) Kč 1 reklamní zařízení přenosná do 1 m2 a 1,5 m výšky, všechna veřejná prostranství; b) Kč 10 ostatní reklamní zařízení, všechna veřejná prostranství; 4. § 2 odst. 1 písm. c) bod 1 vyhlášky Kč 10 všechna veřejná prostranství; 5. § 2 odst. 1 písm. d) a písm. e) vyhlášky Kč 1 všechna veřejná prostranství;
+
+6. § 2 odst. 1 písm. i), písm. j) a písm. n) vyhlášky za užívání veřejného prostranství, které je užíváno neziskovými organizacemi, poplatek se nevybírá, všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA-KUNRATICE
+
+1. § 2 odst. 1 písm. b) vyhlášky Kč 5 všechna veřejná prostranství, 2. § 2 odst. 1 písm. c) vyhlášky Kč 5 všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA-LIBUŠ 1.  § 2 odst. 1 písm. b) vyhlášky Kč 10 všechna veřejná prostranství, 2.  § 2 odst. 1 písm. c) bod 1, písm. d), písm. e) a písm. k) vyhlášky Kč 1 všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA-LOCHKOV
+
+21
+
+není stanovena zvláštní sazba
+
+MĚSTSKÁ ČÁST PRAHA-LIPENCE není stanovena zvláštní sazba
+
+MĚSTSKÁ ČÁST PRAHA-LYSOLAJE
+
+není stanovena zvláštní sazba
+
+MĚSTSKÁ ČÁST PRAHA-NEBUŠICE
+
+1.  § 2 odst. 1 písm. b) vyhlášky Kč 10 všechna veřejná prostranství, 2.  § 2 odst. 1 písm. c) bod 1 a písm. d) vyhlášky Kč 10 všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA-NEDVĚZÍ není stanovena zvláštní sazba
+
+MĚSTSKÁ ČÁST PRAHA-PETROVICE
+
+§ 2 odst. 1 písm. b), písm. c) bod 1 a písm. d) vyhlášky Kč 10 všechna veřejná prostranství
+
+MĚSTSKÁ ČÁST PRAHA-PŘEDNÍ KOPANINA
+
+§ 2 odst. 1 písm. b), písm. c) bod 1 a písm. d) vyhlášky Kč 10 všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA-ŘEPORYJE
+
+1. § 2 odst. 1 písm. b) vyhlášky Kč 1 umístění mobilních reklamních zařízení typu „A“ – všechna veřejná prostranství; 2. § 2 odst. 1 písm. c) vyhlášky velikonoční, farmářské, podzimní a vánoční trhy pořádané v ul. NA TRŽIŠTI, TĚLOVÝCHOVNÁ, ŘEPÍKOVÁ, poplatek se nevybírá; 3. § 2 odst. 1 písm. d) vyhlášky v prostoru ul. NA TRŽIŠTI, TĚLOVÝCHOVNÁ, ŘEPÍKOVÁ, poplatek se nevybírá; 4. § 2 odst. 1 písm. i) vyhlášky u akcí, na které hlavní město Praha nebo městská část Praha-Řeporyje poskytuje finanční prostředky, poplatek se nevybírá, všechna veřejná prostranství.
+
+22
+
+MĚSTSKÁ ČÁST PRAHA-SATALICE
+
+1. § 2 odst. 1 písm. b) vyhlášky Kč 10 všechna veřejná prostranství, 2. § 2 odst. 1 písm. c) bod 1 vyhlášky Kč 10 všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA-SLIVENEC
+
+1. § 2 odst. 1 písm. b), písm. c) bod 1 a písm. d) vyhlášky Kč 10 všechna veřejná prostranství, 2. § 2 odst. 1 písm. f) vyhlášky umístění kontejnerů pro použité šatstvo pro humanitární účely - poplatek se nevybírá, všechna veřejná prostranství; 3. § 2 odst. 1 písm. i) vyhlášky u akcí, na které hlavní město Praha nebo městská část Praha – Slivenec poskytuje finanční prostředky nebo pořádané příspěvkovými organizacemi zřízenými městskou částí Praha-Slivenec - poplatek se nevybírá, všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA-SUCHDOL
+
+1. § 2 odst. 1 písm. c) bod 1 vyhlášky Kč 30 všechna veřejná prostranství, 2. § 2 odst. 1 písm. d), písm. i) vyhlášky u akcí, na něž městská část Praha – Suchdol poskytuje finanční prostředky, se poplatek nevybírá, všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA-ŠEBEROV
+
+není stanovena zvláštní sazba
+
+MĚSTSKÁ ČÁST PRAHA-ŠTĚRBOHOLY
+
+§ 2 odst. 1 písm. b), písm. c) bod 1 a písm. d) vyhlášky Kč 10 všechna veřejná prostranství
+
+MĚSTSKÁ ČÁST PRAHA-TROJA
+
+1. § 2 odst. 1 písm. c) bod 1 vyhlášky restaurační zahrádky sloužící k občerstvení – všechna veřejná prostranství, místní poplatek se neplatí;
+
+23
+
+2. § 2 odst. 1 písm. c) bod 1 a písm. d) vyhlášky Kč 10 všechna veřejná prostranství, mimo restauračních zahrádek.
+
+MĚSTSKÁ ČÁST PRAHA-ÚJEZD
+
+§ 2 odst. 1 písm. c) bod 1 vyhlášky Kč 5 všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA-VELKÁ CHUCHLE
+
+§ 2 odst. 1 písm. b), písm. c) bod 1a písm. d) vyhlášky Kč 10 všechna veřejná prostranství
+
+MĚSTSKÁ ČÁST PRAHA-VINOŘ
+
+§ 2 odst. 1 písm. b), písm. c) bod 1 a písm. d) vyhlášky Kč 10 všechna veřejná prostranství
+
+MĚSTSKÁ ČÁST PRAHA-ZBRASLAV
+
+1. § 2 odst. 1 písm. b) a písm. c) bod 1 vyhlášky Kč 50 všechna veřejná prostranství, 2. § 2 odst. 1 písm. d) vyhlášky Kč 3 všechna veřejná prostranství, 3. § 2 odst. 1 písm. e) vyhlášky Kč 3 všechna veřejná prostranství, 4. § 2 odst. 1 písm. k) vyhlášky Kč 1 všechna veřejná prostranství, 5. § 2 odst. 1 písm. i) vyhlášky u akcí, na které hlavní město Praha nebo městská část Praha - Zbraslav poskytuje finanční prostředky, poplatek se nevybírá, všechna veřejná prostranství.
+
+MĚSTSKÁ ČÁST PRAHA-ZLIČÍN
+
+1. § 2 odst. 1 písm. b), písm. c) bod 1 a písm. d) vyhlášky Kč 10 všechna veřejná prostranství, 2. § 2 odst. 1 písm. i) vyhlášky u akcí, na které hlavní město Praha nebo městská část Praha - Zličín poskytuje finanční prostředky, poplatek se nevybírá, všechna veřejná prostranství.“.
+
+24
+
+5. Příloha č. 2 zní: „Příloha č. 2 k obecně závazné vyhlášce č. 5/2011 Sb. hl. m. Prahy
+
+MĚSTSKÁ ČÁST PRAHA 1
+
+l. NÁMĚSTÍ ANENSKÉ NÁM. BETLÉMSKÉ NÁM. DRAŽICKÉHO NÁM. HAŠTALSKÉ NÁM. HRADČANSKÉ NÁM. JUNGMANNOVO NÁM. KARLOVO NÁM. KŘIŽOVNICKÉ NÁM. LORETÁNSKÉ NÁM. NA KAMPĚ
+
+MALÉ NÁM. MALOSTRANSKÉ NÁM. MALTÉZSKÉ NÁM. MARIÁNSKÉ NÁM. NÁM. CURIEOVÝCH NÁM. FRANZE KAFKY NÁM. J. PALACHA NÁM. REPUBLIKY OVOCNÝ TRH
+
+PETRSKÉ NÁM. POHOŘELEC SENOVÁŽNÉ NÁM. STAROMĚSTSKÉ NÁM. UHELNÝ TRH VÁCLAVSKÉ NÁM. VALDŠTEJNSKÉ NÁM. VELKOPŘEVORSKÉ NÁM.
+
+2. TRŽIŠTĚ HAVELSKÝ TRH, ul. HAVELSKÁ od č. 1/512  do č. 20/514; STAROMĚSTSKÉ NÁMĚSTÍ, vnitřní plocha náměstí obklopující sochu Mistra Jana Husa, která je vymezena pásem žulových desek, lemujících pojezdové pruhy a obrubníkem komunikace PAŘÍŽSKÁ – DLOUHÁ; U STARÉHO HŘBITOVA; VÁCLAVSKÉ NÁMĚSTÍ, spodní část vymezená pojezdovými pruhy na VÁCLAVSKÉM NÁMĚSTÍ, spojnicí pěší zóny ul. NA PŘÍKOPĚ, 28. ŘÍJNA a sadovými úpravami v podélném středním pruhu VÁCLAVSKÉHO NÁMĚSTÍ; DVOŘÁKOVO NÁBŘEŽÍ, náplavka Na Františku; HAVLÍČKOVA – NA FLORENCI, roh ulic, krytá část u Masarykova nádraží; MALOSTRANSKÉ NÁMĚSTÍ – v prostoru nám., parkoviště; NÁMĚSTÍ REPUBLIKY, prostor před Celnicí (farmářské trhy); STAROMĚSTSKÉ NÁMĚSTÍ, plocha parku za Staroměstskou radnicí - č. parc. 1/2 v k. ú. Staré Město (pro tržiště); 3. ULICE A CHODNÍKY ALŠOVO NÁBŘEŽÍ ANENSKÁ ANEŽSKÁ BARTOLOMĚJSKÁ BARVÍŘSKÁ BENEDIKTSKÁ BESEDNÍ BETLÉMSKÁ BÍLKOVA BISKUPSKÁ BISKUPSKÝ DVŮR
+
+BOLZANOVA BORŠOV BŘEHOVÁ BŘETISLAVOVA CELETNÁ CIHELNÁ ČECHŮV MOST ČELAKOVSKÉHO SADY – č. parc. 2519 v k. ú. Nové Město ČERNÁ
+
+ČERNÍNSKÁ ČERVENÁ DISKAŘSKÁ DIVADELNÍ DLABAČOV DLÁŽDĚNÁ DLOUHÁ DRAŽICKÉHO DUŠNÍ 28. ŘÍJNA
+
+25
+
+DVOŘÁKOVO NÁBŘEŽÍ ELIŠKY KRÁSNOHORSKÉ GOGOLOVA HARANTOVA HAŠTALSKÁ HAVELSKÁ HAVELSKÁ ULIČKA HAVÍŘSKÁ HAVLÍČKOVA HELLICHOVA HELMOVA HLAVSOVA HOLBOVA HRADEBNÍ HROZNOVÁ HUSOVA HYBERNSKÁ CHARVÁTOVA CHOTKOVA SILNICE JÁCHYMOVA JAKUBSKÁ JALOVCOVÁ JÁNSKÁ JÁNSKÝ VRŠEK JELENÍ JERUZALÉMSKÁ JILSKÁ JINDŘIŠSKÁ JIŘÍHO ČERVENÉHO JOSEFSKÁ JUNGMANNOVA K HAŠTALU KAMZÍKOVÁ KANOVNICKÁ KAPROVA KAPUCÍNSKÁ KARLOVA KARLŮV MOST KARMELITSKÁ KAROLINY SVĚTLÉ KEPLEROVA KLÁROV KLÁŠTERSKÁ KLIMENTSKÁ KONVIKTSKÁ KOSÁRKOVO NÁBŘEŽÍ KOSTEČNÁ
+
+KOZÍ KOŽNÁ KRAKOVSKÁ KRÁLODVORSKÁ KROCÍNOVA KŘEMENCOVA KŘIŽOVNICKÁ LANNOVA LAZARSKÁ LÁZEŇSKÁ LEGEROVA LETENSKÁ LILIOVÁ LINHARTSKÁ LODECKÁ LODNÍ MLÝNY LORETÁNSKÁ MAGDALENY RETTIGOVÉ MAISELOVA MALÁ KLÁŠTERNÍ MALÁ ŠTUPARTSKÁ MALOSTRANSKÉ NÁBŘEŽÍ MÁNESŮV MOST MARIÁNSKÉ HRADBY MARTINSKÁ MASARYKOVO NÁBŘEŽÍ MASNÁ MELANTRICHOVA MEZIBRANSKÁ MICHALSKÁ MIKULANDSKÁ MIKULÁŠSKÁ MÍŠEŇSKÁ MLYNÁŘSKÁ MOSTECKÁ MOST LEGIÍ MYSLÍKOVA NA BAŠTĚ SV. TOMÁŠE NA FLORENCI NA FRANTIŠKU NA MŮSTKU NA NÁSPU NA OPYŠI NA PERŠTÝNĚ NA POŘÍČÍ NA PŘÍKOPĚ
+
+NA REJDIŠTI NA STRUZE NA ZÁBRADLÍ NÁBŘEŽÍ EDVARDA BENEŠE NÁBŘEŽÍ KAPITÁNA JAROŠE NÁBŘEŽÍ LUDVÍKA SVOBODY NÁPRSTKOVA NÁRODNÍ NAVRÁTILOVA NEBOVIDSKÁ NEKÁZANKA NERUDOVA NOSTICOVA NOVÉ MLÝNY NOVOMLÝNSKÁ NOVOTNÉHO LÁVKA NOVÝ SVĚT OLIVOVA OPATOVICKÁ OPLETALOVA OSTROVNÍ PALACKÉHO PANSKÁ PAŘÍŽSKÁ PLATNÉŘSKÁ PELCLOVA PERLOVÁ PETRSKÁ POD BRUSKOU POLITICKÝCH VĚZŇŮ PROKOPSKÁ PROVAZNICKÁ PRŮCHODNÍ PŘÍČNÁ PŠTROSSOVA PURKYŇOVA PŮTOVA RADNICKÉ SCHODY RÁMOVÁ REVOLUČNÍ RŮŽOVÁ RYBNÁ RYTÍŘSKÁ ŘÁSNOVKA ŘETĚZOVÁ ŘEZNICKÁ ŘÍČNÍ
+
+26
+
+SALVÁTORSKÁ SAMCOVA SASKÁ 17. LISTOPADU SEMINÁŘSKÁ SENOVÁŽNÁ SKOŘEPKA SMETANOVO NÁBŘEŽÍ SNĚMOVNÍ SOUKENICKÁ SPÁLENÁ STÁRKOVA STRAHOVSKÁ STŘÍBRNÁ ŠEŘÍKOVÁ ŠIROKÁ ŠÍTKOVA ŠKOLSKÁ ŠPORKOVA ŠTEFÁNIKŮV MOST ŠTĚPÁNSKÁ ŠTUPARTSKÁ TEMPLOVÁ TĚŠNOV THUNOVSKÁ TOMÁŠSKÁ TRUHLÁŘSKÁ TRŽIŠTĚ TÝNSKÁ
+
+TÝNSKÁ ULIČKA U BRUSKÝCH KASÁREN U BRUSNICE U BULHARA U DOBŘENSKÝCH U KASÁREN U LANOVÉ DRÁHY U LUŽICKÉHO SEMINÁŘE U MILOSRDNÝCH U NEMOCENSKÉ POJIŠŤOVNY U OBECNÍHO DOMU U OBECNÍHO DVORA U PLOVÁRNY U PRAŠNÉ BRÁNY U PRAŠNÉHO MOSTU U PŮJČOVNY U RADNICE U SOVOVÝCH MLÝNŮ U STARÉ ŠKOLY U STARÉHO HŘBITOVA U SV. DUCHA U ZLATÉ STUDNĚ U ŽELEZNÉ LÁVKY ÚJEZD ÚVOZ V CELNICI
+
+V CÍPU V JÁMĚ V JIRCHÁŘÍCH V KOLKOVNĚ V KOTCÍCH VALDŠTEJNSKÁ VALENTINSKÁ VE SMEČKÁCH VE STÍNADLECH VEJVODOVA VELESLAVÍNOVA VĚZEŇSKÁ VINOHRADSKÁ VÍTĚZNÁ VLADISLAVOVA VLAŠSKÁ VODIČKOVA VOJTĚŠSKÁ VORŠILSKÁ VŠEHRDOVA WASHINGTONOVA WILSONOVA ZA HAŠTALEM ZÁMECKÁ ZÁMECKÉ SCHODY ZLATÁ ZLATNICKÁ ŽATECKÁ ŽELEZNÁ ŽITNÁ 4. PARKY ALŠOVO NÁBŘEŽÍ, č. parc. 998/1, 1000/1, 1000/3, 1000/4, 1000/5, 1000/6 v k. ú. Staré Město; BESEDNÍ ulice, č. parc. 323/2 v k. ú. Malá Strana; ČELAKOVSKÉHO SADY, č. parc. 2/1, 2/2, 2/9, 2/10, 2/11, 2/12, 2523/1, 2523/2, 2523/7, 2523/8, 2523/9, 2523/10, 2523/11 v k. ú. Nové Město a č. parc 470/2, 470/3, 4097/2, 4097/3, 4097/4 v k. ú. Vinohrady; HRADČANSKÉ NÁM, č. parc.  737 v k. ú. Hradčany; CHOTKOVY SADY, č. parc. 707 v k. ú. Hradčany; KAMPA, č. parc. 778/1, 779/5, 780, 782, 790, 791 v k. ú. Malá Strana; NOSTICOVA ZAHRADA, č. parc. 298 v k. ú. Malá Strana; park na KLÁROVĚ - U ŽELEZNÉ LÁVKY, č. parc. 701, 702/1, 1029 v k. ú. Malá Strana; park na KLÁROVĚ - U HOLUBIČKY, č. parc. 642 v k. ú. Malá Strana; park u synagogy v PAŘÍŽSKÉ ul., č. parc. 125 v k. ú. Staré Město; parčík v ulici ŘÁSNOVKA, č. parc. 1026, 1027, 853/2 v k. ú. Staré Město; park v ulici JELENÍ, č. parc. 367 v k. ú. Hradčany; park Rosh-Ha‘ayin v DUŠNÍ ul., č. parc. 1045/2, 1045/3 v k. ú. Staré Město a č. parc. 101/2 v k. ú. Josefov; plocha u Anežského kláštera NA FRANTIŠKU, č. parc. 899/1 v k. ú. Staré Město;
+
+27
+
+parkově upravená plocha za Staroměstskou radnicí na STAROMĚSTSKÉ NÁM., č. parc. 1/2 v k. ú. Staré Město; PETŘÍN – NEBOZÍZEK, č. parc. 906, 908/1, 908/2, 911/1, 911/2, 915, 928/1, 932 v k. ú. Malá Strana; PETŘÍN – SEMINÁŘSKÁ ZAHRADA, č. parc. 364, 917, 919/1, 919/2, 922, 923 v k. ú. Malá Strana; PETŘÍN – LOBKOVICKÁ ZAHRADA, č. parc. 933/8 v k. ú. Malá Strana; PETŘÍN – STRAHOVSKÁ ZAHRADA, č. parc. 255/1 v k. ú. Hradčany; PETŘÍN – RŮŽOVÝ SAD a KVĚTNICE, č. parc. 273, 274 v k. ú. Hradčany; STŘELECKÝ OSTROV, č. parc. 274 v k. ú. Staré Město; SLOVANSKÝ OSTROV, č. parc. 2407 v k. ú. Nové Město; VRCHLICKÉHO SADY, č. parc. 2309/1, 2313/1, 2313/7, 2313/9, 2313/10, 2313/11, 2313/14, 2313/22, 2317/1, 2317/2, 2317/3, 2317/4, 2317/5, 2317/6, 2317/7, 2317/8, 2318/1, 2318/2, 2318/4, 2318/5, 2318/6, 2318/7, 2318/8 v k. ú. Nové Město; 5.  VEŘEJNÁ ZELEŇ není stanoveno žádné veřejné prostranství, 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ zelené plochy: KŘIŽOVNICKÉ NÁM., č. parc. 1111 v k. ú. Staré Město; LORETÁNSKÉ NÁM., č. parc. 742 v k. ú. Hradčany; park na NÁM. J. PALACHA, č. parc. 994/2 v k. ú. Staré Město; parčík v ulici U LUŽICKÉHO SEMINÁŘE, č. parc. 1039/1 v k. ú. Malá Strana; parčík v ulici KONVIKTSKÁ, č. parc. 312/1 v k. ú. Staré Město; pás před Ministerstvem dopravy na NÁBŘEŽÍ L. SVOBODY, č. parc. 2357/2, 2357/3 v k. ú. Nové Město; plocha před kostelem Panny Marie Vítězné v KARMELITSKÉ ul., č. parc. 385, 1051/1 v k. ú. Malá Strana; plocha u kostela sv. Klimenta v KLIMENTSKÉ ul. č. parc. 319 v k. ú. Nové Město; SENOVÁŽNÉ NÁM., č. parc. 2330/1 v k. ú. Nové Město; STRAHOVSKÁ ulice, č. parc. 278, 288/2, 290, 291, 293, 295 v k. ú. Hradčany; středové záhony na VÁCLAVSKÉM NÁM., č. parc. 2306/1 v k. ú. Nové Město; středové pásy v ulici HELLICHOVA, č. parc. 1054/1  v k. ú. Malá Strana; náplavky: náplavka ul. CIHELNÁ, č. parc. 711, 725, 1041 v k. ú. Malá Strana; náplavka ul. NA FRANTIŠKU, č. parc. 1006 v k. ú. Staré Město; náplavka sady na KAMPĚ, č. parc. 1043 v k. ú. Malá Strana; náplavka u DVOŘÁKOVA NÁBŘEŽÍ, č. parc. 1006 v k. ú. Staré Město; náplavka u MALOSTRANSKÉHO NÁBŘEŽÍ, č. parc. 1060 v k. ú. Malá Strana; náplavka u MASARYKOVA NÁBŘEŽÍ, č. parc. 2421/2 v k. ú. Nové Město; náplavka u NÁBŘEŽÍ L. SVOBODY, č. parc. 2366 v k. ú. Nové Město; pasáže: CELETNÁ č. 27/589 – TEMPLOVÁ č. 1/589; HYBERNSKÁ č. 3/1036 – NÁM. REPUBLIKY; KŘIŽOVNICKÉ NÁM. č. 1/194 – NOVOTNÉHO LÁVKA č. 13/198; MALOSTRANSKÉ NÁM. č. 12/259 – TRŽIŠTĚ č. 18/259; NÁRODNÍ č. 4/1393  – OSTROVNÍ;
+
+28
+
+NÁRODNÍ č. 32/58 – CHARVÁTOVA; NÁRODNÍ č. 34/40 – CHARVÁTOVA; NÁRODNÍ č. 35/417 – MARTINSKÁ č. 6/417; TÝNSKÁ č. 4/639 – MALÁ ŠTUPARTSKÁ č. 3/645 (TÝN – Týnský dvůr – Ungelt); VÁCLAVSKÉ NÁM. č. 4/773 – JUNGMANNOVO NÁM. č. 11/773; podloubí: 28. ŘÍJNA č. 1/37l, 9/375, 13/377, 16/770; CELETNÁ č. 36/587, 23/592; DLÁŽDĚNÁ č. 6/1004; DLOUHÁ č. 52/723 a 2/609; DLOUHÁ č. 54/724; HAVELSKÁ č. 1/512, 3/511, 5/510, 7/509, 9/508, 11/507, 13/506, 15/505, 17/504; HAVLÍČKOVA č. 1/1030, 3/1029, 5/1029; HUSOVA č. 6/236; HYBERNSKÁ č. 16/1004, 11/1030; JINDŘIŠSKÁ č. 1-3/832, 5/901; KARMELITSKÁ č. 2-4/388; LORETÁNSKÁ č. 19/104, 21/105, 23/106, 2/182; LORETÁNSKÉ NÁM. č. 2/108, 3/109, 4/110; MALÉ NÁMĚSTÍ č. 5/9, 6/8, 7/7, 8/6, 9/5, 10/4; MALOSTRANSKÉ NÁM. č. 1/272, 2/271, 3/270, 4/267, 5/266, 6/265, 7/264, 8/263, 9/262, 10/261, 18/6, 19/7, 20/518, 21/35, 22/36, 23/37; MALTÉZSKÉ NÁMĚSTÍ č. 13/478, 14/476, 15/473; NÁRODNÍ č. 25/961; PERLOVA č. 1/412; POD BRUSKOU č. l, 3/147; POHOŘELEC č. 22/114, 23/113, 24/112; RYTÍŘSKÁ č. 4/411, 6/410, 8/409; SMETANOVO NÁBŘEŽÍ (Karlovy lázně) č. 3/196, 5/195, 7/194; STAROMĚSTSKÉ NÁM. č. 1/4, 2/3, 14/604, 15/603, 21/483, 22/481, 24/480, 25/479, 26/478; TOMÁŠSKÁ č. 5/10, 7/11, 9/l2, 11/13, 13/14, 15/15; U RADNICE č. 2/10, 4/11; UHELNÝ TRH č. 8/413, 9/414, 10/415; VODIČKOVA č. 40/792, 39-41/791; přístupové cesty a plochy u stanic metra: Malostranská – stanice metra trasy A, vyvýšený prostor před proskleným vestibulem stanice metra po celé délce vestibulu – č. parc. 120, 1014/1 v k. ú. Malá Strana; Muzeum – stanice metra trasy C, A – podchod, včetně všech přístupových cest do podchodu – č. parc. 2/4, 2245/1, 2306/1,  2306/7, 2306/8, 2306/9, 2523/6 v k. ú. Nové Město; Můstek – stanice metra – střed VÁCLAVSKÉHO NÁM. (trasy A, B) - podchod, včetně všech přístupových cest do podchodu – č. parc. 42/1, 574, 626, 627, 2064, 2306/1, 2306/2, 2306/5, 2306/11, 2306/12, 2306/13 v k. ú. Nové Město; Můstek – stanice metra – dolní část VÁCLAVSKÉHO NÁM. (trasy A, B) - podchod, včetně všech přístupových cest do podchodu – č. parc. 475, 483, 484 v k. ú. Staré Město a č. parc. 582, 583, 608, 610/2, 2306/1 v k. ú. Nové Město;
+
+29
+
+Můstek – stanice metra trasy B - JUNGMANNOVO NÁM. - podchod, včetně všech přístupových cest do podchodu – č. parc. 348 a 467 v k. ú. Staré Město, č. parc. 2378/2, 2386/1,  2386/3 v k. ú. Nové Město; Nám. Republiky – stanice metra trasy B - podchod, včetně všech přístupových cest do podchodu – č. parc. 1072/2 v k. ú. Staré Město, č. parc. 2372/1, 2372/2, 2372/3 v k. ú. Nové Město; Nám. Republiky – stanice metra trasy B – Masarykovo nádraží - podchod, včetně všech přístupových cest do podchodu – č. parc. 484/7, 484/13, 2334/1, 2334/2, 2334/3 v k. ú. Nové Město; Národní – stanice metra trasy B – prostranství před vstupem do stanice metra – č. parc. 724/1 v k. ú. Nové Město; Staroměstská – stanice metra trasy A – podchod včetně všech přístupových cest do podchodu – č. parc. 59 a 42 v k. ú. Staré Město a č. parc. 115/2 v k. ú. Josefov; ostatní: prostranství okolo obchodního centra QUADRIO – č. parc. 724/1, 724/3, 724/4, 724/6, 725/1, 725/7, 725/8, 740/2, 2383/2, 2384/2, 2384/3, 2385/2 v k. ú. Nové Město; prostranství za průchodem z ul. U DOBŘENSKÝCH na BORŠOV, č. parc. 1140 v k. ú. Staré Město; schody před kostelem sv.  Mikuláše - MALOSTRANSKÉ NÁM., horní – č. parc. 993 v k. ú. Malá Strana; schody před kostelem sv.  Mikuláše - STAROMĚSTSKÉ NÁM. a NÁM. F. KAFKY – č. parc. 21 v k. ú. Staré Město; schody před kostelem sv. Klimenta - ul. KARLOVA – č. parc 87, 88, 1109 v k. ú. Staré Město; STARÉ ZÁMECKÉ SCHODY; ul. HYBERNSKÁ před Masarykovým nádražím, č. parc. 2534/1 v k. ú. Nové Město; ul. JAKUBSKÁ u č. p. 663, č. parc.  683/1, 683/2, 1069 v k. ú. Staré Město, zadní vchod u obchodního domu KOTVA; ul. JUNGMANNOVA č. 28/747; ul. KRÁLODVORSKÁ, č. parc. 683/1, 683/2 v k. ú. Staré Město, u obchodního domu KOTVA; ul. MICHALSKÁ u č. 29, před kostelem sv. Michala, č. p. 622, 653, č. parc. 418 v  k. ú. Nové Město; ul. NA PŘÍKOPĚ č. 15/583; ul. NÁRODNÍ č. 26/63, prostranství č. parc. 737 a ul. SPÁLENÁ, prostranství č. parc. 737, 2387/2 v k. ú. Nové Město; ul. PROVAZNICKÁ č. 2/388; VÁCLAVSKÉ NÁM. č. 21/831 u obchodního domu; VÁCLAVSKÉ NÁM. č. 68/1700 - Národní muzeum; plocha u hotelu Continental, č. parc. 987/1 v k. ú. Staré Město; volné prostranství na NÁM. REPUBLIKY, č. parc. 484/16 v k. ú. Nové Město; volné prostranství – ul. V CELNICI, č. parc. 488, 501/1, 2556/3  v k. ú. Nové Město; schody u budovy Rudolfina – NÁM. JANA PALACHA – č. parc. 993/1, 993/2 v k. ú. Staré Město; ul. TÝNSKÁ, č parc. 623 v k. ú. Staré Město, výklenek v severní stěně kostela Matky Boží před Týnem; KŘIŽOVNICKÉ NÁM. – loubí kostela Nejsvětějšího Salvátora, parc. č. 86 v k. ú. Staré Město; prostranství před objektem č. p. 1067, NA POŘÍČÍ č. 25 – č. parc. 450 v k. ú. Nové Město;
+
+30
+
+prostranství před objektem č. p. 1244, NOVÉ MLÝNY č. 5 – č. parc. 330 v k. ú. Nové Město.
+
+MĚSTSKÁ ČÁST PRAHA 2 1.  NÁMĚSTÍ FÜGNEROVO NÁM. JIRÁSKOVO NÁM KARLOVO NÁM
+
+NÁM. I. P. PAVLOVA NÁM. MÍRU NÁM. POD EMAUZY
+
+OSTRČILOVO NÁM PALACKÉHO NÁM. TYLOVO NÁM. 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY ALBERTO AMERICKÁ ANGLICKÁ ANNY LETENSKÉ APOLINÁŘSKÁ B. NĚMCOVÉ BALBÍNOVA BĚLEHRADSKÁ BELGICKÁ BENÁTSKÁ BLANICKÁ BOTIČSKÁ BRUSELSKÁ BUDEČSKÁ ČELAKOVSKÉHO SADY ČERCHOVSKÁ ČERMÁKOVA ČIKLOVA DITTRICHOVA DŘEVNÁ FRANCOUZSKÁ FRANTIŠKA LENOCHA FRIČOVA GORAZDOVA HÁLKOVA HELÉNSKÁ HLAVOVA HORSKÁ HOSTIVÍTOVA CHODSKÁ CHOPINOVA IBSENOVA ITALSKÁ JANA MASARYKA JAROMÍROVA
+
+JEČNÁ JENŠTEJNSKÁ JUGOSLÁVSKÁ K ROTUNDĚ KATEŘINSKÁ KE KARLOVU KLADSKÁ KOPERNÍKOVA KORČÁKOVA KORUNNÍ KOUBKOVA KRKONOŠSKÁ KROKOVA KUNĚTICKÁ LADOVA LAZARSKÁ LEGEROVA LIBUŠINA LICHNICKÁ LÍPOVÁ LONDÝNSKÁ LUBLAŇSKÁ LUMÍROVA LUŽICKÁ MÁCHOVA MALÁ ŠTĚPÁNSKÁ MÁNESOVA MASARYKOVO NÁBŘ. MELOUNOVÁ MIKOVCOVA MORAVSKÁ MYSLÍKOVA NA BOJIŠTI NA DĚKANCE NA FOLIMANCE NA HRÁDKU
+
+NA HROBCI NA KLEOVCE NA KOZAČCE NA LIBUŠINCE NA MORÁNI NA POŘÍČNÍM PRÁVU NA RYBNÍČKU NA SLOVANECH NA SLUPI NA SMETANCE NA ŠVIHANCE NA VÝTONI NA ZBOŘENCI NA ZDERAZE NAD PETRUSKOU NÁPLAVNÍ NEKLANOVA NEZAMYSLOVA ODBORŮ OLDŘICHOVA OMLADINÁŘŮ PERUCKÁ PLAVECKÁ POD KARLOVEM POD NUSELSKÝMI SCHODY POD SLOVANY POD VĚTROVEM POD ZVONAŘKOU PODSKALSKÁ POLSKÁ PŘEMYSLOVA RAŠÍNOVO NÁBŘ. REJSKOVA RESSLOVA RUBEŠOVA
+
+31
+
+RUMUNSKÁ RYBALKOVA ŘÍMSKÁ SALMOVSKÁ SARAJEVSKÁ SÁZAVSKÁ SEKANINOVA SLAVÍKOVA SLAVOJOVA SLEZSKÁ SLOVENSKÁ SOBĚSLAVOVA SOKOLSKÁ SPÁLENÁ SPYTIHNĚVOVA STUDNIČKOVA SVATOPLUKOVA SVOBODOVA ŠAFAŘÍKOVA
+
+ŠKRÉTOVA ŠMILOVSKÉHO ŠPANĚLSKÁ ŠTĚPÁNSKÁ ŠTULCOVA ŠUMAVSKÁ ŠUBERTOVA TROJANOVA TROJICKÁ TŘEBÍZSKÉHO TYRŠOVA U HAVLÍČKOVÝCH SADŮ U KANÁLKY U NEMOCNICE U TRŽNICE U ZVONAŘKY URUGUAYSKÁ V PEVNOSTI
+
+V TŮNÍCH VÁCLAVSKÁ VARŠAVSKÁ VINAŘICKÉHO VINIČNÁ VINOHRADSKÁ VNISLAVOVA VOCELOVA VODIČKOVA VOTOČKOVA VOZOVÁ VRATISLAVOVA VYŠEHRADSKÁ WENZIGOVA ZÁHOŘANSKÉHO ZÁHŘEBSKÁ ŽITNÁ
+
+4. PARKY FOLIMANKA vyjma parc. č. 1025/4 v k. ú. Vinohrady FÜGNEROVO NÁM. JIRÁSKOVO NÁM. KARLOVO NÁM. KARLOVSKÉ PŘEDMOSTÍ
+
+LUMÍROVY SADY NA KOZAČCE NÁM. MÍRU NÁM. I. P. PAVLOVA OSTRČILOVO NÁM. PALACKÉHO NÁM. PERUCKÁ STRÁŇ POD SLOVANY
+
+RIEGROVY SADY SADY BRATŘÍ ČAPKŮ SADY SVATOPLUKA ČECHA TYLOVO NÁM. VYŠEHRAD NKP VÝTOŇ ZÍTKOVY SADY 5. VEŘEJNÁ ZELEŇ není stanoveno žádné veřejné prostranství, 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ přístupové cesty a plochy u stanic metra mimo prostor, které se na noc zamykají: KARLOVO NÁM. (parc. č. 2416/1 v k. ú. Nové Město), NÁM. I. P. PAVLOVA (parc. č. 2488/1 v k. ú. Nové Město, parc. č. 4081/1 v k. ú. Vinohrady), NÁM. MÍRU (parc. č. 4079/1 a 4079/4 v k. ú. Vinohrady) a PALACKÉHO NÁM. (parc. č. 2440 a 2438/2 v k. ú. Nové Město); veřejná hřiště (mimo parky): U VODÁRNY; VRATISLAVOVA – U SLUNCE.
+
+MĚSTSKÁ ČÁST PRAHA 3 1.  NÁMĚSTÍ BASILEJSKÉ NÁM. HAVLÍČKOVO NÁM.
+
+HOLLAROVO NÁM. KOMENSKÉHO NÁM.
+
+KOSTNICKÉ NÁM. NÁM. BARIKÁD
+
+32
+
+NÁM. JIŘÍHO Z LOBKOVIC NÁM. JIŘÍHO Z PODĚBRAD
+
+NÁM. WINSTONA CHURCHILLA OLŠANSKÉ NÁM. PROKOPOVO NÁM.
+
+SLADKOVSKÉHO NÁM. ŠKROUPOVO NÁM. TACHOVSKÉ NÁM. ŽIŽKOVO NÁM. 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY AMBROŽOVA BARANOVA BISKUPCOVA BLAHNÍKOVA BLAHOSLAVOVA BLODKOVA BOLESLAVSKÁ BOŘIVOJOVA BUCHOVCOVA BUKOVÁ CIMBURKOVA ČAJKOVSKÉHO ČÁSLAVSKÁ ČERNÍNOVA ČESKOBRATRSKÁ ČESKOBRODSKÁ DALIMILOVA DOMAŽLICKÁ FIBICHOVA HABROVÁ HÁJKOVA HORNÍ STROMKY HOŘANSKÁ HRADECKÁ HRANIČNÍ HUSINECKÁ HUSITSKÁ CHELČICKÉHO CHLUMOVA CHRUDIMSKÁ CHVALOVA ITALSKÁ IZRAELSKÁ JAGELLONSKÁ JANA ŽELIVSKÉHO JERONÝMOVA JESENIOVA JEŽKOVA JIČÍNSKÁ
+
+JILMOVÁ K ČERVENÉMU DVORU K CHMELNICI K LUČINÁM K VRCHOLU KALIŠNICKÁ KE KAPSLOVNĚ KOLDÍNOVA KOLÍNSKÁ KONĚVOVA KORUNNÍ KOUŘIMSKÁ KRÁSOVA KŘIŠŤANOVA KŘIVÁ KŘÍŽKOVSKÉHO KUBELÍKOVA KUNEŠOVA KVĚTINKOVÁ KVĚTNÁ LAUBOVA LIBICKÁ LIPANSKÁ LOUDOVA LUCEMBURSKÁ LUČNÍ LUKÁŠOVA LUPÁČOVA MALEŠICKÁ MEZI DOMKY MILEŠOVSKÁ MILÍČOVA NA BALKÁNĚ NA HLÍDCE NA CHMELNICI NA JAROVĚ NA LUČINÁCH NA MOKŘINĚ
+
+NA OHRADĚ NA PARUKÁŘCE NA ROVNOSTI NA TŘEBEŠÍNĚ NA VACKOVĚ NA VÁPENCE NA VIKTORCE NA VLASTNÍM NA VRCHOLU NAD LUKAMI NAD OHRADOU NITRANSKÁ NOVOVYSOČANSKÁ OLŠANSKÁ OLGY HAVLOVÉ ONDŘÍČKOVA OREBITSKÁ ORLICKÁ OSIKOVÁ OSTROMEČSKÁ PERNEROVA PERUNOVA PÍSECKÁ PITTEROVA PLAVÍNOVA POD JAROVEM POD KAPLIČKOU POD KREJCÁRKEM POD LIPAMI POD PARUKÁŘKOU POD VÍTKOVEM POD VRCHOLEM POD ŽIDOVSKÝMI HŘBITOVY POSPÍŠILOVA PRAŽAČKA PROKOPOVA PRVNÍHO PLUKU PŘEMYSLOVSKÁ
+
+33
+
+PŘIBĚNICKÁ PŘIBYSLAVSKÁ RADHOŠŤSKÁ REČKOVA RIXDORFSKÁ ROHÁČOVA ROKYCANOVA ŘEHOŘOVA ŘIPSKÁ SABINOVA SAUEROVA SEIFERTOVA SCHÖFFLEROVA SIWIECOVA SLAVÍKOVA SLEZSKÁ SOBĚSLAVSKÁ STRÁŽNÍ SUDOMĚŘSKÁ ŠEVČÍKOVA ŠIKMÁ
+
+ŠROBÁROVA ŠTÍTNÉHO TÁBORITSKÁ TOVAČOVSKÉHO TROCNOVSKÁ U BOŽÍCH BOJOVNÍKŮ U KNĚŽSKÉ LOUKY U NÁKLADOVÉHO NÁDRAŽÍ U PAMÁTNÍKU U RAJSKÉ ZAHRADY U STARÉ CIHELNY U VINOHRADSKÉ NEMOCNICE U VINOHRADSKÉHO HŘBITOVA U VODÁRNY U ZÁSOBNÍ ZAHRADY V BEZPEČÍ V DOMOVĚ
+
+V HORNÍ STROMCE V JEZERÁCH V OKRUŽÍ V ZAHRÁDKÁCH V ZELENI V KAPSLOVNĚ VELEHRADSKÁ VIKLEFOVA VINOHRADSKÁ VÍTA NEJEDLÉHO VLKOVA VOTICKÁ VOZOVÁ ZA VACKOVEM ZA ŽIŽKOVSKOU VOZOVNOU ZÁSMUCKÁ ZELENKY-HAJSKÉHO ZVONAŘOVA ŽEROTÍNOVA
+
+4. PARKY BASILEJSKÉ NÁM. HAVLÍČKOVO NÁM. HOLLAROVO NÁM. KOSTNICKÉ NÁM. MAHLEROVY SADY NA PARUKÁŘCE NÁM. BARIKÁD NÁM. JIŘÍHO Z LOBKOVIC NÁM. JIŘÍHO Z PODĚBRAD NÁM. WINSTONA CHURCHILLA OHRADA OLŠANSKÉ NÁM. parčík v ul. KOUŘIMSKÁ park v ul. U KNĚŽSKÉ LOUKY
+
+park u nákladového nádraží park u sv. Rocha park u Vinohradské nemocnice park u Základní školy Jeseniova park v ul. PRAŽAČKA SLADKOVSKÉHO NÁM. ŠKROUPOVO NÁM. TACHOVSKÉ NÁM. Vrch sv. Kříže Vrch Vítkov ZÁSOBNÍ ZAHRADA ŽIDOVSKÉ PECE ŽIŽKOVO NÁM.
+
+5. VEŘEJNÁ ZELEŇ sídlištní zeleň: sídliště Chmelnice - prostranství ohraničené ul. NA VRCHOLU, V DOMOVĚ, POD VRCHOLEM, NA BALKÁNĚ, SPOJOVACÍ a KONĚVOVA; sídliště Jarov - prostranství ohraničené ul. KONĚVOVA, OSIKOVÁ, železniční tratí a ul. MALEŠICKÁ a V ZAHRÁDKÁCH; sídliště Parukářka - prostranství ohraničené ul. JESENIOVA, park NA PARUKÁŘCE, ul. NA PARUKÁŘCE, VRCH SV. KŘÍŽE a ul. TOVAČOVSKÉHO; ostatní:
+
+34
+
+veřejné hřiště ohraničené ul. NA BALKÁNĚ, KUNEŠOVA, NA KREJCÁRKU a objektem Domu dětí a mládeže; prostranství ohraničené ul. OLŠANSKÁ a PITTEROVA a domy v ul. OLŠANSKÁ č. 5 a 7; prostranství ohraničené ul. OSIKOVÁ, POD LIPAMI a ČESKOBRODSKÁ a objektem Auto Jarov č. p. 2688; prostranství ohraničené ul. KONĚVOVA, V ZAHRÁDKÁCH, POD LIPAMI, NA VACKOVĚ a JESENIOVA; prostranství mezi ul. KE KAPSLOVNĚ a ZÁSOBNÍ ZAHRADOU; prostranství ohraničené ul. VINOHRADSKÁ, OLŠANSKÉ HŘBITOVY, JIČÍNSKÁ a JANA ŽELIVSKÉHO; záhon v ul. TÁBORITSKÁ č. parc. 1688/4 v k. ú. Žižkov; 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ přístupové cesty a plochy u stanic metra: Flora - prostranství ohraničené východy z metra na ulici VINOHRADSKÁ a prosklenými dveřmi ohraničujícími uzavíratelný prostor metra; Jana Želivského - prostranství ohraničené východy z metra na ulici VINOHRADSKÁ a J. ŽELIVSKÉHO a prosklenými dveřmi ohraničujícími uzavíratelný prostor metra; NÁM. JIŘÍHO Z PODĚBRAD - prostranství ohraničené východy z metra na ulice VINOHRADSKÁ a NÁM. JIŘÍHO Z PODĚBRAD a prosklenými dveřmi ohraničujícími uzavíratelný prostor metra; ostatní: prostranství ohraničené ulicemi: JESENIOVA, OSTROMEČSKÁ, ROHÁČOVA a BLAHOSLAVOVA; KUBELÍKOVA, BOŘIVOJOVA, ONDŘÍČKOVA a TÁBORITSKÁ (BEZOVKA); LOUDOVA, BISKUPCOVA, ZA ŽIŽKOVSKOU VOZOVNOU a KONĚVOVA; LUPÁČOVA, CHELČICKÉHO, ROKYCANOVA a PROKOPOVA; NA OHRADĚ, KONĚVOVA, NAD OHRADOU a ZA ŽIŽKOVSKOU VOZOVNOU; RADHOŠŤSKÁ, KŘIŠŤANOVA, LUCEMBURSKÁ a BARANOVA; autobusové nádraží Jana Želivského; prostranství v ul. KONĚVOVA mezi chodníkem a domy č. 163/2412, 165/1519, 167/1905, 169/1884, 171/1885, 173/1886, 175/1625, 176/2396, 177/1624, 178/2397, 179/1627, 180/2398, 181/1740, 182/1945, 183/1741 a 184/2399; prostranství mezi objektem KONĚVOVA č. p. 2502 a vozovkou ul. KONĚVOVA a POD LIPAMI; terasa nad podchody a vestibulem stanice metra Flora; parkoviště u FK Viktoria Žižkov; proluka mezi domy Jana Želivského č. 11/2385 a 13/2386 mezi ul. KE KAPSLOVNĚ a JANA ŽELIVSKÉHO; prostranství ohraničené ul. TÁBORITSKÁ, LIPANSKÁ a CHELČICKÉHO a objektem v ul. TÁBORITSKÁ č. 1/911; cyklostezka na úpatí vrchu Vítkov; č. parc. 3541/95 v k. ú. Žižkov; č. parc. 4435/20 v k. ú. Žižkov.
+
+MĚSTSKÁ ČÁST PRAHA 4 1.  NÁMĚSTÍ BRANICKÉ NÁM. DVORECKÉ NÁM.
+
+JIŽNÍ NÁM. NÁM. BRATŘÍ SYNKŮ
+
+NÁM. GENERÁLA KUTLVAŠRA
+
+35
+
+NÁM. HRDINŮ NÁM. PAŘÍŽSKÉ KOMUNY
+
+NEDVĚDOVO NÁM. PANKRÁCKÉ NÁM. PAŘÍŽSKÉ KOMUNY
+
+ROZTYLSKÉ NÁM. VÝCHODNÍ NÁM 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY 5. KVĚTNA ADAMOVSKÁ AKSAMITOVA ANTALA STAŠKA BAAROVA BARRANDOVSKÝ MOST BARTÁKOVA BARTOŠKOVA BATELOVSKÁ BĚLČICKÁ BĚLEHRADSKÁ BERNOLÁKOVA BEZOVÁ BÍTOVSKÁ BLAŽÍČKOVA BOČNÍ I BOČNÍ II BOHDALEC BOHROVA BOHUSLAVA MARTINU BOHUSLAVA ZE ŠVAMBERKA BOJANOVICKÁ BOLESLAVOVA BOŽETĚCHOVA BOŽKOVSKÁ BRABCOVA BRANICKÁ BRZOTICKÁ BŘIDLIĆNÁ BUDĚJOVICKÁ BYSTŘICKÁ CTIBOROVA CTIRADOVA ČAPKOVA ČERČANSKÁ ČESTMÍROVA ČIKLOVA ČIMELICKÁ ČTYŘDÍLNÁ
+
+DAČICKÉHO DĚKANSKÁ DĚKANSKÁ VINICE I DĚKANSKÁ VINICE II DOBRUŠSKÁ DOBŘEJOVICKÁ DOLNÍ DOLNOKRČSKÁ DOUDLEBSKÁ DOUDOVA DRUŽNOSTI DRUŽSTEVNÍ DRUŽSTEVNÍ OCHOZ DUDINSKÁ DUNICKÁ DURYCHOVA DVORECKÁ DVOURAMENNÁ FILLOVA FILOSOFSKÁ GONČARENKOVA HADOVITÁ HALASOVA HANUSOVA HAVLOVICKÉHO HEČKOVA HERÁLECKÁ I HERÁLECKÁ II HERÁLECKÁ III HERÁLECKÁ IV HLAVNÍ HODONÍNSKÁ HOFFMANNOVA HOLČOVICKÁ HORÁČKOVA HORNÍ HORNOKRČSKÁ HRADECKÝCH HRUSICKÁ HUDEČKOVA HUMPOLECKÁ
+
+HURBANOVA HUŤSKÁ HVĚZDOVA CHOCERADSKÁ CHODOVSKÁ CHORATICKÁ CHÝNKOVSKÁ JALODVORSKÁ JANKOVSKÁ JÁNOŠÍKOVA JASNÁ I JASNÁ II JAURISOVA JEMNICKÁ JEREMENKOVA JEŠETICKÁ JIHLAVSKÁ JIHOVÝCHODNÍ I JIHOVÝCHODNÍ II JIHOVÝCHODNÍ III JIHOVÝCHODNÍ IV JIHOVÝCHODNÍ V JIHOVÝCHODNÍ VI JIHOVÝCHODNÍ VII JIHOVÝCHODNÍ VIII JIHOVÝCHODNÍ IX JIHOZÁPADNÍ I JIHOZÁPADNÍ II JIHOZÁPADNÍ III JIHOZÁPADNÍ IV JIHOZÁPADNÍ V JIHOZÁPADNÍ VI JÍLOVSKÁ JISKROVA JITŘNÍ JIVENSKÁ JIŽNÍ I JIŽNÍ II JIŽNÍ III JIŽNÍ IV JIŽNÍ V
+
+36
+
+JIŽNÍ VI JIŽNÍ VII JIŽNÍ VIII JIŽNÍ IX JIŽNÍ X JIŽNÍ XI JIŽNÍ XII JIŽNÍ XIII JIŽNÍ XIV JIŽNÍ XV JIŽNÍ XVI JIŽNÍ XVII JIŽNÍ SPOJKA K DUBINÁM K HABROVCE K HÁJOVNĚ K NOVÉMU DVORU K OCHOZU K PODJEZDU K RYŠÁNCE K SÍDLIŠTI K VYSOKÉ CESTĚ K VÝZKUMNÝM ÚSTAVŮM K ZÁTIŠÍ KAČEROVSKÁ KAMENITÁ KAPITULSKÁ KAPLICKÁ KE GARÁŽÍM KE KLÁSCE KE KLÍNKU KE KRČI KE KRČSKÉ STRÁNI KE SPOŘILOVU KISCHOVA KLÁNOVA KLAPÁLKOVA KLOBOUČNICKÁ KONGRESOVÁ KORANDOVA KOTORSKÁ KOVAŘOVICOVA KOVRIGINOVA KRAJÁNKOVA KRAJOVÁ KRČSKÁ KREMLIČKOVA KREMNICKÁ KRHANICKÁ
+
+KRCHLEBSKÁ KRUMLOVSKÁ KŘESOMYSLOVA KUBIŠTOVA KUKUČINOVA KUNRATICKÁ KUNŽATSKÁ KVESTORSKÁ KVĚTNOVÝCH BOJŮ KYKALOVA LEŠANSKÁ LEVÁ LIBUŠSKÁ LOMNICKÉHO LOPATECKÁ LOUNSKÝCH LUDVÍKOVA LUKEŠOVA MAGISTRŮ MACHOVCOVA MALOVICKÁ MARIÁNSKÁ MARIE CIBULKOVÉ MAROLDOVA MATĚCHOVA MATEK MEČISLAVOVA MĚCHENICKÁ MENDÍKŮ MEZI LYSINAMI MEZI SKLADY MEZI STRÁNĚMI MEZILESNÍ MEZIPOLÍ MEZIVRŠÍ MICHELSKÁ MIKULÁŠE Z HUSI MIKULECKÉHO MILEVSKÁ MIROTICKÁ MODŘANSKÁ MOJMÍROVA MOYSESOVA MURGAŠOVA NA BITEVNÍ PLÁNI NA BOROVÉM NA BRÁZDĚ NA BUČANCE NA DĚDINÁCH NA DÍLECH
+
+NA DLOUHÉ MEZI NA DOBEŠCE NA DOLINÁCH NA DUBINĚ NA DVORCÍCH NA FIDLOVAČCE NA HŘEBENECH I NA HŘEBENECH II NA CHODOVCI NA JEZERCE NA KAČEROVĚ NA KAVČÍCH HORÁCH NA KLAUDIÁNCE NA KLIKOVCE NA KOLEJNÍM STATKU NA KRČSKÉ STRÁNI NA KŘIVINĚ NA KVĚTNICI NA LÁNECH NA LEPŠÍM NA LÍŠE NA LYSINÁCH NA LYSINĚ NA MLEJNKU NA NÁVRŠÍ NA NIVÁCH NA NOVINĚ NA OSTRUVKU NA PANKRÁCI NA PLANINĚ NA PODKOVCE NA PŘÍČCE NA ROLÍCH NA ROVINÁCH NA ROZHLEDU NA SCHODECH NA SPONĚ NA STARÉ CESTĚ NA STARÉ VINICI NA STRŽI NA SYPČINĚ NA TOPOLCE NA ÚHORU NA ÚLEHLI NA USEDLOSTI NA ÚSPĚCHU NA VÁPENNÉM NA VESELÍ
+
+37
+
+NA VĚTROVĚ NA VINOHRADU NA VÍTĚZNÉ PLÁNI NA VRSTEVNICI NA VRSTVÁCH NA VÝSLEDKU I NA VÝSLEDKU II NA VÝSPĚ NA VÝSTUPU NA ZÁHONECH NA ZÁMECKÉ NA ZEMANCE NA ZLATNICI NA ZRUŠENÉ CESTĚ NA ZVONIČCE NA ZVONIČCE I NAD BRANICKÝM PIVOVAREM NAD CEMENTÁRNOU NAD CIHELNOU NAD HÁJEM NAD HAVLEM NAD JEZERKOU NAD KOLONIÍ NAD KOSTELEM NAD KOUPADLY NAD KŘÍŽKEM NAD LESEM NAD LESNÍM DIVADLEM NAD LOMEM NAD MALÝM MÝTEM NAD NUSLEMI NAD OBCÍ I NAD OBCÍ II NAD ONDŘEJOVEM NAD OSTROVEM NAD PEKAŘKOU NAD PÍSKOVNOU NAD PRUHY NAD PŘÍVOZEM NAD SADY NAD SOKOLOVNOU NAD SPÁDEM NAD STROUHOU NAD STUDÁNKOU NAD SVAHEM NAD ŠÁLKOVNOU NAD ÚDOLÍM NAD VINOHRADEM
+
+NAD VINNÝM POTOKEM NAD VRSTVAMI NAD ZÁTIŠÍM NAD ZEMANKOU NÁVRŠNÍ NĚMČICKÁ NEVEKLOVSKÁ NOVÁ CESTA NOVODVORSKÁ NOVOHRÁDECKÁ NUSELSKÁ NUSELSKÝ MOST OBĚTÍ 6. KVĚTNA OHNIVCOVA OHRADNÍ OLBRACHTOVA OTAKAROVA PABĚNICKÁ PACOVSKÁ PÁLKAŘSKÁ PANUŠKOVA PAPRSKOVÁ PASTEUROVA PECHAROVA PEKÁRENSKÁ PELHŘIMOVSKÁ PERLITOVÁ PETRA REZKA PIKOVICKÁ PIKRTOVA PÍSNICKÁ PLAMÍNKOVÉ POBEROVA POBOČNÁ POBŘEŽNÍ CESTA POČÁTECKÁ POD DÁLNICÍ POD DĚKANKOU POD FAROU POD JALOVÝM DVOREM POD JIRÁSKOVOU ČTVRTÍ POD KLAUDIÁNKOU POD KOPCEM POD KRČSKÝM LESEM POD KŘÍŽKEM POD LÁZNÍ
+
+POD LYSINAMI POD PEKAŘKOU POD PRAMENEM POD ROVINOU POD SOKOLOVNOU POD STÁRKOU POD SVAHEM POD SYCHROVEM I POD TEREBKOU POD VILAMI POD VINOHRADEM POD VIŠŇOVKOU POD VRSTEVNICÍ POD VRŠOVICKOU VODÁRNOU I POD VRŠOVICKOU VODÁRNOU II POD VRŠOVICKOU VODÁRNOU III POD VYŠEHRADEM POD ZEMANKOU PODLE KAČEROVA PODLE NÁHONU PODOLSKÁ PODOLSKÉ NÁBŘEŽÍ PODOLSKÉ SCHODY POLÁČKOVA POČÁTECKÁ POLEDNÍ POSTRANNÍ POSTUPICKÁ PRAVÁ PROCHÁZKOVA PROSTŘEDNÍ PRŮČELNÍ PŘED NÁDRAŽÍM PŘECHODNÍ PŘI TRATI PŘÍKRÁ PŘÍMĚTICKÁ PSÁRSKÁ PSOHLAVCŮ PÚCHOVSKÁ PUJMANOVÉ PŮLNOČNÍ PYŠELSKÁ RABASOVA RADOVA RODVINOVSKÁ ROSEČSKÁ
+
+38
+
+ROSTISLAVOVA ROŠKOTOVA ROVNOBĚŽNÁ ROZÁRČINA RUNCZIKOVA RUŽENÍNSKÁ RUŽINOVSKÁ RYBÁŘSKÁ SAVELJEVOVA SDRUŽENÍ SEDLČANSKÁ SENOHRABSKÁ SENOŽATSKÁ SEVERNÍ I SEVERNÍ II SEVERNÍ III SEVERNÍ IV SEVERNÍ V SEVERNÍ VI SEVERNÍ VII SEVERNÍ VIII SEVERNÍ IX SEVERNÍ X SEVERNÍ XI SEVEROVÝCHODNÍ I SEVEROVÝCHODNÍ II SEVEROVÝCHODNÍ III SEVEROVÝCHODNÍ IV SEVEROVÝCHODNÍ V SEVEROVÝCHODNÍ VI SEVEROZÁPADNÍ I SEVEROZÁPADNÍ II SEVEROZÁPADNÍ III SEVEROZÁPADNÍ IV SEVEROZÁPADNÍ V SEVEROZÁPADNÍ VI SEVŘENÁ SEZIMOVA SINKULOVA SITTEHO SKALÁKŮ SLÁDKOVIČOVA SLEPÁ I SLEPÁ II SLIAČSKÁ SOSNOVA SOUDNÍ SOUVRATNÍ SPOLUPRÁCE SRÁZNÁ
+
+STALLICHOVA STARÁ CESTA STAVBAŘŮ STRUHAŘOVSKÁ STŘIMELICKÁ SULICKÁ SVATOSLAVOVA SVÁŽNÁ SVOJŠOVICKÁ ŠEVCE MATOUŠE ŠÍPKOVÁ ŠKOLNÍ STRMILOVSKÁ ŠTĚTKOVA ŠTÚROVA TÁBORSKÁ TÁHLÁ TAJOVSKÉHO TALAFÚSOVA TAVOLNÍKOVÁ TELČSKÁ TERASOVITÁ THOMAYEROVA TILCHOVÉ TOČITÁ TOUŠEŇSKÁ TRENČÍNSKÁ TRNAVSKÁ TRNKOVÁ TŘEBOŇSKÁ TÝMLOVA U BOTIČE U ČTYŘ DOMŮ U DĚKANKY U DOBEŠKY U DRUŽSTEV U DRUŽSTVA IDEÁL U DRUŽSTVA PRÁCE U DRUŽSTVA REPO U DRUŽSTVA TEMPO U DRUŽSTVA ŽIVOT U DUBU U GYMNÁZIA U HABROVKY U HÁJE U HELLADY U JEDLIČKOVA ÚSTAVU U JEZERKY U KEMPINKU
+
+U KOUPADEL U KOLA U KRČSKÉ VODÁRNY U KRČSKÉHO NÁDRAŽÍ U KŘÍŽKU U KUBLOVA U LÁZNÍ U LEDÁREN U LESA U LIBUŠINÝCH LÁZNÍ U MICHELSKÉ ŠKOLY U MICHELSKÉHO LESA U MICHELSKÉHO MLÝNA U MLÝNA U NÁS U NOVÉHO DVORA U NOVÝCH DOMŮ I U NOVÝCH DOMŮ II U NOVÝCH DOMŮ III U PERNŠTEJNSKÝCH U PLYNÁRNY U PODOLSKÉHO HŘBITOVA U PODOLSKÉHO SANATORIA U POMNÍKU U PRAŽSKÝCH LOMŮ U PROPUSTI U RYŠÁNKY U SLOVANSKÉ POJIŠŤOVNY U SPOLEČENSKÉ ZAHRADY U STARÉ POŠTY U STRŽE U SVÉPOMOCI U ŠÁLKOVNY U VÁPENNÉ SKÁLY U VODOTOKU ÚDOLNÍ V HODKOVIČKÁCH V HORKÁCH V JEHLIČÍ V KOLE V KŘOVINÁCH V LÍSKÁCH V LUČINÁCH
+
+39
+
+V LUHU V MALÝCH DOMECH I V MALÝCH DOMECH II V MALÝCH DOMECH III V MOKŘINÁCH V NÁKLÍCH V OBČANSKÉM DOMOVĚ V ONDŘEJOVĚ V PEVNOSTI V PLÁNI V PODHÁJÍ V PODLESÍ V PODLUŽÍ V PODZÁMČÍ V POLÍCH V ROVINÁCH V ŠTÍHLÁCH V ÚHLU V ZAHRADNÍ ČTVRTI V ZÁLOMU V ZÁPOLÍ V ZÁTIŠÍ V ZÁVITU VALTÍNOVSKÁ VÁPENCOVÁ VAVŘENOVA VE DVOŘE
+
+VE LHOTCE VE STUDENÉM VE SVAHU VE VILÁCH VEČERNÍ VĚKOVA VESTAVĚNÁ VÍDEŇSKÁ VIKOVA VIKTORINOVA VIŠŇOVÁ VÍTOVCOVA VLADIMÍROVA VLASTISLAVOVA VLNITÁ VNĚJŠÍ VNITŘNÍ VODÁRENSKÁ VOKÁČOVA VOKÁČOVSKÁ VOSTRÉHO VRBOVA VRÚTECKÁ VÝCHOZÍ VYSKOČILOVA VYSOKÁ CESTA VYŠŠÍ VZDUŠNÁ ZA ARIELEM ZA DVOREM
+
+ZA JALOVÝM DVOREM ZA MLÝNEM ZA OBECNÍM ÚŘADEM ZA PEKAŘKOU ZA PRUHY ZA SKALKOU ZA ZELENOU LIŠKOU ZACHOVA ZÁLESÍ ZALOMENÁ ZAPADLÁ ZAPOMENUTÁ ZÁRYBNIČNÁ ZÁVIŠOVA ZDARU ZDAŘILÁ ZELENÝ PRUH ZELINÁŘSKÁ ZEMANKA ZNOJEMSKÁ ZVÁNOVICKÁ ZVOLENSKÁ ŽALMANOVA ŽAMPAŠSKÁ ŽATECKÝCH ŽELETAVSKÁ ŽIDLICKÉHO ŽILINSKÁ 4. PARKY k. ú. Michle (č. parc.) SADY NA JEZERCE – část  932/3, 932/72, 967/1; k. ú. Nusle (č. parc.) Fidlovačka 103/1; SADY NA JEZERCE 2387/1, 2388, 2389, 2390, 3161, 3162/1, 3163/1, 3163/2, 3163/3; JIRÁSKOVY SADY 731, 801, 802, 3012/1; k. ú. Záběhlice (č. parc.) ROZTYLSKÉ SADY a ROZTYLSKÉ NÁMĚSTÍ 4393, 4395, 5799, 5800, 5804, 5805, 5806, 5808, 5809, 5813, 5814, 5815, 5819, 5820, 5821/1, 5841, 5842, 5843; k. ú. Braník (č. parc.) Branický park, na BRANICKÉM NÁM. 1729/2, 1729/4, 2834, 2835; Park pod lomem, pod BRANICKOU SKÁLOU 141/6; Park u Branického pivovaru – MODŘANSKÁ 1993;
+
+40
+
+Park na ZELENÉM PRUHU – NA DOBEŠCE 755, 759/2, 760, 761, 762, 763, 757, 758, 764/1, 764/2,  766/1, 2885/2, 2886; Ekopark ZA MLÝNEM  1613/1, 1613/4, 1618/1, 1689, 2823, 2825/1, 2827, 2828, 2829, 2833/1, 2833/2, 2833/3, 2833/4, 2833/6, 2833/13, 2833/14, 2833/15, 3085/1; k. ú. Krč (č. parc.) Krčský park 9, 12/2, 12/8, 15/1, 15/2, 19, 20, 2209/1, 2209/3, 2209/4, 2209/5, 2211/1, 2211/2, 2211/3, 2212/1, 2212/2, 2213/1, 2213/2, 2213/3, 2215, 2216/1, 2216/2, 2216/3, 2217, 3319/6, 3324; u Krčského hřbitova, ul. NA STRŽI 1142/1, 3180/2; parkové plochy na ZÁLESÍ 2573/1, 2574/1, 2574/2, 2574/3, 2574/4, 2574/5, 2575/2, 2576; k. ú. Lhotka (č. parc.) ALŠOVY SADY 1951/3; SLEPÁ I. 1979; k. ú. Michle (č. parc.) MADELONKA, MICHELSKÁ ul. 1543/2, 1644, 3362/1, 3362/2, 3363/1; parkové plochy MICHELSKÁ - V ZÁPOLÍ 1710, 1711/1, 3362/1, 3372/1, 3372/4, 3372/6, 3468; k. ú. Nusle (č. parc.) NÁM. HRDINŮ  3140/2, 3140/8; u kostela sv. Pankráce  1721/1; u Paláce kultury 1527/1, 3070/1; u Táborské brány, před Vyšehradem 1521, 1524, 1548/3, 1557, 1558, 1579, 3103/2; k. ú. Podolí (č. parc.) Kavčí hory 993, 1090/3, 1093/3, 1187/10; NEDVĚDOVO NÁM. 3, 4, 6, 1972/1, 1972/2; SLEPIČÁRNA, ul. NA TOPOLCE 85/1, 101, 102, 114, 2021/1; U PODOLSKÉHO HŘBITOVA 838, 1980/2, 1983, 1984, 1985; u Podolské vodárny 409/2, 409/5, 413/1, 413/2, 2033, 2050; Park u kostela sv. Michala 61/1, 61/7, 61/8, 61/9, 61/12; k. ú. Nusle (č. parc.) Park Družba – k. ú. Nusle, 2910/99, č.2910/263, 2910/277, 2910/207, 2910/296, 2910/294, 2910/292, 2910/193, 2910/262; k. ú. Michle (č. parc.) Park Jezerka – k. ú. Michle,  968/1, 967/1, 322/1, 975, 3220; k. ú.  Nusle k. ú. Nusle, parc. č. 2387/1, 3163/2, 3161, 2988, 3162/1, 2388, 3163/1; k. ú. Braník Ledárny – k. ú. Braník, parc. č. 1899, 1900, 1902, 1903, 1905, 1907/1, 1909, 1911/3, 1912, 1913, 1914, 1917, 1918/1, 1918/2, 1919/1, 1919/4, 1919/5; 5. VEŘEJNÁ ZELEŇ
+
+41
+
+k. ú. Braník (č. parc.) 2 98/16 99/1 101/13 101/14 115/8 141/2 146 158 159 160 162 163/1 241/1 276/2 276/3 276/8 276/4 276/8 277/2 277/3 280/1 280/2 281/1 281/2 287 290 300/1 300/5 300/7 300/8 306/1 310/111 310/146 332/4 332/11 332/42 332/43 346/27 348/15 348/21 354 374/8 379/18 944
+
+945 946 948 951/1 951/3 951/4 951/5 951/15 951/16 1012/17 1012/18 1566/2 1598/1 1598/2 1609 1665/1 1665/2 1765/5 1765/6 1765/7 1765/11 1765/16 1794/1 1794/8 1816 1817/6 1817/7 1817/9 1889 1892 1893 1969/3 1969/4 1970 1988/2 1988/3 2265/2 2276/4 2277/1 2277/4 2279 2280/1 2280/8 2281 2287/1
+
+2381/1 2381/2 2381/9 2381/18 2381/21 2381/28 2381/32 2381/33 2384/1 2385/1 2391/1 2395/9 2468/1 2468/3 2468/4 2573/1 2573/2 2612/89 2612/135 2612/136 2612/137 2612/138 2612/139 2612/140 2612/141 2612/142 2612/143 2612/144 2612/145 2612/146 2612/150 2612/151 2612/152 2612/153 2612/154 2612/155 2612/159 2612/163 2612/208 2612/212 2612/215 2612/225 2612/227 2612/228 2612/233
+
+2612/234 2612/235 2612/236 2612/237 2612/238 2612/239 2612/241 2612/242 2612/243 2612/244 2612/245 2612/246 2612/247 2612/248 2612/249 2612/250 2612/251 2612/252 2612/253 2612/254 2612/255 2612/256 2612/257 2612/283 2692/51 2692/53 2692/61 2692/62 2692/63 2692/71 2692/72 2692/75 2692/87 2692/93 2692/94 2692/95 2692/106 2704/40 2704/106 2709/2 2711/6 2711/8 2743/3 2743/4 2743/5
+
+2745/2 2796/6 2798/1 2804/3 2834 2904/3 2907/5 2909/2 2909/3 2909/4 2909/5 2909/6 2936/5 2936/7 2938 2939/2 2939/8 2940/2 2962 2972/7 2989/4 2997 3010/1 3011/2 3033/2 3046/1 3046/2 3048/1 3048/2 3048/4 3048/6 3066/4 3066/7 3100/3 3100/6 3100/7 3124/28 3124/29 3124/38 3124/42 3124/65 3124/86
+
+k. ú. Hodkovičky (č. parc.) 2 5 39/6 39/8 399/1 428/7 430/7 431/1 432/1 432/19
+
+42
+
+433/8 438/1 438/2 438/3 438/4 438/5
+
+438/6 438/7 438/8 438/9 438/10 438/11
+
+438/12 438/13 715 759 770 844/1
+
+844/2 853/2 892 903/1 972 980/2
+
+996/5 1006/3 1026/4
+
+k. ú. Krč (č. parc.) 48/1 48/4 110/3 110/4 110/7 110/16 110/17 110/18 243 247/3 247/11 259/2 527/2 826/2 879/1 879/33 879/47 879/56 849/57 893/5 894/2 894/3 894/4 894/9 895/3 898/55 899 1052/1 1052/69 1052/70 1052/72 1052/73 1052/74 1052/84 1052/90 1052/95 1052/98 1052/99 1052/100 1052/101 1052/107 1052/109
+
+1052/110 1052/112 1052/113 1052/114 1052/141 1052/142 1052/144 1052/166 1052/167 1052/168 1052/169 1052/170 1052/171 1052/172 1052/174 1052/176 1052/178 1052/180 1052/185 1052/186 1052/187 1052/188 1052/189 1052/222 1106/2 1110 1114 1138 1142/3 1142/33 1142/34 1148/4 1148/5 1148/6 1148/8 1148/9 1148/16 1148/26 1239/4 1250/1 1250/13 1250/20
+
+1250/25 1250/30 1250/36 1250/42 1250/48 1250/54 1252/1 1254/1 1254/2 1254/29 1254/58 1254/68 1255/4 1255/39 1255/43 1256/19 1256/20 1257/3 1257/6 1263/3 1264/5 1264/13 1264/25 1264/28 1264/32 1264/38 1264/50 1264/54 1268/1 1277/2 1277/3 1277/4 1277/5 1285/20 1285/43 1285/59 1285/66 1285/68 1285/74 1285/91 1285/92 1285/93
+
+1285/94 1285/112 1354 1588/2 1588/34 1588/38 1726 1727 1988 1995 1996 1997 2000/1 2000/2 2000/3 2000/6 2000/7 2000/9 2000/10 2019/16 2023/3 2023/6 2023/7 2023/8 2023/9 2034 2035/2 2035/4 2035/6 2044/1 2044/2 2044/6 2064/7 2092/12 2114/1 2130 2131/1 2131/2 2137/1 2375/1 2375/7 2585/5
+
+2791/1 2869/179 2869/181 2869/187 2869/197 2869/236 2869/237 2869/238 2869/240 2869/257 2869/258 2869/259 2869/260 2869/261 2869/265 2869/271 2869/272 2869/273 2869/275 2869/276 2869/277 2869/279 2869/280 2869/281 2869/284 2869/285 2869/313 2869/316 2869/320 2869/321 2869/322 2869/323 2869/324 2869/329 2869/330 2869/331 2869/332 2869/333 2869/334 2869/335 2869/336 2869/337
+
+43
+
+2869/338 2869/339 2869/340 2869/341 2869/342 2869/344 2869/346 2869/347 2869/348 2869/350 2893/57 2893/59
+
+2893/61 2893/62 2893/77 2893/90 2893/99 2893/110 2893/112 2893/136 2893/149 2893/151 2893/159 2893/167
+
+2893/171 2893/172 2893/174 2893/205 2893/209 2893/211 2893/212 2893/217 2893/224 2893/226 2893/227 2893/231
+
+2893/232 2893/262 2893/266 2893/268 2893/269 3159/3 3163/1 3181/2 3190/2 3190/3 3201/8 3201/9
+
+3201/10 3218/3 3248/158 3248/160 3301/3 3301/4 3340/1 3342 3344 3345/2
+
+k. ú. Lhotka (č. parc.) 140/58 140/59 140/62 140/64 140/65 140/72 140/82 140/87 140/88 140/89 140/90 140/91 140/104
+
+140/105 140/106 140/108 716 773/1 773/2 773/7 773/18 773/25 773/26 773/30 773/39 773/44
+
+773/50 773/51 773/52 773/54 773/56 773/57 773/59 773/63 773/65 773/67 773/68 773/70 773/73
+
+773/74 773/76 773/79 773/80 773/82 773/83 954 963/8 963/11 964 966/2 969/1 980/1
+
+998/1 998/4 1047/4 1156 1951/4 1964/3 1983/2 1989/3 1989/5 1989/6
+
+k. ú. Michle (č. parc.) 58 60/6 60/12 60/13 60/18 60/22 60/23 96/15 96/18 96/23 96/29 96/32 96/36 96/42 96/46 96/52 96/69 96/76 176/1 178/2 190/2
+
+206/5 209/2 210 211 212 213/2 214/9 214/12 219 221/5 221/8 227/9 227/13 227/14 234/2 236 236/1 284 286 289 290/16
+
+290/19 291/11 291/16 305 306 310/112 310/114 310/117 310/118 310/125 310/128 310/129 310/132 310/133 310/134 310/135 310/136 310/147 310/148 310/149 310/157
+
+310/158 310/164 369/2 436/5 440/5 440/6 441/2 504 505 516/1 517/1 558/5 558/6 558/7 700/1 700/21 700/22 700/24 700/29 700/30 700/31
+
+700/32 700/33 700/50 700/54 700/55 700/69 700/70 700/72 700/74 700/77 700/79 700/80 700/82 700/83 700/84 700/87 700/88 700/91 700/93 700/98 700/99
+
+44
+
+700/102 700/111 700/115 700/119 700/120 700/125 700/129 700/137 700/169 700/170 700/171 700/173 729 766/1 766/2 767/1 767/2 785/1 785/18 785/22 785/25 785/26 785/27 785/28 785/29 785/30 785/31 785/32 785/33 785/36 785/38
+
+854/1 854/2 854/3 895/4 1119 1121 1234/10 1234/30 1234/31 1234/33 1290 1291/3 1307/12 1724/4 1724/9 1724/17 1743/2 1743/5 1748/17 1748/19 1748/21 1748/94 1748/95 1748/97 1748/98 1748/99 1748/112 1748/113 1748/114 1748/115 1749/2
+
+1749/4 1750/2 1750/4 1833/33 1835/4 1835/5 1835/6 1848/9 1848/41 1855/6 1943/1 1945/1 1952/4 2079/14 2089/3 2100 2106 2110 2114 2121/2 2125/1 2125/13 2125/14 2125/16 2125/22 2125/23 2142/4 2313/2 2328/2 2329/2 2329/3
+
+2333/2 2407/16 2407/17 2407/18 2407/29 2407/33 2407/36 2628/16 2628/17 2628/18 2652/1 2694 2696/2 2723/7 2743/1 3027/22 3034/1 3034/12 3034/13 3035/2 3036/14 3036/15 3067/6 3143/15 3153/1 3154/3 3156/1 3156/3 3156/4 3156/5 3156/7
+
+3163/2 3163/3 3163/4 3185/2 3185/3 3213/2 3245/2 3245/3 3303/2 3312/2 3314/1 3363/2 3363/3 3455 3456/1 3456/2 3456/3 3456/4 3456/5 3456/6 3456/7 3456/8 3457 3459 3461 3462/2 3464/1 3464/2 3465
+
+k. ú. Nusle (č. parc.) 45 147/2 147/4 149 154/2 159 160 167/2 172/2 174/1 177/1 177/2 179/1 179/2 182/1 183/1 183/2
+
+183/3 447 544 620/1 620/2 762 765 771/2 771/11 778/2 786 864/2 864/3 919/12 1086/1 1086/2 1087
+
+1102 1103/1 1126 1127/1 1127/2 1127/3 1127/4 1147/5 1149/13 1149/15 1149/16 1149/19 1149/20 1149/24 1149/27 1149/29 1149/34
+
+1149/35 1149/36 1149/37 1149/41 1149/42 1149/43 1149/44 1151/3 1152/1 1152/3 1159 1253 1255 1257 1259 1261 1273
+
+1275 1277 1368 1370 1391 1394 1396 1398 1400 1410 1491 1492 1493 1495 1520 1542/1 1542/2
+
+45
+
+1559/6 1559/7 1691 1721/2 1765/2 1792/1 1792/4 1793/4 1936 1964 1993/1 1993/2 2027/5 2027/6 2387/3 2758 2836 2838/15 2838/17 2910/79 2910/80 2910/81
+
+2910/82 2910/85 2910/86 2910/87 2910/97 2910/98 2910/100 2910/104 2910/111 2910/124 2910/129 2910/143 2910/144 2910/145 2910/146 2910/147 2910/148 2910/149 2910/150 2910/157 2910/158 2910/159
+
+2910/163 2910/173 2910/174 2910/175 2910/180 2910/181 2910/182 2910/183 2910/184 2910/185 2910/186 2910/187 2910/188 2910/189 2910/190 2910/194 2910/195 2910/196 2910/201 2910/268 2910/269 2910/270
+
+2910/290 2910/291 2915/25 2942/2 2942/3 2985 3018/2 3018/6 3018/7 3019/3 3054 3061 3065 3067 3068/1 3068/2 3072 3073 3075/2 3077/1 3078/2 3086/1
+
+3086/2 3086/3 3103/4 3103/19 3103/20 3111/2 3139/3 3140/5 3140/6 3140/7 3140/13 3140/14 3162/3 3162/5 3162/6 3162/10 3187/1 3187/3
+
+k. ú. Podolí (č. parc.) 13 145/1 175 176/1 233/1 234/1 323 330/1 330/3 425 426 429 430/1 431 846/4 846/14 970/15 1037/3 1072 1073 1075 1128/2 1136/1 1137/2 1137/3 1137/5
+
+1137/6 1137/7 1137/8 1137/9 1137/10 1140/4 1141/2 1145 1161/1 1161/2 1178/1 1230/2 1230/9 1230/10 1230/11 1232/1 1244/1 1244/3 1251/1 1258/2 1259/7 1260/2 1261/2 1261/3 1315/1 1315/2
+
+1332/6 1332/7 1512/44 1614 1770/1 1770/55 1770/61 1770/62 1770/63 1770/64 1770/65 1770/66 1770/68 1770/73 1770/74 1770/75 1770/76 1770/77 1770/78 1770/79 1770/80 1770/81 1770/82 1770/83 1770/84 1770/86
+
+1770/87 1770/88 1770/89 1770/92 1770/106 1770/107 1770/108 1770/109 1770/110 1770/112 1770/113 1770/114 1770/115 1770/116 1770/121 1818 1833/30 1849/1 1849/12 1849/84 1852/9 1853/14 1853/16 1853/18 1853/19 1853/46
+
+1853/48 1853/50 1853/52 1853/54 1853/56 1853/63 1853/65 1853/67 1853/70 1853/71 1853/74 1853/81 1853/83 1853/85 1853/86 1853/88 1853/90 1853/91 1853/92 1853/95 1867/3 1900/6 1900/7 1900/8 1900/9 1934/3
+
+46
+
+1940/5 1940/7 1954/3 1975/3 2009/6 2025 k. ú. Záběhlice (č. parc.) 2669/1 2711 2712/1 2817 2818 2848/66 2848/224 2848/226 2848/277 2848/278 2848/284 2848/298 2848/309 2848/311 2848/320 2848/322 2848/359 2848/360 2848/361 2848/365 2848/366 2848/367 2848/371 2848/372 2848/376 2848/378 2848//379 3848/380 2848/381 2848/382 2848/383 2848/385 3848/386
+
+2848/389 2848/392 2848/393 2848/411 2848/412 2848/414 2848/426 2848/677 2848/678 2848/682 2848/684 2848/686 2848/687 2848/689 2848/693 2848/694 2848/695 2848/696 2848/700 2848/701 2848/704 2848/705 2848/707 2848/708 2848/709 2848/715 2848/721 2848/734 2848/735 2848/737 2848/739 2848/815 2848/817
+
+2848/843 2848/844 3047/50 3047/53 3047/56 3047/60 3049/9 3049/10 3049/11 3049/12 3864 3993 4012/2 4394 4860 5007 5084 5098 5101 5102 5187 5227 5229 5283/7 5283/8 5415 5527/1 5527/3 5527/4 5529/3 5721/1 5721/53 5721/57
+
+5721/58 5721/65 5721/79 5721/80 5721/81 5721/82 5721/83 5721/84 5721/85 5721/86 5721/87 5721/89 5721/90 5721/92 5721/94 5721/95 5721/99 5721/105 5721/107 5721/108 5721/111 5721/171 5721/189 5721/190 5721/193 5721/194 5752/3 5781 5782 5783 5785 5786 5787
+
+5789 5791 5792 5793 5794 5796 5797 5802 5810/1 5810/3 5810/4 5817 5823/1 5823/3 5823/4 5824 5825 5827 5828 5829 5830 5832 5833 5834 5835 5836 5839/1 5839/2 5913/1 5913/2
+
+6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ k. ú. Braník Park JEZERKA, ul. BRANICKÁ č. parc. 3124/57; k. ú. Michle BAAROVA č. parc. 3250; KAPITOL, UL. MAGISTRŮ, TÝMLOVA č. parc. 2893/1, 2893/2, 2893/5, 2893/19, 2894/1, 2894/2, 2896/1 a 2896/2; Park „Doprovodné plochy Botiče“ - ADAMOVSKÁ - K PODJEZDU č. parc. 1005, 1006, 1007, 1008, 1009 a 1011/4; k. ú. Nusle ŽATECKÝCH - kruhový parčík č. parc. 3083;
+
+47
+
+SADY NA JEZERCE č. parc. 2386/2, 2388, 2988, 2989, 3161, 3163/1; PARK DRUŽBY č. parc. 2910/88, 2910/99, 2910/207, 2910/262, 2910/263, 2910/277; k. ú. Podolí SLEPIČÁRNA, NA TOPOLCE č. parc. 83, č. parc. 2013; prostranství navazující na vstupy a výstupy z objektů: prostranství na č. parc. 2612/147 v k. ú. Braník před supermarketem Billa; parcely č. parc. 1765/8, 1765/9, 1765/13, 1765/14, 1756/6, 1756/7 v k. ú. Braník před nákupním střediskem Plus; prostranství na č. parc. 3262 v k. ú. Krč před Thomayerovou nemocnicí; prostranství na č. parc. 1588/1, 1588/27, 1588/28, 1588/36, 1588/39, 1588/40,1589/1 v k. ú. Krč u polikliniky Budějovická; parcela č. parc. 879/47 v k. ú. Krč před nákupním střediskem na ulici ZELENÝ PRUH; prostranství před Plaveckým stadionem Podolí na veřejné části parcely č. parc. 1086 v k. ú. Podolí; parcela č. parc. 30 v k. ú. Podolí před nákupním střediskem Podolská; nádraží: železniční stanice Praha - Braník č. parc. 3095, 3096 v k. ú. Braník; železniční stanice Praha - Krč č. parc.2/2, 3320/1, 3320/2, 3320/3, 3320/4, 3320/5 v k. ú. Krč; autobusové nádraží Pankrác č. parc. 2837 v k. ú. Nusle; veřejná hřiště: při ulici NA STRŽI na pozemku č. parc. 1142/1 v k. ú. Krč; při ulici BAAROVA na pozemku č. parc. 3/1 v k. ú. Michle; při ulici BÍTOVSKÁ na pozemku č. parc. 310/128 v k. ú. Michle; mezi ulicemi OHRADNÍ a BAAROVA na pozemku č. parc. 724/1, 724/2 v k. ú. Michle; při ulici PŘI TRATI na pozemku č. parc. 2100/0 v k. ú. Michle; při ulici NA NIVÁCH na pozemku č. parc. 2313/2v k. ú. Michle; na TYRŠOVĚ VRCHU na pozemku č. parc. 2895 v k. ú. Michle; na rohu ulic RYBÁŘSKÁ a POD VYŠEHRADEM na pozemku č. parc. 61/7 v k. ú. Podolí; přístupové cesty a plochy u stanic metra mimo prostor, které se na noc zamykají: Vyšehrad, č. parc. 1149/3, 1156/3, 3070/2, 3097 v k. ú. Nusle, Pražského povstání č. parc. 1832/1 (mimo vyasfaltovanou část pozemku) v k. ú. Nusle, Pankrác č. parc. 1903/1 (vydlážděná a nezpevněná část pozemku před obchodním centrem Arkády Pankrác), 2838/3, 2838/15, 2838/29 v k. ú. Nusle, Budějovická č. parc. 1254/28, 1254/67 v k. ú. Krč; Kačerov č. parc. 2333/1, 2333/2, 2333/5 v k. ú. Michle a č. parc. 3256/7 v k. ú. Krč; ostatní veřejně přístupné plochy: k. ú. Braník (č. parc.) 99/1 136 137 138 140/6 145 146 147
+
+148 152/1 153 154 155 156 157/1 158
+
+159 163/2 296/2 299/1 310/60 310/70 317/1 317/2
+
+318 331 380/3 771 864/1 1164/1 1320/2 1322
+
+1323 1324 1325 1558/2 2612/162 2612/216 3058/1
+
+48
+
+k. ú. Hodkovičky (č. parc.) 10/1 12/2 12/3 12/4 56 191 192/2 348 364/2 365/1 377/2
+
+378/1 379 381/2 382 386 387/1 389/2 398/1 398/2 401/3 402/2
+
+402/3 404/2 405/2 416/1 417 432/1 712 852/1 853/1 853/2 898
+
+907/2 908/1 912/1 912/2 998 1006/5 1006/6 1010 1011/1 1012 1019
+
+1035 1040 1048/1 1051 1056/7 1065 1066/2 1075 1079
+
+k. ú. Krč (č. parc.) 2/1 12/7 70/3 79/1 110/1 110/5 110/6 199/3 269/14 452 455/1 491/1 526/1 585/2 879/44 883/4 883/7 891/1 893/5 894/1 894/4 894/8 1052/77 1052/141 1052/143 1052/147 1052/152 1052/158 1052/159 1052/160 1052/164 1052/165 1052/173 1052/175 1052/177
+
+1052/179 1106/1 1148/3 1148/19 1240 1250/11 1251/3 1251/4 1255/18 1255/38 1255/40 1255/44 1256/23 1256/24 1263/17 1263/26 1285/15 1285/48 1285/69 1286 1290 1307/2 1588/41 1743 1747/1 1872 1899 1924/2 1943/6 2095/3 2114/7 2126 2137/2 2138/1 2215
+
+2220/1 2223 2224/2 2225 2227/2 2227/5 2527 2547 2581/2 2586/1 2586/2 2789 2791/14 2869/1 2869/123 2869/124 2869/125 2869/139 2869/183 2869/190 2869/196 2869/207 2869/210 2869/216 2869/227 2869/228 2869/234 2869/236 2869/266 2869/282 2869/283 2869/287 2869/307 2869/309 2885/5
+
+2888/1 2888/3 2888/4 2889/100 2893/1 2997/1 2997/2 2998 3000 3050/1 3124/2 3124/3 3129/1 3129/2 3129/3 3132/2 3132/3 3144/1 3145/1 3146/1 3146/5 3162 3165 3175/2 3175/3 3175/4 3182/1 3203/2 3206/2 3226 3235/1 3237 3245 3247 3248/1
+
+3248/75 3248/109 3254 3255 3256/3 3256/6 3256/7 3257/1 3257/2 3258 3262 3264/1 3270/3 3278 3279 3280 3285 3295/3 3295/4 3297/1 3300 3314/1 3314/2 3315/3 3315/10 3319/3 3319/5 3322/1 3322/3 3338 3340 3348
+
+49
+
+k. ú. Lhotka (č. parc.) 64 140/60 140/61 140/67 140/81 140/83 140/84 140/98 140/100 140/101 140/107 203/2 203/4 203/5 225/1 247/1
+
+667 668/1 668/2 669/1 670/1 675/1 679/1 716 738 757/2 760/2 773/11 773/40 773/61 773/62 773/69
+
+963/7 963/12 980/2 1047/1 1047/5 1443 1445/2 1447/2 1448/2 1448/5 1466 1467 1475 1479 1480 1491
+
+1497 1514/2 1521/1 1521/3 1521/5 1521/7 1521/9 1527/1 1528 1529 1530 1533 1534 1535 1536 1541
+
+1561/1 1561/2 1562/2 1577/1 1661/1 1662 1885/3 1886/1 1893 1894 1987 1988/1 1988/3 1989/4 1991 1993/3 k. ú. Michle (č. parc.)
+
+96/30 96/34 153/2 158 159 161/1 163 165/1 227/13 242/1 287 288 290/21 309/2 310/123 310/124 310/137 310/146 310/153 310/155 310/159 420 422 438/1 440/4 441/1 462 464 484/1 520/4 558/6
+
+558/7 584/1 619 694/1 700/20 700/37 700/42 700/43 700/44 700/51 700/56 700/57 700/58 700/59 700/71 700/75 700/81 700/86 700/92 700/100 700/103 700/110 700/114 700/116 700/117 746/1 764/1 764/3 785/17 785/21 854/1
+
+855 856 857 871/1 872 873 943 955 1102/6 1103/5 1442 1717/2 1722 1724/10 1741/1 1741/2 1742/1 1742/4 1743/1 1743/3 1744/2 1745 1746/1 1746/2 1747/1 1748/23 1748/100 1749/1 1749/2 1750/1 1750/2
+
+1750/3 1753 1754/1 1754/2 1755 1848/40 1893 2125/18 2125/19 2125/20 2136/1 2313/1 2313/2 2330 2333/1 2333/5 2352/1 2398/2 2407/3 2407/14 2407/22 2407/25 2407/26 2407/34 2412/1 2414/1 2422/1 2792 2794 2801 2806
+
+2807 2811 2836 2837 2845 2850 2852 2863 2873/1 3102/1 3103/1 3105/1 3135 3143/4 3143/9 3143/10 3150/3 3150/4 3150/5 3150/6 3151/1 3151/2 3151/3 3152/2 3154/1 3154/2 3154/3 3156/4 3156/6 3156/8 3156/9
+
+50
+
+3158/2 3158/3 3158/4 3159/1 3159/3 3159/4 3163/1 3163/2 3163/4 3167 3192/1 3192/2
+
+3193/1 3193/2 3194/1 3194/2 3211 3221 3227/1 3243/1 3243/2 3260/1 3260/2 3260/3
+
+3272 3273/1 3273/3 3274 3278 3279 3280 3294 3299 3310/2 3310/6 3312/2
+
+3314/1 3318/1 3360/1 3370 3374/1 3374/2 3375/1 3382 3425/2 3431 3433 3434
+
+3439/5 3441/1 3445 3449 3460 3466 3472/2 3478 3490/1 3491/1 3491/2
+
+k. ú. Nusle (č. parc.) 186 187 362 432/2 452/1 761/1 761/2 780/10 788/2 795/1 1059/1 1101/1 1103/4 1103/5 1103/7 1137 1148/2 1148/4 1149/3 1149/4 1149/5 1149/8 1149/9 1149/10 1149/12 1149/14 1149/21 1149/22 1149/26 1149/28 1154 1156/3 1156/4 1528/1 1528/2
+
+1559/1 1619/1 1681 1686 1750 1751/1 1751/4 1754/1 1754/4 1769/1 1770/1 1773/1 1775/1 1775/3 1775/10 1775/21 1779 1780 1792/1 1793/1 1903/1 1903/3 2448/2 2448/3 2578/1 2578/2 2580 2595/1 2595/2 2596 2600/1 2600/2 2600/3 2603 2607
+
+2623/1 2625 2652 2660 2661 2662 2663 2664 2675 2676 2677 2678 2681 2705 2706 2707 2708 2709 2710 2715 2716 2729 2730/1 2753/7 2755/1 2755/2 2755/3 2768 2771 2783 2784 2785 2786 2791/1 2791/2
+
+2791/3 2797 2798 2804/1 2804/3 2804/4 2804/10 2804/11 2804/16 2804/17 2808/1 2808/3 2830 2838/29 2838/30 2910/90 2910/96 2910/103 2910/109 2910/128 2910/140 2910/141 2910/155 2910/156 2910/160 2910/177 2910/178 2910/179 2910/191 2910198 2910/203 2910/206 2960/4 2984 2999/5
+
+3000 3001 3018/1 3020 3021/1 3023 3024 3057 3062 3070/2 3071 3081/1 3081/5 30/81/6 3081/7 3087 3097 3103/3 3103/7 3120 3131/2 3132/2 3142/2 3142/3 3144/2 3162/4 3162/8 3181/1 3181/2 3185/3 3195
+
+51
+
+k. ú. Podolí (č. parc.) 46/3 51 53 61/2 173 174 176/1 179 205 206 208/1 209 211 217 218 222 223 224 226/1 230 405 407 414 415 416 417 425 426 427 428 440/1 535/2
+
+905/2 906/1 906/10 969/2 970/1 970/2 972/1 972/3 972/19 972/20 1043/1 1062 1067 1069 1070 1076 1077 1079 1086/1 1088/3 1094/1 1105 1129/2 1129/3 1133/1 1133/2 1135/1 1135/2 1136/2 1140/3 1162/2 1184/2
+
+1184/3 1184/5 1184/6 1184/7 1193/4 1210 1221/2 1227/3 1230/1 1231/1 1250/1 1250/4 1250/5 1260/2 1449 1450 1551/3 1551/4 1453/3 1454/1 1512/1 1512/2 1531/1 1571/1 1770/70 1770/71 1770/72 1832/1 1833/7 1833/25 1833/29 1833/33
+
+1833/43 1834/1 1834/4 1852/1 1852/2 1853/1 1853/2 1853/12 1853/26 1853/29 1857/7 1861/1 1867/2 1871/1 1888 1890/3 1898/2 1916 1917 1918 1919/2 1942/1 1942/2 1942/3 1942/4 1942/5 1942/6 1942/7 1942/8 1944 1953/1 1953/2
+
+1955/1 1955/2 1956 1969/2 1973 1974/1 1974/2 1975/2 1982 1986 2005 2009/3 2009/7 2016/2 2016/3 2017 2018 2030 2031/1 2034 2035/1 2035/2 2036 2037/1 2037/2 2037/5 2045 2046/2 2046/3 2046/4 2046/5
+
+k. ú. Záběhlice (č. parc.) 2650/4 2650/19 2714 2715 2716 2845/1 2845/11 2845/51 2845/52 2846 2847/14 2848/1 2848/2 2848/25 2848/191
+
+2848/310 2848/315 2848/325 2848/326 2848/356 2848/357 2848/370 2848/388 2848/395 2848/410 2848/688 2848/692 2848/697 2848/699 2848/703
+
+2848/710 2848/714 2848/720 2848/814 2848/819 2863/1 2865/1 2866 2867/3 3023/1 3047/10 3047/12 3049/14 3049/15 3193
+
+3195 3197 3233 3250 3307 3353 3367 3408/1 3460 3490 3504 3505 3555 3575 3630
+
+3666 3719 3751 3779 3780 3802 3803 3832 3853/1 3877 3885 3923 3934 3943 3960
+
+52
+
+4025 4063 4096 4132 4147 4217 4266 4297 4363 4453 4467 4496 4541 4612 4646 4648 4689 4735 4736 4810 4890 4972 4990
+
+5077 5087 5137 5157 5182 5243 5244 5245 5327 5434 5465 5500 5513/1 5516/16 5520/4 5617/1 5627/1 5628/1 5628/2 5629/1 5633/2 5634/1 5634/2
+
+5634/4 5634/15 5634/21 5636/1 5636/13 5641/1 5642/2 5643/1 5643/8 5648 5669 5694 5701/1 5703/1 5705/1 5705/2 5706/1 5711/1 5721/7 5721/11 5721/16 5721/17 5721/21
+
+5721/22 5721/26 5721/27 5721/32 5721/36 5721/42 5721/47 5721/57 5721/62 5721/88 5721/91 5721/102 5721/106 5721/112 5721/116 5721/172 5721/174 5731 5752/1 5753/2 5754/1 5754/2 5847/4
+
+5848/2 5849/3 5892 5896 5897/1 5897/2 5899 5905/1 5905/2 5905/3 5906/1 5906/2 5906/3 5906/4 5906/5 5906/6 5906/7 5906/8 5906/9 5911 5912/1 5912/2
+
+MĚSTSKÁ ČÁST PRAHA 5
+
+1. NÁMĚSTÍ ARBESOVO NÁM. CHAPLINOVO NÁM. KOŠÍŘSKÉ NÁM. KŘÍŽENECKÉHO NÁM.
+
+NÁM. JOSEFA MACHKA NÁM. 14. ŘÍJNA NÁM. NA FARKÁNĚ
+
+NÁM. KINSKÝCH TILLEHO NÁM. TRNKOVO NÁM.
+
+2. TRŽIŠTĚ ul. OSTROVSKÉHO, č. parc. 2919 v k. ú. Smíchov; TILLEHO NÁM., proti NS DELVITA; 3. ULICE A CHODNÍKY ASTLOVA ATLETICKÁ BALDOVÉ BARVITIOVA BARRANDOVSKÁ BARRANDOVSKÝ MOST BEDRNOVA BENÍŠKOVÉ BIEBLOVA BOHUMILA ŠIMŮNKA BOCHOVSKÁ
+
+BORSKÉHO BOZDĚCHOVA BRAUNOVA BRDLÍKOVA BRICHTOVA BROŽÍKOVA BRZORÁDOVÝCH BŘEŽÁNECKÁ BUBLAVSKÁ BUCHAROVA BUTOVICKÁ CETYŇSKÁ
+
+ČERNOCHOVA ČESKÁ DASNICKÁ DESTINOVÉ DĚVÍNSKÁ DEVONSKÁ DEYLOVA DIENZENHOFEROVY SADY DOBŘÍŠSKÁ DONÁTOVA DO KLUKOVIC
+
+53
+
+DO POLÍ DREYEROVA DRTINOVA DUBROVNICKÁ DUŠKOVA ELIŠKY PEŠKOVÉ ERBENOVA FABIÁNOVA FILMAŘSKÁ FRÁNI ŠRÁMKA FRANTY KOCOURKA GABINOVA GEOLOGICKÁ GRAFICKÁ GRUSSOVA HABARTOVSKÁ HAMSÍKOVA HENNEROVA HILLEBRANTOVA HILMAROVA HLAVÁČKOVA HLUBOCKÁ HLUBOČEPSKÁ HÖGEROVA HOLÁTOVA HOLEČKOVA HOLUBOVA HOLYŇSKÁ HOŘEJŠÍ NÁBŘEŽÍ HOŠKOVA HOUDOVA HUGO HAASE HÜBNEROVÉ CHLUPÁČOVA CHMELAŘSKÁ CHOTEČSKÁ CHURÁŇOVSKÁ CHÝNICKÁ JANÁČKOVO NÁBŘEŽÍ JENIŠOVSKÁ JEREMIÁŠOVA JEŘABINOVÁ JEZERNÍ JEŽOVSKÁ JINDŘICHA PLACHTY JINONICKÁ JIRÁSKŮV MOST K DALEJÍM K NOVÉ VSI
+
+K BARRANDOVU K MĚCHURCE K OPATŘILCE K ROVINÁM K VODOJEMU K ZASTÁVCE K ZÁVĚRCE KABÁTOVÉ KAČÍRKOVA KARENOVA KARLA ENGLIŠE KARLŠTEJNSKÁ KARTOUZSKÁ KE HŘBITOVU KE KLIMENTCE KE KOTLÁŘCE KE KOULCE KE SKLÁRNĚ KE SMÍCHOVU KESNERKA KLICPEROVA KLIKATÁ KLÍMOVA KLÍNECKÁ KMOCHOVA KOBROVA KOHOUTOVÝCH KONEČNÁ KOŘENSKÉHO KOSOŘSKÁ KOTEVNÍ KOTLÁŘKA KOULKA KOVÁKŮ KOVÁŘÍKOVA KROFTOVA KROUPOVA KRŠKOVA KŘÍŽOVÁ KUDRNOVA KUKULOVA KURANDOVÉ KUTVIRTOVA KVAPILOVA LAMAČOVA LATÉNSKÁ LEITZOVA LÉKAŘSKÁ LESNICKÁ LIBÍNSKÁ
+
+LIDICKÁ LINHARTOVA LIPOVÁ ALEJ LIPSKÉHO LOHNISKÉHO LOCHKOVSKÁ LOVČENSKÁ LUČIŠTNÍKŮ LUKAVSKÉHO LUMIÉRŮ MAHENOVA MACHATÉHO MALÁ HOUDOVA MALÁ MICHNOVKA MALÁ XAVERIOVA MALÁTOVA MARKOVA MATOUŠOVA MĚLNICKÁ MEZI LÁNY MEZI ROLEMI MEZNÁ MICHNOVKA MIKŠOVSKÉHO MILOŠE HAVLA MIROSLAVA HAMRA MOST LEGIÍ MOST NA CÍSAŘSKOU LOUKU MOŠNOVA MOTOLSKÁ MOTORISTICKÁ MOULÍKOVA MOZARTOVA MRÁZOVKA MŠECKÁ MUSÍLKOVA NA BĚLIDLE NA BRABENCI NA BŘEZINCE NA CELNÉ NA CIHLÁŘCE NA CÍSAŘCE NA ČEČELIČCE NA ČERNÉM VRCHU NA DOUBKOVÉ NA FARKÁNĚ I. NA FARKÁNĚ II. NA FARKÁNĚ III. NA FARKÁNĚ IV.
+
+54
+
+NA HABROVÉ NA HOMOLCE NA HŘEBENKÁCH NA HUTMANCE NA KONVÁŘCE NA LAUROVÉ NA LOUŽKU NA NEKLANCE NA ODBOČCE NA PAVÍM VRCHU NA PLACÍCH NA PLÁNI NA PLZEŇCE NA POMEZÍ NA POPELCE NA PROVAZNICI NA SKALCE NA SKLONKU NA SRPEČKU NA STÁRCE NA ŠMUKÝŘCE NA ŠUMAVĚ NA VÁCLAVCE NA VALENTINCE NA VĚNEČKU NA VIDOULI NA VRŠKU NA VÝHONKU NA VYSOKÉ I. NA VYSOKÉ II. NA VÝŠI NA ZÁMYŠLI NA ZATLANCE NA ZLÍCHOVĚ NA ŽVAHOVĚ NÁBŘEŽNÍ NAD BERTRAMKOU NAD BUĎÁNKAMI I NAD BUĎÁNKAMI II NAD BUĎÁNKAMI III NAD HLINÍKEM NAD HUSOVÝMI SADY NAD KAVALÍRKOU NAD KESNERKOU NAD KLAMOVKOU NAD KLIKOVKOU NAD KONEČNOU NAD KONVÁŘKOU NAD KOULKOU
+
+NAD KULIŠKOU NAD LAUROVOU NAD MLYNÁŘKOU NAD MOTOLSKOU NEMOCNICÍ NAD MRÁZOVKOU NAD PALATOU NAD POMNÍKEM NAD POPELKOU NAD ROHATCI NAD SANTOŠKOU NAD TURBOVOU NAD VÁCLAVKOU NAD VÝŠINKOU NAD ZÁMEČKEM NAD ZÁMEČNICÍ NAD ZLÍCHOVEM NÁDRAŽNÍ NASKOVÉ NÁVĚTRNÁ NEDOŠÍNSKÉ NEPOMUCKÁ NOUTONICKÁ NOVOVESKÁ NOVÝ ZLÍCHOV NYKLÍČKOVA OD VYSOKÉ OHRADSKÁ OSTROVSKÉHO OTOPAŠSKÁ PAJEROVA PALACKÉHO MOST PAVLA ŠVANDY ZE SEMČIC PECHÁČKOVA PECHLÁTOVA PEKAŘSKÁ PEROUTKOVA PĚŠÍ PEŠKOVA PETŘÍNSKÁ PÍSECKÉHO PIVCOVA PIVOVARSKÁ PLASKÁ PLZEŇSKÁ POD ATELIÉRY POD BARVÍŘKOU POD BRENTOVOU POD BUĎÁNKOU
+
+POD CÍSAŘKOU POD DĚVÍNEM POD FIALKOU POD HABROVOU POD HÁJEM POD HOMOLKOU POD HYBŠMANKOU POD KAVALÍRKOU POD KESNERKOU POD KLAMOVKOU POD KLIKOVKOU POD KOTLÁŘKOU POD LIPKAMI POD PALATOU POD RADNICÍ POD SKALKOU POD SKALOU POD SPIRITKOU POD STADIONY POD STOLOVOU HOROU POD ŠKOLOU POD ŠMUKÝŘKOU POD TRATÍ POD TŘEŠNĚMI POD ÚTESY POD VAVŘINCEM POD VIDOULÍ POD VODOVODEM POD VÝŠINKOU POD ZÁVĚRKOU POD ŽVAHOVEM PODBĚLOHORSKÁ PODBĚLOVÁ PODHORSKÁ POLÍVKOVA PRACHNEROVA PRAVOÚHLÁ PRAŽSKÉHO PRESLOVA PROKOPOVÝCH PROKOPSKÉ ÚDOLÍ PROSLUNĚNÁ PRŮCHOVA PŘED CIBULKAMI PŘÍMÁ PUČOVA PUCHMAJEROVA RADLICKÁ RANDOVA
+
+55
+
+RENOIROVA ROBLÍNSKÁ ROENTGENOVA ROHATECKÁ ROŠICKÝCH ROZKOŠNÉHO ŘEPORYJSKÁ SCHODOVÁ SCHWARZENBERSKÁ SILURSKÁ SKALNÍ SLAVICKÁ SLAVÍNSKÉHO SLÁVY HORNÍKA SLIVENECKÁ SMARAGDOVÁ SMOLÍKOVA SMRČINSKÁ SOUBĚŽNÁ  I SOUBĚŽNÁ  II SOUBĚŽNÁ  III SOUBĚŽNÁ  IV SPIRITKA STARÁ STODŮLECKÁ STAROKOŠÍŘSKÁ STAROPRAMENNÁ STODŮLECKÁ STRAHOVSKÝ TUNEL STRAKATÉHO STRAKONICKÁ STROUPEŽNICKÉHO SVÁTKOVA SVORNOSTI ŠAFRÁNECKÁ ŠÁRČINA ŠEJBALOVÉ ŠEŘÍKOVÁ ŠTEFÁNIKOVA ŠTĚPÁNKOVA ŠTĚPAŘSKÁ ŠTERNOVA ŠTOCHLOVA ŠTORKÁNOVA ŠVÁBOVA ŠVÉDSKÁ TETÍNSKÁ TICHÁ TICHNOVA TOMÁŠKOVA TOMKOVA
+
+TRACHTOVA TRÉGLOVA TROJDÍLNÁ TŘEBOTOVSKÁ TŘÍSTOLIČNÁ TŮMOVA TUNEL MRÁZOVKA TURISTICKÁ U AKÁTŮ U BLAŽENKY U CIBULKY U DEMARTINKY U DĚTSKÉHO HŘIŠTĚ U DÍVČÍCH HRADŮ U DVOU SRPŮ U HOMOLKY U HRUŠKY U JINONICKÉHO RYBNÍČKA U KAVALÍRKY U KLAVÍRKY U KLIKOVKY U KLIMENTKY U KOSTELA U KOTLÁŘKY U KRÁLOVSKÉ LOUKY U KŘÍŽE U LADRONKY U LESÍKA U MALVAZINKY U MRÁZOVKY U NÁHONU U NESYPKY U NIKOLAJKY U OKROUHLÍKU U OPATROVNY U PALATY U PALIÁRKY U PANSKÉ ZAHRADY U PASTOUŠKY U PERNÍKÁŘKY U PLÁTENICE U POŠTOVKY U SANOPZU U SANTOŠKY U SÍDLIŠTĚ U SLÉVÁRNY U SMÍCHOVSKÉHO HŘBITOVA
+
+U STARÉHO ŽIDOVSKÉHO HŘBITOVA U ŠALAMOUNKY U ŠÍPKŮ U TENISU U TEPLÁRNY U TREZORKY U TROJICE U TYRŠE U TYRŠOVY ŠKOLY U VOJANKY U WALTROVKY U ZÁMEČNICE U ŽELEZNIČNÍHO MOSTU ÚJEZD ÚPOLÍNOVÁ URBANOVA V BOKÁCH I. V BOKÁCH II. V BOKÁCH III V PŘELOMU V REMÍZKU V BOTANICE V BŘÍZKÁCH V CIBULKÁCH V JAVOŘÍČKU V KLUKOVICÍCH V LESÍČKU V NÁSYPU V OHYBU V OSTRUŽINÍ V ROHÁČÍCH V STRÁNI V ÚVALU V ZÁLESÍ V ZÁŘEZU VACÍNOVSKÁ VANÍČKOVA VAVŘINECKÁ VEJRAŽKOVA VIDOULSKÁ VIKTORA HUGA VÍTĚZNÁ VLTAVSKÁ VODNÍ VOSKOVCOVA VRÁZOVA VRCHLICKÉHO
+
+56
+
+VSTUPNÍ VÝHLEDOVÁ VÝMOLOVA WASSERMANNOVA WEBEROVA WERICHOVA WOLFOVA XAVERIOVA
+
+ZA KNOTKEM ZA OPRAVNOU ZA ZÁMEČKEM ZA ŽENSKÝMI DOMOVY ZÁHORSKÉHO ZAHRADNÍČKOVA ZÁLUSKÉ
+
+ZAPOVA ZBOROVSKÁ ZBRASLAVSKÁ ZDÍKOVSKÁ ZOUBKOVA ZUBATÉHO ŽVAHOVSKÁ
+
+4. PARKY ARBESOVO NÁM., CTIRAD, parc. č. 446/1 v k. ú. Radlice, DALEJSKÉ ÚDOLÍ, parc. č. 1394/2 v k. ú. Řeporyje; DIENZENHOFEROVY SADY, HUSOVY SADY, KALVÁRIE MOTOL, parc. č. 408/1, 408/2, 416/4 v k. ú. Motol; KAVALÍRKA, KINSKÉHO ZAHRADA, KLAMOVKA, MRÁZOVKA, parc. č. 2316, 2319, 2320, 2324, 2327, 2331, 2335, 2340, 2351, 2354, 2362, 2364/3, 2364/4, 2378, 2382/2, 2382/3, 2382/4, 2382/5, 2382/7, 2382/8, 2382/9, 2382/10, 2388, 2389, 4889/2 v k. ú. Smíchov; NÁM. 14. ŘÍJNA, PARK U SMÍCHOVSKÉHO NÁDRAŽÍ, PETŘÍNSKÉ SADY, POD ŽVAHOVEM, parc. č. 1772 v k. ú. Hlubočepy; PORTHEIMKA, PROKOPSKÉ ÚDOLÍ - PŘÍRODNÍ PARK, parc. č. 1084, 1173, 1180 v k. ú. Jinonice; KOŠÍŘE - MOTOL, parc. č. 20/1, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 430/1 v k. ú. Motol; SACRÉ-COEUR, SADY NA SKALCE, SANTOŠKA, SKALKA, mezi ulicemi KOVÁKŮ, BIEBLOVA, NA SKALCE a OSTROVSKÉHO, parc. č. 2207, 2209, 2210/1 v k. ú. Smíchov; VIDOULE, asfaltová cesta, po které vede žlutá turistická značka; ŽELEZNIČNÍ ZÁŘEZ, parc. č. 204, 1619 v k. ú. Hlubočepy; 5. VEŘEJNÁ ZELEŇ dětská hřiště: BUTOVICKÁ, č. parc. 207/3, 209 a 1429 v k. ú. Jinonice; HORNÍ PALATA, č. parc. 4869 v k. ú. Smíchov; KLIKATÁ, č. parc. 847, 848 a 849/1 v k. ú. Jinonice; NA FARKÁNĚ, č. parc. 1470/1, 1471/1, 2 a 1519 v k. ú. Jinonice; POD KOTLÁŘKOU, č. parc. 4756 a 4757 v k. ú. Smíchov; RADLICKÁ, č. parc. 339/2 v k. ú. Radlice; U STATKU, č. parc. 220 a 1428 v k. ú. Jinonice; VEJRAŽKOVA, č. parc. 1748/1, 1856/1 a 2129 v k. ú. Košíře; ZAPOVA, č. parc. 3590 v k. ú. Smíchov;
+
+57
+
+sídlištní zeleň: sídliště Barrandov - prostranství ohraničené ul. GRUSSOVA, LAMAČOVA, GABINOVA, TRÉGLOVA a DO KLUKOVIC, č. parc. v k. ú. Hlubočepy 939/1 939/16 939/17 939/31 942/29 942/31 942/43 942/48 942/57 942/58 942/67 942/82 942/83 942/84 942/87 942/89 942/91 942/93 942/94 942/95 942/96
+
+942/97 942/100 942/102 942/109 942/117 942/130 942/131 1012/1 1020/73 1020/76 1020/77 1020/84 1020/92 1020/111 1020/114 1020/116 1020/117 1020/118 1020/119 1020/120 1020/121
+
+1020/125 1020/126 1020/127 1020/133 1020/134 1020/135 1020/136 1020/137 1020/165 1020/167 1020/168 1020/169 1020/170 1020/171 1020/172 1020/173 1020/174 1020/175 1020/176 1020/177 1020/178
+
+1020/179 1020/180 1020/181 1020/183 1020/206 1020/207 1020/208 1020/209 1020/210 1020/250 1020/252 1020/253 1020/254 1020/255 1020/256 1020/271 1020/297 1020/298 1020/303 1040/1 1040/7
+
+1040/15 1040/17 1040/27 1040/29 1040/57 1040/58 1040/88 1040/91 1040/92 1040/93 1040/94 1040/111 1040/128 1040/131 1040/150 1798/5 1798/90 1798/104 1867 1978/1
+
+sídliště Jinonice, č. parc. 719/5, 10 a 764/31, 47, 57, 86 v k. ú. Jinonice; sídliště Peroutkova, č. parc. 1475/1 a 1479/63 v k. ú. Košíře; ostatní:
+
+ARÉNA, ulice HOŘEJŠÍ NÁBŘEŽÍ, nad náplavkou Vltavy, Smíchov, pozemek parc. č. 554, 555, k. ú. Smíchov; B1, pěší zóna mezi ulicemi WERICHOVA a VOSKOVCOVA, Hlubočepy, sídliště Barrandov, pozemek parc. č. 942/102, k. ú. Hlubočepy; B2, pěší zóna mezi ulicemi WERICHOVA a VOSKOVCOVA, Hlubočepy, sídliště Barrandov, pozemek parc. č. 942/130, k, ú. Hlubočepy; B3, vnitroblok při ulici BRICHTOVA, Hlubočepy, sídliště Barrandov, pozemek parc. č. 942/117, k. ú. Hlubočepy; B4, vnitroblok při ulici MACHATÉHO, Hlubočepy, sídliště Barrandov, pozemek parc. č. 942/58, k. ú. Hlubočepy; B5, vnitroblok při ulici KRŠKOVA, Hlubočepy, sídliště Barrandov, pozemek parc. č. 942/80, k. ú. Hlubočepy; BOCHOVSKÁ, ulice BOCHOVSKÁ, Jinonice, pozemek parc. č. 764/227, k. ú. Jinonice; BUTOVICKÁ, při ulici BUTOVICKÁ v blízkosti Jinonického rybníka, Jinonice, pozemek parc. č. 207/3, k. ú. Jinonice; ČERNÝ VRCH, ulice U BLAŽENKY, Smíchov, pozemek parc. č. 2642/1, k. ú. Smíchov; DĚTSKÝ OSTROV, ostrov při ulici JANÁČKOVO NÁBŘEŽÍ, vchod přes park Předpolí Dětského ostrova, Smíchov, pozemek parc. č. 5072/1, k. ú. Smíchov; DEYLOVA, ulice DEYLOVA, Motol, pozemek parc. č. 298/40, k. ú. Motol;
+
+58
+
+E, TRÉGLOVA, GABINOVA, Hlubočepy, sídliště Barrandov, pozemek parc. č. 942/83, k. ú. Hlubočepy; F1, ulice GRUSSOVA, Hlubočepy, sídliště Barrandov, pozemek parc. č. 1040/248, k. ú. Hlubočepy; F2, ulice LAMAČOVA směrem k Prokopskému údolí, Hlubočepy, sídliště Barrandov, pozemek parc. č. 1040/179, 1040/182, k. ú. Hlubočepy; FARKÁŇ, ulice PEROUTKOVA, NA FARKÁNĚ, pozemek parc. č. 1470/1, 1471/2, 1471/1, k. ú. Jinonice; G1, vnitroblok ulice LOHNISKÉHO, Hlubočepy, sídliště Barrandov, pozemek parc. č. 1040/58, k. ú. Hlubočepy; G2, ulice LOHNISKÉHO, směrem k Prokopskému údolí, Hlubočepy, sídliště Barrandov, pozemek parc. č. 1040/15, k. ú. Hlubočepy; G3, ulice LOHNISKÉHO směrem k Prokopskému údolí, Hlubočepy, sídliště Barrandov, pozemek parc. č.1040/131, k. ú. Hlubočepy; H, vnitroblok ulice LOHNISKÉHO, Hlubočepy, sídliště Barrandov, pozemek parc. č. 1040/88, k. ú. Hlubočepy; HAMSÍKOVA-BRDLÍKOVA, ulice HAMSÍKOVA, BRDLÍKOVA, Motol, pozemek parc. č. 374/4, k. ú. Motol; HUSOVY SADY - dětské hřiště, ulice VRCHLICKÉHO, Košíře, pozemek parc. č. 1359, 1358, k. ú. Košíře; CH1, ulice LIPSKÉHO, směrem od zastávky tramvaje, Hlubočepy, sídliště Barrandov, pozemek parc. č. 1020/136, k. ú. Hlubočepy; CH2, ulice LIPSKÉHO, Hlubočepy, sídliště Barrandov, pozemek parc. č. 1020/77, k. ú. Hlubočepy; I1, vnitroblok mezi ulicemi RENOIROVA a PRAŽSKÉHO, Hlubočepy, sídliště Barrandov, pozemek parc. č. 1020/297, k. ú. Hlubočepy; I2, vnitroblok mezi ulicemi RENOIROVA a PRAŽSKÉHO, Hlubočepy, sídliště Barrandov, pozemek parc. č. 1020/206, k. ú. Hlubočepy; J, vnitroblok při ulici RENOIROVA směr starý Barrandov, Hlubočepy, sídliště, pozemek parc. č. 1020/114, k. ú. Hlubočepy; K, ulice PIVCOVA, Hlubočepy, sídliště Barrandov, pozemek parc. č. 1798/4, k. ú. Hlubočepy; KAVALÍRKA, ulice POD KAVALÍRKOU, Košíře, pozemek parc. č. 716, k. ú. Košíře; KLAMOVKA, park Klamovka mezi ulicemi PLZEŇSKÁ a PODBĚLOHORSKÁ, Smíchov, pozemek parc. č. 3987/1, k. ú. Smíchov; KLIKATÁ, ulice KLIKATÁ, V OHYBU, Jinonice, pozemek parc. č. 849/1, 847, k. ú. Jinonice; KUDRNOVA – hrad, ulice KUDRNOVA, Motol, pozemek parc. č. 298/56, k. ú. Motol; L, ulice LIPOVÁ ALEJ, Hlubočepy, sídliště Barrandov, pozemek parc. č. 1978/10, 1978/9, k. ú. Hlubočepy; M, vnitroblok při ulici ZÁHORSKÉHO, Hlubočepy, sídliště Barrandov, pozemek parc. č. 939/17, k. ú. Hlubočepy; MISIJNÍ STŘEDISKO, ulice GRUSSOVA, budova Misijního střediska, sídliště Barrandov, Hlubočepy, pozemek parc. č. 1040/255, k. ú. Hlubočepy; MRÁZOVKA, U MRÁZOVKY, MOZARTOVA, NA ZATLANCE, Smíchov, pozemek parc. č. 2331, 2381/1, 2354, k. ú. Smíchov; N1, vnitroblok při ulici WASSERMANNOVA a V REMÍZKU, Hlubočepy, sídliště Barrandov, pozemek parc. č. 1798/90, k. ú. Hlubočepy; N2, vnitroblok při ulici WASSERMANNOVA a V REMÍZKU, Hlubočepy, sídliště Barrandov, pozemek parc. č. 1798/104, k. ú. Hlubočepy;
+
+59
+
+NA HABROVÉ, ulice NA HABROVÉ, Hlubočepy, pozemek parc. č. 649/2, 863/49, 647/5, 849/1, k. ú. Hlubočepy; NA OVČÍNĚ, ulice STODŮLECKÁ, Jinonice, pozemek parc. č. 175/1, k. ú. Jinonice; NA SKALCE, ulice KOVÁKŮ, NA SKALCE a BIEBLOVA, Smíchov, pozemek parc. č. 2207, k. ú. Smíchov; NA VRŠKU, ulice NA VRŠKU, Smíchov, pozemek parc. č. 4290, k. ú. Smíchov; NEPOMUCKÁ, ulice NEPOMUCKÁ, park naproti konečné tramvají, Košíře, pozemek parc. č. 25/3, k. ú. Košíře; OKROUHLÍK, mezi ulicemi PODBĚLOHORSKÁ, TŘÍSTOLIČNÁ a POD LIPKAMI, pozemek parc. č. 4016/1, k. ú. Smíchov; POD DĚVÍNEM, ulice POD DĚVÍNEM a K ZÁVĚRCE, Radlice, pozemek parc. č. 1092/9, k. ú. Smíchov; POD KOTLÁŘKOU, ulice POD KOTLÁŘKOU, Smíchov, pozemek parc. č. 4756, k. ú. Smíchov; PROSLUNĚNÁ, ulice PROSLUNĚNÁ, NAD ZLÍCHOVEM, slepá cesta podél železniční trati, pozemek parc. č. 1466/1, k. ú. Hlubočepy; PŘÍMÁ, ulice PŘÍMÁ, NA ODBOČCE, Smíchov, pozemek parc. č. 1785/1, k. ú. Smíchov; RADLICKÁ-PECHLÁTOVA, ulice RADLICKÁ a PECHLÁTOVA, Radlice, pozemek parc. č. 339/1, 339/2, k. ú. Radlice; SACRE-COEUR, HOLEČKOVA, Smíchov, pozemek parc. č. 3110/1, 3110/18, k. ú. Smíchov; SANTOŠKA, park Santoška, ulice NAD SANTOŠKOU, Smíchov, pozemek parc. č. 2084/1, k. ú. Smíchov; TURBOVA, ulice NA STÁRCE, Košíře, pozemek parc. č. 689/1, k. ú. Košíře; U PROKOPSKÉHO ÚDOLÍ, KOSOŘSKÁ, Hlubočepy (za železničním přejezdem vlevo při chůzi směr sídliště Barrandov), parc. č. 202, 203/2, k. ú. Hlubočepy; U STATKU, ulice U JINONICKÉHO RYBNÍČKA, pozemek parc. č. 220, k. ú. Jinonice; VEJRAŽKOVA, ulice VEJRAŽKOVA, Košíře, pozemek parc. č. 1748/6, 1856/1, k. ú. Košíře; WASSERMANNOVA, konečná tramvaje 12, 14, zastávka sídliště Barrandov, Hlubočepy, pozemek parc. č. 1798/267, k. ú. Hlubočepy; ZAPOVA, ulice HOLEČKOVA, ZAPOVA, Smíchov, pozemek parc. č. 3590/1, k. ú. Smíchov; 6.  DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ autobusové terminály: Knížecí; Radlice; Smíchovské nádraží - jih; Smíchovské nádraží - sever; lávky: lávka na DĚTSKÝ OSTROV; lávka na PETRŽÍLKOVSKÝ OSTROV; lávka přes železniční stanici Praha - Smíchov vedoucí z ul. KŘÍŽOVÁ do veřejné zeleně u Smíchovského nádraží; lávka přes železniční trať Smíchov-Hostivice spojující ul. KE HŘBITOVU s bezejmennou komunikací vedoucí k ul. NAD ZLÍCHOVEM podél Žvahovského hřbitova; ostrovy:
+
+60
+
+CÍSAŘSKÁ  LOUKA, přístupové cesty a plochy u stanic metra: ANDĚL č. parc. 2911/1, 2911/2, 2911/3, 2912, 2945/1, 2945/2, 4990/1 v k. ú. Smíchov; JINONICKÁ č. parc. 764/84, 764/85, 764/184, 764/185, 764/187, 764/188, 764/189, 764/191, 764/192, 764/193, 764/194, 792/3, 792/4, 792/5, 792/6, 792/7, 792/10, 792/11, 1513/2, 2057/4, 2057/6, 2057/7 v k. ú. Jinonice; RADLICKÁ č. parc. 25, 58/1, 370/9, 370/26, 522/3 v k. ú. Radlice; Smíchovské nádraží č. parc. 4990/1, 5093/4 v k. ú. Smíchov; ostatní: ulice vedoucí od ul. NAD ZLÍCHOVEM ke hřbitovu na Žvahově; Malvazinky (NA VINICI) – prostranství ohraničené ul. PEROUTKOVA a U ŠALAMOUNKY; náplavka levého břehu Vltavy na území městské části Praha 5; parc. č.  2881/3, 2881/5, 2974/5, 2974/20 v k. ú. Smíchov; parc. č. 1231/2 v k. ú. Jinonice (parkoviště a další zpevněné plochy u obchodního centra); prostranství před obchodním střediskem Homolka ohraničené ul. KUDRNOVA a HENNEROVA a obchodním střediskem Homolka; tramvajová obratiště Hlubočepy a Kotlářka; Železniční most (mezi HOŘEJŠÍM a RAŠÍNOVÝM NÁBŘEŽÍM); železniční stanice Praha  -Smíchov (mimo uzamykatelné prostory); PLZEŇSKÁ - zpevněná plocha a parkoviště před krematoriem Motol č. parc. 18/1 v k. ú. Motol.
+
+MĚSTSKÁ ČÁST PRAHA 6 1. NÁMĚSTÍ BACHMAČSKÉ NÁM. NÁM. BOŘISLAVKA NÁM. SVOBODY FLEMINGOVO NÁM. NÁM. ČESKÉHO POVSTÁNÍ PUŠKINOVO NÁM. HEYROVSKÉHO NÁM. NÁM. INTERBRIGÁDY SIBIŘSKÉ NÁM. MACHAROVO NÁM. NÁM. NA SANTINCE STARÉ NÁM. KRUPKOVO NÁM. NÁM. POD KAŠTANY VÍTĚZNÉ NÁM. KUTNAUEROVO NÁM. NÁM. PŘED BATERIEMI 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY ADAMOVA AFRICKÁ ALBÁNSKÁ ALEJ ČESKÝCH EXULANTŮ ALŽÍRSKÁ ANASTÁZOVA ANGOLSKÁ ANHALTOVA ANTONÍNA
+
+ČERMÁKA ARABSKÁ ATLETICKÁ AVIATICKÁ BADENIHO BANSKOBYSTRICKÁ BECHYŇOVA BĚLOCKÁ BĚLOHORSKÁ BERKOVSKÁ
+
+BÍLÁ BOLÍVAROVA BOUČKOVA BOŽKOVA BRAŠKOVSKÁ BRIXIHO BRODECKÁ BRUNCLÍKOVA BŘEVNOVSKÁ BŘEZOVSKÉHO
+
+61
+
+BUBENEČSKÁ BUBENÍČKOVA BUBNOVA BUŠTĚHRADSKÁ BUZULUCKÁ CIOLKOVSKÉHO CORIOVÝCH CUKROVARNICKÁ CVIČEBNÁ ČASTAVINA ČERNOHORSKÉHO ČESKÉ DRUŽINY ČESKOMALÍNSKÁ ČÍLOVA ČÍNSKÁ ČS. ARMÁDY DĚDINSKÁ DEJVICKÁ DĚLOSTŘELECKÁ DISKAŘSKÁ DIVOKÁ ŠÁRKA DLABAČOV DOBROVÍZSKÁ DOLANSKÁ DR. ZIKMUNDA WINTRA DRNOVSKÁ DRUŽICOVÁ DUCHCOVSKÁ DUCHOSLÁVKA DUSÍKOVA DVOŘECKÉHO EGYPTSKÁ ELIÁŠOVA ETIOPSKÁ EVROPSKÁ FABIÁNSKÁ FAJMANOVÉ FAJTLOVA FALCKÁ FARNÍ FASTROVA FETROVSKÁ FINKOVSKÁ FRAGNEROVA GENERÁLA PÍKY GENSOVSKÁ GLINKOVA GOETHEHO GOTTHARDSKÁ
+
+GYMNAZIJNÍ HABERFELDOVA HAVLOVSKÁ HEINEHO HELENY MALÍŘOVÉ HENZELKOVA HERMELÍNSKÁ HIRŠLOVA HLÁDKOV HODČINA HOLUBICKÁ HOROMĚŘICKÁ HOŘELICKÁ HOSTOUŇSKÁ HOŠŤÁLKOVA HUBEROVA CHALOUPECKÉHO CHARLESE DE GAULLA CHITUSSIHO CHODECKÁ CHOMUTOVSKÁ CHRÁŠŤANSKÁ CHÝŇSKÁ JANÁKOVA JANOUŠKOVA JARNÍ JASELSKÁ JEDNOŘADÁ JEHNĚČÍ DVŮR JEMENSKÁ JENEČSKÁ JENERÁLKA JEZDECKÁ JILEMNICKÉHO JÍLKOVA JINOČANSKÁ JÍROVA JOSÉ MARTÍHO JUARÉZOVA JUGOSL. PARTYZÁNŮ JUNÁCKÁ K BATERIÍM K BRUSCE K DUBOVÉMU MLÝNU K LÁNU K LETIŠTI
+
+K MOHYLE
+
+K STARÉMU BUBENČI K VRŠÍČKU KADEŘÁVKOVSKÁ KAFKOVA KAMERUNSKÁ KAMÝCKÁ KANADSKÁ KARASOVSKÁ KARLOVARSKÁ KE DVORU KE DŽBÁNU KE KOSTELU KE KULIŠCE KEPLEROVA KLADENSKÁ KLIDNÁ KOCOUROVA KOCHANOVA KOLEJNÍ KOMORNICKÁ KONEC- CHLUMSKÉHO KONŽSKÁ KOPECKÉHO KOTĚROVA KPT. NÁLEPKY KRAJNÍ KRALUPSKÁ KRÁTKÝ LÁN KRATOCHVÍLOVA KROCÍNOVSKÁ KROHOVA KRUŠOVICKÁ KŘENOVA KULHÁNKOVSKÁ KUSÁ KYJEVSKÁ LEDECKÁ LETECKÁ LIBERIJSKÁ LIBOCKÁ LIBOROVA LIBOVICKÁ LIŠANSKÁ LITOVICKÁ LOMENÁ LOTYŠSKÁ LOUNSKÁ LOUTKÁŘSKÁ
+
+62
+
+LUŽNÁ M. J. LERMONTOVA MAĎARSKÁ MAHULENINA MALÁ MALOBŘEVNOVSKÁ MARIÁNSKÉ HRADBY MARKÉTSKÁ MAŘÁKOVA MAŘÍKOVA MAŠTĚŘOVSKÉHO MATĚJSKÁ MENŠÍKOVSKÁ MEZIŠKOLSKÁ MICKIEWICZOVA MÍČOVA MICHALOVICOVA MILADY HORÁKOVÉ MLADČINA MLÁDEŽE MLADOTICKÁ MLÝNSKÁ MONGOLSKÁ MORAVANŮ MORSTADTOVA MOZAMBICKÁ MOŽNÉHO MUCHOVA MYDLÁŘKA MYLNEROVKA MYSLBEKOVA MYSLIVEČKOVA N. A. NĚKRASOVA NA BABĚ NA BARTOŇCE NA BAŠTĚ SV. JIŘÍ NA BAŠTĚ SV. LUDMILY NA BATERIÍCH NA BEČVÁŘCE NA BERÁNCE NA ČERNÉ HOŘE NA ČIHADLE NA DĚLOSTŘÍLNÁCH NA DIONYSCE NA DLOUHÉM LÁN NA DRAČKÁCH NA DYRINCE NA FIŠERCE NA HANSPAULCE NA HRADNÍM VODOVODU NA HUBÁLCE NA HUTÍCH
+
+NA JIVINÁCH NA JULISCE NA KARLOVCE NA KLÁŠTERNÍM NA KLIMENTCE NA KLÍNKU NA KOCÍNCE NA KOCOURKÁCH NA KODYMCE NA KOTLÁŘCE NA KRUTCI NA KŘÍDLE NA KUTHENCE NA KVINTUSCE NA LADÁCH NA LOUKOTI NA LUZÍCH NA LUŽCI NA MALOVANCE NA MARKVARTCE NA MARNĚ NA MÍČÁNCE NA OKRAJI NA OŘECHOVCE NA OSTROHU NA PADESÁTNÍKU I NA PADESÁTNÍKU II NA PADESÁTNÍKU IV NA PADESÁTNÍKU V NA PAHOUBCE NA PANENSKÉ NA PĚKNÉ VYHLÍDCE NA PERNIKÁŘCE NA PETŘINÁCH NA PETYNCE NA PÍSKÁCH NA PRŮSEKU NA PUČÁLCE NA ROVNI NA SEKYRCE NA SENÍKU NA STUPNÍCH NA SVAHU NA ŠŤÁHLAVCE NA VALECH NA VĚTRNÍKU NA VĚTRU NA VINIČCE NA VINIČNÍCH
+
+HORÁCH NA VIŠŇOVCE NA VLČOVCE NA VOLÁNOVÉ NA VYPICHU NA ZÁSTŘELU NA ZÁTORCE NA ZVADILCE NAARDENSKÁ NAD ALEJÍ NAD BOŘISLAVKOU NAD HRADNÍM POTOKEM NAD HRADNÍM VODOJEMEM NAD JENERÁLKOU NAD KAJETÁNKOU NAD KAPLANKOU NAD KOMORNICKOU NAD LÁVKOU NAD LESÍKEM NAD MANOVKOU NAD MOTOLSKOU NEMOCNICÍ NAD OCTÁRNOU NAD PANENSKOU NAD PAŤANKOU NAD PETYNKOU NAD STANICÍ NAD STRAKOVKOU NAD ŠÁRKOU NAD TEJNKOU NAD TRATÍ NAD VIŠŇOVKOU NAD VOJ. HŘBITOVEM NAD ZAHRADNICTVÍM NAD ZÁVĚRKOU NAD ZLATNICÍ NÁRODNÍ OBRANY NATANAELKA NAVIGÁTORŮ NEHEROVSKÁ NETŘEBSKÁ NIKOLY TESLY NOBELOVA NOVÁ ŠÁRKA NOVÝ LESÍK
+
+63
+
+ODDĚLENÁ OLYMPIJSKÁ OSAMOCENÁ OSMÉHO LISTOPADU OTEVŘENÁ OVÁLOVÁ OVOCNÁ PAPÍRENSKÁ PARAŠUTISTŮ PARLÉŘOVA PAŤANKA PATOČKOVA PAVLOVSKÁ PELIKÁNOVA PELLÉOVA PEŠTUKOVA PĚTIDOMÍ PĚTIPESKÉHO PEVNOSTNÍ PILOTŮ PLOJHAROVA POD ANDĚLKOU POD ARITMOU POD BAŠTAMI POD BATERIEMI POD BERÁNKOU POD CIHELNOU POD DOMKY POD DRINOPOLEM POD DVOREM POD HABROVKOU POD HRADBAMI POD HŘBITOVEM POD HVĚZDOU POD JULISKOU POD KARLOVAR. SILNICÍ POD KAŠTANY POD KLADENSKOU SILNICÍ POD KOSTELEM POD KRÁLOVKOU POD MARJÁNKOU POD MELIŠKOU POD MLÝNKEM POD MOHYLOU POD NOVÝM LESEM POD OKRAJEM POD OŘECHOVKOU
+
+POD PAŤANKOU POD PETŘINAMI POD VALY POD VYHLÍDKOU PODLEŠÍNSKÁ POKOJNÁ POLNÍ POTOČNÍ POZDEŇSKÁ PRAŽÁKOVSKÁ PRŮHLEDOVÁ PŘEDNÍ PŘEDVOJE PŘERUŠENÁ PŘÍLEPSKÁ PŮLKRUHOVÁ R. ROLLANDA RAČICKÁ RAISOVA REJCHOVA RONALDA REAGANA ROOSEVELTOVA ROZDĚLOVSKÁ ROZTOCKÁ ROZÝNOVA RUBLIČOVA RUZYŇ. SCHODY RUZYŇSKÁ RYBNIČNÁ RYBOVA RYCHTÁŘSKÁ ŘEČICKÉHO ŘEPSKÁ ŘÍČANOVA SADOVÁ SALABOVA SARTORIOVA SBÍHAVÁ I SBÍHAVÁ II SEMINÁRNÍ SENEGALSKÁ SESTUPNÁ SCHENGENSKÁ SCHWAIGROVA SIBELIOVA SKOKANSKÁ SKUPOVA SLAVÍČKOVA SLAVNÍKOVA
+
+SLEZANŮ SLUNNÁ SMIŘICKÉHO SOBÍNSKÁ SOBORSKÁ SOJKOVSKÁ SPIRITKA SPOJENÁ SRBSKÁ STAMICOVA STARÉHO STARODEJVICKÁ STAROSTŘEŠOVICKÁ STATENICKÁ STAVITELSKÁ STOCHOVSKÁ STRMÁ STŘEDNÍ STŘEŠOVICKÁ STUDENTSKÁ SÚDÁNSKÁ SUCHARDOVA SUKOVA SUŠICKÁ SUTTNEROVÉ SVATAVINA SVATOVÍTSKÁ SVOJSÍKOVA SYNKOVSKÁ SYRSKÁ ŠAFRÁNECKÁ ŠANTROCHOVA ŠÁRECKÁ ŠEBESTIÁNSKÁ ŠERMÍŘSKÁ ŠESTIDOMÍ ŠLEJNICKÁ ŠLIKOVA ŠMOLÍKOVA ŠOLÍNOVA ŠPÁLOVA ŠPOTZOVA ŠTEFKOVA ŠTÍPKOVA ŠTOLBOVA ŠTURSOVA ŠULTYSOVA ŠUMBEROVA TALICHOVA TECHNICKÁ
+
+64
+
+TEJNKA TERRONSKÁ THÁKUROVA THURNOVA TOBRUCKÁ TOMANOVA TOULOVSKÁ TŘEBONICKÁ TUNISKÁ TURKOVSKÁ TYCHONOVA TYLIŠOVSKÁ U ANDĚLKY U BERÁNKY U BRUSNICE U ČTVRTÉ BATERIE U DEJVICKÉHO RYBNÍČKU U DĚLNICKÉHO CVIČIŠTĚ U DRÁHY U DRUHÉ BATERIE U DVORA U HADOVKY U HVĚZDY U KAŠTANU U KOLEJÍ U LABORATOŘE U LADRONKY U LETIŠTĚ U LETOHRÁDKU KRÁLOVNY ANNY U MATĚJE U PÁTÉ BATERIE U PETŘIN U PÍSECKÉ BRÁNY U PODCHODU U PRAŠNÉHO MOSTU U PRIORU U PRVNÍ BATERIE U PŘECHODU U RYCHTY U SADU U SEDLECKÉ ŠKOLY U SILNICE U STANICE U STÁTNÍ DRÁHY
+
+U STŘEŠOVICKÝCH HŘIŠŤ U SVĚTLIČKY U ŠESTÉ BATERIE U TŘETÍ BATERIE U VALU U VĚTRNÍKU U VIZERKY U VOJENSKÉ NEMOCNICE U VOJTĚŠKY U VOKOVICKÉ ŠKOLY U VORLÍKŮ U ZÁMEČKU U ZEMĚPISNÉHO ÚSTAVU U ZVONIČKY ULRYCHOVA ÚNĚTICKÁ UNHOŠŤSKÁ URALSKÁ ÚZKÁ V DOMCÍCH V KRUHU V NOVÝCH VOKOVICÍCH V PODBABĚ V PRŮHLEDU V PŘEDNÍM VELESLAVÍNĚ V ROKLI V SADECH V SEDLCI V STŘEDU V ŠÁRECKÉM ÚDOLÍ V TIŠINĚ V. P. ČKALOVA VÁCLAVKOVA VANÍČKOVA VE SKALÁCH VE SKALKÁCH VE STRUHÁCH VE STŘEŠOVIČKÁCH VE VIŠŇOVCE VELESLAVÍNSKÁ VELFLÍKOVA
+
+VELVARSKÁ VERDUNSKÁ VIDLICOVÁ VIETNAMSKÁ VILÍMOVSKÁ VLASTINA VODŇANSKÉHO VOKOVICKÁ VOLAVKOVA VOŘÍŠKOVA VOSTROVSKÁ VÝCHODNÍ VÝTVARNÁ WOLKEROVA WUCHTERLOVA ZA HANSPAULKOU ZA HLÁDKOVEM ZA HUMNY ZA KAJETÁNKOU ZA LÁNY ZA OBOROU ZA POHOŘELCEM ZA PRŮSEKEM ZA STRAHOVEM ZA TEPLÁRNOU ZA VOKOVICKOU VOZOVNOU ZA ZAHRADOU ZAHRADNÍ ZÁPADNÍ ZAVADILOVA ZÁVĚRKA ZBEČENSKÁ ZBROJNICKÁ ZBUZANSKÁ ZELENÁ ZEMĚDĚLSKÁ ZENGROVA ZEYEROVA ALEJ ZIKOVA ZLATNICE ZLIČÍNSKÁ ZTRACENÁ ZÚŽENÁ ZVONICKÁ ZVONÍČKOVA ŽUKOVSKÉHO 4. PARKY
+
+65
+
+ul. ROOSEVELTOVA, č. parc. 2083/2, 2083/3 v k. ú. Bubeneč; NÁM. INTERBRIGÁDY, č. parc. 2114/2, 2114/3, 2114/4, 2114/7, 2114/8 2114/9, 2114/10, 2114/11 v k. ú. Bubeneč; ul. LOTYŠSKÁ, č. parc. 1415/2 v k. ú. Bubeneč; ul. VELVARSKÁ, č. parc. 730 v k. ú. Dejvice; Hadovka, č. parc. 843/1, 4049/4, 4049/15, 4060/12, 4060/13, 4060/16 v k. ú. Dejvice; MACHAROVO NÁM., č. parc. 1321 v k. ú. Střešovice; KEPLEROVA – JELENÍ, č. parc. 361, 365/1 v k. ú. Hradčany; PUŠKINOVO NÁM., č. parc. 2055/2, 2055/3, 2055/4, 2055/5 v k. ú. Bubeneč; BACHMAČSKÉ NÁM., č. parc. 4025 v k. ú. Střešovice; Hanspaulka u zámečku, č. parc. 3207/1 v k. ú. Dejvice; NÁM. PŘED BATERIEMI, č. parc. 179, 180/1 v k. ú. Střešovice; park Charlotty G. Masarykové, č. parc. 569, 601 v k. ú. Hradčany; Ladronka, č. parc. 2497/1, 2497/2, 2498, 2500, 2501, 2502/1, 2502/2, 2505, 2509, 3706/1 v k. ú. Břevnov; park Van Der Stoella, č. parc. 349, 352/1, 353, 354/1, 354/4, 355, 356/1 v k. ú. Hradčany; park v ulici THÁKUROVA, č. parc. 4276/3, 4276/6, 4276/8, 4276/9 v k. ú. Dejvice; park na FLEMINGOVĚ NÁMĚSTÍ, č. parc. 4280/2, 4280/3, 4280/4, 4280/5 v k. ú. Dejvice; 5. VEŘEJNÁ ZELEŇ zeleň v bytové zástavbě: k. ú. Břevnov (č. parc.)
+
+76/19 76/29 100/15 100/19 192/14 192/15 192/17
+
+192/24 347/1 381/2 387 454 640 686/2
+
+686/3 885 886 893/1 1188 1190/2 1191
+
+1769/1 2552/15 3573 3574 3575 3576/1 3577
+
+3601/7 3601/8 3622/62 3622/69 3624/1 3665/7
+
+k. ú. Bubeneč (č. parc.)
+
+3 4 1171 1172
+
+1320/1 1321 1527/1 1547/7
+
+1558/1 1558/2 1569/1 1573/1
+
+1698/1
+
+1698/2 1698/3 2101/1
+
+2115/2
+
+k. ú. Dejvice (č. parc.)
+
+201 203 290/1 290/4 300/8 300/10 506 540 542 642/26 642/27 642/29
+
+642/31 642/32 642/33 642/34 650 654 669/8 1024/8 1024/9 1024/10 1024/11 1024/12
+
+1024/13
+
+1024/15 1024/16 1031/1 1031/2 1031/3 1031/4 1257/2 1298/7 1299/6 1612/27
+
+1612/28
+
+1612/29 1612/35 2084/15 2513/297 2513/327 2513/337 2513/338 2524/34 2747/16 2747/17 2747/18
+
+2747/46
+
+2781 2812/2 3136/21 3153/1 3153/11 3156/11 3156/18 3251 3252 3920/1 3920/4 3920/5
+
+66
+
+3920/6 3920/7 3920/8 3920/9 4023/2 4262/2 4262/3 4262/4 4262/5
+
+k. ú. Hradčany (č. parc.)
+
+305/4 305/8 478 k. ú. Liboc (č. parc.)
+
+417/1 417/7 417/8
+
+417/14 417/15 417/16
+
+972/9 975/11 975/12
+
+1138/2 1302/1
+
+k. ú. Ruzyně (č. parc.)
+
+1300/9 1300/12 1300/18 1300/20 1620/1 1623/1 1646
+
+1647 1649 1651 1677/1 1679 1732 1739/4
+
+1739/52 1739/53 1739/87 1739/89 1757/15 2221/2 2221/5
+
+2221/6 2221/8 2221/11 2221/13 2222/3 2222/4 2222/5
+
+2222/7 2222/12 2222/14 2239/7 2240/3 2756/3
+
+k. ú. Střešovice (č. parc.)
+
+575/4 2094/1 2094/12 2094/13 2094/14
+
+k. ú. Veleslavín (č. parc.)
+
+295/1 302/1 302/2 302/27 302/29 306/1 306/6 316 318/1
+
+320 322/1 324/1 326 328 330/1 330/2 332/1 346
+
+473/306 473/363 473/364 473/365 473/366 473/367 491/1 491/2 491/3
+
+491/9 491/12 491/13 491/16 491/18 491/19 491/25 491/26 491/38
+
+491/46 491/47 491/98 491/99 491/100 491/101 491/102 491/103 491/104 k. ú. Vokovice (č. parc.)
+
+272/1 272/7 296/1 593/1 595/1 596/1 612/1 613/1 613/2 1022/5 1029/4 1035/3 1038/2 1050/1
+
+1106/5 1107/1 1108/5 1176/1 1176/5 1177/1 1177/4 1177/5 1206 1216/1 1246/1 1246/2 1249/1 1272/1
+
+1272/5 1273/5 1273/9 1273/15 1273/18 1273/19 1273/21 1273/22 1273/38 1273/39 1273/40 1281/50 1281/218 1281/221
+
+1281/223 1281/244 1281/251 1281/255 1281/263 1281/268 1281/273 1281/274 1281/280 1281/285 1281/288 1281/293 1281/294 1281/296
+
+1281/297 1281/338 1281/340 1281/346 1281/352 1281/354 1281/356 1281/367 1281/412 1281/414 1281/427 1281/428 1294/5
+
+67
+
+ostatní veřejná zeleň: k. ú. Břevnov (č. parc.)
+
+8 9 17 18 21 23 25 30 31/1 32/1 32/2 36 39 50 53/2 57/2 57/3 61/1 61/2 65/1 76/1 76/15 76/18 76/24 76/25 76/26 76/30 76/49 76/51 100/10 100/12 100/13 100/18 100/22 114/1 133 148/1 192/1 192/18 192/19 192/21 192/23 192/24 192/27 192/30 244/1 244/3
+
+244/8 244/11 244/13 244/15 244/17 244/19 244/27 244/28 244/30 244/31 244/32 244/34 244/35 244/36 244/38 244/39 244/40 244/41 244/42 244/43 244/44 244/46 244/48 244/50 244/52 244/53 244/54 254/1 254/2 254/3 255/2 256/1 256/2 257 271 321 375/2 445/1 482/3 505/1 505/6 505/10 505/11 505/13 505/14 505/17 505/19
+
+505/27 625/3 629/1 629/2 630/1 630/2 662/1 685 688/2 689/1 689/6 689/8 690/3 690/4 690/5 722/1 724/1 724/4 765/1 765/2 765/3 765/4 765/5 765/6 765/7 791/1 791/2 872/2 901/2 903 904 905 906 907
+
+908 909 910 911 995 1184 1218/1 1219 1692
+
+1739/1 1858 2324/2 2343
+
+2344 2345 2346 2347 2356/1 2356/2 2356/3 2357/4 2363 2364/1 2364/2 2365/1 2365/2 2366/1 2366/2 2367 2368 2369 2370 2371 2381 2382 2422/1 2422/3 2422/7 2428 2429/3 2432/1 2432/2 2432/3 2432/4 2432/5 2432/6 2432/7 2438 2441/1 2441/2
+
+2441/4 2443/1 2443/3 2443/4 2444 2454/5 2456/4 2456/5
+
+2458/23 2458/24
+
+2458/25 2458/27 2458/28 2458/36 2458/37 2458/47 2462 2468
+
+2469/1 2470/1 2476/1
+
+2479/1 2481/1 2481/10 2481/11 2485/2 2486/4 2486/6 2487/4 2489/4 2495/14 2497/1 2497/6 2497/7 2497/9 2497/10 2546/3 2546/4 2546/46
+
+2547/5 2548/5 2552/4 2552/5 2552/7 2552/31 2552/34 2552/35 2552/36
+
+2557/1 2557/31 2557/102 2557/142 2559 2563 2570/31 2570/32 2584/256
+
+68
+
+2584/261 2584/289 2584/290 2584/295 3019 3022/1 3022/11 3147/1 3182/2 3183/1 3183/4
+
+3183/6 3188 3477/1 3477/189
+
+3477/199 3477/201 3477/206 3477/239 3477/241 3477/257 3477/264 3477/266 3477/268 3477/269 3477/270
+
+3477/284 3477/285 3477/286 3477/306 3477/308 3477/312 3477/313 3477/315 3477/316 3477/317
+
+3477/322 3477/323 3477/326 3477/327 3477/333 3477/348 3540/2 3544/3 3545 3546
+
+3549/1 3557 3561 3562 3563 3564/3
+
+3565/1 3565/2 3565/3 3566/1
+
+3587/1 3598/2 3601/2 3601/3 3601/4 3601/5 3601/6 3601/7 3601/8 3605 3616/3 3617/1 3617/4 3622/1 3622/33 3622/34 3622/35 3622/36 3622/44 3622/52 3624/1 3638/1
+
+3638/2 3665/6 3670/8 3677/2 3678/5 3678/6 3678/8 3678/9 3678/10 3678/11 3679/3 3679/6 3679/7
+
+3679/8 3679/9 3679/11 3679/12 3700/3 3706/3 3744/2 3744/3 3744/4 3744/5 3747/4 3749/2 3766/1
+
+3766/2 3766/3 3766/4 3766/5 3766/6 3766/7 3766/8 3766/9 3766/10 3766/11 3766/12 3766/13 3766/14 3766/15 3766/16 3766/17
+
+3766/18 3766/19 3766/20
+
+3810 3866 3867
+
+k. ú. Bubeneč (č. parc.)
+
+2 111 112 253 254
+
+691/1 1296/1 1296/3 1681/1 1685/3
+
+1702/2 1702/3 1891/76 2062/2 2062/3
+
+2062/4 2062/5 2064/2 2064/3 2064/4
+
+2101/1 2101/2 2108/2
+
+k. ú. Dejvice (č. parc.)
+
+247/3 247/9 496/3 497/9 497/37 497/38 497/39 497/40 497/41 497/42 497/43 497/44 497/45 497/46 497/47 497/48
+
+497/49 497/51 497/54 497/57 587 588/1 589/4 589/5 589/6 589/7 589/8 589/9 590/2 590/7 642/1 642/14
+
+642/15 642/17 642/18 642/19 642/20 642/21 642/22 642/23 642/24 642/25 642/26 642/27 642/28 642/29 642/30 642/31
+
+642/32 642/33 642/34 681/1 681/3 681/5 681/11 681/12 681/17 681/20 773 818 843/4 893 985/1 985/2
+
+1022/1 1023 1024/4 1034/2 1034/3 1036/1 1036/3 1117/1 1123/1 1127/1 1128/4 1142/1 1257/1 1283 1284/1 1284/2
+
+69
+
+1284/3 1298/1 1298/2 1299/1 1300/1 1331
+
+1332 1333 1612/20 1964 2007/4 2084/2 2293/4 2513/185 2517/4 2519/9 2729/1 2747/20 2747/21 2747/23 2747/24 2747/25 2811/2 2983/1 3045/1
+
+3156/1 3156/20 3157/1 3157/2 3160 3203 3204 3205 3779/1 3844/1 3845/1 3846/1 3847/1 3850/1 3850/22 3852/1 3852/6 3853/1 3998/4 3998/5 3998/6 3998/7 3998/8 3998/9 4011/2
+
+4019
+
+4022 4031/2 4031/3 4038/4 4041/5 4046/2 4046/3 4049/6 4049/16 4049/17 4049/18 4049/19 4049/20 4049/21 4049/22 4049/23 4049/24 4049/25 4049/26 4049/27 4049/28 4049/29 4049/30 4049/31
+
+4049/32 4049/33 4049/34 4049/35 4049/36 4049/37 4049/38 4049/39 4049/40 4049/41 4049/42 4049/43 4054/2 4054/3 4055/2 4060/3 4062/3 4062/6 4065/2 4086 4182/1 4183/1 4205/2 4205/3 4229/2
+
+4229/3 4238/1 4241 4263/1 4263/2 4263/3 4277/2 4277/3 4280/2 4280/3 4280/4 4280/5 4284/2 4284/3 4500 4501 4541 4781/2 4781/3 4782/2 4782/3
+
+k. ú. Hradčany (č. parc.)
+
+308 310 342/1 352/1 353
+
+354/1 354/3 354/4 355 356/1
+
+360 473 593 598 599
+
+602 639 640/1 650 652/1
+
+652/2
+
+k. ú. Liboc (č. parc.)
+
+26/19 26/20 26/21 26/24 26/25
+
+26/26 26/30
+
+26/34 26/35 26/36
+
+26/37 26/38 26/39 26/42 26/43
+
+26/44 26/45 26/46 26/47 972/11
+
+1061/59 1061/64 1061/69 1283/2
+
+k. ú. Ruzyně (č. parc.)
+
+8 9 1285/1 1285/2
+
+1739/81 1856/1 2121/1 2122
+
+2152 2154 2227/1 2227/2
+
+2227/3 2758/3 2758/4 2933/1
+
+2933/2 2933/4 2959/1 2959/2 k. ú. Střešovice (č. parc.)
+
+405/11 560/16 632
+
+633 645/1 646
+
+728 902/1 1068
+
+1104 1105 1263
+
+1264 1265 1320
+
+70
+
+1937 1938 1939/1 1954 1955
+
+1956 2057/2 2057/23 2057/24 2057/25
+
+2057/26 2057/27 2096/1 2096/2 2096/4
+
+2097 2098 2152 2153 2154/1
+
+2154/2 2194 2199
+
+k. ú. Veleslavín (č. parc.)
+
+45 178/1 180/1 302/5 345 473/1 473/2 473/155
+
+473/156 473/157 473/159 473/162 473/202 473/230 473/231 473/233
+
+473/245 473/267 473/299 473/302 473/304 473/305 473/307 473/308
+
+473/309 473/311 473/312 473/320 473/346 473/347 473/350 491/30
+
+491/105 491/114 506/4 506/6 506/8 506/9 621/4 670/5 k. ú. Vokovice (č. parc.)
+
+237/4 528/1 528/2 528/3 607/1 651 703/1 703/2 703/3 703/4 703/5
+
+707/1 1003 1041/1 1042/1 1042/2 1045/2 1064 1091 1177/3 1273/32 1273/35
+
+1273/43 1281/234 1281/242 1281/243 1281/252 1281/253 1281/282 1281/306 1281/308 1281/309 1281/360
+
+1281/375 1281/377 1281/379 1281/381 1281/382 1281/383 1281/385 1281/406 1309/2 1326/2 1326/3
+
+1340/4 1340/5 1340/6 1340/7 1340/8 1347/2 1354/1 1354/2 1366/4 1368/2
+
+6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ spojky: Ul. FARNÍ – VE STŘEŠOVIČKÁCH, č. parc. 2198/3 v k. ú. Střešovice; Ul. JEZDECKÁ – CHALOUPECKÉHO, č. parc. 2458/1 v k. ú. Břevnov; Ul. K BRUSCE – MICKIEWICZOVA, č. parc. 592 v k. ú. Hradčany; Ul. MATĚJSKÁ – NA ŠŤÁHLAVCE, č. parc. 2566/96 v k. ú. Dejvice; Ul. NA BAŠTĚ SV. JIŘÍ – K BRUSCE, č. parc. 600/1 v k. ú. Hradčany; Ul. NA DRAČKÁCH – CUKROVARNICKÁ, č. parc. 2057/28 v k. ú. Střešovice; Ul. NA HANSPAULCE – ŠÁRECKÁ, č. parc. 4196 v k. ú. Dejvice; Ul. NAD HRADNÍM VODOJEMEM – STAROSTŘEŠOVICKÁ, č. parc. 2179/1 v k. ú. Střešovice; Ul. NAD STANICÍ - VELESLAVÍNSKÁ, č. parc. 180/4 v k. ú. Veleslavín; Ul. OTEVŘENÁ – NA PETYNCE, č. parc. 560/50, 560/57, 560/70, 2213/3 v k. ú. Střešovice; Ul. POD NOVÝM LESEM – STŘEŠOVICKÁ, č. parc. 2176/5, 2176/7 v k. ú. Střešovice; Ul. SPOJENÁ – KANADSKÁ, č. parc. 761, 4292/26 v k. ú. Dejvice, 2133/1 v k. ú. Střešovice; Ul. STŘEŠOVICKÁ – NA DRAČKÁCH, č. parc. 608/1 v k. ú. Veleslavín, 2176/7 v k. ú. Střešovice; Ul. STŘEŠOVICKÁ – NAD HRADNÍM VODOJEMEM, č. parc. 2203 v k. ú. Střešovice; Ul. STŘEŠOVICKÁ – STŘEŠOVICKÁ, č. parc. 2057/3, 2176/5, 2176/7 v k. ú. Střešovice;
+
+71
+
+Ul. ŠÁRECKÁ – MATĚJSKÁ, č. parc. 2566/96 v k. ú. Dejvice; Ul. ŠÁRECKÁ – NA HANSPAULCE, č. parc. 4196 v k. ú. Dejvice; Ul. U ŠESTÉ BATERIE – POD BATERIEMI, č. parc. 2182 v k. ú. Střešovice; Ul. VELVARSKÁ – EVROPSKÁ, č. parc. 4041/1 v k. ú. Dejvice; Ul. ZLIČÍNSKÁ – THURNOVA, č. parc. 2586/2, 2586/3, 2589/1, 2589/2 v k. ú. Břevnov; přístupové cesty a plochy u stanic metra mimo prostor, které se na noc zamykají: Hradčanská, č. parc. 4000, 4011/1, 4011/2, 4292/1, 4292/4, 4292/5, 4292/16, 4292/29, 4292/30 v k. ú. Dejvice; Dejvická, č. parc. 3998/1, 3998/9, 3998/14, 4038/20 v k. ú. Dejvice; tržní místa: Ul. Evropská u č. p. 695 před SM Billa, č. parc. 1281/292 v k. ú. Vokovice; Ul. Na Petřinách, u č. p. 1945 před SM Billa, č. parc. 3477/289 v k. ú. Břevnov; Ul. Na Petřinách u č. p. 302 před Českou poštou, č. parc. 668 v k. ú. Veleslavín; Ul. Vlastina mezi č. p. 887 a 888, č. parc. 1739/79 v k. ú. Ruzyně; ostatní: plocha u Břevnovského kláštera v ul. PATOČKOVA, č. parc. 8, 9, 10, 15/1, 15/2, 16, 20, 22, 24, 34, 35, 40/1, 76/27 v k. ú. Břevnov; plocha v ul. NA VYPICHU, č. parc. 2552/1, 2557/126, 2557/127, 2557/130, v k. ú. Břevnov; plocha dětského hřiště v ul. ZAVADILOVA, č. parc. 895/1, 895/4, 895/5, 895/6, 895/7, 895/8, 895/9, 895/11,895/12, 895/13 v k. ú. Dejvice; vnitroblok v ul. MYDLÁŘKA, č. parc. 3136/1 v k. ú. Dejvice; plocha na tzv. bývalém vojenském hřbitově v ul. HLÁDKOV, č. parc. 341, 345 v k. ú. Hradčany; plochy na sídlišti Dědina v ul. CIOLKOVSKÉHO, č. parc. 1300/1, 1739/50, 1739/57, 1739/58, 1739/59, 1739/61 v k. ú. Ruzyně; plocha na sídlišti Petřiny v ul. NA OKRAJI, č. parc. 473/252 v k. ú. Veleslavín; plocha mezi koupalištěm Džbán a ul. EVROPSKÁ, č. parc. 645/1, 645/4, 645/5, 649, 607/1, 607/3,704/2 v k. ú. Vokovice; plocha sportoviště v ul. TOMANOVA, č. parc. 2497/3 v k. ú. Břevnov; č. parc. 184/1 v k. ú. Dejvice (náměstíčko mezi ul. WUCHTERLOVA x KYJEVSKÁ x KAFKOVA se sochami koní); parc. č. 1757/1 v k. ú. Ruzyně, plocha zeleně ve vnitrobloku mezi ulicemi POD CIHELNOU a VLASTINA; parc. č. 2055/6 v k. ú. Bubeneč, DH na PUŠKINOVĚ NÁMĚSTÍ; parc. č. 2108/3 v k. ú. Bubeneč, sportoviště v ulici CHITTUSSIHO; parc. č. 973/38 v k. ú. Liboc, plocha zeleně mezi ulicemi VLASTINA a SVATAVINA; parc. č. 1061/184 v k. ú. Liboc, zeleň v ulici NAVIGÁTORŮ; parc. č. 1343/2 v k. ú. Liboc, plocha zeleně mezi ulicí EVROPSKÁ a NOVÁ ŠÁRKA; parc. č. 1088/2 v k. ú. Liboc, plocha zeleně za smyčkou tramvaje DIVOKÁ ŠÁRKA; parc. č. 3692/1 v k. ú. Břevnov, části parku v ulici SMIŘICKÉHO; parc. č. 3622/61 v k. ú. Břevnov, plocha zeleně v ulici MYSLIVEČKOVA; parc. č. 892/5 v k. ú. Břevnov, plocha zeleně pod poliklinikou Pod Marjánkou; parc. č. 473/301 v k. ú. Veleslavín, plocha zeleně v ulici ŠUMBEROVA; parc. č. 473/89 v k. ú. Veleslavín, zeleň v ulici ČÍLOVA; parc. č. 289/2 v k. ú. Veleslavín, plocha zeleně ve vnitrobloku JOSÉ MARTÍHO; parc. č. 473/8, 473/17, 473/21 v k. ú. Veleslavín, plochy zeleně před domy v ulicích JANOUŠKOVA a MAŘÍKOVA;
+
+72
+
+parc. č. 2507 v k. ú. Dejvice, sportoviště a DH Baba; parc. č. 2086/1 v k. ú. Dejvice, plocha při ulici NATANAELKA; parc. č. 4212/1 v k. ú. Dejvice, parkově upravená plocha v ulici NAD KOMORNICKOU; parc. č. 689/1, 689/3, 689/14, 689/26, 689/27 v k. ú. Dejvice, zeleň v ulici KOLEJNÍ; parc. č. 4282/2 v k. ú. Dejvice, plocha zeleně v ulici NIKOLY TESLY; parc. č. 2503 v k. ú. Břevnov, plocha parku Ladronka; parc. č. 3477/269 v k. ú. Břevnov, plocha mezi ulicemi ANKARSKÁ a BOUČKOVA; parc. č. 1281/407 v k. ú. Vokovice, plocha zeleně mezi ulicemi AFRICKÁ a KLADENSKÁ; parc. č. 620/2, 620/3, 1369/1 v k. ú. Vokovice, plocha při ulici EVROPSKÁ; parc. č. 53/1 v k. ú. Vokovice, parkově upravená plocha při ulici K ČERVENÉMU VRCHU; parc. č. 1281/350 v k. ú. Vokovice, plocha při ulici KLADENSKÁ; parc. č. 1052/1, 1054, 1065/4, 1108/1, 1108/8, 1179/1, 1188/2, 1192/1, 1302/1, 1321/1 v k. ú. Vokovice, plocha v ulici NA ROZDÍLU; parc. č. 95 v k. ú. Vokovice, zeleň a DH NA KŘÍDLE.
+
+MĚSTSKÁ ČÁST PRAHA 7
+
+1. NÁMĚSTÍ LETENSKÉ NÁM. ORTENOVO NÁM.
+
+ŘEZÁČOVO NÁM. STROSSMAYEROVO NÁM. 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY ANTONÍNSKÁ ARGETINSKÁ BADENIHO BONDYHO BUBENSKÁ BUBENSKÉ NÁBŘEŽÍ ČECHOVA ČECHŮV MOST DĚLNICKÁ DOBROVSKÉHO DUKELSKÝCH HRDINŮ FARSKÉHO FRANTIŠKA KŘÍŽKA GERSTNEROVA HAŠKOVA HAVANSKÁ HEŘMANOVA HLÁVKŮV MOST JABLONSKÉHO JANA ZAJÍCE JANKOVCOVA JANOVSKÉHO JATEČNÍ
+
+JIREČKOVA KAMENICKÁ KERAMICKÁ KOMUNARDŮ KORUNOVAČNÍ KOSTELNÍ LETENSKÝ TUNEL LETOHRADSKÁ LIBEŇSKÝ MOST MILADY HORÁKOVÉ MALÁ PLYNÁRNÍ MALÍŘSKÁ MOST BARIKÁDNÍKŮ MUZEJNÍ NA MANINÁCH NA OVČÍNÁCH NA ŠACHTĚ NA ŠPEJCHARU NA VÝŠINÁCH NA ZÁTORÁCH NÁBŘ. E. BENEŠE NÁBŘ. KPT. JAROŠE NAD KRÁLOVSKOU OBOROU
+
+NAD ŠTOLOU OSADNÍ OTOČKA ŠPEJCHAR OVENECKÁ PARTYZÁNSKÁ PLYNÁRNÍ POUPĚTOVA POVLTAVSKÁ PPLK. SOCHORA PŘÍSTAVNÍ PŘÍVOZNÍ RAJSKÁ SCHNIRCHOVA SKALECKÁ SLÁDKOVA SOCHAŘSKÁ STROJNICKÁ STUPKOVA ŠIMÁČKOVA ŠMERALOVA ŠTERNBERKOVA ŠVERMŮV MOST TOVÁRNÍ TUSAROVA
+
+73
+
+U AKADEMIE U ELEKTRÁRNY U GARÁŽÍ U LETENSKÝCH SADŮ U MĚSTSKÝCH DOMŮ U MĚŠŤANSKÉHO PIVOVARU U PAPÍRNY U PARNÍHO MLÝNA U PERGAMENTKY U PRŮHONU U SMALTOVNY
+
+U SPARTY U STUDÁNKY U TOPÍREN U URANIE U VODY U VORLÍKU U VÝSTAVIŠTĚ UMĚLECKÁ V HÁJI V ZÁKOUTÍ V ZÁVĚTŘÍ VARHULÍKOVÉ
+
+VELETRŽNÍ VEVERKOVA VINAŘSKÁ VRBENSKÉHO ZA CÍSAŘSKÝM MLÝNEM ZA ELEKTRÁRNOU ZA PAPÍRNOU ZA VIADUKTEM ŽELEZNIČÁŘŮ
+
+4. PARKY KRÁLOVSKÁ OBORA - STROMOVKA, mimo č. parc. 1796/1, 1796/2 v k. ú. Bubeneč a 1798/2 v k. ú. Bubeneč; LETENSKÉ SADY, mimo č. parc. 2108/1 v k. ú. Holešovice; ORTENOVO NÁMĚSTÍ; 5. VEŘEJNÁ ZELEŇ Letenská pláň; ostrov Štvanice; ostatní veřejná zeleň: veřejná zeleň u BUBENSKÉHO NÁBŘEŽÍ, č. parc. 2356/4 v k. ú. Holešovice; veřejná zeleň u HLÁVKOVA MOSTU, č. parc. 1215/1, 1215/6-7, 1215/11-12 v k. ú. Holešovice; veřejná zeleň v ul. BUBENSKÁ, č. parc. 1240/4, 1240/6, 1241 v k. ú. Holešovice; veřejná zeleň, č. parc. 2416/10, 2416/12, 2416/15 v k. ú. Holešovice; veřejná zeleň v ul. DUKELSKÝCH HRDINŮ, č. parc. 1547/6 -7, v k. ú. Holešovice; veřejná zeleň v ul. BONDYHO, č. parc. 89/9, 417/1, 417/2, 417/4 v k. ú. Holešovice; veřejná zeleň v ul. U PAPÍRNY, č. parc. 275 v k. ú. Holešovice; veřejná zeleň v ul. ZA ELEKTRÁRNOU, č. parc. 13 v k. ú. Holešovice; veřejná zeleň v ul. KOSTELNÍ, dětské hřiště, č. parc. 2104/1 v k. ú. Holešovice; veřejná zeleň v ul. U PERGAMENKY, č. parc. 651/2 a 651/10 v k. ú. Holešovice; veřejná zeleň u kostela Sv. Klimenta, č. parc. 2074/1 v k. ú. Holešovice; veřejná zeleň vnitrobloku v ul. U VODY, č. parc. 491/1, 491/11, 491/12 v k. ú. Holešovice; veřejná zeleň před PARKHOTELEM, č. parc. 1549/2 v k. ú. Holešovice; veřejná zeleň v ul. NAD KRÁLOVSKOU OBOROU, č. parc. 663/2 v k. ú. Bubeneč; veřejná zeleň v ul. DĚLNICKÁ, č. parc. 2383/3 v k. ú. Holešovice; veřejná zeleň u stanice metra Nádraží Holešovice-jih, č. parc. 326 v k. ú. Holešovice; veřejná zeleň NÁBŘEŽÍ E. BENEŠE, č. parc. 2113 a 2114 v k. ú. Holešovice; veřejná zeleň před vstupem do areálu Výstaviště, č. parc. 1836 v k. ú. Bubeneč; veřejná zeleň v ul. DĚLNICKÁ, č. parc. 996/1, 998, 999/2, 999/3 v k. ú. Holešovice; veřejná zeleň u stanice metra Nádraží Holešovice, č. parc. 373/3, 373/29 v k. ú. Holešovice; veřejná zeleň mezi ul. JABLONSKÉHO, PLYNÁRNÍ, ŽELEZNIČÁŘŮ, č. parc. 348/1-5 v k. ú. Holešovice; veřejná zeleň v ul. ARGENTINSKÁ, JANKOVCOVA, č. parc. 89/9, 364, 425, 457/1-4, 485 v k. ú. Holešovice; veřejná zeleň v ul. ZA ELEKTRÁRNOU, č. parc. 1865/1 v k. ú. Bubeneč;
+
+74
+
+veřejná zeleň mezi ul. TOVÁRNÍ a DĚLNICKÁ, č. parc. 1098 v k. ú. Holešovice, zeleň v zástavbě v ul. U SPARTY, č. parc. 668/2 v k. ú. Bubeneč; zeleň v zástavbě v ul. OSADNÍ, č. parc. 767 v k. ú. Holešovice; zeleň v zástavbě v ul. U MĚSTSKÝCH DOMŮ, č. parc. 768/1-2 v k. ú. Holešovice; veřejná zeleň v ul. TUSAROVA, č. parc. 2316/1-2, 5-6 v k. ú. Holešovice; veřejná zeleň u ul. NA ŠPEJCHARU a MILADY HORÁKOVÉ č. parc. 2172/1, 2172/2, 2172/3 v k. ú. Holešovice; 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ zeleň při silnicích a místních ulicích: č. parc. 14, 364, 2122/1, 2188, 2214, 2220, 2243, 2245, 2246, 2271, 2281/2, 2289, 2290/2, 2296, 2299, 2305, 2306, 2309, 2312/1, 2320, 2328/1, 2328/2, 2329/1, 2329/2, 2331/1 a 2485 v k. ú. Holešovice a 2151/1, 2151/2, 2151/3 v k. ú. Bubeneč; dětská hřiště: ul. RAJSKÁ, č. parc. 308 v k. ú. Holešovice; ul. U SPARTY, č. parc. 667/2 v k. ú. Bubeneč; ORTENOVO NÁM., č. parc. 627, 2292/1-2 v k. ú. Holešovice; přístupové cesty a plochy u stanic metra: Nádraží Holešovice-sever a železniční stanice Praha-Holešovice č. parc. 133/1, 5-6, 9-15, 160/1, 160/12, 160/13, 160/23, 160/24 v k. ú. Holešovice; Nádraží Holešovice-jih č. parc. 186/1 a 328 v k. ú. Holešovice; Vltavská č. parc. 1240/3, 7-8, 2269, 2416/11 a 2483 v k. ú. Holešovice; ostatní: NÁBŘEŽÍ KPT. JAROŠE, NÁBŘEŽÍ E. BENEŠE a BUBENSKÉ NÁBŘEŽÍ, č. parc. 2116, 2194/1-2, 2196, 2355/2 a 2355/3 v k. ú. Holešovice; předmostí LIBEŇSKÉHO MOSTU, č. parc. 2370, 2371, 2372, 2373 a 2383/1-2 v k. ú. Holešovice; spojka na CÍSAŘSKÉM OSTROVĚ mezi mosty přes plavební kanál a lávkou pro pěší, č. parc. 1896 v k. ú. Bubeneč; parkoviště v ul. U VÝSTAVIŠTĚ, č. parc. 2271 v k. ú. Holešovice; parkoviště před nákupním centrem, ul. ARGENTINSKÁ, č. parc. 787 a 788 v k. ú. Holešovice; vnitrobloky mezi ul. TOVÁRNÍ a TUSAROVA, č. parc. 1103, 1108, 1112, 1117 v k. ú. Holešovice; trojúhelník vymezený ul. U URANIE a JANKOVCOVA, č. parc. 2297/1 v k. ú. Holešovice; trojúhelník vymezený ul. VELETRŽNÍ a STROJNICKÁ, č. parc. 1549/1 v k. ú. Holešovice; prostranství v ul. DUKELSKÝCH HRDINŮ č. parc. 1547/3, 1547/6, 1547/7, 1547/8, 1547/10 v k. ú. Holešovice; zelená plocha za nájezdem ARGENTINSKÁ směr centrum, č. parc. 2480 v k. ú. Holešovice; zelená plocha u ul. VRBENSKÉHO a BONDYHO, č. parc. 2288/5 v k. ú. Holešovice; zelená plocha u ul. BUBENSKÁ, č. parc. 1252 v k. ú. Holešovice; plocha, č. parc. 1862/3 , 1862/7, 1862/8, 1862/9 v k. ú. Bubeneč; zelená plocha u ORTENOVA NÁMĚSTÍ, č. parc. 2293/1 v k. ú. Holešovice; plocha u STROSSMAYEROVA NÁM., č. parc. 2185/3 v k. ú. Holešovice; plocha u ul. PARTYZÁNSKÁ, č. parc. 38/6, 46/3, 46/5 v k. ú. Holešovice; plocha s fontánami před vstupem do areálu Výstaviště, č. parc. 1862/4 v k. ú. Bubeneč; plocha přiléhající k pavilonu na LETENSKÉM NÁMĚSTÍ, č. parc. 2224/3 v k. ú. Holešovice;
+
+75
+
+plocha autobusového nádraží Praha-Holešovice, č. parc. 89/8 v k. ú. Holešovice; plocha od hranice č. parc. 1255 v k. ú. Holešovice k obvodové fasádě budovy stojící na této parcele; prostranství v ul. LETOHRADSKÁ, č. parc. 2214 v k. ú. Holešovice; prostranství v ul. PARTYZÁNSKÁ, č. parc. 42, 46/1-2, 2273/2 a 2410/18 v k. ú. Holešovice; prostranství č. parc. 769/1, 769/2, 769/3, 769/4, 769/5 a 770/1, 770/2, 770/3, 770/4, 770/5, 770/6 v k. ú. Holešovice; prostranství v ul. DĚLNICKÁ, č. parc.  961/2, 961/5 v k. ú. Holešovice; prostranství mezi ul. ARGENTICKÁ a ZA VIADUKTEM a U TOPÍREN, č. parc. 1192/2 v k. ú. Holešovice; prostranství v ul. M. HORÁKOVÉ a NA ŠPEJCHARU, č. parc. 2172/6 v k. ú. Holešovice; prostranství u HLÁVKOVA MOSTU, č. parc. 2190/1-2 v k. ú. Holešovice; prostranství u BUBENSKÉHO NÁBŘEŽÍ, č. parc. 2331/2, 2355/7, 2355/8, 2355/9, 2355/10, 2355/11, 2355/12, 2355/13, 2355/14 v k. ú. Holešovice; prostranství u stanice metra Nádraží Holešovice, č. parc. 133/1-15, 134, 352, 373/l, 186/1, 189 v k. ú. Holešovice; prostranství mezi ul. VRBENSKÉHO, ARGENTINSKÁ a PARTYZÁNSKÁ, č. parc. 263, 266, 270 a 417/3 v k. ú. Holešovice; prostranství mezi ul. JABLONSKÉHO, PLYNÁRNÍ a ŽELEZNIČÁŘŮ, č. parc. 341/1, 341/2, 343, 351 v k. ú. Holešovice; prostranství v ul. ARGENTINSKÁ a JANKOVCOVA, č. parc. 362, 488/1, 488/6 a 2328/2-4 v k. ú. Holešovice; prostranství v ul. U VÝSTAVIŠTĚ, č. parc. 1850/4, 1850/5, 1850/12 v k. ú. Bubeneč; prostranství v ul. ZA ELEKTRÁRNOU, č. parc. 1865/2 v k. ú. Bubeneč; prostranství v ul. VARHULÍKOVÉ, č. parc. 2281/2 v k. ú. Holešovice; prostranství v ul. ZA PAPÍRNOU, č. parc. 313, 314 v k. ú. Holešovice; prostranství u Základní školy a mateřské školy U STUDÁNKY, č. parc. 1561 v k. ú. Holešovice; prostranství u chodníku při ul. VRBENSKÉHO, č. parc. 2480 v k. ú. Holešovice; prostranství při křižovatce ul. JANKOVCOVA, TUSAROVA, č. parc. 2382/2 v k. ú. Holešovice; prostranství v ul. BUBENSKÁ, č. parc. 2416/20 v k. ú. Holešovice prostranství v ul. STROJNICKÁ, č. parc. 2236/2-3 v k. ú. Holešovice; prostranství v ul. KOSTELNÍ, č. parc. 2105/1 v k. ú. Holešovice; prostranství v ul. PLYNÁRNÍ, č. parc. 773/5 v k. ú. Holešovice; prostranství u ul. ARGENTINSKÁ, č. parc. 475/1 (s výjimkou prostoru, na kterém byla umístěna dočasná stavba sloužící pro poskytování prodeje a služeb před určením tohoto č. parc. místem podléhajícím poplatku), 475/10-11 (s výjimkou prostoru, na kterém byla umístěna dočasná stavba sloužící pro poskytování prodeje a služeb před určením tohoto č. parc. místem podléhajícím poplatku), 1192/2-4 (s výjimkou prostoru, na kterém byla umístěna dočasná stavba sloužící pro poskytování prodeje a služeb před určením tohoto č. parc. místem podléhajícím poplatku) v k. ú. Holešovice; prostranství u ul. JATEČNÍ, č. parc. 2318/1-2 v k. ú. Holešovice; prostranství před stadionem Štvanice, č. parc. 1226 v k. ú. Holešovice; prostranství při ul. U ELEKTRÁRNY a VRBENSKÉHO, č. parc. 198/1 (s výjimkou prostoru, na kterém byla umístěna dočasná stavba sloužící pro poskytování prodeje a služeb před určením tohoto č. parc. místem podléhajícím poplatku), 198/1, 199/1, 199/2, 2279/2 a 2480 v k. ú. Holešovice; vydlážděná plocha u vstupu do kostela sv. Antonína, č. parc. 2185/3 v k. ú. Holešovice; prostranství č. parc. 2170/3 v k. ú. Holešovice;
+
+76
+
+prostranství č. parc. 2410/2 v k. ú. Holešovice.
+
+MĚSTSKÁ ČÁST PRAHA 8 1. NÁMĚSTÍ ELZNICOVO NÁM. HOROVO NÁM. KARLÍNSKÉ NÁM. KAŠPAROVO NÁM.
+
+KOBYLISKÉ NÁM. LYČKOVO NÁM. NÁM. DR. VÁCLAVA HOLÉHO
+
+NÁM. BOHUMILA HRABALA NÁM. NA STRÁŽI
+
+2.   TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY AKÁTOVÁ ANDRŠTOVA BALABÁNOVA BAŠŤSKÁ BATLIČKOVA BEDNÁŘSKÁ BEDŘICHOVSKÁ BENÁKOVA BERGEROVA BEŘKOVICKÁ BEŠŤÁKOVA BINAROVA BÍNOVA BOHNICKÁ BOJASOVA BOŘANOVICKÁ BRANDÝSKÁ BRAUNEROVA BRYKNAROVA BŘEZENSKÁ BŘEZINĚVESKÁ BŘEZINOVA BŘEZOVÁ BUBLÍKOVA BUDILOVA BUDÍNOVA BUKOLSKÁ BULOVKA BUREŠOVA BYDHOŠŤSKÁ BYŠICKÁ CAFOURKOVA CÍNOVECKÁ ČERNÉHO ČERTŮV VRŠEK ČERVENÁ BÁŇ ČERVENKOVA
+
+ČESÁKOVA ČIMICKÁ ČUMPELÍKOVA ČUPROVA DAVÍDKOVA DĚČÍNSKÁ DO ÚDOLÍ DOLÁKOVA DOLEJŠKOVA DOPRAVÁKŮ DRAHANSKÁ DRAHORÁDOVA DŘÍNOVÁ DUNAJECKÁ ĎÁBLICKÁ ELEDROVA FAMFULÍKOVA FARKY FEŘTEKOVA FORMÁNKOVA FOŘTOVA FRANTIŠKA KADLECE FRÝDLANTSKÁ GABČÍKOVA GDAŇSKÁ GLOWACKÉHO HACKEROVA HANOUŠKOVA HANZLÍKOVA HAVLÍNOVA HAVRÁNKOVA HEJTMÁNKOVA HEYDUKOVA HLAVÁČOVA HLÁVKŮV MOST HLIVICKÁ HNĚZDENSKÁ
+
+HORŇÁTECKÁ HOVORČOVICKÁ HRUBÉHO HUSITSKÁ HYBEŠOVA CHABAŘOVICKÁ CHABERSKÁ CHLUMČANSKÉHO CHLUMÍNSKÁ CHOCHOLOUŠKOVA CHORUŠICKÁ CHOTOVICKÁ CHVATĚRUBSKÁ JANEČKOVA JAVOROVÁ JEDLOVÁ JELÍNKOVA JESTŘEBICKÁ JIRSÍKOVA JITRAVSKÁ K BOHNICÍM K DRAHANI K FARKÁM K HALTÝŘI K LÁDVÍ K MLÝNU K OKROUHLÍKU K OLYMPIKU K OVČÍNU K PAZDERKÁM K PÍSKOVNĚ K POLÍM K RYBNÍKU K SADU K VELKÉ SKÁLE K VĚTROLAMU K ZAHRADNICTVÍ
+
+77
+
+KAIZLOVY SADY KAFTANOVA KANDERTOVA KAŇKOVSKÉHO KARLA HLAVÁČKA KAROLINSKÁ KAŠTANOVÁ KATOVICKÁ KE HŘIŠTI KE KOULI KE KOUPALIŠTI KE STÍRCE KE ŠTVANICI KELSENOVA KLAPKOVA KLECANSKÁ KLÍČANSKÁ KLIHAŘSKÁ KLÍNOVÁ KOČOVA KOLÁČKOVA KOLLÁROVA KONŠELSKÁ KORYBUTOVA KORYCANSKÁ KOSTŘÍNSKÁ KOŠALINSKÁ KOŠŤÁLKOVA KOTLASKA KOŽELUŽSKÁ KREJČÍHO KROSENSKÁ KRYNICKÁ KŘIVENICKÁ KŘIŽÍKOVA KUBÍKOVA KUBIŠOVA KUBOVA KUNDRATKA KURKOVA KUSÉHO KVĚTINÁŘSKÁ KYSELOVA LEHNICKÁ LEŠENSKÁ LHOTÁKOVA LIBČICKÁ LIBEŇSKÁ LIBEŇSKÝ MOST LIBEŇSKÝ OSTROV
+
+LIBERECKÁ LÍBEZNICKÁ LIBIŠSKÁ LINDAVSKÁ LINDNEROVA LODŽSKÁ LUBLINSKÁ LUDMILINA LUHOVSKÁ LUŽECKÁ MALÉHO MALÝ OKROUHLÍK MÁSLOVICKÁ MAŠÍNOVA MAŠKOVA MAZOVSKÁ MAZURSKÁ MENCLOVA MIKOVICKÁ MINICKÁ MIROVICKÁ MLAZICKÁ MODŘÍNOVÁ MOLÁKOVA MOST BARIKÁDNÍKŮ NA BENDOVCE NA DĚDINCE NA DÍLCÍCH NA DLÁŽDĚNCE NA FARKÁCH NA FLORENCI NA HÁJKU NA HLÍNÁCH NA HRANICÍCH NA HRÁZI NA JABLOŇCE NA JÍLU NA KINDLOVCE NA KOPANINĚ NA KOPEČKU NA KOPYTÁŘCE NA KORÁBĚ NA KOŠINCE NA KOZLOVCE NA KUCHYŇCE NA LABUŤCE I NA LABUŤCE II NA LABUŤCE III NA LABUŤCE IV NA LÁDVÍ
+
+NA MALÉM KLÍNU NA OKROUHLÍKU NA PAZDERCE NA PECÍCH NA PĚŠINÁCH NA PÍSKOVNĚ NA POŘÍČÍ NA PRŮHONU NA PŘESYPU NA ROKYTCE NA ROZHRANÍ NA ROZVODÍ NA SLOVANCE NA SRÁZU NA STÍRCE NA STRÁŽI NA STŘELNICI NA SYPKÉM NA ŠEDIVÉ NA ŠPITÁLSKU NA ŠTĚPNICI NA ŠUTCE NA TRUHLÁŘCE NA ÚBOČÍ NA VARTĚ NA ZÁMKÁCH NA ZEDNÍKOVÉ NA ŽERTVÁCH NAD HERCOVKOU NAD KOŠINKOU NAD KOTLASKOU I NAD KOTLASKOU II NAD KOTLASKOU III NAD KOTLASKOU IV NAD KOTLASKOU V NAD KOUPALIŠTĚM NAD KUNDRATKOU NAD MAZANKOU NAD NOVOU LIBNÍ NAD ODBOČKOU NAD OKROUHLÍKEM NAD PENTLOVKOU NAD POPELÁŘKOU NAD ROKOSKOU NAD STRÁNÍ NAD ŠETELKOU NAD ŠUTKOU NAD TRÓJOU NAD VAVROUŠKOU NAD ZÁLOŽNOU
+
+78
+
+NÁHORNÍ NEDOMICKÁ NEKVASILOVA NERATOVICKÁ NOTEČSKÁ NOVÁKOVÝCH OKOŘSKÁ OKROUHLICKÁ OLŠTÝNSKÁ OPÁLKOVA OPOLSKÁ OŘECHOVÁ OUHOLICKÁ PAKOMĚŘICKÁ PALÁSKOVA PALMOVKA PÁTKOVA PECKOVA PEKAŘOVA PERNEROVA PEŠINOVA PETRA BEZRUČE PETRA SLEZÁKA PÍSEČNÁ PIVOVARNICKÁ POBŘEŽNÍ POD BÁNÍ POD ČERTOVOU SKALOU POD ČIMICKÝM HÁJEM POD DLÁŽDĚNKOU POD HÁJKEM POD HAVRÁNKOU POD HLINIŠTĚM POD HVĚZDÁRNOU POD KOTLASKOU POD KUCHYŇKOU POD KYNCLOVKOU POD LABUŤKOU POD LISEM POD NÁMĚSTÍM POD PÍSEČNOU POD PLYNOJEMEM POD PŘESYPEM POD SÍDLIŠTĚM POD STATKY POD STÍRKOU POD VLACHOVKOU
+
+POD VLASTNÍM KROVEM POD VODÁRENSKOU VĚŽÍ POD VÝTOPNOU PODHAJSKÁ POLE PODLIPNÉHO POHNERTOVA POMEZNÍ POMOŘANSKÁ POVLTAVSKÁ POZNAŇSKÁ PRIMÁTORSKÁ PROSECKÁ PRVNÍHO PLUKU PŘÁDOVA PŘED ÚSTAVEM PŘEDBOŘSKÁ PŘEMYŠLENSKÁ PŘÍVORSKÁ RADOMSKÁ RAJMONOVA RAKOUSOVA RATIBOŘSKÁ ROHANSKÉ NÁBŘEŽÍ ROHANSKÝ OSTROV ROCHLICKÁ ROLNICKÁ RONKOVA ROUDNICKÁ ROUSOVICKÁ ROZŠÍŘENÁ RYZLINKOVÁ ŘEPÍNSKÁ ŘEŠOVSKÁ S. K. NEUMANNA SEBUZÍNSKÁ SEDLECKÁ SKÁLOVA SLANCOVA SLUŽSKÁ SMRČKOVA SOKOLOVSKÁ SOPOTSKÁ SOSNOVECKÁ SOVÍ VRŠEK SOVOVA SPOLEČNÁ SPOŘICKÁ SRBOVA
+
+STEJSKALOVA STRÁŽNICKÁ STŘEKOVSKÁ STŘELNIČNÁ STŘÍŽKOVSKÁ STUPŇOVÁ SVĚTOVA SVÍDNICKÁ ŠALDOVA ŠIMŮNKOVA ŠIŠKOVA ŠTĚPNIČNÁ ŠTĚTÍNSKÁ ŠTÍBROVA ŠTORCHOVA ŠVÁBKY TANVALDSKÁ TARNOVSKÁ TAŘICOVÁ TAUSSIGOVA TEPLICKÁ TĚŠÍNSKÁ TĚŠNOV THÁMOVA TIŠICKÁ TORUŇSKÁ TROCNOVSKÁ TROJSKÁ TROUSILOVA TŘEBENICKÁ TŘEBORADICKÁ TURNOVSKÁ TURSKÁ U BALABENKY U ČESKÝCH LODĚNIC U DĚTSKÉHO DOMOVA U DRAHANĚ U HERCOVKY U INVALIDOVNY U KAPLIČEK U LIBEŇSKÉHO MOSTU U LIBEŇSKÉHO PIVOVARU U LIBEŇSKÉHO ZÁMKU U MĚŠŤANSKÝCH ŠKOL U METEORU
+
+79
+
+U MLÝNSKÉHO KANÁLU U NÁDRAŽNÍ LÁVKY U NÁDRŽE U PAZDEREK U PEKAŘKY U PENTLOVKY U PÍSKOVNY U POLIKLINIKY U POŠTY U ROKYTKY U RUSTONKY U SKALKY U SLOUPU U SLOVANKY U SLUNCOVÉ U STÍRKY U SYNAGOGY U ŠKOLSKÉ ZAHRADY U TŘEŠŇOVKY U VELKÉ SKÁLY U VĚTROLAMU U VLACHOVKY UČITELSKÁ URXOVA ÚSTAVNÍ ÚSTECKÁ UZAVŘENÁ
+
+V BRANCE V HOLEŠOVIČKÁCH V MEZIHOŘÍ V NOVÝCH BOHNICÍCH V PODVRŠÍ V ZAHRADÁCH V ZÁMCÍCH VACÍNOVA VALČÍKOVA VÁNKOVÁ VAVROUŠKA VE ŠTĚPNICI VE VRCHU VE VRŠÍCH VEHLOVICKÁ VELEŇSKÁ VELKÁ SKÁLA VELTĚŽSKÁ VĚTRNÁ VĚTRUŠICKÁ VIDIMSKÁ VIDOVICKÁ VINOPALNICKÁ VÍTKOVA VOCTÁŘOVA VODOCHODSKÁ VOJENOVA VOSMÍKOVÝCH
+
+VRAŇANSKÁ VRATISLAVSKÁ VRŠNÍ VŘESOVÁ VYSOČANSKÁ VZESTUPNÁ WICHTERLOVA WILSONOVA ZA INVALIDOVNOU ZA KARLÍNSKÝM PŘÍSTAVEM ZA POŘÍČSKOU BRANOU ZA SLOVANKOU ZA STŘELNICÍ ZA VODÁRNOU ZÁBRANSKÁ ZAHRADNICKÁ ZAJEČICKÁ ZDIBSKÁ ZELENOHORSKÁ ZENKLOVA ZHOŘELECKÁ ZLONČICKÁ ZLONÍNSKÁ ZVONAŘOVSKÁ ŽALOVSKÁ ŽERNOSECKÁ 4. PARKY není stanoveno žádné veřejné prostranství, 5. VEŘEJNÁ ZELEŇ není stanoveno žádné veřejné prostranství, 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ přístupové cesty a ploch u stanic metra, vestibuly, podchody, včetně všech přístupových chodeb do těchto prostor vyjma prostor, které se zamykají: Florenc, č. parc. 194/1 v k. ú. Karlín; Křižíkova, č. parc. 805/2 v k. ú. Karlín; Invalidovna, č. parc. 693/75, 693/163, 693/186, 693/185, 693/182 v k. ú. Karlín; Palmovka, č. parc. 2905/2, 2926/2, 2926/3, 3442/4 v k. ú. Libeň; Kobylisy, č. parc. 602/6, 604/7, 610/1v k. ú. Kobylisy; Ládví, č. parc. 2364/1 v k. ú. Kobylisy; ostatní: areál Ládví při ulici STŘELNIČNÁ, č. parc. 2364/1, 2364/139, 2364/140, 2364/146 v k. ú. Kobylisy;
+
+80
+
+autobusové nádraží MHD Palmovka, při ul. NA ŽERTVÁCH, č. parc. 2931/1, 2931/5, 2931/6 v k. ú. Libeň; plocha při ul. NA KOPEČKU, č. parc. 3585 v k. ú. Libeň; plocha při ul. NA DLÁŽDĚNCE, č. parc. 693, 699/1 a 3762 v k. ú. Libeň; plocha mezi ul. KREJČÍHO, KONŠELSKÁ a PRIMÁTORSKÁ, č. parc. 254, 257, 258, 259, 267/1, 3723/4 v k. ú. Libeň; plocha při ul. NA STRÁŽI, č. parc. 3828 a 3830/4 v k. ú. Libeň; plocha u ul. ZENKLOVA, č. parc. 3612 v k. ú. Libeň; plocha při ul. U METEORU, č. parc. 48/2 v k. ú. Libeň; plocha při ul. BRAUNEROVA, č. parc. 130, 133 a 3715 v k. ú. Libeň; plocha při ul. KANDERTOVA, č. parc. 98 a 99/1 v k. ú. Libeň; plocha při ul. KOTLASKA, č. parc. 2854/1 v k. ú. Libeň; plocha při ul. LIBERECKÁ – STŘÍŽKOVSKÁ, č. parc. 1858/2 a 1923/4 v k. ú. Libeň; plocha při ul. NA DÍLCÍCH, č. parc. 1740/1 v k. ú. Libeň; plocha při ul. NA KORÁBĚ, č. parc. 292/3, 293/1 a 3730/2 v k. ú. Libeň; plocha při ul. NA ZÁMKÁCH, č. parc. 881/163 v k. ú. Čimice; plocha ve vnitrobloku „Nákladnická“, č. parc. 2772/1, 2772/2 v k. ú. Libeň; plocha při ul. POVLTAVSKÁ, č. parc. 69/1 a 3704/1 v k. ú. Libeň; prostranství mezi ul. TĚŠNOV a KE ŠTVANICI, po ul. NA POŘÍČÍ, č. parc. 882/6 v k. ú. Karlín; plocha při ul. Rokoska – Kuchyňka, č. parc. 655 v k. ú. Libeň; plocha při ul. ČUPROVA, č. parc. 2675/1 v k. ú. Libeň; plocha při ul. U SLUNCOVÉ („pod dráhou“), č. parc. 725 v k. ú. Karlín; u „stadionu Okrouhlík“, č. parc. 1742/1 v k. ú. Kobylisy; plocha při ul. ÚSTECKÁ, č. parc. 2627 v k. ú. Kobylisy; val při ul. NA TRUHLÁŘCE, č. parc. 396/3, 397/1 a 404/7 v k. ú. Libeň; plochy při ul. VOSMÍKOVÝCH, č. parc. 208 a 2224/2 v k. ú. Libeň; plocha mezi ul. NA POŘÍČÍ, NA FLORENCI, KŘIŽÍKOVA a KE ŠTVANICI, č. parc. 2336, 2337/1, 2337/10, 2337/11, 2337/14, 2337/15, 2337/18, 2337/19, 2338 v k. ú. Nové Město; plocha při ul. FEŘTEKOVA, č. parc. 840/1, 840/172 v k. ú. Bohnice; plocha při ul. LODŽSKÁ, č. parc. 827/174 v k. ú. Bohnice; plocha při ul. ČIMICKÁ, č. parc. 585/331, 585/332 v k. ú. Bohnice; plocha při ul. MAZURSKÁ, č. parc. 1310/6 v k. ú. Troja; plocha při ul. ŽERNOSECKÁ, č. parc. 2621/52 v k. ú. Kobylisy; plocha při ul. ČUMPELÍKOVA, č. parc. 2344/3 v k. ú. Kobylisy; plocha při ul. KLAPKOVA, č. parc. 2024/1 v k. ú. Kobylisy; plocha při ul. STŘELNIČNÁ, č. parc. 2364/139, 2364/146, 2364/175 v k. ú. Kobylisy; plocha při ul. ĎÁBLICKÁ, č. parc. 523/15 v k. ú. Střížkov; plocha při ul. KE ŠTVANICI a SOKOLOVSKÁ, č. parc. 162, 787/1, 788 v k. ú. Karlín; plocha při KARLÍNSKÉM NÁMĚSTÍ, č. parc. 803/1 v k. ú. Karlín; plocha při ul. BUDÍNOVA, č. parc. 323/3, 3733/1, 3733/2 v k. ú. Libeň; BULOVKA, č. parc. 323/3 v k. ú. Libeň; hřiště u Rokytky, č. parc. 2689 v k. ú. Libeň; KANDERTOVA, č. parc. 99/2 v k. ú. Libeň; KOŽELUŽSKÁ, č. parc. 3700/1, 3700/5, 3700/6, 3700/7 v k. ú. Libeň; NA KORÁBĚ, č. parc. 294/1 v k. ú. Libeň; vnitroblok „NÁKLADNICKÁ“, č. parc. 2771/1, 2774, 2775/1, 2775/2, 2776 v k. ú. Libeň; prostranství mezi ul. TĚŠNOV a KE ŠTVANICI po ulici NA POŘÍČÍ, č. parc. 882/1, 882/2 v k. ú. Karlín; VOSMÍKOVÝCH (parkoviště), č. parc. 2224/1, 2224/4, 2224/5 v k. ú. Libeň;
+
+81
+
+VOSMÍKOVÝCH – u zastávky MHD, č. parc. 2262/5 v k. ú. Libeň; plocha při ul. LODŽSKÁ, parc. č. 1307/1 v k. ú. Troja; plocha při ul. NA ZÁMKÁCH u nákupního střediska, parkoviště, příjezdová cesta k nákupnímu středisku,  parc. č. 26/2 v k. ú. Čimice; Florenc, podchod metra trasy B a C, ve výklenku před Casinem, hernou, směr ul. ZA POŘÍČSKOU BRANOU, vyjma prostor, které se na noc zamykají; Palmovka, stanice metra trasy B, vestibul, východ, podchod, vyjma prostor, které se na noc zamykají; plocha mezi ul. ZENKLOVA a SOKOLOVSKÁ, č. parc. 4014/2 v k. ú. Libeň; plocha při ul. LODŽSKÁ, č. parc. 1308/46 v k. ú. Troja; Ládví, stanice metra trasy C, vestibul, východ, podchod, přístupové chodby, vyjma prostor, které se na noc zamykají č. parc. 2364/297 v k. ú. Kobylisy; Kobylisy, stanice metra trasy C, vestibul, východ, podchod, přístupové chodby, vyjma prostor, které se na noc zamykají č. parc. 602/6, 604/9, 610/6 v k. ú. Kobylisy; plocha při ul. ZENKLOVA, č. parc. 3952/2 v k. ú. Libeň – spojnice mezi ul. ZENKLOVA a Libeňským mostem; lokalita Palmovka, č. parc. 2908/1, 2908/2, 2926/9, 2926/10, 2926/11, 2926/12, 2926/13, 2926/14, 3952/17, 4014/6, 4014/24 v k. ú. Libeň; plocha při KARLÍNSKÉM NÁMĚSTÍ č. parc. 803/3, 803/4, 803/7 v k. ú. Karlín.
+
+MĚSTSKÁ ČÁST PRAHA 9 1. NÁMĚSTÍ NÁM. NA BALABENCE NÁM. OSN VYSOČANSKÉ NÁM. 2. TRŽIŠTĚ sídliště Prosek, před obchodním domem BILLA, prostranství ohraničené ul. VYSOČANSKÁ, PROSECKÁ a ČAKOVICKÁ; 3. ULICE A CHODNÍKY ALOISOVSKÁ BASSOVA BÍLINSKÁ BOHUŠOVICKÁ BORECKÁ BRÁZDIMSKÁ BRATŘÍ DOHALSKÝCH CEDROVÁ CELNIČNÍ CIHLÁŘSKÁ CTĚNICKÁ CVIKOVSKÁ ČAKOVICKÁ ČELÁKOVICKÁ ČERPADLOVÁ ČESKOBRODSKÁ ČESKOLIPSKÁ ČESKOMORAVSKÁ ČIHÁKOVÁ
+
+ČUPROVA DESENSKÁ DĚČINSKÁ DRAHOBEJLOVA DVOUDÍLNÁ FREYOVA HABARTICKÁ HANY MAŠKOVÉ HARRACHOVSKÁ HEJNICKÁ HLAVENECKÁ HORNÍ HRDLOŘEZSKÁ HRDLOŘEZSKÁ CHRASTAVSKÁ JABLONECKÁ JAHODNICKÁ JANA PŘIBÍKA JANDOVA JASANOVÁ
+
+JEŘÁBOVÁ JETŘICHOVICKÁ JIŘETÍNSKÁ JIŘICKÁ JÍVOVÁ K FIŠPANCE K LIPÁM K MORAVINĚ K NÁHONU K ŠAFRÁNCE K TRATI K ŽIŽKOVU KABEŠOVA KBELSKÁ KE KLÍČOVU KLEČÁKOVA KLENOVA KLÍČOVSKÁ KDOULOVA KOJETICKÁ
+
+82
+
+KOLBENOVA KOLČAVKA KOLMÁ KOPEČNÁ KOVANECKÁ KOVÁŘSKÁ KRÁTKÉHO KURTA KONRÁDA KYTLICKÁ LETŇANSKÁ LEVÍNSKÁ LEVOBŘEŽNÍ LIBOČANSKÁ LIHOVARSKÁ LISABONSKÁ LÍSKOVÁ LITOMĚŘICKÁ LITVÍNOVSKÁ LOVOSICKÁ MALLETOVA MANDLOŇOVÁ MAKEDONSKÁ MARTINOVSKÁ MATĚJKOVA MĚŠICKÁ MEZILEHLÁ MEZITRAŤOVÁ MIMOŇSKÁ MIŠKOVICKÁ MLADOBOLESLAVSKÁ MLÉKÁRENSKÁ MODRÉHO MRATÍNSKÁ NA BŘEHU NA ČERNÉ STROUZE NA HARFĚ NA HLOUBĚTÍNSKÉ VINICI NA JETELCE NA KROCÍNCE NA LUKÁCH NA POKRAJI NA PROSECKÉ VYHLÍDCE NA PROSEKU NA ROZCESTÍ NA ROZHRANÍ NA SAMOTĚ NA STRÁŽI část –
+
+od veřejného osvětlení
+
+VO 917414 do VO 802272 NA TÁBOŘE NA VÝBĚŽKU NA VYHLÍDCE NA VYSOČANSKÝCH VINICÍCH NAD FLAJŠNERKOU NAD JETELKOU NAD KELERKOU NAD KLÍČOVEM NAD KOLČAVKOU NAD KROCÍNKOU NAD KUNDRATKOU NAD LIBEŇSKÝM NÁDRAŽÍM NAD SMETANKOU NAD ŠESTIKOPY NAD POTOKEM NAD VYSOČANY NADEMLEJNSKÁ NEMOCNIČNÍ NEPELOVA NEPILOVA NOVOBORSKÁ NOVOŠKOLSKÁ NOVOVYSOČANSKÁ OBVODOVÁ OCELÁŘSKÁ ODLEHLÁ OKŘÍNECKÁ PÁMELNÍKOVA PAŘÍKOVA PEŠLOVA PÍSKOVCOVÁ POD BALKÁNEM POD HARFOU POD HLOUBĚTÍNSKOU ZASTÁVKOU POD KROCÍNKOU POD NÁSPEM POD PEKÁRNAMI POD SMETANKOU POD STROJÍRNAMI POD ŠANCEMI POD TÁBOREM PODĚBRADSKÁ PODKOVÁŘSKÁ PODNÁDRAŽNÍ
+
+PODVINNÝ MLÝN POKORNÉHO POLERADSKÁ POŠTOVSKÁ PROKOPKA PROSECKÁ PROUZOVA PRŮMYSLOVÁ část –
+
+od veřejného osvětlení VO 900387 do VO 908144 PŘED MOSTY PŘEŤATÁ PŘEZLETICKÁ RUBEŠKA RUDEČSKÁ RUMBURSKÁ SATALICKÁ SKLONĚNÁ SMRKOVÁ SOKOLOVSKÁ SOUSEDÍKOVA SPOJOVACÍ STARÁ SPOJOVACÍ STAROMLÝNSKÁ STOUPAJÍCÍ STŘÍŽKOVSKÁ SVÉMYSLICKÁ ŠLUKNOVSKÁ ŠPITÁLSKÁ TEPLICKÁ TRMICKÁ TROJMEZNÍ U HARFY U ELEKTRY U KLOUBOVÝCH DOMŮ U LIDOVÉHO DOMU U MATEŘSKÉ ŠKOLY U NOVÉ ŠKOLY U PROSECKÉ ŠKOLY U PROSECKÉHO KOSTELA U SCHODŮ U SKLÁDKY U SMETANKY U SVOBODÁRNY U ŠKOLIČKY U VINNÝCH SKLEPŮ U VOBORNÍKŮ
+
+83
+
+U VYSOČANSKÉHO
+
+CUKROVARU U VYSOČANSKÉHO
+
+PIVOVARU UČŇOVSKÁ V PŘEDNÍM HLOUBĚTÍNĚ V TŘEŠŇOVCE VALEČOVSKÁ
+
+VARNSDORFSKÁ VELTRUSKÁ VERNEŘICKÁ V MEZIVRŠÍ VYSOČANSKÁ ZA KLÍČOVEM ZA KREJCÁRKEM ZA LIDOVÝM DOMEM ZA MOSTY
+
+ZA STATKEM ZÁKOSTELNÍ ZAKŠÍNSKÁ ZÁRYBSKÁ ZÁSADSKÁ ZBUZKOVA ZUBRNICKÁ ŽANDOVSKÁ
+
+4. PARKY NÁM. NA BALABENCE, č. parc. 3105/5, 3106/2, 3107/1, 3107/2, 3107/3, 3107/5, 3107/6, 3107/7, 3108, 3109, 3119/4, 3120, 3903/1  v k. ú. Libeň; PARK PODVINNÍ, č. parc. 3030, 3031, 3032, 3033, 3034, 3035, 3036/1, 3037, 3896 a 4010 v  k. ú. Libeň, č. parc. 161, 1942/1, 2131/2 v k. ú. Vysočany; PARK PROTI POLIKLINICE, č. parc. 3076/1, 3076/2, 3076/5, 3077 v k. ú. Libeň; PARK PŘÁTELSTVÍ, č. parc. 624/3, 624/4, 624/5, 624/6, 624/7, 624/8, 624/9, 624/10, 624/11, 624/12, 624/13, 624/14, 624/15, 624/16, 624/17, 624/18, 624/19, 624/20, 624/21, 624/22, 624/23, 624/24, 624/25, 624/26, 624/27, 624/28, 624/29, 624/30, 624/31, 624/32, 624/33, 624/34, 624/35, 624/36, 624/37, 624/38, 624/39, 624/40, 624/41, 624/42, 624/43, 624/45, 624/46, 624/47, 624/48, 624/49, 624/50, 624/51 a 624/52 v k. ú. Prosek a č. parc. 499/1, 499/2, 499/3, 499/4, 499/5, 499/6, 499/7, 499/8, 499/9, 499/10, 499/11, 499/12, 499/13, 499/14, 499/15, 499/16 a 499/17 v k. ú. Střížkov; PARK U STANICE METRA VYSOČANSKÁ, č. parc. 293, 296, 297/1, 299, 300/1, 367/1, 376/2 a 376/6 v k. ú. Vysočany; PARK U VYSOČANSKÉHO PIVOVARU, č. parc. 414, 415/1, 415/3, 415/31, 415/32, 417/1 v k. ú. Vysočany;
+
+5. VEŘEJNÁ ZELEŇ ostatní: k. ú. Prosek (č. parc.) 6 185/1 185/2 185/3 185/4 185/5 185/9 186/5 191/1 191/2 192/1 192/5 192/6 192/8 225/2 295/3 301 302/2 302/4
+
+325/1 329 332/2 333/2 392/3 393 394/2 396 397 532/1 532/14 532/15 532/18 534 541 542/1 542/2 543 544
+
+545 546 547/1 575/3 575/9 575/17 575/18 575/19 575/20 575/23 575/33 575/34 575/35 586/1 586/2 599/19 586/2 599/20 599/22
+
+599/23 599/27 599/28 599/29 599/30 599/33 599/40 599/44 599/49 599/52 599/55 599/57 599/61 599/62 599/63 599/64 599/65 599/66 599/68
+
+601/1 601/3 605/1 607 608/2 609 612 614/3 615/1 615/9 615/10 615/11 615/12 615/13 615/14 615/15 615/17 615/19 615/20
+
+84
+
+615/21 615/31 615/34 615/35 615/36 615/37 628/1 628/10 628/143 628/148 628/150 628/151 628/152 628/153 628/154 628/156 628/157 628/160 628/162 628/163 628/164 628/166 628/172 628/173 628/174 628/175 628/176 628/177 628/179 628/180 628/181 628/182
+
+628/183 628/184 628/185 628/186 628/187 628/188 628/189 628/190 628/191 628/192 628/193 628/194 628/195 628/196 628/197 628/198 628/199 628/200 628/201 628/202 628/204 628/205 628/206 628/208 628/209 628/211 628/212 628/213 628/214 628/215 628/216 628/217
+
+628/218 628/219 628/220 628/221 628/222 628/236 628/258 628/259 640/1 640/2 640/3 640/4 640/5 640/6 640/7 640/8 640/9 640/10 640/11 640/12 640/13 640/14 640/15 640/16 640/17 640/18 640/19 640/20 640/21 640/22 640/23 640/24
+
+640/25 640/26 640/27 640/28 640/29 640/30 640/31 640/32 640/34 640/37 640/40 640/43 640/59 640/68 640/69 641 643/1 643/2 643/4 643/10 643/13 643/17 643/18 643/56 644/6 644/7 644/8 644/14 644/15 644/16 644/17 644/18
+
+644/21 644/22 644/36 644/77 644/79 644/92 648/11 648/25 648/26 648/27 648/28 648/29 648/30 1121/25 1121/52 1121/55 1154/2 1154/6 1163/2 1163/9 1163/10 1163/11 1185/1 1185/2 1185/6 1196/2 1196/3 1196/4 1346/1 1357/1 1364 1369 k. ú. Libeň (č. parc.) 2446/10 2450/2 3045/1 3045/2 3045/5 3045/7 3047/5 3049/3 3049/21 3049/22 3049/25 3049/26 3049/27 3049/28 3049/29 3049/30
+
+3049/31 3049/32 3049/33 3049/34 3049/35 3049/36 3049/37 3049/38 3049/39 3049/40 3049/41 3049/42 3049/43 3049/44 3049/45 3049/46
+
+3049/47 3049/48 3049/49 3049/50 3049/51 3049/52 3049/53 3049/54 3049/56 3049/58 3049/59 3049/61 3049/62 3049/64 3049/67 3049/68
+
+3049/70 3049/71 3049/73 3049/74 3049/76 3049/77 3049/79 3049/80 3049/81 3049/83 3049/84 3049/87 3049/93 3049/94 3049/95 3049/96
+
+3049/97 3049/98 3049/100 3049/101 3049/102 3049/103 3049/104 3049/105 3049/109 3049/116 3049/118 3049/136 3049/137 3052/1 3052/6 3052/10
+
+85
+
+3052/11 3052/12 3052/13 3052/14 3052/15 3052/28 3079/5 3079/6 3079/8 3079/9 3079/10 3079/11 3079/12 3079/13 3079/16 3079/20
+
+3079/22 3080/1 3082/1 3082/2 3085/2 3087/2 3089/3 3093/6 3097/1 3097/12 3097/14 3097/15 3097/16 3097/19 3098/3 3098/11
+
+3098/12 3098/13 3098/14 3098/15 3098/16 3098/17 3098/18 3098/19 3098/20 3098/21 3098/22 3102/1 3102/2 3102/7 3105/3 3105/5
+
+3106/1 3106/4 3115 3116/1 3117 3118 3122 3144/1 3144/2 3145/1 3156 3160/1 3169/1 3343/1 3343/37 3343/38
+
+3343/88 3343/89 3364 3365 3366 3367 3368/1 3843/9 3844 3895 3898/1 3926
+
+k. ú. Střížkov (č. parc.)
+
+7/2 12/8 76/2 76/19 80 81/1 81/2 81/3 81/4 81/5 81/6 81/7 81/14 86/16 86/17 86/20 90 91/5 92/1 92/2 122 136/2 136/4 136/7 136/8 136/11 136/13 395 496/85 496/87 496/88 496/90
+
+496/91 496/92 496/93 496/97 496/99 496/100 496/101 496/102 496/104 496/105 496/106 496/108 496/109 496/110 496/111 496/112 496/113 496/114 496/115 496/116 496/117 496/118 496/119 496/120 500/1 500/3 500/4 500/5 500/6 500/7 500/8 500/9
+
+500/10 500/11 500/12 500/13 500/14 500/15 500/16 500/17 500/18 500/19 500/20 500/21 500/22 500/23 500/24 500/25 500/26 500/27 500/28 500/29 500/30 500/31 500/32 500/33 500/34 500/35 500/36 500/37 500/38 500/39 500/40 500/46
+
+500/49 500/51 500/57 500/58 500/59 500/77 500/78 500/79 500/80 500/81 500/82 500/83 500/84 500/85 500/87 500/88 500/90 500/91 500/92 500/93 500/94 500/95 500/96 500/99 500/101 500/104 500/105 500/106 500/107 500/108 500/109 500/110
+
+500/111 500/112 500/113 500/114 500/192 500/193 500/194 500/195 509/1 515/25 515/26 515/27 515/28 515/30 515/31 515/32 515/37 515/40 515/41 515/42 515/43 515/57 515/74 515/75 515/76 515/78 515/79 515/80 515/81 515/82 515/95 515/96
+
+86
+
+515/97 515/98 515/99 515/103 515/114 515/115 515/148 516/4
+
+516/5 516/6 516/20 516/21 516/23 516/24 516/25 516/26
+
+516/27 516/28 516/29 516/30 516/31 516/32 516/35 516/36
+
+517/3 518/3 542/2 543 551 552 553/5 553/6
+
+566/3 567/1 568/2 568/9 568/10 568/13 827
+
+k. ú. Hrdlořezy (č. parc.) 44 45/2 46 84/3 84/4 84/5 84/11
+
+84/12 84/13 87/1 88/2 88/4 154 156/4
+
+157/2 267 268 270/5 270/6 333 357/8
+
+478/2 500/1 500/13 500/18 500/19 500/28 500/29
+
+500/30 524/3 525 526 532 536/1
+
+k. ú. Hloubětín (č. parc.) 14/1 14/2 15 16 17
+
+19 20/1 20/4 21/1 22
+
+23 1640/1 1774/7 1774/104 2106/4
+
+2106/9 2106/10 2106/12 2108 2109/1
+
+2119/1 2120 2436/2 2439 k. ú. Vysočany (č. parc.) 16/1 16/2 17/1 19/2 26 30/1 30/22 31 32 37/1 42/1 51/8 64/3 64/9 72 100 101 102 103 104 105 106 107 108
+
+153 158/1 159/1 300/2 367/1 368 369/1 369/2 369/3 376/1 376/2 376/3 376/6 376/16 376/17 376/19 376/20 387 388/3 415/1 417/1 417/4 425/3 426
+
+427 428/1 480/1 480/2 596 616/1 622 624 626 630 632/1 632/2 641/1 641/2 641/4 643/1 643/2 644/1 737/11 737/12 737/72 737/74 737/75 737/76
+
+737/78 737/80 737/81 737/82 737/83 737/84 737/95 737/98 737/99 737/100 737/101 819/2 820/1 823/2 824 835 837 855/1 855/6 855/7 1026/2 1028/2 1029 1030/1
+
+1037 1038 1041 1049 1051 1052 1053 1054 1055/1 1057 1059 1060/2 1068 1070/1 1086 1088/1 1090 1093 1095 1098 1105 1389 1394/1 1394/2
+
+87
+
+1394/3 1394/4 1394/5 1394/6 1394/7 1394/8 1394/9 1405 1406/2 1406/3 1406/8 1406/9 1406/11 1415/1 1415/4 1415/5 1417/2 1417/12 1417/15 1654 1655 1658/2 1658/3 1658/4
+
+1658/5 1658/6 1658/7 1658/8 1658/9 1658/10 1658/11 1658/12 1659 1671/2 1672/3 1673/8 1675/31 1675/35 1690 1693 1694/8 1695 1696 1705 1707/2 1707/3 1709 1710
+
+1711 1713/1 1715/2 1772 1825/4 1825/7 1869/1 1869/5 1869/10 1869/11 1869/60 1869/63 1869/64 1882 1891 1892/1 1893 1894/1 1894/2 1895/1 1895/2 1895/3 1897/1 1897/4
+
+1897/9 1908/1 1908/10 1925/6 1925/10 1928/1 1928/4 1929/2 1939/1 1939/2 1939/3 1939/4 1939/5 1939/6 1939/7 1939/8 1939/9 1939/10 1939/11 1939/12 1939/13 1939/14 1939/15 1939/16
+
+1939/17 1939/18 1939/20 1939/23 1939/24 1941/4 1943/7 1965/2 1967 1968 1971/1 1972/1 2006/1 2006/2 2006/3 2006/6 2034 2068/2 2070 2071/2 2087/2 2123/1
+
+6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ přístupové cesty a plochy u stanic metra mimo prostor, které se na noc zamykají: Českomoravská, č. parc. 3278/1, 3278/2, 3278/3, 3278/4 a 3283/1 v k. ú. Libeň; Vysočanská č. parc. 110/4 a 116 v k. ú. Vysočany; Kolbenova č. parc. 1140/39, 1140/1 v k. ú. Vysočany; ostatní: č. parc. 1425, 1485, 1514/1, 1521, 1627/2, 1629/1, 1629/10, 1629/23, 1768/3, 2418/1, 2435/2, 2528/3, 2528/11 v k. ú. Hloubětín; č. parc. 45/1, 84/1, 84/20, 85, 86, 87/1, 88/4, 89/2, 175, 334/9, 500/8, 512, 513, 514, 515, 516, 518/1, 520/1, 520/2, 530 v k. ú. Hrdlořezy; č. parc. 304/1, 392/16, 392/20, 532/10, 532/34, 575/1, 575/35, 586/1, 599/42, 599/60, 605/2, 606, 608/3, 614/1, 615/16, 628/145, 628/149, 628/161, 628/163, 628/169, 628/178, 628/209 628/259, 640/36, 643/12, 643/14, 643/16, 643/28, 643/29, 644/31, 644/48, 644/49, 644/69, 644/78, 644/80, 646/3, 648/1, 648/14, 648/15, 648/24, 648/31, 1122, 1123/1, 1142/1, 1185/3, 1193 v k. ú. Prosek; č. parc. 136/11, 496/37, 496/86, 496/89, 500/21, 500/37, 515/29 v k. ú. Střížkov; č. parc. 9/6, 9/8, 9/10, 9/12, 11/4, 11/13, 11/16, 19/2, 19/12, 76/2, 94, 95, 96, 98, 99, 118/1, 155/1, 158/4, 238, 268, 272/1, 282/1, 282/2, 283, 285, 290, 291, 293, 388/1, 425/1, 425/5, 430/1, 430/2, 431/3, 476, 480/52, 480/69, 560, 561/1, 561/2, 561/4, 594/1, 616/5, 616/6, 737/13, 737/14, 737/15, 737/16, 737/99, 785/2, 985/7, 1014/2, 1014/4, 1014/12, 1014/22, 1014/23, 1014/24, 1014/26, 1014/27, 1014/28, 1014/29, 1014/33, 1014/38, 1014/40, 1014/295, 1014/297, 1014/299, 1014/319, 1014/395, 1061/1, 1061/2, 1084, 1088/4, 1088/5, 1092/4, 1388/10, 1417/10, 1417/11, 1417/18, 1417/20, 1642/3, 1642/4, 1642/7, 1669/4, 1675/9, 1678/4, 1678/48, 1712/1, 1713/1, 1813/3, 1824/3, 1824/9, 1825/4, 1825/6, 1899/2,
+
+88
+
+1899/3, 1927/10, 1928/7, 1929/1, 1939/1, 1934/5, 1939/19, 1962, 2059, 2069, 2153/1, 2153/5, 2153/8, 2153/9, 2153/10, 2155 v k. ú. Vysočany; č. parc. 1935/6, 1935/10, 1936/5, 2996/1, 2996/2, 2996/3, 2996/4, 2996/9, 2996/10, 3001, 3002, 3045/7, 3046/2, 3049/107, 3051/51, 3052/1, 3052/10, 3052/11, 3052/12, 3052/13, 3052/33, 3052/52, 3074, 3075/1, 3097/1, 3100/2, 3100/5, 3102/22, 3105/4, 3114, 3119/2, 3123, 3134, 3144/2, 3145/2, 3283/1, 3343/1, 3343/98, 3917/3, 3917/4, 3918/1, 3918/2, 4012/16 v k. ú. Libeň; zpevněné plochy obchodního centra mezi ul. MĚŠICKÁ a JABLONECKÁ; zpevněné plochy obchodního centra mezi ul. JABLONECKÁ, HARRACHOVSKÁ a VARNSDORFSKÁ; zpevněné plochy a přístupové cesty u OD BILLA na Proseku, mezi ul. JABLONECKÁ, PROSECKÁ a VYSOČANSKÁ; zpevněné a travnaté plochy a přístupové cesty u prodejny LIDL v Hrdlořezech; zpevněné plochy a přístupové cesty u O2 ARENY a NG HARFA; zpevněné plochy obchodního centra mezi ul. VYSOČANSKÁ a BOHUŠOVICKÁ („Královka“); zpevněné plochy obchodního centra mezi ul. VYSOČANSKÁ a BOHUŠOVICKÁ („Boleslavka“); č. parc. 497/1 v k. ú. Střížkov, parc. č. 643/13 v k. ú. Prosek, parc. č. 109/1, 109/2 v k. ú. Vysočany; č. parc. 640/33, 1123/10, 1132/5, 1196/13, 1196/16, 1196/17 v k. ú. Prosek; č. parc. 643/15, 643/22, 643/23, 643/24, 643/25, 643/26, 643/27, 643/29, 643/31, 643/32, 643/33, 1128, 1163/4, 1192, 1196/5, 1196/6, 1196/7, 1196/8, 1196/9, 1196/10, 1196/11, 1196/12, 1196/13, 1196/14, 1196/15, 1327, 1347, 1379 v k. ú. Prosek; č. parc. 851 v k. ú. Střížkov; č. parc. 84/21, 87/2, 87/3, 87/4, 332, 500/2, 512, 518/2, 524/1, 527/19  v k. ú. Hrdlořezy; č. parc. 9/1, 9/2, 9/3, 446, 559, 1417/7 v k. ú. Vysočany.
+
+MĚSTSKÁ ČÁST PRAHA 10 1. NÁMĚSTÍ KUBÁNSKÉ NÁM. MALEŠICKÉ NÁM. NÁM. MEZI ZAHRÁDKAMI
+
+NÁM. SVATOPLUKA ČECHA VRŠOVICKÉ NÁM.
+
+2.  TRŽIŠTĚ není stanoveno žádné veřejné prostranství,
+
+3. ULICE A CHODNÍKY AKADEMICKÁ ALDAŠÍNSKÁ ALTAJSKÁ AMURSKÁ ARCHANGELSKÁ ARMÉNSKÁ AUBRECHTOVÉ BACHÁČKOVA BAJKALSKÁ BAKALÁŘSKÁ
+
+BARTOŠKOVA BAŠKIRSKÁ BEČVÁŘOVA BĚCHOVICKÁ BĚLOCERKEVSKÁ BENEŠOVSKÁ BENICKÁ BĚŽNÁ BLATOUCHOVÁ BLATOVSKÁ
+
+BOHDALECKÁ BOLINSKÁ BORODINSKÁ BOŠICKÁ BOŽECKÁ BRAMBOŘÍKOVÁ BRATŘÍ ČAPKŮ BRIGÁDNÍKŮ BRTNICKÁ BŘEČŤANOVÁ
+
+89
+
+BŘEŽANSKÁ BULHARSKÁ BYDŽOVSKÉHO BYLANSKÁ CERHENICKÁ ČELJABINSKÁ ČELNÁ ČERNICKÁ ČERNOKOSTELCKÁ ČERNOMOŘSKÁ ČESTLICKÁ DĚTSKÁ DO VRŠKU DOBROČOVICKÁ DOLÍNECKÁ DOLNÍ CHALOUPKY DONATELLOVA DONSKÁ DOUBRAVČICKÁ DŘEVČICKÁ DUBEČSKÁ DUKELSKÁ DÜREROVA DVACÁTÉHO OSMÉHO PLUKU DVOULETKY DYKOVA ELEKTRÁRENSKÁ ELLNEROVÉ ESTONSKÁ FIALKOVÁ FINSKÁ FLÁJSKÁ FOERSTROVA FRANCOUZSKÁ GINZOVA GOLLOVA GOYOVA GRUZÍNSKÁ GUTOVA HÁJECKÁ HELDOVA HEROLDOVY SADY HLEDÍKOVÁ HLOHOVÁ HOLANDSKÁ HOLUBKOVA HORNÍ CHALOUPKY HOSTÝNSKÁ HRADEŠÍNSKÁ
+
+HRUŠŇOVÁ HŘIBSKÁ HVOZDÍKOVÁ HVOZDNICKÁ HYACINTOVÁ CHARKOVSKÁ CHLÁDKOVA CHMELOVÁ CHODOVSKÁ CHORVATSKÁ CHOTOUŇSKÁ CHOTUTICKÁ CHRPOVÁ IRKUTSKÁ IZRAELSKÁ JABLOŇOVÁ JAHODOVÁ JAKUTSKÁ JALTSKÁ JANDEROVA JANÝROVA JASMÍNOVÁ JEREVANSKÁ JESENICKÁ JETELOVÁ JEVANSKÁ JIRENSKÁ JIŘÍČKOVÉ JIŘINKOVÁ JIŽNÍ SPOJKA K BOTIČI K ČERVENÉMU DVORU K HÁJEČKU K CHALOUPKÁM K LOUŽI K PRÁDELNĚ K RYBNÍČKŮM K TOPÍRNĚ K VODĚ KALINOVÁ KAMELOVA KAMPANOVA KAŇKOVA KAPRAĎOVÁ KARAFIÁTOVÁ KÁRANSKÁ KAROSÁŘSKÁ KARPATSKÁ KAVKAZSKÁ
+
+KAZAŠSKÁ KE SKALKÁM KE SPOŘILOVU KE STRAŠNICKÉ KIRGIZSKÁ KIŠINĚVSKÁ KLUČOVSKÁ KODAŇSKÁ KODICILOVA KOLODĚJSKÁ KOLOVRATSKÁ KONOJEDSKÁ KONOPIŠŤSKÁ KONVALINKOVÁ KOPRETINOVÁ KORUNNÍ KORYTNÁ KOSATCOVÁ KOŠICKÁ KOUNICKÁ KOZÁCKÁ KRABOŠICKÁ KRALICKÁ KRÁLOVICKÁ KRASNOJARSKÁ KRÁTKÁ KRUHOVÁ KRUPSKÁ KRUŽBERSKÁ KRYMSKÁ KŘENICKÁ KŘESLICKÁ KVĚTNICKÁ LEKNÍNOVÁ LIMUZSKÁ LIPECKÁ LITEVSKÁ LITOCHLEBSKÁ LOPUCHOVÁ LOUŇOVICKÁ LVOVSKÁ MACEŠKOVÁ MADRIDSKÁ MAGNITOGORSKÁ MÁCHOVA MALÁ BYLANSKÁ MALEŠICKÁ MALINOVÁ MALÍNSKÁ MATEŘÍDOUŠKOVÁ
+
+90
+
+MATTIOLIHO MEČÍKOVÁ MERUŇKOVÁ MEXICKÁ MICHELANGELOVA MIKANOVA MILÍNSKÁ MINSKÁ MIROŠOVICKÁ MISTROVSKÁ MLÁDEŽNICKÁ MODLETÍNSKÁ MOKŘANSKÁ MOLDAVSKÁ MOLITOROVSKÁ MOSKEVSKÁ MRŠTÍKOVA MUKAŘOVSKÁ MURMANSKÁ NA BOHDALCI NA BOTIČI NA HROUDĚ NA KOVÁRNĚ NA KRÁLOVCE NA KŘIVCE NA LÁVCE NA LOUŽI NA MÍČÁNKÁCH NA PADESÁTÉM NA PAHORKU NA PALOUKU NA POLNÍKU NA ROZJEZDU NA SLATINÁCH NA SPÁDU NA SPOJCE NA STEZCE NA STRÁNI NA SYCHROVĚ NA ŠAFRÁNCE NA TŘEBEŠÍNĚ NA UNIVERSITNÍM STATKU NA ÚSEKU NA VINICI NA VINOBRANÍ NA VRŠÍCH NA VÝHLEDECH NA VÝSLUNÍ NA ZÁJEZDU
+
+NAD ELEKTRÁRNOU NAD CHALOUPKAMI NAD KAPLIČKOU NAD OLŠINAMI NAD PRIMASKOU NAD SLAVIÍ NAD TRNKOVEM NAD TŘEBEŠÍNEM I NAD TŘEBEŠÍNEM II NAD TŘEBEŠÍNEM III NAD ÚŽLABINOU NAD VINNÝM POTOKEM NAD VODOVODEM NAD VRŠOVSKOU HOROU NARCISOVÁ NÁZOVSKÁ NEDVĚZSKÁ NIEDERLEHO NITRANSKÁ NORSKÁ NOSICKÁ NOVGORODSKÁ NOVOBOHDALECKÁ NOVOROSSIJSKÁ NOVOSTRAŠNICKÁ NUČICKÁ NUPACKÁ OBLOUKOVÁ OKRAJNÍ OLEŠSKÁ OMSKÁ ONDŘEJOVSKÁ ORAVSKÁ ORELSKÁ OSNICKÁ OSTRUŽINOVÁ OTY PAVLA OVČÁRSKÁ PAMPELIŠKOVÁ PELYŇKOVÁ PERUCKÁ PETRKLÍČOVÁ PETROHRADSKÁ PETROVICKÁ PITKOVICKÁ PIVOŇKOVÁ PLAŇANSKÁ PLATANOVÁ
+
+PLOŠNÁ POBOŘSKÁ POČERNICKÁ POD ALTÁNEM POD BOHDALCEM I POD BOHDALCEM II POD HOTELEM POD KAPLIČKOU POD RAPIDEM POD SOUTRATÍM POD STRÁNÍ POD STRAŠNICKOU VINICÍ POD STUPNI POD SYCHROVEM I POD SYCHROVEM II POD TÁBOREM POD TŘEBEŠÍNEM POD VIKTORKOU POD ŽIDOVSKÝMI HŘBITOVY PODLE NÁHONU PODLE TRATI PODLÉŠKOVÁ POLYGRAFICKÁ POMNĚNKOVÁ POPOVICKÁ PÖSLOVA PRÁČSKÁ PRAŽSKÁ PROREKTORSKÁ PRŮBĚŽNÁ PRŮHONICKÁ PRŮMYSLOVÁ PRUSICKÁ PŘED SKALKAMI I PŘED SKALKAMI II PŘESLIČKOVÁ PŘESPOLNÍ PŘETLUCKÁ PŘÍPOTOČNÍ PŘISTOUPIMSKÁ RABAKOVSKÁ RADOŠOVICKÁ RAFFAELOVA REKTORSKÁ REMBRANDTOVA RÉVOVÁ ROSTOKLATSKÁ ROSTOVSKÁ
+
+91
+
+ROZMARÝNOVÁ RUBENSOVA RUSKÁ RYBALKOVA RYBÍZOVÁ RYŠÁNKOVA ŘÍČANSKÁ ŘIPSKÁ SÁMOVA SARATOVSKÁ SASANKOVÁ SAZEČSKÁ SEČSKÁ SEDMIDOMKY SEVASTOPOLSKÁ SKŘIVANSKÁ SLAPSKÁ SLÍVOVÁ SLOVENSKÁ SLOVINSKÁ SLUNEČNÁ SLUNEČNICOVÁ SLUŠTICKÁ SLUŽEB SMOLENSKÁ SNĚŽENKOVÁ SOBOTECKÁ SOLIDARITY SPORTOVNÍ SRBÍNSKÁ STAROSTRAŠNICKÁ STRANČICKÁ STRAŠÍNSKÁ STRAŠNICKÁ STRNADOVA STŘEDOVÁ STŘEMCHOVÁ STUPICKÁ SVAHOVÁ SVĚTICKÁ SVOJETICKÁ ŠAFRÁNOVÁ ŠALVĚJOVÁ ŠEBEROVSKÁ ŠIBŘINSKÁ ŠKÁBOVA ŠKVORECKÁ ŠROBÁROVA ŠTĚCHOVICKÁ ŠTÍHLICKÁ
+
+ŠTIŘÍNSKÁ ŠVEHLOVA TÁDŽICKÁ TACHLOVICKÁ TAŠKENTSKÁ TEHOVSKÁ TEJNICKÁ TEPLÁRENSKÁ TISKAŘSKÁ TISMICKÁ TOLSTÉHO TOMICKÁ TOMSOVA TOPOLOVÁ TROILOVA TŘEBOHOSTICKÁ TŘEZALKOVÁ TUCHORAZSKÁ TUKLATSKÁ TULIPÁNOVÁ TULSKÁ TURKMENSKÁ TURNOVSKÉHO U HRANIC U HRÁZE U HŘIŠTĚ U KOMBINÁTU U KRBU U NOVÝCH VIL U PLYNÁRNY U ROHÁČOVÝCH KASÁREN U SEŘADIŠTĚ U SLAVIE U SLATIN U SPLAVU U STARÉ SOKOLOVNY U STAVOSERVISU U TRATI U TVRZE U VESNY U VINNÉ RÉVY UVINOHRADSKÉHO HŘBITOVA U VODÁRNY U VOZOVNY U VRŠOVICKÉHO HŘBITOVA U VRŠOVICKÉHO NÁDRAŽÍ
+
+U ZÁBĚHLICKÉHO ZÁMKU U ZAHRADNÍHO MĚSTA U ZÁKRUTU U ZDRAVOTNÍHO ÚSTAVU UHŘÍNĚVESKÁ ÚJEZDSKÁ UKRAJINSKÁ ULJANOVSKÁ UNIVERZITNÍ ÚTULNÁ ÚVALSKÁ UZBECKÁ UŽOCKÁ V DOLINĚ V KORYTECH V OCHOZU V OLŠINÁCH V PŘEDPOLÍ V RYBNÍČKÁCH V ÚŽLABINĚ V ZÁTOČCE VE SLATINÁCH VE STÍNU VELENOVSKÉHO VESTECKÁ VĚŠÍNOVA VILOVÁ VINOHRADSKÁ VINŠOVA VLADIVOSTOCKÁ VLAŠIMSKÁ VODĚRADSKÁ VOLYŇSKÁ VORONĚŽSKÁ VRÁTKOVSKÁ VRBČANSKÁ VRŠOVICKÁ VRŠOVICKÉ NÁM. VYDROVA VYKÁŇSKÁ VÝSTUPNÍ VYŽLOVSKÁ ZA NÁVSÍ ZA POŠTOU ZA POTOKEM ZA SEDMIDOMKY ZA SLATINAMI
+
+92
+
+ZA STADIONEM ZA STRAŠNICKOU VOZOVNOU ZA TŘEBEŠÍNEM ZÁBĚHLICKÁ ZÁLUŽANSKÉHO
+
+ZDIMĚŘICKÁ ZVONKOVÁ ŽDÁNICKÁ ŽELEZNIČNÍ ŽELIVECKÁ ŽERMANICKÁ
+
+ŽERNOVSKÁ ŽINKOVSKÁ ŽIROVNICKÁ ŽITOMÍRSKÁ
+
+4. PARKY BEZRUČOVY SADY, č. parc. 1579/1 v k. ú. Vinohrady; HEROLDOVY SADY, č. parc. 4/1, 4/3, 5/1, 6 v k. ú. Vršovice; U VRŠOVICKÉHO NÁDRAŽÍ, č. parc. 1056, 1061, 2487/7, 2487/8, 2525/2 v k. ú. Vršovice; SADY SVATOPLUKA ČECHA, č. parc. 889/1, 2472/3 v k. ú. Vršovice; park NA VINICI, č. parc. 2031 v k. ú. Strašnice; MALEŠICKÝ PARK, č. parc. 806/18 v k. ú. Malešice; 5. VEŘEJNÁ ZELEŇ park NAD PRIMASKOU, č. parc. 1685/2 v k. ú. Vršovice,  4077/2, 4077/4, 4077/5 v k. ú. Vinohrady; park na KUBÁNSKÉM NÁMĚSTÍ, č. parc. 1673, 2520 v k. ú. Vršovice; vnitroblok KONOPIŠŤSKÁ - 28. PLUKU, č. parc. 1301/9, 1306, 1307/5, 1310/2, 1311/1, 1315/2, 1326/1, 1327/3, 1328, 1329/1 v k. ú. Vršovice; okolo BĚLOCERKEVSKÉ, č. parc. 1346/1, 1352/2, 1357/2, 1367/1, 1367/4, 1419/1, 1428/1, 1423/2, 1431/1, 1431/4, 1431/6, 1432/4, 1432/6, 1542/6, 1869/5 v k. ú. Vršovice; mezi VOLYŇSKOU a LITEVSKOU, č. parc. 1431/8, 1434/1, 1477/2, 1492/2, 1493/3, 1494/2, 1496/1, 1497/2, 1498/2, 1499/2, 1501/8, 1506, 1512/2, 1532/2, 1536/5, 1537/2 v k. ú. Vršovice; mezi VRŠOVICKOU a VLADIVOSTOCKOU, č. parc. 1827/1, 1829/2, 1829/7, 1832/2, 1833/1, 1835, 1841, 1846/1, 1847/1, 1847/3, 1852/4 v k. ú. Vršovice; mezi VRŠOVICKOU a BAJKALSKOU, č. parc. 1381/3, 1387/4, 1388/1, 1388/2, 1389/6, 1389/7, 1393/2, 1398/2, 1403/1, 1405, 1409, 1572/1 v k. ú. Vršovice; vnitroblok SÁMOVA, č. parc. 1004, 1006, 1007, 1008, 1009, 1024 v k. ú. Vršovice; vnitroblok NA HROUDĚ, č. parc. 1686/3, 1689/2, 1701/1, 1707/3, 1707/4 v k. ú. Vršovice; mezi LITEVSKOU a RUSKOU, č. parc. 1583/2, 1585/1, 1585/7, 1589/2, 1587/2, 1592, 1593, 1594, 1595, 1596, 1598, 1602/5, 1615/6, 1615/7, 1621/19 v k. ú. Vršovice; park v KRÁTKÉ ulici, č. parc. 1123/1 v k. ú. Strašnice; park v RADOŠOVICKÉ, č. parc. 3132 v k. ú. Strašnice; park V OLŠINÁCH, č. parc. 19/2, 19/4, 25/3 v k. ú. Strašnice; park NA TŘEBEŠÍNĚ, č. parc. 1463/8, 1463/17, 1463/18 v k. ú. Strašnice; okolo HOSTÝNSKÉ a CHOTOUŇSKÉ, č. parc. 2244/75, 2244/80, 2244/84, 2244/127, 2244/128, 2244/234, 2244/239, 2244/246 v k. ú. Strašnice; mezi POD STRÁNÍ a ŽERNOVSKÁ, č. parc. 3047/7, 3220/1, 3220/10, 3220/11, 3220/27, 3220/31, 3220/32, 3220/38, 3220/40, 3220/46, 3220/47, 3220/48, 3220/49, 3220/50, 3220/52, 3220/53, 3235/1, 3236/1, 3236/10, 3237/1, 3237/9, 3237/10, 3237/29 v k. ú. Strašnice; sídliště SKALKA, č. parc. 3925/1, 3925/12, 3925/19, 3931/1, 4021/1, 4021/9, 4021/11, 4021/12, 4021/14, 4021/15, 4021/17, 4021/18, 4021/19, 4021/21, 4021/22, 4021/25, 4021/32, 4022/5 v k. ú. Strašnice; mezi V OLŠINÁCH a V RYBNÍČKÁCH, č. parc. 2810/11, 2836/1, 2837/2, 2838/34, 2838/36, 2838/50, 2838/75, 2838/76, 2838/77, 2838/78, 2838/79, 2838/80, 2838/81, 2845/1, 2845/7 v k. ú. Strašnice; mezi V OLŠINÁCH a BRIGÁDNÍKŮ, č. parc. 2796/45, 2813/1, 2813/2, 2813/3, 2813/4,
+
+93
+
+2814/1, 2814/3, 2814/4 v k. ú. Strašnice; park SOLIDARITA, č. parc. 2794/30, 2794/470, 2796/1, 2796/46 v k. ú. Strašnice; park V ÚŽLABINĚ, č. parc. 2244/1 v k. ú. Strašnice; mezi ČERNOKOSTELECKOU a V ÚŽLABINĚ, č. parc. 2244/115, 2244/159, 2244/166, 2244/265, 2244/267, 2244/271, 2244/275, 2244/290, 2244/296, 2244/299, 2244/300, 2244/305, 2244/308, 2244/329, 2244/338 v k. ú. Strašnice; zeleň u VINOHRADSKÉ, č. parc. 1292/5, 1294/1, 1294/4, 1294/5 v k. ú. Strašnice; mezi POČERNICKOU a HOSTÝNSKOU, č. parc. 2244/173, 2244/220, 2244/221, 2244/222, 2244/224, 2244/226, 2244/231, 2244/232 v k. ú. Strašnice; parčík LIMUZSKÁ, č. parc. 2561 v k. ú. Strašnice; okolo ÚVALSKÉ a LIMUZSKÉ, č. parc. 2640/2, 2773/1, 2773/11, 2775/1, 2775/3 v k. ú. Strašnice; okolo NA PADESÁTÉM, č. parc. 3432/1, 3432/22, 3432/28, 3432/35, 3432/48, 3289/10, 3289/14 v k. ú. Strašnice; mezi NUČICKOU a DUBEČSKOU, č. parc. 153/2, 3115/1, 3115/10, 3118/1, 3126, 3127/3 v k. ú. Strašnice; mezi PRŮBĚŽNOU a GUTOVOU, č. parc. 192/1, 192/12, 192/15, 192/44 v k. ú. Strašnice; CERHENICKÁ, č. parc. 806/306 v k. ú. Malešice; POČERNICKÁ mezi HOSTÝNSKOU a CERHENICKOU, č. parc. 806/7 806/11, 806/13, 806/15 v k. ú. Malešice; POČERNICKÁ mezi HOSTÝNSKOU a NAD ÚŽLABINOU, č. parc. 806/289 v k. ú. Malešice; mezi POČERNICKOU a KÁRANSKOU, č. parc. 266/1, 806/65, 806/83, 806/98, 806/102, 806/130, 806/168, 806/181, 806/303,806/304, 806/311, 806/315, 806/322, 806/323, 806/324, 806/326, 806/332, 806/561 v k. ú. Malešice; POČERNICKÁ mezi PLAŇANSKOU a LIMUZSKOU, č. parc. 806/298, 806/300, 806/338, 806/459, 806/662, 806/664, 806/665, 806/680, 806/738, 806/744 v k. ú. Malešice; mezi NAD VODOVODEM a U KRBU, č. parc. 806/159, 806/230, 806/236, 806/246, 806/252, 806/263, 806/343, 806/344, 806/488, 806/526, 806/528, 806/529, 806/530, 806/531, 806/535, 806/544 v k. ú. Malešice; MALEŠICKÉ NÁMĚSTÍ, č. parc. 930/2, 933 v k. ú. Malešice; park na NÁM. MEZI ZAHRÁDKAMI, č. parc. 1428 v k. ú. Záběhlice; park v MACEŠKOVÉ, č. parc. 1671 v k. ú. Záběhlice; dětské hřiště v MALINOVÉ, č. parc. 1873,1865 v k. ú. Záběhlice; u Cíle, č. parc. 2078/251, 2078/252, 2078/253, 2078/254, 2078/255 v k. ú. Záběhlice; JAHODOVÁ, č. parc. 1857, 2078/275, 2078/324, 2078/325, 2078/326, 2078/327, 2078/333 v k. ú. Záběhlice; park CHRPOVÁ, č. parc. 1837 v k. ú. Záběhlice; JABLOŇOVÁ, č. parc. 1879, 1891, 1898/3, 2078/258, 2225/109, 2225/110 v k. ú. Záběhlice; BRAMBOŘÍKOVÁ, č. parc. 2308/2, 2308/7, 2309/1 v k. ú. Záběhlice; mezi JETELOVOU a MEČÍKOVOU, č. parc. 2225/102, 2225/106, 2225/107, 2225/155, 2225/163, 2225/164, 2225/166, 2225/167, 2225/204, 2225/205, 2225/206, 2225/207, 2225/208, 2225/209, 2225/210, 2225/211, 2225/212, 2225/213, 2225/214, 2225/215, 2225/216, 2225/217, 2225/218 v k. ú. Záběhlice; SLÍVOVÁ, č. parc. 2225/101 v k. ú. Záběhlice; ŽELIVECKÁ, č. parc. 2225/97, 2225/98 v k. ú. Záběhlice; NARCISOVÁ, č. parc. 2225/100 v k. ú. Záběhlice; TOPOLOVÁ, parc. č. 2078/243, 2078/256, 2078/312, 2078/320, 2078/371, 2078/373, 2078/374, 2078/387 v k. ú. Záběhlice; mezi SNĚŽENKOVOU a MLÁDEŽNICKOU, č. parc. 2078/304, 2078/314, 2078/315,
+
+94
+
+2078/316, 2078/318 v k. ú. Záběhlice; JASMÍNOVÁ, č. parc. 2078/307, 2078/308, 2078/309, 2078/334, 2078/335, 2078/346, 2078/367, 2078/369, 2078/397 v k. ú. Záběhlice. okolo NA KŘIVCE, č. parc. 2694, 2695 v k. ú. Michle; 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ přístupové cesty a plochy u stanic metra: pěší cesta od výstupu ze stanice metra Skalka ve směru k ul. GOYOVA ležící na č. parc. 3237/50 v k. ú. Strašnice; pěší cesta na ulici GOYOVA ve směru do ul. RUBENSOVA a REMBRANDTOVA ležící na č. parc. 4021/16 v k. ú. Strašnice; přístupová cesta od stanice metra Skalka do ul. VYŽLOVSKÁ, č. parc. 4021/3 v k. ú. Strašnice; prostranství u stanice metra Strašnická, č. parc. 847, 852/2 a 4474/2 v k. ú. Strašnice; přístupová cesta a plocha u stanice metra DEPO HOSTIVAŘ, č. parc. 4058/1 v k. ú. Strašnice; ostatní: zeleň v BENEŠOVSKÉ, č. parc. 3030/2, 3030/3, 3030/4, 3030/5 v k. ú. Vinohrady; zeleň mezi VRŠOVICKOU a BAJKALSKOU, č. parc. 1560/1 v k. ú. Vršovice; zeleň u NÁDRAŽÍ VRŠOVICE, č. parc. 2487/8, 2525/2 v k. ú. Vršovice; zeleň okolo PŘÍPOTOČNÍ, č. parc. 2070/3, 2070/10, 2072/5, 2092/1, 2092/5 v k. ú. Vršovice; prostranství před Vršovickým hřbitovem, č. parc. 2214/1 v k. ú. Vršovice; park v MRŠTÍKOVÉ, č. parc. 855/1,  997/1, 997/4 v k. ú. Strašnice; park U VESNY, č. parc. 192/6 v k. ú. Strašnice; park STRAŠNICKÁ, č. parc. 13/1, 13/6, 13/14, 2809/20, 2809/21 v k. ú. Strašnice; zeleň mezi V OLŠINÁCH a NOVOSTRAŠNICKOU, č. par. 2808/1, 2808/20 v k. ú. Strašnice; zeleň okolo HOSTÝNSKÉ a CHOTOUŇSKÉ, č. parc. 2244/70, 2244/165 v k. ú. Strašnice; zeleň POD STRÁNÍ, č. parc. 3047/4, 3047/5, 4551/3 v k. ú. Strašnice; zeleň na sídlišti Skalka, č. parc. 3237/6, 4021/26 v k. ú. Strašnice; prostranství před nákupním střediskem Billa v ul. V OLŠINÁCH, č. parc. 2809/17 v k. ú. Strašnice; zeleň na POČERNICKÉ, č. parc. 806/5, 806/9, 806/296, 806/106, 806/316, 806/299, 806/336 v k. ú. Malešice; prostranství před poliklinikou v ul. POČERNICKÁ, č. parc. 806/500 v k. ú. Malešice; nákupní středisko Oáza v ul. POČERNICKÁ, č. parc. 806/317, 806/319 v k. ú. Malešice; zeleň v JAHODOVÉ, č. parc. 1846/1, 2078/357 v k. ú. Záběhlice; zeleň v JABLOŇOVÉ, č. parc. 1885, 2078/283, 2225/123 v k. ú. Záběhlice; zeleň ve SNĚŽENKOVÉ, č. parc. 729/1,2078/18,2078/36,2078/233 v k. ú. Záběhlice; zeleň v JASMÍNOVÉ, č. parc. 2078/100, 2078/138, 2078/170 v k. ú. Záběhlice; prostranství před NS Tesco v ul. JABLOŇOVÁ, č. parc. 2225/116, 2225/123 v k. ú. Záběhlice; prostranství před NS Cíl v ul. TOPOLOVÁ, č. parc. 2078/248, 2078/251 v k. ú. Záběhlice; spojka mezi ul. TOPOLOVÁ a ŠVEHLOVA, č. parc. 1456 v k. ú. Záběhlice; rampa objektu Vršovická č. 68/1429; prostranství před objektem HM Tesco Eden ulici VRŠOVICKÁ, č. parc. 1872/1 v k. ú. Vršovice; prostranství před fotbalovým stadionem Slavia, č. parc. 1856/1 v k. ú. Vršovice.
+
+95
+
+96
+
+MĚSTSKÁ ČÁST PRAHA 11 1. NÁMĚSTÍ CHODOVECKÉ NÁM. JÍROVCOVO NÁM. LITOCHLEBSKÉ NÁM. NÁM. KOSMONAUTŮ POŠEPNÉHO NÁM. ŠVANDRLÍKOVO NÁM. 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY 5. KVĚTNA 7. KVĚTNA ANEŽKY MALÉ ANNY DRABÍKOVÉ ARCHIVNÍ ARKALYCKÁ AUGUSTINOVA BABÁKOVA BABICKÁ BACHOVA BAJKONURSKÁ BARTŮŇKOVA BENKOVA BLATENSKÁ BLAŽIMSKÁ BOHÁČOVA BOHÚŇOVA BOROŠOVA BRANDLOVA BREHMOVA BRECHTOVA BRNĚNSKÁ BRODSKÉHO CIGÁNKOVA CYPRICHOVA ČENĚTICKÁ ČERNOCKÉHO DAIMLEROVA DĚDINOVA DEMOLIČNÍ DIVIŠOVSKÁ DOBROVOLSKÉHO DONOVALSKÁ DOUBRAVICKÁ DUBNOVA DUNOVICKÁ
+
+DUNOVSKÉHO EMÍLIE HYBLEROVÉ EXNÁROVA FILIPOVA GREGOROVA HEJPLÍKOVA HEKROVA HLAVATÉHO HNĚVKOVSKÁ HNĚVKOVSKÉHO HOLUŠICKÁ HORČIČKOVA HRABÁKOVA HRÁSKÉHO HRDLIČKOVA HRONCOVA HRUDIČKOVA HVIEZDOSLAVOVA HVOŽĎANSKÁ CHALUPKOVA CHILSKÁ CHOMUTOVICKÁ JANOUCHOVA JAREŠOVA JARNÍKOVA JAŠÍKOVA JAŽLOVICKÁ JEŘÁBKOVA JURKOVIČOVA K JEZERU K DUBU K HORKÁM K MILÍČOVU K REMÍZKU KAHOVSKÁ KAPLANOVA
+
+KAZIMÍROVA KE CVIČIŠTI KE KATEŘINKÁM KE SKÁLE KE STÁČÍRNĚ KE SV. IZIDORU KE ŠKOLE KEBLOVSKÁ KLAPÁLKOVA KLÍČOVA KLÍROVA KLIVAROVA KLOBOUKOVA KLOKNEROVA KNOVÍZSKÁ KOLMISTROVA KOMÁRKOVA KONSTANTINOVA KOŠTÍŘOVA KOSMICKÁ KREJNICKÁ KROPÁČKOVA KRYŠTOFOVA KŘEJPSKÉHO KŘTINSKÁ KULHAVÉHO KUNÍNOVA KUNRATICKÁ SPOJKA KUPECKÉHO KVĚTNOVÉHO VÍTĚZSTVÍ LÁSKOVA LAŽANSKÉHO
+
+97
+
+LEČKOVA LEDVINOVA LEOPOLDOVA LETZELOVA LÍBALOVA LOOSOVA MACHKOVA MAJERSKÉHO MALEBNÁ MALENICKÁ MANDOVA MARKUŠOVA MATÚŠKOVA MEDKOVA MEJSTŘÍKOVA MENDELOVA METODĚJOVA MICHNOVA MIKULOVA MILÍNSKÁ MIROŠOVSKÁ MÍROVÉHO HNUTÍ MNICHOVICKÁ MODLETICKÁ MOKRÁ NA JELENÁCH NA SÁDCE NAD LOMY NAD OPATOVEM NAD PAHORKEM NAD ÚPADEM NEDBALOVA NECHVÍLOVA NEŠPOROVA NOVOMESKÉHO OBROVSKÉHO OCELÍKOVA OPATOVSKÁ OTICKÁ
+
+PACAJEVOVA PETÝRKOVA PIŠTĚKOVA PLICKOVA POD CHODOVEM POD VODOJEMEM PODJAVORINSKÉ PRAŠNÁ PYŠELSKÁ RADIMOVICKÁ RAŠOVA ROZTYLSKÁ RUJANSKÁ RYŠAVÉHO SAMOHELOVA SAUDKOVA SENOHRABSKÁ SCHULHOFFOVA SKŘIVANOVA SPOŘILOVSKÁ STACHOVA STAŇKOVA STAROBYLÁ STAROCHODOVSKÁ
+
+STEINEROVA STŘÍBRSKÉHO STÝBLOVA SULANSKÉHO ŠALOUNOVA ŠVECOVA ŠPERLOVA ŠTERNOVSKÁ ŠTICHOVA ŠUSTOVA ŠVABINSKÉHO TATARKOVA TEREROVA TOMÍČKOVA TÜRKOVA
+
+U CHODOVSKÉHO HŘBITOVA U KOLONIE U KUNRATICKÉHO LESA U MICHELSKÉHO LESA U MODRÉ ŠKOLY U NOVÉ DÁLNICE U POJIŠŤOVNY U PŘEHRADY U RYBÁŘSTVÍ U STOJANU U TRANSFORMAČNÍ STANICE
+
+V BENÁTKÁCH V HÁJÍCH V JEZÍRKÁCH V LOMECH V OPATOVĚ V PARKU V PRŮČELÍ VALENTOVA VÁPENÍKOVA VEJVANOVSKÉHO VERDIHO VIDIMOVA VOJTÍŠKOVA VOLKOVOVA VYCPÁLKOVA VÝSTAVNÍ WAGNEROVA ZA RYBÁŘSTVÍM ZAKOUŘILOVA ZASTRČENÁ ZDIMĚŘICKÁ ZIMÁKOVA ZLEŠICKÁ ŽENÍŠKOVA
+
+4. PARKY Centrální park, č. parc. 2014/1, 2014/9, 2014/10, 2014/13, 2014/138, 2014/139, 2014/140, 2014/141, 2014/142, 2014/143, 2014/182, 2014/204, 2014/273, 2014/276, 2014/277, 2014/278, 2014/295, 2014/296, 2014/300, 2014/301, 2014/302, 2014/303, 2014/304, 2014/309, 2014/312, 2014/313, 2014/314, 2014/315, 2014/316, 2014/317, 2014/356, 2014/398, 2014/399, 2014/401, 2014/402, 2014/403, 2014/417, 2014/418, 2014/424, 2014/429 2014/431, 2014/437, 2014/438, 2014/439, 2014/440, 2014/507, 2014/508, 2014/509, 2014/510, 2014/511, 2014/512, 2014/513, 2014/514, 2014/515, 2014/516, 2014/517, 2014/518, 2014/519, 2014/520, 2014/521, 2014/522, 2014/523, 2014/524, 2014/525, 2014/526, 2014/527, 2031/19, 2031/20, 2503/1, 2503/2, 2503/3,
+
+98
+
+2503/4, 2503/5, 2592/1, 2885/1, 2885/2, 2885/3, 2885/4, 2886/1, 2887/1, 2887/2, 2887/3 v k. ú. Chodov; Chodovská tvrz, č. parc. 207/2, 207/6, 207/16, 222, 229/1, 229/2, 229/4, 229/5, 229/7, 229/10, 229/11, 229/12, 229/13, 229/16, 229/17, 229/18, 229/19, 229/20, 229/21, 229/22, 229/23, 229/24, 229/25, 229/26, 229/27, 229/28, 229/29, 229/30, 229/33, 229/34, 229/35, 229/36, 229/37, 229/38, 229/39, 2330/1 v k. ú. Chodov; 5. VEŘEJNÁ ZELEŇ k. ú. Háje (č. parc.) 11/1 11/11 11/12 11/13 11/15 11/16 11/20 11/21 11/22 11/23 11/24 11/25 11/26 446/2 447/2 447/3 447/4 447/5 448/1 448/4 448/5 448/6 448/7 448/8 448/9 448/10 448/11 448/12 448/14 448/15 448/16 448/17 448/18 448/19 449/18 449/19 449/21 449/23 449/24 449/27 449/28
+
+449/31 449/32 449/35 449/36 449/50 449/51 480/1 480/2 480/3 514/101 536/123 536/261 536/262 536/373 536/374 536/375 536/376 537/7 537/25 537/26 583/20 583/22 583/23 583/45 583/47 583/49 583/50 583/51 583/52 583/53 583/54 583/55 583/56 583/57 583/58 583/60 583/87 583/97 583/110 583/154 588/2
+
+588/3 589/1 589/4 691/2 691/3 691/4 691/5 691/6 691/7 691/8 691/9 691/10 691/11 691/12 691/13 691/14 691/15 691/16 691/17 691/18 691/19 691/20 691/21 691/22 691/23 691/24 691/25 718/1 746 748 757 759 773 775 776 781/1 781/7 781/8 781/9 781/10 781/11
+
+815/1 815/2 815/3 815/4 815/5 815/6 815/7 815/8 815/9 815/10 815/11 815/12 815/13 825 826 839/1 841 852 861 882 892 894 899 900 903 915 917 919 921 971/1 971/2 985/1 985/2 985/3 985/4 985/5 985/6 985/7 985/8 985/9 985/10
+
+985/11 986 999 1001 1004 1006 1008 1016 1023 1025 1025/2 1025/3 1025/4 1025/5 1035 1047/1 1074 1076 1081 1086 1090 1094 1100 1102/1 1102/5 1102/6 1102/7 1102/8 1102/9 1102/10 1102/11 1102/12 1102/13 1102/14 1109 1111 1114/1 1120/1 1120/4 1120/5 1120/6
+
+99
+
+1120/7 1120/8 1120/9 1120/10 1120/11 1120/12 1120/13 1120/14 1120/15 1120/16 1120/17 1120/18 1120/19 1120/20 1120/21 1120/22 1120/23 1120/24 1120/25 1120/26 1120/27 1120/28 1120/29 1120/30 1120/31 1120/32 1120/33 1120/34 1120/35 1120/36 1120/37 1120/39 1120/40 1120/41 1120/42 1129 1137 1151 1161/1 1161/2 1161/10 1161/11 1161/12 1161/16 1161/19 1161/20
+
+1161/24 1161/25 1161/26 1161/27 1161/28 1161/29 1161/30 1161/31 1161/33 1161/34 1161/35 1161/37 1161/39 1161/40 1161/44 1161/45 1161/48 1161/49 1161/53 1161/54 1161/55 1161/56 1161/60 1161/61 1161/63 1161/64 1161/66 1161/67 1161/68 1161/69 1161/70 1161/71 1161/72 1161/73 1161/74 1161/75 1161/76 1161/79 1161/80 1161/83 1162 1174 1179/1 1179/3 1179/4 1179/5
+
+1179/6 1179/7 1179/8 1179/9 1179/10 1179/11 1179/12 1179/13 1179/14 1179/15 1179/16 1179/17 1179/18 1179/19 1179/20 1179/21 1179/22 1179/23 1179/24 1179/25 1179/26 1179/32 1179/33 1179/34 1179/35 1179/38 1179/42 1179/43 1179/47 1179/49 1179/52 1179/53 1179/54 1179/55 1179/56 1179/57 1179/58 1179/59 1179/60 1179/64 1179/67 1179/70 1179/76 1179/78 1179/79 1179/80
+
+1179/81 1179/84 1179/86 1179/87 1179/90 1179/93 1179/97 1179/98 1179/101 1179/104 1200/1 1200/3 1200/4 1200/5 1200/6 1200/7 1200/8 1202/2 1202/5 1209/9 1209/10 1209/12 1209/13 1209/14 1209/38 1209/41 1209/43 1209/81 1209/104 1210/1 1210/27 1210/28 1210/29 1210/30 1210/31 1210/98 1210/113 1210/114 1210/116 1223/17 1225 1226 1230 1232 1235/1 1235/2
+
+1235/3 1238/1 1244/1 1244/2 1244/3 1244/4 1244/5 1249/1 1249/2 1249/4 1249/5 1249/6 1249/7 1258/2 1258/3 1258/7 1258/8 1262/2 1262/3 1262/6 1262/7 1262/8 1262/9 1262/10 1262/11 1262/12 1262/13 1262/14 1262/15 1262/16 1268/1 1268/2 1268/3 1268/4 1268/5 1268/6 1268/7 1268/8 1268/9 1268/10 1268/11 1268/12 1268/13 1268/14
+
+k. ú. Chodov (č. parc.) 180 201/2 207/1 207/3 207/8 207/9 207/10 207/11 229/7 230/1
+
+100
+
+237/1 251/65 251/76 251/77 251/107 251/128 251/131 251/132 251/133 251/134 251/136 251/139 251/144 251/145 251/238 251/239 251/244 251/250 392/1 392/2 394/4 394/5 394/8 394/14 397/3 397/5 397/8 397/11 397/13 397/16 397/17 397/189 397/213 397/307 397/309 397/311 397/312 397/313 397/314 397/315 397/316 397/318 397/320 397/323 397/324 397/326 397/557 397/558 397/559 397/560
+
+397/562 397/563 397/565 397/567 397/568 397/570 397/571 397/572 397/573 397/575 397/576 397/578 397/579 397/580 397/582 397/583 397/584 397/586 397/587 397/588 397/590 397/591 397/594 397/595 397/597 397/599 397/602 397/603 397/605 397/606 397/607 397/609 397/611 397/613 397/615 397/616 397/617 397/619 397/628 397/629 397/633 397/635 397/645 397/646 397/649 397/651 397/653 1328/13 1358/17 1358/18
+
+1358/20 1360/1 1360/5 1360/6 1416/3 1416/7 1419 1420/1 1420/2 1482 1483 1484 1485 1486 1487 2014/30 2014/41 2014/44 2014/45 2014/46 2014/47 2014/48 2014/50 2014/192 2014/193 2014/194 2014/195 2014/196 2014/212 2014/213 2014/215 2014/217 2014/219 2014/220 2014/221 2014/224 2014/260 2014/261 2014/264 2014/265 2014/266 2014/267 2014/276 2014/277 2014/278 2014/289 2027/1 2031/7 2031/20 2047/13
+
+2047/15 2047/17 2047/19 2101/68 2101/140 2101/150 2105/13 2105/36 2105/39 2105/66 2105/70 2119/156 2119/159 2119/160 2119/162 2119/165 2119/167 2119/168 2119/169 2119/170 2119/171 2119/172 2119/173 2119/175 2119/177 2119/179 2119/182 2119/183 2119/185 2119/187 2119/189 2119/191 2116/13 2116/15 2116/18 2116/19 2116/21 2116/22 2117/3 2117/4 2117/5 2117/284 2117/296 2117/299 2117/301 2117/309 2117/312 2117/314 2117/322 2117/325
+
+2117/326 2117/330 2117/331 2117/333 2117/336 2117/378 2117/380 2117/382 2117/383 2117/384 2117/385 2117/386 2117/387 2117/388 2117/389 2117/390 2117/392 2117/394 2117/395 2117/405 2117/416 2117/417 2117/418 2117/439 2119/12 2119/13 2119/23 2119/65 2119/67 2119/68 2119/70 2119/156 2119/159 2119/160 2119/162 2119/165 2119/167 2119/168 2119/169 2119/170 2119/171 2119/172 2119/173 2119/175 2119/177 2119/179 2119/182 2119/183 2119/185 2119/187
+
+101
+
+2119/188 2119/189 2119/191 2140/1 2140/2 2140/3 2140/4 2230 2332/16 2332/17 2332/18 2332/24 2332/106 2332/108 2335/7 2335/20 2335/21 2335/25 2336/166 2336/167 2336/168 2336/169 2336/170 2336/171 2336/172 2360/3 2360/5 2365/1 2365/6 2365/8 2365/9 2365/11 2365/13 2365/14 2365/15 2365/16 2365/17 2365/18 2365/19 2365/20 2365/21 2365/22 2365/23 2365/24 2365/25 2365/26 2365/27 2365/28 2365/29 2365/30
+
+2374/1 2374/3 2374/4 2374/6 2374/7 2374/8 2374/9 2374/11 2374/12 2374/17 2374/18 2374/19 2374/20 2374/21 2374/22 2374/23 2374/24 2374/25 2374/26 2374/27 2374/28 2374/29 2374/30 2374/31 2374/32 2374/33 2374/34 2374/36 2374/37 2374/38 2374/39 2374/40 2374/41 2374/42 2374/43 2374/44 2374/45 2374/46 2374/47 2374/48 2374/49 2374/50 2374/51 2374/52 2374/53 2374/54 2374/55 2374/56 2374/57 2374/58
+
+2374/59 2382 2384/1 2384/2 2384/3 2384/37 2394/4 2403/1 2403/3 2403/7 2403/8 2403/9 2414 2418 2422 2434 2448 2449/1 2449/19 2449/26 2449/28 2449/29 2449/30 2449/31 2449/32 2449/33 2449/34 2449/35 2468 2470 2471 2472 2475 2485/1 2485/3 2485/4 2485/5 2485/6 2485/7 2485/8 2485/9 2485/10 2485/11 2503/1 2519/1 2519/2 2519/3 2519/4 2519/5 2519/6
+
+2519/7 2519/8 2519/9 2519/10 2519/11 2519/12 2519/13 2519/14 2519/15 2519/16 2519/17 2519/18 2519/19 2519/20 2519/21 2519/22 2519/23 2519/24 2519/25 2519/38 2519/39 2519/40 2519/41 2519/42 2519/43 2519/44 2519/45 2519/46 2528 2542 2551/1 2551/2 2551/3 2551/4 2554 2554/15 2554/24 2554/46 2555 2555/10 2592/1 2592/2 2592/3 2592/4 2592/5 2592/6 2592/7 2592/8 2592/9 2592/10
+
+2592/11 2592/12 2592/13 2592/14 2592/15 2592/16 2592/17 2592/18 2592/19 2592/20 2592/21 2592/22 2592/23 2597 2599 2603 2605 2607 2612 2613 2614 2615 2617 2619/1 2619/2 2619/3 2619/4 2619/5 2619/6 2619/7 2619/8 2619/9 2630/1 2630/2 2630/3 2630/5 2630/6 2630/7 2630/8 2630/9 2630/10 2630/11 2630/12 2630/13 2630/14 2630/15 2630/16 2630/17 2630/18 2630/19
+
+102
+
+2630/20 2630/22 2630/23 2630/24 2630/25 2630/26 2630/27 2630/28 2630/29 2630/31 2630/33 2641/1 2641/2 2641/3 2641/4 2641/5 2641/6 2641/7 2641/8 2641/9 2641/10 2641/11 2641/12 2641/13 2641/15 2641/16 2641/17 2641/19 2641/20 2641/21 2641/25 2641/26 2641/27 2641/31 2641/32 2641/37 2641/38 2641/39 2641/41 2641/43 2641/45 2641/47 2641/49 2641/51 2641/53 2641/54 2641/55 2641/56 2641/57 2644
+
+2646 2646/1 2646/2 2646/3 2662/1 2662/2 2662/3 2662/4 2662/5 2662/6 2662/7 2662/8 2662/9 2662/10 2662/11 2662/12 2662/13 2662/14 2662/15 2662/16 2662/18 2662/19 2662/21 2662/22 2662/23 2662/25 2662/26 2662/28 2662/29 2662/31 2662/32 2662/33 2662/35 2662/36 2662/37 2662/38 2662/39 2662/40 2662/42 2662/43 2662/45 2662/46 2662/47 2662/48 2662/50 2662/51 2662/52 2662/53 2662/54 2662/55
+
+2683/1 2683/2 2685 2687 2689 2691 2709 2726 2729 2735 2739 2741 2754 2760/18 2760/19 2760/20 2760/21 2760/22 2760/23 2760/24 2760/25 2769 2776/1 2776/2 2776/3 2776/4 2776/5 2776/6 2776/7 2776/8 2776/9 2776/10 2776/11 2776/12 2776/13 2793 2796 2797 2798 2800 2802 2805/1 2805/2 2805/3 2805/4 2805/5 2805/6 2805/7 2805/8 2805/9
+
+2805/10 2805/11 2805/12 2805/13 2805/14 2805/15 2805/16 2805/17 2805/18 2805/19 2805/20 2805/21 2805/22 2805/23 2805/25 2805/27 2805/28 2805/30 2805/32 2805/34 2805/36 2805/39 2805/40 2805/43 2805/44 2805/45 2805/46 2805/48 2809/1 2809/2 2809/3 2809/4 2809/5 2809/6 2809/7 2809/8 2809/9 2809/10 2809/11 2809/12 2809/13 2809/14 2809/15 2809/16 2809/17 2809/18 2809/19 2809/20 2809/21 2809/22
+
+2809/23 2809/24 2810 2823 2845 2851 2852 2854 2856/1 2856/2 2856/3 2858 2878 2878/25 2887 2891 2899/1 2899/17 2899/19 2901 2911/1 2911/2 2920 2923 2944 2949 2971 2983 2984/1 2984/3 2984/4 2985 2986 2987 2990 2993 3010 3013 3017/2 3017/3 3017/4 3017/5 3017/6 3017/7 3017/8 3017/10 3017/11 3017/12 3017/14 3030
+
+103
+
+3038/1 3041 3042/7 3045 3047 3049 3055 3056 3058/5 3058/7 3058/8 3058/13 3058/14 3060 3062/1 3062/2 3062/3 3062/4 3062/5 3062/6 3062/7 3076 3079/1 3079/2 3093/2 3093/3 3093/6 3100 3112 3115 3123 3127 3135/1 3135/3 3135/12 3135/14 3135/15 3135/16 3135/17 3144 3152 3159 3161/3 3161/4
+
+3164/1 3165/1 3167/1 3169 3175 3176 3199/1 3199/2 3199/3 3199/4 3199/5 3199/6 3199/7 3273 3275 3322/5 3323/29 3323/30 3336/72 3336/143 3336/146 3336/147 3336/148 3336/150 3336/151 3336/152 3336/153 3336/155 3336/156 3336/157 3336/159 3336/160 3336/161 3336/162 3336/163 3336/165 3336/167 3336/168 3336/169 3336/172 3336/173 3336/175 3336/177 3336/179
+
+3336/180 3336/181 3336/183 3336/185 3336/186 3336/187 3336/189 3341/1 3341/73 3341/75 3341/76 3341/77 3341/80 3341/81 3341/82 3341/84 3341/86 3341/91 3341/92 3341/93 3341/95 3341/96 3341/98 3341/100 3341/102 3341/103 3341/104 3341/106 3341/108 3341/109 3341/110 3341/112 3341/113 3341/116 3341/119 3341/121 3341/122 3341/123 3341/125 3341/127 3341/128 3341/129 3341/131 3341/133
+
+3341/135 3341/136 3341/139 3341/140 3341/142 3341/145 3341/146 3341/150 3341/152 3341/155 3341/157 3341/158 3341/160 3341/161 3341/163 3341/165 3341/168 3341/169 3341/171 3341/175 3341/178 3341/180 3341/181 3341/183 3341/185 3341/186 3341/188 3341/189 3341/191 3341/192 3341/194 3341/195 3341/196 3341/197 3341/199 3341/200 3341/203 3341/204 3341/205 3341/207 3341/209 3341/210 3341/211 3341/213
+
+3341/214 3423/62 3423/63 3423/65 3423/66 3423/68 3431 3432/1 3432/10 3432/12 3432/15 3442 3473/1 3473/12 3473/13 3473/14 3490/27 3490/29 3490/30 3490/31 3490/32 3490/33 3490/35 3490/36 3490/38 3490/39 3506 3508 3509 3510 3514 3515 3516 3520 3522 3523 3530 3534 3535 3536 3538 3541 3543
+
+6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ podloubí, ochozy a pěší trasy: ul. OPATOVSKÁ lávky a č. p. 1550;
+
+104
+
+ul. ARKALYCKÁ č. 758/2; ul. BRANDLOVA č. 1599/8, 1639/6, 1640/2; ul. HLAVATÉHO č. 664/13; JÍROVCOVO NÁM. č.1783/2; ul. KREJNICKÁ č. 1/2021; ul. MATÚŠKOVA č. 1/831; ul. OPATOVSKÁ č. 12/1753, 14/1754, 25/874 (pěší zóna); ul. PODJAVORINSKÉ č. 1/1595; ul. ROZTYLSKÁ č. 17/2232; ul. TATARKOVA č. 26/721;
+
+přístupové cesty a plochy u stanic metra: prostranství u stanice metra Háje ohraničené č. parc. 1078,1209/7, 1209/8, 1209/9, 1209/10, 1209/15, 1209/16, 1209/17, 1209/19, 1209/20, 1209/21, 1209/25, 1209/26, 1209/47, 1209/73, 1227, 1238/1 v k. ú. Háje; prostranství u stanice metra Opatov ohraničené č. parc. 1199/1, 2031/6, 2031/7, 2031/8, 2031/9, 2031/10, 2031/14, 2031/16, 2031/17 v k. ú. Chodov; včetně podchodu a pasáží; prostranství u stanice metra Chodov ohraničené č. parc. 251/65, 251/67, 397/5, 397/8, 397/9, 397/11, 397/189,  2360/3, 2360/4, 2360/5 v k. ú. Chodov, včetně podchodu; prostranství u stanice metra Roztyly ohraničené č. parc. 2117/3, 2117/405, 3260/1, 3261, 3265/3, 3272, 3276/1, 3323/27, 3274, 3277, v k. ú. Chodov; ostatní: k. ú. Háje (č. parc.)
+
+11/14 11/17 11/18 11/19 11/27 11/30 11/31 135/2 139/3 184/2 348/1 348/28 348/29 348/30 348/31 348/33 348/34 348/35 348/36 348/37 348/38 348/39 348/40 441/1 441/2 445/1
+
+445/2 445/4 445/13 445/14 446/1 446/3 447/1 448/3 448/13 449/1 449/2 449/5 449/20 449/22 449/25 449/26 449/29 449/30 449/33 449/34 449/41 449/42 449/43 449/45 449/46 449/47
+
+449/48 449/49 449/85 449/86 449/91 449/92 449/95 449/97 449/99 449/105 449/106 449/107 449/108 449/109 449/117 449/124 449/126 449/127 450/1 450/5 450/6 450/7 450/12 450/13 475 478/1
+
+478/2 478/3 479 481 502 504/1 514/170 516/1 516/2 516/9 516/19 516/36 516/37 516/38 516/39 519/1 519/7 519/25 519/46 519/47 519/49 519/67 519/84 519/101 519/103 519/104
+
+519/105 519/106 519/107 519/108 530/2 531 532 533 536/1 536/98 536/110 536/111 536/112 536/113 536/114 536/119 536/122 536/125 536/128 536/195 536/196 536/264 536/266 536/267 536/316 536/317
+
+105
+
+536/322 536/334 536/335 536/336 536/338 536/340 536/342 536/345 536/346 536/347 536/349 536/351 536/357 536/358 536/359 536/365 536/366 536/367 536/368 536/369 536/370 536/371 536/372 536/396 536/397 536/402 536/403 536/405 536/406 536/407 536/408 536/409 536/410 536/411 536/412 536/413 536/414 536/415 536/416 536/418 537/6 537/22 537/23 537/24 576/15 576/16 576/27 576/28 576/31 576/32
+
+576/34 576/35 576/36 576/37 576/38 576/39 576/40 576/43 576/44 576/50 576/51 576/54 576/58 576/59 576/60 576/61 577 578/3 583/1 583/2 583/3 583/8 583/14 583/15 583/16 583/17 583/18 583/21 583/24 583/28 583/30 583/33 583/34 583/35 583/36 583/37 583/38 583/39 583/40 583/46 583/103 584/1 584/3 584/6 584/8 584/11 584/15 584/16 584/17 584/18
+
+588/1 589/3 591/1 591/2 592 593/1 593/2 593/3 593/4 595/1 595/2 596 597 598/3 598/4 598/6 598/7 598/8 598/9 598/10 598/11 598/12 617 618 619/2 620 621/6 622 624 625 626 628/1 629 631 635/3 635/4 636 641/1 641/2 641/3 641/4 646 647 648/1 648/2 649 651 659 661/1 661/2
+
+661/3 662 663 679 680/1 680/2 680/3 680/4 681 682 685 686 687 690 691/1 698 709 710 714 717/1 717/2 717/3 717/4 717/5 717/6 717/7 717/8 718 719 729 731 740 741 742 747 748/12 748/13 748/14 756 758 769 771 772 774 780 788/1 788/2 790 791 800
+
+806 813 814 824 838 840 841/3 850 851/1 854 855 856 857 858/1 858/2 861/5 861/6 861/7 861/9 861/10 861/11 861/12 861/14 861/15 861/18 861/19 861/20 861/22 861/23 861/24 890 891 893 898 902 905 910 911 912 916 918 920 972/1 972/2 984 985/2 986/2 986/3 986/4 986/5
+
+106
+
+987 992 993 1000 1002 1003 1005 1007 1009 1018 1022 1023/1 1024 1026 1028 1035/1 1035/2 1035/4 1047/2 1048 1059 1065 1075 1077 1078 1080 1082 1083/1 1083/2 1084/1 1084/2 1085 1088 1089 1093 1096 1097 1101 1102/2 1102/3 1102/4 1108 1110/1 1110/2 1110/3 1112 1113 1114/2 1120/2 1120/3
+
+1120/38 1120/43 1120/44 1120/45 1120/46 1120/47 1120/48 1120/49 1120/50 1120/52 1120/54 1120/55 1120/56 1120/57 1120/59 1120/61 1120/62 1120/63 1120/64 1120/84 1120/85 1120/93 1128 1130 1135/1 1135/2 1136 1150/1 1150/2 1150/3 1150/4 1150/5 1152 1161/1 1161/2 1161/9 1161/10 1161/12 1161/13 1161/14 1161/15 1161/16 1161/17 1161/18 1161/19 1161/20 1161/21 1161/22 1161/23 1161/24
+
+1161/25 1161/26 1161/30 1161/31 1161/32 1161/33 1161/34 1161/35 1161/36 1161/37 1161/38 1161/39 1161/40 1161/41 1161/42 1161/43 1161/44 1161/45 1161/46 1161/47 1161/48 1161/49 1161/50 1161/51 1161/52 1161/53 1161/54 1161/55 1161/56 1161/57 1161/58 1161/59 1161/60 1161/61 1161/62 1161/63 1161/64 1161/65 1161/66 1161/70 1161/71 1161/72 1161/73 1161/74 1161/75 1161/76 1161/77 1161/78 1161/79 1161/80
+
+1161/81 1161/82 1161/83 1163 1169 1174 1177 1178 1179/1 1179/5 1179/6 1179/16 1179/17 1179/18 1179/19 1179/20 1179/21 1179/22 1179/23 1179/24 1179/25 1179/26 1179/27 1179/28 1179/29 1179/30 1179/31 1179/32 1179/33 1179/34 1179/35 1179/36 1179/37 1179/38 1179/39 1179/40 1179/41 1179/42 1179/43 1179/44 1179/45 1179/46 1179/47 1179/48 1179/49 1179/50 1179/51 1179/52 1179/53 1179/58
+
+1179/59 1179/61 1179/62 1179/63 1179/64 1179/66 1179/67 1179/69 1179/71 1179/73 1179/74 1179/75 1179/77 1179/78 1179/82 1179/83 1179/85 1179/89 1179/91 1179/94 1179/95 1179/96 1179/99 1179/100 1179/102 1179/105 1179/107 1190/1 1190/6 1190/7 1201/1 1203 1204 1205/1 1205/2 1205/3 1206 1209/1 1209/5 1209/6 1209/16 1209/18 1209/19 1209/20 1209/21 1209/24 1209/25 1209/26 1209/27 1209/28
+
+107
+
+1209/39 1209/40 1209/42 1209/44 1209/45 1209/47 1209/56 1209/57 1209/58 1209/59 1209/60 1209/61 1209/62 1209/63 1209/64 1209/69 1209/70 1209/71 1209/72 1209/73 1209/77 1209/78 1209/80 1210/5 1210/6 1210/7 1210/9 1210/10 1210/11 1210/12 1210/13
+
+1210/14 1210/15 1210/16 1210/17 1210/18 1210/19 1210/20 1210/21 1210/22 1210/23 1210/26 1210/41 1212 1213 1214 1215 1216/1 1216/2 1216/3 1216/12 1216/13 1216/14 1216/15 1216/16 1216/17 1216/18 1216/19 1217/1 1217/2 1217/3 1217/6
+
+1217/7 1217/8 1217/9 1217/10 1217/11 1217/13 1217/15 1217/16 1217/17 1217/18 1217/19 1217/20 1217/21 1218/1 1218/2 1218/3 1218/4 1218/5 1219 1220 1221 1222 1224 1227 1229 1231 1233 1234 1242/1 1242/2 1243/1
+
+1243/2 1243/3 1248/1 1248/2 1248/3 1248/4 1250 1257/1 1257/2 1259/3 1260/2 1261/1 1261/2 1267/1 1267/2 1267/3 1267/4 1269 1274/1 1274/2 1274/3 1274/4 1274/5 1275/1 1275/3 1275/4 1275/5 1275/6 1275/7 1275/8 1275/9
+
+1275/10 1275/11 1275/12 1275/13 1275/14 1275/15 1275/16 1275/17 1275/18 1275/19 1275/20 1275/21 1275/23 1275/24 1275/25 1275/26 1284 1286 1287/1 1287/2 1287/3 1287/4 1287/5 1287/6 1287/7 1287/8 1287/9 1287/10 1287/11 1287/12
+
+k. ú. Chodov (č. parc.) 5 6/1 6/2 6/3 7/1 7/2 8/1 8/2 37/1 38/1 38/2 87 132/1 132/2 132/3 132/5 132/6
+
+132/7 133/1 134 135/1 171 172/10 177 207/2 207/4 207/5 207/6 207/12 207/13 207/14 207/15 224/1 224/3
+
+224/5 225 226 228 230/4 230/6 230/7 235 242/1 242/2 243/1 243/2 245/1 245/2 245/4 245/5 245/6
+
+245/7 245/8 245/9 245/10 245/11 246/1 246/4 246/5 251/1 251/4 251/5 251/7 251/11 251/68 251/69 251/71 251/73
+
+251/74 251/75 251/80 251/81 251/82 251/84 251/86 251/87 251/91 251/101 251/104 251/106 251/108 251/109 251/111 251/127 251/129
+
+108
+
+251/130 251/135 251/137 251/138 251/140 251/141 251/142 251/143 251/146 251/147 251/148 251/159 251/195 251/198 251/199 251/200 251/202 251/203 251/208 251/228 251/229 251/230 251/233 251/240 251/241 251/242 251/245 251/265 253/1 253/3 255/3 272 300 389/1 389/2 390 391/1 393 394/1 394/2 394/3 394/10 394/15 395/3 397/1 397/7 397/12 397/14 397/22 397/23
+
+397/24 397/25 397/26 397/27 397/28 397/72 397/102 397/106 397/107 397/108 397/109 397/110 397/113 397/115 397/116 397/117 397/118 397/123 397/180 397/185 397/187 397/188 397/190 397/191 397/192 397/193 397/200 397/204 397/212 397/214 397/216 397/217 397/218 397/219 397/220 397/221 397/222 397/223 397/224 397/225 397/226 397/227 397/228 397/229 397/230 397/231 397/232 397/235 397/237 397/238
+
+397/239 397/240 397/241 397/242 397/243 397/244 397/245 397/246 397/247 397/248 397/249 397/250 397/251 397/252 397/253 397/254 397/255 397/256 397/257 397/258 397/259 397/260 397/261 397/262 397/263 397/264 397/265 397/266 397/267 397/268 397/269 397/270 397/271 397/272 397/273 397/274 397/275 397/276 397/277 397/278 397/279 397/280 397/281 397/282 397/283 397/284 397/285 397/286 397/287 397/288
+
+397/289 397/290 397/291 397/292 397/293 397/294 397/295 397/296 397/297 397/298 397/299 397/300 397/301 397/302 397/303 397/304 397/305 397/306 397/308 397/310 397/317 397/319 397/321 397/322 397/325 397/327 397/328 397/556 397/561 397/566 397/569 397/574 397/577 397/581 397/585 397/589 397/592 397/593 397/596 397/598 397/600 397/601 397/604 397/608 397/610 397/612 397/614 397/618 397/620 397/622
+
+397/626 397/627 397/630 397/631 397/632 397/634 397/638 397/641 397/642 397/643 397/644 397/647 397/648 397/652 397/654 397/655 397/656 397/657 397/658 397/659 397/660 397/661 397/662 397/664 397/665 397/666 397/667 397/669 397/670 397/671 397/672 397/673 397/674 397/675 397/676 397/677 397/679 397/680 397/681 397/682 397/685 397/687 398/688 397/689 398/690 397/691 397/692 397/693 397/695 397/696
+
+109
+
+397/697 397/698 397/699 397/700 397/702 397/703 397/707 397/708 397/711 397/713 397/715 397/717 397/718 397/719 397/720 397/721 397/722 397/723 397/724 397/725 397/729 397/730 397/731 397/732 397/733 397/735 397/736 397/737 397/738 397/746 397/764 397/765 397/789 397/790 397/842 398/1 398/2 398/3 398/5 398/8 398/9 435 480 572 573 626 627 664/1 669 670
+
+703 704/1 705 706 730 744 745 795 851 863 878 931 958 1015 1016 1041 1042 1043 1044/1 1044/4 1044/11 1044/13 1044/14 1044/16 1044/18 1044/20 1044/21 1062 1074 1098 1129 1159 1160 1175 1196/1 1196/2 1196/3 1196/4 1199/1 1199/3 1199/4 1199/6 1199/7 1199/13 1204 1205/1 1205/2 1205/3 1205/4 1206
+
+1207 1213 1215 1218 1219 1220 1221 1222 1224 1225/1 1226 1228 1229 1231/1 1237 1238/2 1241 1242 1252 1262 1281/2 1282 1284 1285 1286/1 1286/2 1287 1292 1297/1 1297/2 1300 1306/1 1306/2 1306/3 1306/6 1307/2 1307/7 1308/1 1313/1 1313/2 1313/3 1313/4 1319/1 1319/2 1319/3 1319/6 1319/7 1319/10 1319/11 1319/12
+
+1319/13 1319/14 1326/1 1326/5 1326/6 1326/7 1326/8 1326/9 1326/12 1327/1 1328/1 1328/3 1328/4 1328/6 1328/7 1328/8 1332/1 1332/2 1337/3 1338 1341/2 1342 1343 1344/1 1344/2 1346 1347/1 1347/6 1354 1356/2 1357/3 1360/2 1360/4 1361 1365 1366/1 1367 1369 1370/1 1371 1372/1 1372/2 1375 1381 1398/1 1400 1402 1416/1 1416/2 1416/4
+
+1416/5 1416/6 1416/10 1416/11 1416/12 1423 1424 1479 1509/1 1509/2 1509/3 1509/4 1509/5 1509/6 1510/1 1510/2 1510/3 1531/1 1531/2 1532/1 1532/2 1532/5 1549 1555 1559 1570 1583 1593 1599 1616 1619 1651 1696 1726 1760 1779 1797 1815 1825 1889 1928 1949 1958 1990 1992/3 1995/2 2001/2 2011 2014/3 2014/4
+
+110
+
+2014/5 2014/6 2014/8 2014/11 2014/12 2014/32 2014/33 2014/35 2014/42 2014/43 2014/45 2014/51 2014/72 2014/73 2014/74 2014/75 2014/76 2014/77 2014/78 2014/79 2014/80 2014/81 2014/83 2014/84 2014/85 2014/86 2014/87 2014/89 2014/90 2014/91 2014/92 2014/93 2014/94 2014/95 2014/138 2014/139 2014/140 2014/164 2014/182 2014/184 2014/197 2014/210 2014/211 2014/218 2014/222 2014/223 2014/226 2014/227 2014/228 2014/229
+
+2014/230 2014/231 2014/232 2014/233 2014/234 2014/235 2014/236 2014/237 2014/238 2014/239 2014/240 2014/241 2014/253 2014/254 2014/256 2014/259 2014/262 2014/263 2014/270 2014/305 2014/308 2014/342 2014/343 2014/344 2014/359 2014/361 2014/362 2014/371 2014/382 2014/384 2014/389 2014/390 2014/392 2014/406 2014/407 2014/411 2014/413 2014/419 2014/420 2014/427 2014/428 2014/449 2014/450 2014/452 2014/453 2014/454 2014/455 2014/457 2014/458 2014/475
+
+2014/489 2014/490 2014/528 2014/529 2014/530 2014/531 2014/532 2014/536 2014/577 2022/1 2022/2 2022/4 2024/1 2028/1 2029/1 2029/2 2029/4 2031/1 2031/3 2031/4 2031/6 2031/8 2031/9 2031/10 2031/14 2031/16 2031/17 2031/18 2031/21 2031/22 2031/76 2031/78 2031/79 2031/80 2031/88 2031/89 2031/91 2031/92 2031/93 2031/112 2031/113 2031/114 2031/124 2031/125 2031/130 2031/138 2031/139 2031/140 2031/141 2031/142
+
+2031/143 2031/144 2031/145 2031/146 2031/147 2031/148 2031/149 2031/150 2031/151 2031/152 2031/153 2031/154 2031/155 2031/156 2031/157 2031/158 2031/159 2031/160 2031/161 2031/162 2031/163 2031/164 2031/169 2031/170 2031/171 2031/172 2031/176 2031/183 2031/184 2031/195 2031/196 2031/205 2031/207 2031/208 2031/209 2031/212 2031/213 2031/214 2031/215 2031/226 2031/245 2031/246 2031/248 2031/249 2031/250 2031/252 2031/254 2031/255 2031/256 2031/257
+
+2031/258 2031/259 2031/260 2031/272 2031/273 2031/275 2031/277 2031/282 2031/283 2031/284 2031/286 2031/288 2031/289 2031/290 2031/291 2031/292 2031/294 2031/295 2035/2 2035/3 2035/4 2036/2 2036/3 2036/4 2037 2039 2040 2041 2042 2043 2044 2045 2046 2047/1 2047/2 2047/4 2047/5 2047/14 2047/18 2047/20 2064 2066/1 2066/2 2089 2100 2101/1 2101/2 2101/3 2101/27 2101/60
+
+111
+
+2101/72 2101/73 2101/98 2101/99 2101/111 2101/114 2101/115 2101/116 2101/118 2101/120 2101/122 2101/123 2101/124 2101/125 2101/128 2101/134 2101/141 2101/142 2101/155 2101/158 2101/159 2101/160 2101/161 2101/162 2101/163 2101/164 2101/174 2104/1 2104/3 2104/4 2104/5 2105/1 2105/4 2105/5 2105/31 2105/35 2105/38 2105/74 2105/75 2105/76 2105/77 2105/79 2105/80 2105/82 2105/83 2105/84 2105/85 2105/113 2105/114 2105/116
+
+2105/117 2105/124 2105/125 2105/126 2107/2 2109/3 2109/5 2110 2111/1 2112 2113/1 2113/2 2116/1 2116/2 2116/3 2116/5 2116/6 2116/7 2116/8 2116/9 2116/10 2116/12 2116/14 2116/16 2116/17 2116/20 2116/23 2116/24 2117/1 2117/2 2117/6 2117/7 2117/8 2117/10 2117/15 2117/16 2117/17 2117/18 2117/121 2117/122 2117/123 2117/126 2117/281 2117/282 2117/283 2117/285 2117/286 2117/287 2117/288 2117/289
+
+2117/290 2117/291 2117/292 2117/293 2117/294 2117/295 2117/297 2117/298 2117/300 2117/302 2117/303 2117/304 2117/305 2117/306 2117/307 2117/308 2117/310 2117/311 2117/313 2117/315 2117/316 2117/317 2117/318 2117/319 2117/320 2117/321 2117/323 2117/324 2117/327 2117/328 2117/329 2117/332 2117/335 2117/338 2117/339 2117/340 2117/341 2117/343 2117/375 2117/376 2117/377 2117/379 2117/381 2117/391 2117/397 2117/406 2117/413 2117/415 2118/1 2118/2
+
+2118/3 2119/5 2119/11 2119/17 2119/21 2119/24 2119/25 2119/27 2119/28 2119/29 2119/32 2119/41 2119/42 2119/49 2119/53 2119/54 2119/55 2119/56 2119/60 2119/61 2119/63 2119/64 2119/66 2119/69 2119/71 2119/72 2119/75 2119/76 2119/77 2119/79 2119/80 2119/81 2119/82 2119/88 2119/89 2119/90 2119/92 2119/93 2119/96 2119/100 2119/101 2119/102 2119/103 2119/104 2119/105 2119/106 2119/107 2119/135 2119/141 2119/142
+
+2119/144 2119/145 2119/146 2119/147 2119/154 2119/155 2119/157 2119/158 2119/161 2119/163 2119/164 2119/166 2119/174 2119/176 2119/178 2119/180 2119/181 2119/184 2119/186 2119/190 2120/1 2120/2 2120/4 2120/5 2120/6 2120/7 2120/8 2120/9 2120/10 2120/11 2120/12 2134 2136 2138/1 2138/2 2139 2140/5 2142 2143 2144 2145 2154 2157 2158 2182 2185 2187 2190 2192/1 2192/2
+
+112
+
+2193 2194 2196 2197 2199 2200 2201 2202 2203 2205 2207 2210 2211 2212/1 2212/2 2213 2214/1 2214/2 2215 2216 2217 2218 2219 2220 2221 2222 2223 2230/1 2242/1 2242/2 2243 2244 2245/1 2245/2 2248 2249 2265 2269/2 2270 2271 2273 2275/2 2276 2286 2287/2 2322/1 2323/1 2323/3 2325/1 2325/2
+
+2325/5 2325/6 2325/7 2325/9 2328/196 2329/2 2329/3 2329/5 2330/1 2330/2 2332/1 2332/4 2332/5 2332/7 2332/26 2332/32 2332/36 2332/37 2332/38 2332/39 2332/40 2332/41 2332/42 2332/44 2332/45 2332/46 2332/107 2332/134 2332/135 2333 2335/1 2335/10 2335/11 2335/15 2335/17 2335/18 2335/19 2335/27 2335/29 2335/36 2335/38 2335/39 2335/40 2335/41 2335/42 2335/43 2335/44 2335/45 2335/46 2335/48
+
+2335/50 2335/51 2335/52 2335/53 2335/54 2336/55 2335/56 2335/57 2335/58 2335/59 2335/60 2335/61 2335/62 2335/63 2335/65 2335/66 2335/67 2335/68 2335/72 2335/73 2335/79 2335/94 2336/1 2336/2 2336/5 2336/21 2336/22 2336/34 2336/35 2336/37 2336/39 2336/40 2336/42 2336/45 2336/46 2336/50 2336/51 2336/52 2336/53 2336/54 2336/55 2336/56 2336/57 2336/58 2336/62 2336/63 2336/64 2336/65 2336/78 2336/137
+
+2336/138 2336/145 2336/148 2336/150 2336/153 2336/154 2336/155 2336/156 2336/157 2336/162 2336/163 2336/164 2336/173 2336/174 2336/175 2336/178 2336/179 2336/180 2336/181 2336/183 2336/184 2336/185 2336/186 2336/188 2336/202 2336/204 2336/207 2336/208 2336/211 2336/222 2336/225 2336/233 2336/246 2336/251 2336/255 2336/259 2336/269 2336/270 2336/362 2338 2339/1 2339/2 2339/3 2339/4 2339/5 2339/6 2340/1 2340/2 2340/4 2340/5
+
+2345/1 2345/2 2349 2350 2360/8 2360/10 2360/11 2365/4 2365/5 2365/7 2365/10 2365/12 2384/33 2403/27 2407/1 2407/2 2411/2 2411/3 2411/4 2413 2415 2417/1 2417/2 2417/3 2417/4 2417/5 2417/6 2417/7 2417/8 2420/1 2420/2 2435/1 2435/5 2435/6 2436 2447/2 2447/3 2447/4 2455 2467 2469 2473 2484 2485/2 2490 2501 2502 2504/6 2504/7 2516
+
+113
+
+2517 2519/26 2519/27 2519/28 2519/29 2519/30 2519/31 2519/32 2519/33 2519/34 2519/35 2519/36 2519/37 2519/51 2526/1 2526/2 2526/3 2526/4 2526/5 2526/6 2527 2537 2543 2544/1 2544/2 2554/1 2554/23 2554/24 2555/6 2555/7 2558/1 2580 2616 2618 2625/1 2625/2 2625/3 2630/32 2630/34 2641/14 2641/18 2641/28 2641/33 2641/34 2641/35 2641/36 2641/42 2641/44 2641/46 2641/48
+
+2641/50 2641/52 2645 2648/1 2648/2 2648/3 2649 2654 2658 2662/17 2662/20 2662/24 2662/27 2662/30 2662/34 2662/41 2662/44 2662/49 2666 2667 2669 2676/1 2676/2 2676/3 2676/4 2676/5 2678 2714/1 2729/1 2729/3 2730 2732/4 2732/5 2732/7 2732/8 2732/9 2753 2757 2758 2759 2760/1 2760/2 2760/26 2760/27 2760/28 2760/29 2760/30 2760/31 2760/32 2760/33
+
+2760/34 2760/63 2772/2 2772/3 2772/4 2774 2775 2783 2794 2795 2799 2801 2803 2805/24 2805/26 2805/29 2805/31 2805/33 2805/35 2805/37 2805/38 2805/41 2805/42 2805/47 2806 2807/1 2807/4 2808 2811 2844 2845/1 2845/5 2845/6 2845/7 2853 2857 2859 2862 2875 2877 2884 2886 2888/1 2888/2 2888/3 2888/4 2888/5 2889/1 2889/2 2889/3
+
+2899/2 2899/18 2899/20 2899/21 2899/24 2899/27 2899/28 2899/29 2899/30 2899/31 2899/32 2899/33 2899/34 2899/35 2899/36 2899/37 2899/38 2899/43 2899/44 2899/45 2899/46 2899/47 2899/48 2899/49 2900 2901/3 2901/4 2901/5 2913/1 2913/2 2923/3 2924 2939 2940 2955 2971/1 2971/2 2971/3 2971/4 2971/5 2971/6 2971/7 2971/8 2971/9 2971/10 2971/13 2971/14 2971/15 2971/16 2971/17
+
+2971/18 2971/19 2971/20 2971/21 2971/22 2971/25 2971/26 2971/27 2979 2993/1 2993/2 2993/3 2993/4 2993/5 3008 3009/1 3011 3012 3017/1 3018 3028 3031 3032 3034/5 3034/6 3034/7 3035/1 3036 3037 3038/4 3038/5 3038/15 3039 3040 3042/1 3042/2 3042/8 3042/22 3042/71 3042/72 3043 3044 3046 3048 3050 3058/1 3058/2 3058/4 3058/6 3058/9
+
+114
+
+3058/15 3058/16 3058/18 3058/19 3058/20 3058/24 3058/25 3058/26 3058/27 3058/28 3058/29 3058/30 3058/38 3059 3061 3062/8 3071 3072 3093/1 3093/4 3093/5 3093/7 3104/1 3105 3116 3135/3 3135/11 3135/13 3159/5 3166 3169/1 3169/14 3169/15 3169/16 3169/17 3169/18 3169/19 3169/20 3169/21 3169/22 3169/23 3169/24 3169/25 3169/26 3169/27 3169/28 3172/1 3172/2 3174/1 3174/2
+
+3174/3 3177/2 3184/1 3184/2 3184/3 3184/4 3184/5 3184/6 3184/7 3185 3200 3201/1 3202 3203 3208 3210 3211 3212 3213 3214 3215 3216 3217 3218 3219 3220 3221 3222 3223 3224 3225 3226 3227 3228 3229 3230 3231 3232 3233 3234 3235 3236 3237 3238 3239 3240 3241 3245 3246 3248
+
+3250 3251/1 3251/8 3251/9 3251/10 3252/1 3252/2 3253 3254 3255/1 3257 3258/1 3258/2 3258/3 3258/17 3258/18 3260 3261 3262 3263 3265/1 3265/2 3265/3 3265/6 3265/7 3271 3272 3274 3276/1 3276/2 3276/3 3276/4 3276/5 3277 3279 3280 3292/1 3292/3 3292/4 3292/5 3292/6 3292/7 3292/8 3292/10 3292/12 3292/13 3292/14 3299/7 3299/10 3299/11
+
+3299/13 3299/17 3299/18 3299/19 3300/1 3300/3 3300/4 3300/5 3300/6 3301/1 3301/3 3301/4 3323/2 3323/27 3327/3 3329/3 3330/2 3336/23 3336/63 3336/65 3336/66 3336/67 3336/68 3336/69 3336/70 3336/71 3336/73 3336/74 3336/75 3336/76 3336/77 3336/79 3336/81 3336/83 3336/84 3336/85 3336/87 3336/88 3336/93 3336/95 3336/101 3336/104 3336/105 3336/106 3336/107 3336/108 3336/109 3336/110 3336/111 3336/114
+
+3336/120 3336/121 3336/122 3336/124 3336/125 3336/126 3336/129 3336/131 3336/133 3336/136 3336/139 3336/141 3336/144 3336/145 3336/149 3336/154 3336/158 3336/164 3336/166 3336/171 3336/174 3336/176 3336/197 3341/2 3341/4 3341/5 3341/24 3341/69 3341/70 3341/71 3341/72 3341/126 3341/130 3341/132 3341/134 3341/137 3341/138 3341/141 3341/143 3341/144 3341/147 3341/148 3341/149 3341/151 3341/153 3341/154 3341/156 3341/159 3341/162 3341/164
+
+115
+
+3341/166 3341/167 3341/170 3341/172 3341/173 3341/174 3341/176 3341/177 3341/179 3341/218 3350 3351 3353 3354 3368 3369 3370 3377/1 3383 3390 3392 3393 3394 3395 3396 3397 3398 3399 3400 3402 3405 3407 3413 3423/1 3423/16 3423/17 3423/18 3423/19
+
+3423/21 3423/22 3423/23 3423/24 3423/26 3423/33 3423/34 3423/37 3423/38 3423/39 3423/64 3423/67 3423/69 3423/73 3423/80 3423/82 3424/1 3424/4 3425 3432/9 3432/11 3432/13 3432/14 3437 3438 3439 3440 3441 3444/1 3444/2 3444/3 3444/4 3444/5 3444/6 3444/7 3444/8 3444/9 3447
+
+3448 3449 3450 3451/1 3451/2 3452 3453 3454 3455 3456 3458 3460 3461 3462 3463 3464 3467 3468 3471 3473/10 3473/11 3474 3476 3477/1 3477/2 3478/1 3478/2 3479/1 3479/2 3482/3 3483 3484 3487/2 3488 3489/1 3490/1 3490/34 3490/37
+
+3503/1 3503/12 3503/13 3503/14 3503/15 3503/16 3503/17 3503/18 3503/19 3503/20 3503/21 3503/22 3503/23 3503/24 3503/25 3503/26 3503/27 3503/28 3503/29 3503/30 3503/31 3503/32 3503/33 3503/34 3503/35 3503/36 3503/37 3503/38 3503/39 3503/40 3503/41 3503/42 3503/43 3503/44 3503/45 3503/46 3503/47 3503/48
+
+3503/49 3503/50 3503/51 3503/52 3503/53 3503/54 3503/55 3503/56 3504 3505 3507 3511 3512 3513 3517 3518 3519 3521 3524 3525 3526 3527 3528 3529 3531 3532 3533 3537 3539 3540 3542 3544 3545 3546 3547
+
+MĚSTSKÁ ČÁST PRAHA 12 1. NÁMĚSTÍ k. ú. Modřany OBCHODNÍ NÁMĚSTÍ NÁSIROVO NÁMĚSTÍ SOFIJSKÉ NÁMĚSTÍ k. ú. Točná NÁM. ANTONÍNA PECÁKA; 2. TRŽIŠTĚ
+
+116
+
+a) tržnice – není stanoveno žádné veřejné prostranství, b) tržiště – není stanoveno žádné veřejné prostranství, c) tržní místa SOFIJSKÉ NÁMĚSTÍ – střed (parc. č. 4400/454, k. ú. Modřany); d) trhy ul. DURYCHOVA u NS Jasná (parc. č. 580/22, k. ú. Kamýk), ul. PAPÍRNÍKOVA u NS Obzor, k. ú. Kamýk; ul. GEN. ŠIŠKY, parkoviště u OD Prior Modřany (parc. č. 4400/110, k. ú. Modřany); SOFIJSKÉ NÁMĚSTÍ (parc. č. 4400/454, 4400/94 v k. ú. Modřany); e) restaurační zahrádky SOFIJSKÉ NÁMĚSTÍ, podloubí u obchodní pasáže Sofia; f) předsunutá prodejní místa ul. DURYCHOVA u NS Jasná (parc. č. 2024, k. ú. Kamýk), ul. LHOTECKÁ, areál OBI, k. ú. Kamýk; ul. NOVODVORSKÁ, stanice MHD – BUS Pavlíkova, k. ú. Kamýk; ul. U KAMÝKU, stanice MHD – BUS Lhotecký les, u obchodního centra Obzor, k. ú. Kamýk; ul. ČS. EXILU, stanice MHD – BUS Tylova čtvrť (parc. č. 4400/912 v k. ú. Modřany); ul. K VLTAVĚ, u OBCHODNÍHO NÁMĚSTÍ (parc. č. 18/1, k. ú. Modřany); u obchodního centra OBZOR, k. ú. Kamýk; 3. ULICE A CHODNÍKY k. ú. Cholupice BOJEŠICKÁ DOLNOBŘEŽANSKÁ HRAZANSKÁ HORNOCHOLUPICKÁ K BŘEČKÁM K DÝMAČI K LADŮM KE KÁLKU KE KŘÍŽKU KESTŘANSKÁ
+
+LHENICKÁ LICHÁ MALÁ LADA MALETICKÁ MOKŘADNÍ POD REMÍZKEM PODCHÝŠSKÁ RAŽICKÁ TOČENSKÁ U NOVÉ LOUKY
+
+U OBCE U POUSTEK U VRTILKY VELKÁ LADA V HÁJKÁCH V LIPINÁCH VOJSLAVICKÁ ZÁLUŽICKÁ
+
+k. ú. Kamýk CIHLÁŘOVA CÍLKOVA CUŘÍNOVA ČECHTICKÁ DOBEVSKÁ DOLNOJIRČANSKÁ DURYCHOVA GEN. ŠIŠKY HODKOVICKÁ CHOLUPICKÁ
+
+IMRYCHOVA K HÁJOVNĚ K LESU KABELÁČOVA KE KAMÝKU KRHANICKÁ LHOTECKÁ LIBEŘSKÁ LIŠKOVA MACHULDOVA
+
+MARIÁNSKÁ MAŘATKOVA NECHANICKÁ NOVODVORSKÁ OLBRAMOVICKÁ OTRADOVICKÁ PAPÍRNIKOVÁ PAVLÍKOVA PÍSNICKÁ PŠENČÍKOVA
+
+117
+
+RABYŇSKÁ RŮŽENÍNSKÁ RYTÍŘOVA SEIDLOVA SMOLKOVA SMOTLACHOVA SNOPKOVA SOUKUPOVA
+
+ŠATROVA ŠPIRKOVA TĚŠÍKOVA U KAMÝKU U VODOJEMU V LUČINÁCH VE LHOTCE VNOUČKOVA
+
+VOSÁTKOVA VRANSKÁ ZÁRUBOVA ZDISLAVICKÁ ZELENKOVA ZIMOVA ZVOLSKÁ ŽAMPAŠSKÁ k. ú. Komořany BOŽENY JANDLOVÉ BRANIŠOVSKÁ DAVELSKÁ HUDCOVA K NOUZOVU KEŘOVÁ KOMOŘANSKÁ KOUKOLOVÁ KRUPNÁ
+
+NA HOMOLI NA JITŘENCE NA POUSTKÁCH NA ŠABATCE NAD ROKLÍ NAD TEPLÁRNOU NAD VLTAVOU OKRUŽNÍ PALMETOVÁ
+
+POD LESEM PODLESNÍ ŠTOLCOVA TRNITÁ U SKLADU U SOUTOKU ZA SÍDLIŠTĚM ZÁVIST
+
+k. ú. Modřany AMORTOVA ANDĚLOVA ANGELOVOVA ARISTOTELOVÁ BABSKÁ BARÁKOVA BARRANDOVA BARUNČINA BENÁČANOVA BOJOVSKÁ BOROVÁ BOROVANSKÁ BOTEVOVA BOŽETICKÁ BRANISLAVOVA ČS. EXILU DAŇKOVA DARWINOVA DAŠKOVA DO ČTVRTI DO KOUTŮ DO LIPIN DO PÍŠOVIC DOLNOCHOLUPICKÁ DOSTOJEVSKÉHO DRUŽNÁ EMLEROVA FIKEROVA FIŠEROVA
+
+FRÉZAŘSKÁ GEN. ŠIŠKY HÁJENSKÁ HAMROVÁ HASOVA HAUSMANNOVA HERRMANNOVA HOBLÍŘSKÁ HOMÉROVA HORNOCHOLUPICKÁ HRUBÍNOVA HŘEBÍKOVA HUBIČKOVA CHUCHELSKÁ CHURNAJEVOVA JORDANA JOVKOVA K BERÁNKU K DOLŮM K JEZU K LAHOVIČKÁM K LIPINÁM K MODŘANSKÉMU NÁDRAŽÍ K ORIONCE K OTOČCE K PETROVĚ KOMOŘE K POTŮČKU K TRNKÁM K ÚDOLÍ
+
+K VLTAVĚ K VYHLÍDCE K VYSTRKOVU K ZATÁČCE KARASOVA KE KAPLIČCE KE SCHODŮM KE SPOFĚ KE SRÁŽKU KE ZVONICI KLÁŠTERSKÉHO KLOSTERMANNOVA KOLÁŘOVA KOMOŘANSKÁ KORMIDELNICKÁ KROUZOVA KUTILOVA KYSLÍKOVÁ LEHÁROVA LEŠETÍNSKÁ LEVSKÉHO LHOTECKÁ LYSINSKÁ MÁDROVA MALÁ TYRŠOVKA MAZANCOVA MEZI VODAMI MEZIHORSKÁ MILEROVA
+
+118
+
+MLADENOVOVA MODŘANSKÁ MRÁČKOVA NA BLANSEKU NA CIKORCE NA CIMBÁLE NA FLOŘE NA HAVRÁNCE NA HOLÉM VRCHU NA HUPECH NA KOMOŘSKU NA SCHŮDKÁCH NA SRÁŽKU NA VÝŠINĚ NAD BELÁRIÍ NAD DOLY NAD RÁŽÁKEM NAD SOUTOKEM NAD VINICÍ NAD ZAVÁŽKOU NEČOVA NESVADBOVA NIKOLY VAPCAROVÁ ODBOČNÁ OKRUŽNÍ PACHOLÍKOVA PANCÍŘOVA PAVELKOVA PEJEVOVÉ PEKÁRKOVA PERTOLDOVA PETRŽÍLOVA PIRINSKÁ PÍSKAŘSKÁ
+
+PÍSKOVÁ PÍŠOVICKÁ PLATÓNOVA PLEVENSKÁ PLOŠTILOVA PLOVDIVSKÁ POD BELÁRII POD LETIŠTĚM POD LOMEM POD SADY POD VINICI POLJANOVOVA POPOVOVA POTAHOVÁ POVODŇOVÁ PROKOFJEVOVA PŘEVOZNICKÁ RAKOVSKÉHO REVOLUCE RILSKÁ RODOPSKÁ RORÝSOVA ROZVODOVA SEKOROVA SEMICKÁ SCHODIŠŤOVÁ SKALNATÁ SOKRATESOVA SOUKALOVA SPINOZOVA STAROMODŘANSKÁ ŠUMAVSKÉHO ŠUMENSKÁ U CIHELNY
+
+U ČEKÁRNY U ČOKOLADOVEN U DOMU SLUŽEB U CHMELNICE U JIZBY U KINA U KLUBU U MODŘANSKÉ ŠKOLY U PILY U SOUTOKU U SPOŘITELNY U STUDNY U ŠUMAVĚNKY U TYRŠOVKY U VLEČKY U ZASTÁVKY URBÁNKOVA V POTOČKÁCH VAZOVOVA VĚTROVCOVA VLTAVANŮ VOBORSKÉHO VOJTOVA VOKROJOVA VORAŘSKÁ VOŠAHLÍKOVA VRÁTNICKÁ VZPOURY ZA STROJÍRNAMI ZÁTIŠSKÁ ZÁTIŠSKÁ – LÁVKA ZLÍCHOVSKÁ ZLOCHOVA k. ú. Točná BRANIŠOVSKÁ BRTECKÁ HÁJÍČKOVA HOSPODÁŘSKÁ HRACHOVSKÁ K HRADIŠTI K VÝBORU K ZÁVORÁM KE SPÁLENCE KE STARÉMU HŘIŠTI
+
+KE ZBRASLAVI KELTSKÁ MALIČKÁ MEZI CHATAMI NA STRAŇKÁCH NA ŠANCÍCH NAD ŠANCEMI NAD ZBRASLAVÍ NICKERLEHO POD ČIHADLEM
+
+POLOVNICKÁ REKREAČNÍ STARÝ LIS U ČIHADEL U OLŠIČEK VE VRATECH VOTRUBOVA ZAHRADKÁŘSKÁ
+
+4. PARKY PODCHÝŠSKÁ, č. parc. 55/1 v k. ú. Cholupice;
+
+119
+
+MODŘANSKÁ (při škole TGM, bývalé BAUMANSKÉ NÁM.), č. parc. 703/13, 703/14, oba v k. ú. Modřany; OBCHODNÍ NÁMĚSTÍ, č. parc. 24/1, 167/1, 167/2, 168/2, 169/1, 169/2, 170/1, 170/2, 171/1, 171/3, 172/3, 173, 188/1, vše v k. ú. Modřany; SOFIJSKÉ NÁMĚSTÍ, č. parc. 4400/112, 4400/451, 4400/453, 4400/454, 4400/456, 4400/457, vše v k. ú. Modřany; NA ZVONICI (při modřanském hřbitovu), č. parc. 3045/1, 3045/3, 3045/4, 3045/5, 3045/6, 3045/7, 3045/8, 3045/9, 3046, vše v k. ú. Modřany; 5. VEŘEJNÁ ZELEŇ a) zeleň na sídlištích: k. ú. Kamýk (č. parc.) 5/2 5/3 5/4 5/5 5/6 5/7 5/8 5/10 5/19 5/20 5/21 5/23 5/24 6 251/2 251/3 254/1 254/12 254/13 254/19 254/21 254/22 254/35 281/1 281/3 282/1 283/1 283/11 283/13 283/15 283/17 283/19 283/21 283/24 283/31 288 299
+
+300 301 314 317 341/1 341/2 345/1 345/4 345/14 345/19 345/23 345/25 345/40 345/48 345/58 345/68 345/70 345/74 345/75 345/107 345/108 345/109 345/111 345/113 345/115 345/117 345/118 345/119 345/120 345/121 345/123 345/126 345/128 345/130 345/132 345/134 345/135
+
+345/139 345/141 345/143 345/145 345/147 345/149 345/152 345/154 345/156 345/158 345/160 345/162 345/165 345/167 345/169 345/171 345/172 345/174 345/178 345/179 345/181 345/203 345/204 345/205 345/206 345/207 345/209 345/210 345/215 345/220 366/1 390/6 401 402 413 414 432/1
+
+432/3 433/1 433/3 499/1 499/2 499/3 500/1 517 524/1 524/16 573/1 574/1 574/3 575/1 576 580/1 580/23 580/24 580/25 580/27 580/39 580/43 580/45 580/46 580/47 580/48 580/49 580/50 580/51 580/52 580/54 580/61 580/63 580/70 580/72 580/73 580/75
+
+580/77 580/79 580/81 580/83 580/86 580/88 580/90 580/92 580/94 580/97 580/99 580/101 580/103 580/105 580/108 580/110 580/112 580/114 580/116 580/118 640 641 643 644/1 645/1 648 651/1 651/2 653 656/2 656/13 666/1 666/5 666/11 666/28 873/1 873/49
+
+120
+
+873/53 873/56 873/59 873/158 873/159 873/160 873/171 873/174 873/180 873/181 873/183 873/184 873/185 873/186 873/238 873/239 878/1 881/1 881/2 881/3 882/1 882/3 882/4 883/5 883/6 884/31 884/46 884/47 886/1 888/15 891/1 891/6 891/8 891/9 891/10 891/11 891/12 891/13 1123/3 1749 1750/1 1750/2 1751 1857/1 1857/74 1857/83 1857/84 1857/92 1857/94 1857/98
+
+1857/99 1857/100 1857/129 1857/133 1857/143 1857/144 1857/146 1857/147 1857/148 1857/149 1857/150 1857/155 1859/1 1859/4 1859/5 1859/19 1859/34 1859/35 1859/54 1859/57 1859/58 1859/59 1859/63 1859/64 1859/82 1859/85 1859/86 1859/87 1859/94 1859/95 1859/97 1859/98 1859/100 1859/101 1859/102 1859/106 1859/109 1859/118 1859/119 1859/120 1859/121 1859/122 1859/124 1859/125 1859/127 1859/128 1859/129 1859/131 1859/133 1859/135
+
+1859/136 1859/137 1859/138 1859/140 1859/141 1859/142 1859/143 1859/147 1859/149 1859/151 1859/153 1859/155 1859/157 1859/160 1859/161 1859/163 1859/164 1859/166 1859/167 1859/169 1859/171 1859/173 1859/175 1859/177 1859/179 1859/180 1859/181 1859/183 1859/185 1859/187 1859/189 1859/191 1859/192 1859/194 1859/197 1859/198 1859/200 1859/202 1859/204 1859/205 1859/207 1859/209 1859/211 1859/212 1859/214 1859/218 1859/223 1859/225 1859/226 1859/227
+
+1859/228 1859/229 1859/230 1859/231 1859/232 1859/234 1859/236 1859/239 1859/240 1859/242 1859/244 1859/245 1859/246 1859/247 1859/250 1859/251 1859/254 1859/257 1859/260 1859/263 1859/266 1859/268 1859/269 1859/270 1859/282 1859/283 1859/284 1859/285 1859/286 1859/287 1859/288 1859/289 1859/290 1859/291 1859/292 1859/293 1859/294 1859/295 1859/305 1864/1 1864/36 1864/37 1864/38 1864/69 1864/71 1864/73 1864/76 1864/78 1864/80 1864/106
+
+1864/107 1864/108 1864/109 1864/110 1864/111 1864/116 1864/118 1864/119 1864/130 1878/29 1878/31 1929/4 1929/6 1929/7 1929/10 1929/12 1929/18 1929/22 1929/23 1929/24 1929/36 1933/2 1944/4 1944/5 1947/29 1947/33 1947/35 1947/38 1947/42 1947/43 1947/44 1947/46 1947/47 1947/50 1947/52 1947/55 1947/58 1947/60 1947/62 1947/64 1947/67 1947/70 1947/71 1947/74 1947/77 1947/79 1947/84 1947/88 1947/91 1947/93
+
+121
+
+1947/94 1947/95 1947/97 1947/99
+
+1947/100 1947/102 1947/106 1993/3
+
+2000/3 2011/1 2011/2 2011/11
+
+2025/3 2025/4 2026/17 k. ú. Komořany (č. parc.) 117/5 117/9 117/23 117/24 117/33 117/39 240/1 248/1 248/10
+
+248/13 251/3 253/1 253/2 253/4 253/5 258/1 259/1 260
+
+269/1 269/2 269/15 270/5 270/8 270/9 270/11 270/13 270/14
+
+270/15 270/19 270/20 270/21 270/22 270/23 270/24 270/25 270/27
+
+270/36 270/37 270/38 272/1 290/1 290/3
+
+k. ú. Modřany (č. parc.) 551/7 1608/1 1608/3 1608/4 1608/10 1608/12 1608/15 1650/56 1650/57 1651/4 1651/23 1651/34 1651/35 1803/18 2377/1 2377/2 2377/4 2671 4117/38 4137/1 4137/47 4137/50 4137/51 4137/55 4137/57 4137/59 4137/61 4137/62 4137/63 4137/65 4137/72 4137/73 4137/74
+
+4137/75 4137/76 4137/78 4137/79 4137/80 4137/86 4137/88 4137/90 4137/92 4137/94 4137/96 4137/98 4137/99 4137/101 4137/103 4137/105 4137/107 4137/109 4137/111 4137/114 4137/116 4137/118 4137/120 4137/122 4137/124 4137/125 4137/127 4137/129 4137/131 4137/133 4137/135 4137/137 4137/138
+
+4137/140 4137/142 4137/143 4137/145 4137/147 4137/148 4137/149 4137/152 4137/153 4137/154 4137/155 4137/163 4137/164 4137/167 4137/168 4137/169 4137/170 4137/171 4137/172 4137/173 4137/174 4137/176 4137/178 4137/184 4137/186 4137/195 4137/196 4137/203 4137/204 4137/205 4137/206 4137/208 4137/210
+
+4137/211 4137/214 4137/215 4137/222 4137/224 4137/226 4137/228 4137/230 4137/231 4137/232 4137/233 4137/234 4137/235 4137/242 4137/243 4137/244 4137/245 4137/246 4137/247 4137/248 4137/250 4137/251 4137/252 4137/257 4137/259 4137/285 4137/286 4137/409 4137/410 4137/411 4137/412 4137/413 4137/430
+
+4137/437 4137/439 4137/440 4175/18 4175/20 4175/30 4175/31 4254/25 4254/26 4254/27 4254/52 4359/1 4359/17 4359/66 4400/1 4400/34 4400/43 4400/71 4400/79 4400/80 4400/84 4400/98 4400/104 4400/117 4400/118 4400/120 4400/126 4400/127 4400/156 4400/157 4400/161 4400/162 4400/171
+
+122
+
+4400/172 4400/173 4400/174 4400/175 4400/176 4400/177 4400/178 4400/179 4400/186 4400/188 4400/189 4400/190 4400/192 4400/195 4400/196 4400/201 4400/202 4400/203 4400/204 4400/205 4400/211 4400/212 4400/214 4400/215 4400/216 4400/217 4400/218 4400/219 4400/220 4400/223 4400/224 4400/229 4400/230 4400/231 4400/235 4400/238 4400/243 4400/244 4400/250 4400/252 4400/254 4400/256 4400/258 4400/259 4400/260 4400/261 4400/262 4400/263 4400/266 4400/267
+
+4400/270 4400/271 4400/273 4400/277 4400/284 4400/285 4400/287 4400/288 4400/289 4400/297 4400/298 4400/303 4400/304 4400/307 4400/310 4400/314 4400/319 4400/320 4400/325 4400/335 4400/337 4400/341 4400/344 4400/347 4400/350 4400/352 4400/353 4400/355 4400/356 4400/357 4400/358 4400/359 4400/365 4400/368 4400/372 4400/373 4400/384 4400/385 4400/386 4400/392 4400/393 4400/396 4400/398 4400/399 4400/400 4400/407 4400/408 4400/410 4400/411 4400/416
+
+4400/419 4400/431 4400/432 4400/433 4400/434 4400/435 4400/436 4400/437 4400/438 4400/441 4400/445 4400/447 4400/448 4400/451 4400/455 4400/458 4400/461 4400/463 4400/464 4400/473 4400/492 4400/498 4400/505 4400/506 4400/515 4400/516 4400/517 4400/522 4400/526 4400/527 4400/529 4400/530 4400/532 4400/577 4400/583 4400/585 4400/586 4400/587 4400/588 4400/635 4400/638 4400/646 4400/649 4400/657 4400/658 4400/660 4400/661 4400/663 4400/695 4400/696
+
+4400/698 4400/699 4400/700 4400/704 4400/706 4400/709 4400/714 4400/801 4400/802 4400/816 4400/817 4400/818 4400/819 4400/820 4400/945 4400/946 4400/947 4400/948 4400/949 4400/957 4400/960 4400/963 4400/964 4423/59 4635/139 4635/140 4635/141 4635/142 4635/143 4635/146 4635/148 4635/149 4635/154 4635/155 4635/156 4635/160 4635/161 4635/173 4635/174 4635/176 4635/178 4635/188 4635/189 4635/193 4635/202 4635/210 4635/211 4635/212 4635/215 4635/217
+
+4635/222 4635/226 4635/227 4635/234 4635/235 4635/239 4635/240 4635/241 4635/245 4635/247 4635/248 4635/302 4635/305 4635/310 4635/313 4635/316 4635/319 4635/320 4635/323 4635/325 4635/331 4635/333 4635/334 4635/336 4635/337 4635/340 4635/342 4635/346 4635/347 4635/348 4635/350 4635/351 4635/352 4635/354 4635/356 4635/357 4635/359 4635/466 4635/467 4635/468 4635/534 4635/535 4635/539 4635/542 4635/543 4635/545 4635/548 4635/551 4635/554 4635/556
+
+123
+
+4635/558 4635/561 4635/563 4635/564 4635/565 4635/568 4635/571 4635/573 4635/575 4635/578 4635/579 4635/581 4635/582 4635/585 4635/586 4635/587 4635/589 4635/591 4635/593 4635/595 4635/597 4635/599 4635/601
+
+4635/603 4635/605 4635/607 4635/609 4635/611 4635/613 4635/614 4635/615 4635/616 4635/618 4635/619 4635/620 4635/621 4635/622 4635/623 4635/624 4635/625 4635/626 4635/627 4635/628 4635/629 4635/630 4635/631
+
+4635/632 4635/633 4635/635 4635/636 4635/637 4635/639 4635/641 4635/643 4635/645 4635/647 4635/650 4635/652 4635/654 4635/656 4635/658 4635/660 4635/662 4635/664 4635/666 4635/668 4635/671 4635/673 4635/675
+
+4635/677 4635/679 4635/681 4635/682 4635/684 4635/686 4635/688 4635/691 4635/693 4635/695 4635/697 4635/706 4635/709 4635/719 4635/720 4653/1 4653/21 4653/32 4653/40 4653/44 4653/52 4653/54 4783/3
+
+4783/4 4783/5 4783/8 4783/11 4783/12 4783/13 4783/19 4783/20 4783/21 4783/22 4783/23 4784/2 4784/4 4784/5 4784/7 4784/10 4785/2 4785/4 4785/5 4787/7 4787/13
+
+b) ostatní zeleň: k. ú. Cholupice (č. parc.) 10/1 16/1 16/2 17/2 17/3 17/4 18/1 19/1
+
+20/1 21/2 46/2 46/6 46/28 46/34 46/35 46/36
+
+46/37 46/74 46/75 234/6 234/9 327 329/12 329/14
+
+329/17 329/18 329/19 371/1 371/3 371/4 376/15 484/11
+
+484/12 484/13 484/15 484/314
+
+k. ú. Kamýk (č. parc.) 280/4 350 368 369/3 434 873/69 873/72 873/132 873/162
+
+873/237 888/1 888/11 888/14 888/17 888/19 888/34 889/1 889/2
+
+889/3 892/2 892/5 893/2 897/4 1138/1 1660/15 1660/36 1663
+
+1664 1666/1 1674 1679 1686 1687 1692/1 1699 1855/1
+
+1864/92 1864/99 1867/1 1867/4 1878/27 1878/29 1878/31 1938/1
+
+k. ú. Komořany (č. parc.) 117/1 117/17 117/18 131/1 132/1 183 691/7 692/1 704 709
+
+124
+
+k. ú. Modřany (č. parc.) 1/1 1/2 1/4 9 18/2 24/1 26/1 26/6 28/3 28/4 34/1 34/2 60/14 60/15 75/1 79 94/1 94/6 98/1 102 112/1 153 156/9 156/10 156/11 185/1 222/1 222/2 222/4 222/6 222/10 222/25 229/1 229/2 229/4 230/1 236/1 237/1 244/1 244/4 244/5 244/8 244/9 244/10 244/11 244/14 244/15
+
+244/16 244/18 244/28 244/30 244/31 244/34 244/35 244/39 244/43 244/45 257/2 257/12 257/13 263/11 265/1 551/1 701/1 701/2 703/12 703/13 703/14 1019 1021 1022 1023 1024 1025 1135 1137/1 1137/2 1138/1 1138/2 1138/4 1138/5 1138/6 1138/7 1138/8 1140/1 1140/2 1140/3 1386 1643 1646/1 1646/2 1647/1 1651/1 1651/27
+
+1652/1 1661/2 1662/2 1663/6 1663/8 1669/2 1740/2 1741 1803/1 1803/5 1803/18 1803/20 1829/1 1829/3 1831 1832/3 1832/4 2051/5 2052/1 2054/1 2055 2367/1 2368/1 2369/1 2385/3 2385/5 2383/8 2383/9 2383/12 2386/1 2386/13 2386/25 2386/26 2386/41 2387/1 2387/2 2387/7 2387/8 2388/1 2388/2 2388/3 2388/5 2466/3 2467/2 2467/3 2467/5 2467/6
+
+2510 2511/5 2511/6 2511/7 2511/8 2518/1 2518/4 2671 2861/6 2861/11 2861/14 3041/1 3041/2 3194 3320/1 3321/1 3321/2 3325/1 3326/5 3441/3 3441/4 3441/5 3441/6 3441/14 3442/2 3591/1 3604/3 3604/5 3693/3 3693/4 3695/2 3695/6 3695/7 3695/12 3695/15 3695/16 3696/1 3696/6 3696/14 3696/32 3696/35 3696/36 3696/37 3835/9 3835/13 3835/98 3856/6
+
+3856/7 3856/16 3856/18 3856/21 3856/22 3856/27 3856/30 3856/31 3856/34 3856/35 3856/37 3856/38 3867/7 3867/9 3867/17 3867/19 3870/4 3870/5 3870/13 3915/5 3915/6 3923/4 3923/5 3923/7 3926/2 4054/2 4054/16 4090 4094/2 4094/4 4095/5 4095/11 4095/12 4095/23 4097/2 4097/3 4097/4 4097/8 4097/12 4109/11 4137/36 4137/37 4137/221 4175/1 4175/11 4175/29 4183/3
+
+125
+
+4183/4 4183/9 4183/11 4254/1 4254/19 4254/21 4254/22 4254/60 4400/30 4400/33 4400/34 4400/46 4400/47 4400/48 4400/50 4400/54 4400/55 4400/59 4400/64 4400/79 4400/84 4400/109 4400/417 4400/451 4400/455 4400/457 4400/541 4400/552 4400/556 4400/557
+
+4400/610 4400/650 4400/655 4400/664 4400/665 4400/666 4400/667 4400/668 4400/669 4400/670 4400/671 4400/672 4400/673 4400/715 4400/764 4400/765 4400/766 4400/883 4400/884 4400/886 4400/887 4400/888 4400/890 4400/891 4400/892 4400/893 4400/895 4400/898 4400/899 4400/900
+
+4400/902 4400/904 4400/906 4400/907 4400/911 4400/913 4400/914 4400/915 4400/916 4400/918 4400/922 4400/933 4400/934 4400/935 4400/937 4400/939 4400/952 4423/9 4632/7 4635/3 4635/4 4635/7 4635/265 4635/270 4635/271 4635/500 4635/502 4635/503 4635/504 4635/725
+
+4635/726 4635/727 4635/728 4635/730 4635/731 4635/734 4635/735 4635/737 4635/739 4635/740 4635/742 4635/744 4635/745 4635/747 4635/750 4635/753 4635/755 4635/757 4635/758 4635/759 4635/760 4635/761 4635/763 4635/765 4635/768 4635/773 4635/775 4635/781 4635/782 4635/783
+
+4635/785 4635/787 4635/789 4635/790 4635/792 4635/793 4635/795 4635/796 4635/797 4662/5 4789/11 4789/12 4789/14 4789/17 4789/19 4789/20 4789/23 4789/28 4789/29 4789/38 4789/42 4790 4791 4792 4793 4802 4803 4816/3 4846/9 4880 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ ochozy a partery objektů: č. p. 627 a 628 v ul. PAPÍRNÍKOVA (OBZOR); č. p. 2181 v ul. K NOUZOVU (KOKR); č. p. 3059 v ul. MRÁČKOVA (LABE); č. p. 3344, 3345 a 3346 v ul. PERTOLDOVA (OTAVA); č. p. 3400 a 3401 na SOFIJSKÉM NÁMĚSTÍ (OD MODŘANY); č. p. 3404, 3405 a 3406 na SOFIJSKÉM NÁMĚSTÍ (STRATEGO); č. p. 3229 v ul. VAZOVOVA (ŽELIVKA); prostranství navazující na vstupy a výstupy z objektů: Poliklinika Modřany, č. parc. 4400/52 v k. ú. Modřany; podchody u zastávek MHD při ulici: ČS. EXILU, DURYCHOVA, GENERÁLA ŠIŠKY, LHOTECKÁ a NOVODVORSKÁ; prostranství u prodejních zařízení: č. parc. 580/22 v k. ú. Kamýk (JASNÁ);
+
+126
+
+č. parc. 1859/93, 1859/99, 2015/1 a 2016/3 v k. ú. Kamýk (KAMÝK); č. parc. 1860/2 v k. ú. Kamýk (OBI); č. parc. 1859/39, 1859/219,1859/220, 1859/223 a 1859/229 v k. ú. Kamýk (UNIMARKET); č. parc. 254/1, 254/18 a 254/19 v k. ú. Kamýk (VE LHOTCE); č. parc. 873/1, 873/61 a 873/68 v k. ú. Kamýk (OBZOR); č. parc. 270/12, 270/16, 270/17, 270/18 a 270/21 v k. ú. Komořany (KOKR); č. parc. 4137/177, 4137/192, 4137/193, 4137/194, 4137/265, 41137/267, 41137/337, 4137/339 v k. ú. Modřany (LABE); prostranství parc. č. 4137/42 a 4137/302 v k. ú. Modřany, při ul. LHOTECKÁ (Mc Donalds); č. parc. 4635/88, 4635/484 a 4635/574 v k. ú. Modřany (OTAVA); č. parc. 4400/98 v k. ú. Modřany (SÁZAVA); č. parc. 4079/4, 4097/5 a 4097/6 v k. ú. Modřany (VLTAVA); č. parc. 4400/130, 4400/131, 4400/132, 4400/133, 4400/135, 4400/290 a 4400/305 v k. ú. Modřany (ŽELIVKA); č. parc. 4 v k. ú. Točná (JEDNOTA TOČNÁ); spojky mezi chodníkem a předním a zadním vchodem do domů: Kamýk CIHLÁŘOVA č. p. 651, 652, 653, 654, 655, 656, 657, 658 a 659; CÍLKOVA č. p. 637, 638, 639, 640, 641, 642, 643, 644, 645, 646, 647, 648, 649 a 650; CUŘÍNOVA č. p. 584, 585, 586, 587, 588, 589, 590 a 591; DOBEVSKÁ č. p. 873, 874, 875, 876, 877 a 878; HODKOVICKÁ č. p. 767 a 768; CHOLUPICKÁ č. p. 688, 689, 690 a 691; IMRYCHOVA č. p. 879, 880, 881, 882, 883, 884, 885, 980, 981 a 982; KABELÁČOVA č. p. 810, 811, 812 a 813; KRHANICKÁ č. p. 716, 717, 718 a 719 LIŠKOVA č. p. 630, 631, 632, 633, 634, 635 a 636; MACHULDOVA č. p. 569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 592, 593, 594, 595, 596, 597, 598 a 599; MAŘATKOVA č. p. 915, 916, 917 a 918; OLBRAMOVICKÁ č. p. 698, 699, 700, 701, 702, 703, 704, 705, 706, 707, 708, 709, 710, 711, 712, 713, 714 a 715; OTRADOVICKÁ č. p. 726, 727, 728, 729, 730, 731, 732, 733, 734, 735 a 736; PAPÍRNÍKOVA č. p. 608, 609, 610, 611, 612, 613, 614, 615, 616, 617, 618 a 619; PAVLÍKOVA č. p. 600, 601, 602, 603, /604, 605, 606 a 607; PÍSNICKÁ č. p. 752, 753, 754, 755, 756, 757, 763, 764, 765 a 766; PŠENČÍKOVA č. p. 672, 673, 674, 675, 676, 677, 678, 679, 680, 681, 682, 683, 684 a 685; RABYŇSKÁ č. p. 738; 739, 740, 741, 742, 743, 744, 745, 746, 747, 748, 749, 750 a 751; RŮŽENÍNSKÁ č. p. 907, 908, 909 a 910; RYTÍŘOVA č. p. 776, 777, 778, 779, 780, 781, 782, 785, 809, 810, 811, 812, 813 a 856; SEIDLOVA č. p. 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, a 479; SMOTLACHOVA č. p. 582, 583 a 939; SNOPKOVA č. p. 480, 481, 482, 483, 484, 485 a 486; ŠATROVA č. p. 660, 661, 662, 663, 664 a 665; ŠPIRKOVA č. p. 522, 523, 524, 525, 526, 527 a 528; VE LHOTCE č. p. 902 a 903; VNOUČKOVA č. p. 515, 516, 517, 518, 519, 520 a 521; ZÁRUBOVA č. p. 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513 a 514;
+
+127
+
+ZDISLAVICKÁ č. p. 720, 721, 722, 723, 724 a 725; ZIMOVA č. p. 621, 622, 623, 624, 625 a 626; ZVOLSKÁ č. p. 694, 695, 696 a 697; Modřany ANGELOVOVA č. p. 3166, 3167, 3168, 3169, 3170 a 3171; BARUNČINA č. p. 1849, 1850, 1851, 1852, 1853, 1855, 1856, 1857 a 1858; BOROVANSKÁ č. p. 3386, 3387 a 3388; BOTEVOVA č. 3095, 3096, 3097, 3101, 3102, 3103, 3104, 3105 a 3106; BOŽETICKÁ č. p. 3393, 3394, 3395, 3396, 3397, 3398 a 3399; DAŇKOVA č. p. 3331, 3332, 3333, 3334, 3335 a 3336; DAŠKOVA č. p. 3070, 3071, 3072, 3073, 3074, 3075, 3076, 3077, 3078, 3079, 3080, 3081, 3082, 3083, 3084, 3085, 3086, 3087, 3088 a 3089; FIŠEROVA č. p. 3321, 3322, 3323, 3324, 3325 a 3326; HÁJENSKÁ č. p. 1866, 1867, 1868 a 1869; HASOVA č. p. 3091, 3092 a 3093; HAUSMANNOVA č. p. 3001, 3002, 3003, 3004, 3005, 3006, 3007, 3008, 3009, 3010, 3011, 3012, 3047 a 3048; HŘEBÍKOVA č. p. 1864, 1865, 1870, 1871, 1872, 1873 a 1874; JORDANA JOVKOVA č. p. 3251, 3252, 3253, 3254, 3255, 3256, 3257, 3258, 3259, 3260, 3261, 3262 a 3263; K OTOČCE č. p. 779, 1876 a 1877; KROUZOVA č. p. 3015, 3016, 3017, 3018, 3019, 3020, 3021, 3022, 3023, 3024, 3037, 3038, 3039, 3040, 3041, 3042, 3049, 3050, /3051 a 3052; KUTILOVA č. p. 3063, 3064, 3065, 3066 a 3067; LEVSKÉHO č. p. 3185, 3186, 3187, 3188, 3189, 3190, 3191, 3192, 3193, 3194, 3195, 3196, 3197, 3198, 3199, 3200, 3201, 3202, 3203, 3204, 3205, 3206, 3207, 3208, 3209, 3210, 3221 a 3222; LYSINSKÁ č. p. 1847 a 1848; MÁDROVA č. p. 3025, 3026, 3027, 3028, 3029, 3030, 3031, 3032, 3033, 3034 a 3035; MAZANCOVA č. p. 3053, 3054, 3055, 3056 a 3057; MILEROVA č. p. 3043 a 3044; MLADENOVOVA č. p. 3230, 3231, 3232, 3233, 3234, 3235, 3236, 3237, 3238, a 3239; NIKOLY VAPCAROVA č. p. 3267, 3268, 3269, 3270, 3271, 3272, 3175, 3176, 3177, 3178, 3179 a 3180; PAVELKOVA č. p. 3389, 3390, 3391 a 3392; PEJEVOVÉ č. p. 3118, 3119, 3120, 3121, 3122, 3123, 3124, 3125, 3126, 3127, 3129, 3130, 3131, 3132, 3133, 3134 a 3135; PERTOLDOVA č. p. 3312, 3313, 3314, 3315, 3316, 3317, 3318, 3319, 3320, 3327, 3328, 3329, 3330, 3337, 3338, 3339, 3340, 3380, 3381, 3382, 3383, 3384 a 3385; PETRŽÍLOVA č. p. 3295, 3296, 3297, 3298, 3299, 3300, 3301, 3302, 3303, 3304, 3305, 3306, 3307, 3308, 3309, 3310 a 3311; PIRINSKÁ č. p. 3242, 3243, 3244, 3245, 3246, 3247, 3248, 3249 a 3250; PLATÓNOVA č. p. 3275, 3276, 3277, 3278, 3279, 3280, 3281, 3282, 3283, 3284, 3285 a 3286; PLEVENSKÁ č. p. 3111, 3112, 3113, 3115, 3116, 3117 a 3110; PLOVDIVSKÁ č. p. 3264, 3265 a 3266; POLJANOVOVA č. p. 3241, 3158 a 3159; RAKOVSKÉHO č. p. 3139, 3140, 3141, 3142, 3143, 3144, 3145, 3146, 3160, 3161, 3162, 3163, 3164, 3165;
+
+128
+
+RILSKÁ č. p. 3181 a 3182; RODOPSKÁ č. p. 3147, 3148, 3149, 3150, 3151, 3152, 3153, 3154, 3155, 3156 a 3157; SEMICKÁ č. p. 3289, 3290, 3291 a 3292; ŠUMENSKÁ č. p. 3223, 3224, 3225, 3226 a 3227; URBÁNKOVA č. p. 3349, 3350, 3351, 3352, 3353, 3354, 3357, 3358, 3359, 3360, 3361, 3362, 3363, 3364, 3365, 3366, 3367, 3368, 3369, 3370, 3371 a 3372; VAZOVOVA č. p. 3211, 3212, 3213, 3214, 3215, 3216, 3217, 3218, 3219, 3228 a 3220; VITOŠSKÁ č. p. 3410, 3411, 3412, 3413, 3414 a 3415; VOKROJOVA č. p. 3341, 3342, 3343, 3375, 3376, 3377, 3378 a 3379; veřejná hřiště: v k. ú. Kamýk CIHLÁŘOVA, parc. č. 1857/84; CÍLKOVA, parc. č. 1857/1; IMRYCHOVA, parc. č. 5/4; K LESU, parc. č. 891/12; MACHULDOVA, parc. č. 892/1; MAŘATKOVA, parc. č. 300; OTRADOVICKÁ, parc. č. 580/45; PAVLÍKOVA, parc. č. 873/1; PAVLÍKOVA – MACHULDOVA, parc. č. 873/49; RYTÍŘOVA, parc. č. 1864/121 a 1864/126; PŠENČÍKOVA, parc. č. 1857/129; SEIDLOVA, parc. č. 345/40; SMOLKOVA, parc. č. 873/1; SMOTLACHOVA, parc. č. 873/1; SOUKUPOVA, parc. č. 1859/34; ZÁRUBOVA, parc. č. 345/70; ZIMOVA, parc. č. 873/1; v k. ú. Komořany PALMETOVA, parc. č. 358/5; U VLEČKY, parc. č. 117/4, 117/5; ZA SÍDLIŠTĚM, parc. č. 290/1 a 290/3; v k. ú. Modřany BOROVANSKÁ, parc. č. 4635/226; DAŇKOVA, parc. č. 4635/188; DAŠKOVA, parc. č. 4137/208; FIŠEROVA, parc. č. 4635/188; HASOVA, parc. č. 4137/257; HERMANNOVA, parc. č. 1651/23; JORDANA JOVKOVA, parc. č. 4400/448; JORDANA JOVKOVA – NIKOLY VAPCAROVA, parc. č. 4400/522; K DOLŮM, parc. č. 109/2 a 112/8; K OTOČCE, parc. č. 4783/17; K VYSTRKOVU, parc. č. 3325/1; KROUZOVA, parc. č. 4137/51 a 4137/173; LEHÁROVA, parc. č. 703/13; LEŠETÍNSKÁ, parc. č. 3331;
+
+129
+
+LEVSKÉHO, parc. č. 4359/66 a 4400/310; MÁDROVA, parc. č. 4137/80; MLADENOVOVA, parc. č. 4400/288; OBCHODNÍ NÁMĚSTÍ, parc. č. 24/1; PAVELKOVA, parc. č. 4635/227; PEJEVOVÉ, parc. č. 4400/398; PERTOLDOVA – URBÁNKOVA, parc. č. 4635/182; PETRŽÍLOVA, parc. č. 4635/566; PIRINSKÁ – POLJANOVOVA, parc. č. 4400/203; POD SADY, parc. č. 2967/1; POVODŇOVÁ, parc. č. 1135; RAK, parc. č. 4400/418; RAKOVSKÉHO, parc. č. 4400/158; RODOPSKÁ, parc. č. 4400/179; ROZVODOVA, parc. č. 2520, 3943; SEMICKÁ, parc. č. 4635/139; URBÁNKOVA, parc. č. 4635/1; VAZOVOVA, parc. č. 4400/320 a 4400/661; VITOŠSKÁ, parc. č. 4400/341; VOKROJOVA, parc. č. 4635/621; VOSA, parc. č. 4137/334; ZÁTIŠSKÁ, parc. č. 4054/15; ZVONICE, parc. č. 3045/6; v k. ú. Točná NÁMĚSTÍ ANTONÍNA PECÁKA, parc. č. 457/7; veřejná parkoviště: k. ú. Kamýk CIHLÁŘOVA CÍLKOVA CUŘÍNOVA ČECHTICKÁ DOLNOJIRČANSKÁ DURYCHOVA IMRYCHOVA LHOTECKÁ LIŠKOVA MARIÁNSKÁ
+
+MAŘATKOVA NOVODVORSKÁ OTRADOVICKÁ PAVLÍKOVA PŠENČÍKOVA RABYŇSKÁ RYTÍŘOVA SEIDLOVA SMOTLACHOVA SOUKUPOVA
+
+ŠPIRKOVA TĚŠÍKOVA U KAMÝKU VNOUČKOVA VOSÁTKOVA ZÁRUBOVA ZELENKOVA ZIMOVA
+
+k. ú. Komořany NA KOMOŘSKU PALMETOVA ZA SÍDLIŠTĚM k. ú. Modřany ANGELOVOVA BOTEVOVA DAŠKOVA GEN. ŠIŠKY HASOVA J. JOVKOVA
+
+K OTOČCE K VLTAVĚ MAZANCOVA MRÁČKOVA NA FLOŘE NIKOLY VAPCAROVA
+
+PAVELKOVA PEJEVOVÉ PERTOLDOVA PLEVENSKÁ POVODŇOVÁ RAKOVSKÉHO
+
+130
+
+RILSKÁ RORÝSOVÁ
+
+SOFIJSKÉ NÁMĚSTÍ U VLEČKY
+
+VAZOVOVA
+
+ostatní: prostranství parc. č. 1864/39 v k. ú. Kamýk, při ul. Lhotecká; prostranství parc. č. 2024 v k. ú. Kamýk, při ul. Durychova; prostranství parc. č. 257/1 a 257/12 v k. ú. Modřany, při ul. Vltavanů, parkoviště při areálu Free Style Park; prostranství parc. č. 1669/2 v k. ú. Modřany, roh ul. Povodňová a ul. K Vltavě; prostranství parc. č. 3326/5 v k. ú. Modřany, při ul. K Vystrkovu; prostranství parc. č. 3676/4 a 3679 v k. ú. Modřany, při ul. Komořanská, před areálem Modřanských strojíren; prostranství u konečné autobusu č. 139 parc. č. 3699, 3700/1, 3700/2, 3700/3 a 3701 v k. ú. Modřany, mezi ul. KOMOŘANSKÁ, ul. REVOLUCE a ul. KYSLÍKOVÁ; prostranství u železniční stanice Praha-Modřany, parc. č. 4100/1 v k. ú. Modřany; prostranství u železniční stanice Praha-Modřany - zastávka, parc. č. 4100/1 v k. ú. Modřany; prostranství parc. č. 4137/39 v k. ú. Modřany, při ul. LHOTECKÁ; prostranství parc. č. 4137/151 v k. ú. Modřany, při ul. MILEROVA; prostranství u železniční stanice Praha - Komořany, parc. č. 27/1 a 783/1 v k. ú. Komořany; prostranství kolem hasičské zbrojnice v Cholupicích, parc. č. 273/2 v k. ú. Cholupice; prostranství před bývalým kulturním domem v Cholupicích, parc. č. 273/3 v k. ú. Cholupice; prostranství před Cholupickým hřbitovem, parc. č. 309 v k. ú. Cholupice; nezpevněné nebo zatravněné plochy: ul. NOVODVORSKÁ - GENERÁLA ŠIŠKY, parc. č. 873/1 v k. ú. Kamýk; ul. KOMOŘANSKÁ při autosalónu Auto Trio Modřany, parc. č. 3590 v k. ú. Modřany; ul. KOMOŘANSKÁ před areálem společnosti Interpharma, parc. č. 3840/4 v k. ú. Modřany; zpevněné a revitalizované plochy: parc. č. 117/9, 117/39 a 117/40 v k. ú. Komořany, parc. č. 3693/3, 3693/4 a 3693/5 v k. ú. Modřany (U VLEČKY); parc. č. 647/8, 648 a 650/5 v k. ú. Modřany (MODŘANSKÁ VINICE); parc. č. 1138/3 a 2518/6 v k. ú. Modřany (ČS. EXILU); parc. č. 2861/5 v k. ú. Modřany (PÍSKOVÁ); parc. č. 4137/177, 4137/192, 4137/193, 4137/194, 4137/265, 4137/267, 4137/337 a 4137/339 v k. ú. Modřany (LABE); parc. č. 4137/1, 4137/217, 4137/218, 4137/219, 4137/220, 4137/444, 4137/445, 4137/446, 4137/447, 4137/448, 4137/449, 4137/451, 4137/452, 4137/453, 4137/454, 4137/455, 4137/456, 4137/457, 4137/458, 4137/459, 4137/460 a 4137/461 v k. ú. Modřany (DAŠKOVÁ); parc. č. 4400/418 v k. ú. Modřany (RAK); parc. č. 4635/574 v k. ú. Modřany (OTAVA); pěší komunikace v zeleni: parc. č. 200/2, 333/1, 478/14 v k. ú. Cholupice; parc. č. 5/1, 345/20, 873/51, 873/57, 879, 884/21, 888/10, 1859/39, 1859/93, 1859/216, 1859/249, 1859/252, 1859/267, 1864/121, 1864/125, 1864/126, 1864/127 a 1864/128 v k. ú. Kamýk; parc. č. 1018/3, 1608/5, 1608/6, 1608/13, 1608/14, 1828/7, 1828/9, 3045/5, 3045/8, 3045/9, 3693/5, 3872/1, 3872/2, 3880/9, 3916, 3917, 3965, 4094/3, 4176/3, 4400/228, 4400/245, 4400/305, 4400/354, 4400/446, 4400/456, 4400/474, 4400/528, 4400/919, 4635/175,
+
+131
+
+4635/220, 4635/464, 4635/562, 4635/584, 4737, 4783/22, 4750/9, 4755/1 a 4755/2 v k. ú. Modřany; parc. č. 785 v k. ú. Komořany; rekreační komunikace: cyklostezka: parc. č. 664, 694/1, 695, 696, 744, 755/1, 771/3, 771/4 a 783/1 v k. ú. Komořany; parc. č. 181, 185/1, 185/2, 186/4, 196, 199/1, 199/2, 200/4, 200/5, 203/1, 203/2, 203/3, 203/5, 203/15, 203/23, 222/1, 222/2, 222/6, 222/10, 222/25, 229/1, 229/2, 229/9, 229/10, 230/1, 230/4, 230/7, 236/1, 236/2, 236/4, 237/1, 257/1, 257/2, 257/10, 257/11, 257/12, 257/13, 258/1, 258/2, 258/5, 258/15, 3249/1, 3249/3, 3249/4, 3249/5, 3641/2, 3886, 4080/3, 4100/1, 4100/32, 4109/1, 4109/2, 4109/3, 4109/9, 4111/2, 4111/6, 4826/2, 4826/3, 4846/9, 4846/11, 4847/1, 4847/2 a 4847/5 v k. ú. Modřany. Na Hupech – Modřanská rokle: parc. č. 410/1 a 410/19 v k. ú. Cholupice; parc. č. 1828/2, 1828/7, 1828/9, 1829/3, 2518/10, 2518/33, 2867/6, 2877/16, 3945/3, 4400/540, 4737, 4750/1, 4750/9, 4751, 4752/1, 4752/10, 4753/1, 4755/1, 4755/2 a 4755/3 v k. ú. Modřany.
+
+MĚSTSKÁ ČÁST PRAHA 13 1. NÁMĚSTÍ NÁM. JUNKOVÝCH NÁM. NA LUŽINÁCH OHRADSKÉ NÁM.
+
+SLUNEČNÍ NÁM. ŠOSTAKOVIČOVO NÁM. ŠVEJCAROVO NÁM. 2. TRŽIŠTĚ Luka – nad obchodním centrem Luka mezi ul. NEÚSTUPNÉHO a TRÁVNÍČKOVA; Prusíkova – terasa u nemovitosti č. 16/2577 (obchodní centrum); Sluneční náměstí – před radnicí Městské části Praha 13, zpevněná plocha mezi schodištěm pod radnicí a ul. V HŮRKÁCH; 3. ULICE A CHODNÍKY Stodůlky a Háje: 5. MÁJE ARMÁDY BAVORSKÁ DISMANOVA FLÖGLOVA FRIMLOVA HÁBOVA HÁJČÍ HARMONICKÁ HERANOVA HLUŠIČKOVA HOSTINSKÉHO CHALABALOVA JEREMIÁŠOVA JINDROVA K BRANCE
+
+K FIALCE K HÁJŮM K JASÁNKÁM K LUŽINÁM K OHRADĚ K VIDOULI K ZAHRÁDKÁM KÁLIKOVA KE GOLFU KE KALVÁRII KE KOH-I-NOORU KE KONSTRUKTIVĚ KE SKALCE KE STUDÁNCE KEJHOVA KELLNEROVA
+
+KLEČKOVA KLUKOVICKÁ KOCIÁNOVA KOPANINA KOVÁŘOVA KUNCOVA LÍŠNICKÁ LÝSKOVA MÁROVA MELODICKÁ MLÁDÍ MÜNZBERGEROVÝCH NA DOLNICI NA VLKU NA PŘÍVOZÍCH NÁROŽNÍ
+
+132
+
+NOVÁ KOLONIE OISTRACHOVA OKRUHOVÁ OPERETNÍ ORDOVICKÁ OSTŘICOVÁ PLZEŇSKÁ POD KULTURNÍM DOMEM POD VIADUKTEM POD VLKEM POD ZLIČÍNEM PŘED RYBNÍKEM
+
+PŘÍČKA ROZVADOVSKÁ SPOJKA SÁRSKÁ SMETÁČKOVA SYMFONICKÁ ŠAFRÁNKOVA TICHNOVA U CIKÁNKY U DÁLNICE U KAŠNY U MYDLÁRNY U PALOUČKU
+
+V BOROVIČKÁCH VACKOVA VE STROMOŘADÍ VLACHOVA VOLENÍKOVA VLASÁKOVA VSTAVAČOVÁ WIEDERMANNOVA ZA LUŽINAMI ZA MOTOTECHNOU ŽIVCOVÝCH
+
+Lužiny: AMFOROVÁ ARCHEOLOGICKÁ BELLUŠOVA BÖHMOVA BRDIČKOVA BRONZOVÁ FANTOVA HOLÝŠOVSKÁ
+
+HORÁKOVA CHLUPOVA KETTNEROVA KOLOVEČSKÁ MODRÁ MOHYLOVA MUKAŘOVSKÉHO NEÚSTUPNÉHO
+
+PÍŠKOVA PODPĚROVA SEZEMÍNSKÁ TRÁVNÍČKOVA U JEZERA ZÁZVORKOVA ZVONCOVITÁ
+
+Nové Butovice: BĚHOUNKOVA BLATTNÉHO BUCHAROVA DOMINOVA FINGEROVA HUSNÍKOVA
+
+KODYMOVA MEZI ŠKOLAMI NA ZLATĚ NUŠLOVA OVČÍ HÁJEK PETRŽÍLKOVA
+
+POD HRANICÍ ŘEPORYJSKÁ SEYDLEROVA SUCHÝ VRŠEK V HŮRKÁCH VOLUTOVA Malá Ohrada: DIABASOVA K SOPCE KE KLUBOVNĚ LIBĚŠICKÁ
+
+MUTĚNÍNSKÁ NA HVÍŽĎALCE PODOHRADSKÁ TLUMAČOVSKÁ
+
+U ALBRECHTOVA VRCHU VELICHOVSKÁ
+
+Velká Ohrada: ANNY RYBNÍČKOVÉ BAŠTECKÉHO BOROVANSKÉHO ČERVEŇANSKÉHO DRIMLOVA EBERLOVA HERČÍKOVA HILDY ČIHÁKOVÉ JANSKÉHO
+
+JAROSLAVA FOGLARA JITROCELOVÁ KARLA KRYLA KLAUSOVA KURZOVA NAD DALEJSKÝM ÚDOLÍM NETOUŠKOVA PAŘÍZKOVA
+
+PAVROVSKÉHO PETRBOKOVA PRUSÍKOVA PŘECECHTĚLOVA PŘEUČILOVA RAICHLOVA ROTAVSKÁ SMÍCHOVSKÁ STOLIČKOVA WONKOVA
+
+133
+
+Nová ves: K JIHU K NÁVRŠÍ K NOVÉ VSI K OPATŘILCE KŘEPELČÍ
+
+KUNÍ LIŠČÍ OPATŘILKA SOJČÍ SRNČÍ
+
+U DOBRÁKŮ V NOVÉ VSI ZAJEČÍ
+
+Třebonice: DRAHELČICKÁ HELSINSKÁ K CHABŮM K JINOČANŮM K NÁPLAVCE K ŘEPORYJÍM KE STUDNI
+
+MIREŠICKÁ NA KLÍNECH NAD BRŮDKEM OTAVOVA POD NÁPLAVKOU POD VRŠKEM PODLE LOMU
+
+PONCAROVA PRAŽSKÝ OKRUH SKANDINÁVSKÁ STOCKHOLMSKÁ U HASIČSKÉ ZBROJNICE V BRŮDKU Západní město a Britská čtvrť: BEKOVA BESSEMEROVA FRANTIŠKA JANEČKA HYNKA PUCE KECOVA
+
+KLEMENTOVA KUCHAŘOVA LAURINOVA MEDUNOVA SIEMENSOVA
+
+SVITÁKOVA ŠUSTALOVA WALDESOVA
+
+4. PARKY (mimo vodní plochy) Centrální park, Panská zahrada; 5. VEŘEJNÁ ZELEŇ sídlištní zeleň: Nové Butovice – zeleň ohraničená ul. POD HRANICÍ, JEREMIÁŠOVA, ŘEPORYJSKÁ, TICHNOVA, SCHWARZENBERSKÁ, PEKAŘSKÁ, BUCHAROVA, NÁROŽNÍ, POD KULTURNÍM DOMEM a ARMÁDY; Stodůlky – zeleň ohraničená ul. JEREMIÁŠOVA, LÝSKOVA, CHALABALOVA, POD VLKEM, MLÁDÍ, OISTRACHOVA; Lužiny – zeleň ohraničená ul. POD HRANICÍ, JEREMIÁŠOVA, MUKAŘOVSKÉHO, OISTRACHOVA, ARMÁDY, K ZAHRÁDKÁM a ARMÁDY; Luka – zeleň ohraničená ul. MUKAŘOVSKÉHO, OISTRACHOVA a JEREMIÁŠOVA; Velká Ohrada – zeleň ohraničená ul. TLUMAČOVSKÁ, ROTAVSKÁ, PAŘÍZKOVA, KARLA KRYLA, JITROCELOVÁ, KLAUSOVA, JANSKÉHO a TLUMAČOVSKÁ; K Ohradě – zeleň ohraničená ul. JITROCELOVÁ, JANSKÉHO, KARLA KRYLA, PETRBOKOVA, PAŘÍZKOVA, ROTAVSKÁ, TLUMAČOVSKÁ, JEREMIÁŠOVA a hranicí městské části Praha 13 (směr západ); Západní město – zeleň ohraničená komunikacemi JEREMIÁŠOVA, ROZVADOVSKÁ SPOJKA, STOCKHOLMSKÁ, K CHABŮM, K ŘEPORYJÍM a hranicí městské části Praha 13 s městskou částí Praha – Řeporyje; oblast rodinných domků:
+
+134
+
+Třebonice – zeleň ohraničená ul. K ŘEPORYJÍM, K CHABŮM, STOCKHOLMSKÁ, ROZVADOVSKÁ SPOJKA, PRAŽSKÝ OKRUH a hranicí městské části Praha 13 (směr jihozápad); Malá Ohrada – zeleň ohraničená ul. TLUMAČOVSKÁ, SMÍCHOVSKÁ, JEREMIÁŠOVA, K SOPCE, VELICHOVSKÁ, U ALBRECHTOVA VRCHU a DIABASOVA; Nová Ves – zeleň ohraničená ul. K OPATŘILCE, K JIHU, K NOVÉ VSI, K NÁVRŠÍ a KŘEPELČÍ; Nová kolonie – zeleň ohraničená ul. K ZAHRÁDKÁM a ARMÁDY; Lužiny – zeleň ohraničená ul. ARMÁDY, POD KULTURNÍM DOMEM, NÁROŽNÍ, BAVORSKÁ, JEREMIÁŠOVA, KOVÁŘOVA, VLACHOVA, HOSTINSKÉHO a OISTRACHOVA; Vidoule – zeleň ohraničená ul. BUCHAROVA, NÁROŽNÍ, BAVORSKÁ, JINDROVA, ZA MOTOTECHNOU a hranicí městské části Praha 13 (směr sever-železniční trať); Háje – zeleň ohraničená ul. PLZEŇSKÁ, 5. MÁJE, V BOROVIČKÁCH, ZA MOTOTECHNOU, KE KALVÁRII, KE GOLFU, K HÁJŮM, BAVORSKÁ a JEREMIÁŠOVA; Pod Zličínem - zeleň ohraničená ulicemi ROZVADOVSKÁ SPOJKA, JEREMIÁŠOVA, NA RADOSTI, SÁRSKÁ, KOPANINA; Chaby – zeleň ohraničená ulicemi JEREMIÁŠOVA, ROZVADOVSKÁ SPOJKA, STOCKHOLMSKÁ, K CHABŮM, K ŘEPORYJÍM a hranicí městské části Praha 13 s městskou částí Praha - Řeporyje; 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ schody, ochozy a partery u objektů: č. p. 1-3095; přístupové cesty a plochy u stanic metra (mimo prostory, které se na noc zamykají): Hůrka – zpevněné plochy mezi budovami č. p. 1435, 2514, 2540, 2562, 2563, 2568, 2569, 2588 a z druhé strany ohraničené zídkou se zábradlím nad nástupištěm metra podél tunelových průhledů do metra; Luka – chodby v budově metra a přilehlé zpevněné plochy mezi budovou metra a ulicí Mukařovského a budovou č. p. 2590, a lávka přes ulici Mukařovského; Lužiny – zpevněné plochy mezi stanicí metra a budovami č. p. 2256 a E23, E24, E25; Nové Butovice (východ) – zpevněné plochy mezi stanicí metra, ulicí Řeporyjská a Bucharova a budovami č. p. 1314, 1349, 2641a 2657; Nové Butovice (západ) – zpevněné plochy mezi stanicí metra, ulicí Seydlerova a budovami č. p. 2817, 2835 a podchod pod ulicí Bucharova; Stodůlky (východ) – podchod pod ulicí Jeremiášova; Stodůlky (západ) – vstupní hala v budově metra; nástupní ostrůvky a čekárny linkové osobní a hromadné veřejné dopravy na silnicích a místních komunikacích: ARMÁDY, BAVORSKÁ, BUCHAROVA, ČERVEŇANSKÉHO, JEREMIÁŠOVA, K ŘEPORYJÍM, MUKAŘOVSKÉHO, NÁROŽNÍ, OISTRACHOVA, PETRŽÍLKOVA, POD KULTURNÍM DOMEM, SKANDINÁVSKÁ, TLUMAČOVSKÁ; parkoviště před komerčními objekty
+
+135
+
+ARCHEOLOGICKÁ 2256, BAVORSKÁ 2666, BUCHAROVA 1186, HELSINSKÁ 166, JEREMIÁŠOVA 947, 1102, 1115, 1127, 1283, 2599, 2631, 2633, NÁROŽNÍ 1390, 1488, POD HRANICÍ 1304, SÁRSKÁ 133, SKANDINÁVSKÁ 131, 141, 144, 145, 162, TLUMAČOVSKÁ 2447, U JEZERA 2590; veřejná parkoviště napojená na ulice: AMFOROVÁ, ARCHEOLOGICKÁ, BĚHOUNKOVA, BELLUŠOVA, BÖHMOVA, BRONZOVÁ, FANTOVA, HÁBOVA, HOLÝŠOVSKÁ, HOSTINSKÉHO, CHALABALOVA, KETTNEROVA, KOLOVEČSKÁ, KOVÁŘOVA, LÝSKOVA, MODRÁ, MUKAŘOVSKÉHO, NÁMĚSTÍ NA LUŽINÁCH, NEUSTUPNÉHO, OVČÍ HÁJEK, PETRŽÍLKOVA, PÍŠKOVA, PŘECECHTĚLOVA, SÁRSKÁ, TRÁVNÍČKOVA, VACKOVA, VOLUTOVÁ, ZÁZVORKOVA, ZVONCOVITÁ.
+
+MĚSTSKÁ ČÁST PRAHA 14
+
+1. NÁMĚSTÍ KRČÍNOVO NÁM. LIPENSKÉ NÁM. MALŠOVSKÉ NÁM.
+
+NÁM. VE STARÉM HLOUBĚTÍNĚ PÁVOVSKÉ NÁM.
+
+2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství,
+
+3. ULICE A CHODNÍKY 9. KVĚTNA ALOISOVSKÁ ANDERLEHO ANNY ČÍŽKOVÉ ARNOŠTA VALENTY BABYLONSKÁ BAJGAROVA BARTOŇKOVA BAŠTÝŘSKÁ BEZDREVSKÁ BLATSKÁ BOBKOVA BODLÁKOVÁ BOJČENKOVA BOJÍNKOVÁ BOREČKOVA BORSKÁ BOŠILECKÁ BOUŘILOVA BRANSKÁ BRATŘÍ VENCLÍKŮ BREITCETLOVA BROUMARSKÁ BRYKSOVA BURDOVA
+
+CIDLINSKÁ CÍGLEROVA CÍRKVIČNÁ CVRČKOVA ČEŇKOVA ČERNIČNÁ ČERTOUSKÁ ČESKOBRODSKÁ DÁŘSKÁ DOBROVOLNÉHO DOLEŽALOVA DOUBECKÁ DŘÍNOVSKÁ DŘÍTENSKÁ DVOŘIŠŤSKÁ DYGRÝNOVA FARSKÁ FEDEROVA FEJFAROVA FRANTIŠKOVA FRONCOVA GEN. JANOUŠKA HAJNÍ HAMERSKÁ HEJTMANSKÁ
+
+HERDOVSKÁ HIMROVA HLAĎOVA HLINSKÁ HLOUBĚTÍNSKÁ HODĚJOVSKÁ HOLENSKÁ HOROUŠANSKÁ HORUSICKÁ HOSTAVICKÁ HRADEČKOVA HRUŠKOVSKÁ HŮRSKÁ HVOZDECKÁ CHLUMECKÁ CHVALETICKÁ CHVALSKÁ IRVINGOVA JAKUBOVSKÁ JAMSKÁ JANSOVA JAROSLAVICKÁ JEDNOSTRANNÁ JEZDOVICKÁ JÍCHOVA
+
+136
+
+JORDÁNSKÁ K HUTÍM K LUHU K MOTOTECHNĚ K ROKYTCE K VIADUKTU KAČÍNSKÁ KALIŠŤSKÁ KAMENCOVÁ KAŇOVSKÁ KARDAŠOVSKÁ KBELSKÁ KLÁNOVICKÁ KNÍNICKÁ KOBERKOVA KOCLÍŘOVA KOLBENOVA KONZUMNÍ KOSTLIVÉHO KPT. STRÁNSKÉHO KRČÍNOVO NÁMĚSTÍ KRYLOVECKÁ KUBAŠTOVA KUČEROVA KUKELSKÁ KUTTELWASCHEROVA KYJSKÁ LANGWEILOVA LÁNSKÁ LÁSENICKÁ LEDNICKÁ LIBLICKÁ LIPNICKÁ LITOŠICKÁ LOMNICKÁ LOUŽECKÁ LUCINKOVÁ LUŽNÍ MAKOVSKÁ MALŠOVSKÉ NÁMĚSTÍ MANSFELDOVA MANŽELŮ DOSTÁLOVÝCH MAŇÁKOVA MARŠOVSKÁ MATENSKÁ MEDLOVSKÁ METUJSKÁ MILOVICKÁ
+
+MÍLOVSKÁ MINAŘÍKOVA MOCHOVSKÁ MORUŠOVÁ NA OBRÁTCE NAD HUTĚMI NÁMĚSTÍ PLUKOVNÍKA VLČKA NÁMĚSTÍ ZDENKY BRAUNEROVÉ NÁSTROJÁŘSKÁ NEDOKONČENÁ NEDVĚDICKÁ NEHVIZDSKÁ NEŽÁRSKÁ NOVOZÁMECKÁ OBJÍZDNÁ OBORSKÁ OCELKOVA OKRAJOVÁ OKROUHLÍKOVA OSETÁ OSICKÁ OVSÍKOVÁ PACULOVA PÁDOVSKÉ NÁMĚSTÍ PANENSKÁ PASECKÁ PELUŠKOVÁ PILSKÁ PÍSČITÁ PLUMLOVSKÁ POD TURNOVSKOU TRATÍ PODĚBRADSKÁ PODEDVORSKÁ PODLIŠOVSKÁ POŘÍČANSKÁ POSPÍCHALOVA POSTLOVA POSTŘIŽÍNSKÁ PRELÁTSKÁ PRŮMYSLOVÁ PŮDOVA PÝROVÁ RADOVSKÁ ROCHOVSKÁ ROLNÍ RONEŠOVA ROTENSKÁ
+
+ROŽMBERSKÁ ŘÍMOVSKÁ SADSKÁ SÁDOVSKÁ SICHEROVA SKLENSKÁ SKORKOVSKÁ SKRYJSKÁ SLAVATOVA SLÉVAČSKÁ SMIKOVA SOUSTRUŽNICKÁ SPLAVNÁ SPOLSKÁ STAŇKOVSKÁ STROPNICKÁ STRUŽKY STRUŽNÁ STULÍKOVA STUPSKÁ SVATOJÁNSKÁ SVÁROVSKÁ SVÉPRAVICKÁ SVĚTSKÁ SÝKOVECKÁ ŠEBELOVA ŠEDOVA ŠEMBEROVA ŠESTAJOVICKÁ ŠIMANOVSKÁ ŠROMOVA ŠTOLMÍŘSKÁ ŠVESTKOVÁ TÁLINSKÁ TĚRLICKÁ TOVAROVA TRAVNÁ TRYTOVA TŘEŠŇOVÁ U HOSTAVICKÉHO POTOKA U JAMSKÉ U JÁRKU U RYBNÍKA U SLAVOJE U TECHNOPLYNU V HUMENCI V CHALOUPKÁCH V NOVÉM HLOUBĚTÍNĚ
+
+137
+
+V RÁJI VAJGARSKÁ VAŇKOVA VAŠÁTKOVA VČELNIČNÁ VELKOBORSKÁ VIDLÁK VIZOVICKÁ VÍRSKÁ VIZÍRSKÁ VLČKOVA
+
+VLKOVICKÁ VODŇANSKÁ VOKŘÍNSKÁ VOLKOVA VRANOVSKÁ VYBÍRALOVA VÝCHODNÍ SPOJKA ZA ČERNÝM MOSTEM ZA HOROU ZA ROKYTKOU ZA ŠKOLOU
+
+ZACHARSKÁ ZALINSKÁ ZÁBLATSKÁ ZÁLUŽSKÁ ZÁMEČNICKÁ ZDOBNICKÁ ZELENEČSKÁ ZVÍKOVSKÁ ŽÁRSKÁ ŽEHUŇSKÁ ŽELIVSKÁ 4. PARKY Centrální park Černý Most k. ú. Černý Most (č. parc.) 221/276 221/279 221/280 221/281 221/425 771 5. VEŘEJNÁ ZELEŇ k. ú. Kyje (č. parc.) 2 45 69 221 355 377
+
+674 1269 1352/3 1352/5 1352/7 1476
+
+1695/1 1901/1 1964/1 2252 2378 2588/3
+
+2590/4 2591/2 2591/3 2591/4 2653/14 2725/2
+
+2758/2 2764/2
+
+k. ú. Hostavice (č. parc.) 145 569 740/1 921/31 921/32 925 926 929 941 975 k. ú. Černý Most (č. parc.) 5/1 5/3 5/7 5/9 5/12 5/14 5/16 5/17 5/18 5/19 5/20 5/21 5/25 5/30 5/32 13/1 22/329 38 40
+
+42 48 49 59 60 73/2 73/3 73/4 77 78 79 80 82 84/1 84/2 92 93 99 117
+
+118/2 118/3 119/1 130 131 133 134 135 136 137 138 139 141/1 141/2 141/3 141/4 141/5 142 143
+
+144 147 148 149 150 151 152 153 154 156 159 159/1 159/2 159/3 159/5 160 161 163 164
+
+165 166 167/2 167/3 168/1 168/2 170 170/2 172 173 174 215/3 221 221/11 221/66 221/86 221/89 221/95 221/97
+
+138
+
+221/100 221/101 221/103 221/178 221/179 221/194 221/195 221/197 221/198 221/218 221/227 221/228 221/249 221/250 221/268 221/269 221/270 221/271 221/272 221/273 221/276 221/278 221/281 221/282 221/286 221/289 221/292
+
+221/296 221/297 221/299 221/300 221/307 221/317 221/320 221/330 221/334 221/335 221/346 221/349 221/350 221/354 221/355 221/357 221/359 221/361 221/367 221/370 221/371 221/372 221/373 221/374 221/376 221/383 221/384
+
+221/386 221/405 221/406 221/407 221/417 221/420 221/425 221/427 221/428 221/435 221/436 221/444 221/446 221/447 221/449 221/461 221/463 221/464 221/468 221/473 221/474 221/476 221/490 221/531 221/532 221/546 221/549
+
+221/557 221/567 221/585 221/683 232/2 232/7 232/41 232/80 232/82 232/87 232/90 232/131 232/155 232/156 232/161 232/172 232/175 232/176 232/177 232/178 232/179 232/180 232/181 232/182 232/183 232/185 232/186
+
+232/187 232/188 232/189 232/190 232/207 232/243 232/244 232/331 232/332 232/483 232/563 232/616 232/682 232/683 232/698 232/829 233/1 233/8 256 259/2 2756/11 2756/19 2866
+
+k. ú. Hloubětín (č. parc.) 2 10 34/2 47 48 72 72/1 75 79/1 257/1 257/15 263/4 263/5 355/2 512/1 514 545/5 566/50 566/71 566/75 566/105
+
+566/106 566/107 594/3 625 630/2 630/3 656 675/8 685 708/1 708/25 708/32 708/33 708/34 708/35 722/1 733 734/3 735/3 742 746
+
+768 782/1 782/21 782/25 782/28 782/29 782/30 782/36 782/38 782/40 782/42 784/3 785 792 795 798 807/1 825/3 831/1 831/3 831/123
+
+837/1 837/2 838/1 965 1059 1060 1061/1 1061/2 1067 1069/4 1070/2 1072/142 1072/150 1072/158 1072/159 1072/161 1072/166 1072/168 1072/169 1072/170 1072/171
+
+1072/172 1072/175 1072/182 1072/185 1072/188 1072/190 1072/191 1072/192 1072/194 1072/195 1072/196 1072/197 1073 1204/1 1240/14 1240/15 1240/16 1241/1 1242 1243 1248/3
+
+139
+
+1249/2 1249/5 1249/11 1249/31 1267/2 1288/1 1288/2 1288/3 1288/8 1288/10 1288/11 1288/12 1288/15 1288/16 1288/20 1288/39 1291/1 1291/4 1291/6
+
+1291/7 1291/8 1292/1 1295 1295/1 1296 1298 1389/3 1637/3 1650 1713 1714 1736 1753/5 1753/6 1761/3 1773/2 1781/1 2118/1
+
+2127 2480/11 2526/7 2541/5 2541/6 2560/1 2560/2 2582/3 2582/13 2584/2 2597/44 2597/45 2608/2 2631/1 2631/2 2631/3 2631/4 2631/5 2631/6
+
+2631/9 2645 2646 2648 2650 2652 2658 2659/1 2659/3 2661 2663 2678/1 2678/4 2680/1 2680/3 2680/6 2680/8 2690/1 2690/2
+
+2690/3 2690/7 2690/9 2690/11 2691/1 2691/2 2691/3 2698/1 2698/3 2698/5 2698/8 2698/10 2698/12 2698/14 2700 2701 2706 2728
+
+k. ú. Hostavice (č. parc.) 740/1 883 921/1
+
+942/1 947 948
+
+949 974 978/7
+
+978/10 978/21 978/29
+
+978/30 978/34 983 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ přístupové cesty a plochy u stanic metra mimo prostor, které se na noc zamykají: Černý Most – část pozemku parc. č. 232/2, k. ú. Černý Most mezi stanicí metra a Bryksovou ulicí; Hloubětín - parc. č. 1072/147, parc. č. 1072/173, k. ú. Hloubětín; Rajská Zahrada - parc. č. 72/2, parc. č. 72/3, k. ú. Černý Most; ostatní: podloubí v ulici MOCHOVSKÁ č. p. 478/40 na pozemku parc. č. 1072/148, k. ú. Hloubětín; prostranství u protihlukové zdi v ulici ROŽMBERSKÁ, parc. č. 765/35, k. ú. Kyje; prostranství navazující na vstup do objektu č. p. 689 v ulici CHVALSKÁ, parc. č. 739, k. ú. Hloubětín; veřejné hřiště na křižovatce ulic BRYKSOVA a OCELKOVA, parc. č. 232/701, k. ú. Černý Most; veřejné hřiště na křižovatce ulic BRYKSOVA a VYBÍRALOVA, parc. č. 232/749, k. ú. Černý Most; plocha u vodní nádrže Aloisov u ulice POSPÍCHALOVA, parc. č. 221/277, k. ú. Černý Most; prostranství u ulice HLOUBĚTÍNSKÁ, parc. č. 793/1 a parc. č. 2499/12, k. ú. Hloubětín; u konečné stanice metra Černý Most parc. č. 232/689, 232/691, 305, 306, 607 a 491, vše v k. ú. Černý Most; u stanice metra Rajská Zahrada parc. č. 72/4, 72/5 a 72/6, vše v k. ú. Černý Most; u stanice metra Hloubětín parc. č. 782/7, 782/41, 1072/151, 1072/157, 1072/160, 1072/183 a 1072/256, vše v k. ú. Hloubětín.
+
+MĚSTSKÁ ČÁST PRAHA 15
+
+140
+
+1. NÁMĚSTÍ HOSTIVAŘSKÉ NÁM. KOZINOVO NÁM. NÁM. PŘÁTELSTVÍ
+
+TRHANOVSKÉ NÁM. VERONSKÉ NÁM.
+
+2. TRŽIŠTĚ VERONSKÉ NÁM., parc. č. 523/705, 491/1, 491/40 a 491/41 v k. ú. Horní Měcholupy; mezi ul. MILÁNSKÁ a HOLOUBKOVSKÁ parc. č. 523/883 v k. ú. Horní Měcholupy; 3. ULICE A CHODNÍKY ATÉNSKÁ AZALKOVÁ BĚLINSKÉHO BERLÍNSKÁ BOLEVECKÁ BOLOŇSKÁ BRATISLAVSKÁ BRUMOVICKÁ BRUSLAŘSKÁ BUDAPEŠŤSKÁ ČERNOKOSTELECKÁ ČERNYŠEVSKÉHO DAČICKÁ DALIBOROVA DOBROPOLSKÁ DOBŘÍKOVSKÁ DOLNOMĚCHOLUPSKÁ DOMKÁŘSKÁ DOUPOVSKÁ DRTIKOLOVA DUBSKÁ DÝŠINSKÁ EJPOVICKÁ ELIŠKY JUNKOVÉ EVY OLMEROVÉ GERCENOVA GOLFOVÁ HÁKOVA HERBENOVA HLEDÍKOVÁ HOKEJOVÁ HOLOUBKOVSKÁ HORNOMĚCHOLUPSKÁ HOROLEZECKÁ HOSTIŠOVSKÁ HOSTIVAŘSKÁ CHALUPNICKÁ CHUDENICKÁ JANOVSKÁ
+
+JAROMĚŘSKÁ JIŽNÍ SPOJKA K HORKÁM K HRUŠOVU K JEZERU K LESOPARKU K MĚCHOLUPŮM K OBECNÍM HÁJOVNÁM K PÉROVNĚ KAROSÁŘSKÁ KAZNĚJOVSKÁ KE KABLU KOBYLÁKOVA KOZINOVA KOZMÍKOVA KOŽLANSKÁ KŘIMICKÁ KUBÁTOVA KUNICKÁ KYTÍNSKÁ LIBKOVSKÁ LIVORNSKÁ LOCHOTÍNSKÁ LOUČIMSKÁ LYŽAŘSKÁ MANTOVSKÁ MEZI POTOKY MILÁNSKÁ MIRANOVA MODENSKÁ MRAČNICKÁ MYŠLÍNSKÁ NA GROŠI NA KAMENI NA KOŠÍKU NA KOZINCI NA KŘEČKU NA PLÍSKAVĚ
+
+NA SEDLIŠTI NA VLASTNÍ PŮDĚ NA ZKRATCE NAD BOTIČEM NAD KOŠÍKEM NAD PŘEHRADOU NEAPOLSKÁ NOVARSKÁ OPRAVÁŘSKÁ OVESNÁ PADOVSKÁ PARMSKÁ PLUKOVNÍKA MRÁZE POD PLÍSKAVOU POD PRŮSEKEM POD STANICÍ POD ŠTĚPEM POD VARTOU POPLUŽNÍ POSLEDNÍ PRÁČSKÁ PRAŽSKÁ PROTI PROUDU PRŮMYSLOVÁ PŘEŠTICKÁ PŘIBÍKOVA PURKRABSKÁ R. A. DVORSKÉHO RABAKOVSKÁ RADIOVÁ RAVENNSKÁ RIŽSKÁ RYCHTÁŘE PETŘÍKA ŘEPČICKÁ SÁŇKAŘSKÁ SELSKÁ SKLÁŘSKÁ SODOMKOVA STADICKÁ
+
+141
+
+STAVOVSKÁ STRAŠNICKÁ SUDKOVA ŠAFÁŘOVA ŠTĚRBOHOLSKÁ ŠVEHLOVA TENISOVÁ TESAŘÍKOVA TURÍNSKÁ U BRANEK U BŘEHU U DVOJDOMŮ U GOLFU U HOSTIVAŘSKÉHO NÁDRAŽÍ
+
+U HOSTIVAŘSKÉ NÁDRŽE U KABELOVNY U KOŠÍKU U PEKÁREN U POTOKA U PRŮSEKU U STATKU U ŠTĚPU U TOVÁREN V ALEJI V CHOTEJNĚ V NOVÉ ČTVRTI V NOVÉ HOSTIVAŘI V NOVÝCH DOMCÍCH
+
+VAJDOVA VESLAŘSKÁ VLADYCKÁ WEILOVA ZA ZASTÁVKOU ZA BOTIČEM ZA DRAHOU ZA KAČABKOU ZÁPASNICKÁ ZÁPOTOČNÍ ZÁVESKÁ ZEMSKÉ PRÁVO
+
+4. PARKY Park NA PLÍSKAVĚ, č. parc. 366/1, 366/2, 366/3, 366/4, 367/1, 371/5, 371/6 v k. ú. Hostivař; 5. VEŘEJNÁ ZELEŇ k. ú. Hostivař (č. parc.) vyjma oplocených částí: 88/1 299/1 300 304/1 314/1 314/2 370/25 402/1 402/9 467 468 470/1 471 472/2 491/2 500 501 504/1 504/10 504/11 504/12 504/13 504/46 511 689/1 689/2 689/3 689/4
+
+689/5 689/6 689/7 689/8 689/10 689/11 710/2 1185/3 1186 1224/1 1224/2 1224/4 1225 1368/1 1442/1 1442/2 1442/5 1442/6 1442/8 1446/1 1740/24 1740/29 1740/30 1740/41 1740/43 1740/44 1740/69 1740/70
+
+1740/71 1740/72 1740/73 1740/75 1740/76 1740/77 1740/79 1740/80 1740/88 1761/58 1761/59 1761/60 1761/61 1761/62 1761/75 1761/76 1761/77 1761/79 1761/83 1761/84 1761/85 1761/92 1761/93 1761/150 1761/156 1761/163 1761/165 1761/371
+
+1763/2 1763/3 1766/1 1766/12 1766/13 1766/15 1766/16 1766/18 1766/19 1766/28 1766/29 1766/33 1767/1 1767/8 1767/15 1767/16 1767/17 1767/18 1767/20 1767/21 1767/22 1778 1779/2 1780/2 1781/1 1781/2 1782/1 1785/3
+
+1811 1812/1 1818/34 1818/97 1818/110 1818/119 1818/120 1818/121 1818/123 1818/125 1818/128 1818/129 1818/131 1818/132 1818/133 1818/135 1818/137 1818/139 1818/142 1818/143 1818/144 1818/145 1818/146 1818/147 1818/149 1818/151 1818/152 1818/153
+
+142
+
+1818/154 1818/156 1818/157 1818/159 1818/160 1818/162 1818/165 1818/166 1818/167 1818/170 1818/171 1818/201 1818/204 1818/236 1818/256 1818/263 1818/340 1818/360 1818/367 1818/368 1818/369 1818/371 1832/3 2229/2
+
+2229/3 2234/2 2237 2240/1 2404/6 2405/57 2413/1 2413/28 2413/30 2413/31 2413/41 2413/53 2413/54 2413/58 2413/64 2413/65 2413/66 2414/1 2416/15 2416/16 2423/3 2423/4 2423/5 2423/17
+
+2423/18 2423/19 2423/27 2423/28 2423/35 2423/36 2444/2 2445/3 2445/4 2445/5 2450/1 2450/8 2455 2580/1 2582/5 2583 2663/3 2741/19 2741/21 2741/27 2741/40 2741/42 2742/1 2742/45
+
+2742/46 2742/47 2742/49 2742/60 2742/86 2742/87 2742/93 2743 2753/1 2753/18 2753/19 2757/1 2757/2 2757/4 2758/9 2761/9 2762/1 2763/12 2763/15 2763/18 2763/19 2763/20 2763/23 2770/14
+
+2770/15 2770/17 2770/19 2770/22 2770/25 2770/27 2770/28 2770/32 2770/35 2770/41 2770/44 2770/45 2770/47 2770/51 2770/52 2770/58 2770/60 2775/5 2775/6 2775/7 2775/8 2776/2 2776/3 2776/7 k. ú. Horní Měcholupy (č. parc.) vyjma oplocených částí: 315/1 315/2 491/1 491/29 491/34 491/40 491/42 491/43 508/2 508/4 509/1 509/2 509/69 509/72 509/73 509/88 509/89 509/90 509/91 509/93 509/97 509/98 509/133 509/168
+
+509/170 509/171 509/172 509/173 509/174 509/175 509/199 509/203 509/218 509/219 509/220 509/221 509/222 509/223 509/224 509/229 509/233 509/238 509/240 509/241 509/242 509/244 509/246 509/252
+
+509/256 509/257 509/259 509/261 509/263 509/267 509/268 509/269 509/270 509/271 509/276 509/277 509/281 509/284 509/286 509/287 509/304 509/308 509/310 510/1 510/3 510/4 510/6 511/11
+
+511/31 512/1 512/4 512/8 512/19 512/21 512/22 523/11 523/14 523/24 523/26 523/28 523/30 523/32 523/34 523/36 523/38 523/40 523/42 523/44 523/56 523/57 523/59 523/61
+
+523/63 523/65 523/67 523/69 523/71 523/73 523/75 523/77 523/81 523/88 523/89 523/90 523/91 523/92 523/93 523/94 523/95 523/97 523/100 523/101 523/102 523/105 523/106 523/107
+
+143
+
+523/109 523/116 523/118 523/120 523/122 523/135 523/136 523/137 523/139 523/141 523/143 523/145 523/147 523/148 523/149 523/151 523/153 523/155 523/157 523/159 523/162 523/164 523/167 523/178 523/179 523/180 523/182 523/184 523/186 523/199 523/200 523/201 523/204 523/212 523/213 523/214 523/224 523/227 523/228 523/230 523/232 523/233 523/235 523/236 523/237 523/240 523/241 523/246 523/248 523/257
+
+523/258 523/263 523/264 523/266 523/270 523/274 523/275 523/278 523/279 523/281 523/284 523/287 523/288 523/290 523/291 523/292 523/294 523/296 523/297 523/302 523/303 523/305 523/306 523/307 523/331 523/332 523/333 523/334 523/335 523/406 523/407 523/425 523/426 523/427 523/428 523/431 523/439 523/451 523/453 523/455 523/469 523/470 523/477 523/478 523/479 523/480 523/481 523/483 523/484 523/488
+
+523/489 523/519 523/524 523/525 523/545 523/546 523/547 523/548 523/558 523/563 523/564 523/569 523/570 523/571 523/581 523/582 523/589 523/590 523/593 523/597 523/600 523/602 523/603 523/605 523/606 523/638 523/639 523/640 523/641 523/692 523/695 523/697 523/698 523/700 523/701 523/705 523/709 523/714 523/715 523/723 523/739 523/742 523/883 523/884 523/885 523/886 523/887 525/2 530/1 530/3
+
+531 538/1 538/4 538/17 538/18 538/20 544/33 544/49 545/1 545/2 545/3 545/4 551/4 551/5 551/8 555/3 571 584/2 594/5 600/1 600/2 600/3 600/4 601/1 601/7 601/14 601/15 601/47 601/55 601/78 601/86 601/88 601/91 601/96 601/98 601/100 601/102 601/106 601/107 601/109 601/114 601/119 601/120 601/126 601/127 601/130 601/132 601/133 601/135 601/137
+
+601/139 601/140 601/145 623/10 623/17 630/1 630/2 630/7 633 634 635 636 753 755 756 757 758 759 760 761 762 763 764 765 766 767 768 769 770 771 772 774 775 776 777 778 779 780 781 782 783 784 785 786 787 788 789 790 791 792
+
+144
+
+793 794 795 796 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ ostatní:
+
+k. ú. Hostivař (č. parc.)
+
+109/1 118/3 120/3 155/2 281 370/25 370/32 370/37 370/40 370/57 370/61 370/127 370/128 370/172 370/173 370/176 370/181 370/188 370/214 370/215 370/216 370/221 370/226 370/238 370/239 370/252 370/268 370/270 370/271 370/272 370/273 370/785 504/11 504/42 504/47 504/69 553/1 652 666 1568/20 1568/22 1568/90
+
+1570/1 1613/1 1613/3 1740/41 1740/62 1740/68 1740/69 1740/73 1761/182 1761/191 1769/1 1818/89 1818/97 1818/102 1818/103 1818/104 1818/117 1818/124 1818/126 1818/127 1818/129 1818/130 1818/131 1818/132 1818/133 1818/135 1818/137 1818/139 1818/141 1818/143 1818/146 1818/147 1818/148 1818/150 1818/151 1818/152 1818/153 1818/155 1818/156 1818/157 1818/158 1818/160
+
+1818/161 1818/166 1818/171 1818/184 1818/202 1818/204 1818/206 1818/234 1818/236 1818/239 1818/240 1818/247 1818/248 1818/249 1818/251 1818/253 1818/263 1818/265 1818/266 1818/268 1818/269 1818/270 1818/271 1818/273 1818/274 1818/275 1818/276 1818/278 1818/279 1818/280 1818/287 1818/294 1818/310 1818/312 1818/313 1818/329 1818/330 1818/331 1818/332 1818/333 1818/334 1818/335
+
+1818/336 1818/337 1818/342 1818/351 1818/352 1818/370 1818/371 1818/386 1818/387 1818/392 2393 2402 2404/6 2413/1 2413/28 2413/50 2413/53 2413/55 2413/74 2413/78 2414/1 2414/16 2416/15 2416/20 2416/30 2416/31 2416/34 2416/37 2416/46 2416/61 2416/65 2416/67 2416/69 2416/77 2423/3 2441/1 2445/3 2445/7 2445/8 2453 2539/2 2539/9
+
+2539/10 2656/1 2663/1 2671 2699/2 2707/1 2707/7 2725/14 2728 2741/19 2741/21 2741/23 2741/26 2741/27 2741/30 2741/31 2741/43 2742/19 2742/20 2742/45 2742/46 2742/47 2742/49 2742/57 2742/58 2742/59 2742/101 2742/118 2753/1 2753/18 2753/22 2753/27 2753/35 2753/36 2761/9 2762/8 2772/1 2772/2 2773/1 2773/2 2776/1
+
+145
+
+k. ú. Horní Měcholupy (č. parc.): 491/1 491/31 491/33 491/40 491/41 491/42 491/43 508/3 509/1 509/69 509/87 509/93 509/94 509/95 509/129 509/137 509/168 509/169 509/175 509/178 509/199 509/203 509/219 509/220 509/222 509/223 509/232 509/245 509/250 509/252 509/258 509/278 509/280 509/290 509/299 509/307
+
+510/1 510/6 510/8 510/12 511/8 511/9 511/31 511/39 511/55 511/56 511/103 511/104 511/124 512/6 512/8 512/13 512/20 523/11 523/78 523/81 523/82 523/99 523/103 523/108 523/109 523/120 523/121 523/162 523/165 523/180 523/181 523/182 523/189 523/193 523/199 523/212
+
+523/215 523/216 523/227 523/228 523/229 523/232 523/234 523/235 523/236 523/239 523/242 523/243 523/244 523/245 523/246 523/247 523/275 523/278 523/279 523/280 523/284 523/285 523/286 523/288 523/290 523/293 523/294 523/296 523/297 523/301 523/302 523/305 523/309 523/385 523/402 523/405
+
+523/406 523/407 523/432 523/478 523/545 523/560 523/562 523/563 523/564 523/585 523/586 523/591 523/592 523/593 523/600 523/627 523/639 523/640 523/672 523/701 523/702 523/704 523/705 523/715 523/723 523/767 523/773 523/774 523/775 523/776 523/777 523/778 523/798 523/800 523/883 538/7
+
+538/8 538/9 538/35 544/42 544/48 544/51 544/72 545/1 551/7 551/8 554 555/2 598 601/1 601/16 601/55 601/57 601/90 601/93 601/99 601/105 601/107 601/124 601/136 601/232 623/1 635 636 637/1 753 775 797
+
+MĚSTSKÁ ČÁST PRAHA 16
+
+1. NÁMĚSTÍ HORYMÍROVO NÁM. NÁM. OSVOBODITELŮ
+
+NÁM. SV.  PETRA A PAVLA
+
+2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3.  ULICE A CHODNÍKY
+
+146
+
+ACHÁTOVÁ AMETYSTOVÁ BÝŠOVSKÁ ČASTONICKÁ ČEDIČOVÁ DEHTÍNSKÁ FELBEROVA GRAFITOVÁ HADRAVSKÁ CHATOVÁ CHROBOLSKÁ JARKOVSKÁ JARMILY NOVOTNÉ JASPISOVÁ JAVOŘICKÁ JELENOVSKÁ JEŽDÍKOVA JOSEFA KOČÍHO K BEROUNCE K CEMENTÁRNĚ K LÁZNÍM K PŘÍVOZU K VIŠŇOVCE KALABISOVA KARLICKÁ KE ZDĚŘI KEJNICKÁ KOLOVÁ KRASLICKÁ LEDVICKÁ LOŠETICKÁ LOUČANSKÁ MACHÁČKOVA
+
+MATĚJOVSKÉHO MINERÁLNÍ NA BENÁTKÁCH NA BETONCE NA CIKÁNCE NA KRUPIČÁRNĚ NA RYMÁNI NA ŘÍHÁKU NA VINIČKÁCH NA VÝŠINCE NAD BEROUNKOU NÝRSKÁ NÝŘANSKÁ OTĚŠÍNSKÁ OTÍNSKÁ PLÁNICKÁ POD KLAPICÍ POD LAHOVSKOU POD VELKÝM HÁJEM PRVOMÁJOVÁ PŘEŠTÍNSKÁ PŘÍBRAMSKÁ RADOTÍNSKÁ RADKOVSKÁ SAFÍROVÁ SÍDLIŠTĚ SLAVIČÍ SLINKOVÁ SOBĚTICKÁ SOLNÁ STADIONOVÁ STAŇKOVKA STRÁŽOVSKÁ
+
+STRUNKOVSKÁ ŠÁROVO KOLO ŠTĚRKOVÁ TACHOVSKÁ TOPASOVÁ TÝŘOVICKÁ U DRÁŽKY U JANKOVKY U SANATORIA U STARÉHO STADIONU U UČILIŠTĚ U VÁPENKY U VINIČEK V EDENU V PARNÍKU V SUDECH VÁCLAVA BALÉHO VÁPENNÁ VĚŠTÍNSKÁ VINDYŠOVA VINOHRADY VOJETICKÁ VRÁŽSKÁ VYKOUKOVÝCH VÝPADOVÁ ZADOVSKÁ ZBYNICKÁ ZDERAZSKÁ ZDICKÁ ZÍTKOVA ŽIVCOVÁ
+
+4. PARKY park U Koruny, č. parc. 941, 942/1, 929 v k. ú. Radotín, park při ulici Václava Balého, č. parc. 1404/1, 1404/2, 1420/1, 1420/2, 1420/3 v k. ú. Radotín, park při ulici K Lázním, č. parc. 2552/1 v k. ú. Radotín, park při ulici V Parníku, č. parc. 163/14, 163/15 v k. ú. Radotín, park Fontána, č. parc. 336/1, 336/2, 336/4, 336/5 v k. ú. Radotín, park Místo u řeky, č. parc. 3, 1434/1, 2514, 2540 v k. ú. Radotín; 5. VEŘEJNÁ ZELEŇ sídlištní zeleň: k. ú. Radotín (č. parc.) 341 342/2 342/5 342/6 342/7
+
+342/8 342/9 343/3 347/2 347/3
+
+357/30 357/31 357/35 357/41 357/42
+
+1102/3 1102/5 1106/1 1107 1108/1
+
+1108/19 1108/20 1108/21 1108/22 1108/23
+
+147
+
+1108/24 1108/25 1108/26 1108/28 1108/29 1108/139
+
+1108/143 1108/144 1108/145 1108/146 1108/158 1108/159
+
+1108/163 1108/165 1108/169 1111/2 1111/3 1111/12
+
+1111/16 1106/1 1118/2 2505/5 2644/4 2644/6
+
+2644/7 2889/4
+
+ostatní: k. ú. Radotín (č. parc.) 226/1 338 1110/3 1435
+
+1501/2 1502/2 1512 1533
+
+1717/1 1721/1 1860/2 2514
+
+2540 2720 2721 2778/1
+
+2779/2 2783
+
+6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ veřejné parkoviště a manipulační plochy: U Ondřeje, č. parc. 95/1 v k. ú. Radotín; u železničního mostu, č. parc. 1316 v k. ú. Radotín; Vinohrady, č. parc. 404 v k. ú. Radotín; u nádraží ČD, č. parc. 528/2, 528/10 v k. ú. Radotín; u sportovní haly, č. parc. 1269/1, 1318/1, 1318/6, 2555/9 v k. ú. Radotín; nám. Osvoboditelů, č. parc. 340, 341, 342/1, 357/1, 357/32, 357/38 v k. ú. Radotín; při ulici Zderazská, č. parc. 1042 v k. ú. Radotín; ostatní ulice a veřejné cesty: NN0801 – schody V Edenu, NN0802 – cyklostezka kolem potoka, NN0805 – schody Na Říháku; NN0809 – schody Strážovská, NN0820 – schody Na Viničkách, NN0815 – cesta k hřbitovu Na Pískách, NN1970 - schody Kolová, NN1971 – cesta kolem vodárny, NN1974 – cesta Na Viničkách, NN1975 – chodník Sídliště, NN1981 – cesta přes vlečku, NN1982 – slepá Věštínská, NN1983 – terminál BUS, NN1984 – cesta pod Starým hřbitovem, NN2589 – cesta Na Pískách, NN3531 – cesta U Starého stadionu, NN3535 – cesta u parkoviště P+R, NN4745 – samostatní chodník nám. Osvoboditelů, NN4946 – cesta k objektu č. p. 282, NN7278 – cesta kolem Urnového háje; cyklostezka a cyklotrasa okolo Berounky NN0824, NN4488, NN7055, NN7056, NN7239 lávka přes Berounku NN 3154; hřiště a sportoviště: dětské hřiště Sídliště, č. parc. 1108/19 v k. ú. Radotín; dětské hřiště nám. Osvoboditelů (U potoka), č. parc. 357/35 v k. ú. Radotín; dětské hřiště nám. Osvoboditelů (Pryžová plocha), č. parc. 357/35 v k. ú. Radotín; dětské hřiště nám. Osvoboditelů (Na Kopečku), č. parc. 357/35 v k. ú. Radotín; dětské hřiště Jarmily Novotné, č. parc. 2087/91 v k. ú. Radotín; dětské hřiště U Ondřeje, č. parc. 95/1 v k. ú. Radotín; víceúčelové sportoviště Sídliště, č. parc. 1108/19 v k. ú. Radotín; víceúčelové sportoviště nám. Osvoboditelů, č. parc. 357/35 v k. ú. Radotín; víceúčelové sportoviště Radkovská, č. parc. 2087/79 v k. ú. Radotín; fitpark, č. parc. 1435 v k. ú. Radotín; skatepark - Beton, č. parc. 1110/6 v k. ú. Radotín;
+
+148
+
+skatepark - Ocel, č. parc. 1269/1 v k. ú. Radotín.
+
+MĚSTSKÁ ČÁST PRAHA 17 1. NÁMĚSTÍ není stanoveno žádné veřejné prostranství, 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY AUGUSTOVA BAZOVSKÉHO BENDOVA BORŠOVSKÁ BRUNNEROVA BŘEZANOVA ČISTOVICKÁ DOBNEROVA DOUBRAVÍNOVA DRAHOŇOVSKÉHO ENGELMULLEROVA GALANDOVA GALLAŠOVA HANKOVA HEKOVA HOFBAUEROVA HOŘOVSKÉHO JIRÁNKOVA K MOHYLE K MOSTKU K MOTOLU K ŠANCÍM K TRNINÁM KARLOVARSKÁ
+
+KARTOUNÁŘŮ KE KAMÉNCE KE KULTURNÍMU DOMU KOLÍNOVA KRISTIÁNOVA KROLMUSOVA KUTROVICKÁ LAUDOVA MAKOVSKÉHO MRKVIČKOVA NA BĚLOHORSKÉ PLÁNI NA FIALCE I NA FIALCE II NA HŮRCE NA CHOBOTĚ NA MOKLINĚ NEVANOVA OPUKOVÁ OTLÍKOVSKÁ PLZEŇSKÁ PODKRKONOŠSKÝCH TKALCŮ
+
+POD MARTINEM PREFÁTOVA REINEROVA ŘEPSKÁ ŘETĚZOKOVÁŘŮ SELSKÝCH BATERIÍ SEVERÝNOVA SKUTECKÉHO SLÁNSKÁ SOCHÁŇOVA SOUČKOVA ŠEDIVÉHO ŠIMONOVA ŠÍMOVA ŠPANIELOVA TŘANOVSKÉHO U BOROVIČEK U KAMÉNKY VONDROUŠOVA ZÍVROVA ZLIČÍNSKÁ ZRZAVÉHO ŽALANSKÉHO ŽUFANOVA 4. PARKY není stanoveno žádné veřejné prostranství, 5. VEŘEJNÁ ZELEŇ uliční a sídlištní zeleň a jiné plochy funkční a rekreační zeleně: k. ú. Řepy (č. parc.) 2 6/1 12/1 62/3 342/6 346 391/21
+
+393/23 1142/67 1142/72 1142/73 1142/77 1142/84 1142/88
+
+1142/89 1142/101 1142/102 1142/107 1142/109 1142/110 1142/112
+
+1142/113 1142/115 1142/223 1142/224 1142/234 1142/235 1142/236
+
+1142/237 1142/238 1142/240 1142/242 1142/243 1142/246 1142/247
+
+149
+
+1142/248 1142/250 1142/251 1142/252 1142/253 1142/254 1142/255 1142/257 1142/258 1142/259 1142/260 1142/261 1142/263 1142/264 1142/265 1142/266 1142/267 1142/268 1142/269 1142/270 1142/272 1142/274 1142/276 1142/277 1142/278 1142/279 1142/280 1142/281 1142/282 1142/283 1142/285 1142/286 1142/287 1142/288 1142/289 1142/290 1142/291 1142/292 1142/293 1142/295 1142/296 1142/298 1142/299 1142/300 1142/302 1142/303 1142/304 1142/305 1142/306 1142/307
+
+1142/308 1142/309 1142/310 1142/311 1142/312 1142/313 1142/314 1142/315 1142/316 1142/317 1142/318 1142/319 1142/320 1142/322 1142/324 1142/325 1142/326 1142/327 1149/31 1149/42 1149/43 1149/44 1149/45 1149/46 1149/47 1149/48 1149/49 1149/50 1149/51 1149/52 1149/53 1149/54 1234/9 1234/10 1234/11 1234/12 1234/13 1234/15 1234/18 1234/19 1234/20 1234/21 1234/22 1234/23 1234/24 1234/28 1234/29 1234/31 1234/32 1234/36
+
+1234/37 1234/38 1234/39 1234/40 1234/41 1234/42 1234/45 1234/48 1234/49 1234/50 1234/51 1234/73 1234/78 1234/80 1234/82 1234/89 1234/91 1234/113 1234/114 1234/115 1234/116 1234/119 1234/121 1238/6 1238/7 1238/15 1238/16 1238/17 1238/18 1238/19 1238/20 1238/21 1238/22 1238/23 1238/24 1238/26 1238/28 1238/29 1238/32 1238/33 1238/35 1238/38 1238/43 1238/46 1238/49 1238/50 1238/51 1238/52 1238/53 1241/34
+
+1241/36 1241/37 1241/39 1241/40 1241/43 1241/44 1241/49 1241/50 1241/51 1241/53 1241/54 1241/55 1241/56 1241/57 1241/58 1241/59 1241/61 1241/62 1241/64 1241/67 1241/68 1293/8 1293/9 1293/10 1293/11 1293/14 1293/15 1293/16 1293/17 1293/18 1293/20 1293/21 1293/22 1293/23 1293/24 1293/30 1293/31 1293/32 1293/33 1293/34 1293/37 1293/41 1293/42 1293/43 1293/46 1293/47 1293/50 1293/51 1293/54 1293/55
+
+1293/56 1293/57 1293/58 1293/59 1293/60 1293/61 1293/62 1293/63 1293/65 1293/621 1293/622 1293/623 1293/624 1293/627 1293/630 1293/634 1293/636 1293/637 1293/640 1293/648 1293/650 1293/651 1293/654 1293/838 1293/868 1293/900 1293/903 1293/904 1293/905 1293/906 1293/907 1293/908 1293/911 1293/913 1293/914 1293/915 1293/916 1293/917 1293/918 1293/919 1293/920 1293/926 1293/931 1293/938 1293/939 1293/942 1293/943 1293/945 1293/946 1293/950
+
+150
+
+1293/954 1293/955 1293/956 1293/957 1293/959 1293/960 1293/961 1293/962 1293/963 1293/964 1293/965 1293/966 1293/967 1293/968 1293/969 1293/970 1293/971 1293/972 1293/973 1293/974 1293/975 1293/979 1293/980 1293/981 1293/983 1293/984 1293/988 1293/991 1293/992 1293/999 1327/3 1352/28 1358/5 1360/1 1360/13 1404/2 1404/3 1411/3 1411/6 1411/8 1411/9 1411/12 1411/14 1411/17 1411/19 1411/25 1411/26 1486/2 1486/3 1486/5
+
+1486/7 1486/8 1486/9 1486/10 1486/11 1486/12 1486/13 1486/14 1486/16 1486/17 1486/18 1486/19 1486/20 1486/21 1486/22 1487/4 1487/5 1487/6 1502/7 1502/8 1502/158 1502/166 1502/167 1744 1745 1746 1748 1750 1751 1753 1755 1758 1760 1764/3 1764/5 1764/7 1764/9 1764/11 1764/13 1764/15 1764/28 1768 1769 1773 1774 1775 1776 1781 1782 1783
+
+1786 1789 1793 1794 1797 1798 1799 1800 1801 1802 1803 1811 1813 1814 1816 1819 1821 1823 1824 1828 1829 1830 1831 1833 1835 1837 1838 1840 1843 1844 1845 1846 1848 1851 1853 1855 1856 1859 1860 1861 1864 1865 1870 1871 1872 1876 1878 1879 1880 1881
+
+1882 1885 1886 1887 1888 1889 1890 1892 1895 1896 1900 1901 1903 1904 1908 1909 1911 1914 1916 1917 1920 1922 1923 1925 1926 1934/1 1934/2 1935/1 1935/4 1935/6 1936 1937 1938 1939 1941/1 1941/3 1941/5 1942 1943 1944 1945 1946/1 1946/3 1946/5 1947 1948 1949 1958 1959 1960
+
+1961 1962 1963 1964 1966 1967 1968 1969 1970 1971 1972 1973 1974 1975 1977 1978 1980 1981 1982 1983 1984 1985 1986 1987 1989 1990 1992 1993 1994 1995 1996 1997 1998 2009 2010 2012 2014 2015 2016 2017 2018 2019 2020 2022 2024 2026 2027 2029 2031 2032
+
+151
+
+2034 2037/1 2037/3 2038 2039 2040/1 2041/2 2041/4 2042 2043 2044 2045 2046 2049 2050 2051 2053/2 2055 2056 2063 2066/3 2067
+
+2069 2071 2074 2076 2078 2082 2084 2086/1 2086/4 2086/6 2086/8 2086/10 2086/12 2086/14 2088 2090 2092 2095 2096 2097 2098 2099
+
+2100 2101 2102 2103 2104 2115 2116/1 2116/3 2120 2121 2122/4 2122/6 2126/1 2126/3 2127 2128 2130 2131/1 2131/3 2131/5 2131/7 2132/2
+
+2149 2157 2158 2160 2163 2164 2165 2167 2169 2171 2173 2185 2187 2196 2201 2202 2207 2208 2213 2218 2221 2228
+
+2229 2231 2252 2254 2259 2260 2263 2265 2268/5 2269 2276 2278 2280 2285 2286 2314 2315 2316
+
+6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ nepojmenované ulice: k. ú. Řepy (č. parc.) 63/1 165 248/3 342/1 349 353 397 398 399 400 544/10 554 555 556 593/1 593/4 593/5 593/6 1029/1 1031/1 1031/2 1031/5 1031/6
+
+1031/9 1142/1 1142/69 1142/70 1142/74 1142/75 1142/80 1142/85 1142/90 1142/91 1142/95 1142/96 1142/99 1142/108 1142/111 1142/114 1142/225 1142/226 1142/231 1142/232 1142/233 1142/239 1142/241
+
+1142/244 1142/245 1142/249 1142/256 1142/262 1142/271 1142/273 1142/275 1142/284 1142/294 1142/297 1142/301 1142/329 1142/330 1142/441 1142/472 1142/475 1142/654 1142/845 1149/30 1149/62 1149/71 1149/73
+
+1149/74 1149/75 1168/1 1234/1 1234/6 1234/16 1234/30 1234/47 1234/57 1234/64 1234/68 1234/69 1234/72 1234/74 1234/75 1234/76 1234/79 1234/94 1234/95 1234/96 1234/97 1234/105 1234/112
+
+1238/2 1238/3 1238/45 1241/1 1241/33 1241/35 1241/52 1241/66 1293/3 1293/19 1293/76 1293/81 1293/86 1293/87 1293/89 1293/92 1293/93 1293/95 1293/96 1293/98 1293/99 1293/108 1293/112
+
+152
+
+1293/115 1293/116 1293/125 1293/127 1293/128 1293/132 1293/137 1293/138 1293/155 1293/156 1293/166 1293/181 1293/189 1293/190 1293/195 1293/197 1293/200 1293/201 1293/203 1293/225 1293/834 1293/867 1293/923 1293/924 1293/925 1293/932 1293/933 1293/934 1293/935 1293/940 1293/951 1293/958 1293/976 1293/977 1293/978 1293/982 1293/985 1293/986 1293/987 1293/997 1293/998 1319/1 1327/11 1327/14 1327/18 1327/19 1337/64 1355 1360/4 1360/9
+
+1360/10 1379/2 1379/3 1384 1385 1390/2 1392/5 1400/2 1400/3 1402/1 1402/2 1402/3 1402/4 1404/4 1404/20 1404/29 1407/5 1411/2 1411/7 1411/10 1411/11 1411/13 1429/4 1430/1 1430/2 1432 1433 1434 1435 1437 1438/1 1439 1442 1447/1 1453/1 1480/2 1485/1 1485/2 1485/3 1486/1 1486/15 1487/3 1496/6 1502/2 1502/73 1505/1 1505/2 1507/1 1532/6 1749
+
+1752 1759 1764/1 1764/2 1764/4 1764/6 1764/8 1764/10 1764/12 1764/14 1764/16 1764/18 1764/20 1764/22 1764/24 1767 1777 1780 1790 1795 1796 1810 1812 1820 1832 1836 1839 1841 1842 1865 1866/1 1867 1868/1 1869 1873/1 1875/1 1884 1885 1899 1902 1906 1909 1910 1912 1913 1915 1918 1919/1 1921/1 1935/2
+
+1935/3 1935/5 1935/7 1940/1 1940/2 1940/3 1940/4 1941/2 1941/4 1941/6 1941/7 1946/2 1946/4 1946/6 1946/7 1950 1956 1965 1976 1999 2011 2013 2021 2023 2030 2033 2035 2037/2 2041/1 2041/3 2048 2052 2053/1 2061 2062 2064 2065 2068 2086/2 2086/3 2086/5 2086/7 2086/9 2086/11 2086/13 2086/15 2087 2089 2093 2108
+
+2112/1 2112/2 2114 2116/2 2122/1 2122/2 2122/3 2122/5 2122/7 2122/8 2122/9 2122/10 2122/11 2122/12 2124/1 2124/2 2125 2126/2 2129 2131/2 2131/4 2131/6 2132/1 2132/3 2134 2135 2136 2139 2143 2144 2145 2146 2147 2148 2150 2151 2152 2153 2154 2155 2156 2159 2161 2162 2166 2168 2170 2172 2180 2181
+
+153
+
+2183 2184 2186 2194 2195 2198 2199 2200 2203 2204 2206 2209 2210 2211 2212 2214
+
+2215 2217 2219 2226 2227 2230 2232 2233 2238 2244 2245 2249 2250 2251 2253 2255
+
+2257 2258 2261 2262 2264 2266 2267 2268/1 2270 2271 2273 2274 2275 2277 2279 2281
+
+2282 2283 2284 2288 2289 2290 2291 2292 2294 2295 2296 2297 2299 2300 2301 2303
+
+2304 2305 2306 2307 2308 2309 2310 2311 2312 2318 2319 2323 2324 2329
+
+ostatní zeleň: k. ú. Řepy (č. parc.) 45/1 63/1 165 248/3 342/1 342/5 342/8 349 353 397 398 399 400 544/10 554 555 556 593/1 593/3 593/4 751 1031/1 1031/6 1142/69 1142/92 1142/96 1149/1 1234/64 1234/68 1234/69 1234/72
+
+1234/75 1234/76 1234/84 1234/95 1234/103 1238/1 1241/1 1293/3 1293/83 1293/87 1293/89 1293/90 1293/91 1293/95 1293/98 1293/99 1293/100 1293/103 1293/105 1293/106 1293/107 1293/109 1293/111 1293/112 1293/117 1293/118 1293/119 1293/120 1293/124 1293/129 1293/131
+
+1293/133 1293/134 1293/139 1293/140 1293/141 1293/142 1293/143 1293/144 1293/145 1293/146 1293/148 1293/151 1293/153 1293/157 1293/161 1293/162 1293/163 1293/164 1293/165 1293/167 1293/173 1293/182 1293/183 1293/185 1293/186 1293/187 1293/188 1293/191 1293/192 1293/194 1293/196
+
+1293/205 1293/226 1293/228 1293/807 1293/808 1293/814 1293/815 1293/816 1293/831 1293/903 1316/2 1317 1319/1 1319/2 1322 1327/13 1327/14 1327/17 1339/3 1339/4 1349/3 1352/4 1352/5 1352/46 1352/67 1352/68 1352/75 1352/76 1352/77 1352/78 1352/79
+
+1352/80 1352/98 1352/143 1352/146 1354 1358/2 1358/6 1360/5 1362 1366/1 1366/2 1373/1 1373/2 1373/3 1375/1 1390/1 1404/5 1426/1 1426/2 1438/1 1453/1 1455/1 1455/2 1462 1474/1 1477 1480/1 1480/3 1482/5 1482/6 1486/4
+
+154
+
+1487/1 1487/7 1490 1497/1 1497/3
+
+1502/1 1502/9 1502/10 1502/14 1502/72
+
+1502/73 1502/116 1504/1 1504/3 1504/4
+
+1504/6 1761 1762 1805 1855
+
+1870 1871 1872
+
+MĚSTSKÁ ČÁST PRAHA 18 1. NÁMĚSTÍ není stanoveno žádné veřejné prostranství, 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY AŠSKÁ BECHLÍNSKÁ BECHYŇSKÁ BELADOVA BERANOVÝCH BĚLOVESKÁ BLUDOVICKÁ BOHUMÍNSKÁ BOLETICKÁ BROUMOVSKÁ BŘEZNICKÁ BUCHLOVSKÁ BUKOVECKÁ DOBRATICKÁ DUDKOVA FRYČOVICKÁ FRÝDECKÁ HAVÍŘOVSKÁ HOŘICKÁ HRONOVSKÁ CHEBSKÁ CHLEBOVICKÁ
+
+CHOCEŇSKÁ CHOTĚŠOVSKÁ IVANČICKÁ JABLŮNKOVSKÁ JANČOVA KBELSKÁ KLADRUBSKÁ KLENEČSKÁ KOPŘIVNICKÁ KOSTOMLATSKÁ KRAUSOVA KRNOVSKÁ KŘIVOKLÁTSKÁ KUŽELOVA LETOVSKÁ LISTOVA LOVOSICKÁ MALKOVSKÉHO MÍSTECKÁ NOVOSVĚTSKÁ NÝDECKÁ OPOČENSKÁ
+
+OSTRAVSKÁ PRACHATICKÁ PROTIVÍNSKÁ PŘÍBORSKÁ ROKYCANSKÁ RYCHNOVSKÁ RÝMAŘOVSKÁ ŠUMPERSKÁ TEREZÍNSKÁ TOUŽIMSKÁ TRUTNOVSKÁ TŘINECKÁ TUPOLEVOVA TVRDÉHO VAMBERSKÁ VELEŠÍNSKÁ VELHARTICKÁ VESELSKÁ VÍTKOVICKÁ VRATIMOVSKÁ ZLONICKÁ ŽAMBERSKÁ 4. PARKY není stanoveno žádné veřejné prostranství, 5. VEŘEJNÁ ZELEŇ sídlištní zeleň: lokality mezi bloky obytné zástavby ohraničené ulicemi TUPOLEVOVA TUPOLEVOVA KRAUSOVA CHLEBOVICKÁ KRAUSOVA HAVÍŘOVSKÁ IVANČICKÁ BERANOVÝCH
+
+155
+
+MALKOVSKÉHO RÝMAŘOVSKÁ MALKOVSKÉHO TŘINECKÁ MÍSTECKÁ VRATIMOVSKÁ JANČOVA PŘÍBORSKÁ TUPOLEVOVA TUPOLEVOVA VÍTKOVICKÁ ŠUMPERSKÁ NÝDECKÁ CHLEBOVICKÁ ŠUMPERSKÁ VAMBERSKÁ MÍSTECKÁ VRATIMOVSKÁ KRNOVSKÁ FRÝDECKÁ KŘIVOKLÁTSKÁ BUKOVECKÁ RÝMAŘOVSKÁ DUDKOVA TUPOLEVOVA TUPOLEVOVA HAVÍŘOVSKÁ VELHARTICKÁ VÍTKOVICKÁ CHLEBOVICKÁ BOHUMÍNSKÁ LETOVSKÁ FRYČOVICKÁ BUKOVECKÁ RÝMAŘOVSKÁ LETOVSKÁ RÝMAŘOVSKÁ DOBRATICKÁ VRATIMOVSKÁ KBELSKÁ OPOČENSKÁ TUPOLEVOVA PROSECKÁ LOVOSICKÁ KBELSKÁ a hranice k. ú. Letňany; ostatní: lokalita Stará náves (místní označení) s parkovou úpravou mezi ul. KŘIVOKLÁTSKÁ, VAMBERSKÁ, KOPŘIVNICKÁ a OSTRAVSKÁ; území mezi ulicemi BERANOVÝCH, TOUŽIMSKÁ a areálem betonárky; 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ není stanoveno žádné veřejné prostranství.
+
+MĚSTSKÁ ČÁST PRAHA 19
+
+1. NÁMĚSTÍ NOUZOVSKÉ NÁM. NOVÁKOVO NÁM. 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY ALBRECHTICKÁ BAKOVSKÁ BENECKÁ BLÉRIOTOVA BOJETICKÁ BOROVNICKÁ BOSEŇSKÁ BOUSOVSKÁ
+
+BRATŘÍKOVSKÁ ČEJETICKÁ DALEŠICKÁ DALOVICKÁ DĚTENICKÁ DIVIŠOVA DOBŠÍNSKÁ DOMOUSNICKÁ DRAHOTICKÁ HANUŠOVA
+
+HERLÍKOVICKÁ HOLENICKÁ HORNOPOČERNICKÁ HRUŠOVICKÁ HŮLKOVA HUNTÍŘOVSKÁ CHOTĚTOVSKÁ JABKENICKÁ JILEMNICKÁ
+
+156
+
+K VINOŘI KARLOVICKÁ KATUSICKÁ KOSMONOSKÁ KOSOŘICKÁ KOŠAŘOVA KRAMLOVA KRNSKÁ LEDEČSKÁ LETCŮ LIBICHOVSKÁ LUŠTĚNICKÁ LUŽANSKÁ MARTINICKÁ MILETÍNSKÁ MLADĚJOVSKÁ MLADOBOLESLAVSKÁ MOHELNICKÁ NA OVESNÍKU
+
+NYMBURSKÁ OLEŠNICKÁ PELNÁŘOVA POD NOUZOVEM POLANECKÉHO PŘEDMĚŘICKÁ RACKOVA ZAHRADA RADVANICKÁ ROKYTNICKÁ ROVENSKÁ ROŽĎALOVICKÁ SEMČICKÁ SEMILSKÁ SLANÁ SLOVAČÍKOVA SOJOVICKÁ SOVENICKÁ STUDENÁ SVIJANSKÁ
+
+SYCHROVSKÁ TAUFEROVA TOUŽIMSKÁ TROSKOVICKÁ TUŘICKÁ ÚLIBICKÁ VÁGNEROVA VALDICKÁ VESELÁ VITÍKOVA VRBICKÁ VRCHLABSKÁ VŠEJANSKÁ XAVEROVSKÁ ZAMAŠSKÁ ŽACLÉŘSKÁ ŽELEZNOBRODSKÁ
+
+4. PARKY centrální park, č. parc. 1164, 1165, 1166, 1167/1, 1168/3, 1168/4, 1168/6, 1168/18, 2154 v k. ú. Kbely; 5. VEŘEJNÁ ZELEŇ ostatní: tzv. Husův park, č. parc. 1574 v k. ú. Kbely; zeleň okolo sochy sv. Vojtěcha až k silnici ŽELEZNOBRODSKÁ, č. parc. 113 v k. ú. Kbely; upravená zeleň okolo kbelského rybníka, č. parc. 2/1, 2/2, 2/3, 2/4, 2/6 v k. ú. Kbely; travnatá plocha vedle centrálního parku a vč. plochy kolem ul. MARTINICKÉ a garáží, č. parc. 1167/2, 1167/3, 1171/2 v k. ú. Kbely; zeleň v zástavbě – 1. sídliště, č. parc.1171/1, 1176, 1179, 1182, 1185, 1186/1, 1194, 1204, 1207 v k. ú. Kbely; zeleň v zástavbě 2. sídliště, č. parc. 899, 931, 957/1, 957/3, 992, 996, 1000, 1004, 1032, 1036, 1074 v k. ú. Kbely; zeleň v bytové zástavbě mezi ul. JILEMNICKÁ a VESELÁ, č. parc.1967/2 v k. ú. Kbely; zeleň v bytové zástavbě mezi ul. VESELÁ a LUŠTĚNICKÁ, č. parc. 2087/33, 2087/48, 2087/49 v k. ú. Kbely; zeleň roh HORNOPOČERNICKÁ-ČEJETICKÁ, č. parc. 1699/1, 1699/2 v k. ú. Kbely; zeleň a ostatní plocha při ul. PŘEDMĚŘICKÁ před benzinovou pumpou, č. parc. 1753/1, 1753/2, 1753/3, 1753/4 v k. ú. Kbely; zelené prostranství v ul. KRNSKÉ, č. parc. 1700/1, 1700/2 v k. ú. Kbely; zeleň a ostatní plocha v ul. VRCHLABSKÁ, č. parc. 8/1 a 8/4 v k. ú. Kbely; přístupová cesta k sálu Lidového domu a k Obřadní síni v k. ú. Kbely; zeleň za domy v ul. ŽELEZNOBRODSKÁ, č. parc. 175/1 v k. ú. Kbely; rohová travnatá plocha ul. VRCHLABSKÁ a MLADOBOLESLAVSKÁ, č. parc. 39 v k. ú. Kbely; pásy zeleně u prodejen (tzv. pavilony) v ul. MLADOBOLESLAVSKÁ, č. parc. 1201/1 v k. ú. Kbely;
+
+157
+
+zeleň a ostatní plocha kolem památníku a garáží při ulici MARTINICKÁ, č. parc. 1168/5 v k. ú. Kbely; zeleň mezi železniční trati a ul. NYMBURSKOU, č. parc. 1322, 1323, 1324 v k. ú. Kbely; travnatá plocha kolem železniční dráhy, č. parc. 2149/1, 2149/3, 2149/4, 2153 v k. ú. Kbely; zeleň podél železniční trati za ul. TOUŽIMSKOU, č. parc. 2080, 2087/1 v k. ú. Kbely; zeleň a ostatní plochy podél ul. MLADOBOLESLAVSKÁ, mezi ul. DALOVICKOU a SEMČICKOU v k. ú. Kbely; travnatý porost s chodníkem při ul. MLADOBOLESLAVSKÁ, od Motorestu k ul. DALOVICKÁ, č. parc. 1273 v k. ú. Kbely; prostor mezi bývalým podnikem PAL a ulicí POLANECKÉHO, parc. č. 1942/1, 1942/2, 1942/3, 1943/1, 1943/2 v k. ú. Kbely; zeleň po pravé straně ve směru do centra při ulici MLADOBOLESLAVSKÁ, č. parc. 2001 v k. ú. Kbely; zeleň u bytových domů v ul. KOŠAŘOVA, č. parc.1890/1, 1890/3  v k. ú. Kbely; zeleň u bytových domů v ul. HŮLKOVA v k. ú. Kbely; zeleň v zástavbě za ul. KOŠAŘOVA, č. parc. 1914 v k. ú. Kbely; zeleň před Knaufem, č. parc. 1917/4, 1917/10, 1917/12 v k. ú. Kbely; zeleň před stavebninami KB-BLOK, č. parc. 1917/5, 1917/6, 1917/14, 1917/15 v k. ú. Kbely; zeleň před Majákem, č. parc. 1918 v k. ú. Kbely; zeleň, ostatní plochy a chodník při ulici MLADOBOLESLAVSKÁ před přejezdem parc. č. 2120, 2121, 2123 v k. ú. Kbely; travnaté a ostatní plochy v ul. HRUŠOVICKÁ, SYCHROVSKÁ, č. parc. 1946/6, 1946/8, 1946/13, 1946/86 v k. ú. Kbely; volné prostranství mimo souvislou zástavbu: k. ú. Kbely (č. parc.) 1936/1 1936/6 1936/7 1936/9 1988/8 1988/11 1990/13 2150/2 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ přístupové cesty v 1. sídlišti, č. parc. 2057, 2059/1, 2064, 2065 v k. ú. Kbely; travnaté a ostatní plochy v obytném souboru „Kbely centrum“ č. parc. 1168/1, 1168/12, 1168/13, 1168/14 v k. ú. Kbely; dětské hřiště v 1. sídlišti, č. parc. 2062 v k. ú. Kbely; prostor kolem trafostanice v 1. sídlišti, č. parc. 1178 v k. ú. Kbely; obratiště před podnikem LOM, č. parc.247/3 v k. ú. Kbely; prostranství vedle nové budovy základní školy, č. parc. 245/1 v k. ú. Kbely; prostranství u čerpací stanice, č. parc.1752/1, 1752/4 v k. ú. Kbely; manipulační plocha mezi garážemi v ul. ÚLIBICKÁ a HORNOPOČERNICKÁ, č. parc. 1992/2, 1992/3 a 2126 v k. ú. Kbely; manipulační plocha mezi garážemi v ul. ŽELEZNOBRODSKÁ, č. par. 175/2 a 244/1 v k. ú. Kbely; prostor vedle zahrádkářské kolonie, parc. č. 1941/3 v k. ú. Kbely; okolí památníku Čs. rozhlasu, č. parc. 1921/1, 1921/2 v k. ú. Kbely; prostranství před Motorestem v ul. MLADOBOLESLAVSKÉ, č. parc. 2101 v k. ú. Kbely; prostor kolem bývalého hotelu ERKO, č. parc. 2087/47 v k. ú. Kbely; vnitroblok mezi ulicemi TOUŽIMSKÁ - LETCŮ, č. parc. 2079, 2081 v k. ú. Kbely; prostor mezi garážemi v ul. LUŽANSKÉ, č. parc.2088/1, 2088/2, 2088/3 v k. ú. Kbely; prostranství v okolí pošty a budovy Telecom Praha, č. parc.850/1, 850/9, 850/12 v k. ú. Kbely;
+
+158
+
+volné plochy okolo bývalé „Hasičárny“, č. parc. 848/2, 865/2, 866/1, 866/2, 2049/2, 2049/3 v k. ú. Kbely; zeleň a ostatní plocha na nároží ul. BAKOVSKÁ a ŽELEZNOBRODSKÁ, č. parc. 2051 v k. ú. Kbely; zelené prostranství mezi ul. ŽELEZNOBRODSKOU a hřištěm, č. parc. 175/1 v k. ú. Kbely; zelené prostranství u hřiště za ul. KOŠAŘOVOU, č. parc. 1892 v k. ú. Kbely; zeleň, přístupové cesty a dětské hřiště v obytném souboru „Pod Nouzovem“ mezi ul. SEMILSKÁ a JILEMNICKÁ a tratí; zeleň a ostatní plochy v obytném souboru při ul. RACKOVA ZAHRADA; upravená vycházková cesta ke kbelskému hřbitovu, č. parc. 1948/2, 1949/2 a 1955/2 v k. ú. Kbely; prostor před hřbitovem, č. parc. 1956 v k. ú. Kbely; vjezd do provozovny Knauf, č. parc.1917/3 v k. ú. Kbely; přístupová cesta k čističce odpadních vod, č. parc. 2095/1, 2095/2 v k. ú. Kbely; pás zeleně za ul. ZAMAŠSKÁ, č. parc. 2031, 2032 v k. ú. Kbely; prostory při západní straně ulice ŽACLÉŘSKÁ před obytným souborem „Kbely střed“ a obytným souborem „Zahrádky“ č. parc. 4/1, 4/7, 4/22, 4/29, 4/36, 5/1, 6/9, 6/16, 6/17, 7/1, 7/2 a 7/3 v k. ú. Kbely; zeleň, přístupové cesty, parkoviště a ostatní volné plochy v obytném souboru „Kbely střed“, vč. ploch kolem hasičské zbrojnice; chodník a zeleň při ul. MLADOBOLESLAVSKÁ před lékárnou, č. parc. 2056/1, 2056/2 v k. ú. Kbely; cesta podél trati k nádraží, č. parc. 2149/2 v k. ú. Kbely; ostatní plocha vedle DRUPOLu, č. parc. 2143/3 v k. ú. Kbely; chodník, zeleň a ostatní plocha před bývalým podnikem PAL, parc. č. 2003 v k. ú. Kbely; parkoviště a ostatní plochy kolem Lidového domu, parc. č. 2068/1 v k. ú. Kbely; parkoviště naproti Zdravotnímu středisku, parc. č. 2/9, 2067 v k. ú. Kbely; parkoviště při ulici JILEMNICKÁ, parc. č. 780/1 v k. ú. Kbely; parkoviště při ulici SEMILSKÉ, parc. č. 1963/63, 1963/219, 1963/220 v k. ú. Kbely.
+
+MĚSTSKÁ ČÁST PRAHA 20
+
+1. NÁMĚSTÍ KŘOVINOVO NÁM. 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY BÁRTLOVA BĚCHORSKÁ BĚLUŇSKÁ BOŘETICKÁ BOŽANOVSKÁ BOŽÍDARSKÁ BRATRAN. VEVERKOVÝCH BRDECKÁ BŘEZECKÁ
+
+BŘEZOVICKÁ BŘÍŠŤANSKÁ BYSTRÁ CIRKUSOVÁ ČECHUROVA ČEŠOVSKÁ DANDOVA DO ČERTOUS DO SVÉPRAVIC DOBROŠOVSKÁ
+
+DOBŠICKÁ DOLSKÁ DOMKOVSKÁ FRANTIŠKA ČERNÉHO F. V. VESELÉHO HARCOVSKÁ HARTENBERSKÁ HERMANICKÁ HRDOŇOVICKÁ HŘÍDELECKÁ
+
+159
+
+HUSTOPEČSKÁ CHLUMECKÁ CHODOVICKÁ CHVALKOVICKÁ JASENNÁ JAVORNICKÁ JAVORSKÁ JEŘICKÁ JIŘÍHO ZE VTELNA JÍVANSKÁ JIZBICKÁ K BERANCE K HRÁZI K BERANCE K BÍLÉMU VRCHU K ODPOČINKU K PALEČKU K RYBÁRNĚ K ZELENČI KALVODOVA KARLA TOMÁŠE KE STARÝM RYBNÍKŮM KE XAVEROVU KETEŇSKÁ KHODLOVA KLOUDSKÝCH KOMÁROVSKÁ KOUTSKÁ KOŽÍŠKOVA KRAHULČÍ KRAMOLNÁ KRČÍNSKÁ LEDKOVSKÁ LEŠTÍNSKÁ LHOTSKÁ LIBÁŇSKÁ LIBOŠOVICKÁ LIBUŇSKÁ LIPÍ LÍSKOVICKÁ LUKAVECKÁ
+
+MACHOVSKÁ MARKUPOVA MEČOVSKÁ MEZI ÚVOZY MEZIHOŘÍ MEZILESÍ MEZILUŽÍ NA BAČÁLKÁCH NA CHVALCE NA CHVALSKÉ TVRZI NA NOVÉ SILNICI NA POZORCE NA STARÉ SILNICI NA SVĚCENCE NAD NÁVSÍ NÁCHODSKÁ NOVOPACKÁ OBCHODNÍ OHNIŠŤANSKÁ OLOMOUCKÁ OTOVICKÁ PAČEŘICKÁ PAVLIŠOVSKÁ PLKOVSKÁ POD STARÁKEM PODIVÍNSKÁ PODSYCHROVSKÁ PODŮLŠÍ PRACHOVSKÁ PŘED DRÁHOU RADECHOVSKÁ RAJHRADSKÁ RAŠÍNSKÁ RATIBOŘICKÁ ROŽNOVSKÁ RUPRECHTICKÁ ŘEŠETOVSKÁ SEKEŘICKÁ SEMONICKÁ SLATIŇANSKÁ SPOJENCŮ STOLIŇSKÁ
+
+STŘELEČSKÁ STUDNICKÁ ŠANOVSKÁ ŠPLECHNEROVA ŠTVERÁKOVA TIKOVSKÁ TLUSTÉHO TRNÍ TŘEBEŠOVSKÁ U HVOZDU U JESLÍ U TABULKY U ÚLŮ U VĚŽE U ŽUPANSKÝCH V BABYKU V DÍLCÍCH V HUMNECH V JAVORECH V LUKÁCH V SLAVĚTÍNĚ VÁCLAVA ŠPAČKA VÁCLAVICKÁ VE ZLIČI VE ŽLÍBKU VĚŽICKÁ VIDONICKÁ VLÁSENICKÁ VOJICKÁ VOTUZSKÁ VRCHOVINSKÁ VRŠOVKA VŠELIPSKÁ VYSOKOVSKÁ XAVEROVSKÁ ZÁBRODÍ ZÁJEZDNÍ ZÁMEZÍ ZÁRYBNICKÁ ZÁVRCHY ZDOŇOVSKÁ
+
+ostatní komunikace: NN 4160 parc. č. 2196/1 (Mezilesí x slepý úsek), NN 4162 parc. č. 786/130 (Pavlišovská x U Jeslí), NN 4163 parc. č. 786/22 (Komárovská x slepý úsek), NN 355 parc. č. 4105/2 (Bořetická x Slatinská), NN 3082 parc. č. 4569 (Chlumecká x Stoliňská), NN 4167 parc. č. 4504/2 (Stoliňská x slepý úsek),
+
+160
+
+NN 4165 (Spojenců x slepý úsek, Vojická x slepý úsek), NN 5028 (Ve Žlíbku x Komárovská); 4. PARKY parc. č. 275/1 (Ve Žlíbku, Náchodská, Třebešovská), 781/2 a 781/10 (Běluňská, Jívanská, U Jeslí), 1469/2, 2640/23 (Běluňská, Lipí, Ratibořická), 2640/25, 2640/27, 2640/3 (Chvalkovická, Ratibořická, Vysokovská), 2872 (Lipí, Domkovská) v k. ú. Horní Počernice; 5. VEŘEJNÁ ZELEŇ doprovodná zeleň rybníků: veřejné přírodní koupaliště, č. parc. 4321/1, 4321/9 v k. ú. Horní Počernice; Paleček, č. parc. 4229/1 v k. ú. Horní Počernice; Podsychrovský, č. parc. 72/1, 74 v k. ú. Horní Počernice; Křoviňák, č. parc. 3927 v k. ú. Horní Počernice; Starák, č. parc. 4388/1 v k. ú. Horní Počernice; doprovodná zeleň vodních toků: Svépravický potok, č. parc. 4207, 4209, 4454/3 v k. ú. Horní Počernice; Chvalka, č. parc. 4474/1 v k. ú. Horní Počernice; Jírenský potok, č. parc. 182/3 v k. ú. Horní Počernice; nezpevněné nebo zatravněné plochy: mezi ul. OLOMOUCKÁ, ČEŠOVSKÁ a JIZBICKÁ, č. parc. 702/1 v  k. ú. Horní Počernice; mezi ul. PRACHOVSKÁ, DOLSKÁ, JEŘICKÁ parc. č. 3268/1 v k. ú. Horní Počernice; parkově upravené plochy: ul. RATIBOŘSKÁ (u družstevních domů), č. parc. 1469/1 a 2640/1 v k. ú. Horní Počernice; ul. JÍVANSKÁ a RATIBOŘICKÁ (u základní školy); ul. JÍVANSKÁ a BĚLUŇSKÁ (před hřištěm), č. parc. 1469/2  a  2640/2 v  k. ú. Horní Počernice; ul. PODŮLŠÍ, č. parc. 3489 v k. ú. Horní Počernice; konec ul. HŘÍDELECKÁ a V DÍLCÍCH; ul. NÁCHODSKÁ a KOMAROVSKÁ, č. parc. 865, 866, 867 a 868 v k. ú. Horní Počernice; ul. NÁCHODSKÁ a VE ŽLÍBKU, č. parc. 275/1, 275/5 v k. ú. Horní Počernice; ul. BĚCHORSKÁ a VÁCLAVÍCKÁ; ul. BÁRTLOVA (před železniční tratí); ul. BÁRTLOVA (za železniční tratí); sídlištní zeleň: ul. U JESLÍ a JIZBICKÁ (naproti gymnáziu), č. parc. 786/77, 786/78 v k. ú. Horní Počernice; 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ prostranství navazující na vstupy a výstupy z objektů: supermarket ALBERT, č. parc. 786/6 v k. ú. Horní Počernice; Sportcentrum Horní Počernice; gymnázium v ul. CHODOVICKÁ; diskontní prodejna PENNY, č. parc. 2193, 2198/140 v k. ú. Horní Počernice.
+
+161
+
+MĚSTSKÁ ČÁST PRAHA 21
+
+1.  NÁMĚSTÍ není stanoveno žádné veřejné prostranství, 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY BARCHOVICKÁ BEČVÁŘSKÁ BĚLUŠICKÁ BOROVSKÁ BROMOVA BRZICKÁ BUDČICKÁ CERHÝNSKÁ CÍRKVICKÁ CTINĚVESKÁ ČANKOVSKÁ ČEKANOVSKÁ ČELKOVICKÁ ČENOVICKÁ ČENTICKÁ ČÍŽOVSKÁ DĚDICKÁ DOBROVICKÁ DOBŘICHOVSKÁ DOMANOVICKÁ DONÍNSKÁ DRUHANICKÁ DUBINSKÁ HODKOVSKÁ HOLÍNSKÁ HOLŠICKÁ HOŘEJŠÍHO HRÁDKOVA HULICKÁ CHABEŘICKÁ CHMELICKÁ CHOTĚNOVSKÁ CHOTOUCHOVSKÁ CHVALEČSKÁ CHYJICKÁ JEŽOVICKÁ KÁCOVSKÁ KALSKÁ KLEŠICKÁ KOJICKÁ
+
+KYNICKÁ LÁNOVSKÁ LIŠICKÁ LOMECKÁ LOZICKÁ LSTIBOŘSKÁ LUKOVSKÁ LUNÍKOVSKÁ LUTÍNSKÁ MACHOVICKÁ MALČICKÁ MALEŠOVSKÁ MALOTICKÁ MĚŠÍNSKÁ MILETICKÁ NA BOŽKOVNĚ NAČERADECKÁ NAČEŠICKÁ NADĚJOVSKÁ NAHOŘANSKÁ NECHVALICKÁ NESMĚŘICKÁ NESPECKÁ NETÍNSKÁ NETUŠILSKÁ NOVOHRADSKÁ NOVOLHOTSKÁ NOVOSIBŘINSKÁ OCHOZSKÁ OKENSKÁ ONŠOVECKÁ OPLANSKÁ PILOVSKÁ PLHOVSKÁ PODLUŽANSKÁ POLENSKÁ POLEPSKÁ POLESNÁ POLEŠOVICKÁ POLIČANSKÁ
+
+POLÍKENSKÁ POŘÍČSKÁ RAČINĚVESKÁ RADIMSKÁ RANSKÁ RÁPOŠOVSKÁ RATAJSKÁ RATBOŘSKÁ ROHOZECKÁ ROHOŽNICKÁ ROKLOVA ROZHOVICKÁ ROŽMITÁLSKÁ SOBĚŠÍNSKÁ STAROKLÁNOVICKÁ STAROKOLÍNSKÁ STAROÚJEZDSKÁ SUDĚJOVICKÁ SULOVICKÁ SVOJŠICKÁ ŠLITROVA TALMBERSKÁ TOUŠICKÁ TŘEBĚTÍNSKÁ TUCHOTICKÁ TÝNECKÁ VALDOVSKÁ VALSKÁ VANICKÁ VELEBNÉHO VELETOVSKÁ VELIMSKÁ VESKÁ VLKANOVSKÁ VOBRUBOVA VRANICKÁ VŠEŇSKÁ WEISSOVA ZÁLEŠANSKÁ ZÁMĚLSKÁ
+
+162
+
+ZÁPOLSKÁ ZAŘÍČANSKÁ ZBYSLAVSKÁ ZBÝŠOVSKÁ ZBYTÍNSKÁ ZLIVSKÁ
+
+ŽABONOSKÁ ŽÁROVICKÁ ŽDÁNICKÁ ŽEBÍNSKÁ ŽEHUŠICKÁ ŽERETICKÁ
+
+ŽHERSKÁ ŽICHLÍNSKÁ ŽÍŠOVSKÁ ŽIVONÍNSKÁ ŽÍŽELICKÁ ŽLEBSKÁ 4. PARKY Park Blatov, č. parc. 713 v k. ú. Újezd nad Lesy; Parčík Rohožník, č. parc. 4352/1 v k. ú. Újezd nad Lesy; Park u staré školy, č. parc. 1652 a 1653 v k. ú. Újezd nad Lesy; 5. VEŘEJNÁ ZELEŇ plocha u rybníka Blatov, č. parc. 775/4 a 780/1, v k. ú. Újezd nad Lesy; plocha v ul. VLKANOVSKÁ –„ Ježkův park“, č. parc. 2954/1, v k., ú.  Újezd nad Lesy; Sídliště Rohožník, č. parc. 4306/1 a 4306/16, v k. ú. Újezd nad Lesy; Sídliště Rohožník, dráha č. parc. 4312/20 v k. ú. Újezd nad Lesy; plocha v ul. ROŘÍČSKÁ, č. parc. 1393/450 v k. ú. Újezd nad Lesy; plocha v ul. DRUHANICKÁ, č. parc. 501/1 v k. ú. Újezd  nad Lesy; plocha v ul. DUBINSKÁ, č. parc. 444/1 v k. ú. Újezd nad Lesy; plocha v ul. LUNÍKOVSKÁ, č. parc. 3735/105 v k. ú. Újezd nad Lesy; 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ otočka Rohožník, č. parc. 4312/20, 4351/3 v k. ú. Újezd nad Lesy; ulice TOUŠICKÁ, č. parc. 4084/1 před č. p. 2304 v k. ú. Újezd nad Lesy; ulice ŽÁROVICKÁ, č. parc. 4312/21, 4312/22 naproti č. p. 1653 (MŠ) v k. ú. Újezd nad Lesy; ulice MALEŠOVSKÁ 1652, atrium nemovitosti před SM ALBERT, č. parc. 4312/2 v k. ú. Újezd nad Lesy.
+
+MĚSTSKÁ ČÁST PRAHA 22
+
+1. NÁMĚSTÍ NÁM. BRATŘÍ JANDUSŮ HUSOVO NÁMĚSTÍ NOVÉ NÁMĚSTÍ
+
+NÁM. PROTIFAŠISTICKÝCH BOJOVNÍKŮ NÁM. SMIŘICKÝCH 2. TRŽIŠTĚ NOVÉ NÁMĚSTÍ 3. ULICE A CHODNÍKY Uhříněves BEČOVSKÁ BEROUNSKÁ BERYLOVÁ BLŠANECKÁ BŘIDLICOVÁ BYSTŘIČNÁ ČERNOTÍNSKÁ
+
+ČTYŘKOLSKÁ DOPRAVNÍ DUNAJSKÁ FIRKUŠNÉHO FRANTIŠKA DIVIŠE HULANOVA INGRIŠOVA
+
+JANA SRBA JEZERSKÁ JUPITEROVA K DÁLNICI K NETLUKÁM K PODCHODU K SOKOLOVNĚ
+
+163
+
+K VODICI KE KŘÍŽI KAMENNÁ KARLA ZICHA KAŠOVICKÁ KAŠPERSKÁ KOZÁKOVSKÁ KRÁSNOLIPSKÁ KŘELOVICKÁ KŘEMELNÁ KŘEMENNÁ KŘEŠÍNSKÁ LEŠOVSKÁ LIDICKÉHO LNÁŘSKÁ MERKUROVA MĚSÍČNÍ MODLANSKÁ MORÁVKOVA NA BLANICI NA NEŽÁRCE NA POTŮČKU NA VRCHÁCH NA VYSOČINĚ
+
+NAD VOLYŇKOU PARDUBICKÁ PECERADSKÁ PETŘÍKOVSKÁ PICASSOVA PLUTOVA PODLESKÁ PŘÁTELSTVÍ PSTRUŽNÁ RÁJECKÁ RAUCHOVA ROZDĚLENÁ SALAČOVA SATURNOVA SEMANSKÉHO SLUNEČNÍ SOUMARSKÁ STŘEDOHORSKÁ SUŠILOVA TATRANSKÁ TICHONICKÁ TRAMPOTOVA U NADÝMAČE U ŘÍČANKY
+
+U STARÉHO MLÝNA U STARÉHO NÁDRAŽÍ U ŽIDOVSKÉHO HŘBITOVA ÚPSKÁ URANOVA V BYTOVKÁCH V KUŤATECH V POTOKÁCH VÁCLAVA TROJANA VAČKÁŘOVA VACHKOVA VALŠOVSKÁ VENUŠINA VLÁRSKÁ VLASTY PRŮCHOVÉ VODICKÁ VYDERSKÁ ZA NADÝMAČEM ZA PIVOVAREM ZLENICKÁ ZUZANY NAVAROVÉ ŽELNAVSKÁ
+
+Hájek BLAŽKOVA DO PODKOVY FISCHLOVA KE KRÁLOVICŮM KŘESADLOVA
+
+POD JANKOVEM POD MARKÉTOU POD PŘEHRADOU PŘED OBOROU PŘEDPOLNÍ
+
+U KOLODĚJ U MARKÉTY U MEZNÍKU
+
+Pitkovice BEDLOVÁ ČIRŮVKOVÁ HLÍVOVÁ HOLUBINKOVÁ HŘÍBKOVÁ CHOROŠOVÁ KLOUZKOVÁ
+
+KOTRČOVÁ KOZÁKOVÁ KŘEMENÁČOVÁ LOŠÁKOVÁ MÁJOVKOVÁ MUCHOMŮRKOVÁ PEČÁRKOVÁ
+
+PENÍZOVKOVÁ PÝCHAVKOVÁ RYZCOVÁ SMRŽOVÁ STRAKOŠOVÁ V PITKOVIČKÁCH ŽAMPIÓNOVÁ ostatní nepojmenované ulice: k. ú. Pitkovice (č. parc.) 260/1, 260/3, 260/6, 260/12; k. ú. Uhříněves (č. parc.) 2111, 2135, 2141, 2142, 2157, 2162/1, 2163, 2164, 2166, 2175; 4. PARKY Uhříněves
+
+164
+
+Husův park mezi ul. HUSOVA, PODLESKÁ, PŘÁTELSTVÍ a DOPRAVNÍ č. parc. 785, 786, 2076, 2077 v k. ú. Uhříněves; park NA VRCHÁCH mezi ul. NA VRCHÁCH a STŘEDOHORSKÁ, č. parc. 955/2 v k. ú. Uhříněves; park „J. Kolihy“ mezi ul. LNÁŘSKÁ a tělesem železniční trati ČD, č. parc. 1882/18 v k. ú. Uhříněves; Pitkovice park mezi ul. KOZÁKOVÁ a MÁJOVKOVÁ, č. parc. 219/62 v k. ú. Pitkovice; park při ul. ČIRŮVKOVÁ, č. parc. 219/9, 219/61 v k. ú. Pitkovice; 5. VEŘEJNÁ ZELEŇ ostatní: Uhříněves mezi ul. PODLÉSKÁ a tělesem železniční tratě ČD, č. parc. 955/1, 955/6, 956/3, k. ú. Uhříněves; mezi ul. FR. DIVIŠE a PSTRUŽNÁ, č. parc. 1920/3, k. ú. Uhříněves; mezi ul. FR. DIVIŠE a NA BLANICI, č. parc. 2103, k. ú. Uhříněves; podél ul. VODICKÁ, č. parc. 1369, k. ú. Uhříněves; kolem obytného domu ul. NA VYSOČINĚ, č. parc. 1435/7, k. ú. Uhříněves; mezi obytnými domy ul. V BYTOVKÁCH, č. parc. 1646/2, 13, 18, 19, 29, k. ú. Uhříněves; podél ul. V BYTOVKÁCH, č. parc. 1653/4 v k. ú. Uhříněves; mezi ul. DOPRAVNÍ a U STARÉHO NÁDRAŽÍ, č parc. 2073/1, k. ú. Uhříněves; podél ul. U STARÉHO NÁDRAŽÍ, č. parc. 2072, k. ú. Uhříněves; u autobusové zastávky PICASSOVA, č. parc. 974/2, k. ú. Uhříněves; mezi obytnými domy ul. FR. DIVIŠE, č. parc. 2176/4, 1900/5, 1900/77, 1900/78, 1900/103, k. ú. Uhříněves; mezi ul. FR. DIVIŠE a ul. K DÁLNICI, č. parc. 2039, k. ú. Uhříněves; podél ul. K DÁLNICI, č. parc. 535, 534/2, k. ú. Uhříněves; mezi ul. K DÁLNICI a LNÁŘSKÁ, č. parc. 1882/17, k. ú. Uhříněves; podél ul. K DÁLNICI, č. parc. 1900/42, k. ú. Uhříněves; podél ul. LNÁŘSKÁ, č. parc. 2026/3, k. ú. Uhříněves; protihlukový val mezi ul. VALŠOVSKÁ a JANA SRBA, č. parc. 1879/16, 1879/78 k. ú. Uhříněves; podél ul. PŘÁTELSTVÍ, č. parc. 1529/1, 1529/12, 1535, 1640,1641/1, 1641/3, 641/4, 1641/5, 1641/6, 1641/7, v k. ú. Uhříněves; kolem bytových domů ul. PŘÁTELSTVÍ, č. parc. 1049/1,1049/2, 1049/11, k. ú. Uhříněves; NOVÉ NÁMĚSTÍ, č. parc. 674, 687, 673/1,673/2, 673/26, 673/27, 673/29, 673/30, 673/31, 673/32, 673/33, 673/34, 673/35, 673/36, 673/37, 673/38, 673/39, 673/40, 673/41, 604/1 k. ú. Uhříněves; nám. PROTIFAŠISTICKÝCH BOJOVNÍKŮ, č. parc. 2060, k. ú. Uhříněves; nám. BŘÍ JANDUSŮ, č. parc. 2003, 2002, 2004, k. ú. Uhříněves; mezi ul. K SOKOLOVNĚ a ul. ZA PIVOVAREM, č. parc. 126, k. ú. Uhříněves; podél ul. ZA NADÝMAČEM, č. parc. 1841/6, k. ú. Uhříněves; kolem bytových domů ul. SUŠILOVA, č. parc. 1906/1, 1906/26, 1906/29, 1906/41, 1906/42, 1906/43, 1906/45, 1906/54, 1906/55 v k. ú. Uhříněves; kolem bytových domů ul. VENUŠINA a SATURNOVA, č. parc. 1814/225, 1814/226, 1814/227, 1814/228, 1814/245, 1814/246, 1814/247, 1814/248, 1814/378, 1814/380, 1814/385, 1814/388, 1814/392, 1814/396, 1814/399, 1814/403 v k. ú. Uhříněves;
+
+165
+
+kruhový objezd PŘÁTELSTVÍ x K NETLUKÁM x K UHŘÍNĚVSI, č. parc. 1793/23, 1796/1, 2167/2, 2167/3 v k. ú. Uhříněves; podél ul. K NETLUKÁM, č. parc. 42/8, 43/2, 1767/5 v k. ú. Uhříněves; okolo bytových domů K NETLUKÁM, č. parc. 44/21, 44/37, 1793/7, 1793/12, 1793/20, 1793/21, 1793/24, 1793/25 v k. ú. Uhříněves; Pitkovice podél ul. ŽAMPIONOVÁ, č. parc. 15, 174/1, k. ú. Pitkovice; podél ul. V PITOVIČKÁCH, č. parc. 135, k. ú. Pitkovice; kolem Pitkovických rybníků č. parc. 223,226/3, 227, 229, 230; kolem bytových domů při ul. MÁJOVKOVÁ, č. parc. 219/138, 219/145, 219/152, 219/159, 219/168, 219/171, 219/172, 219/296, 219/303, 219/307, 219/320, 219/326, 219/339, 219/347, 219/348, 219/495, 219/496 v k. ú. Uhříněves; ul. KOTRČOVÁ č. parc. 219/63; Hájek podél ul. PŘEDPOLNÍ, č. parc. 118, 141/1, 141/2, 141/9, 141/10, 142, 171 k. ú. Hájek; mezi ul. POD MARKÉTOU, č. parc. 126/1, 127/1, 159/1, k. ú. Hájek; 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ k. ú. Uhříněves (č. parc.) 1058, 1059, 1060/2.
+
+MĚSTSKÁ ČÁST PRAHA-BENICE 1. NÁMĚSTÍ není stanoveno žádné veřejné prostranství, 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY CHOTĚBUZSKÁ K LIPANŮM K PITKOVICŮM K POTOKU KVĚTNOVÉHO POVSTÁNÍ
+
+NA KOUPALIŠTĚ NA LUKA OCHRANOVSKÁ OKRASNÁ U CÍSAŘSKÉ CESTY U ZAHRÁDEK
+
+V PRUTINÁCH ZKRÁCENÁ ŽITAVSKÁ
+
+4. PARKY není stanoveno žádné veřejné prostranství, 5. VEŘEJNÁ ZELEŇ ostatní: prostranství před Úřadem městské části Praha-Benice, č. parc. 6 v k. ú. Benice; parkově upravená plocha před prodejnou, č. parc. 143/1 v k. ú. Benice; parkově upravená plocha podél ul. NA KOUPALIŠTĚ, č. parc. 160/1 v k. ú. Benice; prostranství okolo Čerpací stanice kanalizace, č. parc. 159/4  a 160/2 v k. ú. Benice;
+
+166
+
+plochy zeleně podél ul. KVĚTNOVÉHO POVSTÁNÍ, č. parc. 142, 163/1,  163/2, 164 a 165/2 v  k. ú. Benice; veřejná zeleň č. parc. 25/7, 159/38, 268/6 v k. ú. Benice; 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ chodník na č. parc. 37/10 a 38/2 v k. ú. Benice; turistická cesta na pozemcích č. parc. 40/1 a 289/2 v k. ú. Benice; turistické cesty k. ú. Benice (č. parc.) 40/1 65/1 65/6
+
+186/1 189/3 277/106
+
+290/3 292/10 293/20
+
+308/17 312/38 315/13
+
+316/2 316/3 317 turistická cesta k Čestlicím č. parc. 252/6, 256 v k. ú. Benice.
+
+MĚSTSKÁ ČÁST PRAHA-BĚCHOVICE
+
+1. NÁMĚSTÍ není stanoveno žádné veřejné prostranství, 2. TRŽIŠTĚ veřejné parkoviště u samoobsluhy, č. parc. 61 v k. ú. Běchovice; občerstvení při čerpací stanici „Petr“ ul. ČESKOBRODSKÁ, č. parc. 1205/3, 1205/9, 1205/46, 1205/47, 1205/49 v k. ú. Běchovice; vydlážděný pás mezi budovou bývalého úřadu (č. p. 479) a fotbalovým hřištěm (pozemek parc. č. 50/1); 3. ULICE A CHODNÍKY ANTONÍNA HODNÉHO BEČVÁŘSKÁ ČESKOBRODSKÁ DO DUBČE DO PANENEK DO ŘÍČAN DO ÚJEZDA DOLNOPOČERNICKÁ DRŮBEŽNICKÁ HASIČSKÁ JANA KARAFIÁTA JOSEFA NĚMCE K JALOVCE K JELENU K TÁBORU K ŽELEZNICI KE KOLODĚJŮM KE TŘEM MOSTŮM
+
+LILKOVÁ LITOŽNICKÁ MANŽELŮ KOTRBOVÝCH MANŽELŮ LYČKOVÝCH MLADÝCH BĚCHOVIC MÝTNÍ NA KORUNCE NA SPÁLENIŠTI NA VAŇHOVĚ NA VYDRHOLCI NAD NÁDRAŽÍM NAD PROPUSTÍ NAD RYBNÍKEM OTAKARA VRBY PODNIKATELSKÁ POVOZNICKÁ
+
+PPLK. NOVÁČKA PROSNÁ PŘÍPŘEŽNÍ PŠENIČNÁ RICHTROVA SETBOVÁ TRAVNATÁ U ŠKOLNÍHO POLE U VRBY U VÝZKUMU V OKÁLECH V POTOČINÁCH VÁCLAVA KOVAŘÍKA VÝJEZDOVÁ ZA POŠTOVSKOU ZAHRADOU
+
+4. PARKY Park manželů Kotrbových, č. parc. 1046 v k. ú. Běchovice; Park u samoobsluhy, č. parc. 59/1 v k. ú. Běchovice;
+
+167
+
+Park u základní školy, č. parc. 566, 567, 5714, 573 v k. ú. Běchovice; Park v Kuťatech, č. parc. 200, 203 v k. ú. Běchovice; Pomník padlých s přilehlou plochou, č. parc. 129 v k. ú. Běchovice; Rubešovy sady, č. parc. 831 v k. ú. Běchovice; Park Běžců, č. parc. 197, 204 v k. ú. Běchovice;
+
+5. VEŘEJNÁ ZELEŇ doprovodná zeleň: u hasičské nádrže, č. parc. 47 v k. ú. Běchovice; u Jalovky, č. parc. 1460, 1461 v k. ú. Běchovice; u „staré pošty“, č. parc. 61, 62 v k. ú. Běchovice; ostatní: ul. DO PANENEK, č. parc. 409 v k. ú. Běchovice; panelová cesta k čističce odpadních vod, č. parc. 1267 v k. ú. Běchovice; cesta k měnírně (za tratí vpravo), č. parc. 1400/1, 1400/2, 1400/3 k. ú. Běchovice; 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ prostranství u železniční stanice Praha - Běchovice, č. parc. 767, 768/1, 1220/2, v  k. ú. Běchovice; veřejné hřiště (Za Poštovní zahradou), č. parc. 51 v k. ú. Běchovice; plocha u bývalého úřadu městské části, č. parc. 5, 47, 49, 50/1, 52 a 53 v k. ú. Běchovice; č. parc. 191/4, 192, 195/2 a 199 v k. ú. Běchovice; U Stachů při ul. KE KOLODĚJŮM, č. parc. 506 v k. ú. Běchovice; v okolí „bazénu“, u bývalého areálu VÚ, č. parc. 1276/3  v k. ú. Běchovice.
+
+MĚSTSKÁ ČÁST PRAHA-BŘEZINĚVES
+
+1. NÁMĚSTÍ není stanoveno žádné veřejné prostranství, 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY BEZINKOVÁ CHRÁNĚNÁ JOHANITSKÁ NA BOLESLAVCE NA FABIÁNCE NA HLAVNÍ NA HORCE
+
+NA NÁVRATI NA PLUŽINĚ NA POLI NAD HŘIŠTĚM K BŘEZINCE KE ZDIBŮM PETRÁČKOVA
+
+SKŘIVÁNČÍ U PARKU V KŘEPELKÁCH V LÁNECH VZDÁLENÁ ZA SADEM
+
+4. PARKY park sv. Jana Nepomuckého, 5. VEŘEJNÁ ZELEŇ není stanoveno žádné veřejné prostranství,
+
+168
+
+6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ není stanoveno žádné veřejné prostranství.
+
+MĚSTSKÁ ČÁST PRAHA-ČAKOVICE
+
+1. NÁMĚSTÍ NÁM. 25. BŘEZNA NÁM. J. BERANA SLAVIBORSKÉ NÁM.; 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY ADÉLČINA BABIČČINA BAREŠOVA BECKOVSKÁ BĚLOMLÝNSKÁ BENDLOVA BERMANOVA BLACHUTOVA CIRKOVA CUKERNÍ CUKROVARSKÁ ČÁPOVA ČÉČELICKÁ DANIELOVA DOUBRAVSKÁ DR. MARODYHO DYJSKÁ ENGLEROVA FROŇKOVA HAKENOVA HAMPLOVA HOMOLOVA HRDINOVA CHMELÍŘOVA JINDŘICHOVA JIRSÁKOVA JIZERSKÁ K AVII K HÁRUNCE K NÁVSI K PŘEJEZDU K SEDLIŠTI K TEPLÁRNĚ KAŠEHO
+
+KE STADIONU KE ZLATÉMU KOPCI KOLÁŘE KALINY KOTRŠÁLOVA KOSTELECKÁ KOSTKOVA KOŠÁTECKÁ KOUBOVA KOVÁŘE JANOVSKÉHO KRÁLOVA KRČMÁŘOVSKÁ KRYSTALOVÁ KYMROVA KYSUCKÁ LITAVSKÁ LUŽNICKÁ MEZI HŘBITOVY MACHNOVA MARIE PODVALOVÉ MARTY KRÁSOVÉ MYJAVSKÁ NA BAHNECH NA BARIKÁDÁCH NA KAČENCE NA MÝTĚ NA PRAMENECH NA STARÉ NÁVSI NA ZLATÉ NAVAROVA NĚVSKÁ NISKÁ ODERSKÁ OSTRAVICKÁ
+
+OTAVSKÁ OUHRABKOVA PETŘÍKOVA PLAJNEROVA POD FOŘTEM POD NÁVSÍ PODLE SADŮ POLABSKÁ PREBSLOVA PŘED SKÁLOU PŠOVANSKÁ RADBUZSKÁ RADONICKÁ RYCHTÁŘE ŠIMONA RÝNSKÁ ŘEPOVÁ SCHOELLEROVA SVĚCENÉHO SVITAVSKÁ SVRATECKÁ ŠIRCOVA ŠPECIÁNOVA TRYSKOVICKÁ TŘTINOVÁ TUHÁŇSKÁ U BÍLÉHO MLÝNKU U ČERVENÉHO MLÝNKU U FOŘTA U NÁDRAŽÍ U PÁRNÍKŮ U STARÉ TVRZE U STROUHY U VRBIČEK
+
+169
+
+U ZBROJNICE ÚSLAVSKÁ V PAČÁTKÁCH VÁŽSKÁ VIKTORČINA
+
+VOJÁČKOVA VŠETATSKÁ VYHLÍDKOVA ZA AVIÍ ZA TRATÍ
+
+ZA MŮSTKEM ZÁMIŠOVA ZÁPSKÁ
+
+4. PARKY SADY VÍTĚZSTVÍ (zámecký park), SADY HUSITSKÉ REVOLUCE (Husův park); 5. VEŘEJNÁ ZELEŇ zelené plochy přiléhající ke komunikacím a chodníkům uvedené v bodě 3; sídlištní zeleň: lokality mezi bloky obytné zástavby ohraničené ulicemi: OTAVSKÁ, NĚVSKÁ, VÁŽSKÁ, KE STADIONU, č. parc. 1157, 1158, 1162, 1176, 1182, 1186, 1187, 1191, 1195, 1196 v k. ú. Čakovice; SVITAVSKÁ, NĚVSKÁ, ODERSKÁ, KE STADIONU; U PÁRNÍKŮ, CUKROVARSKÁ, č. parc. 1086, 1088, 1090, 1303/2, 1303/3, 1303/4 v k. ú. Čakovice; DYJSKÁ, MYJAVSKÁ, SVRATECKÁ, č. parc. 1170/3 v k. ú. Čakovice; CUKROVARSKÁ, KE STADIONU, č. parc. 1220, 1222/1, 1222/6, 1222/7, 1222/8, 1222/9, 1222/10, 1222/11, 1222/12, 1224/1 v k. ú. Čakovice; POLABSKÁ, NA KAČENCE, BENDLOVA, ČÉČELICKÁ – vnitroblok, č. parc. 13/3, 13/22, 13/31, 13/37, 13/38, 13/39, 13/40, 13/41, 13/52, 13/74 v k. ú. Miškovice; ostatní: veřejná zeleň u parkoviště, č. parc. 136 v k. ú. Třeboradice; veřejná zeleň č. parc. 234/4, 512, 525 v k. ú. Třeboradice; veřejná zeleň č. parc. 482 v k. ú. Třeboradice; veřejná zeleň č. parc 1265/2, 1265/4, 1265/8, 1279/1, 1279/4, 1280/1, 1280/16, 1280/20, 1280/23, 1280/42, 1286/4 v k. ú. Čakovice; 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ část chodníku před restaurací, č. parc. 524 v k. ú. Třeboradice; prostranství při ul. SCHOELLEROVA mezi č. p. 9 a č. p. 15, č. parc. 509, v k. ú. Třeboradice; prostranství před poštou při ul. CUKROVARSKÁ, č. parc. 1451/1 v k. ú. Čakovice; prostranství před prodejnou potravin Kalamajka, č. parc. 799/1 v k. ú. Čakovice. prostranství v proluce vedle restaurace Na Poště, č. parc. 131 v k. ú. Čakovice; veřejné parkoviště u ul. MEZI HŘBITOVY, č. parc. 136 v k. ú. Třeboradice; prostranství před zámkem v Čakovicích, č. parc. 1271/2 v k. ú. Čakovice.
+
+MĚSTSKÁ ČÁST PRAHA – DOLNÍ CHABRY 1. NÁMĚSTÍ BÍLENECKÉ NÁM. HRUŠOVANSKÉ NÁM.; 2. TRŽIŠTĚ
+
+170
+
+BÍLENECKÉ NÁM.; U VÁHY (slepá část, u trafostanice); 3. ULICE A CHODNÍKY BOLEBOŘSKÁ BUDYŠÍNSKÁ CITOLIBSKÁ CÍTOVSKÁ DO RYBNÍČKŮ DOKSANSKÁ DOMAŠÍNSKÁ DOPRAVÁKŮ DOUBICKÁ DVORNÍ DVOŘÁKOVA JANA MARKA JIRKOVSKÁ JOSEFA VAŠÍČKA K BRNKÁM K ĎÁBLICŮM K DRAHANI K LÁDVÍ KADAŇSKÁ KARLA RACHŮNKA KLÁŠTERECKÁ KOBYLISKÁ KOZOMÍNSKÁ KRBICKÁ
+
+KŘIMOVSKÁ LÁDEVSKÁ LEDČICKÁ LIBĚDICKÁ LIBOCHOVICKÁ LIBOŇOVSKÁ LITICKÁ MĚDĚNECKÁ MILANA KADLECE NA DOLÍKU NA PĚŠINĚ NA ŠUBĚ NAD ÚVOZEM NOVÁ OBSLUŽNÁ OSECKÁ POD HRÁZÍ POD KŘÍŽEM POD VÁCLAVEM POD VĚTROLAMEM POD ZÁMEČKEM PERŠTEJNSKÁ PEŠOVA PIHELSKÁ
+
+PLOSKOVICKÁ POČERADSKÁ PODHOŘSKÁ PROTILEHLÁ PRUNÉŘOVSKÁ PŘED SOKOLOVNOU SPOŘICKÁ TUŠIMICKÁ U JIRKOVSKÉ U JÍZDÁRNY U RYBNÍČKA U VÁCLAVA U VÁHY U VĚTROLAMU ÚDLICKÁ ULČOVA ÚSTECKÁ V AMERICE V KRATINÁCH VELEMÍNSKÁ VERNÉŘOVSKÁ ŽĎÁRSKÁ
+
+4. PARKY není stanoveno žádné veřejné prostranství, 5. VEŘEJNÁ ZELEŇ zeleň na rohu ulic ÚSTECKÁ a ULČOVA, č. parc. 1472, 1536 v k. ú. Dolní Chabry; zeleň u základní školy, č. parc. 559/l v k. ú. Dolní Chabry; zeleň při ul. U VÁCLAVA, č. parc. 143 v k. ú. Dolní Chabry; zeleň proti poště při ul. SPOŘICKÁ, č. parc. 678/2 v k. ú. Dolní Chabry; zeleň za podjezdem při ul. SPOŘICKÁ, č. parc. 1233/7 v k. ú. Dolní Chabry; zeleň při ul. U RYBNÍČKA, č. parc. 1448/1 v k. ú. Dolní Chabry; zeleň NA DOLÍKU, č. parc. 1392/1 v k. ú. Dolní Chabry; 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ roh ulic U RYBNÍČKA a KRBICKÁ, č. parc. 1446 v k. ú. Dolní Chabry; prostranství mezi ul. DVORNÍ a trafostanicí, č. parc. 660/1 v k. ú. Dolní Chabry; prostranství mezi ul. SPOŘICKÁ a trafostanicí, č. parc. 676 v k. ú. Dolní Chabry; zeleň k ul. U VÁCLAVA a V AMERICE, č. parc. 144/1,3, 552/1 v k. ú. Dolní Chabry; zeleň při ul. DOPRAVÁKŮ (před JA & SA), č. parc. 1374/79 v k. ú. Dolní Chabry; zatrubněný úsek Drahaňského potoka při ul. POD ZÁMEČKEM, č. parc.1492/1 v k. ú. Dolní Chabry; zeleň při ul. SPOŘICKÁ a NA PĚŠINĚ, č. parc. 1396 v k. ú. Dolní Chabry;
+
+171
+
+cesta Beranov, č. parc. 1405/1 v k. ú. Dolní Chabry.
+
+MĚSTSKÁ ČÁST PRAHA-DOLNÍ MĚCHOLUPY
+
+1. NÁMĚSTÍ není stanoveno žádné veřejné prostranství, 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY ARMÁDNÍHO SBORU ČS. TANKISTŮ DIBLÍKOVA DOLNOMĚCHOLUPSKÁ FR. JANSY HONZÍKOVA KARDAUSOVA K MĚCHOLUPŮM KE DRÁZE KE KABLU KE SLATINÁM KE STINKOVSKÉMU RYBNÍKU KE STROUZE KE ŠKOLCE KRYŠPÍNOVA
+
+KUTNOHORSKÁ MEZI HUMNY NA KONCI NA LOUCE NA NÁVSI NA PALOUČKU NA SLAVÍKOVĚ NAD SADEM NAD VOKOLKY NAD ZATÁČKOU PARKOVÁ POD HŘIŠTĚM POD LESÍKEM U KABELOVNY U PŘEJEZDU U STŘEDISKA
+
+U SVORNOSTI U ŠUMAVY U TŮNĚ U VÝSTAVBY U ZAHRADY V DOLINÁCH V NÍŽINÁCH V OSIKÁCH V PLANINÁCH ZA KOVÁRNOU ZA KŘÍŽEM ZA STODOLOU ZA ZAHRADAMI ZA ZASTÁVKOU
+
+4. PARKY centrální park za školou, č. parc. 125/1 v k. ú. Dolní Měcholupy; park v ul. POD LESÍKEM, č. parc. 85/3, 85/15 v k. ú. Dolní Měcholupy; park u ul. DOLNOMĚCHOLUPSKÁ, č. parc. 675/24 v k. ú. Dolní Měcholupy; 5. VEŘEJNÁ ZELEŇ ostatní: okolí Country salonu v ul. ZA KŘÍŽEM, č. parc. 806 v k. ú. Dolní Měcholupy; prostranství před č. p. 371, č. parc. 32/1 a 32/4 v k. ú. Dolní Měcholupy; parkové úpravy před ZENTIVA, a. s., přiléhající k ul. U KABELOVNY, č. parc. 707 v  k. ú. Dolní Měcholupy; park v ul. PARKOVÁ, č. parc. 763 v k. ú. Dolní Měcholupy; NA NÁVSI, okolí rybníčku, č. parc. 123, 727, 728/1, 728/3, 728/4, 728/5, 728/6, 728/7; 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ odstavné plochy: před objektem č. p. 359 (SSŽ), č. parc. 645/1, 645/12 a 645/13  v k. ú. Dolní Měcholupy; před objektem č. p. 288 (Průmstav), č. parc. 642/4  v k. ú. Dolní Měcholupy; před objektem AWATECH, č. parc. 642/66 a 642/67  v k. ú. Dolní Měcholupy;
+
+172
+
+před objektem č. p. 309 (SDM), č. parc. 642/1 v k. ú. Dolní Měcholupy.
+
+MĚSTSKÁ ČÁST PRAHA-DOLNÍ POČERNICE
+
+1. NÁMĚSTÍ není stanoveno žádné veřejné prostranství, 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY BAKURINOVA BERNARTICKÁ BEZDĚKOVSKÁ BOHUSLAVICKÁ ČESKOBRODSKÁ DOLNOBRANSKÁ DUBENECKÁ HRABAČOVSKÁ HRUŠKOVSKÁ HŘIBOJEDSKÁ JANA BÍLKA JINOLICKÁ K ČIHADLŮM K HÁJI K ZÁMKU KE HRÁZI KNĚŽICKÁ
+
+KOHOUTOVSKÁ LANŽOVSKÁ LIBOTOVSKÁ MADAROVA MAKOVSKÁ NAD ROKYTKOU NAD RYBNÍKEM NÁRODNÍCH HRDINŮ NOVOZÁMECKÁ PILNÍKOVSKÁ PODKRKONOŠSKÁ PŘÍCHOVICKÁ RTYŇSKÁ RUDNÍKOVSKÁ STARÁ OBEC STAROPACKÁ STRÁŽKOVICKÁ
+
+STUDENECKÁ SVATOŇOVICKÁ ŠTĚPANICKÁ TŘEBIHOŠŤSKÁ U KONEČNÉ U KONÍ U VÝZKUMU ÚPICKÁ V ČEŇKU V PADOLINĚ V PAŘEZINÁCH V RÁJI V ZÁHORSKÉM VLČICKÁ ZA LUHEM ZÁBLATSKÁ ŽDÍRNICKÁ 4. PARKY park u Váhy, č. parc. 942/1 v k. ú. Dolní Počernice; 5. VEŘEJNÁ ZELEŇ cesta ke zdravotnickému centru, č. parc. 756/5 a 756/11 v k. ú. Dolní Počernice; 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ nepojmenované cesty: k. ú. Dolní Počernice: cesta k podchodu pod železniční tratí, č. parc. 1556; pokračování ul. HRUŠKOVSKÁ, č. parc. 1557/1; pokračování ul. LANŽOVSKÁ k podchodu pod železniční tratí, č. parc. 1558/2; cesta k ul. K ČIHADLŮM, č. parc. 1579; cyklistická stezka z ul. LOMNICKÁ přes ul. NÁRODNÍCH HRDINŮ (podél ulice V ZÁHORSKÉM) a dále pod ŠTĚRBOHOLSKOU RADIÁLOU na hranice s k. ú. Dubeč; cesta k Počernickému rybníku od ul. ČESKOBRODSKÁ, č. parc. 1588; cesta pod řadovými domky V PAŘEZINÁCH, parc. č. 1598; cesta k nádraží v Běchovicích z ul. NAD RYBNÍKEM, č. parc. 1591/1, 1591/2;
+
+173
+
+cesta okolo VÚ Běchovice, č. parc. 1601, 1602/1, 1602/3, 1602/4, 1602/5, 1602/6, 1602/7, 1602/8, 1602/9, 1602/10, 1602/11, 1602/12, 1602/13, 1602/14; cesta od ul. NÁRODNÍCH HRDINŮ k hájence, č. parc. 1603/1, 1603/2, 1603/4, 1603/6; cesta k rybníku Martiňák, č. parc. 1436/11; cesta od parčíku V ČEŇKU, č. parc. 1574/1; cesta č. parc. 1613/1; cesta podél rybníka č. parc. 1589; podél PRAŽSKÉHO OKRUHU, č. parc. 1448/87, 1448/89; veřejná parkoviště: k. ú. Dolní Počernice: u zdravotního centra, č. parc. 756/3 a756/4; u zahradnictví, č. parc. 1517; ul. V RÁJI u fotbalového hřiště a tenisových kurtů, č. parc. 1567/1; u č. p. 26 parc. č. 386; u hotelu Svornost, č. parc. 526; u č. p. 7 (penzion Český statek), č. parc. 308; u hlavního vstupu do zámeckého parku, č. parc. 1569; u mateřské školy, č. parc. 1520; před č. p. 3, č. parc. 14; u restaurace Na Barborce, č. parc. 1552; u dětského domova, č. parc. 1518/1; u kempu, č. parc. 1490, 1518/1; u zastávky ČD, část č. parc. 1502; ostatní: k. ú. Dolní Počernice: park za hřbitovem parc. č. 1356/1, parc. č. 1357 a 1361/3; u zastávky ČD, č. parc. 1348; parčík V ZÁHORSKÉM, č. parc. 1542/6; parčík u Váhy, č. parc. 943, 944; okolí ul. NAD RYBNÍKEM, č. parc. 1468, 1469/6, část 24/1; prostranství před č. p. 4 a cesta mezi kempem a č. p. 4, č. parc. 1580; dětské hřiště a zeleň u Rokytky č. parc. 386, 1350; obratiště autobusů v ul. U KONEČNÉ, č. parc. 1494/1, 1494/3; č. parc. 1508/1, mezi č. p. 901 a č. p. 78 a od parc. č. 1508/13 na konec k. ú. Dolní Počernice; okolí zastávky ČD - č. parc. 1502, 1503, 1504; okolí ul. ČESKOBRODSKÁ, č. parc. 597, 663, 1341, 1343, 1475/8, 1495/1, 1495/2, 1496/1, 1515/1; u rybníka Martiňák, severní neobdělávaná část č. parc. 1361/3 k hranici pozemku č. parc. 1362, část č. parc. 1362 mezi č. parc. 1361/3 a 1364 a 1640, 1436/3; okolí ul. NÁRODNÍCH HRDINŮ, č. parc. 377, 378, 614, 1329/4, 1329/29, 1329/34, 1442/4, 1500/19, 1516, 1517, 1518/1, 1581/2, 1519/1, 1519/4, 15919/5, 1519/11, 1519/14, 1519/15, 1552, 1568, 1569, 1570/1, 1613/2, 1641/10, 1541/11, 1541/12, 1541/13, 1541/14, 1541/15, 1541/16, 1541/17, 1641/21, 1641/22, 1641/23, 1641/24, 1641/25, 1641/26; mezi tratěmi, č. parc. 1346, 1347/1, 1347/2, 1347/3, 1347/4, 1347/5; okolí Štěrboholské radiály, č. parc. 1641/1, 1641/3, 1641/4, 1641/7, 1641/9, 1641/13, 1641/14, 1641/15, 1641/16, 1641/17, 1641/18, 1641/19, 1641/27, 1642/1; k. ú. Dolní Počernice (č. parc.)
+
+174
+
+1320/3 1329/1 1329/5 1438/31 1438/35 1438/39 1444/3 1448/2 1448/87 1448/88 1448/89 1451/2 1520 1522 1523 1524/1 1524/2 1525 1526 1527 1528/1 1528/2 1528/3 1528/4 1529 1530 1531 1532 1533 1534 1535
+
+1536/1 1536/2 1536/3 1536/4 1537/1 1537/2 1537/3 1538 1539 1540 1541/1 1542/8 1543/1 1544 1545 1546 1547 1549/1 1549/2 1550/1 1550/2 1550/3 1551 1553 1555 1558/1 1559 1560 1561 1562 1563
+
+1564 1565 1566 1567/1 1571/1 1571/2 1571/3 1572 1575/1 1575/2 1575/3 1575/4 1575/5 1575/6 1575/7 1575/8 1575/9 1575/10 1575/11 1576 1577 1578/1 1578/2 1578/3 1582/1 1582/2 1582/5 1582/6 1582/13 1582/14 1582/16
+
+1582/17 1582/18 1582/19 1582/20 1582/21 1582/22 1582/23 1582/24 1582/25 1582/26 1582/27 1582/28 1582/29 1582/30 1582/31 1582/32 1582/33 1582/34 1582/35 1582/36 1582/37 1582/38 1592/1 1593/1 1593/2 1595/1 1595/2 1595/18 1595/19 1595/20 1595/21
+
+1595/22 1595/23 1595/24 1595/25 1595/26 1595/27 1595/28 1595/29 1597/1 1597/2 1599/1 1599/2 1599/3 1599/4 1599/5 1599/6 1599/7 1599/8 1599/9 1599/10 1599/11 1599/12 1599/13 1599/14 1599/15 1599/16 1599/17 1599/18 1599/19 1599/20 1600
+
+MĚSTSKÁ ČÁST PRAHA-DUBEČ
+
+1. NÁMĚSTÍ LIPOVÉ NÁM., NÁM. U LÍPY SVOBODY; 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY BEZPRAŠNÁ DUBEČSKÉ HORKY FRANTIŠKA ČERVENÉHO HALŠTATSKÁ JOSEFA ŠIMŮNKA K HÁDKU
+
+K HORNÍM POČERNICÍM K OPLOCENÍ K PASTVINÁM K PEKÁRNĚ K PRAMENU K PRŮMSTAVU
+
+K SAMOTĚ K STARÉMU LOMU K VILKÁM KE KOLODĚJSKÉMU ZÁMKU KE KOPEČKU KE KŘÍŽKÁM
+
+175
+
+KALAŠOVA KOLOCOVA KVĚTOSLAVOVA MARTINOVA MĚSTSKÁ MIKOVA NA HÁDKU NA HORKÁCH NA LÁZEŇCE NA OSTROVĚ NA OVČÁCKÉM NAD MLÝNSKÝM POTOKEM NEPOVOLENÁ NETLUCKÁ NEZDOVA PODLESEK
+
+REZEDOVÁ SLATINY SMÍRNÁ STARODUBEČSKÁ STAVEBNÍ STINKOVSKÁ STRADONICKÁ ŠTRAMBERSKÁ U DUBEČSKÉ TVRZE U HODIN U LÁZEŇKY U LIPOVÉ ALEJE U LOMU U PAVILONU U PRODEJNY U STARÉ SKLÁDKY U STARÉ STUDÁNKY
+
+U STARÉHO SPLAVU U TRANSFORMÁTORU U VIKTORKY V KALIŠTI V KŘÍŽKÁCH V POLI V ROHOŽNÍKU VELFLOVICŮ WINKLEROVA ZA HŘBITOVEM ZA LÁZEŇKOU ZA LESÍKEM ZA PAVILÓNEM ZA PEKÁRNOU ZAPSKÝCH ZÁTIŠÍ
+
+4. PARKY park na pozemku parc. č. 934 v k. ú. Dubeč; park před Základní školou na pozemku parc. č. 943 v k. ú. Dubeč; park U Lípy svobody na pozemku parc. č. 1216/1 v k. ú. Dubeč; park Panská zahrada parc. č. 1006/1 v k. ú. Dubeč; 5. VEŘEJNÁ ZELEŇ k. ú. Dubeč (č. parc.) 994/2, 1212/1, 1212/3; ostatní: k. ú. Dubeč (č. parc.) 757/1, 757/10, 759/2, 1209/1, 1209/2; 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ tržní místa: LIPOVÉ NÁMĚSTÍ parc. č. 2, 3, 428, 429 v k. ú. Dubeč; prostranství mezi sokolovnou a základní školou parc. č. 935, 943 v k. ú. Dubeč; prostranství mezi ul. MĚSTSKÁ, STARODUBEČSKÁ a ZA PAVILÓNEM parc. č. 757/1, 757/10 v k. ú. Dubeč; prostranství před č. p. 400 STARODUBEČSKÁ víceúčelová plocha parc. č. 757/10 v k. ú. Dubeč; ostatní: prostranství - LIPOVÉ NÁM., před hospodou U Králíka; parkoviště před č. p. 1182 v ul. K VILKÁM; schody před č. p. 508-510 v ul. NAD MLÝNSKÝM POTOKEM; prostranství před č. p. 11 NETLUCKÁ parc. č. 1161/1, 1167/3, 1215/3 v k. ú. Dubeč; prostranství v k. ú. Dubeč (č. parc.): 2 3 25 46 92 94/1 101 102
+
+142/6 167
+
+176
+
+178 232/1 235/2 239 241/10 297 349 352 409 413/1 428 429 452/1 462/1 463/2 465 468 476 477 497 527 618/2 660/1 660/4 660/26 665 694 705 729 755/3 756 757/4 757/6 755/3 756 757/1 757/10 757/11 759/1 759/2
+
+760/11 820 901 929 935 941 945 946/1 951 964 974/6 974/8 974/9 981 982 998/1 1005/1 1029 1036 1043 1044/1 1052 1058 1099 1106 1117 1155 1158 1167/1 1167/3 1167/6 1182 1194 1209/3 1212/2 1212/3 1214/1 1214/2 1215/1 1215/2
+
+1215/3 1225/1 1225/2 1225/3 1262/1 1322 1351/1 1351/2 1352/1 1352/3 1354 1361 1381 1417 1419/1 1419/2 1419/3 1425 1426/1 1426/4 1429/1 1429/2 1431 1442 1447 1457 1463 1464 1479 1483/2 1483/3 1483/4 1483/15 1483/17 1493 1498/2 1503/1 1503/2 1505/1 1506
+
+1517 1524/1 1524/3 1524/4 1524/5 1524/6 1524/7 1524/8 1524/9 1524/10 1524/11 1524/12 1524/13 1524/14 1524/15 1524/16 1524/17 1524/18 1542 1544 1549 1551 1158/13 1569 1582/3 1582/5 1582/9 1587 1590 1592 1604 1605/1 1605/3 1605/4 1605/5 1605/6 1605/7 1605/8 1506/9 1605/10
+
+1608/2 1611 1612 1634 1677 1686/1 1684/4 1738 1753 1754 1758/2 1758/3 1758/11 1759/4 1759/6 1759/7 1759/16 1759/17 1760 1762/3 1764 1776 1805/1 1805/2 1805/8 1818/1 1820/1 1820/2 1820/3 1869/1 1907 1910/1 1911 1912 1972 1987
+
+MĚSTSKÁ ČÁST PRAHA-ĎÁBLICE
+
+1. NÁMĚSTÍ není stanoveno žádné veřejné prostranství, 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství,
+
+177
+
+3. ULICE A CHODNÍKY BOROTICKÁ BRIGÁDNICKÁ BŘEZNOVÁ BULIŽNÍKOVÁ BYŠKOVICKÁ ČEŇKOVSKÁ ČERVENCOVÁ ČERVENÝ MLÝN ČERVNOVÁ DRAŽETICKÁ ĎÁBLICKÁ HOŘÍNECKÁ HŘENSKÁ HUMENECKÁ CHŘIBSKÁ K LETŇANŮM K LOMU K NÁMĚSTÍ K OVČÍNU KE KINU KOKOŘÍNSKÁ KONĚTOPSKÁ
+
+KOSTELECKÁ KUČEROVÉ KVĚTNOVÁ LEGIONÁŘŮ LIBĚCHOVSKÁ LOBEČSKÁ MANNEROVA MARKVARTICKÁ MŠENSKÁ MYSLIVECKÁ NA BLATECH NA KOPCI NA PRAMENECH NA ŠTAMBERKU NA TERASE NA ZNĚLCI NELAHOZEVESKÁ OSINALICKÁ POD HVĚZDÁRNOU POD PRODEJNOU PODĚBRADOVA PRÁCHEŇSKÁ
+
+PROSINCOVÁ PTÁČNICKÁ ŘEPNÁ ŘÍJNOVÁ SADAŘSKÁ SKALNICKÁ SOUSEDSKÁ SRPNOVÁ STATKOVÁ ŠENOVSKÁ U ČERVENÉHO MLÝNKU U HÁJOVNY U CHALOUPEK U PARKÁNU U PREFY U SPOJŮ VČELAŘSKÁ VOJKOVICKÁ ZÁKUPSKÁ ZÁŘIJOVÁ ŽUPANOVICKÁ 4. PARKY hřiště KONÍČKOVO NÁMĚSTÍ, č. parc. 928 v k. ú. Ďáblice; hřiště U Prefy, č. parc. 592 v k. ú. Ďáblice; hřiště u hřbitova, č. parc. 1729/8 v k. ú. Ďáblice; hřiště Na Znělci, č. parc. 1260/1 v k. ú. Ďáblice; hřiště U Holců, č. parc. 1224/1 v k. ú. Ďáblice; hřiště OSINALICKÁ – PRÁCHEŇSKÁ, č. parc. 132 v k. ú. Ďáblice; park u č. p. 771, č. parc. 594 v k. ú. Ďáblice; park (budoucí) Náměstí č. parc. 608/22 v k. ú. Ďáblice; 5. VEŘEJNÁ ZELEŇ není stanoveno žádné veřejné prostranství, 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ veřejná parkoviště: ul. ĎÁBLICKÁ (U CHALOUPEK), č. parc. 257/2, 258 a 259 v k. ú. Ďáblice; ul. HOŘÍNECKÁ, č. parc. 627 v k. ú. Ďáblice; ul. HŘENSKÁ, č. parc. 927 v k. ú. Ďáblice; ul. KOSTELECKÁ před domem č. 8/191; ul. KVĚTNOVÁ u mateřské školy a před domem č. 66/448; ostatní: prostranství u pomníku u základní školy v parku v ul. U PARKÁNU; parkoviště Technické správy komunikací hlavního města Prahy v ul. ĎÁBLICKÁ, č. parc. 256 a 259 v k. ú. Ďáblice;
+
+178
+
+proluka v ul. ĎÁBLICKÁ, č. parc. 203/1, 204/1 a 204/2  v k. ú. Ďáblice; náměstíčko na Štamberku, č. parc. 54 v k. ú. Ďáblice.
+
+MĚSTSKÁ ČÁST PRAHA-KLÁNOVICE
+
+1. NÁMĚSTÍ NEPASICKÉ NÁM., PŘIMSKÉ NÁM. č. parc. 910, 1246 v k. ú. Klánovice; 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY ARANŽÉRSKÁ AXMANOVA BĚLEČSKÁ BLEŠNOVSKÁ BOUŠOVA BYDŽOVSKÁ ČERNILOVSKÁ ČMELICKÁ DOBŘENICKÁ DOHALICKÁ HABROVSKÁ HÁJOVNA U PODJEZDU HOLEKOVA HOLOHLAVSKÁ CHATAŘSKÁ CHUDOMĚŘICKÁ JENÍKOVICKÁ K RUKAVIČKÁRNĚ KARLA KŘÍŽKA KE KOSTELÍČKU KE ZNAKU KRŇOVICKÁ KROVOVA KUCHAŘSKÁ KUNČICKÁ LIBČANSKÁ
+
+LIBŘICKÁ LOHENICKÁ LOVČICKÁ MALÁ SMIDARSKÁ MALŠOVICKÁ MEDINSKÁ MECHOVKA NA PLACINÁCH NOVÉ DVORY OBĚDOVICKÁ PLAČICKÁ PODLIBSKÁ PROBLUZSKÁ RIEGROVA RODOVSKÁ ŘEPEČSKÁ SENDRAŽICKÁ SLATINSKÁ SLAVĚTÍNSKÁ SMIDARSKÁ SMIŘICKÁ SMRŽOVSKÁ SOBĚTUŠSKÁ SRNEČKOVA STÁDLECKÁ ŠLECHTITELSKÁ ŠTAMBERK
+
+TRÁVNICKÁ TŘEBECHOVICKÁ U BESEDY U TRATIVODU ÚPRKOVA UTĚŠILOVA V BŘEZINĚ V JEHLIČINĚ V JEZEVČINÁCH V KOUTKU V OLŠINĚ V PÁTÉM V SOUDNÍM V TRNINÁCH V ŽÁČKU VODOJEMSKÁ VOLŠOVSKÁ VOŇKOVA VOTAVOVA VŠESTARSKÁ VÝRAVSKÁ ZA BŘÍZAMI ZÁDRAŽANSKÁ ŽELKOVICKÁ
+
+4. PARKY není stanoveno žádné veřejné prostranství, 5. VEŘEJNÁ ZELEŇ není stanoveno žádné veřejné prostranství, 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ není stanoveno žádné veřejné prostranství.
+
+179
+
+MĚSTSKÁ ČÁST PRAHA-KOLODĚJE
+
+1. NÁMĚSTÍ není stanoveno žádné veřejné prostranství, 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY BAČETÍNSKÁ BOHDAŠÍNSKÁ DEŠTNÁ DOBŘANSKÁ HECKELOVA HERMÍNY TÝRLOVÉ JANA JINDŘICHA JEŽOVICKÁ JÍLOVICKÁ K BĚCHOVICŮM K BLATOVU K DUBČI K HOŘAVCE K JÍZDÁRNĚ K PANENKÁM K SIBŘINĚ KOUNOVSKÁ
+
+KVASINSKÁ LUPENICKÁ MARTINELLIHO MEINLINOVA NA MEZI NA PROSTŘEDNÍ CESTĚ NAD MOKŘINOU PANENKY PANSKÁ ZAHRADA PANSKÝ DVŮR POD HOŘAVKOU POD JANKOVEM POD OBOROU PODZÁMECKÁ PONREPOVA RADOSTAVICKÁ
+
+ROHENICKÁ ROŠOVICKÁ SAVOJSKÁ SEDLOŇOVSKÁ SNĚŽNÁ SOLNICKÁ SYNKOVICKÁ ŠACHOVSKÁ U FLORIÁNA U KOSINŮ ÚVOZOVÁ V LIPÁCH VÁCLAVA CHOCHOLY ZA VINICÍ ZÁHORNICKÁ
+
+4. PARKY není stanoveno žádné veřejné prostranství, 5. VEŘEJNÁ ZELEŇ není stanoveno žádné veřejné prostranství, 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ není stanoveno žádné veřejné prostranství.
+
+MĚSTSKÁ ČÁST PRAHA-KOLOVRATY
+
+1. NÁMĚSTÍ Kolovraty NÁM. NA VINIČKÁCH NÁM. TEHOVIČKY NÁM. U KULTURNÍHO DOMU; Lipany NÁM. V LIPANECH; 2. TRŽIŠTĚ
+
+180
+
+není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY Kolovraty ALBÍNY HOCHOVÉ BAZALKOVÁ DO HLINEK DO LIPAN DONÁTSKÁ K POŠTĚ K ŘÍČANŮM K VRBĚ KOTÍKOVA KUPKOVA LEVANDULOVÁ LOLKOVA LOMOVÁ MEDUŇKOVÁ MĚSÍČKOVÁ MÍROVÁ MLADOTOVA NA ČERVENCE
+
+NA JÍLECH NA PARKÁNĚ NA PŘEDEVSI NA ROČKOVĚ NAD DVOREM NAD NÁDRŽÍ NAD PARKÁNEM NAD TOPOLY NAD VRBAMI NAD ZBROJNICÍ POD TOPOLY POD ZASTÁVKOU POD ZVONIČKOU POKŘIVENÁ PREISLEROVA SEDMIKRÁSKOVÁ SKAUTSKÁ SVAŽITÁ
+
+ŠETELÍKOVA TYMIÁNOVÁ U JEZU U PRKNOVKY U SÁDEK U VODICE U ZÁVOR U ŽELEZNICE V CIHELNĚ V HALTÝŘI V LOUCE V MILÍŘI V TEHOVIČKÁCH VÁŠOVA VE SKÁLE ZA PODJEZDEM
+
+Lipany DO KOPEČKA DO POTOKŮ
+
+K NÁDRŽI NOVOLIPANSKÁ
+
+V LISTNÁČÍCH ZA STATKY 4. PARKY není stanoveno žádné veřejné prostranství, 5. VEŘEJNÁ ZELEŇ k. ú. Kolovraty (č. parc.) 8 31/5 72/1 72/5 94/4 94/5 94/6 254 308/1 308/3
+
+355/1 355/2 355/3 355/4 355/5 355/6 355/7 356/7 429/3 437
+
+494/1 494/2 494/4 495/1 537/9 551/1 551/2 573 746 754
+
+757 804 814/1 814/2 822 838 853/1 875 876 1013
+
+1251 1263/311 1263/314 1263/315 1263/316 1263/419 1263/423 1263/424
+
+k. ú. Lipany u Kolovrat (č. parc.) 11/1 27 30/1 66/13 118 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ nástupiště ČD, č. parc. 142/1 a 142/2 v k. ú. Kolovraty; areál V HALTÝŘI, č. parc. 308/1 v k. ú. Kolovraty;
+
+181
+
+dvůr ATRIUM v ul. MÍROVÁ, č. parc. 409 a 410 v k. ú. Kolovraty; veřejná hřiště NA PARKÁNĚ č. parc. 143/5 v k. ú. Kolovraty a Na Skále parc. č. 1005/1 v k. ú. Kolovraty; ochoz, schody a parter Domu s pečovatelskou službou č. p. 505 v Kolovratech; spojovací schody k přechodu přes železniční trať v Kolovratech ul. U ŽELEZNICE - K POŠTĚ parc. č. 142/2.
+
+MĚSTSKÁ ČÁST PRAHA-KRÁLOVICE
+
+1. NÁMĚSTÍ není stanoveno žádné veřejné prostranství, 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY DO DOLNIC JITKOVSKÁ K HÁJKU K MARKÉTĚ K NEDVĚZÍ
+
+K UHŘÍNĚVSI KE STUPICÍM KE ZBROJNICI KUŤATSKÁ NAD MLÝNEM
+
+POD HRADEM U SVODNICE V MYDLINKÁCH
+
+4. PARKY není stanoveno žádné veřejné prostranství, 5. VEŘEJNÁ ZELEŇ není stanoveno žádné veřejné prostranství, 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ ostatní: k. ú. Královice (č. parc.) 2/1 2/3 3/1 3/3 3/4 4/2 4/9 5/1 5/9 5/10 5/11 13/1 13/3 13/4 13/5 51/1
+
+58/1 69/4 69/6 81/1 86/1 106/1 106/10 106/11 106/17 106/18 106/23 106/27 106/28 108/1 108/3 109/1
+
+109/4 109/5 160/1 160/5 160/6 160/7 160/10 160/11 176/1 176/2 176/3 177/1 177/2 184/1 209/12 212/4
+
+212/5 213/1 213/4 233/1 265/1 265/2 267/7 267/8 267/11 277 281 282/1 282/2 294 305/9 305/11
+
+305/13 305/14 348/1 348/6 348/7 348/9 348/10 348/11 400/9 400/10 400/11 400/12 400/13
+
+MĚSTSKÁ ČÁST PRAHA-KŘESLICE
+
+182
+
+1. NÁMĚSTÍ není stanoveno žádné veřejné prostranství, 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY ANÝZOVÁ BORŮVKOVÁ BRUSINKOVÁ ČEKANKOVÁ DIVIZNOVÁ DOLNOKŘESLICKÁ FENYKLOVÁ HASTRMANSKÁ HEŘMÁNKOVÁ HORNOKŘESLICKÁ K BRŮDKU K ČESTLICŮM
+
+K FANTOVU MLÝNU K CHATÁM K PRŮHONICŮM KE KOVÁRNĚ KE STRÁNI KE ŠTÍTU LÉKOŘICOVÁ MAKOVÁ MÁTOVÁ MEDOVÁ NA DOBRÉ VODĚ NA ROVINĚ
+
+NA VLASAČCE NAD MOSTEM OCÚNOVÁ POD DUBY POD MOSTEM POD OVČÍNEM POD ZAHRADAMI SKOŘICOVÁ ŠTYCHOVA U VLASAČKY U ZÁJEZDKU ZA VLASAČKOU pouze zpevněné plochy (mimo zeleň), kromě ul. MEDOVÁ a OCÚNOVÁ, kde jsou komunikace nezpevněné; 4. PARKY není stanoveno žádné veřejné prostranství, 5. VEŘEJNÁ ZELEŇ parková plocha při ul. DOLNOKŘESLICKÁ, u mostu přes Botič – č. parc. 178/1, 178/8, 178/9 v k. ú. Křeslice; přístup k retenční nádrži parc. č. 427/6 v k. ú. Křeslice; veřejná zeleň (předzahrádky, pásy zeleně kolem plotů rodinných domů) v ulicích: ANÝZOVÁ BORŮVKOVÁ BRUSINKOVÁ ČEKANKOVÁ DIVIZNOVÁ DOLNOKŘESLICKÁ (č. parc. 178/7, 178/1, 178/8 v k. ú. Křeslice) FENYKLOVÁ HASTRMANSKÁ HEŘMÁNKOVÁ K BRŮDKU
+
+K ČESTLICŮM K FANTOVU MLÝNU K CHATÁM K PRŮHONICŮM KE KOVÁRNĚ KE STRÁNI KE ŠTÍTU LÉKOŘICOVÁ MAKOVÁ MÁTOVÁ NA ROVINĚ NA VLASAČCE
+
+NAD MOSTEM POD DUBY POD MOSTEM POD OVČÍNEM POD ZAHRADAMI SKOŘICOVÁ ŠTYCHOVA U VLASAČKY U ZÁJEZDKU ZA VLASAČKOU
+
+6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ slepá ulice a parkovací plocha před budovou úřadu a prodejnou č. parc. 4/4, 5, 6 (pouze zpevněné plochy mimo zeleň); slepá ulice vedoucí z kruhového objezdu k domu č. p. 1 a přilehlé parkoviště č. parc. 7/12 v k. ú. Křeslice (pouze zpevněné plochy mimo zeleň);
+
+183
+
+nezpevněná plocha proti budově Úřadu městské části Praha – Křeslice (výhledově centrum městské části) č. parc. 9/47 v k. ú. Křeslice; nezpevněná komunikace K BRŮDKU (za ČSOV směrem k Pitkovickému potoku) č. parc. 470/4, 470/6 v k. ú. Křeslice.
+
+MĚSTSKÁ ČÁST PRAHA-KUNRATICE
+
+1. NÁMĚSTÍ KOSTELNÍ NÁM. NÁM. PRESIDENTA MASARYKA
+
+VIMPERSKÉ NÁMĚSTÍ
+
+2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY BEETHOVENOVA BESKYDSKÁ BOŘETÍNSKÁ BUKOVANSKÁ DEMLOVA DĚBOLÍNSKÁ DO DUBIN DOBRONICKÁ DOLNOMLÝNSKÁ DŘEVNICKÁ DUNAJEVSKÉHO DUNOVICKÁ EKONOMICKÁ FADĚJEVOVA FR. ŠIMÁČKA FRYDRYCHOVA GLAZUNOVOVA GOLČOVA HERROVA HORNICKÁ HORNOMLÝNSKÁ HOUBAŘSKÁ HŘBITOVNÍ HUTNICKÁ HYNAISOVA CHEMICKÁ JANA RŮŽIČKY JANOVICKÁ JAR. JINDRY JEŘÁBNICKÁ JEŠTĚDSKÁ JIHOČESKÁ K BAŽANTNICI K BETÁNI
+
+K BOROVÍČKU K JELENÁM K LIBUŠI K NOVÉMU HRADU K PÍSNICI K ŠEBERÁKU K ÚSTAVU K VÁCLAVCE K VERNERÁKU K ZELENÉ LOUCE K ZELENÝM DOMKŮM KALMÁNOVA KE HRÁDKU KE SKLADŮM KLATOVSKÁ KLÍNOVECKÁ KRÁLE VÁCLAVA IV. KRÁLOVNY ŽOFIE KRAMERIOVA KRIVÁŇSKÁ KUDEŘÍKOVÉ KUNRATICKÁ SPOJKA LABSKÁ LESNÍ LISZTOVA LIŠOVICKÁ MAŠATOVA MATERNOVA MERHAUTOVA MUSORGSKÉHO MUŠKOVA NA JAHODÁCH NA KNÍŽCE
+
+NA LHOTECH NA RYNKU NA ZELENÉ LOUCE NAD AKÁTY NAD BELVEDEREM NAD RYBNÍČKY NAD ŠAUEROVÝMI SADY NAD SKÁLOU NAD SPLAVEM NAD ŠEBERÁKEM NAD VERNERÁKEM NEPRŮJEZDNÁ NETOLICKÁ OBRATAŇSKÁ ODBOJE PÁLAVSKÁ PÍSKOVNA PLOUČNICKÁ POBĚŽOVICKÁ POD BELVEDEREM POD BETÁNÍ POD HALTÝŘEM POD JAVORY PRAMENNÁ PRAŽSKÉHO POVSTÁNÍ PŘEDŠKOLNÍ RATAJOVA ROZVADOVSKÁ SECHTEROVA SOBOLÁKOVA STROUHALOVA SUPPÉHO
+
+184
+
+ŠEBKOVA ŠEVČENKOVA ŠŤASTNÉHO TECHNOLOGICKÁ TICHÉHO TURGENĚVOVA U JAVORU U KUNRATICKÉHO LESA U KRELOVY STUDÁNKY U RAKOVKY U ZÁMECKÉHO PARKU
+
+U ZELENÉHO PTÁKA U ŽELIVKY ÚHLAVSKÁ ÚHLOVÁ UKONČENÁ UREŠOVA V HONU V CHATÁCH V JAHODÁCH V PARCELÁCH V RYBNÍKÁCH V ZELENÉM ÚDOLÍ VALCÍŘSKÁ VAVÁKOVA
+
+VEDLEJŠÍ VELENICKÁ VELKÉ KUNRATICKÉ VÍDEŇSKÁ VOLARSKÁ VOŽICKÁ ZA BAŽANTNICÍ ZA HÁJOVNOU ZA KOSTELEM ZA PARKEM ZA RYBNÍKEM ZA STUDÁNKOU ZA VALEM ŽIŽKOVA 4.  PARKY Zámecký park, parc. č. 11/1 v k. ú. Kunratice; 5.  VEŘEJNÁ ZELEŇ ostatní: zeleň u zámecké zdi, č. parc. 12 v k. ú. Kunratice; zeleň u hřbitova, č. parc. 294, 281/2  v k. ú. Kunratice; U Šeberáku, č. parc. 1537 v k. ú. Kunratice; za spojkou, č. parc. 2476/2 v k. ú. Kunratice; za parkem, č. parc. 9 (neoplocená část), 2505/1 v k. ú. Kunratice; Ořechovka, parc. č. 2405 v k. ú. Kunratice; zeleň u rybníku Ohrada, parc. č. 383, 384, 386/1 a 386/2 v k. ú. Kunratice; Třešňovka, parc. č. 671/1, 671/2, 671/3, 673/1 v k. ú. Kunratice; Na Rynku, parc. č. 1408/2 v k. ú. Kunratice; zeleň u sportovního hřiště Vožická, parc. č. 1824/3, 2356/6 v k. ú. Kunratice; zeleň u kravína, parc. č. 1542/1, 1542/5, 2356/5, 2356/15, 2356/95, 2356/154 v k. ú. Kunratice; zeleň K Betáni parc. č. 2381, 2506/1, 2506/2 v k. ú. Kunratice; zeleň v Zeleném údolí, parc. č. 813/4, 817/9, 818/23, 818/24, 818/25, 821, 825/1, 2339/7, 2339/41, 2339/46, 2339/160, 2339/183, 2341/1 kromě oploceného areálu, 2420/5, 2420/6 v k. ú. Kunratice; zeleň k Zeleným domkům, parc. č. 514, 715/1, 715/3, 715/6, 715/20, 716, 717/1, 717/3, 718/3, 719, 720, 721, 722, 2403, 2410/1, 2410/2 v k. ú. Kunratice; zeleň u 3 svatých a při ulici Dobronická, parc. č. 798, 804/8, 2417/1, 2509/2 v k. ú. Kunratice; zeleň u VÍDEŇSKÉ, parc. č. 780, 781, 782, 783, 784, 804/5, 2408, 2413/15, 2414, 2417/2, 2491, 2503 v k. ú. Kunratice; zeleň POD JAVORY, parc. č. 2462, 2490 v k. ú. Kunratice; zeleň na sídlišti Flora 2342/70, 2342/77, 2342/88, 2342/90, 2342/91, 2342/93, 2342/98, 2342/100, 2342/105, 2342/106, 2342/107, 2342/108, 2342/109, 2342/110, 2342/112, 2342/113, 2342/114, 2342/115, 2342/116, 2342/117, 2342/118, 2342/122, 2342/123, 2342/124, 2342/125, 2342/126, 2342/127, 2342/128, 2342/129, 2342/130, 2342/133, 2342/137, 2342/138, 2342/185, 2342/187, 2342/190, 2342/192, 2342/194, 2342/195, 2342/196, 2342/212, 2342/215, 2342/236, 2342/238, 2342/273, 2342/295, 2342/296, 2344/41, 2344/44, 2344/45, 2344/139 v k. ú. Kunratice; zeleň v Hornomlýnské parc. č. 2342/299, 2342/330, 2342/371 v k. ú. Kunratice;
+
+185
+
+zeleň NA LHOTECH, parc. č. 966/11, 966/12, 966/13, 2342/164, 2343/135 v k. ú. Kunratice; zeleň K Jelenám parc. č. 2445 v k. ú. Kunratice; 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ pláž u Šeberáku, č. parc. 1298, 1496/23, 1538/1, 1538/2, 1539 a 2356/6 v k. ú. Kunratice; prostranství před úřadem městské části, č. parc. 361/2, 362, 363/1, 363/2 a 363/3 v  k. ú. Kunratice; prostranství při ulici GOLČOVA parc. č. 2, 5 v k. ú. Kunratice; parkoviště VOLARSKÁ, parc. č. 1731/1 v k. ú. Kunratice; zpevněné plochy na sídlišti Flora parc. č. 2342/92, 2342/95, 2342/175, 2342/193 v k. ú. Kunratice; v ulici K LIBUŠI, parc. č. 366/33, 366/34, 2382, 2385, 2508/1 v k. ú. Kunratice.
+
+MĚSTSKÁ ČÁST PRAHA-LIBUŠ 1.  NÁMĚSTÍ není stanoveno žádné veřejné prostranství, 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY Libuš BETÁŇSKÁ BRUNELOVA BORKOVICKÁ BOROTÍNSKÁ BOŽEJOVICKÁ BURIANOVA DOBRONICKÁ DRŮBEŽÁŘSKÁ HUSAŘSKÁ CHLADÍRENSKÁ JIRČANSKÁ JISTEBNICKÁ K DĚRÁM K HÁJOVNĚ K JEZÍRKU K LESU K LUKÁM K NOVÉMU SÍDLIŠTI K TŮNI KE LHOTECKÉMU LESU KLOKOTSKÁ
+
+KOLEKTIVNÍ LIBUŠSKÁ LOJOVICKÁ MAŠOVICKÁ METEOROLOGICKÁ MÍLOVÁ MIROTICKÁ NA DOMOVINĚ NA JEZERÁCH NA MOČÁLE NA MUSILECH NA ŠEJDRU NAD ŠEJDREM NOVODVORSKÁ OBRATAŇSKÁ OHROBECKÁ OKROVÁ OPAŘANSKÁ OSTŘEDECKÁ PABĚNICKÁ PROVOZNÍ PŘEDPOSLEDNÍ
+
+PŘÍRODNÍ SKALSKÁ SLAVONICKÁ ŠÁTALSKÁ TŘEBĚJICKÁ U LIBUŠSKÉ SOKOLOVNY U LÍHNÍ U PEJŘÁRNY U VODOJEMU U ZAHRÁDKÁŘSKÉ KOLONIE V BAMBOUSKÁCH V HROBECH V KOUTĚ V LUŽÍCH V ROHU VYŠEBRODSKÁ ZA VĚTREM ZAHRÁDECKÁ ZBUDOVSKÁ ZLATOKORUNSKÁ Písnice BAVOROVSKÁ BUDILOVSKÁ DUBOVICKÁ
+
+HOŠTICKÁ CHVALŠOVICKÁ JAVORENSKÁ
+
+K MEJTU K POMNÍKU K VRTILCE
+
+186
+
+KE BŘEZINĚ KE KAŠNĚ KE KURTŮM KLENOVICKÁ KŘESANOVSKÁ KVÁSKOVICKÁ KUNRATICKÁ SPOJKA LADISLAVA COŇKA LIBUŠSKÁ LIPOVICKÁ LUŽSKÁ MEZI DOMY MIŘETICKÁ
+
+MODRAVSKÁ NA KONEČNÉ NA LOSÁCH NA OKRUHU NAD LIBUŠSKÝM POTOKEM OLŠOVICKÁ OSTRUŽENSKÁ PŘEDENICKÁ PUTIMSKÁ ROHANOVSKÁ SEDLOVICKÁ ŠVIHOVSKÁ
+
+TĚŠOVICKÁ U BAZÉNU U JEDNOTY U NOVÉ LOUKY ÚBISLAVSKÁ V KÁLKU V ZÁKOPECH VACOVSKÁ VELKÁ LADA VLTAVICKÁ VÝLETNÍ ZAHRÁDECKÁ ZÁTOŇSKÁ 4. PARKY není stanoveno žádné veřejné prostranství, 5. VEŘEJNÁ ZELEŇ sídlištní zeleň: k. ú. Libuš (č. parc.) 401/5 401/10 401/48 401/50 402/1 402/7 402/20 429/3 429/4 429/8 429/9 429/10 429/16
+
+429/30 429/31 429/36 429/37 554 557/26 557/27 557/30 557/32 557/33 557/35 557/36 557/38
+
+557/39 557/42 557/43 557/47 557/48 557/49 557/51 557/53 557/77 557/78 829/1 829/2 829/4
+
+829/5 829/6 895/2 912/1 912/5 912/6 912/7 1056/1 1057/1 1057/2 1057/3 1057/46 1057/47
+
+1057/48 1057/51 1057/53 1057/54 1057/55 1057/57 1057/59 1057/60 1057/61
+
+k. ú. Písnice (č. parc.) 290/1 290/2 910/58 911/1 911/35 921/15 921/26
+
+ostatní: k. ú. Libuš (č. parc.) 164 165/1 165/2 293/7 303/12 391/10 391/12 401/28 401/29 401/30 401/47
+
+401/49 402/29 422/6 425/41 428/20 429/1 429/2 429/38 429/39 429/40 429/41
+
+429/42 429/43 429/44 429/45 557/1 557/25 557/41 557/55 557/81 557/88 561/2
+
+614 675/3 675/13 675/20 675/28 829/3 854/1 854/6 856/11 856/14 864/1
+
+873/2 873/46 873/58 873/80 873/81 874/1 874/4 874/5 877 888/3 888/5
+
+187
+
+888/20 939/1 1052/50 1057/4 1057/49 1057/50 1057/52 1057/56 1057/58
+
+1060 1123/1 1123/4 1123/43 1123/44 1123/45 1123/46 1123/47 1123/58
+
+1123/66 1123/73 1123/84 1123/87 1123/88 1123/89 1123/90 1123/92 1123/98
+
+1123/103 1123/111 1123/116 1123/119 1123/120 1123/124 1138/2 1138/3 1227/1
+
+1227/3 1228 1232 1233 1265/1 1265/2
+
+k. ú. Písnice (č. parc.) 558/1 880/1 880/2 880/3 880/5 880/6 880/8
+
+906/3 906/12 907/1 907/9 907/10 907/14 910/1
+
+910/49 910/67 910/80 910/90 911/7 911/33 921/1
+
+921/11 921/19 921/23 934/4 934/6 934/7 934/8
+
+934/9 935/2 970
+
+6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ veřejná parkoviště na č. parc. 517/1, 517/3, 557/28, 557/50, 557/52, 1123/48 v k. ú. Libuš a na č. parc. 910/65 v k. ú. Písnice; nepojmenované ulice na č. parc. v k. ú. Libuš 317/1 317/2 317/3
+
+557/56 574/1 574/4
+
+560/1 560/2 561/3
+
+689/1 1217/2
+
+v k. ú. Písnice 4/1 155/3 351 352 517/6 529/1 529/2
+
+529/3 529/5 529/6 659/2 659/39 659/40 659/41
+
+772/1 772/2 772/3 777 879/3 879/4 879/5
+
+910/69 910/81 910/82 911/6 933/1 974 989/1
+
+989/2 1001/1 1001/2 1001/3 1001/4 1001/5 1011
+
+dětská hřiště na č. parc. 557/29 v k. ú. Libuš a na č. parc. 559/1, 934/3 v k. ú. Písnice.
+
+MĚSTSKÁ ČÁST PRAHA-LIPENCE
+
+1. NÁMĚSTÍ není stanoveno žádné veřejné prostranství, 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství,
+
+188
+
+3. ULICE A CHODNÍKY ČERNOŠICKÁ ČESKÉHO ČERVENÉHO KŘÍŽE DO LUK DOLNOČERNOŠICKÁ HUDEBNÍ CHOVATELSKÁ JANA ČERSTVÉHO JÍLOVIŠŤSKÁ JIŘÍČKOVA JOSEFA HOUDKA K PRŮHONU K RADOTÍNU
+
+K SAMOOBSLUZE K TOPOLŮM K VLÁSENCE KE ŠTĚRKOVNĚ KE ŠVESTKOVCE NA BAMBOUZKU NA BLUKU NA KYJOVĚ NA LHOTKÁCH NA PANORAMĚ NAD JEZEM NAD ŽLÁBKEM OBILNÍ
+
+ODDECHOVÁ OVOCNÁŘSKÁ PĚSTITELSKÁ POD LEČÍ POHLEDNÁ SPOTŘEBITELSKÁ U LIP U ŽLÁBKU V ALEJÍCH V ROKLÍCH VYVÝŠENÁ;
+
+4. PARKY není stanoveno žádné veřejné prostranství, 5. VEŘEJNÁ ZELEŇ ul. DOLNOČERNOŠICKÁ, č. parc. 3272 v k. ú. Lipence; ul. K SAMOOBSLUZE, č. parc. 616 v k. ú. Lipence; ul. K PRŮHONU, č. parc. 632 v k. ú. Lipence; ul. V ALEJÍCH, č. parc. 940/1 v k. ú. Lipence; ul. OBILNÍ, č. parc. 38/1 a 40 v k. ú. Lipence; ul. JÍLOVIŠŤSKÁ – U ŽLÁBKU (sad), č. parc. 210 v k. ú. Lipence; ul. NA BAMBOUZKU (před prodejnou, poštou a podél mateřské školy), č. parc. 493/2, 493/3, 493/6, 493/7 a 494 v k. ú. Lipence; 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ prostranství v ul. ODDECHOVÁ (u TS), č. parc. 940/6, 1260/2 a 1261 v k. ú. Lipence; hřiště TJ, č. parc. 651 a 652 v k. ú. Lipence.
+
+MĚSTSKÁ ČÁST PRAHA-LOCHKOV
+
+1. NÁMĚSTÍ není stanoveno žádné veřejné prostranství, 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY CEMENTÁŘSKÁ DO BOROVIN K CELINÁM K LAHOVSKÉ KE SLIVENCI NA DRAŽKÁCH
+
+NA PÍSKU NA SELSKÉM NAD VSÍ POD LOCHKOVEM U SLADOVNY U SUŠIČKY
+
+U ÚVOZU V OUDOLKU ZA CHALUPAMI ZA OVČÍNEM
+
+4. PARKY
+
+189
+
+parc. č. 295 v k. ú. Lochkov, 5. VEŘEJNÁ ZELEŇ ostatní: zeleň v ul. CEMENTÁŘSKÁ, č. parc. 2, 4, 7, 8, 9, 32, 33 a 34 v k. ú. Lochkov; zeleň v ul. ZA OVČÍNEM, č. parc. 283 v k. ú. Lochkov; 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ úsek ulice (místní název) NA LAHOVSKOU, směr V. Chuchle č. parc. 582 v k. ú. Lochkov; úsek ulice (místní název) NA LAHOVSKOU, směr Radotín č. parc. 579 v k. ú. Lochkov; úsek ulice (místní název) – cesta k Paegasu – č. parc. 521/1 v k. ú. Lochkov; otočka autobusu MHD včetně přilehlých ploch (k oplocení sousedních nemovitostí), č. parc. 207, 502/1, 502/3 v k. ú. Lochkov; pozemek u trafostanice, č. parc. 71 v k. ú. Lochkov; pozemek u hasičské zbrojnice, č. parc. 290 v k. ú. Lochkov; sportovní areál Lochkov, č. parc. 288 v k. ú. Lochkov; cesta do Slavičího údolí, č. parc. 577/2, 577/3 v k. ú. Lochkov.
+
+MĚSTSKÁ ČÁST PRAHA-LYSOLAJE
+
+1. NÁMĚSTÍ není stanoveno žádné veřejné prostranství, 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY ČÁBELECKÁ DOLINA HLUBOKÁ HŘEBENOVÁ KOLONKA
+
+KOVÁRENSKÁ KVĚTOVÁ LYSOLAJSKÉ ÚDOLÍ MATEŘSKÁ NAD PRAMENEM
+
+PODHOLÍ POUSTKA SÍDLIŠTNÍ STARODVORSKÁ ŽÁKOVSKÁ 4. PARKY není stanoveno žádné veřejné prostranství, 5. VEŘEJNÁ ZELEŇ ostatní: k. ú. Lysolaje (č. parc.) 262/1, 263, 492/1, 501/12, 501/143; 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ plocha veřejné zeleně č. parc. 554/1 v k. ú. Lysolaje.
+
+MĚSTSKÁ ČÁST PRAHA-NEBUŠICE 1. NÁMĚSTÍ NÁM. PADLÝCH,
+
+190
+
+2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY AUSTOVA BRANDEJSOVA DEŠŤOVÁ DRUHÉHO ODBOJE DUBOVÁ HORNOFOVA K HLÁSKU K LAŽANCE K NOSKOVNĚ K PARKU K ŠEDIVCE K ŠUBRTCE K TRUHLÁŘCE K VINICÍM K VIZERCE K VODÁRNĚ KÁDNEROVA KE STRŽI KONCOVÁ KOŤÁTKOVA
+
+LOVECKÁ MALÝ DVŮR MARKYTA NA HABROVCE NA MALÉ ŠÁRCE NA PARCELÁCH NA SKÁLE NA ZÁVĚJI NAD HABROVKOU NAD SÝPKOU NAD ŽELIVKOU NEBUŠICKÁ POD HABROVKOU POD HÁJOVNOU POD HLÁSKEM POD NOVOU ŠKOLOU POD STAROU ŠKOLOU POD TERASAMI POŽÁRNICKÁ PRŮHONSKÁ
+
+SICHROVSKÉHO SPOJOVÁ TRUHLÁŘKA TŘÍDOMÁ TUCHOMĚŘICKÁ U GABRIELKY U HÁZŮ U POHÁDKY U SOKOLOVNY U ŠÍCHŮ U VINICE V BŘEZINKÁCH V HLINIŠTI V OBLOUKU V OHRADĚ V PACHMANCE V SÍDLIŠTI V ULIČKÁCH ZA POHÁDKOU
+
+4. PARKY není stanoveno žádné veřejné prostranství, 5. VEŘEJNÁ ZELEŇ okolí Základní školy Nebušice, č. parc. 546/1 v k. ú. Nebušice; prostory přilehlé k ul. V SÍDLIŠTI a SICHROVSKÉHO, č. parc. 110, 111/1, 112/1 a 151 v k. ú. Nebušice; části přilehlé k ul. K VINICÍM, č. parc. 1172/5, 1172/8, 1172/9 v k. ú. Nebušice; okolí vodní nádrže Pančák, č. parc. 1274 a 1275 v k. ú. Nebušice; 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ k. ú. Nebušice (č. parc.) 275/52 616/1 616/2 616/3 617 619 620 621/1 621/2 622
+
+MĚSTSKÁ ČÁST PRAHA-NEDVĚZÍ
+
+1. NÁMĚSTÍ není stanoveno žádné veřejné prostranství, 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství,
+
+191
+
+3. ULICE A CHODNÍKY BŘÍZOVÁ HÁJOVÁ LETNÍ MÁLKOVSKÁ
+
+PÁNKOVA ROKYTNÁ SLÁMOVÁ ÚNOROVÁ
+
+VÝMAROVÁ VÝTOŇSKÁ
+
+4. PARKY není stanoveno žádné veřejné prostranství, 5. VEŘEJNÁ ZELEŇ není stanoveno žádné veřejné prostranství, 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ veřejné parkoviště na č. parc. 152/2  v k. ú. Nedvězí, ohraničené objekty č. p. 32 a 44 a ul. SLÁMOVÁ a ÚNOROVÁ.
+
+MĚSTSKÁ ČÁST PRAHA-PETROVICE
+
+1. NÁMĚSTÍ není stanoveno žádné veřejné prostranství, 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY AMPÉROVA ARCHIMÉDOVA BELLOVA CELSIOVA DIESELOVA DOPPLEROVA EDISONOVA EINSTEINOVA EUKLIDOVA FARADAYOVA FROSTOVA
+
+GALILEOVA GALVANIHO GAUSSOVA GRAMMOVA HERTZOVA HORNOMĚCHOLUPSKÁ JAKOBIHO KELVINOVA KURČATOVOVA LEBEDĚVOVA LESSNEROVA
+
+MILÁNSKÁ MORSEOVA NEWTONOVA NOVOPETROVICKÁ OHMOVA RAMANOVA REZLEROVA VOLTOVA VÝSTAVNÍ WATTOVA
+
+4. PARKY není stanoveno žádné veřejné prostranství, 5. VEŘEJNÁ ZELEŇ není stanoveno žádné veřejné prostranství, 6.  DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ k. ú. Petrovice (č. parc.) 202/2 202/10 203/1 203/2 203/10
+
+203/12 203/35 204/1 423/49 423/50
+
+423/51 423/52 423/75 423/83 423/85
+
+423/91 423/92 423/97 423/102 423/104
+
+423/106 423/108 424/1 424/65 424/67
+
+192
+
+424/68 424/72 424/73 424/79 424/80 425/2 425/42 425/44 425/46 425/48
+
+425/49 425/50 432/1 432/7 432/10 432/28 432/29 432/38 432/39 432/40
+
+432/41 432/43 432/65 432/98 432/113 432/117 432/120 432/121 531/1 531/2
+
+532/1 532/2 532/4 532/5 532/6 532/7 532/49 532/52 535/1 537/3
+
+537/10 537/25 537/26 571/2 571/3 572/2 572/3 580/2
+
+MĚSTSKÁ ČÁST PRAHA-PŘEDNÍ KOPANINA
+
+1. NÁMĚSTÍ HOKEŠOVO NÁM., č. parc. 725 v k. ú. Přední Kopanina; 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY BUDISLAVOVA DO ROKLÍ K JULIÁNĚ K LÁVCE
+
+K PADESÁTNÍKU K PRELÁTŮM K TUCHOMĚŘICŮM K VÁCLAVU
+
+KE GONIU NOVÉ DOMY PRELÁTA U MÁŘÍ MAGDALENY 4. PARKY parc. č. 420/3, 420/4, 420/5 v k. ú. Přední Kopanina; 5. VEŘEJNÁ ZELEŇ zeleň před kolumbariem, č. parc. 12 v k. ú. Přední Kopanina; svah zeleně, č. parc. 113/1 v  k. ú. Přední Kopanina; svah zeleně, č. parc. 418 v  k. ú. Přední Kopanina; parc. č. 61/4 v k. ú. Přední Kopanina; park, parc. č. 420/3, 420/4, 420/5 v k. ú. Přední Kopanina; 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ silnice, č. parc. 753, 754 v k. ú. Přední Kopanina; místní ulice bez pojmenování, č. parc. 728/1, 728/2, 731/1, 736, 737, 741/2, 742/1, 742/3, 743, 744, 745/1, 745/2, 745/3, 745/4, 746/1, vyasfaltovaná část 746/2, vyasfaltovaná část 746/3, 746/4, 750, 756, 757, 758, 760/2, 761, 801/1, 801/2, 804, 808/1, 808/2, 809, 832/1, 833/1, 833/2, 833/4, 833/5, 834/1 v k. ú. Přední Kopanina; ulice č. parc. 731/2, 731/3, 731/4, 740, 742/2, 804, 833/5, 884 v k. ú. Přední Kopanina; asfaltová ulice, č. parc. 882/1, 882/3, 882/20, 882/6, 882/7 v k. ú. Přední Kopanina; č. parc. 7, 8, 9, 10, 60/5, 61/2, 61/4, 61/7, 75/1, 81/1, 238/1, neoplocená část 392, 832, 832/2, 833/3, 834/2 v k. ú. Přední Kopanina; č. parc. 738 v k. ú. Přední Kopanina; č. parc. 676/33, vyasfaltovaná část 676/1, 882/20, 169/2, 882/29 v k. ú. Přední Kopanina.
+
+193
+
+MĚSTSKÁ ČÁST PRAHA-ŘEPORYJE 1. NÁMĚSTÍ Řeporyje ŘEPORYJSKÉ NÁM. NÁM. U LVA; 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY Řeporyje BÍLOVSKÁ BRANALDOVA ČERNOVICKÁ DALEJSKÁ DĚLENÁ DRAHOTÍNSKÁ DRAHOVSKÁ DRAŽENOVSKÁ EBROVA EICHLEROVA FOLMAVSKÁ HASIČŮ HAVLŮJOVÉ HLÁVKOVA HORŠOVSKÁ JÁCHYMOVSKÁ JEREMIÁŠOVA JINDŘICHA K HOLÉMU VRCHU K CHALOUPCE K TRŽIŠTI K TŘEBONICŮM K VELKÉ OHRADĚ K VELKÉMU DVORU K ZÁVĚTINÁM KAKOSOVA KE ZBUZANŮM
+
+KE ZDRAVOTNÍMU STŘEDISKU KONOPOVA KOTEROVSKÁ KRTEŇSKÁ LAŽANSKÁ LIBEČKOVA LOSINSKÁ LOUČNÁ LUBENECKÁ MAXOVSKÁ MILENOVSKÁ MLÁDKOVA MRÁKOVSKÁ MUZIKOVA NA MANOUŠCE NA POŽÁRU NA TRŽIŠTI NA VRCHU NA VÝROVĚ NAD NÁMĚSTÍM NAD MUŠLOVKOU NAD SCHODY NEDRAŽICKÁ NEFFOVA NEJDKOVA OD ŠKOLY
+
+OŘEŠSKÁ PAVLOVICKÁ POD ZAHRÁDKAMI POD ZBUZANY POSTŘEKOVSKÁ PRŮHONEK PŘÍDOLSKÁ RADOUŇOVA ŘADOVÁ ŘEPÍKOVA RUDOLTICKÁ SLATINOVA SMÍCHOVSKÁ SOUSEDNÍ STIESSOVA TĚLOVÝCHOVNÁ U BUBCE U HLINÍKU U SILA U VÝKUPNÍHO STŘEDISKA V ZAHRÁDKÁCH VE VÝHLEDU VE VÝRECH VŠERUBSKÁ WIESENTHALOVA ŽILOVSKÁ Zadní Kopanina CHALOUPKY K ZADNÍ KOPANINĚ
+
+NA ZMRZLÍKU U SKOPCŮ 4. PARKY Řeporyje park v ul. ŘEPÍKOVA parc. č. 1079/1 a 1079/2 v k. ú. Řeporyje; park u ŘEPORYJSKÉHO NÁMĚSTÍ, č. parc. 866 v k. ú. Řeporyje;
+
+194
+
+5. VEŘEJNÁ ZELEŇ břeh potoka, č. parc. 69 v k. ú. Řeporyje; prostranství u bytovek, č. parc. 901/6v k. ú. Řeporyje; prostranství u nádržky, č. parc.1476/6 v k. ú. Řeporyje; ŘEPORYJSKÉ NÁM., č. parc. 1621 v k. ú. Řeporyje; ul. EBROVA, č. parc. 1630 v k. ú. Řeporyje; ul. K HOLÉMU VRCHU, č. parc. 1470/1 v k. ú. Řeporyje; ul. K ZÁVĚTINÁM, č. parc. 1475/2 v k. ú. Řeporyje; ul. SMÍCHOVSKÁ, č. parc. 1637/1 v k. ú. Řeporyje; zeleň u č. p. 720, č. parc. 1708/2 v k. ú. Řeporyje; při ul. JÁCHYMOVSKÁ, č. parc. 440 v k. ú. Řeporyje; ul. EBROVA-RUDOLTICKÁ, č. parc. 771/4 v k. ú. Řeporyje; ul. TĚLOVÝCHOVNÁ pod hřištěm č. parc. 848/14 v k. ú. Řeporyje; při ul. KRTEŇSKÁ, č. parc. 1578 v k. ú. Řeporyje; při ul. NA VRCHU, č. parc. 1573 v k. ú. Řeporyje; ul. EBROVA, č. parc. 1618/2 v k. ú. Řeporyje; Hliník č. parc. 69 v k. ú. Řeporyje; prostranství mezi zahrádkami v ul. JÁCHYMOVSKÁ č. parc. 1555/1 v k. ú. Řeporyje; ul. TĚLOVÝCHOVNÁ, č. parc. 881/1, 881/2 v k. ú. Řeporyje; prostranství u rybníka č. parc. 42 v k. ú. Zadní Kopanina; prostranství před č. p. 5, č. parc. 14/1 v k. ú. Zadní Kopanina; prostranství proti č. p. 5, č. parc. 23/1 v k. ú. Zadní Kopanina; 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ cesta k rozvodně, č. parc. 1679 v k. ú. Řeporyje; cesta podél zahrádek, č. parc. 1644/2 v k. ú. Řeporyje; cesta v PROKOPSKÉM ÚDOLÍ, č. parc. 1647/1, 1647/2 v k. ú. Řeporyje; cesta v ul. K HOLÉMU VRCHU, č. parc. 1645 v k. ú. Řeporyje; prostranství mezi nádržkou a zahrádkami, č. parc. 1684/1 až 1684/11 v k. ú. Řeporyje; prostranství proti č. p. 245, č. parc. 1416 v k. ú. Řeporyje; prostranství u č. p. 19, č. parc. 1590/1 v k. ú. Řeporyje; prostranství u trafostanice v ul. EBROVA, č. parc. 1375/3 v k. ú. Řeporyje; prostranství u základní školy, č. parc. 1589/1 v k. ú. Řeporyje; ŘEPORYJSKÉ NÁM., vedle domu č. p. 11, u trafiky, č. parc. 1613 v k. ú. Řeporyje; ul. DRAHOVSKÁ, č. parc. 1530/9 v k. ú. Řeporyje; ul. K HOLÉMU VRCHU, č. parc. 1677/1 v k. ú. Řeporyje; ul. K VELKÉ OHRADĚ, č. parc. 1386/2 v k. ú. Řeporyje; ul. KOTEROVSKÁ, č. parc. 1376/75 v k. ú. Řeporyje; ul. SMÍCHOVSKÁ, č. parc. 1642 v k. ú. Řeporyje; ul. U HLINÍKU, č. parc. 119/1 v k. ú. Řeporyje; ul. ŽILOVSKÁ, č. parc. 1376/33, 1376/48, 1376/107 v k. ú. Řeporyje; Zbuzanská cesta, č. parc. 1768 a 1769 v k. ú. Řeporyje; cesta k Maskovu mlýnu, č. parc. 199 v k. ú. Zadní Kopanina; cesta k Taslarovu mýnu, č. parc. 214/1 a 273 v k. ú. Zadní Kopanina; cesta pod ZD, č. parc. 58 v k. ú. Zadní Kopanina; cesta proti č. p. 5, č. parc. 102/1 v k. ú. Zadní Kopanina; cesta v ul. CHALOUPKY, č. parc. 130 v k. ú. Zadní Kopanina; cesty, č. parc. 31/1 a 144 v k. ú. Zadní Kopanina; prostranství, č. parc. 148 v k. ú. Zadní Kopanina;
+
+195
+
+prostranství podél hlavní ulice, č. parc. 72/1 v k. ú. Zadní Kopanina; prostranství vedle hlavní ulice, č. parc. 25, 26 v k. ú. Zadní Kopanina; ulice k potoku, č. parc. 87 v k. ú. Zadní Kopanina; svah, č. parc. 91/1 k. ú. Zadní Kopanina.
+
+MĚSTSKÁ ČÁST PRAHA-SATALICE
+
+1. NÁMĚSTÍ není stanoveno žádné veřejné prostranství, 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY BOŠÍNSKÁ BUDOVATELSKÁ DANY MEDŘICKÉ DRAHELICKÁ DŘEVAŘSKÁ FILIPOVSKÉHO HÁLOVA HORNÍČKOVA HRONĚTICKÁ HRUŠINSKÉHO K CIHELNĚ K HLUBOKÉ CESTĚ K LINDĚ K NÁDRAŽÍ K PYRAMIDCE K RADONICŮM K ROKLI
+
+K RYBNÍČKU KEMROVA MARVANOVA MENŠÍKOVA NETŘEBICKÁ NOUZOVÁ NOVÉHO OSTRÁ PANELOVÁ PILAŘSKÁ POD GARÁŽEMI POD POŠTOU PŘED TRATÍ RAŠOVICKÁ RÁŽOVA ROVNÁ SOVÁKOVA
+
+STRATOVSKÁ ŠIMKOVA TRABANTSKÁ U ARBORKY U ČISTIČKY U OBORY U ŘEMPA U STARÉHO HŘIŠTĚ VINOŘSKÁ VLASTY BURIANA VOSKOVA ZA KAPLIČKOU ZA NOVÁKOVOU ZAHRADOU ZA STODOLAMI ZA ŠKOLKOU ZAHRÁDKÁŘŮ 4. PARKY není stanoveno žádné veřejné prostranství, 5. VEŘEJNÁ ZELEŇ Zelené plochy přiléhající ke komunikacím a chodníkům: BOŠÍNSKÁ BUDOVATELSKÁ DANY MEDŘICKÉ DRAHELICKÁ DŘEVAŘSKÁ FILIPOVSKÉHO HÁLOVA HORNÍČKOVA HRONĚTICKÁ HRUŠINSKÉHO K CIHELNĚ
+
+K HLUBOKÉ CESTĚ K LINDĚ K NÁDRAŽÍ K PYRAMIDCE K RADONICŮM K ROKLI K RYBNÍČKU KEMROVA MARVANOVA MENŠÍKOVA NETŘEBICKÁ
+
+NOUZOVÁ NOVÉHO OSTRÁ PANELOVÁ PILAŘSKÁ POD GARÁŽEMI POD POŠTOU PŘED TRATÍ RAŠOVICKÁ RÁŽOVA ROVNÁ
+
+196
+
+SOVÁKOVA STRATOVSKÁ ŠIMKOVA TRABANTSKÁ U ARBORKY U ČISTIČKY
+
+U OBORY U ŘEMPA U STARÉHO HŘIŠTĚ VLASTY BURIANA VINOŘSKÁ VOSKOVA
+
+ZA KAPLIČKOU ZA NOVÁKOVOU ZAHRADOU ZA STODOLAMI ZA ŠKOLKOU ZAHRÁDKÁŘŮ 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ veřejná parkoviště: ul. BUDOVATELSKÁ, č. parc. 557/18, 557/19 v k. ú. Satalice (u č. p. 155); ul. TRABANTSKÁ, č. parc. 397 v k. ú. Satalice (u č. p. 270), č. parc. 612 v k. ú. Satalice (u č. p. 292) a č. parc. 625 v k. ú. Satalice (u č. p. 293); ostatní: vjezd do areálu č. p. 129, č. parc. 938 v k. ú. Satalice; spojka mezi ul. U ARBORKY a ZA NOVÁKOVOU ZAHRADOU, č. parc. 518/13, 564/3 v k. ú. Satalice.
+
+MĚSTSKÁ ČÁST PRAHA-SLIVENEC
+
+1. NÁMĚSTÍ Holyně NÁM. POD LÍPOU, 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY Slivenec: ALABASTROVÁ AZURITOVÁ DIAMANTOVÁ DO CHUCHLE DOMINÍNSKÁ FRANČÍKOVÁ GRANÁTOVÁ JANTAROVÁ K AUSTISU K BARRANDOVU K CIKÁNCE K HOLYNI K HOMOLCE K LOCHKOVU K ROZMEZÍ K ROZVODNĚ K VÁZE KAMENÍKŮ KE SMÍCHOVU
+
+KE ŠTĚPCŮM KŘIŠŤÁLOVÁ MALACHITOVÁ MESKÁŘOVA MRAMOROVÁ NA BĚLICI NA BOTĚ NA ČISTÉ NA KRAJI NA KORÁLOVĚ NA KŘEMÍNKU NA KŘENKOVĚ NA PŘÍDOLE NA ROVNÉM NÁVĚTRNÁ NEFRITOVÁ OD ROZCESTÍ OPÁLOVÁ POD RYBNÍKEM
+
+RUBÍNOVÁ RŮŽENÍNOVÁ SMARAGDOVÁ TYRKYSOVÁ U HABEŠE U JEZÍRKA U SPOJKY U SPORTOVIŠTĚ U SVAHU U TRPCE V DOUBCÍCH V LIPKÁCH VE SMRČINĚ VIŠŇOVKA VLTAVÍNOVA ZA FAROU ZA FOŘTEM ZA KŘÍZKEM
+
+Holyně:
+
+197
+
+K DOBRÉ VODĚ K LÍPĚ K ZABRKŮM KOPANSKÁ
+
+KOTOVKA POD VYSOKOU MEZÍ PRŮTAŽNÍ U VÁPENICE
+
+U NÁHONU U SMOLNIC ZA KNOTKEM ZAVÁTÁ 4. PARKY není stanoveno žádné veřejné prostranství, 5. VEŘEJNÁ ZELEŇ park U pomníku, parc. č. 41 v k. ú. Slivenec; zahrada K HOMOLCE, parc. č. 1481/1, 1483, 1487 v k. ú. Slivenec; park mezi kostelem a rybníkem, parc. č. 1654 v k. ú. Slivenec; Obecní louka, parc. č. 1849 v k. ú. Slivenec; biokoridor, parc. č. 1909, 1918, 1920, 1931 v k. ú. Slivenec; severní část v ulici ZA FAROU, parc. č. 429/116 v k. ú. Slivenec; U VÁPENICE – ZA KNOTKEM, parc. č. 367 v k. ú. Holyně; 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ účelové komunikace: KE SMÍCHOVU cesta k č. p. 156, parc. č. 1656 v k. ú. Slivenec; K HOMOLCE cesta k č. p. 456, parc. č. 1711 v k. ú. Slivenec; cesta GRANÁTOVÁ – hřbitov parc. č. 1169/6 v k. ú. Slivenec; KE SMÍCHOVU cesta k č. p. 65, parc. č. 1664/1 v k. ú. Slivenec; komunikace v Austisu, parc. č. 1732/4 v k. ú. Slivenec; komunikace ke skládce, parc. č. 1824 v k. ú. Slivenec; komunikace k Obecní louce, parc. č. 1855 v k. ú. Slivenec; komunikace k rozvodně, parc. č. 1884 v k. ú. Slivenec; KAMENÍKŮ přístup k parc. č. 308/6, parc. č. 308/7 v k. ú. Slivenec; U SMOLNIC cesta k č. p. 123, 149, parc. č. 316 v k. ú. Holyně; U SMOLNIC cesta k parc. č. 66/1, parc. č. 317 v k. ú. Holyně; U NÁHONU cesta k č. p. 14/1, parc. č. 418 v k. ú. Holyně; Spojka ZA KNOTKEM – K DOBRÉ VODĚ, parc. č. 407/2 v k. ú. Holyně; parkovací plochy: parkoviště pod č. p. 22, parc. č. 6 v k. ú. Slivenec; parkoviště před jídelnou parc. č. 1657 v k. ú. Slivenec; parkoviště u úřadu městské části, parc. č. 1658 v k. ú. Slivenec; parkoviště pod hřbitovem, parc. č. 1702 v k. ú. Slivenec; plocha DIAMANTOVÁ – KE SMÍCHOVU, parc. č. 1162/1 v k. ú. Slivenec; parkoviště před hřbitovem, parc. č. 1210/1 v k. ú. Slivenec; polní cesty: polní cesta za solničkou, parc. č. 1695 v k. ú. Slivenec; polní cesta za ulicí V LIPKÁCH, parc. č. 1704/1, 1704/2, 1704/3 v k. ú. Slivenec; polní cest parc. č. 1733/1 v k. ú. Slivenec; polní cesta K CIKÁNCE, parc. č. 1734/1 v k. ú. Slivenec; polní cesta parc. č. 1735/1 v k. ú. Slivenec; polní cesta (NA BOTĚ), parc. č. 1767/12, 1770/31 v k. ú. Slivenec; polní cesta, parc. č. 1912, 1921, 1937, 1952 v k. ú. Slivenec; polní cesta (KOPANSKÁ), parc. č. 395/1 v k. ú. Holyně;
+
+198
+
+polní cesta (K DOBRÉ VODĚ), parc. č. 402 v k. ú. Holyně; pěšiny: cesta VIŠŇOVKA k chatě e86, parc. č. 1194 v k. ú. Slivenec; cesta VIŠŇOVKA k chatě e130, parc. č. 1286 v k. ú. Slivenec; spojka DO CHUCHLE –K HOMOLCE, parc. č. 1384 v k. ú. Slivenec; cesta v oblasti Obecní zahrada, parc. č. 1703 v k. ú. Slivenec; cesta GRANÁTOVÁ – hřbitov, parc. č. 1211/1 v k. ú. Slivenec; cesta DIAMANTOVÁ – U TRPCE, parc. č. 1376/47 v k. ú. Slivenec; spojka DO CHUCHLE – K HOMOLCE, parc. č. 1390/4 v k. ú. Slivenec; úvoz v Holyni, parc. č. 401 v k. ú. Holyně; hřiště, vyjma prostor, které se zamykají: hřiště Višňovka, parc. č. 1256 v k. ú. Slivenec; areál školy, parc. č. 493 v k. ú. Slivenec; hřiště parc. č. 315/1 v k. ú. Holyně; jižní část parc. č. 429/116 v k. ú. Slivenec; oplocené plochy, vyjma prostor, které se zamykají: hřbitov parc. č. 1207, 1208, 1209 v k. ú. Slivenec; areál školy, parc. č. 492, 496/3, 496/4, 496/6, 496/7, 496/9 v k. ú. Slivenec; ostatní plochy: prostranství před úřadem městské části, parc. č. 40 v k. ú. Slivenec; koryto přítoku Dalejského potoka, parc. č. 207 v k. ú. Slivenec; pás v ulici K HOLYNI, parc. č. 1666, 1667, 1669 v k. ú. Slivenec; pás před solničkou, parc. č. 1696 v k. ú. Slivenec; pás v ulici K LOCHKOVU, parc. č. 1713, 1715 v k. ú. Slivenec; K AUSTISU – K ROZVODNĚ, parc. č. 1782 v k. ú. Slivenec; KE SMÍCHOVU – u zastávky Za Farou, parc. č. 103 v k. ú. Slivenec; KE SMÍCHOVU před č. p. 96, parc. č. 1154 v k. ú. Slivenec; v ulici GRANÁTOVÁ, parc. č. 1170/1, 1171/4 v k. ú. Slivenec; zeleň DO CHUCHLE – K HOMOLCE, parc. č. 1389/1, 1391/1, 1391/2 v k. ú. Slivenec; nad Obecní zahradou, parc. č. 1473/1 v k. ú. Slivenec; V LIPKÁCH travnatý pás, parc. č. 1496/10 v k. ú. Slivenec; prostranství před školou, parc. č. 1655/1 v k. ú. Slivenec; K LOCHKOVU proti parkovišti u úřadu městské části, parc. č. 1661/1 v k. ú. Slivenec; pás v ulici V LIPKÁCH, parc. č. 1705/2 v k. ú. Slivenec; pás v ulici K LOCHKOVU, parc. č. 1792/2 v k. ú. Slivenec; pás v ulici KE SMÍCHOVU, parc. č. 429/1 v k. ú. Slivenec; K HOMOLCE – odpočívadlo, parc. č. 1350 v k. ú. Slivenec.
+
+MĚSTSKÁ ČÁST PRAHA-SUCHDOL
+
+1. NÁMĚSTÍ VÝHLEDSKÉ NÁM., č. parc. 1777, 2406/1, 2406/3, 2406/4, 2406/5, 2406/6, 2407 v k. ú. Suchdol; BRANDEJSOVO NÁM., č. parc. 1627/6, 2296/1, 2296/2, 2375; SUCHDOLSKÉ NÁM., č. parc. 2375;
+
+199
+
+2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY ARMÁDNÍ BAŽANTNÍ BUDYŇSKÁ DO VRCHU DVORSKÁ GAGARINOVA HAŠLEROVA HAVRANÍ HOLUBÍ INTERNACIONÁLNÍ K DRSNICI K HÁJI K HOROMĚŘICŮM K CHUMBERKU K MÍRÁM K OSMIDOMKŮM K ROZTOKŮM K STAVEBNINÁM K TRANSFORMÁTORU KAMÝCKÁ KE KLADIVŮM KE KOLONII KE KOZÍM HŘBETŮM KELTŮ KOSOVA KŘIČKOVA LANÝŽOVÁ
+
+LYSOLAJSKÁ MAJEROVÉ MÁJOVÁ NA MÍRÁCH NA PASECE NA RYBÁŘCE NA VRCHMEZÍ NAD DOLÍKY NAD MOHYLOU NAD SPÁLENÝM MLÝNEM NÁVAZNÁ NOVOSUCHDOLSKÁ OLŠOVÁ OSVOBOZENÍ OTVOVICKÁ POD RYBNÍČKEM POD VINICEMI PŘELEŤOVÁ PŘI HRANICI RACKOVA ROHOVÁ ROZTOCKÁ RÝZNEROVA SÍDLIŠTNÍ SPÁLENÝ MLÝN STAROČESKÁ
+
+STAROSUCHDOLSKÁ STEHLÍKOVA STRŽNÁ SUCHDOLSKÁ ŠPAČKOVA TROJANŮV MLÝN U HOTELU U HROCHA U KAPLIČKY U KRUHOVKY U MYSLIVNY U NOVÉHO SUCHDOLA U ROZTOCKÉHO HÁJE U VIŠŇOVKY UZOUČKÁ V OŘEŠÍ V ÚDOLÍ VÝJEZDNÍ VYSOKOŠKOLSKÁ ZA HÁJEM ZA HŘIŠTĚM ZA RÁJEM ZA SOKOLOVNOU ZÁKOLANSKÁ ZÁVADOVA
+
+4. PARKY není stanoveno žádné veřejné prostranství, 5. VEŘEJNÁ ZELEŇ mezi ulicemi KAMÝCKÁ – U KRUHOVKY a č. parc. 1627/6 v k. ú. Suchdol; mezi ulicemi KOSOVA – HOLUBÍ, č. parc. 6/26; podél ulice NA RYBÁŘCE, č. parc. 184/1 v k. ú. Sedlec; 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ nepojmenované ulice a prostory na č. parc. 129/1, 2292/1, 2309/1, 2309/3, 2319, 2320, 2323/3, 2336 v k. ú. Suchdol. MĚSTSKÁ ČÁST PRAHA-ŠEBEROV
+
+1. NÁMĚSTÍ není stanoveno žádné veřejné prostranství,
+
+200
+
+2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY BABOČKOVÁ BĚLÁSKOVÁ ENGELOVA GOČÁROVA HROZNÉHO HYBŠMANOVA CHOCHOLOVA JEZEVČÍ K DRAZDŮM K HRNČÍŘŮM K JIŽNÍMU MĚSTU K LABEŠKÁM K OBOŘE K ROZKOŠI K SAFINĚ K ŠEBEROVU K TRNÍČKU K ÚJEZDU K VRBIČKÁM KE ŠMEJKALU KARFÍKOVA KOROPTVÍ LESNÉHO LEXOVA LIPENSKÁ LOUCKÁ MEZI POLI
+
+MEZI RYBNÍKY MUSILOVA NA BABÁCH NA KAPLIČCE NA PROUTCÍCH NA PŘÍČNÉ MEZI NA ZAHRÁDKÁCH NAD JORDÁNKEM NOVÁKOVA OSVĚTOVÁ PLEČNIKOVA POD ROZVODNOU POD VSÍ POUCHOVA PRŮŠKOVA RADEŠOVSKÁ ROITHOVA ROJICKÁ ROZKOŠSKÁ RYPKOVA SLADOVNICKÁ SVÉPOMOCNÁ TAUEROVA TUŽEBNÍKOVÁ U DRŮBEŽÁRNY U HRNČÍŘSKÉHO RYBNÍKA
+
+U MLÝNSKÉHO RYBNÍKA U OVČÍNA U ROZKOŠE U ŠKOLKY U ZEMNÍKU V BAŽINÁCH V BŘEZÍ V LADECH V RÁKOSÍ V ÚHORU V ZÁHYBU V ZATÁČCE VLASTY HILSKÉ ZA BRŮDKEM ZA JEDNOTOU ZA KOVÁŘSKÝM RYBNÍKEM ZA PRODEJNOU ZA RYBNÍČKY ZA ŠMATLÍKEM ZADNÍ ZÁHOŘANSKÁ ŽÁBOVA ŽLUŤÁSKOVÁ
+
+4. PARKY není stanoveno žádné veřejné prostranství, 5. VEŘEJNÁ ZELEŇ k. ú. Šeberov (č. parc.) 67, 117, 121, 130/1, 574, 862, 872/1, 981, 1306; 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ pozemky č. parc. 32/1, 981/2, 1421/17, 1421/18, 1449/26 v k. ú. Šeberov.
+
+MĚSTSKÁ ČÁST PRAHA-ŠTĚRBOHOLY
+
+1. NÁMĚSTÍ není stanoveno žádné veřejné prostranství, 2. TRŽIŠTĚ
+
+201
+
+není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY ČERNOKOSTELECKÁ DRAGOUNSKÁ DROBNÁ GRANÁTNICKÁ HRUŠOVSKÁ K HRUŠOVU K LESÍKU K UČILIŠTI K VALU KAZAŇSKÁ KUTNOHORSKÁ LAUDONOVA
+
+MĚCHOLUPSKÁ NAD HORIZONTEM NAD PLYNOVODEM NÁKUPNÍ NEDOKONČENÁ NEPRAVIDELNÁ NOVOŠTĚRBOHOLSKÁ PERSPEKTIVNÍ POD AREÁLEM POD VALEM RADIOVÁ RADOSTNÁ SLIBNÁ
+
+U DRUPOLU U RADIÁLY U ŠKOLY UPRAVENÁ ÚSTŘEDNÍ VE STRÁNI VE VRBÁCH VIOLKOVÁ VÝROBNÍ ZA HOSPODOU ZASTAVĚNÁ
+
+4. PARKY Park Schwerin, 5. VEŘEJNÁ ZELEŇ ostatní: zeleň na prostranství ohraničeném ul. KUTNOHORSKÁ, K HRUŠOVU a PRŮMYSLOVÁ a objekty podniků OSPAP, Terminal a Autoglob s výjimkou parcel č. parc. 392, 395, 403, 405/3, 407/2 v k. ú. Štěrboholy; zeleň na prostranství ohraničeném objektem Bowling, příjezdovou komunikací k fotbalovému hřišti a ul. ÚSTŘEDNÍ a U ŠKOLY; zeleň na prostranství před objektem Klubu důchodců ohraničeném ul. K UČILIŠTI a VÝROBNÍ a objektem č. p. 35 a zasedací místností Úřadu městské části Praha - Štěrboholy; pás zeleně při ul. UPRAVENÁ; zeleň na parc. č. 363, 364, 378/19, 381/21, 381/22, 476/3, 504, 505, 506/1, 506/4, 506/5, v k. ú. Štěrboholy; 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ fotbalové hřiště ohraničené objektem Bowling, komunikací U ŠKOLY a stávající zástavbou v ul. ÚSTŘEDNÍ a K DRUPOLU na č. parc. 328/1, 328/3, 328/4 v k. ú. Štěrboholy; pozemky č. parc. 415/3, 415/4, 415/15 před objektem EUROPARKU ŠTĚRBOHOLY a prostory před OD OBI, ohraničené na jedné straně oplocením u obytných domů v ulici ANDERSENOVA a na straně druhé ulicemi ÚSTŘEDNÍ a NÁKUPNÍ.
+
+MĚSTSKÁ ČÁST PRAHA-TROJA
+
+1. NÁMĚSTÍ není stanoveno žádné veřejné prostranství, 2. TRŽIŠTĚ tržní místa u přívozu V Podhoří pozemek č. parc. 1457 v k. ú. Troja; ul. POVLTAVSKÁ pozemek č. parc. 1680/2, 1682/1 v k. ú. Troja;
+
+202
+
+ul. TROJSKÁ podél zámecké zdi č. parc. 1660/3 v k. ú. Troja; ul. POVLTAVSKÁ pod zámeckou zdí č. parc. 11/1 v k. ú. Troja; 3. ULICE A CHODNÍKY JIŘÍHO JANDY K BOHNICÍM K PAZDERKÁM NA FARKÁCH NA KAZANCE NA PAZDERCE NA SALABCE NAD KAZANKOU
+
+NÁDVORNÍ POD HAVRÁNKOU POD HRACHOVKOU POD PALÍRKOU POD SALABKOU POD SKLENÁŘKOU POVLTAVSKÁ SÁDKY
+
+TROJSKÁ U LISU U PŘÍVOZU U TROJSKÉHO ZÁMKU U VLTAVY V PODHOŘÍ VODÁCKÁ
+
+ul. POVLTAVSKÁ v části pod Trojským zámkem, č. parc. 1460/1 v k. ú. Troja; 4. PARKY pozemek parc. č. 1404, 1405 v k. ú. Troja; 5. VEŘEJNÁ ZELEŇ prostranství u stanice MHD v ul. POD LISEM, č. parc. 1660/2  v k. ú. Troja; prostranství kolem zámecké zdi, č. parc. 1680/1 v k. ú. Troja; pozemky č. parc. 1626, 1647/2, 1648/2, 1653 v k. ú. Troja; pozemky u komunikace NA PAZDERCE a K PAZDERKÁM, č. parc. 1282, 1284 v k. ú. Troja; pozemky u vinice Salabka č. parc. 96/12, 1269/3 v k. ú. Troja; 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ spojky ul. NAD KAZANKOU-TROJSKÁ, č. parc. 1695/1, 1695/2, 1695/3, 1688/1, 1688/2, 1688/3 v k. ú. Troja; cesta po navigaci, č. parc. 1589/1, 1589/2, 1590, 1591, 1593/1, 1593/2, 1690/1, 1690/2 v k. ú. Troja; komunikace na pozemku č. parc. 237/2, 291/2 v k. ú. Troja; parkoviště č. parc. 11/1, 1460/3 v k. ú. Troja; pozemky podél Vltavy, č. parc. 1406/2, 1460/1, 1680/3, 1680/5, 1736 v k. ú. Troja; cesty v Podhoří, č. parc. 1419, 1468/3, 1469, 1477/5 v k. ú. Troja; přístupové cesty, č. parc. 1239,  1250/1, 1441, 1494/1, 1522/1 v k. ú. Troja; cesty pro pěší, č. parc. 1668/1 v k. ú. Troja spojující ul. NÁDVORNÍ a K PAZDERKÁM; přístupové ulice, č. parc. 1253/1, 1254/1 v k. ú. Troja; sestup z lávky přes Vltavu, č. parc. 1680/6 v k. ú. Troja; bývalé slepé rameno Vltavy, č. parc. 1598/2, 1642/1, 1642/2, 1642/6 v k. ú. Troja; zrušené zařízení staveniště, č. parc. 1628, 1629, 1650 v k. ú. Troja; č. parc. 399/30, 1598/4, 1598/5, 1598/6, 1599 v k. ú. Troja; č. parc. 96/1, 1682/3 v k. ú. Troja; cesty č. parc. 96/9, 1269/2, 1269/4, 1281, 1419 v k. ú. Troja; parkoviště a komunikace č. parc. 1626, 1671/1, 1741 v k. ú. Troja; zelený pás podél Vltavy č. parc. 1407/1, 1406/2, 1407/2 v k. ú. Troja.
+
+MĚSTSKÁ ČÁST PRAHA-ÚJEZD 1.  NÁMĚSTÍ KATEŘINSKÉ NÁM.,
+
+203
+
+2.  TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY FORMANSKÁ J.  BÍBRDLÍKA K HABRU K MOTELU K MOSTU K SUKOVU KE MLÝNU KE SMRČINĚ KRAJANSKÁ MILÍČOVSKÁ
+
+NA CÍPU NA FORMANCE NA KŘTINĚ NAD NÁHONEM NAD STATKEM NAD VÝPUSTÍ PASTEVCŮ POD FORMANKOU POD NAPĚTÍM PROUTĚNÁ
+
+REMÍZKOVÁ STUDÁNKOVÁ ŠTÍTOVÁ U LOUKY U MOČÁLU U PRAMENE V POTOCÍCH VE VILKÁCH VODNICKÁ
+
+4. PARKY není stanoveno žádné veřejné prostranství, 5.  VEŘEJNÁ ZELEŇ břehy vodních toků: parc. č. 624/1, 624/2 v k. ú. Újezd u Průhonic; 6.  DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ k. ú. Újezd u Průhonic silniční ochranné pásmo podél dálnice D1 vymezené § 30 odst. 2 písm. a) zákona č. 13/1997 Sb., o pozemních komunikacích, ve znění zákona č. 268/2015 Sb.; k. ú. Újezd u Průhonic 299 264/1 264/2 264/4 264/10 264/14 264/26 264/29 264/30 265/388
+
+MĚSTSKÁ ČÁST PRAHA-VELKÁ CHUCHLE
+
+1. NÁMĚSTÍ NÁM. CHUCHELSKÝCH BOJOVNÍKŮ NÁM. OMLADINY; 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY ADLEROVA BÍLČICKÁ BOCHNÍČKOVA BOŘÍKOVA BRUNTÁLSKÁ CEPLECHOVA
+
+DOLOMITOVÁ DOSTIHOVÁ DRÁŽNÍ DUBNICKÁ HAUNEROVA HOLOUBKOVA
+
+HVĚZDÁŘSKÁ JANA OUŘADY JOSEFA ŠACHA K SÁDKÁM K VÁPENCE K VIŠŇOVCE
+
+204
+
+K VIŠŇOVÉMU SADU KAZÍNSKÁ KOPALOVA LAHOVSKÁ LOCHKOVSKÁ MEZICHUCHELSKÁ MRKOSOVA NA CIHELNĚ NA HVĚZDÁRNĚ NA LAHOVSKÉ NA MRÁZOVCE NA ROHÁČKU NAD DRAHOU NAD CHUCHLÍ NAD LIBEŘSKÝM POTOKEM NAD LIBŘÍ
+
+NAD PRAHOU NAD RADOTÍNEM NAD ZÁVODIŠTĚM NIKODÉMOVA NOVOCHUCHELSKÁ POD AKÁTY PAROPLAVEBNÍ PODJEZD POLÁKOVA PRODLOUŽENÁ RADOTÍNSKÁ SPÁDOVÁ STAROCHUCHELSKÁ STAROLÁZEŇSKÁ STRAKONICKÁ STRMÝ VRCH ŠTIČKOVA
+
+U BAŽANTNICE U ČERNÉ ROKLE U KŘIŽOVATKY U SKÁLY U ZAHRADNICTVÍ U ZÁVODIŠTĚ V DOLÍCH V LÁZNÍCH V ULIČCE V ÚVOZE V ÚZKÉ VĚTROVÁ ZA BRANKOU ZÁVODNÍ ZBRASLAVSKÁ
+
+4. PARKY není stanoveno žádné veřejné prostranství, 5. VEŘEJNÁ ZELEŇ ostatní: zeleň na NÁM. CHUCHELSKÝCH BOJOVNÍKŮ, č. parc. 1164 v k. ú. Velká Chuchle; prostranství kolem základní školy včetně zeleného pásu podél potoka Vrutice ohraničené ulicí POD AKÁTY a ulicí STAROCHUCHELSKÁ; zeleň v lokalitě DUBNICKÁ – ČERNÁ ROKLE; 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ zeleň na NÁM. CHUCHELSKÝCH BOJOVNÍKŮ; zeleň na NÁMĚSTÍ OMLADINY.
+
+MĚSTSKÁ ČÁST PRAHA-VINOŘ
+
+1. NÁMĚSTÍ VINOŘSKÉ NÁM., č. parc. 10 a 11 v k. ú. Vinoř; 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY BOHDANEČSKÁ BROZÁNSKÁ BUKOVINSKÁ ČEPERSKÁ ČERADICKÁ ČESKODUBSKÁ DAŠICKÁ DRAŽKOVSKÁ
+
+DUBANSKÁ HODĚŠOVICKÁ HOLICKÁ HOLOTÍNSKÁ CHALTICKÁ CHVOJENECKÁ KASALICKÁ KE MLÝNKU
+
+KLADINOVSKÁ KLENOVSKÁ KOLEŠOVSKÁ KRASNICKÁ KŘEMÍLKOVA LABĚTÍNSKÁ LIBIŠANSKÁ LIPOLTICKÁ
+
+205
+
+LODĚNICKÁ LOHENICKÁ MECHOVÁ MĚLICKÁ MIKULOVICKÁ MLADOBOLESLAVSKÁ MLÁZOVICKÁ MORAVANSKÁ NA RAMPÁCH NA TYKAČCE NEMOŠICKÁ OPOČÍNSKÁ PODOLÁNSKÁ
+
+PRACHOVICKÁ RAŠOVSKÁ RONOVSKÁ ROSICKÁ ROUSÍNOVSKÁ SELMICKÁ SEMTÍNSKÁ STOJICKÁ STRAŠOVSKÁ STROJICKÁ ŠTĚPÁNOVSKÁ TELČICKÁ TRNOVANSKÁ
+
+U BAKALÁŘE U CUKROVARU U HÁJKU UHERSKÁ URBANICKÁ V OBŮRKÁCH V PODSKALÍ V ŽABOKŘIKU VELÍNSKÁ VELKOOSECKÁ ŽIVANICKÁ
+
+4. PARKY není stanoveno žádné veřejné prostranství, 5. VEŘEJNÁ ZELEŇ ostatní: zeleň kolem rybníku Malá a Velká Oburka, č. parc. 1228/1, 1530,1531 a 1535 v k. ú. Vinoř; zeleň před vinořským zámkem při ul. MLADOBOLESLAVSKÁ, č. parc. 259/1 v k. ú. Vinoř; zeleň kolem hřbitova ohraničená ul. MLADOBOLESLAVSKÁ, CHALTICKÁ, KLENOVSKÁ a PRACHOVICKÁ, č. parc. 366, 1130, 1131, 1133 a 1136/1  v  k. ú. Vinoř; 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ dětské hřiště v tzv. Topolech mezi ul. ŽIVANICKÁ a V PODSKALÍ; veřejné parkoviště a prostor nákupního střediska při ul. MLADOBOLESLAVSKÁ, č. parc. 1162/1 v  k. ú. Vinoř; veřejná parkovací plocha při ul. MLADOBOLESLAVSKÁ mezi farskou zahradou a zdravotním střediskem, č. parc. 313 v  k. ú. Vinoř; obratiště autobusu MHD při ul. MLADOBOLESLAVSKÁ, č. parc. 1360/3 v  k. ú. Vinoř.
+
+MĚSTSKÁ ČÁST PRAHA-ZBRASLAV 1. NÁMĚSTÍ ZBRASLAVSKÉ NÁM., 2. TRŽIŠTĚ ZBRASLAVSKÉ NÁM., č. parc. 34 v k. ú. Zbraslav; 3. ULICE A CHODNÍKY BARTOŇOVA BEAUFORTOVA BELDOVA BOŽENY HOFMEISTEROVÉ BOŽENY STÁRKOVÉ CISTERCIÁCKÁ
+
+ELIŠKY PŘEMYSLOVNY FUCHSOVA GUTTFREUNDOVA HAUPTOVA HOSTOŠOVA JANSENOVA JAROMÍRA VEJVODY
+
+JAROSLAVA ŠVEHLY JIŘÍHO MAŠÍNA K BELVEDERU K HAVLÍNU K INTERNĚ K MLÍČNÍKU K NOVÉ ŠKOLE K NOVÝM DOMKŮM
+
+206
+
+K PELUŇKU K PŘEHRADÁM K PŘÍSTAVIŠTI K RADOTÍNU K ŘECE K SÁDKÁM K UBYTOVNÁM K VEJVOĎÁKU K VÝTOPNĚ K ZAHRADÁM K ZÁVODIŠTI KARLA MICHALA KAŠKOVA KE DRAČKÁM KE KAMÍNCE KE KYJOVU KE STANICI KOŠÍKÁŘSKÁ KUBÍNOVA LAHOVSKÁ LESÁKŮ LIPENECKÁ LOMAŘSKÁ MATJUCHINOVA MELIORAČNÍ NA BANÍCH NA DRAHÁCH NA KRÁLOVNĚ NA PLÁCKU NA STARÉ NA VRŠKÁCH NAD DÁLNICÍ NAD KAMÍNKOU
+
+NAD PARKEM NAD STAROU PÍSKOVNOU NEBESKÉHO NECHYBOVA NEZVALOVA OPATA KONRÁDA OTTOVA PAŠKOVA POD HAVLÍNEM POD CHALOUPKAMI POD KAMÍNKOU POD SIRÉNOU POD SPRAVEDLNOSTÍ POD STUDÁNKOU POD ŠPEJCHAREM POD ŠPITÁLEM POD TŘEŠŇOVKOU POD URNOVÝM HÁJEM POD VYSÍLAČKOU POD ZATÁČKOU PELZOVA PIRNEROVA PODÉŠŤOVA RAŠILOVOVA ROMANA BLAHNÍKA SPODNÍ SPOJAŘŮ STANIČNÍ STRAKONICKÁ STRNADY STUDNIČNÍ
+
+SULOVA SVÉPOMOCI ŠULCOVA ŠŮROVA TADROVA TUNELÁŘŮ U HUDEBNÍ ŠKOLY U KARLOVA STÁNKU U KLUBOVNY U KOSTROUNKŮ U LÉKÁRNY U LODĚNICE U MALÉ ŘEKY U NÁRODNÍ GALERIE U PUMPY U STÁROVNY U VČELY V BÍLCE V HLUBOKÉ V PLATÝZU VILÍMKOVA VLADIMÍRA VANČURY VÝTVARNICKÁ VÝZKUMNÍKŮ ZA DÁLNICÍ ZA OPUSEM ZÁVIST ZDEŇKY NYPLOVÉ ZVONAŘSKÁ ŽABOVŘESKÁ ŽITAVSKÉHO ŽOFIE PODLIPSKÉ 4. PARKY není stanoveno žádné veřejné prostranství,
+
+5. VEŘEJNÁ ZELEŇ lesopark Beleveder k. ú. Zbraslav (č. parc.) 33/2 35 37 1559 1596 2909/13 2912/5 2912/7 2961/3 3099/1 ostatní: k. ú. Zbraslav (č. parc.) 1465 1553 2247/1 2912/6 2912/22 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ k. ú. Zbraslav (č. parc.) 837/1 2866/2 2868/1 2868/4 2868/7
+
+207
+
+2875/2 2909/6 2931/16 MĚSTSKÁ ČÁST PRAHA-ZLIČÍN 1. NÁMĚSTÍ není stanoveno žádné veřejné prostranství, 2. TRŽIŠTĚ není stanoveno žádné veřejné prostranství, 3. ULICE A CHODNÍKY Zličín BERTRÁMOVÁ DO BLATIN DOLŇANSKÁ HALENKOVSKÁ HEVLÍNSKÁ HROZENKOVSKÁ CHABSKÁ JÍLOVÁ K TŘEŠŇOVCE KAKOSTOVÁ KŘIVATCOVÁ LAČNOVSKÁ LANŽHOTSKÁ LESKOVECKÁ LIDEČSKÁ
+
+LIPOVSKÁ MILOTICKÁ MISTŘÍNSKÁ MÍŠOVICKÁ MLADÝCH NA RADOSTI NEDAŠOVSKÁ PRUŠÁNECKÁ ROZRAZILOVÁ SAZOVICKÁ STROJÍRENSKÁ ŠUMICKÁ TASOVSKÁ TULEŠICKÁ TVRDONICKÁ
+
+TYLOVICKÁ U LÍPY U ZLIČÍNSKÉHO HŘIŠTĚ V PÍSKOVNĚ VĚSTONICKÁ VRATIČOVÁ VRBKOVÁ VŘESOVICKÁ VSETÍNSKÁ ZA ARCHIVEM ZA DOLEJŠÁKEM ZA RADOSTÍ
+
+Sobín BLATNICKÁ BOJKOVICKÁ BOLERATICKÁ BRŇOVSKÁ BZENECKÁ ČEJKOVICKÁ HABŘICKÁ HAVRANICKÁ
+
+HOSTIVICKÁ JASENICKÁ KE BŘVŮM KE ZLIČÍNU LUBNICKÁ NIVNICKÁ MILULČICKÁ PAVLICKÁ
+
+PETROVSKÁ RADĚJOVSKÁ ŠAKVICKÁ SLAVIČÍNSKÁ VALTICKÁ VLČŇOVSKÁ
+
+Třebonice DO ZAHRÁDEK I DO ZAHRÁDEK II K METRU
+
+RINGHOFFEROVA ŘEVNICKÁ SÁRSKÁ
+
+U ZLIČÍNA
+
+4. PARKY park v Sobíně, č. parc. 58, 59 v k. ú. Sobín; park Na Prameništi, č. parc. 323, 324, 668/12, 668/26, 674/1, 674/3, 673/4 v k. ú. Zličín;
+
+208
+
+5. VEŘEJNÁ ZELEŇ sídlištní zeleň: zeleň v bytové zástavbě v ul. NA RADOSTI, včetně ul. MLADÝCH, VSETÍNSKÁ, NEDAŠOVSKÁ A TASOVSKÁ č. parc. 262/2, 281/1, 281/2, 281/3, 281/58, 281/59, 281/68, 281/70, 281/72, 281/75, 281/76, 281/79, 281/80, 281/83, 281/84, 281/86, 281/88, 281/89, 281/90, 281/92, 281/93, 281/95, 281/96, 281/97, 281/98, 281/100, 281/101, 281/102, 281/103, 281/104, 281/105, 281/106, 281/107, 281/108, 281/109, 281/111, 281/ll6, 281/119, 281/121, 281/123, 281/126, 281/129, 281/130, 281/132, 281/133, 281/135, 281/136, 281/138, 281/139, 281/141, 281/142, 281/143, 303, 312, 320/1, 320/2, 320/3, 320/4 v k. ú. Zličín; ostatní: zeleň u hřbitova v Sobíně, č. parc. 208/3 v k. ú. Sobín; zeleň u hřbitova ve Zličíně, č. parc. 730 v k. ú. Zličín; zatravněné plochy podél ul. HROZENKOVSKÁ a část ul. NEDAŠOVSKÁ, č. parc. 281/l12, 281/113, 322, 323, 334, 668/2, 668/3, 668/5, 668/6, 668/15, 668/16 část, 668/17 a 751 v k. ú. Zličín; plochy zeleně podél ul. TYLOVICKÁ, V PÍSKOVNĚ a DO BLATIN, č. parc. l35/1, 765/2, 765/3, 765/4, 765/5, 765/6, 767 v k. ú. Zličín; nezastavěné plochy a plochy izolační zeleně podél Radlické radiály, č. parc. 313/1, 313/4 a 313/9  v k. ú. Třebonice; plochy veřejné zeleně a zpevněné plochy ul. KŘIVATCOVA, č. parc. 450/9, 785, 752/3 v k. ú. Zličín; plochy zeleně podél ul. K TŘEŠŇOVCE, č. parc. 802/1, 802/5, 802/23, 802/24 v k. ú. Zličín; plochy zeleně podél ul. LIDEČSKÁ, č. parc. 797/1, 797/2, 797/3, 797/4 v k. ú. Zličín; zatravněné plochy a zpevněné plochy ul. BLATNICKÁ, č. parc. 252/7, 252/9, 252/11, 252/12 v k. ú. Sobín; veřejná zeleň při komunikaci HROZENKOVSKÁ/U LÍPY, parc. č. 405 v k. ú. Zličín (parčík ve Starém Zličíně); 6. DALŠÍ PROSTORY PŘÍSTUPNÉ KAŽDÉMU BEZ OMEZENÍ ostatní: prostranství před a. s. VOLTA REAL, č. parc. 451/2 v k. ú. Zličín; plocha u zastávky BUS, č. parc. 229 v k. ú. Sobín; cesta, č. parc. 828 v k. ú. Zličín; areál železniční stanice Praha - Zličín, č. parc. 816 v k. ú. Zličín; veřejná parkoviště v sídlišti, č. parc. 281/56, 281/74, 281/77, 281/78, 281/81, 281/82, 281/85, 281/91, 281/117, 281/118, 281/131, 281/134, 281/137, 281/140 a 281/144  v k. ú. Zličín; cesta č. parc. 775/2 v k. ú. Zličín; plochy č. parc. 863/1, 863/3, 863/4, 863/5 v k. ú. Zličín; veřejné parkoviště u křižovatky HROZENKOVSKÁ a NA RADOSTI, č. parc. 286/4 779, 782/1 v k. ú. Zličín; plocha č. parc. 451/1 v k. ú. Zličín; plocha č. parc. 251/1 v k. ú. Sobín; veřejné parkoviště u hřiště Sobín, č. parc. 236 v k. ú. Sobín; plochy zeleně a zpevněné plochy mezi stanicí metra Zličín a autobusovým nádražím č. parc. 319/1, 320/15, 321/2, 472/171, 472/172, 472/173, 472/174, 472/175, 472/176, 472/177, 537/1, 546/1, 546/5, 546/6 v k. ú. Třebonice; plocha u bývalé benzínové stanice ul. NA RADOSTI, č. parc. 661/1 v k. ú. Zličín;
+
+209
+
+ostatní plochy mezi metrem Zličín a OC Metropole Zličín č. parc. 319/27, 319/28, 321/19 v k. ú. Třebonice; plochy zeleně při autobusovém terminálu Zličín č. parc. 468/29, 468/37, 543, 545 v k. ú. Třebonice; prostor pod komunikací ŘEVNICKÁ, vstup do OC Metropole č. parc. 320/41 v k. ú. Třebonice; při ul. NA RADOSTI parc. č. 869/5 v k. ú. Zličín; bezejmenná účelová komunikace parc. č. 885/4, 885/5 v k. ú. Zličín; zpevněné plochy před bytovým domem č. p. 479, ul. SAZOVICKÁ, pozemky parc. č. 668/415, 668/416 a 668/417 v k. ú. Zličín; veřejné parkoviště ul. HROZENKOVSKÁ ve Starém Zličíně, č. parc. 779, 782/1 v k. ú. Zličín.“.
+
+Čl. II
+
+Tato vyhláška nabývá účinnosti dnem 1. ledna 2018.
+
+Adriana Krnáčová, v. r. primátorka hlavního města Prahy
+
+Petr Dolínek, v. r. náměstek primátorky hlavního města Prahy
