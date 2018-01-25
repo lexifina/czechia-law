@@ -1,0 +1,16 @@
+33 Cdo 157/2016-336
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátu složeném z předsedy JUDr. Václava Dudy a soudců JUDr. Pavla Krbka a JUDr. Blanky Moudré ve věci žalobkyně ANS – STŘECHA s.r.o., se sídlem v Domažlicích, Masarykova 124, identifikační číslo 25236164, zastoupené Mgr. Vojtěchem Fořtem, advokátem se sídlem v Domažlicích, Vodní 90, proti žalované L. K., zastoupené JUDr. Zdeňkem Králem, advokátem se sídlem v Klatovech, Domažlická 800, o 32.000 Kč s příslušenstvím a smluvní pokutu 40.200,- Kč, vedené u Okresního soudu v Klatovech pod sp. zn. 6 C 224/2010, o dovolání žalované proti rozsudku Krajského soudu v Plzni ze dne 9. 9. 2015, č. j. 61 Co 192/2015-323, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í:
+Dovolání proti v záhlaví uvedenému rozsudku krajského soudu, kterým byl potvrzen rozsudek Okresního soudu v Klatovech ze dne 22. 12. 2014, sp. zn. 6 C 224/2010, není přípustné podle § 237 zákona č. 99/1963 Sb., občanského soudního řádu, ve znění účinném do 31. 12. 2013 (článek II. bod 1. zákona č. 404/2012 Sb., čl. II. bod 2. zákona č. 293/2013 Sb. a čl. II. bod 2. zákona č. 296/2017 Sb. - dále jen „o. s. ř.“).
+Přípustnost dovolání podle § 237 o. s. ř. není založena již tím, že dovolatel tvrdí, že jsou splněna kritéria přípustnosti dovolání obsažená v tomto ustanovení. Přípustnost dovolání nastává tehdy, jestliže dovolací soud, který jediný je oprávněn tuto přípustnost zkoumat (§ 239 o. s. ř.), dospěje k závěru, že kritéria přípustnosti dovolání uvedená v § 237 o. s. ř. skutečně splněna jsou.
+Argumentace závěry usnesení Nejvyššího soudu ze dne 29. 11. 2012, sp. zn. 23 Cdo 1553/2011, a rozsudku Vrchního soudu v Praze ze dne 2. 12. 2003, sp. zn. 1 Cmo 11/2003, není přiléhavá, neboť rozhodnutí odvolacího soudu je založeno na závěru, že právní vztah účastníků řízení podléhá režimu zákona č. 40/1964 Sb., občanského zákoníku účinného do 31. 12. 2013, a nikoli režimu zákona č. 513/1991 Sb., obchodního zákoníku účinného do 31. 12. 2013, na jehož aplikaci jsou citovaná rozhodnutí Nejvyššího soudu a Vrchního soudu v Praze postavena; není tedy naplněn předpoklad přípustnosti dovolání podle § 237 o. s. ř. (rozpor rozhodnutí odvolacího soudu s ustálenou rozhodovací praxí dovolacího soudu).
+Vzhledem k tomu, že dovolání směřuje proti rozhodnutí odvolacího soudu, proti němuž není tento mimořádný opravný prostředek přípustný, Nejvyšší soud je podle § 243c odst. 1 věty první o. s. ř. odmítl.
+Pro úplnost - mimo důvod, který vedl k odmítnutí dovolání - nutno uvést, že uplatněním způsobilého dovolacího důvodu ve smyslu § 241a odst. 1 o. s. ř. není zpochybnění právního posouzení věci, vychází-li z jiného skutkového stavu, než z jakého vyšel při posouzení věci odvolací soud, a že samotné hodnocení důkazů soudem (opírající se o zásadu volného hodnocení důkazů zakotvenou v ustanovení § 132 o. s. ř.) nelze v režimu dovolacího řízení podle občanského soudního řádu ve znění účinném od 1. 1. 2013 úspěšně napadnout dovolacím důvodem podle § 241a odst. 1 o. s. ř.
+Výrok o náhradě nákladů dovolacího řízení nemusí být odůvodněn (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 25. ledna 2018
+JUDr. Václav Duda
+předseda senátu
