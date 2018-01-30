@@ -1,0 +1,15 @@
+23 Nd 424/2017-132
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Horáka, Ph.D., a soudců JUDr. Zdeňka Dese a JUDr. Moniky Vackové v právní věci žalobkyně ČEZ Distribuce, a. s., se sídlem v Děčíně – Děčín IV-Podmokly, Teplická 874/8, identifikační číslo osoby 24729035, zastoupené doc. JUDr. Mgr. Janou Tlapák Navrátilovou, Ph.D., advokátkou se sídlem v Praze 8, Prvního pluku 206/7, proti žalovanému A. N., o zaplacení 8.175 Kč s příslušenstvím, vedené u Okresního soudu v Příbrami pod sp. zn. 5 C 131/2015, o určení místní příslušnosti soudu, takto:
+Věc vedenou u Okresního soudu v Příbrami pod sp. zn. 5 C 131/2015 projedná a rozhodne Okresní soud v Příbrami.
+O d ů v o d n ě n í :
+Žalobou podanou dne 17. 6. 2016 k Okresnímu soudu v Příbrami se žalobkyně proti žalovanému domáhá zaplacení částky ve výši 8.175 Kč s příslušenstvím.
+Okresní soud v Příbrami usnesením ze dne 14. 9. 2017, č. j. 5 C 131/2015-120, vyslovil svou místní nepříslušnost a rozhodl o předložení věci Nejvyššímu soudu k určení, který soud věc projedná a rozhodne v souladu s § 11 odst. 3 zákona č. 99/1963 Sb., občanský soudní řád (dále též jen „o. s. ř.“).
+Provedeným šetřením zjistil, že podle výpisu z centrální evidence obyvatel měl žalovaný veden trvalý pobyt od 1. 12. 2010 do 13. 1. 2016, tedy v době podání žaloby, na adrese H., soudní okres R. V předchozím období od 11. 11. 2002 do 1. 12. 2010 měl veden trvalý pobyt na adrese B., soudní okres Š. Starosta obce B. (soudní okres P.) sdělil, že o osobě žalovaného není obci nic známo. Místostarostka obce H. (soudní okres R.) zdejšímu soudu dne 2. 12. 2015 sdělila, že žalovaný se na adrese H. již delší dobu nezdržuje. Jiná adresa pobytu žalovaného v době zahájení řízení se soudu nepodařila zjistit. Žalovaný se nenachází ve vazbě ani výkonu trestu. Podle sdělení OSSZ Příbram žalovaný není zaměstnán ani nepodniká. Žalovaný neměl nikdy veden trvalý pobyt v obvodu Okresního soudu v Příbrami, ani nebylo zjištěno, že by zde měl v době zahájení řízení své bydliště. Jediná známá a zjistitelná adresa bydliště žalovaného v době zahájení řízení tak je H. V současné době má žalovaný veden trvalý pobyt na adrese H. Jedná se o adresu Obecního úřadu Hvozd. Soud dále telefonicky zjistil adresu současného pobytu žalovaného P. Žalovaný však na dotaz soudu, kde se zdržoval v době zahájení tohoto řízení, nereagoval, ačkoliv mu byl doručen do vlastních rukou.
+Podle § 11 odst. 3 o. s. ř. jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Z obsahu spisu vyplývá, že žalovaný je hlášen k trvalému pobytu v sídle obecního úřadu a jeho faktické bydliště se nepodařilo zjistit.
+S přihlédnutím k zásadě hospodárnosti řízení vyjádřené v § 6 o. s. ř. určil Nejvyšší soud podle § 11 odst. 3 o. s. ř. místně příslušným pro projednání a rozhodnutí výše označené věci Okresní soud v Příbrami, u nějž bylo řízení zahájeno.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 30. ledna 2018
+JUDr. Pavel Horák, Ph.D.
+předseda senátu
