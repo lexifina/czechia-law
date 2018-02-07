@@ -1,0 +1,16 @@
+30 Cdo 5657/2016-73
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Simona a soudců Mgr. Víta Bičáka a JUDr. Františka Ištvánka v právní věci žalobců a) J. Č., a b) V. Č., zastoupených JUDr. Janem Jiříčkem, advokátem se sídlem v Praze 8, Legionářů 947/2, proti žalované České republice – Ministerstvu pro místní rozvoj, se sídlem v Praze 1, Staroměstské náměstí 932/6, o zaplacení 72 000 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 1 pod sp. zn. 18 C 92/2015, o dovolání žalobců proti rozsudku Městského soudu v Praze ze dne 29. 6. 2016, č. j. 18 Co 193/2016-58, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá nárok na náhradu nákladů dovolacího řízení.
+O d ů v o d n ě n í :
+Obvodní soud pro Prahu 1 jako soud prvního stupně rozsudkem ze dne 17. 3. 2016, č. j. 18 C 92/2015-33, konstatoval, že postupem Obecního úřadu ve Všerubech v řízení o odstranění stavby z pozemku v k. ú. H. u Z. bylo porušeno právo žalobců na spravedlivý proces (výrok I), žalobu zamítl v rozsahu, ve kterém se žalobci domáhali zadostiučinění za nemajetkovou újmu ve výši 72 000 Kč s příslušenstvím (výrok II) a dále přiznal žalobcům náhradu nákladů ve výši 20 182,80 Kč (výrok III).
+Městský soud v Praze jako soud odvolací rozsudkem ze dne 29. 6. 2016, č. j. 18 Co 193/2016-58, rozsudek soudu prvního stupně ve vyhovující části výroku změnil tak, že se žaloba zamítá, a dále žalované přiznal náhradu nákladů řízení před soudy obou stupňů ve výši 1 500 Kč.
+Rozsudek odvolacího soudu napadli žalobci v plném rozsahu včasným dovoláním, které však Nejvyšší soud podle § 243c odst. 1 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2013 do 31. 12. 2013 (viz čl. II bod 7 zákona č. 404/2012 Sb. a čl. II bod 2 zákona č. 293/2013 Sb.), dále jen „o. s. ř.“, odmítl.
+Odvolací soud založil svůj zamítavý rozsudek na závěru o neexistenci újmy na straně žalobců, a to ze dvou důvodů. Zaprvé proto, že žalobci nebyli osobami oprávněnými domáhat se výkonu rozhodnutí o odstranění stavby. Zadruhé proto, že žalobcům zůstala zachována možnost domáhat se ochrany jejich práv cestou civilní žaloby.
+Proti na druhém místě uvedenému závěru však žalobci v dovolání nebrojí. Vyřešení žalobci předložené otázky [tj. zda jsou legitimováni k nároku na náhradu nemajetkové újmy vůči žalované za situace, kdy k jejich návrhu bylo zahájeno správní řízení o odstranění nepovolených staveb z jejich pozemku, došlo k vydání pravomocného rozhodnutí, avšak díky (správně „kvůli“ – pozn. Nejvyššího soudu) nečinnosti správního orgánu, který jej (správně „je“ – pozn. Nejvyššího soudu) vydal, nebylo vykonáno s tím, že již ani vykonáno být nemůže], byť by ji dovolací soud posoudil odlišně od soudu odvolacího, se nemůže projevit v poměrech žalobců, když druhý důvod zamítnutí žaloby zůstal dovoláním nenapaden, což činí dovolání žalobců ve smyslu § 237 o. s. ř. nepřípustným (srov. usnesení Nejvyššího soudu ze dne 27. 10. 2005, sp. zn. 29 Odo 663/2003, uveřejněné pod číslem 48/2006 Sbírky soudních rozhodnutí a stanovisek).
+Nákladový výrok netřeba odůvodňovat (§ 243f odst. 3 věta druhá o. s. ř.).
+Proti tomuto usnesení nejsou přípustné opravné prostředky.
+V Brně 7. února 2018
+JUDr. Pavel Simon
+předseda senátu
