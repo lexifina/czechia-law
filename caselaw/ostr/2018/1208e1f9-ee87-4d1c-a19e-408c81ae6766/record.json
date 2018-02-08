@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Třebíči",
+  "ecli": "ECLI:CZ:OSTR:2018:13.C.107.2017.1",
+  "docket": "13 C 107/2017-47",
+  "date": "2018-02-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1208e1f9-ee87-4d1c-a19e-408c81ae6766",
+  "source_sha256": "c05b9761913034eb8a45d2cd005248f993abcceb9f6e4c2b967fe7be081f10b0",
+  "source_id": "1208e1f9-ee87-4d1c-a19e-408c81ae6766",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 107/2017-47",
+    "soud": "Okresní soud v Třebíči",
+    "autor": "JUDr. Jan Tesař",
+    "ecli": "ECLI:CZ:OSTR:2018:13.C.107.2017.1",
+    "predmetRizeni": "platební rozkaz o 75.000 Kč",
+    "datumVydani": "2018-02-08",
+    "datumZverejneni": "2021-12-09",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2 z. č. 235/2004 Sb.",
+      "§ 206 z. č. 40/2009 Sb.",
+      "§ 2995 z. č. 89/2012 Sb.",
+      "§ 1 vyhl. č. 463/2017 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1208e1f9-ee87-4d1c-a19e-408c81ae6766"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
