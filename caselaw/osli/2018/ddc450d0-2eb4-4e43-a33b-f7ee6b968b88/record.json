@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2018:15.C.226.2014.1",
+  "docket": "15 C 226/2014-102",
+  "date": "2018-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ddc450d0-2eb4-4e43-a33b-f7ee6b968b88",
+  "source_sha256": "6ed96189cb9300ed51bc22b2c11b7567499a3880b5833eaa009afb7cf8b2aa3c",
+  "source_id": "ddc450d0-2eb4-4e43-a33b-f7ee6b968b88",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 226/2014-102",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Vladimír Maxa",
+    "ecli": "ECLI:CZ:OSLI:2018:15.C.226.2014.1",
+    "predmetRizeni": "o zaplacení částky ve výši 105 000 Kč s přísl.",
+    "datumVydani": "2018-02-09",
+    "datumZverejneni": "2021-08-05",
+    "klicovaSlova": [
+      "bezpečnost a ochrana zdraví při práci",
+      "bolestné",
+      "peněžité plnění",
+      "pracovní úraz",
+      "znalecký posudek",
+      "ztížení společenského uplatnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§ 105 nař. vl. č. 201/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ddc450d0-2eb4-4e43-a33b-f7ee6b968b88"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
