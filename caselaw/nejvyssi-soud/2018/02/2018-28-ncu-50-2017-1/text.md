@@ -1,0 +1,14 @@
+28 Ncu 50/2017-26
+U S N E S E N Í
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedkyně senátu JUDr. Olgy Puškinové a soudců JUDr. Jana Eliáše, Ph.D., a Mgr. Petra Krause o návrhu na uznání cizího rozhodnutí podaném navrhovatelkou O. G. B., zastoupenou JUDr. Lenkou Šalamoun, Ph.D., advokátkou se sídlem v Praze 1 – Novém Městě, Na Poříčí 12, za účasti Nejvyššího státního zastupitelství ČR, t a k t o :
+I. Návrh na uznání rozsudku Soudu pro nezletilé regionu Emilia-Romagna v Bologni, Italská republika, jímž bylo určeno otcovství, se odmítá.
+II. Navrhovatelce se vrací soudní poplatek za návrh na uznání cizího rozhodnutí ve výši 2.000,- Kč.
+Odůvodnění:
+Dne 13. 3. 2017 byl Nejvyššímu soudu doručen návrh navrhovatelky na uznání rozsudku Soudu pro nezletilé regionu Emilia-Romagna v Bologni, Italská republika, sp. zn. 3/2011 Cont., jímž bylo určeno otcovství, k nezletilému.
+Usnesením Nejvyššího soudu ze dne 4. 4. 2017, č. j. 28 Ncu 50/2017-4, byla navrhovatelka vyzvána, aby ve lhůtě dvou měsíců od jeho doručení doplnila svůj návrh na uznání rozsudku Soudu pro nezletilé regionu Emilia-Romagna v Bologni, Italská republika, zasláním originálu (případně ověřené kopie) tohoto rozsudku, který bude opatřen apostilou a úředním překladem do českého jazyka, a originálu (případně ověřené kopie) rozsudku odvolacího soudu v Bologni, jímž byl rozsudek Soudu pro nezletilé regionu Emilia-Romagna v Bologni (Italská republika), potvrzen, který bude opatřen apostilou a úředním překladem do českého jazyka, a dále předložila osvědčení o svém českém státním občanství k datu rozhodnutí odvolacího soudu, případně kopii občanského průkazu či cestovního pasu platného k uvedenému datu, s poučením, že nebude-li návrh na uznání cizího rozhodnutí ve stanovené lhůtě doplněn, Nejvyšší soud jej odmítne. Toto usnesení bylo původnímu zástupci navrhovatelky Mgr. Zdeňku Novému, Ph.D., LL.M., doručeno dne 26. 4. 2017. Na žádost nové zástupkyně navrhovatelky JUDr. Lenky Šalamoun, Ph.D., byla lhůta k doplnění podkladů prodloužena do konce ledna 2018.
+Jelikož návrh na uznání cizího rozhodnutí nebyl ve stanovené lhůtě (ani do dnešního dne) doplněn a v řízení nelze pro tento nedostatek pokračovat, Nejvyšší soud jej v souladu s ustanovením § 43 odst. 2 věty první o. s. ř. odmítl.
+Navrhovatelka při podání návrhu uhradila kolkovými známkami soudní poplatek ve výši 2.000,- Kč. Jelikož došlo k odmítnutí návrhu v řízení, v němž lze rozhodovat bez jednání před vydáním rozhodnutí o věci samé, rozhodl Nejvyšší soud v souladu s ustanovením § 10 odst. 3 a 5 zákona č. 549/1991 Sb., o soudních poplatcích, ve znění pozdějších předpisů, o vrácení soudního poplatku. Soudní poplatek bude navrhovatelce k její žádosti vrácen z účtu Nejvyššího soudu po právní moci tohoto usnesení.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně 27. února 2018
+JUDr. Olga Puškinová
+předseda senátu
