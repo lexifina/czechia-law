@@ -1,0 +1,30 @@
+29 Nd 359/2017-19
+USNESENÍ
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Petra Gemmela a soudců JUDr. Zdeňka Krčmáře a Mgr. Milana Poláška v právní věci žalobkyně METRANS Rail s. r. o., se sídlem v Praze 10, Podleská 926, PSČ 104 00, identifikační číslo osoby 26 36 14 85, proti žalovanému INTERMODAL TERMINAL RZEPIN Sp. z o. o., se sídlem v Polské republice, Rzepin, ul. Slubicka 27A, 69-110, KRS 347939, NIP 9291822495, REGON 080407104, o zaplacení částky 35.625,- EUR s příslušenstvím, o určení místní příslušnosti soudu, takto:
+Žalobu žalobkyně METRANS Rail s. r. o. proti žalovanému INTERMODAL TERMINAL RZEPIN Sp. z o. o. o zaplacení částky 35.625,- EUR s příslušenstvím projedná a rozhodne Obvodní soud pro Prahu 10.
+Odůvodnění:
+Podáním ze dne 26. září 2017 se žalobkyně domáhá po žalovaném zaplacení částky 35.625,- EUR s příslušenstvím z titulu nezaplacené úplaty za dočasné užívání movité věci (lokomotivy tov. zn. B.) na základě podnájemní smlouvy ze dne 23. listopadu 2016, č. U-11.01.
+Současně podáním ze dne 26. září 2017, doručeným Nejvyššímu soudu 5. října 2017, žalobkyně navrhla, aby Nejvyšší soud určil, který soud věc projedná a rozhodne (§ 11 odst. 3 zákona č. 99/1963 Sb., občanského soudního řádu - dále jen „o. s. ř.“),
+V odůvodnění návrhu na určení místní příslušnosti uvedla, že v čl. 17, bodu 17.5 podnájemní smlouvy si smluvní strany ujednaly, že „tato smlouva, stejně jako související mimosmluvní povinnosti, se řídí právem České republiky. Zároveň byla sjednána též pravomoc soudů České republiky projednat a rozhodnout veškeré spory, vyplývající z předmětné podnájemní smlouvy, přičemž jako místně příslušné k projednání sporů z podnájemní smlouvy byly označeny soudy v městě Praha.“
+V podnájemní smlouvě tak smluvní strany „sjednaly a založily pravomoc soudů České republiky ve smyslu čl. 25 nařízení Evropského parlamentu a Rady (EU) č. 1215/2012 ze dne 12. prosince 2012, o příslušnosti a uznávání a výkonu soudních rozhodnutí v občanských a obchodních věcech (nařízení Brusel I bis), aniž by současně určily místní příslušnost konkrétního soudu prvního stupně“.
+Podle ustanovení § 11 odst. 3 o. s. ř., jde-li o věc, která patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne.
+Nejvyšší soud nejprve zkoumal, zda je dána pravomoc českých soudů věc rozhodnout (srov. usnesení Nejvyššího soudu ze dne 12. listopadu 2014, sp. zn. 31 Nd 316/2013, uveřejněné pod číslem 11/2015 Sbírky soudních rozhodnutí a stanovisek).
+Před aplikováním zákona č. 91/2012 Sb., o mezinárodním právu soukromém, je třeba přihlédnout k úpravě obsažené v normách práva Evropské unie, které mají aplikační přednost před právem členských států.
+Vzhledem k tomu, že návrh na určení příslušnosti byl Nejvyššímu soudu doručen dne 5. října 2017, postupoval Nejvyšší soud podle nařízení Evropského parlamentu a Rady (EU) č. 1215/2012 ze dne 12. prosince 2012, o příslušnosti a uznávání a výkonu soudních rozhodnutí v občanských a obchodních věcech (přepracované znění), dále jen „nařízení Brusel I bis“ (srov. čl. 66 odst. 1 nařízení Brusel I bis, podle něhož se toto nařízení vztahuje pouze na řízení zahájená, na veřejné listiny formálně vyhotovené nebo registrované a na soudní smíry schválené či uzavřené ke dni 10. října 2015 nebo po něm).
+Podle čl. 25 odst. 1 nařízení Brusel I bis, bez ohledu na bydliště stran, dohodnou-li se tyto strany, že v již vzniklém nebo budoucím sporu z určitého právního vztahu má příslušnost soud nebo soudy některého členského státu, je příslušný soud nebo soudy tohoto státu, pokud tato dohoda není z hlediska své věcné platnosti podle práva tohoto členského státu neplatná. Pokud se strany nedohodnou jinak, je tato příslušnost výlučná. Tato dohoda o příslušnosti musí být uzavřena:
+a) písemně nebo ústně s písemným potvrzením;
+b) ve formě, která odpovídá zvyklostem zavedeným mezi těmito stranami, nebo
+c) v mezinárodním obchodě ve formě, která odpovídá obchodním zvyklostem, které strany znaly nebo musely znát a které strany smluv tohoto druhu v daném odvětví obchodu obecně znají a pravidelně se jimi řídí.
+Z podnájemní smlouvy předložené žalobkyní Nejvyšší soud zjistil, že podle čl. 17, bodu 17.5 „se tato smlouva a rovněž z ní vyplývající mimosmluvní povinnosti řídí právem České republiky. Místem soudní příslušnosti pro všechny spory z této smlouvy je P.“.
+Vzhledem k tomu, že ve věci není dána výlučná příslušnost soudů podle čl. 24 nařízení Brusel I bis, a strany si sjednaly mezinárodní příslušnost českých soudů postupem předvídaným v čl. 25 odst. 1 nařízení Brusel I bis, Nejvyšší soud uzavřel, že mezinárodní příslušnost soudů České republiky je dána.
+Nejvyšší soud se dále zabýval otázkou místní příslušnosti konkrétního soudu v České republice.
+Podle ustanovení § 84 o. s. ř. je k řízení příslušný obecný soud účastníka, proti němuž návrh směřuje (žalovaného), není-li stanoveno jinak.
+Podle ustanovení § 85 odst. 3 o. s. ř. je obecným soudem právnické osoby okresní soud, v jehož obvodu má sídlo.
+Podle ustanovení § 86 o. s. ř. proti tomu, kdo nemá jiný příslušný soud v České republice, je možno uplatnit majetková práva u soudu, v jehož obvodu má majetek (odstavec 2). Proti zahraniční osobě podat žalobu (návrh na zahájení řízení) i u soudu, v jehož obvodu je v České republice umístěn její závod nebo organizační složka jejího závodu (odstavec 3).
+Žalovaná je právnická osoba se sídlem v Polské republice, z obsahu spisu ani z jiných okolností neplyne, že by v České republice byl umístěn její závod nebo organizační složka závodu nebo že by v České republice měla majetek.
+Z výše uvedeného je zřejmé, že jsou naplněny zákonné předpoklady pro určení místně příslušného soudu podle § 11 odst. 3 o. s. ř.
+Proto Nejvyšší soud určil, že žalobu projedná a rozhodne Obvodní soud pro Prahu 10, v jehož obvodu se nachází sídlo žalobkyně.
+Proti tomuto usnesení není přípustný opravný prostředek.
+V Brně dne 26. března 2018
+JUDr. Petr Gemmel
+předseda senátu
