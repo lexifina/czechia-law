@@ -1,0 +1,17 @@
+30 Cdo 4514/2016-104
+USNESENÍ
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Pavla Simona a soudců Mgr. Víta Bičáka a JUDr. Pavla Pavlíka v právní věci žalobce V. F., zastoupeného Dr. Josefem Černohlávkem, advokátem se sídlem v Praze 1, Jungmannova 31/23, proti žalované České republice – Ministerstvu spravedlnosti, se sídlem v Praze 2, Vyšehradská 427/16, o náhradu škody ve výši 300 000 000 Kč s příslušenstvím, vedené u Obvodního soudu pro Prahu 2 pod sp. zn. 31 C 70/2015, o dovolání žalobce proti rozsudku Městského soudu v Praze ze dne 25. 5. 2016, č. j. 19 Co 131/2016-87, takto:
+I. Dovolání se odmítá.
+II. Žádný z účastníků nemá právo na náhradu nákladů dovolacího řízení.
+Odůvodnění:
+Městský soud v Praze jako soud odvolací napadeným rozsudkem potvrdil rozsudek Obvodního soudu pro Prahu 2 jako soudu prvního stupně ze dne 27. 1. 2016, č. j. 31 C 70/2015-68, kterým byla zamítnuta žaloba o zaplacení částky ve výši 300 000 000 Kč s příslušenstvím (výrok I) a současně rozhodl, že žádný z účastníků nemá právo na náhradu nákladů odvolacího řízení (výrok II).
+Uvedené částky se žalobce domáhal jako náhrady škody, která mu měla být způsobena vydáním nezákonných rozhodnutí v řízení vedeném u Městského soudu v Praze pod sp. zn. 78 K 6/2005 (a to usnesením Městského soudu v Praze ze dne 26. 4. 2005, sp. zn. 78 K 6/2005, a usnesením Vrchního soudu v Praze ze dne 9. 9. 2005, sp. zn. 1 Ko 379/2005).
+Rozsudek odvolacího soudu napadl žalobce v rozsahu potvrzení rozsudku soudu prvního stupně včasným dovoláním, které však Nejvyšší soud podle § 243c odst. 1 zákona č. 99/1963 Sb., občanský soudní řád, ve znění účinném od 1. 1. 2014 do 29. 9. 2017 (viz čl. II bod 2 zákona č. 293/2013 Sb. a čl. II bod 2 zákona č. 296/2017 Sb.), dále jen „o. s. ř.“, odmítl.
+Otázka počátku běhu subjektivní promlčecí doby v případě, kdy žalobce podle svého tvrzení neměl vědomí o rozsahu újmy vyjádřitelné v penězích, a to ani v podobě přibližné sumy, nemůže založit přípustnost dovolání podle § 237 o. s. ř., neboť při jejím řešení se odvolací soud neodchýlil od řešení přijatého v judikatuře Nejvyššího soudu, pokud jako počátek jejího běhu určil den doručení usnesení Nejvyššího soudu ze dne 31. 1. 2008, sp. zn. 29 Odo 164/2006 (srov. rozsudek Nejvyššího soudu ze dne 21. 2. 2006, sp. zn. 25 Cdo 2758/2004, nebo usnesení Nejvyššího soudu ze dne 11. 5. 2011, sp. zn. 28 Cdo 3005/2010, proti němuž podaná ústavní stížnost byla odmítnuta usnesením Ústavního soudu ze dne 31. 8. 2011, sp. zn. III. ÚS 2340/11).
+Nejvyšší soud pro úplnost dodává, že skutečnost, kdy konkrétně se poškozený o vzniku škody dozví, je otázkou skutkových zjištění v předmětné věci a jako taková je nezpůsobilým dovolacím důvodem (§ 241a odst. 1 o. s. ř.). Z uvedeného důvodu nelze obecně stanovit, jak se toho dovolává žalobce, kdy dojde k tomu, že se poškozený o vzniku své škody dozví.
+Otázka předčasnosti podané žaloby rovněž přípustnost dovolání ve smyslu § 237 o. s. ř. nezakládá, neboť na ní své rozhodnutí odvolací soud nezaložil, když své úvahy ohledně této otázky uvedl zjevně nad rámec svého odůvodnění (srov. usnesení Nejvyššího soudu ze dne 27. 5. 1999, 2 Cdon 808/97, uveřejněné pod číslem 27/2001 Sbírky soudních rozhodnutí a stanovisek).
+Nákladový výrok netřeba odůvodňovat (§ 243f odst. 3 věta druhá o. s. ř.).
+Poučení: Proti tomuto usnesení nejsou přípustné opravné prostředky.
+V Brně dne 28. března 2018
+JUDr. Pavel Simon
+předseda senátu
