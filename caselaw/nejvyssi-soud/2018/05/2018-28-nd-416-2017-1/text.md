@@ -1,0 +1,16 @@
+28 Nd 416/2017
+USNESENÍ
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy JUDr. Jana Eliáše, Ph.D., a soudců Mgr. Petra Krause a JUDr. Jiřího Handlara, Ph.D., v právní věci žalobce J. K., T., proti žalované České správě sociálního zabezpečení, IČ 000 06 963, se sídlem v Praze 5, Křížová 1292/25, o kasační stížnosti žalobce proti usnesení Městského soudu v Praze ze dne 3. 11. 2016, č. j. 2 Ad 34/2016-14, vedené u Nejvyššího správního soudu pod sp. zn. 9 As 350/2016, o "dovolání" žalobce proti rozsudku Nejvyššího správního soudu ze dne 9. 3. 2017, č. j. 9 As 350/2016-17, takto:
+I. Řízení o podání žalobce označeném jako „Dovolání k Nejvyššímu soudu České republiky, proti rozhodnutí usnesení//rozhodnutí značky 9 As 350/2016-17 Nejvyššího správního soudu“ se zastavuje.
+II. Žádný z účastníků nemá právo na náhradu nákladů řízení.
+O d ů v o d n ě n í :
+Žalobce se kasační stížností podanou u Nejvyššího správního soudu v Brně domáhal přezkumu usnesení Městského soudu v Praze ze dne 3. 11. 2016, č. j. 2 Ad 34/2016-14. Nejvyšší správní soud rozsudkem ze dne 9. 3. 2017, č. j. 9 As 350/2016-17, kasační stížnost žalobce zamítl, když dospěl k závěru, že kasační stížnost není důvodná, a rozhodl o nákladech účastníků řízení.
+Proti rozsudku Nejvyššího správního soudu ze dne 9. 3. 2017, č. j. 9 As 350/2016-17, podal žalobce podání označené jako „dovolání“.
+Nejvyšší soud po přezkoumání věci dospěl k závěru, že řízení o tomto podání žalobce musí být pro neodstranitelný nedostatek podmínek řízení zastaveno.
+Nejvyšší soud rozhoduje v občanském soudním řízení o mimořádném opravném prostředku - dovolání - proti pravomocnému rozhodnutí odvolacího soudu podle § 236 odst. 1 zákona č. 99/1963 Sb., občanský soudní řád, ve znění pozdějších předpisů (dále jen „o. s. ř.“). Rozsudek Nejvyššího správního soudu ze dne 9. 3. 2017, č. j. 9 As 350/2016-17, není rozhodnutím odvolacího soudu. Jde o rozhodnutí vydané ve věci správního soudnictví, v níž věcnou příslušnost Nejvyššího správního soudu založilo ustanovení § 3 zákona č. 150/2002 Sb., soudní řád správní, ve znění pozdějších předpisů (dále jen „s. ř. s.“), a proti němuž nejsou opravné prostředky přípustné (srov. § 53 odst. 3 s. ř. s.). Přezkum takovéhoto rozhodnutí podle občanského soudního řádu Nejvyšším soudem jako dovolacím soudem je vyloučen, a občanský soudní řád proto ani neupravuje funkční příslušnost soudu pro projednání dovolání podaného proti takovémuto rozhodnutí Nejvyššího správního soudu.
+Nedostatek funkční příslušnosti je neodstranitelným nedostatkem podmínky řízení; Nejvyšší soud proto řízení o podání žalobce označeném jako „Dovolání k Nejvyššímu soudu České republiky, proti rozhodnutí usnesení//rozhodnutí značky 9 As 350/2016-17 Nejvyššího správního soudu“ podle § 243b a 104 odst. 1, věta první, o. s. ř., zastavil (srov. též např. usnesení Nejvyššího soudu ze dne 4. 1. 2008, sp. zn. 30 Cdo 4496/2007, nebo usnesení Nejvyššího soudu ze dne 27. 4. 2005, sp. zn. 21 Cdo 2363/2004).
+O nákladech dovolacího řízení bylo rozhodnuto podle § 243c odst. 3 věty první, § 224 odst. 1 a § 146 odst. 2, věty první, o. s. ř. v situaci, kdy žalované v tomto řízení (jehož zastavení zavinil žalobce) žádné náklady nevznikly.
+Poučení: Proti tomuto usnesení není opravný prostředek přípustný.
+V Brně 29. 5. 2018
+JUDr. Jan Eliáš, Ph.D.
+předseda senátu
