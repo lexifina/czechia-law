@@ -20,6 +20,7 @@ text_url: "https://sbirkapp.gov.cz/detail/SPPNNQAMFVDVDJSU/text"
 soubor: "ozv-1-2016.pdf"
 soubor_sha256: "c6847908757b1edd005cc8713f336a208b6fe8cf44ac357b2eaef1fbe75093c4"
 ziskani_textu: "pdf-text"
+zmeneno: "Obecně závazná vyhláška obce Slatina č. 1/2018 (účinnost 2018-07-19, https://sbirkapp.gov.cz/detail/SPPPZ67XNQHMMG7O)"
 ---
 
 # O nočním klidu
