@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2018:17.C.127.2017.1",
+  "docket": "17 C 127/2017-168",
+  "date": "2018-08-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8ac6cf87-bb55-4d26-b04a-1a4055d0cd8a",
+  "source_sha256": "3c803e3dfdc22052d08e5c500a650c666d094e208c0eb6122ea61da87886e40c",
+  "source_id": "8ac6cf87-bb55-4d26-b04a-1a4055d0cd8a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 127/2017-168",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "JUDr. Petr Kulawiak",
+    "ecli": "ECLI:CZ:OSPM:2018:17.C.127.2017.1",
+    "predmetRizeni": "O zaplacení 157 657,50 Kč s příslušenstvím",
+    "datumVydani": "2018-08-07",
+    "datumZverejneni": "2021-02-24",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "služebnost",
+      "smlouva nájemní",
+      "věcná břemena",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 458/2000 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 151 vyhl. č. 484/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8ac6cf87-bb55-4d26-b04a-1a4055d0cd8a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
