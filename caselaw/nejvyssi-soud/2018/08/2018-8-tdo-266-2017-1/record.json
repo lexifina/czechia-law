@@ -1,0 +1,31 @@
+{
+  "record_type": "case-law",
+  "court": "Nejvyšší soud České republiky",
+  "date": "2018-08-15",
+  "date_basis": "Official NS database (Rozhodnutí a stanoviska Nejvyššího soudu): Datum rozhodnutí 15. 8. 2018 (decision date).",
+  "ecli": "ECLI:CZ:NS:2018:8.TDO.266.2017.1",
+  "docket": "8 Tdo 266/2017",
+  "decision_type": "Usnesení",
+  "source": "https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/WebSearch/AB1A18AE6A5660E4C125834E0035B23D?openDocument",
+  "source_sha256": "0c77a9b5881d03d50c508258d6897b097a95c598c01fa6fbcddd82f090a793b5",
+  "source_unid": "AB1A18AE6A5660E4C125834E0035B23D",
+  "text_status": "as-published (pseudonymised by the court)",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "fields": {
+    "Právní věta": "Za přečin neoprávněného přístupu k počítačovému systému a nosiči informací podle § 230 odst. 2 písm. c) tr. zákoníku lze považovat jednání spočívající ve vyhotovení takové nepravdivé informace, která se stane obsahem datové zprávy a je zaslána jako příjemci jiné osobě do jí zpřístupněné datové schránky, neboť má povahu padělaného elektronického dokumentu. Jde o falšování údajů souvisejících s počítačovým systémem, které představuje obdobu padělání listin (nejen veřejných). U datové zprávy je třeba považovat za data uložená v počítačovém systému nejen vlastní odesílaný text obsažený v datové zprávě, ale veškeré informace, které se v rámci datové zprávy přepravují a doručují do datové schránky, a tedy i informaci, která je zřejmá z tzv. detailu zprávy (tzv. kontejneru, obálky).",
+    "Soud": "Nejvyšší soud",
+    "Důvod dovolání": "§ 265b odst.1 písm. g) tr.ř.\n§ 265b odst.1 písm. l) tr.ř.",
+    "Datum rozhodnutí": "15. 8. 2018",
+    "Spisová značka": "8 Tdo 266/2017",
+    "ECLI": "ECLI:CZ:NS:2018:8.TDO.266.2017.1",
+    "Typ rozhodnutí": "USNESENÍ",
+    "Heslo": "Neoprávněný přístup k počítačovému systému a nosiči informací",
+    "Dotčené předpisy": "§ 230 odst. 2 písm. c) tr. zákoníku",
+    "Kategorie rozhodnutí": "A EU",
+    "Zveřejněno na webu": "23. 11. 2018",
+    "Publikováno ve sbírce pod číslem": "23 / 2020",
+    "Anotace": "Rozsudkem soudu I. stupně byla obviněná uznána vinou přečinem neoprávněného přístupu k počítačovému systému a nosiči informací podle § 230 odst. 2 písm. c) tr. zákoníku.\nRozsudek soudu I. stupně byl napaden odvoláními obviněné i státní zástupkyně, o nichž odvolací soud rozhodl tak, že obě odvolání podle § 256 tr. ř. jako nedůvodná zamítl.\nNejvyšší soud se na základě dovolání podaného obviněnou zabýval naplněním skutkové podstaty přečinu neoprávněného přístupu k počítačovému systému a nosiči informací podle § 230 odst. 2 písm. c) tr. zákoníku v případě vyhotovení nepravdivé informace, která se stane obsahem datové zprávy a je zaslána jako příjemci jiné osobě do jí zpřístupněné datové schránky."
+  }
+}
