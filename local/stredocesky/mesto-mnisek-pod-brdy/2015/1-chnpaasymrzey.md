@@ -21,6 +21,7 @@ soubor: "ozv-zakaz-konzumace-alkoholu-2015.pdf"
 soubor_sha256: "ba0b5fd99fbda49fb96729b1c17a60380df218ce04f946e2751ade1df26f27fc"
 ziskani_textu: "ocr"
 ocr_spolehlivost: 89.2
+zmeneno: "Obecně závazná vyhláška města Mníšek pod Brdy č. 3/2018 (účinnost 2018-08-24, https://sbirkapp.gov.cz/detail/SPPJEHVPPMKLA6WI)"
 ---
 
 # o zákazu konzumace alkoholických nápojů na veřejném prostranství
