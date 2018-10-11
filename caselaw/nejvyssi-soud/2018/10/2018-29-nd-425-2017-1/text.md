@@ -1,0 +1,13 @@
+29 Nd 425/2017-33
+USNESENÍ
+Nejvyšší soud České republiky rozhodl v senátě složeném z předsedy Mgr. Milana Poláška a soudců JUDr. Zdeňka Krčmáře a JUDr. Heleny Myškové v exekuční věci oprávněného Všeobecné zdravotní pojišťovny České republiky, se sídlem v Praze 3, Orlická 2020/4, PSČ 130 00, identifikační číslo osoby 41197518, proti povinnému R. L., o pověření a nařízení exekuce, vedené u Okresního soudu v Rakovníku pod sp. zn. 24 EXE 2478/2017, o určení místní příslušnosti, takto:
+Věc vedenou u Okresního soudu v Rakovníku pod sp. zn. 24 EXE 2478/2017 projedná a rozhodne Okresní soud v Rakovníku.
+Odůvodnění:
+Exekučním návrhem ze dne 22. září 2017, podaným u soudního exekutora JUDr. Zdeňka Zítka, Exekutorský úřad Plzeň-město, se oprávněný domáhá pověření a nařízení exekuce vůči povinnému pro pohledávky v celkové výši 34 099 Kč, na základě platebních výměrů oprávněného ze dne 7. prosince 2009, č. 4240900766 a č. 2140900765. Dne 29. září 2017 požádal označený soudní exekutor Okresní soud v Rakovníku o pověření a nařízení exekuce na majetek povinného.
+Usnesením ze dne 30. října 2017, č. j. 24 EXE 2478/2017-23, Okresní soud v Rakovníku vyslovil svou místní nepříslušnost s tím, že po uplynutí lhůty k odvolání oprávněnému bude věc předložena Nejvyššímu soudu k určení místní příslušnosti. Okresní soud zjistil, že povinný neprochází lustrací v Centrální evidenci obyvatel, přičemž z Informačního systému základních registrů se podává, že povinný není občanem České republiky. Povinný byl registrován jako občan Evropské unie na území České republiky pouze v době od 20. listopadu 2013 do 31. prosince 2013 na adrese ve Z. V současné době není v evidencích Cizineckého informačního systému hlášen k pobytu. Podmínky místní příslušnosti tak nelze zjistit.
+Podle § 11 odst. 3 zákona č. 99/1963 Sb., občanského soudního řádu (dále jen „o. s. ř.“), jde-li o věc, jež patří do pravomoci soudů České republiky, ale podmínky místní příslušnosti chybějí nebo je nelze zjistit, určí Nejvyšší soud, který soud věc projedná a rozhodne (srov. i usnesení velkého senátu občanskoprávního a obchodního kolegia Nejvyššího soudu ze dne 12. listopadu 2014, sp. zn. 31 Nd 316/2013, uveřejněné pod číslem 11/2015 Sbírky soudních rozhodnutí a stanovisek).
+Nejvyšší soud, vycházeje z obsahu spisu a přihlížeje k zásadě hospodárnosti řízení, tedy rozhodl podle citovaného ustanovení tak, že jako místně příslušný soud v dané věci určil Okresní soud v Rakovníku, u něhož byl podán návrh na pověření a nařízení exekuce (a který již v dané věci učinil prvotní úkony).
+Poučení: Proti tomuto rozhodnutí není přípustný opravný prostředek.
+V Brně dne 11. 10. 2018
+Mgr. Milan Polášek
+předseda senátu
