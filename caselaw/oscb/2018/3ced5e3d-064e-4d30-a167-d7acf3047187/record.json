@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2018:35.C.422.2018.1",
+  "docket": "35 C 422/2018-11",
+  "date": "2018-11-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2024-09-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3ced5e3d-064e-4d30-a167-d7acf3047187",
+  "source_sha256": "7bcfd5ddf8452b7d0a3fb53264752cec08e03447216a3d7402503d92ed9554a7",
+  "source_id": "3ced5e3d-064e-4d30-a167-d7acf3047187",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "35 C 422/2018-11",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "JUDr. Alena Králová",
+    "ecli": "ECLI:CZ:OSCB:2018:35.C.422.2018.1",
+    "predmetRizeni": "o zaplacení částky 20 677 Kč s příslušenstvím,",
+    "datumVydani": "2018-11-19",
+    "datumZverejneni": "2024-09-16",
+    "klicovaSlova": [
+      "smlouva o půjčce",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3ced5e3d-064e-4d30-a167-d7acf3047187"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
