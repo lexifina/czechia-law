@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2019:55.C.227.2018.1",
+  "docket": "55 C 227/2018-50",
+  "date": "2019-02-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a8869e80-ed6f-4ec6-8cf2-1205efefbd9e",
+  "source_sha256": "839e5e29353be2f6121e52f0de5fadffb37188668dcb1e09236960cb3821302e",
+  "source_id": "a8869e80-ed6f-4ec6-8cf2-1205efefbd9e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "55 C 227/2018-50",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "Mgr. Pavel Pražák",
+    "ecli": "ECLI:CZ:OSPH04:2019:55.C.227.2018.1",
+    "predmetRizeni": "O zaplacení 3 272,20 Kč s příslušenstvím",
+    "datumVydani": "2019-02-28",
+    "datumZverejneni": "2021-06-25",
+    "klicovaSlova": [
+      "cizina",
+      "cizinci",
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1882 z. č. 89/2012 Sb.",
+      "§ 2662 z. č. 89/2012 Sb.",
+      "§ 74 z. č. 284/2009 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a8869e80-ed6f-4ec6-8cf2-1205efefbd9e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
