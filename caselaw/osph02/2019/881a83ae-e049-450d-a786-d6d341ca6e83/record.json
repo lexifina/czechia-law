@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2019:19.C.198.2018.4",
+  "docket": "19 C 198/2018-55",
+  "date": "2019-04-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/881a83ae-e049-450d-a786-d6d341ca6e83",
+  "source_sha256": "8775557219e73caf69cc4cf9d295b746d2b524bf03c30b8f598143eac40c3db7",
+  "source_id": "881a83ae-e049-450d-a786-d6d341ca6e83",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 198/2018-55",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "Mgr. Lucie Vítková",
+    "ecli": "ECLI:CZ:OSPH02:2019:19.C.198.2018.4",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2019-04-16",
+    "datumZverejneni": "2021-12-01",
+    "klicovaSlova": [
+      "náhrada nemajetkové újmy",
+      "nemajetková újma",
+      "peněžité plnění",
+      "podjatost",
+      "zadostiučinění / satisfakce",
+      "zastavení řízení",
+      "způsobilost procesní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 1 z. č. 82/98 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/881a83ae-e049-450d-a786-d6d341ca6e83"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
