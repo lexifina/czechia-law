@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2019:5.C.15.2012.1",
+  "docket": "5 C 15/2012-764",
+  "date": "2019-05-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2024-07-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/73c5b8da-f975-42c0-9a5c-351aa3039750",
+  "source_sha256": "f06f505c7600eed45e9ed96d5368e3f594839893d45a7b3d930c087b9b8471cc",
+  "source_id": "73c5b8da-f975-42c0-9a5c-351aa3039750",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 15/2012-764",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "Mgr. Jaroslava Sádovská",
+    "ecli": "ECLI:CZ:OSPU:2019:5.C.15.2012.1",
+    "predmetRizeni": "<nezadán>",
+    "datumVydani": "2019-05-16",
+    "datumZverejneni": "2024-07-02",
+    "klicovaSlova": [
+      "podnájem",
+      "osoba blízká",
+      "podílové spoluvlastnictví",
+      "znalecký posudek",
+      "spoluvlastnictví",
+      "zrušení spoluvlastnictví",
+      "bezdůvodné obohacení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 222 z. č. 141/1961 Sb.",
+      "§ 95 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 137 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/73c5b8da-f975-42c0-9a5c-351aa3039750"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
