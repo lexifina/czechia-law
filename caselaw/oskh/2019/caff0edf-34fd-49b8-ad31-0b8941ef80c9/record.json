@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kutné Hoře",
+  "ecli": "ECLI:CZ:OSKH:2019:5.C.233.2018.1",
+  "docket": "5 C 233/2018-66",
+  "date": "2019-06-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/caff0edf-34fd-49b8-ad31-0b8941ef80c9",
+  "source_sha256": "d60af2ca8d62dbdf91f5f6b271f8f51f1025c66a05533cf963b3a1031347ea1e",
+  "source_id": "caff0edf-34fd-49b8-ad31-0b8941ef80c9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 233/2018-66",
+    "soud": "Okresní soud v Kutné Hoře",
+    "autor": "Mgr. Pavla Fukalová",
+    "ecli": "ECLI:CZ:OSKH:2019:5.C.233.2018.1",
+    "predmetRizeni": "O zaplacení 31 305,50 Kč s příslušenstvím",
+    "datumVydani": "2019-06-24",
+    "datumZverejneni": "2021-04-13",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "daň z nemovitosti",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§  nař. vl. č. 142/1994 Sb.",
+      "§ 132 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/caff0edf-34fd-49b8-ad31-0b8941ef80c9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
