@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2019:22.C.109.2019.1",
+  "docket": "22 C 109/2019-46",
+  "date": "2019-07-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/59b86204-ff77-460e-9b5d-549237880172",
+  "source_sha256": "6af9a3dfbaa3cdcb79e56f17b809ff6ceab903a26c2e4f9ea500184d0ae24233",
+  "source_id": "59b86204-ff77-460e-9b5d-549237880172",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 109/2019-46",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "Mgr. Jan Maruška",
+    "ecli": "ECLI:CZ:OSPH08:2019:22.C.109.2019.1",
+    "predmetRizeni": "o zaplacení 21 390 Kč s příslušenstvím",
+    "datumVydani": "2019-07-04",
+    "datumZverejneni": "2021-12-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 1931 z. č. 89/2012 Sb.",
+      "§ 1958 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/59b86204-ff77-460e-9b5d-549237880172"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
