@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2019:25.C.35.2019.4",
+  "docket": "25 C 35/2019-101",
+  "date": "2019-07-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4d72ec54-7635-4cb3-8f8a-3eac6feb02b9",
+  "source_sha256": "1c1caa2751bb7c5c0553c487614de32fba4fcdc6a6f9e677bb6150b1cc74abf6",
+  "source_id": "4d72ec54-7635-4cb3-8f8a-3eac6feb02b9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 35/2019-101",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "Mgr. Zdeňka Burdová",
+    "ecli": "ECLI:CZ:OSPH02:2019:25.C.35.2019.4",
+    "predmetRizeni": "na vyklizení společné části domu",
+    "datumVydani": "2019-07-24",
+    "datumZverejneni": "2021-12-01",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "dohoda o převodu členských práv a povinností",
+      "peněžité plnění",
+      "smlouva kupní",
+      "smlouva o smlouvě budoucí",
+      "společenství vlastníků jednotek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 8 vyhl. č. 177/1996 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 1040 z. č. 89/2012 Sb.",
+      "§ 1011 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4d72ec54-7635-4cb3-8f8a-3eac6feb02b9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
