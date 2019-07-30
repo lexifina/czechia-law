@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2019:22.C.2.2019.1",
+  "docket": "22 C 2/2019-112",
+  "date": "2019-07-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2024-03-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/de8a4080-3c0b-41cd-9b63-4120e1c392bf",
+  "source_sha256": "b920a5cf2f52b12b99d2b95d0ec8fe314c1c6d29bbf6aa328c8d6ef3e30d27bd",
+  "source_id": "de8a4080-3c0b-41cd-9b63-4120e1c392bf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 2/2019-112",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "Mgr. Jan Maruška",
+    "ecli": "ECLI:CZ:OSPH08:2019:22.C.2.2019.1",
+    "predmetRizeni": "o zaplacení 86 200,53 Kč s příslušenstvím",
+    "datumVydani": "2019-07-30",
+    "datumZverejneni": "2024-03-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/de8a4080-3c0b-41cd-9b63-4120e1c392bf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
