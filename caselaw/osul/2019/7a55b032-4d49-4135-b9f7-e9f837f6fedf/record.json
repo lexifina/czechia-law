@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2019:13.C.75.2018.8",
+  "docket": "13 C 75/2018-378",
+  "date": "2019-09-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7a55b032-4d49-4135-b9f7-e9f837f6fedf",
+  "source_sha256": "228aa95fd718d4dadc418591348c43536c1dea8212a1aa1dff5cac13bd791d4a",
+  "source_id": "7a55b032-4d49-4135-b9f7-e9f837f6fedf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 75/2018-378",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "JUDr. Iva Kučerová",
+    "ecli": "ECLI:CZ:OSUL:2019:13.C.75.2018.8",
+    "predmetRizeni": "o neplatnost dražby",
+    "datumVydani": "2019-09-11",
+    "datumZverejneni": "2021-07-26",
+    "klicovaSlova": [
+      "dražba",
+      "podvod",
+      "předkupní právo",
+      "smlouva nájemní",
+      "veřejná dražba"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 1124 z. č. 89/2012 Sb.",
+      "§ 1188 z. č. 89/2012 Sb.",
+      "§ 24 z. č. 26/2000 Sb.",
+      "§ 284 z. č. 182/2006 Sb.",
+      "§  z. č. 315/2006 Sb.",
+      "§ 1125 z. č. 89/2012 Sb.",
+      "§ 1187 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7a55b032-4d49-4135-b9f7-e9f837f6fedf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
