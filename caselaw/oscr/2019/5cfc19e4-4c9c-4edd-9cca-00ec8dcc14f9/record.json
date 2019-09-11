@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chrudimi",
+  "ecli": "ECLI:CZ:OSCR:2019:11.C.225.2018.1",
+  "docket": "11 C 225/2018-81",
+  "date": "2019-09-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5cfc19e4-4c9c-4edd-9cca-00ec8dcc14f9",
+  "source_sha256": "1922de1d6a91a0b24b468f1d0382f7262258b0ff1199825881239aee3727231e",
+  "source_id": "5cfc19e4-4c9c-4edd-9cca-00ec8dcc14f9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 225/2018-81",
+    "soud": "Okresní soud v Chrudimi",
+    "autor": "JUDr. Hynek Baňouch, Ph.D.",
+    "ecli": "ECLI:CZ:OSCR:2019:11.C.225.2018.1",
+    "predmetRizeni": "o zrušení závazku (o zřízení věcného břemene)",
+    "datumVydani": "2019-09-11",
+    "datumZverejneni": "2021-07-02",
+    "klicovaSlova": [
+      "absolutní majetková práva",
+      "peněžité plnění",
+      "služebnost",
+      "věcná břemena",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 114b z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 118b z. č. 99/1963 Sb.",
+      "§ 2000 z. č. 89/2012 Sb.",
+      "§ 1299 z. č. 89/2012 Sb.",
+      "§ 11 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5cfc19e4-4c9c-4edd-9cca-00ec8dcc14f9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
