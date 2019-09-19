@@ -1,0 +1,53 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2019:33.C.102.2018.1",
+  "docket": "33 C 102/2018-139",
+  "date": "2019-09-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/168bcf6a-4c80-40eb-96d7-e3aa3b14a8a9",
+  "source_sha256": "5cd5461a0a43c6b2b7db07ab865e34370821cd899413fda67fff6264fc2bd01a",
+  "source_id": "168bcf6a-4c80-40eb-96d7-e3aa3b14a8a9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "33 C 102/2018-139",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "JUDr. Iveta Tichá",
+    "ecli": "ECLI:CZ:OSCB:2019:33.C.102.2018.1",
+    "predmetRizeni": "o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2019-09-19",
+    "datumZverejneni": "2021-06-14",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "daň z nemovitosti",
+      "dražba",
+      "oceňování majetku",
+      "peněžité plnění",
+      "podílové spoluvlastnictví",
+      "spoluvlastnictví",
+      "zastavení exekuce / výkonu rozhodnutí",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 268 z. č. 99/1963 Sb.",
+      "§ 1126 z. č. 89/2012 Sb.",
+      "§ 1122 z. č. 89/2012 Sb.",
+      "§ 109 z. č. 99/1963 Sb.",
+      "§  z. č. 151/1997 Sb.",
+      "§  vyhl. č. 441/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/168bcf6a-4c80-40eb-96d7-e3aa3b14a8a9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
