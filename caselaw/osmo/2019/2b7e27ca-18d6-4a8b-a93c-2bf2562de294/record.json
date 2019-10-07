@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2019:10.C.102.2019.2",
+  "docket": "10 C 102/2019-22",
+  "date": "2019-10-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2b7e27ca-18d6-4a8b-a93c-2bf2562de294",
+  "source_sha256": "4300e24ca7740b0a257a3890c564d63decbb7b3ea49925dde6fdf911d15af5c7",
+  "source_id": "2b7e27ca-18d6-4a8b-a93c-2bf2562de294",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 102/2019-22",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Radka Heresová",
+    "ecli": "ECLI:CZ:OSMO:2019:10.C.102.2019.2",
+    "predmetRizeni": "40 809,23 Kč s příslušenstvím",
+    "datumVydani": "2019-10-07",
+    "datumZverejneni": "2021-01-18",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "rozhodčí doložka"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 72 z. č. 458/2000 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 1815 z. č. 89/2012 Sb.",
+      "§ 1798 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2b7e27ca-18d6-4a8b-a93c-2bf2562de294"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
