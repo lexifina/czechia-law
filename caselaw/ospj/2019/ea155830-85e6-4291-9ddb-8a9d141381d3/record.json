@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-jih",
+  "ecli": "ECLI:CZ:OSPJ:2019:17.C.142.2019.1",
+  "docket": "17 C 142/2019-129",
+  "date": "2019-10-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ea155830-85e6-4291-9ddb-8a9d141381d3",
+  "source_sha256": "69608ae004b72bc324e5837cdcdbd00152cfa3048faccee1ed4aab098d43b8d6",
+  "source_id": "ea155830-85e6-4291-9ddb-8a9d141381d3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 142/2019-129",
+    "soud": "Okresní soud Plzeň-jih",
+    "autor": "JUDr. Petr Kulawiak",
+    "ecli": "ECLI:CZ:OSPJ:2019:17.C.142.2019.1",
+    "predmetRizeni": "O určení vlastnictví bytové jednotky",
+    "datumVydani": "2019-10-10",
+    "datumZverejneni": "2021-02-12",
+    "klicovaSlova": [
+      "jmění",
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "převod vlastnictví",
+      "smlouva kupní",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§ 151 vyhl. č. 484/2000 Sb.",
+      "§ 4 vyhl. č. 333/2018 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ea155830-85e6-4291-9ddb-8a9d141381d3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
