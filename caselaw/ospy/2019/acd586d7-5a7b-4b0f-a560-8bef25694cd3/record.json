@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2019:36.C.294.2019.1",
+  "docket": "36 C 294/2019-29",
+  "date": "2019-10-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/acd586d7-5a7b-4b0f-a560-8bef25694cd3",
+  "source_sha256": "5b06e6d60ffe7fcf478a68337e9a2f33f13f3ad00008bd7573d572bcbcbfc84f",
+  "source_id": "acd586d7-5a7b-4b0f-a560-8bef25694cd3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 294/2019-29",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Tereza Dobešová",
+    "ecli": "ECLI:CZ:OSPY:2019:36.C.294.2019.1",
+    "predmetRizeni": "o zaplacení částky 34 500 Kč s příslušenstvím",
+    "datumVydani": "2019-10-14",
+    "datumZverejneni": "2021-08-04",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 2321 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/acd586d7-5a7b-4b0f-a560-8bef25694cd3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
