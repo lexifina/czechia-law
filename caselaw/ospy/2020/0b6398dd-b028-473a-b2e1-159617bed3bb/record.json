@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2020:4.C.186.2019.1",
+  "docket": "4 C 186/2019",
+  "date": "2020-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0b6398dd-b028-473a-b2e1-159617bed3bb",
+  "source_sha256": "4c897be2a30a6074b36b80aad42dc3554e1fc640ac9453466d55b92488cfd14a",
+  "source_id": "0b6398dd-b028-473a-b2e1-159617bed3bb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 186/2019",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Jana Stejskalová",
+    "ecli": "ECLI:CZ:OSPY:2020:4.C.186.2019.1",
+    "predmetRizeni": "O zaplacení 7 249 Kč s příslušenstvím",
+    "datumVydani": "2020-01-07",
+    "datumZverejneni": "2021-08-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0b6398dd-b028-473a-b2e1-159617bed3bb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
