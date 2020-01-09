@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2020:7.C.230.2019.1",
+  "docket": "7 C 230/2019-46",
+  "date": "2020-01-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/55accfe0-9ae0-4c6d-8a94-8cc8cdce2954",
+  "source_sha256": "720b62101b53786a78ee4b2d166388ec777e3c23dba8ef61eb9bf06087656780",
+  "source_id": "55accfe0-9ae0-4c6d-8a94-8cc8cdce2954",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 230/2019-46",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "Mgr. Luboš Koranda",
+    "ecli": "ECLI:CZ:OSKT:2020:7.C.230.2019.1",
+    "predmetRizeni": "[částka] s přísl.",
+    "datumVydani": "2020-01-09",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "lichva",
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/55accfe0-9ae0-4c6d-8a94-8cc8cdce2954"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
