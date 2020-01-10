@@ -1,0 +1,19 @@
+---
+citace: "Pokyn GFŘ-D-42"
+nazev: "Pokyn GFŘ-D-42: Stanovení jednotných kurzů za zdaňovací období 2019 podle § 38 zákona č. 586/1992 Sb., o daních z příjmů, ve znění účinném do 31. 12. 2019."
+druh: "Pokyn řady D (metodický pokyn)"
+vydal: "Generální finanční ředitelství / Ministerstvo financí"
+datum: "2020-01-10"
+povaha: "metodika (výklad správce daně, není právní předpis)"
+zdroj: "https://financnisprava.gov.cz/assets/cs/prilohy/de-legislativa/Pokyn_GFR-D-42.pdf"
+---
+
+# Pokyn GFŘ-D-42: Stanovení jednotných kurzů za zdaňovací období 2019 podle § 38 zákona č. 586/1992 Sb., o daních z příjmů, ve znění účinném do 31. 12. 2019.
+
+Generální finanční ředitelství Lazarská 15/7, 117 22 Praha 1 Č. j. 348/20/7100-10111-010440 Pokyn č. GFŘ-D-42 Stanovení jednotných kurzů za zdaňovací období 2019 podle § 38 zákona č. 586/1992 Sb., o daních z příjmů, ve znění účinném do 31. 12. 2019 Poplatníci, kteří nevedou účetnictví, použijí pro přepočet cizí měny jednotný kurz stanovený podle § 38 odst. 1 zákona č. 586/1992 Sb., o daních z příjmů, ve znění účinném do 31. 12. 2019. Pro přepočet cizích měn neuváděných v kurzovním lístku se použije přepočet přes třetí měnu, kterou si mezi sebou poplatníci dohodnou, případně lze využít služeb znalců se specializací na devizovou problematiku. Aktuální seznamy znalců vedou krajské soudy respektive Městský soud v Praze, v jejichž obvodu má znalec místo trvalého pobytu, popřípadě místo pobytu na území České republiky podle druhu pobytu cizince; podle § 7 odst. 2 zákona č. 36/1967 Sb., o znalcích a tlumočnících, ve znění pozdějších předpisů a dále je seznam znalců zveřejněn na internetových stránkách Ministerstva spravedlnosti na adrese: www.justice.cz.
+Č. j. 348/20/7100-10111-010440 strana 2 (celkem 2)
+Stanovený jednotný kurz měn uváděných v kurzovním lístku ČNB: země měna množství kód průměr Austrálie dolar 1 AUD 15,96 Brazílie real 1 BRL 5,81 Bulharsko lev 1 BGN 13,12 Čína žen-min-pi 1 CNY 3,32 Dánsko koruna 1 DKK 3,44 EMU euro 1 EUR 25,66 Filipíny peso 100 PHP 44,47 Hongkong dolar 1 HKD 2,93 Chorvatsko kuna 1 HRK 3,46 Indie rupie 100 INR 32,58 Indonesie rupie 1000 IDR 1,62 Island koruna 100 ISK 18,75 Izrael nový šekel 1 ILS 6,46 Japonsko jen 100 JPY 21,05 Jižní Afrika rand 1 ZAR 1,59 Kanada dolar 1 CAD 17,32 Korejská republika won 100 KRW 1,97 Maďarsko forint 100 HUF 7,88 Malajsie ringgit 1 MYR 5,54 Mexiko peso 1 MXN 1,19 MMF ZPČ 1 XDR 31,67 Norsko koruna 1 NOK 2,61 Nový Zéland dolar 1 NZD 15,13 Polsko zlotý 1 PLN 5,97 Rumunsko leu 1 RON 5,40 Rusko rubl 100 RUB 35,54 Singapur dolar 1 SGD 16,82 Švédsko koruna 1 SEK 2,42 Švýcarsko frank 1 CHF 23,10 Thajsko baht 100 THB 74,25 Turecko lira 1 TRY 4,04 USA dolar 1 USD 22,93 Velká Británie libra 1 GBP 29,31
+Ing. Tatjana Richterová generální ředitelka
+Elektronicky podepsáno
+08.01.2020 Ing. Tatjana Richterová
+generální ředitelka
