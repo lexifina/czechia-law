@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2020:8.C.342.2020.1",
+  "docket": "8 C 342/2020-51",
+  "date": "2020-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/658b47cb-0207-4272-9e64-326bcb2afbf7",
+  "source_sha256": "fb09d65a5efae476d78484300fcfd5f319834af0dae2bbe833840609b7da89cb",
+  "source_id": "658b47cb-0207-4272-9e64-326bcb2afbf7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 342/2020-51",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Hedvika Lávičková",
+    "ecli": "ECLI:CZ:OSBN:2020:8.C.342.2020.1",
+    "predmetRizeni": "o zaplacení 6 761 Kč s příslušenstvím",
+    "datumVydani": "2020-01-13",
+    "datumZverejneni": "2021-03-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2455 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/658b47cb-0207-4272-9e64-326bcb2afbf7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
