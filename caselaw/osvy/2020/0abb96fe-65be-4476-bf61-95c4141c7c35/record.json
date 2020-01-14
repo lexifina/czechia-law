@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2020:4.C.137.2020.1",
+  "docket": "4 C 137/2020-35",
+  "date": "2020-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0abb96fe-65be-4476-bf61-95c4141c7c35",
+  "source_sha256": "5e393e345ba39a53bc75c3e899788cddb10d1ef1dc090575579f08daaf894ace",
+  "source_id": "0abb96fe-65be-4476-bf61-95c4141c7c35",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 137/2020-35",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Petr Doležel",
+    "ecli": "ECLI:CZ:OSVY:2020:4.C.137.2020.1",
+    "predmetRizeni": "zaplacení částky 8.656,78 Kč s příslušenstvím - faktura",
+    "datumVydani": "2020-01-14",
+    "datumZverejneni": "2021-03-12",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 89a z. č. 120/2001 Sb.",
+      "§ 9 vyhl. č. 82/2011 Sb.",
+      "§ 51 z. č. 458/2000 Sb.",
+      "§ 1 vyhl. č. 254/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0abb96fe-65be-4476-bf61-95c4141c7c35"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
