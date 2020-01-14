@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2020:19.C.77.2020.1",
+  "docket": "19 C 77/2020-13",
+  "date": "2020-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1d8389ed-d03f-4bd9-b9c9-8b8e978f6dfd",
+  "source_sha256": "299eedd0f6f64753306a5a317d7d570124e0a7d91e5099d8b11396ece9653d6a",
+  "source_id": "1d8389ed-d03f-4bd9-b9c9-8b8e978f6dfd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 77/2020-13",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "JUDr. Lenka Engelová",
+    "ecli": "ECLI:CZ:OSMB:2020:19.C.77.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-01-14",
+    "datumZverejneni": "2021-02-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 348/2005 Sb.",
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 6 z. č. 348/2005 Sb.",
+      "§ 7 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1d8389ed-d03f-4bd9-b9c9-8b8e978f6dfd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
