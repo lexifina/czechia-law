@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2020:10.C.93.2020.5",
+  "docket": "10 C 93/2020-69",
+  "date": "2020-01-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5a851b9d-d2df-4574-a156-b1def042a638",
+  "source_sha256": "ef2fc9c14dcc687e119f43f2ef07f7aaffbc491b067d1b8b49341d56c840141f",
+  "source_id": "5a851b9d-d2df-4574-a156-b1def042a638",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 93/2020-69",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "JUDr. Tomáš Bělohlávek",
+    "ecli": "ECLI:CZ:OSPH02:2020:10.C.93.2020.5",
+    "predmetRizeni": "o zaplacení 600 000 Kč (původně s příslušenstvím)",
+    "datumVydani": "2020-01-25",
+    "datumZverejneni": "2021-07-22",
+    "klicovaSlova": [
+      "nemajetková újma",
+      "odpovědnost státu za škodu",
+      "peněžité plnění",
+      "zadostiučinění / satisfakce",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 607 z. č. 89/2012 Sb.",
+      "§ 605 z. č. 89/2012 Sb.",
+      "§ 13 z. č. 82/1998 Sb.",
+      "§ 5 z. č. 82/1998 Sb.",
+      "§ 31a z. č. 82/1998 Sb.",
+      "§ 32 z. č. 82/1998 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5a851b9d-d2df-4574-a156-b1def042a638"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
