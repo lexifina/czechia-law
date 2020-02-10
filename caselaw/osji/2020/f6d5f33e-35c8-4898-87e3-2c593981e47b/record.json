@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2020:11.C.87.2019.1",
+  "docket": "11 C 87/2019-17",
+  "date": "2020-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f6d5f33e-35c8-4898-87e3-2c593981e47b",
+  "source_sha256": "3dcfd37699b8fbb493751444477c58257a65a2006b19e30b3c80860c496202b2",
+  "source_id": "f6d5f33e-35c8-4898-87e3-2c593981e47b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 87/2019-17",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "Mgr. Ing. Lubomír Křikava",
+    "ecli": "ECLI:CZ:OSJI:2020:11.C.87.2019.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-02-10",
+    "datumZverejneni": "2021-04-08",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "způsobilost procesní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 6 z. č. 91/2012 Sb.",
+      "§ 389 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f6d5f33e-35c8-4898-87e3-2c593981e47b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
