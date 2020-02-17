@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chrudimi",
+  "ecli": "ECLI:CZ:OSCR:2020:11.C.188.2016.1",
+  "docket": "11 C 188/2016-342",
+  "date": "2020-02-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/93a651eb-b7c7-4258-af43-883b56c4c4c9",
+  "source_sha256": "591fbe81459581a841d9a5593f80da0efba7a2179334c1c96fbc8e6525ff6bd7",
+  "source_id": "93a651eb-b7c7-4258-af43-883b56c4c4c9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 188/2016-342",
+    "soud": "Okresní soud v Chrudimi",
+    "autor": "JUDr. Hynek Baňouch, Ph.D.",
+    "ecli": "ECLI:CZ:OSCR:2020:11.C.188.2016.1",
+    "predmetRizeni": "o zrušení a vypořádání podílového spoluvlastnictví",
+    "datumVydani": "2020-02-17",
+    "datumZverejneni": "2021-08-13",
+    "klicovaSlova": [
+      "exekuce",
+      "peněžité plnění",
+      "podílové spoluvlastnictví",
+      "pozůstalost",
+      "rozhrada",
+      "spoluvlastnictví",
+      "znalecký posudek",
+      "zrušení spoluvlastnictví"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 1140 z. č. 89/2012 Sb.",
+      "§ 1144 z. č. 89/2012 Sb.",
+      "§ 1143 z. č. 89/2012 Sb.",
+      "§ 1147 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/93a651eb-b7c7-4258-af43-883b56c4c4c9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
