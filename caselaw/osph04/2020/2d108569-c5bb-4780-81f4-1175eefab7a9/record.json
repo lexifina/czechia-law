@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2020:51.C.211.2020.1",
+  "docket": "51 C 211/2020-39",
+  "date": "2020-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2d108569-c5bb-4780-81f4-1175eefab7a9",
+  "source_sha256": "e9e8e6208233ee4d26ee26aa2c351a6c3d21e71021d424151fa6ca2a0a947b8e",
+  "source_id": "2d108569-c5bb-4780-81f4-1175eefab7a9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "51 C 211/2020-39",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "JUDr. Jitka Šimanová",
+    "ecli": "ECLI:CZ:OSPH04:2020:51.C.211.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-02-18",
+    "datumZverejneni": "2021-05-21",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 395 z. č. 292/2013 Sb.",
+      "§ 14 z. č. 328/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2d108569-c5bb-4780-81f4-1175eefab7a9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
