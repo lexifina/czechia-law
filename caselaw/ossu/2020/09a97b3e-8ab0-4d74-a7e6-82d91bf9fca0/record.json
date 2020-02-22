@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2020:217.C.19.2020.1",
+  "docket": "217 C 19/2020-43",
+  "date": "2020-02-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/09a97b3e-8ab0-4d74-a7e6-82d91bf9fca0",
+  "source_sha256": "58e2ca5db2d1bb16ab3b6cf5ce8b3d8bb537eb01121f4edc1905ef7ce2c765ea",
+  "source_id": "09a97b3e-8ab0-4d74-a7e6-82d91bf9fca0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "217 C 19/2020-43",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "Mgr. Jana Veselá",
+    "ecli": "ECLI:CZ:OSSU:2020:217.C.19.2020.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2020-02-22",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 2049 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb.",
+      "§ 2396 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/09a97b3e-8ab0-4d74-a7e6-82d91bf9fca0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
