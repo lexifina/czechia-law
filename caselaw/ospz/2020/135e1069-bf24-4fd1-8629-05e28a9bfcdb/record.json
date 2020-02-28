@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2020:8.C.324.2018.1",
+  "docket": "8 C 324/2018-255",
+  "date": "2020-02-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/135e1069-bf24-4fd1-8629-05e28a9bfcdb",
+  "source_sha256": "df00e381f95d8397e8a79d1ed431c552906d121aab2aeca7c911b72155e9d19e",
+  "source_id": "135e1069-bf24-4fd1-8629-05e28a9bfcdb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 324/2018-255",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "Mgr. Štěpánka Tůmová",
+    "ecli": "ECLI:CZ:OSPZ:2020:8.C.324.2018.1",
+    "predmetRizeni": "Žaloba o zrušení podílového spoluvlastnictví a vypořádání",
+    "datumVydani": "2020-02-28",
+    "datumZverejneni": "2021-11-08",
+    "klicovaSlova": [
+      "korporace",
+      "peněžité plnění",
+      "podílové spoluvlastnictví",
+      "smlouva kupní",
+      "spoluvlastnictví",
+      "stavba nepovolená",
+      "věcná břemena",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 8 vyhl. č. 177/1996 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 1144 z. č. 89/2012 Sb.",
+      "§ 1143 z. č. 89/2012 Sb.",
+      "§ 1142 z. č. 89/2012 Sb.",
+      "§ 1147 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/135e1069-bf24-4fd1-8629-05e28a9bfcdb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
