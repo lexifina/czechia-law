@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2020:23.C.275.2020.4",
+  "docket": "23 C 275/2020-66",
+  "date": "2020-03-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9b1e8d0c-8720-496d-adf1-807e6acfbabf",
+  "source_sha256": "8d7c35c8bf0a3fafb248bff01e293bc922c2b94810a21f750f647ca58264dd44",
+  "source_id": "9b1e8d0c-8720-496d-adf1-807e6acfbabf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 275/2020-66",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Hana Pašková",
+    "ecli": "ECLI:CZ:OSCV:2020:23.C.275.2020.4",
+    "predmetRizeni": "zaplacení 43 192,64 Kč s příslušenstvím (úvěr + smluvní pokuta)",
+    "datumVydani": "2020-03-05",
+    "datumZverejneni": "2021-11-12",
+    "klicovaSlova": [
+      "smlouva o úvěru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 153b z. č. 99/1963 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9b1e8d0c-8720-496d-adf1-807e6acfbabf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
