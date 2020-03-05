@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2020:23.C.309.2020.1",
+  "docket": "23 C 309/2020-35",
+  "date": "2020-03-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2b625392-510e-413f-8f45-326218c1a63a",
+  "source_sha256": "8ba89a545b0c1310d7a5d7256cb5b162c7805f26c232f3648c49412353e8f2fe",
+  "source_id": "2b625392-510e-413f-8f45-326218c1a63a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 309/2020-35",
+    "soud": "Okresní soud v Karviné",
+    "autor": "Mgr. Ing. Marie Miczková",
+    "ecli": "ECLI:CZ:OSKI:2020:23.C.309.2020.1",
+    "predmetRizeni": "31 906 Kč s příslušenstvím",
+    "datumVydani": "2020-03-05",
+    "datumZverejneni": "2021-03-12",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2b625392-510e-413f-8f45-326218c1a63a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
