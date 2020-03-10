@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2020:16.C.235.2015.9",
+  "docket": "16 C 235/2015-145",
+  "date": "2020-03-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9c64a575-1e16-439c-bd2a-ca5dfc6c9bd1",
+  "source_sha256": "e2ee196cd658aaf8c769bf7275ef3c077308b66f1c5ad2bbe7fcbb9d516be7f7",
+  "source_id": "9c64a575-1e16-439c-bd2a-ca5dfc6c9bd1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 235/2015-145",
+    "soud": "Okresní soud v Chebu",
+    "autor": "JUDr. Stanislav Brabec",
+    "ecli": "ECLI:CZ:OSCH:2020:16.C.235.2015.9",
+    "predmetRizeni": "o 65.212,00 Kč s přísl.",
+    "datumVydani": "2020-03-10",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "dotace",
+      "nájem nebytových prostor",
+      "nebytový prostor",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 451 z. č. 89/2012 Sb.",
+      "§ 454 z. č. 89/2012 Sb.",
+      "§ 50 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9c64a575-1e16-439c-bd2a-ca5dfc6c9bd1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
