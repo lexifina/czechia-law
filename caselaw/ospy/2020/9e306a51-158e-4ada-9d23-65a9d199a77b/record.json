@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2020:24.C.291.2020.1",
+  "docket": "24 C 291/2020-14",
+  "date": "2020-03-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9e306a51-158e-4ada-9d23-65a9d199a77b",
+  "source_sha256": "bd6951ba77f4c94f8555a25d88ad0cc89bc895b780586b3a458f2bc47cce8225",
+  "source_id": "9e306a51-158e-4ada-9d23-65a9d199a77b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 291/2020-14",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Hana Zdeňková",
+    "ecli": "ECLI:CZ:OSPY:2020:24.C.291.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-03-12",
+    "datumZverejneni": "2021-03-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 24c z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9e306a51-158e-4ada-9d23-65a9d199a77b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
