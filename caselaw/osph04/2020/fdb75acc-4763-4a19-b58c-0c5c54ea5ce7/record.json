@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2020:32.C.117.2020.1",
+  "docket": "32 C 117/2020-80",
+  "date": "2020-04-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fdb75acc-4763-4a19-b58c-0c5c54ea5ce7",
+  "source_sha256": "01265bc79e04c1d230fa14d2a42cdae3cbe9eec00f73abd7ff1f0df2129c3584",
+  "source_id": "fdb75acc-4763-4a19-b58c-0c5c54ea5ce7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "32 C 117/2020-80",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "Mgr. Monika Ptáček číhalová",
+    "ecli": "ECLI:CZ:OSPH04:2020:32.C.117.2020.1",
+    "predmetRizeni": "vyklizení bytu",
+    "datumVydani": "2020-04-13",
+    "datumZverejneni": "2021-08-19",
+    "klicovaSlova": [
+      "duševní porucha",
+      "omezení svéprávnosti",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "vyklizení nemovitosti"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 1040 z. č. 89/2012 Sb.",
+      "§ 911 z. č. 89/2012 Sb.",
+      "§ 910 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fdb75acc-4763-4a19-b58c-0c5c54ea5ce7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
