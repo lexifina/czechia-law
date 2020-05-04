@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2020:21.C.43.2020.1",
+  "docket": "21 C 43/2020",
+  "date": "2020-05-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6e92bae8-7e41-47b2-bb3e-4707ae53f028",
+  "source_sha256": "082f422405fefcde1ba056792e013f80c8d0393f44f51c5b14e8924c6a0f1c24",
+  "source_id": "6e92bae8-7e41-47b2-bb3e-4707ae53f028",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 43/2020",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "Mgr. Blanka Vernerová",
+    "ecli": "ECLI:CZ:OSPH02:2020:21.C.43.2020.1",
+    "predmetRizeni": "O zaplacení 1 736 Kč s příslušenstvím",
+    "datumVydani": "2020-05-04",
+    "datumZverejneni": "2021-09-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2783 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6e92bae8-7e41-47b2-bb3e-4707ae53f028"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
