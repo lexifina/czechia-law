@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prachaticích",
+  "ecli": "ECLI:CZ:OSPT:2020:2.C.209.2017 .1",
+  "docket": "2 C 209/2017-190",
+  "date": "2020-05-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d43fb343-93f4-491a-9aaa-91e691a3a83a",
+  "source_sha256": "40dca9e263ae421c1897d12111a6bd11035512ef367b0722571769b1c1c9ab63",
+  "source_id": "d43fb343-93f4-491a-9aaa-91e691a3a83a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "2 C 209/2017-190",
+    "soud": "Okresní soud v Prachaticích",
+    "autor": "JUDr. Vladislava Halodová",
+    "ecli": "ECLI:CZ:OSPT:2020:2.C.209.2017 .1",
+    "predmetRizeni": "o vydání věci",
+    "datumVydani": "2020-05-07",
+    "datumZverejneni": "2021-05-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pozůstalost",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 1040 z. č. 89/2012 Sb.",
+      "§ 2080 z. č. 89/2012 Sb.",
+      "§ 1745 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d43fb343-93f4-491a-9aaa-91e691a3a83a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
