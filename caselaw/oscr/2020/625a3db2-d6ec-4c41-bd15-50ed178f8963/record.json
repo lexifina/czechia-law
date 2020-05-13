@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chrudimi",
+  "ecli": "ECLI:CZ:OSCR:2020:103.C.9.2020.1",
+  "docket": "103 C 9/2020-52",
+  "date": "2020-05-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/625a3db2-d6ec-4c41-bd15-50ed178f8963",
+  "source_sha256": "f6ee6b3048c6d5d95497a68eecc22909cf29454634d813ed67dbb33f4761ae36",
+  "source_id": "625a3db2-d6ec-4c41-bd15-50ed178f8963",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "103 C 9/2020-52",
+    "soud": "Okresní soud v Chrudimi",
+    "autor": "JUDr. Jana Profousová",
+    "ecli": "ECLI:CZ:OSCR:2020:103.C.9.2020.1",
+    "predmetRizeni": "o 60 884,95 Kč s příslušenstvím",
+    "datumVydani": "2020-05-13",
+    "datumZverejneni": "2021-05-12",
+    "klicovaSlova": [
+      "lichva",
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 580 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/625a3db2-d6ec-4c41-bd15-50ed178f8963"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
