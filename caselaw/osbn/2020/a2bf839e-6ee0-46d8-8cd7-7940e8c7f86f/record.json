@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2020:6.C.11.2020.1",
+  "docket": "6 C 11/2020-30",
+  "date": "2020-05-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a2bf839e-6ee0-46d8-8cd7-7940e8c7f86f",
+  "source_sha256": "f21cc311da27c4148a77c5bfccb43654a8e7dc8a8ba2bfff188f1bfddc890d0f",
+  "source_id": "a2bf839e-6ee0-46d8-8cd7-7940e8c7f86f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 11/2020-30",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Štěpánka Brožová",
+    "ecli": "ECLI:CZ:OSBN:2020:6.C.11.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-05-14",
+    "datumZverejneni": "2021-03-22",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a2bf839e-6ee0-46d8-8cd7-7940e8c7f86f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
