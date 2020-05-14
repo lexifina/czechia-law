@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2020:16.C.421.2019.3",
+  "docket": "16 C 421/2019-38",
+  "date": "2020-05-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e2049a72-5427-4c58-9246-1f5539264daf",
+  "source_sha256": "24d0b9b0f180bd06e4ec629d2f5e88c3d9d22ff56fd075f79a53cdb45bd8040d",
+  "source_id": "e2049a72-5427-4c58-9246-1f5539264daf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 421/2019-38",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Klára Hronová",
+    "ecli": "ECLI:CZ:OSPH05:2020:16.C.421.2019.3",
+    "predmetRizeni": "o 27.597 Kč s příslušenstvím",
+    "datumVydani": "2020-05-14",
+    "datumZverejneni": "2021-07-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozsudek pro zmeškání",
+      "smlouva o dílo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 8 vyhl. č. 177/1996 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 153b z. č. 99/1963 Sb.",
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 2586 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e2049a72-5427-4c58-9246-1f5539264daf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
