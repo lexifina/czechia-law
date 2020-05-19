@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pelhřimově",
+  "ecli": "ECLI:CZ:OSPE:2020:4.C.47.2020.1",
+  "docket": "4 C 47/2020-22",
+  "date": "2020-05-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/aa53ba79-d1f7-4f55-8f51-4a1863ef953e",
+  "source_sha256": "849b18c9f62c6589116af9392796b08746a3e3740f752686b931b8526786b115",
+  "source_id": "aa53ba79-d1f7-4f55-8f51-4a1863ef953e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 47/2020-22",
+    "soud": "Okresní soud v Pelhřimově",
+    "autor": "JUDr. Lenka Jiříková",
+    "ecli": "ECLI:CZ:OSPE:2020:4.C.47.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-05-19",
+    "datumZverejneni": "2021-03-30",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/aa53ba79-d1f7-4f55-8f51-4a1863ef953e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
