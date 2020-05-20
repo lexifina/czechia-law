@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2020:4.C.278.2019.1",
+  "docket": "4 C 278/2019-30",
+  "date": "2020-05-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ba948da2-8708-4e3e-b3a0-f3a01040ef72",
+  "source_sha256": "28a5181080885036b6c5989a6d57d504be9228bb2e6a888f01a6d1cc44d93c64",
+  "source_id": "ba948da2-8708-4e3e-b3a0-f3a01040ef72",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 278/2019-30",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "JUDr. Jaroslav Kouba",
+    "ecli": "ECLI:CZ:OSZN:2020:4.C.278.2019.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-05-20",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ba948da2-8708-4e3e-b3a0-f3a01040ef72"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
