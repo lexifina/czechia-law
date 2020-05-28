@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2020:27.C.44.2020.1",
+  "docket": "27 C 44/2020-24",
+  "date": "2020-05-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1406a914-fa47-4559-bb80-7502814fafc2",
+  "source_sha256": "87ef3f75e27438b2d5c4cd4de8dce8d49e388f90e485be0f78d1f7fdf57e67d0",
+  "source_id": "1406a914-fa47-4559-bb80-7502814fafc2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 44/2020-24",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Petra Lukášková",
+    "ecli": "ECLI:CZ:OSPH01:2020:27.C.44.2020.1",
+    "predmetRizeni": "o zaplacení 12 474 Kč s příslušenstvím",
+    "datumVydani": "2020-05-28",
+    "datumZverejneni": "2021-10-21",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "peněžité plnění",
+      "rozsudek pro zmeškání",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 2217 z. č. 89/2012 Sb.",
+      "§ 153b z. č. 99/1963 Sb.",
+      "§  z. č. 89/2014 Sb.",
+      "§ 2201an z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1406a914-fa47-4559-bb80-7502814fafc2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
