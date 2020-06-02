@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2020:12.C.12.2019.1",
+  "docket": "12 C 12/2019-42",
+  "date": "2020-06-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b4026faf-cd75-42db-b0da-c1fa03a046de",
+  "source_sha256": "eca732026802d1904a24d54dfb9536eb2b2d218cacb16cedde86a9baaea25210",
+  "source_id": "b4026faf-cd75-42db-b0da-c1fa03a046de",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 12/2019-42",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Kateřina Tluchořová",
+    "ecli": "ECLI:CZ:OSPH01:2020:12.C.12.2019.1",
+    "predmetRizeni": "o zaplacení 400 000 Kč s příslušenstvím",
+    "datumVydani": "2020-06-02",
+    "datumZverejneni": "2021-05-25",
+    "klicovaSlova": [
+      "náhrada nemajetkové újmy",
+      "nemajetková újma",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "zadostiučinění / satisfakce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 14 z. č. 82/1998 Sb.",
+      "§  z. č. 218/2000 Sb.",
+      "§ 6 z. č. 82/1998 Sb.",
+      "§ 49 z. č. 71/1967 Sb.",
+      "§ 9 z. č. 229/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b4026faf-cd75-42db-b0da-c1fa03a046de"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
