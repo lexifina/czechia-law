@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2020:13.C.121.2018.1",
+  "docket": "13 C 121/2018-169",
+  "date": "2020-06-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9596dca1-7991-441c-83e1-e94d7f6c8e93",
+  "source_sha256": "4731e00d735d9b049194d52fdd0c9eb5ba5992978b06eee704c0654dde575e4d",
+  "source_id": "9596dca1-7991-441c-83e1-e94d7f6c8e93",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 121/2018-169",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Oldřich Umlauf",
+    "ecli": "ECLI:CZ:OSKV:2020:13.C.121.2018.1",
+    "predmetRizeni": "114.000 Kč / provedené práce",
+    "datumVydani": "2020-06-04",
+    "datumZverejneni": "2021-11-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o dílo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2586 z. č. 89/2012 Sb.",
+      "§ 2051 z. č. 89/2012 Sb.",
+      "§ 6 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9596dca1-7991-441c-83e1-e94d7f6c8e93"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
