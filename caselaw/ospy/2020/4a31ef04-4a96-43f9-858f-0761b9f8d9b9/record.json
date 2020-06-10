@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2020:8.C.487.2018.1",
+  "docket": "8 C 487/2018-66",
+  "date": "2020-06-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4a31ef04-4a96-43f9-858f-0761b9f8d9b9",
+  "source_sha256": "0a1166e341f97567cc340d62904ebec7a239a8d0397e1614c814529df02ce183",
+  "source_id": "4a31ef04-4a96-43f9-858f-0761b9f8d9b9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 487/2018-66",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Jitka Sochorová",
+    "ecli": "ECLI:CZ:OSPY:2020:8.C.487.2018.1",
+    "predmetRizeni": "o zaplacení 334 474 Kč s příslušenstvím",
+    "datumVydani": "2020-06-10",
+    "datumZverejneni": "2021-08-05",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 2085 z. č. 89/2012 Sb.",
+      "§ 2095 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4a31ef04-4a96-43f9-858f-0761b9f8d9b9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
