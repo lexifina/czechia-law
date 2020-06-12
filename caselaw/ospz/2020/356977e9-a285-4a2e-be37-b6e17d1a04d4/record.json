@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2020:8.C.335.2019.1",
+  "docket": "8 C 335/2019-67",
+  "date": "2020-06-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/356977e9-a285-4a2e-be37-b6e17d1a04d4",
+  "source_sha256": "676d1b5face4b57f7466673526dfd86cf117462f7ef5febd0ee7920fb8d1e5f1",
+  "source_id": "356977e9-a285-4a2e-be37-b6e17d1a04d4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 335/2019-67",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "Mgr. Štěpánka Tůmová",
+    "ecli": "ECLI:CZ:OSPZ:2020:8.C.335.2019.1",
+    "predmetRizeni": "Návrh na výživné manželky",
+    "datumVydani": "2020-06-12",
+    "datumZverejneni": "2021-05-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozvod manželství",
+      "smlouva nájemní",
+      "smlouva o úvěru",
+      "smlouva pracovní",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 913 z. č. 89/2012 Sb.",
+      "§ 11 z. č. 549/1991 Sb.",
+      "§ 697 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/356977e9-a285-4a2e-be37-b6e17d1a04d4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
