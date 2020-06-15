@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 7",
+  "ecli": "ECLI:CZ:OSPH07:2020:8.C.369.2019.1",
+  "docket": "8 C 369/2019-44",
+  "date": "2020-06-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d9cb481e-9a16-4e9d-88e7-693b478477fc",
+  "source_sha256": "0189bd211959ac77e06e48b1941485794098dff0a78cbe37ee3206f905b4e3b2",
+  "source_id": "d9cb481e-9a16-4e9d-88e7-693b478477fc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 369/2019-44",
+    "soud": "Obvodní soud pro Prahu 7",
+    "autor": "Mgr. Pavel Punčochář",
+    "ecli": "ECLI:CZ:OSPH07:2020:8.C.369.2019.1",
+    "predmetRizeni": "O zaplacení 54 450 Kč s příslušenstvím",
+    "datumVydani": "2020-06-15",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o dílo",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 2610 z. č. 89/2012 Sb.",
+      "§ 2002 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d9cb481e-9a16-4e9d-88e7-693b478477fc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
