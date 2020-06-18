@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:13.C.224.2019.3",
+  "docket": "13 C 224/2019-39",
+  "date": "2020-06-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5a017b6f-6741-4804-869b-bccc74d838e5",
+  "source_sha256": "94d96c6f982d9412ba8cf46e6f0565813b02f05df397f80a4a691fecff10f15e",
+  "source_id": "5a017b6f-6741-4804-869b-bccc74d838e5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 224/2019-39",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Ludmila Vlčková",
+    "ecli": "ECLI:CZ:OSMO:2020:13.C.224.2019.3",
+    "predmetRizeni": "Žaloba o bezdůvodné obohacení",
+    "datumVydani": "2020-06-18",
+    "datumZverejneni": "2021-07-09",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "převod vlastnictví",
+      "rozvod manželství",
+      "smlouva kupní",
+      "spoluvlastnictví"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 629 z. č. 89/2012 Sb.",
+      "§ 638 z. č. 89/2012 Sb.",
+      "§ 621 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5a017b6f-6741-4804-869b-bccc74d838e5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
