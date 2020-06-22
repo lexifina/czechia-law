@@ -1,0 +1,53 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chrudimi",
+  "ecli": "ECLI:CZ:OSCR:2020:4.C.273.2019.1",
+  "docket": "4 C 273/2019-58",
+  "date": "2020-06-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fdb70bdd-0216-45f3-89fb-297d7fbeda60",
+  "source_sha256": "9ab93023e06a762de026813f073bf5af2d55dd24d1ee22db146c3a85e55f290b",
+  "source_id": "fdb70bdd-0216-45f3-89fb-297d7fbeda60",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 273/2019-58",
+    "soud": "Okresní soud v Chrudimi",
+    "autor": "Mgr. Marek Horáček",
+    "ecli": "ECLI:CZ:OSCR:2020:4.C.273.2019.1",
+    "predmetRizeni": "o 287 496,50 Kč s příslušenstvím",
+    "datumVydani": "2020-06-22",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "dlužné nájemné",
+      "nájem bytu",
+      "nebytový prostor",
+      "peněžité plnění",
+      "pojištění majetku",
+      "poplatek z prodlení",
+      "právní domněnka",
+      "smlouva nájemní",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§  vyhl. č. 358/2019 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 2285 z. č. 89/2012 Sb.",
+      "§ 1987 z. č. 89/2012 Sb.",
+      "§ 2230 z. č. 89/2012 Sb.",
+      "§ 2311 z. č. 89/2012 Sb.",
+      "§ 2207 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fdb70bdd-0216-45f3-89fb-297d7fbeda60"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
