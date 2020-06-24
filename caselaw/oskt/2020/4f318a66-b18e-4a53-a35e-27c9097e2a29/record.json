@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2020:4.C.191.2019.1",
+  "docket": "4 C 191/2019-58",
+  "date": "2020-06-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4f318a66-b18e-4a53-a35e-27c9097e2a29",
+  "source_sha256": "09c8c6597e72e100552127a42cca3c35bacfbd8fea0a077ba63f3ca0de5aa32f",
+  "source_id": "4f318a66-b18e-4a53-a35e-27c9097e2a29",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 191/2019-58",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "Mgr. Alena Štětinová",
+    "ecli": "ECLI:CZ:OSKT:2020:4.C.191.2019.1",
+    "predmetRizeni": "zaplacení [částka] s přísl.",
+    "datumVydani": "2020-06-24",
+    "datumZverejneni": "2021-03-19",
+    "klicovaSlova": [
+      "odpovědnost za vady",
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/96 Sb.",
+      "§ 2106 z. č. 89/2012 Sb.",
+      "§ 1918 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4f318a66-b18e-4a53-a35e-27c9097e2a29"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
