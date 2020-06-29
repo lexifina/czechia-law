@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:51.C.42.2020.1",
+  "docket": "51 C 42/2020-33",
+  "date": "2020-06-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5b4f14d0-6fbf-4749-b805-8b1ca746a9e3",
+  "source_sha256": "4bb472cd36bf22eb01c82be04ea7d9d2ff46647b3023f1e930fb06a5f2ba3b16",
+  "source_id": "5b4f14d0-6fbf-4749-b805-8b1ca746a9e3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "51 C 42/2020-33",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Zdeněk Sýs",
+    "ecli": "ECLI:CZ:MSBR:2020:51.C.42.2020.1",
+    "predmetRizeni": "vyloučení věci z výkonu rozhodnutí",
+    "datumVydani": "2020-06-29",
+    "datumZverejneni": "2021-08-18",
+    "klicovaSlova": [
+      "exekuce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5b4f14d0-6fbf-4749-b805-8b1ca746a9e3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
