@@ -1,0 +1,53 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2020:1.C.112.2017.1",
+  "docket": "1 C 112/2017-301",
+  "date": "2020-06-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d971e9f1-954a-4859-a34b-7e4661d82d31",
+  "source_sha256": "ceed5538ae0ea4e987cdc11701ab406f4f67d652b03b9a08061ef52c3e19fe9a",
+  "source_id": "d971e9f1-954a-4859-a34b-7e4661d82d31",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "1 C 112/2017-301",
+    "soud": "Okresní soud v Lounech",
+    "autor": "JUDr. Eva Vyskočilová",
+    "ecli": "ECLI:CZ:OSLN:2020:1.C.112.2017.1",
+    "predmetRizeni": "O zaplacení [číslo] - Kč s přísl.",
+    "datumVydani": "2020-06-30",
+    "datumZverejneni": "2021-09-08",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "držba",
+      "nájem pozemku",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "věcná břemena",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 2999 z. č. 89/2012 Sb.",
+      "§ 4 vyhl. č. 358/2019 Sb.",
+      "§ 136 z. č. 99/1963 Sb.",
+      "§ 4 vyhl. č. 333/2018 Sb.",
+      "§ 4 vyhl. č. 463/2017 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d971e9f1-954a-4859-a34b-7e4661d82d31"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
