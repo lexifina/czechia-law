@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2020:10.C.80.2019.2",
+  "docket": "10 C 80/2019-65",
+  "date": "2020-07-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8165cbe8-858e-487a-ac1b-bc16790fe330",
+  "source_sha256": "7958ae5c1c1c94c69f98da01b368864d8c0a2eb72a441add964d6f77d36f4a1b",
+  "source_id": "8165cbe8-858e-487a-ac1b-bc16790fe330",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 80/2019-65",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "JUDr. Pavel Vlach, Ph.D.",
+    "ecli": "ECLI:CZ:OSJN:2020:10.C.80.2019.2",
+    "predmetRizeni": "určení neplatnosti ukončení pracovního poměru",
+    "datumVydani": "2020-07-09",
+    "datumZverejneni": "2020-12-18",
+    "klicovaSlova": [
+      "odstupné",
+      "okamžité zrušení pracovního poměru",
+      "peněžité plnění",
+      "skončení pracovního poměru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/96 Sb.",
+      "§ 55 z. č. 262/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8165cbe8-858e-487a-ac1b-bc16790fe330"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
