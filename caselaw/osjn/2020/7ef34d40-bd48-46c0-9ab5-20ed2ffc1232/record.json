@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2020:10.C.45.2020.3",
+  "docket": "10 C 45/2020-42",
+  "date": "2020-07-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7ef34d40-bd48-46c0-9ab5-20ed2ffc1232",
+  "source_sha256": "4cd1235818de51939618d8360b80a3527e41e65cc858580a93035a5a4facd9ca",
+  "source_id": "7ef34d40-bd48-46c0-9ab5-20ed2ffc1232",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 45/2020-42",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "JUDr. Pavel Vlach, Ph.D.",
+    "ecli": "ECLI:CZ:OSJN:2020:10.C.45.2020.3",
+    "predmetRizeni": "o neplatnost rozvázání pracovního poměru",
+    "datumVydani": "2020-07-09",
+    "datumZverejneni": "2021-05-31",
+    "klicovaSlova": [
+      "dohoda o rozvázání pracovního poměru",
+      "peněžité plnění",
+      "smlouva pracovní",
+      "zkušební doba"
+    ],
+    "zminenaUstanoveni": [
+      "§  vyhl. č. 177/96 Sb.",
+      "§ 4 z. č. 89/2012 Sb.",
+      "§ 552 z. č. 89/2012 Sb.",
+      "§ 49 z. č. 262/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7ef34d40-bd48-46c0-9ab5-20ed2ffc1232"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
