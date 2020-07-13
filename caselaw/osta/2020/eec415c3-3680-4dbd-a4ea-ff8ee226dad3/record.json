@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2020:10.C.163.2019.1",
+  "docket": "10 C 163/2019-92",
+  "date": "2020-07-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/eec415c3-3680-4dbd-a4ea-ff8ee226dad3",
+  "source_sha256": "689fbc4ca520ece5f22a1c2dc76dc060820b00e19d13e5ffbace90f6cc169197",
+  "source_id": "eec415c3-3680-4dbd-a4ea-ff8ee226dad3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 163/2019-92",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Ivana Jakšičová",
+    "ecli": "ECLI:CZ:OSTA:2020:10.C.163.2019.1",
+    "predmetRizeni": "o zaplacená 334 168 Kč s příslušenstvím",
+    "datumVydani": "2020-07-13",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "bolestné",
+      "náhrada nemajetkové újmy",
+      "nemajetková újma",
+      "peněžité plnění",
+      "znalecký posudek",
+      "ztížení společenského uplatnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2958 z. č. 89/2012 Sb.",
+      "§ 2960 z. č. 89/2012 Sb.",
+      "§ 2924 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/eec415c3-3680-4dbd-a4ea-ff8ee226dad3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
