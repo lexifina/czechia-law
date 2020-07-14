@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2020:23.C.227.2018.1",
+  "docket": "23 C 227/2018-81",
+  "date": "2020-07-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c777595b-8259-414e-8749-db283d6396d5",
+  "source_sha256": "14bd40858da0c870dbd963fe5b52b377c82919f466f562eecd5956d1c62ba04b",
+  "source_id": "c777595b-8259-414e-8749-db283d6396d5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 227/2018-81",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "Mgr. Roman Vystrčil",
+    "ecli": "ECLI:CZ:OSZN:2020:23.C.227.2018.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2020-07-14",
+    "datumZverejneni": "2021-12-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva pracovní",
+      "uznání dluhu",
+      "zkušební doba"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 8 vyhl. č. 177/1996 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§  vyhl. č. 358/2019 Sb.",
+      "§  vyhl. č. 333/2018 Sb.",
+      "§ 231 z. č. 262/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c777595b-8259-414e-8749-db283d6396d5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
