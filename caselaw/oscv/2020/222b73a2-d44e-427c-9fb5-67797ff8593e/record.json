@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2020:7.C.429.2019.1",
+  "docket": "7 C 429/2019",
+  "date": "2020-07-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/222b73a2-d44e-427c-9fb5-67797ff8593e",
+  "source_sha256": "5b15bc09aa56f3982eb7913dcaec2748fa94d6fc59a317606ab768fa02dea09f",
+  "source_id": "222b73a2-d44e-427c-9fb5-67797ff8593e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 429/2019",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Nikola Reifová",
+    "ecli": "ECLI:CZ:OSCV:2020:7.C.429.2019.1",
+    "predmetRizeni": "zaplacení 60 002,41 Kč s příslušenstvím (úvěr)",
+    "datumVydani": "2020-07-17",
+    "datumZverejneni": "2021-02-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "prodlení věřitele",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/222b73a2-d44e-427c-9fb5-67797ff8593e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
