@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2020:17.C.117.2020.1",
+  "docket": "17 C 117/2020-16",
+  "date": "2020-07-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2e3a12e2-b284-40ad-b379-723164380efd",
+  "source_sha256": "43af5b6d1825e4899f403725813762fa7f8b3fff34472c057530839fc3189653",
+  "source_id": "2e3a12e2-b284-40ad-b379-723164380efd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 117/2020-16",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr., Ing. Lubomír Sušeň",
+    "ecli": "ECLI:CZ:OSOV:2020:17.C.117.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-07-20",
+    "datumZverejneni": "2021-11-23",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2e3a12e2-b284-40ad-b379-723164380efd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
