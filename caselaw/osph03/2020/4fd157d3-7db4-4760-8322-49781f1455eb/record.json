@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 3",
+  "ecli": "ECLI:CZ:OSPH03:2020:11.C.363.2016.2",
+  "docket": "11 C 363/2016-112",
+  "date": "2020-07-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4fd157d3-7db4-4760-8322-49781f1455eb",
+  "source_sha256": "59acf06cc3eef76cd65ebc8d8f50b7ede52cb9a449045c9d0a485ff241d77c46",
+  "source_id": "4fd157d3-7db4-4760-8322-49781f1455eb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 363/2016-112",
+    "soud": "Obvodní soud pro Prahu 3",
+    "autor": "JUDr. Jana Spanilá",
+    "ecli": "ECLI:CZ:OSPH03:2020:11.C.363.2016.2",
+    "predmetRizeni": "4.911.425 Kč s příslušenstvím",
+    "datumVydani": "2020-07-28",
+    "datumZverejneni": "2021-09-13",
+    "klicovaSlova": [
+      "investiční fond",
+      "konkurs",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 1987 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4fd157d3-7db4-4760-8322-49781f1455eb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
