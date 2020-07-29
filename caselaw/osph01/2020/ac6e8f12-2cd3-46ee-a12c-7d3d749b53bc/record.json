@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2020:39.C.177.2018.1",
+  "docket": "39 C 177/2018-105",
+  "date": "2020-07-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ac6e8f12-2cd3-46ee-a12c-7d3d749b53bc",
+  "source_sha256": "9309f5056e9dba159996c1a48289511a16a42d5719c5f98c6d36ddd7a2373ac8",
+  "source_id": "ac6e8f12-2cd3-46ee-a12c-7d3d749b53bc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "39 C 177/2018-105",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "JUDr. Martina Tvrdková",
+    "ecli": "ECLI:CZ:OSPH01:2020:39.C.177.2018.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-07-29",
+    "datumZverejneni": "2021-06-30",
+    "klicovaSlova": [
+      "odpovědnost za vady",
+      "peněžité plnění",
+      "smlouva o dílo",
+      "smlouva příkazní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§ 2430 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 463/2017 Sb.",
+      "§ 2438 z. č. 89/2012 Sb.",
+      "§ 2432 z. č. 89/2012 Sb.",
+      "§ 1922 z. č. 89/2012 Sb.",
+      "§ 1920 z. č. 89/2012 Sb.",
+      "§ 2443 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ac6e8f12-2cd3-46ee-a12c-7d3d749b53bc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
