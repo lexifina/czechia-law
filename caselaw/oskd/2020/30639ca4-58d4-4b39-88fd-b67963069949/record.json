@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2020:210.C.30.2020.1",
+  "docket": "210 C 30/2020-51",
+  "date": "2020-07-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2024-11-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/30639ca4-58d4-4b39-88fd-b67963069949",
+  "source_sha256": "14db5cf81f12f06f8251c66a6c7a3f7860c9e886c12efb354f0c8f2f2490b370",
+  "source_id": "30639ca4-58d4-4b39-88fd-b67963069949",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "210 C 30/2020-51",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Eva Kučerová",
+    "ecli": "ECLI:CZ:OSKD:2020:210.C.30.2020.1",
+    "predmetRizeni": "zaplacení 20 527,06 Kč s příslušenstvím",
+    "datumVydani": "2020-07-29",
+    "datumZverejneni": "2024-11-12",
+    "klicovaSlova": [
+      "neplatnost právního jednání",
+      "smlouva o úvěru",
+      "bezdůvodné obohacení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 6 vyhl. č. 177/1996 Sb.",
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§  z. č. 0/0 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/30639ca4-58d4-4b39-88fd-b67963069949"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
