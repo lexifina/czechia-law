@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Krajský soud v Ostravě",
+  "ecli": "ECLI:CZ:KSOS:2020:83.C.3.2020.1",
+  "docket": "83 C 3/2020-38",
+  "date": "2020-07-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1dbf0e42-b6b6-4dc4-98f0-39518facd133",
+  "source_sha256": "441da8416bb35ec176c18e269ec10cb1ed80bc5977e35d53981f0cf0394587fc",
+  "source_id": "1dbf0e42-b6b6-4dc4-98f0-39518facd133",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "83 C 3/2020-38",
+    "soud": "Krajský soud v Ostravě",
+    "autor": "JUDr. Eva Zavrtálková",
+    "ecli": "ECLI:CZ:KSOS:2020:83.C.3.2020.1",
+    "predmetRizeni": "o zrušení rozhodčího nálezu",
+    "datumVydani": "2020-07-29",
+    "datumZverejneni": "2021-06-16",
+    "klicovaSlova": [
+      "rozhodčí doložka",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 2051 z. č. 89/2012 Sb.",
+      "§ 31 z. č. 216/94 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1dbf0e42-b6b6-4dc4-98f0-39518facd133"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
