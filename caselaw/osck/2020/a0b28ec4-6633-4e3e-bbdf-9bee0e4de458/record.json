@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2020:9.C.403.2018.12",
+  "docket": "9 C 403/2018-331",
+  "date": "2020-07-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a0b28ec4-6633-4e3e-bbdf-9bee0e4de458",
+  "source_sha256": "eaae968cbe02efaf643541303050e10849648315aa0d20f94dc938b60446e399",
+  "source_id": "a0b28ec4-6633-4e3e-bbdf-9bee0e4de458",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 403/2018-331",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "Mgr. František Strouha",
+    "ecli": "ECLI:CZ:OSCK:2020:9.C.403.2018.12",
+    "predmetRizeni": "EPR [číslo] 2018, o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-07-31",
+    "datumZverejneni": "2021-08-24",
+    "klicovaSlova": [
+      "korporace",
+      "peněžité plnění",
+      "ušlý zisk",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2913 z. č. 89/2012 Sb.",
+      "§ 1982 z. č. 89/2012 Sb.",
+      "§ 2555 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a0b28ec4-6633-4e3e-bbdf-9bee0e4de458"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
