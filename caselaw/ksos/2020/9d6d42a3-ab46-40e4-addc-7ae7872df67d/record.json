@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Krajský soud v Ostravě",
+  "ecli": "ECLI:CZ:KSOS:2020:23.C.3.2016.1",
+  "docket": "23 C 3/2016",
+  "date": "2020-08-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9d6d42a3-ab46-40e4-addc-7ae7872df67d",
+  "source_sha256": "aee2120a75bfc8fc213877092c7f0e4847cf239bb410c1263132c3978422061f",
+  "source_id": "9d6d42a3-ab46-40e4-addc-7ae7872df67d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 3/2016",
+    "soud": "Krajský soud v Ostravě",
+    "autor": "JUDr. Aleš Palkovský",
+    "ecli": "ECLI:CZ:KSOS:2020:23.C.3.2016.1",
+    "predmetRizeni": "o žalobě proti rozhodnutí [název úřadu] [anonymizováno 7 slov] [územní celek] [číslo jednací], sp. zn. [anonymizováno] [číslo] [spisová značka] ze dne [datum rozhodnutí]",
+    "datumVydani": "2020-08-06",
+    "datumZverejneni": "2021-11-08",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 12 vyhl. č. 177/1996 Sb.",
+      "§ 9 vyhl. č. 177/1996 Sb.",
+      "§ 246 z. č. 99/1963 Sb.",
+      "§ 250j z. č. 99/1963 Sb.",
+      "§ 245 z. č. 99/1963 Sb.",
+      "§ 250b z. č. 99/1963 Sb.",
+      "§ 1 z. č. 428/2012 Sb.",
+      "§  z. č. 87/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9d6d42a3-ab46-40e4-addc-7ae7872df67d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
