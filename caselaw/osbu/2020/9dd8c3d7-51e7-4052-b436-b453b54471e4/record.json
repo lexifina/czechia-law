@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2020:217.C.7.2020.1",
+  "docket": "217 C 7/2020-46",
+  "date": "2020-08-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9dd8c3d7-51e7-4052-b436-b453b54471e4",
+  "source_sha256": "5e79f10818ed5467abac49fc05377f12914afc725f17c72c8ea5621e0ecad14c",
+  "source_id": "9dd8c3d7-51e7-4052-b436-b453b54471e4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "217 C 7/2020-46",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "Mgr. Vladimír Koutný",
+    "ecli": "ECLI:CZ:OSBU:2020:217.C.7.2020.1",
+    "predmetRizeni": "100.000 Kč s příslušenstvím",
+    "datumVydani": "2020-08-10",
+    "datumZverejneni": "2021-10-22",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva kupní",
+      "smlouva o půjčce",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 132 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9dd8c3d7-51e7-4052-b436-b453b54471e4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
