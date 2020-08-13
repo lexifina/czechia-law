@@ -1,0 +1,53 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jindřichově Hradci",
+  "ecli": "ECLI:CZ:OSJH:2020:5.C.220.2019.1",
+  "docket": "5 C 220/2019-143",
+  "date": "2020-08-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f140329a-754a-438d-aa98-d4add0981f4a",
+  "source_sha256": "b7d87eebaf31795b3792d37aad66751d471a31fe1deb731a96f9cf0be34ca332",
+  "source_id": "f140329a-754a-438d-aa98-d4add0981f4a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 220/2019-143",
+    "soud": "Okresní soud v Jindřichově Hradci",
+    "autor": "JUDr. Gabriela Strnadová",
+    "ecli": "ECLI:CZ:OSJH:2020:5.C.220.2019.1",
+    "predmetRizeni": "pro zaplacení [částka] s přísl.",
+    "datumVydani": "2020-08-13",
+    "datumZverejneni": "2021-12-02",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "dlužné nájemné",
+      "oceňování majetku",
+      "právo užívání",
+      "peněžité plnění",
+      "smlouva kupní",
+      "smlouva nájemní",
+      "ušlý zisk",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 2999 z. č. 89/2012 Sb.",
+      "§ 1959 z. č. 89/2012 Sb.",
+      "§ 451 z. č. 40/1964 Sb.",
+      "§ 458 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 151/1997 Sb.",
+      "§  vyhl. č. 37/1967 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f140329a-754a-438d-aa98-d4add0981f4a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
