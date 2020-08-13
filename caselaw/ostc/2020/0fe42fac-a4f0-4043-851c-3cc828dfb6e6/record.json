@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Tachově",
+  "ecli": "ECLI:CZ:OSTC:2020:4.C.157.2020.1",
+  "docket": "4 C 157/2020-59",
+  "date": "2020-08-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2024-03-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0fe42fac-a4f0-4043-851c-3cc828dfb6e6",
+  "source_sha256": "685bf0fb0b7c19dacb376fa089f570e6efff3bbe192b5a8435ace19dd50d0d07",
+  "source_id": "0fe42fac-a4f0-4043-851c-3cc828dfb6e6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 157/2020-59",
+    "soud": "Okresní soud v Tachově",
+    "autor": "Mgr. Kateřina Edlová",
+    "ecli": "ECLI:CZ:OSTC:2020:4.C.157.2020.1",
+    "predmetRizeni": "o zaplacení částky 52.332,00 Kč s přísl.",
+    "datumVydani": "2020-08-13",
+    "datumZverejneni": "2024-03-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 122 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0fe42fac-a4f0-4043-851c-3cc828dfb6e6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
