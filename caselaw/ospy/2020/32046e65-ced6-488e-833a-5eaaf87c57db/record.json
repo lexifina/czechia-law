@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2020:24.C.47.2020.1",
+  "docket": "24 C 47/2020",
+  "date": "2020-08-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/32046e65-ced6-488e-833a-5eaaf87c57db",
+  "source_sha256": "11b2f49b1d002da9b8f326d38cc3a83cbb9b815c59cfd71235ff07ae2284b290",
+  "source_id": "32046e65-ced6-488e-833a-5eaaf87c57db",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 47/2020",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Hana Zdeňková",
+    "ecli": "ECLI:CZ:OSPY:2020:24.C.47.2020.1",
+    "predmetRizeni": "o zrušení a vypořádání podílového spoluvlastnictví",
+    "datumVydani": "2020-08-17",
+    "datumZverejneni": "2021-09-16",
+    "klicovaSlova": [
+      "osoba blízká",
+      "peněžité plnění",
+      "podílové spoluvlastnictví",
+      "předkupní právo",
+      "přikázání věci",
+      "smlouva kupní",
+      "spoluvlastnictví",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1140 z. č. 89/2012 Sb.",
+      "§ 1144 z. č. 89/2012 Sb.",
+      "§ 1143 z. č. 89/2012 Sb.",
+      "§ 1147 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/32046e65-ced6-488e-833a-5eaaf87c57db"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
