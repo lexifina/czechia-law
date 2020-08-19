@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2020:9.C.381.2020.1",
+  "docket": "9 C 381/2020-73",
+  "date": "2020-08-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/56cd2d03-bbae-4f74-a631-cc67da25df22",
+  "source_sha256": "d5a2adea16352f92333f77992869c6b9843d26a04190561efb5dc7ec3d3f3a2f",
+  "source_id": "56cd2d03-bbae-4f74-a631-cc67da25df22",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 381/2020-73",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Eva Hanková",
+    "ecli": "ECLI:CZ:OSFM:2020:9.C.381.2020.1",
+    "predmetRizeni": "o 1 634,18 Kč s příslušenstvím",
+    "datumVydani": "2020-08-19",
+    "datumZverejneni": "2021-11-04",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/56cd2d03-bbae-4f74-a631-cc67da25df22"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
