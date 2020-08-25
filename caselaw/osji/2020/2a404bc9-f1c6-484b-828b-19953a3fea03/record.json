@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2020:18.C.131.2020.1",
+  "docket": "18 C 131/2020-13",
+  "date": "2020-08-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2a404bc9-f1c6-484b-828b-19953a3fea03",
+  "source_sha256": "cf04fa7da38421d7f1ede34ec5d00cfa083b4182c8b18e8f62e2819bb080ca7c",
+  "source_id": "2a404bc9-f1c6-484b-828b-19953a3fea03",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 131/2020-13",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "JUDr. Petra Pipková",
+    "ecli": "ECLI:CZ:OSJI:2020:18.C.131.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-08-25",
+    "datumZverejneni": "2021-04-07",
+    "klicovaSlova": [
+      "podvod",
+      "pohlavní styk",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 47 z. č. 200/1990 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2a404bc9-f1c6-484b-828b-19953a3fea03"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
