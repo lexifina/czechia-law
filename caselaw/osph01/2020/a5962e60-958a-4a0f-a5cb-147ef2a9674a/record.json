@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2020:41.C.130.2019.1",
+  "docket": "41 C 130/2019-48",
+  "date": "2020-08-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a5962e60-958a-4a0f-a5cb-147ef2a9674a",
+  "source_sha256": "feb461ca74dc1096da6cd622e10bb140ff556081a3bbd1714643d70140c1af94",
+  "source_id": "a5962e60-958a-4a0f-a5cb-147ef2a9674a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "41 C 130/2019-48",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "JUDr. Hana Marsová",
+    "ecli": "ECLI:CZ:OSPH01:2020:41.C.130.2019.1",
+    "predmetRizeni": "o zaplacení 50 000 Kč s příslušenstvím",
+    "datumVydani": "2020-08-25",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o dílo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 2586 z. č. 89/2012 Sb.",
+      "§ 2054 z. č. 89/2012 Sb.",
+      "§ 2610 z. č. 89/2012 Sb.",
+      "§ 2604 z. č. 89/2012 Sb.",
+      "§ 2605 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a5962e60-958a-4a0f-a5cb-147ef2a9674a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
