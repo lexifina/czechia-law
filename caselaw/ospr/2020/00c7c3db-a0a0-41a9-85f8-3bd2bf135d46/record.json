@@ -1,0 +1,48 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2020:16.C.88.2020.1",
+  "docket": "16 C 88/2020-37",
+  "date": "2020-08-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/00c7c3db-a0a0-41a9-85f8-3bd2bf135d46",
+  "source_sha256": "a5193582ad11df489243a59596145bfe81856e8da59dc96b080bf2bdadda0f28",
+  "source_id": "00c7c3db-a0a0-41a9-85f8-3bd2bf135d46",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 88/2020-37",
+    "soud": "Okresní soud v Přerově",
+    "autor": "JUDr. Jaroslav Hikl",
+    "ecli": "ECLI:CZ:OSPR:2020:16.C.88.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-08-26",
+    "datumZverejneni": "2021-09-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva nájemní",
+      "smlouva o půjčce",
+      "smlouva pracovní",
+      "srážky ze mzdy"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 657 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§  z. č. 110/2006 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 56 z. č. 89/2012 Sb.",
+      "§ 55 z. č. 89/2012 Sb.",
+      "§ 451 z. č. 89/2012 Sb.",
+      "§ 451 z. č. 40/1964 Sb.",
+      "§ 3030 z. č. 89/2012 Sb.",
+      "§ 3080 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/00c7c3db-a0a0-41a9-85f8-3bd2bf135d46"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
