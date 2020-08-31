@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2020:8.C.369.2019.1",
+  "docket": "8 C 369/2019-66",
+  "date": "2020-08-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ed58f4e9-b423-4da8-a1ac-33fa283986c4",
+  "source_sha256": "527397386bff32da66a0dd0120bfd27e1de7e7f6ca1f5c3b19d997bd67964415",
+  "source_id": "ed58f4e9-b423-4da8-a1ac-33fa283986c4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 369/2019-66",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "Mgr. Andrea Löffelmannová",
+    "ecli": "ECLI:CZ:OSPH10:2020:8.C.369.2019.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2020-08-31",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "prodlení věřitele",
+      "smlouva o úvěru",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 132 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ed58f4e9-b423-4da8-a1ac-33fa283986c4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
