@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2020:7.C.156.2018.1",
+  "docket": "7 C 156/2018-120",
+  "date": "2020-09-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/93ba2ecb-669a-4477-91e1-abcad088462c",
+  "source_sha256": "36b8c46fb895fdd78f1e2f261230c0f663d662bd4cd19856115ef879d449cc56",
+  "source_id": "93ba2ecb-669a-4477-91e1-abcad088462c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 156/2018-120",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Filip Janek",
+    "ecli": "ECLI:CZ:OSPY:2020:7.C.156.2018.1",
+    "predmetRizeni": "o zaplacení částky 97.134 Kč s přísl.",
+    "datumVydani": "2020-09-01",
+    "datumZverejneni": "2021-09-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva příkazní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2430 z. č. 89/2012 Sb.",
+      "§ 1982 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/93ba2ecb-669a-4477-91e1-abcad088462c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
