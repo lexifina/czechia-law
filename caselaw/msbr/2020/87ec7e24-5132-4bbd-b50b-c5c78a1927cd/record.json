@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:42.C.142.2019.1",
+  "docket": "42 C 142/2019-90",
+  "date": "2020-09-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/87ec7e24-5132-4bbd-b50b-c5c78a1927cd",
+  "source_sha256": "477ea7fe0f6ffaa19747e3e8bcca77fb494c5115953a9510a0aa093144f9bfed",
+  "source_id": "87ec7e24-5132-4bbd-b50b-c5c78a1927cd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 142/2019-90",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Petra Sedláčková",
+    "ecli": "ECLI:CZ:MSBR:2020:42.C.142.2019.1",
+    "predmetRizeni": "stanovení vyživovací povinnosti",
+    "datumVydani": "2020-09-04",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 8 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/87ec7e24-5132-4bbd-b50b-c5c78a1927cd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
