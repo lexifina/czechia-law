@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2020:9.C.241.2017.1",
+  "docket": "9 C 241/2017-262",
+  "date": "2020-09-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2b6bb021-add9-4c09-a5dc-4533624168ae",
+  "source_sha256": "71a786933f970ddb6d80cc9bc1116edce88684edad03d7e28f1474b6f6b70fbc",
+  "source_id": "2b6bb021-add9-4c09-a5dc-4533624168ae",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 241/2017-262",
+    "soud": "Okresní soud v Lounech",
+    "autor": "Mgr. Tomáš Machytka",
+    "ecli": "ECLI:CZ:OSLN:2020:9.C.241.2017.1",
+    "predmetRizeni": "O zaplacení 203.048,84 Kč s příslušenstvím",
+    "datumVydani": "2020-09-04",
+    "datumZverejneni": "2021-06-24",
+    "klicovaSlova": [
+      "dotace",
+      "peněžité plnění",
+      "smlouva o dílo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§  vyhl. č. 358/2019 Sb.",
+      "§  vyhl. č. 333/2018 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 536 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2b6bb021-add9-4c09-a5dc-4533624168ae"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
