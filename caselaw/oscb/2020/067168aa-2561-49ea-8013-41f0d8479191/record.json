@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2020:16.C.59.2020.1",
+  "docket": "16 C 59/2020-30",
+  "date": "2020-09-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/067168aa-2561-49ea-8013-41f0d8479191",
+  "source_sha256": "5d8d9e0fbd5f4a3139d1fc4375968bc51dc619eb5def6b98221552dabe7db9ef",
+  "source_id": "067168aa-2561-49ea-8013-41f0d8479191",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 59/2020-30",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "Mgr. Jana Traxlerová",
+    "ecli": "ECLI:CZ:OSCB:2020:16.C.59.2020.1",
+    "predmetRizeni": "EPR [číslo], o zaplacení částky 112 058,84 Kč s příslušenstvím",
+    "datumVydani": "2020-09-04",
+    "datumZverejneni": "2021-11-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění úvěru",
+      "rozsudek pro zmeškání",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 153b z. č. 99/1963 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/067168aa-2561-49ea-8013-41f0d8479191"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
