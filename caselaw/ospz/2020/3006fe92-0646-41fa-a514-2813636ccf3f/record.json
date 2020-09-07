@@ -1,0 +1,48 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2020:36.C.263.2020.1",
+  "docket": "36 C 263/2020",
+  "date": "2020-09-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3006fe92-0646-41fa-a514-2813636ccf3f",
+  "source_sha256": "9d3e463e4d8acdd91f4346645ee28d72d2747e4bfa606d822a4b79458387bf1b",
+  "source_id": "3006fe92-0646-41fa-a514-2813636ccf3f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 263/2020",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "JUDr. Tomáš Behr",
+    "ecli": "ECLI:CZ:OSPZ:2020:36.C.263.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2020-09-07",
+    "datumZverejneni": "2021-02-23",
+    "klicovaSlova": [
+      "držba",
+      "ochrana vlastnictví",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "výpověď z nájmu",
+      "výprosa"
+    ],
+    "zminenaUstanoveni": [
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 1040 z. č. 89/2012 Sb.",
+      "§ 9 vyhl. č. 177/1996 Sb.",
+      "§ 1003 z. č. 89/2012 Sb.",
+      "§ 1002 z. č. 89/2012 Sb.",
+      "§ 177 z. č. 99/1963 Sb.",
+      "§ 1007 z. č. 89/2012 Sb.",
+      "§ 1009 z. č. 89/2012 Sb.",
+      "§ 993 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3006fe92-0646-41fa-a514-2813636ccf3f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
