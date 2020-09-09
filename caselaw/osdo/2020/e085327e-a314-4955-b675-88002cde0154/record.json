@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2020:6.C.157.2020.1",
+  "docket": "6 C 157/2020-26",
+  "date": "2020-09-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e085327e-a314-4955-b675-88002cde0154",
+  "source_sha256": "40533174394057c233fe2ea281b87d76bf08380837092300d603ce5b31d2d0c6",
+  "source_id": "e085327e-a314-4955-b675-88002cde0154",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 157/2020-26",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "JUDr. Vladimíra Mašinová",
+    "ecli": "ECLI:CZ:OSDO:2020:6.C.157.2020.1",
+    "predmetRizeni": "O zaplacení 40 000 Kč s příslušenstvím",
+    "datumVydani": "2020-09-09",
+    "datumZverejneni": "2021-09-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "zástavní právo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2051 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e085327e-a314-4955-b675-88002cde0154"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
