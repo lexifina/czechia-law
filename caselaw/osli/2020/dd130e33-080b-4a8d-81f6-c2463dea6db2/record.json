@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2020:12.C.73.2019.1",
+  "docket": "12 C 73/2019-102",
+  "date": "2020-09-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dd130e33-080b-4a8d-81f6-c2463dea6db2",
+  "source_sha256": "d1e87615592c66097be3e2a87eb7b5bbfe2003768cf0e483ce8bb3b71a6b5158",
+  "source_id": "dd130e33-080b-4a8d-81f6-c2463dea6db2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 73/2019-102",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Renata Urbánková",
+    "ecli": "ECLI:CZ:OSLI:2020:12.C.73.2019.1",
+    "predmetRizeni": "zaplacení částky 72.360,25 EUR s příslušenstvím - dluh",
+    "datumVydani": "2020-09-10",
+    "datumZverejneni": "2021-11-05",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "odpovědnost za vady",
+      "peněžité plnění",
+      "smlouva o dílo"
+    ],
+    "zminenaUstanoveni": [
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1903 z. č. 89/2012 Sb.",
+      "§ 633 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dd130e33-080b-4a8d-81f6-c2463dea6db2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
