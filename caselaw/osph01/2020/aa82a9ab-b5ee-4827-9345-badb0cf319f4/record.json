@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2020:27.C.115.2015.1",
+  "docket": "27 C 115/2015-402",
+  "date": "2020-09-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/aa82a9ab-b5ee-4827-9345-badb0cf319f4",
+  "source_sha256": "332cb7b2125cea8df0dbc37e6fff574b3197fd775b2e27b8745caf0ac0254b8a",
+  "source_id": "aa82a9ab-b5ee-4827-9345-badb0cf319f4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 115/2015-402",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "JUDr. Hana Marsová",
+    "ecli": "ECLI:CZ:OSPH01:2020:27.C.115.2015.1",
+    "predmetRizeni": "zaplacení 391.988 Kč s přísl.",
+    "datumVydani": "2020-09-11",
+    "datumZverejneni": "2021-03-12",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "dědění",
+      "držba",
+      "pasivní legitimace",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva nájemní",
+      "smlouva směnná",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 451 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/aa82a9ab-b5ee-4827-9345-badb0cf319f4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
