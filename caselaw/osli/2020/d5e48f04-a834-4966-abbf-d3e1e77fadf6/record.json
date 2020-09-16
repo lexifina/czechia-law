@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2020:18.C.177.2020.1",
+  "docket": "18 C 177/2020-42",
+  "date": "2020-09-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d5e48f04-a834-4966-abbf-d3e1e77fadf6",
+  "source_sha256": "06e4e436cba16f5c4cf4e54e061a0bbea14c27f3a4db2af6a7a97e5c21ac13d3",
+  "source_id": "d5e48f04-a834-4966-abbf-d3e1e77fadf6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 177/2020-42",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Ing. arch. Kamil Podhola",
+    "ecli": "ECLI:CZ:OSLI:2020:18.C.177.2020.1",
+    "predmetRizeni": "Žaloba na vyklizení bytu",
+    "datumVydani": "2020-09-16",
+    "datumZverejneni": "2021-05-11",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2 z. č. 89/2012 Sb.",
+      "§ 2285 z. č. 89/2012 Sb.",
+      "§ 2279 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d5e48f04-a834-4966-abbf-d3e1e77fadf6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
