@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-jih",
+  "ecli": "ECLI:CZ:OSPJ:2020:17.C.206.2020.1",
+  "docket": "17 C 206/2020-27",
+  "date": "2020-09-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e637d7b8-f05a-4854-9602-e13cf9ec6ab8",
+  "source_sha256": "c75216c3358219d5e8de4206be470b4b8c411cc4899bc9325d4a6f43196abaf3",
+  "source_id": "e637d7b8-f05a-4854-9602-e13cf9ec6ab8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 206/2020-27",
+    "soud": "Okresní soud Plzeň-jih",
+    "autor": "JUDr. Petr Kulawiak",
+    "ecli": "ECLI:CZ:OSPJ:2020:17.C.206.2020.1",
+    "predmetRizeni": "O zaplacení 13 800,69 Kč s příslušenstvím",
+    "datumVydani": "2020-09-17",
+    "datumZverejneni": "2021-02-12",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 151 vyhl. č. 484/2000 Sb.",
+      "§ 1971 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e637d7b8-f05a-4854-9602-e13cf9ec6ab8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
