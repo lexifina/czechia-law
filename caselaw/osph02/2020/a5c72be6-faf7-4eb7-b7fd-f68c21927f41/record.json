@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2020:15.C.90.2020.2",
+  "docket": "15 C 90/2020-127",
+  "date": "2020-09-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a5c72be6-faf7-4eb7-b7fd-f68c21927f41",
+  "source_sha256": "2812ee6bea806e98a90e54459f48e4d16cbdb337eca16f8d8951854897dd2bc9",
+  "source_id": "a5c72be6-faf7-4eb7-b7fd-f68c21927f41",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 90/2020-127",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "JUDr. Ondřej Růžička",
+    "ecli": "ECLI:CZ:OSPH02:2020:15.C.90.2020.2",
+    "predmetRizeni": "o zaplacení [částka] a [částka] s příslušenstvím",
+    "datumVydani": "2020-09-18",
+    "datumZverejneni": "2021-06-29",
+    "klicovaSlova": [
+      "náhrada nemajetkové újmy",
+      "nemajetková újma",
+      "ochrana osobnosti",
+      "osoba blízká",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  vyhl. č. 177/96 Sb.",
+      "§  z. č. 82/1998 Sb.",
+      "§ 7 z. č. 82/98 Sb.",
+      "§ 11 z. č. 89/2012 Sb.",
+      "§ 135 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a5c72be6-faf7-4eb7-b7fd-f68c21927f41"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
