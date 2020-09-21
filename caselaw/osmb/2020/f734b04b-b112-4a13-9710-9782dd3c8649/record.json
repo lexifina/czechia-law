@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2020:13.C.334.2019.1",
+  "docket": "13 C 334/2019-41",
+  "date": "2020-09-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f734b04b-b112-4a13-9710-9782dd3c8649",
+  "source_sha256": "4d62c54f729cf0440cf9050fa81a90596e46b3c6cfde0a86affeda5b026419f9",
+  "source_id": "f734b04b-b112-4a13-9710-9782dd3c8649",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 334/2019-41",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "JUDr. Kateřina Zavadilová",
+    "ecli": "ECLI:CZ:OSMB:2020:13.C.334.2019.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-09-21",
+    "datumZverejneni": "2021-01-22",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 14 z. č. 328/1999 Sb.",
+      "§ 391 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f734b04b-b112-4a13-9710-9782dd3c8649"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
