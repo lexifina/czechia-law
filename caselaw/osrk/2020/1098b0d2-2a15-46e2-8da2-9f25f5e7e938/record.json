@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rychnově nad Kněžnou",
+  "ecli": "ECLI:CZ:OSRK:2020:3.C.203.2019.1",
+  "docket": "3 C 203/2019-43",
+  "date": "2020-09-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1098b0d2-2a15-46e2-8da2-9f25f5e7e938",
+  "source_sha256": "d0bafbcf864b790838f5411a21a966df3f4c98eecd7ec469b096264b397dd95b",
+  "source_id": "1098b0d2-2a15-46e2-8da2-9f25f5e7e938",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 203/2019-43",
+    "soud": "Okresní soud v Rychnově nad Kněžnou",
+    "autor": "JUDr. Jiří Fuks, Ph.D.",
+    "ecli": "ECLI:CZ:OSRK:2020:3.C.203.2019.1",
+    "predmetRizeni": "o zaplacení 2.949 Kč s příslušenstvím",
+    "datumVydani": "2020-09-21",
+    "datumZverejneni": "2021-09-06",
+    "klicovaSlova": [
+      "cena věci",
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 8 vyhl. č. 177/1996 Sb.",
+      "§ 13 z. č. 168/1999 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 6 vyhl. č. 177/1996 Sb.",
+      "§ 2758 z. č. 82/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1098b0d2-2a15-46e2-8da2-9f25f5e7e938"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
