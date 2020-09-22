@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:15.C.192.2020.2",
+  "docket": "15 C 192/2020-25",
+  "date": "2020-09-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-11-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e345add9-4367-4bd2-8581-41174517a5ba",
+  "source_sha256": "0433446526d5e31e8f86fd767417af351d471b37b2edb8d28fe4c0aa6576ba3e",
+  "source_id": "e345add9-4367-4bd2-8581-41174517a5ba",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 192/2020-25",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Radka Kryndlerová",
+    "ecli": "ECLI:CZ:OSMO:2020:15.C.192.2020.2",
+    "predmetRizeni": "3 000 Kč s příslušenstvím",
+    "datumVydani": "2020-09-22",
+    "datumZverejneni": "2020-11-04",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 118 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e345add9-4367-4bd2-8581-41174517a5ba"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
