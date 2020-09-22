@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2020:2.C.125.2020.1",
+  "docket": "2 C 125/2020-109",
+  "date": "2020-09-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8f0bde8c-555f-42fa-9a03-cf62f0d69966",
+  "source_sha256": "42f25d2a5afe991d590e5bfda54778866324641765435d95a3c802009ce1eb36",
+  "source_id": "8f0bde8c-555f-42fa-9a03-cf62f0d69966",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "2 C 125/2020-109",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Martina Štorkánová",
+    "ecli": "ECLI:CZ:OSTA:2020:2.C.125.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2020-09-22",
+    "datumZverejneni": "2021-03-30",
+    "klicovaSlova": [
+      "pozůstalost",
+      "právo na soudní ochranu",
+      "rozhodnutí o úpadku",
+      "smlouva o úvěru",
+      "smlouva zástavní",
+      "zástavní právo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 358 z. č. 292/2013 Sb.",
+      "§ 497 z. č. 513/1991 Sb.",
+      "§ 200y z. č. 99/1963 Sb.",
+      "§ 152 z. č. 40/1964 Sb.",
+      "§ 3073 z. č. 89/2012 Sb.",
+      "§ 152 z. č. 89/2012 Sb.",
+      "§ 156 z. č. 89/2012 Sb.",
+      "§ 165 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8f0bde8c-555f-42fa-9a03-cf62f0d69966"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
