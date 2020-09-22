@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:39.C.157.2020.2",
+  "docket": "39 C 157/2020-24",
+  "date": "2020-09-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-11-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5b053dd6-3e52-4b19-9aad-4dceb50cf54e",
+  "source_sha256": "fbb5309a1f15732928e206ece426eca94bc068f41b8fe266914c50751f157cec",
+  "source_id": "5b053dd6-3e52-4b19-9aad-4dceb50cf54e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "39 C 157/2020-24",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Rudolf Malý",
+    "ecli": "ECLI:CZ:OSMO:2020:39.C.157.2020.2",
+    "predmetRizeni": "4 595 Kč s příslušenstvím",
+    "datumVydani": "2020-09-22",
+    "datumZverejneni": "2020-11-05",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5b053dd6-3e52-4b19-9aad-4dceb50cf54e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
