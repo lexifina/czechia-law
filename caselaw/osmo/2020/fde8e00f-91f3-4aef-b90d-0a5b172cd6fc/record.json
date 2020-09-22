@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:44.C.6.2020.2",
+  "docket": "44 C 6/2020-27",
+  "date": "2020-09-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-11-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fde8e00f-91f3-4aef-b90d-0a5b172cd6fc",
+  "source_sha256": "28f40f33458fad4ce81291c366d988b7fed2597111de2046456c0a6a3058952a",
+  "source_id": "fde8e00f-91f3-4aef-b90d-0a5b172cd6fc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "44 C 6/2020-27",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Jana Davidová",
+    "ecli": "ECLI:CZ:OSMO:2020:44.C.6.2020.2",
+    "predmetRizeni": "6 493 Kč s příslušenstvím",
+    "datumVydani": "2020-09-22",
+    "datumZverejneni": "2020-11-06",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 3 z. č. 284/2009 Sb.",
+      "§  nař. vl. č. 142/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fde8e00f-91f3-4aef-b90d-0a5b172cd6fc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
