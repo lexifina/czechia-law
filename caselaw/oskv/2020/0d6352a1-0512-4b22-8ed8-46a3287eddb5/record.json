@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2020:11.C.262.2020.1",
+  "docket": "11 C 262/2020-11",
+  "date": "2020-09-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-11-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0d6352a1-0512-4b22-8ed8-46a3287eddb5",
+  "source_sha256": "5d159e2732d6c097a52240e062e1dd268bc37f4b4f442042bc752276ab3f3c7f",
+  "source_id": "0d6352a1-0512-4b22-8ed8-46a3287eddb5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 262/2020-11",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "JUDr. Radek Černovský",
+    "ecli": "ECLI:CZ:OSKV:2020:11.C.262.2020.1",
+    "predmetRizeni": "1 439 Kč / pojistné",
+    "datumVydani": "2020-09-22",
+    "datumZverejneni": "2020-11-30",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0d6352a1-0512-4b22-8ed8-46a3287eddb5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
