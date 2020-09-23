@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2020:3.C.323.2020.1",
+  "docket": "3 C 323/2020-21",
+  "date": "2020-09-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e16544b5-9de4-4739-b67a-8ce7439557c1",
+  "source_sha256": "6b4dbe85baf8383d8211d4c0b22a2fad0892154978474c13b6e4cc9ebcd0f65d",
+  "source_id": "e16544b5-9de4-4739-b67a-8ce7439557c1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 323/2020-21",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Magdalena Fifková",
+    "ecli": "ECLI:CZ:OSPY:2020:3.C.323.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-09-23",
+    "datumZverejneni": "2021-02-19",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 17a z. č. 553/1991 Sb.",
+      "§ 2 z. č. 91/2012 Sb.",
+      "§ 2 z. č. 361/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e16544b5-9de4-4739-b67a-8ce7439557c1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
