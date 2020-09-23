@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 7",
+  "ecli": "ECLI:CZ:OSPH07:2020:15.C.112.2020.1",
+  "docket": "15 C 112/2020-92",
+  "date": "2020-09-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ec7daa99-426b-4309-affa-d92ab3c34fdd",
+  "source_sha256": "1ca59e3ac6ae5df724da99829d18a35fcaa59d89ddde33dc8ea46b26aa965ef5",
+  "source_id": "ec7daa99-426b-4309-affa-d92ab3c34fdd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 112/2020-92",
+    "soud": "Obvodní soud pro Prahu 7",
+    "autor": "JUDr. Iva Kaňáková",
+    "ecli": "ECLI:CZ:OSPH07:2020:15.C.112.2020.1",
+    "predmetRizeni": "O zaplacení 375 419,32 Kč s příslušenstvím",
+    "datumVydani": "2020-09-23",
+    "datumZverejneni": "2021-05-31",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ec7daa99-426b-4309-affa-d92ab3c34fdd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
