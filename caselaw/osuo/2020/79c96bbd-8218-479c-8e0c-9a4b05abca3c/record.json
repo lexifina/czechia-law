@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Orlicí",
+  "ecli": "ECLI:CZ:OSUO:2020:214.C.1.2020.1",
+  "docket": "214 C 1/2020-52",
+  "date": "2020-09-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/79c96bbd-8218-479c-8e0c-9a4b05abca3c",
+  "source_sha256": "ba2213c25e2f88d8072b8ba7784e231f72c5d3e494fe27f8a9b6f042cd58d22a",
+  "source_id": "79c96bbd-8218-479c-8e0c-9a4b05abca3c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "214 C 1/2020-52",
+    "soud": "Okresní soud v Ústí nad Orlicí",
+    "autor": "JUDr. Pavla Kučerová, Ph.D.",
+    "ecli": "ECLI:CZ:OSUO:2020:214.C.1.2020.1",
+    "predmetRizeni": "zaplacení 88 653 Kč s příslušenstvím",
+    "datumVydani": "2020-09-24",
+    "datumZverejneni": "2021-05-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o půjčce",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§  z. č. 257/2016 Sb.",
+      "§ 1798 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/79c96bbd-8218-479c-8e0c-9a4b05abca3c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
