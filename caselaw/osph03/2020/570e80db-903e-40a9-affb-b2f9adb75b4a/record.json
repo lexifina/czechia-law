@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 3",
+  "ecli": "ECLI:CZ:OSPH03:2020:6.C.79.2015.6",
+  "docket": "6 C 79/2015-361",
+  "date": "2020-09-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/570e80db-903e-40a9-affb-b2f9adb75b4a",
+  "source_sha256": "c8ac8962598eb180917870eca0dd920589318e47cde134b324f702766c37e211",
+  "source_id": "570e80db-903e-40a9-affb-b2f9adb75b4a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 79/2015-361",
+    "soud": "Obvodní soud pro Prahu 3",
+    "autor": "Mgr. Miroslava Sixtová",
+    "ecli": "ECLI:CZ:OSPH03:2020:6.C.79.2015.6",
+    "predmetRizeni": "818.816,20 Kč s příslušenstvím",
+    "datumVydani": "2020-09-24",
+    "datumZverejneni": "2021-11-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o dílo",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 544 z. č. 89/2012 Sb.",
+      "§ 544 z. č. 40/1964 Sb.",
+      "§ 536 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/570e80db-903e-40a9-affb-b2f9adb75b4a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
