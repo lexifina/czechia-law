@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2020:13.C.333.2019.1",
+  "docket": "13 C 333/2019-66",
+  "date": "2020-09-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5521dac5-8f8f-4d98-9a2c-24c5056b4f14",
+  "source_sha256": "85e34432673fbc671edfa8e232692855207326af13e7407990751307b9f1789e",
+  "source_id": "5521dac5-8f8f-4d98-9a2c-24c5056b4f14",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 333/2019-66",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Oldřich Umlauf",
+    "ecli": "ECLI:CZ:OSKV:2020:13.C.333.2019.1",
+    "predmetRizeni": "neúčinnost právního jednání",
+    "datumVydani": "2020-09-24",
+    "datumZverejneni": "2021-07-30",
+    "klicovaSlova": [
+      "neúčinnost právního jednání",
+      "osoba blízká",
+      "peněžité plnění",
+      "podjatost",
+      "potvrzení o splnění dluhu",
+      "smlouva kupní",
+      "smlouva o zápůjčce",
+      "zástavní právo",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 589 z. č. 89/2012 Sb.",
+      "§ 590 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5521dac5-8f8f-4d98-9a2c-24c5056b4f14"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
