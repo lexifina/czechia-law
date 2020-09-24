@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2020:5.C.212.2020.1",
+  "docket": "5 C 212/2020-22",
+  "date": "2020-09-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e26a37f3-44bd-49e7-b1f5-4efdd9854db6",
+  "source_sha256": "9c2086fae5e9c3b39874332887da7af73db0d03806df01f7441eba8ceb83405b",
+  "source_id": "e26a37f3-44bd-49e7-b1f5-4efdd9854db6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 212/2020-22",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Petra Šturcová",
+    "ecli": "ECLI:CZ:OSBN:2020:5.C.212.2020.1",
+    "predmetRizeni": "o zaplacení 19 441,45 Kč s příslušenstvím",
+    "datumVydani": "2020-09-24",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 50 z. č. 458/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e26a37f3-44bd-49e7-b1f5-4efdd9854db6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
