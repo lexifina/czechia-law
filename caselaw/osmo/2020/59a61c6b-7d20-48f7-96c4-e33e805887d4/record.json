@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:15.C.225.2020.2",
+  "docket": "15 C 225/2020-22",
+  "date": "2020-09-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-11-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/59a61c6b-7d20-48f7-96c4-e33e805887d4",
+  "source_sha256": "3702a46827982382a744e13226b7029073481a342e854060c342c26b0cdd7abf",
+  "source_id": "59a61c6b-7d20-48f7-96c4-e33e805887d4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 225/2020-22",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Radka Kryndlerová",
+    "ecli": "ECLI:CZ:OSMO:2020:15.C.225.2020.2",
+    "predmetRizeni": "10 639 Kč s příslušenstvím",
+    "datumVydani": "2020-09-24",
+    "datumZverejneni": "2020-11-16",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 37 z. č. 266/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/59a61c6b-7d20-48f7-96c4-e33e805887d4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
