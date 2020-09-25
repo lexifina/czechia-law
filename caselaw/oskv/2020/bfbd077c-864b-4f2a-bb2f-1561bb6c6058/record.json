@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2020:11.C.285.2020.1",
+  "docket": "11 C 285/2020-12",
+  "date": "2020-09-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-11-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bfbd077c-864b-4f2a-bb2f-1561bb6c6058",
+  "source_sha256": "cc289df7f9b2b3f575216f29d480ed5b9f6adb52efea619102b6e8dda2e23a56",
+  "source_id": "bfbd077c-864b-4f2a-bb2f-1561bb6c6058",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 285/2020-12",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "JUDr. Radek Černovský",
+    "ecli": "ECLI:CZ:OSKV:2020:11.C.285.2020.1",
+    "predmetRizeni": "4.000 Kč / služby elektronických komunikací",
+    "datumVydani": "2020-09-25",
+    "datumZverejneni": "2020-11-30",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bfbd077c-864b-4f2a-bb2f-1561bb6c6058"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
