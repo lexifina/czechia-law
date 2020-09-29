@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:13.C.205.2020.1",
+  "docket": "13 C 205/2020-19",
+  "date": "2020-09-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-10-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/10a3a621-c6fe-4324-a481-31d3a4afeada",
+  "source_sha256": "8487c3fb84cc9e291323172572282515041ea299927cdb83a3017a41f79794d3",
+  "source_id": "10a3a621-c6fe-4324-a481-31d3a4afeada",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 205/2020-19",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Ludmila Vlčková",
+    "ecli": "ECLI:CZ:OSMO:2020:13.C.205.2020.1",
+    "predmetRizeni": "1 306 Kč s příslušenstvím",
+    "datumVydani": "2020-09-29",
+    "datumZverejneni": "2020-10-26",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/10a3a621-c6fe-4324-a481-31d3a4afeada"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
