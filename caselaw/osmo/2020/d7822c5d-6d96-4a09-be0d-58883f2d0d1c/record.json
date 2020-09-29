@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:39.C.92.2020.2",
+  "docket": "39 C 92/2020-24",
+  "date": "2020-09-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-11-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d7822c5d-6d96-4a09-be0d-58883f2d0d1c",
+  "source_sha256": "899a3ba4fecdfe6c6ed4d97e7af89121baaefe70e739f7b9fb9f2664aceaa5e9",
+  "source_id": "d7822c5d-6d96-4a09-be0d-58883f2d0d1c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "39 C 92/2020-24",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Rudolf Malý",
+    "ecli": "ECLI:CZ:OSMO:2020:39.C.92.2020.2",
+    "predmetRizeni": "1 518 Kč s příslušenstvím",
+    "datumVydani": "2020-09-29",
+    "datumZverejneni": "2020-11-05",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  vyhl. č. 254/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d7822c5d-6d96-4a09-be0d-58883f2d0d1c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
