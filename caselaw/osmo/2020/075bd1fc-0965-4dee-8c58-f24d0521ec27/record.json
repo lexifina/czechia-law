@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:17.C.185.2020.2",
+  "docket": "17 C 185/2020-20",
+  "date": "2020-09-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/075bd1fc-0965-4dee-8c58-f24d0521ec27",
+  "source_sha256": "25aee614e0afa8a2b5169b0731f247a2bb7eb4e3848a6c9d4e971b01490857d7",
+  "source_id": "075bd1fc-0965-4dee-8c58-f24d0521ec27",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 185/2020-20",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Iva Flaxová",
+    "ecli": "ECLI:CZ:OSMO:2020:17.C.185.2020.2",
+    "predmetRizeni": "1 089 Kč s příslušenstvím",
+    "datumVydani": "2020-09-29",
+    "datumZverejneni": "2020-12-01",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§  z. č. 458/2000 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/075bd1fc-0965-4dee-8c58-f24d0521ec27"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
