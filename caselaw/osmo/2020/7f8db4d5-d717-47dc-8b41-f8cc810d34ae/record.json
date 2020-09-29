@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:17.C.193.2020.2",
+  "docket": "17 C 193/2020-22",
+  "date": "2020-09-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-11-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7f8db4d5-d717-47dc-8b41-f8cc810d34ae",
+  "source_sha256": "80f3a00b436d1835867e4f6438534855c08849c4252ef8819f35c9884e449dc0",
+  "source_id": "7f8db4d5-d717-47dc-8b41-f8cc810d34ae",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 193/2020-22",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Iva Flaxová",
+    "ecli": "ECLI:CZ:OSMO:2020:17.C.193.2020.2",
+    "predmetRizeni": "1 524 Kč s příslušenstvím",
+    "datumVydani": "2020-09-29",
+    "datumZverejneni": "2020-11-26",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7f8db4d5-d717-47dc-8b41-f8cc810d34ae"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
