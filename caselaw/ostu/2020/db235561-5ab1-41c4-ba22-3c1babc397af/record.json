@@ -1,0 +1,50 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2020:16.C.36.2018.1",
+  "docket": "16 C 36/2018-165",
+  "date": "2020-09-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/db235561-5ab1-41c4-ba22-3c1babc397af",
+  "source_sha256": "a36a07691b17568fe98efafd942ca74b997ee2df7fa842663c4b274348b3f7d3",
+  "source_id": "db235561-5ab1-41c4-ba22-3c1babc397af",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 36/2018-165",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "JUDr. Pavla Novotná",
+    "ecli": "ECLI:CZ:OSTU:2020:16.C.36.2018.1",
+    "predmetRizeni": "určení vlastnického práva k nemovitosti",
+    "datumVydani": "2020-09-29",
+    "datumZverejneni": "2021-08-13",
+    "klicovaSlova": [
+      "nepominutelný dědic",
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "podnájem",
+      "pozůstalost",
+      "smlouva darovací",
+      "věcná břemena",
+      "vrácení daru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§  vyhl. č. 333/2018 Sb.",
+      "§ 9 vyhl. č. 177/1996 Sb.",
+      "§ 741 z. č. 89/2012 Sb.",
+      "§ 764 z. č. 89/2012 Sb.",
+      "§ 2072 z. č. 89/2012 Sb.",
+      "§ 2075 z. č. 89/2012 Sb.",
+      "§ 630 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/db235561-5ab1-41c4-ba22-3c1babc397af"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
