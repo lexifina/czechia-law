@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:15.C.216.2020.2",
+  "docket": "15 C 216/2020-25",
+  "date": "2020-09-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-11-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/50a6bf55-75b6-4d42-819d-59c93494edce",
+  "source_sha256": "35fdfd03baf5899df75c3c65c4c15c2fa98458d5bbb218a161e6098346b2b4de",
+  "source_id": "50a6bf55-75b6-4d42-819d-59c93494edce",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 216/2020-25",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Radka Kryndlerová",
+    "ecli": "ECLI:CZ:OSMO:2020:15.C.216.2020.2",
+    "predmetRizeni": "1 531 Kč s příslušenstvím",
+    "datumVydani": "2020-09-29",
+    "datumZverejneni": "2020-11-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2782 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/50a6bf55-75b6-4d42-819d-59c93494edce"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
