@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:112.C.111.2019.1",
+  "docket": "112 C 111/2019-56",
+  "date": "2020-09-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6c4845d5-900e-4baf-b5c0-03e56dbf1262",
+  "source_sha256": "f24c6c0a04d24e29d70e17619d12112e87717715628184f8e9a72236922e06bc",
+  "source_id": "6c4845d5-900e-4baf-b5c0-03e56dbf1262",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "112 C 111/2019-56",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Ondřej Sekvard, , Ph.D.",
+    "ecli": "ECLI:CZ:MSBR:2020:112.C.111.2019.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-09-30",
+    "datumZverejneni": "2021-03-12",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 383 z. č. 292/2013 Sb.",
+      "§ 50 z. č. 91/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6c4845d5-900e-4baf-b5c0-03e56dbf1262"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
