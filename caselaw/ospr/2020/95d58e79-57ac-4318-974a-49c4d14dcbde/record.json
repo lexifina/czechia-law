@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2020:10.C.377.2016.1",
+  "docket": "10 C 377/2016-289",
+  "date": "2020-09-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/95d58e79-57ac-4318-974a-49c4d14dcbde",
+  "source_sha256": "40d8b61693a2d96219b0e33830e74e2c83d58e4ef33f51d68fe277351870f34d",
+  "source_id": "95d58e79-57ac-4318-974a-49c4d14dcbde",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 377/2016-289",
+    "soud": "Okresní soud v Přerově",
+    "autor": "Mgr. Anna Coufalová",
+    "ecli": "ECLI:CZ:OSPR:2020:10.C.377.2016.1",
+    "predmetRizeni": "zaplacení [částka] s přísl.- půjčka,",
+    "datumVydani": "2020-09-30",
+    "datumZverejneni": "2021-07-13",
+    "klicovaSlova": [
+      "dotace",
+      "ochrana osobnosti",
+      "peněžité plnění",
+      "podvod",
+      "smlouva o půjčce",
+      "uznání dluhu",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 8 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 118b z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/95d58e79-57ac-4318-974a-49c4d14dcbde"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
