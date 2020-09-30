@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPJ:2020:17.C.194.2020.1",
+  "docket": "17 C 194/2020-29",
+  "date": "2020-09-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1f540abe-7d7e-4953-8270-ce69d6ac14ec",
+  "source_sha256": "2e9752d1869e1c5a01e28e91675f8bd9f39c9ffc1c3a57a1ed6d308b56a54d84",
+  "source_id": "1f540abe-7d7e-4953-8270-ce69d6ac14ec",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 194/2020-29",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "JUDr. Petr Kulawiak",
+    "ecli": "ECLI:CZ:OSPJ:2020:17.C.194.2020.1",
+    "predmetRizeni": "O zaplacení 6 937,87 Kč s příslušenstvím",
+    "datumVydani": "2020-09-30",
+    "datumZverejneni": "2021-02-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  vyhl. č. 484/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1f540abe-7d7e-4953-8270-ce69d6ac14ec"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
