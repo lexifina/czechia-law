@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPJ:2020:17.C.173.2020.1",
+  "docket": "17 C 173/2020-35",
+  "date": "2020-09-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d656c922-ef31-429e-9568-64d4a53d64a8",
+  "source_sha256": "54362093af39e729193badd9f28e6c540661923ccf6eab335daf7e836e0abb37",
+  "source_id": "d656c922-ef31-429e-9568-64d4a53d64a8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 173/2020-35",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "JUDr. Petr Kulawiak",
+    "ecli": "ECLI:CZ:OSPJ:2020:17.C.173.2020.1",
+    "predmetRizeni": "O zaplacení 11 900 Kč s příslušenstvím",
+    "datumVydani": "2020-09-30",
+    "datumZverejneni": "2021-02-12",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 151 vyhl. č. 484/2000 Sb.",
+      "§ 51 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d656c922-ef31-429e-9568-64d4a53d64a8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
