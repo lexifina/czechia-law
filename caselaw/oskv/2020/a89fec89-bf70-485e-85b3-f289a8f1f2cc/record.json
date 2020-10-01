@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2020:41.C.197.2016.1",
+  "docket": "41 C 197/2016-336",
+  "date": "2020-10-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a89fec89-bf70-485e-85b3-f289a8f1f2cc",
+  "source_sha256": "125355c8bb362de9ee1aa013aa3056648355004123608e95d10c9ad7d0b15733",
+  "source_id": "a89fec89-bf70-485e-85b3-f289a8f1f2cc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "41 C 197/2016-336",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Kateřina Hendrichová",
+    "ecli": "ECLI:CZ:OSKV:2020:41.C.197.2016.1",
+    "predmetRizeni": "zřízení věcného břemene",
+    "datumVydani": "2020-10-01",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "služebnost",
+      "smlouva darovací",
+      "věcná břemena",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 141 z. č. 99/1963 Sb.",
+      "§ 1257 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a89fec89-bf70-485e-85b3-f289a8f1f2cc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
