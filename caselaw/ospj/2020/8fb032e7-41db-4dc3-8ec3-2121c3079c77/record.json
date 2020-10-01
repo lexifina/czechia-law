@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPJ:2020:17.C.8.2020.1",
+  "docket": "17 C 8/2020-39",
+  "date": "2020-10-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8fb032e7-41db-4dc3-8ec3-2121c3079c77",
+  "source_sha256": "2ce0ee12f465c4838d358795446ffea984547fc17a638393aec498f1b446ea0b",
+  "source_id": "8fb032e7-41db-4dc3-8ec3-2121c3079c77",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 8/2020-39",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "JUDr. Petr Kulawiak",
+    "ecli": "ECLI:CZ:OSPJ:2020:17.C.8.2020.1",
+    "predmetRizeni": "o zrušení vyživovací povinnosti",
+    "datumVydani": "2020-10-01",
+    "datumZverejneni": "2021-02-12",
+    "klicovaSlova": [
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8fb032e7-41db-4dc3-8ec3-2121c3079c77"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
