@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:60.C.55.2020.5",
+  "docket": "60 C 55/2020-32",
+  "date": "2020-10-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-11-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4e1806fb-28a1-42a1-9373-9380be25019e",
+  "source_sha256": "77e5b81868c7167f704af603c19b3fa8c7c9ed76fd5cc4003f31ec86affc3705",
+  "source_id": "4e1806fb-28a1-42a1-9373-9380be25019e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "60 C 55/2020-32",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Karel Štička",
+    "ecli": "ECLI:CZ:OSMO:2020:60.C.55.2020.5",
+    "predmetRizeni": "35 551 Kč s příslušenstvím",
+    "datumVydani": "2020-10-02",
+    "datumZverejneni": "2020-11-18",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 133 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2053 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4e1806fb-28a1-42a1-9373-9380be25019e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
