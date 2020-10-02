@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Vrchní soud v Praze",
+  "ecli": "ECLI:CZ:VSPH:2020:47.C.2.2020.1",
+  "docket": "47 C 2/2020-29",
+  "date": "2020-10-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bba0f8eb-b1cc-44ff-9762-7dd33bd851c3",
+  "source_sha256": "7f178d12e41d693a4f0e8b6899c675514de32a0288896a3f656010eaab47ebcc",
+  "source_id": "bba0f8eb-b1cc-44ff-9762-7dd33bd851c3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "47 C 2/2020-29",
+    "soud": "Vrchní soud v Praze",
+    "autor": "Mgr. Pavel Suchý",
+    "ecli": "ECLI:CZ:VSPH:2020:47.C.2.2020.1",
+    "predmetRizeni": "o povolení vkladu zástavního k nemovitostem do katastru nemovitostí,",
+    "datumVydani": "2020-10-02",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "obchodní společnost",
+      "smlouva zástavní",
+      "zástavní právo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 246 z. č. 99/1963 Sb.",
+      "§ 250i z. č. 99/1963 Sb.",
+      "§ 1312 z. č. 89/2012 Sb.",
+      "§ 1 z. č. 256/2013 Sb.",
+      "§ 17 z. č. 256/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bba0f8eb-b1cc-44ff-9762-7dd33bd851c3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
