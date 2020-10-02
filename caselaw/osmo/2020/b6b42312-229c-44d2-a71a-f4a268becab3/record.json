@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:12.C.258.2020.2",
+  "docket": "12 C 258/2020-22",
+  "date": "2020-10-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-11-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b6b42312-229c-44d2-a71a-f4a268becab3",
+  "source_sha256": "d6a59c8c44c480c38e693af4d7408d5f29c0e7c9256953a92b15e0e5807dba90",
+  "source_id": "b6b42312-229c-44d2-a71a-f4a268becab3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 258/2020-22",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Romana Malá",
+    "ecli": "ECLI:CZ:OSMO:2020:12.C.258.2020.2",
+    "predmetRizeni": "2 000 Kč",
+    "datumVydani": "2020-10-02",
+    "datumZverejneni": "2020-11-30",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b6b42312-229c-44d2-a71a-f4a268becab3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
