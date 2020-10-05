@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2020:37.C.23.2017.5",
+  "docket": "37 C 23/2017-280",
+  "date": "2020-10-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4dd2f9bd-0dc6-489d-9fa4-1b28d62c90f6",
+  "source_sha256": "306b80f509621dc9b6b1710293550de34b9285c28070fa7b54178f27701e7024",
+  "source_id": "4dd2f9bd-0dc6-489d-9fa4-1b28d62c90f6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "37 C 23/2017-280",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "Mgr. Karolína Šorbanová",
+    "ecli": "ECLI:CZ:OSPH02:2020:37.C.23.2017.5",
+    "predmetRizeni": "o 62.800 Kč s přísl.",
+    "datumVydani": "2020-10-05",
+    "datumZverejneni": "2021-04-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 1 vyhl. č. 254/2015 Sb.",
+      "§ 145 z. č. 40/2009 Sb.",
+      "§ 2 z. č. 37/2004 Sb.",
+      "§ 146 z. č. 40/2009 Sb.",
+      "§ 358 z. č. 40/2009 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4dd2f9bd-0dc6-489d-9fa4-1b28d62c90f6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
