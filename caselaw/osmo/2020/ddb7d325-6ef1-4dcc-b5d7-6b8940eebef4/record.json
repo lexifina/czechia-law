@@ -1,0 +1,48 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:32.C.123.2020.1",
+  "docket": "32 C 123/2020-36",
+  "date": "2020-10-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ddb7d325-6ef1-4dcc-b5d7-6b8940eebef4",
+  "source_sha256": "01cb69f0df90a8d9b3e63f2c0e5d8a3c5747c26239b8d74418ddc7f7326e4eae",
+  "source_id": "ddb7d325-6ef1-4dcc-b5d7-6b8940eebef4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "32 C 123/2020-36",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Bc. Zdeněk Piskač",
+    "ecli": "ECLI:CZ:OSMO:2020:32.C.123.2020.1",
+    "predmetRizeni": "12 202,46 Kč s příslušenstvím",
+    "datumVydani": "2020-10-06",
+    "datumZverejneni": "2021-01-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "podnájem",
+      "postoupení pohledávky",
+      "smlouva o běžném účtu",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 1 nař. vl. č. 142/1994 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§  z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ddb7d325-6ef1-4dcc-b5d7-6b8940eebef4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
