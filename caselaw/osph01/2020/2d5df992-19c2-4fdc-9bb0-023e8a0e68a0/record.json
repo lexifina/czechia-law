@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2020:65.C.222.2019.1",
+  "docket": "65 C 222/2019",
+  "date": "2020-10-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2d5df992-19c2-4fdc-9bb0-023e8a0e68a0",
+  "source_sha256": "367de42e3712fafdae452c2df673fb3ee2050cc37b13e7dc9f42dcdbfd8d3f0e",
+  "source_id": "2d5df992-19c2-4fdc-9bb0-023e8a0e68a0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "65 C 222/2019",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Jiří Kohoutek",
+    "ecli": "ECLI:CZ:OSPH01:2020:65.C.222.2019.1",
+    "predmetRizeni": "o zaplacení 77 131 Kč s příslušenstvím",
+    "datumVydani": "2020-10-06",
+    "datumZverejneni": "2021-11-02",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "nájem bytu",
+      "peněžité plnění",
+      "vyklizení bytu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 89a z. č. 120/2001 Sb.",
+      "§ 2235 z. č. 89/2012 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 2246 z. č. 89/2012 Sb.",
+      "§ 2236 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2d5df992-19c2-4fdc-9bb0-023e8a0e68a0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
