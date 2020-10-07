@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2020:4.C.264.2018.1",
+  "docket": "4 C 264/2018-309",
+  "date": "2020-10-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/92e4d2e4-65bf-4a5f-9dcb-d3b659960724",
+  "source_sha256": "c4ead9e65ac49d6141c73c76bcbb4586a8ed7126bd3b66332911d6620970afcf",
+  "source_id": "92e4d2e4-65bf-4a5f-9dcb-d3b659960724",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 264/2018-309",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "Mgr. Alena Štětinová",
+    "ecli": "ECLI:CZ:OSKT:2020:4.C.264.2018.1",
+    "predmetRizeni": "zaplacení [částka] s přísl.",
+    "datumVydani": "2020-10-07",
+    "datumZverejneni": "2021-11-12",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "podílové spoluvlastnictví",
+      "smlouva o úvěru",
+      "smlouva příkazní",
+      "spoluvlastnictví",
+      "vrácení daru",
+      "vypořádání SJM"
+    ],
+    "zminenaUstanoveni": [
+      "§ 609 z. č. 89/2012 Sb.",
+      "§ 101 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/92e4d2e4-65bf-4a5f-9dcb-d3b659960724"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
