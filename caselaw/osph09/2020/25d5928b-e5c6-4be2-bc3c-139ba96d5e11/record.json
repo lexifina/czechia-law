@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2020:40.C.192.2019.1",
+  "docket": "40 C 192/2019-91",
+  "date": "2020-10-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/25d5928b-e5c6-4be2-bc3c-139ba96d5e11",
+  "source_sha256": "f6369c4a1f728b81c8c8d8e432ed712cab0f791cbcb783eca068f5c27415abe9",
+  "source_id": "25d5928b-e5c6-4be2-bc3c-139ba96d5e11",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "40 C 192/2019-91",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "JUDr. Iva Jablonská",
+    "ecli": "ECLI:CZ:OSPH09:2020:40.C.192.2019.1",
+    "predmetRizeni": "žaloba na vyloučení věci z exekuce",
+    "datumVydani": "2020-10-07",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "držba",
+      "peněžité plnění",
+      "převod vlastnictví",
+      "smlouva kupní",
+      "zástavní právo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 z. č. 99/1963 Sb.",
+      "§ 267 z. č. 99/1963 Sb.",
+      "§ 44a z. č. 120/2001 Sb.",
+      "§ 47 z. č. 120/2001 Sb.",
+      "§  z. č. 49/1997 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/25d5928b-e5c6-4be2-bc3c-139ba96d5e11"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
