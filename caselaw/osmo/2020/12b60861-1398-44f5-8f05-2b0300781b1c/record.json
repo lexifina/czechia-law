@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:12.C.263.2020.2",
+  "docket": "12 C 263/2020-22",
+  "date": "2020-10-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-11-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/12b60861-1398-44f5-8f05-2b0300781b1c",
+  "source_sha256": "4e1132bd14cf9a38abbf8f639a238198ea3c9147500fe4adf5f872b285764a5b",
+  "source_id": "12b60861-1398-44f5-8f05-2b0300781b1c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 263/2020-22",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Romana Malá",
+    "ecli": "ECLI:CZ:OSMO:2020:12.C.263.2020.2",
+    "predmetRizeni": "5 000 Kč s příslušenstvím",
+    "datumVydani": "2020-10-07",
+    "datumZverejneni": "2020-11-18",
+    "klicovaSlova": [
+      "korporace",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/12b60861-1398-44f5-8f05-2b0300781b1c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
