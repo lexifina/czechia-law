@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chrudimi",
+  "ecli": "ECLI:CZ:OSCR:2020:12.C.152.2020.1",
+  "docket": "12 C 152/2020-65",
+  "date": "2020-10-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/247bd756-b4b4-4145-b872-39d323d2d03c",
+  "source_sha256": "59ce5f3fbff7a204c327f4acb66283a51c5980f370efe76d7eeac66c82236c0a",
+  "source_id": "247bd756-b4b4-4145-b872-39d323d2d03c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 152/2020-65",
+    "soud": "Okresní soud v Chrudimi",
+    "autor": "Mgr. Eva Bačkovská",
+    "ecli": "ECLI:CZ:OSCR:2020:12.C.152.2020.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2020-10-07",
+    "datumZverejneni": "2021-03-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění úvěru",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2051 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/247bd756-b4b4-4145-b872-39d323d2d03c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
