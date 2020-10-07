@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:22.C.84.2020.3",
+  "docket": "22 C 84/2020-72",
+  "date": "2020-10-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6dcc8335-6ede-4bee-a452-c8d77231450d",
+  "source_sha256": "4c474992fa0a9d5337d65cb434db2369fe340450ae7ae860d64b8298fcfdd3d9",
+  "source_id": "6dcc8335-6ede-4bee-a452-c8d77231450d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 84/2020-72",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Denisa Hamerská",
+    "ecli": "ECLI:CZ:OSMO:2020:22.C.84.2020.3",
+    "predmetRizeni": "výživné neprovdané matce",
+    "datumVydani": "2020-10-07",
+    "datumZverejneni": "2021-01-21",
+    "klicovaSlova": [
+      "příspěvek na bydlení",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 913 z. č. 89/2012 Sb.",
+      "§ 922 z. č. 89/2012 Sb.",
+      "§ 920 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6dcc8335-6ede-4bee-a452-c8d77231450d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
