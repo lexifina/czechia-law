@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2020:15.C.159.2020.1",
+  "docket": "15 C 159/2020-20",
+  "date": "2020-10-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/27ce6090-dd7a-481e-b79a-d99a67bed038",
+  "source_sha256": "c7badeb8e5ff95923688df5183884626e6dbe67b20111129e8d4228c06419890",
+  "source_id": "27ce6090-dd7a-481e-b79a-d99a67bed038",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 159/2020-20",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Radek Paclík",
+    "ecli": "ECLI:CZ:OSPH01:2020:15.C.159.2020.1",
+    "predmetRizeni": "o zaplacení 1 524 Kč s příslušenstvím",
+    "datumVydani": "2020-10-08",
+    "datumZverejneni": "2021-03-31",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 49 vyhl. č. 175/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/27ce6090-dd7a-481e-b79a-d99a67bed038"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
