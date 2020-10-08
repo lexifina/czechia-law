@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:15.C.62.2020.2",
+  "docket": "15 C 62/2020-22",
+  "date": "2020-10-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-10-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/faa58017-8ffc-4741-a630-2a482794116a",
+  "source_sha256": "fee5b549aabebd9badf6dc7ab55371fded978ecf1e5413db746d002ec1a7f295",
+  "source_id": "faa58017-8ffc-4741-a630-2a482794116a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 62/2020-22",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Radka Kryndlerová",
+    "ecli": "ECLI:CZ:OSMO:2020:15.C.62.2020.2",
+    "predmetRizeni": "1 859 Kč s příslušenstvím",
+    "datumVydani": "2020-10-08",
+    "datumZverejneni": "2020-10-26",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/faa58017-8ffc-4741-a630-2a482794116a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
