@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:11.C.222.2020.2",
+  "docket": "11 C 222/2020-19",
+  "date": "2020-10-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-11-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3562a469-9e73-40b3-8bcb-3372594f0dcd",
+  "source_sha256": "17bf8494c23321a2f303cbbc3bcd80174d12ce1f8e59838bef2b9525d19ab955",
+  "source_id": "3562a469-9e73-40b3-8bcb-3372594f0dcd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 222/2020-19",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Jan Musil",
+    "ecli": "ECLI:CZ:OSMO:2020:11.C.222.2020.2",
+    "predmetRizeni": "2 800 Kč s příslušenstvím",
+    "datumVydani": "2020-10-12",
+    "datumZverejneni": "2020-11-18",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2392 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3562a469-9e73-40b3-8bcb-3372594f0dcd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
