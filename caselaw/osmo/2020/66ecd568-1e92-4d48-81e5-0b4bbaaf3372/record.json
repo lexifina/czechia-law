@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:11.C.221.2020.2",
+  "docket": "11 C 221/2020-17",
+  "date": "2020-10-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-11-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/66ecd568-1e92-4d48-81e5-0b4bbaaf3372",
+  "source_sha256": "89ea904f340736612713df54d9c20decc057643dd43e6ad325c8e8e98415f3b8",
+  "source_id": "66ecd568-1e92-4d48-81e5-0b4bbaaf3372",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 221/2020-17",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Jan Musil",
+    "ecli": "ECLI:CZ:OSMO:2020:11.C.221.2020.2",
+    "predmetRizeni": "851 Kč s příslušenstvím",
+    "datumVydani": "2020-10-12",
+    "datumZverejneni": "2020-11-18",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/66ecd568-1e92-4d48-81e5-0b4bbaaf3372"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
