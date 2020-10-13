@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:13.C.223.2020.1",
+  "docket": "13 C 223/2020-22",
+  "date": "2020-10-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-11-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5a2d9cc4-a722-49e3-a427-fcbcc51b7139",
+  "source_sha256": "6f93586cad77dd36049546032b0e4c3cc017e71deb1db4619cfbf431f3528c93",
+  "source_id": "5a2d9cc4-a722-49e3-a427-fcbcc51b7139",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 223/2020-22",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Ludmila Vlčková",
+    "ecli": "ECLI:CZ:OSMO:2020:13.C.223.2020.1",
+    "predmetRizeni": "2 893 Kč s příslušenstvím",
+    "datumVydani": "2020-10-13",
+    "datumZverejneni": "2020-11-05",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 137 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5a2d9cc4-a722-49e3-a427-fcbcc51b7139"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
