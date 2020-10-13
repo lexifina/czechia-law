@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:13.C.220.2020.1",
+  "docket": "13 C 220/2020-20",
+  "date": "2020-10-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-11-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b9ca832f-b48a-4f9a-af81-2fdc8aff02ce",
+  "source_sha256": "3f6d73f63e41367bb8c1bd616d7c00512ed671c6253a94ec9c5b55fbb220a873",
+  "source_id": "b9ca832f-b48a-4f9a-af81-2fdc8aff02ce",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 220/2020-20",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Ludmila Vlčková",
+    "ecli": "ECLI:CZ:OSMO:2020:13.C.220.2020.1",
+    "predmetRizeni": "7 905 Kč s příslušenstvím",
+    "datumVydani": "2020-10-13",
+    "datumZverejneni": "2020-11-05",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 15 z. č. 168/1999 Sb.",
+      "§  vyhl. č. 205/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b9ca832f-b48a-4f9a-af81-2fdc8aff02ce"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
