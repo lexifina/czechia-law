@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2020:58.C.215.2020.2",
+  "docket": "58 C 215/2020-44",
+  "date": "2020-10-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/591ea27e-174f-4ac3-9a92-74e7c22c634f",
+  "source_sha256": "f5dafe26f7d819d57e9013277ac6b399efc4da6b4e81197f704ca92487db5d1a",
+  "source_id": "591ea27e-174f-4ac3-9a92-74e7c22c634f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "58 C 215/2020-44",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Adam Urbańczyk",
+    "ecli": "ECLI:CZ:OSOV:2020:58.C.215.2020.2",
+    "predmetRizeni": "o zaplacení 2 000 Kč s příslušenstvím",
+    "datumVydani": "2020-10-13",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "elektronický podpis",
+      "omezení svéprávnosti",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 573 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/591ea27e-174f-4ac3-9a92-74e7c22c634f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
