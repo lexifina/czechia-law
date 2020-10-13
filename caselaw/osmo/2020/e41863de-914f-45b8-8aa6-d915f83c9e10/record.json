@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:44.C.92.2020.2",
+  "docket": "44 C 92/2020-25",
+  "date": "2020-10-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-11-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e41863de-914f-45b8-8aa6-d915f83c9e10",
+  "source_sha256": "461a73735723757943f6f5434fa30212afb663970e708ed435ce2c2a191dbb15",
+  "source_id": "e41863de-914f-45b8-8aa6-d915f83c9e10",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "44 C 92/2020-25",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Jana Davidová",
+    "ecli": "ECLI:CZ:OSMO:2020:44.C.92.2020.2",
+    "predmetRizeni": "2 441 Kč s příslušenstvím",
+    "datumVydani": "2020-10-13",
+    "datumZverejneni": "2020-11-06",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§  z. č. 458/2000 Sb.",
+      "§ 524 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e41863de-914f-45b8-8aa6-d915f83c9e10"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
