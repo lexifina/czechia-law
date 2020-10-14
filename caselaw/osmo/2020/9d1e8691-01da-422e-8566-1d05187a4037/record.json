@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:12.C.209.2020.3",
+  "docket": "12 C 209/2020-23",
+  "date": "2020-10-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9d1e8691-01da-422e-8566-1d05187a4037",
+  "source_sha256": "f79e2cfdd41fdb4602d8d74b1196a7f619a40ad30b20f0ac79142d4006876d59",
+  "source_id": "9d1e8691-01da-422e-8566-1d05187a4037",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 209/2020-23",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Romana Malá",
+    "ecli": "ECLI:CZ:OSMO:2020:12.C.209.2020.3",
+    "predmetRizeni": "33 775 Kč s příslušenstvím",
+    "datumVydani": "2020-10-14",
+    "datumZverejneni": "2020-12-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9d1e8691-01da-422e-8566-1d05187a4037"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
