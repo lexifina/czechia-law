@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:15.C.268.2020.1",
+  "docket": "15 C 268/2020-23",
+  "date": "2020-10-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5bdb2afa-3eb0-4221-b656-ffbb79cb15a0",
+  "source_sha256": "313a46ca829de6f9a6de124064e4a027cbce7d18d13457ca21f641ee27845bc6",
+  "source_id": "5bdb2afa-3eb0-4221-b656-ffbb79cb15a0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 268/2020-23",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Radka Kryndlerová",
+    "ecli": "ECLI:CZ:OSMO:2020:15.C.268.2020.1",
+    "predmetRizeni": "1 000 Kč s příslušenstvím",
+    "datumVydani": "2020-10-15",
+    "datumZverejneni": "2020-12-01",
+    "klicovaSlova": [
+      "korporace",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 118 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5bdb2afa-3eb0-4221-b656-ffbb79cb15a0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
