@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:39.C.203.2020.2",
+  "docket": "39 C 203/2020-24",
+  "date": "2020-10-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d1406ec7-8681-486b-84f4-dc42b47fc728",
+  "source_sha256": "af59347c7e11942fdb600522f5a313e287379298695a60bc1a8bd343d9266d3f",
+  "source_id": "d1406ec7-8681-486b-84f4-dc42b47fc728",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "39 C 203/2020-24",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Rudolf Malý",
+    "ecli": "ECLI:CZ:OSMO:2020:39.C.203.2020.2",
+    "predmetRizeni": "1 521 Kč s příslušenstvím",
+    "datumVydani": "2020-10-15",
+    "datumZverejneni": "2021-01-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d1406ec7-8681-486b-84f4-dc42b47fc728"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
