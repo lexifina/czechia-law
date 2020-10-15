@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Havlíčkově Brodě",
+  "ecli": "ECLI:CZ:OSHB:2020:8.C.19.2020.2",
+  "docket": "8 C 19/2020-67",
+  "date": "2020-10-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/772eb06d-0450-437c-ae0d-3729331f2110",
+  "source_sha256": "ba0cfc195f1016650ec66f73bd028d6ec81be211961a5339b9451fb7d3f3cad2",
+  "source_id": "772eb06d-0450-437c-ae0d-3729331f2110",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 19/2020-67",
+    "soud": "Okresní soud v Havlíčkově Brodě",
+    "autor": "JUDr. Iveta Orlíková",
+    "ecli": "ECLI:CZ:OSHB:2020:8.C.19.2020.2",
+    "predmetRizeni": "zaplacení 7.042,95 Kč s příslušenstvím",
+    "datumVydani": "2020-10-15",
+    "datumZverejneni": "2021-10-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 157 vyhl. č. 358/2019 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/772eb06d-0450-437c-ae0d-3729331f2110"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
