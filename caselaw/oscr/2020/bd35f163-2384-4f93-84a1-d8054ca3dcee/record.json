@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chrudimi",
+  "ecli": "ECLI:CZ:OSCR:2020:3.C.285.2019.1",
+  "docket": "3 C 285/2019-68",
+  "date": "2020-10-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bd35f163-2384-4f93-84a1-d8054ca3dcee",
+  "source_sha256": "fa390ae6377ffef2317b7b329f95862326d04d9a15ba091d4720e2258f940d22",
+  "source_id": "bd35f163-2384-4f93-84a1-d8054ca3dcee",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 285/2019-68",
+    "soud": "Okresní soud v Chrudimi",
+    "autor": "JUDr. Jana Profousová",
+    "ecli": "ECLI:CZ:OSCR:2020:3.C.285.2019.1",
+    "predmetRizeni": "o 110 000 Kč s příslušenstvím",
+    "datumVydani": "2020-10-15",
+    "datumZverejneni": "2021-05-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "podvod",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 2051 z. č. 89/2012 Sb.",
+      "§ 1796 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 89/2012 Sb.",
+      "§ 1805 z. č. 89/2012 Sb.",
+      "§ 1972 z. č. 89/2012 Sb.",
+      "§ 1964 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bd35f163-2384-4f93-84a1-d8054ca3dcee"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
