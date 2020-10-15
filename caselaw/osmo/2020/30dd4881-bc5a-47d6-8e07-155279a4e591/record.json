@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:13.C.221.2020.1",
+  "docket": "13 C 221/2020-21",
+  "date": "2020-10-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-11-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/30dd4881-bc5a-47d6-8e07-155279a4e591",
+  "source_sha256": "ff5babd82e6b352a2c3535e045070c3251801099c802a094cc7580a46d9d0bf9",
+  "source_id": "30dd4881-bc5a-47d6-8e07-155279a4e591",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 221/2020-21",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Ludmila Vlčková",
+    "ecli": "ECLI:CZ:OSMO:2020:13.C.221.2020.1",
+    "predmetRizeni": "24 542 Kč s příslušenstvím",
+    "datumVydani": "2020-10-15",
+    "datumZverejneni": "2020-11-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 517 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/30dd4881-bc5a-47d6-8e07-155279a4e591"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
