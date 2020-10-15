@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Krajský soud v Plzni",
+  "ecli": "ECLI:CZ:OSPJ:2020:17.C.142.2019.1",
+  "docket": "17 C 142/2019-198",
+  "date": "2020-10-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4217301f-55b3-4118-b6ae-ec5a2fc17ee6",
+  "source_sha256": "3564febccbc3cd6dc215b8490e2b1413f8ed9817232832218f06110d414fdf6d",
+  "source_id": "4217301f-55b3-4118-b6ae-ec5a2fc17ee6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 142/2019-198",
+    "soud": "Krajský soud v Plzni",
+    "autor": "JUDr. Zdeněk Pulkrábek",
+    "ecli": "ECLI:CZ:OSPJ:2020:17.C.142.2019.1",
+    "predmetRizeni": "O určení vlastnictví bytové jednotky",
+    "datumVydani": "2020-10-15",
+    "datumZverejneni": "2021-02-12",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "převod vlastnictví",
+      "smlouva kupní",
+      "společné jmění manželů",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§ 224 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 89/2012 Sb.",
+      "§ 1796 z. č. 89/2012 Sb.",
+      "§ 151 vyhl. č. 177/1996 Sb.",
+      "§ 764 z. č. 89/2012 Sb.",
+      "§ 205a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4217301f-55b3-4118-b6ae-ec5a2fc17ee6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
