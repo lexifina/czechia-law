@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:11.C.240.2020.2",
+  "docket": "11 C 240/2020-20",
+  "date": "2020-10-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-11-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/32f15c25-3e70-48ce-87b9-1c4e252ba093",
+  "source_sha256": "fc39c3cc461593ad1cd25aa61637023191c2c375c7791444fb1a4ad0ca086f4e",
+  "source_id": "32f15c25-3e70-48ce-87b9-1c4e252ba093",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 240/2020-20",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Jan Musil",
+    "ecli": "ECLI:CZ:OSMO:2020:11.C.240.2020.2",
+    "predmetRizeni": "4 577,93 Kč s příslušenstvím",
+    "datumVydani": "2020-10-19",
+    "datumZverejneni": "2020-11-30",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 56 z. č. 458/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/32f15c25-3e70-48ce-87b9-1c4e252ba093"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
