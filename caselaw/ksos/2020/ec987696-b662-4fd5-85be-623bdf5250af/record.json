@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Krajský soud v Ostravě",
+  "ecli": "ECLI:CZ:KSOS:2020:83.C.53.2019.1",
+  "docket": "83 C 53/2019-100",
+  "date": "2020-10-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ec987696-b662-4fd5-85be-623bdf5250af",
+  "source_sha256": "21bb3baa9cb7ee6928db015e81a952c1fd94aa509377906e157fa292cb5bd97e",
+  "source_id": "ec987696-b662-4fd5-85be-623bdf5250af",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "83 C 53/2019-100",
+    "soud": "Krajský soud v Ostravě",
+    "autor": "JUDr. Eva Zavrtálková",
+    "ecli": "ECLI:CZ:KSOS:2020:83.C.53.2019.1",
+    "predmetRizeni": "o zrušení rozhodčího nálezu s návrhem na odklad jeho vykonatelnosti",
+    "datumVydani": "2020-10-19",
+    "datumZverejneni": "2021-07-30",
+    "klicovaSlova": [
+      "pasivní legitimace",
+      "podnájem",
+      "rozhodčí doložka",
+      "rozhodčí řízení",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 419 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 14a vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/96 Sb.",
+      "§ 31 z. č. 216/94 Sb.",
+      "§ 41 z. č. 216/94 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ec987696-b662-4fd5-85be-623bdf5250af"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
