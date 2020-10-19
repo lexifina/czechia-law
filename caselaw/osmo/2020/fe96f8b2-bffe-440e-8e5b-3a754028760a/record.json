@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:11.C.244.2020.2",
+  "docket": "11 C 244/2020-17",
+  "date": "2020-10-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-11-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fe96f8b2-bffe-440e-8e5b-3a754028760a",
+  "source_sha256": "084d23c39744dfe1892e1910b36e9f20f44f2b323c6371ddc54c1694be26cffa",
+  "source_id": "fe96f8b2-bffe-440e-8e5b-3a754028760a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 244/2020-17",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Jan Musil",
+    "ecli": "ECLI:CZ:OSMO:2020:11.C.244.2020.2",
+    "predmetRizeni": "6 976 Kč s příslušenstvím",
+    "datumVydani": "2020-10-19",
+    "datumZverejneni": "2020-11-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fe96f8b2-bffe-440e-8e5b-3a754028760a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
