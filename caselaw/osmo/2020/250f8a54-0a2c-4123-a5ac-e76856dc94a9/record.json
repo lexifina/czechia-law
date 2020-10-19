@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:50.C.78.2020.2",
+  "docket": "50 C 78/2020-29",
+  "date": "2020-10-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/250f8a54-0a2c-4123-a5ac-e76856dc94a9",
+  "source_sha256": "1f645be36193a7acef7085fa72c3d924b6cdefc6c05da17c842e87ab7dc55617",
+  "source_id": "250f8a54-0a2c-4123-a5ac-e76856dc94a9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "50 C 78/2020-29",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Marian Heres",
+    "ecli": "ECLI:CZ:OSMO:2020:50.C.78.2020.2",
+    "predmetRizeni": "14 544,25 Kč s příslušenstvím",
+    "datumVydani": "2020-10-19",
+    "datumZverejneni": "2021-01-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/250f8a54-0a2c-4123-a5ac-e76856dc94a9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
