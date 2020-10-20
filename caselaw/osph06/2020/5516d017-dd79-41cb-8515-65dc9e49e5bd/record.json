@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2020:33.C.35.2019.1",
+  "docket": "33 C 35/2019-40",
+  "date": "2020-10-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5516d017-dd79-41cb-8515-65dc9e49e5bd",
+  "source_sha256": "1aba0e6a3a929104be480943beff23a8caca193cf8ec8df7e61c7e95920b0c86",
+  "source_id": "5516d017-dd79-41cb-8515-65dc9e49e5bd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "33 C 35/2019-40",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "Mgr. Tomáš Lehovec",
+    "ecli": "ECLI:CZ:OSPH06:2020:33.C.35.2019.1",
+    "predmetRizeni": "o zaplacení částky 400 euro s příslušenstvím",
+    "datumVydani": "2020-10-20",
+    "datumZverejneni": "2021-07-01",
+    "klicovaSlova": [
+      "cizina",
+      "peněžité plnění",
+      "smlouva cestovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5516d017-dd79-41cb-8515-65dc9e49e5bd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
