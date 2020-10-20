@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Orlicí",
+  "ecli": "ECLI:CZ:OSUO:2020:305.C.1.2020.1",
+  "docket": "305 C 1/2020-67",
+  "date": "2020-10-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fe815155-530c-49cb-a61d-a3ae63133b2a",
+  "source_sha256": "e9ae7d0c05a1d458aa7e52e914cc3fe5b00bed750351f00beb8861672dceaff1",
+  "source_id": "fe815155-530c-49cb-a61d-a3ae63133b2a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "305 C 1/2020-67",
+    "soud": "Okresní soud v Ústí nad Orlicí",
+    "autor": "JUDr. Dana Anderová",
+    "ecli": "ECLI:CZ:OSUO:2020:305.C.1.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-10-20",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "smlouva o půjčce",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1802 z. č. 89/2012 Sb.",
+      "§ 1798 z. č. 89/2012 Sb.",
+      "§ 433 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fe815155-530c-49cb-a61d-a3ae63133b2a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
