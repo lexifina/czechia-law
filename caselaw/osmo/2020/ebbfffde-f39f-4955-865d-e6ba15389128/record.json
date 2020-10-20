@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:39.C.158.2020.2",
+  "docket": "39 C 158/2020-22",
+  "date": "2020-10-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ebbfffde-f39f-4955-865d-e6ba15389128",
+  "source_sha256": "804647c2b5fd03d3dba9f449fe9155ae8c48fb4f5dcd30a44a60715f7170f863",
+  "source_id": "ebbfffde-f39f-4955-865d-e6ba15389128",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "39 C 158/2020-22",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Rudolf Malý",
+    "ecli": "ECLI:CZ:OSMO:2020:39.C.158.2020.2",
+    "predmetRizeni": "3 500 Kč s příslušenstvím",
+    "datumVydani": "2020-10-20",
+    "datumZverejneni": "2021-01-20",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 1 nař. vl. č. 351/2013 Sb.",
+      "§ 115 z. č. 99/1963 Sb.",
+      "§ 19 z. č. 13/1997 Sb.",
+      "§ 45 z. č. 361/2000 Sb.",
+      "§ 27 z. č. 361/2000 Sb.",
+      "§ 19 z. č. 13/1975 Sb.",
+      "§ 2 z. č. 235/2004 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ebbfffde-f39f-4955-865d-e6ba15389128"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
