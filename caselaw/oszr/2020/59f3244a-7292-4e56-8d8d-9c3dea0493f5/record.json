@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2020:13.C.115.2020.1",
+  "docket": "13 C 115/2020-98",
+  "date": "2020-10-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/59f3244a-7292-4e56-8d8d-9c3dea0493f5",
+  "source_sha256": "02573b1e6da37f91835a694195df46fc9baa35adb1dad8a9420ff73cad630c97",
+  "source_id": "59f3244a-7292-4e56-8d8d-9c3dea0493f5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 115/2020-98",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "Mgr. Eva Drahozalová",
+    "ecli": "ECLI:CZ:OSZR:2020:13.C.115.2020.1",
+    "predmetRizeni": "zaplacení 131 000 Kč s přísl.",
+    "datumVydani": "2020-10-20",
+    "datumZverejneni": "2021-07-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 261 z. č. 513/1991 Sb.",
+      "§ 497 z. č. 513/1991 Sb.",
+      "§ 502 z. č. 513/1991 Sb.",
+      "§ 262 z. č. 513/1991 Sb.",
+      "§ 503 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/59f3244a-7292-4e56-8d8d-9c3dea0493f5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
