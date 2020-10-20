@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:17.C.251.2020.2",
+  "docket": "17 C 251/2020-24",
+  "date": "2020-10-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0c336f25-0587-49f7-93c0-c6d82ae76263",
+  "source_sha256": "edadfd5d9eea9e099437cb4421b2f600e83c90faf497c42124057b47a52644ce",
+  "source_id": "0c336f25-0587-49f7-93c0-c6d82ae76263",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 251/2020-24",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Iva Flaxová",
+    "ecli": "ECLI:CZ:OSMO:2020:17.C.251.2020.2",
+    "predmetRizeni": "43 196 Kč s příslušenstvím",
+    "datumVydani": "2020-10-20",
+    "datumZverejneni": "2020-12-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0c336f25-0587-49f7-93c0-c6d82ae76263"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
