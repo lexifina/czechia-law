@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPJ:2020:10.C.133.2020.2",
+  "docket": "10 C 133/2020-18",
+  "date": "2020-10-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/35fe9e45-3e17-4ab0-b58a-3fb4b94b835f",
+  "source_sha256": "cc8912a0213f00cfb0cd4613edcfd73eace2ad9c8dc66f67a30f7b3709584662",
+  "source_id": "35fe9e45-3e17-4ab0-b58a-3fb4b94b835f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 133/2020-18",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Blanka Šibrová",
+    "ecli": "ECLI:CZ:OSPJ:2020:10.C.133.2020.2",
+    "predmetRizeni": "[částka] s přísl.",
+    "datumVydani": "2020-10-21",
+    "datumZverejneni": "2021-01-21",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/35fe9e45-3e17-4ab0-b58a-3fb4b94b835f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
