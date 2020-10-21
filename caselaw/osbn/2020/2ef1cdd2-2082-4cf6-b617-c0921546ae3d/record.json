@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2020:8.C.251.2020.1",
+  "docket": "8 C 251/2020-22",
+  "date": "2020-10-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2ef1cdd2-2082-4cf6-b617-c0921546ae3d",
+  "source_sha256": "2249aaa77ccec8db2ff4894a8b86a62ad93c8868492efae39293417a1486d966",
+  "source_id": "2ef1cdd2-2082-4cf6-b617-c0921546ae3d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 251/2020-22",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Hedvika Lávičková",
+    "ecli": "ECLI:CZ:OSBN:2020:8.C.251.2020.1",
+    "predmetRizeni": "o zaplacení 31 736 Kč s příslušenstvím",
+    "datumVydani": "2020-10-21",
+    "datumZverejneni": "2021-01-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva nájemní",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2ef1cdd2-2082-4cf6-b617-c0921546ae3d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
