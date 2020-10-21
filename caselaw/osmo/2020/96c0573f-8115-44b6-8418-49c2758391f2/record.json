@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:50.C.120.2020.1",
+  "docket": "50 C 120/2020-37",
+  "date": "2020-10-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/96c0573f-8115-44b6-8418-49c2758391f2",
+  "source_sha256": "e5322c5ee5fad3e869700354826abb4214c994ca343e348515da5fa0475f6c3d",
+  "source_id": "96c0573f-8115-44b6-8418-49c2758391f2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "50 C 120/2020-37",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Marian Heres",
+    "ecli": "ECLI:CZ:OSMO:2020:50.C.120.2020.1",
+    "predmetRizeni": "20 898,36 Kč s příslušenstvím",
+    "datumVydani": "2020-10-21",
+    "datumZverejneni": "2021-01-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§  nař. vl. č. 142/1994 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§  z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/96c0573f-8115-44b6-8418-49c2758391f2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
