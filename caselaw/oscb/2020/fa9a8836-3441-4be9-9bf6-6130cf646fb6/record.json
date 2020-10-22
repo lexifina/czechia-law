@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2020:25.C.204.2020.1",
+  "docket": "25 C 204/2020-28",
+  "date": "2020-10-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fa9a8836-3441-4be9-9bf6-6130cf646fb6",
+  "source_sha256": "1c48ef156ee6d3dded6ec2b6bdf8c7d317ea7d21abf096865c58098acb0e8f73",
+  "source_id": "fa9a8836-3441-4be9-9bf6-6130cf646fb6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 204/2020-28",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "JUDr. Marta Toufarová",
+    "ecli": "ECLI:CZ:OSCB:2020:25.C.204.2020.1",
+    "predmetRizeni": "o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2020-10-22",
+    "datumZverejneni": "2021-02-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "společenství vlastníků jednotek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 1181 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fa9a8836-3441-4be9-9bf6-6130cf646fb6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
