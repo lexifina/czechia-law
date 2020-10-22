@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2020:12.C.116.2020.1",
+  "docket": "12 C 116/2020-18",
+  "date": "2020-10-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f123650c-e3e4-4662-9a90-5eab3ded05f7",
+  "source_sha256": "00a0b55838982eaa2ab48b4254fa26e57c12df9b8948749d5f69c2b44a17238a",
+  "source_id": "f123650c-e3e4-4662-9a90-5eab3ded05f7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 116/2020-18",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Kateřina Tluchořová",
+    "ecli": "ECLI:CZ:OSPH01:2020:12.C.116.2020.1",
+    "predmetRizeni": "o zaplacení 364 578,58 Kč s příslušenstvím",
+    "datumVydani": "2020-10-22",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2399 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f123650c-e3e4-4662-9a90-5eab3ded05f7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
