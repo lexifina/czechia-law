@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Orlicí",
+  "ecli": "ECLI:CZ:OSUO:2020:10.C.1.2020.1",
+  "docket": "10 C 1/2020-35",
+  "date": "2020-10-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4d28a686-f937-42b2-9e75-dff8f2183ea3",
+  "source_sha256": "7823864070b9e820963b8272088f8efdab6e3ff61855eb3e259c5bb1a1534779",
+  "source_id": "4d28a686-f937-42b2-9e75-dff8f2183ea3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 1/2020-35",
+    "soud": "Okresní soud v Ústí nad Orlicí",
+    "autor": "JUDr. Věra Bartůňková",
+    "ecli": "ECLI:CZ:OSUO:2020:10.C.1.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-10-22",
+    "datumZverejneni": "2021-02-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "rozhodčí doložka",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4d28a686-f937-42b2-9e75-dff8f2183ea3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
