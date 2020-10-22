@@ -1,0 +1,48 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2020:39.C.110.2019.1",
+  "docket": "39 C 110/2019-80",
+  "date": "2020-10-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7ca0103f-2f6e-460d-90dd-55bbb9265180",
+  "source_sha256": "f69f63d1ff6fc8648c83bb2bad8c231c7df5bd2e030d502e8344ad4c3be7360c",
+  "source_id": "7ca0103f-2f6e-460d-90dd-55bbb9265180",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "39 C 110/2019-80",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "Mgr. Zdeněk Rychnovský",
+    "ecli": "ECLI:CZ:OSPH04:2020:39.C.110.2019.1",
+    "predmetRizeni": "vyklizení společných prostor",
+    "datumVydani": "2020-10-22",
+    "datumZverejneni": "2021-07-18",
+    "klicovaSlova": [
+      "bytové družstvo",
+      "nájem nebytových prostor",
+      "nebytový prostor",
+      "pasivní legitimace",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 2231 z. č. 89/2012 Sb.",
+      "§ 2302 z. č. 89/2012 Sb.",
+      "§ 570 z. č. 89/2012 Sb.",
+      "§ 2314 z. č. 89/2012 Sb.",
+      "§ 2312 z. č. 89/2012 Sb.",
+      "§ 720 z. č. 116/1990 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7ca0103f-2f6e-460d-90dd-55bbb9265180"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
