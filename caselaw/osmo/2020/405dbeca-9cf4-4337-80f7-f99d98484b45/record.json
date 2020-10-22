@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:15.C.228.2020.2",
+  "docket": "15 C 228/2020-26",
+  "date": "2020-10-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/405dbeca-9cf4-4337-80f7-f99d98484b45",
+  "source_sha256": "4eff26fbc46eacccde9f9658ccfda29234be34415eedfefe97dc18011f896a54",
+  "source_id": "405dbeca-9cf4-4337-80f7-f99d98484b45",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 228/2020-26",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Radka Kryndlerová",
+    "ecli": "ECLI:CZ:OSMO:2020:15.C.228.2020.2",
+    "predmetRizeni": "1 434,07 Kč s příslušenstvím",
+    "datumVydani": "2020-10-22",
+    "datumZverejneni": "2020-12-01",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§  nař. vl. č. 142/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/405dbeca-9cf4-4337-80f7-f99d98484b45"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
