@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2020:19.C.212.2020.1",
+  "docket": "19 C 212/2020-28",
+  "date": "2020-10-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0810e54d-f612-4ed3-990b-611965cd027e",
+  "source_sha256": "d410b9830363575d7f95622ee300a515d2a1282ec6349ec873e00fadefb19ea7",
+  "source_id": "0810e54d-f612-4ed3-990b-611965cd027e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 212/2020-28",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "Mgr. Michal Průžek",
+    "ecli": "ECLI:CZ:OSPH04:2020:19.C.212.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-10-23",
+    "datumZverejneni": "2021-02-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2399 z. č. 89/2012 Sb.",
+      "§ 122 z. č. 257/2016 Sb.",
+      "§ 1882 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0810e54d-f612-4ed3-990b-611965cd027e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
