@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2020:30.C.58.2020.1",
+  "docket": "30 C 58/2020",
+  "date": "2020-10-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/91dfabde-7f67-4cdd-92cd-f5042cd233d5",
+  "source_sha256": "67cc04d9fa9b0380a8cd7cd30155234725a419cdae27501f3687489d748f2a0c",
+  "source_id": "91dfabde-7f67-4cdd-92cd-f5042cd233d5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 58/2020",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Hana Jakubcová",
+    "ecli": "ECLI:CZ:OSCV:2020:30.C.58.2020.1",
+    "predmetRizeni": "zaplacení 7 525 Kč s příslušenstvím (úvěr)",
+    "datumVydani": "2020-10-26",
+    "datumZverejneni": "2021-03-16",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/91dfabde-7f67-4cdd-92cd-f5042cd233d5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
