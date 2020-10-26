@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:50.C.42.2020.2",
+  "docket": "50 C 42/2020-25",
+  "date": "2020-10-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d656b277-38ff-4e0d-a2af-371d49b97876",
+  "source_sha256": "1bc3de8919a4d827f13c8cace77be50426fc968b54beccb45d293f0502211f64",
+  "source_id": "d656b277-38ff-4e0d-a2af-371d49b97876",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "50 C 42/2020-25",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Marian Heres",
+    "ecli": "ECLI:CZ:OSMO:2020:50.C.42.2020.2",
+    "predmetRizeni": "4 560 Kč s příslušenstvím",
+    "datumVydani": "2020-10-26",
+    "datumZverejneni": "2021-01-04",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "doménové jméno",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d656b277-38ff-4e0d-a2af-371d49b97876"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
