@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2020:40.C.197.2015.1",
+  "docket": "40 C 197/2015-539",
+  "date": "2020-10-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/df62f134-34d2-46b1-a12d-7c7560bbf318",
+  "source_sha256": "9fab722590d99dd4e21fe595cbea21fefd7bddef4e43e43918668c0655e6ddd7",
+  "source_id": "df62f134-34d2-46b1-a12d-7c7560bbf318",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "40 C 197/2015-539",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "JUDr. Hana Berglová",
+    "ecli": "ECLI:CZ:OSPH04:2020:40.C.197.2015.1",
+    "predmetRizeni": "o nahrazení projevu vůle",
+    "datumVydani": "2020-10-26",
+    "datumZverejneni": "2021-12-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 1012 z. č. 89/2012 Sb.",
+      "§ 298 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/df62f134-34d2-46b1-a12d-7c7560bbf318"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
