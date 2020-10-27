@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2020:10.C.220.2020.1",
+  "docket": "10 C 220/2020-18",
+  "date": "2020-10-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bf2ddf16-de2a-4b6b-bb5f-3d5eaa103bec",
+  "source_sha256": "3206ba8480438f6a236fd379f943dcd3a32ac4e46824cf851efadb4069f68f2f",
+  "source_id": "bf2ddf16-de2a-4b6b-bb5f-3d5eaa103bec",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 220/2020-18",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "JUDr. Pavel Vlach, Ph.D.",
+    "ecli": "ECLI:CZ:OSJN:2020:10.C.220.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-10-27",
+    "datumZverejneni": "2020-12-18",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 2804 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bf2ddf16-de2a-4b6b-bb5f-3d5eaa103bec"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
