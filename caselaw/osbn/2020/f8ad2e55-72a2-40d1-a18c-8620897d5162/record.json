@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2020:6.C.213.2020.1",
+  "docket": "6 C 213/2020-30",
+  "date": "2020-10-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f8ad2e55-72a2-40d1-a18c-8620897d5162",
+  "source_sha256": "67d5cd76e3ddf4f7d2a444acf080d70aee7ec60e1986ded282dca34a6ddd5af1",
+  "source_id": "f8ad2e55-72a2-40d1-a18c-8620897d5162",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 213/2020-30",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Štěpánka Brožová",
+    "ecli": "ECLI:CZ:OSBN:2020:6.C.213.2020.1",
+    "predmetRizeni": "o zaplacení částky 7.550 Kč s přísl.",
+    "datumVydani": "2020-10-29",
+    "datumZverejneni": "2021-02-03",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 86,87 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f8ad2e55-72a2-40d1-a18c-8620897d5162"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
