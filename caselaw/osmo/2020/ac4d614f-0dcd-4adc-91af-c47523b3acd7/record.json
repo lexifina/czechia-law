@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:13.C.235.2020.1",
+  "docket": "13 C 235/2020-27",
+  "date": "2020-10-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-11-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ac4d614f-0dcd-4adc-91af-c47523b3acd7",
+  "source_sha256": "98e16ee9904ea16d79207e2fe05aec59d1e25a9e2bcc4c6eaf91d73f5f011488",
+  "source_id": "ac4d614f-0dcd-4adc-91af-c47523b3acd7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 235/2020-27",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Ludmila Vlčková",
+    "ecli": "ECLI:CZ:OSMO:2020:13.C.235.2020.1",
+    "predmetRizeni": "4 457,41 Kč s příslušenstvím",
+    "datumVydani": "2020-10-29",
+    "datumZverejneni": "2020-11-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ac4d614f-0dcd-4adc-91af-c47523b3acd7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
