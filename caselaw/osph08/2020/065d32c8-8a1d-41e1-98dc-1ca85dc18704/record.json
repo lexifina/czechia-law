@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2020:11.C.208.2017.1",
+  "docket": "11 C 208/2017-125",
+  "date": "2020-10-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/065d32c8-8a1d-41e1-98dc-1ca85dc18704",
+  "source_sha256": "d1bf6360f98f8df01c4d2df42a74a8e75698314b6c879b493a90f81ce9c3de7f",
+  "source_id": "065d32c8-8a1d-41e1-98dc-1ca85dc18704",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 208/2017-125",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "JUDr. Hana Suchánková",
+    "ecli": "ECLI:CZ:OSPH08:2020:11.C.208.2017.1",
+    "predmetRizeni": "o zaplacení částky 57.143 Kč s příslušenstvím",
+    "datumVydani": "2020-10-29",
+    "datumZverejneni": "2021-11-05",
+    "klicovaSlova": [
+      "majetková újma",
+      "peněžité plnění",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 2951 z. č. 89/2012 Sb.",
+      "§ 2927 z. č. 89/2012 Sb.",
+      "§ 2952 z. č. 89/2012 Sb.",
+      "§ 2696 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/065d32c8-8a1d-41e1-98dc-1ca85dc18704"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
