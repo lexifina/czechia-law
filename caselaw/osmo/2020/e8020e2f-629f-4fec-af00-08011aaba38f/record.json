@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:60.C.44.2020.5",
+  "docket": "60 C 44/2020-24",
+  "date": "2020-10-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e8020e2f-629f-4fec-af00-08011aaba38f",
+  "source_sha256": "62e6afca3e81f23873d45ab19a4f33d5f982ddb8eb988d98e3bf7621a36f9dcf",
+  "source_id": "e8020e2f-629f-4fec-af00-08011aaba38f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "60 C 44/2020-24",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Karel Štička",
+    "ecli": "ECLI:CZ:OSMO:2020:60.C.44.2020.5",
+    "predmetRizeni": "46 722 Kč s příslušenstvím",
+    "datumVydani": "2020-10-30",
+    "datumZverejneni": "2020-12-09",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "nájem bytu",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 89a z. č. 120/2001 Sb.",
+      "§ 2246 z. č. 67/2013 Sb.",
+      "§ 2235 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e8020e2f-629f-4fec-af00-08011aaba38f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
