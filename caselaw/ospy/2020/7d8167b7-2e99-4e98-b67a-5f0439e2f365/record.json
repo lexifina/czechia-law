@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2020:8.C.392.2020.1",
+  "docket": "8 C 392/2020-29",
+  "date": "2020-10-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7d8167b7-2e99-4e98-b67a-5f0439e2f365",
+  "source_sha256": "1c1eacdb844e1b701357cae0994c74b9dc72718a912ab17b699b81dbe894749a",
+  "source_id": "7d8167b7-2e99-4e98-b67a-5f0439e2f365",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 392/2020-29",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Jitka Sochorová",
+    "ecli": "ECLI:CZ:OSPY:2020:8.C.392.2020.1",
+    "predmetRizeni": "O zaplacení 4 541 Kč s příslušenstvím",
+    "datumVydani": "2020-10-30",
+    "datumZverejneni": "2021-03-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "prodlení věřitele",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7d8167b7-2e99-4e98-b67a-5f0439e2f365"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
