@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:12.C.244.2020.2",
+  "docket": "12 C 244/2020-29",
+  "date": "2020-10-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/75c2a45b-fddf-4b84-9930-a1f65c582846",
+  "source_sha256": "c065b545005b12fd1c8315e80db12cd4ea4c5ae7707fe29562af2e534b380c0b",
+  "source_id": "75c2a45b-fddf-4b84-9930-a1f65c582846",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 244/2020-29",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Romana Malá",
+    "ecli": "ECLI:CZ:OSMO:2020:12.C.244.2020.2",
+    "predmetRizeni": "71 373 Kč s příslušenstvím",
+    "datumVydani": "2020-10-30",
+    "datumZverejneni": "2021-01-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 274 z. č. 40/2009 Sb.",
+      "§ 10 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/75c2a45b-fddf-4b84-9930-a1f65c582846"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
