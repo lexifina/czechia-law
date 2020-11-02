@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSJC:2020:6.C.225.2020.3",
+  "docket": "6 C 225/2020-52",
+  "date": "2020-11-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d3ad92b4-6b25-4a50-a42f-ec53b8ef97f2",
+  "source_sha256": "91a14dbb13551c2e32cac4de63061c2c12244ab8a42b71463880c759a32eb45b",
+  "source_id": "d3ad92b4-6b25-4a50-a42f-ec53b8ef97f2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 225/2020-52",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "JUDr. Naděžda Červenková",
+    "ecli": "ECLI:CZ:OSJC:2020:6.C.225.2020.3",
+    "predmetRizeni": "o 75 888 Kč s příslušenstvím",
+    "datumVydani": "2020-11-02",
+    "datumZverejneni": "2021-01-11",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d3ad92b4-6b25-4a50-a42f-ec53b8ef97f2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
