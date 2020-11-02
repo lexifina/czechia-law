@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:33.C.247.2020.2",
+  "docket": "33 C 247/2020-21",
+  "date": "2020-11-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/05f6692f-8e99-4498-b461-ded09d210c95",
+  "source_sha256": "082af5dbc3ada8c3772e896964a91afe775989d7f33f591603274409c73f1ad8",
+  "source_id": "05f6692f-8e99-4498-b461-ded09d210c95",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "33 C 247/2020-21",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Vladimír Dufek",
+    "ecli": "ECLI:CZ:OSMO:2020:33.C.247.2020.2",
+    "predmetRizeni": "2 374 Kč s příslušenstvím",
+    "datumVydani": "2020-11-02",
+    "datumZverejneni": "2020-12-09",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/05f6692f-8e99-4498-b461-ded09d210c95"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
