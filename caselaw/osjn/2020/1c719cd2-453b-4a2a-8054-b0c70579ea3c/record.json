@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2020:110.C.19.2020.3",
+  "docket": "110 C 19/2020-31",
+  "date": "2020-11-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1c719cd2-453b-4a2a-8054-b0c70579ea3c",
+  "source_sha256": "a1a47579455877dc531251f301e79229c7a9298767bc837add873b072669edf9",
+  "source_id": "1c719cd2-453b-4a2a-8054-b0c70579ea3c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "110 C 19/2020-31",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "JUDr. Pavel Vlach, Ph.D.",
+    "ecli": "ECLI:CZ:OSJN:2020:110.C.19.2020.3",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-11-03",
+    "datumZverejneni": "2021-02-24",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 24 z. č. 65/2017 Sb.",
+      "§ 1 vyhl. č. 254/2015 Sb.",
+      "§ 20 z. č. 65/2017 Sb.",
+      "§ 13 vyhl. č. 177/96 Sb.",
+      "§ 4 vyhl. č. 440/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1c719cd2-453b-4a2a-8054-b0c70579ea3c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
