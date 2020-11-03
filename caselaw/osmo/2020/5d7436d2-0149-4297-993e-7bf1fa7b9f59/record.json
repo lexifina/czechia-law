@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:15.C.80.2020.1",
+  "docket": "15 C 80/2020-10",
+  "date": "2020-11-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5d7436d2-0149-4297-993e-7bf1fa7b9f59",
+  "source_sha256": "e60889d2b946522854f787c3f0e59309bf93eba49668491d546e091f2d2b8148",
+  "source_id": "5d7436d2-0149-4297-993e-7bf1fa7b9f59",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 80/2020-10",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Radka Kryndlerová",
+    "ecli": "ECLI:CZ:OSMO:2020:15.C.80.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-11-03",
+    "datumZverejneni": "2020-12-01",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 89/2012 Sb.",
+      "§ 23 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5d7436d2-0149-4297-993e-7bf1fa7b9f59"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
