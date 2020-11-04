@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2020:24.C.10.2020.1",
+  "docket": "24 C 10/2020",
+  "date": "2020-11-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b7e6082b-dbbe-450a-bdae-3e874eecd827",
+  "source_sha256": "2b94ed2ff584b5d8c9f4689f162721b6197f08a1d0ddd60ee5bcf20c64a5d726",
+  "source_id": "b7e6082b-dbbe-450a-bdae-3e874eecd827",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 10/2020",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Hana Zdeňková",
+    "ecli": "ECLI:CZ:OSPY:2020:24.C.10.2020.1",
+    "predmetRizeni": "o zaplacení částky [částka]",
+    "datumVydani": "2020-11-04",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "podílové spoluvlastnictví",
+      "smlouva kupní",
+      "smlouva o smlouvě budoucí",
+      "smlouva zástavní",
+      "spoluvlastnictví",
+      "zástavní právo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 419 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b7e6082b-dbbe-450a-bdae-3e874eecd827"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
