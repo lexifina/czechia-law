@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chrudimi",
+  "ecli": "ECLI:CZ:OSCR:2020:12.C.118.2020.1",
+  "docket": "12 C 118/2020-44",
+  "date": "2020-11-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f2b70177-e1e1-4fea-b755-401ce8d5320c",
+  "source_sha256": "e510f0944445020bf71b0d5722d45c4b8fd3ec3a02dbc0dbbb4f0f32c6959bc9",
+  "source_id": "f2b70177-e1e1-4fea-b755-401ce8d5320c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 118/2020-44",
+    "soud": "Okresní soud v Chrudimi",
+    "autor": "Mgr. Eva Bačkovská",
+    "ecli": "ECLI:CZ:OSCR:2020:12.C.118.2020.1",
+    "predmetRizeni": "o 114 000 Kč",
+    "datumVydani": "2020-11-04",
+    "datumZverejneni": "2021-05-07",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva kupní",
+      "zastavení řízení",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 96 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f2b70177-e1e1-4fea-b755-401ce8d5320c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
