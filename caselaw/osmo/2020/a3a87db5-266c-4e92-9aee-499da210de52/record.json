@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:10.C.81.2020.2",
+  "docket": "10 C 81/2020-19",
+  "date": "2020-11-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a3a87db5-266c-4e92-9aee-499da210de52",
+  "source_sha256": "4896c3eaaf95fa93d2e68a5fe30e69e085f6b8276dec029dc38009be7a118dc8",
+  "source_id": "a3a87db5-266c-4e92-9aee-499da210de52",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 81/2020-19",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Radka Heresová",
+    "ecli": "ECLI:CZ:OSMO:2020:10.C.81.2020.2",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2020-11-04",
+    "datumZverejneni": "2020-12-22",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2804 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a3a87db5-266c-4e92-9aee-499da210de52"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
