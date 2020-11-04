@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:48.C.122.2020.1",
+  "docket": "48 C 122/2020-25",
+  "date": "2020-11-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/de5c5392-4b5e-49d9-9bd5-d473b0cadfea",
+  "source_sha256": "b97eacd09362249567ed5f2d08b7c2cb960b5e3c66995acd75c1342278e5c839",
+  "source_id": "de5c5392-4b5e-49d9-9bd5-d473b0cadfea",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "48 C 122/2020-25",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Daniel Nevečeřal",
+    "ecli": "ECLI:CZ:OSMO:2020:48.C.122.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2020-11-04",
+    "datumZverejneni": "2020-12-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva nájemní",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/de5c5392-4b5e-49d9-9bd5-d473b0cadfea"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
