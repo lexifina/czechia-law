@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Třebíči",
+  "ecli": "ECLI:CZ:OSTR:2020:4.C.8.2020.1",
+  "docket": "4 C 8/2020-135",
+  "date": "2020-11-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fe25e996-dfbc-4689-825d-ed4c806ac913",
+  "source_sha256": "6ce7b32d718350f7eaf2f1eceb325a912bc1dfbb753330aafa487f615e17b65b",
+  "source_id": "fe25e996-dfbc-4689-825d-ed4c806ac913",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 8/2020-135",
+    "soud": "Okresní soud v Třebíči",
+    "autor": "JUDr. Radim Kostík, Ph.D.",
+    "ecli": "ECLI:CZ:OSTR:2020:4.C.8.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2020-11-05",
+    "datumZverejneni": "2021-12-01",
+    "klicovaSlova": [
+      "dražba",
+      "notářský zápis",
+      "podílové spoluvlastnictví",
+      "postoupení pohledávky",
+      "pozůstalost",
+      "smlouva o úvěru",
+      "smlouva zástavní",
+      "spoluvlastnictví",
+      "veřejná dražba",
+      "zajištění dluhu",
+      "zástavní právo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1309 z. č. 89/2012 Sb.",
+      "§ 1359 z. č. 89/2012 Sb.",
+      "§ 358 z. č. 292/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fe25e996-dfbc-4689-825d-ed4c806ac913"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
