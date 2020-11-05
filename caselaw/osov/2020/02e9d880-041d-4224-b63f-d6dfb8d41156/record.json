@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2020:30.C.226.2020.3",
+  "docket": "30 C 226/2020-18",
+  "date": "2020-11-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/02e9d880-041d-4224-b63f-d6dfb8d41156",
+  "source_sha256": "6be296722f0524bae47c204b981a9db92c3bd92c8ca86ac2b6fbbd1759575600",
+  "source_id": "02e9d880-041d-4224-b63f-d6dfb8d41156",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 226/2020-18",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Alena Motalová",
+    "ecli": "ECLI:CZ:OSOV:2020:30.C.226.2020.3",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-11-05",
+    "datumZverejneni": "2021-01-22",
+    "klicovaSlova": [
+      "nájem bytu",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§  z. č. 257/2016 Sb.",
+      "§ 122 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/02e9d880-041d-4224-b63f-d6dfb8d41156"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
