@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:14.C.334.2020.2",
+  "docket": "14 C 334/2020-19",
+  "date": "2020-11-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0d10078e-ff32-4d3a-9c1a-7f18eef22df1",
+  "source_sha256": "a37d0a0ace81c96b114fcfa97debb2dc35468715231e47d53a1b5f01db3cc180",
+  "source_id": "0d10078e-ff32-4d3a-9c1a-7f18eef22df1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 334/2020-19",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Karel Štička",
+    "ecli": "ECLI:CZ:OSMO:2020:14.C.334.2020.2",
+    "predmetRizeni": "4 345 Kč s příslušenstvím",
+    "datumVydani": "2020-11-05",
+    "datumZverejneni": "2020-12-01",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 21 z. č. 458/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0d10078e-ff32-4d3a-9c1a-7f18eef22df1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
