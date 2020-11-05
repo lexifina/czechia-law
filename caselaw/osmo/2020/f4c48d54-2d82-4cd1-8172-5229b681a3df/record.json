@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:14.C.297.2020.4",
+  "docket": "14 C 297/2020-45",
+  "date": "2020-11-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f4c48d54-2d82-4cd1-8172-5229b681a3df",
+  "source_sha256": "e2796b29bb1d84b826ef80aa67b5c7ea049fcd990ac0e6dbd50fe77450d537cb",
+  "source_id": "f4c48d54-2d82-4cd1-8172-5229b681a3df",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 297/2020-45",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Karel Štička",
+    "ecli": "ECLI:CZ:OSMO:2020:14.C.297.2020.4",
+    "predmetRizeni": "23 500 Kč s příslušenstvím",
+    "datumVydani": "2020-11-05",
+    "datumZverejneni": "2020-12-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 1824 z. č. 89/2012 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f4c48d54-2d82-4cd1-8172-5229b681a3df"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
