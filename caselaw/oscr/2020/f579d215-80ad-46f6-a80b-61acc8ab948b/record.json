@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chrudimi",
+  "ecli": "ECLI:CZ:OSCR:2020:12.C.191.2020.1",
+  "docket": "12 C 191/2020-61",
+  "date": "2020-11-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f579d215-80ad-46f6-a80b-61acc8ab948b",
+  "source_sha256": "89d97666533b7ab28c4cf3efb60cbffaa761b8a8eac323d4cb9b2188051d08e3",
+  "source_id": "f579d215-80ad-46f6-a80b-61acc8ab948b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 191/2020-61",
+    "soud": "Okresní soud v Chrudimi",
+    "autor": "Mgr. Eva Bačkovská",
+    "ecli": "ECLI:CZ:OSCR:2020:12.C.191.2020.1",
+    "predmetRizeni": "odpůrčí žaloba dle ustanovení § 592 zákona č. 89/2012 Sb.",
+    "datumVydani": "2020-11-06",
+    "datumZverejneni": "2020-12-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "pozůstalost",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 599 z. č. 89/2012 Sb.",
+      "§ 592 z. č. 89/2012 Sb.",
+      "§ 589 z. č. 89/2012 Sb.",
+      "§ 1635 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f579d215-80ad-46f6-a80b-61acc8ab948b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
