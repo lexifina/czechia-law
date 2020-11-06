@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:60.C.174.2020.2",
+  "docket": "60 C 174/2020-26",
+  "date": "2020-11-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/da012ad6-2897-4cba-a48a-1bc4aac521cc",
+  "source_sha256": "d1e5db730e464896b82197359d5ee9f392332f118a4cbd435d7b46d1812080cd",
+  "source_id": "da012ad6-2897-4cba-a48a-1bc4aac521cc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "60 C 174/2020-26",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Karel Štička",
+    "ecli": "ECLI:CZ:OSMO:2020:60.C.174.2020.2",
+    "predmetRizeni": "17 600 Kč s příslušenstvím",
+    "datumVydani": "2020-11-06",
+    "datumZverejneni": "2020-12-09",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění",
+      "poplatek z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 133 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 697 z. č. 40/1964 Sb.",
+      "§ 2293 z. č. 89/2012 Sb.",
+      "§ 3036 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/da012ad6-2897-4cba-a48a-1bc4aac521cc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
