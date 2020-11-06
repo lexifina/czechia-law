@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2020:63.C.247.2020.1",
+  "docket": "63 C 247/2020-23",
+  "date": "2020-11-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d2655b41-d3f1-4f05-88db-051c147bea9b",
+  "source_sha256": "0885f87c0492bd0f515bf81059a97bc2bfd02ec83965c773c43f0c828f7b16a1",
+  "source_id": "d2655b41-d3f1-4f05-88db-051c147bea9b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "63 C 247/2020-23",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Pavel Kučera",
+    "ecli": "ECLI:CZ:OSOV:2020:63.C.247.2020.1",
+    "predmetRizeni": "o zaplacení 3 780 Kč s příslušenstvím",
+    "datumVydani": "2020-11-06",
+    "datumZverejneni": "2021-06-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 348/2005 Sb.",
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 6 z. č. 348/2005 Sb.",
+      "§ 7 z. č. 348/2005 Sb.",
+      "§ 1 vyhl. č. 254/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d2655b41-d3f1-4f05-88db-051c147bea9b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
