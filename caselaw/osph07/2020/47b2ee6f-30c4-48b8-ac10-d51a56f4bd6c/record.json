@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 7",
+  "ecli": "ECLI:CZ:OSPH07:2020:30.C.385.2020.1",
+  "docket": "30 C 385/2020-10",
+  "date": "2020-11-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/47b2ee6f-30c4-48b8-ac10-d51a56f4bd6c",
+  "source_sha256": "261fbaacb54089b9a0c9f270311abfa9847178d9f553774ec96efdd23aacaa8c",
+  "source_id": "47b2ee6f-30c4-48b8-ac10-d51a56f4bd6c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 385/2020-10",
+    "soud": "Obvodní soud pro Prahu 7",
+    "autor": "Mgr. Jan Kobera",
+    "ecli": "ECLI:CZ:OSPH07:2020:30.C.385.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2020-11-06",
+    "datumZverejneni": "2021-11-11",
+    "klicovaSlova": [
+      "držba"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1003 z. č. 89/2012 Sb.",
+      "§ 177 z. č. 99/1963 Sb.",
+      "§ 180 z. č. 99/1963 Sb.",
+      "§ 178 z. č. 99/1963 Sb.",
+      "§ 5 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/47b2ee6f-30c4-48b8-ac10-d51a56f4bd6c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
