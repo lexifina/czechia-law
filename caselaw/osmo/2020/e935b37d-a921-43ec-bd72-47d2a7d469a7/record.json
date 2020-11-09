@@ -1,0 +1,49 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:33.C.90.2020.2",
+  "docket": "33 C 90/2020-16",
+  "date": "2020-11-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e935b37d-a921-43ec-bd72-47d2a7d469a7",
+  "source_sha256": "31867cbdd60aef8de5d05fe00fdf1d3afab64d3838f3523803b50aadf7cbd519",
+  "source_id": "e935b37d-a921-43ec-bd72-47d2a7d469a7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "33 C 90/2020-16",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Vladimír Dufek",
+    "ecli": "ECLI:CZ:OSMO:2020:33.C.90.2020.2",
+    "predmetRizeni": "na zvýšení výživného na rozvedenou manželku",
+    "datumVydani": "2020-11-09",
+    "datumZverejneni": "2020-12-17",
+    "klicovaSlova": [
+      "duševní porucha",
+      "insolvence",
+      "oddlužení",
+      "omezení svéprávnosti",
+      "podnájem",
+      "podvod",
+      "výživné",
+      "znalecký posudek",
+      "zvýšení výživného"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 763 z. č. 89/2012 Sb.",
+      "§ 762 z. č. 89/2012 Sb.",
+      "§ 761 z. č. 89/2012 Sb.",
+      "§ 913 z. č. 89/2012 Sb.",
+      "§ 140 z. č. 99/1963 Sb.",
+      "§ 163 z. č. 99/1963 Sb.",
+      "§ 760 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e935b37d-a921-43ec-bd72-47d2a7d469a7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
