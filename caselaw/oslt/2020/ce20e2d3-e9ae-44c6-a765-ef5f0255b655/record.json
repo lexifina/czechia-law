@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Litoměřicích",
+  "ecli": "ECLI:CZ:OSLT:2020:19.C.210.2020.1",
+  "docket": "19 C 210/2020-29",
+  "date": "2020-11-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ce20e2d3-e9ae-44c6-a765-ef5f0255b655",
+  "source_sha256": "9687eff8e80f0f7dfeeab1498436a679a56e5a97a733362c5a1feda0c3ea9a06",
+  "source_id": "ce20e2d3-e9ae-44c6-a765-ef5f0255b655",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 210/2020-29",
+    "soud": "Okresní soud v Litoměřicích",
+    "autor": "Mgr. Zdeněk Hammer",
+    "ecli": "ECLI:CZ:OSLT:2020:19.C.210.2020.1",
+    "predmetRizeni": "zaplacení 57.382 Kč s přísl.",
+    "datumVydani": "2020-11-09",
+    "datumZverejneni": "2021-10-12",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 451 z. č. 89/2012 Sb.",
+      "§ 39 z. č. 89/2012 Sb.",
+      "§ 497 z. č. 513/1991 Sb.",
+      "§ 39 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ce20e2d3-e9ae-44c6-a765-ef5f0255b655"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
