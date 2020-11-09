@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:33.C.291.2020.2",
+  "docket": "33 C 291/2020-18",
+  "date": "2020-11-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9d5d6ed7-dcd9-4aa8-95ba-9dc9d1437ba2",
+  "source_sha256": "64ac527546fb5fdebcca20e4304831506e52eb5c1ce66b62bce3462ae4be3a99",
+  "source_id": "9d5d6ed7-dcd9-4aa8-95ba-9dc9d1437ba2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "33 C 291/2020-18",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Vladimír Dufek",
+    "ecli": "ECLI:CZ:OSMO:2020:33.C.291.2020.2",
+    "predmetRizeni": "675 Kč s příslušenstvím",
+    "datumVydani": "2020-11-09",
+    "datumZverejneni": "2021-01-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 348/2005 Sb.",
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 6 z. č. 348/2005 Sb.",
+      "§ 7 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9d5d6ed7-dcd9-4aa8-95ba-9dc9d1437ba2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
