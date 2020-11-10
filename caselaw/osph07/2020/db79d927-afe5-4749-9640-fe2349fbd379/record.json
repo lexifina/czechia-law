@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 7",
+  "ecli": "ECLI:CZ:OSPH07:2020:30.C.352.2020.1",
+  "docket": "30 C 352/2020-13",
+  "date": "2020-11-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/db79d927-afe5-4749-9640-fe2349fbd379",
+  "source_sha256": "0908b9001638240904cb93e01c55ec2af34304b95733b18adefe8461a9f4af28",
+  "source_id": "db79d927-afe5-4749-9640-fe2349fbd379",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 352/2020-13",
+    "soud": "Obvodní soud pro Prahu 7",
+    "autor": "Mgr. Jan Kobera",
+    "ecli": "ECLI:CZ:OSPH07:2020:30.C.352.2020.1",
+    "predmetRizeni": "O zaplacení 20 877 Kč s příslušenstvím",
+    "datumVydani": "2020-11-10",
+    "datumZverejneni": "2021-01-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§ 1882 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/db79d927-afe5-4749-9640-fe2349fbd379"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
