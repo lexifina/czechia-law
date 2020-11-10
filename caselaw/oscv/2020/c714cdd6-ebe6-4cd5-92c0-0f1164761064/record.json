@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2020:28.C.245.2020.2",
+  "docket": "28 C 245/2020-33",
+  "date": "2020-11-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c714cdd6-ebe6-4cd5-92c0-0f1164761064",
+  "source_sha256": "c0c313fc8822badfe5036f0bf503776806f6c7a6cb2cb8ea8d24e6dea0e9dbfc",
+  "source_id": "c714cdd6-ebe6-4cd5-92c0-0f1164761064",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 245/2020-33",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Šárka Houdková poláková",
+    "ecli": "ECLI:CZ:OSCV:2020:28.C.245.2020.2",
+    "predmetRizeni": "zaplacení 2 750 Kč (kupní cena)",
+    "datumVydani": "2020-11-10",
+    "datumZverejneni": "2021-02-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c714cdd6-ebe6-4cd5-92c0-0f1164761064"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
