@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2020:28.C.246.2020.1",
+  "docket": "28 C 246/2020-26",
+  "date": "2020-11-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f2f296f8-8c4f-4902-b033-83caff171cf6",
+  "source_sha256": "ce6615dcc51f82787e6498e8f9d03d12194a30d70ddcf1294dbe48cdad3d88d3",
+  "source_id": "f2f296f8-8c4f-4902-b033-83caff171cf6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 246/2020-26",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Šárka Houdková poláková",
+    "ecli": "ECLI:CZ:OSCV:2020:28.C.246.2020.1",
+    "predmetRizeni": "zaplacení 90 Kč s příslušenstvím (regulační poplatek)",
+    "datumVydani": "2020-11-10",
+    "datumZverejneni": "2021-02-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "regulační poplatek",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 16a z. č. 48/1997 Sb.",
+      "§  z. č. 261/2007 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f2f296f8-8c4f-4902-b033-83caff171cf6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
