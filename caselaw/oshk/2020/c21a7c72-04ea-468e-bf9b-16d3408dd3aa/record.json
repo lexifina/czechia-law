@@ -1,0 +1,48 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2020:12.C.215.2018.1",
+  "docket": "12 C 215/2018-98",
+  "date": "2020-11-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c21a7c72-04ea-468e-bf9b-16d3408dd3aa",
+  "source_sha256": "6bf6ee458f352b7c25e26638653624d7bd524caa84f40b2da0f81876682439b0",
+  "source_id": "c21a7c72-04ea-468e-bf9b-16d3408dd3aa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 215/2018-98",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "JUDr. Milan Plhal",
+    "ecli": "ECLI:CZ:OSHK:2020:12.C.215.2018.1",
+    "predmetRizeni": "žaloba na neplatnost okamžitého zrušení pracovního poměru",
+    "datumVydani": "2020-11-11",
+    "datumZverejneni": "2021-12-29",
+    "klicovaSlova": [
+      "insolvenční návrh",
+      "konkurs",
+      "náhrada mzdy",
+      "obchodní podíl",
+      "odstupné",
+      "okamžité zrušení pracovního poměru",
+      "péče řádného hospodáře",
+      "peněžité plnění",
+      "skončení pracovního poměru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 6 z. č. 89/2012 Sb.",
+      "§ 9 vyhl. č. 177/1996 Sb.",
+      "§ 8 z. č. 89/2012 Sb.",
+      "§ 169 z. č. 182/2006 Sb.",
+      "§ 56 z. č. 262/2006 Sb.",
+      "§ 141 z. č. 262/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c21a7c72-04ea-468e-bf9b-16d3408dd3aa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
