@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2020:6.C.128.2020.1",
+  "docket": "6 C 128/2020-19",
+  "date": "2020-11-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/024d82cc-c4ef-429e-aa56-415055ecad84",
+  "source_sha256": "929c60979e326e0290b74545c2b62daf4e53ed737e0695ed62d14127455afd95",
+  "source_id": "024d82cc-c4ef-429e-aa56-415055ecad84",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 128/2020-19",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "Mgr. Naděžda Vaňurová",
+    "ecli": "ECLI:CZ:OSTU:2020:6.C.128.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím - tel. poplatky",
+    "datumVydani": "2020-11-11",
+    "datumZverejneni": "2020-12-04",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 3 z. č. 348/2005 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/024d82cc-c4ef-429e-aa56-415055ecad84"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
