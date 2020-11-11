@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2020:61.C.91.2020.1",
+  "docket": "61 C 91/2020-36",
+  "date": "2020-11-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/da60f717-032d-4257-93a8-af70938be4ce",
+  "source_sha256": "fd010f7d1a153f5fb4682fe311ac0d2c15edac1b78a1293283bd307193c23834",
+  "source_id": "da60f717-032d-4257-93a8-af70938be4ce",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "61 C 91/2020-36",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "JUDr. Magda Kubešová",
+    "ecli": "ECLI:CZ:OSPH06:2020:61.C.91.2020.1",
+    "predmetRizeni": "o zaplacení částky 44 180,16 Kč s příslušenstvím",
+    "datumVydani": "2020-11-11",
+    "datumZverejneni": "2021-04-26",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 40/1964 Sb.",
+      "§ 369 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/da60f717-032d-4257-93a8-af70938be4ce"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
