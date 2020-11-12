@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2020:13.C.134.2020.1",
+  "docket": "13 C 134/2020-41",
+  "date": "2020-11-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ea0b714b-e85f-480b-9736-35231118654e",
+  "source_sha256": "bd01ef3a98bb719913d1e88e13cbaecf8e195e6c5ce844ca4072fa56e57bde80",
+  "source_id": "ea0b714b-e85f-480b-9736-35231118654e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 134/2020-41",
+    "soud": "Okresní soud v Lounech",
+    "autor": "Mgr. Jitka Svobodová",
+    "ecli": "ECLI:CZ:OSLN:2020:13.C.134.2020.1",
+    "predmetRizeni": "O zaplacení 67 661,82 Kč s příslušenstvím",
+    "datumVydani": "2020-11-12",
+    "datumZverejneni": "2021-01-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "právní domněnka",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 3 nař. vl. č. 351/2013 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2021 z. č. 89/2012 Sb.",
+      "§ 2018 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ea0b714b-e85f-480b-9736-35231118654e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
