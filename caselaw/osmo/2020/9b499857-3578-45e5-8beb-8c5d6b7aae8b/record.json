@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:14.C.346.2020.2",
+  "docket": "14 C 346/2020-19",
+  "date": "2020-11-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9b499857-3578-45e5-8beb-8c5d6b7aae8b",
+  "source_sha256": "70510e16252ec4a691aff26ac3f0d86d5b9645531c06d7d64d0a5b76b5c958e3",
+  "source_id": "9b499857-3578-45e5-8beb-8c5d6b7aae8b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 346/2020-19",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Karel Štička",
+    "ecli": "ECLI:CZ:OSMO:2020:14.C.346.2020.2",
+    "predmetRizeni": "3 254,22 Kč s příslušenstvím",
+    "datumVydani": "2020-11-12",
+    "datumZverejneni": "2020-12-16",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 89a z. č. 120/2001 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9b499857-3578-45e5-8beb-8c5d6b7aae8b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
