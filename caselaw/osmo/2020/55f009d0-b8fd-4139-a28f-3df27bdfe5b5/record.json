@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:61.C.133.2020.2",
+  "docket": "61 C 133/2020-22",
+  "date": "2020-11-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/55f009d0-b8fd-4139-a28f-3df27bdfe5b5",
+  "source_sha256": "0aca28d54f0c50189b984b93971e5fcae365913d22008aba41dc035bb1d88a50",
+  "source_id": "55f009d0-b8fd-4139-a28f-3df27bdfe5b5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "61 C 133/2020-22",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Jana Čermáková",
+    "ecli": "ECLI:CZ:OSMO:2020:61.C.133.2020.2",
+    "predmetRizeni": "15 000 Kč s příslušenstvím",
+    "datumVydani": "2020-11-12",
+    "datumZverejneni": "2021-01-07",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 1 nař. vl. č. 142/1994 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 8 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§  z. č. 110/2006 Sb.",
+      "§  z. č. 321/2001 Sb.",
+      "§  z. č. 64/1986 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/55f009d0-b8fd-4139-a28f-3df27bdfe5b5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
