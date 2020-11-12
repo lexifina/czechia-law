@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:15.C.345.2020.2",
+  "docket": "15 C 345/2020-21",
+  "date": "2020-11-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a6c8cb9a-c8e6-424c-8cf5-08df53137307",
+  "source_sha256": "fd0aa6f2785ff0ce018b1d713701ca8b9d1d615743c48fbab4b2cf161981b698",
+  "source_id": "a6c8cb9a-c8e6-424c-8cf5-08df53137307",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 345/2020-21",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Radka Kryndlerová",
+    "ecli": "ECLI:CZ:OSMO:2020:15.C.345.2020.2",
+    "predmetRizeni": "9 042 Kč s příslušenstvím",
+    "datumVydani": "2020-11-12",
+    "datumZverejneni": "2020-12-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 417/2017 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a6c8cb9a-c8e6-424c-8cf5-08df53137307"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
