@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2020:23.C.27.2020.2",
+  "docket": "23 C 27/2020-33",
+  "date": "2020-11-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f3d8f26f-5b31-44e3-a9d2-8a8c5dcf4eb6",
+  "source_sha256": "8027a2f62ad7c335687bb1b504950d4f19b693e5269208834b3bcccd8e950a81",
+  "source_id": "f3d8f26f-5b31-44e3-a9d2-8a8c5dcf4eb6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 27/2020-33",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "JUDr. Lukáš Kratochvíl",
+    "ecli": "ECLI:CZ:OSPU:2020:23.C.27.2020.2",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-11-12",
+    "datumZverejneni": "2021-02-26",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f3d8f26f-5b31-44e3-a9d2-8a8c5dcf4eb6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
