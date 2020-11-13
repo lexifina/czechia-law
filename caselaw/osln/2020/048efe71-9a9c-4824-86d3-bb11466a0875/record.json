@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2020:1.C.207.2020.1",
+  "docket": "1 C 207/2020-27",
+  "date": "2020-11-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/048efe71-9a9c-4824-86d3-bb11466a0875",
+  "source_sha256": "350235c90d1f652e0baaedfcbb72e1cfe09cb94a74542b036836aa12c14690ee",
+  "source_id": "048efe71-9a9c-4824-86d3-bb11466a0875",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "1 C 207/2020-27",
+    "soud": "Okresní soud v Lounech",
+    "autor": "JUDr. Eva Vyskočilová",
+    "ecli": "ECLI:CZ:OSLN:2020:1.C.207.2020.1",
+    "predmetRizeni": "O zaplacení 1 950 Kč s příslušenstvím",
+    "datumVydani": "2020-11-13",
+    "datumZverejneni": "2020-12-22",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 141 z. č. 99/1963 Sb.",
+      "§  z. č. 65/2017 Sb.",
+      "§  z. č. 373/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/048efe71-9a9c-4824-86d3-bb11466a0875"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
