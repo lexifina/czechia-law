@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:44.C.40.2020.2",
+  "docket": "44 C 40/2020-48",
+  "date": "2020-11-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/28af86cb-c943-4de0-8d35-7bff07a7b907",
+  "source_sha256": "45754b2fefd6a5166302f962a5c4f5884dcf79bb74df6351aa44b9205c9eb8cc",
+  "source_id": "28af86cb-c943-4de0-8d35-7bff07a7b907",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "44 C 40/2020-48",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Jana Davidová",
+    "ecli": "ECLI:CZ:OSMO:2020:44.C.40.2020.2",
+    "predmetRizeni": "15 838,25 Kč s příslušenstvím",
+    "datumVydani": "2020-11-13",
+    "datumZverejneni": "2021-01-07",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 12 z. č. 37/2004 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/28af86cb-c943-4de0-8d35-7bff07a7b907"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
