@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:50.C.121.2020.1",
+  "docket": "50 C 121/2020-29",
+  "date": "2020-11-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fedc92c1-9b92-42a3-a43a-d1fc248175f7",
+  "source_sha256": "ac8583e00ae1ad62f5d2a1c7502b1a29719411a0425e0fc174565e90eb0d80ce",
+  "source_id": "fedc92c1-9b92-42a3-a43a-d1fc248175f7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "50 C 121/2020-29",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Marian Heres",
+    "ecli": "ECLI:CZ:OSMO:2020:50.C.121.2020.1",
+    "predmetRizeni": "10 776 Kč s příslušenstvím",
+    "datumVydani": "2020-11-16",
+    "datumZverejneni": "2021-01-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 517 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§  nař. vl. č. 142/1994 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§  z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fedc92c1-9b92-42a3-a43a-d1fc248175f7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
