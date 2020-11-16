@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:50.C.123.2020.1",
+  "docket": "50 C 123/2020-36",
+  "date": "2020-11-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/00de0d78-5be4-4ef9-b192-9c5259ddfbd4",
+  "source_sha256": "73180e3efffe8b0c772f96e980179d1e68e859907d6a2a25e959c22b77f90d38",
+  "source_id": "00de0d78-5be4-4ef9-b192-9c5259ddfbd4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "50 C 123/2020-36",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Marian Heres",
+    "ecli": "ECLI:CZ:OSMO:2020:50.C.123.2020.1",
+    "predmetRizeni": "29 892 Kč s příslušenstvím",
+    "datumVydani": "2020-11-16",
+    "datumZverejneni": "2021-01-25",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva pracovní",
+      "srážky ze mzdy"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§  z. č. 110/2006 Sb.",
+      "§  z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/00de0d78-5be4-4ef9-b192-9c5259ddfbd4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
