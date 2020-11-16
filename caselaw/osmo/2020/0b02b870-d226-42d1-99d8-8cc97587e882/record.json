@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:11.C.278.2020.2",
+  "docket": "11 C 278/2020-19",
+  "date": "2020-11-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0b02b870-d226-42d1-99d8-8cc97587e882",
+  "source_sha256": "a97f4d0e0dd175b42213ef44040f273dd8b8d24cdaaaa0c1cf09dc0c220a2a45",
+  "source_id": "0b02b870-d226-42d1-99d8-8cc97587e882",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 278/2020-19",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Jan Musil",
+    "ecli": "ECLI:CZ:OSMO:2020:11.C.278.2020.2",
+    "predmetRizeni": "16 418,27 Kč s příslušenstvím",
+    "datumVydani": "2020-11-16",
+    "datumZverejneni": "2021-01-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0b02b870-d226-42d1-99d8-8cc97587e882"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
