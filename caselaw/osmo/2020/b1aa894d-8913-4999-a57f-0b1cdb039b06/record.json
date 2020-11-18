@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:33.C.309.2020.2",
+  "docket": "33 C 309/2020-27",
+  "date": "2020-11-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b1aa894d-8913-4999-a57f-0b1cdb039b06",
+  "source_sha256": "1428f58077d70f59047b52fef264bf78fc1eb601980df61363f1a2fe68707dae",
+  "source_id": "b1aa894d-8913-4999-a57f-0b1cdb039b06",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "33 C 309/2020-27",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Vladimír Dufek",
+    "ecli": "ECLI:CZ:OSMO:2020:33.C.309.2020.2",
+    "predmetRizeni": "O zaplacení 4 262 Kč s příslušenstvím",
+    "datumVydani": "2020-11-18",
+    "datumZverejneni": "2020-12-16",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2783 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b1aa894d-8913-4999-a57f-0b1cdb039b06"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
