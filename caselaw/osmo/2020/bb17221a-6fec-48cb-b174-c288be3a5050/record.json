@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:16.C.232.2020.2",
+  "docket": "16 C 232/2020-29",
+  "date": "2020-11-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bb17221a-6fec-48cb-b174-c288be3a5050",
+  "source_sha256": "28888e9af2c79ad494d98243eac431199b5569712954aecf26f4881dcaf9e5ea",
+  "source_id": "bb17221a-6fec-48cb-b174-c288be3a5050",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 232/2020-29",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Marie Švecová",
+    "ecli": "ECLI:CZ:OSMO:2020:16.C.232.2020.2",
+    "predmetRizeni": "8 401 Kč s příslušenstvím",
+    "datumVydani": "2020-11-18",
+    "datumZverejneni": "2021-01-15",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 2118 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb.",
+      "§ 1721 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bb17221a-6fec-48cb-b174-c288be3a5050"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
