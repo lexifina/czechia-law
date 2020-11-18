@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:60.C.74.2020.4",
+  "docket": "60 C 74/2020-32",
+  "date": "2020-11-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c814c7f2-d60c-4f28-813c-a3ec00d73d91",
+  "source_sha256": "fc7f22bd98891d324b74650b7dac53c313cf7e7f018629a88b645d89d5cf361f",
+  "source_id": "c814c7f2-d60c-4f28-813c-a3ec00d73d91",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "60 C 74/2020-32",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Karel Štička",
+    "ecli": "ECLI:CZ:OSMO:2020:60.C.74.2020.4",
+    "predmetRizeni": "11 160 Kč s příslušenstvím",
+    "datumVydani": "2020-11-18",
+    "datumZverejneni": "2021-01-27",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2246 z. č. 67/2013 Sb.",
+      "§ 2235 z. č. 89/2012 Sb.",
+      "§ 2239 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c814c7f2-d60c-4f28-813c-a3ec00d73d91"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
