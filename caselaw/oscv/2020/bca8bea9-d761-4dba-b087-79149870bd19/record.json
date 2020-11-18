@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2020:7.C.373.2019.1",
+  "docket": "7 C 373/2019-70",
+  "date": "2020-11-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bca8bea9-d761-4dba-b087-79149870bd19",
+  "source_sha256": "fa1422ca5d01f15bd93468b5fbd0b94880aa5589b9fb9a557e4b672b680ee02e",
+  "source_id": "bca8bea9-d761-4dba-b087-79149870bd19",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 373/2019-70",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Nikola Reifová",
+    "ecli": "ECLI:CZ:OSCV:2020:7.C.373.2019.1",
+    "predmetRizeni": "zaplacení 79 092,28 Kč s příslušenstvím (úvěr + smluvní pokuta)",
+    "datumVydani": "2020-11-18",
+    "datumZverejneni": "2021-06-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bca8bea9-d761-4dba-b087-79149870bd19"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
