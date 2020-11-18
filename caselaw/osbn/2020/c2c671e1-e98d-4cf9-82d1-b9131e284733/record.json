@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2020:8.C.221.2020.1",
+  "docket": "8 C 221/2020-19",
+  "date": "2020-11-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c2c671e1-e98d-4cf9-82d1-b9131e284733",
+  "source_sha256": "b55f8bf571eb6e6cae06df521eabb79fd8ae4df5a864dd7de86911c11b7aa1bb",
+  "source_id": "c2c671e1-e98d-4cf9-82d1-b9131e284733",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 221/2020-19",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Hedvika Lávičková",
+    "ecli": "ECLI:CZ:OSBN:2020:8.C.221.2020.1",
+    "predmetRizeni": "o zaplacení 6 482,69 Kč s příslušenstvím",
+    "datumVydani": "2020-11-18",
+    "datumZverejneni": "2021-02-05",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c2c671e1-e98d-4cf9-82d1-b9131e284733"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
