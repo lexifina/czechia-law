@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2020:6.C.21.2020.1",
+  "docket": "6 C 21/2020-19",
+  "date": "2020-11-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8379d0be-5cb1-4288-882b-c7bf86b1d6e2",
+  "source_sha256": "5a67aea65866d87a5044edab91ec49443b108d40590b6756aa75d28d3979006b",
+  "source_id": "8379d0be-5cb1-4288-882b-c7bf86b1d6e2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 21/2020-19",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "Mgr. Petra Dostálová kunická",
+    "ecli": "ECLI:CZ:OSJN:2020:6.C.21.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-11-18",
+    "datumZverejneni": "2020-12-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozsudek pro zmeškání",
+      "smlouva o ubytování"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 205 z. č. 99/1963 Sb.",
+      "§ 153b z. č. 99/1963 Sb.",
+      "§ 2326 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8379d0be-5cb1-4288-882b-c7bf86b1d6e2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
