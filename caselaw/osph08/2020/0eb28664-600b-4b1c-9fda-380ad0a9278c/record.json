@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2020:22.C.78.2020.2",
+  "docket": "22 C 78/2020-92",
+  "date": "2020-11-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0eb28664-600b-4b1c-9fda-380ad0a9278c",
+  "source_sha256": "3ecf5f24f5c1ee236654dbd217b2776612a5d6d7f042b50c63011c744f2bd3dc",
+  "source_id": "0eb28664-600b-4b1c-9fda-380ad0a9278c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 78/2020-92",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "Mgr. Jan Maruška",
+    "ecli": "ECLI:CZ:OSPH08:2020:22.C.78.2020.2",
+    "predmetRizeni": "o zaplacení 22.592 Kč s příslušenstvím",
+    "datumVydani": "2020-11-19",
+    "datumZverejneni": "2021-04-15",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0eb28664-600b-4b1c-9fda-380ad0a9278c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
