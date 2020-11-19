@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:48.C.166.2020.1",
+  "docket": "48 C 166/2020-15",
+  "date": "2020-11-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e96d9e89-b171-4687-91d1-962e7330281f",
+  "source_sha256": "6d2d214db92f4a5f074c2c51d46e6eb30f8b3a96883eb59c3be98db19dfe49a3",
+  "source_id": "e96d9e89-b171-4687-91d1-962e7330281f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "48 C 166/2020-15",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Alena Franková",
+    "ecli": "ECLI:CZ:MSBR:2020:48.C.166.2020.1",
+    "predmetRizeni": "zaplacení 1.525 Kč s příslušenstvím - pokuta",
+    "datumVydani": "2020-11-19",
+    "datumZverejneni": "2021-09-21",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 115 z. č. 99/1963 Sb.",
+      "§ 14b vyhl. č. 120/2014 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e96d9e89-b171-4687-91d1-962e7330281f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
