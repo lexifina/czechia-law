@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2020:26.C.33.2020.1",
+  "docket": "26 C 33/2020-15",
+  "date": "2020-11-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f0d26c2b-cab1-4168-bf4a-f92487594af8",
+  "source_sha256": "cf26d5dcd16d886e14eb58d646fa58cc587d095ba16dbd7e97fedfd722c62ab9",
+  "source_id": "f0d26c2b-cab1-4168-bf4a-f92487594af8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 33/2020-15",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "Mgr. Radmila Hůdová",
+    "ecli": "ECLI:CZ:OSCB:2020:26.C.33.2020.1",
+    "predmetRizeni": "EPR [číslo] 2020, o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2020-11-19",
+    "datumZverejneni": "2021-02-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozsudek pro uznání"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 153a z. č. 99/1963 Sb.",
+      "§ 205 z. č. 99/1963 Sb.",
+      "§ 114b z. č. 99/1963 Sb.",
+      "§ 2586 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f0d26c2b-cab1-4168-bf4a-f92487594af8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
