@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:15.C.55.2020.3",
+  "docket": "15 C 55/2020-64",
+  "date": "2020-11-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9d307d85-1638-4c6e-903d-4e91732950df",
+  "source_sha256": "ea5fed231b62cc622aa79f53571ab2b31ca1590c6e0de0dbefcaef42ebc886b8",
+  "source_id": "9d307d85-1638-4c6e-903d-4e91732950df",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 55/2020-64",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Radka Kryndlerová",
+    "ecli": "ECLI:CZ:OSMO:2020:15.C.55.2020.3",
+    "predmetRizeni": "žaloba o určení neplatnosti smlouvy",
+    "datumVydani": "2020-11-19",
+    "datumZverejneni": "2021-02-08",
+    "klicovaSlova": [
+      "bytové družstvo",
+      "družstevní byt",
+      "notářský zápis",
+      "peněžité plnění",
+      "převod vlastnictví",
+      "smlouva kupní",
+      "vlastnictví bytů"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 12 vyhl. č. 177/1996 Sb.",
+      "§ 80 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9d307d85-1638-4c6e-903d-4e91732950df"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
