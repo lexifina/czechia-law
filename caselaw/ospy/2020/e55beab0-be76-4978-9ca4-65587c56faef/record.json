@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2020:21.C.219.2020.1",
+  "docket": "21 C 219/2020-19",
+  "date": "2020-11-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e55beab0-be76-4978-9ca4-65587c56faef",
+  "source_sha256": "d290c977843bfe9f58b7fd1b1c57da4376b68d4894aa28d5900a89e3e0d946e7",
+  "source_id": "e55beab0-be76-4978-9ca4-65587c56faef",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 219/2020-19",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Dana Fiedlerová",
+    "ecli": "ECLI:CZ:OSPY:2020:21.C.219.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-11-20",
+    "datumZverejneni": "2021-01-28",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e55beab0-be76-4978-9ca4-65587c56faef"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
