@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:60.C.75.2020.4",
+  "docket": "60 C 75/2020-42",
+  "date": "2020-11-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/589e7c64-72b3-4185-8e32-4d79e95f8777",
+  "source_sha256": "95ec008b61c40126df10b1dc0c4b3335eaf37ad0c8c37c9d672eff0a4698ece9",
+  "source_id": "589e7c64-72b3-4185-8e32-4d79e95f8777",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "60 C 75/2020-42",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Karel Štička",
+    "ecli": "ECLI:CZ:OSMO:2020:60.C.75.2020.4",
+    "predmetRizeni": "52 820 Kč s příslušenstvím",
+    "datumVydani": "2020-11-20",
+    "datumZverejneni": "2021-02-03",
+    "klicovaSlova": [
+      "družstevní byt",
+      "dlužné platby spojené s užíváním bytu",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2246 z. č. 67/2013 Sb.",
+      "§ 2235 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/589e7c64-72b3-4185-8e32-4d79e95f8777"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
