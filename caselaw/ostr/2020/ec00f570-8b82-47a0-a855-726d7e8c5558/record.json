@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Třebíči",
+  "ecli": "ECLI:CZ:OSTR:2020:7.C.93.2020.1",
+  "docket": "7 C 93/2020-25",
+  "date": "2020-11-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ec00f570-8b82-47a0-a855-726d7e8c5558",
+  "source_sha256": "4a5253392ff47af0686016f6eb6ecc434a74c3f988df8dcddf4034bb45672848",
+  "source_id": "ec00f570-8b82-47a0-a855-726d7e8c5558",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 93/2020-25",
+    "soud": "Okresní soud v Třebíči",
+    "autor": "Mgr. Petra Rutarová",
+    "ecli": "ECLI:CZ:OSTR:2020:7.C.93.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2020-11-23",
+    "datumZverejneni": "2021-02-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "věcná břemena",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 1 vyhl. č. 358/2019 Sb.",
+      "§ 4 vyhl. č. 358/2019 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ec00f570-8b82-47a0-a855-726d7e8c5558"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
