@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2020:4.C.18.2017.1",
+  "docket": "4 C 18/2017-156",
+  "date": "2020-11-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/973a85fe-23ff-488b-bdc3-13f887df8e75",
+  "source_sha256": "2a2590d5a734df549b84cf17527d4b37a0d6b898e871d49892aa6af7d1207654",
+  "source_id": "973a85fe-23ff-488b-bdc3-13f887df8e75",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 18/2017-156",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "Mgr. Alena Štětinová",
+    "ecli": "ECLI:CZ:OSKT:2020:4.C.18.2017.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-11-23",
+    "datumZverejneni": "2021-11-15",
+    "klicovaSlova": [
+      "místní příslušnost",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/973a85fe-23ff-488b-bdc3-13f887df8e75"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
