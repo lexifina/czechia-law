@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2020:9.C.234.2020.1",
+  "docket": "9 C 234/2020-53",
+  "date": "2020-11-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c487acbc-13fa-437c-821e-7cf407104d68",
+  "source_sha256": "5bcfa7295cb428471a6f6fe9bebed440ad074288e89a20b907c7e9b0bd496a28",
+  "source_id": "c487acbc-13fa-437c-821e-7cf407104d68",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 234/2020-53",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "JUDr. Vlasta Pešková",
+    "ecli": "ECLI:CZ:OSKT:2020:9.C.234.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-11-23",
+    "datumZverejneni": "2021-08-17",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c487acbc-13fa-437c-821e-7cf407104d68"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
