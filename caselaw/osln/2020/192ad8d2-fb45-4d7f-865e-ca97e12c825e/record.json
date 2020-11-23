@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2020:5.C.201.2020.1",
+  "docket": "5 C 201/2020-20",
+  "date": "2020-11-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/192ad8d2-fb45-4d7f-865e-ca97e12c825e",
+  "source_sha256": "2f44aa0ad939df191c0c8db2f507787a08e5f340f03c401ac0222cfda73e6f86",
+  "source_id": "192ad8d2-fb45-4d7f-865e-ca97e12c825e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 201/2020-20",
+    "soud": "Okresní soud v Lounech",
+    "autor": "JUDr. Eva Kopecká",
+    "ecli": "ECLI:CZ:OSLN:2020:5.C.201.2020.1",
+    "predmetRizeni": "O zaplacení 16 144,20 Kč s příslušenstvím",
+    "datumVydani": "2020-11-23",
+    "datumZverejneni": "2021-01-26",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/192ad8d2-fb45-4d7f-865e-ca97e12c825e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
