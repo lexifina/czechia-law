@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2020:30.C.190.2015.1",
+  "docket": "30 C 190/2015-22",
+  "date": "2020-11-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/82eeaf74-53cf-45d4-b865-8d7a424efd91",
+  "source_sha256": "44c350e33ca25d420a0466f68c22657b4769e14cbbd491452d232c2152d43f1d",
+  "source_id": "82eeaf74-53cf-45d4-b865-8d7a424efd91",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 190/2015-22",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Hana Jakubcová",
+    "ecli": "ECLI:CZ:OSCV:2020:30.C.190.2015.1",
+    "predmetRizeni": "",
+    "datumVydani": "2020-11-23",
+    "datumZverejneni": "2021-02-18",
+    "klicovaSlova": [
+      "oddlužení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 513 z. č. 89/2012 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 140a z. č. 182/2006 Sb.",
+      "§ 510 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/82eeaf74-53cf-45d4-b865-8d7a424efd91"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
