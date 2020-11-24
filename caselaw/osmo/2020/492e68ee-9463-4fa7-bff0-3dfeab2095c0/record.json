@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:17.C.263.2020.2",
+  "docket": "17 C 263/2020-19",
+  "date": "2020-11-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/492e68ee-9463-4fa7-bff0-3dfeab2095c0",
+  "source_sha256": "7c9fdf89cfff4ddab677669f8ec955dc761e66b0c2a5d95054682b4ad5331d85",
+  "source_id": "492e68ee-9463-4fa7-bff0-3dfeab2095c0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 263/2020-19",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Iva Flaxová",
+    "ecli": "ECLI:CZ:OSMO:2020:17.C.263.2020.2",
+    "predmetRizeni": "14 748 Kč s příslušenstvím",
+    "datumVydani": "2020-11-24",
+    "datumZverejneni": "2021-01-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 1 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/492e68ee-9463-4fa7-bff0-3dfeab2095c0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
