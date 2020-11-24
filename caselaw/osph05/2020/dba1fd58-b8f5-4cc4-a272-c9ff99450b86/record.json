@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2020:4.C.335.2020.1",
+  "docket": "4 C 335/2020-7",
+  "date": "2020-11-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dba1fd58-b8f5-4cc4-a272-c9ff99450b86",
+  "source_sha256": "0b19f7d510416b299a3bf4412b81b27b78faf76f7eb5d9c3b29d7b057b4cc88d",
+  "source_id": "dba1fd58-b8f5-4cc4-a272-c9ff99450b86",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 335/2020-7",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "JUDr. Michala Dvořáková",
+    "ecli": "ECLI:CZ:OSPH05:2020:4.C.335.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-11-24",
+    "datumZverejneni": "2021-02-09",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 89/2012 Sb.",
+      "§ 23 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dba1fd58-b8f5-4cc4-a272-c9ff99450b86"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
