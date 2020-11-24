@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:17.C.160.2020.5",
+  "docket": "17 C 160/2020-39",
+  "date": "2020-11-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2236b196-79ae-4433-9cd6-6291065c8ad6",
+  "source_sha256": "f623bdd38b28869f31b0aba735918ada7d70d7aae033a0035b0c6fe25da4c5ee",
+  "source_id": "2236b196-79ae-4433-9cd6-6291065c8ad6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 160/2020-39",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Iva Flaxová",
+    "ecli": "ECLI:CZ:OSMO:2020:17.C.160.2020.5",
+    "predmetRizeni": "11 056 Kč s příslušenstvím",
+    "datumVydani": "2020-11-24",
+    "datumZverejneni": "2021-02-02",
+    "klicovaSlova": [
+      "náklady léčení",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 55 z. č. 48/1997 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2236b196-79ae-4433-9cd6-6291065c8ad6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
