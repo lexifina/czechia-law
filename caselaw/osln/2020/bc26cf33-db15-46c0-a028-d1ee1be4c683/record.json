@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2020:12.C.185.2020.1",
+  "docket": "12 C 185/2020-31",
+  "date": "2020-11-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bc26cf33-db15-46c0-a028-d1ee1be4c683",
+  "source_sha256": "a3fb3c25f7599871e2d24f0a79ebe05910e21f389d3b80a57171cf630f9128a7",
+  "source_id": "bc26cf33-db15-46c0-a028-d1ee1be4c683",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 185/2020-31",
+    "soud": "Okresní soud v Lounech",
+    "autor": "JUDr. Vanda Vincíková, Ph.D.",
+    "ecli": "ECLI:CZ:OSLN:2020:12.C.185.2020.1",
+    "predmetRizeni": "O zaplacení 10 570 Kč s příslušenstvím",
+    "datumVydani": "2020-11-24",
+    "datumZverejneni": "2021-01-18",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 251 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bc26cf33-db15-46c0-a028-d1ee1be4c683"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
