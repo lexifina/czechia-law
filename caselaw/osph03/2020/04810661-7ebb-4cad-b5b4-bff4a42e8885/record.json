@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 3",
+  "ecli": "ECLI:CZ:OSPH03:2020:5.C.225.2020.1",
+  "docket": "5 C 225/2020-35",
+  "date": "2020-11-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/04810661-7ebb-4cad-b5b4-bff4a42e8885",
+  "source_sha256": "c86123628310127f2d3c55ca60c80771df15b5e86dad17d9aeb5cf26d8e6a8ca",
+  "source_id": "04810661-7ebb-4cad-b5b4-bff4a42e8885",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 225/2020-35",
+    "soud": "Obvodní soud pro Prahu 3",
+    "autor": "JUDr. Jarmila Senešiová",
+    "ecli": "ECLI:CZ:OSPH03:2020:5.C.225.2020.1",
+    "predmetRizeni": "15 467,50 Kč s příslušenstvím",
+    "datumVydani": "2020-11-24",
+    "datumZverejneni": "2021-02-05",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§  z. č. 127/2005 Sb.",
+      "§ 2201 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/04810661-7ebb-4cad-b5b4-bff4a42e8885"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
