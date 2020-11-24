@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:13.C.227.2020.1",
+  "docket": "13 C 227/2020-25",
+  "date": "2020-11-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/21d57125-17d2-41da-a657-c2ba478d9508",
+  "source_sha256": "01f161d286ee4092d2fb30788d00f1f59e429c09e3a9421ce4056ef274d65222",
+  "source_id": "21d57125-17d2-41da-a657-c2ba478d9508",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 227/2020-25",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Ludmila Vlčková",
+    "ecli": "ECLI:CZ:OSMO:2020:13.C.227.2020.1",
+    "predmetRizeni": "2 200 Kč s příslušenstvím",
+    "datumVydani": "2020-11-24",
+    "datumZverejneni": "2020-12-17",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/21d57125-17d2-41da-a657-c2ba478d9508"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
