@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:22.C.286.2020.2",
+  "docket": "22 C 286/2020-21",
+  "date": "2020-11-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/70d02ad5-fc01-4ce1-867a-46b3ef108f6f",
+  "source_sha256": "3d418d3d0b7d425da957376cd806de092dd1793439519eb77b985ff453fb8395",
+  "source_id": "70d02ad5-fc01-4ce1-867a-46b3ef108f6f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 286/2020-21",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Denisa Hamerská",
+    "ecli": "ECLI:CZ:OSMO:2020:22.C.286.2020.2",
+    "predmetRizeni": "8 482,12 Kč s příslušenstvím",
+    "datumVydani": "2020-11-25",
+    "datumZverejneni": "2021-01-27",
+    "klicovaSlova": [
+      "dodávky energie",
+      "odstoupení od smlouvy",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 50 z. č. 458/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/70d02ad5-fc01-4ce1-867a-46b3ef108f6f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
