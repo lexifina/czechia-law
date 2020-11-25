@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2020:15.C.68.2020.1",
+  "docket": "15 C 68/2020-28",
+  "date": "2020-11-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d803b441-5d79-4783-a37b-374cfd67f1eb",
+  "source_sha256": "a493eb271d02fcdd40ce18ed175fcfda6628e6aaa7a61b25b9c5e9ba3b4b1d27",
+  "source_id": "d803b441-5d79-4783-a37b-374cfd67f1eb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 68/2020-28",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "JUDr. Barbora Hněvkovská",
+    "ecli": "ECLI:CZ:OSPH05:2020:15.C.68.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-11-25",
+    "datumZverejneni": "2021-02-02",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d803b441-5d79-4783-a37b-374cfd67f1eb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
