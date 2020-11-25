@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2020:53.C.18.2020.1",
+  "docket": "53 C 18/2020-36",
+  "date": "2020-11-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ea3c1aa3-a810-4c1d-bebc-ed4eff261aef",
+  "source_sha256": "95b7242437deeb2bae216853b89c50e3fd9f4f52a139f7fc3d88b2d18559b64e",
+  "source_id": "ea3c1aa3-a810-4c1d-bebc-ed4eff261aef",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "53 C 18/2020-36",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "JUDr. Martina Kűchlerová",
+    "ecli": "ECLI:CZ:OSNA:2020:53.C.18.2020.1",
+    "predmetRizeni": "o zaplacení 12.800 Kč s příslušenstvím (faktura)",
+    "datumVydani": "2020-11-25",
+    "datumZverejneni": "2021-02-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozsudek pro uznání",
+      "smlouva komisionářská",
+      "uznání dluhu",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 1932 z. č. 89/2012 Sb.",
+      "§ 2455 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ea3c1aa3-a810-4c1d-bebc-ed4eff261aef"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
