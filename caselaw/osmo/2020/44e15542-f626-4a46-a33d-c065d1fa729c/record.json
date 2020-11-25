@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:16.C.280.2020.2",
+  "docket": "16 C 280/2020-28",
+  "date": "2020-11-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/44e15542-f626-4a46-a33d-c065d1fa729c",
+  "source_sha256": "7290e8fc81ac3081ae9fe8c5bb37880e025fb52442c56aefe495550b4f955b17",
+  "source_id": "44e15542-f626-4a46-a33d-c065d1fa729c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 280/2020-28",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Marie Švecová",
+    "ecli": "ECLI:CZ:OSMO:2020:16.C.280.2020.2",
+    "predmetRizeni": "7 000 Kč s příslušenstvím",
+    "datumVydani": "2020-11-25",
+    "datumZverejneni": "2021-02-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1 nař. vl. č. 142/1994 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 517 z. č. 40/64 Sb.",
+      "§ 1897 z. č. 89/2012 Sb.",
+      "§ 658 z. č. 40/64 Sb.",
+      "§ 657 z. č. 40/64 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/44e15542-f626-4a46-a33d-c065d1fa729c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
