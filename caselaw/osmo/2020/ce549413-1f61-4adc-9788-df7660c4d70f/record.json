@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:39.C.261.2020.2",
+  "docket": "39 C 261/2020-20",
+  "date": "2020-11-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ce549413-1f61-4adc-9788-df7660c4d70f",
+  "source_sha256": "88b35075fd48cd021c5815866065c583431fb60d86760655345c16b296f9246f",
+  "source_id": "ce549413-1f61-4adc-9788-df7660c4d70f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "39 C 261/2020-20",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Rudolf Malý",
+    "ecli": "ECLI:CZ:OSMO:2020:39.C.261.2020.2",
+    "predmetRizeni": "1 521 Kč s příslušenstvím",
+    "datumVydani": "2020-11-26",
+    "datumZverejneni": "2020-12-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ce549413-1f61-4adc-9788-df7660c4d70f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
