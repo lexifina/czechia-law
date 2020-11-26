@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2020:11.C.259.2020.1",
+  "docket": "11 C 259/2020-11",
+  "date": "2020-11-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/585ea705-aa5f-495d-a15f-2b6c8788fc65",
+  "source_sha256": "4e54edb358c40bdb6312332ccdb3d3376fa33b3df8277702653fafe8d0d81c2b",
+  "source_id": "585ea705-aa5f-495d-a15f-2b6c8788fc65",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 259/2020-11",
+    "soud": "Okresní soud v Benešově",
+    "autor": "JUDr. Eva Kůsová, Ph.D.",
+    "ecli": "ECLI:CZ:OSBN:2020:11.C.259.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-11-26",
+    "datumZverejneni": "2021-02-24",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/585ea705-aa5f-495d-a15f-2b6c8788fc65"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
