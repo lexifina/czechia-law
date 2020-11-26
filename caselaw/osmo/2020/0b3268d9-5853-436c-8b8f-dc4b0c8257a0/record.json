@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:17.C.328.2020.2",
+  "docket": "17 C 328/2020-19",
+  "date": "2020-11-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0b3268d9-5853-436c-8b8f-dc4b0c8257a0",
+  "source_sha256": "8366010216c76dacee313927a3009a12d6c8196731c64e696e21c4d2a513f1da",
+  "source_id": "0b3268d9-5853-436c-8b8f-dc4b0c8257a0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 328/2020-19",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Iva Flaxová",
+    "ecli": "ECLI:CZ:OSMO:2020:17.C.328.2020.2",
+    "predmetRizeni": "1 777 Kč s příslušenstvím",
+    "datumVydani": "2020-11-26",
+    "datumZverejneni": "2021-02-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0b3268d9-5853-436c-8b8f-dc4b0c8257a0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
