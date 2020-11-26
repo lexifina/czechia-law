@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2020:30.C.52.2020.1",
+  "docket": "30 C 52/2020-18",
+  "date": "2020-11-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1b0162b9-bf8c-4000-a12a-a82d072f110c",
+  "source_sha256": "f2f8b05bd307d272d120a6631e55938ebe9d5fb678bad7bb693f11a885317023",
+  "source_id": "1b0162b9-bf8c-4000-a12a-a82d072f110c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 52/2020-18",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Hana Jakubcová",
+    "ecli": "ECLI:CZ:OSCV:2020:30.C.52.2020.1",
+    "predmetRizeni": "zaplacení 1 000 Kč s příslušenstvím (zápůjčka)",
+    "datumVydani": "2020-11-26",
+    "datumZverejneni": "2021-02-18",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "korporace",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1b0162b9-bf8c-4000-a12a-a82d072f110c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
