@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2020:11.C.66.2020.1",
+  "docket": "11 C 66/2020-34",
+  "date": "2020-11-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8fc259e3-a791-460c-9ab0-5e929605d09b",
+  "source_sha256": "2dd6b6543a736c0c9fa8eff1922ae1d5c7c0563b6cfd0271a97d44996f7de20d",
+  "source_id": "8fc259e3-a791-460c-9ab0-5e929605d09b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 66/2020-34",
+    "soud": "Okresní soud v Lounech",
+    "autor": "JUDr. Ivana Koberová, Ph.D.",
+    "ecli": "ECLI:CZ:OSLN:2020:11.C.66.2020.1",
+    "predmetRizeni": "O zaplacení 600 Kč s příslušenstvím",
+    "datumVydani": "2020-11-26",
+    "datumZverejneni": "2021-01-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 663 z. č. 40/1964 Sb.",
+      "§ 2231 z. č. 89/2012 Sb.",
+      "§ 3074 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8fc259e3-a791-460c-9ab0-5e929605d09b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
