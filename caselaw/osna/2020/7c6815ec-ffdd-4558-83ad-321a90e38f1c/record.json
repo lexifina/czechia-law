@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2020:55.C.18.2020.5",
+  "docket": "55 C 18/2020-35",
+  "date": "2020-11-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7c6815ec-ffdd-4558-83ad-321a90e38f1c",
+  "source_sha256": "5f64d0f6e662495eeca00c199f31315c25e114b741c1911355e8195da7603df7",
+  "source_id": "7c6815ec-ffdd-4558-83ad-321a90e38f1c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "55 C 18/2020-35",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "JUDr. Jana Slížková",
+    "ecli": "ECLI:CZ:OSNA:2020:55.C.18.2020.5",
+    "predmetRizeni": "o zaplacení 4.719,70 Kč s přísl. (náklady za elektřinu)",
+    "datumVydani": "2020-11-26",
+    "datumZverejneni": "2021-02-19",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 72 z. č. 458/2000 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7c6815ec-ffdd-4558-83ad-321a90e38f1c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
