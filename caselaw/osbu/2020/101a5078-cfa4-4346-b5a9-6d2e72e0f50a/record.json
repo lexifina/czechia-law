@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2020:7.C.83.2020.1",
+  "docket": "7 C 83/2020-16",
+  "date": "2020-11-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/101a5078-cfa4-4346-b5a9-6d2e72e0f50a",
+  "source_sha256": "8982531fede7ceead847217f3d80bdb14e4349576144843c9088a118f39ff08d",
+  "source_id": "101a5078-cfa4-4346-b5a9-6d2e72e0f50a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 83/2020-16",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "Mgr. Monika Kotrlová",
+    "ecli": "ECLI:CZ:OSBU:2020:7.C.83.2020.1",
+    "predmetRizeni": "o zaplacení částky 1 520 Kč s příslušenstvím",
+    "datumVydani": "2020-11-26",
+    "datumZverejneni": "2021-03-08",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 115 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 251 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/101a5078-cfa4-4346-b5a9-6d2e72e0f50a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
