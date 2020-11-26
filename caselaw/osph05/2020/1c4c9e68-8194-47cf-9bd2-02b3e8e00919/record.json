@@ -1,0 +1,50 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2020:26.C.214.2020.1",
+  "docket": "26 C 214/2020-82",
+  "date": "2020-11-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1c4c9e68-8194-47cf-9bd2-02b3e8e00919",
+  "source_sha256": "4e47451683e5b7aebe4d4d5eb306a3cbcd0026a85cb2eec50e1ebd9bef466f27",
+  "source_id": "1c4c9e68-8194-47cf-9bd2-02b3e8e00919",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 214/2020-82",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Jindřich Kysela",
+    "ecli": "ECLI:CZ:OSPH05:2020:26.C.214.2020.1",
+    "predmetRizeni": "žaloba na vydání a zaplacení",
+    "datumVydani": "2020-11-26",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "promlčení",
+      "smlouva o výpůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 3036 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 129 z. č. 99/1963 Sb.",
+      "§ 121 z. č. 89/2012 Sb.",
+      "§ 100 z. č. 89/2012 Sb.",
+      "§ 101 z. č. 89/2012 Sb.",
+      "§ 3079 z. č. 89/2012 Sb.",
+      "§ 662 z. č. 89/2012 Sb.",
+      "§ 659 z. č. 40/1991 Sb.",
+      "§ 106 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1c4c9e68-8194-47cf-9bd2-02b3e8e00919"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
