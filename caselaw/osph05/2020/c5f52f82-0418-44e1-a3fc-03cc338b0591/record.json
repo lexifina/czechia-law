@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2020:15.C.360.2020.1",
+  "docket": "15 C 360/2020-12",
+  "date": "2020-11-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c5f52f82-0418-44e1-a3fc-03cc338b0591",
+  "source_sha256": "ba25112e5798eabc6b6981f979b26a2ab1fee15367ae8f3674d0d3516004d49e",
+  "source_id": "c5f52f82-0418-44e1-a3fc-03cc338b0591",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 360/2020-12",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "JUDr. Barbora Hněvkovská",
+    "ecli": "ECLI:CZ:OSPH05:2020:15.C.360.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-11-27",
+    "datumZverejneni": "2021-02-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o běžném účtu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 129 z. č. 99/1963 Sb.",
+      "§ 708 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c5f52f82-0418-44e1-a3fc-03cc338b0591"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
