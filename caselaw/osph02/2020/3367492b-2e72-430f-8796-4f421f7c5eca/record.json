@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2020:45.C.106.2019.3",
+  "docket": "45 C 106/2019-111",
+  "date": "2020-11-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3367492b-2e72-430f-8796-4f421f7c5eca",
+  "source_sha256": "19db609152cfc0b44338e2457a4bb5b33c10515971e47a4c62d89a05e94fbb01",
+  "source_id": "3367492b-2e72-430f-8796-4f421f7c5eca",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "45 C 106/2019-111",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "JUDr. Kateřina Takácsová",
+    "ecli": "ECLI:CZ:OSPH02:2020:45.C.106.2019.3",
+    "predmetRizeni": "o náhradu újmy způsobené trestním stíháním ve výši 89 310 Kč s příslušenstvím",
+    "datumVydani": "2020-11-27",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "náhrada nemajetkové újmy",
+      "nemajetková újma",
+      "peněžité plnění",
+      "zadostiučinění / satisfakce",
+      "zastavení exekuce / výkonu rozhodnutí"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 7 z. č. 82/1998 Sb.",
+      "§ 404 z. č. 40/2009 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3367492b-2e72-430f-8796-4f421f7c5eca"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
