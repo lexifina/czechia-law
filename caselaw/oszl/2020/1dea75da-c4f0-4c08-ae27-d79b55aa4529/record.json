@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2020:11.C.238.2020.1",
+  "docket": "11 C 238/2020-18",
+  "date": "2020-11-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1dea75da-c4f0-4c08-ae27-d79b55aa4529",
+  "source_sha256": "0362b88e316d66bdd5d9bf5df8bf4bf323f05aaebcb972b1e2b429cc0c2ecabf",
+  "source_id": "1dea75da-c4f0-4c08-ae27-d79b55aa4529",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 238/2020-18",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "JUDr. David Kolumber, Ph.D.",
+    "ecli": "ECLI:CZ:OSZL:2020:11.C.238.2020.1",
+    "predmetRizeni": "zaplacení 2 589 Kč s příslušenstvím",
+    "datumVydani": "2020-11-27",
+    "datumZverejneni": "2021-04-29",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "sleva z ceny"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§  z. č. 131/2002 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1dea75da-c4f0-4c08-ae27-d79b55aa4529"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
