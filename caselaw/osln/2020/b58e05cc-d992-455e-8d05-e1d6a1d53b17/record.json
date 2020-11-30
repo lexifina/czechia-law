@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2020:7.C.83.2020.1",
+  "docket": "7 C 83/2020-40",
+  "date": "2020-11-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b58e05cc-d992-455e-8d05-e1d6a1d53b17",
+  "source_sha256": "1b379e5bb63e194c5857de995363759872e8853fe890bfbee85a65a279d68a78",
+  "source_id": "b58e05cc-d992-455e-8d05-e1d6a1d53b17",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 83/2020-40",
+    "soud": "Okresní soud v Lounech",
+    "autor": "JUDr. Alena Šmicová",
+    "ecli": "ECLI:CZ:OSLN:2020:7.C.83.2020.1",
+    "predmetRizeni": "O zaplacení 1 000 Kč s příslušenstvím",
+    "datumVydani": "2020-11-30",
+    "datumZverejneni": "2021-02-15",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§  z. č. 0/0 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b58e05cc-d992-455e-8d05-e1d6a1d53b17"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
