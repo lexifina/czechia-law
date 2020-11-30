@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Uherském Hradišti",
+  "ecli": "ECLI:CZ:OSUH:2020:6.C.155.2020.1",
+  "docket": "6 C 155/2020-67",
+  "date": "2020-11-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/40155500-b027-44a4-ae15-1bf9d4d97f50",
+  "source_sha256": "57a48a8e2fab92f8d41e3019b5312329cd589b6cdde196149ed860bf02a02164",
+  "source_id": "40155500-b027-44a4-ae15-1bf9d4d97f50",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 155/2020-67",
+    "soud": "Okresní soud v Uherském Hradišti",
+    "autor": "Mgr. Eliška Zapletalová",
+    "ecli": "ECLI:CZ:OSUH:2020:6.C.155.2020.1",
+    "predmetRizeni": "34.538,91 Kč s příslušenstvím",
+    "datumVydani": "2020-11-30",
+    "datumZverejneni": "2021-06-10",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 2049 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/40155500-b027-44a4-ae15-1bf9d4d97f50"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
