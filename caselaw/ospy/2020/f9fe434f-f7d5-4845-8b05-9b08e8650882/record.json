@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2020:8.C.407.2020.1",
+  "docket": "8 C 407/2020-23",
+  "date": "2020-11-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f9fe434f-f7d5-4845-8b05-9b08e8650882",
+  "source_sha256": "011a3c37b04fcbd9c27e2050743edd306537eaf5c5762ba886904550ad192ad1",
+  "source_id": "f9fe434f-f7d5-4845-8b05-9b08e8650882",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 407/2020-23",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Jitka Sochorová",
+    "ecli": "ECLI:CZ:OSPY:2020:8.C.407.2020.1",
+    "predmetRizeni": "O zaplacení 6 943,75 Kč s příslušenstvím",
+    "datumVydani": "2020-11-30",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "ochrana spotřebitele",
+      "peněžité plnění",
+      "prodlení věřitele",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 122 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f9fe434f-f7d5-4845-8b05-9b08e8650882"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
