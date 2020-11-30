@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2020:25.C.268.2019.1",
+  "docket": "25 C 268/2019-33",
+  "date": "2020-11-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fa88e456-f811-40ae-a221-d232a093ac2b",
+  "source_sha256": "3c24869ded4d79f937a039fa1b30f890f63a22e57e5e027c41411eb49991fd74",
+  "source_id": "fa88e456-f811-40ae-a221-d232a093ac2b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 268/2019-33",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Andrea Pěničková",
+    "ecli": "ECLI:CZ:OSDC:2020:25.C.268.2019.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-11-30",
+    "datumZverejneni": "2021-07-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úschově"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2406 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 166/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fa88e456-f811-40ae-a221-d232a093ac2b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
