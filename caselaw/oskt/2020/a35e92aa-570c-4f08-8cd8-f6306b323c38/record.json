@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2020:4.C.210.2017.1",
+  "docket": "4 C 210/2017-141",
+  "date": "2020-11-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a35e92aa-570c-4f08-8cd8-f6306b323c38",
+  "source_sha256": "ce842d0038f51aed83d1918d45b980482f08fe03b6ddf6822da1e7d21d0a4333",
+  "source_id": "a35e92aa-570c-4f08-8cd8-f6306b323c38",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 210/2017-141",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "Mgr. Alena Štětinová",
+    "ecli": "ECLI:CZ:OSKT:2020:4.C.210.2017.1",
+    "predmetRizeni": "nahrazení projevu vůle",
+    "datumVydani": "2020-11-30",
+    "datumZverejneni": "2021-05-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "prekluze",
+      "převzetí majetku",
+      "smlouva o výpůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§  3  z. č. 428/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a35e92aa-570c-4f08-8cd8-f6306b323c38"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
