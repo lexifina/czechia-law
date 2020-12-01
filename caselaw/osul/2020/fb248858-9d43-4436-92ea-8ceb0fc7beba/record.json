@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2020:29.C.218.2020.1",
+  "docket": "29 C 218/2020-20",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fb248858-9d43-4436-92ea-8ceb0fc7beba",
+  "source_sha256": "a1c128edac3a5731d17f55d35ea07fad50533a70f6f38629ad331e10c439203e",
+  "source_id": "fb248858-9d43-4436-92ea-8ceb0fc7beba",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 218/2020-20",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Karel Šemík",
+    "ecli": "ECLI:CZ:OSUL:2020:29.C.218.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-01-15",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 395 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fb248858-9d43-4436-92ea-8ceb0fc7beba"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
