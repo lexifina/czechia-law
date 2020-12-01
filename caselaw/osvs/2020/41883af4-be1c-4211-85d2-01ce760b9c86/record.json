@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně",
+  "ecli": "ECLI:CZ:OSVS:2020:108.C.11.2020.1",
+  "docket": "108 C 11/2020-93",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/41883af4-be1c-4211-85d2-01ce760b9c86",
+  "source_sha256": "5ebd928d43b31bfcc4ea7fee2f806785f463cda02997d79da249cddbec56b861",
+  "source_id": "41883af4-be1c-4211-85d2-01ce760b9c86",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "108 C 11/2020-93",
+    "soud": "Okresní soud ve Vsetíně",
+    "autor": "JUDr. Naděžda Janáčková",
+    "ecli": "ECLI:CZ:OSVS:2020:108.C.11.2020.1",
+    "predmetRizeni": "žaloba s návrhem na vydání platebního rozkazu o zaplacení částky 27 678,00 Kč s příslušenstvím",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-04-26",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "notářský zápis",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "smlouva příkazní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 2267ob z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/41883af4-be1c-4211-85d2-01ce760b9c86"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
