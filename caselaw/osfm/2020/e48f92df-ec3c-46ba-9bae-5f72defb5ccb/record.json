@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2020:12.C.237.2020.1",
+  "docket": "12 C 237/2020-22",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e48f92df-ec3c-46ba-9bae-5f72defb5ccb",
+  "source_sha256": "ac81c62421a54575568425db60bc1288397d6ab388e4547df185fb1746fddb41",
+  "source_id": "e48f92df-ec3c-46ba-9bae-5f72defb5ccb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 237/2020-22",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "JUDr. Ludmila Kotásková",
+    "ecli": "ECLI:CZ:OSFM:2020:12.C.237.2020.1",
+    "predmetRizeni": "O zaplacení 14 854 Kč s příslušenstvím - půjčka",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-04-12",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2993 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e48f92df-ec3c-46ba-9bae-5f72defb5ccb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
