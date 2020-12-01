@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:20.C.178.2020.1",
+  "docket": "20 C 178/2020-37",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/af7990e1-3998-4b05-b6a8-89082aa5648e",
+  "source_sha256": "a7b04731a9581a1b0d919862fedd9c0eed5c8af8e46b842aab529b4e0c2d151e",
+  "source_id": "af7990e1-3998-4b05-b6a8-89082aa5648e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 178/2020-37",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Marta Mandátová",
+    "ecli": "ECLI:CZ:MSBR:2020:20.C.178.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím - zápůjčka",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-01-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/af7990e1-3998-4b05-b6a8-89082aa5648e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
