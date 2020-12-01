@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2020:28.C.411.2020.1",
+  "docket": "28 C 411/2020-15",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7567a97d-299b-4693-ac2f-9a1fa2a7c4ae",
+  "source_sha256": "d76fb0a38ec9a684d2715a326cb6d23edbeb2a74519a68cf26ba1a2893a72b94",
+  "source_id": "7567a97d-299b-4693-ac2f-9a1fa2a7c4ae",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 411/2020-15",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Šárka Malíková petříčková",
+    "ecli": "ECLI:CZ:OSPH05:2020:28.C.411.2020.1",
+    "predmetRizeni": "O zaplacení 95 377,48 Kč s příslušenstvím",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-02-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7567a97d-299b-4693-ac2f-9a1fa2a7c4ae"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
