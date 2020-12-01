@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2020:29.C.346.2020.1",
+  "docket": "29 C 346/2020-12",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/184fdc0a-58a7-42b3-bd51-5f55a31af9b2",
+  "source_sha256": "8832140b5151a423abf725c2aa258fad16f21665bd574193a8ee5121c75edf7f",
+  "source_id": "184fdc0a-58a7-42b3-bd51-5f55a31af9b2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 346/2020-12",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Karel Šemík",
+    "ecli": "ECLI:CZ:OSUL:2020:29.C.346.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-01-15",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 395 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/184fdc0a-58a7-42b3-bd51-5f55a31af9b2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
