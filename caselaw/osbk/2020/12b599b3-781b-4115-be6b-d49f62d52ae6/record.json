@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Blansku",
+  "ecli": "ECLI:CZ:OSBK:2020:2.C.146.2020.1",
+  "docket": "2 C 146/2020-48",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/12b599b3-781b-4115-be6b-d49f62d52ae6",
+  "source_sha256": "60ef3e5f4deae49b5314a4cfc2209a73786657c625f59ba5573b1a2d4fcab519",
+  "source_id": "12b599b3-781b-4115-be6b-d49f62d52ae6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "2 C 146/2020-48",
+    "soud": "Okresní soud v Blansku",
+    "autor": "Mgr. Klára Cásková",
+    "ecli": "ECLI:CZ:OSBK:2020:2.C.146.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-01-05",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§  z. č. 458/2000 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/12b599b3-781b-4115-be6b-d49f62d52ae6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
