@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2020:16.C.245.2020.1",
+  "docket": "16 C 245/2020-30",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ae1f94b7-c876-474e-b429-f00dfc517dc6",
+  "source_sha256": "a596a1dc2a12d9972d41757a7509ac328f64e2adac5d815f7f996a6317fc5903",
+  "source_id": "ae1f94b7-c876-474e-b429-f00dfc517dc6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 245/2020-30",
+    "soud": "Okresní soud v Karviné",
+    "autor": "JUDr. Irena Žaganová",
+    "ecli": "ECLI:CZ:OSKI:2020:16.C.245.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-01-22",
+    "klicovaSlova": [
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 96 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ae1f94b7-c876-474e-b429-f00dfc517dc6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
