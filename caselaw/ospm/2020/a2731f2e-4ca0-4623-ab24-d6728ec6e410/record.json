@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2020:16.C.43.2020.1",
+  "docket": "16 C 43/2020-132",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a2731f2e-4ca0-4623-ab24-d6728ec6e410",
+  "source_sha256": "0e92f63a1ccaa5d8fe46d6bcdd8bae2646f0f1cb8541494821b6b393ddba41d6",
+  "source_id": "a2731f2e-4ca0-4623-ab24-d6728ec6e410",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 43/2020-132",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Ing. Miroslav Skala",
+    "ecli": "ECLI:CZ:OSPM:2020:16.C.43.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-05-11",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva zástavní",
+      "uznání dluhu",
+      "zástavní právo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 356 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a2731f2e-4ca0-4623-ab24-d6728ec6e410"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
