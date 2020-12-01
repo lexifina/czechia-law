@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2020:13.C.208.2020.1",
+  "docket": "13 C 208/2020-24",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fe5caf7c-bf01-4ac4-8555-e0a26e8b4ab7",
+  "source_sha256": "edeaf986625cc4e4d6d994994eb1ca9e95d4fa392ce31a015adf1b2643d32fe8",
+  "source_id": "fe5caf7c-bf01-4ac4-8555-e0a26e8b4ab7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 208/2020-24",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "JUDr. Ivana Dvořáková",
+    "ecli": "ECLI:CZ:OSTP:2020:13.C.208.2020.1",
+    "predmetRizeni": "zaplacení 1 524 Kč s příslušenstvím",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-02-22",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 49 vyhl. č. 175/2000 Sb.",
+      "§ 6 z. č. 23/2000 Sb.",
+      "§ 37 z. č. 23/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fe5caf7c-bf01-4ac4-8555-e0a26e8b4ab7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
