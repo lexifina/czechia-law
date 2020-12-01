@@ -1,0 +1,52 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2020:40.C.225.2020.4",
+  "docket": "40 C 225/2020-30",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c58b8f73-5519-4e55-9c62-be2c05e5efcc",
+  "source_sha256": "9f9d8c225e4520e8f4578a0a503285a9a5ce90e602be5c5567876bbef5d91906",
+  "source_id": "c58b8f73-5519-4e55-9c62-be2c05e5efcc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "40 C 225/2020-30",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. et Mgr. Barbora Kovářová",
+    "ecli": "ECLI:CZ:OSOV:2020:40.C.225.2020.4",
+    "predmetRizeni": "o zaplacení 16 200 Kč s příslušenstvím",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-03-10",
+    "klicovaSlova": [
+      "družstevní byt",
+      "podnájem",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§  z. č. 43/2013 Sb.",
+      "§ 1 z. č. 145/2010 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 122 z. č. 99/1963 Sb.",
+      "§ 86 z. č. 145/2010 Sb.",
+      "§ 22 z. č. 145/2010 Sb.",
+      "§ 87 z. č. 145/2010 Sb.",
+      "§ 299 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c58b8f73-5519-4e55-9c62-be2c05e5efcc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
