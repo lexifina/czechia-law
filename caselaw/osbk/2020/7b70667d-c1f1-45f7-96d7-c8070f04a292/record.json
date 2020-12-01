@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Blansku",
+  "ecli": "ECLI:CZ:OSBK:2020:706.C.19.2018.1",
+  "docket": "706 C 19/2018-207",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7b70667d-c1f1-45f7-96d7-c8070f04a292",
+  "source_sha256": "ceefc6c8267af94f5c24678b76a3e74833a2f13fa1bab139ec8ad5f503a09dfa",
+  "source_id": "7b70667d-c1f1-45f7-96d7-c8070f04a292",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "706 C 19/2018-207",
+    "soud": "Okresní soud v Blansku",
+    "autor": "JUDr. Alena Šparlinková",
+    "ecli": "ECLI:CZ:OSBK:2020:706.C.19.2018.1",
+    "predmetRizeni": "[částka] s přísl.",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2020-12-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§ 1806 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 333/2018 Sb.",
+      "§ 1802 z. č. 89/2012 Sb.",
+      "§ 15 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7b70667d-c1f1-45f7-96d7-c8070f04a292"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
