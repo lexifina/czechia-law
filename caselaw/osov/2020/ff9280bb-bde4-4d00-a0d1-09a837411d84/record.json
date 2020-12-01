@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2020:81.C.314.2020.1",
+  "docket": "81 C 314/2020-17",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ff9280bb-bde4-4d00-a0d1-09a837411d84",
+  "source_sha256": "50dee9d1e2cd46ae4fee85101e3fe7ae6a9da9f95c1510a8d638f6fae9eb1780",
+  "source_id": "ff9280bb-bde4-4d00-a0d1-09a837411d84",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "81 C 314/2020-17",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Jaroslava Schmidtová",
+    "ecli": "ECLI:CZ:OSOV:2020:81.C.314.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-02-25",
+    "klicovaSlova": [
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 2820 z. č. 89/2012 Sb.",
+      "§ 2910 z. č. 89/2012 Sb.",
+      "§ 24 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ff9280bb-bde4-4d00-a0d1-09a837411d84"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
