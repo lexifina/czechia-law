@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2020:7.C.176.2020.1",
+  "docket": "7 C 176/2020-47",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/880cfb58-75a9-4742-8b14-a93d9afefd63",
+  "source_sha256": "707482d79c90b2cd0abc96cf0574c1a946e01afc3ab5c69903098910b3d666bc",
+  "source_id": "880cfb58-75a9-4742-8b14-a93d9afefd63",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 176/2020-47",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Filip Janek",
+    "ecli": "ECLI:CZ:OSPY:2020:7.C.176.2020.1",
+    "predmetRizeni": "o určení zániku zástavního práva",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "zástavní právo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1376 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/880cfb58-75a9-4742-8b14-a93d9afefd63"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
