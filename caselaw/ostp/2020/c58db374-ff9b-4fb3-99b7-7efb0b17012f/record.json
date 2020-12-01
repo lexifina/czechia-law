@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2020:21.C.124.2020.1",
+  "docket": "21 C 124/2020-39",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c58db374-ff9b-4fb3-99b7-7efb0b17012f",
+  "source_sha256": "05e01e3b7d6f556cf7aa5612e884d469523da1f6020e17828ed5f8ee8c7eafef",
+  "source_id": "c58db374-ff9b-4fb3-99b7-7efb0b17012f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 124/2020-39",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "Mgr. Veronika Lehnertová",
+    "ecli": "ECLI:CZ:OSTP:2020:21.C.124.2020.1",
+    "predmetRizeni": "zaplacení 2 500 Kč s příslušenstvím",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-01-27",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 573 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c58db374-ff9b-4fb3-99b7-7efb0b17012f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
