@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Berouně",
+  "ecli": "ECLI:CZ:OSBR:2020:111.C.8.2020.1",
+  "docket": "111 C 8/2020-174",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2a6e35be-3f06-4fc9-a492-80ece5f35359",
+  "source_sha256": "0d9de6691c061ae5367d4bb2fcde369fb3023f84c7d57ff6025d06344b5f299c",
+  "source_id": "2a6e35be-3f06-4fc9-a492-80ece5f35359",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "111 C 8/2020-174",
+    "soud": "Okresní soud v Berouně",
+    "autor": "Mgr. Veronika Sekerová",
+    "ecli": "ECLI:CZ:OSBR:2020:111.C.8.2020.1",
+    "predmetRizeni": "Žaloba o zaplacení 114.788 Kč s přísl.",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-01-29",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "dohoda o rozvázání pracovního poměru",
+      "peněžité plnění",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 132 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2a6e35be-3f06-4fc9-a492-80ece5f35359"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
