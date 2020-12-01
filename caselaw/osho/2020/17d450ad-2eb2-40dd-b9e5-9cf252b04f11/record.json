@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2020:14.C.18.2020.1",
+  "docket": "14 C 18/2020-28",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/17d450ad-2eb2-40dd-b9e5-9cf252b04f11",
+  "source_sha256": "9bae9e1dc9e721e5ae1b26bba270a33e062a8a8375bb7bce335c81cfa9f4e8d7",
+  "source_id": "17d450ad-2eb2-40dd-b9e5-9cf252b04f11",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 18/2020-28",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "Mgr. Květoslav Šárka",
+    "ecli": "ECLI:CZ:OSHO:2020:14.C.18.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/17d450ad-2eb2-40dd-b9e5-9cf252b04f11"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
