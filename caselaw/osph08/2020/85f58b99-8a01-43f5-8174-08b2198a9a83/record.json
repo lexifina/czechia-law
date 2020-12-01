@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2020:28.C.193.2017.1",
+  "docket": "28 C 193/2017-85",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/85f58b99-8a01-43f5-8174-08b2198a9a83",
+  "source_sha256": "1a7ae97ed787b05de46414092bc400f748e1b079f3b0e68b81710a6279d939cf",
+  "source_id": "85f58b99-8a01-43f5-8174-08b2198a9a83",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 193/2017-85",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "JUDr. Adriana Pilařová",
+    "ecli": "ECLI:CZ:OSPH08:2020:28.C.193.2017.1",
+    "predmetRizeni": "o zapl. 110.473 Kč s přísl.",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-03-31",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 55 z. č. 48/1997 Sb.",
+      "§ 135 z. č. 99/1963 Sb.",
+      "§ 9 z. č. 168/1999 Sb.",
+      "§ 125 z. č. 361/2000 Sb.",
+      "§ 21 z. č. 361/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/85f58b99-8a01-43f5-8174-08b2198a9a83"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
