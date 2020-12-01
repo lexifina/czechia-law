@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2020:30.C.291.2020.1",
+  "docket": "30 C 291/2020-8",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bdaf6db4-7ae7-4f18-aeee-a2df606f3b25",
+  "source_sha256": "f10abd6dc9e4fcf173a999cb12572854ae943a29296362a70c2c9a519ad9a5a1",
+  "source_id": "bdaf6db4-7ae7-4f18-aeee-a2df606f3b25",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 291/2020-8",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Alena Motalová",
+    "ecli": "ECLI:CZ:OSOV:2020:30.C.291.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-01-22",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 104 z. č. 99/1963 Sb.",
+      "§ 103 z. č. 99/1963 Sb.",
+      "§ 23 z. č. 89/2012 Sb.",
+      "§ 19 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bdaf6db4-7ae7-4f18-aeee-a2df606f3b25"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
