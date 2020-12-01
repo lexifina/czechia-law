@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2020:8.C.150.2019.1",
+  "docket": "8 C 150/2019-22",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/69b158b1-9d40-41c1-825e-d82b189036b7",
+  "source_sha256": "0732fa5cf3aac81c54f4e3872e429a480d6cda89e1f81bc13581e0dae7d4ab34",
+  "source_id": "69b158b1-9d40-41c1-825e-d82b189036b7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 150/2019-22",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "Mgr. Petra Andršová",
+    "ecli": "ECLI:CZ:OSPH06:2020:8.C.150.2019.1",
+    "predmetRizeni": "o zaplacení částky 54 248 Kč s příslušenstvím",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-04-12",
+    "klicovaSlova": [
+      "odpovědnost za vady",
+      "peněžité plnění",
+      "smlouva o dílo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2586 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/69b158b1-9d40-41c1-825e-d82b189036b7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
