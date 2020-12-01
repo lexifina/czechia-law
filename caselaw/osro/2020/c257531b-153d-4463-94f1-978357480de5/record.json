@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2020:10.C.48.2020.1",
+  "docket": "10 C 48/2020",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c257531b-153d-4463-94f1-978357480de5",
+  "source_sha256": "1577fa040c18e05eaa70289ea4be1786f6b0fe2d86ae461ac44f29756f4881d9",
+  "source_id": "c257531b-153d-4463-94f1-978357480de5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 48/2020",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "Mgr. Šárka Široká",
+    "ecli": "ECLI:CZ:OSRO:2020:10.C.48.2020.1",
+    "predmetRizeni": "43.619 Kč s přísl.",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-02-15",
+    "klicovaSlova": [
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c257531b-153d-4463-94f1-978357480de5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
