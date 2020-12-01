@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2020:14.C.164.2019.1",
+  "docket": "14 C 164/2019-14",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ade4d4cb-b89d-4353-9908-98354d0de7e4",
+  "source_sha256": "1799e144803b4093a34b09748febfdc0e0ea75598bb41b575392279838e515c7",
+  "source_id": "ade4d4cb-b89d-4353-9908-98354d0de7e4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 164/2019-14",
+    "soud": "Okresní soud v Lounech",
+    "autor": "Mgr. Miloslav Holub",
+    "ecli": "ECLI:CZ:OSLN:2020:14.C.164.2019.1",
+    "predmetRizeni": "Rozvod manželství",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2020-12-01",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ade4d4cb-b89d-4353-9908-98354d0de7e4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
