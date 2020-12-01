@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2020:12.C.133.2020.1",
+  "docket": "12 C 133/2020-17",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f01a41e8-3655-441c-9d56-a3541a11a10f",
+  "source_sha256": "a73948e189b0f27571f53edb80705367cd8d22d540c0c350f4ce7eae1f20beb1",
+  "source_id": "f01a41e8-3655-441c-9d56-a3541a11a10f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 133/2020-17",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "JUDr. Eva Veselá",
+    "ecli": "ECLI:CZ:OSCB:2020:12.C.133.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2020-12-28",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f01a41e8-3655-441c-9d56-a3541a11a10f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
