@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2020:11.C.80.2020.1",
+  "docket": "11 C 80/2020-13",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/06e5bbd9-f810-452f-82db-ac7491803f1e",
+  "source_sha256": "2e7f9b94dd848390521e69a26043f81b6fb6de695d821550725f6b45af81c1a1",
+  "source_id": "06e5bbd9-f810-452f-82db-ac7491803f1e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 80/2020-13",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "JUDr. Ing. Ivo Hruška",
+    "ecli": "ECLI:CZ:OSRO:2020:11.C.80.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2020-12-11",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/06e5bbd9-f810-452f-82db-ac7491803f1e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
