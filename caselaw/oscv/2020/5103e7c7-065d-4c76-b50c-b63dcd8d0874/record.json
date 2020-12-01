@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2020:21.C.172.2020.1",
+  "docket": "21 C 172/2020-13",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5103e7c7-065d-4c76-b50c-b63dcd8d0874",
+  "source_sha256": "e1186bf0121a762527cdf2ed72a50f2244dd1350b4a1c027ea4407b0271fc25d",
+  "source_id": "5103e7c7-065d-4c76-b50c-b63dcd8d0874",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 172/2020-13",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Alena Mědílková",
+    "ecli": "ECLI:CZ:OSCV:2020:21.C.172.2020.1",
+    "predmetRizeni": "zaplacení 1 500 Kč s příslušenstvím (odtah vozidla)",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-02-17",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 19a z. č. 13/1997 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5103e7c7-065d-4c76-b50c-b63dcd8d0874"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
