@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:32.C.235.2020.1",
+  "docket": "32 C 235/2020-34",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9f07802b-fcf1-4945-94ba-cfe50c78aac0",
+  "source_sha256": "6393efcf03060f62e29a297e67ee05c1f9c9926fc629aa95fdf276c9371cd4f1",
+  "source_id": "9f07802b-fcf1-4945-94ba-cfe50c78aac0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "32 C 235/2020-34",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Bc. Zdeněk Piskač",
+    "ecli": "ECLI:CZ:OSMO:2020:32.C.235.2020.1",
+    "predmetRizeni": "12 890 Kč s příslušenstvím",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-01-13",
+    "klicovaSlova": [
+      "insolvence",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§  z. č. 110/2006 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9f07802b-fcf1-4945-94ba-cfe50c78aac0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
