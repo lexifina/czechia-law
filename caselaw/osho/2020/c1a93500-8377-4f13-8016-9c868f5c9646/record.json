@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2020:6.C.109.2018.1",
+  "docket": "6 C 109/2018-136",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c1a93500-8377-4f13-8016-9c868f5c9646",
+  "source_sha256": "b59df918513feb5f60a412c1f065a5d45e16e684849763ab93b4d743f8d4b76f",
+  "source_id": "c1a93500-8377-4f13-8016-9c868f5c9646",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 109/2018-136",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "Mgr. Olga Houžvičková",
+    "ecli": "ECLI:CZ:OSHO:2020:6.C.109.2018.1",
+    "predmetRizeni": "určení vlastnického práva k nemovitostem",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-03-08",
+    "klicovaSlova": [
+      "dlužní úpis",
+      "držba",
+      "mimořádné vydržení",
+      "postoupení pohledávky",
+      "převod nemovitostí",
+      "vydržení",
+      "zástavní právo",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 992 z. č. 89/2012 Sb.",
+      "§ 3066 z. č. 89/2012 Sb.",
+      "§ 1096 z. č. 89/2012 Sb.",
+      "§ 1095 z. č. 89/2012 Sb.",
+      "§ 1091 z. č. 89/2012 Sb.",
+      "§ 1090 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c1a93500-8377-4f13-8016-9c868f5c9646"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
