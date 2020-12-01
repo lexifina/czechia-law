@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2020:10.C.277.2020.1",
+  "docket": "10 C 277/2020-37",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/28b30d5f-c847-48a8-9d93-4a1b1cafd4fa",
+  "source_sha256": "55761907f25c41a97fa0db2ad6179e7d4999e138ae65e334bc7e657dcacf3001",
+  "source_id": "28b30d5f-c847-48a8-9d93-4a1b1cafd4fa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 277/2020-37",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "Mgr. Ladislav Máša",
+    "ecli": "ECLI:CZ:OSSY:2020:10.C.277.2020.1",
+    "predmetRizeni": "o zaplacení 21 358 Kč s příslušenstvím",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 1 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 549/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/28b30d5f-c847-48a8-9d93-4a1b1cafd4fa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
