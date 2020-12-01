@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2020:29.C.183.2020.1",
+  "docket": "29 C 183/2020-41",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b6a5a753-a938-450d-907a-28e87877301e",
+  "source_sha256": "dfcb9059e7427b41d4ae20da6d45f9e308709d9770161cc1e8bfb1c22a209359",
+  "source_id": "b6a5a753-a938-450d-907a-28e87877301e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 183/2020-41",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "Mgr. Miroslava Šebelová",
+    "ecli": "ECLI:CZ:OSBI:2020:29.C.183.2020.1",
+    "predmetRizeni": "O zaplacení 1 219 Kč s příslušenstvím",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-01-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 13 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b6a5a753-a938-450d-907a-28e87877301e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
