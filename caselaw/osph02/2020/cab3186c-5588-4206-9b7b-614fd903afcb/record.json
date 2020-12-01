@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2020:10.C.50.2020.3",
+  "docket": "10 C 50/2020-184",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cab3186c-5588-4206-9b7b-614fd903afcb",
+  "source_sha256": "c858bf9408b65c007089174d5e6f32de8181318145fe7ad95908585fce39cc66",
+  "source_id": "cab3186c-5588-4206-9b7b-614fd903afcb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 50/2020-184",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "JUDr. Tomáš Bělohlávek",
+    "ecli": "ECLI:CZ:OSPH02:2020:10.C.50.2020.3",
+    "predmetRizeni": "o zaplacení 39 380 Kč a 3 592 Kč s příslušenstvím",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-09-06",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "podílové spoluvlastnictví",
+      "spoluvlastnictví",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2999 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cab3186c-5588-4206-9b7b-614fd903afcb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
