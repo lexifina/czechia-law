@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2020:4.T.158.2020.1",
+  "docket": "4 T 158/2020-81",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dacd7863-bc39-4cd9-834e-74cd7b692a96",
+  "source_sha256": "12827d4c14b438db426b7500aec6ba2992097c656dd8fdbceecd6876e9baf678",
+  "source_id": "dacd7863-bc39-4cd9-834e-74cd7b692a96",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 T 158/2020-81",
+    "soud": "Okresní soud v Přerově",
+    "autor": "Mgr. Jiří Barbořík",
+    "ecli": "ECLI:CZ:OSPR:2020:4.T.158.2020.1",
+    "predmetRizeni": "Trestní věc",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-01-04",
+    "klicovaSlova": [
+      "dohoda o vině a trestu",
+      "návyková látka",
+      "ohrožení pod vlivem návykové látky",
+      "peněžitý trest",
+      "trest zákazu činnosti",
+      "úplatek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 129 z. č. 141/1961 Sb.",
+      "§ 43 z. č. 40/2009 Sb.",
+      "§ 274 z. č. 40/2009 Sb.",
+      "§ 73 z. č. 40/2009 Sb.",
+      "§ 68 z. č. 40/2009 Sb.",
+      "§ 332 z. č. 40/2009 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dacd7863-bc39-4cd9-834e-74cd7b692a96"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
