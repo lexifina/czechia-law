@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2020:109.C.295.2020.1",
+  "docket": "109 C 295/2020-29",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/44e2d02e-f9cc-4a45-88a8-6845c956070b",
+  "source_sha256": "40a296fe1b133e3688fef4bace0a8e47e094f46094b1211cf32c9fe054f4145b",
+  "source_id": "44e2d02e-f9cc-4a45-88a8-6845c956070b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "109 C 295/2020-29",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Michaela Bouhalika",
+    "ecli": "ECLI:CZ:OSKIHA:2020:109.C.295.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-01-08",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 348/2005 Sb.",
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/44e2d02e-f9cc-4a45-88a8-6845c956070b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
