@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2020:8.C.179.2020.1",
+  "docket": "8 C 179/2020",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6d2cfc45-ffe2-4b7b-97dc-d7bed15a419b",
+  "source_sha256": "02d138d5d5685eb2b2a0288ea17689c1225dd0741a1b617bdf5ff36ad45ffc0b",
+  "source_id": "6d2cfc45-ffe2-4b7b-97dc-d7bed15a419b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 179/2020",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "JUDr. Drahomíra Librová",
+    "ecli": "ECLI:CZ:OSZR:2020:8.C.179.2020.1",
+    "predmetRizeni": "O zaplacení 34 777 Kč s příslušenstvím",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-01-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6d2cfc45-ffe2-4b7b-97dc-d7bed15a419b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
