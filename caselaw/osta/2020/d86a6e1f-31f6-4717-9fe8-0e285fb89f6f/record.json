@@ -1,0 +1,30 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2020:9.C.175.2020.1",
+  "docket": "9 C 175/2020-17",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d86a6e1f-31f6-4717-9fe8-0e285fb89f6f",
+  "source_sha256": "7ba1c990ae98f4bae82ea50dbf825afcee9dd255da04d56447574dd5a08576df",
+  "source_id": "d86a6e1f-31f6-4717-9fe8-0e285fb89f6f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 175/2020-17",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Ivana Jakšičová",
+    "ecli": "ECLI:CZ:OSTA:2020:9.C.175.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-01-11",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d86a6e1f-31f6-4717-9fe8-0e285fb89f6f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
