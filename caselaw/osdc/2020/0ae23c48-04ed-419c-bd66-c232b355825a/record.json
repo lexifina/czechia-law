@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2020:27.C.142.2020.1",
+  "docket": "27 C 142/2020-18",
+  "date": "2020-12-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0ae23c48-04ed-419c-bd66-c232b355825a",
+  "source_sha256": "1f4f30b526b4ca2f0695054b4306fdad78af0e2f1c1b639fd39166c070cd2cf4",
+  "source_id": "0ae23c48-04ed-419c-bd66-c232b355825a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 142/2020-18",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "JUDr. Štěpán Klapka",
+    "ecli": "ECLI:CZ:OSDC:2020:27.C.142.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-01",
+    "datumZverejneni": "2021-03-15",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0ae23c48-04ed-419c-bd66-c232b355825a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
