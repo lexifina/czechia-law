@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2020:11.C.399.2020.2",
+  "docket": "11 C 399/2020-13",
+  "date": "2020-12-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/afdd5f45-65e6-4387-a8f2-53f20f0403c6",
+  "source_sha256": "1620509c9d91d54902b066f03417d6babec512c24a7e0cf42fe92554c9776ce6",
+  "source_id": "afdd5f45-65e6-4387-a8f2-53f20f0403c6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 399/2020-13",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "JUDr. Vladimír Hovorka",
+    "ecli": "ECLI:CZ:OSSO:2020:11.C.399.2020.2",
+    "predmetRizeni": "zaplacení 4 812 Kč s příslušenstvím",
+    "datumVydani": "2020-12-02",
+    "datumZverejneni": "2021-02-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 2 vyhl. č. 205/1999 Sb.",
+      "§ 2a vyhl. č. 205/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/afdd5f45-65e6-4387-a8f2-53f20f0403c6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
