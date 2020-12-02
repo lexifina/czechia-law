@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2020:9.C.260.2020.1",
+  "docket": "9 C 260/2020-44",
+  "date": "2020-12-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3ffb694b-78bf-49dd-aa64-66fe090fc18c",
+  "source_sha256": "270701623cde80b92f64e7d752a3c49962b2884970fad3c99625d3dbd6fdc5fc",
+  "source_id": "3ffb694b-78bf-49dd-aa64-66fe090fc18c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 260/2020-44",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "JUDr. Marie Hladíková",
+    "ecli": "ECLI:CZ:OSZN:2020:9.C.260.2020.1",
+    "predmetRizeni": "[částka]",
+    "datumVydani": "2020-12-02",
+    "datumZverejneni": "2021-01-11",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3ffb694b-78bf-49dd-aa64-66fe090fc18c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
