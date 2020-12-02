@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2020:20.C.88.2020.1",
+  "docket": "20 C 88/2020-144",
+  "date": "2020-12-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1b57f7f9-53b0-428b-bc1b-9499d9a004b4",
+  "source_sha256": "263157865c6889455fea59d3bf28a2d29be92960c4606d01325850a31a1de0b4",
+  "source_id": "1b57f7f9-53b0-428b-bc1b-9499d9a004b4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 88/2020-144",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "JUDr. Zdeněk Douděra",
+    "ecli": "ECLI:CZ:OSPH02:2020:20.C.88.2020.1",
+    "predmetRizeni": "O zaplacení 23 963,51 Kč s příslušenstvím",
+    "datumVydani": "2020-12-02",
+    "datumZverejneni": "2021-02-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "podvod",
+      "řidičský průkaz",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1820 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1b57f7f9-53b0-428b-bc1b-9499d9a004b4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
