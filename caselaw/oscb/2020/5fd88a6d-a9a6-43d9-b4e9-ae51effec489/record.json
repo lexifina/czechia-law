@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2020:30.C.349.2020.1",
+  "docket": "30 C 349/2020-13",
+  "date": "2020-12-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5fd88a6d-a9a6-43d9-b4e9-ae51effec489",
+  "source_sha256": "3b4417c4a2b09d7ab2ac22320d1e24cdd0675644c7218b827d82d298b7da626e",
+  "source_id": "5fd88a6d-a9a6-43d9-b4e9-ae51effec489",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 349/2020-13",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "Mgr. Daniel Macháček",
+    "ecli": "ECLI:CZ:OSCB:2020:30.C.349.2020.1",
+    "predmetRizeni": "EPR [číslo], o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2020-12-02",
+    "datumZverejneni": "2021-02-04",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 1895 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5fd88a6d-a9a6-43d9-b4e9-ae51effec489"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
