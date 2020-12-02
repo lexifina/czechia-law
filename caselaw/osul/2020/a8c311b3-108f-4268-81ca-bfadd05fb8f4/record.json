@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2020:14.C.348.2020.1",
+  "docket": "14 C 348/2020-22",
+  "date": "2020-12-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a8c311b3-108f-4268-81ca-bfadd05fb8f4",
+  "source_sha256": "4186f387f0cd284af126a23bdf47aa3e476b841d42a9a31cc0397ed8e9086d0b",
+  "source_id": "a8c311b3-108f-4268-81ca-bfadd05fb8f4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 348/2020-22",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Otto Plachý",
+    "ecli": "ECLI:CZ:OSUL:2020:14.C.348.2020.1",
+    "predmetRizeni": "O zaplacení 2 920 Kč s příslušenstvím",
+    "datumVydani": "2020-12-02",
+    "datumZverejneni": "2021-02-15",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 153 z. č. 99/1963 Sb.",
+      "§ 122 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a8c311b3-108f-4268-81ca-bfadd05fb8f4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
