@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2020:23.C.76.2019.2",
+  "docket": "23 C 76/2019-13",
+  "date": "2020-12-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8f999c3e-a9cc-4ae5-bc11-902c20e62f5b",
+  "source_sha256": "affa6a7b94ecabdf7485e2ee851fd454fc3b35cf283c2103b2600d2c2deae564",
+  "source_id": "8f999c3e-a9cc-4ae5-bc11-902c20e62f5b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 76/2019-13",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "Mgr. František Sedláček",
+    "ecli": "ECLI:CZ:OSSO:2020:23.C.76.2019.2",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-12-02",
+    "datumZverejneni": "2021-01-18",
+    "klicovaSlova": [
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 7 z. č. 99/1963 Sb.",
+      "§ 161 z. č. 99/1963 Sb.",
+      "§ 2701 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8f999c3e-a9cc-4ae5-bc11-902c20e62f5b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
