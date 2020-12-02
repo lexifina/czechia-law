@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kolíně",
+  "ecli": "ECLI:CZ:OSKO:2020:12.C.239.2020.1",
+  "docket": "12 C 239/2020-23",
+  "date": "2020-12-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/daadee37-0fdb-40e7-aad5-6e882fc52536",
+  "source_sha256": "7cd57b8ea8185889b478d0dac92dda2f07a05c8ce08ff00e2976abab7d938a0d",
+  "source_id": "daadee37-0fdb-40e7-aad5-6e882fc52536",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 239/2020-23",
+    "soud": "Okresní soud v Kolíně",
+    "autor": "Mgr. Renáta Bielová",
+    "ecli": "ECLI:CZ:OSKO:2020:12.C.239.2020.1",
+    "predmetRizeni": "O zaplacení 2 642 Kč s příslušenstvím",
+    "datumVydani": "2020-12-02",
+    "datumZverejneni": "2021-01-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/daadee37-0fdb-40e7-aad5-6e882fc52536"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
