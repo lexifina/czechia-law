@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2020:11.C.263.2019.1",
+  "docket": "11 C 263/2019-83",
+  "date": "2020-12-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a6118983-37e0-457b-8f29-0bd58ebd7f07",
+  "source_sha256": "9ae78b7c41e508b962b93128812a773eff0db64187536c1199e5214348afcd4e",
+  "source_id": "a6118983-37e0-457b-8f29-0bd58ebd7f07",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 263/2019-83",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "JUDr. Hana Dobišarová",
+    "ecli": "ECLI:CZ:OSBV:2020:11.C.263.2019.1",
+    "predmetRizeni": "8.200 Kč s příslušenstvím",
+    "datumVydani": "2020-12-02",
+    "datumZverejneni": "2021-01-11",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a6118983-37e0-457b-8f29-0bd58ebd7f07"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
