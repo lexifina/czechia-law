@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně",
+  "ecli": "ECLI:CZ:OSVS:2020:7.C.51.2020.1",
+  "docket": "7 C 51/2020-19",
+  "date": "2020-12-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2c683fcf-3eb4-4d98-be15-415c8484b2a2",
+  "source_sha256": "ef6b71621c23366e104168802992bafc4db3d37c9330a93ec55fee2a59a33bb2",
+  "source_id": "2c683fcf-3eb4-4d98-be15-415c8484b2a2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 51/2020-19",
+    "soud": "Okresní soud ve Vsetíně",
+    "autor": "JUDr. Lenka Fialová",
+    "ecli": "ECLI:CZ:OSVS:2020:7.C.51.2020.1",
+    "predmetRizeni": "O zaplacení 9 132 Kč s příslušenstvím",
+    "datumVydani": "2020-12-02",
+    "datumZverejneni": "2021-05-07",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 173 z. č. 99/1963 Sb.",
+      "§ 14b vyhl. č. 120/2014 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2c683fcf-3eb4-4d98-be15-415c8484b2a2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
