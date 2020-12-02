@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:221.C.27.2020.1",
+  "docket": "221 C 27/2020-35",
+  "date": "2020-12-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/afa4688a-042c-4cde-9eaf-f3e43d459cfa",
+  "source_sha256": "03164d3b22d3a9f8575a658b302bbaa4b8a1d6c38445d7557f334966e7b35fe2",
+  "source_id": "afa4688a-042c-4cde-9eaf-f3e43d459cfa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "221 C 27/2020-35",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Hana Šťastná",
+    "ecli": "ECLI:CZ:MSBR:2020:221.C.27.2020.1",
+    "predmetRizeni": "zaplacení 15 099 Kč s příslušenstvím - nájemní smlouva",
+    "datumVydani": "2020-12-02",
+    "datumZverejneni": "2021-03-08",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2295 z. č. 89/2012 Sb.",
+      "§ 2292 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/afa4688a-042c-4cde-9eaf-f3e43d459cfa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
