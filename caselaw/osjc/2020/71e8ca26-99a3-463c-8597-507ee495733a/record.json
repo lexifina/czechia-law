@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSJC:2020:7.C.138.2020.3",
+  "docket": "7 C 138/2020-19",
+  "date": "2020-12-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/71e8ca26-99a3-463c-8597-507ee495733a",
+  "source_sha256": "3ac5c7b853adab35c6cc3bbfb7d531dbc0497d1c7d77cb5c8b2d028e2b301242",
+  "source_id": "71e8ca26-99a3-463c-8597-507ee495733a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 138/2020-19",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "JUDr. Silvie Slaná",
+    "ecli": "ECLI:CZ:OSJC:2020:7.C.138.2020.3",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-02",
+    "datumZverejneni": "2021-01-07",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/71e8ca26-99a3-463c-8597-507ee495733a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
