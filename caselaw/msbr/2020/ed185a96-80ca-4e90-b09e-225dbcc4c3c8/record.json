@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:17.C.181.2020.1",
+  "docket": "17 C 181/2020-28",
+  "date": "2020-12-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ed185a96-80ca-4e90-b09e-225dbcc4c3c8",
+  "source_sha256": "f3c99046d5f9e3dc11f8dcc47e6bb7002a723da97fad9f1122ef38708486f20b",
+  "source_id": "ed185a96-80ca-4e90-b09e-225dbcc4c3c8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 181/2020-28",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Petra Filová",
+    "ecli": "ECLI:CZ:MSBR:2020:17.C.181.2020.1",
+    "predmetRizeni": "zaplacení 45.000 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2020-12-02",
+    "datumZverejneni": "2021-07-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 2395 z. č. 257/2016 Sb.",
+      "§ 547 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ed185a96-80ca-4e90-b09e-225dbcc4c3c8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
