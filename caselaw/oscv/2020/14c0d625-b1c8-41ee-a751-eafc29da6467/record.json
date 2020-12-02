@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2020:16.C.251.2020.1",
+  "docket": "16 C 251/2020-13",
+  "date": "2020-12-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/14c0d625-b1c8-41ee-a751-eafc29da6467",
+  "source_sha256": "1f9e8cf7ad9ed53b9fa6cd1f9144b7a4c579a08fff6cd7a5f086aac20dea0575",
+  "source_id": "14c0d625-b1c8-41ee-a751-eafc29da6467",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 251/2020-13",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Eva Pohorelcová",
+    "ecli": "ECLI:CZ:OSCV:2020:16.C.251.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-12-02",
+    "datumZverejneni": "2021-02-12",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 383 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/14c0d625-b1c8-41ee-a751-eafc29da6467"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
