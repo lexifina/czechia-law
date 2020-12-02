@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2020:70.C.299.2020.1",
+  "docket": "70 C 299/2020",
+  "date": "2020-12-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/52ae603e-4bb6-408e-afad-b952c4f18769",
+  "source_sha256": "5ebe47d3849028f3569e70f2db73858678f12ffb0d949d20c107f9e00151a92e",
+  "source_id": "52ae603e-4bb6-408e-afad-b952c4f18769",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "70 C 299/2020",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "Mgr. Lucie Vobrová",
+    "ecli": "ECLI:CZ:OSPH04:2020:70.C.299.2020.1",
+    "predmetRizeni": "O zaplacení 1 524 Kč s příslušenstvím",
+    "datumVydani": "2020-12-02",
+    "datumZverejneni": "2021-06-25",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/52ae603e-4bb6-408e-afad-b952c4f18769"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
