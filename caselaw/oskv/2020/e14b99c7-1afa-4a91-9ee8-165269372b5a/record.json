@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2020:9.C.362.2020.1",
+  "docket": "9 C 362/2020-14",
+  "date": "2020-12-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e14b99c7-1afa-4a91-9ee8-165269372b5a",
+  "source_sha256": "9a706c5c0be28b1913b82e49d9ab93b7956f69491428d9519047e0c32cb29fd6",
+  "source_id": "e14b99c7-1afa-4a91-9ee8-165269372b5a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 362/2020-14",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Bc. Lukáš Ludvík",
+    "ecli": "ECLI:CZ:OSKV:2020:9.C.362.2020.1",
+    "predmetRizeni": "1.000 Kč / zápůjčka",
+    "datumVydani": "2020-12-02",
+    "datumZverejneni": "2021-01-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§  z. č. 235/2004 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e14b99c7-1afa-4a91-9ee8-165269372b5a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
