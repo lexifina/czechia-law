@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:21.C.192.2020.1",
+  "docket": "21 C 192/2020-42",
+  "date": "2020-12-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/605865dc-8f20-4a33-876d-663222b33ae8",
+  "source_sha256": "af2bcd0cfed19b5796046384d89a04ad3a8fa7672f6155f24fb6441295f62ed3",
+  "source_id": "605865dc-8f20-4a33-876d-663222b33ae8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 192/2020-42",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Hana Šťastná",
+    "ecli": "ECLI:CZ:MSBR:2020:21.C.192.2020.1",
+    "predmetRizeni": "zaplacení 2.000 Kč - faktura",
+    "datumVydani": "2020-12-02",
+    "datumZverejneni": "2021-03-22",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§  z. č. 127/2005 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 1800 z. č. 89/2012 Sb.",
+      "§ 1798 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/605865dc-8f20-4a33-876d-663222b33ae8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
