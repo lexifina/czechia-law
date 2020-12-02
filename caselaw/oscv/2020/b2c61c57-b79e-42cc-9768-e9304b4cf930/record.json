@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2020:16.C.229.2019.2",
+  "docket": "16 C 229/2019-57",
+  "date": "2020-12-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b2c61c57-b79e-42cc-9768-e9304b4cf930",
+  "source_sha256": "62eab6c1f95b5c9be0b9cb73a3a673e9d8aac8b122484ac1cbd201a3e56e32dc",
+  "source_id": "b2c61c57-b79e-42cc-9768-e9304b4cf930",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 229/2019-57",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Eva Pohorelcová",
+    "ecli": "ECLI:CZ:OSCV:2020:16.C.229.2019.2",
+    "predmetRizeni": "snížení výživného pro zletilé dítě",
+    "datumVydani": "2020-12-02",
+    "datumZverejneni": "2021-01-19",
+    "klicovaSlova": [
+      "podnájem",
+      "rozvod manželství",
+      "vypořádání SJM",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2 z. č. 89/2012 Sb.",
+      "§ 913 z. č. 89/2012 Sb.",
+      "§ 910 z. č. 89/2012 Sb.",
+      "§ 915 z. č. 89/2012 Sb.",
+      "§ 923 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b2c61c57-b79e-42cc-9768-e9304b4cf930"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
