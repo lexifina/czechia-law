@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2020:17.C.323.2020.3",
+  "docket": "17 C 323/2020-20",
+  "date": "2020-12-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/55f43f5e-4b0a-492b-aef8-cf70681e2f22",
+  "source_sha256": "137323e34bab1dbdc6cc78e0afbf0bd81311ec809cb6d4bee7911600e2e4e29d",
+  "source_id": "55f43f5e-4b0a-492b-aef8-cf70681e2f22",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 323/2020-20",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr., Ing. Lubomír Sušeň",
+    "ecli": "ECLI:CZ:OSOV:2020:17.C.323.2020.3",
+    "predmetRizeni": "o zaplacení [částka]",
+    "datumVydani": "2020-12-02",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/55f43f5e-4b0a-492b-aef8-cf70681e2f22"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
