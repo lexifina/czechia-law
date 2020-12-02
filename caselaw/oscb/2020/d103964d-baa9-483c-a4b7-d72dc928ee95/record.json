@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2020:30.C.139.2020.1",
+  "docket": "30 C 139/2020-59",
+  "date": "2020-12-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d103964d-baa9-483c-a4b7-d72dc928ee95",
+  "source_sha256": "98ecb070d171f5709d9d07bdf055e6a2dcb9a9cadc665f257bc640c11618cb94",
+  "source_id": "d103964d-baa9-483c-a4b7-d72dc928ee95",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 139/2020-59",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "Mgr. Daniel Macháček",
+    "ecli": "ECLI:CZ:OSCB:2020:30.C.139.2020.1",
+    "predmetRizeni": "o určení neplatnosti nájemní smlouvy",
+    "datumVydani": "2020-12-02",
+    "datumZverejneni": "2021-02-02",
+    "klicovaSlova": [
+      "nájem bytu",
+      "smlouva nájemní",
+      "smlouva o nájmu bytu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 1 vyhl. č. 254/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d103964d-baa9-483c-a4b7-d72dc928ee95"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
