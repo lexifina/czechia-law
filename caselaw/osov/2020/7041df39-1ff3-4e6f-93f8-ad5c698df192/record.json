@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2020:63.C.79.2020.2",
+  "docket": "63 C 79/2020-34",
+  "date": "2020-12-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7041df39-1ff3-4e6f-93f8-ad5c698df192",
+  "source_sha256": "b944365418764335a6f8a6c894eec7dc0fdeaf254aca58acc54ff37bea7aa4fd",
+  "source_id": "7041df39-1ff3-4e6f-93f8-ad5c698df192",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "63 C 79/2020-34",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Pavel Kučera",
+    "ecli": "ECLI:CZ:OSOV:2020:63.C.79.2020.2",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-02",
+    "datumZverejneni": "2021-02-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 64 z. č. 127/2005 Sb.",
+      "§ 96 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7041df39-1ff3-4e6f-93f8-ad5c698df192"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
