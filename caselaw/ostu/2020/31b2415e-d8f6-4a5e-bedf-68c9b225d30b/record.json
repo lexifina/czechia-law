@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2020:6.C.134.2020.1",
+  "docket": "6 C 134/2020-13",
+  "date": "2020-12-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/31b2415e-d8f6-4a5e-bedf-68c9b225d30b",
+  "source_sha256": "0bfe186003fc124b27499e6bb919db6d2483f291fe505fa8eaf28432c7ad0a53",
+  "source_id": "31b2415e-d8f6-4a5e-bedf-68c9b225d30b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 134/2020-13",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "Mgr. Naděžda Vaňurová",
+    "ecli": "ECLI:CZ:OSTU:2020:6.C.134.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-12-02",
+    "datumZverejneni": "2021-01-14",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/31b2415e-d8f6-4a5e-bedf-68c9b225d30b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
