@@ -1,0 +1,48 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2020:16.C.8.2020.1",
+  "docket": "16 C 8/2020-95",
+  "date": "2020-12-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/af2d801c-0390-4974-8a08-223d37efdb74",
+  "source_sha256": "26411de4bf981211115957ed016eea8cac02661e8e0af73056d616df00c9efe9",
+  "source_id": "af2d801c-0390-4974-8a08-223d37efdb74",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 8/2020-95",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "JUDr. Marcela Mrkalová",
+    "ecli": "ECLI:CZ:OSBU:2020:16.C.8.2020.1",
+    "predmetRizeni": "zrušení a vypořádání spoluvlastnictví k nemovitosti",
+    "datumVydani": "2020-12-02",
+    "datumZverejneni": "2021-07-01",
+    "klicovaSlova": [
+      "dražba",
+      "peněžité plnění",
+      "podílové spoluvlastnictví",
+      "převod nemovitostí",
+      "přikázání věci",
+      "smlouva darovací",
+      "spoluvlastnictví",
+      "veřejná dražba",
+      "vlastnictví bytů",
+      "znalecký posudek",
+      "zrušení spoluvlastnictví"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 1140 z. č. 89/2012 Sb.",
+      "§ 1144 z. č. 89/2012 Sb.",
+      "§ 1143 z. č. 89/2012 Sb.",
+      "§ 1147 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/af2d801c-0390-4974-8a08-223d37efdb74"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
