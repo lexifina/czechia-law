@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Havlíčkově Brodě",
+  "ecli": "ECLI:CZ:OSHB:2020:19.C.86.2020.2",
+  "docket": "19 C 86/2020-32",
+  "date": "2020-12-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f29a4990-eef6-4552-a670-a4a49f30fe12",
+  "source_sha256": "b62d8c23d5ba3ea12c41d992d5de6759f2da92716e24178ed51899d09e49248f",
+  "source_id": "f29a4990-eef6-4552-a670-a4a49f30fe12",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 86/2020-32",
+    "soud": "Okresní soud v Havlíčkově Brodě",
+    "autor": "JUDr. Marcela Voláková",
+    "ecli": "ECLI:CZ:OSHB:2020:19.C.86.2020.2",
+    "predmetRizeni": "zaplacení 4.049,94 Kč s příslušenstvím",
+    "datumVydani": "2020-12-02",
+    "datumZverejneni": "2021-01-13",
+    "klicovaSlova": [
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f29a4990-eef6-4552-a670-a4a49f30fe12"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
