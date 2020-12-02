@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2020:209.C.188.2020.1",
+  "docket": "209 C 188/2020-54",
+  "date": "2020-12-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dfbc2309-d9c1-4de6-8826-fd82e1f5eb5a",
+  "source_sha256": "27ca2f69d967584a1bb53bb3602cdf6edc857414fedb93730beeb328944cdf43",
+  "source_id": "dfbc2309-d9c1-4de6-8826-fd82e1f5eb5a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "209 C 188/2020-54",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Alena Šustrová",
+    "ecli": "ECLI:CZ:OSKD:2020:209.C.188.2020.1",
+    "predmetRizeni": "o zaplacení [částka]",
+    "datumVydani": "2020-12-02",
+    "datumZverejneni": "2021-01-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 129 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dfbc2309-d9c1-4de6-8826-fd82e1f5eb5a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
