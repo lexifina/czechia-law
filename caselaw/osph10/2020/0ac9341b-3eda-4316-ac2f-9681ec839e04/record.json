@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2020:6.C.175.2017.1",
+  "docket": "6 C 175/2017-175",
+  "date": "2020-12-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0ac9341b-3eda-4316-ac2f-9681ec839e04",
+  "source_sha256": "032fc8714061459f64f94ccf92193a9871db4ed0f3ef44e69d04e40f3466f9ee",
+  "source_id": "0ac9341b-3eda-4316-ac2f-9681ec839e04",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 175/2017-175",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "JUDr. Monika Spáčilová",
+    "ecli": "ECLI:CZ:OSPH10:2020:6.C.175.2017.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2020-12-02",
+    "datumZverejneni": "2021-01-29",
+    "klicovaSlova": [
+      "cizina",
+      "dlužné platby spojené s užíváním bytu",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 29 z. č. 99/1963 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 7 z. č. 67/2013 Sb.",
+      "§ 1181 z. č. 89/2012 Sb.",
+      "§ 11 z. č. 563/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0ac9341b-3eda-4316-ac2f-9681ec839e04"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
