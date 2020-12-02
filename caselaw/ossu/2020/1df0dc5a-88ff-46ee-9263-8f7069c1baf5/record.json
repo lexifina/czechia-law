@@ -1,0 +1,50 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2020:9.C.109.2019.1",
+  "docket": "9 C 109/2019-105",
+  "date": "2020-12-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1df0dc5a-88ff-46ee-9263-8f7069c1baf5",
+  "source_sha256": "1f4d5fb97daef6d6c2abaf6856f4432a02512668c33b9c1b3eed6f0cc26f938b",
+  "source_id": "1df0dc5a-88ff-46ee-9263-8f7069c1baf5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 109/2019-105",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "JUDr. Adéla Sedláčková, LL.M.",
+    "ecli": "ECLI:CZ:OSSU:2020:9.C.109.2019.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2020-12-02",
+    "datumZverejneni": "2021-01-21",
+    "klicovaSlova": [
+      "nájem bytu",
+      "nájem nebytových prostor",
+      "nájem prostoru sloužícího k podnikání",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§  vyhl. č. 358/2019 Sb.",
+      "§  z. č. 116/1990 Sb.",
+      "§ 2247 z. č. 89/2012 Sb.",
+      "§ 2302 z. č. 67/2013 Sb.",
+      "§ 2302 z. č. 89/2012 Sb.",
+      "§ 7 z. č. 67/2013 Sb.",
+      "§ 2303 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1df0dc5a-88ff-46ee-9263-8f7069c1baf5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
