@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2020:61.C.48.2020.1",
+  "docket": "61 C 48/2020-24",
+  "date": "2020-12-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b1d8181c-de70-42ff-ae68-3feee5345760",
+  "source_sha256": "4eef47eec795f5bbc2d610c5ffd822681654f6d051f976658c43d53046d8a4e1",
+  "source_id": "b1d8181c-de70-42ff-ae68-3feee5345760",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "61 C 48/2020-24",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "JUDr. Magda Kubešová",
+    "ecli": "ECLI:CZ:OSPH06:2020:61.C.48.2020.1",
+    "predmetRizeni": "o zaplacení částky 600 euro s příslušenstvím",
+    "datumVydani": "2020-12-02",
+    "datumZverejneni": "2021-02-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "právo Evropské unie"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b1d8181c-de70-42ff-ae68-3feee5345760"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
