@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2020:7.C.245.2020.2",
+  "docket": "7 C 245/2020-24",
+  "date": "2020-12-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c9fcc618-f379-4488-8015-20100d076683",
+  "source_sha256": "2d8c1c9d4e859cb9691efd540575f34b9129fe507390f725b79729c6a41319fc",
+  "source_id": "c9fcc618-f379-4488-8015-20100d076683",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 245/2020-24",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "JUDr. Daniel Levý",
+    "ecli": "ECLI:CZ:OSCK:2020:7.C.245.2020.2",
+    "predmetRizeni": "o rozvod",
+    "datumVydani": "2020-12-02",
+    "datumZverejneni": "2021-01-21",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c9fcc618-f379-4488-8015-20100d076683"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
