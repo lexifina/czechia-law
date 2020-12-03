@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2020:6.C.184.2020.1",
+  "docket": "6 C 184/2020-16",
+  "date": "2020-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f9922691-22b5-48c4-8a18-d61f4898f4c6",
+  "source_sha256": "9cedff19f10ca6074bfd389fcabbcb3848643dd25597ee998d88e32ca5283d66",
+  "source_id": "f9922691-22b5-48c4-8a18-d61f4898f4c6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 184/2020-16",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "Mgr. Jana Kantoříková",
+    "ecli": "ECLI:CZ:OSRO:2020:6.C.184.2020.1",
+    "predmetRizeni": "zaplacení 9 967,65 Kč",
+    "datumVydani": "2020-12-03",
+    "datumZverejneni": "2021-02-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f9922691-22b5-48c4-8a18-d61f4898f4c6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
