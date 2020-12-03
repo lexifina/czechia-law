@@ -1,0 +1,31 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Berouně",
+  "ecli": "ECLI:CZ:OSBR:2020:12.C.533.2019.1",
+  "docket": "12 C 533/2019",
+  "date": "2020-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e89e1878-f7ec-4dcd-bc31-08465b767aef",
+  "source_sha256": "5e6c410b51b8cc1f07850de82eedf14cf364c3ac703252154a4e8c0827849ae0",
+  "source_id": "e89e1878-f7ec-4dcd-bc31-08465b767aef",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 533/2019",
+    "soud": "Okresní soud v Berouně",
+    "autor": "Mgr. Petr Pomahač",
+    "ecli": "ECLI:CZ:OSBR:2020:12.C.533.2019.1",
+    "predmetRizeni": "",
+    "datumVydani": "2020-12-03",
+    "datumZverejneni": "2021-01-21",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e89e1878-f7ec-4dcd-bc31-08465b767aef"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
