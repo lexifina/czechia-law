@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2020:8.C.129.2020.1",
+  "docket": "8 C 129/2020-39",
+  "date": "2020-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9d1041e5-ea0d-466e-821c-452fa85847bb",
+  "source_sha256": "77558213008ca16cb89fc459962114b5648bb052af24c09b46719a23e0993aeb",
+  "source_id": "9d1041e5-ea0d-466e-821c-452fa85847bb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 129/2020-39",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "Mgr. Radek Pavlačka",
+    "ecli": "ECLI:CZ:OSJI:2020:8.C.129.2020.1",
+    "predmetRizeni": "o [částka]",
+    "datumVydani": "2020-12-03",
+    "datumZverejneni": "2021-02-04",
+    "klicovaSlova": [
+      "elektronický podpis"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§  z. č. 300/2008 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9d1041e5-ea0d-466e-821c-452fa85847bb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
