@@ -1,0 +1,47 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2020:17.C.262.2019.1",
+  "docket": "17 C 262/2019-329",
+  "date": "2020-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ecf11031-36da-49ff-9890-65367151d2fe",
+  "source_sha256": "15fb8c3b009ab23ea252d4a0fa0a16c8246ee9a7bc366c17070d12c84c149fe1",
+  "source_id": "ecf11031-36da-49ff-9890-65367151d2fe",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 262/2019-329",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "JUDr. Petr Kulawiak",
+    "ecli": "ECLI:CZ:OSPM:2020:17.C.262.2019.1",
+    "predmetRizeni": "O zaplacení 6 185 711,38 Kč",
+    "datumVydani": "2020-12-03",
+    "datumZverejneni": "2021-02-23",
+    "klicovaSlova": [
+      "dotace",
+      "insolvence",
+      "konkurs",
+      "peněžité plnění",
+      "sleva z ceny",
+      "smlouva nájemní",
+      "smlouva o dílo",
+      "uznání dluhu",
+      "zajištění závazku"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2586 z. č. 89/2012 Sb.",
+      "§ 2054 z. č. 89/2012 Sb.",
+      "§ 2106 z. č. 89/2012 Sb.",
+      "§ 2604 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ecf11031-36da-49ff-9890-65367151d2fe"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
