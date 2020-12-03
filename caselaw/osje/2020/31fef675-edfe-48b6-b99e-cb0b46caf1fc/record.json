@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jeseníku",
+  "ecli": "ECLI:CZ:OSJE:2020:4.C.160.2020.1",
+  "docket": "4 C 160/2020-16",
+  "date": "2020-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/31fef675-edfe-48b6-b99e-cb0b46caf1fc",
+  "source_sha256": "4978ec6a25a4dcdf70c320992a6d869e19f40fdd79007a54b37205a902a65c7d",
+  "source_id": "31fef675-edfe-48b6-b99e-cb0b46caf1fc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 160/2020-16",
+    "soud": "Okresní soud v Jeseníku",
+    "autor": "JUDr. Ivana Ondryášová",
+    "ecli": "ECLI:CZ:OSJE:2020:4.C.160.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-12-03",
+    "datumZverejneni": "2021-01-13",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/31fef675-edfe-48b6-b99e-cb0b46caf1fc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
