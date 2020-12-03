@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2020:18.C.248.2020.1",
+  "docket": "18 C 248/2020-41",
+  "date": "2020-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cd714b6c-4b9f-4311-bf64-57f99a7cb407",
+  "source_sha256": "c12033691dd1b779645d8559c34c5afc229c32cd9e7854ea3a18084ea781511a",
+  "source_id": "cd714b6c-4b9f-4311-bf64-57f99a7cb407",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 248/2020-41",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "JUDr. Petra Pipková",
+    "ecli": "ECLI:CZ:OSJI:2020:18.C.248.2020.1",
+    "predmetRizeni": "o 84 763,14 Kč s příslušenstvím",
+    "datumVydani": "2020-12-03",
+    "datumZverejneni": "2021-04-06",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatek z prodlení",
+      "postoupení pohledávky",
+      "prodlení věřitele",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 517 z. č. 40/1964 Sb.",
+      "§ 261 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cd714b6c-4b9f-4311-bf64-57f99a7cb407"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
