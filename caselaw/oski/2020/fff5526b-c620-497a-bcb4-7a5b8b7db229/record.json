@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2020:20.C.273.2020.1",
+  "docket": "20 C 273/2020-19",
+  "date": "2020-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fff5526b-c620-497a-bcb4-7a5b8b7db229",
+  "source_sha256": "19f39ef7fdf903d90b6783159f918964d38741502bc385ae3c357dad2212aa78",
+  "source_id": "fff5526b-c620-497a-bcb4-7a5b8b7db229",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 273/2020-19",
+    "soud": "Okresní soud v Karviné",
+    "autor": "Mgr. Tomáš Ožana",
+    "ecli": "ECLI:CZ:OSKI:2020:20.C.273.2020.1",
+    "predmetRizeni": "2 000 Kč",
+    "datumVydani": "2020-12-03",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva nájemní",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2048 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fff5526b-c620-497a-bcb4-7a5b8b7db229"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
