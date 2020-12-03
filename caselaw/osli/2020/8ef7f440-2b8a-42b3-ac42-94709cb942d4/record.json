@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2020:21.C.335.2020.1",
+  "docket": "21 C 335/2020-30",
+  "date": "2020-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8ef7f440-2b8a-42b3-ac42-94709cb942d4",
+  "source_sha256": "cdcb2a6c9bb66fc631e4782fb2441a425780d01f531a1bfb6afcd4a584444963",
+  "source_id": "8ef7f440-2b8a-42b3-ac42-94709cb942d4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 335/2020-30",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Ivana Houdková",
+    "ecli": "ECLI:CZ:OSLI:2020:21.C.335.2020.1",
+    "predmetRizeni": "o zaplacení částky 13.246,28 Kč s přísl.",
+    "datumVydani": "2020-12-03",
+    "datumZverejneni": "2021-03-29",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1880 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8ef7f440-2b8a-42b3-ac42-94709cb942d4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
