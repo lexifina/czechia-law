@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2020:8.C.105.2020.1",
+  "docket": "8 C 105/2020-51",
+  "date": "2020-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/066340d8-08fd-4304-9873-fc6ddcb95db5",
+  "source_sha256": "1b0e92c68b827436231629ab7bb91b5ea520a7bc4dc59275354cee500fb8c1bc",
+  "source_id": "066340d8-08fd-4304-9873-fc6ddcb95db5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 105/2020-51",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "JUDr. Jana Kowolowská",
+    "ecli": "ECLI:CZ:OSBV:2020:8.C.105.2020.1",
+    "predmetRizeni": "16.508 Kč s příslušenstvím",
+    "datumVydani": "2020-12-03",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 658 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§  z. č. 21/1992 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/066340d8-08fd-4304-9873-fc6ddcb95db5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
