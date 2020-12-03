@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2020:71.C.443.2019.1",
+  "docket": "71 C 443/2019-52",
+  "date": "2020-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a7b2f3fd-af46-41ae-86e3-79699919bb40",
+  "source_sha256": "93674e4230ee20936382b97fa5f5cfe409b5f64e6117ec7207c212fc9d01684e",
+  "source_id": "a7b2f3fd-af46-41ae-86e3-79699919bb40",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "71 C 443/2019-52",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "JUDr. Markéta Vrzáčková",
+    "ecli": "ECLI:CZ:OSUL:2020:71.C.443.2019.1",
+    "predmetRizeni": "",
+    "datumVydani": "2020-12-03",
+    "datumZverejneni": "2021-04-30",
+    "klicovaSlova": [
+      "oddlužení",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 263 z. č. 182/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a7b2f3fd-af46-41ae-86e3-79699919bb40"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
