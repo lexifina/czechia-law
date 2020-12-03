@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2020:22.C.183.2020.1",
+  "docket": "22 C 183/2020-15",
+  "date": "2020-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5ce2d88e-04ff-46d2-a13e-ab5c842506ce",
+  "source_sha256": "376c02a5e3616e2ca1859155c1238bfc3e4c039f021dabb43465f7e1e3aa50ee",
+  "source_id": "5ce2d88e-04ff-46d2-a13e-ab5c842506ce",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 183/2020-15",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Tomáš Kopal",
+    "ecli": "ECLI:CZ:OSLI:2020:22.C.183.2020.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 10.000,00 Kč s přísl.",
+    "datumVydani": "2020-12-03",
+    "datumZverejneni": "2021-03-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1824 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5ce2d88e-04ff-46d2-a13e-ab5c842506ce"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
