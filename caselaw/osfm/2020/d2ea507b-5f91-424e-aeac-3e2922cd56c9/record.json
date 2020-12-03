@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2020:11.C.188.2020.1",
+  "docket": "11 C 188/2020-16",
+  "date": "2020-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d2ea507b-5f91-424e-aeac-3e2922cd56c9",
+  "source_sha256": "78c7e3095c57bffebd17dfdc68206d6403f6639fb76fe60bf941b1ff1b0dfce5",
+  "source_id": "d2ea507b-5f91-424e-aeac-3e2922cd56c9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 188/2020-16",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. et Mgr. Martin Pavlík",
+    "ecli": "ECLI:CZ:OSFM:2020:11.C.188.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-03",
+    "datumZverejneni": "2021-04-06",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 2804 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d2ea507b-5f91-424e-aeac-3e2922cd56c9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
