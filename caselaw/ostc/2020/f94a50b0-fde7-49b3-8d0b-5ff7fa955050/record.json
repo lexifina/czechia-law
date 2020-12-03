@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Tachově",
+  "ecli": "ECLI:CZ:OSTC:2020:4.C.145.2020.1",
+  "docket": "4 C 145/2020-61",
+  "date": "2020-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f94a50b0-fde7-49b3-8d0b-5ff7fa955050",
+  "source_sha256": "02f62b4fd9efd2c9e4ca830cab47f8849f7786bcfc5db109e55d7c6ec436a402",
+  "source_id": "f94a50b0-fde7-49b3-8d0b-5ff7fa955050",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 145/2020-61",
+    "soud": "Okresní soud v Tachově",
+    "autor": "Mgr. Kateřina Edlová",
+    "ecli": "ECLI:CZ:OSTC:2020:4.C.145.2020.1",
+    "predmetRizeni": "o zaplacení částky 200.419 Kč s přísl.",
+    "datumVydani": "2020-12-03",
+    "datumZverejneni": "2021-06-07",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "pozůstalost",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 122 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f94a50b0-fde7-49b3-8d0b-5ff7fa955050"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
