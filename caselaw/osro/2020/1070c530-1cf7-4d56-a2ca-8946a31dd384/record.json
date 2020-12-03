@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2020:8.C.153.2020.1",
+  "docket": "8 C 153/2020-10",
+  "date": "2020-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1070c530-1cf7-4d56-a2ca-8946a31dd384",
+  "source_sha256": "4a4b5216cc0c86d8874dbc549d99f4b3090abc502212fee79cae7c4ee03ed980",
+  "source_id": "1070c530-1cf7-4d56-a2ca-8946a31dd384",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 153/2020-10",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "Mgr. Šárka Široká",
+    "ecli": "ECLI:CZ:OSRO:2020:8.C.153.2020.1",
+    "predmetRizeni": "zaplacení 2 964 Kč s přísl.",
+    "datumVydani": "2020-12-03",
+    "datumZverejneni": "2021-01-05",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2578 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1070c530-1cf7-4d56-a2ca-8946a31dd384"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
