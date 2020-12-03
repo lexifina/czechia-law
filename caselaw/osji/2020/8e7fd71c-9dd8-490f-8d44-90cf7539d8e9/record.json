@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2020:24.C.211.2020.1",
+  "docket": "24 C 211/2020-51",
+  "date": "2020-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8e7fd71c-9dd8-490f-8d44-90cf7539d8e9",
+  "source_sha256": "652374cec6b86c156f0e102970c5523bb89eb67dea5cb929bf5c4328fcb81a6c",
+  "source_id": "8e7fd71c-9dd8-490f-8d44-90cf7539d8e9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 211/2020-51",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "Mgr. et Mgr. Bc. Milan Boháček, M.A.",
+    "ecli": "ECLI:CZ:OSJI:2020:24.C.211.2020.1",
+    "predmetRizeni": "o 5 187,60 Kč s příslušenstvím",
+    "datumVydani": "2020-12-03",
+    "datumZverejneni": "2021-02-03",
+    "klicovaSlova": [
+      "elektronický podpis",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 562 z. č. 89/2012 Sb.",
+      "§ 561 z. č. 89/2012 Sb.",
+      "§ 104 z. č. 257/2016 Sb.",
+      "§ 5 z. č. 297/2016 Sb.",
+      "§ 551 z. č. 89/2012 Sb.",
+      "§ 554 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8e7fd71c-9dd8-490f-8d44-90cf7539d8e9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
