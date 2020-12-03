@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2020:9.C.49.2020.1",
+  "docket": "9 C 49/2020-74",
+  "date": "2020-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/df59991b-be44-4294-b751-525f159b361b",
+  "source_sha256": "5d361e89753949b286b830f9c057b7cbb70c5bade829406bcd2423da0ce25430",
+  "source_id": "df59991b-be44-4294-b751-525f159b361b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 49/2020-74",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Jana Stejskalová",
+    "ecli": "ECLI:CZ:OSPY:2020:9.C.49.2020.1",
+    "predmetRizeni": "o neplatnost rozvázání pracovního poměru",
+    "datumVydani": "2020-12-03",
+    "datumZverejneni": "2021-03-11",
+    "klicovaSlova": [
+      "náhrada mzdy",
+      "okamžité zrušení pracovního poměru",
+      "peněžité plnění",
+      "skončení pracovního poměru",
+      "smlouva pracovní",
+      "zkušební doba"
+    ],
+    "zminenaUstanoveni": [
+      "§ 55 z. č. 262/2006 Sb.",
+      "§ 251 z. č. 120/2001 Sb.",
+      "§ 336 z. č. 262/2006 Sb.",
+      "§ 38 z. č. 262/2006 Sb.",
+      "§ 334 z. č. 262/2006 Sb.",
+      "§ 335 z. č. 262/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/df59991b-be44-4294-b751-525f159b361b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
