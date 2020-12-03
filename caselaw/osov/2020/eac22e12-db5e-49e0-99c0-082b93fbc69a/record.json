@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2020:30.C.119.2016.3",
+  "docket": "30 C 119/2016-19",
+  "date": "2020-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/eac22e12-db5e-49e0-99c0-082b93fbc69a",
+  "source_sha256": "ef146f91f1ada7b4f5d00ea88ca13b5927c24617963e6fbb76202b0e5d7d88bd",
+  "source_id": "eac22e12-db5e-49e0-99c0-082b93fbc69a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 119/2016-19",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Alena Motalová",
+    "ecli": "ECLI:CZ:OSOV:2020:30.C.119.2016.3",
+    "predmetRizeni": "",
+    "datumVydani": "2020-12-03",
+    "datumZverejneni": "2021-01-21",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 107 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/eac22e12-db5e-49e0-99c0-082b93fbc69a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
