@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Berouně",
+  "ecli": "ECLI:CZ:OSBR:2020:112.C.42.2020.1",
+  "docket": "112 C 42/2020-17",
+  "date": "2020-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/25420658-e0f3-40ee-809f-169c9bd9084b",
+  "source_sha256": "3eb447eabac5c807df92135b92f2cfc0fa1b32152bf70767c58e5db1a69c3b33",
+  "source_id": "25420658-e0f3-40ee-809f-169c9bd9084b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "112 C 42/2020-17",
+    "soud": "Okresní soud v Berouně",
+    "autor": "Monika Kloboučníková",
+    "ecli": "ECLI:CZ:OSBR:2020:112.C.42.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2020-12-03",
+    "datumZverejneni": "2021-01-22",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 104 z. č. 99/1963 Sb.",
+      "§ 103 z. č. 99/1963 Sb.",
+      "§ 19 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/25420658-e0f3-40ee-809f-169c9bd9084b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
