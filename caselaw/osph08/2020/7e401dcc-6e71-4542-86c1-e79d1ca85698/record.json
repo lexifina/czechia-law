@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2020:26.C.20.2020.1",
+  "docket": "26 C 20/2020-62",
+  "date": "2020-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7e401dcc-6e71-4542-86c1-e79d1ca85698",
+  "source_sha256": "be774e47bdfc2c90e8234f106f3228cccaf8127a0069e811a1b424799c791617",
+  "source_id": "7e401dcc-6e71-4542-86c1-e79d1ca85698",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 20/2020-62",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "Mgr. Beatrice Keményová",
+    "ecli": "ECLI:CZ:OSPH08:2020:26.C.20.2020.1",
+    "predmetRizeni": "o zaplacení částky 53.738,05 Kč s příslušenstvím,",
+    "datumVydani": "2020-12-03",
+    "datumZverejneni": "2021-03-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 565 z. č. 89/2012 Sb.",
+      "§ 561 z. č. 89/2012 Sb.",
+      "§ 559 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7e401dcc-6e71-4542-86c1-e79d1ca85698"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
