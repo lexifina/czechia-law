@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Berouně",
+  "ecli": "ECLI:CZ:OSBR:2020:12.C.272.2020.1",
+  "docket": "12 C 272/2020",
+  "date": "2020-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e565f0d9-22e7-468a-ab73-228bcb3a2a54",
+  "source_sha256": "855b26d609a2506eeb56f304e4537a10bb3388a2b4d6c39a3803f3d67350c4c6",
+  "source_id": "e565f0d9-22e7-468a-ab73-228bcb3a2a54",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 272/2020",
+    "soud": "Okresní soud v Berouně",
+    "autor": "Mgr. Petr Pomahač",
+    "ecli": "ECLI:CZ:OSBR:2020:12.C.272.2020.1",
+    "predmetRizeni": "návrh na zahájení řízení o osvojení zletilého",
+    "datumVydani": "2020-12-03",
+    "datumZverejneni": "2021-01-21",
+    "klicovaSlova": [
+      "osvojení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 847 z. č. 89/2012 Sb.",
+      "§ 846 z. č. 89/2012 Sb.",
+      "§ 803 z. č. 89/2012 Sb.",
+      "§ 838 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e565f0d9-22e7-468a-ab73-228bcb3a2a54"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
