@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2020:6.C.214.2020.1",
+  "docket": "6 C 214/2020-11",
+  "date": "2020-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ede2312d-0df2-4fb6-9bd0-63206b618c83",
+  "source_sha256": "315c0a3e741d7fbbc63ee3eaf60cf98606e2870706e400ab50be5c3f83effe96",
+  "source_id": "ede2312d-0df2-4fb6-9bd0-63206b618c83",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 214/2020-11",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "Mgr. Jana Kantoříková",
+    "ecli": "ECLI:CZ:OSRO:2020:6.C.214.2020.1",
+    "predmetRizeni": "zaplacení 11 285 Kč s přísl.",
+    "datumVydani": "2020-12-03",
+    "datumZverejneni": "2021-01-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 1 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ede2312d-0df2-4fb6-9bd0-63206b618c83"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
