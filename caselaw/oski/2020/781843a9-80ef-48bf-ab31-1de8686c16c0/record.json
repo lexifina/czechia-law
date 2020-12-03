@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2020:20.C.254.2020.1",
+  "docket": "20 C 254/2020-21",
+  "date": "2020-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/781843a9-80ef-48bf-ab31-1de8686c16c0",
+  "source_sha256": "4a1e7968c184a41106b8fdeb241783991e4282b7f4bb04d49289f598e38f9b21",
+  "source_id": "781843a9-80ef-48bf-ab31-1de8686c16c0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 254/2020-21",
+    "soud": "Okresní soud v Karviné",
+    "autor": "Mgr. Tomáš Ožana",
+    "ecli": "ECLI:CZ:OSKI:2020:20.C.254.2020.1",
+    "predmetRizeni": "2 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-03",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/781843a9-80ef-48bf-ab31-1de8686c16c0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
