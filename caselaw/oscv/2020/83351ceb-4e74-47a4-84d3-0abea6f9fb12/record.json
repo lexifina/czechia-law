@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2020:1.C.144.2020.1",
+  "docket": "1 C 144/2020-50",
+  "date": "2020-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/83351ceb-4e74-47a4-84d3-0abea6f9fb12",
+  "source_sha256": "1ee3d57289cd1500cea4db94aac37f294b48644c0447ba08b5da3a9bcbff8bd0",
+  "source_id": "83351ceb-4e74-47a4-84d3-0abea6f9fb12",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "1 C 144/2020-50",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Petr Šustr",
+    "ecli": "ECLI:CZ:OSCV:2020:1.C.144.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím (půjčka)",
+    "datumVydani": "2020-12-03",
+    "datumZverejneni": "2021-01-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 86 z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/83351ceb-4e74-47a4-84d3-0abea6f9fb12"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
