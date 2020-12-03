@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2020:9.C.302.2020.1",
+  "docket": "9 C 302/2020-13",
+  "date": "2020-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ab9af5ef-ef2a-4415-bb8d-9bd06e54b212",
+  "source_sha256": "005a2c6e4d76fff289d537e78e74399bd55e94600d8e6a53e408ee3fa0fbc6f1",
+  "source_id": "ab9af5ef-ef2a-4415-bb8d-9bd06e54b212",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 302/2020-13",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "JUDr. Jana Hrdinová",
+    "ecli": "ECLI:CZ:OSCB:2020:9.C.302.2020.1",
+    "predmetRizeni": "EPR [číslo], o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2020-12-03",
+    "datumZverejneni": "2021-02-18",
+    "klicovaSlova": [
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ab9af5ef-ef2a-4415-bb8d-9bd06e54b212"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
