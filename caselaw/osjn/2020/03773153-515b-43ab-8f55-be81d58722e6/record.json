@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2020:10.C.196.2020.2",
+  "docket": "10 C 196/2020-60",
+  "date": "2020-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/03773153-515b-43ab-8f55-be81d58722e6",
+  "source_sha256": "942c79fdfdee3839ef073a020484eed9e5cf0bfdd5a3585d322f613712b64486",
+  "source_id": "03773153-515b-43ab-8f55-be81d58722e6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 196/2020-60",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "JUDr. Pavel Vlach, Ph.D.",
+    "ecli": "ECLI:CZ:OSJN:2020:10.C.196.2020.2",
+    "predmetRizeni": "o přezkoumání oprávněnosti výpovědi z nájmu bytu",
+    "datumVydani": "2020-12-03",
+    "datumZverejneni": "2021-06-21",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/96 Sb.",
+      "§ 2290 z. č. 89/2012 Sb.",
+      "§ 572 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/03773153-515b-43ab-8f55-be81d58722e6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
