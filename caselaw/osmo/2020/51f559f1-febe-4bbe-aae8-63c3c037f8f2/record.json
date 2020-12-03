@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:14.C.372.2020.2",
+  "docket": "14 C 372/2020-18",
+  "date": "2020-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/51f559f1-febe-4bbe-aae8-63c3c037f8f2",
+  "source_sha256": "ff007fdee3661a5c4017f6423b31ed24b0cda64788bc2104219397d31e209d4a",
+  "source_id": "51f559f1-febe-4bbe-aae8-63c3c037f8f2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 372/2020-18",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Karel Štička",
+    "ecli": "ECLI:CZ:OSMO:2020:14.C.372.2020.2",
+    "predmetRizeni": "10 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-03",
+    "datumZverejneni": "2021-01-20",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 89a z. č. 120/2001 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/51f559f1-febe-4bbe-aae8-63c3c037f8f2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
