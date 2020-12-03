@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kroměříži",
+  "ecli": "ECLI:CZ:OSKM:2020:19.C.83.2020.1",
+  "docket": "19 C 83/2020-44",
+  "date": "2020-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/aea42ce3-cb93-4142-8559-4288f540a7b0",
+  "source_sha256": "956319fc3cd7e71cac816c8c99111c4e20dde1d7007d26b00ca5aa1b73d4952d",
+  "source_id": "aea42ce3-cb93-4142-8559-4288f540a7b0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 83/2020-44",
+    "soud": "Okresní soud v Kroměříži",
+    "autor": "Mgr. Olga Vymazalová",
+    "ecli": "ECLI:CZ:OSKM:2020:19.C.83.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-12-03",
+    "datumZverejneni": "2021-08-27",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/aea42ce3-cb93-4142-8559-4288f540a7b0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
