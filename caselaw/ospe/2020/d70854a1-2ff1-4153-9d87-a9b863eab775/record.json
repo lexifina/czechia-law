@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pelhřimově",
+  "ecli": "ECLI:CZ:OSPE:2020:5.C.152.2020.1",
+  "docket": "5 C 152/2020-42",
+  "date": "2020-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d70854a1-2ff1-4153-9d87-a9b863eab775",
+  "source_sha256": "363a65c6de30f6b37b6003fc02783a07bbdb114a1f2b564330d02a692a7c545a",
+  "source_id": "d70854a1-2ff1-4153-9d87-a9b863eab775",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 152/2020-42",
+    "soud": "Okresní soud v Pelhřimově",
+    "autor": "JUDr. Martin Nováček",
+    "ecli": "ECLI:CZ:OSPE:2020:5.C.152.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-03",
+    "datumZverejneni": "2021-01-06",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 156 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d70854a1-2ff1-4153-9d87-a9b863eab775"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
