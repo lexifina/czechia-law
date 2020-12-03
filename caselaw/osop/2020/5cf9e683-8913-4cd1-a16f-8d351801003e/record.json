@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2020:10.C.134.2020.1",
+  "docket": "10 C 134/2020-24",
+  "date": "2020-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5cf9e683-8913-4cd1-a16f-8d351801003e",
+  "source_sha256": "d796341dc601ad21c596f3b2f71b621e46cc860764b2b1b4ccaa5bf374e311fe",
+  "source_id": "5cf9e683-8913-4cd1-a16f-8d351801003e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 134/2020-24",
+    "soud": "Okresní soud v Opavě",
+    "autor": "Mgr. Adam Haas",
+    "ecli": "ECLI:CZ:OSOP:2020:10.C.134.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-03",
+    "datumZverejneni": "2021-01-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 3 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5cf9e683-8913-4cd1-a16f-8d351801003e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
