@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2020:80.C.279.2020.4",
+  "docket": "80 C 279/2020-57",
+  "date": "2020-12-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/30c493f1-6983-4ee6-80f2-d47c60dd21c9",
+  "source_sha256": "707bf0793b409cb92b4dac9c3702dc1030a1e78bbbd68ae77de70538851bcee1",
+  "source_id": "30c493f1-6983-4ee6-80f2-d47c60dd21c9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "80 C 279/2020-57",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Hana Králová",
+    "ecli": "ECLI:CZ:OSOV:2020:80.C.279.2020.4",
+    "predmetRizeni": "o zaplacení 2 102,05 Kč s příslušenstvím",
+    "datumVydani": "2020-12-03",
+    "datumZverejneni": "2021-02-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§  z. č. 127/2005 Sb.",
+      "§ 2 nař. vl. č. 351/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/30c493f1-6983-4ee6-80f2-d47c60dd21c9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
