@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2020:20.C.171.2020.1",
+  "docket": "20 C 171/2020-19",
+  "date": "2020-12-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3d62cb7b-975f-49c7-b11e-335d9cf77d7c",
+  "source_sha256": "29e5e44a94fa6c970c816eded04fa0cf37c138bc45a8f856bccc7634b849d7b9",
+  "source_id": "3d62cb7b-975f-49c7-b11e-335d9cf77d7c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 171/2020-19",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "JUDr. Jaroslav Simet",
+    "ecli": "ECLI:CZ:OSSO:2020:20.C.171.2020.1",
+    "predmetRizeni": "zaplacení 8 755,50 Kč s příslušenstvím",
+    "datumVydani": "2020-12-04",
+    "datumZverejneni": "2021-02-02",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "podvod",
+      "postoupení pohledávky",
+      "smlouva nájemní",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 7 z. č. 89/2012 Sb.",
+      "§ 211 z. č. 40/2009 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3d62cb7b-975f-49c7-b11e-335d9cf77d7c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
