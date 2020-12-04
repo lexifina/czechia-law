@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pelhřimově",
+  "ecli": "ECLI:CZ:OSPE:2020:1.C.164.2020.1",
+  "docket": "1 C 164/2020-31",
+  "date": "2020-12-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c991cef0-ca05-49bb-a1e0-60265d12a331",
+  "source_sha256": "b7f2b53072e22cddcd0641cbadda4df5f00fabc182bfc579fd593a44579f2db3",
+  "source_id": "c991cef0-ca05-49bb-a1e0-60265d12a331",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "1 C 164/2020-31",
+    "soud": "Okresní soud v Pelhřimově",
+    "autor": "JUDr. Zdeněk Tichý",
+    "ecli": "ECLI:CZ:OSPE:2020:1.C.164.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-04",
+    "datumZverejneni": "2021-01-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c991cef0-ca05-49bb-a1e0-60265d12a331"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
