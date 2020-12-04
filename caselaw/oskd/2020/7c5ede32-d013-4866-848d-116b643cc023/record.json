@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2020:210.C.226.2020.1",
+  "docket": "210 C 226/2020-77",
+  "date": "2020-12-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7c5ede32-d013-4866-848d-116b643cc023",
+  "source_sha256": "60ee427fc55936051df0b83dda4b9fad5b59f10b1002ddcdea16e401aa0b4cab",
+  "source_id": "7c5ede32-d013-4866-848d-116b643cc023",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "210 C 226/2020-77",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Eva Kučerová",
+    "ecli": "ECLI:CZ:OSKD:2020:210.C.226.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-04",
+    "datumZverejneni": "2021-02-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§  nař. vl. č. 142/1994 Sb.",
+      "§ 1806 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7c5ede32-d013-4866-848d-116b643cc023"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
