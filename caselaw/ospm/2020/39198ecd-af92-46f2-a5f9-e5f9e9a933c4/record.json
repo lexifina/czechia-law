@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2020:20.C.243.2020.1",
+  "docket": "20 C 243/2020-49",
+  "date": "2020-12-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/39198ecd-af92-46f2-a5f9-e5f9e9a933c4",
+  "source_sha256": "8dc61a06126f0c91388e2c86499ec798de234b47c3eaf6d5c535170ac3fc61af",
+  "source_id": "39198ecd-af92-46f2-a5f9-e5f9e9a933c4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 243/2020-49",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. David Ungr",
+    "ecli": "ECLI:CZ:OSPM:2020:20.C.243.2020.1",
+    "predmetRizeni": "O zaplacení 2 000 Kč",
+    "datumVydani": "2020-12-04",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2048 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/39198ecd-af92-46f2-a5f9-e5f9e9a933c4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
