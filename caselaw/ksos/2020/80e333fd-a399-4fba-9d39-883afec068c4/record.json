@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Krajský soud v Ostravě",
+  "ecli": "ECLI:CZ:KSOS:2020:84.C.7.2017.1",
+  "docket": "84 C 7/2017-209",
+  "date": "2020-12-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/80e333fd-a399-4fba-9d39-883afec068c4",
+  "source_sha256": "5d65f32f86e1223c7eeaf905683a0b81e1030b774fb5e38f7231a264ca9fe622",
+  "source_id": "80e333fd-a399-4fba-9d39-883afec068c4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "84 C 7/2017-209",
+    "soud": "Krajský soud v Ostravě",
+    "autor": "JUDr. Jana Palkovská",
+    "ecli": "ECLI:CZ:KSOS:2020:84.C.7.2017.1",
+    "predmetRizeni": "o nahrazení rozhodnutí Státního pozemkového úřadu, Krajského pozemkového úřadu pro [územní celek] ze dne [datum], sp. zn. [anonymizováno] [číslo] [spisová značka], [anonymizováno] [číslo] [spisová značka], [číslo jednací]",
+    "datumVydani": "2020-12-04",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "převzetí majetku",
+      "služebnost",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 9 vyhl. č. 177/1996 Sb.",
+      "§ 245 z. č. 99/1963 Sb.",
+      "§ 250e z. č. 99/1963 Sb.",
+      "§ 3 z. č. 428/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/80e333fd-a399-4fba-9d39-883afec068c4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
