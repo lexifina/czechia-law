@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2020:29.C.161.2020.1",
+  "docket": "29 C 161/2020-14",
+  "date": "2020-12-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ac65063b-891f-4f05-aaa1-ca1d6168fa34",
+  "source_sha256": "3d20743c11cd7f514ee4f176fe3ba3e151914ae67905e36383c4cd65e6b346fc",
+  "source_id": "ac65063b-891f-4f05-aaa1-ca1d6168fa34",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 161/2020-14",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Bohumil Vašák",
+    "ecli": "ECLI:CZ:OSLI:2020:29.C.161.2020.1",
+    "predmetRizeni": "zaplacení částky 7.671,69 Kč s přísl.",
+    "datumVydani": "2020-12-04",
+    "datumZverejneni": "2021-01-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ac65063b-891f-4f05-aaa1-ca1d6168fa34"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
