@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2020:29.C.158.2020.1",
+  "docket": "29 C 158/2020-13",
+  "date": "2020-12-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/725f0e40-5dbc-4288-928a-28dec60e1133",
+  "source_sha256": "2dcb4f70bdbb121e89ce1ab2845dfb3c7725ce1c69f9cc62c6dfae78258b6a2e",
+  "source_id": "725f0e40-5dbc-4288-928a-28dec60e1133",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 158/2020-13",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Bohumil Vašák",
+    "ecli": "ECLI:CZ:OSLI:2020:29.C.158.2020.1",
+    "predmetRizeni": "zaplacení částky 4.080,00 Kč s přísl.",
+    "datumVydani": "2020-12-04",
+    "datumZverejneni": "2021-03-12",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 2551 z. č. 89/2012 Sb.",
+      "§ 1892 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/725f0e40-5dbc-4288-928a-28dec60e1133"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
