@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2020:15.C.76.2020.1",
+  "docket": "15 C 76/2020",
+  "date": "2020-12-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/020c9bde-6111-44c4-b173-989782b79ce5",
+  "source_sha256": "d73c50e6101dccbe544348aa72823ae566a131a9c606907e1b76d50e50d1db2d",
+  "source_id": "020c9bde-6111-44c4-b173-989782b79ce5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 76/2020",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Roman Flanderka",
+    "ecli": "ECLI:CZ:OSLI:2020:15.C.76.2020.1",
+    "predmetRizeni": "Rozvod manželství",
+    "datumVydani": "2020-12-04",
+    "datumZverejneni": "2021-01-19",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/020c9bde-6111-44c4-b173-989782b79ce5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
