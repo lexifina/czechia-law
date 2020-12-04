@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:44.C.102.2020.3",
+  "docket": "44 C 102/2020-26",
+  "date": "2020-12-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/29c360a4-15a7-457d-9e40-35c7b77d69b7",
+  "source_sha256": "6f2ac30c0639a21e758921824a48e95dcce09355b009ca61379a0ce1cd6d5264",
+  "source_id": "29c360a4-15a7-457d-9e40-35c7b77d69b7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "44 C 102/2020-26",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Jana Davidová",
+    "ecli": "ECLI:CZ:OSMO:2020:44.C.102.2020.3",
+    "predmetRizeni": "12 683,91 Kč s příslušenstvím",
+    "datumVydani": "2020-12-04",
+    "datumZverejneni": "2021-01-26",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "příspěvek na bydlení",
+      "smlouva nájemní",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§  z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/29c360a4-15a7-457d-9e40-35c7b77d69b7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
