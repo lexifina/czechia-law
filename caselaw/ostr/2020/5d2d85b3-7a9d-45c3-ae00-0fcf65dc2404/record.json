@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Třebíči",
+  "ecli": "ECLI:CZ:OSTR:2020:6.C.241.2020.1",
+  "docket": "6 C 241/2020-37",
+  "date": "2020-12-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5d2d85b3-7a9d-45c3-ae00-0fcf65dc2404",
+  "source_sha256": "4d6326840add9c8f7272cc4a2848ab32d8ae2705377ada8ed24f5af46c6977cf",
+  "source_id": "5d2d85b3-7a9d-45c3-ae00-0fcf65dc2404",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 241/2020-37",
+    "soud": "Okresní soud v Třebíči",
+    "autor": "JUDr.Mgr. Jan Hurdík, Ph.D.",
+    "ecli": "ECLI:CZ:OSTR:2020:6.C.241.2020.1",
+    "predmetRizeni": "zaplacení částky 10 306,42 Kč s příslušenstvím",
+    "datumVydani": "2020-12-04",
+    "datumZverejneni": "2021-01-22",
+    "klicovaSlova": [
+      "korporace",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 201 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5d2d85b3-7a9d-45c3-ae00-0fcf65dc2404"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
