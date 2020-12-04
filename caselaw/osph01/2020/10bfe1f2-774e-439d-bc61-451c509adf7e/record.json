@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2020:41.C.220.2020.1",
+  "docket": "41 C 220/2020-19",
+  "date": "2020-12-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/10bfe1f2-774e-439d-bc61-451c509adf7e",
+  "source_sha256": "a270f2d30583b1c198401cd8d74c7597790320fb4550f239a199aced4dc32196",
+  "source_id": "10bfe1f2-774e-439d-bc61-451c509adf7e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "41 C 220/2020-19",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "JUDr. Hana Marsová",
+    "ecli": "ECLI:CZ:OSPH01:2020:41.C.220.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-04",
+    "datumZverejneni": "2021-02-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 6 z. č. 145/2010 Sb.",
+      "§ 5 z. č. 145/2010 Sb.",
+      "§ 164 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/10bfe1f2-774e-439d-bc61-451c509adf7e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
