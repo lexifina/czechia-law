@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pelhřimově",
+  "ecli": "ECLI:CZ:OSPE:2020:1.C.176.2020.1",
+  "docket": "1 C 176/2020-35",
+  "date": "2020-12-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d7d74a0e-83e3-4460-b375-30acf8cf8a8b",
+  "source_sha256": "f4ab4342beb3c5459a3f572e7ada27bc8eb45c8b7407cf80e1b707aa50c2c5f2",
+  "source_id": "d7d74a0e-83e3-4460-b375-30acf8cf8a8b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "1 C 176/2020-35",
+    "soud": "Okresní soud v Pelhřimově",
+    "autor": "JUDr. Zdeněk Tichý",
+    "ecli": "ECLI:CZ:OSPE:2020:1.C.176.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-04",
+    "datumZverejneni": "2021-01-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d7d74a0e-83e3-4460-b375-30acf8cf8a8b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
