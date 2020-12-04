@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2020:15.C.138.2020.2",
+  "docket": "15 C 138/2020-32",
+  "date": "2020-12-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3dcac7f0-d7e4-449e-b3f9-363808895bc2",
+  "source_sha256": "300a0c9b11d10ddb55b6d985e9ca218aa49b9262a0db8543ff8dfe6345bd267a",
+  "source_id": "3dcac7f0-d7e4-449e-b3f9-363808895bc2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 138/2020-32",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "Mgr. Alena Brzáková",
+    "ecli": "ECLI:CZ:OSOL:2020:15.C.138.2020.2",
+    "predmetRizeni": "o 30 195,97 Kč s příslušenstvím",
+    "datumVydani": "2020-12-04",
+    "datumZverejneni": "2021-01-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2049 z. č. 89/2012 Sb.",
+      "§ 2398 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3dcac7f0-d7e4-449e-b3f9-363808895bc2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
