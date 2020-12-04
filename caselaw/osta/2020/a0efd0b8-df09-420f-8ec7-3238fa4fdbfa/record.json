@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2020:4.C.109.2020.1",
+  "docket": "4 C 109/2020-14",
+  "date": "2020-12-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a0efd0b8-df09-420f-8ec7-3238fa4fdbfa",
+  "source_sha256": "7a740c175ba0f74e0c96e92b98427863fbde9d2ad33d446f232a20d30ebb6eb9",
+  "source_id": "a0efd0b8-df09-420f-8ec7-3238fa4fdbfa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 109/2020-14",
+    "soud": "Okresní soud v Táboře",
+    "autor": "Mgr. Michaela Bílá",
+    "ecli": "ECLI:CZ:OSTA:2020:4.C.109.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-12-04",
+    "datumZverejneni": "2021-01-07",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a0efd0b8-df09-420f-8ec7-3238fa4fdbfa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
