@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Nymburce",
+  "ecli": "ECLI:CZ:OSNB:2020:10.C.135.2020.1",
+  "docket": "10 C 135/2020-23",
+  "date": "2020-12-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/da100e63-2902-4efd-9f61-3e765510a1d3",
+  "source_sha256": "e01e26d272d8373c4651c4d5e5712b2b95378810335e6b34813b9c0f9685ede7",
+  "source_id": "da100e63-2902-4efd-9f61-3e765510a1d3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 135/2020-23",
+    "soud": "Okresní soud v Nymburce",
+    "autor": "Mgr. Martina Kotouček mikolášková",
+    "ecli": "ECLI:CZ:OSNB:2020:10.C.135.2020.1",
+    "predmetRizeni": "O zaplacení [částka]",
+    "datumVydani": "2020-12-04",
+    "datumZverejneni": "2021-02-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 1724 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 127/2005 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/da100e63-2902-4efd-9f61-3e765510a1d3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
