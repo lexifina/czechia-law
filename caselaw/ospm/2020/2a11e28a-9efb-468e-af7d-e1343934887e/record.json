@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2020:20.C.187.2020.1",
+  "docket": "20 C 187/2020-67",
+  "date": "2020-12-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2a11e28a-9efb-468e-af7d-e1343934887e",
+  "source_sha256": "a7f0f5e093a0b95c62515ab0182d18df64c889189e4a89310e8f8e38bee4d781",
+  "source_id": "2a11e28a-9efb-468e-af7d-e1343934887e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 187/2020-67",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. David Ungr",
+    "ecli": "ECLI:CZ:OSPM:2020:20.C.187.2020.1",
+    "predmetRizeni": "O zaplacení 3 629 Kč s příslušenstvím",
+    "datumVydani": "2020-12-04",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2a11e28a-9efb-468e-af7d-e1343934887e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
