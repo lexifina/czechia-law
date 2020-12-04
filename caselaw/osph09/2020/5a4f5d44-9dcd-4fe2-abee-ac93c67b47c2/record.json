@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2020:18.C.315.2020.1",
+  "docket": "18 C 315/2020-15",
+  "date": "2020-12-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5a4f5d44-9dcd-4fe2-abee-ac93c67b47c2",
+  "source_sha256": "f66233d11c794fdb551876e6618fa2ff23e31a1c27555e903c8c1aaac55e44ea",
+  "source_id": "5a4f5d44-9dcd-4fe2-abee-ac93c67b47c2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 315/2020-15",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "JUDr. Eva Němečková",
+    "ecli": "ECLI:CZ:OSPH09:2020:18.C.315.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-04",
+    "datumZverejneni": "2021-02-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 798 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5a4f5d44-9dcd-4fe2-abee-ac93c67b47c2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
