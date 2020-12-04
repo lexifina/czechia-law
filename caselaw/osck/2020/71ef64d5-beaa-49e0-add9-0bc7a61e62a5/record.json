@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2020:5.C.332.2020.2",
+  "docket": "5 C 332/2020-22",
+  "date": "2020-12-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/71ef64d5-beaa-49e0-add9-0bc7a61e62a5",
+  "source_sha256": "2782e40c9802fcd100df50f6b883d68c6b23e435200e0d9756051fb06d7f03b9",
+  "source_id": "71ef64d5-beaa-49e0-add9-0bc7a61e62a5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 332/2020-22",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "JUDr. Ivana Paloučková",
+    "ecli": "ECLI:CZ:OSCK:2020:5.C.332.2020.2",
+    "predmetRizeni": "EPR [číslo], o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-04",
+    "datumZverejneni": "2021-01-25",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/71ef64d5-beaa-49e0-add9-0bc7a61e62a5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
