@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2020:13.C.337.2020.2",
+  "docket": "13 C 337/2020-19",
+  "date": "2020-12-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cfde0cf1-2aae-4885-ad38-fe6a9593bbca",
+  "source_sha256": "c7089d74e7e83c8d1f4a9365f35150247a17cc4853812e9b4a4c6ce9110d4f70",
+  "source_id": "cfde0cf1-2aae-4885-ad38-fe6a9593bbca",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 337/2020-19",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "JUDr. Iva Kučerová",
+    "ecli": "ECLI:CZ:OSUL:2020:13.C.337.2020.2",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-07",
+    "datumZverejneni": "2021-02-25",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 3 nař. vl. č. 351/2013 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§  z. č. 127/2005 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/96 Sb.",
+      "§ 132 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cfde0cf1-2aae-4885-ad38-fe6a9593bbca"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
