@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2020:7.C.341.2020.2",
+  "docket": "7 C 341/2020-28",
+  "date": "2020-12-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cdb7e774-0685-466f-bdd8-c65efd7298ed",
+  "source_sha256": "a02edca2f750997a3228f1b4321ba4537696890fe3fc32e6a4d7556c76f7535c",
+  "source_id": "cdb7e774-0685-466f-bdd8-c65efd7298ed",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 341/2020-28",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "Mgr. Antonín Pektor",
+    "ecli": "ECLI:CZ:OSPS:2020:7.C.341.2020.2",
+    "predmetRizeni": "90 123,62 Kč s přísl.",
+    "datumVydani": "2020-12-07",
+    "datumZverejneni": "2021-03-12",
+    "klicovaSlova": [
+      "náhrada škody",
+      "peněžité plnění",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 513 z. č. 89/2012 Sb.",
+      "§ 250/3 z. č. 262/2006 Sb.",
+      "§ 257/2 z. č. 262/2006 Sb.",
+      "§ 346b/1 z. č. 262/2006 Sb.",
+      "§ 580/1 z. č. 89/2012 Sb.",
+      "§ 346d/7 z. č. 262/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cdb7e774-0685-466f-bdd8-c65efd7298ed"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
