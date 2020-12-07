@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2020:209.C.194.2020.1",
+  "docket": "209 C 194/2020-23",
+  "date": "2020-12-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c69d2c7c-4e14-424b-b438-d791564b98c6",
+  "source_sha256": "eae754d57dbfe40a36c481a71ff9321cf03b4d293548fb12f1da40b7c173cd12",
+  "source_id": "c69d2c7c-4e14-424b-b438-d791564b98c6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "209 C 194/2020-23",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Alena Šustrová",
+    "ecli": "ECLI:CZ:OSKD:2020:209.C.194.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-07",
+    "datumZverejneni": "2020-12-31",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§  vyhl. č. 120/2014 Sb.",
+      "§ 2 z. č. 348/2005 Sb.",
+      "§ 7          z. č. 3480/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c69d2c7c-4e14-424b-b438-d791564b98c6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
