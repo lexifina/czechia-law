@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Strakonicích",
+  "ecli": "ECLI:CZ:OSST:2020:1.C.169.2020.1",
+  "docket": "1 C 169/2020-33",
+  "date": "2020-12-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8a34f3df-f1bb-4014-89b2-ced75953baac",
+  "source_sha256": "d1de22c10cc13ebe3202962194c70c12ec40c24f174f71feee238cff946c1f9a",
+  "source_id": "8a34f3df-f1bb-4014-89b2-ced75953baac",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "1 C 169/2020-33",
+    "soud": "Okresní soud ve Strakonicích",
+    "autor": "JUDr. Lenka Bártová",
+    "ecli": "ECLI:CZ:OSST:2020:1.C.169.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-07",
+    "datumZverejneni": "2021-02-05",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  vyhl. č. 205/1999 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 4 z. č. 168/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8a34f3df-f1bb-4014-89b2-ced75953baac"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
