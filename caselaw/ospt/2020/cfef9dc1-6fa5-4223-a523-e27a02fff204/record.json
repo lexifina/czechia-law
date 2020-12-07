@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prachaticích",
+  "ecli": "ECLI:CZ:OSPT:2020:6.C.269.2020.1",
+  "docket": "6 C 269/2020-15",
+  "date": "2020-12-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cfef9dc1-6fa5-4223-a523-e27a02fff204",
+  "source_sha256": "33c09154b0cf2c2b1163f0116440289d6474056ce36c5d3b2190f82e971331da",
+  "source_id": "cfef9dc1-6fa5-4223-a523-e27a02fff204",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 269/2020-15",
+    "soud": "Okresní soud v Prachaticích",
+    "autor": "JUDr. Bohumil Veselý",
+    "ecli": "ECLI:CZ:OSPT:2020:6.C.269.2020.1",
+    "predmetRizeni": "O zaplacení 1 800 Kč s příslušenstvím",
+    "datumVydani": "2020-12-07",
+    "datumZverejneni": "2021-01-20",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cfef9dc1-6fa5-4223-a523-e27a02fff204"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
