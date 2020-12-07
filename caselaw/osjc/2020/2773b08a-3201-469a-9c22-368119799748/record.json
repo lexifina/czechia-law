@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jičíně",
+  "ecli": "ECLI:CZ:OSJC:2020:3.C.194.2020.1",
+  "docket": "3 C 194/2020-21",
+  "date": "2020-12-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2773b08a-3201-469a-9c22-368119799748",
+  "source_sha256": "2722840e7834767b149333f2349b59be677060047d7077f7bee8096bf3b2d488",
+  "source_id": "2773b08a-3201-469a-9c22-368119799748",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 194/2020-21",
+    "soud": "Okresní soud v Jičíně",
+    "autor": "JUDr. Drahomíra Šorfová",
+    "ecli": "ECLI:CZ:OSJC:2020:3.C.194.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-12-07",
+    "datumZverejneni": "2021-01-13",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 14 z. č. 328/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2773b08a-3201-469a-9c22-368119799748"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
