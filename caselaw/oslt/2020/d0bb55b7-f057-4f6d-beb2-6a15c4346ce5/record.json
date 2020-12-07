@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Litoměřicích",
+  "ecli": "ECLI:CZ:OSLT:2020:19.C.267.2020.1",
+  "docket": "19 C 267/2020-67",
+  "date": "2020-12-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d0bb55b7-f057-4f6d-beb2-6a15c4346ce5",
+  "source_sha256": "f6126be77d4d7d8abb065440774a5348665eea9b66f182b917a53a45eab47dde",
+  "source_id": "d0bb55b7-f057-4f6d-beb2-6a15c4346ce5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 267/2020-67",
+    "soud": "Okresní soud v Litoměřicích",
+    "autor": "Mgr. Zdeněk Hammer",
+    "ecli": "ECLI:CZ:OSLT:2020:19.C.267.2020.1",
+    "predmetRizeni": "o zaplacení částky 74.571 Kč s přísl.",
+    "datumVydani": "2020-12-07",
+    "datumZverejneni": "2021-12-30",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d0bb55b7-f057-4f6d-beb2-6a15c4346ce5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
