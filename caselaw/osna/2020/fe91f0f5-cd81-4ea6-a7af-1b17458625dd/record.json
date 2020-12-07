@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2020:3.C.261.2020.1",
+  "docket": "3 C 261/2020-40",
+  "date": "2020-12-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fe91f0f5-cd81-4ea6-a7af-1b17458625dd",
+  "source_sha256": "5766fbba8c44ca8cd9a10c8c8612215add7bc1b13c2ebb7dededfb001f6d27bf",
+  "source_id": "fe91f0f5-cd81-4ea6-a7af-1b17458625dd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 261/2020-40",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "JUDr. Martina Kűchlerová",
+    "ecli": "ECLI:CZ:OSNA:2020:3.C.261.2020.1",
+    "predmetRizeni": "o zaplacení 8.780 Kč s příslušenstvím (půjčka)",
+    "datumVydani": "2020-12-07",
+    "datumZverejneni": "2021-03-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1872 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fe91f0f5-cd81-4ea6-a7af-1b17458625dd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
