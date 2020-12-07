@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kutné Hoře",
+  "ecli": "ECLI:CZ:OSKH:2020:4.C.23.2020.1",
+  "docket": "4 C 23/2020-42",
+  "date": "2020-12-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0d40fcb5-6642-4904-9807-251bdae0375d",
+  "source_sha256": "65fe0078c7c8d436d03a54e6a948248473b5bc240e21d2de0439ba6ebb4e0047",
+  "source_id": "0d40fcb5-6642-4904-9807-251bdae0375d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 23/2020-42",
+    "soud": "Okresní soud v Kutné Hoře",
+    "autor": "Mgr. Pavla Fukalová",
+    "ecli": "ECLI:CZ:OSKH:2020:4.C.23.2020.1",
+    "predmetRizeni": "o zaplacení 1 950 Kč s příslušenstvím",
+    "datumVydani": "2020-12-07",
+    "datumZverejneni": "2021-01-13",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0d40fcb5-6642-4904-9807-251bdae0375d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
