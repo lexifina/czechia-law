@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2020:54.C.380.2020.2",
+  "docket": "54 C 380/2020-22",
+  "date": "2020-12-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/62d68995-a2c3-4a56-9952-bcf98db0a518",
+  "source_sha256": "f4bfe027a26bf85edbd43de9cf0ef90059ee1ea770c3382ba4d0f13303862e09",
+  "source_id": "62d68995-a2c3-4a56-9952-bcf98db0a518",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "54 C 380/2020-22",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Monika Kotlánová",
+    "ecli": "ECLI:CZ:OSOV:2020:54.C.380.2020.2",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-07",
+    "datumZverejneni": "2021-03-25",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2779 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/62d68995-a2c3-4a56-9952-bcf98db0a518"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
