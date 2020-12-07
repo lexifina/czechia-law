@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jičíně",
+  "ecli": "ECLI:CZ:OSJC:2020:3.C.132.2020.1",
+  "docket": "3 C 132/2020-42",
+  "date": "2020-12-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0642290c-20fa-48b7-86e3-c937227b9ead",
+  "source_sha256": "ccf0d99a80b4f3012912cf0656c824d359f95667d1c58fdd80f8acc2ff4c3396",
+  "source_id": "0642290c-20fa-48b7-86e3-c937227b9ead",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 132/2020-42",
+    "soud": "Okresní soud v Jičíně",
+    "autor": "JUDr. Drahomíra Šorfová",
+    "ecli": "ECLI:CZ:OSJC:2020:3.C.132.2020.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2020-12-07",
+    "datumZverejneni": "2021-02-15",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0642290c-20fa-48b7-86e3-c937227b9ead"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
