@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:17.C.204.2020.1",
+  "docket": "17 C 204/2020-33",
+  "date": "2020-12-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c966190a-2900-48db-8e5d-a5df1036b2f6",
+  "source_sha256": "3ac5eff48cf158c55163985cc3a1199f6676d9d542a05e143e903753fa0e8373",
+  "source_id": "c966190a-2900-48db-8e5d-a5df1036b2f6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 204/2020-33",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Petra Filová",
+    "ecli": "ECLI:CZ:MSBR:2020:17.C.204.2020.1",
+    "predmetRizeni": "zaplacení 396 Kč s příslušenstvím - pojistné",
+    "datumVydani": "2020-12-07",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§  z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c966190a-2900-48db-8e5d-a5df1036b2f6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
