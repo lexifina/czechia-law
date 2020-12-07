@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:13.C.150.2020.1",
+  "docket": "13 C 150/2020-32",
+  "date": "2020-12-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a1dc79a0-cc0a-436c-ba70-2aa544d92fd0",
+  "source_sha256": "a61c1d030f03cec8637ae1ed06f199c13af91929e7f3c0a03c1a743c0344d467",
+  "source_id": "a1dc79a0-cc0a-436c-ba70-2aa544d92fd0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 150/2020-32",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Jiří Pitrun",
+    "ecli": "ECLI:CZ:MSBR:2020:13.C.150.2020.1",
+    "predmetRizeni": "zaplacení 4.500 Kč s příslušenstvím - faktura",
+    "datumVydani": "2020-12-07",
+    "datumZverejneni": "2021-03-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 63 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a1dc79a0-cc0a-436c-ba70-2aa544d92fd0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
