@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2020:21.C.21.2020.1",
+  "docket": "21 C 21/2020",
+  "date": "2020-12-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/349f9a96-87cc-4d19-9ca6-2b84d60c9a70",
+  "source_sha256": "22a13c23cbc01c89b83528c97dafc829cc2ccccc0ba65d3025b28fe35ef0b27c",
+  "source_id": "349f9a96-87cc-4d19-9ca6-2b84d60c9a70",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 21/2020",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "Mgr. Jolana Stonawská",
+    "ecli": "ECLI:CZ:OSPH10:2020:21.C.21.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-12-07",
+    "datumZverejneni": "2021-01-27",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 89/2012 Sb.",
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 207 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/349f9a96-87cc-4d19-9ca6-2b84d60c9a70"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
