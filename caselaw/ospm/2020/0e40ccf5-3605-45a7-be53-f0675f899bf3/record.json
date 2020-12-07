@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2020:34.C.185.2020.1",
+  "docket": "34 C 185/2020-75",
+  "date": "2020-12-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0e40ccf5-3605-45a7-be53-f0675f899bf3",
+  "source_sha256": "338346e1365b4df88566ef40fc49156bb5f682e56b753da6ba5c2a6e32c2bcb4",
+  "source_id": "0e40ccf5-3605-45a7-be53-f0675f899bf3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 185/2020-75",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Bc. Tomáš Kamenický",
+    "ecli": "ECLI:CZ:OSPM:2020:34.C.185.2020.1",
+    "predmetRizeni": "O zaplacení 46 429,48 Kč s příslušenstvím",
+    "datumVydani": "2020-12-07",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0e40ccf5-3605-45a7-be53-f0675f899bf3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
