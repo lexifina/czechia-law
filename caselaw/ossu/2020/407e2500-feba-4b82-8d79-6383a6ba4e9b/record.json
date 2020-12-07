@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2020:207.C.54.2016.1",
+  "docket": "207 C 54/2016-124",
+  "date": "2020-12-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/407e2500-feba-4b82-8d79-6383a6ba4e9b",
+  "source_sha256": "0e83f3763616c06f69ce8b7c96ade09da0e47b8c572ea09f52d1aa7e2dd01575",
+  "source_id": "407e2500-feba-4b82-8d79-6383a6ba4e9b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "207 C 54/2016-124",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "Mgr. Hana Langerová",
+    "ecli": "ECLI:CZ:OSSU:2020:207.C.54.2016.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2020-12-07",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 517 z. č. 40/1964 Sb.",
+      "§ 497 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/407e2500-feba-4b82-8d79-6383a6ba4e9b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
