@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2020:19.C.525.2020.1",
+  "docket": "19 C 525/2020-27",
+  "date": "2020-12-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e72920ac-e433-42e8-8931-fb1d63a94d69",
+  "source_sha256": "2cede967c210fe72e126dbc18bd5d8ba122c3a3bfb4a513dd6a386ede6c465bd",
+  "source_id": "e72920ac-e433-42e8-8931-fb1d63a94d69",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 525/2020-27",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "JUDr. Jan Kušnír",
+    "ecli": "ECLI:CZ:OSJN:2020:19.C.525.2020.1",
+    "predmetRizeni": "o zaplacení 41 555,59 Kč s příslušenstvím",
+    "datumVydani": "2020-12-07",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§  vyhl. č. 358/2019 Sb.",
+      "§ 2399 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e72920ac-e433-42e8-8931-fb1d63a94d69"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
