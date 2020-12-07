@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2020:7.C.165.2020.1",
+  "docket": "7 C 165/2020-16",
+  "date": "2020-12-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/03227305-e167-49d7-8c0d-c103e709cde5",
+  "source_sha256": "4e3b323f33d05649050729261f1a830c7a5ce5b0ee28bea60642c3f5468f3c77",
+  "source_id": "03227305-e167-49d7-8c0d-c103e709cde5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 165/2020-16",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "JUDr. Irena Voštová",
+    "ecli": "ECLI:CZ:OSPH06:2020:7.C.165.2020.1",
+    "predmetRizeni": "o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2020-12-07",
+    "datumZverejneni": "2021-02-11",
+    "klicovaSlova": [
+      "dlužné platby spojené s užíváním bytu",
+      "peněžité plnění",
+      "společenství vlastníků jednotek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 1181 z. č. 89/2012 Sb.",
+      "§ 1180 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/03227305-e167-49d7-8c0d-c103e709cde5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
