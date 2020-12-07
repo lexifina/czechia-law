@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Třebíči",
+  "ecli": "ECLI:CZ:OSTR:2020:7.C.113.2020.1",
+  "docket": "7 C 113/2020-25",
+  "date": "2020-12-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f7707424-af66-4f6b-a143-b8f6e34c5b61",
+  "source_sha256": "463ce23d3151b79642b94575ee9336f343e9b4c36144025a60294b72886b5076",
+  "source_id": "f7707424-af66-4f6b-a143-b8f6e34c5b61",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 113/2020-25",
+    "soud": "Okresní soud v Třebíči",
+    "autor": "Mgr. Petra Rutarová",
+    "ecli": "ECLI:CZ:OSTR:2020:7.C.113.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-07",
+    "datumZverejneni": "2021-02-17",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva o zápůjčce",
+      "zastavení exekuce / výkonu rozhodnutí"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§  z. č. 43/2013 Sb.",
+      "§  z. č. 110/2006 Sb.",
+      "§ 2991 z. č. 99/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f7707424-af66-4f6b-a143-b8f6e34c5b61"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
