@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:15.C.95.2020.1",
+  "docket": "15 C 95/2020-19",
+  "date": "2020-12-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/536f19ca-1b42-45e3-a495-bbeb6b5eb48b",
+  "source_sha256": "2a651600946578d8a25e8b916c8d791c2dd62bbb69cafe7d3bb2a849cb5f93d3",
+  "source_id": "536f19ca-1b42-45e3-a495-bbeb6b5eb48b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 95/2020-19",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Stanislav Pulkrab",
+    "ecli": "ECLI:CZ:MSBR:2020:15.C.95.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-12-07",
+    "datumZverejneni": "2021-03-05",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/536f19ca-1b42-45e3-a495-bbeb6b5eb48b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
