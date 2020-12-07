@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2020:7.C.236.2020.1",
+  "docket": "7 C 236/2020-26",
+  "date": "2020-12-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/df788c9c-7e43-4ff2-8e2e-9b29b33e5385",
+  "source_sha256": "9966ddb264c9e1f0e13f9508dd1a00c48a9423ce4bd21611a4408bded5dc63ce",
+  "source_id": "df788c9c-7e43-4ff2-8e2e-9b29b33e5385",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 236/2020-26",
+    "soud": "Okresní soud v Přerově",
+    "autor": "JUDr. Margita Marková",
+    "ecli": "ECLI:CZ:OSPR:2020:7.C.236.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-07",
+    "datumZverejneni": "2021-01-25",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/df788c9c-7e43-4ff2-8e2e-9b29b33e5385"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
