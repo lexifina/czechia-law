@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2020:8.C.198.2020.2",
+  "docket": "8 C 198/2020-40",
+  "date": "2020-12-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ba0942d3-0798-4a89-a4cc-b5a06f6465fd",
+  "source_sha256": "9343d405e0b851e64f27d36ed7ce2cdfbe590be4437aac706b49e967ef4d8ac7",
+  "source_id": "ba0942d3-0798-4a89-a4cc-b5a06f6465fd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 198/2020-40",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "JUDr. Soňa Nedbalová",
+    "ecli": "ECLI:CZ:OSBI:2020:8.C.198.2020.2",
+    "predmetRizeni": "O zaplacení 1 525 Kč s příslušenstvím",
+    "datumVydani": "2020-12-07",
+    "datumZverejneni": "2021-04-06",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§  z. č. 266/1994 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 2578 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ba0942d3-0798-4a89-a4cc-b5a06f6465fd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
