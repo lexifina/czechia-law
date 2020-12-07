@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2020:109.C.257.2020.1",
+  "docket": "109 C 257/2020-52",
+  "date": "2020-12-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4cc3c021-18ab-4d3e-91a0-f6d03fe07631",
+  "source_sha256": "7009da51c6250e7531bf6cdb78a11c9ac8c58ba4d897c9a09861e03f7db5ecae",
+  "source_id": "4cc3c021-18ab-4d3e-91a0-f6d03fe07631",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "109 C 257/2020-52",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Michaela Bouhalika",
+    "ecli": "ECLI:CZ:OSKIHA:2020:109.C.257.2020.1",
+    "predmetRizeni": "3 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-07",
+    "datumZverejneni": "2021-02-23",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4cc3c021-18ab-4d3e-91a0-f6d03fe07631"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
