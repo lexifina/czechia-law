@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2020:116.C.347.2020.1",
+  "docket": "116 C 347/2020-43",
+  "date": "2020-12-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2763c449-7996-4206-8f2b-97826ac82633",
+  "source_sha256": "1629f17b991e19f39d03d0bbab2b902d1e8dde8b49e3fc85e755a259017ff25b",
+  "source_id": "2763c449-7996-4206-8f2b-97826ac82633",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "116 C 347/2020-43",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Ivana Josieková",
+    "ecli": "ECLI:CZ:OSKIHA:2020:116.C.347.2020.1",
+    "predmetRizeni": "2 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-07",
+    "datumZverejneni": "2021-01-14",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "poučovací povinnost soudu",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2763c449-7996-4206-8f2b-97826ac82633"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
