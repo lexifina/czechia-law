@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2020:17.C.226.2020.1",
+  "docket": "17 C 226/2020-19",
+  "date": "2020-12-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f81edf23-da92-467f-bbaf-99e32dc47a5a",
+  "source_sha256": "d9dac8f40e82a4edf5e8dda27df288691a176fd06a03f0910776dedadf41d0d9",
+  "source_id": "f81edf23-da92-467f-bbaf-99e32dc47a5a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 226/2020-19",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "Mgr. Jana Fejtová",
+    "ecli": "ECLI:CZ:OSNJ:2020:17.C.226.2020.1",
+    "predmetRizeni": "O zaplacení [částka]",
+    "datumVydani": "2020-12-07",
+    "datumZverejneni": "2021-02-02",
+    "klicovaSlova": [
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 87/1 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f81edf23-da92-467f-bbaf-99e32dc47a5a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
