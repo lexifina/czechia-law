@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2020:28.C.465.2020.1",
+  "docket": "28 C 465/2020-16",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b47e7b8d-a1f5-47f8-b2f4-d23f68c6fc6b",
+  "source_sha256": "941a93443f7a756be8f2d4ac7440733b914267ab03595be3256b39f0cd199827",
+  "source_id": "b47e7b8d-a1f5-47f8-b2f4-d23f68c6fc6b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 465/2020-16",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Šárka Malíková petříčková",
+    "ecli": "ECLI:CZ:OSPH05:2020:28.C.465.2020.1",
+    "predmetRizeni": "O zaplacení 8 410,21 Kč s příslušenstvím",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-02-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 562 z. č. 89/2012 Sb.",
+      "§ 1820 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b47e7b8d-a1f5-47f8-b2f4-d23f68c6fc6b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
