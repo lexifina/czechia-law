@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2020:14.C.225.2020.1",
+  "docket": "14 C 225/2020-27",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1e11c5a9-be20-4be9-8759-65c46de2d6b9",
+  "source_sha256": "31b754f22d3c0f8dc138f710498a4551dcb2f68e8dcdae8e8cd66e886e783cb4",
+  "source_id": "1e11c5a9-be20-4be9-8759-65c46de2d6b9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 225/2020-27",
+    "soud": "Okresní soud v Lounech",
+    "autor": "Mgr. Miloslav Holub",
+    "ecli": "ECLI:CZ:OSLN:2020:14.C.225.2020.1",
+    "predmetRizeni": "O zaplacení 12 205 Kč s příslušenstvím",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-01-26",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1e11c5a9-be20-4be9-8759-65c46de2d6b9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
