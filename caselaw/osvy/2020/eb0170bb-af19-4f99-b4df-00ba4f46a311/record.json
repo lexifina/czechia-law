@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2020:7.C.253.2020.1",
+  "docket": "7 C 253/2020-35",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/eb0170bb-af19-4f99-b4df-00ba4f46a311",
+  "source_sha256": "b3c2165c0a92248484c97b50f9da857560ec6bc97822f4cc9667975281c96b0b",
+  "source_id": "eb0170bb-af19-4f99-b4df-00ba4f46a311",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 253/2020-35",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Ilona Láníková",
+    "ecli": "ECLI:CZ:OSVY:2020:7.C.253.2020.1",
+    "predmetRizeni": "zaplacení částky 635 Kč s příslušenstvím - pojistné",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-01-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 12 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/eb0170bb-af19-4f99-b4df-00ba4f46a311"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
