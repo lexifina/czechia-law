@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Blansku",
+  "ecli": "ECLI:CZ:OSBK:2020:706.C.13.2020.1",
+  "docket": "706 C 13/2020-28",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e178d5e5-11d4-430b-bee3-cc67992cf62f",
+  "source_sha256": "ffa6e4a00e76018f4fe96bb297b6e443570a454ef0be8be341f93963e4e927c4",
+  "source_id": "e178d5e5-11d4-430b-bee3-cc67992cf62f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "706 C 13/2020-28",
+    "soud": "Okresní soud v Blansku",
+    "autor": "JUDr. Alena Šparlinková",
+    "ecli": "ECLI:CZ:OSBK:2020:706.C.13.2020.1",
+    "predmetRizeni": "[částka] s přísl.",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-01-05",
+    "klicovaSlova": [
+      "nájem nebytových prostor",
+      "nebytový prostor",
+      "peněžité plnění",
+      "podnájem",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§  z. č. 116/1990 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e178d5e5-11d4-430b-bee3-cc67992cf62f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
