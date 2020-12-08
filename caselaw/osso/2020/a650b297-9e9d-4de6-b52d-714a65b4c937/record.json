@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2020:33.C.239.2020.3",
+  "docket": "33 C 239/2020-29",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a650b297-9e9d-4de6-b52d-714a65b4c937",
+  "source_sha256": "159a61e1478e9069eda396576888c98b6261ceb064d1b1e805856b5188458a81",
+  "source_id": "a650b297-9e9d-4de6-b52d-714a65b4c937",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "33 C 239/2020-29",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "Mgr. Radka Čepická",
+    "ecli": "ECLI:CZ:OSSO:2020:33.C.239.2020.3",
+    "predmetRizeni": "zaplacení 18 260 Kč s příslušenstvím",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-01-20",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "peněžité plnění",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 1931 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a650b297-9e9d-4de6-b52d-714a65b4c937"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
