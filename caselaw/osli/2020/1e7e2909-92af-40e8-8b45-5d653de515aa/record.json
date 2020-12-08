@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2020:17.C.317.2020.1",
+  "docket": "17 C 317/2020-37",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1e7e2909-92af-40e8-8b45-5d653de515aa",
+  "source_sha256": "304d22170ed2807ed7cdf612f945466b2ae5ed63e27cd0b95e32fe99ee85b764",
+  "source_id": "1e7e2909-92af-40e8-8b45-5d653de515aa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 317/2020-37",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Jan Uhlíř",
+    "ecli": "ECLI:CZ:OSLI:2020:17.C.317.2020.1",
+    "predmetRizeni": "zaplacení částky 1.500,00 Kč s přísl.",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-02-12",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2636 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1e7e2909-92af-40e8-8b45-5d653de515aa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
