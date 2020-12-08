@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2020:10.C.234.2020.1",
+  "docket": "10 C 234/2020-26",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fe32d958-e7b7-4421-82f8-bfcf98190aa1",
+  "source_sha256": "a3f46fadfe3cc03ae71f73268ba1aa9c4558a2cfd5767ee4ee888849a74112eb",
+  "source_id": "fe32d958-e7b7-4421-82f8-bfcf98190aa1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 234/2020-26",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "JUDr. Ladislava Mišková",
+    "ecli": "ECLI:CZ:OSPH06:2020:10.C.234.2020.1",
+    "predmetRizeni": "o zaplacení částky 736,87 euro s příslušenstvím",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-06-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "právo Evropské unie"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fe32d958-e7b7-4421-82f8-bfcf98190aa1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
