@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2020:43.C.360.2020.1",
+  "docket": "43 C 360/2020-17",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9b468b9d-00fa-4f26-bd46-8a83eba88c0b",
+  "source_sha256": "7211518be4da63e310c04b54dfe9740520234809474a5483e164893f047bcbf4",
+  "source_id": "9b468b9d-00fa-4f26-bd46-8a83eba88c0b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "43 C 360/2020-17",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "Mgr. Monika Tupá",
+    "ecli": "ECLI:CZ:OSPH04:2020:43.C.360.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-01-15",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9b468b9d-00fa-4f26-bd46-8a83eba88c0b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
