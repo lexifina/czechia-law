@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2020:27.C.294.2020.1",
+  "docket": "27 C 294/2020-12",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b4102ff6-a43e-46ab-b7cf-ed03935fee1b",
+  "source_sha256": "46a654878555de3783c6ee376aec3b994c2ea3915d478bec738157d14a910a5d",
+  "source_id": "b4102ff6-a43e-46ab-b7cf-ed03935fee1b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 294/2020-12",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "JUDr. Lubomír Janoušek, Ph.D.",
+    "ecli": "ECLI:CZ:OSPH06:2020:27.C.294.2020.1",
+    "predmetRizeni": "o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-02-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojistné na zdravotní pojištění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1721 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b4102ff6-a43e-46ab-b7cf-ed03935fee1b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
