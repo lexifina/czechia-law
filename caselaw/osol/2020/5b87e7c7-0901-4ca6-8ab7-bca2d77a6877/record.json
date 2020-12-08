@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2020:11.C.348.2020.1",
+  "docket": "11 C 348/2020-46",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5b87e7c7-0901-4ca6-8ab7-bca2d77a6877",
+  "source_sha256": "e6a1cc7c646354f550a2d1667e5d9ff5f33c3f02cc2f048ba152c7b4cb9596e3",
+  "source_id": "5b87e7c7-0901-4ca6-8ab7-bca2d77a6877",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 348/2020-46",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "JUDr. Jaroslava Jechová",
+    "ecli": "ECLI:CZ:OSOL:2020:11.C.348.2020.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-01-13",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění",
+      "prodlení věřitele"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 49 vyhl. č. 175/2000 Sb.",
+      "§ 2551 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5b87e7c7-0901-4ca6-8ab7-bca2d77a6877"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
