@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Semilech",
+  "ecli": "ECLI:CZ:OSSM:2020:10.C.208.2020.1",
+  "docket": "10 C 208/2020-15",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/31f0301e-1ee8-494c-aa2e-3d5685cee959",
+  "source_sha256": "bde9746d3f73965d3d829831bffb9195f7c5e76e2fd2cbc3696c3bd22a3e7bd7",
+  "source_id": "31f0301e-1ee8-494c-aa2e-3d5685cee959",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 208/2020-15",
+    "soud": "Okresní soud v Semilech",
+    "autor": "Mgr. Pavla Erlebachová",
+    "ecli": "ECLI:CZ:OSSM:2020:10.C.208.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-02-05",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 235/2004 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/31f0301e-1ee8-494c-aa2e-3d5685cee959"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
