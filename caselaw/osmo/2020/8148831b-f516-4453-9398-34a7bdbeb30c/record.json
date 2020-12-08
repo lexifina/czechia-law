@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:32.C.229.2020.1",
+  "docket": "32 C 229/2020-29",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8148831b-f516-4453-9398-34a7bdbeb30c",
+  "source_sha256": "f863625014bad4ea7bf203eee1e23e0a4ce3a6e84c0afd18bf7cabb13eeec0f4",
+  "source_id": "8148831b-f516-4453-9398-34a7bdbeb30c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "32 C 229/2020-29",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Bc. Zdeněk Piskač",
+    "ecli": "ECLI:CZ:OSMO:2020:32.C.229.2020.1",
+    "predmetRizeni": "4 400 Kč s příslušenstvím",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-01-14",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8148831b-f516-4453-9398-34a7bdbeb30c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
