@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2020:6.C.317.2020.1",
+  "docket": "6 C 317/2020-22",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/64c2b2dc-afc7-44a1-8be7-2edf3478666f",
+  "source_sha256": "5de66e49abc45219580ee4e558f0a8b8c469d3814a2913fb0ada701eef9b4bd9",
+  "source_id": "64c2b2dc-afc7-44a1-8be7-2edf3478666f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 317/2020-22",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Štěpánka Brožová",
+    "ecli": "ECLI:CZ:OSBN:2020:6.C.317.2020.1",
+    "predmetRizeni": "o zaplacení 8 541,52 Kč s přísl.",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 86,87 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/64c2b2dc-afc7-44a1-8be7-2edf3478666f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
