@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2020:62.C.334.2020.2",
+  "docket": "62 C 334/2020-13",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ca787d87-5910-4cf5-9848-c388bec0ba10",
+  "source_sha256": "24b50d2d241e44feb0e6c8b3dc7782eff79aa7043062cb7b1ad34d8e46bc5cb0",
+  "source_id": "ca787d87-5910-4cf5-9848-c388bec0ba10",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "62 C 334/2020-13",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Radana Vilčová",
+    "ecli": "ECLI:CZ:OSOV:2020:62.C.334.2020.2",
+    "predmetRizeni": "o zrušení vyživovací povinnosti",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-02-09",
+    "klicovaSlova": [
+      "výživné",
+      "zrušení výživného"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 163 z. č. 99/1963 Sb.",
+      "§ 911 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ca787d87-5910-4cf5-9848-c388bec0ba10"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
