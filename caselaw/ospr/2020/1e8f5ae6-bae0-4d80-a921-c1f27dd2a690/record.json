@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2020:10.C.316.2019.1",
+  "docket": "10 C 316/2019-54",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1e8f5ae6-bae0-4d80-a921-c1f27dd2a690",
+  "source_sha256": "5ec2d298bc205a01d6f678c239362a6cf5a93b7ddf1e9d6c21b6b37d923dec05",
+  "source_id": "1e8f5ae6-bae0-4d80-a921-c1f27dd2a690",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 316/2019-54",
+    "soud": "Okresní soud v Přerově",
+    "autor": "Mgr. Anna Coufalová",
+    "ecli": "ECLI:CZ:OSPR:2020:10.C.316.2019.1",
+    "predmetRizeni": "zaplacení [částka] s přísl.- náklady za služby spojené s užíváním bytu,",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-01-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 2247 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1e8f5ae6-bae0-4d80-a921-c1f27dd2a690"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
