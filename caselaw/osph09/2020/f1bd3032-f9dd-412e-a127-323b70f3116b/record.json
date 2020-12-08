@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2020:52.C.10.2019.1",
+  "docket": "52 C 10/2019-165",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f1bd3032-f9dd-412e-a127-323b70f3116b",
+  "source_sha256": "fe7f57c10416be0fddd2338270fd103fb49f71b80029e6e8f12fc9e5332155e2",
+  "source_id": "f1bd3032-f9dd-412e-a127-323b70f3116b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "52 C 10/2019-165",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "Mgr. Katarína Kuhnová",
+    "ecli": "ECLI:CZ:OSPH09:2020:52.C.10.2019.1",
+    "predmetRizeni": "O zaplacení 22 455 Kč s příslušenstvím",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-08-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 2 z. č. 89/2012 Sb.",
+      "§ 2054 z. č. 89/2012 Sb.",
+      "§ 547 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f1bd3032-f9dd-412e-a127-323b70f3116b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
