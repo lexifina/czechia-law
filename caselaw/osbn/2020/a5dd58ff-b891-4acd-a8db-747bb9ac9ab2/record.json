@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2020:6.C.206.2020.1",
+  "docket": "6 C 206/2020-32",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a5dd58ff-b891-4acd-a8db-747bb9ac9ab2",
+  "source_sha256": "95d42763e62250dc27eb1185bdf370312990271b7580388ba0fc3900fbc64db9",
+  "source_id": "a5dd58ff-b891-4acd-a8db-747bb9ac9ab2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 206/2020-32",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Štěpánka Brožová",
+    "ecli": "ECLI:CZ:OSBN:2020:6.C.206.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-01-15",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a5dd58ff-b891-4acd-a8db-747bb9ac9ab2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
