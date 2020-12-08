@@ -1,0 +1,48 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2020:24.C.234.2020.1",
+  "docket": "24 C 234/2020-33",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/583f405e-4583-495d-b531-4a54042c6123",
+  "source_sha256": "bb7a8a23928c9e2353e72246f940b34d75184c1d41069a6ccc0474da58062421",
+  "source_id": "583f405e-4583-495d-b531-4a54042c6123",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 234/2020-33",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "Mgr. et Mgr. Bc. Milan Boháček, M.A.",
+    "ecli": "ECLI:CZ:OSJI:2020:24.C.234.2020.1",
+    "predmetRizeni": "o 59 582 Kč s příslušenstvím",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-03-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatek z prodlení",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 142/1994 Sb.",
+      "§ 12 z. č. 37/2004 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 517 z. č. 40/1964 Sb.",
+      "§ 261 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/583f405e-4583-495d-b531-4a54042c6123"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
