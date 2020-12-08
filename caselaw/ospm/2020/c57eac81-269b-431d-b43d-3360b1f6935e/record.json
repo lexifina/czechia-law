@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2020:38.C.304.2020.1",
+  "docket": "38 C 304/2020-17",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c57eac81-269b-431d-b43d-3360b1f6935e",
+  "source_sha256": "b162320792661cc35e14764b03a7db5ed23fd0d99f53b886b8764107b5026105",
+  "source_id": "c57eac81-269b-431d-b43d-3360b1f6935e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 304/2020-17",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Jaroslava Křivánková",
+    "ecli": "ECLI:CZ:OSPM:2020:38.C.304.2020.1",
+    "predmetRizeni": "O zaplacení 10 154 Kč s příslušenstvím",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-02-18",
+    "klicovaSlova": [
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c57eac81-269b-431d-b43d-3360b1f6935e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
