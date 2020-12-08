@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2020:13.C.439.2020.1",
+  "docket": "13 C 439/2020-16",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ddbfd426-c009-462c-8e44-c2a3fa5cf89c",
+  "source_sha256": "792b9218ff6993ea2b3e27409eb98a8bc4099ffd1ff5bf8700776a4a434c968c",
+  "source_id": "ddbfd426-c009-462c-8e44-c2a3fa5cf89c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 439/2020-16",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Ivana Šoljaková",
+    "ecli": "ECLI:CZ:OSLI:2020:13.C.439.2020.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 2 309 Kč s příslušenstvím",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-02-08",
+    "klicovaSlova": [
+      "dodávky energie",
+      "postoupení pohledávky",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 50 z. č. 458/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ddbfd426-c009-462c-8e44-c2a3fa5cf89c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
