@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2020:17.C.316.2020.1",
+  "docket": "17 C 316/2020-51",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d113bd59-8c22-47d0-9a12-34414bb5af03",
+  "source_sha256": "cbc36a0043d938249a6add1684b73ff34646def16369f8406014b013131df155",
+  "source_id": "d113bd59-8c22-47d0-9a12-34414bb5af03",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 316/2020-51",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Jan Uhlíř",
+    "ecli": "ECLI:CZ:OSLI:2020:17.C.316.2020.1",
+    "predmetRizeni": "zaplacení částky 2.187,00 Kč s přísl.",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-02-12",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 24 z. č. 65/2017 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d113bd59-8c22-47d0-9a12-34414bb5af03"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
