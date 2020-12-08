@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2020:28.C.204.2020.3",
+  "docket": "28 C 204/2020-43",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d811cdf4-3750-4a8c-8aaf-e2983cb71031",
+  "source_sha256": "ea5578ddd5346dba34a90567c3911f5d33c61f88f3bedfc4f51e008caa136cc2",
+  "source_id": "d811cdf4-3750-4a8c-8aaf-e2983cb71031",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 204/2020-43",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "JUDr. Mgr. Jakub Schlitter, Ph.D.",
+    "ecli": "ECLI:CZ:OSPH10:2020:28.C.204.2020.3",
+    "predmetRizeni": "[částka]",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-02-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2910 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d811cdf4-3750-4a8c-8aaf-e2983cb71031"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
