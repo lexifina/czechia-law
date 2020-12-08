@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kroměříži",
+  "ecli": "ECLI:CZ:OSKM:2020:11.C.143.2020.1",
+  "docket": "11 C 143/2020-40",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/84499c63-3cbe-4147-9f66-c2622e0317a5",
+  "source_sha256": "5ef4e0d010cd79ccfd57803b6763dec2d53454df64e616c0fa218b1c4df641db",
+  "source_id": "84499c63-3cbe-4147-9f66-c2622e0317a5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 143/2020-40",
+    "soud": "Okresní soud v Kroměříži",
+    "autor": "Mgr. Jarmila Gajdošová",
+    "ecli": "ECLI:CZ:OSKM:2020:11.C.143.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-02-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozsudek pro uznání"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 3 nař. vl. č. 351/2013 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 47 z. č. 235/2004 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/84499c63-3cbe-4147-9f66-c2622e0317a5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
