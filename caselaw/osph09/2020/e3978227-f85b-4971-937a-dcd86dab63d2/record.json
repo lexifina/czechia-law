@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2020:67.C.74.2020.1",
+  "docket": "67 C 74/2020-52",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e3978227-f85b-4971-937a-dcd86dab63d2",
+  "source_sha256": "09dcccaed25beccef0dc4d2aaa0b71f14488f1a8aea5f618ffefe602d4e0a0b1",
+  "source_id": "e3978227-f85b-4971-937a-dcd86dab63d2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "67 C 74/2020-52",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "Mgr. Lenka Kloudová",
+    "ecli": "ECLI:CZ:OSPH09:2020:67.C.74.2020.1",
+    "predmetRizeni": "O zaplacení 74 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-04-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "sleva z ceny",
+      "smlouva o dílo",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 2586 z. č. 89/2012 Sb.",
+      "§ 252 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e3978227-f85b-4971-937a-dcd86dab63d2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
