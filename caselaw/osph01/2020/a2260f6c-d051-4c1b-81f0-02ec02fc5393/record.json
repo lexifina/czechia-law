@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2020:41.C.230.2020.1",
+  "docket": "41 C 230/2020",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a2260f6c-d051-4c1b-81f0-02ec02fc5393",
+  "source_sha256": "03ba1eed943eb9025fbff428b7da9cce10a4769784db9ad650fab9f89c6648f0",
+  "source_id": "a2260f6c-d051-4c1b-81f0-02ec02fc5393",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "41 C 230/2020",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "JUDr. Hana Marsová",
+    "ecli": "ECLI:CZ:OSPH01:2020:41.C.230.2020.1",
+    "predmetRizeni": "o zaplacení 2 233,30 Kč s příslušenstvím",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-02-05",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a2260f6c-d051-4c1b-81f0-02ec02fc5393"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
