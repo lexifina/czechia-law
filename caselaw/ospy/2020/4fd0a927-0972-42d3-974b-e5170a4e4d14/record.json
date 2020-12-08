@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2020:7.C.430.2020.1",
+  "docket": "7 C 430/2020-14",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4fd0a927-0972-42d3-974b-e5170a4e4d14",
+  "source_sha256": "b48b6e04ade3b80132a6da94277ea6d07358af84ac0f67f3051ae41722de5d4e",
+  "source_id": "4fd0a927-0972-42d3-974b-e5170a4e4d14",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 430/2020-14",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Filip Janek",
+    "ecli": "ECLI:CZ:OSPY:2020:7.C.430.2020.1",
+    "predmetRizeni": "O zaplacení 1 500 Kč s příslušenstvím",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-03-31",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 49 vyhl. č. 175/2000 Sb.",
+      "§ 31 z. č. 89/2012 Sb.",
+      "§ 581 z. č. 89/2012 Sb.",
+      "§ 4 vyhl. č. 175/2000 Sb.",
+      "§ 15 z. č. 89/2012 Sb.",
+      "§ 30 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4fd0a927-0972-42d3-974b-e5170a4e4d14"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
