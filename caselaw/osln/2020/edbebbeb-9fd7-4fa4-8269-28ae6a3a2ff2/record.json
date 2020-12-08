@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2020:14.C.211.2020.1",
+  "docket": "14 C 211/2020",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/edbebbeb-9fd7-4fa4-8269-28ae6a3a2ff2",
+  "source_sha256": "a90e8baabe90fac4203c93e5345a39776ba174eebd1fb6a38280e135ac79a6da",
+  "source_id": "edbebbeb-9fd7-4fa4-8269-28ae6a3a2ff2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 211/2020",
+    "soud": "Okresní soud v Lounech",
+    "autor": "Mgr. Miloslav Holub",
+    "ecli": "ECLI:CZ:OSLN:2020:14.C.211.2020.1",
+    "predmetRizeni": "O zaplacení 1 517 Kč s příslušenstvím",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-01-20",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 175/2000 Sb.",
+      "§ 14 vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/edbebbeb-9fd7-4fa4-8269-28ae6a3a2ff2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
