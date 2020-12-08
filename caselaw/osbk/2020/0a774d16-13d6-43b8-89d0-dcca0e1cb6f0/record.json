@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Blansku",
+  "ecli": "ECLI:CZ:OSBK:2020:6.C.253.2020.1",
+  "docket": "6 C 253/2020-31",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0a774d16-13d6-43b8-89d0-dcca0e1cb6f0",
+  "source_sha256": "a6186100d749fb452a87e805acb68be497ac0e74a1ec0005233662bc5a9eb7e4",
+  "source_id": "0a774d16-13d6-43b8-89d0-dcca0e1cb6f0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 253/2020-31",
+    "soud": "Okresní soud v Blansku",
+    "autor": "JUDr. Alena Šparlinková",
+    "ecli": "ECLI:CZ:OSBK:2020:6.C.253.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-01-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 2894 z. č. 89/2012 Sb.",
+      "§ 2951 z. č. 89/2012 Sb.",
+      "§ 2895 z. č. 89/2012 Sb.",
+      "§ 10 z. č. 168/1999 Sb.",
+      "§ 2911 z. č. 89/2012 Sb.",
+      "§ 2927 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0a774d16-13d6-43b8-89d0-dcca0e1cb6f0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
