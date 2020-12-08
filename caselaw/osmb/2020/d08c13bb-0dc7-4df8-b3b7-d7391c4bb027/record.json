@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2020:1.T.194.2020.1",
+  "docket": "1 T 194/2020",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d08c13bb-0dc7-4df8-b3b7-d7391c4bb027",
+  "source_sha256": "7da9d4f5528e28e1e272105ce87c654e7145ce0ef800118d997dd69d18c8459f",
+  "source_id": "d08c13bb-0dc7-4df8-b3b7-d7391c4bb027",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "1 T 194/2020",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "Mgr. Petra Kočí, , LL.M.",
+    "ecli": "ECLI:CZ:OSMB:2020:1.T.194.2020.1",
+    "predmetRizeni": "Trestní věc",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-01-18",
+    "klicovaSlova": [
+      "návyková látka",
+      "ohrožení pod vlivem návykové látky",
+      "podmíněné odsouzení",
+      "škoda značná",
+      "trest odnětí svobody",
+      "trest zákazu činnosti",
+      "úhrnný trest",
+      "úplatek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 129 z. č. 141/1961 Sb.",
+      "§ 43 z. č. 40/2009 Sb.",
+      "§ 274 z. č. 40/2009 Sb.",
+      "§ 332 z. č. 40/2009 Sb.",
+      "§ 250 z. č. 141/1961 Sb.",
+      "§ 247 z. č. 141/1961 Sb.",
+      "§ 81 z. č. 40/2009 Sb.",
+      "§ 82 z. č. 40/2009 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d08c13bb-0dc7-4df8-b3b7-d7391c4bb027"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
