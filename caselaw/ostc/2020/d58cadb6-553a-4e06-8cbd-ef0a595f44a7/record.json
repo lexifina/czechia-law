@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Tachově",
+  "ecli": "ECLI:CZ:OSTC:2020:26.C.254.2014.1",
+  "docket": "26 C 254/2014-65",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d58cadb6-553a-4e06-8cbd-ef0a595f44a7",
+  "source_sha256": "71c5ba784d0cb42e2671292285d54f787627636c29102478e31a2657af3ef58f",
+  "source_id": "d58cadb6-553a-4e06-8cbd-ef0a595f44a7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 254/2014-65",
+    "soud": "Okresní soud v Tachově",
+    "autor": "Mgr. Lenka Mužíková, LL.M.",
+    "ecli": "ECLI:CZ:OSTC:2020:26.C.254.2014.1",
+    "predmetRizeni": "O zaplacení 10 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-03-02",
+    "klicovaSlova": [
+      "insolvence",
+      "peněžité plnění",
+      "smlouva o obchodním zastoupení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 142/1994 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 517 z. č. 40/1964 Sb.",
+      "§ 269 z. č. 513/1991 Sb.",
+      "§ 566 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d58cadb6-553a-4e06-8cbd-ef0a595f44a7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
