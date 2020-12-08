@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2020:11.C.421.2020.2",
+  "docket": "11 C 421/2020-23",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/49137265-9513-4a70-8dfb-8d936ca8ac13",
+  "source_sha256": "5d5f6a3e6d6ca02f831191951d3ed2dd6c89bc1972bc4f290c1727e92fa074fa",
+  "source_id": "49137265-9513-4a70-8dfb-8d936ca8ac13",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 421/2020-23",
+    "soud": "Okresní soud v Chebu",
+    "autor": "JUDr. Stanislav Brabec",
+    "ecli": "ECLI:CZ:OSCH:2020:11.C.421.2020.2",
+    "predmetRizeni": "O zaplacení 8 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-01-28",
+    "klicovaSlova": [
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/49137265-9513-4a70-8dfb-8d936ca8ac13"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
