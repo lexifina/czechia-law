@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kolíně",
+  "ecli": "ECLI:CZ:OSKO:2020:17.C.252.2020.1",
+  "docket": "17 C 252/2020-32",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/253bc832-b1a4-46da-b464-62e69e3ffc82",
+  "source_sha256": "ea307aaa15a8fdf2385fa304156992981775b1154a7c0a9de9560404fbfb6b19",
+  "source_id": "253bc832-b1a4-46da-b464-62e69e3ffc82",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 252/2020-32",
+    "soud": "Okresní soud v Kolíně",
+    "autor": "JUDr. Martina Suchánková",
+    "ecli": "ECLI:CZ:OSKO:2020:17.C.252.2020.1",
+    "predmetRizeni": "O zaplacení 43 859,54 Kč s příslušenstvím",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/253bc832-b1a4-46da-b464-62e69e3ffc82"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
