@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2020:75.C.342.2020.2",
+  "docket": "75 C 342/2020-23",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f5d4a7d1-1c5a-43c9-9dd0-7225aaab6031",
+  "source_sha256": "c4b34441bdfc867df2595300c7d225d8090fbef5a5e678fbc2efec75890208ff",
+  "source_id": "f5d4a7d1-1c5a-43c9-9dd0-7225aaab6031",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "75 C 342/2020-23",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Martin Rozsypal",
+    "ecli": "ECLI:CZ:OSUL:2020:75.C.342.2020.2",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-02-15",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  vyhl. č. 205/1999 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f5d4a7d1-1c5a-43c9-9dd0-7225aaab6031"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
