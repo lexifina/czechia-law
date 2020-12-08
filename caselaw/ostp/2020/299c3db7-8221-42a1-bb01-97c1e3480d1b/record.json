@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2020:21.C.107.2020.1",
+  "docket": "21 C 107/2020-47",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/299c3db7-8221-42a1-bb01-97c1e3480d1b",
+  "source_sha256": "67b944a19e6d758a5452ed6afcf78a4fd4099d9d9f61e89bfa4d48b388cf525d",
+  "source_id": "299c3db7-8221-42a1-bb01-97c1e3480d1b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 107/2020-47",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "Mgr. Veronika Lehnertová",
+    "ecli": "ECLI:CZ:OSTP:2020:21.C.107.2020.1",
+    "predmetRizeni": "zaplacení 8 119 Kč s příslušenstvím",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-01-31",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/299c3db7-8221-42a1-bb01-97c1e3480d1b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
