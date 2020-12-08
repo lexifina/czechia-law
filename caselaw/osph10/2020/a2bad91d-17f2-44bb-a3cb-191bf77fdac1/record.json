@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2020:17.C.281.2020.1",
+  "docket": "17 C 281/2020-19",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a2bad91d-17f2-44bb-a3cb-191bf77fdac1",
+  "source_sha256": "a69ff52630214dbce85fd9b74dacc7a6368fcb7c275f1dada9a55e1823f2b780",
+  "source_id": "a2bad91d-17f2-44bb-a3cb-191bf77fdac1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 281/2020-19",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "Mgr. Alena Novotná",
+    "ecli": "ECLI:CZ:OSPH10:2020:17.C.281.2020.1",
+    "predmetRizeni": "[částka]",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§  z. č. 127/2005 Sb.",
+      "§ 2201 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a2bad91d-17f2-44bb-a3cb-191bf77fdac1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
