@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2020:9.C.77.2020.1",
+  "docket": "9 C 77/2020",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0f493d84-c83d-4b73-96c1-cb324881aadc",
+  "source_sha256": "e7b434d79ccadb01f9cfe2b09a49aa2bb7aff053ec949b71c62a9c99514b0c40",
+  "source_id": "0f493d84-c83d-4b73-96c1-cb324881aadc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 77/2020",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Jana Stejskalová",
+    "ecli": "ECLI:CZ:OSPY:2020:9.C.77.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-03-16",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "insolvenční návrh",
+      "nemajetková újma",
+      "oddlužení",
+      "peněžité plnění",
+      "rozhodnutí o úpadku",
+      "smlouva o obchodním zastoupení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 251 z. č. 120/2001 Sb.",
+      "§ 2483 z. č. 89/2012 Sb.",
+      "§ 173 z. č. 182/2006 Sb.",
+      "§ 2504 z. č. 89/2012 Sb.",
+      "§ 2507 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0f493d84-c83d-4b73-96c1-cb324881aadc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
