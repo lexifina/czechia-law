@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rychnově nad Kněžnou",
+  "ecli": "ECLI:CZ:OSRK:2020:6.C.114.2020.1",
+  "docket": "6 C 114/2020-32",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/06a74e8a-1167-43e5-b4d7-8583cd0b1b50",
+  "source_sha256": "3782902bce821cc33e5e509f7fd46447a1e344520c506b1168b89484d706abc2",
+  "source_id": "06a74e8a-1167-43e5-b4d7-8583cd0b1b50",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 114/2020-32",
+    "soud": "Okresní soud v Rychnově nad Kněžnou",
+    "autor": "Mgr. Michal Strnad",
+    "ecli": "ECLI:CZ:OSRK:2020:6.C.114.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-01-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 1 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/06a74e8a-1167-43e5-b4d7-8583cd0b1b50"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
