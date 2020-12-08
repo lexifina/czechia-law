@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2020:32.C.285.2020.3",
+  "docket": "32 C 285/2020-28",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3b101f36-be5b-4f3c-ab42-dcbcf2d28f59",
+  "source_sha256": "cc2cdb08339ed8fd1ad81601d488b7b3385356dbcac1ba9b0441807bba7dce6c",
+  "source_id": "3b101f36-be5b-4f3c-ab42-dcbcf2d28f59",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "32 C 285/2020-28",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Jitka Kulichová",
+    "ecli": "ECLI:CZ:OSOV:2020:32.C.285.2020.3",
+    "predmetRizeni": "o vydání věci",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1040 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3b101f36-be5b-4f3c-ab42-dcbcf2d28f59"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
