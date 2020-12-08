@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2020:52.C.231.2020.1",
+  "docket": "52 C 231/2020-77",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1d855382-3ab3-49ee-a5d7-ce64e4034e16",
+  "source_sha256": "126402ae7df5e5a54dfc95b8a09b34213984c4c87589b27cc14d014322d68104",
+  "source_id": "1d855382-3ab3-49ee-a5d7-ce64e4034e16",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "52 C 231/2020-77",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "Mgr. Katarína Kuhnová",
+    "ecli": "ECLI:CZ:OSPH09:2020:52.C.231.2020.1",
+    "predmetRizeni": "O zaplacení 5 180,16 Kč s příslušenstvím",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1d855382-3ab3-49ee-a5d7-ce64e4034e16"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
