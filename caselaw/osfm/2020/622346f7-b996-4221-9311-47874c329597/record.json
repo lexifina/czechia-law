@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2020:10.C.194.2020.1",
+  "docket": "10 C 194/2020-22",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/622346f7-b996-4221-9311-47874c329597",
+  "source_sha256": "1d2e961edc9c92bbee4b9c8c9e509203a67e0983f895d016f76098744e4f9500",
+  "source_id": "622346f7-b996-4221-9311-47874c329597",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 194/2020-22",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Monika Špoková",
+    "ecli": "ECLI:CZ:OSFM:2020:10.C.194.2020.1",
+    "predmetRizeni": "O zaplacení 2 500 Kč s příslušenstvím - zápůjčka",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/622346f7-b996-4221-9311-47874c329597"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
