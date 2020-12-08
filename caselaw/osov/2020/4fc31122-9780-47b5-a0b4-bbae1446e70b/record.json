@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2020:38.C.116.2020.2",
+  "docket": "38 C 116/2020-18",
+  "date": "2020-12-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4fc31122-9780-47b5-a0b4-bbae1446e70b",
+  "source_sha256": "7ceab0c6f4b67ab61095060aea152cbf248cd7033fd0777d563c4138a4558ff5",
+  "source_id": "4fc31122-9780-47b5-a0b4-bbae1446e70b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 116/2020-18",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Markéta Stochová",
+    "ecli": "ECLI:CZ:OSOV:2020:38.C.116.2020.2",
+    "predmetRizeni": "o zaplacení 2 500 Kč s příslušenstvím",
+    "datumVydani": "2020-12-08",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4fc31122-9780-47b5-a0b4-bbae1446e70b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
