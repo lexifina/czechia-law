@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2020:32.C.84.2020.1",
+  "docket": "32 C 84/2020-25",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/70c57e83-5f75-43f6-b2f9-77304a0c600b",
+  "source_sha256": "3241661c86cc1eaf768f87f33bdbb61781d9721526629ef75531d27f973e8617",
+  "source_id": "70c57e83-5f75-43f6-b2f9-77304a0c600b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "32 C 84/2020-25",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Regina Sypecká",
+    "ecli": "ECLI:CZ:OSLI:2020:32.C.84.2020.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 1.094,00 Kč s přísl.",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-01-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/70c57e83-5f75-43f6-b2f9-77304a0c600b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
