@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Orlicí",
+  "ecli": "ECLI:CZ:OSUO:2020:205.C.6.2020.1",
+  "docket": "205 C 6/2020",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bc5f4c29-3ce0-4560-9de9-6ef918d6de5e",
+  "source_sha256": "eda8fd1000e34fa54c4e36d73962c9bb91f235cd95c0a1ed19fb65694dfcb089",
+  "source_id": "bc5f4c29-3ce0-4560-9de9-6ef918d6de5e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "205 C 6/2020",
+    "soud": "Okresní soud v Ústí nad Orlicí",
+    "autor": "JUDr. Dana Anderová",
+    "ecli": "ECLI:CZ:OSUO:2020:205.C.6.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-03-03",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 24 z. č. 65/2017 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 89a z. č. 120/2001 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bc5f4c29-3ce0-4560-9de9-6ef918d6de5e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
