@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2020:24.C.251.2020.1",
+  "docket": "24 C 251/2020-16",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/970014dc-2914-45bc-ad69-41905212b1f1",
+  "source_sha256": "800f916ce081e2c7eac2022f4f433ae8ed77ddce2df44cb9ef1b3206671bc664",
+  "source_id": "970014dc-2914-45bc-ad69-41905212b1f1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 251/2020-16",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "Mgr. Eva Brožíková",
+    "ecli": "ECLI:CZ:OSPH09:2020:24.C.251.2020.1",
+    "predmetRizeni": "zaplacení částky 3 491 Kč",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 24 z. č. 65/2017 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 11 z. č. 549/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/970014dc-2914-45bc-ad69-41905212b1f1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
