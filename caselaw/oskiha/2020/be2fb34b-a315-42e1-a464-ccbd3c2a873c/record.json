@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2020:108.C.312.2020.1",
+  "docket": "108 C 312/2020-69",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/be2fb34b-a315-42e1-a464-ccbd3c2a873c",
+  "source_sha256": "2a1ff55e330577ec38c9c5a379773f1710ce635b8753a24f5641f36be1d0c96f",
+  "source_id": "be2fb34b-a315-42e1-a464-ccbd3c2a873c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "108 C 312/2020-69",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Jitka Zavázalová",
+    "ecli": "ECLI:CZ:OSKIHA:2020:108.C.312.2020.1",
+    "predmetRizeni": "10 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-02-01",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "elektronický podpis",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/be2fb34b-a315-42e1-a464-ccbd3c2a873c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
