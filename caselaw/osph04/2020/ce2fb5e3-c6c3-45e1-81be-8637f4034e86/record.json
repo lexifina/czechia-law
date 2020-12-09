@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2020:21.C.351.2020.1",
+  "docket": "21 C 351/2020-22",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ce2fb5e3-c6c3-45e1-81be-8637f4034e86",
+  "source_sha256": "8a556a4f4751b330cf8953a4f8adddf204574a051e5c1fd5333b37bc34e490d1",
+  "source_id": "ce2fb5e3-c6c3-45e1-81be-8637f4034e86",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 351/2020-22",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "PaedDr. Mgr. Ivana Jarešová",
+    "ecli": "ECLI:CZ:OSPH04:2020:21.C.351.2020.1",
+    "predmetRizeni": "O zaplacení 11 032 Kč s příslušenstvím",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-03-29",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 132 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ce2fb5e3-c6c3-45e1-81be-8637f4034e86"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
