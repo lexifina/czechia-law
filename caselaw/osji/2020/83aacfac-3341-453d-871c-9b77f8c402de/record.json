@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2020:11.C.277.2020.1",
+  "docket": "11 C 277/2020-22",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/83aacfac-3341-453d-871c-9b77f8c402de",
+  "source_sha256": "5c71c3aaf800b5249f196a9afa674b7a0e5f6a24975ca1e031555843d43d09fa",
+  "source_id": "83aacfac-3341-453d-871c-9b77f8c402de",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 277/2020-22",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "Mgr. Ing. Lubomír Křikava",
+    "ecli": "ECLI:CZ:OSJI:2020:11.C.277.2020.1",
+    "predmetRizeni": "o 5 397 Kč",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-02-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/83aacfac-3341-453d-871c-9b77f8c402de"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
