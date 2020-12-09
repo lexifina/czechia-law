@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2020:108.C.335.2020.1",
+  "docket": "108 C 335/2020-34",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/752b6c34-59fa-4f8c-99aa-ff8fd6f85afd",
+  "source_sha256": "ec652c4707ef3b9d2fcf4ed9c59dcc323fe2b776771264d851c7d53cd9ab3dbe",
+  "source_id": "752b6c34-59fa-4f8c-99aa-ff8fd6f85afd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "108 C 335/2020-34",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Jitka Zavázalová",
+    "ecli": "ECLI:CZ:OSKIHA:2020:108.C.335.2020.1",
+    "predmetRizeni": "15 952 Kč s příslušenstvím",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-02-09",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 1 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/752b6c34-59fa-4f8c-99aa-ff8fd6f85afd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
