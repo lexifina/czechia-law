@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2020:10.C.45.2020.1",
+  "docket": "10 C 45/2020-15",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d209d450-fc0b-4bae-bc17-39154d1da93a",
+  "source_sha256": "26e9c9dce5714e946f2dabbb0716ccf04fb17f0b7d1285d16fc9230dc3841705",
+  "source_id": "d209d450-fc0b-4bae-bc17-39154d1da93a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 45/2020-15",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "Mgr. Bronislav Beran",
+    "ecli": "ECLI:CZ:OSOL:2020:10.C.45.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-01-27",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d209d450-fc0b-4bae-bc17-39154d1da93a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
