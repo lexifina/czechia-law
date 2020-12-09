@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2020:31.C.135.2020.1",
+  "docket": "31 C 135/2020-30",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cd2cc61e-ec73-414d-b6d2-5e8641ab2648",
+  "source_sha256": "590023fddbbe993bb696b0c1df321062c6ad87f0d1bb87ac4ce5a71377df14c8",
+  "source_id": "cd2cc61e-ec73-414d-b6d2-5e8641ab2648",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "31 C 135/2020-30",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Jan Zdražil",
+    "ecli": "ECLI:CZ:OSCV:2020:31.C.135.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím (příspěvek nepojištěného)",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-02-18",
+    "klicovaSlova": [
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 96 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cd2cc61e-ec73-414d-b6d2-5e8641ab2648"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
