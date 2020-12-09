@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2020:32.C.143.2020.1",
+  "docket": "32 C 143/2020-14",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/05efeca8-43b7-4676-9ddb-464d84cb81a8",
+  "source_sha256": "3005e6235cc8dc49b31f5f356b7fbd9996d75c1f3b2b685f1b6143eaf52a3a56",
+  "source_id": "05efeca8-43b7-4676-9ddb-464d84cb81a8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "32 C 143/2020-14",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Regina Sypecká",
+    "ecli": "ECLI:CZ:OSLI:2020:32.C.143.2020.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 5.517,00 Kč s přísl.",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-04-12",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 24c z. č. 168/1999 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/05efeca8-43b7-4676-9ddb-464d84cb81a8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
