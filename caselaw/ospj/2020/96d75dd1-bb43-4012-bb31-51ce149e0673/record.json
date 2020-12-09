@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPJ:2020:28.C.207.2020.1",
+  "docket": "28 C 207/2020-40",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/96d75dd1-bb43-4012-bb31-51ce149e0673",
+  "source_sha256": "519acc5ff9605f31bcf24443420c22f99055e31fee210365f9a753d8533b99e0",
+  "source_id": "96d75dd1-bb43-4012-bb31-51ce149e0673",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 207/2020-40",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Kateřina Auterská šašková",
+    "ecli": "ECLI:CZ:OSPJ:2020:28.C.207.2020.1",
+    "predmetRizeni": "Žaloba na vyklizení",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-02-04",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "nájem prostoru sloužícího k podnikání",
+      "peněžité plnění",
+      "vyklizení nemovitosti"
+    ],
+    "zminenaUstanoveni": [
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1042 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/96d75dd1-bb43-4012-bb31-51ce149e0673"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
