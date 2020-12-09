@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2020:6.C.155.2020.1",
+  "docket": "6 C 155/2020-32",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/74707bbc-1be6-4f22-8dd7-e8850f417bb9",
+  "source_sha256": "6774406521cabe79ca64ae6805871347a29c9fec242169c660f4ce8daf9cc4c2",
+  "source_id": "74707bbc-1be6-4f22-8dd7-e8850f417bb9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 155/2020-32",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "Mgr. Naděžda Vaňurová",
+    "ecli": "ECLI:CZ:OSTU:2020:6.C.155.2020.1",
+    "predmetRizeni": "zaplacení [částka] - el. komunikace",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-01-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/74707bbc-1be6-4f22-8dd7-e8850f417bb9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
