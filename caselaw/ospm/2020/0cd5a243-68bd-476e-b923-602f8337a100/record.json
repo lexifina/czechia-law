@@ -1,0 +1,30 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2020:12.C.143.2020.1",
+  "docket": "12 C 143/2020-28",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0cd5a243-68bd-476e-b923-602f8337a100",
+  "source_sha256": "0b5a8aa713c5ed6058daa0617eaa3744121f039ea77c4d4453d8b4c9069188f4",
+  "source_id": "0cd5a243-68bd-476e-b923-602f8337a100",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 143/2020-28",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Jan Špalek",
+    "ecli": "ECLI:CZ:OSPM:2020:12.C.143.2020.1",
+    "predmetRizeni": "společný návrh manželů na rozvod manželství",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-03-08",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0cd5a243-68bd-476e-b923-602f8337a100"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
