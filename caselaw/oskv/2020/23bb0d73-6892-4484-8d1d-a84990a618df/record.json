@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2020:18.C.373.2020.1",
+  "docket": "18 C 373/2020-11",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/23bb0d73-6892-4484-8d1d-a84990a618df",
+  "source_sha256": "1080c97ff12ed881bec49719ec585ac199367fc588080e797bb475b502c4d734",
+  "source_id": "23bb0d73-6892-4484-8d1d-a84990a618df",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 373/2020-11",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "JUDr. Ivana Holubovská",
+    "ecli": "ECLI:CZ:OSKV:2020:18.C.373.2020.1",
+    "predmetRizeni": "1 524 Kč / jízdné",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-02-09",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/23bb0d73-6892-4484-8d1d-a84990a618df"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
