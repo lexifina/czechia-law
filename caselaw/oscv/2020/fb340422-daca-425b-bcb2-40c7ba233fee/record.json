@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2020:17.C.77.2012.1",
+  "docket": "17 C 77/2012-38",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fb340422-daca-425b-bcb2-40c7ba233fee",
+  "source_sha256": "e65cca6252df8b9613fd7ad1e85503cdb3e015c8d71cf8aef45d05414f3d681d",
+  "source_id": "fb340422-daca-425b-bcb2-40c7ba233fee",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 77/2012-38",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Jan Zdražil",
+    "ecli": "ECLI:CZ:OSCV:2020:17.C.77.2012.1",
+    "predmetRizeni": "",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-02-18",
+    "klicovaSlova": [
+      "oddlužení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 169 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fb340422-daca-425b-bcb2-40c7ba233fee"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
