@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2020:61.C.80.2020.4",
+  "docket": "61 C 80/2020-18",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/01a834d9-4423-4981-a604-078d485b1885",
+  "source_sha256": "093e32baecccdc3e98cc990890889dc902b1ccb642686d249228e3d04559634f",
+  "source_id": "01a834d9-4423-4981-a604-078d485b1885",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "61 C 80/2020-18",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Ing. Lukáš Holenda",
+    "ecli": "ECLI:CZ:OSOV:2020:61.C.80.2020.4",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-03-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/01a834d9-4423-4981-a604-078d485b1885"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
