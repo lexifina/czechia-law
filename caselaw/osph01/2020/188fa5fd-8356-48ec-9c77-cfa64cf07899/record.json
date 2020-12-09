@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2020:18.C.196.2019.1",
+  "docket": "18 C 196/2019",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/188fa5fd-8356-48ec-9c77-cfa64cf07899",
+  "source_sha256": "4fc23c3fbd039ddd2f6677c2975ab1f16f535c5c5227c200be6b8d5594e7f1e8",
+  "source_id": "188fa5fd-8356-48ec-9c77-cfa64cf07899",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 196/2019",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Renata Palátová",
+    "ecli": "ECLI:CZ:OSPH01:2020:18.C.196.2019.1",
+    "predmetRizeni": "o náhradu škody a nemajetkové újmy",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "majetková újma",
+      "nemajetková újma",
+      "peněžité plnění",
+      "pozemní komunikace"
+    ],
+    "zminenaUstanoveni": [
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 8 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§ 12 vyhl. č. 177/1996 Sb.",
+      "§ 9 vyhl. č. 177/1996 Sb.",
+      "§ 13 z. č. 82/1998 Sb.",
+      "§  z. č. 182/1993 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/188fa5fd-8356-48ec-9c77-cfa64cf07899"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
