@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2020:15.C.297.2020.1",
+  "docket": "15 C 297/2020-19",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/74e94c52-33fd-4f34-8cbb-739d10c850ff",
+  "source_sha256": "9da76dd20b2f54aa3fb6189facf6f672a8b3cf62efa976416e73cc7fe3fafd62",
+  "source_id": "74e94c52-33fd-4f34-8cbb-739d10c850ff",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 297/2020-19",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "JUDr. Barbora Hněvkovská",
+    "ecli": "ECLI:CZ:OSPH05:2020:15.C.297.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-03-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 129 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 549/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/74e94c52-33fd-4f34-8cbb-739d10c850ff"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
