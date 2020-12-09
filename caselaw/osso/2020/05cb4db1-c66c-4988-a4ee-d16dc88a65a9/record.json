@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2020:16.C.276.2020.1",
+  "docket": "16 C 276/2020-32",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/05cb4db1-c66c-4988-a4ee-d16dc88a65a9",
+  "source_sha256": "09b1a6258c8f89057b5a2cade43a256a951898be9d6b4bc47c95a91d3348b117",
+  "source_id": "05cb4db1-c66c-4988-a4ee-d16dc88a65a9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 276/2020-32",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "Mgr. Lenka Pokorná",
+    "ecli": "ECLI:CZ:OSSO:2020:16.C.276.2020.1",
+    "predmetRizeni": "zaplacení 2 500 Kč s příslušenstvím",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-02-15",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 562 z. č. 89/2012 Sb.",
+      "§ 561 z. č. 89/2012 Sb.",
+      "§ 142od z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/05cb4db1-c66c-4988-a4ee-d16dc88a65a9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
