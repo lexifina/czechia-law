@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2020:6.C.202.2020.1",
+  "docket": "6 C 202/2020-38",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b64ef1a4-9199-43fc-937b-645a5f96a17e",
+  "source_sha256": "a8e7e0d51fef59d760bc7bc21e306eebd6dd94065e0be7a63e7b4271c6bb8417",
+  "source_id": "b64ef1a4-9199-43fc-937b-645a5f96a17e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 202/2020-38",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "Mgr. Jindřich Mařík",
+    "ecli": "ECLI:CZ:OSPB:2020:6.C.202.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-01-28",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 2316 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b64ef1a4-9199-43fc-937b-645a5f96a17e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
