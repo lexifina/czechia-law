@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2020:10.C.223.2020.2",
+  "docket": "10 C 223/2020-18",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/339f038f-04ac-4ec0-ae1c-9e43a8a743aa",
+  "source_sha256": "3946002a2a52f70f1c918119f809850da9dff8880fd2d3957f853758cae9a1fa",
+  "source_id": "339f038f-04ac-4ec0-ae1c-9e43a8a743aa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 223/2020-18",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Blanka Šibrová",
+    "ecli": "ECLI:CZ:OSPS:2020:10.C.223.2020.2",
+    "predmetRizeni": "[částka] s přísl.",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-02-22",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/339f038f-04ac-4ec0-ae1c-9e43a8a743aa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
