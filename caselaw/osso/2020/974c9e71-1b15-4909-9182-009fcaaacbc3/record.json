@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2020:42.C.395.2020.1",
+  "docket": "42 C 395/2020-19",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/974c9e71-1b15-4909-9182-009fcaaacbc3",
+  "source_sha256": "e1031305d896ec21a08dff8ced6154a015edaf3ffca45e6a3956d2421a91630a",
+  "source_id": "974c9e71-1b15-4909-9182-009fcaaacbc3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 395/2020-19",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "JUDr. Věra Voštová",
+    "ecli": "ECLI:CZ:OSSO:2020:42.C.395.2020.1",
+    "predmetRizeni": "zaplacení 5 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-02-05",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 2 z. č. 89/2012 Sb.",
+      "§ 1887 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/974c9e71-1b15-4909-9182-009fcaaacbc3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
