@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2020:209.C.9.2020.1",
+  "docket": "209 C 9/2020-34",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bcb03c16-6c44-45d7-86d9-c8e2febe02f2",
+  "source_sha256": "1b22bb0772aa98029dc43300bbc643571faa53e896c9bcec0082c25da2b51ed4",
+  "source_id": "bcb03c16-6c44-45d7-86d9-c8e2febe02f2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "209 C 9/2020-34",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "Mgr. Eva Daříčková",
+    "ecli": "ECLI:CZ:OSBU:2020:209.C.9.2020.1",
+    "predmetRizeni": "o zaplacení částky 8 070 Kč s příslušenstvím",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-02-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 67/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bcb03c16-6c44-45d7-86d9-c8e2febe02f2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
