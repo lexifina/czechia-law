@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2020:21.C.252.2020.1",
+  "docket": "21 C 252/2020-15",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a861c461-9681-4e3b-b3fb-43bed9e0c5dd",
+  "source_sha256": "7cdc331b0eebf3a23eff278edd4c2d2b1868b4554da8af95d8e326e98102605f",
+  "source_id": "a861c461-9681-4e3b-b3fb-43bed9e0c5dd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 252/2020-15",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "PaedDr. Mgr. Ivana Jarešová",
+    "ecli": "ECLI:CZ:OSPH04:2020:21.C.252.2020.1",
+    "predmetRizeni": "O zaplacení 1 950 Kč s příslušenstvím",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-01-27",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 17 z. č. 379/2005 Sb.",
+      "§ 47 z. č. 235/2004 Sb.",
+      "§ 42 z. č. 65/2017 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a861c461-9681-4e3b-b3fb-43bed9e0c5dd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
