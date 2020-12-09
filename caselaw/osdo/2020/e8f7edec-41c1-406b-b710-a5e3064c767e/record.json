@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2020:6.C.71.2020.1",
+  "docket": "6 C 71/2020-37",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e8f7edec-41c1-406b-b710-a5e3064c767e",
+  "source_sha256": "9ab9112d1cf04735b98ebbd46013791db63f07c8c0145faee196c5ad9ecf129e",
+  "source_id": "e8f7edec-41c1-406b-b710-a5e3064c767e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 71/2020-37",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "JUDr. Vladimíra Mašinová",
+    "ecli": "ECLI:CZ:OSDO:2020:6.C.71.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-01-11",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 687 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e8f7edec-41c1-406b-b710-a5e3064c767e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
