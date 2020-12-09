@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2020:32.C.43.2020.1",
+  "docket": "32 C 43/2020-20",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bec8937a-08e8-402f-b4a8-176abc7bb96f",
+  "source_sha256": "2dfdaec358b08d0329e20aa84c0d2363259142009f106a13b0df03cc967ebd98",
+  "source_id": "bec8937a-08e8-402f-b4a8-176abc7bb96f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "32 C 43/2020-20",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Regina Sypecká",
+    "ecli": "ECLI:CZ:OSLI:2020:32.C.43.2020.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 12.487,83 Kč s přísl.",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-02-15",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bec8937a-08e8-402f-b4a8-176abc7bb96f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
