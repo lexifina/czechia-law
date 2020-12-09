@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kroměříži",
+  "ecli": "ECLI:CZ:OSKM:2020:8.C.3.2020.1",
+  "docket": "8 C 3/2020-40",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/860e4a4b-0acd-49d8-bf4a-4b365ad588ed",
+  "source_sha256": "34b45e0eaff218e14f3a0a8ea3f0b73a1ed0d07d90c8d59632b9ab2a3c62384f",
+  "source_id": "860e4a4b-0acd-49d8-bf4a-4b365ad588ed",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 3/2020-40",
+    "soud": "Okresní soud v Kroměříži",
+    "autor": "Mgr. Iva Opletalová",
+    "ecli": "ECLI:CZ:OSKM:2020:8.C.3.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-02-07",
+    "klicovaSlova": [
+      "insolvence",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§  z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/860e4a4b-0acd-49d8-bf4a-4b365ad588ed"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
