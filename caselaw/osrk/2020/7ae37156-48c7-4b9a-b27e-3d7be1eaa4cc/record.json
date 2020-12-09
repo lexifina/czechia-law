@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rychnově nad Kněžnou",
+  "ecli": "ECLI:CZ:OSRK:2020:53.C.15.2020.1",
+  "docket": "53 C 15/2020-30",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7ae37156-48c7-4b9a-b27e-3d7be1eaa4cc",
+  "source_sha256": "4a035bee5f5eb6494fb282473853df3e5fd78cf43ffeed0a83d9f913ec68294c",
+  "source_id": "7ae37156-48c7-4b9a-b27e-3d7be1eaa4cc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "53 C 15/2020-30",
+    "soud": "Okresní soud v Rychnově nad Kněžnou",
+    "autor": "JUDr. Jiří Fuks, Ph.D.",
+    "ecli": "ECLI:CZ:OSRK:2020:53.C.15.2020.1",
+    "predmetRizeni": "o zaplacení 6.500 Kč s příslušenstvím",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-03-26",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 150 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7ae37156-48c7-4b9a-b27e-3d7be1eaa4cc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
