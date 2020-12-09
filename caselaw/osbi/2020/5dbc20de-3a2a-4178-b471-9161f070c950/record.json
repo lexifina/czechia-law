@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2020:42.C.280.2019.1",
+  "docket": "42 C 280/2019",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5dbc20de-3a2a-4178-b471-9161f070c950",
+  "source_sha256": "8d6c3b8493db58ab23407ddf9c34708568c2af093854f64711944025e1071c4f",
+  "source_id": "5dbc20de-3a2a-4178-b471-9161f070c950",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 280/2019",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "Mgr. Andrea Boráková",
+    "ecli": "ECLI:CZ:OSBI:2020:42.C.280.2019.1",
+    "predmetRizeni": "zaplacení 21.200 Kč s příslušenstvím",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o výpůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 2193 z. č. 89/2012 Sb.",
+      "§ 544 z. č. 40/1964 Sb.",
+      "§ 51 z. č. 89/2012 Sb.",
+      "§ 51 z. č. 40/1964 Sb.",
+      "§ 1 z. č. 257/2001 Sb.",
+      "§ 659 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5dbc20de-3a2a-4178-b471-9161f070c950"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
