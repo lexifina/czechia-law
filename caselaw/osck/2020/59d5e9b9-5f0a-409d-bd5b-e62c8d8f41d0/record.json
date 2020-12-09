@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2020:7.C.304.2020.2",
+  "docket": "7 C 304/2020-11",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/59d5e9b9-5f0a-409d-bd5b-e62c8d8f41d0",
+  "source_sha256": "5c2dc8001a2ac3c82c303b233123d5c6635b55358028c79050d38151f403ed9e",
+  "source_id": "59d5e9b9-5f0a-409d-bd5b-e62c8d8f41d0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 304/2020-11",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "JUDr. Daniel Levý",
+    "ecli": "ECLI:CZ:OSCK:2020:7.C.304.2020.2",
+    "predmetRizeni": "návrh na zrušení vyživovací povinnosti",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-02-01",
+    "klicovaSlova": [
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 910 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/59d5e9b9-5f0a-409d-bd5b-e62c8d8f41d0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
