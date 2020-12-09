@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2020:4.C.123.2020.1",
+  "docket": "4 C 123/2020-36",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dfeee631-36ae-42d1-9642-40ec9de3f59f",
+  "source_sha256": "b03b9ff79ad32d9dd8c30ab35a59035612291ae6a56c04528db8870a52f61df8",
+  "source_id": "dfeee631-36ae-42d1-9642-40ec9de3f59f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 123/2020-36",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "JUDr. Jaroslav Kouba",
+    "ecli": "ECLI:CZ:OSZN:2020:4.C.123.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-04-14",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 219/2000 Sb.",
+      "§ 11 z. č. 549/91 Sb.",
+      "§ 27 z. č. 219/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dfeee631-36ae-42d1-9642-40ec9de3f59f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
