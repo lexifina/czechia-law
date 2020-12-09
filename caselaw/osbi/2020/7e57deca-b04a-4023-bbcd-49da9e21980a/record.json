@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2020:42.C.26.2020.1",
+  "docket": "42 C 26/2020",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7e57deca-b04a-4023-bbcd-49da9e21980a",
+  "source_sha256": "9a1b98a88f8caf0f329ccc1b086192cc36d61c1d197962661a773a4b5ff14e56",
+  "source_id": "7e57deca-b04a-4023-bbcd-49da9e21980a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 26/2020",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "Mgr. Andrea Boráková",
+    "ecli": "ECLI:CZ:OSBI:2020:42.C.26.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-01-26",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 687 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7e57deca-b04a-4023-bbcd-49da9e21980a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
