@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2020:32.C.78.2020.1",
+  "docket": "32 C 78/2020-23",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4f4657ba-e7fb-4ec6-aebf-046cd7b89b57",
+  "source_sha256": "527adfa7c92aef14ff61fae3e6eea87e68c758432b3aae1f6f93225cb2fa6090",
+  "source_id": "4f4657ba-e7fb-4ec6-aebf-046cd7b89b57",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "32 C 78/2020-23",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Regina Sypecká",
+    "ecli": "ECLI:CZ:OSLI:2020:32.C.78.2020.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 2.235,67 Kč s přísl.",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-12-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 127/2005 Sb.",
+      "§ 2201 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4f4657ba-e7fb-4ec6-aebf-046cd7b89b57"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
