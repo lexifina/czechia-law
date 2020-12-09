@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2020:116.C.316.2020.1",
+  "docket": "116 C 316/2020-29",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d0a291db-579d-4a32-9032-55f647e50549",
+  "source_sha256": "a590a17ba50c651cd8a5620ff76699d279f66435d5a06ed5a44d2fcf8b41de36",
+  "source_id": "d0a291db-579d-4a32-9032-55f647e50549",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "116 C 316/2020-29",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Ivana Josieková",
+    "ecli": "ECLI:CZ:OSKIHA:2020:116.C.316.2020.1",
+    "predmetRizeni": "675 Kč s příslušenstvím",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-01-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatek z prodlení",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§  vyhl. č. 177/1996 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§  z. č. 348/2005 Sb.",
+      "§ 7/2 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d0a291db-579d-4a32-9032-55f647e50549"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
