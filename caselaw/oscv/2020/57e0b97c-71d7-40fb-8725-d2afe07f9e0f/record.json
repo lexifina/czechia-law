@@ -1,0 +1,50 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2020:16.C.94.2020.1",
+  "docket": "16 C 94/2020-20",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/57e0b97c-71d7-40fb-8725-d2afe07f9e0f",
+  "source_sha256": "92119e8a561689d0151aeb125f81258e6e2e1816bceb642dbc635f67083aa8d0",
+  "source_id": "57e0b97c-71d7-40fb-8725-d2afe07f9e0f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 94/2020-20",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Eva Pohorelcová",
+    "ecli": "ECLI:CZ:OSCV:2020:16.C.94.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím (odběr elektřiny)",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-01-15",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "rozhodčí doložka",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 52 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1969 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/57e0b97c-71d7-40fb-8725-d2afe07f9e0f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
