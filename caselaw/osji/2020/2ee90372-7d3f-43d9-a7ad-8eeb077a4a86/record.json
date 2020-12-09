@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2020:12.C.265.2020.1",
+  "docket": "12 C 265/2020-28",
+  "date": "2020-12-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2ee90372-7d3f-43d9-a7ad-8eeb077a4a86",
+  "source_sha256": "58798c4f56ac8cdf97763ef5488d06352aeb48a2b0b70a73582eda667421c280",
+  "source_id": "2ee90372-7d3f-43d9-a7ad-8eeb077a4a86",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 265/2020-28",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "JUDr. Eva Bastlová",
+    "ecli": "ECLI:CZ:OSJI:2020:12.C.265.2020.1",
+    "predmetRizeni": "o 1 713 Kč s příslušenstvím",
+    "datumVydani": "2020-12-09",
+    "datumZverejneni": "2021-01-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozsudek pro uznání"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 153a z. č. 99/1963 Sb.",
+      "§ 114b z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2ee90372-7d3f-43d9-a7ad-8eeb077a4a86"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
