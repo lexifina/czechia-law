@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2020:22.C.120.2020.1",
+  "docket": "22 C 120/2020-18",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/61b00e9a-9608-4a4f-8eb6-027231930239",
+  "source_sha256": "0c203b1589cc1038d5d263b706df69aad5dee7aa1d33eb491e9e1ab12ec055dc",
+  "source_id": "61b00e9a-9608-4a4f-8eb6-027231930239",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 120/2020-18",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Tomáš Kopal",
+    "ecli": "ECLI:CZ:OSLI:2020:22.C.120.2020.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 14.262,51 Kč s přísl.",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-03-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatek z prodlení",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 497 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/61b00e9a-9608-4a4f-8eb6-027231930239"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
