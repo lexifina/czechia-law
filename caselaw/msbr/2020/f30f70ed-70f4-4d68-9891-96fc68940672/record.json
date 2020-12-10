@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:244.C.2.2020.1",
+  "docket": "244 C 2/2020-47",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f30f70ed-70f4-4d68-9891-96fc68940672",
+  "source_sha256": "ea7c8bb065af9b149962224b4f03da7f063b1e738f533ee9e7262350177f01a1",
+  "source_id": "f30f70ed-70f4-4d68-9891-96fc68940672",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "244 C 2/2020-47",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Ing. Daniel Bartoň",
+    "ecli": "ECLI:CZ:MSBR:2020:244.C.2.2020.1",
+    "predmetRizeni": "zaplacení 6.141 Kč s příslušenstvím - faktury",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-02-09",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f30f70ed-70f4-4d68-9891-96fc68940672"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
