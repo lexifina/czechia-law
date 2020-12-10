@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2020:8.C.128.2020.1",
+  "docket": "8 C 128/2020-34",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/30eaa7e5-6638-4cf8-9e8c-bf9ba07b4c12",
+  "source_sha256": "16bf1d3b91b79e9d6af8f1ac4ff526ba4a5aa2e5de519cc9f4ea5d93a803066f",
+  "source_id": "30eaa7e5-6638-4cf8-9e8c-bf9ba07b4c12",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 128/2020-34",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "JUDr. Jana Kowolowská",
+    "ecli": "ECLI:CZ:OSBV:2020:8.C.128.2020.1",
+    "predmetRizeni": "19.500 Kč s příslušenstvím",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-02-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/30eaa7e5-6638-4cf8-9e8c-bf9ba07b4c12"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
