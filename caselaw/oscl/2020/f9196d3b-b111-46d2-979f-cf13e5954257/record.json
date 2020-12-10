@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2020:38.C.357.2020.1",
+  "docket": "38 C 357/2020-17",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f9196d3b-b111-46d2-979f-cf13e5954257",
+  "source_sha256": "06360302bec5ff56e1bfbe9150b3f300e393e9a8f03ce5e02685c96108b6e4ee",
+  "source_id": "f9196d3b-b111-46d2-979f-cf13e5954257",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 357/2020-17",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Martin Fedorko",
+    "ecli": "ECLI:CZ:OSCL:2020:38.C.357.2020.1",
+    "predmetRizeni": "O zaplacení 2 420 Kč s příslušenstvím",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-02-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "telekomunikace"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 1815 z. č. 89/2012 Sb.",
+      "§ 2051 z. č. 89/2012 Sb.",
+      "§  z. č. 131/2002 Sb.",
+      "§ 129 z. č. 127/2005 Sb.",
+      "§ 2 z. č. 151/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f9196d3b-b111-46d2-979f-cf13e5954257"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
