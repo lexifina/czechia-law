@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2020:17.C.84.2020.1",
+  "docket": "17 C 84/2020-16",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/67d5e6fd-ec8a-463e-b707-9fceef1346f3",
+  "source_sha256": "0be5de1c833602d953f4f4da23a301f11811fb5866cba97f154477ecd4b6f4fb",
+  "source_id": "67d5e6fd-ec8a-463e-b707-9fceef1346f3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 84/2020-16",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "Mgr. Jana Veselá",
+    "ecli": "ECLI:CZ:OSSU:2020:17.C.84.2020.1",
+    "predmetRizeni": "o rozvod",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-03-25",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/67d5e6fd-ec8a-463e-b707-9fceef1346f3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
