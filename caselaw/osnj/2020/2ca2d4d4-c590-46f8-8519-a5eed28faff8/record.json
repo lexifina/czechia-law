@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2020:14.C.302.2020.3",
+  "docket": "14 C 302/2020-25",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2ca2d4d4-c590-46f8-8519-a5eed28faff8",
+  "source_sha256": "bd03c83db5bacba3ccac260ac82c23c497558680155fef3a93d6b685a9ab6bf7",
+  "source_id": "2ca2d4d4-c590-46f8-8519-a5eed28faff8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 302/2020-25",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "JUDr. Ivana Bačová",
+    "ecli": "ECLI:CZ:OSNJ:2020:14.C.302.2020.3",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-01-13",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2ca2d4d4-c590-46f8-8519-a5eed28faff8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
