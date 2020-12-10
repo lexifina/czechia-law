@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2020:19.C.298.2020.1",
+  "docket": "19 C 298/2020-57",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/66798e1c-20ef-4c9a-821e-37ed6229f11a",
+  "source_sha256": "677ca1ecb65cdbf7983019434f72c71ed73213dac5a628d6d171a115b4b35904",
+  "source_id": "66798e1c-20ef-4c9a-821e-37ed6229f11a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 298/2020-57",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "Mgr. Milan Polehla",
+    "ecli": "ECLI:CZ:OSZL:2020:19.C.298.2020.1",
+    "predmetRizeni": "zaplacení 517 551,10 Kč s příslušenstvím",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-02-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 79 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/66798e1c-20ef-4c9a-821e-37ed6229f11a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
