@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2020:10.C.341.2020.3",
+  "docket": "10 C 341/2020-21",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1419f48d-861e-4572-a7df-3a30c9340b70",
+  "source_sha256": "3b64f2051a6bcec58dd5323e5157bd6666960b3b2b3c121aab39419bd36f274e",
+  "source_id": "1419f48d-861e-4572-a7df-3a30c9340b70",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 341/2020-21",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "JUDr. Ivana Hovorková",
+    "ecli": "ECLI:CZ:OSSO:2020:10.C.341.2020.3",
+    "predmetRizeni": "zaplacení částky 5 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-02-24",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 115 z. č. 99/1963 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1419f48d-861e-4572-a7df-3a30c9340b70"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
