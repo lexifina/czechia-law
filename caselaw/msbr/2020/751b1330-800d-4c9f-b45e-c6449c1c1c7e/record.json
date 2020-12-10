@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:29.C.100.2020.1",
+  "docket": "29 C 100/2020-29",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/751b1330-800d-4c9f-b45e-c6449c1c1c7e",
+  "source_sha256": "29e2f8ffeb2c3dee529e30d828379be9ce252d04c5ee2c26bee8d7f8c3e16eb9",
+  "source_id": "751b1330-800d-4c9f-b45e-c6449c1c1c7e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 100/2020-29",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Romana Sobolová",
+    "ecli": "ECLI:CZ:MSBR:2020:29.C.100.2020.1",
+    "predmetRizeni": "zaplacení 3.059 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-04-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 2 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/751b1330-800d-4c9f-b45e-c6449c1c1c7e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
