@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2020:26.C.362.2020.1",
+  "docket": "26 C 362/2020-29",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c05b92e2-d33e-436e-ba83-16088fdf17ec",
+  "source_sha256": "6febb76d0a595b6d21da867fc7ae6ee1cde40dd7b96206702b4d7dc4d7dbad1c",
+  "source_id": "c05b92e2-d33e-436e-ba83-16088fdf17ec",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 362/2020-29",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "JUDr. Štěpánka Dvouletá",
+    "ecli": "ECLI:CZ:OSPH10:2020:26.C.362.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-01-11",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c05b92e2-d33e-436e-ba83-16088fdf17ec"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
