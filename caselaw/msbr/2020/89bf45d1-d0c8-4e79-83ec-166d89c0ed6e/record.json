@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:63.C.123.2020.1",
+  "docket": "63 C 123/2020-13",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/89bf45d1-d0c8-4e79-83ec-166d89c0ed6e",
+  "source_sha256": "0136a814d64b2a68c88dda74baf626450d8fed689b161a51a5feac882ee3d335",
+  "source_id": "89bf45d1-d0c8-4e79-83ec-166d89c0ed6e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "63 C 123/2020-13",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Judita Fadrusová",
+    "ecli": "ECLI:CZ:MSBR:2020:63.C.123.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím - pojistné",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-01-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 13 z. č. 168/1999 Sb.",
+      "§  z. č. 293/2017 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/89bf45d1-d0c8-4e79-83ec-166d89c0ed6e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
