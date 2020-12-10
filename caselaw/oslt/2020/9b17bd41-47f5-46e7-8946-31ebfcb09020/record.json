@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Litoměřicích",
+  "ecli": "ECLI:CZ:OSLT:2020:10.C.186.2019.1",
+  "docket": "10 C 186/2019-97",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9b17bd41-47f5-46e7-8946-31ebfcb09020",
+  "source_sha256": "fb0f2529c2d59f8e1f7015b9c5139cb6dfce16fd501c5f58564f5f8ce550ea11",
+  "source_id": "9b17bd41-47f5-46e7-8946-31ebfcb09020",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 186/2019-97",
+    "soud": "Okresní soud v Litoměřicích",
+    "autor": "JUDr. Alena Herčíková",
+    "ecli": "ECLI:CZ:OSLT:2020:10.C.186.2019.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-07-20",
+    "klicovaSlova": [
+      "doménové jméno",
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9b17bd41-47f5-46e7-8946-31ebfcb09020"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
