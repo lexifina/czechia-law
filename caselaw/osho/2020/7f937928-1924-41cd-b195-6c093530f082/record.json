@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2020:22.C.157.2020.1",
+  "docket": "22 C 157/2020-46",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7f937928-1924-41cd-b195-6c093530f082",
+  "source_sha256": "abbe965cc433ab8a097969770a3c344aa62a646e1640ac250bab42836941f604",
+  "source_id": "7f937928-1924-41cd-b195-6c093530f082",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 157/2020-46",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "JUDr. Kateřina Krůpová",
+    "ecli": "ECLI:CZ:OSHO:2020:22.C.157.2020.1",
+    "predmetRizeni": "zaplacení 109 391 Kč s příslušenstvím",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-02-05",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 2217 z. č. 89/2012 Sb.",
+      "§ 2295 z. č. 89/2012 Sb.",
+      "§ 2293 z. č. 89/2012 Sb.",
+      "§ 2913 z. č. 89/2012 Sb.",
+      "§ 2247 z. č. 89/2012 Sb.",
+      "§ 2251 z. č. 89/2012 Sb.",
+      "§ 2246 z. č. 89/2012 Sb.",
+      "§  z. č. 107/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7f937928-1924-41cd-b195-6c093530f082"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
