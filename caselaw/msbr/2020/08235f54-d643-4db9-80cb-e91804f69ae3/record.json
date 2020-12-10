@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:33.C.186.2020.1",
+  "docket": "33 C 186/2020-23",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/08235f54-d643-4db9-80cb-e91804f69ae3",
+  "source_sha256": "90d1b3b59ec9eb4a4d09ba54bea43af5c34dfd2094aeb1be19c018043b20753e",
+  "source_id": "08235f54-d643-4db9-80cb-e91804f69ae3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "33 C 186/2020-23",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Ivana Chlupová",
+    "ecli": "ECLI:CZ:MSBR:2020:33.C.186.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím - pokuta",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-01-15",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 3 vyhl. č. 175/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/08235f54-d643-4db9-80cb-e91804f69ae3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
