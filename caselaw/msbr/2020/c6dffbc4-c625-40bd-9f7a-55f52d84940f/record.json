@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:29.C.90.2020.1",
+  "docket": "29 C 90/2020-30",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c6dffbc4-c625-40bd-9f7a-55f52d84940f",
+  "source_sha256": "75963f0a65fa417daff91df3de6d86efaf645e16d0b8c4c7250fa7f3f5a19260",
+  "source_id": "c6dffbc4-c625-40bd-9f7a-55f52d84940f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 90/2020-30",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Romana Sobolová",
+    "ecli": "ECLI:CZ:MSBR:2020:29.C.90.2020.1",
+    "predmetRizeni": "zaplacení 1.500 Kč s příslušenstvím - náklady za odtah vozidla",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-04-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pozemní komunikace"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 19b z. č. 13/1997 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c6dffbc4-c625-40bd-9f7a-55f52d84940f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
