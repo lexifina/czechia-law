@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2020:16.C.212.2020.3",
+  "docket": "16 C 212/2020-62",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/993f2d03-9af8-4b6a-89c1-15ad11acf4cc",
+  "source_sha256": "da6f1a15a789a824c5307d79435241dbd9c9e4135faf3ece37de2daae420f8fa",
+  "source_id": "993f2d03-9af8-4b6a-89c1-15ad11acf4cc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 212/2020-62",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "Mgr. Libor Brokeš",
+    "ecli": "ECLI:CZ:OSOL:2020:16.C.212.2020.3",
+    "predmetRizeni": "o určení",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-09-16",
+    "klicovaSlova": [
+      "pasivní legitimace",
+      "peněžité plnění",
+      "skončení pracovního poměru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 365/2011 Sb.",
+      "§ 39 z. č. 262/2006 Sb.",
+      "§ 6 z. č. 111/1998 Sb.",
+      "§ 70 z. č. 111/1998 Sb.",
+      "§  z. č. 130/2002 Sb.",
+      "§  z. č. 110/2009 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/993f2d03-9af8-4b6a-89c1-15ad11acf4cc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
