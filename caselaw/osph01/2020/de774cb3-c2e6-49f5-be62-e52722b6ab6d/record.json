@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2020:13.C.190.2019.1",
+  "docket": "13 C 190/2019-48",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/de774cb3-c2e6-49f5-be62-e52722b6ab6d",
+  "source_sha256": "f145d32d250154f1d9d5dae5dd735da07fe93ce06264a712abf594444ded7b02",
+  "source_id": "de774cb3-c2e6-49f5-be62-e52722b6ab6d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 190/2019-48",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Petr Novák",
+    "ecli": "ECLI:CZ:OSPH01:2020:13.C.190.2019.1",
+    "predmetRizeni": "o zaplacení 5 070 Kč s příslušenstvím",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-05-06",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění",
+      "pojištění odpovědnosti za škodu",
+      "škodové pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 13 odst. 2 z. č. 168/1999 Sb.",
+      "§ 12 odst. 1 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/de774cb3-c2e6-49f5-be62-e52722b6ab6d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
