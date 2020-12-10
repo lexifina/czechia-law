@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně",
+  "ecli": "ECLI:CZ:OSVS:2020:11.C.92.2020.1",
+  "docket": "11 C 92/2020-21",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d4511086-9071-4835-b578-09c4e34768f8",
+  "source_sha256": "f77d66a9b2a2f338a7ac4e9ad2f0c5e51f7e7bbf885af8b1732ac34c8cac6a0a",
+  "source_id": "d4511086-9071-4835-b578-09c4e34768f8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 92/2020-21",
+    "soud": "Okresní soud ve Vsetíně",
+    "autor": "JUDr. Ing. Radomír Cáb",
+    "ecli": "ECLI:CZ:OSVS:2020:11.C.92.2020.1",
+    "predmetRizeni": "O zaplacení 10 600 Kč s příslušenstvím",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-04-26",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o úvěru",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 9 z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d4511086-9071-4835-b578-09c4e34768f8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
