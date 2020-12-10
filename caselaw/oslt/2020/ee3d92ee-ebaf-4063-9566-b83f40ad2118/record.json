@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Litoměřicích",
+  "ecli": "ECLI:CZ:OSLT:2020:12.C.184.2020.1",
+  "docket": "12 C 184/2020-21",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ee3d92ee-ebaf-4063-9566-b83f40ad2118",
+  "source_sha256": "1555b7aebc956390cb62b107d972965581b0a34a3f4fd6375b4a1853bf773dc4",
+  "source_id": "ee3d92ee-ebaf-4063-9566-b83f40ad2118",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 184/2020-21",
+    "soud": "Okresní soud v Litoměřicích",
+    "autor": "JUDr. Martin Masár",
+    "ecli": "ECLI:CZ:OSLT:2020:12.C.184.2020.1",
+    "predmetRizeni": "O zaplacení 3 048 Kč s příslušenstvím",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-02-23",
+    "klicovaSlova": [
+      "jízdné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ee3d92ee-ebaf-4063-9566-b83f40ad2118"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
