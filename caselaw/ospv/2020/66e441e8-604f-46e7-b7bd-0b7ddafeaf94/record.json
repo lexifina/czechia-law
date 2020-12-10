@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2020:14.C.173.2020 .1",
+  "docket": "14 C 173/2020-78",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/66e441e8-604f-46e7-b7bd-0b7ddafeaf94",
+  "source_sha256": "b86fc3581572f4bf0aac061118657c47f4fe293bd3cf7e920a8d1490ca95589a",
+  "source_id": "66e441e8-604f-46e7-b7bd-0b7ddafeaf94",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 173/2020-78",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "JUDr. Ivan Šišma",
+    "ecli": "ECLI:CZ:OSPV:2020:14.C.173.2020 .1",
+    "predmetRizeni": "o 59.434,96 Kč s příslušenstvím,",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-03-17",
+    "klicovaSlova": [
+      "družstevní byt",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/66e441e8-604f-46e7-b7bd-0b7ddafeaf94"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
