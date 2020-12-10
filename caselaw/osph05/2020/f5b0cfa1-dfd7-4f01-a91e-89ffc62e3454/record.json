@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2020:42.C.547.2020.1",
+  "docket": "42 C 547/2020-12",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f5b0cfa1-dfd7-4f01-a91e-89ffc62e3454",
+  "source_sha256": "c1b9b56565450d16f139d2b2d51e695ae212d9093ef3a251caf4ea2bffe66b9b",
+  "source_id": "f5b0cfa1-dfd7-4f01-a91e-89ffc62e3454",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 547/2020-12",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Tereza Mašková",
+    "ecli": "ECLI:CZ:OSPH05:2020:42.C.547.2020.1",
+    "predmetRizeni": "O zaplacení 16 185 Kč s příslušenstvím",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-02-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 132 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f5b0cfa1-dfd7-4f01-a91e-89ffc62e3454"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
