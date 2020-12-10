@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Blansku",
+  "ecli": "ECLI:CZ:OSBK:2020:3.C.193.2020.1",
+  "docket": "3 C 193/2020-45",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/63ad5852-dd88-484e-9284-245258cdef72",
+  "source_sha256": "97106b5b235c413f5dc07118a73a6137c3da7c14430bd9c9cbe0ffd129eaa3b7",
+  "source_id": "63ad5852-dd88-484e-9284-245258cdef72",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 193/2020-45",
+    "soud": "Okresní soud v Blansku",
+    "autor": "JUDr. Petra Burešová",
+    "ecli": "ECLI:CZ:OSBK:2020:3.C.193.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-01-15",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/63ad5852-dd88-484e-9284-245258cdef72"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
