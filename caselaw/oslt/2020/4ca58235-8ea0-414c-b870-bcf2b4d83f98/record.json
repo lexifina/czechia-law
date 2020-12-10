@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Litoměřicích",
+  "ecli": "ECLI:CZ:OSLT:2020:19.C.298.2020 .1",
+  "docket": "19 C 298/2020-29",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4ca58235-8ea0-414c-b870-bcf2b4d83f98",
+  "source_sha256": "0fd06bd386652f41ca3453b96d268c235dbe70d0e0478b168b279479c294d454",
+  "source_id": "4ca58235-8ea0-414c-b870-bcf2b4d83f98",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 298/2020-29",
+    "soud": "Okresní soud v Litoměřicích",
+    "autor": "Mgr. Zdeněk Hammer",
+    "ecli": "ECLI:CZ:OSLT:2020:19.C.298.2020 .1",
+    "predmetRizeni": "o zaplacení 1 588 Kč s příslušenství",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-01-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/1999 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 205/1999 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4ca58235-8ea0-414c-b870-bcf2b4d83f98"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
