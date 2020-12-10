@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2020:112.C.367.2020.1",
+  "docket": "112 C 367/2020-36",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/77625926-aa99-422b-b93c-60a55341da3e",
+  "source_sha256": "963895650301bb348cf9df1ccc36a989f97885b6ba2e159ae88e9b14b9431a89",
+  "source_id": "77625926-aa99-422b-b93c-60a55341da3e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "112 C 367/2020-36",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Petra Pomykaczová",
+    "ecli": "ECLI:CZ:OSKIHA:2020:112.C.367.2020.1",
+    "predmetRizeni": "15 340 Kč s příslušenstvím",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-02-15",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 1824 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§  z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/77625926-aa99-422b-b93c-60a55341da3e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
