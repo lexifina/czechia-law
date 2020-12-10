@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2020:10.C.151.2020.1",
+  "docket": "10 C 151/2020-27",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f88f9b65-04fd-4fb9-addb-66776a23176e",
+  "source_sha256": "60cb94bbba68238354d56101d64fc8c3d4c343dfe934ff735a9f2df8992b7fe5",
+  "source_id": "f88f9b65-04fd-4fb9-addb-66776a23176e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 151/2020-27",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "Mgr. Lucie Kubová",
+    "ecli": "ECLI:CZ:OSCB:2020:10.C.151.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2020-12-31",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f88f9b65-04fd-4fb9-addb-66776a23176e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
