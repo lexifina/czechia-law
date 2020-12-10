@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2020:208.C.121.2020.1",
+  "docket": "208 C 121/2020-55",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a13ab118-7996-4edf-b4d4-1d35bc038c62",
+  "source_sha256": "53b47e5958bb3eab535bda851b1c08de9dc3a702ce0579af978fcb1fb2817081",
+  "source_id": "a13ab118-7996-4edf-b4d4-1d35bc038c62",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "208 C 121/2020-55",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Dana Zelenková",
+    "ecli": "ECLI:CZ:OSKD:2020:208.C.121.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-01-21",
+    "klicovaSlova": [
+      "oddlužení",
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a13ab118-7996-4edf-b4d4-1d35bc038c62"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
