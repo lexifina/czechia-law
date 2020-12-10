@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2020:28.C.223.2020.1",
+  "docket": "28 C 223/2020-74",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/62fdbf7d-8ff9-418c-af50-0337e1b8b543",
+  "source_sha256": "6fd8eb23ec76460493fd14ffacb975a6ae76c87845d0d00caf0e2d3153afa340",
+  "source_id": "62fdbf7d-8ff9-418c-af50-0337e1b8b543",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 223/2020-74",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "JUDr. Eva Bučková",
+    "ecli": "ECLI:CZ:OSZL:2020:28.C.223.2020.1",
+    "predmetRizeni": "zaplacení 7 250 Kč s příslušenstvím",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-01-25",
+    "klicovaSlova": [
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/62fdbf7d-8ff9-418c-af50-0337e1b8b543"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
