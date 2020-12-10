@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2020:7.C.292.2020.1",
+  "docket": "7 C 292/2020",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ba6124d3-e983-453a-8762-541676d48921",
+  "source_sha256": "3f5904cc67c75756b871f04e47e1c2452f407039d57f17abbd3c9c21cd619783",
+  "source_id": "ba6124d3-e983-453a-8762-541676d48921",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 292/2020",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "JUDr. Blanka Rejšková",
+    "ecli": "ECLI:CZ:OSPZ:2020:7.C.292.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-04-19",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 43c z. č. 89/2012 Sb.",
+      "§ 44 z. č. 89/2012 Sb.",
+      "§ 43a z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ba6124d3-e983-453a-8762-541676d48921"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
