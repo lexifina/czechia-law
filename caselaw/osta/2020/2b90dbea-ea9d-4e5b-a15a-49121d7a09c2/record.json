@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2020:8.C.212.2020.1",
+  "docket": "8 C 212/2020-15",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2b90dbea-ea9d-4e5b-a15a-49121d7a09c2",
+  "source_sha256": "b03471f0d269f1985df958e179efa1c5a07225f036f77cfa26a7adef9d246f84",
+  "source_id": "2b90dbea-ea9d-4e5b-a15a-49121d7a09c2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 212/2020-15",
+    "soud": "Okresní soud v Táboře",
+    "autor": "Mgr. Jiří Vaněk",
+    "ecli": "ECLI:CZ:OSTA:2020:8.C.212.2020.1",
+    "predmetRizeni": "O zaplacení 5 793 Kč s příslušenstvím",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-01-14",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 28 z. č. 458/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2b90dbea-ea9d-4e5b-a15a-49121d7a09c2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
