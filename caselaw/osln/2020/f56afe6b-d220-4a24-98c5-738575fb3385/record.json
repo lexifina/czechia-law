@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2020:13.C.200.2020.1",
+  "docket": "13 C 200/2020-33",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f56afe6b-d220-4a24-98c5-738575fb3385",
+  "source_sha256": "a16763786652f4e3282d160854bb23770338592a0383af3ec6fe9387fe5d13cf",
+  "source_id": "f56afe6b-d220-4a24-98c5-738575fb3385",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 200/2020-33",
+    "soud": "Okresní soud v Lounech",
+    "autor": "Mgr. Jitka Svobodová",
+    "ecli": "ECLI:CZ:OSLN:2020:13.C.200.2020.1",
+    "predmetRizeni": "O zaplacení 5 727 Kč s příslušenstvím",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-01-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f56afe6b-d220-4a24-98c5-738575fb3385"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
