@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2020:10.C.86.2020.1",
+  "docket": "10 C 86/2020-71",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/99c45bac-3132-465f-a8b0-21581c840d06",
+  "source_sha256": "866cf4f97b982d67f955e58ea503359d6649f7333b1e06c67f64cb48c64c6c34",
+  "source_id": "99c45bac-3132-465f-a8b0-21581c840d06",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 86/2020-71",
+    "soud": "Okresní soud v Přerově",
+    "autor": "Mgr. Anna Coufalová",
+    "ecli": "ECLI:CZ:OSPR:2020:10.C.86.2020.1",
+    "predmetRizeni": "zaplacení [částka] s přísl.- nájemné,",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-01-27",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2217 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 2292 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/99c45bac-3132-465f-a8b0-21581c840d06"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
