@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2020:4.C.319.2020.2",
+  "docket": "4 C 319/2020-15",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c2c7bcac-f31b-4b41-8394-370dfd64ac16",
+  "source_sha256": "e09dece8ce547576d864c7f1b00c6610206ec262d62f84a1c653fdf6deb2dd61",
+  "source_id": "c2c7bcac-f31b-4b41-8394-370dfd64ac16",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 319/2020-15",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "Mgr. Marek Poláček",
+    "ecli": "ECLI:CZ:OSPS:2020:4.C.319.2020.2",
+    "predmetRizeni": "[částka] s přísl.",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4/3 vyhl. č. 205/1999 Sb.",
+      "§ 2/1  vyhl. č. 205/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c2c7bcac-f31b-4b41-8394-370dfd64ac16"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
