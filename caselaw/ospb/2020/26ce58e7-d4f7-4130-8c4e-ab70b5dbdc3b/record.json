@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2020:9.C.26.2020.3",
+  "docket": "9 C 26/2020-166",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/26ce58e7-d4f7-4130-8c4e-ab70b5dbdc3b",
+  "source_sha256": "7647c680a187b4250b8fd94c64906fba2c949f5936c86a560e96406fcc021d12",
+  "source_id": "26ce58e7-d4f7-4130-8c4e-ab70b5dbdc3b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 26/2020-166",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Vlasta Cízlová",
+    "ecli": "ECLI:CZ:OSPB:2020:9.C.26.2020.3",
+    "predmetRizeni": "určení dědice",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-01-29",
+    "klicovaSlova": [
+      "daň z příjmů",
+      "notářský zápis",
+      "peněžité plnění",
+      "podvod",
+      "pozůstalost",
+      "prohlášení o vydědění",
+      "propadnutí věci",
+      "převod nemovitostí",
+      "smlouva kupní",
+      "vydědění",
+      "závěť",
+      "zkušební doba",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 120/2001 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 1646 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/26ce58e7-d4f7-4130-8c4e-ab70b5dbdc3b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
