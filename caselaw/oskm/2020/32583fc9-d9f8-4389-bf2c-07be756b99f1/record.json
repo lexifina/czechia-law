@@ -1,0 +1,48 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kroměříži",
+  "ecli": "ECLI:CZ:OSKM:2020:11.C.123.2020.1",
+  "docket": "11 C 123/2020-88",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/32583fc9-d9f8-4389-bf2c-07be756b99f1",
+  "source_sha256": "df6c16cd6c96d5c4856a1db0df4dd07c71769d8747acad1400264701c3c904aa",
+  "source_id": "32583fc9-d9f8-4389-bf2c-07be756b99f1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 123/2020-88",
+    "soud": "Okresní soud v Kroměříži",
+    "autor": "Mgr. Jarmila Gajdošová",
+    "ecli": "ECLI:CZ:OSKM:2020:11.C.123.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-03-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 1968 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 47 z. č. 235/2004 Sb.",
+      "§ 2399 z. č. 89/2012 Sb.",
+      "§ 174a z. č. 99/1963 Sb.",
+      "§ 46a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/32583fc9-d9f8-4389-bf2c-07be756b99f1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
