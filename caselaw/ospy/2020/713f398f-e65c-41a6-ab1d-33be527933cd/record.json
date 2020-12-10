@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2020:36.C.112.2019.1",
+  "docket": "36 C 112/2019",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/713f398f-e65c-41a6-ab1d-33be527933cd",
+  "source_sha256": "11a782360fbf566b0d3641720565771bc016c7b27d241f586e491b228c876475",
+  "source_id": "713f398f-e65c-41a6-ab1d-33be527933cd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 112/2019",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Tereza Dobešová",
+    "ecli": "ECLI:CZ:OSPY:2020:36.C.112.2019.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-06-21",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/713f398f-e65c-41a6-ab1d-33be527933cd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
