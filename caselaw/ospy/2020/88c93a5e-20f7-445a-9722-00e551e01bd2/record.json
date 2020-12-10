@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2020:8.C.383.2019.1",
+  "docket": "8 C 383/2019-94",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/88c93a5e-20f7-445a-9722-00e551e01bd2",
+  "source_sha256": "7aeaa7f0c33b4b67d02d8ce2647af545b6793b18ff00d1e487aad999d0cb8b1e",
+  "source_id": "88c93a5e-20f7-445a-9722-00e551e01bd2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 383/2019-94",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Jitka Sochorová",
+    "ecli": "ECLI:CZ:OSPY:2020:8.C.383.2019.1",
+    "predmetRizeni": "o vyklizení nemovitostí a zaplacení částky 135.000 Kč s přísl.",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-10-08",
+    "klicovaSlova": [
+      "smlouva nájemní",
+      "vyklizení nemovitosti",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1040 z. č. 89/2012 Sb.",
+      "§ 1042 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/88c93a5e-20f7-445a-9722-00e551e01bd2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
