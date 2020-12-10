@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2020:60.C.59.2018.1",
+  "docket": "60 C 59/2018-168",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b71a206f-9600-4815-8c76-252210eaaaad",
+  "source_sha256": "88a13d660cc1a704f610d63b89ce9b8d55ab741a36473fdcab0ae90db4634184",
+  "source_id": "b71a206f-9600-4815-8c76-252210eaaaad",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "60 C 59/2018-168",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "Mgr. Hana Kadlecová, LL.M.",
+    "ecli": "ECLI:CZ:OSPH04:2020:60.C.59.2018.1",
+    "predmetRizeni": "o vypořádání společného jmění manželů",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-03-18",
+    "klicovaSlova": [
+      "cizina",
+      "cizinci",
+      "jmění",
+      "peněžité plnění",
+      "rozvod manželství",
+      "vlastnictví bytů",
+      "vypořádání SJM"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§  z. č. 98/1984 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b71a206f-9600-4815-8c76-252210eaaaad"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
