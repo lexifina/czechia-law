@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2020:6.C.298.2020.1",
+  "docket": "6 C 298/2020-37",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b4dfe51b-5640-4c0b-9c99-aea55f6b2874",
+  "source_sha256": "ef012bcd9ba64d6f67cc9f8c7af1b93a3385ab8db839c132de94277a8af5dfd7",
+  "source_id": "b4dfe51b-5640-4c0b-9c99-aea55f6b2874",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 298/2020-37",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "JUDr. Lenka Knapčoková, Ph.D.",
+    "ecli": "ECLI:CZ:OSSY:2020:6.C.298.2020.1",
+    "predmetRizeni": "o zaplacení 1 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-01-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 174a z. č. 99/1963 Sb.",
+      "§  z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b4dfe51b-5640-4c0b-9c99-aea55f6b2874"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
