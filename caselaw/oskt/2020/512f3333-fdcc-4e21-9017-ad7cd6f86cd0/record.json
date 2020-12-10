@@ -1,0 +1,31 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2020:6.C.153.2019.1",
+  "docket": "6 C 153/2019-109",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/512f3333-fdcc-4e21-9017-ad7cd6f86cd0",
+  "source_sha256": "7cb184dd7c4e5405967381c52aee668e557f323aad322c9eb491c97afb2c581a",
+  "source_id": "512f3333-fdcc-4e21-9017-ad7cd6f86cd0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 153/2019-109",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "Mgr. Martina Matějková",
+    "ecli": "ECLI:CZ:OSKT:2020:6.C.153.2019.1",
+    "predmetRizeni": "zaplacení náhrady škody ve výši [částka] s přísl.",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-05-21",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 2900 z. č. 89/2012 Sb.",
+      "§ 2909 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/512f3333-fdcc-4e21-9017-ad7cd6f86cd0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
