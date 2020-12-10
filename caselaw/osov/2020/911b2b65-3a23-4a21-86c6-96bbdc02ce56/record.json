@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2020:23.C.330.2020.4",
+  "docket": "23 C 330/2020-20",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/911b2b65-3a23-4a21-86c6-96bbdc02ce56",
+  "source_sha256": "6d76ada8aa6459b6aa97cbe186a10cc319958facbcc2f241423ac61e2287bd9b",
+  "source_id": "911b2b65-3a23-4a21-86c6-96bbdc02ce56",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 330/2020-20",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Pavlína Vrkočová",
+    "ecli": "ECLI:CZ:OSOV:2020:23.C.330.2020.4",
+    "predmetRizeni": "o vyklizení bytu",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-02-11",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 573 z. č. 89/2012 Sb.",
+      "§ 2291 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/911b2b65-3a23-4a21-86c6-96bbdc02ce56"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
