@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2020:11.C.123.2020.1",
+  "docket": "11 C 123/2020-43",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4b42522e-02cf-475b-9297-239f808399d3",
+  "source_sha256": "bec3c08a65e331669205483ba0c913678b9f24b75fe689ff24f3df2216bf6ee3",
+  "source_id": "4b42522e-02cf-475b-9297-239f808399d3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 123/2020-43",
+    "soud": "Okresní soud v Lounech",
+    "autor": "JUDr. Ivana Koberová, Ph.D.",
+    "ecli": "ECLI:CZ:OSLN:2020:11.C.123.2020.1",
+    "predmetRizeni": "O zaplacení 10 747,13 Kč s příslušenstvím",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-01-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 87 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4b42522e-02cf-475b-9297-239f808399d3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
