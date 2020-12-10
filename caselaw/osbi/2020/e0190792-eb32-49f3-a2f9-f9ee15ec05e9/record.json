@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2020:24.C.42.2020.1",
+  "docket": "24 C 42/2020",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e0190792-eb32-49f3-a2f9-f9ee15ec05e9",
+  "source_sha256": "a0d4022f179c1edeeb96d4774308506e5d437ace46445afdb010602876a36e71",
+  "source_id": "e0190792-eb32-49f3-a2f9-f9ee15ec05e9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 42/2020",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "Mgr. Pavel Mádr",
+    "ecli": "ECLI:CZ:OSBI:2020:24.C.42.2020.1",
+    "predmetRizeni": "O zaplacení 11 227 Kč s příslušenstvím",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-03-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "sleva z ceny",
+      "smlouva o dílo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 513 z. č. 89/2012 Sb.",
+      "§ 2586 z. č. 89/2012 Sb.",
+      "§ 2106 z. č. 89/2012 Sb.",
+      "§ 2615 z. č. 89/2012 Sb.",
+      "§ 2107 z. č. 89/2012 Sb.",
+      "§ 2618 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e0190792-eb32-49f3-a2f9-f9ee15ec05e9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
