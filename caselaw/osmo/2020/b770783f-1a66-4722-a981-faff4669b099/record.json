@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:39.C.264.2020.2",
+  "docket": "39 C 264/2020-20",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b770783f-1a66-4722-a981-faff4669b099",
+  "source_sha256": "02ae765529e51f3b66a90cf56d957022a6639de8ca7105860cba750aa975bcd0",
+  "source_id": "b770783f-1a66-4722-a981-faff4669b099",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "39 C 264/2020-20",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Rudolf Malý",
+    "ecli": "ECLI:CZ:OSMO:2020:39.C.264.2020.2",
+    "predmetRizeni": "2 100 Kč s příslušenstvím",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-01-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b770783f-1a66-4722-a981-faff4669b099"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
