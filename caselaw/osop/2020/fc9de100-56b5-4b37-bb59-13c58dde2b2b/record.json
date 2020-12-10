@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2020:16.C.279.2020.1",
+  "docket": "16 C 279/2020-26",
+  "date": "2020-12-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fc9de100-56b5-4b37-bb59-13c58dde2b2b",
+  "source_sha256": "95e10759ad3c4b1ba952223425f6889a7a33389f991600f53ed637cd5d04bc67",
+  "source_id": "fc9de100-56b5-4b37-bb59-13c58dde2b2b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 279/2020-26",
+    "soud": "Okresní soud v Opavě",
+    "autor": "Mgr. Radek Solař",
+    "ecli": "ECLI:CZ:OSOP:2020:16.C.279.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-10",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 6 z. č. 91/2012 Sb.",
+      "§ 79 z. č. 99/1963 Sb.",
+      "§ 87 z. č. 91/2012 Sb.",
+      "§ 84 z. č. 99/1963 Sb.",
+      "§ 89a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fc9de100-56b5-4b37-bb59-13c58dde2b2b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
