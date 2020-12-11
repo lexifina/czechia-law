@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2020:63.C.331.2020.1",
+  "docket": "63 C 331/2020-21",
+  "date": "2020-12-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/707c4d05-aba5-4417-bd54-08d875916a53",
+  "source_sha256": "34fe29261e83da784b205021e1801b92c7cf0b975d7fc36af242e5ba61cf81fd",
+  "source_id": "707c4d05-aba5-4417-bd54-08d875916a53",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "63 C 331/2020-21",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Pavel Kučera",
+    "ecli": "ECLI:CZ:OSOV:2020:63.C.331.2020.1",
+    "predmetRizeni": "o zaplacení 2 000 Kč",
+    "datumVydani": "2020-12-11",
+    "datumZverejneni": "2021-04-20",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 580 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/707c4d05-aba5-4417-bd54-08d875916a53"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
