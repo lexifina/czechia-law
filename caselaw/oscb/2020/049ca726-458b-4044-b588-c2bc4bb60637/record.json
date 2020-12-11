@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2020:15.C.337.2020.1",
+  "docket": "15 C 337/2020-32",
+  "date": "2020-12-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/049ca726-458b-4044-b588-c2bc4bb60637",
+  "source_sha256": "ed0d24ec86b170229e792079e537ec83ea16336e87a2699bc946ab36f506a90d",
+  "source_id": "049ca726-458b-4044-b588-c2bc4bb60637",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 337/2020-32",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "JUDr. Jana Moravcová",
+    "ecli": "ECLI:CZ:OSCB:2020:15.C.337.2020.1",
+    "predmetRizeni": "EPR [číslo], o zaplacení částky 16 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-11",
+    "datumZverejneni": "2021-02-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/049ca726-458b-4044-b588-c2bc4bb60637"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
