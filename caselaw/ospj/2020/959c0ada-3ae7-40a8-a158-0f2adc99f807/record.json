@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPJ:2020:10.C.262.2020.1",
+  "docket": "10 C 262/2020-14",
+  "date": "2020-12-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/959c0ada-3ae7-40a8-a158-0f2adc99f807",
+  "source_sha256": "24ef10b3322857183d348dd6591f34e05c03813b606811ea3186badd9af062a7",
+  "source_id": "959c0ada-3ae7-40a8-a158-0f2adc99f807",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 262/2020-14",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Blanka Šibrová",
+    "ecli": "ECLI:CZ:OSPJ:2020:10.C.262.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-12-11",
+    "datumZverejneni": "2021-01-27",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/959c0ada-3ae7-40a8-a158-0f2adc99f807"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
