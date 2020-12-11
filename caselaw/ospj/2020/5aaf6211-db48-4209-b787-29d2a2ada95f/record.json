@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPJ:2020:25.C.292.2020.2",
+  "docket": "25 C 292/2020-17",
+  "date": "2020-12-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5aaf6211-db48-4209-b787-29d2a2ada95f",
+  "source_sha256": "5be5ee0f1a647651994ca1c4a99b7ebc254eaf6249f76eeb41bc4243a216793e",
+  "source_id": "5aaf6211-db48-4209-b787-29d2a2ada95f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 292/2020-17",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Jana Srpová",
+    "ecli": "ECLI:CZ:OSPJ:2020:25.C.292.2020.2",
+    "predmetRizeni": "2 649,90 Kč s přísl.",
+    "datumVydani": "2020-12-11",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5aaf6211-db48-4209-b787-29d2a2ada95f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
