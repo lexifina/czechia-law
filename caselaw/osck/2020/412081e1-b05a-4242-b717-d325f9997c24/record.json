@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2020:2.C.180.2020.2",
+  "docket": "2 C 180/2020-22",
+  "date": "2020-12-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/412081e1-b05a-4242-b717-d325f9997c24",
+  "source_sha256": "e143beb7a15789a593c414a19c356c85ff7090823015008d6f3ec8cb87f4e361",
+  "source_id": "412081e1-b05a-4242-b717-d325f9997c24",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "2 C 180/2020-22",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "JUDr. Jan Montag",
+    "ecli": "ECLI:CZ:OSCK:2020:2.C.180.2020.2",
+    "predmetRizeni": "EPR [číslo], o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-11",
+    "datumZverejneni": "2021-02-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění majetku"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/412081e1-b05a-4242-b717-d325f9997c24"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
