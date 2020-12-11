@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2020:15.C.53.2020.1",
+  "docket": "15 C 53/2020-31",
+  "date": "2020-12-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9c14211d-e132-486a-ab6a-0a266291ffab",
+  "source_sha256": "797e935041513f6604e65f7e353c46a3d7115c239f498920fb9e71fc99f43776",
+  "source_id": "9c14211d-e132-486a-ab6a-0a266291ffab",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 53/2020-31",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Radek Paclík",
+    "ecli": "ECLI:CZ:OSPH01:2020:15.C.53.2020.1",
+    "predmetRizeni": "o zaplacení 4 499 Kč s příslušenstvím",
+    "datumVydani": "2020-12-11",
+    "datumZverejneni": "2021-03-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9c14211d-e132-486a-ab6a-0a266291ffab"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
