@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2020:11.C.267.2020.1",
+  "docket": "11 C 267/2020-18",
+  "date": "2020-12-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a9a999a9-4d8c-40ca-8699-2a27483936fd",
+  "source_sha256": "003883c133b78e95829dbae7568f2ecfd106818f91e32667eee3b63e01cd73d2",
+  "source_id": "a9a999a9-4d8c-40ca-8699-2a27483936fd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 267/2020-18",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "JUDr. Květoslava Urbánková",
+    "ecli": "ECLI:CZ:OSDC:2020:11.C.267.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-11",
+    "datumZverejneni": "2021-02-10",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 63 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a9a999a9-4d8c-40ca-8699-2a27483936fd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
