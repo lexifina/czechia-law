@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2020:41.C.181.2020.1",
+  "docket": "41 C 181/2020-21",
+  "date": "2020-12-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/73992046-e748-4281-986f-95ff59cb675c",
+  "source_sha256": "853f17918271a86c7eb0557a9ce0e3f8bcf52c0c754325f3a9827276a884543a",
+  "source_id": "73992046-e748-4281-986f-95ff59cb675c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "41 C 181/2020-21",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "JUDr. Hana Marsová",
+    "ecli": "ECLI:CZ:OSPH01:2020:41.C.181.2020.1",
+    "predmetRizeni": "o zaplacení 15 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-11",
+    "datumZverejneni": "2021-02-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 657 z. č. 40/1964 Sb.",
+      "§ 517 nař. vl. č. 351/2013 Sb.",
+      "§ 14a vyhl. č. 177/1996 Sb.",
+      "§ 23a z. č. 85/1996 Sb.",
+      "§ 658 z. č. 40/1964 Sb.",
+      "§ 121 z. č. 40/1964 Sb.",
+      "§ 23a vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/73992046-e748-4281-986f-95ff59cb675c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
