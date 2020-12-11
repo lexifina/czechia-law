@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2020:15.C.147.2020.1",
+  "docket": "15 C 147/2020-47",
+  "date": "2020-12-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/73470cc3-0ed8-4b59-b51d-f302b285866e",
+  "source_sha256": "7ae0995c3c8f399b9b64a73ad95d341e0d4b2d518157e7d92bfb68964651b606",
+  "source_id": "73470cc3-0ed8-4b59-b51d-f302b285866e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 147/2020-47",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. Pavla Doupovcová",
+    "ecli": "ECLI:CZ:OSPV:2020:15.C.147.2020.1",
+    "predmetRizeni": "O zaplacení 1.000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-11",
+    "datumZverejneni": "2021-03-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 12 z. č. 549/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/73470cc3-0ed8-4b59-b51d-f302b285866e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
