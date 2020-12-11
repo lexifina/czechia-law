@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2020:21.C.305.2020.1",
+  "docket": "21 C 305/2020-36",
+  "date": "2020-12-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b6fdade2-bbff-4e1f-943d-f1a6c44f9e67",
+  "source_sha256": "96c6e53b7dfa162810db92f386b7c8692a48e119677f1e62f2c40c5bfb6ed924",
+  "source_id": "b6fdade2-bbff-4e1f-943d-f1a6c44f9e67",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 305/2020-36",
+    "soud": "Okresní soud v Karviné",
+    "autor": "Mgr. Jana Babušková",
+    "ecli": "ECLI:CZ:OSKI:2020:21.C.305.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2020-12-11",
+    "datumZverejneni": "2021-01-12",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b6fdade2-bbff-4e1f-943d-f1a6c44f9e67"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
