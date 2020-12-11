@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pelhřimově",
+  "ecli": "ECLI:CZ:OSPE:2020:1.C.189.2020.1",
+  "docket": "1 C 189/2020-37",
+  "date": "2020-12-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/239e803c-44b1-4669-8382-0f17b6d7120c",
+  "source_sha256": "cef5518227a02e231ca4629190b93ae52878809075e7f9a5d7d6e364be0c8ad1",
+  "source_id": "239e803c-44b1-4669-8382-0f17b6d7120c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "1 C 189/2020-37",
+    "soud": "Okresní soud v Pelhřimově",
+    "autor": "JUDr. Zdeněk Tichý",
+    "ecli": "ECLI:CZ:OSPE:2020:1.C.189.2020.1",
+    "predmetRizeni": "o zaplacení částky [částka] s přísl.",
+    "datumVydani": "2020-12-11",
+    "datumZverejneni": "2021-01-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/239e803c-44b1-4669-8382-0f17b6d7120c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
