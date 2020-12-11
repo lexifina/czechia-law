@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "(nezadán)",
+  "ecli": "",
+  "docket": "30 C 231/2019-105",
+  "date": "2020-12-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2024-06-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e157fb33-b169-44c6-bd7d-2db36cc46579",
+  "source_sha256": "6a27324ccabd66a4bce73e3d672a1d6afba2393478d74b5c1e5088a6dd2a6c3b",
+  "source_id": "e157fb33-b169-44c6-bd7d-2db36cc46579",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 231/2019-105",
+    "soud": "(nezadán)",
+    "autor": "JUDr. Iveta Nývltová",
+    "ecli": "",
+    "predmetRizeni": "o přezkum oprávněnosti výpovědi nájmu nebytových prostor",
+    "datumVydani": "2020-12-11",
+    "datumZverejneni": "2024-06-06",
+    "klicovaSlova": [
+      "výpověď z nájmu",
+      "nebytový prostor",
+      "smlouva nájemní",
+      "společné jmění manželů",
+      "rozvod manželství",
+      "dlužné nájemné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 3 z. č. null/null Sb.",
+      "§ 2 z. č. null/null Sb.",
+      "§ 2314 z. č. null/null Sb.",
+      "§ 2309 z. č. null/null Sb.",
+      "§ 142 z. č. null/null Sb.",
+      "§ 9 vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. null/null Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e157fb33-b169-44c6-bd7d-2db36cc46579"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
