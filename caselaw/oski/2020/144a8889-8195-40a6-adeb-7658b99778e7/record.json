@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2020:21.C.306.2020.1",
+  "docket": "21 C 306/2020-27",
+  "date": "2020-12-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/144a8889-8195-40a6-adeb-7658b99778e7",
+  "source_sha256": "faac2e8ba46d3fd880845228ee2c3147c8cde9091ff64139d8ff815a5604be45",
+  "source_id": "144a8889-8195-40a6-adeb-7658b99778e7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 306/2020-27",
+    "soud": "Okresní soud v Karviné",
+    "autor": "Mgr. Jana Babušková",
+    "ecli": "ECLI:CZ:OSKI:2020:21.C.306.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2020-12-11",
+    "datumZverejneni": "2021-01-12",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/144a8889-8195-40a6-adeb-7658b99778e7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
