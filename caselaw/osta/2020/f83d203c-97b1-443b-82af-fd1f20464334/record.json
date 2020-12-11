@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2020:9.C.204.2020.1",
+  "docket": "9 C 204/2020-14",
+  "date": "2020-12-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f83d203c-97b1-443b-82af-fd1f20464334",
+  "source_sha256": "7a6805a1ba3ebfc54196c0eab43a42378e51701d61c6ba482659461ddfc48987",
+  "source_id": "f83d203c-97b1-443b-82af-fd1f20464334",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 204/2020-14",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Ivana Jakšičová",
+    "ecli": "ECLI:CZ:OSTA:2020:9.C.204.2020.1",
+    "predmetRizeni": "O zaplacení 1 116 Kč s příslušenstvím",
+    "datumVydani": "2020-12-11",
+    "datumZverejneni": "2021-02-02",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f83d203c-97b1-443b-82af-fd1f20464334"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
