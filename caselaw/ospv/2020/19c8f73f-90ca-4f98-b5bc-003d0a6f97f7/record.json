@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2020:15.C.183.2020.1",
+  "docket": "15 C 183/2020-48",
+  "date": "2020-12-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/19c8f73f-90ca-4f98-b5bc-003d0a6f97f7",
+  "source_sha256": "7e667a2756d3272c8a78af334d48998af417de74362c023f6dc2c63a381e4a2e",
+  "source_id": "19c8f73f-90ca-4f98-b5bc-003d0a6f97f7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 183/2020-48",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. Pavla Doupovcová",
+    "ecli": "ECLI:CZ:OSPV:2020:15.C.183.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-11",
+    "datumZverejneni": "2021-02-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozsudek pro uznání"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 153a z. č. 99/1963 Sb.",
+      "§ 114b z. č. 99/1963 Sb.",
+      "§ 99 z. č. 99/1963 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/19c8f73f-90ca-4f98-b5bc-003d0a6f97f7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
