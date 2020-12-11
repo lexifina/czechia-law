@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2020:7.C.96.2020.1",
+  "docket": "7 C 96/2020-56",
+  "date": "2020-12-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2afc9fa0-0b4c-4013-9d4b-1aaf7c143193",
+  "source_sha256": "9c880bfd0545ae3f81190b7fc9f6440a6256694bc86dfba1fbd20d748e8b286f",
+  "source_id": "2afc9fa0-0b4c-4013-9d4b-1aaf7c143193",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 96/2020-56",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Filip Janek",
+    "ecli": "ECLI:CZ:OSPY:2020:7.C.96.2020.1",
+    "predmetRizeni": "o zaplacení Kč 53.009, 15 s příslušenstvím",
+    "datumVydani": "2020-12-11",
+    "datumZverejneni": "2021-04-07",
+    "klicovaSlova": [
+      "ochrana spotřebitele",
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 122 z. č. 257/2016 Sb.",
+      "§ 1812 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2afc9fa0-0b4c-4013-9d4b-1aaf7c143193"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
