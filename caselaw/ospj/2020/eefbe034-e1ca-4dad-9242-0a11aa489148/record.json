@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPJ:2020:36.C.296.2020.1",
+  "docket": "36 C 296/2020-85",
+  "date": "2020-12-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/eefbe034-e1ca-4dad-9242-0a11aa489148",
+  "source_sha256": "65d32543d61b83c2657112018c9b0b89ed2fa60c96f0873e8d46a07b24c268e2",
+  "source_id": "eefbe034-e1ca-4dad-9242-0a11aa489148",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 296/2020-85",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Bc. Martin Havlík",
+    "ecli": "ECLI:CZ:OSPJ:2020:36.C.296.2020.1",
+    "predmetRizeni": "O zaplacení 4 969,68 Kč s příslušenstvím",
+    "datumVydani": "2020-12-11",
+    "datumZverejneni": "2021-01-25",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 96 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/eefbe034-e1ca-4dad-9242-0a11aa489148"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
