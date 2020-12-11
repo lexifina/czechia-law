@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPJ:2020:10.C.234.2020.2",
+  "docket": "10 C 234/2020-18",
+  "date": "2020-12-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/012cf24b-ea62-45a3-93f6-8df8b98f9700",
+  "source_sha256": "9c0019c9d0d86cadc8aaf7cf938a7a0b6daa33b249a19f1d8d22ab79510cc5fc",
+  "source_id": "012cf24b-ea62-45a3-93f6-8df8b98f9700",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 234/2020-18",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Blanka Šibrová",
+    "ecli": "ECLI:CZ:OSPJ:2020:10.C.234.2020.2",
+    "predmetRizeni": "1 000 Kč s přísl.",
+    "datumVydani": "2020-12-11",
+    "datumZverejneni": "2021-03-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/012cf24b-ea62-45a3-93f6-8df8b98f9700"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
