@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2020:13.C.357.2020.1",
+  "docket": "13 C 357/2020-11",
+  "date": "2020-12-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b0665977-65ac-434e-bdac-5150f9613ace",
+  "source_sha256": "bfc6f0611cafbbd7e55e31204a0e76534f156abf80d786f0367ec95bc494dafd",
+  "source_id": "b0665977-65ac-434e-bdac-5150f9613ace",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 357/2020-11",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Oldřich Umlauf",
+    "ecli": "ECLI:CZ:OSKV:2020:13.C.357.2020.1",
+    "predmetRizeni": "3 036 Kč / jízdné",
+    "datumVydani": "2020-12-11",
+    "datumZverejneni": "2021-02-09",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 115 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b0665977-65ac-434e-bdac-5150f9613ace"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
