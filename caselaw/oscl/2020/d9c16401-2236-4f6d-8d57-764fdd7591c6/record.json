@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2020:14.C.314.2019.2",
+  "docket": "14 C 314/2019-13",
+  "date": "2020-12-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d9c16401-2236-4f6d-8d57-764fdd7591c6",
+  "source_sha256": "2dbb147abd11c6d7c1b60a9a110f4079ce32fd0194cd4195e6546914df20da60",
+  "source_id": "d9c16401-2236-4f6d-8d57-764fdd7591c6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 314/2019-13",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "JUDr. Karel Mery",
+    "ecli": "ECLI:CZ:OSCL:2020:14.C.314.2019.2",
+    "predmetRizeni": "O zaplacení 13 308 Kč s příslušenstvím",
+    "datumVydani": "2020-12-14",
+    "datumZverejneni": "2021-03-05",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d9c16401-2236-4f6d-8d57-764fdd7591c6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
