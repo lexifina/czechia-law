@@ -1,0 +1,52 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2020:27.C.186.2019.4",
+  "docket": "27 C 186/2019-54",
+  "date": "2020-12-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3d2d470f-c602-409e-99e6-65efd33d2956",
+  "source_sha256": "f7c8c965b0d86438fc888e5621e22b875c1cc22121e90cb56c012e19e0a57d8c",
+  "source_id": "3d2d470f-c602-409e-99e6-65efd33d2956",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 186/2019-54",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Viktor Doležílek",
+    "ecli": "ECLI:CZ:OSOV:2020:27.C.186.2019.4",
+    "predmetRizeni": "o zaplacení 25 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-14",
+    "datumZverejneni": "2021-05-05",
+    "klicovaSlova": [
+      "lichva",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 657 z. č. 89/2012 Sb.",
+      "§ 658 z. č. 89/2012 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 573 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§  z. č. 321/2001 Sb.",
+      "§  nař. vl. č. 1215/2012 Sb.",
+      "§ 451 z. č. 89/2012 Sb.",
+      "§ 457 z. č. 89/2012 Sb.",
+      "§ 39 z. č. 89/2012 Sb.",
+      "§ 41 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 89/2012 Sb.",
+      "§ 3030 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3d2d470f-c602-409e-99e6-65efd33d2956"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
