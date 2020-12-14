@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2020:8.C.195.2020.2",
+  "docket": "8 C 195/2020-75",
+  "date": "2020-12-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3aa4db96-1cb8-402b-8319-86a4422b4294",
+  "source_sha256": "c7a721ce22a83613f000c668c8ba6c84e12281205fc1bc98481cdd44f45ab62d",
+  "source_id": "3aa4db96-1cb8-402b-8319-86a4422b4294",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 195/2020-75",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "JUDr. Soňa Nedbalová",
+    "ecli": "ECLI:CZ:OSBI:2020:8.C.195.2020.2",
+    "predmetRizeni": "O zaplacení 3 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-14",
+    "datumZverejneni": "2021-05-19",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "postoupení pohledávky",
+      "poučovací povinnost soudu",
+      "smlouva o půjčce",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3aa4db96-1cb8-402b-8319-86a4422b4294"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
