@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2020:19.C.112.2020.1",
+  "docket": "19 C 112/2020-33",
+  "date": "2020-12-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/77af32a2-389a-42c9-9bba-8ec414ab91dd",
+  "source_sha256": "4cf75e70d88362a190fbb308a74df639e1694e4126f3d1f22b9ee3a40af836d8",
+  "source_id": "77af32a2-389a-42c9-9bba-8ec414ab91dd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 112/2020-33",
+    "soud": "Okresní soud v Karviné",
+    "autor": "JUDr. Pavlína Jurášková",
+    "ecli": "ECLI:CZ:OSKI:2020:19.C.112.2020.1",
+    "predmetRizeni": "1 400 Kč",
+    "datumVydani": "2020-12-14",
+    "datumZverejneni": "2021-02-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 64 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/77af32a2-389a-42c9-9bba-8ec414ab91dd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
