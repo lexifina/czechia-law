@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:215.C.1.2020.1",
+  "docket": "215 C 1/2020-53",
+  "date": "2020-12-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/370f920f-687d-4b03-8388-f793eceed136",
+  "source_sha256": "534143fc5b53ccca15a7bc09f18465940f9ef93a7f6cb59c527c65770d19bd61",
+  "source_id": "370f920f-687d-4b03-8388-f793eceed136",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "215 C 1/2020-53",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Stanislav Pulkrab",
+    "ecli": "ECLI:CZ:MSBR:2020:215.C.1.2020.1",
+    "predmetRizeni": "zaplacení 11 061 Kč s příslušenstvím - nájemní smlouva",
+    "datumVydani": "2020-12-14",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2235 z. č. 89/2012 Sb.",
+      "§  nař. vl. č. 142/94 Sb.",
+      "§ 142 vyhl. č. 254/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/370f920f-687d-4b03-8388-f793eceed136"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
