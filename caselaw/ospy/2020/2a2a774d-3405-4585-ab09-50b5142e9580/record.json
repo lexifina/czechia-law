@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2020:34.C.239.2020.1",
+  "docket": "34 C 239/2020-11",
+  "date": "2020-12-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2a2a774d-3405-4585-ab09-50b5142e9580",
+  "source_sha256": "2ba7824c393f8dd1d5eab9277d0c15017e759bfb12f37338c8e4d3d349b768bd",
+  "source_id": "2a2a774d-3405-4585-ab09-50b5142e9580",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 239/2020-11",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Zuzana Brzobohatá",
+    "ecli": "ECLI:CZ:OSPY:2020:34.C.239.2020.1",
+    "predmetRizeni": "o zrušení výživného",
+    "datumVydani": "2020-12-14",
+    "datumZverejneni": "2021-01-28",
+    "klicovaSlova": [
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2a2a774d-3405-4585-ab09-50b5142e9580"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
