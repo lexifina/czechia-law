@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2020:16.C.21.2020.1",
+  "docket": "16 C 21/2020-48",
+  "date": "2020-12-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4d2c02b1-47e8-40e2-b128-8429d7b4227f",
+  "source_sha256": "98adf73f9590c9cb99f8799bb5afb41f830fe99da35c8e1e2a39054b9faf37d2",
+  "source_id": "4d2c02b1-47e8-40e2-b128-8429d7b4227f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 21/2020-48",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "JUDr. Dana Sobotková",
+    "ecli": "ECLI:CZ:OSKV:2020:16.C.21.2020.1",
+    "predmetRizeni": "13.079 Kč zápůjčka",
+    "datumVydani": "2020-12-14",
+    "datumZverejneni": "2021-02-03",
+    "klicovaSlova": [
+      "omezení svéprávnosti",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 19 z. č. 99/1963 Sb.",
+      "§ 20 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4d2c02b1-47e8-40e2-b128-8429d7b4227f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
