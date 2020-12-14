@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2020:16.C.244.2020.1",
+  "docket": "16 C 244/2020-26",
+  "date": "2020-12-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e3c1c70d-615d-4169-870c-074b51487bb0",
+  "source_sha256": "0e3d52a7a0353d52c0db5438f8294abc7a55f891239fb30b76bfe55afc1848e2",
+  "source_id": "e3c1c70d-615d-4169-870c-074b51487bb0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 244/2020-26",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "JUDr. Ivo Mikolajek",
+    "ecli": "ECLI:CZ:OSSY:2020:16.C.244.2020.1",
+    "predmetRizeni": "o zaplacení 8 908 Kč s příslušenstvím",
+    "datumVydani": "2020-12-14",
+    "datumZverejneni": "2021-06-24",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§  z. č. 257/2016 Sb.",
+      "§ 433 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e3c1c70d-615d-4169-870c-074b51487bb0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
