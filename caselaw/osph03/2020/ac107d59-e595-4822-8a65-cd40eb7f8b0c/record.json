@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 3",
+  "ecli": "ECLI:CZ:OSPH03:2020:7.C.201.2020.1",
+  "docket": "7 C 201/2020-40",
+  "date": "2020-12-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ac107d59-e595-4822-8a65-cd40eb7f8b0c",
+  "source_sha256": "d52caafa71c1db980b222d9c036682782b41521d6ab281db746b3ff9e461bd04",
+  "source_id": "ac107d59-e595-4822-8a65-cd40eb7f8b0c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 201/2020-40",
+    "soud": "Obvodní soud pro Prahu 3",
+    "autor": "Mgr. et Bc. Veronika Hlinková",
+    "ecli": "ECLI:CZ:OSPH03:2020:7.C.201.2020.1",
+    "predmetRizeni": "o vyklizení bytu",
+    "datumVydani": "2020-12-14",
+    "datumZverejneni": "2021-02-25",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ac107d59-e595-4822-8a65-cd40eb7f8b0c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
