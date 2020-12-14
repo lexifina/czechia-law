@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2020:10.C.222.2020.1",
+  "docket": "10 C 222/2020-32",
+  "date": "2020-12-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5a6810f5-fff7-4a98-b0af-20d210ef5af4",
+  "source_sha256": "d2759b594a65144851ea4149215620d9c158d1f5986673dbc8fca45a9bae7da5",
+  "source_id": "5a6810f5-fff7-4a98-b0af-20d210ef5af4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 222/2020-32",
+    "soud": "Okresní soud v Opavě",
+    "autor": "Mgr. Adam Haas",
+    "ecli": "ECLI:CZ:OSOP:2020:10.C.222.2020.1",
+    "predmetRizeni": "o výživné na manželku",
+    "datumVydani": "2020-12-14",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "příspěvek na bydlení",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 110 z. č. 99/1963 Sb.",
+      "§ 697 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5a6810f5-fff7-4a98-b0af-20d210ef5af4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
