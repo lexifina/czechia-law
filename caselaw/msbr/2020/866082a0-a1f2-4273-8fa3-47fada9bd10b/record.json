@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:19.C.125.2020.1",
+  "docket": "19 C 125/2020-30",
+  "date": "2020-12-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/866082a0-a1f2-4273-8fa3-47fada9bd10b",
+  "source_sha256": "e4a5f7494c21963ccdf775a977055f7e8ac56eb3ce65149a53b0a376f4ed274b",
+  "source_id": "866082a0-a1f2-4273-8fa3-47fada9bd10b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 125/2020-30",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Kateřina Gabrielová",
+    "ecli": "ECLI:CZ:MSBR:2020:19.C.125.2020.1",
+    "predmetRizeni": "zaplacení 3.050 Kč s příslušenstvím - pokuta",
+    "datumVydani": "2020-12-14",
+    "datumZverejneni": "2021-05-05",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/866082a0-a1f2-4273-8fa3-47fada9bd10b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
