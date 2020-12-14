@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2020:3.C.278.2020.1",
+  "docket": "3 C 278/2020-30",
+  "date": "2020-12-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1c98d0f4-5693-48c0-86ee-cc2f868edbaf",
+  "source_sha256": "6112ac3b2337fbd3f718ce8d7848088ab4a52ecdad353188e18589e005c208f3",
+  "source_id": "1c98d0f4-5693-48c0-86ee-cc2f868edbaf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 278/2020-30",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "JUDr. Martina Kűchlerová",
+    "ecli": "ECLI:CZ:OSNA:2020:3.C.278.2020.1",
+    "predmetRizeni": "o zaplacení 1.524 Kč s příslušenstvím",
+    "datumVydani": "2020-12-14",
+    "datumZverejneni": "2021-02-23",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1c98d0f4-5693-48c0-86ee-cc2f868edbaf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
