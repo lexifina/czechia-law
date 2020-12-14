@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2020:14.C.211.2020.1",
+  "docket": "14 C 211/2020-7",
+  "date": "2020-12-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/969d282f-1705-415e-85ee-574f1488832b",
+  "source_sha256": "b1521e11dcac48af3d36b008eb33583362eb35949ac268d1b33f77de69f4849d",
+  "source_id": "969d282f-1705-415e-85ee-574f1488832b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 211/2020-7",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "JUDr. Irena Šolínová",
+    "ecli": "ECLI:CZ:OSTU:2020:14.C.211.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-12-14",
+    "datumZverejneni": "2020-12-18",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 207 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/969d282f-1705-415e-85ee-574f1488832b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
