@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kroměříži",
+  "ecli": "ECLI:CZ:OSKM:2020:5.C.144.2020.4",
+  "docket": "5 C 144/2020-53",
+  "date": "2020-12-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/31c30fb1-dd62-4251-88c4-6a1ecc72dd4b",
+  "source_sha256": "97f7d557a358f09e8a7f76608149a589b89cc02e0b2fb3e24f87e99b636251ab",
+  "source_id": "31c30fb1-dd62-4251-88c4-6a1ecc72dd4b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 144/2020-53",
+    "soud": "Okresní soud v Kroměříži",
+    "autor": "Mgr. Jana Smýkalová",
+    "ecli": "ECLI:CZ:OSKM:2020:5.C.144.2020.4",
+    "predmetRizeni": "určení obsahu smlouvy, nahrazení projevu vůle uzavřít smlouvu o zřízení věcného břemene",
+    "datumVydani": "2020-12-14",
+    "datumZverejneni": "2021-01-14",
+    "klicovaSlova": [
+      "osobní služebnost",
+      "peněžité plnění",
+      "služebnost",
+      "smlouva o smlouvě budoucí",
+      "věcná břemena"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  z. č. 458/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/31c30fb1-dd62-4251-88c4-6a1ecc72dd4b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
