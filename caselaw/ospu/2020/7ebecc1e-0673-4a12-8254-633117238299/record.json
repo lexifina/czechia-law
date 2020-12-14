@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2020:11.C.319.2019.1",
+  "docket": "11 C 319/2019-52",
+  "date": "2020-12-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7ebecc1e-0673-4a12-8254-633117238299",
+  "source_sha256": "3ea224ecd619fe6485640bac7e8532d474eb1c2b28fc14b98c0d5b6d6ab46ec7",
+  "source_id": "7ebecc1e-0673-4a12-8254-633117238299",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 319/2019-52",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "Mgr. Monika Nečasová",
+    "ecli": "ECLI:CZ:OSPU:2020:11.C.319.2019.1",
+    "predmetRizeni": "O zaplacení 3 022,62 Kč s příslušenstvím",
+    "datumVydani": "2020-12-14",
+    "datumZverejneni": "2021-12-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o účtu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2662 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7ebecc1e-0673-4a12-8254-633117238299"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
