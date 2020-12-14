@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Berouně",
+  "ecli": "ECLI:CZ:OSBR:2020:13.C.153.2019.1",
+  "docket": "13 C 153/2019-52",
+  "date": "2020-12-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/42f7222b-f686-43d1-957f-7a3f9d367ada",
+  "source_sha256": "e4eccb28578d74bed23d9fcb431b729b11e093c6e9877554d290d3f4488781a7",
+  "source_id": "42f7222b-f686-43d1-957f-7a3f9d367ada",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 153/2019-52",
+    "soud": "Okresní soud v Berouně",
+    "autor": "JUDr. Tomáš Štindl",
+    "ecli": "ECLI:CZ:OSBR:2020:13.C.153.2019.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-12-14",
+    "datumZverejneni": "2021-01-28",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/42f7222b-f686-43d1-957f-7a3f9d367ada"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
