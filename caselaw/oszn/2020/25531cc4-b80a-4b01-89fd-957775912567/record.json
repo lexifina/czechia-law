@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2020:4.C.222.2020.1",
+  "docket": "4 C 222/2020-46",
+  "date": "2020-12-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/25531cc4-b80a-4b01-89fd-957775912567",
+  "source_sha256": "8570279491bce0cd772303e4566d6c086f604daccc77d7ee8ec74c4f7985aae7",
+  "source_id": "25531cc4-b80a-4b01-89fd-957775912567",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 222/2020-46",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "JUDr. Jaroslav Kouba",
+    "ecli": "ECLI:CZ:OSZN:2020:4.C.222.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2020-12-14",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 2759 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/25531cc4-b80a-4b01-89fd-957775912567"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
