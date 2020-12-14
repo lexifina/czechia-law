@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:13.C.168.2020.1",
+  "docket": "13 C 168/2020-27",
+  "date": "2020-12-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ae3ebca0-015f-493b-a4ef-2f2901598c62",
+  "source_sha256": "2155f6e09ad90779ac307e0af40e572cd77e5c3ef5f6e1b72706e8e4422ae672",
+  "source_id": "ae3ebca0-015f-493b-a4ef-2f2901598c62",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 168/2020-27",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Jiří Pitrun",
+    "ecli": "ECLI:CZ:MSBR:2020:13.C.168.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím - faktura",
+    "datumVydani": "2020-12-14",
+    "datumZverejneni": "2021-01-25",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ae3ebca0-015f-493b-a4ef-2f2901598c62"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
