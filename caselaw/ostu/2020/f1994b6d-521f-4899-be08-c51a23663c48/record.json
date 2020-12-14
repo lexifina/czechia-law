@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2020:15.C.227.2020.1",
+  "docket": "15 C 227/2020-38",
+  "date": "2020-12-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f1994b6d-521f-4899-be08-c51a23663c48",
+  "source_sha256": "9424ebefcc1459fc5c9cc644f5b1294631f529ae694adb9ea1fbaa5f94271c07",
+  "source_id": "f1994b6d-521f-4899-be08-c51a23663c48",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 227/2020-38",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "JUDr. Michaela Koblasová",
+    "ecli": "ECLI:CZ:OSTU:2020:15.C.227.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím - úvěr",
+    "datumVydani": "2020-12-14",
+    "datumZverejneni": "2021-02-10",
+    "klicovaSlova": [
+      "elektronický platební rozkaz",
+      "obchodní podíl",
+      "peněžité plnění",
+      "platební rozkaz",
+      "přistoupení k dluhu",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1892 z. č. 89/2012 Sb.",
+      "§ 1872 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f1994b6d-521f-4899-be08-c51a23663c48"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
