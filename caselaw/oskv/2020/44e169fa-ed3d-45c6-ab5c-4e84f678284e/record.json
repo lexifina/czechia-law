@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2020:17.C.117.2020.1",
+  "docket": "17 C 117/2020-93",
+  "date": "2020-12-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/44e169fa-ed3d-45c6-ab5c-4e84f678284e",
+  "source_sha256": "ead7f8cd1e1d1fc222b55aa1751bca5e268baa302b015c6fc169dcc705ad80d2",
+  "source_id": "44e169fa-ed3d-45c6-ab5c-4e84f678284e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 117/2020-93",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Ondřej Doubek",
+    "ecli": "ECLI:CZ:OSKV:2020:17.C.117.2020.1",
+    "predmetRizeni": "vypořádání SJM",
+    "datumVydani": "2020-12-14",
+    "datumZverejneni": "2021-02-02",
+    "klicovaSlova": [
+      "jmění",
+      "podílové spoluvlastnictví",
+      "rozvod manželství",
+      "smlouva o zápůjčce",
+      "spoluvlastnictví",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 395 z. č. 292/2013 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 741 z. č. 89/2012 Sb.",
+      "§ 740 z. č. 89/2012 Sb.",
+      "§ 159 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/44e169fa-ed3d-45c6-ab5c-4e84f678284e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
