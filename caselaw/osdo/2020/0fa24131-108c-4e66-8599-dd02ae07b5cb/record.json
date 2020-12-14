@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2020:17.C.78.2020.1",
+  "docket": "17 C 78/2020-18",
+  "date": "2020-12-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0fa24131-108c-4e66-8599-dd02ae07b5cb",
+  "source_sha256": "5580c74cd2d8244f391e8bbe36ce98c4a3965e10e3eaf12e33b16ede1bc57aa6",
+  "source_id": "0fa24131-108c-4e66-8599-dd02ae07b5cb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 78/2020-18",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "JUDr. Michal Sýkora",
+    "ecli": "ECLI:CZ:OSDO:2020:17.C.78.2020.1",
+    "predmetRizeni": "O zaplacení 17 006 Kč s příslušenstvím",
+    "datumVydani": "2020-12-14",
+    "datumZverejneni": "2021-01-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 2396 z. č. 89/2012 Sb.",
+      "§ 576 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0fa24131-108c-4e66-8599-dd02ae07b5cb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
