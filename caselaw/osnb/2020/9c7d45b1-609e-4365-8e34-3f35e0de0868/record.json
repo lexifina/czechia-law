@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Nymburce",
+  "ecli": "ECLI:CZ:OSNB:2020:17.C.201.2020.1",
+  "docket": "17 C 201/2020-25",
+  "date": "2020-12-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9c7d45b1-609e-4365-8e34-3f35e0de0868",
+  "source_sha256": "6cdb3bce075bff9f73f9dd056d0b27ac7ce519739f7311ce1395d5e0263a906f",
+  "source_id": "9c7d45b1-609e-4365-8e34-3f35e0de0868",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 201/2020-25",
+    "soud": "Okresní soud v Nymburce",
+    "autor": "Mgr. Tereza Brandová",
+    "ecli": "ECLI:CZ:OSNB:2020:17.C.201.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-14",
+    "datumZverejneni": "2021-02-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "rozsudek pro uznání",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 99 z. č. 99/1963 Sb.",
+      "§ 153 z. č. 99/1963 Sb.",
+      "§ 153o z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9c7d45b1-609e-4365-8e34-3f35e0de0868"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
