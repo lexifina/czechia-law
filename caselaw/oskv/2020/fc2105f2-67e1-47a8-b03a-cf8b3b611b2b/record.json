@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2020:9.C.348.2020.1",
+  "docket": "9 C 348/2020-15",
+  "date": "2020-12-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fc2105f2-67e1-47a8-b03a-cf8b3b611b2b",
+  "source_sha256": "2922db055bcf9fae71e906060e38af1199fc40d20b6cdcb83e8e58ae60af48f6",
+  "source_id": "fc2105f2-67e1-47a8-b03a-cf8b3b611b2b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 348/2020-15",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Bc. Lukáš Ludvík",
+    "ecli": "ECLI:CZ:OSKV:2020:9.C.348.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-12-14",
+    "datumZverejneni": "2021-02-22",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fc2105f2-67e1-47a8-b03a-cf8b3b611b2b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
