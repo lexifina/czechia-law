@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2020:20.C.320.2020.1",
+  "docket": "20 C 320/2020-23",
+  "date": "2020-12-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b9fdbc71-28e4-4516-9b83-92997bccdfe6",
+  "source_sha256": "937e5bc693f9c46085d70132c2409b0934df29d7f29892d1076529769f94da58",
+  "source_id": "b9fdbc71-28e4-4516-9b83-92997bccdfe6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 320/2020-23",
+    "soud": "Okresní soud v Karviné",
+    "autor": "Mgr. Tomáš Ožana",
+    "ecli": "ECLI:CZ:OSKI:2020:20.C.320.2020.1",
+    "predmetRizeni": "23 734 Kč s příslušenstvím",
+    "datumVydani": "2020-12-14",
+    "datumZverejneni": "2021-02-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2201 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b9fdbc71-28e4-4516-9b83-92997bccdfe6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
