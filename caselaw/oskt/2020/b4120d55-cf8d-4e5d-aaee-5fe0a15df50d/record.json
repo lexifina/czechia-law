@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2020:9.C.275.2020.1",
+  "docket": "9 C 275/2020-57",
+  "date": "2020-12-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b4120d55-cf8d-4e5d-aaee-5fe0a15df50d",
+  "source_sha256": "9e36bd7100e388fc22fbe214a592ba10941548149d57241771450664e9c59706",
+  "source_id": "b4120d55-cf8d-4e5d-aaee-5fe0a15df50d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 275/2020-57",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "JUDr. Vlasta Pešková",
+    "ecli": "ECLI:CZ:OSKT:2020:9.C.275.2020.1",
+    "predmetRizeni": "zaplacení [částka]",
+    "datumVydani": "2020-12-14",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2079 o.z. z. č. 0/0 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b4120d55-cf8d-4e5d-aaee-5fe0a15df50d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
