@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2020:7.C.384.2020.2",
+  "docket": "7 C 384/2020-18",
+  "date": "2020-12-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f5726ebf-067d-49c0-b4fe-3b5aa13e6b70",
+  "source_sha256": "db931d840a1b2d9847813f9d05581431b258e0bfbbd6324f59f58fd8735f5fc2",
+  "source_id": "f5726ebf-067d-49c0-b4fe-3b5aa13e6b70",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 384/2020-18",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "JUDr. Martina Burachovičová",
+    "ecli": "ECLI:CZ:OSSO:2020:7.C.384.2020.2",
+    "predmetRizeni": "zaplacení 1 544 Kč s příslušenstvím",
+    "datumVydani": "2020-12-14",
+    "datumZverejneni": "2021-02-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 13 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f5726ebf-067d-49c0-b4fe-3b5aa13e6b70"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
