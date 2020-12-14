@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2020:28.C.320.2020.1",
+  "docket": "28 C 320/2020-31",
+  "date": "2020-12-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cb621893-fe62-4495-8394-27d469c870fc",
+  "source_sha256": "3eac585a07d90e28a2e73cfbb0e0ec7952b33faff3cf78f36ee78b6523241e43",
+  "source_id": "cb621893-fe62-4495-8394-27d469c870fc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 320/2020-31",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Kateřina Auterská šašková",
+    "ecli": "ECLI:CZ:OSPM:2020:28.C.320.2020.1",
+    "predmetRizeni": "O zaplacení 30 663,58 Kč s příslušenstvím",
+    "datumVydani": "2020-12-14",
+    "datumZverejneni": "2021-02-18",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 9 vyhl. č. 82/2011 Sb.",
+      "§ 51 z. č. 458/2000 Sb.",
+      "§ 25 z. č. 458/2000 Sb.",
+      "§ 55 z. č. 458/2000 Sb.",
+      "§ 53 z. č. 458/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cb621893-fe62-4495-8394-27d469c870fc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
