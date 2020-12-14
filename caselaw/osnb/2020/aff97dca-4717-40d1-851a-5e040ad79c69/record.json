@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Nymburce",
+  "ecli": "ECLI:CZ:OSNB:2020:17.C.210.2020.1",
+  "docket": "17 C 210/2020-43",
+  "date": "2020-12-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/aff97dca-4717-40d1-851a-5e040ad79c69",
+  "source_sha256": "4ac793bd08683fb433704dcc4d5723d70a1e8fcb5526bf1ac356b2d9a3bf05be",
+  "source_id": "aff97dca-4717-40d1-851a-5e040ad79c69",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 210/2020-43",
+    "soud": "Okresní soud v Nymburce",
+    "autor": "Mgr. Tereza Brandová",
+    "ecli": "ECLI:CZ:OSNB:2020:17.C.210.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-14",
+    "datumZverejneni": "2021-02-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pěstounská péče",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 1880 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/aff97dca-4717-40d1-851a-5e040ad79c69"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
