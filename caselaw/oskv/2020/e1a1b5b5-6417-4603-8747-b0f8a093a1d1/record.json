@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2020:19.C.187.2020.1",
+  "docket": "19 C 187/2020-11",
+  "date": "2020-12-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e1a1b5b5-6417-4603-8747-b0f8a093a1d1",
+  "source_sha256": "c55677831df08ad067e254adba52e937631ce58596de75dc93f70ecfc981672b",
+  "source_id": "e1a1b5b5-6417-4603-8747-b0f8a093a1d1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 187/2020-11",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Aleš Fikker",
+    "ecli": "ECLI:CZ:OSKV:2020:19.C.187.2020.1",
+    "predmetRizeni": "2.441 Kč / pojistné",
+    "datumVydani": "2020-12-14",
+    "datumZverejneni": "2021-02-26",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e1a1b5b5-6417-4603-8747-b0f8a093a1d1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
