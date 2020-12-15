@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2020:17.C.205.2020.1",
+  "docket": "17 C 205/2020-65",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cdab7e82-00c4-4184-a98b-73a67582926f",
+  "source_sha256": "01e6e2c1a59d749154d97c2d03e1c422427525af28aa7e05bba31790d9192df8",
+  "source_id": "cdab7e82-00c4-4184-a98b-73a67582926f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 205/2020-65",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "JUDr. Petr Kulawiak",
+    "ecli": "ECLI:CZ:OSPM:2020:17.C.205.2020.1",
+    "predmetRizeni": "55.202 Kč s přísl.",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-08-12",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 576 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cdab7e82-00c4-4184-a98b-73a67582926f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
