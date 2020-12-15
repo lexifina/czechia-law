@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:14.C.143.2020.1",
+  "docket": "14 C 143/2020-48",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/562b820c-1fef-4f2b-817e-cb2cefb4fb0e",
+  "source_sha256": "56b6c83666d5b265d9499b86196ea087ee877d0f806f27bdb114528c2218562f",
+  "source_id": "562b820c-1fef-4f2b-817e-cb2cefb4fb0e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 143/2020-48",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Michaela Silnická",
+    "ecli": "ECLI:CZ:MSBR:2020:14.C.143.2020.1",
+    "predmetRizeni": "zaplacení 150.000 Kč s příslušenstvím - náhrada škody",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-11-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 79 z. č. 99/1963 Sb.",
+      "§ 24 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/562b820c-1fef-4f2b-817e-cb2cefb4fb0e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
