@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2020:35.C.329.2020.1",
+  "docket": "35 C 329/2020-14",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9fecb85a-bcd3-4740-8694-616b2cdb4634",
+  "source_sha256": "1864769444c5602b6a2de7b9e0ce59c3dbd7bc48940818eef52b1e27b180bc54",
+  "source_id": "9fecb85a-bcd3-4740-8694-616b2cdb4634",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "35 C 329/2020-14",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "JUDr. Martina Kocábová",
+    "ecli": "ECLI:CZ:OSZL:2020:35.C.329.2020.1",
+    "predmetRizeni": "zaplacení 1 524 Kč s příslušenstvím",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-01-15",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  vyhl. č. 175/2000 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9fecb85a-bcd3-4740-8694-616b2cdb4634"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
