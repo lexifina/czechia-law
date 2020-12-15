@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2020:34.C.342.2020.2",
+  "docket": "34 C 342/2020-24",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b209ebb2-3ea5-428b-85d9-b36f153dc97f",
+  "source_sha256": "e19f1fa792b6a3b72afbccd9d9cd9457649d948e7ca9f733956be2e5d382ec4d",
+  "source_id": "b209ebb2-3ea5-428b-85d9-b36f153dc97f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 342/2020-24",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Alice Karpíšková",
+    "ecli": "ECLI:CZ:OSUL:2020:34.C.342.2020.2",
+    "predmetRizeni": "O zaplacení 2 228,07 Kč s příslušenstvím",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-03-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 1815 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 2271 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b209ebb2-3ea5-428b-85d9-b36f153dc97f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
