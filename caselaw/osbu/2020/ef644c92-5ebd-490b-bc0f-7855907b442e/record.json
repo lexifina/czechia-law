@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2020:18.C.52.2020.1",
+  "docket": "18 C 52/2020-31",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ef644c92-5ebd-490b-bc0f-7855907b442e",
+  "source_sha256": "02f6d368937ecad525fae510bfa0c8fc6cea10b9eb06b0ec233d64f42e8c5d7e",
+  "source_id": "ef644c92-5ebd-490b-bc0f-7855907b442e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 52/2020-31",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "Mgr. Jana Tihelková",
+    "ecli": "ECLI:CZ:OSBU:2020:18.C.52.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-01-27",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§  755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ef644c92-5ebd-490b-bc0f-7855907b442e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
