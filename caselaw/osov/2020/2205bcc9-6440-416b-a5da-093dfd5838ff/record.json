@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2020:118.C.39.2020.4",
+  "docket": "118 C 39/2020-29",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2205bcc9-6440-416b-a5da-093dfd5838ff",
+  "source_sha256": "76dcdd387dd8608069e85fdd03a564b530e528a1b28533e67b1a6d093abc88b1",
+  "source_id": "2205bcc9-6440-416b-a5da-093dfd5838ff",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "118 C 39/2020-29",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Marek Vlaškovský",
+    "ecli": "ECLI:CZ:OSOV:2020:118.C.39.2020.4",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-04-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§  z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2205bcc9-6440-416b-a5da-093dfd5838ff"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
