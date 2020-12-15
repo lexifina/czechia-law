@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2020:12.C.11.2020.1",
+  "docket": "12 C 11/2020-12",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/65a671fb-1c04-487a-864a-d0a398cb6ce3",
+  "source_sha256": "4cc42308475e0891e3279c2c73616773c2291a9fc4ada70fa2e42a2995f9f91c",
+  "source_id": "65a671fb-1c04-487a-864a-d0a398cb6ce3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 11/2020-12",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Karin Vrchová, , MBA",
+    "ecli": "ECLI:CZ:OSVY:2020:12.C.11.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-02-08",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/65a671fb-1c04-487a-864a-d0a398cb6ce3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
