@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2020:52.C.309.2020.1",
+  "docket": "52 C 309/2020-18",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5741b084-02d3-446e-ac9b-7da03f42ac93",
+  "source_sha256": "2b2e6917f442203b1a3032a6b37f54943d32648b2989d5bd38ce137c5da22d87",
+  "source_id": "5741b084-02d3-446e-ac9b-7da03f42ac93",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "52 C 309/2020-18",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "Mgr. Katarína Kuhnová",
+    "ecli": "ECLI:CZ:OSPH09:2020:52.C.309.2020.1",
+    "predmetRizeni": "O zaplacení 4 228 Kč s příslušenstvím",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 549/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5741b084-02d3-446e-ac9b-7da03f42ac93"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
