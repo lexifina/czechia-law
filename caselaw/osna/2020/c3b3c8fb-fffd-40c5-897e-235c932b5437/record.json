@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2008:12.C.48.2020.1",
+  "docket": "12 C 48/2020-29",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c3b3c8fb-fffd-40c5-897e-235c932b5437",
+  "source_sha256": "41c3bd554630ee044ae788ec1c54f6399e7413da2a465898c5090fe8420d6df8",
+  "source_id": "c3b3c8fb-fffd-40c5-897e-235c932b5437",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 48/2020-29",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "Mgr. Magdaléna Renfus, LLM.",
+    "ecli": "ECLI:CZ:OSNA:2008:12.C.48.2020.1",
+    "predmetRizeni": "o zaplacení 2.770 Kč s příslušenstvím (pojistné)",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-02-23",
+    "klicovaSlova": [
+      "místní příslušnost",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2783 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 85 z. č. 99/1963 Sb.",
+      "§  nař. vl. č. 1215/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c3b3c8fb-fffd-40c5-897e-235c932b5437"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
