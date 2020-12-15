@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2020:4.C.307.2020.1",
+  "docket": "4 C 307/2020-20",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e43cdc16-ca9d-40fb-9c81-fd07094af609",
+  "source_sha256": "925fa27531ae040bba21adaaa4a75ea598d5959620da1c9215a53ffec73fe947",
+  "source_id": "e43cdc16-ca9d-40fb-9c81-fd07094af609",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 307/2020-20",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Petr Šimek",
+    "ecli": "ECLI:CZ:OSBN:2020:4.C.307.2020.1",
+    "predmetRizeni": "o zaplacení 1 042 Kč s příslušenstvím",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-03-12",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 12/1 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e43cdc16-ca9d-40fb-9c81-fd07094af609"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
