@@ -1,0 +1,49 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2020:6.C.239.2020.1",
+  "docket": "6 C 239/2020-25",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/06b92407-7b34-4ec8-909f-a9e6443f419c",
+  "source_sha256": "7f33c8258aaa24436929ce1f58e7fb2722188a0c1febd501e20d30a5c1cc43b0",
+  "source_id": "06b92407-7b34-4ec8-909f-a9e6443f419c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 239/2020-25",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "JUDr. Renata Polanská",
+    "ecli": "ECLI:CZ:OSPU:2020:6.C.239.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-02-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pozemní komunikace"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 vyhl. č. 205/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 2a vyhl. č. 205/1999 Sb.",
+      "§ 15 z. č. 168/1999 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb.",
+      "§ 13 vyhl. č. 177/96 Sb.",
+      "§ 2780 z. č. 89/2012 Sb.",
+      "§ 2803 z. č. 89/2012 Sb.",
+      "§ 13 z. č. 99/1963 Sb.",
+      "§ 2781 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/06b92407-7b34-4ec8-909f-a9e6443f419c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
