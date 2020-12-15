@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2020:11.C.247.2020.1",
+  "docket": "11 C 247/2020-21",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/50406b6c-0359-4837-b09a-094e29288fc8",
+  "source_sha256": "29cc833cb1540eda31e2e60dd459c2fa775833a5a09c489000ee5cd06e65c9a8",
+  "source_id": "50406b6c-0359-4837-b09a-094e29288fc8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 247/2020-21",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "JUDr. David Kolumber, Ph.D.",
+    "ecli": "ECLI:CZ:OSZL:2020:11.C.247.2020.1",
+    "predmetRizeni": "zaplacení 2 000 Kč",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-02-05",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "ochrana spotřebitele",
+      "postoupení pohledávky",
+      "smlouva spotřebitelská",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§  z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/50406b6c-0359-4837-b09a-094e29288fc8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
