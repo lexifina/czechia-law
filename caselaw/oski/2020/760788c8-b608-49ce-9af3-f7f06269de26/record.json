@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2020:17.C.190.2020.1",
+  "docket": "17 C 190/2020-37",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/760788c8-b608-49ce-9af3-f7f06269de26",
+  "source_sha256": "738365a93b79766f04f6954d8286dd679950c98886f28a1a8daa12c3fe526bba",
+  "source_id": "760788c8-b608-49ce-9af3-f7f06269de26",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 190/2020-37",
+    "soud": "Okresní soud v Karviné",
+    "autor": "Mgr. Irena Trombiková",
+    "ecli": "ECLI:CZ:OSKI:2020:17.C.190.2020.1",
+    "predmetRizeni": "2 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-03-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 629 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 618/2004 Sb.",
+      "§ 624 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/760788c8-b608-49ce-9af3-f7f06269de26"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
