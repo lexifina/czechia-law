@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2020:3.C.226.2020.1",
+  "docket": "3 C 226/2020-18",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3f72f632-c317-48e6-8b27-dd0fe9c9d846",
+  "source_sha256": "60b43a30ab2263bbfc681446b27ce18cd59a0c235a5a357fb41f757d8c2afbd0",
+  "source_id": "3f72f632-c317-48e6-8b27-dd0fe9c9d846",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 226/2020-18",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "Vladimír Matějíček",
+    "ecli": "ECLI:CZ:OSDO:2020:3.C.226.2020.1",
+    "predmetRizeni": "O zaplacení 1 895 Kč s příslušenstvím",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-01-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 85 z. č. 99/1963 Sb.",
+      "§  z. č. 168/99 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3f72f632-c317-48e6-8b27-dd0fe9c9d846"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
