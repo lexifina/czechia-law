@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jičíně",
+  "ecli": "ECLI:CZ:OSJC:2020:3.C.211.2020.1",
+  "docket": "3 C 211/2020-70",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0b8ebf5b-914b-4f75-99f3-8a46a2152309",
+  "source_sha256": "5838988230a0d30b3267a8d9ffc4bdea7cdca4675eb268fb282720b32c96275e",
+  "source_id": "0b8ebf5b-914b-4f75-99f3-8a46a2152309",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 211/2020-70",
+    "soud": "Okresní soud v Jičíně",
+    "autor": "JUDr. Drahomíra Šorfová",
+    "ecli": "ECLI:CZ:OSJC:2020:3.C.211.2020.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-01-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§ 14a vyhl. č. 177/1996 Sb.",
+      "§ 23a z. č. 85/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0b8ebf5b-914b-4f75-99f3-8a46a2152309"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
