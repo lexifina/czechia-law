@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2020:18.C.303.2020.2",
+  "docket": "18 C 303/2020-14",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/eabad222-ecab-4ec1-a763-1c58daab84b2",
+  "source_sha256": "7e8dbb81fe36142866bed0ad269651c1b10c9c2463bac173b0a1e0e1adcec1e7",
+  "source_id": "eabad222-ecab-4ec1-a763-1c58daab84b2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 303/2020-14",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Eva Hermanová",
+    "ecli": "ECLI:CZ:OSCV:2020:18.C.303.2020.2",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím (pojištění)",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-02-09",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/eabad222-ecab-4ec1-a763-1c58daab84b2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
