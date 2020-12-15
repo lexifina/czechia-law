@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2020:5.C.235.2020.1",
+  "docket": "5 C 235/2020-56",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/82460bcc-d917-4b0c-a128-6a3cc4acf5c4",
+  "source_sha256": "608bd165738a5f0cd46f5758644c492c5dc22d675d4706a789f29628da8f1836",
+  "source_id": "82460bcc-d917-4b0c-a128-6a3cc4acf5c4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 235/2020-56",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "JUDr. Ludmila Koubová",
+    "ecli": "ECLI:CZ:OSZN:2020:5.C.235.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-01-18",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/82460bcc-d917-4b0c-a128-6a3cc4acf5c4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
