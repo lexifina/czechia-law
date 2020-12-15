@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jičíně",
+  "ecli": "ECLI:CZ:OSJC:2020:7.C.212.2020.1",
+  "docket": "7 C 212/2020",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f38bc3ab-3097-4871-8445-10957ca8f7c7",
+  "source_sha256": "ed788afb4ce1976a3e54ebbd0c5882b049bf5d52279517132e29831a776afb4a",
+  "source_id": "f38bc3ab-3097-4871-8445-10957ca8f7c7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 212/2020",
+    "soud": "Okresní soud v Jičíně",
+    "autor": "JUDr. Jana Valentová",
+    "ecli": "ECLI:CZ:OSJC:2020:7.C.212.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-02-15",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f38bc3ab-3097-4871-8445-10957ca8f7c7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
