@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2020:10.C.266.2020.1",
+  "docket": "10 C 266/2020-20",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1c4d390e-e9e6-43c7-bc62-701c8cd70ebd",
+  "source_sha256": "ff960a0a1d311e76ea21226f122d7fc8b2b99056088d58b90279ca9f8282ea27",
+  "source_id": "1c4d390e-e9e6-43c7-bc62-701c8cd70ebd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 266/2020-20",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "JUDr. Pavel Vlach, Ph.D.",
+    "ecli": "ECLI:CZ:OSJN:2020:10.C.266.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-01-20",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb.",
+      "§ 49 vyhl. č. 175/2000 Sb.",
+      "§ 2550 z. č. 266/1994 Sb.",
+      "§  z. č. 175/2002 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1c4d390e-e9e6-43c7-bc62-701c8cd70ebd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
