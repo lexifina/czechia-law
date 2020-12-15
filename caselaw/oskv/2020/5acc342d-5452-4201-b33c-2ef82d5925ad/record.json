@@ -1,0 +1,50 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2020:12.C.304.2020.1",
+  "docket": "12 C 304/2020",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5acc342d-5452-4201-b33c-2ef82d5925ad",
+  "source_sha256": "80b502a5317915bbf78a8b943e457bf03e57c9d3fa9ca39f397ddf77d7384edd",
+  "source_id": "5acc342d-5452-4201-b33c-2ef82d5925ad",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 304/2020",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "JUDr. Radomír Kubelka",
+    "ecli": "ECLI:CZ:OSKV:2020:12.C.304.2020.1",
+    "predmetRizeni": "75.307,52 Kč / úvěr",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-02-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o půjčce",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 1815 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 89/2012 Sb.",
+      "§ 1814 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 6 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5acc342d-5452-4201-b33c-2ef82d5925ad"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
