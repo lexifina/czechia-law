@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2020:25.C.70.2015.4",
+  "docket": "25 C 70/2015-181",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/74b0b13e-0781-4342-b923-c80aa25a9712",
+  "source_sha256": "bdbbf9c27e75392765bd5cdab4e2a2e81afad002d4c124756f85a8020233f46b",
+  "source_id": "74b0b13e-0781-4342-b923-c80aa25a9712",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 70/2015-181",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Andrea Pěničková",
+    "ecli": "ECLI:CZ:OSDC:2020:25.C.70.2015.4",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-06-14",
+    "klicovaSlova": [
+      "jízdné",
+      "pasivní legitimace",
+      "peněžité plnění",
+      "podílové spoluvlastnictví",
+      "pozůstalost",
+      "spoluvlastnictví"
+    ],
+    "zminenaUstanoveni": [
+      "§ 151 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 74 z. č. 458/2000 Sb.",
+      "§ 57 vyhl. č. 365/2009 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/74b0b13e-0781-4342-b923-c80aa25a9712"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
