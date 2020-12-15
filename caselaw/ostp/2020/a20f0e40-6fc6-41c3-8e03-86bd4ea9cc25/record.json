@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2020:19.C.263.2020.1",
+  "docket": "19 C 263/2020-35",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a20f0e40-6fc6-41c3-8e03-86bd4ea9cc25",
+  "source_sha256": "ca19913e5db078f1126dcbb273383b70c3ffce2465832ad139d8ba38171c49e2",
+  "source_id": "a20f0e40-6fc6-41c3-8e03-86bd4ea9cc25",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 263/2020-35",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "Mgr. Eva Merhová",
+    "ecli": "ECLI:CZ:OSTP:2020:19.C.263.2020.1",
+    "predmetRizeni": "zaplacení 1 704 Kč",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-01-18",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 64 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a20f0e40-6fc6-41c3-8e03-86bd4ea9cc25"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
