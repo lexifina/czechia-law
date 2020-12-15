@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2020:24.C.282.2016.6",
+  "docket": "24 C 282/2016-416",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5be3ad00-cbea-4216-8171-e9ae59625dcc",
+  "source_sha256": "c976cdafd1ce0cfd8bd04fa1c819d2ffeca93a8a63b84d89c1aea6d87234c862",
+  "source_id": "5be3ad00-cbea-4216-8171-e9ae59625dcc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 282/2016-416",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "Mgr. Jana Kesslerová",
+    "ecli": "ECLI:CZ:OSPH08:2020:24.C.282.2016.6",
+    "predmetRizeni": "na určení neplatnosti Dohody o převodu členských práv a povinností",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-04-12",
+    "klicovaSlova": [
+      "družstevní byt",
+      "dědění",
+      "dohoda o převodu členských práv a povinností",
+      "nájem bytu",
+      "pozůstalost",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§  z. č. 513/1991 Sb.",
+      "§ 154 z. č. 99/1963 Sb.",
+      "§ 601 z. č. 90/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5be3ad00-cbea-4216-8171-e9ae59625dcc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
