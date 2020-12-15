@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2020:24.C.212.2020.1",
+  "docket": "24 C 212/2020-57",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/25a546b3-4203-4a5a-ab21-401e0e650247",
+  "source_sha256": "e6dee6cfabb6192cfb5d756b5b240395668eb859297a551c4ecbcc3b3d5123c5",
+  "source_id": "25a546b3-4203-4a5a-ab21-401e0e650247",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 212/2020-57",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "JUDr. Eva Rybářová",
+    "ecli": "ECLI:CZ:OSPH04:2020:24.C.212.2020.1",
+    "predmetRizeni": "zaplacení 1 421 732,23 Kč",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-02-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva nájemní",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 449/1991 Sb.",
+      "§  z. č. 110/1998 Sb.",
+      "§ 20a z. č. 235/2004 Sb.",
+      "§ 6 z. č. 240/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/25a546b3-4203-4a5a-ab21-401e0e650247"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
