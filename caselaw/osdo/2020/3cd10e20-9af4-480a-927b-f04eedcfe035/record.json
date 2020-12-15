@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2020:3.C.253.2020.1",
+  "docket": "3 C 253/2020-45",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3cd10e20-9af4-480a-927b-f04eedcfe035",
+  "source_sha256": "0a246f572208015663e803595a5da16cb16ae8cd7ddb7dd414d2e88e9c409096",
+  "source_id": "3cd10e20-9af4-480a-927b-f04eedcfe035",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 253/2020-45",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "Vladimír Matějíček",
+    "ecli": "ECLI:CZ:OSDO:2020:3.C.253.2020.1",
+    "predmetRizeni": "o zapl. 34 718,01 Kč s přísl.",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-01-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§  z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3cd10e20-9af4-480a-927b-f04eedcfe035"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
