@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kroměříži",
+  "ecli": "ECLI:CZ:OSKM:2020:11.C.178.2020.1",
+  "docket": "11 C 178/2020-32",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bad8c0ce-4cde-485d-a14f-883dd8a7d046",
+  "source_sha256": "7cd36e928775086d42bc34cca9b9f7392f3b9893c00f2db16dcf8283ee09a978",
+  "source_id": "bad8c0ce-4cde-485d-a14f-883dd8a7d046",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 178/2020-32",
+    "soud": "Okresní soud v Kroměříži",
+    "autor": "Mgr. Jarmila Gajdošová",
+    "ecli": "ECLI:CZ:OSKM:2020:11.C.178.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-03-07",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 174a z. č. 99/1963 Sb.",
+      "§ 46a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 75/2000 Sb.",
+      "§ 2550a z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bad8c0ce-4cde-485d-a14f-883dd8a7d046"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
