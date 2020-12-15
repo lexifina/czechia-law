@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2020:13.C.271.2020.3",
+  "docket": "13 C 271/2020-63",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/08e125e9-d6bc-408d-974f-608297512a90",
+  "source_sha256": "5b97014dbffc790110b3092677d8fa3db4303f2cd26c85fb33664fc389730e3f",
+  "source_id": "08e125e9-d6bc-408d-974f-608297512a90",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 271/2020-63",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "JUDr. Tomáš Hoza",
+    "ecli": "ECLI:CZ:OSNJ:2020:13.C.271.2020.3",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-02-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/08e125e9-d6bc-408d-974f-608297512a90"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
