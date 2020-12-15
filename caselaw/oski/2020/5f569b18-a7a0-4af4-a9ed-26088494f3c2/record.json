@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2020:26.C.51.2020.1",
+  "docket": "26 C 51/2020-50",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5f569b18-a7a0-4af4-a9ed-26088494f3c2",
+  "source_sha256": "f8bfa6e0c65f7ed0a18febeb0f16b3dba5765864af57efa8ca04e296aba758eb",
+  "source_id": "5f569b18-a7a0-4af4-a9ed-26088494f3c2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 51/2020-50",
+    "soud": "Okresní soud v Karviné",
+    "autor": "Mgr. Marek Heczko",
+    "ecli": "ECLI:CZ:OSKI:2020:26.C.51.2020.1",
+    "predmetRizeni": "vyloučení věcí z výkonu rozhodnutí",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-02-18",
+    "klicovaSlova": [
+      "exekuce",
+      "oddlužení",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 267 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5f569b18-a7a0-4af4-a9ed-26088494f3c2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
