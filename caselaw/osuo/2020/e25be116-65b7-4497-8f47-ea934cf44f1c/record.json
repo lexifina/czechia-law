@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Orlicí",
+  "ecli": "ECLI:CZ:OSUO:2020:8.C.173.2019.1",
+  "docket": "8 C 173/2019-41",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e25be116-65b7-4497-8f47-ea934cf44f1c",
+  "source_sha256": "87352053613aed0dec4f7f34f03a38d6646fdb39a559467fe4b15f4631a5d56c",
+  "source_id": "e25be116-65b7-4497-8f47-ea934cf44f1c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 173/2019-41",
+    "soud": "Okresní soud v Ústí nad Orlicí",
+    "autor": "JUDr. Dagmar Kalousková",
+    "ecli": "ECLI:CZ:OSUO:2020:8.C.173.2019.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-02-12",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o účtu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 629 z. č. 89/2012 Sb.",
+      "§ 2662 z. č. 89/2012 Sb.",
+      "§ 610 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e25be116-65b7-4497-8f47-ea934cf44f1c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
