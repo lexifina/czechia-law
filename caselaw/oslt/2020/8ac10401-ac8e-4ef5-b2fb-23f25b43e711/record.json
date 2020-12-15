@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Litoměřicích",
+  "ecli": "ECLI:CZ:OSLT:2020:15.C.165.2020.1",
+  "docket": "15 C 165/2020-39",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8ac10401-ac8e-4ef5-b2fb-23f25b43e711",
+  "source_sha256": "d73b33483ba165624b2401d9c1d8b56d33089fab4b325dd391fe4d14f3f68270",
+  "source_id": "8ac10401-ac8e-4ef5-b2fb-23f25b43e711",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 165/2020-39",
+    "soud": "Okresní soud v Litoměřicích",
+    "autor": "JUDr. Martina Lorencová",
+    "ecli": "ECLI:CZ:OSLT:2020:15.C.165.2020.1",
+    "predmetRizeni": "O zaplacení 7 104 Kč",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-01-29",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§  z. č. 257/2016 Sb.",
+      "§  z. č. 297/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8ac10401-ac8e-4ef5-b2fb-23f25b43e711"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
