@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2020:129.C.10.2020.4",
+  "docket": "129 C 10/2020-25",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c3499c5c-770d-4a69-883f-519e57168072",
+  "source_sha256": "f115862b4c0c77b5bf45a4aefbd536bc38d98dac8ab50155bae63c83e6d56901",
+  "source_id": "c3499c5c-770d-4a69-883f-519e57168072",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "129 C 10/2020-25",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Hana Langová",
+    "ecli": "ECLI:CZ:OSOV:2020:129.C.10.2020.4",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 26 z. č. 273/2008 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c3499c5c-770d-4a69-883f-519e57168072"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
