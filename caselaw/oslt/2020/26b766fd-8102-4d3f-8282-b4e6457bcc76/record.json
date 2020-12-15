@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Litoměřicích",
+  "ecli": "ECLI:CZ:OSLT:2020:7.C.42.2020.1",
+  "docket": "7 C 42/2020-39",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/26b766fd-8102-4d3f-8282-b4e6457bcc76",
+  "source_sha256": "cd23c10453ddd9830c7dfbe8af00c84cff5466c75cc8ce3bc70310586ba3cfb3",
+  "source_id": "26b766fd-8102-4d3f-8282-b4e6457bcc76",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 42/2020-39",
+    "soud": "Okresní soud v Litoměřicích",
+    "autor": "Mgr. Daniela Liscová",
+    "ecli": "ECLI:CZ:OSLT:2020:7.C.42.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-02-23",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/26b766fd-8102-4d3f-8282-b4e6457bcc76"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
