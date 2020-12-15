@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2020:7.C.213.2020.1",
+  "docket": "7 C 213/2020-23",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f3fffc8a-120b-4ca0-b8b1-1acd69e13dbe",
+  "source_sha256": "df0f2186563a75995739a98c11eb0fb34608a2e3311debd8e1580532332845e7",
+  "source_id": "f3fffc8a-120b-4ca0-b8b1-1acd69e13dbe",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 213/2020-23",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "JUDr. Martin Valehrach",
+    "ecli": "ECLI:CZ:OSPH08:2020:7.C.213.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-01-18",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f3fffc8a-120b-4ca0-b8b1-1acd69e13dbe"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
