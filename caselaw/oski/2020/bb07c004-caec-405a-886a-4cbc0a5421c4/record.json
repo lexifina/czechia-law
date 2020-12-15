@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2020:20.C.346.2020.1",
+  "docket": "20 C 346/2020-19",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bb07c004-caec-405a-886a-4cbc0a5421c4",
+  "source_sha256": "eb7ea8110a8ce22c7d2b827200b0a7b386cd106bdc47180ed3fc776c4ff1bbc9",
+  "source_id": "bb07c004-caec-405a-886a-4cbc0a5421c4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 346/2020-19",
+    "soud": "Okresní soud v Karviné",
+    "autor": "Mgr. Tomáš Ožana",
+    "ecli": "ECLI:CZ:OSKI:2020:20.C.346.2020.1",
+    "predmetRizeni": "2 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-02-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bb07c004-caec-405a-886a-4cbc0a5421c4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
