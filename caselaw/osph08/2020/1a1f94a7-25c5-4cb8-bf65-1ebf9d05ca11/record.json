@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2020:26.C.76.2020.1",
+  "docket": "26 C 76/2020-54",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1a1f94a7-25c5-4cb8-bf65-1ebf9d05ca11",
+  "source_sha256": "61a6f56aaade7a4193a1e5e8d5df553f5163f7a77f16790030c347a5a1981289",
+  "source_id": "1a1f94a7-25c5-4cb8-bf65-1ebf9d05ca11",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 76/2020-54",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "Mgr. Beatrice Keményová",
+    "ecli": "ECLI:CZ:OSPH08:2020:26.C.76.2020.1",
+    "predmetRizeni": "o zaplacení 25.396 Kč s příslušenstvím,",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-03-18",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 562 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1a1f94a7-25c5-4cb8-bf65-1ebf9d05ca11"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
