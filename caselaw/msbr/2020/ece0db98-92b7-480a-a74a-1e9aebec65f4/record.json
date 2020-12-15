@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:214.C.52.2019.1",
+  "docket": "214 C 52/2019-77",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ece0db98-92b7-480a-a74a-1e9aebec65f4",
+  "source_sha256": "be1d823178eda5718247a85c8d76959f38e77043d8b0314ad2cbbdd5e68a8894",
+  "source_id": "ece0db98-92b7-480a-a74a-1e9aebec65f4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "214 C 52/2019-77",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Michaela Silnická",
+    "ecli": "ECLI:CZ:MSBR:2020:214.C.52.2019.1",
+    "predmetRizeni": "zaplacení 9 716,62 Kč s příslušenstvím - smlouva o úvěru",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-09-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 2399 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ece0db98-92b7-480a-a74a-1e9aebec65f4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
