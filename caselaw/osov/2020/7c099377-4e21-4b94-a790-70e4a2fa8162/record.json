@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2020:62.C.347.2020.2",
+  "docket": "62 C 347/2020-34",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7c099377-4e21-4b94-a790-70e4a2fa8162",
+  "source_sha256": "0a69d3e8968cdccbe34dfb8c941d2585c523fc404856e62dc7813727018b73e2",
+  "source_id": "7c099377-4e21-4b94-a790-70e4a2fa8162",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "62 C 347/2020-34",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Radana Vilčová",
+    "ecli": "ECLI:CZ:OSOV:2020:62.C.347.2020.2",
+    "predmetRizeni": "o zaplacení 2 000 Kč",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-02-05",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "postoupení pohledávky",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7c099377-4e21-4b94-a790-70e4a2fa8162"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
