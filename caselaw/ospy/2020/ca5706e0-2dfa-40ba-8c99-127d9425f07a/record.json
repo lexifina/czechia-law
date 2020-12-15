@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2020:3.C.349.2020.1",
+  "docket": "3 C 349/2020-18",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ca5706e0-2dfa-40ba-8c99-127d9425f07a",
+  "source_sha256": "5fe9e3804c7a899f2d932dd9916c84e7862a146af16aae2ba8f563bc8d11f01c",
+  "source_id": "ca5706e0-2dfa-40ba-8c99-127d9425f07a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 349/2020-18",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Magdalena Fifková",
+    "ecli": "ECLI:CZ:OSPY:2020:3.C.349.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-02-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ca5706e0-2dfa-40ba-8c99-127d9425f07a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
