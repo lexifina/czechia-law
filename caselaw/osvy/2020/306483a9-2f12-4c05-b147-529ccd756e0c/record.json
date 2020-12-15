@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2020:4.C.185.2020.1",
+  "docket": "4 C 185/2020-51",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/306483a9-2f12-4c05-b147-529ccd756e0c",
+  "source_sha256": "510bf4daf36bdf14c1b0c05b48ae2d97073f414618248c237cd16ce3eaa83057",
+  "source_id": "306483a9-2f12-4c05-b147-529ccd756e0c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 185/2020-51",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Petr Doležel",
+    "ecli": "ECLI:CZ:OSVY:2020:4.C.185.2020.1",
+    "predmetRizeni": "zaplacení částky 3 111 Kč s příslušenstvím - pojistné",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-01-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2804 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/306483a9-2f12-4c05-b147-529ccd756e0c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
