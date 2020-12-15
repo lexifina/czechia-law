@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2020:11.C.251.2020.1",
+  "docket": "11 C 251/2020-18",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/11929275-b3bc-432a-b840-009d3b421ad9",
+  "source_sha256": "a6d3eda18c69f9fe10d32ba42dfdff48d7bc072929f4e6f62f1b11a5a5f85c32",
+  "source_id": "11929275-b3bc-432a-b840-009d3b421ad9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 251/2020-18",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "JUDr. David Kolumber, Ph.D.",
+    "ecli": "ECLI:CZ:OSZL:2020:11.C.251.2020.1",
+    "predmetRizeni": "zaplacení 4 272 Kč s příslušenstvím",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-01-27",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§  z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/11929275-b3bc-432a-b840-009d3b421ad9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
