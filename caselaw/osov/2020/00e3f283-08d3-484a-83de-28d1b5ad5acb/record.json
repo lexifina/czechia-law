@@ -1,0 +1,52 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2020:40.C.157.2020.2",
+  "docket": "40 C 157/2020-27",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/00e3f283-08d3-484a-83de-28d1b5ad5acb",
+  "source_sha256": "2b93f67efcb1853bc5a4d75571cf8199dcfa551d3924573883b19f517ccd3921",
+  "source_id": "00e3f283-08d3-484a-83de-28d1b5ad5acb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "40 C 157/2020-27",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. et Mgr. Barbora Kovářová",
+    "ecli": "ECLI:CZ:OSOV:2020:40.C.157.2020.2",
+    "predmetRizeni": "o zaplacení 14 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-02-08",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "lichva",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 657 z. č. 89/2012 Sb.",
+      "§ 658 z. č. 89/2012 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§  z. č. 321/2001 Sb.",
+      "§  z. č. 64/1986 Sb.",
+      "§ 451 z. č. 89/2012 Sb.",
+      "§ 457 z. č. 89/2012 Sb.",
+      "§ 39 z. č. 89/2012 Sb.",
+      "§ 41 z. č. 89/2012 Sb.",
+      "§ 121 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 89/2012 Sb.",
+      "§ 3030 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/00e3f283-08d3-484a-83de-28d1b5ad5acb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
