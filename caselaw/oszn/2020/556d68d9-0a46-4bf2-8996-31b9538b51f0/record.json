@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2020:8.C.44.2019.1",
+  "docket": "8 C 44/2019-50",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/556d68d9-0a46-4bf2-8996-31b9538b51f0",
+  "source_sha256": "695f8f2f3d4ea98829ecf6d248960b5c2a150f293ac95ebcd482c2c5908e3ad6",
+  "source_id": "556d68d9-0a46-4bf2-8996-31b9538b51f0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 44/2019-50",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "Mgr. Lenka Stegurová",
+    "ecli": "ECLI:CZ:OSZN:2020:8.C.44.2019.1",
+    "predmetRizeni": "nahrazení projevu vůle uzavřít smlouvu o zřízení věcného břemene",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-04-28",
+    "klicovaSlova": [
+      "ochrana osobních údajů",
+      "osobní služebnost",
+      "peněžité plnění",
+      "služebnost",
+      "smlouva o smlouvě budoucí",
+      "tíseň",
+      "věcná břemena"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 25 z. č. 458/2000 Sb.",
+      "§ 1257 z. č. 89/2012 Sb.",
+      "§ 1785 z. č. 89/2012 Sb.",
+      "§ 1786 z. č. 89/2012 Sb.",
+      "§ 1787 z. č. 89/2012 Sb.",
+      "§ 509 z. č. 89/2012 Sb.",
+      "§ 11 z. č. 101/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/556d68d9-0a46-4bf2-8996-31b9538b51f0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
