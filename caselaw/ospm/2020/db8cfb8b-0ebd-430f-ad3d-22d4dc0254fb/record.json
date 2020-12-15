@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2020:38.C.298.2020.1",
+  "docket": "38 C 298/2020",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/db8cfb8b-0ebd-430f-ad3d-22d4dc0254fb",
+  "source_sha256": "8f5c9357914a0030f549158ae70df05d235ffee3771efb815ae3153b8d87d186",
+  "source_id": "db8cfb8b-0ebd-430f-ad3d-22d4dc0254fb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 298/2020",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Jaroslava Křivánková",
+    "ecli": "ECLI:CZ:OSPM:2020:38.C.298.2020.1",
+    "predmetRizeni": "O zaplacení 1 801 Kč s příslušenstvím",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-02-18",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/db8cfb8b-0ebd-430f-ad3d-22d4dc0254fb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
