@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2020:4.C.178.2020.1",
+  "docket": "4 C 178/2020-10",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f23f4a7f-61df-4669-a0c4-93e7adacad20",
+  "source_sha256": "f4d0743efcb12960994e6a5f423a38cc2a8dfab6ef7472bbbfa374ceb4b6f1e3",
+  "source_id": "f23f4a7f-61df-4669-a0c4-93e7adacad20",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 178/2020-10",
+    "soud": "Okresní soud v Táboře",
+    "autor": "Mgr. Michaela Bílá",
+    "ecli": "ECLI:CZ:OSTA:2020:4.C.178.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-02-11",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f23f4a7f-61df-4669-a0c4-93e7adacad20"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
