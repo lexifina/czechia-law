@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2020:3.C.248.2020.1",
+  "docket": "3 C 248/2020-17",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/85c7521d-7fd7-4fa0-a6a2-bf983ab1ae4f",
+  "source_sha256": "bc3b9c22e6610f2de404e36bb58eaf96e7ae383a570d8e85b4e6fecdae82b295",
+  "source_id": "85c7521d-7fd7-4fa0-a6a2-bf983ab1ae4f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 248/2020-17",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "Vladimír Matějíček",
+    "ecli": "ECLI:CZ:OSDO:2020:3.C.248.2020.1",
+    "predmetRizeni": "O zaplacení 4 137 Kč s příslušenstvím",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-02-02",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 0/0 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 85 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2019 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/85c7521d-7fd7-4fa0-a6a2-bf983ab1ae4f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
