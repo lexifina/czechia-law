@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jičíně",
+  "ecli": "ECLI:CZ:OSJC:2020:3.C.138.2020.1",
+  "docket": "3 C 138/2020-61",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/baafd6b5-f471-40a9-8c7b-3dc88b67eec9",
+  "source_sha256": "fe19556e4fd88f0b37e9d97a7dca343a374578304df5bb277a56f62b5de8079a",
+  "source_id": "baafd6b5-f471-40a9-8c7b-3dc88b67eec9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 138/2020-61",
+    "soud": "Okresní soud v Jičíně",
+    "autor": "JUDr. Drahomíra Šorfová",
+    "ecli": "ECLI:CZ:OSJC:2020:3.C.138.2020.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-01-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "podnájem"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 8 vyhl. č. 177/1996 Sb.",
+      "§ 513 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 14a vyhl. č. 177/1996 Sb.",
+      "§ 23a z. č. 85/1996 Sb.",
+      "§ 2054 z. č. 89/2012 Sb.",
+      "§ 12a vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/baafd6b5-f471-40a9-8c7b-3dc88b67eec9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
