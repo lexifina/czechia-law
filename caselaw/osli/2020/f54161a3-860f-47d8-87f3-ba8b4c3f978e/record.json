@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2020:59.C.218.2018.1",
+  "docket": "59 C 218/2018-85",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f54161a3-860f-47d8-87f3-ba8b4c3f978e",
+  "source_sha256": "7ebb4059d15cd8f37f509b3e099ca45f2fc7f402bfa89f5bf5a7bd2e041aa2c5",
+  "source_id": "f54161a3-860f-47d8-87f3-ba8b4c3f978e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "59 C 218/2018-85",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Tomáš Kopal",
+    "ecli": "ECLI:CZ:OSLI:2020:59.C.218.2018.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 18.860,55 Kč s přísl.",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-06-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 544 z. č. 89/2012 Sb.",
+      "§ 1895 z. č. 89/2012 Sb.",
+      "§ 261 z. č. 513/1991 Sb.",
+      "§  z. č. 501/2001 Sb.",
+      "§ 392 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f54161a3-860f-47d8-87f3-ba8b4c3f978e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
