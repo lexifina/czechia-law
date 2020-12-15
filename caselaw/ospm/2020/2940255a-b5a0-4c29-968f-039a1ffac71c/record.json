@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2020:25.C.145.2020.1",
+  "docket": "25 C 145/2020-21",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2940255a-b5a0-4c29-968f-039a1ffac71c",
+  "source_sha256": "45cc6d107e03e9bb146e5cd5feea95d251b5b9cd34696a6aa1977767547882ca",
+  "source_id": "2940255a-b5a0-4c29-968f-039a1ffac71c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 145/2020-21",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "JUDr. Martina Folková",
+    "ecli": "ECLI:CZ:OSPM:2020:25.C.145.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2940255a-b5a0-4c29-968f-039a1ffac71c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
