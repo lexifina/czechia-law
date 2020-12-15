@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Třebíči",
+  "ecli": "ECLI:CZ:OSTR:2020:12.C.109.2020.1",
+  "docket": "12 C 109/2020-74",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/61e893c7-c58c-44a8-b0c6-23f4dcd55213",
+  "source_sha256": "7ea34eaa7fd4ae8b7c8569ee3cfef7b23147e97b1f1920d650d3f78080f2ac65",
+  "source_id": "61e893c7-c58c-44a8-b0c6-23f4dcd55213",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 109/2020-74",
+    "soud": "Okresní soud v Třebíči",
+    "autor": "Mgr. Jan Coufal",
+    "ecli": "ECLI:CZ:OSTR:2020:12.C.109.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-02-18",
+    "klicovaSlova": [
+      "pozůstalost",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 201 z. č. 99/1963 Sb.",
+      "§ 107 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/61e893c7-c58c-44a8-b0c6-23f4dcd55213"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
