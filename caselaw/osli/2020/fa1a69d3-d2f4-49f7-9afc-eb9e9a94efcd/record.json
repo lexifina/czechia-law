@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2020:15.C.329.2017.1",
+  "docket": "15 C 329/2017-33",
+  "date": "2020-12-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fa1a69d3-d2f4-49f7-9afc-eb9e9a94efcd",
+  "source_sha256": "67799e3966239d17a490386c9302c513b57f8693d6202565693c6c714e0e244f",
+  "source_id": "fa1a69d3-d2f4-49f7-9afc-eb9e9a94efcd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 329/2017-33",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Roman Flanderka",
+    "ecli": "ECLI:CZ:OSLI:2020:15.C.329.2017.1",
+    "predmetRizeni": "658,00 Kč s příslušenstvím",
+    "datumVydani": "2020-12-15",
+    "datumZverejneni": "2021-01-19",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 37/2004 Sb.",
+      "§ 517 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fa1a69d3-d2f4-49f7-9afc-eb9e9a94efcd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
