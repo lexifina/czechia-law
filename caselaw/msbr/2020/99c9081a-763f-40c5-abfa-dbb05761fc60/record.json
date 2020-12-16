@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:38.C.158.2020.1",
+  "docket": "38 C 158/2020-31",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/99c9081a-763f-40c5-abfa-dbb05761fc60",
+  "source_sha256": "f0484e235d3006f1426f0151180327fbfe626bf25cac61b357770f6bafe691d9",
+  "source_id": "99c9081a-763f-40c5-abfa-dbb05761fc60",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 158/2020-31",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Ivo Kadrmas",
+    "ecli": "ECLI:CZ:MSBR:2020:38.C.158.2020.1",
+    "predmetRizeni": "zaplacení 2.000 Kč - smluvní pokuta",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-07-26",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1815 z. č. 89/2012 Sb.",
+      "§ 553 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/99c9081a-763f-40c5-abfa-dbb05761fc60"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
