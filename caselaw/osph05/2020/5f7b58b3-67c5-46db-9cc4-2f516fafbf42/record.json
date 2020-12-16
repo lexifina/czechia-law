@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2020:7.C.53.2020.1",
+  "docket": "7 C 53/2020-11",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5f7b58b3-67c5-46db-9cc4-2f516fafbf42",
+  "source_sha256": "31d5997f3bc57f150569e2e49dc620b72d6ddd6cb2a93080b11bbc16346f50f2",
+  "source_id": "5f7b58b3-67c5-46db-9cc4-2f516fafbf42",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 53/2020-11",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Lenka Eliášová",
+    "ecli": "ECLI:CZ:OSPH05:2020:7.C.53.2020.1",
+    "predmetRizeni": "O zaplacení 2 732 Kč s příslušenstvím",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-01-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5f7b58b3-67c5-46db-9cc4-2f516fafbf42"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
