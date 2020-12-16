@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2020:11.C.183.2020.1",
+  "docket": "11 C 183/2020-36",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bed75e99-e98c-4e08-8788-4e33c19dfdb3",
+  "source_sha256": "3abbae71bb47fec569a50c1465b27590d3609e157c1efae82d44b1b53be38c6a",
+  "source_id": "bed75e99-e98c-4e08-8788-4e33c19dfdb3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 183/2020-36",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "JUDr. Hana Dobišarová",
+    "ecli": "ECLI:CZ:OSBV:2020:11.C.183.2020.1",
+    "predmetRizeni": "2.500 Kč s příslušenstvím",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-01-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bed75e99-e98c-4e08-8788-4e33c19dfdb3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
