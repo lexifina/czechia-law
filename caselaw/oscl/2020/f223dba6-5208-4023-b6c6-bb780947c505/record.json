@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2020:51.C.164.2020.4",
+  "docket": "51 C 164/2020-61",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f223dba6-5208-4023-b6c6-bb780947c505",
+  "source_sha256": "2843bc7fe232c2fc228f3aed9c9ae219be6f99eeda78c896e0d73dcc9ece8b5c",
+  "source_id": "f223dba6-5208-4023-b6c6-bb780947c505",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "51 C 164/2020-61",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Hana Cholastová",
+    "ecli": "ECLI:CZ:OSCL:2020:51.C.164.2020.4",
+    "predmetRizeni": "",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-01-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f223dba6-5208-4023-b6c6-bb780947c505"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
