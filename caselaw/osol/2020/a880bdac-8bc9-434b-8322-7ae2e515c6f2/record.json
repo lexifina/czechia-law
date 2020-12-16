@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2020:18.C.356.2020.1",
+  "docket": "18 C 356/2020-70",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a880bdac-8bc9-434b-8322-7ae2e515c6f2",
+  "source_sha256": "21aee2a73d121383f9748d5ce86ebc0fc9142930df48b650b1f6cf93d99a4203",
+  "source_id": "a880bdac-8bc9-434b-8322-7ae2e515c6f2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 356/2020-70",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "Mgr. Kateřina Grünwaldová",
+    "ecli": "ECLI:CZ:OSOL:2020:18.C.356.2020.1",
+    "predmetRizeni": "o 10 990,71 Kč s příslušenstvím",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-01-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 261 z. č. 513/1991 Sb.",
+      "§ 497 z. č. 513/1991 Sb.",
+      "§ 365 z. č. 513/1991 Sb.",
+      "§ 369 z. č. 513/1991 Sb.",
+      "§ 524 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a880bdac-8bc9-434b-8322-7ae2e515c6f2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
