@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2020:18.C.320.2020.1",
+  "docket": "18 C 320/2020-16",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4f0f06f9-860a-4c55-9aed-a9220177b980",
+  "source_sha256": "04e2542bb519797b2632bcbf785777401df411a946d720c1a1dd5e66e795a6e1",
+  "source_id": "4f0f06f9-860a-4c55-9aed-a9220177b980",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 320/2020-16",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "JUDr. Eva Němečková",
+    "ecli": "ECLI:CZ:OSPH09:2020:18.C.320.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-04-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "regulační poplatek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 1 vyhl. č. 254/2015 Sb.",
+      "§ 16a z. č. 48/1997 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4f0f06f9-860a-4c55-9aed-a9220177b980"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
