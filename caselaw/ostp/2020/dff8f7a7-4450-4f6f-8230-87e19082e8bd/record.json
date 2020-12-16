@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2020:24.C.235.2020.1",
+  "docket": "24 C 235/2020-17",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dff8f7a7-4450-4f6f-8230-87e19082e8bd",
+  "source_sha256": "c86b6aa1edfa01481c6d329fcf7c97910002f3c554c9667f4792986ad4782cbb",
+  "source_id": "dff8f7a7-4450-4f6f-8230-87e19082e8bd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 235/2020-17",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "JUDr. Kamila Kocajová",
+    "ecli": "ECLI:CZ:OSTP:2020:24.C.235.2020.1",
+    "predmetRizeni": "zaplacení 3 695,38 Kč s příslušenstvím",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-02-21",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 41 z. č. 372/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dff8f7a7-4450-4f6f-8230-87e19082e8bd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
