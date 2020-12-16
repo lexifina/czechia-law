@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2020:17.C.88.2020.1",
+  "docket": "17 C 88/2020-15",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ed63a3aa-5bf6-4d78-8630-bc820edfab26",
+  "source_sha256": "11c203bb15296178626a3fef6a14c5213329e8b15896c0c0ca1a40d3b1ad4b11",
+  "source_id": "ed63a3aa-5bf6-4d78-8630-bc820edfab26",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 88/2020-15",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Jan Uhlíř",
+    "ecli": "ECLI:CZ:OSLI:2020:17.C.88.2020.1",
+    "predmetRizeni": "Návrh na rozvod manželství",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-01-22",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ed63a3aa-5bf6-4d78-8630-bc820edfab26"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
