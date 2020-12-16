@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2020:19.C.167.2020.1",
+  "docket": "19 C 167/2020-10",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3215b418-878b-4c42-8146-3174b2c2612f",
+  "source_sha256": "fe1aaaf98879e9ef6aa5c6895efa3c99c37f43456c7917f813b5fe6a0b62ba0a",
+  "source_id": "3215b418-878b-4c42-8146-3174b2c2612f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 167/2020-10",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Aleš Fikker",
+    "ecli": "ECLI:CZ:OSKV:2020:19.C.167.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-02-26",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3215b418-878b-4c42-8146-3174b2c2612f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
