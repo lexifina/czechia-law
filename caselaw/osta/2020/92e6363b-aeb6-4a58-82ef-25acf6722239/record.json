@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2020:2.C.166.2020.1",
+  "docket": "2 C 166/2020-30",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/92e6363b-aeb6-4a58-82ef-25acf6722239",
+  "source_sha256": "ce05e5559c22e422c9cf4f35e46c338772f208957a9031d8965a49f6d8ba86c3",
+  "source_id": "92e6363b-aeb6-4a58-82ef-25acf6722239",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "2 C 166/2020-30",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Martina Štorkánová",
+    "ecli": "ECLI:CZ:OSTA:2020:2.C.166.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-02-15",
+    "klicovaSlova": [
+      "alkoholismus",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/92e6363b-aeb6-4a58-82ef-25acf6722239"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
