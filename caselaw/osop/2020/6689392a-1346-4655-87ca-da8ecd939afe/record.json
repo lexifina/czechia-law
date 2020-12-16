@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2020:10.C.203.2020.1",
+  "docket": "10 C 203/2020-32",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6689392a-1346-4655-87ca-da8ecd939afe",
+  "source_sha256": "3dd4e7d6a05e8ec186c2488497336d85abcc6b9b5216822da53bfca9f3d2042a",
+  "source_id": "6689392a-1346-4655-87ca-da8ecd939afe",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 203/2020-32",
+    "soud": "Okresní soud v Opavě",
+    "autor": "Mgr. Adam Haas",
+    "ecli": "ECLI:CZ:OSOP:2020:10.C.203.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6689392a-1346-4655-87ca-da8ecd939afe"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
