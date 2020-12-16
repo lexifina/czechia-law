@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2020:4.C.295.2018.1",
+  "docket": "4 C 295/2018-232",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7aada2a4-7275-47d5-ae1c-6d30658d76ff",
+  "source_sha256": "64bcea8cdd20e0af506f03bcb5bee8428cd647e3dab56cf8e4d179b6fbbfd5b3",
+  "source_id": "7aada2a4-7275-47d5-ae1c-6d30658d76ff",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 295/2018-232",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "Mgr. Alena Štětinová",
+    "ecli": "ECLI:CZ:OSKT:2020:4.C.295.2018.1",
+    "predmetRizeni": "zrušení a vypořádání podílového spoluvlastnictví",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-02-08",
+    "klicovaSlova": [
+      "jmění",
+      "peněžité plnění",
+      "podílové spoluvlastnictví",
+      "služebnost",
+      "spoluvlastnictví",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 1158 z. č. 89/2012 Sb.",
+      "§ 5 nař. vl. č. 366/2013 Sb.",
+      "§ 6 nař. vl. č. 366/2013 Sb.",
+      "§ 1144 z. č. 89/2012 Sb.",
+      "§ 1166 z. č. 89/2012 Sb.",
+      "§ 1143 z. č. 89/2012 Sb.",
+      "§ 1165 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7aada2a4-7275-47d5-ae1c-6d30658d76ff"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
