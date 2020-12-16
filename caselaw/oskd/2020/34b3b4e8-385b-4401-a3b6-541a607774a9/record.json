@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2020:209.C.163.2020.1",
+  "docket": "209 C 163/2020",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/34b3b4e8-385b-4401-a3b6-541a607774a9",
+  "source_sha256": "ce5012105c794fbc6931e3be153e100deeb4ef3a0bb2aafc60feb7f54d9e835d",
+  "source_id": "34b3b4e8-385b-4401-a3b6-541a607774a9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "209 C 163/2020",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Alena Šustrová",
+    "ecli": "ECLI:CZ:OSKD:2020:209.C.163.2020.1",
+    "predmetRizeni": "o zaplacení [částka]",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-01-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 129 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/34b3b4e8-385b-4401-a3b6-541a607774a9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
