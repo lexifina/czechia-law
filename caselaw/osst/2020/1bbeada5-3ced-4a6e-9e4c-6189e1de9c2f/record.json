@@ -1,0 +1,31 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Strakonicích",
+  "ecli": "ECLI:CZ:OSST:2020:4.C.235.2020.1",
+  "docket": "4 C 235/2020-11",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1bbeada5-3ced-4a6e-9e4c-6189e1de9c2f",
+  "source_sha256": "1c1db87fb66fb4afb4c45b3c23ab590afc333cbac6bfe759a92865bcfa3cf6df",
+  "source_id": "1bbeada5-3ced-4a6e-9e4c-6189e1de9c2f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 235/2020-11",
+    "soud": "Okresní soud ve Strakonicích",
+    "autor": "Mgr. Dana Chromá",
+    "ecli": "ECLI:CZ:OSST:2020:4.C.235.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-02-01",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1bbeada5-3ced-4a6e-9e4c-6189e1de9c2f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
