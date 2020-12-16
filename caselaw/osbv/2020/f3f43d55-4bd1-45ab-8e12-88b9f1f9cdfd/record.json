@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2020:11.C.148.2020.1",
+  "docket": "11 C 148/2020-33",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f3f43d55-4bd1-45ab-8e12-88b9f1f9cdfd",
+  "source_sha256": "99041d00c1ccb7ca6d0539523cee0aa00145752fe2eae5febe1999c97036445e",
+  "source_id": "f3f43d55-4bd1-45ab-8e12-88b9f1f9cdfd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 148/2020-33",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "JUDr. Hana Dobišarová",
+    "ecli": "ECLI:CZ:OSBV:2020:11.C.148.2020.1",
+    "predmetRizeni": "1.524 Kč s příslušenstvím",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-03-03",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 175/2000 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f3f43d55-4bd1-45ab-8e12-88b9f1f9cdfd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
