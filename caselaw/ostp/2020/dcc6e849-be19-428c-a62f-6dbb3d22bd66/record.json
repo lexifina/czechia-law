@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2020:24.C.246.2020.1",
+  "docket": "24 C 246/2020-43",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dcc6e849-be19-428c-a62f-6dbb3d22bd66",
+  "source_sha256": "34a6cbdb950f4ea2446283fc42f7bad22e9ab034666da89b55aa257de773b829",
+  "source_id": "dcc6e849-be19-428c-a62f-6dbb3d22bd66",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 246/2020-43",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "JUDr. Kamila Kocajová",
+    "ecli": "ECLI:CZ:OSTP:2020:24.C.246.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-02-21",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 13 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dcc6e849-be19-428c-a62f-6dbb3d22bd66"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
