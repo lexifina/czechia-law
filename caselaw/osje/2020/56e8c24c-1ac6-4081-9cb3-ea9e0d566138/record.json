@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jeseníku",
+  "ecli": "ECLI:CZ:OSJE:2020:3.C.203.2020.1",
+  "docket": "3 C 203/2020-18",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/56e8c24c-1ac6-4081-9cb3-ea9e0d566138",
+  "source_sha256": "6d076dbc33cf6222b7c6e1628dbfe0fd23e79fdccf07d7d11880e2985b308a1c",
+  "source_id": "56e8c24c-1ac6-4081-9cb3-ea9e0d566138",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 203/2020-18",
+    "soud": "Okresní soud v Jeseníku",
+    "autor": "Mgr. Ing. David Novotný",
+    "ecli": "ECLI:CZ:OSJE:2020:3.C.203.2020.1",
+    "predmetRizeni": "3 383 Kč s příslušenstvím",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-03-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/56e8c24c-1ac6-4081-9cb3-ea9e0d566138"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
