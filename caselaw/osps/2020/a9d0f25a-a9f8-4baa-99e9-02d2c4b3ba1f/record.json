@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2020:8.C.284.2020.2",
+  "docket": "8 C 284/2020-20",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a9d0f25a-a9f8-4baa-99e9-02d2c4b3ba1f",
+  "source_sha256": "930efbc627ec2702ff7ab43e3c7a5ccbce05f485bbacef3aade5a52ef69924f8",
+  "source_id": "a9d0f25a-a9f8-4baa-99e9-02d2c4b3ba1f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 284/2020-20",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "Mgr. Václav Kokožka",
+    "ecli": "ECLI:CZ:OSPS:2020:8.C.284.2020.2",
+    "predmetRizeni": "2 000 Kč s přísl.",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1879 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a9d0f25a-a9f8-4baa-99e9-02d2c4b3ba1f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
