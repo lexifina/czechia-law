@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2020:9.C.275.2020.1",
+  "docket": "9 C 275/2020-5",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9b506908-9cd3-4d13-b225-1dce258e8051",
+  "source_sha256": "4e5339a0e81e4cde13b428c3a3a06c389e000151f52e1737bf54565a07769bc7",
+  "source_id": "9b506908-9cd3-4d13-b225-1dce258e8051",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 275/2020-5",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "JUDr. Tomáš Suchánek",
+    "ecli": "ECLI:CZ:OSTU:2020:9.C.275.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-02-11",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9b506908-9cd3-4d13-b225-1dce258e8051"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
