@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPJ:2020:25.C.308.2020.2",
+  "docket": "25 C 308/2020-16",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/933b087c-f222-45fc-ab55-801c8dc1b310",
+  "source_sha256": "6d05ad0850cd54f8bf816a279698a92c44a7668ac9ef05d00d22f1d14eb18211",
+  "source_id": "933b087c-f222-45fc-ab55-801c8dc1b310",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 308/2020-16",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Jana Srpová",
+    "ecli": "ECLI:CZ:OSPJ:2020:25.C.308.2020.2",
+    "predmetRizeni": "3 036 Kč s přísl.",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění",
+      "právní domněnka",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/933b087c-f222-45fc-ab55-801c8dc1b310"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
