@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:61.C.198.2020.1",
+  "docket": "61 C 198/2020-19",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8b0efe0d-4449-4117-9ce6-019959a792ce",
+  "source_sha256": "dba6873418eb47fa46d88ac64e13bafad8263426aa58828c3d216fdca9a2a453",
+  "source_id": "8b0efe0d-4449-4117-9ce6-019959a792ce",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "61 C 198/2020-19",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Alena Mezníková",
+    "ecli": "ECLI:CZ:MSBR:2020:61.C.198.2020.1",
+    "predmetRizeni": "zaplacení 1.525 Kč s příslušenstvím - pokuta",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-03-22",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8b0efe0d-4449-4117-9ce6-019959a792ce"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
