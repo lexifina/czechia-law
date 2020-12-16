@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2020:5.C.108.2020.1",
+  "docket": "5 C 108/2020-56",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cefc3bb0-77e8-473e-b6fa-065aaf2c3bad",
+  "source_sha256": "c0bc5b1159002e894909f84765be9a944a9541bfa355dff92973de776611cf46",
+  "source_id": "cefc3bb0-77e8-473e-b6fa-065aaf2c3bad",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 108/2020-56",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "Mgr. Martina Šuláková, Ph.D.",
+    "ecli": "ECLI:CZ:OSSY:2020:5.C.108.2020.1",
+    "predmetRizeni": "o zaplacení 2 396,90 Kč s přísl.",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-04-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 207 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cefc3bb0-77e8-473e-b6fa-065aaf2c3bad"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
