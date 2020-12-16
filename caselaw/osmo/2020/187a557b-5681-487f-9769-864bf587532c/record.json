@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:60.C.125.2020.4",
+  "docket": "60 C 125/2020-45",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/187a557b-5681-487f-9769-864bf587532c",
+  "source_sha256": "329f3d426e1587ab6eaf5b4ce659a958a00eb9f3c2788f0cf8ed1fccbf7be2a5",
+  "source_id": "187a557b-5681-487f-9769-864bf587532c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "60 C 125/2020-45",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Karel Štička",
+    "ecli": "ECLI:CZ:OSMO:2020:60.C.125.2020.4",
+    "predmetRizeni": "85 209 Kč s příslušenstvím",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-02-11",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2246 z. č. 67/2013 Sb.",
+      "§ 2235 z. č. 89/2012 Sb.",
+      "§ 10a z. č. 549/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/187a557b-5681-487f-9769-864bf587532c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
