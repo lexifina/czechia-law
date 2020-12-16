@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2020:17.C.131.2020.1",
+  "docket": "17 C 131/2020-36",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/19f58f3e-7f4d-4f69-bce9-aba6ed741c6d",
+  "source_sha256": "dcde8106588c91b4e16e4bc59356851dd49fccfa279cde35c5ab49931de7570b",
+  "source_id": "19f58f3e-7f4d-4f69-bce9-aba6ed741c6d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 131/2020-36",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "Mgr. Vladimír Koutný",
+    "ecli": "ECLI:CZ:OSBU:2020:17.C.131.2020.1",
+    "predmetRizeni": "39.915 Kč",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-06-30",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "držba",
+      "odměna opatrovníka",
+      "ušlý zisk"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2894 z. č. 89/2012 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 2910 z. č. 89/2012 Sb.",
+      "§ 1723 z. č. 89/2012 Sb.",
+      "§ 2895 z. č. 89/2012 Sb.",
+      "§ 2952 z. č. 89/2012 Sb.",
+      "§ 570 z. č. 89/2012 Sb.",
+      "§ 1701 z. č. 89/2012 Sb.",
+      "§ 100 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/19f58f3e-7f4d-4f69-bce9-aba6ed741c6d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
