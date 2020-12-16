@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2020:5.C.322.2020.1",
+  "docket": "5 C 322/2020-14",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7311507e-22be-4d53-ad1b-7c79caa8a5fd",
+  "source_sha256": "73564e06ec4cde06c860056c39e305064f281b3bd26019ce372a6a149bd0ad50",
+  "source_id": "7311507e-22be-4d53-ad1b-7c79caa8a5fd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 322/2020-14",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "JUDr. Monika Spáčilová",
+    "ecli": "ECLI:CZ:OSPH10:2020:5.C.322.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-02-12",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  z. č. 235/2004 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 153 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7311507e-22be-4d53-ad1b-7c79caa8a5fd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
