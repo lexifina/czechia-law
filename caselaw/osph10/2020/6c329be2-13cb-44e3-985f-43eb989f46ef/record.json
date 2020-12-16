@@ -1,0 +1,49 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2020:15.C.298.2020.1",
+  "docket": "15 C 298/2020-11",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6c329be2-13cb-44e3-985f-43eb989f46ef",
+  "source_sha256": "0f490a938449f059cd5df2a88676642c930f0bff5faf359626cad27422661d6e",
+  "source_id": "6c329be2-13cb-44e3-985f-43eb989f46ef",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 298/2020-11",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "Mgr. Jolana Stonawská",
+    "ecli": "ECLI:CZ:OSPH10:2020:15.C.298.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-02-03",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2804 z. č. 89/2012 Sb.",
+      "§ 55 z. č. 40/1964 Sb.",
+      "§ 1813 z. č. 40/1964 Sb.",
+      "§ 1814 z. č. 40/1964 Sb.",
+      "§ 2048 z. č. 40/1964 Sb.",
+      "§ 2052 z. č. 40/1964 Sb.",
+      "§  z. č. 235/2004 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6c329be2-13cb-44e3-985f-43eb989f46ef"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
