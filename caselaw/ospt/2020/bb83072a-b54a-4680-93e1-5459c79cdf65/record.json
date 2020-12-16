@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prachaticích",
+  "ecli": "ECLI:CZ:OSPT:2020:9.C.157.2020.1",
+  "docket": "9 C 157/2020-14",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bb83072a-b54a-4680-93e1-5459c79cdf65",
+  "source_sha256": "b65a50d263aa4edcd22e90a215906d4feaa41dada07abb176b8004f18dcae137",
+  "source_id": "bb83072a-b54a-4680-93e1-5459c79cdf65",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 157/2020-14",
+    "soud": "Okresní soud v Prachaticích",
+    "autor": "JUDr. Simona Vojíková",
+    "ecli": "ECLI:CZ:OSPT:2020:9.C.157.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-01-14",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bb83072a-b54a-4680-93e1-5459c79cdf65"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
