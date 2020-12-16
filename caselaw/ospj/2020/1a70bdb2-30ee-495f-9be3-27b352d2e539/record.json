@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPJ:2020:25.C.319.2020.2",
+  "docket": "25 C 319/2020-21",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1a70bdb2-30ee-495f-9be3-27b352d2e539",
+  "source_sha256": "32dba927c9c976e516fb93924b634f7f5a211c4175502e483af922861cc425da",
+  "source_id": "1a70bdb2-30ee-495f-9be3-27b352d2e539",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 319/2020-21",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Jana Srpová",
+    "ecli": "ECLI:CZ:OSPJ:2020:25.C.319.2020.2",
+    "predmetRizeni": "2 000 Kč s přísl.",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "telekomunikace"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 63 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1a70bdb2-30ee-495f-9be3-27b352d2e539"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
