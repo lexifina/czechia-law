@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:36.C.196.2020.1",
+  "docket": "36 C 196/2020-28",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c7af10c6-95d3-4b9a-b273-7e71e84da428",
+  "source_sha256": "5acefaf040fc23c4e2f12b4b718db17f3dbe8249b16224d6cd71075a925d1e8f",
+  "source_id": "c7af10c6-95d3-4b9a-b273-7e71e84da428",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 196/2020-28",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Aleš Kobza",
+    "ecli": "ECLI:CZ:MSBR:2020:36.C.196.2020.1",
+    "predmetRizeni": "zaplacení 5.683,78 Kč s příslušenstvím - faktura",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-04-19",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c7af10c6-95d3-4b9a-b273-7e71e84da428"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
