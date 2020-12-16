@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2020:26.C.83.2020.1",
+  "docket": "26 C 83/2020-27",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/41d03e73-d06e-4e8c-94e4-06c8dfb73ac5",
+  "source_sha256": "fc52a069af7b9485836a04ce857f4323b60449ec8b9829c718316dd70b628332",
+  "source_id": "41d03e73-d06e-4e8c-94e4-06c8dfb73ac5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 83/2020-27",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Diana Fujdiak",
+    "ecli": "ECLI:CZ:OSDC:2020:26.C.83.2020.1",
+    "predmetRizeni": "O zaplacení [částka]",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-02-05",
+    "klicovaSlova": [
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 2202 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/41d03e73-d06e-4e8c-94e4-06c8dfb73ac5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
