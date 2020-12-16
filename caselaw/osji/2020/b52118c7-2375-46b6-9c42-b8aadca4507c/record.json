@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2020:4.C.298.2020.1",
+  "docket": "4 C 298/2020-25",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b52118c7-2375-46b6-9c42-b8aadca4507c",
+  "source_sha256": "ec6f598a3d8861ea58f1584979d557e0568564bc04b90643ec11c56b1af7b2fd",
+  "source_id": "b52118c7-2375-46b6-9c42-b8aadca4507c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 298/2020-25",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "Mgr. Jan Cejpek",
+    "ecli": "ECLI:CZ:OSJI:2020:4.C.298.2020.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-03-05",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b52118c7-2375-46b6-9c42-b8aadca4507c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
