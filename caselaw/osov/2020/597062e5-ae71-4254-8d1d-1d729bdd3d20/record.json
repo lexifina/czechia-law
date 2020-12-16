@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2020:63.C.330.2020.1",
+  "docket": "63 C 330/2020-18",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/597062e5-ae71-4254-8d1d-1d729bdd3d20",
+  "source_sha256": "9a9a2930202b3f2a276c1c9e15107ac516ee573f334250071d06a01993816246",
+  "source_id": "597062e5-ae71-4254-8d1d-1d729bdd3d20",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "63 C 330/2020-18",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Pavel Kučera",
+    "ecli": "ECLI:CZ:OSOV:2020:63.C.330.2020.1",
+    "predmetRizeni": "o zaplacení 1 275 Kč s příslušenstvím",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-04-20",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2782 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/597062e5-ae71-4254-8d1d-1d729bdd3d20"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
