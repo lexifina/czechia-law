@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2020:34.C.247.2020.1",
+  "docket": "34 C 247/2020-12",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/13c96335-e020-41cc-9408-e3ba9c1a4f0d",
+  "source_sha256": "50270b137d8a27022f01da0cbe4490b0d3394546d336c3c1f51914de1e2b3b16",
+  "source_id": "13c96335-e020-41cc-9408-e3ba9c1a4f0d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 247/2020-12",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Eva Červenková",
+    "ecli": "ECLI:CZ:OSCL:2020:34.C.247.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-01-14",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/13c96335-e020-41cc-9408-e3ba9c1a4f0d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
