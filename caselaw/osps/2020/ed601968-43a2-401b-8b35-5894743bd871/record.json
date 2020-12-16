@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2020:10.C.225.2020.3",
+  "docket": "10 C 225/2020-51",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ed601968-43a2-401b-8b35-5894743bd871",
+  "source_sha256": "4084babb61ced2fa65b0ce6145ae1fe752660054bb5cdabf2b26d58c8c161a46",
+  "source_id": "ed601968-43a2-401b-8b35-5894743bd871",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 225/2020-51",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Blanka Šibrová",
+    "ecli": "ECLI:CZ:OSPS:2020:10.C.225.2020.3",
+    "predmetRizeni": "123.639 Kč s přísl.",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-05-19",
+    "klicovaSlova": [
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ed601968-43a2-401b-8b35-5894743bd871"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
