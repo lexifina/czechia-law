@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2020:4.C.131.2020.1",
+  "docket": "4 C 131/2020-30",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ea72a841-7b1e-44fb-b55e-e47a9e55080c",
+  "source_sha256": "58b1c345463268f075f5215a4997d44d306c399c94ec9939f64ee34edeb8b4fb",
+  "source_id": "ea72a841-7b1e-44fb-b55e-e47a9e55080c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 131/2020-30",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "JUDr. Dana Smitková",
+    "ecli": "ECLI:CZ:OSPZ:2020:4.C.131.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-06-11",
+    "klicovaSlova": [
+      "držba",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 1003 z. č. 89/2012 Sb.",
+      "§ 1008 z. č. 89/2012 Sb.",
+      "§ 177 z. č. 99/1963 Sb.",
+      "§ 178 z. č. 99/1963 Sb.",
+      "§ 176 z. č. 99/1963 Sb.",
+      "§ 987 z. č. 89/2012 Sb.",
+      "§ 989 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ea72a841-7b1e-44fb-b55e-e47a9e55080c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
