@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2020:17.C.373.2020.1",
+  "docket": "17 C 373/2020-21",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cfc346a6-8849-4f0a-b4af-1af5ea56f80b",
+  "source_sha256": "5d5b087af763af1fea3da7bbdb8e55bc5adee50d3bd7d4b99368eca27abf0535",
+  "source_id": "cfc346a6-8849-4f0a-b4af-1af5ea56f80b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 373/2020-21",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "JUDr. Jiří Křivanec",
+    "ecli": "ECLI:CZ:OSCB:2020:17.C.373.2020.1",
+    "predmetRizeni": "EPR [číslo], o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-01-26",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  z. č. 266/1994 Sb.",
+      "§  z. č. 111/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cfc346a6-8849-4f0a-b4af-1af5ea56f80b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
