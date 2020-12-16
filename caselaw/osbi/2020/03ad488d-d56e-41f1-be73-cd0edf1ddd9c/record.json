@@ -1,0 +1,31 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2020:34.C.217.2015.1",
+  "docket": "34 C 217/2015",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/03ad488d-d56e-41f1-be73-cd0edf1ddd9c",
+  "source_sha256": "f828ed50d102c8628212543fedb5081236d6878f682ee8001a5cee8c29675a0d",
+  "source_id": "03ad488d-d56e-41f1-be73-cd0edf1ddd9c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 217/2015",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "Mgr. Vladimír Hromek",
+    "ecli": "ECLI:CZ:OSBI:2020:34.C.217.2015.1",
+    "predmetRizeni": "",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-01-25",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 107 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/03ad488d-d56e-41f1-be73-cd0edf1ddd9c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
