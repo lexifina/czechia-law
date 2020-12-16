@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2020:9.C.97.2020.1",
+  "docket": "9 C 97/2020-21",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/171d4a45-f479-43f8-8cef-6a1d03d7408e",
+  "source_sha256": "30647ce55165a6f5f6c8fb3156fc29959482082caca595160b19d3da4d1e02f7",
+  "source_id": "171d4a45-f479-43f8-8cef-6a1d03d7408e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 97/2020-21",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "JUDr. Alice Havránková",
+    "ecli": "ECLI:CZ:OSPV:2020:9.C.97.2020.1",
+    "predmetRizeni": "Rozvod manželství",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-01-28",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 687 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/171d4a45-f479-43f8-8cef-6a1d03d7408e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
