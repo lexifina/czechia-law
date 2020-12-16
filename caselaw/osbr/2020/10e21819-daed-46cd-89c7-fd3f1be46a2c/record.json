@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Berouně",
+  "ecli": "ECLI:CZ:OSBR:2020:10.C.382.2020.1",
+  "docket": "10 C 382/2020",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/10e21819-daed-46cd-89c7-fd3f1be46a2c",
+  "source_sha256": "6d1b90a5318258ec9bf35b9fdeb870a1a68a4fc21310435e111310eb825ecccf",
+  "source_id": "10e21819-daed-46cd-89c7-fd3f1be46a2c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 382/2020",
+    "soud": "Okresní soud v Berouně",
+    "autor": "JUDr. Markéta Švarcová",
+    "ecli": "ECLI:CZ:OSBR:2020:10.C.382.2020.1",
+    "predmetRizeni": "O zaplacení 3 673 Kč s příslušenstvím",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-01-21",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/10e21819-daed-46cd-89c7-fd3f1be46a2c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
