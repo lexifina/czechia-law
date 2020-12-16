@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 3",
+  "ecli": "ECLI:CZ:OSPH03:2020:8.C.79.2020.1",
+  "docket": "8 C 79/2020-55",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f36fe4fc-fde7-4663-93f4-d5db5f9054ff",
+  "source_sha256": "0e1b5b6e757fd1db1c34ce0021fdf870978d63bf96846d1e0e7a9a9a199238bb",
+  "source_id": "f36fe4fc-fde7-4663-93f4-d5db5f9054ff",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 79/2020-55",
+    "soud": "Obvodní soud pro Prahu 3",
+    "autor": "JUDr. Andrea Venclíková",
+    "ecli": "ECLI:CZ:OSPH03:2020:8.C.79.2020.1",
+    "predmetRizeni": "1 782 Kč s příslušenstvím",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-01-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 13 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f36fe4fc-fde7-4663-93f4-d5db5f9054ff"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
