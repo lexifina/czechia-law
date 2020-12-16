@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2020:57.C.225.2020.2",
+  "docket": "57 C 225/2020-17",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/edb82139-d920-4e11-814d-bf475f2042fd",
+  "source_sha256": "3ce6cf7344e4fa710d0c8fe2eb25b78f0a8858e2513f196d86aa946b05f72b85",
+  "source_id": "edb82139-d920-4e11-814d-bf475f2042fd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "57 C 225/2020-17",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. David Šeremek",
+    "ecli": "ECLI:CZ:OSOV:2020:57.C.225.2020.2",
+    "predmetRizeni": "o zaplacení 3 040 Kč s příslušenstvím",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-04-15",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/edb82139-d920-4e11-814d-bf475f2042fd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
