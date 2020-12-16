@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:18.C.84.2020.1",
+  "docket": "18 C 84/2020-20",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c9ea081e-4b9f-4466-a37b-86fe93d4adbc",
+  "source_sha256": "01362de8818c03ddbb206d5681d7ab35ab5ad57acbcefb7172cd082aa141086e",
+  "source_id": "c9ea081e-4b9f-4466-a37b-86fe93d4adbc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 84/2020-20",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Gabriela Hanáková",
+    "ecli": "ECLI:CZ:MSBR:2020:18.C.84.2020.1",
+    "predmetRizeni": "zaplacení 1.525 Kč s příslušenstvím - pokuta",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-03-05",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 175/2000 Sb.",
+      "§ 2578 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c9ea081e-4b9f-4466-a37b-86fe93d4adbc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
