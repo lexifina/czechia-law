@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Tachově",
+  "ecli": "ECLI:CZ:OSTC:2020:3.C.205.2019.1",
+  "docket": "3 C 205/2019-87",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/30c8758f-79d2-4aab-9fd9-64abb39cc427",
+  "source_sha256": "6f6140ad842c2eae863679c6d8805a185a719d850b6521fc186bfb6507fa5f17",
+  "source_id": "30c8758f-79d2-4aab-9fd9-64abb39cc427",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 205/2019-87",
+    "soud": "Okresní soud v Tachově",
+    "autor": "JUDr. Šárka Dvořáková",
+    "ecli": "ECLI:CZ:OSTC:2020:3.C.205.2019.1",
+    "predmetRizeni": "o zaplacení částky 125.000 Kč s přísl.",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-02-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o dílo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2586 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 177/96 Sb.",
+      "§ 2054 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/30c8758f-79d2-4aab-9fd9-64abb39cc427"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
