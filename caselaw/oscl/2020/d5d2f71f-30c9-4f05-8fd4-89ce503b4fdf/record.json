@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2020:34.C.256.2020.2",
+  "docket": "34 C 256/2020-12",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d5d2f71f-30c9-4f05-8fd4-89ce503b4fdf",
+  "source_sha256": "a4b47e15cd8630f351d778f58a537ef1d1751c89381ce7f16891f818b91ea9d5",
+  "source_id": "d5d2f71f-30c9-4f05-8fd4-89ce503b4fdf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 256/2020-12",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Eva Červenková",
+    "ecli": "ECLI:CZ:OSCL:2020:34.C.256.2020.2",
+    "predmetRizeni": "O zaplacení 2 020 Kč s příslušenstvím",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-01-14",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 251 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d5d2f71f-30c9-4f05-8fd4-89ce503b4fdf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
