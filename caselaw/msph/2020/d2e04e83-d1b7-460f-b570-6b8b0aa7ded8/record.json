@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Praze",
+  "ecli": "ECLI:CZ:MSPH:2020:32.C.33.2019.1",
+  "docket": "32 C 33/2019",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d2e04e83-d1b7-460f-b570-6b8b0aa7ded8",
+  "source_sha256": "06bada09a9256234a8293b8ca6ef7d4bfd74de62be74b77c9c1bddbeb815a9fc",
+  "source_id": "d2e04e83-d1b7-460f-b570-6b8b0aa7ded8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "32 C 33/2019",
+    "soud": "Městský soud v Praze",
+    "autor": "JUDr. Filip Liška",
+    "ecli": "ECLI:CZ:MSPH:2020:32.C.33.2019.1",
+    "predmetRizeni": "O odstranění stavby",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-03-31",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "smlouva o dílo",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 2004 z. č. 89/2012 Sb.",
+      "§ 58 z. č. 99/1963 Sb.",
+      "§ 91 z. č. 99/1963 Sb.",
+      "§ 506 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d2e04e83-d1b7-460f-b570-6b8b0aa7ded8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
