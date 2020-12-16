@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2020:55.C.379.2020.2",
+  "docket": "55 C 379/2020-15",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e2ee17ba-88f7-4d33-b1fc-2dae24bfd888",
+  "source_sha256": "30f947ca41abb4b2dce78ff874a326bb618e0d75d6c4fd50d8387baa2adbdd5c",
+  "source_id": "e2ee17ba-88f7-4d33-b1fc-2dae24bfd888",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "55 C 379/2020-15",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Alena Tenglerová",
+    "ecli": "ECLI:CZ:OSOV:2020:55.C.379.2020.2",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-03-16",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění",
+      "právní domněnka"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 133 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e2ee17ba-88f7-4d33-b1fc-2dae24bfd888"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
