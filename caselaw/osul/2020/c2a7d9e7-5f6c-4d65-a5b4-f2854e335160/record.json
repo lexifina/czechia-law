@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2020:22.C.168.2020.2",
+  "docket": "22 C 168/2020-17",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c2a7d9e7-5f6c-4d65-a5b4-f2854e335160",
+  "source_sha256": "383aaff7e585a11237d96db77513ee7df83611599347e3414f246ac50f8cc145",
+  "source_id": "c2a7d9e7-5f6c-4d65-a5b4-f2854e335160",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 168/2020-17",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Martin Chládek",
+    "ecli": "ECLI:CZ:OSUL:2020:22.C.168.2020.2",
+    "predmetRizeni": "O zaplacení 8 345,37 Kč",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-04-26",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 72 z. č. 458/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c2a7d9e7-5f6c-4d65-a5b4-f2854e335160"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
