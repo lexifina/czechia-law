@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2020:34.C.182.2020.3",
+  "docket": "34 C 182/2020-19",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0e5ddad7-ca77-42d5-bbd8-8efadd4e1c95",
+  "source_sha256": "2bb0d9b3922b52ee648a16ea90f4b513c4b070921a42a2fcd0048cd865dc56f8",
+  "source_id": "0e5ddad7-ca77-42d5-bbd8-8efadd4e1c95",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 182/2020-19",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Eva Červenková",
+    "ecli": "ECLI:CZ:OSCL:2020:34.C.182.2020.3",
+    "predmetRizeni": "O zaplacení 2 327,06 Kč s příslušenstvím",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-01-14",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 251 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0e5ddad7-ca77-42d5-bbd8-8efadd4e1c95"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
