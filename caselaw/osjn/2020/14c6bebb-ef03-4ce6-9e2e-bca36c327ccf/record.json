@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2020:9.C.109.2020.1",
+  "docket": "9 C 109/2020-22",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/14c6bebb-ef03-4ce6-9e2e-bca36c327ccf",
+  "source_sha256": "8c3d6c5fcee0a39ac5bfed09b8b133933f179215ec2b2c11fa73e9c1fbb4b9e2",
+  "source_id": "14c6bebb-ef03-4ce6-9e2e-bca36c327ccf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 109/2020-22",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "JUDr. Lucie Treglerová",
+    "ecli": "ECLI:CZ:OSJN:2020:9.C.109.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-01-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 2804 z. č. 89/2012 Sb.",
+      "§ 1968 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/14c6bebb-ef03-4ce6-9e2e-bca36c327ccf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
