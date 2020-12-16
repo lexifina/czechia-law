@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2020:36.C.341.2020.1",
+  "docket": "36 C 341/2020-13",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/95c4b4fe-85f8-4e48-b35a-88c0d0fcba12",
+  "source_sha256": "f0e146170e26ed71ee8eef8112a1bf8b86008bef6efd6d4287cf3322b8481097",
+  "source_id": "95c4b4fe-85f8-4e48-b35a-88c0d0fcba12",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 341/2020-13",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Bc. Martin Havlík",
+    "ecli": "ECLI:CZ:OSPM:2020:36.C.341.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-02-24",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/95c4b4fe-85f8-4e48-b35a-88c0d0fcba12"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
