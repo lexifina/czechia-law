@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2020:26.C.76.2020.1",
+  "docket": "26 C 76/2020-30",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ddaa2acc-8ff9-4206-80c2-a1be2f88d2b2",
+  "source_sha256": "8f7fb03ae3092b1eb8e62cf70a474d815ecedaf19f668698f855727d06bc5caa",
+  "source_id": "ddaa2acc-8ff9-4206-80c2-a1be2f88d2b2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 76/2020-30",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Diana Fujdiak",
+    "ecli": "ECLI:CZ:OSDC:2020:26.C.76.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-02-04",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ddaa2acc-8ff9-4206-80c2-a1be2f88d2b2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
