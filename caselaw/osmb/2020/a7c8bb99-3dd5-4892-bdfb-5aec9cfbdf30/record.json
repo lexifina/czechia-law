@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2020:9.C.350.2020.1",
+  "docket": "9 C 350/2020-17",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a7c8bb99-3dd5-4892-bdfb-5aec9cfbdf30",
+  "source_sha256": "3ea4e83e743c8365bdf06f947dbe5c831f13f766c5e7f7d00dda94f1b4f5c6fa",
+  "source_id": "a7c8bb99-3dd5-4892-bdfb-5aec9cfbdf30",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 350/2020-17",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "JUDr. Helena Hrubá, Ph.D.",
+    "ecli": "ECLI:CZ:OSMB:2020:9.C.350.2020.1",
+    "predmetRizeni": "o zaplacení 2 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-02-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a7c8bb99-3dd5-4892-bdfb-5aec9cfbdf30"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
