@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Krajský soud v Praze",
+  "ecli": "ECLI:CZ:KSPH:2020:73.Cm.97.2020.1",
+  "docket": "73 CM 97/2020-18",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/40e210b1-fb13-4bdf-9227-5f10b1780484",
+  "source_sha256": "e1fc2f2f7334ef7d1b10b7c9f8d0b046d4fda865ef648ff4c56cec3bdb8f271c",
+  "source_id": "40e210b1-fb13-4bdf-9227-5f10b1780484",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "73 CM 97/2020-18",
+    "soud": "Krajský soud v Praze",
+    "autor": "Mgr. Vladimír Sommer",
+    "ecli": "ECLI:CZ:KSPH:2020:73.Cm.97.2020.1",
+    "predmetRizeni": "o zaplacení částky 8 436,96 Kč s příslušenstvím a odměnou,",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-07-20",
+    "klicovaSlova": [
+      "povinnost k náhradě nákladů",
+      "směnka"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 48 z. č. 191/1950 Sb.",
+      "§ 75 z. č. 191/1950 Sb.",
+      "§ 78 z. č. 191/1950 Sb.",
+      "§ 77 z. č. 191/1950 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/40e210b1-fb13-4bdf-9227-5f10b1780484"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
