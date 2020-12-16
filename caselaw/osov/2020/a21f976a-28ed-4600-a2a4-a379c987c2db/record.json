@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2020:36.C.374.2020.2",
+  "docket": "36 C 374/2020-33",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a21f976a-28ed-4600-a2a4-a379c987c2db",
+  "source_sha256": "95af55495142587ad9fc5e46c6558b8e58f6556826e8a8516ba5396be22d5de4",
+  "source_id": "a21f976a-28ed-4600-a2a4-a379c987c2db",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 374/2020-33",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Renáta Snášelová",
+    "ecli": "ECLI:CZ:OSOV:2020:36.C.374.2020.2",
+    "predmetRizeni": "",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-01-26",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb.",
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a21f976a-28ed-4600-a2a4-a379c987c2db"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
