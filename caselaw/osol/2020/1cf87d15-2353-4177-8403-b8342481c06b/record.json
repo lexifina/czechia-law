@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2020:11.C.286.2020.2",
+  "docket": "11 C 286/2020-25",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1cf87d15-2353-4177-8403-b8342481c06b",
+  "source_sha256": "67ae221c2bfee910a7b28d4275855729b2a4edeab4971b99572c3d458ca2eeaa",
+  "source_id": "1cf87d15-2353-4177-8403-b8342481c06b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 286/2020-25",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "JUDr. Jaroslava Jechová",
+    "ecli": "ECLI:CZ:OSOL:2020:11.C.286.2020.2",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-01-15",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1cf87d15-2353-4177-8403-b8342481c06b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
