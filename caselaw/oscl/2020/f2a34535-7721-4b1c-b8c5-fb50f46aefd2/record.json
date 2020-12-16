@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2020:48.C.232.2020.1",
+  "docket": "48 C 232/2020-14",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f2a34535-7721-4b1c-b8c5-fb50f46aefd2",
+  "source_sha256": "878426d035649176d9ea280acbfd11cceac0e42e0abd1447820dd7bd745ab875",
+  "source_id": "f2a34535-7721-4b1c-b8c5-fb50f46aefd2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "48 C 232/2020-14",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Ing. Ivana Šmakalová",
+    "ecli": "ECLI:CZ:OSCL:2020:48.C.232.2020.1",
+    "predmetRizeni": "O zaplacení 1 500 Kč s příslušenstvím",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 1882 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f2a34535-7721-4b1c-b8c5-fb50f46aefd2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
