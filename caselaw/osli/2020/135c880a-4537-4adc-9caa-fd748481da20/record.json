@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2020:24.C.150.2019.1",
+  "docket": "24 C 150/2019-126",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/135c880a-4537-4adc-9caa-fd748481da20",
+  "source_sha256": "259fd9f64fce21a086f1e31f51cca5decd452c1e12e01cd2da18354f91c0a183",
+  "source_id": "135c880a-4537-4adc-9caa-fd748481da20",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 150/2019-126",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Ing. Dana Semirádová",
+    "ecli": "ECLI:CZ:OSLI:2020:24.C.150.2019.1",
+    "predmetRizeni": "zaplacení částky 22 328 Kč s příslušenstvím",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-03-29",
+    "klicovaSlova": [
+      "dlužné platby spojené s užíváním bytu",
+      "peněžité plnění",
+      "společenství vlastníků jednotek",
+      "spoluvlastnictví"
+    ],
+    "zminenaUstanoveni": [
+      "§ 7 z. č. 67/2013 Sb.",
+      "§ 1181 z. č. 89/2012 Sb.",
+      "§ 1180 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/135c880a-4537-4adc-9caa-fd748481da20"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
