@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2020:9.C.272.2020.1",
+  "docket": "9 C 272/2020-39",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/56bc4aa4-a611-42a6-bd9c-27cbc8cbfd1a",
+  "source_sha256": "3d37b48fc7bb5cc981b02f40b9fbf1938aecb02a6d254789022cd634f82ce8d7",
+  "source_id": "56bc4aa4-a611-42a6-bd9c-27cbc8cbfd1a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 272/2020-39",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "JUDr. Tomáš Suchánek",
+    "ecli": "ECLI:CZ:OSTU:2020:9.C.272.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím - úvěr",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-01-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/56bc4aa4-a611-42a6-bd9c-27cbc8cbfd1a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
