@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Strakonicích",
+  "ecli": "ECLI:CZ:OSST:2020:4.C.256.2020.1",
+  "docket": "4 C 256/2020-41",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2ebfd4e6-7e24-4418-a873-9cec24431c98",
+  "source_sha256": "a890b06e3a13ed7661fd2a6dc4781e0d6325512b2fd73c97f0f2c064cd9dd600",
+  "source_id": "2ebfd4e6-7e24-4418-a873-9cec24431c98",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 256/2020-41",
+    "soud": "Okresní soud ve Strakonicích",
+    "autor": "Mgr. Dana Chromá",
+    "ecli": "ECLI:CZ:OSST:2020:4.C.256.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-01-19",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2ebfd4e6-7e24-4418-a873-9cec24431c98"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
