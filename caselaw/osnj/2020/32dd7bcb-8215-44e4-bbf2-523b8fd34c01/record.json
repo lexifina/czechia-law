@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2020:7.C.126.2020.6",
+  "docket": "7 C 126/2020-23",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/32dd7bcb-8215-44e4-bbf2-523b8fd34c01",
+  "source_sha256": "f4d7d49823b6ce8b66dc1fe39c2ca7658c2109d95100743c46e5e09ce0f4c6ab",
+  "source_id": "32dd7bcb-8215-44e4-bbf2-523b8fd34c01",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 126/2020-23",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "JUDr. Silvie Slaná",
+    "ecli": "ECLI:CZ:OSNJ:2020:7.C.126.2020.6",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/32dd7bcb-8215-44e4-bbf2-523b8fd34c01"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
