@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2020:2.C.208.2020.1",
+  "docket": "2 C 208/2020-20",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fd7bb6ef-2b2d-4943-ada2-8d28055ae3b3",
+  "source_sha256": "01a6a10f7176c6b2d7f0fa58e529d436d86d27de3a77cdf3d31374f139d3d187",
+  "source_id": "fd7bb6ef-2b2d-4943-ada2-8d28055ae3b3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "2 C 208/2020-20",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Martina Štorkánová",
+    "ecli": "ECLI:CZ:OSTA:2020:2.C.208.2020.1",
+    "predmetRizeni": "O zaplacení 4 625 Kč s příslušenstvím",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-01-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2 z. č. 127/2005 Sb.",
+      "§ 64/1 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fd7bb6ef-2b2d-4943-ada2-8d28055ae3b3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
