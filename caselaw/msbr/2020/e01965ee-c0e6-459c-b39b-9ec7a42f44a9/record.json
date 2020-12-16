@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:38.C.172.2020.1",
+  "docket": "38 C 172/2020-20",
+  "date": "2020-12-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e01965ee-c0e6-459c-b39b-9ec7a42f44a9",
+  "source_sha256": "6031b7d666f2565839820c67db422802a2c5db660411f5040711e271581eeca0",
+  "source_id": "e01965ee-c0e6-459c-b39b-9ec7a42f44a9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 172/2020-20",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Ivo Kadrmas",
+    "ecli": "ECLI:CZ:MSBR:2020:38.C.172.2020.1",
+    "predmetRizeni": "zaplacení 2.500 Kč s příslušenstvím - faktura",
+    "datumVydani": "2020-12-16",
+    "datumZverejneni": "2021-06-10",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 3 z. č. 284/2009 Sb.",
+      "§ 63 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e01965ee-c0e6-459c-b39b-9ec7a42f44a9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
