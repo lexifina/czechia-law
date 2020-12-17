@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Praze",
+  "ecli": "ECLI:CZ:MSPH:2020:37.C.29.2017.1",
+  "docket": "37 C 29/2017",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6edbfce3-ff12-4d23-a483-6babae57625c",
+  "source_sha256": "f5c7705a38f1f1c1678e9582732c21e4aa5ae71ed6bf24e4768cbf7bcb12e2aa",
+  "source_id": "6edbfce3-ff12-4d23-a483-6babae57625c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "37 C 29/2017",
+    "soud": "Městský soud v Praze",
+    "autor": "Mgr. Jan Šípal",
+    "ecli": "ECLI:CZ:MSPH:2020:37.C.29.2017.1",
+    "predmetRizeni": "",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-02-23",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 110 z. č. 99/1963 Sb.",
+      "§ 57 z. č. 99/1963 Sb.",
+      "§ 111 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6edbfce3-ff12-4d23-a483-6babae57625c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
