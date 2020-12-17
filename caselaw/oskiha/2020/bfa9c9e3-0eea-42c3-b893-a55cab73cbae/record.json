@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2020:112.C.326.2020.1",
+  "docket": "112 C 326/2020-27",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bfa9c9e3-0eea-42c3-b893-a55cab73cbae",
+  "source_sha256": "484262cb3fadd195a417724f94542a74b7d0d2a2bb6129f14e1d0e225a0956a6",
+  "source_id": "bfa9c9e3-0eea-42c3-b893-a55cab73cbae",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "112 C 326/2020-27",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Petra Pomykaczová",
+    "ecli": "ECLI:CZ:OSKIHA:2020:112.C.326.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-01-11",
+    "klicovaSlova": [
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 104 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bfa9c9e3-0eea-42c3-b893-a55cab73cbae"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
