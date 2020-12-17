@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2020:8.C.205.2020.1",
+  "docket": "8 C 205/2020-10",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/71756951-6fb6-478e-9dc0-ae5661a0787f",
+  "source_sha256": "817eb1cc8f40aefda40a8759a615fcba4a4310250c7da6da0f21643825e60300",
+  "source_id": "71756951-6fb6-478e-9dc0-ae5661a0787f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 205/2020-10",
+    "soud": "Okresní soud v Táboře",
+    "autor": "Mgr. Jiří Vaněk",
+    "ecli": "ECLI:CZ:OSTA:2020:8.C.205.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-01-28",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/71756951-6fb6-478e-9dc0-ae5661a0787f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
