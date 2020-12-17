@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2020:15.C.154.2020.1",
+  "docket": "15 C 154/2020-43",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/38e8ea05-8b4f-4460-bada-bdcb7370c0c8",
+  "source_sha256": "29ee17723d808c0faddd5d87b234a490525ea629dcf033a9b995d0e2b89f05cf",
+  "source_id": "38e8ea05-8b4f-4460-bada-bdcb7370c0c8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 154/2020-43",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. Pavla Doupovcová",
+    "ecli": "ECLI:CZ:OSPV:2020:15.C.154.2020.1",
+    "predmetRizeni": "o [částka] s přísl.",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-02-12",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 89e z. č. 373/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/38e8ea05-8b4f-4460-bada-bdcb7370c0c8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
