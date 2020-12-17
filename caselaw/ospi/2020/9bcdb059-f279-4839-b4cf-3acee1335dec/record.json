@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Písku",
+  "ecli": "ECLI:CZ:OSPI:2020:12.C.339.2020.1",
+  "docket": "12 C 339/2020-21",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9bcdb059-f279-4839-b4cf-3acee1335dec",
+  "source_sha256": "d805bbd89ec6a380cd3a850fc68e4ed8d55545356654a643edd2a1cb4c911f64",
+  "source_id": "9bcdb059-f279-4839-b4cf-3acee1335dec",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 339/2020-21",
+    "soud": "Okresní soud v Písku",
+    "autor": "Mgr. Daniela Špeldová",
+    "ecli": "ECLI:CZ:OSPI:2020:12.C.339.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-02-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9bcdb059-f279-4839-b4cf-3acee1335dec"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
