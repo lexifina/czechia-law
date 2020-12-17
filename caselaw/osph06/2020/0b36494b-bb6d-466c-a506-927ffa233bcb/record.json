@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2020:19.C.401.2020.1",
+  "docket": "19 C 401/2020-31",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0b36494b-bb6d-466c-a506-927ffa233bcb",
+  "source_sha256": "edc4f908ab08a5590858fc425ea915bd72523ca5a101ae7b37604c3a848ef6c4",
+  "source_id": "0b36494b-bb6d-466c-a506-927ffa233bcb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 401/2020-31",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "Mgr. Tereza Krojová",
+    "ecli": "ECLI:CZ:OSPH06:2020:19.C.401.2020.1",
+    "predmetRizeni": "o zaplacení částky 2 652 Kč s příslušenstvím",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-02-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0b36494b-bb6d-466c-a506-927ffa233bcb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
