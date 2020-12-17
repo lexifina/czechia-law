@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2020:23.C.24.2020.1",
+  "docket": "23 C 24/2020-60",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e681b9d0-4d5f-4476-8ab3-31cf33c665e1",
+  "source_sha256": "26b0b088d0c8e2de9635732ccd56c9ae4d0606f6e2ec58593304db0ce9c40a7a",
+  "source_id": "e681b9d0-4d5f-4476-8ab3-31cf33c665e1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 24/2020-60",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "Mgr. Michaela Džuberová",
+    "ecli": "ECLI:CZ:OSHO:2020:23.C.24.2020.1",
+    "predmetRizeni": "zaplacení 285 716,41 Kč s příslušenstvím",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-03-08",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1931 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e681b9d0-4d5f-4476-8ab3-31cf33c665e1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
