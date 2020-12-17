@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2020:41.C.273.2020.1",
+  "docket": "41 C 273/2020-22",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/800b875a-d283-408b-8f4d-856e9d1ac595",
+  "source_sha256": "fd73d742243f6cfa1f7add3345a12fc2cba04f1559684b1f0a78fe68757ab2e6",
+  "source_id": "800b875a-d283-408b-8f4d-856e9d1ac595",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "41 C 273/2020-22",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "Mgr. Ing. Bc. Martin Baťka, , Ph.D.",
+    "ecli": "ECLI:CZ:OSTP:2020:41.C.273.2020.1",
+    "predmetRizeni": "zaplacení 10 345 Kč s příslušenstvím",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-01-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2a vyhl. č. 205/1999 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/800b875a-d283-408b-8f4d-856e9d1ac595"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
