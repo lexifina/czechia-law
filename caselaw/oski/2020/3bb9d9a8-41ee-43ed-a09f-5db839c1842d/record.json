@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2020:26.C.325.2020.1",
+  "docket": "26 C 325/2020-25",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3bb9d9a8-41ee-43ed-a09f-5db839c1842d",
+  "source_sha256": "5e7bdadb39563d7fe4f01865527a4262a381014ae04d254fa42a9d12feab26b3",
+  "source_id": "3bb9d9a8-41ee-43ed-a09f-5db839c1842d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 325/2020-25",
+    "soud": "Okresní soud v Karviné",
+    "autor": "Mgr. Marek Heczko",
+    "ecli": "ECLI:CZ:OSKI:2020:26.C.325.2020.1",
+    "predmetRizeni": "1 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-01-15",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3bb9d9a8-41ee-43ed-a09f-5db839c1842d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
