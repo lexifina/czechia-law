@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2020:14.C.286.2020.2",
+  "docket": "14 C 286/2020-14",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/077d8f27-b79f-4087-9c2e-6829f396b897",
+  "source_sha256": "94376af5a84786b86914fd557e3f4ae9ab8dcebfe496cd45ee4a82cedde08ead",
+  "source_id": "077d8f27-b79f-4087-9c2e-6829f396b897",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 286/2020-14",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "JUDr. Ivana Bačová",
+    "ecli": "ECLI:CZ:OSNJ:2020:14.C.286.2020.2",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-01-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 13 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/077d8f27-b79f-4087-9c2e-6829f396b897"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
