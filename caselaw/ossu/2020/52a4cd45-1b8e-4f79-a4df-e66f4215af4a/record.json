@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2020:18.C.188.2020.1",
+  "docket": "18 C 188/2020-18",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/52a4cd45-1b8e-4f79-a4df-e66f4215af4a",
+  "source_sha256": "7e5a026ddbd7bd5cd7d7aa56a9fd892324055d823f94b046c28f97079acd5bfc",
+  "source_id": "52a4cd45-1b8e-4f79-a4df-e66f4215af4a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 188/2020-18",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "Mgr. Milan J. Lipenský",
+    "ecli": "ECLI:CZ:OSSU:2020:18.C.188.2020.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-01-19",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 12 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/52a4cd45-1b8e-4f79-a4df-e66f4215af4a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
