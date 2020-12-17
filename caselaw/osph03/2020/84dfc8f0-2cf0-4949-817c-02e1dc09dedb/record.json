@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 3",
+  "ecli": "ECLI:CZ:OSPH03:2020:11.C.365.2020.1",
+  "docket": "11 C 365/2020-20",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/84dfc8f0-2cf0-4949-817c-02e1dc09dedb",
+  "source_sha256": "ac3357858797187809a253c75b9085933c77d7a1d281907d4c903a6266651085",
+  "source_id": "84dfc8f0-2cf0-4949-817c-02e1dc09dedb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 365/2020-20",
+    "soud": "Obvodní soud pro Prahu 3",
+    "autor": "JUDr. Jana Spanilá",
+    "ecli": "ECLI:CZ:OSPH03:2020:11.C.365.2020.1",
+    "predmetRizeni": "2 150 Kč s příslušenstvím",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 207 z. č. 99/1963 Sb.",
+      "§ 6 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/84dfc8f0-2cf0-4949-817c-02e1dc09dedb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
