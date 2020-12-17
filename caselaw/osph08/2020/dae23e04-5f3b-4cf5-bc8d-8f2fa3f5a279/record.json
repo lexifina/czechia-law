@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2020:27.C.182.2019.3",
+  "docket": "27 C 182/2019-119",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dae23e04-5f3b-4cf5-bc8d-8f2fa3f5a279",
+  "source_sha256": "93b3a49b168e22dcbbc39ff7055f85a2f6c3ea72ce364fe933f3dc583e04364a",
+  "source_id": "dae23e04-5f3b-4cf5-bc8d-8f2fa3f5a279",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 182/2019-119",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "Mgr. Pavel Jaroš",
+    "ecli": "ECLI:CZ:OSPH08:2020:27.C.182.2019.3",
+    "predmetRizeni": "O zaplacení 109 720 Kč s přísl.",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-05-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 629 z. č. 89/2012 Sb.",
+      "§ 620 z. č. 89/2012 Sb.",
+      "§ 609 z. č. 89/2012 Sb.",
+      "§ 619 z. č. 89/2012 Sb.",
+      "§ 6 z. č. 168/1999 Sb.",
+      "§ 635 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dae23e04-5f3b-4cf5-bc8d-8f2fa3f5a279"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
