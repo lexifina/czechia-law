@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2020:118.C.49.2014.2",
+  "docket": "118 C 49/2014-70",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/def48598-b62e-4b0e-a8c1-692084f086bf",
+  "source_sha256": "458a1bc7afbb142cddf1986954b31ce9c36b6bb48a87f0f34af7301479fc067f",
+  "source_id": "def48598-b62e-4b0e-a8c1-692084f086bf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "118 C 49/2014-70",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "Mgr. Leona Poplerová",
+    "ecli": "ECLI:CZ:OSPU:2020:118.C.49.2014.2",
+    "predmetRizeni": "o zaplacení [částka] s přísl. a smluvní pokuta [částka]",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-01-11",
+    "klicovaSlova": [
+      "oddlužení",
+      "rozhodnutí o úpadku",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 414 z. č. 182/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/def48598-b62e-4b0e-a8c1-692084f086bf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
