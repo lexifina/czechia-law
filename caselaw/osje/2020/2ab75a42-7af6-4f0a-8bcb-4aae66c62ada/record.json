@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jeseníku",
+  "ecli": "ECLI:CZ:OSJE:2020:110.C.15.2020.1",
+  "docket": "110 C 15/2020-69",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2ab75a42-7af6-4f0a-8bcb-4aae66c62ada",
+  "source_sha256": "527cbe4512795925eeb7dd22d74a167b1e309910cc3fb8afec4c64f7d6929452",
+  "source_id": "2ab75a42-7af6-4f0a-8bcb-4aae66c62ada",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "110 C 15/2020-69",
+    "soud": "Okresní soud v Jeseníku",
+    "autor": "Mgr. Jana Reslová",
+    "ecli": "ECLI:CZ:OSJE:2020:110.C.15.2020.1",
+    "predmetRizeni": "131 746 Kč s příslušenstvím",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-08-31",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "smlouva pracovní",
+      "vzájemné plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 576 z. č. 89/2012 Sb.",
+      "§ 457 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2ab75a42-7af6-4f0a-8bcb-4aae66c62ada"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
