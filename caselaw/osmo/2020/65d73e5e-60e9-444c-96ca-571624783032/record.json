@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:61.C.128.2020.3",
+  "docket": "61 C 128/2020-21",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/65d73e5e-60e9-444c-96ca-571624783032",
+  "source_sha256": "9b3bc2f02cc9c546a9519579bb49f8bfcb3076a2449bf346c38f3c6a67505cce",
+  "source_id": "65d73e5e-60e9-444c-96ca-571624783032",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "61 C 128/2020-21",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Jana Čermáková",
+    "ecli": "ECLI:CZ:OSMO:2020:61.C.128.2020.3",
+    "predmetRizeni": "1 196,30 Kč",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-01-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 8 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 63 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/65d73e5e-60e9-444c-96ca-571624783032"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
