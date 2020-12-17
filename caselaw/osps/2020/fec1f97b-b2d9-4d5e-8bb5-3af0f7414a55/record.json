@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2020:4.C.301.2020.3",
+  "docket": "4 C 301/2020-59",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fec1f97b-b2d9-4d5e-8bb5-3af0f7414a55",
+  "source_sha256": "2a5f4041e291faf48286809a7648ad55fb91a20618d71e509964037a840545fe",
+  "source_id": "fec1f97b-b2d9-4d5e-8bb5-3af0f7414a55",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 301/2020-59",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "Mgr. Marek Poláček",
+    "ecli": "ECLI:CZ:OSPS:2020:4.C.301.2020.3",
+    "predmetRizeni": "[částka] s přís.",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-02-19",
+    "klicovaSlova": [
+      "smlouva o úvěru",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fec1f97b-b2d9-4d5e-8bb5-3af0f7414a55"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
