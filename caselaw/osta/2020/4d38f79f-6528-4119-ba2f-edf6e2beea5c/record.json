@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2020:10.C.207.2020.1",
+  "docket": "10 C 207/2020-13",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4d38f79f-6528-4119-ba2f-edf6e2beea5c",
+  "source_sha256": "9bbe94f5ebe47f4a69bc0417ca20780f829dcc9d9ceaa1a05967cf3a094ba8c3",
+  "source_id": "4d38f79f-6528-4119-ba2f-edf6e2beea5c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 207/2020-13",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Lenka Pávková",
+    "ecli": "ECLI:CZ:OSTA:2020:10.C.207.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-01-19",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4d38f79f-6528-4119-ba2f-edf6e2beea5c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
