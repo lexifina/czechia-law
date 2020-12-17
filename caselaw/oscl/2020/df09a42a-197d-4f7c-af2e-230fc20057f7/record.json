@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2020:51.C.267.2020.2",
+  "docket": "51 C 267/2020-13",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/df09a42a-197d-4f7c-af2e-230fc20057f7",
+  "source_sha256": "d55c0c1ce27d6d2ef79894557614d2607a0ae8a7088eabc1d941a17066b55de9",
+  "source_id": "df09a42a-197d-4f7c-af2e-230fc20057f7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "51 C 267/2020-13",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Hana Cholastová",
+    "ecli": "ECLI:CZ:OSCL:2020:51.C.267.2020.2",
+    "predmetRizeni": "O zaplacení 1 892 Kč s příslušenstvím",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-01-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/df09a42a-197d-4f7c-af2e-230fc20057f7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
