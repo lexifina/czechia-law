@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2020:16.C.167.2020.1",
+  "docket": "16 C 167/2020-39",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b3bf5f76-98b6-4b48-91c5-50b4c26451bd",
+  "source_sha256": "5fa4a44a8a908c0f0aeec7c860f39de2c8fa502c831f4239f0de3d39a61514a7",
+  "source_id": "b3bf5f76-98b6-4b48-91c5-50b4c26451bd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 167/2020-39",
+    "soud": "Okresní soud v Karviné",
+    "autor": "JUDr. Irena Žaganová",
+    "ecli": "ECLI:CZ:OSKI:2020:16.C.167.2020.1",
+    "predmetRizeni": "67 497,77 Kč s příslušenstvím",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-04-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b3bf5f76-98b6-4b48-91c5-50b4c26451bd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
