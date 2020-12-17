@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kroměříži",
+  "ecli": "ECLI:CZ:OSKM:2020:19.C.80.2020.1",
+  "docket": "19 C 80/2020-73",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bd21d9ac-e121-4e5d-995e-1410c1812d25",
+  "source_sha256": "ca5a449cf59dddf3a27d2700ab69d230ef709ae2e1665bc7e8c451a783ef573f",
+  "source_id": "bd21d9ac-e121-4e5d-995e-1410c1812d25",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 80/2020-73",
+    "soud": "Okresní soud v Kroměříži",
+    "autor": "Mgr. Olga Vymazalová",
+    "ecli": "ECLI:CZ:OSKM:2020:19.C.80.2020.1",
+    "predmetRizeni": "zaplacení [částka] s přísl.",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-03-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozsudek pro zmeškání",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 153b z. č. 99/1963 Sb.",
+      "§ 157 z. č. 262/2006 Sb.",
+      "§ 4 vyhl. č. 258/2019 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bd21d9ac-e121-4e5d-995e-1410c1812d25"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
