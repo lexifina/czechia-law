@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Blansku",
+  "ecli": "ECLI:CZ:OSBK:2020:6.C.199.2019.1",
+  "docket": "6 C 199/2019-27",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6d77c2eb-2ee5-468b-93ec-b3eb46ec3f27",
+  "source_sha256": "554458ef2546e5019fb544273f08055bd0ffc8ad97ddb48d72fdbd2170480f8e",
+  "source_id": "6d77c2eb-2ee5-468b-93ec-b3eb46ec3f27",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 199/2019-27",
+    "soud": "Okresní soud v Blansku",
+    "autor": "JUDr. Alena Šparlinková",
+    "ecli": "ECLI:CZ:OSBK:2020:6.C.199.2019.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-01-14",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 207 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6d77c2eb-2ee5-468b-93ec-b3eb46ec3f27"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
