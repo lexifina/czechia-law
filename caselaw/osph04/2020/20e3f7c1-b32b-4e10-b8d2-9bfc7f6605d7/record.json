@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2020:51.C.135.2020.1",
+  "docket": "51 C 135/2020-21",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/20e3f7c1-b32b-4e10-b8d2-9bfc7f6605d7",
+  "source_sha256": "85216a55412a995c2355ff09191185d74c2f0f35b1dac5db1b3054a015d90e2e",
+  "source_id": "20e3f7c1-b32b-4e10-b8d2-9bfc7f6605d7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "51 C 135/2020-21",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "JUDr. Jitka Šimanová",
+    "ecli": "ECLI:CZ:OSPH04:2020:51.C.135.2020.1",
+    "predmetRizeni": "O zaplacení 2 471 Kč s příslušenstvím",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-01-22",
+    "klicovaSlova": [
+      "odpovědnost za škodu způsobenou provozem dopravních prostředků",
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 1968 nař. vl. č. 351/2013 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/20e3f7c1-b32b-4e10-b8d2-9bfc7f6605d7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
