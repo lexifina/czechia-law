@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2020:3.C.241.2020.1",
+  "docket": "3 C 241/2020-23",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3391fb4b-de4b-4efd-8431-d16a239c349f",
+  "source_sha256": "cef2837bb8c4a5cc16c00c4dfa46aac4d9e771e81cbc2e9bb5572a2a23c1dc18",
+  "source_id": "3391fb4b-de4b-4efd-8431-d16a239c349f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 241/2020-23",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "Vladimír Matějíček",
+    "ecli": "ECLI:CZ:OSDO:2020:3.C.241.2020.1",
+    "predmetRizeni": "O zaplacení 54 200 Kč s příslušenstvím",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-02-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 85 z. č. 99/1963 Sb.",
+      "§ 84 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3391fb4b-de4b-4efd-8431-d16a239c349f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
