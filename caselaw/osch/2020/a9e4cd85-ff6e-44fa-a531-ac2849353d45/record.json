@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2020:13.C.80.2019.3",
+  "docket": "13 C 80/2019-37",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a9e4cd85-ff6e-44fa-a531-ac2849353d45",
+  "source_sha256": "309fc45c633232943e8ed5382aee06bcfec4c9af81d28d2d53fe61d4aa6471e6",
+  "source_id": "a9e4cd85-ff6e-44fa-a531-ac2849353d45",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 80/2019-37",
+    "soud": "Okresní soud v Chebu",
+    "autor": "Mgr. Milan Homolka",
+    "ecli": "ECLI:CZ:OSCH:2020:13.C.80.2019.3",
+    "predmetRizeni": "o 20 400 Kč s přísl.",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-02-08",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 132 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a9e4cd85-ff6e-44fa-a531-ac2849353d45"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
