@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:48.C.194.2020.1",
+  "docket": "48 C 194/2020-15",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e11f700c-4b4c-461e-a7ee-e8fecd9cd35b",
+  "source_sha256": "7dae83ec61cab70ad10e8056c1dfd53b418926a971331c3f7837a0d8156b2ae7",
+  "source_id": "e11f700c-4b4c-461e-a7ee-e8fecd9cd35b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "48 C 194/2020-15",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Alena Franková",
+    "ecli": "ECLI:CZ:MSBR:2020:48.C.194.2020.1",
+    "predmetRizeni": "zaplacení 945 Kč s příslušenstvím - koncesionářské poplatky",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-05-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 7 z. č. 348/2005 Sb.",
+      "§ 89a z. č. 120/2001 Sb.",
+      "§ 115 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e11f700c-4b4c-461e-a7ee-e8fecd9cd35b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
