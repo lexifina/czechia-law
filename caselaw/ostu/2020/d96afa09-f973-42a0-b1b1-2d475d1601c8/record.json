@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2020:15.C.188.2020.1",
+  "docket": "15 C 188/2020-10",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d96afa09-f973-42a0-b1b1-2d475d1601c8",
+  "source_sha256": "3f0d5705ba266a15721f03cb637bd13c0a811307bcfbea9da12ec67adb413e75",
+  "source_id": "d96afa09-f973-42a0-b1b1-2d475d1601c8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 188/2020-10",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "JUDr. Michaela Koblasová",
+    "ecli": "ECLI:CZ:OSTU:2020:15.C.188.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-01-05",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d96afa09-f973-42a0-b1b1-2d475d1601c8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
