@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2020:16.C.271.2020.1",
+  "docket": "16 C 271/2020-21",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bf2784fe-1b0a-4535-bbb8-cce723e5aff5",
+  "source_sha256": "f2a5fc9411d5c4e981e9ee3db4143b978f95efaed6399b94c6d88510680078b4",
+  "source_id": "bf2784fe-1b0a-4535-bbb8-cce723e5aff5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 271/2020-21",
+    "soud": "Okresní soud v Opavě",
+    "autor": "Mgr. Radek Solař",
+    "ecli": "ECLI:CZ:OSOP:2020:16.C.271.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-02-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozsudek pro uznání",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 153a z. č. 99/1963 Sb.",
+      "§ 114b z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bf2784fe-1b0a-4535-bbb8-cce723e5aff5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
