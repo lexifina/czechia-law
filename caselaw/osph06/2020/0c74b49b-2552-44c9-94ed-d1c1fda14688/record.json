@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2020:8.C.426.2020.1",
+  "docket": "8 C 426/2020-39",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0c74b49b-2552-44c9-94ed-d1c1fda14688",
+  "source_sha256": "ddfc8aac74909ea81f3f241b99d57bee38ad97308c87ba4000aa3c39d29859e6",
+  "source_id": "0c74b49b-2552-44c9-94ed-d1c1fda14688",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 426/2020-39",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "Mgr. Petra Andršová",
+    "ecli": "ECLI:CZ:OSPH06:2020:8.C.426.2020.1",
+    "predmetRizeni": "o zaplacení částky [částka]",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-02-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0c74b49b-2552-44c9-94ed-d1c1fda14688"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
