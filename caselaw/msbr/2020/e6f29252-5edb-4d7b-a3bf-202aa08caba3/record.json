@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:63.C.94.2020.1",
+  "docket": "63 C 94/2020-12",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e6f29252-5edb-4d7b-a3bf-202aa08caba3",
+  "source_sha256": "c3e15fa10b3991f24905a4b405024908514a94a949a3f9399dba707a4f14cf9b",
+  "source_id": "e6f29252-5edb-4d7b-a3bf-202aa08caba3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "63 C 94/2020-12",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Judita Fadrusová",
+    "ecli": "ECLI:CZ:MSBR:2020:63.C.94.2020.1",
+    "predmetRizeni": "zaplacení 1.525 Kč s příslušenstvím - pokuta",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e6f29252-5edb-4d7b-a3bf-202aa08caba3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
