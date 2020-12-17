@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2020:8.C.222.2020.1",
+  "docket": "8 C 222/2020-15",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3f4c89de-50ed-4b4f-9927-5a7a3ae9da13",
+  "source_sha256": "024ceadd164816a754c58882089454465f56d0aec3be8b2a72e020f662b43cb1",
+  "source_id": "3f4c89de-50ed-4b4f-9927-5a7a3ae9da13",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 222/2020-15",
+    "soud": "Okresní soud v Táboře",
+    "autor": "Mgr. Jiří Vaněk",
+    "ecli": "ECLI:CZ:OSTA:2020:8.C.222.2020.1",
+    "predmetRizeni": "O zaplacení 6 085 Kč s příslušenstvím",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-01-27",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 168/1999 Sb.",
+      "§ § 2910 z. č. 0/0 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3f4c89de-50ed-4b4f-9927-5a7a3ae9da13"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
