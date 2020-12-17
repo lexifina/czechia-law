@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2020:5.C.78.2020.1",
+  "docket": "5 C 78/2020",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/10370b27-4605-413b-868e-22a6d0b05702",
+  "source_sha256": "4e77e0484dd4367a8a5dea90feb1aeea7b8f4a6f5594cb79f29e2448f56ab763",
+  "source_id": "10370b27-4605-413b-868e-22a6d0b05702",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 78/2020",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "JUDr. Ludmila Koubová",
+    "ecli": "ECLI:CZ:OSZN:2020:5.C.78.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-01-18",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 89/2012 Sb.",
+      "§ 23 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/10370b27-4605-413b-868e-22a6d0b05702"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
