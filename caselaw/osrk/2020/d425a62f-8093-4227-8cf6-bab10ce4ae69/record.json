@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rychnově nad Kněžnou",
+  "ecli": "ECLI:CZ:OSRK:2020:7.C.224.2020.1",
+  "docket": "7 C 224/2020-11",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d425a62f-8093-4227-8cf6-bab10ce4ae69",
+  "source_sha256": "ce3890336f03ea64f6daf1ca038203f006c56ddbbab18ff1a440396c1c359f06",
+  "source_id": "d425a62f-8093-4227-8cf6-bab10ce4ae69",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 224/2020-11",
+    "soud": "Okresní soud v Rychnově nad Kněžnou",
+    "autor": "JUDr. Renata Plná",
+    "ecli": "ECLI:CZ:OSRK:2020:7.C.224.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-01-18",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 384 z. č. 292/2013 Sb.",
+      "§ 687 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d425a62f-8093-4227-8cf6-bab10ce4ae69"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
