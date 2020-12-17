@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2020:20.C.73.2020.1",
+  "docket": "20 C 73/2020-16",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ed10d303-f755-4c8b-ba56-e968b5465993",
+  "source_sha256": "e0ef917b656c07f8529fc4e19b12ea56ad4a2a43ec0566513e99b4065c6a027c",
+  "source_id": "ed10d303-f755-4c8b-ba56-e968b5465993",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 73/2020-16",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "Mgr. Lenka Šrytrová soudkyně",
+    "ecli": "ECLI:CZ:OSHO:2020:20.C.73.2020.1",
+    "predmetRizeni": "o zaplacení 1 500 Kč s příslušenstvím",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-01-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pozemní komunikace",
+      "smlouva příkazní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 19b z. č. 13/1997 Sb.",
+      "§ 9 z. č. 13/1997 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ed10d303-f755-4c8b-ba56-e968b5465993"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
