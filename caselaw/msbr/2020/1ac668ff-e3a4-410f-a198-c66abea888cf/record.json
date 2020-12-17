@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:52.C.162.2020.1",
+  "docket": "52 C 162/2020-21",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1ac668ff-e3a4-410f-a198-c66abea888cf",
+  "source_sha256": "d1f32e71081d337f31567d0fc6de688f88e89fce042cb0639d91619f21f98b86",
+  "source_id": "1ac668ff-e3a4-410f-a198-c66abea888cf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "52 C 162/2020-21",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Jiří Štark",
+    "ecli": "ECLI:CZ:MSBR:2020:52.C.162.2020.1",
+    "predmetRizeni": "zaplacení 2.007 Kč s příslušenstvím - pojistné",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 13 z. č. 168/1999 Sb.",
+      "§ 105b z. č. 277/2009 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1ac668ff-e3a4-410f-a198-c66abea888cf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
