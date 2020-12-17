@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kutné Hoře",
+  "ecli": "ECLI:CZ:OSKH:2020:11.C.104.2020.1",
+  "docket": "11 C 104/2020-103",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d9c9cf47-a814-48cd-b954-a49082b47b71",
+  "source_sha256": "edb62537b046b539743f97dfe091873e622a7ecfb58b657d454e0d8ca666fa9e",
+  "source_id": "d9c9cf47-a814-48cd-b954-a49082b47b71",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 104/2020-103",
+    "soud": "Okresní soud v Kutné Hoře",
+    "autor": "Mgr. Tereza Martínková",
+    "ecli": "ECLI:CZ:OSKH:2020:11.C.104.2020.1",
+    "predmetRizeni": "o zrušení a vypořádání podílového spoluvlastnictví",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-02-08",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "podílové spoluvlastnictví",
+      "spoluvlastnictví",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§  vyhl. č. 358/2019 Sb.",
+      "§ 1140 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d9c9cf47-a814-48cd-b954-a49082b47b71"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
