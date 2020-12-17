@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2020:15.C.251.2020.1",
+  "docket": "15 C 251/2020-24",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5500ba72-32ac-4157-bd95-b980d29b0b88",
+  "source_sha256": "d42d7aa4294eb2cb1cb1f18aa6cc156129e31cbef16d8771bc9adc654a790040",
+  "source_id": "5500ba72-32ac-4157-bd95-b980d29b0b88",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 251/2020-24",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "JUDr. Michaela Koblasová",
+    "ecli": "ECLI:CZ:OSTU:2020:15.C.251.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím - dodávka elektřiny",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-02-02",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 458/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5500ba72-32ac-4157-bd95-b980d29b0b88"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
