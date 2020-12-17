@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2020:15.C.254.2020.1",
+  "docket": "15 C 254/2020-20",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5142507b-5796-407a-84b0-2b2e4da1b771",
+  "source_sha256": "badea173ab73f6a56a405f801d60b6450095831f1cdc5dc90e9164de6026216d",
+  "source_id": "5142507b-5796-407a-84b0-2b2e4da1b771",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 254/2020-20",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "Mgr. Eva Drahorádová",
+    "ecli": "ECLI:CZ:OSNA:2020:15.C.254.2020.1",
+    "predmetRizeni": "o zaplacení 1.755 Kč (kupní smlouva)",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-02-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb.",
+      "§ 64 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5142507b-5796-407a-84b0-2b2e4da1b771"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
