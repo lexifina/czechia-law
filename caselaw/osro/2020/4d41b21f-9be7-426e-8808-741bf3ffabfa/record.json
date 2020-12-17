@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2020:11.C.131.2020.1",
+  "docket": "11 C 131/2020-14",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4d41b21f-9be7-426e-8808-741bf3ffabfa",
+  "source_sha256": "a11a73e0df3f4cb1008fec934231b9c2edccd123d6eda682b3afcaeff3ef1a2f",
+  "source_id": "4d41b21f-9be7-426e-8808-741bf3ffabfa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 131/2020-14",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "JUDr. Ing. Ivo Hruška",
+    "ecli": "ECLI:CZ:OSRO:2020:11.C.131.2020.1",
+    "predmetRizeni": "zaplacení 2 000 Kč s přísl.",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-02-15",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "doménové jméno",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4d41b21f-9be7-426e-8808-741bf3ffabfa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
