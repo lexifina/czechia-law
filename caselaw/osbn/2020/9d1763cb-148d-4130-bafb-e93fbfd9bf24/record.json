@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2020:4.C.312.2020.1",
+  "docket": "4 C 312/2020-16",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9d1763cb-148d-4130-bafb-e93fbfd9bf24",
+  "source_sha256": "3e1ec81ee451e0f8926d892a33e19c6c88ce05b35cbf1ec698bdbb009dd92cbe",
+  "source_id": "9d1763cb-148d-4130-bafb-e93fbfd9bf24",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 312/2020-16",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Petr Šimek",
+    "ecli": "ECLI:CZ:OSBN:2020:4.C.312.2020.1",
+    "predmetRizeni": "o zaplacení 22 210 Kč s příslušenstvím",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-04-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9d1763cb-148d-4130-bafb-e93fbfd9bf24"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
