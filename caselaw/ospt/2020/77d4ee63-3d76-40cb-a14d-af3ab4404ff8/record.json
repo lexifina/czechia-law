@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prachaticích",
+  "ecli": "ECLI:CZ:OSPT:2020:2.C.208.2020.1",
+  "docket": "2 C 208/2020-14",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/77d4ee63-3d76-40cb-a14d-af3ab4404ff8",
+  "source_sha256": "812518f302af618d16649d2c547407b29aacc3e7f9b510ecba34eeaec69c3d10",
+  "source_id": "77d4ee63-3d76-40cb-a14d-af3ab4404ff8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "2 C 208/2020-14",
+    "soud": "Okresní soud v Prachaticích",
+    "autor": "JUDr. Vladislava Halodová",
+    "ecli": "ECLI:CZ:OSPT:2020:2.C.208.2020.1",
+    "predmetRizeni": "o zaplacení 2 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-01-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/77d4ee63-3d76-40cb-a14d-af3ab4404ff8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
