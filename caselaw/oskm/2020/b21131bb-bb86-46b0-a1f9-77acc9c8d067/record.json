@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kroměříži",
+  "ecli": "ECLI:CZ:OSKM:2020:19.C.107.2020.1",
+  "docket": "19 C 107/2020-45",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b21131bb-bb86-46b0-a1f9-77acc9c8d067",
+  "source_sha256": "82052bfb0cb17c35be34e0939b55f98c90086b0d8fbe807fae588a60f9529656",
+  "source_id": "b21131bb-bb86-46b0-a1f9-77acc9c8d067",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 107/2020-45",
+    "soud": "Okresní soud v Kroměříži",
+    "autor": "Mgr. Olga Vymazalová",
+    "ecli": "ECLI:CZ:OSKM:2020:19.C.107.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-03-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozsudek pro zmeškání"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 153b z. č. 99/1963 Sb.",
+      "§ 2820 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b21131bb-bb86-46b0-a1f9-77acc9c8d067"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
