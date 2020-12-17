@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kutné Hoře",
+  "ecli": "ECLI:CZ:OSKH:2020:7.C.345.2020.1",
+  "docket": "7 C 345/2020-16",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bfe4e8ee-aa75-4f62-85a1-0d1091655555",
+  "source_sha256": "05e9923a273656466f1055abad2c593cdbe0624820cf63ae887a7f1f4c4c1f0d",
+  "source_id": "bfe4e8ee-aa75-4f62-85a1-0d1091655555",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 345/2020-16",
+    "soud": "Okresní soud v Kutné Hoře",
+    "autor": "JUDr. Dagmar Grenarová",
+    "ecli": "ECLI:CZ:OSKH:2020:7.C.345.2020.1",
+    "predmetRizeni": "O zaplacení 3 575 Kč s příslušenstvím",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-01-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bfe4e8ee-aa75-4f62-85a1-0d1091655555"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
