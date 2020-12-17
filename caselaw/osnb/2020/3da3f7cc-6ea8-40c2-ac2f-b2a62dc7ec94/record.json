@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Nymburce",
+  "ecli": "ECLI:CZ:OSNB:2020:8.C.227.2020.1",
+  "docket": "8 C 227/2020-15",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3da3f7cc-6ea8-40c2-ac2f-b2a62dc7ec94",
+  "source_sha256": "edeab31d96b8fd44b30e39f03580c288d84c642d86712fd8e6c8579858a9204c",
+  "source_id": "3da3f7cc-6ea8-40c2-ac2f-b2a62dc7ec94",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 227/2020-15",
+    "soud": "Okresní soud v Nymburce",
+    "autor": "Mgr. Jakub Fukal",
+    "ecli": "ECLI:CZ:OSNB:2020:8.C.227.2020.1",
+    "predmetRizeni": "O zaplacení 16 700 Kč s příslušenstvím",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-01-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o úvěru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3da3f7cc-6ea8-40c2-ac2f-b2a62dc7ec94"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
