@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2020:26.C.29.2020.1",
+  "docket": "26 C 29/2020-43",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3f58403e-8bd6-4f7d-9cfb-6e914d9f31ec",
+  "source_sha256": "ae05492318d4c56dcbf6e45c81539a2945ff4d3268ac809589629c00a15bb333",
+  "source_id": "3f58403e-8bd6-4f7d-9cfb-6e914d9f31ec",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 29/2020-43",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Petr Hoček",
+    "ecli": "ECLI:CZ:OSLI:2020:26.C.29.2020.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 36.662,00 Kč s přísl.",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-03-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3f58403e-8bd6-4f7d-9cfb-6e914d9f31ec"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
