@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2020:19.C.241.2020.1",
+  "docket": "19 C 241/2020-24",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d0110004-33d9-43e8-9b82-da5683c45a82",
+  "source_sha256": "f82b4762e90c3d5aeed5f7e6efa1d5ec235fd5d3dba76964b9f83f9f050800d9",
+  "source_id": "d0110004-33d9-43e8-9b82-da5683c45a82",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 241/2020-24",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "Mgr. Tomáš Foltýn, Ph.D.",
+    "ecli": "ECLI:CZ:OSDO:2020:19.C.241.2020.1",
+    "predmetRizeni": "O zaplacení 22 054 Kč s příslušenstvím",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-03-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 257/2016 Sb.",
+      "§ 1812 z. č. 89/2012 Sb.",
+      "§ 574 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d0110004-33d9-43e8-9b82-da5683c45a82"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
