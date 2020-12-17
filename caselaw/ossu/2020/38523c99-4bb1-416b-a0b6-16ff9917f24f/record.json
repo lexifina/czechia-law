@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2020:218.C.25.2020.1",
+  "docket": "218 C 25/2020-38",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/38523c99-4bb1-416b-a0b6-16ff9917f24f",
+  "source_sha256": "4d210b1ac4ab81a5f023e3dd3e39b138263a103bd598bb7cf606f331ae7c1aee",
+  "source_id": "38523c99-4bb1-416b-a0b6-16ff9917f24f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "218 C 25/2020-38",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "Mgr. Milan J. Lipenský",
+    "ecli": "ECLI:CZ:OSSU:2020:218.C.25.2020.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-02-18",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 11 z. č. 549/1991 Sb.",
+      "§ 26 z. č. 273/2008 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/38523c99-4bb1-416b-a0b6-16ff9917f24f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
