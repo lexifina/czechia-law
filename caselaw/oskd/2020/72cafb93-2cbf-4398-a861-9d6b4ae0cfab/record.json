@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2020:223.C.147.2020.1",
+  "docket": "223 C 147/2020",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/72cafb93-2cbf-4398-a861-9d6b4ae0cfab",
+  "source_sha256": "5c195f253c14356db21fb6e28a06cbd0d2134ad02c2e1f21f034e53cfd02428d",
+  "source_id": "72cafb93-2cbf-4398-a861-9d6b4ae0cfab",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "223 C 147/2020",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Adriana Hasmanová",
+    "ecli": "ECLI:CZ:OSKD:2020:223.C.147.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-02-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2993 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/72cafb93-2cbf-4398-a861-9d6b4ae0cfab"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
