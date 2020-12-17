@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Berouně",
+  "ecli": "ECLI:CZ:OSBR:2020:3.C.42.2020.1",
+  "docket": "3 C 42/2020",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4158c0ff-6a94-42fd-9e15-cad7088c3053",
+  "source_sha256": "1001552ddcfca2d4b23365aea1ec1e483991175a92cf6396f467d2327964fe27",
+  "source_id": "4158c0ff-6a94-42fd-9e15-cad7088c3053",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 42/2020",
+    "soud": "Okresní soud v Berouně",
+    "autor": "Mgr. Marcela Součková",
+    "ecli": "ECLI:CZ:OSBR:2020:3.C.42.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-01-26",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4158c0ff-6a94-42fd-9e15-cad7088c3053"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
