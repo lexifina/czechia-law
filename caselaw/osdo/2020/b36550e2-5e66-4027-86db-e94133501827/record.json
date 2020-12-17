@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2020:19.C.236.2020.1",
+  "docket": "19 C 236/2020-21",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b36550e2-5e66-4027-86db-e94133501827",
+  "source_sha256": "bdd637fcd7006a33b5180829d0fa3071cfeacd929bf680d9c822019b14cc864c",
+  "source_id": "b36550e2-5e66-4027-86db-e94133501827",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 236/2020-21",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "Mgr. Tomáš Foltýn, Ph.D.",
+    "ecli": "ECLI:CZ:OSDO:2020:19.C.236.2020.1",
+    "predmetRizeni": "O zaplacení 8 468 Kč s příslušenstvím",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-02-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 562 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 89/2012 Sb.",
+      "§ 1 z. č. 99/1963 Sb.",
+      "§ 3 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b36550e2-5e66-4027-86db-e94133501827"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
