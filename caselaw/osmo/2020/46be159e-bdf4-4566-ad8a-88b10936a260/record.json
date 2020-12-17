@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2020:61.C.141.2020.3",
+  "docket": "61 C 141/2020-30",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/46be159e-bdf4-4566-ad8a-88b10936a260",
+  "source_sha256": "8ea388733765ffa94ece57ab13981f51b56e817573dbaaf1c96b8a3eebc7b968",
+  "source_id": "46be159e-bdf4-4566-ad8a-88b10936a260",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "61 C 141/2020-30",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Jana Čermáková",
+    "ecli": "ECLI:CZ:OSMO:2020:61.C.141.2020.3",
+    "predmetRizeni": "3 360 Kč s příslušenstvím",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-01-27",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 8 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 63 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/46be159e-bdf4-4566-ad8a-88b10936a260"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
