@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2020:20.C.275.2018.1",
+  "docket": "20 C 275/2018-100",
+  "date": "2020-12-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5acf2a8f-13f0-43f7-a203-0e69b9330222",
+  "source_sha256": "9f862436f045d2bec9383aaaea7d36ea57059e5ec84b408b49886b0568774aae",
+  "source_id": "5acf2a8f-13f0-43f7-a203-0e69b9330222",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 275/2018-100",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "Mgr. Lenka Stegurová",
+    "ecli": "ECLI:CZ:OSZN:2020:20.C.275.2018.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2020-12-17",
+    "datumZverejneni": "2021-02-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§ 1751 z. č. 89/2012 Sb.",
+      "§ 154 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5acf2a8f-13f0-43f7-a203-0e69b9330222"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
