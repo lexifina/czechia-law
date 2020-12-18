@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2020:13.C.94.2020.1",
+  "docket": "13 C 94/2020-76",
+  "date": "2020-12-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/166dce3f-fe8f-403e-b05e-5c0242c13a31",
+  "source_sha256": "d3eadbd5930fb8342154b1401d9437808e9e9798122a07a0c76f81906f10dac4",
+  "source_id": "166dce3f-fe8f-403e-b05e-5c0242c13a31",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 94/2020-76",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "Mgr. Eva Drahozalová",
+    "ecli": "ECLI:CZ:OSZR:2020:13.C.94.2020.1",
+    "predmetRizeni": "vyloučení věcí z výkonu rozhodnutí",
+    "datumVydani": "2020-12-18",
+    "datumZverejneni": "2021-03-10",
+    "klicovaSlova": [
+      "exekuce",
+      "podílové spoluvlastnictví",
+      "spoluvlastnictví"
+    ],
+    "zminenaUstanoveni": [
+      "§ 262b z. č. 99/1963 Sb.",
+      "§ 267 z. č. 99/1963 Sb.",
+      "§ 68 z. č. 120/2001 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/166dce3f-fe8f-403e-b05e-5c0242c13a31"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
