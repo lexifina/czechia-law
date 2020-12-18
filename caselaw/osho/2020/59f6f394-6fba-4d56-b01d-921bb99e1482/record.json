@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2020:6.C.153.2020.1",
+  "docket": "6 C 153/2020-24",
+  "date": "2020-12-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/59f6f394-6fba-4d56-b01d-921bb99e1482",
+  "source_sha256": "b51cd6514ab9ee80e4c3aa13b351df0b10191a4a124038527308773ed4800178",
+  "source_id": "59f6f394-6fba-4d56-b01d-921bb99e1482",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 153/2020-24",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "Mgr. Olga Houžvičková",
+    "ecli": "ECLI:CZ:OSHO:2020:6.C.153.2020.1",
+    "predmetRizeni": "zaplacení 1 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-18",
+    "datumZverejneni": "2021-03-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/59f6f394-6fba-4d56-b01d-921bb99e1482"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
