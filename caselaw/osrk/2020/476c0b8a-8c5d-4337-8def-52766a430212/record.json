@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rychnově nad Kněžnou",
+  "ecli": "ECLI:CZ:OSRK:2020:53.C.17.2020.1",
+  "docket": "53 C 17/2020-30",
+  "date": "2020-12-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/476c0b8a-8c5d-4337-8def-52766a430212",
+  "source_sha256": "b712d43b3d01cad2d97f7d88820dd912eab44c8c575882e959baaa9b028b9757",
+  "source_id": "476c0b8a-8c5d-4337-8def-52766a430212",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "53 C 17/2020-30",
+    "soud": "Okresní soud v Rychnově nad Kněžnou",
+    "autor": "JUDr. Jiří Fuks, Ph.D.",
+    "ecli": "ECLI:CZ:OSRK:2020:53.C.17.2020.1",
+    "predmetRizeni": "o zaplacení 60.292 Kč s příslušenstvím",
+    "datumVydani": "2020-12-18",
+    "datumZverejneni": "2021-02-02",
+    "klicovaSlova": [
+      "insolvence",
+      "oddlužení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 1 nař. vl. č. 351/2013 Sb.",
+      "§  z. č. 118/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/476c0b8a-8c5d-4337-8def-52766a430212"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
