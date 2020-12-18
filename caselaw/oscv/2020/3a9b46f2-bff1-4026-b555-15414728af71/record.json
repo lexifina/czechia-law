@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2020:16.C.14.2020.1",
+  "docket": "16 C 14/2020-19",
+  "date": "2020-12-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2020-12-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3a9b46f2-bff1-4026-b555-15414728af71",
+  "source_sha256": "5d3e0cc4e7319fd9342acd1a74663984a7e005be16187d47dd131a4483b2dd73",
+  "source_id": "3a9b46f2-bff1-4026-b555-15414728af71",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 14/2020-19",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Eva Pohorelcová",
+    "ecli": "ECLI:CZ:OSCV:2020:16.C.14.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-12-18",
+    "datumZverejneni": "2020-12-28",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 395 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3a9b46f2-bff1-4026-b555-15414728af71"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
