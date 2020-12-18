@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2020:7.C.340.2020.5",
+  "docket": "7 C 340/2020-45",
+  "date": "2020-12-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2e21a758-03dd-447f-a098-972c1f004552",
+  "source_sha256": "b3aeaa9d1bf0b22556dece196c5944736123a2a840fbe084e2705aaea6e1c372",
+  "source_id": "2e21a758-03dd-447f-a098-972c1f004552",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 340/2020-45",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "Mgr. Jarmila Millerová",
+    "ecli": "ECLI:CZ:OSPS:2020:7.C.340.2020.5",
+    "predmetRizeni": "144 667 Kč s přísl.",
+    "datumVydani": "2020-12-18",
+    "datumZverejneni": "2021-05-13",
+    "klicovaSlova": [
+      "dlužné platby spojené s užíváním bytu",
+      "peněžité plnění",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1181 z. č. 89/2012 Sb.",
+      "§ 1180 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2e21a758-03dd-447f-a098-972c1f004552"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
