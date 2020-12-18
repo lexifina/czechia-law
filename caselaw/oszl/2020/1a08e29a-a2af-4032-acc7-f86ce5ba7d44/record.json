@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2020:36.C.321.2020.3",
+  "docket": "36 C 321/2020-26",
+  "date": "2020-12-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1a08e29a-a2af-4032-acc7-f86ce5ba7d44",
+  "source_sha256": "ad52c13094fcbad27541c6752fa94e4a01cfd41c1ff4df4b89a8f4b5643536f9",
+  "source_id": "1a08e29a-a2af-4032-acc7-f86ce5ba7d44",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 321/2020-26",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "Mgr. Dana Matoušová",
+    "ecli": "ECLI:CZ:OSZL:2020:36.C.321.2020.3",
+    "predmetRizeni": "zaplacení 1 150 Kč s příslušenstvím",
+    "datumVydani": "2020-12-18",
+    "datumZverejneni": "2021-01-08",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 89b z. č. 373/2011 Sb.",
+      "§ 89e z. č. 373/2011 Sb.",
+      "§  vyhl. č. 333/2018 Sb.",
+      "§ 11 z. č. 549/1991 Sb.",
+      "§ 1 vyhl. č. 254/2015 Sb.",
+      "§ 89c z. č. 373/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1a08e29a-a2af-4032-acc7-f86ce5ba7d44"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
