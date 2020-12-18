@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2020:36.C.352.2020.1",
+  "docket": "36 C 352/2020-16",
+  "date": "2020-12-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/11a6f1c3-8c47-4306-a511-614db2ca7b66",
+  "source_sha256": "5fe0d32652d0e20d36171c69f1ca2e97f47882e049d45dcc1ff098d9a73085c2",
+  "source_id": "11a6f1c3-8c47-4306-a511-614db2ca7b66",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 352/2020-16",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "JUDr. Tomáš Behr",
+    "ecli": "ECLI:CZ:OSPZ:2020:36.C.352.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-18",
+    "datumZverejneni": "2021-02-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/11a6f1c3-8c47-4306-a511-614db2ca7b66"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
