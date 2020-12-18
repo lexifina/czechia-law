@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPJ:2020:20.C.217.2020.1",
+  "docket": "20 C 217/2020-48",
+  "date": "2020-12-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3819a5b7-2356-478f-8743-9b6eb08350dc",
+  "source_sha256": "b903c290c21a9664e1e41f2e5e307b9760de34616edfef66e5e5cfd1544fcf37",
+  "source_id": "3819a5b7-2356-478f-8743-9b6eb08350dc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 217/2020-48",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. David Ungr",
+    "ecli": "ECLI:CZ:OSPJ:2020:20.C.217.2020.1",
+    "predmetRizeni": "O zaplacení 2 200 Kč s příslušenstvím",
+    "datumVydani": "2020-12-18",
+    "datumZverejneni": "2021-01-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2053 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3819a5b7-2356-478f-8743-9b6eb08350dc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
