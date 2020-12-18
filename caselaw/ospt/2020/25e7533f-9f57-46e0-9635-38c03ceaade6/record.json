@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prachaticích",
+  "ecli": "ECLI:CZ:OSPT:2020:6.C.263.2020.1",
+  "docket": "6 C 263/2020-13",
+  "date": "2020-12-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/25e7533f-9f57-46e0-9635-38c03ceaade6",
+  "source_sha256": "e1f14f83505b79a8b131816603b092cb56bbb1a139fe0eddd2a54ba6912db080",
+  "source_id": "25e7533f-9f57-46e0-9635-38c03ceaade6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 263/2020-13",
+    "soud": "Okresní soud v Prachaticích",
+    "autor": "JUDr. Bohumil Veselý",
+    "ecli": "ECLI:CZ:OSPT:2020:6.C.263.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-12-18",
+    "datumZverejneni": "2021-01-19",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 687 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/25e7533f-9f57-46e0-9635-38c03ceaade6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
