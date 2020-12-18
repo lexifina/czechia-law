@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:36.C.96.2020.1",
+  "docket": "36 C 96/2020-23",
+  "date": "2020-12-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8f008b31-62aa-4faa-ad80-82bdbc37fc4e",
+  "source_sha256": "d1544818dcadbe1713a1901ada1b11d9aac9b71d538dc58664b05f04f6f2f699",
+  "source_id": "8f008b31-62aa-4faa-ad80-82bdbc37fc4e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 96/2020-23",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Aleš Kobza",
+    "ecli": "ECLI:CZ:MSBR:2020:36.C.96.2020.1",
+    "predmetRizeni": "zaplacení 6.000 Kč s příslušenstvím - půjčka",
+    "datumVydani": "2020-12-18",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 657 z. č. 89/2012 Sb.",
+      "§ 658 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 56 z. č. 89/2012 Sb.",
+      "§ 451 z. č. 89/2012 Sb.",
+      "§ 39 z. č. 89/2012 Sb.",
+      "§ 51a z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8f008b31-62aa-4faa-ad80-82bdbc37fc4e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
