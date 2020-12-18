@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 3",
+  "ecli": "ECLI:CZ:OSPH03:2020:4.C.237.2020.2",
+  "docket": "4 C 237/2020-42",
+  "date": "2020-12-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4e1ce1cf-d474-4f80-9983-490ed4e0e8f2",
+  "source_sha256": "2ab033113383cb8c14b1ed31b03fc0cc61c0f43a3a1bf9467b5fe76fa775654f",
+  "source_id": "4e1ce1cf-d474-4f80-9983-490ed4e0e8f2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 237/2020-42",
+    "soud": "Obvodní soud pro Prahu 3",
+    "autor": "JUDr. Markéta Písaříková, Ph.D.",
+    "ecli": "ECLI:CZ:OSPH03:2020:4.C.237.2020.2",
+    "predmetRizeni": "600 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-18",
+    "datumZverejneni": "2021-04-28",
+    "klicovaSlova": [
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§  z. č. 229/1991 Sb.",
+      "§ 154 z. č. 292/2013 Sb.",
+      "§ 11 z. č. 84/1958 Sb.",
+      "§  z. č. 50/1976 Sb.",
+      "§ 6 vyhl. č. 85/1976 Sb.",
+      "§ 14 vyhl. č. 182/1988 Sb.",
+      "§ 28a vyhl. č. 182/1988 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4e1ce1cf-d474-4f80-9983-490ed4e0e8f2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
