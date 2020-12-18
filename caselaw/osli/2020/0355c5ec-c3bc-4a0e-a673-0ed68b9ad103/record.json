@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2020:29.C.149.2020.1",
+  "docket": "29 C 149/2020-14",
+  "date": "2020-12-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0355c5ec-c3bc-4a0e-a673-0ed68b9ad103",
+  "source_sha256": "8972c5ee3a09162f750c8f44504e8dea0028ba8d34099aca040e63011e370441",
+  "source_id": "0355c5ec-c3bc-4a0e-a673-0ed68b9ad103",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 149/2020-14",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Bohumil Vašák",
+    "ecli": "ECLI:CZ:OSLI:2020:29.C.149.2020.1",
+    "predmetRizeni": "zaplacení částky 2.000,00 Kč s přísl.",
+    "datumVydani": "2020-12-18",
+    "datumZverejneni": "2021-03-12",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1895 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0355c5ec-c3bc-4a0e-a673-0ed68b9ad103"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
