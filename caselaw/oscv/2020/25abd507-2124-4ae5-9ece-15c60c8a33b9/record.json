@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2020:24.C.203.2020.2",
+  "docket": "24 C 203/2020-54",
+  "date": "2020-12-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/25abd507-2124-4ae5-9ece-15c60c8a33b9",
+  "source_sha256": "facd0174c52a05625f46a852bd4df1d9a27315fa201a4cdd78ba72f29e754cea",
+  "source_id": "25abd507-2124-4ae5-9ece-15c60c8a33b9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 203/2020-54",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Filip Toman",
+    "ecli": "ECLI:CZ:OSCV:2020:24.C.203.2020.2",
+    "predmetRizeni": "zaplacení 6 000 Kč s příslušenstvím (zápůjčka)",
+    "datumVydani": "2020-12-18",
+    "datumZverejneni": "2021-04-12",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/25abd507-2124-4ae5-9ece-15c60c8a33b9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
