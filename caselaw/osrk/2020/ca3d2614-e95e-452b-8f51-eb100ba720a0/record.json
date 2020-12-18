@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rychnově nad Kněžnou",
+  "ecli": "ECLI:CZ:OSRK:2020:3.C.164.2020.1",
+  "docket": "3 C 164/2020-40",
+  "date": "2020-12-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ca3d2614-e95e-452b-8f51-eb100ba720a0",
+  "source_sha256": "75a4bb4359c79e88c2f29589c38c45fd6197de7f6d8463bddb1ea681355e177b",
+  "source_id": "ca3d2614-e95e-452b-8f51-eb100ba720a0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 164/2020-40",
+    "soud": "Okresní soud v Rychnově nad Kněžnou",
+    "autor": "JUDr. Jiří Fuks, Ph.D.",
+    "ecli": "ECLI:CZ:OSRK:2020:3.C.164.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-18",
+    "datumZverejneni": "2021-02-01",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 150 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ca3d2614-e95e-452b-8f51-eb100ba720a0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
