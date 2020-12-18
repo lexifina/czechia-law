@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2020:15.C.371.2020.1",
+  "docket": "15 C 371/2020-16",
+  "date": "2020-12-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/547d649a-df92-4c17-be71-bcfde125e469",
+  "source_sha256": "310a5a666c4397cafe6e0ba58a049524a9271cff38c614c7c2d9a27937e7c157",
+  "source_id": "547d649a-df92-4c17-be71-bcfde125e469",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 371/2020-16",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Roman Flanderka",
+    "ecli": "ECLI:CZ:OSLI:2020:15.C.371.2020.1",
+    "predmetRizeni": "7 697,20 Kč s přísl.",
+    "datumVydani": "2020-12-18",
+    "datumZverejneni": "2021-01-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/547d649a-df92-4c17-be71-bcfde125e469"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
