@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 7",
+  "ecli": "ECLI:CZ:OSPH07:2020:16.C.247.2020.1",
+  "docket": "16 C 247/2020-11",
+  "date": "2020-12-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/34a63ba9-d29a-45eb-88cd-84fe305912ae",
+  "source_sha256": "c51c4fa657581d6ab56233f519a66f76cb1a4dde94f96ad5237c277d0e15ab0a",
+  "source_id": "34a63ba9-d29a-45eb-88cd-84fe305912ae",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 247/2020-11",
+    "soud": "Obvodní soud pro Prahu 7",
+    "autor": "JUDr. Jitka Poláchová",
+    "ecli": "ECLI:CZ:OSPH07:2020:16.C.247.2020.1",
+    "predmetRizeni": "O zaplacení 6 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-18",
+    "datumZverejneni": "2021-03-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/34a63ba9-d29a-45eb-88cd-84fe305912ae"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
