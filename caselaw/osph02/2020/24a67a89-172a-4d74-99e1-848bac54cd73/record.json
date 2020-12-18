@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2020:22.C.144.2020.4",
+  "docket": "22 C 144/2020-72",
+  "date": "2020-12-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/24a67a89-172a-4d74-99e1-848bac54cd73",
+  "source_sha256": "38a1056d1b719f23be4d8ebc7912256c361c1a209a28a9ca92562ffca84574ea",
+  "source_id": "24a67a89-172a-4d74-99e1-848bac54cd73",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 144/2020-72",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "Mgr. Jan Lipert",
+    "ecli": "ECLI:CZ:OSPH02:2020:22.C.144.2020.4",
+    "predmetRizeni": "o zaplacení 29 442 Kč s příslušenstvím",
+    "datumVydani": "2020-12-18",
+    "datumZverejneni": "2021-05-06",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/24a67a89-172a-4d74-99e1-848bac54cd73"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
