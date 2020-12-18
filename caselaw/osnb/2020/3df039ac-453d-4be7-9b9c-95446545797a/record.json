@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Nymburce",
+  "ecli": "ECLI:CZ:OSNB:2020:10.C.175.2020.1",
+  "docket": "10 C 175/2020-15",
+  "date": "2020-12-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3df039ac-453d-4be7-9b9c-95446545797a",
+  "source_sha256": "c0d18b853553f1d122b2e80bd0a7d2f7ea022990559116ca6189b8e00ad5871b",
+  "source_id": "3df039ac-453d-4be7-9b9c-95446545797a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 175/2020-15",
+    "soud": "Okresní soud v Nymburce",
+    "autor": "Mgr. Martina Kotouček mikolášková",
+    "ecli": "ECLI:CZ:OSNB:2020:10.C.175.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-18",
+    "datumZverejneni": "2021-02-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3df039ac-453d-4be7-9b9c-95446545797a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
