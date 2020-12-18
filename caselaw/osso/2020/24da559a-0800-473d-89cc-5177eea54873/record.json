@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2020:11.C.438.2020.2",
+  "docket": "11 C 438/2020-16",
+  "date": "2020-12-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/24da559a-0800-473d-89cc-5177eea54873",
+  "source_sha256": "2b56c180c0f86cf748a02642905fed9de83e82198bfb145dc2350a5fd1f7cfed",
+  "source_id": "24da559a-0800-473d-89cc-5177eea54873",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 438/2020-16",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "JUDr. Vladimír Hovorka",
+    "ecli": "ECLI:CZ:OSSO:2020:11.C.438.2020.2",
+    "predmetRizeni": "zaplacení 3 380 Kč s příslušenstvím",
+    "datumVydani": "2020-12-18",
+    "datumZverejneni": "2021-04-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/24da559a-0800-473d-89cc-5177eea54873"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
