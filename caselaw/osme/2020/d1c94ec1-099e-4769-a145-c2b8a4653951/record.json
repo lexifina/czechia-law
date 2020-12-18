@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mělníku",
+  "ecli": "ECLI:CZ:OSME:2020:19.C.131.2020.1",
+  "docket": "19 C 131/2020-42",
+  "date": "2020-12-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d1c94ec1-099e-4769-a145-c2b8a4653951",
+  "source_sha256": "0c43ef71e9e8b41cc1963ea8203618eeb6c6e1933bc084934a1e3684d3cf8598",
+  "source_id": "d1c94ec1-099e-4769-a145-c2b8a4653951",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 131/2020-42",
+    "soud": "Okresní soud v Mělníku",
+    "autor": "Mgr. Tereza Pirklová",
+    "ecli": "ECLI:CZ:OSME:2020:19.C.131.2020.1",
+    "predmetRizeni": "O zaplacení 1 430 Kč s příslušenstvím",
+    "datumVydani": "2020-12-18",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 251 z. č. 120/2001 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d1c94ec1-099e-4769-a145-c2b8a4653951"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
