@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2020:16.C.240.2020.1",
+  "docket": "16 C 240/2020-24",
+  "date": "2020-12-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8a6b0584-1f69-4fc3-9b91-89e3c771b28c",
+  "source_sha256": "e2eec1a0aa6c3dc5ee37fa30b265c4a4c34d658e994a720335d7c02d6eeef738",
+  "source_id": "8a6b0584-1f69-4fc3-9b91-89e3c771b28c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 240/2020-24",
+    "soud": "Okresní soud v Přerově",
+    "autor": "JUDr. Jaroslav Hikl",
+    "ecli": "ECLI:CZ:OSPR:2020:16.C.240.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-18",
+    "datumZverejneni": "2021-11-01",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  z. č. 513/1991 Sb.",
+      "§ 369 nař. vl. č. 142/1994 Sb.",
+      "§ 3030 z. č. 89/2012 Sb.",
+      "§ 3080 z. č. 40/1964 Sb.",
+      "§ 502 nař. vl. č. 142/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8a6b0584-1f69-4fc3-9b91-89e3c771b28c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
