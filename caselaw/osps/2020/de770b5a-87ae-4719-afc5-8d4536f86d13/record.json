@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2020:8.C.75.2020.1",
+  "docket": "8 C 75/2020-12",
+  "date": "2020-12-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/de770b5a-87ae-4719-afc5-8d4536f86d13",
+  "source_sha256": "142c5b3137a2c818c39fd36100ab1e5331474dfae69f2698143ee265feda41a1",
+  "source_id": "de770b5a-87ae-4719-afc5-8d4536f86d13",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 75/2020-12",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "Mgr. Václav Kokožka",
+    "ecli": "ECLI:CZ:OSPS:2020:8.C.75.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-12-18",
+    "datumZverejneni": "2021-02-12",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/de770b5a-87ae-4719-afc5-8d4536f86d13"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
