@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2020:8.C.424.2017.1",
+  "docket": "8 C 424/2017-219",
+  "date": "2020-12-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1d08938d-942d-45df-aa1b-020ddf2daf5b",
+  "source_sha256": "765d6dd0c4c030488dd14dba0a6b04ca29963499b940fd6f7d5305fb61fe096b",
+  "source_id": "1d08938d-942d-45df-aa1b-020ddf2daf5b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 424/2017-219",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Radomír Josiek",
+    "ecli": "ECLI:CZ:OSFM:2020:8.C.424.2017.1",
+    "predmetRizeni": "o zaplacení 30 608,50 Kč s příslušenstvím - náhrada škody",
+    "datumVydani": "2020-12-18",
+    "datumZverejneni": "2021-11-18",
+    "klicovaSlova": [
+      "náhrada škody",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2910 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1d08938d-942d-45df-aa1b-020ddf2daf5b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
