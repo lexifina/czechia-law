@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2020:11.C.333.2020.2",
+  "docket": "11 C 333/2020-26",
+  "date": "2020-12-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/208356c0-5da6-4bae-8dfe-4375227f63f6",
+  "source_sha256": "07802a4b67613120178cd3a6cbac22eab9b3c2c3082661af3babd440c2cfae91",
+  "source_id": "208356c0-5da6-4bae-8dfe-4375227f63f6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 333/2020-26",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "JUDr. Vladimír Hovorka",
+    "ecli": "ECLI:CZ:OSSO:2020:11.C.333.2020.2",
+    "predmetRizeni": "zaplacení 1 785,50 Kč",
+    "datumVydani": "2020-12-18",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "telekomunikace"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 63 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/208356c0-5da6-4bae-8dfe-4375227f63f6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
