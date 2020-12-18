@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2020:7.C.470.2020.1",
+  "docket": "7 C 470/2020-16",
+  "date": "2020-12-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/07fe31e8-3ea6-4a73-ab2d-b6328950e5a3",
+  "source_sha256": "1e3c9144cefcb7d20aea23a1167cac04b649986e357a12248a19d9096d65e9b5",
+  "source_id": "07fe31e8-3ea6-4a73-ab2d-b6328950e5a3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 470/2020-16",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Filip Janek",
+    "ecli": "ECLI:CZ:OSPY:2020:7.C.470.2020.1",
+    "predmetRizeni": "O zaplacení 675 Kč s příslušenstvím",
+    "datumVydani": "2020-12-18",
+    "datumZverejneni": "2021-03-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní",
+      "prodlení věřitele"
+    ],
+    "zminenaUstanoveni": [
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 6 z. č. 348/2005 Sb.",
+      "§ 7 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/07fe31e8-3ea6-4a73-ab2d-b6328950e5a3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
