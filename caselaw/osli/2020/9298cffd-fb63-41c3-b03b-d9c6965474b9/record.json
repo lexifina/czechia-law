@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2020:18.C.278.2020.1",
+  "docket": "18 C 278/2020-27",
+  "date": "2020-12-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9298cffd-fb63-41c3-b03b-d9c6965474b9",
+  "source_sha256": "3a6b2676254a27abae5ff12a6d76d9c3efbd55f8dadb1cd9911d760a7fab02b3",
+  "source_id": "9298cffd-fb63-41c3-b03b-d9c6965474b9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 278/2020-27",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Ing. arch. Kamil Podhola",
+    "ecli": "ECLI:CZ:OSLI:2020:18.C.278.2020.1",
+    "predmetRizeni": "Žaloba o vyklizení nemovitosti",
+    "datumVydani": "2020-12-18",
+    "datumZverejneni": "2021-08-02",
+    "klicovaSlova": [
+      "bytové družstvo",
+      "družstevní byt",
+      "vyklizení bytu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 2240 z. č. 89/2012 Sb.",
+      "§ 9 vyhl. č. 177/1996 Sb.",
+      "§ 734 z. č. 90/2012 Sb.",
+      "§ 619 z. č. 90/2012 Sb.",
+      "§ 615 z. č. 90/2012 Sb.",
+      "§ 595 z. č. 90/2012 Sb.",
+      "§ 618 z. č. 90/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9298cffd-fb63-41c3-b03b-d9c6965474b9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
