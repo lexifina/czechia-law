@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2020:24.C.29.2020.1",
+  "docket": "24 C 29/2020",
+  "date": "2020-12-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fb3fe356-c0b8-456b-ad13-c6d5bd516f40",
+  "source_sha256": "56a49b7c297ed1338f2dc46af7227beab6cc9f704b18249d200ea4e0d892b26a",
+  "source_id": "fb3fe356-c0b8-456b-ad13-c6d5bd516f40",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 29/2020",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Jitka Sikorová",
+    "ecli": "ECLI:CZ:OSKD:2020:24.C.29.2020.1",
+    "predmetRizeni": "o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2020-12-18",
+    "datumZverejneni": "2021-02-09",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 573 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fb3fe356-c0b8-456b-ad13-c6d5bd516f40"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
