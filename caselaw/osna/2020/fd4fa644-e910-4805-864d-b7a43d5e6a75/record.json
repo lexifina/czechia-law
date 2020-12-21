@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2020:6.C.176.2020.1",
+  "docket": "6 C 176/2020-49",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fd4fa644-e910-4805-864d-b7a43d5e6a75",
+  "source_sha256": "6dac3af33b3a894ba17feb6b85a8d6667e1b9d24997aa4ab9b1f5fb5e54d86fb",
+  "source_id": "fd4fa644-e910-4805-864d-b7a43d5e6a75",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 176/2020-49",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "JUDr. Blanka Klicnarová",
+    "ecli": "ECLI:CZ:OSNA:2020:6.C.176.2020.1",
+    "predmetRizeni": "o zaplacení 14 750 Kč s příslušenstvím (zápůjčka)",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-02-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fd4fa644-e910-4805-864d-b7a43d5e6a75"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
