@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2020:11.C.210.2020.1",
+  "docket": "11 C 210/2020-17",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bd9d274b-2bfa-4f81-b8ab-2baab8425858",
+  "source_sha256": "1276362d3cae26c00ef76755af79c145affe9e08ff960a8ff548aa63021534fb",
+  "source_id": "bd9d274b-2bfa-4f81-b8ab-2baab8425858",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 210/2020-17",
+    "soud": "Okresní soud v Táboře",
+    "autor": "Mgr. Jaroslava Novotná",
+    "ecli": "ECLI:CZ:OSTA:2020:11.C.210.2020.1",
+    "predmetRizeni": "O zaplacení 19 420 Kč s příslušenstvím",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-02-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bd9d274b-2bfa-4f81-b8ab-2baab8425858"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
