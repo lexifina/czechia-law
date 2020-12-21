@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2020:10.C.243.2020.1",
+  "docket": "10 C 243/2020-61",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dc2a225c-867e-4539-866f-2297b75e7501",
+  "source_sha256": "85dcab4d551dd4e7dfb4671aa8f68c423b1c6444cff0c888f1e8a50ee151e71c",
+  "source_id": "dc2a225c-867e-4539-866f-2297b75e7501",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 243/2020-61",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "Mgr. Jarmila Krejzková",
+    "ecli": "ECLI:CZ:OSZR:2020:10.C.243.2020.1",
+    "predmetRizeni": "zaplacení částky 91 999 Kč s přísl.",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-03-15",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva nájemní",
+      "uznání dluhu",
+      "vyklizení bytu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2235 z. č. 89/2012 Sb.",
+      "§ 2246 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dc2a225c-867e-4539-866f-2297b75e7501"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
