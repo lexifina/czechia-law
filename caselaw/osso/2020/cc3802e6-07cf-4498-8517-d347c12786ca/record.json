@@ -1,0 +1,30 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2020:10.C.356.2020.3",
+  "docket": "10 C 356/2020-23",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cc3802e6-07cf-4498-8517-d347c12786ca",
+  "source_sha256": "8d33ff2ef7d9f2ba6aa5c9b9ed7288ce718f89127d7a9c730bc58b5cb4d34555",
+  "source_id": "cc3802e6-07cf-4498-8517-d347c12786ca",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 356/2020-23",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "JUDr. Ivana Hovorková",
+    "ecli": "ECLI:CZ:OSSO:2020:10.C.356.2020.3",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-02-12",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 164 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cc3802e6-07cf-4498-8517-d347c12786ca"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
