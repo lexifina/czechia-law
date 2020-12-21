@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2020:47.C.146.2020.2",
+  "docket": "47 C 146/2020-24",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5885c0f7-e1c0-4ba1-a50e-e66a9eedcff7",
+  "source_sha256": "30bff0c21d7faa8003d2e5671d49f7d1a12f1f48a4db28afa1497bf56e72196f",
+  "source_id": "5885c0f7-e1c0-4ba1-a50e-e66a9eedcff7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "47 C 146/2020-24",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "Mgr. Kateřina Mlčochová",
+    "ecli": "ECLI:CZ:OSPH02:2020:47.C.146.2020.2",
+    "predmetRizeni": "O zaplacení 2 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-02-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5885c0f7-e1c0-4ba1-a50e-e66a9eedcff7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
