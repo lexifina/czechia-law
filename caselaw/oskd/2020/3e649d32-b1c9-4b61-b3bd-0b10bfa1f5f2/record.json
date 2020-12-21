@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2020:209.C.139.2020.1",
+  "docket": "209 C 139/2020-39",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3e649d32-b1c9-4b61-b3bd-0b10bfa1f5f2",
+  "source_sha256": "bc960ff1f70d97186a6d8bbe706163db4ee2c1b8aca219e3612d4f5680455980",
+  "source_id": "3e649d32-b1c9-4b61-b3bd-0b10bfa1f5f2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "209 C 139/2020-39",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Alena Šustrová",
+    "ecli": "ECLI:CZ:OSKD:2020:209.C.139.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-01-29",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2783 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 12 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3e649d32-b1c9-4b61-b3bd-0b10bfa1f5f2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
