@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSJC:2020:12.C.312.2020.2",
+  "docket": "12 C 312/2020-11",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9ab9dbae-7482-4efc-b586-6086d79096cc",
+  "source_sha256": "5d4086ea8a399e37c50bd7b7a5b7b8100daef2cfedbf3d4817c96240eeff6235",
+  "source_id": "9ab9dbae-7482-4efc-b586-6086d79096cc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 312/2020-11",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "Mgr. Michal Chmelař",
+    "ecli": "ECLI:CZ:OSJC:2020:12.C.312.2020.2",
+    "predmetRizeni": "O zaplacení 8 165 Kč s příslušenstvím",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-02-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu",
+      "pozemní komunikace"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 115 z. č. 99/1963 Sb.",
+      "§ 2a vyhl. č. 417/2017 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9ab9dbae-7482-4efc-b586-6086d79096cc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
