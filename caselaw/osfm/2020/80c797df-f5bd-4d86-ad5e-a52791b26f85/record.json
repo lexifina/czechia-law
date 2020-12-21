@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2020:19.C.271.2020.1",
+  "docket": "19 C 271/2020-10",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/80c797df-f5bd-4d86-ad5e-a52791b26f85",
+  "source_sha256": "e9b2ff9f0b1f39bd51e366b77a44a31b653908d6c15d9948cf5448f43af62457",
+  "source_id": "80c797df-f5bd-4d86-ad5e-a52791b26f85",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 271/2020-10",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "JUDr. Zuzana Benešová",
+    "ecli": "ECLI:CZ:OSFM:2020:19.C.271.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-01-11",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/80c797df-f5bd-4d86-ad5e-a52791b26f85"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
