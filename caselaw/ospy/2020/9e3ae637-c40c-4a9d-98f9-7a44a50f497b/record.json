@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2020:21.C.195.2020.1",
+  "docket": "21 C 195/2020-42",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9e3ae637-c40c-4a9d-98f9-7a44a50f497b",
+  "source_sha256": "02f4c8a024553d432f3e3c9eb5d466a6adbfc401cee0a6802cc8da24922cbc1a",
+  "source_id": "9e3ae637-c40c-4a9d-98f9-7a44a50f497b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 195/2020-42",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Dana Fiedlerová",
+    "ecli": "ECLI:CZ:OSPY:2020:21.C.195.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-03-05",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení věci",
+      "rozsudek pro zmeškání",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 153b z. č. 99/1963 Sb.",
+      "§ 2894 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9e3ae637-c40c-4a9d-98f9-7a44a50f497b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
