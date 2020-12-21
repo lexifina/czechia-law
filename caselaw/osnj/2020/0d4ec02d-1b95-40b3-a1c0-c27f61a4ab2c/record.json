@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2020:24.C.248.2020.1",
+  "docket": "24 C 248/2020-21",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0d4ec02d-1b95-40b3-a1c0-c27f61a4ab2c",
+  "source_sha256": "2251c9c0c8ccedbfa5fcf6977c1f5d86f2b8890c071597d2b1c6df3bc2ec1a46",
+  "source_id": "0d4ec02d-1b95-40b3-a1c0-c27f61a4ab2c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 248/2020-21",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "JUDr. Ivan Holub, , Ph.D.",
+    "ecli": "ECLI:CZ:OSNJ:2020:24.C.248.2020.1",
+    "predmetRizeni": "O zaplacení 16 171,76 Kč s příslušenstvím",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-02-24",
+    "klicovaSlova": [
+      "notářský zápis",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0d4ec02d-1b95-40b3-a1c0-c27f61a4ab2c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
