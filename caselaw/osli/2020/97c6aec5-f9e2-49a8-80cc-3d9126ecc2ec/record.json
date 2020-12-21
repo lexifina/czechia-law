@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2020:16.C.325.2016.1",
+  "docket": "16 C 325/2016-58",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/97c6aec5-f9e2-49a8-80cc-3d9126ecc2ec",
+  "source_sha256": "f463408916217667d9bdc6544365180780469b4268b323bd8893885614a2839d",
+  "source_id": "97c6aec5-f9e2-49a8-80cc-3d9126ecc2ec",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 325/2016-58",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Martin Košek",
+    "ecli": "ECLI:CZ:OSLI:2020:16.C.325.2016.1",
+    "predmetRizeni": "Žaloba na zaplacení částky 8.692,00 Kč s přísl. - dluh",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-03-17",
+    "klicovaSlova": [
+      "dodávky energie",
+      "oddlužení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 414 z. č. 182/2006 Sb.",
+      "§ 414 z. č. 140/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/97c6aec5-f9e2-49a8-80cc-3d9126ecc2ec"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
