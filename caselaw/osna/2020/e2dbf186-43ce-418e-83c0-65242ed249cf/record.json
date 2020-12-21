@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2020:6.C.180.2020.1",
+  "docket": "6 C 180/2020-36",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e2dbf186-43ce-418e-83c0-65242ed249cf",
+  "source_sha256": "b651b2f43928115afea648ce9af00eba88b7064b0c8dd3dfbf5ee96889586661",
+  "source_id": "e2dbf186-43ce-418e-83c0-65242ed249cf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 180/2020-36",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "JUDr. Blanka Klicnarová",
+    "ecli": "ECLI:CZ:OSNA:2020:6.C.180.2020.1",
+    "predmetRizeni": "o zaplacení 10 000 Kč s příslušenstvím (smluvní pokuta)",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-02-18",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 64 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e2dbf186-43ce-418e-83c0-65242ed249cf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
