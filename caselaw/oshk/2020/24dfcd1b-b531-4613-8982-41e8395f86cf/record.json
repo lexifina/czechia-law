@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2020:21.C.160.2020.1",
+  "docket": "21 C 160/2020-22",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/24dfcd1b-b531-4613-8982-41e8395f86cf",
+  "source_sha256": "b072924ceb22119a350fcc52ddd529c3fda4e235d69b4aa8b68dd93a9c2ec3e2",
+  "source_id": "24dfcd1b-b531-4613-8982-41e8395f86cf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 160/2020-22",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "JUDr. Markéta Šubová",
+    "ecli": "ECLI:CZ:OSHK:2020:21.C.160.2020.1",
+    "predmetRizeni": "o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-02-26",
+    "klicovaSlova": [
+      "pojištění odpovědnosti za škodu",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2910 z. č. 89/2012 Sb.",
+      "§ 2927 z. č. 89/2012 Sb.",
+      "§ 24 z. č. 168/1999 Sb.",
+      "§ 18 z. č. 361/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/24dfcd1b-b531-4613-8982-41e8395f86cf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
