@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2020:10.C.262.2020.1",
+  "docket": "10 C 262/2020-34",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3f5473b6-5105-4d6d-8a24-1b6ef98bfcb5",
+  "source_sha256": "1dd7803e25d1f01ef8fdde089bc4203d90d87fcb24dad61160882558c1c32e19",
+  "source_id": "3f5473b6-5105-4d6d-8a24-1b6ef98bfcb5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 262/2020-34",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "Mgr. Jarmila Krejzková",
+    "ecli": "ECLI:CZ:OSZR:2020:10.C.262.2020.1",
+    "predmetRizeni": "O zaplacení 1 060 Kč s příslušenstvím",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-01-21",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 12 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3f5473b6-5105-4d6d-8a24-1b6ef98bfcb5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
