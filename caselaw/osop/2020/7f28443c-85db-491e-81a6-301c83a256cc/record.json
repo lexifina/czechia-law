@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2020:10.C.309.2019.1",
+  "docket": "10 C 309/2019-62",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7f28443c-85db-491e-81a6-301c83a256cc",
+  "source_sha256": "8c8701cfac044f7e7e0bd270f7f1637a552a3d168a0775fd4a88b8504ffe7992",
+  "source_id": "7f28443c-85db-491e-81a6-301c83a256cc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 309/2019-62",
+    "soud": "Okresní soud v Opavě",
+    "autor": "Mgr. Adam Haas",
+    "ecli": "ECLI:CZ:OSOP:2020:10.C.309.2019.1",
+    "predmetRizeni": "o zaplacení 10 062 Kč s příslušenstvím",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-04-23",
+    "klicovaSlova": [
+      "majetková újma",
+      "náhrada škody"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 224 z. č. 99/1963 Sb.",
+      "§ 119a z. č. 99/1963 Sb.",
+      "§ 24 z. č. 168/1999 Sb.",
+      "§ 5 z. č. 99/1963 Sb.",
+      "§ 24a z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7f28443c-85db-491e-81a6-301c83a256cc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
