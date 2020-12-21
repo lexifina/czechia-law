@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2020:19.C.14.2020.1",
+  "docket": "19 C 14/2020-12",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/76753ff1-a411-407b-955c-3befc304f937",
+  "source_sha256": "ae8567e19c33db40716dd32153bb1720459e06f5d8f6060c2891774572b99fbb",
+  "source_id": "76753ff1-a411-407b-955c-3befc304f937",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 14/2020-12",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "JUDr. Zuzana Berčíková",
+    "ecli": "ECLI:CZ:OSUL:2020:19.C.14.2020.1",
+    "predmetRizeni": "o zrušení vyživovací povinnosti",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 156 z. č. 99/1963 Sb.",
+      "§ 911 z. č. 89/2012 Sb.",
+      "§ 158 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/76753ff1-a411-407b-955c-3befc304f937"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
