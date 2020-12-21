@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2020:42.C.143.2020.1",
+  "docket": "42 C 143/2020",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/86f9c314-d0bf-49b5-b990-52f88d8c54d7",
+  "source_sha256": "8942cbf788b8e6ebc4853809e8409c365973e4ad49d297a4df9d669720fddea0",
+  "source_id": "86f9c314-d0bf-49b5-b990-52f88d8c54d7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 143/2020",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "Mgr. Andrea Boráková",
+    "ecli": "ECLI:CZ:OSBI:2020:42.C.143.2020.1",
+    "predmetRizeni": "O zaplacení 799 Kč s příslušenstvím",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-02-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "škodové pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 2804 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/86f9c314-d0bf-49b5-b990-52f88d8c54d7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
