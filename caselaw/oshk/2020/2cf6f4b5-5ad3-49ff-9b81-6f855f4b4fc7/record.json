@@ -1,0 +1,48 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2020:17.C.364.2016.14",
+  "docket": "17 C 364/2016-381",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2cf6f4b5-5ad3-49ff-9b81-6f855f4b4fc7",
+  "source_sha256": "c63f7c0249d1a0d41241c0a7ca9ce31eb7ecb049940e1c90f3291f9ab6d39d66",
+  "source_id": "2cf6f4b5-5ad3-49ff-9b81-6f855f4b4fc7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 364/2016-381",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "Mgr. Milena Rejchová",
+    "ecli": "ECLI:CZ:OSHK:2020:17.C.364.2016.14",
+    "predmetRizeni": "o vypořádání společného jmění manželů",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-09-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění",
+      "rozvod manželství",
+      "smlouva kupní",
+      "smlouva příkazní",
+      "společné jmění manželů",
+      "vypořádání SJM",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 586 z. č. 89/2012 Sb.",
+      "§ 740 z. č. 89/2012 Sb.",
+      "§ 736 z. č. 89/2012 Sb.",
+      "§ 742 z. č. 89/2012 Sb.",
+      "§ 714 z. č. 89/2012 Sb.",
+      "§ 26 z. č. 41/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2cf6f4b5-5ad3-49ff-9b81-6f855f4b4fc7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
