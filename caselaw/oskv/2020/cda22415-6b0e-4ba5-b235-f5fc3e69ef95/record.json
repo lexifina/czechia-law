@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2020:19.C.150.2020.1",
+  "docket": "19 C 150/2020-34",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cda22415-6b0e-4ba5-b235-f5fc3e69ef95",
+  "source_sha256": "646eaff20180352f43da2400e51e579541c6f40cfe33c1a9bcf62d079e104af6",
+  "source_id": "cda22415-6b0e-4ba5-b235-f5fc3e69ef95",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 150/2020-34",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Aleš Fikker",
+    "ecli": "ECLI:CZ:OSKV:2020:19.C.150.2020.1",
+    "predmetRizeni": "4.000 Kč / zaplacení kupní ceny",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-02-26",
+    "klicovaSlova": [
+      "omezení svéprávnosti",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cda22415-6b0e-4ba5-b235-f5fc3e69ef95"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
