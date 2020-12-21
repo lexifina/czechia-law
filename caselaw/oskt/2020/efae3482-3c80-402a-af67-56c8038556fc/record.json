@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2020:4.C.278.2019.1",
+  "docket": "4 C 278/2019-104",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/efae3482-3c80-402a-af67-56c8038556fc",
+  "source_sha256": "c4cdde02f2dd46a8af691a970dac9cc4af5c771993db7df4f936da7168c5099b",
+  "source_id": "efae3482-3c80-402a-af67-56c8038556fc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 278/2019-104",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "Mgr. Alena Štětinová",
+    "ecli": "ECLI:CZ:OSKT:2020:4.C.278.2019.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-09-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní",
+      "svědečné",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/efae3482-3c80-402a-af67-56c8038556fc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
