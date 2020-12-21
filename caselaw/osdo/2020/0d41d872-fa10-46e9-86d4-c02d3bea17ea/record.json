@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2020:17.C.44.2020.1",
+  "docket": "17 C 44/2020-37",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0d41d872-fa10-46e9-86d4-c02d3bea17ea",
+  "source_sha256": "879ff8c04a0d88010f2b156bf9889c8f147d5bd7ea03a5db2bf35d159937f6be",
+  "source_id": "0d41d872-fa10-46e9-86d4-c02d3bea17ea",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 44/2020-37",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "JUDr. Michal Sýkora",
+    "ecli": "ECLI:CZ:OSDO:2020:17.C.44.2020.1",
+    "predmetRizeni": "o vyklizení nemovitosti",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-02-27",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "vyklizení bytu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1040 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2285 z. č. 89/2012 Sb.",
+      "§ 158 z. č. 262/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0d41d872-fa10-46e9-86d4-c02d3bea17ea"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
