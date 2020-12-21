@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2020:6.C.170.2020.1",
+  "docket": "6 C 170/2020-19",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c199a1d0-1cee-4cea-a998-aeb4e1416f44",
+  "source_sha256": "418b4ee4b801791ef8e44d570668b8a3a9cceccda58d77a1a85d859ab5866ffc",
+  "source_id": "c199a1d0-1cee-4cea-a998-aeb4e1416f44",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 170/2020-19",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "JUDr. Vladimíra Mašinová",
+    "ecli": "ECLI:CZ:OSDO:2020:6.C.170.2020.1",
+    "predmetRizeni": "O zaplacení 9 240 Kč s příslušenstvím",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-02-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 1968 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c199a1d0-1cee-4cea-a998-aeb4e1416f44"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
