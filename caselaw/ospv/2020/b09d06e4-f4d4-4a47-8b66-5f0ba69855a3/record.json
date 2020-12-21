@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2020:9.C.248.2020.1",
+  "docket": "9 C 248/2020-52",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b09d06e4-f4d4-4a47-8b66-5f0ba69855a3",
+  "source_sha256": "539ddba457a8b3e02ac9bbb4b4c314536e53c7959df3587e2b0339602447ac2e",
+  "source_id": "b09d06e4-f4d4-4a47-8b66-5f0ba69855a3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 248/2020-52",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "JUDr. Alice Havránková",
+    "ecli": "ECLI:CZ:OSPV:2020:9.C.248.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-02-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2 vyhl. č. 205/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 2a vyhl. č. 205/1999 Sb.",
+      "§ 173 z. č. 99/1963 Sb.",
+      "§ 174a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b09d06e4-f4d4-4a47-8b66-5f0ba69855a3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
