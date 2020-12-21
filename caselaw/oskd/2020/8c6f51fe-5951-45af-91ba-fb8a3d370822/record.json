@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2020:207.C.180.2020.1",
+  "docket": "207 C 180/2020-71",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8c6f51fe-5951-45af-91ba-fb8a3d370822",
+  "source_sha256": "105d6ddcb002db444822b54ef31e881bfdc9a12f4b658f8920fec8383ba1833a",
+  "source_id": "8c6f51fe-5951-45af-91ba-fb8a3d370822",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "207 C 180/2020-71",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Jarmila Tůmová",
+    "ecli": "ECLI:CZ:OSKD:2020:207.C.180.2020.1",
+    "predmetRizeni": "o zaplacení [částka]",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-01-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 153 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8c6f51fe-5951-45af-91ba-fb8a3d370822"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
