@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2020:60.C.231.2020.1",
+  "docket": "60 C 231/2020-35",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/477a3c5a-71f4-4ec2-b3d4-595bbb6932ea",
+  "source_sha256": "206a7c435ae1c3741273b27a03f9323c0b44df79cdc6fa40e04c6e3d2ee9c1a5",
+  "source_id": "477a3c5a-71f4-4ec2-b3d4-595bbb6932ea",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "60 C 231/2020-35",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "Mgr. Hana Kadlecová, LL.M.",
+    "ecli": "ECLI:CZ:OSPH04:2020:60.C.231.2020.1",
+    "predmetRizeni": "O zaplacení 11 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-03-18",
+    "klicovaSlova": [
+      "cizina",
+      "cizinci",
+      "postoupení pohledávky",
+      "promlčení",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 657 z. č. 40/1964 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§  nař. vl. č. 1215/2012 Sb.",
+      "§ 164 z. č. 257/2016 Sb.",
+      "§ 100 z. č. 89/2012 Sb.",
+      "§ 103 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/477a3c5a-71f4-4ec2-b3d4-595bbb6932ea"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
