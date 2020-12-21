@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2020:8.C.161.2020.1",
+  "docket": "8 C 161/2020-22",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/312aea05-8a5a-407c-b7f1-f0c5af2438e8",
+  "source_sha256": "ba187bcf319187e47044e9b329adcc2d1cce2ff48212651091d56f5fb05fc4ca",
+  "source_id": "312aea05-8a5a-407c-b7f1-f0c5af2438e8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 161/2020-22",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "Mgr. Šárka Široká",
+    "ecli": "ECLI:CZ:OSRO:2020:8.C.161.2020.1",
+    "predmetRizeni": "zaplacení 7 940 Kč s přísl.",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2291 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/312aea05-8a5a-407c-b7f1-f0c5af2438e8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
