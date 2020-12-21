@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2020:23.C.310.2020.1",
+  "docket": "23 C 310/2020-25",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5223d33d-36f1-4e16-89af-0cc743644324",
+  "source_sha256": "be19c2a3173ae78cd8dca45f9fb2199cded9bcb8988940266e1a62a990cd6386",
+  "source_id": "5223d33d-36f1-4e16-89af-0cc743644324",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 310/2020-25",
+    "soud": "Okresní soud v Karviné",
+    "autor": "Mgr. Ing. Marie Miczková",
+    "ecli": "ECLI:CZ:OSKI:2020:23.C.310.2020.1",
+    "predmetRizeni": "2 518,99 Kč",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-02-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5223d33d-36f1-4e16-89af-0cc743644324"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
