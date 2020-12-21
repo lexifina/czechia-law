@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rychnově nad Kněžnou",
+  "ecli": "ECLI:CZ:OSRK:2020:7.C.187.2020.1",
+  "docket": "7 C 187/2020-53",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4c2e4aa2-f717-4b54-9274-d6f02b2237d2",
+  "source_sha256": "fd37a5a2a86a4c2c61f0fe6224820b2d55534ed311d8b827bec0c01682d6ceb7",
+  "source_id": "4c2e4aa2-f717-4b54-9274-d6f02b2237d2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 187/2020-53",
+    "soud": "Okresní soud v Rychnově nad Kněžnou",
+    "autor": "JUDr. Renata Plná",
+    "ecli": "ECLI:CZ:OSRK:2020:7.C.187.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-02-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 63 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4c2e4aa2-f717-4b54-9274-d6f02b2237d2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
