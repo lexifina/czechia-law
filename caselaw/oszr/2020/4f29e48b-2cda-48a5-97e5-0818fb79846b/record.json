@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2020:10.C.254.2020.1",
+  "docket": "10 C 254/2020-45",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4f29e48b-2cda-48a5-97e5-0818fb79846b",
+  "source_sha256": "f79dc2b865b070aecace5b5c77ceafd613f515440fa29fe79aa487bb7c16d7af",
+  "source_id": "4f29e48b-2cda-48a5-97e5-0818fb79846b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 254/2020-45",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "Mgr. Jarmila Krejzková",
+    "ecli": "ECLI:CZ:OSZR:2020:10.C.254.2020.1",
+    "predmetRizeni": "O zaplacení 4 190 Kč s příslušenstvím",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-02-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4f29e48b-2cda-48a5-97e5-0818fb79846b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
