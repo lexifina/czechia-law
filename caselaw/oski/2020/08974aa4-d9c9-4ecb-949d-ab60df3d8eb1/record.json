@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2020:17.C.421.2019.1",
+  "docket": "17 C 421/2019-20",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/08974aa4-d9c9-4ecb-949d-ab60df3d8eb1",
+  "source_sha256": "e2d96344a4566a1f640f85398af3f1325165a9eca1b4c1bca37542d8aca870b5",
+  "source_id": "08974aa4-d9c9-4ecb-949d-ab60df3d8eb1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 421/2019-20",
+    "soud": "Okresní soud v Karviné",
+    "autor": "Mgr. Irena Trombiková",
+    "ecli": "ECLI:CZ:OSKI:2020:17.C.421.2019.1",
+    "predmetRizeni": "5 550 Kč s příslušenstvím",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-02-01",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2824 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/08974aa4-d9c9-4ecb-949d-ab60df3d8eb1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
