@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2020:17.C.268.2020.1",
+  "docket": "17 C 268/2020-17",
+  "date": "2020-12-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/693c3c6b-e0af-43bd-9999-8315a4884e28",
+  "source_sha256": "fee8ee9ee9b77b21c6aa799b2aa2af7583e0fa46660d66bff691fa6701908e42",
+  "source_id": "693c3c6b-e0af-43bd-9999-8315a4884e28",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 268/2020-17",
+    "soud": "Okresní soud v Karviné",
+    "autor": "Mgr. Irena Trombiková",
+    "ecli": "ECLI:CZ:OSKI:2020:17.C.268.2020.1",
+    "predmetRizeni": "1 524 Kč s příslušenstvím",
+    "datumVydani": "2020-12-21",
+    "datumZverejneni": "2021-02-11",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 2551 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/693c3c6b-e0af-43bd-9999-8315a4884e28"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
