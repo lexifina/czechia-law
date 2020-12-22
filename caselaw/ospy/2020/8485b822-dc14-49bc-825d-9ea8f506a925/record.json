@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2020:7.C.363.2020.1",
+  "docket": "7 C 363/2020-18",
+  "date": "2020-12-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8485b822-dc14-49bc-825d-9ea8f506a925",
+  "source_sha256": "b09d8516344670f4228763461929832db4ba6b46644c64f0d703fc2b896799f4",
+  "source_id": "8485b822-dc14-49bc-825d-9ea8f506a925",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 363/2020-18",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Filip Janek",
+    "ecli": "ECLI:CZ:OSPY:2020:7.C.363.2020.1",
+    "predmetRizeni": "O zaplacení 43 176 Kč s příslušenstvím",
+    "datumVydani": "2020-12-22",
+    "datumZverejneni": "2021-11-04",
+    "klicovaSlova": [
+      "pojištění odpovědnosti za škodu",
+      "řidičský průkaz"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8485b822-dc14-49bc-825d-9ea8f506a925"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
