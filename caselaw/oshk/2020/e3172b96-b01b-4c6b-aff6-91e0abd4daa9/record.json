@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2020:20.C.321.2020.1",
+  "docket": "20 C 321/2020-15",
+  "date": "2020-12-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e3172b96-b01b-4c6b-aff6-91e0abd4daa9",
+  "source_sha256": "5046683a4a4cdf3974d6cd5d591134d97d82bae906899cd922edff4bbf40638e",
+  "source_id": "e3172b96-b01b-4c6b-aff6-91e0abd4daa9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 321/2020-15",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "JUDr. Jakub Kavalír",
+    "ecli": "ECLI:CZ:OSHK:2020:20.C.321.2020.1",
+    "predmetRizeni": "o zaplacení částky 10 720 Kč s příslušenstvím",
+    "datumVydani": "2020-12-22",
+    "datumZverejneni": "2021-04-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 1724 z. č. 89/2012 Sb.",
+      "§ 513 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§  z. č. 257/2016 Sb.",
+      "§ 3 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e3172b96-b01b-4c6b-aff6-91e0abd4daa9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
