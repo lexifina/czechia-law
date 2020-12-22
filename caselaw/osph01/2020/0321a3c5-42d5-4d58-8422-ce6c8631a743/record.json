@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2020:18.C.48.2019.1",
+  "docket": "18 C 48/2019-42",
+  "date": "2020-12-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0321a3c5-42d5-4d58-8422-ce6c8631a743",
+  "source_sha256": "112f729224628cf870354f45e781102013007e32108aefd07f941d3263f971cc",
+  "source_id": "0321a3c5-42d5-4d58-8422-ce6c8631a743",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 48/2019-42",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "JUDr. Anna Vandáková",
+    "ecli": "ECLI:CZ:OSPH01:2020:18.C.48.2019.1",
+    "predmetRizeni": "o zaplacení 8 450 Kč s příslušenstvím",
+    "datumVydani": "2020-12-22",
+    "datumZverejneni": "2021-03-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení",
+      "smlouva kupní",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 513 z. č. 89/2012 Sb.",
+      "§ 2018 z. č. 89/2012 Sb.",
+      "§ 2054 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0321a3c5-42d5-4d58-8422-ce6c8631a743"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
