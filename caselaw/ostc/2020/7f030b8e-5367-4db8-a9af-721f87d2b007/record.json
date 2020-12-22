@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Tachově",
+  "ecli": "ECLI:CZ:OSTC:2020:7.C.287.2020.1",
+  "docket": "7 C 287/2020-42",
+  "date": "2020-12-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7f030b8e-5367-4db8-a9af-721f87d2b007",
+  "source_sha256": "bf233dfba099be738ab5118105b6c9f2ce1a23a974a8d48f59eef6c7a2446aa6",
+  "source_id": "7f030b8e-5367-4db8-a9af-721f87d2b007",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 287/2020-42",
+    "soud": "Okresní soud v Tachově",
+    "autor": "prom. práv. František Kříž",
+    "ecli": "ECLI:CZ:OSTC:2020:7.C.287.2020.1",
+    "predmetRizeni": "O zaplacení 6 072 Kč s příslušenstvím",
+    "datumVydani": "2020-12-22",
+    "datumZverejneni": "2021-02-04",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7f030b8e-5367-4db8-a9af-721f87d2b007"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
