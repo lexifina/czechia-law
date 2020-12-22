@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně",
+  "ecli": "ECLI:CZ:OSVS:2020:20.C.72.2020.1",
+  "docket": "20 C 72/2020-69",
+  "date": "2020-12-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/149d2489-e1b6-48e4-94ad-3de0d9246a75",
+  "source_sha256": "06c24934fb45eb6ac36aafc72e01cc8a721fca4f816e7aa182f4fae91520a448",
+  "source_id": "149d2489-e1b6-48e4-94ad-3de0d9246a75",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 72/2020-69",
+    "soud": "Okresní soud ve Vsetíně",
+    "autor": "Mgr. Miroslav Neuer",
+    "ecli": "ECLI:CZ:OSVS:2020:20.C.72.2020.1",
+    "predmetRizeni": "O zaplacení 19 093,33 Kč s příslušenstvím",
+    "datumVydani": "2020-12-22",
+    "datumZverejneni": "2021-04-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/149d2489-e1b6-48e4-94ad-3de0d9246a75"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
