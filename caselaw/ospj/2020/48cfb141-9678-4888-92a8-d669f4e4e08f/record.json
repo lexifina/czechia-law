@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPJ:2020:9.C.163.2020.2",
+  "docket": "9 C 163/2020-25",
+  "date": "2020-12-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/48cfb141-9678-4888-92a8-d669f4e4e08f",
+  "source_sha256": "0a080d58cfa0eb47d307dd612ff8de1f724a485568c5fdcdc28b405268d81c18",
+  "source_id": "48cfb141-9678-4888-92a8-d669f4e4e08f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 163/2020-25",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Tereza Bušková",
+    "ecli": "ECLI:CZ:OSPJ:2020:9.C.163.2020.2",
+    "predmetRizeni": "5 760 Kč s přísl.",
+    "datumVydani": "2020-12-22",
+    "datumZverejneni": "2021-03-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4/1 nař. vl. č. 1215/2012 Sb.",
+      "§ 4/1 nař. vl. č. 864/2007 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/48cfb141-9678-4888-92a8-d669f4e4e08f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
