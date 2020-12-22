@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jeseníku",
+  "ecli": "ECLI:CZ:OSJE:2020:10.C.126.2020.1",
+  "docket": "10 C 126/2020-19",
+  "date": "2020-12-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b6dd2fb4-0470-41c6-b494-3ad08f26979e",
+  "source_sha256": "3306d9347ca748d3e42e300da80179eb399c1e872d3c2b5218f6d2e2f5619537",
+  "source_id": "b6dd2fb4-0470-41c6-b494-3ad08f26979e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 126/2020-19",
+    "soud": "Okresní soud v Jeseníku",
+    "autor": "Mgr. Jana Reslová",
+    "ecli": "ECLI:CZ:OSJE:2020:10.C.126.2020.1",
+    "predmetRizeni": "4 534,58 Kč s příslušenstvím",
+    "datumVydani": "2020-12-22",
+    "datumZverejneni": "2021-02-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 1931 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b6dd2fb4-0470-41c6-b494-3ad08f26979e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
