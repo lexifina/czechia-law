@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2020:12.C.75.2020.1",
+  "docket": "12 C 75/2020-26",
+  "date": "2020-12-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dbc7c544-c45b-4334-8e00-04f388e486bd",
+  "source_sha256": "fdfc0442feb3559799e0039280e12f269ecb3b009683a59a07dfe0f78775b012",
+  "source_id": "dbc7c544-c45b-4334-8e00-04f388e486bd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 75/2020-26",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "JUDr. Eva Veselá",
+    "ecli": "ECLI:CZ:OSCB:2020:12.C.75.2020.1",
+    "predmetRizeni": "o zaplacení částky 82 335,97 Kč s příslušenstvím",
+    "datumVydani": "2020-12-22",
+    "datumZverejneni": "2021-02-09",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  z. č. 458/2000 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dbc7c544-c45b-4334-8e00-04f388e486bd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
