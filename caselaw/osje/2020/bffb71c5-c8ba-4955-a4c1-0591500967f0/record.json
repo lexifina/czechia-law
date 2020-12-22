@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jeseníku",
+  "ecli": "ECLI:CZ:OSJE:2020:10.C.112.2020.1",
+  "docket": "10 C 112/2020-22",
+  "date": "2020-12-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bffb71c5-c8ba-4955-a4c1-0591500967f0",
+  "source_sha256": "28d39915cf42389ccf9daaa185e937a9f1a66f29cd2acf6cffe5edad3319564b",
+  "source_id": "bffb71c5-c8ba-4955-a4c1-0591500967f0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 112/2020-22",
+    "soud": "Okresní soud v Jeseníku",
+    "autor": "Mgr. Jana Reslová",
+    "ecli": "ECLI:CZ:OSJE:2020:10.C.112.2020.1",
+    "predmetRizeni": "18.482,63 Kč s příslušenstvím",
+    "datumVydani": "2020-12-22",
+    "datumZverejneni": "2021-02-24",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 3 nař. vl. č. 351/2013 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 50 z. č. 458/2000 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bffb71c5-c8ba-4955-a4c1-0591500967f0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
