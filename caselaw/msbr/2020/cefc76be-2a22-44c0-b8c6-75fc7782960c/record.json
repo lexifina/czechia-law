@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:48.C.199.2020.1",
+  "docket": "48 C 199/2020-19",
+  "date": "2020-12-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cefc76be-2a22-44c0-b8c6-75fc7782960c",
+  "source_sha256": "8b33522f13cf636cf7c8298443cef7496d815a73342b0761f2732f791da56141",
+  "source_id": "cefc76be-2a22-44c0-b8c6-75fc7782960c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "48 C 199/2020-19",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Alena Franková",
+    "ecli": "ECLI:CZ:MSBR:2020:48.C.199.2020.1",
+    "predmetRizeni": "zaplacení 3.361 Kč s příslušenstvím - faktura",
+    "datumVydani": "2020-12-22",
+    "datumZverejneni": "2021-06-15",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 115 z. č. 99/1963 Sb.",
+      "§  nař. vl. č. 351/2014 Sb.",
+      "§ 14b vyhl. č. 120/2014 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cefc76be-2a22-44c0-b8c6-75fc7782960c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
