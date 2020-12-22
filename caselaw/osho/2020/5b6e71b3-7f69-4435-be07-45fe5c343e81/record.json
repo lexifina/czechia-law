@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2020:22.C.126.2020.1",
+  "docket": "22 C 126/2020-25",
+  "date": "2020-12-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5b6e71b3-7f69-4435-be07-45fe5c343e81",
+  "source_sha256": "4234f5cfbd0fec4553c8f73f4906e68d1b97fa800790562e75b75feb9c9524f1",
+  "source_id": "5b6e71b3-7f69-4435-be07-45fe5c343e81",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 126/2020-25",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "JUDr. Kateřina Krůpová",
+    "ecli": "ECLI:CZ:OSHO:2020:22.C.126.2020.1",
+    "predmetRizeni": "zaplacení 20 900 Kč s příslušenstvím",
+    "datumVydani": "2020-12-22",
+    "datumZverejneni": "2021-03-11",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 657 z. č. 40/1964 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 573 z. č. 89/2012 Sb.",
+      "§  z. č. 321/2001 Sb.",
+      "§  z. č. 64/1986 Sb.",
+      "§ 570 z. č. 89/2012 Sb.",
+      "§ 457 z. č. 40/1964 Sb.",
+      "§ 39 z. č. 64/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5b6e71b3-7f69-4435-be07-45fe5c343e81"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
