@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:43.C.103.2020.1",
+  "docket": "43 C 103/2020-33",
+  "date": "2020-12-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/45ee93d1-4b6b-485d-9736-fbcd45ca384b",
+  "source_sha256": "6626021c0c3d9e0f7db041d1b701984970af672315ea3ef19e81621c9c05a38c",
+  "source_id": "45ee93d1-4b6b-485d-9736-fbcd45ca384b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "43 C 103/2020-33",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Jana Leblochová",
+    "ecli": "ECLI:CZ:MSBR:2020:43.C.103.2020.1",
+    "predmetRizeni": "zaplacení 1.525 Kč s příslušenstvím - pokuta",
+    "datumVydani": "2020-12-22",
+    "datumZverejneni": "2021-02-12",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 175/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/45ee93d1-4b6b-485d-9736-fbcd45ca384b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
