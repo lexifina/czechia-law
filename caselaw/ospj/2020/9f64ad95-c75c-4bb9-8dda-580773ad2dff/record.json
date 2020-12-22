@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPJ:2020:9.C.165.2020.2",
+  "docket": "9 C 165/2020-17",
+  "date": "2020-12-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9f64ad95-c75c-4bb9-8dda-580773ad2dff",
+  "source_sha256": "d3fe32192f8b7a6537eb4d6cc4b9424f87c34056a355e85a3d7d3709d51044b4",
+  "source_id": "9f64ad95-c75c-4bb9-8dda-580773ad2dff",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 165/2020-17",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Tereza Bušková",
+    "ecli": "ECLI:CZ:OSPJ:2020:9.C.165.2020.2",
+    "predmetRizeni": "21 100 Kč s přísl.",
+    "datumVydani": "2020-12-22",
+    "datumZverejneni": "2021-03-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9f64ad95-c75c-4bb9-8dda-580773ad2dff"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
