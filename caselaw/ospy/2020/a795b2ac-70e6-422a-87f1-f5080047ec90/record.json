@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2020:7.C.481.2020.1",
+  "docket": "7 C 481/2020-16",
+  "date": "2020-12-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a795b2ac-70e6-422a-87f1-f5080047ec90",
+  "source_sha256": "9edb368f65266a5fe7bb54fe8afaa8271d735935c8fca2a6e774379c167b4f26",
+  "source_id": "a795b2ac-70e6-422a-87f1-f5080047ec90",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 481/2020-16",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Filip Janek",
+    "ecli": "ECLI:CZ:OSPY:2020:7.C.481.2020.1",
+    "predmetRizeni": "O zaplacení 1 524 Kč s příslušenstvím",
+    "datumVydani": "2020-12-22",
+    "datumZverejneni": "2021-03-31",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 49 vyhl. č. 175/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a795b2ac-70e6-422a-87f1-f5080047ec90"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
