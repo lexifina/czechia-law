@@ -1,0 +1,50 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2020:13.C.171.2020.4",
+  "docket": "13 C 171/2020-91",
+  "date": "2020-12-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9c70dbaf-9264-4a93-bb8f-70f5767bc606",
+  "source_sha256": "d1550d2ace41d9df7d166022ba561d3a75fcbcb1c525f3f13235b3028092a4bd",
+  "source_id": "9c70dbaf-9264-4a93-bb8f-70f5767bc606",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 171/2020-91",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "Mgr. Zdeněk Klouzek",
+    "ecli": "ECLI:CZ:OSPB:2020:13.C.171.2020.4",
+    "predmetRizeni": "zaplacení 20 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-22",
+    "datumZverejneni": "2021-02-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 657 z. č. 89/2012 Sb.",
+      "§ 52 z. č. 89/2012 Sb.",
+      "§ 658 z. č. 89/2012 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§  z. č. 321/2001 Sb.",
+      "§ 39 z. č. 89/2012 Sb.",
+      "§ 19 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9c70dbaf-9264-4a93-bb8f-70f5767bc606"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
