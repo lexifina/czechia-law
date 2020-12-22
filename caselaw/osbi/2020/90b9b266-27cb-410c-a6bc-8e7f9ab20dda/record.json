@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2020:24.C.220.2020.1",
+  "docket": "24 C 220/2020",
+  "date": "2020-12-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/90b9b266-27cb-410c-a6bc-8e7f9ab20dda",
+  "source_sha256": "97a63d422c8665c6f9f94308392bfce038c241a5f5823895452769cf9b7d3dcf",
+  "source_id": "90b9b266-27cb-410c-a6bc-8e7f9ab20dda",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 220/2020",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "Mgr. Pavel Mádr",
+    "ecli": "ECLI:CZ:OSBI:2020:24.C.220.2020.1",
+    "predmetRizeni": "O zaplacení 1 525 Kč s příslušenstvím",
+    "datumVydani": "2020-12-22",
+    "datumZverejneni": "2021-02-17",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/90b9b266-27cb-410c-a6bc-8e7f9ab20dda"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
