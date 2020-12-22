@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jeseníku",
+  "ecli": "ECLI:CZ:OSJE:2020:4.C.204.2020.1",
+  "docket": "4 C 204/2020-24",
+  "date": "2020-12-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ff5b2659-36c5-47aa-a87a-4aa147280eaf",
+  "source_sha256": "2511ae782ef4e85fd8d7b9e84ba7be3677e57ee6539729e6d46b8e1d5e2b76ea",
+  "source_id": "ff5b2659-36c5-47aa-a87a-4aa147280eaf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 204/2020-24",
+    "soud": "Okresní soud v Jeseníku",
+    "autor": "JUDr. Ivana Ondryášová",
+    "ecli": "ECLI:CZ:OSJE:2020:4.C.204.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2020-12-22",
+    "datumZverejneni": "2021-03-01",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§  z. č. 458/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ff5b2659-36c5-47aa-a87a-4aa147280eaf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
