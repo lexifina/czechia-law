@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2020:28.C.357.2020.1",
+  "docket": "28 C 357/2020-37",
+  "date": "2020-12-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/81847344-ee65-4e09-970d-9cbe1094ad8f",
+  "source_sha256": "cf662de508b493f35526080ba338f118fb66980817ca502214f568a7495729cf",
+  "source_id": "81847344-ee65-4e09-970d-9cbe1094ad8f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 357/2020-37",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "JUDr. Mgr. Jakub Schlitter, Ph.D.",
+    "ecli": "ECLI:CZ:OSPH10:2020:28.C.357.2020.1",
+    "predmetRizeni": "2 000 Kč",
+    "datumVydani": "2020-12-22",
+    "datumZverejneni": "2021-05-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 235/2004 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§  nař. vl. č. 1215/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/81847344-ee65-4e09-970d-9cbe1094ad8f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
