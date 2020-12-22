@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Třebíči",
+  "ecli": "ECLI:CZ:OSTR:2020:5.C.262.2020.1",
+  "docket": "5 C 262/2020-66",
+  "date": "2020-12-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7ecdb761-d3f4-4d99-9a31-7de7f3e3aba8",
+  "source_sha256": "3d9ba2829767588ac2ec7ba0f6a1f1fbf4bde746a3752d034412cfeaedbf230f",
+  "source_id": "7ecdb761-d3f4-4d99-9a31-7de7f3e3aba8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 262/2020-66",
+    "soud": "Okresní soud v Třebíči",
+    "autor": "JUDr. Jan Tesař",
+    "ecli": "ECLI:CZ:OSTR:2020:5.C.262.2020.1",
+    "predmetRizeni": "zaplacení částky 2 600 Kč s příslušenstvím",
+    "datumVydani": "2020-12-22",
+    "datumZverejneni": "2021-02-05",
+    "klicovaSlova": [
+      "odpovědnost státu za škodu",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 1 vyhl. č. 254/2015 Sb.",
+      "§ 8 z. č. 251/2016 Sb.",
+      "§ 13 vyhl. č. 254/2015 Sb.",
+      "§ 3 z. č. 82/1998 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7ecdb761-d3f4-4d99-9a31-7de7f3e3aba8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
