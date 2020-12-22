@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2020:28.C.82.2020.3",
+  "docket": "28 C 82/2020-48",
+  "date": "2020-12-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2e8994c2-d981-4d1e-a9b1-8c52a307aaf9",
+  "source_sha256": "197051d3a22435a647f0ba1e959fe90f0b01a50cd3e58accfa2fdfb1692ae084",
+  "source_id": "2e8994c2-d981-4d1e-a9b1-8c52a307aaf9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 82/2020-48",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "JUDr. Eva Bučková",
+    "ecli": "ECLI:CZ:OSZL:2020:28.C.82.2020.3",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-12-22",
+    "datumZverejneni": "2021-01-25",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 89/2012 Sb.",
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 49 z. č. 91/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2e8994c2-d981-4d1e-a9b1-8c52a307aaf9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
