@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2020:20.C.327.2020.1",
+  "docket": "20 C 327/2020-15",
+  "date": "2020-12-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0633013a-00c5-4d87-9ab9-ea3edabddf4e",
+  "source_sha256": "1624ea8375a13aa69b2142eef5c039fa8fa620c8cbfb61b89f74975b3e8bf36a",
+  "source_id": "0633013a-00c5-4d87-9ab9-ea3edabddf4e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 327/2020-15",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "JUDr. Jakub Kavalír",
+    "ecli": "ECLI:CZ:OSHK:2020:20.C.327.2020.1",
+    "predmetRizeni": "o zaplacení částky 3 040 Kč s příslušenstvím",
+    "datumVydani": "2020-12-22",
+    "datumZverejneni": "2021-04-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0633013a-00c5-4d87-9ab9-ea3edabddf4e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
