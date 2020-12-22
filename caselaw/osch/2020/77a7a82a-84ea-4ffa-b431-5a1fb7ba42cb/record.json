@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2020:11.C.446.2020.3",
+  "docket": "11 C 446/2020-30",
+  "date": "2020-12-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/77a7a82a-84ea-4ffa-b431-5a1fb7ba42cb",
+  "source_sha256": "64d11476688630074f64f8f0aec2816ae816651e38b118d9627211d219ea104c",
+  "source_id": "77a7a82a-84ea-4ffa-b431-5a1fb7ba42cb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 446/2020-30",
+    "soud": "Okresní soud v Chebu",
+    "autor": "JUDr. Stanislav Brabec",
+    "ecli": "ECLI:CZ:OSCH:2020:11.C.446.2020.3",
+    "predmetRizeni": "O zaplacení 28 880,66 Kč s příslušenstvím",
+    "datumVydani": "2020-12-22",
+    "datumZverejneni": "2021-02-24",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "ručení",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 5 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/77a7a82a-84ea-4ffa-b431-5a1fb7ba42cb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
