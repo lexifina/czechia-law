@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:43.C.199.2020.1",
+  "docket": "43 C 199/2020-52",
+  "date": "2020-12-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2b42d25b-46d2-4b69-bbe7-0926317472e7",
+  "source_sha256": "1200ff202d5bce4cc6a98f615884b9ab4cf604f3e33ce9f910fb11800e811c74",
+  "source_id": "2b42d25b-46d2-4b69-bbe7-0926317472e7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "43 C 199/2020-52",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Jana Leblochová",
+    "ecli": "ECLI:CZ:MSBR:2020:43.C.199.2020.1",
+    "predmetRizeni": "zaplacení 5.393 Kč s příslušenstvím - pojistné",
+    "datumVydani": "2020-12-22",
+    "datumZverejneni": "2021-03-31",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2b42d25b-46d2-4b69-bbe7-0926317472e7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
