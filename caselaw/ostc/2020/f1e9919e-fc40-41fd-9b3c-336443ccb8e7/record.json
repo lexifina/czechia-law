@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Tachově",
+  "ecli": "ECLI:CZ:OSTC:2020:3.C.291.2020.1",
+  "docket": "3 C 291/2020-36",
+  "date": "2020-12-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f1e9919e-fc40-41fd-9b3c-336443ccb8e7",
+  "source_sha256": "076b370819fc918d239312ebb5f93045bfb69f3d3cb2d3bfa2653ebd42fed3d2",
+  "source_id": "f1e9919e-fc40-41fd-9b3c-336443ccb8e7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 291/2020-36",
+    "soud": "Okresní soud v Tachově",
+    "autor": "JUDr. Šárka Dvořáková",
+    "ecli": "ECLI:CZ:OSTC:2020:3.C.291.2020.1",
+    "predmetRizeni": "O zaplacení 40 123 Kč s příslušenstvím",
+    "datumVydani": "2020-12-23",
+    "datumZverejneni": "2021-02-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 115 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/96 Sb.",
+      "§ 2251 z. č. 89/2012 Sb.",
+      "§ 114 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f1e9919e-fc40-41fd-9b3c-336443ccb8e7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
