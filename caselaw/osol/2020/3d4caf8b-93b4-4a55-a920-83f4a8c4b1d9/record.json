@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2020:14.C.163.2020.1",
+  "docket": "14 C 163/2020-31",
+  "date": "2020-12-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3d4caf8b-93b4-4a55-a920-83f4a8c4b1d9",
+  "source_sha256": "4a7da55d24f68a162f9c904a1db5f6a3cbbc689f64a1e342bc2255cbbb3ec780",
+  "source_id": "3d4caf8b-93b4-4a55-a920-83f4a8c4b1d9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 163/2020-31",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "Mgr. Aleš Frumar",
+    "ecli": "ECLI:CZ:OSOL:2020:14.C.163.2020.1",
+    "predmetRizeni": "o 4 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-23",
+    "datumZverejneni": "2021-01-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "prodlení věřitele",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3d4caf8b-93b4-4a55-a920-83f4a8c4b1d9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
