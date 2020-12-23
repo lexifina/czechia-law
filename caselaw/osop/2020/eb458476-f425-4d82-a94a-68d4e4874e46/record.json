@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2020:16.C.240.2020.1",
+  "docket": "16 C 240/2020-21",
+  "date": "2020-12-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/eb458476-f425-4d82-a94a-68d4e4874e46",
+  "source_sha256": "8a57d08d41b6e084635098ce0e971b0acbd128a9baf5ccb6d74cbaa8b3642f42",
+  "source_id": "eb458476-f425-4d82-a94a-68d4e4874e46",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 240/2020-21",
+    "soud": "Okresní soud v Opavě",
+    "autor": "Mgr. Radek Solař",
+    "ecli": "ECLI:CZ:OSOP:2020:16.C.240.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-23",
+    "datumZverejneni": "2021-02-02",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/eb458476-f425-4d82-a94a-68d4e4874e46"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
