@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Berouně",
+  "ecli": "ECLI:CZ:OSBR:2020:10.C.418.2020.1",
+  "docket": "10 C 418/2020-12",
+  "date": "2020-12-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b0a40a83-d8e5-4c61-b752-117e4f44152b",
+  "source_sha256": "8bb9993ea6e3e044fb81795c0755f9ecbc92e8d744f82bbde30eeac7d10b439e",
+  "source_id": "b0a40a83-d8e5-4c61-b752-117e4f44152b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 418/2020-12",
+    "soud": "Okresní soud v Berouně",
+    "autor": "JUDr. Markéta Švarcová",
+    "ecli": "ECLI:CZ:OSBR:2020:10.C.418.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2020-12-23",
+    "datumZverejneni": "2021-02-05",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 132 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b0a40a83-d8e5-4c61-b752-117e4f44152b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
