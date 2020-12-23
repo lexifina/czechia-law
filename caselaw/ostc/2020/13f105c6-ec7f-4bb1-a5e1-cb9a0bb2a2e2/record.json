@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Tachově",
+  "ecli": "ECLI:CZ:OSTC:2020:7.C.300.2020.1",
+  "docket": "7 C 300/2020-41",
+  "date": "2020-12-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/13f105c6-ec7f-4bb1-a5e1-cb9a0bb2a2e2",
+  "source_sha256": "55533d4bdce5fc55299e2a17532df5fd7f0feca68591d3ddb344f0502be09d7f",
+  "source_id": "13f105c6-ec7f-4bb1-a5e1-cb9a0bb2a2e2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 300/2020-41",
+    "soud": "Okresní soud v Tachově",
+    "autor": "prom. práv. František Kříž",
+    "ecli": "ECLI:CZ:OSTC:2020:7.C.300.2020.1",
+    "predmetRizeni": "O zaplacení 2 132,84 Kč s příslušenstvím",
+    "datumVydani": "2020-12-23",
+    "datumZverejneni": "2021-02-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o účtu",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/13f105c6-ec7f-4bb1-a5e1-cb9a0bb2a2e2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
