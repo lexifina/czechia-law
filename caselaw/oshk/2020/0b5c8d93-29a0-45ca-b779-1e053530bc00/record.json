@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2020:10.C.353.2020.1",
+  "docket": "10 C 353/2020-14",
+  "date": "2020-12-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0b5c8d93-29a0-45ca-b779-1e053530bc00",
+  "source_sha256": "a2ae2f7288e53b83ac8cee166ec1bc95fed20fae503459665b86c8d0581a3d68",
+  "source_id": "0b5c8d93-29a0-45ca-b779-1e053530bc00",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 353/2020-14",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "JUDr. Milena Heřmanová",
+    "ecli": "ECLI:CZ:OSHK:2020:10.C.353.2020.1",
+    "predmetRizeni": "o zaplacení částky [částka]",
+    "datumVydani": "2020-12-23",
+    "datumZverejneni": "2021-02-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 64 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0b5c8d93-29a0-45ca-b779-1e053530bc00"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
