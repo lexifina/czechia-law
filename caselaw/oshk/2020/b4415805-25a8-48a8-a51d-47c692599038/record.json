@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2020:10.C.342.2020.1",
+  "docket": "10 C 342/2020-16",
+  "date": "2020-12-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b4415805-25a8-48a8-a51d-47c692599038",
+  "source_sha256": "9b6c30665cef12a8d4e41ddd2b4b96cfcaf4aaca900807558b567f734cf3e0be",
+  "source_id": "b4415805-25a8-48a8-a51d-47c692599038",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 342/2020-16",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "JUDr. Milena Heřmanová",
+    "ecli": "ECLI:CZ:OSHK:2020:10.C.342.2020.1",
+    "predmetRizeni": "o zaplacení 1 723,64 Kč s příslušenstvím",
+    "datumVydani": "2020-12-23",
+    "datumZverejneni": "2021-02-23",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 64 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b4415805-25a8-48a8-a51d-47c692599038"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
