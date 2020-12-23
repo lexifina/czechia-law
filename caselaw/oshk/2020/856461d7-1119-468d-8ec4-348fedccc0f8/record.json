@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2020:10.C.335.2020.1",
+  "docket": "10 C 335/2020-19",
+  "date": "2020-12-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/856461d7-1119-468d-8ec4-348fedccc0f8",
+  "source_sha256": "3f8b58870b64a08195b7ec43bddea16ef77eb4100f7d501abb366f6a445049ef",
+  "source_id": "856461d7-1119-468d-8ec4-348fedccc0f8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 335/2020-19",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "JUDr. Milena Heřmanová",
+    "ecli": "ECLI:CZ:OSHK:2020:10.C.335.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2020-12-23",
+    "datumZverejneni": "2021-02-15",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 754 z. č. 89/2012 Sb.",
+      "§ 23 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/856461d7-1119-468d-8ec4-348fedccc0f8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
