@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2020:30.C.255.2020.1",
+  "docket": "30 C 255/2020-18",
+  "date": "2020-12-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/50f2bd18-a632-46db-b568-29f3acc470fc",
+  "source_sha256": "34fe1e7d2a79880dcb94a028f9b8d7414c5e098ada75df88a0c6e3514f33f379",
+  "source_id": "50f2bd18-a632-46db-b568-29f3acc470fc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 255/2020-18",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "Mgr. Gabriela Řezníčková",
+    "ecli": "ECLI:CZ:OSTU:2020:30.C.255.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím - pojištění odpovědnosti",
+    "datumVydani": "2020-12-23",
+    "datumZverejneni": "2021-02-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 vyhl. č. 205/1999 Sb.",
+      "§ 2a vyhl. č. 205/1999 Sb.",
+      "§ 15 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/50f2bd18-a632-46db-b568-29f3acc470fc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
