@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2020:16.C.329.2020.1",
+  "docket": "16 C 329/2020-33",
+  "date": "2020-12-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f18856d6-8a2c-4f21-b1b3-d839642504d2",
+  "source_sha256": "ce24380b7d6001b32890444a5f2f9e884cc2de43236faaaacbfd2f8504aa32af",
+  "source_id": "f18856d6-8a2c-4f21-b1b3-d839642504d2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 329/2020-33",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "Mgr. Gabriela Černá",
+    "ecli": "ECLI:CZ:OSMB:2020:16.C.329.2020.1",
+    "predmetRizeni": "o zaplacení 14 732,75 Kč s příslušenstvím",
+    "datumVydani": "2020-12-23",
+    "datumZverejneni": "2021-02-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§  z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f18856d6-8a2c-4f21-b1b3-d839642504d2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
