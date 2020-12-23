@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Berouně",
+  "ecli": "ECLI:CZ:OSBR:2020:13.C.119.2020.1",
+  "docket": "13 C 119/2020-166",
+  "date": "2020-12-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7ce6938f-e1c0-468b-804d-0d97b706cbd2",
+  "source_sha256": "d03529e5a531247da5b745a84ed56465d77d158033d114df5390b8cccde737a4",
+  "source_id": "7ce6938f-e1c0-468b-804d-0d97b706cbd2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 119/2020-166",
+    "soud": "Okresní soud v Berouně",
+    "autor": "JUDr. Tomáš Štindl",
+    "ecli": "ECLI:CZ:OSBR:2020:13.C.119.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2020-12-23",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "náhrada nemajetkové újmy",
+      "nemajetková újma",
+      "oddlužení",
+      "rozhodnutí o úpadku"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 99/1963 Sb.",
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 109 z. č. 182/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7ce6938f-e1c0-468b-804d-0d97b706cbd2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
