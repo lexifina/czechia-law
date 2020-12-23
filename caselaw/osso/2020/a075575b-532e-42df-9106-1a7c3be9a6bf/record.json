@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2020:23.C.102.2020.2",
+  "docket": "23 C 102/2020-15",
+  "date": "2020-12-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a075575b-532e-42df-9106-1a7c3be9a6bf",
+  "source_sha256": "a5de11dba2c44886d9eedf97660832e799b17c1da453f66f7701f19551162cf8",
+  "source_id": "a075575b-532e-42df-9106-1a7c3be9a6bf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 102/2020-15",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "Mgr. František Sedláček",
+    "ecli": "ECLI:CZ:OSSO:2020:23.C.102.2020.2",
+    "predmetRizeni": "zaplacení 3 780 Kč s příslušenstvím",
+    "datumVydani": "2020-12-23",
+    "datumZverejneni": "2021-02-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 6 z. č. 348/2005 Sb.",
+      "§ 7 z. č. 348/2005 Sb.",
+      "§ 2 z. č. 348/2005 Sb.",
+      "§ 607 z. č. 89/2012 Sb.",
+      "§ 5 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a075575b-532e-42df-9106-1a7c3be9a6bf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
