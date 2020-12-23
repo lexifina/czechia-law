@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Tachově",
+  "ecli": "ECLI:CZ:OSTC:2020:3.C.272.2020.1",
+  "docket": "3 C 272/2020-47",
+  "date": "2020-12-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4e0a83c2-d628-4e1d-8eb2-5e7b632b784a",
+  "source_sha256": "ad01310b5c7cbdee351d4e5de40d7ca5dd6621dc85d28e86c194e2e3f99be185",
+  "source_id": "4e0a83c2-d628-4e1d-8eb2-5e7b632b784a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 272/2020-47",
+    "soud": "Okresní soud v Tachově",
+    "autor": "JUDr. Šárka Dvořáková",
+    "ecli": "ECLI:CZ:OSTC:2020:3.C.272.2020.1",
+    "predmetRizeni": "O zaplacení 6 735 Kč s příslušenstvím",
+    "datumVydani": "2020-12-23",
+    "datumZverejneni": "2021-02-04",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 115 z. č. 99/1963 Sb.",
+      "§ 114 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4e0a83c2-d628-4e1d-8eb2-5e7b632b784a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
