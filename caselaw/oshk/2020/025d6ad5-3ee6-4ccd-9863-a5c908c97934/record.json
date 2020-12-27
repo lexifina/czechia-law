@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2020:15.C.142.2020.1",
+  "docket": "15 C 142/2020-16",
+  "date": "2020-12-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/025d6ad5-3ee6-4ccd-9863-a5c908c97934",
+  "source_sha256": "a80969d2b8b2ed5498c5dbdc9b87bb041df0cedc1fab58bd242c2e774bf1228e",
+  "source_id": "025d6ad5-3ee6-4ccd-9863-a5c908c97934",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 142/2020-16",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "Mgr. Jan Linhart",
+    "ecli": "ECLI:CZ:OSHK:2020:15.C.142.2020.1",
+    "predmetRizeni": "o zaplacení 18 075 Kč s příslušenstvím",
+    "datumVydani": "2020-12-27",
+    "datumZverejneni": "2021-03-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 6 z. č. 549/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/025d6ad5-3ee6-4ccd-9863-a5c908c97934"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
