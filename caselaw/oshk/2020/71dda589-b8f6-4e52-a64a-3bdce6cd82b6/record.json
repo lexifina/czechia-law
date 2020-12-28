@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2020:14.C.325.2020.1",
+  "docket": "14 C 325/2020-15",
+  "date": "2020-12-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/71dda589-b8f6-4e52-a64a-3bdce6cd82b6",
+  "source_sha256": "4a2f9aadf9f1f13b95beb0bf18f416cf51491e04a915fb199f8b86d1e78844e8",
+  "source_id": "71dda589-b8f6-4e52-a64a-3bdce6cd82b6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 325/2020-15",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "JUDr. Ivana Dušáková",
+    "ecli": "ECLI:CZ:OSHK:2020:14.C.325.2020.1",
+    "predmetRizeni": "o zaplacení částky 1 520 Kč",
+    "datumVydani": "2020-12-28",
+    "datumZverejneni": "2021-03-15",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 175/2000 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 77/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/71dda589-b8f6-4e52-a64a-3bdce6cd82b6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
