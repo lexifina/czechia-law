@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Krajský soud v Ostravě",
+  "ecli": "ECLI:CZ:KSOS:2020:23.C.43.2015.1",
+  "docket": "23 C 43/2015",
+  "date": "2020-12-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/42fb222d-1c58-46c7-bcf0-0fc8b602d3b9",
+  "source_sha256": "74934291e3763d421d33802b61aa3655867136ec14c7a0decf27690b56b82df1",
+  "source_id": "42fb222d-1c58-46c7-bcf0-0fc8b602d3b9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 43/2015",
+    "soud": "Krajský soud v Ostravě",
+    "autor": "JUDr. Miroslava Holubová",
+    "ecli": "ECLI:CZ:KSOS:2020:23.C.43.2015.1",
+    "predmetRizeni": "o žalobě proti rozhodnutí [anonymizováno 7 slov] [územní celek] ze dne 18. 6. 2015, sp. zn. [spisová značka], [číslo jednací],",
+    "datumVydani": "2020-12-28",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "nájem pozemku",
+      "pozemní komunikace",
+      "smlouva kupní",
+      "smlouva nájemní",
+      "smlouva o dílo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 3 z. č. 289/95 Sb.",
+      "§ 7 z. č. 13/97 Sb.",
+      "§ 9 z. č. 428/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/42fb222d-1c58-46c7-bcf0-0fc8b602d3b9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
