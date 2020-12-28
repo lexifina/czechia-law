@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2020:19.C.276.2020.1",
+  "docket": "19 C 276/2020-13",
+  "date": "2020-12-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/17db4cb2-0eef-4e65-8a8b-ec0cba8e6329",
+  "source_sha256": "b2b21f6e1e50df64997ecf97bbafaab101ef19b17f2f0fe49537ec1e58fc26f7",
+  "source_id": "17db4cb2-0eef-4e65-8a8b-ec0cba8e6329",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 276/2020-13",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "Mgr. Pavla Ondráčková",
+    "ecli": "ECLI:CZ:OSTU:2020:19.C.276.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím - úvěr",
+    "datumVydani": "2020-12-28",
+    "datumZverejneni": "2021-01-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 2399 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/17db4cb2-0eef-4e65-8a8b-ec0cba8e6329"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
