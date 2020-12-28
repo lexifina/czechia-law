@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rychnově nad Kněžnou",
+  "ecli": "ECLI:CZ:OSRK:2020:7.C.167.2020.1",
+  "docket": "7 C 167/2020-35",
+  "date": "2020-12-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4e3f5dd6-88c0-486d-ac0a-fa4a70867fb5",
+  "source_sha256": "03203a84f1b0a065105c76febf11eefb74e020bbe9e695fcc07355a9ff4c2ce0",
+  "source_id": "4e3f5dd6-88c0-486d-ac0a-fa4a70867fb5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 167/2020-35",
+    "soud": "Okresní soud v Rychnově nad Kněžnou",
+    "autor": "JUDr. Renata Plná",
+    "ecli": "ECLI:CZ:OSRK:2020:7.C.167.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-28",
+    "datumZverejneni": "2021-01-25",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 2804 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4e3f5dd6-88c0-486d-ac0a-fa4a70867fb5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
