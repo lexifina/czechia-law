@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2020:47.C.154.2020.1",
+  "docket": "47 C 154/2020-22",
+  "date": "2020-12-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/03376106-87ef-4957-9ae7-6a68db5fa0eb",
+  "source_sha256": "ac917ed5d8eb0a9cda03da8ce528b6c7f577368e8603ee798d2838c163974225",
+  "source_id": "03376106-87ef-4957-9ae7-6a68db5fa0eb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "47 C 154/2020-22",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "JUDr. Hana Zítková",
+    "ecli": "ECLI:CZ:OSPH04:2020:47.C.154.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-28",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/03376106-87ef-4957-9ae7-6a68db5fa0eb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
