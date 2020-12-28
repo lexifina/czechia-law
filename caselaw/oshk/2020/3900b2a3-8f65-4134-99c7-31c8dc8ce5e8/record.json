@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2020:14.C.305.2020.1",
+  "docket": "14 C 305/2020-18",
+  "date": "2020-12-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3900b2a3-8f65-4134-99c7-31c8dc8ce5e8",
+  "source_sha256": "42385e2a7b15efc52324cf6dabbaed3c7d8a07574decbee3a22916c0d0258934",
+  "source_id": "3900b2a3-8f65-4134-99c7-31c8dc8ce5e8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 305/2020-18",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "JUDr. Ivana Dušáková",
+    "ecli": "ECLI:CZ:OSHK:2020:14.C.305.2020.1",
+    "predmetRizeni": "o zaplacení částky 9 194 Kč s příslušenstvím",
+    "datumVydani": "2020-12-28",
+    "datumZverejneni": "2021-04-19",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 89a z. č. 120/2001 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 47 z. č. 235/2004 Sb.",
+      "§ 1 vyhl. č. 254/2015 Sb.",
+      "§  vyhl. č. 134/1998 Sb.",
+      "§ 41 z. č. 372/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3900b2a3-8f65-4134-99c7-31c8dc8ce5e8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
