@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPJ:2020:39.C.245.2020 .1",
+  "docket": "39 C 245/2020-44",
+  "date": "2020-12-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c5ea21a8-a748-4cad-8d7b-0f46cf6acdfb",
+  "source_sha256": "bc4a9180226b072684167316a090fffadc81e9333e27ecc8c80f34a8eb6e7d7f",
+  "source_id": "c5ea21a8-a748-4cad-8d7b-0f46cf6acdfb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "39 C 245/2020-44",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Petra Pavlíčková",
+    "ecli": "ECLI:CZ:OSPJ:2020:39.C.245.2020 .1",
+    "predmetRizeni": "pro zaplacení 4 971,22 Kč s příslušenstvím",
+    "datumVydani": "2020-12-29",
+    "datumZverejneni": "2021-02-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozsudek pro uznání",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 153a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c5ea21a8-a748-4cad-8d7b-0f46cf6acdfb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
