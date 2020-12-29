@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2020:55.EC.438.2010.4",
+  "docket": "55 EC 438/2010-56",
+  "date": "2020-12-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9c6ea057-354d-4df4-b8c9-81cbf713fa86",
+  "source_sha256": "67f60bcd0b72be5c0718c7ec104661506fd7913aab7941eb84d66e887ec0d952",
+  "source_id": "9c6ea057-354d-4df4-b8c9-81cbf713fa86",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "55 EC 438/2010-56",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "JUDr. Barbora Nezkusilová",
+    "ecli": "ECLI:CZ:OSPH10:2020:55.EC.438.2010.4",
+    "predmetRizeni": "Návrh na vydání elektronického platebního rozkazu na částku [částka]",
+    "datumVydani": "2020-12-29",
+    "datumZverejneni": "2021-02-02",
+    "klicovaSlova": [
+      "jízdné",
+      "oddlužení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9c6ea057-354d-4df4-b8c9-81cbf713fa86"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
