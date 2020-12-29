@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPJ:2020:39.C.236.2020.1",
+  "docket": "39 C 236/2020-38",
+  "date": "2020-12-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/257c4561-81bd-472f-a312-18f18ba17cc8",
+  "source_sha256": "0fd1193acb2bfe6e2f675becbee00c99b7b95402e22c4a290463f986f23b5dca",
+  "source_id": "257c4561-81bd-472f-a312-18f18ba17cc8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "39 C 236/2020-38",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Petra Pavlíčková",
+    "ecli": "ECLI:CZ:OSPJ:2020:39.C.236.2020.1",
+    "predmetRizeni": "zaplacení 33 865 Kč s příslušenstvím",
+    "datumVydani": "2020-12-29",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 2391 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/257c4561-81bd-472f-a312-18f18ba17cc8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
