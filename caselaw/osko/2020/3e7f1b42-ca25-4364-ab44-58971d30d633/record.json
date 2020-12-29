@@ -1,0 +1,30 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kolíně",
+  "ecli": "ECLI:CZ:OSKO:2020:10.C.40.2020.1",
+  "docket": "10 C 40/2020-26",
+  "date": "2020-12-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3e7f1b42-ca25-4364-ab44-58971d30d633",
+  "source_sha256": "68b5a9cdddc7115f9b5281d1d6aaf2ad12e80e99f6435d937ac413f3bf3001c2",
+  "source_id": "3e7f1b42-ca25-4364-ab44-58971d30d633",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 40/2020-26",
+    "soud": "Okresní soud v Kolíně",
+    "autor": "JUDr. Iva Winklerová",
+    "ecli": "ECLI:CZ:OSKO:2020:10.C.40.2020.1",
+    "predmetRizeni": "o zaplacení 20 100 Kč s příslušenstvím",
+    "datumVydani": "2020-12-29",
+    "datumZverejneni": "2021-08-17",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 1746 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3e7f1b42-ca25-4364-ab44-58971d30d633"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
