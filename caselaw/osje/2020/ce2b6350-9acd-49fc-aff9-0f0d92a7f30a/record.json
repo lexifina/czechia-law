@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jeseníku",
+  "ecli": "ECLI:CZ:OSJE:2020:10.C.123.2020.1",
+  "docket": "10 C 123/2020-32",
+  "date": "2020-12-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ce2b6350-9acd-49fc-aff9-0f0d92a7f30a",
+  "source_sha256": "f5974c60d2069e13036515fa45a66e3e71b48f8fe58430acba646fdb1965349f",
+  "source_id": "ce2b6350-9acd-49fc-aff9-0f0d92a7f30a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 123/2020-32",
+    "soud": "Okresní soud v Jeseníku",
+    "autor": "Mgr. Jana Reslová",
+    "ecli": "ECLI:CZ:OSJE:2020:10.C.123.2020.1",
+    "predmetRizeni": "3 007 Kč s příslušenstvím",
+    "datumVydani": "2020-12-29",
+    "datumZverejneni": "2021-02-24",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ce2b6350-9acd-49fc-aff9-0f0d92a7f30a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
