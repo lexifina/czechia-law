@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2020:19.C.209.2020.1",
+  "docket": "19 C 209/2020-24",
+  "date": "2020-12-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/04c9642a-9819-4d78-9ba4-97c4e33a7b6b",
+  "source_sha256": "3f8f198dc4067e8955fbc7a13ca57694a2b94c2a692ec55cf0ff8902464c7a0e",
+  "source_id": "04c9642a-9819-4d78-9ba4-97c4e33a7b6b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 209/2020-24",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "JUDr. Radmila Chadimová",
+    "ecli": "ECLI:CZ:OSPH09:2020:19.C.209.2020.1",
+    "predmetRizeni": "zaplacení částky [částka] s přísl.",
+    "datumVydani": "2020-12-29",
+    "datumZverejneni": "2021-01-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "podnájem",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 166 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/04c9642a-9819-4d78-9ba4-97c4e33a7b6b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
