@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:53.C.137.2020.1",
+  "docket": "53 C 137/2020-18",
+  "date": "2020-12-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b58d4d87-3289-4414-8fc8-b2ec88e239f4",
+  "source_sha256": "3a345efde494be5b772c252ba77b431d29dd8e3fbed6a73ac6032bf127b0c5c7",
+  "source_id": "b58d4d87-3289-4414-8fc8-b2ec88e239f4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "53 C 137/2020-18",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Libuše Jeroušková",
+    "ecli": "ECLI:CZ:MSBR:2020:53.C.137.2020.1",
+    "predmetRizeni": "zaplacení 5.600 Kč s příslušenstvím - faktura",
+    "datumVydani": "2020-12-29",
+    "datumZverejneni": "2021-02-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 236 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b58d4d87-3289-4414-8fc8-b2ec88e239f4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
