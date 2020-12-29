@@ -1,0 +1,31 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pelhřimově",
+  "ecli": "ECLI:CZ:OSPE:2020:1.C.200.2020.1",
+  "docket": "1 C 200/2020-80",
+  "date": "2020-12-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/07b7ab14-e227-49f7-9982-a7292a184405",
+  "source_sha256": "b8c9b3c79cc5300230c638413adb7e38b09073badd7687e3da638460b6a60c84",
+  "source_id": "07b7ab14-e227-49f7-9982-a7292a184405",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "1 C 200/2020-80",
+    "soud": "Okresní soud v Pelhřimově",
+    "autor": "JUDr. Zdeněk Tichý",
+    "ecli": "ECLI:CZ:OSPE:2020:1.C.200.2020.1",
+    "predmetRizeni": "o zaplacení částky [částka] s přísl.",
+    "datumVydani": "2020-12-29",
+    "datumZverejneni": "2021-02-01",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/07b7ab14-e227-49f7-9982-a7292a184405"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
