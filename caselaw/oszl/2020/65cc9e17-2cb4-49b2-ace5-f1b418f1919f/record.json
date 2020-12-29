@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2020:11.C.244.2020.1",
+  "docket": "11 C 244/2020-21",
+  "date": "2020-12-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/65cc9e17-2cb4-49b2-ace5-f1b418f1919f",
+  "source_sha256": "2efae52b0d6da9922671c8d90adf7343e9e9ff18992a1b1fe1293d42077cbc1f",
+  "source_id": "65cc9e17-2cb4-49b2-ace5-f1b418f1919f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 244/2020-21",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "JUDr. David Kolumber, Ph.D.",
+    "ecli": "ECLI:CZ:OSZL:2020:11.C.244.2020.1",
+    "predmetRizeni": "zaplacení 7 163 Kč s příslušenstvím",
+    "datumVydani": "2020-12-29",
+    "datumZverejneni": "2021-02-05",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/65cc9e17-2cb4-49b2-ace5-f1b418f1919f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
