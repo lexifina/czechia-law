@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Uherském Hradišti",
+  "ecli": "ECLI:CZ:OSUH:2020:4.C.262.2020.1",
+  "docket": "4 C 262/2020-31",
+  "date": "2020-12-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9c1cec21-3195-4bf4-878b-3df4118a624c",
+  "source_sha256": "fcf8a7692af5378f0bbcca94b39f31b89cf3a27d61c51242485b056af5c2c614",
+  "source_id": "9c1cec21-3195-4bf4-878b-3df4118a624c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 262/2020-31",
+    "soud": "Okresní soud v Uherském Hradišti",
+    "autor": "JUDr. Jaroslava Hamadová",
+    "ecli": "ECLI:CZ:OSUH:2020:4.C.262.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2020-12-29",
+    "datumZverejneni": "2021-07-30",
+    "klicovaSlova": [
+      "jízdné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 3 vyhl. č. 175/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9c1cec21-3195-4bf4-878b-3df4118a624c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
