@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2020:14.C.171.2020.1",
+  "docket": "14 C 171/2020-13",
+  "date": "2020-12-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6d5953b2-76b5-4070-a57f-78b53af88044",
+  "source_sha256": "83e2825d865137662b4892a261ba633f60729059a6a75ffbc3437b7e2e29c03f",
+  "source_id": "6d5953b2-76b5-4070-a57f-78b53af88044",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 171/2020-13",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "Mgr. Kateřina Stará",
+    "ecli": "ECLI:CZ:OSMB:2020:14.C.171.2020.1",
+    "predmetRizeni": "o zaplacení 23 941 Kč s příslušenstvím",
+    "datumVydani": "2020-12-29",
+    "datumZverejneni": "2021-02-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6d5953b2-76b5-4070-a57f-78b53af88044"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
