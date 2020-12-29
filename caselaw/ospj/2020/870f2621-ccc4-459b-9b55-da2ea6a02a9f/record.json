@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-jih",
+  "ecli": "ECLI:CZ:OSPJ:2020:11.C.318.2020.1",
+  "docket": "11 C 318/2020-24",
+  "date": "2020-12-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/870f2621-ccc4-459b-9b55-da2ea6a02a9f",
+  "source_sha256": "6833e0e9d85ec9ad9c9bbd56611b6fca8cf71e8ecdb94afe96afc9032658bb9f",
+  "source_id": "870f2621-ccc4-459b-9b55-da2ea6a02a9f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 318/2020-24",
+    "soud": "Okresní soud Plzeň-jih",
+    "autor": "Mgr. Markéta Kryslová",
+    "ecli": "ECLI:CZ:OSPJ:2020:11.C.318.2020.1",
+    "predmetRizeni": "O zaplacení 10 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-29",
+    "datumZverejneni": "2021-02-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 6 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/870f2621-ccc4-459b-9b55-da2ea6a02a9f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
