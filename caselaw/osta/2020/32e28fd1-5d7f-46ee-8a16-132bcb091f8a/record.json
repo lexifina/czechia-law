@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2020:24.C.171.2020.1",
+  "docket": "24 C 171/2020-99",
+  "date": "2020-12-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/32e28fd1-5d7f-46ee-8a16-132bcb091f8a",
+  "source_sha256": "0d726863c514a46d83f6099b9ae38fe54ee086cc71da60271d108fb05d880380",
+  "source_id": "32e28fd1-5d7f-46ee-8a16-132bcb091f8a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 171/2020-99",
+    "soud": "Okresní soud v Táboře",
+    "autor": "Mgr. Michaela Bílá",
+    "ecli": "ECLI:CZ:OSTA:2020:24.C.171.2020.1",
+    "predmetRizeni": "o zaplacení 4 989 Kč s příslušenstvím",
+    "datumVydani": "2020-12-29",
+    "datumZverejneni": "2021-02-17",
+    "klicovaSlova": [
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2165 z. č. 89/2012 Sb.",
+      "§ 2170 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/32e28fd1-5d7f-46ee-8a16-132bcb091f8a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
