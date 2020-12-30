@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Nymburce",
+  "ecli": "ECLI:CZ:OSNB:2020:9.C.199.2020.1",
+  "docket": "9 C 199/2020-18",
+  "date": "2020-12-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dfa5549e-2cb5-4da7-bdb0-a0b640b5f683",
+  "source_sha256": "69eb6755b80c3e615dbd9d696cd0aa66f7a9c469fb5d25deeafc9c4bfa6ac25b",
+  "source_id": "dfa5549e-2cb5-4da7-bdb0-a0b640b5f683",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 199/2020-18",
+    "soud": "Okresní soud v Nymburce",
+    "autor": "Mgr. Petra Šárovcová",
+    "ecli": "ECLI:CZ:OSNB:2020:9.C.199.2020.1",
+    "predmetRizeni": "O zaplacení [částka]",
+    "datumVydani": "2020-12-30",
+    "datumZverejneni": "2021-04-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§  z. č. 131/2002 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dfa5549e-2cb5-4da7-bdb0-a0b640b5f683"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
