@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2020:20.C.253.2020.2",
+  "docket": "20 C 253/2020-16",
+  "date": "2020-12-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1b32db7d-7bf5-499a-931f-33f2aa0a7d7c",
+  "source_sha256": "fc2a83dcf9f181b03d4aad40ed21ff0f2defce178557b201eb4041b9b37743ea",
+  "source_id": "1b32db7d-7bf5-499a-931f-33f2aa0a7d7c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 253/2020-16",
+    "soud": "Okresní soud v Chebu",
+    "autor": "Mgr. Robert Plášil",
+    "ecli": "ECLI:CZ:OSCH:2020:20.C.253.2020.2",
+    "predmetRizeni": "O zaplacení 6 155 Kč s příslušenstvím",
+    "datumVydani": "2020-12-30",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 1841 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1b32db7d-7bf5-499a-931f-33f2aa0a7d7c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
