@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2020:57.C.241.2020.2",
+  "docket": "57 C 241/2020-19",
+  "date": "2020-12-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2497cc43-7e56-496f-ada6-4aa206212516",
+  "source_sha256": "49d15c8e55e67a4ca3fdd7d09c8bb976412f1a12f3c33a38d393289c2b3328bc",
+  "source_id": "2497cc43-7e56-496f-ada6-4aa206212516",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "57 C 241/2020-19",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. David Šeremek",
+    "ecli": "ECLI:CZ:OSOV:2020:57.C.241.2020.2",
+    "predmetRizeni": "o zaplacení 1 520 Kč s příslušenstvím",
+    "datumVydani": "2020-12-30",
+    "datumZverejneni": "2021-04-13",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2497cc43-7e56-496f-ada6-4aa206212516"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
