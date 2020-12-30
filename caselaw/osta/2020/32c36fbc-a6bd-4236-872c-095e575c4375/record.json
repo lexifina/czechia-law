@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2020:13.C.122.2020.1",
+  "docket": "13 C 122/2020-18",
+  "date": "2020-12-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/32c36fbc-a6bd-4236-872c-095e575c4375",
+  "source_sha256": "05f3349ebe81b63ff32bb89c4989e38bcc4a62155d60305191dfb3ecfe5d9e0c",
+  "source_id": "32c36fbc-a6bd-4236-872c-095e575c4375",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 122/2020-18",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Roman Winkler",
+    "ecli": "ECLI:CZ:OSTA:2020:13.C.122.2020.1",
+    "predmetRizeni": "O zaplacení 2 000 Kč",
+    "datumVydani": "2020-12-30",
+    "datumZverejneni": "2021-03-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2048 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/32c36fbc-a6bd-4236-872c-095e575c4375"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
