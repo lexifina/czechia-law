@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2020:124.C.11.2019.1",
+  "docket": "124 C 11/2019-115",
+  "date": "2020-12-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/df085af4-08c9-4e5f-a983-1ccebbff1068",
+  "source_sha256": "3cbc73dbb02839a3a00cdad7bf4e9b23f2de61f20364dc04ba53fb567cc5b539",
+  "source_id": "df085af4-08c9-4e5f-a983-1ccebbff1068",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "124 C 11/2019-115",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "JUDr. Lucie Lubasová",
+    "ecli": "ECLI:CZ:OSPU:2020:124.C.11.2019.1",
+    "predmetRizeni": "o zaplacení 5 843,71 Kč s příslušenstvím",
+    "datumVydani": "2020-12-30",
+    "datumZverejneni": "2021-08-11",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/df085af4-08c9-4e5f-a983-1ccebbff1068"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
