@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2020:8.C.533.2020.2",
+  "docket": "8 C 533/2020-16",
+  "date": "2020-12-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e942ed30-19d5-40c3-991d-00a2cfd069ed",
+  "source_sha256": "ce26899691a1026786da7a1408676dffcd6d0813c4942484cd595265bed9f1a3",
+  "source_id": "e942ed30-19d5-40c3-991d-00a2cfd069ed",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 533/2020-16",
+    "soud": "Okresní soud v Chebu",
+    "autor": "JUDr. Martin Skalický",
+    "ecli": "ECLI:CZ:OSCH:2020:8.C.533.2020.2",
+    "predmetRizeni": "O zaplacení 14 750 Kč s příslušenstvím",
+    "datumVydani": "2020-12-30",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 2392 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e942ed30-19d5-40c3-991d-00a2cfd069ed"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
