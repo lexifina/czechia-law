@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2020:21.C.52.2019.1",
+  "docket": "21 C 52/2019-29",
+  "date": "2020-12-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fc4af558-4d27-4aac-b384-ef81f6b9195c",
+  "source_sha256": "266824b8c1265db36374280c7e1773afb56dc83f76e0e95b1bc1f4c38e43ab82",
+  "source_id": "fc4af558-4d27-4aac-b384-ef81f6b9195c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 52/2019-29",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "Mgr. Blanka Vernerová",
+    "ecli": "ECLI:CZ:OSPH02:2020:21.C.52.2019.1",
+    "predmetRizeni": "O zaplacení 7 104 Kč",
+    "datumVydani": "2020-12-30",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 547 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fc4af558-4d27-4aac-b384-ef81f6b9195c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
