@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2020:10.C.236.2020.1",
+  "docket": "10 C 236/2020-30",
+  "date": "2020-12-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/da3cb342-c63d-4f82-9282-ad0987ad3d2f",
+  "source_sha256": "f0344caa4baad5a69e489c0ade902e6f1a71fe63988c2ec925ea803b4fccd786",
+  "source_id": "da3cb342-c63d-4f82-9282-ad0987ad3d2f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 236/2020-30",
+    "soud": "Okresní soud v Lounech",
+    "autor": "JUDr. Petr Šilhan",
+    "ecli": "ECLI:CZ:OSLN:2020:10.C.236.2020.1",
+    "predmetRizeni": "O zaplacení 29 350 Kč s příslušenstvím",
+    "datumVydani": "2020-12-30",
+    "datumZverejneni": "2021-02-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/da3cb342-c63d-4f82-9282-ad0987ad3d2f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
