@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Berouně",
+  "ecli": "ECLI:CZ:OSBR:2020:13.C.187.2020.1",
+  "docket": "13 C 187/2020",
+  "date": "2020-12-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2bd0fb0a-a673-4911-a606-577e64e183ca",
+  "source_sha256": "2b4bb32cc4d7bab31620db9d1e9ce3ebc7f3d55455a36df1b35dc483a9890e18",
+  "source_id": "2bd0fb0a-a673-4911-a606-577e64e183ca",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 187/2020",
+    "soud": "Okresní soud v Berouně",
+    "autor": "JUDr. Tomáš Štindl",
+    "ecli": "ECLI:CZ:OSBR:2020:13.C.187.2020.1",
+    "predmetRizeni": "O zaplacení 15 798,10 Kč",
+    "datumVydani": "2020-12-30",
+    "datumZverejneni": "2021-05-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o běžném účtu",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb.",
+      "§ 708 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2bd0fb0a-a673-4911-a606-577e64e183ca"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
