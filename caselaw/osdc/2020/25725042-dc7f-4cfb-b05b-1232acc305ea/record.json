@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2020:106.C.9.2020.5",
+  "docket": "106 C 9/2020-48",
+  "date": "2020-12-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/25725042-dc7f-4cfb-b05b-1232acc305ea",
+  "source_sha256": "3add18571739df93fecd1a4ccf27f01c0b60798f6dc23dab5cfb119cc4eac0ed",
+  "source_id": "25725042-dc7f-4cfb-b05b-1232acc305ea",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "106 C 9/2020-48",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Petr Slezák",
+    "ecli": "ECLI:CZ:OSDC:2020:106.C.9.2020.5",
+    "predmetRizeni": "zaplacení [částka] s přísl.",
+    "datumVydani": "2020-12-30",
+    "datumZverejneni": "2021-05-07",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 2295 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/25725042-dc7f-4cfb-b05b-1232acc305ea"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
