@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2020:10.C.202.2020.1",
+  "docket": "10 C 202/2020-17",
+  "date": "2020-12-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e345f6be-ed7e-4a80-9d0f-b7fba2c4f86a",
+  "source_sha256": "d372ddd20ff7b68d3d9fd363c97094f7b9a4518f2943a5c89c89f2e2f178894e",
+  "source_id": "e345f6be-ed7e-4a80-9d0f-b7fba2c4f86a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 202/2020-17",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Lenka Pávková",
+    "ecli": "ECLI:CZ:OSTA:2020:10.C.202.2020.1",
+    "predmetRizeni": "O zaplacení 1 524 Kč s příslušenstvím",
+    "datumVydani": "2020-12-30",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e345f6be-ed7e-4a80-9d0f-b7fba2c4f86a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
