@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2020:16.C.305.2020.1",
+  "docket": "16 C 305/2020-37",
+  "date": "2020-12-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/02bb987d-ff67-4ed8-ad82-7cb50bef295a",
+  "source_sha256": "428eb54bd195a72551088855da598f7a6295384ceba854f99a02d119695c0fd9",
+  "source_id": "02bb987d-ff67-4ed8-ad82-7cb50bef295a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 305/2020-37",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "Mgr. Gabriela Černá",
+    "ecli": "ECLI:CZ:OSMB:2020:16.C.305.2020.1",
+    "predmetRizeni": "o zaplacení 2 989,64 Kč s příslušenstvím",
+    "datumVydani": "2020-12-30",
+    "datumZverejneni": "2021-01-22",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§  nař. vl. č. 1215/2012 Sb.",
+      "§ 261 z. č. 513/1991 Sb.",
+      "§ 497 z. č. 513/1991 Sb.",
+      "§ 502 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/02bb987d-ff67-4ed8-ad82-7cb50bef295a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
