@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2020:8.C.85.2020.3",
+  "docket": "8 C 85/2020-63",
+  "date": "2020-12-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c5f13879-dc25-4116-9dd5-0947b94530ca",
+  "source_sha256": "83963f4f4282a13b5cbaba211b5d0b3d504aa40cf074ef11d7f972128a5b6a0a",
+  "source_id": "c5f13879-dc25-4116-9dd5-0947b94530ca",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 85/2020-63",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Zuzana Masnerová",
+    "ecli": "ECLI:CZ:OSPB:2020:8.C.85.2020.3",
+    "predmetRizeni": "zaplacení 28 500 Kč s příslušenstvím",
+    "datumVydani": "2020-12-30",
+    "datumZverejneni": "2021-02-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c5f13879-dc25-4116-9dd5-0947b94530ca"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
