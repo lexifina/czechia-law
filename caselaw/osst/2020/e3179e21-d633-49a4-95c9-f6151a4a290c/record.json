@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Strakonicích",
+  "ecli": "ECLI:CZ:OSST:2020:7.C.277.2020.1",
+  "docket": "7 C 277/2020-43",
+  "date": "2020-12-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e3179e21-d633-49a4-95c9-f6151a4a290c",
+  "source_sha256": "58638dc6d19aef4b74798e6935e1bac9eaec2490acdd948ae46e0dfe1dd8c26d",
+  "source_id": "e3179e21-d633-49a4-95c9-f6151a4a290c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 277/2020-43",
+    "soud": "Okresní soud ve Strakonicích",
+    "autor": "JUDr. Marie Rychtářová",
+    "ecli": "ECLI:CZ:OSST:2020:7.C.277.2020.1",
+    "predmetRizeni": "O zaplacení 10 193,81 Kč s příslušenstvím",
+    "datumVydani": "2020-12-30",
+    "datumZverejneni": "2021-02-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e3179e21-d633-49a4-95c9-f6151a4a290c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
