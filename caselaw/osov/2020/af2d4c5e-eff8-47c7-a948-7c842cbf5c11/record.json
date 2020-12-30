@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2020:57.C.248.2020.2",
+  "docket": "57 C 248/2020-34",
+  "date": "2020-12-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/af2d4c5e-eff8-47c7-a948-7c842cbf5c11",
+  "source_sha256": "a9962691496630316f75ef6f40d00dd79cf50fcf8035901b84d478cd085bbf60",
+  "source_id": "af2d4c5e-eff8-47c7-a948-7c842cbf5c11",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "57 C 248/2020-34",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. David Šeremek",
+    "ecli": "ECLI:CZ:OSOV:2020:57.C.248.2020.2",
+    "predmetRizeni": "o zaplacení 4 271,45 Kč s příslušenstvím",
+    "datumVydani": "2020-12-30",
+    "datumZverejneni": "2021-04-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/af2d4c5e-eff8-47c7-a948-7c842cbf5c11"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
