@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2020:30.C.473.2020.2",
+  "docket": "30 C 473/2020-19",
+  "date": "2020-12-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/182ce0a5-051c-44c5-830d-e5a3ca017379",
+  "source_sha256": "290b310380168970d622d4c143c37c068a9a888478ef0bc828b52eef9a3768c9",
+  "source_id": "182ce0a5-051c-44c5-830d-e5a3ca017379",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 473/2020-19",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Petr Bílý",
+    "ecli": "ECLI:CZ:OSUL:2020:30.C.473.2020.2",
+    "predmetRizeni": "O zaplacení 5 000 Kč",
+    "datumVydani": "2020-12-30",
+    "datumZverejneni": "2021-03-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/182ce0a5-051c-44c5-830d-e5a3ca017379"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
