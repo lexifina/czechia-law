@@ -1,0 +1,48 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2020:34.C.209.2019.1",
+  "docket": "34 C 209/2019-111",
+  "date": "2020-12-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b7851496-13fb-444f-a4a4-3ec529246ec2",
+  "source_sha256": "ec871474bc88d94f66f5aa2d0fed1e3bc25a5c83d695628c076644451140e85d",
+  "source_id": "b7851496-13fb-444f-a4a4-3ec529246ec2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 209/2019-111",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "Mgr. Lucie Šrámková",
+    "ecli": "ECLI:CZ:OSPZ:2020:34.C.209.2019.1",
+    "predmetRizeni": "zaplacení částky [částka] s přísl.",
+    "datumVydani": "2020-12-30",
+    "datumZverejneni": "2021-07-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "rozsudek pro uznání",
+      "smlouva o dílo",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§ 2586 z. č. 89/2012 Sb.",
+      "§ 6 vyhl. č. 177/1996 Sb.",
+      "§ 1982 z. č. 89/2012 Sb.",
+      "§ 1987 z. č. 89/2012 Sb.",
+      "§ 2587 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b7851496-13fb-444f-a4a4-3ec529246ec2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
