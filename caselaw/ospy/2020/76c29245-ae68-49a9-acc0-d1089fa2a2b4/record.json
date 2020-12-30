@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2020:7.C.325.2020.1",
+  "docket": "7 C 325/2020-27",
+  "date": "2020-12-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/76c29245-ae68-49a9-acc0-d1089fa2a2b4",
+  "source_sha256": "c5d7ea7a37d4293ce9dde582142af6768cab1f054a3c334e4aec8fc23dae0209",
+  "source_id": "76c29245-ae68-49a9-acc0-d1089fa2a2b4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 325/2020-27",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Filip Janek",
+    "ecli": "ECLI:CZ:OSPY:2020:7.C.325.2020.1",
+    "predmetRizeni": "o zaplacení 3.460,60 Kč s přísl.",
+    "datumVydani": "2020-12-30",
+    "datumZverejneni": "2021-03-31",
+    "klicovaSlova": [
+      "smlouva nájemní",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2201 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/76c29245-ae68-49a9-acc0-d1089fa2a2b4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
