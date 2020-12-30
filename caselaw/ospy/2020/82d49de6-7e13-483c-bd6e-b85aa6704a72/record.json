@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2020:7.C.428.2020.1",
+  "docket": "7 C 428/2020-15",
+  "date": "2020-12-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/82d49de6-7e13-483c-bd6e-b85aa6704a72",
+  "source_sha256": "5e1f6e724756370d8b76121230d1c9e6039962d96668bfd1a05bfe5fa654d2d0",
+  "source_id": "82d49de6-7e13-483c-bd6e-b85aa6704a72",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 428/2020-15",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Filip Janek",
+    "ecli": "ECLI:CZ:OSPY:2020:7.C.428.2020.1",
+    "predmetRizeni": "O zaplacení 13 660 Kč s příslušenstvím",
+    "datumVydani": "2020-12-30",
+    "datumZverejneni": "2021-03-31",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 2085 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/82d49de6-7e13-483c-bd6e-b85aa6704a72"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
