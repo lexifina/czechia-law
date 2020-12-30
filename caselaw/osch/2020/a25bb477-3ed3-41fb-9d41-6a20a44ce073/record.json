@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2020:15.C.22.2020.2",
+  "docket": "15 C 22/2020-24",
+  "date": "2020-12-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a25bb477-3ed3-41fb-9d41-6a20a44ce073",
+  "source_sha256": "51355d87e8e1b7532c0e03a11673f0379725a6bfc1758cc822000d1b3677d80d",
+  "source_id": "a25bb477-3ed3-41fb-9d41-6a20a44ce073",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 22/2020-24",
+    "soud": "Okresní soud v Chebu",
+    "autor": "Mgr. Ing. Vladimír Doležal",
+    "ecli": "ECLI:CZ:OSCH:2020:15.C.22.2020.2",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-30",
+    "datumZverejneni": "2021-02-04",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "postoupení pohledávky",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 104 z. č. 99/1963 Sb.",
+      "§  z. č. 131/2002 Sb.",
+      "§ 129 z. č. 127/2005 Sb.",
+      "§ 204 z. č. 99/1963 Sb.",
+      "§ 118b z. č. 99/1963 Sb.",
+      "§ 41a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a25bb477-3ed3-41fb-9d41-6a20a44ce073"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
