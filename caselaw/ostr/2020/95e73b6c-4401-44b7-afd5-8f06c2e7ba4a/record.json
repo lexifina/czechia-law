@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Třebíči",
+  "ecli": "ECLI:CZ:OSTR:2020:12.C.269.2020.1",
+  "docket": "12 C 269/2020-14",
+  "date": "2020-12-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/95e73b6c-4401-44b7-afd5-8f06c2e7ba4a",
+  "source_sha256": "48195313ed275a7487c7ea5a12bb6b6ec0f99a19904b355a625fb8564399cede",
+  "source_id": "95e73b6c-4401-44b7-afd5-8f06c2e7ba4a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 269/2020-14",
+    "soud": "Okresní soud v Třebíči",
+    "autor": "Mgr. Jan Coufal",
+    "ecli": "ECLI:CZ:OSTR:2020:12.C.269.2020.1",
+    "predmetRizeni": "zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2020-12-30",
+    "datumZverejneni": "2021-02-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/95e73b6c-4401-44b7-afd5-8f06c2e7ba4a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
