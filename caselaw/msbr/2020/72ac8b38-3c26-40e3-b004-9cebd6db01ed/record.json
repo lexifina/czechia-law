@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2020:36.C.134.2020.1",
+  "docket": "36 C 134/2020-34",
+  "date": "2020-12-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/72ac8b38-3c26-40e3-b004-9cebd6db01ed",
+  "source_sha256": "1c48a63ef9ca21979fed34abe36377e88b8ce9fe2727ad58e3861b0a9fc66e7a",
+  "source_id": "72ac8b38-3c26-40e3-b004-9cebd6db01ed",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 134/2020-34",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Aleš Kobza",
+    "ecli": "ECLI:CZ:MSBR:2020:36.C.134.2020.1",
+    "predmetRizeni": "zaplacení 8.401 Kč s příslušenstvím - faktura",
+    "datumVydani": "2020-12-30",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/72ac8b38-3c26-40e3-b004-9cebd6db01ed"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
