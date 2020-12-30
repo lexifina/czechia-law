@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2020:16.C.366.2020.1",
+  "docket": "16 C 366/2020-17",
+  "date": "2020-12-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f20f9903-88f1-404c-b079-bcce1c5f7bcd",
+  "source_sha256": "0ad0c0fdac4188afdfd596b02350a99b665a9eacefd233579f4e6caf76efadb2",
+  "source_id": "f20f9903-88f1-404c-b079-bcce1c5f7bcd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 366/2020-17",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "Mgr. Gabriela Černá",
+    "ecli": "ECLI:CZ:OSMB:2020:16.C.366.2020.1",
+    "predmetRizeni": "o zaplacení 3 000 Kč",
+    "datumVydani": "2020-12-30",
+    "datumZverejneni": "2021-01-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f20f9903-88f1-404c-b079-bcce1c5f7bcd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
