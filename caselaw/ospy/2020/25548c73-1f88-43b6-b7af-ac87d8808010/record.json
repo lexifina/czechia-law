@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2020:8.C.453.2020.1",
+  "docket": "8 C 453/2020-25",
+  "date": "2020-12-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/25548c73-1f88-43b6-b7af-ac87d8808010",
+  "source_sha256": "715e9c380abaa0601d03bf9a80a41e18944a25b1b736337ac146d9e02bd601e5",
+  "source_id": "25548c73-1f88-43b6-b7af-ac87d8808010",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 453/2020-25",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Jitka Sochorová",
+    "ecli": "ECLI:CZ:OSPY:2020:8.C.453.2020.1",
+    "predmetRizeni": "O zaplacení částky 1 017,77 Kč",
+    "datumVydani": "2020-12-30",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/25548c73-1f88-43b6-b7af-ac87d8808010"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
