@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2020:7.C.216.2017.1",
+  "docket": "7 C 216/2017-146",
+  "date": "2020-12-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3b5a4d4f-fe31-44ed-aca6-05ab0e2198c6",
+  "source_sha256": "123be5b4636fc23bb3ba4aeadeaa905749749bfd6bf430d4854dec3d0547eb74",
+  "source_id": "3b5a4d4f-fe31-44ed-aca6-05ab0e2198c6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 216/2017-146",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "JUDr. Irena Voštová",
+    "ecli": "ECLI:CZ:OSPH06:2020:7.C.216.2017.1",
+    "predmetRizeni": "o zaplacení částky 354.000 Kč s přísl.",
+    "datumVydani": "2020-12-30",
+    "datumZverejneni": "2021-12-31",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "podílové spoluvlastnictví",
+      "spoluvlastnictví"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 1982 z. č. 89/2012 Sb.",
+      "§ 1115 z. č. 89/2012 Sb.",
+      "§ 1121 z. č. 89/2012 Sb.",
+      "§ 1122 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3b5a4d4f-fe31-44ed-aca6-05ab0e2198c6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
