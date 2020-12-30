@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2020:10.C.235.2020.1",
+  "docket": "10 C 235/2020-30",
+  "date": "2020-12-30",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ad0e1e98-9865-489e-a1a4-680bcb44d3ef",
+  "source_sha256": "98f111f79b26aa4d8d4252c203f611744daf88828fc696300dded706cfca803d",
+  "source_id": "ad0e1e98-9865-489e-a1a4-680bcb44d3ef",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 235/2020-30",
+    "soud": "Okresní soud v Lounech",
+    "autor": "JUDr. Petr Šilhan",
+    "ecli": "ECLI:CZ:OSLN:2020:10.C.235.2020.1",
+    "predmetRizeni": "O zaplacení 1 500 Kč s příslušenstvím",
+    "datumVydani": "2020-12-30",
+    "datumZverejneni": "2021-02-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ad0e1e98-9865-489e-a1a4-680bcb44d3ef"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
