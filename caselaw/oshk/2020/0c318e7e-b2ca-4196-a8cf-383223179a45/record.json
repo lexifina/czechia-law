@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2020:8.C.303.2020.1",
+  "docket": "8 C 303/2020-17",
+  "date": "2020-12-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0c318e7e-b2ca-4196-a8cf-383223179a45",
+  "source_sha256": "1b3612d5211a72e422b57e9381d23268546f96736a0b39d1d21aaa79c2f7a1cf",
+  "source_id": "0c318e7e-b2ca-4196-a8cf-383223179a45",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 303/2020-17",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "Mgr. Michaela Nováková",
+    "ecli": "ECLI:CZ:OSHK:2020:8.C.303.2020.1",
+    "predmetRizeni": "o zaplacení částky 2 996,50 Kč s příslušenstvím",
+    "datumVydani": "2020-12-31",
+    "datumZverejneni": "2021-03-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§  nař. vl. č. 142/1994 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 64 z. č. 127/2005 Sb.",
+      "§ 517 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0c318e7e-b2ca-4196-a8cf-383223179a45"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
