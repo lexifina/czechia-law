@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kolíně",
+  "ecli": "ECLI:CZ:OSKO:2020:14.C.232.2020.1",
+  "docket": "14 C 232/2020-17",
+  "date": "2020-12-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/91ecb266-ecd9-4f5f-80a3-2613b86ecb38",
+  "source_sha256": "6ab01825daf3baddf44b201f0f5b16282ec4e9a2277e4a50c15875535f90afb5",
+  "source_id": "91ecb266-ecd9-4f5f-80a3-2613b86ecb38",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 232/2020-17",
+    "soud": "Okresní soud v Kolíně",
+    "autor": "Mgr. Magda Mocová",
+    "ecli": "ECLI:CZ:OSKO:2020:14.C.232.2020.1",
+    "predmetRizeni": "O zaplacení 21 990 Kč s příslušenstvím",
+    "datumVydani": "2020-12-31",
+    "datumZverejneni": "2021-03-05",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/91ecb266-ecd9-4f5f-80a3-2613b86ecb38"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
