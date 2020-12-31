@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kolíně",
+  "ecli": "ECLI:CZ:OSKO:2020:9.C.284.2020.1",
+  "docket": "9 C 284/2020-15",
+  "date": "2020-12-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c69af47a-303e-48ec-be6c-ae1e53b28bd8",
+  "source_sha256": "0e8bb9ef4d6c1547526a6ddd47a7365c52de6ed0dfbcfc6ec117207024c775cd",
+  "source_id": "c69af47a-303e-48ec-be6c-ae1e53b28bd8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 284/2020-15",
+    "soud": "Okresní soud v Kolíně",
+    "autor": "JUDr. Arnošt Oliva",
+    "ecli": "ECLI:CZ:OSKO:2020:9.C.284.2020.1",
+    "predmetRizeni": "O zaplacení 850 Kč s příslušenstvím",
+    "datumVydani": "2020-12-31",
+    "datumZverejneni": "2021-03-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pozemní komunikace"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 19b z. č. 13/1997 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb.",
+      "§ 19a z. č. 13/1997 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c69af47a-303e-48ec-be6c-ae1e53b28bd8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
