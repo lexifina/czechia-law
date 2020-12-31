@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kolíně",
+  "ecli": "ECLI:CZ:OSKO:2020:9.C.281.2020.1",
+  "docket": "9 C 281/2020-17",
+  "date": "2020-12-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a682ac25-b66d-4866-b712-3c27ffd69374",
+  "source_sha256": "41126566e9ed359785419449d98058e382034a7ce21b68d9420df7014ee342ac",
+  "source_id": "a682ac25-b66d-4866-b712-3c27ffd69374",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 281/2020-17",
+    "soud": "Okresní soud v Kolíně",
+    "autor": "JUDr. Arnošt Oliva",
+    "ecli": "ECLI:CZ:OSKO:2020:9.C.281.2020.1",
+    "predmetRizeni": "O zaplacení 5 893 Kč s příslušenstvím",
+    "datumVydani": "2020-12-31",
+    "datumZverejneni": "2021-03-11",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 2 vyhl. č. 205/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 2a vyhl. č. 205/1999 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a682ac25-b66d-4866-b712-3c27ffd69374"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
