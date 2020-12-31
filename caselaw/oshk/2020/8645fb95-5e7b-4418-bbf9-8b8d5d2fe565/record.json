@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2020:8.C.358.2020.1",
+  "docket": "8 C 358/2020-18",
+  "date": "2020-12-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8645fb95-5e7b-4418-bbf9-8b8d5d2fe565",
+  "source_sha256": "7eaf4ace91c33fcafd7bd955606c33bb22b74bdbc2f6f3f5d2e3e592d96760cf",
+  "source_id": "8645fb95-5e7b-4418-bbf9-8b8d5d2fe565",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 358/2020-18",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "Mgr. Michaela Nováková",
+    "ecli": "ECLI:CZ:OSHK:2020:8.C.358.2020.1",
+    "predmetRizeni": "o zaplacení 4 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-31",
+    "datumZverejneni": "2021-07-23",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8645fb95-5e7b-4418-bbf9-8b8d5d2fe565"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
