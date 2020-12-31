@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-jih",
+  "ecli": "ECLI:CZ:OSPJ:2020:6.C.384.2020.1",
+  "docket": "6 C 384/2020-19",
+  "date": "2020-12-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f3b8d673-5225-4289-9ab0-e80ae2138eb5",
+  "source_sha256": "d5419b70bbcbbd75680a34e1bfdd2dc778e823582ddcbfa24149a00322a76cef",
+  "source_id": "f3b8d673-5225-4289-9ab0-e80ae2138eb5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 384/2020-19",
+    "soud": "Okresní soud Plzeň-jih",
+    "autor": "JUDr. Josef Miller",
+    "ecli": "ECLI:CZ:OSPJ:2020:6.C.384.2020.1",
+    "predmetRizeni": "O zaplacení 1 524 Kč s příslušenstvím",
+    "datumVydani": "2020-12-31",
+    "datumZverejneni": "2021-02-19",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 760 z. č. 89/2012 Sb.",
+      "§ 15 vyhl. č. 175/2000 Sb.",
+      "§  nař. vl. č. 180/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f3b8d673-5225-4289-9ab0-e80ae2138eb5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
