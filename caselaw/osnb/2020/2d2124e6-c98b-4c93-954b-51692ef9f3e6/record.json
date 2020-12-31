@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Nymburce",
+  "ecli": "ECLI:CZ:OSNB:2020:17.C.199.2020.1",
+  "docket": "17 C 199/2020-29",
+  "date": "2020-12-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2d2124e6-c98b-4c93-954b-51692ef9f3e6",
+  "source_sha256": "6f91588e3ede41d875c9f65d5b607ddb0f2595275c24d4792472740865cbc265",
+  "source_id": "2d2124e6-c98b-4c93-954b-51692ef9f3e6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 199/2020-29",
+    "soud": "Okresní soud v Nymburce",
+    "autor": "Mgr. Tereza Brandová",
+    "ecli": "ECLI:CZ:OSNB:2020:17.C.199.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2020-12-31",
+    "datumZverejneni": "2021-03-12",
+    "klicovaSlova": [
+      "pasivní legitimace",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 1880 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2d2124e6-c98b-4c93-954b-51692ef9f3e6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
