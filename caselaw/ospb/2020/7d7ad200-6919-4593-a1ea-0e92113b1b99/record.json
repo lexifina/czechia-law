@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2020:16.C.216.2020.1",
+  "docket": "16 C 216/2020-30",
+  "date": "2020-12-31",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7d7ad200-6919-4593-a1ea-0e92113b1b99",
+  "source_sha256": "89eb1a52455f648974880e056a2f1fcb59a4e15d6501a99b3e5bdacad125d6e6",
+  "source_id": "7d7ad200-6919-4593-a1ea-0e92113b1b99",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 216/2020-30",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Alice Kořínková",
+    "ecli": "ECLI:CZ:OSPB:2020:16.C.216.2020.1",
+    "predmetRizeni": "zaplacení 7 000 Kč s příslušenstvím",
+    "datumVydani": "2020-12-31",
+    "datumZverejneni": "2021-02-22",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "nájem dopravního prostředku",
+      "peněžité plnění",
+      "smlouva o nájmu dopravního prostředku"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2321 z. č. 89/2021 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7d7ad200-6919-4593-a1ea-0e92113b1b99"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
