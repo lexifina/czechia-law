@@ -1,0 +1,46 @@
+---
+citace: "Cenové rozhodnutí CÚ pro Středočeský kraj č. 10/T/2020"
+nazev: "Cenové rozhodnutí CÚ pro Středočeský kraj č. 10/T/2020, kterým se stanoví změny pevných cen pro konečného spotřebitele cigaret - 8. dodatek"
+druh: "Cenové rozhodnutí"
+vyhlaseno: "Cenový věstník, částka 19/2020, 2020-12-16"
+zdroj: "https://www.mf.gov.cz/assets/attachments/Cenovy-vestnik_2020-c-19.pdf"
+---
+
+# Cenové rozhodnutí CÚ pro Středočeský kraj č. 10/T/2020, kterým se stanoví změny pevných cen pro konečného spotřebitele cigaret - 8. dodatek
+
+Cenové rozhodnutí CÚ pro Středočeský kraj č. 10/T/2020,
+kterým se stanoví změny pevných cen pro konečného spotřebitele cigaret - 8. dodatek
+Celní úřad pro Středočeský kraj podle § 10 zákona č. 526/1990 Sb., o cenách, pro výrobky zahrnuté v položce č. 1 Cenového rozhodnutí CÚ pro Středočeský kraj č. 01/2020, kterým se vydává seznam zboží s regulovanými cenami, uvedenými v seznamu cigaret, stanoví:
+1\. změny pevných cen
+uvedené v dodatku, který je nedílnou přílohou tohoto Cenového rozhodnutí.
+Pevné ceny pro konečného spotřebitele zahrnují výkon obchodu včetně daně z přidané hodnoty a platí pro všechny prodeje konečnému spotřebiteli na území ČR. Cenové rozhodnutí nabývá účinnosti dnem 1. 1. 2021, pro výrobky vyrobené a dovezené*1) na daňové území ČR, nebo dopravené z jiného členského státu EU na daňové území ČR od tohoto data s těmito cenami vytištěnými podle § 114 zákona č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů. Vyřizuje: Andrea Tinková Mgr. Luboš Kratochvíl, MBA, v. r.
+tel.: +420 327 539 211 1. zástupce ředitele celního úřadu
+Celní úřad pro Středočeský kraj
+\*1) § 3 zákona č. 353/2003 Sb., o spotřebních daních, ve znění pozdějších předpisů
+Příloha rozhodnutí CÚ pro Středočeský kraj č.10/T/2020
+8\. dodatek k seznamu cigaret s pevnými cenami pro konečného spotřebitele
+1\. ZMĚNY PEVNÝCH CEN
+V Cenovém rozhodnutí CÚ pro Středočeský kraj č. 2/T/2020, ve znění Rozhodnutí č. 6/T/2020 se u výrobku BENSON & HEDGES GOLD (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „124,00“ nahrazuje pevnou cenou „132,00“;
+u výrobku CAMEL ESSENTIAL BLUE (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „112,00“ nahrazuje pevnou cenou „120,00“;
+u výrobku KENT CORE BLUE (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „131,00“ nahrazuje pevnou cenou „136,00“;
+u výrobku MEINE SORTE CLASSIC (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „115,00“ nahrazuje pevnou cenou „123,00“;
+u výrobku Reval (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „129,00“ nahrazuje pevnou cenou „134,00“;
+u výrobku Viceroy Special 100 ČERVENÁ (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „107,00“ nahrazuje pevnou cenou „112,00“.
+V Cenovém rozhodnutí CÚ pro Středočeský kraj č. 2/T/2020, ve znění Rozhodnutí č. 6/T/2020 a 7/T/2020 se u výrobku Cabinet Blue (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „116,00“ nahrazuje pevnou cenou „121,00“.
+V Cenovém rozhodnutí CÚ pro Středočeský kraj č. 2/T/2020, ve znění Rozhodnutí č. 7/T/2020 se u výrobku BENSON & HEDGES SILVER (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „107,00“ nahrazuje pevnou cenou „112,00“;
+u výrobku Cabinet Original (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „116,00“ nahrazuje pevnou cenou „121,00“;
+u výrobku Cabinet Red (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „116,00“ nahrazuje pevnou cenou „121,00“;
+u výrobku CAMEL BLUE SHORTS (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „106,00“ nahrazuje pevnou cenou „111,00“;
+u výrobku CAMEL ESSENTIAL BROWN (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „112,00“ nahrazuje pevnou cenou „117,00“;
+u výrobku Ernte 23 (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „128,00“ nahrazuje pevnou cenou „133,00“;
+u výrobku Gauloises Blondes Blue (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „115,00“ nahrazuje pevnou cenou „120,00“;
+u výrobku Gauloises Blondes Red (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „115,00“ nahrazuje pevnou cenou „120,00“;
+u výrobku Gauloises Blondes XL Blue 22's (22 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „125,00“ nahrazuje pevnou cenou „131,00“;
+u výrobku Gauloises Blondes XL Red 22's (22 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „125,00“ nahrazuje pevnou cenou „131,00“;
+u výrobku JPS Blue (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „105,00“ nahrazuje pevnou cenou „110,00“;
+u výrobku Pall Mall KS Blue 40 (40 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „212,00“ nahrazuje pevnou cenou „222,00“;
+u výrobku R1 Blue (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „125,00“ nahrazuje pevnou cenou „130,00“;
+u výrobku WINSTON RED 22 (22 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „113,00“ nahrazuje pevnou cenou „119,00“;
+u výrobku WINSTON SUPER LINE SILVER (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „106,00“ nahrazuje pevnou cenou „114,00“.
+V Cenovém rozhodnutí CÚ pro Středočeský kraj č. 8/T/2020 se u výrobku BENSON & HEDGES SILVER 100s (20 kusů) pevná cena jednotkového balení určeného pro přímou spotřebu „107,00“ nahrazuje pevnou cenou „115,00“.
+Statutární město Ostrava Zastupitelstvo města Ostrava Obecně závazná vyhláška
