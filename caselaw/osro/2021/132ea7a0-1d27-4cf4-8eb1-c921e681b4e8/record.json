@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:5.C.178.2020.1",
+  "docket": "5 C 178/2020-11",
+  "date": "2021-01-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/132ea7a0-1d27-4cf4-8eb1-c921e681b4e8",
+  "source_sha256": "288b6a4cbc45dd756d06f9bb8be78f3c37132448d32966e4472b7a9ab1038491",
+  "source_id": "132ea7a0-1d27-4cf4-8eb1-c921e681b4e8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 178/2020-11",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "Mgr. Ing. David Svoboda",
+    "ecli": "ECLI:CZ:OSRO:2021:5.C.178.2020.1",
+    "predmetRizeni": "zaplacení 3 780 Kč s přísl.",
+    "datumVydani": "2021-01-04",
+    "datumZverejneni": "2021-02-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatek z prodlení",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/132ea7a0-1d27-4cf4-8eb1-c921e681b4e8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
