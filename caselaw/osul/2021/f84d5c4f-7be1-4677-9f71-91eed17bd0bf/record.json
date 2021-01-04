@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:13.C.380.2020.2",
+  "docket": "13 C 380/2020-26",
+  "date": "2021-01-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f84d5c4f-7be1-4677-9f71-91eed17bd0bf",
+  "source_sha256": "69e3e8a8ba4f7431092df8c22e925e285df054ab676b390f9c82912bff04deb3",
+  "source_id": "f84d5c4f-7be1-4677-9f71-91eed17bd0bf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 380/2020-26",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "JUDr. Iva Kučerová",
+    "ecli": "ECLI:CZ:OSUL:2021:13.C.380.2020.2",
+    "predmetRizeni": "O zaplacení 5 836,24 Kč s příslušenstvím",
+    "datumVydani": "2021-01-04",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 132 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f84d5c4f-7be1-4677-9f71-91eed17bd0bf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
