@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:15.C.73.2020.2",
+  "docket": "15 C 73/2020-82",
+  "date": "2021-01-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/56421705-05b6-462e-a4a6-07122b0a4159",
+  "source_sha256": "9758c790f22a7f142c86ffa01171be3eae2121d75072039b3917265f847c83c5",
+  "source_id": "56421705-05b6-462e-a4a6-07122b0a4159",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 73/2020-82",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "Mgr. Alena Brzáková",
+    "ecli": "ECLI:CZ:OSOL:2021:15.C.73.2020.2",
+    "predmetRizeni": "o 5 000 Kč s příslušenstvím",
+    "datumVydani": "2021-01-04",
+    "datumZverejneni": "2021-02-11",
+    "klicovaSlova": [
+      "podvod",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§ 90 z. č. 99/1963 Sb.",
+      "§ 211 z. č. 40/2009 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/56421705-05b6-462e-a4a6-07122b0a4159"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
