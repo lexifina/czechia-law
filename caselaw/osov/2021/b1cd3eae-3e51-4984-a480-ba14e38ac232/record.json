@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:127.C.16.2020.3",
+  "docket": "127 C 16/2020-27",
+  "date": "2021-01-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b1cd3eae-3e51-4984-a480-ba14e38ac232",
+  "source_sha256": "76a0188419a65c03b8b56f4f38d47fd5e9fda987ae6c3f804b9a442cd37f6d1e",
+  "source_id": "b1cd3eae-3e51-4984-a480-ba14e38ac232",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "127 C 16/2020-27",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Viktor Doležílek",
+    "ecli": "ECLI:CZ:OSOV:2021:127.C.16.2020.3",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2021-01-04",
+    "datumZverejneni": "2021-02-24",
+    "klicovaSlova": [
+      "smlouva o úvěru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b1cd3eae-3e51-4984-a480-ba14e38ac232"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
