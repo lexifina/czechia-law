@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2021:18.C.169.2020.1",
+  "docket": "18 C 169/2020-48",
+  "date": "2021-01-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/df589f4c-eb3a-4581-aa0f-4d25a7739af9",
+  "source_sha256": "6939df1cb2735e2465136cb640ca961bb6f59a42a4c6d14d7a707f73c09fd84b",
+  "source_id": "df589f4c-eb3a-4581-aa0f-4d25a7739af9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 169/2020-48",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "Mgr. Jana Tihelková",
+    "ecli": "ECLI:CZ:OSBU:2021:18.C.169.2020.1",
+    "predmetRizeni": "vyživovací povinnost manželky",
+    "datumVydani": "2021-01-04",
+    "datumZverejneni": "2021-03-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "příspěvek na bydlení",
+      "rozvod manželství",
+      "smlouva nájemní",
+      "smlouva pracovní",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 913 z. č. 89/2012 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 697 z. č. 89/2012 Sb.",
+      "§ 162 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/df589f4c-eb3a-4581-aa0f-4d25a7739af9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
