@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:5.C.158.2020.1",
+  "docket": "5 C 158/2020-12",
+  "date": "2021-01-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/951c12e7-8013-4676-bfbe-41dc015cd996",
+  "source_sha256": "2bf55a2dd2ef3c118450d397bfc57f28e81ee8cc6334fcf0aacd16012d8fb63b",
+  "source_id": "951c12e7-8013-4676-bfbe-41dc015cd996",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 158/2020-12",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "Mgr. Ing. David Svoboda",
+    "ecli": "ECLI:CZ:OSRO:2021:5.C.158.2020.1",
+    "predmetRizeni": "zaplacení 4 700 Kč s přísl.",
+    "datumVydani": "2021-01-04",
+    "datumZverejneni": "2021-02-24",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991/1 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/951c12e7-8013-4676-bfbe-41dc015cd996"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
