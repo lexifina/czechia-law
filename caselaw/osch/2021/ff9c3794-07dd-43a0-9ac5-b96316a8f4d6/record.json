@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:10.C.269.2020.3",
+  "docket": "10 C 269/2020-27",
+  "date": "2021-01-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ff9c3794-07dd-43a0-9ac5-b96316a8f4d6",
+  "source_sha256": "5c98102cf53065bebb87572594f517caae5d7860ef947dd1fb2fcf836cad83df",
+  "source_id": "ff9c3794-07dd-43a0-9ac5-b96316a8f4d6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 269/2020-27",
+    "soud": "Okresní soud v Chebu",
+    "autor": "JUDr. Alexandra Vaňková",
+    "ecli": "ECLI:CZ:OSCH:2021:10.C.269.2020.3",
+    "predmetRizeni": "O zaplacení 2 442,84 Kč s příslušenstvím",
+    "datumVydani": "2021-01-04",
+    "datumZverejneni": "2021-01-27",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ff9c3794-07dd-43a0-9ac5-b96316a8f4d6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
