@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2021:16.C.234.2020.1",
+  "docket": "16 C 234/2020-12",
+  "date": "2021-01-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c6c13f0a-ee93-46de-ab94-47f8774e294b",
+  "source_sha256": "23b6ad878712dc04c0238135a10db1fb2f9bab00c4f185c489adf7880b25145b",
+  "source_id": "c6c13f0a-ee93-46de-ab94-47f8774e294b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 234/2020-12",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "Mgr. Marie Indrišková",
+    "ecli": "ECLI:CZ:OSBV:2021:16.C.234.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-04",
+    "datumZverejneni": "2021-02-01",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 384 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c6c13f0a-ee93-46de-ab94-47f8774e294b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
