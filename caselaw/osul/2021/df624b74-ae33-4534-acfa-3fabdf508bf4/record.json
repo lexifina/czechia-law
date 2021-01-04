@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:7.C.428.2020.1",
+  "docket": "7 C 428/2020-16",
+  "date": "2021-01-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/df624b74-ae33-4534-acfa-3fabdf508bf4",
+  "source_sha256": "8ce83d55bac9508d40229b5ca26e89b1ce43f290d65502c05afae6dd7b716a03",
+  "source_id": "df624b74-ae33-4534-acfa-3fabdf508bf4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 428/2020-16",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "JUDr. Pavel Téra",
+    "ecli": "ECLI:CZ:OSUL:2021:7.C.428.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-04",
+    "datumZverejneni": "2021-04-23",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2804 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/df624b74-ae33-4534-acfa-3fabdf508bf4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
