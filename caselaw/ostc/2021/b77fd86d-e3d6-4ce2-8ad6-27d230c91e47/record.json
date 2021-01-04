@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Tachově",
+  "ecli": "ECLI:CZ:OSTC:2021:19.C.255.2020.1",
+  "docket": "19 C 255/2020-23",
+  "date": "2021-01-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b77fd86d-e3d6-4ce2-8ad6-27d230c91e47",
+  "source_sha256": "89071fb33d71e7d97b1f85cd48d008c7985e32e4efc26ffb1c8ac08e7b812f1d",
+  "source_id": "b77fd86d-e3d6-4ce2-8ad6-27d230c91e47",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 255/2020-23",
+    "soud": "Okresní soud v Tachově",
+    "autor": "JUDr. Ing. Patrik Kurz, Ph.D.",
+    "ecli": "ECLI:CZ:OSTC:2021:19.C.255.2020.1",
+    "predmetRizeni": "O zaplacení 1 736,89 Kč",
+    "datumVydani": "2021-01-04",
+    "datumZverejneni": "2021-02-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 11od vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b77fd86d-e3d6-4ce2-8ad6-27d230c91e47"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
