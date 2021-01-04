@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:141.C.9.2020.1",
+  "docket": "141 C 9/2020-30",
+  "date": "2021-01-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7c0a7019-1067-4861-857f-83aa1f50ab98",
+  "source_sha256": "a273bd6e91706d77f2a006cb34f7624afc1175fa48cfa8ec1c48792af81fca29",
+  "source_id": "7c0a7019-1067-4861-857f-83aa1f50ab98",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "141 C 9/2020-30",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "JUDr. Alice Martikánová",
+    "ecli": "ECLI:CZ:OSFM:2021:141.C.9.2020.1",
+    "predmetRizeni": "o 110.000 Kč s přísl. - dohoda o narovnání",
+    "datumVydani": "2021-01-04",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 1903 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7c0a7019-1067-4861-857f-83aa1f50ab98"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
