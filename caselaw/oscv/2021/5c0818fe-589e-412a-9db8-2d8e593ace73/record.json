@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:21.C.189.2015.1",
+  "docket": "21 C 189/2015-35",
+  "date": "2021-01-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5c0818fe-589e-412a-9db8-2d8e593ace73",
+  "source_sha256": "1a16872797dc5f25b26e5bb2b99df3ca6bf262df28c88970305f9b759d5c7b90",
+  "source_id": "5c0818fe-589e-412a-9db8-2d8e593ace73",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 189/2015-35",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Alena Mědílková",
+    "ecli": "ECLI:CZ:OSCV:2021:21.C.189.2015.1",
+    "predmetRizeni": "úvěr - 18.846,10 Kč s příslušenstvím",
+    "datumVydani": "2021-01-05",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5c0818fe-589e-412a-9db8-2d8e593ace73"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
