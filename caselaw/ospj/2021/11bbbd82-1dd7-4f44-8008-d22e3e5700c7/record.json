@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-jih",
+  "ecli": "ECLI:CZ:OSPJ:2021:6.C.321.2019.1",
+  "docket": "6 C 321/2019-73",
+  "date": "2021-01-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/11bbbd82-1dd7-4f44-8008-d22e3e5700c7",
+  "source_sha256": "1e839c9487f3d78f99e2d7cf9e435087c06e4b3f4dad8207b8fb5051db899361",
+  "source_id": "11bbbd82-1dd7-4f44-8008-d22e3e5700c7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 321/2019-73",
+    "soud": "Okresní soud Plzeň-jih",
+    "autor": "JUDr. Josef Miller",
+    "ecli": "ECLI:CZ:OSPJ:2021:6.C.321.2019.1",
+    "predmetRizeni": "O zaplacení 104 721,68 Kč s příslušenstvím",
+    "datumVydani": "2021-01-05",
+    "datumZverejneni": "2021-02-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 29 z. č. 99/1963 Sb.",
+      "§  nař. vl. č. 180/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/11bbbd82-1dd7-4f44-8008-d22e3e5700c7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
