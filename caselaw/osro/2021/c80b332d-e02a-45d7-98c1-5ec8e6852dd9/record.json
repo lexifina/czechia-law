@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:11.C.121.2020.1",
+  "docket": "11 C 121/2020-15",
+  "date": "2021-01-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c80b332d-e02a-45d7-98c1-5ec8e6852dd9",
+  "source_sha256": "5349232f74b1a172865ca225597203bf8bc146cdd31844af79d18b30ad498661",
+  "source_id": "c80b332d-e02a-45d7-98c1-5ec8e6852dd9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 121/2020-15",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "JUDr. Ing. Ivo Hruška",
+    "ecli": "ECLI:CZ:OSRO:2021:11.C.121.2020.1",
+    "predmetRizeni": "zaplacení 1 005 Kč s přísl.",
+    "datumVydani": "2021-01-05",
+    "datumZverejneni": "2021-03-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c80b332d-e02a-45d7-98c1-5ec8e6852dd9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
