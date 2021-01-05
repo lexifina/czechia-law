@@ -1,0 +1,31 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:10.C.265.2020.3",
+  "docket": "10 C 265/2020-35",
+  "date": "2021-01-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9cbf8224-90b8-44d4-839f-7d0601340271",
+  "source_sha256": "4f6a2efd92359cff223bfa4978f272ff5c0bea83746fefa3656fb3c2f1b459da",
+  "source_id": "9cbf8224-90b8-44d4-839f-7d0601340271",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 265/2020-35",
+    "soud": "Okresní soud v Chebu",
+    "autor": "Světlana Jarošová  ",
+    "ecli": "ECLI:CZ:OSCH:2021:10.C.265.2020.3",
+    "predmetRizeni": "",
+    "datumVydani": "2021-01-05",
+    "datumZverejneni": "2021-02-08",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9cbf8224-90b8-44d4-839f-7d0601340271"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
