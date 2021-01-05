@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:29.C.250.2020.1",
+  "docket": "29 C 250/2020-13",
+  "date": "2021-01-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/535ff49f-4f13-4632-b561-b15f8631c9c6",
+  "source_sha256": "fd89e928203179df56b11174f00b17b25c50cd0701251deb3b162ffe9ee555c5",
+  "source_id": "535ff49f-4f13-4632-b561-b15f8631c9c6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 250/2020-13",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "Mgr. Sylva Teličková",
+    "ecli": "ECLI:CZ:OSOL:2021:29.C.250.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-05",
+    "datumZverejneni": "2021-03-15",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/535ff49f-4f13-4632-b561-b15f8631c9c6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
