@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2021:22.C.191.2020.1",
+  "docket": "22 C 191/2020-33",
+  "date": "2021-01-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/09bb617d-71df-4b2d-a200-dfff32190189",
+  "source_sha256": "0a9597a25b957617ed75b5f4b92deeecd872cb4c4946b81ff886f05e69374d95",
+  "source_id": "09bb617d-71df-4b2d-a200-dfff32190189",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 191/2020-33",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "JUDr. Lucia Jelínková",
+    "ecli": "ECLI:CZ:OSMB:2021:22.C.191.2020.1",
+    "predmetRizeni": "o zaplacení 1 800 Kč s příslušenstvím",
+    "datumVydani": "2021-01-05",
+    "datumZverejneni": "2021-01-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/09bb617d-71df-4b2d-a200-dfff32190189"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
