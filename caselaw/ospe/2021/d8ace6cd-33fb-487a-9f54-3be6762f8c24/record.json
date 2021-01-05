@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pelhřimově",
+  "ecli": "ECLI:CZ:OSPE:2021:4.C.173.2020.1",
+  "docket": "4 C 173/2020-10",
+  "date": "2021-01-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d8ace6cd-33fb-487a-9f54-3be6762f8c24",
+  "source_sha256": "35e3ab6519654ddfc7fc5e9250e11cc53403989095703294155014bcb0f4d9ad",
+  "source_id": "d8ace6cd-33fb-487a-9f54-3be6762f8c24",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 173/2020-10",
+    "soud": "Okresní soud v Pelhřimově",
+    "autor": "JUDr. Lenka Jiříková",
+    "ecli": "ECLI:CZ:OSPE:2021:4.C.173.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-05",
+    "datumZverejneni": "2021-01-25",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d8ace6cd-33fb-487a-9f54-3be6762f8c24"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
