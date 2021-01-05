@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:40.C.178.2020.4",
+  "docket": "40 C 178/2020-22",
+  "date": "2021-01-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d2a0fb18-3159-4943-b06f-61982209f7d9",
+  "source_sha256": "5559aecfec28961d814a8bee4a204ac3e239970f76c4dd650782b862b66379be",
+  "source_id": "d2a0fb18-3159-4943-b06f-61982209f7d9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "40 C 178/2020-22",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. et Mgr. Barbora Kovářová",
+    "ecli": "ECLI:CZ:OSOV:2021:40.C.178.2020.4",
+    "predmetRizeni": "o zaplacení 16 576 Kč",
+    "datumVydani": "2021-01-05",
+    "datumZverejneni": "2021-04-15",
+    "klicovaSlova": [
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 2 z. č. 257/2016 Sb.",
+      "§ 87 z. č. 2570/2016 Sb.",
+      "§ 122 z. č. 99/1963 Sb.",
+      "§  z. č. 397/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d2a0fb18-3159-4943-b06f-61982209f7d9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
