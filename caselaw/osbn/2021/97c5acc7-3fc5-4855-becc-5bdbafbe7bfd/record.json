@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2021:4.C.325.2020.1",
+  "docket": "4 C 325/2020-15",
+  "date": "2021-01-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/97c5acc7-3fc5-4855-becc-5bdbafbe7bfd",
+  "source_sha256": "589313739e57d456e0130476f69fcb98a03da66a139c9934316d3a230b2ebe26",
+  "source_id": "97c5acc7-3fc5-4855-becc-5bdbafbe7bfd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 325/2020-15",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Petr Šimek",
+    "ecli": "ECLI:CZ:OSBN:2021:4.C.325.2020.1",
+    "predmetRizeni": "o zaplacení 6 767,29 Kč s příslušenstvím",
+    "datumVydani": "2021-01-05",
+    "datumZverejneni": "2021-04-01",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 610 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/97c5acc7-3fc5-4855-becc-5bdbafbe7bfd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
