@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2021:5.C.299.2020.1",
+  "docket": "5 C 299/2020-18",
+  "date": "2021-01-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/71c495d9-1e5f-45f2-94aa-0a99b556cdc9",
+  "source_sha256": "5ba93a6039e9855a24ad4e3906f6c4a1f75f3f436e79ec532c43253122a2d622",
+  "source_id": "71c495d9-1e5f-45f2-94aa-0a99b556cdc9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 299/2020-18",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Petra Šturcová",
+    "ecli": "ECLI:CZ:OSBN:2021:5.C.299.2020.1",
+    "predmetRizeni": "o zaplacení 7 147 Kč",
+    "datumVydani": "2021-01-05",
+    "datumZverejneni": "2021-02-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/71c495d9-1e5f-45f2-94aa-0a99b556cdc9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
