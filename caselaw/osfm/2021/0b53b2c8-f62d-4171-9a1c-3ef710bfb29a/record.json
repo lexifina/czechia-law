@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:19.C.258.2020.1",
+  "docket": "19 C 258/2020-18",
+  "date": "2021-01-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0b53b2c8-f62d-4171-9a1c-3ef710bfb29a",
+  "source_sha256": "568a2b1e9198ef243f79ab5c13b713e28fc1bac7cd5971c7d332228578560f49",
+  "source_id": "0b53b2c8-f62d-4171-9a1c-3ef710bfb29a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 258/2020-18",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "JUDr. Zuzana Benešová",
+    "ecli": "ECLI:CZ:OSFM:2021:19.C.258.2020.1",
+    "predmetRizeni": "o zaplacení 2 145 Kč s příslušenstvím",
+    "datumVydani": "2021-01-05",
+    "datumZverejneni": "2021-07-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0b53b2c8-f62d-4171-9a1c-3ef710bfb29a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
