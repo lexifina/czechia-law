@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2021:13.C.210.2020.1",
+  "docket": "13 C 210/2020-68",
+  "date": "2021-01-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a59c2137-d2f3-4bb0-a454-24d1b37d0539",
+  "source_sha256": "4d00c551a6d839a2daedcb2bfcfceceff94b2c921594d3d0009f0b9366e531b2",
+  "source_id": "a59c2137-d2f3-4bb0-a454-24d1b37d0539",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 210/2020-68",
+    "soud": "Okresní soud v Lounech",
+    "autor": "Mgr. Jitka Svobodová",
+    "ecli": "ECLI:CZ:OSLN:2021:13.C.210.2020.1",
+    "predmetRizeni": "O zaplacení 1 500 Kč s příslušenstvím",
+    "datumVydani": "2021-01-05",
+    "datumZverejneni": "2021-01-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a59c2137-d2f3-4bb0-a454-24d1b37d0539"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
