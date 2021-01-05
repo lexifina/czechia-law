@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:28.C.318.2020.1",
+  "docket": "28 C 318/2020-12",
+  "date": "2021-01-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/76ab5de5-1c98-4bfa-8275-aba36cfcede8",
+  "source_sha256": "e68801b35beae72ad385334e9b0b6f58eefe9790e9c152551c12775cb6382d05",
+  "source_id": "76ab5de5-1c98-4bfa-8275-aba36cfcede8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 318/2020-12",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Šárka Malíková petříčková",
+    "ecli": "ECLI:CZ:OSPH05:2021:28.C.318.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-05",
+    "datumZverejneni": "2021-04-06",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 384 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/76ab5de5-1c98-4bfa-8275-aba36cfcede8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
