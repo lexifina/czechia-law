@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2021:6.C.103.2020.1",
+  "docket": "6 C 103/2020-59",
+  "date": "2021-01-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/36ac10be-defe-47ea-8c9b-90dc96d7814a",
+  "source_sha256": "6b2050a7809df0cb061abbc10e625b7836d719685038a2a148a1340449c6bcd6",
+  "source_id": "36ac10be-defe-47ea-8c9b-90dc96d7814a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 103/2020-59",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Štěpánka Brožová",
+    "ecli": "ECLI:CZ:OSBN:2021:6.C.103.2020.1",
+    "predmetRizeni": "o zaplacení 2.459,13 Kč s přísl.",
+    "datumVydani": "2021-01-05",
+    "datumZverejneni": "2021-02-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/36ac10be-defe-47ea-8c9b-90dc96d7814a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
