@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2021:11.C.329.2020.1",
+  "docket": "11 C 329/2020-71",
+  "date": "2021-01-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ca807b17-a229-4d60-a9c5-1ff7c0eb2428",
+  "source_sha256": "6da37443e920ca3af3710ccf98a54817f1effc67fd6c14dfebc2bdc111d707b2",
+  "source_id": "ca807b17-a229-4d60-a9c5-1ff7c0eb2428",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 329/2020-71",
+    "soud": "Okresní soud v Benešově",
+    "autor": "JUDr. Eva Kůsová, Ph.D.",
+    "ecli": "ECLI:CZ:OSBN:2021:11.C.329.2020.1",
+    "predmetRizeni": "o zaplacení 36 516,00 Kč s přísl.",
+    "datumVydani": "2021-01-05",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "insolvence",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ca807b17-a229-4d60-a9c5-1ff7c0eb2428"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
