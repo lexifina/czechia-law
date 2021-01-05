@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:9.C.250.2020.1",
+  "docket": "9 C 250/2020-16",
+  "date": "2021-01-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2790a322-962a-4f07-babe-69485013151b",
+  "source_sha256": "87a29a589a5fa36887658eecb5b1ce6da7080847ba04cf33409f8f9de8165a9e",
+  "source_id": "2790a322-962a-4f07-babe-69485013151b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 250/2020-16",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Ivana Jakšičová",
+    "ecli": "ECLI:CZ:OSTA:2021:9.C.250.2020.1",
+    "predmetRizeni": "O zaplacení 11 841,24 Kč s příslušenstvím",
+    "datumVydani": "2021-01-05",
+    "datumZverejneni": "2021-02-05",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 127/2005 Sb.",
+      "§ 64 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2790a322-962a-4f07-babe-69485013151b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
