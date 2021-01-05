@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pelhřimově",
+  "ecli": "ECLI:CZ:OSPE:2021:5.C.199.2020.1",
+  "docket": "5 C 199/2020-21",
+  "date": "2021-01-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/47bbf6b5-9c0a-49d4-97b3-d5ec4d8b1bf4",
+  "source_sha256": "2b710eb7d7620303a3e12bffbe4b55cd44777d5553767143403780fea136941f",
+  "source_id": "47bbf6b5-9c0a-49d4-97b3-d5ec4d8b1bf4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 199/2020-21",
+    "soud": "Okresní soud v Pelhřimově",
+    "autor": "JUDr. Martin Nováček",
+    "ecli": "ECLI:CZ:OSPE:2021:5.C.199.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-05",
+    "datumZverejneni": "2021-02-04",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 156 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/47bbf6b5-9c0a-49d4-97b3-d5ec4d8b1bf4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
