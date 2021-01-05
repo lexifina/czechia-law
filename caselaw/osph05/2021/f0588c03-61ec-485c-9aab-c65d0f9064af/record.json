@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:28.C.416.2020.1",
+  "docket": "28 C 416/2020-16",
+  "date": "2021-01-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f0588c03-61ec-485c-9aab-c65d0f9064af",
+  "source_sha256": "587026ae759b6fce703ef396fa6d57aa8d26dd2f4289c14b42abd99c111a0f68",
+  "source_id": "f0588c03-61ec-485c-9aab-c65d0f9064af",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 416/2020-16",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Šárka Malíková petříčková",
+    "ecli": "ECLI:CZ:OSPH05:2021:28.C.416.2020.1",
+    "predmetRizeni": "zrušení vyživovací povinnosti",
+    "datumVydani": "2021-01-05",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 99/1963 Sb.",
+      "§ 911 z. č. 89/2012 Sb.",
+      "§ 910 z. č. 89/2012 Sb.",
+      "§ 12 z. č. 117/1995 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f0588c03-61ec-485c-9aab-c65d0f9064af"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
