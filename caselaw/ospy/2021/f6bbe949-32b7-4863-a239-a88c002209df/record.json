@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:34.C.135.2020.1",
+  "docket": "34 C 135/2020-56",
+  "date": "2021-01-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f6bbe949-32b7-4863-a239-a88c002209df",
+  "source_sha256": "50711782911ff471314e1e05eeea73f38b82fd1ad1e7b3c142a8f079d39fd3ea",
+  "source_id": "f6bbe949-32b7-4863-a239-a88c002209df",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 135/2020-56",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Zuzana Brzobohatá",
+    "ecli": "ECLI:CZ:OSPY:2021:34.C.135.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-05",
+    "datumZverejneni": "2021-03-03",
+    "klicovaSlova": [
+      "církev",
+      "domácí násilí",
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f6bbe949-32b7-4863-a239-a88c002209df"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
