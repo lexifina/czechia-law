@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pelhřimově",
+  "ecli": "ECLI:CZ:OSPE:2021:4.C.162.2020.1",
+  "docket": "4 C 162/2020-37",
+  "date": "2021-01-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e789eb3f-d58c-4a9e-876e-bda830516e49",
+  "source_sha256": "577afd8a30ac7be181a8361e03d00cfcf2c6146549f63d906d7cc217b2585644",
+  "source_id": "e789eb3f-d58c-4a9e-876e-bda830516e49",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 162/2020-37",
+    "soud": "Okresní soud v Pelhřimově",
+    "autor": "JUDr. Lenka Jiříková",
+    "ecli": "ECLI:CZ:OSPE:2021:4.C.162.2020.1",
+    "predmetRizeni": "o zaplacení částky [částka] s přísl.",
+    "datumVydani": "2021-01-05",
+    "datumZverejneni": "2021-03-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 657 z. č. 89/2012 Sb.",
+      "§ 96 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e789eb3f-d58c-4a9e-876e-bda830516e49"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
