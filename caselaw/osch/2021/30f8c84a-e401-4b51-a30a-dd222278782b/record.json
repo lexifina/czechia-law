@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:9.C.97.2020.3",
+  "docket": "9 C 97/2020-30",
+  "date": "2021-01-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/30f8c84a-e401-4b51-a30a-dd222278782b",
+  "source_sha256": "6f5d724d2bc7187366ff22bf485a5ff2c15c4c3795f3e293ed6e06d65f5ed69a",
+  "source_id": "30f8c84a-e401-4b51-a30a-dd222278782b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 97/2020-30",
+    "soud": "Okresní soud v Chebu",
+    "autor": "Mgr. Pavla Tupá",
+    "ecli": "ECLI:CZ:OSCH:2021:9.C.97.2020.3",
+    "predmetRizeni": "O zaplacení 10 590 Kč s příslušenstvím",
+    "datumVydani": "2021-01-05",
+    "datumZverejneni": "2021-02-04",
+    "klicovaSlova": [
+      "dlužné platby spojené s užíváním bytu",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/30f8c84a-e401-4b51-a30a-dd222278782b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
