@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prachaticích",
+  "ecli": "ECLI:CZ:OSPT:2021:2.C.133.2020.1",
+  "docket": "2 C 133/2020-27",
+  "date": "2021-01-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9d41c613-0b36-47f6-a5ff-f31c7e5354e8",
+  "source_sha256": "378cb6afef4915fa43f691f2de8651b863f8b34fc749b172e6b19e4ed3b52112",
+  "source_id": "9d41c613-0b36-47f6-a5ff-f31c7e5354e8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "2 C 133/2020-27",
+    "soud": "Okresní soud v Prachaticích",
+    "autor": "JUDr. Vladislava Halodová",
+    "ecli": "ECLI:CZ:OSPT:2021:2.C.133.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-05",
+    "datumZverejneni": "2021-01-26",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9d41c613-0b36-47f6-a5ff-f31c7e5354e8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
