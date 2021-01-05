@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2021:9.C.199.2020.1",
+  "docket": "9 C 199/2020-22",
+  "date": "2021-01-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/63587e77-93a0-4e7a-9fde-7a1892ac4a48",
+  "source_sha256": "848727aade7d59d8c960eb2080051741aac226527fbdc026971a08ce3eee551b",
+  "source_id": "63587e77-93a0-4e7a-9fde-7a1892ac4a48",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 199/2020-22",
+    "soud": "Okresní soud v Přerově",
+    "autor": "Mgr. Roman Říha",
+    "ecli": "ECLI:CZ:OSPR:2021:9.C.199.2020.1",
+    "predmetRizeni": "O zaplacení [částka]",
+    "datumVydani": "2021-01-05",
+    "datumZverejneni": "2021-02-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 8 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 235/2004 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/63587e77-93a0-4e7a-9fde-7a1892ac4a48"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
