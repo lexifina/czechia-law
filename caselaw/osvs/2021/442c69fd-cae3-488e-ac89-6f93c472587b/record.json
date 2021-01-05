@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně",
+  "ecli": "ECLI:CZ:OSVS:2021:11.C.125.2020.1",
+  "docket": "11 C 125/2020-20",
+  "date": "2021-01-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/442c69fd-cae3-488e-ac89-6f93c472587b",
+  "source_sha256": "50ff47f2c64f1c0177b48e5531d6d731d545e99b874cf236c58bc1ee07c8ce4c",
+  "source_id": "442c69fd-cae3-488e-ac89-6f93c472587b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 125/2020-20",
+    "soud": "Okresní soud ve Vsetíně",
+    "autor": "JUDr. Ing. Radomír Cáb",
+    "ecli": "ECLI:CZ:OSVS:2021:11.C.125.2020.1",
+    "predmetRizeni": "O zaplacení 9 249 Kč s příslušenstvím",
+    "datumVydani": "2021-01-05",
+    "datumZverejneni": "2021-04-27",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/442c69fd-cae3-488e-ac89-6f93c472587b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
