@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pelhřimově",
+  "ecli": "ECLI:CZ:OSPE:2021:4.C.159.2020.1",
+  "docket": "4 C 159/2020-25",
+  "date": "2021-01-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a5f796ac-807c-4298-83a4-cb72c323670e",
+  "source_sha256": "5e04291b09f5f521adf417cd2c0c1d33664f274debff463e8b97e301991d971e",
+  "source_id": "a5f796ac-807c-4298-83a4-cb72c323670e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 159/2020-25",
+    "soud": "Okresní soud v Pelhřimově",
+    "autor": "JUDr. Lenka Jiříková",
+    "ecli": "ECLI:CZ:OSPE:2021:4.C.159.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-05",
+    "datumZverejneni": "2021-02-01",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a5f796ac-807c-4298-83a4-cb72c323670e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
