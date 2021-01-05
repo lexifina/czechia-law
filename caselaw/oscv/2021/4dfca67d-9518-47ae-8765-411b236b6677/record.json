@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:8.C.350.2020.1",
+  "docket": "8 C 350/2020-47",
+  "date": "2021-01-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4dfca67d-9518-47ae-8765-411b236b6677",
+  "source_sha256": "14a7439cdd309cd13ec8dcb03e6b550fa0c8cc7850e6c0a27179d7646ce87c53",
+  "source_id": "4dfca67d-9518-47ae-8765-411b236b6677",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 350/2020-47",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Petr Karásek",
+    "ecli": "ECLI:CZ:OSCV:2021:8.C.350.2020.1",
+    "predmetRizeni": "zaplacení 4 200 Kč s příslušenstvím (úvěr)",
+    "datumVydani": "2021-01-05",
+    "datumZverejneni": "2021-03-08",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "podvod",
+      "postoupení pohledávky",
+      "smlouva nájemní",
+      "smlouva o zápůjčce",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 1 z. č. 145/2010 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4dfca67d-9518-47ae-8765-411b236b6677"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
