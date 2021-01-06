@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2021:19.C.537.2020.2",
+  "docket": "19 C 537/2020-26",
+  "date": "2021-01-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/498bc16a-e247-4f7b-9c93-5e7340901a9a",
+  "source_sha256": "1145b994d08d4cfb3f51e30431e4679500eb5f3e073a9894bdc5abb2d4e86a26",
+  "source_id": "498bc16a-e247-4f7b-9c93-5e7340901a9a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 537/2020-26",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "JUDr. Jan Kušnír",
+    "ecli": "ECLI:CZ:OSJN:2021:19.C.537.2020.2",
+    "predmetRizeni": "o zaplacení 25 465 Kč s příslušenstvím",
+    "datumVydani": "2021-01-06",
+    "datumZverejneni": "2021-09-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/498bc16a-e247-4f7b-9c93-5e7340901a9a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
