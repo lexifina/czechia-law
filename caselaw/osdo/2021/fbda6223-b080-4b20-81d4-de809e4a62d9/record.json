@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:11.C.41.2020.1",
+  "docket": "11 C 41/2020-60",
+  "date": "2021-01-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fbda6223-b080-4b20-81d4-de809e4a62d9",
+  "source_sha256": "079106faf808210ee16462fbc99075d65b8c614dc9e19f8275b3cd94e6cdb496",
+  "source_id": "fbda6223-b080-4b20-81d4-de809e4a62d9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 41/2020-60",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "JUDr. Vladimíra Mašinová",
+    "ecli": "ECLI:CZ:OSDO:2021:11.C.41.2020.1",
+    "predmetRizeni": "o zapl. 39.724 Kč s přísl.",
+    "datumVydani": "2021-01-06",
+    "datumZverejneni": "2021-03-02",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "peněžité plnění",
+      "podnájem",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2246 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fbda6223-b080-4b20-81d4-de809e4a62d9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
