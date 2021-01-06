@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:30.C.337.2020.1",
+  "docket": "30 C 337/2020-13",
+  "date": "2021-01-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/eb28b240-1314-4c93-b5d7-e20852476bb4",
+  "source_sha256": "ed19f3ffbf43ec17a92db8d97e6ea8c389d97e55ccb8dba4497b93040f549648",
+  "source_id": "eb28b240-1314-4c93-b5d7-e20852476bb4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 337/2020-13",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "Mgr. Daniel Macháček",
+    "ecli": "ECLI:CZ:OSCB:2021:30.C.337.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-06",
+    "datumZverejneni": "2021-02-24",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/eb28b240-1314-4c93-b5d7-e20852476bb4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
