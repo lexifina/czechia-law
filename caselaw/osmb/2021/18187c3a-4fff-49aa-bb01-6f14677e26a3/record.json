@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2021:19.C.59.2020.1",
+  "docket": "19 C 59/2020-16",
+  "date": "2021-01-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/18187c3a-4fff-49aa-bb01-6f14677e26a3",
+  "source_sha256": "b1068b835043ec7971bdcafe5c08462d696f304c56e1662ee69e9968872a3301",
+  "source_id": "18187c3a-4fff-49aa-bb01-6f14677e26a3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 59/2020-16",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "JUDr. Lenka Engelová",
+    "ecli": "ECLI:CZ:OSMB:2021:19.C.59.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-06",
+    "datumZverejneni": "2021-02-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 2 z. č. 127/2005 Sb.",
+      "§  z. č. 131/2002 Sb.",
+      "§  z. č. 370/2017 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/18187c3a-4fff-49aa-bb01-6f14677e26a3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
