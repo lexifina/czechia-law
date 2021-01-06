@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Krajský soud v Praze",
+  "ecli": "ECLI:CZ:KSPH:2021:73.Cm.94.2020 .1",
+  "docket": "73 CM 94/2020-29",
+  "date": "2021-01-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/af95f02d-1483-4ed2-a863-69adbee3c413",
+  "source_sha256": "babcc6dc466b28d3abf36882585bbaf77308af68c54cfae6daa065288ef86e64",
+  "source_id": "af95f02d-1483-4ed2-a863-69adbee3c413",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "73 CM 94/2020-29",
+    "soud": "Krajský soud v Praze",
+    "autor": "Mgr. Vladimír Sommer",
+    "ecli": "ECLI:CZ:KSPH:2021:73.Cm.94.2020 .1",
+    "predmetRizeni": "o zaplacení částky 48 000 Kč s příslušenstvím,",
+    "datumVydani": "2021-01-06",
+    "datumZverejneni": "2021-07-19",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 164 z. č. 99/1963 Sb.",
+      "§  28 z. č. 191/1950 Sb.",
+      "§ 48 z. č. 191/1950 Sb.",
+      "§ 75 z. č. 191/1950 Sb.",
+      "§ 78 z. č. 191/1950 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/af95f02d-1483-4ed2-a863-69adbee3c413"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
