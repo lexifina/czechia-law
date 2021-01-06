@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prachaticích",
+  "ecli": "ECLI:CZ:OSPT:2021:9.C.83.2017.1",
+  "docket": "9 C 83/2017-45",
+  "date": "2021-01-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/78133d45-ebb0-49c3-a0f4-a22f8ec3eff5",
+  "source_sha256": "4ee1410c18d03da567604a9a53d319cc04d722c8a7ccdd73a74ac0a46e8dd780",
+  "source_id": "78133d45-ebb0-49c3-a0f4-a22f8ec3eff5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 83/2017-45",
+    "soud": "Okresní soud v Prachaticích",
+    "autor": "JUDr. Simona Vojíková",
+    "ecli": "ECLI:CZ:OSPT:2021:9.C.83.2017.1",
+    "predmetRizeni": "o zaplacení 12 240 Kč s příslušenstvím",
+    "datumVydani": "2021-01-06",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "oddlužení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 657 z. č. 89/2012 Sb.",
+      "§ 658 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/78133d45-ebb0-49c3-a0f4-a22f8ec3eff5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
