@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:10.C.10.2021.1",
+  "docket": "10 C 10/2021-9",
+  "date": "2021-01-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/589f5eb6-ab01-46e1-ae1e-2b3a708e9a7d",
+  "source_sha256": "a4c8d7b4c39c6a18fbeb1a8f9bf5f2b23229fce60292805a6376aa9efa549ee8",
+  "source_id": "589f5eb6-ab01-46e1-ae1e-2b3a708e9a7d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 10/2021-9",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Eva Harmachová",
+    "ecli": "ECLI:CZ:OSPH05:2021:10.C.10.2021.1",
+    "predmetRizeni": "O zaplacení 2 050 Kč s příslušenstvím",
+    "datumVydani": "2021-01-06",
+    "datumZverejneni": "2021-01-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 15 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/589f5eb6-ab01-46e1-ae1e-2b3a708e9a7d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
