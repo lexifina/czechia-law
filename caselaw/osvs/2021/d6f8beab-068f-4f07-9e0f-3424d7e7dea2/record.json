@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně",
+  "ecli": "ECLI:CZ:OSVS:2021:7.C.55.2020.1",
+  "docket": "7 C 55/2020-17",
+  "date": "2021-01-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d6f8beab-068f-4f07-9e0f-3424d7e7dea2",
+  "source_sha256": "2afc8ecf26aa6977807cd4a4ce597c6f16fd2dfaa70d66044399a1b22367a821",
+  "source_id": "d6f8beab-068f-4f07-9e0f-3424d7e7dea2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 55/2020-17",
+    "soud": "Okresní soud ve Vsetíně",
+    "autor": "JUDr. Lenka Fialová",
+    "ecli": "ECLI:CZ:OSVS:2021:7.C.55.2020.1",
+    "predmetRizeni": "O zaplacení 945 Kč s příslušenstvím",
+    "datumVydani": "2021-01-06",
+    "datumZverejneni": "2021-04-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 348/2005 Sb.",
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 6 z. č. 348/2005 Sb.",
+      "§ 7 z. č. 348/2005 Sb.",
+      "§ 89a z. č. 120/2001 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d6f8beab-068f-4f07-9e0f-3424d7e7dea2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
