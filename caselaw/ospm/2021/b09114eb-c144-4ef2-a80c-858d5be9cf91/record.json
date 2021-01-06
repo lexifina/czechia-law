@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:16.C.99.2020.1",
+  "docket": "16 C 99/2020-18",
+  "date": "2021-01-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b09114eb-c144-4ef2-a80c-858d5be9cf91",
+  "source_sha256": "0635f18b5c9e7b64a0b0ec5c17e9c63ff9aaedd04a3cf81db55496ff30dc6ce4",
+  "source_id": "b09114eb-c144-4ef2-a80c-858d5be9cf91",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 99/2020-18",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Ing. Miroslav Skala",
+    "ecli": "ECLI:CZ:OSPM:2021:16.C.99.2020.1",
+    "predmetRizeni": "O zaplacení 10 000 Kč s příslušenstvím",
+    "datumVydani": "2021-01-06",
+    "datumZverejneni": "2021-03-19",
+    "klicovaSlova": [
+      "bezdůvodné obohacení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 451 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b09114eb-c144-4ef2-a80c-858d5be9cf91"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
