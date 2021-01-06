@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2021:16.C.183.2020.1",
+  "docket": "16 C 183/2020-83",
+  "date": "2021-01-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d93c8577-8e70-4dc2-be22-7e904c3baa29",
+  "source_sha256": "b266e97603c9f82f71a133e4ff4dfb223a9fc60429a12fd97bb6909db225aad2",
+  "source_id": "d93c8577-8e70-4dc2-be22-7e904c3baa29",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 183/2020-83",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "Mgr. Simona Řežuchová",
+    "ecli": "ECLI:CZ:OSSU:2021:16.C.183.2020.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2021-01-06",
+    "datumZverejneni": "2021-04-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§  z. č. 127/2005 Sb.",
+      "§  nař. vl. č. 142/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d93c8577-8e70-4dc2-be22-7e904c3baa29"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
