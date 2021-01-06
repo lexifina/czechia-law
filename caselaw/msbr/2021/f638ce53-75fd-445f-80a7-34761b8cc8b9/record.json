@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:41.C.68.2020.1",
+  "docket": "41 C 68/2020-39",
+  "date": "2021-01-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f638ce53-75fd-445f-80a7-34761b8cc8b9",
+  "source_sha256": "a38e88e42857ffe24ba5973cbf7725472823cac9ddd6cb5e3807447d20a8d383",
+  "source_id": "f638ce53-75fd-445f-80a7-34761b8cc8b9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "41 C 68/2020-39",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Milan Jakubíček",
+    "ecli": "ECLI:CZ:MSBR:2021:41.C.68.2020.1",
+    "predmetRizeni": "zaplacení 52.560 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2021-01-06",
+    "datumZverejneni": "2021-04-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 122 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f638ce53-75fd-445f-80a7-34761b8cc8b9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
