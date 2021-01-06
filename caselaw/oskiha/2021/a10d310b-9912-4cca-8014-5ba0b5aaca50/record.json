@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:112.C.385.2020.1",
+  "docket": "112 C 385/2020-14",
+  "date": "2021-01-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a10d310b-9912-4cca-8014-5ba0b5aaca50",
+  "source_sha256": "f1346ad39dc3e6b524f2233110d3c2f97d82d6feb5c0de013b147214b94df437",
+  "source_id": "a10d310b-9912-4cca-8014-5ba0b5aaca50",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "112 C 385/2020-14",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Petra Pomykaczová",
+    "ecli": "ECLI:CZ:OSKIHA:2021:112.C.385.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-06",
+    "datumZverejneni": "2021-01-07",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 655 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a10d310b-9912-4cca-8014-5ba0b5aaca50"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
