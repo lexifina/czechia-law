@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2021:4.C.334.2020.1",
+  "docket": "4 C 334/2020-30",
+  "date": "2021-01-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cf9b8f4a-c54d-49b3-b124-ba98778a5a22",
+  "source_sha256": "8e32773123f4614ef7d03aa7ca839b4557c9b1bdfe5a0991bf418a4b45bdfc23",
+  "source_id": "cf9b8f4a-c54d-49b3-b124-ba98778a5a22",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 334/2020-30",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "Mgr. Jan Cejpek",
+    "ecli": "ECLI:CZ:OSJI:2021:4.C.334.2020.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2021-01-06",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§  nař. vl. č. 351/2014 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cf9b8f4a-c54d-49b3-b124-ba98778a5a22"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
