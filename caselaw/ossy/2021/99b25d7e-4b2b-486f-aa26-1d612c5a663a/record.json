@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2021:12.C.184.2014.1",
+  "docket": "12 C 184/2014-77",
+  "date": "2021-01-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/99b25d7e-4b2b-486f-aa26-1d612c5a663a",
+  "source_sha256": "7452857c82eea6af1c4431b956705c5866f2d078ce07b9d8db54413178519936",
+  "source_id": "99b25d7e-4b2b-486f-aa26-1d612c5a663a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 184/2014-77",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "JUDr. Alena Veiglová",
+    "ecli": "ECLI:CZ:OSSY:2021:12.C.184.2014.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-01-06",
+    "datumZverejneni": "2021-02-18",
+    "klicovaSlova": [
+      "oddlužení",
+      "peněžité plnění",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/99b25d7e-4b2b-486f-aa26-1d612c5a663a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
