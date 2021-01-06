@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:4.C.210.2020.2",
+  "docket": "4 C 210/2020-20",
+  "date": "2021-01-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fe9271ae-2fe1-4564-bd1d-7df5855fbb23",
+  "source_sha256": "10657633bbc4313e763d2f0f25732953b134b7ea64a24b6ae4220d10ede4a3a5",
+  "source_id": "fe9271ae-2fe1-4564-bd1d-7df5855fbb23",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 210/2020-20",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "JUDr. Michala Dvořáková",
+    "ecli": "ECLI:CZ:OSPH05:2021:4.C.210.2020.2",
+    "predmetRizeni": "o 5.123 Kč s příslušenstvím",
+    "datumVydani": "2021-01-06",
+    "datumZverejneni": "2021-04-28",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 2636 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fe9271ae-2fe1-4564-bd1d-7df5855fbb23"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
