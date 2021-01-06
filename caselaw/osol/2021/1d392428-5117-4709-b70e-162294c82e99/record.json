@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:12.C.23.2020.4",
+  "docket": "12 C 23/2020-132",
+  "date": "2021-01-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1d392428-5117-4709-b70e-162294c82e99",
+  "source_sha256": "75c9291624bd76bf3e884022a2df2c7eef5f0c108869ba413873a0621c4aadc6",
+  "source_id": "1d392428-5117-4709-b70e-162294c82e99",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 23/2020-132",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "JUDr. Jitka Rollerová, , Dr.",
+    "ecli": "ECLI:CZ:OSOL:2021:12.C.23.2020.4",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-06",
+    "datumZverejneni": "2021-02-10",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1d392428-5117-4709-b70e-162294c82e99"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
