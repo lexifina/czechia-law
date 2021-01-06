@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:109.C.21.2020.1",
+  "docket": "109 C 21/2020-43",
+  "date": "2021-01-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/47b86a1a-91dc-4ca5-ad48-94457472ce2f",
+  "source_sha256": "b8f7b5e8875a01b5da7dbbf7b36a13baaa998c124eee73861022818d930ece1d",
+  "source_id": "47b86a1a-91dc-4ca5-ad48-94457472ce2f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "109 C 21/2020-43",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "JUDr. Jarmila Herotová",
+    "ecli": "ECLI:CZ:OSFM:2021:109.C.21.2020.1",
+    "predmetRizeni": "o 5.627 Kč s přísl. - bezdůvodné obohacení",
+    "datumVydani": "2021-01-06",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/47b86a1a-91dc-4ca5-ad48-94457472ce2f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
