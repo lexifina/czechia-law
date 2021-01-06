@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:31.C.1.2020.1",
+  "docket": "31 C 1/2020-22",
+  "date": "2021-01-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cb26df9c-81a3-4608-b993-97171e0d65af",
+  "source_sha256": "ff63471e634a6d01b03e08b5fecb74b2b4a84601ec1ceeced2b18dbf9e906e3e",
+  "source_id": "cb26df9c-81a3-4608-b993-97171e0d65af",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "31 C 1/2020-22",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Kamila Krausová",
+    "ecli": "ECLI:CZ:MSBR:2021:31.C.1.2020.1",
+    "predmetRizeni": "zaplacení 5.207 Kč s příslušenstvím - pojistné",
+    "datumVydani": "2021-01-06",
+    "datumZverejneni": "2021-04-12",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 2833 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cb26df9c-81a3-4608-b993-97171e0d65af"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
