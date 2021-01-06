@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:28.C.344.2020.1",
+  "docket": "28 C 344/2020-17",
+  "date": "2021-01-06",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fa24b632-707e-4063-b726-0919d5d28b60",
+  "source_sha256": "bb546352e5699b61151d5aef73d46f3933e893aad1fee8aca22f789eda84392c",
+  "source_id": "fa24b632-707e-4063-b726-0919d5d28b60",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 344/2020-17",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Kateřina Auterská šašková",
+    "ecli": "ECLI:CZ:OSPM:2021:28.C.344.2020.1",
+    "predmetRizeni": "O zaplacení 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-01-06",
+    "datumZverejneni": "2021-02-15",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  37 z. č. 266/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fa24b632-707e-4063-b726-0919d5d28b60"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
