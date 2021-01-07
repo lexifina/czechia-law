@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:30.C.55.2020.1",
+  "docket": "30 C 55/2020-26",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/47a12e33-0128-441d-a5f0-43f28f9a7ad4",
+  "source_sha256": "f507aea1c1d17a5f1a06bb88b2f2227ab902903cfbae00b8df3a21a95915f327",
+  "source_id": "47a12e33-0128-441d-a5f0-43f28f9a7ad4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 55/2020-26",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Hana Jakubcová",
+    "ecli": "ECLI:CZ:OSCV:2021:30.C.55.2020.1",
+    "predmetRizeni": "zaplacení 2 000 Kč (nevrácené přijímací zařízení)",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-02-24",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 419 z. č. 89/2012 Sb.",
+      "§ 63 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/47a12e33-0128-441d-a5f0-43f28f9a7ad4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
