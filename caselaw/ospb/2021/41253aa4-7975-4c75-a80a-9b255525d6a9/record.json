@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:7.C.132.2020.4",
+  "docket": "7 C 132/2020-36",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/41253aa4-7975-4c75-a80a-9b255525d6a9",
+  "source_sha256": "bc0c24de7a2a3e54c12d78ed5fa6d6777196283e2fe7cd0c5593a055a88aff07",
+  "source_id": "41253aa4-7975-4c75-a80a-9b255525d6a9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 132/2020-36",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "Mgr. Veronika Konšelová",
+    "ecli": "ECLI:CZ:OSPB:2021:7.C.132.2020.4",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-03-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 251 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/41253aa4-7975-4c75-a80a-9b255525d6a9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
