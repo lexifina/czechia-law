@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jeseníku",
+  "ecli": "ECLI:CZ:OSJE:2021:4.C.212.2020.1",
+  "docket": "4 C 212/2020-24",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2b8908b9-8415-46ce-a8d4-54fff2fc8026",
+  "source_sha256": "696d2377245614becae39e41eec8edcf2d15f8c3d2c8f8e9a8ff0211b864b06b",
+  "source_id": "2b8908b9-8415-46ce-a8d4-54fff2fc8026",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 212/2020-24",
+    "soud": "Okresní soud v Jeseníku",
+    "autor": "JUDr. Ivana Ondryášová",
+    "ecli": "ECLI:CZ:OSJE:2021:4.C.212.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-02-01",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "investiční fond",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 2991 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2b8908b9-8415-46ce-a8d4-54fff2fc8026"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
