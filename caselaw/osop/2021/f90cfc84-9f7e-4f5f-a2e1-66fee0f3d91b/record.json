@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2021:7.C.244.2020.1",
+  "docket": "7 C 244/2020-22",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f90cfc84-9f7e-4f5f-a2e1-66fee0f3d91b",
+  "source_sha256": "c1ea87440016cc430787a479c09bd6361778f9b2a3b8e8309712b6c0e0d26f48",
+  "source_id": "f90cfc84-9f7e-4f5f-a2e1-66fee0f3d91b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 244/2020-22",
+    "soud": "Okresní soud v Opavě",
+    "autor": "Mgr. Vítězslav Špalek",
+    "ecli": "ECLI:CZ:OSOP:2021:7.C.244.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-03-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 3 z. č. 348/2005 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 114a z. č. 99/1963 Sb.",
+      "§ 1 z. č. 252/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f90cfc84-9f7e-4f5f-a2e1-66fee0f3d91b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
