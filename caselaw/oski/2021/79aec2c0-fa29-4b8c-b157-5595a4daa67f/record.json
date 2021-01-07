@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2021:26.C.364.2020.1",
+  "docket": "26 C 364/2020-27",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/79aec2c0-fa29-4b8c-b157-5595a4daa67f",
+  "source_sha256": "0aafa644470ea14c8c210ed5aea12aa22a1486a049fca372307f2aeb29d03596",
+  "source_id": "79aec2c0-fa29-4b8c-b157-5595a4daa67f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 364/2020-27",
+    "soud": "Okresní soud v Karviné",
+    "autor": "Mgr. Marek Heczko",
+    "ecli": "ECLI:CZ:OSKI:2021:26.C.364.2020.1",
+    "predmetRizeni": "1 261 Kč s příslušenstvím",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-02-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění majetku"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 2861 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/79aec2c0-fa29-4b8c-b157-5595a4daa67f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
