@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:70.C.341.2020.2",
+  "docket": "70 C 341/2020-32",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1d881f91-850f-4dac-a170-31dac6628432",
+  "source_sha256": "0bb630f69e19ff85ab380507f9c7012d995365e59a57c6d68cfedac411a3436b",
+  "source_id": "1d881f91-850f-4dac-a170-31dac6628432",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "70 C 341/2020-32",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Radka Nekolová",
+    "ecli": "ECLI:CZ:OSUL:2021:70.C.341.2020.2",
+    "predmetRizeni": "O zaplacení [částka]",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-02-22",
+    "klicovaSlova": [
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1753 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1d881f91-850f-4dac-a170-31dac6628432"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
