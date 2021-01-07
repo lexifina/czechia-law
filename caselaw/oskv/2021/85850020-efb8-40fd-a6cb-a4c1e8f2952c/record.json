@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:13.C.293.2020.1",
+  "docket": "13 C 293/2020-16",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/85850020-efb8-40fd-a6cb-a4c1e8f2952c",
+  "source_sha256": "491b380157e3a31fa06c2b15e1882c298f2e7fbf8faa51d05f0d83ba14f9a0dd",
+  "source_id": "85850020-efb8-40fd-a6cb-a4c1e8f2952c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 293/2020-16",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Oldřich Umlauf",
+    "ecli": "ECLI:CZ:OSKV:2021:13.C.293.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-02-11",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 687 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/85850020-efb8-40fd-a6cb-a4c1e8f2952c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
