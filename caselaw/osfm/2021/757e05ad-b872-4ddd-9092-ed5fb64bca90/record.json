@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:113.C.41.2017.1",
+  "docket": "113 C 41/2017-297",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/757e05ad-b872-4ddd-9092-ed5fb64bca90",
+  "source_sha256": "5765babeb9b52268ff78f6848443588bd4a02ae502e7ae57df587cbc78fa2d4a",
+  "source_id": "757e05ad-b872-4ddd-9092-ed5fb64bca90",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "113 C 41/2017-297",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "JUDr. Naděžda Foldynová",
+    "ecli": "ECLI:CZ:OSFM:2021:113.C.41.2017.1",
+    "predmetRizeni": "o 7.875,00 Kč s přísl. - faktura",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-09-09",
+    "klicovaSlova": [
+      "insolvenční návrh",
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o dílo",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2586 z. č. 89/2012 Sb.",
+      "§ 2610 z. č. 89/2012 Sb.",
+      "§ 2587 z. č. 89/2012 Sb.",
+      "§ 2604 z. č. 89/2012 Sb.",
+      "§ 2618 z. č. 89/2012 Sb.",
+      "§ 2605 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/757e05ad-b872-4ddd-9092-ed5fb64bca90"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
