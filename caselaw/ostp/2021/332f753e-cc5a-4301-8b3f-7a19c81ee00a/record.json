@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:24.C.242.2020.1",
+  "docket": "24 C 242/2020-35",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/332f753e-cc5a-4301-8b3f-7a19c81ee00a",
+  "source_sha256": "c9f9e1beb34d73869f57a2f162351a7e7d660edd7975074aaa2888271aa67aee",
+  "source_id": "332f753e-cc5a-4301-8b3f-7a19c81ee00a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 242/2020-35",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "JUDr. Kamila Kocajová",
+    "ecli": "ECLI:CZ:OSTP:2021:24.C.242.2020.1",
+    "predmetRizeni": "zaplacení 16 160 Kč s příslušenstvím",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-03-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/332f753e-cc5a-4301-8b3f-7a19c81ee00a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
