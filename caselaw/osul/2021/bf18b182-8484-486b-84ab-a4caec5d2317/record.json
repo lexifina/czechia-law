@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:70.C.343.2020.2",
+  "docket": "70 C 343/2020-20",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bf18b182-8484-486b-84ab-a4caec5d2317",
+  "source_sha256": "97760ba41e3bed662945d93c3c9b3826f3f6777dce444b2278234a71cf73910c",
+  "source_id": "bf18b182-8484-486b-84ab-a4caec5d2317",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "70 C 343/2020-20",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Radka Nekolová",
+    "ecli": "ECLI:CZ:OSUL:2021:70.C.343.2020.2",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 2789 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bf18b182-8484-486b-84ab-a4caec5d2317"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
