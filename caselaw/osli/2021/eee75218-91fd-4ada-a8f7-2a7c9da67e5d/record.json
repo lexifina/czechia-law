@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:21.C.421.2020.1",
+  "docket": "21 C 421/2020-29",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/eee75218-91fd-4ada-a8f7-2a7c9da67e5d",
+  "source_sha256": "5b0289cafe437d8ea5b1aec9d8aa4a9ca63459c0a9314533abcd0864d1fdf95a",
+  "source_id": "eee75218-91fd-4ada-a8f7-2a7c9da67e5d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 421/2020-29",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Ivana Houdková",
+    "ecli": "ECLI:CZ:OSLI:2021:21.C.421.2020.1",
+    "predmetRizeni": "o zaplacení částky 2 000 Kč s příslušenstvím",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-04-06",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/eee75218-91fd-4ada-a8f7-2a7c9da67e5d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
