@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:23.C.3.2021.1",
+  "docket": "23 C 3/2021-22",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/00051f37-ceb6-49cc-b574-5c330fbabdd4",
+  "source_sha256": "0b12a7e1359396875c776e2cdea98ed29e078da4a3da71137d17ba9ad3864f86",
+  "source_id": "00051f37-ceb6-49cc-b574-5c330fbabdd4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 3/2021-22",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "JUDr. Tomáš Křiváček",
+    "ecli": "ECLI:CZ:OSCB:2021:23.C.3.2021.1",
+    "predmetRizeni": "EPR [číslo], o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-01-27",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/00051f37-ceb6-49cc-b574-5c330fbabdd4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
