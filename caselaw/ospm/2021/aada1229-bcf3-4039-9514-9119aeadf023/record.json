@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:14.C.168.2020.1",
+  "docket": "14 C 168/2020-51",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/aada1229-bcf3-4039-9514-9119aeadf023",
+  "source_sha256": "4c121a62d271b2d2b519e083b4373d49b56f374c613565209ca8396d3bc06fa3",
+  "source_id": "aada1229-bcf3-4039-9514-9119aeadf023",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 168/2020-51",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Jiří Buček",
+    "ecli": "ECLI:CZ:OSPM:2021:14.C.168.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "jízdné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§ 96 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/aada1229-bcf3-4039-9514-9119aeadf023"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
