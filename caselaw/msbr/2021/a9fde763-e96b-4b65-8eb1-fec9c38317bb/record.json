@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:54.C.203.2020.1",
+  "docket": "54 C 203/2020-51",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a9fde763-e96b-4b65-8eb1-fec9c38317bb",
+  "source_sha256": "e34e6c2cdc8fb3601fb64ee6beb3c3c44ab08fd808c0ff3d08afdfb4750c458d",
+  "source_id": "a9fde763-e96b-4b65-8eb1-fec9c38317bb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "54 C 203/2020-51",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Daniela Schwarzová",
+    "ecli": "ECLI:CZ:MSBR:2021:54.C.203.2020.1",
+    "predmetRizeni": "vyklizení bytu + předběžné opatření",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-05-18",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění",
+      "podnájem",
+      "smlouva nájemní",
+      "vyklizení bytu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 1040 z. č. 89/2012 Sb.",
+      "§ 1042 z. č. 89/2012 Sb.",
+      "§ 2292 z. č. 89/2012 Sb.",
+      "§ 1041 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a9fde763-e96b-4b65-8eb1-fec9c38317bb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
