@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:108.C.163.2020.1",
+  "docket": "108 C 163/2020-36",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/848ebeaa-cf73-44ed-b2c6-17dd0b26ebe1",
+  "source_sha256": "49481abd384a44323d905b60ab7b8528cb16d1bb95fa8bc59491b4cd324909ab",
+  "source_id": "848ebeaa-cf73-44ed-b2c6-17dd0b26ebe1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "108 C 163/2020-36",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Hana Střítecká",
+    "ecli": "ECLI:CZ:MSBR:2021:108.C.163.2020.1",
+    "predmetRizeni": "zaplacení 21.400,09 Kč s příslušenstvím - faktura",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-03-08",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 1721 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/848ebeaa-cf73-44ed-b2c6-17dd0b26ebe1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
