@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2021:8.C.167.2020.1",
+  "docket": "8 C 167/2020-54",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/53a1271d-77bd-4c42-8181-0331ff87ef9c",
+  "source_sha256": "f1d6efd635043f6faaae5dc793c9fed3c30fc8c8d1eb1edfa921d239db6f2306",
+  "source_id": "53a1271d-77bd-4c42-8181-0331ff87ef9c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 167/2020-54",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "JUDr. Jana Kowolowská",
+    "ecli": "ECLI:CZ:OSBV:2021:8.C.167.2020.1",
+    "predmetRizeni": "1.445,40 Kč",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-02-08",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/53a1271d-77bd-4c42-8181-0331ff87ef9c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
