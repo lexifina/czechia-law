@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Litoměřicích",
+  "ecli": "ECLI:CZ:OSLT:2021:10.C.230.2020.1",
+  "docket": "10 C 230/2020-33",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/64017a07-7ac6-4743-8e4f-1cb1070f465f",
+  "source_sha256": "b9923f9cea5a2d60da03e339d5c8d2dfb76cde2a36dde8722d4562899fa1a9b2",
+  "source_id": "64017a07-7ac6-4743-8e4f-1cb1070f465f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 230/2020-33",
+    "soud": "Okresní soud v Litoměřicích",
+    "autor": "JUDr. Alena Herčíková",
+    "ecli": "ECLI:CZ:OSLT:2021:10.C.230.2020.1",
+    "predmetRizeni": "O zaplacení 10 574 Kč s příslušenstvím",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poštovní služby"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1724 z. č. 89/2012 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 142 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/64017a07-7ac6-4743-8e4f-1cb1070f465f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
