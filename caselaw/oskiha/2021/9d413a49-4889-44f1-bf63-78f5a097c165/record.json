@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:110.C.335.2020.1",
+  "docket": "110 C 335/2020-77",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9d413a49-4889-44f1-bf63-78f5a097c165",
+  "source_sha256": "ee871f97e3d028091613bbd2b51a52549f2a41d794334ca04fac8aa66419b5a1",
+  "source_id": "9d413a49-4889-44f1-bf63-78f5a097c165",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "110 C 335/2020-77",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Yvona Del favero",
+    "ecli": "ECLI:CZ:OSKIHA:2021:110.C.335.2020.1",
+    "predmetRizeni": "4 000 Kč s příslušenstvím",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-02-15",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 1882 z. č. 89/2012 Sb.",
+      "§ 526 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9d413a49-4889-44f1-bf63-78f5a097c165"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
