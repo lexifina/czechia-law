@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:108.C.369.2020.1",
+  "docket": "108 C 369/2020-36",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1c0fec3d-087e-4b7a-aabf-6662b405e757",
+  "source_sha256": "845ac33794fc669f20f48b668bd4de865138c4d026b8102ce47ee91d39e7f115",
+  "source_id": "1c0fec3d-087e-4b7a-aabf-6662b405e757",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "108 C 369/2020-36",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Jitka Zavázalová",
+    "ecli": "ECLI:CZ:OSKIHA:2021:108.C.369.2020.1",
+    "predmetRizeni": "2 076 Kč s příslušenstvím",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-02-15",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 2782 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1c0fec3d-087e-4b7a-aabf-6662b405e757"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
