@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:8.C.191.2020.1",
+  "docket": "8 C 191/2020-25",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0f8adde6-57b4-42c6-80b3-f429f0d74117",
+  "source_sha256": "3b6fa44fcf56af3633cf8cb4e406aeefdf5700db534a7810f0f5cb567fe00276",
+  "source_id": "0f8adde6-57b4-42c6-80b3-f429f0d74117",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 191/2020-25",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "JUDr. Drahomíra Librová",
+    "ecli": "ECLI:CZ:OSZR:2021:8.C.191.2020.1",
+    "predmetRizeni": "O zaplacení 20 446 Kč s příslušenstvím",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-02-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§  z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0f8adde6-57b4-42c6-80b3-f429f0d74117"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
