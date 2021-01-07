@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:3.C.86.2020.1",
+  "docket": "3 C 86/2020-25",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d0bc52c0-914a-453d-9ff0-fd4f905c5bc0",
+  "source_sha256": "d22c14e58fd1e3349b92c44dcc3d23e2a0937fb08883d1facd35c87778d9d3df",
+  "source_id": "d0bc52c0-914a-453d-9ff0-fd4f905c5bc0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 86/2020-25",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "Mgr. Andrea Růžová",
+    "ecli": "ECLI:CZ:OSVY:2021:3.C.86.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d0bc52c0-914a-453d-9ff0-fd4f905c5bc0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
