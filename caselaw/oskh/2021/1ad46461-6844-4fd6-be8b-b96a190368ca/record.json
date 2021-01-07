@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kutné Hoře",
+  "ecli": "ECLI:CZ:OSKH:2021:7.C.311.2020.1",
+  "docket": "7 C 311/2020-36",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1ad46461-6844-4fd6-be8b-b96a190368ca",
+  "source_sha256": "834a2da5b6084b5316e240521daa10e4666ab192b7c77a8479a9801693a728a1",
+  "source_id": "1ad46461-6844-4fd6-be8b-b96a190368ca",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 311/2020-36",
+    "soud": "Okresní soud v Kutné Hoře",
+    "autor": "JUDr. Dagmar Grenarová",
+    "ecli": "ECLI:CZ:OSKH:2021:7.C.311.2020.1",
+    "predmetRizeni": "O zaplacení 20 945,67 Kč s příslušenstvím",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-05-24",
+    "klicovaSlova": [
+      "oddlužení",
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 115 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 140a z. č. 182/2006 Sb.",
+      "§ 2910 z. č. 89/2012 Sb.",
+      "§ 2927 z. č. 89/2012 Sb.",
+      "§ 24 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1ad46461-6844-4fd6-be8b-b96a190368ca"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
