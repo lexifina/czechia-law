@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2021:18.C.342.2020.2",
+  "docket": "18 C 342/2020-11",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ae6bf533-5123-4d15-91aa-415c622a4ee0",
+  "source_sha256": "d9fcdaa6231854371f32a1103f2b9687ab28fc0e8bb1c48422c776db2e1299f7",
+  "source_id": "ae6bf533-5123-4d15-91aa-415c622a4ee0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 342/2020-11",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "Mgr. Jaroslav Sosík",
+    "ecli": "ECLI:CZ:OSNJ:2021:18.C.342.2020.2",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-02-19",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  nař. vl. č. 142/1994 Sb.",
+      "§ 16 z. č. 379/2005 Sb.",
+      "§ 517 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ae6bf533-5123-4d15-91aa-415c622a4ee0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
