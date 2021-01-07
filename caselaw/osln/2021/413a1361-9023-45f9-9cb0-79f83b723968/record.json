@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2021:11.C.135.2020.1",
+  "docket": "11 C 135/2020-47",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/413a1361-9023-45f9-9cb0-79f83b723968",
+  "source_sha256": "ead0be3fcdffb89bca9b7af2345949f9f085566465d86abd397881df99f9c107",
+  "source_id": "413a1361-9023-45f9-9cb0-79f83b723968",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 135/2020-47",
+    "soud": "Okresní soud v Lounech",
+    "autor": "JUDr. Ivana Koberová, Ph.D.",
+    "ecli": "ECLI:CZ:OSLN:2021:11.C.135.2020.1",
+    "predmetRizeni": "O zaplacení 16 170 Kč s příslušenstvím",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-02-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "rozsudek pro zmeškání",
+      "smlouva nájemní",
+      "smlouva o půjčce",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 87/1 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/413a1361-9023-45f9-9cb0-79f83b723968"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
