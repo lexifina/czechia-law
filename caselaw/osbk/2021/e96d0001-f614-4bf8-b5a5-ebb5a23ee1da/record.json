@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Blansku",
+  "ecli": "ECLI:CZ:OSBK:2021:11.C.203.2020.1",
+  "docket": "11 C 203/2020-24",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e96d0001-f614-4bf8-b5a5-ebb5a23ee1da",
+  "source_sha256": "7929b0d7c71cc75239be5ee42b022c33ceb5e427d2f0d06f052657cd4e3364ab",
+  "source_id": "e96d0001-f614-4bf8-b5a5-ebb5a23ee1da",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 203/2020-24",
+    "soud": "Okresní soud v Blansku",
+    "autor": "JUDr. Tereza Richterová",
+    "ecli": "ECLI:CZ:OSBK:2021:11.C.203.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-01-26",
+    "klicovaSlova": [
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1813 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e96d0001-f614-4bf8-b5a5-ebb5a23ee1da"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
