@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 3",
+  "ecli": "ECLI:CZ:OSPH03:2021:19.C.451.2020.1",
+  "docket": "19 C 451/2020-64",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3c7e8049-2813-456e-bbe9-9a8d5ac5fd70",
+  "source_sha256": "d21c06854cc44175b0bd58c74264a9e5dac59eda2688bc60fcf11d17c9967b86",
+  "source_id": "3c7e8049-2813-456e-bbe9-9a8d5ac5fd70",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 451/2020-64",
+    "soud": "Obvodní soud pro Prahu 3",
+    "autor": "JUDr. Dáša Vítková",
+    "ecli": "ECLI:CZ:OSPH03:2021:19.C.451.2020.1",
+    "predmetRizeni": "10 509, 28 s příslušenstvím",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 45 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3c7e8049-2813-456e-bbe9-9a8d5ac5fd70"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
