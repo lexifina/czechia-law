@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:11.C.63.2014.4",
+  "docket": "11 C 63/2014-76",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/565f0ca4-12a0-4613-be27-3a8af5afed33",
+  "source_sha256": "856a29b27bd86bad7efc2705f1491215dfe4be62b3ff544c96152cb1701fbadc",
+  "source_id": "565f0ca4-12a0-4613-be27-3a8af5afed33",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 63/2014-76",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "JUDr. Markéta Vrzáčková",
+    "ecli": "ECLI:CZ:OSUL:2021:11.C.63.2014.4",
+    "predmetRizeni": "",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-04-30",
+    "klicovaSlova": [
+      "oddlužení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 414 z. č. 182/2006 Sb.",
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/565f0ca4-12a0-4613-be27-3a8af5afed33"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
