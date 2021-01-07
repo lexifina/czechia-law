@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:36.C.101.2020.1",
+  "docket": "36 C 101/2020",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/12fa9da2-5a47-49f0-908a-582c5767c41c",
+  "source_sha256": "904ff072fb9aa50d2efc58b3ad2283de5c822b3be0ba3b3f3ea7933d3c2f1d64",
+  "source_id": "12fa9da2-5a47-49f0-908a-582c5767c41c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 101/2020",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Tereza Dobešová",
+    "ecli": "ECLI:CZ:OSPY:2021:36.C.101.2020.1",
+    "predmetRizeni": "o snížení výživného",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-11-03",
+    "klicovaSlova": [
+      "práce přesčas",
+      "rehabilitace",
+      "výživné",
+      "zastavení exekuce / výkonu rozhodnutí",
+      "zastavení řízení",
+      "zvýšení výživného"
+    ],
+    "zminenaUstanoveni": [
+      "§ 913 z. č. 89/2012 Sb.",
+      "§ 922 z. č. 89/2012 Sb.",
+      "§ 911 z. č. 89/2012 Sb.",
+      "§ 915 z. č. 89/2012 Sb.",
+      "§ 921 z. č. 89/2012 Sb.",
+      "§ 914 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/12fa9da2-5a47-49f0-908a-582c5767c41c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
