@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jeseníku",
+  "ecli": "ECLI:CZ:OSJE:2021:4.C.207.2020.1",
+  "docket": "4 C 207/2020-19",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ca8f8387-eeb7-4bb5-be8b-77aec8ed3ad5",
+  "source_sha256": "7422f0ddacefe9e41a181479cfd9b1b1af9576cddfddc0c22e5179c6d4ca5e64",
+  "source_id": "ca8f8387-eeb7-4bb5-be8b-77aec8ed3ad5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 207/2020-19",
+    "soud": "Okresní soud v Jeseníku",
+    "autor": "JUDr. Ivana Ondryášová",
+    "ecli": "ECLI:CZ:OSJE:2021:4.C.207.2020.1",
+    "predmetRizeni": "3 343 Kč s příslušenstvím",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-03-12",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 50/2 z. č. 458/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ca8f8387-eeb7-4bb5-be8b-77aec8ed3ad5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
