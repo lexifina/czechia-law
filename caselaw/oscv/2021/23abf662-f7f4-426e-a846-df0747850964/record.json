@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:30.C.174.2015.2",
+  "docket": "30 C 174/2015-31",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/23abf662-f7f4-426e-a846-df0747850964",
+  "source_sha256": "3cacbe343effd3118a744d9bd011b8de41a4f6fe7ffbefba317ac09ceb3863bc",
+  "source_id": "23abf662-f7f4-426e-a846-df0747850964",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 174/2015-31",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Hana Jakubcová",
+    "ecli": "ECLI:CZ:OSCV:2021:30.C.174.2015.2",
+    "predmetRizeni": "půjčka - 2.540 Kč s přísl. + smluvní pokuta 500 Kč",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-04-11",
+    "klicovaSlova": [
+      "oddlužení",
+      "rozhodnutí o úpadku",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 140a z. č. 182/2006 Sb.",
+      "§ 414 z. č. 186/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/23abf662-f7f4-426e-a846-df0747850964"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
