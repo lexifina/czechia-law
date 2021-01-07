@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:8.C.466.2020.1",
+  "docket": "8 C 466/2020-15",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0607f521-a864-48f7-b20f-c45bb2c35d2e",
+  "source_sha256": "7b03acdbd3b3b780de208643ac76313a07628aeb0c63302f348613f2f13b7f7d",
+  "source_id": "0607f521-a864-48f7-b20f-c45bb2c35d2e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 466/2020-15",
+    "soud": "Okresní soud v Chebu",
+    "autor": "JUDr. Martin Skalický",
+    "ecli": "ECLI:CZ:OSCH:2021:8.C.466.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-02-09",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 84 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0607f521-a864-48f7-b20f-c45bb2c35d2e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
