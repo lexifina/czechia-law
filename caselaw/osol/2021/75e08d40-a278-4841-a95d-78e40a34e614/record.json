@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:13.C.31.2020.5",
+  "docket": "13 C 31/2020-71",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/75e08d40-a278-4841-a95d-78e40a34e614",
+  "source_sha256": "71a52ffc59d0d511f243b2b5e405dcec7108cb9c2ea8063cca3ed358075f7a4a",
+  "source_id": "75e08d40-a278-4841-a95d-78e40a34e614",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 31/2020-71",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "Mgr. Aleš Frumar",
+    "ecli": "ECLI:CZ:OSOL:2021:13.C.31.2020.5",
+    "predmetRizeni": "o 10 571 Kč s příslušenstvím",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-01-29",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§  vyhl. č. 134/1998 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/75e08d40-a278-4841-a95d-78e40a34e614"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
