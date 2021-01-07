@@ -1,0 +1,50 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:6.C.176.2020.1",
+  "docket": "6 C 176/2020-48",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a24c4497-fc60-456b-89c3-8000f8aa5a38",
+  "source_sha256": "dca4ee871508d21753b81a5c2ccfbdc005d3d41a54fe4a9d726219108558dd7d",
+  "source_id": "a24c4497-fc60-456b-89c3-8000f8aa5a38",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 176/2020-48",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "Mgr. Olga Houžvičková",
+    "ecli": "ECLI:CZ:OSHO:2021:6.C.176.2020.1",
+    "predmetRizeni": "zaplacení 9 300 Kč s příslušenstvím",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-03-08",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "postoupení pohledávky",
+      "smlouva nájemní",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§  z. č. 110/2006 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 1815 z. č. 89/2012 Sb.",
+      "§ 419 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 547 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 43/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a24c4497-fc60-456b-89c3-8000f8aa5a38"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
