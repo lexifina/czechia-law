@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2021:13.C.132.2020.1",
+  "docket": "13 C 132/2020-15",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c1f26643-9f07-497c-a68a-044bdd3dd26d",
+  "source_sha256": "114b66853ba8d25a52a03fa6e0fd0e825ef7b8d7627b7744eacaf032c9c6742f",
+  "source_id": "c1f26643-9f07-497c-a68a-044bdd3dd26d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 132/2020-15",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "Mgr. Kateřina Kupková",
+    "ecli": "ECLI:CZ:OSJN:2021:13.C.132.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-01-29",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 207 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c1f26643-9f07-497c-a68a-044bdd3dd26d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
