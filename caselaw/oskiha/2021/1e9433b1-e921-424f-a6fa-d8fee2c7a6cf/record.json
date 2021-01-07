@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:108.C.373.2020.1",
+  "docket": "108 C 373/2020-34",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1e9433b1-e921-424f-a6fa-d8fee2c7a6cf",
+  "source_sha256": "e017ea0b582eda87eaf26f76dac7ed1172b44939ac3022b2cd01b5eb056be710",
+  "source_id": "1e9433b1-e921-424f-a6fa-d8fee2c7a6cf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "108 C 373/2020-34",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Jitka Zavázalová",
+    "ecli": "ECLI:CZ:OSKIHA:2021:108.C.373.2020.1",
+    "predmetRizeni": "776 Kč s příslušenstvím",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-02-18",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1e9433b1-e921-424f-a6fa-d8fee2c7a6cf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
