@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:13.C.267.2020.1",
+  "docket": "13 C 267/2020-23",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/aa2b4632-1f67-4020-9751-01abf1b1a6cc",
+  "source_sha256": "09c8185af01a9f2177b8a9a689f66d80a56449580b69879c35b4e3e1d48be096",
+  "source_id": "aa2b4632-1f67-4020-9751-01abf1b1a6cc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 267/2020-23",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Ludmila Vlčková",
+    "ecli": "ECLI:CZ:OSMO:2021:13.C.267.2020.1",
+    "predmetRizeni": "6 020 Kč s příslušenstvím",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-01-20",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 15 z. č. 168/1999 Sb.",
+      "§  vyhl. č. 205/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/aa2b4632-1f67-4020-9751-01abf1b1a6cc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
