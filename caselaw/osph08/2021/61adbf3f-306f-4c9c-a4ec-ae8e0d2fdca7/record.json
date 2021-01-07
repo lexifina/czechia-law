@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2021:23.C.110.2017.1",
+  "docket": "23 C 110/2017-100",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/61adbf3f-306f-4c9c-a4ec-ae8e0d2fdca7",
+  "source_sha256": "9e06ea8d2bd13457ad3c77fcd83ef2bc1d7acbf4dc0469164b5886fd1f00c152",
+  "source_id": "61adbf3f-306f-4c9c-a4ec-ae8e0d2fdca7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 110/2017-100",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "Mgr. Michal Novotný",
+    "ecli": "ECLI:CZ:OSPH08:2021:23.C.110.2017.1",
+    "predmetRizeni": "o zapl. 15 413 Kč s přísl.",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-03-19",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 626 z. č. 89/2012 Sb.",
+      "§ 635 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/61adbf3f-306f-4c9c-a4ec-ae8e0d2fdca7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
