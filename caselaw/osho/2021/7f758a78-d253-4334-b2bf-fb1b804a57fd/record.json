@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:23.C.57.2020.1",
+  "docket": "23 C 57/2020-67",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7f758a78-d253-4334-b2bf-fb1b804a57fd",
+  "source_sha256": "f760d98d5ce2ce9056aa06c54db9945dbd83b86b2ab35a016d4905e9bdbd17bc",
+  "source_id": "7f758a78-d253-4334-b2bf-fb1b804a57fd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 57/2020-67",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "Mgr. Michaela Džuberová",
+    "ecli": "ECLI:CZ:OSHO:2021:23.C.57.2020.1",
+    "predmetRizeni": "zaplacení 26 170 Kč s příslušenstvím",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-04-15",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "smlouva o úvěru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 153b z. č. 99/1963 Sb.",
+      "§ 99 z. č. 99/1963 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7f758a78-d253-4334-b2bf-fb1b804a57fd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
