@@ -1,0 +1,49 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně",
+  "ecli": "ECLI:CZ:OSVS:2021:11.C.101.2020.1",
+  "docket": "11 C 101/2020-35",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9e68abcc-1ad8-4aba-bbe8-eb2ed67f2873",
+  "source_sha256": "74fc390c150f0bfb87e370faa5ca2965815a2fd025ea7dff6657f88c74734bd6",
+  "source_id": "9e68abcc-1ad8-4aba-bbe8-eb2ed67f2873",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 101/2020-35",
+    "soud": "Okresní soud ve Vsetíně",
+    "autor": "JUDr. Ing. Radomír Cáb",
+    "ecli": "ECLI:CZ:OSVS:2021:11.C.101.2020.1",
+    "predmetRizeni": "O zaplacení 8 000 Kč s příslušenstvím",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-04-26",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "rozhodčí doložka",
+      "smlouva kupní",
+      "smlouva o dílo",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 657 z. č. 89/2012 Sb.",
+      "§ 52 z. č. 89/2012 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 563 z. č. 89/2012 Sb.",
+      "§ 56 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 55 z. č. 89/2012 Sb.",
+      "§ 451 z. č. 89/2012 Sb.",
+      "§ 39 z. č. 89/2012 Sb.",
+      "§ 41 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9e68abcc-1ad8-4aba-bbe8-eb2ed67f2873"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
