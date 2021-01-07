@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2021:12.C.202.2020.1",
+  "docket": "12 C 202/2020-22",
+  "date": "2021-01-07",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a5d98868-06de-4673-9e1c-850821c2c745",
+  "source_sha256": "565357360c52db76d21f74be9a0179423cb071912bd0564718f9330e5e168812",
+  "source_id": "a5d98868-06de-4673-9e1c-850821c2c745",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 202/2020-22",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "Mgr. Monika Bittnerová",
+    "ecli": "ECLI:CZ:OSJN:2021:12.C.202.2020.1",
+    "predmetRizeni": "o zaplacení [částka]",
+    "datumVydani": "2021-01-07",
+    "datumZverejneni": "2021-02-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 64 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a5d98868-06de-4673-9e1c-850821c2c745"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
