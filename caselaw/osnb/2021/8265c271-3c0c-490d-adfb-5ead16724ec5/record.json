@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Nymburce",
+  "ecli": "ECLI:CZ:OSNB:2021:12.C.248.2020.1",
+  "docket": "12 C 248/2020-32",
+  "date": "2021-01-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8265c271-3c0c-490d-adfb-5ead16724ec5",
+  "source_sha256": "336c9910b082349f7bc6f6f371a60479fac087b85a92d87534c2a18a9c600e99",
+  "source_id": "8265c271-3c0c-490d-adfb-5ead16724ec5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 248/2020-32",
+    "soud": "Okresní soud v Nymburce",
+    "autor": "Mgr. Blanka Jirsáková",
+    "ecli": "ECLI:CZ:OSNB:2021:12.C.248.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-08",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 2 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8265c271-3c0c-490d-adfb-5ead16724ec5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
