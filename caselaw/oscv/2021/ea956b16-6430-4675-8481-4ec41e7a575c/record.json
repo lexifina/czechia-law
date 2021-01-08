@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:7.C.250.2020.2",
+  "docket": "7 C 250/2020-24",
+  "date": "2021-01-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ea956b16-6430-4675-8481-4ec41e7a575c",
+  "source_sha256": "ffdb65a0dc7db1a8a49c9d319e467e9d23fd6e609eeff004b4e1a8086abc14cf",
+  "source_id": "ea956b16-6430-4675-8481-4ec41e7a575c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 250/2020-24",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Nikola Reifová",
+    "ecli": "ECLI:CZ:OSCV:2021:7.C.250.2020.2",
+    "predmetRizeni": "zaplacení 990 Kč s příslušenstvím (bezdůvodné obohacení)",
+    "datumVydani": "2021-01-08",
+    "datumZverejneni": "2021-02-26",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 1721 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ea956b16-6430-4675-8481-4ec41e7a575c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
