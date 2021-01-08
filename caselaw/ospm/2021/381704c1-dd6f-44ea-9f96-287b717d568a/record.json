@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:20.C.297.2020.1",
+  "docket": "20 C 297/2020-38",
+  "date": "2021-01-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/381704c1-dd6f-44ea-9f96-287b717d568a",
+  "source_sha256": "7903147e09964b03e95190e94354864ed38be6cfa153e85201793147693bc722",
+  "source_id": "381704c1-dd6f-44ea-9f96-287b717d568a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 297/2020-38",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. David Ungr",
+    "ecli": "ECLI:CZ:OSPM:2021:20.C.297.2020.1",
+    "predmetRizeni": "O zaplacení 1 732 Kč s příslušenstvím",
+    "datumVydani": "2021-01-08",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/381704c1-dd6f-44ea-9f96-287b717d568a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
