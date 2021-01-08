@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2021:2.C.204.2020.2",
+  "docket": "2 C 204/2020-20",
+  "date": "2021-01-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/177109da-b528-45c9-a97b-f3a41a8eb702",
+  "source_sha256": "947bf61a50ed6672c085b82ab689abea6d07daae6689a34841f2cbe49752bf72",
+  "source_id": "177109da-b528-45c9-a97b-f3a41a8eb702",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "2 C 204/2020-20",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "JUDr. Jan Montag",
+    "ecli": "ECLI:CZ:OSCK:2021:2.C.204.2020.2",
+    "predmetRizeni": "EPR [číslo] - o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-08",
+    "datumZverejneni": "2021-02-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 122 z. č. 257/2016 Sb.",
+      "§ 168 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/177109da-b528-45c9-a97b-f3a41a8eb702"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
