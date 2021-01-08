@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Orlicí",
+  "ecli": "ECLI:CZ:OSUO:2021:7.C.258.2019.1",
+  "docket": "7 C 258/2019-46",
+  "date": "2021-01-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5a0f1ccd-4bf8-4d06-8d73-9e595db2dee1",
+  "source_sha256": "b5285f6e8cdffd8b691c3f5c4bdcbb7eb5cc1d9c80cbc317dad0b200eb876840",
+  "source_id": "5a0f1ccd-4bf8-4d06-8d73-9e595db2dee1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 258/2019-46",
+    "soud": "Okresní soud v Ústí nad Orlicí",
+    "autor": "JUDr. Jan Morávek",
+    "ecli": "ECLI:CZ:OSUO:2021:7.C.258.2019.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-08",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§ 9 vyhl. č. 82/2011 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 51 z. č. 458/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5a0f1ccd-4bf8-4d06-8d73-9e595db2dee1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
