@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:46.C.250.2019.4",
+  "docket": "46 C 250/2019-58",
+  "date": "2021-01-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0fa6f1df-f998-47bd-a4e7-0e972e37d502",
+  "source_sha256": "6cee881c1926238fdffd7a7807b1ee9a8550669ed95fc9a39d5a5e73a0288528",
+  "source_id": "0fa6f1df-f998-47bd-a4e7-0e972e37d502",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "46 C 250/2019-58",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Jana Benešová",
+    "ecli": "ECLI:CZ:OSMO:2021:46.C.250.2019.4",
+    "predmetRizeni": "2 771,94 Kč s příslušenstvím",
+    "datumVydani": "2021-01-08",
+    "datumZverejneni": "2021-01-14",
+    "klicovaSlova": [
+      "cizinci",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o účtu",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§  nař. vl. č. 1215/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0fa6f1df-f998-47bd-a4e7-0e972e37d502"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
