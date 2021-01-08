@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2021:5.C.271.2020.2",
+  "docket": "5 C 271/2020-56",
+  "date": "2021-01-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6837ef4f-0bad-4215-b2f0-f76f73d508a2",
+  "source_sha256": "c758bca3336eca67ae3cf617f4ce3cc92c76574e5fdb069ec1d7a7b7195faebe",
+  "source_id": "6837ef4f-0bad-4215-b2f0-f76f73d508a2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 271/2020-56",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "JUDr. Ivana Paloučková",
+    "ecli": "ECLI:CZ:OSCK:2021:5.C.271.2020.2",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-08",
+    "datumZverejneni": "2021-02-24",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 759 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6837ef4f-0bad-4215-b2f0-f76f73d508a2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
