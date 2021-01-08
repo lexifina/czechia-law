@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:8.C.171.2020.1",
+  "docket": "8 C 171/2020",
+  "date": "2021-01-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bd896f13-fcb8-4a5f-a185-3916c05ad956",
+  "source_sha256": "ad31c1436b755656e26139b6a041cd285c295b4746632916adbb1b9f0cfb126b",
+  "source_id": "bd896f13-fcb8-4a5f-a185-3916c05ad956",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 171/2020",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "Mgr. Šárka Široká",
+    "ecli": "ECLI:CZ:OSRO:2021:8.C.171.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-08",
+    "datumZverejneni": "2021-02-02",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bd896f13-fcb8-4a5f-a185-3916c05ad956"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
