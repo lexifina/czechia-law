@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:6.C.138.2020.1",
+  "docket": "6 C 138/2020-38",
+  "date": "2021-01-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a78b4c1b-d932-42b1-90cd-1dc31c36ec80",
+  "source_sha256": "74d4095a2aff119a02e1e82aa3fb1756a0ac7d45962a88b785382fc0e58e8ada",
+  "source_id": "a78b4c1b-d932-42b1-90cd-1dc31c36ec80",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 138/2020-38",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "JUDr. Vladimíra Mašinová",
+    "ecli": "ECLI:CZ:OSDO:2021:6.C.138.2020.1",
+    "predmetRizeni": "O zaplacení 7 630,51 Kč s příslušenstvím",
+    "datumVydani": "2021-01-08",
+    "datumZverejneni": "2021-02-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "rozhodčí doložka",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a78b4c1b-d932-42b1-90cd-1dc31c36ec80"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
