@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:25.C.342.2019.3",
+  "docket": "25 C 342/2019-88",
+  "date": "2021-01-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e6ef1ece-fe67-4d22-be05-2a281c45d627",
+  "source_sha256": "4a036e71241888a319eda5cea7605f806bad2d71637b74ede498e89135d7f7f5",
+  "source_id": "e6ef1ece-fe67-4d22-be05-2a281c45d627",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 342/2019-88",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Jana Srpová",
+    "ecli": "ECLI:CZ:OSPS:2021:25.C.342.2019.3",
+    "predmetRizeni": "123.000 Kč s přísl.",
+    "datumVydani": "2021-01-08",
+    "datumZverejneni": "2021-06-11",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 506 z. č. 513/1991 Sb.",
+      "§ 497 z. č. 513/1991 Sb.",
+      "§ 9/1 z. č. 145/2010 Sb.",
+      "§ 501/1 z. č. 513/1991 Sb.",
+      "§ 502/1 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e6ef1ece-fe67-4d22-be05-2a281c45d627"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
