@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2021:16.C.241.2020.1",
+  "docket": "16 C 241/2020-30",
+  "date": "2021-01-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/eb56650b-3983-4144-a85a-c673f388cea5",
+  "source_sha256": "dc2fd8513d813d60b986a2bb06d7e7539b7c21af11f4bb78bd523224532a8681",
+  "source_id": "eb56650b-3983-4144-a85a-c673f388cea5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 241/2020-30",
+    "soud": "Okresní soud v Přerově",
+    "autor": "JUDr. Jaroslav Hikl",
+    "ecli": "ECLI:CZ:OSPR:2021:16.C.241.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-08",
+    "datumZverejneni": "2021-11-01",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 657 z. č. 89/2012 Sb.",
+      "§  z. č. 321/2001 Sb.",
+      "§ 3030 z. č. 89/2012 Sb.",
+      "§ 101 z. č. 89/2012 Sb.",
+      "§ 103 z. č. 89/2012 Sb.",
+      "§ 3080 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/eb56650b-3983-4144-a85a-c673f388cea5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
