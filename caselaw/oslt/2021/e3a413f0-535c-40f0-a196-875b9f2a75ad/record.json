@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Litoměřicích",
+  "ecli": "ECLI:CZ:OSLT:2021:20.C.99.2020.4",
+  "docket": "20 C 99/2020-49",
+  "date": "2021-01-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e3a413f0-535c-40f0-a196-875b9f2a75ad",
+  "source_sha256": "e0ea94cbad282c41a3d6ee01148188e4ba5e1e017b1ddb2df5af1af344aa70a3",
+  "source_id": "e3a413f0-535c-40f0-a196-875b9f2a75ad",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 99/2020-49",
+    "soud": "Okresní soud v Litoměřicích",
+    "autor": "JUDr. Dagmar Brachová",
+    "ecli": "ECLI:CZ:OSLT:2021:20.C.99.2020.4",
+    "predmetRizeni": "",
+    "datumVydani": "2021-01-08",
+    "datumZverejneni": "2021-01-27",
+    "klicovaSlova": [
+      "nájem domu",
+      "smír",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 99 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e3a413f0-535c-40f0-a196-875b9f2a75ad"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
