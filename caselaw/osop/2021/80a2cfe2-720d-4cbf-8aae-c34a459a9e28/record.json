@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2021:107.C.37.2020.1",
+  "docket": "107 C 37/2020-34",
+  "date": "2021-01-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/80a2cfe2-720d-4cbf-8aae-c34a459a9e28",
+  "source_sha256": "edd8ce1e974f2350bc7d638f5cdadf1b1a60a968186c7ddf081f7e559eec06c0",
+  "source_id": "80a2cfe2-720d-4cbf-8aae-c34a459a9e28",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "107 C 37/2020-34",
+    "soud": "Okresní soud v Opavě",
+    "autor": "Mgr. Vítězslav Špalek",
+    "ecli": "ECLI:CZ:OSOP:2021:107.C.37.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-08",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 420 z. č. 89/2012 Sb.",
+      "§ 419 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/80a2cfe2-720d-4cbf-8aae-c34a459a9e28"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
