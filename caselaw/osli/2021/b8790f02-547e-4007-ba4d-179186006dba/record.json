@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:19.C.377.2020.1",
+  "docket": "19 C 377/2020-22",
+  "date": "2021-01-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b8790f02-547e-4007-ba4d-179186006dba",
+  "source_sha256": "836d174f42be2b0aed8652abc21c55ac3851fecfc64a13f1e3b2568537dca57d",
+  "source_id": "b8790f02-547e-4007-ba4d-179186006dba",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 377/2020-22",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Stanislav Štěpánek",
+    "ecli": "ECLI:CZ:OSLI:2021:19.C.377.2020.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 12 016 Kč s příslušenstvím",
+    "datumVydani": "2021-01-08",
+    "datumZverejneni": "2021-03-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§ 1806 z. č. 89/2012 Sb.",
+      "§ 1802 z. č. 89/2012 Sb.",
+      "§ 1803 z. č. 89/2012 Sb.",
+      "§ 1804 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b8790f02-547e-4007-ba4d-179186006dba"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
