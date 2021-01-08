@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:7.C.324.2020.2",
+  "docket": "7 C 324/2020-14",
+  "date": "2021-01-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e3d91949-222c-4260-8233-6875147a12c2",
+  "source_sha256": "0765f12b671ca0b3f0d0b8eb5c4a481c55c6f76d50ba4e32d080957eb1144e80",
+  "source_id": "e3d91949-222c-4260-8233-6875147a12c2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 324/2020-14",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "Mgr. Jarmila Millerová",
+    "ecli": "ECLI:CZ:OSPS:2021:7.C.324.2020.2",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-08",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e3d91949-222c-4260-8233-6875147a12c2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
