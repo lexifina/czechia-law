@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:11.C.84.2020.1",
+  "docket": "11 C 84/2020-55",
+  "date": "2021-01-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e69e065e-0eaa-492e-8e6c-e2bbc3e4b729",
+  "source_sha256": "274d27fca07d272ab60e9862eb88c996e64e55d65555c557a09ba7d07760d9c0",
+  "source_id": "e69e065e-0eaa-492e-8e6c-e2bbc3e4b729",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 84/2020-55",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "JUDr. Vladimíra Mašinová",
+    "ecli": "ECLI:CZ:OSDO:2021:11.C.84.2020.1",
+    "predmetRizeni": "o zapl. 68.840 Kč s přísl.",
+    "datumVydani": "2021-01-08",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e69e065e-0eaa-492e-8e6c-e2bbc3e4b729"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
