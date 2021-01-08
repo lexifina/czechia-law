@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2021:5.C.74.2020.1",
+  "docket": "5 C 74/2020-15",
+  "date": "2021-01-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8c2fd514-7b89-4c4a-ac8d-cd51ba24c2b2",
+  "source_sha256": "62609de001390cbc0845f3f205cb3b01ae85b8547fd7201a5c5a23e984b9e497",
+  "source_id": "8c2fd514-7b89-4c4a-ac8d-cd51ba24c2b2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 74/2020-15",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "Mgr. Jan Věženský",
+    "ecli": "ECLI:CZ:OSJN:2021:5.C.74.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-08",
+    "datumZverejneni": "2021-03-08",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "smlouva o manželském majetkovém režimu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 717 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8c2fd514-7b89-4c4a-ac8d-cd51ba24c2b2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
