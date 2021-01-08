@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:15.C.95.2020.5",
+  "docket": "15 C 95/2020-123",
+  "date": "2021-01-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f4ae7b67-2403-43b0-b453-7b2aa3bd276f",
+  "source_sha256": "53df71aa350345fa2df01c41c50ad22e89ea642bc4c5c0bc4f5123ec309321a3",
+  "source_id": "f4ae7b67-2403-43b0-b453-7b2aa3bd276f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 95/2020-123",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "Mgr. Alena Brzáková",
+    "ecli": "ECLI:CZ:OSOL:2021:15.C.95.2020.5",
+    "predmetRizeni": "o 9 020,63 Kč s příslušenstvím",
+    "datumVydani": "2021-01-08",
+    "datumZverejneni": "2021-02-17",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f4ae7b67-2403-43b0-b453-7b2aa3bd276f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
