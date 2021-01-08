@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:12.C.369.2020.2",
+  "docket": "12 C 369/2020-17",
+  "date": "2021-01-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3d0511e7-efc9-46cd-afcf-434dd58283c7",
+  "source_sha256": "d702a77b79b2ac7acee038f4517362143a36c272df25eaa29aadcd09b4223baa",
+  "source_id": "3d0511e7-efc9-46cd-afcf-434dd58283c7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 369/2020-17",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "JUDr. Jitka Rollerová, , Dr.",
+    "ecli": "ECLI:CZ:OSOL:2021:12.C.369.2020.2",
+    "predmetRizeni": "o SJM",
+    "datumVydani": "2021-01-08",
+    "datumZverejneni": "2021-02-09",
+    "klicovaSlova": [
+      "jmění",
+      "podvod",
+      "společné jmění manželů"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 724 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3d0511e7-efc9-46cd-afcf-434dd58283c7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
