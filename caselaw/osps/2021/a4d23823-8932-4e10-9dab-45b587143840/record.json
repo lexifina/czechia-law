@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:4.C.325.2019.3",
+  "docket": "4 C 325/2019-92",
+  "date": "2021-01-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a4d23823-8932-4e10-9dab-45b587143840",
+  "source_sha256": "a15c106df812c5cf0e251a5e90c5443409bcfeedd3a6080ba5534965268142d1",
+  "source_id": "a4d23823-8932-4e10-9dab-45b587143840",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 325/2019-92",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "Mgr. Marek Poláček",
+    "ecli": "ECLI:CZ:OSPS:2021:4.C.325.2019.3",
+    "predmetRizeni": "3. 006. 868,57 Kč s přísl.",
+    "datumVydani": "2021-01-08",
+    "datumZverejneni": "2021-04-07",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva kupní",
+      "smlouva o zápůjčce",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2018 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a4d23823-8932-4e10-9dab-45b587143840"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
