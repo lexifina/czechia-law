@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:30.C.217.2019.1",
+  "docket": "30 C 217/2019-20",
+  "date": "2021-01-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0991be58-f736-414c-b354-54cf2934bd73",
+  "source_sha256": "a10594b4cf87d8a298b272532d5ec455f792b969ae0a0a5ba835ac15dddd5332",
+  "source_id": "0991be58-f736-414c-b354-54cf2934bd73",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 217/2019-20",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Hana Jakubcová",
+    "ecli": "ECLI:CZ:OSCV:2021:30.C.217.2019.1",
+    "predmetRizeni": "zaplacení 78 233,66 Kč s příslušenstvím (úvěr)",
+    "datumVydani": "2021-01-11",
+    "datumZverejneni": "2021-03-02",
+    "klicovaSlova": [
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 511 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0991be58-f736-414c-b354-54cf2934bd73"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
