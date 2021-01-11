@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:71.C.18.2019.1",
+  "docket": "71 C 18/2019",
+  "date": "2021-01-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/688cd31d-6a24-4964-b30d-e65e80515fb2",
+  "source_sha256": "40dcbd853f63e84cfe9e40e37fc82d1bf8ab6c11c558a60fafad69beb043d266",
+  "source_id": "688cd31d-6a24-4964-b30d-e65e80515fb2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "71 C 18/2019",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "JUDr. Luďka Horajsová",
+    "ecli": "ECLI:CZ:OSPH01:2021:71.C.18.2019.1",
+    "predmetRizeni": "o zaplacení 22 684,23 Kč s příslušenstvím",
+    "datumVydani": "2021-01-11",
+    "datumZverejneni": "2021-06-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 140 z. č. 99/1963 Sb.",
+      "§ 12a vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/688cd31d-6a24-4964-b30d-e65e80515fb2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
