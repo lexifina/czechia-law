@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:19.C.305.2020.1",
+  "docket": "19 C 305/2020-28",
+  "date": "2021-01-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fc7c90f7-eed2-40c8-822f-0342b0a34b17",
+  "source_sha256": "29b0464e253247bbb8a080af47b30f27fbbc001c554a19883679fff3ba6290b3",
+  "source_id": "fc7c90f7-eed2-40c8-822f-0342b0a34b17",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 305/2020-28",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Vladimír Diviš",
+    "ecli": "ECLI:CZ:OSDC:2021:19.C.305.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-11",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 658 z. č. 89/2012 Sb.",
+      "§ 517 nař. vl. č. 142/1994 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§  z. č. 321/2001 Sb.",
+      "§ 39 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fc7c90f7-eed2-40c8-822f-0342b0a34b17"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
