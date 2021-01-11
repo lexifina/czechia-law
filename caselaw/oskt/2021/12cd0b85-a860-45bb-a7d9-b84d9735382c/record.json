@@ -1,0 +1,30 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2021:4.C.203.2020.1",
+  "docket": "4 C 203/2020-81",
+  "date": "2021-01-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/12cd0b85-a860-45bb-a7d9-b84d9735382c",
+  "source_sha256": "e176f37152e813485590b8a636773e066e2ce84c7f920ec781b6fbce3ba9bd57",
+  "source_id": "12cd0b85-a860-45bb-a7d9-b84d9735382c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 203/2020-81",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "Mgr. Alena Štětinová",
+    "ecli": "ECLI:CZ:OSKT:2021:4.C.203.2020.1",
+    "predmetRizeni": "zaplacení [částka] s přísl.",
+    "datumVydani": "2021-01-11",
+    "datumZverejneni": "2021-05-11",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/12cd0b85-a860-45bb-a7d9-b84d9735382c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
