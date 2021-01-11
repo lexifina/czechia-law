@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2021:21.C.297.2020.1",
+  "docket": "21 C 297/2020-55",
+  "date": "2021-01-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d5ee457f-5784-43aa-8210-692f8d757855",
+  "source_sha256": "8cc6031a82d8989d7979040a92e37e933c3f357a29e71a21b305cb4458b5565e",
+  "source_id": "d5ee457f-5784-43aa-8210-692f8d757855",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 297/2020-55",
+    "soud": "Okresní soud v Karviné",
+    "autor": "Mgr. Jana Babušková",
+    "ecli": "ECLI:CZ:OSKI:2021:21.C.297.2020.1",
+    "predmetRizeni": "102 406 Kč s příslušenstvím",
+    "datumVydani": "2021-01-11",
+    "datumZverejneni": "2021-08-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 1815 z. č. 89/2012 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 1811 z. č. 89/2012 Sb.",
+      "§ 554 z. č. 89/2012 Sb.",
+      "§ 553 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d5ee457f-5784-43aa-8210-692f8d757855"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
