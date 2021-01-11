@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2021:19.C.133.2020.1",
+  "docket": "19 C 133/2020-15",
+  "date": "2021-01-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c3d354ab-a42a-41e4-8de9-903a8a8dde1e",
+  "source_sha256": "6e7eb28c2a90ebec1cb0ba0b3e10527eca625549ac4c2bd082cafd01e73a37de",
+  "source_id": "c3d354ab-a42a-41e4-8de9-903a8a8dde1e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 133/2020-15",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "Mgr. Pavel Dočkal",
+    "ecli": "ECLI:CZ:OSBU:2021:19.C.133.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-11",
+    "datumZverejneni": "2021-01-25",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c3d354ab-a42a-41e4-8de9-903a8a8dde1e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
