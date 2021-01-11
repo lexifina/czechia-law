@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2021:21.C.360.2020.1",
+  "docket": "21 C 360/2020-46",
+  "date": "2021-01-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1dfc7880-7362-4a66-bff4-e5e6a682c875",
+  "source_sha256": "9610bf77823d0a10a6bda57f2656ad3092302d6ba8485f3ca40f9011fe1a8323",
+  "source_id": "1dfc7880-7362-4a66-bff4-e5e6a682c875",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 360/2020-46",
+    "soud": "Okresní soud v Karviné",
+    "autor": "Mgr. Jana Babušková",
+    "ecli": "ECLI:CZ:OSKI:2021:21.C.360.2020.1",
+    "predmetRizeni": "1 000 Kč s příslušenstvím",
+    "datumVydani": "2021-01-11",
+    "datumZverejneni": "2021-03-08",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1dfc7880-7362-4a66-bff4-e5e6a682c875"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
