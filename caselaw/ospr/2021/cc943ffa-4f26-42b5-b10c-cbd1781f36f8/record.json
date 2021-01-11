@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2021:8.C.160.2020.1",
+  "docket": "8 C 160/2020-46",
+  "date": "2021-01-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cc943ffa-4f26-42b5-b10c-cbd1781f36f8",
+  "source_sha256": "f12a9f5f7c2df97d7cb6f2427c2d6437450b216790af45785a203c093b3a08fb",
+  "source_id": "cc943ffa-4f26-42b5-b10c-cbd1781f36f8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 160/2020-46",
+    "soud": "Okresní soud v Přerově",
+    "autor": "Mgr. Daniela Ševelová",
+    "ecli": "ECLI:CZ:OSPR:2021:8.C.160.2020.1",
+    "predmetRizeni": "určení neplatnosti rozvázání pracovního poměru,",
+    "datumVydani": "2021-01-11",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "dohoda o rozvázání pracovního poměru",
+      "náhrada mzdy",
+      "okamžité zrušení pracovního poměru",
+      "peněžité plnění",
+      "skončení pracovního poměru",
+      "smlouva pracovní",
+      "zkušební doba"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 70 z. č. 262/2006 Sb.",
+      "§ 4 z. č. 262/2006 Sb.",
+      "§ 72 z. č. 262/2006 Sb.",
+      "§ 585 z. č. 89/2012 Sb.",
+      "§ 56 z. č. 262/2006 Sb.",
+      "§ 582 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cc943ffa-4f26-42b5-b10c-cbd1781f36f8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
