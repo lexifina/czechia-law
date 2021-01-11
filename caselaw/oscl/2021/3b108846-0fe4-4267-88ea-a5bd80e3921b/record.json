@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:38.C.393.2020.1",
+  "docket": "38 C 393/2020-18",
+  "date": "2021-01-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3b108846-0fe4-4267-88ea-a5bd80e3921b",
+  "source_sha256": "54eb43aada8ab787b905ed266311ebf34e7ee50252eacce26cab89e545ac2f2b",
+  "source_id": "3b108846-0fe4-4267-88ea-a5bd80e3921b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 393/2020-18",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Martin Fedorko",
+    "ecli": "ECLI:CZ:OSCL:2021:38.C.393.2020.1",
+    "predmetRizeni": "O zaplacení 9 230 Kč s příslušenstvím",
+    "datumVydani": "2021-01-11",
+    "datumZverejneni": "2021-03-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§  z. č. 235/2004 Sb.",
+      "§ 2 vyhl. č. 205/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§  z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3b108846-0fe4-4267-88ea-a5bd80e3921b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
