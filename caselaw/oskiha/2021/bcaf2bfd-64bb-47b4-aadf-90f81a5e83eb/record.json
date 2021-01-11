@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:109.C.334.2020.1",
+  "docket": "109 C 334/2020-33",
+  "date": "2021-01-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bcaf2bfd-64bb-47b4-aadf-90f81a5e83eb",
+  "source_sha256": "bc81ff300ad8d8af5fae022b57991bcc6b3f9b54df4c7b975f74d34bb222240b",
+  "source_id": "bcaf2bfd-64bb-47b4-aadf-90f81a5e83eb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "109 C 334/2020-33",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Michaela Bouhalika",
+    "ecli": "ECLI:CZ:OSKIHA:2021:109.C.334.2020.1",
+    "predmetRizeni": "5 000 Kč s příslušenstvím",
+    "datumVydani": "2021-01-11",
+    "datumZverejneni": "2021-03-03",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bcaf2bfd-64bb-47b4-aadf-90f81a5e83eb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
