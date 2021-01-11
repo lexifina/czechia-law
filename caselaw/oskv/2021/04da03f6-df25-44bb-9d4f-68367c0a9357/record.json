@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:16.C.253.2020.1",
+  "docket": "16 C 253/2020-33",
+  "date": "2021-01-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/04da03f6-df25-44bb-9d4f-68367c0a9357",
+  "source_sha256": "7281e9c39de9d618d12e612698555f5a5762a3695224cec089ee7a07680196d2",
+  "source_id": "04da03f6-df25-44bb-9d4f-68367c0a9357",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 253/2020-33",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "JUDr. Dana Sobotková",
+    "ecli": "ECLI:CZ:OSKV:2021:16.C.253.2020.1",
+    "predmetRizeni": "63.000 Kč nájemné + služby",
+    "datumVydani": "2021-01-11",
+    "datumZverejneni": "2021-03-03",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2217 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/96 Sb.",
+      "§ 2247 z. č. 89/2012 Sb.",
+      "§ 2251 z. č. 89/2012 Sb.",
+      "§ 2218 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/04da03f6-df25-44bb-9d4f-68367c0a9357"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
