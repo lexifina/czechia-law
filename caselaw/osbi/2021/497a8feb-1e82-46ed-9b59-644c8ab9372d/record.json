@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:42.C.151.2019.1",
+  "docket": "42 C 151/2019",
+  "date": "2021-01-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/497a8feb-1e82-46ed-9b59-644c8ab9372d",
+  "source_sha256": "53d8916bcb378adfb35361b8afb53f2db65d4f1e8ffd8479a414e1b61a63702f",
+  "source_id": "497a8feb-1e82-46ed-9b59-644c8ab9372d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 151/2019",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "Mgr. Andrea Boráková",
+    "ecli": "ECLI:CZ:OSBI:2021:42.C.151.2019.1",
+    "predmetRizeni": "zrušení vyživovací povinnosti",
+    "datumVydani": "2021-01-11",
+    "datumZverejneni": "2021-04-07",
+    "klicovaSlova": [
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 911 z. č. 89/2012 Sb.",
+      "§ 910 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/497a8feb-1e82-46ed-9b59-644c8ab9372d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
