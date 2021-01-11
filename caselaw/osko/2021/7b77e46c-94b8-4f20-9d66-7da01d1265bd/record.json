@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kolíně",
+  "ecli": "ECLI:CZ:OSKO:2021:6.C.125.2019.1",
+  "docket": "6 C 125/2019-17",
+  "date": "2021-01-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7b77e46c-94b8-4f20-9d66-7da01d1265bd",
+  "source_sha256": "97602c8cbc678349ead7c36db8462470aa38ca8fe20a8a9fa31a0479cacdb9b0",
+  "source_id": "7b77e46c-94b8-4f20-9d66-7da01d1265bd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 125/2019-17",
+    "soud": "Okresní soud v Kolíně",
+    "autor": "JUDr. Helena Teslíková",
+    "ecli": "ECLI:CZ:OSKO:2021:6.C.125.2019.1",
+    "predmetRizeni": "[příjmení]",
+    "datumVydani": "2021-01-11",
+    "datumZverejneni": "2021-02-09",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7b77e46c-94b8-4f20-9d66-7da01d1265bd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
