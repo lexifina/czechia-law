@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:15.C.59.2020.1",
+  "docket": "15 C 59/2020-18",
+  "date": "2021-01-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dda4f5be-c462-49bb-b9b9-7220432a897d",
+  "source_sha256": "a480fc0d32a738561aa37ca6b140c49949ffe9fda5db52a25d6d601a043e7705",
+  "source_id": "dda4f5be-c462-49bb-b9b9-7220432a897d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 59/2020-18",
+    "soud": "Okresní soud v Chebu",
+    "autor": "Mgr. Ing. Vladimír Doležal",
+    "ecli": "ECLI:CZ:OSCH:2021:15.C.59.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-11",
+    "datumZverejneni": "2021-02-02",
+    "klicovaSlova": [
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 79 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dda4f5be-c462-49bb-b9b9-7220432a897d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
