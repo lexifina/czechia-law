@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kroměříži",
+  "ecli": "ECLI:CZ:OSKM:2021:5.C.276.2020.2",
+  "docket": "5 C 276/2020-20",
+  "date": "2021-01-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/34bfe9f6-0b37-4e6e-8b3e-20dee0efb5fc",
+  "source_sha256": "8020ff2360be306c6ed2957ff03541e0fa9eab1700cfe03f4389d4bc4545c62c",
+  "source_id": "34bfe9f6-0b37-4e6e-8b3e-20dee0efb5fc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 276/2020-20",
+    "soud": "Okresní soud v Kroměříži",
+    "autor": "Mgr. Jana Smýkalová",
+    "ecli": "ECLI:CZ:OSKM:2021:5.C.276.2020.2",
+    "predmetRizeni": "zaplacení [částka]",
+    "datumVydani": "2021-01-11",
+    "datumZverejneni": "2021-03-19",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 49 vyhl. č. 175/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/34bfe9f6-0b37-4e6e-8b3e-20dee0efb5fc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
