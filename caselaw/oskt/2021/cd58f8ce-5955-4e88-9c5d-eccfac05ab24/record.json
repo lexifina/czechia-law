@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2021:9.C.287.2020.1",
+  "docket": "9 C 287/2020-49",
+  "date": "2021-01-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cd58f8ce-5955-4e88-9c5d-eccfac05ab24",
+  "source_sha256": "ca13eeecdfb5422d574e785db75f239b296e41cac3dec60bd354d8ca7135158a",
+  "source_id": "cd58f8ce-5955-4e88-9c5d-eccfac05ab24",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 287/2020-49",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "JUDr. Vlasta Pešková",
+    "ecli": "ECLI:CZ:OSKT:2021:9.C.287.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-11",
+    "datumZverejneni": "2021-04-15",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1810 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cd58f8ce-5955-4e88-9c5d-eccfac05ab24"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
