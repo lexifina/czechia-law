@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2021:17.C.253.2020.2",
+  "docket": "17 C 253/2020-11",
+  "date": "2021-01-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b0ee437b-e569-403f-9674-8ac71cfa9a62",
+  "source_sha256": "46ebd3fe63592b42088744e4aa220445d510c461d60248b841226f178778ddd5",
+  "source_id": "b0ee437b-e569-403f-9674-8ac71cfa9a62",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 253/2020-11",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "Mgr. Jana Fejtová",
+    "ecli": "ECLI:CZ:OSNJ:2021:17.C.253.2020.2",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-11",
+    "datumZverejneni": "2021-02-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pozemní komunikace"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b0ee437b-e569-403f-9674-8ac71cfa9a62"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
