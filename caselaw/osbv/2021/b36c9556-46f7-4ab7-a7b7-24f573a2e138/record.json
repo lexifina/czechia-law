@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2021:6.C.57.2020.1",
+  "docket": "6 C 57/2020-67",
+  "date": "2021-01-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b36c9556-46f7-4ab7-a7b7-24f573a2e138",
+  "source_sha256": "92000ebd8beb1f88483de7d19e4c8a6eb5b616eb0eee5df64eeab6898a4dd5d3",
+  "source_id": "b36c9556-46f7-4ab7-a7b7-24f573a2e138",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 57/2020-67",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "JUDr. Josef Mužík",
+    "ecli": "ECLI:CZ:OSBV:2021:6.C.57.2020.1",
+    "predmetRizeni": "4.792 Kč s příslušenstvím",
+    "datumVydani": "2021-01-11",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b36c9556-46f7-4ab7-a7b7-24f573a2e138"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
