@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:34.C.141.2020.1",
+  "docket": "34 C 141/2020-40",
+  "date": "2021-01-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bc3fad7d-3b78-421a-873b-aefa55bc6423",
+  "source_sha256": "5a53c96f59257f38b3368fdc56884e102a1d935d55afd78f1a471c914e09eab2",
+  "source_id": "bc3fad7d-3b78-421a-873b-aefa55bc6423",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 141/2020-40",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "Mgr. Vladimír Hromek",
+    "ecli": "ECLI:CZ:OSBI:2021:34.C.141.2020.1",
+    "predmetRizeni": "vyklizení nemovitosti",
+    "datumVydani": "2021-01-11",
+    "datumZverejneni": "2021-02-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "vyklizení nemovitosti",
+      "výprosa"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 12 vyhl. č. 177/1996 Sb.",
+      "§ 2189 z. č. 89/2012 Sb.",
+      "§ 2190 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bc3fad7d-3b78-421a-873b-aefa55bc6423"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
