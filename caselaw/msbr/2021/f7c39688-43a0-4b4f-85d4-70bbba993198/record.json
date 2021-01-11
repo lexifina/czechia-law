@@ -1,0 +1,49 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:217.C.22.2020.1",
+  "docket": "217 C 22/2020-45",
+  "date": "2021-01-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f7c39688-43a0-4b4f-85d4-70bbba993198",
+  "source_sha256": "cbf329dcc94fd3318f9c71d1b20be005f2bf1c981eb5733cb973ef9068a4e876",
+  "source_id": "f7c39688-43a0-4b4f-85d4-70bbba993198",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "217 C 22/2020-45",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Petra Filová",
+    "ecli": "ECLI:CZ:MSBR:2021:217.C.22.2020.1",
+    "predmetRizeni": "zaplacení 42 706,66 Kč s příslušenstvím - nájemní smlouva",
+    "datumVydani": "2021-01-11",
+    "datumZverejneni": "2021-10-04",
+    "klicovaSlova": [
+      "bytové družstvo",
+      "dlužné nájemné",
+      "nájem bytu",
+      "peněžité plnění",
+      "podnájem",
+      "smlouva nájemní",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2215 z. č. 89/2012 Sb.",
+      "§ 2274 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f7c39688-43a0-4b4f-85d4-70bbba993198"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
