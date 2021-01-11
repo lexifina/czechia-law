@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:28.C.106.2020.2",
+  "docket": "28 C 106/2020-94",
+  "date": "2021-01-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b2d67774-a775-411f-8023-d528cc8774af",
+  "source_sha256": "47e2e8731521a5ac38c3e1b68fe8bab0f04ee3dbf8d6c2a3699280bbebfe25a1",
+  "source_id": "b2d67774-a775-411f-8023-d528cc8774af",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 106/2020-94",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "Mgr. Tereza Jachura maříková",
+    "ecli": "ECLI:CZ:OSPH02:2021:28.C.106.2020.2",
+    "predmetRizeni": "o zaplacení 8 122,71 Kč s příslušenstvím",
+    "datumVydani": "2021-01-11",
+    "datumZverejneni": "2021-03-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ušlý zisk"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 2952 z. č. 89/2012 Sb.",
+      "§ 107 z. č. 99/1963 Sb.",
+      "§ 32 z. č. 120/2001 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b2d67774-a775-411f-8023-d528cc8774af"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
