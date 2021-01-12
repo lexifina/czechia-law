@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:22.C.216.2020.1",
+  "docket": "22 C 216/2020-34",
+  "date": "2021-01-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0fc6e62d-ed6b-4099-ab3b-0a78b8000cfb",
+  "source_sha256": "24f058d2be18c50ce90e70d791af82d0ea2beafddff330dc902c2d721285cf3a",
+  "source_id": "0fc6e62d-ed6b-4099-ab3b-0a78b8000cfb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 216/2020-34",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "JUDr. Kateřina Krůpová",
+    "ecli": "ECLI:CZ:OSHO:2021:22.C.216.2020.1",
+    "predmetRizeni": "zaplacení 5 450 Kč s příslušenstvím",
+    "datumVydani": "2021-01-12",
+    "datumZverejneni": "2021-03-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2316 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0fc6e62d-ed6b-4099-ab3b-0a78b8000cfb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
