@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kroměříži",
+  "ecli": "ECLI:CZ:OSKM:2021:7.C.267.2020.1",
+  "docket": "7 C 267/2020-19",
+  "date": "2021-01-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0cb71c48-24c4-4cbc-95bf-4604db843675",
+  "source_sha256": "7cb6048fc683105ba42498a6bef8c0598fb64e6a24c896e458701646e30af85e",
+  "source_id": "0cb71c48-24c4-4cbc-95bf-4604db843675",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 267/2020-19",
+    "soud": "Okresní soud v Kroměříži",
+    "autor": "Mgr. Jana Ivánková",
+    "ecli": "ECLI:CZ:OSKM:2021:7.C.267.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-12",
+    "datumZverejneni": "2021-01-20",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 384 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0cb71c48-24c4-4cbc-95bf-4604db843675"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
