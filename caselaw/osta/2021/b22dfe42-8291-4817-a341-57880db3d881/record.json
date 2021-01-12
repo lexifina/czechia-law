@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:9.C.220.2020.1",
+  "docket": "9 C 220/2020-17",
+  "date": "2021-01-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b22dfe42-8291-4817-a341-57880db3d881",
+  "source_sha256": "bfc13caba1df8ff619f9b52fcb6f65c617696ad0597288d617589f0bce5e565a",
+  "source_id": "b22dfe42-8291-4817-a341-57880db3d881",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 220/2020-17",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Ivana Jakšičová",
+    "ecli": "ECLI:CZ:OSTA:2021:9.C.220.2020.1",
+    "predmetRizeni": "O zaplacení 21 350 Kč s příslušenstvím",
+    "datumVydani": "2021-01-12",
+    "datumZverejneni": "2021-02-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b22dfe42-8291-4817-a341-57880db3d881"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
