@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:58.C.317.2020.2",
+  "docket": "58 C 317/2020-30",
+  "date": "2021-01-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fca1d814-aa6e-4d92-8b05-c4a5232c34a3",
+  "source_sha256": "1620400faa454f8822d917d37e652f8b94057f2761c21edbcadc7fbb422a9092",
+  "source_id": "fca1d814-aa6e-4d92-8b05-c4a5232c34a3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "58 C 317/2020-30",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Adam Urbańczyk",
+    "ecli": "ECLI:CZ:OSOV:2021:58.C.317.2020.2",
+    "predmetRizeni": "o zaplacení 4 040,80 Kč s příslušenstvím",
+    "datumVydani": "2021-01-12",
+    "datumZverejneni": "2021-03-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 122 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fca1d814-aa6e-4d92-8b05-c4a5232c34a3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
