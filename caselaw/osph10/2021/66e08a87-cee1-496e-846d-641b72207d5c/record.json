@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2021:59.C.158.2020.1",
+  "docket": "59 C 158/2020-57",
+  "date": "2021-01-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/66e08a87-cee1-496e-846d-641b72207d5c",
+  "source_sha256": "fcdd7300464975b1e010380b2597aac5b0130477de07229f42fee45e8b84bcf1",
+  "source_id": "66e08a87-cee1-496e-846d-641b72207d5c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "59 C 158/2020-57",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "Mgr. Blanka Ježková",
+    "ecli": "ECLI:CZ:OSPH10:2021:59.C.158.2020.1",
+    "predmetRizeni": "8 200 Kč s příslušenstvím",
+    "datumVydani": "2021-01-12",
+    "datumZverejneni": "2021-03-12",
+    "klicovaSlova": [
+      "místní příslušnost",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 657 z. č. 40/1964 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 1887 z. č. 89/2012 Sb.",
+      "§ 41 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/66e08a87-cee1-496e-846d-641b72207d5c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
