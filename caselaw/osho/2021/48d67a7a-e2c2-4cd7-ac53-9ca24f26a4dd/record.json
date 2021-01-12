@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:22.C.217.2020.1",
+  "docket": "22 C 217/2020-25",
+  "date": "2021-01-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/48d67a7a-e2c2-4cd7-ac53-9ca24f26a4dd",
+  "source_sha256": "49f0dfeb536c4c82414998731095daf88782a18f0ef7b884c1d2263707f2bb7f",
+  "source_id": "48d67a7a-e2c2-4cd7-ac53-9ca24f26a4dd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 217/2020-25",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "JUDr. Kateřina Krůpová",
+    "ecli": "ECLI:CZ:OSHO:2021:22.C.217.2020.1",
+    "predmetRizeni": "zaplacení 742 Kč s příslušenstvím",
+    "datumVydani": "2021-01-12",
+    "datumZverejneni": "2021-02-17",
+    "klicovaSlova": [
+      "notářský zápis",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 3 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/48d67a7a-e2c2-4cd7-ac53-9ca24f26a4dd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
