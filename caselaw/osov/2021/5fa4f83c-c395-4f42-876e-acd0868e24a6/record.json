@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:38.C.121.2020.2",
+  "docket": "38 C 121/2020-20",
+  "date": "2021-01-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5fa4f83c-c395-4f42-876e-acd0868e24a6",
+  "source_sha256": "c108ab7761f8c1c98572c53937f08f7f32f118f05f8c3e11f1a2e2e4dc55c173",
+  "source_id": "5fa4f83c-c395-4f42-876e-acd0868e24a6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 121/2020-20",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Markéta Stochová",
+    "ecli": "ECLI:CZ:OSOV:2021:38.C.121.2020.2",
+    "predmetRizeni": "o zaplacení 3 433 Kč s příslušenstvím",
+    "datumVydani": "2021-01-12",
+    "datumZverejneni": "2021-04-07",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 122 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5fa4f83c-c395-4f42-876e-acd0868e24a6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
