@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:29.C.393.2020.2",
+  "docket": "29 C 393/2020-21",
+  "date": "2021-01-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1361f0aa-3fea-417e-9ca3-8800269612a6",
+  "source_sha256": "0d6dec9b43443b2542e78c4c8c1170623a9d12e8821fc4c9475db8cff472311f",
+  "source_id": "1361f0aa-3fea-417e-9ca3-8800269612a6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 393/2020-21",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Karel Šemík",
+    "ecli": "ECLI:CZ:OSUL:2021:29.C.393.2020.2",
+    "predmetRizeni": "O zaplacení 3 020 Kč s příslušenstvím",
+    "datumVydani": "2021-01-12",
+    "datumZverejneni": "2021-03-29",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1361f0aa-3fea-417e-9ca3-8800269612a6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
