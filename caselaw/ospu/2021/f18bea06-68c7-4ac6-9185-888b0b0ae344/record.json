@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:120.C.6.2020.1",
+  "docket": "120 C 6/2020-54",
+  "date": "2021-01-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f18bea06-68c7-4ac6-9185-888b0b0ae344",
+  "source_sha256": "8f458a25bc80fa2bd3c54cf6a8f3e520011dd0dc1c5af8ee7f8798518194e514",
+  "source_id": "f18bea06-68c7-4ac6-9185-888b0b0ae344",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "120 C 6/2020-54",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "JUDr. Dita Prokšová",
+    "ecli": "ECLI:CZ:OSPU:2021:120.C.6.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-12",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní",
+      "uznání dluhu",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 1 nař. vl. č. 351/2013 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 96 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f18bea06-68c7-4ac6-9185-888b0b0ae344"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
