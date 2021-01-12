@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2021:55.C.1246.2020.1",
+  "docket": "55 C 1246/2020-17",
+  "date": "2021-01-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2d0f05ae-72d2-42be-ab90-b48a0fee187a",
+  "source_sha256": "e2b758812a43902240ee54bd91dfbadef04eb847f85a2d61c05290fe78d95790",
+  "source_id": "2d0f05ae-72d2-42be-ab90-b48a0fee187a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "55 C 1246/2020-17",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "JUDr. Barbora Nezkusilová",
+    "ecli": "ECLI:CZ:OSPH10:2021:55.C.1246.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-01-12",
+    "datumZverejneni": "2021-02-18",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2d0f05ae-72d2-42be-ab90-b48a0fee187a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
