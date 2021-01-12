@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:25.C.245.2020.1",
+  "docket": "25 C 245/2020",
+  "date": "2021-01-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/16a71570-c9d0-4d27-8cd1-851213181a98",
+  "source_sha256": "fb2248bf61d471a34da498f744b66c5574096bbd4b667b2fa6455e31f80c8d12",
+  "source_id": "16a71570-c9d0-4d27-8cd1-851213181a98",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 245/2020",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "JUDr. Martina Folková",
+    "ecli": "ECLI:CZ:OSPM:2021:25.C.245.2020.1",
+    "predmetRizeni": "Návrh na osvojení zletilého",
+    "datumVydani": "2021-01-12",
+    "datumZverejneni": "2021-03-26",
+    "klicovaSlova": [
+      "osvojení",
+      "osvojení zletilého",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 2 z. č. 89/2012 Sb.",
+      "§ 847 z. č. 89/2012 Sb.",
+      "§ 846 z. č. 89/2012 Sb.",
+      "§ 833 z. č. 89/2012 Sb.",
+      "§ 851 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/16a71570-c9d0-4d27-8cd1-851213181a98"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
