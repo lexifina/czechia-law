@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2021:10.C.197.2020.1",
+  "docket": "10 C 197/2020-36",
+  "date": "2021-01-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d9925a65-4a54-459a-982d-032d6b13db01",
+  "source_sha256": "7ecfecdfbfc41042a694e6d55235f71b4881bfe14bec992b34b5adb9c76c0ac4",
+  "source_id": "d9925a65-4a54-459a-982d-032d6b13db01",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 197/2020-36",
+    "soud": "Okresní soud v Přerově",
+    "autor": "Mgr. Anna Coufalová",
+    "ecli": "ECLI:CZ:OSPR:2021:10.C.197.2020.1",
+    "predmetRizeni": "zaplacení [částka] s přísl. - úvěr",
+    "datumVydani": "2021-01-12",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "daň z příjmů",
+      "neplatnost právního jednání",
+      "peněžité plnění",
+      "pojistné na sociální zabezpečení",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 2 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d9925a65-4a54-459a-982d-032d6b13db01"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
