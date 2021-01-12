@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně",
+  "ecli": "ECLI:CZ:OSVS:2021:11.C.118.2020.1",
+  "docket": "11 C 118/2020-25",
+  "date": "2021-01-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/301d9160-a4b4-4dc2-afb8-3f51a0501fc7",
+  "source_sha256": "3b9a84affd59deee38d76d0db0a1c0d5c6e4e8db251bb2e74ac8b271528addbe",
+  "source_id": "301d9160-a4b4-4dc2-afb8-3f51a0501fc7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 118/2020-25",
+    "soud": "Okresní soud ve Vsetíně",
+    "autor": "JUDr. Ing. Radomír Cáb",
+    "ecli": "ECLI:CZ:OSVS:2021:11.C.118.2020.1",
+    "predmetRizeni": "žaloba o rozvod manželství",
+    "datumVydani": "2021-01-12",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "církev",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 207 z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/301d9160-a4b4-4dc2-afb8-3f51a0501fc7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
