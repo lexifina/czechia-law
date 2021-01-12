@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:8.C.156.2020.3",
+  "docket": "8 C 156/2020-15",
+  "date": "2021-01-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4747bd52-8c6d-4a02-861b-002fb426dd90",
+  "source_sha256": "e2d8e722fa06b8c0e388825fbf256a9cb65446a06519d0b1a04aae21387f955f",
+  "source_id": "4747bd52-8c6d-4a02-861b-002fb426dd90",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 156/2020-15",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "Mgr. Stanislav Janků",
+    "ecli": "ECLI:CZ:OSSO:2021:8.C.156.2020.3",
+    "predmetRizeni": "žaloba na určení vlastnického práva k vozidlu",
+    "datumVydani": "2021-01-12",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 80 z. č. 99/1963 Sb.",
+      "§ 8a z. č. 56/2001 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4747bd52-8c6d-4a02-861b-002fb426dd90"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
