@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:20.C.182.2020.1",
+  "docket": "20 C 182/2020-18",
+  "date": "2021-01-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fe285c52-4fe1-42b8-a685-4f4811a52d31",
+  "source_sha256": "c2f914aa9c5389bd476236a1b0d8ce18bd318552afbf847a9f0b4a448ec74635",
+  "source_id": "fe285c52-4fe1-42b8-a685-4f4811a52d31",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 182/2020-18",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "JUDr. Jaroslav Simet",
+    "ecli": "ECLI:CZ:OSSO:2021:20.C.182.2020.1",
+    "predmetRizeni": "zaplacení 2 000 Kč s příslušenstvím",
+    "datumVydani": "2021-01-12",
+    "datumZverejneni": "2021-03-12",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 6 z. č. 145/2010 Sb.",
+      "§ 5 z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fe285c52-4fe1-42b8-a685-4f4811a52d31"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
