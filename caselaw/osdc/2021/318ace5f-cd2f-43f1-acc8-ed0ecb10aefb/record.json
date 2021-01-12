@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:27.C.155.2020.1",
+  "docket": "27 C 155/2020-15",
+  "date": "2021-01-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/318ace5f-cd2f-43f1-acc8-ed0ecb10aefb",
+  "source_sha256": "c61f39c01044ba25cc733e90d9a0e54e2a5b23cbf70343e65a57afef1109326a",
+  "source_id": "318ace5f-cd2f-43f1-acc8-ed0ecb10aefb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 155/2020-15",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "JUDr. Štěpán Klapka",
+    "ecli": "ECLI:CZ:OSDC:2021:27.C.155.2020.1",
+    "predmetRizeni": "O zaplacení [částka]",
+    "datumVydani": "2021-01-12",
+    "datumZverejneni": "2021-04-14",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2048 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/318ace5f-cd2f-43f1-acc8-ed0ecb10aefb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
