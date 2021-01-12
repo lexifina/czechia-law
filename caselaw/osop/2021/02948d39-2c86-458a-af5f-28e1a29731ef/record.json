@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2021:7.C.272.2020.1",
+  "docket": "7 C 272/2020-12",
+  "date": "2021-01-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/02948d39-2c86-458a-af5f-28e1a29731ef",
+  "source_sha256": "a0a517eb4afe73f62948bd18d7f263429932d4549f660c07de691590c13cc79b",
+  "source_id": "02948d39-2c86-458a-af5f-28e1a29731ef",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 272/2020-12",
+    "soud": "Okresní soud v Opavě",
+    "autor": "Mgr. Vítězslav Špalek",
+    "ecli": "ECLI:CZ:OSOP:2021:7.C.272.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-12",
+    "datumZverejneni": "2021-02-24",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/02948d39-2c86-458a-af5f-28e1a29731ef"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
