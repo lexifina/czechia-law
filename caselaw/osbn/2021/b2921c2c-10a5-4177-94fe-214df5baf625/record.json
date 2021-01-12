@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2021:5.C.230.2020.1",
+  "docket": "5 C 230/2020-21",
+  "date": "2021-01-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b2921c2c-10a5-4177-94fe-214df5baf625",
+  "source_sha256": "644cf7771326e1419ceba972c147f1d1a8e1cb36997767883ec5f3879d8ea81a",
+  "source_id": "b2921c2c-10a5-4177-94fe-214df5baf625",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 230/2020-21",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Petra Šturcová",
+    "ecli": "ECLI:CZ:OSBN:2021:5.C.230.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-12",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b2921c2c-10a5-4177-94fe-214df5baf625"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
