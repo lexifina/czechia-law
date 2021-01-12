@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2021:12.C.308.2019.3",
+  "docket": "12 C 308/2019-80",
+  "date": "2021-01-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0977bb07-0da7-44b5-9f13-54a0cf284984",
+  "source_sha256": "8574e7e76f277a00c1bb51209b8d7f5eeec191eca80100f6a952b47bd6c6e7b4",
+  "source_id": "0977bb07-0da7-44b5-9f13-54a0cf284984",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 308/2019-80",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "Mgr. Monika Kymlová",
+    "ecli": "ECLI:CZ:OSPH10:2021:12.C.308.2019.3",
+    "predmetRizeni": "o 8 360,61 Kč s příslušenstvím",
+    "datumVydani": "2021-01-12",
+    "datumZverejneni": "2021-06-10",
+    "klicovaSlova": [
+      "smlouva o dílo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 2586 z. č. 89/2012 Sb.",
+      "§ 2610 z. č. 89/2012 Sb.",
+      "§ 2612 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0977bb07-0da7-44b5-9f13-54a0cf284984"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
