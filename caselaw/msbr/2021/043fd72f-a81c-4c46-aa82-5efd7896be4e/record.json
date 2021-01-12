@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:116.C.237.2020.1",
+  "docket": "116 C 237/2020-13",
+  "date": "2021-01-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/043fd72f-a81c-4c46-aa82-5efd7896be4e",
+  "source_sha256": "3e3bdd1116158fe28146a5b522a8d5d9a4f75b734689f75b3d21c078f770c630",
+  "source_id": "043fd72f-a81c-4c46-aa82-5efd7896be4e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "116 C 237/2020-13",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Tamara Göthová",
+    "ecli": "ECLI:CZ:MSBR:2021:116.C.237.2020.1",
+    "predmetRizeni": "zaplacení 1.499 Kč s příslušenstvím - pojistné",
+    "datumVydani": "2021-01-12",
+    "datumZverejneni": "2021-04-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 13 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/043fd72f-a81c-4c46-aa82-5efd7896be4e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
