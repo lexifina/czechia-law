@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:8.C.184.2020.1",
+  "docket": "8 C 184/2020-14",
+  "date": "2021-01-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9800895b-81e1-481b-9c65-53902bfbb5cd",
+  "source_sha256": "8acea72e30952bc8c95013d202a26864ee5e29faf311a8bb24596d4d487aec04",
+  "source_id": "9800895b-81e1-481b-9c65-53902bfbb5cd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 184/2020-14",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "Mgr. Šárka Široká",
+    "ecli": "ECLI:CZ:OSRO:2021:8.C.184.2020.1",
+    "predmetRizeni": "zaplacení 3 765 Kč s přísl.",
+    "datumVydani": "2021-01-12",
+    "datumZverejneni": "2021-01-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9800895b-81e1-481b-9c65-53902bfbb5cd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
