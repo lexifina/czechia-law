@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mělníku",
+  "ecli": "ECLI:CZ:OSME:2021:8.C.68.2020.1",
+  "docket": "8 C 68/2020",
+  "date": "2021-01-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5a477cb7-b4bd-4184-9210-5ff88a4942f9",
+  "source_sha256": "d903cd8a7db1344955ea46db1ada65de45869add6330dff48432e276a3a93437",
+  "source_id": "5a477cb7-b4bd-4184-9210-5ff88a4942f9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 68/2020",
+    "soud": "Okresní soud v Mělníku",
+    "autor": "JUDr. Yveta Hochmannová",
+    "ecli": "ECLI:CZ:OSME:2021:8.C.68.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-12",
+    "datumZverejneni": "2021-05-28",
+    "klicovaSlova": [
+      "místní příslušnost",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce",
+      "věcná příslušnost"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5a477cb7-b4bd-4184-9210-5ff88a4942f9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
