@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:13.C.2.2021.1",
+  "docket": "13 C 2/2021-16",
+  "date": "2021-01-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d85c64d8-e674-4267-af60-f94073486597",
+  "source_sha256": "0aeed0bba540d702096d6069c0615d72c9967885cff6b4c38cca5c854af5d53f",
+  "source_id": "d85c64d8-e674-4267-af60-f94073486597",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 2/2021-16",
+    "soud": "Okresní soud v Chebu",
+    "autor": "Světlana Jarošová",
+    "ecli": "ECLI:CZ:OSCH:2021:13.C.2.2021.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-01-12",
+    "datumZverejneni": "2021-02-02",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d85c64d8-e674-4267-af60-f94073486597"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
