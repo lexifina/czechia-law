@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:13.C.288.2020.1",
+  "docket": "13 C 288/2020-17",
+  "date": "2021-01-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bbe89a6a-d1d4-42a7-88b5-3993d5d02ba0",
+  "source_sha256": "06b32d07fe9d9c59e7dafbd97c970358c3dd166edc08b3ffbf16acc3ec86fd09",
+  "source_id": "bbe89a6a-d1d4-42a7-88b5-3993d5d02ba0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 288/2020-17",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "Mgr. Helena Podveská",
+    "ecli": "ECLI:CZ:OSHO:2021:13.C.288.2020.1",
+    "predmetRizeni": "zaplacení 1 215 Kč s příslušenstvím",
+    "datumVydani": "2021-01-12",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2783 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bbe89a6a-d1d4-42a7-88b5-3993d5d02ba0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
