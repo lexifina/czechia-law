@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:21.C.84.2020.1",
+  "docket": "21 C 84/2020-90",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d9174a91-9fb7-4ba1-ac07-512966a01742",
+  "source_sha256": "36d58d99d77de6609621d0df82e548b5b0ef697a108d1ab0d530f1f759fcaae8",
+  "source_id": "d9174a91-9fb7-4ba1-ac07-512966a01742",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 84/2020-90",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Hana Šťastná",
+    "ecli": "ECLI:CZ:MSBR:2021:21.C.84.2020.1",
+    "predmetRizeni": "zaplacení 43.218 Kč s příslušenstvím - bezdůvodné obohacení",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2295 z. č. 89/2012 Sb.",
+      "§ 2292 z. č. 89/2012 Sb.",
+      "§ 2279 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d9174a91-9fb7-4ba1-ac07-512966a01742"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
