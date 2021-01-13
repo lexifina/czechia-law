@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:12.C.368.2020.2",
+  "docket": "12 C 368/2020-32",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1747aed6-add0-4ec2-8b0e-046a4740d3f8",
+  "source_sha256": "dcdcb4600e3429416100406e3fcf154a85a7f0ceaefbfa4579c8808a873d99a2",
+  "source_id": "1747aed6-add0-4ec2-8b0e-046a4740d3f8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 368/2020-32",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Romana Malá",
+    "ecli": "ECLI:CZ:OSMO:2021:12.C.368.2020.2",
+    "predmetRizeni": "2 000 Kč",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "jízdné",
+      "odstoupení od smlouvy",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 63 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1747aed6-add0-4ec2-8b0e-046a4740d3f8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
