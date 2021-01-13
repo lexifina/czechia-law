@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:13.C.323.2020.1",
+  "docket": "13 C 323/2020",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0c42d808-7773-4aab-8fbd-fcd41f188895",
+  "source_sha256": "a9182ef894d2f3a3d13e3c97cc1e0a7e9853ddcd94ec266d08deffb902a953fc",
+  "source_id": "0c42d808-7773-4aab-8fbd-fcd41f188895",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 323/2020",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. Hana Greplová",
+    "ecli": "ECLI:CZ:OSPV:2021:13.C.323.2020.1",
+    "predmetRizeni": "pro zaplacení [částka] s příslušenstvím,",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-03-10",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1810 z. č. 458/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0c42d808-7773-4aab-8fbd-fcd41f188895"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
