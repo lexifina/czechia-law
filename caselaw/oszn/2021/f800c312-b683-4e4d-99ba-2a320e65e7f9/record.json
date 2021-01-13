@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:7.C.269.2020.1",
+  "docket": "7 C 269/2020-78",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f800c312-b683-4e4d-99ba-2a320e65e7f9",
+  "source_sha256": "5f1137b7471fe2124da7abfe19c1d9f4eb0a6572af679395c6793c40f75516fe",
+  "source_id": "f800c312-b683-4e4d-99ba-2a320e65e7f9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 269/2020-78",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "Mgr. Lenka Krčálová",
+    "ecli": "ECLI:CZ:OSZN:2021:7.C.269.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-04-06",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 657 z. č. 89/2012 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§  nař. vl. č. 142/1994 Sb.",
+      "§ 3028 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f800c312-b683-4e4d-99ba-2a320e65e7f9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
