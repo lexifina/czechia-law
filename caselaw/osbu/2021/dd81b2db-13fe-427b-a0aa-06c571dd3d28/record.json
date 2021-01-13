@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2021:17.C.180.2020.1",
+  "docket": "17 C 180/2020-36",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dd81b2db-13fe-427b-a0aa-06c571dd3d28",
+  "source_sha256": "11ca6807eab8269b7f0542c1d0c18199aea4b2f4f53fc17ad6f9a4d0f8f192cf",
+  "source_id": "dd81b2db-13fe-427b-a0aa-06c571dd3d28",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 180/2020-36",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "Mgr. Vladimír Koutný",
+    "ecli": "ECLI:CZ:OSBU:2021:17.C.180.2020.1",
+    "predmetRizeni": "2.405 Kč s příslušenstvím",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 513 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 12 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dd81b2db-13fe-427b-a0aa-06c571dd3d28"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
