@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:7.C.83.2020.1",
+  "docket": "7 C 83/2020-13",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dbe5bf7c-3681-4b68-b4c1-25f3552108ef",
+  "source_sha256": "7eb1dafa655ec4e8c4c536c48c7c98a7c7896d3322b0e571766f8b114199f555",
+  "source_id": "dbe5bf7c-3681-4b68-b4c1-25f3552108ef",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 83/2020-13",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Lenka Eliášová",
+    "ecli": "ECLI:CZ:OSPH05:2021:7.C.83.2020.1",
+    "predmetRizeni": "O zaplacení 42 850 Kč s příslušenstvím",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-02-26",
+    "klicovaSlova": [
+      "dražba",
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 1771 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dbe5bf7c-3681-4b68-b4c1-25f3552108ef"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
