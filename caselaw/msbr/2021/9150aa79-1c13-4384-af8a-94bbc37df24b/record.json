@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:19.C.22.2020.1",
+  "docket": "19 C 22/2020-19",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9150aa79-1c13-4384-af8a-94bbc37df24b",
+  "source_sha256": "824a5f73e6b35562019639120f38904b90ada14473dedc307428cf9d0c4b3249",
+  "source_id": "9150aa79-1c13-4384-af8a-94bbc37df24b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 22/2020-19",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Kateřina Gabrielová",
+    "ecli": "ECLI:CZ:MSBR:2021:19.C.22.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-04-01",
+    "klicovaSlova": [
+      "církev",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 687 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9150aa79-1c13-4384-af8a-94bbc37df24b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
