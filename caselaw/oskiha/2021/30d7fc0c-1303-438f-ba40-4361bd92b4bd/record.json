@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:130.C.404.2020.1",
+  "docket": "130 C 404/2020-28",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/30d7fc0c-1303-438f-ba40-4361bd92b4bd",
+  "source_sha256": "1368f92c378c24c98e4117fefccb33d093dd00a44bfdb0cee8b97bf888e1cc44",
+  "source_id": "30d7fc0c-1303-438f-ba40-4361bd92b4bd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "130 C 404/2020-28",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Michaela Turčíková",
+    "ecli": "ECLI:CZ:OSKIHA:2021:130.C.404.2020.1",
+    "predmetRizeni": "1 950 Kč s příslušenstvím",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-02-11",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/30d7fc0c-1303-438f-ba40-4361bd92b4bd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
