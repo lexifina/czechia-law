@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:42.C.195.2019.1",
+  "docket": "42 C 195/2019",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c38e25ca-5bbb-43fc-885f-f03e4ad3293f",
+  "source_sha256": "3c292da3b27a9c9c307748669d5af0150d2e661e4021f770920f7e93c7e481f5",
+  "source_id": "c38e25ca-5bbb-43fc-885f-f03e4ad3293f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 195/2019",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "Mgr. Andrea Boráková",
+    "ecli": "ECLI:CZ:OSBI:2021:42.C.195.2019.1",
+    "predmetRizeni": "zaplacení 337.500 Kč",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-03-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "převod nemovitostí",
+      "smlouva zprostředkovatelská"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 1815 z. č. 89/2012 Sb.",
+      "§ 1814 z. č. 89/2012 Sb.",
+      "§ 1812 z. č. 89/2012 Sb.",
+      "§ 5 z. č. 89/2012 Sb.",
+      "§ 2445 z. č. 89/2012 Sb.",
+      "§ 574 z. č. 89/2012 Sb.",
+      "§ 1732 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c38e25ca-5bbb-43fc-885f-f03e4ad3293f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
