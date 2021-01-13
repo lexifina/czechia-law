@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:36.C.204.2020.1",
+  "docket": "36 C 204/2020-32",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/483b5e27-8bea-4970-ad77-25b4eb0748d0",
+  "source_sha256": "bc06c1b6103f0bfd0d0073f9401fc821d50e03dd9e46dd470a3fac6b9e912230",
+  "source_id": "483b5e27-8bea-4970-ad77-25b4eb0748d0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 204/2020-32",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Aleš Kobza",
+    "ecli": "ECLI:CZ:MSBR:2021:36.C.204.2020.1",
+    "predmetRizeni": "zaplacení 1.500 Kč s příslušenstvím - odtažení vozidla",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-06-10",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 19 z. č. 13/1997 Sb.",
+      "§ 1723 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/483b5e27-8bea-4970-ad77-25b4eb0748d0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
