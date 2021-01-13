@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2021:8.C.168.2020.1",
+  "docket": "8 C 168/2020-20",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4c66423a-1e30-4c5d-9ccf-3c08ed37d748",
+  "source_sha256": "da54268c2ff5931e6d0e91b98bd9c438acda2950e55d35fbee19ff01791b3c3d",
+  "source_id": "4c66423a-1e30-4c5d-9ccf-3c08ed37d748",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 168/2020-20",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "Mgr. Pavel Janků",
+    "ecli": "ECLI:CZ:OSSU:2021:8.C.168.2020.1",
+    "predmetRizeni": "o [částka]",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-03-25",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4c66423a-1e30-4c5d-9ccf-3c08ed37d748"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
