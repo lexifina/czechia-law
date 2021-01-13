@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 3",
+  "ecli": "ECLI:CZ:OSPH03:2021:17.C.315.2020.1",
+  "docket": "17 C 315/2020-28",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4b83d275-3dfe-4522-bcaf-75e1568f6026",
+  "source_sha256": "b47442cc0cbde0d1775b784b45ebba2898582dfaec92d10df9ce39b09beb3f67",
+  "source_id": "4b83d275-3dfe-4522-bcaf-75e1568f6026",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 315/2020-28",
+    "soud": "Obvodní soud pro Prahu 3",
+    "autor": "JUDr. Markéta Písaříková, , Ph.D.,",
+    "ecli": "ECLI:CZ:OSPH03:2021:17.C.315.2020.1",
+    "predmetRizeni": "1 885 Kč s příslušenstvím",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-02-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4b83d275-3dfe-4522-bcaf-75e1568f6026"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
