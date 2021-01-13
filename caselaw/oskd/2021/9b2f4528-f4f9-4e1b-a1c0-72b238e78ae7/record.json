@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:210.C.221.2020.1",
+  "docket": "210 C 221/2020-36",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9b2f4528-f4f9-4e1b-a1c0-72b238e78ae7",
+  "source_sha256": "02a4790da01309e8a44e3811181e80735f50b4590783da382246ef70fa878dda",
+  "source_id": "9b2f4528-f4f9-4e1b-a1c0-72b238e78ae7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "210 C 221/2020-36",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Eva Kučerová",
+    "ecli": "ECLI:CZ:OSKD:2021:210.C.221.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "pasivní legitimace",
+      "peněžité plnění",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 15 z. č. 168/1999 Sb.",
+      "§  nař. vl. č. 142/1994 Sb.",
+      "§ 1970 nař. vl. č. 531/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9b2f4528-f4f9-4e1b-a1c0-72b238e78ae7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
