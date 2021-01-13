@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jičíně",
+  "ecli": "ECLI:CZ:OSJC:2021:11.C.251.2019.1",
+  "docket": "11 C 251/2019-55",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/88f92773-0aad-4261-94c8-621e64805f5b",
+  "source_sha256": "d9752cdc4a7c5f613b8e1bd1608da6a03b1db661b95d762a58a47c3ed39650ea",
+  "source_id": "88f92773-0aad-4261-94c8-621e64805f5b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 251/2019-55",
+    "soud": "Okresní soud v Jičíně",
+    "autor": "Mgr. Tomáš Chrást",
+    "ecli": "ECLI:CZ:OSJC:2021:11.C.251.2019.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-03-01",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/88f92773-0aad-4261-94c8-621e64805f5b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
