@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:119.C.105.2020.1",
+  "docket": "119 C 105/2020-23",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/067cb29f-a527-4616-bae5-6bdfd41a8ec8",
+  "source_sha256": "42a3c368237dd9009fc2ac8a212b94d9a344ae2a4132dd7d03761bf4d9304819",
+  "source_id": "067cb29f-a527-4616-bae5-6bdfd41a8ec8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "119 C 105/2020-23",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Zuzana Skripová",
+    "ecli": "ECLI:CZ:MSBR:2021:119.C.105.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-03-15",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 687 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/067cb29f-a527-4616-bae5-6bdfd41a8ec8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
