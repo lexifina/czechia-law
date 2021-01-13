@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPJ:2021:10.C.263.2020.2",
+  "docket": "10 C 263/2020-17",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9ece9c0d-3bdf-4d60-b239-e003f4a095e1",
+  "source_sha256": "87c40296e244e83f5f66f6509749062deffed12e5603770346bf83b2b6293519",
+  "source_id": "9ece9c0d-3bdf-4d60-b239-e003f4a095e1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 263/2020-17",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Blanka Šibrová",
+    "ecli": "ECLI:CZ:OSPJ:2021:10.C.263.2020.2",
+    "predmetRizeni": "2 565 Kč s přísl.",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-03-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 348/2005 Sb.",
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 7 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9ece9c0d-3bdf-4d60-b239-e003f4a095e1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
