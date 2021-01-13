@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:13.C.57.2020 .1",
+  "docket": "13 C 57/2020-54",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/edcce22c-134d-48a0-a5d7-e6cfe8658ff7",
+  "source_sha256": "776508f95e47e614f3eca2fcad9944001ded23c676564c74678ab401cd8e2b99",
+  "source_id": "edcce22c-134d-48a0-a5d7-e6cfe8658ff7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 57/2020-54",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. Hana Greplová",
+    "ecli": "ECLI:CZ:OSPV:2021:13.C.57.2020 .1",
+    "predmetRizeni": "o [částka] s přísl.",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-02-26",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 89e z. č. 373/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/edcce22c-134d-48a0-a5d7-e6cfe8658ff7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
