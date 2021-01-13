@@ -1,0 +1,49 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:18.C.195.2018.1",
+  "docket": "18 C 195/2018-181",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/29a6e334-7098-4eb1-a684-10b120d0318c",
+  "source_sha256": "dd3a24343da5e0490f3065baecfc1cfe216e59b084c54ebb192b21c5b3450385",
+  "source_id": "29a6e334-7098-4eb1-a684-10b120d0318c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 195/2018-181",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "JUDr. Ivana Holubovská",
+    "ecli": "ECLI:CZ:OSKV:2021:18.C.195.2018.1",
+    "predmetRizeni": "152.629,54 Kč",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-06-15",
+    "klicovaSlova": [
+      "insolvenční návrh",
+      "konkurs",
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "ručení",
+      "smlouva kupní",
+      "smlouva o úvěru",
+      "spoluvlastnictví",
+      "vlastnictví bytů",
+      "zástavní právo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 1194 z. č. 89/2012 Sb.",
+      "§ 1186 z. č. 89/2012 Sb.",
+      "§ 397 z. č. 513/1991 Sb.",
+      "§ 20 z. č. 72/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/29a6e334-7098-4eb1-a684-10b120d0318c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
