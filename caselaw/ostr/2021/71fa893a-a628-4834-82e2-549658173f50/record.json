@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Třebíči",
+  "ecli": "ECLI:CZ:OSTR:2021:6.C.280.2020.1",
+  "docket": "6 C 280/2020-13",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/71fa893a-a628-4834-82e2-549658173f50",
+  "source_sha256": "53c3c678d2cdbd3b30f5c080b05c7bb512c9ffda3e54628790e53197989cbb0d",
+  "source_id": "71fa893a-a628-4834-82e2-549658173f50",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 280/2020-13",
+    "soud": "Okresní soud v Třebíči",
+    "autor": "JUDr.Mgr. Jan Hurdík, Ph.D.",
+    "ecli": "ECLI:CZ:OSTR:2021:6.C.280.2020.1",
+    "predmetRizeni": "zaplacení částky 13 040 Kč s příslušenstvím",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-02-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 201 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/71fa893a-a628-4834-82e2-549658173f50"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
