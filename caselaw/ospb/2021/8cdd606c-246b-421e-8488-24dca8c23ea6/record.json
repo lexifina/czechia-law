@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:8.C.81.2020.3",
+  "docket": "8 C 81/2020-30",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8cdd606c-246b-421e-8488-24dca8c23ea6",
+  "source_sha256": "274d8284a032fd14d50d929bba1497f1589baade7b8c5d135f0af215dff5e96d",
+  "source_id": "8cdd606c-246b-421e-8488-24dca8c23ea6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 81/2020-30",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Zuzana Masnerová",
+    "ecli": "ECLI:CZ:OSPB:2021:8.C.81.2020.3",
+    "predmetRizeni": "zaplacení 31 150 Kč s příslušenstvím",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-02-18",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8cdd606c-246b-421e-8488-24dca8c23ea6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
