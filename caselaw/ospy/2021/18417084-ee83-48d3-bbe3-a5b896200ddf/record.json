@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:24.C.76.2020.1",
+  "docket": "24 C 76/2020-81",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/18417084-ee83-48d3-bbe3-a5b896200ddf",
+  "source_sha256": "5f12994acfa58db932bef3ed61fa829c74dc3fb21f12ccb932f6405d0b89bec7",
+  "source_id": "18417084-ee83-48d3-bbe3-a5b896200ddf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 76/2020-81",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Hana Zdeňková",
+    "ecli": "ECLI:CZ:OSPY:2021:24.C.76.2020.1",
+    "predmetRizeni": "o zaplacení částky [částka] s přísl.",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-05-24",
+    "klicovaSlova": [
+      "držba",
+      "peněžité plnění",
+      "smlouva o dílo",
+      "smlouva směnná",
+      "škoda na nemovité věci",
+      "veřejná listina",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2926 z. č. 89/2012 Sb.",
+      "§ 2906 z. č. 89/2012 Sb.",
+      "§ 2908 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/18417084-ee83-48d3-bbe3-a5b896200ddf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
