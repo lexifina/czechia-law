@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:22.C.30.2020.1",
+  "docket": "22 C 30/2020-18",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/343f9799-2b1b-4ca4-8fcb-435e15e131a7",
+  "source_sha256": "34c9407af0e30966ebd0844a0c254c6f9e8073e21a98547f3bd751b0a467bf98",
+  "source_id": "343f9799-2b1b-4ca4-8fcb-435e15e131a7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 30/2020-18",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Kateřina Cvachová",
+    "ecli": "ECLI:CZ:OSDC:2021:22.C.30.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-02-11",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/343f9799-2b1b-4ca4-8fcb-435e15e131a7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
