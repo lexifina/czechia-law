@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:7.C.40.2020.1",
+  "docket": "7 C 40/2020-17",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e7001ca5-b592-41b8-ba1f-095b51cca560",
+  "source_sha256": "140f666d99eff84b0c50244a224cca3b6253243f005ced46c35bc0552436848f",
+  "source_id": "e7001ca5-b592-41b8-ba1f-095b51cca560",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 40/2020-17",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Jarmila Tůmová",
+    "ecli": "ECLI:CZ:OSKD:2021:7.C.40.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-01-29",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e7001ca5-b592-41b8-ba1f-095b51cca560"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
