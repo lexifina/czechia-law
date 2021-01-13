@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:26.C.62.2020.2",
+  "docket": "26 C 62/2020-29",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3e5441a6-ad84-41d5-a2c6-f4a920bdda62",
+  "source_sha256": "d70be81d14c1cc6a94d6fe87d6b9dbb7b5d428673ed79399fb65575a74f94495",
+  "source_id": "3e5441a6-ad84-41d5-a2c6-f4a920bdda62",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 62/2020-29",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Diana Fujdiak",
+    "ecli": "ECLI:CZ:OSDC:2021:26.C.62.2020.2",
+    "predmetRizeni": "zaplacení [částka] s přísl.",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-03-05",
+    "klicovaSlova": [
+      "náhrada nemajetkové újmy",
+      "nemajetková újma",
+      "peněžité plnění",
+      "rozsudek doplňující",
+      "zadostiučinění / satisfakce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 15 z. č. 82/1998 Sb.",
+      "§ 32 z. č. 82/1998 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3e5441a6-ad84-41d5-a2c6-f4a920bdda62"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
