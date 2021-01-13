@@ -1,0 +1,31 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:74.C.272.2020.1",
+  "docket": "74 C 272/2020-17",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9ff9ff84-d513-472e-a2b9-45a3ed2bd532",
+  "source_sha256": "ae00fe190cdb44ac27af41c5acda94b00bedad201addeacb3d1d85f6fe1db454",
+  "source_id": "9ff9ff84-d513-472e-a2b9-45a3ed2bd532",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "74 C 272/2020-17",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Petra Kaplanová",
+    "ecli": "ECLI:CZ:OSUL:2021:74.C.272.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-04-19",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 43 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 0/0 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9ff9ff84-d513-472e-a2b9-45a3ed2bd532"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
