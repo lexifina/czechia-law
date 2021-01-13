@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Litoměřicích",
+  "ecli": "ECLI:CZ:OSLT:2021:20.C.443.2015.1",
+  "docket": "20 C 443/2015-52",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/13b92ac7-cdd7-4957-90de-5b0f5abe562d",
+  "source_sha256": "fa4a0e4b88b2d8cc3915899598a3d8422f7fa182a15e25504bf7905cf0b576f1",
+  "source_id": "13b92ac7-cdd7-4957-90de-5b0f5abe562d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 443/2015-52",
+    "soud": "Okresní soud v Litoměřicích",
+    "autor": "JUDr. Dagmar Brachová",
+    "ecli": "ECLI:CZ:OSLT:2021:20.C.443.2015.1",
+    "predmetRizeni": "O zaplacení 7 049 Kč s příslušenstvím",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-02-17",
+    "klicovaSlova": [
+      "oddlužení",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 414 z. č. 182/2006 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 151od z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/13b92ac7-cdd7-4957-90de-5b0f5abe562d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
