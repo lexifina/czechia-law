@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:16.C.183.2019.11",
+  "docket": "16 C 183/2019-180",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/74c219fb-4309-4759-877e-59aa9dec042b",
+  "source_sha256": "f2beb74c227f9798208a5c052e205a95feece66120d1cbbe54c05c43e39042a5",
+  "source_id": "74c219fb-4309-4759-877e-59aa9dec042b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 183/2019-180",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Jitka Pěnkavová",
+    "ecli": "ECLI:CZ:OSOV:2021:16.C.183.2019.11",
+    "predmetRizeni": "o zrušení a vypořádání podílového spoluvlastnictví",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "dražba",
+      "peněžité plnění",
+      "podílové spoluvlastnictví",
+      "spoluvlastnictví",
+      "veřejná dražba",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1140 z. č. 89/2012 Sb.",
+      "§ 1147 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/74c219fb-4309-4759-877e-59aa9dec042b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
