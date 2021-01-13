@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2021:7.C.234.2020.1",
+  "docket": "7 C 234/2020-21",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c7332bcb-4f18-44c3-8b3e-753d46caa165",
+  "source_sha256": "a3ef1023a791b80f7f71c017ac00f33a9386838a45008f5d402d3a53f180f62b",
+  "source_id": "c7332bcb-4f18-44c3-8b3e-753d46caa165",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 234/2020-21",
+    "soud": "Okresní soud v Přerově",
+    "autor": "JUDr. Margita Marková",
+    "ecli": "ECLI:CZ:OSPR:2021:7.C.234.2020.1",
+    "predmetRizeni": "rozvod manželství,",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-02-19",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 757 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c7332bcb-4f18-44c3-8b3e-753d46caa165"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
