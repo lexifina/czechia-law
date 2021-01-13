@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:48.C.151.2019.1",
+  "docket": "48 C 151/2019-80",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/861e7e68-a869-4971-a347-25dc6fb27299",
+  "source_sha256": "3afa9ef947852a8d2dfb54ace11c9cba357d450997009f012d1e35350f9ce2aa",
+  "source_id": "861e7e68-a869-4971-a347-25dc6fb27299",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "48 C 151/2019-80",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "Mgr. Alena Pavlíčková",
+    "ecli": "ECLI:CZ:OSPH04:2021:48.C.151.2019.1",
+    "predmetRizeni": "zaplacení 34 000 Kč s příslušenstvím",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-08-19",
+    "klicovaSlova": [
+      "elektronický podpis",
+      "peněžité plnění",
+      "pracovněprávní vztahy",
+      "skončení pracovního poměru",
+      "smlouva pracovní",
+      "zástavní právo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 118b z. č. 99/1963 Sb.",
+      "§ 556 z. č. 89/2012 Sb.",
+      "§ 301 z. č. 262/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/861e7e68-a869-4971-a347-25dc6fb27299"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
