@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Uherském Hradišti",
+  "ecli": "ECLI:CZ:OSUH:2021:11.C.203.2020.1",
+  "docket": "11 C 203/2020-34",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f0c027f9-5c44-4dc0-9aed-5c301b5b3580",
+  "source_sha256": "29c14996600b4fd41847e0270ba0c6937457daa7f2bd0399eae3c77726fbd081",
+  "source_id": "f0c027f9-5c44-4dc0-9aed-5c301b5b3580",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 203/2020-34",
+    "soud": "Okresní soud v Uherském Hradišti",
+    "autor": "Mgr. Ilona Miklová",
+    "ecli": "ECLI:CZ:OSUH:2021:11.C.203.2020.1",
+    "predmetRizeni": "1.872 Kč s příslušenstvím",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f0c027f9-5c44-4dc0-9aed-5c301b5b3580"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
