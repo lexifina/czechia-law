@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:17.C.449.2020.1",
+  "docket": "17 C 449/2020-18",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b14e462c-a5b2-4a2c-9aa4-6582b51af5ef",
+  "source_sha256": "6c5d97c974a49eb16659c2e857b6927eb7b4c005072e62bd193ad17e22ef38b1",
+  "source_id": "b14e462c-a5b2-4a2c-9aa4-6582b51af5ef",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 449/2020-18",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Jan Uhlíř",
+    "ecli": "ECLI:CZ:OSLI:2021:17.C.449.2020.1",
+    "predmetRizeni": "4 572 Kč s příslušenstvím",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-02-26",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b14e462c-a5b2-4a2c-9aa4-6582b51af5ef"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
