@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:207.C.207.2020.1",
+  "docket": "207 C 207/2020",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d0da75b8-3fc7-4ea2-84d1-dc80307aceb5",
+  "source_sha256": "3e7c05384c9d2e64215bcad0c1c87cb65537da4deef3fd2edd4b6d6c52be42aa",
+  "source_id": "d0da75b8-3fc7-4ea2-84d1-dc80307aceb5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "207 C 207/2020",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Jarmila Tůmová",
+    "ecli": "ECLI:CZ:OSKD:2021:207.C.207.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-07-15",
+    "klicovaSlova": [
+      "elektronický podpis",
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 562 z. č. 89/2012 Sb.",
+      "§ 561 z. č. 89/2012 Sb.",
+      "§ 104 z. č. 257/2016 Sb.",
+      "§ 7 z. č. 297/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d0da75b8-3fc7-4ea2-84d1-dc80307aceb5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
