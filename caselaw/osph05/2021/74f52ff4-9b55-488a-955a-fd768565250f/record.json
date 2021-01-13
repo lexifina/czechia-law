@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:7.C.42.2020.3",
+  "docket": "7 C 42/2020-23",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/74f52ff4-9b55-488a-955a-fd768565250f",
+  "source_sha256": "4babe679efb0358520c17d057057d2a226f0e694bfd50b7fb8cf273013d75be8",
+  "source_id": "74f52ff4-9b55-488a-955a-fd768565250f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 42/2020-23",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Lenka Eliášová",
+    "ecli": "ECLI:CZ:OSPH05:2021:7.C.42.2020.3",
+    "predmetRizeni": "O zaplacení 5 070 Kč s příslušenstvím",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-02-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "telekomunikace"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 284/2009 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/74f52ff4-9b55-488a-955a-fd768565250f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
