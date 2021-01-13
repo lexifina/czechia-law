@@ -1,0 +1,48 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:42.C.99.2018.1",
+  "docket": "42 C 99/2018-124",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7460fe9b-421e-4422-a34b-8c171b877be9",
+  "source_sha256": "23870cd8f64b9238f60ffb2536cbae8db0e201766d195157f20ddea71f6d233c",
+  "source_id": "7460fe9b-421e-4422-a34b-8c171b877be9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 99/2018-124",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "JUDr. Kateřina Takácsová",
+    "ecli": "ECLI:CZ:OSPH02:2021:42.C.99.2018.1",
+    "predmetRizeni": "o zaplacení 86 599 687,98 Kč s příslušenstvím",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-08-18",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "dražba",
+      "notářský zápis",
+      "odpovědnost státu za škodu",
+      "peněžité plnění",
+      "předkupní právo",
+      "smlouva nájemní",
+      "ušlý zisk",
+      "zástavní právo",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§  z. č. 82/1998 Sb.",
+      "§ 268 z. č. 99/1963 Sb.",
+      "§ 32 z. č. 99/1963 Sb.",
+      "§ 274 z. č. 99/1963 Sb.",
+      "§ 62 z. č. 358/1992 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7460fe9b-421e-4422-a34b-8c171b877be9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
