@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Orlicí",
+  "ecli": "ECLI:CZ:OSUO:2021:12.C.203.2020.1",
+  "docket": "12 C 203/2020-17",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2eda1dc3-161d-4bb4-8fa2-fb1c3439aa34",
+  "source_sha256": "88970bf02b4e20735f701c689dddd551d0924544ad7c5fc8a306755f38a949da",
+  "source_id": "2eda1dc3-161d-4bb4-8fa2-fb1c3439aa34",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 203/2020-17",
+    "soud": "Okresní soud v Ústí nad Orlicí",
+    "autor": "JUDr. Radka Benešová",
+    "ecli": "ECLI:CZ:OSUO:2021:12.C.203.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-03-29",
+    "klicovaSlova": [
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 15 z. č. 168/1999 Sb.",
+      "§ 79 z. č. 99/1963 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 8 z. č. 56/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2eda1dc3-161d-4bb4-8fa2-fb1c3439aa34"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
