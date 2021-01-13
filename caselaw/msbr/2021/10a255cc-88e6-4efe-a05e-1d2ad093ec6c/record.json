@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:21.C.228.2020.1",
+  "docket": "21 C 228/2020-20",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/10a255cc-88e6-4efe-a05e-1d2ad093ec6c",
+  "source_sha256": "5170217b04454783d3c9a12d1c90c8c4a58950b3dda388e706805ca0a7a910dd",
+  "source_id": "10a255cc-88e6-4efe-a05e-1d2ad093ec6c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 228/2020-20",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Hana Šťastná",
+    "ecli": "ECLI:CZ:MSBR:2021:21.C.228.2020.1",
+    "predmetRizeni": "zaplacení 1.000 Kč - pokuta",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/10a255cc-88e6-4efe-a05e-1d2ad093ec6c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
