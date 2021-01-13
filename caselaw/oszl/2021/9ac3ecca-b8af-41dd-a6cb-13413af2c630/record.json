@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2021:36.C.343.2020.1",
+  "docket": "36 C 343/2020-77",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9ac3ecca-b8af-41dd-a6cb-13413af2c630",
+  "source_sha256": "29ce5047a94d9a2b3b9cadda3b84c78feb95ba473dee3f890364ff9783b4c759",
+  "source_id": "9ac3ecca-b8af-41dd-a6cb-13413af2c630",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 343/2020-77",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "Mgr. Dana Matoušová",
+    "ecli": "ECLI:CZ:OSZL:2021:36.C.343.2020.1",
+    "predmetRizeni": "zaplacení 17 676,92 Kč s příslušenstvím",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-09-01",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 573 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9ac3ecca-b8af-41dd-a6cb-13413af2c630"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
