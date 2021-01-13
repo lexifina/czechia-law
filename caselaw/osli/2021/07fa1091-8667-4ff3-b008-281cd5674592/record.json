@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:19.C.201.2019.1",
+  "docket": "19 C 201/2019-47",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/07fa1091-8667-4ff3-b008-281cd5674592",
+  "source_sha256": "dcc1194a5a587c47d9f78da65ecd710bda43817367362e6bf8786f5a1b0c0c5b",
+  "source_id": "07fa1091-8667-4ff3-b008-281cd5674592",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 201/2019-47",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Stanislav Štěpánek",
+    "ecli": "ECLI:CZ:OSLI:2021:19.C.201.2019.1",
+    "predmetRizeni": "návrh na vydání PR - zaplacení částky 1.000.000 Kč s příslušenstvím - bezdůvodné obohacení",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-03-05",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "vzájemné plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 629 z. č. 89/2012 Sb.",
+      "§ 619 z. č. 89/2012 Sb.",
+      "§ 621 z. č. 89/2012 Sb.",
+      "§ 2997 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/07fa1091-8667-4ff3-b008-281cd5674592"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
