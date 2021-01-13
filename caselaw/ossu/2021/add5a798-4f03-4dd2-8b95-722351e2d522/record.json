@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2021:8.C.165.2020.1",
+  "docket": "8 C 165/2020-18",
+  "date": "2021-01-13",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/add5a798-4f03-4dd2-8b95-722351e2d522",
+  "source_sha256": "a03ff03605d6a9d6ac007aec61e7acf26c7dade026a0f4a492662fc46df8e795",
+  "source_id": "add5a798-4f03-4dd2-8b95-722351e2d522",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 165/2020-18",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "Mgr. Pavel Janků",
+    "ecli": "ECLI:CZ:OSSU:2021:8.C.165.2020.1",
+    "predmetRizeni": "o 2.389 Kč s příslušenstvím",
+    "datumVydani": "2021-01-13",
+    "datumZverejneni": "2021-04-01",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 458/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/add5a798-4f03-4dd2-8b95-722351e2d522"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
