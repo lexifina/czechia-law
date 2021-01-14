@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2021:67.C.190.2020.1",
+  "docket": "67 C 190/2020-36",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/20a5afb6-5b76-4fe9-a028-691727760f7a",
+  "source_sha256": "fb790442742cfb7a796e5d9bc562a0254f5da6a07a6f5b8e2550679394f7e121",
+  "source_id": "20a5afb6-5b76-4fe9-a028-691727760f7a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "67 C 190/2020-36",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "Mgr. Lenka Kloudová",
+    "ecli": "ECLI:CZ:OSPH09:2021:67.C.190.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-02-03",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 89/2012 Sb.",
+      "§ 23 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/20a5afb6-5b76-4fe9-a028-691727760f7a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
