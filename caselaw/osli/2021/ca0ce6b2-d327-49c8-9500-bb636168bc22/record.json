@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:22.C.106.2020.1",
+  "docket": "22 C 106/2020-16",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ca0ce6b2-d327-49c8-9500-bb636168bc22",
+  "source_sha256": "a4df07eb958d55f51d3c85c02e6c058668b206eac936867c3a8c679aa08f66b3",
+  "source_id": "ca0ce6b2-d327-49c8-9500-bb636168bc22",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 106/2020-16",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Tomáš Kopal",
+    "ecli": "ECLI:CZ:OSLI:2021:22.C.106.2020.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 66.558,00 Kč s přísl.",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-03-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1802 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb.",
+      "§ 1969 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ca0ce6b2-d327-49c8-9500-bb636168bc22"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
