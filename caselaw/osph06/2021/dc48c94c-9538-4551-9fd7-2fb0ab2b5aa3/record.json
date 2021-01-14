@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:28.C.353.2020.1",
+  "docket": "28 C 353/2020-27",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dc48c94c-9538-4551-9fd7-2fb0ab2b5aa3",
+  "source_sha256": "780e020207ec47d6cf38e07fc5e6c7cb23b7c998c295fd5e8f443b9c870aa98f",
+  "source_id": "dc48c94c-9538-4551-9fd7-2fb0ab2b5aa3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 353/2020-27",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "JUDr. Hana Šedivá",
+    "ecli": "ECLI:CZ:OSPH06:2021:28.C.353.2020.1",
+    "predmetRizeni": "o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-02-25",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 175/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dc48c94c-9538-4551-9fd7-2fb0ab2b5aa3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
