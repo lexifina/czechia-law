@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:11.C.240.2020.1",
+  "docket": "11 C 240/2020-27",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3e139955-0759-48fd-8eb3-408f0d4edbc5",
+  "source_sha256": "43bc969dd01ab9937f5e56614fd82659bef999c7fdae76cac98ab35e499820fa",
+  "source_id": "3e139955-0759-48fd-8eb3-408f0d4edbc5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 240/2020-27",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "Milan Virag",
+    "ecli": "ECLI:CZ:OSTP:2021:11.C.240.2020.1",
+    "predmetRizeni": "zaplacení 11 394 Kč s příslušenstvím",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 14 vyhl. č. 120/2014 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3e139955-0759-48fd-8eb3-408f0d4edbc5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
