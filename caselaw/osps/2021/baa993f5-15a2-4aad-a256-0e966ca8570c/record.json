@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:4.C.332.2020.2",
+  "docket": "4 C 332/2020-18",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/baa993f5-15a2-4aad-a256-0e966ca8570c",
+  "source_sha256": "426eb8dd18bad30d2c992e900cf7def20dbd55d04fcdc2fa93be33a451ac9bd6",
+  "source_id": "baa993f5-15a2-4aad-a256-0e966ca8570c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 332/2020-18",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "Mgr. Marek Poláček",
+    "ecli": "ECLI:CZ:OSPS:2021:4.C.332.2020.2",
+    "predmetRizeni": "2 446 Kč s přísl.",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 12/1a z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/baa993f5-15a2-4aad-a256-0e966ca8570c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
