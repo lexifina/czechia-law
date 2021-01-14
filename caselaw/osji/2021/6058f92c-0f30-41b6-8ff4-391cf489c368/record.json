@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2021:8.C.164.2020.1",
+  "docket": "8 C 164/2020-16",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6058f92c-0f30-41b6-8ff4-391cf489c368",
+  "source_sha256": "7271344754655e9596e205cf302191290d851b1051a1a5303de332770b3281e4",
+  "source_id": "6058f92c-0f30-41b6-8ff4-391cf489c368",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 164/2020-16",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "Mgr. Radek Pavlačka",
+    "ecli": "ECLI:CZ:OSJI:2021:8.C.164.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-03-02",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6058f92c-0f30-41b6-8ff4-391cf489c368"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
