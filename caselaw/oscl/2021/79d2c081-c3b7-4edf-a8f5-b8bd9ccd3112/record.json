@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:15.C.304.2020.1",
+  "docket": "15 C 304/2020-33",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/79d2c081-c3b7-4edf-a8f5-b8bd9ccd3112",
+  "source_sha256": "547f65df783628fa912bf6d2dcfb45c1db3c5f92558b4a09e28c65e586f7f7a4",
+  "source_id": "79d2c081-c3b7-4edf-a8f5-b8bd9ccd3112",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 304/2020-33",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "JUDr. Alena Divíšková",
+    "ecli": "ECLI:CZ:OSCL:2021:15.C.304.2020.1",
+    "predmetRizeni": "O zaplacení 2 136 Kč s příslušenstvím",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-02-17",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 2758od z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/79d2c081-c3b7-4edf-a8f5-b8bd9ccd3112"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
