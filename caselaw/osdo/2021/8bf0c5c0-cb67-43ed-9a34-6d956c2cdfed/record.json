@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:7.C.253.2020.1",
+  "docket": "7 C 253/2020-14",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8bf0c5c0-cb67-43ed-9a34-6d956c2cdfed",
+  "source_sha256": "55d7659bb55e86aa1ecc33cc4d082316de8b8ae0cd9b02db4ae566914bf3675e",
+  "source_id": "8bf0c5c0-cb67-43ed-9a34-6d956c2cdfed",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 253/2020-14",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "JUDr. Kateřina Martincová",
+    "ecli": "ECLI:CZ:OSDO:2021:7.C.253.2020.1",
+    "predmetRizeni": "O zaplacení 3 065 Kč s příslušenstvím",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-03-12",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8bf0c5c0-cb67-43ed-9a34-6d956c2cdfed"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
