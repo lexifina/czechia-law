@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2021:10.C.316.2020.1",
+  "docket": "10 C 316/2020-43",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a1cb5f04-b795-47aa-afc9-5684d07cf3e8",
+  "source_sha256": "b15698b6796a14a25daf0fe676bb304f9b83aabb3ff8e8bffe3972cefa275fb9",
+  "source_id": "a1cb5f04-b795-47aa-afc9-5684d07cf3e8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 316/2020-43",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "Mgr. Ladislav Máša",
+    "ecli": "ECLI:CZ:OSSY:2021:10.C.316.2020.1",
+    "predmetRizeni": "o zaplacení 1 658 Kč s příslušenstvím",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-07-28",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 2804 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a1cb5f04-b795-47aa-afc9-5684d07cf3e8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
