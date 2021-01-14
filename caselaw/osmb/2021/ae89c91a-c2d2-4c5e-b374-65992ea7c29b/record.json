@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2021:9.C.349.2020.1",
+  "docket": "9 C 349/2020-18",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ae89c91a-c2d2-4c5e-b374-65992ea7c29b",
+  "source_sha256": "963f52dd3c7bd5102b87c57a6c223051ca672db0f2cad440303ba0d832944ec6",
+  "source_id": "ae89c91a-c2d2-4c5e-b374-65992ea7c29b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 349/2020-18",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "JUDr. Helena Hrubá, Ph.D.",
+    "ecli": "ECLI:CZ:OSMB:2021:9.C.349.2020.1",
+    "predmetRizeni": "o zaplacení 11 544 Kč s příslušenstvím",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-03-01",
+    "klicovaSlova": [
+      "rozsudek doplňující",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 166 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ae89c91a-c2d2-4c5e-b374-65992ea7c29b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
