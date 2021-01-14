@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2021:18.C.274.2020.1",
+  "docket": "18 C 274/2020-53",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/675290c5-7424-4a8e-bcbd-6573b778a49e",
+  "source_sha256": "95f8f3ba546c0faba22fb963eef3857357e895ab05c42714227f52c845fd9c03",
+  "source_id": "675290c5-7424-4a8e-bcbd-6573b778a49e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 274/2020-53",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "JUDr. Petra Pipková",
+    "ecli": "ECLI:CZ:OSJI:2021:18.C.274.2020.1",
+    "predmetRizeni": "o 1 362 Kč s příslušenstvím",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-04-06",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2783 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/675290c5-7424-4a8e-bcbd-6573b778a49e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
