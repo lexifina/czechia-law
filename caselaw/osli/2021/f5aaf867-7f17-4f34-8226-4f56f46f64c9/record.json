@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:12.C.289.2020.1",
+  "docket": "12 C 289/2020-28",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f5aaf867-7f17-4f34-8226-4f56f46f64c9",
+  "source_sha256": "25fff52ae5759484b7e14a799e4500f58a6818d7bb48241aeef69e987ec01fa0",
+  "source_id": "f5aaf867-7f17-4f34-8226-4f56f46f64c9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 289/2020-28",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Renata Urbánková",
+    "ecli": "ECLI:CZ:OSLI:2021:12.C.289.2020.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 2.040,00 Kč s přísl.",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f5aaf867-7f17-4f34-8226-4f56f46f64c9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
