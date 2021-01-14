@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:24.C.334.2020.1",
+  "docket": "24 C 334/2020-42",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5b6de370-8478-453f-81a6-f55367c6a01e",
+  "source_sha256": "699f02c7f1ab169b3b5197d8692c54ea876498899f1d199ee04bb3cf47f5c762",
+  "source_id": "5b6de370-8478-453f-81a6-f55367c6a01e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 334/2020-42",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Martina Štorkánová",
+    "ecli": "ECLI:CZ:OSTA:2021:24.C.334.2020.1",
+    "predmetRizeni": "o zaplacení 22 580 Kč s příslušenstvím",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-02-25",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 2246 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5b6de370-8478-453f-81a6-f55367c6a01e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
