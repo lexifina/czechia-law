@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2021:16.C.199.2020.1",
+  "docket": "16 C 199/2020-58",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1a4bc4fd-1561-4ea6-838c-9c383fa04bde",
+  "source_sha256": "2916dd2f29ac145594937978f17ef4755bf1bca3a0ac3a8cba9c7a46ed7543f1",
+  "source_id": "1a4bc4fd-1561-4ea6-838c-9c383fa04bde",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 199/2020-58",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "JUDr. Marcela Mrkalová",
+    "ecli": "ECLI:CZ:OSBU:2021:16.C.199.2020.1",
+    "predmetRizeni": "113.315,63 Kč s příslušenstvím",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-04-13",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "insolvence",
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1a4bc4fd-1561-4ea6-838c-9c383fa04bde"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
