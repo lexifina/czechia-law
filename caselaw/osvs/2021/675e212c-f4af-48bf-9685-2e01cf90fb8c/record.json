@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně",
+  "ecli": "ECLI:CZ:OSVS:2021:7.C.43.2020.1",
+  "docket": "7 C 43/2020-30",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/675e212c-f4af-48bf-9685-2e01cf90fb8c",
+  "source_sha256": "771c6ad2a418b72ef001ec32a305254810b9b785e2dadf5df13676f8235ee642",
+  "source_id": "675e212c-f4af-48bf-9685-2e01cf90fb8c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 43/2020-30",
+    "soud": "Okresní soud ve Vsetíně",
+    "autor": "JUDr. Lenka Fialová",
+    "ecli": "ECLI:CZ:OSVS:2021:7.C.43.2020.1",
+    "predmetRizeni": "O zaplacení 1 500 Kč s příslušenstvím",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-05-17",
+    "klicovaSlova": [
+      "jízdné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 581 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/675e212c-f4af-48bf-9685-2e01cf90fb8c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
