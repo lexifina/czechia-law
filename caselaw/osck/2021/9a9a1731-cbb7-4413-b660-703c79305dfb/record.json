@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2021:5.C.353.2020.3",
+  "docket": "5 C 353/2020-11",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9a9a1731-cbb7-4413-b660-703c79305dfb",
+  "source_sha256": "cce1fcf1ad4646d89091050c8ea8ae0d29288db43931d018ec8970530caa434e",
+  "source_id": "9a9a1731-cbb7-4413-b660-703c79305dfb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 353/2020-11",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "JUDr. Ivana Paloučková",
+    "ecli": "ECLI:CZ:OSCK:2021:5.C.353.2020.3",
+    "predmetRizeni": "o rozvod",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-02-25",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 759 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9a9a1731-cbb7-4413-b660-703c79305dfb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
