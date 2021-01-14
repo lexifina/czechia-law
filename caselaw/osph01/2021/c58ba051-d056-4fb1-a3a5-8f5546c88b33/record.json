@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:12.C.146.2020.1",
+  "docket": "12 C 146/2020-24",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c58ba051-d056-4fb1-a3a5-8f5546c88b33",
+  "source_sha256": "be3f5feaf3f4726e975d57bd5cba157340f23eeace94c8e07f974ed989ecacf5",
+  "source_id": "c58ba051-d056-4fb1-a3a5-8f5546c88b33",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 146/2020-24",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Kateřina Tluchořová",
+    "ecli": "ECLI:CZ:OSPH01:2021:12.C.146.2020.1",
+    "predmetRizeni": "o zaplacení 49 693,98 Kč s příslušenstvím",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-03-31",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§  nař. vl. č. 142/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c58ba051-d056-4fb1-a3a5-8f5546c88b33"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
