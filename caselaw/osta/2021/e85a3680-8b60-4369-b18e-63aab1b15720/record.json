@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:2.C.259.2020.1",
+  "docket": "2 C 259/2020-19",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e85a3680-8b60-4369-b18e-63aab1b15720",
+  "source_sha256": "948db0c9d48becc984919a0276233679a9627ac89a4d55f3dce6b9af728d05c5",
+  "source_id": "e85a3680-8b60-4369-b18e-63aab1b15720",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "2 C 259/2020-19",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Martina Štorkánová",
+    "ecli": "ECLI:CZ:OSTA:2021:2.C.259.2020.1",
+    "predmetRizeni": "O zaplacení 4 040 Kč s příslušenstvím",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-02-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 0/0 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e85a3680-8b60-4369-b18e-63aab1b15720"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
