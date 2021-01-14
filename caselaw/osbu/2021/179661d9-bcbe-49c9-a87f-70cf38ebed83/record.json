@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2021:19.C.274.2020.1",
+  "docket": "19 C 274/2020-12",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/179661d9-bcbe-49c9-a87f-70cf38ebed83",
+  "source_sha256": "2bdf9e041ebd7e20f1f3ab9949bb4aab3338b7f7ac990659d0ccafdbd7405815",
+  "source_id": "179661d9-bcbe-49c9-a87f-70cf38ebed83",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 274/2020-12",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "Mgr. Pavel Dočkal",
+    "ecli": "ECLI:CZ:OSBU:2021:19.C.274.2020.1",
+    "predmetRizeni": "o zaplacení částky 810 Kč s příslušenstvím",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 348/2005 Sb.",
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 6 z. č. 348/2005 Sb.",
+      "§ 251 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/179661d9-bcbe-49c9-a87f-70cf38ebed83"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
