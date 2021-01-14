@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:19.C.245.2020.1",
+  "docket": "19 C 245/2020-24",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ad9a0b0b-0bb0-4dc7-9710-5f09e4f26544",
+  "source_sha256": "039b464b47f408b4728ec2635ffff9b15f2bbef0a056bbe0ae61c8981cfcb9f6",
+  "source_id": "ad9a0b0b-0bb0-4dc7-9710-5f09e4f26544",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 245/2020-24",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "Mgr. Tomáš Foltýn, Ph.D.",
+    "ecli": "ECLI:CZ:OSDO:2021:19.C.245.2020.1",
+    "predmetRizeni": "O zaplacení 1 268 Kč s příslušenstvím",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-03-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 574 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ad9a0b0b-0bb0-4dc7-9710-5f09e4f26544"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
