@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:30.C.100.2020.1",
+  "docket": "30 C 100/2020-19",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/172a11b5-bed0-4120-a9d3-c50f20ee1d87",
+  "source_sha256": "1d3707f1a0381edcfd75d3b15dc7453e503b11de11f1d4488e9d5f4932d3d4e6",
+  "source_id": "172a11b5-bed0-4120-a9d3-c50f20ee1d87",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 100/2020-19",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "JUDr. Lucie Laura Penn",
+    "ecli": "ECLI:CZ:OSPH01:2021:30.C.100.2020.1",
+    "predmetRizeni": "o zaplacení 975 Kč s příslušenstvím",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-02-09",
+    "klicovaSlova": [
+      "bolestné",
+      "nemajetková újma",
+      "peněžité plnění",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 13 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 168/1999 Sb.",
+      "§ 2958 vyhl. č. 440/2001 Sb.",
+      "§ 2958 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/172a11b5-bed0-4120-a9d3-c50f20ee1d87"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
