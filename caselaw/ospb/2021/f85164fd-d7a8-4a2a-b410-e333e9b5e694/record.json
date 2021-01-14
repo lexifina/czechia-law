@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:14.C.193.2020.1",
+  "docket": "14 C 193/2020",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f85164fd-d7a8-4a2a-b410-e333e9b5e694",
+  "source_sha256": "6f5a7730c5da1f596b209bbc8802cd37a09d1020ad499844e01f48e8358e97a3",
+  "source_id": "f85164fd-d7a8-4a2a-b410-e333e9b5e694",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 193/2020",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Josef Pelcner",
+    "ecli": "ECLI:CZ:OSPB:2021:14.C.193.2020.1",
+    "predmetRizeni": "zaplacení 16 482 Kč s příslušenstvím",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-03-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1968, 1970 z. č. 89/2012 Sb.",
+      "§ 9, 87 z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f85164fd-d7a8-4a2a-b410-e333e9b5e694"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
