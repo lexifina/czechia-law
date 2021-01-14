@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Blansku",
+  "ecli": "ECLI:CZ:OSBK:2021:11.C.310.2020.1",
+  "docket": "11 C 310/2020-38",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7a36d2c8-8243-49e2-a9b0-a47afb2ef260",
+  "source_sha256": "e9b2f681174047e295a5677af1405b5f87198c4df2388d861b89009e057bfbba",
+  "source_id": "7a36d2c8-8243-49e2-a9b0-a47afb2ef260",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 310/2020-38",
+    "soud": "Okresní soud v Blansku",
+    "autor": "JUDr. Tereza Richterová",
+    "ecli": "ECLI:CZ:OSBK:2021:11.C.310.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-02-05",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7a36d2c8-8243-49e2-a9b0-a47afb2ef260"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
