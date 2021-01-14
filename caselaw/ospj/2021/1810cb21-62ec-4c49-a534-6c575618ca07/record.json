@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPJ:2021:9.C.174.2020.2",
+  "docket": "9 C 174/2020-26",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1810cb21-62ec-4c49-a534-6c575618ca07",
+  "source_sha256": "9cd936ed4825edb847c80b95d840ef9fa51acb33511caed89b08e91b6d61d9fd",
+  "source_id": "1810cb21-62ec-4c49-a534-6c575618ca07",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 174/2020-26",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Tereza Bušková",
+    "ecli": "ECLI:CZ:OSPJ:2021:9.C.174.2020.2",
+    "predmetRizeni": "2 510 Kč s přísl.",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 1215/2012 Sb.",
+      "§  nař. vl. č. 864/2007 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1810cb21-62ec-4c49-a534-6c575618ca07"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
