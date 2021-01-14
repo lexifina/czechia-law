@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:3.C.207.2020.1",
+  "docket": "3 C 207/2020-18",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/37b81fde-cffa-4703-97c3-41e4733eae79",
+  "source_sha256": "2fe4699dfb671bc5a73a6166000245e0f5e0d83c89e0db26e44ac9f2c98c1754",
+  "source_id": "37b81fde-cffa-4703-97c3-41e4733eae79",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 207/2020-18",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "Mgr. Andrea Růžová",
+    "ecli": "ECLI:CZ:OSVY:2021:3.C.207.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/37b81fde-cffa-4703-97c3-41e4733eae79"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
