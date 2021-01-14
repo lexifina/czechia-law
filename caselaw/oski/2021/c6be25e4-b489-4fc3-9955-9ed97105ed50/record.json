@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2021:27.C.291.2020.1",
+  "docket": "27 C 291/2020-33",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c6be25e4-b489-4fc3-9955-9ed97105ed50",
+  "source_sha256": "f1b03554026485d0d3e0f1f453e1ff98d34cfda3af1879064eea4a67c218ce14",
+  "source_id": "c6be25e4-b489-4fc3-9955-9ed97105ed50",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 291/2020-33",
+    "soud": "Okresní soud v Karviné",
+    "autor": "JUDr. Roman Hlaváč",
+    "ecli": "ECLI:CZ:OSKI:2021:27.C.291.2020.1",
+    "predmetRizeni": "2 000 Kč",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-02-25",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "postoupení pohledávky",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 63 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c6be25e4-b489-4fc3-9955-9ed97105ed50"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
