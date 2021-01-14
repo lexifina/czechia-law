@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:21.C.348.2020.1",
+  "docket": "21 C 348/2020-24",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3863950b-802b-4bf2-b3fe-ed5ca0a1ae92",
+  "source_sha256": "d540660daaa09a65247a461613122d04c755ff90ea4e2229a5e12d5fa45024d5",
+  "source_id": "3863950b-802b-4bf2-b3fe-ed5ca0a1ae92",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 348/2020-24",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Ivana Houdková",
+    "ecli": "ECLI:CZ:OSLI:2021:21.C.348.2020.1",
+    "predmetRizeni": "o zaplacení částky 10.300,00 Kč s přísl.",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3863950b-802b-4bf2-b3fe-ed5ca0a1ae92"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
