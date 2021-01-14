@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 3",
+  "ecli": "ECLI:CZ:OSPH03:2021:6.C.491.2020.1",
+  "docket": "6 C 491/2020-20",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5c82dc98-dc3e-4360-a79d-ae815f6f8ccb",
+  "source_sha256": "dbfa66aa37876e9d38c1b601c2251e68c66254c63dafe89853cfb63d662aec42",
+  "source_id": "5c82dc98-dc3e-4360-a79d-ae815f6f8ccb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 491/2020-20",
+    "soud": "Obvodní soud pro Prahu 3",
+    "autor": "Mgr. Miroslava Sixtová",
+    "ecli": "ECLI:CZ:OSPH03:2021:6.C.491.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-03-31",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5c82dc98-dc3e-4360-a79d-ae815f6f8ccb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
