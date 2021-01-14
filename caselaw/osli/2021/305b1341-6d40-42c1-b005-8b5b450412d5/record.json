@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:12.C.325.2020.1",
+  "docket": "12 C 325/2020-48",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/305b1341-6d40-42c1-b005-8b5b450412d5",
+  "source_sha256": "03c9556ef786e462c279f1e5869f9b5d6ae337accd833821c4d1ef886d172ed0",
+  "source_id": "305b1341-6d40-42c1-b005-8b5b450412d5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 325/2020-48",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Renata Urbánková",
+    "ecli": "ECLI:CZ:OSLI:2021:12.C.325.2020.1",
+    "predmetRizeni": "o zaplacení částky 33 082 Kč s příslušenstvím",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-03-03",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 2820 z. č. 89/2012 Sb.",
+      "§ 2951 z. č. 89/2012 Sb.",
+      "§ 2910 z. č. 89/2012 Sb.",
+      "§ 2952 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/305b1341-6d40-42c1-b005-8b5b450412d5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
