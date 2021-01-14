@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2021:28.C.97.2020.1",
+  "docket": "28 C 97/2020-65",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8cfaa04a-9fb6-482f-87c5-8ad4f27e96a4",
+  "source_sha256": "f725b1db337646c57132269a14bd1abd65efa5f9871415d15b5f177088423d10",
+  "source_id": "8cfaa04a-9fb6-482f-87c5-8ad4f27e96a4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 97/2020-65",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "JUDr. Eva Bučková",
+    "ecli": "ECLI:CZ:OSZL:2021:28.C.97.2020.1",
+    "predmetRizeni": "určení vlastnictví nabytého mimořádným vydržením",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-09-23",
+    "klicovaSlova": [
+      "držba",
+      "mimořádné vydržení",
+      "peněžité plnění",
+      "převod vlastnictví",
+      "smlouva kupní",
+      "vydržení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 992 z. č. 89/2012 Sb.",
+      "§ 1095 z. č. 89/2012 Sb.",
+      "§ 1091 z. č. 89/2012 Sb.",
+      "§ 1089 z. č. 89/2012 Sb.",
+      "§ 347 z. č. 109/1964 Sb.",
+      "§ 104 z. č. 109/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8cfaa04a-9fb6-482f-87c5-8ad4f27e96a4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
