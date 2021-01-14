@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:9.C.179.2020.2",
+  "docket": "9 C 179/2020-19",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e3d57447-95e2-42fb-b015-4e23e19f050c",
+  "source_sha256": "8261d1c548e14d3b34cd38659c8f08675008a8eeef4c897f3bf6932783243724",
+  "source_id": "e3d57447-95e2-42fb-b015-4e23e19f050c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 179/2020-19",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Tereza Bušková",
+    "ecli": "ECLI:CZ:OSPS:2021:9.C.179.2020.2",
+    "predmetRizeni": "55 299 Kč s přísl.",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-04-13",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "peněžité plnění",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 7/1 nař. vl. č. 1215/2012 Sb.",
+      "§ 4/1 nař. vl. č. 593/2008 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e3d57447-95e2-42fb-b015-4e23e19f050c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
