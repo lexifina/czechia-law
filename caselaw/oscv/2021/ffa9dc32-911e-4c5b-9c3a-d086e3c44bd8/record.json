@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:23.C.272.2020.2",
+  "docket": "23 C 272/2020-18",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ffa9dc32-911e-4c5b-9c3a-d086e3c44bd8",
+  "source_sha256": "b3687133c6b30afa559be9d9eea877bb924ded0f7b83b614e874d2d98059e076",
+  "source_id": "ffa9dc32-911e-4c5b-9c3a-d086e3c44bd8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 272/2020-18",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Hana Pašková",
+    "ecli": "ECLI:CZ:OSCV:2021:23.C.272.2020.2",
+    "predmetRizeni": "zaplacení 1 500 Kč s příslušenstvím (zápůjčka)",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-03-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ffa9dc32-911e-4c5b-9c3a-d086e3c44bd8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
