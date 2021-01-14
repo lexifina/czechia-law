@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:3.C.245.2020.1",
+  "docket": "3 C 245/2020-19",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/901968e7-30fd-4ec4-9c46-2450eca2eec8",
+  "source_sha256": "bb2c8459350b43524d641ddb97dd1c356a5fd337454e1ce2a384a88f48619f3d",
+  "source_id": "901968e7-30fd-4ec4-9c46-2450eca2eec8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 245/2020-19",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "Vladimír Matějíček",
+    "ecli": "ECLI:CZ:OSDO:2021:3.C.245.2020.1",
+    "predmetRizeni": "O zaplacení 3 032 Kč s příslušenstvím",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-02-07",
+    "klicovaSlova": [
+      "insolvence",
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/94 Sb.",
+      "§ 18 z. č. 111/94 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/901968e7-30fd-4ec4-9c46-2450eca2eec8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
