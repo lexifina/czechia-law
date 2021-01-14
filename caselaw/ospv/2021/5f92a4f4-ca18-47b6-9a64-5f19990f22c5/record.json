@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:14.C.181.2020 .1",
+  "docket": "14 C 181/2020-66",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5f92a4f4-ca18-47b6-9a64-5f19990f22c5",
+  "source_sha256": "4a9727a9de4187f940f062f22c852ed2996ff1a441e92ca69006b35f9661b611",
+  "source_id": "5f92a4f4-ca18-47b6-9a64-5f19990f22c5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 181/2020-66",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "JUDr. Ivan Šišma",
+    "ecli": "ECLI:CZ:OSPV:2021:14.C.181.2020 .1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím,",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-02-26",
+    "klicovaSlova": [
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5f92a4f4-ca18-47b6-9a64-5f19990f22c5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
