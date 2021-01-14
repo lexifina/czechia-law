@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:8.C.15.2020.1",
+  "docket": "8 C 15/2020-34",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d39e3ce5-3493-411c-9e19-34256878b31a",
+  "source_sha256": "421aaea46bc1721b4bab5233b97617ba114ce00dbd67df80d74afdc2cdf4143c",
+  "source_id": "d39e3ce5-3493-411c-9e19-34256878b31a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 15/2020-34",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "Mgr. Lenka Stegurová",
+    "ecli": "ECLI:CZ:OSZN:2021:8.C.15.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-04-28",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "spoluvlastnictví"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d39e3ce5-3493-411c-9e19-34256878b31a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
