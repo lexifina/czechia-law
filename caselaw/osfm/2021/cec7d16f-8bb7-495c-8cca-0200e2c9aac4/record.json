@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:14.C.157.2020.1",
+  "docket": "14 C 157/2020-34",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cec7d16f-8bb7-495c-8cca-0200e2c9aac4",
+  "source_sha256": "1a82ee5aac05788df49b0d61f8d12d038820525866bd2b5413e7e71e9ad7835f",
+  "source_id": "cec7d16f-8bb7-495c-8cca-0200e2c9aac4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 157/2020-34",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Monika Szkanderová",
+    "ecli": "ECLI:CZ:OSFM:2021:14.C.157.2020.1",
+    "predmetRizeni": "11.991 Kč - úroky z prodlení",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-03-22",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "pasivní legitimace",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "uznání dluhu",
+      "vyklizení bytu"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§ 2246 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cec7d16f-8bb7-495c-8cca-0200e2c9aac4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
