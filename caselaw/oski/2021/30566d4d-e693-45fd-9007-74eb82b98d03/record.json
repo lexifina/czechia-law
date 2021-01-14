@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2021:27.C.300.2020.1",
+  "docket": "27 C 300/2020-54",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/30566d4d-e693-45fd-9007-74eb82b98d03",
+  "source_sha256": "fa8342380231ceaeebf4f7bfaf8fab9bf6d8a75ec87f75de6d917a1c4bc10548",
+  "source_id": "30566d4d-e693-45fd-9007-74eb82b98d03",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 300/2020-54",
+    "soud": "Okresní soud v Karviné",
+    "autor": "JUDr. Roman Hlaváč",
+    "ecli": "ECLI:CZ:OSKI:2021:27.C.300.2020.1",
+    "predmetRizeni": "21 202,67 Kč s příslušenstvím",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/30566d4d-e693-45fd-9007-74eb82b98d03"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
