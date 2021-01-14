@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:18.C.90.2020.5",
+  "docket": "18 C 90/2020-42",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/35e2808a-b8fa-483f-bd27-74a00fa69336",
+  "source_sha256": "eb464a7372db5107b67b131abfb62389f99e461954c93c23af70a2346d2e0640",
+  "source_id": "35e2808a-b8fa-483f-bd27-74a00fa69336",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 90/2020-42",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Marek Vlaškovský",
+    "ecli": "ECLI:CZ:OSOV:2021:18.C.90.2020.5",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 573 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§  z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/35e2808a-b8fa-483f-bd27-74a00fa69336"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
