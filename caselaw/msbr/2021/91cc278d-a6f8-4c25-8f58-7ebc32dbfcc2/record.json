@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:49.C.132.2020.1",
+  "docket": "49 C 132/2020-33",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/91cc278d-a6f8-4c25-8f58-7ebc32dbfcc2",
+  "source_sha256": "c16852dc4de52d9c0fcc9db12e8c41b1871950f394b249e2be04df05ce6fa177",
+  "source_id": "91cc278d-a6f8-4c25-8f58-7ebc32dbfcc2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "49 C 132/2020-33",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Monika Schön, , Ph.D.",
+    "ecli": "ECLI:CZ:MSBR:2021:49.C.132.2020.1",
+    "predmetRizeni": "zaplacení 12.750 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-03-08",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/91cc278d-a6f8-4c25-8f58-7ebc32dbfcc2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
