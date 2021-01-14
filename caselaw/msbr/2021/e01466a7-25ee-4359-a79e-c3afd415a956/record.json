@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:104.EC.10364.2011.1",
+  "docket": "104 EC 10364/2011-60",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e01466a7-25ee-4359-a79e-c3afd415a956",
+  "source_sha256": "08378ea4a6472917867a098b43b348afe8ae3b561a21e3274b65734bef9c02e3",
+  "source_id": "e01466a7-25ee-4359-a79e-c3afd415a956",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "104 EC 10364/2011-60",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Judita Fadrusová",
+    "ecli": "ECLI:CZ:MSBR:2021:104.EC.10364.2011.1",
+    "predmetRizeni": "o 1.022 Kč",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "jízdné",
+      "oddlužení",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 414 z. č. 182/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e01466a7-25ee-4359-a79e-c3afd415a956"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
