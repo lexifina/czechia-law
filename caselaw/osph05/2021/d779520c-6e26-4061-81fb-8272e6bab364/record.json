@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:42.C.517.2020.4",
+  "docket": "42 C 517/2020-39",
+  "date": "2021-01-14",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d779520c-6e26-4061-81fb-8272e6bab364",
+  "source_sha256": "c9f9be365a53c1f635b41ee4a02331c2eec4e927f8532788ab5f7bed878c8a1c",
+  "source_id": "d779520c-6e26-4061-81fb-8272e6bab364",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 517/2020-39",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Tereza Mašková",
+    "ecli": "ECLI:CZ:OSPH05:2021:42.C.517.2020.4",
+    "predmetRizeni": "6 360,72 Kč s příslušenstvím",
+    "datumVydani": "2021-01-14",
+    "datumZverejneni": "2021-02-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 132 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d779520c-6e26-4061-81fb-8272e6bab364"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
