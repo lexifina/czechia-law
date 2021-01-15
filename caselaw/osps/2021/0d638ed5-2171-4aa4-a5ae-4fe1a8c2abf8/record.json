@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:7.C.321.2020.2",
+  "docket": "7 C 321/2020-46",
+  "date": "2021-01-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0d638ed5-2171-4aa4-a5ae-4fe1a8c2abf8",
+  "source_sha256": "fb95cf396f560d82689e2639ee8112a4c3e9a125c4395b7eac454db2ded5c485",
+  "source_id": "0d638ed5-2171-4aa4-a5ae-4fe1a8c2abf8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 321/2020-46",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "Mgr. Jarmila Millerová",
+    "ecli": "ECLI:CZ:OSPS:2021:7.C.321.2020.2",
+    "predmetRizeni": "83.451,78 Kč s přísl.",
+    "datumVydani": "2021-01-15",
+    "datumZverejneni": "2021-08-24",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0d638ed5-2171-4aa4-a5ae-4fe1a8c2abf8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
