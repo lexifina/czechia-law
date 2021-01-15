@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Třebíči",
+  "ecli": "ECLI:CZ:OSTR:2021:6.C.278.2020.1",
+  "docket": "6 C 278/2020-17",
+  "date": "2021-01-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fb16253f-dc71-4240-a919-28003d1d0f43",
+  "source_sha256": "d0594bfe6391f416fd0e366168e729378af32c9c6f3028c6b90f77b48dbe283c",
+  "source_id": "fb16253f-dc71-4240-a919-28003d1d0f43",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 278/2020-17",
+    "soud": "Okresní soud v Třebíči",
+    "autor": "JUDr.Mgr. Jan Hurdík, Ph.D.",
+    "ecli": "ECLI:CZ:OSTR:2021:6.C.278.2020.1",
+    "predmetRizeni": "zaplacení částky 1 400 Kč s příslušenstvím",
+    "datumVydani": "2021-01-15",
+    "datumZverejneni": "2021-02-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 150 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fb16253f-dc71-4240-a919-28003d1d0f43"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
