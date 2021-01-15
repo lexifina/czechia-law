@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:20.C.6.2020.1",
+  "docket": "20 C 6/2020",
+  "date": "2021-01-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cc8bde0f-fbe2-416a-8703-4a2120cd1abf",
+  "source_sha256": "e33bae01a354e1da59ca1dcec6a07e132e9263ec0ea5304e9808e74d91a4f715",
+  "source_id": "cc8bde0f-fbe2-416a-8703-4a2120cd1abf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 6/2020",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Vítězslav Pleva",
+    "ecli": "ECLI:CZ:OSKD:2021:20.C.6.2020.1",
+    "predmetRizeni": "o zrušení a vypořádání spoluvlastnictví",
+    "datumVydani": "2021-01-15",
+    "datumZverejneni": "2021-03-12",
+    "klicovaSlova": [
+      "dražba",
+      "pozemní komunikace",
+      "přikázání věci",
+      "smlouva nájemní",
+      "spoluvlastnictví",
+      "veřejná dražba",
+      "zástavní právo",
+      "znalecký posudek",
+      "zrušení spoluvlastnictví"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1140 z. č. 89/2012 Sb.",
+      "§ 1143 z. č. 89/2012 Sb.",
+      "§ 1147 z. č. 89/2012 Sb.",
+      "§ 1148 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cc8bde0f-fbe2-416a-8703-4a2120cd1abf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
