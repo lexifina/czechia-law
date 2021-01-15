@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:12.C.260.2020.1",
+  "docket": "12 C 260/2020-45",
+  "date": "2021-01-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ffc0a60a-a043-4c8e-bc76-fc57890ea448",
+  "source_sha256": "a44a272e8c157c3375e398d3ad3e75022cbce46ecf496a3c93b655a3d31c84e3",
+  "source_id": "ffc0a60a-a043-4c8e-bc76-fc57890ea448",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 260/2020-45",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "JUDr. Jana Trávníčková",
+    "ecli": "ECLI:CZ:OSZR:2021:12.C.260.2020.1",
+    "predmetRizeni": "o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2021-01-15",
+    "datumZverejneni": "2021-02-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 497 z. č. 513/91 Sb.",
+      "§ 369 z. č. 513/91 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ffc0a60a-a043-4c8e-bc76-fc57890ea448"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
