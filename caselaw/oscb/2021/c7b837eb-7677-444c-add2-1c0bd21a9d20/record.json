@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:15.C.145.2020.1",
+  "docket": "15 C 145/2020-34",
+  "date": "2021-01-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c7b837eb-7677-444c-add2-1c0bd21a9d20",
+  "source_sha256": "9131bb7f888c2cefbcf399662fe0ba37a487522106e07f4ae0e58cc28de3f04a",
+  "source_id": "c7b837eb-7677-444c-add2-1c0bd21a9d20",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 145/2020-34",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "JUDr. Jana Moravcová",
+    "ecli": "ECLI:CZ:OSCB:2021:15.C.145.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-15",
+    "datumZverejneni": "2021-01-28",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c7b837eb-7677-444c-add2-1c0bd21a9d20"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
