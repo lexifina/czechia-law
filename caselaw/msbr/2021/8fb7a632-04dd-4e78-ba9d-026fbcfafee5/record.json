@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:47.C.18.2020.1",
+  "docket": "47 C 18/2020-50",
+  "date": "2021-01-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8fb7a632-04dd-4e78-ba9d-026fbcfafee5",
+  "source_sha256": "f8d1c451196cd7f550f8e209e727ec3971bb7b3cbfcbad0c16db991f6a6cb430",
+  "source_id": "8fb7a632-04dd-4e78-ba9d-026fbcfafee5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "47 C 18/2020-50",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Radek Malenovský",
+    "ecli": "ECLI:CZ:MSBR:2021:47.C.18.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-15",
+    "datumZverejneni": "2021-03-15",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 132 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8fb7a632-04dd-4e78-ba9d-026fbcfafee5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
