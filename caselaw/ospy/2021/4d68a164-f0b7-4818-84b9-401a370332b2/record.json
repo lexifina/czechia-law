@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:21.C.236.2020.1",
+  "docket": "21 C 236/2020-34",
+  "date": "2021-01-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4d68a164-f0b7-4818-84b9-401a370332b2",
+  "source_sha256": "cd13a927c2f20ac38c4227a8ae5232a1d9e9281c3f1e84d1f566983a422eeebb",
+  "source_id": "4d68a164-f0b7-4818-84b9-401a370332b2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 236/2020-34",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Dana Fiedlerová",
+    "ecli": "ECLI:CZ:OSPY:2021:21.C.236.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-15",
+    "datumZverejneni": "2021-05-31",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 89 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4d68a164-f0b7-4818-84b9-401a370332b2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
