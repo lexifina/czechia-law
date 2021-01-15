@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:11.C.18.2020.1",
+  "docket": "11 C 18/2020-18",
+  "date": "2021-01-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5472724e-24da-4019-b51a-05956ef513e4",
+  "source_sha256": "922af053ae30a2b0f4427bc7d935862583327b75820fb8c410633e2d07826c03",
+  "source_id": "5472724e-24da-4019-b51a-05956ef513e4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 18/2020-18",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. et Mgr. Martin Pavlík",
+    "ecli": "ECLI:CZ:OSFM:2021:11.C.18.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-15",
+    "datumZverejneni": "2021-01-18",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5472724e-24da-4019-b51a-05956ef513e4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
