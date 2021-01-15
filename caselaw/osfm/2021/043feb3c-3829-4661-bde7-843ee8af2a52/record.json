@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:14.C.361.2020.1",
+  "docket": "14 C 361/2020-16",
+  "date": "2021-01-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/043feb3c-3829-4661-bde7-843ee8af2a52",
+  "source_sha256": "43e4cb796e30cd51dc862eebdcdf4313b626b9fb405c04d2de3b7300ee60e22b",
+  "source_id": "043feb3c-3829-4661-bde7-843ee8af2a52",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 361/2020-16",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Monika Szkanderová",
+    "ecli": "ECLI:CZ:OSFM:2021:14.C.361.2020.1",
+    "predmetRizeni": "O zaplacení 2 000 Kč s příslušenstvím",
+    "datumVydani": "2021-01-15",
+    "datumZverejneni": "2021-04-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/043feb3c-3829-4661-bde7-843ee8af2a52"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
