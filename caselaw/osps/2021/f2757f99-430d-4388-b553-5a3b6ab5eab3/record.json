@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:10.C.301.2020.2",
+  "docket": "10 C 301/2020-16",
+  "date": "2021-01-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f2757f99-430d-4388-b553-5a3b6ab5eab3",
+  "source_sha256": "1dc121891545b1323da90c26649a44f60eb895a10a6820fa967aa63b107cea07",
+  "source_id": "f2757f99-430d-4388-b553-5a3b6ab5eab3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 301/2020-16",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Blanka Šibrová",
+    "ecli": "ECLI:CZ:OSPS:2021:10.C.301.2020.2",
+    "predmetRizeni": "[částka] s přísl.",
+    "datumVydani": "2021-01-15",
+    "datumZverejneni": "2021-02-22",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 2804 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f2757f99-430d-4388-b553-5a3b6ab5eab3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
