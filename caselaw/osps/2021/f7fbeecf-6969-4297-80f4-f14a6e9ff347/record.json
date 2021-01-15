@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:8.C.276.2019.3",
+  "docket": "8 C 276/2019-14",
+  "date": "2021-01-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f7fbeecf-6969-4297-80f4-f14a6e9ff347",
+  "source_sha256": "e953b8c8c951a9b53bc9c6bb66e7df261bcd346bf33a014cf75eb2a38b45d867",
+  "source_id": "f7fbeecf-6969-4297-80f4-f14a6e9ff347",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 276/2019-14",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "Mgr. Václav Kokožka",
+    "ecli": "ECLI:CZ:OSPS:2021:8.C.276.2019.3",
+    "predmetRizeni": "zrušení výživného zletilého dítěte",
+    "datumVydani": "2021-01-15",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 911 z. č. 89/2012 Sb.",
+      "§ 910 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f7fbeecf-6969-4297-80f4-f14a6e9ff347"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
