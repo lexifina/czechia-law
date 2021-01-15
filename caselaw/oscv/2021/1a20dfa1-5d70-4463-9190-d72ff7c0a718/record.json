@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:24.C.139.2020.1",
+  "docket": "24 C 139/2020-107",
+  "date": "2021-01-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1a20dfa1-5d70-4463-9190-d72ff7c0a718",
+  "source_sha256": "65286f9d8a490261ea81a6e1aff57c8f09aa7d22392b3d808dd9264f533abe9b",
+  "source_id": "1a20dfa1-5d70-4463-9190-d72ff7c0a718",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 139/2020-107",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Filip Toman",
+    "ecli": "ECLI:CZ:OSCV:2021:24.C.139.2020.1",
+    "predmetRizeni": "zaplacení 11 380,50 Kč s příslušenstvím (úvěr)",
+    "datumVydani": "2021-01-15",
+    "datumZverejneni": "2021-04-28",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§  z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1a20dfa1-5d70-4463-9190-d72ff7c0a718"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
