@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:12.C.133.2020.1",
+  "docket": "12 C 133/2020-34",
+  "date": "2021-01-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ed5c4fd9-68f7-408e-a18a-9c23a4e2e5fb",
+  "source_sha256": "dd7d425ab73ad988e9a06e7aa79174d1f8ece4a48bec5383181d90304c2a2214",
+  "source_id": "ed5c4fd9-68f7-408e-a18a-9c23a4e2e5fb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 133/2020-34",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "JUDr. Jana Trávníčková",
+    "ecli": "ECLI:CZ:OSZR:2021:12.C.133.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-15",
+    "datumZverejneni": "2021-02-01",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ed5c4fd9-68f7-408e-a18a-9c23a4e2e5fb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
