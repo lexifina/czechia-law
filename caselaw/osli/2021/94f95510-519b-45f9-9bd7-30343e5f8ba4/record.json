@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:18.C.313.2020.1",
+  "docket": "18 C 313/2020-12",
+  "date": "2021-01-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/94f95510-519b-45f9-9bd7-30343e5f8ba4",
+  "source_sha256": "5fb65ca44110d6fcc88a3284105851dabeb43e372dc08e028f8eee8677bbd2bd",
+  "source_id": "94f95510-519b-45f9-9bd7-30343e5f8ba4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 313/2020-12",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Ing. arch. Kamil Podhola",
+    "ecli": "ECLI:CZ:OSLI:2021:18.C.313.2020.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 18 498,96 Kč s příslušenstvím",
+    "datumVydani": "2021-01-15",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 9 vyhl. č. 82/2011 Sb.",
+      "§ 2910 z. č. 89/2012 Sb.",
+      "§ 142 vyhl. č. 177/1996 Sb.",
+      "§ 25 z. č. 458/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/94f95510-519b-45f9-9bd7-30343e5f8ba4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
