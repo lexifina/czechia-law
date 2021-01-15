@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Krajský soud v Praze",
+  "ecli": "ECLI:CZ:KSPH:2021:79.Cm.79.2020 .1",
+  "docket": "79 CM 79/2020-28",
+  "date": "2021-01-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/064d9500-411e-4a46-908e-d4f3b8a69cd2",
+  "source_sha256": "d423b6af8aba1c8ce3beb110318a87f1a1587bd925c4f2367c79fa285e6c23da",
+  "source_id": "064d9500-411e-4a46-908e-d4f3b8a69cd2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "79 CM 79/2020-28",
+    "soud": "Krajský soud v Praze",
+    "autor": "Mgr. Zuzana Hemelíková",
+    "ecli": "ECLI:CZ:KSPH:2021:79.Cm.79.2020 .1",
+    "predmetRizeni": "o zaplacení částky 20 101 Kč s příslušenstvím",
+    "datumVydani": "2021-01-15",
+    "datumZverejneni": "2021-07-29",
+    "klicovaSlova": [
+      "směnka"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 175 z. č. 99/1963 Sb.",
+      "§ 75 z. č. 191/1950 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/064d9500-411e-4a46-908e-d4f3b8a69cd2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
