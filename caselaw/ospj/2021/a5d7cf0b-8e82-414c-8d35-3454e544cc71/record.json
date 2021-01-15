@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPJ:2021:25.C.396.2020.2",
+  "docket": "25 C 396/2020-13",
+  "date": "2021-01-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a5d7cf0b-8e82-414c-8d35-3454e544cc71",
+  "source_sha256": "d3aeef510f23bc0d9f799b8968b5d197a70a1f9ef01fd32fe00f2893fb5a3154",
+  "source_id": "a5d7cf0b-8e82-414c-8d35-3454e544cc71",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 396/2020-13",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Jana Srpová",
+    "ecli": "ECLI:CZ:OSPJ:2021:25.C.396.2020.2",
+    "predmetRizeni": "zaplacení příslušenství 106, [číslo]",
+    "datumVydani": "2021-01-15",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1746 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a5d7cf0b-8e82-414c-8d35-3454e544cc71"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
