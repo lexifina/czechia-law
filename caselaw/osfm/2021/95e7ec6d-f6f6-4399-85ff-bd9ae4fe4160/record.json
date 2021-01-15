@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:11.C.56.2020.1",
+  "docket": "11 C 56/2020-20",
+  "date": "2021-01-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/95e7ec6d-f6f6-4399-85ff-bd9ae4fe4160",
+  "source_sha256": "8f6cb719912aef8a2ba9add6da4edcd5e7b9cb7f48217b13848ea488b9bc611e",
+  "source_id": "95e7ec6d-f6f6-4399-85ff-bd9ae4fe4160",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 56/2020-20",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. et Mgr. Martin Pavlík",
+    "ecli": "ECLI:CZ:OSFM:2021:11.C.56.2020.1",
+    "predmetRizeni": "O zaplacení 3 780 Kč s příslušenstvím - televizní poplatky",
+    "datumVydani": "2021-01-15",
+    "datumZverejneni": "2021-04-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 348/2005 Sb.",
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 6 z. č. 348/2005 Sb.",
+      "§ 5 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/95e7ec6d-f6f6-4399-85ff-bd9ae4fe4160"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
