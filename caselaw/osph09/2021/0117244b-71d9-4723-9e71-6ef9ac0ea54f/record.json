@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2021:9.C.88.2020 .1",
+  "docket": "9 C 88/2020-40",
+  "date": "2021-01-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0117244b-71d9-4723-9e71-6ef9ac0ea54f",
+  "source_sha256": "5fe3d010d165e8d830c5a10eb0887a71d64ed79af75d60214eb8787e8a0478d1",
+  "source_id": "0117244b-71d9-4723-9e71-6ef9ac0ea54f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 88/2020-40",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "JUDr. Andrea Höllgeová",
+    "ecli": "ECLI:CZ:OSPH09:2021:9.C.88.2020 .1",
+    "predmetRizeni": "o zaplacení 32 606 Kč s příslušenstvím",
+    "datumVydani": "2021-01-15",
+    "datumZverejneni": "2021-10-11",
+    "klicovaSlova": [
+      "dlužné platby spojené s užíváním bytu",
+      "peněžité plnění",
+      "společenství vlastníků jednotek",
+      "spoluvlastnictví"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 6 z. č. 91/2012 Sb.",
+      "§ 86 z. č. 99/1963 Sb.",
+      "§ 1181 z. č. 89/2012 Sb.",
+      "§ 1180 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0117244b-71d9-4723-9e71-6ef9ac0ea54f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
