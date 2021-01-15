@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:13.C.225.2020.1",
+  "docket": "13 C 225/2020-40",
+  "date": "2021-01-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b5d78466-9ed2-4213-b0f1-ea934aebd8c8",
+  "source_sha256": "bf6e74fce7f5209bc0bcfc6557bf84a275c9b30372a22584ae4d01eb5bfed737",
+  "source_id": "b5d78466-9ed2-4213-b0f1-ea934aebd8c8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 225/2020-40",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "Mgr. Eva Drahozalová",
+    "ecli": "ECLI:CZ:OSZR:2021:13.C.225.2020.1",
+    "predmetRizeni": "O zaplacení 1 023 Kč s příslušenstvím",
+    "datumVydani": "2021-01-15",
+    "datumZverejneni": "2021-03-15",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b5d78466-9ed2-4213-b0f1-ea934aebd8c8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
