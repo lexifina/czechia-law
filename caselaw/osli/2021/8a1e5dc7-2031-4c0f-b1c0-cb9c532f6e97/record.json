@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:29.C.174.2020.1",
+  "docket": "29 C 174/2020-14",
+  "date": "2021-01-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8a1e5dc7-2031-4c0f-b1c0-cb9c532f6e97",
+  "source_sha256": "72575f718a34dcb90b31b1a0aece655997dae9c411c84ed24f9eb00cfeb4fcfe",
+  "source_id": "8a1e5dc7-2031-4c0f-b1c0-cb9c532f6e97",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 174/2020-14",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Bohumil Vašák",
+    "ecli": "ECLI:CZ:OSLI:2021:29.C.174.2020.1",
+    "predmetRizeni": "zaplacení částky 33.890,24 Kč s přísl.",
+    "datumVydani": "2021-01-15",
+    "datumZverejneni": "2021-08-31",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2392 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8a1e5dc7-2031-4c0f-b1c0-cb9c532f6e97"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
