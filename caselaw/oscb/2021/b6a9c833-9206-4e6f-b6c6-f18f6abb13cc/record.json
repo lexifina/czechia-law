@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:15.C.334.2020.1",
+  "docket": "15 C 334/2020-34",
+  "date": "2021-01-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b6a9c833-9206-4e6f-b6c6-f18f6abb13cc",
+  "source_sha256": "127e7c05bc5411e3d6b2c4010c695d87eb7891f7a25dab6555c23c4a11c07e6e",
+  "source_id": "b6a9c833-9206-4e6f-b6c6-f18f6abb13cc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 334/2020-34",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "JUDr. Jana Moravcová",
+    "ecli": "ECLI:CZ:OSCB:2021:15.C.334.2020.1",
+    "predmetRizeni": "EPR [číslo], o zaplacení částky 1 516 Kč s příslušenstvím",
+    "datumVydani": "2021-01-15",
+    "datumZverejneni": "2021-02-05",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b6a9c833-9206-4e6f-b6c6-f18f6abb13cc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
