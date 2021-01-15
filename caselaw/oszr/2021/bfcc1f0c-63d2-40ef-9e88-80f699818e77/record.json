@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:12.C.121.2020.1",
+  "docket": "12 C 121/2020-52",
+  "date": "2021-01-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bfcc1f0c-63d2-40ef-9e88-80f699818e77",
+  "source_sha256": "4a457478b77b67ee6dcdad51212997d722e254c7e243b24383f3bbf8ab2d20dd",
+  "source_id": "bfcc1f0c-63d2-40ef-9e88-80f699818e77",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 121/2020-52",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "JUDr. Jana Trávníčková",
+    "ecli": "ECLI:CZ:OSZR:2021:12.C.121.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-15",
+    "datumZverejneni": "2021-02-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "řidičský průkaz"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 10 z. č. 168/99 Sb.",
+      "§ 5 z. č. 361/2000 Sb.",
+      "§ 9 z. č. 168/99 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bfcc1f0c-63d2-40ef-9e88-80f699818e77"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
