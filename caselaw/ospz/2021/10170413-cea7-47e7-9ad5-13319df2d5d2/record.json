@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2021:8.C.56.2020.1",
+  "docket": "8 C 56/2020-66",
+  "date": "2021-01-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/10170413-cea7-47e7-9ad5-13319df2d5d2",
+  "source_sha256": "73285fb4fedaceb6524e2c09cd60ecff3466668f2f6bf498d63e33d8e8909cf9",
+  "source_id": "10170413-cea7-47e7-9ad5-13319df2d5d2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 56/2020-66",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "Mgr. Štěpánka Tůmová",
+    "ecli": "ECLI:CZ:OSPZ:2021:8.C.56.2020.1",
+    "predmetRizeni": "Žaloba o rozvod manželství",
+    "datumVydani": "2021-01-15",
+    "datumZverejneni": "2021-10-08",
+    "klicovaSlova": [
+      "porod",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 741 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/10170413-cea7-47e7-9ad5-13319df2d5d2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
