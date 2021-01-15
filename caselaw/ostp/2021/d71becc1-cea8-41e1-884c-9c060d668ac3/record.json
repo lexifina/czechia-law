@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:17.C.224.2020.1",
+  "docket": "17 C 224/2020-15",
+  "date": "2021-01-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d71becc1-cea8-41e1-884c-9c060d668ac3",
+  "source_sha256": "651c54e8647fbd0abacdd9d8013849b558b63cb925bf7e832cfbe9702d264c97",
+  "source_id": "d71becc1-cea8-41e1-884c-9c060d668ac3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 224/2020-15",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "JUDr. Daniela Novotná",
+    "ecli": "ECLI:CZ:OSTP:2021:17.C.224.2020.1",
+    "predmetRizeni": "zrušení výživného na zletilé dítě",
+    "datumVydani": "2021-01-15",
+    "datumZverejneni": "2021-03-01",
+    "klicovaSlova": [
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 89/2012 Sb.",
+      "§ 859 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d71becc1-cea8-41e1-884c-9c060d668ac3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
