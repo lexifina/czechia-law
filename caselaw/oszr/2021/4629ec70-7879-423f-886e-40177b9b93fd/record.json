@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:12.C.95.2020.1",
+  "docket": "12 C 95/2020-49",
+  "date": "2021-01-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4629ec70-7879-423f-886e-40177b9b93fd",
+  "source_sha256": "9fd8c1be15d978e0d5cdcd613c057b677684d180720ebd846c3880fd42cc6c0d",
+  "source_id": "4629ec70-7879-423f-886e-40177b9b93fd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 95/2020-49",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "JUDr. Jana Trávníčková",
+    "ecli": "ECLI:CZ:OSZR:2021:12.C.95.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-15",
+    "datumZverejneni": "2021-02-11",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 89e z. č. 373/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4629ec70-7879-423f-886e-40177b9b93fd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
