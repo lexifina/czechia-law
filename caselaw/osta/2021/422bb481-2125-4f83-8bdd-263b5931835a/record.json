@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:24.C.381.2020.1",
+  "docket": "24 C 381/2020-66",
+  "date": "2021-01-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/422bb481-2125-4f83-8bdd-263b5931835a",
+  "source_sha256": "d154063bf3fcfeee6a7bd1c45980a48819cb4055ec1e4743ae05cafe6eb938d6",
+  "source_id": "422bb481-2125-4f83-8bdd-263b5931835a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 381/2020-66",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Ivana Jakšičová",
+    "ecli": "ECLI:CZ:OSTA:2021:24.C.381.2020.1",
+    "predmetRizeni": "o zaplacení 17 127 Kč s příslušenstvím",
+    "datumVydani": "2021-01-15",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "neplatnost právního jednání",
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1802 z. č. 89/2012 Sb.",
+      "§ 1 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/422bb481-2125-4f83-8bdd-263b5931835a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
