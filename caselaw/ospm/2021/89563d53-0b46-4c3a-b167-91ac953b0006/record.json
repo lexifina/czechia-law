@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:36.C.326.2020.1",
+  "docket": "36 C 326/2020-62",
+  "date": "2021-01-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/89563d53-0b46-4c3a-b167-91ac953b0006",
+  "source_sha256": "3f39c3d7698dd0fa3ee9f222080797a12d4145795e73616c52918a1a3533a304",
+  "source_id": "89563d53-0b46-4c3a-b167-91ac953b0006",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 326/2020-62",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Bc. Martin Havlík",
+    "ecli": "ECLI:CZ:OSPM:2021:36.C.326.2020.1",
+    "predmetRizeni": "O zaplacení 1 500 Kč s příslušenstvím",
+    "datumVydani": "2021-01-15",
+    "datumZverejneni": "2021-03-11",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2391 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/89563d53-0b46-4c3a-b167-91ac953b0006"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
