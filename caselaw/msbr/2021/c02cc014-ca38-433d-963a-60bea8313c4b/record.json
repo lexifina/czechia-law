@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:39.C.172.2020.1",
+  "docket": "39 C 172/2020-26",
+  "date": "2021-01-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c02cc014-ca38-433d-963a-60bea8313c4b",
+  "source_sha256": "ab95865e9f4004bac3f09a75d23c1267dd748bf500c21a958558d8803c1c2c99",
+  "source_id": "c02cc014-ca38-433d-963a-60bea8313c4b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "39 C 172/2020-26",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Václav Rozmahel",
+    "ecli": "ECLI:CZ:MSBR:2021:39.C.172.2020.1",
+    "predmetRizeni": "zaplacení 13.628,30 Kč s příslušenstvím - pojistné",
+    "datumVydani": "2021-01-15",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 2804 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 173 z. č. 99/1963 Sb.",
+      "§ 2761 z. č. 89/2012 Sb.",
+      "§ 2856 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c02cc014-ca38-433d-963a-60bea8313c4b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
