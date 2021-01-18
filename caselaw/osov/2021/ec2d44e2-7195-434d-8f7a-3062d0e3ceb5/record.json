@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:54.C.434.2020.3",
+  "docket": "54 C 434/2020-18",
+  "date": "2021-01-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ec2d44e2-7195-434d-8f7a-3062d0e3ceb5",
+  "source_sha256": "1b2e9e5a709873a7b0cb9e35b4eabb5bf7232868440723e7a907269d62f5dca2",
+  "source_id": "ec2d44e2-7195-434d-8f7a-3062d0e3ceb5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "54 C 434/2020-18",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Monika Kotlánová",
+    "ecli": "ECLI:CZ:OSOV:2021:54.C.434.2020.3",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-18",
+    "datumZverejneni": "2021-03-29",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§  z. č. 266/1994 Sb.",
+      "§  z. č. 111/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ec2d44e2-7195-434d-8f7a-3062d0e3ceb5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
