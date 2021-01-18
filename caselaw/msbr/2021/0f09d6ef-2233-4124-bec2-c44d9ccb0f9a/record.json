@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:119.C.212.2020.1",
+  "docket": "119 C 212/2020-65",
+  "date": "2021-01-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0f09d6ef-2233-4124-bec2-c44d9ccb0f9a",
+  "source_sha256": "0bc752b08e26a133f128490f64093c56776562fadbc3c44779c8f72fd6e5de8e",
+  "source_id": "0f09d6ef-2233-4124-bec2-c44d9ccb0f9a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "119 C 212/2020-65",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Zuzana Skripová",
+    "ecli": "ECLI:CZ:MSBR:2021:119.C.212.2020.1",
+    "predmetRizeni": "zaplacení 1.080 Kč s příslušenstvím",
+    "datumVydani": "2021-01-18",
+    "datumZverejneni": "2021-05-13",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0f09d6ef-2233-4124-bec2-c44d9ccb0f9a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
