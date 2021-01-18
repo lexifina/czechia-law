@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:47.C.78.2020.1",
+  "docket": "47 C 78/2020-23",
+  "date": "2021-01-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/188660e8-2002-4ed4-b5d2-8d287c2cf532",
+  "source_sha256": "7d175ee693b6ab2ba8b4a8cb26c43e1f6f61ca405f24a7a4a9b59c6cfba4ff4b",
+  "source_id": "188660e8-2002-4ed4-b5d2-8d287c2cf532",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "47 C 78/2020-23",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "Mgr. Kateřina Mlčochová",
+    "ecli": "ECLI:CZ:OSPH02:2021:47.C.78.2020.1",
+    "predmetRizeni": "O zaplacení 17 100 Kč s příslušenstvím",
+    "datumVydani": "2021-01-18",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "elektronický podpis",
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 122 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/188660e8-2002-4ed4-b5d2-8d287c2cf532"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
