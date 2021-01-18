@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:18.C.384.2020.1",
+  "docket": "18 C 384/2020-11",
+  "date": "2021-01-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/15a2794e-2636-4f99-93cd-e46a3d22cf6d",
+  "source_sha256": "1ae3d77ed376fbc2256cf2a400d798b6f20f6bed217777ba2dcf0af757d5dd63",
+  "source_id": "15a2794e-2636-4f99-93cd-e46a3d22cf6d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 384/2020-11",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "JUDr. Ivana Holubovská",
+    "ecli": "ECLI:CZ:OSKV:2021:18.C.384.2020.1",
+    "predmetRizeni": "2.700 Kč / televizní poplatky",
+    "datumVydani": "2021-01-18",
+    "datumZverejneni": "2021-02-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatek z prodlení",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 348/2005 Sb.",
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 6 z. č. 348/2005 Sb.",
+      "§ 7 z. č. 348/2005 Sb.",
+      "§  nař. vl. č. 142/1994 Sb.",
+      "§  nař. vl. č. 33/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/15a2794e-2636-4f99-93cd-e46a3d22cf6d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
