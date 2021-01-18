@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:4.C.192.2020.1",
+  "docket": "4 C 192/2020-51",
+  "date": "2021-01-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d81b87e2-e8b5-45be-b5da-2af3dfee3198",
+  "source_sha256": "2738ed00e03288839ca5f8722fbf3169ea6ac01e966826ca9c8d5fd20fea48ac",
+  "source_id": "d81b87e2-e8b5-45be-b5da-2af3dfee3198",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 192/2020-51",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "JUDr. Jaroslav Kouba",
+    "ecli": "ECLI:CZ:OSZN:2021:4.C.192.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-01-18",
+    "datumZverejneni": "2021-03-05",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 3003 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 177/96 Sb.",
+      "§ 11 vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d81b87e2-e8b5-45be-b5da-2af3dfee3198"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
