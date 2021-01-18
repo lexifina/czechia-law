@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:21.C.435.2020.1",
+  "docket": "21 C 435/2020-36",
+  "date": "2021-01-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/be01981d-bc0d-4069-8c9a-dafdfc1160b6",
+  "source_sha256": "fedfbacbd996128ce07d5d5f9cce1d10637e84e79dc75d2b5fa13c77b3c25b74",
+  "source_id": "be01981d-bc0d-4069-8c9a-dafdfc1160b6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 435/2020-36",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Ivana Houdková",
+    "ecli": "ECLI:CZ:OSLI:2021:21.C.435.2020.1",
+    "predmetRizeni": "o zaplacení částky 17 620,50 Kč s příslušenstvím",
+    "datumVydani": "2021-01-18",
+    "datumZverejneni": "2021-04-27",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "smlouva mandátní",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/be01981d-bc0d-4069-8c9a-dafdfc1160b6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
