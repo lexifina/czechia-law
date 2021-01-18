@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:225.C.176.2020.1",
+  "docket": "225 C 176/2020",
+  "date": "2021-01-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dc5f95b9-460b-4479-97f3-bcedef4d8ba8",
+  "source_sha256": "8dcdb4893f2cf2b1df1d8a255de4d55eccbbce18e4c29ce1c6155c522c2988dd",
+  "source_id": "dc5f95b9-460b-4479-97f3-bcedef4d8ba8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "225 C 176/2020",
+    "soud": "Okresní soud v Kladně",
+    "autor": "Mgr. Lucie Vybíralová, LL.M.",
+    "ecli": "ECLI:CZ:OSKD:2021:225.C.176.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-18",
+    "datumZverejneni": "2021-02-17",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§ 1882 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dc5f95b9-460b-4479-97f3-bcedef4d8ba8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
