@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 7",
+  "ecli": "ECLI:CZ:OSPH07:2021:30.C.35.2020.1",
+  "docket": "30 C 35/2020-54",
+  "date": "2021-01-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/16bdd4fb-e37d-4f2e-9073-7ed63fd08862",
+  "source_sha256": "c05f9db0ae45822a71c742a999d6d5d332557b631e909e6b996d794ef0868c03",
+  "source_id": "16bdd4fb-e37d-4f2e-9073-7ed63fd08862",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 35/2020-54",
+    "soud": "Obvodní soud pro Prahu 7",
+    "autor": "Mgr. Jan Kobera",
+    "ecli": "ECLI:CZ:OSPH07:2021:30.C.35.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-18",
+    "datumZverejneni": "2021-03-31",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 1724 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 1721 z. č. 89/2012 Sb.",
+      "§ 2018 z. č. 89/2012 Sb.",
+      "§ 2302 z. č. 89/2012 Sb.",
+      "§ 2019 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/16bdd4fb-e37d-4f2e-9073-7ed63fd08862"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
