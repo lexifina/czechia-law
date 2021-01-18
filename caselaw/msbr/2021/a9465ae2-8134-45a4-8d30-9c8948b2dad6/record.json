@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:33.C.177.2019.1",
+  "docket": "33 C 177/2019-86",
+  "date": "2021-01-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a9465ae2-8134-45a4-8d30-9c8948b2dad6",
+  "source_sha256": "0e037d81681125a82278f5d5d9548dff9e9369c924f6835962eec2fef7b61af3",
+  "source_id": "a9465ae2-8134-45a4-8d30-9c8948b2dad6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "33 C 177/2019-86",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Ivana Chlupová",
+    "ecli": "ECLI:CZ:MSBR:2021:33.C.177.2019.1",
+    "predmetRizeni": "zaplacení částky 62 125 Kč s příslušenstvím",
+    "datumVydani": "2021-01-18",
+    "datumZverejneni": "2021-04-14",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "nájem bytu",
+      "smlouva nájemní",
+      "vyklizení bytu"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 96 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a9465ae2-8134-45a4-8d30-9c8948b2dad6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
