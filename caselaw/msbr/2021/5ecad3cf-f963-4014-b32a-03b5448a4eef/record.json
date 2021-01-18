@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:63.C.34.2020.1",
+  "docket": "63 C 34/2020-15",
+  "date": "2021-01-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5ecad3cf-f963-4014-b32a-03b5448a4eef",
+  "source_sha256": "67f3f1d277c8961dc357866ca944d62cc3f960b9bf98c66e5705ebbf8013a4fd",
+  "source_id": "5ecad3cf-f963-4014-b32a-03b5448a4eef",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "63 C 34/2020-15",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Judita Fadrusová",
+    "ecli": "ECLI:CZ:MSBR:2021:63.C.34.2020.1",
+    "predmetRizeni": "zaplacení 17.856 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2021-01-18",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 1802 z. č. 89/2012 Sb.",
+      "§ 547 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5ecad3cf-f963-4014-b32a-03b5448a4eef"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
