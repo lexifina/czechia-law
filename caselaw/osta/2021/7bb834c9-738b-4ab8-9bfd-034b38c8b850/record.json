@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:11.C.219.2020.1",
+  "docket": "11 C 219/2020-14",
+  "date": "2021-01-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7bb834c9-738b-4ab8-9bfd-034b38c8b850",
+  "source_sha256": "31ba9683d2c821df73e7c79f13eadde746e7aed9e5efd2b8a9242f3e03025051",
+  "source_id": "7bb834c9-738b-4ab8-9bfd-034b38c8b850",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 219/2020-14",
+    "soud": "Okresní soud v Táboře",
+    "autor": "Mgr. Jaroslava Novotná",
+    "ecli": "ECLI:CZ:OSTA:2021:11.C.219.2020.1",
+    "predmetRizeni": "O zaplacení 1 516 Kč s příslušenstvím",
+    "datumVydani": "2021-01-18",
+    "datumZverejneni": "2021-02-23",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7bb834c9-738b-4ab8-9bfd-034b38c8b850"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
