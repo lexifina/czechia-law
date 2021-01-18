@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2021:11.C.331.2020.1",
+  "docket": "11 C 331/2020-26",
+  "date": "2021-01-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1a41f0f9-4a69-4845-a27c-2395bb7dd341",
+  "source_sha256": "66d3b249b204ebf6fa2bbc975cd9612fe26254c939b1a30bcaace2d1cb721bf8",
+  "source_id": "1a41f0f9-4a69-4845-a27c-2395bb7dd341",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 331/2020-26",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "Mgr. Ing. Lubomír Křikava",
+    "ecli": "ECLI:CZ:OSJI:2021:11.C.331.2020.1",
+    "predmetRizeni": "o 2 336,09 Kč",
+    "datumVydani": "2021-01-18",
+    "datumZverejneni": "2021-03-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 63 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1a41f0f9-4a69-4845-a27c-2395bb7dd341"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
