@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2021:7.C.237.2020.1",
+  "docket": "7 C 237/2020-27",
+  "date": "2021-01-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7872ada1-874d-45ee-9fc8-80f489686900",
+  "source_sha256": "8943418d6924ab3821107c78b688838a4f3c5925217d38c0f5b0b01408798aee",
+  "source_id": "7872ada1-874d-45ee-9fc8-80f489686900",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 237/2020-27",
+    "soud": "Okresní soud v Přerově",
+    "autor": "JUDr. Margita Marková",
+    "ecli": "ECLI:CZ:OSPR:2021:7.C.237.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-18",
+    "datumZverejneni": "2021-02-19",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7872ada1-874d-45ee-9fc8-80f489686900"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
