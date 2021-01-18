@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:50.C.93.2020.2",
+  "docket": "50 C 93/2020-29",
+  "date": "2021-01-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0a46737e-b1d9-4fc0-921e-997f577ca770",
+  "source_sha256": "d11f90a85e86b244c56200b8c90af943ac48a85e9cc7e493f1c81aa9b6508633",
+  "source_id": "0a46737e-b1d9-4fc0-921e-997f577ca770",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "50 C 93/2020-29",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Marian Heres",
+    "ecli": "ECLI:CZ:OSMO:2021:50.C.93.2020.2",
+    "predmetRizeni": "7 400 Kč s příslušenstvím",
+    "datumVydani": "2021-01-18",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "doménové jméno",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0a46737e-b1d9-4fc0-921e-997f577ca770"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
