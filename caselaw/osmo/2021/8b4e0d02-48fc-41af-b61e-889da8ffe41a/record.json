@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:11.C.279.2020.2",
+  "docket": "11 C 279/2020-26",
+  "date": "2021-01-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8b4e0d02-48fc-41af-b61e-889da8ffe41a",
+  "source_sha256": "772dcf5f959cbf33a6788acb9f01a6e542e061babcc82149871af85300a19258",
+  "source_id": "8b4e0d02-48fc-41af-b61e-889da8ffe41a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 279/2020-26",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Jan Musil",
+    "ecli": "ECLI:CZ:OSMO:2021:11.C.279.2020.2",
+    "predmetRizeni": "5 416 Kč s příslušenstvím",
+    "datumVydani": "2021-01-18",
+    "datumZverejneni": "2021-02-03",
+    "klicovaSlova": [
+      "bytové družstvo",
+      "dlužné platby spojené s užíváním bytu",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§ 1982 z. č. 89/2012 Sb.",
+      "§ 1181 z. č. 89/2012 Sb.",
+      "§ 1180 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 372/2001 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8b4e0d02-48fc-41af-b61e-889da8ffe41a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
