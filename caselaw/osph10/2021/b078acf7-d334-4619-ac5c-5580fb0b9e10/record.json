@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2021:8.C.209.2018.1",
+  "docket": "8 C 209/2018-144",
+  "date": "2021-01-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b078acf7-d334-4619-ac5c-5580fb0b9e10",
+  "source_sha256": "a7790711f4b0f2d4d1b62c2cc393dc910634d3ea5c90ab9e3c4592ba3f47131d",
+  "source_id": "b078acf7-d334-4619-ac5c-5580fb0b9e10",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 209/2018-144",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "Mgr. Andrea Löffelmannová",
+    "ecli": "ECLI:CZ:OSPH10:2021:8.C.209.2018.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-01-18",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "bytové družstvo",
+      "smír"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 120/2001 Sb.",
+      "§ 99 z. č. 99/1963 Sb.",
+      "§ 2004 z. č. 89/2012 Sb.",
+      "§ 13 z. č. 292/2013 Sb.",
+      "§ 2002 z. č. 89/2012 Sb.",
+      "§ 367 z. č. 292/2013 Sb.",
+      "§ 371 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b078acf7-d334-4619-ac5c-5580fb0b9e10"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
