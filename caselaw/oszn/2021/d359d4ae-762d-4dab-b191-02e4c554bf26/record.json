@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:9.C.221.2020.1",
+  "docket": "9 C 221/2020-97",
+  "date": "2021-01-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d359d4ae-762d-4dab-b191-02e4c554bf26",
+  "source_sha256": "d96ee6849cb81b746cebc38629fead65a9e6cf17a825fc73b08347096e5fc367",
+  "source_id": "d359d4ae-762d-4dab-b191-02e4c554bf26",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 221/2020-97",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "JUDr. Marie Hladíková",
+    "ecli": "ECLI:CZ:OSZN:2021:9.C.221.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-18",
+    "datumZverejneni": "2021-02-25",
+    "klicovaSlova": [
+      "domácí násilí",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d359d4ae-762d-4dab-b191-02e4c554bf26"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
