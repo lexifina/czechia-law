@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:15.C.91.2019.4",
+  "docket": "15 C 91/2019-82",
+  "date": "2021-01-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d3818b3d-18c6-458e-b68c-6215b11535f7",
+  "source_sha256": "1728e536a231faa00b780fb641c22ab3fc4584005873b8b04a0b1eaf109d38d9",
+  "source_id": "d3818b3d-18c6-458e-b68c-6215b11535f7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 91/2019-82",
+    "soud": "Okresní soud v Chebu",
+    "autor": "Mgr. Ing. Vladimír Doležal",
+    "ecli": "ECLI:CZ:OSCH:2021:15.C.91.2019.4",
+    "predmetRizeni": "o určení vlastnictví k pohledávce",
+    "datumVydani": "2021-01-18",
+    "datumZverejneni": "2021-10-01",
+    "klicovaSlova": [
+      "insolvenční řízení",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 204 z. č. 99/1963 Sb.",
+      "§ 107a z. č. 99/1963 Sb.",
+      "§ 14 z. č. 182/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d3818b3d-18c6-458e-b68c-6215b11535f7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
