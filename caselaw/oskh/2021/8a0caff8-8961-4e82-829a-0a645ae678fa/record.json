@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kutné Hoře",
+  "ecli": "ECLI:CZ:OSKH:2021:9.C.16.2021.1",
+  "docket": "9 C 16/2021-14",
+  "date": "2021-01-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8a0caff8-8961-4e82-829a-0a645ae678fa",
+  "source_sha256": "184be9fdd8c064ee0e8a696a20a7d595da44a6033732193db001d7a09fa8ff86",
+  "source_id": "8a0caff8-8961-4e82-829a-0a645ae678fa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 16/2021-14",
+    "soud": "Okresní soud v Kutné Hoře",
+    "autor": "Mgr. Jan Buchar",
+    "ecli": "ECLI:CZ:OSKH:2021:9.C.16.2021.1",
+    "predmetRizeni": "O zaplacení 2 345 Kč s příslušenstvím",
+    "datumVydani": "2021-01-18",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 50 z. č. 458/2000 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 251 z. č. 120/2001 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8a0caff8-8961-4e82-829a-0a645ae678fa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
