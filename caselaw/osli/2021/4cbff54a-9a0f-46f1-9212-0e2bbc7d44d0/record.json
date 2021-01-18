@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:21.C.407.2020.1",
+  "docket": "21 C 407/2020-46",
+  "date": "2021-01-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4cbff54a-9a0f-46f1-9212-0e2bbc7d44d0",
+  "source_sha256": "ca9e29e8d0dd2bed3bcaf8fd66b3ff245708863001d1edb719b604374b3d8c5f",
+  "source_id": "4cbff54a-9a0f-46f1-9212-0e2bbc7d44d0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 407/2020-46",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Ivana Houdková",
+    "ecli": "ECLI:CZ:OSLI:2021:21.C.407.2020.1",
+    "predmetRizeni": "o zaplacení částky 11 392,16 Kč s přísl.",
+    "datumVydani": "2021-01-18",
+    "datumZverejneni": "2021-04-06",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 370/2017 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4cbff54a-9a0f-46f1-9212-0e2bbc7d44d0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
