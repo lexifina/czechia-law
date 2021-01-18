@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2021:5.C.240.2020.1",
+  "docket": "5 C 240/2020-15",
+  "date": "2021-01-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a04e8242-b5da-4eff-81d2-033a076e37e0",
+  "source_sha256": "cc119d452a3381d69a2e27287fc848ea58fecdaafb7dc99096a845bf56a2ea93",
+  "source_id": "a04e8242-b5da-4eff-81d2-033a076e37e0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 240/2020-15",
+    "soud": "Okresní soud v Lounech",
+    "autor": "JUDr. Eva Kopecká",
+    "ecli": "ECLI:CZ:OSLN:2021:5.C.240.2020.1",
+    "predmetRizeni": "O zaplacení 4 674 Kč s příslušenstvím",
+    "datumVydani": "2021-01-18",
+    "datumZverejneni": "2021-02-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a04e8242-b5da-4eff-81d2-033a076e37e0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
