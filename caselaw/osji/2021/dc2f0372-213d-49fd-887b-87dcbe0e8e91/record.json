@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2021:11.C.324.2020.1",
+  "docket": "11 C 324/2020-21",
+  "date": "2021-01-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dc2f0372-213d-49fd-887b-87dcbe0e8e91",
+  "source_sha256": "a429958259bee31a097011ce7cdbd4ed00e3f35ae3f41a7f24bd786012cc55d9",
+  "source_id": "dc2f0372-213d-49fd-887b-87dcbe0e8e91",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 324/2020-21",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "Mgr. Ing. Lubomír Křikava",
+    "ecli": "ECLI:CZ:OSJI:2021:11.C.324.2020.1",
+    "predmetRizeni": "o 7 196,30 Kč",
+    "datumVydani": "2021-01-18",
+    "datumZverejneni": "2021-03-29",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 63 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dc2f0372-213d-49fd-887b-87dcbe0e8e91"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
