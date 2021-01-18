@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:10.C.246.2020.1",
+  "docket": "10 C 246/2020-25",
+  "date": "2021-01-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c83f0a7a-2ce4-4a38-9865-2d4034b2bc55",
+  "source_sha256": "b9cb8e63fcb38cfce8ece29e3a656414b818e693404dcd8c4bdbf0cdd3199a92",
+  "source_id": "c83f0a7a-2ce4-4a38-9865-2d4034b2bc55",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 246/2020-25",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "JUDr. Dagmar Štefancová",
+    "ecli": "ECLI:CZ:OSHO:2021:10.C.246.2020.1",
+    "predmetRizeni": "zaplacení 8 980 Kč s příslušenstvím",
+    "datumVydani": "2021-01-18",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c83f0a7a-2ce4-4a38-9865-2d4034b2bc55"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
