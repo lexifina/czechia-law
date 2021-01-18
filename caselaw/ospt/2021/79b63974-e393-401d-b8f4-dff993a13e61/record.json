@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prachaticích",
+  "ecli": "ECLI:CZ:OSPT:2021:9.C.205.2020.1",
+  "docket": "9 C 205/2020-20",
+  "date": "2021-01-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/79b63974-e393-401d-b8f4-dff993a13e61",
+  "source_sha256": "347217f30318bd29e7d6feaa939165aa65fc8324c31e2ad3af649b788ca9b0b3",
+  "source_id": "79b63974-e393-401d-b8f4-dff993a13e61",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 205/2020-20",
+    "soud": "Okresní soud v Prachaticích",
+    "autor": "JUDr. Simona Vojíková",
+    "ecli": "ECLI:CZ:OSPT:2021:9.C.205.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-18",
+    "datumZverejneni": "2021-04-06",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755/1 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/79b63974-e393-401d-b8f4-dff993a13e61"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
