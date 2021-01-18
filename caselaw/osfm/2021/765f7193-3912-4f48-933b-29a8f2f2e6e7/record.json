@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:10.C.257.2020.1",
+  "docket": "10 C 257/2020-15",
+  "date": "2021-01-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/765f7193-3912-4f48-933b-29a8f2f2e6e7",
+  "source_sha256": "6b81346dbc7d47e0e0bdd2cce593a026267896a285ca19980c2ee276d86b1e14",
+  "source_id": "765f7193-3912-4f48-933b-29a8f2f2e6e7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 257/2020-15",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Monika Špoková",
+    "ecli": "ECLI:CZ:OSFM:2021:10.C.257.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-18",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 201 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/765f7193-3912-4f48-933b-29a8f2f2e6e7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
