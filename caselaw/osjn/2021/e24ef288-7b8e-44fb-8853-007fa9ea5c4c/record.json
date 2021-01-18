@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2021:6.C.56.2020.1",
+  "docket": "6 C 56/2020-25",
+  "date": "2021-01-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e24ef288-7b8e-44fb-8853-007fa9ea5c4c",
+  "source_sha256": "3b8389d4f5bfdb65fbbfe0f3c88acfa4623e47abff2482b1f7c536c0df97e0da",
+  "source_id": "e24ef288-7b8e-44fb-8853-007fa9ea5c4c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 56/2020-25",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "Mgr. Petra Dostálová kunická",
+    "ecli": "ECLI:CZ:OSJN:2021:6.C.56.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-18",
+    "datumZverejneni": "2021-02-09",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb.",
+      "§ 13 z. č. 168/1999 Sb.",
+      "§ 800 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e24ef288-7b8e-44fb-8853-007fa9ea5c4c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
