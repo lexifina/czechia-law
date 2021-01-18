@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pelhřimově",
+  "ecli": "ECLI:CZ:OSPE:2021:5.C.202.2020.1",
+  "docket": "5 C 202/2020-24",
+  "date": "2021-01-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5e6f54ff-7b66-403b-90c9-177c9c5402ef",
+  "source_sha256": "e2ad47adcca478264a1d5ce02861445a91e970fab206479ccffa5e53971be08b",
+  "source_id": "5e6f54ff-7b66-403b-90c9-177c9c5402ef",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 202/2020-24",
+    "soud": "Okresní soud v Pelhřimově",
+    "autor": "JUDr. Martin Nováček",
+    "ecli": "ECLI:CZ:OSPE:2021:5.C.202.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-18",
+    "datumZverejneni": "2021-02-01",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5e6f54ff-7b66-403b-90c9-177c9c5402ef"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
