@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Uherském Hradišti",
+  "ecli": "ECLI:CZ:OSUH:2021:15.C.267.2020.2",
+  "docket": "15 C 267/2020-33",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/17b95dbf-4a06-459d-ae0f-e37b081c6fd0",
+  "source_sha256": "abef0b203d946eb9ca9164c3b694b095aca9e4e8fea5bbba03034df1d93e3d15",
+  "source_id": "17b95dbf-4a06-459d-ae0f-e37b081c6fd0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 267/2020-33",
+    "soud": "Okresní soud v Uherském Hradišti",
+    "autor": "Mgr. Martina Jagošová",
+    "ecli": "ECLI:CZ:OSUH:2021:15.C.267.2020.2",
+    "predmetRizeni": "22 180,13 Kč s příslušenstvím",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-11-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění úvěru",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/17b95dbf-4a06-459d-ae0f-e37b081c6fd0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
