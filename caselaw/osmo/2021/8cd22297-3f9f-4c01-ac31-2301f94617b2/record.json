@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:39.C.276.2020.2",
+  "docket": "39 C 276/2020-28",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8cd22297-3f9f-4c01-ac31-2301f94617b2",
+  "source_sha256": "505375bed4d45232d919b80568ea3f67368efdd395d3ea06575300c0ab5c1838",
+  "source_id": "8cd22297-3f9f-4c01-ac31-2301f94617b2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "39 C 276/2020-28",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Rudolf Malý",
+    "ecli": "ECLI:CZ:OSMO:2021:39.C.276.2020.2",
+    "predmetRizeni": "4 850 Kč s příslušenstvím",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-02-02",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 15 z. č. 168/1999 Sb.",
+      "§  vyhl. č. 205/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8cd22297-3f9f-4c01-ac31-2301f94617b2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
