@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2021:20.C.372.2020.1",
+  "docket": "20 C 372/2020-14",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/87cea4f8-5f9b-4d25-86c4-ac9c8f011520",
+  "source_sha256": "99d16f86f7f36e691a0514aa23e0872acb61e3d6eb7b701b9f41dc392aafe57d",
+  "source_id": "87cea4f8-5f9b-4d25-86c4-ac9c8f011520",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 372/2020-14",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "JUDr. Petra Svobodová",
+    "ecli": "ECLI:CZ:OSMB:2021:20.C.372.2020.1",
+    "predmetRizeni": "O zaplacení 3 510 Kč s příslušenstvím",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/87cea4f8-5f9b-4d25-86c4-ac9c8f011520"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
