@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:39.C.206.2020.1",
+  "docket": "39 C 206/2020-70",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cb3e882c-c1eb-4ea1-933a-83cd1a01b309",
+  "source_sha256": "584e6efed19e1d6039046ef0305e82d3eb2ba6999fb6d27f89acad207c6736de",
+  "source_id": "cb3e882c-c1eb-4ea1-933a-83cd1a01b309",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "39 C 206/2020-70",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Petra Pavlíčková",
+    "ecli": "ECLI:CZ:OSPM:2021:39.C.206.2020.1",
+    "predmetRizeni": "o neplatnost rozvázání pracovního poměru",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-08-24",
+    "klicovaSlova": [
+      "okamžité zrušení pracovního poměru",
+      "peněžité plnění",
+      "skončení pracovního poměru",
+      "výpověď z pracovního poměru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 55 z. č. 262/2006 Sb.",
+      "§ 52 z. č. 262/2006 Sb.",
+      "§ 72 z. č. 262/2006 Sb.",
+      "§ 75 z. č. 262/2006 Sb.",
+      "§ 77 z. č. 262/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cb3e882c-c1eb-4ea1-933a-83cd1a01b309"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
