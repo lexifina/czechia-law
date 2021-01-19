@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2021:12.C.237.2020.1",
+  "docket": "12 C 237/2020-57",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a4e933be-0f33-413d-9a37-594cfd927911",
+  "source_sha256": "94873fdf3f0838411bd7667dce28b5f53c4e77042996da7c8ad05eade3dbca65",
+  "source_id": "a4e933be-0f33-413d-9a37-594cfd927911",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 237/2020-57",
+    "soud": "Okresní soud v Lounech",
+    "autor": "JUDr. Vanda Vincíková, Ph.D.",
+    "ecli": "ECLI:CZ:OSLN:2021:12.C.237.2020.1",
+    "predmetRizeni": "O zaplacení 36 652 Kč s příslušenstvím",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-05-06",
+    "klicovaSlova": [
+      "náhrada škody",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 2 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/96 Sb.",
+      "§ 2910 z. č. 89/2012 Sb.",
+      "§ 2927 z. č. 89/2012 Sb.",
+      "§ 24 z. č. 168/1999 Sb.",
+      "§ 24 z. č. 168/99 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a4e933be-0f33-413d-9a37-594cfd927911"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
