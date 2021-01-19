@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPJ:2021:39.C.167.2020 .1",
+  "docket": "39 C 167/2020-128",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/abb3b659-b989-4d3f-a348-aa008679b69b",
+  "source_sha256": "aa527d5b696454de71c06f48fa00f694e01036b6157b9ba7b29dbf954e2adcd3",
+  "source_id": "abb3b659-b989-4d3f-a348-aa008679b69b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "39 C 167/2020-128",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Petra Pavlíčková",
+    "ecli": "ECLI:CZ:OSPJ:2021:39.C.167.2020 .1",
+    "predmetRizeni": "pro určení neplatnosti okamžitého zrušení pracovního poměru",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "okamžité zrušení pracovního poměru",
+      "peněžité plnění",
+      "práce přesčas",
+      "pracovní kázeň"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 55 z. č. 262/2006 Sb.",
+      "§ 72 z. č. 262/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/abb3b659-b989-4d3f-a348-aa008679b69b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
