@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rychnově nad Kněžnou",
+  "ecli": "ECLI:CZ:OSRK:2021:9.C.110.2020.1",
+  "docket": "9 C 110/2020-33",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1d5a8474-cb06-48df-99e6-a56c40dfd53f",
+  "source_sha256": "f8f5272ab32b5159707c75438c805f97559255e74b593c71fe60c08fd6804df6",
+  "source_id": "1d5a8474-cb06-48df-99e6-a56c40dfd53f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 110/2020-33",
+    "soud": "Okresní soud v Rychnově nad Kněžnou",
+    "autor": "Mgr. et Mgr. Lucie Hrůšová",
+    "ecli": "ECLI:CZ:OSRK:2021:9.C.110.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-02-01",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1 nař. vl. č. 351/2013 Sb.",
+      "§ 63 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1d5a8474-cb06-48df-99e6-a56c40dfd53f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
