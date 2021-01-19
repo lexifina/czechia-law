@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rychnově nad Kněžnou",
+  "ecli": "ECLI:CZ:OSRK:2021:13.C.375.2020.1",
+  "docket": "13 C 375/2020-19",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cb5a1527-987d-4067-97da-d66da7b108b1",
+  "source_sha256": "db461453e68236ba20578b9d2676283e75a1e34b4c6aac6740579da9e162304e",
+  "source_id": "cb5a1527-987d-4067-97da-d66da7b108b1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 375/2020-19",
+    "soud": "Okresní soud v Rychnově nad Kněžnou",
+    "autor": "Mgr. Stanislav Findejs",
+    "ecli": "ECLI:CZ:OSRK:2021:13.C.375.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 497 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cb5a1527-987d-4067-97da-d66da7b108b1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
