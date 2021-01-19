@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:117.C.360.2020.1",
+  "docket": "117 C 360/2020-37",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/531e38d5-ab93-4708-929a-e79be0a65d23",
+  "source_sha256": "ec4d0580573af31e91cc6e3b2ce57f2f6d5afb986ff99e855bc7e175f8df6733",
+  "source_id": "531e38d5-ab93-4708-929a-e79be0a65d23",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "117 C 360/2020-37",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "JUDr. Silvie Morongová",
+    "ecli": "ECLI:CZ:OSKIHA:2021:117.C.360.2020.1",
+    "predmetRizeni": "7 000 Kč s příslušenstvím",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-02-15",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ § 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/531e38d5-ab93-4708-929a-e79be0a65d23"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
