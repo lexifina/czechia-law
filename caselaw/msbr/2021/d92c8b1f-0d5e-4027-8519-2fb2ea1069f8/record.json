@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:16.C.102.2020.1",
+  "docket": "16 C 102/2020-20",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d92c8b1f-0d5e-4027-8519-2fb2ea1069f8",
+  "source_sha256": "fa870655aceba4113c84377d6469538cf2a0d2782245dcf8e4a308f67c8f568b",
+  "source_id": "d92c8b1f-0d5e-4027-8519-2fb2ea1069f8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 102/2020-20",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Miroslav Král",
+    "ecli": "ECLI:CZ:MSBR:2021:16.C.102.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 395 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d92c8b1f-0d5e-4027-8519-2fb2ea1069f8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
