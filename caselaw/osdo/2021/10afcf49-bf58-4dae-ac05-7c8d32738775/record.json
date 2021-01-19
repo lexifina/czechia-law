@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:3.C.294.2020.1",
+  "docket": "3 C 294/2020-17",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/10afcf49-bf58-4dae-ac05-7c8d32738775",
+  "source_sha256": "3ff301a6270c60e56c3e6775ddf7808ff7aee672314afc1dc6c45c18d937cd97",
+  "source_id": "10afcf49-bf58-4dae-ac05-7c8d32738775",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 294/2020-17",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "Vladimír Matějíček",
+    "ecli": "ECLI:CZ:OSDO:2021:3.C.294.2020.1",
+    "predmetRizeni": "O zaplacení 2 184 Kč s příslušenstvím",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/10afcf49-bf58-4dae-ac05-7c8d32738775"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
