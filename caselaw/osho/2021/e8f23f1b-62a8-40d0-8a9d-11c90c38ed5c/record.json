@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:4.C.179.2020.1",
+  "docket": "4 C 179/2020-62",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e8f23f1b-62a8-40d0-8a9d-11c90c38ed5c",
+  "source_sha256": "327a8c1820744e3b8cb6fe3353ffb4b95baf226435141a0fbb640c939229a388",
+  "source_id": "e8f23f1b-62a8-40d0-8a9d-11c90c38ed5c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 179/2020-62",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "Mgr. Petra Svačinová",
+    "ecli": "ECLI:CZ:OSHO:2021:4.C.179.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-02-24",
+    "klicovaSlova": [
+      "smlouva o úvěru",
+      "smlouva zástavní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 358 z. č. 292/2013 Sb.",
+      "§ 267 z. č. 99/1963 Sb.",
+      "§ 200z z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e8f23f1b-62a8-40d0-8a9d-11c90c38ed5c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
