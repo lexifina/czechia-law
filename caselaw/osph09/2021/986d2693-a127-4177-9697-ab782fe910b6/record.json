@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2021:52.C.115.2019.4",
+  "docket": "52 C 115/2019-128",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/986d2693-a127-4177-9697-ab782fe910b6",
+  "source_sha256": "5ebf1e19e9e016901c32e9f71180ce09eee6a95ade1a999fbed2cf98ef7c577f",
+  "source_id": "986d2693-a127-4177-9697-ab782fe910b6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "52 C 115/2019-128",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "Mgr. Katarína Kuhnová",
+    "ecli": "ECLI:CZ:OSPH09:2021:52.C.115.2019.4",
+    "predmetRizeni": "zaplacení 100 000 Kč s přísl.",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-06-21",
+    "klicovaSlova": [
+      "pasivní legitimace",
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/986d2693-a127-4177-9697-ab782fe910b6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
