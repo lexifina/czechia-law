@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:8.C.139.2020.2",
+  "docket": "8 C 139/2020-18",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ffb353f3-49c7-4116-8c63-fcd41a9e2e76",
+  "source_sha256": "e11c0a4721b898b9caae98f1eb02588c1e0304d9711860896eb14d6b72a3cb53",
+  "source_id": "ffb353f3-49c7-4116-8c63-fcd41a9e2e76",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 139/2020-18",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "Mgr. Stanislav Janků",
+    "ecli": "ECLI:CZ:OSSO:2021:8.C.139.2020.2",
+    "predmetRizeni": "zaplacení 2 715 Kč s příslušenstvím",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 115 z. č. 99/1963 Sb.",
+      "§ 13 z. č. 168/1999 Sb.",
+      "§ 6 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ffb353f3-49c7-4116-8c63-fcd41a9e2e76"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
