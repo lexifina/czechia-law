@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2021:12.C.267.2020.1",
+  "docket": "12 C 267/2020-15",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c41a426a-ae93-400c-99b3-241fa4c569b0",
+  "source_sha256": "8041046ee90ea62ac0ebdafd88f48e3838160a5e991e6db403b0c222a4ffe756",
+  "source_id": "c41a426a-ae93-400c-99b3-241fa4c569b0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 267/2020-15",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "Mgr. Monika Bittnerová",
+    "ecli": "ECLI:CZ:OSJN:2021:12.C.267.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-01-27",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c41a426a-ae93-400c-99b3-241fa4c569b0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
