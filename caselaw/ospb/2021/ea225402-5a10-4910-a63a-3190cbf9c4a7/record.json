@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:11.C.152.2020.2",
+  "docket": "11 C 152/2020-15",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ea225402-5a10-4910-a63a-3190cbf9c4a7",
+  "source_sha256": "caabe4900d5ecb59c4de8e2c87e5a79001abe3962c5a520117eb01efef344275",
+  "source_id": "ea225402-5a10-4910-a63a-3190cbf9c4a7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 152/2020-15",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Štěpán Slavík",
+    "ecli": "ECLI:CZ:OSPB:2021:11.C.152.2020.2",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-02-11",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ea225402-5a10-4910-a63a-3190cbf9c4a7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
