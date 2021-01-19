@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Litoměřicích",
+  "ecli": "ECLI:CZ:OSLT:2021:8.C.195.2020.1",
+  "docket": "8 C 195/2020-17",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/33c5683b-d957-48e5-9975-c06f9a7fa29a",
+  "source_sha256": "029fb537e470bf6d40f0749391e9d53935d962c3823a4f1b1ad804365b793ebd",
+  "source_id": "33c5683b-d957-48e5-9975-c06f9a7fa29a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 195/2020-17",
+    "soud": "Okresní soud v Litoměřicích",
+    "autor": "JUDr. Karolína Kudláčková řezáčová",
+    "ecli": "ECLI:CZ:OSLT:2021:8.C.195.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-02-23",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/33c5683b-d957-48e5-9975-c06f9a7fa29a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
