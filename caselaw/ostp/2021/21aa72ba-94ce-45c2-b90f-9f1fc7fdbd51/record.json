@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:13.C.266.2020.1",
+  "docket": "13 C 266/2020-28",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/21aa72ba-94ce-45c2-b90f-9f1fc7fdbd51",
+  "source_sha256": "139c1e8a5d93c879dcc54f796e2ad36fb1e4f5ab8f2cae74eda1a1485d8a4283",
+  "source_id": "21aa72ba-94ce-45c2-b90f-9f1fc7fdbd51",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 266/2020-28",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "JUDr. Ivana Dvořáková",
+    "ecli": "ECLI:CZ:OSTP:2021:13.C.266.2020.1",
+    "predmetRizeni": "zaplacení 9 988 Kč s příslušenstvím",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-02-23",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/21aa72ba-94ce-45c2-b90f-9f1fc7fdbd51"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
