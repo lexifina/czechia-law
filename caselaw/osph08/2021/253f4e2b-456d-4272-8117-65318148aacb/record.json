@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2021:27.C.69.2014.4",
+  "docket": "27 C 69/2014-134",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/253f4e2b-456d-4272-8117-65318148aacb",
+  "source_sha256": "77868d19251d5cbe0315538cfefffc700c7604edb33c06240ff42965eb40db28",
+  "source_id": "253f4e2b-456d-4272-8117-65318148aacb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 69/2014-134",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "Mgr. Pavel Jaroš",
+    "ecli": "ECLI:CZ:OSPH08:2021:27.C.69.2014.4",
+    "predmetRizeni": "Žaloba o zaplacení 60.077,50 Kč s přísl.",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-05-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 517 nař. vl. č. 351/2013 Sb.",
+      "§  z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/253f4e2b-456d-4272-8117-65318148aacb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
