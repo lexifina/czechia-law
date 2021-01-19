@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2021:17.C.185.2020.1",
+  "docket": "17 C 185/2020-61",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8778d79f-cd39-470e-91c9-ae6f5090582c",
+  "source_sha256": "0968daaa431d83df5f17c3893ab1883347bbacab1f177100905de85ad1fbf086",
+  "source_id": "8778d79f-cd39-470e-91c9-ae6f5090582c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 185/2020-61",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "Mgr. Vladimír Koutný",
+    "ecli": "ECLI:CZ:OSBU:2021:17.C.185.2020.1",
+    "predmetRizeni": "2.993,54 Kč",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 513 z. č. 89/2012 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 2 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8778d79f-cd39-470e-91c9-ae6f5090582c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
