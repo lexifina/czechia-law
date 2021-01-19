@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2021:4.C.52.2020.1",
+  "docket": "4 C 52/2020-77",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fcdc2488-5da0-4c5b-8e11-c5a59e351379",
+  "source_sha256": "f8cd5f99af269707be0af51d6b5d054c9f25c19b082dc1320a626958ece65fa6",
+  "source_id": "fcdc2488-5da0-4c5b-8e11-c5a59e351379",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 52/2020-77",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "JUDr. Dana Smitková",
+    "ecli": "ECLI:CZ:OSPZ:2021:4.C.52.2020.1",
+    "predmetRizeni": "zaplacení částky [částka] s přísl.",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-03-29",
+    "klicovaSlova": [
+      "dotace",
+      "peněžité plnění",
+      "smlouva o dílo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2586 z. č. 89/2012 Sb.",
+      "§ 2913 z. č. 89/2012 Sb.",
+      "§ 2604 z. č. 89/2012 Sb.",
+      "§ 2605 z. č. 89/2012 Sb.",
+      "§ 6 z. č. 134/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fcdc2488-5da0-4c5b-8e11-c5a59e351379"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
