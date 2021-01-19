@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:22.C.252.2020.1",
+  "docket": "22 C 252/2020-22",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9b681fa6-6f09-4f5c-a310-bbde5fdf5b43",
+  "source_sha256": "0824255aca6022a21750a2b67f7a19277933fe573612d15482274c3d7248ff0c",
+  "source_id": "9b681fa6-6f09-4f5c-a310-bbde5fdf5b43",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 252/2020-22",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "JUDr. Kateřina Krůpová",
+    "ecli": "ECLI:CZ:OSHO:2021:22.C.252.2020.1",
+    "predmetRizeni": "zaplacení 1 918,78 Kč",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-03-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9b681fa6-6f09-4f5c-a310-bbde5fdf5b43"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
