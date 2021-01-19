@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2021:108.C.15.2020.1",
+  "docket": "108 C 15/2020-69",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a4569ea3-0eee-4394-a35b-37eab1cb5f62",
+  "source_sha256": "12af13f223bbd635ea58eaf3edba2245aba422111bbeacfca1a70d1c890d15cb",
+  "source_id": "a4569ea3-0eee-4394-a35b-37eab1cb5f62",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "108 C 15/2020-69",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "Mgr. Radek Pavlačka",
+    "ecli": "ECLI:CZ:OSJI:2021:108.C.15.2020.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-03-10",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "smlouva o úvěru",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§  z. č. 110/2006 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 9 z. č. 140/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a4569ea3-0eee-4394-a35b-37eab1cb5f62"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
