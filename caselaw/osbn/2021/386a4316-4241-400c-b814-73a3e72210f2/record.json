@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2021:12.C.164.2020.1",
+  "docket": "12 C 164/2020-15",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/386a4316-4241-400c-b814-73a3e72210f2",
+  "source_sha256": "61ca7430cccae9bc3ff45885dc8986af6862b593c503f1a9906416f5c95de3ca",
+  "source_id": "386a4316-4241-400c-b814-73a3e72210f2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 164/2020-15",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Petra Jun lišková",
+    "ecli": "ECLI:CZ:OSBN:2021:12.C.164.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-12-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/386a4316-4241-400c-b814-73a3e72210f2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
