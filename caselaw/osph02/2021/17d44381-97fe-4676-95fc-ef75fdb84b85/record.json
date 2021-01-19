@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:19.C.259.2017.15",
+  "docket": "19 C 259/2017-270",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/17d44381-97fe-4676-95fc-ef75fdb84b85",
+  "source_sha256": "54bb6e0c60667b84443554f53a79b313db45d00d4d5d26f49ae6de65a2ded264",
+  "source_id": "17d44381-97fe-4676-95fc-ef75fdb84b85",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 259/2017-270",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "Mgr. Lucie Vítková",
+    "ecli": "ECLI:CZ:OSPH02:2021:19.C.259.2017.15",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-12-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "tlumočné",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 1 z. č. 82/98 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/17d44381-97fe-4676-95fc-ef75fdb84b85"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
