@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:121.C.26.2020.1",
+  "docket": "121 C 26/2020",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/78f34711-8a10-4ff9-942a-af32d06bc717",
+  "source_sha256": "456a7df039ef1cfb1df7205626796174704716d78e605d941331a17feb96a12a",
+  "source_id": "78f34711-8a10-4ff9-942a-af32d06bc717",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "121 C 26/2020",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Martina Burešová",
+    "ecli": "ECLI:CZ:OSKD:2021:121.C.26.2020.1",
+    "predmetRizeni": "o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "insolvence",
+      "smlouva o úvěru",
+      "vzájemné plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/78f34711-8a10-4ff9-942a-af32d06bc717"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
