@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:51.C.208.2020.1",
+  "docket": "51 C 208/2020-18",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a677001b-bdd0-4639-9761-2d93f4dd0e78",
+  "source_sha256": "b8b69eb192634e26fc4595a7b5218422716273b719b2dd821440f2eb41cfa596",
+  "source_id": "a677001b-bdd0-4639-9761-2d93f4dd0e78",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "51 C 208/2020-18",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "JUDr. Jitka Šimanová",
+    "ecli": "ECLI:CZ:OSPH04:2021:51.C.208.2020.1",
+    "predmetRizeni": "O zaplacení 1 761 Kč s příslušenstvím",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-03-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a677001b-bdd0-4639-9761-2d93f4dd0e78"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
