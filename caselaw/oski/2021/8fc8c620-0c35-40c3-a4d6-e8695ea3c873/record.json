@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2021:25.C.135.2020.1",
+  "docket": "25 C 135/2020-50",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8fc8c620-0c35-40c3-a4d6-e8695ea3c873",
+  "source_sha256": "13b58b068389a0c674f98dba90e208066ccef34bca8c8af94c884a2b9f0b8773",
+  "source_id": "8fc8c620-0c35-40c3-a4d6-e8695ea3c873",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 135/2020-50",
+    "soud": "Okresní soud v Karviné",
+    "autor": "JUDr. Jan Chowaniec",
+    "ecli": "ECLI:CZ:OSKI:2021:25.C.135.2020.1",
+    "predmetRizeni": "100 285 Kč s příslušenstvím",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-10-18",
+    "klicovaSlova": [
+      "nebytový prostor",
+      "peněžité plnění",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1724 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§ 250 z. č. 262/2006 Sb.",
+      "§ 252 z. č. 262/2006 Sb.",
+      "§ 255 z. č. 262/2006 Sb.",
+      "§ 1772 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8fc8c620-0c35-40c3-a4d6-e8695ea3c873"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
