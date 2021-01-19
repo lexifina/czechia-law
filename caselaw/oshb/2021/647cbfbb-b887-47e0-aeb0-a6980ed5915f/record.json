@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Havlíčkově Brodě",
+  "ecli": "ECLI:CZ:OSHB:2021:8.C.142.2020.1",
+  "docket": "8 C 142/2020-43",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/647cbfbb-b887-47e0-aeb0-a6980ed5915f",
+  "source_sha256": "9c2d29b360c4e9dc3a3c2ec4603920a3dc3da97d355bf5a7072c9bc3e04a2495",
+  "source_id": "647cbfbb-b887-47e0-aeb0-a6980ed5915f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 142/2020-43",
+    "soud": "Okresní soud v Havlíčkově Brodě",
+    "autor": "JUDr. Iveta Orlíková",
+    "ecli": "ECLI:CZ:OSHB:2021:8.C.142.2020.1",
+    "predmetRizeni": "zaplacení 18.135 Kč s příslušenstvím",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-03-19",
+    "klicovaSlova": [
+      "ručení",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 13 vyhl. č. 56/2001 Sb.",
+      "§ 4 z. č. 293/2017 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/647cbfbb-b887-47e0-aeb0-a6980ed5915f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
