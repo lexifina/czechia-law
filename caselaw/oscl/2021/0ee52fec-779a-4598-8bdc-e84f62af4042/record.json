@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:51.C.257.2020.1",
+  "docket": "51 C 257/2020-16",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0ee52fec-779a-4598-8bdc-e84f62af4042",
+  "source_sha256": "24a117d0f7a2ed3c9f039fe25cbb2372e4d806f5919161fb62ff50561e5dba8e",
+  "source_id": "0ee52fec-779a-4598-8bdc-e84f62af4042",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "51 C 257/2020-16",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Hana Cholastová",
+    "ecli": "ECLI:CZ:OSCL:2021:51.C.257.2020.1",
+    "predmetRizeni": "O zaplacení 6 300 Kč s příslušenstvím",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-03-03",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0ee52fec-779a-4598-8bdc-e84f62af4042"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
