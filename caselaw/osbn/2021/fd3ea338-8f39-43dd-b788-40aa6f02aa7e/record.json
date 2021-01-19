@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2021:6.C.353.2020.1",
+  "docket": "6 C 353/2020-25",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fd3ea338-8f39-43dd-b788-40aa6f02aa7e",
+  "source_sha256": "b6d3342c75ef0c6bc12d20d7b5aeb0f13a64265c6b08c90b3565b5e6609f8318",
+  "source_id": "fd3ea338-8f39-43dd-b788-40aa6f02aa7e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 353/2020-25",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Štěpánka Brožová",
+    "ecli": "ECLI:CZ:OSBN:2021:6.C.353.2020.1",
+    "predmetRizeni": "o zaplacení 675 Kč s příslušenstvím",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-03-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 3,6,7,8,10 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fd3ea338-8f39-43dd-b788-40aa6f02aa7e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
