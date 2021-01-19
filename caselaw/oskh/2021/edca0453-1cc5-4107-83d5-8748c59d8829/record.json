@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kutné Hoře",
+  "ecli": "ECLI:CZ:OSKH:2021:8.C.442.2020.1",
+  "docket": "8 C 442/2020-20",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/edca0453-1cc5-4107-83d5-8748c59d8829",
+  "source_sha256": "37b49a733049b5100c4f7bb525caef12d855469c02cc0567e9f94f9e2bf052ce",
+  "source_id": "edca0453-1cc5-4107-83d5-8748c59d8829",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 442/2020-20",
+    "soud": "Okresní soud v Kutné Hoře",
+    "autor": "Mgr. Jindřich Kříž",
+    "ecli": "ECLI:CZ:OSKH:2021:8.C.442.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-02-12",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/edca0453-1cc5-4107-83d5-8748c59d8829"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
