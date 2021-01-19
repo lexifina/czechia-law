@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:24.C.313.2020.1",
+  "docket": "24 C 313/2020",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/40f6bccb-8b1b-4d50-9dcf-b2dc4fb3eb99",
+  "source_sha256": "98b9de4a7c46cf8994d35becbf5102d94c37aa9105bd4114d8e9d9ad1c0079c5",
+  "source_id": "40f6bccb-8b1b-4d50-9dcf-b2dc4fb3eb99",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 313/2020",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Ivana Jakšičová",
+    "ecli": "ECLI:CZ:OSTA:2021:24.C.313.2020.1",
+    "predmetRizeni": "o zaplacení 4 530 Kč s příslušenstvím",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-02-11",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 18a z. č. 111/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/40f6bccb-8b1b-4d50-9dcf-b2dc4fb3eb99"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
