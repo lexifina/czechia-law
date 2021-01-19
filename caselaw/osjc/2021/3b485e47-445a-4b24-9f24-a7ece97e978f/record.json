@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jičíně",
+  "ecli": "ECLI:CZ:OSJC:2021:7.C.70.2020.1",
+  "docket": "7 C 70/2020-40",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3b485e47-445a-4b24-9f24-a7ece97e978f",
+  "source_sha256": "fb6c7ddcc9293d1c60c68e28938506c11b0ce0e87ee58442ddce8529ad8b9adb",
+  "source_id": "3b485e47-445a-4b24-9f24-a7ece97e978f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 70/2020-40",
+    "soud": "Okresní soud v Jičíně",
+    "autor": "JUDr. Jana Valentová",
+    "ecli": "ECLI:CZ:OSJC:2021:7.C.70.2020.1",
+    "predmetRizeni": "o zdržení se protiprávního jednání",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-08-09",
+    "klicovaSlova": [
+      "nájem domu",
+      "smlouva kupní",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 99/1963 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 1040 z. č. 89/2012 Sb.",
+      "§ 3074 z. č. 89/2012 Sb.",
+      "§ 1042 z. č. 89/2012 Sb.",
+      "§ 208 z. č. 40/2009 Sb.",
+      "§ 1044 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3b485e47-445a-4b24-9f24-a7ece97e978f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
