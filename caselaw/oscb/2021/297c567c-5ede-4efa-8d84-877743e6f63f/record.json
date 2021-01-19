@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:9.C.212.2020.1",
+  "docket": "9 C 212/2020-14",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/297c567c-5ede-4efa-8d84-877743e6f63f",
+  "source_sha256": "f7317a007aa1553ea4f5472a8de6af364a0ab70d92f1e3064125331dddc084f0",
+  "source_id": "297c567c-5ede-4efa-8d84-877743e6f63f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 212/2020-14",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "JUDr. Jana Hrdinová",
+    "ecli": "ECLI:CZ:OSCB:2021:9.C.212.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-03-16",
+    "klicovaSlova": [
+      "místní příslušnost",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 383 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/297c567c-5ede-4efa-8d84-877743e6f63f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
