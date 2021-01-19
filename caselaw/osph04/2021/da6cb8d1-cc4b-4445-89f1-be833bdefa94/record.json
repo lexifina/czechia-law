@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:51.C.192.2020.1",
+  "docket": "51 C 192/2020-24",
+  "date": "2021-01-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/da6cb8d1-cc4b-4445-89f1-be833bdefa94",
+  "source_sha256": "d14767c658c3bd0417ac82d44a1f86f667a00c8f5dcbd0eaf7c6d8ccc5b76d50",
+  "source_id": "da6cb8d1-cc4b-4445-89f1-be833bdefa94",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "51 C 192/2020-24",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "JUDr. Jitka Šimanová",
+    "ecli": "ECLI:CZ:OSPH04:2021:51.C.192.2020.1",
+    "predmetRizeni": "O zaplacení 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-01-19",
+    "datumZverejneni": "2021-05-21",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 175/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/da6cb8d1-cc4b-4445-89f1-be833bdefa94"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
