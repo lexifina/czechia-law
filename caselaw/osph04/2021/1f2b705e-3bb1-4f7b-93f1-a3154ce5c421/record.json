@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:21.C.364.2020.1",
+  "docket": "21 C 364/2020-21",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1f2b705e-3bb1-4f7b-93f1-a3154ce5c421",
+  "source_sha256": "a87a7bc5dcc6fa25830438ba4ff14214215d9582cb94adae7264ed9ab3fd4ad6",
+  "source_id": "1f2b705e-3bb1-4f7b-93f1-a3154ce5c421",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 364/2020-21",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "PaedDr. Mgr. Ivana Jarešová",
+    "ecli": "ECLI:CZ:OSPH04:2021:21.C.364.2020.1",
+    "predmetRizeni": "O zaplacení 7 104 Kč",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-04-06",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1f2b705e-3bb1-4f7b-93f1-a3154ce5c421"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
