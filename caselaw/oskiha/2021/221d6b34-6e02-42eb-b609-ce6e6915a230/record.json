@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:117.C.14.2021.1",
+  "docket": "117 C 14/2021-17",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/221d6b34-6e02-42eb-b609-ce6e6915a230",
+  "source_sha256": "1dab0bea6626652d00601f573ec8cdb970cfd17b9f1ee66a588275c16fb1576e",
+  "source_id": "221d6b34-6e02-42eb-b609-ce6e6915a230",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "117 C 14/2021-17",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "JUDr. Silvie Morongová",
+    "ecli": "ECLI:CZ:OSKIHA:2021:117.C.14.2021.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-02-15",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "rozvod manželství",
+      "vyklizení bytu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/221d6b34-6e02-42eb-b609-ce6e6915a230"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
