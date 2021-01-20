@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:31.C.306.2020.1",
+  "docket": "31 C 306/2020-10",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b7aa6543-3616-41b7-9d42-e66f0ddecd17",
+  "source_sha256": "03141e672373a33529d5c029e48900394c81d146d780e7f8864d077bc4741f51",
+  "source_id": "b7aa6543-3616-41b7-9d42-e66f0ddecd17",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "31 C 306/2020-10",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Jan Zdražil",
+    "ecli": "ECLI:CZ:OSCV:2021:31.C.306.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-02-15",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b7aa6543-3616-41b7-9d42-e66f0ddecd17"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
