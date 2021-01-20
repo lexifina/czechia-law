@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:8.C.2.2021.1",
+  "docket": "8 C 2/2021-19",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2c83871f-5b03-4f14-b66a-f7f0cda3b601",
+  "source_sha256": "f8b3a2d19d573794976fe9cd1bce75ff4268e0b9c1dc72fe45f31cde0df6c72e",
+  "source_id": "2c83871f-5b03-4f14-b66a-f7f0cda3b601",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 2/2021-19",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Kateřina Uhrynová",
+    "ecli": "ECLI:CZ:OSDC:2021:8.C.2.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-03-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2c83871f-5b03-4f14-b66a-f7f0cda3b601"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
