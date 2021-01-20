@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Havlíčkově Brodě",
+  "ecli": "ECLI:CZ:OSHB:2021:17.C.74.2020.3",
+  "docket": "17 C 74/2020-39",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d570170b-277e-47b3-bc24-e975bb46cbb8",
+  "source_sha256": "7bb2dc4f641470c2fb90196780d7f1236800828b39564aeb026a89e4be20775a",
+  "source_id": "d570170b-277e-47b3-bc24-e975bb46cbb8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 74/2020-39",
+    "soud": "Okresní soud v Havlíčkově Brodě",
+    "autor": "Mgr. Bc. Hana Stuchlíková",
+    "ecli": "ECLI:CZ:OSHB:2021:17.C.74.2020.3",
+    "predmetRizeni": "zaplacení 17.482 Kč s příslušenstvím",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-03-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d570170b-277e-47b3-bc24-e975bb46cbb8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
