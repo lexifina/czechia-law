@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:20.C.308.2020.2",
+  "docket": "20 C 308/2020-25",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dba64c7f-934f-4da9-af1a-af8ee026104c",
+  "source_sha256": "0c91cecd38b94836f2a878cfdbb2e116468ad447f5b0bdbb04e11548f9fc7eff",
+  "source_id": "dba64c7f-934f-4da9-af1a-af8ee026104c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 308/2020-25",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "Mgr. Ludmila Papicová",
+    "ecli": "ECLI:CZ:OSOL:2021:20.C.308.2020.2",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-02-12",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dba64c7f-934f-4da9-af1a-af8ee026104c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
