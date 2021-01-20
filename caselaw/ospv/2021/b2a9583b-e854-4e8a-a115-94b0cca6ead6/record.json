@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:9.C.327.2018.1",
+  "docket": "9 C 327/2018-51",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b2a9583b-e854-4e8a-a115-94b0cca6ead6",
+  "source_sha256": "e2becc19d2abd843e0273d34cfda2dc0090e05f357704e6ccb7919163e7c5c68",
+  "source_id": "b2a9583b-e854-4e8a-a115-94b0cca6ead6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 327/2018-51",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "JUDr. Alice Havránková",
+    "ecli": "ECLI:CZ:OSPV:2021:9.C.327.2018.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-04-01",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b2a9583b-e854-4e8a-a115-94b0cca6ead6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
