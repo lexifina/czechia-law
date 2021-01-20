@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Blansku",
+  "ecli": "ECLI:CZ:OSBK:2021:10.C.71.2020.1",
+  "docket": "10 C 71/2020-25",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c6c8b038-9e52-4462-b1ff-f69d5949198c",
+  "source_sha256": "dc0c66284372c0171f44c17ba444427488e5dccc4da2cf816b5aceb81e4205cf",
+  "source_id": "c6c8b038-9e52-4462-b1ff-f69d5949198c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 71/2020-25",
+    "soud": "Okresní soud v Blansku",
+    "autor": "Mgr. Lenka Polachová",
+    "ecli": "ECLI:CZ:OSBK:2021:10.C.71.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-01-21",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c6c8b038-9e52-4462-b1ff-f69d5949198c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
