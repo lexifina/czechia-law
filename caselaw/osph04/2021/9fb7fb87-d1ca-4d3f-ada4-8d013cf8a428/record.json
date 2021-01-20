@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:19.C.57.2020.1",
+  "docket": "19 C 57/2020",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9fb7fb87-d1ca-4d3f-ada4-8d013cf8a428",
+  "source_sha256": "b2ebe11b35651813e3e41fc63c1370d815ac083b2a97c62b0447321db71b5282",
+  "source_id": "9fb7fb87-d1ca-4d3f-ada4-8d013cf8a428",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 57/2020",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "Mgr. Michal Průžek",
+    "ecli": "ECLI:CZ:OSPH04:2021:19.C.57.2020.1",
+    "predmetRizeni": "Žaloba na zaplacení smluvní pokuty",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-03-25",
+    "klicovaSlova": [
+      "pasivní legitimace",
+      "peněžité plnění",
+      "smlouva kupní",
+      "smlouva o dílo",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 2051 z. č. 89/2012 Sb.",
+      "§ 2632 z. č. 89/2012 Sb.",
+      "§ 2605 z. č. 89/2012 Sb.",
+      "§ 1975 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9fb7fb87-d1ca-4d3f-ada4-8d013cf8a428"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
