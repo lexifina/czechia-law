@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kroměříži",
+  "ecli": "ECLI:CZ:OSKM:2021:16.C.92.2020.7",
+  "docket": "16 C 92/2020-80",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/988811ce-a10c-405e-b3da-deba1f68e296",
+  "source_sha256": "43c3983958e31938a775146c05f7f9a7c140cdd90aef4e4a686a1de16dc8915f",
+  "source_id": "988811ce-a10c-405e-b3da-deba1f68e296",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 92/2020-80",
+    "soud": "Okresní soud v Kroměříži",
+    "autor": "Mgr. Radim Slezák",
+    "ecli": "ECLI:CZ:OSKM:2021:16.C.92.2020.7",
+    "predmetRizeni": "zaplacení [částka] (určení platnosti odstoupení od kupní smlouvy)",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-02-07",
+    "klicovaSlova": [
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/988811ce-a10c-405e-b3da-deba1f68e296"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
