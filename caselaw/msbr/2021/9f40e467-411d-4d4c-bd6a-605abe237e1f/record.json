@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:21.C.247.2020.1",
+  "docket": "21 C 247/2020-17",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9f40e467-411d-4d4c-bd6a-605abe237e1f",
+  "source_sha256": "209698aa75558aef368e23e4f5d2113dcbebb372963c0015fe8e755e08075f3e",
+  "source_id": "9f40e467-411d-4d4c-bd6a-605abe237e1f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 247/2020-17",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Hana Šťastná",
+    "ecli": "ECLI:CZ:MSBR:2021:21.C.247.2020.1",
+    "predmetRizeni": "zaplacení 5.394,60 Kč - smluvní pokuta",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9f40e467-411d-4d4c-bd6a-605abe237e1f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
