@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:5.C.168.2020.1",
+  "docket": "5 C 168/2020-13",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e4ec54dd-0208-4eb8-ae5d-3ba647cb17ee",
+  "source_sha256": "3fb274f519defeefacf786e22ef0f16026ba000bc4ab160e3a1635de4740093c",
+  "source_id": "e4ec54dd-0208-4eb8-ae5d-3ba647cb17ee",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 168/2020-13",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "Mgr. Ing. David Svoboda",
+    "ecli": "ECLI:CZ:OSRO:2021:5.C.168.2020.1",
+    "predmetRizeni": "zaplacení 5 047 Kč s přísl.",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-04-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e4ec54dd-0208-4eb8-ae5d-3ba647cb17ee"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
