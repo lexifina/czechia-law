@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:8.C.90.2020.3",
+  "docket": "8 C 90/2020-69",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/aa999662-26e1-44e2-a167-eb37fc034c86",
+  "source_sha256": "e61586926303f7b107846de4b859ed6f198c878e6a76bda97f6368d287f40bea",
+  "source_id": "aa999662-26e1-44e2-a167-eb37fc034c86",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 90/2020-69",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "Mgr. Milan Baudyš",
+    "ecli": "ECLI:CZ:OSNA:2021:8.C.90.2020.3",
+    "predmetRizeni": "o zaplacení 15 318,96 Kč s příslušenstvím (kupní smlouva)",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/aa999662-26e1-44e2-a167-eb37fc034c86"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
