@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Písku",
+  "ecli": "ECLI:CZ:OSPI:2021:12.C.355.2020.1",
+  "docket": "12 C 355/2020-43",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d27ad40c-d3c3-4700-b35c-3bc04ef813d4",
+  "source_sha256": "43ee26a547fb9d593742b2ab7d775bd6344e2faf7bc12adb45a04dc0e8bca22b",
+  "source_id": "d27ad40c-d3c3-4700-b35c-3bc04ef813d4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 355/2020-43",
+    "soud": "Okresní soud v Písku",
+    "autor": "Mgr. Daniela Špeldová",
+    "ecli": "ECLI:CZ:OSPI:2021:12.C.355.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-02-22",
+    "klicovaSlova": [
+      "pasivní legitimace"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d27ad40c-d3c3-4700-b35c-3bc04ef813d4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
