@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:20.C.278.2020.1",
+  "docket": "20 C 278/2020-54",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2a2aeced-5368-43d1-b3da-c881f5bbe14b",
+  "source_sha256": "a8ebe0f379d65595ae188a938448d1a3827eb3c94cab6cb6078350b34364bb4b",
+  "source_id": "2a2aeced-5368-43d1-b3da-c881f5bbe14b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 278/2020-54",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "Mgr. Jan Sýkora",
+    "ecli": "ECLI:CZ:OSTP:2021:20.C.278.2020.1",
+    "predmetRizeni": "zaplacení [částka]",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-03-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2a2aeced-5368-43d1-b3da-c881f5bbe14b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
