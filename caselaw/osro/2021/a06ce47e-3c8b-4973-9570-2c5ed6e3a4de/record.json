@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:5.C.205.2020.1",
+  "docket": "5 C 205/2020-10",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a06ce47e-3c8b-4973-9570-2c5ed6e3a4de",
+  "source_sha256": "64f323ce278cd4c9dafe1da634b4e3a6c3b29261425f374024348a17e00afec0",
+  "source_id": "a06ce47e-3c8b-4973-9570-2c5ed6e3a4de",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 205/2020-10",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "Mgr. Ing. David Svoboda",
+    "ecli": "ECLI:CZ:OSRO:2021:5.C.205.2020.1",
+    "predmetRizeni": "zaplacení 1 524 Kč s přísl.",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-02-17",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 37/5 z. č. 266/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a06ce47e-3c8b-4973-9570-2c5ed6e3a4de"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
