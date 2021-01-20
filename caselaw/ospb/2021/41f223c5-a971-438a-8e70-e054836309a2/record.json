@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:16.C.215.2020.1",
+  "docket": "16 C 215/2020-45",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/41f223c5-a971-438a-8e70-e054836309a2",
+  "source_sha256": "58a99b51fd7ae007bdc4df6345d9288abc113e7e8def8fc2cc8815e6d4b6b815",
+  "source_id": "41f223c5-a971-438a-8e70-e054836309a2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 215/2020-45",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Alice Kořínková",
+    "ecli": "ECLI:CZ:OSPB:2021:16.C.215.2020.1",
+    "predmetRizeni": "zaplacení 10 140 Kč s příslušenstvím",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/41f223c5-a971-438a-8e70-e054836309a2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
