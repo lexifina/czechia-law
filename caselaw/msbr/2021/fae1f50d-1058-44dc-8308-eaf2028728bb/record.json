@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:236.C.23.2020.1",
+  "docket": "236 C 23/2020-46",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fae1f50d-1058-44dc-8308-eaf2028728bb",
+  "source_sha256": "dd115e31f930731e484d510b25c02e067949dc40012109165c9453215fe253e9",
+  "source_id": "fae1f50d-1058-44dc-8308-eaf2028728bb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "236 C 23/2020-46",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Aleš Kobza",
+    "ecli": "ECLI:CZ:MSBR:2021:236.C.23.2020.1",
+    "predmetRizeni": "zaplacení 13 163 Kč s příslušenstvím - náhrada škody",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-07-07",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 9 vyhl. č. 82/2011 Sb.",
+      "§ 2894 z. č. 89/2012 Sb.",
+      "§ 51 z. č. 158/2009 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fae1f50d-1058-44dc-8308-eaf2028728bb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
