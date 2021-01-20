@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:18.C.304.2020.1",
+  "docket": "18 C 304/2020-29",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/73613e3b-c9cf-4d9e-a187-62c16b0948ac",
+  "source_sha256": "2de80479fa6cd8e3f793541639843c7ceafb4943bcad9b32d7af520d47be1166",
+  "source_id": "73613e3b-c9cf-4d9e-a187-62c16b0948ac",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 304/2020-29",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "JUDr. Jitka Škodová",
+    "ecli": "ECLI:CZ:OSTP:2021:18.C.304.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2217 z. č. 89/2012 Sb.",
+      "§ 1908 z. č. 89/2012 Sb.",
+      "§ 2247 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/73613e3b-c9cf-4d9e-a187-62c16b0948ac"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
