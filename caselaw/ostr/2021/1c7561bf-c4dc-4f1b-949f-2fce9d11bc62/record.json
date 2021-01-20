@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Třebíči",
+  "ecli": "ECLI:CZ:OSTR:2021:7.C.207.2020.1",
+  "docket": "7 C 207/2020-10",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1c7561bf-c4dc-4f1b-949f-2fce9d11bc62",
+  "source_sha256": "34370d7e77c68ee6e7b0b75e3f64be629f39011a4f3ad47241cb7c18721a9a52",
+  "source_id": "1c7561bf-c4dc-4f1b-949f-2fce9d11bc62",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 207/2020-10",
+    "soud": "Okresní soud v Třebíči",
+    "autor": "Mgr. Petra Rutarová",
+    "ecli": "ECLI:CZ:OSTR:2021:7.C.207.2020.1",
+    "predmetRizeni": "zaplacení částky 10 809 Kč s příslušenstvím",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 15 vyhl. č. 417/2017 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1c7561bf-c4dc-4f1b-949f-2fce9d11bc62"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
