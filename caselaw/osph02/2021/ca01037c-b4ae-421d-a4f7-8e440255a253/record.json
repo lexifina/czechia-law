@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:14.C.159.2019.2",
+  "docket": "14 C 159/2019-147",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ca01037c-b4ae-421d-a4f7-8e440255a253",
+  "source_sha256": "82c026b7c207094ad3b259a0cd13c0274cfdb3c47dc69a9479fefe58cd14692f",
+  "source_id": "ca01037c-b4ae-421d-a4f7-8e440255a253",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 159/2019-147",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "JUDr. Otília Hrehová",
+    "ecli": "ECLI:CZ:OSPH02:2021:14.C.159.2019.2",
+    "predmetRizeni": "o zaplacení 71 327,71 Kč s příslušenstvím",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-06-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatek z prodlení",
+      "ručení",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 517 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ca01037c-b4ae-421d-a4f7-8e440255a253"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
