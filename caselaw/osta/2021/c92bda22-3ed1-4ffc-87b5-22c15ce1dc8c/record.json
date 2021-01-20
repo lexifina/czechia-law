@@ -1,0 +1,30 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:11.C.168.2020.1",
+  "docket": "11 C 168/2020-10",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c92bda22-3ed1-4ffc-87b5-22c15ce1dc8c",
+  "source_sha256": "f9a8f278605855f6e894ab765550209e4e0770882b10909a880502bf41ee4ecb",
+  "source_id": "c92bda22-3ed1-4ffc-87b5-22c15ce1dc8c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 168/2020-10",
+    "soud": "Okresní soud v Táboře",
+    "autor": "Mgr. Jaroslava Novotná",
+    "ecli": "ECLI:CZ:OSTA:2021:11.C.168.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-05-18",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c92bda22-3ed1-4ffc-87b5-22c15ce1dc8c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
