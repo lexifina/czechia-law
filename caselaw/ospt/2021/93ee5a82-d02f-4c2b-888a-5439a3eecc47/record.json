@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prachaticích",
+  "ecli": "ECLI:CZ:OSPT:2021:21.C.12.2015.1",
+  "docket": "21 C 12/2015-374",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/93ee5a82-d02f-4c2b-888a-5439a3eecc47",
+  "source_sha256": "bf2676df99ac6992a30ae140b2df683ebb9d6829628acaae96f1499deaf8a2c6",
+  "source_id": "93ee5a82-d02f-4c2b-888a-5439a3eecc47",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 12/2015-374",
+    "soud": "Okresní soud v Prachaticích",
+    "autor": "JUDr. Bohumil Veselý",
+    "ecli": "ECLI:CZ:OSPT:2021:21.C.12.2015.1",
+    "predmetRizeni": "o zaplacení částky 1 028 227,20 Kč a o protinávrhu žalované na zaplacení částky\r1 229 268 Kč s příslušenstvím",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "dotace",
+      "sleva z ceny",
+      "smlouva o dílo",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 564 z. č. 40/1964 Sb.",
+      "§ 387 z. č. 40/1964 Sb.",
+      "§ 388 z. č. 40/1964 Sb.",
+      "§ 391 z. č. 40/1964 Sb.",
+      "§ 397 z. č. 40/1964 Sb.",
+      "§ 439 z. č. 40/1964 Sb.",
+      "§ 536 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/93ee5a82-d02f-4c2b-888a-5439a3eecc47"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
