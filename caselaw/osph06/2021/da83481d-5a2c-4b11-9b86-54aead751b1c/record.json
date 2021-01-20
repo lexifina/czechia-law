@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:20.C.66.2020.1",
+  "docket": "20 C 66/2020-67",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/da83481d-5a2c-4b11-9b86-54aead751b1c",
+  "source_sha256": "8afa215ef394b37130d740a042d1e10a35c1bff24033b97a941110b6a84c185a",
+  "source_id": "da83481d-5a2c-4b11-9b86-54aead751b1c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 66/2020-67",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "JUDr. Donka Vocetková",
+    "ecli": "ECLI:CZ:OSPH06:2021:20.C.66.2020.1",
+    "predmetRizeni": "o zaplacení částky 3 875 Kč s příslušenstvím",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-10-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 24c z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/da83481d-5a2c-4b11-9b86-54aead751b1c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
