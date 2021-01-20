@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:12.C.221.2019.1",
+  "docket": "12 C 221/2019-93",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/36d189e2-245d-47b2-9733-e28e1e8f4f47",
+  "source_sha256": "ae1d02ce401b186ca7c8b3e36769d7a87516880f85cb0ce459e4f1eea8daadbf",
+  "source_id": "36d189e2-245d-47b2-9733-e28e1e8f4f47",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 221/2019-93",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "JUDr. Jana Trávníčková",
+    "ecli": "ECLI:CZ:OSZR:2021:12.C.221.2019.1",
+    "predmetRizeni": "zaplacení částky [částka] s přísl.",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-03-10",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "dlužné nájemné",
+      "nájem bytu",
+      "peněžité plnění",
+      "platební rozkaz",
+      "smlouva nájemní",
+      "vyklizení bytu",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2295 z. č. 89/2012 Sb.",
+      "§ 2246 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/36d189e2-245d-47b2-9733-e28e1e8f4f47"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
