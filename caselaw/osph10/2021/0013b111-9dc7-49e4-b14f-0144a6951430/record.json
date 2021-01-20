@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2021:8.C.424.2020.1",
+  "docket": "8 C 424/2020-20",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0013b111-9dc7-49e4-b14f-0144a6951430",
+  "source_sha256": "645d48f29b1e795111d0b4068c9f994c33a808706f15ba6cf79b253d5c1199f4",
+  "source_id": "0013b111-9dc7-49e4-b14f-0144a6951430",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 424/2020-20",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "Mgr. Andrea Löffelmannová",
+    "ecli": "ECLI:CZ:OSPH10:2021:8.C.424.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0013b111-9dc7-49e4-b14f-0144a6951430"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
