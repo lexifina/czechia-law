@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:10.C.47.2020.3",
+  "docket": "10 C 47/2020-35",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9edc2480-eb9f-42a7-abc8-fee2569cb927",
+  "source_sha256": "bf89ebb7920988a7370c0362e4ac24c29dfd675ded4cd804f6c4a09b656c2849",
+  "source_id": "9edc2480-eb9f-42a7-abc8-fee2569cb927",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 47/2020-35",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Radka Heresová",
+    "ecli": "ECLI:CZ:OSMO:2021:10.C.47.2020.3",
+    "predmetRizeni": "23 127 Kč s příslušenstvím",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-04-27",
+    "klicovaSlova": [
+      "bytové družstvo",
+      "dlužné platby spojené s užíváním bytu",
+      "odměna opatrovníka",
+      "peněžité plnění",
+      "společenství vlastníků jednotek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 29 z. č. 99/1963 Sb.",
+      "§ 1181 z. č. 90/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9edc2480-eb9f-42a7-abc8-fee2569cb927"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
