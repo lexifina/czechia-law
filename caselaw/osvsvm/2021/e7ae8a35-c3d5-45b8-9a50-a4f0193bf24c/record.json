@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně, pobočka Valašské Meziřičí",
+  "ecli": "ECLI:CZ:OSVSVM:2021:17.C.246.2020.1",
+  "docket": "17 C 246/2020-26",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e7ae8a35-c3d5-45b8-9a50-a4f0193bf24c",
+  "source_sha256": "37e2a2df9a95170e1ad1a30fc50a64cf1bea6333171b126276086859843b60a7",
+  "source_id": "e7ae8a35-c3d5-45b8-9a50-a4f0193bf24c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 246/2020-26",
+    "soud": "Okresní soud ve Vsetíně, pobočka Valašské Meziřičí",
+    "autor": "Mgr. Šárka Zemanová",
+    "ecli": "ECLI:CZ:OSVSVM:2021:17.C.246.2020.1",
+    "predmetRizeni": "O zaplacení 5 460 Kč s příslušenstvím",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-04-06",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva nájemní",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 9 z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e7ae8a35-c3d5-45b8-9a50-a4f0193bf24c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
