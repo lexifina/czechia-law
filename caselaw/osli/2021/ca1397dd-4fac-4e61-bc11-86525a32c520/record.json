@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:16.C.260.2020.1",
+  "docket": "16 C 260/2020-48",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ca1397dd-4fac-4e61-bc11-86525a32c520",
+  "source_sha256": "6c1f1f1b31a2848e909eefe53ffd6a46e66b1a2adb3103520a54046f2b5da112",
+  "source_id": "ca1397dd-4fac-4e61-bc11-86525a32c520",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 260/2020-48",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Martin Košek",
+    "ecli": "ECLI:CZ:OSLI:2021:16.C.260.2020.1",
+    "predmetRizeni": "o zaplacení částky 30 673 Kč s příslušenstvím",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-04-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 252 z. č. 262/2006 Sb.",
+      "§ 33 z. č. 262/2006 Sb.",
+      "§ 254 z. č. 262/2006 Sb.",
+      "§ 263 z. č. 262/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ca1397dd-4fac-4e61-bc11-86525a32c520"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
