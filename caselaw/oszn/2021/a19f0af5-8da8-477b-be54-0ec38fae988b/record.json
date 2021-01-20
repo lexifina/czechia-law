@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:7.C.289.2020.1",
+  "docket": "7 C 289/2020-53",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a19f0af5-8da8-477b-be54-0ec38fae988b",
+  "source_sha256": "457d90fcabcbdc84c548543b3e48f16dc0c8b38679c040aaea442e512d6d9725",
+  "source_id": "a19f0af5-8da8-477b-be54-0ec38fae988b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 289/2020-53",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "Mgr. Lenka Krčálová",
+    "ecli": "ECLI:CZ:OSZN:2021:7.C.289.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-03-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 2394 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a19f0af5-8da8-477b-be54-0ec38fae988b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
