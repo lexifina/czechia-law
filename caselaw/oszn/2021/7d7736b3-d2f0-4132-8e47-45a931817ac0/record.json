@@ -1,0 +1,49 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:4.C.122.2019.1",
+  "docket": "4 C 122/2019-92",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7d7736b3-d2f0-4132-8e47-45a931817ac0",
+  "source_sha256": "e2f4166f15cf1490e2278998b46f2aedecf4b4fb00bbca9ad7e3aa053b76f58e",
+  "source_id": "7d7736b3-d2f0-4132-8e47-45a931817ac0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 122/2019-92",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "JUDr. Jaroslav Kouba",
+    "ecli": "ECLI:CZ:OSZN:2021:4.C.122.2019.1",
+    "predmetRizeni": "[částka] s přísl.",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-09-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "pozůstalost",
+      "smlouva o zápůjčce",
+      "správa cizího majetku",
+      "započtení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/96 Sb.",
+      "§ 11 vyhl. č. 177/96 Sb.",
+      "§ 1982 z. č. 89/2012 Sb.",
+      "§ 206 z. č. 40/2009 Sb.",
+      "§ 1704 z. č. 89/2012 Sb.",
+      "§ 220 z. č. 40/2009 Sb.",
+      "§ 196a z. č. 513/1991 Sb.",
+      "§ 1393 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7d7736b3-d2f0-4132-8e47-45a931817ac0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
