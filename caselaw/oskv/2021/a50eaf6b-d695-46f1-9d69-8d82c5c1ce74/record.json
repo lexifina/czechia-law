@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:16.C.8.2021.1",
+  "docket": "16 C 8/2021-10",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a50eaf6b-d695-46f1-9d69-8d82c5c1ce74",
+  "source_sha256": "1ca9a75521873c02c6da5f1624633d02864ba145b1cfbf508bba8a9f02888f3f",
+  "source_id": "a50eaf6b-d695-46f1-9d69-8d82c5c1ce74",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 8/2021-10",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "JUDr. Dana Sobotková",
+    "ecli": "ECLI:CZ:OSKV:2021:16.C.8.2021.1",
+    "predmetRizeni": "6.269 Kč pojistné",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-03-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb.",
+      "§  z. č. 168/99 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a50eaf6b-d695-46f1-9d69-8d82c5c1ce74"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
