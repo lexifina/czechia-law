@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:12.C.89.2020.1",
+  "docket": "12 C 89/2020-39",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c6ff51f8-fa02-48af-8aa7-28decd2d20dd",
+  "source_sha256": "2e55780987a85e6767098bfa25661fed3d3e4bb959143b56f7be9e16620b6a52",
+  "source_id": "c6ff51f8-fa02-48af-8aa7-28decd2d20dd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 89/2020-39",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Jan Špalek",
+    "ecli": "ECLI:CZ:OSPM:2021:12.C.89.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2665 z. č. 89/2012 Sb.",
+      "§ 2662 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c6ff51f8-fa02-48af-8aa7-28decd2d20dd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
