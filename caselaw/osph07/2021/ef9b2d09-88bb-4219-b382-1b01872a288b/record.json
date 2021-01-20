@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 7",
+  "ecli": "ECLI:CZ:OSPH07:2021:4.C.277.2020.1",
+  "docket": "4 C 277/2020-13",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ef9b2d09-88bb-4219-b382-1b01872a288b",
+  "source_sha256": "4649b5e5ab9abc1f24b8b33725876ae28f76be95837d97de95f354b539720a39",
+  "source_id": "ef9b2d09-88bb-4219-b382-1b01872a288b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 277/2020-13",
+    "soud": "Obvodní soud pro Prahu 7",
+    "autor": "Mgr. Tomáš Mottl",
+    "ecli": "ECLI:CZ:OSPH07:2021:4.C.277.2020.1",
+    "predmetRizeni": "O zaplacení 166 253,01 Kč s příslušenstvím",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-04-06",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 497 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ef9b2d09-88bb-4219-b382-1b01872a288b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
