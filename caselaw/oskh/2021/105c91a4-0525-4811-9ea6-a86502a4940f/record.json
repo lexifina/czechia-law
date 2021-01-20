@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kutné Hoře",
+  "ecli": "ECLI:CZ:OSKH:2021:9.C.24.2021.1",
+  "docket": "9 C 24/2021-15",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/105c91a4-0525-4811-9ea6-a86502a4940f",
+  "source_sha256": "05669efce216ca096d331b87ccd971c1a3a172f6211c9e8aae6c4f7228b6fc87",
+  "source_id": "105c91a4-0525-4811-9ea6-a86502a4940f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 24/2021-15",
+    "soud": "Okresní soud v Kutné Hoře",
+    "autor": "Mgr. Jan Buchar",
+    "ecli": "ECLI:CZ:OSKH:2021:9.C.24.2021.1",
+    "predmetRizeni": "O zaplacení 52 097 Kč s příslušenstvím",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-03-16",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/105c91a4-0525-4811-9ea6-a86502a4940f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
