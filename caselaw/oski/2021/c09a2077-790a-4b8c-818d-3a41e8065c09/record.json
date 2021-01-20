@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2021:24.C.225.2020.1",
+  "docket": "24 C 225/2020-31",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c09a2077-790a-4b8c-818d-3a41e8065c09",
+  "source_sha256": "00e2633c1a96d032f0b77dc291a81734162682b04f4959e4c9ea2c76e78d30c9",
+  "source_id": "c09a2077-790a-4b8c-818d-3a41e8065c09",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 225/2020-31",
+    "soud": "Okresní soud v Karviné",
+    "autor": "JUDr. Milan Pelikán, , Ph.D.",
+    "ecli": "ECLI:CZ:OSKI:2021:24.C.225.2020.1",
+    "predmetRizeni": "4 000 Kč s příslušenstvím",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-03-15",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c09a2077-790a-4b8c-818d-3a41e8065c09"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
