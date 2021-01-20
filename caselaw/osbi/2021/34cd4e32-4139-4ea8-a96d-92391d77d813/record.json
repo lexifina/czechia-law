@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:34.C.237.2020.1",
+  "docket": "34 C 237/2020-49",
+  "date": "2021-01-20",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/34cd4e32-4139-4ea8-a96d-92391d77d813",
+  "source_sha256": "602bde8e0359a045442af0d888b460b3d748f859d76f64cabd98597ca02e01d0",
+  "source_id": "34cd4e32-4139-4ea8-a96d-92391d77d813",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 237/2020-49",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "Mgr. Vladimír Hromek",
+    "ecli": "ECLI:CZ:OSBI:2021:34.C.237.2020.1",
+    "predmetRizeni": "O zaplacení 7 200 Kč s příslušenstvím",
+    "datumVydani": "2021-01-20",
+    "datumZverejneni": "2021-03-19",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/34cd4e32-4139-4ea8-a96d-92391d77d813"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
