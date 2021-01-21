@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:14.C.305.2020 .1",
+  "docket": "14 C 305/2020-54",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d09f7ef8-c56f-4650-8e93-1137eb32eb7e",
+  "source_sha256": "f9d73b977840224de043a1b3469b78beb33a4d995671d5131390537c41225045",
+  "source_id": "d09f7ef8-c56f-4650-8e93-1137eb32eb7e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 305/2020-54",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "JUDr. Ivan Šišma",
+    "ecli": "ECLI:CZ:OSPV:2021:14.C.305.2020 .1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím,",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2804 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d09f7ef8-c56f-4650-8e93-1137eb32eb7e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
