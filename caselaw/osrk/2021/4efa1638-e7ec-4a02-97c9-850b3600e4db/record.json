@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rychnově nad Kněžnou",
+  "ecli": "ECLI:CZ:OSRK:2021:13.C.354.2020.1",
+  "docket": "13 C 354/2020-22",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4efa1638-e7ec-4a02-97c9-850b3600e4db",
+  "source_sha256": "346ac9f79124da32647590ffd4d20fb1538373f849a7a14a9e5e88ab63a57ef5",
+  "source_id": "4efa1638-e7ec-4a02-97c9-850b3600e4db",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 354/2020-22",
+    "soud": "Okresní soud v Rychnově nad Kněžnou",
+    "autor": "Mgr. Stanislav Findejs",
+    "ecli": "ECLI:CZ:OSRK:2021:13.C.354.2020.1",
+    "predmetRizeni": "o zaplacení 23.110,44 Kč s příslušenstvím",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-04-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§  z. č. 257/2016 Sb.",
+      "§ 1841 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4efa1638-e7ec-4a02-97c9-850b3600e4db"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
