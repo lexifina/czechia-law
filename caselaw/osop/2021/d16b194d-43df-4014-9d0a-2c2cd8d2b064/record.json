@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2021:10.C.292.2020.1",
+  "docket": "10 C 292/2020-19",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d16b194d-43df-4014-9d0a-2c2cd8d2b064",
+  "source_sha256": "c0fed6c43cfbf62c82a2ed4511172f60a1591e91897cfa120d77f717c7b1673d",
+  "source_id": "d16b194d-43df-4014-9d0a-2c2cd8d2b064",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 292/2020-19",
+    "soud": "Okresní soud v Opavě",
+    "autor": "Mgr. Adam Haas",
+    "ecli": "ECLI:CZ:OSOP:2021:10.C.292.2020.1",
+    "predmetRizeni": "o zaplacení 22 187 Kč s příslušenstvím",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2783 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d16b194d-43df-4014-9d0a-2c2cd8d2b064"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
