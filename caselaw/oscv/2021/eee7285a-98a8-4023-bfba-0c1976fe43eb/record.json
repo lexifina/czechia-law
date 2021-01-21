@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:1.C.150.2020.1",
+  "docket": "1 C 150/2020-38",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/eee7285a-98a8-4023-bfba-0c1976fe43eb",
+  "source_sha256": "3fccab36bf375330be3d1c514fd8a154c0bad30ffccb869c120d79af378b9273",
+  "source_id": "eee7285a-98a8-4023-bfba-0c1976fe43eb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "1 C 150/2020-38",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Petr Šustr",
+    "ecli": "ECLI:CZ:OSCV:2021:1.C.150.2020.1",
+    "predmetRizeni": "zaplacení 9 417 Kč s příslušenstvím (zápůjčka)",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-03-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§ 2394 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/eee7285a-98a8-4023-bfba-0c1976fe43eb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
