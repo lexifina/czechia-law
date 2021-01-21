@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:11.C.97.2020.1",
+  "docket": "11 C 97/2020-56",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/15bc5042-2b4b-482a-b3ad-628d45880ac6",
+  "source_sha256": "c108f2446ff6ed22684f04b2410db6c9188dccde773dd2da5d02fd797263cc39",
+  "source_id": "15bc5042-2b4b-482a-b3ad-628d45880ac6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 97/2020-56",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "JUDr. Lenka Šestáková",
+    "ecli": "ECLI:CZ:OSBI:2021:11.C.97.2020.1",
+    "predmetRizeni": "zaplacení 245.415,85 Kč s příslušenstvím",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "povinnost mlčenlivosti"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 41 z. č. 372/2011 Sb.",
+      "§ 2 z. č. 372/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/15bc5042-2b4b-482a-b3ad-628d45880ac6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
