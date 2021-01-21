@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:9.C.130.2020.2",
+  "docket": "9 C 130/2020-45",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/493ad022-6389-4b13-a1e6-f8ac4607eacb",
+  "source_sha256": "d73386a7c611db06006a2c3123f56299115be08c1722d637900555608b194580",
+  "source_id": "493ad022-6389-4b13-a1e6-f8ac4607eacb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 130/2020-45",
+    "soud": "Okresní soud v Chebu",
+    "autor": "Mgr. Pavla Tupá",
+    "ecli": "ECLI:CZ:OSCH:2021:9.C.130.2020.2",
+    "predmetRizeni": "O zaplacení 11 159,99 Kč s příslušenstvím",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-02-23",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/493ad022-6389-4b13-a1e6-f8ac4607eacb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
