@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2021:8.C.205.2020.3",
+  "docket": "8 C 205/2020-34",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5182c328-5cd7-4b0d-97ba-fb698e73a2f7",
+  "source_sha256": "0d93a0baf9bbe1a827ed2a538a5e3db6f2439a3d2ec2c9e6f4940d46eeabe282",
+  "source_id": "5182c328-5cd7-4b0d-97ba-fb698e73a2f7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 205/2020-34",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "Mgr. Zuzana Spáčilová",
+    "ecli": "ECLI:CZ:OSMB:2021:8.C.205.2020.3",
+    "predmetRizeni": "o zaplacení 18 917,20 Kč s příslušenstvím",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-08-05",
+    "klicovaSlova": [
+      "insolvence",
+      "oddlužení",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 99/1963 Sb.",
+      "§ 3036 z. č. 89/2012 Sb.",
+      "§ 109 z. č. 182/2006 Sb.",
+      "§  z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5182c328-5cd7-4b0d-97ba-fb698e73a2f7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
