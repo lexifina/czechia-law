@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:25.C.25.2021.1",
+  "docket": "25 C 25/2021-11",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/63eb5ad8-e6e9-4ffd-96ac-af04dd66f417",
+  "source_sha256": "a70d426541226641a1ae7fca0713ca716bf53e97eeefcbfa860621bb5f722860",
+  "source_id": "63eb5ad8-e6e9-4ffd-96ac-af04dd66f417",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 25/2021-11",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Martin Šalamoun",
+    "ecli": "ECLI:CZ:OSPH05:2021:25.C.25.2021.1",
+    "predmetRizeni": "O zaplacení 6 122,01 Kč s příslušenstvím",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-02-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/63eb5ad8-e6e9-4ffd-96ac-af04dd66f417"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
