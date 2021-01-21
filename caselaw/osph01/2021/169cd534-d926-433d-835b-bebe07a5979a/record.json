@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:26.C.131.2020.1",
+  "docket": "26 C 131/2020-25",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/169cd534-d926-433d-835b-bebe07a5979a",
+  "source_sha256": "36da5236504da27eda6b36f46e44c32a87475fd096e5e8090272b528b40e79f9",
+  "source_id": "169cd534-d926-433d-835b-bebe07a5979a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 131/2020-25",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Iveta Nedozrálová",
+    "ecli": "ECLI:CZ:OSPH01:2021:26.C.131.2020.1",
+    "predmetRizeni": "o zaplacení 12 000 Kč s příslušenstvím",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-05-19",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva o dílo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/169cd534-d926-433d-835b-bebe07a5979a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
