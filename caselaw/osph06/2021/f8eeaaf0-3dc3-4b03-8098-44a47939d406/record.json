@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:19.C.408.2020.1",
+  "docket": "19 C 408/2020-39",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f8eeaaf0-3dc3-4b03-8098-44a47939d406",
+  "source_sha256": "727c2a9096b570662730daba28677d0cf188275fe55274f11230b54c643343e6",
+  "source_id": "f8eeaaf0-3dc3-4b03-8098-44a47939d406",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 408/2020-39",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "Mgr. Tereza Krojová",
+    "ecli": "ECLI:CZ:OSPH06:2021:19.C.408.2020.1",
+    "predmetRizeni": "o zaplacení částky 800 euro s příslušenstvím",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-03-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "prekluze"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2553 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f8eeaaf0-3dc3-4b03-8098-44a47939d406"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
