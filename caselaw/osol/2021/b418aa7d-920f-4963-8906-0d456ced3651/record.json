@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:19.C.361.2020.1",
+  "docket": "19 C 361/2020-30",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b418aa7d-920f-4963-8906-0d456ced3651",
+  "source_sha256": "78e2e77385a39cb16da4e2fc77fcc8554cc5de88c475ace4ac2766b4175eeffa",
+  "source_id": "b418aa7d-920f-4963-8906-0d456ced3651",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 361/2020-30",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "JUDr. Miroslava Dvořáková",
+    "ecli": "ECLI:CZ:OSOL:2021:19.C.361.2020.1",
+    "predmetRizeni": "o 6 605 Kč s příslušenstvím",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-03-02",
+    "klicovaSlova": [
+      "odpovědnost za škodu způsobenou provozem dopravních prostředků",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§  vyhl. č. 177/96 Sb.",
+      "§ 1 z. č. 168/99 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b418aa7d-920f-4963-8906-0d456ced3651"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
