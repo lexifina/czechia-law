@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rychnově nad Kněžnou",
+  "ecli": "ECLI:CZ:OSRK:2021:13.C.372.2020.1",
+  "docket": "13 C 372/2020-26",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/16f3ece2-0a93-46c8-b4de-187479923dfd",
+  "source_sha256": "17ba42e4d1723abe8ae9e207b0f722a5b9af830333f6682846b893404674ddf1",
+  "source_id": "16f3ece2-0a93-46c8-b4de-187479923dfd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 372/2020-26",
+    "soud": "Okresní soud v Rychnově nad Kněžnou",
+    "autor": "Mgr. Stanislav Findejs",
+    "ecli": "ECLI:CZ:OSRK:2021:13.C.372.2020.1",
+    "predmetRizeni": "o ztížení společenského uplatnění",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "jízdné",
+      "náhrada nemajetkové újmy",
+      "nemajetková újma",
+      "peněžité plnění",
+      "znalecký posudek",
+      "ztížení společenského uplatnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 2910 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/16f3ece2-0a93-46c8-b4de-187479923dfd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
