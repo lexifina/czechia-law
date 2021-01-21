@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:15.C.276.2020.1",
+  "docket": "15 C 276/2020-26",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1199efd2-4a29-44ab-a9d9-b89e23b78aa1",
+  "source_sha256": "f54ac22e4bd6d0c1e30f320a6c7e23f7b10e172974447d1b0e7e03c51576d376",
+  "source_id": "1199efd2-4a29-44ab-a9d9-b89e23b78aa1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 276/2020-26",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "JUDr. Michaela Koblasová",
+    "ecli": "ECLI:CZ:OSTU:2021:15.C.276.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím - [anonymizována dvě slova]",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-02-11",
+    "klicovaSlova": [
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 5 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1199efd2-4a29-44ab-a9d9-b89e23b78aa1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
