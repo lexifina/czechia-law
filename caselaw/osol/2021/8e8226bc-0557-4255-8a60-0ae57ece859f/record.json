@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:19.C.362.2020.1",
+  "docket": "19 C 362/2020-28",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8e8226bc-0557-4255-8a60-0ae57ece859f",
+  "source_sha256": "c537a54ca276640a8f5202b8d894f1ba7b2ef5e36efd3afa034d3aaddf2ae8be",
+  "source_id": "8e8226bc-0557-4255-8a60-0ae57ece859f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 362/2020-28",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "JUDr. Miroslava Dvořáková",
+    "ecli": "ECLI:CZ:OSOL:2021:19.C.362.2020.1",
+    "predmetRizeni": "o 5 799 Kč s příslušenstvím",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-03-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 15 z. č. 168/1999 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 1 z. č. 168/99 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8e8226bc-0557-4255-8a60-0ae57ece859f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
