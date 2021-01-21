@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:22.C.301.2020.1",
+  "docket": "22 C 301/2020-30",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b08417ff-dd48-4e9f-9950-067917da2796",
+  "source_sha256": "8c58e5dc1925539c6c50e035690a3b1a65716081b079978f29d1e673f45a5596",
+  "source_id": "b08417ff-dd48-4e9f-9950-067917da2796",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 301/2020-30",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Tomáš Kopal",
+    "ecli": "ECLI:CZ:OSLI:2021:22.C.301.2020.1",
+    "predmetRizeni": "O zaplacení 6 621 Kč s příslušenstvím",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1725 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 89/2012 Sb.",
+      "§ 562 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b08417ff-dd48-4e9f-9950-067917da2796"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
