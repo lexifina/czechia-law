@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2021:9.C.180.2020.2",
+  "docket": "9 C 180/2020-34",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5eda6182-c412-4cdb-bd15-10b47a193889",
+  "source_sha256": "74fe83cfd6f958825a31bf180f764c6062571540e8b7fed01639cc253a93a3c8",
+  "source_id": "5eda6182-c412-4cdb-bd15-10b47a193889",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 180/2020-34",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "Mgr. František Strouha",
+    "ecli": "ECLI:CZ:OSCK:2021:9.C.180.2020.2",
+    "predmetRizeni": "žádost o zrušení alimentů",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-03-19",
+    "klicovaSlova": [
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5eda6182-c412-4cdb-bd15-10b47a193889"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
