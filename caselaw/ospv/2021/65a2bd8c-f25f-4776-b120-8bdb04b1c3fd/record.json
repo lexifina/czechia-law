@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:8.C.339.2020.1",
+  "docket": "8 C 339/2020-42",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/65a2bd8c-f25f-4776-b120-8bdb04b1c3fd",
+  "source_sha256": "1025626b3e176792b63a3fb2c6cb00f8721478d3adb46c304f2ccc4d61ea4b2d",
+  "source_id": "65a2bd8c-f25f-4776-b120-8bdb04b1c3fd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 339/2020-42",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "JUDr. Dana Malechová",
+    "ecli": "ECLI:CZ:OSPV:2021:8.C.339.2020.1",
+    "predmetRizeni": "O zaplacení 2.602 Kč s příslušenstvím",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/65a2bd8c-f25f-4776-b120-8bdb04b1c3fd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
