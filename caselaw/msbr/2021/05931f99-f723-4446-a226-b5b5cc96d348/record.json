@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:44.C.111.2020.1",
+  "docket": "44 C 111/2020-21",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/05931f99-f723-4446-a226-b5b5cc96d348",
+  "source_sha256": "7370fbf416df86fcf1f36aca6b0fbf1182b4990b20f590455557292defc567f5",
+  "source_id": "05931f99-f723-4446-a226-b5b5cc96d348",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "44 C 111/2020-21",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Ing. Daniel Bartoň",
+    "ecli": "ECLI:CZ:MSBR:2021:44.C.111.2020.1",
+    "predmetRizeni": "zaplacení 6.151,14 Kč s příslušenstvím - faktura",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-03-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní",
+      "telekomunikace"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§ 63 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/05931f99-f723-4446-a226-b5b5cc96d348"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
