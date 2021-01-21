@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:19.C.369.2020.1",
+  "docket": "19 C 369/2020-49",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b6105896-4a07-480a-8c44-bf05e004e85b",
+  "source_sha256": "bc94d0f7cc254b6a8628fb02c4b2fa858bb081487ac6b89adbf2aba2eaaf31e2",
+  "source_id": "b6105896-4a07-480a-8c44-bf05e004e85b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 369/2020-49",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "Mgr. Tereza Krojová",
+    "ecli": "ECLI:CZ:OSPH06:2021:19.C.369.2020.1",
+    "predmetRizeni": "o zaplacení částky 400 euro s příslušenstvím",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-03-25",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1 vyhl. č. 254/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b6105896-4a07-480a-8c44-bf05e004e85b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
