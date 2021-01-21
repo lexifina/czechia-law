@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2021:14.C.25.2018.1",
+  "docket": "14 C 25/2018-140",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fc0129ab-a12d-4d54-998e-7b750958ec95",
+  "source_sha256": "80e7f743154e7c38db0600dcda23c1904c2f516b834e7fb7f5a8bc061c1ff6b6",
+  "source_id": "fc0129ab-a12d-4d54-998e-7b750958ec95",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 25/2018-140",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "Mgr. Petr Machačka",
+    "ecli": "ECLI:CZ:OSSY:2021:14.C.25.2018.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-02-24",
+    "klicovaSlova": [
+      "pozůstalost",
+      "ručení",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 107 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fc0129ab-a12d-4d54-998e-7b750958ec95"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
