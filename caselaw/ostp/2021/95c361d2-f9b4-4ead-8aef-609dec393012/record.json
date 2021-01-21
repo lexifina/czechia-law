@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:19.C.288.2020.1",
+  "docket": "19 C 288/2020-32",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/95c361d2-f9b4-4ead-8aef-609dec393012",
+  "source_sha256": "3707bdc0b00466c0f43f27cd86b11914b0d0b7cdc68e9211c5ed729c804274c4",
+  "source_id": "95c361d2-f9b4-4ead-8aef-609dec393012",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 288/2020-32",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "Mgr. Eva Merhová",
+    "ecli": "ECLI:CZ:OSTP:2021:19.C.288.2020.1",
+    "predmetRizeni": "zaplacení 4 000 Kč",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-02-18",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/95c361d2-f9b4-4ead-8aef-609dec393012"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
