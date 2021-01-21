@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:85.C.309.2020.3",
+  "docket": "85 C 309/2020-16",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a29c736f-ff63-47d8-8f6e-cb4ac7fe0073",
+  "source_sha256": "d5bf70874be8f87b99bc557ff14af32a55b0bfb4919727dc7b5cac80c5169978",
+  "source_id": "a29c736f-ff63-47d8-8f6e-cb4ac7fe0073",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "85 C 309/2020-16",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Dušan Broulík",
+    "ecli": "ECLI:CZ:OSOV:2021:85.C.309.2020.3",
+    "predmetRizeni": "o zaplacení 1 111,15 Kč",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-04-26",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a29c736f-ff63-47d8-8f6e-cb4ac7fe0073"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
