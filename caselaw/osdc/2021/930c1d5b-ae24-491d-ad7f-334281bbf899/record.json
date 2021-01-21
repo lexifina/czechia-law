@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:18.C.189.2020.2",
+  "docket": "18 C 189/2020-10",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/930c1d5b-ae24-491d-ad7f-334281bbf899",
+  "source_sha256": "56b50bf44656e4e43983a4c1464ab9ee1be05bac25aec4226f5f6b7f72853315",
+  "source_id": "930c1d5b-ae24-491d-ad7f-334281bbf899",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 189/2020-10",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Petr Červinka",
+    "ecli": "ECLI:CZ:OSDC:2021:18.C.189.2020.2",
+    "predmetRizeni": "zaplacení [částka] s přísl.",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-06-21",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 24 z. č. 65/2017 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 11 z. č. 549/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/930c1d5b-ae24-491d-ad7f-334281bbf899"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
