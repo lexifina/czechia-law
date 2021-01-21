@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:8.C.236.2020.1",
+  "docket": "8 C 236/2020-28",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/725ff548-f1a3-48e8-a1f0-17c314bc5735",
+  "source_sha256": "572c5acf100b37a7cfbecdbab4a4997073478d9c7e8a96a5d195ff448e2521ed",
+  "source_id": "725ff548-f1a3-48e8-a1f0-17c314bc5735",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 236/2020-28",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "JUDr. Drahomíra Librová",
+    "ecli": "ECLI:CZ:OSZR:2021:8.C.236.2020.1",
+    "predmetRizeni": "O zaplacení 4 815 Kč s příslušenstvím",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 145/2010 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/725ff548-f1a3-48e8-a1f0-17c314bc5735"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
