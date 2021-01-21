@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:40.C.242.2020.3",
+  "docket": "40 C 242/2020-18",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1a8eef7b-211f-4728-bebe-f8c83a813bf0",
+  "source_sha256": "a309129168cd2cadf74aa620e41644788ced930f989269c6726e20eb3445f2a7",
+  "source_id": "1a8eef7b-211f-4728-bebe-f8c83a813bf0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "40 C 242/2020-18",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. et Mgr. Barbora Kovářová",
+    "ecli": "ECLI:CZ:OSOV:2021:40.C.242.2020.3",
+    "predmetRizeni": "o zaplacení 7 798,67 Kč",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-04-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1a8eef7b-211f-4728-bebe-f8c83a813bf0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
