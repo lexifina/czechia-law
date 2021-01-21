@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2021:22.C.305.2020.1",
+  "docket": "22 C 305/2020-16",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4f8d920a-0f78-4660-bf3a-85f30d4fa525",
+  "source_sha256": "76f7f3bdc56d50cf61673da2bcf9e378a36c635d2c4b3440a01117e883ea6317",
+  "source_id": "4f8d920a-0f78-4660-bf3a-85f30d4fa525",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 305/2020-16",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "JUDr. Lucia Jelínková",
+    "ecli": "ECLI:CZ:OSMB:2021:22.C.305.2020.1",
+    "predmetRizeni": "[celé jméno manžela] - návrh na rozvod manželství",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-01-22",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4f8d920a-0f78-4660-bf3a-85f30d4fa525"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
