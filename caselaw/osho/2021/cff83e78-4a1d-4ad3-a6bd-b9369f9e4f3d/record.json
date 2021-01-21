@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:13.C.189.2020.1",
+  "docket": "13 C 189/2020-61",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cff83e78-4a1d-4ad3-a6bd-b9369f9e4f3d",
+  "source_sha256": "96c0fa2b1617e9bc95c6c380e3ccc47a158144f63b0aaf86c06c3b3dbfe1be48",
+  "source_id": "cff83e78-4a1d-4ad3-a6bd-b9369f9e4f3d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 189/2020-61",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "Mgr. Helena Podveská",
+    "ecli": "ECLI:CZ:OSHO:2021:13.C.189.2020.1",
+    "predmetRizeni": "zaplacení 7 732,40 Kč s příslušenstvím",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "elektronický podpis",
+      "peněžité plnění",
+      "řidičský průkaz",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 562 z. č. 89/2012 Sb.",
+      "§ 561 z. č. 89/2012 Sb.",
+      "§ 7 z. č. 297/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cff83e78-4a1d-4ad3-a6bd-b9369f9e4f3d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
