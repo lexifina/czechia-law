@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2021:8.C.161.2020.1",
+  "docket": "8 C 161/2020-33",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7c4724aa-b653-4f84-ac07-92b730d8b19f",
+  "source_sha256": "e814bc3c57703a288a139f486f37639d79c0c9abc809dc10aec93188d0ad9d1e",
+  "source_id": "7c4724aa-b653-4f84-ac07-92b730d8b19f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 161/2020-33",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "Mgr. Kristýna Stachová",
+    "ecli": "ECLI:CZ:OSBU:2021:8.C.161.2020.1",
+    "predmetRizeni": "1.500 Kč s příslušenstvím",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-03-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 517 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7c4724aa-b653-4f84-ac07-92b730d8b19f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
