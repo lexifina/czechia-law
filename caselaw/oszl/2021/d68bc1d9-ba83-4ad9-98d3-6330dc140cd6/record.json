@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2021:35.C.327.2020.1",
+  "docket": "35 C 327/2020-16",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d68bc1d9-ba83-4ad9-98d3-6330dc140cd6",
+  "source_sha256": "efdf3024f34537bf5f0296e728af720c11bbeec69b7aa25ddf15e15a3d60f28a",
+  "source_id": "d68bc1d9-ba83-4ad9-98d3-6330dc140cd6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "35 C 327/2020-16",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "JUDr. Martina Kocábová",
+    "ecli": "ECLI:CZ:OSZL:2021:35.C.327.2020.1",
+    "predmetRizeni": "zaplacení 5 636 Kč s příslušenstvím",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-03-05",
+    "klicovaSlova": [
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 104 z. č. 99/1963 Sb.",
+      "§ 129 z. č. 127/2005 Sb.",
+      "§ 103 z. č. 99/1963 Sb.",
+      "§ 1882 z. č. 89/2012 Sb.",
+      "§ 524 z. č. 40/1964 Sb.",
+      "§ 1721 z. č. 460/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d68bc1d9-ba83-4ad9-98d3-6330dc140cd6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
