@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2021:22.C.271.2020.1",
+  "docket": "22 C 271/2020-29",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bbdde119-1a71-4c33-a8fa-2cb18d349699",
+  "source_sha256": "2a931ddf741b182d8bdf055c3e491185942a311de24efad3ae774e39276bb17f",
+  "source_id": "bbdde119-1a71-4c33-a8fa-2cb18d349699",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 271/2020-29",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "JUDr. Lucia Jelínková",
+    "ecli": "ECLI:CZ:OSMB:2021:22.C.271.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-01-22",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bbdde119-1a71-4c33-a8fa-2cb18d349699"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
