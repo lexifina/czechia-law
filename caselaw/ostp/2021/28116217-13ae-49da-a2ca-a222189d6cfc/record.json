@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:13.C.210.2020.1",
+  "docket": "13 C 210/2020-43",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/28116217-13ae-49da-a2ca-a222189d6cfc",
+  "source_sha256": "dee8a48b1bbe509330aee8f242a6663565cd7d1f4dde81aa1d428229f8d65808",
+  "source_id": "28116217-13ae-49da-a2ca-a222189d6cfc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 210/2020-43",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "JUDr. Ivana Dvořáková",
+    "ecli": "ECLI:CZ:OSTP:2021:13.C.210.2020.1",
+    "predmetRizeni": "zaplacení 2 336,24 Kč s příslušenstvím",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-03-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2201 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/28116217-13ae-49da-a2ca-a222189d6cfc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
