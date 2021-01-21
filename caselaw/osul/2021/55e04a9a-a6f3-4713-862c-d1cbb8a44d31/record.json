@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:33.C.290.2013.4",
+  "docket": "33 C 290/2013-56",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/55e04a9a-a6f3-4713-862c-d1cbb8a44d31",
+  "source_sha256": "866785954725bf7f6836f0b804b1496899bc528260cd59524f21d56eb00c4402",
+  "source_id": "55e04a9a-a6f3-4713-862c-d1cbb8a44d31",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "33 C 290/2013-56",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "JUDr. Petr Blažej",
+    "ecli": "ECLI:CZ:OSUL:2021:33.C.290.2013.4",
+    "predmetRizeni": "o 30 000 Kč s příslušenstvím",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "oddlužení",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 414 z. č. 182/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/55e04a9a-a6f3-4713-862c-d1cbb8a44d31"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
