@@ -1,0 +1,31 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:7.C.457.2020.1",
+  "docket": "7 C 457/2020-11",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0d55c37a-143b-469c-954a-6e4b68ba58c6",
+  "source_sha256": "dab25fec223e97625828196c8f9a5404e0fea2782a8e956119017344761747b0",
+  "source_id": "0d55c37a-143b-469c-954a-6e4b68ba58c6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 457/2020-11",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "JUDr. Pavel Téra",
+    "ecli": "ECLI:CZ:OSUL:2021:7.C.457.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-02-25",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0d55c37a-143b-469c-954a-6e4b68ba58c6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
