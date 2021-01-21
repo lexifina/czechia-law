@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2021:10.C.109.2020.1",
+  "docket": "10 C 109/2020-84",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3e7ef776-3a1a-496b-bcfa-f8e36ab91c86",
+  "source_sha256": "d7a87a3903e3569092da753b54dca4f10fa6fed32bdf1b9eba050ac52e8fa907",
+  "source_id": "3e7ef776-3a1a-496b-bcfa-f8e36ab91c86",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 109/2020-84",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "Mgr. Ladislav Máša",
+    "ecli": "ECLI:CZ:OSSY:2021:10.C.109.2020.1",
+    "predmetRizeni": "o zaplacení 59 755 Kč s příslušenstvím",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-05-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3e7ef776-3a1a-496b-bcfa-f8e36ab91c86"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
