@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Litoměřicích",
+  "ecli": "ECLI:CZ:OSLT:2021:10.C.282.2020.1",
+  "docket": "10 C 282/2020-19",
+  "date": "2021-01-21",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7abbf268-3a57-493e-ba2e-b23241cb2630",
+  "source_sha256": "b496de73b44252d1e0df6d6e2828f3749852f461301b3d56c9f44ad0ffc6789a",
+  "source_id": "7abbf268-3a57-493e-ba2e-b23241cb2630",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 282/2020-19",
+    "soud": "Okresní soud v Litoměřicích",
+    "autor": "JUDr. Alena Herčíková",
+    "ecli": "ECLI:CZ:OSLT:2021:10.C.282.2020.1",
+    "predmetRizeni": "O zaplacení 3 000 Kč s příslušenstvím",
+    "datumVydani": "2021-01-21",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§  z. č. 297/2016 Sb.",
+      "§ 561 z. č. 89/2012 Sb.",
+      "§ 1841 z. č. 89/2012 Sb.",
+      "§ 142 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7abbf268-3a57-493e-ba2e-b23241cb2630"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
