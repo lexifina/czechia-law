@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prachaticích",
+  "ecli": "ECLI:CZ:OSPT:2021:8.C.5.2021.1",
+  "docket": "8 C 5/2021-11",
+  "date": "2021-01-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/91bcadd7-e502-460c-9251-ce916f6d80d5",
+  "source_sha256": "cbe3f073aeb04f867868956f1968100d3ce436aad49117f3314f1e98124f2bb3",
+  "source_id": "91bcadd7-e502-460c-9251-ce916f6d80d5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 5/2021-11",
+    "soud": "Okresní soud v Prachaticích",
+    "autor": "Mgr. Milada Trůblová",
+    "ecli": "ECLI:CZ:OSPT:2021:8.C.5.2021.1",
+    "predmetRizeni": "o zaplacení 3 695 Kč s příslušenstvím",
+    "datumVydani": "2021-01-22",
+    "datumZverejneni": "2021-04-01",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2a vyhl. č. 205/1999 Sb.",
+      "§ 4/1 z. č. 168/1999 Sb.",
+      "§ 1/2 z. č. 168/1999 Sb.",
+      "§ 3/2 z. č. 168/1999 Sb.",
+      "§ 4/4 z. č. 168/1999 Sb.",
+      "§ 4/3 z. č. 168/1999 Sb.",
+      "§ 4/5 z. č. 168/1999 Sb.",
+      "§ 4/2a,b z. č. 168/1999 Sb.",
+      "§ 2/1f vyhl. č. 205/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/91bcadd7-e502-460c-9251-ce916f6d80d5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
