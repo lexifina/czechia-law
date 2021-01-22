@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2021:2.C.199.2020.2",
+  "docket": "2 C 199/2020-35",
+  "date": "2021-01-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8a8c1188-0eac-4ad9-9a2b-222ff5152dbb",
+  "source_sha256": "c34de808bd43d4d303bc17441b076a1d6a61c1ad1c3e05e8ad71448eba584937",
+  "source_id": "8a8c1188-0eac-4ad9-9a2b-222ff5152dbb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "2 C 199/2020-35",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "JUDr. Jan Montag",
+    "ecli": "ECLI:CZ:OSCK:2021:2.C.199.2020.2",
+    "predmetRizeni": "EPR [číslo] - o zaplacení 49 078,37 Kč s příslušenstvím",
+    "datumVydani": "2021-01-22",
+    "datumZverejneni": "2021-03-08",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 458/2000 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8a8c1188-0eac-4ad9-9a2b-222ff5152dbb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
