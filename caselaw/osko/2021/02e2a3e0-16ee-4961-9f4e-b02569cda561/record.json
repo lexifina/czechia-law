@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kolíně",
+  "ecli": "ECLI:CZ:OSKO:2021:19.C.190.2020.1",
+  "docket": "19 C 190/2020",
+  "date": "2021-01-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/02e2a3e0-16ee-4961-9f4e-b02569cda561",
+  "source_sha256": "0511052ff8f02088b84798e879ee62df9f465389ef7037ce53280bcb5dfd1205",
+  "source_id": "02e2a3e0-16ee-4961-9f4e-b02569cda561",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 190/2020",
+    "soud": "Okresní soud v Kolíně",
+    "autor": "JUDr. Marek Jäger, Ph.D.",
+    "ecli": "ECLI:CZ:OSKO:2021:19.C.190.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-22",
+    "datumZverejneni": "2021-03-25",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2085 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/02e2a3e0-16ee-4961-9f4e-b02569cda561"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
