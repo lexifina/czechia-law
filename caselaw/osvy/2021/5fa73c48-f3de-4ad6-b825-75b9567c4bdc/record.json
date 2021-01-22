@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:11.C.117.2020.1",
+  "docket": "11 C 117/2020-73",
+  "date": "2021-01-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5fa73c48-f3de-4ad6-b825-75b9567c4bdc",
+  "source_sha256": "2cffc975b15cc52f8caf46ed518e0f380fc37d414702f1603466348c3409fa56",
+  "source_id": "5fa73c48-f3de-4ad6-b825-75b9567c4bdc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 117/2020-73",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "Mgr. Pavla Kohoutková",
+    "ecli": "ECLI:CZ:OSVY:2021:11.C.117.2020.1",
+    "predmetRizeni": "zaplacení částky 1 348 Kč s příslušenstvím - pojistné",
+    "datumVydani": "2021-01-22",
+    "datumZverejneni": "2021-03-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 2783 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 2861 z. č. 89/2012 Sb.",
+      "§ 2760 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 169/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5fa73c48-f3de-4ad6-b825-75b9567c4bdc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
