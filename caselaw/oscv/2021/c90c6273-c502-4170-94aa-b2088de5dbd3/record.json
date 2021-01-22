@@ -1,0 +1,49 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:30.C.252.2017.2",
+  "docket": "30 C 252/2017-85",
+  "date": "2021-01-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c90c6273-c502-4170-94aa-b2088de5dbd3",
+  "source_sha256": "5464925aa88636d5f947243759a0d5e2b36349e463bc7cedd133571aa42291cf",
+  "source_id": "c90c6273-c502-4170-94aa-b2088de5dbd3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 252/2017-85",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Hana Jakubcová",
+    "ecli": "ECLI:CZ:OSCV:2021:30.C.252.2017.2",
+    "predmetRizeni": "zaplacení 834.668 Kč s příslušenstvím (dlužné nájemné)",
+    "datumVydani": "2021-01-22",
+    "datumZverejneni": "2021-08-27",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "korporace",
+      "nebytový prostor",
+      "peněžité plnění",
+      "podnájem",
+      "právní domněnka",
+      "smlouva nájemní",
+      "uznání dluhu",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 558 z. č. 89/2012 Sb.",
+      "§  z. č. 513/1991 Sb.",
+      "§  z. č. 116/1990 Sb.",
+      "§ 720 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c90c6273-c502-4170-94aa-b2088de5dbd3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
