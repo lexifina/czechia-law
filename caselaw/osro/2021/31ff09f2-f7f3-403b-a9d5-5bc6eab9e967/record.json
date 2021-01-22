@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:8.C.197.2020.1",
+  "docket": "8 C 197/2020",
+  "date": "2021-01-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/31ff09f2-f7f3-403b-a9d5-5bc6eab9e967",
+  "source_sha256": "6e647b3e7604821cc158bf3b1b7ad7c042b7dad0eb7428aa6914ee88a3dc09aa",
+  "source_id": "31ff09f2-f7f3-403b-a9d5-5bc6eab9e967",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 197/2020",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "Mgr. Šárka Široká",
+    "ecli": "ECLI:CZ:OSRO:2021:8.C.197.2020.1",
+    "predmetRizeni": "zaplacení 1 100 Kč s přísl.",
+    "datumVydani": "2021-01-22",
+    "datumZverejneni": "2021-04-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/31ff09f2-f7f3-403b-a9d5-5bc6eab9e967"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
