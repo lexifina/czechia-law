@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:20.C.117.2019.3",
+  "docket": "20 C 117/2019-77",
+  "date": "2021-01-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f04951ec-ef22-450a-ba26-4b16c1c3f22d",
+  "source_sha256": "bc8945dad1c1b510223232c1affdba53d17455b901a83f91f1ae044198b66846",
+  "source_id": "f04951ec-ef22-450a-ba26-4b16c1c3f22d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 117/2019-77",
+    "soud": "Okresní soud v Chebu",
+    "autor": "Mgr. Milan Homolka",
+    "ecli": "ECLI:CZ:OSCH:2021:20.C.117.2019.3",
+    "predmetRizeni": "",
+    "datumVydani": "2021-01-22",
+    "datumZverejneni": "2021-02-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ušlý zisk",
+      "zákaz konkurence"
+    ],
+    "zminenaUstanoveni": [
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 12 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f04951ec-ef22-450a-ba26-4b16c1c3f22d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
