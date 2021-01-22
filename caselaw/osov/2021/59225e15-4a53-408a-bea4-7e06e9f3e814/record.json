@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:63.C.56.2020.2",
+  "docket": "63 C 56/2020-35",
+  "date": "2021-01-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/59225e15-4a53-408a-bea4-7e06e9f3e814",
+  "source_sha256": "2b878eef4da85df691d5dc1b154896e641e5207a3b060ad9ac5e0151c5dd8c2d",
+  "source_id": "59225e15-4a53-408a-bea4-7e06e9f3e814",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "63 C 56/2020-35",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Pavel Kučera",
+    "ecli": "ECLI:CZ:OSOV:2021:63.C.56.2020.2",
+    "predmetRizeni": "o vyklizení bytu",
+    "datumVydani": "2021-01-22",
+    "datumZverejneni": "2021-04-20",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva nájemní",
+      "vyklizení bytu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 1 vyhl. č. 254/2015 Sb.",
+      "§ 2292 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/59225e15-4a53-408a-bea4-7e06e9f3e814"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
