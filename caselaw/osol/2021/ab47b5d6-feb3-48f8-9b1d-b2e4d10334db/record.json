@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:24.C.396.2020.1",
+  "docket": "24 C 396/2020-105",
+  "date": "2021-01-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ab47b5d6-feb3-48f8-9b1d-b2e4d10334db",
+  "source_sha256": "3198025bca59443453daf778bc1a2f1a74ce92a226605a213e0f54a652a54cb8",
+  "source_id": "ab47b5d6-feb3-48f8-9b1d-b2e4d10334db",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 396/2020-105",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "JUDr. Naděžda Nováková",
+    "ecli": "ECLI:CZ:OSOL:2021:24.C.396.2020.1",
+    "predmetRizeni": "o 9 847,94 Kč s příslušenstvím",
+    "datumVydani": "2021-01-22",
+    "datumZverejneni": "2021-06-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "telekomunikace"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 46 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ab47b5d6-feb3-48f8-9b1d-b2e4d10334db"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
