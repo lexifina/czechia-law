@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:47.C.219.2020.1",
+  "docket": "47 C 219/2020-28",
+  "date": "2021-01-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d7af0a7c-a2d4-4fd4-84ba-cdfaef36a359",
+  "source_sha256": "4185b2f9ba146b316c28a72bd686df78a34356d96ae032a2bb35de72d7b8a593",
+  "source_id": "d7af0a7c-a2d4-4fd4-84ba-cdfaef36a359",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "47 C 219/2020-28",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Radek Malenovský",
+    "ecli": "ECLI:CZ:MSBR:2021:47.C.219.2020.1",
+    "predmetRizeni": "zaplacení 651 Kč s příslušenstvím - pojistné",
+    "datumVydani": "2021-01-22",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 175/2000 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2804 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 39 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d7af0a7c-a2d4-4fd4-84ba-cdfaef36a359"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
