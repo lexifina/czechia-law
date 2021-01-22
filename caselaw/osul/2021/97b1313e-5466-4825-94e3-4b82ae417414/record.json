@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:34.C.297.2020.2",
+  "docket": "34 C 297/2020-20",
+  "date": "2021-01-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/97b1313e-5466-4825-94e3-4b82ae417414",
+  "source_sha256": "457ba48cb14a5c4b25b57776fbe756f6c987bfdd99f6e0face78b4a58e3b231d",
+  "source_id": "97b1313e-5466-4825-94e3-4b82ae417414",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 297/2020-20",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Alice Karpíšková",
+    "ecli": "ECLI:CZ:OSUL:2021:34.C.297.2020.2",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-22",
+    "datumZverejneni": "2021-03-11",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/97b1313e-5466-4825-94e3-4b82ae417414"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
