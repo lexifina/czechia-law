@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2021:8.C.277.2020.1",
+  "docket": "8 C 277/2020-15",
+  "date": "2021-01-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f0fb38ae-3f09-46f9-a487-f8ab551f7f0f",
+  "source_sha256": "d791606ba8a65ae9ed463c1b8ae7ad4e59a82f3e20f60c1cb44bc9a5b5c77943",
+  "source_id": "f0fb38ae-3f09-46f9-a487-f8ab551f7f0f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 277/2020-15",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "Mgr. Štěpánka Tůmová",
+    "ecli": "ECLI:CZ:OSPZ:2021:8.C.277.2020.1",
+    "predmetRizeni": "o zrušení výživného na zletilou dceru",
+    "datumVydani": "2021-01-22",
+    "datumZverejneni": "2021-04-19",
+    "klicovaSlova": [
+      "výživné",
+      "zrušení výživného"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 913 z. č. 89/2012 Sb.",
+      "§ 911 z. č. 89/2012 Sb.",
+      "§ 910 z. č. 89/2012 Sb.",
+      "§ 915 z. č. 89/2012 Sb.",
+      "§ 923 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f0fb38ae-3f09-46f9-a487-f8ab551f7f0f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
