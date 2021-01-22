@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:16.C.387.2020.1",
+  "docket": "16 C 387/2020-17",
+  "date": "2021-01-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fc8746c1-eccf-42b7-92f4-21bcd22129e4",
+  "source_sha256": "8273e6a7eb5de5bf0f056be034e19d99a3e1232c215080686f7453852b5f1e01",
+  "source_id": "fc8746c1-eccf-42b7-92f4-21bcd22129e4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 387/2020-17",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "Mgr. Jana Traxlerová",
+    "ecli": "ECLI:CZ:OSCB:2021:16.C.387.2020.1",
+    "predmetRizeni": "EPR [číslo], o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2021-01-22",
+    "datumZverejneni": "2021-03-22",
+    "klicovaSlova": [
+      "pojištění úvěru",
+      "pozůstalost",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 1704 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fc8746c1-eccf-42b7-92f4-21bcd22129e4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
