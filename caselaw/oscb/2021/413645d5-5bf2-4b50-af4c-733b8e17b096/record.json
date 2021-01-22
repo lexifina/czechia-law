@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:15.C.323.2020.1",
+  "docket": "15 C 323/2020-159",
+  "date": "2021-01-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/413645d5-5bf2-4b50-af4c-733b8e17b096",
+  "source_sha256": "5bc0747b3ca055b6a4bb75fa5eb105a1c140ac457ccf57bb50443ef23a0e201e",
+  "source_id": "413645d5-5bf2-4b50-af4c-733b8e17b096",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 323/2020-159",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "JUDr. Jana Moravcová",
+    "ecli": "ECLI:CZ:OSCB:2021:15.C.323.2020.1",
+    "predmetRizeni": "EPR [číslo], o zaplacení částky 109 223,92 Kč s příslušenstvím",
+    "datumVydani": "2021-01-22",
+    "datumZverejneni": "2021-02-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "řidičský průkaz",
+      "smlouva o úvěru",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 1 z. č. 89/2012 Sb.",
+      "§ 122 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/413645d5-5bf2-4b50-af4c-733b8e17b096"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
