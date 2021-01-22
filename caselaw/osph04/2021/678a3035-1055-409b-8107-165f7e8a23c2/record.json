@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:12.C.180.2020.1",
+  "docket": "12 C 180/2020-81",
+  "date": "2021-01-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/678a3035-1055-409b-8107-165f7e8a23c2",
+  "source_sha256": "44a22d07b511fe597cfe4042d98852df7132ae008cecb4c1bb0067732e2d485d",
+  "source_id": "678a3035-1055-409b-8107-165f7e8a23c2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 180/2020-81",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "JUDr. Eva Procházková",
+    "ecli": "ECLI:CZ:OSPH04:2021:12.C.180.2020.1",
+    "predmetRizeni": "o určení neexistence pohledávky + PO",
+    "datumVydani": "2021-01-22",
+    "datumZverejneni": "2021-07-07",
+    "klicovaSlova": [
+      "narovnání",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 80 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/678a3035-1055-409b-8107-165f7e8a23c2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
