@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prachaticích",
+  "ecli": "ECLI:CZ:OSPT:2021:2.C.173.2020.1",
+  "docket": "2 C 173/2020-35",
+  "date": "2021-01-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e371ff01-5d05-4588-b860-49e27cfdf6aa",
+  "source_sha256": "8fbe3a3864d43fe92f1841b64991e0ad2e09eed35e1c4128bd47a13380b2fd2b",
+  "source_id": "e371ff01-5d05-4588-b860-49e27cfdf6aa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "2 C 173/2020-35",
+    "soud": "Okresní soud v Prachaticích",
+    "autor": "JUDr. Vladislava Halodová",
+    "ecli": "ECLI:CZ:OSPT:2021:2.C.173.2020.1",
+    "predmetRizeni": "o zaplacení 347 Kč s příslušenstvím",
+    "datumVydani": "2021-01-22",
+    "datumZverejneni": "2021-03-15",
+    "klicovaSlova": [
+      "opilost",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 89e/1 z. č. 373/2011 Sb.",
+      "§ 20/1b z. č. 65/2017 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e371ff01-5d05-4588-b860-49e27cfdf6aa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
