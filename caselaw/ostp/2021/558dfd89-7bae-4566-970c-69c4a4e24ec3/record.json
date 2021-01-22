@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:11.C.287.2020.1",
+  "docket": "11 C 287/2020-23",
+  "date": "2021-01-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/558dfd89-7bae-4566-970c-69c4a4e24ec3",
+  "source_sha256": "6a3d3e115f78002ed971462e9d2d38757009a3a13e650dfef068602e45577740",
+  "source_id": "558dfd89-7bae-4566-970c-69c4a4e24ec3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 287/2020-23",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "Milan Virag",
+    "ecli": "ECLI:CZ:OSTP:2021:11.C.287.2020.1",
+    "predmetRizeni": "zaplacení 1 764 Kč s příslušenstvím",
+    "datumVydani": "2021-01-22",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 14 vyhl. č. 120/2014 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/558dfd89-7bae-4566-970c-69c4a4e24ec3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
