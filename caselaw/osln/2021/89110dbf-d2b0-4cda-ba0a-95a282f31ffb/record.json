@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2021:10.C.92.2020.1",
+  "docket": "10 C 92/2020-12",
+  "date": "2021-01-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/89110dbf-d2b0-4cda-ba0a-95a282f31ffb",
+  "source_sha256": "c114a2f25ee48a88ef4c8c3d5bc6d65770df0f944ae864e4d3577108e1bbe1e2",
+  "source_id": "89110dbf-d2b0-4cda-ba0a-95a282f31ffb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 92/2020-12",
+    "soud": "Okresní soud v Lounech",
+    "autor": "JUDr. Petr Šilhan",
+    "ecli": "ECLI:CZ:OSLN:2021:10.C.92.2020.1",
+    "predmetRizeni": "Rozvod manželství",
+    "datumVydani": "2021-01-22",
+    "datumZverejneni": "2021-01-26",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/89110dbf-d2b0-4cda-ba0a-95a282f31ffb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
