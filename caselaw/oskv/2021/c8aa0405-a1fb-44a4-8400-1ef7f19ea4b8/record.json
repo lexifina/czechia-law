@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:13.C.393.2020.1",
+  "docket": "13 C 393/2020-12",
+  "date": "2021-01-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c8aa0405-a1fb-44a4-8400-1ef7f19ea4b8",
+  "source_sha256": "5ed397a2046accb57c0043df9a3d06f210a3327aae8514dd535c58fd8f3a11bd",
+  "source_id": "c8aa0405-a1fb-44a4-8400-1ef7f19ea4b8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 393/2020-12",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Oldřich Umlauf",
+    "ecli": "ECLI:CZ:OSKV:2021:13.C.393.2020.1",
+    "predmetRizeni": "10.000 Kč / úvěr",
+    "datumVydani": "2021-01-22",
+    "datumZverejneni": "2021-02-14",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 1815 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c8aa0405-a1fb-44a4-8400-1ef7f19ea4b8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
