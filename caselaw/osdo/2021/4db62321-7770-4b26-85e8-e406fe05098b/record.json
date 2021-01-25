@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:5.C.261.2020.1",
+  "docket": "5 C 261/2020-17",
+  "date": "2021-01-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4db62321-7770-4b26-85e8-e406fe05098b",
+  "source_sha256": "ebb43e91304aeff1137b5fd75137666dba0cdd22c60a263f4a0a252560b9e22b",
+  "source_id": "4db62321-7770-4b26-85e8-e406fe05098b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 261/2020-17",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "Mgr. Bohumila Kyvířová",
+    "ecli": "ECLI:CZ:OSDO:2021:5.C.261.2020.1",
+    "predmetRizeni": "O zaplacení 23 800 Kč s příslušenstvím",
+    "datumVydani": "2021-01-25",
+    "datumZverejneni": "2021-04-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4db62321-7770-4b26-85e8-e406fe05098b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
