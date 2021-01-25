@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mělníku",
+  "ecli": "ECLI:CZ:OSME:2021:13.C.48.2020.1",
+  "docket": "13 C 48/2020-64",
+  "date": "2021-01-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a1d8656b-4381-4d4b-a2ad-df5af5aa3006",
+  "source_sha256": "747cd5e8c819d9f3c62efdfc0de2373ce4f56ef82a2750e85cf3c835322e87e6",
+  "source_id": "a1d8656b-4381-4d4b-a2ad-df5af5aa3006",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 48/2020-64",
+    "soud": "Okresní soud v Mělníku",
+    "autor": "Mgr. Radmila Vladyková",
+    "ecli": "ECLI:CZ:OSME:2021:13.C.48.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-25",
+    "datumZverejneni": "2021-05-14",
+    "klicovaSlova": [
+      "místní příslušnost",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "věcná příslušnost"
+    ],
+    "zminenaUstanoveni": [
+      "§ 657 z. č. 89/2012 Sb.",
+      "§ 658 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 39 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 321/2001 Sb.",
+      "§ 3 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a1d8656b-4381-4d4b-a2ad-df5af5aa3006"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
