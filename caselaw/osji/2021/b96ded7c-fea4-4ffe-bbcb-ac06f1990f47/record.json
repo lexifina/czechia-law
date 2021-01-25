@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2021:4.C.281.2020.1",
+  "docket": "4 C 281/2020-43",
+  "date": "2021-01-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b96ded7c-fea4-4ffe-bbcb-ac06f1990f47",
+  "source_sha256": "f6c22e5cc649ac94282bf89e82e2fadfe7cf6c29504260e88e13df7bdd7894b7",
+  "source_id": "b96ded7c-fea4-4ffe-bbcb-ac06f1990f47",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 281/2020-43",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "Mgr. Jan Cejpek",
+    "ecli": "ECLI:CZ:OSJI:2021:4.C.281.2020.1",
+    "predmetRizeni": "o 2 014 Kč s příslušenstvím",
+    "datumVydani": "2021-01-25",
+    "datumZverejneni": "2021-03-30",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 1 z. č. 145/2010 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b96ded7c-fea4-4ffe-bbcb-ac06f1990f47"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
