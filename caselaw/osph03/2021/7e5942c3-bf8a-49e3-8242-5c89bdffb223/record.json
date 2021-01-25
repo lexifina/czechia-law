@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 3",
+  "ecli": "ECLI:CZ:OSPH03:2021:12.C.250.2019.1",
+  "docket": "12 C 250/2019-147",
+  "date": "2021-01-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7e5942c3-bf8a-49e3-8242-5c89bdffb223",
+  "source_sha256": "ad35731f47a699e3893c4cebf0042b78e1d15521a2960c6e01c1156af1266024",
+  "source_id": "7e5942c3-bf8a-49e3-8242-5c89bdffb223",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 250/2019-147",
+    "soud": "Obvodní soud pro Prahu 3",
+    "autor": "Mgr. Kateřina Janitorová sixtová",
+    "ecli": "ECLI:CZ:OSPH03:2021:12.C.250.2019.1",
+    "predmetRizeni": "16 400 Kč s příslušenstvím",
+    "datumVydani": "2021-01-25",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "dlužné nájemné",
+      "nebytový prostor",
+      "pasivní legitimace",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 2 z. č. 89/2012 Sb.",
+      "§ 1953 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7e5942c3-bf8a-49e3-8242-5c89bdffb223"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
