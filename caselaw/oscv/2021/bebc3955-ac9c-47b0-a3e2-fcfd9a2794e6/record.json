@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:11.C.162.2020.1",
+  "docket": "11 C 162/2020-15",
+  "date": "2021-01-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bebc3955-ac9c-47b0-a3e2-fcfd9a2794e6",
+  "source_sha256": "884ede25a416a57e8086bd579dd536fe1e7960b707a0026f6dabb74661ec36d4",
+  "source_id": "bebc3955-ac9c-47b0-a3e2-fcfd9a2794e6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 162/2020-15",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Libor Lhoťan",
+    "ecli": "ECLI:CZ:OSCV:2021:11.C.162.2020.1",
+    "predmetRizeni": "zaplacení 5 632 Kč s příslušenstvím (příspěvek nepojištěného)",
+    "datumVydani": "2021-01-25",
+    "datumZverejneni": "2021-06-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 24c z. č. 168/1999 Sb.",
+      "§ 1980 nař. vl. č. 531/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bebc3955-ac9c-47b0-a3e2-fcfd9a2794e6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
