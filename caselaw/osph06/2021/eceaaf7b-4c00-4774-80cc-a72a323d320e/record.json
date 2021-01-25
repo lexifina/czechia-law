@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:18.C.363.2020.1",
+  "docket": "18 C 363/2020-32",
+  "date": "2021-01-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/eceaaf7b-4c00-4774-80cc-a72a323d320e",
+  "source_sha256": "9e551f6f1b287af2c77ad861da7f6e46adf8249032f100ae14ea6c111087555a",
+  "source_id": "eceaaf7b-4c00-4774-80cc-a72a323d320e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 363/2020-32",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "Mgr. Blanka Fauré",
+    "ecli": "ECLI:CZ:OSPH06:2021:18.C.363.2020.1",
+    "predmetRizeni": "o zaplacení částky 500 Kč s příslušenstvím",
+    "datumVydani": "2021-01-25",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 1 z. č. 91/2012 Sb.",
+      "§ 2 z. č. 91/2012 Sb.",
+      "§  nař. vl. č. 513/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/eceaaf7b-4c00-4774-80cc-a72a323d320e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
