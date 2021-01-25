@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:12.C.227.2020.1",
+  "docket": "12 C 227/2020-17",
+  "date": "2021-01-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4fca08c4-38ea-4f1d-8f7d-e08495d5bef2",
+  "source_sha256": "2d38380a6b524e135c0e62b60ea87a582fcf12e1eeae17529edcd29ebaaf0b92",
+  "source_id": "4fca08c4-38ea-4f1d-8f7d-e08495d5bef2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 227/2020-17",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "JUDr. Milan Plhal",
+    "ecli": "ECLI:CZ:OSHK:2021:12.C.227.2020.1",
+    "predmetRizeni": "o zaplacení 25 668 Kč s příslušenstvím",
+    "datumVydani": "2021-01-25",
+    "datumZverejneni": "2021-03-15",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 62 z. č. 458/2000 Sb.",
+      "§ 28 z. č. 458/2000 Sb.",
+      "§ 1802 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4fca08c4-38ea-4f1d-8f7d-e08495d5bef2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
