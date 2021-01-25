@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:15.C.370.2020.1",
+  "docket": "15 C 370/2020-52",
+  "date": "2021-01-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a281ea1f-063d-4311-84b8-2716dd95ec43",
+  "source_sha256": "55b3607aae5cdedce8cecdc1a8dfb9c6e002d88c304c65123d8d7e29f78fd38c",
+  "source_id": "a281ea1f-063d-4311-84b8-2716dd95ec43",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 370/2020-52",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "Mgr. Marta Gottwaldová",
+    "ecli": "ECLI:CZ:OSPH04:2021:15.C.370.2020.1",
+    "predmetRizeni": "zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2021-01-25",
+    "datumZverejneni": "2021-03-30",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 12 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a281ea1f-063d-4311-84b8-2716dd95ec43"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
