@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:11.C.144.2020.1",
+  "docket": "11 C 144/2020-18",
+  "date": "2021-01-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/693afd6b-cbcf-4f58-9c6e-3ef42a3916e3",
+  "source_sha256": "ea995b89e6aa05f54ae9f3c17bb36a4b6168d9ce072182e92e537cfc74f4af00",
+  "source_id": "693afd6b-cbcf-4f58-9c6e-3ef42a3916e3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 144/2020-18",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Libor Lhoťan",
+    "ecli": "ECLI:CZ:OSCV:2021:11.C.144.2020.1",
+    "predmetRizeni": "zaplacení 5 000 Kč s příslušenstvím (půjčka)",
+    "datumVydani": "2021-01-25",
+    "datumZverejneni": "2021-06-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/693afd6b-cbcf-4f58-9c6e-3ef42a3916e3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
