@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2021:15.C.330.2020.1",
+  "docket": "15 C 330/2020-51",
+  "date": "2021-01-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/96adf3d6-d9ec-4fdd-8440-a7c9597e69c9",
+  "source_sha256": "9c4d92ea9f08ce2cd944e27dd1f8dce3ff350e96586526f9733b4d008fc477f1",
+  "source_id": "96adf3d6-d9ec-4fdd-8440-a7c9597e69c9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 330/2020-51",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "Mgr. Petr Machačka",
+    "ecli": "ECLI:CZ:OSSY:2021:15.C.330.2020.1",
+    "predmetRizeni": "o zaplacení 1 120 Kč s přísl.",
+    "datumVydani": "2021-01-25",
+    "datumZverejneni": "2021-03-26",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "nájem bytu",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 663 z. č. 40/1964 Sb.",
+      "§ 671 z. č. 89/2012 Sb.",
+      "§ 663 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/96adf3d6-d9ec-4fdd-8440-a7c9597e69c9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
