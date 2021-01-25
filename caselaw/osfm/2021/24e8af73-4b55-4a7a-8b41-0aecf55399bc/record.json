@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:12.C.360.2020.1",
+  "docket": "12 C 360/2020-19",
+  "date": "2021-01-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/24e8af73-4b55-4a7a-8b41-0aecf55399bc",
+  "source_sha256": "960c570e45b828c8a7e7d02a445a45cb9fe63edb90e2fb7340b9a4ba21b2c7ec",
+  "source_id": "24e8af73-4b55-4a7a-8b41-0aecf55399bc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 360/2020-19",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "JUDr. Ludmila Kotásková",
+    "ecli": "ECLI:CZ:OSFM:2021:12.C.360.2020.1",
+    "predmetRizeni": "O zaplacení 2 384 Kč s příslušenstvím",
+    "datumVydani": "2021-01-25",
+    "datumZverejneni": "2021-03-31",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/24e8af73-4b55-4a7a-8b41-0aecf55399bc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
