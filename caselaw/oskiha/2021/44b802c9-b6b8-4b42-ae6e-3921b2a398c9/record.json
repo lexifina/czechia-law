@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:109.C.110.2020.1",
+  "docket": "109 C 110/2020-44",
+  "date": "2021-01-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/44b802c9-b6b8-4b42-ae6e-3921b2a398c9",
+  "source_sha256": "182ddcce2e7429e1409ee956ef34869c0532b9bdabac73303a9ea4dc84f8195b",
+  "source_id": "44b802c9-b6b8-4b42-ae6e-3921b2a398c9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "109 C 110/2020-44",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Michaela Bouhalika",
+    "ecli": "ECLI:CZ:OSKIHA:2021:109.C.110.2020.1",
+    "predmetRizeni": "určení vlastnického práva",
+    "datumVydani": "2021-01-25",
+    "datumZverejneni": "2021-10-21",
+    "klicovaSlova": [
+      "jmění",
+      "postoupení pohledávky",
+      "smlouva darovací",
+      "smlouva o půjčce",
+      "smlouva o úvěru",
+      "vrácení daru",
+      "zástavní právo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 142/1 z. č. 99/1963 Sb.",
+      "§ 118a/1,3 z. č. 99/1963 Sb.",
+      "§ 630 z. č. 40/1964 Sb.",
+      "§ 628/1,2 z. č. 40/1964 Sb.",
+      "§ 29 z. č. 71/1967 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/44b802c9-b6b8-4b42-ae6e-3921b2a398c9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
