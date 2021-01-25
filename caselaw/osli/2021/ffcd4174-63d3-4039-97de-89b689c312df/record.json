@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:16.C.505.2020.1",
+  "docket": "16 C 505/2020-8",
+  "date": "2021-01-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ffcd4174-63d3-4039-97de-89b689c312df",
+  "source_sha256": "70a693a9d7f4093c4ac5f89b84d8cba66444be04950def90cf75ed8a50bd2ec5",
+  "source_id": "ffcd4174-63d3-4039-97de-89b689c312df",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 505/2020-8",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Martin Košek",
+    "ecli": "ECLI:CZ:OSLI:2021:16.C.505.2020.1",
+    "predmetRizeni": "Návrh na rozvod manželství",
+    "datumVydani": "2021-01-25",
+    "datumZverejneni": "2021-01-29",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ffcd4174-63d3-4039-97de-89b689c312df"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
