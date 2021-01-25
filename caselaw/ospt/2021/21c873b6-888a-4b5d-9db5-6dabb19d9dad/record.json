@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prachaticích",
+  "ecli": "ECLI:CZ:OSPT:2021:6.C.16.2021.1",
+  "docket": "6 C 16/2021-11",
+  "date": "2021-01-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/21c873b6-888a-4b5d-9db5-6dabb19d9dad",
+  "source_sha256": "9abd9b88d6b1f1178c55891338270c4f199ecab9cd9872839c03950105c3d3d8",
+  "source_id": "21c873b6-888a-4b5d-9db5-6dabb19d9dad",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 16/2021-11",
+    "soud": "Okresní soud v Prachaticích",
+    "autor": "JUDr. Bohumil Veselý",
+    "ecli": "ECLI:CZ:OSPT:2021:6.C.16.2021.1",
+    "predmetRizeni": "o zaplacení 27 479 Kč s příslušenstvím",
+    "datumVydani": "2021-01-25",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/21c873b6-888a-4b5d-9db5-6dabb19d9dad"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
