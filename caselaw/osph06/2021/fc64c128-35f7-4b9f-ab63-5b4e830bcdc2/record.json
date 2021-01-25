@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:18.C.264.2020.1",
+  "docket": "18 C 264/2020-45",
+  "date": "2021-01-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fc64c128-35f7-4b9f-ab63-5b4e830bcdc2",
+  "source_sha256": "62f61060f9dca3f9623145015e7a5deb38f05741e58d0ab32672abe6bd51e6b6",
+  "source_id": "fc64c128-35f7-4b9f-ab63-5b4e830bcdc2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 264/2020-45",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "Mgr. Blanka Fauré",
+    "ecli": "ECLI:CZ:OSPH06:2021:18.C.264.2020.1",
+    "predmetRizeni": "o zaplacení částky 10 000 Kč s příslušenstvím",
+    "datumVydani": "2021-01-25",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 629 z. č. 89/2012 Sb.",
+      "§ 8 vyhl. č. 177/96 Sb.",
+      "§ 1 z. č. 91/2012 Sb.",
+      "§ 609 z. č. 89/2012 Sb.",
+      "§ 610 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 91/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fc64c128-35f7-4b9f-ab63-5b4e830bcdc2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
