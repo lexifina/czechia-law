@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:119.C.134.2019.1",
+  "docket": "119 C 134/2019",
+  "date": "2021-01-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/53187908-4f71-44cc-91d4-567517691ac8",
+  "source_sha256": "65efbdaa8f2b9984f26d1b92501ce7b8b590524a5511d028d28074ce9c3ea36a",
+  "source_id": "53187908-4f71-44cc-91d4-567517691ac8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "119 C 134/2019",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Zuzana Skripová",
+    "ecli": "ECLI:CZ:MSBR:2021:119.C.134.2019.1",
+    "predmetRizeni": "zrušení věcného břemene - služebnosti",
+    "datumVydani": "2021-01-25",
+    "datumZverejneni": "2021-05-05",
+    "klicovaSlova": [
+      "služebnost",
+      "věcná břemena"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 3036 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 101 z. č. 40/1964 Sb.",
+      "§ 1299 z. č. 89/2012 Sb.",
+      "§ 109 z. č. 40/1964 Sb.",
+      "§ 151p z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/53187908-4f71-44cc-91d4-567517691ac8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
