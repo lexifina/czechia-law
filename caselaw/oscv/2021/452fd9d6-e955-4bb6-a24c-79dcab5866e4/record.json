@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:30.C.289.2019.1",
+  "docket": "30 C 289/2019-18",
+  "date": "2021-01-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/452fd9d6-e955-4bb6-a24c-79dcab5866e4",
+  "source_sha256": "58e59e663b07706f68f41f71eb8bde9334f0c312189e51a730e26f8d591d463f",
+  "source_id": "452fd9d6-e955-4bb6-a24c-79dcab5866e4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 289/2019-18",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Hana Jakubcová",
+    "ecli": "ECLI:CZ:OSCV:2021:30.C.289.2019.1",
+    "predmetRizeni": "zaplacení 24 580 Kč s příslušenstvím (úvěr)",
+    "datumVydani": "2021-01-25",
+    "datumZverejneni": "2021-03-26",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "oddlužení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/452fd9d6-e955-4bb6-a24c-79dcab5866e4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
