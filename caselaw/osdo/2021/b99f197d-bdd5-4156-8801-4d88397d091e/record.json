@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:6.C.289.2020.1",
+  "docket": "6 C 289/2020-12",
+  "date": "2021-01-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b99f197d-bdd5-4156-8801-4d88397d091e",
+  "source_sha256": "c419f3e2edf88896db4a964efe3be4cca5fafb546a2b9bea2f7386d709a51ad1",
+  "source_id": "b99f197d-bdd5-4156-8801-4d88397d091e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 289/2020-12",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "JUDr. Vladimíra Mašinová",
+    "ecli": "ECLI:CZ:OSDO:2021:6.C.289.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-25",
+    "datumZverejneni": "2021-02-23",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 13 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b99f197d-bdd5-4156-8801-4d88397d091e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
