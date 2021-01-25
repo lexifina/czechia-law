@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:22.C.259.2020.1",
+  "docket": "22 C 259/2020-15",
+  "date": "2021-01-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2fa6d115-f334-4639-a641-20dd654b5e48",
+  "source_sha256": "b585e0d3ad1d7927591a7c62d69955c81f73faf561aa84c3c917ab5742aa456c",
+  "source_id": "2fa6d115-f334-4639-a641-20dd654b5e48",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 259/2020-15",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Martin Chládek",
+    "ecli": "ECLI:CZ:OSUL:2021:22.C.259.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-01-25",
+    "datumZverejneni": "2021-04-26",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 115 z. č. 99/1963 Sb.",
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 391 z. č. 293/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2fa6d115-f334-4639-a641-20dd654b5e48"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
