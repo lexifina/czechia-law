@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:10.C.71.2020.1",
+  "docket": "10 C 71/2020-58",
+  "date": "2021-01-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/811c12cb-1770-458e-a827-405df9d6fc38",
+  "source_sha256": "55d07927ffcd833824d0434cb0062e88202a0bcb0e17cb67046308f2ac3be894",
+  "source_id": "811c12cb-1770-458e-a827-405df9d6fc38",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 71/2020-58",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "Mgr. Adéla Ganajová",
+    "ecli": "ECLI:CZ:OSTP:2021:10.C.71.2020.1",
+    "predmetRizeni": "zaplacení 2 986 Kč s příslušenstvím",
+    "datumVydani": "2021-01-25",
+    "datumZverejneni": "2021-04-30",
+    "klicovaSlova": [
+      "odměna opatrovníka",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§  z. č. 458/2000 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 29 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/811c12cb-1770-458e-a827-405df9d6fc38"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
