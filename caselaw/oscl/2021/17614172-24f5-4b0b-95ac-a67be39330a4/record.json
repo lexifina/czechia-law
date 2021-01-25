@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:36.C.308.2019.1",
+  "docket": "36 C 308/2019-50",
+  "date": "2021-01-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/17614172-24f5-4b0b-95ac-a67be39330a4",
+  "source_sha256": "9b28408315c056598b62823cb6f2a5288e794a3fa4fe1d2530699a1552409ee6",
+  "source_id": "17614172-24f5-4b0b-95ac-a67be39330a4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 308/2019-50",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Alena Turaiová",
+    "ecli": "ECLI:CZ:OSCL:2021:36.C.308.2019.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-01-25",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "insolvence",
+      "zástavní právo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 7 z. č. 549/1991 Sb.",
+      "§ 356 z. č. 292/2013 Sb.",
+      "§ 152 z. č. 40/1964 Sb.",
+      "§ 72 z. č. 337/1992 Sb.",
+      "§ 311 z. č. 182/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/17614172-24f5-4b0b-95ac-a67be39330a4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
