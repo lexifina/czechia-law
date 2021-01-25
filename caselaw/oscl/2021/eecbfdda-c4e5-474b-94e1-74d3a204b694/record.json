@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:38.C.302.2020.1",
+  "docket": "38 C 302/2020-26",
+  "date": "2021-01-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/eecbfdda-c4e5-474b-94e1-74d3a204b694",
+  "source_sha256": "36a0272314f20cda8ae11a6f7665613374ac2f73f54f4a821640ec284b3c115e",
+  "source_id": "eecbfdda-c4e5-474b-94e1-74d3a204b694",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 302/2020-26",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Martin Fedorko",
+    "ecli": "ECLI:CZ:OSCL:2021:38.C.302.2020.1",
+    "predmetRizeni": "o přezkoumání výpovědi z nájmu bytu",
+    "datumVydani": "2021-01-25",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 235/2004 Sb.",
+      "§ 2235 z. č. 89/2012 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 2291 z. č. 89/2012 Sb.",
+      "§ 2286 z. č. 89/2012 Sb.",
+      "§ 2288 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/eecbfdda-c4e5-474b-94e1-74d3a204b694"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
