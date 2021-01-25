@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:15.C.302.2020.1",
+  "docket": "15 C 302/2020-15",
+  "date": "2021-01-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/97405194-714b-4b2e-9fc2-06ef2908ec6a",
+  "source_sha256": "0c8adc3a92caa9a0f147af634190009eb811bd9619583861e840eba7c535a43a",
+  "source_id": "97405194-714b-4b2e-9fc2-06ef2908ec6a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 302/2020-15",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "Mgr. Marta Gottwaldová",
+    "ecli": "ECLI:CZ:OSPH04:2021:15.C.302.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-25",
+    "datumZverejneni": "2021-03-30",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 6 z. č. 348/2005 Sb.",
+      "§ 7 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/97405194-714b-4b2e-9fc2-06ef2908ec6a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
