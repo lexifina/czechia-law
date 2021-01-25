@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:47.C.172.2020.1",
+  "docket": "47 C 172/2020-22",
+  "date": "2021-01-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/de3c2d89-a7e7-4bb8-a76f-940b0c2dc1b7",
+  "source_sha256": "3591ba988026a2ff6be92112eb9dd831d2f73f0450586d1f16ed948b9bfc136c",
+  "source_id": "de3c2d89-a7e7-4bb8-a76f-940b0c2dc1b7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "47 C 172/2020-22",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "JUDr. Hana Zítková",
+    "ecli": "ECLI:CZ:OSPH04:2021:47.C.172.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-25",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/de3c2d89-a7e7-4bb8-a76f-940b0c2dc1b7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
