@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2021:5.C.231.2020.1",
+  "docket": "5 C 231/2020-15",
+  "date": "2021-01-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b9b7b2f4-571d-47a4-af55-a478e778e670",
+  "source_sha256": "78254b56cc208cec12ac37e3c9085a940fa327a2321dbba59b5df6e9e48b3de3",
+  "source_id": "b9b7b2f4-571d-47a4-af55-a478e778e670",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 231/2020-15",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "JUDr. Bohumíra Netrvalová, Ph.D.",
+    "ecli": "ECLI:CZ:OSKT:2021:5.C.231.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-25",
+    "datumZverejneni": "2021-03-10",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b9b7b2f4-571d-47a4-af55-a478e778e670"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
