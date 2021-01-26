@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:27.C.145.2018.6",
+  "docket": "27 C 145/2018-132",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1109ebac-facd-44d1-bf2e-3f8c0dbfb444",
+  "source_sha256": "f1a4ad922f5700ebc687efdfbae4b98f045a0fb8b4581452a547a973205be34c",
+  "source_id": "1109ebac-facd-44d1-bf2e-3f8c0dbfb444",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 145/2018-132",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "JUDr. Štěpán Klapka",
+    "ecli": "ECLI:CZ:OSDC:2021:27.C.145.2018.6",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-06-15",
+    "klicovaSlova": [
+      "dodávky energie",
+      "jízdné",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§  vyhl. č. 177/1996 Sb.",
+      "§  z. č. 458/2000 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 9 vyhl. č. 82/2011 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 136 z. č. 99/1963 Sb.",
+      "§ 155 z. č. 99/1963 Sb.",
+      "§ 157 vyhl. č. 358/2019 Sb.",
+      "§ 2955 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1109ebac-facd-44d1-bf2e-3f8c0dbfb444"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
