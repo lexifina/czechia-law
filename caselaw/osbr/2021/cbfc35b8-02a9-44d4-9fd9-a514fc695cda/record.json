@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Berouně",
+  "ecli": "ECLI:CZ:OSBR:2021:18.C.227.2020.1",
+  "docket": "18 C 227/2020",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cbfc35b8-02a9-44d4-9fd9-a514fc695cda",
+  "source_sha256": "52063a8ce7ff29940d151f388b7f1d6ddbf0941e17be3005e6fd3ff863385f41",
+  "source_id": "cbfc35b8-02a9-44d4-9fd9-a514fc695cda",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 227/2020",
+    "soud": "Okresní soud v Berouně",
+    "autor": "Mgr. Veronika Sekerová",
+    "ecli": "ECLI:CZ:OSBR:2021:18.C.227.2020.1",
+    "predmetRizeni": "návrh na rozvod manželství",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-02-18",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 207 z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ § 23 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cbfc35b8-02a9-44d4-9fd9-a514fc695cda"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
