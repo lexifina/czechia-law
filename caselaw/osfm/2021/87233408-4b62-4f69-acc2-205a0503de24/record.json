@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:42.C.343.2020.1",
+  "docket": "42 C 343/2020-20",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/87233408-4b62-4f69-acc2-205a0503de24",
+  "source_sha256": "03a3a66b9adc671ad2825c7de1bd32bc83f38238a5fbc6b676ee683594fb16a7",
+  "source_id": "87233408-4b62-4f69-acc2-205a0503de24",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 343/2020-20",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Michaela Janošcová",
+    "ecli": "ECLI:CZ:OSFM:2021:42.C.343.2020.1",
+    "predmetRizeni": "o zaplacení 13 528 Kč s příslušenstvím",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-03-12",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "neplatnost právního jednání",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/87233408-4b62-4f69-acc2-205a0503de24"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
