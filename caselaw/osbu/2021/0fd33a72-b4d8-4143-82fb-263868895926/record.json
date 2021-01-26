@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2021:16.C.252.2020.1",
+  "docket": "16 C 252/2020-20",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0fd33a72-b4d8-4143-82fb-263868895926",
+  "source_sha256": "98fdbde35fd868f205012d65d0ecabd06d2b6dae274cbd125f3bf70ae41fd429",
+  "source_id": "0fd33a72-b4d8-4143-82fb-263868895926",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 252/2020-20",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "JUDr. Marcela Mrkalová",
+    "ecli": "ECLI:CZ:OSBU:2021:16.C.252.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-04-13",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2804 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0fd33a72-b4d8-4143-82fb-263868895926"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
