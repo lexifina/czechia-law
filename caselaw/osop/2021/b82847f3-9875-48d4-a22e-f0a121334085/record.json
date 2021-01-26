@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2021:38.C.1.2021.1",
+  "docket": "38 C 1/2021-15",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b82847f3-9875-48d4-a22e-f0a121334085",
+  "source_sha256": "0a4e750617ab61cefa663d49780f6ddac03f4b643dc56061cee0b5b1a0cd50e1",
+  "source_id": "b82847f3-9875-48d4-a22e-f0a121334085",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 1/2021-15",
+    "soud": "Okresní soud v Opavě",
+    "autor": "JUDr. Miloš Světlík",
+    "ecli": "ECLI:CZ:OSOP:2021:38.C.1.2021.1",
+    "predmetRizeni": "o zaplacení 6 640 Kč s příslušenstvím",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-03-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§  z. č. 0/0 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b82847f3-9875-48d4-a22e-f0a121334085"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
