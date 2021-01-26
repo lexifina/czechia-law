@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:8.C.337.2020.2",
+  "docket": "8 C 337/2020-17",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/66ebb536-0a6c-44c8-a22b-15f467a648c8",
+  "source_sha256": "9402db279978005626d9adbf6f589e4d0915f62013d0f245d0be98dfbad05de2",
+  "source_id": "66ebb536-0a6c-44c8-a22b-15f467a648c8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 337/2020-17",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "Mgr. Václav Kokožka",
+    "ecli": "ECLI:CZ:OSPS:2021:8.C.337.2020.2",
+    "predmetRizeni": "4 395 Kč s přísl.",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 15 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/66ebb536-0a6c-44c8-a22b-15f467a648c8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
