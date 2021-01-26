@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2021:16.C.239.2020.1",
+  "docket": "16 C 239/2020-20",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/70e87087-a690-4f61-ba43-122d530cfb85",
+  "source_sha256": "3213b4d128ac91edc5a5ec1733f87d8198f822a070bdf70febfb03ffa8c3b7a4",
+  "source_id": "70e87087-a690-4f61-ba43-122d530cfb85",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 239/2020-20",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "JUDr. Marcela Mrkalová",
+    "ecli": "ECLI:CZ:OSBU:2021:16.C.239.2020.1",
+    "predmetRizeni": "2.000 Kč",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-04-19",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 49 vyhl. č. 175/2000 Sb.",
+      "§  z. č. 111/1994 Sb.",
+      "§  z. č. 304/1997 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/70e87087-a690-4f61-ba43-122d530cfb85"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
