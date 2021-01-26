@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:11.C.113.2020.3",
+  "docket": "11 C 113/2020-23",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4d523164-4985-4ff8-9b13-dc33b7965436",
+  "source_sha256": "d9b18c2e0492073244c904453cba0b7ae06b84ce90286ae0e1251307aa4c2809",
+  "source_id": "4d523164-4985-4ff8-9b13-dc33b7965436",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 113/2020-23",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Libor Lhoťan",
+    "ecli": "ECLI:CZ:OSCV:2021:11.C.113.2020.3",
+    "predmetRizeni": "žaloba na vydání měřícího zařízení výrobní [číslo]",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-06-10",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 56 z. č. 458/2000 Sb.",
+      "§ 1040 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4d523164-4985-4ff8-9b13-dc33b7965436"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
