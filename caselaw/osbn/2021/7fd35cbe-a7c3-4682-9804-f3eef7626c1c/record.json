@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2021:4.C.357.2020.1",
+  "docket": "4 C 357/2020-25",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7fd35cbe-a7c3-4682-9804-f3eef7626c1c",
+  "source_sha256": "9b5881a6af82d24d302acd7d3cf08c9cdac0d993b437fb39fd056bcff600d66e",
+  "source_id": "7fd35cbe-a7c3-4682-9804-f3eef7626c1c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 357/2020-25",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Petr Šimek",
+    "ecli": "ECLI:CZ:OSBN:2021:4.C.357.2020.1",
+    "predmetRizeni": "zaplacení 1 799,76 Kč s příslušenstvím",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-04-01",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7fd35cbe-a7c3-4682-9804-f3eef7626c1c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
