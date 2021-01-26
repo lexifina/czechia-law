@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:14.C.210.2020.1",
+  "docket": "14 C 210/2020-28",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8c223f8f-8c3e-443d-82d2-3293ca3c811e",
+  "source_sha256": "60ffe7b9a18aa2d9de0b6db09bf60334b86a293035164180cffde534ed75a886",
+  "source_id": "8c223f8f-8c3e-443d-82d2-3293ca3c811e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 210/2020-28",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Michaela Silnická",
+    "ecli": "ECLI:CZ:MSBR:2021:14.C.210.2020.1",
+    "predmetRizeni": "zaplacení 1.524 Kč s příslušenstvím - pokuta",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-09-21",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8c223f8f-8c3e-443d-82d2-3293ca3c811e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
