@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:13.C.227.2020.1",
+  "docket": "13 C 227/2020-28",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/de3a97fb-d5b6-45f7-b6bf-0a89819d7e06",
+  "source_sha256": "3cdf5aef4d3a3407b86786054d3bbd8a8f7b782e391bcab7936dab63b58c48d8",
+  "source_id": "de3a97fb-d5b6-45f7-b6bf-0a89819d7e06",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 227/2020-28",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "Mgr. Helena Podveská",
+    "ecli": "ECLI:CZ:OSHO:2021:13.C.227.2020.1",
+    "predmetRizeni": "zaplacení 2 850 Kč s příslušenstvím",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1931 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/de3a97fb-d5b6-45f7-b6bf-0a89819d7e06"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
