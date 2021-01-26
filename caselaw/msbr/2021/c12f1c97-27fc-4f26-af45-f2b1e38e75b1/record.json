@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:52.C.165.2020.1",
+  "docket": "52 C 165/2020-21",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c12f1c97-27fc-4f26-af45-f2b1e38e75b1",
+  "source_sha256": "65c00c56fa3cf7224fb964980d939578ce888ef0cb1a9533175878563bf44936",
+  "source_id": "c12f1c97-27fc-4f26-af45-f2b1e38e75b1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "52 C 165/2020-21",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Jiří Štark",
+    "ecli": "ECLI:CZ:MSBR:2021:52.C.165.2020.1",
+    "predmetRizeni": "zaplacení 1.015 Kč s příslušenstvím - příspěvek za nepojištěné vozidlo",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-04-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 24c z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c12f1c97-27fc-4f26-af45-f2b1e38e75b1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
