@@ -1,0 +1,30 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2021:36.C.1.2021.1",
+  "docket": "36 C 1/2021-16",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8316b259-fc37-438e-8d97-6ea72aed3cab",
+  "source_sha256": "3d671ab593638e9d89eb585d2122648a6c0174394fbc74619726bc9277af013c",
+  "source_id": "8316b259-fc37-438e-8d97-6ea72aed3cab",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 1/2021-16",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "JUDr. Tomáš Behr",
+    "ecli": "ECLI:CZ:OSPZ:2021:36.C.1.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-04-28",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 3 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8316b259-fc37-438e-8d97-6ea72aed3cab"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
