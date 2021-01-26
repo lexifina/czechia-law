@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:3.C.254.2020.1",
+  "docket": "3 C 254/2020-19",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1c3d4878-8cb0-4bfb-972c-216235129132",
+  "source_sha256": "81d93b0183b00e90f001e63a6b38df6aea5e57ea93f21f07a7facce5f120652a",
+  "source_id": "1c3d4878-8cb0-4bfb-972c-216235129132",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 254/2020-19",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "JUDr. Jiří Kučera",
+    "ecli": "ECLI:CZ:OSNA:2021:3.C.254.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1c3d4878-8cb0-4bfb-972c-216235129132"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
