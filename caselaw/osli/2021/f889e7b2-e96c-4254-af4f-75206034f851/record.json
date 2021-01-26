@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:22.C.153.2020.1",
+  "docket": "22 C 153/2020-16",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f889e7b2-e96c-4254-af4f-75206034f851",
+  "source_sha256": "43bbe9b344b0a815b07c8a3d515b150796857a128054b2367dee04c1f342e142",
+  "source_id": "f889e7b2-e96c-4254-af4f-75206034f851",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 153/2020-16",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Tomáš Kopal",
+    "ecli": "ECLI:CZ:OSLI:2021:22.C.153.2020.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 5.817,00 Kč s přísl.",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 657 z. č. 40/1964 Sb.",
+      "§ 1895 z. č. 89/2012 Sb.",
+      "§ 658 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f889e7b2-e96c-4254-af4f-75206034f851"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
