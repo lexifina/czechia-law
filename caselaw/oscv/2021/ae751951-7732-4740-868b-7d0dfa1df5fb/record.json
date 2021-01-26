@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:11.C.120.2020.4",
+  "docket": "11 C 120/2020-43",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ae751951-7732-4740-868b-7d0dfa1df5fb",
+  "source_sha256": "ae44b4882f259ff450ff5f4d31363e29ae4d43ebfeb9d6b00953f1d108c72356",
+  "source_id": "ae751951-7732-4740-868b-7d0dfa1df5fb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 120/2020-43",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Libor Lhoťan",
+    "ecli": "ECLI:CZ:OSCV:2021:11.C.120.2020.4",
+    "predmetRizeni": "zaplacení 61 412 Kč s příslušenstvím (dlužné nájemné)",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-06-10",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2295 z. č. 89/2012 Sb.",
+      "§  z. č. 293/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ae751951-7732-4740-868b-7d0dfa1df5fb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
