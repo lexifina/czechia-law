@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2021:17.C.257.2020.2",
+  "docket": "17 C 257/2020-32",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2fa077c3-8495-4b28-a665-9fe6d19cca9f",
+  "source_sha256": "9b685ff6b93c1838d41817c5083a65e27da8aea6d129693e921ad9b2c7e5bb50",
+  "source_id": "2fa077c3-8495-4b28-a665-9fe6d19cca9f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 257/2020-32",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "Mgr. Alena Novotná",
+    "ecli": "ECLI:CZ:OSPH10:2021:17.C.257.2020.2",
+    "predmetRizeni": "[částka]",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2fa077c3-8495-4b28-a665-9fe6d19cca9f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
