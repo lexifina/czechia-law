@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2021:10.C.21.2020.1",
+  "docket": "10 C 21/2020-37",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5f5fc63f-63bf-4eeb-b382-c1fcd14397cd",
+  "source_sha256": "4e6a92988e885a3d9db9a219597339b43201a7c22efaf0c21b6cf2579898464a",
+  "source_id": "5f5fc63f-63bf-4eeb-b382-c1fcd14397cd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 21/2020-37",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "Mgr. Přemysl Klas",
+    "ecli": "ECLI:CZ:OSBV:2021:10.C.21.2020.1",
+    "predmetRizeni": "5.578 Kč s příslušenstvím",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 1895 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5f5fc63f-63bf-4eeb-b382-c1fcd14397cd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
