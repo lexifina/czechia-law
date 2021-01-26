@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2021:67.C.334.2020.1",
+  "docket": "67 C 334/2020-14",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fd975983-d164-4016-a344-6e730c3dc44f",
+  "source_sha256": "57f221752361062f219e65fa8a490fab1ede3edf90610ebf885e3ea270fae561",
+  "source_id": "fd975983-d164-4016-a344-6e730c3dc44f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "67 C 334/2020-14",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "Mgr. Lenka Kloudová",
+    "ecli": "ECLI:CZ:OSPH09:2021:67.C.334.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-02-10",
+    "klicovaSlova": [
+      "místní příslušnost",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 49 z. č. 91/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fd975983-d164-4016-a344-6e730c3dc44f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
