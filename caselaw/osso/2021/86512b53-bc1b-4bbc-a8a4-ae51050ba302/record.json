@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:20.C.231.2020.1",
+  "docket": "20 C 231/2020-19",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/86512b53-bc1b-4bbc-a8a4-ae51050ba302",
+  "source_sha256": "6d188195b7621f1216beaa9e8f9a53f335d3e68fede4a3f9272a2005d0aaa51b",
+  "source_id": "86512b53-bc1b-4bbc-a8a4-ae51050ba302",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 231/2020-19",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "JUDr. Jaroslav Simet",
+    "ecli": "ECLI:CZ:OSSO:2021:20.C.231.2020.1",
+    "predmetRizeni": "zaplacení 7 319,47 Kč s příslušenstvím",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-04-30",
+    "klicovaSlova": [
+      "nájem dopravního prostředku",
+      "peněžité plnění",
+      "smlouva o nájmu dopravního prostředku"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2054 z. č. 89/2012 Sb.",
+      "§ 2321 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/86512b53-bc1b-4bbc-a8a4-ae51050ba302"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
