@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2021:15.C.10.2021.2",
+  "docket": "15 C 10/2021-16",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7287dc54-a1a4-44d1-9f18-786cfa07d66d",
+  "source_sha256": "70646ec2f505db12ce98648e80a6441004a0d58ff2a2dc5ba4e8d6050655544d",
+  "source_id": "7287dc54-a1a4-44d1-9f18-786cfa07d66d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 10/2021-16",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "Mgr. Martina Svobodová",
+    "ecli": "ECLI:CZ:OSMB:2021:15.C.10.2021.2",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-03-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 1099 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7287dc54-a1a4-44d1-9f18-786cfa07d66d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
