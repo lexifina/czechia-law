@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:24.C.212.2020.1",
+  "docket": "24 C 212/2020-10",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/28dbbc92-6981-4ec2-ac0e-03fad5e3483b",
+  "source_sha256": "592d9da2cf299171ad7ab6cc562ad46e0140f2074299acbfb2f5cda7b2eddc62",
+  "source_id": "28dbbc92-6981-4ec2-ac0e-03fad5e3483b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 212/2020-10",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Miroslava Švarcová",
+    "ecli": "ECLI:CZ:OSPH01:2021:24.C.212.2020.1",
+    "predmetRizeni": "o zaplacení 3 450 Kč s příslušenstvím",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-12-07",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§  z. č. 361/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/28dbbc92-6981-4ec2-ac0e-03fad5e3483b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
