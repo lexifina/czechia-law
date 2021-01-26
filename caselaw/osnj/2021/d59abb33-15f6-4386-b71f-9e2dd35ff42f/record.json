@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2021:13.C.343.2020.3",
+  "docket": "13 C 343/2020-10",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d59abb33-15f6-4386-b71f-9e2dd35ff42f",
+  "source_sha256": "bcc4566960be4e93357c99bc413f01246c89216e481519b91f85bba9a01c198c",
+  "source_id": "d59abb33-15f6-4386-b71f-9e2dd35ff42f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 343/2020-10",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "JUDr. Tomáš Hoza",
+    "ecli": "ECLI:CZ:OSNJ:2021:13.C.343.2020.3",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-02-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d59abb33-15f6-4386-b71f-9e2dd35ff42f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
