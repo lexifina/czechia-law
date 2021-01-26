@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:110.C.342.2020.1",
+  "docket": "110 C 342/2020-29",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e02d5ec5-22ce-40a4-adbf-cf94c695fd1b",
+  "source_sha256": "d58987f6403868fb9e5479f2cdcb9ee7beb56a8cb0949ba7ffc0bbcf39fac77f",
+  "source_id": "e02d5ec5-22ce-40a4-adbf-cf94c695fd1b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "110 C 342/2020-29",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Yvona Del favero",
+    "ecli": "ECLI:CZ:OSKIHA:2021:110.C.342.2020.1",
+    "predmetRizeni": "7 669,72 Kč s příslušenstvím",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-04-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e02d5ec5-22ce-40a4-adbf-cf94c695fd1b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
