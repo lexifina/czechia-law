@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:19.C.145.2020.4",
+  "docket": "19 C 145/2020-88",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a66b8368-559a-4227-9aab-8e16309004e1",
+  "source_sha256": "f269ce65f18297240a0b79dcf384cc7d54782bc0334bc36104e04b8ffe89c922",
+  "source_id": "a66b8368-559a-4227-9aab-8e16309004e1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 145/2020-88",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "Mgr. Lucie Vítková",
+    "ecli": "ECLI:CZ:OSPH02:2021:19.C.145.2020.4",
+    "predmetRizeni": "o zaplacení 22 417 Kč s příslušenstvím",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-05-06",
+    "klicovaSlova": [
+      "obchodní závod",
+      "oceňování majetku",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "software"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a66b8368-559a-4227-9aab-8e16309004e1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
