@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:7.C.20.2021.1",
+  "docket": "7 C 20/2021-42",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/96cf54d3-4939-4143-b69e-6e58007780ac",
+  "source_sha256": "a54c6d42f8e1ce9cc7343818aa1f4559f0f8ca24c3dad6db4b8bad7a88fd5aec",
+  "source_id": "96cf54d3-4939-4143-b69e-6e58007780ac",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 20/2021-42",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "Mgr. Veronika Konšelová",
+    "ecli": "ECLI:CZ:OSPB:2021:7.C.20.2021.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-03-29",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§  z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/96cf54d3-4939-4143-b69e-6e58007780ac"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
