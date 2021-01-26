@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2021:13.C.50.2018.1",
+  "docket": "13 C 50/2018-113",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/14fb5feb-4b2c-4ae8-92e0-f238bf13ce37",
+  "source_sha256": "f52e041da5a229f9a36b3392a1119035a0ae98925b5233b3ce81357fb8416b27",
+  "source_id": "14fb5feb-4b2c-4ae8-92e0-f238bf13ce37",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 50/2018-113",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "JUDr. Ing. Tomáš Kubec",
+    "ecli": "ECLI:CZ:OSPH08:2021:13.C.50.2018.1",
+    "predmetRizeni": "o zaplacení 1.400.000 Kč s přísl.",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "nemajetková újma"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 629 z. č. 89/2012 Sb.",
+      "§ 620 z. č. 89/2012 Sb.",
+      "§ 626 z. č. 89/2012 Sb.",
+      "§ 635 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/14fb5feb-4b2c-4ae8-92e0-f238bf13ce37"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
