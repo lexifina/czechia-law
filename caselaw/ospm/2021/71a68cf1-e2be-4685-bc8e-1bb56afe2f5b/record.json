@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:17.C.304.2020.1",
+  "docket": "17 C 304/2020-29",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/71a68cf1-e2be-4685-bc8e-1bb56afe2f5b",
+  "source_sha256": "7940faa9bd457e40aa1d0c6f3942fada0c0ad91705a4e9a52baf6f984467673c",
+  "source_id": "71a68cf1-e2be-4685-bc8e-1bb56afe2f5b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 304/2020-29",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "JUDr. Petr Kulawiak",
+    "ecli": "ECLI:CZ:OSPM:2021:17.C.304.2020.1",
+    "predmetRizeni": "O zaplacení 2 400 Kč s příslušenstvím",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1 nař. vl. č. 142/1994 Sb.",
+      "§ 517 z. č. 40/1964 Sb.",
+      "§ 497 z. č. 513/1991 Sb.",
+      "§ 151 vyhl. č. 484/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/71a68cf1-e2be-4685-bc8e-1bb56afe2f5b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
