@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:19.C.286.2020.1",
+  "docket": "19 C 286/2020-19",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4aefabf8-0782-4dfd-a731-7b0d53d4cece",
+  "source_sha256": "bbc9b3f2a970fc0dabc22adfc515bb4b4a7d1a2c97e949717ca1eb05debf6c12",
+  "source_id": "4aefabf8-0782-4dfd-a731-7b0d53d4cece",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 286/2020-19",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "Mgr. Tomáš Foltýn, Ph.D.",
+    "ecli": "ECLI:CZ:OSDO:2021:19.C.286.2020.1",
+    "predmetRizeni": "O zaplacení 5 329 Kč s příslušenstvím",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-03-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 2 vyhl. č. 205/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4aefabf8-0782-4dfd-a731-7b0d53d4cece"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
