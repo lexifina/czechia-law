@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:111.C.351.2020.1",
+  "docket": "111 C 351/2020-33",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/53a75cc3-6543-4352-9a5f-ff77d6026f7b",
+  "source_sha256": "1508c05151c9bd5fa5ca4839849807559f53cf31fbeaf85c7d8eef5459ae68d7",
+  "source_id": "53a75cc3-6543-4352-9a5f-ff77d6026f7b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "111 C 351/2020-33",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Otto Slavík",
+    "ecli": "ECLI:CZ:OSKIHA:2021:111.C.351.2020.1",
+    "predmetRizeni": "5 000 Kč",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 2 z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/53a75cc3-6543-4352-9a5f-ff77d6026f7b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
