@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2021:18.C.366.2020.1",
+  "docket": "18 C 366/2020-12",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/89fc6d4c-b897-4eeb-a16b-6a68476b4bd1",
+  "source_sha256": "de372439c6683c849eed9070b8fe9318218665269ee64adb648adcc9fee18ac8",
+  "source_id": "89fc6d4c-b897-4eeb-a16b-6a68476b4bd1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 366/2020-12",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "Mgr. Jaroslav Sosík",
+    "ecli": "ECLI:CZ:OSNJ:2021:18.C.366.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-02-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/89fc6d4c-b897-4eeb-a16b-6a68476b4bd1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
