@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:15.C.355.2020.1",
+  "docket": "15 C 355/2020-21",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3e895685-b85b-4b59-9e7b-8d16fb9fbee4",
+  "source_sha256": "cbaabd86eac93349f35b3c6ecad388176bfae4b7a8e75e7218b82f1f8f3501a8",
+  "source_id": "3e895685-b85b-4b59-9e7b-8d16fb9fbee4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 355/2020-21",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Kateřina Hendrichová",
+    "ecli": "ECLI:CZ:OSKV:2021:15.C.355.2020.1",
+    "predmetRizeni": "50.100 Kč / úvěr",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-03-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozsudek pro uznání"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 153a z. č. 99/1963 Sb.",
+      "§ 114b z. č. 99/1963 Sb.",
+      "§ 99 z. č. 99/1963 Sb.",
+      "§ 13 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3e895685-b85b-4b59-9e7b-8d16fb9fbee4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
