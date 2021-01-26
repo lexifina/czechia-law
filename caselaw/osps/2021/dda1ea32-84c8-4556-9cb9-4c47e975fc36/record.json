@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:8.C.371.2020.2",
+  "docket": "8 C 371/2020-14",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dda1ea32-84c8-4556-9cb9-4c47e975fc36",
+  "source_sha256": "12277f2617c808448ea8ad31a038f72c2ed5b089e27271b5d645202344c019d8",
+  "source_id": "dda1ea32-84c8-4556-9cb9-4c47e975fc36",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 371/2020-14",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "Mgr. Václav Kokožka",
+    "ecli": "ECLI:CZ:OSPS:2021:8.C.371.2020.2",
+    "predmetRizeni": "3 530,94 Kč s přísl.",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-08-20",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dda1ea32-84c8-4556-9cb9-4c47e975fc36"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
