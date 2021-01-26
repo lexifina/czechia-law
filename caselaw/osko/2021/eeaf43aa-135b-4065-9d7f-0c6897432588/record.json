@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kolíně",
+  "ecli": "ECLI:CZ:OSKO:2021:19.C.204.2020.1",
+  "docket": "19 C 204/2020",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/eeaf43aa-135b-4065-9d7f-0c6897432588",
+  "source_sha256": "1536c6647bc11de8e1b97a470be50d39e7e1b5176f8f60e79cb4a3311560c753",
+  "source_id": "eeaf43aa-135b-4065-9d7f-0c6897432588",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 204/2020",
+    "soud": "Okresní soud v Kolíně",
+    "autor": "JUDr. Marek Jäger, Ph.D.",
+    "ecli": "ECLI:CZ:OSKO:2021:19.C.204.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s přísl.",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2291 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/eeaf43aa-135b-4065-9d7f-0c6897432588"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
