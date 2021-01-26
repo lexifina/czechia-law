@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Blansku",
+  "ecli": "ECLI:CZ:OSBK:2021:2.C.130.2020.1",
+  "docket": "2 C 130/2020-25",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cc3c1577-ff9d-40c0-a706-4cf3d101a40b",
+  "source_sha256": "5a250513fda58f080993dce0dd97b3f3ec9871f8eb33409624e44089c93a652c",
+  "source_id": "cc3c1577-ff9d-40c0-a706-4cf3d101a40b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "2 C 130/2020-25",
+    "soud": "Okresní soud v Blansku",
+    "autor": "Mgr. Klára Cásková",
+    "ecli": "ECLI:CZ:OSBK:2021:2.C.130.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-02-18",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 207 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cc3c1577-ff9d-40c0-a706-4cf3d101a40b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
