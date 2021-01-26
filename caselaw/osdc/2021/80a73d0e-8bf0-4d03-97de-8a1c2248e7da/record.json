@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:27.C.165.2020.1",
+  "docket": "27 C 165/2020-13",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/80a73d0e-8bf0-4d03-97de-8a1c2248e7da",
+  "source_sha256": "0078ab4a618db2f12beb03d43cb75e5d3bd0813ab1b7f87b1390067e68d2dd87",
+  "source_id": "80a73d0e-8bf0-4d03-97de-8a1c2248e7da",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 165/2020-13",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "JUDr. Štěpán Klapka",
+    "ecli": "ECLI:CZ:OSDC:2021:27.C.165.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-04-14",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/80a73d0e-8bf0-4d03-97de-8a1c2248e7da"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
