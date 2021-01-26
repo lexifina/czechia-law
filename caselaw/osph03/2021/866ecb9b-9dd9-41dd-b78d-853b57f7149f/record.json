@@ -1,0 +1,47 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 3",
+  "ecli": "ECLI:CZ:OSPH03:2021:20.C.103.2020.2",
+  "docket": "20 C 103/2020-65",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/866ecb9b-9dd9-41dd-b78d-853b57f7149f",
+  "source_sha256": "fa1f648063f0ce86a185c07a5d7e0b3fbdea09ed56f1882e70d88919bc7a6e2b",
+  "source_id": "866ecb9b-9dd9-41dd-b78d-853b57f7149f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 103/2020-65",
+    "soud": "Obvodní soud pro Prahu 3",
+    "autor": "Mgr. Jiří Petrášek",
+    "ecli": "ECLI:CZ:OSPH03:2021:20.C.103.2020.2",
+    "predmetRizeni": "určení neplatnosti výpovědi z nájmu bytu",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-03-17",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění",
+      "podnájem",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§ 2286 z. č. 89/2012 Sb.",
+      "§ 2290 z. č. 89/2012 Sb.",
+      "§ 605 z. č. 89/2012 Sb.",
+      "§ 2275 z. č. 89/2012 Sb.",
+      "§ 2288 z. č. 89/2012 Sb.",
+      "§ 648 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 55/2000 Sb.",
+      "§ 18 z. č. 131/2000 Sb.",
+      "§ 19 z. č. 131/2000 Sb.",
+      "§ 654 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/866ecb9b-9dd9-41dd-b78d-853b57f7149f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
