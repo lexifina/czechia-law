@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:108.C.190.2020.1",
+  "docket": "108 C 190/2020-25",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e92cd48c-8113-45ba-ab3c-9d589c77bdf3",
+  "source_sha256": "2a77d5b8479d3934a64493a758925797dd1e622221b040a7da42a0fbe7f74a03",
+  "source_id": "e92cd48c-8113-45ba-ab3c-9d589c77bdf3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "108 C 190/2020-25",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Hana Střítecká",
+    "ecli": "ECLI:CZ:MSBR:2021:108.C.190.2020.1",
+    "predmetRizeni": "zaplacení 2.000 Kč - smluvní pokuta",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-02-18",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e92cd48c-8113-45ba-ab3c-9d589c77bdf3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
