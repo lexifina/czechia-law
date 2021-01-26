@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Havlíčkově Brodě",
+  "ecli": "ECLI:CZ:OSHB:2021:17.C.77.2020.3",
+  "docket": "17 C 77/2020-45",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/55aae4b6-a3ee-4703-9caf-2bde5c8b239c",
+  "source_sha256": "82be495364e351b7100882523c52fbcee776437f2fe2e4739536bcc5cc6abbe3",
+  "source_id": "55aae4b6-a3ee-4703-9caf-2bde5c8b239c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 77/2020-45",
+    "soud": "Okresní soud v Havlíčkově Brodě",
+    "autor": "Mgr. Bc. Hana Stuchlíková",
+    "ecli": "ECLI:CZ:OSHB:2021:17.C.77.2020.3",
+    "predmetRizeni": "zaplacení 1.500 Kč s příslušenstvím",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-04-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/55aae4b6-a3ee-4703-9caf-2bde5c8b239c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
