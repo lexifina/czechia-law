@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:121.C.23.2019.1",
+  "docket": "121 C 23/2019-106",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b525971b-4b03-422d-b10b-71137b0cf102",
+  "source_sha256": "02470489fea649acaa068e08ab65c5fe80de87d42b3f030c05e5fe79f6688071",
+  "source_id": "b525971b-4b03-422d-b10b-71137b0cf102",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "121 C 23/2019-106",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "Mgr. Veronika Lehnertová",
+    "ecli": "ECLI:CZ:OSTP:2021:121.C.23.2019.1",
+    "predmetRizeni": "zaplacení 5 443 Kč s příslušenstvím",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b525971b-4b03-422d-b10b-71137b0cf102"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
