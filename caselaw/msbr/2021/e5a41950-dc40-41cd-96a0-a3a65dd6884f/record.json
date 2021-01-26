@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:52.C.188.2020.1",
+  "docket": "52 C 188/2020-24",
+  "date": "2021-01-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e5a41950-dc40-41cd-96a0-a3a65dd6884f",
+  "source_sha256": "636b8965d4c430e6e02e1832f739baf065e736e72e0edc92e96c94f2e3e335c3",
+  "source_id": "e5a41950-dc40-41cd-96a0-a3a65dd6884f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "52 C 188/2020-24",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Jiří Štark",
+    "ecli": "ECLI:CZ:MSBR:2021:52.C.188.2020.1",
+    "predmetRizeni": "zaplacení 13.398,40 Kč - vyúčtování",
+    "datumVydani": "2021-01-26",
+    "datumZverejneni": "2021-05-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e5a41950-dc40-41cd-96a0-a3a65dd6884f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
