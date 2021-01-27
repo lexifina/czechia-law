@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kroměříži",
+  "ecli": "ECLI:CZ:OSKM:2021:6.C.260.2020.1",
+  "docket": "6 C 260/2020-47",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4e73f52a-b7e8-4f42-b1ce-d1a41deeefb3",
+  "source_sha256": "09f71dc3bc8318ab4ee6b63a86529af6a22c324d50bb6d2e80eda7a1c7cd2557",
+  "source_id": "4e73f52a-b7e8-4f42-b1ce-d1a41deeefb3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 260/2020-47",
+    "soud": "Okresní soud v Kroměříži",
+    "autor": "JUDr. Ivan Jordán",
+    "ecli": "ECLI:CZ:OSKM:2021:6.C.260.2020.1",
+    "predmetRizeni": "zaplacení [částka]",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-03-30",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 19a vyhl. č. 110/2004 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4e73f52a-b7e8-4f42-b1ce-d1a41deeefb3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
