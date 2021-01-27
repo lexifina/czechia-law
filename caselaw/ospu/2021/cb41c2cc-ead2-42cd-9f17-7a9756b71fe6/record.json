@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:9.C.271.2020.1",
+  "docket": "9 C 271/2020-27",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cb41c2cc-ead2-42cd-9f17-7a9756b71fe6",
+  "source_sha256": "d12b55eedf724f3df1e2d9b64b6bdff65467419356323b12edac0cffd3ae7f86",
+  "source_id": "cb41c2cc-ead2-42cd-9f17-7a9756b71fe6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 271/2020-27",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "Mgr. Jaroslava Sádovská",
+    "ecli": "ECLI:CZ:OSPU:2021:9.C.271.2020.1",
+    "predmetRizeni": "o zaplacení 13 300 Kč s příslušenstvím",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-03-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 2399 z. č. 89/2012 Sb.",
+      "§ 2397 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cb41c2cc-ead2-42cd-9f17-7a9756b71fe6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
