@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kroměříži",
+  "ecli": "ECLI:CZ:OSKM:2021:16.C.200.2020.4",
+  "docket": "16 C 200/2020-73",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0998d700-9d14-43e2-a923-d9a0c04e8ac1",
+  "source_sha256": "22e30c74560ae3a9523631f58a2152e82f9be3cc4e6448efa10be5ce0d87276c",
+  "source_id": "0998d700-9d14-43e2-a923-d9a0c04e8ac1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 200/2020-73",
+    "soud": "Okresní soud v Kroměříži",
+    "autor": "Mgr. Radim Slezák",
+    "ecli": "ECLI:CZ:OSKM:2021:16.C.200.2020.4",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-02-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "platební rozkaz"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§  z. č. 72/1994 Sb.",
+      "§ 1180 z. č. 89/2021 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0998d700-9d14-43e2-a923-d9a0c04e8ac1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
