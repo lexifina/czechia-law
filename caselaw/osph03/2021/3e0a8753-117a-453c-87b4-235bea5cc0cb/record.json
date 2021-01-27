@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 3",
+  "ecli": "ECLI:CZ:OSPH03:2021:12.C.163.2020.1",
+  "docket": "12 C 163/2020-49",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3e0a8753-117a-453c-87b4-235bea5cc0cb",
+  "source_sha256": "5671c4a094f712b4bd61e9e95acad4af15fec249106cd15470820c0668805cc3",
+  "source_id": "3e0a8753-117a-453c-87b4-235bea5cc0cb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 163/2020-49",
+    "soud": "Obvodní soud pro Prahu 3",
+    "autor": "Mgr. Kateřina Janitorová sixtová",
+    "ecli": "ECLI:CZ:OSPH03:2021:12.C.163.2020.1",
+    "predmetRizeni": "1 949 Kč s příslušenstvím",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-03-01",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 153 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3e0a8753-117a-453c-87b4-235bea5cc0cb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
