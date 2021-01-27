@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:5.C.186.2019.2",
+  "docket": "5 C 186/2019-49",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/28c1762a-4da6-47f5-829a-80b8da0bd5e1",
+  "source_sha256": "8603c1638dcecb45e8f2342c448beaf3bc4def1b61cc0ccd1b551e3b71019317",
+  "source_id": "28c1762a-4da6-47f5-829a-80b8da0bd5e1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 186/2019-49",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Dita Staňková",
+    "ecli": "ECLI:CZ:OSPH05:2021:5.C.186.2019.2",
+    "predmetRizeni": "O zaplacení 23 113 Kč s příslušenstvím",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-04-28",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o dílo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 107a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/28c1762a-4da6-47f5-829a-80b8da0bd5e1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
