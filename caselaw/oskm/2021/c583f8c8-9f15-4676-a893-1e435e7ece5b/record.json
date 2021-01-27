@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kroměříži",
+  "ecli": "ECLI:CZ:OSKM:2021:6.C.259.2020.1",
+  "docket": "6 C 259/2020-25",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c583f8c8-9f15-4676-a893-1e435e7ece5b",
+  "source_sha256": "1195df87aef4f615aa126479ac314488a5ba1d983b01893d1709ffe8a96de519",
+  "source_id": "c583f8c8-9f15-4676-a893-1e435e7ece5b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 259/2020-25",
+    "soud": "Okresní soud v Kroměříži",
+    "autor": "JUDr. Ivan Jordán",
+    "ecli": "ECLI:CZ:OSKM:2021:6.C.259.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-02-02",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "smlouva o manželském majetkovém režimu",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 395 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c583f8c8-9f15-4676-a893-1e435e7ece5b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
