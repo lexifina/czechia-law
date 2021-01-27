@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:21.C.187.2020.1",
+  "docket": "21 C 187/2020-19",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9d958cc8-ab89-4928-9eaa-b7de7350c1cb",
+  "source_sha256": "3a4219bf4f0b4606428ad5e772f30ed111b49d26d99cbb007aefe813114484c0",
+  "source_id": "9d958cc8-ab89-4928-9eaa-b7de7350c1cb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 187/2020-19",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "Mgr. Miroslav Jurman",
+    "ecli": "ECLI:CZ:OSCB:2021:21.C.187.2020.1",
+    "predmetRizeni": "EPR [číslo], o zaplacení částky 10 743,93 Kč s příslušenstvím",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 6 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9d958cc8-ab89-4928-9eaa-b7de7350c1cb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
