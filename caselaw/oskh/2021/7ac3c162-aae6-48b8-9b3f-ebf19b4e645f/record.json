@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kutné Hoře",
+  "ecli": "ECLI:CZ:OSKH:2021:5.C.396.2020.1",
+  "docket": "5 C 396/2020-37",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7ac3c162-aae6-48b8-9b3f-ebf19b4e645f",
+  "source_sha256": "b069bc1de819f3f2b3805c37f42e07e33ce98fbfb22c0d9c3d6e59a54034b8c5",
+  "source_id": "7ac3c162-aae6-48b8-9b3f-ebf19b4e645f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 396/2020-37",
+    "soud": "Okresní soud v Kutné Hoře",
+    "autor": "Mgr. Pavla Fukalová",
+    "ecli": "ECLI:CZ:OSKH:2021:5.C.396.2020.1",
+    "predmetRizeni": "o zaplacení částky 20 000 Kč s přísl.",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-04-13",
+    "klicovaSlova": [
+      "lichva",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1 nař. vl. č. 142/1994 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 39 z. č. 89/2012 Sb.",
+      "§ 253 z. č. 40/2009 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7ac3c162-aae6-48b8-9b3f-ebf19b4e645f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
