@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:30.C.278.2020.1",
+  "docket": "30 C 278/2020",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2024-10-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d3631d56-1939-45ef-8bc1-f0c846f70f54",
+  "source_sha256": "9c8221452768cf9f68707cfbb2114cef2c4b342c758f31244676c73033cb32b7",
+  "source_id": "d3631d56-1939-45ef-8bc1-f0c846f70f54",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 278/2020",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "Mgr. Gabriela Řezníčková",
+    "ecli": "ECLI:CZ:OSTU:2021:30.C.278.2020.1",
+    "predmetRizeni": "<nezadán>",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2024-10-30",
+    "klicovaSlova": [
+      "smlouva o úvěru",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d3631d56-1939-45ef-8bc1-f0c846f70f54"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
