@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:19.C.167.2020.1",
+  "docket": "19 C 167/2020-32",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8f44626c-9643-4b18-aead-6c9444359e68",
+  "source_sha256": "7f03b00280838f0f42df31afc094b744786dae78d49ddf01e3276cfdb790eb9e",
+  "source_id": "8f44626c-9643-4b18-aead-6c9444359e68",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 167/2020-32",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Kateřina Gabrielová",
+    "ecli": "ECLI:CZ:MSBR:2021:19.C.167.2020.1",
+    "predmetRizeni": "zaplacení 12.238 Kč s příslušenstvím - příspěvek za nepojištěné vozidlo",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  vyhl. č. 205/1999 Sb.",
+      "§ 3028 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8f44626c-9643-4b18-aead-6c9444359e68"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
