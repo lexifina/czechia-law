@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:6.C.99.2020.1",
+  "docket": "6 C 99/2020-37",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/29180f86-d2a8-4792-9f18-a0829c87f64c",
+  "source_sha256": "832af51f5b544278d8836a693c7a42dd0e665299376a9960778aecf7347a0b1d",
+  "source_id": "29180f86-d2a8-4792-9f18-a0829c87f64c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 99/2020-37",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "Mgr. Jana Homolová",
+    "ecli": "ECLI:CZ:OSZR:2021:6.C.99.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-08-03",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/29180f86-d2a8-4792-9f18-a0829c87f64c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
