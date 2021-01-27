@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:13.C.333.2020 .1",
+  "docket": "13 C 333/2020-139",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e89fa01c-d7bf-4352-8469-3214b41f5f17",
+  "source_sha256": "97eb61399ce54c067d0b77451028bb5b5d5a9860237d4147e27963f68205c14b",
+  "source_id": "e89fa01c-d7bf-4352-8469-3214b41f5f17",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 333/2020-139",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. Hana Greplová",
+    "ecli": "ECLI:CZ:OSPV:2021:13.C.333.2020 .1",
+    "predmetRizeni": "o 72.185 Kč s přísl.",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-03-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "smlouva pracovní",
+      "vzájemné plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e89fa01c-d7bf-4352-8469-3214b41f5f17"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
