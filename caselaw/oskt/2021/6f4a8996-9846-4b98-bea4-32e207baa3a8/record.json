@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2021:9.C.282.2020.1",
+  "docket": "9 C 282/2020-63",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6f4a8996-9846-4b98-bea4-32e207baa3a8",
+  "source_sha256": "0675a381a643a2fc0b913da5d20673a5febe6bfa6ba74ae7d6c67efd553f2dbc",
+  "source_id": "6f4a8996-9846-4b98-bea4-32e207baa3a8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 282/2020-63",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "JUDr. Vlasta Pešková",
+    "ecli": "ECLI:CZ:OSKT:2021:9.C.282.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-04-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6f4a8996-9846-4b98-bea4-32e207baa3a8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
