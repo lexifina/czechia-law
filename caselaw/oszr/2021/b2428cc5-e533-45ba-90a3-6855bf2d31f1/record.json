@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:12.C.255.2019.1",
+  "docket": "12 C 255/2019-28",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b2428cc5-e533-45ba-90a3-6855bf2d31f1",
+  "source_sha256": "1e68edcacc31d313c1a3faa572afb850b2ceccffc33803d0f62ab535943c70f5",
+  "source_id": "b2428cc5-e533-45ba-90a3-6855bf2d31f1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 255/2019-28",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "JUDr. Jana Trávníčková",
+    "ecli": "ECLI:CZ:OSZR:2021:12.C.255.2019.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-02-18",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b2428cc5-e533-45ba-90a3-6855bf2d31f1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
