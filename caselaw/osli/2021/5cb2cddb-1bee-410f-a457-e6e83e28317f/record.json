@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:18.C.282.2020.1",
+  "docket": "18 C 282/2020-11",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5cb2cddb-1bee-410f-a457-e6e83e28317f",
+  "source_sha256": "3fefd6edd37f5ddbc60c56266b3af75cc8e06e58bb2b7505de8986f4f5f89421",
+  "source_id": "5cb2cddb-1bee-410f-a457-e6e83e28317f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 282/2020-11",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Ing. arch. Kamil Podhola",
+    "ecli": "ECLI:CZ:OSLI:2021:18.C.282.2020.1",
+    "predmetRizeni": "Rozvod manželství",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-03-25",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5cb2cddb-1bee-410f-a457-e6e83e28317f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
