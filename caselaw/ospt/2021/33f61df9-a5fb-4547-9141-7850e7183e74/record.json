@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prachaticích",
+  "ecli": "ECLI:CZ:OSPT:2021:2.C.12.2021.1",
+  "docket": "2 C 12/2021-16",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/33f61df9-a5fb-4547-9141-7850e7183e74",
+  "source_sha256": "a414d1ab43091890a54d16f255b703ac2247ae6a47a8d731256cda324a804c0e",
+  "source_id": "33f61df9-a5fb-4547-9141-7850e7183e74",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "2 C 12/2021-16",
+    "soud": "Okresní soud v Prachaticích",
+    "autor": "JUDr. Vladislava Halodová",
+    "ecli": "ECLI:CZ:OSPT:2021:2.C.12.2021.1",
+    "predmetRizeni": "o zaplacení 868,37 Kč s příslušenstvím",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-03-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění majetku"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2804 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/33f61df9-a5fb-4547-9141-7850e7183e74"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
