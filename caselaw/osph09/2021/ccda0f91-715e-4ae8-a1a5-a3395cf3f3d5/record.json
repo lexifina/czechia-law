@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2021:9.C.27.2021.1",
+  "docket": "9 C 27/2021-16",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ccda0f91-715e-4ae8-a1a5-a3395cf3f3d5",
+  "source_sha256": "1bb96f751398c3bc8e15c978f75cacac3b2e0132f86beeb3e1c33fb7b673d604",
+  "source_id": "ccda0f91-715e-4ae8-a1a5-a3395cf3f3d5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 27/2021-16",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "JUDr. Andrea Höllgeová",
+    "ecli": "ECLI:CZ:OSPH09:2021:9.C.27.2021.1",
+    "predmetRizeni": "O zaplacení 9 195 Kč",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-04-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 63 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ccda0f91-715e-4ae8-a1a5-a3395cf3f3d5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
