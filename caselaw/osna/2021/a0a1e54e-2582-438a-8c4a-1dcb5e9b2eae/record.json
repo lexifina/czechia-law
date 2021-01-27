@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2001:14.C.211.2020 .1",
+  "docket": "14 C 211/2020-28",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a0a1e54e-2582-438a-8c4a-1dcb5e9b2eae",
+  "source_sha256": "f4e0d79c2217e8ef18876c36e515c88420dd28a7de159abf7d84722b33ec7d05",
+  "source_id": "a0a1e54e-2582-438a-8c4a-1dcb5e9b2eae",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 211/2020-28",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "JUDr. Jiří Kučera",
+    "ecli": "ECLI:CZ:OSNA:2001:14.C.211.2020 .1",
+    "predmetRizeni": "o zaplacení 413 116,43 Kč s příslušenstvím (poplatek)",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "přistoupení k dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§  z. č. 91/2012 Sb.",
+      "§ 1892 z. č. 89/2012 Sb.",
+      "§ 15 z. č. 48/1997 Sb.",
+      "§ 9 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a0a1e54e-2582-438a-8c4a-1dcb5e9b2eae"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
