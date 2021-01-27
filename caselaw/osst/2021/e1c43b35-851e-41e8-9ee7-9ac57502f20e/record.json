@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Strakonicích",
+  "ecli": "ECLI:CZ:OSST:2021:1.C.196.2020.1",
+  "docket": "1 C 196/2020-31",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e1c43b35-851e-41e8-9ee7-9ac57502f20e",
+  "source_sha256": "0f4efe015d003032a09f8aefe6e8489a2b9027f42c0ab4ad44bf31ee73785fce",
+  "source_id": "e1c43b35-851e-41e8-9ee7-9ac57502f20e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "1 C 196/2020-31",
+    "soud": "Okresní soud ve Strakonicích",
+    "autor": "JUDr. Lenka Bártová",
+    "ecli": "ECLI:CZ:OSST:2021:1.C.196.2020.1",
+    "predmetRizeni": "O zaplacení 62 780 Kč s příslušenstvím",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-03-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 104 z. č. 257/2016 Sb.",
+      "§ 1883 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e1c43b35-851e-41e8-9ee7-9ac57502f20e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
