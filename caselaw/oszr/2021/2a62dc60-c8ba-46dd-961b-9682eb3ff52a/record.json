@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:7.C.239.2020.1",
+  "docket": "7 C 239/2020-18",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2a62dc60-c8ba-46dd-961b-9682eb3ff52a",
+  "source_sha256": "61fbd05e9d8ddbe249a33320b4c9cae56d214371592374f713ff08335cac34ee",
+  "source_id": "2a62dc60-c8ba-46dd-961b-9682eb3ff52a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 239/2020-18",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "Mgr. Aleš Landsman",
+    "ecli": "ECLI:CZ:OSZR:2021:7.C.239.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-02-23",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2a62dc60-c8ba-46dd-961b-9682eb3ff52a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
