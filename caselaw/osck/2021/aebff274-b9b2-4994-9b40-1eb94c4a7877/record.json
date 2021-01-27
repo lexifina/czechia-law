@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2021:6.C.213.2020.2",
+  "docket": "6 C 213/2020-34",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/aebff274-b9b2-4994-9b40-1eb94c4a7877",
+  "source_sha256": "1f13ccd383cf83ed2a06cba2cc7cdd80fb600e2a7ee333e1042f8fa70d7c3298",
+  "source_id": "aebff274-b9b2-4994-9b40-1eb94c4a7877",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 213/2020-34",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "JUDr. Milena Hrdličková",
+    "ecli": "ECLI:CZ:OSCK:2021:6.C.213.2020.2",
+    "predmetRizeni": "EPR [číslo] 2020 - o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-02-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "příspěvek na bydlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/aebff274-b9b2-4994-9b40-1eb94c4a7877"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
