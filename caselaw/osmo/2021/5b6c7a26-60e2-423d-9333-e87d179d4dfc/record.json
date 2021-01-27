@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:10.C.94.2020.2",
+  "docket": "10 C 94/2020-29",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5b6c7a26-60e2-423d-9333-e87d179d4dfc",
+  "source_sha256": "fc486f4d95ca07e7947cd68665d43bc4e4544368cf73afd0ed0d9b978c0911f9",
+  "source_id": "5b6c7a26-60e2-423d-9333-e87d179d4dfc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 94/2020-29",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Radka Heresová",
+    "ecli": "ECLI:CZ:OSMO:2021:10.C.94.2020.2",
+    "predmetRizeni": "2 316 Kč s příslušenstvím",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 3 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5b6c7a26-60e2-423d-9333-e87d179d4dfc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
