@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:2116.C.28.2017.1",
+  "docket": "2116 C 28/2017-105",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/779a7caf-36d5-47f9-9ccf-bd8ff8c6f8f1",
+  "source_sha256": "546f806307f5d5472d05cf76698a1bb01a71cad61d2b2f79f1dbfa68f903cca4",
+  "source_id": "779a7caf-36d5-47f9-9ccf-bd8ff8c6f8f1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "2116 C 28/2017-105",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Milan Jakubíček",
+    "ecli": "ECLI:CZ:MSBR:2021:2116.C.28.2017.1",
+    "predmetRizeni": "5.121,69 Kč s přísl. - náhrada škody",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-04-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 11 z. č. 549/1991 Sb.",
+      "§ 136 z. č. 99/1963 Sb.",
+      "§ 3 z. č. 48/1997 Sb.",
+      "§ 17 z. č. 48/1997 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/779a7caf-36d5-47f9-9ccf-bd8ff8c6f8f1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
