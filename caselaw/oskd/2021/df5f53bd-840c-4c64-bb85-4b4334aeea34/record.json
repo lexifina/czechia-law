@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:225.C.1.2021.1",
+  "docket": "225 C 1/2021",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/df5f53bd-840c-4c64-bb85-4b4334aeea34",
+  "source_sha256": "a9571075a0a62a307aa49bf088fd1f7aff05aa5e8471a49abb9bd9765f5d5fba",
+  "source_id": "df5f53bd-840c-4c64-bb85-4b4334aeea34",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "225 C 1/2021",
+    "soud": "Okresní soud v Kladně",
+    "autor": "Mgr. Lucie Vybíralová, LL.M.",
+    "ecli": "ECLI:CZ:OSKD:2021:225.C.1.2021.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-03-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/df5f53bd-840c-4c64-bb85-4b4334aeea34"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
