@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:13.C.320.2020 .1",
+  "docket": "13 C 320/2020-50",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/76a96f37-b775-438f-8b2c-2663035093b4",
+  "source_sha256": "f07feb4e76dbb6382e031e8d925c2b33e4d23e9b5260154a2e4cb807acb6a0c6",
+  "source_id": "76a96f37-b775-438f-8b2c-2663035093b4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 320/2020-50",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. Hana Greplová",
+    "ecli": "ECLI:CZ:OSPV:2021:13.C.320.2020 .1",
+    "predmetRizeni": "o 53.341 Kč s přísl.",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-03-16",
+    "klicovaSlova": [
+      "insolvenční návrh",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva nájemní",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/76a96f37-b775-438f-8b2c-2663035093b4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
