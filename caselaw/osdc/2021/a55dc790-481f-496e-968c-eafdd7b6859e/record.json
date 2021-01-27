@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:15.C.118.2020.3",
+  "docket": "15 C 118/2020-17",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a55dc790-481f-496e-968c-eafdd7b6859e",
+  "source_sha256": "996224c70d807e719b9796914d163abc70ff84ee2c9036414c7dcb15e4e37b9a",
+  "source_id": "a55dc790-481f-496e-968c-eafdd7b6859e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 118/2020-17",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Kateřina Cvachová",
+    "ecli": "ECLI:CZ:OSDC:2021:15.C.118.2020.3",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-03-03",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a55dc790-481f-496e-968c-eafdd7b6859e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
