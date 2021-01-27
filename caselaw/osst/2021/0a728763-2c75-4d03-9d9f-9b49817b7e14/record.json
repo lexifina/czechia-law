@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Strakonicích",
+  "ecli": "ECLI:CZ:OSST:2021:6.C.313.2020.1",
+  "docket": "6 C 313/2020-19",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0a728763-2c75-4d03-9d9f-9b49817b7e14",
+  "source_sha256": "341c89b67ade0eb557db794c6470bc3ec84721db6c0ded0c16dec577a1a5bff1",
+  "source_id": "0a728763-2c75-4d03-9d9f-9b49817b7e14",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 313/2020-19",
+    "soud": "Okresní soud ve Strakonicích",
+    "autor": "JUDr. Pavla Potužníková",
+    "ecli": "ECLI:CZ:OSST:2021:6.C.313.2020.1",
+    "predmetRizeni": "O zaplacení 3 405 Kč s příslušenstvím",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-04-07",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2782 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0a728763-2c75-4d03-9d9f-9b49817b7e14"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
