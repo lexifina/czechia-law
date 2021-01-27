@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:19.C.64.2020.1",
+  "docket": "19 C 64/2020-44",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1d86281f-467f-4d04-8e9f-2a16625a57a2",
+  "source_sha256": "e23637a25cb0309ec375e0ec28f684a1cba441ffef09f8bbc6208dbf8335ec65",
+  "source_id": "1d86281f-467f-4d04-8e9f-2a16625a57a2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 64/2020-44",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Kateřina Gabrielová",
+    "ecli": "ECLI:CZ:MSBR:2021:19.C.64.2020.1",
+    "predmetRizeni": "zaplacení 7.104 Kč - úvěr",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1d86281f-467f-4d04-8e9f-2a16625a57a2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
