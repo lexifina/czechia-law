@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:55.C.431.2020.2",
+  "docket": "55 C 431/2020-14",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4e7ab1ff-78c2-4bcc-875f-813087c7628c",
+  "source_sha256": "b9552a627e1a515cf2c9bb22117e18f37041e44939127e0f5cd4c4e96b1b2923",
+  "source_id": "4e7ab1ff-78c2-4bcc-875f-813087c7628c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "55 C 431/2020-14",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Alena Tenglerová",
+    "ecli": "ECLI:CZ:OSOV:2021:55.C.431.2020.2",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-02-18",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění",
+      "právní domněnka"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 133 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§  nař. vl. č. 142/1994 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 760 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4e7ab1ff-78c2-4bcc-875f-813087c7628c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
