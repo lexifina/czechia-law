@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:19.C.53.2020.1",
+  "docket": "19 C 53/2020",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-01-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cdfbcd84-3f7b-488b-a888-c3b98b8fa73e",
+  "source_sha256": "9a23a253c43b63fe1ad3fae75994fc44d7fd26d2d954bd6ef2797cec597a6571",
+  "source_id": "cdfbcd84-3f7b-488b-a888-c3b98b8fa73e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 53/2020",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Jaroslav Lockenbauer",
+    "ecli": "ECLI:CZ:OSKD:2021:19.C.53.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-01-29",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 207 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cdfbcd84-3f7b-488b-a888-c3b98b8fa73e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
