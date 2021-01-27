@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2021:21.C.85.2020.1",
+  "docket": "21 C 85/2020-39",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/10320ff1-03dd-440a-baa2-e4d154b68f8b",
+  "source_sha256": "21505f7e78d2d3961793a94422720c98a8244838fff908f48680ddad83390542",
+  "source_id": "10320ff1-03dd-440a-baa2-e4d154b68f8b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 85/2020-39",
+    "soud": "Okresní soud v Karviné",
+    "autor": "Mgr. Jana Babušková",
+    "ecli": "ECLI:CZ:OSKI:2021:21.C.85.2020.1",
+    "predmetRizeni": "rozvod",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-03-17",
+    "klicovaSlova": [
+      "církev",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/10320ff1-03dd-440a-baa2-e4d154b68f8b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
