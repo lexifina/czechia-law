@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2021:5.C.313.2020.1",
+  "docket": "5 C 313/2020-28",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f5842825-f9e7-46a9-8f8a-d9973a8a85e4",
+  "source_sha256": "d00c43696e3f5f22a492eef7c6f9e0ce4a77afb7a5dbac94ae81be6393d9091a",
+  "source_id": "f5842825-f9e7-46a9-8f8a-d9973a8a85e4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 313/2020-28",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "JUDr. Bohumíra Netrvalová, Ph.D.",
+    "ecli": "ECLI:CZ:OSKT:2021:5.C.313.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-03-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 115 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 122 z. č. 257/2016 Sb.",
+      "§ 1820 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 549/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f5842825-f9e7-46a9-8f8a-d9973a8a85e4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
