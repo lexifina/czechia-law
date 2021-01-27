@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:6.C.7.2021.1",
+  "docket": "6 C 7/2021-36",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e6d1fc09-8870-463a-aeb9-653c1d321248",
+  "source_sha256": "e8af17675813a4f87dfd9946e84c31b985123b5280e2d36b252caf6e40557cc6",
+  "source_id": "e6d1fc09-8870-463a-aeb9-653c1d321248",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 7/2021-36",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "Mgr. Jindřich Mařík",
+    "ecli": "ECLI:CZ:OSPB:2021:6.C.7.2021.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-04-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 251 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e6d1fc09-8870-463a-aeb9-653c1d321248"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
