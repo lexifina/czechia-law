@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:18.C.18.2021.1",
+  "docket": "18 C 18/2021-10",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bd79693e-570d-4b04-8b56-063ca18fa733",
+  "source_sha256": "143d67438a99152c74e169b5423ee4c3c17d444765cc159a240e6bbb26ccce73",
+  "source_id": "bd79693e-570d-4b04-8b56-063ca18fa733",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 18/2021-10",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "JUDr. Ivana Holubovská",
+    "ecli": "ECLI:CZ:OSKV:2021:18.C.18.2021.1",
+    "predmetRizeni": "2.133 Kč / pojistné",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-02-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1 nař. vl. č. 142/1994 Sb.",
+      "§ 24c z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bd79693e-570d-4b04-8b56-063ca18fa733"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
