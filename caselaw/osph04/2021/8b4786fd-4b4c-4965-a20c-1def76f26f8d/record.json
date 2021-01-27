@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:19.C.366.2019.1",
+  "docket": "19 C 366/2019-55",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8b4786fd-4b4c-4965-a20c-1def76f26f8d",
+  "source_sha256": "5c8d5a31894d42d3f6aaa2c30de7f1030bea459bfe6e51f43bd1f3c02c967ea9",
+  "source_id": "8b4786fd-4b4c-4965-a20c-1def76f26f8d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 366/2019-55",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "Mgr. Michal Průžek",
+    "ecli": "ECLI:CZ:OSPH04:2021:19.C.366.2019.1",
+    "predmetRizeni": "o zaplacení 325 787 Kč s příslušenstvím",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-09-27",
+    "klicovaSlova": [
+      "bolestné",
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu",
+      "znalecký posudek",
+      "ztížení společenského uplatnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2927 z. č. 89/2012 Sb.",
+      "§ 629 z. č. 89/2012 Sb.",
+      "§ 125c z. č. 361/2000 Sb.",
+      "§ 620 z. č. 89/2012 Sb.",
+      "§ 619 z. č. 89/2012 Sb.",
+      "§ 8 z. č. 89/2012 Sb.",
+      "§ 2958 z. č. 89/2012 Sb.",
+      "§ 626 z. č. 89/2012 Sb.",
+      "§ 635 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8b4786fd-4b4c-4965-a20c-1def76f26f8d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
