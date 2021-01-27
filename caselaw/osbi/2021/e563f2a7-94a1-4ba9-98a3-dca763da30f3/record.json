@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:5.C.221.2020.1",
+  "docket": "5 C 221/2020-28",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e563f2a7-94a1-4ba9-98a3-dca763da30f3",
+  "source_sha256": "265efbd071fd4e0970ad8f64875272ecde25743fbdb0ffc5671084e9233eade0",
+  "source_id": "e563f2a7-94a1-4ba9-98a3-dca763da30f3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 221/2020-28",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "Mgr. Simona Hájková",
+    "ecli": "ECLI:CZ:OSBI:2021:5.C.221.2020.1",
+    "predmetRizeni": "O zaplacení 7 534 Kč s příslušenstvím",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§  z. č. 297/2016 Sb.",
+      "§ 1820 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e563f2a7-94a1-4ba9-98a3-dca763da30f3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
