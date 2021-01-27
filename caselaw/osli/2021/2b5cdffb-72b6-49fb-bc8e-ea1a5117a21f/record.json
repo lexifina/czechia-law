@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:29.C.188.2020.1",
+  "docket": "29 C 188/2020-14",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2b5cdffb-72b6-49fb-bc8e-ea1a5117a21f",
+  "source_sha256": "9a53f6239de5e995dba1e5e25ee26970bce7354813cd26f768886b160eb43ed5",
+  "source_id": "2b5cdffb-72b6-49fb-bc8e-ea1a5117a21f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 188/2020-14",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Bohumil Vašák",
+    "ecli": "ECLI:CZ:OSLI:2021:29.C.188.2020.1",
+    "predmetRizeni": "zaplacení částky 1 995 Kč s příslušenstvím",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-03-31",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 0/0 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2b5cdffb-72b6-49fb-bc8e-ea1a5117a21f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
