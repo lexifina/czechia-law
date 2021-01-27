@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2021:16.C.238.2020.1",
+  "docket": "16 C 238/2020-28",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c30fdce1-f6a2-4bca-b866-7b338238a0fd",
+  "source_sha256": "bbc6cf14bad75d2c3a9fb0bb177519aaa9be90134ab9c5538f947a6d7d6c2bbd",
+  "source_id": "c30fdce1-f6a2-4bca-b866-7b338238a0fd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 238/2020-28",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "Mgr. Simona Řežuchová",
+    "ecli": "ECLI:CZ:OSSU:2021:16.C.238.2020.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-03-10",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  vyhl. č. 177/1996 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 24c z. č. 168/1999 Sb.",
+      "§ 1970 nař. vl. č. 142/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c30fdce1-f6a2-4bca-b866-7b338238a0fd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
