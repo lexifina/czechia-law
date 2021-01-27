@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:21.C.17.2021.1",
+  "docket": "21 C 17/2021-17",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f9a015ac-7aab-4ca6-871f-aa426ea86b80",
+  "source_sha256": "05b4f3671321f95205297ad7a028f5c5675a77acd685a13dd1929ba9bfe3221f",
+  "source_id": "f9a015ac-7aab-4ca6-871f-aa426ea86b80",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 17/2021-17",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "Mgr. Miroslav Jurman",
+    "ecli": "ECLI:CZ:OSCB:2021:21.C.17.2021.1",
+    "predmetRizeni": "EPR [číslo], o zaplacení částky 59 203 Kč s příslušenstvím",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-03-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 8 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f9a015ac-7aab-4ca6-871f-aa426ea86b80"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
