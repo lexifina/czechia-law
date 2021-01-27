@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Tachově",
+  "ecli": "ECLI:CZ:OSTC:2021:3.C.309.2020.1",
+  "docket": "3 C 309/2020-27",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d6b49b3b-dd9a-478f-ae74-87f85c96ca99",
+  "source_sha256": "2c1124946c45296ffb14a0b7dcb6f69f695419cd59a1c847f6fbb4605189db64",
+  "source_id": "d6b49b3b-dd9a-478f-ae74-87f85c96ca99",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 309/2020-27",
+    "soud": "Okresní soud v Tachově",
+    "autor": "JUDr. Šárka Dvořáková",
+    "ecli": "ECLI:CZ:OSTC:2021:3.C.309.2020.1",
+    "predmetRizeni": "O zaplacení 2 983 Kč s příslušenstvím",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-04-30",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 115 z. č. 99/1963 Sb.",
+      "§ 14 vyhl. č. 177/96 Sb.",
+      "§  z. č. 168/99 Sb.",
+      "§ 114 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d6b49b3b-dd9a-478f-ae74-87f85c96ca99"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
