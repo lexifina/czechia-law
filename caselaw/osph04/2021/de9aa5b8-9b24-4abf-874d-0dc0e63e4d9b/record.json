@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:30.C.243.2020.1",
+  "docket": "30 C 243/2020-70",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/de9aa5b8-9b24-4abf-874d-0dc0e63e4d9b",
+  "source_sha256": "ff61207ff2150d048edd08cdb3ce89b97c14f9f42157576ab4d3b7a21c14bd79",
+  "source_id": "de9aa5b8-9b24-4abf-874d-0dc0e63e4d9b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 243/2020-70",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "JUDr. Iveta Nývltová, Ph.D.",
+    "ecli": "ECLI:CZ:OSPH04:2021:30.C.243.2020.1",
+    "predmetRizeni": "zaplacení částky 121 000 Kč s příslušenstvím",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-07-02",
+    "klicovaSlova": [
+      "konkurenční doložka",
+      "peněžité plnění",
+      "smlouva příkazní"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 8 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/de9aa5b8-9b24-4abf-874d-0dc0e63e4d9b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
