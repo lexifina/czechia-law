@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Uherském Hradišti",
+  "ecli": "ECLI:CZ:OSUH:2021:14.C.262.2020.1",
+  "docket": "14 C 262/2020-16",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5d4bece2-7d56-4c15-a717-f49a44bd04f1",
+  "source_sha256": "568c0213cc3b8f601e1b145941a59fa8f806192ccde257557cbf7b8dd1f70532",
+  "source_id": "5d4bece2-7d56-4c15-a717-f49a44bd04f1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 262/2020-16",
+    "soud": "Okresní soud v Uherském Hradišti",
+    "autor": "Mgr. Pavlína Potomská",
+    "ecli": "ECLI:CZ:OSUH:2021:14.C.262.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 207 z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5d4bece2-7d56-4c15-a717-f49a44bd04f1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
