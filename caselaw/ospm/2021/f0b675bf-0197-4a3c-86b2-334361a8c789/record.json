@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:11.C.130.2020.1",
+  "docket": "11 C 130/2020-44",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f0b675bf-0197-4a3c-86b2-334361a8c789",
+  "source_sha256": "3285b815854c120f6d2b0595115476b9b20ed2468c8fcbd35091ee4a7490f6dd",
+  "source_id": "f0b675bf-0197-4a3c-86b2-334361a8c789",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 130/2020-44",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Petr Strejc",
+    "ecli": "ECLI:CZ:OSPM:2021:11.C.130.2020.1",
+    "predmetRizeni": "Žaloba o 93 426 - Kč s přísl.",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-04-08",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2235 z. č. 89/2012 Sb.",
+      "§ 2295 z. č. 89/2012 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 2246 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f0b675bf-0197-4a3c-86b2-334361a8c789"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
