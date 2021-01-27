@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:11.C.129.2020.1",
+  "docket": "11 C 129/2020-18",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/460866f7-aebe-481d-ab2c-06ee16c45fa0",
+  "source_sha256": "a6e0d4e8b57fcea6e2e8fa3bf825d3dbfb4c684e1ffee8b6a9fa62248e478f92",
+  "source_id": "460866f7-aebe-481d-ab2c-06ee16c45fa0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 129/2020-18",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. et Mgr. Martin Pavlík",
+    "ecli": "ECLI:CZ:OSFM:2021:11.C.129.2020.1",
+    "predmetRizeni": "O zaplacení 15 900 Kč s příslušenstvím - půjčka",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-04-06",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "neplatnost právního jednání",
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 580 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/460866f7-aebe-481d-ab2c-06ee16c45fa0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
