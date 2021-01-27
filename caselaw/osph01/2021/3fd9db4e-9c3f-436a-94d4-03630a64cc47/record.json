@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:39.C.204.2020.1",
+  "docket": "39 C 204/2020",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3fd9db4e-9c3f-436a-94d4-03630a64cc47",
+  "source_sha256": "c83e08e798546e096819b285b9f2a29dc295b4169e388c8a6abb41728c8ed5c7",
+  "source_id": "3fd9db4e-9c3f-436a-94d4-03630a64cc47",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "39 C 204/2020",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "JUDr. Martina Tvrdková",
+    "ecli": "ECLI:CZ:OSPH01:2021:39.C.204.2020.1",
+    "predmetRizeni": "o zaplacení 1 500 Kč s příslušenstvím",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-06-30",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 49 vyhl. č. 175/2000 Sb.",
+      "§ 18a z. č. 266/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3fd9db4e-9c3f-436a-94d4-03630a64cc47"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
