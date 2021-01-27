@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:22.C.285.2020.1",
+  "docket": "22 C 285/2020-30",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f82d687e-a0d6-415b-9e75-e4d417c326f8",
+  "source_sha256": "19e7c6e46173f6b441fb8e84c215b5f0e0199bcee5f753f3aa17bff0c9e4f7f6",
+  "source_id": "f82d687e-a0d6-415b-9e75-e4d417c326f8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 285/2020-30",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Gabriela Antonie Bartová",
+    "ecli": "ECLI:CZ:OSPY:2021:22.C.285.2020.1",
+    "predmetRizeni": "O zaplacení 2 012 Kč s příslušenstvím",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 2 vyhl. č. 205/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 2a vyhl. č. 205/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f82d687e-a0d6-415b-9e75-e4d417c326f8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
