@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2021:12.C.313.2020.1",
+  "docket": "12 C 313/2020-27",
+  "date": "2021-01-27",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9a63cd91-9247-4a73-9070-efe6444ff8d0",
+  "source_sha256": "3ddafdd530e693544f2720a9a7330a5f1af829cfce07473484975ff87bd0dfc1",
+  "source_id": "9a63cd91-9247-4a73-9070-efe6444ff8d0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 313/2020-27",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "JUDr. Eva Bastlová",
+    "ecli": "ECLI:CZ:OSJI:2021:12.C.313.2020.1",
+    "predmetRizeni": "o 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-01-27",
+    "datumZverejneni": "2021-03-03",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 71/99 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9a63cd91-9247-4a73-9070-efe6444ff8d0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
