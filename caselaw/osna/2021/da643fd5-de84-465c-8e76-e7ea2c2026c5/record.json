@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:10.C.297.2020.1",
+  "docket": "10 C 297/2020-14",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/da643fd5-de84-465c-8e76-e7ea2c2026c5",
+  "source_sha256": "de842accb17c7fe49c32143f7c03b8c61d059e1daa9e1fd0c85e0f50b2b9ff48",
+  "source_id": "da643fd5-de84-465c-8e76-e7ea2c2026c5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 297/2020-14",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "Mgr. Michaela Balcar",
+    "ecli": "ECLI:CZ:OSNA:2021:10.C.297.2020.1",
+    "predmetRizeni": "pro zaplacení 5.929,13 Kč s příslušenstvím (úvěr)",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-04-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o účtu",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/da643fd5-de84-465c-8e76-e7ea2c2026c5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
