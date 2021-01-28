@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:58.C.309.2020.2",
+  "docket": "58 C 309/2020-37",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5f43f894-9c0e-4b6d-aa02-000b0989d86e",
+  "source_sha256": "d1bd5d51db5e7a495f419f935c8be121deb7a3c0b3e8240a801dd6836877f35a",
+  "source_id": "5f43f894-9c0e-4b6d-aa02-000b0989d86e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "58 C 309/2020-37",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Adam Urbańczyk",
+    "ecli": "ECLI:CZ:OSOV:2021:58.C.309.2020.2",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-02-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5f43f894-9c0e-4b6d-aa02-000b0989d86e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
