@@ -1,0 +1,47 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2021:6.C.316.2018.1",
+  "docket": "6 C 316/2018-199",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3f66b866-1781-4967-bb74-7e237ad24d4f",
+  "source_sha256": "f135116377aa766a900599648c5a0420538135ea83b7dc1d8aeaa19e8d65dd5b",
+  "source_id": "3f66b866-1781-4967-bb74-7e237ad24d4f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 316/2018-199",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "Mgr. Martina Matějková",
+    "ecli": "ECLI:CZ:OSKT:2021:6.C.316.2018.1",
+    "predmetRizeni": "určení vlastnického práva k nemovitostem",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-06-28",
+    "klicovaSlova": [
+      "dědění",
+      "držba",
+      "notářský zápis",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "převod nemovitostí",
+      "smlouva darovací",
+      "smlouva kupní",
+      "spoluvlastnictví",
+      "věcná břemena",
+      "vydržení",
+      "výprosa",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 992 z. č. 89/2012 Sb.",
+      "§ 1091 z. č. 89/2012 Sb.",
+      "§ 1090 z. č. 89/2012 Sb.",
+      "§ 1089 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3f66b866-1781-4967-bb74-7e237ad24d4f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
