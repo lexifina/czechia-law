@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:9.C.13.2021.1",
+  "docket": "9 C 13/2021",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9492d09b-5238-4758-9b55-dbc05959ffaa",
+  "source_sha256": "fd5d9d90da68e64e5b981ee47c93e1832a0eba9a8c936295b5326fddce6d8ce5",
+  "source_id": "9492d09b-5238-4758-9b55-dbc05959ffaa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 13/2021",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Jana Stejskalová",
+    "ecli": "ECLI:CZ:OSPY:2021:9.C.13.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-03-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2 vyhl. č. 205/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 2a vyhl. č. 205/1999 Sb.",
+      "§ 251 z. č. 120/2001 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9492d09b-5238-4758-9b55-dbc05959ffaa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
