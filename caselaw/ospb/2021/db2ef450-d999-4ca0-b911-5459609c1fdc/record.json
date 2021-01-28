@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:9.C.209.2020.1",
+  "docket": "9 C 209/2020",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/db2ef450-d999-4ca0-b911-5459609c1fdc",
+  "source_sha256": "6681f37a0cb30d95b1e9aae23b79f21a4d0b582bf0e33cdf676c77848b9a4041",
+  "source_id": "db2ef450-d999-4ca0-b911-5459609c1fdc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 209/2020",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Vlasta Cízlová",
+    "ecli": "ECLI:CZ:OSPB:2021:9.C.209.2020.1",
+    "predmetRizeni": "zaplacení 14 886 Kč s příslušenstvím",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-04-15",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 513 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 576 z. č. 89/2012 Sb.",
+      "§ 547 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/db2ef450-d999-4ca0-b911-5459609c1fdc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
