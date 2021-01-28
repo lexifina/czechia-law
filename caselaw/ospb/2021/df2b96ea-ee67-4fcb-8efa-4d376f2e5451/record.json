@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:16.C.209.2020.3",
+  "docket": "16 C 209/2020-55",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/df2b96ea-ee67-4fcb-8efa-4d376f2e5451",
+  "source_sha256": "e97a67f9fcad860a84e1d76482cca1cc29b2779b62fff8ea12a896b451745ebb",
+  "source_id": "df2b96ea-ee67-4fcb-8efa-4d376f2e5451",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 209/2020-55",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Alice Kořínková",
+    "ecli": "ECLI:CZ:OSPB:2021:16.C.209.2020.3",
+    "predmetRizeni": "zaplacení 17 158,80 Kč s příslušenstvím",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/df2b96ea-ee67-4fcb-8efa-4d376f2e5451"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
