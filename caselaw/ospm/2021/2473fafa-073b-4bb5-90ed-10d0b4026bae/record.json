@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:38.C.243.2020.1",
+  "docket": "38 C 243/2020",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2473fafa-073b-4bb5-90ed-10d0b4026bae",
+  "source_sha256": "1e40f9c4817fed73e5fcf03a0feb98cd8993b2f60b4c2900bb3b4976b3e3621c",
+  "source_id": "2473fafa-073b-4bb5-90ed-10d0b4026bae",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 243/2020",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Alena Chaloupková",
+    "ecli": "ECLI:CZ:OSPM:2021:38.C.243.2020.1",
+    "predmetRizeni": "O zaplacení 50 000 Kč s příslušenstvím",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-03-25",
+    "klicovaSlova": [
+      "smlouva nájemní",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2910 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2473fafa-073b-4bb5-90ed-10d0b4026bae"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
