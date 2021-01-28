@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jeseníku",
+  "ecli": "ECLI:CZ:OSJE:2021:10.C.106.2019.1",
+  "docket": "10 C 106/2019-46",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1bd85d11-bd4f-48d9-8384-c8ed3b547203",
+  "source_sha256": "1410b065424702927e9d0486a1cd8a637b7b5a4c33667ce79304831b83135d31",
+  "source_id": "1bd85d11-bd4f-48d9-8384-c8ed3b547203",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 106/2019-46",
+    "soud": "Okresní soud v Jeseníku",
+    "autor": "Mgr. Jana Reslová",
+    "ecli": "ECLI:CZ:OSJE:2021:10.C.106.2019.1",
+    "predmetRizeni": "vydání věci",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-04-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozvod manželství",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1040 z. č. 89/2012 Sb.",
+      "§ 741 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1bd85d11-bd4f-48d9-8384-c8ed3b547203"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
