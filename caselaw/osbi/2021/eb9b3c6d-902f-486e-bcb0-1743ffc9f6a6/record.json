@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:41.C.115.2020.1",
+  "docket": "41 C 115/2020-39",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/eb9b3c6d-902f-486e-bcb0-1743ffc9f6a6",
+  "source_sha256": "47d24fc0daba31542a51b51212f1f0b1b846b3f4a0f111818e9118eb182b24af",
+  "source_id": "eb9b3c6d-902f-486e-bcb0-1743ffc9f6a6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "41 C 115/2020-39",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "JUDr. Denisa Georgesová",
+    "ecli": "ECLI:CZ:OSBI:2021:41.C.115.2020.1",
+    "predmetRizeni": "O zaplacení 3 000 Kč s příslušenstvím",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-03-19",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/eb9b3c6d-902f-486e-bcb0-1743ffc9f6a6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
