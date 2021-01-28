@@ -1,0 +1,31 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2021:23.C.24.2020.1",
+  "docket": "23 C 24/2020-73",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/62c0884d-e671-4097-b65e-794565b14195",
+  "source_sha256": "3a3f721e4a6997e028583a50a430266685a0da88499696c7efe2cd49f08fc95e",
+  "source_id": "62c0884d-e671-4097-b65e-794565b14195",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 24/2020-73",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "JUDr. Lenka Vávrová",
+    "ecli": "ECLI:CZ:OSPH10:2021:23.C.24.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/62c0884d-e671-4097-b65e-794565b14195"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
