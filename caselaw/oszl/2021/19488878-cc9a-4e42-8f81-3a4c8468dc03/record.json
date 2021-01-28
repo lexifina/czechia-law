@@ -1,0 +1,47 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2021:35.C.337.2020.1",
+  "docket": "35 C 337/2020-26",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/19488878-cc9a-4e42-8f81-3a4c8468dc03",
+  "source_sha256": "6b0f61ac9794da68b80db5ec758ca3bcbe38ecf8be594b6a0112502a8887f66d",
+  "source_id": "19488878-cc9a-4e42-8f81-3a4c8468dc03",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "35 C 337/2020-26",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "JUDr. Martina Kocábová",
+    "ecli": "ECLI:CZ:OSZL:2021:35.C.337.2020.1",
+    "predmetRizeni": "vyklizení bytu",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-03-29",
+    "klicovaSlova": [
+      "družstevní byt",
+      "nájem bytu",
+      "peněžité plnění",
+      "vlastnictví bytů",
+      "vydání věci",
+      "vyklizení nemovitosti"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2235 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 1040 z. č. 89/2012 Sb.",
+      "§ 2292 z. č. 89/2012 Sb.",
+      "§ 734 z. č. 90/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/19488878-cc9a-4e42-8f81-3a4c8468dc03"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
