@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:24.C.307.2020.1",
+  "docket": "24 C 307/2020-30",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0ba5fb07-5640-48bd-b73d-87de4afebb1b",
+  "source_sha256": "c8e86c0e4ff518bfc5d23c9bfc9f94365ea975d33fb02c419fc813b38d92f694",
+  "source_id": "0ba5fb07-5640-48bd-b73d-87de4afebb1b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 307/2020-30",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "JUDr. Naděžda Nováková",
+    "ecli": "ECLI:CZ:OSOL:2021:24.C.307.2020.1",
+    "predmetRizeni": "o 2 500 Kč s příslušenstvím",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-05-05",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2053 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0ba5fb07-5640-48bd-b73d-87de4afebb1b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
