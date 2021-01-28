@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:11.C.220.2019.2",
+  "docket": "11 C 220/2019-21",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fd41328f-b9ca-4e73-99ca-a5c696d6f58b",
+  "source_sha256": "57bae7679d50a42f4788eab7421fbf4254cbf1efa6df1a7f426653a318e27b80",
+  "source_id": "fd41328f-b9ca-4e73-99ca-a5c696d6f58b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 220/2019-21",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "JUDr. Kateřina Kyselová",
+    "ecli": "ECLI:CZ:OSPH05:2021:11.C.220.2019.2",
+    "predmetRizeni": "uznání rozhodnutí dle § 16/2 z.č.91/2012Sb.",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozhodnutí cizích soudů",
+      "smlouva mezinárodní",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 16 z. č. 91/2012 Sb.",
+      "§ 1 vyhl. č. 132/1976 Sb.",
+      "§ 13 vyhl. č. 132/1976 Sb.",
+      "§ 4 vyhl. č. 132/1976 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fd41328f-b9ca-4e73-99ca-a5c696d6f58b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
