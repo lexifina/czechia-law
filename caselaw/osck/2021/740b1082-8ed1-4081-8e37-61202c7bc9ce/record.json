@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2021:5.EVC.1.2017.15",
+  "docket": "5 EVC 1/2017-379",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/740b1082-8ed1-4081-8e37-61202c7bc9ce",
+  "source_sha256": "a1003c47369649e666d4a6b4d24ed997a1826391481c223151650c95c7a4a95b",
+  "source_id": "740b1082-8ed1-4081-8e37-61202c7bc9ce",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 EVC 1/2017-379",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "JUDr. Ivana Paloučková",
+    "ecli": "ECLI:CZ:OSCK:2021:5.EVC.1.2017.15",
+    "predmetRizeni": "Návrh na vydání evropského plat. rozkazu",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-05-17",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 142/1994 Sb.",
+      "§  vyhl. č. 358/2019 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 369 z. č. 513/1991 Sb.",
+      "§ 536 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/740b1082-8ed1-4081-8e37-61202c7bc9ce"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
