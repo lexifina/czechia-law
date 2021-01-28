@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:10.C.314.2020.1",
+  "docket": "10 C 314/2020-19",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2b01eb8a-132d-4bfe-aa24-6f6685008df9",
+  "source_sha256": "bfd7b2d3ef0425056cc57bb4e37390030dcecec802e4ac6ead7d5ba7f22f788d",
+  "source_id": "2b01eb8a-132d-4bfe-aa24-6f6685008df9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 314/2020-19",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "Mgr. Michaela Balcar",
+    "ecli": "ECLI:CZ:OSNA:2021:10.C.314.2020.1",
+    "predmetRizeni": "o zaplacení 10.000 Kč s příslušenstvím (smluvní pokuta)",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-04-07",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2b01eb8a-132d-4bfe-aa24-6f6685008df9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
