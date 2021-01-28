@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:33.C.449.2020.3",
+  "docket": "33 C 449/2020-18",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7f7692be-5025-4202-ba99-8efb6d6d5d18",
+  "source_sha256": "81f7601506b58fb1b75d33e525605c89760af2ac831cb301d9c3784619a4f3a6",
+  "source_id": "7f7692be-5025-4202-ba99-8efb6d6d5d18",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "33 C 449/2020-18",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "Mgr. Radka Čepická",
+    "ecli": "ECLI:CZ:OSSO:2021:33.C.449.2020.3",
+    "predmetRizeni": "zaplacení 1 556 Kč s příslušenstvím",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-04-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 2a vyhl. č. 205/1999 Sb.",
+      "§ 15 z. č. 168/1999 Sb.",
+      "§ 6 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7f7692be-5025-4202-ba99-8efb6d6d5d18"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
