@@ -1,0 +1,51 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mělníku",
+  "ecli": "ECLI:CZ:OSME:2021:9.C.25.2020.1",
+  "docket": "9 C 25/2020",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8d24db66-d4ac-4951-9ecb-67580cc9a5b2",
+  "source_sha256": "61b91fcfce4dce6d955e20430e874952b848382832461f629c19d762ad17bcd8",
+  "source_id": "8d24db66-d4ac-4951-9ecb-67580cc9a5b2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 25/2020",
+    "soud": "Okresní soud v Mělníku",
+    "autor": "JUDr. Blanka Doškářová",
+    "ecli": "ECLI:CZ:OSME:2021:9.C.25.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-03-18",
+    "klicovaSlova": [
+      "místní příslušnost",
+      "peněžité plnění",
+      "platební rozkaz",
+      "postoupení pohledávky",
+      "prodlení věřitele",
+      "smlouva o zápůjčce",
+      "věcná příslušnost"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 4 z. č. 549/1991 Sb.",
+      "§ 172 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8d24db66-d4ac-4951-9ecb-67580cc9a5b2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
