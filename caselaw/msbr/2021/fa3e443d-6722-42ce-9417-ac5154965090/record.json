@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:30.C.106.2020.1",
+  "docket": "30 C 106/2020-17",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fa3e443d-6722-42ce-9417-ac5154965090",
+  "source_sha256": "61d407df8d345ea7f4002d84511409f1e4c91ed9c50afc90cdd8fb8e886397cb",
+  "source_id": "fa3e443d-6722-42ce-9417-ac5154965090",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 106/2020-17",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Dana Daňková",
+    "ecli": "ECLI:CZ:MSBR:2021:30.C.106.2020.1",
+    "predmetRizeni": "zaplacení 4.801 Kč s příslušenstvím - pojistné",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-03-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 3 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fa3e443d-6722-42ce-9417-ac5154965090"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
