@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jičíně",
+  "ecli": "ECLI:CZ:OSJC:2021:11.C.251.2020.1",
+  "docket": "11 C 251/2020-37",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c0488f40-5e6b-4c04-97d9-33af12c68de4",
+  "source_sha256": "2a10200f4fbd075a2d556119f6d51074311cfc9bbfe0fdcfcf6f9ea9417470c7",
+  "source_id": "c0488f40-5e6b-4c04-97d9-33af12c68de4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 251/2020-37",
+    "soud": "Okresní soud v Jičíně",
+    "autor": "Mgr. Tomáš Chrást",
+    "ecli": "ECLI:CZ:OSJC:2021:11.C.251.2020.1",
+    "predmetRizeni": "o 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-03-25",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c0488f40-5e6b-4c04-97d9-33af12c68de4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
