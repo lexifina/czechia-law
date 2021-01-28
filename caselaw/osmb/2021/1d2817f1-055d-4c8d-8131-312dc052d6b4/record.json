@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2021:19.C.103.2020.2",
+  "docket": "19 C 103/2020-17",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1d2817f1-055d-4c8d-8131-312dc052d6b4",
+  "source_sha256": "8e7adc2eaf214ba986f154dc10d00182d475cab876f339497a4dce85b091d66f",
+  "source_id": "1d2817f1-055d-4c8d-8131-312dc052d6b4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 103/2020-17",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "JUDr. Lenka Engelová",
+    "ecli": "ECLI:CZ:OSMB:2021:19.C.103.2020.2",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-03-18",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 1971 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1d2817f1-055d-4c8d-8131-312dc052d6b4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
