@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:19.C.273.2020.1",
+  "docket": "19 C 273/2020-21",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c1219e4f-1679-4c54-84e0-b83a879fa2c0",
+  "source_sha256": "604a50c2fbf6558fd212b2e31f4d26c08dec375e5f9132f208a6c2bc92f734cf",
+  "source_id": "c1219e4f-1679-4c54-84e0-b83a879fa2c0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 273/2020-21",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "Mgr. Tomáš Foltýn, Ph.D.",
+    "ecli": "ECLI:CZ:OSDO:2021:19.C.273.2020.1",
+    "predmetRizeni": "O zaplacení 7 395,50 Kč s příslušenstvím",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-03-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 576 z. č. 89/2012 Sb.",
+      "§ 1812 z. č. 89/2012 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 574 z. č. 89/2012 Sb.",
+      "§ 557 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c1219e4f-1679-4c54-84e0-b83a879fa2c0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
