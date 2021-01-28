@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:4.C.94.2016.1",
+  "docket": "4 C 94/2016-34",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ccf03a8b-e085-4063-a9d5-e432ed518dbf",
+  "source_sha256": "9ac75ba95140de3e87dbb887f646ee1bf175f7f0fd555a2575eb09da08762624",
+  "source_id": "ccf03a8b-e085-4063-a9d5-e432ed518dbf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 94/2016-34",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Petr Doležel",
+    "ecli": "ECLI:CZ:OSVY:2021:4.C.94.2016.1",
+    "predmetRizeni": "zaplacení částky 8.571 - Kč s příslušenstvím-náhrada škody",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-02-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o dílo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 89a z. č. 120/2001 Sb.",
+      "§ 2586 z. č. 89/2012 Sb.",
+      "§ 1 vyhl. č. 254/2015 Sb.",
+      "§ 2610 z. č. 89/2012 Sb.",
+      "§ 2587 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ccf03a8b-e085-4063-a9d5-e432ed518dbf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
