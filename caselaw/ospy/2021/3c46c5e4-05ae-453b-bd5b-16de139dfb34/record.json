@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:35.C.30.2021.1",
+  "docket": "35 C 30/2021-18",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3c46c5e4-05ae-453b-bd5b-16de139dfb34",
+  "source_sha256": "2e37ee767256efe194d68453ae17b5bc5a565eb9679162b0c1654362fceef3c2",
+  "source_id": "3c46c5e4-05ae-453b-bd5b-16de139dfb34",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "35 C 30/2021-18",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Ing. Viktor Smolík",
+    "ecli": "ECLI:CZ:OSPY:2021:35.C.30.2021.1",
+    "predmetRizeni": "O zaplacení 10 818 Kč s příslušenstvím",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "ochrana spotřebitele",
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 580 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3c46c5e4-05ae-453b-bd5b-16de139dfb34"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
