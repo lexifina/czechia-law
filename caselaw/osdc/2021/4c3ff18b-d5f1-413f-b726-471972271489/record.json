@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:6.C.283.2020.1",
+  "docket": "6 C 283/2020-16",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4c3ff18b-d5f1-413f-b726-471972271489",
+  "source_sha256": "30f6e414281e2b3cf5fcb5aa5a0fad3bf992b170305c72b5773b192a2e2eff94",
+  "source_id": "4c3ff18b-d5f1-413f-b726-471972271489",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 283/2020-16",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Petr Slezák",
+    "ecli": "ECLI:CZ:OSDC:2021:6.C.283.2020.1",
+    "predmetRizeni": "O zaplacení [částka]",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-07-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1724 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4c3ff18b-d5f1-413f-b726-471972271489"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
