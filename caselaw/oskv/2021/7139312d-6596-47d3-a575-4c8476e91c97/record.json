@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:10.C.15.2021.1",
+  "docket": "10 C 15/2021-11",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7139312d-6596-47d3-a575-4c8476e91c97",
+  "source_sha256": "2d4b6609847e2dc1ec1be93cc57333102b32909ff2261790a404df58c42dcca6",
+  "source_id": "7139312d-6596-47d3-a575-4c8476e91c97",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 15/2021-11",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Blanka Magliová",
+    "ecli": "ECLI:CZ:OSKV:2021:10.C.15.2021.1",
+    "predmetRizeni": "2.704 Kč / pojistné",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-02-23",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7139312d-6596-47d3-a575-4c8476e91c97"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
