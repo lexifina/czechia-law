@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:36.C.244.2020.2",
+  "docket": "36 C 244/2020-25",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a1d89acb-10d1-4f91-976b-e6b58dc5fd2b",
+  "source_sha256": "04d0f3cd2061b883ab677d5a5df4d1b8e9fd1a5289949fc4ae33a166babc6b00",
+  "source_id": "a1d89acb-10d1-4f91-976b-e6b58dc5fd2b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 244/2020-25",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Renáta Snášelová",
+    "ecli": "ECLI:CZ:OSOV:2021:36.C.244.2020.2",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-02-25",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 89/2012 Sb.",
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a1d89acb-10d1-4f91-976b-e6b58dc5fd2b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
