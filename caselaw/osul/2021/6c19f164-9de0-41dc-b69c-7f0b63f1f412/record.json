@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:11.C.79.2020.3",
+  "docket": "11 C 79/2020-45",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6c19f164-9de0-41dc-b69c-7f0b63f1f412",
+  "source_sha256": "e6d6832a4d4c1de2a514646aa691ca3d4d837dfbfaecb67c4741d451f8d5f29f",
+  "source_id": "6c19f164-9de0-41dc-b69c-7f0b63f1f412",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 79/2020-45",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "JUDr. Markéta Vrzáčková",
+    "ecli": "ECLI:CZ:OSUL:2021:11.C.79.2020.3",
+    "predmetRizeni": "návrh na rozvod manželství",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-04-28",
+    "klicovaSlova": [
+      "alkoholismus",
+      "pěstounská péče",
+      "rozvod manželství",
+      "zkušební doba"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6c19f164-9de0-41dc-b69c-7f0b63f1f412"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
