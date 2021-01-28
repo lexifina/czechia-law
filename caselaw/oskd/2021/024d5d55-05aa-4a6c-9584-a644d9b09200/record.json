@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:218.C.2.2021.1",
+  "docket": "218 C 2/2021",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/024d5d55-05aa-4a6c-9584-a644d9b09200",
+  "source_sha256": "22af30113d4d190d6d79de814c1a5c0c7e47da0629e8a83ad468e53c1fb2dee6",
+  "source_id": "024d5d55-05aa-4a6c-9584-a644d9b09200",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "218 C 2/2021",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Jaroslava Tenglerová",
+    "ecli": "ECLI:CZ:OSKD:2021:218.C.2.2021.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-03-12",
+    "klicovaSlova": [
+      "náklady léčení",
+      "opilost",
+      "peněžité plnění",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 2642 z. č. 89/2012 Sb.",
+      "§ 2636 z. č. 89/2012 Sb.",
+      "§ 89a z. č. 65/2017 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/024d5d55-05aa-4a6c-9584-a644d9b09200"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
