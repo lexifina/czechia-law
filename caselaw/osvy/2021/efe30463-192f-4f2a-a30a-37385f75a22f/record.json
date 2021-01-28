@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:3.C.127.2020.1",
+  "docket": "3 C 127/2020-62",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/efe30463-192f-4f2a-a30a-37385f75a22f",
+  "source_sha256": "7499a2cb0dcfbe4bc6abe86c7d2dfb9b0010fd2c0f9a3386efa2264f0b3c3872",
+  "source_id": "efe30463-192f-4f2a-a30a-37385f75a22f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 127/2020-62",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "Mgr. Andrea Růžová",
+    "ecli": "ECLI:CZ:OSVY:2021:3.C.127.2020.1",
+    "predmetRizeni": "zaplacení částky 3 699 Kč s příslušenstvím - pojistné",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2783 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2804 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/efe30463-192f-4f2a-a30a-37385f75a22f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
