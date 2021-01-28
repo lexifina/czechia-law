@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:29.C.382.2020.2",
+  "docket": "29 C 382/2020-23",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/681a5fd2-14b1-44d5-a916-d605183ff757",
+  "source_sha256": "ac6fa3b9747e41396383ff2fd39fcc655845e5356f4ccf957bb5909ad7b1ddcf",
+  "source_id": "681a5fd2-14b1-44d5-a916-d605183ff757",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 382/2020-23",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Hana Langová",
+    "ecli": "ECLI:CZ:OSOV:2021:29.C.382.2020.2",
+    "predmetRizeni": "o zaplacení [částka]",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-03-19",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1897 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/681a5fd2-14b1-44d5-a916-d605183ff757"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
