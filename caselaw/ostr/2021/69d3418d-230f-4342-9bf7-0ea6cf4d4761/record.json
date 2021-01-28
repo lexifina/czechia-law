@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Třebíči",
+  "ecli": "ECLI:CZ:OSTR:2021:21.C.45.2020.1",
+  "docket": "21 C 45/2020-38",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/69d3418d-230f-4342-9bf7-0ea6cf4d4761",
+  "source_sha256": "8f326e36c744b2cc9c6c15365fa4731cf7ae99559d294b5c7bce295d33a51824",
+  "source_id": "69d3418d-230f-4342-9bf7-0ea6cf4d4761",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 45/2020-38",
+    "soud": "Okresní soud v Třebíči",
+    "autor": "Mgr. Jan Coufal",
+    "ecli": "ECLI:CZ:OSTR:2021:21.C.45.2020.1",
+    "predmetRizeni": "platební rozkaz o 17 211 Kč s příslušenstvím",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-04-15",
+    "klicovaSlova": [
+      "nebytový prostor",
+      "peněžité plnění",
+      "podnájem"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 201 z. č. 99/1963 Sb.",
+      "§ 2274 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/69d3418d-230f-4342-9bf7-0ea6cf4d4761"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
