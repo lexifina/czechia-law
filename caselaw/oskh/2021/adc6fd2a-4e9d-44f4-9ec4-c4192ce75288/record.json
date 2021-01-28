@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kutné Hoře",
+  "ecli": "ECLI:CZ:OSKH:2021:11.C.397.2020.1",
+  "docket": "11 C 397/2020-60",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/adc6fd2a-4e9d-44f4-9ec4-c4192ce75288",
+  "source_sha256": "befd90774dcdeaabe3e0585e7084d0f2966632fc6a8f787ac5c9b583776740fe",
+  "source_id": "adc6fd2a-4e9d-44f4-9ec4-c4192ce75288",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 397/2020-60",
+    "soud": "Okresní soud v Kutné Hoře",
+    "autor": "Mgr. Tereza Martínková",
+    "ecli": "ECLI:CZ:OSKH:2021:11.C.397.2020.1",
+    "predmetRizeni": "o zaplacení částky 79 514 Kč s přísl.",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-03-16",
+    "klicovaSlova": [
+      "smlouva o úvěru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 1802 z. č. 89/2012 Sb.",
+      "§ 122 z. č. 257/2016 Sb.",
+      "§ 576 z. č. 89/2012 Sb.",
+      "§ 1908 z. č. 89/2012 Sb.",
+      "§ 1932 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/adc6fd2a-4e9d-44f4-9ec4-c4192ce75288"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
