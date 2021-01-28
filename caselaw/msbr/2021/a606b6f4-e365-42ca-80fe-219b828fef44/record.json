@@ -1,0 +1,48 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:34.C.102.2020.1",
+  "docket": "34 C 102/2020-65",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a606b6f4-e365-42ca-80fe-219b828fef44",
+  "source_sha256": "2d16ad401e1dbb0d5bac49d2c2d302d122b7cccea443c2ea91b6da981c5db30e",
+  "source_id": "a606b6f4-e365-42ca-80fe-219b828fef44",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 102/2020-65",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Pavel Matouš",
+    "ecli": "ECLI:CZ:MSBR:2021:34.C.102.2020.1",
+    "predmetRizeni": "zaplacení 40.000 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-08-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 109 z. č. 182/2006 Sb.",
+      "§ 3 z. č. 145/2010 Sb.",
+      "§ 629 z. č. 89/2012 Sb.",
+      "§ 619 z. č. 89/2012 Sb.",
+      "§ 547 z. č. 89/2012 Sb.",
+      "§ 173 z. č. 182/2006 Sb.",
+      "§ 45 z. č. 328/1991 Sb.",
+      "§ 173a z. č. 182/2006 Sb.",
+      "§ 312 z. č. 182/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a606b6f4-e365-42ca-80fe-219b828fef44"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
