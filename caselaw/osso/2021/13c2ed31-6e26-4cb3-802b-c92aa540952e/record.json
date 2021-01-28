@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:10.C.421.2020.2",
+  "docket": "10 C 421/2020-27",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/13c2ed31-6e26-4cb3-802b-c92aa540952e",
+  "source_sha256": "f19ef4e46e6b89b7201b6ddb3291bde9abad2e44791f8eda088c94b8cb4f3d69",
+  "source_id": "13c2ed31-6e26-4cb3-802b-c92aa540952e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 421/2020-27",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "JUDr. Ivana Hovorková",
+    "ecli": "ECLI:CZ:OSSO:2021:10.C.421.2020.2",
+    "predmetRizeni": "zaplacení 13 269,92 Kč s příslušenstvím",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-05-05",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 1724 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/13c2ed31-6e26-4cb3-802b-c92aa540952e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
