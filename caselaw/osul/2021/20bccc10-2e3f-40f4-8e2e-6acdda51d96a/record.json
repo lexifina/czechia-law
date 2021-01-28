@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:11.C.220.2020.2",
+  "docket": "11 C 220/2020-12",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/20bccc10-2e3f-40f4-8e2e-6acdda51d96a",
+  "source_sha256": "4a29fac0d1e13d2c4b56d82b4ab7ddc49075207b79025c54055b6ba5e1da2ccd",
+  "source_id": "20bccc10-2e3f-40f4-8e2e-6acdda51d96a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 220/2020-12",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "JUDr. Markéta Vrzáčková",
+    "ecli": "ECLI:CZ:OSUL:2021:11.C.220.2020.2",
+    "predmetRizeni": "O zaplacení 1 758 Kč s příslušenstvím",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-03-22",
+    "klicovaSlova": [
+      "družstevní byt",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2217 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 67/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/20bccc10-2e3f-40f4-8e2e-6acdda51d96a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
