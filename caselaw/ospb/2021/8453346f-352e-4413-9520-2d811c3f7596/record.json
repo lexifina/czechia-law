@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:17.C.165.2020.1",
+  "docket": "17 C 165/2020-52",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8453346f-352e-4413-9520-2d811c3f7596",
+  "source_sha256": "a7f902f1d69dbc983f1940a4cb31f1f37bec72490436db803b66620907f4ccea",
+  "source_id": "8453346f-352e-4413-9520-2d811c3f7596",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 165/2020-52",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "Mgr. Marie Jelínková",
+    "ecli": "ECLI:CZ:OSPB:2021:17.C.165.2020.1",
+    "predmetRizeni": "zaplacení 10 350 Kč s příslušenstvím",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-03-25",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8453346f-352e-4413-9520-2d811c3f7596"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
