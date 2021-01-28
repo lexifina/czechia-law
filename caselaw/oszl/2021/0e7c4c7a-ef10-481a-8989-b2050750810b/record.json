@@ -1,0 +1,47 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2021:35.C.344.2020.1",
+  "docket": "35 C 344/2020-29",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0e7c4c7a-ef10-481a-8989-b2050750810b",
+  "source_sha256": "6493f075c42d4a435cb911907c31b06856c1894f19967f2e937290d46ceea1c2",
+  "source_id": "0e7c4c7a-ef10-481a-8989-b2050750810b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "35 C 344/2020-29",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "JUDr. Martina Kocábová",
+    "ecli": "ECLI:CZ:OSZL:2021:35.C.344.2020.1",
+    "predmetRizeni": "vyklizení bytu",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-03-29",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "nájem bytu",
+      "peněžité plnění",
+      "vyklizení bytu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2235 z. č. 89/2012 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 2291 z. č. 89/2012 Sb.",
+      "§ 1040 z. č. 89/2012 Sb.",
+      "§ 2286 z. č. 89/2012 Sb.",
+      "§ 2290 z. č. 89/2012 Sb.",
+      "§ 1 vyhl. č. 254/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0e7c4c7a-ef10-481a-8989-b2050750810b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
