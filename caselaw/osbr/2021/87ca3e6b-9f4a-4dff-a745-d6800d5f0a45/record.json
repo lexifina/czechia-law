@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Berouně",
+  "ecli": "ECLI:CZ:OSBR:2021:3.C.22.2020.1",
+  "docket": "3 C 22/2020-113",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/87ca3e6b-9f4a-4dff-a745-d6800d5f0a45",
+  "source_sha256": "ded3d1a464017258160173c2e91ea7bb19a9a8eac973b79b4a41dbd34538762d",
+  "source_id": "87ca3e6b-9f4a-4dff-a745-d6800d5f0a45",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 22/2020-113",
+    "soud": "Okresní soud v Berouně",
+    "autor": "Mgr. Marcela Součková",
+    "ecli": "ECLI:CZ:OSBR:2021:3.C.22.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-02-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/87ca3e6b-9f4a-4dff-a745-d6800d5f0a45"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
