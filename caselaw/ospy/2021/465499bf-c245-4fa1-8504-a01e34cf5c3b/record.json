@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:36.C.455.2020.1",
+  "docket": "36 C 455/2020",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/465499bf-c245-4fa1-8504-a01e34cf5c3b",
+  "source_sha256": "369d636cab54a9fbc06686cd9fa8aa4f9a2096f58411536ef2fe8a0a6ef6e33b",
+  "source_id": "465499bf-c245-4fa1-8504-a01e34cf5c3b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 455/2020",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Tereza Dobešová",
+    "ecli": "ECLI:CZ:OSPY:2021:36.C.455.2020.1",
+    "predmetRizeni": "o zaplacení částky 6 000 Kč s příslušenstvím",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-03-31",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/465499bf-c245-4fa1-8504-a01e34cf5c3b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
