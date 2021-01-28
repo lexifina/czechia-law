@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:36.C.265.2020.1",
+  "docket": "36 C 265/2020",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2946e0cc-f9ba-4570-89a0-3ab5edd9e753",
+  "source_sha256": "7ea28270add3b54a4197ced4ed04f573041a048e3027cbc8afb91f2e1033d18d",
+  "source_id": "2946e0cc-f9ba-4570-89a0-3ab5edd9e753",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 265/2020",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Tereza Dobešová",
+    "ecli": "ECLI:CZ:OSPY:2021:36.C.265.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-03-18",
+    "klicovaSlova": [
+      "alkoholismus",
+      "pracovní cesta",
+      "rozvod manželství",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2946e0cc-f9ba-4570-89a0-3ab5edd9e753"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
