@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:30.C.80.2020.3",
+  "docket": "30 C 80/2020-25",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/35e9239d-fba7-4881-9fb2-c863f110644c",
+  "source_sha256": "268b37b42e5fae4e7fe974e0fb0576a16f79172c15a05f2b2b8f3b190b8c8c1a",
+  "source_id": "35e9239d-fba7-4881-9fb2-c863f110644c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 80/2020-25",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Hana Jakubcová",
+    "ecli": "ECLI:CZ:OSCV:2021:30.C.80.2020.3",
+    "predmetRizeni": "zaplacení částky 6 074 Kč (odtah vozidla)",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu",
+      "pozemní komunikace"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 17a z. č. 553/1991 Sb.",
+      "§ 2 z. č. 56/2001 Sb.",
+      "§  z. č. 307/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/35e9239d-fba7-4881-9fb2-c863f110644c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
