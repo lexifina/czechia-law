@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:5.C.22.2021.1",
+  "docket": "5 C 22/2021-43",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e4a8c27d-9e53-4006-a909-a07d27fffcfe",
+  "source_sha256": "a8cd40202f3e7993d3fc893eddea0008cb26a45c0d04cb188a384a67fc5fabd1",
+  "source_id": "e4a8c27d-9e53-4006-a909-a07d27fffcfe",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 22/2021-43",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Dana Nováková",
+    "ecli": "ECLI:CZ:OSPB:2021:5.C.22.2021.1",
+    "predmetRizeni": "zaplacení 2 205 Kč s příslušenstvím",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-03-18",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 458/2000 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 588 z. č. 40/1964 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 524 z. č. 40/1964 Sb.",
+      "§ 121 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e4a8c27d-9e53-4006-a909-a07d27fffcfe"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
