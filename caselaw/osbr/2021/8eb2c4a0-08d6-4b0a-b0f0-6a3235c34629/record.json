@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Berouně",
+  "ecli": "ECLI:CZ:OSBR:2021:12.C.394.2020.1",
+  "docket": "12 C 394/2020",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8eb2c4a0-08d6-4b0a-b0f0-6a3235c34629",
+  "source_sha256": "3149c2f089907431fd1ab47cd49dbbc9de60955bd5d2cebb1426bd8c63023a48",
+  "source_id": "8eb2c4a0-08d6-4b0a-b0f0-6a3235c34629",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 394/2020",
+    "soud": "Okresní soud v Berouně",
+    "autor": "Mgr. Petr Pomahač",
+    "ecli": "ECLI:CZ:OSBR:2021:12.C.394.2020.1",
+    "predmetRizeni": "O zaplacení 14 474,03 Kč s příslušenstvím",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-04-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 132 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8eb2c4a0-08d6-4b0a-b0f0-6a3235c34629"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
