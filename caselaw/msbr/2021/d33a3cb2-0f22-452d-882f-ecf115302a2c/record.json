@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:234.C.3.2020.1",
+  "docket": "234 C 3/2020-56",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d33a3cb2-0f22-452d-882f-ecf115302a2c",
+  "source_sha256": "0f41eeddce895356450fe59d60afcb40eb01920df53edfe545e001f852c760aa",
+  "source_id": "d33a3cb2-0f22-452d-882f-ecf115302a2c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "234 C 3/2020-56",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Pavel Matouš",
+    "ecli": "ECLI:CZ:MSBR:2021:234.C.3.2020.1",
+    "predmetRizeni": "zaplacení 160.000 Kč s příslušenstvím - smlouva o zápůjčce",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-05-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d33a3cb2-0f22-452d-882f-ecf115302a2c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
