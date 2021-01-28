@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:13.C.301.2020.1",
+  "docket": "13 C 301/2020-24",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bf5b93b5-1b04-497c-9723-2e3aca31ae97",
+  "source_sha256": "e38068976c6614f0d0281f0ec9c7568066b1a2f235cf27ea84be32fa857e2ae3",
+  "source_id": "bf5b93b5-1b04-497c-9723-2e3aca31ae97",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 301/2020-24",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "JUDr. Ivana Dvořáková",
+    "ecli": "ECLI:CZ:OSTP:2021:13.C.301.2020.1",
+    "predmetRizeni": "zaplacení 1 512 Kč s příslušenstvím",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-03-01",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bf5b93b5-1b04-497c-9723-2e3aca31ae97"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
