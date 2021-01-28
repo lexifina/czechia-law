@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2021:7.C.28.2019.1",
+  "docket": "7 C 28/2019-67",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8454defd-3fb3-48a5-96bb-e5443ab1c683",
+  "source_sha256": "060d2c77eac0d89058164888867846f5b9b1b7eb7f1c98b168bfc17fc8cc9a1d",
+  "source_id": "8454defd-3fb3-48a5-96bb-e5443ab1c683",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 28/2019-67",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "JUDr. Martin Valehrach",
+    "ecli": "ECLI:CZ:OSPH08:2021:7.C.28.2019.1",
+    "predmetRizeni": "o zaplacení částky ve výši 61.181 Kč s příslušenstvím",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-08-30",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "majetková újma",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 3 nař. vl. č. 351/2013 Sb.",
+      "§ 119a z. č. 99/1963 Sb.",
+      "§ 118b z. č. 99/1963 Sb.",
+      "§ 2969 z. č. 89/2012 Sb.",
+      "§ 7 z. č. 177/1991 Sb.",
+      "§ 2 nař. vl. č. 351/2003 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8454defd-3fb3-48a5-96bb-e5443ab1c683"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
