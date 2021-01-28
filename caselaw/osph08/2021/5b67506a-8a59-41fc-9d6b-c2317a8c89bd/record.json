@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2021:7.C.15.2017.1",
+  "docket": "7 C 15/2017-155",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5b67506a-8a59-41fc-9d6b-c2317a8c89bd",
+  "source_sha256": "d35dedc8363e43e9e5efc1f51c461281425419ea866a4065c8367e3090c2facb",
+  "source_id": "5b67506a-8a59-41fc-9d6b-c2317a8c89bd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 15/2017-155",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "JUDr. Martin Valehrach",
+    "ecli": "ECLI:CZ:OSPH08:2021:7.C.15.2017.1",
+    "predmetRizeni": "o pojistné plnění ve výši 71.060 - Kč s přísl.",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-06-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 2054 z. č. 89/2012 Sb.",
+      "§ 118b z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5b67506a-8a59-41fc-9d6b-c2317a8c89bd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
