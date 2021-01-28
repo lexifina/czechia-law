@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:29.C.81.2020.1",
+  "docket": "29 C 81/2020-57",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/be5a99c6-a433-47c1-a7ca-d5db1ff113ed",
+  "source_sha256": "04f8efc1554d55991ec40b8830612dd56e1d04ba4cf50ce946985d98bb3587cc",
+  "source_id": "be5a99c6-a433-47c1-a7ca-d5db1ff113ed",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 81/2020-57",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Romana Sobolová",
+    "ecli": "ECLI:CZ:MSBR:2021:29.C.81.2020.1",
+    "predmetRizeni": "zaplacení 5.000 Kč - smluvní pokuta",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 127/2005 Sb.",
+      "§ 141 z. č. 99/1963 Sb.",
+      "§ 39 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/be5a99c6-a433-47c1-a7ca-d5db1ff113ed"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
