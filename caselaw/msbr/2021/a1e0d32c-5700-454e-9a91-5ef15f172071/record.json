@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:35.C.124.2019.1",
+  "docket": "35 C 124/2019-73",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a1e0d32c-5700-454e-9a91-5ef15f172071",
+  "source_sha256": "1200d333ff37b193bcb7fc9e0a2e97027ef5b183c9706d1b93b4263827d78284",
+  "source_id": "a1e0d32c-5700-454e-9a91-5ef15f172071",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "35 C 124/2019-73",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Dana Daňková",
+    "ecli": "ECLI:CZ:MSBR:2021:35.C.124.2019.1",
+    "predmetRizeni": "zaplacení 23.242 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 573 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 1902 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a1e0d32c-5700-454e-9a91-5ef15f172071"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
