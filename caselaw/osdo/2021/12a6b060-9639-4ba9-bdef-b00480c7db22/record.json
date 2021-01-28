@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:19.C.231.2020.1",
+  "docket": "19 C 231/2020-24",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/12a6b060-9639-4ba9-bdef-b00480c7db22",
+  "source_sha256": "efa8f11bae2e1c9f8c71ae52e3fb8f6ed7bda07513acafc72e506e4caf80e9aa",
+  "source_id": "12a6b060-9639-4ba9-bdef-b00480c7db22",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 231/2020-24",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "Mgr. Tomáš Foltýn, Ph.D.",
+    "ecli": "ECLI:CZ:OSDO:2021:19.C.231.2020.1",
+    "predmetRizeni": "O zaplacení 3 036 Kč s příslušenstvím",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-03-18",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/12a6b060-9639-4ba9-bdef-b00480c7db22"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
