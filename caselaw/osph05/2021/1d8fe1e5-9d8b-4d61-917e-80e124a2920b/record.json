@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:26.C.514.2020.2",
+  "docket": "26 C 514/2020-14",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1d8fe1e5-9d8b-4d61-917e-80e124a2920b",
+  "source_sha256": "0687a46378dbd2be39649810e5fd7a9762741f4283e802b188e912621bf9f55a",
+  "source_id": "1d8fe1e5-9d8b-4d61-917e-80e124a2920b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 514/2020-14",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Jindřich Kysela",
+    "ecli": "ECLI:CZ:OSPH05:2021:26.C.514.2020.2",
+    "predmetRizeni": "O zaplacení 1 160 EUR s příslušenstvím",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-08-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozsudek pro uznání"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 153a z. č. 99/1963 Sb.",
+      "§ 114b z. č. 99/1963 Sb.",
+      "§ 99 z. č. 99/1963 Sb.",
+      "§ 2555 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1d8fe1e5-9d8b-4d61-917e-80e124a2920b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
