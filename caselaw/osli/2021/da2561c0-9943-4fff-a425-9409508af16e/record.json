@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:13.C.154.2020.1",
+  "docket": "13 C 154/2020-26",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/da2561c0-9943-4fff-a425-9409508af16e",
+  "source_sha256": "e30b3b068acd0125cac31fe3374da9b79b216584f0fec8f25beb8ffab0916a9c",
+  "source_id": "da2561c0-9943-4fff-a425-9409508af16e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 154/2020-26",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Ivana Šoljaková",
+    "ecli": "ECLI:CZ:OSLI:2021:13.C.154.2020.1",
+    "predmetRizeni": "Žaloba o vyloučení majetku z výkonu rozhodnutí",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-11-02",
+    "klicovaSlova": [
+      "dražba",
+      "exekuce",
+      "převod nemovitostí"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 267 z. č. 99/1963 Sb.",
+      "§ 1105 z. č. 89/2012 Sb.",
+      "§ 267 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/da2561c0-9943-4fff-a425-9409508af16e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
