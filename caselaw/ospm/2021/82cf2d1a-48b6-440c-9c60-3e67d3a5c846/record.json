@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:31.C.333.2020.1",
+  "docket": "31 C 333/2020",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/82cf2d1a-48b6-440c-9c60-3e67d3a5c846",
+  "source_sha256": "cd7d85ec87366ae50b3e7798e0377a995fb1b9b158c16b3c7af24ef19701b936",
+  "source_id": "82cf2d1a-48b6-440c-9c60-3e67d3a5c846",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "31 C 333/2020",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Monika Mlíčková",
+    "ecli": "ECLI:CZ:OSPM:2021:31.C.333.2020.1",
+    "predmetRizeni": "O zaplacení 4 299 Kč s příslušenstvím",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-04-23",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 1931 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 2193 z. č. 89/2012 Sb.",
+      "§ 173 z. č. 99/1963 Sb.",
+      "§ 2913 z. č. 89/2012 Sb.",
+      "§ 1976 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/82cf2d1a-48b6-440c-9c60-3e67d3a5c846"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
