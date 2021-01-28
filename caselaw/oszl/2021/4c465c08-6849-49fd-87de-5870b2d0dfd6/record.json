@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2021:28.C.6.2021.1",
+  "docket": "28 C 6/2021-20",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4c465c08-6849-49fd-87de-5870b2d0dfd6",
+  "source_sha256": "f9b4a3f7b1f6bfea92b5391b29283304d138af3f4fc6bfc003bd9dc06e15b289",
+  "source_id": "4c465c08-6849-49fd-87de-5870b2d0dfd6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 6/2021-20",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "JUDr. Eva Bučková",
+    "ecli": "ECLI:CZ:OSZL:2021:28.C.6.2021.1",
+    "predmetRizeni": "zaplacení 945 Kč s příslušenstvím",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-03-03",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 6 z. č. 348/2005 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 153 z. č. 99/1963 Sb.",
+      "§  z. č. 483/1991 Sb.",
+      "§  vyhl. č. 245/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4c465c08-6849-49fd-87de-5870b2d0dfd6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
