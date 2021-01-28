@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:41.C.125.2020.1",
+  "docket": "41 C 125/2020-40",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fb12b4a9-16e8-43ab-8716-041934ab66f2",
+  "source_sha256": "1224ddc0d1f59817c486ad46b7ab00e8594eba92f6a4db566b48ec3591c811d8",
+  "source_id": "fb12b4a9-16e8-43ab-8716-041934ab66f2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "41 C 125/2020-40",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "JUDr. Denisa Georgesová",
+    "ecli": "ECLI:CZ:OSBI:2021:41.C.125.2020.1",
+    "predmetRizeni": "O zaplacení 5 000 Kč s příslušenstvím",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-03-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 142/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fb12b4a9-16e8-43ab-8716-041934ab66f2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
