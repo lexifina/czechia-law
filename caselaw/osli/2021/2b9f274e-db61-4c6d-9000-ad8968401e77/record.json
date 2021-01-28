@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:22.C.206.2020.1",
+  "docket": "22 C 206/2020-18",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2b9f274e-db61-4c6d-9000-ad8968401e77",
+  "source_sha256": "13eec3ee8f9e19e55f0e6a7d34445a2165f7540c66557a7f8c55b3d7ad616359",
+  "source_id": "2b9f274e-db61-4c6d-9000-ad8968401e77",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 206/2020-18",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Tomáš Kopal",
+    "ecli": "ECLI:CZ:OSLI:2021:22.C.206.2020.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 29.896,95 Kč s přísl.",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "dražba",
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1802 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb.",
+      "§ 1751 z. č. 89/2012 Sb.",
+      "§ 562 z. č. 89/2012 Sb.",
+      "§ 2662 z. č. 89/2012 Sb.",
+      "§ 559 z. č. 89/2012 Sb.",
+      "§ 1757 z. č. 89/2012 Sb.",
+      "§ 1758 z. č. 89/2012 Sb.",
+      "§ 2668 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2b9f274e-db61-4c6d-9000-ad8968401e77"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
