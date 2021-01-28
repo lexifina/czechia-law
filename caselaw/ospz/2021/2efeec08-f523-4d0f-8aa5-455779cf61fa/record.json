@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2021:8.C.34.2021.1",
+  "docket": "8 C 34/2021-16",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2efeec08-f523-4d0f-8aa5-455779cf61fa",
+  "source_sha256": "8359a6261d21f638abce08c93af167d46eed0a799dc506f90c8d73ea5428c06d",
+  "source_id": "2efeec08-f523-4d0f-8aa5-455779cf61fa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 34/2021-16",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "Mgr. Štěpánka Tůmová",
+    "ecli": "ECLI:CZ:OSPZ:2021:8.C.34.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-05-18",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 207 z. č. 99/1963 Sb.",
+      "§ 14b vyhl. č. 120/2014 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2efeec08-f523-4d0f-8aa5-455779cf61fa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
