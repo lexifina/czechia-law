@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2021:14.C.186.2020.3",
+  "docket": "14 C 186/2020-40",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c2d1291b-40e2-4c1b-9ea9-73e63e56998a",
+  "source_sha256": "8cf5cdd72250e30436449a9cd6510caf5bb4fc6f386cd1c72ad04a716b5d0d4f",
+  "source_id": "c2d1291b-40e2-4c1b-9ea9-73e63e56998a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 186/2020-40",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "JUDr. Ivana Bačová",
+    "ecli": "ECLI:CZ:OSNJ:2021:14.C.186.2020.3",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-02-25",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c2d1291b-40e2-4c1b-9ea9-73e63e56998a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
