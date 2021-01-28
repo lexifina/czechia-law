@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:15.C.327.2020.1",
+  "docket": "15 C 327/2020-18",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ba964e59-e105-42a8-a1a5-4fa4ce184db2",
+  "source_sha256": "a2cda4cade22723e1db919100a8ae6024d8dcee3b52a28db8abdc0fdbe4bd0a1",
+  "source_id": "ba964e59-e105-42a8-a1a5-4fa4ce184db2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 327/2020-18",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "JUDr. Ladislava Olbrechtová",
+    "ecli": "ECLI:CZ:OSFM:2021:15.C.327.2020.1",
+    "predmetRizeni": "O zaplacení 5 636 Kč s příslušenstvím",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ba964e59-e105-42a8-a1a5-4fa4ce184db2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
