@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:54.C.185.2020.1",
+  "docket": "54 C 185/2020-52",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/82dd05a5-8628-4910-8f32-d8e805932805",
+  "source_sha256": "9b8e0fa23d7042367098f2c8fd3a19081c2eee6fd5474d206ef0521c458eeeb3",
+  "source_id": "82dd05a5-8628-4910-8f32-d8e805932805",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "54 C 185/2020-52",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Daniela Schwarzová",
+    "ecli": "ECLI:CZ:MSBR:2021:54.C.185.2020.1",
+    "predmetRizeni": "zaplacení 3.095,29 Kč s příslušenstvím - faktura",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115 z. č. 99/1963 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 71 z. č. 458/2000 Sb.",
+      "§ 119 vyhl. č. 349/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/82dd05a5-8628-4910-8f32-d8e805932805"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
