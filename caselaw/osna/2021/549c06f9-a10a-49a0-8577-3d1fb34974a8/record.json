@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:15.C.298.2020.1",
+  "docket": "15 C 298/2020-20",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/549c06f9-a10a-49a0-8577-3d1fb34974a8",
+  "source_sha256": "33e4341dbe59ced9500cca3dc6ab19bd9b3ba549a6334f8a77c04d9d1b2ea987",
+  "source_id": "549c06f9-a10a-49a0-8577-3d1fb34974a8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 298/2020-20",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "Mgr. Eva Drahorádová",
+    "ecli": "ECLI:CZ:OSNA:2021:15.C.298.2020.1",
+    "predmetRizeni": "o zaplacení 6 276,30 Kč s příslušenstvím (úvěr)",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-03-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/549c06f9-a10a-49a0-8577-3d1fb34974a8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
