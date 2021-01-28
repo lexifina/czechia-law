@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:10.C.30.2020.1",
+  "docket": "10 C 30/2020-171",
+  "date": "2021-01-28",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c502da44-73ae-4f6d-a520-4888a8977b67",
+  "source_sha256": "42bf9ff404612d66338d5976b4514a39fe0cd91d222beccd76acb710499d1318",
+  "source_id": "c502da44-73ae-4f6d-a520-4888a8977b67",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 30/2020-171",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Lenka Pávková",
+    "ecli": "ECLI:CZ:OSTA:2021:10.C.30.2020.1",
+    "predmetRizeni": "o náhradu majetkové a nemajetkové újmy",
+    "datumVydani": "2021-01-28",
+    "datumZverejneni": "2021-10-22",
+    "klicovaSlova": [
+      "duševní porucha",
+      "duševní útrapy",
+      "náhrada nemajetkové újmy",
+      "náhrada za ztrátu na výdělku",
+      "nemajetková újma",
+      "osoba blízká",
+      "peněžité plnění",
+      "zadostiučinění / satisfakce",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2959 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c502da44-73ae-4f6d-a520-4888a8977b67"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
