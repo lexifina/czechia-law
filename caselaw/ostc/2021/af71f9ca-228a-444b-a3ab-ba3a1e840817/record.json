@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Tachově",
+  "ecli": "ECLI:CZ:OSTC:2021:4.C.325.2020.1",
+  "docket": "4 C 325/2020-19",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/af71f9ca-228a-444b-a3ab-ba3a1e840817",
+  "source_sha256": "d3a00f81962b79d434da6028d0e58fdf9148595077faf84f24d337c40800dcae",
+  "source_id": "af71f9ca-228a-444b-a3ab-ba3a1e840817",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 325/2020-19",
+    "soud": "Okresní soud v Tachově",
+    "autor": "Mgr. Kateřina Edlová",
+    "ecli": "ECLI:CZ:OSTC:2021:4.C.325.2020.1",
+    "predmetRizeni": "O zaplacení 13 200 Kč s příslušenstvím",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-04-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/af71f9ca-228a-444b-a3ab-ba3a1e840817"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
