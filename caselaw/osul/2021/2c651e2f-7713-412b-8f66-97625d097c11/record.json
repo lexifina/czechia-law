@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:30.C.412.2020.2",
+  "docket": "30 C 412/2020-20",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2c651e2f-7713-412b-8f66-97625d097c11",
+  "source_sha256": "21b6fe66bf37a82775fce39c18bf4ee66c0fc9d1a9ed060c87e175b7035926cf",
+  "source_id": "2c651e2f-7713-412b-8f66-97625d097c11",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 412/2020-20",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Petr Bílý",
+    "ecli": "ECLI:CZ:OSUL:2021:30.C.412.2020.2",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-02-17",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 389 z. č. 292/2013 Sb.",
+      "§ 14 z. č. 328/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2c651e2f-7713-412b-8f66-97625d097c11"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
