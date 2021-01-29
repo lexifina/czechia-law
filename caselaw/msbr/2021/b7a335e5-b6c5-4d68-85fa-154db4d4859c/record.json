@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:38.C.179.2020.1",
+  "docket": "38 C 179/2020-24",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b7a335e5-b6c5-4d68-85fa-154db4d4859c",
+  "source_sha256": "b0ac8ad86b5b8e829125e79bcce519bf2bba88670972846c71c1bd4897c5d34d",
+  "source_id": "b7a335e5-b6c5-4d68-85fa-154db4d4859c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 179/2020-24",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Ivo Kadrmas",
+    "ecli": "ECLI:CZ:MSBR:2021:38.C.179.2020.1",
+    "predmetRizeni": "zaplacení 44.431 Kč s příslušenstvím - nájemné",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-07-09",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b7a335e5-b6c5-4d68-85fa-154db4d4859c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
