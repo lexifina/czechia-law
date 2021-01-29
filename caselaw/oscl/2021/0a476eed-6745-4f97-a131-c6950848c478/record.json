@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:15.C.333.2020.2",
+  "docket": "15 C 333/2020-27",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0a476eed-6745-4f97-a131-c6950848c478",
+  "source_sha256": "b5d8c26343baef24c41f8efe5dd6c50191b0242a5dea250db056c9eeebbd52b9",
+  "source_id": "0a476eed-6745-4f97-a131-c6950848c478",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 333/2020-27",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "JUDr. Alena Divíšková",
+    "ecli": "ECLI:CZ:OSCL:2021:15.C.333.2020.2",
+    "predmetRizeni": "3.780 Kč s přísl. - tel. poplatek",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-02-24",
+    "klicovaSlova": [
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 2 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0a476eed-6745-4f97-a131-c6950848c478"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
