@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2021:13.C.27.2021.1",
+  "docket": "13 C 27/2021-15",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/70bd31ff-5dbf-441b-a392-418138dad24f",
+  "source_sha256": "0b3eab6a7717c0488df532476e27b4e8ad8c6402e249df52281b46e64d752189",
+  "source_id": "70bd31ff-5dbf-441b-a392-418138dad24f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 27/2021-15",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "Mgr. Jiří Pacovský",
+    "ecli": "ECLI:CZ:OSPZ:2021:13.C.27.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-09-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "regulační poplatek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 207 z. č. 99/1963 Sb.",
+      "§ 16a z. č. 48/1997 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/70bd31ff-5dbf-441b-a392-418138dad24f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
