@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:12.C.169.2020.1",
+  "docket": "12 C 169/2020-46",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cff7fe0c-181c-4146-a31d-e421d6f65366",
+  "source_sha256": "ad03b55f3250ae24ed84574cdc5ee12253364a864c61e5f9e1b74cb7bbbc0bcb",
+  "source_id": "cff7fe0c-181c-4146-a31d-e421d6f65366",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 169/2020-46",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Jan Špalek",
+    "ecli": "ECLI:CZ:OSPM:2021:12.C.169.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-04-06",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 72 z. č. 458/2000 Sb.",
+      "§ 2709 z. č. 89/2012 Sb.",
+      "§ 1970 z. č. 89/2018 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cff7fe0c-181c-4146-a31d-e421d6f65366"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
