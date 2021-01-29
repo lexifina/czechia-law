@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kolíně",
+  "ecli": "ECLI:CZ:OSKO:2021:17.C.259.2020.1",
+  "docket": "17 C 259/2020-14",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c6b264a2-23ec-4483-aa64-8b98ddf77734",
+  "source_sha256": "1094a3b9b9eb3514de38f27ce34d468a80084f192fa501fc69c2e527842523b1",
+  "source_id": "c6b264a2-23ec-4483-aa64-8b98ddf77734",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 259/2020-14",
+    "soud": "Okresní soud v Kolíně",
+    "autor": "JUDr. Martina Suchánková",
+    "ecli": "ECLI:CZ:OSKO:2021:17.C.259.2020.1",
+    "predmetRizeni": "O zaplacení 2 000 Kč s příslušenstvím",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-06-21",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 64 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c6b264a2-23ec-4483-aa64-8b98ddf77734"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
