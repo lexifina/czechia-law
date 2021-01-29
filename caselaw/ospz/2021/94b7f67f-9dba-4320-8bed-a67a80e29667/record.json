@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2021:13.C.51.2020.1",
+  "docket": "13 C 51/2020-65",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/94b7f67f-9dba-4320-8bed-a67a80e29667",
+  "source_sha256": "af1be0839851a78eb6cedaf3671f426bb1c819919c639379b660f3b73ec4f144",
+  "source_id": "94b7f67f-9dba-4320-8bed-a67a80e29667",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 51/2020-65",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "Mgr. Jiří Pacovský",
+    "ecli": "ECLI:CZ:OSPZ:2021:13.C.51.2020.1",
+    "predmetRizeni": "Návrh na rovod manželství",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-02-25",
+    "klicovaSlova": [
+      "domácí násilí",
+      "opuštění rodinné domácnosti",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 395 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/94b7f67f-9dba-4320-8bed-a67a80e29667"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
