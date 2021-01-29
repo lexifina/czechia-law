@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2021:19.C.138.2020.1",
+  "docket": "19 C 138/2020-27",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9df6fd77-6643-4343-80ed-9c94e74d1f15",
+  "source_sha256": "876ce79403da072ff4601b503f68d8718935919fc01bb3572b7465ba26c48459",
+  "source_id": "9df6fd77-6643-4343-80ed-9c94e74d1f15",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 138/2020-27",
+    "soud": "Okresní soud v Přerově",
+    "autor": "Mgr. Jana Malá, LL.M.",
+    "ecli": "ECLI:CZ:OSPR:2021:19.C.138.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-02-15",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 89/2012 Sb.",
+      "§ 389 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9df6fd77-6643-4343-80ed-9c94e74d1f15"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
