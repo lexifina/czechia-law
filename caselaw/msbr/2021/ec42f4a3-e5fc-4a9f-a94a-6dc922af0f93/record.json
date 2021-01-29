@@ -1,0 +1,50 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:35.C.31.2019.1",
+  "docket": "35 C 31/2019-64",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ec42f4a3-e5fc-4a9f-a94a-6dc922af0f93",
+  "source_sha256": "e7708b6352c1ff01795fc3f6160afa4578e432a34b262c8d1a1afe5751bbf084",
+  "source_id": "ec42f4a3-e5fc-4a9f-a94a-6dc922af0f93",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "35 C 31/2019-64",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Dana Daňková",
+    "ecli": "ECLI:CZ:MSBR:2021:35.C.31.2019.1",
+    "predmetRizeni": "zaplacení 3.491 Kč s příslušenstvím - faktura",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-03-15",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o obchodním zastoupení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 1751 z. č. 89/2012 Sb.",
+      "§ 1800 z. č. 89/2012 Sb.",
+      "§ 513 nař. vl. č. 351/2013 Sb.",
+      "§ 2483 z. č. 89/2012 Sb.",
+      "§  z. č. 363/1999 Sb.",
+      "§  z. č. 38/2004 Sb.",
+      "§ 1799 z. č. 89/2012 Sb.",
+      "§ 2493 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ec42f4a3-e5fc-4a9f-a94a-6dc922af0f93"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
