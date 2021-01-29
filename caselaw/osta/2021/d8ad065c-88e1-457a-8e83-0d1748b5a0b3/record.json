@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:13.C.4.2021.1",
+  "docket": "13 C 4/2021-14",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d8ad065c-88e1-457a-8e83-0d1748b5a0b3",
+  "source_sha256": "111d33f60375796804b663d88bca9246766aee302e43e0d7635dae4f74be62cd",
+  "source_id": "d8ad065c-88e1-457a-8e83-0d1748b5a0b3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 4/2021-14",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Roman Winkler",
+    "ecli": "ECLI:CZ:OSTA:2021:13.C.4.2021.1",
+    "predmetRizeni": "O zaplacení 2 076 Kč s příslušenstvím",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-03-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d8ad065c-88e1-457a-8e83-0d1748b5a0b3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
