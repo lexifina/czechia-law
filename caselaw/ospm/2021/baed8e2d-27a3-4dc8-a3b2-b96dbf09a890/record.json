@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:16.C.136.2020.1",
+  "docket": "16 C 136/2020-35",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/baed8e2d-27a3-4dc8-a3b2-b96dbf09a890",
+  "source_sha256": "4c63ea4a9259da999ac49006c28f7cb8ef8fc18682453677f51c0e5f4fa06a7e",
+  "source_id": "baed8e2d-27a3-4dc8-a3b2-b96dbf09a890",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 136/2020-35",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Ing. Miroslav Skala",
+    "ecli": "ECLI:CZ:OSPM:2021:16.C.136.2020.1",
+    "predmetRizeni": "O zaplacení 2 625,09 Kč s příslušenstvím",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-04-23",
+    "klicovaSlova": [
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/baed8e2d-27a3-4dc8-a3b2-b96dbf09a890"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
