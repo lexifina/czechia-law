@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:17.C.337.2020.1",
+  "docket": "17 C 337/2020-14",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bda218df-eab1-42e3-a056-88e2ca816c58",
+  "source_sha256": "fd932998b2b64a206677feaaf5bc35110e24dbd5a9e04a6d5de75f6acb9b4b53",
+  "source_id": "bda218df-eab1-42e3-a056-88e2ca816c58",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 337/2020-14",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "JUDr. Jaroslava Volná",
+    "ecli": "ECLI:CZ:OSFM:2021:17.C.337.2020.1",
+    "predmetRizeni": "O zaplacení 4 912 Kč s příslušenstvím",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-04-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§  z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bda218df-eab1-42e3-a056-88e2ca816c58"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
