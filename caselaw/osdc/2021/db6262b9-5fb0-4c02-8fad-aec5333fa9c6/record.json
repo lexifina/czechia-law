@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:26.C.7.2021.1",
+  "docket": "26 C 7/2021-26",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/db6262b9-5fb0-4c02-8fad-aec5333fa9c6",
+  "source_sha256": "72ac39975aec76024498400ab7c3bb00048fd1c9bfc579a26128793cc4fed282",
+  "source_id": "db6262b9-5fb0-4c02-8fad-aec5333fa9c6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 7/2021-26",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Diana Fujdiak",
+    "ecli": "ECLI:CZ:OSDC:2021:26.C.7.2021.1",
+    "predmetRizeni": "O zaplacení [částka]",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-03-19",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 63 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/db6262b9-5fb0-4c02-8fad-aec5333fa9c6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
