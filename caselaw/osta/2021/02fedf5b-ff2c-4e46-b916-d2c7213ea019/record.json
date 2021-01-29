@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:9.C.13.2021.1",
+  "docket": "9 C 13/2021",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/02fedf5b-ff2c-4e46-b916-d2c7213ea019",
+  "source_sha256": "e108a8e7f336511663e06f2bf397911da00e08665e738480eb1c9d549a33ad56",
+  "source_id": "02fedf5b-ff2c-4e46-b916-d2c7213ea019",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 13/2021",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Ivana Jakšičová",
+    "ecli": "ECLI:CZ:OSTA:2021:9.C.13.2021.1",
+    "predmetRizeni": "O zaplacení 1 140 Kč s příslušenstvím",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-02-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 89/2012 Sb.",
+      "§ 15 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/02fedf5b-ff2c-4e46-b916-d2c7213ea019"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
