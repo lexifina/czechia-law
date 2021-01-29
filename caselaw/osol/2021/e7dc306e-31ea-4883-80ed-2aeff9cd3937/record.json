@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:19.C.235.2020.1",
+  "docket": "19 C 235/2020-37",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e7dc306e-31ea-4883-80ed-2aeff9cd3937",
+  "source_sha256": "e3c891e8cded55178a66ff91245fd9c0e33a34bfd89dc43d8cf74e9c30b9dacd",
+  "source_id": "e7dc306e-31ea-4883-80ed-2aeff9cd3937",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 235/2020-37",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "JUDr. Miroslava Dvořáková",
+    "ecli": "ECLI:CZ:OSOL:2021:19.C.235.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-02-01",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 384 z. č. 292/2013 Sb.",
+      "§ 43 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e7dc306e-31ea-4883-80ed-2aeff9cd3937"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
