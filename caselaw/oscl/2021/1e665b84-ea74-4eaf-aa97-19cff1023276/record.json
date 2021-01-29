@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:36.C.184.2020.2",
+  "docket": "36 C 184/2020-18",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1e665b84-ea74-4eaf-aa97-19cff1023276",
+  "source_sha256": "1130c91822852843bf8041612d66b19772e8f2ac9c0a7490235d54b4c740235d",
+  "source_id": "1e665b84-ea74-4eaf-aa97-19cff1023276",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 184/2020-18",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Alena Turaiová",
+    "ecli": "ECLI:CZ:OSCL:2021:36.C.184.2020.2",
+    "predmetRizeni": "O zaplacení 11 739 Kč s příslušenstvím",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-04-12",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2 vyhl. č. 205/1999 Sb.",
+      "§ 2a vyhl. č. 205/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1e665b84-ea74-4eaf-aa97-19cff1023276"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
