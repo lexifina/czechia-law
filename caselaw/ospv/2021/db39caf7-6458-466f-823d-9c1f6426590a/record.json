@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:6.C.190.2020.1",
+  "docket": "6 C 190/2020",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/db39caf7-6458-466f-823d-9c1f6426590a",
+  "source_sha256": "0ce0e0f1c606006ed51ead71ec7f293062091c1369134612984d4f5da0ca0736",
+  "source_id": "db39caf7-6458-466f-823d-9c1f6426590a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 190/2020",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. František Jurtík",
+    "ecli": "ECLI:CZ:OSPV:2021:6.C.190.2020.1",
+    "predmetRizeni": "2.500 Kč s přísl.",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-03-16",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 89e z. č. 373/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/db39caf7-6458-466f-823d-9c1f6426590a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
