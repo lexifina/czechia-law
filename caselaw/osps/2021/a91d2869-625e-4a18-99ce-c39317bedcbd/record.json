@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:7.C.423.2020.2",
+  "docket": "7 C 423/2020-15",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a91d2869-625e-4a18-99ce-c39317bedcbd",
+  "source_sha256": "10ff72adb69e81d6c71fe29a5f4d2b337ff43551c8abede6d2d7c3902e07019a",
+  "source_id": "a91d2869-625e-4a18-99ce-c39317bedcbd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 423/2020-15",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "Mgr. Jarmila Millerová",
+    "ecli": "ECLI:CZ:OSPS:2021:7.C.423.2020.2",
+    "predmetRizeni": "48 339,39 Kč s přísl.",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-04-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění úvěru",
+      "smlouva o úvěru",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 497 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a91d2869-625e-4a18-99ce-c39317bedcbd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
