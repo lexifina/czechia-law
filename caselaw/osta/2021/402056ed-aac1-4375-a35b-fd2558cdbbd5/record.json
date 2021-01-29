@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:13.C.140.2020.1",
+  "docket": "13 C 140/2020-10",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/402056ed-aac1-4375-a35b-fd2558cdbbd5",
+  "source_sha256": "03a16d8f3432b464225ebe21840d5404b75398590c08ccbac31c192ef5eb98e1",
+  "source_id": "402056ed-aac1-4375-a35b-fd2558cdbbd5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 140/2020-10",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Roman Winkler",
+    "ecli": "ECLI:CZ:OSTA:2021:13.C.140.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-02-26",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 757 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/402056ed-aac1-4375-a35b-fd2558cdbbd5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
