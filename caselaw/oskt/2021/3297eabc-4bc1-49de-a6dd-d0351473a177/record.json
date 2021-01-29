@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2021:8.C.279.2020.1",
+  "docket": "8 C 279/2020-91",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3297eabc-4bc1-49de-a6dd-d0351473a177",
+  "source_sha256": "30d74bea835e38b2bcd2b865a483bbb63d7dcb533c818affc7975e45e13ec37d",
+  "source_id": "3297eabc-4bc1-49de-a6dd-d0351473a177",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 279/2020-91",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "Mgr. Martin Matějíček",
+    "ecli": "ECLI:CZ:OSKT:2021:8.C.279.2020.1",
+    "predmetRizeni": "zaplacení [částka]",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-03-31",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3297eabc-4bc1-49de-a6dd-d0351473a177"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
