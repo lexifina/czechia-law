@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:19.C.344.2019.6",
+  "docket": "19 C 344/2019-130",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c698276b-ba51-4685-a43f-24ee4c44c340",
+  "source_sha256": "0d7cda53348a28ef9b787b93158cec9ec550b9f99b203bc9ba155b34eae16af8",
+  "source_id": "c698276b-ba51-4685-a43f-24ee4c44c340",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 344/2019-130",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "JUDr. Miroslava Dvořáková",
+    "ecli": "ECLI:CZ:OSOL:2021:19.C.344.2019.6",
+    "predmetRizeni": "o neplatnost výpovědi z nájmu bytu",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-03-11",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2286 z. č. 89/2012 Sb.",
+      "§ 12 vyhl. č. 177/1996 Sb.",
+      "§ 2288 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c698276b-ba51-4685-a43f-24ee4c44c340"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
