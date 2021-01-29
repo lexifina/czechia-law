@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Krajský soud v Praze",
+  "ecli": "ECLI:CZ:KSPH:2021:76.Cm.110.2020 .1",
+  "docket": "76 CM 110/2020-24",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ef16cf27-1bc3-49f3-90c8-49160d0a8361",
+  "source_sha256": "aa9c52d5dac9f78fa131cb77e59b65b315f34af168b27903a4695f5972d7bd54",
+  "source_id": "ef16cf27-1bc3-49f3-90c8-49160d0a8361",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "76 CM 110/2020-24",
+    "soud": "Krajský soud v Praze",
+    "autor": "Mgr. Alena Watzková",
+    "ecli": "ECLI:CZ:KSPH:2021:76.Cm.110.2020 .1",
+    "predmetRizeni": "o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-09-03",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 75 z. č. 191/1950 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ef16cf27-1bc3-49f3-90c8-49160d0a8361"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
