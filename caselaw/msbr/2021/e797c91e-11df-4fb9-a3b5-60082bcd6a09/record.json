@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:42.C.226.2020.1",
+  "docket": "42 C 226/2020-32",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e797c91e-11df-4fb9-a3b5-60082bcd6a09",
+  "source_sha256": "2fd6695c911f77cdf95c2b708ed90416e831d7dab1161cbc2d0782f78f66d792",
+  "source_id": "e797c91e-11df-4fb9-a3b5-60082bcd6a09",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 226/2020-32",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Petra Sedláčková",
+    "ecli": "ECLI:CZ:MSBR:2021:42.C.226.2020.1",
+    "predmetRizeni": "zaplacení 1.109 Kč s příslušenstvím - jízdné",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "jízdné",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  vyhl. č. 175/2000 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2578 z. č. 89/2012 Sb.",
+      "§ 137 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e797c91e-11df-4fb9-a3b5-60082bcd6a09"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
