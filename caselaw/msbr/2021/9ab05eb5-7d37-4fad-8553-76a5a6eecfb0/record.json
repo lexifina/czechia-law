@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:238.C.11.2020.1",
+  "docket": "238 C 11/2020-68",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9ab05eb5-7d37-4fad-8553-76a5a6eecfb0",
+  "source_sha256": "424fce8ee2f11e450505e91a23ada8f441adc572581d980fc47e58bbf0e1a965",
+  "source_id": "9ab05eb5-7d37-4fad-8553-76a5a6eecfb0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "238 C 11/2020-68",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Ivo Kadrmas",
+    "ecli": "ECLI:CZ:MSBR:2021:238.C.11.2020.1",
+    "predmetRizeni": "zaplacení částky 76.094 Kč s příslušenstvím - uznání dluhu",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-10-11",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "uznání dluhu",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 2053 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9ab05eb5-7d37-4fad-8553-76a5a6eecfb0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
