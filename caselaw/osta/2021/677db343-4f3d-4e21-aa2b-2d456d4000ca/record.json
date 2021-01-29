@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:13.C.141.2020.1",
+  "docket": "13 C 141/2020-15",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/677db343-4f3d-4e21-aa2b-2d456d4000ca",
+  "source_sha256": "1251570c5305cee97acfae6e70cb4b59f9b1d91c1119cb64a730c3c65699179c",
+  "source_id": "677db343-4f3d-4e21-aa2b-2d456d4000ca",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 141/2020-15",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Roman Winkler",
+    "ecli": "ECLI:CZ:OSTA:2021:13.C.141.2020.1",
+    "predmetRizeni": "O zaplacení 4 436 Kč s příslušenstvím",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-03-19",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/677db343-4f3d-4e21-aa2b-2d456d4000ca"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
