@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Berouně",
+  "ecli": "ECLI:CZ:OSBR:2021:18.C.264.2020.1",
+  "docket": "18 C 264/2020",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d90148dc-5c41-43a4-9bf9-67e03a6de44a",
+  "source_sha256": "253f4626f215cd8ce0729c76c0f13ab44ae2c713085b2efc0d07b4981fa12204",
+  "source_id": "d90148dc-5c41-43a4-9bf9-67e03a6de44a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 264/2020",
+    "soud": "Okresní soud v Berouně",
+    "autor": "Mgr. Veronika Sekerová",
+    "ecli": "ECLI:CZ:OSBR:2021:18.C.264.2020.1",
+    "predmetRizeni": "O zaplacení 1 422 Kč s příslušenstvím",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-02-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 2759 z. č. 89/2012 Sb.",
+      "§ 13 z. č. 168/1992 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d90148dc-5c41-43a4-9bf9-67e03a6de44a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
