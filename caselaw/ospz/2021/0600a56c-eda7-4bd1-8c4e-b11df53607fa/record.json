@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2021:8.C.39.2021.1",
+  "docket": "8 C 39/2021-17",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0600a56c-eda7-4bd1-8c4e-b11df53607fa",
+  "source_sha256": "a039c834c16af7e46edc03ecf698d73e5f1e8c86e45c74ec3b25ab3b5d8ceb54",
+  "source_id": "0600a56c-eda7-4bd1-8c4e-b11df53607fa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 39/2021-17",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "Mgr. Štěpánka Tůmová",
+    "ecli": "ECLI:CZ:OSPZ:2021:8.C.39.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-04-28",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2550 vyhl. č. 175/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0600a56c-eda7-4bd1-8c4e-b11df53607fa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
