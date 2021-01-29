@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:34.C.343.2020.1",
+  "docket": "34 C 343/2020-31",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d1c678b3-94cb-496b-9bd1-2ce5d7fc30ba",
+  "source_sha256": "dfd028a8e4da70ae81388a16038011a3450a708905a35e881b851e5427383abe",
+  "source_id": "d1c678b3-94cb-496b-9bd1-2ce5d7fc30ba",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 343/2020-31",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Zuzana Brzobohatá",
+    "ecli": "ECLI:CZ:OSPY:2021:34.C.343.2020.1",
+    "predmetRizeni": "O zaplacení 3 420 Kč s příslušenstvím",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-03-11",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2 vyhl. č. 205/1999 Sb.",
+      "§ 251 z. č. 120/2001 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d1c678b3-94cb-496b-9bd1-2ce5d7fc30ba"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
