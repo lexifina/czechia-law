@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:6.C.247.2020.1",
+  "docket": "6 C 247/2020-42",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/af956c6c-b15c-42ca-b39a-72dd0336fa79",
+  "source_sha256": "7f00897ca57c07acb449aa92ce1cfdb0d6f46d0a3a2caf8bebb6ac7a63a09e0a",
+  "source_id": "af956c6c-b15c-42ca-b39a-72dd0336fa79",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 247/2020-42",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. František Jurtík",
+    "ecli": "ECLI:CZ:OSPV:2021:6.C.247.2020.1",
+    "predmetRizeni": "zaplacení 4.600 Kč s příslušenstvím",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-03-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 64 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/af956c6c-b15c-42ca-b39a-72dd0336fa79"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
