@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:24.C.219.2020.1",
+  "docket": "24 C 219/2020-52",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c2754e2f-19df-4125-899b-efb07291e0cc",
+  "source_sha256": "8edaf24b53cb00f1ec99eb8b02a8cf6ad90265d2dbac44c6df58706f4677e2fd",
+  "source_id": "c2754e2f-19df-4125-899b-efb07291e0cc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 219/2020-52",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Filip Toman",
+    "ecli": "ECLI:CZ:OSCV:2021:24.C.219.2020.1",
+    "predmetRizeni": "zaplacení 5 700 Kč s příslušenstvím (úvěr)",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-04-12",
+    "klicovaSlova": [
+      "doménové jméno",
+      "elektronický podpis",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§  z. č. 257/2016 Sb.",
+      "§ 562 z. č. 89/2012 Sb.",
+      "§ 561 z. č. 89/2012 Sb.",
+      "§ 582 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c2754e2f-19df-4125-899b-efb07291e0cc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
