@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:17.C.319.2020.1",
+  "docket": "17 C 319/2020-18",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3f261d68-0cef-42f9-ad30-320a2b4c08d9",
+  "source_sha256": "2c81a01d31a6ae1aad96faae0ebb38abc24c1bb339ad36c44e60c88e102dd238",
+  "source_id": "3f261d68-0cef-42f9-ad30-320a2b4c08d9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 319/2020-18",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "JUDr. Jaroslava Volná",
+    "ecli": "ECLI:CZ:OSFM:2021:17.C.319.2020.1",
+    "predmetRizeni": "O zaplacení 12 668 Kč s příslušenstvím",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-04-07",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "příspěvek na bydlení",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3f261d68-0cef-42f9-ad30-320a2b4c08d9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
