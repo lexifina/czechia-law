@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2021:8.C.212.2020.1",
+  "docket": "8 C 212/2020-54",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fff30577-1226-46e0-8659-6b6163f9945b",
+  "source_sha256": "79321cf7980ce125ae938dd53b02bfdad12087f5b0a6b6897d29a7eda115c186",
+  "source_id": "fff30577-1226-46e0-8659-6b6163f9945b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 212/2020-54",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Hedvika Lávičková",
+    "ecli": "ECLI:CZ:OSBN:2021:8.C.212.2020.1",
+    "predmetRizeni": "o zaplacení 582.888 Kč s příslušenstvím",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-04-06",
+    "klicovaSlova": [
+      "insolvenční návrh",
+      "oddlužení",
+      "peněžité plnění",
+      "prodlení věřitele",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2894 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fff30577-1226-46e0-8659-6b6163f9945b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
