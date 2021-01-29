@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:6.C.165.2020.1",
+  "docket": "6 C 165/2020-46",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a2b4a483-85f3-4561-ae00-b67994be3fd6",
+  "source_sha256": "2741c7dec65f8e98ddd57ed32a6c0e76761f260f05a092324d42ce69ed37400a",
+  "source_id": "a2b4a483-85f3-4561-ae00-b67994be3fd6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 165/2020-46",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. František Jurtík",
+    "ecli": "ECLI:CZ:OSPV:2021:6.C.165.2020.1",
+    "predmetRizeni": "[částka] s přísl.",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 8 z. č. 274/2001 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a2b4a483-85f3-4561-ae00-b67994be3fd6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
