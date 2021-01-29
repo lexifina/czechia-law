@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2021:9.C.209.2020.1",
+  "docket": "9 C 209/2020-20",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a5597211-ce3d-487d-ad15-99e8abada3a5",
+  "source_sha256": "38baaf7f639472545ecde2e4542423ea91792df69f4b67bd258fcb790a637629",
+  "source_id": "a5597211-ce3d-487d-ad15-99e8abada3a5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 209/2020-20",
+    "soud": "Okresní soud v Lounech",
+    "autor": "Mgr. Tomáš Machytka",
+    "ecli": "ECLI:CZ:OSLN:2021:9.C.209.2020.1",
+    "predmetRizeni": "O zaplacení 1 873 Kč s příslušenstvím",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-03-17",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a5597211-ce3d-487d-ad15-99e8abada3a5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
