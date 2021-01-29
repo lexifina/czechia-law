@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Berouně",
+  "ecli": "ECLI:CZ:OSBR:2021:19.C.26.2020.1",
+  "docket": "19 C 26/2020-80",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4552e620-e4e1-4ddd-a714-505bda65530e",
+  "source_sha256": "121e7dbc18ee2b7d43320579b4fbeb50cc6336237229e5b1e298225f263e3dd6",
+  "source_id": "4552e620-e4e1-4ddd-a714-505bda65530e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 26/2020-80",
+    "soud": "Okresní soud v Berouně",
+    "autor": "Mgr. Hana Stehlik vodrážková",
+    "ecli": "ECLI:CZ:OSBR:2021:19.C.26.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-03-03",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 11 z. č. 549/1991 Sb.",
+      "§ 7 z. č. 549/1991 Sb.",
+      "§ 251 z. č. 120/2001 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4552e620-e4e1-4ddd-a714-505bda65530e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
