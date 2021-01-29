@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2021:7.C.18.2021.1",
+  "docket": "7 C 18/2021-11",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/87af1063-9751-4c2d-8067-8aa4eab28c86",
+  "source_sha256": "baa5b4584b8718978f169aa075e74292e5c94a416b57909e666dde9bcb9c6020",
+  "source_id": "87af1063-9751-4c2d-8067-8aa4eab28c86",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 18/2021-11",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "Mgr. Luboš Koranda",
+    "ecli": "ECLI:CZ:OSKT:2021:7.C.18.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-05-24",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 757 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/87af1063-9751-4c2d-8067-8aa4eab28c86"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
