@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chrudimi",
+  "ecli": "ECLI:CZ:OSCR:2021:12.C.290.2020.1",
+  "docket": "12 C 290/2020-23",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e83acf36-ea26-426b-a82f-6441704acc6b",
+  "source_sha256": "7ffd3652af0c96112c6b9fbfa7dd7d355d435cf4fb9f6c393599f55d2bb94462",
+  "source_id": "e83acf36-ea26-426b-a82f-6441704acc6b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 290/2020-23",
+    "soud": "Okresní soud v Chrudimi",
+    "autor": "Mgr. Eva Bačkovská",
+    "ecli": "ECLI:CZ:OSCR:2021:12.C.290.2020.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-02-23",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e83acf36-ea26-426b-a82f-6441704acc6b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
