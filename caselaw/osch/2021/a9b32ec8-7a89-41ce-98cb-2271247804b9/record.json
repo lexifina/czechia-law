@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:8.C.526.2020.2",
+  "docket": "8 C 526/2020-15",
+  "date": "2021-01-29",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a9b32ec8-7a89-41ce-98cb-2271247804b9",
+  "source_sha256": "d713ab01530e0abd85dca88719ece6ad7442765f1c036ea09d464e640b32d807",
+  "source_id": "a9b32ec8-7a89-41ce-98cb-2271247804b9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 526/2020-15",
+    "soud": "Okresní soud v Chebu",
+    "autor": "JUDr. Martin Skalický",
+    "ecli": "ECLI:CZ:OSCH:2021:8.C.526.2020.2",
+    "predmetRizeni": "O zaplacení 1 000 Kč s příslušenstvím",
+    "datumVydani": "2021-01-29",
+    "datumZverejneni": "2021-03-22",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a9b32ec8-7a89-41ce-98cb-2271247804b9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
