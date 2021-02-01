@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2021:26.C.335.2020.1",
+  "docket": "26 C 335/2020-22",
+  "date": "2021-02-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d01d29b9-f56d-48aa-a6e1-4c84089fc8e1",
+  "source_sha256": "2fc538262e3fb6c68e6b37a123b76742e8ad9a32bcef95f3925ed078c4b07187",
+  "source_id": "d01d29b9-f56d-48aa-a6e1-4c84089fc8e1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 335/2020-22",
+    "soud": "Okresní soud v Opavě",
+    "autor": "Mgr. Vladimír Tománek",
+    "ecli": "ECLI:CZ:OSOP:2021:26.C.335.2020.1",
+    "predmetRizeni": "o zaplacení 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-02-01",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 173 z. č. 99/1963 Sb.",
+      "§ 1723 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d01d29b9-f56d-48aa-a6e1-4c84089fc8e1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
