@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:12.C.243.2020.1",
+  "docket": "12 C 243/2020-92",
+  "date": "2021-02-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0c53bc1a-3bbc-4b7c-8144-5bb43bae7e6e",
+  "source_sha256": "72db98104fee8f49d94917a3f54a5ccc021885114854d4ba5f10ddc9c925042e",
+  "source_id": "0c53bc1a-3bbc-4b7c-8144-5bb43bae7e6e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 243/2020-92",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "JUDr. Dana Hamzová",
+    "ecli": "ECLI:CZ:OSZN:2021:12.C.243.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-02-01",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0c53bc1a-3bbc-4b7c-8144-5bb43bae7e6e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
