@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rychnově nad Kněžnou",
+  "ecli": "ECLI:CZ:OSRK:2021:7.C.236.2020.1",
+  "docket": "7 C 236/2020-45",
+  "date": "2021-02-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9af9fec6-5e6c-4c1e-bacb-305a1a1f58f1",
+  "source_sha256": "efead8a36feaf23457feb9674584ceba1794e0a6335f8bcd54293b6b360bfd31",
+  "source_id": "9af9fec6-5e6c-4c1e-bacb-305a1a1f58f1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 236/2020-45",
+    "soud": "Okresní soud v Rychnově nad Kněžnou",
+    "autor": "JUDr. Renata Plná",
+    "ecli": "ECLI:CZ:OSRK:2021:7.C.236.2020.1",
+    "predmetRizeni": "o zaplacení 6.000 Kč s příslušenstvím",
+    "datumVydani": "2021-02-01",
+    "datumZverejneni": "2021-04-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9af9fec6-5e6c-4c1e-bacb-305a1a1f58f1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
