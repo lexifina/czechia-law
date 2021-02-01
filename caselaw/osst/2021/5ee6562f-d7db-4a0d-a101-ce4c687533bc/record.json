@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Strakonicích",
+  "ecli": "ECLI:CZ:OSST:2021:6.C.11.2021.1",
+  "docket": "6 C 11/2021-21",
+  "date": "2021-02-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5ee6562f-d7db-4a0d-a101-ce4c687533bc",
+  "source_sha256": "63d846dde85bdf9ff78d64a2dd62d81205f89c636fa22b52c57808ca9640f2f9",
+  "source_id": "5ee6562f-d7db-4a0d-a101-ce4c687533bc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 11/2021-21",
+    "soud": "Okresní soud ve Strakonicích",
+    "autor": "JUDr. Pavla Potužníková",
+    "ecli": "ECLI:CZ:OSST:2021:6.C.11.2021.1",
+    "predmetRizeni": "O zaplacení 15 790 Kč s příslušenstvím",
+    "datumVydani": "2021-02-01",
+    "datumZverejneni": "2021-03-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5ee6562f-d7db-4a0d-a101-ce4c687533bc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
