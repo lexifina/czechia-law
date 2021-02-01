@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:9.C.299.2020.1",
+  "docket": "9 C 299/2020-76",
+  "date": "2021-02-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f82f2638-8b02-4d54-b06e-adaba2b977de",
+  "source_sha256": "b7f914fdcbabbe48e3d863b675f65e3c43f0f9d0580fa869d9ba5cab4a72c6a2",
+  "source_id": "f82f2638-8b02-4d54-b06e-adaba2b977de",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 299/2020-76",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "JUDr. Alice Havránková",
+    "ecli": "ECLI:CZ:OSPV:2021:9.C.299.2020.1",
+    "predmetRizeni": "O zaplacení 9.493,67 Kč s příslušenstvím",
+    "datumVydani": "2021-02-01",
+    "datumZverejneni": "2021-05-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1841 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f82f2638-8b02-4d54-b06e-adaba2b977de"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
