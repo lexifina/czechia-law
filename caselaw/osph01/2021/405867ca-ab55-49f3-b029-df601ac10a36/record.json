@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:11.C.39.2019.1",
+  "docket": "11 C 39/2019-139",
+  "date": "2021-02-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/405867ca-ab55-49f3-b029-df601ac10a36",
+  "source_sha256": "a6a7de0f4ffc1e4080820c5cd7819f7624c2d355a44ef361ee491a113cb4c2e0",
+  "source_id": "405867ca-ab55-49f3-b029-df601ac10a36",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 39/2019-139",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "JUDr. Michal Princ",
+    "ecli": "ECLI:CZ:OSPH01:2021:11.C.39.2019.1",
+    "predmetRizeni": "na vydání platebního rozkazu na vrácení poskytnutého plnění",
+    "datumVydani": "2021-02-01",
+    "datumZverejneni": "2021-05-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 2002 z. č. 89/2012 Sb.",
+      "§ 2106 z. č. 89/2012 Sb.",
+      "§ 2107 z. č. 89/2012 Sb.",
+      "§ 2113 z. č. 89/2012 Sb.",
+      "§ 2115 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/405867ca-ab55-49f3-b029-df601ac10a36"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
