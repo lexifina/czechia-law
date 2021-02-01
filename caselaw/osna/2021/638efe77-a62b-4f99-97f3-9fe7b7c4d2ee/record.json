@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:3.C.270.2020.1",
+  "docket": "3 C 270/2020-21",
+  "date": "2021-02-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/638efe77-a62b-4f99-97f3-9fe7b7c4d2ee",
+  "source_sha256": "e734b09865d2963d9b058fa478c4996ec57c386577225ded98683321acaac85f",
+  "source_id": "638efe77-a62b-4f99-97f3-9fe7b7c4d2ee",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 270/2020-21",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "Mgr. Magdaléna Renfus, LLM.",
+    "ecli": "ECLI:CZ:OSNA:2021:3.C.270.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-01",
+    "datumZverejneni": "2021-02-24",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 655 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/638efe77-a62b-4f99-97f3-9fe7b7c4d2ee"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
