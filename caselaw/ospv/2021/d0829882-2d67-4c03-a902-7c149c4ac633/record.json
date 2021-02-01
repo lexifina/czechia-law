@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:9.C.204.2020.1",
+  "docket": "9 C 204/2020-42",
+  "date": "2021-02-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d0829882-2d67-4c03-a902-7c149c4ac633",
+  "source_sha256": "40a3bdb129f930af6fe570c670cf98150c97186bd9d35e787ae182596c7ca14c",
+  "source_id": "d0829882-2d67-4c03-a902-7c149c4ac633",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 204/2020-42",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "JUDr. Alice Havránková",
+    "ecli": "ECLI:CZ:OSPV:2021:9.C.204.2020.1",
+    "predmetRizeni": "2.500 Kč s přísl.",
+    "datumVydani": "2021-02-01",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 17 z. č. 379/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d0829882-2d67-4c03-a902-7c149c4ac633"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
