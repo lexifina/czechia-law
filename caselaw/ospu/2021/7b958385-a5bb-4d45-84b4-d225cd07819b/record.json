@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:15.C.232.2020.1",
+  "docket": "15 C 232/2020-28",
+  "date": "2021-02-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7b958385-a5bb-4d45-84b4-d225cd07819b",
+  "source_sha256": "26c4eb0e323d58b543c2db7d08598a4a9b9815862cabd4b55ddb11389ec86031",
+  "source_id": "7b958385-a5bb-4d45-84b4-d225cd07819b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 232/2020-28",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "Mgr. Pavel Tureček",
+    "ecli": "ECLI:CZ:OSPU:2021:15.C.232.2020.1",
+    "predmetRizeni": "o zaplacení 1 429 Kč s příslušenstvím",
+    "datumVydani": "2021-02-01",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7b958385-a5bb-4d45-84b4-d225cd07819b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
