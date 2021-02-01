@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:7.C.118.2019.1",
+  "docket": "7 C 118/2019-55",
+  "date": "2021-02-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4ec6758e-32a2-486c-b4a2-abb31c97f43e",
+  "source_sha256": "8a69111936e49436526eb70a0c3cafeea848ddf5eb8d1b61e5ae58be5d74aad6",
+  "source_id": "4ec6758e-32a2-486c-b4a2-abb31c97f43e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 118/2019-55",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "Mgr. Aleš Landsman",
+    "ecli": "ECLI:CZ:OSZR:2021:7.C.118.2019.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-01",
+    "datumZverejneni": "2021-03-01",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4ec6758e-32a2-486c-b4a2-abb31c97f43e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
