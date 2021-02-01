@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:130.C.310.2020.1",
+  "docket": "130 C 310/2020-18",
+  "date": "2021-02-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d510720d-91cc-48e3-8b20-cfd72810e158",
+  "source_sha256": "52f61849d6529e2b7c7c565fde3479066f8f2d0cee21c76df25e64ebe99622a8",
+  "source_id": "d510720d-91cc-48e3-8b20-cfd72810e158",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "130 C 310/2020-18",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Michaela Turčíková",
+    "ecli": "ECLI:CZ:OSKIHA:2021:130.C.310.2020.1",
+    "predmetRizeni": "rozvod manžeslví",
+    "datumVydani": "2021-02-01",
+    "datumZverejneni": "2021-02-26",
+    "klicovaSlova": [
+      "opilost",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 687 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d510720d-91cc-48e3-8b20-cfd72810e158"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
