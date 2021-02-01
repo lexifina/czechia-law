@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:20.C.59.2020.1",
+  "docket": "20 C 59/2020-37",
+  "date": "2021-02-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8f448958-f049-42cb-9ebd-621ce6ec3409",
+  "source_sha256": "ba4882ffa5733287e0d085e472d8a98ab8b4afb954d9224ff8f19294a4eb2d08",
+  "source_id": "8f448958-f049-42cb-9ebd-621ce6ec3409",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 59/2020-37",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "Mgr. Lenka Šrytrová",
+    "ecli": "ECLI:CZ:OSHO:2021:20.C.59.2020.1",
+    "predmetRizeni": "zaplacení 2 220 Kč s příslušenstvím",
+    "datumVydani": "2021-02-01",
+    "datumZverejneni": "2021-04-15",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "insolvence",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 1 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8f448958-f049-42cb-9ebd-621ce6ec3409"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
