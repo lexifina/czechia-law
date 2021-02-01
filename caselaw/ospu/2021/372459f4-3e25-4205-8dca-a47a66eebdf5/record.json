@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:17.C.253.2020.1",
+  "docket": "17 C 253/2020-32",
+  "date": "2021-02-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/372459f4-3e25-4205-8dca-a47a66eebdf5",
+  "source_sha256": "7dcec251fb74116a761e34aeb65e839416c7b3aeb0b14724bcc02e81796a1e07",
+  "source_id": "372459f4-3e25-4205-8dca-a47a66eebdf5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 253/2020-32",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "JUDr. Naděžda Librová",
+    "ecli": "ECLI:CZ:OSPU:2021:17.C.253.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-01",
+    "datumZverejneni": "2021-03-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 89 z. č. 257/2016 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 84 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/372459f4-3e25-4205-8dca-a47a66eebdf5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
