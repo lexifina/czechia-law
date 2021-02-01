@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:46.C.160.2020.2",
+  "docket": "46 C 160/2020-26",
+  "date": "2021-02-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1aa25726-7f8b-494f-ae5e-67150c255ba1",
+  "source_sha256": "facdb4918ca2b3ac4e852699e46fc3d056f42cf36705ddac0680222a677186f6",
+  "source_id": "1aa25726-7f8b-494f-ae5e-67150c255ba1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "46 C 160/2020-26",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Jana Benešová",
+    "ecli": "ECLI:CZ:OSMO:2021:46.C.160.2020.2",
+    "predmetRizeni": "5 000 Kč s příslušenstvím",
+    "datumVydani": "2021-02-01",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1aa25726-7f8b-494f-ae5e-67150c255ba1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
