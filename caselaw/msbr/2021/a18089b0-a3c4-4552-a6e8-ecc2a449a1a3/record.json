@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:33.C.248.2020.1",
+  "docket": "33 C 248/2020-28",
+  "date": "2021-02-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a18089b0-a3c4-4552-a6e8-ecc2a449a1a3",
+  "source_sha256": "ad96d1590db4739bf48abfd6e1f2be999998cce75a683ae46ddaf878c73efc17",
+  "source_id": "a18089b0-a3c4-4552-a6e8-ecc2a449a1a3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "33 C 248/2020-28",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Ivana Chlupová",
+    "ecli": "ECLI:CZ:MSBR:2021:33.C.248.2020.1",
+    "predmetRizeni": "zaplacení 986 Kč s příslušenstvím - pojistné",
+    "datumVydani": "2021-02-01",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 1813 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a18089b0-a3c4-4552-a6e8-ecc2a449a1a3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
