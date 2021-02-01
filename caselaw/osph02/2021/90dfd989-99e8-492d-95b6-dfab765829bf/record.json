@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:10.C.34.2020.5",
+  "docket": "10 C 34/2020-91",
+  "date": "2021-02-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/90dfd989-99e8-492d-95b6-dfab765829bf",
+  "source_sha256": "9022a3deed89424d7ba593974958cbb0985c26dbf7851fc31a6129d256f07f62",
+  "source_id": "90dfd989-99e8-492d-95b6-dfab765829bf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 34/2020-91",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "JUDr. Tomáš Bělohlávek",
+    "ecli": "ECLI:CZ:OSPH02:2021:10.C.34.2020.5",
+    "predmetRizeni": "O zaplacení 16 582 Kč s příslušenstvím",
+    "datumVydani": "2021-02-01",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 1724 z. č. 89/2012 Sb.",
+      "§ 629 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/90dfd989-99e8-492d-95b6-dfab765829bf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
