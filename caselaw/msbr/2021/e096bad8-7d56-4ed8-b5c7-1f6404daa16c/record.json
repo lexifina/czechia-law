@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:17.C.247.2020.1",
+  "docket": "17 C 247/2020-21",
+  "date": "2021-02-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e096bad8-7d56-4ed8-b5c7-1f6404daa16c",
+  "source_sha256": "12dad6dff5306b2e029ecfc886e3e4f0f5ed0b5bd70478f1289cb70f94178a4a",
+  "source_id": "e096bad8-7d56-4ed8-b5c7-1f6404daa16c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 247/2020-21",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Petra Filová",
+    "ecli": "ECLI:CZ:MSBR:2021:17.C.247.2020.1",
+    "predmetRizeni": "zaplacení 61.879,49 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2021-02-01",
+    "datumZverejneni": "2021-06-15",
+    "klicovaSlova": [
+      "dražba",
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "smlouva mandátní",
+      "smlouva o obchodním zastoupení",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 3 nař. vl. č. 351/2013 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e096bad8-7d56-4ed8-b5c7-1f6404daa16c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
