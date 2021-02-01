@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:27.C.267.2020.1",
+  "docket": "27 C 267/2020-50",
+  "date": "2021-02-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/eb9f9699-6221-483e-8920-af239faafb55",
+  "source_sha256": "b838db3990c3ac5538cdbed41cc50e518c04135258ce1be5383a0ce8c15c911c",
+  "source_id": "eb9f9699-6221-483e-8920-af239faafb55",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 267/2020-50",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "Mgr. Marcel Klimša",
+    "ecli": "ECLI:CZ:OSTP:2021:27.C.267.2020.1",
+    "predmetRizeni": "zaplacení 4 222 Kč s příslušenstvím",
+    "datumVydani": "2021-02-01",
+    "datumZverejneni": "2021-03-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/eb9f9699-6221-483e-8920-af239faafb55"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
