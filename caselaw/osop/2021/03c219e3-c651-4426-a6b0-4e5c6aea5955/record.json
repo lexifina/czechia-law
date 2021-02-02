@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2021:9.C.302.2020.1",
+  "docket": "9 C 302/2020-18",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/03c219e3-c651-4426-a6b0-4e5c6aea5955",
+  "source_sha256": "1ed445c3e3d7e5dc718a2cc1571a7be85767ddc4361474e1084a7912f971069d",
+  "source_id": "03c219e3-c651-4426-a6b0-4e5c6aea5955",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 302/2020-18",
+    "soud": "Okresní soud v Opavě",
+    "autor": "JUDr. Miroslava Kramná",
+    "ecli": "ECLI:CZ:OSOP:2021:9.C.302.2020.1",
+    "predmetRizeni": "o zaplacení 8 973 Kč s příslušenstvím",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 72 z. č. 458/2000 Sb.",
+      "§ 50 z. č. 458/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/03c219e3-c651-4426-a6b0-4e5c6aea5955"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
