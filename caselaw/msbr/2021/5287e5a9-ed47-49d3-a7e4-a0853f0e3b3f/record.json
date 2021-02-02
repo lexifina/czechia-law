@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:54.C.200.2020.1",
+  "docket": "54 C 200/2020-40",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5287e5a9-ed47-49d3-a7e4-a0853f0e3b3f",
+  "source_sha256": "c51a23a97d4c9c5f477b7a38f673586a982932d3bd0ec443f10107d0464ce14c",
+  "source_id": "5287e5a9-ed47-49d3-a7e4-a0853f0e3b3f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "54 C 200/2020-40",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Daniela Schwarzová",
+    "ecli": "ECLI:CZ:MSBR:2021:54.C.200.2020.1",
+    "predmetRizeni": "zaplacení 5.000 Kč s příslušenstvím - zápůjčka",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "korporace",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 251 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5287e5a9-ed47-49d3-a7e4-a0853f0e3b3f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
