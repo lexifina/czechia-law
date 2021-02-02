@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:121.C.21.2020.1",
+  "docket": "121 C 21/2020",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dd8c554b-2a0b-4a5f-9306-04a2124481a1",
+  "source_sha256": "5ba0657621f689a39bd49cad2b23b2fd305747fd98eae73c455d2cbf06325cc2",
+  "source_id": "dd8c554b-2a0b-4a5f-9306-04a2124481a1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "121 C 21/2020",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Martina Burešová",
+    "ecli": "ECLI:CZ:OSKD:2021:121.C.21.2020.1",
+    "predmetRizeni": "o zaplacení částky [částka] s příslušenstvím a smluvní pokuty",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "insolvence",
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "smlouva pracovní",
+      "vzájemné plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 118b z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dd8c554b-2a0b-4a5f-9306-04a2124481a1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
