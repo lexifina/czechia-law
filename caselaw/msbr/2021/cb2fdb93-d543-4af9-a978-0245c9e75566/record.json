@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:104.C.169.2020.1",
+  "docket": "104 C 169/2020-29",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cb2fdb93-d543-4af9-a978-0245c9e75566",
+  "source_sha256": "1d001abf1788bab4475173f86bb19cbb4e6839e18c8e75b0f150ca74e5890caa",
+  "source_id": "cb2fdb93-d543-4af9-a978-0245c9e75566",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "104 C 169/2020-29",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Lenka Kovářová",
+    "ecli": "ECLI:CZ:MSBR:2021:104.C.169.2020.1",
+    "predmetRizeni": "o zaplacení částky 2 150 Kč s příslušenstvím",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-02-26",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 156 z. č. 99/1963 Sb.",
+      "§ 27 z. č. 361/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cb2fdb93-d543-4af9-a978-0245c9e75566"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
