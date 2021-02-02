@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:19.C.165.2020.1",
+  "docket": "19 C 165/2020-50",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9e8563c8-af7e-4761-b5fb-70a4449fd789",
+  "source_sha256": "9a2ea74d657ee022f053ef8d1dfaf69364c9b617d97cc5b270ff4ef90a952499",
+  "source_id": "9e8563c8-af7e-4761-b5fb-70a4449fd789",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 165/2020-50",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "Mgr. Tereza Krojová",
+    "ecli": "ECLI:CZ:OSPH06:2021:19.C.165.2020.1",
+    "predmetRizeni": "o zaplacení částky 1 200 euro s příslušenstvím",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-10-12",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  nař. vl. č. 261/2004 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9e8563c8-af7e-4761-b5fb-70a4449fd789"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
