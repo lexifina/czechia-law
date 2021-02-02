@@ -1,0 +1,30 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:7.C.204.2020.1",
+  "docket": "7 C 204/2020-34",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8b92e0a1-7be4-4b87-aace-0e3fe2ba1d8a",
+  "source_sha256": "9fa6c080fa1c1818718c50b06e4ee9a70f84f02006a27ef31e463237078d19bc",
+  "source_id": "8b92e0a1-7be4-4b87-aace-0e3fe2ba1d8a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 204/2020-34",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "Mgr. Jitka Nováková",
+    "ecli": "ECLI:CZ:OSPU:2021:7.C.204.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-03-08",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 164 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8b92e0a1-7be4-4b87-aace-0e3fe2ba1d8a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
