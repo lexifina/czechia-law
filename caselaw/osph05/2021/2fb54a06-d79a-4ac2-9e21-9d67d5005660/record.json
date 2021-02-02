@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:10.C.66.2021.1",
+  "docket": "10 C 66/2021-12",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2fb54a06-d79a-4ac2-9e21-9d67d5005660",
+  "source_sha256": "a42fb7af4563cf6439790afabcde13f2670580d5ddb82ec09d56370a295b8cf3",
+  "source_id": "2fb54a06-d79a-4ac2-9e21-9d67d5005660",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 66/2021-12",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Eva Harmachová",
+    "ecli": "ECLI:CZ:OSPH05:2021:10.C.66.2021.1",
+    "predmetRizeni": "O zaplacení 26 160 Kč s příslušenstvím",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 129 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2fb54a06-d79a-4ac2-9e21-9d67d5005660"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
