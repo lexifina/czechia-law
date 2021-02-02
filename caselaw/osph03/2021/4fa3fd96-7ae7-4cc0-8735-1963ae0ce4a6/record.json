@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 3",
+  "ecli": "ECLI:CZ:OSPH03:2021:20.C.29.2021.1",
+  "docket": "20 C 29/2021-12",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4fa3fd96-7ae7-4cc0-8735-1963ae0ce4a6",
+  "source_sha256": "18456e43d76b67c98697d013775395392aee2d2482fa2b4b63d5d30a4cddfe74",
+  "source_id": "4fa3fd96-7ae7-4cc0-8735-1963ae0ce4a6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 29/2021-12",
+    "soud": "Obvodní soud pro Prahu 3",
+    "autor": "Mgr. Jiří Petrášek",
+    "ecli": "ECLI:CZ:OSPH03:2021:20.C.29.2021.1",
+    "predmetRizeni": "1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-04-06",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 8 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4fa3fd96-7ae7-4cc0-8735-1963ae0ce4a6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
