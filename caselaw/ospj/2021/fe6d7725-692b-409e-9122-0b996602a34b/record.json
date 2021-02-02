@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPJ:2021:25.C.343.2020.3",
+  "docket": "25 C 343/2020-24",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fe6d7725-692b-409e-9122-0b996602a34b",
+  "source_sha256": "33e13e2b928dd2d4e16e811a991d7bc08917698f42447426ea1c8fe82a2a173d",
+  "source_id": "fe6d7725-692b-409e-9122-0b996602a34b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 343/2020-24",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Jana Srpová",
+    "ecli": "ECLI:CZ:OSPJ:2021:25.C.343.2020.3",
+    "predmetRizeni": "[částka] s přísl.",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-02-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fe6d7725-692b-409e-9122-0b996602a34b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
