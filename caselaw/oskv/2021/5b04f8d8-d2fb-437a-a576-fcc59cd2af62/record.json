@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:11.C.224.2019.1",
+  "docket": "11 C 224/2019-102",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5b04f8d8-d2fb-437a-a576-fcc59cd2af62",
+  "source_sha256": "76fc4d7423155b7effbc94b65a40519e9299c0008889d00f8f41cd36e591400e",
+  "source_id": "5b04f8d8-d2fb-437a-a576-fcc59cd2af62",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 224/2019-102",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "JUDr. Radek Černovský",
+    "ecli": "ECLI:CZ:OSKV:2021:11.C.224.2019.1",
+    "predmetRizeni": "65.546,06 Kč / bolestné + ZSU",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-03-16",
+    "klicovaSlova": [
+      "bolestné",
+      "jízdné",
+      "peněžité plnění",
+      "pracovní úraz",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 269 z. č. 262/2006 Sb.",
+      "§ 2 z. č. 549/91 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5b04f8d8-d2fb-437a-a576-fcc59cd2af62"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
