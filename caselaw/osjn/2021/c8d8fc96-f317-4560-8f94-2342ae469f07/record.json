@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2021:10.C.1.2021.1",
+  "docket": "10 C 1/2021-34",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c8d8fc96-f317-4560-8f94-2342ae469f07",
+  "source_sha256": "f39f468ab67162df475d5b4df3324e2f4c6781b900244e12e1eaed467b37d594",
+  "source_id": "c8d8fc96-f317-4560-8f94-2342ae469f07",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 1/2021-34",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "JUDr. Pavel Vlach, Ph.D.",
+    "ecli": "ECLI:CZ:OSJN:2021:10.C.1.2021.1",
+    "predmetRizeni": "o zaplacení 25 397,67 Kč s příslušenstvím",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-03-25",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/96 Sb.",
+      "§ 2910 z. č. 89/2012 Sb.",
+      "§ 24 z. č. 168/1999 Sb.",
+      "§ 11 z. č. 361/2000 Sb.",
+      "§ 2972 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c8d8fc96-f317-4560-8f94-2342ae469f07"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
