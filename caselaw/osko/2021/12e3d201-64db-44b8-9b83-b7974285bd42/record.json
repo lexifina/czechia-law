@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kolíně",
+  "ecli": "ECLI:CZ:OSKO:2021:12.C.306.2020.1",
+  "docket": "12 C 306/2020-23",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/12e3d201-64db-44b8-9b83-b7974285bd42",
+  "source_sha256": "547dc4a1f82cc33c08e4e23f0873d78e5f0bf64088ca334c8f15bdc08f13a181",
+  "source_id": "12e3d201-64db-44b8-9b83-b7974285bd42",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 306/2020-23",
+    "soud": "Okresní soud v Kolíně",
+    "autor": "Mgr. Renáta Bielová",
+    "ecli": "ECLI:CZ:OSKO:2021:12.C.306.2020.1",
+    "predmetRizeni": "O zaplacení 508 Kč s příslušenstvím",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-03-16",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/12e3d201-64db-44b8-9b83-b7974285bd42"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
