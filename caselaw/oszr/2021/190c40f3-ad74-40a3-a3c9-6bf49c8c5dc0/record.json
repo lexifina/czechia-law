@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:10.C.277.2020.1",
+  "docket": "10 C 277/2020-50",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/190c40f3-ad74-40a3-a3c9-6bf49c8c5dc0",
+  "source_sha256": "79455f94ac09eb37130b2292a6fda73dabd3d0cda59eb432869f76375c0c088f",
+  "source_id": "190c40f3-ad74-40a3-a3c9-6bf49c8c5dc0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 277/2020-50",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "Mgr. Jarmila Krejzková",
+    "ecli": "ECLI:CZ:OSZR:2021:10.C.277.2020.1",
+    "predmetRizeni": "zaplacení částky 38 254 Kč s přísl.",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-03-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§  z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/190c40f3-ad74-40a3-a3c9-6bf49c8c5dc0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
