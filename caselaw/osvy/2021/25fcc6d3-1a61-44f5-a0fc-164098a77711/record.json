@@ -1,0 +1,49 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:12.C.53.2020.1",
+  "docket": "12 C 53/2020-56",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/25fcc6d3-1a61-44f5-a0fc-164098a77711",
+  "source_sha256": "b3426f6c2f6f295c2824bd838a327489e8afa9a88ba8c972f4dfd196456a1fb8",
+  "source_id": "25fcc6d3-1a61-44f5-a0fc-164098a77711",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 53/2020-56",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Karin Vrchová, , MBA",
+    "ecli": "ECLI:CZ:OSVY:2021:12.C.53.2020.1",
+    "predmetRizeni": "zaplacení částky 5 400 Kč s příslušenstvím - půjčka",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-02-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 1815 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 1842 z. č. 89/2012 Sb.",
+      "§ 1841 z. č. 89/2012 Sb.",
+      "§ 576 z. č. 89/2012 Sb.",
+      "§ 1812 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/25fcc6d3-1a61-44f5-a0fc-164098a77711"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
