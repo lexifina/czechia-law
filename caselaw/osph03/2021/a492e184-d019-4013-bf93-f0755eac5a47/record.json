@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 3",
+  "ecli": "ECLI:CZ:OSPH03:2021:11.C.397.2020.1",
+  "docket": "11 C 397/2020-20",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a492e184-d019-4013-bf93-f0755eac5a47",
+  "source_sha256": "a870fe381dfe7a94bb956c227940c4fd2e79f4236fb4bbc7e49f1f27d250fa1a",
+  "source_id": "a492e184-d019-4013-bf93-f0755eac5a47",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 397/2020-20",
+    "soud": "Obvodní soud pro Prahu 3",
+    "autor": "JUDr. Jana Spanilá",
+    "ecli": "ECLI:CZ:OSPH03:2021:11.C.397.2020.1",
+    "predmetRizeni": "81 300 Kč s příslušenstvím",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-03-31",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§ 19 z. č. 13/1997 Sb.",
+      "§ 59 z. č. 131/2000 Sb.",
+      "§ 27 z. č. 250/2000 Sb.",
+      "§ 23 z. č. 250/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a492e184-d019-4013-bf93-f0755eac5a47"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
