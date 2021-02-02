@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2021:4.C.340.2020.1",
+  "docket": "4 C 340/2020-64",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9bd65b4d-8930-498b-96be-e7068100cf12",
+  "source_sha256": "5d2133e9775d15d60abe0fe3d6d25ee76d66e1363959d218edd64bbe737b2e07",
+  "source_id": "9bd65b4d-8930-498b-96be-e7068100cf12",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 340/2020-64",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Petr Šimek",
+    "ecli": "ECLI:CZ:OSBN:2021:4.C.340.2020.1",
+    "predmetRizeni": "o zaplacení 54 496,00 Kč a přísl.",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-04-01",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9bd65b4d-8930-498b-96be-e7068100cf12"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
