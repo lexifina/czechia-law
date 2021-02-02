@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:13.C.136.2020 .1",
+  "docket": "13 C 136/2020-54",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0edafd49-0dc8-4150-906c-b62ece52727b",
+  "source_sha256": "340a5b1d2720d651e064351874558f913556d0a80f6290a020fda49c08bc7ff3",
+  "source_id": "0edafd49-0dc8-4150-906c-b62ece52727b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 136/2020-54",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. Hana Greplová",
+    "ecli": "ECLI:CZ:OSPV:2021:13.C.136.2020 .1",
+    "predmetRizeni": "pro zaplacení [částka] s příslušenstvím,",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-03-13",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0edafd49-0dc8-4150-906c-b62ece52727b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
