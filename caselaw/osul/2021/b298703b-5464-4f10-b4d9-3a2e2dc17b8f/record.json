@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:34.C.380.2019.4",
+  "docket": "34 C 380/2019-73",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b298703b-5464-4f10-b4d9-3a2e2dc17b8f",
+  "source_sha256": "304267503240a06dedc9f8a260843215bc97d385732f2941824daa2b6d02859d",
+  "source_id": "b298703b-5464-4f10-b4d9-3a2e2dc17b8f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 380/2019-73",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Alice Karpíšková",
+    "ecli": "ECLI:CZ:OSUL:2021:34.C.380.2019.4",
+    "predmetRizeni": "o zaplacení 48 400 Kč",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-03-30",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "nebytový prostor",
+      "oddlužení",
+      "smlouva kupní",
+      "smlouva zprostředkovatelská"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2445 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b298703b-5464-4f10-b4d9-3a2e2dc17b8f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
