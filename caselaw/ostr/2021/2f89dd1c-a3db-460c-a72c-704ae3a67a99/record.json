@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Třebíči",
+  "ecli": "ECLI:CZ:OSTR:2021:12.C.190.2020.1",
+  "docket": "12 C 190/2020-63",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2f89dd1c-a3db-460c-a72c-704ae3a67a99",
+  "source_sha256": "f0ea5fd1980fe185df64ecf3b6ce2eb2a159808e00ae6ca240fab34399d9bbad",
+  "source_id": "2f89dd1c-a3db-460c-a72c-704ae3a67a99",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 190/2020-63",
+    "soud": "Okresní soud v Třebíči",
+    "autor": "Mgr. Jan Coufal",
+    "ecli": "ECLI:CZ:OSTR:2021:12.C.190.2020.1",
+    "predmetRizeni": "vyklizení nemovitých věcí",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-12-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva nájemní",
+      "vyklizení nemovitosti",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 201 z. č. 99/1963 Sb.",
+      "§ 2238 z. č. 89/2012 Sb.",
+      "§ 153 z. č. 89/2012 Sb.",
+      "§ 183 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2f89dd1c-a3db-460c-a72c-704ae3a67a99"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
