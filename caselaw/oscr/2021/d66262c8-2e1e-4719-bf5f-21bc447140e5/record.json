@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chrudimi",
+  "ecli": "ECLI:CZ:OSCR:2021:108.C.34.2019.1",
+  "docket": "108 C 34/2019-40",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d66262c8-2e1e-4719-bf5f-21bc447140e5",
+  "source_sha256": "90a75c5b8840a4587dee3949ed5f8b8bab4500ae5302c3e6b8b798951d91ab43",
+  "source_id": "d66262c8-2e1e-4719-bf5f-21bc447140e5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "108 C 34/2019-40",
+    "soud": "Okresní soud v Chrudimi",
+    "autor": "JUDr. Antonín Libra",
+    "ecli": "ECLI:CZ:OSCR:2021:108.C.34.2019.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-03-18",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 72 z. č. 458/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d66262c8-2e1e-4719-bf5f-21bc447140e5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
