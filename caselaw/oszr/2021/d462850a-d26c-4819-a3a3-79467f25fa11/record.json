@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:10.C.214.2020.1",
+  "docket": "10 C 214/2020-59",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d462850a-d26c-4819-a3a3-79467f25fa11",
+  "source_sha256": "e0c06c62752a88a19f6811fb028bd2e73bf286c78a7f937d77a1addd52a1fed6",
+  "source_id": "d462850a-d26c-4819-a3a3-79467f25fa11",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 214/2020-59",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "Mgr. Jarmila Krejzková",
+    "ecli": "ECLI:CZ:OSZR:2021:10.C.214.2020.1",
+    "predmetRizeni": "zaplacení částky 54 407 Kč s přísl.",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-04-20",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "uznání dluhu",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 2235 z. č. 89/2012 Sb.",
+      "§ 2285 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d462850a-d26c-4819-a3a3-79467f25fa11"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
