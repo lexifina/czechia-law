@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:41.C.97.2020.1",
+  "docket": "41 C 97/2020-45",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7b969864-d72a-4985-b999-99d4f3d1d541",
+  "source_sha256": "70e4251ce55e8cd4948e6039596b85f0f97e94c2b6aeff0695ffa536256e7a85",
+  "source_id": "7b969864-d72a-4985-b999-99d4f3d1d541",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "41 C 97/2020-45",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "JUDr. Denisa Georgesová",
+    "ecli": "ECLI:CZ:OSBI:2021:41.C.97.2020.1",
+    "predmetRizeni": "O zaplacení 8 680 Kč s příslušenstvím",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-04-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7b969864-d72a-4985-b999-99d4f3d1d541"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
