@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:32.C.246.2020.1",
+  "docket": "32 C 246/2020-30",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4d4d0aae-612f-48a3-9899-044b5fb37035",
+  "source_sha256": "223201c356b4ce638fa5f7b1b41b5fe543959b1611fc4146e44afdbdce3e07a7",
+  "source_id": "4d4d0aae-612f-48a3-9899-044b5fb37035",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "32 C 246/2020-30",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Bc. Zdeněk Piskač",
+    "ecli": "ECLI:CZ:OSMO:2021:32.C.246.2020.1",
+    "predmetRizeni": "2 757 Kč s příslušenstvím",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-02-22",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4d4d0aae-612f-48a3-9899-044b5fb37035"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
