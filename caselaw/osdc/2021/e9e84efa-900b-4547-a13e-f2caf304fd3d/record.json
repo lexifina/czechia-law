@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:19.C.333.2020.1",
+  "docket": "19 C 333/2020-28",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e9e84efa-900b-4547-a13e-f2caf304fd3d",
+  "source_sha256": "d0d5c2cf2b7b01f5b1dc463eb24fde0afb96424c37dd40d5baf0ff5417e7f4b0",
+  "source_id": "e9e84efa-900b-4547-a13e-f2caf304fd3d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 333/2020-28",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Vladimír Diviš",
+    "ecli": "ECLI:CZ:OSDC:2021:19.C.333.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-07-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 658 z. č. 89/2012 Sb.",
+      "§ 517 nař. vl. č. 142/1994 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§  z. č. 321/2001 Sb.",
+      "§ 39 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e9e84efa-900b-4547-a13e-f2caf304fd3d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
