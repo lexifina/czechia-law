@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Orlicí",
+  "ecli": "ECLI:CZ:OSUO:2021:8.C.140.2020.1",
+  "docket": "8 C 140/2020-23",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/12b12341-fa31-412d-ac3e-30b71d8f1efc",
+  "source_sha256": "7157b1182ed71e7837b72a59fabed6b82e5e73a414b6d9bdbb5f4f1d285cdb28",
+  "source_id": "12b12341-fa31-412d-ac3e-30b71d8f1efc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 140/2020-23",
+    "soud": "Okresní soud v Ústí nad Orlicí",
+    "autor": "JUDr. Dagmar Kalousková",
+    "ecli": "ECLI:CZ:OSUO:2021:8.C.140.2020.1",
+    "predmetRizeni": "O zaplacení 1 000 Kč s příslušenstvím",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-04-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/12b12341-fa31-412d-ac3e-30b71d8f1efc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
