@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:19.C.123.2020.5",
+  "docket": "19 C 123/2020-101",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d0d99431-7ef9-4f21-bde0-9fc02a96a0d6",
+  "source_sha256": "153b0c249069e8cfd97fea1b3bb59a20acb9308694e144b8d676610cb7af776f",
+  "source_id": "d0d99431-7ef9-4f21-bde0-9fc02a96a0d6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 123/2020-101",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "Mgr. Lucie Vítková",
+    "ecli": "ECLI:CZ:OSPH02:2021:19.C.123.2020.5",
+    "predmetRizeni": "o zaplacení 548 325,20 Kč s příslušenstvím",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-06-22",
+    "klicovaSlova": [
+      "dražba",
+      "majetková újma",
+      "peněžité plnění",
+      "podílové spoluvlastnictví",
+      "smlouva kupní",
+      "spoluvlastnictví",
+      "veřejná dražba"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 7 z. č. 82/98 Sb.",
+      "§ 1 z. č. 82/98 Sb.",
+      "§ 35 z. č. 120/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d0d99431-7ef9-4f21-bde0-9fc02a96a0d6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
