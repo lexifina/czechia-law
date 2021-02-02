@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:16.C.237.2020.3",
+  "docket": "16 C 237/2020-43",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/62ce1adc-e0a4-44f3-9e7d-1d91bd9fae58",
+  "source_sha256": "5fa541f2ea80c2f1d8f989766d9e21a16e4086931ec51407d22c3261c4998f4a",
+  "source_id": "62ce1adc-e0a4-44f3-9e7d-1d91bd9fae58",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 237/2020-43",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Klára Hronová",
+    "ecli": "ECLI:CZ:OSPH05:2021:16.C.237.2020.3",
+    "predmetRizeni": "o 17.292 Kč s příslušenstvím",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "dlužné platby spojené s užíváním bytu",
+      "peněžité plnění",
+      "společenství vlastníků jednotek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 67/2013 Sb.",
+      "§ 7 z. č. 67/2013 Sb.",
+      "§ 1181 z. č. 89/2012 Sb.",
+      "§ 1177 z. č. 89/2012 Sb.",
+      "§ 1178 z. č. 89/2012 Sb.",
+      "§ 12 z. č. 67/2013 Sb.",
+      "§ 5 z. č. 67/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/62ce1adc-e0a4-44f3-9e7d-1d91bd9fae58"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
