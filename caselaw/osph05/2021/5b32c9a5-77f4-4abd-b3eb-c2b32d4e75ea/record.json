@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:5.C.231.2020.4",
+  "docket": "5 C 231/2020-66",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5b32c9a5-77f4-4abd-b3eb-c2b32d4e75ea",
+  "source_sha256": "e07370624da050884db28331d9aa9f59be02fe85a45efd01cc98385e91c820d6",
+  "source_id": "5b32c9a5-77f4-4abd-b3eb-c2b32d4e75ea",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 231/2020-66",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Dita Staňková",
+    "ecli": "ECLI:CZ:OSPH05:2021:5.C.231.2020.4",
+    "predmetRizeni": "O zaplacení 3 597 Kč s příslušenstvím",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-04-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 120/2001 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5b32c9a5-77f4-4abd-b3eb-c2b32d4e75ea"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
