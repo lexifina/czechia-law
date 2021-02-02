@@ -1,0 +1,48 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2021:52.C.416.2016.1",
+  "docket": "52 C 416/2016-780",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b0d4da53-13c1-4d01-bbe7-d9ffc9501039",
+  "source_sha256": "301579db84a275ae2c6992581dee4d9c4af9ac893a0a8eea98cf1eb5b2210d78",
+  "source_id": "b0d4da53-13c1-4d01-bbe7-d9ffc9501039",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "52 C 416/2016-780",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "Mgr. Katarína Kuhnová",
+    "ecli": "ECLI:CZ:OSPH09:2021:52.C.416.2016.1",
+    "predmetRizeni": "určení vlastnického práva k nemovitostem",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-12-13",
+    "klicovaSlova": [
+      "akcie",
+      "nadační fond",
+      "notářský zápis",
+      "obchodní jmění",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 57 z. č. 219/2000 Sb.",
+      "§ 243g z. č. 99/1963 Sb.",
+      "§ 132 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 77/97 Sb.",
+      "§  z. č. 104/1990 Sb.",
+      "§  z. č. 111/1990 Sb.",
+      "§ 20 z. č. 77/1997 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b0d4da53-13c1-4d01-bbe7-d9ffc9501039"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
