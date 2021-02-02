@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:6.C.190.2020.1",
+  "docket": "6 C 190/2020-17",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f2abbbb2-ac34-4256-8ecc-25ab1f60bb28",
+  "source_sha256": "706450f31194c622c28700ae35438abd5cdb79c55f9fe11c6a7aafa62b3e6c78",
+  "source_id": "f2abbbb2-ac34-4256-8ecc-25ab1f60bb28",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 190/2020-17",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "Mgr. Jana Kantoříková",
+    "ecli": "ECLI:CZ:OSRO:2021:6.C.190.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-04-08",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f2abbbb2-ac34-4256-8ecc-25ab1f60bb28"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
