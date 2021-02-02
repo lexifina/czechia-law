@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Uherském Hradišti",
+  "ecli": "ECLI:CZ:OSUH:2021:6.C.259.2020.1",
+  "docket": "6 C 259/2020-40",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c1316bf3-9f90-4897-9663-7de7f826bf22",
+  "source_sha256": "efdb87596c398fc5c767d6e5d61f53fcd388d41d608f6c44f230de1891e7a341",
+  "source_id": "c1316bf3-9f90-4897-9663-7de7f826bf22",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 259/2020-40",
+    "soud": "Okresní soud v Uherském Hradišti",
+    "autor": "Mgr. Eliška Zapletalová",
+    "ecli": "ECLI:CZ:OSUH:2021:6.C.259.2020.1",
+    "predmetRizeni": "21 149,10 Kč s příslušenstvím",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-05-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 122 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c1316bf3-9f90-4897-9663-7de7f826bf22"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
