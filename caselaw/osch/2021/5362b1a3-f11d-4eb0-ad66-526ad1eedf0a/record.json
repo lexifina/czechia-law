@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:10.C.9.2021.1",
+  "docket": "10 C 9/2021-21",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5362b1a3-f11d-4eb0-ad66-526ad1eedf0a",
+  "source_sha256": "552de19b6e3573f0b0c7fa8e228f8219e77fa784a6a1ff9c6ae61307737b62a4",
+  "source_id": "5362b1a3-f11d-4eb0-ad66-526ad1eedf0a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 9/2021-21",
+    "soud": "Okresní soud v Chebu",
+    "autor": "Světlana Jarošová",
+    "ecli": "ECLI:CZ:OSCH:2021:10.C.9.2021.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-03-19",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 104 z. č. 99/1963 Sb.",
+      "§ 103 z. č. 99/1963 Sb.",
+      "§ 23 z. č. 89/2012 Sb.",
+      "§ 19 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5362b1a3-f11d-4eb0-ad66-526ad1eedf0a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
