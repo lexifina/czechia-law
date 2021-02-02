@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Litoměřicích",
+  "ecli": "ECLI:CZ:OSLT:2021:12.C.157.2020.1",
+  "docket": "12 C 157/2020-28",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4baf7f08-07b6-4846-a0e8-a674864fc404",
+  "source_sha256": "6cef83e1b6d87c0b6d82c66640980d254b61cf263100b98a612d21ce450586e4",
+  "source_id": "4baf7f08-07b6-4846-a0e8-a674864fc404",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 157/2020-28",
+    "soud": "Okresní soud v Litoměřicích",
+    "autor": "JUDr. Martin Masár",
+    "ecli": "ECLI:CZ:OSLT:2021:12.C.157.2020.1",
+    "predmetRizeni": "O zaplacení 3 000 Kč s příslušenstvím",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-04-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4baf7f08-07b6-4846-a0e8-a674864fc404"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
