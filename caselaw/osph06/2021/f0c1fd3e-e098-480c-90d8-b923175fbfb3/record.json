@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:19.C.386.2020.1",
+  "docket": "19 C 386/2020-38",
+  "date": "2021-02-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f0c1fd3e-e098-480c-90d8-b923175fbfb3",
+  "source_sha256": "e88cff3095e5f08adfbf997e6024095e33d7c7390418f6e765f05fc5b97b8960",
+  "source_id": "f0c1fd3e-e098-480c-90d8-b923175fbfb3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 386/2020-38",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "Mgr. Tereza Krojová",
+    "ecli": "ECLI:CZ:OSPH06:2021:19.C.386.2020.1",
+    "predmetRizeni": "o zaplacení částky 500 euro s příslušenstvím",
+    "datumVydani": "2021-02-02",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "náhrada škody",
+      "peněžité plnění",
+      "prekluze"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2553 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f0c1fd3e-e098-480c-90d8-b923175fbfb3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
