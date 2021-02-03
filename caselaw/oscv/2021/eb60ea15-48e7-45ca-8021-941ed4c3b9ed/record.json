@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:16.C.269.2020.1",
+  "docket": "16 C 269/2020-54",
+  "date": "2021-02-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/eb60ea15-48e7-45ca-8021-941ed4c3b9ed",
+  "source_sha256": "15656618556d3af9550e4b848b12f570ec3624ecdd19dc2d294b9945784f24df",
+  "source_id": "eb60ea15-48e7-45ca-8021-941ed4c3b9ed",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 269/2020-54",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Eva Pohorelcová",
+    "ecli": "ECLI:CZ:OSCV:2021:16.C.269.2020.1",
+    "predmetRizeni": "zaplacení 1 794 Kč s příslušenstvím (pojistné)",
+    "datumVydani": "2021-02-03",
+    "datumZverejneni": "2021-03-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "prodlení věřitele",
+      "rozhodčí doložka"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 52 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 13 z. č. 168/1999 Sb.",
+      "§ 56 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/eb60ea15-48e7-45ca-8021-941ed4c3b9ed"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
