@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:6.C.194.2020.1",
+  "docket": "6 C 194/2020-76",
+  "date": "2021-02-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2c63e942-e8dc-4d38-a6d3-34e648811645",
+  "source_sha256": "86bf845f73f5019b61f9341f0498462f1ac021e85e65b9d9b7698b80ab99fe25",
+  "source_id": "2c63e942-e8dc-4d38-a6d3-34e648811645",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 194/2020-76",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. František Jurtík",
+    "ecli": "ECLI:CZ:OSPV:2021:6.C.194.2020.1",
+    "predmetRizeni": "O zaplacení 9.545 Kč s příslušenstvím",
+    "datumVydani": "2021-02-03",
+    "datumZverejneni": "2021-03-31",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 657 z. č. 89/2012 Sb.",
+      "§ 1968 nař. vl. č. 351/2013 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§  z. č. 43/2013 Sb.",
+      "§ 457 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2c63e942-e8dc-4d38-a6d3-34e648811645"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
