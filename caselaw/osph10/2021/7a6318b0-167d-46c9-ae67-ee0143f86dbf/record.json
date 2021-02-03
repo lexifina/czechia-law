@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2021:21.C.140.2020.1",
+  "docket": "21 C 140/2020-20",
+  "date": "2021-02-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7a6318b0-167d-46c9-ae67-ee0143f86dbf",
+  "source_sha256": "c09cb30048606d9656f6ff0736ce361816c824b646c12d17180e91415791c695",
+  "source_id": "7a6318b0-167d-46c9-ae67-ee0143f86dbf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 140/2020-20",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "Mgr. Jolana Stonawská",
+    "ecli": "ECLI:CZ:OSPH10:2021:21.C.140.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-02-03",
+    "datumZverejneni": "2021-03-31",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 17a z. č. 553/1991 Sb.",
+      "§ 2 z. č. 56/2001 Sb.",
+      "§ 2 z. č. 361/2000 Sb.",
+      "§ 131 z. č. 131/2000 Sb.",
+      "§  z. č. 239/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7a6318b0-167d-46c9-ae67-ee0143f86dbf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
