@@ -1,0 +1,31 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:9.C.23.2020.1",
+  "docket": "9 C 23/2020-36",
+  "date": "2021-02-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0bf453f0-d1d0-46a7-b95f-ae2f69c24543",
+  "source_sha256": "9e8f707512ee721a6be51aee262c354f744840c16d65d908cb5c77f3dde61ba8",
+  "source_id": "0bf453f0-d1d0-46a7-b95f-ae2f69c24543",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 23/2020-36",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "Mgr. Jindřich Rajman",
+    "ecli": "ECLI:CZ:OSHK:2021:9.C.23.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-03",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0bf453f0-d1d0-46a7-b95f-ae2f69c24543"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
