@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:74.C.300.2020.3",
+  "docket": "74 C 300/2020-28",
+  "date": "2021-02-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9de9245d-b606-4c14-99e1-cb90f22ff090",
+  "source_sha256": "5f1e30b7997ad15e607013bed598cb288992e1c0460b65909728085991bb4c22",
+  "source_id": "9de9245d-b606-4c14-99e1-cb90f22ff090",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "74 C 300/2020-28",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Petra Kaplanová",
+    "ecli": "ECLI:CZ:OSUL:2021:74.C.300.2020.3",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-03",
+    "datumZverejneni": "2021-03-16",
+    "klicovaSlova": [
+      "cizina",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 50 z. č. 91/2012 Sb.",
+      "§ 49 z. č. 91/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9de9245d-b606-4c14-99e1-cb90f22ff090"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
