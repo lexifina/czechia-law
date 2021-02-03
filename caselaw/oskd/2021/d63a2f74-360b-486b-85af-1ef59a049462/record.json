@@ -1,0 +1,47 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:209.C.171.2020.1",
+  "docket": "209 C 171/2020",
+  "date": "2021-02-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d63a2f74-360b-486b-85af-1ef59a049462",
+  "source_sha256": "d691a53efd8009cfd9a8b836dc3552b9f6ba9b269c4b5cb9740d94a15fc06b40",
+  "source_id": "d63a2f74-360b-486b-85af-1ef59a049462",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "209 C 171/2020",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Alena Šustrová",
+    "ecli": "ECLI:CZ:OSKD:2021:209.C.171.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-03",
+    "datumZverejneni": "2021-05-06",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "péče řádného hospodáře",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva nájemní",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 576 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d63a2f74-360b-486b-85af-1ef59a049462"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
