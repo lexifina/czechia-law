@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2021:17.C.268.2020.2",
+  "docket": "17 C 268/2020-12",
+  "date": "2021-02-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fc9eac2f-18e7-4b10-a5c4-f79d72ece04e",
+  "source_sha256": "a000eb2973dec5a008add574d28a44eca3333ba123855d3951b54e7d9f2a4b0b",
+  "source_id": "fc9eac2f-18e7-4b10-a5c4-f79d72ece04e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 268/2020-12",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "Mgr. Jana Fejtová",
+    "ecli": "ECLI:CZ:OSNJ:2021:17.C.268.2020.2",
+    "predmetRizeni": "O zaplacení 8 000 Kč s příslušenstvím",
+    "datumVydani": "2021-02-03",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fc9eac2f-18e7-4b10-a5c4-f79d72ece04e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
