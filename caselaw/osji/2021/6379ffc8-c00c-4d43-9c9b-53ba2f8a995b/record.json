@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2021:12.C.301.2020.1",
+  "docket": "12 C 301/2020-23",
+  "date": "2021-02-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6379ffc8-c00c-4d43-9c9b-53ba2f8a995b",
+  "source_sha256": "74a6d607984e9a87fc48cd94394907f4f20e64b9e86cb4ebd6179a91d8d66943",
+  "source_id": "6379ffc8-c00c-4d43-9c9b-53ba2f8a995b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 301/2020-23",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "JUDr. Eva Bastlová",
+    "ecli": "ECLI:CZ:OSJI:2021:12.C.301.2020.1",
+    "predmetRizeni": "o 6 410 Kč s příslušenstvím",
+    "datumVydani": "2021-02-03",
+    "datumZverejneni": "2021-04-19",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  vyhl. č. 205/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6379ffc8-c00c-4d43-9c9b-53ba2f8a995b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
