@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:12.C.359.2020.1",
+  "docket": "12 C 359/2020-29",
+  "date": "2021-02-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fa459be3-6d85-4558-80bc-dca75569e5b9",
+  "source_sha256": "0e431b5c00db19d5d37b16f229ec8796f4efffa984600df1251eaabfb6da73ab",
+  "source_id": "fa459be3-6d85-4558-80bc-dca75569e5b9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 359/2020-29",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "JUDr. Ivana Lukášová",
+    "ecli": "ECLI:CZ:OSCL:2021:12.C.359.2020.1",
+    "predmetRizeni": "O zaplacení 4 551,67 Kč s příslušenstvím",
+    "datumVydani": "2021-02-03",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "peněžité plnění",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fa459be3-6d85-4558-80bc-dca75569e5b9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
