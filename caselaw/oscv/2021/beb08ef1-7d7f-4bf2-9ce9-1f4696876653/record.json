@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:31.C.189.2020.1",
+  "docket": "31 C 189/2020-49",
+  "date": "2021-02-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/beb08ef1-7d7f-4bf2-9ce9-1f4696876653",
+  "source_sha256": "a1e0e2f2eba4f60ae730115766b0ec5b2733658870c65ce91afb007230a3364e",
+  "source_id": "beb08ef1-7d7f-4bf2-9ce9-1f4696876653",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "31 C 189/2020-49",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Jan Zdražil",
+    "ecli": "ECLI:CZ:OSCV:2021:31.C.189.2020.1",
+    "predmetRizeni": "vyklizení nemovitosti",
+    "datumVydani": "2021-02-03",
+    "datumZverejneni": "2021-12-17",
+    "klicovaSlova": [
+      "nebytový prostor",
+      "peněžité plnění",
+      "podnájem",
+      "smlouva nájemní",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 3074 z. č. 89/2012 Sb.",
+      "§ 21 z. č. 99/1963 Sb.",
+      "§ 2302 z. č. 89/2012 Sb.",
+      "§ 2309 z. č. 89/2012 Sb.",
+      "§ 2314 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 37/1992 Sb.",
+      "§ 2276 z. č. 89/2012 Sb.",
+      "§ 25 z. č. 99/1963 Sb.",
+      "§ 2310 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/beb08ef1-7d7f-4bf2-9ce9-1f4696876653"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
