@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2021:23.C.106.2020.1",
+  "docket": "23 C 106/2020-57",
+  "date": "2021-02-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d6baf41b-9ec8-4ce4-8fdf-41a1b6408fa6",
+  "source_sha256": "9b4830fa94e290a4f6565715a5b1912029b8cc69d9f8083b38e01483368dae46",
+  "source_id": "d6baf41b-9ec8-4ce4-8fdf-41a1b6408fa6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 106/2020-57",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "Mgr. Michal Novotný",
+    "ecli": "ECLI:CZ:OSPH08:2021:23.C.106.2020.1",
+    "predmetRizeni": "o zaplacení 6 029,72 Kč s příslušenstvím",
+    "datumVydani": "2021-02-03",
+    "datumZverejneni": "2021-05-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2399 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d6baf41b-9ec8-4ce4-8fdf-41a1b6408fa6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
