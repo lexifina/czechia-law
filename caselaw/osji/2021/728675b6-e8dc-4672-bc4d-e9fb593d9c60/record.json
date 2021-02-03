@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2021:12.C.352.2020.1",
+  "docket": "12 C 352/2020-10",
+  "date": "2021-02-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/728675b6-e8dc-4672-bc4d-e9fb593d9c60",
+  "source_sha256": "108811ffa74505d459c0553ea4cce94a5df50108c9adafff762ec2d7eee9d29a",
+  "source_id": "728675b6-e8dc-4672-bc4d-e9fb593d9c60",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 352/2020-10",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "JUDr. Eva Bastlová",
+    "ecli": "ECLI:CZ:OSJI:2021:12.C.352.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-03",
+    "datumZverejneni": "2021-02-09",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/728675b6-e8dc-4672-bc4d-e9fb593d9c60"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
