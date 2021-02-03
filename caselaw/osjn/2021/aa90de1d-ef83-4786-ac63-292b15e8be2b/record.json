@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2021:119.C.21.2014.1",
+  "docket": "119 C 21/2014-40",
+  "date": "2021-02-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/aa90de1d-ef83-4786-ac63-292b15e8be2b",
+  "source_sha256": "83bf0880000d696a9ee99ba9bd79b56340f728e894171944311d07cce47790d9",
+  "source_id": "aa90de1d-ef83-4786-ac63-292b15e8be2b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "119 C 21/2014-40",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "JUDr. Jan Kušnír",
+    "ecli": "ECLI:CZ:OSJN:2021:119.C.21.2014.1",
+    "predmetRizeni": "o zaplacení 3 340 Kč s přísl.",
+    "datumVydani": "2021-02-03",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "platební rozkaz"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 657 z. č. 40/1964 Sb.",
+      "§ 658 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/aa90de1d-ef83-4786-ac63-292b15e8be2b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
