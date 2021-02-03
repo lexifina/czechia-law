@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Uherském Hradišti",
+  "ecli": "ECLI:CZ:OSUH:2021:3.C.286.2020.1",
+  "docket": "3 C 286/2020-39",
+  "date": "2021-02-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2d1b5cf7-c4c2-4f3d-8c06-0bcf609f0b88",
+  "source_sha256": "c1c0c3c297434c902a7758e5aef79f159d69b2bce2ea60866aa0d4b4a7eff3fe",
+  "source_id": "2d1b5cf7-c4c2-4f3d-8c06-0bcf609f0b88",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 286/2020-39",
+    "soud": "Okresní soud v Uherském Hradišti",
+    "autor": "Mgr. Zuzana Matulová",
+    "ecli": "ECLI:CZ:OSUH:2021:3.C.286.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-02-03",
+    "datumZverejneni": "2021-09-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "smlouva spotřebitelská"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 2399 z. č. 89/2012 Sb.",
+      "§ 1882 z. č. 89/2012 Sb.",
+      "§ 124 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2d1b5cf7-c4c2-4f3d-8c06-0bcf609f0b88"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
