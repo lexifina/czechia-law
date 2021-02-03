@@ -1,0 +1,31 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:11.C.314.2020.1",
+  "docket": "11 C 314/2020-8",
+  "date": "2021-02-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/738ff7ad-688c-4683-b7e6-177ab4c6bd66",
+  "source_sha256": "27e1f0d0bfcfdff38b017e34dc030d229582a3c4010eeff3df344d31329c2ec8",
+  "source_id": "738ff7ad-688c-4683-b7e6-177ab4c6bd66",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 314/2020-8",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "JUDr. Ing. Petr Slunský, , Ph.D., Ph.D.",
+    "ecli": "ECLI:CZ:OSZN:2021:11.C.314.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-03",
+    "datumZverejneni": "2021-02-25",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/738ff7ad-688c-4683-b7e6-177ab4c6bd66"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
