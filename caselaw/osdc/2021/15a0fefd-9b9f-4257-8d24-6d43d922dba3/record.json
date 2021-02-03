@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:15.C.337.2020.1",
+  "docket": "15 C 337/2020-20",
+  "date": "2021-02-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/15a0fefd-9b9f-4257-8d24-6d43d922dba3",
+  "source_sha256": "88e9c346d02d8da06c6e6279c7aa91db352a1aa5a131b25e96b0a1188fe37b22",
+  "source_id": "15a0fefd-9b9f-4257-8d24-6d43d922dba3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 337/2020-20",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Kateřina Cvachová",
+    "ecli": "ECLI:CZ:OSDC:2021:15.C.337.2020.1",
+    "predmetRizeni": "O zaplacení [částka]",
+    "datumVydani": "2021-02-03",
+    "datumZverejneni": "2021-03-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/15a0fefd-9b9f-4257-8d24-6d43d922dba3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
