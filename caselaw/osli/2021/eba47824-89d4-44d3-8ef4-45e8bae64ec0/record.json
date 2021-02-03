@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:27.C.138.2019.1",
+  "docket": "27 C 138/2019-53",
+  "date": "2021-02-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/eba47824-89d4-44d3-8ef4-45e8bae64ec0",
+  "source_sha256": "b1d1759f578447a7578c56b2a818c3ab2208f7fe6c1315089143a28f7156f17a",
+  "source_id": "eba47824-89d4-44d3-8ef4-45e8bae64ec0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 138/2019-53",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Petr Hoček",
+    "ecli": "ECLI:CZ:OSLI:2021:27.C.138.2019.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 152.041,64 Kč s přísl.",
+    "datumVydani": "2021-02-03",
+    "datumZverejneni": "2021-05-10",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 497 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/eba47824-89d4-44d3-8ef4-45e8bae64ec0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
