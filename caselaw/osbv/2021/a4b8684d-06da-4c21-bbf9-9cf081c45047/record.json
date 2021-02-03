@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2021:11.C.112.2020.1",
+  "docket": "11 C 112/2020-27",
+  "date": "2021-02-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a4b8684d-06da-4c21-bbf9-9cf081c45047",
+  "source_sha256": "12abfc4053fd21a2e1a7e3e6bca6548a23542681e6e8596983f14a3718694f36",
+  "source_id": "a4b8684d-06da-4c21-bbf9-9cf081c45047",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 112/2020-27",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "JUDr. Hana Dobišarová",
+    "ecli": "ECLI:CZ:OSBV:2021:11.C.112.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-03",
+    "datumZverejneni": "2021-03-30",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 384 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a4b8684d-06da-4c21-bbf9-9cf081c45047"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
