@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:57.C.153.2020.1",
+  "docket": "57 C 153/2020-65",
+  "date": "2021-02-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/01d3f793-081f-4218-a74b-6e13ef4ad1f6",
+  "source_sha256": "84dc5d794055ffee6b297c06f480c02e88bd59332d9252fb0b9e819592c0e87a",
+  "source_id": "01d3f793-081f-4218-a74b-6e13ef4ad1f6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "57 C 153/2020-65",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. David Šeremek",
+    "ecli": "ECLI:CZ:OSOV:2021:57.C.153.2020.1",
+    "predmetRizeni": "o 99 953 Kč s příslušenstvím",
+    "datumVydani": "2021-02-03",
+    "datumZverejneni": "2021-04-15",
+    "klicovaSlova": [
+      "konkurs",
+      "odstupné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2951 z. č. 89/2012 Sb.",
+      "§ 44b z. č. 435/2004 Sb.",
+      "§ 37 z. č. 182/2006 Sb.",
+      "§ 67 z. č. 262/2006 Sb.",
+      "§ 8 z. č. 300/2008 Sb.",
+      "§ 161 z. č. 280/2009 Sb.",
+      "§ 162 z. č. 280/2009 Sb.",
+      "§ 8 z. č. 17/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/01d3f793-081f-4218-a74b-6e13ef4ad1f6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
