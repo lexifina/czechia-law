@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:209.C.232.2020.1",
+  "docket": "209 C 232/2020",
+  "date": "2021-02-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/620b7111-d206-4e02-a1ec-536fa6003eaa",
+  "source_sha256": "6c63af9df8cd25da15f4cdfff5571dfdd1faa5f0983840badf3f405ca690613c",
+  "source_id": "620b7111-d206-4e02-a1ec-536fa6003eaa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "209 C 232/2020",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Alena Šustrová",
+    "ecli": "ECLI:CZ:OSKD:2021:209.C.232.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-03",
+    "datumZverejneni": "2021-03-08",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 27 z. č. 266/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/620b7111-d206-4e02-a1ec-536fa6003eaa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
