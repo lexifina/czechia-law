@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2021:6.C.204.2020.1",
+  "docket": "6 C 204/2020-32",
+  "date": "2021-02-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/899f2b9b-1808-44df-9fdb-0976c8a6d722",
+  "source_sha256": "3265783425c2f286792ccbc00ee9bb3d98799d4719bfd882d5b0274201727b09",
+  "source_id": "899f2b9b-1808-44df-9fdb-0976c8a6d722",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 204/2020-32",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "JUDr. Milena Hrdličková",
+    "ecli": "ECLI:CZ:OSCK:2021:6.C.204.2020.1",
+    "predmetRizeni": "o zaplacení částky 19 182,14 Kč s příslušenstvím",
+    "datumVydani": "2021-02-03",
+    "datumZverejneni": "2021-03-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/899f2b9b-1808-44df-9fdb-0976c8a6d722"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
