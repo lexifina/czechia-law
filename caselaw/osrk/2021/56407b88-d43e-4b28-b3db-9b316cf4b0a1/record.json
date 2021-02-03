@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rychnově nad Kněžnou",
+  "ecli": "ECLI:CZ:OSRK:2021:3.C.3.2021.1",
+  "docket": "3 C 3/2021-29",
+  "date": "2021-02-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/56407b88-d43e-4b28-b3db-9b316cf4b0a1",
+  "source_sha256": "405a8ef267fa26afa91ba99ff6dd25bd103ca614861092fb62e4ad884708d348",
+  "source_id": "56407b88-d43e-4b28-b3db-9b316cf4b0a1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 3/2021-29",
+    "soud": "Okresní soud v Rychnově nad Kněžnou",
+    "autor": "JUDr. Jiří Fuks, Ph.D.",
+    "ecli": "ECLI:CZ:OSRK:2021:3.C.3.2021.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-03",
+    "datumZverejneni": "2021-03-08",
+    "klicovaSlova": [
+      "cena věci",
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 82/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/56407b88-d43e-4b28-b3db-9b316cf4b0a1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
