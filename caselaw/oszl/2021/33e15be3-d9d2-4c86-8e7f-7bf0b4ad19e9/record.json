@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2021:36.C.366.2020.1",
+  "docket": "36 C 366/2020-45",
+  "date": "2021-02-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/33e15be3-d9d2-4c86-8e7f-7bf0b4ad19e9",
+  "source_sha256": "49d4819c089c8e53f01500f4da2834af043b5e586f01e942ebab91cfa91f0210",
+  "source_id": "33e15be3-d9d2-4c86-8e7f-7bf0b4ad19e9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 366/2020-45",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "Mgr. Dana Matoušová",
+    "ecli": "ECLI:CZ:OSZL:2021:36.C.366.2020.1",
+    "predmetRizeni": "zaplacení 10 080 Kč s příslušenstvím",
+    "datumVydani": "2021-02-03",
+    "datumZverejneni": "2021-04-01",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 96 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/33e15be3-d9d2-4c86-8e7f-7bf0b4ad19e9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
