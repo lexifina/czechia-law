@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:10.C.276.2020.1",
+  "docket": "10 C 276/2020-20",
+  "date": "2021-02-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1884301c-eab1-4c5b-b4a2-aa7783568c25",
+  "source_sha256": "cc61428a57cd0c849b50da3fd2f07306da9632873c3d074967ec03244634ccf0",
+  "source_id": "1884301c-eab1-4c5b-b4a2-aa7783568c25",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 276/2020-20",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "JUDr. Dagmar Štefancová",
+    "ecli": "ECLI:CZ:OSHO:2021:10.C.276.2020.1",
+    "predmetRizeni": "zaplacení 1 379,40 Kč",
+    "datumVydani": "2021-02-03",
+    "datumZverejneni": "2021-09-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 115 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1884301c-eab1-4c5b-b4a2-aa7783568c25"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
