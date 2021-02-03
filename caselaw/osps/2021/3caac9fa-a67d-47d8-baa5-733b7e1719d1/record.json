@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:10.C.89.2020.2",
+  "docket": "10 C 89/2020-203",
+  "date": "2021-02-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3caac9fa-a67d-47d8-baa5-733b7e1719d1",
+  "source_sha256": "6e6eeb6756d617c50ceb0ae38c50716b6663fe6e7c61f35e7b45d97835b6d3f0",
+  "source_id": "3caac9fa-a67d-47d8-baa5-733b7e1719d1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 89/2020-203",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "Mgr. Antonín Pektor",
+    "ecli": "ECLI:CZ:OSPS:2021:10.C.89.2020.2",
+    "predmetRizeni": "174 798 Kč s přísl.",
+    "datumVydani": "2021-02-03",
+    "datumZverejneni": "2021-08-04",
+    "klicovaSlova": [
+      "náhrada škody",
+      "peněžité plnění",
+      "smlouva pracovní",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 513 z. č. 89/2012 Sb.",
+      "§ 250 z. č. 262/2006 Sb.",
+      "§ 264 z. č. 262/2006 Sb.",
+      "§ 257/1,2 z. č. 262/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3caac9fa-a67d-47d8-baa5-733b7e1719d1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
