@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:16.C.376.2019.2",
+  "docket": "16 C 376/2019-71",
+  "date": "2021-02-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/65e8e908-b3de-4b54-a28e-c9c46c795ca2",
+  "source_sha256": "f38958d55b840ffb2448d194e573bf0af85d616480e5724833da316ee5462c47",
+  "source_id": "65e8e908-b3de-4b54-a28e-c9c46c795ca2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 376/2019-71",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Eva Pohorelcová",
+    "ecli": "ECLI:CZ:OSCV:2021:16.C.376.2019.2",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím (nepovolený debetní zůstatek)",
+    "datumVydani": "2021-02-03",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o účtu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 29 z. č. 99/1963 Sb.",
+      "§ 140 z. č. 99/1963 Sb.",
+      "§ 629 z. č. 89/2012 Sb.",
+      "§ 609 z. č. 89/2012 Sb.",
+      "§ 2662 z. č. 89/2012 Sb.",
+      "§ 12a vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/65e8e908-b3de-4b54-a28e-c9c46c795ca2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
