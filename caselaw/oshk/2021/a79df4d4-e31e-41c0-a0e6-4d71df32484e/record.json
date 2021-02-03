@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:13.C.407.2020.1",
+  "docket": "13 C 407/2020-23",
+  "date": "2021-02-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a79df4d4-e31e-41c0-a0e6-4d71df32484e",
+  "source_sha256": "538f4e58cd57662805504b468b78343f342849aa1f2e9beb09bba00a3b2a0c6d",
+  "source_id": "a79df4d4-e31e-41c0-a0e6-4d71df32484e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 407/2020-23",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "JUDr. Anna Tichá",
+    "ecli": "ECLI:CZ:OSHK:2021:13.C.407.2020.1",
+    "predmetRizeni": "o zaplacení částky 3 040 Kč s příslušenstvím",
+    "datumVydani": "2021-02-03",
+    "datumZverejneni": "2021-03-31",
+    "klicovaSlova": [
+      "duševní porucha",
+      "jízdné",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 112 z. č. 99/1963 Sb.",
+      "§  z. č. 111/94 Sb.",
+      "§ 18a z. č. 266/94 Sb.",
+      "§ 2554 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a79df4d4-e31e-41c0-a0e6-4d71df32484e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
