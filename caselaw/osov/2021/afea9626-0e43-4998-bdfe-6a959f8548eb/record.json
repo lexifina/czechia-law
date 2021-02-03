@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:61.C.123.2020.5",
+  "docket": "61 C 123/2020-34",
+  "date": "2021-02-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/afea9626-0e43-4998-bdfe-6a959f8548eb",
+  "source_sha256": "a3aad6d3e45c0afe9cc2583ec87bc500e6333a7fc2d160973fc407f8ff278a93",
+  "source_id": "afea9626-0e43-4998-bdfe-6a959f8548eb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "61 C 123/2020-34",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Ing. Lukáš Holenda",
+    "ecli": "ECLI:CZ:OSOV:2021:61.C.123.2020.5",
+    "predmetRizeni": "o vyklizení bytu",
+    "datumVydani": "2021-02-03",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva nájemní",
+      "vyklizení bytu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2285 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/afea9626-0e43-4998-bdfe-6a959f8548eb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
