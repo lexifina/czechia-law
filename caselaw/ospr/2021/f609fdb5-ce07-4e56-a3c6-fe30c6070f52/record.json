@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2021:10.C.198.2020.1",
+  "docket": "10 C 198/2020-39",
+  "date": "2021-02-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f609fdb5-ce07-4e56-a3c6-fe30c6070f52",
+  "source_sha256": "e3666823a5aaaa54df4168d487a41eb44ed30ddea7434e7cc32645c3b4e972c2",
+  "source_id": "f609fdb5-ce07-4e56-a3c6-fe30c6070f52",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 198/2020-39",
+    "soud": "Okresní soud v Přerově",
+    "autor": "Mgr. Anna Coufalová",
+    "ecli": "ECLI:CZ:OSPR:2021:10.C.198.2020.1",
+    "predmetRizeni": "zaplacení [částka] s přísl. - bezdůvodné obohacení",
+    "datumVydani": "2021-02-04",
+    "datumZverejneni": "2021-05-25",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "podílové spoluvlastnictví",
+      "pozůstalost",
+      "smlouva darovací",
+      "spoluvlastnictví"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 1117 z. č. 89/2012 Sb.",
+      "§ 1126 z. č. 89/2012 Sb.",
+      "§ 1128 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f609fdb5-ce07-4e56-a3c6-fe30c6070f52"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
