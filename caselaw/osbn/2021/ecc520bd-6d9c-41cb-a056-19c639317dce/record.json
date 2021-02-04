@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2021:11.C.5.2021.1",
+  "docket": "11 C 5/2021-18",
+  "date": "2021-02-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ecc520bd-6d9c-41cb-a056-19c639317dce",
+  "source_sha256": "d7a7ea786e67a53e07b65584d06249c60feb70d3dc9d8b5cced53697c94fac65",
+  "source_id": "ecc520bd-6d9c-41cb-a056-19c639317dce",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 5/2021-18",
+    "soud": "Okresní soud v Benešově",
+    "autor": "JUDr. Eva Kůsová, Ph.D.",
+    "ecli": "ECLI:CZ:OSBN:2021:11.C.5.2021.1",
+    "predmetRizeni": "o zaplacení 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-02-04",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2550,2048 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ecc520bd-6d9c-41cb-a056-19c639317dce"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
