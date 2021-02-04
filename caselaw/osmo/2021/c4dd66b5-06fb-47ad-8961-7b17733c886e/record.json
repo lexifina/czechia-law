@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:14.C.420.2020.2",
+  "docket": "14 C 420/2020-19",
+  "date": "2021-02-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c4dd66b5-06fb-47ad-8961-7b17733c886e",
+  "source_sha256": "43792819098dcc03e1cddbf8f4b1d675381df164ec9974914b6a12da38bbe8d3",
+  "source_id": "c4dd66b5-06fb-47ad-8961-7b17733c886e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 420/2020-19",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Karel Štička",
+    "ecli": "ECLI:CZ:OSMO:2021:14.C.420.2020.2",
+    "predmetRizeni": "3 659 Kč s příslušenstvím",
+    "datumVydani": "2021-02-04",
+    "datumZverejneni": "2021-02-15",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "regulační poplatek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 89a z. č. 120/2001 Sb.",
+      "§ 16a z. č. 48/1997 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c4dd66b5-06fb-47ad-8961-7b17733c886e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
