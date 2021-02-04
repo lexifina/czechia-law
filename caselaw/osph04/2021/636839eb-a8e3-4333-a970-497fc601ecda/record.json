@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:43.C.26.2020.1",
+  "docket": "43 C 26/2020-39",
+  "date": "2021-02-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/636839eb-a8e3-4333-a970-497fc601ecda",
+  "source_sha256": "19f6ce35df00a0d97267357e7cff297dd8014e1a94f984ad0467debd68b2775f",
+  "source_id": "636839eb-a8e3-4333-a970-497fc601ecda",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "43 C 26/2020-39",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "Mgr. Monika Tupá",
+    "ecli": "ECLI:CZ:OSPH04:2021:43.C.26.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-02-04",
+    "datumZverejneni": "2021-05-28",
+    "klicovaSlova": [
+      "notářský zápis",
+      "smlouva o úvěru",
+      "zástavní právo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  z. č. 72/1994 Sb.",
+      "§ 358 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/636839eb-a8e3-4333-a970-497fc601ecda"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
