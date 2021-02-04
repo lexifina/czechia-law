@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:7.C.490.2020.1",
+  "docket": "7 C 490/2020-17",
+  "date": "2021-02-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b8e1e644-25ff-4a24-b9f0-3f2580bf9439",
+  "source_sha256": "0090e461fc42f19cdcfcfece217b5954fa48d88c8d900d58d21610e07a2bc875",
+  "source_id": "b8e1e644-25ff-4a24-b9f0-3f2580bf9439",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 490/2020-17",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "JUDr. Pavel Téra",
+    "ecli": "ECLI:CZ:OSUL:2021:7.C.490.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-04",
+    "datumZverejneni": "2021-03-05",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  z. č. 458/2000 Sb.",
+      "§ 142od z. č. 99/1963 Sb.",
+      "§ 160od z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b8e1e644-25ff-4a24-b9f0-3f2580bf9439"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
