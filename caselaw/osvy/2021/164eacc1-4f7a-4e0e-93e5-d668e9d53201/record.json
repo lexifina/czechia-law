@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:10.C.41.2020.1",
+  "docket": "10 C 41/2020-97",
+  "date": "2021-02-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/164eacc1-4f7a-4e0e-93e5-d668e9d53201",
+  "source_sha256": "22a6927c22ed730181d639f5b53600ad7046ea24965adb023aeee37d9b2b2f97",
+  "source_id": "164eacc1-4f7a-4e0e-93e5-d668e9d53201",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 41/2020-97",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Mgr. Aleš Vylam",
+    "ecli": "ECLI:CZ:OSVY:2021:10.C.41.2020.1",
+    "predmetRizeni": "zaplacení částky 54 218 Kč s příslušenstvím - pojistné",
+    "datumVydani": "2021-02-04",
+    "datumZverejneni": "2021-03-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 2783 z. č. 89/2012 Sb.",
+      "§ 2804 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 2760 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 169/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/164eacc1-4f7a-4e0e-93e5-d668e9d53201"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
