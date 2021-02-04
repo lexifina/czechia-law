@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2021:11.C.380.2020.1",
+  "docket": "11 C 380/2020",
+  "date": "2021-02-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/df9cd4ea-57e5-4a78-8e14-3d4c4a07e9fa",
+  "source_sha256": "4e3627e9165a15af3896a435d1cf0dcd226a15b9696c79e01b3f4b32c25de2a1",
+  "source_id": "df9cd4ea-57e5-4a78-8e14-3d4c4a07e9fa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 380/2020",
+    "soud": "Okresní soud v Benešově",
+    "autor": "JUDr. Eva Kůsová, Ph.D.",
+    "ecli": "ECLI:CZ:OSBN:2021:11.C.380.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-04",
+    "datumZverejneni": "2021-05-27",
+    "klicovaSlova": [
+      "církev",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/df9cd4ea-57e5-4a78-8e14-3d4c4a07e9fa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
