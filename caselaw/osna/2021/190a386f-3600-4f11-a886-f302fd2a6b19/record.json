@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:5.C.223.2020.2",
+  "docket": "5 C 223/2020-21",
+  "date": "2021-02-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/190a386f-3600-4f11-a886-f302fd2a6b19",
+  "source_sha256": "d931d6223b787a21c3096604e7a7dab72a6956ff4ed2e5f9ed3a902f9f85d9c9",
+  "source_id": "190a386f-3600-4f11-a886-f302fd2a6b19",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 223/2020-21",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "JUDr. Jana Slížková",
+    "ecli": "ECLI:CZ:OSNA:2021:5.C.223.2020.2",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-04",
+    "datumZverejneni": "2021-03-03",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/190a386f-3600-4f11-a886-f302fd2a6b19"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
