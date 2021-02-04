@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2021:10.C.4.2021.1",
+  "docket": "10 C 4/2021-21",
+  "date": "2021-02-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/942b6a5d-35f1-414b-920e-8f47640d6789",
+  "source_sha256": "3aa4ac4e2040cbdb29a5d8d7e2bfbdfe1477545ec19bd002c735ead14b314460",
+  "source_id": "942b6a5d-35f1-414b-920e-8f47640d6789",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 4/2021-21",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "JUDr. Pavel Vlach, Ph.D.",
+    "ecli": "ECLI:CZ:OSJN:2021:10.C.4.2021.1",
+    "predmetRizeni": "o zaplacení 1 135 Kč s příslušenstvím",
+    "datumVydani": "2021-02-04",
+    "datumZverejneni": "2021-03-10",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 2804 z. č. 89/2012 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/942b6a5d-35f1-414b-920e-8f47640d6789"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
