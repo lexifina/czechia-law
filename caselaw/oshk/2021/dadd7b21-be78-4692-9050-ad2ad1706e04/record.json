@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:12.C.124.2020.1",
+  "docket": "12 C 124/2020-19",
+  "date": "2021-02-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dadd7b21-be78-4692-9050-ad2ad1706e04",
+  "source_sha256": "d923e875f09c9f28106a544e9edb6a59e795a3f6dbe832fc1a2a5aa959e948d7",
+  "source_id": "dadd7b21-be78-4692-9050-ad2ad1706e04",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 124/2020-19",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "JUDr. Milan Plhal",
+    "ecli": "ECLI:CZ:OSHK:2021:12.C.124.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-04",
+    "datumZverejneni": "2021-03-02",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dadd7b21-be78-4692-9050-ad2ad1706e04"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
