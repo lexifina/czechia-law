@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:13.C.521.2020.1",
+  "docket": "13 C 521/2020",
+  "date": "2021-02-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3ecc3322-7020-4f63-a82a-3f16819207db",
+  "source_sha256": "e47f7cc016cdf13eb4a3ed69c71a6859155406c5f8c35911cdea404a5750cefe",
+  "source_id": "3ecc3322-7020-4f63-a82a-3f16819207db",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 521/2020",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Ivana Šoljaková",
+    "ecli": "ECLI:CZ:OSLI:2021:13.C.521.2020.1",
+    "predmetRizeni": "Převod EPR zaplacení částky 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-02-04",
+    "datumZverejneni": "2021-03-21",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  z. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3ecc3322-7020-4f63-a82a-3f16819207db"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
