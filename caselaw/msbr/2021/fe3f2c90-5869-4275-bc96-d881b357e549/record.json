@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:242.C.123.2009.6",
+  "docket": "242 C 123/2009-215",
+  "date": "2021-02-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fe3f2c90-5869-4275-bc96-d881b357e549",
+  "source_sha256": "c684e6b5550b7b9f0bb3cb23e5bdf6284a10bccb73a9a34d9f49bd22a6382bd2",
+  "source_id": "fe3f2c90-5869-4275-bc96-d881b357e549",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "242 C 123/2009-215",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Petra Sedláčková",
+    "ecli": "ECLI:CZ:MSBR:2021:242.C.123.2009.6",
+    "predmetRizeni": "7.005,00 Kč s přísl. - faktura",
+    "datumVydani": "2021-02-04",
+    "datumZverejneni": "2021-05-05",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "převzetí dluhu",
+      "smlouva kupní",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 488 z. č. 40/1964 Sb.",
+      "§ 409 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fe3f2c90-5869-4275-bc96-d881b357e549"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
