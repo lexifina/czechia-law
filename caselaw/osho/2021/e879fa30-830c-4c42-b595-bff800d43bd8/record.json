@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:23.C.52.2020.1",
+  "docket": "23 C 52/2020-37",
+  "date": "2021-02-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e879fa30-830c-4c42-b595-bff800d43bd8",
+  "source_sha256": "d73927aeb7b798a2cd1236b847cd84cc5b38e686a83c5ce963350de6c9bd0209",
+  "source_id": "e879fa30-830c-4c42-b595-bff800d43bd8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 52/2020-37",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "Mgr. Michaela Džuberová",
+    "ecli": "ECLI:CZ:OSHO:2021:23.C.52.2020.1",
+    "predmetRizeni": "zaplacení 85 899 Kč s příslušenstvím",
+    "datumVydani": "2021-02-04",
+    "datumZverejneni": "2021-09-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "uznání dluhu",
+      "započtení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1982 z. č. 89/2012 Sb.",
+      "§ 1987 z. č. 89/2012 Sb.",
+      "§ 585 z. č. 89/2012 Sb.",
+      "§ 583 z. č. 89/2012 Sb.",
+      "§ 49a z. č. 89/2012 Sb.",
+      "§ 261a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e879fa30-830c-4c42-b595-bff800d43bd8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
