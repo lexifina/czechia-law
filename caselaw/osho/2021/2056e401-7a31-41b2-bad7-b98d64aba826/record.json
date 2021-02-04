@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:23.C.80.2020.1",
+  "docket": "23 C 80/2020-33",
+  "date": "2021-02-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2056e401-7a31-41b2-bad7-b98d64aba826",
+  "source_sha256": "ebca74f4a3a3ddeb14fb330ecb93a28b5b117a86b9c5ef792462026ca3423f4d",
+  "source_id": "2056e401-7a31-41b2-bad7-b98d64aba826",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 80/2020-33",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "Mgr. Michaela Džuberová",
+    "ecli": "ECLI:CZ:OSHO:2021:23.C.80.2020.1",
+    "predmetRizeni": "zaplacení 15 270 Kč s příslušenstvím",
+    "datumVydani": "2021-02-04",
+    "datumZverejneni": "2021-04-15",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva nájemní",
+      "smlouva o půjčce",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2056e401-7a31-41b2-bad7-b98d64aba826"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
