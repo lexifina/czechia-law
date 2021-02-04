@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:12.C.32.2021.1",
+  "docket": "12 C 32/2021-11",
+  "date": "2021-02-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5296d951-4950-422b-a802-68a2003a395b",
+  "source_sha256": "69f9ebb2189da5c742bed72e1f99eed845fe444828ec399fb5e5a5d21c194a56",
+  "source_id": "5296d951-4950-422b-a802-68a2003a395b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 32/2021-11",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "JUDr. Radomír Kubelka",
+    "ecli": "ECLI:CZ:OSKV:2021:12.C.32.2021.1",
+    "predmetRizeni": "1 416 Kč / pojistné",
+    "datumVydani": "2021-02-04",
+    "datumZverejneni": "2021-03-05",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1 nař. vl. č. 142/1994 Sb.",
+      "§ 24c z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5296d951-4950-422b-a802-68a2003a395b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
