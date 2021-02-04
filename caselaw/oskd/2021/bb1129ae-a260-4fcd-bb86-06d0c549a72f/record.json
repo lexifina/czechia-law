@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:18.C.34.2020.1",
+  "docket": "18 C 34/2020",
+  "date": "2021-02-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bb1129ae-a260-4fcd-bb86-06d0c549a72f",
+  "source_sha256": "3d38fcc391167ac528fb6db187f188de6734e07446f0612f91b6136539d1fa70",
+  "source_id": "bb1129ae-a260-4fcd-bb86-06d0c549a72f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 34/2020",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Jaroslava Tenglerová",
+    "ecli": "ECLI:CZ:OSKD:2021:18.C.34.2020.1",
+    "predmetRizeni": "žaloba o náhradu nemajetkové újmy",
+    "datumVydani": "2021-02-04",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "bolestné",
+      "duševní útrapy",
+      "náhrada nemajetkové újmy",
+      "nemajetková újma",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 2910 z. č. 89/2012 Sb.",
+      "§ 2958 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bb1129ae-a260-4fcd-bb86-06d0c549a72f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
