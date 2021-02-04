@@ -1,0 +1,47 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2021:10.C.274.2020.1",
+  "docket": "10 C 274/2020-20",
+  "date": "2021-02-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/649b3e83-c3b6-4844-b9e5-222ad235e060",
+  "source_sha256": "33f66617d6abede1efb279ba2826d5a9f479c56b8900d63f0681be2e5221df7a",
+  "source_id": "649b3e83-c3b6-4844-b9e5-222ad235e060",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 274/2020-20",
+    "soud": "Okresní soud v Opavě",
+    "autor": "Mgr. Adam Haas",
+    "ecli": "ECLI:CZ:OSOP:2021:10.C.274.2020.1",
+    "predmetRizeni": "o zaplacení 77 795 Kč s příslušenstvím",
+    "datumVydani": "2021-02-04",
+    "datumZverejneni": "2021-03-18",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "dlužné nájemné",
+      "nájem bytu",
+      "nebytový prostor",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2217 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 2295 z. č. 89/2012 Sb.",
+      "§ 2286 z. č. 89/2012 Sb.",
+      "§  z. č. 351/2013 Sb.",
+      "§ 2251 z. č. 89/2012 Sb.",
+      "§ 2303 z. č. 89/2012 Sb.",
+      "§ 2253 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/649b3e83-c3b6-4844-b9e5-222ad235e060"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
