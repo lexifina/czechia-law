@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:40.C.110.2020.1",
+  "docket": "40 C 110/2020-24",
+  "date": "2021-02-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/df86b351-b49a-43f8-9b20-bb7321f3e4e8",
+  "source_sha256": "2579949683927a869de31ed4b984920b07738ae0c078428cbf238f87d163f2fb",
+  "source_id": "df86b351-b49a-43f8-9b20-bb7321f3e4e8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "40 C 110/2020-24",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Kateřina Kozáková",
+    "ecli": "ECLI:CZ:OSPH01:2021:40.C.110.2020.1",
+    "predmetRizeni": "o zaplacení 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-02-04",
+    "datumZverejneni": "2021-03-31",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 49 vyhl. č. 175/2000 Sb.",
+      "§ 18a z. č. 11/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/df86b351-b49a-43f8-9b20-bb7321f3e4e8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
