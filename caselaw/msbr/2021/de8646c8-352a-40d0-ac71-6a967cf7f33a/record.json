@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:16.C.221.2020.1",
+  "docket": "16 C 221/2020-41",
+  "date": "2021-02-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/de8646c8-352a-40d0-ac71-6a967cf7f33a",
+  "source_sha256": "161529ea23cb83cf8cc17942a79837809a1f5b8c28b6f4e7471c1618dc5d5a25",
+  "source_id": "de8646c8-352a-40d0-ac71-6a967cf7f33a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 221/2020-41",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Miroslav Král",
+    "ecli": "ECLI:CZ:MSBR:2021:16.C.221.2020.1",
+    "predmetRizeni": "zaplacení 434.172,76 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2021-02-04",
+    "datumZverejneni": "2021-06-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2662 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/de8646c8-352a-40d0-ac71-6a967cf7f33a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
