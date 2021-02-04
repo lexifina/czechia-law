@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:10.C.22.2021.1",
+  "docket": "10 C 22/2021-11",
+  "date": "2021-02-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/df6e6e14-7e0a-4896-a287-821067ee28dc",
+  "source_sha256": "15bf289d7825976d0661aa848ce332feec1a213faff17195ca1f536fea832d45",
+  "source_id": "df6e6e14-7e0a-4896-a287-821067ee28dc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 22/2021-11",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Blanka Magliová",
+    "ecli": "ECLI:CZ:OSKV:2021:10.C.22.2021.1",
+    "predmetRizeni": "1.524 Kč / jízdné",
+    "datumVydani": "2021-02-04",
+    "datumZverejneni": "2021-03-25",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/df6e6e14-7e0a-4896-a287-821067ee28dc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
