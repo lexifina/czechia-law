@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:31.C.325.2020.3",
+  "docket": "31 C 325/2020-24",
+  "date": "2021-02-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d5984795-1be3-4069-8c7f-a8e5aa07298d",
+  "source_sha256": "9577d3dc3d2644157415f3ef9a623b234e1d0b9fbb863ae2ce84c29d43920278",
+  "source_id": "d5984795-1be3-4069-8c7f-a8e5aa07298d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "31 C 325/2020-24",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Jana Zonková",
+    "ecli": "ECLI:CZ:OSOV:2021:31.C.325.2020.3",
+    "predmetRizeni": "o zaplacení 5 000 Kč s příslušenstvím",
+    "datumVydani": "2021-02-04",
+    "datumZverejneni": "2021-09-29",
+    "klicovaSlova": [
+      "elektronický podpis",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 96 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d5984795-1be3-4069-8c7f-a8e5aa07298d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
