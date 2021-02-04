@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:36.C.490.2020.1",
+  "docket": "36 C 490/2020-20",
+  "date": "2021-02-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8aefbf07-8924-4560-afda-3f687864fc44",
+  "source_sha256": "1898ba6d2e209e25bf4869f9c5772b83228ff5c987f7f56b5b42b1e89b9f8f66",
+  "source_id": "8aefbf07-8924-4560-afda-3f687864fc44",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 490/2020-20",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Tereza Dobešová",
+    "ecli": "ECLI:CZ:OSPY:2021:36.C.490.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-04",
+    "datumZverejneni": "2021-03-03",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 384 z. č. 292/2013 Sb.",
+      "§ 2 z. č. 91/2012 Sb.",
+      "§ 23 z. č. 36/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8aefbf07-8924-4560-afda-3f687864fc44"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
