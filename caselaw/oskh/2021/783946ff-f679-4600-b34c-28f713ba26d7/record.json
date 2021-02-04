@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kutné Hoře",
+  "ecli": "ECLI:CZ:OSKH:2021:7.C.21.2021.1",
+  "docket": "7 C 21/2021-9",
+  "date": "2021-02-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/783946ff-f679-4600-b34c-28f713ba26d7",
+  "source_sha256": "dc52701c716dfbb1d369e0e1d3289c02c63fb0327bf92c35930bed0de64c787a",
+  "source_id": "783946ff-f679-4600-b34c-28f713ba26d7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 21/2021-9",
+    "soud": "Okresní soud v Kutné Hoře",
+    "autor": "JUDr. Dagmar Grenarová",
+    "ecli": "ECLI:CZ:OSKH:2021:7.C.21.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-04",
+    "datumZverejneni": "2021-02-17",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/783946ff-f679-4600-b34c-28f713ba26d7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
