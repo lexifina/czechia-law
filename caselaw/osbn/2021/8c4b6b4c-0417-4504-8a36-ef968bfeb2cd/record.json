@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2021:11.C.372.2020.1",
+  "docket": "11 C 372/2020-22",
+  "date": "2021-02-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8c4b6b4c-0417-4504-8a36-ef968bfeb2cd",
+  "source_sha256": "b1b365b01ca2502e7e98606bed5d853e5bb7827a168cd07f07fdba8c1cbbddc2",
+  "source_id": "8c4b6b4c-0417-4504-8a36-ef968bfeb2cd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 372/2020-22",
+    "soud": "Okresní soud v Benešově",
+    "autor": "JUDr. Eva Kůsová, Ph.D.",
+    "ecli": "ECLI:CZ:OSBN:2021:11.C.372.2020.1",
+    "predmetRizeni": "zaplacení 10 206 Kč s příslušenstvím",
+    "datumVydani": "2021-02-04",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8c4b6b4c-0417-4504-8a36-ef968bfeb2cd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
