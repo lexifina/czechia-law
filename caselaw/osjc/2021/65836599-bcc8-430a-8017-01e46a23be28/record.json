@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jičíně",
+  "ecli": "ECLI:CZ:OSJC:2021:5.C.287.2019.1",
+  "docket": "5 C 287/2019-93",
+  "date": "2021-02-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/65836599-bcc8-430a-8017-01e46a23be28",
+  "source_sha256": "eb60882a289a2713f5e2d500745cc3a9e52a2bb1aa475907713b83df30cedea0",
+  "source_id": "65836599-bcc8-430a-8017-01e46a23be28",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 287/2019-93",
+    "soud": "Okresní soud v Jičíně",
+    "autor": "JUDr. Vít Záveský",
+    "ecli": "ECLI:CZ:OSJC:2021:5.C.287.2019.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-02-04",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva zástavní",
+      "zástavní právo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 565 z. č. 89/2012 Sb.",
+      "§ 497 z. č. 513/1991 Sb.",
+      "§ 355 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/65836599-bcc8-430a-8017-01e46a23be28"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
