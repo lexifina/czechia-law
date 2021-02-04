@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2021:10.C.200.2020.1",
+  "docket": "10 C 200/2020-25",
+  "date": "2021-02-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/54ea7dab-076a-46db-be82-ebee2db5b912",
+  "source_sha256": "ea8abce6159c6506cf6d08bbc0a876650d5ed5876dc97e772f11348a902a89ef",
+  "source_id": "54ea7dab-076a-46db-be82-ebee2db5b912",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 200/2020-25",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "JUDr. Kateřina Zatloukalová",
+    "ecli": "ECLI:CZ:OSSU:2021:10.C.200.2020.1",
+    "predmetRizeni": "o 3.211,33 Kč s příslušenstvím",
+    "datumVydani": "2021-02-04",
+    "datumZverejneni": "2021-05-31",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 74 z. č. 458/2000 Sb.",
+      "§ 2894 z. č. 89/2012 Sb.",
+      "§ 2911 z. č. 89/2012 Sb.",
+      "§ 119 vyhl. č. 349/2015 Sb.",
+      "§ 119 vyhl. č. 249/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/54ea7dab-076a-46db-be82-ebee2db5b912"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
