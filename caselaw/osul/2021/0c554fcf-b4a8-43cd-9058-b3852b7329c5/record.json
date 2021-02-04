@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:11.C.264.2015.1",
+  "docket": "11 C 264/2015-25",
+  "date": "2021-02-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0c554fcf-b4a8-43cd-9058-b3852b7329c5",
+  "source_sha256": "ff3f0dac3c5afb29f88d5934c873eb6c9b7da3649d1d6e97ee16f2109c823db6",
+  "source_id": "0c554fcf-b4a8-43cd-9058-b3852b7329c5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 264/2015-25",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "JUDr. Markéta Vrzáčková",
+    "ecli": "ECLI:CZ:OSUL:2021:11.C.264.2015.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-02-04",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "oddlužení",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 414 z. č. 182/2006 Sb.",
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0c554fcf-b4a8-43cd-9058-b3852b7329c5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
