@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:33.C.397.2020.1",
+  "docket": "33 C 397/2020-29",
+  "date": "2021-02-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ccc7a37b-6f1a-4a36-97d0-67139a9b4d23",
+  "source_sha256": "15c9dbf040275b6c910deb4469b2a6f7cf43777cbba706c82743a9c539533255",
+  "source_id": "ccc7a37b-6f1a-4a36-97d0-67139a9b4d23",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "33 C 397/2020-29",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "JUDr. Jaroslav Simet",
+    "ecli": "ECLI:CZ:OSSO:2021:33.C.397.2020.1",
+    "predmetRizeni": "zaplacení 21 700 Kč s příslušenstvím",
+    "datumVydani": "2021-02-05",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 14d vyhl. č. 177/1996 Sb.",
+      "§ 1972 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ccc7a37b-6f1a-4a36-97d0-67139a9b4d23"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
