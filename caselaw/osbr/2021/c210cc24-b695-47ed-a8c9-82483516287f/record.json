@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Berouně",
+  "ecli": "ECLI:CZ:OSBR:2021:10.C.7.2021.1",
+  "docket": "10 C 7/2021",
+  "date": "2021-02-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c210cc24-b695-47ed-a8c9-82483516287f",
+  "source_sha256": "8718e3f1fde7b884ca4c85c1ae7ccbcf6086405450556823688e3e5ba16458f6",
+  "source_id": "c210cc24-b695-47ed-a8c9-82483516287f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 7/2021",
+    "soud": "Okresní soud v Berouně",
+    "autor": "JUDr. Markéta Švarcová",
+    "ecli": "ECLI:CZ:OSBR:2021:10.C.7.2021.1",
+    "predmetRizeni": "O zaplacení 675 Kč s příslušenstvím",
+    "datumVydani": "2021-02-05",
+    "datumZverejneni": "2021-03-01",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 89a z. č. 120/2001 Sb.",
+      "§  z. č. 348/2005 Sb.",
+      "§  vyhl. č. 484/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c210cc24-b695-47ed-a8c9-82483516287f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
