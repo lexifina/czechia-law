@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2021:11.C.282.2020.1",
+  "docket": "11 C 282/2020-23",
+  "date": "2021-02-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/eed1c424-c851-4540-bda1-0d3b799cea78",
+  "source_sha256": "b7134defc677bba4f1e0644573bb4286707c0ac56f4aeb8b560d019e360ccc21",
+  "source_id": "eed1c424-c851-4540-bda1-0d3b799cea78",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 282/2020-23",
+    "soud": "Okresní soud v Přerově",
+    "autor": "Mgr. Petr Andrýsek",
+    "ecli": "ECLI:CZ:OSPR:2021:11.C.282.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-05",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "investiční fond",
+      "neplatnost právního jednání",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/eed1c424-c851-4540-bda1-0d3b799cea78"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
