@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:11.C.367.2020.4",
+  "docket": "11 C 367/2020-21",
+  "date": "2021-02-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1b045ce1-502e-4918-b7ff-341b4b25f532",
+  "source_sha256": "cb5bc68efdf60b4658277c2e4d43ab9536ec8049bbbc3322a7e1cb44b1417599",
+  "source_id": "1b045ce1-502e-4918-b7ff-341b4b25f532",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 367/2020-21",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "JUDr. Vladimír Hovorka",
+    "ecli": "ECLI:CZ:OSSO:2021:11.C.367.2020.4",
+    "predmetRizeni": "zrušení vyživovací povinnosti",
+    "datumVydani": "2021-02-05",
+    "datumZverejneni": "2021-03-22",
+    "klicovaSlova": [
+      "zrušení výživného"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 163 z. č. 99/1963 Sb.",
+      "§ 911 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1b045ce1-502e-4918-b7ff-341b4b25f532"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
