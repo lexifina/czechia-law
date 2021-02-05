@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2021:21.C.276.2020.1",
+  "docket": "21 C 276/2020-19",
+  "date": "2021-02-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6da94ca5-daab-486c-9373-5d8114996bf5",
+  "source_sha256": "2b097a0c8d94406647b53add668dd487e68e3591bf561b9f18cc93d8facfecb5",
+  "source_id": "6da94ca5-daab-486c-9373-5d8114996bf5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 276/2020-19",
+    "soud": "Okresní soud v Karviné",
+    "autor": "Mgr. Jana Babušková",
+    "ecli": "ECLI:CZ:OSKI:2021:21.C.276.2020.1",
+    "predmetRizeni": "rozvod",
+    "datumVydani": "2021-02-05",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6da94ca5-daab-486c-9373-5d8114996bf5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
