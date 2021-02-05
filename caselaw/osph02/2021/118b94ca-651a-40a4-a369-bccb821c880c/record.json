@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:24.C.168.2020.1",
+  "docket": "24 C 168/2020-27",
+  "date": "2021-02-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/118b94ca-651a-40a4-a369-bccb821c880c",
+  "source_sha256": "78b425264746b5209655af84b569398f7fd8843e75fdf910a03c9cf962e32164",
+  "source_id": "118b94ca-651a-40a4-a369-bccb821c880c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 168/2020-27",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "JUDr. Iva Fialová",
+    "ecli": "ECLI:CZ:OSPH02:2021:24.C.168.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-05",
+    "datumZverejneni": "2021-04-03",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 266/1994 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/118b94ca-651a-40a4-a369-bccb821c880c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
