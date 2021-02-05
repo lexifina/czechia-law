@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:108.C.410.2020.1",
+  "docket": "108 C 410/2020-30",
+  "date": "2021-02-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/56dcca04-4aba-4401-b336-dea43cc17a5f",
+  "source_sha256": "dc8de3b73b1946f40dd652e32267cf470c11a3fcec2f71ffd5a6d376e0b976d9",
+  "source_id": "56dcca04-4aba-4401-b336-dea43cc17a5f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "108 C 410/2020-30",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Jitka Zavázalová",
+    "ecli": "ECLI:CZ:OSKIHA:2021:108.C.410.2020.1",
+    "predmetRizeni": "vyklizení",
+    "datumVydani": "2021-02-05",
+    "datumZverejneni": "2021-04-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva nájemní",
+      "vyklizení bytu",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 2291 z. č. 89/2012 Sb.",
+      "§ 1040 z. č. 89/2012 Sb.",
+      "§ 2286 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/56dcca04-4aba-4401-b336-dea43cc17a5f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
