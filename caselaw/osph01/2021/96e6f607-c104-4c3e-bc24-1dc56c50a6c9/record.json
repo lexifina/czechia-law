@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:22.C.219.2018.1",
+  "docket": "22 C 219/2018-30",
+  "date": "2021-02-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/96e6f607-c104-4c3e-bc24-1dc56c50a6c9",
+  "source_sha256": "85df5a731836cea01215ea57e81eb1770b2f0fb6211044d1947ce43ce74832c1",
+  "source_id": "96e6f607-c104-4c3e-bc24-1dc56c50a6c9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 219/2018-30",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Petra Vránová",
+    "ecli": "ECLI:CZ:OSPH01:2021:22.C.219.2018.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-05",
+    "datumZverejneni": "2021-10-01",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1 nař. vl. č. 21/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/96e6f607-c104-4c3e-bc24-1dc56c50a6c9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
