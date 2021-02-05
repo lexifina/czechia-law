@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:3.C.389.2020.1",
+  "docket": "3 C 389/2020-36",
+  "date": "2021-02-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2e42fc5b-bca1-4419-b970-cf23cd2dc7ea",
+  "source_sha256": "fb23f96ae8cf3f0eb7949011637f85ae8d0a16a86fdf277e38e11fdccbcaf756",
+  "source_id": "2e42fc5b-bca1-4419-b970-cf23cd2dc7ea",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 389/2020-36",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Magdalena Fifková",
+    "ecli": "ECLI:CZ:OSPY:2021:3.C.389.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-05",
+    "datumZverejneni": "2021-04-08",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2e42fc5b-bca1-4419-b970-cf23cd2dc7ea"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
