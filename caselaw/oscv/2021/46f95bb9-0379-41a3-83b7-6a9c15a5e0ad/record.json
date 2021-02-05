@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:24.C.232.2020.1",
+  "docket": "24 C 232/2020-75",
+  "date": "2021-02-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/46f95bb9-0379-41a3-83b7-6a9c15a5e0ad",
+  "source_sha256": "2bd5fd50083a0d1c573d6dbae0e3f48c65e1a88df07fce2ef73b50d20144ac91",
+  "source_id": "46f95bb9-0379-41a3-83b7-6a9c15a5e0ad",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 232/2020-75",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Filip Toman",
+    "ecli": "ECLI:CZ:OSCV:2021:24.C.232.2020.1",
+    "predmetRizeni": "zaplacení 12 988,48 Kč s příslušenstvím (úvěr)",
+    "datumVydani": "2021-02-05",
+    "datumZverejneni": "2021-05-12",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva kupní",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 104 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/46f95bb9-0379-41a3-83b7-6a9c15a5e0ad"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
