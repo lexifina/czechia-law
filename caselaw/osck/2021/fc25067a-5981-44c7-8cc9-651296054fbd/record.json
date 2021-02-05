@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2021:2.C.5.2021.4",
+  "docket": "2 C 5/2021-22",
+  "date": "2021-02-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fc25067a-5981-44c7-8cc9-651296054fbd",
+  "source_sha256": "7054869d184132fb1aa95c7bded9866a1091bcf069aa3e5ea18a8ad85a2dcb15",
+  "source_id": "fc25067a-5981-44c7-8cc9-651296054fbd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "2 C 5/2021-22",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "JUDr. Jan Montag",
+    "ecli": "ECLI:CZ:OSCK:2021:2.C.5.2021.4",
+    "predmetRizeni": "EPR [číslo] 2020 - o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-05",
+    "datumZverejneni": "2021-04-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§  z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fc25067a-5981-44c7-8cc9-651296054fbd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
