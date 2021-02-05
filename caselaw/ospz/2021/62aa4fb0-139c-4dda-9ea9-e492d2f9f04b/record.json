@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2021:4.C.14.2021.1",
+  "docket": "4 C 14/2021-17",
+  "date": "2021-02-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/62aa4fb0-139c-4dda-9ea9-e492d2f9f04b",
+  "source_sha256": "a62d2ad9908cd65e77a5932192e5c17bd46076ee3c35e035828f49a9e1bf0049",
+  "source_id": "62aa4fb0-139c-4dda-9ea9-e492d2f9f04b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 14/2021-17",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "JUDr. Dana Smitková",
+    "ecli": "ECLI:CZ:OSPZ:2021:4.C.14.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-05",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 175/2000 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/62aa4fb0-139c-4dda-9ea9-e492d2f9f04b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
