@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2021:7.C.74.2020.1",
+  "docket": "7 C 74/2020-44",
+  "date": "2021-02-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/feeb81f0-5c43-4068-9d66-885e778bfd06",
+  "source_sha256": "c4b166ef6986924f37be2aed213c530ae3bac5f64ea8036ae7e1d579d8a04851",
+  "source_id": "feeb81f0-5c43-4068-9d66-885e778bfd06",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 74/2020-44",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "Mgr. PhDr. Roman Novák",
+    "ecli": "ECLI:CZ:OSBV:2021:7.C.74.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-05",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/feeb81f0-5c43-4068-9d66-885e778bfd06"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
