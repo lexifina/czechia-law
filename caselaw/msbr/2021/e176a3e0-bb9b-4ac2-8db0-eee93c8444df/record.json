@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:72.C.2.2020.1",
+  "docket": "72 C 2/2020",
+  "date": "2021-02-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e176a3e0-bb9b-4ac2-8db0-eee93c8444df",
+  "source_sha256": "c6cf7718478891e83b2aa9d8bdbee9cb9b8e43f01cedffe7c4e99aad1715a155",
+  "source_id": "e176a3e0-bb9b-4ac2-8db0-eee93c8444df",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "72 C 2/2020",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Soňa Novotná",
+    "ecli": "ECLI:CZ:MSBR:2021:72.C.2.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-05",
+    "datumZverejneni": "2021-05-21",
+    "klicovaSlova": [
+      "domácí násilí",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e176a3e0-bb9b-4ac2-8db0-eee93c8444df"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
