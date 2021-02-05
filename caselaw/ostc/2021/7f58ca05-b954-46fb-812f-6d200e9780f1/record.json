@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Tachově",
+  "ecli": "ECLI:CZ:OSTC:2021:10.C.241.2020.1",
+  "docket": "10 C 241/2020-37",
+  "date": "2021-02-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7f58ca05-b954-46fb-812f-6d200e9780f1",
+  "source_sha256": "bfcacb64c71b6fff337728c6f78c1eb78479df7b42acb9466ebdc1224ff6f067",
+  "source_id": "7f58ca05-b954-46fb-812f-6d200e9780f1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 241/2020-37",
+    "soud": "Okresní soud v Tachově",
+    "autor": "Mgr. Petr Klein",
+    "ecli": "ECLI:CZ:OSTC:2021:10.C.241.2020.1",
+    "predmetRizeni": "o zaplacení částky 27.059 Kč s přísl.",
+    "datumVydani": "2021-02-05",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 46b z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 2295 z. č. 89/2012 Sb.",
+      "§ 2251 z. č. 89/2012 Sb.",
+      "§ 2246 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7f58ca05-b954-46fb-812f-6d200e9780f1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
