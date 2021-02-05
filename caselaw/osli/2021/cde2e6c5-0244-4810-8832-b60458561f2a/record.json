@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:15.C.475.2020.1",
+  "docket": "15 C 475/2020-18",
+  "date": "2021-02-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cde2e6c5-0244-4810-8832-b60458561f2a",
+  "source_sha256": "520527ea9d2de2521819041582bad304382ee0e6eb09fd493e3e7aa8a36528f6",
+  "source_id": "cde2e6c5-0244-4810-8832-b60458561f2a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 475/2020-18",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Roman Flanderka",
+    "ecli": "ECLI:CZ:OSLI:2021:15.C.475.2020.1",
+    "predmetRizeni": "810 Kč s příslušenstvím",
+    "datumVydani": "2021-02-05",
+    "datumZverejneni": "2021-03-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cde2e6c5-0244-4810-8832-b60458561f2a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
