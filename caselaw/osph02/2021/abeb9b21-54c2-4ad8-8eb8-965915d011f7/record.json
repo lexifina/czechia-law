@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:42.C.103.2018.1",
+  "docket": "42 C 103/2018",
+  "date": "2021-02-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/abeb9b21-54c2-4ad8-8eb8-965915d011f7",
+  "source_sha256": "389cf8c123135a86e631af312c1a195558e99a3d4bfc151261053ffe36bffc93",
+  "source_id": "abeb9b21-54c2-4ad8-8eb8-965915d011f7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 103/2018",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "JUDr. Kateřina Takácsová",
+    "ecli": "ECLI:CZ:OSPH02:2021:42.C.103.2018.1",
+    "predmetRizeni": "o zaplacení 39 848,40 Kč s příslušenstvím",
+    "datumVydani": "2021-02-05",
+    "datumZverejneni": "2021-06-10",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§  z. č. 82/1998 Sb.",
+      "§ 2543 z. č. 89/2012 Sb.",
+      "§ 2955 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/abeb9b21-54c2-4ad8-8eb8-965915d011f7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
