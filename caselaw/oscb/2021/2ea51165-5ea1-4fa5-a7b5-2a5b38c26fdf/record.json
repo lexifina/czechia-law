@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:16.C.18.2021.1",
+  "docket": "16 C 18/2021-14",
+  "date": "2021-02-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2ea51165-5ea1-4fa5-a7b5-2a5b38c26fdf",
+  "source_sha256": "3f106ae11e32bd659f477a9b8fc33fa486295d7e37f0e70521aa1f77c7f85434",
+  "source_id": "2ea51165-5ea1-4fa5-a7b5-2a5b38c26fdf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 18/2021-14",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "Mgr. Jana Traxlerová",
+    "ecli": "ECLI:CZ:OSCB:2021:16.C.18.2021.1",
+    "predmetRizeni": "EPR [číslo], o zaplacení částky 5 588 Kč s příslušenstvím",
+    "datumVydani": "2021-02-05",
+    "datumZverejneni": "2021-03-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2ea51165-5ea1-4fa5-a7b5-2a5b38c26fdf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
