@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:12.C.57.2020.1",
+  "docket": "12 C 57/2020-47",
+  "date": "2021-02-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fa9dd7e6-6fd0-40bd-9876-5c71703341de",
+  "source_sha256": "ecbb602b821c3846da92d62da5ac7aae0943d694c4f795398e1a3d9acd14ed30",
+  "source_id": "fa9dd7e6-6fd0-40bd-9876-5c71703341de",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 57/2020-47",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "Mgr. Magdaléna Renfus, LLM.",
+    "ecli": "ECLI:CZ:OSNA:2021:12.C.57.2020.1",
+    "predmetRizeni": "o zaplacení 10.000 Kč s příslušenstvím (úvěr)",
+    "datumVydani": "2021-02-08",
+    "datumZverejneni": "2021-03-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fa9dd7e6-6fd0-40bd-9876-5c71703341de"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
