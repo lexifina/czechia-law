@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:20.EC.57.2009.1",
+  "docket": "20 EC 57/2009-325",
+  "date": "2021-02-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5545b6b4-49b3-4734-bb21-be2d311ab79f",
+  "source_sha256": "161755c2d0eca1fe4e47f464f975a96561838fa2a96a9ecab51d74f19b824e3e",
+  "source_id": "5545b6b4-49b3-4734-bb21-be2d311ab79f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 EC 57/2009-325",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Andrea Lomozová",
+    "ecli": "ECLI:CZ:OSPH05:2021:20.EC.57.2009.1",
+    "predmetRizeni": "Návrh na vydání elektronického platebního rozkazu na částku 41650,00 Kč",
+    "datumVydani": "2021-02-08",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva mandátní",
+      "smlouva o dílo",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 269 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5545b6b4-49b3-4734-bb21-be2d311ab79f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
