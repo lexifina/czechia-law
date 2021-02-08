@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:35.C.348.2020.1",
+  "docket": "35 C 348/2020-96",
+  "date": "2021-02-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1ff99911-4e6e-470b-a9d9-1bbc8d7e68b7",
+  "source_sha256": "411785f3ab47381e04eb07b2b0e4ce6dda1af81886a417c2d4ee12696adfa46e",
+  "source_id": "1ff99911-4e6e-470b-a9d9-1bbc8d7e68b7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "35 C 348/2020-96",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Ing. Viktor Smolík",
+    "ecli": "ECLI:CZ:OSPY:2021:35.C.348.2020.1",
+    "predmetRizeni": "o výživné na rozvedenou manželku",
+    "datumVydani": "2021-02-08",
+    "datumZverejneni": "2021-12-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "výživné",
+      "výživné mezi manžely"
+    ],
+    "zminenaUstanoveni": [
+      "§ 762 z. č. 89/2012 Sb.",
+      "§ 760 z. č. 89/2012 Sb.",
+      "§ 697 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1ff99911-4e6e-470b-a9d9-1bbc8d7e68b7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
