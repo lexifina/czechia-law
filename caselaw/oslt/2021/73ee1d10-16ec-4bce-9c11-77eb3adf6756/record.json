@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Litoměřicích",
+  "ecli": "ECLI:CZ:OSLT:2021:19.C.306.2020.1",
+  "docket": "19 C 306/2020-19",
+  "date": "2021-02-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/73ee1d10-16ec-4bce-9c11-77eb3adf6756",
+  "source_sha256": "3267171922b86563fcb9098bdecf5120242e51f7d0bd15afc11ce0e01faf28cd",
+  "source_id": "73ee1d10-16ec-4bce-9c11-77eb3adf6756",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 306/2020-19",
+    "soud": "Okresní soud v Litoměřicích",
+    "autor": "Mgr. Zdeněk Hammer",
+    "ecli": "ECLI:CZ:OSLT:2021:19.C.306.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-08",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 14 z. č. 328/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/73ee1d10-16ec-4bce-9c11-77eb3adf6756"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
