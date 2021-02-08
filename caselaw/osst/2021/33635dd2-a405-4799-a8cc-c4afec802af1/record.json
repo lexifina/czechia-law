@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Strakonicích",
+  "ecli": "ECLI:CZ:OSST:2021:4.C.298.2020.1",
+  "docket": "4 C 298/2020-19",
+  "date": "2021-02-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/33635dd2-a405-4799-a8cc-c4afec802af1",
+  "source_sha256": "8c69fd618a2f63d3b4c439442787f16e78f267cc3a0aaaf0845db4d404a9dac7",
+  "source_id": "33635dd2-a405-4799-a8cc-c4afec802af1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 298/2020-19",
+    "soud": "Okresní soud ve Strakonicích",
+    "autor": "Mgr. Dana Chromá",
+    "ecli": "ECLI:CZ:OSST:2021:4.C.298.2020.1",
+    "predmetRizeni": "O zaplacení 9 028 Kč s příslušenstvím",
+    "datumVydani": "2021-02-08",
+    "datumZverejneni": "2021-03-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 24 z. č. 168/1999 Sb.",
+      "§ 24 z. č. 361/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/33635dd2-a405-4799-a8cc-c4afec802af1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
