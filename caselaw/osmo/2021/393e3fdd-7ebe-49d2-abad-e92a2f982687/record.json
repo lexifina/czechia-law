@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:16.C.385.2020.2",
+  "docket": "16 C 385/2020-23",
+  "date": "2021-02-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/393e3fdd-7ebe-49d2-abad-e92a2f982687",
+  "source_sha256": "f81a025ac5c41d3a0561e3ec4aa0175fea6186bd61bce9cba4ced4b0ddd6bb9f",
+  "source_id": "393e3fdd-7ebe-49d2-abad-e92a2f982687",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 385/2020-23",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Marie Švecová",
+    "ecli": "ECLI:CZ:OSMO:2021:16.C.385.2020.2",
+    "predmetRizeni": "1 101 Kč s příslušenstvím",
+    "datumVydani": "2021-02-08",
+    "datumZverejneni": "2021-03-15",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "škodové pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/393e3fdd-7ebe-49d2-abad-e92a2f982687"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
