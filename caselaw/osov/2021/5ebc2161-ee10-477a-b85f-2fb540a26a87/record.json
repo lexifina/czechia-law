@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:55.C.450.2020.2",
+  "docket": "55 C 450/2020-18",
+  "date": "2021-02-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5ebc2161-ee10-477a-b85f-2fb540a26a87",
+  "source_sha256": "419b562a852fa91d215e0f65047b8e8f943f3da8907bb05985dac2153f522ccd",
+  "source_id": "5ebc2161-ee10-477a-b85f-2fb540a26a87",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "55 C 450/2020-18",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Alena Tenglerová",
+    "ecli": "ECLI:CZ:OSOV:2021:55.C.450.2020.2",
+    "predmetRizeni": "o zaplacení [částka]",
+    "datumVydani": "2021-02-08",
+    "datumZverejneni": "2021-03-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§  z. č. 127/2005 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5ebc2161-ee10-477a-b85f-2fb540a26a87"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
