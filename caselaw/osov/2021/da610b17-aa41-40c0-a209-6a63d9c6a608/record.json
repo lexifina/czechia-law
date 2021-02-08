@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:55.C.441.2020.1",
+  "docket": "55 C 441/2020-11",
+  "date": "2021-02-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/da610b17-aa41-40c0-a209-6a63d9c6a608",
+  "source_sha256": "24e4730ed9ac7c543ba7292d170cfe331adc54f460250029810303a5fca7f969",
+  "source_id": "da610b17-aa41-40c0-a209-6a63d9c6a608",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "55 C 441/2020-11",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Alena Tenglerová",
+    "ecli": "ECLI:CZ:OSOV:2021:55.C.441.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-08",
+    "datumZverejneni": "2021-04-07",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/da610b17-aa41-40c0-a209-6a63d9c6a608"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
