@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2021:7.C.185.2020.4",
+  "docket": "7 C 185/2020-15",
+  "date": "2021-02-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fa33b032-db9b-46ed-b1c1-eb4523458069",
+  "source_sha256": "af78b744d74759e436dfcabbbadd3ccffc3f354139c3fdefc0ff87db04465d2b",
+  "source_id": "fa33b032-db9b-46ed-b1c1-eb4523458069",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 185/2020-15",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "JUDr. Silvie Slaná",
+    "ecli": "ECLI:CZ:OSNJ:2021:7.C.185.2020.4",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-08",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fa33b032-db9b-46ed-b1c1-eb4523458069"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
