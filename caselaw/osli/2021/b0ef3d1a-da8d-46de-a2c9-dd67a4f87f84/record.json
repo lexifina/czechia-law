@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:26.C.131.2020.1",
+  "docket": "26 C 131/2020-11",
+  "date": "2021-02-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b0ef3d1a-da8d-46de-a2c9-dd67a4f87f84",
+  "source_sha256": "b0e707389ffaf740454b1193a7a021c59b0d64cbfe79dd0c028cb86deeef03fe",
+  "source_id": "b0ef3d1a-da8d-46de-a2c9-dd67a4f87f84",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 131/2020-11",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Petr Hoček",
+    "ecli": "ECLI:CZ:OSLI:2021:26.C.131.2020.1",
+    "predmetRizeni": "Převod EPR zaplacení částky 4 500 Kč s příslušenstvím",
+    "datumVydani": "2021-02-08",
+    "datumZverejneni": "2021-05-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b0ef3d1a-da8d-46de-a2c9-dd67a4f87f84"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
