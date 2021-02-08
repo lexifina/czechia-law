@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:6.C.473.2020.1",
+  "docket": "6 C 473/2020-38",
+  "date": "2021-02-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/af5e52de-03af-4551-a6aa-c22abe76688c",
+  "source_sha256": "6ff2ebafc5fb1c63f1a41b28836652da40f8e5ed597107b32912552a6b19d5b1",
+  "source_id": "af5e52de-03af-4551-a6aa-c22abe76688c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 473/2020-38",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "JUDr. Zuzana Barochová",
+    "ecli": "ECLI:CZ:OSPH06:2021:6.C.473.2020.1",
+    "predmetRizeni": "o zaplacení částky 11 280 Kč s příslušenstvím",
+    "datumVydani": "2021-02-08",
+    "datumZverejneni": "2021-04-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 132 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/af5e52de-03af-4551-a6aa-c22abe76688c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
