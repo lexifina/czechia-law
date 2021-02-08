@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:15.C.353.2020.1",
+  "docket": "15 C 353/2020-19",
+  "date": "2021-02-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f895e483-b1cd-4dd3-9e73-c0425e541cbb",
+  "source_sha256": "9f4113bd42b320e2ccb49e828ae3f1d06480db70c7d206d22b352e2a9ceea2ad",
+  "source_id": "f895e483-b1cd-4dd3-9e73-c0425e541cbb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 353/2020-19",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "Mgr. Marta Gottwaldová",
+    "ecli": "ECLI:CZ:OSPH04:2021:15.C.353.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-08",
+    "datumZverejneni": "2021-04-26",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 175/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f895e483-b1cd-4dd3-9e73-c0425e541cbb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
