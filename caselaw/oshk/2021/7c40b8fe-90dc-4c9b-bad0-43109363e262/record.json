@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:15.C.205.2020.1",
+  "docket": "15 C 205/2020-18",
+  "date": "2021-02-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7c40b8fe-90dc-4c9b-bad0-43109363e262",
+  "source_sha256": "5bd1b35bd78cb474d096fae2add8cb97088cc22a4bb5ea370e20f4e1dfd85212",
+  "source_id": "7c40b8fe-90dc-4c9b-bad0-43109363e262",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 205/2020-18",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "Mgr. Jan Linhart",
+    "ecli": "ECLI:CZ:OSHK:2021:15.C.205.2020.1",
+    "predmetRizeni": "o zaplacení částky 15 012 Kč s příslušenstvím",
+    "datumVydani": "2021-02-08",
+    "datumZverejneni": "2021-04-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 6 z. č. 549/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7c40b8fe-90dc-4c9b-bad0-43109363e262"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
