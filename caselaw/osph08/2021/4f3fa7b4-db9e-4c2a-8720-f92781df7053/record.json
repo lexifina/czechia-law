@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2021:24.C.20.2016.3",
+  "docket": "24 C 20/2016-179",
+  "date": "2021-02-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4f3fa7b4-db9e-4c2a-8720-f92781df7053",
+  "source_sha256": "72bd45be5bc68b92e5d1ff752f3db266ee5af2d7a78e835731ed43f1f688069f",
+  "source_id": "4f3fa7b4-db9e-4c2a-8720-f92781df7053",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 20/2016-179",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "Mgr. Jana Kesslerová",
+    "ecli": "ECLI:CZ:OSPH08:2021:24.C.20.2016.3",
+    "predmetRizeni": "o zaplacení 483.990 Kč s přísl.",
+    "datumVydani": "2021-02-08",
+    "datumZverejneni": "2021-11-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "převod nemovitostí",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 1815 z. č. 89/2012 Sb.",
+      "§ 1811 z. č. 89/2012 Sb.",
+      "§ 2447 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4f3fa7b4-db9e-4c2a-8720-f92781df7053"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
