@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:32.C.86.2020.1",
+  "docket": "32 C 86/2020-27",
+  "date": "2021-02-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/913eac74-a553-41e1-9798-0f22004a48f1",
+  "source_sha256": "fa823d1d8b5da829769fcc96b5a39a28f941938c4a93577adcdab0a8227b2da7",
+  "source_id": "913eac74-a553-41e1-9798-0f22004a48f1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "32 C 86/2020-27",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Jan Sedláček",
+    "ecli": "ECLI:CZ:MSBR:2021:32.C.86.2020.1",
+    "predmetRizeni": "zaplacení 4.067 Kč s příslušenstvím - pojistné",
+    "datumVydani": "2021-02-08",
+    "datumZverejneni": "2021-07-29",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/913eac74-a553-41e1-9798-0f22004a48f1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
