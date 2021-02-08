@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:15.C.1.2021.1",
+  "docket": "15 C 1/2021-23",
+  "date": "2021-02-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/92d1f463-df84-4e5a-9e4d-e760be9934d9",
+  "source_sha256": "2bd8bd6ab683e21691cb5b45466ab2b98d1f2eb96de73e9cf80200c590fcf535",
+  "source_id": "92d1f463-df84-4e5a-9e4d-e760be9934d9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 1/2021-23",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "JUDr. Michaela Koblasová",
+    "ecli": "ECLI:CZ:OSTU:2021:15.C.1.2021.1",
+    "predmetRizeni": "zaplacení 3 325 Kč s příslušenstvím - tv poplatky",
+    "datumVydani": "2021-02-08",
+    "datumZverejneni": "2021-03-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/92d1f463-df84-4e5a-9e4d-e760be9934d9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
