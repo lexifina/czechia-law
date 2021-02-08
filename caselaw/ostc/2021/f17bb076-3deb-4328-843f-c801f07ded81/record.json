@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Tachově",
+  "ecli": "ECLI:CZ:OSTC:2021:19.C.288.2020.1",
+  "docket": "19 C 288/2020-17",
+  "date": "2021-02-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f17bb076-3deb-4328-843f-c801f07ded81",
+  "source_sha256": "31f7bdd7e4cb04691c7ac0ccfe7614971fce0ae00675d10e15114297fddea003",
+  "source_id": "f17bb076-3deb-4328-843f-c801f07ded81",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 288/2020-17",
+    "soud": "Okresní soud v Tachově",
+    "autor": "JUDr. Ing. Patrik Kurz, Ph.D.",
+    "ecli": "ECLI:CZ:OSTC:2021:19.C.288.2020.1",
+    "predmetRizeni": "O zaplacení 2 900 Kč s příslušenstvím",
+    "datumVydani": "2021-02-08",
+    "datumZverejneni": "2021-03-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f17bb076-3deb-4328-843f-c801f07ded81"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
