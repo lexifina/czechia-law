@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:15.C.53.2020.1",
+  "docket": "15 C 53/2020-34",
+  "date": "2021-02-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7e29f3d1-6379-499c-9453-d61bda3557bb",
+  "source_sha256": "d0e2594d6479c12e439512b29fc743248c556b5df8a7a166790e8e572a76048a",
+  "source_id": "7e29f3d1-6379-499c-9453-d61bda3557bb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 53/2020-34",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "Mgr. Jan Linhart",
+    "ecli": "ECLI:CZ:OSHK:2021:15.C.53.2020.1",
+    "predmetRizeni": "o zaplacení částky 3 797,78 Kč s příslušenstvím",
+    "datumVydani": "2021-02-08",
+    "datumZverejneni": "2021-06-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o účtu",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 6 z. č. 549/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7e29f3d1-6379-499c-9453-d61bda3557bb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
