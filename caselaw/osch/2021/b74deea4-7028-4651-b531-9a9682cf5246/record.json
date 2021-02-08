@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:10.C.337.2020.2",
+  "docket": "10 C 337/2020-21",
+  "date": "2021-02-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b74deea4-7028-4651-b531-9a9682cf5246",
+  "source_sha256": "4ff1ea3d5aaa6563e82c50118807c18e56048d977fef8d1e6ac4c9ad37812974",
+  "source_id": "b74deea4-7028-4651-b531-9a9682cf5246",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 337/2020-21",
+    "soud": "Okresní soud v Chebu",
+    "autor": "JUDr. Alexandra Vaňková",
+    "ecli": "ECLI:CZ:OSCH:2021:10.C.337.2020.2",
+    "predmetRizeni": "",
+    "datumVydani": "2021-02-08",
+    "datumZverejneni": "2021-03-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b74deea4-7028-4651-b531-9a9682cf5246"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
