@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2021:9.C.268.2020.2",
+  "docket": "9 C 268/2020-23",
+  "date": "2021-02-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a6727ec7-71ea-4aab-87b5-0e4ed01f946f",
+  "source_sha256": "2aabdfb8c93e86dc397810d8f53810526782479e6f6e6be28acb177f8b7264dc",
+  "source_id": "a6727ec7-71ea-4aab-87b5-0e4ed01f946f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 268/2020-23",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "Mgr. František Strouha",
+    "ecli": "ECLI:CZ:OSCK:2021:9.C.268.2020.2",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-08",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 89/2012 Sb.",
+      "§ 23 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a6727ec7-71ea-4aab-87b5-0e4ed01f946f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
