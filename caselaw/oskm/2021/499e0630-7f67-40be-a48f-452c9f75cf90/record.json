@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kroměříži",
+  "ecli": "ECLI:CZ:OSKM:2021:6.C.282.2020.1",
+  "docket": "6 C 282/2020-10",
+  "date": "2021-02-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/499e0630-7f67-40be-a48f-452c9f75cf90",
+  "source_sha256": "a273d9d3500755b1f2082d871afa1dea7129fd9e4b72369c0ada90b2d85ce31b",
+  "source_id": "499e0630-7f67-40be-a48f-452c9f75cf90",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 282/2020-10",
+    "soud": "Okresní soud v Kroměříži",
+    "autor": "JUDr. Ivan Jordán",
+    "ecli": "ECLI:CZ:OSKM:2021:6.C.282.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-08",
+    "datumZverejneni": "2021-03-03",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 395 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/499e0630-7f67-40be-a48f-452c9f75cf90"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
