@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:15.C.122.2020.1",
+  "docket": "15 C 122/2020-17",
+  "date": "2021-02-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b3e13f35-635f-4458-a978-476222c7e031",
+  "source_sha256": "20f11fec48d364a67a5b0b4ab003b194f4f730789f224a1cc61467bec78868a0",
+  "source_id": "b3e13f35-635f-4458-a978-476222c7e031",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 122/2020-17",
+    "soud": "Okresní soud v Chebu",
+    "autor": "Mgr. Ing. Vladimír Doležal",
+    "ecli": "ECLI:CZ:OSCH:2021:15.C.122.2020.1",
+    "predmetRizeni": "O zaplacení 13 003,93 Kč s příslušenstvím",
+    "datumVydani": "2021-02-08",
+    "datumZverejneni": "2021-03-10",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "rozsudek pro zmeškání",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 18 z. č. 99/1963 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 29 z. č. 99/1963 Sb.",
+      "§ 204 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b3e13f35-635f-4458-a978-476222c7e031"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
