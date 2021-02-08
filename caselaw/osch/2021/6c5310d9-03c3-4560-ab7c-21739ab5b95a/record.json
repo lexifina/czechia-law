@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:15.C.133.2020.1",
+  "docket": "15 C 133/2020-18",
+  "date": "2021-02-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6c5310d9-03c3-4560-ab7c-21739ab5b95a",
+  "source_sha256": "1ff666c3877e6ecef8b1e6b1e1af9e2ba454c3de071ed703e309c9d7c57b23a7",
+  "source_id": "6c5310d9-03c3-4560-ab7c-21739ab5b95a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 133/2020-18",
+    "soud": "Okresní soud v Chebu",
+    "autor": "Mgr. Ing. Vladimír Doležal",
+    "ecli": "ECLI:CZ:OSCH:2021:15.C.133.2020.1",
+    "predmetRizeni": "O zaplacení 3 024 Kč s příslušenstvím",
+    "datumVydani": "2021-02-08",
+    "datumZverejneni": "2021-02-25",
+    "klicovaSlova": [
+      "jízdné",
+      "rozsudek pro zmeškání"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 18 z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 29 z. č. 99/1963 Sb.",
+      "§ 79 z. č. 99/1963 Sb.",
+      "§ 153 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6c5310d9-03c3-4560-ab7c-21739ab5b95a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
