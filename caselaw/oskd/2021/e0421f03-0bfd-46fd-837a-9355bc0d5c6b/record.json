@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:22.C.26.2019.1",
+  "docket": "22 C 26/2019-31",
+  "date": "2021-02-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e0421f03-0bfd-46fd-837a-9355bc0d5c6b",
+  "source_sha256": "1e511eac01c002728147b596a90f395c1d0b1c8d3812728ec9de98faead6e792",
+  "source_id": "e0421f03-0bfd-46fd-837a-9355bc0d5c6b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 26/2019-31",
+    "soud": "Okresní soud v Kladně",
+    "autor": "Mgr. Lukáš Randa",
+    "ecli": "ECLI:CZ:OSKD:2021:22.C.26.2019.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-08",
+    "datumZverejneni": "2021-03-17",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 389 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e0421f03-0bfd-46fd-837a-9355bc0d5c6b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
