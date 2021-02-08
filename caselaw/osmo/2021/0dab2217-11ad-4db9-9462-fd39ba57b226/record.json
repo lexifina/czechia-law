@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:50.C.165.2020.2",
+  "docket": "50 C 165/2020-37",
+  "date": "2021-02-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0dab2217-11ad-4db9-9462-fd39ba57b226",
+  "source_sha256": "010171bb1363a75903a1faa4c297afa3c40ad0b613e0d7dd6110327189f0c357",
+  "source_id": "0dab2217-11ad-4db9-9462-fd39ba57b226",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "50 C 165/2020-37",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Marian Heres",
+    "ecli": "ECLI:CZ:OSMO:2021:50.C.165.2020.2",
+    "predmetRizeni": "8 000 Kč s příslušenstvím",
+    "datumVydani": "2021-02-08",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva kupní",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0dab2217-11ad-4db9-9462-fd39ba57b226"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
