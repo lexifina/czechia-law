@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kolíně",
+  "ecli": "ECLI:CZ:OSKO:2021:17.C.297.2020.1",
+  "docket": "17 C 297/2020-30",
+  "date": "2021-02-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4b712cb7-b58e-4422-b84c-642de784694b",
+  "source_sha256": "9e1df8d887a6101fd4435a9dd13da8bd38bfefd68ef0b65c0a585569b97137ea",
+  "source_id": "4b712cb7-b58e-4422-b84c-642de784694b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 297/2020-30",
+    "soud": "Okresní soud v Kolíně",
+    "autor": "JUDr. Martina Suchánková",
+    "ecli": "ECLI:CZ:OSKO:2021:17.C.297.2020.1",
+    "predmetRizeni": "O zaplacení 37 892,49 Kč s příslušenstvím",
+    "datumVydani": "2021-02-08",
+    "datumZverejneni": "2021-05-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "podnájem",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4b712cb7-b58e-4422-b84c-642de784694b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
