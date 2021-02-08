@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:115.C.29.2020.2",
+  "docket": "115 C 29/2020-24",
+  "date": "2021-02-08",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b964629c-0a1c-4a40-841c-36aa90ee10b1",
+  "source_sha256": "0620221dc9cafbbc24ed3c3e154f5ab4e3d2fdc584719592110e8a4acb0f6a41",
+  "source_id": "b964629c-0a1c-4a40-841c-36aa90ee10b1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "115 C 29/2020-24",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "Mgr. Pavel Tureček",
+    "ecli": "ECLI:CZ:OSPU:2021:115.C.29.2020.2",
+    "predmetRizeni": "o zaplacení 3 780 Kč s příslušenstvím",
+    "datumVydani": "2021-02-08",
+    "datumZverejneni": "2021-04-08",
+    "klicovaSlova": [
+      "insolvence",
+      "oddlužení",
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní",
+      "způsobilost procesní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§  z. č. 348/2005 Sb.",
+      "§ 109 z. č. 182/2006 Sb.",
+      "§ 168 z. č. 182/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b964629c-0a1c-4a40-841c-36aa90ee10b1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
