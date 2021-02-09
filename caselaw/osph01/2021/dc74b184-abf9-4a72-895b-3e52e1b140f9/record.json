@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:14.C.76.2018.1",
+  "docket": "14 C 76/2018-67",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dc74b184-abf9-4a72-895b-3e52e1b140f9",
+  "source_sha256": "827b3bc588b4504fd7583a06421c4c2babda03e947088c223b7f67ec47cbdda8",
+  "source_id": "dc74b184-abf9-4a72-895b-3e52e1b140f9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 76/2018-67",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Martin Lebeda, Ph.D.",
+    "ecli": "ECLI:CZ:OSPH01:2021:14.C.76.2018.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-09-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva zástavní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 118 z. č. 99/1963 Sb.",
+      "§ 588 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dc74b184-abf9-4a72-895b-3e52e1b140f9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
