@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:8.C.167.2020.1",
+  "docket": "8 C 167/2020-25",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/727744f2-727c-4fe3-8455-a7f029d3ff8a",
+  "source_sha256": "4a3c27c4b7a699522878af7f72f4cff9076866e19868bec02980a263e780c818",
+  "source_id": "727744f2-727c-4fe3-8455-a7f029d3ff8a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 167/2020-25",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Petr Karásek",
+    "ecli": "ECLI:CZ:OSCV:2021:8.C.167.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-03-26",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/727744f2-727c-4fe3-8455-a7f029d3ff8a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
