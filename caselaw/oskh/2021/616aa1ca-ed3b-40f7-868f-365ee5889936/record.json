@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kutné Hoře",
+  "ecli": "ECLI:CZ:OSKH:2021:8.C.50.2021.1",
+  "docket": "8 C 50/2021-15",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/616aa1ca-ed3b-40f7-868f-365ee5889936",
+  "source_sha256": "5567b93bfa6dfffc2e801a96049041a434fa29bfe2fbcc14b0e5974a85ac4d97",
+  "source_id": "616aa1ca-ed3b-40f7-868f-365ee5889936",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 50/2021-15",
+    "soud": "Okresní soud v Kutné Hoře",
+    "autor": "Mgr. Jindřich Kříž",
+    "ecli": "ECLI:CZ:OSKH:2021:8.C.50.2021.1",
+    "predmetRizeni": "O zaplacení 2 000 Kč",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-03-11",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 1 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/616aa1ca-ed3b-40f7-868f-365ee5889936"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
