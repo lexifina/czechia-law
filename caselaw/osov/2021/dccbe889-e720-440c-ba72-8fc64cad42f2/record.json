@@ -1,0 +1,52 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:119.C.56.2019.3",
+  "docket": "119 C 56/2019-51",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dccbe889-e720-440c-ba72-8fc64cad42f2",
+  "source_sha256": "83206c2bbcb9db83367795ba54b6f0feede3f652a13dd766c03808012ec161a9",
+  "source_id": "dccbe889-e720-440c-ba72-8fc64cad42f2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "119 C 56/2019-51",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Zuzana Šilhanová",
+    "ecli": "ECLI:CZ:OSOV:2021:119.C.56.2019.3",
+    "predmetRizeni": "o 195 825 Kč s příslušenstvím",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-05-13",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "uznání dluhu",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 3 nař. vl. č. 351/2013 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 2206 z. č. 89/2012 Sb.",
+      "§ 2205 z. č. 89/2012 Sb.",
+      "§ 2208 z. č. 89/2012 Sb.",
+      "§ 489 z. č. 89/2012 Sb.",
+      "§ 1765 z. č. 89/2012 Sb.",
+      "§  z. č. 289/1995 Sb.",
+      "§ 33 z. č. 449/2001 Sb.",
+      "§ 2212 z. č. 89/2012 Sb.",
+      "§ 33 z. č. 89/2012 Sb.",
+      "§ 498 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dccbe889-e720-440c-ba72-8fc64cad42f2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
