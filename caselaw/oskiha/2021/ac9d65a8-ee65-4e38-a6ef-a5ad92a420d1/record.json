@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:117.C.9.2021.1",
+  "docket": "117 C 9/2021-35",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ac9d65a8-ee65-4e38-a6ef-a5ad92a420d1",
+  "source_sha256": "0386fcfc04e39fa6be9c28f89b05cdb3c81cf1a6d2bf32aa7205ee3071ea545c",
+  "source_id": "ac9d65a8-ee65-4e38-a6ef-a5ad92a420d1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "117 C 9/2021-35",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "JUDr. Silvie Morongová",
+    "ecli": "ECLI:CZ:OSKIHA:2021:117.C.9.2021.1",
+    "predmetRizeni": "675 Kč s příslušenstvím",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-03-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 3,7 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ac9d65a8-ee65-4e38-a6ef-a5ad92a420d1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
