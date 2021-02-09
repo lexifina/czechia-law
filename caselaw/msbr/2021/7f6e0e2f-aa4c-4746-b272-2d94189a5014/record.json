@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:48.C.173.2020.1",
+  "docket": "48 C 173/2020-25",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7f6e0e2f-aa4c-4746-b272-2d94189a5014",
+  "source_sha256": "d9128ae3754e93e5820b510454561c573d9def0f8a8ea668a544f4c9d5a074e1",
+  "source_id": "7f6e0e2f-aa4c-4746-b272-2d94189a5014",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "48 C 173/2020-25",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Alena Franková",
+    "ecli": "ECLI:CZ:MSBR:2021:48.C.173.2020.1",
+    "predmetRizeni": "zaplacení 2.502 Kč s příslušenstvím - faktura",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-10-06",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 115 z. č. 99/1963 Sb.",
+      "§ 14b vyhl. č. 120/2014 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7f6e0e2f-aa4c-4746-b272-2d94189a5014"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
