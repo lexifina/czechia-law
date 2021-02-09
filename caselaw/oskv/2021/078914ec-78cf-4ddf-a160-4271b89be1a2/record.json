@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:11.C.30.2021.1",
+  "docket": "11 C 30/2021-13",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/078914ec-78cf-4ddf-a160-4271b89be1a2",
+  "source_sha256": "c8db2f96b883d5da388b56324173f1767b1351dd82789ae3a0060675af1a17ea",
+  "source_id": "078914ec-78cf-4ddf-a160-4271b89be1a2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 30/2021-13",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "JUDr. Radek Černovský",
+    "ecli": "ECLI:CZ:OSKV:2021:11.C.30.2021.1",
+    "predmetRizeni": "9 500 Kč / úvěr",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-04-05",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/078914ec-78cf-4ddf-a160-4271b89be1a2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
