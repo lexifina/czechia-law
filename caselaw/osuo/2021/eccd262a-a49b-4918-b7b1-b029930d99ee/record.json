@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Orlicí",
+  "ecli": "ECLI:CZ:OSUO:2021:8.C.32.2020.1",
+  "docket": "8 C 32/2020-22",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/eccd262a-a49b-4918-b7b1-b029930d99ee",
+  "source_sha256": "930e83b65bbdce991a265d8ae2dfc928ca735ee919afbcb7348a94bb909ef410",
+  "source_id": "eccd262a-a49b-4918-b7b1-b029930d99ee",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 32/2020-22",
+    "soud": "Okresní soud v Ústí nad Orlicí",
+    "autor": "JUDr. Dagmar Kalousková",
+    "ecli": "ECLI:CZ:OSUO:2021:8.C.32.2020.1",
+    "predmetRizeni": "O zaplacení 9 515 Kč s příslušenstvím",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-05-05",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 657 z. č. 89/2012 Sb.",
+      "§ 52 z. č. 89/2012 Sb.",
+      "§ 56 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 55 z. č. 89/2012 Sb.",
+      "§ 657 z. č. 40/64 Sb.",
+      "§  nař. vl. č. 142/94 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/eccd262a-a49b-4918-b7b1-b029930d99ee"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
