@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:119.C.10.2020.1",
+  "docket": "119 C 10/2020-54",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2818ee9b-28cb-4038-8270-acb3fd688698",
+  "source_sha256": "12c99d5071c302853f74b7cc124ee44fd9e23a804c3dd6511148d597cb7dd75c",
+  "source_id": "2818ee9b-28cb-4038-8270-acb3fd688698",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "119 C 10/2020-54",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "JUDr. Zuzana Benešová",
+    "ecli": "ECLI:CZ:OSFM:2021:119.C.10.2020.1",
+    "predmetRizeni": "o 1 630 Kč s přísl. - odtah vozidla",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-08-05",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 45 z. č. 361/2000 Sb.",
+      "§ 1970, 1892 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2818ee9b-28cb-4038-8270-acb3fd688698"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
