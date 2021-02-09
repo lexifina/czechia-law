@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:5.C.292.2020.4",
+  "docket": "5 C 292/2020-62",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3f9556f2-41f3-48cf-884a-0324f8b8cc16",
+  "source_sha256": "be4344076815645c36ce86eeac59d8130f949ce17e5529ec7820d876e33cee07",
+  "source_id": "3f9556f2-41f3-48cf-884a-0324f8b8cc16",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 292/2020-62",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Dita Staňková",
+    "ecli": "ECLI:CZ:OSPH05:2021:5.C.292.2020.4",
+    "predmetRizeni": "vyklizení bytu",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-10-22",
+    "klicovaSlova": [
+      "nájem bytu",
+      "nájem domu",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "vyklizení bytu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 2285 z. č. 89/2012 Sb.",
+      "§ 9 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3f9556f2-41f3-48cf-884a-0324f8b8cc16"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
