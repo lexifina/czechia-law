@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2021:28.C.278.2020.2",
+  "docket": "28 C 278/2020-44",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c72d75c9-93c9-43a8-83fa-c15f03fca36e",
+  "source_sha256": "846b97c8d3f5a2dfb4908967a9d6c67f69a6a1cc47078f688514c03e5986b14a",
+  "source_id": "c72d75c9-93c9-43a8-83fa-c15f03fca36e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 278/2020-44",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "JUDr. Mgr. Jakub Schlitter, Ph.D.",
+    "ecli": "ECLI:CZ:OSPH10:2021:28.C.278.2020.2",
+    "predmetRizeni": "79 700 Kč s příslušenstvím",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-04-06",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 1 vyhl. č. 254/2015 Sb.",
+      "§ 19 z. č. 13/1997 Sb.",
+      "§ 27 z. č. 361/2000 Sb.",
+      "§ 45 z. č. 316/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c72d75c9-93c9-43a8-83fa-c15f03fca36e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
