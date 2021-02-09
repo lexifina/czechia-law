@@ -1,0 +1,48 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2021:10.C.14.2021.1",
+  "docket": "10 C 14/2021-45",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f8c0db2d-0934-497d-94e5-1b196f40fd3b",
+  "source_sha256": "491ddd66193c1d5662f1569f3f83e6f728c62474bfd602ae767786031fab6d14",
+  "source_id": "f8c0db2d-0934-497d-94e5-1b196f40fd3b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 14/2021-45",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "Mgr. Ladislav Máša",
+    "ecli": "ECLI:CZ:OSSY:2021:10.C.14.2021.1",
+    "predmetRizeni": "o zaplacení 46 680 Kč s příslušenstvím",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-06-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 1 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 145/2010 Sb.",
+      "§ 6 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 549/1991 Sb.",
+      "§ 4 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f8c0db2d-0934-497d-94e5-1b196f40fd3b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
