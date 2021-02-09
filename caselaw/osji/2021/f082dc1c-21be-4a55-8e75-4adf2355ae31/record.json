@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2021:24.C.274.2020.1",
+  "docket": "24 C 274/2020-32",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f082dc1c-21be-4a55-8e75-4adf2355ae31",
+  "source_sha256": "77cbbcc3a1e82f0e08b0b2a68fe949ecaa0805b9a10eaff8b28445db3c5fe233",
+  "source_id": "f082dc1c-21be-4a55-8e75-4adf2355ae31",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 274/2020-32",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "Mgr. et Mgr. Bc. Milan Boháček, M.A.",
+    "ecli": "ECLI:CZ:OSJI:2021:24.C.274.2020.1",
+    "predmetRizeni": "o 1 995 Kč s příslušenstvím",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f082dc1c-21be-4a55-8e75-4adf2355ae31"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
