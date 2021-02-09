@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pelhřimově",
+  "ecli": "ECLI:CZ:OSPE:2021:4.C.3.2021.1",
+  "docket": "4 C 3/2021-21",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ff843052-fa8f-4484-b804-cd4ea002e9c4",
+  "source_sha256": "604207a696a28db34cbfbaaf665b50f36a1dbb2058ab5b5d80347fe2db73fefe",
+  "source_id": "ff843052-fa8f-4484-b804-cd4ea002e9c4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 3/2021-21",
+    "soud": "Okresní soud v Pelhřimově",
+    "autor": "JUDr. Lenka Jiříková",
+    "ecli": "ECLI:CZ:OSPE:2021:4.C.3.2021.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 562 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ff843052-fa8f-4484-b804-cd4ea002e9c4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
