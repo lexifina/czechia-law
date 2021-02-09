@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:34.C.23.2021.1",
+  "docket": "34 C 23/2021-25",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/68db0692-4f4c-4867-8a94-4dcdf4bece4a",
+  "source_sha256": "32d8d9c452ec4be19a2afacaa95199eb5650f08a42f9ada080ccef11c89b8762",
+  "source_id": "68db0692-4f4c-4867-8a94-4dcdf4bece4a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 23/2021-25",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Tereza Valešová",
+    "ecli": "ECLI:CZ:OSPY:2021:34.C.23.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-09-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/68db0692-4f4c-4867-8a94-4dcdf4bece4a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
