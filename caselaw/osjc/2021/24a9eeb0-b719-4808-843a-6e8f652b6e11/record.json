@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jičíně",
+  "ecli": "ECLI:CZ:OSJC:2021:7.C.246.2020.1",
+  "docket": "7 C 246/2020-36",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/24a9eeb0-b719-4808-843a-6e8f652b6e11",
+  "source_sha256": "ce1caed09d37104ddec506f69063a4692f94f7aec352c9d437c5baab40aa297b",
+  "source_id": "24a9eeb0-b719-4808-843a-6e8f652b6e11",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 246/2020-36",
+    "soud": "Okresní soud v Jičíně",
+    "autor": "JUDr. Jana Valentová",
+    "ecli": "ECLI:CZ:OSJC:2021:7.C.246.2020.1",
+    "predmetRizeni": "o 8.290 Kč s přísl.",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/24a9eeb0-b719-4808-843a-6e8f652b6e11"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
