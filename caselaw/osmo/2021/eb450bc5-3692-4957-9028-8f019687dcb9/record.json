@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:17.C.95.2020.3",
+  "docket": "17 C 95/2020-48",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/eb450bc5-3692-4957-9028-8f019687dcb9",
+  "source_sha256": "baaad0e40a5951a63eafbaaa187b639ff3609ab66774c142f6fb0d289ce710c1",
+  "source_id": "eb450bc5-3692-4957-9028-8f019687dcb9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 95/2020-48",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Iva Flaxová",
+    "ecli": "ECLI:CZ:OSMO:2021:17.C.95.2020.3",
+    "predmetRizeni": "na vyklizení bytu",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-04-01",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "vyklizení bytu",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2291 z. č. 89/2012 Sb.",
+      "§ 1040 z. č. 89/2012 Sb.",
+      "§ 2286 z. č. 89/2012 Sb.",
+      "§ 2290 z. č. 89/2012 Sb.",
+      "§ 1042 z. č. 89/2012 Sb.",
+      "§ 2292 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/eb450bc5-3692-4957-9028-8f019687dcb9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
