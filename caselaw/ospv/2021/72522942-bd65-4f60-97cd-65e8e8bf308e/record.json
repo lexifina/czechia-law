@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:13.C.259.2020 .1",
+  "docket": "13 C 259/2020-54",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/72522942-bd65-4f60-97cd-65e8e8bf308e",
+  "source_sha256": "3bf6dee0184cd90d1fb87679795f39dad24ee57155ce558712d0d33753587540",
+  "source_id": "72522942-bd65-4f60-97cd-65e8e8bf308e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 259/2020-54",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. Hana Greplová",
+    "ecli": "ECLI:CZ:OSPV:2021:13.C.259.2020 .1",
+    "predmetRizeni": "pro zaplacení [částka] s příslušenstvím,",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-03-13",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/72522942-bd65-4f60-97cd-65e8e8bf308e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
