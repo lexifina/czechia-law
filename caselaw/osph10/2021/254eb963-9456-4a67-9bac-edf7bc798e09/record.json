@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2021:18.C.90.2018.4",
+  "docket": "18 C 90/2018-96",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/254eb963-9456-4a67-9bac-edf7bc798e09",
+  "source_sha256": "f90735779b0d69675a02ca2860c8fefd84f96c69a6a37bd455e179ce198a0d31",
+  "source_id": "254eb963-9456-4a67-9bac-edf7bc798e09",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 90/2018-96",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "JUDr. Radka Veverková",
+    "ecli": "ECLI:CZ:OSPH10:2021:18.C.90.2018.4",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-03-25",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/254eb963-9456-4a67-9bac-edf7bc798e09"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
