@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:62.C.9.2017.3",
+  "docket": "62 C 9/2017-45",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2334006d-72a9-40e8-bbbc-905c3c5deb33",
+  "source_sha256": "603f4afa878a4733876bc87dbade8c28f128882103971d0eecc1182a7b4a0618",
+  "source_id": "2334006d-72a9-40e8-bbbc-905c3c5deb33",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "62 C 9/2017-45",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Radana Vilčová",
+    "ecli": "ECLI:CZ:OSOV:2021:62.C.9.2017.3",
+    "predmetRizeni": "o zaplacení 4 225 Kč s příslušenstvím",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-03-22",
+    "klicovaSlova": [
+      "oddlužení",
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2392 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2334006d-72a9-40e8-bbbc-905c3c5deb33"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
