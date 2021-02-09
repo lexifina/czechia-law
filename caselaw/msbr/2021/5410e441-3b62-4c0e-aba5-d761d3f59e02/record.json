@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:48.C.171.2020.1",
+  "docket": "48 C 171/2020-19",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5410e441-3b62-4c0e-aba5-d761d3f59e02",
+  "source_sha256": "f7b779161e709160543035c5adae4d0bd08caad09edb072f605cc8abcd47260f",
+  "source_id": "5410e441-3b62-4c0e-aba5-d761d3f59e02",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "48 C 171/2020-19",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Alena Franková",
+    "ecli": "ECLI:CZ:MSBR:2021:48.C.171.2020.1",
+    "predmetRizeni": "zaplacení 6.655 Kč s příslušenstvím - faktura",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-11-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o přepravě věci"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 115 z. č. 99/1963 Sb.",
+      "§ 2557 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5410e441-3b62-4c0e-aba5-d761d3f59e02"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
