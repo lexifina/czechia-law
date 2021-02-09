@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:35.C.190.2019.1",
+  "docket": "35 C 190/2019-21",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b3114557-215d-410d-8ca0-6fd1a6a4047f",
+  "source_sha256": "b02abda0748a442f33baa1257e6251457c1300c34fe85ccfcadf388e0f4bfa04",
+  "source_id": "b3114557-215d-410d-8ca0-6fd1a6a4047f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "35 C 190/2019-21",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "JUDr. Anna Vandáková",
+    "ecli": "ECLI:CZ:OSPH01:2021:35.C.190.2019.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-05-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "podnájem",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 513 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2217 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 2215 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b3114557-215d-410d-8ca0-6fd1a6a4047f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
