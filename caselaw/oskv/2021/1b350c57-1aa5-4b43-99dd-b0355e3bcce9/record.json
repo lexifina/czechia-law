@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:12.C.254.2020.1",
+  "docket": "12 C 254/2020-18",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1b350c57-1aa5-4b43-99dd-b0355e3bcce9",
+  "source_sha256": "8118e9e386f6e1785ca97a3d4c04453a180fc9635a0560a792ef9236dc67291e",
+  "source_id": "1b350c57-1aa5-4b43-99dd-b0355e3bcce9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 254/2020-18",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "JUDr. Radomír Kubelka",
+    "ecli": "ECLI:CZ:OSKV:2021:12.C.254.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-02-25",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 384 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1b350c57-1aa5-4b43-99dd-b0355e3bcce9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
