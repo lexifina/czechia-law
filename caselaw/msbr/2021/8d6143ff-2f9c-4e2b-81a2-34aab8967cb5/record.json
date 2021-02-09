@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:51.C.51.2020.1",
+  "docket": "51 C 51/2020-43",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8d6143ff-2f9c-4e2b-81a2-34aab8967cb5",
+  "source_sha256": "abb370ce97a68cbaac9b193245fa4649b8b786bdc2f0bb15a1784b55cc4eda6d",
+  "source_id": "8d6143ff-2f9c-4e2b-81a2-34aab8967cb5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "51 C 51/2020-43",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Zdeněk Sýs",
+    "ecli": "ECLI:CZ:MSBR:2021:51.C.51.2020.1",
+    "predmetRizeni": "zaplacení 1.400 Kč s příslušenstvím - zápůjčka",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-03-31",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 156 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8d6143ff-2f9c-4e2b-81a2-34aab8967cb5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
