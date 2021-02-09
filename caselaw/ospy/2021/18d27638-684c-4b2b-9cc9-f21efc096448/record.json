@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:34.C.341.2020.1",
+  "docket": "34 C 341/2020-7",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/18d27638-684c-4b2b-9cc9-f21efc096448",
+  "source_sha256": "9264c6e3b0453430373d7e98781ec83ba8d02a1049b086e6dadec35cbc1daae7",
+  "source_id": "18d27638-684c-4b2b-9cc9-f21efc096448",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 341/2020-7",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Zuzana Brzobohatá",
+    "ecli": "ECLI:CZ:OSPY:2021:34.C.341.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-03-17",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/18d27638-684c-4b2b-9cc9-f21efc096448"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
