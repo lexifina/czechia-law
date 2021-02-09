@@ -1,0 +1,51 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:32.C.271.2020.1",
+  "docket": "32 C 271/2020-44",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bd3bf60f-f242-4f6a-a370-744587677ac1",
+  "source_sha256": "1b8a7503238873a6ad4ec6927efe1f40fea97377a6131b140b4e7e6abce36cd9",
+  "source_id": "bd3bf60f-f242-4f6a-a370-744587677ac1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "32 C 271/2020-44",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Bc. Zdeněk Piskač",
+    "ecli": "ECLI:CZ:OSMO:2021:32.C.271.2020.1",
+    "predmetRizeni": "26 395,20 Kč s příslušenstvím",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-04-29",
+    "klicovaSlova": [
+      "insolvence",
+      "insolvenční návrh",
+      "nájem bytu",
+      "oddlužení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva pracovní",
+      "výživné",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§  z. č. 110/2006 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 95 z. č. 99/1963 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bd3bf60f-f242-4f6a-a370-744587677ac1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
