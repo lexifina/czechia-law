@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Litoměřicích",
+  "ecli": "ECLI:CZ:OSLT:2021:9.C.184.2020.1",
+  "docket": "9 C 184/2020-25",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3adb8702-669b-4850-a678-e284a0d4077e",
+  "source_sha256": "f8b3fb02b2e3e6d7f07a5f6c4435a5cd4b033b78d484eadbfd3c97ee9cdeccb7",
+  "source_id": "3adb8702-669b-4850-a678-e284a0d4077e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 184/2020-25",
+    "soud": "Okresní soud v Litoměřicích",
+    "autor": "JUDr. Helena Koniorová",
+    "ecli": "ECLI:CZ:OSLT:2021:9.C.184.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-03-16",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 393 z. č. 292/2013 Sb.",
+      "§ 754 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3adb8702-669b-4850-a678-e284a0d4077e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
