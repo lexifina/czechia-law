@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:116.C.128.2020.1",
+  "docket": "116 C 128/2020-32",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d23be7d1-b671-4218-bdc5-904047fbc44e",
+  "source_sha256": "c2f771ca450f6cea378b1f5586942c5d71e5600ce744979262a0c7db0547d0f7",
+  "source_id": "d23be7d1-b671-4218-bdc5-904047fbc44e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "116 C 128/2020-32",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Tamara Göthová",
+    "ecli": "ECLI:CZ:MSBR:2021:116.C.128.2020.1",
+    "predmetRizeni": "určení neplatnosti výpovědi z nájmu bytu",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 9 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d23be7d1-b671-4218-bdc5-904047fbc44e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
