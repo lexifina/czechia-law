@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2021:16.C.407.2020.1",
+  "docket": "16 C 407/2020-23",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d61332b2-3f15-473f-a61a-3102c2d68f07",
+  "source_sha256": "ff96dc30ba452ec950712d1636f8097334ead063896b2e8fbb2d0b1e6048dd4d",
+  "source_id": "d61332b2-3f15-473f-a61a-3102c2d68f07",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 407/2020-23",
+    "soud": "Okresní soud v Karviné",
+    "autor": "JUDr. Irena Žaganová",
+    "ecli": "ECLI:CZ:OSKI:2021:16.C.407.2020.1",
+    "predmetRizeni": "1 950 Kč s příslušenstvím",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-05-05",
+    "klicovaSlova": [
+      "opilost",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 89b z. č. 373/2011 Sb.",
+      "§ 89e z. č. 373/2011 Sb.",
+      "§ 89a z. č. 373/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d61332b2-3f15-473f-a61a-3102c2d68f07"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
