@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pelhřimově",
+  "ecli": "ECLI:CZ:OSPE:2021:1.C.17.2021.1",
+  "docket": "1 C 17/2021-13",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ed523a4c-abe3-4d05-8812-fd80c66129eb",
+  "source_sha256": "dcb8d05466ddf257cd1b98e300e4882f3adb3d239ebf211e4abc3f571234ec0b",
+  "source_id": "ed523a4c-abe3-4d05-8812-fd80c66129eb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "1 C 17/2021-13",
+    "soud": "Okresní soud v Pelhřimově",
+    "autor": "JUDr. Zdeněk Tichý",
+    "ecli": "ECLI:CZ:OSPE:2021:1.C.17.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-03-05",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ed523a4c-abe3-4d05-8812-fd80c66129eb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
