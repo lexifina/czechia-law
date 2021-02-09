@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2021:5.C.7.2021.2",
+  "docket": "5 C 7/2021-23",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2195ad29-cde3-4fcf-bf4f-3cf16210e4ad",
+  "source_sha256": "d3af732ce593ae1411f77509e3d4a82b811d24ca7948f5918f6d9c7d4692ce45",
+  "source_id": "2195ad29-cde3-4fcf-bf4f-3cf16210e4ad",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 7/2021-23",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "JUDr. Ivana Paloučková",
+    "ecli": "ECLI:CZ:OSCK:2021:5.C.7.2021.2",
+    "predmetRizeni": "EPR [číslo] - o zaplacení 675 Kč s příslušenstvím",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 348/2005 Sb.",
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 7 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2195ad29-cde3-4fcf-bf4f-3cf16210e4ad"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
