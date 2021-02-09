@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:41.C.48.2020.1",
+  "docket": "41 C 48/2020-59",
+  "date": "2021-02-09",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c9a49cdb-858a-41ea-aafd-706464839692",
+  "source_sha256": "a1d94fecca35d804b0f9b0f0c907d371d3107f70e3860ab4490939c04f39be18",
+  "source_id": "c9a49cdb-858a-41ea-aafd-706464839692",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "41 C 48/2020-59",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "JUDr. Denisa Georgesová",
+    "ecli": "ECLI:CZ:OSBI:2021:41.C.48.2020.1",
+    "predmetRizeni": "určení vlastnictví k nemovitým věcem",
+    "datumVydani": "2021-02-09",
+    "datumZverejneni": "2021-04-19",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "pasivní legitimace",
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 43 z. č. 99/1963 Sb.",
+      "§ 91a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c9a49cdb-858a-41ea-aafd-706464839692"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
