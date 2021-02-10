@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:22.C.13.2021.1",
+  "docket": "22 C 13/2021-13",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7e7a6228-81fc-48d0-968e-c2003eb71b7b",
+  "source_sha256": "fd495d5889df0766ffd211329a55774f9557b10f360d0f813ec7f6982005d043",
+  "source_id": "7e7a6228-81fc-48d0-968e-c2003eb71b7b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 13/2021-13",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Hana Chabičová",
+    "ecli": "ECLI:CZ:OSOV:2021:22.C.13.2021.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-04-15",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7e7a6228-81fc-48d0-968e-c2003eb71b7b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
