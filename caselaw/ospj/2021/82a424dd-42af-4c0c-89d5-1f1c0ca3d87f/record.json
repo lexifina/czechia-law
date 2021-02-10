@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPJ:2021:10.C.1.2021.2",
+  "docket": "10 C 1/2021-15",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/82a424dd-42af-4c0c-89d5-1f1c0ca3d87f",
+  "source_sha256": "1ed669769d9d6d1c55f0a282cbf27504bce51848cc97fd56c229ecb2984550c5",
+  "source_id": "82a424dd-42af-4c0c-89d5-1f1c0ca3d87f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 1/2021-15",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Blanka Šibrová",
+    "ecli": "ECLI:CZ:OSPJ:2021:10.C.1.2021.2",
+    "predmetRizeni": "6 540 Kč s přísl.",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 15 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/82a424dd-42af-4c0c-89d5-1f1c0ca3d87f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
