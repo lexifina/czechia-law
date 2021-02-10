@@ -1,0 +1,48 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:18.C.123.2020.1",
+  "docket": "18 C 123/2020-15",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/373e654b-491f-470c-a8f6-8a6b2da31561",
+  "source_sha256": "e34cf841cfa590b79c9c0a80b73216f16cfafd9c83198c20cdbd0f3ad71ccd04",
+  "source_id": "373e654b-491f-470c-a8f6-8a6b2da31561",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 123/2020-15",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Gabriela Hanáková",
+    "ecli": "ECLI:CZ:MSBR:2021:18.C.123.2020.1",
+    "predmetRizeni": "zaplacení 3.956 Kč s příslušenstvím - zápůjčka",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 1841 z. č. 89/2012 Sb.",
+      "§ 1812 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/373e654b-491f-470c-a8f6-8a6b2da31561"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
