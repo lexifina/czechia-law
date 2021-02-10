@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:115.C.93.2013.1",
+  "docket": "115 C 93/2013-40",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8f227eb0-de91-4373-9b02-f6d12117a748",
+  "source_sha256": "85b748399c4d2e52c5280a6d08f090fa6def0980281c61e225549c7277c0b424",
+  "source_id": "8f227eb0-de91-4373-9b02-f6d12117a748",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "115 C 93/2013-40",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Hana Slaná",
+    "ecli": "ECLI:CZ:MSBR:2021:115.C.93.2013.1",
+    "predmetRizeni": "720,00 EUR s přísl. - faktura",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o přepravě nákladu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 140 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§  z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8f227eb0-de91-4373-9b02-f6d12117a748"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
