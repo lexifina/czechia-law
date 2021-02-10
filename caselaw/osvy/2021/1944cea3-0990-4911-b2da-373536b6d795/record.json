@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:4.C.212.2020.1",
+  "docket": "4 C 212/2020-49",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1944cea3-0990-4911-b2da-373536b6d795",
+  "source_sha256": "666dc4ce8c1d2cc39b4eaf1b89a3813de406eed1ab66b126a223a50f77b73011",
+  "source_id": "1944cea3-0990-4911-b2da-373536b6d795",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 212/2020-49",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Petr Doležel",
+    "ecli": "ECLI:CZ:OSVY:2021:4.C.212.2020.1",
+    "predmetRizeni": "zaplacení 2 332 Kč s příslušenstvím-pojištění",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-03-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2779 z. č. 89/2012 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 13 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1944cea3-0990-4911-b2da-373536b6d795"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
