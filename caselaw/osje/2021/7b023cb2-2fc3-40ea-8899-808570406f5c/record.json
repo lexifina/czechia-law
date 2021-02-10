@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jeseníku",
+  "ecli": "ECLI:CZ:OSJE:2021:11.C.4.2021.1",
+  "docket": "11 C 4/2021-22",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7b023cb2-2fc3-40ea-8899-808570406f5c",
+  "source_sha256": "024457b0b28f070fdbb87f375b6186307cf53ee48f64576fd97d7a9404d8abb4",
+  "source_id": "7b023cb2-2fc3-40ea-8899-808570406f5c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 4/2021-22",
+    "soud": "Okresní soud v Jeseníku",
+    "autor": "JUDr. Věra Procházková",
+    "ecli": "ECLI:CZ:OSJE:2021:11.C.4.2021.1",
+    "predmetRizeni": "682,40 Kč s příslušenstvím",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-05-05",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění majetku"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1751 z. č. 89/2012 Sb.",
+      "§ 2758/1 z. č. 89/2012 Sb.",
+      "§ 2782/1 z. č. 89/2012 Sb.",
+      "§ 2783/1 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7b023cb2-2fc3-40ea-8899-808570406f5c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
