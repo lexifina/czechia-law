@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Uherském Hradišti",
+  "ecli": "ECLI:CZ:OSUH:2021:14.C.11.2021.1",
+  "docket": "14 C 11/2021-7",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a6dcd15a-8bc9-4482-81e1-01e6b795023a",
+  "source_sha256": "3d233a094c4fb18b7b5677fc8d8944dadb6d8d80ef2948d93dfc19610cafc6c2",
+  "source_id": "a6dcd15a-8bc9-4482-81e1-01e6b795023a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 11/2021-7",
+    "soud": "Okresní soud v Uherském Hradišti",
+    "autor": "Mgr. Pavlína Potomská",
+    "ecli": "ECLI:CZ:OSUH:2021:14.C.11.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "církev",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a6dcd15a-8bc9-4482-81e1-01e6b795023a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
