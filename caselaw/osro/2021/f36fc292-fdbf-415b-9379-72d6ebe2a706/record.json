@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:9.C.54.2020.1",
+  "docket": "9 C 54/2020-18",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f36fc292-fdbf-415b-9379-72d6ebe2a706",
+  "source_sha256": "6b5ac8fd18181d128725905ce47600902189e20306c14bcd48e5c51dca03869f",
+  "source_id": "f36fc292-fdbf-415b-9379-72d6ebe2a706",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 54/2020-18",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "Mgr. Ing. David Svoboda",
+    "ecli": "ECLI:CZ:OSRO:2021:9.C.54.2020.1",
+    "predmetRizeni": "4.577 Kč s přísl.",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-04-08",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 74 z. č. 458/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f36fc292-fdbf-415b-9379-72d6ebe2a706"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
