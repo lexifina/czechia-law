@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2021:7.C.82.2020.1",
+  "docket": "7 C 82/2020-41",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ad82a6f5-b8b2-4874-8285-a79f033e73be",
+  "source_sha256": "aacc6f59ac82ca1f57e51bf3def9f914f5a4bc75d94d7c1d19db3abac52a857f",
+  "source_id": "ad82a6f5-b8b2-4874-8285-a79f033e73be",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 82/2020-41",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "JUDr. Zdeněk Fric",
+    "ecli": "ECLI:CZ:OSSY:2021:7.C.82.2020.1",
+    "predmetRizeni": "o zaplacení nájemného ve výši 210 348 Kč s přísl.",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-07-08",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "smlouva nájemní",
+      "zkušební doba"
+    ],
+    "zminenaUstanoveni": [
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 2246 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ad82a6f5-b8b2-4874-8285-a79f033e73be"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
