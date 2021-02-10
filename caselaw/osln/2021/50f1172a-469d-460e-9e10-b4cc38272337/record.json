@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2021:1.C.309.2020.1",
+  "docket": "1 C 309/2020-49",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/50f1172a-469d-460e-9e10-b4cc38272337",
+  "source_sha256": "0a75e86a9d146d87fc515561217e78f714ef31a0dad756d1dec5bd59354efcc2",
+  "source_id": "50f1172a-469d-460e-9e10-b4cc38272337",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "1 C 309/2020-49",
+    "soud": "Okresní soud v Lounech",
+    "autor": "JUDr. Eva Vyskočilová",
+    "ecli": "ECLI:CZ:OSLN:2021:1.C.309.2020.1",
+    "predmetRizeni": "O zaplacení 3 455,50 Kč s příslušenstvím",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-03-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/50f1172a-469d-460e-9e10-b4cc38272337"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
