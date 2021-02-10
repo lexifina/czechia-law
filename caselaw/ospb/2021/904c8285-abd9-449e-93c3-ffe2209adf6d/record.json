@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:8.C.4.2021.1",
+  "docket": "8 C 4/2021-43",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/904c8285-abd9-449e-93c3-ffe2209adf6d",
+  "source_sha256": "6a1119009a00245cc267554ea3368b7a3affe5675e02a59fe454c7d5c4321a5e",
+  "source_id": "904c8285-abd9-449e-93c3-ffe2209adf6d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 4/2021-43",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Zuzana Masnerová",
+    "ecli": "ECLI:CZ:OSPB:2021:8.C.4.2021.1",
+    "predmetRizeni": "zaplacení 26 500 Kč s příslušenstvím",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 573 z. č. 89/2012 Sb.",
+      "§ 1908 z. č. 89/2012 Sb.",
+      "§ 123 z. č. 561/2004 Sb.",
+      "§ 8 z. č. 561/2004 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/904c8285-abd9-449e-93c3-ffe2209adf6d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
