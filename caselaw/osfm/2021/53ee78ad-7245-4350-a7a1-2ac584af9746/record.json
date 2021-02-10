@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:10.C.337.2020.1",
+  "docket": "10 C 337/2020-14",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/53ee78ad-7245-4350-a7a1-2ac584af9746",
+  "source_sha256": "89eeca604ef44ce02f358d544d058a5270ef199ac4d2bd2172037874b97dfa17",
+  "source_id": "53ee78ad-7245-4350-a7a1-2ac584af9746",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 337/2020-14",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Monika Špoková",
+    "ecli": "ECLI:CZ:OSFM:2021:10.C.337.2020.1",
+    "predmetRizeni": "O zaplacení 90 Kč s příslušenstvím",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-04-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "regulační poplatek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 16a z. č. 48/1997 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/53ee78ad-7245-4350-a7a1-2ac584af9746"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
