@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:23.C.318.2019.1",
+  "docket": "23 C 318/2019-45",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e7a91683-a149-4df1-9906-3a5f176b89cf",
+  "source_sha256": "0a9dea1a08e324b11bf292d2c11d3425f47fba5250edcbaf4b05f62fabce4d8e",
+  "source_id": "e7a91683-a149-4df1-9906-3a5f176b89cf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 318/2019-45",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "JUDr. Lukáš Kratochvíl",
+    "ecli": "ECLI:CZ:OSPU:2021:23.C.318.2019.1",
+    "predmetRizeni": "O zaplacení 2 909,70 Kč s příslušenstvím",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-06-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "prodlení věřitele",
+      "smlouva o účtu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 45 z. č. 99/1963 Sb.",
+      "§ 2675 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e7a91683-a149-4df1-9906-3a5f176b89cf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
