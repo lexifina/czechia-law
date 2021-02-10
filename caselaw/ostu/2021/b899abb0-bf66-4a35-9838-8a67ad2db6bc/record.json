@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:7.C.2.2021.1",
+  "docket": "7 C 2/2021-23",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b899abb0-bf66-4a35-9838-8a67ad2db6bc",
+  "source_sha256": "3db36f5cbbf73fb87575b940d4b8e1d73076ad6ab2f3c0e48af78ba4fecda875",
+  "source_id": "b899abb0-bf66-4a35-9838-8a67ad2db6bc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 2/2021-23",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "JUDr. Jiří Vošvrda",
+    "ecli": "ECLI:CZ:OSTU:2021:7.C.2.2021.1",
+    "predmetRizeni": "zaplacení 1 950 Kč s příslušenstvím - náklady vyšetření",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-03-19",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 24 z. č. 65/2017 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b899abb0-bf66-4a35-9838-8a67ad2db6bc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
