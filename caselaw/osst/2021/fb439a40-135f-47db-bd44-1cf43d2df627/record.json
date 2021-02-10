@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Strakonicích",
+  "ecli": "ECLI:CZ:OSST:2021:7.C.267.2020.1",
+  "docket": "7 C 267/2020-31",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fb439a40-135f-47db-bd44-1cf43d2df627",
+  "source_sha256": "774b1d26fc6b3e1b5301373a8adbaff11ade65c1434479a5da6e998f11e36024",
+  "source_id": "fb439a40-135f-47db-bd44-1cf43d2df627",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 267/2020-31",
+    "soud": "Okresní soud ve Strakonicích",
+    "autor": "JUDr. Marie Rychtářová",
+    "ecli": "ECLI:CZ:OSST:2021:7.C.267.2020.1",
+    "predmetRizeni": "O rozvod manželství",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-03-15",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fb439a40-135f-47db-bd44-1cf43d2df627"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
