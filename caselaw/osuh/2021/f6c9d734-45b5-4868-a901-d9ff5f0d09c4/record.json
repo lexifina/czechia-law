@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Uherském Hradišti",
+  "ecli": "ECLI:CZ:OSUH:2021:4.C.5.2021.1",
+  "docket": "4 C 5/2021-42",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f6c9d734-45b5-4868-a901-d9ff5f0d09c4",
+  "source_sha256": "250cf9f698a9cb5e2171812f372c3c509f52378c5f54995dcaac86506fbc4b69",
+  "source_id": "f6c9d734-45b5-4868-a901-d9ff5f0d09c4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 5/2021-42",
+    "soud": "Okresní soud v Uherském Hradišti",
+    "autor": "JUDr. Jaroslava Hamadová",
+    "ecli": "ECLI:CZ:OSUH:2021:4.C.5.2021.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-07-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 2 z. č. 127/2005 Sb.",
+      "§ 2049 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f6c9d734-45b5-4868-a901-d9ff5f0d09c4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
