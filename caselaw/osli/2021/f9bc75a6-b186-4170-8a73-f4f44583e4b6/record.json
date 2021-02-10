@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:29.C.223.2020.1",
+  "docket": "29 C 223/2020-16",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f9bc75a6-b186-4170-8a73-f4f44583e4b6",
+  "source_sha256": "30544c20f5005b1190ce296c619fbb63a1fc368bf075f3c4367dbbc1294066dc",
+  "source_id": "f9bc75a6-b186-4170-8a73-f4f44583e4b6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 223/2020-16",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Bohumil Vašák",
+    "ecli": "ECLI:CZ:OSLI:2021:29.C.223.2020.1",
+    "predmetRizeni": "o zaplacení částky 782,74 Kč s příslušenstvím",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-05-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 506 z. č. 513/1991 Sb.",
+      "§ 261 z. č. 513/1991 Sb.",
+      "§ 497 z. č. 513/1991 Sb.",
+      "§ 502 z. č. 513/1991 Sb.",
+      "§ 503 z. č. 513/1991 Sb.",
+      "§ 504 z. č. 513/1991 Sb.",
+      "§ 517 z. č. 513/1991 Sb.",
+      "§ 524 z. č. 513/1991 Sb.",
+      "§ 526 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f9bc75a6-b186-4170-8a73-f4f44583e4b6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
