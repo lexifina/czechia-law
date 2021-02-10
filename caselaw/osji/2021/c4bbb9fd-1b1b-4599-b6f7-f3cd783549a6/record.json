@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2021:12.C.336.2020.1",
+  "docket": "12 C 336/2020-42",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c4bbb9fd-1b1b-4599-b6f7-f3cd783549a6",
+  "source_sha256": "73cc9f272089e71b9904f695c286eff101a307bd0b18b7cefc91f4cbe77fbd7e",
+  "source_id": "c4bbb9fd-1b1b-4599-b6f7-f3cd783549a6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 336/2020-42",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "JUDr. Eva Bastlová",
+    "ecli": "ECLI:CZ:OSJI:2021:12.C.336.2020.1",
+    "predmetRizeni": "o 1 500 Kč s příslušenstvím",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-04-14",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§  z. č. 43/2013 Sb.",
+      "§  z. č. 227/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c4bbb9fd-1b1b-4599-b6f7-f3cd783549a6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
