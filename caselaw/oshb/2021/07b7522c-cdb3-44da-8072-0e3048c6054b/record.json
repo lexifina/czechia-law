@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Havlíčkově Brodě",
+  "ecli": "ECLI:CZ:OSHB:2021:11.C.249.2020.2",
+  "docket": "11 C 249/2020-20",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/07b7522c-cdb3-44da-8072-0e3048c6054b",
+  "source_sha256": "7e789295bb61675fd83ca5d8624984e343e1ccce2884476ce15c02d77840631f",
+  "source_id": "07b7522c-cdb3-44da-8072-0e3048c6054b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 249/2020-20",
+    "soud": "Okresní soud v Havlíčkově Brodě",
+    "autor": "JUDr. Růžena Janečková",
+    "ecli": "ECLI:CZ:OSHB:2021:11.C.249.2020.2",
+    "predmetRizeni": "zaplacení 3.966 Kč s příslušenstvím",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-03-18",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 205/1999 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/07b7522c-cdb3-44da-8072-0e3048c6054b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
