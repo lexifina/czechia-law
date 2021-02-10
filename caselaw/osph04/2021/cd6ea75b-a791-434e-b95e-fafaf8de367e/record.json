@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:15.C.343.2020.1",
+  "docket": "15 C 343/2020-14",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cd6ea75b-a791-434e-b95e-fafaf8de367e",
+  "source_sha256": "b80da94b3156214d055cae012e1df951ddc8b341b09cbc57b5951b5cc43e329f",
+  "source_id": "cd6ea75b-a791-434e-b95e-fafaf8de367e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 343/2020-14",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "Mgr. Marta Gottwaldová",
+    "ecli": "ECLI:CZ:OSPH04:2021:15.C.343.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-04-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 6 z. č. 348/2005 Sb.",
+      "§ 7 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cd6ea75b-a791-434e-b95e-fafaf8de367e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
