@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:21.C.213.2020.1",
+  "docket": "21 C 213/2020-12",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/97b0fde7-f5eb-412b-868e-e1a163c7fa3f",
+  "source_sha256": "123435ee3ae4850c9e4d9cc95a8af10a9b77d0e4bb0a89cec836b00cac3b942d",
+  "source_id": "97b0fde7-f5eb-412b-868e-e1a163c7fa3f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 213/2020-12",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "JUDr. Markéta Šubová",
+    "ecli": "ECLI:CZ:OSHK:2021:21.C.213.2020.1",
+    "predmetRizeni": "o zaplacení 1 338 Kč s příslušenstvím",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-03-31",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 13 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/97b0fde7-f5eb-412b-868e-e1a163c7fa3f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
