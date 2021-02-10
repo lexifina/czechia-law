@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:7.C.29.2020.5",
+  "docket": "7 C 29/2020-43",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ebe29c03-5f30-4a1c-8ba5-264a584cc064",
+  "source_sha256": "70e015a7bd5bd93eab203ad198f0f5e10c7a83253bcc581238b287a75a86d521",
+  "source_id": "ebe29c03-5f30-4a1c-8ba5-264a584cc064",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 29/2020-43",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Lenka Eliášová",
+    "ecli": "ECLI:CZ:OSPH05:2021:7.C.29.2020.5",
+    "predmetRizeni": "834 995,50 Kč s příslušenstvím",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-04-14",
+    "klicovaSlova": [
+      "nájem nebytových prostor",
+      "nebytový prostor",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 1982 z. č. 0/0 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ebe29c03-5f30-4a1c-8ba5-264a584cc064"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
