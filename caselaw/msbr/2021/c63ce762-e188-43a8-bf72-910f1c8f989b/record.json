@@ -1,0 +1,49 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:38.C.131.2020.1",
+  "docket": "38 C 131/2020-32",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c63ce762-e188-43a8-bf72-910f1c8f989b",
+  "source_sha256": "2b57db4093265a126a366ac3c70b35f2ab77fd56f48e73c6f1d87cfe1325ae92",
+  "source_id": "c63ce762-e188-43a8-bf72-910f1c8f989b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 131/2020-32",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Ivo Kadrmas",
+    "ecli": "ECLI:CZ:MSBR:2021:38.C.131.2020.1",
+    "predmetRizeni": "zaplacení 27.060 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-10-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1 nař. vl. č. 142/1994 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 18 z. č. 99/1963 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 517 z. č. 40/1964 Sb.",
+      "§ 118b z. č. 99/1963 Sb.",
+      "§ 43 z. č. 99/1963 Sb.",
+      "§ 497 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c63ce762-e188-43a8-bf72-910f1c8f989b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
