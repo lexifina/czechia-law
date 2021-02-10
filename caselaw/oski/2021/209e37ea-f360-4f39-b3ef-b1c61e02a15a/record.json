@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2021:23.C.369.2020.1",
+  "docket": "23 C 369/2020-32",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/209e37ea-f360-4f39-b3ef-b1c61e02a15a",
+  "source_sha256": "c387e8bd32894e8a16f733ca4a41616903ffda4f1a88fed7b3db841bab2ce816",
+  "source_id": "209e37ea-f360-4f39-b3ef-b1c61e02a15a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 369/2020-32",
+    "soud": "Okresní soud v Karviné",
+    "autor": "Mgr. Ing. Marie Miczková",
+    "ecli": "ECLI:CZ:OSKI:2021:23.C.369.2020.1",
+    "predmetRizeni": "1 536,93 Kč s příslušenstvím",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-04-19",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/209e37ea-f360-4f39-b3ef-b1c61e02a15a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
