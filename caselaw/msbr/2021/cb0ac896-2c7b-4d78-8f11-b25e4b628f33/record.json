@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:115.C.196.2020.1",
+  "docket": "115 C 196/2020-20",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cb0ac896-2c7b-4d78-8f11-b25e4b628f33",
+  "source_sha256": "838678b7c791128098f12f58ffcf352745f151944da3e262b8a8f5b05710dc0c",
+  "source_id": "cb0ac896-2c7b-4d78-8f11-b25e4b628f33",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "115 C 196/2020-20",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Hana Slaná",
+    "ecli": "ECLI:CZ:MSBR:2021:115.C.196.2020.1",
+    "predmetRizeni": "zaplacení 12.011 Kč s příslušenstvím - faktura",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 458/2000 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cb0ac896-2c7b-4d78-8f11-b25e4b628f33"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
