@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:17.C.555.2020.1",
+  "docket": "17 C 555/2020-17",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/09734137-23eb-4224-8d3e-7c7da795271b",
+  "source_sha256": "fba2b67f3b708623327a9bb43487b0e7cc6eb47d7246bb2ef4aa13cbdc71fa60",
+  "source_id": "09734137-23eb-4224-8d3e-7c7da795271b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 555/2020-17",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Jan Uhlíř",
+    "ecli": "ECLI:CZ:OSLI:2021:17.C.555.2020.1",
+    "predmetRizeni": "zaplacení částky 938 Kč s příslušenstvím",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-04-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění",
+      "pojištění majetku"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/09734137-23eb-4224-8d3e-7c7da795271b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
