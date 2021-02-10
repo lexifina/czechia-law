@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně",
+  "ecli": "ECLI:CZ:OSVS:2021:13.C.96.2020.1",
+  "docket": "13 C 96/2020-36",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5a2e78ac-bc3b-45d1-9f80-887e9b36fc4a",
+  "source_sha256": "0eb2a7801edf577245e1a2721958c22e0adcd4f15c5f0607463b24f7989cb29b",
+  "source_id": "5a2e78ac-bc3b-45d1-9f80-887e9b36fc4a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 96/2020-36",
+    "soud": "Okresní soud ve Vsetíně",
+    "autor": "Mgr. Hana Kohoutková",
+    "ecli": "ECLI:CZ:OSVS:2021:13.C.96.2020.1",
+    "predmetRizeni": "O zaplacení 18 377 Kč s příslušenstvím",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 9 z. č. 43/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5a2e78ac-bc3b-45d1-9f80-887e9b36fc4a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
