@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:8.C.277.2020.1",
+  "docket": "8 C 277/2020-59",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/076ac7a6-b360-4736-9b90-9ef5c278b75a",
+  "source_sha256": "3ec1f55cb13f23c36c2a11a8f4033f48b738b998ad15078667c2f00cd7763596",
+  "source_id": "076ac7a6-b360-4736-9b90-9ef5c278b75a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 277/2020-59",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Jitka Sochorová",
+    "ecli": "ECLI:CZ:OSPY:2021:8.C.277.2020.1",
+    "predmetRizeni": "o osvojení zletilých osob",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-05-07",
+    "klicovaSlova": [
+      "osvojení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 847 z. č. 89/2012 Sb.",
+      "§ 846 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/076ac7a6-b360-4736-9b90-9ef5c278b75a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
