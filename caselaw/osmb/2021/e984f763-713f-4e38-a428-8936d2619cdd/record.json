@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2021:4.C.94.2019.1",
+  "docket": "4 C 94/2019-60",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e984f763-713f-4e38-a428-8936d2619cdd",
+  "source_sha256": "886e134c11b9bcf7db9d5fc2c830f8652d3c924789c729227edde63d4dbc9f15",
+  "source_id": "e984f763-713f-4e38-a428-8936d2619cdd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 94/2019-60",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "Mgr. Sabina Kubáňová",
+    "ecli": "ECLI:CZ:OSMB:2021:4.C.94.2019.1",
+    "predmetRizeni": "o zaplacení 44 240 Kč s příslušenstvím",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-04-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e984f763-713f-4e38-a428-8936d2619cdd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
