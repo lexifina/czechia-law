@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Strakonicích",
+  "ecli": "ECLI:CZ:OSST:2021:6.C.33.2021.1",
+  "docket": "6 C 33/2021-18",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f71087b1-595d-4eb5-a081-b0296bfd274b",
+  "source_sha256": "5163a475a3d70a6b106b7f97f611de8b18eea14b2cb199f23c8f774ca0d350f3",
+  "source_id": "f71087b1-595d-4eb5-a081-b0296bfd274b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 33/2021-18",
+    "soud": "Okresní soud ve Strakonicích",
+    "autor": "JUDr. Pavla Potužníková",
+    "ecli": "ECLI:CZ:OSST:2021:6.C.33.2021.1",
+    "predmetRizeni": "O zaplacení 34 841,30 Kč s příslušenstvím",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 153a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f71087b1-595d-4eb5-a081-b0296bfd274b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
