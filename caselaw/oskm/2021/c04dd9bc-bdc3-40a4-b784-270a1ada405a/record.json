@@ -1,0 +1,47 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kroměříži",
+  "ecli": "ECLI:CZ:OSKM:2021:16.C.1.2021.3",
+  "docket": "16 C 1/2021-34",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c04dd9bc-bdc3-40a4-b784-270a1ada405a",
+  "source_sha256": "5d36306675c222f1b167dc918386c9ae6335bea9c1337414a461e79c3e8bf21d",
+  "source_id": "c04dd9bc-bdc3-40a4-b784-270a1ada405a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 1/2021-34",
+    "soud": "Okresní soud v Kroměříži",
+    "autor": "Mgr. Radim Slezák",
+    "ecli": "ECLI:CZ:OSKM:2021:16.C.1.2021.3",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-04-14",
+    "klicovaSlova": [
+      "dodávky energie",
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§  z. č. 458/2000 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 120/2014 Sb.",
+      "§ 174a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c04dd9bc-bdc3-40a4-b784-270a1ada405a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
