@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Uherském Hradišti",
+  "ecli": "ECLI:CZ:OSUH:2021:4.C.240.2020.1",
+  "docket": "4 C 240/2020-40",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ff94a76a-d4b1-4e1c-b9de-22ca0e9a0517",
+  "source_sha256": "333c602eb3575a50b851be44d8de62f87f5eeb82cc5ae54869c6dc9f8edefef5",
+  "source_id": "ff94a76a-d4b1-4e1c-b9de-22ca0e9a0517",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 240/2020-40",
+    "soud": "Okresní soud v Uherském Hradišti",
+    "autor": "JUDr. Jaroslava Hamadová",
+    "ecli": "ECLI:CZ:OSUH:2021:4.C.240.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-08-06",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 348/2005 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 7 z. č. 348/2005 Sb.",
+      "§ 2 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ff94a76a-d4b1-4e1c-b9de-22ca0e9a0517"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
