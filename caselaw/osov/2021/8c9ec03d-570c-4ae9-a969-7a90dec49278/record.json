@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:57.C.288.2020.2",
+  "docket": "57 C 288/2020-24",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8c9ec03d-570c-4ae9-a969-7a90dec49278",
+  "source_sha256": "aa3e8d8da98cac7d722e7bc2cfd724a6995b5a33457183ae14b9e2cb5e72e326",
+  "source_id": "8c9ec03d-570c-4ae9-a969-7a90dec49278",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "57 C 288/2020-24",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. David Šeremek",
+    "ecli": "ECLI:CZ:OSOV:2021:57.C.288.2020.2",
+    "predmetRizeni": "o zaplacení 10 581 Kč s příslušenstvím",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-05-27",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8c9ec03d-570c-4ae9-a969-7a90dec49278"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
