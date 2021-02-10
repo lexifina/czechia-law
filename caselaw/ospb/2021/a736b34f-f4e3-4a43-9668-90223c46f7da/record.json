@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:10.C.7.2021.1",
+  "docket": "10 C 7/2021-46",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a736b34f-f4e3-4a43-9668-90223c46f7da",
+  "source_sha256": "4de9771a85d1ea156a5ba816595051e1c7268ff3b8a2002f2dace9af1816b1e4",
+  "source_id": "a736b34f-f4e3-4a43-9668-90223c46f7da",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 7/2021-46",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "Mgr. Lucie Petráková",
+    "ecli": "ECLI:CZ:OSPB:2021:10.C.7.2021.1",
+    "predmetRizeni": "zaplacení 2 000 Kč s příslušenstvím",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 1 z. č. 91/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a736b34f-f4e3-4a43-9668-90223c46f7da"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
