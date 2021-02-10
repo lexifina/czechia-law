@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:10.C.195.2020.4",
+  "docket": "10 C 195/2020-73",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d3f8e333-9afb-4f66-a0ce-c573c078c426",
+  "source_sha256": "4397fdd1301ac181df9102e7c93f1569f912e92dc6fe9e9e7e7075fa21c1ce4c",
+  "source_id": "d3f8e333-9afb-4f66-a0ce-c573c078c426",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 195/2020-73",
+    "soud": "Okresní soud v Chebu",
+    "autor": "JUDr. Alexandra Vaňková",
+    "ecli": "ECLI:CZ:OSCH:2021:10.C.195.2020.4",
+    "predmetRizeni": "o 87 048 Kč s přísl.",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-07-07",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 2911 z. č. 89/2012 Sb.",
+      "§ 181 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d3f8e333-9afb-4f66-a0ce-c573c078c426"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
