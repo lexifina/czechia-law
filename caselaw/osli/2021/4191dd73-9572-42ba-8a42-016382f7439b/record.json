@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:32.C.129.2020.1",
+  "docket": "32 C 129/2020-41",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4191dd73-9572-42ba-8a42-016382f7439b",
+  "source_sha256": "b9bb1b5d5b051d0d6d6f9d39dea3a1b7db68a98b78f4074c26b45ea4a60ca272",
+  "source_id": "4191dd73-9572-42ba-8a42-016382f7439b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "32 C 129/2020-41",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Regina Sypecká",
+    "ecli": "ECLI:CZ:OSLI:2021:32.C.129.2020.1",
+    "predmetRizeni": "Návrh na rozvod manželství",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-07-23",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4191dd73-9572-42ba-8a42-016382f7439b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
