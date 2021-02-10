@@ -1,0 +1,51 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2021:36.C.127.2020.2",
+  "docket": "36 C 127/2020-101",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0669fa9d-cd7f-4e1a-9113-c75785bcb061",
+  "source_sha256": "e0d3713a5f3f102d3b49e6bffe0ce68bda4e1f45363c4720b0550a0a982ba23c",
+  "source_id": "0669fa9d-cd7f-4e1a-9113-c75785bcb061",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 127/2020-101",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "Mgr. Dana Matoušová",
+    "ecli": "ECLI:CZ:OSZL:2021:36.C.127.2020.2",
+    "predmetRizeni": "zaplacení 14 326 Kč s příslušenstvím",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "insolvence",
+      "neplatnost právního jednání",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 586 z. č. 89/2012 Sb.",
+      "§ 629 z. č. 89/2012 Sb.",
+      "§ 619 z. č. 89/2012 Sb.",
+      "§ 610 z. č. 89/2012 Sb.",
+      "§ 155 z. č. 99/1963 Sb.",
+      "§ 621 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0669fa9d-cd7f-4e1a-9113-c75785bcb061"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
