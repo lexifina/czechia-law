@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2021:16.C.332.2020.1",
+  "docket": "16 C 332/2020-21",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c5d0c8a2-52f7-44fd-a02c-b9aaa3c6d522",
+  "source_sha256": "6e2044dbcae688ac105e6894c8a90c6911fb6a67f881be9436ddc86a39a7d7a9",
+  "source_id": "c5d0c8a2-52f7-44fd-a02c-b9aaa3c6d522",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 332/2020-21",
+    "soud": "Okresní soud v Opavě",
+    "autor": "Mgr. Radek Solař",
+    "ecli": "ECLI:CZ:OSOP:2021:16.C.332.2020.1",
+    "predmetRizeni": "o zaplacení 9 120 Kč s příslušenstvím",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-04-27",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c5d0c8a2-52f7-44fd-a02c-b9aaa3c6d522"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
