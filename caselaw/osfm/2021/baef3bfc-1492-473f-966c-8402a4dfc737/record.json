@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:8.C.269.2020.1",
+  "docket": "8 C 269/2020-28",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/baef3bfc-1492-473f-966c-8402a4dfc737",
+  "source_sha256": "1e57e447b56e4f00c40387b8397c893d5c69c36c4b42ff04e7ccde440f39c10a",
+  "source_id": "baef3bfc-1492-473f-966c-8402a4dfc737",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 269/2020-28",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Radomír Josiek",
+    "ecli": "ECLI:CZ:OSFM:2021:8.C.269.2020.1",
+    "predmetRizeni": "o zaplacení 50 807,45 Kč s příslušenstvím - zápůjčka",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-07-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/baef3bfc-1492-473f-966c-8402a4dfc737"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
