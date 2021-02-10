@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:14.C.204.2019.1",
+  "docket": "14 C 204/2019-49",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8762ac71-0e77-4288-b49e-ab9ca4d21d5e",
+  "source_sha256": "8b58e70ed5e966170670545cb0f1a5f4a00c24b1015615475908c9aa719220d2",
+  "source_id": "8762ac71-0e77-4288-b49e-ab9ca4d21d5e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 204/2019-49",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Monika Szkanderová",
+    "ecli": "ECLI:CZ:OSFM:2021:14.C.204.2019.1",
+    "predmetRizeni": "o 10.000 Kč s přísl. - faktura",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-11-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "reklama",
+      "ručení",
+      "svědečné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 95 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8762ac71-0e77-4288-b49e-ab9ca4d21d5e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
