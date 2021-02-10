@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Uherském Hradišti",
+  "ecli": "ECLI:CZ:OSUH:2021:11.C.214.2020.1",
+  "docket": "11 C 214/2020-43",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4d72e5f5-7872-4cb0-a5da-585c62c93eda",
+  "source_sha256": "40d9fbbd5e38d702d47393be6892f4d459d6c24b406c16410b8ecdfe8468c958",
+  "source_id": "4d72e5f5-7872-4cb0-a5da-585c62c93eda",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 214/2020-43",
+    "soud": "Okresní soud v Uherském Hradišti",
+    "autor": "Mgr. Ilona Miklová",
+    "ecli": "ECLI:CZ:OSUH:2021:11.C.214.2020.1",
+    "predmetRizeni": "15 000 Kč s příslušenstvím",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-04-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4d72e5f5-7872-4cb0-a5da-585c62c93eda"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
