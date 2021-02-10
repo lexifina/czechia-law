@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2021:9.C.274.2020.1",
+  "docket": "9 C 274/2020-20",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/41c387c3-f2b7-49ff-89df-60d61ce6762e",
+  "source_sha256": "d043315c72e15f98ef4e2cdbd0c96bb43675cda4dc00e37d80e06bf01ad17161",
+  "source_id": "41c387c3-f2b7-49ff-89df-60d61ce6762e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 274/2020-20",
+    "soud": "Okresní soud v Lounech",
+    "autor": "Mgr. Tomáš Machytka",
+    "ecli": "ECLI:CZ:OSLN:2021:9.C.274.2020.1",
+    "predmetRizeni": "O zaplacení 3 062 Kč s příslušenstvím",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-03-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 168/99 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/41c387c3-f2b7-49ff-89df-60d61ce6762e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
