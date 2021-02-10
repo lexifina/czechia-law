@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:11.C.1.2021.1",
+  "docket": "11 C 1/2021-13",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/45ba50bd-f750-4d4e-b064-e1c472703c6e",
+  "source_sha256": "15db3073a04c07121c44ab89ad9dc3294f60c44feb9680e4586aa031cf636b61",
+  "source_id": "45ba50bd-f750-4d4e-b064-e1c472703c6e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 1/2021-13",
+    "soud": "Okresní soud v Táboře",
+    "autor": "Mgr. Jaroslava Novotná",
+    "ecli": "ECLI:CZ:OSTA:2021:11.C.1.2021.1",
+    "predmetRizeni": "O zaplacení 32 679,60 Kč s příslušenstvím",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/45ba50bd-f750-4d4e-b064-e1c472703c6e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
