@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:16.C.187.2020.1",
+  "docket": "16 C 187/2020-72",
+  "date": "2021-02-10",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a1940e69-a866-44be-8d69-ac7c5cbfec27",
+  "source_sha256": "62276df6e30beb7cb97bb803446f7b0d4a16eebcd4b5da728bd36a9274c694ec",
+  "source_id": "a1940e69-a866-44be-8d69-ac7c5cbfec27",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 187/2020-72",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "Mgr. Jana Traxlerová",
+    "ecli": "ECLI:CZ:OSCB:2021:16.C.187.2020.1",
+    "predmetRizeni": "o určení výživného",
+    "datumVydani": "2021-02-10",
+    "datumZverejneni": "2021-06-09",
+    "klicovaSlova": [
+      "evropský platební rozkaz",
+      "rozsudek částečný",
+      "rozsudek pro uznání",
+      "výživné",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 153a z. č. 99/1963 Sb.",
+      "§ 205 z. č. 99/1963 Sb.",
+      "§ 114b z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a1940e69-a866-44be-8d69-ac7c5cbfec27"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
