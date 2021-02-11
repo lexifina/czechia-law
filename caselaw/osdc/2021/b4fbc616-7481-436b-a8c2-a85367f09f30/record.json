@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:18.C.179.2020.3",
+  "docket": "18 C 179/2020-14",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b4fbc616-7481-436b-a8c2-a85367f09f30",
+  "source_sha256": "f6799e728688b3ab29c09b2b848add6f53b365f4f15edd4a1a6162b5a56d8a24",
+  "source_id": "b4fbc616-7481-436b-a8c2-a85367f09f30",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 179/2020-14",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Petr Červinka",
+    "ecli": "ECLI:CZ:OSDC:2021:18.C.179.2020.3",
+    "predmetRizeni": "snížení výživného na zletilou dceru",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 163 z. č. 99/1963 Sb.",
+      "§ 910 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b4fbc616-7481-436b-a8c2-a85367f09f30"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
