@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:7.C.168.2020.1",
+  "docket": "7 C 168/2020-60",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f8810ee4-433f-4eae-bc37-da0a734bfd23",
+  "source_sha256": "e4ab643e4a597c2b99645c7ad8b296cbe1b3344da7e6dbfbb713a392fbfc7716",
+  "source_id": "f8810ee4-433f-4eae-bc37-da0a734bfd23",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 168/2020-60",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Ilona Láníková",
+    "ecli": "ECLI:CZ:OSVY:2021:7.C.168.2020.1",
+    "predmetRizeni": "zaplacení částky 45.936 - Kč s příslušenstvím-úvěr",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 76 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f8810ee4-433f-4eae-bc37-da0a734bfd23"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
