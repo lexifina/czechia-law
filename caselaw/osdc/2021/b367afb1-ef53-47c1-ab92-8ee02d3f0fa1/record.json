@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:22.C.25.2020.3",
+  "docket": "22 C 25/2020-36",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b367afb1-ef53-47c1-ab92-8ee02d3f0fa1",
+  "source_sha256": "a31dfc67da9f18dd164501ed581c385b0ff53c60e3c30fda94cdfaa6ed7779bb",
+  "source_id": "b367afb1-ef53-47c1-ab92-8ee02d3f0fa1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 25/2020-36",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Jiří Gloc",
+    "ecli": "ECLI:CZ:OSDC:2021:22.C.25.2020.3",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-04-06",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatek z prodlení",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b367afb1-ef53-47c1-ab92-8ee02d3f0fa1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
