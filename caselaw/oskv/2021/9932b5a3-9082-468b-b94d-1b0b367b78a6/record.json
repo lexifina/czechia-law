@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:10.C.216.2020.1",
+  "docket": "10 C 216/2020-15",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9932b5a3-9082-468b-b94d-1b0b367b78a6",
+  "source_sha256": "807080608fae4c7879b2a378fdfeb2fb0eb418d1033957ae01d54b73d1f52fc1",
+  "source_id": "9932b5a3-9082-468b-b94d-1b0b367b78a6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 216/2020-15",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Blanka Magliová",
+    "ecli": "ECLI:CZ:OSKV:2021:10.C.216.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-02-23",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9932b5a3-9082-468b-b94d-1b0b367b78a6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
