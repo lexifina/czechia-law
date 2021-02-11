@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:38.C.5.2021.1",
+  "docket": "38 C 5/2021-24",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7f0c9b8a-ac1b-4309-b50d-3d2b07d84cc1",
+  "source_sha256": "fc140128557c3c882107ead45011553455bdc9328f0011c64b7d955f139cef8c",
+  "source_id": "7f0c9b8a-ac1b-4309-b50d-3d2b07d84cc1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 5/2021-24",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Martin Fedorko",
+    "ecli": "ECLI:CZ:OSCL:2021:38.C.5.2021.1",
+    "predmetRizeni": "O zaplacení 2 600 Kč s příslušenstvím",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-04-15",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§  z. č. 235/2004 Sb.",
+      "§  z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7f0c9b8a-ac1b-4309-b50d-3d2b07d84cc1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
