@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:14.C.42.2021.1",
+  "docket": "14 C 42/2021-12",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9f74b193-03a6-4909-b591-f15b50d591e1",
+  "source_sha256": "f77d27f233310126485828934b95e7e58463a5a19d1486e197bd9ab5d8d7aace",
+  "source_id": "9f74b193-03a6-4909-b591-f15b50d591e1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 42/2021-12",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Vladimíra Fikkerová",
+    "ecli": "ECLI:CZ:OSKV:2021:14.C.42.2021.1",
+    "predmetRizeni": "3.780 Kč / [anonymizováno] poplatky",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-03-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 348/2005 Sb.",
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 3 z. č. 348/2005 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 6 z. č. 348/2005 Sb.",
+      "§ 7 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9f74b193-03a6-4909-b591-f15b50d591e1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
