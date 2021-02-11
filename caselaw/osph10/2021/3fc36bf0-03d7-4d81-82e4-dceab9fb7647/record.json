@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2021:26.C.474.2020.1",
+  "docket": "26 C 474/2020-20",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3fc36bf0-03d7-4d81-82e4-dceab9fb7647",
+  "source_sha256": "ef09673b1033c5c59d6a1d04878ffdf38e45918b85a39bee59b0e91d8e46e752",
+  "source_id": "3fc36bf0-03d7-4d81-82e4-dceab9fb7647",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 474/2020-20",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "JUDr. Štěpánka Dvouletá",
+    "ecli": "ECLI:CZ:OSPH10:2021:26.C.474.2020.1",
+    "predmetRizeni": "o 5 000 Kč s příslušenstvím",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-03-17",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3fc36bf0-03d7-4d81-82e4-dceab9fb7647"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
