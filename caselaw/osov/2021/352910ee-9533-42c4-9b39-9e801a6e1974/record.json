@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:30.C.311.2020.2",
+  "docket": "30 C 311/2020-14",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/352910ee-9533-42c4-9b39-9e801a6e1974",
+  "source_sha256": "dcc7b98cae5a7b22fb3b436f73fffd7fb7babc8ea3ae97ca2f5c82cce9747ace",
+  "source_id": "352910ee-9533-42c4-9b39-9e801a6e1974",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 311/2020-14",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Alena Motalová",
+    "ecli": "ECLI:CZ:OSOV:2021:30.C.311.2020.2",
+    "predmetRizeni": "o zaplacení 4 000 Kč",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-03-11",
+    "klicovaSlova": [
+      "elektronický podpis",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 122 z. č. 99/1963 Sb.",
+      "§  z. č. 397/2016 Sb.",
+      "§ 1841 z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/352910ee-9533-42c4-9b39-9e801a6e1974"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
