@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chrudimi",
+  "ecli": "ECLI:CZ:OSCR:2021:8.C.167.2020.1",
+  "docket": "8 C 167/2020-35",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ab7ced1e-bed4-490f-afc2-677f0f20a5bc",
+  "source_sha256": "b41b65c22679b97c39d16692a8ad6d13faadcb7a1c61ec1f973a98ecc52b182c",
+  "source_id": "ab7ced1e-bed4-490f-afc2-677f0f20a5bc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 167/2020-35",
+    "soud": "Okresní soud v Chrudimi",
+    "autor": "JUDr. Antonín Libra",
+    "ecli": "ECLI:CZ:OSCR:2021:8.C.167.2020.1",
+    "predmetRizeni": "o zrušení kupní smlouvy ze dne 15. 12. 2017 a vydání soudního rozhodnutí o její neplatnosti",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-06-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "předkupní právo",
+      "smlouva kupní",
+      "spoluvlastnictví"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 1121 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ab7ced1e-bed4-490f-afc2-677f0f20a5bc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
