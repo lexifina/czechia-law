@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prachaticích",
+  "ecli": "ECLI:CZ:OSPT:2021:9.C.24.2021.1",
+  "docket": "9 C 24/2021-12",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3c80c498-2f12-45a0-bbbd-7cf65b087fe7",
+  "source_sha256": "0a95d04b5c119f94108d01cfae8280b2bde2e3f347e52b3acaf90646c6125873",
+  "source_id": "3c80c498-2f12-45a0-bbbd-7cf65b087fe7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 24/2021-12",
+    "soud": "Okresní soud v Prachaticích",
+    "autor": "JUDr. Simona Vojíková",
+    "ecli": "ECLI:CZ:OSPT:2021:9.C.24.2021.1",
+    "predmetRizeni": "o zaplacení 5 193 Kč s příslušenstvím",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-03-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3c80c498-2f12-45a0-bbbd-7cf65b087fe7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
