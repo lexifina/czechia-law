@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2021:13.C.13.2021.1",
+  "docket": "13 C 13/2021-21",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e64da2dd-86b4-42f5-9cea-e3709a674ad6",
+  "source_sha256": "32213ed522e4ec590f9577dae37533b748a8b62db9f52867bdc22311e9fcfb36",
+  "source_id": "e64da2dd-86b4-42f5-9cea-e3709a674ad6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 13/2021-21",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "JUDr. Kateřina Zavadilová",
+    "ecli": "ECLI:CZ:OSMB:2021:13.C.13.2021.1",
+    "predmetRizeni": "o zaplacení 7 503 Kč s příslušenstvím",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-03-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 1751 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e64da2dd-86b4-42f5-9cea-e3709a674ad6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
