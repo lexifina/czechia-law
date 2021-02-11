@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:15.C.5.2021.1",
+  "docket": "15 C 5/2021-20",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5e32d1f8-31c0-4297-8909-e04048e98d47",
+  "source_sha256": "2525eab460a74247542327f9a9091a9d0aeb0226cbfbd947cb65e8b41d487755",
+  "source_id": "5e32d1f8-31c0-4297-8909-e04048e98d47",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 5/2021-20",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "JUDr. Alena Divíšková",
+    "ecli": "ECLI:CZ:OSCL:2021:15.C.5.2021.1",
+    "predmetRizeni": "O zaplacení 14 466 Kč s příslušenstvím",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 2802 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5e32d1f8-31c0-4297-8909-e04048e98d47"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
