@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:31.C.331.2020.1",
+  "docket": "31 C 331/2020-21",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/55c93c03-3342-4c7a-96cb-3ce4e58cda9b",
+  "source_sha256": "900ee316c7f3811904abd5c24c34ffe9d0f20dfe5b4bc2fe9be6f35afac81d01",
+  "source_id": "55c93c03-3342-4c7a-96cb-3ce4e58cda9b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "31 C 331/2020-21",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Monika Mlíčková",
+    "ecli": "ECLI:CZ:OSPM:2021:31.C.331.2020.1",
+    "predmetRizeni": "O zaplacení 19 075 Kč s příslušenstvím",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-04-01",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 588 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/55c93c03-3342-4c7a-96cb-3ce4e58cda9b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
