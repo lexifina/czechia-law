@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:40.C.126.2020.1",
+  "docket": "40 C 126/2020",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7997dcf3-e185-489a-8e8b-9f0e4bff3698",
+  "source_sha256": "b03b45397d28725171d19c3a866865221235b7c213a1e6841d5139ace14b32a6",
+  "source_id": "7997dcf3-e185-489a-8e8b-9f0e4bff3698",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "40 C 126/2020",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Kateřina Kozáková",
+    "ecli": "ECLI:CZ:OSPH01:2021:40.C.126.2020.1",
+    "predmetRizeni": "o zaplacení 840 Kč s příslušenstvím",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-03-29",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "ochrana spotřebitele",
+      "peněžité plnění",
+      "smlouva spotřebitelská"
+    ],
+    "zminenaUstanoveni": [
+      "§ 553 z. č. 89/2012 Sb.",
+      "§ 1829 z. č. 89/2012 Sb.",
+      "§ 1834 z. č. 89/2012 Sb.",
+      "§ 1836 z. č. 89/2012 Sb.",
+      "§ 1837 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7997dcf3-e185-489a-8e8b-9f0e4bff3698"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
