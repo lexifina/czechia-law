@@ -1,0 +1,48 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:10.C.108.2020.3",
+  "docket": "10 C 108/2020-105",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5ea760b5-4b4b-4d69-96fc-0cdc6d9efd2c",
+  "source_sha256": "8774bde0c34fa2a4f0d02879e7a6dbeb6591b39cca4f0d8abd77f49b228fec82",
+  "source_id": "5ea760b5-4b4b-4d69-96fc-0cdc6d9efd2c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 108/2020-105",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "JUDr. Iveta Deriková",
+    "ecli": "ECLI:CZ:OSPU:2021:10.C.108.2020.3",
+    "predmetRizeni": "o zaplacení 2 395,68 Kč s příslušenstvím",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-08-05",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o běžném účtu",
+      "smlouva o účtu",
+      "smlouva o úvěru",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 29 z. č. 99/1963 Sb.",
+      "§ 140 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 2662 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5ea760b5-4b4b-4d69-96fc-0cdc6d9efd2c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
