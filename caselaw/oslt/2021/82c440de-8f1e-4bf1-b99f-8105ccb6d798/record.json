@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Litoměřicích",
+  "ecli": "ECLI:CZ:OSLT:2021:12.C.175.2020.1",
+  "docket": "12 C 175/2020-28",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/82c440de-8f1e-4bf1-b99f-8105ccb6d798",
+  "source_sha256": "b5c6631b9f32967cccc3feb7123318a9171742e960121590218d0a430f12f191",
+  "source_id": "82c440de-8f1e-4bf1-b99f-8105ccb6d798",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 175/2020-28",
+    "soud": "Okresní soud v Litoměřicích",
+    "autor": "JUDr. Martin Masár",
+    "ecli": "ECLI:CZ:OSLT:2021:12.C.175.2020.1",
+    "predmetRizeni": "O zaplacení 2 475 Kč s příslušenstvím",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-04-23",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "postoupení pohledávky",
+      "rozhodčí doložka"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 114c z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/82c440de-8f1e-4bf1-b99f-8105ccb6d798"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
