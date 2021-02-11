@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2021:8.C.181.2020.1",
+  "docket": "8 C 181/2020-35",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f5016e34-57be-4331-b38a-d81e9bac1d70",
+  "source_sha256": "b4ad9d97444602b9dcdac11253f1c6ef8ba021474ee8f5b5f22112d70f62cb87",
+  "source_id": "f5016e34-57be-4331-b38a-d81e9bac1d70",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 181/2020-35",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "JUDr. Jana Kowolowská",
+    "ecli": "ECLI:CZ:OSBV:2021:8.C.181.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-02-19",
+    "klicovaSlova": [
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 207 z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f5016e34-57be-4331-b38a-d81e9bac1d70"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
