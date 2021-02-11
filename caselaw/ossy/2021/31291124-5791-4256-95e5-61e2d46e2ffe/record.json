@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2021:9.C.322.2020.1",
+  "docket": "9 C 322/2020-41",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/31291124-5791-4256-95e5-61e2d46e2ffe",
+  "source_sha256": "6f65e507aa0705c0e1deb293ec5e61a8f037ef70090a08ceaf5317cc76d0dc1b",
+  "source_id": "31291124-5791-4256-95e5-61e2d46e2ffe",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 322/2020-41",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "Mgr. Petr Horák",
+    "ecli": "ECLI:CZ:OSSY:2021:9.C.322.2020.1",
+    "predmetRizeni": "o zaplacení 2 270,44 Kč s příslušenstvím",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-03-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1 z. č. 145/2010 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 1751 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/31291124-5791-4256-95e5-61e2d46e2ffe"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
