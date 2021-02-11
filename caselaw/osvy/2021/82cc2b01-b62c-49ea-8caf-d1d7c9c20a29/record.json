@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:4.C.74.2018.1",
+  "docket": "4 C 74/2018-82",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-12-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/82cc2b01-b62c-49ea-8caf-d1d7c9c20a29",
+  "source_sha256": "7b7814ad0358628c4365df2d16b72b4d4953a215b91090b638368f7c7688b750",
+  "source_id": "82cc2b01-b62c-49ea-8caf-d1d7c9c20a29",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 74/2018-82",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Petr Doležel",
+    "ecli": "ECLI:CZ:OSVY:2021:4.C.74.2018.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-12-21",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 40 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/82cc2b01-b62c-49ea-8caf-d1d7c9c20a29"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
