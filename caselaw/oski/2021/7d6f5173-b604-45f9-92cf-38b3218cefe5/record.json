@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2021:21.C.392.2020.1",
+  "docket": "21 C 392/2020-43",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7d6f5173-b604-45f9-92cf-38b3218cefe5",
+  "source_sha256": "eaeec12b4880fca10fe423df0b185f0212cb912d0fcecc2803c9267e74cc37d7",
+  "source_id": "7d6f5173-b604-45f9-92cf-38b3218cefe5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 392/2020-43",
+    "soud": "Okresní soud v Karviné",
+    "autor": "Mgr. Jana Babušková",
+    "ecli": "ECLI:CZ:OSKI:2021:21.C.392.2020.1",
+    "predmetRizeni": "7 795,50 Kč s příslušenstvím",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-04-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7d6f5173-b604-45f9-92cf-38b3218cefe5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
