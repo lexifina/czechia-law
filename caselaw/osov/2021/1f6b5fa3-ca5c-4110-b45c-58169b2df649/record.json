@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:28.C.160.2020.3",
+  "docket": "28 C 160/2020-21",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1f6b5fa3-ca5c-4110-b45c-58169b2df649",
+  "source_sha256": "96c2bc1a66adbc436c27999819553f5854462bd291b926af9f0a47a8a7888f11",
+  "source_id": "1f6b5fa3-ca5c-4110-b45c-58169b2df649",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 160/2020-21",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Iveta Prajznerová",
+    "ecli": "ECLI:CZ:OSOV:2021:28.C.160.2020.3",
+    "predmetRizeni": "o zaplacení 2 000 Kč",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-06-07",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1f6b5fa3-ca5c-4110-b45c-58169b2df649"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
