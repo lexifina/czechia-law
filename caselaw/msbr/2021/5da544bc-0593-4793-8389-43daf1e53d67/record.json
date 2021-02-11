@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:108.C.168.2020.1",
+  "docket": "108 C 168/2020-51",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5da544bc-0593-4793-8389-43daf1e53d67",
+  "source_sha256": "433ee0232d99ae3cc35b77c34a4f4511e9dd27adf78b0a29198d641333b32798",
+  "source_id": "5da544bc-0593-4793-8389-43daf1e53d67",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "108 C 168/2020-51",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Hana Střítecká",
+    "ecli": "ECLI:CZ:MSBR:2021:108.C.168.2020.1",
+    "predmetRizeni": "zaplacení 2.355 Kč s příslušenstvím - pojistné",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-03-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 2782 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5da544bc-0593-4793-8389-43daf1e53d67"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
