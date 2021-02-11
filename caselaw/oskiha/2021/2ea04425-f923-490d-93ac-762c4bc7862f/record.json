@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:113.C.295.2015.1",
+  "docket": "113 C 295/2015-43",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2ea04425-f923-490d-93ac-762c4bc7862f",
+  "source_sha256": "713401baaef98eefecc85132cf7ed14f2ec723421e82bb67240d38e57c60097f",
+  "source_id": "2ea04425-f923-490d-93ac-762c4bc7862f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "113 C 295/2015-43",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "JUDr. Silvie Morongová",
+    "ecli": "ECLI:CZ:OSKIHA:2021:113.C.295.2015.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-03-17",
+    "klicovaSlova": [
+      "oddlužení",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 96 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2ea04425-f923-490d-93ac-762c4bc7862f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
