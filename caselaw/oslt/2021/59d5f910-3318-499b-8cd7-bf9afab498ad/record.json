@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Litoměřicích",
+  "ecli": "ECLI:CZ:OSLT:2021:12.C.217.2020.1",
+  "docket": "12 C 217/2020-22",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/59d5f910-3318-499b-8cd7-bf9afab498ad",
+  "source_sha256": "2f47c032d74ba37f48c43792d05fdaa9f8de5ecd49a78ffe800818bd267b8c15",
+  "source_id": "59d5f910-3318-499b-8cd7-bf9afab498ad",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 217/2020-22",
+    "soud": "Okresní soud v Litoměřicích",
+    "autor": "JUDr. Martin Masár",
+    "ecli": "ECLI:CZ:OSLT:2021:12.C.217.2020.1",
+    "predmetRizeni": "O zaplacení 1 560,15 Kč s příslušenstvím",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-04-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 153a z. č. 99/1963 Sb.",
+      "§ 114b z. č. 99/1963 Sb.",
+      "§ 229 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/59d5f910-3318-499b-8cd7-bf9afab498ad"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
