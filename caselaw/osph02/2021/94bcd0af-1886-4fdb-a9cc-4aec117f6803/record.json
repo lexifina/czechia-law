@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:26.C.277.2017.1",
+  "docket": "26 C 277/2017-120",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/94bcd0af-1886-4fdb-a9cc-4aec117f6803",
+  "source_sha256": "8c8831a34e7331ae58aefc24b1eaee7e1af9704a354943b8c82acb02e62af12c",
+  "source_id": "94bcd0af-1886-4fdb-a9cc-4aec117f6803",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 277/2017-120",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "JUDr. Šárka Henzlová",
+    "ecli": "ECLI:CZ:OSPH02:2021:26.C.277.2017.1",
+    "predmetRizeni": "o přezkoumání oprávněnosti výpovědi",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-04-15",
+    "klicovaSlova": [
+      "cizina",
+      "nájem bytu",
+      "peněžité plnění",
+      "pozůstalost",
+      "smlouva nájemní",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2290 z. č. 89/2012 Sb.",
+      "§ 2279 z. č. 89/2012 Sb.",
+      "§ 2282 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/94bcd0af-1886-4fdb-a9cc-4aec117f6803"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
