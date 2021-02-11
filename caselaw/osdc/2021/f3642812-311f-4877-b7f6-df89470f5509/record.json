@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:18.C.300.2020.1",
+  "docket": "18 C 300/2020-6",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f3642812-311f-4877-b7f6-df89470f5509",
+  "source_sha256": "af1293c7f992ff5a76e637515b44b2aa257945cb5044d138e91da300c6e79c30",
+  "source_id": "f3642812-311f-4877-b7f6-df89470f5509",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 300/2020-6",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Petr Červinka",
+    "ecli": "ECLI:CZ:OSDC:2021:18.C.300.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-05-06",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f3642812-311f-4877-b7f6-df89470f5509"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
