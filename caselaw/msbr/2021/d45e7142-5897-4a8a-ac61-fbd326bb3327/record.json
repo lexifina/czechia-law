@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:52.C.38.2020.1",
+  "docket": "52 C 38/2020-38",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d45e7142-5897-4a8a-ac61-fbd326bb3327",
+  "source_sha256": "76ad6d0bd49b27bc2822e30f30a7364de8e35f1b0b730126152bf55264d7db13",
+  "source_id": "d45e7142-5897-4a8a-ac61-fbd326bb3327",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "52 C 38/2020-38",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Jiří Štark",
+    "ecli": "ECLI:CZ:MSBR:2021:52.C.38.2020.1",
+    "predmetRizeni": "zaplacení 800 EUR s příslušenstvím - náhrada škody",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "náhrada škody",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 140 z. č. 99/1963 Sb.",
+      "§ 12 vyhl. č. 177/1996 Sb.",
+      "§ 9 vyhl. č. 177/1996 Sb.",
+      "§ 12a vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d45e7142-5897-4a8a-ac61-fbd326bb3327"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
