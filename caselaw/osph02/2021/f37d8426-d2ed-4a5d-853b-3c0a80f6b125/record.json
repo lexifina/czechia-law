@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:15.C.167.2020.3",
+  "docket": "15 C 167/2020-51",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f37d8426-d2ed-4a5d-853b-3c0a80f6b125",
+  "source_sha256": "e6515e91a828470cd4447738c7b1967ee9e65289e9f55e332c76ef26c7675074",
+  "source_id": "f37d8426-d2ed-4a5d-853b-3c0a80f6b125",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 167/2020-51",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "JUDr. Ondřej Růžička",
+    "ecli": "ECLI:CZ:OSPH02:2021:15.C.167.2020.3",
+    "predmetRizeni": "o zaplacení 75 000 Kč s příslušenstvím",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-04-26",
+    "klicovaSlova": [
+      "dotace",
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "smlouva o ubytování"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2326 z. č. 89/2012 Sb.",
+      "§  z. č. 110/98 Sb.",
+      "§  z. č. 240/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f37d8426-d2ed-4a5d-853b-3c0a80f6b125"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
