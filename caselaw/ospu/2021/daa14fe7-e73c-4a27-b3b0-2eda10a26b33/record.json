@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:10.C.230.2020.1",
+  "docket": "10 C 230/2020-29",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/daa14fe7-e73c-4a27-b3b0-2eda10a26b33",
+  "source_sha256": "0badfb33dc8ea8a1bd3c380d4046cf5297220d05b578d723913513215aad95d2",
+  "source_id": "daa14fe7-e73c-4a27-b3b0-2eda10a26b33",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 230/2020-29",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "JUDr. Iveta Deriková",
+    "ecli": "ECLI:CZ:OSPU:2021:10.C.230.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-03-30",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 14 z. č. 328/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/daa14fe7-e73c-4a27-b3b0-2eda10a26b33"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
