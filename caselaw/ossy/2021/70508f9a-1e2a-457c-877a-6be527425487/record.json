@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2021:10.C.3.2021.1",
+  "docket": "10 C 3/2021-48",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/70508f9a-1e2a-457c-877a-6be527425487",
+  "source_sha256": "aacf0ae6fc860e9a280dbbbaee835e85873e1510d735e43d22c8f6debcb5b67e",
+  "source_id": "70508f9a-1e2a-457c-877a-6be527425487",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 3/2021-48",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "Mgr. Ladislav Máša",
+    "ecli": "ECLI:CZ:OSSY:2021:10.C.3.2021.1",
+    "predmetRizeni": "o zaplacení 6 626,63 Kč s příslušenstvím",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-05-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/70508f9a-1e2a-457c-877a-6be527425487"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
