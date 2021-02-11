@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2021:11.C.6.2021.1",
+  "docket": "11 C 6/2021-30",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/78cc899c-1c62-40c5-bb0d-051edd7417c5",
+  "source_sha256": "4a15827c328ceb510a91ff9b9c4cab2351ac72ee4971cf2a25cea7c4d620dbb6",
+  "source_id": "78cc899c-1c62-40c5-bb0d-051edd7417c5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 6/2021-30",
+    "soud": "Okresní soud v Benešově",
+    "autor": "JUDr. Eva Kůsová, Ph.D.",
+    "ecli": "ECLI:CZ:OSBN:2021:11.C.6.2021.1",
+    "predmetRizeni": "o zaplacení 6 000 Kč s přísl.",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-04-28",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/78cc899c-1c62-40c5-bb0d-051edd7417c5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
