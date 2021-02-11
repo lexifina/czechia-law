@@ -1,0 +1,51 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:11.C.146.2020.1",
+  "docket": "11 C 146/2020-45",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/acd25cec-4bf1-4899-93bc-dc0399d57a96",
+  "source_sha256": "54dcc0b5f2c2d87ae92607a02af9c75a86e4d9cabbc7ac6544871f4c5a95d9aa",
+  "source_id": "acd25cec-4bf1-4899-93bc-dc0399d57a96",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 146/2020-45",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Štěpán Slavík",
+    "ecli": "ECLI:CZ:OSPB:2021:11.C.146.2020.1",
+    "predmetRizeni": "zaplacení 39 750 Kč s příslušenstvím",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-04-06",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "insolvence",
+      "neplatnost právního jednání",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 2 z. č. 634/1992 Sb.",
+      "§ 586 z. č. 89/2012 Sb.",
+      "§ 119a z. č. 99/1963 Sb.",
+      "§ 41a z. č. 99/1963 Sb.",
+      "§ 251 z. č. 120/2001 Sb.",
+      "§ 32 z. č. 256/2004 Sb.",
+      "§ 74 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/acd25cec-4bf1-4899-93bc-dc0399d57a96"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
