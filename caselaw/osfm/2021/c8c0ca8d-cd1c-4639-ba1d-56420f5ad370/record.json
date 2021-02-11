@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:40.C.41.2020.1",
+  "docket": "40 C 41/2020-13",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c8c0ca8d-cd1c-4639-ba1d-56420f5ad370",
+  "source_sha256": "4bee907b304138b34b9dc3a0de9686e478b732c2f6d3c55cf44eae5624a94597",
+  "source_id": "c8c0ca8d-cd1c-4639-ba1d-56420f5ad370",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "40 C 41/2020-13",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "JUDr. Marcela Vlčková",
+    "ecli": "ECLI:CZ:OSFM:2021:40.C.41.2020.1",
+    "predmetRizeni": "O zaplacení 1 490 Kč s příslušenstvím",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-03-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 2861 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c8c0ca8d-cd1c-4639-ba1d-56420f5ad370"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
