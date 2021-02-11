@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:11.C.145.2020.1",
+  "docket": "11 C 145/2020-61",
+  "date": "2021-02-11",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7f297b58-023e-4f63-85e8-026e2328db95",
+  "source_sha256": "08f6c78a499501303e1f94b83039d477fdda0e36312d0517cc0548e1cecab2f9",
+  "source_id": "7f297b58-023e-4f63-85e8-026e2328db95",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 145/2020-61",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Štěpán Slavík",
+    "ecli": "ECLI:CZ:OSPB:2021:11.C.145.2020.1",
+    "predmetRizeni": "zaplacení 33 985 Kč s příslušenstvím",
+    "datumVydani": "2021-02-11",
+    "datumZverejneni": "2021-04-15",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "promlčení",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 629 z. č. 89/2012 Sb.",
+      "§ 6019 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 191/2020 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7f297b58-023e-4f63-85e8-026e2328db95"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
