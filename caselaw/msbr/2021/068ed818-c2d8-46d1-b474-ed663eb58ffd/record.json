@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:72.C.233.2020.1",
+  "docket": "72 C 233/2020",
+  "date": "2021-02-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/068ed818-c2d8-46d1-b474-ed663eb58ffd",
+  "source_sha256": "0340843ef22aa148d3229e72d835e5bd51b89b7de3231378d89697efa042e66a",
+  "source_id": "068ed818-c2d8-46d1-b474-ed663eb58ffd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "72 C 233/2020",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Soňa Novotná",
+    "ecli": "ECLI:CZ:MSBR:2021:72.C.233.2020.1",
+    "predmetRizeni": "zaplacení 3.210 Kč s příslušenstvím ",
+    "datumVydani": "2021-02-12",
+    "datumZverejneni": "2021-07-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 2783 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/068ed818-c2d8-46d1-b474-ed663eb58ffd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
