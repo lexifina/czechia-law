@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:22.C.17.2021.2",
+  "docket": "22 C 17/2021-12",
+  "date": "2021-02-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1f19ac3d-bf91-45e4-8cb7-30aff2a72a23",
+  "source_sha256": "842f5e7853bc24a6eb7f76f6e58c9ec5666fa8993ea35a028bb37a583bd91397",
+  "source_id": "1f19ac3d-bf91-45e4-8cb7-30aff2a72a23",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 17/2021-12",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Hana Chabičová",
+    "ecli": "ECLI:CZ:OSOV:2021:22.C.17.2021.2",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-12",
+    "datumZverejneni": "2021-07-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "výživné",
+      "vzájemné plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 6 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1f19ac3d-bf91-45e4-8cb7-30aff2a72a23"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
