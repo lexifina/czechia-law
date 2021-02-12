@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:13.C.32.2021.1",
+  "docket": "13 C 32/2021-12",
+  "date": "2021-02-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/51ac73f0-5a8e-4e47-aabc-d16073285d68",
+  "source_sha256": "5f3defba67ae55e7d5f0a5622f0984f8c5d6fedae242e5ff67cc1edc8a88a560",
+  "source_id": "51ac73f0-5a8e-4e47-aabc-d16073285d68",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 32/2021-12",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Oldřich Umlauf",
+    "ecli": "ECLI:CZ:OSKV:2021:13.C.32.2021.1",
+    "predmetRizeni": "5 841 Kč / úvěr",
+    "datumVydani": "2021-02-12",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/51ac73f0-5a8e-4e47-aabc-d16073285d68"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
