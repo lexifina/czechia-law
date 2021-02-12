@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2021:8.C.315.2020.1",
+  "docket": "8 C 315/2020-51",
+  "date": "2021-02-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/831dec91-d2ee-486e-8ef4-623c39599489",
+  "source_sha256": "f09a524811ff882daa5f75fe56402e45a93a17bd347ae1ff44c2e650fa52500e",
+  "source_id": "831dec91-d2ee-486e-8ef4-623c39599489",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 315/2020-51",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "Mgr. Martin Matějíček",
+    "ecli": "ECLI:CZ:OSKT:2021:8.C.315.2020.1",
+    "predmetRizeni": "zaplacení [částka]",
+    "datumVydani": "2021-02-12",
+    "datumZverejneni": "2021-03-19",
+    "klicovaSlova": [
+      "opilost",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§ 89b z. č. 373/2011 Sb.",
+      "§  vyhl. č. 333/2018 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/831dec91-d2ee-486e-8ef4-623c39599489"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
