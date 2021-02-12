@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:22.C.27.2020.2",
+  "docket": "22 C 27/2020-30",
+  "date": "2021-02-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ef98803d-fb5e-456e-9d8b-570ef9dcbbc7",
+  "source_sha256": "9abd3041738ba6dc5fd98c1ecda279e5d1e9549ccdb0bfbb7ad65bb9d00d6f06",
+  "source_id": "ef98803d-fb5e-456e-9d8b-570ef9dcbbc7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 27/2020-30",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Hana Chabičová",
+    "ecli": "ECLI:CZ:OSOV:2021:22.C.27.2020.2",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-12",
+    "datumZverejneni": "2021-10-22",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ef98803d-fb5e-456e-9d8b-570ef9dcbbc7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
