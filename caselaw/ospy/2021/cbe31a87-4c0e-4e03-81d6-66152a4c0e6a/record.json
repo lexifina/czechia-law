@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:6.C.34.2021.1",
+  "docket": "6 C 34/2021-18",
+  "date": "2021-02-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cbe31a87-4c0e-4e03-81d6-66152a4c0e6a",
+  "source_sha256": "1356cb9bd3e76e58b1908a3e1cf5a4ea9def4129585b709293b994257ba3df14",
+  "source_id": "cbe31a87-4c0e-4e03-81d6-66152a4c0e6a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 34/2021-18",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Filip Bartoš",
+    "ecli": "ECLI:CZ:OSPY:2021:6.C.34.2021.1",
+    "predmetRizeni": "O zaplacení 1 360 Kč s příslušenstvím",
+    "datumVydani": "2021-02-12",
+    "datumZverejneni": "2021-04-13",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cbe31a87-4c0e-4e03-81d6-66152a4c0e6a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
