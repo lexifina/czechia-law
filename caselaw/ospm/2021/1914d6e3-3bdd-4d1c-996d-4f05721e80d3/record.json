@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:20.C.330.2020.1",
+  "docket": "20 C 330/2020-22",
+  "date": "2021-02-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1914d6e3-3bdd-4d1c-996d-4f05721e80d3",
+  "source_sha256": "38be6936e1b24da7b4708c7d7e672cc98ee412ebc52b882b37f0224df2f0fac8",
+  "source_id": "1914d6e3-3bdd-4d1c-996d-4f05721e80d3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 330/2020-22",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. David Ungr",
+    "ecli": "ECLI:CZ:OSPM:2021:20.C.330.2020.1",
+    "predmetRizeni": "O zaplacení 9 108 Kč s příslušenstvím",
+    "datumVydani": "2021-02-12",
+    "datumZverejneni": "2021-04-23",
+    "klicovaSlova": [
+      "jízdné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1914d6e3-3bdd-4d1c-996d-4f05721e80d3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
