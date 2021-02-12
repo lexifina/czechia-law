@@ -1,0 +1,50 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:47.C.191.2020.1",
+  "docket": "47 C 191/2020-29",
+  "date": "2021-02-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c1fc1233-058a-492b-87f1-028c6c3b22ca",
+  "source_sha256": "dbf69877677f2ba71486c7f4260b771c2f240057266c00e3b29a699c86f70e72",
+  "source_id": "c1fc1233-058a-492b-87f1-028c6c3b22ca",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "47 C 191/2020-29",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Radek Malenovský",
+    "ecli": "ECLI:CZ:MSBR:2021:47.C.191.2020.1",
+    "predmetRizeni": "vyloučení věcí z výkonu rozhodnutí",
+    "datumVydani": "2021-02-12",
+    "datumZverejneni": "2021-05-12",
+    "klicovaSlova": [
+      "exekuce",
+      "peněžité plnění",
+      "zastavení exekuce / výkonu rozhodnutí"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 9 vyhl. č. 177/1996 Sb.",
+      "§ 43 z. č. 99/1963 Sb.",
+      "§ 159a z. č. 99/1963 Sb.",
+      "§ 126 z. č. 99/1963 Sb.",
+      "§ 131 z. č. 99/1963 Sb.",
+      "§ 267 z. č. 99/1963 Sb.",
+      "§ 68 z. č. 120/2001 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c1fc1233-058a-492b-87f1-028c6c3b22ca"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
