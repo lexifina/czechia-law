@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Břeclavi",
+  "ecli": "ECLI:CZ:OSBV:2021:7.C.260.2020.1",
+  "docket": "7 C 260/2020-30",
+  "date": "2021-02-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5986c5a1-6831-43e6-9c40-b865eed7a371",
+  "source_sha256": "00e262f3307f2dd783532732ae4ed9274e624b1318b0424dab0abf46b1bdcad1",
+  "source_id": "5986c5a1-6831-43e6-9c40-b865eed7a371",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 260/2020-30",
+    "soud": "Okresní soud v Břeclavi",
+    "autor": "Mgr. PhDr. Roman Novák",
+    "ecli": "ECLI:CZ:OSBV:2021:7.C.260.2020.1",
+    "predmetRizeni": "9.686,01 Kč s příslušenstvím",
+    "datumVydani": "2021-02-12",
+    "datumZverejneni": "2021-04-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5986c5a1-6831-43e6-9c40-b865eed7a371"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
