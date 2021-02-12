@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:17.C.47.2020.1",
+  "docket": "17 C 47/2020-48",
+  "date": "2021-02-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7757ca1f-6058-4c5b-a960-bce549ecd3ae",
+  "source_sha256": "f042ebd7c049b579fdfe925eccd160e715dd6b4a335bb08326b35cfceee0360f",
+  "source_id": "7757ca1f-6058-4c5b-a960-bce549ecd3ae",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 47/2020-48",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "JUDr. Kateřina Kyselová",
+    "ecli": "ECLI:CZ:OSPH05:2021:17.C.47.2020.1",
+    "predmetRizeni": "40 185,27 Kč s příslušenstvím",
+    "datumVydani": "2021-02-12",
+    "datumZverejneni": "2021-04-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva nájemní",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2321 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7757ca1f-6058-4c5b-a960-bce549ecd3ae"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
