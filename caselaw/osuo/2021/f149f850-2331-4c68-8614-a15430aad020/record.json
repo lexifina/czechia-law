@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Orlicí",
+  "ecli": "ECLI:CZ:OSUO:2021:7.C.14.2021.1",
+  "docket": "7 C 14/2021-7",
+  "date": "2021-02-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f149f850-2331-4c68-8614-a15430aad020",
+  "source_sha256": "fec541101806417f488058174ff6449dbd7169b8870661e487ab003eacab60c7",
+  "source_id": "f149f850-2331-4c68-8614-a15430aad020",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 14/2021-7",
+    "soud": "Okresní soud v Ústí nad Orlicí",
+    "autor": "JUDr. Jan Morávek",
+    "ecli": "ECLI:CZ:OSUO:2021:7.C.14.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-12",
+    "datumZverejneni": "2021-03-03",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f149f850-2331-4c68-8614-a15430aad020"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
