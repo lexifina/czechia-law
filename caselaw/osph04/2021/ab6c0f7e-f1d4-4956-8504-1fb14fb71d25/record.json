@@ -1,0 +1,49 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:51.C.143.2020.1",
+  "docket": "51 C 143/2020-50",
+  "date": "2021-02-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ab6c0f7e-f1d4-4956-8504-1fb14fb71d25",
+  "source_sha256": "f2a167f6e77c3f85f249c3b0a7ca21d22266eab8a6f526f0e02745b071c878c6",
+  "source_id": "ab6c0f7e-f1d4-4956-8504-1fb14fb71d25",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "51 C 143/2020-50",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "JUDr. Jitka Šimanová",
+    "ecli": "ECLI:CZ:OSPH04:2021:51.C.143.2020.1",
+    "predmetRizeni": "O zaplacení 72 869 Kč s příslušenstvím",
+    "datumVydani": "2021-02-12",
+    "datumZverejneni": "2021-09-02",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "smlouva cestovní",
+      "smlouva o zájezdu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 8 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 13 z. č. 99/1963 Sb.",
+      "§ 208 z. č. 262/2006 Sb.",
+      "§ 2521 z. č. 89/2012 Sb.",
+      "§ 2536 z. č. 89/2012 Sb.",
+      "§  z. č. 185/2020 Sb.",
+      "§ 4 z. č. 159/1999 Sb.",
+      "§ 158 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ab6c0f7e-f1d4-4956-8504-1fb14fb71d25"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
