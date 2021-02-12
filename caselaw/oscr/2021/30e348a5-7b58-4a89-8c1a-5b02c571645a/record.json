@@ -1,0 +1,51 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chrudimi",
+  "ecli": "ECLI:CZ:OSCR:2021:12.C.73.2020.1",
+  "docket": "12 C 73/2020-259",
+  "date": "2021-02-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/30e348a5-7b58-4a89-8c1a-5b02c571645a",
+  "source_sha256": "47c9a7a3b0370d634b2ab883370b815d3d9982911dc8206030b9ba71a5ee70d2",
+  "source_id": "30e348a5-7b58-4a89-8c1a-5b02c571645a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 73/2020-259",
+    "soud": "Okresní soud v Chrudimi",
+    "autor": "Mgr. Eva Bačkovská",
+    "ecli": "ECLI:CZ:OSCR:2021:12.C.73.2020.1",
+    "predmetRizeni": "o určení vlastnictví s návrhem na předběžné opatření",
+    "datumVydani": "2021-02-12",
+    "datumZverejneni": "2021-10-05",
+    "klicovaSlova": [
+      "dědění",
+      "domácí násilí",
+      "notářský zápis",
+      "odbytné",
+      "peněžité plnění",
+      "podílové spoluvlastnictví",
+      "pohlavní styk",
+      "smlouva darovací",
+      "smlouva kupní",
+      "smlouva o úvěru",
+      "spoluvlastnictví",
+      "svědečné",
+      "věcná břemena",
+      "vrácení daru",
+      "zástavní právo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2072 z. č. 89/2012 Sb.",
+      "§ 2075 z. č. 89/2012 Sb.",
+      "§ 67 z. č. 141/1961 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/30e348a5-7b58-4a89-8c1a-5b02c571645a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
