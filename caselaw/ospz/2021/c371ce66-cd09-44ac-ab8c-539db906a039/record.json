@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2021:37.C.19.2021.1",
+  "docket": "37 C 19/2021-14",
+  "date": "2021-02-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c371ce66-cd09-44ac-ab8c-539db906a039",
+  "source_sha256": "739b769ae3f75c352cee1518409897e72e43d8303abe9ddde682a453b1635791",
+  "source_id": "c371ce66-cd09-44ac-ab8c-539db906a039",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "37 C 19/2021-14",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "Mgr. Lucie Šrámková",
+    "ecli": "ECLI:CZ:OSPZ:2021:37.C.19.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-12",
+    "datumZverejneni": "2021-04-17",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 3 nař. vl. č. 351/2013 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2804 z. č. 89/2012 Sb.",
+      "§ 6 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c371ce66-cd09-44ac-ab8c-539db906a039"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
