@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:48.C.281.2020.1",
+  "docket": "48 C 281/2020-18",
+  "date": "2021-02-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/447b02c0-3156-4f0e-8dae-661caa6fe81b",
+  "source_sha256": "4563d8167238d4e826f5390cf636542701cfe8f15373e92055c850680c186894",
+  "source_id": "447b02c0-3156-4f0e-8dae-661caa6fe81b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "48 C 281/2020-18",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Ing. Ivana Šmakalová",
+    "ecli": "ECLI:CZ:OSCL:2021:48.C.281.2020.1",
+    "predmetRizeni": "O zaplacení 28 695 Kč s příslušenstvím",
+    "datumVydani": "2021-02-12",
+    "datumZverejneni": "2021-04-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/447b02c0-3156-4f0e-8dae-661caa6fe81b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
