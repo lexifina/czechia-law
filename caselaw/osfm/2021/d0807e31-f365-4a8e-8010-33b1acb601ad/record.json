@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:42.C.370.2019.1",
+  "docket": "42 C 370/2019-27",
+  "date": "2021-02-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d0807e31-f365-4a8e-8010-33b1acb601ad",
+  "source_sha256": "4e2a333a55557b28e764ddb166e63133bc6c3b6e885ea5e8ec59c35343864173",
+  "source_id": "d0807e31-f365-4a8e-8010-33b1acb601ad",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 370/2019-27",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Michaela Janošcová",
+    "ecli": "ECLI:CZ:OSFM:2021:42.C.370.2019.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-12",
+    "datumZverejneni": "2021-02-17",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d0807e31-f365-4a8e-8010-33b1acb601ad"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
