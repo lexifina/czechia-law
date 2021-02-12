@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:9.C.291.2020.1",
+  "docket": "9 C 291/2020-15",
+  "date": "2021-02-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d4498f52-896a-4261-bcf9-dd72c4bbce18",
+  "source_sha256": "8fff611b37843a81d3fe5a513c448e94c65348a5791a4da926e7e30ea3930c93",
+  "source_id": "d4498f52-896a-4261-bcf9-dd72c4bbce18",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 291/2020-15",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "JUDr. Tomáš Suchánek",
+    "ecli": "ECLI:CZ:OSTU:2021:9.C.291.2020.1",
+    "predmetRizeni": "vyklizení bytu",
+    "datumVydani": "2021-02-12",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva mandátní",
+      "smlouva nájemní",
+      "smlouva o zápůjčce",
+      "vyklizení bytu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2235 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 1040 z. č. 89/2012 Sb.",
+      "§ 2285 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d4498f52-896a-4261-bcf9-dd72c4bbce18"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
