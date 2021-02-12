@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:15.C.18.2021.1",
+  "docket": "15 C 18/2021-7",
+  "date": "2021-02-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3b242d9d-4e96-4443-937e-143ec483eed5",
+  "source_sha256": "778800ff32efe4f972a1e4e78ab7541a77669c29005837456f3278907d578052",
+  "source_id": "3b242d9d-4e96-4443-937e-143ec483eed5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 18/2021-7",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "JUDr. Alena Divíšková",
+    "ecli": "ECLI:CZ:OSCL:2021:15.C.18.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-12",
+    "datumZverejneni": "2021-02-12",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 14 z. č. 328/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3b242d9d-4e96-4443-937e-143ec483eed5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
