@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mělníku",
+  "ecli": "ECLI:CZ:OSME:2021:17.C.68.2020.1",
+  "docket": "17 C 68/2020-42",
+  "date": "2021-02-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a9e1af60-ff1b-4400-b77b-568f813f7d7b",
+  "source_sha256": "535d45331813e2315a1a56e0ee366d4346021b5cf264d6a092866f9668583700",
+  "source_id": "a9e1af60-ff1b-4400-b77b-568f813f7d7b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 68/2020-42",
+    "soud": "Okresní soud v Mělníku",
+    "autor": "JUDr. Dáša Kozáková",
+    "ecli": "ECLI:CZ:OSME:2021:17.C.68.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-12",
+    "datumZverejneni": "2021-04-28",
+    "klicovaSlova": [
+      "notářský zápis",
+      "rozvod manželství",
+      "smlouva o manželském majetkovém režimu",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 207 z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§  z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a9e1af60-ff1b-4400-b77b-568f813f7d7b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
