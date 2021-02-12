@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:20.C.290.2020.1",
+  "docket": "20 C 290/2020-18",
+  "date": "2021-02-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cc876d07-9e8c-4a99-9aad-049b91931714",
+  "source_sha256": "423688a88a3412dd17b7e55d5adbbd4f4309e666a3cf31ec7c278c3f8754d7b2",
+  "source_id": "cc876d07-9e8c-4a99-9aad-049b91931714",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 290/2020-18",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "JUDr. Nadine Kovandová",
+    "ecli": "ECLI:CZ:OSDC:2021:20.C.290.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-12",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cc876d07-9e8c-4a99-9aad-049b91931714"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
