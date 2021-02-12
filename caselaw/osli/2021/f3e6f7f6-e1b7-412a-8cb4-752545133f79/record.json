@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:19.C.255.2020.1",
+  "docket": "19 C 255/2020-37",
+  "date": "2021-02-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f3e6f7f6-e1b7-412a-8cb4-752545133f79",
+  "source_sha256": "d8ba8d70beb0dc5234882d54b51eefe609f13b8eff60bedeacfc8176eaa08291",
+  "source_id": "f3e6f7f6-e1b7-412a-8cb4-752545133f79",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 255/2020-37",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Stanislav Štěpánek",
+    "ecli": "ECLI:CZ:OSLI:2021:19.C.255.2020.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 10.000,00 Kč s přísl.",
+    "datumVydani": "2021-02-12",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 657 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f3e6f7f6-e1b7-412a-8cb4-752545133f79"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
