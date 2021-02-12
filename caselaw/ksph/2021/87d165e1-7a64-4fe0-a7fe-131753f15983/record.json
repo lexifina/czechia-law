@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Krajský soud v Praze",
+  "ecli": "ECLI:CZ:KSPH:2021:73.Cm.115.2020.1",
+  "docket": "73 CM 115/2020-22",
+  "date": "2021-02-12",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/87d165e1-7a64-4fe0-a7fe-131753f15983",
+  "source_sha256": "3660fc76a74ba80e152424acbf6900c505eb8f804ef86279ed04ec39aa92c10a",
+  "source_id": "87d165e1-7a64-4fe0-a7fe-131753f15983",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "73 CM 115/2020-22",
+    "soud": "Krajský soud v Praze",
+    "autor": "Mgr. Vladimír Sommer",
+    "ecli": "ECLI:CZ:KSPH:2021:73.Cm.115.2020.1",
+    "predmetRizeni": "o zaplacení částky 187 500 Kč s příslušenstvím a odměnou,",
+    "datumVydani": "2021-02-12",
+    "datumZverejneni": "2021-07-20",
+    "klicovaSlova": [
+      "povinnost k náhradě nákladů",
+      "směnka"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 48 z. č. 191/1950 Sb.",
+      "§ 75 z. č. 191/1950 Sb.",
+      "§ 78 z. č. 191/1950 Sb.",
+      "§ 28 z. č. 191/1950 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/87d165e1-7a64-4fe0-a7fe-131753f15983"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
