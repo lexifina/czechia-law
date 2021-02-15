@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:16.C.33.2018.5",
+  "docket": "16 C 33/2018-109",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/297965e0-bde3-4ff5-825d-61cb7fa54985",
+  "source_sha256": "0f8b784069eaeec77291774931daa4bbe21c80c804e5085fe62b5e800eca7a21",
+  "source_id": "297965e0-bde3-4ff5-825d-61cb7fa54985",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 33/2018-109",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Marie Švecová",
+    "ecli": "ECLI:CZ:OSMO:2021:16.C.33.2018.5",
+    "predmetRizeni": "1 451 Kč s příslušenstvím",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-03-31",
+    "klicovaSlova": [
+      "insolvence",
+      "notářský zápis",
+      "oddlužení",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb.",
+      "§ 2833 z. č. 89/2012 Sb.",
+      "§  z. č. 182/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/297965e0-bde3-4ff5-825d-61cb7fa54985"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
