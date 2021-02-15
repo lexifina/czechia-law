@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Nymburce",
+  "ecli": "ECLI:CZ:OSNB:2021:12.C.25.2021.1",
+  "docket": "12 C 25/2021-18",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c93cf10a-4301-42a5-9f99-5c481d041721",
+  "source_sha256": "c9421607040594e09229356fda6c2c67c86d31986e7402b4733a5fdab83e3409",
+  "source_id": "c93cf10a-4301-42a5-9f99-5c481d041721",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 25/2021-18",
+    "soud": "Okresní soud v Nymburce",
+    "autor": "Mgr. Blanka Jirsáková",
+    "ecli": "ECLI:CZ:OSNB:2021:12.C.25.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 175/2000 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 2578 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c93cf10a-4301-42a5-9f99-5c481d041721"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
