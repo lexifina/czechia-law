@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:6.C.10.2021.2",
+  "docket": "6 C 10/2021-63",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/20920e29-0917-418e-9841-0ddf41c34ffa",
+  "source_sha256": "f0ae0bc2fc36d5c4ff8da87bbb1249d95dece09c181ced753b81104ba718b95a",
+  "source_id": "20920e29-0917-418e-9841-0ddf41c34ffa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 10/2021-63",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "JUDr. Blanka Klicnarová",
+    "ecli": "ECLI:CZ:OSNA:2021:6.C.10.2021.2",
+    "predmetRizeni": "O zaplacení 7 218,26 Kč s příslušenstvím (přečerpání účtu)",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 1815 z. č. 89/2012 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/20920e29-0917-418e-9841-0ddf41c34ffa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
