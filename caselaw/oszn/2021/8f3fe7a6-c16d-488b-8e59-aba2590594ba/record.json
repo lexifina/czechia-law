@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:12.C.17.2020.1",
+  "docket": "12 C 17/2020-22",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8f3fe7a6-c16d-488b-8e59-aba2590594ba",
+  "source_sha256": "fa95bac188caecc5c1ac95e86b74f66a8aca56a9866a9f3113b084603089d6b9",
+  "source_id": "8f3fe7a6-c16d-488b-8e59-aba2590594ba",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 17/2020-22",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "JUDr. Dana Hamzová",
+    "ecli": "ECLI:CZ:OSZN:2021:12.C.17.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-04-06",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8f3fe7a6-c16d-488b-8e59-aba2590594ba"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
