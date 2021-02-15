@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:54.C.452.2020.3",
+  "docket": "54 C 452/2020-18",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5471ca32-2338-46b0-94db-9a1c8e85fdf0",
+  "source_sha256": "bbeaa2096c04c7914b3e61f415b9f57c6f04f280bdcf2e1ad4aebe6896623e43",
+  "source_id": "5471ca32-2338-46b0-94db-9a1c8e85fdf0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "54 C 452/2020-18",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Monika Kotlánová",
+    "ecli": "ECLI:CZ:OSOV:2021:54.C.452.2020.3",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-05-13",
+    "klicovaSlova": [
+      "družstevní byt",
+      "peněžité plnění",
+      "podnájem",
+      "právní domněnka",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 115a z. č. 99/63 Sb.",
+      "§  vyhl. č. 177/96 Sb.",
+      "§ 2215 z. č. 89/2012 Sb.",
+      "§ 641 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5471ca32-2338-46b0-94db-9a1c8e85fdf0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
