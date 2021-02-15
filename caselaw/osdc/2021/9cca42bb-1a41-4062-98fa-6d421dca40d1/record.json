@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:19.C.339.2020.1",
+  "docket": "19 C 339/2020-36",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9cca42bb-1a41-4062-98fa-6d421dca40d1",
+  "source_sha256": "dc68367dfc15b4ab2e8754d864f1d5464f091421ad788ab4eeadaa91786df202",
+  "source_id": "9cca42bb-1a41-4062-98fa-6d421dca40d1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 339/2020-36",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Vladimír Diviš",
+    "ecli": "ECLI:CZ:OSDC:2021:19.C.339.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2782 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9cca42bb-1a41-4062-98fa-6d421dca40d1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
