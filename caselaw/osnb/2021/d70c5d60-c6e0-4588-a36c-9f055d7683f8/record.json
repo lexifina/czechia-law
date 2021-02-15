@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Nymburce",
+  "ecli": "ECLI:CZ:OSNB:2021:17.C.13.2021.1",
+  "docket": "17 C 13/2021-17",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d70c5d60-c6e0-4588-a36c-9f055d7683f8",
+  "source_sha256": "64fd517f994fd0083ead9d06be2be6b6caf3a9c3623a2e965307198240f5d19e",
+  "source_id": "d70c5d60-c6e0-4588-a36c-9f055d7683f8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 13/2021-17",
+    "soud": "Okresní soud v Nymburce",
+    "autor": "Mgr. Tereza Brandová",
+    "ecli": "ECLI:CZ:OSNB:2021:17.C.13.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-03-25",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2a vyhl. č. 205/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d70c5d60-c6e0-4588-a36c-9f055d7683f8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
