@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:61.C.26.2020.1",
+  "docket": "61 C 26/2020-26",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1ed1c90a-4fa5-4dc1-a929-44e8194923f7",
+  "source_sha256": "32a28aed554fc454b630b1e7436963232678239a224f4adb92de1d0d3ac8a9a4",
+  "source_id": "1ed1c90a-4fa5-4dc1-a929-44e8194923f7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "61 C 26/2020-26",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Alena Mezníková",
+    "ecli": "ECLI:CZ:MSBR:2021:61.C.26.2020.1",
+    "predmetRizeni": "zaplacení 27.000 Kč s příslušenstvím - půjčka",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-07-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1ed1c90a-4fa5-4dc1-a929-44e8194923f7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
