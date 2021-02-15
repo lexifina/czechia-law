@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:54.C.120.2020.2",
+  "docket": "54 C 120/2020-49",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/482bfa99-75c8-4326-8be3-797f413c8451",
+  "source_sha256": "b6b9193ca694f49dd8b06cd3114e755fd7ef5b1b01822caafd51292e829e6c0b",
+  "source_id": "482bfa99-75c8-4326-8be3-797f413c8451",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "54 C 120/2020-49",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Monika Kotlánová",
+    "ecli": "ECLI:CZ:OSOV:2021:54.C.120.2020.2",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 207 z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/482bfa99-75c8-4326-8be3-797f413c8451"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
