@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:27.C.401.2020.1",
+  "docket": "27 C 401/2020-35",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bdd9340c-ee04-462d-a6cf-d78e8863b5d5",
+  "source_sha256": "909a049aa906f4be1b4ce4df08b9c973ff5a0a43da177711f089d0c46b43f64d",
+  "source_id": "bdd9340c-ee04-462d-a6cf-d78e8863b5d5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 401/2020-35",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "JUDr. Markéta Pokorná",
+    "ecli": "ECLI:CZ:OSOL:2021:27.C.401.2020.1",
+    "predmetRizeni": "o 1 000 Kč s příslušenstvím",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-03-15",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§ 1872 z. č. 89/2012 Sb.",
+      "§ 2332 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bdd9340c-ee04-462d-a6cf-d78e8863b5d5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
