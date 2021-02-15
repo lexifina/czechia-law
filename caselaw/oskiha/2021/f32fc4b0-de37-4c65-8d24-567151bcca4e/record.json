@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:130.C.6.2021.1",
+  "docket": "130 C 6/2021-40",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f32fc4b0-de37-4c65-8d24-567151bcca4e",
+  "source_sha256": "c2022d62e0316d4dd1fe4b029f2f169ce5625eb1260285f0781ed9e66b50d6e6",
+  "source_id": "f32fc4b0-de37-4c65-8d24-567151bcca4e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "130 C 6/2021-40",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Michaela Turčíková",
+    "ecli": "ECLI:CZ:OSKIHA:2021:130.C.6.2021.1",
+    "predmetRizeni": "25 210 Kč s příslušenstvím",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-04-15",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 14a vyhl. č. 177/1996 Sb.",
+      "§ 2 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f32fc4b0-de37-4c65-8d24-567151bcca4e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
