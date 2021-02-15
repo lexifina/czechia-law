@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:12.C.385.2015.1",
+  "docket": "12 C 385/2015-36",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b3f698be-8e71-42af-ab8c-e3609204349c",
+  "source_sha256": "af77c0da104f830ed8025e9600f47f2d40c06553028ad6896c33eeb4bae0a02f",
+  "source_id": "b3f698be-8e71-42af-ab8c-e3609204349c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 385/2015-36",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Petra Kaplanová",
+    "ecli": "ECLI:CZ:OSUL:2021:12.C.385.2015.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-03-22",
+    "klicovaSlova": [
+      "oddlužení",
+      "smlouva o úvěru",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b3f698be-8e71-42af-ab8c-e3609204349c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
