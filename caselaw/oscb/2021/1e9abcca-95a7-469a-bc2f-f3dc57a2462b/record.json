@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:12.C.34.2021.1",
+  "docket": "12 C 34/2021-14",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1e9abcca-95a7-469a-bc2f-f3dc57a2462b",
+  "source_sha256": "3233d729395d312b1c7821053709a5c9622a9786f6462dc1dbf0cad03c21a46f",
+  "source_id": "1e9abcca-95a7-469a-bc2f-f3dc57a2462b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 34/2021-14",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "JUDr. Eva Veselá",
+    "ecli": "ECLI:CZ:OSCB:2021:12.C.34.2021.1",
+    "predmetRizeni": "EPR [číslo], o zaplacení částky 3 214 Kč s příslušenstvím",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-03-22",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  z. č. 235/2004 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 3 z. č. 168/1999 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 14b vyhl. č. 235/2004 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1e9abcca-95a7-469a-bc2f-f3dc57a2462b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
