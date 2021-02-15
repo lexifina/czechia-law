@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2021:4.C.334.2020.1",
+  "docket": "4 C 334/2020-41",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ab3a0a8d-2d8a-4945-985e-ec14296a3a47",
+  "source_sha256": "b593ebcd5fec5cdaddc9852fe7e5dd412a0e7e1ba09bc1f2a6591346b9094ede",
+  "source_id": "ab3a0a8d-2d8a-4945-985e-ec14296a3a47",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 334/2020-41",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "Mgr. Alena Štětinová",
+    "ecli": "ECLI:CZ:OSKT:2021:4.C.334.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 573 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ab3a0a8d-2d8a-4945-985e-ec14296a3a47"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
