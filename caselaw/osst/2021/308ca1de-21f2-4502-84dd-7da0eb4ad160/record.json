@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Strakonicích",
+  "ecli": "ECLI:CZ:OSST:2021:6.C.32.2021.1",
+  "docket": "6 C 32/2021-15",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/308ca1de-21f2-4502-84dd-7da0eb4ad160",
+  "source_sha256": "33ea937d0e060cf4ddd715f22d0a6a3c70a8f7addb7f14c28ecaeee5155b87ab",
+  "source_id": "308ca1de-21f2-4502-84dd-7da0eb4ad160",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 32/2021-15",
+    "soud": "Okresní soud ve Strakonicích",
+    "autor": "JUDr. Pavla Potužníková",
+    "ecli": "ECLI:CZ:OSST:2021:6.C.32.2021.1",
+    "predmetRizeni": "O zaplacení 2 000 Kč s příslušenstvím",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-03-30",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/308ca1de-21f2-4502-84dd-7da0eb4ad160"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
