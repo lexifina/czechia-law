@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:10.C.270.2020.1",
+  "docket": "10 C 270/2020-24",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e42118d0-4875-421d-bce0-67886ce174b8",
+  "source_sha256": "993a25588acf64f4c2a81ca6d124a8fe0956c2074340652d478e48fc2d403d5c",
+  "source_id": "e42118d0-4875-421d-bce0-67886ce174b8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 270/2020-24",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "JUDr. Dagmar Štefancová",
+    "ecli": "ECLI:CZ:OSHO:2021:10.C.270.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-09-14",
+    "klicovaSlova": [
+      "církev",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e42118d0-4875-421d-bce0-67886ce174b8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
