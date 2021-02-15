@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:61.C.81.2019.6",
+  "docket": "61 C 81/2019-120",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e5072a95-24cd-44b2-ba4f-60612e03ea9e",
+  "source_sha256": "fdf508998ecee0bf988d3c4007942b7a468ae407618fbe6f32f67b4929275ea3",
+  "source_id": "e5072a95-24cd-44b2-ba4f-60612e03ea9e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "61 C 81/2019-120",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Ing. Lukáš Holenda",
+    "ecli": "ECLI:CZ:OSOV:2021:61.C.81.2019.6",
+    "predmetRizeni": "o určení neexistence zástavního práva",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-10-25",
+    "klicovaSlova": [
+      "dražba",
+      "peněžité plnění",
+      "smlouva zástavní",
+      "zástavní právo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 80 z. č. 99/1963 Sb.",
+      "§ 152 z. č. 40/1964 Sb.",
+      "§ 152 z. č. 89/2012 Sb.",
+      "§ 155 z. č. 89/2012 Sb.",
+      "§ 156 z. č. 89/2012 Sb.",
+      "§ 68 z. č. 91/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e5072a95-24cd-44b2-ba4f-60612e03ea9e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
