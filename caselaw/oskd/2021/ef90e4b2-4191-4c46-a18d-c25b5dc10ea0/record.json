@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:207.C.13.2021.1",
+  "docket": "207 C 13/2021",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ef90e4b2-4191-4c46-a18d-c25b5dc10ea0",
+  "source_sha256": "c12071e7a1661aec7ac3e22d59e3751fe7277a249b96a5321d6fd027261e90fc",
+  "source_id": "ef90e4b2-4191-4c46-a18d-c25b5dc10ea0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "207 C 13/2021",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Jarmila Tůmová",
+    "ecli": "ECLI:CZ:OSKD:2021:207.C.13.2021.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-03-16",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 2804 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ef90e4b2-4191-4c46-a18d-c25b5dc10ea0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
