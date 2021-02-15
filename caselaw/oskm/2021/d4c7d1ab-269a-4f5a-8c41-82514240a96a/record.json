@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kroměříži",
+  "ecli": "ECLI:CZ:OSKM:2021:6.C.238.2019.1",
+  "docket": "6 C 238/2019-20",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d4c7d1ab-269a-4f5a-8c41-82514240a96a",
+  "source_sha256": "2cd11c50d60d740231565692e2ee3026b8f98417b6e93897dda29205228b2ff0",
+  "source_id": "d4c7d1ab-269a-4f5a-8c41-82514240a96a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 238/2019-20",
+    "soud": "Okresní soud v Kroměříži",
+    "autor": "JUDr. Ivan Jordán",
+    "ecli": "ECLI:CZ:OSKM:2021:6.C.238.2019.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-03-15",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 395 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d4c7d1ab-269a-4f5a-8c41-82514240a96a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
