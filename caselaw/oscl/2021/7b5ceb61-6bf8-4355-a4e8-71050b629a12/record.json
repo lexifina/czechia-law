@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:37.C.5.2021.1",
+  "docket": "37 C 5/2021-18",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7b5ceb61-6bf8-4355-a4e8-71050b629a12",
+  "source_sha256": "91ace9a61c29e9f61749551aa2d9bef9e54a8f2fea0272778d177e9e212f9b59",
+  "source_id": "7b5ceb61-6bf8-4355-a4e8-71050b629a12",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "37 C 5/2021-18",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Roman Koťátko",
+    "ecli": "ECLI:CZ:OSCL:2021:37.C.5.2021.1",
+    "predmetRizeni": "O zaplacení 9 985 Kč s příslušenstvím",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7b5ceb61-6bf8-4355-a4e8-71050b629a12"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
