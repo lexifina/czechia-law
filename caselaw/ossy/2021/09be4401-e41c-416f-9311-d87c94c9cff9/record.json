@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2021:16.C.226.2020.1",
+  "docket": "16 C 226/2020-42",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/09be4401-e41c-416f-9311-d87c94c9cff9",
+  "source_sha256": "0229167d4c47298cccbbb39010a384f60407e0591c65c47717d523171be917bc",
+  "source_id": "09be4401-e41c-416f-9311-d87c94c9cff9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 226/2020-42",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "JUDr. Ivo Mikolajek",
+    "ecli": "ECLI:CZ:OSSY:2021:16.C.226.2020.1",
+    "predmetRizeni": "o určení neplatnosti rozvázání pracovního poměru",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-07-27",
+    "klicovaSlova": [
+      "elektronický podpis",
+      "hospodářská soutěž",
+      "okamžité zrušení pracovního poměru",
+      "peněžité plnění",
+      "smlouva pracovní",
+      "zkušební doba"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§ 55 z. č. 262/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/09be4401-e41c-416f-9311-d87c94c9cff9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
