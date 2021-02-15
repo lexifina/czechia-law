@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:34.C.265.2020.1",
+  "docket": "34 C 265/2020-44",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/12e93e5c-f5e0-4ee8-9ca1-4c3e24ae874c",
+  "source_sha256": "d2632e6a6acea8c9413db965521e85a82216fe37eaa6e5973edc8ce0cd8b26c4",
+  "source_id": "12e93e5c-f5e0-4ee8-9ca1-4c3e24ae874c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 265/2020-44",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "Mgr. Vladimír Hromek",
+    "ecli": "ECLI:CZ:OSBI:2021:34.C.265.2020.1",
+    "predmetRizeni": "O zaplacení 1 500 Kč s příslušenstvím",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-04-01",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/12e93e5c-f5e0-4ee8-9ca1-4c3e24ae874c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
