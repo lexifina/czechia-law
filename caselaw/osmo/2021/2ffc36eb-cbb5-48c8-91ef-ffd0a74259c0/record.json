@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:16.C.352.2019.2",
+  "docket": "16 C 352/2019-57",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2ffc36eb-cbb5-48c8-91ef-ffd0a74259c0",
+  "source_sha256": "bc3b2379e6951b891ca006495bee86ace40ccf048e6684b2e3aa74e10b9a7665",
+  "source_id": "2ffc36eb-cbb5-48c8-91ef-ffd0a74259c0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 352/2019-57",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Marie Švecová",
+    "ecli": "ECLI:CZ:OSMO:2021:16.C.352.2019.2",
+    "predmetRizeni": "5 926,75 Kč s příslušenstvím",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-03-31",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 174 z. č. 99/1963 Sb.",
+      "§ 517 z. č. 40/64 Sb.",
+      "§ 658 z. č. 40/64 Sb.",
+      "§ 657 z. č. 40/64 Sb.",
+      "§ 262 z. č. 513/1991 Sb.",
+      "§ 559 z. č. 40/64 Sb.",
+      "§ 567 z. č. 40/64 Sb.",
+      "§ 330 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2ffc36eb-cbb5-48c8-91ef-ffd0a74259c0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
