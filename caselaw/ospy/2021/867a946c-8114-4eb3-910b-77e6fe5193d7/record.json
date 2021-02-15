@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:36.C.77.2021.1",
+  "docket": "36 C 77/2021",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/867a946c-8114-4eb3-910b-77e6fe5193d7",
+  "source_sha256": "58e1b7ee4df582e2a1dca8bc3ea4e43e4464254e61469ffae5a251b3ca77c0cd",
+  "source_id": "867a946c-8114-4eb3-910b-77e6fe5193d7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 77/2021",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Tereza Dobešová",
+    "ecli": "ECLI:CZ:OSPY:2021:36.C.77.2021.1",
+    "predmetRizeni": "o zaplacení částky 2 534 Kč s příslušenstvím",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-06-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/867a946c-8114-4eb3-910b-77e6fe5193d7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
