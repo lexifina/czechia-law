@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:8.C.194.2020.1",
+  "docket": "8 C 194/2020-21",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a52a1b2f-5db5-475b-93f2-0125721ba102",
+  "source_sha256": "1f9f6043a203f6a8ac78eb77af4a68b8761e2711459d2703aaef603832e80838",
+  "source_id": "a52a1b2f-5db5-475b-93f2-0125721ba102",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 194/2020-21",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "JUDr. Soňa Nedbalová",
+    "ecli": "ECLI:CZ:OSBI:2021:8.C.194.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-04-14",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 655 z. č. 89/2012 Sb.",
+      "§ 687 z. č. 89/2012 Sb.",
+      "§ 389 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a52a1b2f-5db5-475b-93f2-0125721ba102"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
