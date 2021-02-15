@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:11.C.307.2020.2",
+  "docket": "11 C 307/2020-33",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/aec9a080-509b-4a43-b660-8bfe8f08ece0",
+  "source_sha256": "da871e3f65ad1ef036bd52054994c696e1bf94f19ae14457122248c001a102b2",
+  "source_id": "aec9a080-509b-4a43-b660-8bfe8f08ece0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 307/2020-33",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Jan Musil",
+    "ecli": "ECLI:CZ:OSMO:2021:11.C.307.2020.2",
+    "predmetRizeni": "646 Kč s příslušenstvím",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-03-05",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 13 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/aec9a080-509b-4a43-b660-8bfe8f08ece0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
