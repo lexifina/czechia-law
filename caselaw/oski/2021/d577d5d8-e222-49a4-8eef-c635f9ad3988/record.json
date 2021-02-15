@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2021:26.C.388.2020.1",
+  "docket": "26 C 388/2020-36",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d577d5d8-e222-49a4-8eef-c635f9ad3988",
+  "source_sha256": "6301d8d3311213cab98ca9b916d7aba79092da359a2da85a4b7dee3d5b60a30a",
+  "source_id": "d577d5d8-e222-49a4-8eef-c635f9ad3988",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 388/2020-36",
+    "soud": "Okresní soud v Karviné",
+    "autor": "Mgr. Marek Heczko",
+    "ecli": "ECLI:CZ:OSKI:2021:26.C.388.2020.1",
+    "predmetRizeni": "4 000 Kč",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-03-12",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 570 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d577d5d8-e222-49a4-8eef-c635f9ad3988"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
