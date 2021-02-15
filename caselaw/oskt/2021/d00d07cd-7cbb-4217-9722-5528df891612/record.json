@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2021:9.C.5.2021.1",
+  "docket": "9 C 5/2021-44",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d00d07cd-7cbb-4217-9722-5528df891612",
+  "source_sha256": "65795ab6aae5d29495288356804c589e9411d730c4aaeab96736b77ec96e752e",
+  "source_id": "d00d07cd-7cbb-4217-9722-5528df891612",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 5/2021-44",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "JUDr. Vlasta Pešková",
+    "ecli": "ECLI:CZ:OSKT:2021:9.C.5.2021.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-05-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d00d07cd-7cbb-4217-9722-5528df891612"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
