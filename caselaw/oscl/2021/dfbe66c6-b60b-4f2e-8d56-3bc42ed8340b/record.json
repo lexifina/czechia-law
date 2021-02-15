@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:37.C.3.2021.1",
+  "docket": "37 C 3/2021-18",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dfbe66c6-b60b-4f2e-8d56-3bc42ed8340b",
+  "source_sha256": "43f0693a96e0db94891861d240694b65fd6b39996489548fe6d47840117578f1",
+  "source_id": "dfbe66c6-b60b-4f2e-8d56-3bc42ed8340b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "37 C 3/2021-18",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "Mgr. Roman Koťátko",
+    "ecli": "ECLI:CZ:OSCL:2021:37.C.3.2021.1",
+    "predmetRizeni": "O zaplacení 2 081 Kč s příslušenstvím",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb.",
+      "§ 13 z. č. 168/1999 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb.",
+      "§  z. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dfbe66c6-b60b-4f2e-8d56-3bc42ed8340b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
