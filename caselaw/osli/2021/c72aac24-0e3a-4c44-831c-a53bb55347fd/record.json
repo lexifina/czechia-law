@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:16.C.342.2020.1",
+  "docket": "16 C 342/2020-36",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c72aac24-0e3a-4c44-831c-a53bb55347fd",
+  "source_sha256": "dc9a14e980bfbb445b77658decd163793040392cdf09a6815b7af3686964727a",
+  "source_id": "c72aac24-0e3a-4c44-831c-a53bb55347fd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 342/2020-36",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Martin Košek",
+    "ecli": "ECLI:CZ:OSLI:2021:16.C.342.2020.1",
+    "predmetRizeni": "Návrh na vydání PR- zaplacení částky 6.500,00 Kč s přísl.",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c72aac24-0e3a-4c44-831c-a53bb55347fd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
