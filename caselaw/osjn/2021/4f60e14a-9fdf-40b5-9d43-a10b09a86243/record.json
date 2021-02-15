@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2021:19.C.455.2018.5",
+  "docket": "19 C 455/2018-131",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4f60e14a-9fdf-40b5-9d43-a10b09a86243",
+  "source_sha256": "47972d4339ee768d44f8f6b32e2d27660f5be22a5ab883742ab1cb159441ffed",
+  "source_id": "4f60e14a-9fdf-40b5-9d43-a10b09a86243",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 455/2018-131",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "JUDr. Jan Kušnír",
+    "ecli": "ECLI:CZ:OSJN:2021:19.C.455.2018.5",
+    "predmetRizeni": "o zaplacení 6 150 Kč s příslušenstvím",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-02-26",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "dar malé hodnoty",
+      "omezení svéprávnosti",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4f60e14a-9fdf-40b5-9d43-a10b09a86243"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
