@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:253.C.31.2020.1",
+  "docket": "253 C 31/2020-123",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f96ce52c-2158-45a7-ad3b-9a3fd7d428ad",
+  "source_sha256": "3789d2523a80a5790211261cfdc7f1b390254c1ded6a5c39c99182a9870c5617",
+  "source_id": "f96ce52c-2158-45a7-ad3b-9a3fd7d428ad",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "253 C 31/2020-123",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Libuše Jeroušková",
+    "ecli": "ECLI:CZ:MSBR:2021:253.C.31.2020.1",
+    "predmetRizeni": "zaplacení 394 529,40 Kč s příslušenstvím - smlouva o podnikatelském nájmu",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-11-15",
+    "klicovaSlova": [
+      "nájem nebytových prostor",
+      "nebytový prostor",
+      "peněžité plnění",
+      "podnájem",
+      "smlouva nájemní",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 2302 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f96ce52c-2158-45a7-ad3b-9a3fd7d428ad"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
