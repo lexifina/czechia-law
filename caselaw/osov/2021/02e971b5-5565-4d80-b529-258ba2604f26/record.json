@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:54.C.217.2020.3",
+  "docket": "54 C 217/2020-34",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/02e971b5-5565-4d80-b529-258ba2604f26",
+  "source_sha256": "0834f581fcbcd3215a38d9e8d63ce2d4dd7ad243b3e1c0b57810e7f33815a141",
+  "source_id": "02e971b5-5565-4d80-b529-258ba2604f26",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "54 C 217/2020-34",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Monika Kotlánová",
+    "ecli": "ECLI:CZ:OSOV:2021:54.C.217.2020.3",
+    "predmetRizeni": "o výživné zletilého dítěte",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-07-07",
+    "klicovaSlova": [
+      "příspěvek na bydlení",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 911 z. č. 89/2012 Sb.",
+      "§ 910 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/02e971b5-5565-4d80-b529-258ba2604f26"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
