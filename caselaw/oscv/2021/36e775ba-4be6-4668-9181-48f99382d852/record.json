@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:30.C.96.2020.2",
+  "docket": "30 C 96/2020-18",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/36e775ba-4be6-4668-9181-48f99382d852",
+  "source_sha256": "ff288636b5139a5138acce4457f0e2d375940d3cec61e16400db8de845411aef",
+  "source_id": "36e775ba-4be6-4668-9181-48f99382d852",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 96/2020-18",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Hana Jakubcová",
+    "ecli": "ECLI:CZ:OSCV:2021:30.C.96.2020.2",
+    "predmetRizeni": "zaplacení 1 000 Kč s příslušenstvím (zápůjčka)",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-04-11",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/36e775ba-4be6-4668-9181-48f99382d852"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
