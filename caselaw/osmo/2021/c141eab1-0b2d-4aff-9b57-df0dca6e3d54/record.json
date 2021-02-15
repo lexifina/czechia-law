@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:11.C.204.2020.2",
+  "docket": "11 C 204/2020-21",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c141eab1-0b2d-4aff-9b57-df0dca6e3d54",
+  "source_sha256": "e92e6d2a136f38521c911ee2961545bb8c46d128962d516fda0f23da02c5b868",
+  "source_id": "c141eab1-0b2d-4aff-9b57-df0dca6e3d54",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 204/2020-21",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Jan Musil",
+    "ecli": "ECLI:CZ:OSMO:2021:11.C.204.2020.2",
+    "predmetRizeni": "25 144 Kč",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-04-14",
+    "klicovaSlova": [
+      "bytové družstvo",
+      "dlužné platby spojené s užíváním bytu",
+      "společenství vlastníků jednotek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1180 z. č. 89/2012 Sb.",
+      "§ 1175 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c141eab1-0b2d-4aff-9b57-df0dca6e3d54"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
