@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:12.C.388.2020.2",
+  "docket": "12 C 388/2020-25",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c5e08b63-cabe-4c08-8106-442336e00417",
+  "source_sha256": "ff3f9ad5d8546d05cecd20e46ff837e06b4c67580cff34f26ede234495ad67c8",
+  "source_id": "c5e08b63-cabe-4c08-8106-442336e00417",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 388/2020-25",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "JUDr. Ivana Lukášová",
+    "ecli": "ECLI:CZ:OSCL:2021:12.C.388.2020.2",
+    "predmetRizeni": "O zaplacení 10 375 Kč s příslušenstvím",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-04-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 4 z. č. 168/99 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c5e08b63-cabe-4c08-8106-442336e00417"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
