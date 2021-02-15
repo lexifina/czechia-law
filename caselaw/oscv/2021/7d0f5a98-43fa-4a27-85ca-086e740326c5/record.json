@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:9.C.355.2019.1",
+  "docket": "9 C 355/2019-25",
+  "date": "2021-02-15",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7d0f5a98-43fa-4a27-85ca-086e740326c5",
+  "source_sha256": "fd870e30ceed2efed9cd9c8036d0486bef4359ea6068e012d5c76a7bf86245b4",
+  "source_id": "7d0f5a98-43fa-4a27-85ca-086e740326c5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 355/2019-25",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Vladislava Štulcová",
+    "ecli": "ECLI:CZ:OSCV:2021:9.C.355.2019.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-15",
+    "datumZverejneni": "2021-02-24",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7d0f5a98-43fa-4a27-85ca-086e740326c5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
