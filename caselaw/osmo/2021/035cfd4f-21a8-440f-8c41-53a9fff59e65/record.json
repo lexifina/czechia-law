@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:39.C.411.2020.2",
+  "docket": "39 C 411/2020-19",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/035cfd4f-21a8-440f-8c41-53a9fff59e65",
+  "source_sha256": "62eee4aa858ff1e83c51bc1e98ac03be67cd49c47b69c6b3114bfb83f738f01e",
+  "source_id": "035cfd4f-21a8-440f-8c41-53a9fff59e65",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "39 C 411/2020-19",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Rudolf Malý",
+    "ecli": "ECLI:CZ:OSMO:2021:39.C.411.2020.2",
+    "predmetRizeni": "675 Kč s příslušenstvím",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-03-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 348/2005 Sb.",
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1968 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/035cfd4f-21a8-440f-8c41-53a9fff59e65"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
