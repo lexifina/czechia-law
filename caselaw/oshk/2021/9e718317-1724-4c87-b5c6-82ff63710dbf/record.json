@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:18.C.62.2020.2",
+  "docket": "18 C 62/2020-23",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9e718317-1724-4c87-b5c6-82ff63710dbf",
+  "source_sha256": "04c2d32cb078ab6c6789e3df8aa039b266620b018c77f057a64f7ce060f33cab",
+  "source_id": "9e718317-1724-4c87-b5c6-82ff63710dbf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 62/2020-23",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "Mgr. Eva Tabetová",
+    "ecli": "ECLI:CZ:OSHK:2021:18.C.62.2020.2",
+    "predmetRizeni": "o zaplacení částky 13 300 Kč s příslušenstvím",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-04-30",
+    "klicovaSlova": [
+      "nájem nebytových prostor",
+      "nebytový prostor",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9e718317-1724-4c87-b5c6-82ff63710dbf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
