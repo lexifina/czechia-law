@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:11.C.269.2020.1",
+  "docket": "11 C 269/2020-67",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2b55cb0b-07bb-4786-90ec-1df4f8128471",
+  "source_sha256": "17bc76520aca2ae94a9f5bc00e86b9e20067be5fbfe675e9b7fc6d70a07744bc",
+  "source_id": "2b55cb0b-07bb-4786-90ec-1df4f8128471",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 269/2020-67",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "JUDr. Lenka Šestáková",
+    "ecli": "ECLI:CZ:OSBI:2021:11.C.269.2020.1",
+    "predmetRizeni": "O zaplacení 8 000 Kč s příslušenstvím",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-07-02",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2b55cb0b-07bb-4786-90ec-1df4f8128471"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
