@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:23.C.199.2020.1",
+  "docket": "23 C 199/2020",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7be68814-2224-4cd2-8a86-88b1f11df575",
+  "source_sha256": "0cd673ae38a374de9f4d1117e7cd28f282be458642dae124615af0eac0bc3d1c",
+  "source_id": "7be68814-2224-4cd2-8a86-88b1f11df575",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 199/2020",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Pavel Preisler, Ph.D.",
+    "ecli": "ECLI:CZ:OSLI:2021:23.C.199.2020.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 19.500,00 Kč s přísl.",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-03-31",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva zprostředkovatelská"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2445 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7be68814-2224-4cd2-8a86-88b1f11df575"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
