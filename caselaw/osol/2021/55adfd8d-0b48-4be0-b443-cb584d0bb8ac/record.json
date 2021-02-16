@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:20.C.317.2020.1",
+  "docket": "20 C 317/2020-17",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/55adfd8d-0b48-4be0-b443-cb584d0bb8ac",
+  "source_sha256": "522ac420af96b8a5470d3ee837e45ea0b7503363f6c53b0fa9821635b27c0f22",
+  "source_id": "55adfd8d-0b48-4be0-b443-cb584d0bb8ac",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 317/2020-17",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "Mgr. Ludmila Papicová",
+    "ecli": "ECLI:CZ:OSOL:2021:20.C.317.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-02-17",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/55adfd8d-0b48-4be0-b443-cb584d0bb8ac"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
