@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jeseníku",
+  "ecli": "ECLI:CZ:OSJE:2021:4.C.209.2020.1",
+  "docket": "4 C 209/2020-30",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/af6b1327-c320-43ae-880b-aa4c8e4bf322",
+  "source_sha256": "9ec6e99898c8fa5e737cfd3d8dcf49d2cf76267a66e2b206d55cfb33ff0d3881",
+  "source_id": "af6b1327-c320-43ae-880b-aa4c8e4bf322",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 209/2020-30",
+    "soud": "Okresní soud v Jeseníku",
+    "autor": "JUDr. Ivana Ondryášová",
+    "ecli": "ECLI:CZ:OSJE:2021:4.C.209.2020.1",
+    "predmetRizeni": "[částka] s přísl.",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 89e z. č. 373/2011 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/af6b1327-c320-43ae-880b-aa4c8e4bf322"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
