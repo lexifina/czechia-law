@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 7",
+  "ecli": "ECLI:CZ:OSPH07:2021:12.C.23.2021.1",
+  "docket": "12 C 23/2021-11",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/735af222-bbd8-4e2f-a23f-4eb366ca909b",
+  "source_sha256": "6556cc437243cd4b35aa5af734c50eae1381cc3f91f6d155579d3a32323ddc13",
+  "source_id": "735af222-bbd8-4e2f-a23f-4eb366ca909b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 23/2021-11",
+    "soud": "Obvodní soud pro Prahu 7",
+    "autor": "Mgr. Jan Čvančara",
+    "ecli": "ECLI:CZ:OSPH07:2021:12.C.23.2021.1",
+    "predmetRizeni": "O zaplacení 675 Kč s příslušenstvím",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-07-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozsudek pro zmeškání"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 205 z. č. 99/1963 Sb.",
+      "§ 205b z. č. 99/1963 Sb.",
+      "§ 153b z. č. 99/1963 Sb.",
+      "§ 99 z. č. 99/1963 Sb.",
+      "§ 13 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/735af222-bbd8-4e2f-a23f-4eb366ca909b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
