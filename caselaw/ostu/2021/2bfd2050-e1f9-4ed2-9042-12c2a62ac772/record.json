@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:30.C.280.2020.1",
+  "docket": "30 C 280/2020-32",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2bfd2050-e1f9-4ed2-9042-12c2a62ac772",
+  "source_sha256": "2e5b43cd58449877c812449c2d7abb2f962fb6cc07878f2f1d2fc9ddd0a79251",
+  "source_id": "2bfd2050-e1f9-4ed2-9042-12c2a62ac772",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 280/2020-32",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "Mgr. Gabriela Řezníčková",
+    "ecli": "ECLI:CZ:OSTU:2021:30.C.280.2020.1",
+    "predmetRizeni": "zaplacení 315 156,14 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-04-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 153a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2bfd2050-e1f9-4ed2-9042-12c2a62ac772"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
