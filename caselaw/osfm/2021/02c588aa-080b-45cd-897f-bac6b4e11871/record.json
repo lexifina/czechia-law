@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:14.C.365.2020.1",
+  "docket": "14 C 365/2020-14",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/02c588aa-080b-45cd-897f-bac6b4e11871",
+  "source_sha256": "eed47e87c23843771d800d3e02948e8417b8d54bbd1fb062777bf221f4e2a58a",
+  "source_id": "02c588aa-080b-45cd-897f-bac6b4e11871",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 365/2020-14",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Monika Szkanderová",
+    "ecli": "ECLI:CZ:OSFM:2021:14.C.365.2020.1",
+    "predmetRizeni": "O zaplacení 3 040 Kč s příslušenstvím",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-05-27",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/02c588aa-080b-45cd-897f-bac6b4e11871"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
