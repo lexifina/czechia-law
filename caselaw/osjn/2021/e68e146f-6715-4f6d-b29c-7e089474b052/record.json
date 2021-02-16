@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2021:10.C.11.2021.1",
+  "docket": "10 C 11/2021-21",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e68e146f-6715-4f6d-b29c-7e089474b052",
+  "source_sha256": "397c380820201c4bb7f76262d98899765e96bc9a2d4a9947dff1bb9932218cbf",
+  "source_id": "e68e146f-6715-4f6d-b29c-7e089474b052",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 11/2021-21",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "JUDr. Pavel Vlach, Ph.D.",
+    "ecli": "ECLI:CZ:OSJN:2021:10.C.11.2021.1",
+    "predmetRizeni": "o zaplacení 675 Kč s příslušenstvím",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-03-25",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 3 z. č. 348/2005 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e68e146f-6715-4f6d-b29c-7e089474b052"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
