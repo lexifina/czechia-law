@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kolíně",
+  "ecli": "ECLI:CZ:OSKO:2021:19.C.9.2021.1",
+  "docket": "19 C 9/2021",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5c9425c5-2c33-44e7-a034-ff9349efaf9b",
+  "source_sha256": "aadb2cc63cd702990171fc9e08a0ab471200ace22b7fdd48ac5f71efd773f80e",
+  "source_id": "5c9425c5-2c33-44e7-a034-ff9349efaf9b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 9/2021",
+    "soud": "Okresní soud v Kolíně",
+    "autor": "JUDr. Marek Jäger, Ph.D.",
+    "ecli": "ECLI:CZ:OSKO:2021:19.C.9.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-04-07",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva mandátní",
+      "smlouva o obchodním zastoupení",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2291 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5c9425c5-2c33-44e7-a034-ff9349efaf9b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
