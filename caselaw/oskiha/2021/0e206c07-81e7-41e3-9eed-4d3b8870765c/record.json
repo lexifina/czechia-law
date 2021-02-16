@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:110.C.356.2020.1",
+  "docket": "110 C 356/2020-37",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0e206c07-81e7-41e3-9eed-4d3b8870765c",
+  "source_sha256": "162c397bf4a01b8171e8ae78243a8bb03f6076bbed7d712dde5e4a1a273050af",
+  "source_id": "0e206c07-81e7-41e3-9eed-4d3b8870765c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "110 C 356/2020-37",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Yvona Del favero",
+    "ecli": "ECLI:CZ:OSKIHA:2021:110.C.356.2020.1",
+    "predmetRizeni": "vyklizení bytu",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "nájem bytu",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 2291 z. č. 89/2012 Sb.",
+      "§ 2285 z. č. 89/2012 Sb.",
+      "§ 1042 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0e206c07-81e7-41e3-9eed-4d3b8870765c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
