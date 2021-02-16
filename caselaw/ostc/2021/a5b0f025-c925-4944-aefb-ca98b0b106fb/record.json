@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Tachově",
+  "ecli": "ECLI:CZ:OSTC:2021:7.C.320.2020.1",
+  "docket": "7 C 320/2020-45",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a5b0f025-c925-4944-aefb-ca98b0b106fb",
+  "source_sha256": "f656612f19b3ff7e917f18c69f859dde5dd2a62c1e157f89f6dacd5d3f4069df",
+  "source_id": "a5b0f025-c925-4944-aefb-ca98b0b106fb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 320/2020-45",
+    "soud": "Okresní soud v Tachově",
+    "autor": "prom. práv. František Kříž",
+    "ecli": "ECLI:CZ:OSTC:2021:7.C.320.2020.1",
+    "predmetRizeni": "O zaplacení 35 736,90 Kč s příslušenstvím",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozsudek pro zmeškání",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 153b z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a5b0f025-c925-4944-aefb-ca98b0b106fb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
