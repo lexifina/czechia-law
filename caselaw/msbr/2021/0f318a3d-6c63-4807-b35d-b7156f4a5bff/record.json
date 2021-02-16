@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:94.C.140.2020.1",
+  "docket": "94 C 140/2020-26",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0f318a3d-6c63-4807-b35d-b7156f4a5bff",
+  "source_sha256": "aba3311626c22033c451601c647fff933b6a037b6d99bb6e4473cbf9ad4799b2",
+  "source_id": "0f318a3d-6c63-4807-b35d-b7156f4a5bff",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "94 C 140/2020-26",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Lucie Vymětalová",
+    "ecli": "ECLI:CZ:MSBR:2021:94.C.140.2020.1",
+    "predmetRizeni": "zaplacení 3.999,65 Kč - faktura",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 236 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0f318a3d-6c63-4807-b35d-b7156f4a5bff"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
