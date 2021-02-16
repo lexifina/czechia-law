@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPJ:2021:39.C.277.2020.1",
+  "docket": "39 C 277/2020-23",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8b4cc80f-921b-4018-88cb-3ce574022c00",
+  "source_sha256": "6b71324c4d3af31ab195763a429e433fcb21285010033e7bb0f78d85648e01ff",
+  "source_id": "8b4cc80f-921b-4018-88cb-3ce574022c00",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "39 C 277/2020-23",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Petra Pavlíčková",
+    "ecli": "ECLI:CZ:OSPJ:2021:39.C.277.2020.1",
+    "predmetRizeni": "o zaplacení 4 000 Kč",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 115 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8b4cc80f-921b-4018-88cb-3ce574022c00"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
