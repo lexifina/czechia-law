@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:32.C.278.2020.1",
+  "docket": "32 C 278/2020-46",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/00b47936-b7f0-4f1c-a507-287f8ac4450f",
+  "source_sha256": "7dbb30f252e2509f3a2339c5b94d99cdff37ff78beba3171af32e3ccd92b04ca",
+  "source_id": "00b47936-b7f0-4f1c-a507-287f8ac4450f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "32 C 278/2020-46",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Bc. Zdeněk Piskač",
+    "ecli": "ECLI:CZ:OSMO:2021:32.C.278.2020.1",
+    "predmetRizeni": "38 100 Kč s příslušenstvím",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-04-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/00b47936-b7f0-4f1c-a507-287f8ac4450f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
