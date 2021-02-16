@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:11.C.491.2020.5",
+  "docket": "11 C 491/2020-35",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2f35ede1-1261-402e-8c23-819bb7dc8802",
+  "source_sha256": "e305ce9f9db4b1fbea5bad4d92a74c0c545a259e9905e68d452b811dee3b577b",
+  "source_id": "2f35ede1-1261-402e-8c23-819bb7dc8802",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 491/2020-35",
+    "soud": "Okresní soud v Chebu",
+    "autor": "JUDr. Stanislav Brabec",
+    "ecli": "ECLI:CZ:OSCH:2021:11.C.491.2020.5",
+    "predmetRizeni": "O zaplacení 28 816,91 Kč s příslušenstvím",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-05-05",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění úvěru",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2f35ede1-1261-402e-8c23-819bb7dc8802"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
