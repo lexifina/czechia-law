@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:15.C.45.2021.1",
+  "docket": "15 C 45/2021-10",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/303b5e30-609a-4a00-9512-a797a34c0886",
+  "source_sha256": "23e611881b3266de495e49ed070746e848df3215115594c96c98b2a99b3caa18",
+  "source_id": "303b5e30-609a-4a00-9512-a797a34c0886",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 45/2021-10",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Kateřina Hendrichová",
+    "ecli": "ECLI:CZ:OSKV:2021:15.C.45.2021.1",
+    "predmetRizeni": "1.418 Kč / pojistné",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1 nař. vl. č. 142/1994 Sb.",
+      "§ 24c z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/303b5e30-609a-4a00-9512-a797a34c0886"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
