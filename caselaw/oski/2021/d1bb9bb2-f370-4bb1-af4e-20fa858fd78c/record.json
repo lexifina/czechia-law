@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2021:24.C.70.2020.1",
+  "docket": "24 C 70/2020-39",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d1bb9bb2-f370-4bb1-af4e-20fa858fd78c",
+  "source_sha256": "72fde38d539e4b1b543d2172541ba53e4f1cc2c7d2d4540c0309c8fe275cdd32",
+  "source_id": "d1bb9bb2-f370-4bb1-af4e-20fa858fd78c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 70/2020-39",
+    "soud": "Okresní soud v Karviné",
+    "autor": "JUDr. Milan Pelikán, , Ph.D.",
+    "ecli": "ECLI:CZ:OSKI:2021:24.C.70.2020.1",
+    "predmetRizeni": "rozvod",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-04-20",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d1bb9bb2-f370-4bb1-af4e-20fa858fd78c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
