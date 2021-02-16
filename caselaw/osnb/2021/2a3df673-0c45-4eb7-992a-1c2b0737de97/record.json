@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Nymburce",
+  "ecli": "ECLI:CZ:OSNB:2021:12.C.305.2020.1",
+  "docket": "12 C 305/2020-22",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2a3df673-0c45-4eb7-992a-1c2b0737de97",
+  "source_sha256": "e1817165d1d1e12180ae9ccc211db631dc07015e7956672e094832ead664196f",
+  "source_id": "2a3df673-0c45-4eb7-992a-1c2b0737de97",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 305/2020-22",
+    "soud": "Okresní soud v Nymburce",
+    "autor": "Mgr. Blanka Jirsáková",
+    "ecli": "ECLI:CZ:OSNB:2021:12.C.305.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1882 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2a3df673-0c45-4eb7-992a-1c2b0737de97"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
