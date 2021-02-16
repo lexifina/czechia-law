@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2021:5.C.1.2020.1",
+  "docket": "5 C 1/2020-222",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/36b14449-d2f3-43ec-b80a-b71014275f37",
+  "source_sha256": "cc10e10d36e7bd6b70996e9ba68494161261e9ebe744b313e14c42e7e306f776",
+  "source_id": "36b14449-d2f3-43ec-b80a-b71014275f37",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 1/2020-222",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "Mgr. Martina Šuláková, Ph.D.",
+    "ecli": "ECLI:CZ:OSSY:2021:5.C.1.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-04-12",
+    "klicovaSlova": [
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 224 z. č. 99/1963 Sb.",
+      "§ 9 z. č. 549/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/36b14449-d2f3-43ec-b80a-b71014275f37"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
