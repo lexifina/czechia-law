@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:43.C.405.2020.1",
+  "docket": "43 C 405/2020-24",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6c6b41de-98b8-4d95-a981-f8a652d3a36b",
+  "source_sha256": "e644f29216f9ab1261c38440cbdeba48620b31b74a63e9ceef6c015fd647b41b",
+  "source_id": "6c6b41de-98b8-4d95-a981-f8a652d3a36b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "43 C 405/2020-24",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "Mgr. Monika Tupá",
+    "ecli": "ECLI:CZ:OSPH04:2021:43.C.405.2020.1",
+    "predmetRizeni": "O zaplacení 5 609,92 Kč s příslušenstvím",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-05-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6c6b41de-98b8-4d95-a981-f8a652d3a36b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
