@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Blansku",
+  "ecli": "ECLI:CZ:OSBK:2021:2.C.7.2021.1",
+  "docket": "2 C 7/2021-38",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8e454da1-4ef9-46c3-9007-d35cf3f100d9",
+  "source_sha256": "1b511aca6ecd88c1a5ceb60c289bebda733dd574d3d7630e1265de9453dfa971",
+  "source_id": "8e454da1-4ef9-46c3-9007-d35cf3f100d9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "2 C 7/2021-38",
+    "soud": "Okresní soud v Blansku",
+    "autor": "Mgr. Klára Cásková",
+    "ecli": "ECLI:CZ:OSBK:2021:2.C.7.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-03-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva příkazní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 2430 z. č. 89/2012 Sb.",
+      "§ 2463 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8e454da1-4ef9-46c3-9007-d35cf3f100d9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
