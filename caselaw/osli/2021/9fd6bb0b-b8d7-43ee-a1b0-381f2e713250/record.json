@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:23.C.374.2020.1",
+  "docket": "23 C 374/2020",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9fd6bb0b-b8d7-43ee-a1b0-381f2e713250",
+  "source_sha256": "c59f261b5cdbfdd2bebaa0009a43cb18b089608359cf9fbd62280b84f9625b5c",
+  "source_id": "9fd6bb0b-b8d7-43ee-a1b0-381f2e713250",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 374/2020",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Pavel Preisler, Ph.D.",
+    "ecli": "ECLI:CZ:OSLI:2021:23.C.374.2020.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 9.274,29 Kč s přísl.",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-05-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9fd6bb0b-b8d7-43ee-a1b0-381f2e713250"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
