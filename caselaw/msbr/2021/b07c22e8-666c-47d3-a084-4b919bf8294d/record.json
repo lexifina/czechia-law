@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:37.C.204.2020.1",
+  "docket": "37 C 204/2020-21",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b07c22e8-666c-47d3-a084-4b919bf8294d",
+  "source_sha256": "b37dc9989fe5bc2856b1b2617afd3d27852ed27c48f42d6b9c848805365fbc31",
+  "source_id": "b07c22e8-666c-47d3-a084-4b919bf8294d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "37 C 204/2020-21",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Stanislav Pulkrab",
+    "ecli": "ECLI:CZ:MSBR:2021:37.C.204.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-04-20",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b07c22e8-666c-47d3-a084-4b919bf8294d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
