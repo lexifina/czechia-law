@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:94.C.156.2020.1",
+  "docket": "94 C 156/2020-28",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e39465fb-cae1-4cc0-a97b-cb2211e891f1",
+  "source_sha256": "3fb7bc7de6ba3160d20c1969aaaf33367a9c9d41766fe3b946a7c808f4e531fd",
+  "source_id": "e39465fb-cae1-4cc0-a97b-cb2211e891f1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "94 C 156/2020-28",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Lucie Vymětalová",
+    "ecli": "ECLI:CZ:MSBR:2021:94.C.156.2020.1",
+    "predmetRizeni": "zaplacení 16.575 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-05-05",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "smlouva o vedení účtu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 251 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e39465fb-cae1-4cc0-a97b-cb2211e891f1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
