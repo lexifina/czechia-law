@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:28.C.355.2020.2",
+  "docket": "28 C 355/2020-17",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0ab95c29-9ad7-4d63-b628-34956c5bc38e",
+  "source_sha256": "b03ff4959cab46522d1b2506c6b5b2ef6dc69ec760c8537ad463e357cd0780f2",
+  "source_id": "0ab95c29-9ad7-4d63-b628-34956c5bc38e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 355/2020-17",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Šárka Houdková poláková",
+    "ecli": "ECLI:CZ:OSCV:2021:28.C.355.2020.2",
+    "predmetRizeni": "zaplacení 3 036 Kč s příslušenstvím (jízdné a přirážka k jízdnému)",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-04-29",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0ab95c29-9ad7-4d63-b628-34956c5bc38e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
