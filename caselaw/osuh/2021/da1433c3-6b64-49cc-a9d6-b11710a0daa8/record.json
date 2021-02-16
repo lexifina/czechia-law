@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Uherském Hradišti",
+  "ecli": "ECLI:CZ:OSUH:2021:6.C.263.2020.1",
+  "docket": "6 C 263/2020-41",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/da1433c3-6b64-49cc-a9d6-b11710a0daa8",
+  "source_sha256": "3c77c2b7b5083c8f028958766bfe29911a91969d9d0e09089d41c072eb9fb93a",
+  "source_id": "da1433c3-6b64-49cc-a9d6-b11710a0daa8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 263/2020-41",
+    "soud": "Okresní soud v Uherském Hradišti",
+    "autor": "Mgr. Eliška Zapletalová",
+    "ecli": "ECLI:CZ:OSUH:2021:6.C.263.2020.1",
+    "predmetRizeni": "10 000 Kč s příslušenstvím",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-10-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/da1433c3-6b64-49cc-a9d6-b11710a0daa8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
