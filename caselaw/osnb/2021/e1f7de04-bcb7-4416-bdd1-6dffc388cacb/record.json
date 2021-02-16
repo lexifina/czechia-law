@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Nymburce",
+  "ecli": "ECLI:CZ:OSNB:2021:10.C.205.2020.1",
+  "docket": "10 C 205/2020-16",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e1f7de04-bcb7-4416-bdd1-6dffc388cacb",
+  "source_sha256": "dc8753dc58dab4fb24c1c22e8d8bd9da9eab9d7c57d2e4b85c86da96e9e03702",
+  "source_id": "e1f7de04-bcb7-4416-bdd1-6dffc388cacb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 205/2020-16",
+    "soud": "Okresní soud v Nymburce",
+    "autor": "Mgr. Martina Kotouček mikolášková",
+    "ecli": "ECLI:CZ:OSNB:2021:10.C.205.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-03-03",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 23 z. č. 292/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e1f7de04-bcb7-4416-bdd1-6dffc388cacb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
