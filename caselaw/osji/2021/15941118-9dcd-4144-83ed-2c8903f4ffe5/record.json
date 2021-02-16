@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2021:18.C.227.2020.1",
+  "docket": "18 C 227/2020-18",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/15941118-9dcd-4144-83ed-2c8903f4ffe5",
+  "source_sha256": "4cd9ebd62121f368dfa20672461c59f278f52b23a393af33f303cc91c4a727ca",
+  "source_id": "15941118-9dcd-4144-83ed-2c8903f4ffe5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 227/2020-18",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "JUDr. Petra Pipková",
+    "ecli": "ECLI:CZ:OSJI:2021:18.C.227.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-04-07",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/15941118-9dcd-4144-83ed-2c8903f4ffe5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
