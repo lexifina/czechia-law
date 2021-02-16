@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:131.C.62.2020.3",
+  "docket": "131 C 62/2020-22",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9a21911d-2865-49b4-a903-31a8c493d7f9",
+  "source_sha256": "a79dc2921c8072f6782e9bba26aa96b120bf2a71b3b90c0dfc068fee1ffceda9",
+  "source_id": "9a21911d-2865-49b4-a903-31a8c493d7f9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "131 C 62/2020-22",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Jana Zonková",
+    "ecli": "ECLI:CZ:OSOV:2021:131.C.62.2020.3",
+    "predmetRizeni": "o 6 859 Kč s příslušenstvím",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-06-25",
+    "klicovaSlova": [
+      "porod",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9a21911d-2865-49b4-a903-31a8c493d7f9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
