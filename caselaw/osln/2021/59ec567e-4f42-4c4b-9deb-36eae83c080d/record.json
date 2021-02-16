@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2021:13.C.240.2020.1",
+  "docket": "13 C 240/2020-35",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/59ec567e-4f42-4c4b-9deb-36eae83c080d",
+  "source_sha256": "da3498341a2164fd7607e323ed2f05bfeac42ec3589643906c81e9e4aa37e5d1",
+  "source_id": "59ec567e-4f42-4c4b-9deb-36eae83c080d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 240/2020-35",
+    "soud": "Okresní soud v Lounech",
+    "autor": "Mgr. Jitka Svobodová",
+    "ecli": "ECLI:CZ:OSLN:2021:13.C.240.2020.1",
+    "predmetRizeni": "O zaplacení 3 919 Kč s příslušenstvím",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-08-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 24c z. č. 168/1999 Sb.",
+      "§ 1970 nař. vl. č. 89/2002 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/59ec567e-4f42-4c4b-9deb-36eae83c080d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
