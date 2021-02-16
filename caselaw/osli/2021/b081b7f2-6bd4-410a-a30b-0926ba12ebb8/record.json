@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:15.C.40.2019.1",
+  "docket": "15 C 40/2019-166",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b081b7f2-6bd4-410a-a30b-0926ba12ebb8",
+  "source_sha256": "3134b685f0ac2e6b2d3ef6189f70662ad38140105f218321c17ab6b1cabb6d14",
+  "source_id": "b081b7f2-6bd4-410a-a30b-0926ba12ebb8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 40/2019-166",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Roman Flanderka",
+    "ecli": "ECLI:CZ:OSLI:2021:15.C.40.2019.1",
+    "predmetRizeni": "zrušení a vypořádání podílového spoluvlastnictví",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-04-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "podílové spoluvlastnictví",
+      "přikázání věci",
+      "spoluvlastnictví",
+      "znalecký posudek",
+      "zrušení spoluvlastnictví"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1140 z. č. 89/2012 Sb.",
+      "§ 1144 z. č. 89/2012 Sb.",
+      "§ 1143 z. č. 89/2012 Sb.",
+      "§ 1147 z. č. 89/2012 Sb.",
+      "§ 1115 z. č. 89/2019 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b081b7f2-6bd4-410a-a30b-0926ba12ebb8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
