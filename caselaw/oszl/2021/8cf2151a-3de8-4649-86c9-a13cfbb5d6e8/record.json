@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2021:46.C.99.2020.1",
+  "docket": "46 C 99/2020-33",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8cf2151a-3de8-4649-86c9-a13cfbb5d6e8",
+  "source_sha256": "fcd928732f7cbda9e1729162e67c810658afc7f8f6bf7ef47c36f7a336357068",
+  "source_id": "8cf2151a-3de8-4649-86c9-a13cfbb5d6e8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "46 C 99/2020-33",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "Mgr. Tomáš Pavlíček",
+    "ecli": "ECLI:CZ:OSZL:2021:46.C.99.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-02-16",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 24 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8cf2151a-3de8-4649-86c9-a13cfbb5d6e8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
