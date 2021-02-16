@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:6.C.98.2019.1",
+  "docket": "6 C 98/2019-174",
+  "date": "2021-02-16",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0ee65570-29a1-462c-96b5-edf4d3478fda",
+  "source_sha256": "e6e69c2dece0cadb76b3fd1900391401e0bd1ab7688a1897534713a4e408cc99",
+  "source_id": "0ee65570-29a1-462c-96b5-edf4d3478fda",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 98/2019-174",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "Mgr. Olga Houžvičková",
+    "ecli": "ECLI:CZ:OSHO:2021:6.C.98.2019.1",
+    "predmetRizeni": "vypořádání společného jmění manželů",
+    "datumVydani": "2021-02-16",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozvod manželství",
+      "smlouva o úvěru",
+      "společné jmění manželů",
+      "vlastnictví bytů",
+      "vypořádání SJM",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 148 z. č. 99/1963 Sb.",
+      "§ 740 z. č. 89/2012 Sb.",
+      "§ 742 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0ee65570-29a1-462c-96b5-edf4d3478fda"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
