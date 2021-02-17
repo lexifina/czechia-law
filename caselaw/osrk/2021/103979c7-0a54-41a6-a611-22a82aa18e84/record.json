@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rychnově nad Kněžnou",
+  "ecli": "ECLI:CZ:OSRK:2021:9.C.104.2020.1",
+  "docket": "9 C 104/2020-32",
+  "date": "2021-02-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/103979c7-0a54-41a6-a611-22a82aa18e84",
+  "source_sha256": "1db0ed90d766ca5b9d80c80f7a0e04cb343753e7e3c8ceacc63faf09f5a50cce",
+  "source_id": "103979c7-0a54-41a6-a611-22a82aa18e84",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 104/2020-32",
+    "soud": "Okresní soud v Rychnově nad Kněžnou",
+    "autor": "Mgr. et Mgr. Lucie Hrůšová",
+    "ecli": "ECLI:CZ:OSRK:2021:9.C.104.2020.1",
+    "predmetRizeni": "o zaplacení 5.446,96 Kč s příslušenstvím",
+    "datumVydani": "2021-02-17",
+    "datumZverejneni": "2021-04-13",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 63 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/103979c7-0a54-41a6-a611-22a82aa18e84"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
