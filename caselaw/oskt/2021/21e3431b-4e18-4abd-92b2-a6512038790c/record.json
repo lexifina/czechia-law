@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2021:4.C.10.2021.1",
+  "docket": "4 C 10/2021-20",
+  "date": "2021-02-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/21e3431b-4e18-4abd-92b2-a6512038790c",
+  "source_sha256": "6782be01507c83614da8353860a3c68158961179e5a3776f1b945e4ab5686e17",
+  "source_id": "21e3431b-4e18-4abd-92b2-a6512038790c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 10/2021-20",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "Mgr. Alena Štětinová",
+    "ecli": "ECLI:CZ:OSKT:2021:4.C.10.2021.1",
+    "predmetRizeni": "zrušení vyživovací povinnosti",
+    "datumVydani": "2021-02-17",
+    "datumZverejneni": "2021-03-19",
+    "klicovaSlova": [
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 911 z. č. 89/2012 Sb.",
+      "§ 910 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/21e3431b-4e18-4abd-92b2-a6512038790c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
