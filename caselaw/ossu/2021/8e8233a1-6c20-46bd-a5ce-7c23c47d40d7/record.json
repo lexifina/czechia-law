@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2021:8.C.213.2020.1",
+  "docket": "8 C 213/2020-15",
+  "date": "2021-02-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8e8233a1-6c20-46bd-a5ce-7c23c47d40d7",
+  "source_sha256": "2af0f989fd97d1d4f318358e3e694ebc0fc06e01dd8bc81589ed92c20abe266f",
+  "source_id": "8e8233a1-6c20-46bd-a5ce-7c23c47d40d7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 213/2020-15",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "Mgr. Pavel Janků",
+    "ecli": "ECLI:CZ:OSSU:2021:8.C.213.2020.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2021-02-17",
+    "datumZverejneni": "2021-04-01",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 517 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8e8233a1-6c20-46bd-a5ce-7c23c47d40d7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
