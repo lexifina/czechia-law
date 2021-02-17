@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:6.C.20.2021.2",
+  "docket": "6 C 20/2021-17",
+  "date": "2021-02-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/111011ee-7452-4ba7-aeff-70c6606a25ab",
+  "source_sha256": "b409d0948f17e5efcb9c18125e6325329690147483097a0f3ac33172a652514f",
+  "source_id": "111011ee-7452-4ba7-aeff-70c6606a25ab",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 20/2021-17",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "Mgr. Jindřich Mařík",
+    "ecli": "ECLI:CZ:OSPB:2021:6.C.20.2021.2",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-17",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/111011ee-7452-4ba7-aeff-70c6606a25ab"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
