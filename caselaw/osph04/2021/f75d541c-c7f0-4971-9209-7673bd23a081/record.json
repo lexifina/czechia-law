@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:30.C.334.2020.1",
+  "docket": "30 C 334/2020-16",
+  "date": "2021-02-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f75d541c-c7f0-4971-9209-7673bd23a081",
+  "source_sha256": "1060a865d5121f4b6c09e6f28ceecbb95b6598cea2d4bbdc05c30efd86eff7b1",
+  "source_id": "f75d541c-c7f0-4971-9209-7673bd23a081",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 334/2020-16",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "JUDr. Iveta Nývltová, Ph.D.",
+    "ecli": "ECLI:CZ:OSPH04:2021:30.C.334.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-17",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 14 z. č. 328/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f75d541c-c7f0-4971-9209-7673bd23a081"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
