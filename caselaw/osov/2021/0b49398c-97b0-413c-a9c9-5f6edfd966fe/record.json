@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:16.C.353.2020.2",
+  "docket": "16 C 353/2020-22",
+  "date": "2021-02-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0b49398c-97b0-413c-a9c9-5f6edfd966fe",
+  "source_sha256": "8f5cfb6d640b37d49da27d58571d22afa8a377b08b8ea0593a7e3193e1354ed5",
+  "source_id": "0b49398c-97b0-413c-a9c9-5f6edfd966fe",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 353/2020-22",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Jitka Pěnkavová",
+    "ecli": "ECLI:CZ:OSOV:2021:16.C.353.2020.2",
+    "predmetRizeni": "o zaplacení [částka]",
+    "datumVydani": "2021-02-17",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0b49398c-97b0-413c-a9c9-5f6edfd966fe"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
