@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:9.C.156.2020.1",
+  "docket": "9 C 156/2020-125",
+  "date": "2021-02-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1520696b-e2d3-481c-85be-9bc465be5ce5",
+  "source_sha256": "a66f88d9868e18fd2cb9c32ad3b0e36f98470a6a1693809bbbd909b339eca2c3",
+  "source_id": "1520696b-e2d3-481c-85be-9bc465be5ce5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 156/2020-125",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "JUDr. Alice Havránková",
+    "ecli": "ECLI:CZ:OSPV:2021:9.C.156.2020.1",
+    "predmetRizeni": "žaloba na určení",
+    "datumVydani": "2021-02-17",
+    "datumZverejneni": "2021-04-26",
+    "klicovaSlova": [
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 872 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1520696b-e2d3-481c-85be-9bc465be5ce5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
