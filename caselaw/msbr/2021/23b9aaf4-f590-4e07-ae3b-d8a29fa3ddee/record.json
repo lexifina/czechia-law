@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:21.C.3.2021.1",
+  "docket": "21 C 3/2021-19",
+  "date": "2021-02-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/23b9aaf4-f590-4e07-ae3b-d8a29fa3ddee",
+  "source_sha256": "d9d098d3344751c2f583c6b16bcff5e99773de7d7025ee234452d937d33b3639",
+  "source_id": "23b9aaf4-f590-4e07-ae3b-d8a29fa3ddee",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 3/2021-19",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Hana Šťastná",
+    "ecli": "ECLI:CZ:MSBR:2021:21.C.3.2021.1",
+    "predmetRizeni": "zaplacení 4.000 Kč - smluvní pokuta",
+    "datumVydani": "2021-02-17",
+    "datumZverejneni": "2021-07-12",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§  z. č. 127/2005 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 1800 z. č. 89/2012 Sb.",
+      "§ 1798 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/23b9aaf4-f590-4e07-ae3b-d8a29fa3ddee"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
