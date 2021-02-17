@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:43.C.107.2020.1",
+  "docket": "43 C 107/2020",
+  "date": "2021-02-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d5d0f8b0-2b4b-4ce8-9d07-48e6e44303b6",
+  "source_sha256": "bdb48d1abe0d4f6a5c72b7405d4f532596c966d15241fbe88bf3ca93a11a00c5",
+  "source_id": "d5d0f8b0-2b4b-4ce8-9d07-48e6e44303b6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "43 C 107/2020",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "JUDr. Luděk Pilný",
+    "ecli": "ECLI:CZ:OSPH02:2021:43.C.107.2020.1",
+    "predmetRizeni": "O zaplacení 205 696,37 Kč s příslušenstvím",
+    "datumVydani": "2021-02-17",
+    "datumZverejneni": "2021-04-06",
+    "klicovaSlova": [
+      "majetková újma",
+      "odpovědnost státu za škodu",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 1 z. č. 82/1998 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d5d0f8b0-2b4b-4ce8-9d07-48e6e44303b6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
