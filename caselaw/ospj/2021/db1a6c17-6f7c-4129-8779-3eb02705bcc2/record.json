@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPJ:2021:25.C.408.2020.2",
+  "docket": "25 C 408/2020-30",
+  "date": "2021-02-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/db1a6c17-6f7c-4129-8779-3eb02705bcc2",
+  "source_sha256": "b73bd2bdec102a6311c5c89b15876570ba74e258baee27c3003a8d7292ee24f9",
+  "source_id": "db1a6c17-6f7c-4129-8779-3eb02705bcc2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 408/2020-30",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Jana Srpová",
+    "ecli": "ECLI:CZ:OSPJ:2021:25.C.408.2020.2",
+    "predmetRizeni": "6 698 Kč s přísl.",
+    "datumVydani": "2021-02-17",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "telekomunikace",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 51 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/db1a6c17-6f7c-4129-8779-3eb02705bcc2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
