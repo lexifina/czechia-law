@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kroměříži",
+  "ecli": "ECLI:CZ:OSKM:2021:6.C.193.2020.2",
+  "docket": "6 C 193/2020-29",
+  "date": "2021-02-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0c2756c4-ed2c-4d72-adbd-271c29f5d1aa",
+  "source_sha256": "fbd3794b25efd6c3e6dfca269c8446f1c03dec5dd7cfa63a5e61347d375ece2c",
+  "source_id": "0c2756c4-ed2c-4d72-adbd-271c29f5d1aa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 193/2020-29",
+    "soud": "Okresní soud v Kroměříži",
+    "autor": "JUDr. Ivan Jordán",
+    "ecli": "ECLI:CZ:OSKM:2021:6.C.193.2020.2",
+    "predmetRizeni": "zaplacení 2 000 Kč",
+    "datumVydani": "2021-02-17",
+    "datumZverejneni": "2021-05-17",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 175/2000 Sb.",
+      "§  z. č. 266/1994 Sb.",
+      "§  z. č. 111/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0c2756c4-ed2c-4d72-adbd-271c29f5d1aa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
