@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jeseníku",
+  "ecli": "ECLI:CZ:OSJE:2021:3.C.241.2020.1",
+  "docket": "3 C 241/2020-19",
+  "date": "2021-02-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b8cee133-3ab1-4457-85d7-b45dcbf5587a",
+  "source_sha256": "39672562b42016518e4fa587543c0f78175c339de1d18e6671c73036c66f9a16",
+  "source_id": "b8cee133-3ab1-4457-85d7-b45dcbf5587a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 241/2020-19",
+    "soud": "Okresní soud v Jeseníku",
+    "autor": "Mgr. Ing. David Novotný",
+    "ecli": "ECLI:CZ:OSJE:2021:3.C.241.2020.1",
+    "predmetRizeni": "1 855 Kč s příslušenstvím",
+    "datumVydani": "2021-02-17",
+    "datumZverejneni": "2021-05-05",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 2758 z. č. 168/1999 Sb.",
+      "§ 2758/1 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b8cee133-3ab1-4457-85d7-b45dcbf5587a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
