@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:16.C.133.2020.1",
+  "docket": "16 C 133/2020-22",
+  "date": "2021-02-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7a844fd6-ea78-4ca4-9978-875c0d076706",
+  "source_sha256": "1c5f2264af6773ed9052ce6e916a92d9d752e76d0849d146395b64f03ea465f8",
+  "source_id": "7a844fd6-ea78-4ca4-9978-875c0d076706",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 133/2020-22",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Ing. Miroslav Skala",
+    "ecli": "ECLI:CZ:OSPM:2021:16.C.133.2020.1",
+    "predmetRizeni": "o vyklizení bytu",
+    "datumVydani": "2021-02-17",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "vyklizení bytu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2291 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7a844fd6-ea78-4ca4-9978-875c0d076706"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
