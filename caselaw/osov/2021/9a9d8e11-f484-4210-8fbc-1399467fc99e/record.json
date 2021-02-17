@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:16.C.351.2020.3",
+  "docket": "16 C 351/2020-26",
+  "date": "2021-02-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9a9d8e11-f484-4210-8fbc-1399467fc99e",
+  "source_sha256": "a6f72dab925b4f9efa956497409f8e229220fd7bb29e3e1b981c9f44a84b8ed3",
+  "source_id": "9a9d8e11-f484-4210-8fbc-1399467fc99e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 351/2020-26",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "JUDr. Jitka Pěnkavová",
+    "ecli": "ECLI:CZ:OSOV:2021:16.C.351.2020.3",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-17",
+    "datumZverejneni": "2021-05-21",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 458/2000 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 153b z. č. 99/1963 Sb.",
+      "§  z. č. 133/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9a9d8e11-f484-4210-8fbc-1399467fc99e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
