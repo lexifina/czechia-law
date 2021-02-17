@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jeseníku",
+  "ecli": "ECLI:CZ:OSJE:2021:11.C.5.2021.1",
+  "docket": "11 C 5/2021-27",
+  "date": "2021-02-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/27c117a6-1d78-4cc3-af5c-cff099ccc269",
+  "source_sha256": "8dd66a0c49e6fdfacf151bd88659a02a851f4bffc83619df86c79aecf1b91297",
+  "source_id": "27c117a6-1d78-4cc3-af5c-cff099ccc269",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 5/2021-27",
+    "soud": "Okresní soud v Jeseníku",
+    "autor": "JUDr. Věra Procházková",
+    "ecli": "ECLI:CZ:OSJE:2021:11.C.5.2021.1",
+    "predmetRizeni": "5 269 Kč s příslušenstvím",
+    "datumVydani": "2021-02-17",
+    "datumZverejneni": "2021-06-10",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2758/1 z. č. 89/2012 Sb.",
+      "§ 2783/1,2 z. č. 89/2012 Sb.",
+      "§ 2782/1,2 z. č. 89/2012 Sb.",
+      "§ 2786/1,2 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/27c117a6-1d78-4cc3-af5c-cff099ccc269"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
