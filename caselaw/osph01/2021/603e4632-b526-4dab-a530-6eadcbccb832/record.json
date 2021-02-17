@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:39.C.208.2020.1",
+  "docket": "39 C 208/2020",
+  "date": "2021-02-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/603e4632-b526-4dab-a530-6eadcbccb832",
+  "source_sha256": "b4fcc9891bd4de977c56d5689d3fc615375693fcabb775af46bd3b9ab4afdf05",
+  "source_id": "603e4632-b526-4dab-a530-6eadcbccb832",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "39 C 208/2020",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "JUDr. Martina Tvrdková",
+    "ecli": "ECLI:CZ:OSPH01:2021:39.C.208.2020.1",
+    "predmetRizeni": "o zaplacení 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-02-17",
+    "datumZverejneni": "2021-05-17",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 49 vyhl. č. 175/2000 Sb.",
+      "§ 18a z. č. 266/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/603e4632-b526-4dab-a530-6eadcbccb832"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
