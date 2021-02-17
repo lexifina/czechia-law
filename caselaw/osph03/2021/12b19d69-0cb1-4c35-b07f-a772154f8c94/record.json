@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 3",
+  "ecli": "ECLI:CZ:OSPH03:2021:17.C.22.2021.1",
+  "docket": "17 C 22/2021-26",
+  "date": "2021-02-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/12b19d69-0cb1-4c35-b07f-a772154f8c94",
+  "source_sha256": "7935b85a2e473fb699f67aaf710f55897d61df5900bdd91568b7ac7f00b06c13",
+  "source_id": "12b19d69-0cb1-4c35-b07f-a772154f8c94",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 22/2021-26",
+    "soud": "Obvodní soud pro Prahu 3",
+    "autor": "JUDr. Markéta Písaříková, Ph.D.",
+    "ecli": "ECLI:CZ:OSPH03:2021:17.C.22.2021.1",
+    "predmetRizeni": "7 090 Kč s příslušenstvím",
+    "datumVydani": "2021-02-17",
+    "datumZverejneni": "2021-04-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 24c z. č. 168/1999 Sb.",
+      "§ 1970 nař. vl. č. 357/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/12b19d69-0cb1-4c35-b07f-a772154f8c94"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
