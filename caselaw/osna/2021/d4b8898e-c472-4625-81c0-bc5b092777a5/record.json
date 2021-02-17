@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:8.C.1.2021.1",
+  "docket": "8 C 1/2021-47",
+  "date": "2021-02-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d4b8898e-c472-4625-81c0-bc5b092777a5",
+  "source_sha256": "f72fe64d1b4f51f4499f4d674e16d13bdc37f5b58e93062719daae4c1ad07244",
+  "source_id": "d4b8898e-c472-4625-81c0-bc5b092777a5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 1/2021-47",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "Mgr. Milan Baudyš",
+    "ecli": "ECLI:CZ:OSNA:2021:8.C.1.2021.1",
+    "predmetRizeni": "O zaplacení 1 260 Kč s příslušenstvím (pojistné)",
+    "datumVydani": "2021-02-17",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2782 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d4b8898e-c472-4625-81c0-bc5b092777a5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
