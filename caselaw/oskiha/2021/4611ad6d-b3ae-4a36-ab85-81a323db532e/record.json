@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:109.C.427.2020.1",
+  "docket": "109 C 427/2020-46",
+  "date": "2021-02-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4611ad6d-b3ae-4a36-ab85-81a323db532e",
+  "source_sha256": "b972b7ea49db68e7576a0dbe7819b89751de526c9046e1b37e3cc5e3ccc24a29",
+  "source_id": "4611ad6d-b3ae-4a36-ab85-81a323db532e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "109 C 427/2020-46",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Michaela Bouhalika",
+    "ecli": "ECLI:CZ:OSKIHA:2021:109.C.427.2020.1",
+    "predmetRizeni": "5 000 Kč s příslušenstvím",
+    "datumVydani": "2021-02-17",
+    "datumZverejneni": "2021-04-14",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 142/1 z. č. 99/1963 Sb.",
+      "§ 118a/3 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4611ad6d-b3ae-4a36-ab85-81a323db532e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
