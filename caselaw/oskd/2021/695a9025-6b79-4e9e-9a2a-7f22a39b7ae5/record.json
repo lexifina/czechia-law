@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:209.C.229.2020.1",
+  "docket": "209 C 229/2020-40",
+  "date": "2021-02-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/695a9025-6b79-4e9e-9a2a-7f22a39b7ae5",
+  "source_sha256": "c5b86106cb4ce2b5f40ba9cb02d3a43acb7058b221850c4c644ea5b58729c56b",
+  "source_id": "695a9025-6b79-4e9e-9a2a-7f22a39b7ae5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "209 C 229/2020-40",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Alena Šustrová",
+    "ecli": "ECLI:CZ:OSKD:2021:209.C.229.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-17",
+    "datumZverejneni": "2021-03-19",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/695a9025-6b79-4e9e-9a2a-7f22a39b7ae5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
