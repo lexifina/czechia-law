@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:6.C.22.2021.1",
+  "docket": "6 C 22/2021-7",
+  "date": "2021-02-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b624c209-5ae8-479b-b268-171e10537f3e",
+  "source_sha256": "c1707113d0f0448a9504a34986ffc863a0b48e183acf7e1810cc797f24343169",
+  "source_id": "b624c209-5ae8-479b-b268-171e10537f3e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 22/2021-7",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "Mgr. Naděžda Vaňurová",
+    "ecli": "ECLI:CZ:OSTU:2021:6.C.22.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-17",
+    "datumZverejneni": "2021-05-25",
+    "klicovaSlova": [
+      "opilost",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b624c209-5ae8-479b-b268-171e10537f3e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
