@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:25.C.150.2020.1",
+  "docket": "25 C 150/2020-28",
+  "date": "2021-02-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6ece616f-52b6-48b9-8d25-170dc63a953d",
+  "source_sha256": "155f85f1f82bf448ccbbcc0155484387f2968e626efe53908c41e26b4dcb62e5",
+  "source_id": "6ece616f-52b6-48b9-8d25-170dc63a953d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 150/2020-28",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "JUDr. Jaroslava Lobotková",
+    "ecli": "ECLI:CZ:OSPH01:2021:25.C.150.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-17",
+    "datumZverejneni": "2021-08-19",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6ece616f-52b6-48b9-8d25-170dc63a953d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
