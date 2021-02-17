@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:5.C.178.2020.2",
+  "docket": "5 C 178/2020-17",
+  "date": "2021-02-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4b35a7d1-c189-447d-99ca-e39e2cdb3008",
+  "source_sha256": "878ab25426353cdb37871dc95af56232f573633b12ed2373b07dc7e00f557312",
+  "source_id": "4b35a7d1-c189-447d-99ca-e39e2cdb3008",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 178/2020-17",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "Mgr. Antonín Pektor",
+    "ecli": "ECLI:CZ:OSPS:2021:5.C.178.2020.2",
+    "predmetRizeni": "2 453 Kč s přísl.",
+    "datumVydani": "2021-02-17",
+    "datumZverejneni": "2021-05-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 513 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4b35a7d1-c189-447d-99ca-e39e2cdb3008"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
