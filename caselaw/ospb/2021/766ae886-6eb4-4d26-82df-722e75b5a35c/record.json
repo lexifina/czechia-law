@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:16.C.229.2018.11",
+  "docket": "16 C 229/2018-300",
+  "date": "2021-02-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/766ae886-6eb4-4d26-82df-722e75b5a35c",
+  "source_sha256": "57e5fe51e61ef394fcf5c562f53bd6b1e8e47eeae7b6ceb448486a7207a25752",
+  "source_id": "766ae886-6eb4-4d26-82df-722e75b5a35c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 229/2018-300",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Alice Kořínková",
+    "ecli": "ECLI:CZ:OSPB:2021:16.C.229.2018.11",
+    "predmetRizeni": "neplatnost veřejné dražby",
+    "datumVydani": "2021-02-17",
+    "datumZverejneni": "2021-09-10",
+    "klicovaSlova": [
+      "dražba",
+      "předkupní právo",
+      "veřejná dražba"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§  vyhl. č. 333/2018 Sb.",
+      "§ 9 vyhl. č. 177/1996 Sb.",
+      "§  vyhl. č. 589/2020 Sb.",
+      "§ 1124 z. č. 89/2012 Sb.",
+      "§ 295 z. č. 182/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/766ae886-6eb4-4d26-82df-722e75b5a35c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
