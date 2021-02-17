@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2021:23.C.208.2018.1",
+  "docket": "23 C 208/2018-101",
+  "date": "2021-02-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7e4f7e04-35ef-402e-a35b-fa142a2e7b1f",
+  "source_sha256": "e1fadfce55b79f243079da0fb435bf4b76143f23d33905d140676d3602a482e6",
+  "source_id": "7e4f7e04-35ef-402e-a35b-fa142a2e7b1f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 208/2018-101",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "Mgr. Michal Novotný",
+    "ecli": "ECLI:CZ:OSPH08:2021:23.C.208.2018.1",
+    "predmetRizeni": "o zapl. 157 314,60 Kč s přísl.",
+    "datumVydani": "2021-02-17",
+    "datumZverejneni": "2021-06-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu",
+      "příslušenství věci",
+      "ručení",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2951 z. č. 89/2012 Sb.",
+      "§ 626 z. č. 89/2012 Sb.",
+      "§ 635 z. č. 89/2012 Sb.",
+      "§ 510 z. č. 89/2012 Sb.",
+      "§ 2811 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7e4f7e04-35ef-402e-a35b-fa142a2e7b1f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
