@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2021:18.C.51.2021.1",
+  "docket": "18 C 51/2021-17",
+  "date": "2021-02-17",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fd31b360-8869-46d3-af27-b9fa04f15f84",
+  "source_sha256": "df6fe089cf93c2d4050b8b0821a5ccdacf430934ae9cbeb36ece91670432c81c",
+  "source_id": "fd31b360-8869-46d3-af27-b9fa04f15f84",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 51/2021-17",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "JUDr. Eva Němečková",
+    "ecli": "ECLI:CZ:OSPH09:2021:18.C.51.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-17",
+    "datumZverejneni": "2021-04-01",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2782 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fd31b360-8869-46d3-af27-b9fa04f15f84"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
