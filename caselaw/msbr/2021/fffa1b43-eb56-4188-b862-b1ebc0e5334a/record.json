@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:72.C.122.2019.1",
+  "docket": "72 C 122/2019-80",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fffa1b43-eb56-4188-b862-b1ebc0e5334a",
+  "source_sha256": "ce463c6e7bf4bd6749dabb04710fb25d5f610921be6f8ed66881ff1370e43ca2",
+  "source_id": "fffa1b43-eb56-4188-b862-b1ebc0e5334a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "72 C 122/2019-80",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Soňa Novotná",
+    "ecli": "ECLI:CZ:MSBR:2021:72.C.122.2019.1",
+    "predmetRizeni": "zaplacení 86.219 Kč s příslušenstvím ",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-09-10",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "nájem bytu",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 95 z. č. 99/1963 Sb.",
+      "§ 1 vyhl. č. 254/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fffa1b43-eb56-4188-b862-b1ebc0e5334a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
