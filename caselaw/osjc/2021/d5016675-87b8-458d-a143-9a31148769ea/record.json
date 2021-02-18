@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jičíně",
+  "ecli": "ECLI:CZ:OSJC:2021:11.C.1.2021.1",
+  "docket": "11 C 1/2021-98",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d5016675-87b8-458d-a143-9a31148769ea",
+  "source_sha256": "6264792c169111c3311d4a691fe21b76cc3bd18f260d1ea1441e707b00a705bf",
+  "source_id": "d5016675-87b8-458d-a143-9a31148769ea",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 1/2021-98",
+    "soud": "Okresní soud v Jičíně",
+    "autor": "Mgr. Tomáš Chrást",
+    "ecli": "ECLI:CZ:OSJC:2021:11.C.1.2021.1",
+    "predmetRizeni": "o 1 000 Kč s příslušenstvím",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-04-14",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 115 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d5016675-87b8-458d-a143-9a31148769ea"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
