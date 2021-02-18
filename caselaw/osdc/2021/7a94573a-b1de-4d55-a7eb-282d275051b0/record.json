@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:21.C.174.2020.1",
+  "docket": "21 C 174/2020-12",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7a94573a-b1de-4d55-a7eb-282d275051b0",
+  "source_sha256": "06e6f2b92ff25ef43a91b1627b45ea06f5e3632013eabdb9419b39936b7c4525",
+  "source_id": "7a94573a-b1de-4d55-a7eb-282d275051b0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 174/2020-12",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Bohdana Parýzková",
+    "ecli": "ECLI:CZ:OSDC:2021:21.C.174.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7a94573a-b1de-4d55-a7eb-282d275051b0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
