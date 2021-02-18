@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:55.C.8.2020.3",
+  "docket": "55 C 8/2020-217",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f38ccecf-b60e-4a51-9bdd-478fa499ec88",
+  "source_sha256": "85c1a178f1559cc0f44b9e49f7b0c42f0601f7ad1e4354e785908ca214e01f66",
+  "source_id": "f38ccecf-b60e-4a51-9bdd-478fa499ec88",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "55 C 8/2020-217",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "JUDr. Jana Slížková",
+    "ecli": "ECLI:CZ:OSNA:2021:55.C.8.2020.3",
+    "predmetRizeni": "",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-03-10",
+    "klicovaSlova": [
+      "náhrada škody",
+      "smír"
+    ],
+    "zminenaUstanoveni": [
+      "§ 99 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f38ccecf-b60e-4a51-9bdd-478fa499ec88"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
