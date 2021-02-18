@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:21.C.153.2020.1",
+  "docket": "21 C 153/2020-36",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1325dcfa-4720-443d-ad19-e9af1738de88",
+  "source_sha256": "fa1d47727d248d2b141d487a95f6d52d980e953ed61dcf2100a7ee73d10920ce",
+  "source_id": "1325dcfa-4720-443d-ad19-e9af1738de88",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 153/2020-36",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "Mgr. Veronika Lehnertová",
+    "ecli": "ECLI:CZ:OSTP:2021:21.C.153.2020.1",
+    "predmetRizeni": "náhrada škody a nemajetková újma v částce 34 329 Kč s příslušenstvím",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-04-28",
+    "klicovaSlova": [
+      "náhrada nemajetkové újmy",
+      "nemajetková újma",
+      "zadostiučinění / satisfakce",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 129 z. č. 99/1963 Sb.",
+      "§ 13 z. č. 82/1998 Sb.",
+      "§ 14 z. č. 82/1998 Sb.",
+      "§ 15 z. č. 82/1998 Sb.",
+      "§ 31a z. č. 82/1998 Sb.",
+      "§  z. č. 2/1993 Sb.",
+      "§ 228 z. č. 40/2009 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1325dcfa-4720-443d-ad19-e9af1738de88"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
