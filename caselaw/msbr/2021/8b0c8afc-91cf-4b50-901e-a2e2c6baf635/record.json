@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:29.C.178.2020.1",
+  "docket": "29 C 178/2020-52",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8b0c8afc-91cf-4b50-901e-a2e2c6baf635",
+  "source_sha256": "f1fb646ac00fbcc80b6a07a57ae776e1a1d6317cbf1dafcbad63e916a4788fbc",
+  "source_id": "8b0c8afc-91cf-4b50-901e-a2e2c6baf635",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 178/2020-52",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Romana Sobolová",
+    "ecli": "ECLI:CZ:MSBR:2021:29.C.178.2020.1",
+    "predmetRizeni": "zaplacení 10.049,42 Kč s příslušenstvím - debetní zůstatek",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 2 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8b0c8afc-91cf-4b50-901e-a2e2c6baf635"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
