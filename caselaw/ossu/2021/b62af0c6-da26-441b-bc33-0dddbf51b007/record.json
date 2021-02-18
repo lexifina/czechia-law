@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2021:7.C.124.2020.1",
+  "docket": "7 C 124/2020-25",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b62af0c6-da26-441b-bc33-0dddbf51b007",
+  "source_sha256": "3de2294d8f898fbb37ccc3943fd4016aa2c50c4a4f61cb9c9553d2588ba213e5",
+  "source_id": "b62af0c6-da26-441b-bc33-0dddbf51b007",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 124/2020-25",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "Mgr. Hana Langerová",
+    "ecli": "ECLI:CZ:OSSU:2021:7.C.124.2020.1",
+    "predmetRizeni": "o rozvod",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-03-17",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b62af0c6-da26-441b-bc33-0dddbf51b007"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
