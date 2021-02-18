@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:6.C.279.2019.1",
+  "docket": "6 C 279/2019-36",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0fcfce31-ab66-44e4-a578-006363c3898c",
+  "source_sha256": "ec77e2fff6bb36bfc3353127f3dc806b957099fbf0e401cef50ad375210baab0",
+  "source_id": "0fcfce31-ab66-44e4-a578-006363c3898c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 279/2019-36",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "Mgr. Tomáš Foltýn, Ph.D.",
+    "ecli": "ECLI:CZ:OSDO:2021:6.C.279.2019.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-04-17",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 14 z. č. 328/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0fcfce31-ab66-44e4-a578-006363c3898c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
