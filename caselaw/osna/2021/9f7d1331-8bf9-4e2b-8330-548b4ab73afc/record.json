@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:15.C.304.2020.1",
+  "docket": "15 C 304/2020-17",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9f7d1331-8bf9-4e2b-8330-548b4ab73afc",
+  "source_sha256": "63a8bf9b17c0d7cb8cdbe74eb97bdb88de66d08a4b45979cb8aacd4cd712f107",
+  "source_id": "9f7d1331-8bf9-4e2b-8330-548b4ab73afc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 304/2020-17",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "Mgr. Eva Drahorádová",
+    "ecli": "ECLI:CZ:OSNA:2021:15.C.304.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9f7d1331-8bf9-4e2b-8330-548b4ab73afc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
