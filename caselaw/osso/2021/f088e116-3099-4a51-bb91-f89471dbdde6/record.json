@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:33.C.11.2021.3",
+  "docket": "33 C 11/2021-21",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f088e116-3099-4a51-bb91-f89471dbdde6",
+  "source_sha256": "426f0cf45f56f90481c059fdb8f3e41b15b53b61c9dcb08c8755b0c3ca08b91b",
+  "source_id": "f088e116-3099-4a51-bb91-f89471dbdde6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "33 C 11/2021-21",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "Mgr. Radka Čepická",
+    "ecli": "ECLI:CZ:OSSO:2021:33.C.11.2021.3",
+    "predmetRizeni": "zaplacení 2 000 Kč",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-05-12",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 6 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f088e116-3099-4a51-bb91-f89471dbdde6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
