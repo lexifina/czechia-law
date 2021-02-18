@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2021:38.C.32.2021.2",
+  "docket": "38 C 32/2021-10",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cfd36948-a306-402e-971c-fbc459d99fb9",
+  "source_sha256": "fb051a47197816ac0313feaffc73d5f0b21533e60902c0bf8f60a2c49586041a",
+  "source_id": "cfd36948-a306-402e-971c-fbc459d99fb9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 32/2021-10",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "Mgr. Jiří Němec",
+    "ecli": "ECLI:CZ:OSZL:2021:38.C.32.2021.2",
+    "predmetRizeni": "rozvod",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-02-19",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cfd36948-a306-402e-971c-fbc459d99fb9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
