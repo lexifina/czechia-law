@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2021:19.C.257.2020.1",
+  "docket": "19 C 257/2020-21",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/41abd378-1db6-46e8-9acb-0d467aef0f5a",
+  "source_sha256": "e18919baea29563ea231805926b4133d95f1ab3b455eebb07dcf2ae672916dc5",
+  "source_id": "41abd378-1db6-46e8-9acb-0d467aef0f5a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 257/2020-21",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "Mgr. Pavel Dočkal",
+    "ecli": "ECLI:CZ:OSBU:2021:19.C.257.2020.1",
+    "predmetRizeni": "o zaplacení částky 1 205 Kč s příslušenstvím",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-05-31",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 251 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/41abd378-1db6-46e8-9acb-0d467aef0f5a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
