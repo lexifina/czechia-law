@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2021:27.C.329.2020.1",
+  "docket": "27 C 329/2020-35",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bd9ae080-0fea-4e33-8005-27ec45de839b",
+  "source_sha256": "ae99e020ce8999ba31435ed7c017954e4caa0cf0a6a1df065913cdfe403a7bef",
+  "source_id": "bd9ae080-0fea-4e33-8005-27ec45de839b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 329/2020-35",
+    "soud": "Okresní soud v Karviné",
+    "autor": "JUDr. Roman Hlaváč",
+    "ecli": "ECLI:CZ:OSKI:2021:27.C.329.2020.1",
+    "predmetRizeni": "2 301,31 Kč s příslušenstvím",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-03-20",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bd9ae080-0fea-4e33-8005-27ec45de839b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
