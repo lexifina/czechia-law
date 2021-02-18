@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:27.C.187.2020.1",
+  "docket": "27 C 187/2020-23",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/24c8e49e-6b56-4ef3-8324-89e54a9a7a08",
+  "source_sha256": "59fdb0568c6e08aab47300f31f128dfa894438f79ab91b0f696588aea6702b84",
+  "source_id": "24c8e49e-6b56-4ef3-8324-89e54a9a7a08",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 187/2020-23",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "Mgr. Radka Podlešáková",
+    "ecli": "ECLI:CZ:OSCB:2021:27.C.187.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-03-05",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/24c8e49e-6b56-4ef3-8324-89e54a9a7a08"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
