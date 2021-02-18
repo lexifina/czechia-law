@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPJ:2021:9.C.109.2020.5",
+  "docket": "9 C 109/2020-39",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/eb4a86a1-3fa5-460d-9d09-77a832e1ac7f",
+  "source_sha256": "1de1c98e799c0d645dda039d7b59954ca18d3391979a3b63a670032cf3f9ec52",
+  "source_id": "eb4a86a1-3fa5-460d-9d09-77a832e1ac7f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 109/2020-39",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Tereza Bušková",
+    "ecli": "ECLI:CZ:OSPJ:2021:9.C.109.2020.5",
+    "predmetRizeni": "1 060 Kč s přísl.",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-03-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14/1 nař. vl. č. 1215/2012 Sb.",
+      "§ 7/2 nař. vl. č. 593/2008 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/eb4a86a1-3fa5-460d-9d09-77a832e1ac7f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
