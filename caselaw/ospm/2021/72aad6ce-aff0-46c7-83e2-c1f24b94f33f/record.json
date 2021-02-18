@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:30.C.377.2020.1",
+  "docket": "30 C 377/2020-54",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/72aad6ce-aff0-46c7-83e2-c1f24b94f33f",
+  "source_sha256": "79bb536b964a898f00cc9a19f9252107ed226bc53f88bed9e959e2e5f4151121",
+  "source_id": "72aad6ce-aff0-46c7-83e2-c1f24b94f33f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 377/2020-54",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. David Kotrbatý",
+    "ecli": "ECLI:CZ:OSPM:2021:30.C.377.2020.1",
+    "predmetRizeni": "o zaplacení částky 66.855 Kč s přísl.",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-11-23",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/72aad6ce-aff0-46c7-83e2-c1f24b94f33f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
