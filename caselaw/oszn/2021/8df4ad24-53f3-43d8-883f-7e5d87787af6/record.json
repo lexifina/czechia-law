@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:12.C.325.2020.1",
+  "docket": "12 C 325/2020-67",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8df4ad24-53f3-43d8-883f-7e5d87787af6",
+  "source_sha256": "3b3ef137dd2d2ed408d30c6d3ea58cb24a8abe911f9ee91704be33f286164277",
+  "source_id": "8df4ad24-53f3-43d8-883f-7e5d87787af6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 325/2020-67",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "JUDr. Dana Hamzová",
+    "ecli": "ECLI:CZ:OSZN:2021:12.C.325.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8df4ad24-53f3-43d8-883f-7e5d87787af6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
