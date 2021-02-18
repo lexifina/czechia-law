@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:10.C.188.2019.1",
+  "docket": "10 C 188/2019-16",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9c642b2e-f534-45fb-bc7b-8448832ed541",
+  "source_sha256": "d519a9b5e4058e7533f454cfa1d68f83ce9335a40a1308db169d676a5bc9ce78",
+  "source_id": "9c642b2e-f534-45fb-bc7b-8448832ed541",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 188/2019-16",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Monika Špoková",
+    "ecli": "ECLI:CZ:OSFM:2021:10.C.188.2019.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-03-25",
+    "klicovaSlova": [
+      "církev",
+      "rozvod manželství",
+      "smlouva o právní pomoci"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 201 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9c642b2e-f534-45fb-bc7b-8448832ed541"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
