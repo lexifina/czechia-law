@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2021:59.C.11.2021.1",
+  "docket": "59 C 11/2021-12",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/19aaafec-eb8d-459c-980b-1487a9e9f991",
+  "source_sha256": "30178aa5c6df44b7756d7fc0e00302ae6762ba42b5a974a8513d24e7d551cb77",
+  "source_id": "19aaafec-eb8d-459c-980b-1487a9e9f991",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "59 C 11/2021-12",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "Mgr. Blanka Ježková",
+    "ecli": "ECLI:CZ:OSPH10:2021:59.C.11.2021.1",
+    "predmetRizeni": "1 976 Kč s příslušenstvím",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-04-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  z. č. 235/2004 Sb.",
+      "§ 13 z. č. 168/1999 Sb.",
+      "§ 153 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/19aaafec-eb8d-459c-980b-1487a9e9f991"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
