@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Písku",
+  "ecli": "ECLI:CZ:OSPI:2021:3.C.3.2021.1",
+  "docket": "3 C 3/2021-54",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c3dd642c-0b34-403a-8a35-ce8d71713aba",
+  "source_sha256": "a2f0d9267708b71f51cb48a71073d92ae045e7cf9c756c022e92876d0ce22c89",
+  "source_id": "c3dd642c-0b34-403a-8a35-ce8d71713aba",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 3/2021-54",
+    "soud": "Okresní soud v Písku",
+    "autor": "JUDr. Ondřej Mörtl",
+    "ecli": "ECLI:CZ:OSPI:2021:3.C.3.2021.1",
+    "predmetRizeni": "zaplacení 6 931,98 Kč s příslušenstvím",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-03-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o účtu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c3dd642c-0b34-403a-8a35-ce8d71713aba"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
