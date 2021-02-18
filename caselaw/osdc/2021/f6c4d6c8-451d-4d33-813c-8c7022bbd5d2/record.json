@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:13.C.71.2020.2",
+  "docket": "13 C 71/2020-46",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f6c4d6c8-451d-4d33-813c-8c7022bbd5d2",
+  "source_sha256": "2742cae1478bc297eb3bbd5a6a7e0dc503372f5e97631b8d7c307d0780fe9f3e",
+  "source_id": "f6c4d6c8-451d-4d33-813c-8c7022bbd5d2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 71/2020-46",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Jiří Gloc",
+    "ecli": "ECLI:CZ:OSDC:2021:13.C.71.2020.2",
+    "predmetRizeni": "O zaplacení [částka]",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f6c4d6c8-451d-4d33-813c-8c7022bbd5d2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
