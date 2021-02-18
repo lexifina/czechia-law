@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:9.C.215.2020.1",
+  "docket": "9 C 215/2020-20",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d70c24e0-3467-4977-bb75-d98f96bbfbe8",
+  "source_sha256": "e136b878aeae71629d09090753b5303b1103a7c6605081f2291f3a1517c85d73",
+  "source_id": "d70c24e0-3467-4977-bb75-d98f96bbfbe8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 215/2020-20",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Vlasta Cízlová",
+    "ecli": "ECLI:CZ:OSPB:2021:9.C.215.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-04-07",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d70c24e0-3467-4977-bb75-d98f96bbfbe8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
