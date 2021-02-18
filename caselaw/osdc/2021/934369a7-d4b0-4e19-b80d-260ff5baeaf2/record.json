@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:13.C.89.2020.2",
+  "docket": "13 C 89/2020-41",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/934369a7-d4b0-4e19-b80d-260ff5baeaf2",
+  "source_sha256": "45950dc4844943488c2d61ab3c545c8d7e61ccbd73a59c9651e1ab295dd7e537",
+  "source_id": "934369a7-d4b0-4e19-b80d-260ff5baeaf2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 89/2020-41",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Jiří Gloc",
+    "ecli": "ECLI:CZ:OSDC:2021:13.C.89.2020.2",
+    "predmetRizeni": "O zaplacení [částka]",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1724 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/934369a7-d4b0-4e19-b80d-260ff5baeaf2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
