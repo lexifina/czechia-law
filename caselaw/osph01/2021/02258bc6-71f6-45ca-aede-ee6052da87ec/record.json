@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:13.C.84.2020.1",
+  "docket": "13 C 84/2020-38",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/02258bc6-71f6-45ca-aede-ee6052da87ec",
+  "source_sha256": "93012e12da4400d84b167c523ef2e722b40e191fa1e564b427a143a260c1a467",
+  "source_id": "02258bc6-71f6-45ca-aede-ee6052da87ec",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 84/2020-38",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Petr Novák",
+    "ecli": "ECLI:CZ:OSPH01:2021:13.C.84.2020.1",
+    "predmetRizeni": "o zaplacení 1 565,99 Kč s příslušenstvím",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-08-18",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/02258bc6-71f6-45ca-aede-ee6052da87ec"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
