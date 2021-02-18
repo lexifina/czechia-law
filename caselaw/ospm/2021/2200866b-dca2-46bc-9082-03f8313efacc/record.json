@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:38.C.200.2020.1",
+  "docket": "38 C 200/2020",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2200866b-dca2-46bc-9082-03f8313efacc",
+  "source_sha256": "ee6467f0dd3054d3e3863419843b5acc30265739452118bf280996893cf2bb05",
+  "source_id": "2200866b-dca2-46bc-9082-03f8313efacc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 200/2020",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Alena Chaloupková",
+    "ecli": "ECLI:CZ:OSPM:2021:38.C.200.2020.1",
+    "predmetRizeni": "O zaplacení 5 187,60 Kč s příslušenstvím",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-04-23",
+    "klicovaSlova": [
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2200866b-dca2-46bc-9082-03f8313efacc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
