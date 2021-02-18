@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:11.C.117.2020.1",
+  "docket": "11 C 117/2020-60",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5a97878a-68ce-4909-975e-3fe66590244b",
+  "source_sha256": "811711b03b792e2c7b823b025510379d69fe3d7fc940f24f5903162aef8e867b",
+  "source_id": "5a97878a-68ce-4909-975e-3fe66590244b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 117/2020-60",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "JUDr. Markéta Vrzáčková",
+    "ecli": "ECLI:CZ:OSUL:2021:11.C.117.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-04-20",
+    "klicovaSlova": [
+      "bytové družstvo",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5a97878a-68ce-4909-975e-3fe66590244b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
