@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:110.C.368.2020.1",
+  "docket": "110 C 368/2020-48",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1a42fde8-4b62-4367-897e-34629b41c70f",
+  "source_sha256": "9aeb8cbe8b57ace264f081ca13d2e2991553d1cffec467b4bdcc21c8b078dc35",
+  "source_id": "1a42fde8-4b62-4367-897e-34629b41c70f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "110 C 368/2020-48",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Yvona Del favero",
+    "ecli": "ECLI:CZ:OSKIHA:2021:110.C.368.2020.1",
+    "predmetRizeni": "16 887 Kč s příslušenstvím",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-04-08",
+    "klicovaSlova": [
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 1882 z. č. 89/2012 Sb.",
+      "§ 526 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1a42fde8-4b62-4367-897e-34629b41c70f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
