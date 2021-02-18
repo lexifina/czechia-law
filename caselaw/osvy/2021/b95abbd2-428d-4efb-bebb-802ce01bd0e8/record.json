@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:7.C.205.2020.1",
+  "docket": "7 C 205/2020-41",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b95abbd2-428d-4efb-bebb-802ce01bd0e8",
+  "source_sha256": "62c9654b908ec9c61fbd14ffa148fe5c4a0ce0fce94f1242a280eecae97ee579",
+  "source_id": "b95abbd2-428d-4efb-bebb-802ce01bd0e8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 205/2020-41",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "JUDr. Ilona Láníková",
+    "ecli": "ECLI:CZ:OSVY:2021:7.C.205.2020.1",
+    "predmetRizeni": "zaplacení částky 81 577 Kč s příslušenstvím - faktura",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§  nař. vl. č. 351/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b95abbd2-428d-4efb-bebb-802ce01bd0e8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
