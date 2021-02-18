@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:14.C.3.2021.2",
+  "docket": "14 C 3/2021-10",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/801e2463-fbe3-4183-b754-46801633c563",
+  "source_sha256": "69b2c34ebb454297ba3e43aa071d8f26dcfbd044bb4743c44f5dc072825b4974",
+  "source_id": "801e2463-fbe3-4183-b754-46801633c563",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 3/2021-10",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Karel Štička",
+    "ecli": "ECLI:CZ:OSMO:2021:14.C.3.2021.2",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-02-19",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/801e2463-fbe3-4183-b754-46801633c563"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
