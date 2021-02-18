@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:29.C.250.2020.1",
+  "docket": "29 C 250/2020-22",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/72d8100d-f68b-4a31-aed1-b57e379156ea",
+  "source_sha256": "e4f85b2c93e5ff47c5a686987094774ff03901e0cf082f729248cd39a9367dc7",
+  "source_id": "72d8100d-f68b-4a31-aed1-b57e379156ea",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "29 C 250/2020-22",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Romana Sobolová",
+    "ecli": "ECLI:CZ:MSBR:2021:29.C.250.2020.1",
+    "predmetRizeni": "zaplacení 1.524 Kč s příslušenstvím - pokuta",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-04-23",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 175/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/72d8100d-f68b-4a31-aed1-b57e379156ea"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
