@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2021:10.C.234.2020.1",
+  "docket": "10 C 234/2020-30",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8cf15e43-bf04-4ad1-b55c-bb6f67c2fce0",
+  "source_sha256": "357e005d38d6fb251e385a77d9cc856e37f27d84c8723aeb4d0c8db3bee3cc31",
+  "source_id": "8cf15e43-bf04-4ad1-b55c-bb6f67c2fce0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 234/2020-30",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "JUDr. Pavel Vlach, Ph.D.",
+    "ecli": "ECLI:CZ:OSJN:2021:10.C.234.2020.1",
+    "predmetRizeni": "o zaplacení 55 500 Kč s příslušenstvím",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-04-14",
+    "klicovaSlova": [
+      "dohoda o rozvázání pracovního poměru",
+      "peněžité plnění",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/96 Sb.",
+      "§ 252 z. č. 262/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8cf15e43-bf04-4ad1-b55c-bb6f67c2fce0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
