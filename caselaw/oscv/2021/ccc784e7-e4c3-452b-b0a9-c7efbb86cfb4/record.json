@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:30.C.41.2020.2",
+  "docket": "30 C 41/2020-19",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ccc784e7-e4c3-452b-b0a9-c7efbb86cfb4",
+  "source_sha256": "5f81c9f875346c6c04fb5dfda2ca4703ecfa246cd21c0397cc821a546dde6a7c",
+  "source_id": "ccc784e7-e4c3-452b-b0a9-c7efbb86cfb4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 41/2020-19",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Hana Jakubcová",
+    "ecli": "ECLI:CZ:OSCV:2021:30.C.41.2020.2",
+    "predmetRizeni": "zaplacení 21 642,81 Kč s příslušenstvím (služby třetích stran)",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "prodlení věřitele",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 2 z. č. 127/2005 Sb.",
+      "§ 1 z. č. 89/2012 Sb.",
+      "§ 1939 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ccc784e7-e4c3-452b-b0a9-c7efbb86cfb4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
