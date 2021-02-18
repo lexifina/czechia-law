@@ -1,0 +1,47 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:14.C.396.2020.1",
+  "docket": "14 C 396/2020-19",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a3fcc5c7-a96b-47d4-97db-139f54daaccc",
+  "source_sha256": "751ccfd782af6c28a12f1e34f7b769567c49debb657dbb062617c5edf0069d0f",
+  "source_id": "a3fcc5c7-a96b-47d4-97db-139f54daaccc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 396/2020-19",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Vladimíra Fikkerová",
+    "ecli": "ECLI:CZ:OSKV:2021:14.C.396.2020.1",
+    "predmetRizeni": "33.482,17 Kč / úvěr",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-04-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o úvěru",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 1815 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 89/2012 Sb.",
+      "§ 1812 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 549/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a3fcc5c7-a96b-47d4-97db-139f54daaccc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
