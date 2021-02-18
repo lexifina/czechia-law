@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:40.C.34.2020.1",
+  "docket": "40 C 34/2020-72",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a2730fc0-f1fe-406a-baa5-4d70d04dd695",
+  "source_sha256": "1cff932dee277f6c6109bfd9a5532d0536cbc9c188de0d8d2d5cb157c1728438",
+  "source_id": "a2730fc0-f1fe-406a-baa5-4d70d04dd695",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "40 C 34/2020-72",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Kateřina Kozáková",
+    "ecli": "ECLI:CZ:OSPH01:2021:40.C.34.2020.1",
+    "predmetRizeni": "o zaplacení 84 162 Kč s příslušenstvím",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-08-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o dílo",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2586 z. č. 89/2012 Sb.",
+      "§ 2054 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a2730fc0-f1fe-406a-baa5-4d70d04dd695"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
