@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:18.C.341.2020.2",
+  "docket": "18 C 341/2020-15",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/eaf15efd-28f9-4771-8f60-f2ef48335873",
+  "source_sha256": "31801fe8d95ceb28b8d4e2d490eb29af70d7605a5d33f85d87c0ea5c241ce1ef",
+  "source_id": "eaf15efd-28f9-4771-8f60-f2ef48335873",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 341/2020-15",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Eva Hermanová",
+    "ecli": "ECLI:CZ:OSCV:2021:18.C.341.2020.2",
+    "predmetRizeni": "zaplacení 1 045 Kč s příslušenstvím (pojistné)",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/eaf15efd-28f9-4771-8f60-f2ef48335873"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
