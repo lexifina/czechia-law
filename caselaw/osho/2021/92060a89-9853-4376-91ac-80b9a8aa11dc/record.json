@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:16.C.121.2019.1",
+  "docket": "16 C 121/2019-78",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/92060a89-9853-4376-91ac-80b9a8aa11dc",
+  "source_sha256": "b163c51a2b427556cffb440eaa8596589bb18dae080dda92ef9711869cb9297d",
+  "source_id": "92060a89-9853-4376-91ac-80b9a8aa11dc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 121/2019-78",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "Mgr. Roman Smetka",
+    "ecli": "ECLI:CZ:OSHO:2021:16.C.121.2019.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-09-29",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 395 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/92060a89-9853-4376-91ac-80b9a8aa11dc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
