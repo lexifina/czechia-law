@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:21.C.284.2020.1",
+  "docket": "21 C 284/2020-55",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8199094f-4ee1-4828-b6c3-35ee808743d9",
+  "source_sha256": "734c36e9d18e06686ce7fd705ac2ac847fd7708e51fcb86bed90d95a2b7e87f0",
+  "source_id": "8199094f-4ee1-4828-b6c3-35ee808743d9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 284/2020-55",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "Mgr. Veronika Lehnertová",
+    "ecli": "ECLI:CZ:OSTP:2021:21.C.284.2020.1",
+    "predmetRizeni": "zaplacení 2 000 Kč",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-03-31",
+    "klicovaSlova": [
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§  z. č. 127/2005 Sb.",
+      "§ 2201 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8199094f-4ee1-4828-b6c3-35ee808743d9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
