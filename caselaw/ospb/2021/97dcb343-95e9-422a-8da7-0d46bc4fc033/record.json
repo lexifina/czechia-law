@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:10.C.17.2021.1",
+  "docket": "10 C 17/2021-56",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/97dcb343-95e9-422a-8da7-0d46bc4fc033",
+  "source_sha256": "7a3c98e63481b0483cb8680cde87e84952924ef7dfc689ba563ba04f30978247",
+  "source_id": "97dcb343-95e9-422a-8da7-0d46bc4fc033",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 17/2021-56",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "Mgr. Lucie Petráková",
+    "ecli": "ECLI:CZ:OSPB:2021:10.C.17.2021.1",
+    "predmetRizeni": "zaplacení 10 000 Kč s příslušenstvím",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-04-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1 z. č. 91/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/97dcb343-95e9-422a-8da7-0d46bc4fc033"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
