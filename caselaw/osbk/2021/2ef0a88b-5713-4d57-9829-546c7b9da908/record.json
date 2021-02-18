@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Blansku",
+  "ecli": "ECLI:CZ:OSBK:2021:11.C.338.2020.1",
+  "docket": "11 C 338/2020-32",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2ef0a88b-5713-4d57-9829-546c7b9da908",
+  "source_sha256": "81315dcb9dacb6ba665b827587bdb00d296d140fce1c27e3ea4bb966897acfed",
+  "source_id": "2ef0a88b-5713-4d57-9829-546c7b9da908",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 338/2020-32",
+    "soud": "Okresní soud v Blansku",
+    "autor": "JUDr. Tereza Richterová",
+    "ecli": "ECLI:CZ:OSBK:2021:11.C.338.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-03-09",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění",
+      "pozemní komunikace"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 19a z. č. 13/1997 Sb.",
+      "§ 9 z. č. 13/1997 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2ef0a88b-5713-4d57-9829-546c7b9da908"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
