@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jeseníku",
+  "ecli": "ECLI:CZ:OSJE:2021:10.C.99.2020.1",
+  "docket": "10 C 99/2020-21",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6b7d95cc-eaf5-4210-9ee2-bf0c0c4dd562",
+  "source_sha256": "e840518fc458e901ab7752a65f975a9d13adfbf1af6a56b487fa0e4faa0a014b",
+  "source_id": "6b7d95cc-eaf5-4210-9ee2-bf0c0c4dd562",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 99/2020-21",
+    "soud": "Okresní soud v Jeseníku",
+    "autor": "Mgr. Jana Reslová",
+    "ecli": "ECLI:CZ:OSJE:2021:10.C.99.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-03-12",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6b7d95cc-eaf5-4210-9ee2-bf0c0c4dd562"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
