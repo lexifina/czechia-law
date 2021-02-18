@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:14.C.31.2021.1",
+  "docket": "14 C 31/2021-36",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0c315a25-3b55-4a42-8b6b-7add67e742a6",
+  "source_sha256": "791c71e2322193fef0ed63347a00c596fb6610fb2da1e6e787221b308f25e5fd",
+  "source_id": "0c315a25-3b55-4a42-8b6b-7add67e742a6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 31/2021-36",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Josef Pelcner",
+    "ecli": "ECLI:CZ:OSPB:2021:14.C.31.2021.1",
+    "predmetRizeni": "zaplacení 4 572 Kč s příslušenstvím",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 1968, 1970 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0c315a25-3b55-4a42-8b6b-7add67e742a6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
