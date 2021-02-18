@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2021:7.C.399.2018.1",
+  "docket": "7 C 399/2018",
+  "date": "2021-02-18",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/60b94067-7f89-4555-98a0-acdb714f0172",
+  "source_sha256": "bc53097dbccbc09c43fcb075ea8b01f1bf83aa32fed5903f8f331a0908c4d856",
+  "source_id": "60b94067-7f89-4555-98a0-acdb714f0172",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 399/2018",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "JUDr. Blanka Rejšková",
+    "ecli": "ECLI:CZ:OSPZ:2021:7.C.399.2018.1",
+    "predmetRizeni": "Návrh manžela na rozvod manželství",
+    "datumVydani": "2021-02-18",
+    "datumZverejneni": "2021-04-30",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/60b94067-7f89-4555-98a0-acdb714f0172"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
