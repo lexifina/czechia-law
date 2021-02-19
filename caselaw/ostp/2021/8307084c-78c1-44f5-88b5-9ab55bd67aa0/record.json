@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:11.C.313.2020.1",
+  "docket": "11 C 313/2020-31",
+  "date": "2021-02-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8307084c-78c1-44f5-88b5-9ab55bd67aa0",
+  "source_sha256": "f4aa8435d14a9e60306f5928bff5ee3a481823c2755d75dff5c2579dfaa851a9",
+  "source_id": "8307084c-78c1-44f5-88b5-9ab55bd67aa0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 313/2020-31",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "Milan Virag",
+    "ecli": "ECLI:CZ:OSTP:2021:11.C.313.2020.1",
+    "predmetRizeni": "zaplacení 4 965,22 Kč",
+    "datumVydani": "2021-02-19",
+    "datumZverejneni": "2021-03-27",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 14 vyhl. č. 120/2014 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8307084c-78c1-44f5-88b5-9ab55bd67aa0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
