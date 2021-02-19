@@ -1,0 +1,31 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:10.C.62.2021.1",
+  "docket": "10 C 62/2021-15",
+  "date": "2021-02-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ca4ec507-4ad1-472d-83fb-429ce01d770f",
+  "source_sha256": "b979b0b8de96585f2c03697c3e6351f8abdefc0932ec90a54befac9859bfac6f",
+  "source_id": "ca4ec507-4ad1-472d-83fb-429ce01d770f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 62/2021-15",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "Mgr. Michaela Balcar",
+    "ecli": "ECLI:CZ:OSNA:2021:10.C.62.2021.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-02-19",
+    "datumZverejneni": "2021-04-07",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 169 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ca4ec507-4ad1-472d-83fb-429ce01d770f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
