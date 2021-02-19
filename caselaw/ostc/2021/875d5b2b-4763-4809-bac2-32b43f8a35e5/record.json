@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Tachově",
+  "ecli": "ECLI:CZ:OSTC:2021:4.C.22.2021.1",
+  "docket": "4 C 22/2021-23",
+  "date": "2021-02-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/875d5b2b-4763-4809-bac2-32b43f8a35e5",
+  "source_sha256": "32150139f393807eb106b9d3c2f79473830bbe79a716308d29480bd3c02a695d",
+  "source_id": "875d5b2b-4763-4809-bac2-32b43f8a35e5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 22/2021-23",
+    "soud": "Okresní soud v Tachově",
+    "autor": "Mgr. Kateřina Edlová",
+    "ecli": "ECLI:CZ:OSTC:2021:4.C.22.2021.1",
+    "predmetRizeni": "O zaplacení 6 400 Kč s příslušenstvím",
+    "datumVydani": "2021-02-19",
+    "datumZverejneni": "2021-04-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 120 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/875d5b2b-4763-4809-bac2-32b43f8a35e5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
