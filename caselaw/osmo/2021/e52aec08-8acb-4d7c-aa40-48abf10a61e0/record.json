@@ -1,0 +1,47 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:48.C.154.2020.1",
+  "docket": "48 C 154/2020-55",
+  "date": "2021-02-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e52aec08-8acb-4d7c-aa40-48abf10a61e0",
+  "source_sha256": "93d373fa70f4f2855abf230aade4d4ac200879a141c0bd933cf8eb071ac99106",
+  "source_id": "e52aec08-8acb-4d7c-aa40-48abf10a61e0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "48 C 154/2020-55",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Daniel Nevečeřal",
+    "ecli": "ECLI:CZ:OSMO:2021:48.C.154.2020.1",
+    "predmetRizeni": "14 590 Kč s příslušenstvím",
+    "datumVydani": "2021-02-19",
+    "datumZverejneni": "2021-04-23",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva nájemní",
+      "smlouva o úvěru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§  z. č. 110/2006 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e52aec08-8acb-4d7c-aa40-48abf10a61e0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
