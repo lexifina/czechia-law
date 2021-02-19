@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:39.C.161.2020.1",
+  "docket": "39 C 161/2020-28",
+  "date": "2021-02-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/930c1f68-37f5-4201-ae40-5918ccd935d1",
+  "source_sha256": "77626d0fb8d5e3eb8c22749a2a15b1d7e63908d7e40f078111e1525e84632830",
+  "source_id": "930c1f68-37f5-4201-ae40-5918ccd935d1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "39 C 161/2020-28",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Václav Rozmahel",
+    "ecli": "ECLI:CZ:MSBR:2021:39.C.161.2020.1",
+    "predmetRizeni": "zaplacení 11.710 Kč s příslušenstvím - příspěvek za nepojištěné vozidlo",
+    "datumVydani": "2021-02-19",
+    "datumZverejneni": "2021-04-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2 vyhl. č. 205/1999 Sb.",
+      "§ 2a vyhl. č. 205/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/930c1f68-37f5-4201-ae40-5918ccd935d1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
