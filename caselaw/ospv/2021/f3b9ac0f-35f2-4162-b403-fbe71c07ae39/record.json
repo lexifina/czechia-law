@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:14.C.337.2020.1",
+  "docket": "14 C 337/2020",
+  "date": "2021-02-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f3b9ac0f-35f2-4162-b403-fbe71c07ae39",
+  "source_sha256": "4840ffcc4c2401fe5c5e5de4a0a7d39861fa4f258c40383ec6de6ea11b91afbc",
+  "source_id": "f3b9ac0f-35f2-4162-b403-fbe71c07ae39",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 337/2020",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "JUDr. Ivan Šišma",
+    "ecli": "ECLI:CZ:OSPV:2021:14.C.337.2020.1",
+    "predmetRizeni": "o 23.340 Kč s příslušenstvím",
+    "datumVydani": "2021-02-19",
+    "datumZverejneni": "2021-04-15",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f3b9ac0f-35f2-4162-b403-fbe71c07ae39"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
