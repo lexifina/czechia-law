@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:23.C.142.2020.2",
+  "docket": "23 C 142/2020-53",
+  "date": "2021-02-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/858dfdf2-0bd6-4d10-a34c-35d782c6e67b",
+  "source_sha256": "df4d3e2d7adf520c9b9a12664c12722253a8b474a7fbac580159f7693177dd88",
+  "source_id": "858dfdf2-0bd6-4d10-a34c-35d782c6e67b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 142/2020-53",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "JUDr. Lukáš Kratochvíl",
+    "ecli": "ECLI:CZ:OSPU:2021:23.C.142.2020.2",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-19",
+    "datumZverejneni": "2021-08-10",
+    "klicovaSlova": [
+      "podnájem",
+      "rozvod manželství",
+      "svědečné",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 148 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/858dfdf2-0bd6-4d10-a34c-35d782c6e67b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
