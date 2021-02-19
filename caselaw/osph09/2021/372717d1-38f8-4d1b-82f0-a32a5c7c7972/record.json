@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2021:18.C.173.2019.1",
+  "docket": "18 C 173/2019-81",
+  "date": "2021-02-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/372717d1-38f8-4d1b-82f0-a32a5c7c7972",
+  "source_sha256": "8fd9e2531cc117a2443dd27e74017117dfcf407cdc7e12e9cdca1555715ced42",
+  "source_id": "372717d1-38f8-4d1b-82f0-a32a5c7c7972",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 173/2019-81",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "JUDr. Eva Němečková",
+    "ecli": "ECLI:CZ:OSPH09:2021:18.C.173.2019.1",
+    "predmetRizeni": "Žaloba o vypořádání společného jmění manželů",
+    "datumVydani": "2021-02-19",
+    "datumZverejneni": "2021-04-20",
+    "klicovaSlova": [
+      "jmění",
+      "peněžité plnění",
+      "podílové spoluvlastnictví",
+      "rozvod manželství",
+      "smlouva o úvěru",
+      "společné jmění manželů",
+      "spoluvlastnictví",
+      "vypořádání SJM"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 740 z. č. 89/2012 Sb.",
+      "§ 742 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/372717d1-38f8-4d1b-82f0-a32a5c7c7972"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
