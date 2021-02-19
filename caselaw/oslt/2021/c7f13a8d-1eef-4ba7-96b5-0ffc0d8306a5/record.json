@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Litoměřicích",
+  "ecli": "ECLI:CZ:OSLT:2021:8.C.246.2020.1",
+  "docket": "8 C 246/2020-27",
+  "date": "2021-02-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c7f13a8d-1eef-4ba7-96b5-0ffc0d8306a5",
+  "source_sha256": "80c590c758a747f14fa68600081d21c43d09dd0d4be44dd5f32875f168b071d8",
+  "source_id": "c7f13a8d-1eef-4ba7-96b5-0ffc0d8306a5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 246/2020-27",
+    "soud": "Okresní soud v Litoměřicích",
+    "autor": "JUDr. Karolína Kudláčková řezáčová",
+    "ecli": "ECLI:CZ:OSLT:2021:8.C.246.2020.1",
+    "predmetRizeni": "O zaplacení 2 794 Kč s příslušenstvím",
+    "datumVydani": "2021-02-19",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 2a vyhl. č. 205/1999 Sb.",
+      "§ 157 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c7f13a8d-1eef-4ba7-96b5-0ffc0d8306a5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
