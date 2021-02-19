@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Trutnově",
+  "ecli": "ECLI:CZ:OSTU:2021:109.C.41.2020.1",
+  "docket": "109 C 41/2020-29",
+  "date": "2021-02-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/72fa4b11-1f69-4407-b079-e2235e19a663",
+  "source_sha256": "06bbd87a35723a1ea8f26169b0da23086fbfc3db281cfc16c4b78f4ca392d060",
+  "source_id": "72fa4b11-1f69-4407-b079-e2235e19a663",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "109 C 41/2020-29",
+    "soud": "Okresní soud v Trutnově",
+    "autor": "JUDr. Tomáš Suchánek",
+    "ecli": "ECLI:CZ:OSTU:2021:109.C.41.2020.1",
+    "predmetRizeni": "13.000 Kč s přísl. - el. komunikace",
+    "datumVydani": "2021-02-19",
+    "datumZverejneni": "2021-04-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "zajištění závazku"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/72fa4b11-1f69-4407-b079-e2235e19a663"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
