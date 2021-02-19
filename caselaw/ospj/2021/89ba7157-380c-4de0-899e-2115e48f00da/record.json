@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPJ:2021:10.C.189.2020.3",
+  "docket": "10 C 189/2020-36",
+  "date": "2021-02-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/89ba7157-380c-4de0-899e-2115e48f00da",
+  "source_sha256": "1ccefece2629915da1bb4ee03e7e1aaa078cee73865d0ce065c62f0766de8b0c",
+  "source_id": "89ba7157-380c-4de0-899e-2115e48f00da",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 189/2020-36",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Blanka Šibrová",
+    "ecli": "ECLI:CZ:OSPJ:2021:10.C.189.2020.3",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-19",
+    "datumZverejneni": "2021-03-18",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/89ba7157-380c-4de0-899e-2115e48f00da"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
