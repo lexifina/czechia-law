@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně",
+  "ecli": "ECLI:CZ:OSVS:2021:110.C.13.2020.1",
+  "docket": "110 C 13/2020-45",
+  "date": "2021-02-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3028fb6c-5d55-43d3-8cf0-45543a0a9ec9",
+  "source_sha256": "8c180c6f263dc4db2859dd1ba600355403527c1ae3acd3f4631f939dff7ccf38",
+  "source_id": "3028fb6c-5d55-43d3-8cf0-45543a0a9ec9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "110 C 13/2020-45",
+    "soud": "Okresní soud ve Vsetíně",
+    "autor": "JUDr. Michal Halamíček",
+    "ecli": "ECLI:CZ:OSVS:2021:110.C.13.2020.1",
+    "predmetRizeni": "žaloba s návrhem na vydání platebního rozkazu o zaplacení částky 13 960,00 Kč s příslušenstvím",
+    "datumVydani": "2021-02-19",
+    "datumZverejneni": "2021-04-27",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "nebytový prostor",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 173 z. č. 99/1963 Sb.",
+      "§ 2302 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3028fb6c-5d55-43d3-8cf0-45543a0a9ec9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
