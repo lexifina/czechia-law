@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2021:38.C.48.2020.1",
+  "docket": "38 C 48/2020-22",
+  "date": "2021-02-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e137eaa7-fd0a-4729-8ef1-d1f936dc606c",
+  "source_sha256": "05c6eb0acffc5180c375d76bdbcae800daa2f8761baec69df8467135bb4e7e84",
+  "source_id": "e137eaa7-fd0a-4729-8ef1-d1f936dc606c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 48/2020-22",
+    "soud": "Okresní soud v Opavě",
+    "autor": "JUDr. Miloš Světlík",
+    "ecli": "ECLI:CZ:OSOP:2021:38.C.48.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-19",
+    "datumZverejneni": "2021-03-05",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§  z. č. 0/0 Sb.",
+      "§ 395 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e137eaa7-fd0a-4729-8ef1-d1f936dc606c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
