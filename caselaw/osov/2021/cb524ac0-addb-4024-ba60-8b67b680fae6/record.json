@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:63.C.403.2020.1",
+  "docket": "63 C 403/2020-24",
+  "date": "2021-02-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cb524ac0-addb-4024-ba60-8b67b680fae6",
+  "source_sha256": "98e749272ba9a1019dd7b07aa0fcd3c091b888ebeb0a312eba500421fcb89bbe",
+  "source_id": "cb524ac0-addb-4024-ba60-8b67b680fae6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "63 C 403/2020-24",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Pavel Kučera",
+    "ecli": "ECLI:CZ:OSOV:2021:63.C.403.2020.1",
+    "predmetRizeni": "o zaplacení 2 000 Kč",
+    "datumVydani": "2021-02-19",
+    "datumZverejneni": "2021-08-06",
+    "klicovaSlova": [
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 580 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cb524ac0-addb-4024-ba60-8b67b680fae6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
