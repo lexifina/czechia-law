@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2021:5.C.12.2021.1",
+  "docket": "5 C 12/2021-20",
+  "date": "2021-02-19",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4e0dd28c-901a-4fac-a20e-02a14737b670",
+  "source_sha256": "f7efbd5d7664710977e48c64434eec80649181329b684a7749ec0d36244f30d9",
+  "source_id": "4e0dd28c-901a-4fac-a20e-02a14737b670",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 12/2021-20",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "Mgr. Jan Věženský",
+    "ecli": "ECLI:CZ:OSJN:2021:5.C.12.2021.1",
+    "predmetRizeni": "o zaplacení 1 632 Kč s příslušenstvím",
+    "datumVydani": "2021-02-19",
+    "datumZverejneni": "2021-03-22",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4e0dd28c-901a-4fac-a20e-02a14737b670"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
