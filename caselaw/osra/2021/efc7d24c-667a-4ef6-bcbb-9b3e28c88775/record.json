@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rakovníku",
+  "ecli": "ECLI:CZ:OSRA:2021:5.C.148.2020.1",
+  "docket": "5 C 148/2020-37",
+  "date": "2021-02-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/efc7d24c-667a-4ef6-bcbb-9b3e28c88775",
+  "source_sha256": "71696812bde41742ad47e2da6645517bc3a665d8eb99802e4d55c94b5822ade7",
+  "source_id": "efc7d24c-667a-4ef6-bcbb-9b3e28c88775",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 148/2020-37",
+    "soud": "Okresní soud v Rakovníku",
+    "autor": "Mgr. Barbora Kučerová",
+    "ecli": "ECLI:CZ:OSRA:2021:5.C.148.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-22",
+    "datumZverejneni": "2021-08-03",
+    "klicovaSlova": [
+      "oddělené bydlení",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/efc7d24c-667a-4ef6-bcbb-9b3e28c88775"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
