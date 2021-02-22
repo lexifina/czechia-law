@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:13.C.3.2021.1",
+  "docket": "13 C 3/2021-48",
+  "date": "2021-02-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/37ab2b33-d2c8-4b8b-80d9-a6bcfad732db",
+  "source_sha256": "c71ce3293fa800b0fc5cd1c63ab952e31a47987777155fe006cee25fc27de7e6",
+  "source_id": "37ab2b33-d2c8-4b8b-80d9-a6bcfad732db",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 3/2021-48",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "JUDr. Kateřina Melková",
+    "ecli": "ECLI:CZ:OSPH06:2021:13.C.3.2021.1",
+    "predmetRizeni": "o zaplacení částky 8 395,99 Kč s příslušenstvím",
+    "datumVydani": "2021-02-22",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§  z. č. 257/2016 Sb.",
+      "§ 157 z. č. 99/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/37ab2b33-d2c8-4b8b-80d9-a6bcfad732db"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
