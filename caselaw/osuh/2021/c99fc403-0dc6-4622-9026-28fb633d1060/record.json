@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Uherském Hradišti",
+  "ecli": "ECLI:CZ:OSUH:2021:3.C.292.2020.1",
+  "docket": "3 C 292/2020-37",
+  "date": "2021-02-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c99fc403-0dc6-4622-9026-28fb633d1060",
+  "source_sha256": "1aa3c6a1c045a1ef7f6563e7b84f1ed6ea7de7d7e405defb9cdfdb58f47f47f1",
+  "source_id": "c99fc403-0dc6-4622-9026-28fb633d1060",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 292/2020-37",
+    "soud": "Okresní soud v Uherském Hradišti",
+    "autor": "Mgr. Zuzana Matulová",
+    "ecli": "ECLI:CZ:OSUH:2021:3.C.292.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-02-22",
+    "datumZverejneni": "2021-10-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 1882 z. č. 89/2012 Sb.",
+      "§ 2393 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c99fc403-0dc6-4622-9026-28fb633d1060"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
