@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Orlicí",
+  "ecli": "ECLI:CZ:OSUO:2021:10.C.99.2020.1",
+  "docket": "10 C 99/2020-8",
+  "date": "2021-02-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ef0bb9d8-6751-43b9-9347-84f0ed177687",
+  "source_sha256": "26ae14300cb0a2c4a5d0ae4afc215b80a83795323992b0db9e0ba690b90b277a",
+  "source_id": "ef0bb9d8-6751-43b9-9347-84f0ed177687",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 99/2020-8",
+    "soud": "Okresní soud v Ústí nad Orlicí",
+    "autor": "JUDr. Věra Bartůňková",
+    "ecli": "ECLI:CZ:OSUO:2021:10.C.99.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-22",
+    "datumZverejneni": "2021-04-23",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 144 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ef0bb9d8-6751-43b9-9347-84f0ed177687"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
