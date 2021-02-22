@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:34.C.296.2020.1",
+  "docket": "34 C 296/2020-54",
+  "date": "2021-02-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/120df717-c1cd-4572-af1f-5482e0e124cf",
+  "source_sha256": "542794d0f204be20645ef16faf4509df91058b8b1f540728d0be7a943495b675",
+  "source_id": "120df717-c1cd-4572-af1f-5482e0e124cf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 296/2020-54",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "Mgr. Vladimír Hromek",
+    "ecli": "ECLI:CZ:OSBI:2021:34.C.296.2020.1",
+    "predmetRizeni": "O zaplacení 6 668,06 Kč s příslušenstvím",
+    "datumVydani": "2021-02-22",
+    "datumZverejneni": "2021-04-01",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/120df717-c1cd-4572-af1f-5482e0e124cf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
