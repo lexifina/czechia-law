@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2021:24.C.180.2020.7",
+  "docket": "24 C 180/2020-75",
+  "date": "2021-02-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e3593f48-4e22-4c55-80ac-de980ac7d4ed",
+  "source_sha256": "c3159e7ae2a0fb2ea06dc4ae1047a9d9c569e95142bcf9bf88791828f82b19e8",
+  "source_id": "e3593f48-4e22-4c55-80ac-de980ac7d4ed",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 180/2020-75",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "Mgr. Jana Kesslerová",
+    "ecli": "ECLI:CZ:OSPH08:2021:24.C.180.2020.7",
+    "predmetRizeni": "o zaplacení 5 000 Kč",
+    "datumVydani": "2021-02-22",
+    "datumZverejneni": "2021-11-08",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 207 z. č. 99/1963 Sb.",
+      "§ 45 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e3593f48-4e22-4c55-80ac-de980ac7d4ed"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
