@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:94.C.164.2020.1",
+  "docket": "94 C 164/2020-24",
+  "date": "2021-02-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f3bde6c5-cf30-4c42-ad95-2b16b6fa835f",
+  "source_sha256": "343cd8ca2c5e0bae1e1a4d40a6d67285e3b90a3c2618f14b91e7ba073e999338",
+  "source_id": "f3bde6c5-cf30-4c42-ad95-2b16b6fa835f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "94 C 164/2020-24",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Lucie Vymětalová",
+    "ecli": "ECLI:CZ:MSBR:2021:94.C.164.2020.1",
+    "predmetRizeni": "zaplacení 13.302,68 Kč s příslušenstvím - faktura",
+    "datumVydani": "2021-02-22",
+    "datumZverejneni": "2021-05-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "telekomunikace"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 251 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f3bde6c5-cf30-4c42-ad95-2b16b6fa835f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
