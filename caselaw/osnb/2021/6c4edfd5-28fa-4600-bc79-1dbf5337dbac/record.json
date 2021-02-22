@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Nymburce",
+  "ecli": "ECLI:CZ:OSNB:2021:10.C.109.2020.1",
+  "docket": "10 C 109/2020-63",
+  "date": "2021-02-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6c4edfd5-28fa-4600-bc79-1dbf5337dbac",
+  "source_sha256": "d32dd5e0f4690c0a4d610c1bccb6ddbeebd193eb813bfb76a4a68eb7d3864845",
+  "source_id": "6c4edfd5-28fa-4600-bc79-1dbf5337dbac",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 109/2020-63",
+    "soud": "Okresní soud v Nymburce",
+    "autor": "Mgr. Martina Kotouček mikolášková",
+    "ecli": "ECLI:CZ:OSNB:2021:10.C.109.2020.1",
+    "predmetRizeni": "o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2021-02-22",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "bytové družstvo",
+      "družstevní byt",
+      "dlužné nájemné",
+      "nebytový prostor",
+      "peněžité plnění",
+      "smlouva darovací",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§ 2240 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6c4edfd5-28fa-4600-bc79-1dbf5337dbac"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
