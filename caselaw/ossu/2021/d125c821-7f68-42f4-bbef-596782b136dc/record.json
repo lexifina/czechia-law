@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2021:17.C.135.2020.1",
+  "docket": "17 C 135/2020-20",
+  "date": "2021-02-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d125c821-7f68-42f4-bbef-596782b136dc",
+  "source_sha256": "fdbdfb1da2f3b6cce09ee9be830b60d3e0920d490197cccd7be89f9315cfefaf",
+  "source_id": "d125c821-7f68-42f4-bbef-596782b136dc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 135/2020-20",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "Mgr. Jana Veselá",
+    "ecli": "ECLI:CZ:OSSU:2021:17.C.135.2020.1",
+    "predmetRizeni": "o 5.695 Kč s příslušenstvím",
+    "datumVydani": "2021-02-22",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 24c z. č. 168/1999 Sb.",
+      "§ 24 z. č. 168/1999 Sb.",
+      "§  vyhl. č. 245/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d125c821-7f68-42f4-bbef-596782b136dc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
