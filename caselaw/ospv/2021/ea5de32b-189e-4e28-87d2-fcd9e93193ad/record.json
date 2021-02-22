@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:9.C.364.2020.1",
+  "docket": "9 C 364/2020-23",
+  "date": "2021-02-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ea5de32b-189e-4e28-87d2-fcd9e93193ad",
+  "source_sha256": "39a4105bc6155a898adbb6b72f4dd3283050a6b28acb2b3ff8bfee0b02c52cdf",
+  "source_id": "ea5de32b-189e-4e28-87d2-fcd9e93193ad",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 364/2020-23",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "JUDr. Alice Havránková",
+    "ecli": "ECLI:CZ:OSPV:2021:9.C.364.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-22",
+    "datumZverejneni": "2021-04-20",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ea5de32b-189e-4e28-87d2-fcd9e93193ad"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
