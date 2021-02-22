@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2021:24.C.248.2020.4",
+  "docket": "24 C 248/2020-58",
+  "date": "2021-02-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/932fae80-5904-46b7-a101-0c3c06f9050e",
+  "source_sha256": "2d91b8742109baa99d57578e4b91264e26e5025b7815ad7080a8b24a130d6544",
+  "source_id": "932fae80-5904-46b7-a101-0c3c06f9050e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 248/2020-58",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "Mgr. Jana Kesslerová",
+    "ecli": "ECLI:CZ:OSPH08:2021:24.C.248.2020.4",
+    "predmetRizeni": "O zaplacení 9 247 Kč s příslušenstvím",
+    "datumVydani": "2021-02-22",
+    "datumZverejneni": "2021-11-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 573 z. č. 89/2012 Sb.",
+      "§ 207 z. č. 99/1963 Sb.",
+      "§ 45 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/932fae80-5904-46b7-a101-0c3c06f9050e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
