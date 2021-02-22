@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně, pobočka Valašské Meziřičí",
+  "ecli": "ECLI:CZ:OSVSVM:2021:19.C.184.2020.1",
+  "docket": "19 C 184/2020-21",
+  "date": "2021-02-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1628b75b-ed1f-4a63-832b-13a8628900f3",
+  "source_sha256": "64e1ff7fc08ba7dc43626d17b137604ba9302359fdddfe15246ffe1eaf6ac561",
+  "source_id": "1628b75b-ed1f-4a63-832b-13a8628900f3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 184/2020-21",
+    "soud": "Okresní soud ve Vsetíně, pobočka Valašské Meziřičí",
+    "autor": "Mgr. Kateřina Punčochářová",
+    "ecli": "ECLI:CZ:OSVSVM:2021:19.C.184.2020.1",
+    "predmetRizeni": "O zaplacení 4 500 Kč s příslušenstvím",
+    "datumVydani": "2021-02-22",
+    "datumZverejneni": "2021-03-17",
+    "klicovaSlova": [
+      "duševní porucha",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 581 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1628b75b-ed1f-4a63-832b-13a8628900f3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
