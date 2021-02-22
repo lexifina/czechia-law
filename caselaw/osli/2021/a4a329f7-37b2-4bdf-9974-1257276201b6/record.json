@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:24.C.207.2020.1",
+  "docket": "24 C 207/2020-27",
+  "date": "2021-02-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a4a329f7-37b2-4bdf-9974-1257276201b6",
+  "source_sha256": "8dac36ee7d45ba903c4a1379b0aa6ca705c355ca18d365c3f61dea90126626e0",
+  "source_id": "a4a329f7-37b2-4bdf-9974-1257276201b6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 207/2020-27",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Ing. Dana Semirádová",
+    "ecli": "ECLI:CZ:OSLI:2021:24.C.207.2020.1",
+    "predmetRizeni": "zaplacení částky 3 328 Kč s příslušenstvím",
+    "datumVydani": "2021-02-22",
+    "datumZverejneni": "2021-04-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 2783 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a4a329f7-37b2-4bdf-9974-1257276201b6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
