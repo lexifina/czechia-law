@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:11.C.136.2020.1",
+  "docket": "11 C 136/2020-20",
+  "date": "2021-02-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d1209b4e-6004-416a-a13a-4824cfeae54d",
+  "source_sha256": "533d0bbbcc67d5e225e047e210414286e24ce3139e796a4f89755cd2acef6e43",
+  "source_id": "d1209b4e-6004-416a-a13a-4824cfeae54d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 136/2020-20",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "JUDr. Ing. Ivo Hruška",
+    "ecli": "ECLI:CZ:OSRO:2021:11.C.136.2020.1",
+    "predmetRizeni": "zaplacení 1 020 Kč s přísl.",
+    "datumVydani": "2021-02-22",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 18a z. č. 111/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d1209b4e-6004-416a-a13a-4824cfeae54d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
