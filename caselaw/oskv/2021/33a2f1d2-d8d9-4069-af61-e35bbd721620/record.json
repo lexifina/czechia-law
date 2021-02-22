@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:17.C.1.2021.1",
+  "docket": "17 C 1/2021-32",
+  "date": "2021-02-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/33a2f1d2-d8d9-4069-af61-e35bbd721620",
+  "source_sha256": "c7b876febef53bff7b8bf6e159a5f5876bc140f67509ac00a2f1a8ecff9fc93d",
+  "source_id": "33a2f1d2-d8d9-4069-af61-e35bbd721620",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 1/2021-32",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Ondřej Doubek",
+    "ecli": "ECLI:CZ:OSKV:2021:17.C.1.2021.1",
+    "predmetRizeni": "2.835 Kč / pojistné",
+    "datumVydani": "2021-02-22",
+    "datumZverejneni": "2021-04-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 vyhl. č. 205/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 2a vyhl. č. 205/1999 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/33a2f1d2-d8d9-4069-af61-e35bbd721620"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
