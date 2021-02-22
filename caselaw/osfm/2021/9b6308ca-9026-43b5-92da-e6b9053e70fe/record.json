@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:42.C.27.2021.1",
+  "docket": "42 C 27/2021-17",
+  "date": "2021-02-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9b6308ca-9026-43b5-92da-e6b9053e70fe",
+  "source_sha256": "9b06e0b0be5200ce5d8a8945fdac26461919ed9d1d62e3c3e2a26d74ec7afc8f",
+  "source_id": "9b6308ca-9026-43b5-92da-e6b9053e70fe",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "42 C 27/2021-17",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "Mgr. Michaela Janošcová",
+    "ecli": "ECLI:CZ:OSFM:2021:42.C.27.2021.1",
+    "predmetRizeni": "o zaplacení 7 000 Kč s příslušenstvím",
+    "datumVydani": "2021-02-22",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "náhrada škody",
+      "peněžité plnění",
+      "pozůstalost"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2910 z. č. 89/2012 Sb.",
+      "§ 154 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9b6308ca-9026-43b5-92da-e6b9053e70fe"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
