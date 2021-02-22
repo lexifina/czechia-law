@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:35.C.85.2021.1",
+  "docket": "35 C 85/2021-22",
+  "date": "2021-02-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/578ce946-f59d-47cc-a711-26400a5b54b3",
+  "source_sha256": "58ccd2ea18e0895999f348915b9d716139c9bff0c4db9bb48e2c36798ae5d4a9",
+  "source_id": "578ce946-f59d-47cc-a711-26400a5b54b3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "35 C 85/2021-22",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Ing. Viktor Smolík",
+    "ecli": "ECLI:CZ:OSPY:2021:35.C.85.2021.1",
+    "predmetRizeni": "O zaplacení 3 048 Kč s příslušenstvím",
+    "datumVydani": "2021-02-22",
+    "datumZverejneni": "2021-05-21",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/578ce946-f59d-47cc-a711-26400a5b54b3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
