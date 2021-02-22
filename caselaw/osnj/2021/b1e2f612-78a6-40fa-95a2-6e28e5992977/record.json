@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2021:24.C.120.2020.1",
+  "docket": "24 C 120/2020-40",
+  "date": "2021-02-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b1e2f612-78a6-40fa-95a2-6e28e5992977",
+  "source_sha256": "fc3f81187a69cf204dfb59a6b3ec8ec9cfa4505d4677b5e3e0f095a1441b80d7",
+  "source_id": "b1e2f612-78a6-40fa-95a2-6e28e5992977",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 120/2020-40",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "JUDr. Ivan Holub, , Ph.D.",
+    "ecli": "ECLI:CZ:OSNJ:2021:24.C.120.2020.1",
+    "predmetRizeni": "o zrušení vyživovací povinnosti",
+    "datumVydani": "2021-02-22",
+    "datumZverejneni": "2021-11-24",
+    "klicovaSlova": [
+      "výživné",
+      "zrušení výživného"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 913 z. č. 89/2012 Sb.",
+      "§ 163 z. č. 99/1963 Sb.",
+      "§ 95 z. č. 99/1963 Sb.",
+      "§ 911 z. č. 89/2012 Sb.",
+      "§ 915 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b1e2f612-78a6-40fa-95a2-6e28e5992977"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
