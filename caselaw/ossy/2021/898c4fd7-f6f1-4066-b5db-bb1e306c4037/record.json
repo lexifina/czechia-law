@@ -1,0 +1,50 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2021:15.C.1.2021.1",
+  "docket": "15 C 1/2021-45",
+  "date": "2021-02-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/898c4fd7-f6f1-4066-b5db-bb1e306c4037",
+  "source_sha256": "cfc55ac185c8255b3e1324ca2a9fce0f0ceb663281c75e18dde2dee89caf47a9",
+  "source_id": "898c4fd7-f6f1-4066-b5db-bb1e306c4037",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 1/2021-45",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "Mgr. Petr Machačka",
+    "ecli": "ECLI:CZ:OSSY:2021:15.C.1.2021.1",
+    "predmetRizeni": "o zaplacení 28 924 Kč s příslušenstvím",
+    "datumVydani": "2021-02-22",
+    "datumZverejneni": "2021-04-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 235/2004 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 1 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 145/2010 Sb.",
+      "§ 6 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/898c4fd7-f6f1-4066-b5db-bb1e306c4037"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
