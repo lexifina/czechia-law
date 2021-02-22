@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Písku",
+  "ecli": "ECLI:CZ:OSPI:2021:10.C.219.2020.1",
+  "docket": "10 C 219/2020-44",
+  "date": "2021-02-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/66275efa-52bf-45f6-aa8c-2a2215c944ad",
+  "source_sha256": "531999c524c0fe3f94ac6104e9c07f53ea4cf8cd036c81b21eca39c201bb732f",
+  "source_id": "66275efa-52bf-45f6-aa8c-2a2215c944ad",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 219/2020-44",
+    "soud": "Okresní soud v Písku",
+    "autor": "Mgr. Andrea Větrovská",
+    "ecli": "ECLI:CZ:OSPI:2021:10.C.219.2020.1",
+    "predmetRizeni": "zaplacení 9 003,82 Kč s příslušenstvím",
+    "datumVydani": "2021-02-22",
+    "datumZverejneni": "2021-04-15",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/66275efa-52bf-45f6-aa8c-2a2215c944ad"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
