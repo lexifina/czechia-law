@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:8.C.5.2021.1",
+  "docket": "8 C 5/2021-71",
+  "date": "2021-02-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/989b5234-114c-43ab-a240-967582a9fb04",
+  "source_sha256": "a6a95ae778ab5af2977675ef5feffd3bc6b2961e562e6c3d4ac09df8033d3fd6",
+  "source_id": "989b5234-114c-43ab-a240-967582a9fb04",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 5/2021-71",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "Mgr. Milan Baudyš",
+    "ecli": "ECLI:CZ:OSNA:2021:8.C.5.2021.1",
+    "predmetRizeni": "O zaplacení 36 650 Kč s příslušenstvím (úvěr)",
+    "datumVydani": "2021-02-22",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "insolvence",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva nájemní",
+      "smlouva o půjčce",
+      "smlouva o úvěru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/989b5234-114c-43ab-a240-967582a9fb04"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
