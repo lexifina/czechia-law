@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jičíně",
+  "ecli": "ECLI:CZ:OSJC:2021:3.C.8.2021.1",
+  "docket": "3 C 8/2021-11",
+  "date": "2021-02-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/44e8a727-efaf-4a47-bfcd-87bfcb975425",
+  "source_sha256": "b606ac2ae962fb0535c9c5b4149ae68cc18b99a293abdf27e1f047c2a1431745",
+  "source_id": "44e8a727-efaf-4a47-bfcd-87bfcb975425",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 8/2021-11",
+    "soud": "Okresní soud v Jičíně",
+    "autor": "JUDr. Drahomíra Šorfová",
+    "ecli": "ECLI:CZ:OSJC:2021:3.C.8.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-22",
+    "datumZverejneni": "2021-02-25",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 14 z. č. 328/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/44e8a727-efaf-4a47-bfcd-87bfcb975425"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
