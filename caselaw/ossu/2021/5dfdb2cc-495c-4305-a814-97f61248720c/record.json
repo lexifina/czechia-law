@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2021:17.C.118.2020.1",
+  "docket": "17 C 118/2020-31",
+  "date": "2021-02-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5dfdb2cc-495c-4305-a814-97f61248720c",
+  "source_sha256": "abc43a2d5fa5763cf94f791a5f642163132673ed2a8522ccd929736eca41b391",
+  "source_id": "5dfdb2cc-495c-4305-a814-97f61248720c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 118/2020-31",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "Mgr. Jana Veselá",
+    "ecli": "ECLI:CZ:OSSU:2021:17.C.118.2020.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2021-02-22",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 2398 z. č. 89/2012 Sb.",
+      "§ 2396 z. č. 89/2012 Sb.",
+      "§ 2397 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5dfdb2cc-495c-4305-a814-97f61248720c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
