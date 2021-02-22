@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 7",
+  "ecli": "ECLI:CZ:OSPH07:2021:4.C.483.2020.1",
+  "docket": "4 C 483/2020-15",
+  "date": "2021-02-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ae6d1827-4b49-42f7-af1c-a7cf1ba068b7",
+  "source_sha256": "f3373a5d7d143f871806befb20d2f484fe72dd7b3c65e534fbbe5c62b105673e",
+  "source_id": "ae6d1827-4b49-42f7-af1c-a7cf1ba068b7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 483/2020-15",
+    "soud": "Obvodní soud pro Prahu 7",
+    "autor": "Mgr. Tomáš Mottl",
+    "ecli": "ECLI:CZ:OSPH07:2021:4.C.483.2020.1",
+    "predmetRizeni": "O zaplacení 2 000 Kč",
+    "datumVydani": "2021-02-22",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§ 1882 z. č. 89/2012 Sb.",
+      "§ 1812 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ae6d1827-4b49-42f7-af1c-a7cf1ba068b7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
