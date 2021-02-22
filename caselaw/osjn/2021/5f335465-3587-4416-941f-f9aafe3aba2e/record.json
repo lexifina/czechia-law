@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2021:15.C.229.2020.1",
+  "docket": "15 C 229/2020-23",
+  "date": "2021-02-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5f335465-3587-4416-941f-f9aafe3aba2e",
+  "source_sha256": "819b110f773b6a6369ec8cc08b348429888056e88344e5adf0e63f5aeab2f786",
+  "source_id": "5f335465-3587-4416-941f-f9aafe3aba2e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 229/2020-23",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "JUDr. Petra Hanková",
+    "ecli": "ECLI:CZ:OSJN:2021:15.C.229.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-22",
+    "datumZverejneni": "2021-03-16",
+    "klicovaSlova": [
+      "alkoholismus",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5f335465-3587-4416-941f-f9aafe3aba2e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
