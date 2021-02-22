@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně",
+  "ecli": "ECLI:CZ:OSVS:2021:20.C.136.2020.1",
+  "docket": "20 C 136/2020-14",
+  "date": "2021-02-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/12ec4433-2101-4a36-86a9-5ca7e03655ae",
+  "source_sha256": "5a4467aa0d9dab9ffe830d50a81118adecff57572df54a005ad80281e9bb0da1",
+  "source_id": "12ec4433-2101-4a36-86a9-5ca7e03655ae",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 136/2020-14",
+    "soud": "Okresní soud ve Vsetíně",
+    "autor": "Mgr. Miroslav Neuer",
+    "ecli": "ECLI:CZ:OSVS:2021:20.C.136.2020.1",
+    "predmetRizeni": "O zaplacení 4 220 Kč s příslušenstvím",
+    "datumVydani": "2021-02-22",
+    "datumZverejneni": "2021-04-23",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 173 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/12ec4433-2101-4a36-86a9-5ca7e03655ae"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
