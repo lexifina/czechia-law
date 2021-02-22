@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:6.C.216.2020.1",
+  "docket": "6 C 216/2020-35",
+  "date": "2021-02-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/20e7152a-49a6-4063-93c7-b879f291c1c1",
+  "source_sha256": "7c5bd86cd95852d8b1b5fe15b7643ffe0dc25ec91123fd2a030e23661058068e",
+  "source_id": "20e7152a-49a6-4063-93c7-b879f291c1c1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 216/2020-35",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "JUDr. Vladimíra Mašinová",
+    "ecli": "ECLI:CZ:OSDO:2021:6.C.216.2020.1",
+    "predmetRizeni": "O zaplacení 46 774 Kč s příslušenstvím",
+    "datumVydani": "2021-02-22",
+    "datumZverejneni": "2021-04-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/20e7152a-49a6-4063-93c7-b879f291c1c1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
