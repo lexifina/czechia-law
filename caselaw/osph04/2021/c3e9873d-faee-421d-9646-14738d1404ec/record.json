@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:40.C.11.2021.1",
+  "docket": "40 C 11/2021-35",
+  "date": "2021-02-22",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c3e9873d-faee-421d-9646-14738d1404ec",
+  "source_sha256": "6d0238703d332e4be4210b74828eb3adf95cc01d4eeb97a961ff2faeca99cdaf",
+  "source_id": "c3e9873d-faee-421d-9646-14738d1404ec",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "40 C 11/2021-35",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "JUDr. Hana Berglová",
+    "ecli": "ECLI:CZ:OSPH04:2021:40.C.11.2021.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-02-22",
+    "datumZverejneni": "2021-04-01",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c3e9873d-faee-421d-9646-14738d1404ec"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
