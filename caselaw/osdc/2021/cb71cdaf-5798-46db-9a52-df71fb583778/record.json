@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:14.C.8.2021.1",
+  "docket": "14 C 8/2021-15",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cb71cdaf-5798-46db-9a52-df71fb583778",
+  "source_sha256": "22a275e5bc04eb88eb05883fc46c69e5402ed293106626351c7542e45ffaf696",
+  "source_id": "cb71cdaf-5798-46db-9a52-df71fb583778",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 8/2021-15",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Marek Bříza, , LL.M.",
+    "ecli": "ECLI:CZ:OSDC:2021:14.C.8.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cb71cdaf-5798-46db-9a52-df71fb583778"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
