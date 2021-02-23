@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:43.C.463.2020.1",
+  "docket": "43 C 463/2020-23",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9144d451-1a66-42e8-b767-5d315467ba81",
+  "source_sha256": "927ceb2efad0dd58f2629212d8474f725d2bca0d82ac577d0cf7756281fc90cf",
+  "source_id": "9144d451-1a66-42e8-b767-5d315467ba81",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "43 C 463/2020-23",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "Mgr. Monika Tupá",
+    "ecli": "ECLI:CZ:OSPH04:2021:43.C.463.2020.1",
+    "predmetRizeni": "O zaplacení 21 458 Kč s příslušenstvím",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-05-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§  nař. vl. č. 142/1994 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9144d451-1a66-42e8-b767-5d315467ba81"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
