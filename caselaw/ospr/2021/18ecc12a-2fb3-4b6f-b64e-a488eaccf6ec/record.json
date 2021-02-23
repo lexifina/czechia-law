@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2021:14.C.2.2021.1",
+  "docket": "14 C 2/2021-29",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/18ecc12a-2fb3-4b6f-b64e-a488eaccf6ec",
+  "source_sha256": "a169044b41771bbcb0760869c02ad1d06e1afda52e878033f5ef32c229e57a0b",
+  "source_id": "18ecc12a-2fb3-4b6f-b64e-a488eaccf6ec",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 2/2021-29",
+    "soud": "Okresní soud v Přerově",
+    "autor": "Mgr. Jan Růžička",
+    "ecli": "ECLI:CZ:OSPR:2021:14.C.2.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-04-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2783 z. č. 89/2012 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 1751 z. č. 89/2012 Sb.",
+      "§ 2759 z. č. 89/2012 Sb.",
+      "§ 570 z. č. 89/2012 Sb.",
+      "§ 1745 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/18ecc12a-2fb3-4b6f-b64e-a488eaccf6ec"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
