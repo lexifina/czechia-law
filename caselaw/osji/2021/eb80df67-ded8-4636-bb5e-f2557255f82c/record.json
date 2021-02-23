@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2021:118.C.19.2020.1",
+  "docket": "118 C 19/2020-38",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/eb80df67-ded8-4636-bb5e-f2557255f82c",
+  "source_sha256": "2a723b8841e30b9c45d28ef8176e0d0b9946eb17e1026b616314ad16c6d69d70",
+  "source_id": "eb80df67-ded8-4636-bb5e-f2557255f82c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "118 C 19/2020-38",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "JUDr. Petra Pipková",
+    "ecli": "ECLI:CZ:OSJI:2021:118.C.19.2020.1",
+    "predmetRizeni": "o 35 383,60 Kč s příslušenstvím",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-04-06",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/eb80df67-ded8-4636-bb5e-f2557255f82c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
