@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:20.C.235.2020.1",
+  "docket": "20 C 235/2020-19",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/91ea0057-1e7a-4ca8-b5f9-738a6ed0953f",
+  "source_sha256": "5da59e414863c7b0263d098875313a8b3d6daa2a526897e0432fcaa500070a56",
+  "source_id": "91ea0057-1e7a-4ca8-b5f9-738a6ed0953f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 235/2020-19",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Marta Mandátová",
+    "ecli": "ECLI:CZ:MSBR:2021:20.C.235.2020.1",
+    "predmetRizeni": "zaplacení 2.576,20 Kč - smluvní pokuta",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/91ea0057-1e7a-4ca8-b5f9-738a6ed0953f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
