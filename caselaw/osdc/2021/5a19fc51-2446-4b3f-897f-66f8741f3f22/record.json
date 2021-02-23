@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:25.C.29.2021.1",
+  "docket": "25 C 29/2021-16",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5a19fc51-2446-4b3f-897f-66f8741f3f22",
+  "source_sha256": "37756c460d0e8fd9c318cb88b9d680c2f30e4d937b4a0e5d5427fd1f131605c6",
+  "source_id": "5a19fc51-2446-4b3f-897f-66f8741f3f22",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 29/2021-16",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Andrea Pěničková",
+    "ecli": "ECLI:CZ:OSDC:2021:25.C.29.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-07-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5a19fc51-2446-4b3f-897f-66f8741f3f22"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
