@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:23.C.8.2021.1",
+  "docket": "23 C 8/2021",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1f5f7040-e616-464d-b8db-485992bdaec8",
+  "source_sha256": "a6d67049e8b86f555a756c4164e3966040bcf202e7ce0a055d06c7ecdbd60748",
+  "source_id": "1f5f7040-e616-464d-b8db-485992bdaec8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 8/2021",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Pavel Preisler, Ph.D.",
+    "ecli": "ECLI:CZ:OSLI:2021:23.C.8.2021.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 9.755,00 Kč s přísl.",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-05-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1746 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1f5f7040-e616-464d-b8db-485992bdaec8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
