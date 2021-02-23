@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:17.C.73.2021.1",
+  "docket": "17 C 73/2021-20",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f7217dbe-d2cf-426c-9747-0cf7b3b5c8cb",
+  "source_sha256": "f47cee8695040a4c172a261d22aeaa4373e0a057655aa0a3ae56138face68a97",
+  "source_id": "f7217dbe-d2cf-426c-9747-0cf7b3b5c8cb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 73/2021-20",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "JUDr. Jiří Křivanec",
+    "ecli": "ECLI:CZ:OSCB:2021:17.C.73.2021.1",
+    "predmetRizeni": "EPR [číslo], o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 7 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f7217dbe-d2cf-426c-9747-0cf7b3b5c8cb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
