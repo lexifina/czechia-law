@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:28.C.3.2020.1",
+  "docket": "28 C 3/2020-91",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9c60f093-9905-4a44-949e-b27cb45503db",
+  "source_sha256": "611a029248894cff0034ba980a711b8f72a6efe434b0729baa0bed135cbdd7ea",
+  "source_id": "9c60f093-9905-4a44-949e-b27cb45503db",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 3/2020-91",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Šárka Houdková poláková",
+    "ecli": "ECLI:CZ:OSCV:2021:28.C.3.2020.1",
+    "predmetRizeni": "zaplacení 43 104,22 Kč s příslušenstvím (úvěr)",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-06-24",
+    "klicovaSlova": [
+      "insolvence",
+      "peněžité plnění",
+      "pojištění úvěru",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 9 z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9c60f093-9905-4a44-949e-b27cb45503db"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
