@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:5.C.43.2021.1",
+  "docket": "5 C 43/2021-28",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0c41b865-86c0-46b0-a9f0-227169475709",
+  "source_sha256": "ccc74d8ade9ff72e661131658fdf62fff5ab60289fc6add7ae3decff9df014e7",
+  "source_id": "0c41b865-86c0-46b0-a9f0-227169475709",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 43/2021-28",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Dana Nováková",
+    "ecli": "ECLI:CZ:OSPB:2021:5.C.43.2021.1",
+    "predmetRizeni": "zaplacení 6 865 Kč s příslušenstvím",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-04-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§  z. č. 351/2013 Sb.",
+      "§ 1, 4 z. č. 168/1999 Sb.",
+      "§ 2, 2a vyhl. č. 205/1999 Sb.",
+      "§ 1970 z. č. 89/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0c41b865-86c0-46b0-a9f0-227169475709"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
