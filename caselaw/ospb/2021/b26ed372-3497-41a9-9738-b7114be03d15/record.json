@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:17.C.184.2020.2",
+  "docket": "17 C 184/2020-57",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b26ed372-3497-41a9-9738-b7114be03d15",
+  "source_sha256": "12a7eea4ea1f05c715210d086b0dc2629dbbfab5e1d0bbf5c5f0c96660efc0c5",
+  "source_id": "b26ed372-3497-41a9-9738-b7114be03d15",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 184/2020-57",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "Mgr. Marie Jelínková",
+    "ecli": "ECLI:CZ:OSPB:2021:17.C.184.2020.2",
+    "predmetRizeni": "zaplacení 12 368 Kč s příslušenstvím",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-03-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 251 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b26ed372-3497-41a9-9738-b7114be03d15"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
