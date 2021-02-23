@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:11.C.42.2021.1",
+  "docket": "11 C 42/2021-15",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cc941a40-a1f6-4c46-a153-51b8fd1698bf",
+  "source_sha256": "5bfcedeab0cea4f87eae68d122e687498317ba93782a8d77b2bd76a8ac133f19",
+  "source_id": "cc941a40-a1f6-4c46-a153-51b8fd1698bf",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 42/2021-15",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "JUDr. Radek Černovský",
+    "ecli": "ECLI:CZ:OSKV:2021:11.C.42.2021.1",
+    "predmetRizeni": "9.306 Kč / dodávka plynu",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-04-05",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 72 z. č. 458/2000 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cc941a40-a1f6-4c46-a153-51b8fd1698bf"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
