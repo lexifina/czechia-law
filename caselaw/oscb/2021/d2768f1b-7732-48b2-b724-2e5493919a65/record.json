@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:27.C.72.2021.1",
+  "docket": "27 C 72/2021-17",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d2768f1b-7732-48b2-b724-2e5493919a65",
+  "source_sha256": "bd04228d226c873bb04c92057f025c64b7dc3f811216bf0aa5593e5e01fee6db",
+  "source_id": "d2768f1b-7732-48b2-b724-2e5493919a65",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 72/2021-17",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "Mgr. Radka Podlešáková",
+    "ecli": "ECLI:CZ:OSCB:2021:27.C.72.2021.1",
+    "predmetRizeni": "EPR [číslo], o zaplacení částky 3 447 Kč s příslušenstvím",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-06-30",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d2768f1b-7732-48b2-b724-2e5493919a65"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
