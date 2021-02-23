@@ -1,0 +1,50 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:8.C.222.2020.3",
+  "docket": "8 C 222/2020-101",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9b2ff87b-3ac2-4b4d-94dd-44dc062389e7",
+  "source_sha256": "1333ccf8b2bebcd5ca73be6b8028c7b0623900c95f7a51472980473138139e18",
+  "source_id": "9b2ff87b-3ac2-4b4d-94dd-44dc062389e7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 222/2020-101",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Petr Karásek",
+    "ecli": "ECLI:CZ:OSCV:2021:8.C.222.2020.3",
+    "predmetRizeni": "zaplacení 47 659,33 Kč s příslušenstvím (úvěr + smluvní pokuta)",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-04-07",
+    "klicovaSlova": [
+      "daň z příjmů",
+      "peněžité plnění",
+      "podvod",
+      "smlouva nájemní",
+      "smlouva o úvěru",
+      "zastavení exekuce / výkonu rozhodnutí"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 573 z. č. 89/2012 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 6 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9b2ff87b-3ac2-4b4d-94dd-44dc062389e7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
