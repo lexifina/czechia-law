@@ -1,0 +1,31 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:4.C.160.2020.1",
+  "docket": "4 C 160/2020-16",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e0fe9e0e-d3ef-4398-adde-f30895c34552",
+  "source_sha256": "df23326a3c045a04e82fc855c04d9e2e69c4aa394656039bf34ad3dc55e9cb5f",
+  "source_id": "e0fe9e0e-d3ef-4398-adde-f30895c34552",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 160/2020-16",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Ivana Jakšičová",
+    "ecli": "ECLI:CZ:OSTA:2021:4.C.160.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-04-15",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e0fe9e0e-d3ef-4398-adde-f30895c34552"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
