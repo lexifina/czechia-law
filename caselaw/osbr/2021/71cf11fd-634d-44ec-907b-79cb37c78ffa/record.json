@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Berouně",
+  "ecli": "ECLI:CZ:OSBR:2021:18.C.302.2020.1",
+  "docket": "18 C 302/2020",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/71cf11fd-634d-44ec-907b-79cb37c78ffa",
+  "source_sha256": "b2ec64b76fef085a54194ff4df3ce201d4526dbcea73dcd3956fc604e0e5db1e",
+  "source_id": "71cf11fd-634d-44ec-907b-79cb37c78ffa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 302/2020",
+    "soud": "Okresní soud v Berouně",
+    "autor": "Mgr. Veronika Sekerová",
+    "ecli": "ECLI:CZ:OSBR:2021:18.C.302.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 207 z. č. 99/1963 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 3028 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/71cf11fd-634d-44ec-907b-79cb37c78ffa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
