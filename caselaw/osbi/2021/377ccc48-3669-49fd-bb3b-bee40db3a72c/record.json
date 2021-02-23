@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:14.C.214.2020.1",
+  "docket": "14 C 214/2020",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/377ccc48-3669-49fd-bb3b-bee40db3a72c",
+  "source_sha256": "6fa80833e5bf17ebf2c8280fbeea61c8bd647a937fc01411f00a928bb20f469e",
+  "source_id": "377ccc48-3669-49fd-bb3b-bee40db3a72c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 214/2020",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "Mgr. Břetislav Cvan",
+    "ecli": "ECLI:CZ:OSBI:2021:14.C.214.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-04-12",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/377ccc48-3669-49fd-bb3b-bee40db3a72c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
