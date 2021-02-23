@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:9.C.1.2021.1",
+  "docket": "9 C 1/2021-15",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b88abf60-7a4e-4346-9a11-9f2484ac59d4",
+  "source_sha256": "ad0c81b0d6b9fbd267698c436d9f2ced8d2204acca1c4824485c470ee909f6e2",
+  "source_id": "b88abf60-7a4e-4346-9a11-9f2484ac59d4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 1/2021-15",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Ivana Jakšičová",
+    "ecli": "ECLI:CZ:OSTA:2021:9.C.1.2021.1",
+    "predmetRizeni": "O zaplacení 1 334 Kč s příslušenstvím",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-03-25",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 8 z. č. 274/2001 Sb.",
+      "§ 2 z. č. 274/2001 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b88abf60-7a4e-4346-9a11-9f2484ac59d4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
