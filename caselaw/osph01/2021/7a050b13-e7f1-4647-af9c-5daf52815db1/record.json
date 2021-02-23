@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:41.C.290.2020.1",
+  "docket": "41 C 290/2020-17",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7a050b13-e7f1-4647-af9c-5daf52815db1",
+  "source_sha256": "f846c75837b98392937986b85cf94b6bfa9d9bba4f2ab512e719506b0929e3ea",
+  "source_id": "7a050b13-e7f1-4647-af9c-5daf52815db1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "41 C 290/2020-17",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "JUDr. Hana Marsová",
+    "ecli": "ECLI:CZ:OSPH01:2021:41.C.290.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-04-27",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7a050b13-e7f1-4647-af9c-5daf52815db1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
