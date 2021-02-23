@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:10.C.360.2020.1",
+  "docket": "10 C 360/2020-43",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7610dd2d-5975-4add-9a31-4ff9a6be1d1f",
+  "source_sha256": "084d46616b40b752c6d1d173be4a38b3645e83e00595da6472b9a4a34e70d04e",
+  "source_id": "7610dd2d-5975-4add-9a31-4ff9a6be1d1f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 360/2020-43",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "JUDr. Ladislava Mišková",
+    "ecli": "ECLI:CZ:OSPH06:2021:10.C.360.2020.1",
+    "predmetRizeni": "o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-04-06",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2765 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7610dd2d-5975-4add-9a31-4ff9a6be1d1f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
