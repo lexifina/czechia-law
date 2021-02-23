@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:39.C.388.2020.2",
+  "docket": "39 C 388/2020-27",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bfa5ea3a-73f8-4e6c-a478-51caf3d65492",
+  "source_sha256": "fac8ad0694d9ce2518391438c7ba28e7aacd51d6a45e8534333f30885dc0ea20",
+  "source_id": "bfa5ea3a-73f8-4e6c-a478-51caf3d65492",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "39 C 388/2020-27",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Rudolf Malý",
+    "ecli": "ECLI:CZ:OSMO:2021:39.C.388.2020.2",
+    "predmetRizeni": "2 000 Kč",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§  z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bfa5ea3a-73f8-4e6c-a478-51caf3d65492"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
