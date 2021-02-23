@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2021:7.C.315.2020.1",
+  "docket": "7 C 315/2020-23",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7cc01541-f2c4-4317-8c83-0bdd14ab16ba",
+  "source_sha256": "a220c063838b1fab71b550412f47ec04433d3b04eecb76d9ec2a1a1e11e58efc",
+  "source_id": "7cc01541-f2c4-4317-8c83-0bdd14ab16ba",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 315/2020-23",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "JUDr. Jiří Malý",
+    "ecli": "ECLI:CZ:OSPH09:2021:7.C.315.2020.1",
+    "predmetRizeni": "O zaplacení 93 616 Kč s příslušenstvím",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "rozhodčí doložka",
+      "rozhodčí řízení",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 497 z. č. 513/1991 Sb.",
+      "§ 39 z. č. 40/1964 Sb.",
+      "§ 159a z. č. 99/1963 Sb.",
+      "§ 13 z. č. 216/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7cc01541-f2c4-4317-8c83-0bdd14ab16ba"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
