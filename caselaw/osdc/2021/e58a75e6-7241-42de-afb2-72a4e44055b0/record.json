@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:14.C.25.2021.1",
+  "docket": "14 C 25/2021-15",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e58a75e6-7241-42de-afb2-72a4e44055b0",
+  "source_sha256": "1d6621cee3484956f4fc0fd05da9ca4bfb9b6f66ca0b68d6356ca7a29735b4b6",
+  "source_id": "e58a75e6-7241-42de-afb2-72a4e44055b0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 25/2021-15",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Marek Bříza, , LL.M.",
+    "ecli": "ECLI:CZ:OSDC:2021:14.C.25.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-06-08",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 50 z. č. 458/2000 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e58a75e6-7241-42de-afb2-72a4e44055b0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
