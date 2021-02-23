@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:55.C.23.2020.5",
+  "docket": "55 C 23/2020-71",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a212f313-b18e-474f-b817-e9412ef649bd",
+  "source_sha256": "16a1e296083baa505a22b922875da03d3c75498b2fec94fff4ed2db54e7428c4",
+  "source_id": "a212f313-b18e-474f-b817-e9412ef649bd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "55 C 23/2020-71",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "JUDr. Jana Slížková",
+    "ecli": "ECLI:CZ:OSNA:2021:55.C.23.2020.5",
+    "predmetRizeni": "o zaplacení 59.364 Kč s příslušenstvím (úvěr)",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-04-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "rozsudek pro zmeškání",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 205 z. č. 99/1963 Sb.",
+      "§ 153b z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/96 Sb.",
+      "§ 7 vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a212f313-b18e-474f-b817-e9412ef649bd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
