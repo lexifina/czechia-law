@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:20.C.267.2020.3",
+  "docket": "20 C 267/2020-34",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4554c276-ec3b-424d-97cf-37c86d66851f",
+  "source_sha256": "65eb232ccc487bd74b1adb71b70513e7ae9ab3f68c861404e85765551b36f3fd",
+  "source_id": "4554c276-ec3b-424d-97cf-37c86d66851f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 267/2020-34",
+    "soud": "Okresní soud v Chebu",
+    "autor": "Mgr. Robert Plášil",
+    "ecli": "ECLI:CZ:OSCH:2021:20.C.267.2020.3",
+    "predmetRizeni": "o vyklizení bytu",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-04-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2285 z. č. 89/2012 Sb.",
+      "§ 1042 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4554c276-ec3b-424d-97cf-37c86d66851f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
