@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Třebíči",
+  "ecli": "ECLI:CZ:OSTR:2021:12.C.10.2021.1",
+  "docket": "12 C 10/2021-18",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0131ae9b-35fe-4ee3-b90f-e7e2568a667a",
+  "source_sha256": "123d28a844563cc076349fc9a4dab9f44c64ebefb38e4d816288a614efef0632",
+  "source_id": "0131ae9b-35fe-4ee3-b90f-e7e2568a667a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 10/2021-18",
+    "soud": "Okresní soud v Třebíči",
+    "autor": "Mgr. Jan Coufal",
+    "ecli": "ECLI:CZ:OSTR:2021:12.C.10.2021.1",
+    "predmetRizeni": "zaplacení částky 30 390,36 Kč s příslušenstvím",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-05-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1802 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0131ae9b-35fe-4ee3-b90f-e7e2568a667a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
