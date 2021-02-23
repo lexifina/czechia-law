@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:221.C.121.2020.1",
+  "docket": "221 C 121/2020-58",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e753c821-1daa-4f75-a880-f19228d5f6cb",
+  "source_sha256": "a9ee1665228aa57a1d59d622f4380bc61b8cd2e5e1c7ff82619f3a09ef30c31b",
+  "source_id": "e753c821-1daa-4f75-a880-f19228d5f6cb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "221 C 121/2020-58",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Martina Burešová",
+    "ecli": "ECLI:CZ:OSKD:2021:221.C.121.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-03-19",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "vzájemné plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e753c821-1daa-4f75-a880-f19228d5f6cb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
