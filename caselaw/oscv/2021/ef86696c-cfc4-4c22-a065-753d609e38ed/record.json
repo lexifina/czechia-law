@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:28.C.34.2020.1",
+  "docket": "28 C 34/2020-30",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ef86696c-cfc4-4c22-a065-753d609e38ed",
+  "source_sha256": "ea1fa1af2d3e495681de4d6f7615def45f57ad6b82238eb20d2124a92e758c14",
+  "source_id": "ef86696c-cfc4-4c22-a065-753d609e38ed",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 34/2020-30",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Šárka Houdková poláková",
+    "ecli": "ECLI:CZ:OSCV:2021:28.C.34.2020.1",
+    "predmetRizeni": "zaplacení 7 104 Kč (úvěr)",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-06-24",
+    "klicovaSlova": [
+      "neplatnost právního jednání",
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 2 z. č. 257/2016 Sb.",
+      "§  z. č. 634/1992 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ef86696c-cfc4-4c22-a065-753d609e38ed"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
