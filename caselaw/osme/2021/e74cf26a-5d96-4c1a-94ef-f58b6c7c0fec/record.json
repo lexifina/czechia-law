@@ -1,0 +1,49 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mělníku",
+  "ecli": "ECLI:CZ:OSME:2021:12.C.32.2021.1",
+  "docket": "12 C 32/2021",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e74cf26a-5d96-4c1a-94ef-f58b6c7c0fec",
+  "source_sha256": "f9992d5c27d32057af99e4ed97ce305ee1ffc611a894275dd0bf3c56489cbdd1",
+  "source_id": "e74cf26a-5d96-4c1a-94ef-f58b6c7c0fec",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 32/2021",
+    "soud": "Okresní soud v Mělníku",
+    "autor": "Mgr. Daniela Kulíková",
+    "ecli": "ECLI:CZ:OSME:2021:12.C.32.2021.1",
+    "predmetRizeni": "O zaplacení [částka]",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-03-15",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce",
+      "vzájemné plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 573 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e74cf26a-5d96-4c1a-94ef-f58b6c7c0fec"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
