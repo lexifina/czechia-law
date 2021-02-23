@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:3.C.45.2021.1",
+  "docket": "3 C 45/2021-21",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/292e6246-6d24-4cf1-bd27-5fe85fed8301",
+  "source_sha256": "7c1827f2661bf7a6583d85e7160725c5db02a12b02049c89284711afe191cf92",
+  "source_id": "292e6246-6d24-4cf1-bd27-5fe85fed8301",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 45/2021-21",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Magdalena Fifková",
+    "ecli": "ECLI:CZ:OSPY:2021:3.C.45.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-04-20",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 18 z. č. 266/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/292e6246-6d24-4cf1-bd27-5fe85fed8301"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
