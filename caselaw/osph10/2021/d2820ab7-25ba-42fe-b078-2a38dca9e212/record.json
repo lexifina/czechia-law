@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 10",
+  "ecli": "ECLI:CZ:OSPH10:2021:46.C.420.2020.1",
+  "docket": "46 C 420/2020-36",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d2820ab7-25ba-42fe-b078-2a38dca9e212",
+  "source_sha256": "7d41a1275b361c8a5af347f48c907bff61673b7ea77b7c22d80f207411bbaf99",
+  "source_id": "d2820ab7-25ba-42fe-b078-2a38dca9e212",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "46 C 420/2020-36",
+    "soud": "Obvodní soud pro Prahu 10",
+    "autor": "JUDr. Helena Kolbabová",
+    "ecli": "ECLI:CZ:OSPH10:2021:46.C.420.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d2820ab7-25ba-42fe-b078-2a38dca9e212"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
