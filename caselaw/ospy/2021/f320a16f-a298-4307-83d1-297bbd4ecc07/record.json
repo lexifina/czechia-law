@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:21.C.23.2021.1",
+  "docket": "21 C 23/2021-21",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f320a16f-a298-4307-83d1-297bbd4ecc07",
+  "source_sha256": "9db4aa377397502d0523fc17885d9233cdfcefd9656f152a69e4b74a8e3c4eb0",
+  "source_id": "f320a16f-a298-4307-83d1-297bbd4ecc07",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 23/2021-21",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Dana Fiedlerová",
+    "ecli": "ECLI:CZ:OSPY:2021:21.C.23.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-05-31",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f320a16f-a298-4307-83d1-297bbd4ecc07"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
