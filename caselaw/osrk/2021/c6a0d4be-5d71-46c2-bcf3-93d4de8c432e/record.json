@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rychnově nad Kněžnou",
+  "ecli": "ECLI:CZ:OSRK:2021:9.C.106.2020.1",
+  "docket": "9 C 106/2020-41",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c6a0d4be-5d71-46c2-bcf3-93d4de8c432e",
+  "source_sha256": "bc0e44f12a88d3d4e6615afcc8399fc69d30a3062f223dd438c94fed2d2bc261",
+  "source_id": "c6a0d4be-5d71-46c2-bcf3-93d4de8c432e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 106/2020-41",
+    "soud": "Okresní soud v Rychnově nad Kněžnou",
+    "autor": "Mgr. et Mgr. Lucie Hrůšová",
+    "ecli": "ECLI:CZ:OSRK:2021:9.C.106.2020.1",
+    "predmetRizeni": "o zaplacení 40.716 Kč s příslušenstvím",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-04-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§ 1810 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c6a0d4be-5d71-46c2-bcf3-93d4de8c432e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
