@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:21.C.62.2019.1",
+  "docket": "21 C 62/2019",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b9d6f7e3-57ea-42c9-be78-9515771bc5b0",
+  "source_sha256": "5f3fb2f9bdea698b25897110c86f2565731a4120d03d32f93630d2a274780602",
+  "source_id": "b9d6f7e3-57ea-42c9-be78-9515771bc5b0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 62/2019",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "Mgr. Blanka Vernerová",
+    "ecli": "ECLI:CZ:OSPH02:2021:21.C.62.2019.1",
+    "predmetRizeni": "O zaplacení 2 963 Kč s příslušenstvím",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "odpovědnost za škodu způsobenou provozem dopravních prostředků",
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 2783 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b9d6f7e3-57ea-42c9-be78-9515771bc5b0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
