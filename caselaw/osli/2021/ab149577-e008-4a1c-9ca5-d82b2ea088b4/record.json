@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:23.C.332.2020.1",
+  "docket": "23 C 332/2020",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ab149577-e008-4a1c-9ca5-d82b2ea088b4",
+  "source_sha256": "d1720c918a9ec7f11207539158a471ba0ad2efa212bb223ce74d6ef51a47d9cf",
+  "source_id": "ab149577-e008-4a1c-9ca5-d82b2ea088b4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "23 C 332/2020",
+    "soud": "Okresní soud v Liberci",
+    "autor": "JUDr. Pavel Preisler, Ph.D.",
+    "ecli": "ECLI:CZ:OSLI:2021:23.C.332.2020.1",
+    "predmetRizeni": "Návrh na vydání PR - zaplacení částky 7314 Kč s příslušenstvím",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-05-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pozůstalost"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1701 z. č. 89/2012 Sb.",
+      "§ 1704 z. č. 89/2012 Sb.",
+      "§ 64 z. č. 155/1995 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ab149577-e008-4a1c-9ca5-d82b2ea088b4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
