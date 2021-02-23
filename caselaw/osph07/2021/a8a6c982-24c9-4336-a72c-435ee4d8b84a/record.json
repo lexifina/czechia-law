@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 7",
+  "ecli": "ECLI:CZ:OSPH07:2021:10.C.466.2020.1",
+  "docket": "10 C 466/2020-16",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a8a6c982-24c9-4336-a72c-435ee4d8b84a",
+  "source_sha256": "b8173e88d95e5293c63728e6d60817a7c9febe8d1082bd12bed32c56ae31d354",
+  "source_id": "a8a6c982-24c9-4336-a72c-435ee4d8b84a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 466/2020-16",
+    "soud": "Obvodní soud pro Prahu 7",
+    "autor": "JUDr. Marie Filippiová",
+    "ecli": "ECLI:CZ:OSPH07:2021:10.C.466.2020.1",
+    "predmetRizeni": "O zaplacení 6 679,01 Kč s příslušenstvím",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-04-27",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 1812 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a8a6c982-24c9-4336-a72c-435ee4d8b84a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
