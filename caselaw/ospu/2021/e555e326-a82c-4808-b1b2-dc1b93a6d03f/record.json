@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:18.C.192.2020.2",
+  "docket": "18 C 192/2020-57",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e555e326-a82c-4808-b1b2-dc1b93a6d03f",
+  "source_sha256": "3f08b0bf8cb1898434da69d12852701693d2214456bf2cead7c6054165af74ae",
+  "source_id": "e555e326-a82c-4808-b1b2-dc1b93a6d03f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 192/2020-57",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "Mgr. Leona Poplerová",
+    "ecli": "ECLI:CZ:OSPU:2021:18.C.192.2020.2",
+    "predmetRizeni": "o určení vlastnického práva",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-03-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/96 Sb.",
+      "§ 80 z. č. 99/1963 Sb.",
+      "§ 8a z. č. 56/2001 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e555e326-a82c-4808-b1b2-dc1b93a6d03f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
