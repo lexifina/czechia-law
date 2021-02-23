@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2021:9.C.25.2021.1",
+  "docket": "9 C 25/2021-64",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ecd5c345-9beb-42c6-8ccb-ae53541267c3",
+  "source_sha256": "43a97058a89bcc30787898c819f394e2ccac4ee8a3f658bde34cbe2d9bd5456c",
+  "source_id": "ecd5c345-9beb-42c6-8ccb-ae53541267c3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 25/2021-64",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "Mgr. Petr Horák",
+    "ecli": "ECLI:CZ:OSSY:2021:9.C.25.2021.1",
+    "predmetRizeni": "o zaplacení 4 084,77 Kč s příslušenstvím",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "telekomunikace"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 127/2005 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§  z. č. 131/2002 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ecd5c345-9beb-42c6-8ccb-ae53541267c3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
