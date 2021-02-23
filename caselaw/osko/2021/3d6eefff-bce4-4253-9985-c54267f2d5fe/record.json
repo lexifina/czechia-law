@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kolíně",
+  "ecli": "ECLI:CZ:OSKO:2021:17.C.281.2020.1",
+  "docket": "17 C 281/2020-24",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3d6eefff-bce4-4253-9985-c54267f2d5fe",
+  "source_sha256": "9c4406ae2e89234f2cbf6bcf7e58649c901432baa24f3237354fabf4e3c314b8",
+  "source_id": "3d6eefff-bce4-4253-9985-c54267f2d5fe",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 281/2020-24",
+    "soud": "Okresní soud v Kolíně",
+    "autor": "JUDr. Martina Suchánková",
+    "ecli": "ECLI:CZ:OSKO:2021:17.C.281.2020.1",
+    "predmetRizeni": "O zaplacení 8 800 Kč s příslušenstvím",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-04-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3d6eefff-bce4-4253-9985-c54267f2d5fe"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
