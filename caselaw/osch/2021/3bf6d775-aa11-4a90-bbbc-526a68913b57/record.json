@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chebu",
+  "ecli": "ECLI:CZ:OSCH:2021:20.C.271.2020.3",
+  "docket": "20 C 271/2020-26",
+  "date": "2021-02-23",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3bf6d775-aa11-4a90-bbbc-526a68913b57",
+  "source_sha256": "d5db6cf4a541c880a9a3f0eb7e97893eba42eef798e2c5627b455927c7bfa9dc",
+  "source_id": "3bf6d775-aa11-4a90-bbbc-526a68913b57",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 271/2020-26",
+    "soud": "Okresní soud v Chebu",
+    "autor": "Mgr. Robert Plášil",
+    "ecli": "ECLI:CZ:OSCH:2021:20.C.271.2020.3",
+    "predmetRizeni": "O zaplacení 3 000 Kč s příslušenstvím",
+    "datumVydani": "2021-02-23",
+    "datumZverejneni": "2021-03-15",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3bf6d775-aa11-4a90-bbbc-526a68913b57"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
