@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:20.C.330.2020.1",
+  "docket": "20 C 330/2020-45",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7b4d05fd-c025-4d37-b9e2-df5ed207ad68",
+  "source_sha256": "fbbcc88beb2c271ee2cc62cd46b5e89041aa9bd23ca7d23fe39458ceb1fcb419",
+  "source_id": "7b4d05fd-c025-4d37-b9e2-df5ed207ad68",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 330/2020-45",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "Mgr. Jan Sýkora",
+    "ecli": "ECLI:CZ:OSTP:2021:20.C.330.2020.1",
+    "predmetRizeni": "zaplacení [částka]",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-04-01",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7b4d05fd-c025-4d37-b9e2-df5ed207ad68"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
