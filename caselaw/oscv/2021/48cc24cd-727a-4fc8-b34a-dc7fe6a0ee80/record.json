@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:7.C.307.2020.1",
+  "docket": "7 C 307/2020-27",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/48cc24cd-727a-4fc8-b34a-dc7fe6a0ee80",
+  "source_sha256": "f2a3a489e7236bdfe96e8967a5d650622fe51da0f484e9434f69677ccc000597",
+  "source_id": "48cc24cd-727a-4fc8-b34a-dc7fe6a0ee80",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 307/2020-27",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Nikola Reifová",
+    "ecli": "ECLI:CZ:OSCV:2021:7.C.307.2020.1",
+    "predmetRizeni": "zaplacení 6 760 Kč s příslušenstvím (úvěr)",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-04-11",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "příspěvek na bydlení",
+      "smlouva nájemní",
+      "smlouva o úvěru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/48cc24cd-727a-4fc8-b34a-dc7fe6a0ee80"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
