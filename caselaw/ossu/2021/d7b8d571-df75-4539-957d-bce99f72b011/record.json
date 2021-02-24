@@ -1,0 +1,46 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2021:210.C.31.2020.1",
+  "docket": "210 C 31/2020-67",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d7b8d571-df75-4539-957d-bce99f72b011",
+  "source_sha256": "6cd443dd522c2636a890ad21efc50c113a8d9a4fc6456b0463a6b400bd694556",
+  "source_id": "d7b8d571-df75-4539-957d-bce99f72b011",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "210 C 31/2020-67",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "JUDr. Kateřina Zatloukalová",
+    "ecli": "ECLI:CZ:OSSU:2021:210.C.31.2020.1",
+    "predmetRizeni": "o 13.014 Kč s příslušenstvím, o 2.358,86 Kč",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-05-31",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "nemocenské dávky",
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "vzájemné plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§  z. č. 110/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d7b8d571-df75-4539-957d-bce99f72b011"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
