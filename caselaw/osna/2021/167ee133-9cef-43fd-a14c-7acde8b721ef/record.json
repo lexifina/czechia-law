@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:10.C.20.2021.1",
+  "docket": "10 C 20/2021-16",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/167ee133-9cef-43fd-a14c-7acde8b721ef",
+  "source_sha256": "d12e84ba57a4927bf5b667d4086400c35ac58c30b368b6d90e961c2af9332cd9",
+  "source_id": "167ee133-9cef-43fd-a14c-7acde8b721ef",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 20/2021-16",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "Mgr. Michaela Balcar",
+    "ecli": "ECLI:CZ:OSNA:2021:10.C.20.2021.1",
+    "predmetRizeni": "pro zaplacení 4.414 Kč s příslušenstvím (úvěr)",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-04-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/167ee133-9cef-43fd-a14c-7acde8b721ef"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
