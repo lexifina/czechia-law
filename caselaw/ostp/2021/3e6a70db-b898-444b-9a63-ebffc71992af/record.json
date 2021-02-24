@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:10.C.278.2020.1",
+  "docket": "10 C 278/2020-48",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3e6a70db-b898-444b-9a63-ebffc71992af",
+  "source_sha256": "f6f6baa2038fa5e9a37fdedaab1e6078d4f600df082f738bb9a6f318ffc79dc2",
+  "source_id": "3e6a70db-b898-444b-9a63-ebffc71992af",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 278/2020-48",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "Mgr. Adéla Ganajová",
+    "ecli": "ECLI:CZ:OSTP:2021:10.C.278.2020.1",
+    "predmetRizeni": "zaplacení 15 830 Kč s příslušenstvím",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-05-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1812 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3e6a70db-b898-444b-9a63-ebffc71992af"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
