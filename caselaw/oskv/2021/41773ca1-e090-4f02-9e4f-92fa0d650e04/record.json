@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:17.C.185.2020.1",
+  "docket": "17 C 185/2020-29",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/41773ca1-e090-4f02-9e4f-92fa0d650e04",
+  "source_sha256": "91a45569c6e7d1deec4d2949bec952a0c3561598e20aae6e7c3d38c61acd57e1",
+  "source_id": "41773ca1-e090-4f02-9e4f-92fa0d650e04",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 185/2020-29",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "Mgr. Ondřej Doubek",
+    "ecli": "ECLI:CZ:OSKV:2021:17.C.185.2020.1",
+    "predmetRizeni": "zrušení výživného pro zletilé dítě",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "smlouva pracovní",
+      "výživné",
+      "zkušební doba"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 153 z. č. 99/1963 Sb.",
+      "§ 911 z. č. 89/2012 Sb.",
+      "§ 910 z. č. 89/2012 Sb.",
+      "§ 923 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/41773ca1-e090-4f02-9e4f-92fa0d650e04"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
