@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:55.C.254.2020.1",
+  "docket": "55 C 254/2020-18",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/04083ca2-f23f-4ef8-bdbc-a8b2ebee99ce",
+  "source_sha256": "fe1f1595a1916c7b5c2b80e3b4e8a5a44e96d271f2755c6c08b4076ca84975c3",
+  "source_id": "04083ca2-f23f-4ef8-bdbc-a8b2ebee99ce",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "55 C 254/2020-18",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Gabriela Stočková",
+    "ecli": "ECLI:CZ:MSBR:2021:55.C.254.2020.1",
+    "predmetRizeni": "zaplacení 1.000 Kč s příslušenstvím - zápůjčka",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/04083ca2-f23f-4ef8-bdbc-a8b2ebee99ce"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
