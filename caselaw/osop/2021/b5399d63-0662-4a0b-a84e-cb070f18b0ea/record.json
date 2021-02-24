@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2021:17.C.4.2021.1",
+  "docket": "17 C 4/2021-28",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b5399d63-0662-4a0b-a84e-cb070f18b0ea",
+  "source_sha256": "f2abcc3708ec7200a7c24634e8e32e551366a67804c8ec48576ebfb147168658",
+  "source_id": "b5399d63-0662-4a0b-a84e-cb070f18b0ea",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "17 C 4/2021-28",
+    "soud": "Okresní soud v Opavě",
+    "autor": "JUDr. Tereza Kravalová",
+    "ecli": "ECLI:CZ:OSOP:2021:17.C.4.2021.1",
+    "predmetRizeni": "o zaplacení [částka]",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-05-17",
+    "klicovaSlova": [
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 1815 z. č. 89/2012 Sb.",
+      "§ 1814 z. č. 89/2012 Sb.",
+      "§ 6 z. č. 89/2012 Sb.",
+      "§ 1798 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b5399d63-0662-4a0b-a84e-cb070f18b0ea"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
