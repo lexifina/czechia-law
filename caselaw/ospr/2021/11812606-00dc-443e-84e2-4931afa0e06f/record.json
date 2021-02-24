@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2021:16.C.13.2021.1",
+  "docket": "16 C 13/2021-24",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/11812606-00dc-443e-84e2-4931afa0e06f",
+  "source_sha256": "7afd9b32fa50a7210c490c4f99aad0f2c0e519fa37d3de48d72960a6fca82497",
+  "source_id": "11812606-00dc-443e-84e2-4931afa0e06f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 13/2021-24",
+    "soud": "Okresní soud v Přerově",
+    "autor": "JUDr. Jaroslav Hikl",
+    "ecli": "ECLI:CZ:OSPR:2021:16.C.13.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-09-10",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/11812606-00dc-443e-84e2-4931afa0e06f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
