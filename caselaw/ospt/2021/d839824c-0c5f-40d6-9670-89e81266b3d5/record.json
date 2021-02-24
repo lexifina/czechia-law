@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prachaticích",
+  "ecli": "ECLI:CZ:OSPT:2021:9.C.13.2021.1",
+  "docket": "9 C 13/2021-100",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d839824c-0c5f-40d6-9670-89e81266b3d5",
+  "source_sha256": "1de51e0fe4759cfae612ff35eab8ed4206bac5d7fc1d58d7326977ccb824eee9",
+  "source_id": "d839824c-0c5f-40d6-9670-89e81266b3d5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 13/2021-100",
+    "soud": "Okresní soud v Prachaticích",
+    "autor": "JUDr. Simona Vojíková",
+    "ecli": "ECLI:CZ:OSPT:2021:9.C.13.2021.1",
+    "predmetRizeni": "o zaplacení 13 000 Kč s příslušenstvím",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 1724 z. č. 89/2012 Sb.",
+      "§ 1725 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 562 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d839824c-0c5f-40d6-9670-89e81266b3d5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
