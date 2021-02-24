@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:6.C.287.2020.1",
+  "docket": "6 C 287/2020-12",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/75b39246-3bb9-41f6-9934-21da3d798bdb",
+  "source_sha256": "56d8d5b7d6e5b4a1460ad9b6c876715a91071f9381cd6248521b9244104051a4",
+  "source_id": "75b39246-3bb9-41f6-9934-21da3d798bdb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 287/2020-12",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Petr Slezák",
+    "ecli": "ECLI:CZ:OSDC:2021:6.C.287.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-07-15",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/75b39246-3bb9-41f6-9934-21da3d798bdb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
