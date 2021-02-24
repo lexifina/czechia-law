@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2021:24.C.369.2020.1",
+  "docket": "24 C 369/2020-13",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0914ccc1-012e-4430-bef6-5df58c80bb32",
+  "source_sha256": "9329f55fb32da1d299e6f68dba27769f5b1079f457a282997b676d25313e7d5b",
+  "source_id": "0914ccc1-012e-4430-bef6-5df58c80bb32",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 369/2020-13",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "JUDr. Ivan Holub, , Ph.D.",
+    "ecli": "ECLI:CZ:OSNJ:2021:24.C.369.2020.1",
+    "predmetRizeni": "O zaplacení 25 000 Kč s příslušenstvím",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-05-05",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 2394 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0914ccc1-012e-4430-bef6-5df58c80bb32"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
