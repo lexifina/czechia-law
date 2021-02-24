@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kolíně",
+  "ecli": "ECLI:CZ:OSKO:2021:6.C.3.2021.1",
+  "docket": "6 C 3/2021-13",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/58d8dcc8-baa5-4b7d-87bf-c05c3fe0ca80",
+  "source_sha256": "1e7ca2b6ad6f7a1a2eae0554a97efab6ba4036f46131ea688c74246faca9fff4",
+  "source_id": "58d8dcc8-baa5-4b7d-87bf-c05c3fe0ca80",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 3/2021-13",
+    "soud": "Okresní soud v Kolíně",
+    "autor": "JUDr. Helena Teslíková",
+    "ecli": "ECLI:CZ:OSKO:2021:6.C.3.2021.1",
+    "predmetRizeni": "O zaplacení 3 614 Kč s příslušenstvím",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/58d8dcc8-baa5-4b7d-87bf-c05c3fe0ca80"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
