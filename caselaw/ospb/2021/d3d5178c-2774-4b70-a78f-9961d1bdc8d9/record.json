@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:12.C.203.2020.1",
+  "docket": "12 C 203/2020-22",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d3d5178c-2774-4b70-a78f-9961d1bdc8d9",
+  "source_sha256": "1df42ee4e63f87bf86111436479f5431d639649b1043e20e682b67ea05978be8",
+  "source_id": "d3d5178c-2774-4b70-a78f-9961d1bdc8d9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 203/2020-22",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Lenka Melmuková",
+    "ecli": "ECLI:CZ:OSPB:2021:12.C.203.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-04-01",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d3d5178c-2774-4b70-a78f-9961d1bdc8d9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
