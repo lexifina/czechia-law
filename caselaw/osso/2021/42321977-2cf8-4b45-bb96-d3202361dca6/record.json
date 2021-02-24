@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:11.C.21.2021.2",
+  "docket": "11 C 21/2021-14",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/42321977-2cf8-4b45-bb96-d3202361dca6",
+  "source_sha256": "aa997eaebd57e0191a697398766b3e1607e1f80515872681375a4f727bf9bcf1",
+  "source_id": "42321977-2cf8-4b45-bb96-d3202361dca6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 21/2021-14",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "JUDr. Vladimír Hovorka",
+    "ecli": "ECLI:CZ:OSSO:2021:11.C.21.2021.2",
+    "predmetRizeni": "zaplacení 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-04-27",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§  vyhl. č. 175/2000 Sb.",
+      "§  z. č. 111/1994 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/42321977-2cf8-4b45-bb96-d3202361dca6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
