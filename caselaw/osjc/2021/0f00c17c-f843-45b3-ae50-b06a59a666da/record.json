@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jičíně",
+  "ecli": "ECLI:CZ:OSJC:2021:11.C.183.2020.1",
+  "docket": "11 C 183/2020-71",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0f00c17c-f843-45b3-ae50-b06a59a666da",
+  "source_sha256": "559cd440853e8c088cb17f6730a0921a67d800b90350dc75d5c541a311cff4e6",
+  "source_id": "0f00c17c-f843-45b3-ae50-b06a59a666da",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 183/2020-71",
+    "soud": "Okresní soud v Jičíně",
+    "autor": "Mgr. Tomáš Chrást",
+    "ecli": "ECLI:CZ:OSJC:2021:11.C.183.2020.1",
+    "predmetRizeni": "o 14 800 Kč s příslušenstvím",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-05-05",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1897 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0f00c17c-f843-45b3-ae50-b06a59a666da"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
