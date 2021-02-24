@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prachaticích",
+  "ecli": "ECLI:CZ:OSPT:2021:8.C.20.2021.1",
+  "docket": "8 C 20/2021-34",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0d226c53-23ce-4ec6-8740-ef9e3ff1f22d",
+  "source_sha256": "c140542021dd056baefd60375be589b28d395b5215d21f50217c94ca450f0dbd",
+  "source_id": "0d226c53-23ce-4ec6-8740-ef9e3ff1f22d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 20/2021-34",
+    "soud": "Okresní soud v Prachaticích",
+    "autor": "Mgr. Milada Trůblová",
+    "ecli": "ECLI:CZ:OSPT:2021:8.C.20.2021.1",
+    "predmetRizeni": "o zaplacení 116 671,24 Kč s příslušenstvím",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-04-27",
+    "klicovaSlova": [
+      "smlouva o úvěru",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 497 z. č. 513/1991 Sb.",
+      "§ 369 z. č. 513/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0d226c53-23ce-4ec6-8740-ef9e3ff1f22d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
