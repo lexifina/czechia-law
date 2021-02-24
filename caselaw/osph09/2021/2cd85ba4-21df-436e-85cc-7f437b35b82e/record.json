@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2021:9.C.11.2021.1",
+  "docket": "9 C 11/2021-20",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2cd85ba4-21df-436e-85cc-7f437b35b82e",
+  "source_sha256": "add0ca05787367c1a6a27d5d72e80da6bb2288fcfde1d041ce617d03829be734",
+  "source_id": "2cd85ba4-21df-436e-85cc-7f437b35b82e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 11/2021-20",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "JUDr. Andrea Höllgeová",
+    "ecli": "ECLI:CZ:OSPH09:2021:9.C.11.2021.1",
+    "predmetRizeni": "O zaplacení 8 000 Kč s příslušenstvím",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-05-06",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 104 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2cd85ba4-21df-436e-85cc-7f437b35b82e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
