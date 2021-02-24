@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:9.C.288.2020.1",
+  "docket": "9 C 288/2020-99",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/06f8c025-fcce-4210-8afb-ddba85c6a581",
+  "source_sha256": "0a9b49287c64b591f10caecfe621da91882a00ec32e81b85ded2af5701f99e37",
+  "source_id": "06f8c025-fcce-4210-8afb-ddba85c6a581",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 288/2020-99",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "JUDr. Alice Havránková",
+    "ecli": "ECLI:CZ:OSPV:2021:9.C.288.2020.1",
+    "predmetRizeni": "O zaplacení 23.250 Kč s příslušenstvím",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-05-11",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "duševní porucha",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 1 z. č. 145/2010 Sb.",
+      "§ 9 z. č. 145/2010 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/06f8c025-fcce-4210-8afb-ddba85c6a581"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
