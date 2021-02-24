@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:10.C.4.2021.1",
+  "docket": "10 C 4/2021-13",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e7fc5209-98d2-4f97-8695-25f9899c1ae6",
+  "source_sha256": "93806a6d04377e3a7cceaaa3c7f3f158dfcf80179254be8ef81cc1083bc9c262",
+  "source_id": "e7fc5209-98d2-4f97-8695-25f9899c1ae6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 4/2021-13",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Lenka Pávková",
+    "ecli": "ECLI:CZ:OSTA:2021:10.C.4.2021.1",
+    "predmetRizeni": "O zaplacení 3 543 Kč s příslušenstvím",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-04-28",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e7fc5209-98d2-4f97-8695-25f9899c1ae6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
