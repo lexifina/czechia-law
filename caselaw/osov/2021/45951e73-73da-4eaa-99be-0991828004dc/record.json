@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:22.C.23.2021.1",
+  "docket": "22 C 23/2021-21",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/45951e73-73da-4eaa-99be-0991828004dc",
+  "source_sha256": "735d6ab89c34a215f56c51f628bb82f34178e301c13fb8d714e47fefc6b2c1f7",
+  "source_id": "45951e73-73da-4eaa-99be-0991828004dc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 23/2021-21",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Hana Chabičová",
+    "ecli": "ECLI:CZ:OSOV:2021:22.C.23.2021.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-05-18",
+    "klicovaSlova": [
+      "elektronický podpis",
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 562 z. č. 89/2012 Sb.",
+      "§ 7 z. č. 297/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/45951e73-73da-4eaa-99be-0991828004dc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
