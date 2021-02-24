@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2021:18.C.61.2021.1",
+  "docket": "18 C 61/2021-20",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/80d505e3-15f1-4f39-9011-33025707323e",
+  "source_sha256": "81aa6898aaf926bf44d45f31f97c1daaeacb20647dce8e443a00ddb06f5f25da",
+  "source_id": "80d505e3-15f1-4f39-9011-33025707323e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 61/2021-20",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "JUDr. Eva Němečková",
+    "ecli": "ECLI:CZ:OSPH09:2021:18.C.61.2021.1",
+    "predmetRizeni": "O zaplacení 14 219,40 Kč s příslušenstvím",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-05-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/80d505e3-15f1-4f39-9011-33025707323e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
