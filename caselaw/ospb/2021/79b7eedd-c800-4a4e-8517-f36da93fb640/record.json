@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:14.C.5.2021.2",
+  "docket": "14 C 5/2021-27",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/79b7eedd-c800-4a4e-8517-f36da93fb640",
+  "source_sha256": "832164e595bd81343856cb4cca745fc1d4dd9477218dab106baba5fac31a15dd",
+  "source_id": "79b7eedd-c800-4a4e-8517-f36da93fb640",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 5/2021-27",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Josef Pelcner",
+    "ecli": "ECLI:CZ:OSPB:2021:14.C.5.2021.2",
+    "predmetRizeni": "vyklizení bytu",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-11-18",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "nájem bytu",
+      "peněžité plnění",
+      "smlouva nájemní",
+      "výpověď z nájmu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1040 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/79b7eedd-c800-4a4e-8517-f36da93fb640"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
