@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:5.C.192.2020.1",
+  "docket": "5 C 192/2020-17",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b074af67-7722-4703-8a16-4ae48aa73d28",
+  "source_sha256": "3edf84cf07fbf93f575a38a6e04f415a80141583312ae7081e19c5a3570133cd",
+  "source_id": "b074af67-7722-4703-8a16-4ae48aa73d28",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 192/2020-17",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "Mgr. Bohumila Kyvířová",
+    "ecli": "ECLI:CZ:OSDO:2021:5.C.192.2020.1",
+    "predmetRizeni": "O zaplacení 17 950 Kč s příslušenstvím",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b074af67-7722-4703-8a16-4ae48aa73d28"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
