@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2021:5.C.59.2021.1",
+  "docket": "5 C 59/2021-15",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/23e18f67-844c-4b01-89c9-f18e2e6fc9bd",
+  "source_sha256": "0362a56799c4364177ad759d04b0476371f4e8cd2decde1feaf4a5f27ad1d7eb",
+  "source_id": "23e18f67-844c-4b01-89c9-f18e2e6fc9bd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 59/2021-15",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "JUDr. Simona Kačerová",
+    "ecli": "ECLI:CZ:OSPZ:2021:5.C.59.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-06-11",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/23e18f67-844c-4b01-89c9-f18e2e6fc9bd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
