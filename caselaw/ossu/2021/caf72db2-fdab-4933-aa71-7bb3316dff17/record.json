@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2021:8.C.206.2020.1",
+  "docket": "8 C 206/2020-16",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/caf72db2-fdab-4933-aa71-7bb3316dff17",
+  "source_sha256": "86b0c23c62c484e08c15befdfe768c4965f11ae822fdb1139b9808b9948af98c",
+  "source_id": "caf72db2-fdab-4933-aa71-7bb3316dff17",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 206/2020-16",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "Mgr. Pavel Janků",
+    "ecli": "ECLI:CZ:OSSU:2021:8.C.206.2020.1",
+    "predmetRizeni": "o 1.913,81 Kč s příslušenstvím",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-05-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatek z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 61 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/caf72db2-fdab-4933-aa71-7bb3316dff17"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
