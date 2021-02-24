@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Přerově",
+  "ecli": "ECLI:CZ:OSPR:2021:19.C.309.2020.1",
+  "docket": "19 C 309/2020-44",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/40444aba-8ce9-40df-99b0-ec7f07fddb44",
+  "source_sha256": "7457ff772e4d6aac42cf992a4e75374413cc652598d79f0829d26290bcff6f61",
+  "source_id": "40444aba-8ce9-40df-99b0-ec7f07fddb44",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "19 C 309/2020-44",
+    "soud": "Okresní soud v Přerově",
+    "autor": "Mgr. Jana Malá, LL.M.",
+    "ecli": "ECLI:CZ:OSPR:2021:19.C.309.2020.1",
+    "predmetRizeni": "zaplacení [částka] s přísl. - zápůjčka",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-04-13",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§ 1882 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/40444aba-8ce9-40df-99b0-ec7f07fddb44"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
