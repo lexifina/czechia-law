@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Krajský soud v Praze",
+  "ecli": "ECLI:CZ:KSPH:2021:47.Cm.300.2015 .1",
+  "docket": "47 CM 300/2015-21",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e6c64375-a5cf-4697-bd02-d217379937a1",
+  "source_sha256": "940b1131f4d28b332707ded52c94f3cd628e94a0abd824f23a9eeafb4ec0141c",
+  "source_id": "e6c64375-a5cf-4697-bd02-d217379937a1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "47 CM 300/2015-21",
+    "soud": "Krajský soud v Praze",
+    "autor": "Mgr. Vladimír Sommer",
+    "ecli": "ECLI:CZ:KSPH:2021:47.Cm.300.2015 .1",
+    "predmetRizeni": "o zaplacení 75 000 Kč s příslušenstvím a odměnou 250 Kč,",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-07-20",
+    "klicovaSlova": [
+      "insolvence",
+      "peněžité plnění",
+      "povinnost k náhradě nákladů",
+      "směnka"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 414 z. č. 182/2006 Sb.",
+      "§ 173 z. č. 182/2006 Sb.",
+      "§ 75 z. č. 191/1950 Sb.",
+      "§ 16 z. č. 191/1950 Sb.",
+      "§ 47 z. č. 191/1950 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e6c64375-a5cf-4697-bd02-d217379937a1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
