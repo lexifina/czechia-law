@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chrudimi",
+  "ecli": "ECLI:CZ:OSCR:2021:3.C.339.2020.1",
+  "docket": "3 C 339/2020-13",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bd7cf7ad-4ff3-4955-82c5-cc32ed2f5fe8",
+  "source_sha256": "ba124fa4070e92dfc006b9c9f6ec0c58adae00250f67b797e3602707f608dc25",
+  "source_id": "bd7cf7ad-4ff3-4955-82c5-cc32ed2f5fe8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 339/2020-13",
+    "soud": "Okresní soud v Chrudimi",
+    "autor": "JUDr. Jana Profousová",
+    "ecli": "ECLI:CZ:OSCR:2021:3.C.339.2020.1",
+    "predmetRizeni": "o 1 101,51 Kč s příslušenstvím",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-05-24",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 173 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bd7cf7ad-4ff3-4955-82c5-cc32ed2f5fe8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
