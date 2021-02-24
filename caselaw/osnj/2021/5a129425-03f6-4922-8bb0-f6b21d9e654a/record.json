@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2021:7.C.192.2020.2",
+  "docket": "7 C 192/2020-24",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-02-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5a129425-03f6-4922-8bb0-f6b21d9e654a",
+  "source_sha256": "0f5904d53ab9fa93fc5404720642d307215c886ed06c62802efc120930488f83",
+  "source_id": "5a129425-03f6-4922-8bb0-f6b21d9e654a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 192/2020-24",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "JUDr. Silvie Slaná",
+    "ecli": "ECLI:CZ:OSNJ:2021:7.C.192.2020.2",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-02-25",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5a129425-03f6-4922-8bb0-f6b21d9e654a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
