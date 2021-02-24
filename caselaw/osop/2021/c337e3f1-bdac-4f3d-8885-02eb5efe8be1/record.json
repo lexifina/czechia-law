@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Opavě",
+  "ecli": "ECLI:CZ:OSOP:2021:16.C.333.2020.1",
+  "docket": "16 C 333/2020-34",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c337e3f1-bdac-4f3d-8885-02eb5efe8be1",
+  "source_sha256": "599f682844ebd209c3bc000de6da94d7d878b23b3c94a2064a9474fc93e11aa7",
+  "source_id": "c337e3f1-bdac-4f3d-8885-02eb5efe8be1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 333/2020-34",
+    "soud": "Okresní soud v Opavě",
+    "autor": "Mgr. Radek Solař",
+    "ecli": "ECLI:CZ:OSOP:2021:16.C.333.2020.1",
+    "predmetRizeni": "o zaplacení 4 738,39 Kč s příslušenstvím",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-05-05",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 1751 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c337e3f1-bdac-4f3d-8885-02eb5efe8be1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
