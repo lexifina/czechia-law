@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Nymburce",
+  "ecli": "ECLI:CZ:OSNB:2021:7.C.275.2020.1",
+  "docket": "7 C 275/2020",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/460ef640-7534-44a5-9754-b78a0a35aa79",
+  "source_sha256": "9c0cd8cff638f6b814ec237719adc6e3bec1ba4d750158296d539541f89d705f",
+  "source_id": "460ef640-7534-44a5-9754-b78a0a35aa79",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 275/2020",
+    "soud": "Okresní soud v Nymburce",
+    "autor": "Mgr. Kristina Steinmetzová",
+    "ecli": "ECLI:CZ:OSNB:2021:7.C.275.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva zástavní",
+      "zajištění dluhu",
+      "zástavní právo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 9 vyhl. č. 177/1996 Sb.",
+      "§ 358 z. č. 292/2013 Sb.",
+      "§ 356 z. č. 292/2013 Sb.",
+      "§ 1309 z. č. 89/2012 Sb.",
+      "§ 1359 z. č. 89/2012 Sb.",
+      "§ 358 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/460ef640-7534-44a5-9754-b78a0a35aa79"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
