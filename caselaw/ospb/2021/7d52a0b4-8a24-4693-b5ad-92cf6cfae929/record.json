@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:16.C.29.2021.1",
+  "docket": "16 C 29/2021-47",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7d52a0b4-8a24-4693-b5ad-92cf6cfae929",
+  "source_sha256": "7c97225a9a9ee345a294bc96d9ee5d7cec218996798baf1d2df137ed32e1bb64",
+  "source_id": "7d52a0b4-8a24-4693-b5ad-92cf6cfae929",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 29/2021-47",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Alice Kořínková",
+    "ecli": "ECLI:CZ:OSPB:2021:16.C.29.2021.1",
+    "predmetRizeni": "zaplacení 5 906 Kč s příslušenstvím",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-04-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7d52a0b4-8a24-4693-b5ad-92cf6cfae929"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
