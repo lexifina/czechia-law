@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:5.C.313.2020.1",
+  "docket": "5 C 313/2020-41",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c25c5a7d-1c6c-44d7-acf0-56c893738af0",
+  "source_sha256": "523bb95a24e9d839d369507a12f6e8e60c3d56bbecbd72f15e8fd0a39b888d00",
+  "source_id": "c25c5a7d-1c6c-44d7-acf0-56c893738af0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 313/2020-41",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "Mgr. Bohumila Kyvířová",
+    "ecli": "ECLI:CZ:OSDO:2021:5.C.313.2020.1",
+    "predmetRizeni": "o zapl. 37 635,32 Kč s přísl.",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c25c5a7d-1c6c-44d7-acf0-56c893738af0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
