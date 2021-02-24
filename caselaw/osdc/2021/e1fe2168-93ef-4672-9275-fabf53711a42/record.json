@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:6.C.53.2021.1",
+  "docket": "6 C 53/2021-11",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e1fe2168-93ef-4672-9275-fabf53711a42",
+  "source_sha256": "86b5d2c85a17d3f28de9dad6a4259c893ef1d473bb840ae2d61e5a7697d445e9",
+  "source_id": "e1fe2168-93ef-4672-9275-fabf53711a42",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 53/2021-11",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Petr Slezák",
+    "ecli": "ECLI:CZ:OSDC:2021:6.C.53.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e1fe2168-93ef-4672-9275-fabf53711a42"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
