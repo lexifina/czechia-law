@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:22.C.214.2020.1",
+  "docket": "22 C 214/2020-28",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/758a2fb1-2489-4c76-a1da-349a6337abf0",
+  "source_sha256": "1fe5dbd79f123200b8b36436f5619be9b0e94c3c53a29c1fe0b6022b591e3075",
+  "source_id": "758a2fb1-2489-4c76-a1da-349a6337abf0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 214/2020-28",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Gabriela Antonie Bartová",
+    "ecli": "ECLI:CZ:OSPY:2021:22.C.214.2020.1",
+    "predmetRizeni": "o vydání věci",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-05-21",
+    "klicovaSlova": [
+      "vydání věci"
+    ],
+    "zminenaUstanoveni": [
+      "§ 74 z. č. 458/2000 Sb.",
+      "§ 1040 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/758a2fb1-2489-4c76-a1da-349a6337abf0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
