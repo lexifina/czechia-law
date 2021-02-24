@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:10.C.18.2021.1",
+  "docket": "10 C 18/2021-15",
+  "date": "2021-02-24",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d426c1cb-10ed-49f1-a3fa-acee4a40c430",
+  "source_sha256": "b31feb28bc188cdd6953d406904ca4818f296f280c57609e5dd21ba4d8bc9a39",
+  "source_id": "d426c1cb-10ed-49f1-a3fa-acee4a40c430",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 18/2021-15",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "Mgr. Michaela Balcar",
+    "ecli": "ECLI:CZ:OSNA:2021:10.C.18.2021.1",
+    "predmetRizeni": "pro zaplacení 1.524 Kč s příslušenstvím (jízdné)",
+    "datumVydani": "2021-02-24",
+    "datumZverejneni": "2021-04-12",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 7 vyhl. č. 175/2000 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d426c1cb-10ed-49f1-a3fa-acee4a40c430"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
