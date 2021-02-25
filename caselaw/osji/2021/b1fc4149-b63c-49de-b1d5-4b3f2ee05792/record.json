@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2021:8.C.163.2020.1",
+  "docket": "8 C 163/2020-38",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-10-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b1fc4149-b63c-49de-b1d5-4b3f2ee05792",
+  "source_sha256": "0d017477d2854289104dbf448490cc87022c5c78508a38aa32b828f3d3531014",
+  "source_id": "b1fc4149-b63c-49de-b1d5-4b3f2ee05792",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 163/2020-38",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "Mgr. Radek Pavlačka",
+    "ecli": "ECLI:CZ:OSJI:2021:8.C.163.2020.1",
+    "predmetRizeni": "o 11 028 Kč s příslušenstvím",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-10-08",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 1880 z. č. 89/2012 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 2 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b1fc4149-b63c-49de-b1d5-4b3f2ee05792"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
