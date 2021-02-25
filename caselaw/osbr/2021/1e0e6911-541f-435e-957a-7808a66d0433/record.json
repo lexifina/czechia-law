@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Berouně",
+  "ecli": "ECLI:CZ:OSBR:2021:12.C.291.2020.1",
+  "docket": "12 C 291/2020",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1e0e6911-541f-435e-957a-7808a66d0433",
+  "source_sha256": "e351e62db3390af12bf98c5fb4b6c9964cffc9d78dbdda63bd45f5ba08ef49ca",
+  "source_id": "1e0e6911-541f-435e-957a-7808a66d0433",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 291/2020",
+    "soud": "Okresní soud v Berouně",
+    "autor": "Mgr. Petr Pomahač",
+    "ecli": "ECLI:CZ:OSBR:2021:12.C.291.2020.1",
+    "predmetRizeni": "žaloba o vrácení dlužné částky",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-04-29",
+    "klicovaSlova": [
+      "dlužní úpis",
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 132 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1e0e6911-541f-435e-957a-7808a66d0433"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
