@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Berouně",
+  "ecli": "ECLI:CZ:OSBR:2021:13.C.21.2021.1",
+  "docket": "13 C 21/2021",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/96008111-fe5e-4db5-9f4c-59f383f1244e",
+  "source_sha256": "8e8e65d00d88b19bc68b30001d073a9cf0d5a743998078e18845c2a3bd0a8ecd",
+  "source_id": "96008111-fe5e-4db5-9f4c-59f383f1244e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 21/2021",
+    "soud": "Okresní soud v Berouně",
+    "autor": "JUDr. Tomáš Štindl",
+    "ecli": "ECLI:CZ:OSBR:2021:13.C.21.2021.1",
+    "predmetRizeni": "O zaplacení 5 000 Kč s příslušenstvím",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-04-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "prodlení věřitele",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 2392 z. č. 89/2012 Sb.",
+      "§ 2394 z. č. 89/2012 Sb.",
+      "§ 2393 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/96008111-fe5e-4db5-9f4c-59f383f1244e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
