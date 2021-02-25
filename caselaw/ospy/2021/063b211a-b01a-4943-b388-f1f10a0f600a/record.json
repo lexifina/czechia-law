@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:8.C.379.2020.1",
+  "docket": "8 C 379/2020-18",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/063b211a-b01a-4943-b388-f1f10a0f600a",
+  "source_sha256": "3348f34dd2fef160a4fa3566ceffd3aab5f94c2a5351999cc1df860b0bbc4d7b",
+  "source_id": "063b211a-b01a-4943-b388-f1f10a0f600a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 379/2020-18",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Jitka Sochorová",
+    "ecli": "ECLI:CZ:OSPY:2021:8.C.379.2020.1",
+    "predmetRizeni": "o zaplacení částky 61.940 Kč s přísl.",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-04-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "prodlení věřitele",
+      "společenství vlastníků jednotek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1181 z. č. 89/2012 Sb.",
+      "§ 1175 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/063b211a-b01a-4943-b388-f1f10a0f600a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
