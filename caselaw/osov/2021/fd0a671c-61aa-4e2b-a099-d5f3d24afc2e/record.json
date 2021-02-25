@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:62.C.43.2020.4",
+  "docket": "62 C 43/2020-66",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fd0a671c-61aa-4e2b-a099-d5f3d24afc2e",
+  "source_sha256": "b4bfa87629887aa862f9849248ddebe905cf3a6f67c874ceecd96c5cb7216eac",
+  "source_id": "fd0a671c-61aa-4e2b-a099-d5f3d24afc2e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "62 C 43/2020-66",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Radana Vilčová",
+    "ecli": "ECLI:CZ:OSOV:2021:62.C.43.2020.4",
+    "predmetRizeni": "o zrušení společného nájmu bytu",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-04-29",
+    "klicovaSlova": [
+      "nájem bytu",
+      "rodinná domácnost",
+      "rozvod manželství",
+      "smlouva nájemní",
+      "společný nájem bytu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2235 z. č. 89/2012 Sb.",
+      "§ 685 z. č. 89/2012 Sb.",
+      "§  143a z. č. 89/2012 Sb.",
+      "§ 768 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fd0a671c-61aa-4e2b-a099-d5f3d24afc2e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
