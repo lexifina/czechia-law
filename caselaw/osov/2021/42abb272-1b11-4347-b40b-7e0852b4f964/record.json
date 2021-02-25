@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:36.C.206.2020.2",
+  "docket": "36 C 206/2020-23",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/42abb272-1b11-4347-b40b-7e0852b4f964",
+  "source_sha256": "1081c3f02e8b75f1aa76a73e0b69251bf770efd5014c6c4b1f95d9091080f42a",
+  "source_id": "42abb272-1b11-4347-b40b-7e0852b4f964",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 206/2020-23",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Renáta Snášelová",
+    "ecli": "ECLI:CZ:OSOV:2021:36.C.206.2020.2",
+    "predmetRizeni": "o vydání věci a úhradu 10 700 Kč s příslušenstvím",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-04-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o dílo",
+      "smlouva o výpůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 1040 z. č. 89/2012 Sb.",
+      "§ 2193 z. č. 89/2012 Sb.",
+      "§ 2913 z. č. 89/2012 Sb.",
+      "§  z. č. 257/2001 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/42abb272-1b11-4347-b40b-7e0852b4f964"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
