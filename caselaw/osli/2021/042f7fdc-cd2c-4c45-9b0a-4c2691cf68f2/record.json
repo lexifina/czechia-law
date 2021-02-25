@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:12.C.313.2020.1",
+  "docket": "12 C 313/2020-111",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/042f7fdc-cd2c-4c45-9b0a-4c2691cf68f2",
+  "source_sha256": "d7492acd650b3884c2cd8989cc950b9bed94414b91279e2daa1540ec57c674a0",
+  "source_id": "042f7fdc-cd2c-4c45-9b0a-4c2691cf68f2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 313/2020-111",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Renata Urbánková",
+    "ecli": "ECLI:CZ:OSLI:2021:12.C.313.2020.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 1 662,25 Kč s příslušenstvím",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-04-06",
+    "klicovaSlova": [
+      "dodávky energie",
+      "náhrada škody",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 74 z. č. 458/2000 Sb.",
+      "§ 5 vyhl. č. 108/2011 Sb.",
+      "§ 2951 z. č. 89/2012 Sb.",
+      "§ 2910 z. č. 89/2012 Sb.",
+      "§ 9 vyhl. č. 108/2011 Sb.",
+      "§ 59 z. č. 458/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/042f7fdc-cd2c-4c45-9b0a-4c2691cf68f2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
