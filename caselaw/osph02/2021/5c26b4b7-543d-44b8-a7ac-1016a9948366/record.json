@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:15.C.229.2020.1",
+  "docket": "15 C 229/2020-24",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5c26b4b7-543d-44b8-a7ac-1016a9948366",
+  "source_sha256": "5f3296604017efd6095f1953bc72faeb3b6e081fc0da61520be0eeee7b21291f",
+  "source_id": "5c26b4b7-543d-44b8-a7ac-1016a9948366",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 229/2020-24",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "JUDr. Ondřej Růžička",
+    "ecli": "ECLI:CZ:OSPH02:2021:15.C.229.2020.1",
+    "predmetRizeni": "O zaplacení 39 450 Kč s příslušenstvím",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-05-07",
+    "klicovaSlova": [
+      "odtah vozidla",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 27 z. č. 361/2000 Sb.",
+      "§ 59 z. č. 131/2000 Sb.",
+      "§ 27 z. č. 250/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5c26b4b7-543d-44b8-a7ac-1016a9948366"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
