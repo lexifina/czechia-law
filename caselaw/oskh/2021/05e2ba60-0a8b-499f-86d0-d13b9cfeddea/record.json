@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kutné Hoře",
+  "ecli": "ECLI:CZ:OSKH:2021:11.C.410.2020.1",
+  "docket": "11 C 410/2020-12",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/05e2ba60-0a8b-499f-86d0-d13b9cfeddea",
+  "source_sha256": "82da11dc9db5bbf9a9901d2527f43360f1062daf8e482d0ce0f79f436bd5f0f1",
+  "source_id": "05e2ba60-0a8b-499f-86d0-d13b9cfeddea",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 410/2020-12",
+    "soud": "Okresní soud v Kutné Hoře",
+    "autor": "Mgr. Tereza Martínková",
+    "ecli": "ECLI:CZ:OSKH:2021:11.C.410.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-03-16",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/05e2ba60-0a8b-499f-86d0-d13b9cfeddea"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
