@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:10.C.205.2020.1",
+  "docket": "10 C 205/2020-27",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f8f794ae-794b-4bd2-91c0-42adbf546144",
+  "source_sha256": "cd8c019d2a35388bc2a6b2faf5cec20ee577d5dea88a434a91fe9a87e7e9f0bb",
+  "source_id": "f8f794ae-794b-4bd2-91c0-42adbf546144",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 205/2020-27",
+    "soud": "Okresní soud v Táboře",
+    "autor": "JUDr. Lenka Pávková",
+    "ecli": "ECLI:CZ:OSTA:2021:10.C.205.2020.1",
+    "predmetRizeni": "O zaplacení 8 666 Kč s příslušenstvím",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-03-23",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f8f794ae-794b-4bd2-91c0-42adbf546144"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
