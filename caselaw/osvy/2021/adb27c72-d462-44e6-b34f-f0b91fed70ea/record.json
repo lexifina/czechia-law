@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:11.C.78.2020.1",
+  "docket": "11 C 78/2020-24",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/adb27c72-d462-44e6-b34f-f0b91fed70ea",
+  "source_sha256": "1e7d208468edec2d9d5f976fef9a2ec227409b9abe5c688f3737d18f3990c94e",
+  "source_id": "adb27c72-d462-44e6-b34f-f0b91fed70ea",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 78/2020-24",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "Mgr. Pavla Kohoutková",
+    "ecli": "ECLI:CZ:OSVY:2021:11.C.78.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-03-31",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 687 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/adb27c72-d462-44e6-b34f-f0b91fed70ea"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
