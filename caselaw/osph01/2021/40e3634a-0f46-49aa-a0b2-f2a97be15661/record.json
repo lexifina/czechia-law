@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 1",
+  "ecli": "ECLI:CZ:OSPH01:2021:12.C.198.2020.1",
+  "docket": "12 C 198/2020-15",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/40e3634a-0f46-49aa-a0b2-f2a97be15661",
+  "source_sha256": "017256d6666ad3822be79f1eb08c119c9b3dd108431d58b6a5194fb592130bcc",
+  "source_id": "40e3634a-0f46-49aa-a0b2-f2a97be15661",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 198/2020-15",
+    "soud": "Obvodní soud pro Prahu 1",
+    "autor": "Mgr. Kateřina Tluchořová",
+    "ecli": "ECLI:CZ:OSPH01:2021:12.C.198.2020.1",
+    "predmetRizeni": "o zaplacení 952 Kč s příslušenstvím",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-05-13",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění majetku"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/40e3634a-0f46-49aa-a0b2-f2a97be15661"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
