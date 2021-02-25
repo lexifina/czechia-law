@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:8.C.423.2020.1",
+  "docket": "8 C 423/2020-14",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5f0697cd-3b7c-4b85-9233-f2c88afb70f9",
+  "source_sha256": "1239096ef89c4de860bd70ab6b4c864a20ad7b727832da0639b76eedbc710204",
+  "source_id": "5f0697cd-3b7c-4b85-9233-f2c88afb70f9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 423/2020-14",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "Mgr. Michaela Nováková",
+    "ecli": "ECLI:CZ:OSHK:2021:8.C.423.2020.1",
+    "predmetRizeni": "o zaplacení 3 028 Kč s příslušenstvím",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "ručení"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 168/99 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5f0697cd-3b7c-4b85-9233-f2c88afb70f9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
