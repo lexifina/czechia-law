@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:15.C.3.2021.1",
+  "docket": "15 C 3/2021-14",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d63b857e-ba86-4988-82d8-7975efe65f05",
+  "source_sha256": "e102413ca481bc5c9bf214d8b47c60a3290eae3bccb5a6d35cd48a5e6b4280e4",
+  "source_id": "d63b857e-ba86-4988-82d8-7975efe65f05",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 3/2021-14",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "JUDr. Alena Divíšková",
+    "ecli": "ECLI:CZ:OSCL:2021:15.C.3.2021.1",
+    "predmetRizeni": "O zaplacení 5 769,92 Kč s příslušenstvím",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 1970 z. č. 89/2021 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d63b857e-ba86-4988-82d8-7975efe65f05"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
