@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2021:16.C.234.2020.1",
+  "docket": "16 C 234/2020-28",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3a5b7247-c486-4433-87c2-88bbef56e2ed",
+  "source_sha256": "e7e36e4f1ddaefcd08f5f3bc654ef57a964b2f4d30c6838a7c114dfb80935887",
+  "source_id": "3a5b7247-c486-4433-87c2-88bbef56e2ed",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 234/2020-28",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "JUDr. Marcela Mrkalová",
+    "ecli": "ECLI:CZ:OSBU:2021:16.C.234.2020.1",
+    "predmetRizeni": "7.995 Kč s příslušenstvím",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-11-05",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 1 z. č. 89/2012 Sb.",
+      "§ 6 z. č. 89/2012 Sb.",
+      "§ 576 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3a5b7247-c486-4433-87c2-88bbef56e2ed"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
