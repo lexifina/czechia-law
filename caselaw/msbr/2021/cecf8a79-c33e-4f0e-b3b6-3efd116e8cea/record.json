@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:14.C.138.2019.1",
+  "docket": "14 C 138/2019",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cecf8a79-c33e-4f0e-b3b6-3efd116e8cea",
+  "source_sha256": "f541e9217f19750c3eb91e66c2d7350ce56e397bca338bd94fa3f8d9e3a9835c",
+  "source_id": "cecf8a79-c33e-4f0e-b3b6-3efd116e8cea",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 138/2019",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Michaela Silnická",
+    "ecli": "ECLI:CZ:MSBR:2021:14.C.138.2019.1",
+    "predmetRizeni": "zaplacení 6.852 Kč s příslušenstvím - úvěr",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-09-23",
+    "klicovaSlova": [
+      "investiční fond",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cecf8a79-c33e-4f0e-b3b6-3efd116e8cea"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
