@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:22.C.116.2020.1",
+  "docket": "22 C 116/2020-15",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b63c6697-1125-44cd-9cc6-1591531980df",
+  "source_sha256": "a50701caabf478628a5e578db8c9703560d2f826dd5c44a6aa09efd4239c97e0",
+  "source_id": "b63c6697-1125-44cd-9cc6-1591531980df",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 116/2020-15",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Tomáš Kopal",
+    "ecli": "ECLI:CZ:OSLI:2021:22.C.116.2020.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 3.500,00 Kč s přísl.",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 17 z. č. 379/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b63c6697-1125-44cd-9cc6-1591531980df"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
