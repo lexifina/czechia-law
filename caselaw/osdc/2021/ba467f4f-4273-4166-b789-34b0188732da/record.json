@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:6.C.13.2021.1",
+  "docket": "6 C 13/2021-5",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ba467f4f-4273-4166-b789-34b0188732da",
+  "source_sha256": "ad2d546d4ecdd69b6c09dac3b7bcc567b17f1a5f2b5fd4fc70aec389dfd8c868",
+  "source_id": "ba467f4f-4273-4166-b789-34b0188732da",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 13/2021-5",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Petr Slezák",
+    "ecli": "ECLI:CZ:OSDC:2021:6.C.13.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-07-21",
+    "klicovaSlova": [
+      "povinnosti a práva manželů",
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 655 z. č. 89/2012 Sb.",
+      "§ 687 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ba467f4f-4273-4166-b789-34b0188732da"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
