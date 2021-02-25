@@ -1,0 +1,53 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "02",
+  "docket": "14 C 24/2021-40",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/299d3708-e601-4ac0-b025-abf0a3a4ad2c",
+  "source_sha256": "8f5b1caa75fc5eac4e63854a463172adcdd7fedf18b5a270415b9e14c0b0bf40",
+  "source_id": "299d3708-e601-4ac0-b025-abf0a3a4ad2c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 24/2021-40",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "JUDr. Jiří Kučera",
+    "ecli": "02",
+    "predmetRizeni": "o zaplacení 63 470,20 Kč s příslušenstvím (zápůjčka)",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-04-07",
+    "klicovaSlova": [
+      "místní příslušnost",
+      "peněžité plnění",
+      "podvod",
+      "postoupení pohledávky",
+      "smlouva nájemní",
+      "smlouva o zápůjčce",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 89 z. č. 257/2016 Sb.",
+      "§  nař. vl. č. 1215/2012 Sb.",
+      "§ 84 z. č. 257/2016 Sb.",
+      "§ 7 z. č. 89/2012 Sb.",
+      "§ 211 z. č. 40/2009 Sb.",
+      "§ 9 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/299d3708-e601-4ac0-b025-abf0a3a4ad2c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
