@@ -1,0 +1,50 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vyškově",
+  "ecli": "ECLI:CZ:OSVY:2021:3.C.22.2020.1",
+  "docket": "3 C 22/2020-54",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/de421a12-7b15-4323-a131-e19288fe1732",
+  "source_sha256": "267511e88eb713942b7c5f88319e48e9fc0083e11bbf3709badefea333e403fc",
+  "source_id": "de421a12-7b15-4323-a131-e19288fe1732",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "3 C 22/2020-54",
+    "soud": "Okresní soud ve Vyškově",
+    "autor": "Mgr. Andrea Růžová",
+    "ecli": "ECLI:CZ:OSVY:2021:3.C.22.2020.1",
+    "predmetRizeni": "zaplacení částky 6 000 Kč s příslušenstvím - půjčka",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "poplatek z prodlení",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 517 z. č. 89/2012 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 657 z. č. 40/1964 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§  z. č. 64/1986 Sb.",
+      "§ 517 z. č. 40/1964 Sb.",
+      "§ 39 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 321/2001 Sb.",
+      "§ 51a z. č. 40/1964 Sb.",
+      "§ 658 z. č. 40/1964 Sb.",
+      "§ 39 z. č. 40/1964 Sb.",
+      "§ 41 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/de421a12-7b15-4323-a131-e19288fe1732"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
