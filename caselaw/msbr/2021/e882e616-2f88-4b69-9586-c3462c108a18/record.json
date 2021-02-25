@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:243.C.33.2019.1",
+  "docket": "243 C 33/2019-66",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e882e616-2f88-4b69-9586-c3462c108a18",
+  "source_sha256": "113cf80005536a06c60144f6b3ecc90daa30f2b6a6520aea98bab3acc98c950f",
+  "source_id": "e882e616-2f88-4b69-9586-c3462c108a18",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "243 C 33/2019-66",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Jana Leblochová",
+    "ecli": "ECLI:CZ:MSBR:2021:243.C.33.2019.1",
+    "predmetRizeni": "zaplacení 3 695,86 Kč s příslušenstvím - smlouva o sdružených službách",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-07-01",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§  z. č. 458/2000 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 49 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e882e616-2f88-4b69-9586-c3462c108a18"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
