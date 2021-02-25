@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:6.C.230.2020.1",
+  "docket": "6 C 230/2020-38",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b1562edd-f9b3-4b30-b049-b11c0eb75aa3",
+  "source_sha256": "0d57d5ffe2ef987d5ee7682dff7fc952db67d0c77ed1c2901f86e6a46d5fed7d",
+  "source_id": "b1562edd-f9b3-4b30-b049-b11c0eb75aa3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 230/2020-38",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "Mgr. Olga Houžvičková",
+    "ecli": "ECLI:CZ:OSHO:2021:6.C.230.2020.1",
+    "predmetRizeni": "zaplacení 43 609,67 Kč s příslušenstvím",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "insolvence",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce",
+      "zpeněžování"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§  z. č. 110/2006 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§ 9 z. č. 43/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b1562edd-f9b3-4b30-b049-b11c0eb75aa3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
