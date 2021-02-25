@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kutné Hoře",
+  "ecli": "ECLI:CZ:OSKH:2021:9.C.32.2021.1",
+  "docket": "9 C 32/2021-20",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d568358d-7323-4a02-b3a8-326113f872dd",
+  "source_sha256": "db208006c8e1a88459f73ef04c9f93ac06f31a91f04971eace03ebf9fa7864da",
+  "source_id": "d568358d-7323-4a02-b3a8-326113f872dd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 32/2021-20",
+    "soud": "Okresní soud v Kutné Hoře",
+    "autor": "Mgr. Jan Buchar",
+    "ecli": "ECLI:CZ:OSKH:2021:9.C.32.2021.1",
+    "predmetRizeni": "O zaplacení 2 836,12 Kč s příslušenstvím",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d568358d-7323-4a02-b3a8-326113f872dd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
