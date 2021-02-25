@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:33.C.102.2020.1",
+  "docket": "33 C 102/2020-60",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/2e6b0726-948a-46bd-8c85-8f5ae13ad4f8",
+  "source_sha256": "e0c87f7a389ad7951fb345c6be9f3edee3b5c0d0f178b17565fab1c8d9d19576",
+  "source_id": "2e6b0726-948a-46bd-8c85-8f5ae13ad4f8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "33 C 102/2020-60",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "Mgr. Tomáš Lehovec",
+    "ecli": "ECLI:CZ:OSPH06:2021:33.C.102.2020.1",
+    "predmetRizeni": "o zaplacení částky 424 740,41 Kč s příslušenstvím",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-06-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1802 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/2e6b0726-948a-46bd-8c85-8f5ae13ad4f8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
