@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:55.C.405.2020.1",
+  "docket": "55 C 405/2020-29",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b44d321e-9965-43f7-8ad4-9e5ee578d27f",
+  "source_sha256": "08672cf86003b6f5814c0d237d6aa41993efa2108f5ddc4fba784c4dd287804d",
+  "source_id": "b44d321e-9965-43f7-8ad4-9e5ee578d27f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "55 C 405/2020-29",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "Mgr. Pavel Pražák",
+    "ecli": "ECLI:CZ:OSPH04:2021:55.C.405.2020.1",
+    "predmetRizeni": "O zaplacení 4 200 Kč s příslušenstvím",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-06-24",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 1 z. č. 168/1999 Sb.",
+      "§ 18 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b44d321e-9965-43f7-8ad4-9e5ee578d27f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
