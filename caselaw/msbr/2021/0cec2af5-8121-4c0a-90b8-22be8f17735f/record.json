@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:43.C.201.2020.1",
+  "docket": "43 C 201/2020-31",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0cec2af5-8121-4c0a-90b8-22be8f17735f",
+  "source_sha256": "d0ab3b9dbf2f149d3b1198901e5433548ca3bba10c91e0346e3f2e1fbbb7a9d8",
+  "source_id": "0cec2af5-8121-4c0a-90b8-22be8f17735f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "43 C 201/2020-31",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Jana Leblochová",
+    "ecli": "ECLI:CZ:MSBR:2021:43.C.201.2020.1",
+    "predmetRizeni": "zaplacení 9.644 Kč s příslušenstvím - náklady léčení",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-07-01",
+    "klicovaSlova": [
+      "náklady léčení",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 55 z. č. 48/1997 Sb.",
+      "§ 1 vyhl. č. 254/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0cec2af5-8121-4c0a-90b8-22be8f17735f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
