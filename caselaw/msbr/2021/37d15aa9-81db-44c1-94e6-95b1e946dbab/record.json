@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:14.C.206.2020.1",
+  "docket": "14 C 206/2020-27",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/37d15aa9-81db-44c1-94e6-95b1e946dbab",
+  "source_sha256": "6c8ea1544d1707f21aab33e149595a0ae9b96335ea86bb9b2c01b56e9a297c51",
+  "source_id": "37d15aa9-81db-44c1-94e6-95b1e946dbab",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 206/2020-27",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Michaela Silnická",
+    "ecli": "ECLI:CZ:MSBR:2021:14.C.206.2020.1",
+    "predmetRizeni": "zaplacení 259.844,40 Kč s příslušenstvím - půjčka",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-09-20",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2665 z. č. 89/2012 Sb.",
+      "§ 2399 z. č. 89/2012 Sb.",
+      "§ 2662 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/37d15aa9-81db-44c1-94e6-95b1e946dbab"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
