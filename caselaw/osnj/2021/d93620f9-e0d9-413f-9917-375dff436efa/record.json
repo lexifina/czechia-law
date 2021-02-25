@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2021:13.C.369.2020.5",
+  "docket": "13 C 369/2020-21",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d93620f9-e0d9-413f-9917-375dff436efa",
+  "source_sha256": "b1b108a4bb4bcd3b7ec436de89ef0e440f052e45a9e5606959ee9e1966d8f835",
+  "source_id": "d93620f9-e0d9-413f-9917-375dff436efa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 369/2020-21",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "JUDr. Tomáš Hoza",
+    "ecli": "ECLI:CZ:OSNJ:2021:13.C.369.2020.5",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-03-26",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 11 z. č. 549/1991 Sb.",
+      "§ 16 z. č. 379/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d93620f9-e0d9-413f-9917-375dff436efa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
