@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Nymburce",
+  "ecli": "ECLI:CZ:OSNB:2021:6.C.126.2015.1",
+  "docket": "6 C 126/2015-42",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/aff3cdcf-6cea-4b34-94c4-888f551157c4",
+  "source_sha256": "b84cb58df04a96e96e7fac246bf3ae5fb1fff0d8dd3e681a4cdb544ed3582fb8",
+  "source_id": "aff3cdcf-6cea-4b34-94c4-888f551157c4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 126/2015-42",
+    "soud": "Okresní soud v Nymburce",
+    "autor": "Mgr. Jakub Fukal",
+    "ecli": "ECLI:CZ:OSNB:2021:6.C.126.2015.1",
+    "predmetRizeni": "o zaplacení částky 128 Kč s přísl.",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "oddlužení",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 414 z. č. 182/2006 Sb.",
+      "§ 17 z. č. 379/2005 Sb.",
+      "§ 140a z. č. 182/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/aff3cdcf-6cea-4b34-94c4-888f551157c4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
