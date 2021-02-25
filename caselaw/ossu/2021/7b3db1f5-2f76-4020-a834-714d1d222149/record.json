@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Šumperku",
+  "ecli": "ECLI:CZ:OSSU:2021:7.C.172.2020.1",
+  "docket": "7 C 172/2020-34",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7b3db1f5-2f76-4020-a834-714d1d222149",
+  "source_sha256": "6babca503632d05d226146ebf99b9b133e9e0c238a318d78a7d2d3d91063029b",
+  "source_id": "7b3db1f5-2f76-4020-a834-714d1d222149",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 172/2020-34",
+    "soud": "Okresní soud v Šumperku",
+    "autor": "Mgr. Hana Langerová",
+    "ecli": "ECLI:CZ:OSSU:2021:7.C.172.2020.1",
+    "predmetRizeni": "o 5.558,60 Kč",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-04-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 61 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7b3db1f5-2f76-4020-a834-714d1d222149"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
