@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jičíně",
+  "ecli": "ECLI:CZ:OSJC:2021:5.C.130.2020.1",
+  "docket": "5 C 130/2020-38",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0536b3c0-a4f6-44e0-a5a6-442c14e38416",
+  "source_sha256": "2574ce86ccfd082933064fcb5fcf38b121f9ab1d593caeab9e529ecd32a0013d",
+  "source_id": "0536b3c0-a4f6-44e0-a5a6-442c14e38416",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 130/2020-38",
+    "soud": "Okresní soud v Jičíně",
+    "autor": "JUDr. Vít Záveský",
+    "ecli": "ECLI:CZ:OSJC:2021:5.C.130.2020.1",
+    "predmetRizeni": "o 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-04-28",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 49 vyhl. č. 175/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0536b3c0-a4f6-44e0-a5a6-442c14e38416"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
