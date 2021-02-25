@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:30.C.72.2020.2",
+  "docket": "30 C 72/2020-16",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9c47c6a9-6c05-4296-83ad-87514fadcfcb",
+  "source_sha256": "8aa15bca818326d96a2f4ca428e222572f5319bffdfa453835e981fb41ce9b44",
+  "source_id": "9c47c6a9-6c05-4296-83ad-87514fadcfcb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "30 C 72/2020-16",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Hana Jakubcová",
+    "ecli": "ECLI:CZ:OSCV:2021:30.C.72.2020.2",
+    "predmetRizeni": "zaplacení 19 330 Kč s příslušenstvím (služby třetích stran)",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 2 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9c47c6a9-6c05-4296-83ad-87514fadcfcb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
