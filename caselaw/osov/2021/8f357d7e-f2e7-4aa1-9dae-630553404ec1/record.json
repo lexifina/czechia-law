@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:34.C.401.2020.1",
+  "docket": "34 C 401/2020-44",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8f357d7e-f2e7-4aa1-9dae-630553404ec1",
+  "source_sha256": "9a5c5f1983c0725411e662c2a6f1821c94305bc0a5116f741be4982241b3fe20",
+  "source_id": "8f357d7e-f2e7-4aa1-9dae-630553404ec1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 401/2020-44",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Jana Bojková",
+    "ecli": "ECLI:CZ:OSOV:2021:34.C.401.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-03-19",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "řidičský průkaz"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 687 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8f357d7e-f2e7-4aa1-9dae-630553404ec1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
