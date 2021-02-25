@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Náchodě",
+  "ecli": "ECLI:CZ:OSNA:2021:5.C.3.2021.2",
+  "docket": "5 C 3/2021-35",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b971d1a1-1f91-4be0-9af1-8f8cc7dc39ba",
+  "source_sha256": "c4cf95d21c877225f67d60fa666de05afc9247b9b5c57cd1f78b706920768668",
+  "source_id": "b971d1a1-1f91-4be0-9af1-8f8cc7dc39ba",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 3/2021-35",
+    "soud": "Okresní soud v Náchodě",
+    "autor": "JUDr. Jana Slížková",
+    "ecli": "ECLI:CZ:OSNA:2021:5.C.3.2021.2",
+    "predmetRizeni": "O zaplacení 3 300 Kč s příslušenstvím (služby)",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-04-12",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 50 z. č. 458/2000 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b971d1a1-1f91-4be0-9af1-8f8cc7dc39ba"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
