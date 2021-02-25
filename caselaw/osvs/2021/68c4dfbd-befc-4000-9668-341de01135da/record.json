@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Vsetíně",
+  "ecli": "ECLI:CZ:OSVS:2021:14.C.42.2020.1",
+  "docket": "14 C 42/2020-65",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/68c4dfbd-befc-4000-9668-341de01135da",
+  "source_sha256": "32a5ffd550ca91b4293cc17ed69bf7d9e8061d5c25b45eed187f6edeb34cea38",
+  "source_id": "68c4dfbd-befc-4000-9668-341de01135da",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 42/2020-65",
+    "soud": "Okresní soud ve Vsetíně",
+    "autor": "Mgr. Ludmila Gerlová",
+    "ecli": "ECLI:CZ:OSVS:2021:14.C.42.2020.1",
+    "predmetRizeni": "o vyloučení věci z exekuce",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-11-29",
+    "klicovaSlova": [
+      "exekuce",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 2 z. č. 549/1991 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 737 z. č. 89/2012 Sb.",
+      "§ 262b z. č. 99/1963 Sb.",
+      "§ 267 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/68c4dfbd-befc-4000-9668-341de01135da"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
