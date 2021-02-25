@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ústí nad Labem",
+  "ecli": "ECLI:CZ:OSUL:2021:22.C.231.2019.4",
+  "docket": "22 C 231/2019-55",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4abe8662-0e3b-4370-ad5b-4abd09a0eb19",
+  "source_sha256": "74aa3a2e2a9c2cf143d17a13c4596a426998a61b8d6cc4cb68a514cd715eb161",
+  "source_id": "4abe8662-0e3b-4370-ad5b-4abd09a0eb19",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 231/2019-55",
+    "soud": "Okresní soud v Ústí nad Labem",
+    "autor": "Mgr. Martin Chládek",
+    "ecli": "ECLI:CZ:OSUL:2021:22.C.231.2019.4",
+    "predmetRizeni": "O zaplacení 3 542,29 Kč s příslušenstvím",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-05-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 29 z. č. 99/1963 Sb.",
+      "§  nař. vl. č. 434/2017 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4abe8662-0e3b-4370-ad5b-4abd09a0eb19"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
