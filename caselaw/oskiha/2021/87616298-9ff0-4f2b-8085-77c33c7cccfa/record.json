@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:110.C.332.2020.1",
+  "docket": "110 C 332/2020-48",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/87616298-9ff0-4f2b-8085-77c33c7cccfa",
+  "source_sha256": "634deafb773c733cd64b4fa256b3517c03b737dfca9c1ae43e11971b9994b2ad",
+  "source_id": "87616298-9ff0-4f2b-8085-77c33c7cccfa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "110 C 332/2020-48",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Yvona Del favero",
+    "ecli": "ECLI:CZ:OSKIHA:2021:110.C.332.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-03-31",
+    "klicovaSlova": [
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/87616298-9ff0-4f2b-8085-77c33c7cccfa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
