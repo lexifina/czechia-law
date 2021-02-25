@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:26.C.50.2020.1",
+  "docket": "26 C 50/2020-20",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cccefb81-0fd9-4a34-b397-ad0354814a0e",
+  "source_sha256": "ec394bf3a5da70421c32e309601f78a1618f1e7fbd9bc0db415a56d6424458cf",
+  "source_id": "cccefb81-0fd9-4a34-b397-ad0354814a0e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 50/2020-20",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "Mgr. Radmila Hůdová",
+    "ecli": "ECLI:CZ:OSCB:2021:26.C.50.2020.1",
+    "predmetRizeni": "EPR [číslo], o zaplacení částky [částka]",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-05-28",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§  z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cccefb81-0fd9-4a34-b397-ad0354814a0e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
