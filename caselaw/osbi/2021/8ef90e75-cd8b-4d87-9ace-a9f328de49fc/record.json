@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Brno-Venkov",
+  "ecli": "ECLI:CZ:OSBI:2021:14.C.190.2016.1",
+  "docket": "14 C 190/2016",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8ef90e75-cd8b-4d87-9ace-a9f328de49fc",
+  "source_sha256": "85f56f3c2a60964db50af7447696667d95c358ae4de757a7f405a9b77d179141",
+  "source_id": "8ef90e75-cd8b-4d87-9ace-a9f328de49fc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 190/2016",
+    "soud": "Okresní soud Brno-Venkov",
+    "autor": "Mgr. Břetislav Cvan",
+    "ecli": "ECLI:CZ:OSBI:2021:14.C.190.2016.1",
+    "predmetRizeni": "o 225.000 Kč s přísl.",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-04-12",
+    "klicovaSlova": [
+      "nemoc z povolání",
+      "ztížení společenského uplatnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 118 z. č. 99/1963 Sb.",
+      "§ 150 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 440/2001 Sb.",
+      "§  nař. vl. č. 276/2015 Sb.",
+      "§  nař. vl. č. 267/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8ef90e75-cd8b-4d87-9ace-a9f328de49fc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
