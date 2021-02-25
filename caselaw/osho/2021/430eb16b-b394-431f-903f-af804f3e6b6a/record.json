@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:5.C.4.2021.1",
+  "docket": "5 C 4/2021-31",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/430eb16b-b394-431f-903f-af804f3e6b6a",
+  "source_sha256": "930f7d763b1d55eb632042551eb2fca86ca343990b99a7c47d9cd627afded68b",
+  "source_id": "430eb16b-b394-431f-903f-af804f3e6b6a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 4/2021-31",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "Mgr. Michaela Džuberová",
+    "ecli": "ECLI:CZ:OSHO:2021:5.C.4.2021.1",
+    "predmetRizeni": "zaplacení 9 400 Kč s příslušenstvím",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-04-27",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/430eb16b-b394-431f-903f-af804f3e6b6a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
