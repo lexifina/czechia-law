@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:13.C.26.2021.1",
+  "docket": "13 C 26/2021-21",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e13cc100-c545-4d3a-b89f-254e9c2bfcfd",
+  "source_sha256": "a739bb478afdf7f4972f45e1e938a8817dec1fbe5373f020b8b0ef0fe565005e",
+  "source_id": "e13cc100-c545-4d3a-b89f-254e9c2bfcfd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 26/2021-21",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Ludmila Vlčková",
+    "ecli": "ECLI:CZ:OSMO:2021:13.C.26.2021.1",
+    "predmetRizeni": "8 156 Kč s příslušenstvím",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-05-10",
+    "klicovaSlova": [
+      "dlužné platby spojené s užíváním bytu",
+      "peněžité plnění",
+      "společenství vlastníků jednotek",
+      "vlastnictví bytů"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§  z. č. 72/1994 Sb.",
+      "§ 1181 z. č. 89/2012 Sb.",
+      "§ 513 nař. vl. č. 351/2013 Sb.",
+      "§ 1180 z. č. 89/2012 Sb.",
+      "§  z. č. 89/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e13cc100-c545-4d3a-b89f-254e9c2bfcfd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
