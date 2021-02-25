@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:7.C.16.2021.2",
+  "docket": "7 C 16/2021-24",
+  "date": "2021-02-25",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/eb79a834-ed0c-4f8f-8aa4-86e56446774f",
+  "source_sha256": "493ab9a183ca1faaf6bc0f6bfbc009be4f38bbf0155cb07eea9a9d3f57891cbb",
+  "source_id": "eb79a834-ed0c-4f8f-8aa4-86e56446774f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 16/2021-24",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "JUDr. Martina Burachovičová",
+    "ecli": "ECLI:CZ:OSSO:2021:7.C.16.2021.2",
+    "predmetRizeni": "zaplacení 5 741,90 Kč s příslušenstvím",
+    "datumVydani": "2021-02-25",
+    "datumZverejneni": "2021-05-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 127/2005 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/eb79a834-ed0c-4f8f-8aa4-86e56446774f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
