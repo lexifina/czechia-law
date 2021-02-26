@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Děčíně",
+  "ecli": "ECLI:CZ:OSDC:2021:15.C.29.2021.1",
+  "docket": "15 C 29/2021-19",
+  "date": "2021-02-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4266b0dc-75cc-4bf9-82de-7c1801943367",
+  "source_sha256": "36ab2017120ef82c66bdd43f22a14935e65424062ea9cd3a4c7f7c019704249f",
+  "source_id": "4266b0dc-75cc-4bf9-82de-7c1801943367",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 29/2021-19",
+    "soud": "Okresní soud v Děčíně",
+    "autor": "Mgr. Kateřina Cvachová",
+    "ecli": "ECLI:CZ:OSDC:2021:15.C.29.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-26",
+    "datumZverejneni": "2021-04-08",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4266b0dc-75cc-4bf9-82de-7c1801943367"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
