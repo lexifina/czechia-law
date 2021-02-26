@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2021:37.C.75.2020.1",
+  "docket": "37 C 75/2020-21",
+  "date": "2021-02-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1b2dd595-f53e-4b24-8b93-2e4526ce037f",
+  "source_sha256": "e6c3ad148c6e99f72d9dc76126222cef15ec134727729e52310e92b271f10d29",
+  "source_id": "1b2dd595-f53e-4b24-8b93-2e4526ce037f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "37 C 75/2020-21",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "Mgr. Lucie Šrámková",
+    "ecli": "ECLI:CZ:OSPZ:2021:37.C.75.2020.1",
+    "predmetRizeni": "Žaloba o zaplacení částky [částka] s příslušenstvím",
+    "datumVydani": "2021-02-26",
+    "datumZverejneni": "2021-05-06",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 6 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1b2dd595-f53e-4b24-8b93-2e4526ce037f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
