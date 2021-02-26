@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:27.C.471.2020.1",
+  "docket": "27 C 471/2020-33",
+  "date": "2021-02-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fdd4b2a7-65da-433c-89ec-3e9e50fbe021",
+  "source_sha256": "6fa667fbb0916a3d572da26ccf6bb7f0f53f5335e8325b50ae66cb932f5655be",
+  "source_id": "fdd4b2a7-65da-433c-89ec-3e9e50fbe021",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 471/2020-33",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "JUDr. Lubomír Janoušek, Ph.D.",
+    "ecli": "ECLI:CZ:OSPH06:2021:27.C.471.2020.1",
+    "predmetRizeni": "o zaplacení částky 1 806,60 Kč s příslušenstvím",
+    "datumVydani": "2021-02-26",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o účtu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fdd4b2a7-65da-433c-89ec-3e9e50fbe021"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
