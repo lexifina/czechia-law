@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Berouně",
+  "ecli": "ECLI:CZ:OSBR:2021:12.C.24.2021.1",
+  "docket": "12 C 24/2021",
+  "date": "2021-02-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/958dbd7f-6711-40a9-8ac1-fd5e7a1e46e2",
+  "source_sha256": "0871a8f0da547e2aa2a1b05f8f9e804b48cc6bfe9b246a13e7c623c8716d2c21",
+  "source_id": "958dbd7f-6711-40a9-8ac1-fd5e7a1e46e2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 24/2021",
+    "soud": "Okresní soud v Berouně",
+    "autor": "Mgr. Petr Pomahač",
+    "ecli": "ECLI:CZ:OSBR:2021:12.C.24.2021.1",
+    "predmetRizeni": "O zaplacení 13 600 Kč s příslušenstvím",
+    "datumVydani": "2021-02-26",
+    "datumZverejneni": "2021-04-07",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 132 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/958dbd7f-6711-40a9-8ac1-fd5e7a1e46e2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
