@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:8.C.74.2021.1",
+  "docket": "8 C 74/2021-33",
+  "date": "2021-02-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/12afba39-3e4b-4858-8044-977e2623c31a",
+  "source_sha256": "79c2ef7bdd2b7995dd988fdc0b75219b3ac49ace6877d6fdd6d90b7907c3186e",
+  "source_id": "12afba39-3e4b-4858-8044-977e2623c31a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 74/2021-33",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Jitka Sochorová",
+    "ecli": "ECLI:CZ:OSPY:2021:8.C.74.2021.1",
+    "predmetRizeni": "O zaplacení 4 075,48 Kč s příslušenstvím",
+    "datumVydani": "2021-02-26",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "prodlení věřitele",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/12afba39-3e4b-4858-8044-977e2623c31a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
