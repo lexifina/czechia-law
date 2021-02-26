@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:20.C.10.2021.1",
+  "docket": "20 C 10/2021-16",
+  "date": "2021-02-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e71c28d0-2539-4b51-bae5-61a57d07948b",
+  "source_sha256": "7583e3d2600694c178f213405e6a73620e5ec5b4538613d737f2286a2184caeb",
+  "source_id": "e71c28d0-2539-4b51-bae5-61a57d07948b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 10/2021-16",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "JUDr. Jaroslav Simet",
+    "ecli": "ECLI:CZ:OSSO:2021:20.C.10.2021.1",
+    "predmetRizeni": "zaplacení 6 000 Kč s příslušenstvím",
+    "datumVydani": "2021-02-26",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e71c28d0-2539-4b51-bae5-61a57d07948b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
