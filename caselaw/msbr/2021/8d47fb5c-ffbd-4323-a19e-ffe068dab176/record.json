@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:116.C.245.2020.1",
+  "docket": "116 C 245/2020-22",
+  "date": "2021-02-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8d47fb5c-ffbd-4323-a19e-ffe068dab176",
+  "source_sha256": "5aca5db7d58dcdb5e56b508acbde591242396516a804ed9ba21f4e9cd97694eb",
+  "source_id": "8d47fb5c-ffbd-4323-a19e-ffe068dab176",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "116 C 245/2020-22",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Tamara Göthová",
+    "ecli": "ECLI:CZ:MSBR:2021:116.C.245.2020.1",
+    "predmetRizeni": "zaplacení 6.500 Kč s příslušenstvím",
+    "datumVydani": "2021-02-26",
+    "datumZverejneni": "2021-06-07",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8d47fb5c-ffbd-4323-a19e-ffe068dab176"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
