@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:24.C.267.2020.1",
+  "docket": "24 C 267/2020-59",
+  "date": "2021-02-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dbda7037-19e6-415b-9d86-bc20c6f05e21",
+  "source_sha256": "e6f764b3034f178e3d6741909fd6eb8097737afca3c4ce36f53122e35e56986b",
+  "source_id": "dbda7037-19e6-415b-9d86-bc20c6f05e21",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "24 C 267/2020-59",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Filip Toman",
+    "ecli": "ECLI:CZ:OSCV:2021:24.C.267.2020.1",
+    "predmetRizeni": "zaplacení 3 000 Kč s příslušenstvím (úvěr)",
+    "datumVydani": "2021-02-26",
+    "datumZverejneni": "2021-05-12",
+    "klicovaSlova": [
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dbda7037-19e6-415b-9d86-bc20c6f05e21"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
