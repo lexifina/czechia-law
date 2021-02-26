@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:38.C.11.2021.1",
+  "docket": "38 C 11/2021-13",
+  "date": "2021-02-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6ba525d9-51b8-4e3b-bd51-2bb5e0b8446c",
+  "source_sha256": "c79c885e83923e96b7ea05e3307924914443d15fd09ed37a8741fc5d7f02c4bf",
+  "source_id": "6ba525d9-51b8-4e3b-bd51-2bb5e0b8446c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 11/2021-13",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "JUDr. Jana Ela Kliková",
+    "ecli": "ECLI:CZ:OSHK:2021:38.C.11.2021.1",
+    "predmetRizeni": "o zaplacení částky 675 Kč s příslušenstvím",
+    "datumVydani": "2021-02-26",
+    "datumZverejneni": "2021-05-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "poplatky rozhlasové a televizní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 12 z. č. 348/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6ba525d9-51b8-4e3b-bd51-2bb5e0b8446c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
