@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:111.C.18.2021.1",
+  "docket": "111 C 18/2021-33",
+  "date": "2021-02-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d954053b-1210-49a1-b5fc-bc772b34467a",
+  "source_sha256": "3d28a9afd1bd7214f808bf453af49610adcc1618afbb188057def4f8b113aa39",
+  "source_id": "d954053b-1210-49a1-b5fc-bc772b34467a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "111 C 18/2021-33",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Otto Slavík",
+    "ecli": "ECLI:CZ:OSKIHA:2021:111.C.18.2021.1",
+    "predmetRizeni": "14 076,97 Kč s příslušenstvím",
+    "datumVydani": "2021-02-26",
+    "datumZverejneni": "2021-04-12",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 26 z. č. 91/2012 Sb.",
+      "§ 3024 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d954053b-1210-49a1-b5fc-bc772b34467a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
