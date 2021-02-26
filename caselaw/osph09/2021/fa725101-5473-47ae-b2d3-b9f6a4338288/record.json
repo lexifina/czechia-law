@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2021:27.C.189.2020.3",
+  "docket": "27 C 189/2020-25",
+  "date": "2021-02-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fa725101-5473-47ae-b2d3-b9f6a4338288",
+  "source_sha256": "7d8f846e3cdacbae3e05cf6d50ba76fcd1b4146cce0d150813410c673b09c726",
+  "source_id": "fa725101-5473-47ae-b2d3-b9f6a4338288",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 189/2020-25",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "Mgr. Jakub Antoš",
+    "ecli": "ECLI:CZ:OSPH09:2021:27.C.189.2020.3",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-02-26",
+    "datumZverejneni": "2021-03-18",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fa725101-5473-47ae-b2d3-b9f6a4338288"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
