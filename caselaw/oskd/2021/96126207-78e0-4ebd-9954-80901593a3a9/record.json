@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:210.C.32.2021.1",
+  "docket": "210 C 32/2021-61",
+  "date": "2021-02-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/96126207-78e0-4ebd-9954-80901593a3a9",
+  "source_sha256": "f9e2a2c412d8dd7b2e587142ef51134dc425ca0bfb198050ead116f85a1cec3b",
+  "source_id": "96126207-78e0-4ebd-9954-80901593a3a9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "210 C 32/2021-61",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Eva Kučerová",
+    "ecli": "ECLI:CZ:OSKD:2021:210.C.32.2021.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-26",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 2316 z. č. 89/2012 Sb.",
+      "§ 2225 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/96126207-78e0-4ebd-9954-80901593a3a9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
