@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2021:7.C.326.2020.1",
+  "docket": "7 C 326/2020-42",
+  "date": "2021-02-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/09cc9899-eab3-4050-b312-2e87264bdb46",
+  "source_sha256": "93668c673600d783b9388932c60849d0eaf3c6e425dde2ed91bda1821b4934ab",
+  "source_id": "09cc9899-eab3-4050-b312-2e87264bdb46",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 326/2020-42",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "Mgr. Luboš Koranda",
+    "ecli": "ECLI:CZ:OSKT:2021:7.C.326.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-26",
+    "datumZverejneni": "2021-06-22",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/0 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/09cc9899-eab3-4050-b312-2e87264bdb46"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
