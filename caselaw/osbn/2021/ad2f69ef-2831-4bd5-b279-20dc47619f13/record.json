@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2021:8.C.352.2020.1",
+  "docket": "8 C 352/2020-29",
+  "date": "2021-02-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ad2f69ef-2831-4bd5-b279-20dc47619f13",
+  "source_sha256": "0405fd2ff0349eb3c88ea5051fe316510a7ecb66a7cad4981874007be589a860",
+  "source_id": "ad2f69ef-2831-4bd5-b279-20dc47619f13",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 352/2020-29",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Hedvika Lávičková",
+    "ecli": "ECLI:CZ:OSBN:2021:8.C.352.2020.1",
+    "predmetRizeni": "o zaplacení 2 000 Kč",
+    "datumVydani": "2021-02-26",
+    "datumZverejneni": "2021-05-26",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "prodlení věřitele"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2048 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ad2f69ef-2831-4bd5-b279-20dc47619f13"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
