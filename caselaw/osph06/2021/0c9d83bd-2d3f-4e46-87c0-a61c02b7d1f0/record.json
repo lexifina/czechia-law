@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:8.C.4.2021.1",
+  "docket": "8 C 4/2021-30",
+  "date": "2021-02-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0c9d83bd-2d3f-4e46-87c0-a61c02b7d1f0",
+  "source_sha256": "3ff0f71d76e5027971b65f2c2cd7eef3566d11f049ffe2d6df119aa6b0f5ed3e",
+  "source_id": "0c9d83bd-2d3f-4e46-87c0-a61c02b7d1f0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 4/2021-30",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "Mgr. Petra Andršová",
+    "ecli": "ECLI:CZ:OSPH06:2021:8.C.4.2021.1",
+    "predmetRizeni": "o zaplacení částky 1 540 Kč s příslušenstvím",
+    "datumVydani": "2021-02-26",
+    "datumZverejneni": "2021-05-06",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0c9d83bd-2d3f-4e46-87c0-a61c02b7d1f0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
