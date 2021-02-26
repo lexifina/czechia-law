@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:8.C.212.2020.1",
+  "docket": "8 C 212/2020",
+  "date": "2021-02-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1cf7c691-897d-49f4-9294-a0dea15ec922",
+  "source_sha256": "fc4593fba4f49df15cc72f548a5715d9c5230502994ddf61f034be3736db0279",
+  "source_id": "1cf7c691-897d-49f4-9294-a0dea15ec922",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 212/2020",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "Mgr. Šárka Široká",
+    "ecli": "ECLI:CZ:OSRO:2021:8.C.212.2020.1",
+    "predmetRizeni": "zaplacení 2 874 Kč s přísl.",
+    "datumVydani": "2021-02-26",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1cf7c691-897d-49f4-9294-a0dea15ec922"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
