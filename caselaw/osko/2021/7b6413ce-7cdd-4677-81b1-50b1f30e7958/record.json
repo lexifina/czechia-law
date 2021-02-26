@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kolíně",
+  "ecli": "ECLI:CZ:OSKO:2021:11.C.13.2021.1",
+  "docket": "11 C 13/2021-22",
+  "date": "2021-02-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7b6413ce-7cdd-4677-81b1-50b1f30e7958",
+  "source_sha256": "782046f7085f18fc9bc506a9b5f16664992e5c18aaec3ca45e3b1e11ffffd5ad",
+  "source_id": "7b6413ce-7cdd-4677-81b1-50b1f30e7958",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 13/2021-22",
+    "soud": "Okresní soud v Kolíně",
+    "autor": "JUDr. Jana Matoušková",
+    "ecli": "ECLI:CZ:OSKO:2021:11.C.13.2021.1",
+    "predmetRizeni": "O zaplacení 1 147,14 Kč s příslušenstvím",
+    "datumVydani": "2021-02-26",
+    "datumZverejneni": "2021-04-29",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 50 z. č. 458/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7b6413ce-7cdd-4677-81b1-50b1f30e7958"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
