@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:22.C.62.2021.1",
+  "docket": "22 C 62/2021",
+  "date": "2021-02-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-07-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8e84f2b6-c769-4869-848a-1edb6d56c130",
+  "source_sha256": "ebf41a89c553ea318a04849a546ea057ed15c8f17ba442c0989d68a3387a855b",
+  "source_id": "8e84f2b6-c769-4869-848a-1edb6d56c130",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 62/2021",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "JUDr. Gabriela Antonie Bartová",
+    "ecli": "ECLI:CZ:OSPY:2021:22.C.62.2021.1",
+    "predmetRizeni": "O zaplacení 1 299 Kč s příslušenstvím",
+    "datumVydani": "2021-02-26",
+    "datumZverejneni": "2021-07-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění majetku"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2758 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8e84f2b6-c769-4869-848a-1edb6d56c130"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
