@@ -1,0 +1,30 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Klatovech",
+  "ecli": "ECLI:CZ:OSKT:2021:7.C.317.2020.1",
+  "docket": "7 C 317/2020-28",
+  "date": "2021-02-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b3b48e8a-91fc-4032-912a-b58bab497e56",
+  "source_sha256": "7b4aa5d740cafd077fb8510868dd07faf1212528c3ca7372f986bad53077069f",
+  "source_id": "b3b48e8a-91fc-4032-912a-b58bab497e56",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 317/2020-28",
+    "soud": "Okresní soud v Klatovech",
+    "autor": "Mgr. Luboš Koranda",
+    "ecli": "ECLI:CZ:OSKT:2021:7.C.317.2020.1",
+    "predmetRizeni": "zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-02-26",
+    "datumZverejneni": "2021-05-14",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b3b48e8a-91fc-4032-912a-b58bab497e56"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
