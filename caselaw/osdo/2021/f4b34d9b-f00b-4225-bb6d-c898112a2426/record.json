@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:6.C.272.2020.1",
+  "docket": "6 C 272/2020-22",
+  "date": "2021-02-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f4b34d9b-f00b-4225-bb6d-c898112a2426",
+  "source_sha256": "c5e13efdf0d06b09cc32f471de8767cf739fd6ee7afd4b669963281af7bd2556",
+  "source_id": "f4b34d9b-f00b-4225-bb6d-c898112a2426",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 272/2020-22",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "JUDr. Vladimíra Mašinová",
+    "ecli": "ECLI:CZ:OSDO:2021:6.C.272.2020.1",
+    "predmetRizeni": "O zaplacení 52 838 Kč s příslušenstvím",
+    "datumVydani": "2021-02-26",
+    "datumZverejneni": "2021-04-18",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f4b34d9b-f00b-4225-bb6d-c898112a2426"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
