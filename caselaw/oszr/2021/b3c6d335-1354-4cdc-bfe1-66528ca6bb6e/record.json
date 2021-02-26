@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:13.C.291.2020.1",
+  "docket": "13 C 291/2020-55",
+  "date": "2021-02-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b3c6d335-1354-4cdc-bfe1-66528ca6bb6e",
+  "source_sha256": "e880aa0765475e2e48b661e0c91fbf499a287e4971a9f1ff6597066e5d39dea0",
+  "source_id": "b3c6d335-1354-4cdc-bfe1-66528ca6bb6e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 291/2020-55",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "Mgr. Eva Drahozalová",
+    "ecli": "ECLI:CZ:OSZR:2021:13.C.291.2020.1",
+    "predmetRizeni": "O zaplacení 3 217,67 Kč s příslušenstvím",
+    "datumVydani": "2021-02-26",
+    "datumZverejneni": "2021-04-30",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 2079 /1 z. č. 89/2012 Sb.",
+      "§ 64 /1 z. č. 127/2005 Sb.",
+      "§ 64 /7 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b3c6d335-1354-4cdc-bfe1-66528ca6bb6e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
