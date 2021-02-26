@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:72.C.210.2020.1",
+  "docket": "72 C 210/2020-53",
+  "date": "2021-02-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ac2d91f5-bdee-4401-bd43-10eb9af74f6a",
+  "source_sha256": "d761574a0c67698d184f144d637069a4a58e5e25af0490ca5a89cd1847a9fa13",
+  "source_id": "ac2d91f5-bdee-4401-bd43-10eb9af74f6a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "72 C 210/2020-53",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Soňa Novotná",
+    "ecli": "ECLI:CZ:MSBR:2021:72.C.210.2020.1",
+    "predmetRizeni": "zaplacení 2.152,50 Kč",
+    "datumVydani": "2021-02-26",
+    "datumZverejneni": "2021-09-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní",
+      "smluvní pokuta"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ac2d91f5-bdee-4401-bd43-10eb9af74f6a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
