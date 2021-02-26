@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:10.C.30.2021.1",
+  "docket": "10 C 30/2021-28",
+  "date": "2021-02-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c3e7520e-1473-4e46-bec1-ad61d70a59bc",
+  "source_sha256": "e7476d0296ffb89d8be3f863061c640972b4679d85d348cbd15ad75ffe2b9894",
+  "source_id": "c3e7520e-1473-4e46-bec1-ad61d70a59bc",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 30/2021-28",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "Mgr. Lucie Petráková",
+    "ecli": "ECLI:CZ:OSPB:2021:10.C.30.2021.1",
+    "predmetRizeni": "zaplacení 1 950 Kč s příslušenstvím",
+    "datumVydani": "2021-02-26",
+    "datumZverejneni": "2021-04-20",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2053 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c3e7520e-1473-4e46-bec1-ad61d70a59bc"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
