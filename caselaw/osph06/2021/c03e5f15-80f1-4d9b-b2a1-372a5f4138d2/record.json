@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 6",
+  "ecli": "ECLI:CZ:OSPH06:2021:28.C.104.2020.1",
+  "docket": "28 C 104/2020-48",
+  "date": "2021-02-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c03e5f15-80f1-4d9b-b2a1-372a5f4138d2",
+  "source_sha256": "f7e465351472c32b807104a202226979602d6a8441d80ee8a2315d127c6858c6",
+  "source_id": "c03e5f15-80f1-4d9b-b2a1-372a5f4138d2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 104/2020-48",
+    "soud": "Obvodní soud pro Prahu 6",
+    "autor": "JUDr. Hana Šedivá",
+    "ecli": "ECLI:CZ:OSPH06:2021:28.C.104.2020.1",
+    "predmetRizeni": "o zaplacení částky 1 117 Kč s příslušenstvím",
+    "datumVydani": "2021-02-26",
+    "datumZverejneni": "2021-03-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění",
+      "pojištění majetku"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 13 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c03e5f15-80f1-4d9b-b2a1-372a5f4138d2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
