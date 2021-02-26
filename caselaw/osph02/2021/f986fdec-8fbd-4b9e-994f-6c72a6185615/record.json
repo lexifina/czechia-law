@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:45.C.143.2019.4",
+  "docket": "45 C 143/2019-39",
+  "date": "2021-02-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f986fdec-8fbd-4b9e-994f-6c72a6185615",
+  "source_sha256": "8797fa9ff01d516eb63e80b2bad075f742442f45701bfd07f3c7dede5dbca0de",
+  "source_id": "f986fdec-8fbd-4b9e-994f-6c72a6185615",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "45 C 143/2019-39",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "JUDr. Kateřina Takácsová",
+    "ecli": "ECLI:CZ:OSPH02:2021:45.C.143.2019.4",
+    "predmetRizeni": "soudní prodej zástavy",
+    "datumVydani": "2021-02-26",
+    "datumZverejneni": "2021-06-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pozůstalost",
+      "převod nemovitostí",
+      "smlouva o půjčce",
+      "smlouva zástavní",
+      "zástavní právo"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 358 z. č. 292/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f986fdec-8fbd-4b9e-994f-6c72a6185615"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
