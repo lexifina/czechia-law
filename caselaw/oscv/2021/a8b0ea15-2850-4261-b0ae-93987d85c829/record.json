@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:8.C.354.2020.1",
+  "docket": "8 C 354/2020-27",
+  "date": "2021-02-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a8b0ea15-2850-4261-b0ae-93987d85c829",
+  "source_sha256": "3b555412d39a84d9398a2e5632c8083362a80711a21b34111859d6bea8401c28",
+  "source_id": "a8b0ea15-2850-4261-b0ae-93987d85c829",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 354/2020-27",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Petr Karásek",
+    "ecli": "ECLI:CZ:OSCV:2021:8.C.354.2020.1",
+    "predmetRizeni": "zaplacení 11 802 Kč s příslušenstvím (zápůjčka)",
+    "datumVydani": "2021-02-26",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a8b0ea15-2850-4261-b0ae-93987d85c829"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
