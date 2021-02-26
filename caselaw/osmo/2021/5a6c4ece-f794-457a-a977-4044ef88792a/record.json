@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:13.C.4.2021.1",
+  "docket": "13 C 4/2021-20",
+  "date": "2021-02-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5a6c4ece-f794-457a-a977-4044ef88792a",
+  "source_sha256": "c5a0ca1e7e6f81e22cdd3b1c52452f041be8aa3be9c5c10e0029aa71ec20b7ba",
+  "source_id": "5a6c4ece-f794-457a-a977-4044ef88792a",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 4/2021-20",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Ludmila Vlčková",
+    "ecli": "ECLI:CZ:OSMO:2021:13.C.4.2021.1",
+    "predmetRizeni": "2 761,94 Kč",
+    "datumVydani": "2021-02-26",
+    "datumZverejneni": "2021-03-02",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2085 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5a6c4ece-f794-457a-a977-4044ef88792a"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
