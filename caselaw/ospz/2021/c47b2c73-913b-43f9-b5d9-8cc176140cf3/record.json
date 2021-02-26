@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-západ",
+  "ecli": "ECLI:CZ:OSPZ:2021:13.C.68.2021.1",
+  "docket": "13 C 68/2021-27",
+  "date": "2021-02-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c47b2c73-913b-43f9-b5d9-8cc176140cf3",
+  "source_sha256": "d40c3b636fd1b8629a4912b24e6236dc2050fb65d517b99d5953ca34bb1529f0",
+  "source_id": "c47b2c73-913b-43f9-b5d9-8cc176140cf3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 68/2021-27",
+    "soud": "Okresní soud Praha-západ",
+    "autor": "Mgr. Jiří Pacovský",
+    "ecli": "ECLI:CZ:OSPZ:2021:13.C.68.2021.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-02-26",
+    "datumZverejneni": "2021-09-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 657 z. č. 89/2012 Sb.",
+      "§ 658 z. č. 89/2012 Sb.",
+      "§  z. č. 40/1964 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 39 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c47b2c73-913b-43f9-b5d9-8cc176140cf3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
