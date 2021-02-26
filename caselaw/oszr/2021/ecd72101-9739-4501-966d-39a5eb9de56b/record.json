@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:13.C.248.2020.1",
+  "docket": "13 C 248/2020-35",
+  "date": "2021-02-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ecd72101-9739-4501-966d-39a5eb9de56b",
+  "source_sha256": "2f98ee57db813f063a995506983a1ea2466231afa5bc0e4f008016ca555a16d3",
+  "source_id": "ecd72101-9739-4501-966d-39a5eb9de56b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 248/2020-35",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "Mgr. Eva Drahozalová",
+    "ecli": "ECLI:CZ:OSZR:2021:13.C.248.2020.1",
+    "predmetRizeni": "vyklizení bytu",
+    "datumVydani": "2021-02-26",
+    "datumZverejneni": "2021-04-13",
+    "klicovaSlova": [
+      "vyklizení bytu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1040 z. č. 89/2012 Sb.",
+      "§ 2292 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ecd72101-9739-4501-966d-39a5eb9de56b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
