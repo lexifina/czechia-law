@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:16.C.254.2020.1",
+  "docket": "16 C 254/2020-40",
+  "date": "2021-02-26",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f5cca838-d895-4f3a-bf88-fbdbcf45d9f6",
+  "source_sha256": "342c2a14ee5885f869720208aa6b5dd0ce269c9a70a7eda0a6a726d5ee579b2f",
+  "source_id": "f5cca838-d895-4f3a-bf88-fbdbcf45d9f6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 254/2020-40",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "Mgr. Libor Brokeš",
+    "ecli": "ECLI:CZ:OSOL:2021:16.C.254.2020.1",
+    "predmetRizeni": "o 2 000 Kč",
+    "datumVydani": "2021-02-26",
+    "datumZverejneni": "2021-04-28",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f5cca838-d895-4f3a-bf88-fbdbcf45d9f6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
