@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Třebíči",
+  "ecli": "ECLI:CZ:OSTR:2021:7.C.190.2020.1",
+  "docket": "7 C 190/2020-10",
+  "date": "2021-03-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cf30c554-f9ba-4884-b430-ee671a915feb",
+  "source_sha256": "2c25d5ce21c5c1b94b02d9e951fc71653e841b9fc832368ab8c40af3f8ba1348",
+  "source_id": "cf30c554-f9ba-4884-b430-ee671a915feb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 190/2020-10",
+    "soud": "Okresní soud v Třebíči",
+    "autor": "Mgr. Petra Rutarová",
+    "ecli": "ECLI:CZ:OSTR:2021:7.C.190.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-01",
+    "datumZverejneni": "2021-05-17",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "věcná břemena"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 14 z. č. 328/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cf30c554-f9ba-4884-b430-ee671a915feb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
