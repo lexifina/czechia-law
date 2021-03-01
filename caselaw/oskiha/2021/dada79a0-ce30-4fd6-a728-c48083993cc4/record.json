@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:106.C.2.2020.1",
+  "docket": "106 C 2/2020-91",
+  "date": "2021-03-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dada79a0-ce30-4fd6-a728-c48083993cc4",
+  "source_sha256": "452fd1cd9eabb70d774e8dd3b573bd71841ba6ea6490a53952ef48351f4bd4fa",
+  "source_id": "dada79a0-ce30-4fd6-a728-c48083993cc4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "106 C 2/2020-91",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Petra Hermannová",
+    "ecli": "ECLI:CZ:OSKIHA:2021:106.C.2.2020.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-03-01",
+    "datumZverejneni": "2021-04-27",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dada79a0-ce30-4fd6-a728-c48083993cc4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
