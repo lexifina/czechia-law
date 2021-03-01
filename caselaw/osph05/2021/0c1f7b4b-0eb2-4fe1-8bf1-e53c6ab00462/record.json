@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:20.C.1.2021.1",
+  "docket": "20 C 1/2021-15",
+  "date": "2021-03-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0c1f7b4b-0eb2-4fe1-8bf1-e53c6ab00462",
+  "source_sha256": "1f23a2b3e41f557edf601b1fa0ee567909377518d63564745ff6e8ed8d9cca0e",
+  "source_id": "0c1f7b4b-0eb2-4fe1-8bf1-e53c6ab00462",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 1/2021-15",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Andrea Lomozová",
+    "ecli": "ECLI:CZ:OSPH05:2021:20.C.1.2021.1",
+    "predmetRizeni": "O zaplacení 14 880 Kč s příslušenstvím",
+    "datumVydani": "2021-03-01",
+    "datumZverejneni": "2021-05-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 2 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0c1f7b4b-0eb2-4fe1-8bf1-e53c6ab00462"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
