@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 7",
+  "ecli": "ECLI:CZ:OSPH07:2021:15.C.167.2016.1",
+  "docket": "15 C 167/2016-104",
+  "date": "2021-03-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-09-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e6279023-9cdc-4a32-949b-e012711217ba",
+  "source_sha256": "5de15f3177e1e4772efdd945f5f2453abb33d8d20bdda2c8f46442ac5590b764",
+  "source_id": "e6279023-9cdc-4a32-949b-e012711217ba",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 167/2016-104",
+    "soud": "Obvodní soud pro Prahu 7",
+    "autor": "JUDr. Iva Kaňáková",
+    "ecli": "ECLI:CZ:OSPH07:2021:15.C.167.2016.1",
+    "predmetRizeni": "Žaloba dle § 185e o.s.ř.",
+    "datumVydani": "2021-03-01",
+    "datumZverejneni": "2021-09-01",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "dlužné nájemné",
+      "podnájem",
+      "smlouva nájemní",
+      "výpověď z nájmu",
+      "započtení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 159a z. č. 99/1963 Sb.",
+      "§ 299 z. č. 292/2013 Sb.",
+      "§ 185e z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e6279023-9cdc-4a32-949b-e012711217ba"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
