@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2021:21.C.29.2021.1",
+  "docket": "21 C 29/2021-68",
+  "date": "2021-03-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/960a5f35-0c54-4b69-b920-bbd3e441b642",
+  "source_sha256": "d397fc45b500587550bae8a46d80f3e28006e8aea141ac767e2ab28199a3f0f2",
+  "source_id": "960a5f35-0c54-4b69-b920-bbd3e441b642",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 29/2021-68",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "Mgr. Zuzana Břízová",
+    "ecli": "ECLI:CZ:OSJI:2021:21.C.29.2021.1",
+    "predmetRizeni": "o 4 365,76 Kč s příslušenstvím",
+    "datumVydani": "2021-03-01",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "telekomunikace"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb.",
+      "§ 63 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/960a5f35-0c54-4b69-b920-bbd3e441b642"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
