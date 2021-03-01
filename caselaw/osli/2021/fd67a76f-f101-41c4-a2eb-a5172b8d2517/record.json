@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:12.C.306.2020.1",
+  "docket": "12 C 306/2020-67",
+  "date": "2021-03-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fd67a76f-f101-41c4-a2eb-a5172b8d2517",
+  "source_sha256": "8e32b4629bf9c4bb82ca8d8e9eb7a108b0d43eea8558f7a2e4d801591d9c23f2",
+  "source_id": "fd67a76f-f101-41c4-a2eb-a5172b8d2517",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 306/2020-67",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Renata Urbánková",
+    "ecli": "ECLI:CZ:OSLI:2021:12.C.306.2020.1",
+    "predmetRizeni": "o zaplacení částky 64 572 Kč s příslušenstvím",
+    "datumVydani": "2021-03-01",
+    "datumZverejneni": "2021-05-06",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 2217 z. č. 89/2012 Sb.",
+      "§ 2021 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fd67a76f-f101-41c4-a2eb-a5172b8d2517"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
