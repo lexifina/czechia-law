@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Bruntále",
+  "ecli": "ECLI:CZ:OSBU:2021:38.C.178.2020.1",
+  "docket": "38 C 178/2020-35",
+  "date": "2021-03-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/23f1d4b5-6f6d-43a9-bc66-4a4b39eabe07",
+  "source_sha256": "e379c21560631cc1095fc42cd7b751f3dba4bf51d9711e3af17829367100c6ea",
+  "source_id": "23f1d4b5-6f6d-43a9-bc66-4a4b39eabe07",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 178/2020-35",
+    "soud": "Okresní soud v Bruntále",
+    "autor": "Mgr. Silvie Hodaňová",
+    "ecli": "ECLI:CZ:OSBU:2021:38.C.178.2020.1",
+    "predmetRizeni": "zaplacení dlužné nevyplacené mzdy",
+    "datumVydani": "2021-03-01",
+    "datumZverejneni": "2021-05-17",
+    "klicovaSlova": [
+      "náhrada mzdy",
+      "peněžité plnění",
+      "skončení pracovního poměru",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 109 z. č. 262/2006 Sb.",
+      "§ 141 z. č. 262/2006 Sb.",
+      "§ 222 z. č. 262/2006 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/23f1d4b5-6f6d-43a9-bc66-4a4b39eabe07"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
