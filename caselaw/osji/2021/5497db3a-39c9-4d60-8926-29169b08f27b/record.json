@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2021:4.C.230.2020.1",
+  "docket": "4 C 230/2020-26",
+  "date": "2021-03-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-26",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5497db3a-39c9-4d60-8926-29169b08f27b",
+  "source_sha256": "b63720f5840fb6ec966600f9ec412bb67a01862e5b4cfed8fefbc71ac96927c1",
+  "source_id": "5497db3a-39c9-4d60-8926-29169b08f27b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 230/2020-26",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "Mgr. Jan Cejpek",
+    "ecli": "ECLI:CZ:OSJI:2021:4.C.230.2020.1",
+    "predmetRizeni": "o 12 775 Kč s příslušenstvím",
+    "datumVydani": "2021-03-01",
+    "datumZverejneni": "2021-04-26",
+    "klicovaSlova": [
+      "elektronický podpis",
+      "peněžité plnění",
+      "poplatek z prodlení",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 9 z. č. 145/2010 Sb.",
+      "§  z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5497db3a-39c9-4d60-8926-29169b08f27b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
