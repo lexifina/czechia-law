@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jihlavě",
+  "ecli": "ECLI:CZ:OSJI:2021:21.C.15.2021.1",
+  "docket": "21 C 15/2021-20",
+  "date": "2021-03-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5a2d8cbb-ff6c-4643-92ec-773185698862",
+  "source_sha256": "c2e47e1e13bcd599da036f653bbc5ea7ab65a8b7fdb66219d714632e9ec669c8",
+  "source_id": "5a2d8cbb-ff6c-4643-92ec-773185698862",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 15/2021-20",
+    "soud": "Okresní soud v Jihlavě",
+    "autor": "Mgr. Zuzana Břízová",
+    "ecli": "ECLI:CZ:OSJI:2021:21.C.15.2021.1",
+    "predmetRizeni": "o 1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-03-01",
+    "datumZverejneni": "2021-04-06",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5a2d8cbb-ff6c-4643-92ec-773185698862"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
