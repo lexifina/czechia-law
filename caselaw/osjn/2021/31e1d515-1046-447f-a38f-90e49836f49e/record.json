@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2021:6.C.2.2021.1",
+  "docket": "6 C 2/2021-21",
+  "date": "2021-03-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/31e1d515-1046-447f-a38f-90e49836f49e",
+  "source_sha256": "9b496315d92aaca4bbeea094b95c425016907f5186a4bf4ef294baaf58f5fb15",
+  "source_id": "31e1d515-1046-447f-a38f-90e49836f49e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 2/2021-21",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "Mgr. Petra Dostálová kunická",
+    "ecli": "ECLI:CZ:OSJN:2021:6.C.2.2021.1",
+    "predmetRizeni": "O zaplacení 2 566 Kč s příslušenstvím",
+    "datumVydani": "2021-03-01",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 12 z. č. 168/1999 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb.",
+      "§ 13 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/31e1d515-1046-447f-a38f-90e49836f49e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
