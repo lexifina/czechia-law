@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:6.C.265.2020.1",
+  "docket": "6 C 265/2020-71",
+  "date": "2021-03-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-11",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d48e38b1-45ee-48a9-b549-ced33145e94f",
+  "source_sha256": "e12cc5c1ed516993cb913de1c9c5c6b3f817a4276df84ade72b0ccc7831f18d3",
+  "source_id": "d48e38b1-45ee-48a9-b549-ced33145e94f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 265/2020-71",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "JUDr. Renata Polanská",
+    "ecli": "ECLI:CZ:OSPU:2021:6.C.265.2020.1",
+    "predmetRizeni": "o zaplacení 925 737 Kč s příslušenstvím",
+    "datumVydani": "2021-03-01",
+    "datumZverejneni": "2021-05-11",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d48e38b1-45ee-48a9-b549-ced33145e94f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
