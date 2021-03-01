@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:31.C.219.2020.1",
+  "docket": "31 C 219/2020-53",
+  "date": "2021-03-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-13",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/60a3a903-71ad-48be-b9bd-754119ce0e30",
+  "source_sha256": "b5eb027fabb78f8382fac3212adfb0d6b5744e4af68c4c962616766ff3464052",
+  "source_id": "60a3a903-71ad-48be-b9bd-754119ce0e30",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "31 C 219/2020-53",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "Mgr. Jan Zdražil",
+    "ecli": "ECLI:CZ:OSCV:2021:31.C.219.2020.1",
+    "predmetRizeni": "zaplacení 1 650 Kč s příslušenstvím (úvěr)",
+    "datumVydani": "2021-03-01",
+    "datumZverejneni": "2021-05-13",
+    "klicovaSlova": [
+      "smlouva o úvěru",
+      "zastavení řízení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/60a3a903-71ad-48be-b9bd-754119ce0e30"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
