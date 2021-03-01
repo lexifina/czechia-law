@@ -1,0 +1,30 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:32.C.60.2020.1",
+  "docket": "32 C 60/2020-20",
+  "date": "2021-03-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/984d46d3-e6b2-44ef-8e3a-932e1db3aa18",
+  "source_sha256": "246d104d175be91787e746d2f309b8202c61cb3d2ae63cb07ef792fcc0824d9b",
+  "source_id": "984d46d3-e6b2-44ef-8e3a-932e1db3aa18",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "32 C 60/2020-20",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Jan Sedláček",
+    "ecli": "ECLI:CZ:MSBR:2021:32.C.60.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-01",
+    "datumZverejneni": "2021-06-04",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/984d46d3-e6b2-44ef-8e3a-932e1db3aa18"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
