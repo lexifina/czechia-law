@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:35.C.291.2019.1",
+  "docket": "35 C 291/2019-39",
+  "date": "2021-03-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a67cbb44-6dd2-45cb-b713-d029c71348da",
+  "source_sha256": "e2f84b8e048415a35024bc0d18ec7d4a3c62773378abe2bae4af71fa4ea421dc",
+  "source_id": "a67cbb44-6dd2-45cb-b713-d029c71348da",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "35 C 291/2019-39",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Ing. Viktor Smolík",
+    "ecli": "ECLI:CZ:OSPY:2021:35.C.291.2019.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-01",
+    "datumZverejneni": "2021-03-18",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a67cbb44-6dd2-45cb-b713-d029c71348da"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
