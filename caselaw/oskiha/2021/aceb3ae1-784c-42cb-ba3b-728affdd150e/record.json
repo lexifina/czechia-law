@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:116.C.427.2020.1",
+  "docket": "116 C 427/2020-59",
+  "date": "2021-03-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/aceb3ae1-784c-42cb-ba3b-728affdd150e",
+  "source_sha256": "e4216c6ecc47e2c1481647b0dddb50166c700cc6b546ad55c93a6eb62744ac86",
+  "source_id": "aceb3ae1-784c-42cb-ba3b-728affdd150e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "116 C 427/2020-59",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Ivana Josieková",
+    "ecli": "ECLI:CZ:OSKIHA:2021:116.C.427.2020.1",
+    "predmetRizeni": "2 000 Kč",
+    "datumVydani": "2021-03-01",
+    "datumZverejneni": "2021-04-30",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§  z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/aceb3ae1-784c-42cb-ba3b-728affdd150e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
