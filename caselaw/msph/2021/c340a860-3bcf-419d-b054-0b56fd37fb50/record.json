@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Praze",
+  "ecli": "ECLI:CZ:MSPH:2021:37.C.9.2016.1",
+  "docket": "37 C 9/2016",
+  "date": "2021-03-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-08",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c340a860-3bcf-419d-b054-0b56fd37fb50",
+  "source_sha256": "b9ba29a8edbc3459872ff240994dd971e370cfa1ed1d6fa3e85bd58fef9ea119",
+  "source_id": "c340a860-3bcf-419d-b054-0b56fd37fb50",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "37 C 9/2016",
+    "soud": "Městský soud v Praze",
+    "autor": "JUDr. Filip Liška",
+    "ecli": "ECLI:CZ:MSPH:2021:37.C.9.2016.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-03-01",
+    "datumZverejneni": "2021-04-08",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "nemajetková újma",
+      "znalecký posudek"
+    ],
+    "zminenaUstanoveni": [
+      "§ 146 z. č. 99/1963 Sb.",
+      "§ 110 z. č. 99/1963 Sb.",
+      "§ 57 z. č. 99/1963 Sb.",
+      "§ 111 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c340a860-3bcf-419d-b054-0b56fd37fb50"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
