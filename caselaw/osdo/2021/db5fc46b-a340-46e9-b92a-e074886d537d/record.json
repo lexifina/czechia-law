@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Domažlicích",
+  "ecli": "ECLI:CZ:OSDO:2021:12.C.64.2020.1",
+  "docket": "12 C 64/2020-24",
+  "date": "2021-03-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/db5fc46b-a340-46e9-b92a-e074886d537d",
+  "source_sha256": "1d3676327b5a5552ae6e5f703a566924cafb1fb1a3e33bb8060ee5bfb550d64e",
+  "source_id": "db5fc46b-a340-46e9-b92a-e074886d537d",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 64/2020-24",
+    "soud": "Okresní soud v Domažlicích",
+    "autor": "Mgr. Bohumila Kyvířová",
+    "ecli": "ECLI:CZ:OSDO:2021:12.C.64.2020.1",
+    "predmetRizeni": "o zapl. 29 500 Kč s přísl.",
+    "datumVydani": "2021-03-01",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/db5fc46b-a340-46e9-b92a-e074886d537d"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
