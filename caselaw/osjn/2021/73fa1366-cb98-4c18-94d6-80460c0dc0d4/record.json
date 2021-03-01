@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2021:6.C.22.2020.3",
+  "docket": "6 C 22/2020-29",
+  "date": "2021-03-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/73fa1366-cb98-4c18-94d6-80460c0dc0d4",
+  "source_sha256": "7a9f361c2b6e2580fe59415c113bc57d8bc13cac57842e3f25a87c39b81eff0c",
+  "source_id": "73fa1366-cb98-4c18-94d6-80460c0dc0d4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 22/2020-29",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "Mgr. Petra Dostálová kunická",
+    "ecli": "ECLI:CZ:OSJN:2021:6.C.22.2020.3",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-01",
+    "datumZverejneni": "2021-03-17",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 384 z. č. 292/2013 Sb.",
+      "§  z. č. 98/1984 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/73fa1366-cb98-4c18-94d6-80460c0dc0d4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
