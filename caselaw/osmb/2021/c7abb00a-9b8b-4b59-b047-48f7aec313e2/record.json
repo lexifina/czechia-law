@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2021:13.C.11.2021.1",
+  "docket": "13 C 11/2021-13",
+  "date": "2021-03-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c7abb00a-9b8b-4b59-b047-48f7aec313e2",
+  "source_sha256": "dc8d7a2ba203b8c2dafef2bd6d15bd2d3ee608eecd1249ed1beed649b58cf4dd",
+  "source_id": "c7abb00a-9b8b-4b59-b047-48f7aec313e2",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 11/2021-13",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "JUDr. Kateřina Zavadilová",
+    "ecli": "ECLI:CZ:OSMB:2021:13.C.11.2021.1",
+    "predmetRizeni": "o zaplacení 6 995 Kč s příslušenstvím",
+    "datumVydani": "2021-03-01",
+    "datumZverejneni": "2021-06-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c7abb00a-9b8b-4b59-b047-48f7aec313e2"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
