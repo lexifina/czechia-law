@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:16.C.282.2020.1",
+  "docket": "16 C 282/2020-37",
+  "date": "2021-03-01",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/abecf20e-2ecd-47ad-aed9-c91c60d3616e",
+  "source_sha256": "d82ea056fa1ca3d66cadfc5ad44e6e78050cc854e148e53ffe05d462e555d281",
+  "source_id": "abecf20e-2ecd-47ad-aed9-c91c60d3616e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 282/2020-37",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "JUDr. Dana Sobotková",
+    "ecli": "ECLI:CZ:OSKV:2021:16.C.282.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-01",
+    "datumZverejneni": "2021-03-29",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/abecf20e-2ecd-47ad-aed9-c91c60d3616e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
