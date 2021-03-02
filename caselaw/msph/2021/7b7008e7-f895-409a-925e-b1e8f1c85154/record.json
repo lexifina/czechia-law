@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Praze",
+  "ecli": "ECLI:CZ:MSPH:2021:32.C.10.2016.1",
+  "docket": "32 C 10/2016",
+  "date": "2021-03-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7b7008e7-f895-409a-925e-b1e8f1c85154",
+  "source_sha256": "9bfaa874308b499924488c4b6b9af3d2927d7574b672bc1810c92176307d5b95",
+  "source_id": "7b7008e7-f895-409a-925e-b1e8f1c85154",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "32 C 10/2016",
+    "soud": "Městský soud v Praze",
+    "autor": "JUDr. Filip Liška",
+    "ecli": "ECLI:CZ:MSPH:2021:32.C.10.2016.1",
+    "predmetRizeni": "",
+    "datumVydani": "2021-03-02",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [
+      "obchodní tajemství",
+      "postoupení pohledávky",
+      "smlouva licenční",
+      "software"
+    ],
+    "zminenaUstanoveni": [
+      "§ 10 z. č. 549/1991 Sb.",
+      "§ 96 z. č. 99/1963 Sb.",
+      "§ 146 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7b7008e7-f895-409a-925e-b1e8f1c85154"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
