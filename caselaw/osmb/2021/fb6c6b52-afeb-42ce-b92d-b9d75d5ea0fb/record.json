@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mladé Boleslavi",
+  "ecli": "ECLI:CZ:OSMB:2021:7.C.42.2021.1",
+  "docket": "7 C 42/2021-13",
+  "date": "2021-03-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fb6c6b52-afeb-42ce-b92d-b9d75d5ea0fb",
+  "source_sha256": "be341cb3e4e8d6c2247f3e731ca26eb4fed848d97e9b07d58e0e0a4c059c7b4e",
+  "source_id": "fb6c6b52-afeb-42ce-b92d-b9d75d5ea0fb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "7 C 42/2021-13",
+    "soud": "Okresní soud v Mladé Boleslavi",
+    "autor": "JUDr. Lucia Jelínková",
+    "ecli": "ECLI:CZ:OSMB:2021:7.C.42.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-02",
+    "datumZverejneni": "2021-03-03",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fb6c6b52-afeb-42ce-b92d-b9d75d5ea0fb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
