@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:28.C.27.2020.1",
+  "docket": "28 C 27/2020-51",
+  "date": "2021-03-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/51ba2490-d3e9-4017-8a8e-130d1dbbada7",
+  "source_sha256": "c1139faf060361c29dddcb8b50a0e17c3df9481f58da5c7395dce86daed8717d",
+  "source_id": "51ba2490-d3e9-4017-8a8e-130d1dbbada7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "28 C 27/2020-51",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Šárka Houdková poláková",
+    "ecli": "ECLI:CZ:OSCV:2021:28.C.27.2020.1",
+    "predmetRizeni": "zaplacení 11 605,12 Kč s příslušenstvím (úvěr)",
+    "datumVydani": "2021-03-02",
+    "datumZverejneni": "2021-08-12",
+    "klicovaSlova": [
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 104 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/51ba2490-d3e9-4017-8a8e-130d1dbbada7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
