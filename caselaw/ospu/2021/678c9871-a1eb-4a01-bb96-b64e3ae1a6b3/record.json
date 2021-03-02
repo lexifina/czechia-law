@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Pardubicích",
+  "ecli": "ECLI:CZ:OSPU:2021:15.C.270.2020.1",
+  "docket": "15 C 270/2020-36",
+  "date": "2021-03-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/678c9871-a1eb-4a01-bb96-b64e3ae1a6b3",
+  "source_sha256": "4b2f2a20b7f516e277df6bba0e069e9297bfd0228842355c94a0abf9e16e2ef6",
+  "source_id": "678c9871-a1eb-4a01-bb96-b64e3ae1a6b3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 270/2020-36",
+    "soud": "Okresní soud v Pardubicích",
+    "autor": "Mgr. Pavel Tureček",
+    "ecli": "ECLI:CZ:OSPU:2021:15.C.270.2020.1",
+    "predmetRizeni": "o zaplacení 2 388 Kč s příslušenstvím",
+    "datumVydani": "2021-03-02",
+    "datumZverejneni": "2021-08-02",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2758 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/678c9871-a1eb-4a01-bb96-b64e3ae1a6b3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
