@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné",
+  "ecli": "ECLI:CZ:OSKI:2021:27.C.402.2020.1",
+  "docket": "27 C 402/2020-30",
+  "date": "2021-03-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c348ef4a-717b-4777-9cd4-09fb793fdaa3",
+  "source_sha256": "30031a00af330395d2a3e09b0043c9c752646e623b1b54016dfa511cf246d751",
+  "source_id": "c348ef4a-717b-4777-9cd4-09fb793fdaa3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "27 C 402/2020-30",
+    "soud": "Okresní soud v Karviné",
+    "autor": "JUDr. Roman Hlaváč",
+    "ecli": "ECLI:CZ:OSKI:2021:27.C.402.2020.1",
+    "predmetRizeni": "2 415 Kč s příslušenstvím",
+    "datumVydani": "2021-03-02",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c348ef4a-717b-4777-9cd4-09fb793fdaa3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
