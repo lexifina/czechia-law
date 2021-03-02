@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2021:5.C.372.2020.1",
+  "docket": "5 C 372/2020-20",
+  "date": "2021-03-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-07",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fc809fe6-a6a0-4c13-aa17-040586294eb9",
+  "source_sha256": "8bededa7d0d68cf7a207f1470f2db71e6863a0c89bccd83095e3e4362c0b4b9f",
+  "source_id": "fc809fe6-a6a0-4c13-aa17-040586294eb9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 372/2020-20",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Petra Šturcová",
+    "ecli": "ECLI:CZ:OSBN:2021:5.C.372.2020.1",
+    "predmetRizeni": "zaplacení 2 000 Kč s příslušenstvím",
+    "datumVydani": "2021-03-02",
+    "datumZverejneni": "2021-05-07",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390,2991 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fc809fe6-a6a0-4c13-aa17-040586294eb9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
