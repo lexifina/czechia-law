@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:106.C.416.2020.1",
+  "docket": "106 C 416/2020-43",
+  "date": "2021-03-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cc778d8f-b143-4cb5-a8d7-f57ba0fa97a1",
+  "source_sha256": "44c236073581bc9422ee330b1829aba14a7a80336a2a361cef3489cd38d667f7",
+  "source_id": "cc778d8f-b143-4cb5-a8d7-f57ba0fa97a1",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "106 C 416/2020-43",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Petra Hermannová",
+    "ecli": "ECLI:CZ:OSKIHA:2021:106.C.416.2020.1",
+    "predmetRizeni": "8 386 Kč s příslušenstvím",
+    "datumVydani": "2021-03-02",
+    "datumZverejneni": "2021-03-25",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "poučovací povinnost soudu",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cc778d8f-b143-4cb5-a8d7-f57ba0fa97a1"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
