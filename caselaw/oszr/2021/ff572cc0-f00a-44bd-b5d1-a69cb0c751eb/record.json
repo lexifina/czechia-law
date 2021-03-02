@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:13.C.3.2021.1",
+  "docket": "13 C 3/2021-15",
+  "date": "2021-03-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ff572cc0-f00a-44bd-b5d1-a69cb0c751eb",
+  "source_sha256": "7cafc1cf51728adaf3e2201af7152e62dece7d6d409fcf6d346f5024beb84b5e",
+  "source_id": "ff572cc0-f00a-44bd-b5d1-a69cb0c751eb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 3/2021-15",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "Mgr. Eva Drahozalová",
+    "ecli": "ECLI:CZ:OSZR:2021:13.C.3.2021.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-02",
+    "datumZverejneni": "2021-03-19",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ff572cc0-f00a-44bd-b5d1-a69cb0c751eb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
