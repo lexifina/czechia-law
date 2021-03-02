@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jablonci nad Nisou",
+  "ecli": "ECLI:CZ:OSJN:2021:10.C.19.2021.1",
+  "docket": "10 C 19/2021-17",
+  "date": "2021-03-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a1b3fe2e-697b-4aa9-a86d-21549933f99c",
+  "source_sha256": "f865b8c3fe562a0508b4c6a489ac3dc8b73fbd44095ed42adfc76b59274f5239",
+  "source_id": "a1b3fe2e-697b-4aa9-a86d-21549933f99c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 19/2021-17",
+    "soud": "Okresní soud v Jablonci nad Nisou",
+    "autor": "JUDr. Pavel Vlach, Ph.D.",
+    "ecli": "ECLI:CZ:OSJN:2021:10.C.19.2021.1",
+    "predmetRizeni": "o zaplacení 3 170 Kč s příslušenstvím",
+    "datumVydani": "2021-03-02",
+    "datumZverejneni": "2021-04-12",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§  vyhl. č. 205/1999 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a1b3fe2e-697b-4aa9-a86d-21549933f99c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
