@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Frýdku-Místku",
+  "ecli": "ECLI:CZ:OSFM:2021:41.C.144.2020.1",
+  "docket": "41 C 144/2020-20",
+  "date": "2021-03-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3b38e9d3-67eb-47df-a540-de84e7a0d1a3",
+  "source_sha256": "80c07453983b75febfd2f5266b476ed19dd2c460fa0850022829aac871ca93f7",
+  "source_id": "3b38e9d3-67eb-47df-a540-de84e7a0d1a3",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "41 C 144/2020-20",
+    "soud": "Okresní soud ve Frýdku-Místku",
+    "autor": "JUDr. Alice Martikánová",
+    "ecli": "ECLI:CZ:OSFM:2021:41.C.144.2020.1",
+    "predmetRizeni": "o 2.700 Kč s přísl.",
+    "datumVydani": "2021-03-02",
+    "datumZverejneni": "2021-04-09",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "odtah vozidla",
+      "peněžité plnění",
+      "smlouva mandátní"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 19b z. č. 13/1997 Sb.",
+      "§ 19a z. č. 13/1997 Sb.",
+      "§ 196 z. č. 13/1997 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3b38e9d3-67eb-47df-a540-de84e7a0d1a3"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
