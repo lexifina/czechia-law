@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:15.C.37.2021.2",
+  "docket": "15 C 37/2021-20",
+  "date": "2021-03-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bb4f8160-b652-4004-93b4-d0e4d47fb04c",
+  "source_sha256": "dfd569e675fbb9b4e498af1099302401d6d00ca5eb29452258e59287b148bb10",
+  "source_id": "bb4f8160-b652-4004-93b4-d0e4d47fb04c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 37/2021-20",
+    "soud": "Okresní soud v Mostě",
+    "autor": "Mgr. Radka Kryndlerová",
+    "ecli": "ECLI:CZ:OSMO:2021:15.C.37.2021.2",
+    "predmetRizeni": "5 045,68 Kč",
+    "datumVydani": "2021-03-02",
+    "datumZverejneni": "2021-04-15",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "jízdné",
+      "odstoupení od smlouvy",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 1815 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb.",
+      "§ 1814 z. č. 89/2012 Sb.",
+      "§ 1812 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bb4f8160-b652-4004-93b4-d0e4d47fb04c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
