@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:220.C.11.2020.1",
+  "docket": "220 C 11/2020-54",
+  "date": "2021-03-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/93d811bd-56b8-47fe-8202-2bac2cbeb3ad",
+  "source_sha256": "8258040d5c380ecf89c8649351bdff62623cde0ba1a0941ea20ee5ebf3903acd",
+  "source_id": "93d811bd-56b8-47fe-8202-2bac2cbeb3ad",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "220 C 11/2020-54",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Marta Mandátová",
+    "ecli": "ECLI:CZ:MSBR:2021:220.C.11.2020.1",
+    "predmetRizeni": "zaplacení 57 224 Kč s příslušenstvím - náhrada škody",
+    "datumVydani": "2021-03-02",
+    "datumZverejneni": "2021-06-17",
+    "klicovaSlova": [
+      "dodávky energie",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 51 z. č. 458/2000 Sb.",
+      "§ 1 vyhl. č. 254/2015 Sb.",
+      "§ 151 z. č. 139/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/93d811bd-56b8-47fe-8202-2bac2cbeb3ad"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
