@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2021:12.C.16.2021.1",
+  "docket": "12 C 16/2021-32",
+  "date": "2021-03-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/68fd4034-b3b1-45db-a19d-bc678fe1058e",
+  "source_sha256": "2f4309d0e08acf400559132bacae5d82ea21f09eb440dbc85f17a772d710984a",
+  "source_id": "68fd4034-b3b1-45db-a19d-bc678fe1058e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 16/2021-32",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Petra Jun lišková",
+    "ecli": "ECLI:CZ:OSBN:2021:12.C.16.2021.1",
+    "predmetRizeni": "o zaplacení 25 902 Kč s příslušenstvím",
+    "datumVydani": "2021-03-02",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "insolvence",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o úvěru",
+      "zastavení exekuce / výkonu rozhodnutí"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991,2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/68fd4034-b3b1-45db-a19d-bc678fe1058e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
