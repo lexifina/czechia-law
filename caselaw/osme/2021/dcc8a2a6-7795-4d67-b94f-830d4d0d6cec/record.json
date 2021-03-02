@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mělníku",
+  "ecli": "ECLI:CZ:OSME:2021:16.C.20.2021.1",
+  "docket": "16 C 20/2021",
+  "date": "2021-03-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/dcc8a2a6-7795-4d67-b94f-830d4d0d6cec",
+  "source_sha256": "8dfceb84afa8cc71c152fd6c8db4966a5d6e1af7136696d4c7923e00fc8bcf8e",
+  "source_id": "dcc8a2a6-7795-4d67-b94f-830d4d0d6cec",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 20/2021",
+    "soud": "Okresní soud v Mělníku",
+    "autor": "Mgr. Michaela Dvořáčková",
+    "ecli": "ECLI:CZ:OSME:2021:16.C.20.2021.1",
+    "predmetRizeni": "o částku [číslo] kč s přísl.",
+    "datumVydani": "2021-03-02",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§  z. č. 120/2001 Sb.",
+      "§ 63 z. č. 127/2005 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/dcc8a2a6-7795-4d67-b94f-830d4d0d6cec"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
