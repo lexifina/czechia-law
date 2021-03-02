@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Liberci",
+  "ecli": "ECLI:CZ:OSLI:2021:22.C.459.2019.1",
+  "docket": "22 C 459/2019-50",
+  "date": "2021-03-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-10",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bf16add5-fbbd-42c8-be10-399afd5a0417",
+  "source_sha256": "63eef2f219056fc0c72bbf2c363b29ffd93cdf52ab50541145bc74469f42af3b",
+  "source_id": "bf16add5-fbbd-42c8-be10-399afd5a0417",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 459/2019-50",
+    "soud": "Okresní soud v Liberci",
+    "autor": "Mgr. Tomáš Kopal",
+    "ecli": "ECLI:CZ:OSLI:2021:22.C.459.2019.1",
+    "predmetRizeni": "Převod EPR - zaplacení částky 69.418,00 Kč s přísl.",
+    "datumVydani": "2021-03-02",
+    "datumZverejneni": "2021-05-10",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 517 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bf16add5-fbbd-42c8-be10-399afd5a0417"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
