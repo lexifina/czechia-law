@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Novém Jičíně",
+  "ecli": "ECLI:CZ:OSNJ:2021:8.C.24.2021.2",
+  "docket": "8 C 24/2021-11",
+  "date": "2021-03-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-29",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/bbb7eef3-29c9-4a10-85d1-b452d4e1ddd0",
+  "source_sha256": "f575d568fd2528cd52de2111708793482514288c28707cb7dbec2860d34c666b",
+  "source_id": "bbb7eef3-29c9-4a10-85d1-b452d4e1ddd0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 24/2021-11",
+    "soud": "Okresní soud v Novém Jičíně",
+    "autor": "JUDr. Taťána Hodaňová",
+    "ecli": "ECLI:CZ:OSNJ:2021:8.C.24.2021.2",
+    "predmetRizeni": "O zaplacení 1 142 Kč s příslušenstvím",
+    "datumVydani": "2021-03-02",
+    "datumZverejneni": "2021-03-29",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/bbb7eef3-29c9-4a10-85d1-b452d4e1ddd0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
