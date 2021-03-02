@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2021:5.C.30.2021.2",
+  "docket": "5 C 30/2021-22",
+  "date": "2021-03-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-15",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/e9cb5788-07cc-4f15-8de8-1b3416313440",
+  "source_sha256": "163730bb89ab9ed629299fe3a967bd69aae609ed940172a6b4a3790dc8854aa8",
+  "source_id": "e9cb5788-07cc-4f15-8de8-1b3416313440",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 30/2021-22",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "JUDr. Ivana Paloučková",
+    "ecli": "ECLI:CZ:OSCK:2021:5.C.30.2021.2",
+    "predmetRizeni": "EPR [číslo] - o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-02",
+    "datumZverejneni": "2021-04-15",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§  z. č. 168/1999 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 1 vyhl. č. 254/2015 Sb.",
+      "§ 4a z. č. 265/1991 Sb.",
+      "§  z. č. 131/2000 Sb.",
+      "§  z. č. 135/1994 Sb.",
+      "§  z. č. 320/2002 Sb.",
+      "§ 3 z. č. 56/2001 Sb.",
+      "§  z. č. 151/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/e9cb5788-07cc-4f15-8de8-1b3416313440"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
