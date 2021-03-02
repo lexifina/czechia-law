@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Žďáru nad Sázavou",
+  "ecli": "ECLI:CZ:OSZR:2021:8.C.108.2020.1",
+  "docket": "8 C 108/2020-37",
+  "date": "2021-03-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/37ed9041-5032-4c1b-a92b-a186a6af0142",
+  "source_sha256": "098dd54f34090c3091232928b3708cf7ab559ed4cab4f8531dd21b8531938fee",
+  "source_id": "37ed9041-5032-4c1b-a92b-a186a6af0142",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 108/2020-37",
+    "soud": "Okresní soud ve Žďáru nad Sázavou",
+    "autor": "JUDr. Drahomíra Librová",
+    "ecli": "ECLI:CZ:OSZR:2021:8.C.108.2020.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-02",
+    "datumZverejneni": "2021-04-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/37ed9041-5032-4c1b-a92b-a186a6af0142"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
