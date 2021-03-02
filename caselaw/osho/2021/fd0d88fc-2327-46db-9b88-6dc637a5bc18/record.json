@@ -1,0 +1,49 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hodoníně",
+  "ecli": "ECLI:CZ:OSHO:2021:13.C.257.2020.1",
+  "docket": "13 C 257/2020-28",
+  "date": "2021-03-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fd0d88fc-2327-46db-9b88-6dc637a5bc18",
+  "source_sha256": "8ff2d6ac6a6129e0633fda1810dda46f45e94f41759aed03cb359abfeff9edad",
+  "source_id": "fd0d88fc-2327-46db-9b88-6dc637a5bc18",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 257/2020-28",
+    "soud": "Okresní soud v Hodoníně",
+    "autor": "Mgr. Helena Podveská",
+    "ecli": "ECLI:CZ:OSHO:2021:13.C.257.2020.1",
+    "predmetRizeni": "zaplacení 4 390 Kč s příslušenstvím",
+    "datumVydani": "2021-03-02",
+    "datumZverejneni": "2021-03-19",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "insolvence",
+      "neplatnost právního jednání",
+      "podvod",
+      "postoupení pohledávky",
+      "smlouva nájemní",
+      "smlouva o půjčce",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§  z. č. 145/2010 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 1 z. č. 89/2012 Sb.",
+      "§ 586 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fd0d88fc-2327-46db-9b88-6dc637a5bc18"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
