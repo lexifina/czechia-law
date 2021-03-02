@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v České Lípě",
+  "ecli": "ECLI:CZ:OSCL:2021:15.C.15.2021.1",
+  "docket": "15 C 15/2021-32",
+  "date": "2021-03-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c8e733e0-1c73-4535-a269-ea1ccda13b36",
+  "source_sha256": "ac0b4f4bff59b2ebd78f0f3ca3dff7af2cb6639e83a771594580aaf726f4116b",
+  "source_id": "c8e733e0-1c73-4535-a269-ea1ccda13b36",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "15 C 15/2021-32",
+    "soud": "Okresní soud v České Lípě",
+    "autor": "JUDr. Alena Divíšková",
+    "ecli": "ECLI:CZ:OSCL:2021:15.C.15.2021.1",
+    "predmetRizeni": "O zaplacení 39 790 Kč s příslušenstvím",
+    "datumVydani": "2021-03-02",
+    "datumZverejneni": "2021-04-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb.",
+      "§ 548 z. č. 89/2012 Sb.",
+      "§ 1895 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c8e733e0-1c73-4535-a269-ea1ccda13b36"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
