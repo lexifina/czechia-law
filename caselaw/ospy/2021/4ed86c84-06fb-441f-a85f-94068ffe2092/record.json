@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Praha-východ",
+  "ecli": "ECLI:CZ:OSPY:2021:34.C.50.2021.1",
+  "docket": "34 C 50/2021-25",
+  "date": "2021-03-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4ed86c84-06fb-441f-a85f-94068ffe2092",
+  "source_sha256": "fea65dd89e114d4b2292f8dc5da3b9d6fa081a5ffc95431f99daeed65606ba85",
+  "source_id": "4ed86c84-06fb-441f-a85f-94068ffe2092",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 50/2021-25",
+    "soud": "Okresní soud Praha-východ",
+    "autor": "Mgr. Gabriela Kadlecová",
+    "ecli": "ECLI:CZ:OSPY:2021:34.C.50.2021.1",
+    "predmetRizeni": "O zaplacení 43 184 Kč s příslušenstvím",
+    "datumVydani": "2021-03-02",
+    "datumZverejneni": "2021-06-01",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 2392 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4ed86c84-06fb-441f-a85f-94068ffe2092"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
