@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kolíně",
+  "ecli": "ECLI:CZ:OSKO:2021:12.C.12.2021.1",
+  "docket": "12 C 12/2021-23",
+  "date": "2021-03-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-21",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ab8d6394-7733-43f2-bd35-e4ceea84f30b",
+  "source_sha256": "6d269b3f8334639dd5322b68f38956eb97b6a2b82a21b0b817310a00d9577ab3",
+  "source_id": "ab8d6394-7733-43f2-bd35-e4ceea84f30b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 12/2021-23",
+    "soud": "Okresní soud v Kolíně",
+    "autor": "Mgr. Renáta Bielová",
+    "ecli": "ECLI:CZ:OSKO:2021:12.C.12.2021.1",
+    "predmetRizeni": "O zaplacení 5 670 Kč s příslušenstvím",
+    "datumVydani": "2021-03-02",
+    "datumZverejneni": "2021-04-21",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ab8d6394-7733-43f2-bd35-e4ceea84f30b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
