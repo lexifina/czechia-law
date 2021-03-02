@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:73.C.237.2019.1",
+  "docket": "73 C 237/2019-51",
+  "date": "2021-03-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8b18bdf1-b162-499c-82a1-6c5afb919868",
+  "source_sha256": "312a7a22fec2a1a378b549845be10cf5302a4e112fd90bfa219013c97c5efb46",
+  "source_id": "8b18bdf1-b162-499c-82a1-6c5afb919868",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "73 C 237/2019-51",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Lenka Kovářová",
+    "ecli": "ECLI:CZ:MSBR:2021:73.C.237.2019.1",
+    "predmetRizeni": "zaplacení 28.906,76 Kč s příslušenstvím - zápůjčka",
+    "datumVydani": "2021-03-02",
+    "datumZverejneni": "2021-04-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 1810 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1813 z. č. 89/2012 Sb.",
+      "§ 156 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8b18bdf1-b162-499c-82a1-6c5afb919868"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
