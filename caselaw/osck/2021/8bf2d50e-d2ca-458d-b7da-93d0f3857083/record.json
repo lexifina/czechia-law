@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českém Krumlově",
+  "ecli": "ECLI:CZ:OSCK:2021:5.C.48.2021.2",
+  "docket": "5 C 48/2021-26",
+  "date": "2021-03-02",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8bf2d50e-d2ca-458d-b7da-93d0f3857083",
+  "source_sha256": "36935980398a9c7f1e47ef6cf97ac08f4a9c89d096040476793088cb5d26bed1",
+  "source_id": "8bf2d50e-d2ca-458d-b7da-93d0f3857083",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 48/2021-26",
+    "soud": "Okresní soud v Českém Krumlově",
+    "autor": "JUDr. Ivana Paloučková",
+    "ecli": "ECLI:CZ:OSCK:2021:5.C.48.2021.2",
+    "predmetRizeni": "EPR [číslo] - o zaplacení 8 555,42 Kč s příslušenstvím",
+    "datumVydani": "2021-03-02",
+    "datumZverejneni": "2021-03-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 115 z. č. 99/1963 Sb.",
+      "§ 14 vyhl. č. 177/1996 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8bf2d50e-d2ca-458d-b7da-93d0f3857083"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
