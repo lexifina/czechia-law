@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prachaticích",
+  "ecli": "ECLI:CZ:OSPT:2021:6.C.49.2021.1",
+  "docket": "6 C 49/2021-14",
+  "date": "2021-03-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1eaf4583-c2af-4f7d-9cf5-ec783b0742d5",
+  "source_sha256": "f2c8fd4d879f83be4376854ce08dc5cdd236d6313eee89f5557b339723528b5e",
+  "source_id": "1eaf4583-c2af-4f7d-9cf5-ec783b0742d5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 49/2021-14",
+    "soud": "Okresní soud v Prachaticích",
+    "autor": "JUDr. Bohumil Veselý",
+    "ecli": "ECLI:CZ:OSPT:2021:6.C.49.2021.1",
+    "predmetRizeni": "o zaplacení 48 001 Kč s příslušenstvím",
+    "datumVydani": "2021-03-03",
+    "datumZverejneni": "2021-04-27",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "smlouva nájemní",
+      "uznání dluhu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2053 z. č. 89/2012 Sb.",
+      "§ 2201 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1eaf4583-c2af-4f7d-9cf5-ec783b0742d5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
