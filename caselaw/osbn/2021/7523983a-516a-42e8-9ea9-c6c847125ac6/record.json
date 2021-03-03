@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Benešově",
+  "ecli": "ECLI:CZ:OSBN:2021:8.C.23.2021.1",
+  "docket": "8 C 23/2021-19",
+  "date": "2021-03-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-14",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7523983a-516a-42e8-9ea9-c6c847125ac6",
+  "source_sha256": "a6e6a052275c31fe30cf6904d4eb272c970d0ac946d1a9de326c922509d8d3af",
+  "source_id": "7523983a-516a-42e8-9ea9-c6c847125ac6",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 23/2021-19",
+    "soud": "Okresní soud v Benešově",
+    "autor": "Mgr. Hedvika Lávičková",
+    "ecli": "ECLI:CZ:OSBN:2021:8.C.23.2021.1",
+    "predmetRizeni": "o zaplacení 9 135 Kč s příslušenstvím",
+    "datumVydani": "2021-03-03",
+    "datumZverejneni": "2021-04-14",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7523983a-516a-42e8-9ea9-c6c847125ac6"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
