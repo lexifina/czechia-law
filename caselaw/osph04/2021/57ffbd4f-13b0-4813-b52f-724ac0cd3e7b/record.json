@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 4",
+  "ecli": "ECLI:CZ:OSPH04:2021:60.C.126.2020.1",
+  "docket": "60 C 126/2020-53",
+  "date": "2021-03-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-25",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/57ffbd4f-13b0-4813-b52f-724ac0cd3e7b",
+  "source_sha256": "5cb668c16a7842243ac004aef04633bcdfb0c55cb4cb73bd81925a53dabd47bd",
+  "source_id": "57ffbd4f-13b0-4813-b52f-724ac0cd3e7b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "60 C 126/2020-53",
+    "soud": "Obvodní soud pro Prahu 4",
+    "autor": "Mgr. Hana Kadlecová, LL.M.",
+    "ecli": "ECLI:CZ:OSPH04:2021:60.C.126.2020.1",
+    "predmetRizeni": "O zaplacení 15 000 Kč s příslušenstvím",
+    "datumVydani": "2021-03-03",
+    "datumZverejneni": "2021-06-25",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 657 z. č. 40/1964 Sb.",
+      "§ 3028 z. č. 89/2012 Sb.",
+      "§ 39 z. č. 40/1964 Sb.",
+      "§ 41 z. č. 40/1964 Sb.",
+      "§ 559 z. č. 40/1964 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/57ffbd4f-13b0-4813-b52f-724ac0cd3e7b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
