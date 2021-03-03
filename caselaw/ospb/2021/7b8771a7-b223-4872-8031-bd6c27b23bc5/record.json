@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:8.C.24.2021.1",
+  "docket": "8 C 24/2021-39",
+  "date": "2021-03-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-22",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7b8771a7-b223-4872-8031-bd6c27b23bc5",
+  "source_sha256": "b22bd177a0004979f14df678c7d44c2f737be6428d23feb98e0694bbaf99c60e",
+  "source_id": "7b8771a7-b223-4872-8031-bd6c27b23bc5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 24/2021-39",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Zuzana Masnerová",
+    "ecli": "ECLI:CZ:OSPB:2021:8.C.24.2021.1",
+    "predmetRizeni": "zaplacení 7 197,30 Kč s příslušenstvím",
+    "datumVydani": "2021-03-03",
+    "datumZverejneni": "2021-04-22",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění majetku",
+      "pojištění odpovědnosti za škodu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 12 z. č. 168/1999 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7b8771a7-b223-4872-8031-bd6c27b23bc5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
