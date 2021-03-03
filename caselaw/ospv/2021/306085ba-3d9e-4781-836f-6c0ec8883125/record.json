@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Prostějově",
+  "ecli": "ECLI:CZ:OSPV:2021:13.C.363.2020 .1",
+  "docket": "13 C 363/2020-70",
+  "date": "2021-03-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/306085ba-3d9e-4781-836f-6c0ec8883125",
+  "source_sha256": "58a924de1bf49ae64f2471dad665036a7338cd5039b3291ac49102206fdad0bd",
+  "source_id": "306085ba-3d9e-4781-836f-6c0ec8883125",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 363/2020-70",
+    "soud": "Okresní soud v Prostějově",
+    "autor": "Mgr. Hana Greplová",
+    "ecli": "ECLI:CZ:OSPV:2021:13.C.363.2020 .1",
+    "predmetRizeni": "o zaplacení 20.990 Kč s příslušenstvím",
+    "datumVydani": "2021-03-03",
+    "datumZverejneni": "2021-04-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva nájemní",
+      "smlouva o zápůjčce",
+      "smlouva pracovní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2991 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/306085ba-3d9e-4781-836f-6c0ec8883125"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
