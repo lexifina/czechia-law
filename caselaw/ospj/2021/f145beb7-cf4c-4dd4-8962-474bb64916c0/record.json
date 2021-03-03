@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPJ:2021:25.C.373.2020.2",
+  "docket": "25 C 373/2020-18",
+  "date": "2021-03-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f145beb7-cf4c-4dd4-8962-474bb64916c0",
+  "source_sha256": "d39935c15a2c80be66e5cabec34a3a96d3069dd897a83ddfc2c45a6ae83285c2",
+  "source_id": "f145beb7-cf4c-4dd4-8962-474bb64916c0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "25 C 373/2020-18",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Jana Srpová",
+    "ecli": "ECLI:CZ:OSPJ:2021:25.C.373.2020.2",
+    "predmetRizeni": "1 975,83 Kč s přísl.",
+    "datumVydani": "2021-03-03",
+    "datumZverejneni": "2021-03-17",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2/3 z. č. 89/2012 Sb.",
+      "§ 2990 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f145beb7-cf4c-4dd4-8962-474bb64916c0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
