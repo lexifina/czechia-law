@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 5",
+  "ecli": "ECLI:CZ:OSPH05:2021:26.C.332.2018.1",
+  "docket": "26 C 332/2018-56",
+  "date": "2021-03-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/65fa45dc-5557-4459-bd8e-7cf97f7a71e7",
+  "source_sha256": "43bc055147709eb309e0de8e9d0ea2a265dde0db00e127c30f7c21bcb479ec83",
+  "source_id": "65fa45dc-5557-4459-bd8e-7cf97f7a71e7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "26 C 332/2018-56",
+    "soud": "Obvodní soud pro Prahu 5",
+    "autor": "Mgr. Jindřich Kysela",
+    "ecli": "ECLI:CZ:OSPH05:2021:26.C.332.2018.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-03",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 757 z. č. 89/2012 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 758 z. č. 89/2012 Sb.",
+      "§ 759 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/65fa45dc-5557-4459-bd8e-7cf97f7a71e7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
