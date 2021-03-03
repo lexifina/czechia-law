@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karviné, pobočka Havířov",
+  "ecli": "ECLI:CZ:OSKIHA:2021:108.C.10.2021.1",
+  "docket": "108 C 10/2021-23",
+  "date": "2021-03-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/fd6586e4-4721-4c0d-973a-718ce3c67f55",
+  "source_sha256": "5637ee6015e66c65e2d95142adb546976e98bdd781cae207b12c8094117b8406",
+  "source_id": "fd6586e4-4721-4c0d-973a-718ce3c67f55",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "108 C 10/2021-23",
+    "soud": "Okresní soud v Karviné, pobočka Havířov",
+    "autor": "Mgr. Jitka Zavázalová",
+    "ecli": "ECLI:CZ:OSKIHA:2021:108.C.10.2021.1",
+    "predmetRizeni": "1 524 Kč s příslušenstvím",
+    "datumVydani": "2021-03-03",
+    "datumZverejneni": "2021-04-20",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 18a z. č. 111/1994 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2053 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/fd6586e4-4721-4c0d-973a-718ce3c67f55"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
