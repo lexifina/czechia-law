@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Karlových Varech",
+  "ecli": "ECLI:CZ:OSKV:2021:16.C.314.2020.1",
+  "docket": "16 C 314/2020-27",
+  "date": "2021-03-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c713cb61-e36c-4b4e-858d-f47bd330ddd9",
+  "source_sha256": "d5fc25327e47b677adfaf45c3ec82322b0f03d5a9304cd96df79d5437b494781",
+  "source_id": "c713cb61-e36c-4b4e-858d-f47bd330ddd9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 314/2020-27",
+    "soud": "Okresní soud v Karlových Varech",
+    "autor": "JUDr. Dana Sobotková",
+    "ecli": "ECLI:CZ:OSKV:2021:16.C.314.2020.1",
+    "predmetRizeni": "21.857 Kč / fond oprav + fond služeb",
+    "datumVydani": "2021-03-03",
+    "datumZverejneni": "2021-04-28",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/96 Sb.",
+      "§ 2247 z. č. 89/2012 Sb.",
+      "§ 2251 z. č. 89/2012 Sb.",
+      "§ 1181 z. č. 89/2012 Sb.",
+      "§ 15 z. č. 72/94 Sb.",
+      "§  z. č. 72/92 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c713cb61-e36c-4b4e-858d-f47bd330ddd9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
