@@ -1,0 +1,39 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chrudimi",
+  "ecli": "ECLI:CZ:OSCR:2021:12.C.244.2020.1",
+  "docket": "12 C 244/2020-74",
+  "date": "2021-03-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/30eb9b79-e786-47e0-9406-25814b8f5f37",
+  "source_sha256": "6c27f49264a399abdcc91a228b51338924285b6646144086694d6ca4e4b44eff",
+  "source_id": "30eb9b79-e786-47e0-9406-25814b8f5f37",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 244/2020-74",
+    "soud": "Okresní soud v Chrudimi",
+    "autor": "Mgr. Eva Bačkovská",
+    "ecli": "ECLI:CZ:OSCR:2021:12.C.244.2020.1",
+    "predmetRizeni": "o [částka] s příslušenstvím",
+    "datumVydani": "2021-03-03",
+    "datumZverejneni": "2021-03-30",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb.",
+      "§ 63 z. č. 127/2005 Sb.",
+      "§ 64 z. č. 127/2005 Sb.",
+      "§ 1757 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/30eb9b79-e786-47e0-9406-25814b8f5f37"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
