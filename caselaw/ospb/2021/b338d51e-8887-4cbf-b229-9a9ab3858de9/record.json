@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:6.C.205.2020.2",
+  "docket": "6 C 205/2020-57",
+  "date": "2021-03-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b338d51e-8887-4cbf-b229-9a9ab3858de9",
+  "source_sha256": "fdd52dd9935068c14e9dbd4b7b8156beb127c0c0a2a4e12d7b60093778b18afe",
+  "source_id": "b338d51e-8887-4cbf-b229-9a9ab3858de9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "6 C 205/2020-57",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "Mgr. Jindřich Mařík",
+    "ecli": "ECLI:CZ:OSPB:2021:6.C.205.2020.2",
+    "predmetRizeni": "zaplacení 38 288 Kč s příslušenstvím",
+    "datumVydani": "2021-03-03",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 2390 z. č. 89/2012 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b338d51e-8887-4cbf-b229-9a9ab3858de9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
