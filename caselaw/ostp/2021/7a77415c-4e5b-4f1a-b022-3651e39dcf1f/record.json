@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Teplicích",
+  "ecli": "ECLI:CZ:OSTP:2021:10.C.234.2020.1",
+  "docket": "10 C 234/2020-39",
+  "date": "2021-03-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7a77415c-4e5b-4f1a-b022-3651e39dcf1f",
+  "source_sha256": "b76615f3432e4980eecd305b21b3ec4f2c62733c6421b42bdbf6e6d4abe11224",
+  "source_id": "7a77415c-4e5b-4f1a-b022-3651e39dcf1f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 234/2020-39",
+    "soud": "Okresní soud v Teplicích",
+    "autor": "Mgr. Adéla Ganajová",
+    "ecli": "ECLI:CZ:OSTP:2021:10.C.234.2020.1",
+    "predmetRizeni": "zaplacení 1 950 Kč s příslušenstvím",
+    "datumVydani": "2021-03-03",
+    "datumZverejneni": "2021-04-28",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§  z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7a77415c-4e5b-4f1a-b022-3651e39dcf1f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
