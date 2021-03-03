@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:41.C.105.2020.1",
+  "docket": "41 C 105/2020-23",
+  "date": "2021-03-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/8b0a6298-ae39-4a7d-b1d9-ffd8a0dcfe63",
+  "source_sha256": "885c0e44b9ac7f032a97f61aca1385228f86815940d47dafb628db1dc4fc7cff",
+  "source_id": "8b0a6298-ae39-4a7d-b1d9-ffd8a0dcfe63",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "41 C 105/2020-23",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Milan Jakubíček",
+    "ecli": "ECLI:CZ:MSBR:2021:41.C.105.2020.1",
+    "predmetRizeni": "stanovení výživného pro neprovdanou matku",
+    "datumVydani": "2021-03-03",
+    "datumZverejneni": "2021-04-30",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "porod",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 920 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/8b0a6298-ae39-4a7d-b1d9-ffd8a0dcfe63"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
