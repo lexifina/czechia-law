@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:61.C.141.2020.1",
+  "docket": "61 C 141/2020-68",
+  "date": "2021-03-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f4e5aaf3-ca0f-4f41-965d-1d3c13690394",
+  "source_sha256": "04d4aec2307cff0d5ff67aa5000afc6f7b3cd60473e3592fdd965efa28d46da8",
+  "source_id": "f4e5aaf3-ca0f-4f41-965d-1d3c13690394",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "61 C 141/2020-68",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Alena Mezníková",
+    "ecli": "ECLI:CZ:MSBR:2021:61.C.141.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-03",
+    "datumZverejneni": "2021-04-20",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 687 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f4e5aaf3-ca0f-4f41-965d-1d3c13690394"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
