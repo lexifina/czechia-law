@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Znojmě",
+  "ecli": "ECLI:CZ:OSZN:2021:4.C.336.2020.1",
+  "docket": "4 C 336/2020-152",
+  "date": "2021-03-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-09",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/31f677c0-2d2b-41a1-91d4-b89edb433125",
+  "source_sha256": "b529b62f6ee56218a1c5eb0b564d3c179ddc435c43c98270687cb2a0f0bf95f3",
+  "source_id": "31f677c0-2d2b-41a1-91d4-b89edb433125",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 336/2020-152",
+    "soud": "Okresní soud ve Znojmě",
+    "autor": "JUDr. Jaroslav Kouba",
+    "ecli": "ECLI:CZ:OSZN:2021:4.C.336.2020.1",
+    "predmetRizeni": "[částka] s příslušenstvím",
+    "datumVydani": "2021-03-03",
+    "datumZverejneni": "2021-06-09",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/31f677c0-2d2b-41a1-91d4-b89edb433125"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
