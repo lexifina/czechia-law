@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:13.C.299.2020.1",
+  "docket": "13 C 299/2020-47",
+  "date": "2021-03-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/cf9ed4fd-ff16-481d-bf85-ac2b7bb5d6ba",
+  "source_sha256": "a45e60e2d07ed1ba87e1faadc210bf26ec9e0881f3e6d12b567cc902856829ae",
+  "source_id": "cf9ed4fd-ff16-481d-bf85-ac2b7bb5d6ba",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 299/2020-47",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "JUDr. Anna Tichá",
+    "ecli": "ECLI:CZ:OSHK:2021:13.C.299.2020.1",
+    "predmetRizeni": "o zaplacení částky 73 662 Kč s příslušenstvím",
+    "datumVydani": "2021-03-03",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 1815 z. č. 89/2012 Sb.",
+      "§ 580 z. č. 89/2012 Sb.",
+      "§ 3 z. č. 257/2016 Sb.",
+      "§ 577 z. č. 89/2012 Sb.",
+      "§ 2 z. č. 257/2016 Sb.",
+      "§ 547 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/cf9ed4fd-ff16-481d-bf85-ac2b7bb5d6ba"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
