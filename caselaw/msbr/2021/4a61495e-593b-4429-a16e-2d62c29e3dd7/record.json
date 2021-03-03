@@ -1,0 +1,41 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:31.C.1.2021.1",
+  "docket": "31 C 1/2021-17",
+  "date": "2021-03-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-02",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/4a61495e-593b-4429-a16e-2d62c29e3dd7",
+  "source_sha256": "136e6c931724bb1c214aa0e68db093fac8be342a70345de2b44ee3ea2a833809",
+  "source_id": "4a61495e-593b-4429-a16e-2d62c29e3dd7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "31 C 1/2021-17",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Kamila Krausová",
+    "ecli": "ECLI:CZ:MSBR:2021:31.C.1.2021.1",
+    "predmetRizeni": "zaplacení 1.524 Kč s příslušenstvím - pokuta",
+    "datumVydani": "2021-03-03",
+    "datumZverejneni": "2021-06-02",
+    "klicovaSlova": [
+      "jízdné",
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 37 z. č. 266/1994 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2550 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 175/2000 Sb.",
+      "§ 150 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/4a61495e-593b-4429-a16e-2d62c29e3dd7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
