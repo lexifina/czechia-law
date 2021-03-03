@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Rokycanech",
+  "ecli": "ECLI:CZ:OSRO:2021:10.C.64.2020.1",
+  "docket": "10 C 64/2020-25",
+  "date": "2021-03-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/35a42026-7043-46b5-b99a-45353ac01aa8",
+  "source_sha256": "a593beac591402b3a759045e43ac4adebfcfda99ecc5bbca428177d07cad7323",
+  "source_id": "35a42026-7043-46b5-b99a-45353ac01aa8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 64/2020-25",
+    "soud": "Okresní soud v Rokycanech",
+    "autor": "JUDr. Ludmila Horská",
+    "ecli": "ECLI:CZ:OSRO:2021:10.C.64.2020.1",
+    "predmetRizeni": "20.576 Kč s přísl.",
+    "datumVydani": "2021-03-03",
+    "datumZverejneni": "2021-05-04",
+    "klicovaSlova": [
+      "dlužné nájemné",
+      "nájem bytu",
+      "peněžité plnění",
+      "přechod nájmu bytu"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2201 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/35a42026-7043-46b5-b99a-45353ac01aa8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
