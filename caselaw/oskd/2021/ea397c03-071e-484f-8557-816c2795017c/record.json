@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:10.C.26.2020.1",
+  "docket": "10 C 26/2020",
+  "date": "2021-03-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-18",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ea397c03-071e-484f-8557-816c2795017c",
+  "source_sha256": "009649b51c9b2b06780326de5302467ae15599236baa3bf8b9afb8a007dc87c6",
+  "source_id": "ea397c03-071e-484f-8557-816c2795017c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 26/2020",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Eva Kučerová",
+    "ecli": "ECLI:CZ:OSKD:2021:10.C.26.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-03",
+    "datumZverejneni": "2021-03-18",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 144 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ea397c03-071e-484f-8557-816c2795017c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
