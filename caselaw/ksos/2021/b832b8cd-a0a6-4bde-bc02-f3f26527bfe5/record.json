@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Krajský soud v Ostravě",
+  "ecli": "ECLI:CZ:KSOS:2021:83.EC.23.2020.1",
+  "docket": "83 EC 23/2020-56",
+  "date": "2021-03-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b832b8cd-a0a6-4bde-bc02-f3f26527bfe5",
+  "source_sha256": "407606975b49fbafea248d269b93816a9a9cbd7ec47d66367506467289d35a06",
+  "source_id": "b832b8cd-a0a6-4bde-bc02-f3f26527bfe5",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "83 EC 23/2020-56",
+    "soud": "Krajský soud v Ostravě",
+    "autor": "JUDr. Eva Zavrtálková",
+    "ecli": "ECLI:CZ:KSOS:2021:83.EC.23.2020.1",
+    "predmetRizeni": "o částku 846 Kč s příslušenstvím",
+    "datumVydani": "2021-03-03",
+    "datumZverejneni": "2021-05-28",
+    "klicovaSlova": [
+      "autorské dílo",
+      "bezdůvodné obohacení",
+      "peněžité plnění",
+      "smlouva licenční"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb.",
+      "§ 251 z. č. 99/1963 Sb.",
+      "§ 153 z. č. 99/1963 Sb.",
+      "§ 14a vyhl. č. 177/1996 Sb.",
+      "§ 174a z. č. 99/1963 Sb.",
+      "§  nař. vl. č. 142/94 Sb.",
+      "§ 9 z. č. 99/1963 Sb.",
+      "§  z. č. 121/2000 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b832b8cd-a0a6-4bde-bc02-f3f26527bfe5"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
