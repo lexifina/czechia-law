@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Sokolově",
+  "ecli": "ECLI:CZ:OSSO:2021:16.C.1.2021.1",
+  "docket": "16 C 1/2021-41",
+  "date": "2021-03-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f964be43-fb03-430d-b1b2-63997f5233fa",
+  "source_sha256": "1a854a8fcc80cce417372cff05afee3abcd16e49b122f9b457620f2ecdc35d57",
+  "source_id": "f964be43-fb03-430d-b1b2-63997f5233fa",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "16 C 1/2021-41",
+    "soud": "Okresní soud v Sokolově",
+    "autor": "Mgr. Lenka Pokorná",
+    "ecli": "ECLI:CZ:OSSO:2021:16.C.1.2021.1",
+    "predmetRizeni": "zaplacení 12 820,42 Kč s příslušenstvím",
+    "datumVydani": "2021-03-03",
+    "datumZverejneni": "2021-05-17",
+    "klicovaSlova": [
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 122 z. č. 257/2016 Sb.",
+      "§ 2 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f964be43-fb03-430d-b1b2-63997f5233fa"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
