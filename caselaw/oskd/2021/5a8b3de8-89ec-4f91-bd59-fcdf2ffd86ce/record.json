@@ -1,0 +1,36 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:209.C.5.2021.1",
+  "docket": "209 C 5/2021-55",
+  "date": "2021-03-03",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/5a8b3de8-89ec-4f91-bd59-fcdf2ffd86ce",
+  "source_sha256": "6382c9e6f2272485a05e368afff00b67f97e5113c27008b9969da2a08635da0c",
+  "source_id": "5a8b3de8-89ec-4f91-bd59-fcdf2ffd86ce",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "209 C 5/2021-55",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Alena Šustrová",
+    "ecli": "ECLI:CZ:OSKD:2021:209.C.5.2021.1",
+    "predmetRizeni": "o zaplacení [částka]",
+    "datumVydani": "2021-03-03",
+    "datumZverejneni": "2021-04-06",
+    "klicovaSlova": [
+      "odstoupení od smlouvy",
+      "peněžité plnění",
+      "postoupení pohledávky"
+    ],
+    "zminenaUstanoveni": [
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/5a8b3de8-89ec-4f91-bd59-fcdf2ffd86ce"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
