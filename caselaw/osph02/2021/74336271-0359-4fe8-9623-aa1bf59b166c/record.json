@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:21.C.37.2017.19",
+  "docket": "21 C 37/2017-207",
+  "date": "2021-03-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-11-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/74336271-0359-4fe8-9623-aa1bf59b166c",
+  "source_sha256": "167d1344031ba4e51fb82c558ec18be913bb7f927495233a94d4bab2558a8cf6",
+  "source_id": "74336271-0359-4fe8-9623-aa1bf59b166c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "21 C 37/2017-207",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "Mgr. Blanka Vernerová",
+    "ecli": "ECLI:CZ:OSPH02:2021:21.C.37.2017.19",
+    "predmetRizeni": "o 1.324.602 Kč s přísl.",
+    "datumVydani": "2021-03-04",
+    "datumZverejneni": "2021-11-24",
+    "klicovaSlova": [
+      "pasivní legitimace",
+      "peněžité plnění",
+      "pozůstalost",
+      "smlouva darovací",
+      "smlouva kupní",
+      "věcná břemena",
+      "vydání věci"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 13 vyhl. č. 177/1996 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 43 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/74336271-0359-4fe8-9623-aa1bf59b166c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
