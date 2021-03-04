@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Olomouci",
+  "ecli": "ECLI:CZ:OSOL:2021:12.C.387.2020.1",
+  "docket": "12 C 387/2020-21",
+  "date": "2021-03-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-05",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/9d467a15-63e4-4930-921e-7dbfe039c53c",
+  "source_sha256": "f5c49e1e861812ff3299b42d1685ae470c85363cb552fa3389ef8bced90d8bb4",
+  "source_id": "9d467a15-63e4-4930-921e-7dbfe039c53c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 387/2020-21",
+    "soud": "Okresní soud v Olomouci",
+    "autor": "JUDr. Jitka Rollerová, , Dr.",
+    "ecli": "ECLI:CZ:OSOL:2021:12.C.387.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-04",
+    "datumZverejneni": "2021-03-05",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/9d467a15-63e4-4930-921e-7dbfe039c53c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
