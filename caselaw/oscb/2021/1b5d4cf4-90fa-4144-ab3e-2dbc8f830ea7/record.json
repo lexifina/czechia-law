@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Českých Budějovicích",
+  "ecli": "ECLI:CZ:OSCB:2021:12.C.35.2020.1",
+  "docket": "12 C 35/2020-81",
+  "date": "2021-03-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/1b5d4cf4-90fa-4144-ab3e-2dbc8f830ea7",
+  "source_sha256": "d652d9af01f58791ab4e49c3d2fd55664813ea10e6173832ee03f515f7d94e9a",
+  "source_id": "1b5d4cf4-90fa-4144-ab3e-2dbc8f830ea7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "12 C 35/2020-81",
+    "soud": "Okresní soud v Českých Budějovicích",
+    "autor": "JUDr. Eva Veselá",
+    "ecli": "ECLI:CZ:OSCB:2021:12.C.35.2020.1",
+    "predmetRizeni": "žaloba o přiměřené zadostiučinění za vzniklou nemajetkovou újmu z nepřiměřené délky řízení ve výši 167 167 Kč s příslušenstvím",
+    "datumVydani": "2021-03-04",
+    "datumZverejneni": "2021-05-12",
+    "klicovaSlova": [
+      "nemajetková újma",
+      "peněžité plnění",
+      "výživné",
+      "zadostiučinění / satisfakce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 205 z. č. 99/1963 Sb.",
+      "§ 224 z. č. 99/1963 Sb.",
+      "§ 9 vyhl. č. 177/1996 Sb.",
+      "§ 220 z. č. 99/1963 Sb.",
+      "§ 237 z. č. 99/1963 Sb.",
+      "§ 212 z. č. 99/1963 Sb.",
+      "§ 212a z. č. 99/1963 Sb.",
+      "§ 31a z. č. 82/1998 Sb.",
+      "§ 239 z. č. 99/1963 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/1b5d4cf4-90fa-4144-ab3e-2dbc8f830ea7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
