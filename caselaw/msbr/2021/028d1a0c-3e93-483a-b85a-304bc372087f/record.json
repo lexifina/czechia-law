@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:49.C.197.2020.1",
+  "docket": "49 C 197/2020-19",
+  "date": "2021-03-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-06-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/028d1a0c-3e93-483a-b85a-304bc372087f",
+  "source_sha256": "4cb52dd96ba936574b357382015a025c78f01b49c098fad82c21e972f0e07a49",
+  "source_id": "028d1a0c-3e93-483a-b85a-304bc372087f",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "49 C 197/2020-19",
+    "soud": "Městský soud v Brně",
+    "autor": "JUDr. Monika Schön, Ph.D.",
+    "ecli": "ECLI:CZ:MSBR:2021:49.C.197.2020.1",
+    "predmetRizeni": "zaplacení 7.104 Kč - úvěr",
+    "datumVydani": "2021-03-04",
+    "datumZverejneni": "2021-06-23",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 118a z. č. 99/1963 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/028d1a0c-3e93-483a-b85a-304bc372087f"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
