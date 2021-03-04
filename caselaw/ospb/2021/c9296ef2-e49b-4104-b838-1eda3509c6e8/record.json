@@ -1,0 +1,37 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Příbrami",
+  "ecli": "ECLI:CZ:OSPB:2021:11.C.103.2020.1",
+  "docket": "11 C 103/2020-48",
+  "date": "2021-03-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-28",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/c9296ef2-e49b-4104-b838-1eda3509c6e8",
+  "source_sha256": "64e89239bb98fb94880fbf8e41dc02ccf20327559053ef9587cec8e1421a439f",
+  "source_id": "c9296ef2-e49b-4104-b838-1eda3509c6e8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "11 C 103/2020-48",
+    "soud": "Okresní soud v Příbrami",
+    "autor": "JUDr. Štěpán Slavík",
+    "ecli": "ECLI:CZ:OSPB:2021:11.C.103.2020.1",
+    "predmetRizeni": "zaplacení 15 000 Kč s přísl.",
+    "datumVydani": "2021-03-04",
+    "datumZverejneni": "2021-04-28",
+    "klicovaSlova": [],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§  z. č. 127/2005 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 119a z. č. 99/1963 Sb.",
+      "§ 41a z. č. 99/1963 Sb.",
+      "§ 2005 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/c9296ef2-e49b-4104-b838-1eda3509c6e8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
