@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Mostě",
+  "ecli": "ECLI:CZ:OSMO:2021:13.C.41.2021.1",
+  "docket": "13 C 41/2021-21",
+  "date": "2021-03-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-17",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/25674ba6-ce56-483e-bdc6-d913f2540847",
+  "source_sha256": "3296b73abef3b344f281cccc8ac7abef03cde8c6b8e1c3830be2694bc294059c",
+  "source_id": "25674ba6-ce56-483e-bdc6-d913f2540847",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "13 C 41/2021-21",
+    "soud": "Okresní soud v Mostě",
+    "autor": "JUDr. Ludmila Vlčková",
+    "ecli": "ECLI:CZ:OSMO:2021:13.C.41.2021.1",
+    "predmetRizeni": "3 596,84 Kč",
+    "datumVydani": "2021-03-04",
+    "datumZverejneni": "2021-03-17",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 2085 z. č. 89/2012 Sb.",
+      "§ 1746 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/25674ba6-ce56-483e-bdc6-d913f2540847"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
