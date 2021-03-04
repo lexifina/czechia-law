@@ -1,0 +1,40 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:43.C.59.2020.1",
+  "docket": "43 C 59/2020-55",
+  "date": "2021-03-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-06",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3f542365-2af5-4104-a96c-f32e66b348d9",
+  "source_sha256": "9c8d81317cb7ad2a27ba67b10bffc1ef44e6f0cf95e4a0ca2906f14c227414cf",
+  "source_id": "3f542365-2af5-4104-a96c-f32e66b348d9",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "43 C 59/2020-55",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "JUDr. Luděk Pilný",
+    "ecli": "ECLI:CZ:OSPH02:2021:43.C.59.2020.1",
+    "predmetRizeni": "o zaplacení [částka]",
+    "datumVydani": "2021-03-04",
+    "datumZverejneni": "2021-04-06",
+    "klicovaSlova": [
+      "nemajetková újma",
+      "odpovědnost státu za škodu",
+      "peněžité plnění",
+      "zadostiučinění / satisfakce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 7 vyhl. č. 177/1996 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 9 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 82/1998 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3f542365-2af5-4104-a96c-f32e66b348d9"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
