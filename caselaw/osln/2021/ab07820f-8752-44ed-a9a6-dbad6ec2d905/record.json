@@ -1,0 +1,38 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Lounech",
+  "ecli": "ECLI:CZ:OSLN:2021:5.C.285.2020.1",
+  "docket": "5 C 285/2020-19",
+  "date": "2021-03-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-01",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/ab07820f-8752-44ed-a9a6-dbad6ec2d905",
+  "source_sha256": "fbf1ab2656e8be9beec67e6b11e26f50a4da4b8091824abbe5cab810d525bdc5",
+  "source_id": "ab07820f-8752-44ed-a9a6-dbad6ec2d905",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "5 C 285/2020-19",
+    "soud": "Okresní soud v Lounech",
+    "autor": "JUDr. Eva Kopecká",
+    "ecli": "ECLI:CZ:OSLN:2021:5.C.285.2020.1",
+    "predmetRizeni": "O zaplacení 3 614 Kč s příslušenstvím",
+    "datumVydani": "2021-03-04",
+    "datumZverejneni": "2021-04-01",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2782 z. č. 89/2012 Sb.",
+      "§ 120 z. č. 99/1963 Sb.",
+      "§ 14b vyhl. č. 177/96 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/ab07820f-8752-44ed-a9a6-dbad6ec2d905"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
