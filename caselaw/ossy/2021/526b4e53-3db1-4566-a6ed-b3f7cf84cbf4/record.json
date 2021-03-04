@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Svitavách",
+  "ecli": "ECLI:CZ:OSSY:2021:10.C.353.2020.1",
+  "docket": "10 C 353/2020-24",
+  "date": "2021-03-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-27",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/526b4e53-3db1-4566-a6ed-b3f7cf84cbf4",
+  "source_sha256": "42fd2adaa731c062746082534ec80c0c20ee1d6335d195623ad928931b47f6a7",
+  "source_id": "526b4e53-3db1-4566-a6ed-b3f7cf84cbf4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "10 C 353/2020-24",
+    "soud": "Okresní soud ve Svitavách",
+    "autor": "Mgr. Ladislav Máša",
+    "ecli": "ECLI:CZ:OSSY:2021:10.C.353.2020.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-04",
+    "datumZverejneni": "2021-04-27",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/526b4e53-3db1-4566-a6ed-b3f7cf84cbf4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
