@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-sever",
+  "ecli": "ECLI:CZ:OSPS:2021:9.C.15.2021.2",
+  "docket": "9 C 15/2021-20",
+  "date": "2021-03-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-23",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/3ceb0b96-d060-42d7-b75e-a041d466fb37",
+  "source_sha256": "87c743cfea9283bb88571fb3aaaf5305a5edfefd6a027d8c883ad0a2d3f857d0",
+  "source_id": "3ceb0b96-d060-42d7-b75e-a041d466fb37",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "9 C 15/2021-20",
+    "soud": "Okresní soud Plzeň-sever",
+    "autor": "JUDr. Tereza Bušková",
+    "ecli": "ECLI:CZ:OSPS:2021:9.C.15.2021.2",
+    "predmetRizeni": "8 900 Kč s přísl.",
+    "datumVydani": "2021-03-04",
+    "datumZverejneni": "2021-04-23",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění",
+      "úroky z prodlení"
+    ],
+    "zminenaUstanoveni": [
+      "§ 4/1 nař. vl. č. 864/2007 Sb.",
+      "§ 12 nař. vl. č. 1215/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/3ceb0b96-d060-42d7-b75e-a041d466fb37"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
