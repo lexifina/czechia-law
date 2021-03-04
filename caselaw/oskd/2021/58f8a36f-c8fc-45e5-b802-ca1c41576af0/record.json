@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Kladně",
+  "ecli": "ECLI:CZ:OSKD:2021:223.C.204.2020.1",
+  "docket": "223 C 204/2020",
+  "date": "2021-03-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-16",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/58f8a36f-c8fc-45e5-b802-ca1c41576af0",
+  "source_sha256": "124e951f46dff39a61881f3cd5a4acc435e5a6683944c44ab53ca14a52bb8ae5",
+  "source_id": "58f8a36f-c8fc-45e5-b802-ca1c41576af0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "223 C 204/2020",
+    "soud": "Okresní soud v Kladně",
+    "autor": "JUDr. Adriana Hasmanová",
+    "ecli": "ECLI:CZ:OSKD:2021:223.C.204.2020.1",
+    "predmetRizeni": "o zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-04",
+    "datumZverejneni": "2021-04-16",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "elektronický podpis",
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce",
+      "smlouva o zápůjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§  z. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/58f8a36f-c8fc-45e5-b802-ca1c41576af0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
