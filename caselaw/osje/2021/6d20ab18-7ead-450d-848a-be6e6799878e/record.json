@@ -1,0 +1,34 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Jeseníku",
+  "ecli": "ECLI:CZ:OSJE:2021:4.C.146.2020.1",
+  "docket": "4 C 146/2020-22",
+  "date": "2021-03-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-24",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/6d20ab18-7ead-450d-848a-be6e6799878e",
+  "source_sha256": "be5f4e74c212d00f10013ddd7ae38798e2a8489fe2599aa76a51fe178185c743",
+  "source_id": "6d20ab18-7ead-450d-848a-be6e6799878e",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "4 C 146/2020-22",
+    "soud": "Okresní soud v Jeseníku",
+    "autor": "JUDr. Ivana Ondryášová",
+    "ecli": "ECLI:CZ:OSJE:2021:4.C.146.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-04",
+    "datumZverejneni": "2021-03-24",
+    "klicovaSlova": [
+      "rozvod manželství",
+      "výživné"
+    ],
+    "zminenaUstanoveni": [
+      "§ 756 z. č. 89/2012 Sb.",
+      "§ 755/1 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/6d20ab18-7ead-450d-848a-be6e6799878e"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
