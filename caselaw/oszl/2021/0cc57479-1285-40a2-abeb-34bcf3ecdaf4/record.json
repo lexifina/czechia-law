@@ -1,0 +1,48 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud ve Zlíně",
+  "ecli": "ECLI:CZ:OSZL:2021:38.C.16.2021.1",
+  "docket": "38 C 16/2021-105",
+  "date": "2021-03-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-03",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0cc57479-1285-40a2-abeb-34bcf3ecdaf4",
+  "source_sha256": "ddc4e2c1f292cd76bc71bc4b61caa610767d3bef95ecb606721b06391c99472c",
+  "source_id": "0cc57479-1285-40a2-abeb-34bcf3ecdaf4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "38 C 16/2021-105",
+    "soud": "Okresní soud ve Zlíně",
+    "autor": "Mgr. Jiří Němec",
+    "ecli": "ECLI:CZ:OSZL:2021:38.C.16.2021.1",
+    "predmetRizeni": "zaplacení 34 515 Kč s příslušenstvím",
+    "datumVydani": "2021-03-04",
+    "datumZverejneni": "2021-05-03",
+    "klicovaSlova": [
+      "insolvence",
+      "neplatnost právního jednání",
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§  nař. vl. č. 351/2013 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 11 vyhl. č. 177/1996 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 2993 z. č. 89/2012 Sb.",
+      "§ 1958 z. č. 89/2012 Sb.",
+      "§ 86 z. č. 257/2016 Sb.",
+      "§ 586 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0cc57479-1285-40a2-abeb-34bcf3ecdaf4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
