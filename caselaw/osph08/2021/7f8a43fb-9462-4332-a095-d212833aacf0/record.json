@@ -1,0 +1,35 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2021:22.C.32.2021.1",
+  "docket": "22 C 32/2021-34",
+  "date": "2021-03-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-12",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/7f8a43fb-9462-4332-a095-d212833aacf0",
+  "source_sha256": "0e977da6496f0d05f36bc984d623eb9c28e5bdef136a7123284c64fc36edd39a",
+  "source_id": "7f8a43fb-9462-4332-a095-d212833aacf0",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 32/2021-34",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "Mgr. Jan Maruška",
+    "ecli": "ECLI:CZ:OSPH08:2021:22.C.32.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-04",
+    "datumZverejneni": "2021-05-12",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb.",
+      "§ 756 z. č. 89/2012 Sb.",
+      "§  z. č. 91/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/7f8a43fb-9462-4332-a095-d212833aacf0"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
