@@ -1,0 +1,43 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Ostravě",
+  "ecli": "ECLI:CZ:OSOV:2021:62.C.433.2020.5",
+  "docket": "62 C 433/2020-27",
+  "date": "2021-03-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-04-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b8fa4e1e-6baa-4ac9-91e8-45b5f8970993",
+  "source_sha256": "f717fc1b8777b9c1d5c9c349d0e473c3835837b01c57518f0c07e3c81eaa39cd",
+  "source_id": "b8fa4e1e-6baa-4ac9-91e8-45b5f8970993",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "62 C 433/2020-27",
+    "soud": "Okresní soud v Ostravě",
+    "autor": "Mgr. Radana Vilčová",
+    "ecli": "ECLI:CZ:OSOV:2021:62.C.433.2020.5",
+    "predmetRizeni": "o 8 126 Kč s příslušenstvím",
+    "datumVydani": "2021-03-04",
+    "datumZverejneni": "2021-04-30",
+    "klicovaSlova": [
+      "bezdůvodné obohacení",
+      "nájem bytu",
+      "peněžité plnění",
+      "smlouva nájemní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 2235 z. č. 89/2012 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b8fa4e1e-6baa-4ac9-91e8-45b5f8970993"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
