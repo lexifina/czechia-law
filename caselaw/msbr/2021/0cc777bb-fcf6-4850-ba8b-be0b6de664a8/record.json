@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Městský soud v Brně",
+  "ecli": "ECLI:CZ:MSBR:2021:34.C.115.2020.1",
+  "docket": "34 C 115/2020-40",
+  "date": "2021-03-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/0cc777bb-fcf6-4850-ba8b-be0b6de664a8",
+  "source_sha256": "e09340c11aef0d9bb55905b3ea6f99455ffe5c5b395e178f0689f70799bc5620",
+  "source_id": "0cc777bb-fcf6-4850-ba8b-be0b6de664a8",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "34 C 115/2020-40",
+    "soud": "Městský soud v Brně",
+    "autor": "Mgr. Pavel Matouš",
+    "ecli": "ECLI:CZ:MSBR:2021:34.C.115.2020.1",
+    "predmetRizeni": "zaplacení 9.985 Kč s příslušenstvím - příspěvek za nepojištěné vozidlo",
+    "datumVydani": "2021-03-04",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "pojištění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 4 z. č. 168/1999 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§  vyhl. č. 177/1996 Sb.",
+      "§ 2 vyhl. č. 205/1999 Sb.",
+      "§ 157 z. č. 99/1963 Sb.",
+      "§ 1970 nař. vl. č. 351/2013 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/0cc777bb-fcf6-4850-ba8b-be0b6de664a8"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
