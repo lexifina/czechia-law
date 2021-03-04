@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Chomutově",
+  "ecli": "ECLI:CZ:OSCV:2021:18.C.396.2020.1",
+  "docket": "18 C 396/2020-10",
+  "date": "2021-03-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-04",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f71a23ea-453c-4e45-9407-2ccc0887d6a4",
+  "source_sha256": "10e22a1458c5d6ab9dbbdcac405d4fcca2c723934fd97911bf06aee8215ac722",
+  "source_id": "f71a23ea-453c-4e45-9407-2ccc0887d6a4",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "18 C 396/2020-10",
+    "soud": "Okresní soud v Chomutově",
+    "autor": "JUDr. Eva Hermanová",
+    "ecli": "ECLI:CZ:OSCV:2021:18.C.396.2020.1",
+    "predmetRizeni": "rozvod manželství",
+    "datumVydani": "2021-03-04",
+    "datumZverejneni": "2021-03-04",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 23 z. č. 292/2013 Sb.",
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f71a23ea-453c-4e45-9407-2ccc0887d6a4"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
