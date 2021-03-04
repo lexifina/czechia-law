@@ -1,0 +1,32 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Táboře",
+  "ecli": "ECLI:CZ:OSTA:2021:8.C.27.2021.1",
+  "docket": "8 C 27/2021-17",
+  "date": "2021-03-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-03-30",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/b901b166-e07b-4c07-99c4-292e1c3bf7a7",
+  "source_sha256": "0843da5c824ec5166df8a42051c371a2ecccfec8c78710512fb63b23e9802fbe",
+  "source_id": "b901b166-e07b-4c07-99c4-292e1c3bf7a7",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "8 C 27/2021-17",
+    "soud": "Okresní soud v Táboře",
+    "autor": "Mgr. Jiří Vaněk",
+    "ecli": "ECLI:CZ:OSTA:2021:8.C.27.2021.1",
+    "predmetRizeni": "o rozvod manželství",
+    "datumVydani": "2021-03-04",
+    "datumZverejneni": "2021-03-30",
+    "klicovaSlova": [
+      "rozvod manželství"
+    ],
+    "zminenaUstanoveni": [
+      "§ 755 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/b901b166-e07b-4c07-99c4-292e1c3bf7a7"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
