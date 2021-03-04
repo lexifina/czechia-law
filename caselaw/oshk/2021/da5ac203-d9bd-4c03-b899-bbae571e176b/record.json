@@ -1,0 +1,45 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud v Hradci Králové",
+  "ecli": "ECLI:CZ:OSHK:2021:20.C.116.2020.3",
+  "docket": "20 C 116/2020-47",
+  "date": "2021-03-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-19",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/da5ac203-d9bd-4c03-b899-bbae571e176b",
+  "source_sha256": "edef5558cdf9ef9594bd840ccd1333943192cbef04018329e47ec1c8a7216572",
+  "source_id": "da5ac203-d9bd-4c03-b899-bbae571e176b",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "20 C 116/2020-47",
+    "soud": "Okresní soud v Hradci Králové",
+    "autor": "JUDr. Jakub Kavalír",
+    "ecli": "ECLI:CZ:OSHK:2021:20.C.116.2020.3",
+    "predmetRizeni": "o zaplacení částky 51 395 Kč s příslušenstvím",
+    "datumVydani": "2021-03-04",
+    "datumZverejneni": "2021-05-19",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva kupní"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 1968 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2048 z. č. 89/2012 Sb.",
+      "§ 2079 z. č. 89/2012 Sb.",
+      "§  z. č. 549/1991 Sb.",
+      "§ 2 vyhl. č. 254/2015 Sb.",
+      "§ 49 z. č. 99/1963 Sb.",
+      "§ 2018 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/da5ac203-d9bd-4c03-b899-bbae571e176b"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
