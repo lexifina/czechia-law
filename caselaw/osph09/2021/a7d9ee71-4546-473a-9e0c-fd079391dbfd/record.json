@@ -1,0 +1,44 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 9",
+  "ecli": "ECLI:CZ:OSPH09:2021:14.C.1.2021.3",
+  "docket": "14 C 1/2021-10",
+  "date": "2021-03-04",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-08-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/a7d9ee71-4546-473a-9e0c-fd079391dbfd",
+  "source_sha256": "3b2fc967fa5b1ea622a661e40c337534a7129d7e7aa1aa2c368f4cb827d62239",
+  "source_id": "a7d9ee71-4546-473a-9e0c-fd079391dbfd",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "14 C 1/2021-10",
+    "soud": "Obvodní soud pro Prahu 9",
+    "autor": "Mgr. Anna Vrdlovcová",
+    "ecli": "ECLI:CZ:OSPH09:2021:14.C.1.2021.3",
+    "predmetRizeni": "zaplacení částky 3 422 Kč s přísl.",
+    "datumVydani": "2021-03-04",
+    "datumZverejneni": "2021-08-31",
+    "klicovaSlova": [
+      "peněžité plnění"
+    ],
+    "zminenaUstanoveni": [
+      "§ 202 z. č. 99/1963 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 151 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 151 vyhl. č. 254/2015 Sb.",
+      "§ 24 z. č. 65/2017 Sb.",
+      "§ 132 z. č. 99/1963 Sb.",
+      "§ 153 z. č. 99/1963 Sb.",
+      "§ 11 z. č. 549/1991 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/a7d9ee71-4546-473a-9e0c-fd079391dbfd"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
