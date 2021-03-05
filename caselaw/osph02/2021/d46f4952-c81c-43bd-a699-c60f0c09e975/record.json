@@ -1,0 +1,33 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 2",
+  "ecli": "ECLI:CZ:OSPH02:2021:44.C.49.2020.3",
+  "docket": "44 C 49/2020-27",
+  "date": "2021-03-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/d46f4952-c81c-43bd-a699-c60f0c09e975",
+  "source_sha256": "401bb89b973dd8ef6506c346818b89b37d90acd73ee5e54c041995418f8bbd13",
+  "source_id": "d46f4952-c81c-43bd-a699-c60f0c09e975",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "44 C 49/2020-27",
+    "soud": "Obvodní soud pro Prahu 2",
+    "autor": "Mgr. Libor Zhříval",
+    "ecli": "ECLI:CZ:OSPH02:2021:44.C.49.2020.3",
+    "predmetRizeni": "O zaplacení 7 675 Kč s příslušenstvím",
+    "datumVydani": "2021-03-05",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 2395 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/d46f4952-c81c-43bd-a699-c60f0c09e975"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
