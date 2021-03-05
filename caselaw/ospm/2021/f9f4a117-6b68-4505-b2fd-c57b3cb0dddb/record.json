@@ -1,0 +1,50 @@
+{
+  "record_type": "case-law",
+  "court": "Okresní soud Plzeň-město",
+  "ecli": "ECLI:CZ:OSPM:2021:36.C.10.2021.1",
+  "docket": "36 C 10/2021-42",
+  "date": "2021-03-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-20",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/f9f4a117-6b68-4505-b2fd-c57b3cb0dddb",
+  "source_sha256": "8c52c656c98fe9bcf3346198a72ce8335d9aa30790669d1823115f3920f87158",
+  "source_id": "f9f4a117-6b68-4505-b2fd-c57b3cb0dddb",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "36 C 10/2021-42",
+    "soud": "Okresní soud Plzeň-město",
+    "autor": "Mgr. Bc. Martin Havlík",
+    "ecli": "ECLI:CZ:OSPM:2021:36.C.10.2021.1",
+    "predmetRizeni": "O zaplacení [částka] s příslušenstvím",
+    "datumVydani": "2021-03-05",
+    "datumZverejneni": "2021-05-20",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o úvěru"
+    ],
+    "zminenaUstanoveni": [
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 101 z. č. 99/1963 Sb.",
+      "§ 1970 z. č. 89/2012 Sb.",
+      "§ 2991 z. č. 89/2012 Sb.",
+      "§ 115a z. č. 99/1963 Sb.",
+      "§ 2 nař. vl. č. 351/2013 Sb.",
+      "§ 89 z. č. 257/2016 Sb.",
+      "§ 658 z. č. 89/2012 Sb.",
+      "§  vyhl. č. 254/2015 Sb.",
+      "§ 2395 z. č. 89/2012 Sb.",
+      "§ 87 z. č. 257/2016 Sb.",
+      "§ 588 z. č. 89/2012 Sb.",
+      "§ 573 z. č. 89/2012 Sb.",
+      "§ 142a z. č. 99/1963 Sb.",
+      "§ 84 z. č. 257/2016 Sb.",
+      "§ 7 z. č. 89/2012 Sb.",
+      "§ 211 z. č. 40/2009 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/f9f4a117-6b68-4505-b2fd-c57b3cb0dddb"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
