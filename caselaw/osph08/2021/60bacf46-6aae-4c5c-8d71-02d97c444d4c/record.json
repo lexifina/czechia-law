@@ -1,0 +1,42 @@
+{
+  "record_type": "case-law",
+  "court": "Obvodní soud pro Prahu 8",
+  "ecli": "ECLI:CZ:OSPH08:2021:22.C.110.2020.2",
+  "docket": "22 C 110/2020-93",
+  "date": "2021-03-05",
+  "date_basis": "datumVydani: official decision date; not a declaration of legal finality or enforceability",
+  "publication_date": "2021-05-31",
+  "source": "https://rozhodnuti.justice.cz/api/finaldoc/60bacf46-6aae-4c5c-8d71-02d97c444d4c",
+  "source_sha256": "174e8d9f214fb14535fba35db6434f40e350b19ff4e106600519014cd98ab525",
+  "source_id": "60bacf46-6aae-4c5c-8d71-02d97c444d4c",
+  "text_status": "official anonymised structured decision; header, verdict, justification and information preserved",
+  "source_listing": {
+    "jednaciCislo": "22 C 110/2020-93",
+    "soud": "Obvodní soud pro Prahu 8",
+    "autor": "Mgr. Jan Maruška",
+    "ecli": "ECLI:CZ:OSPH08:2021:22.C.110.2020.2",
+    "predmetRizeni": "o zaplacení 20.000 Kč s příslušenstvím",
+    "datumVydani": "2021-03-05",
+    "datumZverejneni": "2021-05-31",
+    "klicovaSlova": [
+      "peněžité plnění",
+      "postoupení pohledávky",
+      "smlouva o půjčce"
+    ],
+    "zminenaUstanoveni": [
+      "§ 14b vyhl. č. 177/1996 Sb.",
+      "§ 142 z. č. 99/1963 Sb.",
+      "§ 1879 z. č. 89/2012 Sb.",
+      "§ 149 z. č. 99/1963 Sb.",
+      "§ 160 z. č. 99/1963 Sb.",
+      "§ 137 z. č. 99/1963 Sb.",
+      "§ 657 z. č. 40/1964 Sb.",
+      "§ 517 nař. vl. č. 142/1994 Sb.",
+      "§ 3028 z. č. 89/2012 Sb."
+    ],
+    "odkaz": "https://rozhodnuti.justice.cz/api/finaldoc/60bacf46-6aae-4c5c-8d71-02d97c444d4c"
+  },
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0
+}
